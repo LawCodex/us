@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1984—Pub. L. 98–614, § 3(e)(3), Nov. 8, 1984, 98 Stat. 3193, substituted “passage” for “disapproval” in item 912.
+1984—Pub. L. 98–614, § 3(e)(3), Nov. 8, 1984, 98 Stat. 3193, substituted “passage” for “disapproval” in item 912.
 
-1977—Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 29, reenacted chapter heading and items 901 to 903, 905 to 909, and 911 without change, substituted “plan” for “plans” in item 904 and “Introduction and reference of resolution” for “Reference of resolution to committee” in item 910, inserted “; vote on final disapproval” in item 912, and omitted item 913 “Decisions without debate on motion to postpone or proceed”.
+1977—Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 29, reenacted chapter heading and items 901 to 903, 905 to 909, and 911 without change, substituted “plan” for “plans” in item 904 and “Introduction and reference of resolution” for “Reference of resolution to committee” in item 910, inserted “; vote on final disapproval” in item 912, and omitted item 913 “Decisions without debate on motion to postpone or proceed”.
 
-## § 901. Purpose
+## § 901. Purpose
 
 **(a)** The Congress declares that it is the policy of the United States—
 
@@ -45,13 +45,13 @@ retrieved: 2026-10-11
 
 **(d)** The President shall from time to time examine the organization of all agencies and shall determine what changes in such organization are necessary to carry out any policy set forth in subsection (a) of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 394; Pub. L. 92–179, § 1, Dec. 10, 1971, 85 Stat. 574; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 29.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 394; Pub. L. 92–179, § 1, Dec. 10, 1971, 85 Stat. 574; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 29.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 133z. | June 20, 1949, ch. 226, § 2, 63 Stat. 203. |
+|  | 5 U.S.C. 133z. | June 20, 1949, ch. 226, § 2, 63 Stat. 203. |
 
 In subsection (a), the words “from time to time examine” are substituted for “examine and from time to time reexamine” since the initial examination has been executed. The words “of the Government” following “agencies” are omitted as unnecessary in view of the definition of “agency” in section 902. In subsection (a)(1), the words “of the Government” following “executive branch” are omitted as unnecessary and to conform to the style of this title.
 
@@ -67,23 +67,23 @@ Section 901(c) of former Title 5, Executive Departments and Government Officers 
 
 1977—Subsecs. (a) to (d). Pub. L. 95–17 reenacted subsecs. (a) and (b) without change, added subsec. (c), and redesignated former subsec. (c) as (d).
 
-1971—Subsec. (a). Pub. L. 92–179, § 1(a), substituted “The Congress declares that it is the policy of the United States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
+1971—Subsec. (a). Pub. L. 92–179, § 1(a), substituted “The Congress declares that it is the policy of the United States” for “The President shall from time to time examine the organization of all agencies and shall determine what changes therein are necessary to accomplish the following purposes” preceding par. (1).
 
-Subsec. (c). Pub. L. 92–179, § 1(b), added subsec. (c) consisting of provisions formerly set out preceding par. (1) of subsec. (a).
+Subsec. (c). Pub. L. 92–179, § 1(b), added subsec. (c) consisting of provisions formerly set out preceding par. (1) of subsec. (a).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–614, § 1, Nov. 8, 1984, 98 Stat. 3192, provided: “That this Act [amending sections 903 to 906 and 908 to 912 of this title] may be cited as the ‘Reorganization Act Amendments of 1984’.”
+Pub. L. 98–614, § 1, Nov. 8, 1984, 98 Stat. 3192, provided: “That this Act [amending sections 903 to 906 and 908 to 912 of this title] may be cited as the ‘Reorganization Act Amendments of 1984’.”
 
 **Short Title of 1977 Amendment**
 
-Pub. L. 95–17, § 1, Apr. 6, 1977, 91 Stat. 29, provided: “That this Act [amending this chapter] may be cited as the ‘Reorganization Act of 1977’.”
+Pub. L. 95–17, § 1, Apr. 6, 1977, 91 Stat. 29, provided: “That this Act [amending this chapter] may be cited as the ‘Reorganization Act of 1977’.”
 
 **National Commission on Executive Organization**
 
-Pub. L. 100–527, § 17, Oct. 25, 1988, 102 Stat. 2645, directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmit to Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. [President did not transmit such notification to Congress and thus section ceased to be effective 30 days after Mar. 15, 1989.]
+Pub. L. 100–527, § 17, Oct. 25, 1988, 102 Stat. 2645, directed President, within 30 days after Mar. 15, 1989, to make a determination as to whether the national interest would be served by establishment of a National Commission on Executive Organization to review structural organization of executive branch of Federal Government, and stated that if President failed to transmit to Congress notification of his intent to establish such Commission section would cease to be effective 30 days after Mar. 15, 1989. [President did not transmit such notification to Congress and thus section ceased to be effective 30 days after Mar. 15, 1989.]
 
 **Executive Documents**
 
@@ -91,7 +91,7 @@ Pub. L. 100–527, § 17, Oct. 25, 1988, 102 Stat. 2645, directed President, w
 
 Ex. Ord. No. 6166, June 10, 1933, provided:
 
-**§ 1. Procurement**
+**§ 1. Procurement**
 
 The function of determination of policies and methods of procurement, warehousing, and distribution of property, facilities, structures, improvements, machinery, equipment, stores, and supplies exercised by an agency is transferred to a Procurement Division in the Treasury Department, at the head of which shall be a Director of Procurement.
 
@@ -117,15 +117,15 @@ Ex. Ord. No. 6623, Mar. 1, 1934, revoked a final paragraph of section 1 of Ex. O
 
 **Effective Date**
 
-The effective date of Ex. Ord. No. 6166, § 1, as provided for in section 22, post, was extended to Dec. 31, 1933, by Ex. Ord. No. 6224, of July 27, 1933, and the effective date of the last paragraph, subsequently revoked by Ex. Ord. No. 6623, was deferred by Ex. Ord. No. 6624 of Mar. 1, 1934, until such revocation could become effective.
+The effective date of Ex. Ord. No. 6166, § 1, as provided for in section 22, post, was extended to Dec. 31, 1933, by Ex. Ord. No. 6224, of July 27, 1933, and the effective date of the last paragraph, subsequently revoked by Ex. Ord. No. 6623, was deferred by Ex. Ord. No. 6624 of Mar. 1, 1934, until such revocation could become effective.
 
-[Subsequent to the effective date of Ex. Ord. No. 6166, § 1, certain functions affected thereby were again transferred as follows: The Public Buildings Branch of the Procurement Division was transferred to Public Buildings Administration within the Federal Works Administration by 1939 Reorg. Plan No. 1, §§ 301, 303, 4 Fed. Reg. 2729; 53 Stat. 1426, 1427; the Federal Employment Stabilization Office, created by Ex. Ord. No. 6166, § 1, as amended by Ex. Ord. No. 6624, was abolished by 1939 Reorg. Plan No. 1, § 4, 4 Fed. Reg. 2727, 53 Stat. 1423, and its functions transferred to the Executive Office of the President.]
+[Subsequent to the effective date of Ex. Ord. No. 6166, § 1, certain functions affected thereby were again transferred as follows: The Public Buildings Branch of the Procurement Division was transferred to Public Buildings Administration within the Federal Works Administration by 1939 Reorg. Plan No. 1, §§ 301, 303, 4 Fed. Reg. 2729; 53 Stat. 1426, 1427; the Federal Employment Stabilization Office, created by Ex. Ord. No. 6166, § 1, as amended by Ex. Ord. No. 6624, was abolished by 1939 Reorg. Plan No. 1, § 4, 4 Fed. Reg. 2727, 53 Stat. 1423, and its functions transferred to the Executive Office of the President.]
 
 **Supersedure of Pars. 1, 3, and 5**
 
-Section 602(b) of act June 30, 1949, ch. 288, title VI, 63 Stat. 401, eff. July 1, 1949, as renumbered from title V, section 502(b) of said act June 30, 1949 by act Sept. 5, 1950, ch. 849, §§ 6(a), (b), 7(e), 64 Stat. 583, provided that: “The provisions of the first, third, and fifth paragraphs of section 1 of Executive Order Numbered 6166 of June 10, 1933 [this Ex. Ord.], are hereby superseded, insofar as they relate to any function now administered by the Bureau of Federal Supply except functions with respect to standard contract forms.”
+Section 602(b) of act June 30, 1949, ch. 288, title VI, 63 Stat. 401, eff. July 1, 1949, as renumbered from title V, section 502(b) of said act June 30, 1949 by act Sept. 5, 1950, ch. 849, §§ 6(a), (b), 7(e), 64 Stat. 583, provided that: “The provisions of the first, third, and fifth paragraphs of section 1 of Executive Order Numbered 6166 of June 10, 1933 [this Ex. Ord.], are hereby superseded, insofar as they relate to any function now administered by the Bureau of Federal Supply except functions with respect to standard contract forms.”
 
-**§ 2. National Parks, Buildings, and Reservations**
+**§ 2. National Parks, Buildings, and Reservations**
 
 All functions of administration of public buildings, reservations, national parks, national monuments, and national cemeteries are consolidated in the National Park Service in the Department of the Interior, at the head of which shall be a Director of the National Park Service; except that where deemed desirable there may be excluded from this provision any public building or reservation which is chiefly employed as a facility in the work of a particular agency. This transfer and consolidation of functions shall include, among others, those of the former National Park Service of the Department of the Interior and the following National Cemeteries and Parks of the War Department which are located within the continental limits of the United States:
 
@@ -253,19 +253,19 @@ National Memorial Commission
 
 Rock Creek and Potomac Parkway Commission
 
-Expenditures by the Federal Government for the purposes of the Commission of Fine Arts, the George Rogers Clark Sesquicentennial Commission, and the Rushmore National Commission shall be administered by the Department of the Interior. (As amended by Ex. Ord. No. 6228 of July 28, 1933; Ex. Ord. No. 6614 of Feb. 26, 1934; Ex. Ord. No. 8428 of June 3, 1940, 5 F.R. 2132; and act Mar. 2, 1934. ch. 39, § 1, 48 Stat. 389.)
+Expenditures by the Federal Government for the purposes of the Commission of Fine Arts, the George Rogers Clark Sesquicentennial Commission, and the Rushmore National Commission shall be administered by the Department of the Interior. (As amended by Ex. Ord. No. 6228 of July 28, 1933; Ex. Ord. No. 6614 of Feb. 26, 1934; Ex. Ord. No. 8428 of June 3, 1940, 5 F.R. 2132; and act Mar. 2, 1934. ch. 39, § 1, 48 Stat. 389.)
 
 **Amendments**
 
-The enumeration of the National Cemeteries and Parks of the War Department which were transferred to the Department of the Interior was added by Ex. Ord. No. 6228, § 1, of July 28, 1933, and Ex. Ord. No. 8428 of June 3, 1940.
+The enumeration of the National Cemeteries and Parks of the War Department which were transferred to the Department of the Interior was added by Ex. Ord. No. 6228, § 1, of July 28, 1933, and Ex. Ord. No. 8428 of June 3, 1940.
 
 A provision of this section transferring the administration of national cemeteries located in foreign countries to the State Department was revoked by Ex. Ord. No. 6614 of Feb. 26, 1934.
 
 **Effective Date**
 
-See section 22 of this Ex. Ord. The transfer of national cemeteries located in the insular possessions to the Bureau of Insular Affairs, as provided in this section, was postponed until further order by Ex. Ord. No. 6228, § 3, of July 28, 1933.
+See section 22 of this Ex. Ord. The transfer of national cemeteries located in the insular possessions to the Bureau of Insular Affairs, as provided in this section, was postponed until further order by Ex. Ord. No. 6228, § 3, of July 28, 1933.
 
-**§ 3. Investigations**
+**§ 3. Investigations**
 
 All functions now exercised by the Bureau of Prohibition of the Department of Justice with respect to the granting of permits under the national prohibition laws are transferred to the Division of Internal Revenue in the Treasury Department.
 
@@ -273,19 +273,19 @@ All functions now exercised by the Bureau of Prohibition with respect to investi
 
 All other functions now performed by the Bureau of Prohibition are transferred to such divisions in the Department of Justice as in the judgment of the Attorney General may be desirable.
 
-**§ 4. Disbursement**
+**§ 4. Disbursement**
 
-[Section, as amended by Ex. Ord. No. 6728, May 29, 1934; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; and 1940 Reorg. Plan No. IV, §§ 3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, which provided that the function of disbursement of moneys of the United States exercised by any agency [except United States marshals; the Post Office Department; the Postmaster General; the Board of Trustees of the Postal Savings System; and those disbursement functions of the War Department, Navy Department (including the Marine Corps), and the Panama Canal, not pertaining to departmental salaries in the District of Columbia] were transferred to the [Fiscal Service of the] Treasury Department and, together with the Office of Disbursing Clerk of that department, was consolidated in a Division of Disbursement, at the head of which was a Chief Disbursing Officer, that the Division of Disbursement of the Treasury Department was authorized to establish local offices, or to delegate the exercise of its functions locally to officers or employees of other agencies, according as the interests of efficiency and economy might require, that the Division of Disbursement would disburse moneys only upon the certification of persons by law duly authorized to incur obligations upon behalf of the United States and that the function of accountability for improper certification would be transferred to such persons, and no disbursing officer would be held accountable therefor, was repealed and reenacted as section 3321 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, the first section of which enacted Title 31.]
+[Section, as amended by Ex. Ord. No. 6728, May 29, 1934; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; and 1940 Reorg. Plan No. IV, §§ 3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, which provided that the function of disbursement of moneys of the United States exercised by any agency [except United States marshals; the Post Office Department; the Postmaster General; the Board of Trustees of the Postal Savings System; and those disbursement functions of the War Department, Navy Department (including the Marine Corps), and the Panama Canal, not pertaining to departmental salaries in the District of Columbia] were transferred to the [Fiscal Service of the] Treasury Department and, together with the Office of Disbursing Clerk of that department, was consolidated in a Division of Disbursement, at the head of which was a Chief Disbursing Officer, that the Division of Disbursement of the Treasury Department was authorized to establish local offices, or to delegate the exercise of its functions locally to officers or employees of other agencies, according as the interests of efficiency and economy might require, that the Division of Disbursement would disburse moneys only upon the certification of persons by law duly authorized to incur obligations upon behalf of the United States and that the function of accountability for improper certification would be transferred to such persons, and no disbursing officer would be held accountable therefor, was repealed and reenacted as section 3321 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, the first section of which enacted Title 31.]
 
 **Amendments**
 
-The bracketed provisions in the first sentence of section 4 of Ex. Ord. No. 6166 reflect the changes effected by 1940 Reorg. Plan No. IV, §§ 3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, 1235, Ex. Ord. No. 6728, and 1940 Reorg. Plan No. III, § 1(a)(1), 5 F.R. 2107, 54 Stat. 1231, respectively.
+The bracketed provisions in the first sentence of section 4 of Ex. Ord. No. 6166 reflect the changes effected by 1940 Reorg. Plan No. IV, §§ 3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, 1235, Ex. Ord. No. 6728, and 1940 Reorg. Plan No. III, § 1(a)(1), 5 F.R. 2107, 54 Stat. 1231, respectively.
 
 **Effective Date**
 
 The effective date of section 4 of Ex. Ord. No. 6166, originally fixed by section 22 of this Ex. Ord., was subsequently postponed as follows: to Dec. 31, 1933, by Ex. Ord. No. 6224 of July 27, 1933; to June 30, 1934 (insofar as not already effected prior to Dec. 31, 1933), by Ex. Ord. No. 6540 of Dec. 28, 1933; to Dec. 31, 1934 (insofar as not already effected prior to June 30, 1934), by Ex. Ord. No. 6727 of May 29, 1934; to June 30, 1935, by Ex. Ord. No. 6927 of Dec. 31, 1934; to Dec. 31, 1935 (insofar as not already effected prior to June 30, 1934), by Ex. Ord. No. 7077 of June 15, 1935; to June 30, 1936 (insofar as not already effected prior to Dec. 31, 1935), by Ex. Ord. No. 7261 of Dec. 31, 1935. Each of these orders contained a provision that the changes therein delayed might be made sooner effective by order of the Secretary of the Treasury approved by the President.
 
-**§ 5. Claims By or Against the United States**
+**§ 5. Claims By or Against the United States**
 
 The functions of prosecuting in the courts of the United States claims and demands by, and offenses against, the Government of the United States and of defending claims and demands against the Government, and of supervising the work of United States attorneys, marshals, and clerks in connection therewith, now exercised by any agency or officer, are transferred to the Department of Justice.
 
@@ -301,7 +301,7 @@ With regard to legal work performed by the Veterans’ Administration in connect
 
 The effective date of the first paragraph of this section, insofar as it affected the functions of the General Counsel for the Bureau of Internal Revenue, was postponed until Oct. 10, 1933, by Ex. Ord. No. 6244 of Aug. 8, 1933.
 
-**§ 6. Insular Courts**
+**§ 6. Insular Courts**
 
 The United States Court for China, the District Court of the United States for the Panama Canal Zone, and the District Court of the Virgin Islands of the United States are transferred to the Department of Justice.
 
@@ -309,13 +309,13 @@ The United States Court for China, the District Court of the United States for t
 
 Ex. Ord. No. 6243, Aug. 5, 1933, provided that “the effective date of the transfer to the Department of Justice of the District Court of the United States for the Panama Canal Zone is hereby postponed to October 4, 1933.”
 
-**§ 7. Solicitors**
+**§ 7. Solicitors**
 
 The Solicitor for the Department of Commerce is transferred from the Department of Justice to the Department of Commerce.
 
 The Solicitor for the Department of Labor is transferred from the Department of Justice to the Department of Labor.
 
-**§ 8. Internal Revenue**
+**§ 8. Internal Revenue**
 
 The Bureaus of Internal Revenue and or Industrial Alcohol of the Treasury Department are consolidated in a Division of Internal Revenue, at the head of which shall be a Commissioner of Internal Revenue.
 
@@ -323,39 +323,39 @@ The Bureaus of Internal Revenue and or Industrial Alcohol of the Treasury Depart
 
 The effective date of section 8 of Ex. Ord. No. 6166, originally fixed by section 22 of the same order, post, was subsequently postponed as follows: to Dec. 31, 1933, by Ex. Ord. No. 6224 of July 27, 1933; to June 30, 1934, by Ex. Ord. No. 6540 of Dec. 28, 1933. Said orders, however, contained a provision whereby the changes thereby delayed might be sooner effected by order of the Secretary of the Treasury approved by the President.
 
-**§ 9. Assistant Secretary of Commerce**
+**§ 9. Assistant Secretary of Commerce**
 
 The Assistant Secretary of Commerce for Aeronautics shall be an Assistant Secretary of Commerce and shall perform such functions as the Secretary of Commerce may designate.
 
-**§ 10. Official Register**
+**§ 10. Official Register**
 
 The function of preparation of the Official Register is transferred from the Bureau of the Census to the Civil Service Commission.
 
-**§ 11. Statistics of Cities**
+**§ 11. Statistics of Cities**
 
 The function of the Bureau of the Census of the Department of Commerce of compiling statistics of cities under 100,000 population is abolished for the period ending June 30, 1935.
 
-**§ 12. Shipping Board**
+**§ 12. Shipping Board**
 
 The functions of the United States Shipping Board including those over and in respect to the United States Shipping Board Merchant Fleet Corporation are transferred to the Department of Commerce, and the United States Shipping Board is abolished.
 
-**§ 13. National Screw Thread Commission**
+**§ 13. National Screw Thread Commission**
 
 The National Screw Thread Commission is abolished, and its records, property, facilities, equipment, and supplies are transferred to the Department of Commerce.
 
-**§ 14. Immigration and Naturalization**
+**§ 14. Immigration and Naturalization**
 
 The Bureaus of Immigration and of Naturalization of the Department of Labor are consolidated as an Immigration and Naturalization Service of the Department of Labor, at the head of which shall be a Commissioner of Immigration and Naturalization.
 
-**§ 15. Vocational Education**
+**§ 15. Vocational Education**
 
 The functions of the Federal Board for Vocational Education are transferred to the Department of the Interior, and the Board shall act in an advisory capacity without compensation.
 
-**§ 16. Apportionment of Appropriations**
+**§ 16. Apportionment of Appropriations**
 
 The functions of making, waiving, and modifying apportionments of appropriations are transferred to the Director of the Bureau of the Budget.
 
-**§ 17. Coordinating Service**
+**§ 17. Coordinating Service**
 
 The Federal Coordinating Service is abolished.
 
@@ -363,11 +363,11 @@ The Federal Coordinating Service is abolished.
 
 The effective date of this section originally fixed by section 22 of this Ex. Ord., was subsequently deferred to Oct. 10, 1933, by Ex. Ord. No. 6239 of Aug. 2, 1933.
 
-**§ 18. Functions Abolished**
+**§ 18. Functions Abolished**
 
 Section 18 of Ex. Ord. No. 6166, which provided for the partial abolition of cooperative vocational education payments for agricultural experiment stations; cooperative agricultural extension work; and endowment and maintenance of colleges for the benefit of agriculture and the mechanical arts, was revoked by Ex. Ord. No. 6536 of Feb. 6, 1934.
 
-**§ 19. General Provisions**
+**§ 19. General Provisions**
 
 Each agency, all the functions of which are transferred to or consolidated with another agency, is abolished.
 
@@ -381,13 +381,13 @@ All personnel employed in connection with the work of an abolished agency or fun
 
 The effective date of the last paragraph of this section, originally fixed by section 22, post, was deferred as to employees separated from service under sections 2 and 15, ante, until Sept. 30, 1933, by Ex. Ord. No. 6227 of July 27, 1933. As to employees separated under section 12, ante, a similar deferment to Sept. 30, 1933, was made by Ex. Ord. No. 6245 of Aug. 9, 1933.
 
-**§ 20. Appropriations**
+**§ 20. Appropriations**
 
 Such portions of the unexpended balances of appropriations for any abolished agency or function disposed of shall be transferred to the successor agency as the Director of the Budget shall deem necessary.
 
 Unexpended balances of appropriations for an abolished agency or function disposed of, not so transferred by the Director of the Budget, shall, in accordance with law, be impounded and returned to the Treasury.
 
-**§ 21. Definitions**
+**§ 21. Definitions**
 
 As used in this order—
 
@@ -399,7 +399,7 @@ As used in this order—
 
 “Function disposed of” means any function eliminated or transferred.
 
-**§ 22. Effective Date**
+**§ 22. Effective Date**
 
 In accordance with law, this order shall become effective 61 days from its date: *Provided,* That in case it shall appear to the President that the interests of economy require that any transfer, consolidation, or elimination be delayed beyond the date this order becomes effective, he may, in his discretion, fix a later date therefor, and he may for like cause further defer such date from time to time. (Promulgated June 10, 1933.)
 
@@ -409,13 +409,13 @@ Executive Order No. 7261, promulgated December 31, 1935, provided that “except
 
 Executive Order No. 7980, promulgated September 29, 1938, provided: “That the transfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, so far as they relate to the said section 4, be further delayed until December 31, 1938, with respect to the function of disbursement now exercised by United States Marshals under the Department of Justice.”
 
-Functions relating to disbursement by United States marshals which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, were transferred to and vested in Department of Justice to be exercised by United States marshals under supervision of Attorney General in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, § 3, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
+Functions relating to disbursement by United States marshals which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, were transferred to and vested in Department of Justice to be exercised by United States marshals under supervision of Attorney General in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, § 3, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 
-Functions relating to disbursement of postal revenues and all other funds under jurisdiction of Post Office Department, Postmaster General, and Board of Trustees of Postal Savings System which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, set out in note under this section, were transferred to and vested in (a) said Board of Trustees as to postal savings disbursements, and (b) Post Office Department as to all other disbursements involved, such functions to be exercised by postmasters and other authorized disbursing agents of Post Office Department and of Postal Savings System in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, § 4, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
+Functions relating to disbursement of postal revenues and all other funds under jurisdiction of Post Office Department, Postmaster General, and Board of Trustees of Postal Savings System which would otherwise have become functions of Treasury Department on July 1, 1940, by virtue of Ex. Ord. No. 6166, as amended, set out in note under this section, were transferred to and vested in (a) said Board of Trustees as to postal savings disbursements, and (b) Post Office Department as to all other disbursements involved, such functions to be exercised by postmasters and other authorized disbursing agents of Post Office Department and of Postal Savings System in accordance with existing statutes pertaining to such functions, by Reorg. Plan No. IV of 1940, § 4, eff. June 30, 1940. See, also, sections 13–15 of said plan for provisions relating to transfer of functions of department heads, records, property, personnel, and funds.
 
-Public Buildings Branch of Procurement Division and its functions and personnel were transferred to Public Buildings Administration, and functions of Secretary of Agriculture and Director of Procurement Division relating to administration thereof and to selection of sites for public buildings were transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, §§ 301, 303, effective July 1, 1939. See also sections 307–310 of said plan for provisions relating to transfer of records, property, funds, and personnel.
+Public Buildings Branch of Procurement Division and its functions and personnel were transferred to Public Buildings Administration, and functions of Secretary of Agriculture and Director of Procurement Division relating to administration thereof and to selection of sites for public buildings were transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, §§ 301, 303, effective July 1, 1939. See also sections 307–310 of said plan for provisions relating to transfer of records, property, funds, and personnel.
 
-## § 902. Definitions
+## § 902. Definitions
 
 For the purpose of this chapter—
 
@@ -431,7 +431,7 @@ but does not include the Government Accountability Office or the Comptroller Gen
 
 **(3)** “officer” is not limited by section 2104 of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 394; Pub. L. 90–83, § 1(98), Sept. 11, 1967, 81 Stat. 220; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 30; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 394; Pub. L. 90–83, § 1(98), Sept. 11, 1967, 81 Stat. 220; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 30; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
@@ -439,12 +439,12 @@ but does not include the Government Accountability Office or the Comptroller Gen
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (1) | 5 U.S.C. 133z–5. | June 20, 1949, ch. 226, § 7, 63 Stat. 205. |
-| (2) | 5 U.S.C. 133z–6. | June 20, 1949, ch. 226, § 8, 63 Stat. 206. |
+| (1) | 5 U.S.C. 133z–5. | June 20, 1949, ch. 226, § 7, 63 Stat. 205. |
+| (2) | 5 U.S.C. 133z–6. | June 20, 1949, ch. 226, § 8, 63 Stat. 206. |
 
-In paragraph (1)(A), the words “an Executive agency or part thereof” are coextensive with and substituted for “any executive department, commission, council, independent establishment, Government corporation, board, bureau, division, service, . . . authority, administration, or other establishment, in the executive branch of the Government” and to conform to the definition in section 105.
+In paragraph (1)(A), the words “an Executive agency or part thereof” are coextensive with and substituted for “any executive department, commission, council, independent establishment, Government corporation, board, bureau, division, service, . . . authority, administration, or other establishment, in the executive branch of the Government” and to conform to the definition in section 105.
 
-In paragraph (1)(B), the words “an office or officer in the civil service or uniformed services in or under an Executive agency” are substituted for “office, officer, . . . in the executive branch of the Government” to conform to the definitions in sections 105, 2101, and 2104.
+In paragraph (1)(B), the words “an office or officer in the civil service or uniformed services in or under an Executive agency” are substituted for “office, officer, . . . in the executive branch of the Government” to conform to the definitions in sections 105, 2101, and 2104.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -470,7 +470,7 @@ Section 902(a) of former Title 5, Executive Departments and Government Officers 
 
 Amendment by Pub. L. 90–83 effective Sept. 6, 1966, for all purposes, see section 9(h) of Pub. L. 90–83, set out as a note under section 5102 of this title.
 
-## § 903. Reorganization plans
+## § 903. Reorganization plans
 
 **(a)** Whenever the President, after investigation, finds that changes in the organization of agencies are necessary to carry out any policy set forth in section 901(a) of this title, he shall prepare a reorganization plan specifying the reorganizations he finds are necessary. Any plan may provide for—
 
@@ -492,7 +492,7 @@ The President shall transmit the plan (bearing an identification number) to the 
 
 **(c)** Any time during the period of 60 calendar days of continuous session of Congress after the date on which the plan is transmitted to it, but before any resolution described in section 909 has been ordered reported in either House, the President may make amendments or modifications to the plan, consistent with sections 903–905 of this title, which modifications or revisions shall thereafter be treated as a part of the reorganization plan originally transmitted and shall not affect in any way the time limits otherwise provided for in this chapter. The President may withdraw the plan any time prior to the conclusion of 90 calendar days of continuous session of Congress following the date on which the plan is submitted to Congress.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 394; Pub. L. 90–83, § 1(99), Sept. 11, 1967, 81 Stat. 220; Pub. L. 92–179, § 2, Dec. 10, 1971, 85 Stat. 574; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 30; Pub. L. 98–614, §§ 3(b)(1), (2), 4, Nov. 8, 1984, 98 Stat. 3192, 3193.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 394; Pub. L. 90–83, § 1(99), Sept. 11, 1967, 81 Stat. 220; Pub. L. 92–179, § 2, Dec. 10, 1971, 85 Stat. 574; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 30; Pub. L. 98–614, §§ 3(b)(1), (2), 4, Nov. 8, 1984, 98 Stat. 3192, 3193.)
 
 **Historical and Revision Notes**
 
@@ -500,11 +500,11 @@ The President shall transmit the plan (bearing an identification number) to the 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 133z–1. | June 20, 1949, ch. 226, § 3, 63 Stat. 203. |
+|  | 5 U.S.C. 133z–1. | June 20, 1949, ch. 226, § 3, 63 Stat. 203. |
 
 In subsection (a)(5), the words “officer in the civil service or uniformed services” are substituted for “officer” to conform to the definitions in sections 2101 and 2104.
 
-In subsection (b), the words “The President shall have a reorganization plan delivered” as substituted for “The delivery . . . shall be”.
+In subsection (b), the words “The President shall have a reorganization plan delivered” as substituted for “The delivery . . . shall be”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -516,9 +516,9 @@ Section 1(99) amends section 903(a)(5) of title 5, United States Code, to confor
 
 **Amendments**
 
-1984—Subsec. (b). Pub. L. 98–614, § 4, inserted “In addition, the President’s message shall include an implementation section which shall (1) describe in detail (A) the actions necessary or planned to complete the reorganization, (B) the anticipated nature and substance of any orders, directives, and other administrative and operational actions which are expected to be required for completing or implementing the reorganization, and (C) any preliminary actions which have been taken in the implementation process, and (2) contain a projected timetable for completion of the implementation process. The President shall also submit such further background or other information as the Congress may require for its consideration of the plan.”
+1984—Subsec. (b). Pub. L. 98–614, § 4, inserted “In addition, the President’s message shall include an implementation section which shall (1) describe in detail (A) the actions necessary or planned to complete the reorganization, (B) the anticipated nature and substance of any orders, directives, and other administrative and operational actions which are expected to be required for completing or implementing the reorganization, and (C) any preliminary actions which have been taken in the implementation process, and (2) contain a projected timetable for completion of the implementation process. The President shall also submit such further background or other information as the Congress may require for its consideration of the plan.”
 
-Subsec. (c). Pub. L. 98–614, § 3(b)(1), (2), substituted “60 calendar days” for “thirty calendar days”, and “90 calendar days” for “sixty calendar days”.
+Subsec. (c). Pub. L. 98–614, § 3(b)(1), (2), substituted “60 calendar days” for “thirty calendar days”, and “90 calendar days” for “sixty calendar days”.
 
 1977—Subsec. (a)(2). Pub. L. 95–17 inserted provision that no enforcement function or statutory program shall be abolished by the plan.
 
@@ -526,9 +526,9 @@ Subsec. (b). Pub. L. 95–17 substituted provisions limiting to three the number
 
 Subsec. (c). Pub. L. 95–17 added subsec. (c).
 
-1971—Subsec. (a). Pub. L. 92–179, § 2(a), restructured provisions covering requirements of findings of fact and certification by placing in a position preceding par. (1) provisions formerly set out following par. (6).
+1971—Subsec. (a). Pub. L. 92–179, § 2(a), restructured provisions covering requirements of findings of fact and certification by placing in a position preceding par. (1) provisions formerly set out following par. (6).
 
-Subsec. (b). Pub. L. 92–179, § 2(b), inserted provisions limiting to one plan within any period of thirty consecutive days the allowable number of plans submitted.
+Subsec. (b). Pub. L. 92–179, § 2(b), inserted provisions limiting to one plan within any period of thirty consecutive days the allowable number of plans submitted.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -536,7 +536,7 @@ Subsec. (b). Pub. L. 92–179, § 2(b), inserted provisions limiting to one pl
 
 Amendment by Pub. L. 90–83 effective Sept. 6, 1966, for all purposes, see section 9(h) of Pub. L. 90–83, set out as a note under section 5102 of this title.
 
-## § 904. Additional contents of reorganization plan
+## § 904. Additional contents of reorganization plan
 
 A reorganization plan transmitted by the President under section 903 of this title—
 
@@ -552,13 +552,13 @@ A reorganization plan transmitted by the President under section 903 of this tit
 
 A reorganization plan transmitted by the President containing provisions authorized by paragraph (2) of this section may provide that the head of an agency be an individual or a commission or board with more than one member. In the case of an appointment of the head of such an agency, the term of office may not be fixed at more than four years, the pay may not be at a rate in excess of that found by the President to be applicable to comparable officers in the executive branch, and if the appointment is not to a position in the competitive service, it shall be by the President, by and with the advice and consent of the Senate. Any reorganization plan transmitted by the President containing provisions required by paragraph (4) of this section shall provide for the transfer of unexpended balances only if such balances are used for the purposes for which the appropriation was originally made.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 395; Pub. L. 92–179, § 3, Dec. 10, 1971, 85 Stat. 575; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 31; Pub. L. 98–614, § 5(b), Nov. 8, 1984, 98 Stat. 3194.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 395; Pub. L. 92–179, § 3, Dec. 10, 1971, 85 Stat. 575; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 31; Pub. L. 98–614, § 5(b), Nov. 8, 1984, 98 Stat. 3194.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 133z–2. | June 20, 1949, ch. 226, § 4, 63 Stat. 204. |
+|  | 5 U.S.C. 133z–2. | June 20, 1949, ch. 226, § 4, 63 Stat. 204. |
 
 In paragraph (1), the words “may change” are substituted for “shall change” in view of the discretionary grant of authority reflected by the words “in such cases as the President considers necessary”.
 
@@ -570,13 +570,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1984—Par. (1). Pub. L. 98–614 inserted “, subject to section 905,”.
+1984—Par. (1). Pub. L. 98–614 inserted “, subject to section 905,”.
 
 1977—Pub. L. 95–17 struck out in provisions following par. (5) exception that, in the case of an officer of the government of the District of Columbia, the appointment of the head of an agency may be by the Commissioner or other body of that government designated in the plan.
 
 1971—Pub. L. 92–179 revised the form of the provisions covering the elements which a reorganization plan contains by moving provisions formerly set out in par. (2) to a position following par. (5).
 
-## § 905. Limitation on powers
+## § 905. Limitation on powers
 
 **(a)** A reorganization plan may not provide for, and a reorganization under this chapter may not have the effect of—
 
@@ -596,19 +596,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(b)** A provision contained in a reorganization plan may take effect only if the plan is transmitted to Congress (in accordance with section 903(b)) on or before December 31, 1984.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 396; Pub. L. 91–5, Mar. 27, 1969, 83 Stat. 6; Pub. L. 92–179, § 4, Dec. 10, 1971, 85 Stat. 576; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 31; Pub. L. 96–230, Apr. 8, 1980, 94 Stat. 329; Pub. L. 98–614, §§ 2(a), 5(a), Nov. 8, 1984, 98 Stat. 3192, 3193.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 396; Pub. L. 91–5, Mar. 27, 1969, 83 Stat. 6; Pub. L. 92–179, § 4, Dec. 10, 1971, 85 Stat. 576; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 31; Pub. L. 96–230, Apr. 8, 1980, 94 Stat. 329; Pub. L. 98–614, §§ 2(a), 5(a), Nov. 8, 1984, 98 Stat. 3192, 3193.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 133z–3(a). | June 20, 1949, ch. 226, § 5(a), 63 Stat. 205. July 2, 1964, Pub. L. 88–351, § 2, 78 Stat. 240. |
-| (b) | 5 U.S.C. 133z–3(b). | June 20, 1949, ch. 226, § 5(b), 63 Stat. 205. |
+| (a) | 5 U.S.C. 133z–3(a). | June 20, 1949, ch. 226, § 5(a), 63 Stat. 205. July 2, 1964, Pub. L. 88–351, § 2, 78 Stat. 240. |
+| (b) | 5 U.S.C. 133z–3(b). | June 20, 1949, ch. 226, § 5(b), 63 Stat. 205. |
 |  |  | Feb. 11, 1953, ch. 3, 67 Stat. 4. |
 |  |  | Mar. 25, 1955, ch. 16, 69 Stat. 14. |
-|  |  | Sept. 4, 1957, Pub. L. 85–286, § 1, 71 Stat. 611. |
+|  |  | Sept. 4, 1957, Pub. L. 85–286, § 1, 71 Stat. 611. |
 |  |  | Apr. 7, 1961, Pub. L. 87–18, 75 Stat. 41. |
-|  |  | July 2, 1964, Pub. L. 88–351, § 1, 78 Stat. 240. |
+|  |  | July 2, 1964, Pub. L. 88–351, § 1, 78 Stat. 240. |
 |  |  | June 18, 1965, Pub. L. 89–43, 79 Stat. 135. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
@@ -617,11 +617,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1984—Subsec. (a)(1). Pub. L. 98–614, § 5(a)(1), inserted “or renaming an existing executive department”.
+1984—Subsec. (a)(1). Pub. L. 98–614, § 5(a)(1), inserted “or renaming an existing executive department”.
 
-Subsec. (a)(5) to (7). Pub. L. 98–614, § 5(a)(2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+Subsec. (a)(5) to (7). Pub. L. 98–614, § 5(a)(2), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-Subsec. (b). Pub. L. 98–614, § 2(a), substituted “(in accordance with section 903(b)) on or before December 31, 1984” for “within four years of the date of enactment of the Reorganization Act of 1977”.
+Subsec. (b). Pub. L. 98–614, § 2(a), substituted “(in accordance with section 903(b)) on or before December 31, 1984” for “within four years of the date of enactment of the Reorganization Act of 1977”.
 
 1980—Subsec. (b). Pub. L. 96–230 substituted “four years” for “three years”.
 
@@ -631,9 +631,9 @@ Subsec. (a)(6), (7). Pub. L. 95–17 redesignated par. (7) as (6). Former par. (
 
 Subsec. (b). Pub. L. 95–17 substituted “within three years of the date of enactment of the Reorganization Act of 1977” for “before April 1, 1973”.
 
-1971—Subsec. (a)(7). Pub. L. 92–179, § 4(a), added par. (7).
+1971—Subsec. (a)(7). Pub. L. 92–179, § 4(a), added par. (7).
 
-Subsec. (b). Pub. L. 92–179, § 4(b), substituted “April 1, 1973” for “April 1, 1971”.
+Subsec. (b). Pub. L. 92–179, § 4(b), substituted “April 1, 1973” for “April 1, 1971”.
 
 1969—Subsec. (b). Pub. L. 91–5 substituted “April 1, 1971” for “December 31, 1968”.
 
@@ -641,9 +641,9 @@ Subsec. (b). Pub. L. 92–179, § 4(b), substituted “April 1, 1973” for �
 
 **Plan for Transportation Department Reorganization**
 
-Pub. L. 104–50, title III, § 335, Nov. 15, 1995, 109 Stat. 458, provided in part that, notwithstanding section 905(b) of this section, the President could prepare and transmit to Congress not later than the date for transmittal of the Budget Request for Fiscal Year 1997, a reorganization plan, pursuant to chapter 9 of this title, for the Department of Transportation surface transportation activities and the relationship of the Saint Lawrence Seaway Development Corporation to the Department.
+Pub. L. 104–50, title III, § 335, Nov. 15, 1995, 109 Stat. 458, provided in part that, notwithstanding section 905(b) of this section, the President could prepare and transmit to Congress not later than the date for transmittal of the Budget Request for Fiscal Year 1997, a reorganization plan, pursuant to chapter 9 of this title, for the Department of Transportation surface transportation activities and the relationship of the Saint Lawrence Seaway Development Corporation to the Department.
 
-## § 906. Effective date and publication of reorganization plans
+## § 906. Effective date and publication of reorganization plans
 
 **(a)** Except as provided under subsection (c) of this section, a reorganization plan shall be effective upon approval by the President of a resolution (as defined in section 909) with respect to such plan, if such resolution is passed by the House of Representatives and the Senate, within the first period of 90 calendar days of continuous session of Congress after the date on which the plan is transmitted to Congress. Failure of either House to act upon such resolution by the end of such period shall be the same as disapproval of the resolution.
 
@@ -657,14 +657,14 @@ Pub. L. 104–50, title III, § 335, Nov. 15, 1995, 109 Stat. 458, provided in
 
 **(d)** A reorganization plan which is effective shall be printed (1) in the Statutes at Large in the same volume as the public laws and (2) in the Federal Register.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 396; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 32; Pub. L. 98–614, § 3(a), Nov. 8, 1984, 98 Stat. 3192.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 396; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 32; Pub. L. 98–614, § 3(a), Nov. 8, 1984, 98 Stat. 3192.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a)–(c) | 5 U.S.C. 133z–4. | June 20, 1949, ch. 226, § 6, 63 Stat. 205. Sept. 4, 1957, Pub. L. 85–286, § 2, 71 Stat. 611. |
-| (d) | 5 U.S.C. 133z–9. | June 20, 1949, ch. 226, § 11, 63 Stat. 206. |
+| (a)–(c) | 5 U.S.C. 133z–4. | June 20, 1949, ch. 226, § 6, 63 Stat. 205. Sept. 4, 1957, Pub. L. 85–286, § 2, 71 Stat. 611. |
+| (d) | 5 U.S.C. 133z–9. | June 20, 1949, ch. 226, § 11, 63 Stat. 206. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -672,9 +672,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1984—Subsec. (a). Pub. L. 98–614, § 3(a)(1), struck out “otherwise” before “provided under subsection (c)”, substituted “shall be” for “is” before “effective”, and substituted “upon approval by the President of a resolution (as defined in section 909) with respect to such plan, if such resolution is passed by the House of Representatives and the Senate, within the first period of 90 calendar days of continuous session of Congress after the date on which the plan is transmitted to Congress. Failure of either House to act upon such resolution by the end of such period shall be the same as disapproval of the resolution” for “at the end of the first period of sixty calendar days of continuous session of Congress after the date on which the plan is transmitted to it unless, between the date of transmittal and the end of the sixty-day period, either House passes a resolution stating in substance that the House does not favor the reorganization plan.”
+1984—Subsec. (a). Pub. L. 98–614, § 3(a)(1), struck out “otherwise” before “provided under subsection (c)”, substituted “shall be” for “is” before “effective”, and substituted “upon approval by the President of a resolution (as defined in section 909) with respect to such plan, if such resolution is passed by the House of Representatives and the Senate, within the first period of 90 calendar days of continuous session of Congress after the date on which the plan is transmitted to Congress. Failure of either House to act upon such resolution by the end of such period shall be the same as disapproval of the resolution” for “at the end of the first period of sixty calendar days of continuous session of Congress after the date on which the plan is transmitted to it unless, between the date of transmittal and the end of the sixty-day period, either House passes a resolution stating in substance that the House does not favor the reorganization plan.”
 
-Subsec. (c). Pub. L. 98–614, § 3(a)(2), struck out before period at end “or, if both Houses of Congress have defeated a resolution of disapproval, may be effective at a time earlier than the expiration of the sixty-day period required by subsection (a)”.
+Subsec. (c). Pub. L. 98–614, § 3(a)(2), struck out before period at end “or, if both Houses of Congress have defeated a resolution of disapproval, may be effective at a time earlier than the expiration of the sixty-day period required by subsection (a)”.
 
 1977—Subsec. (a). Pub. L. 95–17 substituted “sixty” for “60” in two places.
 
@@ -698,7 +698,7 @@ Pub. L. 98–532, Oct. 19, 1984, 98 Stat. 2705, provided that:
 
 > Any actions taken prior to the date of enactment of this Act [Oct. 19, 1984] pursuant to a reorganization plan that is ratified and affirmed by section 1 shall be considered to have been taken pursuant to a reorganization expressly approved by Act of Congress.”
 
-## § 907. Effect on other laws, pending legal proceedings, and unexpended appropriations
+## § 907. Effect on other laws, pending legal proceedings, and unexpended appropriations
 
 **(a)** A statute enacted, and a regulation or other action made, prescribed, issued, granted, or performed in respect of or by an agency or function affected by a reorganization under this chapter, before the effective date of the reorganization, has, except to the extent rescinded, modified, superseded, or made inapplicable by or under authority of law or by the abolition of a function, the same effect as if the reorganization had not been made. However, if the statute, regulation, or other action has vested the functions in the agency from which it is removed under the reorganization plan, the function, insofar as it is to be exercised after the plan becomes effective, shall be deemed as vested in the agency under which the function is placed by the plan.
 
@@ -708,20 +708,20 @@ Pub. L. 98–532, Oct. 19, 1984, 98 Stat. 2705, provided that:
 
 **(d)** The appropriations or portions of appropriations unexpended by reason of the operation of the chapter may not be used for any purpose, but shall revert to the Treasury.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 396; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 32.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 396; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 32.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a)–(c) | 5 U.S.C. 133z–7. | June 20, 1949, ch. 226, § 9, 63 Stat. 206. |
-| (d) | 5 U.S.C. 133z–8. | June 20, 1949, ch. 226, § 10, 63 Stat. 206. |
+| (a)–(c) | 5 U.S.C. 133z–7. | June 20, 1949, ch. 226, § 9, 63 Stat. 206. |
+| (d) | 5 U.S.C. 133z–8. | June 20, 1949, ch. 226, § 10, 63 Stat. 206. |
 
 In subsections (a) and (c), the words “the provisions of” in the phrase “under this chapter” are omitted as unnecessary.
 
 In subsection (c), the words “the suit, action, or other proceeding” are substituted for “the same”.
 
-In subsection (d), the words “shall revert” are substituted for “shall be . . . returned”, and the words “impounded and” are omitted as unnecessary.
+In subsection (d), the words “shall revert” are substituted for “shall be . . . returned”, and the words “impounded and” are omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -735,25 +735,25 @@ Subsec. (c). Pub. L. 95–17 substituted “twelve months” for “12 months”
 
 Subsec. (d). Pub. L. 95–17 reenacted subsec. (d) without change.
 
-## § 908. Rules of Senate and House of Representatives on reorganization plans
+## § 908. Rules of Senate and House of Representatives on reorganization plans
 
 Sections 909 through 912 of this title are enacted by Congress—
 
-**(1)** as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions with respect to any reorganization plans transmitted to Congress (in accordance with section 903(b) of this chapter 1
+**(1)** as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of resolutions with respect to any reorganization plans transmitted to Congress (in accordance with section 903(b) of this chapter 1
 
-<sup>1</sup>  So in original. Probably should be “title”.
+<sup>1</sup> So in original. Probably should be “title”.
 
 ) on or before December 31, 1984; and they supersede other rules only to the extent that they are inconsistent therewith; and
 
 **(2)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 33; Pub. L. 98–614, § 2(b), Nov. 8, 1984, 98 Stat. 3192.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 33; Pub. L. 98–614, § 2(b), Nov. 8, 1984, 98 Stat. 3192.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 133z–10. | June 20, 1949, ch. 226, § 201, 63 Stat. 206. |
+|  | 5 U.S.C. 133z–10. | June 20, 1949, ch. 226, § 201, 63 Stat. 206. |
 
 The words “Sections 909–913 of this title” are substituted for “The following sections of this title” to reflect the codification of sections 202–206 of Title II of the Act of June 20, 1949.
 
@@ -767,17 +767,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1977—Pub. L. 95–17 substituted “Sections 909 through 912 of this title” for “Sections 909–913 of this title” in provisions preceding par. (1).
 
-## § 909. Terms of resolution
+## § 909. Terms of resolution
 
-For the purpose of sections 908 through 912 of this title, “resolution” means only a joint resolution of the Congress, the matter after the resolving clause of which is as follows: “That the Congress approves the reorganization plan numbered      transmitted to the Congress by the President on   , 19  .”, and includes such modifications and revisions as are submitted by the President under section 903(c) of this chapter. The blank spaces therein are to be filled appropriately. The term does not include a resolution which specifies more than one reorganization plan.
+For the purpose of sections 908 through 912 of this title, “resolution” means only a joint resolution of the Congress, the matter after the resolving clause of which is as follows: “That the Congress approves the reorganization plan numbered transmitted to the Congress by the President on , 19 .”, and includes such modifications and revisions as are submitted by the President under section 903(c) of this chapter. The blank spaces therein are to be filled appropriately. The term does not include a resolution which specifies more than one reorganization plan.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 33; Pub. L. 98–614, § 3(c), Nov. 8, 1984, 98 Stat. 3192.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 33; Pub. L. 98–614, § 3(c), Nov. 8, 1984, 98 Stat. 3192.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 133z–11. | June 20, 1949, ch. 226, § 202, 63 Stat. 207. |
+|  | 5 U.S.C. 133z–11. | June 20, 1949, ch. 226, § 202, 63 Stat. 207. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -789,23 +789,23 @@ Section 903(c) of this chapter, referred to in text, means section 903(c) of thi
 
 **Amendments**
 
-1984—Pub. L. 98–614 substituted “a joint resolution of the Congress” for “a resolution of either House of Congress”, and “the Congress approves” for “the     does not favor”.
+1984—Pub. L. 98–614 substituted “a joint resolution of the Congress” for “a resolution of either House of Congress”, and “the Congress approves” for “the does not favor”.
 
 1977—Pub. L. 95–17 substituted “sections 908 through 912 of this title” for “sections 908–913 of this title” and provision that the blank spaces are to be appropriately filled for provision that the first blank space is to be filled with the name of the resolving House and the other blank spaces are to be appropriately filled and inserted provision that “resolution” includes such modifications and revisions as are submitted by the President under section 903(c) of this chapter.
 
-## § 910. Introduction and reference of resolution
+## § 910. Introduction and reference of resolution
 
 **(a)** No later than the first day of session following the day on which a reorganization plan is transmitted to the House of Representatives and the Senate under section 903, a resolution, as defined in section 909, shall be introduced (by request) in the House by the chairman of the Government Operations Committee of the House, or by a Member or Members of the House designated by such chairman; and shall be introduced (by request) in the Senate by the chairman of the Governmental Affairs Committee of the Senate, or by a Member or Members of the Senate designated by such chairman.
 
 **(b)** A resolution with respect to a reorganization plan shall be referred to the Committee on Governmental Affairs of the Senate and the Committee on Government Operations of the House (and all resolutions with respect to the same plan shall be referred to the same committee) by the President of the Senate or the Speaker of the House of Representatives, as the case may be. The committee shall make its recommendations to the House of Representatives or the Senate, respectively, within 75 calendar days of continuous session of Congress following the date of such resolution’s introduction.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 33; Pub. L. 98–614, § 3(b)(3), Nov. 8, 1984, 98 Stat. 3192.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 33; Pub. L. 98–614, § 3(b)(3), Nov. 8, 1984, 98 Stat. 3192.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 133z–12. | June 20, 1949, ch. 226, § 203, 63 Stat. 207. |
+|  | 5 U.S.C. 133z–12. | June 20, 1949, ch. 226, § 203, 63 Stat. 207. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -825,17 +825,17 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 911. Discharge of committee considering resolution
+## § 911. Discharge of committee considering resolution
 
 If the committee to which is referred a resolution introduced pursuant to subsection (a) of section 910 (or, in the absence of such a resolution, the first resolution introduced with respect to the same reorganization plan) has not reported such resolution or identical resolution at the end of 75 calendar days of continuous session of Congress after its introduction, such committee shall be deemed to be discharged from further consideration of such resolution and such resolution shall be placed on the appropriate calendar of the House involved.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 92–179, § 5, Dec. 10, 1971, 85 Stat. 576; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 34; Pub. L. 98–614, § 3(b)(4), Nov. 8, 1984, 98 Stat. 3192.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 92–179, § 5, Dec. 10, 1971, 85 Stat. 576; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 34; Pub. L. 98–614, § 3(b)(4), Nov. 8, 1984, 98 Stat. 3192.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 133z–13. | June 20, 1949, ch. 226, § 204, 63 Stat. 207. |
+|  | 5 U.S.C. 133z–13. | June 20, 1949, ch. 226, § 204, 63 Stat. 207. |
 
 In subsection (a), the words “at the end of 10 calendar days . . . it is” are substituted for “before the expiration of ten calendar days . . . it shall then (but not before) be”.
 
@@ -853,7 +853,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1971—Subsec. (a). Pub. L. 92–179 substituted “20 calendar days” for “10 calendar days”.
 
-## § 912. Procedure after report or discharge of committee; debate; vote on final passage
+## § 912. Procedure after report or discharge of committee; debate; vote on final passage
 
 **(a)** When the committee has reported, or has been deemed to be discharged (under section 911) from further consideration of, a resolution with respect to a reorganization plan, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. The motion shall not be subject to amendment, or to a motion to postpone, or a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
 
@@ -869,13 +869,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(2)** the vote on final passage shall be on the resolution of the other House.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 398; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 34; Pub. L. 98–614, § 3(d), (e)(1), (2), Nov. 8, 1984, 98 Stat. 3193.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 398; Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 34; Pub. L. 98–614, § 3(d), (e)(1), (2), Nov. 8, 1984, 98 Stat. 3193.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 133z–14. | June 20, 1949, ch. 226, § 205, 63 Stat. 207. |
+|  | 5 U.S.C. 133z–14. | June 20, 1949, ch. 226, § 205, 63 Stat. 207. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -883,15 +883,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1984—Pub. L. 98–614, § 3(e)(2), substituted “passage” for “disapproval” in section catchline.
+1984—Pub. L. 98–614, § 3(e)(2), substituted “passage” for “disapproval” in section catchline.
 
-Subsec. (b). Pub. L. 98–614, § 3(d)(1), substituted “passed or rejected” for “agreed to or disagreed to”.
+Subsec. (b). Pub. L. 98–614, § 3(d)(1), substituted “passed or rejected” for “agreed to or disagreed to”.
 
-Subsec. (c). Pub. L. 98–614, § 3(d)(2), substituted “final passage” for “final approval”.
+Subsec. (c). Pub. L. 98–614, § 3(d)(2), substituted “final passage” for “final approval”.
 
-Subsec. (e). Pub. L. 98–614, § 3(e)(1), added subsec. (e).
+Subsec. (e). Pub. L. 98–614, § 3(e)(1), added subsec. (e).
 
-1977—Pub. L. 95–17 inserted “; vote on final disapproval” after “debate” in section catchline.
+1977—Pub. L. 95–17 inserted “; vote on final disapproval” after “debate” in section catchline.
 
 Subsec. (a). Pub. L. 95–17 inserted provisions that a motion to discharge a committee is not subject to a motion to postpone or to a motion to proceed to the consideration of other business and that if a motion to proceed to the consideration of the resolution is agreed to, the resolution shall remain the unfinished business of the respective House until disposed of.
 
@@ -901,10 +901,10 @@ Subsec. (c). Pub. L. 95–17 added subsec. (c).
 
 Subsec. (d). Pub. L. 95–17 added subsec. (d) which provisions were formerly set out in section 913(b) of this title.
 
-## [§ 913. Omitted]
+## [§ 913. Omitted]
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 398, providing for decision without debate with respect to motions to postpone, motions to proceed to the consideration of other business, and appeals from decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, was omitted in the general amendment of this chapter by Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 29. See section 912 of this title.
+Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 398, providing for decision without debate with respect to motions to postpone, motions to proceed to the consideration of other business, and appeals from decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, was omitted in the general amendment of this chapter by Pub. L. 95–17, § 2, Apr. 6, 1977, 91 Stat. 29. See section 912 of this title.

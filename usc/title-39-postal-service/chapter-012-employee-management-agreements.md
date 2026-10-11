@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 12—EMPLOYEE-MANAGEMENT AGREEMENTS
 
-## § 1201. Definition
+## § 1201. Definition
 
 As used in this chapter, “guards” means—
 
@@ -41,11 +41,11 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Noninterference With Collective Bargaining Agreements**
 
-Pub. L. 109–435, title V, § 505(b), Dec. 20, 2006, 120 Stat. 3236, provided that: “Except as otherwise provided by the amendment made by subsection (a) [amending section 1207 of this title], nothing in this Act [see Tables for classification] shall restrict, expand, or otherwise affect any of the rights, privileges, or benefits of either employees of or labor organizations representing employees of the United States Postal Service under chapter 12 of title 39, United States Code, the National Labor Relations Act [29 U.S.C. 151 et seq.], any handbook or manual affecting employee labor relations within the United States Postal Service, or any collective bargaining agreement.”
+Pub. L. 109–435, title V, § 505(b), Dec. 20, 2006, 120 Stat. 3236, provided that: “Except as otherwise provided by the amendment made by subsection (a) [amending section 1207 of this title], nothing in this Act [see Tables for classification] shall restrict, expand, or otherwise affect any of the rights, privileges, or benefits of either employees of or labor organizations representing employees of the United States Postal Service under chapter 12 of title 39, United States Code, the National Labor Relations Act [29 U.S.C. 151 et seq.], any handbook or manual affecting employee labor relations within the United States Postal Service, or any collective bargaining agreement.”
 
 **Labor Agreements**
 
-Pub. L. 91–375, § 10, Aug. 12, 1970, 84 Stat. 784, provided that:
+Pub. L. 91–375, § 10, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 > **“(a)** [*Wages, Hours, and Working Conditions; Parties to Agreement*] As soon as practicable after the enactment of this Act [Aug. 12, 1970], the Postmaster General and the labor organizations which as of the effective date of this section [see note below] hold national exclusive recognition rights granted by the Post Office Department, shall negotiate an agreement or agreements covering wages, hours, and working conditions of the employees represented by such labor organizations. The parties shall commence bargaining for such agreement or agreements not later than 30 days following delivery of a written request therefor by a labor organization to the Postmaster General or by the Postmaster General to a labor organization. Any agreement made pursuant to this section shall continue in force after the commencement of operations of the United States Postal Service in the same manner and to the same extent as if entered into between the Postal Service and recognized collective-bargaining representatives under chapter 12 of title 39, United States Code.
 
@@ -61,7 +61,7 @@ Pub. L. 91–375, § 10, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 [Provisions of section 10 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.]
 
-## § 1202. Bargaining units
+## § 1202. Bargaining units
 
 The National Labor Relations Board shall decide in each case the unit appropriate for collective bargaining in the Postal Service. The National Labor Relations Board shall not include in any bargaining unit—
 
@@ -81,7 +81,7 @@ The National Labor Relations Board shall decide in each case the unit appropriat
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1203. Recognition of labor organizations
+## § 1203. Recognition of labor organizations
 
 **(a)** The Postal Service shall accord exclusive recognition to a labor organization when the organization has been selected by a majority of the employees in an appropriate unit as their representative.
 
@@ -113,7 +113,7 @@ The date of enactment of this section, referred to in subsec. (b), means the dat
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1204. Elections
+## § 1204. Elections
 
 **(a)** All elections authorized under this chapter shall be conducted under the supervision of the National Labor Relations Board, or persons designated by it, and shall be by secret ballot. Each employee eligible to vote shall be provided the opportunity to choose the labor organization he wishes to represent him, from among those on the ballot, or “no union”.
 
@@ -129,7 +129,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1205. Deductions of dues
+## § 1205. Deductions of dues
 
 **(a)** When a labor organization holds exclusive recognition, or when an organization of personnel not subject to collective-bargaining agreements has consultation rights under section 1004 of this title, the Postal Service shall deduct the regular and periodic dues of the organization from the pay of all members of the organization in the unit of recognition if the Post Office Department or the Postal Service has received from each employee, on whose account such deductions are made, a written assignment which shall be irrevocable for a period of not more than one year.
 
@@ -149,7 +149,7 @@ The date of enactment of the Postal Reorganization Act, referred to in subsec. (
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1206. Collective-bargaining agreements
+## § 1206. Collective-bargaining agreements
 
 **(a)** Collective-bargaining agreements between the Postal Service and bargaining representatives recognized under section 1203 of this title shall be effective for not less than 2 years.
 
@@ -167,9 +167,9 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Use of Funds for Restructuring of Employee Compensation Practices**
 
-Pub. L. 98–396, title III, § 303, Aug. 22, 1984, 98 Stat. 1422, provided that: “None of the funds made available to the United States Postal Service under this Act [see Tables for classification] or any other Act may be used to restructure employee compensation practices as in effect under the most recently effective collective bargaining agreement under section 1206 of title 39, United States Code, except in accordance with the results of procedures set forth in section 1207 of such title.”
+Pub. L. 98–396, title III, § 303, Aug. 22, 1984, 98 Stat. 1422, provided that: “None of the funds made available to the United States Postal Service under this Act [see Tables for classification] or any other Act may be used to restructure employee compensation practices as in effect under the most recently effective collective bargaining agreement under section 1206 of title 39, United States Code, except in accordance with the results of procedures set forth in section 1207 of such title.”
 
-## § 1207. Labor disputes
+## § 1207. Labor disputes
 
 **(a)** If there is a collective-bargaining agreement in effect, no party to such agreement shall terminate or modify such agreement unless the party desiring such termination or modification serves written notice upon the other party to the agreement of the proposed termination or modification not less than 90 days prior to the expiration date thereof, or not less than 90 days prior to the time it is proposed to make such termination or modification. The party serving such notice shall notify the Federal Mediation and Conciliation Service of the existence of a dispute within 45 days after such notice, if no agreement has been reached by that time.
 
@@ -185,7 +185,7 @@ Pub. L. 98–396, title III, § 303, Aug. 22, 1984, 98 Stat. 1422, provided th
 
 **(d)** In the case of a bargaining unit whose recognized collective-bargaining representative does not have an agreement with the Postal Service, if the parties fail to reach the agreement within 90 days after the commencement of collective bargaining, a mediator shall be appointed in accordance with the terms in subsection (b) of this section, unless the parties have previously agreed to another procedure for a binding resolution of their differences. If the parties fail to reach agreement within 180 days after the commencement of collective bargaining, and if they have not agreed to another procedure for binding resolution, an arbitration board shall be established to provide conclusive and binding arbitration in accordance with the terms of subsection (c) of this section.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 735; Pub. L. 109–435, title V, § 505(a), Dec. 20, 2006, 120 Stat. 3235.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 735; Pub. L. 109–435, title V, § 505(a), Dec. 20, 2006, 120 Stat. 3235.)
 
 **Editorial Notes**
 
@@ -199,7 +199,7 @@ Pub. L. 98–396, title III, § 303, Aug. 22, 1984, 98 Stat. 1422, provided th
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1208. Suits
+## § 1208. Suits
 
 **(a)** The courts of the United States shall have jurisdiction with respect to actions brought by the National Labor Relations Board under this chapter to the same extent that they have jurisdiction with respect to actions under title 29.
 
@@ -219,7 +219,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 1209. Applicability of Federal labor laws
+## § 1209. Applicability of Federal labor laws
 
 **(a)** Employee-management relations shall, to the extent not inconsistent with provisions of this title, be subject to the provisions of subchapter II of chapter 7 of title 29.
 

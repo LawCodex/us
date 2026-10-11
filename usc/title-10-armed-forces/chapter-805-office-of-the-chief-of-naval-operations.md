@@ -23,17 +23,17 @@ A prior chapter 805, consisting of sections 8031 to 8040, related to Air Staff o
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title X, § 1012(b), Dec. 27, 2021, 135 Stat. 1892, added item 8039.
+2021—Pub. L. 117–81, div. A, title X, § 1012(b), Dec. 27, 2021, 135 Stat. 1892, added item 8039.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 505 of this title as this chapter and items 5031 to 5038 as 8031 to 8038, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 505 of this title as this chapter and items 5031 to 5038 as 8031 to 8038, respectively.
 
-1996—Pub. L. 104–106, div. A, title V, § 502(d)(2), Feb. 10, 1996, 110 Stat. 293, struck out item 5034 “Chief of Naval Operations: retirement”.
+1996—Pub. L. 104–106, div. A, title V, § 502(d)(2), Feb. 10, 1996, 110 Stat. 293, struck out item 5034 “Chief of Naval Operations: retirement”.
 
-1992—Pub. L. 102–484, div. A, title IX, § 935(b)(2), Oct. 23, 1992, 106 Stat. 2478, added item 5038.
+1992—Pub. L. 102–484, div. A, title IX, § 935(b)(2), Oct. 23, 1992, 106 Stat. 2478, added item 5038.
 
-1986—Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1048, inserted heading for new chapter 505 relating to the Office of The Chief of Naval Operations, and items 5031 to 5037. The heading for former chapter 505 relating to Secretary, Under Secretary, and Assistant Secretaries of the Navy, and former items 5031 to 5036 were struck out as part of the repeal of former chapter 505 by Pub. L. 99–433, title V, § 511(e), Oct. 1, 1986, 100 Stat. 1048.
+1986—Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1048, inserted heading for new chapter 505 relating to the Office of The Chief of Naval Operations, and items 5031 to 5037. The heading for former chapter 505 relating to Secretary, Under Secretary, and Assistant Secretaries of the Navy, and former items 5031 to 5036 were struck out as part of the repeal of former chapter 505 by Pub. L. 99–433, title V, § 511(e), Oct. 1, 1986, 100 Stat. 1048.
 
-## § 8031. Office of the Chief of Naval Operations: function; composition
+## § 8031. Office of the Chief of Naval Operations: function; composition
 
 **(a)** There is in the executive part of the Department of the Navy an Office of the Chief of Naval Operations. The function of the Office of the Chief of Naval Operations is to assist the Secretary of the Navy in carrying out his responsibilities.
 
@@ -59,7 +59,7 @@ A prior chapter 805, consisting of sections 8031 to 8040, related to Air Staff o
 
 **(c)** Except as otherwise specifically prescribed by law, the Office of the Chief of Naval Operations shall be organized in such manner, and its members shall perform such duties and have such titles, as the Secretary may prescribe.
 
-(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1048, § 5031; renumbered § 8031, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1048, § 5031; renumbered § 8031, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -77,7 +77,7 @@ A prior section 8031 was renumbered section 9031 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8032. Office of the Chief of Naval Operations: general duties
+## § 8032. Office of the Chief of Naval Operations: general duties
 
 **(a)** The Office of the Chief of Naval Operations shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Navy and to the Chief of Naval Operations.
 
@@ -93,7 +93,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(5)** perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary.
 
-(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1049, § 5032; renumbered § 8032 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
+(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1049, § 5032; renumbered § 8032 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 
 **Editorial Notes**
 
@@ -103,9 +103,9 @@ A prior section 8032 was renumbered section 9032 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5032 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5032 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “subsections (c) and (d) of section 8014” for “subsections (c) and (d) of section 5014”.
+Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “subsections (c) and (d) of section 8014” for “subsections (c) and (d) of section 5014”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,7 +113,7 @@ Subsec. (b)(1). Pub. L. 115–232, § 809(a), substituted “subsections (c) a
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8033. Chief of Naval Operations
+## § 8033. Chief of Naval Operations
 
 **(a)**
 
@@ -123,9 +123,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(A)** the officer has had significant experience in joint duty assignments; and
 
-**(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 1
+**(B)** such experience includes at least one full tour of duty in a joint duty assignment (as defined in section 664(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) as a flag officer.
 
@@ -157,13 +157,13 @@ of this title) as a flag officer.
 
 **(3)** Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Naval Operations shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
-(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1049, § 5033; amended Pub. L. 100–456, div. A, title V, § 519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–136, div. A, title V, § 501(a), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(B), Nov. 25, 2015, 129 Stat. 880; renumbered § 8033 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–283, div. A, title XVIII, § 1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, § 1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, § 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
+(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1049, § 5033; amended Pub. L. 100–456, div. A, title V, § 519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–136, div. A, title V, § 501(a), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 114–92, div. A, title VIII, § 802(d)(4)(B), Nov. 25, 2015, 129 Stat. 880; renumbered § 8033 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840; Pub. L. 116–283, div. A, title XVIII, § 1808(d)(3), as added Pub. L. 117–81, div. A, title XVII, § 1701(r)(2), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 116–283, div. A, title XVIII, § 1847(e)(6)(B), Jan. 1, 2021, 134 Stat. 4257; Pub. L. 117–81, div. A, title XVII, § 1701(r)(1)(B), Dec. 27, 2021, 135 Stat. 2149.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 664(f) of this title, referred to in subsec. (a)(2)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
+Section 664(f) of this title, referred to in subsec. (a)(2)(B), was redesignated as section 664(d) of this title by Pub. L. 114–328, div. A, title V, § 510(g)(1), Dec. 23, 2016, 130 Stat. 2111.
 
 **Prior Provisions**
 
@@ -179,13 +179,13 @@ Another prior section 8034 was renumbered section 8033 of this title.
 
 **Amendments**
 
-2021—Subsec. (d)(5). Pub. L. 116–283, § 1847(e)(6)(B), which directed substitution of “, 3103, and 4274” for “and 2547”, was repealed by Pub. L. 117–81, § 1701(r)(1)(B).
+2021—Subsec. (d)(5). Pub. L. 116–283, § 1847(e)(6)(B), which directed substitution of “, 3103, and 4274” for “and 2547”, was repealed by Pub. L. 117–81, § 1701(r)(1)(B).
 
-Pub. L. 116–283, § 1808(d)(3), as added by Pub. L. 117–81, § 1701(r)(2), substituted “and 3104” for “and 2547”.
+Pub. L. 116–283, § 1808(d)(3), as added by Pub. L. 117–81, § 1701(r)(2), substituted “and 3104” for “and 2547”.
 
-2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5033 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5033 of this title as this section.
 
-Subsec. (c). Pub. L. 115–232, § 809(a), substituted “section 8013(f)” for “section 5013(f)”.
+Subsec. (c). Pub. L. 115–232, § 809(a), substituted “section 8013(f)” for “section 5013(f)”.
 
 2015—Subsec. (d)(5). Pub. L. 114–92 substituted “sections 171 and 2547” for “section 171”.
 
@@ -207,13 +207,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Reappointment of Incumbent Chief of Naval Operations**
 
-Pub. L. 108–136, div. A, title V, § 508, Nov. 24, 2003, 117 Stat. 1458, provided that: “Notwithstanding the provisions of section 5033(a)(1) [now 8033(a)(1)] of title 10, United States Code, the President, by and with the advice and consent of the Senate, may reappoint the officer serving as Chief of Naval Operations on October 1, 2003, for an additional term as Chief of Naval Operations. Such a reappointment shall be for a term of not more than two years.”
+Pub. L. 108–136, div. A, title V, § 508, Nov. 24, 2003, 117 Stat. 1458, provided that: “Notwithstanding the provisions of section 5033(a)(1) [now 8033(a)(1)] of title 10, United States Code, the President, by and with the advice and consent of the Senate, may reappoint the officer serving as Chief of Naval Operations on October 1, 2003, for an additional term as Chief of Naval Operations. Such a reappointment shall be for a term of not more than two years.”
 
 **Waiver of Qualifications for Appointment as Service Chief**
 
 For provisions giving President temporary authority to waive requirements in subsec. (a)(2) of this section, see section 532(c) of Pub. L. 99–433, title V, Oct. 1, 1986, 100 Stat. 1063, which was formerly set out as a note under section 3033 of this title.
 
-## § 8035. Vice Chief of Naval Operations
+## § 8035. Vice Chief of Naval Operations
 
 **(a)** There is a Vice Chief of Naval Operations, appointed by the President, by and with the advice and consent of the Senate, from officers on the active-duty list in the line of the Navy serving in grades above captain and eligible to command at sea.
 
@@ -227,7 +227,7 @@ For provisions giving President temporary authority to waive requirements in sub
 
 **(2)** if there is a vacancy in the office of the Vice Chief of Naval Operations or the Vice Chief of Naval Operations is absent or disabled, unless the President directs otherwise, the most senior officer of the Navy in the Office of the Chief of Naval Operations who is not absent or disabled and who is not restricted in performance of duty shall perform the duties of the Chief of Naval Operations until a successor to the Chief of Naval Operations or the Vice Chief of Naval Operations is appointed or until the absence or disability of the Chief of Naval Operations or Vice Chief of Naval Operations ceases, whichever occurs first.
 
-(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1050, § 5035; renumbered § 8035, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1050, § 5035; renumbered § 8035, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -249,13 +249,13 @@ Another prior section 8035 was renumbered section 9034 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8036. Deputy Chiefs of Naval Operations
+## § 8036. Deputy Chiefs of Naval Operations
 
 **(a)** There are Deputy Chiefs of Naval Operations in the Office of the Chief of Naval Operations, detailed by the Secretary of the Navy from officers on the active-duty list of the Navy serving in grades above captain. The Secretary of the Navy shall prescribe the number of Deputy Chiefs of Naval Operations under this section and Assistant Chiefs of Naval Operations under section 8037 of this title, for a total of not more than eight positions.
 
 **(b)** The Deputy Chiefs of Naval Operations are charged, under the direction of the Chief of Naval Operations, with the execution of the functions of their respective divisions. Orders issued by the Deputy Chiefs of Naval Operations in performing the duties assigned them are considered as coming from the Chief of Naval Operations.
 
-(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1051, § 5036; amended Pub. L. 108–375, div. A, title V, § 502(a), Oct. 28, 2004, 118 Stat. 1875; Pub. L. 110–181, div. A, title IX, § 902(b)(1), Jan. 28, 2008, 122 Stat. 273; renumbered § 8036 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
+(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1051, § 5036; amended Pub. L. 108–375, div. A, title V, § 502(a), Oct. 28, 2004, 118 Stat. 1875; Pub. L. 110–181, div. A, title IX, § 902(b)(1), Jan. 28, 2008, 122 Stat. 273; renumbered § 8036 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 
 **Editorial Notes**
 
@@ -267,9 +267,9 @@ A prior section 8036 was renumbered section 9036 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5036 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5036 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8037” for “section 5037”.
+Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8037” for “section 5037”.
 
 2008—Subsec. (a). Pub. L. 110–181 substituted “There are Deputy Chiefs of Naval Operations in the Office of the Chief of Naval Operations,” for “There are in the Office of the Chief of Naval Operations not more than five Deputy Chiefs of Naval Operations,” and inserted at end “The Secretary of the Navy shall prescribe the number of Deputy Chiefs of Naval Operations under this section and Assistant Chiefs of Naval Operations under section 5037 of this title, for a total of not more than eight positions.”
 
@@ -281,13 +281,13 @@ Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8037” for 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8037. Assistant Chiefs of Naval Operations
+## § 8037. Assistant Chiefs of Naval Operations
 
 **(a)** There are Assistant Chiefs of Naval Operations in the Office of the Chief of Naval Operations, detailed by the Secretary of the Navy from officers on the active-duty list of the Navy and officers on the active-duty list of the Marine Corps. The Secretary of the Navy shall prescribe the number of Assistant Chiefs of Naval Operations in accordance with section 8036(a) of this title.
 
 **(b)** The Assistant Chiefs of Naval Operations shall perform such duties as the Secretary of the Navy prescribes.
 
-(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1051, § 5037; amended Pub. L. 108–375, div. A, title V, § 502(b), Oct. 28, 2004, 118 Stat. 1875; Pub. L. 110–181, div. A, title IX, § 902(b)(2), Jan. 28, 2008, 122 Stat. 273; renumbered § 8037 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
+(Added Pub. L. 99–433, title V, § 512(b), Oct. 1, 1986, 100 Stat. 1051, § 5037; amended Pub. L. 108–375, div. A, title V, § 502(b), Oct. 28, 2004, 118 Stat. 1875; Pub. L. 110–181, div. A, title IX, § 902(b)(2), Jan. 28, 2008, 122 Stat. 273; renumbered § 8037 and amended Pub. L. 115–232, div. A, title VIII, §§ 807(a)(1), 809(a), Aug. 13, 2018, 132 Stat. 1834, 1840.)
 
 **Editorial Notes**
 
@@ -299,9 +299,9 @@ A prior section 8037 was renumbered section 9037 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5037 of this title as this section.
+2018—Pub. L. 115–232, § 807(a)(1), renumbered section 5037 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8036(a)” for “section 5036(a)”.
+Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8036(a)” for “section 5036(a)”.
 
 2008—Subsec. (a). Pub. L. 110–181 substituted “There are Assistant Chiefs of Naval Operations in the Office of the Chief of Naval Operations,” for “There are in the Office of the Chief of Naval Operations not more than three Assistant Chiefs of Naval Operations,” and inserted at end “The Secretary of the Navy shall prescribe the number of Assistant Chiefs of Naval Operations in accordance with section 5036(a) of this title.”
 
@@ -313,7 +313,7 @@ Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 8036(a)” f
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8038. Director for Expeditionary Warfare
+## § 8038. Director for Expeditionary Warfare
 
 **(a)** One of the Directors within the office of the Deputy Chief of Naval Operations with responsibility for warfare requirements and programs shall be the Director for Expeditionary Warfare who shall be detailed from officers on the active-duty list of the Marine Corps.
 
@@ -321,7 +321,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** The Chief of Naval Operations shall transfer duties, responsibilities, and staff from other personnel within the Office of the Chief of Naval Operations as necessary to fully support the Director for Expeditionary Warfare.
 
-(Added Pub. L. 102–484, div. A, title IX, § 935(b)(1), Oct. 23, 1992, 106 Stat. 2478, § 5038; amended Pub. L. 103–35, title II, § 201(c)(10), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title IX, § 944, Nov. 30, 1993, 107 Stat. 1737; Pub. L. 107–107, div. A, title IX, § 932, Dec. 28, 2001, 115 Stat. 1200; Pub. L. 114–328, div. A, title V, § 502(w), Dec. 23, 2016, 130 Stat. 2104; renumbered § 8038, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Added Pub. L. 102–484, div. A, title IX, § 935(b)(1), Oct. 23, 1992, 106 Stat. 2478, § 5038; amended Pub. L. 103–35, title II, § 201(c)(10), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title IX, § 944, Nov. 30, 1993, 107 Stat. 1737; Pub. L. 107–107, div. A, title IX, § 932, Dec. 28, 2001, 115 Stat. 1200; Pub. L. 114–328, div. A, title V, § 502(w), Dec. 23, 2016, 130 Stat. 2104; renumbered § 8038, Pub. L. 115–232, div. A, title VIII, § 807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -347,7 +347,7 @@ Pub. L. 103–35 substituted “section” for “subsection”.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 8039. Deputy Commander of the Naval Sea Systems Command for the Supervision of Shipbuilding, Conversion, and Repair
+## § 8039. Deputy Commander of the Naval Sea Systems Command for the Supervision of Shipbuilding, Conversion, and Repair
 
 **(a) In General.—** The Secretary of the Navy shall establish and appoint an individual to the position of Deputy Commander of the Naval Sea Systems Command for the Supervision of Shipbuilding, Conversion, and Repair (in this section referred to as the “Deputy Commander”).
 
@@ -419,13 +419,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(ii)** indicates any additional support needed from other organizations of the Department, such as the Defense Contract Audit Agency and the Defense Contract Management Agency, for implementation.
 
-(Added Pub. L. 117–81, div. A, title X, § 1012(a), Dec. 27, 2021, 135 Stat. 1890.)
+(Added Pub. L. 117–81, div. A, title X, § 1012(a), Dec. 27, 2021, 135 Stat. 1890.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 117–81, div. A, title X, § 1012(c), Dec. 27, 2021, 135 Stat. 1892, provided that:
+Pub. L. 117–81, div. A, title X, § 1012(c), Dec. 27, 2021, 135 Stat. 1892, provided that:
 
 > “On the date that is 30 days after the date of enactment of the [James M. Inhofe] National Defense Authorization Act for Fiscal Year 2023 [Dec. 23, 2022]—
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 181—TELECOMMUNICATIONS ACCESSIBILITY FOR HEARING-IMPAIRED AND SPEECH-IMPAIRED INDIVIDUALS
 
-## § 18101. Definitions
+## § 18101. Definitions
 
 In this chapter—
 
@@ -29,9 +29,9 @@ In this chapter—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 18101 | 40:762. | Pub. L. 100–542, § 2, Oct. 28, 1988, 102 Stat. 2721. |
+| 18101 | 40:762. | Pub. L. 100–542, § 2, Oct. 28, 1988, 102 Stat. 2721. |
 
-## § 18102. Federal telecommunications system
+## § 18102. Federal telecommunications system
 
 **(a) Regulations To Ensure Accessibility.—** The Administrator of General Services, after consultation with the Architectural and Transportation Barriers Compliance Board, the Interagency Committee on Computer Support of Handicapped Employees, the Federal Communications Commission, and affected federal agencies, shall prescribe regulations to ensure that the federal telecommunications system is fully accessible to hearing-impaired and speech-impaired individuals, including federal employees, for communications with and within federal agencies.
 
@@ -49,7 +49,7 @@ In this chapter—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 18102(a) | 40:762a(a). | Pub. L. 100–542, § 3, Oct. 28, 1988, 102 Stat. 2721. |
+| 18102(a) | 40:762a(a). | Pub. L. 100–542, § 3, Oct. 28, 1988, 102 Stat. 2721. |
 | 18102(b) | 40:762a(b)(1). |  |
 | 18102(c), (d) | 40:762a(b)(2)–(5), (c). |  |
 | 18102(e) | 40:762a(b)(6). |  |
@@ -58,7 +58,7 @@ In subsection (a), the words “prescribe regulations to ensure” are substitut
 
 In subsection (c), the text of 40:762a(b)(2)–(4) and (c) is omitted as executed and obsolete. The words “In carrying out subsection (a) of this section” are omitted as unnecessary.
 
-## § 18103. Research and development
+## § 18103. Research and development
 
 **(a) Support for Research.—** The Administrator of General Services, in consultation with the Federal Communications Commission, shall seek to promote research by federal agencies, state agencies, and private entities to reduce the cost and improve the capabilities of telecommunications devices and systems that provide accessibility to hearing-impaired and speech-impaired individuals.
 
@@ -74,11 +74,11 @@ In subsection (c), the text of 40:762a(b)(2)–(4) and (c) is omitted as execute
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 18103 | 40:762b. | Pub. L. 100–542, § 4, Oct. 28, 1988, 102 Stat. 2722. |
+| 18103 | 40:762b. | Pub. L. 100–542, § 4, Oct. 28, 1988, 102 Stat. 2722. |
 
 Subsection (b)(1) is substituted for “results of the analysis required by section 762a(b)(3) of this title” because 40:762a(b)(3), which is omitted as executed and obsolete (see the revision note for section 18102(b) of the revised title), provided for an analysis and report regarding modifications that the Administrator determined were necessary to achieve the objectives of 40:762a(a), which is restated in section 18102(a) of the revised title.
 
-## § 18104. TTY installation by Congress
+## § 18104. TTY installation by Congress
 
 Each House of Congress shall establish a policy under which Members of the House of Representatives and the Senate may obtain TTY’s for use in communicating with hearing-impaired and speech-impaired individuals, and for the use of hearing-impaired and speech-impaired employees.
 
@@ -88,6 +88,6 @@ Each House of Congress shall establish a policy under which Members of the House
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 18104 | 40:762d. | Pub. L. 100–542, § 6, Oct. 28, 1988, 102 Stat. 2722. |
+| 18104 | 40:762d. | Pub. L. 100–542, § 6, Oct. 28, 1988, 102 Stat. 2722. |
 
 The words “As soon as practicable” and “as the case may be” are omitted as unnecessary.

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 9—AGENCY CHIEF FINANCIAL OFFICERS
 
-## § 901. Establishment of agency Chief Financial Officers
+## § 901. Establishment of agency Chief Financial Officers
 
 **(a)** There shall be within each agency described in subsection (b) an agency Chief Financial Officer. Each agency Chief Financial Officer shall—
 
@@ -99,15 +99,15 @@ retrieved: 2026-10-11
 
 **(4)** The President may designate an employee of the Executive Office of the President (other than the Chief Financial Officer), who shall be deemed “the head of the agency” for purposes of carrying out section 902, with respect to the Executive Office of the President.
 
-(Added Pub. L. 101–576, title II, § 205(a), Nov. 15, 1990, 104 Stat. 2842; amended Pub. L. 103–296, title I, § 108(j)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 106–58, title VI, § 638(a), Sept. 29, 1999, 113 Stat. 475; Pub. L. 108–330, § 3(a), (d)(2), Oct. 16, 2004, 118 Stat. 1276, 1277.)
+(Added Pub. L. 101–576, title II, § 205(a), Nov. 15, 1990, 104 Stat. 2842; amended Pub. L. 103–296, title I, § 108(j)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 106–58, title VI, § 638(a), Sept. 29, 1999, 113 Stat. 475; Pub. L. 108–330, § 3(a), (d)(2), Oct. 16, 2004, 118 Stat. 1276, 1277.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (b)(1)(G) to (Q). Pub. L. 108–330, § 3(a), added subpar. (G) and redesignated former subpars. (G) to (P) as (H) to (Q), respectively.
+2004—Subsec. (b)(1)(G) to (Q). Pub. L. 108–330, § 3(a), added subpar. (G) and redesignated former subpars. (G) to (P) as (H) to (Q), respectively.
 
-Subsec. (b)(2)(B) to (H). Pub. L. 108–330, § 3(d)(2), redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpar. (B) which read as follows: “The Federal Emergency Management Agency.”
+Subsec. (b)(2)(B) to (H). Pub. L. 108–330, § 3(d)(2), redesignated subpars. (C) to (H) as (B) to (G), respectively, and struck out former subpar. (B) which read as follows: “The Federal Emergency Management Agency.”
 
 1999—Subsec. (c). Pub. L. 106–58 added subsec. (c).
 
@@ -131,7 +131,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 **Chief Financial Officer of Department of Homeland Security**
 
-Pub. L. 108–330, § 3(b), (c), Oct. 16, 2004, 118 Stat. 1276, provided that:
+Pub. L. 108–330, § 3(b), (c), Oct. 16, 2004, 118 Stat. 1276, provided that:
 
 > **“(b) Appointment or Designation of CFO.—** The President shall appoint or designate a Chief Financial Officer of the Department of Homeland Security under the amendment made by subsection (a) [amending this section] by not later than 180 days after the date of the enactment of this Act [Oct. 16, 2004].
 
@@ -139,7 +139,7 @@ Pub. L. 108–330, § 3(b), (c), Oct. 16, 2004, 118 Stat. 1276, provided that:
 
 **Chief Financial Officer Within Executive Office of the President**
 
-Pub. L. 106–58, title VI, § 638(b)–(e), Sept. 29, 1999, 113 Stat. 475, provided that:
+Pub. L. 106–58, title VI, § 638(b)–(e), Sept. 29, 1999, 113 Stat. 475, provided that:
 
 > **“(b) Plan for Implementation.—** Not later than 90 days after the effective date of this section [noon on Jan. 20, 2001], the President shall communicate in writing, to the Chairmen of the Committees on Appropriations, the Chairman of the Committee on Government Reform [now Committee on Oversight and Accountability] of the House of Representatives, and the Chairman of the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate, a plan for implementation of the provisions of, and amendments made by, this section [amending this section and sections 503 and 1105 of this title].
 
@@ -155,11 +155,11 @@ Pub. L. 106–58, title VI, § 638(b)–(e), Sept. 29, 1999, 113 Stat. 475, pr
 
 **Chief Financial Officers of Department of Veterans Affairs and Department of Housing and Urban Development**
 
-Pub. L. 101–576, title II, § 205(c)(1), Nov. 15, 1990, 104 Stat. 2845, provided that: “The Secretary of Veterans Affairs and the Secretary of Housing and Urban Development may each designate as the agency Chief Financial Officer of that department for purposes of section 901 of title 31, United States Code, as amended by this section, the officer designated, respectively, under section 4(c) of the Department of Veterans Affairs Act (38 U.S.C. 201 note) and section 4(e) of the Department of Housing and Urban Development Act (42 U.S.C. 3533(e)), as in effect before the effective date of this Act [Nov. 15, 1990].”
+Pub. L. 101–576, title II, § 205(c)(1), Nov. 15, 1990, 104 Stat. 2845, provided that: “The Secretary of Veterans Affairs and the Secretary of Housing and Urban Development may each designate as the agency Chief Financial Officer of that department for purposes of section 901 of title 31, United States Code, as amended by this section, the officer designated, respectively, under section 4(c) of the Department of Veterans Affairs Act (38 U.S.C. 201 note) and section 4(e) of the Department of Housing and Urban Development Act (42 U.S.C. 3533(e)), as in effect before the effective date of this Act [Nov. 15, 1990].”
 
 **Transfer of Functions and Personnel of Agency Chief Financial Officers**
 
-Pub. L. 101–576, title II, § 206, Nov. 15, 1990, 104 Stat. 2845, provided that:
+Pub. L. 101–576, title II, § 206, Nov. 15, 1990, 104 Stat. 2845, provided that:
 
 > **“(a) Agency Reviews of Financial Management Activities.—** Not later than 120 days after the date of the enactment of this Act [Nov. 15, 1990], the Director of the Office of Management and Budget shall require each agency listed in subsection (b) of section 901 of title 31, United States Code, as amended by this Act, to conduct a review of its financial management activities for the purpose of consolidating its accounting, budgeting, and other financial management activities under the agency Chief Financial Officer appointed under subsection (a) of that section for the agency.
 
@@ -175,7 +175,7 @@ Pub. L. 101–576, title II, § 206, Nov. 15, 1990, 104 Stat. 2845, provided t
 
 **Chief Financial Officers Council**
 
-Pub. L. 101–576, title III, § 302, Nov. 15, 1990, 104 Stat. 2848, provided that:
+Pub. L. 101–576, title III, § 302, Nov. 15, 1990, 104 Stat. 2848, provided that:
 
 > **“(a) Establishment.—** There is established a Chief Financial Officers Council, consisting of—
 
@@ -189,7 +189,7 @@ Pub. L. 101–576, title III, § 302, Nov. 15, 1990, 104 Stat. 2848, provided 
 
 > **“(b) Functions.—** The Chief Financial Officers Council shall meet periodically to advise and coordinate the activities of the agencies of its members on such matters as consolidation and modernization of financial systems, improved quality of financial information, financial data and information standards, internal controls, legislation affecting financial operations and organizations, and any other financial management matter.”
 
-## § 902. Authority and functions of agency Chief Financial Officers
+## § 902. Authority and functions of agency Chief Financial Officers
 
 **(a)** An agency Chief Financial Officer shall—
 
@@ -265,25 +265,25 @@ Pub. L. 101–576, title III, § 302, Nov. 15, 1990, 104 Stat. 2848, provided 
 
 **(2)** Except as provided in paragraph (1)(B), this subsection does not provide to an agency Chief Financial Officer any access greater than permitted under any other law to records, reports, audits, reviews, documents, papers, recommendations, or other material of any Office of Inspector General established under chapter 4 of title 5.
 
-(Added Pub. L. 101–576, title II, § 205(a), Nov. 15, 1990, 104 Stat. 2843; amended Pub. L. 117–286, § 4(b)(49), Dec. 27, 2022, 136 Stat. 4348.)
+(Added Pub. L. 101–576, title II, § 205(a), Nov. 15, 1990, 104 Stat. 2843; amended Pub. L. 117–286, § 4(b)(49), Dec. 27, 2022, 136 Stat. 4348.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(6)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as section 3512 of this title. Provisions relating to reports on internal accounting and administrative control systems are restated in section 3512(d)(2) and (3) of this title.
+The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(6)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as section 3512 of this title. Provisions relating to reports on internal accounting and administrative control systems are restated in section 3512(d)(2) and (3) of this title.
 
 **Amendments**
 
 2022—Subsec. (b)(2). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (5 U.S.C. App.).”
 
-## § 903. Establishment of agency Deputy Chief Financial Officers
+## § 903. Establishment of agency Deputy Chief Financial Officers
 
 **(a)** There shall be within each agency described in section 901(b) an agency Deputy Chief Financial Officer, who shall report directly to the agency Chief Financial Officer on financial management matters. The position of agency Deputy Chief Financial Officer shall be a career reserved position in the Senior Executive Service.
 
 **(b)** Consistent with qualification standards developed by, and in consultation with, the agency Chief Financial Officer and the Director of the Office of Management and Budget, the head of each agency shall appoint as Deputy Chief Financial Officer an individual with demonstrated ability and experience in accounting, budget execution, financial and management analysis, and systems development, and not less than 6 years practical experience in financial management at large governmental entities.
 
-(Added Pub. L. 101–576, title II, § 205(a), Nov. 15, 1990, 104 Stat. 2845.)
+(Added Pub. L. 101–576, title II, § 205(a), Nov. 15, 1990, 104 Stat. 2845.)
 
 **Editorial Notes**
 

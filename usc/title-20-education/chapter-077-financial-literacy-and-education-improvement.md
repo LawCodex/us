@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 77—FINANCIAL LITERACY AND EDUCATION IMPROVEMENT
 
-## § 9701. Definitions
+## § 9701. Definitions
 
 As used in this chapter—
 
@@ -23,7 +23,7 @@ As used in this chapter—
 
 **(2)** the term “Commission” means the Financial Literacy and Education Commission established under section 9702 of this title.
 
-(Pub. L. 108–159, title V, § 512, Dec. 4, 2003, 117 Stat. 2003.)
+(Pub. L. 108–159, title V, § 512, Dec. 4, 2003, 117 Stat. 2003.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -33,7 +33,7 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 **Short Title**
 
-Pub. L. 108–159, title V, § 511, Dec. 4, 2003, 117 Stat. 2003, provided that: “This title [enacting this chapter] may be cited as the ‘Financial Literacy and Education Improvement Act’.”
+Pub. L. 108–159, title V, § 511, Dec. 4, 2003, 117 Stat. 2003, provided that: “This title [enacting this chapter] may be cited as the ‘Financial Literacy and Education Improvement Act’.”
 
 **Executive Documents**
 
@@ -125,7 +125,7 @@ George W. Bush.
 
 **Ex. Ord. No. 13530. President’s Advisory Council on Financial Capability**
 
-Ex. Ord. No. 13530, Jan. 29, 2010, 75 F.R. 5481, as amended by Ex. Ord. No. 13591, § 3, Nov. 23, 2011, 76 F.R. 74623, provided:
+Ex. Ord. No. 13530, Jan. 29, 2010, 75 F.R. 5481, as amended by Ex. Ord. No. 13591, § 3, Nov. 23, 2011, 76 F.R. 74623, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -313,7 +313,7 @@ Sec. 7. *General Provisions*. (a) Insofar as the Federal Advisory Committee Act,
 
 Barack Obama.
 
-## § 9702. Establishment of Financial Literacy and Education Commission
+## § 9702. Establishment of Financial Literacy and Education Commission
 
 **(a) In general**
 
@@ -355,15 +355,15 @@ A majority of the members of the Commission shall constitute a quorum, but a les
 
 The Commission shall hold its first meeting not later than 60 days after December 4, 2003.
 
-(Pub. L. 108–159, title V, § 513, Dec. 4, 2003, 117 Stat. 2003; Pub. L. 111–203, title X, § 1013(d)(5), (6), July 21, 2010, 124 Stat. 1971.)
+(Pub. L. 108–159, title V, § 513, Dec. 4, 2003, 117 Stat. 2003; Pub. L. 111–203, title X, § 1013(d)(5), (6), July 21, 2010, 124 Stat. 1971.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (c)(1)(C), (D). Pub. L. 111–203, § 1013(d)(5), added subpar. (C) and redesignated former subpar. (C) as (D).
+2010—Subsec. (c)(1)(C), (D). Pub. L. 111–203, § 1013(d)(5), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (d). Pub. L. 111–203, § 1013(d)(6), inserted at end “The Director of the Bureau of Consumer Financial Protection shall serve as the Vice Chairman.”
+Subsec. (d). Pub. L. 111–203, § 1013(d)(6), inserted at end “The Director of the Bureau of Consumer Financial Protection shall serve as the Vice Chairman.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -371,7 +371,7 @@ Subsec. (d). Pub. L. 111–203, § 1013(d)(6), inserted at end “The Director
 
 Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of Title 15, Commerce and Trade.
 
-## § 9703. Duties of the Commission
+## § 9703. Duties of the Commission
 
 **(a) Duties**
 
@@ -529,7 +529,7 @@ The initial report under paragraph (1) shall include information regarding all F
 
 The Commission shall annually provide testimony by the Chairperson to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
-(Pub. L. 108–159, title V, § 514, Dec. 4, 2003, 117 Stat. 2004; Pub. L. 115–174, title VI, § 603, May 24, 2018, 132 Stat. 1367.)
+(Pub. L. 108–159, title V, § 514, Dec. 4, 2003, 117 Stat. 2004; Pub. L. 115–174, title VI, § 603, May 24, 2018, 132 Stat. 1367.)
 
 **Editorial Notes**
 
@@ -547,7 +547,7 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 For definitions of terms used in this section, see section 2 of Pub. L. 108–159, set out as a note under section 1681 of Title 15, Commerce and Trade.
 
-## § 9704. Powers of the Commission
+## § 9704. Powers of the Commission
 
 **(a) Hearings**
 
@@ -579,7 +579,7 @@ The Commission may conduct periodic studies regarding the state of financial lit
 
 The Commission may take any action to develop and promote financial literacy and education materials in languages other than English, as the Commission deems appropriate, including for the website established under section 9703(b) of this title, at the toll-free number established under section 9703(c) of this title, and in the materials developed and disseminated under section 9703(d) of this title.
 
-(Pub. L. 108–159, title V, § 515, Dec. 4, 2003, 117 Stat. 2007.)
+(Pub. L. 108–159, title V, § 515, Dec. 4, 2003, 117 Stat. 2007.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -591,7 +591,7 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 For definitions of terms used in this section, see section 2 of Pub. L. 108–159, set out as a note under section 1681 of Title 15, Commerce and Trade.
 
-## § 9705. Commission personnel matters
+## § 9705. Commission personnel matters
 
 **(a) Compensation of members**
 
@@ -611,7 +611,7 @@ The Director of the Office of Financial Education of the Department of the Treas
 
 Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
-(Pub. L. 108–159, title V, § 516, Dec. 4, 2003, 117 Stat. 2008.)
+(Pub. L. 108–159, title V, § 516, Dec. 4, 2003, 117 Stat. 2008.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -619,7 +619,7 @@ Any Federal Government employee may be detailed to the Commission without reimbu
 
 Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of Title 15, Commerce and Trade.
 
-## § 9706. Studies by the Comptroller General
+## § 9706. Studies by the Comptroller General
 
 **(a) Effectiveness study**
 
@@ -647,7 +647,7 @@ The Comptroller General of the United States shall conduct a study to assess the
 
 Before the end of the 12-month period beginning on December 4, 2003, the Comptroller General shall submit a report to Congress on the findings and conclusions of the Comptroller General pursuant to the study conducted under this subsection, together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate, including recommendations on methods for improving financial literacy among consumers.
 
-(Pub. L. 108–159, title V, § 517, Dec. 4, 2003, 117 Stat. 2008.)
+(Pub. L. 108–159, title V, § 517, Dec. 4, 2003, 117 Stat. 2008.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -659,7 +659,7 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 For definitions of terms used in this section, see section 2 of Pub. L. 108–159, set out as a note under section 1681 of Title 15, Commerce and Trade.
 
-## § 9707. The national public service multimedia campaign to enhance the state of financial literacy
+## § 9707. The national public service multimedia campaign to enhance the state of financial literacy
 
 **(a) In general**
 
@@ -691,7 +691,7 @@ The Secretary shall develop measures to evaluate the effectiveness of the pilot 
 
 For each fiscal year for which there are appropriations pursuant to the authorization in subsection (e),1
 
-<sup>1</sup>  So in original. Probably should be subsection “(f),”.
+<sup>1</sup> So in original. Probably should be subsection “(f),”.
 
 the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives, describing the status and implementation of the provisions of this section and the state of financial literacy and education in the United States.
 
@@ -699,7 +699,7 @@ the Secretary shall submit a report to the Committee on Banking, Housing, and Ur
 
 There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development, production, and distribution of a pilot national public service multimedia campaign under this section.
 
-(Pub. L. 108–159, title V, § 518, Dec. 4, 2003, 117 Stat. 2009.)
+(Pub. L. 108–159, title V, § 518, Dec. 4, 2003, 117 Stat. 2009.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -707,11 +707,11 @@ There are authorized to be appropriated to the Secretary, not to exceed $3,000,0
 
 Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of Title 15, Commerce and Trade.
 
-## § 9708. Authorization of appropriations
+## § 9708. Authorization of appropriations
 
 There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this chapter, including administrative expenses of the Commission.
 
-(Pub. L. 108–159, title V, § 519, Dec. 4, 2003, 117 Stat. 2010.)
+(Pub. L. 108–159, title V, § 519, Dec. 4, 2003, 117 Stat. 2010.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -719,7 +719,7 @@ There are authorized to be appropriated to the Commission such sums as may be ne
 
 Section subject to joint regulations establishing effective dates as prescribed by Federal Reserve Board and Federal Trade Commission, except as otherwise provided, see section 3 of Pub. L. 108–159, set out as an Effective Date of 2003 Amendment note under section 1681 of Title 15, Commerce and Trade.
 
-## § 9709. Coordinated education efforts
+## § 9709. Coordinated education efforts
 
 **(a) In general** The Secretary of the Treasury (in this section referred to as the “Secretary”), in coordination with the Secretary of Education, the Secretary of Agriculture (with respect to land-grant colleges and universities), and any other appropriate agency that is a member of the Financial Literacy and Education Commission established under the Financial Literacy and Education Improvement Act (20 U.S.C. 9701 et seq.), shall seek to enhance financial literacy among students at covered educational institutions through—
 
@@ -751,7 +751,7 @@ The report required by this subsection shall include a description of progress m
 
 The Secretary shall, upon request, provide testimony before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives concerning the report required by this subsection.
 
-(Pub. L. 110–315, title X, § 1042, Aug. 14, 2008, 122 Stat. 3489.)
+(Pub. L. 110–315, title X, § 1042, Aug. 14, 2008, 122 Stat. 3489.)
 
 **Editorial Notes**
 
@@ -771,9 +771,9 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 **Definitions**
 
-Pub. L. 110–315, title X, § 1041, Aug. 14, 2008, 122 Stat. 3489, provided that:
+Pub. L. 110–315, title X, § 1041, Aug. 14, 2008, 122 Stat. 3489, provided that:
 
-> “As used in this subtitle [subtitle D (§§ 1041, 1042) of title X of Pub. L. 110–315, enacting this section]—
+> “As used in this subtitle [subtitle D (§§ 1041, 1042) of title X of Pub. L. 110–315, enacting this section]—
 
 > **“(1)** the terms ‘covered educational institution’, ‘private educational lender’, and ‘private education loan’ have the same meanings as in section 140 of the Truth in Lending Act [15 U.S.C. 1650], as added by this Act;
 

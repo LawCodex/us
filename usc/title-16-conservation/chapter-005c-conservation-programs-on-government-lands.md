@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—CONSERVATION PROGRAMS ON MILITARY INSTALLATIONS
 
-### § 670. Definitions
+### § 670. Definitions
 
 In this subchapter:
 
@@ -49,13 +49,13 @@ The term “United States” means the States, the District of Columbia, and the
 
 The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-(Pub. L. 86–797, title I, § 100, as added Pub. L. 105–85, div. B, title XXIX, § 2911, Nov. 18, 1997, 111 Stat. 2021; amended Pub. L. 112–81, div. A, title III, § 312(a)(1), Dec. 31, 2011, 125 Stat. 1351; Pub. L. 112–239, div. A, title III, § 312(b), Jan. 2, 2013, 126 Stat. 1691.)
+(Pub. L. 86–797, title I, § 100, as added Pub. L. 105–85, div. B, title XXIX, § 2911, Nov. 18, 1997, 111 Stat. 2021; amended Pub. L. 112–81, div. A, title III, § 312(a)(1), Dec. 31, 2011, 125 Stat. 1351; Pub. L. 112–239, div. A, title III, § 312(b), Jan. 2, 2013, 126 Stat. 1691.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Amendments**
 
@@ -67,17 +67,17 @@ The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92�
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–85, div. B, title XXIX, § 2901, Nov. 18, 1997, 111 Stat. 2016, provided that: “This title [enacting this section and sections 670e–1 and 670e–2 of this title, amending sections 670a, 670b, 670c, 670c–1, 670f, and 670*o* of this title, repealing section 670a–1 of this title, and enacting provisions set out as notes under this section and section 670a of this title] may be cited as the ‘Sikes Act Improvement Act of 1997’.”
+Pub. L. 105–85, div. B, title XXIX, § 2901, Nov. 18, 1997, 111 Stat. 2016, provided that: “This title [enacting this section and sections 670e–1 and 670e–2 of this title, amending sections 670a, 670b, 670c, 670c–1, 670f, and 670*o* of this title, repealing section 670a–1 of this title, and enacting provisions set out as notes under this section and section 670a of this title] may be cited as the ‘Sikes Act Improvement Act of 1997’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–420, § 1, Oct. 5, 1978, 92 Stat. 921, provided: “That this Act [amending sections 670f and 670*o* of this title] may be cited as the ‘Sikes Act Amendments of 1978’.”
+Pub. L. 95–420, § 1, Oct. 5, 1978, 92 Stat. 921, provided: “That this Act [amending sections 670f and 670*o* of this title] may be cited as the ‘Sikes Act Amendments of 1978’.”
 
 **Short Title**
 
-Pub. L. 86–797, § 1, as added by Pub. L. 105–85, div. B, title XXIX, § 2903, Nov. 18, 1997, 111 Stat. 2016, provided that: “This Act [enacting this chapter] may be cited as the ‘Sikes Act’.”
+Pub. L. 86–797, § 1, as added by Pub. L. 105–85, div. B, title XXIX, § 2903, Nov. 18, 1997, 111 Stat. 2016, provided that: “This Act [enacting this chapter] may be cited as the ‘Sikes Act’.”
 
-### § 670a. Cooperative plan for conservation and rehabilitation
+### § 670a. Cooperative plan for conservation and rehabilitation
 
 **(a) Authority of Secretary of Defense**
 
@@ -203,41 +203,41 @@ Not later than March 1 of each year and in consultation with the heads of State 
 
 The Secretary of Defense shall carry out this subsection in consultation with the Secretary of the Interior.
 
-(Pub. L. 86–797, title I, § 101, formerly § 1, Sept. 15, 1960, 74 Stat. 1052; renumbered title I, § 101, and amended Pub. L. 93–452, §§ 1(1), 3(1), (2), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 97–396, § 1, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, § 3(a)(1), Oct. 27, 1986, 100 Stat. 3150; Pub. L. 105–85, div. B, title XXIX, §§ 2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, 111 Stat. 2017, 2018, 2020, 2022; Pub. L. 106–65, div. A, title X, § 1067(19), Oct. 5, 1999, 113 Stat. 775; Pub. L. 108–136, div. A, title III, § 311(c)(1), Nov. 24, 2003, 117 Stat. 1429; Pub. L. 111–84, div. A, title III, § 314, Oct. 28, 2009, 123 Stat. 2248; Pub. L. 112–81, div. A, title III, § 312(a)(2), (b)(1), Dec. 31, 2011, 125 Stat. 1352, 1353; Pub. L. 117–263, div. A, title III, § 387, Dec. 23, 2022, 136 Stat. 2546.)
+(Pub. L. 86–797, title I, § 101, formerly § 1, Sept. 15, 1960, 74 Stat. 1052; renumbered title I, § 101, and amended Pub. L. 93–452, §§ 1(1), 3(1), (2), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 97–396, § 1, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, § 3(a)(1), Oct. 27, 1986, 100 Stat. 3150; Pub. L. 105–85, div. B, title XXIX, §§ 2904(a)–(b)(4), (c), 2906, 2907, 2913(2)–(4), Nov. 18, 1997, 111 Stat. 2017, 2018, 2020, 2022; Pub. L. 106–65, div. A, title X, § 1067(19), Oct. 5, 1999, 113 Stat. 775; Pub. L. 108–136, div. A, title III, § 311(c)(1), Nov. 24, 2003, 117 Stat. 1429; Pub. L. 111–84, div. A, title III, § 314, Oct. 28, 2009, 123 Stat. 2248; Pub. L. 112–81, div. A, title III, § 312(a)(2), (b)(1), Dec. 31, 2011, 125 Stat. 1352, 1353; Pub. L. 117–263, div. A, title III, § 387, Dec. 23, 2022, 136 Stat. 2546.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a)(3)(A)(ii) to (iv). Pub. L. 117–263, § 387(a), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+2022—Subsec. (a)(3)(A)(ii) to (iv). Pub. L. 117–263, § 387(a), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
-Subsec. (g). Pub. L. 117–263, § 387(b)(1), substituted “Program for invasive species management for military installations” for “Pilot program for invasive species management for military installations in Guam” in heading.
+Subsec. (g). Pub. L. 117–263, § 387(b)(1), substituted “Program for invasive species management for military installations” for “Pilot program for invasive species management for military installations in Guam” in heading.
 
-Subsec. (g)(1). Pub. L. 117–263, § 387(b)(2), in introductory provisions, substituted “The” for “During fiscal years 2009 through 2014, the” and struck out “in Guam” after “military installations”.
+Subsec. (g)(1). Pub. L. 117–263, § 387(b)(2), in introductory provisions, substituted “The” for “During fiscal years 2009 through 2014, the” and struck out “in Guam” after “military installations”.
 
-2011—Pub. L. 112–81, § 312(b)(1)(A), (B), inserted section catchline.
+2011—Pub. L. 112–81, § 312(b)(1)(A), (B), inserted section catchline.
 
-Subsec. (a)(1)(B). Pub. L. 112–81, § 312(a)(2)(A), designated existing provisions as cl. (i) and added cl. (ii).
+Subsec. (a)(1)(B). Pub. L. 112–81, § 312(a)(2)(A), designated existing provisions as cl. (i) and added cl. (ii).
 
-Subsec. (a)(2). Pub. L. 112–81, § 312(a)(2)(B), inserted “or State-owned National Guard installation” after “military installation” in two places.
+Subsec. (a)(2). Pub. L. 112–81, § 312(a)(2)(B), inserted “or State-owned National Guard installation” after “military installation” in two places.
 
-Subsec. (a)(3)(A). Pub. L. 112–81, § 312(a)(2)(C)(i)–(v), designated introductory provisions as subpar. (A), redesignated former subpars. (A), (B), and (C) as cls. (i), (ii), and (iii), respectively, inserted “and State-owned National Guard installations” after “Consistent with the use of military installations”, substituted “such installations” for “military installations” in cl. (i), and inserted “on such installations” after “resources” in cl. (ii).
+Subsec. (a)(3)(A). Pub. L. 112–81, § 312(a)(2)(C)(i)–(v), designated introductory provisions as subpar. (A), redesignated former subpars. (A), (B), and (C) as cls. (i), (ii), and (iii), respectively, inserted “and State-owned National Guard installations” after “Consistent with the use of military installations”, substituted “such installations” for “military installations” in cl. (i), and inserted “on such installations” after “resources” in cl. (ii).
 
-Subsec. (a)(3)(B). Pub. L. 112–81, § 312(a)(2)(C)(vi), added subpar. (B).
+Subsec. (a)(3)(B). Pub. L. 112–81, § 312(a)(2)(C)(vi), added subpar. (B).
 
-Subsec. (b). Pub. L. 112–81, § 312(a)(2)(D), inserted “and State-owned National Guard installations” after “military installations” in introductory provisions.
+Subsec. (b). Pub. L. 112–81, § 312(a)(2)(D), inserted “and State-owned National Guard installations” after “military installations” in introductory provisions.
 
-Subsec. (b)(1)(G), (I). Pub. L. 112–81, § 312(a)(2)(E), substituted “installation” for “military installation”.
+Subsec. (b)(1)(G), (I). Pub. L. 112–81, § 312(a)(2)(E), substituted “installation” for “military installation”.
 
-Subsec. (b)(3). Pub. L. 112–81, § 312(a)(2)(F), inserted “, in the case of a military installation,” after “(3) may”.
+Subsec. (b)(3). Pub. L. 112–81, § 312(a)(2)(F), inserted “, in the case of a military installation,” after “(3) may”.
 
-Subsec. (c). Pub. L. 112–81, § 312(b)(1)(C), inserted heading.
+Subsec. (c). Pub. L. 112–81, § 312(b)(1)(C), inserted heading.
 
-Subsec. (d). Pub. L. 112–81, § 312(b)(1)(D), inserted heading.
+Subsec. (d). Pub. L. 112–81, § 312(b)(1)(D), inserted heading.
 
-Subsec. (e). Pub. L. 112–81, § 312(b)(1)(E)(ii), which directed insertion of a comma after “Code”, could not be executed because the word “Code” did not appear.
+Subsec. (e). Pub. L. 112–81, § 312(b)(1)(E)(ii), which directed insertion of a comma after “Code”, could not be executed because the word “Code” did not appear.
 
-Pub. L. 112–81, § 312(b)(1)(E)(i), inserted heading.
+Pub. L. 112–81, § 312(b)(1)(E)(i), inserted heading.
 
 2009—Subsec. (g)(1). Pub. L. 111–84 substituted “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008” in introductory provisions.
 
@@ -245,11 +245,11 @@ Pub. L. 112–81, § 312(b)(1)(E)(i), inserted heading.
 
 1999—Subsec. (f)(3)(A). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1997—Subsec. (a). Pub. L. 105–85, § 2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located.”
+1997—Subsec. (a). Pub. L. 105–85, § 2904(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary of Defense is authorized to carry out a program of planning for, and the development, maintenance, and coordination of, wildlife, fish, and game conservation and rehabilitation in each military reservation in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of the Interior, and the appropriate State agency designated by the State in which the reservation is located.”
 
-Subsec. (b). Pub. L. 105–85, § 2904(c)(1), inserted heading and substituted, in introductory provisions, “Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—” for “Each cooperative plan entered into under subsection (a)—”.
+Subsec. (b). Pub. L. 105–85, § 2904(c)(1), inserted heading and substituted, in introductory provisions, “Consistent with the use of military installations to ensure the preparedness of the Armed Forces, each integrated natural resources management plan prepared under subsection (a)—” for “Each cooperative plan entered into under subsection (a)—”.
 
-Subsec. (b)(1). Pub. L. 105–85, § 2904(c)(1), added par. (1) and struck out former par. (1) which read as follows: “shall provide for—
+Subsec. (b)(1). Pub. L. 105–85, § 2904(c)(1), added par. (1) and struck out former par. (1) which read as follows: “shall provide for—
 
 “(A) fish and wildlife habitat improvements or modifications,
 
@@ -259,43 +259,43 @@ Subsec. (b)(1). Pub. L. 105–85, § 2904(c)(1), added par. (1) and struck out
 
 “(D) specific habitat improvement projects and related activities and adequate protection for species of fish, wildlife, and plants considered threatened or endangered;”.
 
-Subsec. (b)(2). Pub. L. 105–85, § 2904(c)(2), inserted “and” at end.
+Subsec. (b)(2). Pub. L. 105–85, § 2904(c)(2), inserted “and” at end.
 
-Subsec. (b)(3). Pub. L. 105–85, § 2904(c)(3), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “shall, if a multiuse natural resources management plan is applicable to the military reservation, be treated as the exclusive component of that management plan with respect to wildlife, fish, and game conservation and rehabilitation; and”.
+Subsec. (b)(3). Pub. L. 105–85, § 2904(c)(3), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “shall, if a multiuse natural resources management plan is applicable to the military reservation, be treated as the exclusive component of that management plan with respect to wildlife, fish, and game conservation and rehabilitation; and”.
 
-Subsec. (b)(3)(A). Pub. L. 105–85, § 2913(2)(A), substituted “the installation” for “the reservation”.
+Subsec. (b)(3)(A). Pub. L. 105–85, § 2913(2)(A), substituted “the installation” for “the reservation”.
 
-Pub. L. 105–85, § 2904(c)(5), substituted “collect, spend, administer, and account for fees for the permits,” for “collect the fees therefor,”.
+Pub. L. 105–85, § 2904(c)(5), substituted “collect, spend, administer, and account for fees for the permits,” for “collect the fees therefor,”.
 
-Subsec. (b)(3)(B). Pub. L. 105–85, § 2912(2)(B), substituted “the military installation on” for “the military reservation on”.
+Subsec. (b)(3)(B). Pub. L. 105–85, § 2912(2)(B), substituted “the military installation on” for “the military reservation on”.
 
-Pub. L. 105–85, § 2906, inserted before period at end “, unless the military installation is subsequently closed, in which case the fees may be transferred to another military installation to be used for the same purposes”.
+Pub. L. 105–85, § 2906, inserted before period at end “, unless the military installation is subsequently closed, in which case the fees may be transferred to another military installation to be used for the same purposes”.
 
-Subsec. (b)(4). Pub. L. 105–85, § 2904(c)(4), redesignated par. (4) as (3).
+Subsec. (b)(4). Pub. L. 105–85, § 2904(c)(4), redesignated par. (4) as (3).
 
-Pub. L. 105–85, § 2904(b)(1), substituted “integrated natural resources management plan” for “cooperative plan” in introductory provisions and in subpar. (A).
+Pub. L. 105–85, § 2904(b)(1), substituted “integrated natural resources management plan” for “cooperative plan” in introductory provisions and in subpar. (A).
 
-Subsec. (c). Pub. L. 105–85, § 2904(b)(2), substituted “an integrated natural resources management plan” for “a cooperative plan” in introductory provisions.
+Subsec. (c). Pub. L. 105–85, § 2904(b)(2), substituted “an integrated natural resources management plan” for “a cooperative plan” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 105–85, § 2913(3)(A), substituted “a military installation” for “a military reservation”.
+Subsec. (c)(1). Pub. L. 105–85, § 2913(3)(A), substituted “a military installation” for “a military reservation”.
 
-Subsec. (c)(2). Pub. L. 105–85, § 2913(3)(B), substituted “the installation” for “the reservation”.
+Subsec. (c)(2). Pub. L. 105–85, § 2913(3)(B), substituted “the installation” for “the reservation”.
 
-Subsec. (d). Pub. L. 105–85, § 2904(b)(3), substituted “integrated natural resources management plans” for “cooperative plans” in introductory provisions.
+Subsec. (d). Pub. L. 105–85, § 2904(b)(3), substituted “integrated natural resources management plans” for “cooperative plans” in introductory provisions.
 
-Subsec. (e). Pub. L. 105–85, § 2913(4), substituted “chapter 63 of title 31” for “the Federal Grant and Cooperative Agreement Act of 1977 (41 U.S.C. 501 et seq.)”.
+Subsec. (e). Pub. L. 105–85, § 2913(4), substituted “chapter 63 of title 31” for “the Federal Grant and Cooperative Agreement Act of 1977 (41 U.S.C. 501 et seq.)”.
 
-Pub. L. 105–85, § 2904(b)(4), substituted “Integrated natural resources management plans” for “Cooperative plans”.
+Pub. L. 105–85, § 2904(b)(4), substituted “Integrated natural resources management plans” for “Cooperative plans”.
 
-Subsec. (f). Pub. L. 105–85, § 2907, added subsec. (f).
+Subsec. (f). Pub. L. 105–85, § 2907, added subsec. (f).
 
 1986—Pub. L. 99–561 amended section generally. Prior to amendment, section read as follows: “The Secretary of Defense is hereby authorized to carry out a program of planning, development, maintenance and coordination of wildlife, fish and game conservation and rehabilitation in military reservations in accordance with a cooperative plan mutually agreed upon by the Secretary of Defense, the Secretary of Interior and the appropriate State agency designated by the State in which the reservation is located. Such cooperative plan shall provide for (1) fish and wildlife habitat improvements or modifications, (2) range rehabilitation where necessary for support of wildlife, (3) control of off-road vehicle traffic, and (4) specific habitat improvement projects and related activities and adequate protection for species of fish, wildlife, and plants considered threatened or endangered. Such cooperative plan may stipulate the issuance of special State hunting and fishing permits to individuals and require this payment of a nominal fee therefor, which fees shall be utilized for the protection, conservation and management of fish and wildlife, including habitat improvement and related activities in accordance with the cooperative plan: *Provided*, That the Commanding Officer of the reservation or persons designated by him are authorized to enforce such special hunting and fishing permits and to collect the fees therefor, acting as agent or agents for the State if the cooperative plan so provides. Cooperative plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.”
 
-1982—Pub. L. 97–396, § 1(1), added cl. (4).
+1982—Pub. L. 97–396, § 1(1), added cl. (4).
 
-Pub. L. 97–396, § 1(2), inserted provision that cooperative plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.
+Pub. L. 97–396, § 1(2), inserted provision that cooperative plans agreed to under the authority of this section and section 670b of this title shall not be deemed to be, nor treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
-1974—Pub. L. 93–452, §§ 1(1), 3(2), inserted provisions requiring the cooperative plan to provide for fish and wildlife habitat improvements, range rehabilitation, and off-road vehicle traffic control.
+1974—Pub. L. 93–452, §§ 1(1), 3(2), inserted provisions requiring the cooperative plan to provide for fish and wildlife habitat improvements, range rehabilitation, and off-road vehicle traffic control.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -305,7 +305,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title III, § 311(c)(2), Nov. 24, 2003, 117 Stat. 1429, provided that:
+Pub. L. 108–136, div. A, title III, § 311(c)(2), Nov. 24, 2003, 117 Stat. 1429, provided that:
 
 > “Section 101(g) of the Sikes Act, as added by paragraph (1), [subsec. (g) of this section] shall apply—
 
@@ -315,7 +315,7 @@ Pub. L. 108–136, div. A, title III, § 311(c)(2), Nov. 24, 2003, 117 Stat. 1
 
 **Review for Preparation of Integrated Natural Resources Management Plans**
 
-Pub. L. 105–85, div. B, title XXIX, § 2905, Nov. 18, 1997, 111 Stat. 2019, provided that:
+Pub. L. 105–85, div. B, title XXIX, § 2905, Nov. 18, 1997, 111 Stat. 2019, provided that:
 
 > **“(a) Definitions.—** In this section, the terms ‘military installation’ and ‘United States’ have the meanings provided in section 100 of the Sikes Act [16 U.S.C. 670] (as added by section 2911).
 
@@ -347,13 +347,13 @@ Pub. L. 105–85, div. B, title XXIX, § 2905, Nov. 18, 1997, 111 Stat. 2019, 
 
 **Applicability of 1986 Amendments to Existing Contracts**
 
-Pub. L. 99–561, § 3(a)(2), Oct. 27, 1986, 100 Stat. 3151, provided that: “Subsection (d)(1) of such section 101 (as added by paragraph (1) [16 U.S.C. 670a(d)(1)]) shall not affect any contract entered into before the date of the enactment of this Act [October 27, 1986] for the provision of services to implement or enforce a cooperative plan under this Act [enacting section 670a–1 of this title and amending this section and sections 670f and 670*o* of this title and section 2665 of Title 10, Armed Forces] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract.”
+Pub. L. 99–561, § 3(a)(2), Oct. 27, 1986, 100 Stat. 3151, provided that: “Subsection (d)(1) of such section 101 (as added by paragraph (1) [16 U.S.C. 670a(d)(1)]) shall not affect any contract entered into before the date of the enactment of this Act [October 27, 1986] for the provision of services to implement or enforce a cooperative plan under this Act [enacting section 670a–1 of this title and amending this section and sections 670f and 670*o* of this title and section 2665 of Title 10, Armed Forces] on any military installation; but shall apply to the renewal, after such date of enactment, of any such contract.”
 
-### § 670a–1. Repealed. Pub. L. 105–85, div. B, title XXIX, § 2912, Nov. 18, 1997, 111 Stat. 2022
+### § 670a–1. Repealed. Pub. L. 105–85, div. B, title XXIX, § 2912, Nov. 18, 1997, 111 Stat. 2022
 
-Section, Pub. L. 99–561, § 2, Oct. 27, 1986, 100 Stat. 3149, related to natural resources and fish and wildlife management on military reservations and required report on military expenditures for fish and wildlife management.
+Section, Pub. L. 99–561, § 2, Oct. 27, 1986, 100 Stat. 3149, related to natural resources and fish and wildlife management on military reservations and required report on military expenditures for fish and wildlife management.
 
-### § 670b. Migratory game birds; hunting permits
+### § 670b. Migratory game birds; hunting permits
 
 **(a) Integrated natural resources management plan**
 
@@ -363,13 +363,13 @@ The Secretary of Defense in cooperation with the Secretary of the Interior and t
 
 Possession of a special permit for hunting migratory game birds issued pursuant to this subchapter shall not relieve the permittee of the requirements of the Migratory Bird Hunting Stamp Act as amended [16 U.S.C. 718 et seq.] nor of the requirements pertaining to State law set forth in Public Law 85–337.
 
-(Pub. L. 86–797, title I, § 102, formerly § 2, Sept. 15, 1960, 74 Stat. 1053; renumbered title I, § 102, and amended Pub. L. 93–452, § 3(1), (3), Oct. 18, 1974, 88 Stat. 1375; Pub. L. 105–85, div. B, title XXIX, §§ 2904(b)(5), 2913(5), Nov. 18, 1997, 111 Stat. 2018, 2022; Pub. L. 112–81, div. A, title III, § 312(b)(2), Dec. 31, 2011, 125 Stat. 1353.)
+(Pub. L. 86–797, title I, § 102, formerly § 2, Sept. 15, 1960, 74 Stat. 1053; renumbered title I, § 102, and amended Pub. L. 93–452, § 3(1), (3), Oct. 18, 1974, 88 Stat. 1375; Pub. L. 105–85, div. B, title XXIX, §§ 2904(b)(5), 2913(5), Nov. 18, 1997, 111 Stat. 2018, 2022; Pub. L. 112–81, div. A, title III, § 312(b)(2), Dec. 31, 2011, 125 Stat. 1353.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Migratory Bird Hunting Stamp Act, referred to in subsec. (b), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 452, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
+The Migratory Bird Hunting Stamp Act, referred to in subsec. (b), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 452, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 718 of this title and Tables.
 
 Public Law 85–337, referred to in subsec. (b), is Pub. L. 85–337, Feb. 28, 1958, 72 Stat. 28, which is classified to section 2671 of Title 10, Armed Forces, section 472 of former Title 40, Public Buildings, Property, and Works [now 40 U.S.C. 102], and sections 155 to 158 of Title 43, Public Lands. For complete classification of this Act to the Code, see Tables.
 
@@ -379,9 +379,9 @@ Public Law 85–337, referred to in subsec. (b), is Pub. L. 85–337, Feb. 28, 1
 
 1997—Pub. L. 105–85 substituted “military installations” for “military reservations” and “an integrated natural resources management plan” for “a cooperative plan”.
 
-1974—Pub. L. 93–452, § 3(3), substituted “title” for “Act” which for purposes of codification was translated as “subchapter”.
+1974—Pub. L. 93–452, § 3(3), substituted “title” for “Act” which for purposes of codification was translated as “subchapter”.
 
-### § 670c. Program for public outdoor recreation
+### § 670c. Program for public outdoor recreation
 
 **(a) Program authorized**
 
@@ -413,7 +413,7 @@ The Secretary of Defense is also authorized to carry out a program for the devel
 
 **(2)** for the purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, the volunteer shall be considered to be an employee, as defined in section 8101(1)(B) of title 5, and the provisions of such subchapter shall apply.
 
-(Pub. L. 86–797, title I, § 103, formerly § 3, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 90–465, § 1, Aug. 8, 1968, 82 Stat. 661; renumbered title I, § 103, Pub. L. 93–452, § 3(1), Oct. 18, 1974, 88 Stat. 1375; Pub. L. 105–85, div. B, title XXIX, §§ 2904(b)(6), 2913(6), Nov. 18, 1997, 111 Stat. 2018, 2022; Pub. L. 105–261, div. B, title XXVIII, § 2813, Oct. 17, 1998, 112 Stat. 2206.)
+(Pub. L. 86–797, title I, § 103, formerly § 3, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 90–465, § 1, Aug. 8, 1968, 82 Stat. 661; renumbered title I, § 103, Pub. L. 93–452, § 3(1), Oct. 18, 1974, 88 Stat. 1375; Pub. L. 105–85, div. B, title XXIX, §§ 2904(b)(6), 2913(6), Nov. 18, 1997, 111 Stat. 2018, 2022; Pub. L. 105–261, div. B, title XXVIII, § 2813, Oct. 17, 1998, 112 Stat. 2206.)
 
 **Editorial Notes**
 
@@ -425,7 +425,7 @@ The Secretary of Defense is also authorized to carry out a program for the devel
 
 1968—Pub. L. 90–465 authorized the carrying out of a public outdoor recreation resources program under a cooperative plan between Secretary of Defense, Secretary of the Interior, and State agencies, and struck out provisions for expenditure of funds collected and purposes therefor, now incorporated in section 670f(a) of this title.
 
-### § 670c–1. Cooperative and interagency agreements for land management on installations
+### § 670c–1. Cooperative and interagency agreements for land management on installations
 
 **(a) Authority of Secretary of military department** The Secretary of a military department may enter into cooperative agreements with States, local governments, Indian tribes, nongovernmental organizations, and individuals, and into interagency agreements with the heads of other Federal departments and agencies, to provide for the following:
 
@@ -451,33 +451,33 @@ The Secretary of Defense is also authorized to carry out a program for the devel
 
 **(2)** Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the United States Government.
 
-(Pub. L. 86–797, title I, § 103a, as added Pub. L. 101–189, div. B, title XXVIII, § 2845(a), Nov. 29, 1989, 103 Stat. 1664; amended Pub. L. 105–85, div. B, title XXIX, § 2908, Nov. 18, 1997, 111 Stat. 2021; Pub. L. 110–417, [div. A], title III, § 313, Oct. 14, 2008, 122 Stat. 4409; Pub. L. 111–84, div. A, title III, § 313, Oct. 28, 2009, 123 Stat. 2248; Pub. L. 112–81, div. A, title III, § 312(a)(3), (b)(3), Dec. 31, 2011, 125 Stat. 1352, 1353; Pub. L. 112–239, div. A, title III, § 312(a), Jan. 2, 2013, 126 Stat. 1691; Pub. L. 113–291, div. A, title III, § 312, Dec. 19, 2014, 128 Stat. 3336.)
+(Pub. L. 86–797, title I, § 103a, as added Pub. L. 101–189, div. B, title XXVIII, § 2845(a), Nov. 29, 1989, 103 Stat. 1664; amended Pub. L. 105–85, div. B, title XXIX, § 2908, Nov. 18, 1997, 111 Stat. 2021; Pub. L. 110–417, [div. A], title III, § 313, Oct. 14, 2008, 122 Stat. 4409; Pub. L. 111–84, div. A, title III, § 313, Oct. 28, 2009, 123 Stat. 2248; Pub. L. 112–81, div. A, title III, § 312(a)(3), (b)(3), Dec. 31, 2011, 125 Stat. 1352, 1353; Pub. L. 112–239, div. A, title III, § 312(a), Jan. 2, 2013, 126 Stat. 1691; Pub. L. 113–291, div. A, title III, § 312, Dec. 19, 2014, 128 Stat. 3336.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 113–291, § 312, which directed amendment of section “103A” of the Sikes Act, was executed to this section, which is section 103a of that Act, to reflect the probable intent of Congress. See 2014 Amendment notes below.
+Pub. L. 113–291, § 312, which directed amendment of section “103A” of the Sikes Act, was executed to this section, which is section 103a of that Act, to reflect the probable intent of Congress. See 2014 Amendment notes below.
 
 **Amendments**
 
-2014—Subsec. (b). Pub. L. 113–291, § 312(a), designated existing provisions as par. (1) and added pars. (2) and (3). See Codification note above.
+2014—Subsec. (b). Pub. L. 113–291, § 312(a), designated existing provisions as par. (1) and added pars. (2) and (3). See Codification note above.
 
-Subsec. (c). Pub. L. 113–291, § 312(b), amended subsec. (c) generally. See Codification note above. Prior to amendment, text read as follows: “Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of funds and shall not be considered, nor be treated as, cooperative agreements to which chapter 63 of title 31 applies.”
+Subsec. (c). Pub. L. 113–291, § 312(b), amended subsec. (c) generally. See Codification note above. Prior to amendment, text read as follows: “Cooperative agreements and interagency agreements entered into under this section shall be subject to the availability of funds and shall not be considered, nor be treated as, cooperative agreements to which chapter 63 of title 31 applies.”
 
 2013—Subsec. (a). Pub. L. 112–239, which directed amendment of section 103A of Pub. L. 86–797 by inserting “Indian tribes,” after “local governments,” in introductory provisions of subsec. (a), was executed to this section, which is section 103a of Pub. L. 86–797, to reflect the probable intent of Congress.
 
-2011—Pub. L. 112–81, § 312(b)(3)(A), (B), inserted section catchline.
+2011—Pub. L. 112–81, § 312(b)(3)(A), (B), inserted section catchline.
 
-Subsec. (a). Pub. L. 112–81, § 312(b)(3)(C), inserted heading.
+Subsec. (a). Pub. L. 112–81, § 312(b)(3)(C), inserted heading.
 
-Subsec. (a)(1). Pub. L. 112–81, § 312(a)(3)(A), substituted “military installations and State-owned National Guard installations” for “Department of Defense installations”.
+Subsec. (a)(1). Pub. L. 112–81, § 312(a)(3)(A), substituted “military installations and State-owned National Guard installations” for “Department of Defense installations”.
 
-Subsec. (a)(2). Pub. L. 112–81, § 312(a)(3)(B), substituted “military installation or State-owned National Guard installation” for “Department of Defense installation”.
+Subsec. (a)(2). Pub. L. 112–81, § 312(a)(3)(B), substituted “military installation or State-owned National Guard installation” for “Department of Defense installation”.
 
-Subsec. (c). Pub. L. 112–81, § 312(b)(3)(D), inserted heading.
+Subsec. (c). Pub. L. 112–81, § 312(b)(3)(D), inserted heading.
 
-2009—Pub. L. 111–84 inserted, in section catchline, “and interagency” after “Cooperative”, in subsec. (a), “, and into interagency agreements with the heads of other Federal departments and agencies,” after “and individuals” in introductory provisions and “or interagency agreement” after “cooperative agreement” in par. (2), in subsec. (b), “or interagency agreement” after “cooperative agreement”, and, in subsec. (c), “and interagency agreements” after “Cooperative agreements”.
+2009—Pub. L. 111–84 inserted, in section catchline, “and interagency” after “Cooperative”, in subsec. (a), “, and into interagency agreements with the heads of other Federal departments and agencies,” after “and individuals” in introductory provisions and “or interagency agreement” after “cooperative agreement” in par. (2), in subsec. (b), “or interagency agreement” after “cooperative agreement”, and, in subsec. (c), “and interagency agreements” after “Cooperative agreements”.
 
 2008—Subsec. (a). Pub. L. 110–417 substituted “to provide for the following:
 
@@ -485,9 +485,9 @@ Subsec. (c). Pub. L. 112–81, § 312(b)(3)(D), inserted heading.
 
 for “to provide for the” and added par. (2).
 
-1997—Subsec. (a). Pub. L. 105–85, § 2908(1), substituted “Secretary of a military department” for “Secretary of Defense”.
+1997—Subsec. (a). Pub. L. 105–85, § 2908(1), substituted “Secretary of a military department” for “Secretary of Defense”.
 
-Subsec. (b). Pub. L. 105–85, § 2908(2), added heading and text of subsec. (b) and struck out former subsec. (b) which read as follows: “A cooperative agreement shall provide for the Secretary of Defense and the other party or parties to the agreement—
+Subsec. (b). Pub. L. 105–85, § 2908(2), added heading and text of subsec. (b) and struck out former subsec. (b) which read as follows: “A cooperative agreement shall provide for the Secretary of Defense and the other party or parties to the agreement—
 
 “(1) to contribute funds on a matching basis to defray the cost of programs, projects, and activities under the agreement; or
 
@@ -501,11 +501,11 @@ or to do both.”
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (b)(3) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.
 
-### § 670d. Liability for funds; accounting to Comptroller General
+### § 670d. Liability for funds; accounting to Comptroller General
 
 The Department of Defense is held free from any liability to pay into the Treasury of the United States upon the operation of the program or programs authorized by this subchapter any funds which may have been or may hereafter be collected, received or expended pursuant to, and for the purposes of, this subchapter, and which collections, receipts and expenditures have been properly accounted for to the Comptroller General of the United States.
 
-(Pub. L. 86–797, title I, § 104, formerly § 4, Sept. 15, 1960, 74 Stat. 1053; renumbered title I, § 104, and amended Pub. L. 93–452, § 3(1), (4), Oct. 18, 1974, 88 Stat. 1375; Pub. L. 112–81, div. A, title III, § 312(b)(4), Dec. 31, 2011, 125 Stat. 1353.)
+(Pub. L. 86–797, title I, § 104, formerly § 4, Sept. 15, 1960, 74 Stat. 1053; renumbered title I, § 104, and amended Pub. L. 93–452, § 3(1), (4), Oct. 18, 1974, 88 Stat. 1375; Pub. L. 112–81, div. A, title III, § 312(b)(4), Dec. 31, 2011, 125 Stat. 1353.)
 
 **Editorial Notes**
 
@@ -513,13 +513,13 @@ The Department of Defense is held free from any liability to pay into the Treasu
 
 2011—Pub. L. 112–81 inserted section catchline.
 
-1974—Pub. L. 93–452, § 3(4), substituted “title” for “Act” wherever appearing, which for purposes of codification was translated as “subchapter”.
+1974—Pub. L. 93–452, § 3(4), substituted “title” for “Act” wherever appearing, which for purposes of codification was translated as “subchapter”.
 
-### § 670e. Applicability to other laws; national forest lands
+### § 670e. Applicability to other laws; national forest lands
 
 Nothing herein contained shall be construed to modify, amend or repeal any provision of Public Law 85–337, nor as applying to national forest lands administered pursuant to the provisions of section 9 of the Act of June 7, 1924 (43 Stat. 655), nor section 315m of title 43.
 
-(Pub. L. 86–797, title I, § 105, formerly § 5, Sept. 15, 1960, 74 Stat. 1053; renumbered title I, § 105, Pub. L. 93–452, § 3(1), Oct. 18, 1974, 88 Stat. 1375; amended Pub. L. 112–81, div. A, title III, § 312(b)(5), Dec. 31, 2011, 125 Stat. 1353.)
+(Pub. L. 86–797, title I, § 105, formerly § 5, Sept. 15, 1960, 74 Stat. 1053; renumbered title I, § 105, Pub. L. 93–452, § 3(1), Oct. 18, 1974, 88 Stat. 1375; amended Pub. L. 112–81, div. A, title III, § 312(b)(5), Dec. 31, 2011, 125 Stat. 1353.)
 
 **Editorial Notes**
 
@@ -533,11 +533,11 @@ Section 9 of the Act of June 7, 1924 [ch. 348, 43 Stat. 655], referred to in tex
 
 2011—Pub. L. 112–81 inserted section catchline.
 
-### § 670e–1. Federal enforcement of other laws
+### § 670e–1. Federal enforcement of other laws
 
 All Federal laws relating to the management of natural resources on Federal land may be enforced by the Secretary of Defense with respect to violations of the laws that occur on military installations within the United States.
 
-(Pub. L. 86–797, title I, § 106, as added Pub. L. 105–85, div. B, title XXIX, § 2909(2), Nov. 18, 1997, 111 Stat. 2021.)
+(Pub. L. 86–797, title I, § 106, as added Pub. L. 105–85, div. B, title XXIX, § 2909(2), Nov. 18, 1997, 111 Stat. 2021.)
 
 **Editorial Notes**
 
@@ -545,13 +545,13 @@ All Federal laws relating to the management of natural resources on Federal land
 
 A prior section 106 of Pub. L. 86–797 was renumbered section 108, and is classified to section 670f of this title.
 
-### § 670e–2. Natural resources management services
+### § 670e–2. Natural resources management services
 
 To the extent practicable using available resources, the Secretary of each military department shall ensure that sufficient numbers of professionally trained natural resources management personnel and natural resources law enforcement personnel are available and assigned responsibility to perform tasks necessary to carry out this subchapter, including the preparation and implementation of integrated natural resources management plans.
 
-(Pub. L. 86–797, title I, § 107, as added Pub. L. 105–85, div. B, title XXIX, § 2910, Nov. 18, 1997, 111 Stat. 2021.)
+(Pub. L. 86–797, title I, § 107, as added Pub. L. 105–85, div. B, title XXIX, § 2910, Nov. 18, 1997, 111 Stat. 2021.)
 
-### § 670f. Appropriations and expenditures
+### § 670f. Appropriations and expenditures
 
 **(a) Expenditures of collected funds under integrated natural resources management plans**
 
@@ -569,63 +569,63 @@ Of the amounts authorized to be appropriated to the Department of the Interior, 
 
 The Secretary of Defense and the Secretary of the Interior may each use any authority available to him under other laws relating to fish, wildlife, or plant conservation or rehabilitation for purposes of carrying out the provisions of this subchapter.
 
-(Pub. L. 86–797, title I, § 108, formerly § 6, as added Pub. L. 90–465, § 2, Aug. 8, 1968, 82 Stat. 661; renumbered title I, § 106, and amended Pub. L. 93–452, §§ 1(2), 3(1), (4), (5), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 95–420, § 2, Oct. 5, 1978, 92 Stat. 921; Pub. L. 97–396, § 2, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §§ 1(a), 3(b), Oct. 27, 1986, 100 Stat. 3149, 3151; Pub. L. 100–653, title II, § 202(a), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 101–189, div. B, title XXVIII, § 2845(b), Nov. 29, 1989, 103 Stat. 1664; renumbered § 108, and amended Pub. L. 105–85, div. B, title XXIX, §§ 2904(b)(7), (8), 2909(1), 2914(a), Nov. 18, 1997, 111 Stat. 2018, 2021, 2022; Pub. L. 108–136, div. A, title III, § 311(a), Nov. 24, 2003, 117 Stat. 1428; Pub. L. 111–84, div. A, title III, § 312, Oct. 28, 2009, 123 Stat. 2247; Pub. L. 112–81, div. A, title III, § 312(b)(6), Dec. 31, 2011, 125 Stat. 1353; Pub. L. 113–66, div. A, title III, § 313, title X, § 1091(c)(1), Dec. 26, 2013, 127 Stat. 729, 876.)
+(Pub. L. 86–797, title I, § 108, formerly § 6, as added Pub. L. 90–465, § 2, Aug. 8, 1968, 82 Stat. 661; renumbered title I, § 106, and amended Pub. L. 93–452, §§ 1(2), 3(1), (4), (5), Oct. 18, 1974, 88 Stat. 1369, 1375; Pub. L. 95–420, § 2, Oct. 5, 1978, 92 Stat. 921; Pub. L. 97–396, § 2, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §§ 1(a), 3(b), Oct. 27, 1986, 100 Stat. 3149, 3151; Pub. L. 100–653, title II, § 202(a), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 101–189, div. B, title XXVIII, § 2845(b), Nov. 29, 1989, 103 Stat. 1664; renumbered § 108, and amended Pub. L. 105–85, div. B, title XXIX, §§ 2904(b)(7), (8), 2909(1), 2914(a), Nov. 18, 1997, 111 Stat. 2018, 2021, 2022; Pub. L. 108–136, div. A, title III, § 311(a), Nov. 24, 2003, 117 Stat. 1428; Pub. L. 111–84, div. A, title III, § 312, Oct. 28, 2009, 123 Stat. 2247; Pub. L. 112–81, div. A, title III, § 312(b)(6), Dec. 31, 2011, 125 Stat. 1353; Pub. L. 113–66, div. A, title III, § 313, title X, § 1091(c)(1), Dec. 26, 2013, 127 Stat. 729, 876.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsecs. (b), (c). Pub. L. 113–66, § 313, substituted “fiscal years 2014 through 2019” for “fiscal years 2009 through 2014”.
+2013—Subsecs. (b), (c). Pub. L. 113–66, § 313, substituted “fiscal years 2014 through 2019” for “fiscal years 2009 through 2014”.
 
-Subsec. (d). Pub. L. 113–66, § 1091(c)(1), made technical amendment to directory language of Pub. L. 112–81, § 312(b)(6)(F). See 2011 Amendment note below.
+Subsec. (d). Pub. L. 113–66, § 1091(c)(1), made technical amendment to directory language of Pub. L. 112–81, § 312(b)(6)(F). See 2011 Amendment note below.
 
-2011—Pub. L. 112–81, § 312(b)(6), as amended by Pub. L. 113–66, § 1091(c)(1), inserted section catchline and headings for subsecs. (a) to (d).
+2011—Pub. L. 112–81, § 312(b)(6), as amended by Pub. L. 113–66, § 1091(c)(1), inserted section catchline and headings for subsecs. (a) to (d).
 
-2009—Subsec. (b). Pub. L. 111–84, § 312(a), (b)(1), substituted “Of the amounts authorized to be appropriated to the Department of Defense, there are authorized” for “There are authorized” and “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008”.
+2009—Subsec. (b). Pub. L. 111–84, § 312(a), (b)(1), substituted “Of the amounts authorized to be appropriated to the Department of Defense, there are authorized” for “There are authorized” and “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008”.
 
-Subsec. (c). Pub. L. 111–84, § 312(a), (b)(2), substituted “Of the amounts authorized to be appropriated to the Department of the Interior, there are authorized” for “There are authorized” and “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008”.
+Subsec. (c). Pub. L. 111–84, § 312(a), (b)(2), substituted “Of the amounts authorized to be appropriated to the Department of the Interior, there are authorized” for “There are authorized” and “fiscal years 2009 through 2014” for “fiscal years 2004 through 2008”.
 
 2003—Subsecs. (b), (c). Pub. L. 108–136 substituted “fiscal years 2004 through 2008” for “fiscal years 1998 through 2003”.
 
-1997—Subsec. (a). Pub. L. 105–85, § 2904(b)(7), substituted “integrated natural resources management plans” for “cooperative plans”.
+1997—Subsec. (a). Pub. L. 105–85, § 2904(b)(7), substituted “integrated natural resources management plans” for “cooperative plans”.
 
-Subsec. (b). Pub. L. 105–85, § 2914(a), substituted “1998 through 2003,” for “1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
+Subsec. (b). Pub. L. 105–85, § 2914(a), substituted “1998 through 2003,” for “1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
 
-Subsec. (c). Pub. L. 105–85, § 2914(a), substituted “1998 through 2003,” for “1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
+Subsec. (c). Pub. L. 105–85, § 2914(a), substituted “1998 through 2003,” for “1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
 
-Pub. L. 105–85, § 2904(b)(8), substituted “integrated natural resources management plans” for “cooperative plans”.
+Pub. L. 105–85, § 2904(b)(8), substituted “integrated natural resources management plans” for “cooperative plans”.
 
-1989—Subsec. (a). Pub. L. 101–189, § 2845(b)(1), inserted “and cooperative agreements agreed to under section 670c–1 of this title” after “sections 670a and 670b of this title”.
+1989—Subsec. (a). Pub. L. 101–189, § 2845(b)(1), inserted “and cooperative agreements agreed to under section 670c–1 of this title” after “sections 670a and 670b of this title”.
 
-Subsec. (b). Pub. L. 101–189, § 2845(b)(2), inserted “, and to carry out such functions and responsibilities as the Secretary may have under cooperative agreements entered into under section 670c–1 of this title” before period at end of first sentence.
+Subsec. (b). Pub. L. 101–189, § 2845(b)(2), inserted “, and to carry out such functions and responsibilities as the Secretary may have under cooperative agreements entered into under section 670c–1 of this title” before period at end of first sentence.
 
 1988—Subsecs. (b), (c). Pub. L. 100–653 substituted “1988, 1989, 1990, 1991, 1992, and 1993” for “and 1988”.
 
-1986—Subsec. (a). Pub. L. 99–561, § 3(b), inserted provision that all funds collected remain available until expended.
+1986—Subsec. (a). Pub. L. 99–561, § 3(b), inserted provision that all funds collected remain available until expended.
 
-Subsecs. (b), (c). Pub. L. 99–561, § 1(a), substituted “1985, 1986, 1987, and 1988” for “and 1985”.
+Subsecs. (b), (c). Pub. L. 99–561, § 1(a), substituted “1985, 1986, 1987, and 1988” for “and 1985”.
 
-1982—Subsecs. (b), (c). Pub. L. 97–396, § 2(1), substituted “1983, 1984, and 1985,” for “ending September 30, 1979, September 30, 1980, and September 30, 1981,” wherever appearing.
+1982—Subsecs. (b), (c). Pub. L. 97–396, § 2(1), substituted “1983, 1984, and 1985,” for “ending September 30, 1979, September 30, 1980, and September 30, 1981,” wherever appearing.
 
-Subsec. (d). Pub. L. 97–396, § 2(2), added subsec. (d).
+Subsec. (d). Pub. L. 97–396, § 2(2), added subsec. (d).
 
 1978—Subsec. (b). Pub. L. 95–420 substituted provisions authorizing the appropriation of not to exceed $1,500,000 for each of the fiscal years ending Sept. 30, 1979, 1980 and 1981 for provisions authorizing the appropriation of not to exceed $500,000 per fiscal year for fiscal years beginning July 1, 1969, 1970, and 1971 and not to exceed $1,500,000 for fiscal year beginning July 1, 1972 and for each of the next five fiscal years thereafter and struck out provisions relating to the authorization of appropriations to the Secretary of the Interior not to exceed $2,000,000 for the fiscal year beginning July 1, 1973 and for each of the next four fiscal years thereafter to enable the Secretary to carry out the functions and responsibilities under cooperative plans, sums appropriated under this subchapter to be available until expended.
 
 Subsec. (c). Pub. L. 95–420 added subsec. (c).
 
-1974—Subsec. (a). Pub. L. 93–452, § 3(5), substituted “sections 101 and 102” for “sections 1 and 2” which for purposes of codification was translated as “sections 670a and 670b”, therefore requiring no change in text because of redesignation of former sections 1 and 2 of Pub. L. 86–797 by section 3(1) of Pub. L. 93–452.
+1974—Subsec. (a). Pub. L. 93–452, § 3(5), substituted “sections 101 and 102” for “sections 1 and 2” which for purposes of codification was translated as “sections 670a and 670b”, therefore requiring no change in text because of redesignation of former sections 1 and 2 of Pub. L. 86–797 by section 3(1) of Pub. L. 93–452.
 
-Subsec. (b). Pub. L. 93–452, §§ 1(2), 3(4), inserted provisions authorizing appropriations of not to exceed $1,500,000 for the fiscal year beginning July 1, 1972, and for each of the next five fiscal years thereafter, and authorizing appropriations to the Secretary of the Interior not to exceed $2,000,000 for the fiscal year beginning July 1, 1973, and for each of the next four fiscal years thereafter, and substituted “title” for “Act” wherever appearing, which for purposes of codification was translated as “subchapter”.
+Subsec. (b). Pub. L. 93–452, §§ 1(2), 3(4), inserted provisions authorizing appropriations of not to exceed $1,500,000 for the fiscal year beginning July 1, 1972, and for each of the next five fiscal years thereafter, and authorizing appropriations to the Secretary of the Interior not to exceed $2,000,000 for the fiscal year beginning July 1, 1973, and for each of the next four fiscal years thereafter, and substituted “title” for “Act” wherever appearing, which for purposes of codification was translated as “subchapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title X, § 1091(c), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment by section 1091(c)(1) is effective as of Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 113–66, div. A, title X, § 1091(c), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment by section 1091(c)(1) is effective as of Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 ## SUBCHAPTER II—CONSERVATION PROGRAMS ON PUBLIC LANDS
 
-### § 670g. Wildlife, fish, and game conservation and rehabilitation programs
+### § 670g. Wildlife, fish, and game conservation and rehabilitation programs
 
 **(a) Programs required**
 
@@ -635,7 +635,7 @@ The Secretary of the Interior and the Secretary of Agriculture shall each, in co
 
 The Secretary of the Interior shall implement the conservation and rehabilitation programs required under subsection (a) of this section on public land under his jurisdiction. The Secretary of the Interior shall adopt, modify, and implement the conservation and rehabilitation programs required under such subsection (a) on public land under the jurisdiction of the Chairman, but only with the prior written approval of the Atomic Energy Commission, and on public land under the jurisdiction of the Administrator, but only with the prior written approval of the Administrator. The Secretary of Agriculture shall implement such conservation and rehabilitation programs on public land under his jurisdiction.
 
-(Pub. L. 86–797, title II, § 201, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, § 3, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 112–81, div. A, title III, § 312(b)(7), Dec. 31, 2011, 125 Stat. 1354.)
+(Pub. L. 86–797, title II, § 201, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, § 3, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 112–81, div. A, title III, § 312(b)(7), Dec. 31, 2011, 125 Stat. 1354.)
 
 **Editorial Notes**
 
@@ -653,7 +653,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 **Desert Tortoise Conservation Center**
 
-Pub. L. 116–9, title I, § 1461, Mar. 12, 2019, 133 Stat. 719, provided that:
+Pub. L. 116–9, title I, § 1461, Mar. 12, 2019, 133 Stat. 719, provided that:
 
 > **“(a) In General.—** The Secretary shall establish, operate, and maintain a trans-State desert tortoise conservation center (referred to in this section as the ‘Center’) on public land along the California-Nevada border—
 
@@ -677,9 +677,9 @@ Pub. L. 116–9, title I, § 1461, Mar. 12, 2019, 133 Stat. 719, provided that
 
 **Desert Tortoise Plan**
 
-Pub. L. 100–275, § 12, Mar. 31, 1988, 102 Stat. 60, directed Secretary of the Interior to review status of populations of desert tortoises on lands in Nevada and other States managed by Secretary, other than lands conveyed or leased pursuant to Pub. L. 100–275, assess nature and extent of threats to continued health or stability of such populations on such lands, and prepare a comprehensive plan to address such threats, with Secretary to consult with State officials, other Federal agencies responsible for management of lands where desert tortoise populations are located, the Desert Tortoise Council, and other persons or groups identified by Secretary as having expertise relevant to requirements of this section; such review and assessment to be completed and results to be made available to the public and transmitted to certain committees of Congress no later than two years after Mar. 31, 1988, and such plan to be developed and transmitted to such committees no later than three years after Mar. 31, 1988; with a failure by Secretary to transmit such report within such three-year period not to relieve the Secretary from requirement to prepare such plan.
+Pub. L. 100–275, § 12, Mar. 31, 1988, 102 Stat. 60, directed Secretary of the Interior to review status of populations of desert tortoises on lands in Nevada and other States managed by Secretary, other than lands conveyed or leased pursuant to Pub. L. 100–275, assess nature and extent of threats to continued health or stability of such populations on such lands, and prepare a comprehensive plan to address such threats, with Secretary to consult with State officials, other Federal agencies responsible for management of lands where desert tortoise populations are located, the Desert Tortoise Council, and other persons or groups identified by Secretary as having expertise relevant to requirements of this section; such review and assessment to be completed and results to be made available to the public and transmitted to certain committees of Congress no later than two years after Mar. 31, 1988, and such plan to be developed and transmitted to such committees no later than three years after Mar. 31, 1988; with a failure by Secretary to transmit such report within such three-year period not to relieve the Secretary from requirement to prepare such plan.
 
-### § 670h. Comprehensive plans for conservation and rehabilitation programs
+### § 670h. Comprehensive plans for conservation and rehabilitation programs
 
 **(a) Development of plans**
 
@@ -737,7 +737,7 @@ A cooperative agreement may also provide for arrangements under which the Secret
 
 Agreements entered into by State agencies under the authority of this section shall not be deemed to be, or treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
-(Pub. L. 86–797, title II, § 202, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, § 4, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 112–81, div. A, title III, § 312(b)(8), Dec. 31, 2011, 125 Stat. 1354.)
+(Pub. L. 86–797, title II, § 202, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, § 4, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 112–81, div. A, title III, § 312(b)(8), Dec. 31, 2011, 125 Stat. 1354.)
 
 **Editorial Notes**
 
@@ -747,7 +747,7 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (c)(1), is 
 
 **Codification**
 
-In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977 (41 U.S.C. 501 et seq.)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Grant and Cooperative Agreement Act of 1977 (41 U.S.C. 501 et seq.)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
@@ -761,7 +761,7 @@ In subsec. (d), “chapter 63 of title 31” substituted for “the Federal Gran
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
-### § 670i. Public land management area stamps for hunting, trapping, and fishing on public lands subject to programs
+### § 670i. Public land management area stamps for hunting, trapping, and fishing on public lands subject to programs
 
 **(a) Agreements to require stamps**
 
@@ -783,7 +783,7 @@ Any State agency may agree with the Secretary of the Interior and the Secretary 
 
 **(7)** Any individual to whom a stamp is sold pursuant to this section shall upon request exhibit such stamp for inspection to any officer or employee of the Department of the Interior or the Department of Agriculture, or to any other person who is authorized to enforce section 670j(a) of this title.
 
-(Pub. L. 86–797, title II, § 203, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1371; amended Pub. L. 100–653, title II, § 201, Nov. 14, 1988, 102 Stat. 3826; Pub. L. 112–81, div. A, title III, § 312(b)(9), Dec. 31, 2011, 125 Stat. 1354.)
+(Pub. L. 86–797, title II, § 203, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1371; amended Pub. L. 100–653, title II, § 201, Nov. 14, 1988, 102 Stat. 3826; Pub. L. 112–81, div. A, title III, § 312(b)(9), Dec. 31, 2011, 125 Stat. 1354.)
 
 **Editorial Notes**
 
@@ -793,7 +793,7 @@ Any State agency may agree with the Secretary of the Interior and the Secretary 
 
 1988—Subsec. (b)(3). Pub. L. 100–653 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except for expenses incurred in the printing, issuing, or selling of such stamps, the fees collected for such stamps by the State agency shall be utilized in carrying out conservation and rehabilitation programs implemented under this subchapter in the State concerned and for no other purpose. If such programs are implemented by both the Secretary of the Interior and the Secretary of Agriculture in the State, the Secretaries shall mutually agree, on such basis as they deem reasonable, on the proportion of such fees that shall be applied by the State agency to their respective programs.”
 
-### § 670j. Enforcement provisions
+### § 670j. Enforcement provisions
 
 **(a) Violations and penalties**
 
@@ -817,17 +817,17 @@ All guns, traps, nets, and other equipment, vessels, vehicles, and other means o
 
 All provisions of law relating to the seizure, forfeiture, and condemnation of a vessel for violation of the customs laws, the disposition of such vessel or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures, shall apply to the seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as such provisions of law are applicable and not inconsistent with the provisions of this section; except that all powers, rights, and duties conferred or imposed by the customs laws upon any officer or employee of the Department of the Treasury shall, for the purposes of this section, be exercised or performed by the Secretary of the Interior or the Secretary of Agriculture, as the case may be, or by such persons as he may designate.
 
-(Pub. L. 86–797, title II, § 204, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1372; amended Pub. L. 112–81, div. A, title III, § 312(b)(10), (c), Dec. 31, 2011, 125 Stat. 1354, 1355.)
+(Pub. L. 86–797, title II, § 204, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1372; amended Pub. L. 112–81, div. A, title III, § 312(b)(10), (c), Dec. 31, 2011, 125 Stat. 1354, 1355.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Pub. L. 112–81, § 312(b)(10), inserted section catchline and headings for subsecs. (a) to (d).
+2011—Pub. L. 112–81, § 312(b)(10), inserted section catchline and headings for subsecs. (a) to (d).
 
-Subsec. (b)(2), (3). Pub. L. 112–81, § 312(c), substituted “magistrate judge” for “magistrate”.
+Subsec. (b)(2), (3). Pub. L. 112–81, § 312(c), substituted “magistrate judge” for “magistrate”.
 
-### § 670k. Definitions
+### § 670k. Definitions
 
 As used in this subchapter—
 
@@ -859,7 +859,7 @@ As used in this subchapter—
 
 **(6)** The term “conservation and rehabilitation programs” means to utilize those methods and procedures which are necessary to protect, conserve, and enhance wildlife, fish, and game resources to the maximum extent practicable on public lands subject to this subchapter consistent with any overall land use and management plans for the lands involved. Such methods and procedures shall include, but shall not be limited to, all activities associated with scientific resources management such as protection, research, census, law enforcement, habitat management, propagation, live trapping and transplantation, and regulated taking in conformance with the provisions of this subchapter. Nothing in this term shall be construed as diminishing the authority or jurisdiction of the States with respect to the management of resident species of fish, wildlife, or game, except as otherwise provided by law.
 
-(Pub. L. 86–797, title II, § 205, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1373; amended Pub. L. 112–81, div. A, title III, § 312(b)(11), Dec. 31, 2011, 125 Stat. 1355.)
+(Pub. L. 86–797, title II, § 205, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1373; amended Pub. L. 112–81, div. A, title III, § 312(b)(11), Dec. 31, 2011, 125 Stat. 1355.)
 
 **Editorial Notes**
 
@@ -873,11 +873,11 @@ As used in this subchapter—
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
-### § 670l. Stamp requirements not applicable to Forest Service and Bureau of Land Management lands; authorized fees
+### § 670l. Stamp requirements not applicable to Forest Service and Bureau of Land Management lands; authorized fees
 
 Notwithstanding any other provision in this subchapter, section 670i of this title shall not apply to land which is, or hereafter may be, within or designated as Forest Service land or as Bureau of Land Management land of any State in which all Federal lands therein comprise 60 percent or more of the total area of such State; except that in any such State, any appropriate State agency may agree with the Secretary of Agriculture or the Secretary of the Interior, or both, as the case may be, to collect a fee as specified in such agreement at the point of sale of regular licenses to hunt, trap, or fish in such State, the proceeds of which shall be utilized in carrying out conservation and rehabilitation programs implemented under this subchapter in the State concerned and for no other purpose.
 
-(Pub. L. 86–797, title II, § 206, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1374; amended Pub. L. 112–81, div. A, title III, § 312(b)(12), Dec. 31, 2011, 125 Stat. 1355.)
+(Pub. L. 86–797, title II, § 206, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1374; amended Pub. L. 112–81, div. A, title III, § 312(b)(12), Dec. 31, 2011, 125 Stat. 1355.)
 
 **Editorial Notes**
 
@@ -885,11 +885,11 @@ Notwithstanding any other provision in this subchapter, section 670i of this tit
 
 2011—Pub. L. 112–81 inserted section catchline.
 
-### § 670m. Indian rights; State or Federal jurisdiction regulating Indian rights
+### § 670m. Indian rights; State or Federal jurisdiction regulating Indian rights
 
 Nothing in this subchapter shall enlarge or diminish or in any way affect (1) the rights of Indians or Indian tribes to the use of water or natural resources or their rights to fish, trap, or hunt wildlife as secured by statute, agreement, treaty, Executive order, or court decree; or (2) existing State or Federal jurisdiction to regulate those rights either on or off reservations.
 
-(Pub. L. 86–797, title II, § 207, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1374; amended Pub. L. 112–81, div. A, title III, § 312(b)(13), Dec. 31, 2011, 125 Stat. 1355.)
+(Pub. L. 86–797, title II, § 207, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1374; amended Pub. L. 112–81, div. A, title III, § 312(b)(13), Dec. 31, 2011, 125 Stat. 1355.)
 
 **Editorial Notes**
 
@@ -897,11 +897,11 @@ Nothing in this subchapter shall enlarge or diminish or in any way affect (1) th
 
 2011—Pub. L. 112–81 inserted section catchline.
 
-### § 670n. Repealed. Pub. L. 112–81, div. A, title III, § 312(d), Dec. 31, 2011, 125 Stat. 1355
+### § 670n. Repealed. Pub. L. 112–81, div. A, title III, § 312(d), Dec. 31, 2011, 125 Stat. 1355
 
-Section, Pub. L. 86–797, title II, § 208, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1374, related to the jurisdiction, authority, duties, or activities of the Joint Federal-State Land Use Planning Commission.
+Section, Pub. L. 86–797, title II, § 208, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1374, related to the jurisdiction, authority, duties, or activities of the Joint Federal-State Land Use Planning Commission.
 
-### § 670o. Authorization of appropriations
+### § 670o. Authorization of appropriations
 
 **(a) Functions and responsibilities of Secretary of the Interior**
 
@@ -919,37 +919,37 @@ The Secretary of the Interior and the Secretary of Agriculture may each use any 
 
 The Secretary of the Interior and the Secretary of Agriculture may each make purchases and contracts for property and services from, or provide assistance to, the State agencies concerned, if such property, services or assistance is required to implement those projects and programs carried out on, or of benefit to, Federal lands and identified in the comprehensive plans or cooperative agreements developed under section 670h of this title, without regard to division C (except sections 3302, 3307(e), 3501(b), 3509, 3901, 3905, 3906, 4710, and 4711) of subtitle I of title 41. Contract authority provided in this section is effective only to such extent or in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 86–797, title II, § 208, formerly § 209, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1374; amended Pub. L. 95–420, § 3, Oct. 5, 1978, 92 Stat. 921; Pub. L. 97–396, § 5, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, § 1(b), Oct. 27, 1986, 100 Stat. 3149; Pub. L. 100–653, title II, § 202(b), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 105–85, div. B, title XXIX, § 2914(b), Nov. 18, 1997, 111 Stat. 2023; renumbered § 208 and amended Pub. L. 112–81, div. A, title III, § 312(b)(14), (d), Dec. 31, 2011, 125 Stat. 1355.)
+(Pub. L. 86–797, title II, § 208, formerly § 209, as added Pub. L. 93–452, § 2, Oct. 18, 1974, 88 Stat. 1374; amended Pub. L. 95–420, § 3, Oct. 5, 1978, 92 Stat. 921; Pub. L. 97–396, § 5, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, § 1(b), Oct. 27, 1986, 100 Stat. 3149; Pub. L. 100–653, title II, § 202(b), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 105–85, div. B, title XXIX, § 2914(b), Nov. 18, 1997, 111 Stat. 2023; renumbered § 208 and amended Pub. L. 112–81, div. A, title III, § 312(b)(14), (d), Dec. 31, 2011, 125 Stat. 1355.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (b), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (b), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 **Codification**
 
-In subsec. (d), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3901, 3905, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “title III (other than section 304) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251–260)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d), “division C (except sections 3302, 3307(e), 3501(b), 3509, 3901, 3905, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “title III (other than section 304) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251–260)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Prior Provisions**
 
-A prior section 208 of Pub. L. 86–797 was classified to section 670n of this title prior to repeal by Pub. L. 112–81, div. A, title III, § 312(d), Dec. 31, 2011, 125 Stat. 1355.
+A prior section 208 of Pub. L. 86–797 was classified to section 670n of this title prior to repeal by Pub. L. 112–81, div. A, title III, § 312(d), Dec. 31, 2011, 125 Stat. 1355.
 
 **Amendments**
 
-2011—Pub. L. 112–81, § 312(b)(14), inserted section catchline and headings for subsecs. (a) to (d).
+2011—Pub. L. 112–81, § 312(b)(14), inserted section catchline and headings for subsecs. (a) to (d).
 
-1997—Subsec. (a). Pub. L. 105–85, § 2914(b)(1), substituted “$4,000,000 for each of fiscal years 1998 through 2003,” for “the sum of $10,000,000 for each of the fiscal years 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
+1997—Subsec. (a). Pub. L. 105–85, § 2914(b)(1), substituted “$4,000,000 for each of fiscal years 1998 through 2003,” for “the sum of $10,000,000 for each of the fiscal years 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
 
-Subsec. (b). Pub. L. 105–85, § 2914(b)(2), substituted “$5,000,000 for each of fiscal years 1998 through 2003,” for “the sum of $12,000,000 for each of the fiscal years 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
+Subsec. (b). Pub. L. 105–85, § 2914(b)(2), substituted “$5,000,000 for each of fiscal years 1998 through 2003,” for “the sum of $12,000,000 for each of the fiscal years 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, and 1993,”.
 
 1988—Subsecs. (a), (b). Pub. L. 100–653 substituted “1988, 1989, 1990, 1991, 1992, and 1993” for “and 1988”.
 
 1986—Subsecs. (a), (b). Pub. L. 99–561 substituted “1985, 1986, 1987, and 1988” for “and 1985”.
 
-1982—Subsecs. (a), (b). Pub. L. 97–396, § 5(1), substituted “1983, 1984, and 1985,” for “ending September 30, 1979, September 30, 1980, and September 30, 1981,” wherever appearing.
+1982—Subsecs. (a), (b). Pub. L. 97–396, § 5(1), substituted “1983, 1984, and 1985,” for “ending September 30, 1979, September 30, 1980, and September 30, 1981,” wherever appearing.
 
-Subsecs. (c), (d). Pub. L. 97–396, § 5(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 97–396, § 5(2), added subsecs. (c) and (d).
 
 1978—Subsec. (a). Pub. L. 95–420 substituted provisions authorizing appropriation of $10,000,000 for each of fiscal years ending Sept. 30, 1979, 1980, and 1981 to enable the Secretary to carry out his functions, including data collection, research, planning, and conservation and rehabilitation programs, such funds to be in addition to those authorized for wildlife, range, soil and water management pursuant to section 1748 of title 43, for provisions authorizing appropriation of $10,000,000 for fiscal year ending June 30, 1974, and for each of next four fiscal years to enable Department of the Interior to carry out its functions.
 

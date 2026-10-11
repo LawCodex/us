@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 92—YEAR 2000 COMPUTER DATE CHANGE
 
-## § 6601. Findings and purposes
+## § 6601. Findings and purposes
 
 **(a) Findings** The Congress finds the following:
 
@@ -61,15 +61,15 @@ retrieved: 2026-10-11
 
 **(4)** to lessen the burdens on interstate commerce by discouraging insubstantial lawsuits while preserving the ability of individuals and businesses that have suffered real injury to obtain complete relief.
 
-(Pub. L. 106–37, § 2, July 20, 1999, 113 Stat. 185.)
+(Pub. L. 106–37, § 2, July 20, 1999, 113 Stat. 185.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 106–37, § 1(a), July 20, 1999, 113 Stat. 185, provided that: “This Act [enacting this chapter] may be cited as the ‘Y2K Act’.”
+Pub. L. 106–37, § 1(a), July 20, 1999, 113 Stat. 185, provided that: “This Act [enacting this chapter] may be cited as the ‘Y2K Act’.”
 
-## § 6602. Definitions
+## § 6602. Definitions
 
 In this chapter:
 
@@ -119,9 +119,9 @@ The term “contract” means a contract, tariff, license, or warranty.
 
 The term “alternative dispute resolution” means any process or proceeding, other than adjudication by a court or in an administrative proceeding, to assist in the resolution of issues in controversy, through processes such as early neutral evaluation, mediation, minitrial, and arbitration.
 
-(Pub. L. 106–37, § 3, July 20, 1999, 113 Stat. 187.)
+(Pub. L. 106–37, § 3, July 20, 1999, 113 Stat. 187.)
 
-## § 6603. Application of chapter
+## § 6603. Application of chapter
 
 **(a) General rule**
 
@@ -267,7 +267,7 @@ This subsection delays but does not prevent the enforcement of financial obligat
 
 In any Y2K action in which the underlying claim arises under the securities laws (as defined in section 78c(a) of this title), the provisions of this chapter, other than section 6612(b) of this title, shall not apply.
 
-(Pub. L. 106–37, § 4, July 20, 1999, 113 Stat. 188.)
+(Pub. L. 106–37, § 4, July 20, 1999, 113 Stat. 188.)
 
 **Editorial Notes**
 
@@ -275,7 +275,7 @@ In any Y2K action in which the underlying claim arises under the securities laws
 
 The Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (f), is Pub. L. 105–271, Oct. 19, 1998, 112 Stat. 2386, which was formerly set out as a note under section 1 of this title.
 
-## § 6604. Punitive damages limitations
+## § 6604. Punitive damages limitations
 
 **(a) In general**
 
@@ -311,9 +311,9 @@ Punitive damages in a Y2K action may not be awarded against a government entity.
 
 **(1) In general**
 
-Subject to paragraph (2), punitive damages in a Y2K action may not be awarded against an instituion 1
+Subject to paragraph (2), punitive damages in a Y2K action may not be awarded against an instituion 1
 
-<sup>1</sup>  So in original. Probably should be “institution”.
+<sup>1</sup> So in original. Probably should be “institution”.
 
 of higher education as defined in section 1001(a) of title 20.
 
@@ -323,7 +323,7 @@ of higher education as defined in section 1001(a) of title 20.
 
 **(B)** is not or was not in the process of performing data exchange testing with the Department of Education at the time the Department terminates such testing.
 
-(Pub. L. 106–37, § 5, July 20, 1999, 113 Stat. 192; Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 311], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.)
+(Pub. L. 106–37, § 5, July 20, 1999, 113 Stat. 192; Pub. L. 106–113, div. B, § 1000(a)(4) [title III, § 311], Nov. 29, 1999, 113 Stat. 1535, 1501A–265.)
 
 **Editorial Notes**
 
@@ -331,7 +331,7 @@ of higher education as defined in section 1001(a) of title 20.
 
 1999—Subsec. (d). Pub. L. 106–113 added subsec. (d).
 
-## § 6605. Proportionate liability
+## § 6605. Proportionate liability
 
 **(a) In general**
 
@@ -477,9 +477,9 @@ An action for contribution in connection with a Y2K action that is not a contrac
 
 **(2)** otherwise affords a greater degree of protection from joint or several liability than is afforded by this section.
 
-(Pub. L. 106–37, § 6, July 20, 1999, 113 Stat. 192.)
+(Pub. L. 106–37, § 6, July 20, 1999, 113 Stat. 192.)
 
-## § 6606. Prelitigation notice
+## § 6606. Prelitigation notice
 
 **(a) In general** Before commencing a Y2K action, except an action that seeks only injunctive relief, a prospective plaintiff in a Y2K action shall send a written notice by certified mail (with either return receipt requested or other means of verification that the notice was sent) to each prospective defendant in that action. The notice shall provide specific and detailed information about—
 
@@ -571,7 +571,7 @@ Nothing in this section interferes with the right of a litigant to provisional r
 
 For the purpose of applying this section to a Y2K action that is maintained as a class action in Federal or State court, the requirements of the preceding subsections of this section apply only to named plaintiffs in the class action.
 
-(Pub. L. 106–37, § 7, July 20, 1999, 113 Stat. 196.)
+(Pub. L. 106–37, § 7, July 20, 1999, 113 Stat. 196.)
 
 **Editorial Notes**
 
@@ -583,7 +583,7 @@ The Federal Rules of Evidence, referred to in subsec. (c)(3), are set out in the
 
 The Federal Rules of Civil Procedure, referred to in subsec. (i), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 6607. Pleading requirements
+## § 6607. Pleading requirements
 
 **(a) Application with rules of civil procedure**
 
@@ -601,7 +601,7 @@ In any Y2K action in which the plaintiff alleges that there is a material defect
 
 In any Y2K action in which a claim is asserted on which the plaintiff may prevail only on proof that the defendant acted with a particular state of mind, there shall be filed with the complaint, with respect to each element of that claim, a statement of the facts giving rise to a strong inference that the defendant acted with the required state of mind.
 
-(Pub. L. 106–37, § 8, July 20, 1999, 113 Stat. 198.)
+(Pub. L. 106–37, § 8, July 20, 1999, 113 Stat. 198.)
 
 **Editorial Notes**
 
@@ -609,7 +609,7 @@ In any Y2K action in which a claim is asserted on which the plaintiff may prevai
 
 Rules of Federal civil procedure, referred to in subsec. (a), are contained in the Federal Rules of Civil Procedure which are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 6608. Duty to mitigate
+## § 6608. Duty to mitigate
 
 **(a) In general**
 
@@ -623,15 +623,15 @@ The duty imposed by this section is in addition to any duty to mitigate imposed 
 
 Subsection (a) does not apply to damages suffered by reason of the plaintiff’s justifiable reliance upon an affirmative material misrepresentation by the defendant, made by the defendant with actual knowledge of its falsity, concerning the potential for Y2K failure of the device or system used or sold by the defendant that experienced the Y2K failure alleged to have caused the plaintiff’s harm.
 
-(Pub. L. 106–37, § 9, July 20, 1999, 113 Stat. 198.)
+(Pub. L. 106–37, § 9, July 20, 1999, 113 Stat. 198.)
 
-## § 6609. Application of existing impossibility or commercial impracticability doctrines
+## § 6609. Application of existing impossibility or commercial impracticability doctrines
 
 In any Y2K action for breach or repudiation of contract, the applicability of the doctrines of impossibility and commercial impracticability shall be determined by the law in existence on January 1, 1999. Nothing in this chapter shall be construed as limiting or impairing a party’s right to assert defenses based upon such doctrines.
 
-(Pub. L. 106–37, § 10, July 20, 1999, 113 Stat. 199.)
+(Pub. L. 106–37, § 10, July 20, 1999, 113 Stat. 199.)
 
-## § 6610. Damages limitation by contract
+## § 6610. Damages limitation by contract
 
 In any Y2K action for breach or repudiation of contract, no party may claim, or be awarded, any category of damages unless such damages are allowed—
 
@@ -639,9 +639,9 @@ In any Y2K action for breach or repudiation of contract, no party may claim, or 
 
 **(2)** if the contract is silent on such damages, by operation of State law at the time the contract was effective or by operation of Federal law.
 
-(Pub. L. 106–37, § 11, July 20, 1999, 113 Stat. 199.)
+(Pub. L. 106–37, § 11, July 20, 1999, 113 Stat. 199.)
 
-## § 6611. Damages in tort claims
+## § 6611. Damages in tort claims
 
 **(a) In general** A party to a Y2K action making a tort claim, other than a claim of intentional tort arising independent of a contract, may not recover damages for economic loss unless—
 
@@ -669,9 +669,9 @@ and such damages are permitted under applicable Federal or State law.
 
 A person liable for damages, whether by settlement or judgment, in a civil action to which this chapter does not apply because of section 6603(c) of this title whose liability, in whole or in part, is the result of a Y2K failure may, notwithstanding any other provision of this chapter, pursue any remedy otherwise available under Federal or State law against the person responsible for that Y2K failure to the extent of recovering the amount of those damages.
 
-(Pub. L. 106–37, § 12, July 20, 1999, 113 Stat. 199.)
+(Pub. L. 106–37, § 12, July 20, 1999, 113 Stat. 199.)
 
-## § 6612. State of mind; bystander liability; control
+## § 6612. State of mind; bystander liability; control
 
 **(a) Defendant’s state of mind**
 
@@ -705,7 +705,7 @@ The fact that a Y2K failure occurred in an entity, facility, system, product, or
 
 The protections for the exchanges of information provided by section 4 of the Year 2000 Information and Readiness Disclosure Act (Public Law 105–271) shall apply to any Y2K action.
 
-(Pub. L. 106–37, § 13, July 20, 1999, 113 Stat. 200.)
+(Pub. L. 106–37, § 13, July 20, 1999, 113 Stat. 200.)
 
 **Editorial Notes**
 
@@ -713,11 +713,11 @@ The protections for the exchanges of information provided by section 4 of the Ye
 
 Section 4 of the Year 2000 Information and Readiness Disclosure Act, referred to in subsec. (d), is section 4 of Pub. L. 105–271, which was formerly set out in a note under section 1 of this title.
 
-## § 6613. Appointment of special masters or magistrate judges for Y2K actions
+## § 6613. Appointment of special masters or magistrate judges for Y2K actions
 
 Any district court of the United States in which a Y2K action is pending may appoint a special master or a magistrate judge to hear the matter and to make findings of fact and conclusions of law in accordance with Rule 53 of the Federal Rules of Civil Procedure.
 
-(Pub. L. 106–37, § 14, July 20, 1999, 113 Stat. 201.)
+(Pub. L. 106–37, § 14, July 20, 1999, 113 Stat. 201.)
 
 **Editorial Notes**
 
@@ -725,7 +725,7 @@ Any district court of the United States in which a Y2K action is pending may app
 
 Rule 53 of the Federal Rules of Civil Procedure, referred to in text, is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 6614. Y2K actions as class actions
+## § 6614. Y2K actions as class actions
 
 **(a) Material defect requirement** A Y2K action involving a claim that a product or service is defective may be maintained as a class action in Federal or State court as to that claim only if—
 
@@ -789,7 +789,7 @@ The dismissal of a Y2K action under subparagraph (A) shall be without prejudice.
 
 Except as otherwise provided in this section, nothing in this section supersedes any rule of Federal or State civil procedure applicable to class actions.
 
-(Pub. L. 106–37, § 15, July 20, 1999, 113 Stat. 201.)
+(Pub. L. 106–37, § 15, July 20, 1999, 113 Stat. 201.)
 
 **Editorial Notes**
 
@@ -797,17 +797,17 @@ Except as otherwise provided in this section, nothing in this section supersedes
 
 Rules of Federal civil procedure, referred to in subsecs. (a)(1), (c)(3)(A)(ii), and (d), are contained in the Federal Rules of Civil Procedure which are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 6615. Applicability of State law
+## § 6615. Applicability of State law
 
 Nothing in this chapter shall be construed to affect the applicability of any State law that provides stricter limits on damages and liabilities, affording greater protection to defendants in Y2K actions, than are provided in this chapter.
 
-(Pub. L. 106–37, § 16, July 20, 1999, 113 Stat. 202.)
+(Pub. L. 106–37, § 16, July 20, 1999, 113 Stat. 202.)
 
-## § 6616. Admissible evidence ultimate issue in State courts
+## § 6616. Admissible evidence ultimate issue in State courts
 
 Any party to a Y2K action in a State court in a State that has not adopted a rule of evidence substantially similar to Rule 704 of the Federal Rules of Evidence may introduce in such action evidence that would be admissible if Rule 704 applied in that jurisdiction.
 
-(Pub. L. 106–37, § 17, July 20, 1999, 113 Stat. 202.)
+(Pub. L. 106–37, § 17, July 20, 1999, 113 Stat. 202.)
 
 **Editorial Notes**
 
@@ -815,7 +815,7 @@ Any party to a Y2K action in a State court in a State that has not adopted a rul
 
 Rule 704 of the Federal Rules of Evidence, referred to in text, is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 6617. Suspension of penalties for certain year 2000 failures by small business concerns
+## § 6617. Suspension of penalties for certain year 2000 failures by small business concerns
 
 **(a) Definitions** In this section—
 
@@ -857,4 +857,4 @@ Subject to subsections (d) and (e), no agency shall impose any civil money penal
 
 This section shall not apply to first-time violations caused by a Y2K failure occurring after December 31, 2000.
 
-(Pub. L. 106–37, § 18, July 20, 1999, 113 Stat. 202.)
+(Pub. L. 106–37, § 18, July 20, 1999, 113 Stat. 202.)

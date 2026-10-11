@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–576, title III, § 306(b), Nov. 15, 1990, 104 Stat. 2854, substituted “Management” for “Audit”.
+1990—Pub. L. 101–576, title III, § 306(b), Nov. 15, 1990, 104 Stat. 2854, substituted “Management” for “Audit”.
 
-1986—Pub. L. 99–571, title II, § 201(b)(2), Oct. 28, 1986, 100 Stat. 3224, added item 9110.
+1986—Pub. L. 99–571, title II, § 201(b)(2), Oct. 28, 1986, 100 Stat. 3224, added item 9110.
 
-## § 9101. Definitions
+## § 9101. Definitions
 
 In this chapter—
 
@@ -85,7 +85,7 @@ In this chapter—
 
 **(P)** the International Clean Energy Foundation.
 
-(Pub. L. 97–258, §§ 1, 2(*l*)(1), Sept. 13, 1982, 96 Stat. 1041, 1062; Pub. L. 97–452, § 1(26), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 100–86, title III, § 303, Aug. 10, 1987, 101 Stat. 597; Pub. L. 101–73, title III, § 307(e), title V, §§ 501(d), 511(b)(1), Aug. 9, 1989, 103 Stat. 353, 394, 406; Pub. L. 102–486, title IX, § 902(b), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–82, title II, § 202(e)(1), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–272, § 4(f)(1)(Z), July 5, 1994, 108 Stat. 1363; Pub. L. 103–325, title I, § 104(e), Sept. 23, 1994, 108 Stat. 2168; Pub. L. 104–106, div. C, title XXXV, § 3530, Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–127, title VII, § 722(b), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 104–134, title III, § 3117(a), Apr. 26, 1996, 110 Stat. 1321–350; Pub. L. 104–287, § 4(2), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–134, title IV, § 415(d)(2), Dec. 2, 1997, 111 Stat. 2590; Pub. L. 107–171, title VI, § 6201(d)(6), May 13, 2002, 116 Stat. 419; Pub. L. 108–199, div. D, title VI, § 614(e)(2), Jan. 23, 2004, 118 Stat. 223; Pub. L. 110–140, title IX, § 925(c)(2), Dec. 19, 2007, 121 Stat. 1737; Pub. L. 115–254, div. F, title VI, § 1470(u), Oct. 5, 2018, 132 Stat. 3519; Pub. L. 115–334, title VI, § 6602(b)(19), Dec. 20, 2018, 132 Stat. 4777; Pub. L. 116–260, div. AA, title V, § 512(c)(4), Dec. 27, 2020, 134 Stat. 2756.)
+(Pub. L. 97–258, §§ 1, 2(*l*)(1), Sept. 13, 1982, 96 Stat. 1041, 1062; Pub. L. 97–452, § 1(26), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 100–86, title III, § 303, Aug. 10, 1987, 101 Stat. 597; Pub. L. 101–73, title III, § 307(e), title V, §§ 501(d), 511(b)(1), Aug. 9, 1989, 103 Stat. 353, 394, 406; Pub. L. 102–486, title IX, § 902(b), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–82, title II, § 202(e)(1), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–272, § 4(f)(1)(Z), July 5, 1994, 108 Stat. 1363; Pub. L. 103–325, title I, § 104(e), Sept. 23, 1994, 108 Stat. 2168; Pub. L. 104–106, div. C, title XXXV, § 3530, Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–127, title VII, § 722(b), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 104–134, title III, § 3117(a), Apr. 26, 1996, 110 Stat. 1321–350; Pub. L. 104–287, § 4(2), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–134, title IV, § 415(d)(2), Dec. 2, 1997, 111 Stat. 2590; Pub. L. 107–171, title VI, § 6201(d)(6), May 13, 2002, 116 Stat. 419; Pub. L. 108–199, div. D, title VI, § 614(e)(2), Jan. 23, 2004, 118 Stat. 223; Pub. L. 110–140, title IX, § 925(c)(2), Dec. 19, 2007, 121 Stat. 1737; Pub. L. 115–254, div. F, title VI, § 1470(u), Oct. 5, 2018, 132 Stat. 3519; Pub. L. 115–334, title VI, § 6602(b)(19), Dec. 20, 2018, 132 Stat. 4777; Pub. L. 116–260, div. AA, title V, § 512(c)(4), Dec. 27, 2020, 134 Stat. 2756.)
 
 **Historical and Revision Notes**
 
@@ -94,8 +94,8 @@ In this chapter—
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 9101(1) | (no source). |  |
-| 9101(2) | 31:856. | Dec. 6, 1945, ch. 557, § 201, 59 Stat. 600; July 26, 1956, ch. 741, § 201(a)(2), (3), 70 Stat. 667; Oct. 30, 1970, Pub. L. 91–518, § 804, 84 Stat. 1340; May 7, 1971, Pub. L. 92–12, § 4, 85 Stat. 37; Jan. 2, 1974, Pub. L. 93–236, §§ 202(g)(1), 301(f) (last sentence), 87 Stat. 992, 1005; Feb. 5, 1976, Pub. L. 94–210, § 612(b), 90 Stat. 108; Aug. 20, 1978, Pub. L. 95–351, § 301(a), 92 Stat. 513; Nov. 10, 1978, Pub. L. 95–630, § 1805, 92 Stat. 3724; Aug. 13, 1981, Pub. L. 97–35, § 396(h)(1), 95 Stat. 440. |
-| 9101(3) | 31:846. | Dec. 6, 1945, ch. 577, § 101, 59 Stat. 597; Aug. 10, 1948, ch. 832, § 501(b)(less proviso), 62 Stat. 1283; June 30, 1949, ch. 285, § 13, 63 Stat. 356; May 13, 1954, ch. 201, § 6, 68 Stat. 95; July 26, 1956, ch. 741, § 201(a)(1), 70 Stat. 667; June 30, 1958, Pub. L. 85–477, § 502(c), 72 Stat. 272; Oct. 4, 1961, Pub. L. 87–353, § 3(u), 75 Stat. 774; May 25, 1967, Pub. L. 90–19, § 4, 81 Stat. 20; Aug. 1, 1968, Pub. L. 90–448, §§ 807(e), 1719(d), 82 Stat. 544, 610; Dec. 30, 1969, Pub. L. 91–175, § 501, 83 Stat. 825; Oct. 27, 1972, Pub. L. 92–578, § 15, 86 Stat. 1274; Sept. 2, 1974, Pub. L. 93–406, § 4002(g)(3), 88 Stat. 1005. |
+| 9101(2) | 31:856. | Dec. 6, 1945, ch. 557, § 201, 59 Stat. 600; July 26, 1956, ch. 741, § 201(a)(2), (3), 70 Stat. 667; Oct. 30, 1970, Pub. L. 91–518, § 804, 84 Stat. 1340; May 7, 1971, Pub. L. 92–12, § 4, 85 Stat. 37; Jan. 2, 1974, Pub. L. 93–236, §§ 202(g)(1), 301(f) (last sentence), 87 Stat. 992, 1005; Feb. 5, 1976, Pub. L. 94–210, § 612(b), 90 Stat. 108; Aug. 20, 1978, Pub. L. 95–351, § 301(a), 92 Stat. 513; Nov. 10, 1978, Pub. L. 95–630, § 1805, 92 Stat. 3724; Aug. 13, 1981, Pub. L. 97–35, § 396(h)(1), 95 Stat. 440. |
+| 9101(3) | 31:846. | Dec. 6, 1945, ch. 577, § 101, 59 Stat. 597; Aug. 10, 1948, ch. 832, § 501(b)(less proviso), 62 Stat. 1283; June 30, 1949, ch. 285, § 13, 63 Stat. 356; May 13, 1954, ch. 201, § 6, 68 Stat. 95; July 26, 1956, ch. 741, § 201(a)(1), 70 Stat. 667; June 30, 1958, Pub. L. 85–477, § 502(c), 72 Stat. 272; Oct. 4, 1961, Pub. L. 87–353, § 3(u), 75 Stat. 774; May 25, 1967, Pub. L. 90–19, § 4, 81 Stat. 20; Aug. 1, 1968, Pub. L. 90–448, §§ 807(e), 1719(d), 82 Stat. 544, 610; Dec. 30, 1969, Pub. L. 91–175, § 501, 83 Stat. 825; Oct. 27, 1972, Pub. L. 92–578, § 15, 86 Stat. 1274; Sept. 2, 1974, Pub. L. 93–406, § 4002(g)(3), 88 Stat. 1005. |
 
 Clause (1) is included because a number of the provisions of the chapter apply to mixed-ownership and wholly owned Government corporations, and the term “Government corporation” provides a simple phrase to refer to both of those kinds of corporations.
 
@@ -117,11 +117,11 @@ This amends 31:9101(2) because the National Consumer Cooperative Bank is no long
 
 2020—Par. (3)(K). Pub. L. 116–260 substituted “Great Lakes St. Lawrence Seaway Development Corporation” for “Saint Lawrence Seaway Development Corporation”.
 
-2018—Par. (2)(H) to (K). Pub. L. 115–334, § 6602(b)(19)(A), redesignated subpars. (I) to (K) as (H) to (J), respectively, and struck out former subpar. (H) which read as follows: “the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)).”
+2018—Par. (2)(H) to (K). Pub. L. 115–334, § 6602(b)(19)(A), redesignated subpars. (I) to (K) as (H) to (J), respectively, and struck out former subpar. (H) which read as follows: “the Rural Telephone Bank when the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)).”
 
 Par. (3)(H). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
 
-Par. (3)(K) to (R). Pub. L. 115–334, § 6602(b)(19)(B), redesignated subpars. (L) to (N) and (P) to (R) as (K) to (P), respectively, and struck out former pars. (K) and (O) which read as follows:
+Par. (3)(K) to (R). Pub. L. 115–334, § 6602(b)(19)(B), redesignated subpars. (L) to (N) and (P) to (R) as (K) to (P), respectively, and struck out former pars. (K) and (O) which read as follows:
 
 “(K) the Rural Telephone Bank until the ownership, control, and operation of the Bank are converted under section 410(a) of the Rural Electrification Act of 1936 (7 U.S.C. 950(a)).
 
@@ -135,19 +135,19 @@ Par. (3)(K) to (R). Pub. L. 115–334, § 6602(b)(19)(B), redesignated subpars
 
 1997—Par. (2). Pub. L. 105–134 redesignated subpars. (B) to (L) as (A) to (K), respectively, and struck out former subpar. (A) which read: “Amtrak.”
 
-1996—Par. (2)(J) to (M). Pub. L. 104–287, § 4(2)(A), (B), redesignated subpars. (K) to (M) as (J) to (L), respectively, and struck out former subpar. (J), which read: “the United States Railway Association”.
+1996—Par. (2)(J) to (M). Pub. L. 104–287, § 4(2)(A), (B), redesignated subpars. (K) to (M) as (J) to (L), respectively, and struck out former subpar. (J), which read: “the United States Railway Association”.
 
-Par. (3)(B). Pub. L. 104–287, § 4(2)(C), substituted a period for the semicolon at end.
+Par. (3)(B). Pub. L. 104–287, § 4(2)(C), substituted a period for the semicolon at end.
 
-Par. (3)(N). Pub. L. 104–127, § 722(b)(1), and Pub. L. 104–287, § 4(2)(D), amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
+Par. (3)(N). Pub. L. 104–127, § 722(b)(1), and Pub. L. 104–287, § 4(2)(D), amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
 
 Par. (3)(O). Pub. L. 104–134, which directed the amendment of par. (3) of this section by striking out subpar. (N) as added by section 902(b) of Pub. L. 102–486, could not be executed because of the intervening identical amendments of par. (3) by section 722(b)(1) of Pub. L. 104–127 and section 4(2)(D) of Pub. L. 104–287 redesignating that subpar. (N) as (O).
 
-Pub. L. 104–127, § 722(b)(1), and Pub. L. 104–287, § 4(2)(D), amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
+Pub. L. 104–127, § 722(b)(1), and Pub. L. 104–287, § 4(2)(D), amended par. (3) identically, redesignating subpar. (N), relating to Uranium Enrichment Corporation, as (O).
 
 Par. (3)(P). Pub. L. 104–106 added subpar. (P).
 
-Par. (3)(Q). Pub. L. 104–127, § 722(b)(2), added subpar. (Q).
+Par. (3)(Q). Pub. L. 104–127, § 722(b)(2), added subpar. (Q).
 
 1994—Par. (2)(K). Pub. L. 103–272 substituted “the” for “The”.
 
@@ -157,17 +157,17 @@ Par. (3)(B) to (N). Pub. L. 103–325 added subpar. (B) and redesignated former 
 
 1992—Par. (3)(N). Pub. L. 102–486 added subpar. (N) relating to the Uranium Enrichment Corporation.
 
-1989—Par. (2)(L). Pub. L. 101–73, § 501(d), added subpar. (L).
+1989—Par. (2)(L). Pub. L. 101–73, § 501(d), added subpar. (L).
 
-Par. (2)(M). Pub. L. 101–73, § 511(b)(1), added subpar. (M).
+Par. (2)(M). Pub. L. 101–73, § 511(b)(1), added subpar. (M).
 
-Par. (3)(E). Pub. L. 101–73, § 307(e), struck out subpar. (E) relating to Federal Savings and Loan Insurance Corporation.
+Par. (3)(E). Pub. L. 101–73, § 307(e), struck out subpar. (E) relating to Federal Savings and Loan Insurance Corporation.
 
 1987—Par. (2)(K). Pub. L. 100–86 added subpar. (K).
 
 1983—Par. (2)(K). Pub. L. 97–452 struck out subpar. (K) which had already been struck out by Pub. L. 97–258. See 1982 Amendment note below.
 
-1982—Par. (2)(K). Pub. L. 97–258, § 2(*l*)(1), struck out subpar. (K) relating to National Consumer Cooperative Bank.
+1982—Par. (2)(K). Pub. L. 97–258, § 2(*l*)(1), struck out subpar. (K) relating to National Consumer Cooperative Bank.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -181,7 +181,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–134, title III, § 3117(a), Apr. 26, 1996, 110 Stat. 1321–350, provided that the amendment made by that section was to take effect as of the privatization date [July 28, 1998]. For definition of that term, see section 2297h(9) of Title 42, The Public Health and Welfare.
+Pub. L. 104–134, title III, § 3117(a), Apr. 26, 1996, 110 Stat. 1321–350, provided that the amendment made by that section was to take effect as of the privatization date [July 28, 1998]. For definition of that term, see section 2297h(9) of Title 42, The Public Health and Welfare.
 
 **Effective Date of 1993 Amendment**
 
@@ -193,15 +193,15 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–258, § 2(*l*), Sept. 13, 1982, 96 Stat. 1062, provided that the amendment made by that section is effective Jan. 1, 1982.
+Pub. L. 97–258, § 2(*l*), Sept. 13, 1982, 96 Stat. 1062, provided that the amendment made by that section is effective Jan. 1, 1982.
 
 **Short Title**
 
-This chapter is popularly known as the Government Corporation Control Act. The Government Corporation Control Act was previously the official short title of act Dec. 6, 1945, ch. 557, 59 Stat. 597, which was classified generally to chapter 14 (§§ 841, 846–852, 856–859, 866–869) of former Title 31, Money and Finance. That act was primarily repealed and restated in chapter 91 of this title by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, the first section of which enacted this title. For complete classification of act Dec. 6, 1945, to the Code, see Tables. For disposition of sections of former Title 31 to this title, see Disposition Table preceding section 101 of this title.
+This chapter is popularly known as the Government Corporation Control Act. The Government Corporation Control Act was previously the official short title of act Dec. 6, 1945, ch. 557, 59 Stat. 597, which was classified generally to chapter 14 (§§ 841, 846–852, 856–859, 866–869) of former Title 31, Money and Finance. That act was primarily repealed and restated in chapter 91 of this title by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877, the first section of which enacted this title. For complete classification of act Dec. 6, 1945, to the Code, see Tables. For disposition of sections of former Title 31 to this title, see Disposition Table preceding section 101 of this title.
 
 **Dissolution of Pennsylvania Avenue Development Corporation**
 
-Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations, indebtedness, and unobligated and unexpended balances of Corporation transferred, see Pub. L. 92–578, § 3, Oct. 27, 1972, 86 Stat. 1267, as amended, which was classified to section 872 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304.
+Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations, indebtedness, and unobligated and unexpended balances of Corporation transferred, see Pub. L. 92–578, § 3, Oct. 27, 1972, 86 Stat. 1267, as amended, which was classified to section 872 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 **Abolition of United States Railway Association and Transfer of Functions**
 
@@ -211,7 +211,7 @@ The United States Railway Association was abolished effective Apr. 1, 1987, with
 
 For provisions relating to certain bonuses paid by mixed-ownership and wholly owned corporations listed in pars. (2) and (3) of this section, see Ex. Ord. No. 12976, Oct. 5, 1995, 60 F.R. 52829, set out as a note under section 4501 of Title 5, Government Organization and Employees.
 
-## § 9102. Establishing and acquiring corporations
+## § 9102. Establishing and acquiring corporations
 
 An agency may establish or acquire a corporation to act as an agency only by or under a law of the United States specifically authorizing the action.
 
@@ -221,11 +221,11 @@ An agency may establish or acquire a corporation to act as an agency only by or 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9102 | 31:869(a). | Dec. 6, 1945, ch. 557, § 304(a), 59 Stat. 602. |
+| 9102 | 31:869(a). | Dec. 6, 1945, ch. 557, § 304(a), 59 Stat. 602. |
 
 The word “agency” is substituted for “officer or agency of the Federal Government or by any Government corporation” and “agency or instrumentality of the United States” because of section 101 of the revised title, for consistency, and because a Government corporation is an “instrumentality of the United States Government”. The word “establish” is substituted for “created, organized” to eliminate unnecessary words. The words “on or after December 6, 1945” are omitted as executed. The words “law of the United States” are substituted for “Act of Congress” for consistency.
 
-## § 9103. Budgets of wholly owned Government corporations
+## § 9103. Budgets of wholly owned Government corporations
 
 **(a)** Each wholly owned Government corporation shall prepare and submit each year to the President a business-type budget in a way, and before a date, the President prescribes by regulation for the budget program.
 
@@ -245,9 +245,9 @@ The word “agency” is substituted for “officer or agency of the Federal Gov
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9103(a) | 31:847(1st sentence). | Dec. 6, 1945, ch. 557, § 102, 59 Stat. 598; Sept. 12, 1950, ch. 946, § 105, 64 Stat. 834. |
+| 9103(a) | 31:847(1st sentence). | Dec. 6, 1945, ch. 557, § 102, 59 Stat. 598; Sept. 12, 1950, ch. 946, § 105, 64 Stat. 834. |
 | 9103(b) | 31:847(2d–last sentences). |  |
-| 9103(c) | 31:848. | Dec. 6, 1945, ch. 557, § 103, 59 Stat. 598. |
+| 9103(c) | 31:848. | Dec. 6, 1945, ch. 557, § 103, 59 Stat. 598. |
 
 In subsection (a), the word “President” is substituted for “Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words “in a way, and before a date, the President prescribes by regulation for the budget program” are substituted for “under such rules and regulations as the President may establish as to the date of submission, the form and content, the classifications of data, and the manner in which such budget program shall be prepared and presented” to eliminate unnecessary words.
 
@@ -255,7 +255,7 @@ In subsection (b), before clause (1), the words “budget program” are substit
 
 In subsection (c), the words “as changed” are substituted for “as modified, amended, or revised” to eliminate unnecessary words. The word “submit” is substituted for “transmitted” for consistency. The word “annual” is omitted as surplus. The word “thereafter” is added for clarity. The text of 31:848 (last par.) is omitted as unnecessary.
 
-## § 9104. Congressional action on budgets of wholly owned Government corporations
+## § 9104. Congressional action on budgets of wholly owned Government corporations
 
 **(a)** Congress shall—
 
@@ -281,14 +281,14 @@ In subsection (c), the words “as changed” are substituted for “as modified
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9104(a) | 31:849(1st sentence). | Dec. 6, 1945, ch. 557, § 104, 59 Stat. 598; restated July 30, 1947, ch. 358, § 307, 61 Stat. 584. |
+| 9104(a) | 31:849(1st sentence). | Dec. 6, 1945, ch. 557, § 104, 59 Stat. 598; restated July 30, 1947, ch. 358, § 307, 61 Stat. 584. |
 | 9104(b) | 31:849(2d, last sentences). |  |
 
-In subsection (a), the words “budget programs for wholly owned Government corporations” are substituted for “Budget programs” for clarity and consistency. The words “legislation . . . be enacted”, “as may be”, “for expenditure”, “corporate funds or other”, “or limiting the use thereof”, “as the Congress may determine”, and “funds” are omitted as surplus.
+In subsection (a), the words “budget programs for wholly owned Government corporations” are substituted for “Budget programs” for clarity and consistency. The words “legislation . . . be enacted”, “as may be”, “for expenditure”, “corporate funds or other”, “or limiting the use thereof”, “as the Congress may determine”, and “funds” are omitted as surplus.
 
 In subsection (b), the word “existing” is omitted as surplus. In clause (1), the word “another” is added for clarity. In clause (3), the words “contracts or other” and “reference to” are omitted as surplus.
 
-## § 9105. Audits
+## § 9105. Audits
 
 **(a)**
 
@@ -314,15 +314,15 @@ An audit the Comptroller General performs under this paragraph shall be in lieu 
 
 **(c)** Activities of the Comptroller General of the United States under this section are in lieu of any audit of the financial transactions of a Government corporation that the Comptroller General is required to make under any other law.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1043; Pub. L. 100–86, title IV, § 403, Aug. 10, 1987, 101 Stat. 609; Pub. L. 100–233, title VII, § 703, Jan. 6, 1988, 101 Stat. 1706; Pub. L. 100–399, title VI, § 602, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–73, title V, § 511(b)(2), Aug. 9, 1989, 103 Stat. 406; Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853; Pub. L. 103–82, title II, § 202(e)(2), Sept. 21, 1993, 107 Stat. 888; Pub. L. 117–286, § 4(b)(58), Dec. 27, 2022, 136 Stat. 4349.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1043; Pub. L. 100–86, title IV, § 403, Aug. 10, 1987, 101 Stat. 609; Pub. L. 100–233, title VII, § 703, Jan. 6, 1988, 101 Stat. 1706; Pub. L. 100–399, title VI, § 602, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–73, title V, § 511(b)(2), Aug. 9, 1989, 103 Stat. 406; Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853; Pub. L. 103–82, title II, § 202(e)(2), Sept. 21, 1993, 107 Stat. 888; Pub. L. 117–286, § 4(b)(58), Dec. 27, 2022, 136 Stat. 4349.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9105(a) | 31:850(1st sentence 1st–16th, 30th–46th words, 4th–last sentences). | Dec. 6, 1945, ch. 557, § 105, 59 Stat. 599; Aug. 30, 1964, Pub. L. 88–518, § 2(a), 78 Stat. 698; Jan. 2, 1975, Pub. L. 93–604, § 601(a), 88 Stat. 1962. |
-|  | 31:857(1st sentence 1st–26th, 39th–last words, 4th–last sentences). | Dec. 6, 1945, ch. 557, § 202, 59 Stat. 600; Aug. 30, 1964, Pub. L. 88–518, § 1(a), 78 Stat. 698; Jan. 2, 1975, Pub. L. 93–604, § 601(c), 88 Stat. 1962. |
-| 9105(b) | 31:866(a)(last proviso), (b). | Dec. 6, 1945, ch. 557, § 301, 59 Stat. 601. |
+| 9105(a) | 31:850(1st sentence 1st–16th, 30th–46th words, 4th–last sentences). | Dec. 6, 1945, ch. 557, § 105, 59 Stat. 599; Aug. 30, 1964, Pub. L. 88–518, § 2(a), 78 Stat. 698; Jan. 2, 1975, Pub. L. 93–604, § 601(a), 88 Stat. 1962. |
+|  | 31:857(1st sentence 1st–26th, 39th–last words, 4th–last sentences). | Dec. 6, 1945, ch. 557, § 202, 59 Stat. 600; Aug. 30, 1964, Pub. L. 88–518, § 1(a), 78 Stat. 698; Jan. 2, 1975, Pub. L. 93–604, § 601(c), 88 Stat. 1962. |
+| 9105(b) | 31:866(a)(last proviso), (b). | Dec. 6, 1945, ch. 557, § 301, 59 Stat. 601. |
 | 9105(c) | 31:850(1st sentence 17th–29th words, 2d, 3d sentences). |  |
 |  | 31:857(1st sentence 27th–38th words, 2d, 3d sentences). |  |
 | 9105(d) | 31:850(1st sentence proviso). |  |
@@ -332,17 +332,17 @@ An audit the Comptroller General performs under this paragraph shall be in lieu 
 
 In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
-In subsection (a), the words “rules and . . . of the United States” are omitted as surplus. The words “United States” are added for consistency. The text of 31:850(4th sentence) and 857(4th sentence) and the words “Effective July 1, 1974” are omitted as executed.
+In subsection (a), the words “rules and . . . of the United States” are omitted as surplus. The words “United States” are added for consistency. The text of 31:850(4th sentence) and 857(4th sentence) and the words “Effective July 1, 1974” are omitted as executed.
 
 In subsection (b)(1), the words “pursuant to law” are omitted as surplus.
 
 In subsection (b)(2), the words “may make a contract” are substituted for “is authorized in his discretion to employ by contract” to eliminate unnecessary words.
 
-In subsection (c), before clause (1), the words “at the place or places” and “of the respective corporations” are omitted as surplus. The words “A Government corporation shall” are added for clarity. In clause (1), the words “make available . . . for audit all records” are substituted for “The representatives of . . . shall have access to all books, accounts, financial records, reports, files, and all other papers” for consistency and because of the restatement. The words “things, or” are omitted because they are included in “property”. In clause (2), the word “full” is omitted as surplus.
+In subsection (c), before clause (1), the words “at the place or places” and “of the respective corporations” are omitted as surplus. The words “A Government corporation shall” are added for clarity. In clause (1), the words “make available . . . for audit all records” are substituted for “The representatives of . . . shall have access to all books, accounts, financial records, reports, files, and all other papers” for consistency and because of the restatement. The words “things, or” are omitted because they are included in “property”. In clause (2), the word “full” is omitted as surplus.
 
 Subsection (d) is substituted for 31:850(1st sentence proviso words before 7th comma) because of the restatement.
 
-In subsection (e), the words “The Comptroller General shall pay the cost of an audit” are substituted for “The expenses of auditing the financial transactions of wholly owned and mixed-ownership Government corporations as provided in sections 850 and 857 of this title shall be borne out of appropriations to the General Accounting Office” to eliminate unnecessary words. The words “full” and “otherwise . . . funds of any . . . be used to . . . of the offices” are omitted as surplus. The words “except the cost of such audits contracted for and undertaken prior to April 25, 1945” are omitted as executed.
+In subsection (e), the words “The Comptroller General shall pay the cost of an audit” are substituted for “The expenses of auditing the financial transactions of wholly owned and mixed-ownership Government corporations as provided in sections 850 and 857 of this title shall be borne out of appropriations to the General Accounting Office” to eliminate unnecessary words. The words “full” and “otherwise . . . funds of any . . . be used to . . . of the offices” are omitted as surplus. The words “except the cost of such audits contracted for and undertaken prior to April 25, 1945” are omitted as executed.
 
 Subsection (g) is substituted for 31:866(a)(words between 1st comma and 1st proviso) for clarity and consistency.
 
@@ -352,7 +352,7 @@ Subsection (g) is substituted for 31:866(a)(words between 1st comma and 1st prov
 
 2022—Subsec. (a)(1). Pub. L. 117–286 substituted “chapter 4 of title 5,” for “the Inspector General Act of 1978 (5 U.S.C. App.),”.
 
-1993—Subsec. (a)(1). Pub. L. 103–82 inserted “, or under other Federal law,” before “or by an independent”.
+1993—Subsec. (a)(1). Pub. L. 103–82 inserted “, or under other Federal law,” before “or by an independent”.
 
 1990—Pub. L. 101–576 amended section generally. Prior to amendment, section required Comptroller General to audit financial transactions of Government corporations at least once every 3 years, the Federal Savings and Loan Insurance Corporation and Federal home loan banks each year, the Federal Asset Disposition Association and the Federal Agricultural Mortgage Corporation as necessary; suggested that Comptroller General in conducting an audit use reports of examinations of Government corporation by supervising administrative agency and authorized Comptroller General to contract for professional services; required audits to be conducted consistent with principles and procedures applicable to commercial corporate transactions; set forth responsibility for payment of audit cost, and authorized appropriations.
 
@@ -382,7 +382,7 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 **Deposit of Funds Reimbursed to Comptroller General to Appropriation of Government Accountability Office**
 
-Pub. L. 106–57, title II, Sept. 29, 1999, 113 Stat. 426, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided in part: “That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the Government Accountability Office then available and remain available until expended”.
+Pub. L. 106–57, title II, Sept. 29, 1999, 113 Stat. 426, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided in part: “That notwithstanding 31 U.S.C. 9105 hereafter amounts reimbursed to the Comptroller General pursuant to that section shall be deposited to the appropriation of the Government Accountability Office then available and remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -396,7 +396,7 @@ Pub. L. 104–53, title II, Nov. 19, 1995, 109 Stat. 534.
 
 Pub. L. 103–283, title II, July 22, 1994, 108 Stat. 1440.
 
-## § 9106. Management reports
+## § 9106. Management reports
 
 **(a)**
 
@@ -420,14 +420,14 @@ Pub. L. 103–283, title II, July 22, 1994, 108 Stat. 1440.
 
 **(b)** A Government corporation shall provide the President, the Director of the Office of Management and Budget, and the Comptroller General of the United States a copy of the management report when it is submitted to Congress.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1044; Pub. L. 101–576, title III, § 306(a), Nov. 15, 1990, 104 Stat. 2854.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1044; Pub. L. 101–576, title III, § 306(a), Nov. 15, 1990, 104 Stat. 2854.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9106(a) | 31:851(1st–3d sentences). | Dec. 6, 1945, ch. 557, § 106, 59 Stat. 599; Aug. 30, 1964, Pub. L. 88–518, § 2(b), 78 Stat. 698; Jan. 2, 1975, Pub. L. 93–604, § 601(b), 88 Stat. 1962. |
-|  | 31:858(1st–3d sentences). | Dec. 6, 1945, ch. 557, § 203, 59 Stat. 600; Aug. 30, 1964, Pub. L. 88–518, § 1(b), 78 Stat. 698; Jan. 2, 1975, Pub. L. 93–604, § 601(d), 88 Stat. 1963. |
+| 9106(a) | 31:851(1st–3d sentences). | Dec. 6, 1945, ch. 557, § 106, 59 Stat. 599; Aug. 30, 1964, Pub. L. 88–518, § 2(b), 78 Stat. 698; Jan. 2, 1975, Pub. L. 93–604, § 601(b), 88 Stat. 1962. |
+|  | 31:858(1st–3d sentences). | Dec. 6, 1945, ch. 557, § 203, 59 Stat. 600; Aug. 30, 1964, Pub. L. 88–518, § 1(b), 78 Stat. 698; Jan. 2, 1975, Pub. L. 93–604, § 601(d), 88 Stat. 1963. |
 | 9106(b) | 31:851(last sentence). |  |
 |  | 31:858(last sentence). |  |
 
@@ -439,7 +439,7 @@ In subsection (b), the words “The Comptroller General” are added for clarity
 
 **References in Text**
 
-The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(E), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as section 3512 of this title. Provisions relating to statements on internal accounting and administrative control systems are restated in section 3512(d)(2) and (3) of this title.
+The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(E), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as section 3512 of this title. Provisions relating to statements on internal accounting and administrative control systems are restated in section 3512(d)(2) and (3) of this title.
 
 **Amendments**
 
@@ -463,7 +463,7 @@ The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. 
 
 “(b) The Comptroller General shall give the President, the Secretary of the Treasury, and the Government corporation a copy of the report when it is submitted to Congress.”
 
-## § 9107. Accounts
+## § 9107. Accounts
 
 **(a)** With the approval of the Comptroller General, a Government corporation may consolidate its cash into an account if the cash will be expended as provided by law.
 
@@ -477,7 +477,7 @@ The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. 
 
 **(3)** Subsection (b) of this section does not apply to the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, or the Federal Land Banks. However, the head of each of those banks shall report each year to the Secretary the names of depositaries where accounts are kept. If the Secretary considers it advisable when an annual report is received, the Secretary may make a written report to the corporation, the President, and Congress.
 
-(Pub. L. 97–258, §§ 1, 2(*l*)(2), Sept. 13, 1982, 96 Stat. 1044, 1062; Pub. L. 97–452, § 1(27), Jan. 12, 1983, 96 Stat. 2478.)
+(Pub. L. 97–258, §§ 1, 2(*l*)(2), Sept. 13, 1982, 96 Stat. 1044, 1062; Pub. L. 97–452, § 1(27), Jan. 12, 1983, 96 Stat. 2478.)
 
 **Historical and Revision Notes**
 
@@ -485,13 +485,13 @@ The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9107(a) | 31:870. | Aug. 24, 1949, ch. 506, § 309, 63 Stat. 662. |
-| 9107(b) | 31:867(1st sentence less last proviso). | Dec. 6, 1945, ch. 577, § 302, 59 Stat. 601; July 26, 1956, ch. 741, § 201(a)(4), 70 Stat. 667; Aug. 20, 1978, Pub. L. 95–351, § 301(b), 92 Stat. 514; Aug. 13, 1981, Pub. L. 97–35, § 396(h)(2), 95 Stat. 440. |
+| 9107(a) | 31:870. | Aug. 24, 1949, ch. 506, § 309, 63 Stat. 662. |
+| 9107(b) | 31:867(1st sentence less last proviso). | Dec. 6, 1945, ch. 577, § 302, 59 Stat. 601; July 26, 1956, ch. 741, § 201(a)(4), 70 Stat. 667; Aug. 20, 1978, Pub. L. 95–351, § 301(b), 92 Stat. 514; Aug. 13, 1981, Pub. L. 97–35, § 396(h)(2), 95 Stat. 440. |
 | 9107(c)(1) | 31:867(1st sentence last proviso). |  |
-| 9107(c)(2) | 31:868(d)(1st sentence related to 31:867). | Dec. 6, 1945, ch. 577, § 303(d)(1st sentence related to § 302), 59 Stat. 602. |
+| 9107(c)(2) | 31:868(d)(1st sentence related to 31:867). | Dec. 6, 1945, ch. 577, § 303(d)(1st sentence related to § 302), 59 Stat. 602. |
 | 9107(c)(3) | 31:867(last sentence). |  |
 
-In subsection (a), the words “After June 30, 1949” are omitted as executed. The words “Government corporation” are substituted for “corporations or agencies subject to this chapter” because of section 9101(1) of the revised title. The words “notwithstanding the provisions of any other law”, “or more . . . for banking and checking purposes”, and “including amounts appropriated, from whatever source derived” are omitted as surplus. The words “if the cash will be expended as provided by law” are substituted for 31:870(proviso) to eliminate unnecessary words.
+In subsection (a), the words “After June 30, 1949” are omitted as executed. The words “Government corporation” are substituted for “corporations or agencies subject to this chapter” because of section 9101(1) of the revised title. The words “notwithstanding the provisions of any other law”, “or more . . . for banking and checking purposes”, and “including amounts appropriated, from whatever source derived” are omitted as surplus. The words “if the cash will be expended as provided by law” are substituted for 31:870(proviso) to eliminate unnecessary words.
 
 In subsections (b) and (c), the words “banking or checking” are omitted as surplus.
 
@@ -511,7 +511,7 @@ This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperati
 
 1983—Subsec. (c)(3). Pub. L. 97–452 struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,” which had already been struck out by Pub. L. 97–258. See 1982 Amendment note below.
 
-1982—Subsec. (c)(3). Pub. L. 97–258, § 2(*l*)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.
+1982—Subsec. (c)(3). Pub. L. 97–258, § 2(*l*)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -521,9 +521,9 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–258, § 2(*l*), Sept. 13, 1982, 96 Stat. 1062, provided that the amendment made by such section is effective Jan. 1, 1982.
+Pub. L. 97–258, § 2(*l*), Sept. 13, 1982, 96 Stat. 1062, provided that the amendment made by such section is effective Jan. 1, 1982.
 
-## § 9108. Obligations
+## § 9108. Obligations
 
 **(a)** Before a Government corporation issues obligations and offers obligations to the public, the Secretary of the Treasury shall prescribe—
 
@@ -543,7 +543,7 @@ Pub. L. 97–258, § 2(*l*), Sept. 13, 1982, 96 Stat. 1062, provided that the 
 
 **(2)** Subsections (a) and (b) of this section do not apply to the Federal Intermediate Credit Banks, the Central Bank for Cooperatives, the Regional Banks for Cooperatives, and the Federal Land Banks. However, the head of each of those banks shall consult with the Secretary before taking action of the kind described in subsection (a) or (b). If agreement is not reached, the Secretary may make a written report to the corporation, the President, and Congress on the reasons for the Secretary’s disagreement.
 
-(Pub. L. 97–258, §§ 1, 2(*l*)(2), Sept. 13, 1982, 96 Stat. 1045, 1062; Pub. L. 97–452, § 1(27), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 115–334, title VI, § 6602(b)(20), Dec. 20, 2018, 132 Stat. 4777.)
+(Pub. L. 97–258, §§ 1, 2(*l*)(2), Sept. 13, 1982, 96 Stat. 1045, 1062; Pub. L. 97–452, § 1(27), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 115–334, title VI, § 6602(b)(20), Dec. 20, 2018, 132 Stat. 4777.)
 
 **Historical and Revision Notes**
 
@@ -551,7 +551,7 @@ Pub. L. 97–258, § 2(*l*), Sept. 13, 1982, 96 Stat. 1062, provided that the 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9108(a) | 31:868(a). | Dec. 6, 1945, ch. 557, § 303(less (d)(1st sentence related to § 302)), 59 Stat. 601; July 26, 1956, ch. 741, § 201(a)(4), 70 Stat. 667; May 7, 1971, Pub. L. 92–12, § 5, 85 Stat. 37; Aug. 20, 1978, Pub. L. 95–351, § 301(c), 92 Stat. 514; Aug. 13, 1981, Pub. L. 97–35, § 396(h)(3), 95 Stat. 441. |
+| 9108(a) | 31:868(a). | Dec. 6, 1945, ch. 557, § 303(less (d)(1st sentence related to § 302)), 59 Stat. 601; July 26, 1956, ch. 741, § 201(a)(4), 70 Stat. 667; May 7, 1971, Pub. L. 92–12, § 5, 85 Stat. 37; Aug. 20, 1978, Pub. L. 95–351, § 301(c), 92 Stat. 514; Aug. 13, 1981, Pub. L. 97–35, § 396(h)(3), 95 Stat. 441. |
 | 9108(b) | 31:868(b). |  |
 | 9108(c) | 31:868(c). |  |
 | 9108(d) | 31:868(d)(less 1st sentence related to 31:867). |  |
@@ -560,7 +560,7 @@ In subsections (a) and (b), the words “on or after December 6, 1945” are omi
 
 In subsection (a), before clause (1), the word “Before” is substituted for “which are” for clarity. The words “bonds, notes, debentures, and other similar” are omitted as surplus. The words “as have been” are omitted as executed. In clause (1), the words “terms and” are omitted as surplus. The restatement of the source provisions does not affect other existing laws.
 
-In subsection (b), the word “Government” is added for consistency. The words “for its own account and in its own right and interest, at any one time aggregating” and “his approval with respect to any transaction or classes of transactions subject to the provisions of . . . for such period of time and” are omitted as surplus.
+In subsection (b), the word “Government” is added for consistency. The words “for its own account and in its own right and interest, at any one time aggregating” and “his approval with respect to any transaction or classes of transactions subject to the provisions of . . . for such period of time and” are omitted as surplus.
 
 In subsection (c), the word “agency” is substituted for “Federal agency” because of section 101 of the revised title. The words “any of the functions vested in him by” and “for such purpose” are omitted as surplus.
 
@@ -578,7 +578,7 @@ This amends 31:9107(c)(3) and 9108(d)(2) because the National Consumer Cooperati
 
 1983—Subsec. (d)(2). Pub. L. 97–452 struck out “the National Consumer Cooperative Bank,” after “the Regional Banks for Cooperatives,” which had already been struck out by Pub. L. 97–258. See 1982 Amendment note below.
 
-1982—Subsec. (d)(2). Pub. L. 97–258, § 2(*l*)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.
+1982—Subsec. (d)(2). Pub. L. 97–258, § 2(*l*)(2), struck out “the National Consumer Cooperative Bank,” after “Regional Banks for Cooperatives,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -588,9 +588,9 @@ Amendment by Pub. L. 97–452 effective Sept. 13, 1982, see section 2(i) of Pub.
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–258, § 2(*l*), Sept. 13, 1982, 96 Stat. 1062, provided that the amendment made by such section is effective Jan. 1, 1982.
+Pub. L. 97–258, § 2(*l*), Sept. 13, 1982, 96 Stat. 1062, provided that the amendment made by such section is effective Jan. 1, 1982.
 
-## § 9109. Exclusion of a wholly owned Government corporation from this chapter
+## § 9109. Exclusion of a wholly owned Government corporation from this chapter
 
 When the President considers it practicable and in the public interest, the President shall include in the budget submitted to Congress under section 1105 of this title a recommendation that a wholly owned Government corporation be deemed to be an agency (except a corporation) under chapter 11 of this title and for fiscal matters. If Congress approves the recommendation, the corporation is deemed to be an agency (except a corporation) under chapter 11 and for fiscal matters for fiscal years beginning after the fiscal year of approval and is not subject to this chapter. The corporate entity is not affected by this section.
 
@@ -600,19 +600,19 @@ When the President considers it practicable and in the public interest, the Pres
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9109 | 31:852. | Dec. 6, 1945, ch. 577, § 107, 59 Stat. 599. |
+| 9109 | 31:852. | Dec. 6, 1945, ch. 577, § 107, 59 Stat. 599. |
 
-The word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words “with the approval of the President” are omitted because of the restatement. The word “considers” is substituted for “deemed” for consistency. The words “in connection with the budget program of such corporation” are omitted as surplus. The words “submitted to Congress under section 1105 of this title” are added for clarity. The words “deemed to be” are substituted for “treated . . . as if it were” for consistency. The word “agency” is substituted for “Government agency” and “establishment” because of section 101 of the revised title and for consistency. The words “if it were”, “appropriations, expenditures, receipts, accounts, and other”, and “in connection with the budget program for any fiscal year” are omitted as surplus. The words “deemed to be” are substituted for “regarded as” for consistency.
+The word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words “with the approval of the President” are omitted because of the restatement. The word “considers” is substituted for “deemed” for consistency. The words “in connection with the budget program of such corporation” are omitted as surplus. The words “submitted to Congress under section 1105 of this title” are added for clarity. The words “deemed to be” are substituted for “treated . . . as if it were” for consistency. The word “agency” is substituted for “Government agency” and “establishment” because of section 101 of the revised title and for consistency. The words “if it were”, “appropriations, expenditures, receipts, accounts, and other”, and “in connection with the budget program for any fiscal year” are omitted as surplus. The words “deemed to be” are substituted for “regarded as” for consistency.
 
-## § 9110. Standards for depository institutions holding securities of a Government-sponsored corporation for customers
+## § 9110. Standards for depository institutions holding securities of a Government-sponsored corporation for customers
 
 **(a)** The Secretary shall prescribe by regulation standards for the safeguarding and use of obligations that are government securities described in subparagraph (B) or (C) of section 3(a)(42) of the Securities Exchange Act of 1934. Such regulations shall apply only to a depository institution that is not a government securities broker or a government securities dealer and that holds such obligations as fiduciary, custodian, or otherwise for the account of a customer and not for its own account. Such regulations shall provide for the adequate segregation of obligations so held, including obligations which are purchased or sold subject to resale or repurchase.
 
-**(b)** Violation of a regulation prescribed under subsection (a) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) 1
+**(b)** Violation of a regulation prescribed under subsection (a) shall constitute adequate basis for the issuance of an order under section 5239(a) or (b) of the Revised Statutes (12 U.S.C. 93(a) or (b)), section 8(b) or 8(c) of the Federal Deposit Insurance Act, section 5(d)(2) or 5(d)(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of the Home Owners’ Loan Act of 1933, section 407(e) or 407(f) 1 of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration.
+of the Home Owners’ Loan Act of 1933, section 407(e) or 407(f) 1 of the National Housing Act, or section 206(e) or 206(f) of the Federal Credit Union Act. Such an order may be issued with respect to a depository institution by its appropriate regulatory agency and with respect to a federally insured credit union by the National Credit Union Administration.
 
 **(c)** Nothing in this section shall be construed to affect in any way the powers of such agencies under any other provision of law.
 
@@ -628,7 +628,7 @@ of the Home Owners’ Loan Act of 1933, section 407(e) or 407(f) 1 of the Nati
 
 **(4)** “appropriate regulatory agency” has the meaning prescribed in section 3(a)(34)(G) of the Securities Exchange Act of 1934.
 
-(Added Pub. L. 99–571, title II, § 201(b)(1), Oct. 28, 1986, 100 Stat. 3223; amended Pub. L. 103–272, § 4(f)(1)(AA), July 5, 1994, 108 Stat. 1363.)
+(Added Pub. L. 99–571, title II, § 201(b)(1), Oct. 28, 1986, 100 Stat. 3223; amended Pub. L. 103–272, § 4(f)(1)(AA), July 5, 1994, 108 Stat. 1363.)
 
 **Editorial Notes**
 
@@ -638,15 +638,15 @@ Section 3(a)(34)(G), (42)(B), (C), (43), (44) of the Securities Exchange Act of 
 
 Section 8(b) or 8(c) of the Federal Deposit Insurance Act, referred to in subsec. (b), is classified to section 1818(b), (c) of Title 12, Banks and Banking.
 
-Section 5(d)(2) or 5(d)(3) of the Home Owners’ Loan Act of 1933, referred to in subsec. (b), is classified to section 1464(d)(2), (3) of Title 12, but was amended generally by Pub. L. 101–73, title III, § 301, Aug. 9, 1989, 103 Stat. 282, and no longer relates to issuance of orders. See section 1464(d)(1) of Title 12.
+Section 5(d)(2) or 5(d)(3) of the Home Owners’ Loan Act of 1933, referred to in subsec. (b), is classified to section 1464(d)(2), (3) of Title 12, but was amended generally by Pub. L. 101–73, title III, § 301, Aug. 9, 1989, 103 Stat. 282, and no longer relates to issuance of orders. See section 1464(d)(1) of Title 12.
 
-Section 407 of the National Housing Act, referred to in subsec. (b), which was classified to section 1730 of Title 12, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
+Section 407 of the National Housing Act, referred to in subsec. (b), which was classified to section 1730 of Title 12, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
 
 Section 206(e) or 206(f) of the Federal Credit Union Act, referred to in subsec. (b), is classified to section 1786(e), (f) of Title 12.
 
 Clauses (i) through (vi) of subparagraph [section] 19(b)(1)(A) of the Federal Reserve Act, referred to in subsec. (e)(1), are classified to section 461(b)(1)(A)(i) to (vi) of Title 12.
 
-The International Banking Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§ 3101 et seq.) and sections 347d and 611a of Title 12, Banks and Banking, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of Title 12, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 12 and Tables.
+The International Banking Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, which enacted chapter 32 (§ 3101 et seq.) and sections 347d and 611a of Title 12, Banks and Banking, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, 1831b, and 1841 of Title 12, and enacted provisions set out as notes under sections 36, 247, 601, 611a, and 3101 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 12 and Tables.
 
 **Amendments**
 

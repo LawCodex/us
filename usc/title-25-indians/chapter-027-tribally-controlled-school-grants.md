@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 27—TRIBALLY CONTROLLED SCHOOL GRANTS
 
-## § 2501. Declaration of policy
+## § 2501. Declaration of policy
 
 **(a) Recognition**
 
@@ -47,19 +47,19 @@ Congress declares a commitment to the policies described in this section and sup
 
 Congress repudiates and rejects House Concurrent Resolution 108 of the 83d Congress and any policy of unilateral termination of Federal relations with any Indian nation.
 
-(Pub. L. 100–297, title V, § 5202, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063.)
+(Pub. L. 100–297, title V, § 5202, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 House Concurrent Resolution 108 of the 83rd Congress, referred to in subsec. (f), is H. Con. Res. 108, Eighty-third Congress, Aug. 1, 1953, 67 Stat. B132, which is not classified to the Code.
 
 **Prior Provisions**
 
-A prior section 2501, Pub. L. 100–297, title V, § 5202, Apr. 28, 1988, 102 Stat. 385, set forth findings, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063.
+A prior section 2501, Pub. L. 100–297, title V, § 5202, Apr. 28, 1988, 102 Stat. 385, set forth findings, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -69,11 +69,11 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 **Short Title**
 
-Pub. L. 100–297, title V, § 5201, Apr. 28, 1988, 102 Stat. 385, provided that: “This part [part B (§§ 5201–5212) of title V of Pub. L. 100–297, enacting this chapter] may be cited as the ‘Tribally Controlled Schools Act of 1988’.”
+Pub. L. 100–297, title V, § 5201, Apr. 28, 1988, 102 Stat. 385, provided that: “This part [part B (§§ 5201–5212) of title V of Pub. L. 100–297, enacting this chapter] may be cited as the ‘Tribally Controlled Schools Act of 1988’.”
 
 **Tribal School Construction Demonstration Program**
 
-Pub. L. 108–7, div. F, title I, § 122, Feb. 20, 2003, 117 Stat. 241, as amended by Pub. L. 108–108, title I, § 136(a), Nov. 10, 2003, 117 Stat. 1270, provided that:
+Pub. L. 108–7, div. F, title I, § 122, Feb. 20, 2003, 117 Stat. 241, as amended by Pub. L. 108–108, title I, § 136(a), Nov. 10, 2003, 117 Stat. 1270, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -119,11 +119,11 @@ Pub. L. 108–7, div. F, title I, § 122, Feb. 20, 2003, 117 Stat. 241, as ame
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 107–63, title I, § 125, Nov. 5, 2001, 115 Stat. 440.
+Pub. L. 107–63, title I, § 125, Nov. 5, 2001, 115 Stat. 440.
 
-Pub. L. 106–291, title I, § 153, Oct. 11, 2000, 114 Stat. 960.
+Pub. L. 106–291, title I, § 153, Oct. 11, 2000, 114 Stat. 960.
 
-## § 2502. Grants authorized
+## § 2502. Grants authorized
 
 **(a) In general**
 
@@ -175,9 +175,9 @@ Funds provided under any grant under this chapter may not be expended for admini
 
 **(2) Definition of school site**
 
-For purposes of this subsection, the term “school site” means the physical location and the facilities of an elementary or secondary educational or residential program operated by, or under contract or grant with, the Bureau for which a discreet 1
+For purposes of this subsection, the term “school site” means the physical location and the facilities of an elementary or secondary educational or residential program operated by, or under contract or grant with, the Bureau for which a discreet 1
 
-<sup>1</sup>  So in original. Probably should be “discrete”.
+<sup>1</sup> So in original. Probably should be “discrete”.
 
 student count is identified under the funding formula established under section 1127 of the Education Amendments of 1978 [25 U.S.C. 2007].
 
@@ -213,19 +213,19 @@ The tribe requesting retrocession shall specify whether the retrocession is to s
 
 Grants provided under this chapter may not be terminated, modified, suspended, or reduced solely for the convenience of the administering agency.
 
-(Pub. L. 100–297, title V, § 5203, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2064.)
+(Pub. L. 100–297, title V, § 5203, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2064.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Education Amendments of 1978, referred to in subsecs. (a)(1)(A) and (f)(3)(B), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+The Education Amendments of 1978, referred to in subsecs. (a)(1)(A) and (f)(3)(B), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2502, Pub. L. 100–297, title V, § 5203, Apr. 28, 1988, 102 Stat. 385, set forth declaration of policy, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2501 of this title.
+A prior section 2502, Pub. L. 100–297, title V, § 5203, Apr. 28, 1988, 102 Stat. 385, set forth declaration of policy, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2501 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -233,11 +233,11 @@ A prior section 2502, Pub. L. 100–297, title V, § 5203, Apr. 28, 1988, 102 
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2502a. Retrocession or re-assumption of Indian education funds
+## § 2502a. Retrocession or re-assumption of Indian education funds
 
 Beginning July 1, 2008, and thereafter, any funds (including investments and interest earned, except for construction funds) held by a Public Law 100–297 grant or a Public Law 93–638 contract school shall, upon retrocession to or re-assumption by the Bureau of Indian Education, remain available to the Bureau of Indian Education for a period of 5 years from the date of retrocession or re-assumption for the benefit of the programs approved for the school on October 1, 1995.
 
-(Pub. L. 113–76, div. G, title I, § 110, Jan. 17, 2014, 128 Stat. 312.)
+(Pub. L. 113–76, div. G, title I, § 110, Jan. 17, 2014, 128 Stat. 312.)
 
 **Editorial Notes**
 
@@ -245,13 +245,13 @@ Beginning July 1, 2008, and thereafter, any funds (including investments and int
 
 Public Law 100–297, referred to in text, is Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 6301 of Title 20, Education, and Tables.
 
-Public Law 93–638, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+Public Law 93–638, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Tribally Controlled Schools Act of 1988 which comprises this chapter.
 
-## § 2503. Composition of grants
+## § 2503. Composition of grants
 
 **(a) In general** The grant provided under this chapter to an Indian tribe or tribal organization for any fiscal year shall consist of—
 
@@ -267,7 +267,7 @@ Section was enacted as part of the Department of the Interior, Environment, and 
 
 **(C)** any other Federal education law, that are allocated to such schools for such fiscal year.1
 
-<sup>1</sup>  So in original. The words “, that are allocated to such schools for such fiscal year” probably should not appear.
+<sup>1</sup> So in original. The words “, that are allocated to such schools for such fiscal year” probably should not appear.
 
 **(b) Special rules**
 
@@ -303,13 +303,13 @@ Tribally controlled schools for which grants are provided under this chapter sha
 
 **(i) In general**
 
-Notwithstanding section 2503(a)(2) 2
+Notwithstanding section 2503(a)(2) 2
 
-<sup>2</sup>  So in original. Probably should be “2502(a)(2)”.
+<sup>2</sup> So in original. Probably should be “2502(a)(2)”.
 
-of this title, with respect to funds from facilities improvement and repair, alteration and renovation (major or minor), health and safety, or new construction accounts included in the grant provided under section 2503(a) 3
+of this title, with respect to funds from facilities improvement and repair, alteration and renovation (major or minor), health and safety, or new construction accounts included in the grant provided under section 2503(a) 3
 
-<sup>3</sup>  So in original. Probably should be “2502(a)”.
+<sup>3</sup> So in original. Probably should be “2502(a)”.
 
 of this title, the grant recipient shall maintain a separate account for such funds.
 
@@ -337,17 +337,17 @@ Notwithstanding clause (i), grants described in such clause shall not be subject
 
 **(iii) Applications**
 
-In considering applications for a grant described in clause (i), the Secretary shall consider whether the Indian tribe or tribal organization involved would be deficient in ensuring that the construction projects under the proposed grant conform to applicable building standards and codes and Federal, tribal, or State health and safety standards as required under section 1124 of the Education Amendments of 1978 (25 U.S.C. 2005(a)) 4
+In considering applications for a grant described in clause (i), the Secretary shall consider whether the Indian tribe or tribal organization involved would be deficient in ensuring that the construction projects under the proposed grant conform to applicable building standards and codes and Federal, tribal, or State health and safety standards as required under section 1124 of the Education Amendments of 1978 (25 U.S.C. 2005(a)) 4
 
-<sup>4</sup>  See References in Text note below.
+<sup>4</sup> See References in Text note below.
 
 with respect to organizational and financial management capabilities.
 
 **(iv) Disputes**
 
-Any disputes between the Secretary and any grantee concerning a grant described in clause (i) shall be subject to the dispute provisions contained in section 2508(e) 5
+Any disputes between the Secretary and any grantee concerning a grant described in clause (i) shall be subject to the dispute provisions contained in section 2508(e) 5
 
-<sup>5</sup>  So in original. Probably should be “2507(e)”.
+<sup>5</sup> So in original. Probably should be “2507(e)”.
 
 of this title.
 
@@ -361,9 +361,9 @@ In a case in which the appropriations measure under which the funds described in
 
 **(5) Enforcement of request to include funds**
 
-**(A) In general** If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe 6
+**(A) In general** If the Secretary fails to carry out a request filed by an Indian tribe or tribal organization to include in such tribe 6
 
-<sup>6</sup>  So in original. Probably should be “tribe’s”.
+<sup>6</sup> So in original. Probably should be “tribe’s”.
 
 or organization’s grant under this chapter the funds described in subsection (a)(2) within 180 days after the filing of the request, the Secretary shall—
 
@@ -373,25 +373,25 @@ or organization’s grant under this chapter the funds described in subsection (
 
 **(B) Rights**
 
-A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) and this paragraph, including rights relating to any denial or failure to act on such tribe’s or organization’s request, pursuant to the dispute authority described in section 2508(e) <sup>5</sup> of this title.
+A tribe or organization described in subparagraph (A) may enforce its rights under subsection (a)(2) and this paragraph, including rights relating to any denial or failure to act on such tribe’s or organization’s request, pursuant to the dispute authority described in section 2508(e) <sup>5</sup> of this title.
 
-(Pub. L. 100–297, title V, § 5204, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2066.)
+(Pub. L. 100–297, title V, § 5204, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2066.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(3)(A) and (b)(1)(A)(i), (3)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(3)(A) and (b)(1)(A)(i), (3)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(3)(B) and (b)(1)(A)(ii), (3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(3)(B) and (b)(1)(A)(ii), (3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Education Amendments of 1978, referred to in subsec. (b)(1)(A)(iii), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
+The Education Amendments of 1978, referred to in subsec. (b)(1)(A)(iii), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20, Education, and Tables.
 
 Section 1124 of the Education Amendments of 1978 (25 U.S.C. 2005(a)), referred to in subsec. (b)(4)(B)(iii), probably should be section 1125 of the Education Amendments of 1978, Pub. L. 95–561, which is classified to section 2005 of this title and requires, in subsec. (b), compliance with health and safety standards. Section 1124 of Pub. L. 95–561, which is classified to section 2004 of this title, relates to school boundaries.
 
 **Prior Provisions**
 
-A prior section 2503, Pub. L. 100–297, title V, § 5204, Apr. 28, 1988, 102 Stat. 386; Pub. L. 100–427, § 10(a), (b), Sept. 9, 1988, 102 Stat. 1607; Pub. L. 102–119, § 26(f), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, § 394(m)(1), Oct. 20, 1994, 108 Stat. 4029, authorized grants, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2502 of this title.
+A prior section 2503, Pub. L. 100–297, title V, § 5204, Apr. 28, 1988, 102 Stat. 386; Pub. L. 100–427, § 10(a), (b), Sept. 9, 1988, 102 Stat. 1607; Pub. L. 102–119, § 26(f), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, § 394(m)(1), Oct. 20, 1994, 108 Stat. 4029, authorized grants, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2502 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -399,7 +399,7 @@ A prior section 2503, Pub. L. 100–297, title V, § 5204, Apr. 28, 1988, 102 
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2504. Eligibility for grants
+## § 2504. Eligibility for grants
 
 **(a) Rules**
 
@@ -501,9 +501,9 @@ Applications submitted under paragraph (1)(A) shall include information on the f
 
 **(E) Deadline**
 
-If the Secretary fails to make a determination under subparagraph (A) with respect to an application within 180 days after the date on which the Secretary received the application, the Secretary shall be treated as having made a determination that the tribally controlled school is eligible for assistance under the title 1
+If the Secretary fails to make a determination under subparagraph (A) with respect to an application within 180 days after the date on which the Secretary received the application, the Secretary shall be treated as having made a determination that the tribally controlled school is eligible for assistance under the title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the grant shall become effective 18 months after the date on which the Secretary received the application, or on an earlier date, at the Secretary’s discretion.
 
@@ -541,21 +541,21 @@ The Secretary shall reconsider any amended application submitted under this chap
 
 The Bureau shall submit an annual report to the Congress on all applications received, and actions taken (including the costs associated with such actions), under this section at the same time that the President is required to submit to Congress the budget under section 1105 of title 31.
 
-(Pub. L. 100–297, title V, § 5205, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2068.)
+(Pub. L. 100–297, title V, § 5205, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2068.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Education Amendments of 1978, referred to in subsecs. (a)(1)(A), (B), (b)(1), and (c)(1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+The Education Amendments of 1978, referred to in subsecs. (a)(1)(A), (B), (b)(1), and (c)(1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (f)(1)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (f)(1)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The title, referred to in subsec. (c)(2)(E), probably should be “this part”, meaning part B of title V of Pub. L. 100–297, known as the Tribally Controlled Schools Act of 1988, which is classified generally to this chapter. For complete classification of part B to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2504, Pub. L. 100–297, title V, § 5205, Apr. 28, 1988, 102 Stat. 387; Pub. L. 100–427, § 10(c), Sept. 9, 1988, 102 Stat. 1608; Pub. L. 101–301, § 5(g), May 24, 1990, 104 Stat. 209; Pub. L. 102–119, § 26(f), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §§ 382(a), (b), 394(m)(2), Oct. 20, 1994, 108 Stat. 4017, 4029, related to composition of grants, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2503 of this title.
+A prior section 2504, Pub. L. 100–297, title V, § 5205, Apr. 28, 1988, 102 Stat. 387; Pub. L. 100–427, § 10(c), Sept. 9, 1988, 102 Stat. 1608; Pub. L. 101–301, § 5(g), May 24, 1990, 104 Stat. 209; Pub. L. 102–119, § 26(f), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §§ 382(a), (b), 394(m)(2), Oct. 20, 1994, 108 Stat. 4017, 4029, related to composition of grants, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2503 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -563,7 +563,7 @@ A prior section 2504, Pub. L. 100–297, title V, § 5205, Apr. 28, 1988, 102 
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2505. Duration of eligibility determination
+## § 2505. Duration of eligibility determination
 
 **(a) In general**
 
@@ -583,7 +583,7 @@ If the Secretary determines that a tribally controlled school is eligible for as
 
 **(E)** a program evaluation conducted by an impartial evaluation review team, to be based on the standards established for purposes of subsection (c)(1)(A)(ii).1
 
-<sup>1</sup>  So in original. Probably should be subsection “(c)(1)(B)(ii).”
+<sup>1</sup> So in original. Probably should be subsection “(c)(1)(B)(ii).”
 
 **(2) Evaluation review teams**
 
@@ -625,9 +625,9 @@ Not later than 30 days after receiving written confirmation that the tribal gove
 
 **(III)** A positive assessment by an impartial evaluator under this clause shall not affect the revocation of a determination of eligibility by the Secretary where such revocation is based on circumstances that were within the control of the school board.
 
-**(2) Notice requirements for revocation** The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter, or reassume control of a school that was a Bureau school prior to approval of an application submitted under section 2505(b)(1)(A) 2
+**(2) Notice requirements for revocation** The Secretary shall not revoke a determination that a school is eligible for assistance under this chapter, or reassume control of a school that was a Bureau school prior to approval of an application submitted under section 2505(b)(1)(A) 2
 
-<sup>2</sup>  So in original. Probably should be section “2504(b)(1)(A)”.
+<sup>2</sup> So in original. Probably should be section “2504(b)(1)(A)”.
 
 of this title until the Secretary—
 
@@ -645,9 +645,9 @@ The Secretary shall provide such technical assistance to enable the school and g
 
 **(4) Hearing and appeal** In addition to notice and technical assistance under this subsection, the Secretary shall provide to the school and governing body—
 
-**(A)** at the request of the school or governing body, a hearing on the record regarding the revocation or reassumption determination, to be conducted under the rules and regulations described in section 2505(f)(1)(C) 3
+**(A)** at the request of the school or governing body, a hearing on the record regarding the revocation or reassumption determination, to be conducted under the rules and regulations described in section 2505(f)(1)(C) 3
 
-<sup>3</sup>  So in original. Probably should be section “2504(f)(1)(C)”.
+<sup>3</sup> So in original. Probably should be section “2504(f)(1)(C)”.
 
 of this title; and
 
@@ -659,19 +659,19 @@ of this title; and
 
 **(2)** the Secretary may not revoke eligibility for assistance under this chapter except in conformance with subsection (c) of this section.
 
-(Pub. L. 100–297, title V, § 5206, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2072.)
+(Pub. L. 100–297, title V, § 5206, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2072.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Single Audit Act of 1984, referred to in subsec. (b)(1)(B), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§ 7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under section 7501 of Title 31. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act of 1984, referred to in subsec. (b)(1)(B), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which enacted chapter 75 (§ 7501 et seq.) of Title 31, Money and Finance, and provisions set out as notes under section 7501 of Title 31. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B)(iv)(I), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B)(iv)(I), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2505, Pub. L. 100–297, title V, § 5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, § 11, Sept. 9, 1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, § 801(d), Nov. 10, 1998, 112 Stat. 3288, related to eligibility for grants, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2504 of this title.
+A prior section 2505, Pub. L. 100–297, title V, § 5206, Apr. 28, 1988, 102 Stat. 388; Pub. L. 100–427, § 11, Sept. 9, 1988, 102 Stat. 1608; Pub. L. 105–362, title VIII, § 801(d), Nov. 10, 1998, 112 Stat. 3288, related to eligibility for grants, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2504 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -679,7 +679,7 @@ A prior section 2505, Pub. L. 100–297, title V, § 5206, Apr. 28, 1988, 102 
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2506. Payment of grants; investment of funds
+## § 2506. Payment of grants; investment of funds
 
 **(a) Payments**
 
@@ -719,9 +719,9 @@ Notwithstanding any other provision of law, any interest or investment income th
 
 **(A)** invested by the Indian tribe or tribal organization only in obligations of the United States, or in obligations or securities that are guaranteed or insured by the United States, or mutual (or other) funds registered with the Securities and Exchange Commission and which only invest in obligations of the United States, or securities that are guaranteed or insured by the United States; or
 
-**(B)** deposited only into accounts that are insure by and 1
+**(B)** deposited only into accounts that are insure by and 1
 
-<sup>1</sup>  So in original. Probably should be “insured by an”.
+<sup>1</sup> So in original. Probably should be “insured by an”.
 
 agency or instrumentality of the United States, or are fully collateralized to ensure protection of the funds, even in the event of a bank failure.
 
@@ -729,13 +729,13 @@ agency or instrumentality of the United States, or are fully collateralized to e
 
 For the purposes of underrecovery and overrecovery determinations by any Federal agency for any other funds, from whatever source derived, funds received under this chapter shall not be taken into consideration.
 
-(Pub. L. 100–297, title V, § 5207, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2074.)
+(Pub. L. 100–297, title V, § 5207, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2074.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2506, Pub. L. 100–297, title V, § 5207, Apr. 28, 1988, 102 Stat. 391; Pub. L. 100–427, § 12, Sept. 9, 1988, 102 Stat. 1608, related to duration of eligibility determination, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2505 of this title.
+A prior section 2506, Pub. L. 100–297, title V, § 5207, Apr. 28, 1988, 102 Stat. 391; Pub. L. 100–427, § 12, Sept. 9, 1988, 102 Stat. 1608, related to duration of eligibility determination, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2505 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -743,7 +743,7 @@ A prior section 2506, Pub. L. 100–297, title V, § 5207, Apr. 28, 1988, 102 
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2507. Application with respect to Indian Self-Determination and Education Assistance Act
+## § 2507. Application with respect to Indian Self-Determination and Education Assistance Act
 
 **(a) Certain provisions to apply to grants** The following provisions of the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5301 et seq.] (and any subsequent revisions thereto or renumbering thereof), shall apply to grants provided under this chapter:
 
@@ -767,25 +767,25 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 
 **(10)** Section 106(k) [25 U.S.C. 5325(k)] (relating to allowable uses of funds).
 
-**(11)** Section 108(c) [25 U.S.C. 5329(c)] (Model Agreements provisions (1)(a)(5) 1
+**(11)** Section 108(c) [25 U.S.C. 5329(c)] (Model Agreements provisions (1)(a)(5) 1
 
-<sup>1</sup>  So in original. Probably should be “1(b)(5)”.
+<sup>1</sup> So in original. Probably should be “1(b)(5)”.
 
-(relating to limitations of costs), (1)(a)(7) 2
+(relating to limitations of costs), (1)(a)(7) 2
 
-<sup>2</sup>  So in original. Probably should be “1(b)(7)”.
+<sup>2</sup> So in original. Probably should be “1(b)(7)”.
 
-(relating to records and monitoring), (1)(a)(8) 3
+(relating to records and monitoring), (1)(a)(8) 3
 
-<sup>3</sup>  So in original. Probably should be “1(b)(8)”.
+<sup>3</sup> So in original. Probably should be “1(b)(8)”.
 
-(relating to property), and (a)(1)(9) 4
+(relating to property), and (a)(1)(9) 4
 
-<sup>4</sup>  So in original. Probably should be “1(b)(9)”.
+<sup>4</sup> So in original. Probably should be “1(b)(9)”.
 
 (relating to availability of funds).5
 
-<sup>5</sup>  So in original. There probably should be a second closing parenthesis.
+<sup>5</sup> So in original. There probably should be a second closing parenthesis.
 
 **(12)** Section 109 [25 U.S.C. 5330] (relating to reassumption).
 
@@ -803,9 +803,9 @@ Any election made under paragraph (1) shall take effect on the first day of July
 
 **(3) Exception**
 
-In any case in which the first day of July immediately following the date of an election under paragraph (1) is less than 60 days after such election, such election shall not take effect until the first day of July of 6
+In any case in which the first day of July immediately following the date of an election under paragraph (1) is less than 60 days after such election, such election shall not take effect until the first day of July of 6
 
-<sup>6</sup>  So in original. Probably should be followed by “the”.
+<sup>6</sup> So in original. Probably should be followed by “the”.
 
 year following the year in which the election is made.
 
@@ -823,9 +823,9 @@ No funds may be provided under any contract entered into under the Indian Self-D
 
 **(2) Funds**
 
-Any tribe or tribal organization which assumes operation of a Bureau school with assistance under this chapter and any tribe or tribal organization which elects to operate a school with assistance under this chapter rather that 7
+Any tribe or tribal organization which assumes operation of a Bureau school with assistance under this chapter and any tribe or tribal organization which elects to operate a school with assistance under this chapter rather that 7
 
-<sup>7</sup>  So in original. Probably should be “than”.
+<sup>7</sup> So in original. Probably should be “than”.
 
 to continue as a contract school shall be entitled to any funds which would carryover from the previous fiscal year as if such school were operated as a contract school.
 
@@ -837,19 +837,19 @@ Any tribe or tribal organization that assumes operation of a Bureau school or a 
 
 Any exception or problem cited in an audit conducted pursuant to section 2505(b)(1) of this title, any dispute regarding a grant authorized to be made pursuant to this chapter or any amendment to such grant, and any dispute involving an administrative cost grant under section 2008 of this title shall be administered under the provisions governing such exceptions, problems, or disputes in the case of contracts under the Indian Self-Determination and Education Assistance Act [25 U.S.C. 5301 et seq.]. The Equal Access to Justice Act shall apply to administrative appeals filed after September 8, 1988, by grantees regarding a grant under this chapter, including an administrative cost grant.
 
-(Pub. L. 100–297, title V, § 5208, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2076.)
+(Pub. L. 100–297, title V, § 5208, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2076.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Equal Access to Justice Act, referred to in subsec. (e), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325. For complete classification of this Act to the Code, see Short Title note set out under section 504 of Title 5, Government Organization and Employees, and Tables.
 
 **Prior Provisions**
 
-A prior section 2507, Pub. L. 100–297, title V, § 5208, Apr. 28, 1988, 102 Stat. 393; Pub. L. 100–427, § 13, Sept. 9, 1988, 102 Stat. 1609; Pub. L. 103–382, title III, § 382(c), Oct. 20, 1994, 108 Stat. 4017, related to payment of grants and investment of funds, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2506 of this title.
+A prior section 2507, Pub. L. 100–297, title V, § 5208, Apr. 28, 1988, 102 Stat. 393; Pub. L. 100–427, § 13, Sept. 9, 1988, 102 Stat. 1609; Pub. L. 103–382, title III, § 382(c), Oct. 20, 1994, 108 Stat. 4017, related to payment of grants and investment of funds, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2506 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -857,17 +857,17 @@ A prior section 2507, Pub. L. 100–297, title V, § 5208, Apr. 28, 1988, 102 
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2508. Role of the Director
+## § 2508. Role of the Director
 
 Applications for grants under this chapter, and all application modifications, shall be reviewed and approved by personnel under the direction and control of the Director of the Office of Indian Education Programs. Required reports shall be submitted to education personnel under the direction and control of the Director of such Office.
 
-(Pub. L. 100–297, title V, § 5209, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2077.)
+(Pub. L. 100–297, title V, § 5209, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2077.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2508, Pub. L. 100–297, title V, § 5209, Apr. 28, 1988, 102 Stat. 394; Pub. L. 100–427, § 14, Sept. 9, 1988, 102 Stat. 1609; Pub. L. 101–301, § 5(b), May 24, 1990, 104 Stat. 207; Pub. L. 103–382, title III, § 382(d), (e), Oct. 20, 1994, 108 Stat. 4017, 4018, related to application with respect to Indian Self-Determination and Education Assistance Act, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2507 of this title.
+A prior section 2508, Pub. L. 100–297, title V, § 5209, Apr. 28, 1988, 102 Stat. 394; Pub. L. 100–427, § 14, Sept. 9, 1988, 102 Stat. 1609; Pub. L. 101–301, § 5(b), May 24, 1990, 104 Stat. 207; Pub. L. 103–382, title III, § 382(d), (e), Oct. 20, 1994, 108 Stat. 4017, 4018, related to application with respect to Indian Self-Determination and Education Assistance Act, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2507 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -875,17 +875,17 @@ A prior section 2508, Pub. L. 100–297, title V, § 5209, Apr. 28, 1988, 102 
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2509. Regulations
+## § 2509. Regulations
 
 The Secretary is authorized to issue regulations relating to the discharge of duties specifically assigned to the Secretary in this chapter. For all other matters relating to the details of planning, developing, implementing, and evaluating grants under this chapter, the Secretary shall not issue regulations.
 
-(Pub. L. 100–297, title V, § 5210, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2077.)
+(Pub. L. 100–297, title V, § 5210, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2077.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2509, Pub. L. 100–297, title V, § 5210, Apr. 28, 1988, 102 Stat. 394, related to role of Director, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2508 of this title.
+A prior section 2509, Pub. L. 100–297, title V, § 5210, Apr. 28, 1988, 102 Stat. 394, related to role of Director, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2508 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -893,7 +893,7 @@ A prior section 2509, Pub. L. 100–297, title V, § 5210, Apr. 28, 1988, 102 
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2510. The tribally controlled grant school endowment program
+## § 2510. The tribally controlled grant school endowment program
 
 **(a) In general**
 
@@ -913,9 +913,9 @@ Each school receiving a grant under this chapter may establish, at a federally i
 
 Interest from the fund established under subsection (a) may periodically be withdrawn and used, at the discretion of the school, to defray any expenses associated with the operation of the school consistent with the purposes of this Act.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 100–297, title V, § 5211, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2078.)
+(Pub. L. 100–297, title V, § 5211, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2078.)
 
 **Editorial Notes**
 
@@ -925,7 +925,7 @@ This Act, referred to in subsec. (b), is Pub. L. 100–297 and probably should b
 
 **Prior Provisions**
 
-A prior section 2510, Pub. L. 100–297, title V, § 5211, Apr. 28, 1988, 102 Stat. 394, related to regulations, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2509 of this title.
+A prior section 2510, Pub. L. 100–297, title V, § 5211, Apr. 28, 1988, 102 Stat. 394, related to regulations, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See section 2509 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -933,7 +933,7 @@ A prior section 2510, Pub. L. 100–297, title V, § 5211, Apr. 28, 1988, 102 
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-## § 2511. Definitions
+## § 2511. Definitions
 
 In this chapter:
 
@@ -965,7 +965,7 @@ The term “Secretary” means the Secretary of the Interior.
 
 The term “tribal governing body” means, with respect to any school that receives assistance under this Act,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the recognized governing body of the Indian tribe involved.
 
@@ -993,19 +993,19 @@ In any case in which a grant is provided under this chapter to an organization t
 
 **(C)** is not directly administered by the Bureau of Indian Affairs.
 
-(Pub. L. 100–297, title V, § 5212, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2078.)
+(Pub. L. 100–297, title V, § 5212, as added Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2078.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 This Act, referred to in par. (7), is Pub. L. 100–297 and probably should be “this part”, meaning part B of title V of Pub. L. 100–297, known as the Tribally Controlled Schools Act of 1988, which is classified generally to this chapter. For complete classification of part B to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2511, Pub. L. 100–297, title V, § 5212, Apr. 28, 1988, 102 Stat. 394, defined terms, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063.
+A prior section 2511, Pub. L. 100–297, title V, § 5212, Apr. 28, 1988, 102 Stat. 394, defined terms, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063.
 
 **Statutory Notes and Related Subsidiaries**
 

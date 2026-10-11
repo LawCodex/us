@@ -19,57 +19,57 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 117–58, div. H, title V, § 80504(b)(2), Nov. 15, 2021, 135 Stat. 1337, substituted “Federally declared disaster, significant fire,” for “Presidentially declared disaster” in item 7508A.
+2021—Pub. L. 117–58, div. H, title V, § 80504(b)(2), Nov. 15, 2021, 135 Stat. 1337, substituted “Federally declared disaster, significant fire,” for “Presidentially declared disaster” in item 7508A.
 
-Pub. L. 117–2, title IX, §§ 9611(b)(4)(D), 9625(b), Mar. 11, 2021, 135 Stat. 150, 157, added items 7527A and 7530.
+Pub. L. 117–2, title IX, §§ 9611(b)(4)(D), 9625(b), Mar. 11, 2021, 135 Stat. 150, 157, added items 7527A and 7530.
 
-2019—Pub. L. 116–25, title I, § 1401(b), title II, § 2007(c), July 1, 2019, 133 Stat. 997, 1006, added items 7526A and 7529.
+2019—Pub. L. 116–25, title I, § 1401(b), title II, § 2007(c), July 1, 2019, 133 Stat. 997, 1006, added items 7526A and 7529.
 
-2003—Pub. L. 108–121, title I, § 104(b)(3), Nov. 11, 2003, 117 Stat. 1338, inserted “or contingency operation” after “combat zone” in item 7508.
+2003—Pub. L. 108–121, title I, § 104(b)(3), Nov. 11, 2003, 117 Stat. 1338, inserted “or contingency operation” after “combat zone” in item 7508.
 
-Pub. L. 108–89, title II, § 202(b)(1), Oct. 1, 2003, 117 Stat. 1133, added item 7528.
+Pub. L. 108–89, title II, § 202(b)(1), Oct. 1, 2003, 117 Stat. 1133, added item 7528.
 
-2002—Pub. L. 107–210, div. A, title II, § 202(d)(1), Aug. 6, 2002, 116 Stat. 963, added item 7527.
+2002—Pub. L. 107–210, div. A, title II, § 202(d)(1), Aug. 6, 2002, 116 Stat. 963, added item 7527.
 
-Pub. L. 107–134, title I, § 112(e)(1), Jan. 23, 2002, 115 Stat. 2435, substituted “Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions” for “Authority to postpone certain tax-related deadlines by reason of presidentially declared disaster” in item 7508A.
+Pub. L. 107–134, title I, § 112(e)(1), Jan. 23, 2002, 115 Stat. 2435, substituted “Authority to postpone certain deadlines by reason of Presidentially declared disaster or terroristic or military actions” for “Authority to postpone certain tax-related deadlines by reason of presidentially declared disaster” in item 7508A.
 
-1998—Pub. L. 105–206, title III, §§ 3411(b), 3601(b), July 22, 1998, 112 Stat. 751, 776, added items 7525 and 7526.
+1998—Pub. L. 105–206, title III, §§ 3411(b), 3601(b), July 22, 1998, 112 Stat. 751, 776, added items 7525 and 7526.
 
-1997—Pub. L. 105–34, title IX, § 911(b), Aug. 5, 1997, 111 Stat. 878, added item 7508A.
+1997—Pub. L. 105–34, title IX, § 911(b), Aug. 5, 1997, 111 Stat. 878, added item 7508A.
 
-1996—Pub. L. 104–168, title XII, § 1204(b), July 30, 1996, 110 Stat. 1471, added item 7524.
+1996—Pub. L. 104–168, title XII, § 1204(b), July 30, 1996, 110 Stat. 1471, added item 7524.
 
-1990—Pub. L. 101–508, title XI, §§ 11622(b), 11704(a)(31), Nov. 5, 1990, 104 Stat. 1388–505, 1388–519, substituted “7522. Content of tax due, deficiency, and other notices.” for “7521. Content of tax due, deficiency, and other notices.” and added item 7523.
+1990—Pub. L. 101–508, title XI, §§ 11622(b), 11704(a)(31), Nov. 5, 1990, 104 Stat. 1388–505, 1388–519, substituted “7522. Content of tax due, deficiency, and other notices.” for “7521. Content of tax due, deficiency, and other notices.” and added item 7523.
 
-1989—Pub. L. 101–239, title VII, § 7816(u)(2), Dec. 19, 1989, 103 Stat. 2423, redesignated item 7520, relating to procedures involving taxpayer interviews, as 7521.
+1989—Pub. L. 101–239, title VII, § 7816(u)(2), Dec. 19, 1989, 103 Stat. 2423, redesignated item 7520, relating to procedures involving taxpayer interviews, as 7521.
 
-1988—Pub. L. 100–647, title VI, § 6233(b), Nov. 10, 1988, 102 Stat. 3735, added item 7521.
+1988—Pub. L. 100–647, title VI, § 6233(b), Nov. 10, 1988, 102 Stat. 3735, added item 7521.
 
-Pub. L. 100–647, title VI, § 6228(c), Nov. 10, 1988, 102 Stat. 3732, added item 7520 relating to procedures involving taxpayer interviews.
+Pub. L. 100–647, title VI, § 6228(c), Nov. 10, 1988, 102 Stat. 3732, added item 7520 relating to procedures involving taxpayer interviews.
 
-Pub. L. 100–647, title V, § 5031(b), Nov. 10, 1988, 102 Stat. 3669, added item 7520 relating to valuation tables.
+Pub. L. 100–647, title V, § 5031(b), Nov. 10, 1988, 102 Stat. 3669, added item 7520 relating to valuation tables.
 
-1987—Pub. L. 100–203, title X, § 10206(b)(2), Dec. 22, 1987, 101 Stat. 1330–401, added item 7519.
+1987—Pub. L. 100–203, title X, § 10206(b)(2), Dec. 22, 1987, 101 Stat. 1330–401, added item 7519.
 
-1986—Pub. L. 99–514, title II, § 261(f), Oct. 22, 1986, 100 Stat. 2216, added item 7518.
+1986—Pub. L. 99–514, title II, § 261(f), Oct. 22, 1986, 100 Stat. 2216, added item 7518.
 
-1976—Pub. L. 94–455, title XIX, § 1906(b)(11), (12), Oct. 4, 1976, 90 Stat. 1834, substituted “Time for performing certain acts postponed by reason of service in combat zone” for “Time for performing certain acts postponed by reason of war” in item 7508, and “Expenditures incurred by the United States Postal Service” for “Expenditures incurred by the Post Office Department” in item 7509.
+1976—Pub. L. 94–455, title XIX, § 1906(b)(11), (12), Oct. 4, 1976, 90 Stat. 1834, substituted “Time for performing certain acts postponed by reason of service in combat zone” for “Time for performing certain acts postponed by reason of war” in item 7508, and “Expenditures incurred by the United States Postal Service” for “Expenditures incurred by the Post Office Department” in item 7509.
 
-Pub. L. 94–455, title XX, § 2008(a)(2)(C), Oct. 4, 1976, 90 Stat. 1891, added item 7517 relating to statement explaining estate or gift valuation.
+Pub. L. 94–455, title XX, § 2008(a)(2)(C), Oct. 4, 1976, 90 Stat. 1891, added item 7517 relating to statement explaining estate or gift valuation.
 
-1966—Pub. L. 89–719, title I, § 111(c)(2), Nov. 2, 1966, 80 Stat. 1145, substituted “acquired” for “purchased” in item 7505.
+1966—Pub. L. 89–719, title I, § 111(c)(2), Nov. 2, 1966, 80 Stat. 1145, substituted “acquired” for “purchased” in item 7505.
 
-Pub. L. 89–713, § 5(b), Nov. 2, 1966, 80 Stat. 1111, inserted “and paying” in item 7502.
+Pub. L. 89–713, § 5(b), Nov. 2, 1966, 80 Stat. 1111, inserted “and paying” in item 7502.
 
-1962—Pub. L. 87–870, § 3(a)(2), Oct. 23, 1962, 76 Stat. 1161, added items 7515 and 7516.
+1962—Pub. L. 87–870, § 3(a)(2), Oct. 23, 1962, 76 Stat. 1161, added items 7515 and 7516.
 
-Pub. L. 87–456, title III, § 302(d), May 24, 1962, 76 Stat. 77, struck out item 7511 “Exemption of consular officers and employees of foreign states from payment of internal revenue taxes on imported articles”.
+Pub. L. 87–456, title III, § 302(d), May 24, 1962, 76 Stat. 77, struck out item 7511 “Exemption of consular officers and employees of foreign states from payment of internal revenue taxes on imported articles”.
 
-1958—Pub. L. 85–866, title I, §§ 90(b), 91(b), Sept. 2, 1958, 72 Stat. 1666, 1667, added items 7513 and 7514.
+1958—Pub. L. 85–866, title I, §§ 90(b), 91(b), Sept. 2, 1958, 72 Stat. 1666, 1667, added items 7513 and 7514.
 
-Pub. L. 85–321, § 3(a), Feb. 11, 1958, 72 Stat. 6, added item 7512.
+Pub. L. 85–321, § 3(a), Feb. 11, 1958, 72 Stat. 6, added item 7512.
 
-## § 7501. Liability for taxes withheld or collected
+## § 7501. Liability for taxes withheld or collected
 
 **(a) General rule**
 
@@ -81,7 +81,7 @@ For penalties applicable to violations of this section, see sections 6672 and 72
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 895.)
 
-## § 7502. Timely mailing treated as timely filing and paying
+## § 7502. Timely mailing treated as timely filing and paying
 
 **(a) General rule**
 
@@ -161,7 +161,7 @@ Any reference in this section to the United States mail shall be treated as incl
 
 The Secretary may provide a rule similar to the rule of paragraph (1) with respect to any service provided by a designated delivery service which is substantially equivalent to United States registered or certified mail.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 895; Pub. L. 85–866, title I, § 89(a), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 89–713, § 5(a), Nov. 2, 1966, 80 Stat. 1110; Pub. L. 90–364, title I, § 106(a), June 28, 1968, 82 Stat. 266; Pub. L. 94–455, title XIX, §§ 1906(a)(49), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 95–147, § 3(b), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 98–369, div. A, title I, § 157(a), July 18, 1984, 98 Stat. 695; Pub. L. 99–514, title XVIII, § 1811(e), Oct. 22, 1986, 100 Stat. 2833; Pub. L. 104–168, title XII, § 1210, July 30, 1996, 110 Stat. 1474; Pub. L. 105–206, title II, § 2003(b), July 22, 1998, 112 Stat. 725.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 895; Pub. L. 85–866, title I, § 89(a), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 89–713, § 5(a), Nov. 2, 1966, 80 Stat. 1110; Pub. L. 90–364, title I, § 106(a), June 28, 1968, 82 Stat. 266; Pub. L. 94–455, title XIX, §§ 1906(a)(49), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 95–147, § 3(b), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 98–369, div. A, title I, § 157(a), July 18, 1984, 98 Stat. 695; Pub. L. 99–514, title XVIII, § 1811(e), Oct. 22, 1986, 100 Stat. 2833; Pub. L. 104–168, title XII, § 1210, July 30, 1996, 110 Stat. 1474; Pub. L. 105–206, title II, § 2003(b), July 22, 1998, 112 Stat. 725.)
 
 **Editorial Notes**
 
@@ -183,11 +183,11 @@ The Secretary may provide a rule similar to the rule of paragraph (1) with respe
 
 1984—Subsec. (e)(3). Pub. L. 98–369 added par. (3).
 
-1977—Subsec. (e). Pub. L. 95–147 substituted “, trust company, domestic building and loan association, or credit union” for “or trust company” in three places.
+1977—Subsec. (e). Pub. L. 95–147 substituted “, trust company, domestic building and loan association, or credit union” for “or trust company” in three places.
 
-1976—Subsec. (b). Pub. L. 94–455, § 1906(a)(49), (b)(13)(A), substituted “United States Postal Service” for “United States Post Office” after “made by the”, and struck out “or his delegate” after “Secretary”.
+1976—Subsec. (b). Pub. L. 94–455, § 1906(a)(49), (b)(13)(A), substituted “United States Postal Service” for “United States Post Office” after “made by the”, and struck out “or his delegate” after “Secretary”.
 
-Subsecs. (c)(2), (e)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsecs. (c)(2), (e)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1968—Subsec. (e). Pub. L. 90–364 added subsec. (e).
 
@@ -209,7 +209,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 157(b), July 18, 1984, 98 Stat. 695, provided that: “The amendment made by this section [amending this section] shall apply to deposits required to be made after July 31, 1984.”
+Pub. L. 98–369, div. A, title I, § 157(b), July 18, 1984, 98 Stat. 695, provided that: “The amendment made by this section [amending this section] shall apply to deposits required to be made after July 31, 1984.”
 
 **Effective Date of 1977 Amendment**
 
@@ -221,29 +221,29 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–364, title I, § 106(b), June 28, 1968, 82 Stat. 266, provided that: “The amendment made by subsec. (a) [amending this section] shall apply only as to mailing occurring after the date of the enactment of this Act [June 28, 1968].”
+Pub. L. 90–364, title I, § 106(b), June 28, 1968, 82 Stat. 266, provided that: “The amendment made by subsec. (a) [amending this section] shall apply only as to mailing occurring after the date of the enactment of this Act [June 28, 1968].”
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–713, § 5(c), Nov. 2, 1966, 80 Stat. 1111, provided that: “The amendments made by this section [amending this section] shall apply only if the mailing occurs after the date of the enactment of this Act [Nov. 2, 1966].”
+Pub. L. 89–713, § 5(c), Nov. 2, 1966, 80 Stat. 1111, provided that: “The amendments made by this section [amending this section] shall apply only if the mailing occurs after the date of the enactment of this Act [Nov. 2, 1966].”
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–866, title I, § 89(d), Sept. 2, 1958, 72 Stat. 1666, provided that: “This section [amending this section and sections 167, 6164, 6212, 6532, and 7455 of this title] shall apply only if the mailing occurs after the date of the enactment of this Act [Sept. 2, 1958].”
+Pub. L. 85–866, title I, § 89(d), Sept. 2, 1958, 72 Stat. 1666, provided that: “This section [amending this section and sections 167, 6164, 6212, 6532, and 7455 of this title] shall apply only if the mailing occurs after the date of the enactment of this Act [Sept. 2, 1958].”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Provisions of Internal Revenue Code of 1939**
 
-Pub. L. 85–866, title I, § 89(c), Sept. 2, 1958, 72 Stat. 1666, provided that: “In applying any provision of the Internal Revenue Code of 1939 which requires, or provides for, the use of registered mail, the reference to registered mail shall be treated as including a reference to certified mail.”
+Pub. L. 85–866, title I, § 89(c), Sept. 2, 1958, 72 Stat. 1666, provided that: “In applying any provision of the Internal Revenue Code of 1939 which requires, or provides for, the use of registered mail, the reference to registered mail shall be treated as including a reference to certified mail.”
 
-## § 7503. Time for performance of acts where last day falls on Saturday, Sunday, or legal holiday
+## § 7503. Time for performance of acts where last day falls on Saturday, Sunday, or legal holiday
 
 When the last day prescribed under authority of the internal revenue laws for performing any act falls on Saturday, Sunday, or a legal holiday, the performance of such act shall be considered timely if it is performed on the next succeeding day which is not a Saturday, Sunday, or a legal holiday. For purposes of this section, the last day for the performance of any act shall be determined by including any authorized extension of time; the term “legal holiday” means a legal holiday in the District of Columbia; and in the case of any return, statement, or other document required to be filed, or any other act required under authority of the internal revenue laws to be performed, at any office of the Secretary or at any other office of the United States or any agency thereof, located outside the District of Columbia but within an internal revenue district, the term “legal holiday” also means a Statewide legal holiday in the State where such office is located.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -255,13 +255,13 @@ When the last day prescribed under authority of the internal revenue laws for pe
 
 **Applicability of This Section for Purposes of Section 10222(b) of Pub. L. 100–203**
 
-Pub. L. 100–647, title VI, § 6278, Nov. 10, 1988, 102 Stat. 3754, provided that: “Section 7503 of the 1986 Code shall apply for purposes of determining whether any disposition meets the requirements of section 10222(b)(2)(B) of the Revenue Act of 1987 [Pub. L. 100–203, set out as a note under section 301 of this title]. If any disposition meets the requirements of such section by reason of the preceding sentence, for all purposes of the 1986 Code, such disposition shall be deemed to have occurred on December 31, 1988.”
+Pub. L. 100–647, title VI, § 6278, Nov. 10, 1988, 102 Stat. 3754, provided that: “Section 7503 of the 1986 Code shall apply for purposes of determining whether any disposition meets the requirements of section 10222(b)(2)(B) of the Revenue Act of 1987 [Pub. L. 100–203, set out as a note under section 301 of this title]. If any disposition meets the requirements of such section by reason of the preceding sentence, for all purposes of the 1986 Code, such disposition shall be deemed to have occurred on December 31, 1988.”
 
-## § 7504. Fractional parts of a dollar
+## § 7504. Fractional parts of a dollar
 
 The Secretary may by regulations provide that in the allowance of any amount as a credit or refund, or in the collection of any amount as a deficiency or underpayment, of any tax imposed by this title, a fractional part of a dollar shall be disregarded, unless it amounts to 50 cents or more, in which case it shall be increased to 1 dollar.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -269,7 +269,7 @@ The Secretary may by regulations provide that in the allowance of any amount as 
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-## § 7505. Sale of personal property acquired by the United States
+## § 7505. Sale of personal property acquired by the United States
 
 **(a) Sale**
 
@@ -279,7 +279,7 @@ Any personal property acquired by the United States in payment of or as security
 
 In case of the resale of such property, the proceeds of the sale shall be paid into the Treasury as internal revenue collections, and there shall be rendered a distinct account of all charges incurred in such sales.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 89–719, title I, § 111(a), (c)(1), Nov. 2, 1966, 80 Stat. 1145; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 89–719, title I, § 111(a), (c)(1), Nov. 2, 1966, 80 Stat. 1145; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -295,7 +295,7 @@ In case of the resale of such property, the proceeds of the sale shall be paid i
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
-## § 7506. Administration of real estate acquired by the United States
+## § 7506. Administration of real estate acquired by the United States
 
 **(a) Person charged with**
 
@@ -313,7 +313,7 @@ Until such sale, the Secretary may lease such real estate owned as aforesaid on 
 
 In cases where real estate has or may become the property of the United States by conveyance or otherwise, in payment of or as security for a debt arising under the laws relating to internal revenue, and such debt shall have been paid, together with the interest thereon, at the rate of 1 percent per month, to the United States, within 2 years from the date of the acquisition of such real estate, it shall be lawful for the Secretary to release by deed or otherwise convey such real estate to the debtor from whom it was taken, or to his heirs or other legal representatives.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 89–719, title I, § 111(b), Nov. 2, 1966, 80 Stat. 1145; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 89–719, title I, § 111(b), Nov. 2, 1966, 80 Stat. 1145; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -329,7 +329,7 @@ In cases where real estate has or may become the property of the United States b
 
 Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 
-## § 7507. Exemption of insolvent banks from tax
+## § 7507. Exemption of insolvent banks from tax
 
 **(a) Assets in general**
 
@@ -353,15 +353,15 @@ Whenever any bank or trust company, a substantial portion of the business of whi
 
 This section shall not apply to any tax imposed by chapter 21 or chapter 23.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 897; Pub. L. 94–455, title XIX, § 1906(a)(50), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 897; Pub. L. 94–455, title XIX, § 1906(a)(50), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (c). Pub. L. 94–455, § 1906(a)(50), struck out “after May 28, 1938” in par. (2) after “or remitted” and in par. (3) after “been refunded”.
+Subsec. (c). Pub. L. 94–455, § 1906(a)(50), struck out “after May 28, 1938” in par. (2) after “or remitted” and in par. (3) after “been refunded”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -369,7 +369,7 @@ Subsec. (c). Pub. L. 94–455, § 1906(a)(50), struck out “after May 28, 193
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
-## § 7508. Time for performing certain acts postponed by reason of service in combat zone or contingency operation
+## § 7508. Time for performing certain acts postponed by reason of service in combat zone or contingency operation
 
 **(a) Time to be disregarded** In the case of an individual serving in the Armed Forces of the United States, or serving in support of such Armed Forces, in an area designated by the President of the United States by Executive order as a “combat zone” for purposes of section 112, or when deployed outside the United States away from the individual’s permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
 
@@ -453,15 +453,15 @@ Any individual who performed Desert Shield services (and the spouse of such indi
 
 Paragraph (2) shall not apply for purposes of applying this section with respect to the spouse of an individual entitled to the benefits of subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 898; Pub. L. 93–597, § 5(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, § 1906(a)(51), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 94–569, § 3(e), Oct. 20, 1976, 90 Stat. 2700; Pub. L. 96–589, § 6(i)(14), Dec. 24, 1980, 94 Stat. 3411; Pub. L. 97–448, title III, § 307(d), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 99–514, title XVII, § 1708(a)(4), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 102–2, § 1(a)–(c), Jan. 30, 1991, 105 Stat. 5; Pub. L. 107–134, title I, § 112(b), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–121, title I, § 104(a)–(b)(2), Nov. 11, 2003, 117 Stat. 1338; Pub. L. 109–73, title IV, § 403(a), Sept. 23, 2005, 119 Stat. 2027; Pub. L. 114–94, div. C, title XXXII, § 32101(d), Dec. 4, 2015, 129 Stat. 1732; Pub. L. 114–113, div. Q, title III, § 309(a), Dec. 18, 2015, 129 Stat. 3089; Pub. L. 117–58, div. H, title V, § 80502(a), Nov. 15, 2021, 135 Stat. 1335.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 898; Pub. L. 93–597, § 5(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, § 1906(a)(51), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 94–569, § 3(e), Oct. 20, 1976, 90 Stat. 2700; Pub. L. 96–589, § 6(i)(14), Dec. 24, 1980, 94 Stat. 3411; Pub. L. 97–448, title III, § 307(d), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 99–514, title XVII, § 1708(a)(4), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 102–2, § 1(a)–(c), Jan. 30, 1991, 105 Stat. 5; Pub. L. 107–134, title I, § 112(b), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–121, title I, § 104(a)–(b)(2), Nov. 11, 2003, 117 Stat. 1338; Pub. L. 109–73, title IV, § 403(a), Sept. 23, 2005, 119 Stat. 2027; Pub. L. 114–94, div. C, title XXXII, § 32101(d), Dec. 4, 2015, 129 Stat. 1732; Pub. L. 114–113, div. Q, title III, § 309(a), Dec. 18, 2015, 129 Stat. 3089; Pub. L. 117–58, div. H, title V, § 80502(a), Nov. 15, 2021, 135 Stat. 1335.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (a)(1)(C). Pub. L. 117–58, § 80502(a)(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “Filing a petition with the Tax Court for redetermination of a deficiency, or for review of a decision rendered by the Tax Court;”.
+2021—Subsec. (a)(1)(C). Pub. L. 117–58, § 80502(a)(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “Filing a petition with the Tax Court for redetermination of a deficiency, or for review of a decision rendered by the Tax Court;”.
 
-Subsec. (a)(1)(J). Pub. L. 117–58, § 80502(a)(2), inserted “or in respect of any erroneous refund” after “any tax”.
+Subsec. (a)(1)(J). Pub. L. 117–58, § 80502(a)(2), inserted “or in respect of any erroneous refund” after “any tax”.
 
 2015—Subsec. (a)(3). Pub. L. 114–94 added par. (3).
 
@@ -473,21 +473,21 @@ Subsec. (e)(3). Pub. L. 114–113 added par. (3).
 
 “(B) Payment of any income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby) or any installment thereof or of any other liability to the United States in respect thereof;”.
 
-2003—Pub. L. 108–121, § 104(b)(2), inserted “or contingency operation” after “combat zone” in section catchline.
+2003—Pub. L. 108–121, § 104(b)(2), inserted “or contingency operation” after “combat zone” in section catchline.
 
-Subsec. (a). Pub. L. 108–121, § 104(a), in introductory provisions, inserted “, or when deployed outside the United States away from the individual’s permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law” after “section 112”, “or at any time during the period of such contingency operation” after “for purposes of such section”, “or operation” after “such an area”, and “or operation” after “such area”.
+Subsec. (a). Pub. L. 108–121, § 104(a), in introductory provisions, inserted “, or when deployed outside the United States away from the individual’s permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law” after “section 112”, “or at any time during the period of such contingency operation” after “for purposes of such section”, “or operation” after “such an area”, and “or operation” after “such area”.
 
-Subsec. (d). Pub. L. 108–121, § 104(b)(1), inserted “or contingency operation” after “area”.
+Subsec. (d). Pub. L. 108–121, § 104(b)(1), inserted “or contingency operation” after “area”.
 
 2002—Subsec. (a)(1)(K). Pub. L. 107–134 struck out “in regulations prescribed under this section” before “by the Secretary”.
 
-1991—Subsec. (a). Pub. L. 102–2, § 1(c)(1), in introductory provisions, struck out “outside the United States” before “as a result of injury” and substituted “the period of continuous qualified hospitalization” for “the period of continuous hospitalization outside the United States”.
+1991—Subsec. (a). Pub. L. 102–2, § 1(c)(1), in introductory provisions, struck out “outside the United States” before “as a result of injury” and substituted “the period of continuous qualified hospitalization” for “the period of continuous hospitalization outside the United States”.
 
-Subsec. (a)(2). Pub. L. 102–2, § 1(b)(2), struck out “(including interest)” after “refund”.
+Subsec. (a)(2). Pub. L. 102–2, § 1(b)(2), struck out “(including interest)” after “refund”.
 
-Subsecs. (b) to (e). Pub. L. 102–2, § 1(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
+Subsecs. (b) to (e). Pub. L. 102–2, § 1(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
 
-Subsecs. (f), (g). Pub. L. 102–2, § 1(a), (c)(2), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 102–2, § 1(a), (c)(2), added subsecs. (f) and (g).
 
 1986—Subsec. (b). Pub. L. 99–514 amended last sentence generally. Prior to amendment, last sentence read as follows: “The preceding sentence shall not cause this section to apply to any spouse for any taxable year beginning—
 
@@ -499,13 +499,13 @@ Subsecs. (f), (g). Pub. L. 102–2, § 1(a), (c)(2), added subsecs. (f) and (g
 
 1980—Subsec. (d). Pub. L. 96–589 substituted “cases under title 11 of the United States Code and receiverships” for “bankruptcy and receiverships” in par. (1) heading.
 
-1976—Pub. L. 94–455, § 1906(a)(51)(A), substituted “by reason of service in combat zone” for “by reason of war” in section catchline.
+1976—Pub. L. 94–455, § 1906(a)(51)(A), substituted “by reason of service in combat zone” for “by reason of war” in section catchline.
 
-Subsec. (a). Pub. L. 94–455, § 1906(a)(51)(B), (b)(13)(A), substituted “United States” for “States of the Union and the District of Columbia” in two places after “hospitalized outside the” and “hospitalization outside the”, and struck out “or his delegate” after “Secretary”.
+Subsec. (a). Pub. L. 94–455, § 1906(a)(51)(B), (b)(13)(A), substituted “United States” for “States of the Union and the District of Columbia” in two places after “hospitalized outside the” and “hospitalization outside the”, and struck out “or his delegate” after “Secretary”.
 
 Subsec. (b). Pub. L. 94–569 substituted “taxable year beginning” for “taxable year beginning more than 2 years after” in provisions preceding par. (1), substituted “after January 2, 1978” for “the date of the enactment of this subsection” in par. (1), and substituted “more than 2 years after the date designated” for “the date designated” in par. (2).
 
-Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 1975—Subsecs. (b) to (d). Pub. L. 93–597 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
@@ -513,19 +513,19 @@ Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegat
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–58, div. H, title V, § 80502(b), Nov. 15, 2021, 135 Stat. 1336, provided that: “The amendments made by this section [amending this section] shall apply to any period for performing an act which has not expired before the date of the enactment of this Act [Nov. 15, 2021].”
+Pub. L. 117–58, div. H, title V, § 80502(b), Nov. 15, 2021, 135 Stat. 1336, provided that: “The amendments made by this section [amending this section] shall apply to any period for performing an act which has not expired before the date of the enactment of this Act [Nov. 15, 2021].”
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title III, § 309(b), Dec. 18, 2015, 129 Stat. 3090, provided that: “The amendment made by this section [amending this section] shall apply to taxes assessed before, on, or after the date of the enactment of this Act [Dec. 18, 2015].”
+Pub. L. 114–113, div. Q, title III, § 309(b), Dec. 18, 2015, 129 Stat. 3090, provided that: “The amendment made by this section [amending this section] shall apply to taxes assessed before, on, or after the date of the enactment of this Act [Dec. 18, 2015].”
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–73, title IV, § 403(c), Sept. 23, 2005, 119 Stat. 2027, provided that: “The amendment made by subsection (a) [amending this section] shall apply for any period for performing an act which has not expired before August 25, 2005.”
+Pub. L. 109–73, title IV, § 403(c), Sept. 23, 2005, 119 Stat. 2027, provided that: “The amendment made by subsection (a) [amending this section] shall apply for any period for performing an act which has not expired before August 25, 2005.”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–121, title I, § 104(c), Nov. 11, 2003, 117 Stat. 1338, provided that: “The amendments made by this section [amending this section] shall apply to any period for performing an act which has not expired before the date of the enactment of this Act [Nov. 11, 2003].”
+Pub. L. 108–121, title I, § 104(c), Nov. 11, 2003, 117 Stat. 1338, provided that: “The amendments made by this section [amending this section] shall apply to any period for performing an act which has not expired before the date of the enactment of this Act [Nov. 11, 2003].”
 
 **Effective Date of 2002 Amendment**
 
@@ -533,7 +533,7 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–2, § 1(d), Jan. 30, 1991, 105 Stat. 6, provided that: “The amendments made by this section [amending this section] shall take effect on August 2, 1990.”
+Pub. L. 102–2, § 1(d), Jan. 30, 1991, 105 Stat. 6, provided that: “The amendments made by this section [amending this section] shall take effect on August 2, 1990.”
 
 **Effective Date of 1986 Amendment**
 
@@ -549,11 +549,11 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 93–597, § 5(b), Jan. 2, 1975, 88 Stat. 1953, provided that: “The amendments made by subsection (a) [amending this section] shall apply to taxable years ending on or after February 28, 1961.”
+Pub. L. 93–597, § 5(b), Jan. 2, 1975, 88 Stat. 1953, provided that: “The amendments made by subsection (a) [amending this section] shall apply to taxable years ending on or after February 28, 1961.”
 
 **Transfer of Functions**
 
-Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
+Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
 
 **Executive Documents**
 
@@ -577,7 +577,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 George Bush.
 
-## § 7508A. Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions
+## § 7508A. Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions
 
 **(a) In general** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(i)(5)(A)), a significant fire, or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
 
@@ -655,7 +655,7 @@ Any period described in paragraph (1) with respect to any person (including by r
 
 For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 120-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
 
-**(f) 1 [footnote: 1 So in original. There are two subsecs. (f).] Significant fire**
+**(f) 1 [footnote: 1 So in original. There are two subsecs. (f).] Significant fire**
 
 For purposes of this section, the term “significant fire” means any fire with respect to which assistance is provided under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
 
@@ -663,7 +663,7 @@ For purposes of this section, the term “significant fire” means any fire wit
 
 For purposes of section 6511(b)(2)(A), any period disregarded under this section with respect to the time prescribed for filing any return of tax shall be treated as an extension of time for filing such return.
 
-(Added Pub. L. 105–34, title IX, § 911(a), Aug. 5, 1997, 111 Stat. 877; amended Pub. L. 107–16, title VIII, § 802(a), June 7, 2001, 115 Stat. 149; Pub. L. 107–134, title I, § 112(a), Jan. 23, 2002, 115 Stat. 2433; Pub. L. 110–343, div. C, title VII, § 706(a)(2)(D)(vii), Oct. 3, 2008, 122 Stat. 3922; Pub. L. 115–141, div. U, title IV, § 401(b)(10)(B), Mar. 23, 2018, 132 Stat. 1202; Pub. L. 116–94, div. Q, title II, § 205(a), Dec. 20, 2019, 133 Stat. 3245; Pub. L. 117–58, div. H, title V, §§ 80501(a), 80504(a), (b)(1), Nov. 15, 2021, 135 Stat. 1335, 1336; Pub. L. 119–29, § 2(a), (b), July 24, 2025, 139 Stat. 471; Pub. L. 119–64, § 2(a)(1), Dec. 26, 2025, 139 Stat. 1984.)
+(Added Pub. L. 105–34, title IX, § 911(a), Aug. 5, 1997, 111 Stat. 877; amended Pub. L. 107–16, title VIII, § 802(a), June 7, 2001, 115 Stat. 149; Pub. L. 107–134, title I, § 112(a), Jan. 23, 2002, 115 Stat. 2433; Pub. L. 110–343, div. C, title VII, § 706(a)(2)(D)(vii), Oct. 3, 2008, 122 Stat. 3922; Pub. L. 115–141, div. U, title IV, § 401(b)(10)(B), Mar. 23, 2018, 132 Stat. 1202; Pub. L. 116–94, div. Q, title II, § 205(a), Dec. 20, 2019, 133 Stat. 3245; Pub. L. 117–58, div. H, title V, §§ 80501(a), 80504(a), (b)(1), Nov. 15, 2021, 135 Stat. 1335, 1336; Pub. L. 119–29, § 2(a), (b), July 24, 2025, 139 Stat. 471; Pub. L. 119–64, § 2(a)(1), Dec. 26, 2025, 139 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -673,35 +673,35 @@ Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 
 **Amendments**
 
-2025—Subsecs. (c), (d), Pub. L. 119–29, § 2(a), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+2025—Subsecs. (c), (d), Pub. L. 119–29, § 2(a), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 119–29, § 2(a), (b)(3), redesignated subsec. (d) as (e) and substituted “120-day” for “60-day” in heading. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 119–29, § 2(a), (b)(3), redesignated subsec. (d) as (e) and substituted “120-day” for “60-day” in heading. Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1)(B). Pub. L. 119–29, § 2(b)(1), substituted “120 days” for “60 days”.
+Subsec. (e)(1)(B). Pub. L. 119–29, § 2(b)(1), substituted “120 days” for “60 days”.
 
-Subsec. (e)(6). Pub. L. 119–29, § 2(b)(2), substituted “120-day” for “60-day”.
+Subsec. (e)(6). Pub. L. 119–29, § 2(b)(2), substituted “120-day” for “60-day”.
 
 Subsec. (f). Pub. L. 119–64 added subsec. (f), relating to application to limitation on credit or refund.
 
-Pub. L. 119–29, § 2(a), redesignated subsec. (e) as (f), defining “significant fire”.
+Pub. L. 119–29, § 2(a), redesignated subsec. (e) as (f), defining “significant fire”.
 
-2021—Pub. L. 117–58, § 80504(b)(1), substituted “Federally declared disaster, significant fire,” for “Presidentially declared disaster” in section catchline.
+2021—Pub. L. 117–58, § 80504(b)(1), substituted “Federally declared disaster, significant fire,” for “Presidentially declared disaster” in section catchline.
 
-Subsec. (a). Pub. L. 117–58, § 80504(a)(1), which directed insertion of “, a significant fire,” after “federally declared disaster (as defined in section 165(i)(5)(A))”, was executed by making the insertion after “federally declared disaster (as defined by section 165(i)(5)(A))” in introductory provisions, to reflect the probable intent of Congress.
+Subsec. (a). Pub. L. 117–58, § 80504(a)(1), which directed insertion of “, a significant fire,” after “federally declared disaster (as defined in section 165(i)(5)(A))”, was executed by making the insertion after “federally declared disaster (as defined by section 165(i)(5)(A))” in introductory provisions, to reflect the probable intent of Congress.
 
-Subsec. (a)(1). Pub. L. 117–58, § 80504(a)(2), inserted “, fire,” after “disaster”.
+Subsec. (a)(1). Pub. L. 117–58, § 80504(a)(2), inserted “, fire,” after “disaster”.
 
-Subsec. (b). Pub. L. 117–58, § 80504(a)(2), inserted “, fire,” after “disaster”.
+Subsec. (b). Pub. L. 117–58, § 80504(a)(2), inserted “, fire,” after “disaster”.
 
-Subsec. (d)(1). Pub. L. 117–58, § 80501(a)(1)(B), in concluding provisions, substituted “in determining, under the internal revenue laws, in respect of any tax liability of such qualified taxpayer, whether any of the acts described in subparagraphs (A) through (F) of section 7508(a)(1) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date determined under subparagraph (B))” for “in the same manner as a period specified under subsection (a)”.
+Subsec. (d)(1). Pub. L. 117–58, § 80501(a)(1)(B), in concluding provisions, substituted “in determining, under the internal revenue laws, in respect of any tax liability of such qualified taxpayer, whether any of the acts described in subparagraphs (A) through (F) of section 7508(a)(1) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date determined under subparagraph (B))” for “in the same manner as a period specified under subsection (a)”.
 
-Subsec. (d)(1)(B). Pub. L. 117–58, § 80501(a)(1)(A), substituted “the later of such earliest incident date described in subparagraph (A) or the date such declaration was issued” for “the latest incident date so specified”.
+Subsec. (d)(1)(B). Pub. L. 117–58, § 80501(a)(1)(A), substituted “the later of such earliest incident date described in subparagraph (A) or the date such declaration was issued” for “the latest incident date so specified”.
 
-Subsec. (d)(3). Pub. L. 117–58, § 80501(a)(2), added par. (3) and struck out former par. (3) which defined the term “disaster area”.
+Subsec. (d)(3). Pub. L. 117–58, § 80501(a)(2), added par. (3) and struck out former par. (3) which defined the term “disaster area”.
 
-Subsec. (d)(6). Pub. L. 117–58, § 80501(a)(3), added par. (6).
+Subsec. (d)(6). Pub. L. 117–58, § 80501(a)(3), added par. (6).
 
-Subsec. (e). Pub. L. 117–58, § 80504(a)(3), added subsec. (e).
+Subsec. (e). Pub. L. 117–58, § 80504(a)(3), added subsec. (e).
 
 2019—Subsec. (d). Pub. L. 116–94 added subsec. (d).
 
@@ -717,19 +717,19 @@ Subsec. (e). Pub. L. 117–58, § 80504(a)(3), added subsec. (e).
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–64, § 2(a)(2), Dec. 26, 2025, 139 Stat. 1984, provided that: “The amendment made by this subsection [amending this section] shall apply to claims filed after the date of the enactment of this Act [Dec. 26, 2025].”
+Pub. L. 119–64, § 2(a)(2), Dec. 26, 2025, 139 Stat. 1984, provided that: “The amendment made by this subsection [amending this section] shall apply to claims filed after the date of the enactment of this Act [Dec. 26, 2025].”
 
-Pub. L. 119–29, § 2(c), July 24, 2025, 139 Stat. 472, provided that: “The amendments made by this section [amending this section] shall apply to declarations made after the date of the enactment of this Act [July 24, 2025].”
+Pub. L. 119–29, § 2(c), July 24, 2025, 139 Stat. 472, provided that: “The amendments made by this section [amending this section] shall apply to declarations made after the date of the enactment of this Act [July 24, 2025].”
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–58, div. H, title V, § 80501(b), Nov. 15, 2021, 135 Stat. 1335, provided that: “The amendment made by this section [amending this section] shall apply to federally declared disasters declared after the date of enactment of this Act [Nov. 15, 2021].”
+Pub. L. 117–58, div. H, title V, § 80501(b), Nov. 15, 2021, 135 Stat. 1335, provided that: “The amendment made by this section [amending this section] shall apply to federally declared disasters declared after the date of enactment of this Act [Nov. 15, 2021].”
 
-Pub. L. 117–58, div. H, title V, § 80504(c), Nov. 15, 2021, 135 Stat. 1337, provided that: “The amendments made by this section [amending this section] shall apply to fires for which assistance is provided after the date of the enactment of this Act [Nov. 15, 2021].”
+Pub. L. 117–58, div. H, title V, § 80504(c), Nov. 15, 2021, 135 Stat. 1337, provided that: “The amendments made by this section [amending this section] shall apply to fires for which assistance is provided after the date of the enactment of this Act [Nov. 15, 2021].”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. Q, title II, § 205(b), Dec. 20, 2019, 133 Stat. 3246, provided that: “The amendment made by this section [amending this section] shall apply to federally declared disasters declared after the date of the enactment of this Act [Dec. 20, 2019].”
+Pub. L. 116–94, div. Q, title II, § 205(b), Dec. 20, 2019, 133 Stat. 3246, provided that: “The amendment made by this section [amending this section] shall apply to federally declared disasters declared after the date of the enactment of this Act [Dec. 20, 2019].”
 
 **Effective Date of 2008 Amendment**
 
@@ -741,11 +741,11 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–16, title VIII, § 802(b), June 7, 2001, 115 Stat. 149, provided that: “The amendment made by this section [amending this section] shall take effect on the date of enactment of this Act [June 7, 2001].”
+Pub. L. 107–16, title VIII, § 802(b), June 7, 2001, 115 Stat. 149, provided that: “The amendment made by this section [amending this section] shall take effect on the date of enactment of this Act [June 7, 2001].”
 
 **Effective Date**
 
-Pub. L. 105–34, title IX, § 911(c), Aug. 5, 1997, 111 Stat. 878, provided that: “The amendments made by this section [enacting this section] shall apply with respect to any period for performing an act that has not expired before the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title IX, § 911(c), Aug. 5, 1997, 111 Stat. 878, provided that: “The amendments made by this section [enacting this section] shall apply with respect to any period for performing an act that has not expired before the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Savings Provision**
 
@@ -753,7 +753,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 **Extension of Certain Deferred Payroll Taxes by Reason of Coronavirus Pandemic**
 
-Pub. L. 116–260, div. N, title II, § 274, Dec. 27, 2020, 134 Stat. 1978, provided that:
+Pub. L. 116–260, div. N, title II, § 274, Dec. 27, 2020, 134 Stat. 1978, provided that:
 
 > “The Secretary of the Treasury (or the Secretary’s delegate) shall ensure that Internal Revenue Service Notice 2020–65 (entitled ‘Relief with Respect to Employment Tax Deadlines Applicable to Employers Affected by the Ongoing Coronavirus (COVID–19) Disease 2019 Pandemic’) and any successor or related regulation, notice, or guidance is applied—
 
@@ -763,7 +763,7 @@ Pub. L. 116–260, div. N, title II, § 274, Dec. 27, 2020, 134 Stat. 1978, pr
 
 **Authority To Postpone Certain Tax-Related Deadlines by Reason of Y2K Failures**
 
-Pub. L. 106–170, title V, § 522, Dec. 17, 1999, 113 Stat. 1927, provided that:
+Pub. L. 106–170, title V, § 522, Dec. 17, 1999, 113 Stat. 1927, provided that:
 
 > **“(a) In General.—** In the case of a taxpayer determined by the Secretary of the Treasury (or the Secretary’s delegate) to be affected by a Y2K failure, the Secretary may disregard a period of up to 90 days in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such taxpayer—
 
@@ -775,7 +775,7 @@ Pub. L. 106–170, title V, § 522, Dec. 17, 1999, 113 Stat. 1927, provided th
 
 **Abatement of Interest on Underpayments by Taxpayers in Presidentially Declared Disaster Areas**
 
-Pub. L. 105–34, title IX, § 915, Aug. 5, 1997, 111 Stat. 879, as amended by Pub. L. 105–277, div. J, title IV, § 4003(e)(1), Oct. 21, 1998, 112 Stat. 2681–909, provided that:
+Pub. L. 105–34, title IX, § 915, Aug. 5, 1997, 111 Stat. 879, as amended by Pub. L. 105–277, div. J, title IV, § 4003(e)(1), Oct. 21, 1998, 112 Stat. 2681–909, provided that:
 
 > **“(a) In General.—** If the Secretary of the Treasury extends for any period the time for filing income tax returns under section 6081 of the Internal Revenue Code of 1986 and the time for paying income tax with respect to such returns under section 6161 of such Code (and waives any penalties relating to the failure to so file or so pay) for any individual located in a Presidentially declared disaster area, the Secretary shall, notwithstanding section 7508A(b) of such Code, abate for such period the assessment of any interest prescribed under section 6601 of such Code on such income tax.
 
@@ -821,21 +821,21 @@ Sec. 5. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 Donald J. Trump.
 
-## § 7509. Expenditures incurred by the United States Postal Service
+## § 7509. Expenditures incurred by the United States Postal Service
 
 The Postmaster General or his delegate shall at least once a month transfer to the Treasury of the United States a statement of the additional expenditures in the District of Columbia and elsewhere incurred by the United States Postal Service in performing the duties, if any, imposed upon such Service with respect to chapter 21, relating to the tax under the Federal Insurance Contributions Act, and the Secretary shall be authorized and directed to advance from time to time to the credit of the United States Postal Service, from appropriations made for the collection of the taxes imposed by chapter 21, such sums as may be required for such additional expenditures incurred by the United States Postal Service.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 899; Pub. L. 94–455, title XIX, § 1906(a)(52), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 899; Pub. L. 94–455, title XIX, § 1906(a)(52), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Insurance Contributions Act, referred to in text, is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
+The Federal Insurance Contributions Act, referred to in text, is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
 
 **Amendments**
 
-1976—Pub. L. 94–455 substituted “United States Postal Service” for “Post Office Department” in section catchline and wherever appearing in text, “such Service” for “such Department”, and struck out “, together with the receipts required to be deposited under section 6803(a),” after “Treasury of the United States” and “or his delegate” after “Secretary”.
+1976—Pub. L. 94–455 substituted “United States Postal Service” for “Post Office Department” in section catchline and wherever appearing in text, “such Service” for “such Department”, and struck out “, together with the receipts required to be deposited under section 6803(a),” after “Treasury of the United States” and “or his delegate” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -843,11 +843,11 @@ The Federal Insurance Contributions Act, referred to in text, is act Aug. 16, 19
 
 Amendment by Pub. L. 94–455 effective first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
-## § 7510. Exemption from tax of domestic goods purchased for the United States
+## § 7510. Exemption from tax of domestic goods purchased for the United States
 
 The privilege existing by provision of law on December 1, 1873, or thereafter of purchasing supplies of goods imported from foreign countries for the use of the United States, duty free, shall be extended, under such regulations as the Secretary may prescribe, to all articles of domestic production which are subject to tax by the provisions of this title.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 900; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 900; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -855,7 +855,7 @@ The privilege existing by provision of law on December 1, 1873, or thereafter of
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-## [§ 7511. Repealed. Pub. L. 87–456, title III, § 302(d), May 24, 1962, 76 Stat. 77]
+## [§ 7511. Repealed. Pub. L. 87–456, title III, § 302(d), May 24, 1962, 76 Stat. 77]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 900, related to exemption of consular officers and employees of foreign states from payment of internal revenue taxes on imported articles.
 
@@ -865,7 +865,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 900, related to exemption of cons
 
 Repeal effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456, title V, May 24, 1962, 76 Stat. 78.
 
-## § 7512. Separate accounting for certain collected taxes, etc.
+## § 7512. Separate accounting for certain collected taxes, etc.
 
 **(a) General rule** Whenever any person who is required to collect, account for, and pay over any tax imposed by subtitle C or chapter 33—
 
@@ -883,17 +883,17 @@ Any person who is required to collect, account for, and pay over any tax imposed
 
 Whenever the Secretary is satisfied, with respect to any notification made under subsection (a), that all requirements of law and regulations with respect to the taxes imposed by subtitle C or chapter 33, as the case may be, will henceforth be complied with, he may cancel such notification. Such cancellation shall take effect at such time as is specified in the notice of such cancellation.
 
-(Added Pub. L. 85–321, § 1, Feb. 11, 1958, 72 Stat. 5; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–223, title I, § 101(c)(3), Apr. 2, 1980, 94 Stat. 251; Pub. L. 100–418, title I, § 1941(b)(2)(O), Aug. 23, 1988, 102 Stat. 1324.)
+(Added Pub. L. 85–321, § 1, Feb. 11, 1958, 72 Stat. 5; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–223, title I, § 101(c)(3), Apr. 2, 1980, 94 Stat. 251; Pub. L. 100–418, title I, § 1941(b)(2)(O), Aug. 23, 1988, 102 Stat. 1324.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–418, § 1941(b)(2)(O)(i), substituted “or chapter 33” for “, by chapter 33, or by section 4986” in introductory provisions.
+1988—Subsec. (a). Pub. L. 100–418, § 1941(b)(2)(O)(i), substituted “or chapter 33” for “, by chapter 33, or by section 4986” in introductory provisions.
 
-Subsec. (b). Pub. L. 100–418, § 1941(b)(2)(O)(i), (ii), substituted “or chapter 33” for “, by chapter 33, or by section 4986” and “or chapter 33” for “, chapter 33, or section 4986”.
+Subsec. (b). Pub. L. 100–418, § 1941(b)(2)(O)(i), (ii), substituted “or chapter 33” for “, by chapter 33, or by section 4986” and “or chapter 33” for “, chapter 33, or section 4986”.
 
-Subsec. (c). Pub. L. 100–418, § 1941(b)(2)(O)(ii), substituted “or chapter 33” for “, chapter 33, or section 4986”.
+Subsec. (c). Pub. L. 100–418, § 1941(b)(2)(O)(ii), substituted “or chapter 33” for “, chapter 33, or section 4986”.
 
 1980—Subsecs. (a) to (c). Pub. L. 96–223 inserted references to tax imposed by section 4986.
 
@@ -911,7 +911,7 @@ Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see sec
 
 **Notification of Failure To Collect, Account for, and Pay Over Taxes**
 
-Pub. L. 85–321, § 4, Feb. 11, 1958, 72 Stat. 6, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 85–321, § 4, Feb. 11, 1958, 72 Stat. 6, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “Notification may be made under section 7512(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by the first section of this Act)—
 
@@ -919,7 +919,7 @@ Pub. L. 85–321, § 4, Feb. 11, 1958, 72 Stat. 6, as amended by Pub. L. 99–
 
 > **“(2)** in the case of taxes imposed by chapter 33 of such Code, only with respect to taxes so imposed after the date of the enactment of this Act [Feb. 11, 1958].”
 
-## § 7513. Reproduction of returns and other documents
+## § 7513. Reproduction of returns and other documents
 
 **(a) In general**
 
@@ -933,15 +933,15 @@ The Secretary shall prescribe regulations which shall provide such safeguards as
 
 For penalty for violation of regulations for safeguarding against unauthorized use of any film or photoimpression, or reproduction made therefrom, and against unauthorized disclosure of information contained therein, see section 7213.
 
-(Added Pub. L. 85–866, title I, § 90(a), Sept. 2, 1958, 72 Stat. 1666; amended Pub. L. 94–455, title XII, § 1202(f), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1687, 1834.)
+(Added Pub. L. 85–866, title I, § 90(a), Sept. 2, 1958, 72 Stat. 1666; amended Pub. L. 94–455, title XII, § 1202(f), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1687, 1834.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsecs. (a), (b). Pub. L. 94–455, § 1906(b) (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+1976—Subsecs. (a), (b). Pub. L. 94–455, § 1906(b) (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
-Subsecs. (c), (d). Pub. L. 94–455, § 1202(f), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to legal status and evidentiary use of reproductions.
+Subsecs. (c), (d). Pub. L. 94–455, § 1202(f), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to legal status and evidentiary use of reproductions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -949,11 +949,11 @@ Subsecs. (c), (d). Pub. L. 94–455, § 1202(f), redesignated subsec. (d) as (
 
 Section effective Aug. 17, 1954, see section 1(c) of Pub. L. 85–866, set out as an Effective Date of 1958 Amendment note under section 165 of this title.
 
-## § 7514. Authority to prescribe or modify seals
+## § 7514. Authority to prescribe or modify seals
 
 The Secretary is authorized to prescribe or modify seals of office for the district directors of internal revenue and other officers or employees of the Treasury Department to whom any of the functions of the Secretary of the Treasury shall have been or may be delegated. Each seal so prescribed shall contain such device as the Secretary may select. Each seal shall remain in the custody of any officer or employee whom the Secretary may designate, and, in accordance with the regulations approved by the Secretary, may be affixed in lieu of the seal of the Treasury Department to any certificate or attestation (except for material to be published in the Federal Register) that may be required of such officer or employee. Judicial notice shall be taken of any seal prescribed in accordance with this authority, a facsimile of which has been published in the Federal Register together with the regulations prescribing such seal and the affixation thereof.
 
-(Added Pub. L. 85–866, title I, § 91(a), Sept. 2, 1958, 72 Stat. 1667; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (M), Oct. 4, 1976, 90 Stat. 1834, 1835.)
+(Added Pub. L. 85–866, title I, § 91(a), Sept. 2, 1958, 72 Stat. 1667; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), (M), Oct. 4, 1976, 90 Stat. 1834, 1835.)
 
 **Editorial Notes**
 
@@ -967,9 +967,9 @@ The Secretary is authorized to prescribe or modify seals of office for the distr
 
 Section effective Aug. 17, 1954, see section 1(c) of Pub. L. 85–866, set out as an Effective Date of 1958 Amendment note under section 165 of this title.
 
-## [§ 7515. Repealed. Pub. L. 94–455, title XII, § 1202(h)(4), Oct. 4, 1976, 90 Stat. 1688]
+## [§ 7515. Repealed. Pub. L. 94–455, title XII, § 1202(h)(4), Oct. 4, 1976, 90 Stat. 1688]
 
-Section, added Pub. L. 87–870, § 3(a)(1), Oct. 23, 1962, 76 Stat. 1160, authorized Secretary, within his discretion and upon written request, to make special statistical studies and compilations from any information received by compliance with this title, such studies were authorized to be made jointly with party or parties requesting them and transcripts to be made available to requesting party for a fee.
+Section, added Pub. L. 87–870, § 3(a)(1), Oct. 23, 1962, 76 Stat. 1160, authorized Secretary, within his discretion and upon written request, to make special statistical studies and compilations from any information received by compliance with this title, such studies were authorized to be made jointly with party or parties requesting them and transcripts to be made available to requesting party for a fee.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -977,11 +977,11 @@ Section, added Pub. L. 87–870, § 3(a)(1), Oct. 23, 1962, 76 Stat. 1160, aut
 
 Repeal effective Jan. 1, 1977, see section 1202(i) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 6103 of this title.
 
-## § 7516. Supplying training and training aids on request
+## § 7516. Supplying training and training aids on request
 
 The Secretary is authorized within his discretion, upon written request, to admit employees and officials of any State, the Commonwealth of Puerto Rico, any possession of the United States, any political subdivision or instrumentality of any of the foregoing, the District of Columbia, or any foreign government to training courses conducted by the Internal Revenue Service, and to supply them with texts and other training aids. The Secretary may require payment from the party or parties making the request of a reasonable fee not to exceed the cost of the training and training aids supplied pursuant to such request.
 
-(Added Pub. L. 87–870, § 3(a)(1), Oct. 23, 1962, 76 Stat. 1160; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 87–870, § 3(a)(1), Oct. 23, 1962, 76 Stat. 1160; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -989,7 +989,7 @@ The Secretary is authorized within his discretion, upon written request, to admi
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-## § 7517. Furnishing on request of statement explaining estate or gift valuation
+## § 7517. Furnishing on request of statement explaining estate or gift valuation
 
 **(a) General rule**
 
@@ -1007,13 +1007,13 @@ If the Secretary makes a determination or a proposed determination of the value 
 
 Except to the extent otherwise provided by law, the value determined or proposed by the Secretary with respect to which a statement is furnished under this section, and the method used in arriving at such value, shall not be binding on the Secretary.
 
-(Added Pub. L. 94–455, title XX, § 2008(a)(1), Oct. 4, 1976, 90 Stat. 1891.)
+(Added Pub. L. 94–455, title XX, § 2008(a)(1), Oct. 4, 1976, 90 Stat. 1891.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 94–455, title XX, § 2008(d)(1), Oct. 4, 1976, 90 Stat. 1892, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XX, § 2008(d)(1), Oct. 4, 1976, 90 Stat. 1892, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “The amendments made by subsection (a) [enacting this section and amending sections 2031 and 2512 of this title]—
 
@@ -1021,7 +1021,7 @@ Pub. L. 94–455, title XX, § 2008(d)(1), Oct. 4, 1976, 90 Stat. 1892, as ame
 
 > **“(B)** insofar as they relate to the tax imposed under chapter 12 of such Code [section 2501 et seq. of this title], shall apply to gifts made after December 31, 1976.”
 
-## § 7518. Tax incentives relating to merchant marine capital construction funds
+## § 7518. Tax incentives relating to merchant marine capital construction funds
 
 **(a) Ceiling on deposits**
 
@@ -1207,7 +1207,7 @@ For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any no
 
 The applicable percentage of any amount which remains in a capital construction fund at the close of the 26th, 27th, 28th, 29th, or 30th taxable year following the taxable year for which such amount was deposited shall be treated as a nonqualified withdrawal in accordance with the following table:
 
-| **If the amount remains in the fund**   **at the close of the—** | **The applicable percentage is—** |
+| **If the amount remains in the fund** **at the close of the—** | **The applicable percentage is—** |
 |---|---|
 | 26th taxable year | 20 percent |
 | 27th taxable year | 40 percent |
@@ -1261,13 +1261,13 @@ Any nonqualified withdrawal excluded from gross income under subparagraph (A) sh
 
 For purposes of this section, any term defined in chapter 535 of title 46, United States Code, which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such chapter as in effect on the date of the enactment of this section.
 
-(Added Pub. L. 99–514, title II, § 261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§ 1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, § 11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, § 311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, § 301(a)(2)(D), May 28, 2003, 117 Stat. 758; Pub. L. 109–304, § 17(e)(6), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 112–240, title I, § 102(c)(1)(D), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 113–295, div. A, title II, § 221(a)(117), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 115–97, title I, § 13001(b)(2)(Q), (7), Dec. 22, 2017, 131 Stat. 2097, 2098; Pub. L. 115–141, div. U, title IV, § 401(a)(352), Mar. 23, 2018, 132 Stat. 1201.)
+(Added Pub. L. 99–514, title II, § 261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§ 1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, § 11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, § 311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, § 301(a)(2)(D), May 28, 2003, 117 Stat. 758; Pub. L. 109–304, § 17(e)(6), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 112–240, title I, § 102(c)(1)(D), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 113–295, div. A, title II, § 221(a)(117), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 115–97, title I, § 13001(b)(2)(Q), (7), Dec. 22, 2017, 131 Stat. 2097, 2098; Pub. L. 115–141, div. U, title IV, § 401(a)(352), Mar. 23, 2018, 132 Stat. 1201.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969, referred to in subsec. (g)(3)(C)(iii), was section 606(5) of act June 29, 1936, ch. 858, title VI, 49 Stat. 2004, as amended by acts June 23, 1938, ch. 600, § 22, 52 Stat. 960; July 17, 1952, ch. 939, § 16, 66 Stat. 764; and May 10, 1956, ch. 247, § 1, 70 Stat. 148, which was classified to section 1176(5) of former Title 46, Shipping, and was repealed by Pub. L. 91–469, § 20(4), Oct. 21, 1970, 84 Stat. 1026. Section 606 of the Merchant Marine Act, 1936 was subsequently transferred to section 1176 of the former Appendix to Title 46 and is now set out as a note under section 53101 of Title 46, Shipping.
+Section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969, referred to in subsec. (g)(3)(C)(iii), was section 606(5) of act June 29, 1936, ch. 858, title VI, 49 Stat. 2004, as amended by acts June 23, 1938, ch. 600, § 22, 52 Stat. 960; July 17, 1952, ch. 939, § 16, 66 Stat. 764; and May 10, 1956, ch. 247, § 1, 70 Stat. 148, which was classified to section 1176(5) of former Title 46, Shipping, and was repealed by Pub. L. 91–469, § 20(4), Oct. 21, 1970, 84 Stat. 1026. Section 606 of the Merchant Marine Act, 1936 was subsequently transferred to section 1176 of the former Appendix to Title 46 and is now set out as a note under section 53101 of Title 46, Shipping.
 
 The date of the enactment of this section, referred to in subsec. (i), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
@@ -1275,11 +1275,11 @@ The date of the enactment of this section, referred to in subsec. (i), is the da
 
 2018—Subsec. (i). Pub. L. 115–141 substituted “chapter 535 of title 46, United States Code,” for “section 607(k) of the Merchant Marine Act, 1936” and “such chapter” for “such section 607(k)”.
 
-2017—Subsec. (g)(6)(A). Pub. L. 115–97, § 13001(b)(7), in concluding provisions, substituted “In the case of a taxpayer other than a corporation, with respect to the portion” for “With respect to the portion” and struck out “(34 percent in the case of a corporation)” after “shall not exceed 20 percent”.
+2017—Subsec. (g)(6)(A). Pub. L. 115–97, § 13001(b)(7), in concluding provisions, substituted “In the case of a taxpayer other than a corporation, with respect to the portion” for “With respect to the portion” and struck out “(34 percent in the case of a corporation)” after “shall not exceed 20 percent”.
 
-Pub. L. 115–97, § 13001(b)(2)(Q), struck out “or 1201(a)” after “section 1(h)” in concluding provisions.
+Pub. L. 115–97, § 13001(b)(2)(Q), struck out “or 1201(a)” after “section 1(h)” in concluding provisions.
 
-2014—Subsec. (g)(4). Pub. L. 113–295, which directed substitution of “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal” and all that followed through “ ‘shall be determined”, was executed by substituting “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal—
+2014—Subsec. (g)(4). Pub. L. 113–295, which directed substitution of “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal” and all that followed through “ ‘shall be determined”, was executed by substituting “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal—
 
 “(A) made in a taxable year beginning in 1970 or 1971 is 8 percent, or
 
@@ -1289,11 +1289,11 @@ to reflect the probable intent of Congress.
 
 2013—Subsec. (g)(6)(A). Pub. L. 112–240 substituted “20 percent” for “15 percent” in concluding provisions.
 
-2006—Subsec. (a)(1). Pub. L. 109–304, § 17(e)(6)(A), substituted “chapter 535 of title 46 of the United States Code” for “section 607 of the Merchant Marine Act, 1936”.
+2006—Subsec. (a)(1). Pub. L. 109–304, § 17(e)(6)(A), substituted “chapter 535 of title 46 of the United States Code” for “section 607 of the Merchant Marine Act, 1936”.
 
-Subsecs. (a)(2), (c)(1)(A), (D). Pub. L. 109–304, § 17(e)(6)(B), substituted “chapter 535 of title 46, United States Code” for “section 607 of the Merchant Marine Act, 1936”.
+Subsecs. (a)(2), (c)(1)(A), (D). Pub. L. 109–304, § 17(e)(6)(B), substituted “chapter 535 of title 46, United States Code” for “section 607 of the Merchant Marine Act, 1936”.
 
-Subsec. (g)(3)(C)(iii). Pub. L. 109–304, § 17(e)(6)(C), substituted “Merchant Marine Act, 1936,” for “Merchant Marine Act of 1936”.
+Subsec. (g)(3)(C)(iii). Pub. L. 109–304, § 17(e)(6)(C), substituted “Merchant Marine Act, 1936,” for “Merchant Marine Act of 1936”.
 
 2003—Subsec. (g)(6)(A). Pub. L. 108–27 substituted “15 percent” for “20 percent” in concluding provisions.
 
@@ -1301,9 +1301,9 @@ Subsec. (g)(3)(C)(iii). Pub. L. 109–304, § 17(e)(6)(C), substituted “Merc
 
 1990—Subsec. (g)(6)(A). Pub. L. 101–508 substituted “section 1(h)” for “section 1(j)” in last sentence.
 
-1988—Subsec. (g)(1). Pub. L. 100–647, § 1018(u)(23), substituted “not a qualified withdrawal” for “not qualified withdrawal”.
+1988—Subsec. (g)(1). Pub. L. 100–647, § 1018(u)(23), substituted “not a qualified withdrawal” for “not qualified withdrawal”.
 
-Subsec. (g)(6)(A). Pub. L. 100–647, § 1002(m)(1), substituted “section 1(j)” for “section 1(i)”.
+Subsec. (g)(6)(A). Pub. L. 100–647, § 1002(m)(1), substituted “section 1(j)” for “section 1(i)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1337,13 +1337,13 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date**
 
-Pub. L. 99–514, title II, § 261(g), Oct. 22, 1986, 100 Stat. 2216, provided that: “The amendments made by this section [enacting this section and amending section 26 of this title and section 1177 of Title 46, Appendix, Shipping] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title II, § 261(g), Oct. 22, 1986, 100 Stat. 2216, provided that: “The amendments made by this section [enacting this section and amending section 26 of this title and section 1177 of Title 46, Appendix, Shipping] shall apply to taxable years beginning after December 31, 1986.”
 
 **Merchant Marine Capital Construction Funds**
 
-Pub. L. 99–514, title II, § 261(a), Oct. 22, 1986, 100 Stat. 2208, provided that: “The purpose of this section [enacting this section, amending section 26 of this title and section 1177 of Title 46, Appendix, and enacting provisions set out as a note above] is to coordinate the application of the Internal Revenue Code of 1986 with the capital construction program under the Merchant Marine Act, 1936 [see 46 U.S.C. 53501 et seq.].”
+Pub. L. 99–514, title II, § 261(a), Oct. 22, 1986, 100 Stat. 2208, provided that: “The purpose of this section [enacting this section, amending section 26 of this title and section 1177 of Title 46, Appendix, and enacting provisions set out as a note above] is to coordinate the application of the Internal Revenue Code of 1986 with the capital construction program under the Merchant Marine Act, 1936 [see 46 U.S.C. 53501 et seq.].”
 
-## § 7519. Required payments for entities electing not to have required taxable year
+## § 7519. Required payments for entities electing not to have required taxable year
 
 **(a) General rule** This section applies to a partnership or S corporation for any taxable year, if—
 
@@ -1429,7 +1429,7 @@ The term “applicable payment” means amounts paid by a partnership or S corpo
 
 The applicable percentage is the percentage determined in accordance with the following table:
 
-| **If the applicable election year of**  **the partnership or S corporation**  **begins during:** | **The applicable percentage is:** |
+| **If the applicable election year of** **the partnership or S corporation** **begins during:** | **The applicable percentage is:** |
 |---|---|
 | 1987 | 25 |
 | 1988 | 50 |
@@ -1508,7 +1508,7 @@ If any partnership or S corporation willfully fails to comply with the requireme
 
 **(2)** the base year is a taxable year of less than 12 months.
 
-(Added Pub. L. 100–203, title X, § 10206(b)(1), Dec. 22, 1987, 101 Stat. 1330–398; amended Pub. L. 100–647, title II, § 2004(e)(4)–(10), (14)(B), Nov. 10, 1988, 102 Stat. 3601, 3602; Pub. L. 101–239, title VII, §§ 7721(c)(12), 7821(b), Dec. 19, 1989, 103 Stat. 2400, 2424; Pub. L. 101–508, title XI, § 11704(a)(29), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 105–34, title XII, § 1281(d), Aug. 5, 1997, 111 Stat. 1037.)
+(Added Pub. L. 100–203, title X, § 10206(b)(1), Dec. 22, 1987, 101 Stat. 1330–398; amended Pub. L. 100–647, title II, § 2004(e)(4)–(10), (14)(B), Nov. 10, 1988, 102 Stat. 3601, 3602; Pub. L. 101–239, title VII, §§ 7721(c)(12), 7821(b), Dec. 19, 1989, 103 Stat. 2400, 2424; Pub. L. 101–508, title XI, § 11704(a)(29), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 105–34, title XII, § 1281(d), Aug. 5, 1997, 111 Stat. 1037.)
 
 **Editorial Notes**
 
@@ -1522,27 +1522,27 @@ Section 806(e)(2)(C) of the Tax Reform Act of 1986, referred to in subsec. (d)(4
 
 1990—Subsec. (c)(3). Pub. L. 101–508 substituted “payable on the later of” for “payable on later of”.
 
-1989—Subsec. (d)(4). Pub. L. 101–239, § 7821(b), struck out “for taxable years beginning after 1987,” before “the applicable percentage” and substituted “unless more than 50 percent” for “if more than 50 percent” and “who would have been entitled” for “who would not have been entitled”.
+1989—Subsec. (d)(4). Pub. L. 101–239, § 7821(b), struck out “for taxable years beginning after 1987,” before “the applicable percentage” and substituted “unless more than 50 percent” for “if more than 50 percent” and “who would have been entitled” for “who would not have been entitled”.
 
-Subsec. (f)(4)(B). Pub. L. 101–239, § 7721(c)(12), substituted “part II of subchapter A of chapter 68” for “section 6653”.
+Subsec. (f)(4)(B). Pub. L. 101–239, § 7721(c)(12), substituted “part II of subchapter A of chapter 68” for “section 6653”.
 
-1988—Subsec. (b)(2). Pub. L. 100–647, § 2004(e)(4)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of the required payment for the preceding applicable election year.”
+1988—Subsec. (b)(2). Pub. L. 100–647, § 2004(e)(4)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of the required payment for the preceding applicable election year.”
 
-Subsec. (c). Pub. L. 100–647, § 2004(e)(5), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess.”
+Subsec. (c). Pub. L. 100–647, § 2004(e)(5), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess.”
 
-Subsec. (d)(2)(A). Pub. L. 100–647, § 2004(e)(10), substituted “(other than credits and tax-exempt income)” for “(other than credits)”.
+Subsec. (d)(2)(A). Pub. L. 100–647, § 2004(e)(10), substituted “(other than credits and tax-exempt income)” for “(other than credits)”.
 
-Subsec. (d)(2)(B). Pub. L. 100–647, § 2004(e)(7), (10), substituted “(other than credits and tax-exempt income)” for “(other than credits)” and inserted before period at end “(and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3))”.
+Subsec. (d)(2)(B). Pub. L. 100–647, § 2004(e)(7), (10), substituted “(other than credits and tax-exempt income)” for “(other than credits)” and inserted before period at end “(and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3))”.
 
-Subsec. (d)(3)(A). Pub. L. 100–647, § 2004(e)(14)(B), struck out “or incurred” after “amounts paid”.
+Subsec. (d)(3)(A). Pub. L. 100–647, § 2004(e)(14)(B), struck out “or incurred” after “amounts paid”.
 
-Subsec. (d)(4). Pub. L. 100–647, § 2004(e)(9), inserted at end “Notwithstanding the preceding provisions of this paragraph, for taxable years beginning after 1987, the applicable percentage for any partnership or S corporation shall be 100 percent if more than 50 percent of such entity’s net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would not have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.”
+Subsec. (d)(4). Pub. L. 100–647, § 2004(e)(9), inserted at end “Notwithstanding the preceding provisions of this paragraph, for taxable years beginning after 1987, the applicable percentage for any partnership or S corporation shall be 100 percent if more than 50 percent of such entity’s net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would not have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.”
 
-Subsec. (d)(5). Pub. L. 100–647, § 2004(e)(8), added par. (5).
+Subsec. (d)(5). Pub. L. 100–647, § 2004(e)(8), added par. (5).
 
-Subsec. (e)(4). Pub. L. 100–647, § 2004(e)(4)(B), added par. (4).
+Subsec. (e)(4). Pub. L. 100–647, § 2004(e)(4)(B), added par. (4).
 
-Subsec. (g). Pub. L. 100–647, § 2004(e)(6), substituted “including regulations providing for appropriate adjustments in the application of this section and sections 280H and 444 in cases where—
+Subsec. (g). Pub. L. 100–647, § 2004(e)(6), substituted “including regulations providing for appropriate adjustments in the application of this section and sections 280H and 444 in cases where—
 
 “(1) 2 or more applicable election years begin in the same calendar year, or
 
@@ -1558,7 +1558,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5
 
 Amendment by section 7721(c)(12) of Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
-Pub. L. 101–239, title VII, § 7821(b), Dec. 19, 1989, 103 Stat. 2424, provided that the amendment made by that section is effective with respect to taxable years beginning after 1988.
+Pub. L. 101–239, title VII, § 7821(b), Dec. 19, 1989, 103 Stat. 2424, provided that the amendment made by that section is effective with respect to taxable years beginning after 1988.
 
 **Effective Date of 1988 Amendment**
 
@@ -1568,7 +1568,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Section applicable to applicable election years beginning after Dec. 31, 1986, see section 10206(d)(2) of Pub. L. 100–203, set out as a note under section 444 of this title.
 
-## § 7520. Valuation tables
+## § 7520. Valuation tables
 
 **(a) General rule** For purposes of this title, the value of any annuity, any interest for life or a term of years, or any remainder or reversionary interest shall be determined—
 
@@ -1600,7 +1600,7 @@ For purposes of this section, the term “valuation date” means the date as of
 
 For purposes of this section, the term “tables” includes formulas.
 
-(Added Pub. L. 100–647, title V, § 5031(a), Nov. 10, 1988, 102 Stat. 3668; amended Pub. L. 113–295, div. A, title II, § 221(a)(118), Dec. 19, 2014, 128 Stat. 4054.)
+(Added Pub. L. 100–647, title V, § 5031(a), Nov. 10, 1988, 102 Stat. 3668; amended Pub. L. 113–295, div. A, title II, § 221(a)(118), Dec. 19, 2014, 128 Stat. 4054.)
 
 **Editorial Notes**
 
@@ -1620,9 +1620,9 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date**
 
-Pub. L. 100–647, title V, § 5031(c), Nov. 10, 1988, 102 Stat. 3669, provided that: “The amendments made by this section [enacting this section] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title V, § 5031(c), Nov. 10, 1988, 102 Stat. 3669, provided that: “The amendments made by this section [enacting this section] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act [Nov. 10, 1988].”
 
-## § 7521. Procedures involving taxpayer interviews
+## § 7521. Procedures involving taxpayer interviews
 
 **(a) Recording of interviews**
 
@@ -1656,7 +1656,7 @@ Any attorney, certified public accountant, enrolled agent, enrolled actuary, or 
 
 This section shall not apply to criminal investigations or investigations relating to the integrity of any officer or employee of the Internal Revenue Service.
 
-(Added Pub. L. 100–647, title VI, § 6228(a), Nov. 10, 1988, 102 Stat. 3731, § 7520; renumbered § 7521, Pub. L. 101–239, title VII, § 7816(u)(1), Dec. 19, 1989, 103 Stat. 2423.)
+(Added Pub. L. 100–647, title VI, § 6228(a), Nov. 10, 1988, 102 Stat. 3731, § 7520; renumbered § 7521, Pub. L. 101–239, title VII, § 7816(u)(1), Dec. 19, 1989, 103 Stat. 2423.)
 
 **Editorial Notes**
 
@@ -1668,9 +1668,9 @@ Another section 7521 was renumbered section 7522 of this title.
 
 **Effective Date**
 
-Pub. L. 100–647, title VI, § 6228(d), Nov. 10, 1988, 102 Stat. 3732, provided that: “The amendments made by subsections (a) and (c) [enacting this section] shall apply to interviews conducted on or after the date which is 90 days after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title VI, § 6228(d), Nov. 10, 1988, 102 Stat. 3732, provided that: “The amendments made by subsections (a) and (c) [enacting this section] shall apply to interviews conducted on or after the date which is 90 days after the date of the enactment of this Act [Nov. 10, 1988].”
 
-## § 7522. Content of tax due, deficiency, and other notices
+## § 7522. Content of tax due, deficiency, and other notices
 
 **(a) General rule**
 
@@ -1684,7 +1684,7 @@ Any notice to which this section applies shall describe the basis for, and ident
 
 **(3)** the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals.
 
-(Added Pub. L. 100–647, title VI, § 6233(a), Nov. 10, 1988, 102 Stat. 3735, § 7521; renumbered § 7522, Pub. L. 101–508, title XI, § 11704(a)(30), Nov. 5, 1990, 104 Stat. 1388–519; amended Pub. L. 116–25, title I, § 1001(b)(1)(I), July 1, 2019, 133 Stat. 985.)
+(Added Pub. L. 100–647, title VI, § 6233(a), Nov. 10, 1988, 102 Stat. 3735, § 7521; renumbered § 7522, Pub. L. 101–508, title XI, § 11704(a)(30), Nov. 5, 1990, 104 Stat. 1388–519; amended Pub. L. 116–25, title I, § 1001(b)(1)(I), July 1, 2019, 133 Stat. 985.)
 
 **Editorial Notes**
 
@@ -1696,9 +1696,9 @@ Any notice to which this section applies shall describe the basis for, and ident
 
 **Effective Date**
 
-Pub. L. 100–647, title VI, § 6233(c), Nov. 10, 1988, 102 Stat. 3735, provided that: “The amendments made by this section [enacting this section] shall apply to mailings made on or after January 1, 1990.”
+Pub. L. 100–647, title VI, § 6233(c), Nov. 10, 1988, 102 Stat. 3735, provided that: “The amendments made by this section [enacting this section] shall apply to mailings made on or after January 1, 1990.”
 
-## § 7523. Graphic presentation of major categories of Federal outlays and income
+## § 7523. Graphic presentation of major categories of Federal outlays and income
 
 **(a) General rule** In the case of any booklet of instructions for Form 1040, 1040A, or 1040EZ prepared by the Secretary for filing individual income tax returns for taxable years beginning in any calendar year, the Secretary shall include in a prominent place—
 
@@ -1746,13 +1746,13 @@ Pub. L. 100–647, title VI, § 6233(c), Nov. 10, 1988, 102 Stat. 3735, provid
 
 The graphs required under subsection (a) shall be based on data for the most recent fiscal year for which complete data is available as of the completion of the preparation of the instructions by the Secretary.
 
-(Added Pub. L. 101–508, title XI, § 11622(a), Nov. 5, 1990, 104 Stat. 1388–504; amended Pub. L. 104–193, title I, § 110(*l*)(4), formerly § 110(*l*)(8), Aug. 22, 1996, 110 Stat. 2173, renumbered Pub. L. 105–33, title V, § 5514(a)(2), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, § 4002(b)(1)(E), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(E), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Added Pub. L. 101–508, title XI, § 11622(a), Nov. 5, 1990, 104 Stat. 1388–504; amended Pub. L. 104–193, title I, § 110(*l*)(4), formerly § 110(*l*)(8), Aug. 22, 1996, 110 Stat. 2173, renumbered Pub. L. 105–33, title V, § 5514(a)(2), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, § 4002(b)(1)(E), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(E), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -1760,9 +1760,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (b)(3)(C). Pub. L. 110–246, § 4002(b)(1)(E), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+2008—Subsec. (b)(3)(C). Pub. L. 110–246, § 4002(b)(1)(E), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
-1996—Subsec. (b)(3)(C). Pub. L. 104–193, § 110(*l*)(4), formerly § 110(*l*)(8), as renumbered by Pub. L. 105–33, substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children”.
+1996—Subsec. (b)(3)(C). Pub. L. 104–193, § 110(*l*)(4), formerly § 110(*l*)(8), as renumbered by Pub. L. 105–33, substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1778,21 +1778,21 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 **Effective Date**
 
-Pub. L. 101–508, title XI, § 11622(c), Nov. 5, 1990, 104 Stat. 1388–505, provided that: “The amendments made by this section [enacting this section] shall apply to instructions prepared for taxable years beginning after 1990.”
+Pub. L. 101–508, title XI, § 11622(c), Nov. 5, 1990, 104 Stat. 1388–505, provided that: “The amendments made by this section [enacting this section] shall apply to instructions prepared for taxable years beginning after 1990.”
 
-## § 7524. Annual notice of tax delinquency
+## § 7524. Annual notice of tax delinquency
 
 Not less often than annually, the Secretary shall send a written notice to each taxpayer who has a tax delinquent account of the amount of the tax delinquency as of the date of the notice.
 
-(Added Pub. L. 104–168, title XII, § 1204(a), July 30, 1996, 110 Stat. 1471.)
+(Added Pub. L. 104–168, title XII, § 1204(a), July 30, 1996, 110 Stat. 1471.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 104–168, title XII, § 1204(c), July 30, 1996, 110 Stat. 1471, provided that: “The amendments made by this section [enacting this section] shall apply to calendar years after 1996.”
+Pub. L. 104–168, title XII, § 1204(c), July 30, 1996, 110 Stat. 1471, provided that: “The amendments made by this section [enacting this section] shall apply to calendar years after 1996.”
 
-## § 7525. Confidentiality privileges relating to taxpayer communications
+## § 7525. Confidentiality privileges relating to taxpayer communications
 
 **(a) Uniform application to taxpayer communications with federally authorized practitioners**
 
@@ -1828,7 +1828,7 @@ The term “tax advice” means advice given by an individual with respect to a 
 
 **(2)** in connection with the promotion of the direct or indirect participation of the person in any tax shelter (as defined in section 6662(d)(2)(C)(ii)).
 
-(Added Pub. L. 105–206, title III, § 3411(a), July 22, 1998, 112 Stat. 750; amended Pub. L. 108–357, title VIII, § 813(a), Oct. 22, 2004, 118 Stat. 1581.)
+(Added Pub. L. 105–206, title III, § 3411(a), July 22, 1998, 112 Stat. 750; amended Pub. L. 108–357, title VIII, § 813(a), Oct. 22, 2004, 118 Stat. 1581.)
 
 **Editorial Notes**
 
@@ -1840,13 +1840,13 @@ The term “tax advice” means advice given by an individual with respect to a 
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 813(b), Oct. 22, 2004, 118 Stat. 1581, provided that: “The amendment made by this section [amending this section] shall apply to communications made on or after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 813(b), Oct. 22, 2004, 118 Stat. 1581, provided that: “The amendment made by this section [amending this section] shall apply to communications made on or after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date**
 
-Pub. L. 105–206, title III, § 3411(c), July 22, 1998, 112 Stat. 751, provided that: “The amendments made by this section [enacting this section] shall apply to communications made on or after the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3411(c), July 22, 1998, 112 Stat. 751, provided that: “The amendments made by this section [enacting this section] shall apply to communications made on or after the date of the enactment of this Act [July 22, 1998].”
 
-## § 7526. Low-income taxpayer clinics
+## § 7526. Low-income taxpayer clinics
 
 **(a) In general**
 
@@ -1920,7 +1920,7 @@ Indirect expenses, including general overhead of the institution sponsoring the 
 
 **(B)** provide information regarding the location of, and contact information for, such clinics.
 
-(Added Pub. L. 105–206, title III, § 3601(a), July 22, 1998, 112 Stat. 774; amended Pub. L. 116–25, title I, § 1402(a), July 1, 2019, 133 Stat. 997.)
+(Added Pub. L. 105–206, title III, § 3601(a), July 22, 1998, 112 Stat. 774; amended Pub. L. 116–25, title I, § 1402(a), July 1, 2019, 133 Stat. 997.)
 
 **Editorial Notes**
 
@@ -1932,13 +1932,13 @@ Indirect expenses, including general overhead of the institution sponsoring the 
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–25, title I, § 1402(b), July 1, 2019, 133 Stat. 997, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 1, 2019].”
+Pub. L. 116–25, title I, § 1402(b), July 1, 2019, 133 Stat. 997, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 1, 2019].”
 
 **Effective Date**
 
-Pub. L. 105–206, title III, § 3601(c), July 22, 1998, 112 Stat. 776, provided that: “The amendments made by this section [enacting this section] shall take effect on the date of the enactment of this Act [July 22, 1998].”
+Pub. L. 105–206, title III, § 3601(c), July 22, 1998, 112 Stat. 776, provided that: “The amendments made by this section [enacting this section] shall take effect on the date of the enactment of this Act [July 22, 1998].”
 
-## § 7526A. Return preparation programs for applicable taxpayers
+## § 7526A. Return preparation programs for applicable taxpayers
 
 **(a) Establishment of Volunteer Income Tax Assistance Matching Grant Program**
 
@@ -2088,19 +2088,19 @@ The Secretary may provide taxpayers information regarding qualified return prepa
 
 **(B)** provide information regarding the location of, and contact information for, such clinics.
 
-(Added Pub. L. 116–25, title I, § 1401(a), July 1, 2019, 133 Stat. 993.)
+(Added Pub. L. 116–25, title I, § 1401(a), July 1, 2019, 133 Stat. 993.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965 and such Act, referred to in subsec. (e)(2)(B)(i), are Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965 and such Act, referred to in subsec. (e)(2)(B)(i), are Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under section 1001 of Title 20 and Tables.
 
 The date of the enactment of this section, referred to in subsec. (e)(2)(B)(i), is the date of enactment of Pub. L. 116–25, which was approved July 1, 2019.
 
-The Smith-Lever Act, referred to in subsec. (e)(2)(B)(v)(II), is act May 8, 1914, ch. 79, 38 Stat. 372, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 341 of Title 7 and Tables.
+The Smith-Lever Act, referred to in subsec. (e)(2)(B)(v)(II), is act May 8, 1914, ch. 79, 38 Stat. 372, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 341 of Title 7 and Tables.
 
-## § 7527. Advance payment of credit for health insurance costs of eligible individuals
+## § 7527. Advance payment of credit for health insurance costs of eligible individuals
 
 **(a) General rule**
 
@@ -2142,7 +2142,7 @@ For purposes of this section, the term “certified individual” means any indi
 
 The amount of any payment determined under paragraph (1) shall be reduced by the amount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 (as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act) for a taxable year including the eligible coverage months described in paragraph (1).
 
-(Added Pub. L. 107–210, div. A, title II, § 202(a), Aug. 6, 2002, 116 Stat. 960; amended Pub. L. 111–5, div. B, title I, §§ 1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, 123 Stat. 424, 430; Pub. L. 111–344, title I, §§ 111(b), 112(a), 118(a), Dec. 29, 2010, 124 Stat. 3615, 3616; Pub. L. 112–40, title II, § 241(b)(2), Oct. 21, 2011, 125 Stat. 418; Pub. L. 113–128, title V, § 512(r), July 22, 2014, 128 Stat. 1712; Pub. L. 114–27, title IV, § 407(c), June 29, 2015, 129 Stat. 382.)
+(Added Pub. L. 107–210, div. A, title II, § 202(a), Aug. 6, 2002, 116 Stat. 960; amended Pub. L. 111–5, div. B, title I, §§ 1899A(a)(2), 1899B(a), 1899H(a), Feb. 17, 2009, 123 Stat. 424, 430; Pub. L. 111–344, title I, §§ 111(b), 112(a), 118(a), Dec. 29, 2010, 124 Stat. 3615, 3616; Pub. L. 112–40, title II, § 241(b)(2), Oct. 21, 2011, 125 Stat. 418; Pub. L. 113–128, title V, § 512(r), July 22, 2014, 128 Stat. 1712; Pub. L. 114–27, title IV, § 407(c), June 29, 2015, 129 Stat. 382.)
 
 **Editorial Notes**
 
@@ -2150,41 +2150,41 @@ The amount of any payment determined under paragraph (1) shall be reduced by the
 
 The date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015, referred to in subsecs. (a) and (e)(1)(A), is the date of enactment of title IV of Pub. L. 114–27, which was approved June 29, 2015.
 
-Section 173(f) of the Workforce Investment Act of 1998, referred to in subsec. (e)(2), was classified to former section 2918(f) of Title 29, Labor, prior to repeal by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015.
+Section 173(f) of the Workforce Investment Act of 1998, referred to in subsec. (e)(2), was classified to former section 2918(f) of Title 29, Labor, prior to repeal by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015.
 
 The date of enactment of the Workforce Innovation and Opportunity Act, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 113–128, which was approved July 22, 2014.
 
 **Amendments**
 
-2015—Subsec. (a). Pub. L. 114–27, § 407(c)(1), substituted “the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015” for “August 1, 2003”.
+2015—Subsec. (a). Pub. L. 114–27, § 407(c)(1), substituted “the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015” for “August 1, 2003”.
 
-Subsec. (e)(1). Pub. L. 114–27, § 407(c)(2), substituted “occurring—” for “occurring prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).” and added subpars. (A) and (B).
+Subsec. (e)(1). Pub. L. 114–27, § 407(c)(2), substituted “occurring—” for “occurring prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).” and added subpars. (A) and (B).
 
 2014—Subsec. (e)(2). Pub. L. 113–128 inserted “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”.
 
-2011—Subsec. (b). Pub. L. 112–40, § 241(b)(2)(A), substituted “72.5 percent” for “65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)”.
+2011—Subsec. (b). Pub. L. 112–40, § 241(b)(2)(A), substituted “72.5 percent” for “65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)”.
 
-Subsec. (d)(2). Pub. L. 112–40, § 241(b)(2)(B), struck out “which is issued before February 13, 2011” after “in paragraph (1)” in introductory provisions.
+Subsec. (d)(2). Pub. L. 112–40, § 241(b)(2)(B), struck out “which is issued before February 13, 2011” after “in paragraph (1)” in introductory provisions.
 
-Subsec. (e). Pub. L. 112–40, § 241(b)(2)(D), struck out introductory provisions which read as follows: “In the case of eligible coverage months beginning before February 13, 2011—”.
+Subsec. (e). Pub. L. 112–40, § 241(b)(2)(D), struck out introductory provisions which read as follows: “In the case of eligible coverage months beginning before February 13, 2011—”.
 
-Subsec. (e)(1). Pub. L. 112–40, § 241(b)(2)(C), substituted “72.5 percent” for “80 percent”.
+Subsec. (e)(1). Pub. L. 112–40, § 241(b)(2)(C), substituted “72.5 percent” for “80 percent”.
 
-2010—Subsec. (b). Pub. L. 111–344, § 111(b), substituted “February 13, 2011” for “January 1, 2011”.
+2010—Subsec. (b). Pub. L. 111–344, § 111(b), substituted “February 13, 2011” for “January 1, 2011”.
 
-Subsec. (d)(2). Pub. L. 111–344, § 118(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+Subsec. (d)(2). Pub. L. 111–344, § 118(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
 
-Subsec. (e). Pub. L. 111–344, § 112(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+Subsec. (e). Pub. L. 111–344, § 112(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
 
-2009—Subsec. (b). Pub. L. 111–5, § 1899A(a)(2), inserted “(80 percent in the case of eligible coverage months beginning before January 1, 2011)” after “65 percent”.
+2009—Subsec. (b). Pub. L. 111–5, § 1899A(a)(2), inserted “(80 percent in the case of eligible coverage months beginning before January 1, 2011)” after “65 percent”.
 
-Subsec. (d). Pub. L. 111–5, § 1899H(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘qualified health insurance costs credit eligibility certificate’ means any written statement that an individual is an eligible individual (as defined in section 35(c)) if such statement provides such information as the Secretary may require for purposes of this section and—
+Subsec. (d). Pub. L. 111–5, § 1899H(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘qualified health insurance costs credit eligibility certificate’ means any written statement that an individual is an eligible individual (as defined in section 35(c)) if such statement provides such information as the Secretary may require for purposes of this section and—
 
 “(1) in the case of an eligible TAA recipient (as defined in section 35(c)(2)) or an eligible alternative TAA recipient (as defined in section 35(c)(3)), is certified by the Secretary of Labor (or by any other person or entity designated by the Secretary), or
 
 “(2) in the case of an eligible PBGC pension recipient (as defined in section 35(c)(4)), is certified by the Pension Benefit Guaranty Corporation (or by any other person or entity designated by the Secretary).”
 
-Subsec. (e). Pub. L. 111–5, § 1899B(a), added subsec. (e).
+Subsec. (e). Pub. L. 111–5, § 1899B(a), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2204,9 +2204,9 @@ Amendment by Pub. L. 112–40 applicable to coverage months beginning after Feb.
 
 Amendment by section 111(b) of Pub. L. 111–344 applicable to coverage months beginning after Dec. 31, 2010, see section 111(c) of Pub. L. 111–344, set out as a note under section 35 of this title.
 
-Pub. L. 111–344, title I, § 112(b), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendment made by this section [amending this section] shall apply to coverage months beginning after December 31, 2010.”
+Pub. L. 111–344, title I, § 112(b), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendment made by this section [amending this section] shall apply to coverage months beginning after December 31, 2010.”
 
-Pub. L. 111–344, title I, § 118(b), Dec. 29, 2010, 124 Stat. 3616, provided that: “The amendment made by this section [amending this section] shall apply to certificates issued after December 31, 2010.”
+Pub. L. 111–344, title I, § 118(b), Dec. 29, 2010, 124 Stat. 3616, provided that: “The amendment made by this section [amending this section] shall apply to certificates issued after December 31, 2010.”
 
 **Effective Date of 2009 Amendment**
 
@@ -2214,9 +2214,9 @@ Except as otherwise provided and subject to certain applicability provisions, am
 
 Amendment by section 1899A(a)(2) of Pub. L. 111–5 applicable to coverage months beginning on or after the first day of the first month beginning 60 days after Feb. 17, 2009, see section 1899A(b) of Pub. L. 111–5, set out as a note under section 35 of this title.
 
-Pub. L. 111–5, div. B, title I, § 1899B(b), Feb. 17, 2009, 123 Stat. 424, provided that: “The amendments made by this section [amending this section] shall apply to coverage months beginning after December 31, 2008.”
+Pub. L. 111–5, div. B, title I, § 1899B(b), Feb. 17, 2009, 123 Stat. 424, provided that: “The amendments made by this section [amending this section] shall apply to coverage months beginning after December 31, 2008.”
 
-Pub. L. 111–5, div. B, title I, § 1899H(b), Feb. 17, 2009, 123 Stat. 431, provided that: “The amendment made by this section [amending this section] shall apply to certificates issued after the date that is 6 months after the date of the enactment of this Act [Feb. 17, 2009].”
+Pub. L. 111–5, div. B, title I, § 1899H(b), Feb. 17, 2009, 123 Stat. 431, provided that: “The amendment made by this section [amending this section] shall apply to certificates issued after the date that is 6 months after the date of the enactment of this Act [Feb. 17, 2009].”
 
 **Construction**
 
@@ -2224,9 +2224,9 @@ Nothing in the amendments made by title II of Pub. L. 107–210, other than prov
 
 **Transitional Rule**
 
-Pub. L. 111–5, div. B, title I, § 1899B(c), Feb. 17, 2009, 123 Stat. 424, provided that: “The Secretary of the Treasury shall not be required to make any payments under section 7527(e) of the Internal Revenue Code of 1986, as added by this section, until after the date that is 6 months after the date of the enactment of this Act [Feb. 17, 2009].”
+Pub. L. 111–5, div. B, title I, § 1899B(c), Feb. 17, 2009, 123 Stat. 424, provided that: “The Secretary of the Treasury shall not be required to make any payments under section 7527(e) of the Internal Revenue Code of 1986, as added by this section, until after the date that is 6 months after the date of the enactment of this Act [Feb. 17, 2009].”
 
-## § 7527A. Advance payment of child tax credit
+## § 7527A. Advance payment of child tax credit
 
 **(a) In general**
 
@@ -2338,7 +2338,7 @@ The Secretary may pay, upon the request of the possession of the United States t
 
 The Secretary shall issue such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this section and subsections (i)(1) and (j) of section 24, including regulations or other guidance which provides for the application of such provisions where the filing status of the taxpayer for a taxable year is different from the status used for determining the annual advance amount.
 
-(Added Pub. L. 117–2, title IX, § 9611(b)(1), Mar. 11, 2021, 135 Stat. 146.)
+(Added Pub. L. 117–2, title IX, § 9611(b)(1), Mar. 11, 2021, 135 Stat. 146.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2348,9 +2348,9 @@ Section applicable to taxable years beginning after Dec. 31, 2020, see section 9
 
 **Establishment of Advance Payment Program**
 
-Pub. L. 117–2, title IX, § 9611(c)(2), Mar. 11, 2021, 135 Stat. 150, provided that: “The Secretary of the Treasury (or the Secretary’s designee) shall establish the program described in section 7527A of the Internal Revenue Code of 1986 as soon as practicable after the date of the enactment of this Act [Mar. 11, 2021], except that the Secretary shall ensure that the timing of the establishment of such program does not interfere with carrying out section 6428B(g) as rapidly as possible.”
+Pub. L. 117–2, title IX, § 9611(c)(2), Mar. 11, 2021, 135 Stat. 150, provided that: “The Secretary of the Treasury (or the Secretary’s designee) shall establish the program described in section 7527A of the Internal Revenue Code of 1986 as soon as practicable after the date of the enactment of this Act [Mar. 11, 2021], except that the Secretary shall ensure that the timing of the establishment of such program does not interfere with carrying out section 6428B(g) as rapidly as possible.”
 
-## § 7528. Internal Revenue Service user fees
+## § 7528. Internal Revenue Service user fees
 
 **(a) General rule** The Secretary shall establish a program requiring the payment of user fees for—
 
@@ -2415,7 +2415,7 @@ The average fee charged under the program required by subsection (a) shall not b
 
 The fee charged under the program in connection with the certification by the Secretary of a professional employer organization under section 7705 shall be an annual fee not to exceed $1,000 per year.
 
-(Added Pub. L. 108–89, title II, § 202(a), Oct. 1, 2003, 117 Stat. 1132; amended Pub. L. 108–357, title VIII, § 891(a), Oct. 22, 2004, 118 Stat. 1644; Pub. L. 110–28, title VIII, § 8244, May 25, 2007, 121 Stat. 200; Pub. L. 113–295, div. B, title II, § 206(f), Dec. 19, 2014, 128 Stat. 4071.)
+(Added Pub. L. 108–89, title II, § 202(a), Oct. 1, 2003, 117 Stat. 1132; amended Pub. L. 108–357, title VIII, § 891(a), Oct. 22, 2004, 118 Stat. 1644; Pub. L. 110–28, title VIII, § 8244, May 25, 2007, 121 Stat. 200; Pub. L. 113–295, div. B, title II, § 206(f), Dec. 19, 2014, 128 Stat. 4071.)
 
 **Editorial Notes**
 
@@ -2435,17 +2435,17 @@ Amendment by Pub. L. 113–295 applicable with respect to wages for services per
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: “The amendment made by this section [amending this section] shall apply to requests after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: “The amendment made by this section [amending this section] shall apply to requests after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–89, title II, § 202(d), Oct. 1, 2003, 117 Stat. 1133, provided that: “The amendments made by this section [enacting this section, enacting provisions set out as a note under this section, and repealing provisions set out as notes under section 7801 of this title] shall apply to requests made after the date of the enactment of this Act [Oct. 1, 2003].”
+Pub. L. 108–89, title II, § 202(d), Oct. 1, 2003, 117 Stat. 1133, provided that: “The amendments made by this section [enacting this section, enacting provisions set out as a note under this section, and repealing provisions set out as notes under section 7801 of this title] shall apply to requests made after the date of the enactment of this Act [Oct. 1, 2003].”
 
 **Limitations**
 
-Pub. L. 108–89, title II, § 202(c), Oct. 1, 2003, 117 Stat. 1133, provided that: “Notwithstanding any other provision of law, any fees collected pursuant to section 7528 of the Internal Revenue Code of 1986, as added by subsection (a), shall not be expended by the Internal Revenue Service unless provided by an appropriations Act.”
+Pub. L. 108–89, title II, § 202(c), Oct. 1, 2003, 117 Stat. 1133, provided that: “Notwithstanding any other provision of law, any fees collected pursuant to section 7528 of the Internal Revenue Code of 1986, as added by subsection (a), shall not be expended by the Internal Revenue Service unless provided by an appropriations Act.”
 
-## § 7529. Notification of suspected identity theft
+## § 7529. Notification of suspected identity theft
 
 **(a) In general** If the Secretary determines that there has been or may have been an unauthorized use of the identity of any individual, the Secretary shall, without jeopardizing an investigation relating to tax administration—
 
@@ -2487,21 +2487,21 @@ For purposes of this section, the unauthorized use of the identity of an individ
 
 which indicates that the social security account number provided on such statement or information return does not correspond with the name provided on such statement or information return or the name on the tax return reporting the income which is included on such statement or information return.
 
-(Added Pub. L. 116–25, title II, § 2007(a), July 1, 2019, 133 Stat. 1005.)
+(Added Pub. L. 116–25, title II, § 2007(a), July 1, 2019, 133 Stat. 1005.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–25, title II, § 2007(d), July 1, 2019, 133 Stat. 1006, provided that: “The amendments made by this section [enacting this section and amending section 432 of Title 42, The Public Health and Welfare] shall apply to determinations made after the date that is 6 months after the date of the enactment of this Act [July 1, 2019].”
+Pub. L. 116–25, title II, § 2007(d), July 1, 2019, 133 Stat. 1006, provided that: “The amendments made by this section [enacting this section and amending section 432 of Title 42, The Public Health and Welfare] shall apply to determinations made after the date that is 6 months after the date of the enactment of this Act [July 1, 2019].”
 
 **Public-Private Partnership To Address Identity Theft Refund Fraud**
 
-Pub. L. 116–25, title II, § 2001, July 1, 2019, 133 Stat. 1001, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall work collaboratively with the public and private sectors to protect taxpayers from identity theft refund fraud.”
+Pub. L. 116–25, title II, § 2001, July 1, 2019, 133 Stat. 1001, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall work collaboratively with the public and private sectors to protect taxpayers from identity theft refund fraud.”
 
 **Information Sharing and Analysis Center**
 
-Pub. L. 116–25, title II, § 2003(a), (b), July 1, 2019, 133 Stat. 1001, provided that:
+Pub. L. 116–25, title II, § 2003(a), (b), July 1, 2019, 133 Stat. 1001, provided that:
 
 > **“(a) In General.—** The Secretary of the Treasury (or the Secretary’s delegate) may participate in an information sharing and analysis center to centralize, standardize, and enhance data compilation and analysis to facilitate sharing actionable data and information with respect to identity theft tax refund fraud.
 
@@ -2509,7 +2509,7 @@ Pub. L. 116–25, title II, § 2003(a), (b), July 1, 2019, 133 Stat. 1001, pro
 
 **Single Point of Contact for Tax-Related Identity Theft Victims**
 
-Pub. L. 116–25, title II, § 2006, July 1, 2019, 133 Stat. 1004, provided that:
+Pub. L. 116–25, title II, § 2006, July 1, 2019, 133 Stat. 1004, provided that:
 
 > **“(a) In General.—** The Secretary of the Treasury (or the Secretary’s delegate) shall establish and implement procedures to ensure that any taxpayer whose return has been delayed or otherwise adversely affected due to tax-related identity theft has a single point of contact at the Internal Revenue Service throughout the processing of the taxpayer’s case. The single point of contact shall track the taxpayer’s case to completion and coordinate with other Internal Revenue Service employees to resolve case issues as quickly as possible.
 
@@ -2529,15 +2529,15 @@ Pub. L. 116–25, title II, § 2006, July 1, 2019, 133 Stat. 1004, provided th
 
 **Examination of Both Paper and Electronic Statements and Returns**
 
-Pub. L. 116–25, title II, § 2007(b)(1), July 1, 2019, 133 Stat. 1006, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall examine the statements, information returns, and tax returns described in section 7529(b)(2) of the Internal Revenue Code of 1986 (as added by subsection (a)) for any evidence of employment-related identity theft, regardless of whether such statements or returns are submitted electronically or on paper.”
+Pub. L. 116–25, title II, § 2007(b)(1), July 1, 2019, 133 Stat. 1006, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall examine the statements, information returns, and tax returns described in section 7529(b)(2) of the Internal Revenue Code of 1986 (as added by subsection (a)) for any evidence of employment-related identity theft, regardless of whether such statements or returns are submitted electronically or on paper.”
 
 **Underreporting of Income**
 
-Pub. L. 116–25, title II, § 2007(b)(3), July 1, 2019, 133 Stat. 1006, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall establish procedures to ensure that income reported in connection with the unauthorized use of a taxpayer’s identity is not taken into account in determining any penalty for underreporting of income by the victim of identity theft.”
+Pub. L. 116–25, title II, § 2007(b)(3), July 1, 2019, 133 Stat. 1006, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall establish procedures to ensure that income reported in connection with the unauthorized use of a taxpayer’s identity is not taken into account in determining any penalty for underreporting of income by the victim of identity theft.”
 
 **Guidelines for Stolen Identity Refund Fraud Cases**
 
-Pub. L. 116–25, title II, § 2008, July 1, 2019, 133 Stat. 1006, provided that:
+Pub. L. 116–25, title II, § 2008, July 1, 2019, 133 Stat. 1006, provided that:
 
 > **“(a) In General.—** Not later than 1 year after the date of the enactment of this Act [July 1, 2019], the Secretary of the Treasury (or the Secretary’s delegate), in consultation with the National Taxpayer Advocate, shall develop and implement publicly available guidelines for management of cases involving stolen identity refund fraud in a manner that reduces the administrative burden on taxpayers who are victims of such fraud.
 
@@ -2555,7 +2555,7 @@ Pub. L. 116–25, title II, § 2008, July 1, 2019, 133 Stat. 1006, provided th
 
 > **“(3)** procedures for implementing and accomplishing the standards described in paragraphs (1) and (2), and measures for evaluating such procedures and determining whether such standards have been successfully implemented.”
 
-## § 7530. Application of earned income tax credit to possessions of the United States
+## § 7530. Application of earned income tax credit to possessions of the United States
 
 **(a) Puerto Rico**
 
@@ -2669,4 +2669,4 @@ Rules similar to the rules of subparagraphs (A), (B), and (C) of subsection (a)(
 
 For purposes of section 1324 of title 31, United States Code, the payments under this section shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
 
-(Added Pub. L. 117–2, title IX, § 9625(a), Mar. 11, 2021, 135 Stat. 155.)
+(Added Pub. L. 117–2, title IX, § 9625(a), Mar. 11, 2021, 135 Stat. 155.)

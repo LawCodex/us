@@ -15,17 +15,17 @@ retrieved: 2026-10-11
 
 # CHAPTER 101—RECORDS AND REPORTS
 
-## § 2071. Concealment, removal, or mutilation generally
+## § 2071. Concealment, removal, or mutilation generally
 
 **(a)** Whoever willfully and unlawfully conceals, removes, mutilates, obliterates, or destroys, or attempts to do so, or, with intent to do so takes and carries away any record, proceeding, map, book, paper, document, or other thing, filed or deposited with any clerk or officer of any court of the United States, or in any public office, or with any judicial or public officer of the United States, shall be fined under this title or imprisoned not more than three years, or both.
 
 **(b)** Whoever, having the custody of any such record, proceeding, map, book, document, paper, or other thing, willfully and unlawfully conceals, removes, mutilates, obliterates, falsifies, or destroys the same, shall be fined under this title or imprisoned not more than three years, or both; and shall forfeit his office and be disqualified from holding any office under the United States. As used in this subsection, the term “office” does not include the office held by any person as a retired officer of the Armed Forces of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 795; Pub. L. 101–510, div. A, title V, § 552(a), Nov. 5, 1990, 104 Stat. 1566; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 795; Pub. L. 101–510, div. A, title V, § 552(a), Nov. 5, 1990, 104 Stat. 1566; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 234, 235 (Mar. 4, 1909, ch. 321, §§ 128, 129, 35 Stat. 1111, 1112).
+Based on title 18, U.S.C., 1940 ed., §§ 234, 235 (Mar. 4, 1909, ch. 321, §§ 128, 129, 35 Stat. 1111, 1112).
 
 Section consolidates sections 234 and 235 of title 18, U.S.C., 1940 ed.
 
@@ -45,17 +45,17 @@ Minor changes were made in phraseology.
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–510, div. A, title V, § 552(b), Nov. 5, 1990, 104 Stat. 1567, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as of January 1, 1989.”
+Pub. L. 101–510, div. A, title V, § 552(b), Nov. 5, 1990, 104 Stat. 1567, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as of January 1, 1989.”
 
-## § 2072. False crop reports
+## § 2072. False crop reports
 
 Whoever, being an officer or employee of the United States or any of its agencies, whose duties require the compilation or report of statistics or information relating to the products of the soil, knowingly compiles for issuance, or issues, any false statistics or information as a report of the United States or any of its agencies, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 795; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 795; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 215 (Mar. 4, 1909, ch. 321, § 124, 35 Stat. 1111).
+Based on title 18, U.S.C., 1940 ed., § 215 (Mar. 4, 1909, ch. 321, § 124, 35 Stat. 1111).
 
 Words “or any of its agencies” were inserted after “United States” so as to eliminate any possible ambiguity as to scope of section. (See definitive section 6 of this title.)
 
@@ -67,7 +67,7 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 2073. False entries and reports of moneys or securities
+## § 2073. False entries and reports of moneys or securities
 
 Whoever, being an officer, clerk, agent, or other employee of the United States or any of its agencies, charged with the duty of keeping accounts or records of any kind, with intent to deceive, mislead, injure, or defraud, makes in any such account or record any false or fictitious entry or record of any matter relating to or connected with his duties; or
 
@@ -75,11 +75,11 @@ Whoever, being an officer, clerk, agent, or other employee of the United States 
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 795; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 795; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 189 (Mar. 4, 1911, ch. 270, 36 Stat. 1355).
+Based on title 18, U.S.C., 1940 ed., § 189 (Mar. 4, 1911, ch. 270, 36 Stat. 1355).
 
 Words “or any of its agencies” were inserted after “United States” so as to eliminate any possible ambiguity as to scope of section. (See definitive section 6 of this title.)
 
@@ -93,15 +93,15 @@ Minor verbal changes were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 
-## § 2074. False weather reports
+## § 2074. False weather reports
 
 Whoever knowingly issues or publishes any counterfeit weather forecast or warning of weather conditions falsely representing such forecast or warning to have been issued or published by the Weather Bureau, United States Signal Service, or other branch of the Government service, shall be fined under this title or imprisoned not more than ninety days, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 795; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 795; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 117 (Mar. 4, 1909, ch. 321, § 61, 35 Stat. 1100).
+Based on title 18, U.S.C., 1940 ed., § 117 (Mar. 4, 1909, ch. 321, § 61, 35 Stat. 1100).
 
 Minor verbal changes were made.
 
@@ -123,15 +123,15 @@ Weather Bureau of Department of Commerce consolidated with Coast and Geodetic Su
 
 Environmental Science Services Administration abolished by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees, which created National Oceanic and Atmospheric Administration in Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, Secretary of Commerce delegated to NOAA his functions relating to Weather Bureau. By order of Acting Associate Administrator of NOAA, the organization name of Weather Bureau was changed to National Weather Service. For further details, see Codification note under section 311 of Title 15, Commerce and Trade.
 
-## § 2075. Officer failing to make returns or reports
+## § 2075. Officer failing to make returns or reports
 
 Every officer who neglects or refuses to make any return or report which he is required to make at stated times by any Act of Congress or regulation of the Department of the Treasury, other than his accounts, within the time prescribed by such Act or regulation, shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 796; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(C)(ii), Nov. 2, 2002, 116 Stat. 1809.)
+(June 25, 1948, ch. 645, 62 Stat. 796; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(C)(ii), Nov. 2, 2002, 116 Stat. 1809.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 188, (Mar. 4, 1909, ch. 321, § 101, 35 Stat. 1107).
+Based on title 18, U.S.C., 1940 ed., § 188, (Mar. 4, 1909, ch. 321, § 101, 35 Stat. 1107).
 
 **Editorial Notes**
 
@@ -139,15 +139,15 @@ Based on title 18, U.S.C., 1940 ed., § 188, (Mar. 4, 1909, ch. 321, § 101,
 
 2002—Pub. L. 107–273 substituted “under this title” for “not more than $1,000”.
 
-## § 2076. Clerk of United States District Court
+## § 2076. Clerk of United States District Court
 
 Whoever, being a clerk of a district court of the United States, willfully refuses or neglects to make or forward any report, certificate, statement, or document as required by law, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 796; Pub. L. 104–294, title VI, § 601(a)(11), Oct. 11, 1996, 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 796; Pub. L. 104–294, title VI, § 601(a)(11), Oct. 11, 1996, 110 Stat. 3498.)
 
 **Historical and Revision Notes**
 
-Based on section 522 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Feb. 22, 1875, ch. 95, § 6, 18 Stat. 334).
+Based on section 522 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Feb. 22, 1875, ch. 95, § 6, 18 Stat. 334).
 
 The reference to the offense as a misdemeanor was omitted as unnecessary in view of the definition of “misdemeanor” in section 1 of this title.
 

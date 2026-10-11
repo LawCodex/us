@@ -17,27 +17,9 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—ESTABLISHMENT AND MANAGEMENT; PENSIONS, MONEYS, AND APPROPRIATIONS
 
-### § 161. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
+### § 161. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
 
-Section, R.S. § 4838; July 1, 1916, ch. 209, 39 Stat. 309; 1946 Reorg. Plan No. 3, § 201, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1098, related to establishment of Saint Elizabeths Hospital.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
-
-### §§ 162, 163. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632
-
-Section 162, R.S. § 4840; July 1, 1916, ch. 209, § 1, 39 Stat. 309, related to appointment of Board of Visitors for St. Elizabeths Hospital.
-
-Section 163, R.S. § 4841, related to selection of president of Board of Visitors for St. Elizabeths Hospital.
-
-### §§ 164, 165. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
-
-Section 164, R.S. § 4842; July 1, 1916, ch. 209, 39 Stat. 309; Reorg. Plan No. IV of 1940, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236, along with sections 162 and 163 of this title, provided for the appointment, powers and duties of Board of Visitors of Saint Elizabeths Hospital.
-
-Section 165, R.S. § 4839; Feb. 2, 1909, ch. 58, § 1, 35 Stat. 592; Mar. 4, 1911, ch. 285, 36 Stat. 1422; Aug. 17, 1912, ch. 301, 37 Stat. 312; July 1, 1916, ch. 209, 39 Stat. 309; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1946 Reorg. Plan No. 2, § 9, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1096; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; June 6, 1972, Pub. L. 92–310, title II, § 228(b), 86 Stat. 207; Dec. 19, 1977, Pub. L. 95–215, § 9, 91 Stat. 1508; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to superintendent, disbursing agent, and pension money of inmates of Saint Elizabeths Hospital.
+Section, R.S. § 4838; July 1, 1916, ch. 209, 39 Stat. 309; 1946 Reorg. Plan No. 3, § 201, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1098, related to establishment of Saint Elizabeths Hospital.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -45,17 +27,35 @@ Section 165, R.S. § 4839; Feb. 2, 1909, ch. 58, § 1, 35 Stat. 592; Mar. 4,
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 165a. Omitted
+### §§ 162, 163. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632
+
+Section 162, R.S. § 4840; July 1, 1916, ch. 209, § 1, 39 Stat. 309, related to appointment of Board of Visitors for St. Elizabeths Hospital.
+
+Section 163, R.S. § 4841, related to selection of president of Board of Visitors for St. Elizabeths Hospital.
+
+### §§ 164, 165. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
+
+Section 164, R.S. § 4842; July 1, 1916, ch. 209, 39 Stat. 309; Reorg. Plan No. IV of 1940, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236, along with sections 162 and 163 of this title, provided for the appointment, powers and duties of Board of Visitors of Saint Elizabeths Hospital.
+
+Section 165, R.S. § 4839; Feb. 2, 1909, ch. 58, § 1, 35 Stat. 592; Mar. 4, 1911, ch. 285, 36 Stat. 1422; Aug. 17, 1912, ch. 301, 37 Stat. 312; July 1, 1916, ch. 209, 39 Stat. 309; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1946 Reorg. Plan No. 2, § 9, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1096; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; June 6, 1972, Pub. L. 92–310, title II, § 228(b), 86 Stat. 207; Dec. 19, 1977, Pub. L. 95–215, § 9, 91 Stat. 1508; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to superintendent, disbursing agent, and pension money of inmates of Saint Elizabeths Hospital.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of Repeal**
+
+Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
+
+### § 165a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 98–139, title II, Oct. 31, 1983, 97 Stat. 881, which provided that during fiscal year 1984 and thereafter the superintendent of Saint Elizabeths Hospital could reside off the premises of the hospital, notwithstanding former section 165 of this title, was omitted in light of the transfer of Saint Elizabeths Hospital to the District of Columbia on Oct. 1, 1987, by Pub. L. 98–621, Nov. 8, 1984, 98 Stat. 3369, which is classified principally to subchapter III (§ 225 et seq.) of this chapter.
+Section, Pub. L. 98–139, title II, Oct. 31, 1983, 97 Stat. 881, which provided that during fiscal year 1984 and thereafter the superintendent of Saint Elizabeths Hospital could reside off the premises of the hospital, notwithstanding former section 165 of this title, was omitted in light of the transfer of Saint Elizabeths Hospital to the District of Columbia on Oct. 1, 1987, by Pub. L. 98–621, Nov. 8, 1984, 98 Stat. 3369, which is classified principally to subchapter III (§ 225 et seq.) of this chapter.
 
-### § 166. Repealed. Pub. L. 98–621, § 10(b), Nov. 8, 1984, 98 Stat. 3379
+### § 166. Repealed. Pub. L. 98–621, § 10(b), Nov. 8, 1984, 98 Stat. 3379
 
-Section, acts June 5, 1920, ch. 235, 41 Stat. 920; June 6, 1972, Pub. L. 92–310, title II, § 228(c), 86 Stat. 207, related to appointment and powers of deputy disbursing agent.
+Section, acts June 5, 1920, ch. 235, 41 Stat. 920; June 6, 1972, Pub. L. 92–310, title II, § 228(c), 86 Stat. 207, related to appointment and powers of deputy disbursing agent.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -63,23 +63,13 @@ Section, acts June 5, 1920, ch. 235, 41 Stat. 920; June 6, 1972, Pub. L. 92–31
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 167. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644
+### § 167. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644
 
 Section, act July 19, 1919, ch. 24, 41 Stat. 205, authorized Secretary of the Interior to adjust compensation of officers and employees of Saint Elizabeths Hospital.
 
-### § 168. Repealed. Pub. L. 98–621, § 10(c), Nov. 8, 1984, 98 Stat. 3379
+### § 168. Repealed. Pub. L. 98–621, § 10(c), Nov. 8, 1984, 98 Stat. 3379
 
-Section, acts Mar. 6, 1920, ch. 94, 41 Stat. 513; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to readjustment of salaries and credit to accounts of disbursing agent of Saint Elizabeths Hospital.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
-
-### § 168a. Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379
-
-Section, act Aug. 4, 1947, ch. 478, § 2, 61 Stat. 751; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, related to payment by executive departments for care of patients of Saint Elizabeths Hospital for whom they were responsible.
+Section, acts Mar. 6, 1920, ch. 94, 41 Stat. 513; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to readjustment of salaries and credit to accounts of disbursing agent of Saint Elizabeths Hospital.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -87,11 +77,21 @@ Section, act Aug. 4, 1947, ch. 478, § 2, 61 Stat. 751; 1970 Reorg. Plan No. 2
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 168b. Computation of maximum amount available from Federal sources
+### § 168a. Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379
+
+Section, act Aug. 4, 1947, ch. 478, § 2, 61 Stat. 751; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, related to payment by executive departments for care of patients of Saint Elizabeths Hospital for whom they were responsible.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of Repeal**
+
+Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
+
+### § 168b. Computation of maximum amount available from Federal sources
 
 Amounts chargeable to and available from Federal sources for inpatient and outpatient services provided through Saint Elizabeths Hospital as authorized by 24 U.S.C. 191, 196, 211, 212, 222, 253,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 324; 31 U.S.C. 1535; and 42 U.S.C. 249 and 251 shall not exceed the estimated total cost of such services as computed using only the proportionate amount of the direct Federal subsidy appropriated under this heading.
 
@@ -101,7 +101,7 @@ and 324; 31 U.S.C. 1535; and 42 U.S.C. 249 and 251 shall not exceed the estimate
 
 **References in Text**
 
-Sections 191, 196, 211, 212, and 222 of this title, referred to in text, were repealed by Pub. L. 98–621, § 10(a), (f)(2), (m), Nov. 8, 1984, 98 Stat. 3379, 3380.
+Sections 191, 196, 211, 212, and 222 of this title, referred to in text, were repealed by Pub. L. 98–621, § 10(a), (f)(2), (m), Nov. 8, 1984, 98 Stat. 3379, 3380.
 
 Section 253 of this title, referred to in text, does not exist.
 
@@ -117,9 +117,9 @@ Section is from the appropriation act cited as the credit to this section.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 100–202, § 101(h) [title II], Dec. 22, 1987, 101 Stat. 1329–256, 1329–268.
+Pub. L. 100–202, § 101(h) [title II], Dec. 22, 1987, 101 Stat. 1329–256, 1329–268.
 
-Pub. L. 99–500, § 101(i) [H.R. 5233, title II], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title II], Oct. 30, 1986, 100 Stat. 3341–287.
+Pub. L. 99–500, § 101(i) [H.R. 5233, title II], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title II], Oct. 30, 1986, 100 Stat. 3341–287.
 
 Pub. L. 99–178, title II, Dec. 12, 1985, 99 Stat. 1113.
 
@@ -127,11 +127,11 @@ Pub. L. 98–619, title II, Nov. 8, 1984, 98 Stat. 3314.
 
 Pub. L. 98–139, title II, Oct. 31, 1983, 97 Stat. 881.
 
-Pub. L. 97–377, title I, § 101(e)(1) [title II], Dec. 21, 1982, 96 Stat. 1878, 1887.
+Pub. L. 97–377, title I, § 101(e)(1) [title II], Dec. 21, 1982, 96 Stat. 1878, 1887.
 
-### §§ 169, 169a. Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379
+### §§ 169, 169a. Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379
 
-Section 169, act Aug. 4, 1947, ch. 478, § 3, 61 Stat. 751, related to disposition of money paid for care of patients at Saint Elizabeths Hospital. Similar provisions were contained in the following acts:
+Section 169, act Aug. 4, 1947, ch. 478, § 3, 61 Stat. 751, related to disposition of money paid for care of patients at Saint Elizabeths Hospital. Similar provisions were contained in the following acts:
 
 July 8, 1947, ch. 210, title II, 61 Stat. 272.
 
@@ -181,7 +181,7 @@ Mar. 3, 1925, ch. 462, 43 Stat. 1183.
 
 June 5, 1924, ch. 264, 43 Stat. 429.
 
-Section 169a, acts Aug. 4, 1947, ch. 478, § 4, 61 Stat. 751; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to facilities at Saint Elizabeths Hospital for feeding employees and others and disposition of proceeds.
+Section 169a, acts Aug. 4, 1947, ch. 478, § 4, 61 Stat. 751; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to facilities at Saint Elizabeths Hospital for feeding employees and others and disposition of proceeds.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -189,9 +189,9 @@ Section 169a, acts Aug. 4, 1947, ch. 478, § 4, 61 Stat. 751; 1953 Reorg. Plan
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 170. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
+### § 170. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
 
-Section, R.S. § 4858; July 1, 1916, ch. 209, 39 Stat. 309; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to disbursement of appropriations for support of Saint Elizabeths Hospital.
+Section, R.S. § 4858; July 1, 1916, ch. 209, 39 Stat. 309; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to disbursement of appropriations for support of Saint Elizabeths Hospital.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -199,7 +199,7 @@ Section, R.S. § 4858; July 1, 1916, ch. 209, 39 Stat. 309; 1940 Reorg. Plan N
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 170a. Maximum amount available from Federal sources
+### § 170a. Maximum amount available from Federal sources
 
 In fiscal year 1989 and thereafter, the maximum amount available to Saint Elizabeths Hospital from Federal sources shall not exceed the total of the following amounts: the appropriations made under this heading, amounts billed to Federal agencies and entities by the District of Columbia for services provided at Saint Elizabeths Hospital, and amounts authorized by titles XVIII and XIX of the Social Security Act [42 U.S.C. 1395 et seq., 1396 et seq.]. This maximum amount shall not include Federal funds appropriated to the District of Columbia under “Federal Payment to the District of Columbia” and payments made pursuant to section 9(c) of Public Law 98–621.
 
@@ -211,7 +211,7 @@ In fiscal year 1989 and thereafter, the maximum amount available to Saint Elizab
 
 The appropriations made under this heading, referred to in text, refers to appropriations under the headings “Alcohol, Drug Abuse, and Mental Health Administration” and “federal subsidy for saint elizabeths hospital” of title II, “Department of Health and Human Services”, of the Departments of Labor, Health and Human Services, and Education and Related Agencies Appropriation Act, 1989, Pub. L. 100–436.
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 9(c) of Public Law 98–621, referred to in text, is section 9(c) of Pub. L. 98–621, Nov. 8, 1984, 98 Stat. 3378, par. (1) of which is classified to section 225g(c) of this title.
 
@@ -225,13 +225,13 @@ Section is from the appropriation act cited as the credit to this section.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 100–202, § 101(h) [title II], Dec. 22, 1987, 101 Stat. 1329–256, 1329–267.
+Pub. L. 100–202, § 101(h) [title II], Dec. 22, 1987, 101 Stat. 1329–256, 1329–267.
 
-Pub. L. 99–500, § 101(i) [H.R. 5233, title II], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title II], Oct. 30, 1986, 100 Stat. 3341–287.
+Pub. L. 99–500, § 101(i) [H.R. 5233, title II], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title II], Oct. 30, 1986, 100 Stat. 3341–287.
 
 Pub. L. 99–178, title II, Dec. 12, 1985, 99 Stat. 1113.
 
-### § 171. Repealed. Pub. L. 98–621, § 10(e), Nov. 8, 1984, 98 Stat. 3379
+### § 171. Repealed. Pub. L. 98–621, § 10(e), Nov. 8, 1984, 98 Stat. 3379
 
 Section, acts Aug. 24, 1912, ch. 355, 37 Stat. 461; July 1, 1916, ch. 209, 39 Stat. 309, related to determining per capita costs of patients at Saint Elizabeths Hospital.
 
@@ -241,7 +241,7 @@ Section, acts Aug. 24, 1912, ch. 355, 37 Stat. 461; July 1, 1916, ch. 209, 39 St
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 172. Repealed. Pub. L. 98–621, § 10(f)(1), Nov. 8, 1984, 98 Stat. 3380
+### § 172. Repealed. Pub. L. 98–621, § 10(f)(1), Nov. 8, 1984, 98 Stat. 3380
 
 Section, act Aug. 7, 1882, ch. 433, 22 Stat. 330, related to sale of surplus products and waste materials of Saint Elizabeths Hospital.
 
@@ -251,13 +251,13 @@ Section, act Aug. 7, 1882, ch. 433, 22 Stat. 330, related to sale of surplus pro
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### §§ 173, 174. Repealed. June 30, 1949, ch. 288, title VI, § 602(a)(20), (21), formerly title V, § 602(a)(20), (21), 63 Stat. 400, 401, eff. July 1, 1949; renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583
+### §§ 173, 174. Repealed. June 30, 1949, ch. 288, title VI, § 602(a)(20), (21), formerly title V, § 602(a)(20), (21), 63 Stat. 400, 401, eff. July 1, 1949; renumbered Sept. 5, 1950, ch. 849, § 6(a), (b), 64 Stat. 583
 
 Section 173, act Aug. 1, 1914, ch. 223, 38 Stat. 649, related to sale or exchange of typewriter machines and other equipment.
 
 Section 174, act June 12, 1917, ch. 27, 40 Stat. 153, related to exchange of laundry machines and other equipment.
 
-### § 175. Repealed. Pub. L. 98–621, § 10(g), Nov. 8, 1984, 98 Stat. 3380
+### § 175. Repealed. Pub. L. 98–621, § 10(g), Nov. 8, 1984, 98 Stat. 3380
 
 Section, act Apr. 17, 1917, ch. 3, 40 Stat. 19, related to rental payments for system of telephones at Saint Elizabeths Hospital.
 
@@ -267,19 +267,9 @@ Section, act Apr. 17, 1917, ch. 3, 40 Stat. 19, related to rental payments for s
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 176. Repealed. Pub. L. 98–621, § 10(c), Nov. 8, 1984, 98 Stat. 3379
+### § 176. Repealed. Pub. L. 98–621, § 10(c), Nov. 8, 1984, 98 Stat. 3379
 
-Section, acts Mar. 6, 1920, ch. 94, 41 Stat. 513; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to disposition of articles made by patients of Saint Elizabeths Hospital.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
-
-### § 177. Repealed. Pub. L. 98–621, § 10(h), Nov. 8, 1984, 98 Stat. 3380
-
-Section, acts June 30, 1906, ch. 3914, 34 Stat. 730; Feb. 2, 1909, ch. 58, § 1, 35 Stat. 592; July 1, 1916, ch. 209, 39 Stat. 309; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to disposition of money belonging to deceased inmates of Saint Elizabeths Hospital and claims thereto.
+Section, acts Mar. 6, 1920, ch. 94, 41 Stat. 513; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to disposition of articles made by patients of Saint Elizabeths Hospital.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -287,35 +277,29 @@ Section, acts June 30, 1906, ch. 3914, 34 Stat. 730; Feb. 2, 1909, ch. 58, § 
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 178. Repealed. Oct. 31, 1951, ch. 654, § 1(46), 65 Stat. 703
+### § 177. Repealed. Pub. L. 98–621, § 10(h), Nov. 8, 1984, 98 Stat. 3380
+
+Section, acts June 30, 1906, ch. 3914, 34 Stat. 730; Feb. 2, 1909, ch. 58, § 1, 35 Stat. 592; July 1, 1916, ch. 209, 39 Stat. 309; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to disposition of money belonging to deceased inmates of Saint Elizabeths Hospital and claims thereto.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of Repeal**
+
+Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
+
+### § 178. Repealed. Oct. 31, 1951, ch. 654, § 1(46), 65 Stat. 703
 
 Section, act Oct. 6, 1917, ch. 79, 40 Stat. 373, related to revocable permit to hospital to use certain lands.
 
-### § 179. Repealed. Aug. 7, 1946, ch. 770, § 1(59), 60 Stat. 871
+### § 179. Repealed. Aug. 7, 1946, ch. 770, § 1(59), 60 Stat. 871
 
 Section, acts June 4, 1880, ch. 121, 21 Stat. 156; July 1, 1916, ch. 209, 39 Stat. 309, related to annual report of Superintendent to Congress.
 
-Prior to this repeal, 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236, set out in the Appendix to Title 5, Government Organization and Employees, directed that the annual report required by this section be submitted through the Federal Security Administrator.
+Prior to this repeal, 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236, set out in the Appendix to Title 5, Government Organization and Employees, directed that the annual report required by this section be submitted through the Federal Security Administrator.
 
-### § 180. Repealed. Pub. L. 98–621, § 10(i), Nov. 8, 1984, 98 Stat. 3380
+### § 180. Repealed. Pub. L. 98–621, § 10(i), Nov. 8, 1984, 98 Stat. 3380
 
-Section, acts May 9, 1941, ch. 101, 55 Stat. 186; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to American Red Cross buildings on Saint Elizabeths Hospital reservation.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
-
-### §§ 181 to 184. Repealed. Pub. L. 98–621, § 10(j), Nov. 8, 1984, 98 Stat. 3380
-
-Section 181, acts Nov. 7, 1941, ch. 469, § 1, 55 Stat. 760; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to acceptance of gifts by Secretary of Health and Human Services for Saint Elizabeths Hospital.
-
-Section 182, act Nov. 7, 1941, ch. 469, § 2, 55 Stat. 760, related to deposit, investment, and use of gifts accepted for Saint Elizabeths Hospital.
-
-Section 183, act Nov. 7, 1941, ch. 469, § 3, 55 Stat. 761, related to deposit and liquidation of, and expenditure of income from gifts of intangible property accepted under section 181 of this title.
-
-Section 184, acts Nov. 7, 1941, ch. 469, § 4, 55 Stat. 761; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to use, lease, liquidation, etc. of gifts of realty or tangible personalty accepted under section 181 of this title.
+Section, acts May 9, 1941, ch. 101, 55 Stat. 186; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to American Red Cross buildings on Saint Elizabeths Hospital reservation.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -323,9 +307,25 @@ Section 184, acts Nov. 7, 1941, ch. 469, § 4, 55 Stat. 761; 1953 Reorg. Plan 
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 185. Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379
+### §§ 181 to 184. Repealed. Pub. L. 98–621, § 10(j), Nov. 8, 1984, 98 Stat. 3380
 
-Section, acts Aug. 4, 1947, ch. 478, § 5, 61 Stat. 751; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to availability for various expenditures of appropriations for care of persons in Saint Elizabeths Hospital.
+Section 181, acts Nov. 7, 1941, ch. 469, § 1, 55 Stat. 760; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to acceptance of gifts by Secretary of Health and Human Services for Saint Elizabeths Hospital.
+
+Section 182, act Nov. 7, 1941, ch. 469, § 2, 55 Stat. 760, related to deposit, investment, and use of gifts accepted for Saint Elizabeths Hospital.
+
+Section 183, act Nov. 7, 1941, ch. 469, § 3, 55 Stat. 761, related to deposit and liquidation of, and expenditure of income from gifts of intangible property accepted under section 181 of this title.
+
+Section 184, acts Nov. 7, 1941, ch. 469, § 4, 55 Stat. 761; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to use, lease, liquidation, etc. of gifts of realty or tangible personalty accepted under section 181 of this title.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of Repeal**
+
+Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
+
+### § 185. Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379
+
+Section, acts Aug. 4, 1947, ch. 478, § 5, 61 Stat. 751; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to availability for various expenditures of appropriations for care of persons in Saint Elizabeths Hospital.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -335,9 +335,9 @@ Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as
 
 ## SUBCHAPTER II—INMATES; BURDEN OF EXPENSES THEREOF; DETENTION OF INSANE
 
-### § 191. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
+### § 191. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
 
-Section, R.S. § 4843; Feb. 9, 1900, ch. 13, 31 Stat. 7; Aug. 24, 1912, ch. 391, § 3, 37 Stat. 591; Oct. 15, 1966, Pub. L. 89–670, § 6(b), 80 Stat. 938, related to admission to Saint Elizabeths Hospital of insane persons from the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+Section, R.S. § 4843; Feb. 9, 1900, ch. 13, 31 Stat. 7; Aug. 24, 1912, ch. 391, § 3, 37 Stat. 591; Oct. 15, 1966, Pub. L. 89–670, § 6(b), 80 Stat. 938, related to admission to Saint Elizabeths Hospital of insane persons from the Army, Navy, Air Force, Marine Corps, and Coast Guard.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -345,7 +345,7 @@ Section, R.S. § 4843; Feb. 9, 1900, ch. 13, 31 Stat. 7; Aug. 24, 1912, ch. 39
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 191a. Repealed. Pub. L. 86–571, § 10(a), July 5, 1960, 74 Stat. 310
+### § 191a. Repealed. Pub. L. 86–571, § 10(a), July 5, 1960, 74 Stat. 310
 
 Section, act Oct. 29, 1941, ch. 462, 55 Stat. 756, authorized admission to Saint Elizabeths Hospital of Foreign Service personnel adjudged insane in a foreign country. See section 321 et seq. of this title.
 
@@ -353,9 +353,9 @@ Section, act Oct. 29, 1941, ch. 462, 55 Stat. 756, authorized admission to Saint
 
 **Effective Date of Repeal**
 
-Pub. L. 86–571, § 10, July 5, 1960, 74 Stat. 310, provided that the repeal of this section and section 196a of this title is effective upon the date of enactment of legislation appropriating funds for carrying out section 321 et seq. of this title.
+Pub. L. 86–571, § 10, July 5, 1960, 74 Stat. 310, provided that the repeal of this section and section 196a of this title is effective upon the date of enactment of legislation appropriating funds for carrying out section 321 et seq. of this title.
 
-### § 192. Repealed. Pub. L. 98–621, § 10(k), Nov. 8, 1984, 98 Stat. 3380
+### § 192. Repealed. Pub. L. 98–621, § 10(k), Nov. 8, 1984, 98 Stat. 3380
 
 Section, acts July 1, 1916, ch. 209, 39 Stat. 309; Aug. 29, 1916, ch. 417, 39 Stat. 558; Oct. 6, 1917, ch. 79, 40 Stat. 373, related to admission to Saint Elizabeths Hospital of insane prisoners of war and interned persons.
 
@@ -365,9 +365,9 @@ Section, acts July 1, 1916, ch. 209, 39 Stat. 309; Aug. 29, 1916, ch. 417, 39 St
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 193. Repealed. July 1, 1944, ch. 373, title XIII, § 1313, 58 Stat. 714
+### § 193. Repealed. July 1, 1944, ch. 373, title XIII, § 1313, 58 Stat. 714
 
-Section, acts Mar. 3, 1875, ch. 156, § 5, 18 Stat. 486; July 1, 1902, ch. 1370, § 1, 32 Stat. 712; Aug. 14, 1912, ch. 288, § 1, 37 Stat. 309; July 1, 1916, ch. 209, 39 Stat. 309; July 1, 1918, ch. 113, 40 Stat. 644; 1939 Reorg. Plan No. I, §§ 201, 205, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1424, 1425; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236, provided for admission of insane patients of Public Health Service to Saint Elizabeths Hospital. See section 222 of Title 42, The Public Health and Welfare.
+Section, acts Mar. 3, 1875, ch. 156, § 5, 18 Stat. 486; July 1, 1902, ch. 1370, § 1, 32 Stat. 712; Aug. 14, 1912, ch. 288, § 1, 37 Stat. 309; July 1, 1916, ch. 209, 39 Stat. 309; July 1, 1918, ch. 113, 40 Stat. 644; 1939 Reorg. Plan No. I, §§ 201, 205, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1424, 1425; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236, provided for admission of insane patients of Public Health Service to Saint Elizabeths Hospital. See section 222 of Title 42, The Public Health and Welfare.
 
 **Editorial Notes**
 
@@ -375,7 +375,7 @@ Section, acts Mar. 3, 1875, ch. 156, § 5, 18 Stat. 486; July 1, 1902, ch. 137
 
 For renumbering of act July 1, 1944, which repealed this section, see note set out under sections 1, 2 of this title.
 
-### § 194. Repealed. Pub. L. 98–621, § 10(l), Nov. 8, 1984, 98 Stat. 3380
+### § 194. Repealed. Pub. L. 98–621, § 10(l), Nov. 8, 1984, 98 Stat. 3380
 
 Section, acts July 7, 1884, ch. 332, 23 Stat. 213; July 1, 1916, ch. 209, 39 Stat. 309, related to admission to Saint Elizabeths Hospital of insane inmates of Soldiers’ and Airmen’s Home.
 
@@ -385,19 +385,9 @@ Section, acts July 7, 1884, ch. 332, 23 Stat. 213; July 1, 1916, ch. 209, 39 Sta
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 195. Repealed. Pub. L. 98–621, § 10(f)(2), Nov. 8, 1984, 98 Stat. 3380
+### § 195. Repealed. Pub. L. 98–621, § 10(f)(2), Nov. 8, 1984, 98 Stat. 3380
 
-Section, acts Aug. 7, 1882, ch. 433, 22 Stat. 330; Feb. 20, 1905, ch. 593, 33 Stat. 731; July 1, 1916, ch. 209, 39 Stat. 309; July 3, 1930, ch. 863, § 2, 46 Stat. 1016, related to admission to Saint Elizabeths Hospital of insane inmates of the National Home for Disabled Volunteer Soldiers.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
-
-### § 195a. Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379
-
-Section, acts Aug. 4, 1947, ch. 478, § 1, 61 Stat. 751; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to admission to Saint Elizabeths Hospital of beneficiaries of the Bureau of Indian Affairs.
+Section, acts Aug. 7, 1882, ch. 433, 22 Stat. 330; Feb. 20, 1905, ch. 593, 33 Stat. 731; July 1, 1916, ch. 209, 39 Stat. 309; July 3, 1930, ch. 863, § 2, 46 Stat. 1016, related to admission to Saint Elizabeths Hospital of insane inmates of the National Home for Disabled Volunteer Soldiers.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -405,9 +395,9 @@ Section, acts Aug. 4, 1947, ch. 478, § 1, 61 Stat. 751; 1953 Reorg. Plan No. 
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 196. Repealed. Pub. L. 98–621, § 10(m), Nov. 8, 1984, 98 Stat. 3380
+### § 195a. Repealed. Pub. L. 98–621, § 10(d)(1), Nov. 8, 1984, 98 Stat. 3379
 
-Section, acts June 12, 1917, ch. 27, 40 Stat. 179; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 18, 1962, Pub. L. 87–845, § 6, 76A Stat. 699; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to transfer to Saint Elizabeths Hospital of American citizens adjudged insane in Canal Zone.
+Section, acts Aug. 4, 1947, ch. 478, § 1, 61 Stat. 751; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to admission to Saint Elizabeths Hospital of beneficiaries of the Bureau of Indian Affairs.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -415,7 +405,17 @@ Section, acts June 12, 1917, ch. 27, 40 Stat. 179; 1940 Reorg. Plan No. IV, §�
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 196a. Repealed. Pub. L. 86–571, § 10(b), July 5, 1960, 74 Stat. 310
+### § 196. Repealed. Pub. L. 98–621, § 10(m), Nov. 8, 1984, 98 Stat. 3380
+
+Section, acts June 12, 1917, ch. 27, 40 Stat. 179; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 18, 1962, Pub. L. 87–845, § 6, 76A Stat. 699; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to transfer to Saint Elizabeths Hospital of American citizens adjudged insane in Canal Zone.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of Repeal**
+
+Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
+
+### § 196a. Repealed. Pub. L. 86–571, § 10(b), July 5, 1960, 74 Stat. 310
 
 Section, acts Mar. 2, 1929, ch. 509, 45 Stat. 1495; June 25, 1936, ch. 804, 49 Stat. 1921, authorized transfer to Saint Elizabeths Hospital of American citizens adjudged insane in Canada. See section 321 et seq. of this title.
 
@@ -425,19 +425,9 @@ Section, acts Mar. 2, 1929, ch. 509, 45 Stat. 1495; June 25, 1936, ch. 804, 49 S
 
 Repeal effective upon the date of enactment of legislation appropriating funds for carrying out section 321 et seq. of this title, see Effective Date of Repeal note set out under section 191a of this title.
 
-### § 196b. Repealed. Pub. L. 98–621, § 10(n), Nov. 8, 1984, 98 Stat. 3380
+### § 196b. Repealed. Pub. L. 98–621, § 10(n), Nov. 8, 1984, 98 Stat. 3380
 
-Section, acts July 18, 1940, ch. 638, 54 Stat. 766; July 18, 1950, ch. 464, § 1, 64 Stat. 343; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to transfer to Saint Elizabeths Hospital of persons adjudged insane in Virgin Islands.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
-
-### § 197. Repealed. Pub. L. 98–621, § 10(o), Nov. 8, 1984, 98 Stat. 3380
-
-Section, acts Mar. 3, 1901, ch. 853, 31 Stat. 1163; July 1, 1916, ch. 209, 39 Stat. 309; Sept. 2, 1958, Pub. L. 85–857, § 13(b), 72 Stat. 1264, related to contracts for care, maintenance, and treatment of insane members of Army.
+Section, acts July 18, 1940, ch. 638, 54 Stat. 766; July 18, 1950, ch. 464, § 1, 64 Stat. 343; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to transfer to Saint Elizabeths Hospital of persons adjudged insane in Virgin Islands.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -445,7 +435,17 @@ Section, acts Mar. 3, 1901, ch. 853, 31 Stat. 1163; July 1, 1916, ch. 209, 39 St
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 198. Repealed. Pub. L. 98–621, § 10(p), Nov. 8, 1984, 98 Stat. 3381
+### § 197. Repealed. Pub. L. 98–621, § 10(o), Nov. 8, 1984, 98 Stat. 3380
+
+Section, acts Mar. 3, 1901, ch. 853, 31 Stat. 1163; July 1, 1916, ch. 209, 39 Stat. 309; Sept. 2, 1958, Pub. L. 85–857, § 13(b), 72 Stat. 1264, related to contracts for care, maintenance, and treatment of insane members of Army.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of Repeal**
+
+Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
+
+### § 198. Repealed. Pub. L. 98–621, § 10(p), Nov. 8, 1984, 98 Stat. 3381
 
 Section, acts May 11, 1908, ch. 163, 35 Stat. 122; July 1, 1916, ch. 209, 39 Stat. 309, related to care of insane natives of Philippine Islands serving in Army.
 
@@ -455,11 +455,11 @@ Section, acts May 11, 1908, ch. 163, 35 Stat. 122; July 1, 1916, ch. 209, 39 Sta
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### §§ 199, 200. Repealed. Pub. L. 98–621, § 10(k)(2), Nov. 8, 1984, 98 Stat. 3380
+### §§ 199, 200. Repealed. Pub. L. 98–621, § 10(k)(2), Nov. 8, 1984, 98 Stat. 3380
 
 Section 199, act Oct. 6, 1917, ch. 79, 40 Stat. 373, related to transfer of insane patients from military hospitals to nearest public hospitals.
 
-Section 200, acts Oct. 6, 1917, ch. 79, 40 Stat. 373; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953, Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to transfer of part of appropriations for support of patients at Saint Elizabeths Hospital to public hospitals for patient support.
+Section 200, acts Oct. 6, 1917, ch. 79, 40 Stat. 373; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953, Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to transfer of part of appropriations for support of patients at Saint Elizabeths Hospital to public hospitals for patient support.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -467,9 +467,9 @@ Section 200, acts Oct. 6, 1917, ch. 79, 40 Stat. 373; 1940 Reorg. Plan No. IV, �
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 201. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
+### § 201. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
 
-Section, R.S. § 4844; act July 1, 1916, ch. 209, 39 Stat. 309, provided for admission of indigent insane persons of the District of Columbia.
+Section, R.S. § 4844; act July 1, 1916, ch. 209, 39 Stat. 309, provided for admission of indigent insane persons of the District of Columbia.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -477,7 +477,7 @@ Section, R.S. § 4844; act July 1, 1916, ch. 209, 39 Stat. 309, provided for a
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 202. Repealed. Pub. L. 98–621, § 10(u), Nov. 8, 1984, 98 Stat. 3381
+### § 202. Repealed. Pub. L. 98–621, § 10(u), Nov. 8, 1984, 98 Stat. 3381
 
 Section, acts Mar. 3, 1877, ch. 105, 19 Stat. 347; July 1, 1916, ch. 209, 39 Stat. 309, related to expense of indigent insane admitted from District of Columbia.
 
@@ -487,7 +487,7 @@ Section, acts Mar. 3, 1877, ch. 105, 19 Stat. 347; July 1, 1916, ch. 209, 39 Sta
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 203. Repealed. Pub. L. 98–621, § 10(v), Nov. 8, 1984, 98 Stat. 3381
+### § 203. Repealed. Pub. L. 98–621, § 10(v), Nov. 8, 1984, 98 Stat. 3381
 
 Section, acts Mar. 3, 1879, ch. 182, 20 Stat. 395; July 1, 1916, ch. 209, 39 Stat. 309, related to payment of part of expense from appropriations for District of Columbia.
 
@@ -497,23 +497,9 @@ Section, acts Mar. 3, 1879, ch. 182, 20 Stat. 395; July 1, 1916, ch. 209, 39 Sta
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 204. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
+### § 204. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
 
-Section, R.S. §§ 4853, 4854; act July 1, 1916, ch. 209, 39 Stat. 309, related to private patients from the District of Columbia.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
-
-### § 205. Repealed. Pub. L. 88–597, § 19(d), Sept. 15, 1964, 78 Stat. 953
-
-Section, R.S. § 4849; act July 1, 1916, ch. 209, 39 Stat. 309, related to insane persons from District of Columbia having property. Prior to repeal, section was set out as D.C. Code, § 21–319.
-
-### § 206. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
-
-Section, R.S. § 4850, related to admission of nonresidents of District of Columbia.
+Section, R.S. §§ 4853, 4854; act July 1, 1916, ch. 209, 39 Stat. 309, related to private patients from the District of Columbia.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -521,39 +507,53 @@ Section, R.S. § 4850, related to admission of nonresidents of District of Col
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### § 207. Omitted
+### § 205. Repealed. Pub. L. 88–597, § 19(d), Sept. 15, 1964, 78 Stat. 953
+
+Section, R.S. § 4849; act July 1, 1916, ch. 209, 39 Stat. 309, related to insane persons from District of Columbia having property. Prior to repeal, section was set out as D.C. Code, § 21–319.
+
+### § 206. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
+
+Section, R.S. § 4850, related to admission of nonresidents of District of Columbia.
+
+**Statutory Notes and Related Subsidiaries**
+
+**Effective Date of Repeal**
+
+Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
+
+### § 207. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts Jan. 31, 1899, ch. 78, § 7, 30 Stat. 811; July 1, 1916, ch. 209, 39 Stat. 309, related to return of nonresident indigent insane in District of Columbia.
+Section, acts Jan. 31, 1899, ch. 78, § 7, 30 Stat. 811; July 1, 1916, ch. 209, 39 Stat. 309, related to return of nonresident indigent insane in District of Columbia.
 
-Section, which had been set out as section 17 of Title 16 of the 1929 edition of the D.C. Code, was omitted from the 1940 edition of the D.C. Code as superseded by section 8 of act Aug. 9, 1939, ch. 620, 53 Stat. 1297 (D.C. Code, § 21–317). The act of Aug. 9, 1939, was repealed by Pub. L. 88–597, § 19(a), Sept. 15, 1964, 78 Stat. 953.
+Section, which had been set out as section 17 of Title 16 of the 1929 edition of the D.C. Code, was omitted from the 1940 edition of the D.C. Code as superseded by section 8 of act Aug. 9, 1939, ch. 620, 53 Stat. 1297 (D.C. Code, § 21–317). The act of Aug. 9, 1939, was repealed by Pub. L. 88–597, § 19(a), Sept. 15, 1964, 78 Stat. 953.
 
-### §§ 208 to 210h. Repealed. Pub. L. 89–183, § 8, Sept. 14, 1965, 79 Stat. 784, 785, 787
+### §§ 208 to 210h. Repealed. Pub. L. 89–183, § 8, Sept. 14, 1965, 79 Stat. 784, 785, 787
 
-Section 208, acts Mar. 3, 1903, ch. 1006, 32 Stat. 1043; Feb. 23, 1905, ch. 738, § 1, 33 Stat. 740, related to proceedings to determine mental conditions of insane persons in the District of Columbia.
+Section 208, acts Mar. 3, 1903, ch. 1006, 32 Stat. 1043; Feb. 23, 1905, ch. 738, § 1, 33 Stat. 740, related to proceedings to determine mental conditions of insane persons in the District of Columbia.
 
-Section 209, act Feb. 23, 1905, ch. 738, § 1, 33 Stat. 740, related to a jury trial in proceedings to determine mental conditions of insane persons in the District of Columbia.
+Section 209, act Feb. 23, 1905, ch. 738, § 1, 33 Stat. 740, related to a jury trial in proceedings to determine mental conditions of insane persons in the District of Columbia.
 
-Section 210, acts Feb. 23, 1905, ch. 738, § 2, 33 Stat. 740; July 1, 1916, ch. 209, 39 Stat. 309; June 25, 1936, ch. 804, 49 Stat. 1921, related to discharge of insane person from District of Columbia institution as cured.
+Section 210, acts Feb. 23, 1905, ch. 738, § 2, 33 Stat. 740; July 1, 1916, ch. 209, 39 Stat. 309; June 25, 1936, ch. 804, 49 Stat. 1921, related to discharge of insane person from District of Columbia institution as cured.
 
-Section 210a, acts Oct. 11, 1949, ch. 672, § 1, 63 Stat. 759; Aug. 30, 1964, Pub. L. 88–505, 78 Stat. 638, related to commitment of certain persons suspected of mental illness, found in areas in Virginia and Maryland under exclusive or concurrent jurisdiction.
+Section 210a, acts Oct. 11, 1949, ch. 672, § 1, 63 Stat. 759; Aug. 30, 1964, Pub. L. 88–505, 78 Stat. 638, related to commitment of certain persons suspected of mental illness, found in areas in Virginia and Maryland under exclusive or concurrent jurisdiction.
 
-Section 210b, act Oct. 11, 1949, ch. 672, § 2, 63 Stat. 760, related to power of apprehension and detention of certain persons suspected of mental illness.
+Section 210b, act Oct. 11, 1949, ch. 672, § 2, 63 Stat. 760, related to power of apprehension and detention of certain persons suspected of mental illness.
 
-Section 210c, act Oct. 11, 1949, ch. 672, § 3, 63 Stat. 761, related to admission upon application and release.
+Section 210c, act Oct. 11, 1949, ch. 672, § 3, 63 Stat. 761, related to admission upon application and release.
 
-Section 210d, act Oct. 11, 1949, ch. 672, § 4, 63 Stat. 761, related to authorization to receive persons for observation and diagnosis.
+Section 210d, act Oct. 11, 1949, ch. 672, § 4, 63 Stat. 761, related to authorization to receive persons for observation and diagnosis.
 
-Section 210e, act Oct. 11, 1949, ch. 672, § 5, 63 Stat. 761, related to examination, proceedings for adjudication, and expense of care and treatment.
+Section 210e, act Oct. 11, 1949, ch. 672, § 5, 63 Stat. 761, related to examination, proceedings for adjudication, and expense of care and treatment.
 
-Section 210f, act Oct. 11, 1949, ch. 672, § 6, 63 Stat. 761, related to transfer of military personnel apprehended or detained.
+Section 210f, act Oct. 11, 1949, ch. 672, § 6, 63 Stat. 761, related to transfer of military personnel apprehended or detained.
 
-Section 210g, act Oct. 11, 1949, ch. 672, § 7, 63 Stat. 761, related to persons entitled to care and treatment in a Veterans’ Administration facility.
+Section 210g, act Oct. 11, 1949, ch. 672, § 7, 63 Stat. 761, related to persons entitled to care and treatment in a Veterans’ Administration facility.
 
-Section 210h, act Oct. 11, 1949, ch. 672, § 8, 63 Stat. 761, related to payment of expenses of transfer to state hospitals or to the custody of relatives.
+Section 210h, act Oct. 11, 1949, ch. 672, § 8, 63 Stat. 761, related to payment of expenses of transfer to state hospitals or to the custody of relatives.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -561,27 +561,13 @@ Section 210h, act Oct. 11, 1949, ch. 672, § 8, 63 Stat. 761, related to payme
 
 Repeal effective Jan. 1, 1966, see section 7 of Pub. L. 89–183, Sept. 14, 1965, 79 Stat. 780.
 
-### §§ 211 to 211b. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
+### §§ 211 to 211b. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
 
-Section 211, R.S. § 4851; July 1, 1916, ch. 209, 39 Stat. 309; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to admission to Saint Elizabeths Hospital of insane persons accused of crimes.
+Section 211, R.S. § 4851; July 1, 1916, ch. 209, 39 Stat. 309; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to admission to Saint Elizabeths Hospital of insane persons accused of crimes.
 
-Section 211a, R.S. § 4852; July 1, 1916, ch. 209, 39 Stat. 309, related to admission to Saint Elizabeths Hospital of insane convicts.
+Section 211a, R.S. § 4852; July 1, 1916, ch. 209, 39 Stat. 309, related to admission to Saint Elizabeths Hospital of insane convicts.
 
-Section 211b, R.S. § 4855; July 1, 1916, ch. 209, 39 Stat. 309, related to insane persons in Saint Elizabeths Hospital who are accused of crimes and their delivery to court upon restoration of sanity.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
-
-### §§ 212 to 214. Repealed. Pub. L. 98–621, § 10(q), Nov. 8, 1984, 98 Stat. 3381
-
-Section 212, acts June 23, 1874, ch. 465, § 1, 18 Stat. 251; Aug. 7, 1882, ch. 433, 22 Stat. 330; July 1, 1916, ch. 209, 39 Stat. 309; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to transfer to Saint Elizabeths Hospital of insane prisoners.
-
-Section 213, acts June 23, 1874, ch. 465, § 2, 18 Stat. 251; July 1, 1916, ch. 209, 39 Stat. 309, related to accommodation of insane convicts in State asylums and compensation therefor.
-
-Section 214, act June 23, 1874, ch. 465, § 3, 18 Stat. 252, related to return of transferred insane convicts and prisoners to prison on restoration of their sanity.
+Section 211b, R.S. § 4855; July 1, 1916, ch. 209, 39 Stat. 309, related to insane persons in Saint Elizabeths Hospital who are accused of crimes and their delivery to court upon restoration of sanity.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -589,25 +575,39 @@ Section 214, act June 23, 1874, ch. 465, § 3, 18 Stat. 252, related to return
 
 Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### §§ 215 to 220. Repealed. Pub. L. 88–597, § 19(c), Sept. 15, 1964, 78 Stat. 953
+### §§ 212 to 214. Repealed. Pub. L. 98–621, § 10(q), Nov. 8, 1984, 98 Stat. 3381
 
-Section 215, act Apr. 27, 1904, ch. 1618, § 1, 33 Stat. 316, related to apprehension and detention of certain insane persons in District of Columbia.
+Section 212, acts June 23, 1874, ch. 465, § 1, 18 Stat. 251; Aug. 7, 1882, ch. 433, 22 Stat. 330; July 1, 1916, ch. 209, 39 Stat. 309; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, § 509(b), 93 Stat. 695, related to transfer to Saint Elizabeths Hospital of insane prisoners.
 
-Section 216, act Apr. 27, 1904, ch. 1618, § 2, 33 Stat. 317, related to arrest at other than public places in District of Columbia.
+Section 213, acts June 23, 1874, ch. 465, § 2, 18 Stat. 251; July 1, 1916, ch. 209, 39 Stat. 309, related to accommodation of insane convicts in State asylums and compensation therefor.
 
-Section 217, acts Apr. 27, 1904, ch. 1618, § 3, 33 Stat. 317; July 1, 1916, ch. 209, 39 Stat. 309, related to temporary detention of alleged insane persons found in District of Columbia.
+Section 214, act June 23, 1874, ch. 465, § 3, 18 Stat. 252, related to return of transferred insane convicts and prisoners to prison on restoration of their sanity.
 
-Section 218, acts Apr. 27, 1904, ch. 1618, § 4, 33 Stat. 317; July 1, 1916, ch. 209, 39 Stat. 309, related to temporary commitment of persons found in District of Columbia to other hospital, or detention in police station.
+**Statutory Notes and Related Subsidiaries**
 
-Section 219, acts Apr. 27, 1904, ch. 1618, § 5, 33 Stat. 318; Aug. 14, 1912, ch. 288, § 1, 37 Stat. 309, related to certificate by physician as to sanity or insanity found in District of Columbia.
+**Effective Date of Repeal**
 
-Section 220, act Apr. 27, 1904, ch. 1618, § 6, 33 Stat. 318, related to making false affidavit or certificate.
+Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as an Effective Date note under section 225 of this title.
 
-### §§ 221, 222. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
+### §§ 215 to 220. Repealed. Pub. L. 88–597, § 19(c), Sept. 15, 1964, 78 Stat. 953
 
-Section 221, R.S. § 4856; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107, related to discharge of insane patients on bond.
+Section 215, act Apr. 27, 1904, ch. 1618, § 1, 33 Stat. 316, related to apprehension and detention of certain insane persons in District of Columbia.
 
-Section 222, R.S. § 4857, provided that no insane person not charged with any breach of the peace should ever be confined in the United States jail in the District of Columbia.
+Section 216, act Apr. 27, 1904, ch. 1618, § 2, 33 Stat. 317, related to arrest at other than public places in District of Columbia.
+
+Section 217, acts Apr. 27, 1904, ch. 1618, § 3, 33 Stat. 317; July 1, 1916, ch. 209, 39 Stat. 309, related to temporary detention of alleged insane persons found in District of Columbia.
+
+Section 218, acts Apr. 27, 1904, ch. 1618, § 4, 33 Stat. 317; July 1, 1916, ch. 209, 39 Stat. 309, related to temporary commitment of persons found in District of Columbia to other hospital, or detention in police station.
+
+Section 219, acts Apr. 27, 1904, ch. 1618, § 5, 33 Stat. 318; Aug. 14, 1912, ch. 288, § 1, 37 Stat. 309, related to certificate by physician as to sanity or insanity found in District of Columbia.
+
+Section 220, act Apr. 27, 1904, ch. 1618, § 6, 33 Stat. 318, related to making false affidavit or certificate.
+
+### §§ 221, 222. Repealed. Pub. L. 98–621, § 10(a), Nov. 8, 1984, 98 Stat. 3379
+
+Section 221, R.S. § 4856; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, § 32(b), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107, related to discharge of insane patients on bond.
+
+Section 222, R.S. § 4857, provided that no insane person not charged with any breach of the peace should ever be confined in the United States jail in the District of Columbia.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -617,7 +617,7 @@ Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as
 
 ## SUBCHAPTER III—MENTAL HEALTH SERVICE FOR DISTRICT OF COLUMBIA
 
-### § 225. Findings and purposes
+### § 225. Findings and purposes
 
 **(a)** The Congress makes the following findings:
 
@@ -679,7 +679,7 @@ Repeal effective Oct. 1, 1987, see section 12(b) of Pub. L. 98–621, set out as
 
 **(8)** the comprehensive mental health system plan include a component for direct services for the homeless mentally ill.
 
-(Pub. L. 98–621, § 2, Nov. 8, 1984, 98 Stat. 3369; Pub. L. 102–150, § 3(a), Oct. 31, 1991, 105 Stat. 980.)
+(Pub. L. 98–621, § 2, Nov. 8, 1984, 98 Stat. 3369; Pub. L. 102–150, § 3(a), Oct. 31, 1991, 105 Stat. 980.)
 
 **Editorial Notes**
 
@@ -695,7 +695,7 @@ This subchapter, referred to in subsec. (b)(4), was in the original “this Act�
 
 **Effective Date**
 
-Pub. L. 98–621, § 12, formerly § 11, Nov. 8, 1984, 98 Stat. 3382, renumbered § 12, Pub. L. 102–150, § 4(1), Oct. 31, 1991, 105 Stat. 981, provided that:
+Pub. L. 98–621, § 12, formerly § 11, Nov. 8, 1984, 98 Stat. 3382, renumbered § 12, Pub. L. 102–150, § 4(1), Oct. 31, 1991, 105 Stat. 981, provided that:
 
 > **“(a)** Except as provided in subsection (b), this Act [see Short Title note below] shall take effect on October 1, 1985.”
 
@@ -703,13 +703,13 @@ Pub. L. 98–621, § 12, formerly § 11, Nov. 8, 1984, 98 Stat. 3382, renumb
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–150, § 1, Oct. 31, 1991, 105 Stat. 980, provided that: “This Act [enacting section 225h of this title, amending this section and sections 225b and 225f of this title, and renumbering provisions set out as a note under this section] may be cited as the ‘District of Columbia Mental Health Program Assistance Act of 1991’.”
+Pub. L. 102–150, § 1, Oct. 31, 1991, 105 Stat. 980, provided that: “This Act [enacting section 225h of this title, amending this section and sections 225b and 225f of this title, and renumbering provisions set out as a note under this section] may be cited as the ‘District of Columbia Mental Health Program Assistance Act of 1991’.”
 
 **Short Title**
 
-Pub. L. 98–621, § 1, Nov. 8, 1984, 98 Stat. 3369, provided that: “This Act [enacting this subchapter, amending section 324 of this title, repealing sections 161, 164 to 166, 168, 168a, 169, 169a, 170 to 172, 175 to 177, 180 to 185, 191, 192, 194, 195, 195a, 196, 196b, 197 to 204, 206, 211 to 214, 221, and 222 of this title and section 300aa–3 of Title 42, The Public Health and Welfare] may be cited as the ‘Saint Elizabeths Hospital and District of Columbia Mental Health Services Act’.”
+Pub. L. 98–621, § 1, Nov. 8, 1984, 98 Stat. 3369, provided that: “This Act [enacting this subchapter, amending section 324 of this title, repealing sections 161, 164 to 166, 168, 168a, 169, 169a, 170 to 172, 175 to 177, 180 to 185, 191, 192, 194, 195, 195a, 196, 196b, 197 to 204, 206, 211 to 214, 221, and 222 of this title and section 300aa–3 of Title 42, The Public Health and Welfare] may be cited as the ‘Saint Elizabeths Hospital and District of Columbia Mental Health Services Act’.”
 
-### § 225a. Definitions
+### § 225a. Definitions
 
 For the purpose of this subchapter:
 
@@ -731,9 +731,9 @@ For the purpose of this subchapter:
 
 **(9)** The term “Council” means the Council of the District of Columbia.
 
-(Pub. L. 98–621, § 3, Nov. 8, 1984, 98 Stat. 3371.)
+(Pub. L. 98–621, § 3, Nov. 8, 1984, 98 Stat. 3371.)
 
-### § 225b. Development of plan for mental health system for the District
+### § 225b. Development of plan for mental health system for the District
 
 **(a) Responsibility for mental health services; effective date; final system implementation plan; comprehensive mental health program**
 
@@ -777,9 +777,9 @@ For the purpose of this subchapter:
 
 **(e) Shift of selected program responsibilities and staff resources; commercial activity proposals; exemption of certain studies**
 
-**(1)** The Mayor and the Secretary may, during the service coordination period, by mutual agreement and consistent with the requirements of the system implementation plan direct the shift of selected program responsibilities and staff resources from Saint Elizabeths Hospital to the District. The Secretary may assign staff occupying positions in affected programs to work under the supervision of the District. The Mayor shall notify the Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate in writing of any planned shift in program responsibilites 1
+**(1)** The Mayor and the Secretary may, during the service coordination period, by mutual agreement and consistent with the requirements of the system implementation plan direct the shift of selected program responsibilities and staff resources from Saint Elizabeths Hospital to the District. The Secretary may assign staff occupying positions in affected programs to work under the supervision of the District. The Mayor shall notify the Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate in writing of any planned shift in program responsibilites 1
 
-<sup>1</sup>  So in original. Probably should be “responsibilities”.
+<sup>1</sup> So in original. Probably should be “responsibilities”.
 
 or staff resources not less than 30 days prior to the implementation of such shift.
 
@@ -805,7 +805,7 @@ or staff resources not less than 30 days prior to the implementation of such shi
 
 During the service coordination period, the District of Columbia and the Secretary, to the extent provided in the Federal court consent decree, shall be jointly responsible for providing citizens with the full range and scope of mental health services set forth in such decree and the system implementation plan. No provision of this subchapter or any action or agreement during the service coordination period may be so construed as to absolve or relieve the District or the Federal Government of their joint or respective responsibilities to implement fully the mandates of the Federal court consent decree.
 
-(Pub. L. 98–621, § 4, Nov. 8, 1984, 98 Stat. 3371; Pub. L. 102–150, §§ 2, 3(a), Oct. 31, 1991, 105 Stat. 980; Pub. L. 105–33, title XI, § 11717(b), Aug. 5, 1997, 111 Stat. 786; Pub. L. 117–286, § 4(a)(179), Dec. 27, 2022, 136 Stat. 4325.)
+(Pub. L. 98–621, § 4, Nov. 8, 1984, 98 Stat. 3371; Pub. L. 102–150, §§ 2, 3(a), Oct. 31, 1991, 105 Stat. 980; Pub. L. 105–33, title XI, § 11717(b), Aug. 5, 1997, 111 Stat. 786; Pub. L. 117–286, § 4(a)(179), Dec. 27, 2022, 136 Stat. 4325.)
 
 **Editorial Notes**
 
@@ -819,11 +819,11 @@ Section 422 of the District of Columbia Home Rule Act, referred to in subsec. (b
 
 1997—Subsec. (b)(3). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
-1991—Subsec. (a)(2). Pub. L. 102–150, § 3(a), substituted “October 1, 1993” for “October 1, 1991”.
+1991—Subsec. (a)(2). Pub. L. 102–150, § 3(a), substituted “October 1, 1993” for “October 1, 1991”.
 
-Subsec. (f)(2)(A). Pub. L. 102–150, §§ 2(1), 3(a), substituted “and, except as provided under an agreement entered into pursuant to subparagraph (C), complete” for “and complete” and “October 1, 1993” for “October 1, 1991”.
+Subsec. (f)(2)(A). Pub. L. 102–150, §§ 2(1), 3(a), substituted “and, except as provided under an agreement entered into pursuant to subparagraph (C), complete” for “and complete” and “October 1, 1993” for “October 1, 1991”.
 
-Subsec. (f)(2)(C). Pub. L. 102–150, § 2(2), added subpar. (C).
+Subsec. (f)(2)(C). Pub. L. 102–150, § 2(2), added subpar. (C).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -843,7 +843,7 @@ Committee on the District of Columbia of House of Representatives abolished by H
 
 **Termination of Claims**
 
-Pub. L. 109–396, title I, § 102, Dec. 15, 2006, 120 Stat. 2712, provided that:
+Pub. L. 109–396, title I, § 102, Dec. 15, 2006, 120 Stat. 2712, provided that:
 
 > **“(a) In General.—** Notwithstanding any other provision of law, the United States is not required to perform, or to reimburse the District of Columbia for the cost of performing, any of the following services:
 
@@ -855,13 +855,13 @@ Pub. L. 109–396, title I, § 102, Dec. 15, 2006, 120 Stat. 2712, provided th
 
 > **“(b) Effect on Pending Claims.—** Any claim of the District of Columbia against the United States for the failure to perform, or to reimburse the District of Columbia for the cost of performing, any service described in subsection (a) which is pending as of the date of the enactment of this Act shall be extinguished and terminated.”
 
-### § 225c. Congressional review of system implementation plan
+### § 225c. Congressional review of system implementation plan
 
 **(a)** The Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate shall review the preliminary system implementation plan transmitted by the Mayor pursuant to section 225b of this title to determine the extent of its compliance with the provisions of section 225(b) of this title and section 225b of this title, and transmit written recommendations regarding any revisions to the preliminary plan to the Mayor not later than 60 days after receipt of such plan.
 
 **(b)** The Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate shall, within 90 days of submission of the final system implementation plan by the Mayor pursuant to section 225b of this title, review such plan to determine the extent to which it is in compliance with the provisions of section 225(b) of this title and section 225b of this title.
 
-(Pub. L. 98–621, § 5, Nov. 8, 1984, 98 Stat. 3374.)
+(Pub. L. 98–621, § 5, Nov. 8, 1984, 98 Stat. 3374.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -875,7 +875,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 225d. Transition provisions for employees of Hospital
+### § 225d. Transition provisions for employees of Hospital
 
 **(a) Retirement opportunity**
 
@@ -913,7 +913,7 @@ Employees of the Hospital directly affected by the assumption of programs and fu
 
 Any contract entered into by the District of Columbia for the provision of mental health services formerly provided by or at the Hospital shall require the contractor or provider, in filling new positions created to perform under the contract, to give preference to qualified candidates on the District agency reemployment priority list created pursuant to subsection (d) of this section. An individual who is offered nontemporary employment with a contractor shall have his or her name remain on the District agency reemployment priority list under subsection (d) for not more than 24 months from the date of acceptance of such employment.
 
-(Pub. L. 98–621, § 6, Nov. 8, 1984, 98 Stat. 3374.)
+(Pub. L. 98–621, § 6, Nov. 8, 1984, 98 Stat. 3374.)
 
 **Editorial Notes**
 
@@ -927,7 +927,7 @@ The District of Columbia Government Comprehensive Merit Personnel Act of 1978, r
 
 For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(*o*) of Pub. L. 99–335, set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
-### § 225e. Conditions of employment for former employees of Hospital
+### § 225e. Conditions of employment for former employees of Hospital
 
 **(a) Individuals accepting employment; without service breaks** Each individual accepting employment without a break in service with the District government pursuant to section 225d of this title shall—
 
@@ -943,9 +943,9 @@ For provisions relating to treatment of certain Federal employees of Saint Eliza
 
 **(6)** be entitled to the same health and life insurance benefits as are available to District employees in the applicable service;
 
-**(7)** if employed by the Federal Government before January 1, 1984, continue to be covered by the United States Civil Service Retirement System, under chapter 83 of title 5, to the same extent that such retirement system covers District Government 1
+**(7)** if employed by the Federal Government before January 1, 1984, continue to be covered by the United States Civil Service Retirement System, under chapter 83 of title 5, to the same extent that such retirement system covers District Government 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 employees; and
 
@@ -973,7 +973,7 @@ Commissioned public health service officers detailed to the District of Columbia
 
 For purposes of this section, Hospital employees shall include former patient employees occupying career positions at the Hospital.
 
-(Pub. L. 98–621, § 7, Nov. 8, 1984, 98 Stat. 3375.)
+(Pub. L. 98–621, § 7, Nov. 8, 1984, 98 Stat. 3375.)
 
 **Editorial Notes**
 
@@ -981,13 +981,13 @@ For purposes of this section, Hospital employees shall include former patient em
 
 The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsecs. (a)(1), (3), (4), (8), (b), and (c)(2), is D.C. Law 2–139, Mar. 3, 1979, which is not classified to the Code.
 
-### § 225f. Property transfer
+### § 225f. Property transfer
 
 **(a) Authority of Secretary; exclusion of certain real property**
 
-**(1)** Except as provided in paragraph (2), on October 1, 1987, the Secretary shall transfer to the District, without compensation, all right, title, and interest of the United States in all real property at Saint Elizabeths Hospital in the District of Columbia together with any buildings, improvements, and personal property used in connection with such property needed to provide mental health and other services provided by the Department of Human Services indentified 1
+**(1)** Except as provided in paragraph (2), on October 1, 1987, the Secretary shall transfer to the District, without compensation, all right, title, and interest of the United States in all real property at Saint Elizabeths Hospital in the District of Columbia together with any buildings, improvements, and personal property used in connection with such property needed to provide mental health and other services provided by the Department of Human Services indentified 1
 
-<sup>1</sup>  So in original. Probably should be “identified”.
+<sup>1</sup> So in original. Probably should be “identified”.
 
 pursuant to section 225b(c)(7) of this title.
 
@@ -1001,7 +1001,7 @@ On or before October 1, 1992, the Mayor shall prepare, and submit to the Committ
 
 On October 1, 1985, the Secretary shall transfer to the District, without compensation, all right, title, and interest of the United States to lot 87, square 622, in the subdivision made by the District of Columbia Redevelopment Land Agency, as per plat recorded in the Office of the Surveyor for the District of Columbia, in liber 154 at folio 149 (901 First Street N.W., the J.B. Johnson Building and grounds).
 
-(Pub. L. 98–621, § 8, Nov. 8, 1984, 98 Stat. 3377; Pub. L. 102–150, § 3(b), Oct. 31, 1991, 105 Stat. 980.)
+(Pub. L. 98–621, § 8, Nov. 8, 1984, 98 Stat. 3377; Pub. L. 102–150, § 3(b), Oct. 31, 1991, 105 Stat. 980.)
 
 **Editorial Notes**
 
@@ -1021,7 +1021,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Committee on the District of Columbia of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on the District of Columbia treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 225g. Financing provisions
+### § 225g. Financing provisions
 
 **(a) Authorization of appropriations**
 
@@ -1069,7 +1069,7 @@ Nothing in this subchapter shall affect the authority of the District of Columbi
 
 **(2)** all claims that result in a judgment or award against Saint Elizabeths Hospital before October 1, 1987.
 
-(Pub. L. 98–621, § 9, Nov. 8, 1984, 98 Stat. 3377.)
+(Pub. L. 98–621, § 9, Nov. 8, 1984, 98 Stat. 3377.)
 
 **Editorial Notes**
 
@@ -1081,7 +1081,7 @@ Public Law 83–472, referred to in subsec. (d), is act July 2, 1954, ch. 457, 6
 
 Subsec. (c)(2) of this section amended section 502 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, title V, Dec. 24, 1973, 87 Stat. 813), which is not classified to the Code.
 
-### § 225h. Buy American provisions
+### § 225h. Buy American provisions
 
 **(a) Applicability**
 
@@ -1093,7 +1093,7 @@ The Mayor shall insure that the requirements of the Buy American Act of 1933, as
 
 **(2)** An agreement referred to in paragraph (1) is any agreement,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 between the United States and a foreign country pursuant to which the head of an agency of the United States Government has waived the requirements of the Buy American Act with respect to certain products produced in the foreign country.
 
@@ -1103,17 +1103,17 @@ The Mayor shall submit to Congress a report on the amount of purchases from fore
 
 **(d) “Buy American Act” defined**
 
-For purposes of this section, the term “Buy American Act” means title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933 (41 U.S.C. 10a et seq.) 2
+For purposes of this section, the term “Buy American Act” means title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933 (41 U.S.C. 10a et seq.) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 .
 
 **(e) Restrictions on contract awards**
 
-No contract or subcontract made with funds authorized under this subchapter <sup>2</sup> may be awarded for the procurement of an article, material, or supply produced or manufactured in a foreign country whose government unfairly maintains in government procurement a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses, as identified by the President pursuant to 3
+No contract or subcontract made with funds authorized under this subchapter <sup>2</sup> may be awarded for the procurement of an article, material, or supply produced or manufactured in a foreign country whose government unfairly maintains in government procurement a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses, as identified by the President pursuant to 3
 
-<sup>3</sup>  So in original. Probably should be followed by “subsection”.
+<sup>3</sup> So in original. Probably should be followed by “subsection”.
 
 (g)(1)(A) of section 305 of the Trade Agreements Act of 1979 (19 U.S.C. 2515(g)(1)(A)). Any such determination shall be made in accordance with section 305.
 
@@ -1121,13 +1121,13 @@ No contract or subcontract made with funds authorized under this subchapter <s
 
 If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a “Made in America” inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, that person shall be ineligible to receive any contract or subcontract under this subchapter, pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
 
-(Pub. L. 98–621, § 11, as added Pub. L. 102–150, § 4(2), Oct. 31, 1991, 105 Stat. 981.)
+(Pub. L. 98–621, § 11, as added Pub. L. 102–150, § 4(2), Oct. 31, 1991, 105 Stat. 981.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933, referred to in subsec. (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§ 8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of title III to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933, referred to in subsec. (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§ 8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of title III to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 The Trade Agreement Act of 1979, referred to in subsec. (c), probably means the Trade Agreements Act of 1979, Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19, Customs Duties, and Tables.
 

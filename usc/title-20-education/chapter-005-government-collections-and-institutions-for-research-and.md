@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 5—GOVERNMENT COLLECTIONS AND INSTITUTIONS FOR RESEARCH, AND MATERIAL FOR EDUCATIONAL INSTITUTIONS
 
-## § 91. Literary and scientific collections accessible to investigators and students
+## § 91. Literary and scientific collections accessible to investigators and students
 
 The facilities for study, research and illustration in the Government departments and in the following and any other governmental collections now existing or hereafter to be established in the city of Washington for the promotion of knowledge shall be accessible, under such rules and restrictions as the officers in charge of each department or collection may prescribe, subject to such authority as is now or may hereafter be permitted by law, to the scientific investigators and to duly qualified individuals, students and graduates of any institution of learning in the several States and Territories and the District of Columbia, to wit:
 
@@ -47,7 +47,7 @@ Thirteen. Of the Zoological Park.
 
 Fourteen. Of the Government Publishing Office.
 
-(Apr. 12, 1892, No. 8, 27 Stat. 395; Mar. 3, 1901, ch. 831, § 1, 31 Stat. 1039; May 14, 1928, ch. 551, § 1, 45 Stat. 531; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 8, 1956, ch. 1036, § 3, 70 Stat. 1120; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 96–88, title III, § 301(b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(10)], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Apr. 12, 1892, No. 8, 27 Stat. 395; Mar. 3, 1901, ch. 831, § 1, 31 Stat. 1039; May 14, 1928, ch. 551, § 1, 45 Stat. 531; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 8, 1956, ch. 1036, § 3, 70 Stat. 1120; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 96–88, title III, § 301(b)(2), title V, § 507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(10)], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -69,7 +69,7 @@ Section is from a resolution adopted Apr. 12, 1892, the Deficiencies Appropriati
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Transfer of Functions**
 
@@ -79,7 +79,7 @@ Office of Education created and placed in Department of the Interior by act of J
 
 **National Museum**
 
-National Museum was not created by any express statutory provision for that purpose. It was first mentioned in an appropriation for postage for “the National Museum in the Smithsonian Institution,” contained in act June 20, 1874, ch. 328, § 1, 18 Stat. 103. An appropriation for a building for the use of the National Museum was made by act Mar. 3, 1879, ch. 182, § 1, 20 Stat. 397, and annual appropriations have continuously been made for expenses of heating, etc., such building.
+National Museum was not created by any express statutory provision for that purpose. It was first mentioned in an appropriation for postage for “the National Museum in the Smithsonian Institution,” contained in act June 20, 1874, ch. 328, § 1, 18 Stat. 103. An appropriation for a building for the use of the National Museum was made by act Mar. 3, 1879, ch. 182, § 1, 20 Stat. 397, and annual appropriations have continuously been made for expenses of heating, etc., such building.
 
 **Executive Documents**
 
@@ -89,31 +89,31 @@ Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to f
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. United States Patents and Trademark Office, and National Ocean Survey, referred to in this section, are agencies within Department of Commerce.
+Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. United States Patents and Trademark Office, and National Ocean Survey, referred to in this section, are agencies within Department of Commerce.
 
-Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5.
+Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5.
 
-Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, succeeded by United States Fish and Wildlife Service established by act Aug. 8, 1956, ch. 1036, § 3, 70 Stat. 1120, which is classified to section 742b of Title 16, Conservation.
+Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, succeeded by United States Fish and Wildlife Service established by act Aug. 8, 1956, ch. 1036, § 3, 70 Stat. 1120, which is classified to section 742b of Title 16, Conservation.
 
-Bureau of Fisheries consolidated with Bureau of Biological Survey into Fish and Wildlife Service in Department of the Interior by Reorg. Plan No. III of 1940, set out in the Appendix to Title 5, Government Organization and Employees. The Bureau had been previously transferred to Department of the Interior by Reorg. Plan No. II of 1939, § 4(e), also set out in the Appendix to Title 5.
+Bureau of Fisheries consolidated with Bureau of Biological Survey into Fish and Wildlife Service in Department of the Interior by Reorg. Plan No. III of 1940, set out in the Appendix to Title 5, Government Organization and Employees. The Bureau had been previously transferred to Department of the Interior by Reorg. Plan No. II of 1939, § 4(e), also set out in the Appendix to Title 5.
 
 For transfer of certain personal property and functions, insofar as they pertain to the Air Force, from Secretary of the Army and Department of the Army, to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order Nos. 6, eff. Jan. 15, 1948; 39, May 18, 1949; 40 [App. B(69)], July 22, 1949.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
-Office of Education transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §§ 201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, set out in the Appendix to Title 5.
+Office of Education transferred to Federal Security Agency by Reorg. Plan No. I of 1939, §§ 201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424, set out in the Appendix to Title 5.
 
-## § 92. Admissions to marine biological station for pursuit of investigations
+## § 92. Admissions to marine biological station for pursuit of investigations
 
 The professors, instructors, and students of the several land-grant, agricultural, and mechanical colleges of the United States shall be admitted to the marine biological station on the Gulf of Mexico on the coast of Florida, to pursue such investigation in fish culture and biology as may be practicable, without cost to the Government, under such rules and regulations as may be from time to time prescribed by the Secretary of Interior.
 
-(Mar. 1, 1911, ch. 189, § 2, 36 Stat. 964; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Aug. 1, 1914, ch. 223, § 1, 38 Stat. 665; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231.)
+(Mar. 1, 1911, ch. 189, § 2, 36 Stat. 964; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Aug. 1, 1914, ch. 223, § 1, 38 Stat. 665; 1939 Reorg. Plan No. II, § 4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section consists of section 2 of act Mar. 1, 1911. Section 1 thereof authorizing the establishment of the marine biological station on the Gulf coast of the State of Florida, referred to in text, on the condition that the State of Florida donate the necessary land and water rights, is not classified to the Code. The provisions of said section 1 requiring donation of the required land and water rights by the State were amended by act Aug. 1, 1914, ch. 223, § 1, 38 Stat. 665, which authorized the donation of the required land and water rights by a corporation, firm, or individual in addition to the State.
+Section consists of section 2 of act Mar. 1, 1911. Section 1 thereof authorizing the establishment of the marine biological station on the Gulf coast of the State of Florida, referred to in text, on the condition that the State of Florida donate the necessary land and water rights, is not classified to the Code. The provisions of said section 1 requiring donation of the required land and water rights by the State were amended by act Aug. 1, 1914, ch. 223, § 1, 38 Stat. 665, which authorized the donation of the required land and water rights by a corporation, firm, or individual in addition to the State.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -137,7 +137,7 @@ Under communication of the Fish and Wildlife Service dated Nov. 12, 1940, it was
 
 Bureau of Fisheries in Department of Commerce which administered marine biological station referred to in text under supervision of Secretary of Commerce transferred to Department of the Interior under direction of Secretary of the Interior by Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, and by Reorg. Plan No. III of 1940, set out in the Appendix to Title 5. Bureau of Fisheries consolidated with Bureau of Biological Survey into Fish and Wildlife Service in Department of the Interior and under supervision of Secretary of the Interior, which was succeeded by United States Fish and Wildlife Service, see section 742b of Title 16, Conservation.
 
-## §§ 93, 94. Repealed. Oct. 31, 1951, ch. 654, § 1(41), (42), 65 Stat. 703
+## §§ 93, 94. Repealed. Oct. 31, 1951, ch. 654, § 1(41), (42), 65 Stat. 703
 
 Section 93, act Nov. 19, 1919, ch. 118, 41 Stat. 360, which related to sale of machine tools to trade, technical, and public schools and universities, had been transferred to section 1180a of former Title 10, Army and Air Force, and was later repealed by act Oct. 31, 1951.
 

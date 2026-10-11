@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—CRIME VICTIMS FUND
 
-### § 20101. Crime Victims Fund
+### § 20101. Crime Victims Fund
 
 **(a) Establishment**
 
@@ -43,9 +43,9 @@ There is created in the Treasury a separate account to be known as the Crime Vic
 
 **(iv)** county public school funds pursuant to section 3613 of title 18;
 
-**(2)** penalty assessments collected under section 3013 of title 18; 1
+**(2)** penalty assessments collected under section 3013 of title 18; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3)** the proceeds of forfeited appearance bonds, bail bonds, and collateral collected under section 3146 of title 18;
 
@@ -69,7 +69,7 @@ Sums deposited in the Fund shall remain in the Fund and be available for expendi
 
 **(d) Availability for judicial branch administrative costs; grant program percentages** The Fund shall be available as follows:
 
-**(1)** Repealed. Pub. L. 105–119, title I, § 109(a)(1), Nov. 26, 1997, 111 Stat. 2457.
+**(1)** Repealed. Pub. L. 105–119, title I, § 109(a)(1), Nov. 26, 1997, 111 Stat. 2457.
 
 **(2)**
 
@@ -135,27 +135,27 @@ Any amount awarded as part of a grant under this subchapter that remains unspent
 
 **(2)** The Attorney General may use 5 percent of the funds available under subsection (d)(2) (prior to distribution) for grants to Indian tribes to establish child victim assistance programs, as appropriate.
 
-**(3)** As used in this subsection, the term “tribe” 2
+**(3)** As used in this subsection, the term “tribe” 2
 
-<sup>2</sup>  So in original. Probably should be “ ‘Indian tribe’ ”.
+<sup>2</sup> So in original. Probably should be “ ‘Indian tribe’ ”.
 
-has the meaning given that term in section 5304(b) <sup>1</sup> of title 25.
+has the meaning given that term in section 5304(b) <sup>1</sup> of title 25.
 
-(Pub. L. 98–473, title II, § 1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, § 102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, § 82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§ 7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, § 504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, § 1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, § 110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, § 230201, title XXXIII, § 330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§ 232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 112], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, § 109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 119], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, § 104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, § 2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, § 1(a)(2) [title I, § 113, formerly § 114], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, § 1(a)(4) [div. A, § 213(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, § 621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, § 111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, § 1132, Jan. 5, 2006, 119 Stat. 3107; Pub. L. 109–435, title I, § 102(b), Dec. 20, 2006, 120 Stat. 3200; Pub. L. 113–163, § 3, Aug. 8, 2014, 128 Stat. 1866; Pub. L. 114–22, title I, § 113(b), May 29, 2015, 129 Stat. 241; Pub. L. 114–236, § 2(c), Oct. 7, 2016, 130 Stat. 967; Pub. L. 115–299, § 5(b), Dec. 7, 2018, 132 Stat. 4387; Pub. L. 117–27, § 2(a), July 22, 2021, 135 Stat. 301.)
+(Pub. L. 98–473, title II, § 1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, § 102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, § 82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§ 7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, § 504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, § 1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, § 110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, § 230201, title XXXIII, § 330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§ 232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 112], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, § 109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, § 1000(a)(1) [title I, § 119], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, § 104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, § 2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, § 1(a)(2) [title I, § 113, formerly § 114], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, § 1(a)(4) [div. A, § 213(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, § 621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, § 111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, § 1132, Jan. 5, 2006, 119 Stat. 3107; Pub. L. 109–435, title I, § 102(b), Dec. 20, 2006, 120 Stat. 3200; Pub. L. 113–163, § 3, Aug. 8, 2014, 128 Stat. 1866; Pub. L. 114–22, title I, § 113(b), May 29, 2015, 129 Stat. 241; Pub. L. 114–236, § 2(c), Oct. 7, 2016, 130 Stat. 967; Pub. L. 115–299, § 5(b), Dec. 7, 2018, 132 Stat. 4387; Pub. L. 117–27, § 2(a), July 22, 2021, 135 Stat. 301.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (b)(1)(B)(i), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (b)(1)(B)(i), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
-Section 3613 of title 18, referred to in subsec. (b)(1)(B)(iv), was repealed effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), by Pub. L. 98–473, title II, §§ 212(a)(2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended.
+Section 3613 of title 18, referred to in subsec. (b)(1)(B)(iv), was repealed effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), by Pub. L. 98–473, title II, §§ 212(a)(2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended.
 
-Section 3671(c)(2) of title 18, referred to in subsec. (b)(4), was renumbered section 3681(c)(2) by Pub. L. 99–646, § 41(a), Nov. 10, 1986, 100 Stat. 3600.
+Section 3671(c)(2) of title 18, referred to in subsec. (b)(4), was renumbered section 3681(c)(2) by Pub. L. 99–646, § 41(a), Nov. 10, 1986, 100 Stat. 3600.
 
-Section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001, referred to in subsec. (d)(5)(C), is section 1(a)(2) [title VI, § 619] of Pub. L. 106–553, which was formerly set out as a note below.
+Section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001, referred to in subsec. (d)(5)(C), is section 1(a)(2) [title VI, § 619] of Pub. L. 106–553, which was formerly set out as a note below.
 
-The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
+The Uniform Code of Military Justice, referred to in subsec. (f)(1), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
 
 Section 5304 of title 25, referred to in subsec. (g)(3), has been amended, and subsec. (b) of section 5304 no longer defines the term “Indian tribe”. However, such term is defined elsewhere in that section.
 
@@ -165,9 +165,9 @@ Section was formerly classified to section 10601 of Title 42, The Public Health 
 
 **Amendments**
 
-2021—Subsec. (b)(6). Pub. L. 117–27, § 2(a)(1), added par. (6).
+2021—Subsec. (b)(6). Pub. L. 117–27, § 2(a)(1), added par. (6).
 
-Subsec. (e). Pub. L. 117–27, § 2(a)(2), substituted “Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General” for “Director”.
+Subsec. (e). Pub. L. 117–27, § 2(a)(2), substituted “Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General” for “Director”.
 
 2018—Subsec. (d)(6). Pub. L. 115–299 added par. (6).
 
@@ -179,69 +179,69 @@ Subsec. (e). Pub. L. 117–27, § 2(a)(2), substituted “Director, except tha
 
 2006—Subsec. (b)(1)(B)(ii). Pub. L. 109–435 substituted “404(a)(7)” for “404(a)(8)”.
 
-Subsec. (b)(5). Pub. L. 109–162, § 1132(1), struck out period at end and inserted “, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—” and subpars. (A) and (B).
+Subsec. (b)(5). Pub. L. 109–162, § 1132(1), struck out period at end and inserted “, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—” and subpars. (A) and (B).
 
-Subsec. (d)(5)(A). Pub. L. 109–162, § 1132(2), substituted “obligated” for “expended”.
+Subsec. (d)(5)(A). Pub. L. 109–162, § 1132(2), substituted “obligated” for “expended”.
 
-Subsec. (g)(1). Pub. L. 109–162, § 1132(3)(A), struck out “, acting through the Director,” after “Attorney General”.
+Subsec. (g)(1). Pub. L. 109–162, § 1132(3)(A), struck out “, acting through the Director,” after “Attorney General”.
 
-Subsec. (g)(2), (3). Pub. L. 109–162, § 1132(3)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (g)(2), (3). Pub. L. 109–162, § 1132(3)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-2001—Subsec. (b)(5). Pub. L. 107–56, § 621(a), added par. (5).
+2001—Subsec. (b)(5). Pub. L. 107–56, § 621(a), added par. (5).
 
-Subsec. (c). Pub. L. 107–77, § 111(b), amended heading and text of subsec. (c) to read as it did the day before enactment of amendment by Pub. L. 107–56. Text, as amended generally by Pub. L. 107–56, read as follows:
+Subsec. (c). Pub. L. 107–77, § 111(b), amended heading and text of subsec. (c) to read as it did the day before enactment of amendment by Pub. L. 107–56. Text, as amended generally by Pub. L. 107–56, read as follows:
 
 “(1) Subject to the availability of money in the Fund, in each fiscal year, beginning with fiscal year 2003, the Director shall distribute not less than 90 percent nor more than 110 percent of the amount distributed from the Fund in the previous fiscal year, except the Director may distribute up to 120 percent of the amount distributed in the previous fiscal year in any fiscal year that the total amount available in the Fund is more than 2 times the amount distributed in the previous fiscal year.
 
 “(2) In each fiscal year, the Director shall distribute amounts from the Fund in accordance with subsection (d) of this section. All sums not distributed during a fiscal year shall remain in reserve in the Fund to be distributed during a subsequent fiscal year. Notwithstanding any other provision of law, all sums deposited in the Fund that are not distributed shall remain in reserve in the Fund for obligation in future fiscal years, without fiscal year limitation.”
 
-Pub. L. 107–56, § 621(b), amended heading and text of subsec. (c) generally.
+Pub. L. 107–56, § 621(b), amended heading and text of subsec. (c) generally.
 
-Subsec. (d)(3). Pub. L. 107–77, § 111(a), inserted before period at end “, and for a Victim Notification System”.
+Subsec. (d)(3). Pub. L. 107–77, § 111(a), inserted before period at end “, and for a Victim Notification System”.
 
-Subsec. (d)(4). Pub. L. 107–56, § 621(c), substituted “to be distributed from” for “deposited in” in introductory provisions, “47.5 percent” for “48.5 percent” in subpars. (A) and (B), and “5 percent” for “3 percent” in subpar. (C).
+Subsec. (d)(4). Pub. L. 107–56, § 621(c), substituted “to be distributed from” for “deposited in” in introductory provisions, “47.5 percent” for “48.5 percent” in subpars. (A) and (B), and “5 percent” for “3 percent” in subpar. (C).
 
-Subsec. (d)(5). Pub. L. 107–56, § 621(d), amended par. (5) generally. Prior to amendment, par. (5) read as follows:
+Subsec. (d)(5). Pub. L. 107–56, § 621(d), amended par. (5) generally. Prior to amendment, par. (5) read as follows:
 
 “(5)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $100,000,000.
 
 “(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title, to provide compensation to victims of international terrorism under the program under section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed.”
 
-2000—Subsec. (c). Pub. L. 106–386, § 2003(d), which directed insertion of “Notwithstanding subsection (d)(5), all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.” at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
+2000—Subsec. (c). Pub. L. 106–386, § 2003(d), which directed insertion of “Notwithstanding subsection (d)(5), all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation.” at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
 
 Subsec. (d)(2). Pub. L. 106–177 designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the first $10,000,000” for “The first $10,000,000”, and added subpar. (B).
 
 Subsec. (d)(3). Pub. L. 106–553, as renumbered by Pub. L. 106–554, inserted “and the Federal Bureau of Investigation” after “United States Attorneys Offices”.
 
-Subsec. (d)(5)(A). Pub. L. 106–386, § 2003(b)(1), substituted “$100,000,000” for “$50,000,000”.
+Subsec. (d)(5)(A). Pub. L. 106–386, § 2003(b)(1), substituted “$100,000,000” for “$50,000,000”.
 
-Subsec. (d)(5)(B). Pub. L. 106–386, § 2003(c)(2), inserted “, to provide compensation to victims of international terrorism under the program under section 10603c of this title,” after “section 10603b of this title”.
+Subsec. (d)(5)(B). Pub. L. 106–386, § 2003(c)(2), inserted “, to provide compensation to victims of international terrorism under the program under section 10603c of this title,” after “section 10603b of this title”.
 
-Subsec. (e). Pub. L. 106–386, § 2003(b)(2), substituted “shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director. Any remaining unobligated sums” for “in excess of $500,000 shall be returned to the Treasury. Any remaining unobligated sums in an amount less than $500,000”.
+Subsec. (e). Pub. L. 106–386, § 2003(b)(2), substituted “shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director. Any remaining unobligated sums” for “in excess of $500,000 shall be returned to the Treasury. Any remaining unobligated sums in an amount less than $500,000”.
 
 1999—Subsec. (d)(3) to (5). Pub. L. 106–113 added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former par. (5) which read as follows: “The Director may set aside up to $500,000 of the reserve fund described in paragraph (4) to make supplemental grants to United States Attorneys Offices to provide necessary assistance to victims of the bombing of the Alfred P. Murrah Federal Building in Oklahoma City, to facilitate observation of and/or participation by such victims in trial proceedings arising therefrom, including, without limitation, provision of lodging and travel assistance, and to pay such other, related expenses determined to be necessary by the Director.”
 
-1997—Subsec. (d)(1). Pub. L. 105–119, § 109(a)(1), struck out par. (1) which read as follows: “The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.”
+1997—Subsec. (d)(1). Pub. L. 105–119, § 109(a)(1), struck out par. (1) which read as follows: “The first $6,200,000 deposited in the Fund in each of the fiscal years 1992 through 1995 and the first $3,000,000 in each fiscal year thereafter shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18.”
 
-Subsec. (d)(2). Pub. L. 105–119, § 109(a)(2), substituted “The first” for “the next”.
+Subsec. (d)(2). Pub. L. 105–119, § 109(a)(2), substituted “The first” for “the next”.
 
-1996—Subsec. (c). Pub. L. 104–132, § 232(c)(1)(A), substituted “under this chapter” for “under this subsection”.
+1996—Subsec. (c). Pub. L. 104–132, § 232(c)(1)(A), substituted “under this chapter” for “under this subsection”.
 
-Subsec. (d)(3)(B). Pub. L. 104–132, § 236, substituted “section 10603(a) of this title” for “section 10603a of this title”.
+Subsec. (d)(3)(B). Pub. L. 104–132, § 236, substituted “section 10603(a) of this title” for “section 10603a of this title”.
 
-Subsec. (d)(4). Pub. L. 104–132, § 232(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Director may retain any portion of the Fund that was deposited during a fiscal year that is in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as a reserve for use in a year in which the Fund falls below the amount available in the previous year. Such reserve may not exceed $20,000,000.”
+Subsec. (d)(4). Pub. L. 104–132, § 232(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The Director may retain any portion of the Fund that was deposited during a fiscal year that is in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as a reserve for use in a year in which the Fund falls below the amount available in the previous year. Such reserve may not exceed $20,000,000.”
 
 Subsec. (d)(5). Pub. L. 104–208 added par. (5).
 
 Subsec. (e). Pub. L. 104–208 substituted “3 succeeding fiscal years” for “2 succeeding fiscal years”.
 
-Pub. L. 104–132, § 232(c)(1)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
+Pub. L. 104–132, § 232(c)(1)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
 “(1) Except as provided in paragraph (2), any sums awarded as part of a grant under this chapter that remain unspent at the end of a fiscal year in which such grant is made may be expended for the purpose for which such grant is made at any time during the next succeeding fiscal year, at the end of which year any remaining unobligated sums shall be returned to the general fund of the Treasury.
 
 “(2) For the purposes of the application of paragraph (1) to any grant under this chapter with respect to fiscal year 1985, there shall be substituted in such paragraph ‘two succeeding fiscal years’ for ‘succeeding fiscal year’ and ‘which period’ for ‘which year’.”
 
-1994—Subsec. (d)(2). Pub. L. 103–322, § 230201(a)(1), added par. (2) and struck out former par. (2) which read as follows: “Of the next $100,000,000 deposited in the Fund in a particular fiscal year—
+1994—Subsec. (d)(2). Pub. L. 103–322, § 230201(a)(1), added par. (2) and struck out former par. (2) which read as follows: “Of the next $100,000,000 deposited in the Fund in a particular fiscal year—
 
 “(A) 49.5 percent shall be available for grants under section 10602 of this title;
 
@@ -251,13 +251,13 @@ Pub. L. 104–132, § 232(c)(1)(B), reenacted heading without change and amend
 
 “(D) 4.5 percent shall be available for grants as provided in section 10603a of this title.”
 
-Subsec. (d)(3). Pub. L. 103–322, § 330025(a), which directed amendment of par. (3) by substituting “section 10603a” for “section 10603(a)” was executed to subpar. (B).
+Subsec. (d)(3). Pub. L. 103–322, § 330025(a), which directed amendment of par. (3) by substituting “section 10603a” for “section 10603(a)” was executed to subpar. (B).
 
-Pub. L. 103–322, § 230201(a)(2), added par. (3) and struck out former par. (3) which read as follows: “The next $5,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603a of this title.”
+Pub. L. 103–322, § 230201(a)(2), added par. (3) and struck out former par. (3) which read as follows: “The next $5,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603a of this title.”
 
-Subsec. (d)(4). Pub. L. 103–322, § 230201(a)(3), added par. (4) and struck out former par. (4) which read as follows: “The next $4,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603(a) of this title.”
+Subsec. (d)(4). Pub. L. 103–322, § 230201(a)(3), added par. (4) and struck out former par. (4) which read as follows: “The next $4,500,000 deposited in the Fund in a particular fiscal year shall be available for grants under section 10603(a) of this title.”
 
-Subsec. (d)(5). Pub. L. 103–322, § 230201(a)(4), struck out par. (5) which read as follows: “Any deposits in the Fund in a particular fiscal year that remain after the funds are distributed under paragraphs (1) through (4) shall be available as follows:
+Subsec. (d)(5). Pub. L. 103–322, § 230201(a)(4), struck out par. (5) which read as follows: “Any deposits in the Fund in a particular fiscal year that remain after the funds are distributed under paragraphs (1) through (4) shall be available as follows:
 
 “(A) 47.5 percent shall be available for grants under section 10602 of this title.
 
@@ -265,15 +265,15 @@ Subsec. (d)(5). Pub. L. 103–322, § 230201(a)(4), struck out par. (5) which 
 
 “(C) 5 percent shall be available for grants under section 10603(c) of this title.”
 
-Subsec. (g)(1). Pub. L. 103–322, § 230201(b), substituted “subsection (d)(2)” for “subsection (d)(2)(D)”.
+Subsec. (g)(1). Pub. L. 103–322, § 230201(b), substituted “subsection (d)(2)” for “subsection (d)(2)(D)”.
 
-1993—Subsec. (d)(2)(C), (D). Pub. L. 103–121, § 110(a)(1), added subpars. (C) and (D).
+1993—Subsec. (d)(2)(C), (D). Pub. L. 103–121, § 110(a)(1), added subpars. (C) and (D).
 
-Subsec. (d)(3). Pub. L. 103–121, § 110(a)(2), substituted “section 10603a of this title” for “section 10603(a) of this title”.
+Subsec. (d)(3). Pub. L. 103–121, § 110(a)(2), substituted “section 10603a of this title” for “section 10603(a) of this title”.
 
-Subsec. (g)(1). Pub. L. 103–121, § 110(a)(3), substituted “subsection (d)(2)(D)” for “subsection (d)(2)(A)(iv)”.
+Subsec. (g)(1). Pub. L. 103–121, § 110(a)(3), substituted “subsection (d)(2)(D)” for “subsection (d)(2)(A)(iv)”.
 
-1992—Subsec. (c). Pub. L. 102–572, § 1001(1), added subsec. (c) and struck out former subsec. (c) which read as follows:
+1992—Subsec. (c). Pub. L. 102–572, § 1001(1), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
 “(1)(A) If the total deposited in the Fund during a particular fiscal year reaches the ceiling sum described in subparagraph (B), the excess over the ceiling sum shall not be part of the Fund. The first $2,200,000 of such excess shall be available to the judicial branch for administrative costs to carry out the functions of the judicial branch under sections 3611 and 3612 of title 18 and the remaining excess shall be deposited in the general fund of the Treasury.
 
@@ -285,7 +285,7 @@ Subsec. (g)(1). Pub. L. 103–121, § 110(a)(3), substituted “subsection (d)
 
 “(2) No deposits shall be made in the Fund after September 30, 1994.”
 
-Subsec. (d). Pub. L. 102–572, § 1001(2), added subsec. (d) and struck out former subsec. (d) which read as follows:
+Subsec. (d). Pub. L. 102–572, § 1001(2), added subsec. (d) and struck out former subsec. (d) which read as follows:
 
 “(1) Sums deposited in the Fund shall remain in the Fund and be available for expenditure under this subsection for grants under this chapter without fiscal year limitation.
 
@@ -315,21 +315,21 @@ Subsec. (d). Pub. L. 102–572, § 1001(2), added subsec. (d) and struck out f
 
 1990—Subsec. (c)(1)(B)(i). Pub. L. 101–647 substituted “1990” for “1991”.
 
-1988—Subsec. (c). Pub. L. 100–690, § 7121(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+1988—Subsec. (c). Pub. L. 100–690, § 7121(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(1) If the total deposited in the Fund during a particular fiscal year reaches the sum of $110 million, the excess over that sum shall be deposited in the general fund of the Treasury and shall not be a part of the Fund.
 
 “(2) No deposits shall be made in the Fund after September 30, 1988.”
 
-Subsec. (d)(2)(C). Pub. L. 100–690, § 7121(b)(2), inserted “, but not in excess of $110,000,000,” after “$105,500,000”.
+Subsec. (d)(2)(C). Pub. L. 100–690, § 7121(b)(2), inserted “, but not in excess of $110,000,000,” after “$105,500,000”.
 
-Subsec. (d)(2)(D). Pub. L. 100–690, § 7121(b)(1), added subpar. (D).
+Subsec. (d)(2)(D). Pub. L. 100–690, § 7121(b)(1), added subpar. (D).
 
-Subsec. (g). Pub. L. 100–690, § 7124, added subsec. (g).
+Subsec. (g). Pub. L. 100–690, § 7124, added subsec. (g).
 
-1986—Subsec. (c)(1). Pub. L. 99–401, § 102(b)(1), substituted “$110 million” for “$100 million”.
+1986—Subsec. (c)(1). Pub. L. 99–401, § 102(b)(1), substituted “$110 million” for “$100 million”.
 
-Subsec. (d)(2). Pub. L. 99–401, § 102(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Fifty percent of the total deposited in the Fund during a particular fiscal year shall be available for grants under section 10602 of this title and fifty percent shall be available for grants under section 10603 of this title.”
+Subsec. (d)(2). Pub. L. 99–401, § 102(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Fifty percent of the total deposited in the Fund during a particular fiscal year shall be available for grants under section 10602 of this title and fifty percent shall be available for grants under section 10603 of this title.”
 
 Subsec. (e). Pub. L. 99–646 designated existing provision as par. (1), substituted “Except as provided in paragraph (2), any” for “Any”, and added par. (2).
 
@@ -341,19 +341,19 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101 of Pub. 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–690, title VII, § 7129, Nov. 18, 1988, 102 Stat. 4423, as amended by Pub. L. 101–647, title V, § 505, Nov. 29, 1990, 104 Stat. 4822, provided that: “The amendments made by this chapter [probably means this subtitle, subtitle D (§§ 7121–7130) of title VII of Pub. L. 100–690, enacting section 20111 of this title, amending this section and sections 20102, 20103, and 20110 of this title, and enacting provisions set out as a note under this section] shall not apply with respect to a State compensation program that was an eligible State crime victim compensation program on the date of the enactment of this Act [Nov. 18, 1988] until October 1, 1991.”
+Pub. L. 100–690, title VII, § 7129, Nov. 18, 1988, 102 Stat. 4423, as amended by Pub. L. 101–647, title V, § 505, Nov. 29, 1990, 104 Stat. 4822, provided that: “The amendments made by this chapter [probably means this subtitle, subtitle D (§§ 7121–7130) of title VII of Pub. L. 100–690, enacting section 20111 of this title, amending this section and sections 20102, 20103, and 20110 of this title, and enacting provisions set out as a note under this section] shall not apply with respect to a State compensation program that was an eligible State crime victim compensation program on the date of the enactment of this Act [Nov. 18, 1988] until October 1, 1991.”
 
 **Effective Date**
 
-Pub. L. 98–473, title II, § 1409, Oct. 12, 1984, 98 Stat. 2178, provided that:
+Pub. L. 98–473, title II, § 1409, Oct. 12, 1984, 98 Stat. 2178, provided that:
 
-> **“(a)** Except as provided in subsection (b), this chapter [chapter XIV (§§ 1401–1411) of title II of Pub. L. 98–473, see Short Title of 1984 Act note set out under section 10101 of this title] and the amendments made by this chapter shall take effect thirty days after the date of enactment of this joint resolution [Oct. 12, 1984].
+> **“(a)** Except as provided in subsection (b), this chapter [chapter XIV (§§ 1401–1411) of title II of Pub. L. 98–473, see Short Title of 1984 Act note set out under section 10101 of this title] and the amendments made by this chapter shall take effect thirty days after the date of enactment of this joint resolution [Oct. 12, 1984].
 
 > **“(b)** Sections 1402, 1403, 1404, and 1407 of this chapter [enacting this subchapter] shall take effect on October 1, 1984.”
 
 **Report**
 
-Pub. L. 117–347, title III, § 322, Jan. 5, 2023, 136 Stat. 6206, provided that:
+Pub. L. 117–347, title III, § 322, Jan. 5, 2023, 136 Stat. 6206, provided that:
 
 > **“(a) In General.—** Not later than 1 year after the date on which the National Academy of Sciences submits the report required under section 3(c) of the Better Cybercrime Metrics Act [Pub. L. 117–116] (34 U.S.C. 30109 note), and once each year thereafter, the Director of the Office for Victims of Crime shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that addresses, to the extent data are available, the nature, extent, and amount of funding under the Victims of Crime Act of 1984 (34 U.S.C. 20101 et seq.) for victims of cybercrimes against individuals.
 
@@ -367,79 +367,79 @@ Pub. L. 117–347, title III, § 322, Jan. 5, 2023, 136 Stat. 6206, provided t
 
 **Victims of September 11, 2001**
 
-Pub. L. 107–56, title VI, § 621(e), Oct. 26, 2001, 115 Stat. 371, provided that:
+Pub. L. 107–56, title VI, § 621(e), Oct. 26, 2001, 115 Stat. 371, provided that:
 
 > “Amounts transferred to the Crime Victims Fund for use in responding to the airplane hijackings and terrorist acts (including any related search, rescue, relief, assistance, or other similar activities) that occurred on September 11, 2001, shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund, notwithstanding—
 
-> **“(1)** section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 [section 1(a)(2) [title VI, § 619] of Pub. L. 106–553, formerly set out as a note below], and any similar limitation on Fund obligations in such Act for Fiscal Year 2002 [see Pub. L. 107–77, title VI, § 619, Nov. 28, 2001, 115 Stat. 802, formerly set out as a note below]; and
+> **“(1)** section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 [section 1(a)(2) [title VI, § 619] of Pub. L. 106–553, formerly set out as a note below], and any similar limitation on Fund obligations in such Act for Fiscal Year 2002 [see Pub. L. 107–77, title VI, § 619, Nov. 28, 2001, 115 Stat. 802, formerly set out as a note below]; and
 
 > **“(2)** subsections (c) and (d) of section 1402 of the Victims of Crime Act of 1984 (42 U.S.C. 10601) [now 34 U.S.C. 20101].”
 
 **Limitation on Amounts Available for Obligation**
 
-Pub. L. 119–74, div. A, title V, § 510, Jan. 23, 2026, 140 Stat. 51, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 (34 U.S.C. 20101) in any fiscal year in excess of $1,950,000,000 shall not be available for obligation until the following fiscal year.”
+Pub. L. 119–74, div. A, title V, § 510, Jan. 23, 2026, 140 Stat. 51, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 (34 U.S.C. 20101) in any fiscal year in excess of $1,950,000,000 shall not be available for obligation until the following fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–42, div. C, title V, § 510, Mar. 9, 2024, 138 Stat. 168.
+Pub. L. 118–42, div. C, title V, § 510, Mar. 9, 2024, 138 Stat. 168.
 
-Pub. L. 117–328, div. B, title V, § 510, Dec. 29, 2022, 136 Stat. 4556.
+Pub. L. 117–328, div. B, title V, § 510, Dec. 29, 2022, 136 Stat. 4556.
 
-Pub. L. 117–103, div. B, title V, § 510, Mar. 15, 2022, 136 Stat. 145.
+Pub. L. 117–103, div. B, title V, § 510, Mar. 15, 2022, 136 Stat. 145.
 
-Pub. L. 116–260, div. B, title V, § 510, Dec. 27, 2020, 134 Stat. 1277.
+Pub. L. 116–260, div. B, title V, § 510, Dec. 27, 2020, 134 Stat. 1277.
 
-Pub. L. 116–93, div. B, title V, § 510, Dec. 20, 2019, 133 Stat. 2426.
+Pub. L. 116–93, div. B, title V, § 510, Dec. 20, 2019, 133 Stat. 2426.
 
-Pub. L. 116–6, div. C, title V, § 510, Feb. 15, 2019, 133 Stat. 130.
+Pub. L. 116–6, div. C, title V, § 510, Feb. 15, 2019, 133 Stat. 130.
 
-Pub. L. 115–141, div. B, title V, § 510, Mar. 23, 2018, 132 Stat. 437.
+Pub. L. 115–141, div. B, title V, § 510, Mar. 23, 2018, 132 Stat. 437.
 
-Pub. L. 115–31, div. B, title III, § 510, May 5, 2017, 131 Stat. 221.
+Pub. L. 115–31, div. B, title III, § 510, May 5, 2017, 131 Stat. 221.
 
-Pub. L. 114–113, div. B, title V, § 510, Dec. 18, 2015, 129 Stat. 2324.
+Pub. L. 114–113, div. B, title V, § 510, Dec. 18, 2015, 129 Stat. 2324.
 
-Pub. L. 113–235, div. B, title V, § 510, Dec. 16, 2014, 128 Stat. 2210.
+Pub. L. 113–235, div. B, title V, § 510, Dec. 16, 2014, 128 Stat. 2210.
 
-Pub. L. 113–76, div. B, title V, § 510, Jan. 17, 2014, 128 Stat. 79.
+Pub. L. 113–76, div. B, title V, § 510, Jan. 17, 2014, 128 Stat. 79.
 
-Pub. L. 113–6, div. B, title V, § 510, Mar. 26, 2013, 127 Stat. 271.
+Pub. L. 113–6, div. B, title V, § 510, Mar. 26, 2013, 127 Stat. 271.
 
-Pub. L. 112–55, div. B, title V, § 512, Nov. 18, 2011, 125 Stat. 632.
+Pub. L. 112–55, div. B, title V, § 512, Nov. 18, 2011, 125 Stat. 632.
 
-Pub. L. 111–117, div. B, title V, § 512, Dec. 16, 2009, 123 Stat. 3151.
+Pub. L. 111–117, div. B, title V, § 512, Dec. 16, 2009, 123 Stat. 3151.
 
-Pub. L. 111–8, div. B, title V, § 512, Mar. 11, 2009, 123 Stat. 596.
+Pub. L. 111–8, div. B, title V, § 512, Mar. 11, 2009, 123 Stat. 596.
 
-Pub. L. 110–161, div. B, title V, § 513, Dec. 26, 2007, 121 Stat. 1926.
+Pub. L. 110–161, div. B, title V, § 513, Dec. 26, 2007, 121 Stat. 1926.
 
-Pub. L. 109–108, title VI, § 612, Nov. 22, 2005, 119 Stat. 2336.
+Pub. L. 109–108, title VI, § 612, Nov. 22, 2005, 119 Stat. 2336.
 
-Pub. L. 108–447, div. B, title VI, § 616, Dec. 8, 2004, 118 Stat. 2915.
+Pub. L. 108–447, div. B, title VI, § 616, Dec. 8, 2004, 118 Stat. 2915.
 
-Pub. L. 108–199, div. B, title VI, § 618, Jan. 23, 2004, 118 Stat. 95.
+Pub. L. 108–199, div. B, title VI, § 618, Jan. 23, 2004, 118 Stat. 95.
 
-Pub. L. 108–7, div. B, title VI, § 617, Feb. 20, 2003, 117 Stat. 102.
+Pub. L. 108–7, div. B, title VI, § 617, Feb. 20, 2003, 117 Stat. 102.
 
-Pub. L. 107–77, title VI, § 619, Nov. 28, 2001, 115 Stat. 802.
+Pub. L. 107–77, title VI, § 619, Nov. 28, 2001, 115 Stat. 802.
 
-Pub. L. 106–553, § 1(a)(2) [title VI, § 619], Dec. 21, 2000, 114 Stat. 2762, 2762A–107.
+Pub. L. 106–553, § 1(a)(2) [title VI, § 619], Dec. 21, 2000, 114 Stat. 2762, 2762A–107.
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 620], Nov. 29, 1999, 113 Stat. 1535, 1501A–55.
+Pub. L. 106–113, div. B, § 1000(a)(1) [title VI, § 620], Nov. 29, 1999, 113 Stat. 1535, 1501A–55.
 
 **Interaction With Any Cap**
 
-Pub. L. 106–177, title I, § 104(b), Mar. 10, 2000, 114 Stat. 36, provided that: “Subsection (a) [amending this section] shall be implemented so that any increase in funding provided thereby shall operate notwithstanding any dollar limitation on the availability of the Crime Victims Fund established under the Victims of Crime Act of 1984 [34 U.S.C. 20101 et seq.].”
+Pub. L. 106–177, title I, § 104(b), Mar. 10, 2000, 114 Stat. 36, provided that: “Subsection (a) [amending this section] shall be implemented so that any increase in funding provided thereby shall operate notwithstanding any dollar limitation on the availability of the Crime Victims Fund established under the Victims of Crime Act of 1984 [34 U.S.C. 20101 et seq.].”
 
 **Transfer of Certain Unobligated Funds**
 
-Pub. L. 105–119, title I, § 109(b), Nov. 26, 1997, 111 Stat. 2457, provided that: “Any unobligated sums hitherto available to the judicial branch pursuant to the paragraph repealed by subsection (a) [former 34 U.S.C. 20101(d)(1)] shall be deemed to be deposits into the Crime Victims Fund as of the effective date hereof [Nov. 26, 1997] and may be used by the Director of the Office for Victims of Crime to improve services for the benefit of crime victims, including the processing and tracking of criminal monetary penalties and related litigation activities, in the Federal criminal justice system.”
+Pub. L. 105–119, title I, § 109(b), Nov. 26, 1997, 111 Stat. 2457, provided that: “Any unobligated sums hitherto available to the judicial branch pursuant to the paragraph repealed by subsection (a) [former 34 U.S.C. 20101(d)(1)] shall be deemed to be deposits into the Crime Victims Fund as of the effective date hereof [Nov. 26, 1997] and may be used by the Director of the Office for Victims of Crime to improve services for the benefit of crime victims, including the processing and tracking of criminal monetary penalties and related litigation activities, in the Federal criminal justice system.”
 
 **Retroactive Transfer to Fund**
 
-Pub. L. 100–690, title VII, § 7130, Nov. 18, 1988, 102 Stat. 4423, provided that: “An amount equivalent to those sums which would have been placed in the Fund under section 1402(b) of the Victims of Crime Act [34 U.S.C. 20101(b)], but for the effect of section 1402(c)(2) of such Act, is hereby transferred to the Fund from any sums not appropriated from the general treasury.”
+Pub. L. 100–690, title VII, § 7130, Nov. 18, 1988, 102 Stat. 4423, provided that: “An amount equivalent to those sums which would have been placed in the Fund under section 1402(b) of the Victims of Crime Act [34 U.S.C. 20101(b)], but for the effect of section 1402(c)(2) of such Act, is hereby transferred to the Fund from any sums not appropriated from the general treasury.”
 
-### § 20102. Crime victim compensation
+### § 20102. Crime victim compensation
 
 **(a) Authority of Director; grants**
 
@@ -507,15 +507,15 @@ Notwithstanding any other law (other than title IV of Public Law 107–42), for 
 
 **(5)** the term “recovery costs” means expenses for personnel directly involved in the recovery efforts to obtain collections from restitution or from subrogation for payment under a civil law suit.
 
-**(e) Relationship to certain Federal programs** Notwithstanding any other law, if the compensation paid by an eligible crime victim compensation program would cover costs that a Federal program, including the program established under title IV of Public Law 107–42, or a federally financed State or local program, would otherwise pay,— 1
+**(e) Relationship to certain Federal programs** Notwithstanding any other law, if the compensation paid by an eligible crime victim compensation program would cover costs that a Federal program, including the program established under title IV of Public Law 107–42, or a federally financed State or local program, would otherwise pay,— 1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 **(1)** such crime victim compensation program shall not pay that compensation; and
 
 **(2)** the other program shall make its payments without regard to the existence of the crime victim compensation program.
 
-(Pub. L. 98–473, title II, § 1403, Oct. 12, 1984, 98 Stat. 2171; Pub. L. 100–690, title VII, §§ 7123(b)(1)–(3), 7125, 7126, Nov. 18, 1988, 102 Stat. 4421–4423; Pub. L. 103–322, title XXIII, §§ 230202, 230203, title XXXIII, § 330025(b), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§ 233(a), (b), 234(a)(1), (b), Apr. 24, 1996, 110 Stat. 1244, 1245; Pub. L. 104–155, § 5, July 3, 1996, 110 Stat. 1394; Pub. L. 107–56, title VI, § 622(a)–(e)(1), Oct. 26, 2001, 115 Stat. 371, 372; Pub. L. 109–162, title XI, § 1133(a), Jan. 5, 2006, 119 Stat. 3108; Pub. L. 117–27, § 2(b), July 22, 2021, 135 Stat. 301; Pub. L. 117–103, div. W, title XIII, §§ 1311, 1316(b), Mar. 15, 2022, 136 Stat. 935, 939.)
+(Pub. L. 98–473, title II, § 1403, Oct. 12, 1984, 98 Stat. 2171; Pub. L. 100–690, title VII, §§ 7123(b)(1)–(3), 7125, 7126, Nov. 18, 1988, 102 Stat. 4421–4423; Pub. L. 103–322, title XXIII, §§ 230202, 230203, title XXXIII, § 330025(b), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§ 233(a), (b), 234(a)(1), (b), Apr. 24, 1996, 110 Stat. 1244, 1245; Pub. L. 104–155, § 5, July 3, 1996, 110 Stat. 1394; Pub. L. 107–56, title VI, § 622(a)–(e)(1), Oct. 26, 2001, 115 Stat. 371, 372; Pub. L. 109–162, title XI, § 1133(a), Jan. 5, 2006, 119 Stat. 3108; Pub. L. 117–27, § 2(b), July 22, 2021, 135 Stat. 301; Pub. L. 117–103, div. W, title XIII, §§ 1311, 1316(b), Mar. 15, 2022, 136 Stat. 935, 939.)
 
 **Editorial Notes**
 
@@ -529,55 +529,55 @@ Section was formerly classified to section 10602 of Title 42, The Public Health 
 
 **Amendments**
 
-2022—Subsec. (a)(1). Pub. L. 117–103, § 1311, substituted “paragraph (4)” for “paragraph (3)”.
+2022—Subsec. (a)(1). Pub. L. 117–103, § 1311, substituted “paragraph (4)” for “paragraph (3)”.
 
-Subsec. (b)(9), (10). Pub. L. 117–103, § 1316(b), added par. (9) and redesignated former par. (9) as (10).
+Subsec. (b)(9), (10). Pub. L. 117–103, § 1316(b), added par. (9) and redesignated former par. (9) as (10).
 
-2021—Subsec. (a)(1). Pub. L. 117–27, § 2(b)(1)(A), substituted “75 percent” for “40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years”.
+2021—Subsec. (a)(1). Pub. L. 117–27, § 2(b)(1)(A), substituted “75 percent” for “40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years”.
 
-Subsec. (a)(2). Pub. L. 117–27, § 2(b)(1)(B), struck out “of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years” after “to provide grants”.
+Subsec. (a)(2). Pub. L. 117–27, § 2(b)(1)(B), struck out “of 40 percent in fiscal year 2002 and of 60 percent in subsequent fiscal years” after “to provide grants”.
 
-Subsec. (a)(3), (4). Pub. L. 117–27, § 2(b)(1)(C), (D), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (a)(3), (4). Pub. L. 117–27, § 2(b)(1)(C), (D), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b)(2). Pub. L. 117–27, § 2(b)(2), substituted “authorities, except if a program determines such cooperation may be impacted due to a victim’s age, physical condition, psychological state, cultural or linguistic barriers, or any other health or safety concern that jeopardizes the victim’s wellbeing;” for “authorities;”.
+Subsec. (b)(2). Pub. L. 117–27, § 2(b)(2), substituted “authorities, except if a program determines such cooperation may be impacted due to a victim’s age, physical condition, psychological state, cultural or linguistic barriers, or any other health or safety concern that jeopardizes the victim’s wellbeing;” for “authorities;”.
 
-Subsec. (d)(5). Pub. L. 117–27, § 2(b)(3), added par. (5).
+Subsec. (d)(5). Pub. L. 117–27, § 2(b)(3), added par. (5).
 
 2006—Subsec. (a)(3). Pub. L. 109–162 inserted “training purposes and” after “may be used for”.
 
-2001—Subsec. (a)(1), (2). Pub. L. 107–56, § 622(a), inserted “in fiscal year 2002 and of 60 percent in subsequent fiscal years” after “40 percent”.
+2001—Subsec. (a)(1), (2). Pub. L. 107–56, § 622(a), inserted “in fiscal year 2002 and of 60 percent in subsequent fiscal years” after “40 percent”.
 
-Subsec. (b)(6)(B). Pub. L. 107–56, § 622(b), which directed striking out “are outside the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or”, was executed by striking out “are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or” after “the places the crimes occurred in” to reflect the probable intent of Congress.
+Subsec. (b)(6)(B). Pub. L. 107–56, § 622(b), which directed striking out “are outside the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or”, was executed by striking out “are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or” after “the places the crimes occurred in” to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 107–56, § 622(c), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Notwithstanding any other law, for the purpose of any maximum allowed income eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance) that becomes necessary to an applicant for such assistance in full or in part because of the commission of a crime against the applicant, as determined by the Director, any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income of the applicant until the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.”
+Subsec. (c). Pub. L. 107–56, § 622(c), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Notwithstanding any other law, for the purpose of any maximum allowed income eligibility requirement in any Federal, State, or local government program using Federal funds that provides medical or other assistance (or payment or reimbursement of the cost of such assistance) that becomes necessary to an applicant for such assistance in full or in part because of the commission of a crime against the applicant, as determined by the Director, any amount of crime victim compensation that the applicant receives through a crime victim compensation program under this section shall not be included in the income of the applicant until the total amount of assistance that the applicant receives from all such programs is sufficient to fully compensate the applicant for losses suffered as a result of the crime.”
 
-Subsec. (d)(3). Pub. L. 107–56, § 622(d)(1), struck out “crimes involving terrorism,” after “section 247 of title 18,”.
+Subsec. (d)(3). Pub. L. 107–56, § 622(d)(1), struck out “crimes involving terrorism,” after “section 247 of title 18,”.
 
-Subsec. (d)(4). Pub. L. 107–56, § 622(d)(2), inserted “the United States Virgin Islands,” after “the Commonwealth of Puerto Rico,”.
+Subsec. (d)(4). Pub. L. 107–56, § 622(d)(2), inserted “the United States Virgin Islands,” after “the Commonwealth of Puerto Rico,”.
 
-Subsec. (e). Pub. L. 107–56, § 622(e)(1), inserted “including the program established under title IV of Public Law 107–42,” after “Federal program,” in introductory provisions.
+Subsec. (e). Pub. L. 107–56, § 622(e)(1), inserted “including the program established under title IV of Public Law 107–42,” after “Federal program,” in introductory provisions.
 
-1996—Subsec. (b)(6)(B). Pub. L. 104–132, § 233(b), inserted “are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or” before “are States not having”.
+1996—Subsec. (b)(6)(B). Pub. L. 104–132, § 233(b), inserted “are outside of the United States (if the compensable crime is terrorism, as defined in section 2331 of title 18), or” before “are States not having”.
 
-Subsec. (b)(8), (9). Pub. L. 104–132, § 234(a)(1), added par. (8) and redesignated former par. (8) as (9).
+Subsec. (b)(8), (9). Pub. L. 104–132, § 234(a)(1), added par. (8) and redesignated former par. (8) as (9).
 
-Subsec. (c). Pub. L. 104–132, § 234(b), added subsec. (c).
+Subsec. (c). Pub. L. 104–132, § 234(b), added subsec. (c).
 
 Subsec. (d)(3). Pub. L. 104–155 inserted “crimes, whose victims suffer death or personal injury, that are described in section 247 of title 18,” after “includes”.
 
-Pub. L. 104–132, § 233(a), substituted “crimes involving terrorism, driving while intoxicated,” for “driving while intoxicated”.
+Pub. L. 104–132, § 233(a), substituted “crimes involving terrorism, driving while intoxicated,” for “driving while intoxicated”.
 
-1994—Subsec. (a)(1). Pub. L. 103–322, § 230203(a), substituted “Except as provided in paragraph (3), a grant” for “A grant” in last sentence.
+1994—Subsec. (a)(1). Pub. L. 103–322, § 230203(a), substituted “Except as provided in paragraph (3), a grant” for “A grant” in last sentence.
 
-Subsec. (a)(3). Pub. L. 103–322, § 230203(b), added par. (3).
+Subsec. (a)(3). Pub. L. 103–322, § 230203(b), added par. (3).
 
-Subsec. (b)(1). Pub. L. 103–322, § 330025(b), inserted before semicolon at end “for—” and subpars. (A) to (C).
+Subsec. (b)(1). Pub. L. 103–322, § 330025(b), inserted before semicolon at end “for—” and subpars. (A) to (C).
 
-Subsec. (e). Pub. L. 103–322, § 230202, added subsec. (e).
+Subsec. (e). Pub. L. 103–322, § 230202, added subsec. (e).
 
-1988—Subsec. (a). Pub. L. 100–690, §§ 7123(b)(1), (2), 7125(b), substituted “Director” for “Attorney General” and “40 percent” for “35 percent” in pars. (1) and (2).
+1988—Subsec. (a). Pub. L. 100–690, §§ 7123(b)(1), (2), 7125(b), substituted “Director” for “Attorney General” and “40 percent” for “35 percent” in pars. (1) and (2).
 
-Subsec. (b)(1). Pub. L. 100–690, § 7125(c)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “such program is operated by a State and offers compensation to victims of crime and survivors of victims of crime for—
+Subsec. (b)(1). Pub. L. 100–690, § 7125(c)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “such program is operated by a State and offers compensation to victims of crime and survivors of victims of crime for—
 
 “(A) medical expenses attributable to a physical injury resulting from compensable crime, including expenses for mental health counseling and care;
 
@@ -585,19 +585,19 @@ Subsec. (b)(1). Pub. L. 100–690, § 7125(c)(1), amended par. (1) generally. 
 
 “(C) funeral expenses attributable to a death resulting from a compensable crime;”.
 
-Subsec. (b)(5). Pub. L. 100–690, § 7125(d), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “such program provides compensation to victims of crimes occurring within such State that would be compensable crimes, but for the fact that such crimes are subject to Federal jurisdiction, on the same basis that such program provides compensation to victims of compensable crimes; and”.
+Subsec. (b)(5). Pub. L. 100–690, § 7125(d), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “such program provides compensation to victims of crimes occurring within such State that would be compensable crimes, but for the fact that such crimes are subject to Federal jurisdiction, on the same basis that such program provides compensation to victims of compensable crimes; and”.
 
-Subsec. (b)(6), (7). Pub. L. 100–690, § 7125(a)(1), added pars. (6) and (7). Former par. (6) redesignated (8).
+Subsec. (b)(6), (7). Pub. L. 100–690, § 7125(a)(1), added pars. (6) and (7). Former par. (6) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 100–690, §§ 7123(b)(3), 7125(a)(2), redesignated par. (6) as (8) and substituted “Director” for “Attorney General”.
+Subsec. (b)(8). Pub. L. 100–690, §§ 7123(b)(3), 7125(a)(2), redesignated par. (6) as (8) and substituted “Director” for “Attorney General”.
 
-Subsec. (c). Pub. L. 100–690, § 7125(e), struck out subsec. (c) which read as follows: “A State crime victim compensation program in effect on the date grants may first be made under this section shall be deemed an eligible crime victim compensation program for the purposes of this section until the day after the close of the first regular session of the legislature of that State that begins after such date.”
+Subsec. (c). Pub. L. 100–690, § 7125(e), struck out subsec. (c) which read as follows: “A State crime victim compensation program in effect on the date grants may first be made under this section shall be deemed an eligible crime victim compensation program for the purposes of this section until the day after the close of the first regular session of the legislature of that State that begins after such date.”
 
-Subsec. (d)(1). Pub. L. 100–690, § 7126(a), inserted reference to eyeglasses or other corrective lenses.
+Subsec. (d)(1). Pub. L. 100–690, § 7126(a), inserted reference to eyeglasses or other corrective lenses.
 
-Subsec. (d)(2). Pub. L. 100–690, § 7126(b), inserted reference to eyeglasses or other corrective lenses and inserted comma after “prosthetic devices”.
+Subsec. (d)(2). Pub. L. 100–690, § 7126(b), inserted reference to eyeglasses or other corrective lenses and inserted comma after “prosthetic devices”.
 
-Subsec. (d)(3). Pub. L. 100–690, § 7125(c)(2), inserted reference to driving while intoxicated and domestic violence.
+Subsec. (d)(3). Pub. L. 100–690, § 7125(c)(2), inserted reference to driving while intoxicated and domestic violence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -607,7 +607,7 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–132, title II, § 233(d), Apr. 24, 1996, 110 Stat. 1245, as amended by Pub. L. 105–119, title I, § 120, Nov. 26, 1997, 111 Stat. 2468, provided that: “This section [amending this section] and the amendments made by this section shall take effect October 1, 1999.”
+Pub. L. 104–132, title II, § 233(d), Apr. 24, 1996, 110 Stat. 1245, as amended by Pub. L. 105–119, title I, § 120, Nov. 26, 1997, 111 Stat. 2468, provided that: “This section [amending this section] and the amendments made by this section shall take effect October 1, 1999.”
 
 **Effective Date of 1988 Amendment**
 
@@ -615,15 +615,15 @@ Amendment by Pub. L. 100–690 not applicable with respect to a State compensati
 
 **Application of Amendment by Section 234(a)(1) of Pub. L. 104–132**
 
-Pub. L. 104–132, title II, § 234(a)(2), Apr. 24, 1996, 110 Stat. 1245, provided that: “Section 1403(b)(8) of the Victims of Crime Act of 1984 [34 U.S.C. 20102(b)(8)], as added by paragraph (1) of this section, shall not be applied to deny victims compensation to any person until the date on which the Attorney General, in consultation with the Director of the Administrative Office of the United States Courts, issues a written determination that a cost-effective, readily available criminal debt payment tracking system operated by the agency responsible for the collection of criminal debt has established cost-effective, readily available communications links with entities that administer Federal victim compensation programs that are sufficient to ensure that victim compensation is not denied to any person except as authorized by law.”
+Pub. L. 104–132, title II, § 234(a)(2), Apr. 24, 1996, 110 Stat. 1245, provided that: “Section 1403(b)(8) of the Victims of Crime Act of 1984 [34 U.S.C. 20102(b)(8)], as added by paragraph (1) of this section, shall not be applied to deny victims compensation to any person until the date on which the Attorney General, in consultation with the Director of the Administrative Office of the United States Courts, issues a written determination that a cost-effective, readily available criminal debt payment tracking system operated by the agency responsible for the collection of criminal debt has established cost-effective, readily available communications links with entities that administer Federal victim compensation programs that are sufficient to ensure that victim compensation is not denied to any person except as authorized by law.”
 
-### § 20103. Crime victim assistance
+### § 20103. Crime victim assistance
 
 **(a) Grant authority of Director; chief executive of States; amount; insufficient funds**
 
-**(1)** Subject to the availability of money in the Fund, the Director shall make an annual grant from any portion of the Fund made available by section 20101(d)(2) 1
+**(1)** Subject to the availability of money in the Fund, the Director shall make an annual grant from any portion of the Fund made available by section 20101(d)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title for the purpose of grants under this subsection, or for the purpose of grants under section 20102 of this title but not used for that purpose, to the chief executive of each State for the financial support of eligible crime victim assistance programs.
 
@@ -717,7 +717,7 @@ of this title for the purpose of grants under this subsection, or for the purpos
 
 **(C)** coordinate victim services provided by the Federal Government with victim services offered by other public agencies and nonprofit organizations;
 
-**(D)** perform such other functions related to the purposes of this title <sup>1</sup> as the Director deems appropriate; and
+**(D)** perform such other functions related to the purposes of this title <sup>1</sup> as the Director deems appropriate; and
 
 **(E)** use funds made available to the Director under this subsection—
 
@@ -757,15 +757,15 @@ of this title for the purpose of grants under this subsection, or for the purpos
 
 **(5)** the term “chief executive” includes a person designated by a chief executive to perform the functions of the chief executive under this section.
 
-(Pub. L. 98–473, title II, § 1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, § 102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, § 71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§ 7122, 7123(b)(4)–(9), 7127, 7128, title IX, § 9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, § 112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§ 230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–132, title II, § 232(c)(2), Apr. 24, 1996, 110 Stat. 1244; Pub. L. 107–56, title VI, § 623, Oct. 26, 2001, 115 Stat. 372; Pub. L. 109–162, title XI, §§ 1131, 1133(b), Jan. 5, 2006, 119 Stat. 3107, 3108; Pub. L. 111–8, div. B, title II, Mar. 11, 2009, 123 Stat. 579; Pub. L. 114–324, § 17(a), Dec. 16, 2016, 130 Stat. 1962; Pub. L. 117–27, § 3, July 22, 2021, 135 Stat. 302.)
+(Pub. L. 98–473, title II, § 1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, § 102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, § 71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§ 7122, 7123(b)(4)–(9), 7127, 7128, title IX, § 9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, § 112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§ 230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–132, title II, § 232(c)(2), Apr. 24, 1996, 110 Stat. 1244; Pub. L. 107–56, title VI, § 623, Oct. 26, 2001, 115 Stat. 372; Pub. L. 109–162, title XI, §§ 1131, 1133(b), Jan. 5, 2006, 119 Stat. 3107, 3108; Pub. L. 111–8, div. B, title II, Mar. 11, 2009, 123 Stat. 579; Pub. L. 114–324, § 17(a), Dec. 16, 2016, 130 Stat. 1962; Pub. L. 117–27, § 3, July 22, 2021, 135 Stat. 302.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 20101(d)(2) of this title, referred to in subsec. (a)(1), was repealed and a new section 20101(d)(2) was added by Pub. L. 103–322, title XXIII, § 230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 20101(d)(2) does not contain provisions relating to availability of Fund money for grants under this section or section 20102 of this title. See section 20101(d)(4) of this title.
+Section 20101(d)(2) of this title, referred to in subsec. (a)(1), was repealed and a new section 20101(d)(2) was added by Pub. L. 103–322, title XXIII, § 230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 20101(d)(2) does not contain provisions relating to availability of Fund money for grants under this section or section 20102 of this title. See section 20101(d)(4) of this title.
 
-The National Emergencies Act, referred to in subsec. (a)(8), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (a)(8), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 This title, referred to in subsec. (c)(3)(D), means title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1976, known as the Comprehensive Crime Control Act of 1984. For complete classification of title II to the Code, see Short Title of 1984 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
@@ -775,35 +775,35 @@ Section was formerly classified to section 10603 of Title 42, The Public Health 
 
 **Amendments**
 
-2021—Subsec. (a)(7). Pub. L. 117–27, § 3(a), added par. (7).
+2021—Subsec. (a)(7). Pub. L. 117–27, § 3(a), added par. (7).
 
-Subsec. (a)(8). Pub. L. 117–27, § 3(b), added par. (8).
+Subsec. (a)(8). Pub. L. 117–27, § 3(b), added par. (8).
 
 2016—Subsec. (c)(1)(A). Pub. L. 114–324 inserted “victim services,” before “demonstration projects”.
 
 2009—Subsec. (c)(3)(E)(i). Pub. L. 111–8 inserted “and for grants under subparagraphs (1)(A) and (B), pursuant to rules or guidelines that generally establish a publicly-announced, competitive process” after “internships”.
 
-2006—Subsec. (b)(3). Pub. L. 109–162, § 1133(b), inserted “training purposes and” after “may be used for”.
+2006—Subsec. (b)(3). Pub. L. 109–162, § 1133(b), inserted “training purposes and” after “may be used for”.
 
-Subsec. (c)(1). Pub. L. 109–162, § 1131(1)(A), struck out comma after “Director” in introductory provisions.
+Subsec. (c)(1). Pub. L. 109–162, § 1131(1)(A), struck out comma after “Director” in introductory provisions.
 
-Subsec. (c)(1)(C). Pub. L. 109–162, § 1131(1)(B)–(D), added subpar. (C).
+Subsec. (c)(1)(C). Pub. L. 109–162, § 1131(1)(B)–(D), added subpar. (C).
 
-Subsec. (c)(2)(A). Pub. L. 109–162, § 1131(2)(A)(i), substituted “paragraphs (1)(A) and (1)(C)” for “paragraph (1)(A)”.
+Subsec. (c)(2)(A). Pub. L. 109–162, § 1131(2)(A)(i), substituted “paragraphs (1)(A) and (1)(C)” for “paragraph (1)(A)”.
 
-Subsec. (c)(2)(C). Pub. L. 109–162, § 1131(2)(A)(ii)–(2)(C), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 109–162, § 1131(2)(A)(ii)–(2)(C), added subpar. (C).
 
-2001—Subsec. (a)(6). Pub. L. 107–56, § 623(a), added par. (6).
+2001—Subsec. (a)(6). Pub. L. 107–56, § 623(a), added par. (6).
 
-Subsec. (b)(1)(F). Pub. L. 107–56, § 623(b), added subpar. (F).
+Subsec. (b)(1)(F). Pub. L. 107–56, § 623(b), added subpar. (F).
 
-Subsec. (c)(1)(A). Pub. L. 107–56, § 623(c), inserted “, program evaluation, compliance efforts,” after “demonstration projects”.
+Subsec. (c)(1)(A). Pub. L. 107–56, § 623(c), inserted “, program evaluation, compliance efforts,” after “demonstration projects”.
 
-Subsec. (c)(2)(A). Pub. L. 107–56, § 623(d)(1), substituted “not less than 50 percent” for “not more than 50 percent”.
+Subsec. (c)(2)(A). Pub. L. 107–56, § 623(d)(1), substituted “not less than 50 percent” for “not more than 50 percent”.
 
-Subsec. (c)(2)(B). Pub. L. 107–56, § 623(d)(2), substituted “not more than 50 percent” for “not less than 50 percent”.
+Subsec. (c)(2)(B). Pub. L. 107–56, § 623(d)(2), substituted “not more than 50 percent” for “not less than 50 percent”.
 
-Subsec. (c)(3)(E). Pub. L. 107–56, § 623(e), added subpar. (E).
+Subsec. (c)(3)(E). Pub. L. 107–56, § 623(e), added subpar. (E).
 
 1996—Subsec. (a)(5). Pub. L. 104–132 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “As used in this subsection, the term ‘base amount’ means—
 
@@ -811,51 +811,51 @@ Subsec. (c)(3)(E). Pub. L. 107–56, § 623(e), added subpar. (E).
 
 “(B) $200,000 thereafter.”
 
-1994—Subsec. (a)(5)(B). Pub. L. 103–322, § 230208, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “$200,000 thereafter through fiscal year 1995.”
+1994—Subsec. (a)(5)(B). Pub. L. 103–322, § 230208, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “$200,000 thereafter through fiscal year 1995.”
 
 Pub. L. 103–317 substituted “1995” for “1994”.
 
-Subsec. (b)(2). Pub. L. 103–322, § 230205(a), substituted “Except as provided in paragraph (3), an eligible” for “An eligible”.
+Subsec. (b)(2). Pub. L. 103–322, § 230205(a), substituted “Except as provided in paragraph (3), an eligible” for “An eligible”.
 
-Subsec. (b)(3). Pub. L. 103–322, § 230205(b), added par. (3).
+Subsec. (b)(3). Pub. L. 103–322, § 230205(b), added par. (3).
 
-Subsec. (c)(1)(A). Pub. L. 103–322, § 230204, inserted “demonstration projects and” before “training”.
+Subsec. (c)(1)(A). Pub. L. 103–322, § 230204, inserted “demonstration projects and” before “training”.
 
-1988—Subsec. (a)(1). Pub. L. 100–690, § 7123(b)(4), substituted “Director” for “Attorney General”.
+1988—Subsec. (a)(1). Pub. L. 100–690, § 7123(b)(4), substituted “Director” for “Attorney General”.
 
-Subsec. (a)(2)(B). Pub. L. 100–690, § 7122(1), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (a)(2)(B). Pub. L. 100–690, § 7122(1), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (a)(2)(C). Pub. L. 100–690, § 7122(2), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+Subsec. (a)(2)(C). Pub. L. 100–690, § 7122(2), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (a)(2)(D). Pub. L. 100–690, § 7123(b)(5), which directed substitution of “Director” for “Attorney General” in subpar. (C), was executed by making substitution in subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D), see below.
+Subsec. (a)(2)(D). Pub. L. 100–690, § 7123(b)(5), which directed substitution of “Director” for “Attorney General” in subpar. (C), was executed by making substitution in subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D), see below.
 
-Pub. L. 100–690, § 7122(2), redesignated subpar. (C) as (D).
+Pub. L. 100–690, § 7122(2), redesignated subpar. (C) as (D).
 
-Subsec. (a)(3) to (5). Pub. L. 100–690, § 7128, substituted “the base amount” for “$100,000” in pars. (3)(A) and (4) and added par. (5).
+Subsec. (a)(3) to (5). Pub. L. 100–690, § 7128, substituted “the base amount” for “$100,000” in pars. (3)(A) and (4) and added par. (5).
 
-Subsec. (c)(1). Pub. L. 100–690, § 7123(b)(6), substituted “Director” for “Attorney General, acting through the Assistant Attorney General for the Office of Justice Programs”.
+Subsec. (c)(1). Pub. L. 100–690, § 7123(b)(6), substituted “Director” for “Attorney General, acting through the Assistant Attorney General for the Office of Justice Programs”.
 
-Subsec. (c)(3). Pub. L. 100–690, § 7123(b)(7), (8), substituted “Director” for “Assistant Attorney General for the Office of Justice Programs” in introductory provisions and “Director deems appropriate” for “Attorney General may assign” in subpar. (D).
+Subsec. (c)(3). Pub. L. 100–690, § 7123(b)(7), (8), substituted “Director” for “Assistant Attorney General for the Office of Justice Programs” in introductory provisions and “Director deems appropriate” for “Attorney General may assign” in subpar. (D).
 
-Subsec. (c)(4). Pub. L. 100–690, § 7123(b)(9), substituted “Director” for “Attorney General”.
+Subsec. (c)(4). Pub. L. 100–690, § 7123(b)(9), substituted “Director” for “Attorney General”.
 
-Subsec. (d)(1). Pub. L. 100–690, § 9306(a), struck out “, except for the purposes of paragraphs (3)(A) and (4) of subsection (a) of this section,” before “any other territory”.
+Subsec. (d)(1). Pub. L. 100–690, § 9306(a), struck out “, except for the purposes of paragraphs (3)(A) and (4) of subsection (a) of this section,” before “any other territory”.
 
-Pub. L. 100–690, § 7127, inserted reference to the United States Virgin Islands.
+Pub. L. 100–690, § 7127, inserted reference to the United States Virgin Islands.
 
-1986—Subsec. (a)(1). Pub. L. 99–401, § 102(b)(5), substituted “made available by section 10601(d)(2) of this title for the purpose of grants under this subsection, or for the purpose of grants under section 10602 of this title but not used for that purpose” for “not used for grants under section 10602 of this title with respect to a particular fiscal year, and after any deduction under subsection (c) of this section”.
+1986—Subsec. (a)(1). Pub. L. 99–401, § 102(b)(5), substituted “made available by section 10601(d)(2) of this title for the purpose of grants under this subsection, or for the purpose of grants under section 10602 of this title but not used for that purpose” for “not used for grants under section 10602 of this title with respect to a particular fiscal year, and after any deduction under subsection (c) of this section”.
 
-Subsec. (c)(1), (2). Pub. L. 99–401, § 102(b)(4), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+Subsec. (c)(1), (2). Pub. L. 99–401, § 102(b)(4), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) The Attorney General may in any fiscal year deduct from amounts available under this section an amount not to exceed 5 percent of the amount in the Fund, and may expend the amount so deducted to provide services to victims of Federal crimes by the Department of Justice, or reimburse other instrumentalities of the Federal Government otherwise authorized to provide such services.
 
 “(2) The Attorney General shall appoint or designate an official of the Department of Justice to be the Federal Crime Victim Assistance Administrator (hereinafter in this chapter referred to as the ‘Federal Administrator’) to exercise the responsibilities of the Attorney General under this subsection.”
 
-Subsec. (c)(2)(A). Pub. L. 99–646, § 71(1), substituted “not more than” for “not less than”.
+Subsec. (c)(2)(A). Pub. L. 99–646, § 71(1), substituted “not more than” for “not less than”.
 
-Subsec. (c)(2)(B). Pub. L. 99–646, § 71(2), substituted “not less than” for “not more than”.
+Subsec. (c)(2)(B). Pub. L. 99–646, § 71(2), substituted “not less than” for “not more than”.
 
-Subsec. (c)(3). Pub. L. 99–401, § 102(b)(4), substituted “The Assistant Attorney General for the Office of Justice Programs shall” for “The Federal Administrator shall”.
+Subsec. (c)(3). Pub. L. 99–401, § 102(b)(4), substituted “The Assistant Attorney General for the Office of Justice Programs shall” for “The Federal Administrator shall”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -863,15 +863,15 @@ Subsec. (c)(3). Pub. L. 99–401, § 102(b)(4), substituted “The Assistant A
 
 Amendment by sections 7122, 7123(b)(4)–(9), 7127, and 7128 of Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 20101 of this title.
 
-### § 20104. Child abuse prevention and treatment grants
+### § 20104. Child abuse prevention and treatment grants
 
-Amounts made available by section 20101(d)(2) of this title for the purposes of this section shall be obligated and expended by the Secretary of Health and Human Services for grants under section 5106c 1
+Amounts made available by section 20101(d)(2) of this title for the purposes of this section shall be obligated and expended by the Secretary of Health and Human Services for grants under section 5106c 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 42. Any portion of an amount which is not obligated by the Secretary by the end of the fiscal year in which funds are made available for allocation, shall be reallocated for award under section 20103(a) of this title, except that with respect to funds deposited during fiscal year 1986 and made available for obligation during fiscal year 1987, any unobligated portion of such amount shall remain available for obligation until September 30, 1988.
 
-(Pub. L. 98–473, title II, § 1404A, as added Pub. L. 99–401, title I, § 102(b)(3), Aug. 27, 1986, 100 Stat. 905; amended Pub. L. 103–121, title I, § 110(b), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–235, title I, § 113(b), Oct. 3, 1996, 110 Stat. 3079.)
+(Pub. L. 98–473, title II, § 1404A, as added Pub. L. 99–401, title I, § 102(b)(3), Aug. 27, 1986, 100 Stat. 905; amended Pub. L. 103–121, title I, § 110(b), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–235, title I, § 113(b), Oct. 3, 1996, 110 Stat. 3079.)
 
 **Editorial Notes**
 
@@ -889,15 +889,15 @@ Section was formerly classified to section 10603a of Title 42, The Public Health
 
 1993—Pub. L. 103–121 substituted “section 10601(d)(2)(D) and (d)(3) of this title.” for “section 10601(d)(2) of this title”.
 
-### § 20105. Compensation and assistance to victims of terrorism or mass violence
+### § 20105. Compensation and assistance to victims of terrorism or mass violence
 
 **(a) Victims of acts of terrorism outside the United States**
 
 **(1) In general**
 
-The Director may make supplemental grants as provided in 20101(d)(5) 1
+The Director may make supplemental grants as provided in 20101(d)(5) 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “section”.
+<sup>1</sup> So in original. Probably should be preceded by “section”.
 
 of this title to States, victim service organizations, and public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, training, and technical assistance, and ongoing assistance, including during any investigation or prosecution, to victims of terrorist acts or mass violence occurring outside the United States.
 
@@ -915,7 +915,7 @@ Nothing in this subsection shall be construed to allow the Director to make gran
 
 The Director may make supplemental grants as provided in section 20101(d)(5) of this title to States for eligible crime victim compensation and assistance programs, and to victim service organizations, public agencies (including Federal, State, or local governments) and nongovernmental organizations that provide assistance to victims of crime, which shall be used to provide emergency relief, including crisis response efforts, assistance, compensation, training and technical assistance, and ongoing assistance, including during any investigation or prosecution, to victims of terrorist acts or mass violence occurring within the United States.
 
-(Pub. L. 98–473, title II, § 1404B, as added Pub. L. 104–132, title II, § 232(a), Apr. 24, 1996, 110 Stat. 1243; amended Pub. L. 106–386, div. C, § 2003(a)(1), (4), Oct. 28, 2000, 114 Stat. 1543, 1544; Pub. L. 107–56, title VI, § 624(a), (b), Oct. 26, 2001, 115 Stat. 373.)
+(Pub. L. 98–473, title II, § 1404B, as added Pub. L. 104–132, title II, § 232(a), Apr. 24, 1996, 110 Stat. 1243; amended Pub. L. 106–386, div. C, § 2003(a)(1), (4), Oct. 28, 2000, 114 Stat. 1543, 1544; Pub. L. 107–56, title VI, § 624(a), (b), Oct. 26, 2001, 115 Stat. 373.)
 
 **Editorial Notes**
 
@@ -925,25 +925,25 @@ Section was formerly classified to section 10603b of Title 42, The Public Health
 
 **Amendments**
 
-2001—Subsec. (a)(1). Pub. L. 107–56, § 624(b), struck out “who are not persons eligible for compensation under title VIII of the Omnibus Diplomatic Security and Antiterrorism Act of 1986” before period at end.
+2001—Subsec. (a)(1). Pub. L. 107–56, § 624(b), struck out “who are not persons eligible for compensation under title VIII of the Omnibus Diplomatic Security and Antiterrorism Act of 1986” before period at end.
 
-Subsec. (b). Pub. L. 107–56, § 624(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Director may make supplemental grants as provided in section 10601(d)(5) of this title to States for eligible crime victim compensation and assistance programs to provide emergency relief, including crisis response efforts, assistance, training, and technical assistance, for the benefit of victims of terrorist acts or mass violence occurring within the United States and may provide funding to United States Attorney’s Offices for use in coordination with State victim compensation and assistance efforts in providing emergency relief.”
+Subsec. (b). Pub. L. 107–56, § 624(a), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The Director may make supplemental grants as provided in section 10601(d)(5) of this title to States for eligible crime victim compensation and assistance programs to provide emergency relief, including crisis response efforts, assistance, training, and technical assistance, for the benefit of victims of terrorist acts or mass violence occurring within the United States and may provide funding to United States Attorney’s Offices for use in coordination with State victim compensation and assistance efforts in providing emergency relief.”
 
-2000—Subsec. (a). Pub. L. 106–386, § 2003(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Director may make supplemental grants as provided in section 10603(a) of this title to States to provide compensation and assistance to the residents of such States who, while outside of the territorial boundaries of the United States, are victims of a terrorist act or mass violence and are not persons eligible for compensation under title VIII of the Omnibus Diplomatic Security and Antiterrorism Act of 1986.”
+2000—Subsec. (a). Pub. L. 106–386, § 2003(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Director may make supplemental grants as provided in section 10603(a) of this title to States to provide compensation and assistance to the residents of such States who, while outside of the territorial boundaries of the United States, are victims of a terrorist act or mass violence and are not persons eligible for compensation under title VIII of the Omnibus Diplomatic Security and Antiterrorism Act of 1986.”
 
-Subsec. (b). Pub. L. 106–386, § 2003(a)(4), substituted “10601(d)(5) of this title” for “10603(d)(4)(B) of this title”.
+Subsec. (b). Pub. L. 106–386, § 2003(a)(4), substituted “10601(d)(5) of this title” for “10603(d)(4)(B) of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–386, div. C, § 2003(a)(2), Oct. 28, 2000, 114 Stat. 1544, provided that: “The amendment made by this subsection [amending this section] shall apply to any terrorist act or mass violence occurring on or after December 21, 1988, with respect to which an investigation or prosecution was ongoing after April 24, 1996.”
+Pub. L. 106–386, div. C, § 2003(a)(2), Oct. 28, 2000, 114 Stat. 1544, provided that: “The amendment made by this subsection [amending this section] shall apply to any terrorist act or mass violence occurring on or after December 21, 1988, with respect to which an investigation or prosecution was ongoing after April 24, 1996.”
 
 **Administrative Guidelines**
 
-Pub. L. 106–386, div. C, § 2003(a)(3), Oct. 28, 2000, 114 Stat. 1544, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 28, 2000], the Director shall establish guidelines under section 1407(a) of the Victims of Crime Act of 1984 (42 U.S.C. 10604(a)) [now 34 U.S.C. 20110(a)] to specify the categories of organizations and agencies to which the Director may make grants under this subsection [amending this section and enacting provisions set out as a note under this section].”
+Pub. L. 106–386, div. C, § 2003(a)(3), Oct. 28, 2000, 114 Stat. 1544, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 28, 2000], the Director shall establish guidelines under section 1407(a) of the Victims of Crime Act of 1984 (42 U.S.C. 10604(a)) [now 34 U.S.C. 20110(a)] to specify the categories of organizations and agencies to which the Director may make grants under this subsection [amending this section and enacting provisions set out as a note under this section].”
 
-### § 20106. Compensation to victims of international terrorism
+### § 20106. Compensation to victims of international terrorism
 
 **(a) Definitions** In this section:
 
@@ -995,7 +995,7 @@ The Director may use the emergency reserve referred to in section 20101(d)(5)(A)
 
 **(4)** an analysis of future program needs and suggested program improvements.
 
-(Pub. L. 98–473, title II, § 1404C, as added Pub. L. 106–386, div. C, § 2003(c)(1), Oct. 28, 2000, 114 Stat. 1544; amended Pub. L. 107–56, title VI, § 624(c), Oct. 26, 2001, 115 Stat. 373; Pub. L. 110–181, div. A, title X, § 1083(b)(4), Jan. 28, 2008, 122 Stat. 342.)
+(Pub. L. 98–473, title II, § 1404C, as added Pub. L. 106–386, div. C, § 2003(c)(1), Oct. 28, 2000, 114 Stat. 1544; amended Pub. L. 107–56, title VI, § 624(c), Oct. 26, 2001, 115 Stat. 373; Pub. L. 110–181, div. A, title X, § 1083(b)(4), Jan. 28, 2008, 122 Stat. 342.)
 
 **Editorial Notes**
 
@@ -1019,7 +1019,7 @@ Section was formerly classified to section 10603c of Title 42, The Public Health
 
 For applicability of amendments by Pub. L. 110–181 to pending cases, see section 1083(c) of Pub. L. 110–181, set out as an Effective Date note under section 1605A of Title 28, Judiciary and Judicial Procedure.
 
-### § 20107. Crime victims legal assistance grants
+### § 20107. Crime victims legal assistance grants
 
 **(a) In general**
 
@@ -1033,7 +1033,7 @@ Grant amounts under this section may not be used to bring a cause of action for 
 
 Notwithstanding any other provision of law, amounts collected pursuant to sections 3729 through 3731 of title 31 (commonly known as the “False Claims Act”) may be used for grants under this section, subject to appropriation.
 
-(Pub. L. 98–473, title II, § 1404D, as added Pub. L. 108–405, title I, § 103(a), Oct. 30, 2004, 118 Stat. 2264.)
+(Pub. L. 98–473, title II, § 1404D, as added Pub. L. 108–405, title I, § 103(a), Oct. 30, 2004, 118 Stat. 2264.)
 
 **Editorial Notes**
 
@@ -1041,7 +1041,7 @@ Notwithstanding any other provision of law, amounts collected pursuant to sectio
 
 Section was formerly classified to section 10603d of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20108. Crime victims notification grants
+### § 20108. Crime victims notification grants
 
 **(a) In general**
 
@@ -1061,7 +1061,7 @@ Systems developed and implemented under this section may be integrated with exis
 
 Notwithstanding any other provision of law, amounts collected pursuant to sections 3729 through 3731 of title 31 (commonly known as the “False Claims Act”) may be used for grants under this section, subject to appropriation.
 
-(Pub. L. 98–473, title II, § 1404E, as added Pub. L. 108–405, title I, § 103(c), Oct. 30, 2004, 118 Stat. 2265.)
+(Pub. L. 98–473, title II, § 1404E, as added Pub. L. 108–405, title I, § 103(c), Oct. 30, 2004, 118 Stat. 2265.)
 
 **Editorial Notes**
 
@@ -1069,7 +1069,7 @@ Notwithstanding any other provision of law, amounts collected pursuant to sectio
 
 Section was formerly classified to section 10603e of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20109. Sexual assault survivors’ notification grants
+### § 20109. Sexual assault survivors’ notification grants
 
 **(a) In general**
 
@@ -1105,7 +1105,7 @@ The Attorney General may provide such technical assistance and guidance as neces
 
 Any system developed and implemented under this section may be integrated with an existing case management system operated by the recipient of the grant if the system meets the requirements listed in this section.
 
-(Pub. L. 98–473, title II, § 1404F, as added Pub. L. 114–236, § 3, Oct. 7, 2016, 130 Stat. 967.)
+(Pub. L. 98–473, title II, § 1404F, as added Pub. L. 114–236, § 3, Oct. 7, 2016, 130 Stat. 967.)
 
 **Editorial Notes**
 
@@ -1113,7 +1113,7 @@ Any system developed and implemented under this section may be integrated with a
 
 Section was formerly classified to section 10603f of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20110. Administrative provisions
+### § 20110. Administrative provisions
 
 **(a) Authority of Director to establish rules and regulations**
 
@@ -1151,7 +1151,7 @@ The Director shall, on December 31, 1990, and on June 30 every two years thereaf
 
 Each entity receiving sums made available under this subchapter for administrative purposes shall certify that such sums will not be used to supplant State or local funds, but will be used to increase the amount of such funds that would, in the absence of Federal funds, be made available for these purposes.
 
-(Pub. L. 98–473, title II, § 1407, Oct. 12, 1984, 98 Stat. 2176; Pub. L. 99–646, § 48, Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, § 7123(b)(10)–(14), Nov. 18, 1988, 102 Stat. 4421, 4422; Pub. L. 103–322, title XXIII, §§ 230206, 230207, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–294, title VI, § 604(b)(9), Oct. 11, 1996, 110 Stat. 3507.)
+(Pub. L. 98–473, title II, § 1407, Oct. 12, 1984, 98 Stat. 2176; Pub. L. 99–646, § 48, Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, § 7123(b)(10)–(14), Nov. 18, 1988, 102 Stat. 4421, 4422; Pub. L. 103–322, title XXIII, §§ 230206, 230207, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–294, title VI, § 604(b)(9), Oct. 11, 1996, 110 Stat. 3507.)
 
 **Editorial Notes**
 
@@ -1165,21 +1165,21 @@ Section was formerly classified to section 10604 of Title 42, The Public Health 
 
 **Amendments**
 
-1996—Subsec. (g). Pub. L. 104–294 amended directory language of Pub. L. 103–322, § 230207. See 1994 Amendment note below.
+1996—Subsec. (g). Pub. L. 104–294 amended directory language of Pub. L. 103–322, § 230207. See 1994 Amendment note below.
 
-1994—Subsec. (g). Pub. L. 103–322, § 230207, as amended by Pub. L. 104–294, substituted “and on June 30 every two years thereafter” for “and on December 31 every 2 years thereafter”.
+1994—Subsec. (g). Pub. L. 103–322, § 230207, as amended by Pub. L. 104–294, substituted “and on June 30 every two years thereafter” for “and on December 31 every 2 years thereafter”.
 
-Subsec. (h). Pub. L. 103–322, § 230206, added subsec. (h).
+Subsec. (h). Pub. L. 103–322, § 230206, added subsec. (h).
 
-1988—Subsec. (a). Pub. L. 100–690, § 7123(b)(10), substituted “Director” for “Attorney General” in two places and “under this chapter” for “under this chapter and may delegate to any officer or employee of the Department of Justice any such function as the Attorney General deems appropriate”.
+1988—Subsec. (a). Pub. L. 100–690, § 7123(b)(10), substituted “Director” for “Attorney General” in two places and “under this chapter” for “under this chapter and may delegate to any officer or employee of the Department of Justice any such function as the Attorney General deems appropriate”.
 
-Subsec. (b). Pub. L. 100–690, § 7123(b)(11), substituted “Director” for “Attorney General”.
+Subsec. (b). Pub. L. 100–690, § 7123(b)(11), substituted “Director” for “Attorney General”.
 
-Subsec. (c). Pub. L. 100–690, § 7123(b)(12), which directed substitution of “Director” for “Attorney General or any duly authorized representative of the Attorney General”, was executed by making substitution in two places.
+Subsec. (c). Pub. L. 100–690, § 7123(b)(12), which directed substitution of “Director” for “Attorney General or any duly authorized representative of the Attorney General”, was executed by making substitution in two places.
 
-Subsec. (f). Pub. L. 100–690, § 7123(b)(13), substituted “Director” for “Attorney General” two places in introductory provisions and in pars. (2) and (3).
+Subsec. (f). Pub. L. 100–690, § 7123(b)(13), substituted “Director” for “Attorney General” two places in introductory provisions and in pars. (2) and (3).
 
-Subsec. (g). Pub. L. 100–690, § 7123(b)(14), substituted “Director” for “Attorney General” in two places and “on December 31, 1990, and on December 31 every 2 years thereafter” for “no later than December 31, 1987”.
+Subsec. (g). Pub. L. 100–690, § 7123(b)(14), substituted “Director” for “Attorney General” in two places and “on December 31, 1990, and on December 31 every 2 years thereafter” for “no later than December 31, 1987”.
 
 1986—Subsecs. (g), (h). Pub. L. 99–646 redesignated subsec. (h) as (g) and substituted “1402”, which was translated as “section 10601 of this title” for “1302”, which had been editorially translated as “section 10601 of this title”, thereby requiring no change in text.
 
@@ -1193,7 +1193,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 Amendment by Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 20101 of this title.
 
-### § 20111. Establishment of Office for Victims of Crime
+### § 20111. Establishment of Office for Victims of Crime
 
 **(a) Office established within Department of Justice**
 
@@ -1203,7 +1203,7 @@ There is established within the Department of Justice an Office for Victims of C
 
 The Office shall be headed by a Director (referred to in this subchapter as the “Director”), who shall be appointed by the President. The Director shall report to the Attorney General through the Assistant Attorney General for the Office of Justice Programs and shall have final authority for all grants, cooperative agreements, and contracts awarded by the Office. The Director shall not engage in any employment other than that of serving as the Director, nor shall the Director hold any office in, or act in any capacity for, any organization, agency, or institution with which the Office makes any contract or other agreement under this subchapter.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(c) Duties of Director** The Director shall have the following duties:
 
@@ -1217,7 +1217,7 @@ The Office shall be headed by a Director (referred to in this subchapter as the 
 
 **(5)** Such other functions as the Attorney General may delegate.
 
-(Pub. L. 98–473, title II, § 1411, as added Pub. L. 100–690, title VII, § 7123(a), Nov. 18, 1988, 102 Stat. 4420; amended Pub. L. 112–166, § 2(h)(5), Aug. 10, 2012, 126 Stat. 1285.)
+(Pub. L. 98–473, title II, § 1411, as added Pub. L. 100–690, title VII, § 7123(a), Nov. 18, 1988, 102 Stat. 4420; amended Pub. L. 112–166, § 2(h)(5), Aug. 10, 2012, 126 Stat. 1285.)
 
 **Editorial Notes**
 
@@ -1231,7 +1231,7 @@ Section was formerly classified to section 10605 of Title 42, The Public Health 
 
 **Amendments**
 
-2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
+2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1245,7 +1245,7 @@ Section not applicable with respect to a State compensation program that was an 
 
 ## SUBCHAPTER II—VICTIMS OF DOMESTIC VIOLENCE, DATING VIOLENCE, SEXUAL ASSAULT, AND STALKING
 
-### § 20121. Legal assistance for victims
+### § 20121. Legal assistance for victims
 
 **(a) In general**
 
@@ -1315,7 +1315,7 @@ Of the amount made available under this subsection in each fiscal year, not less
 
 Not less than 7 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 10452 of this title.
 
-**(ii) Applicability of part 1 [footnote: 1 See References in Text note below.]**
+**(ii) Applicability of part 1 [footnote: 1 See References in Text note below.]**
 
 The requirements of this section shall not apply to funds allocated for the program described in clause (i).
 
@@ -1327,7 +1327,7 @@ Of the amount made available under this subsection in each fiscal year, not less
 
 Amounts made available under this section shall be used to supplement and not supplant other Federal, State, and local funds expended to further the purpose of this section.
 
-(Pub. L. 106–386, div. B, title II, § 1201, Oct. 28, 2000, 114 Stat. 1504; Pub. L. 108–405, title II, § 205, Oct. 30, 2004, 118 Stat. 2271; Pub. L. 109–162, title I, § 103, title IX, § 906(f), formerly § 906(g), Jan. 5, 2006, 119 Stat. 2978, 3082, renumbered § 906(f), Pub. L. 109–271, § 7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, § 7(d)(1), Aug. 12, 2006, 120 Stat. 765; Pub. L. 113–4, title I, § 103, Mar. 7, 2013, 127 Stat. 73; Pub. L. 117–103, div. W, title I, § 103, Mar. 15, 2022, 136 Stat. 850.)
+(Pub. L. 106–386, div. B, title II, § 1201, Oct. 28, 2000, 114 Stat. 1504; Pub. L. 108–405, title II, § 205, Oct. 30, 2004, 118 Stat. 2271; Pub. L. 109–162, title I, § 103, title IX, § 906(f), formerly § 906(g), Jan. 5, 2006, 119 Stat. 2978, 3082, renumbered § 906(f), Pub. L. 109–271, § 7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, § 7(d)(1), Aug. 12, 2006, 120 Stat. 765; Pub. L. 113–4, title I, § 103, Mar. 7, 2013, 127 Stat. 73; Pub. L. 117–103, div. W, title I, § 103, Mar. 15, 2022, 136 Stat. 850.)
 
 **Editorial Notes**
 
@@ -1341,67 +1341,67 @@ Section was formerly classified to section 3796gg–6 of Title 42, The Public He
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–103, § 103(1), inserted “When legal assistance to a dependent is necessary for the safety of a victim, such assistance may be provided.” after “no cost to the victims.”
+2022—Subsec. (a). Pub. L. 117–103, § 103(1), inserted “When legal assistance to a dependent is necessary for the safety of a victim, such assistance may be provided.” after “no cost to the victims.”
 
-Subsec. (d)(1). Pub. L. 117–103, § 103(2)(A), amended par. (1) generally. Prior to amendment, par. (1) related to any person providing legal assistance through a program funded under subsection (c) of this section.
+Subsec. (d)(1). Pub. L. 117–103, § 103(2)(A), amended par. (1) generally. Prior to amendment, par. (1) related to any person providing legal assistance through a program funded under subsection (c) of this section.
 
-Subsec. (d)(2). Pub. L. 117–103, § 103(2)(B), substituted “local, or culturally specific” for “or local”.
+Subsec. (d)(2). Pub. L. 117–103, § 103(2)(B), substituted “local, or culturally specific” for “or local”.
 
-Subsec. (d)(4). Pub. L. 117–103, § 103(2)(C), inserted “stalking,” after “dating violence,”.
+Subsec. (d)(4). Pub. L. 117–103, § 103(2)(C), inserted “stalking,” after “dating violence,”.
 
-Subsec. (f)(1). Pub. L. 117–103, § 103(3), substituted “$60,000,000” for “$57,000,000” and “2023 through 2027” for “2014 through 2018”.
+Subsec. (f)(1). Pub. L. 117–103, § 103(3), substituted “$60,000,000” for “$57,000,000” and “2023 through 2027” for “2014 through 2018”.
 
-2013—Subsec. (a). Pub. L. 113–4, § 103(1), substituted “relating to or arising out of” for “arising as a consequence of” and inserted “or arising out of” after “criminal matters relating to”.
+2013—Subsec. (a). Pub. L. 113–4, § 103(1), substituted “relating to or arising out of” for “arising as a consequence of” and inserted “or arising out of” after “criminal matters relating to”.
 
-Subsec. (b). Pub. L. 113–4, § 103(2), inserted “and grant conditions” after “Definitions” in heading and after “definitions” in text.
+Subsec. (b). Pub. L. 113–4, § 103(2), inserted “and grant conditions” after “Definitions” in heading and after “definitions” in text.
 
-Subsec. (c)(1). Pub. L. 113–4, § 103(3)(A), which directed the substitution of “victim service providers” for “victims services organizations”, was executed by making the substitution for “victim services organizations” to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 113–4, § 103(3)(A), which directed the substitution of “victim service providers” for “victims services organizations”, was executed by making the substitution for “victim services organizations” to reflect the probable intent of Congress.
 
-Subsec. (c)(3). Pub. L. 113–4, § 103(3)(B), added par. (3) and struck out former par. (3) which read as follows: “to provide training, technical assistance, and data collection to improve the capacity of grantees and other entities to offer legal assistance to victims of domestic violence, dating violence, stalking, and sexual assault.”
+Subsec. (c)(3). Pub. L. 113–4, § 103(3)(B), added par. (3) and struck out former par. (3) which read as follows: “to provide training, technical assistance, and data collection to improve the capacity of grantees and other entities to offer legal assistance to victims of domestic violence, dating violence, stalking, and sexual assault.”
 
-Subsec. (d)(1). Pub. L. 113–4, § 103(4)(A), which directed substitution of “this section—” and subpars. (A) and (B) for “this section has completed or will complete training in connection with domestic violence, dating violence, or sexual assault and related legal issues;”, was executed by making the substitution for “has completed or will complete training in connection with domestic violence, dating violence, or sexual assault and related legal issues;” to reflect the probable intent of Congress because “this section” did not appear in text prior to the amendment.
+Subsec. (d)(1). Pub. L. 113–4, § 103(4)(A), which directed substitution of “this section—” and subpars. (A) and (B) for “this section has completed or will complete training in connection with domestic violence, dating violence, or sexual assault and related legal issues;”, was executed by making the substitution for “has completed or will complete training in connection with domestic violence, dating violence, or sexual assault and related legal issues;” to reflect the probable intent of Congress because “this section” did not appear in text prior to the amendment.
 
-Subsec. (d)(2). Pub. L. 113–4, § 103(4)(B), substituted “stalking victim service provider” for “stalking organization”.
+Subsec. (d)(2). Pub. L. 113–4, § 103(4)(B), substituted “stalking victim service provider” for “stalking organization”.
 
-Subsec. (f)(1). Pub. L. 113–4, § 103(5), substituted “this section $57,000,000 for each of fiscal years 2014 through 2018.” for “this section $65,000,000 for each of fiscal years 2007 through 2011.”
+Subsec. (f)(1). Pub. L. 113–4, § 103(5), substituted “this section $57,000,000 for each of fiscal years 2014 through 2018.” for “this section $65,000,000 for each of fiscal years 2007 through 2011.”
 
-2006—Subsec. (a). Pub. L. 109–162, § 103(1), inserted “civil and criminal” after “availability of”, “adult and youth” after “effective aid to”, and “Criminal legal assistance provided for under this section shall be limited to criminal matters relating to domestic violence, sexual assault, dating violence, and stalking.” at end.
+2006—Subsec. (a). Pub. L. 109–162, § 103(1), inserted “civil and criminal” after “availability of”, “adult and youth” after “effective aid to”, and “Criminal legal assistance provided for under this section shall be limited to criminal matters relating to domestic violence, sexual assault, dating violence, and stalking.” at end.
 
-Subsec. (b). Pub. L. 109–162, § 103(2), reenacted subsec. heading without change and amended text generally. Prior to amendment, text defined for purposes of this section the terms “dating violence”, “domestic violence”, “legal assistance”, and “sexual assault”.
+Subsec. (b). Pub. L. 109–162, § 103(2), reenacted subsec. heading without change and amended text generally. Prior to amendment, text defined for purposes of this section the terms “dating violence”, “domestic violence”, “legal assistance”, and “sexual assault”.
 
-Subsec. (c). Pub. L. 109–162, § 103(3), inserted “and tribal organizations, territorial organizations” after “Indian tribal governments” in introductory provisions.
+Subsec. (c). Pub. L. 109–162, § 103(3), inserted “and tribal organizations, territorial organizations” after “Indian tribal governments” in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 109–162, § 103(4), added par. (2) and struck out former par. (2) which read as follows: “any training program conducted in satisfaction of the requirement of paragraph (1) has been or will be developed with input from and in collaboration with a State, local, or tribal domestic violence, dating violence, or sexual assault program or coalition, as well as appropriate State and local law enforcement officials;”.
+Subsec. (d)(2). Pub. L. 109–162, § 103(4), added par. (2) and struck out former par. (2) which read as follows: “any training program conducted in satisfaction of the requirement of paragraph (1) has been or will be developed with input from and in collaboration with a State, local, or tribal domestic violence, dating violence, or sexual assault program or coalition, as well as appropriate State and local law enforcement officials;”.
 
-Subsec. (e). Pub. L. 109–162, § 103(5), which directed amendment identical to that made by Pub. L. 108–405, § 205(5), was not executed. See 2004 Amendment note below.
+Subsec. (e). Pub. L. 109–162, § 103(5), which directed amendment identical to that made by Pub. L. 108–405, § 205(5), was not executed. See 2004 Amendment note below.
 
-Subsec. (f)(1). Pub. L. 109–162, § 103(6)(A), added par. (1) and struck out former par. (1). Former text read as follows: “There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005.”
+Subsec. (f)(1). Pub. L. 109–162, § 103(6)(A), added par. (1) and struck out former par. (1). Former text read as follows: “There is authorized to be appropriated to carry out this section $40,000,000 for each of fiscal years 2001 through 2005.”
 
-Subsec. (f)(2)(A). Pub. L. 109–271, § 7(d)(1)(A)(i), substituted “3 percent” for “10 percent”.
+Subsec. (f)(2)(A). Pub. L. 109–271, § 7(d)(1)(A)(i), substituted “3 percent” for “10 percent”.
 
-Pub. L. 109–162, § 103(6)(B), substituted “10 percent” for “5 percent” and inserted “adult and youth” after “that assist”.
+Pub. L. 109–162, § 103(6)(B), substituted “10 percent” for “5 percent” and inserted “adult and youth” after “that assist”.
 
-Subsec. (f)(2)(B), (C). Pub. L. 109–271, § 7(d)(1)(A)(ii), (iii), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (f)(2)(B), (C). Pub. L. 109–271, § 7(d)(1)(A)(ii), (iii), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (f)(4). Pub. L. 109–271, § 7(d)(1)(B), struck out par. (4) which read as follows: “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this paragraph shall not apply to funds allocated for such program.”
+Subsec. (f)(4). Pub. L. 109–271, § 7(d)(1)(B), struck out par. (4) which read as follows: “Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized in section 3796gg–10 of this title. The requirements of this paragraph shall not apply to funds allocated for such program.”
 
-Pub. L. 109–162, § 906(f), formerly § 906(g), as renumbered by Pub. L. 109–271, § 7(b)(2)(B), added par. (4).
+Pub. L. 109–162, § 906(f), formerly § 906(g), as renumbered by Pub. L. 109–271, § 7(b)(2)(B), added par. (4).
 
-2004—Subsec. (a). Pub. L. 108–405, § 205(1), inserted “dating violence,” after “domestic violence,”.
+2004—Subsec. (a). Pub. L. 108–405, § 205(1), inserted “dating violence,” after “domestic violence,”.
 
-Subsec. (b)(1) to (4). Pub. L. 108–405, § 205(2), added par. (1), redesignated former pars. (1) to (3) as (2) to (4), respectively, and inserted “dating violence,” after “domestic violence,” in par. (3).
+Subsec. (b)(1) to (4). Pub. L. 108–405, § 205(2), added par. (1), redesignated former pars. (1) to (3) as (2) to (4), respectively, and inserted “dating violence,” after “domestic violence,” in par. (3).
 
-Subsec. (c)(1). Pub. L. 108–405, § 205(3)(A), inserted “, dating violence,” after “between domestic violence” and “dating violence,” after “victims of domestic violence,”.
+Subsec. (c)(1). Pub. L. 108–405, § 205(3)(A), inserted “, dating violence,” after “between domestic violence” and “dating violence,” after “victims of domestic violence,”.
 
-Subsec. (c)(2), (3). Pub. L. 108–405, § 205(3)(B), (C), inserted “dating violence,” after “domestic violence,”.
+Subsec. (c)(2), (3). Pub. L. 108–405, § 205(3)(B), (C), inserted “dating violence,” after “domestic violence,”.
 
-Subsec. (d)(1) to (3). Pub. L. 108–405, § 205(4)(A)–(C), inserted “, dating violence,” after “domestic violence”.
+Subsec. (d)(1) to (3). Pub. L. 108–405, § 205(4)(A)–(C), inserted “, dating violence,” after “domestic violence”.
 
-Subsec. (d)(4). Pub. L. 108–405, § 205(4)(D), inserted “dating violence,” after “domestic violence,”.
+Subsec. (d)(4). Pub. L. 108–405, § 205(4)(D), inserted “dating violence,” after “domestic violence,”.
 
-Subsec. (e). Pub. L. 108–405, § 205(5), inserted “dating violence,” after “domestic violence,”.
+Subsec. (e). Pub. L. 108–405, § 205(5), inserted “dating violence,” after “domestic violence,”.
 
-Subsec. (f)(2)(A). Pub. L. 108–405, § 205(6), inserted “dating violence,” after “domestic violence,”.
+Subsec. (f)(2)(A). Pub. L. 108–405, § 205(6), inserted “dating violence,” after “domestic violence,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1417,7 +1417,7 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 10261 of this title.
 
-### § 20122. Education, training, and enhanced services to end violence against and abuse of individuals with disabilities and Deaf people
+### § 20122. Education, training, and enhanced services to end violence against and abuse of individuals with disabilities and Deaf people
 
 **(a) In general** The Attorney General, in consultation with the Secretary of Health and Human Services, may award grants to eligible entities—
 
@@ -1461,9 +1461,9 @@ Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 
 
 **(2) Limitation**
 
-A grant awarded for the purpose described in subsection (b)(8) shall only be awarded to an eligible agency (as defined in section 796f–5 1
+A grant awarded for the purpose described in subsection (b)(8) shall only be awarded to an eligible agency (as defined in section 796f–5 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 29).
 
@@ -1475,13 +1475,13 @@ In awarding grants under this section, the Director shall ensure that the needs 
 
 There are authorized to be appropriated $15,000,000 for each of fiscal years 2023 through 2027 to carry out this section.
 
-(Pub. L. 106–386, div. B, title IV, § 1402, Oct. 28, 2000, 114 Stat. 1513; Pub. L. 109–162, title II, § 204(a), Jan. 5, 2006, 119 Stat. 3000; Pub. L. 113–4, title II, § 203, Mar. 7, 2013, 127 Stat. 82; Pub. L. 117–103, div. W, title II, § 203, Mar. 15, 2022, 136 Stat. 857.)
+(Pub. L. 106–386, div. B, title IV, § 1402, Oct. 28, 2000, 114 Stat. 1513; Pub. L. 109–162, title II, § 204(a), Jan. 5, 2006, 119 Stat. 3000; Pub. L. 113–4, title II, § 203, Mar. 7, 2013, 127 Stat. 82; Pub. L. 117–103, div. W, title II, § 203, Mar. 15, 2022, 136 Stat. 857.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(5)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(5)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 Section 796f–5 of title 29, referred to in subsec. (c)(2), was in the original “section 410 of the Rehabilitation Act of 1973 (29 U.S.C. 796f–5)” and was translated as meaning section 726 of the Rehabilitation Act of 1973, to reflect the probable intent of Congress.
 
@@ -1491,29 +1491,29 @@ Section was formerly classified to section 3796gg–7 of Title 42, The Public He
 
 **Amendments**
 
-2022—Pub. L. 117–103, § 203(1), substituted “individuals with disabilities and Deaf people” for “women with disabilities” in section catchline.
+2022—Pub. L. 117–103, § 203(1), substituted “individuals with disabilities and Deaf people” for “women with disabilities” in section catchline.
 
-Subsec. (a)(1). Pub. L. 117–103, § 203(2), substituted “sexual assault, and abuse by caregivers” for “and sexual assault” and inserted “and Deaf people” after “with disabilities (as defined in section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102))”.
+Subsec. (a)(1). Pub. L. 117–103, § 203(2), substituted “sexual assault, and abuse by caregivers” for “and sexual assault” and inserted “and Deaf people” after “with disabilities (as defined in section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102))”.
 
-Subsec. (b). Pub. L. 117–103, § 203(3)(A), substituted “individuals with disabilities and Deaf people” for “disabled individuals” wherever appearing.
+Subsec. (b). Pub. L. 117–103, § 203(3)(A), substituted “individuals with disabilities and Deaf people” for “disabled individuals” wherever appearing.
 
-Subsec. (b)(3). Pub. L. 117–103, § 203(3)(B), inserted “and other first responders” after “law enforcement”.
+Subsec. (b)(3). Pub. L. 117–103, § 203(3)(B), inserted “and other first responders” after “law enforcement”.
 
-Subsec. (b)(8). Pub. L. 117–103, § 203(3)(C), substituted “to enhance the capacity of” for “providing advocacy and intervention services within”.
+Subsec. (b)(8). Pub. L. 117–103, § 203(3)(C), substituted “to enhance the capacity of” for “providing advocacy and intervention services within”.
 
-Subsec. (c)(1)(D). Pub. L. 117–103, § 203(4), substituted “individuals with disabilities and Deaf people” for “disabled individuals”.
+Subsec. (c)(1)(D). Pub. L. 117–103, § 203(4), substituted “individuals with disabilities and Deaf people” for “disabled individuals”.
 
-Subsec. (e). Pub. L. 117–103, § 203(5), substituted “$15,000,000” for “$9,000,000” and “2023 through 2027” for “2014 through 2018”.
+Subsec. (e). Pub. L. 117–103, § 203(5), substituted “$15,000,000” for “$9,000,000” and “2023 through 2027” for “2014 through 2018”.
 
-2013—Subsec. (b)(1). Pub. L. 113–4, § 203(1)(A), inserted “(including using evidence-based indicators to assess the risk of domestic and dating violence homicide)” after “risk reduction”.
+2013—Subsec. (b)(1). Pub. L. 113–4, § 203(1)(A), inserted “(including using evidence-based indicators to assess the risk of domestic and dating violence homicide)” after “risk reduction”.
 
-Subsec. (b)(4). Pub. L. 113–4, § 203(1)(B), substituted “victim service providers” for “victim service organizations”.
+Subsec. (b)(4). Pub. L. 113–4, § 203(1)(B), substituted “victim service providers” for “victim service organizations”.
 
-Subsec. (b)(5). Pub. L. 113–4, § 203(1)(C), substituted “victim service providers” for “victim services organizations” in introductory provisions.
+Subsec. (b)(5). Pub. L. 113–4, § 203(1)(C), substituted “victim service providers” for “victim services organizations” in introductory provisions.
 
-Subsec. (c)(1)(D). Pub. L. 113–4, § 203(2), substituted “victim service provider, such as a State or tribal” for “nonprofit and nongovernmental victim services organization, such as a State”.
+Subsec. (c)(1)(D). Pub. L. 113–4, § 203(2), substituted “victim service provider, such as a State or tribal” for “nonprofit and nongovernmental victim services organization, such as a State”.
 
-Subsec. (e). Pub. L. 113–4, § 203(3), substituted “$9,000,000 for each of fiscal years 2014 through 2018” for “$10,000,000 for each of the fiscal years 2007 through 2011”.
+Subsec. (e). Pub. L. 113–4, § 203(3), substituted “$9,000,000 for each of fiscal years 2014 through 2018” for “$10,000,000 for each of the fiscal years 2007 through 2011”.
 
 2006—Pub. L. 109–162 substituted “Education, training, and enhanced services to end violence against and abuse of women with disabilities” for “Education and training to end violence against and abuse of women with disabilities” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) relating to award of grants to provide education and technical assistance for the purpose of providing training, consultation, and information on domestic violence, stalking, and sexual assault against women who are individuals with disabilities and authorized appropriations for fiscal years 2001 through 2005.
 
@@ -1535,7 +1535,7 @@ Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 
 
 For definitions of terms used in this section, see section 1002 of Pub. L. 106–386, set out as a note under section 10447 of this title.
 
-### § 20123. Grants for outreach and services to underserved populations
+### § 20123. Grants for outreach and services to underserved populations
 
 **(a) Grants authorized**
 
@@ -1599,7 +1599,7 @@ In addition to the funds identified in subsection (a)(1), there are authorized t
 
 In this section the definitions and grant conditions in section 12291 of this title shall apply.
 
-(Pub. L. 109–162, title I, § 120, Jan. 5, 2006, 119 Stat. 2990; Pub. L. 109–271, §§ 1(c)(2), 2(h), Aug. 12, 2006, 120 Stat. 750, 752; Pub. L. 113–4, title I, § 108, Mar. 7, 2013, 127 Stat. 78; Pub. L. 117–103, div. W, title I, § 105, Mar. 15, 2022, 136 Stat. 851.)
+(Pub. L. 109–162, title I, § 120, Jan. 5, 2006, 119 Stat. 2990; Pub. L. 109–271, §§ 1(c)(2), 2(h), Aug. 12, 2006, 120 Stat. 750, 752; Pub. L. 113–4, title I, § 108, Mar. 7, 2013, 127 Stat. 78; Pub. L. 117–103, div. W, title I, § 105, Mar. 15, 2022, 136 Stat. 851.)
 
 **Editorial Notes**
 
@@ -1609,19 +1609,19 @@ Section was formerly classified to section 14045 of Title 42, The Public Health 
 
 **Amendments**
 
-2022—Subsec. (b)(3). Pub. L. 117–103, § 105(1), inserted “Native Hawaiian,” before “or local organization”.
+2022—Subsec. (b)(3). Pub. L. 117–103, § 105(1), inserted “Native Hawaiian,” before “or local organization”.
 
-Subsec. (d)(4). Pub. L. 117–103, § 105(2)(A)(i), (ii), substituted “response” for “effectiveness” and inserted “population-specific” before “training”.
+Subsec. (d)(4). Pub. L. 117–103, § 105(2)(A)(i), (ii), substituted “response” for “effectiveness” and inserted “population-specific” before “training”.
 
-Subsec. (d)(6), (7). Pub. L. 117–103, § 105(2)(A)(iii), (B), (C), added pars. (6) and (7).
+Subsec. (d)(6), (7). Pub. L. 117–103, § 105(2)(A)(iii), (B), (C), added pars. (6) and (7).
 
-Subsec. (g). Pub. L. 117–103, § 105(3), substituted “$6,000,000” for “$2,000,000” and “2023 through 2027” for “2014 through 2018”.
+Subsec. (g). Pub. L. 117–103, § 105(3), substituted “$6,000,000” for “$2,000,000” and “2023 through 2027” for “2014 through 2018”.
 
 2013—Pub. L. 113–4 amended section generally. Prior to amendment, section related to grants for outreach to underserved populations.
 
-2006—Subsec. (g). Pub. L. 109–271, § 2(h), struck out “, every 18 months,” after “Office of Violence Against Women”.
+2006—Subsec. (g). Pub. L. 109–271, § 2(h), struck out “, every 18 months,” after “Office of Violence Against Women”.
 
-Subsec. (i). Pub. L. 109–271, § 1(c)(2), added subsec. (i).
+Subsec. (i). Pub. L. 109–271, § 1(c)(2), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1633,7 +1633,7 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
-### § 20124. Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking
+### § 20124. Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking
 
 **(a) Establishment**
 
@@ -1645,9 +1645,9 @@ Of the amounts appropriated under certain grant programs identified in paragraph
 
 **(A)** Section 10461 of this title (Grants to Encourage Arrest Policies and Enforcement of Protection Orders).
 
-**(B)** Section 20121 of this title 1
+**(B)** Section 20121 of this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (Legal Assistance for Victims).
 
@@ -1669,9 +1669,9 @@ Of the total amount available for grants under this section, not less than 40 pe
 
 **(B) Alternative allocation**
 
-Notwithstanding 12291(b)(11) 2
+Notwithstanding 12291(b)(11) 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “section”.
+<sup>2</sup> So in original. Probably should be preceded by “section”.
 
 of this title, the Director may allocate a portion of funds described in subparagraph (A) to enhanced technical assistance relating to non-intimate partner sexual assault if the Office on Violence Against Women does not receive sufficient qualified applications proposing to address non-intimate partner relationship sexual assault.
 
@@ -1705,9 +1705,9 @@ of this title, the Director may allocate a portion of funds described in subpara
 
 The Director shall provide technical assistance and training to grantees of this and other programs under this Act regarding the development and provision of effective culturally specific community-based services by entering into cooperative agreements or contracts with an organization or organizations having a demonstrated expertise in and whose primary purpose is addressing the development and provision of culturally specific community-based services to victims of domestic violence, dating violence, sexual assault, and stalking. Not less than 1 such organization shall have demonstrated expertise primarily in domestic violence services, and not less than 1 such organization shall have demonstrated expertise primarily in non-intimate partner sexual assault services.
 
-**(c) Eligible entities** Eligible entities for grants under this Section 3
+**(c) Eligible entities** Eligible entities for grants under this Section 3
 
-<sup>3</sup>  So in original. Probably should not be capitalized.
+<sup>3</sup> So in original. Probably should not be capitalized.
 
 include—
 
@@ -1725,13 +1725,13 @@ The Director shall award a contract or cooperative agreement to evaluate program
 
 **(f) Non-exclusivity**
 
-Nothing in this Section <sup>3</sup> shall be interpreted to exclude culturally specific community-based programs from applying to other grant programs authorized under this Act.
+Nothing in this Section <sup>3</sup> shall be interpreted to exclude culturally specific community-based programs from applying to other grant programs authorized under this Act.
 
 **(g) Definitions and grant conditions**
 
 In this section the definitions and grant conditions in section 12291 of this title shall apply.
 
-(Pub. L. 109–162, title I, § 121, Jan. 5, 2006, 119 Stat. 2991; Pub. L. 109–271, §§ 1(c)(3), 2(k), Aug. 12, 2006, 120 Stat. 751, 753; Pub. L. 113–4, title I, § 109, Mar. 7, 2013, 127 Stat. 80; Pub. L. 117–103, div. W, title I, § 108, title IX, § 901(e), Mar. 15, 2022, 136 Stat. 852, 911.)
+(Pub. L. 109–162, title I, § 121, Jan. 5, 2006, 119 Stat. 2991; Pub. L. 109–271, §§ 1(c)(3), 2(k), Aug. 12, 2006, 120 Stat. 751, 753; Pub. L. 113–4, title I, § 109, Mar. 7, 2013, 127 Stat. 80; Pub. L. 117–103, div. W, title I, § 108, title IX, § 901(e), Mar. 15, 2022, 136 Stat. 852, 911.)
 
 **Editorial Notes**
 
@@ -1739,7 +1739,7 @@ In this section the definitions and grant conditions in section 12291 of this ti
 
 Section 20121 of this title, referred to in subsec. (a)(2)(B), was in the original “Section 14201 of division B of the Victims of Trafficking and Violence Protection Act of 2000 (42 U.S.C. 3796gg–6)”, which was translated as meaning “Section 1201 of division B of the Victims of Trafficking and Violence Protection Act of 2000 (42 U.S.C. 3796gg–6)”, which is section 1201 of title II of div. B of Pub. L. 106–386, to reflect the probable intent of Congress. Section 1201 of title II of div. B of Pub. L. 106–386 was classified as section 3796gg–6 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as section 20121 of this title.
 
-The parenthetical reference “(Enhanced Training and Services to End Violence Against Women Later in Life)” appearing after “Section 14041a of title 42” in subsec. (a)(2)(D), probably should be “(Enhanced Training and Services to End Violence Against and Abuse of Women Later in Life)”. Section 14041a of Title 42, The Public Health and Welfare, was omitted in the general amendment of Part G of subchapter III of chapter 136 of Title 42 by Pub. L. 113–4, title II, § 204(a), Mar. 7, 2013, 127 Stat. 82.
+The parenthetical reference “(Enhanced Training and Services to End Violence Against Women Later in Life)” appearing after “Section 14041a of title 42” in subsec. (a)(2)(D), probably should be “(Enhanced Training and Services to End Violence Against and Abuse of Women Later in Life)”. Section 14041a of Title 42, The Public Health and Welfare, was omitted in the general amendment of Part G of subchapter III of chapter 136 of Title 42 by Pub. L. 113–4, title II, § 204(a), Mar. 7, 2013, 127 Stat. 82.
 
 This Act, referred to in subsecs. (b)(3) and (f), is Pub. L. 109–162, Jan. 5, 2006, 119 Stat. 2960, known as the Violence Against Women and Department of Justice Reauthorization Act of 2005. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
@@ -1749,29 +1749,29 @@ Section was formerly classified to section 14045a of Title 42, The Public Health
 
 **Amendments**
 
-2022—Subsec. (a)(1). Pub. L. 117–103, § 901(e), substituted “the Office on Violence Against Women” for “the Violence Against Women Office”.
+2022—Subsec. (a)(1). Pub. L. 117–103, § 901(e), substituted “the Office on Violence Against Women” for “the Violence Against Women Office”.
 
-Pub. L. 117–103, § 108(1)(A)(ii), substituted “shall take 15 percent of such appropriated amounts for the program under paragraph (2)(A) and 5 percent of such appropriated amounts for the programs under subparagraphs (B) through (E) of paragraph (2)” for “shall take 5 percent of such appropriated amounts”.
+Pub. L. 117–103, § 108(1)(A)(ii), substituted “shall take 15 percent of such appropriated amounts for the program under paragraph (2)(A) and 5 percent of such appropriated amounts for the programs under subparagraphs (B) through (E) of paragraph (2)” for “shall take 5 percent of such appropriated amounts”.
 
-Pub. L. 117–103, § 108(1)(A)(i), which directed substitution of “paragraph (2)” for “paragraph (a)(2) of this subsection”, was executed by making the substitution for “paragraph (a)(2) of this Section”, to reflect the probable intent of Congress.
+Pub. L. 117–103, § 108(1)(A)(i), which directed substitution of “paragraph (2)” for “paragraph (a)(2) of this subsection”, was executed by making the substitution for “paragraph (a)(2) of this Section”, to reflect the probable intent of Congress.
 
-Subsec. (a)(3), (4). Pub. L. 117–103, § 108(1)(B), added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 117–103, § 108(1)(B), added pars. (3) and (4).
 
-Subsec. (b)(3). Pub. L. 117–103, § 108(2), inserted at end “Not less than 1 such organization shall have demonstrated expertise primarily in domestic violence services, and not less than 1 such organization shall have demonstrated expertise primarily in non-intimate partner sexual assault services.”
+Subsec. (b)(3). Pub. L. 117–103, § 108(2), inserted at end “Not less than 1 such organization shall have demonstrated expertise primarily in domestic violence services, and not less than 1 such organization shall have demonstrated expertise primarily in non-intimate partner sexual assault services.”
 
-Subsecs. (e) to (h). Pub. L. 117–103, § 108(3), (4), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “The Director shall award grants for a 2-year period, with a possible extension of another 2 years to implement projects under the grant.”
+Subsecs. (e) to (h). Pub. L. 117–103, § 108(3), (4), redesignated subsecs. (f) to (h) as (e) to (g), respectively, and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “The Director shall award grants for a 2-year period, with a possible extension of another 2 years to implement projects under the grant.”
 
-2013—Pub. L. 113–4, § 109(1)–(3), struck out “and linguistically” after “culturally” in section catchline and wherever appearing in text and struck out “and linguistic” after “cultural” in subsecs. (b)(2) and (f).
+2013—Pub. L. 113–4, § 109(1)–(3), struck out “and linguistically” after “culturally” in section catchline and wherever appearing in text and struck out “and linguistic” after “cultural” in subsecs. (b)(2) and (f).
 
-Subsec. (a)(2). Pub. L. 113–4, § 109(4), added par. (2) and struck out former par. (2) which related to covered programs.
+Subsec. (a)(2). Pub. L. 113–4, § 109(4), added par. (2) and struck out former par. (2) which related to covered programs.
 
-Subsec. (g). Pub. L. 113–4, § 109(5), struck out “linguistic and” before “culturally”.
+Subsec. (g). Pub. L. 113–4, § 109(5), struck out “linguistic and” before “culturally”.
 
-2006—Subsec. (a)(1). Pub. L. 109–271, § 2(k)(1), inserted “The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.” at end.
+2006—Subsec. (a)(1). Pub. L. 109–271, § 2(k)(1), inserted “The requirements of the grant programs identified in paragraph (2) shall not apply to this new grant program.” at end.
 
-Subsec. (b)(2). Pub. L. 109–271, § 2(k)(2), which directed substituting “, including—” and subpars. (A) to (H) for the period, was executed by making the substitution for the period at the end to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 109–271, § 2(k)(2), which directed substituting “, including—” and subpars. (A) to (H) for the period, was executed by making the substitution for the period at the end to reflect the probable intent of Congress.
 
-Subsec. (h). Pub. L. 109–271, § 1(c)(3), added subsec. (h).
+Subsec. (h). Pub. L. 109–271, § 1(c)(3), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1787,7 +1787,7 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10261 of this title.
 
-### § 20125. Grants to combat violent crimes on campuses
+### § 20125. Grants to combat violent crimes on campuses
 
 **(a) Grants authorized**
 
@@ -1893,7 +1893,7 @@ Upon completion of the grant period under this section, the institution shall fi
 
 **(D)** an evaluation of the effectiveness of programs funded under this part.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(e) Authorization of appropriations**
 
@@ -1905,7 +1905,7 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 In this section the definitions and grant conditions in section 12291 of this title shall apply.
 
-(Pub. L. 109–162, title III, § 304, Jan. 5, 2006, 119 Stat. 3013; Pub. L. 109–271, §§ 1(c)(1), 4(b), (d), Aug. 12, 2006, 120 Stat. 750, 758; Pub. L. 113–4, title III, § 303, Mar. 7, 2013, 127 Stat. 87; Pub. L. 117–103, div. W, title III, § 303(a), Mar. 15, 2022, 136 Stat. 866.)
+(Pub. L. 109–162, title III, § 304, Jan. 5, 2006, 119 Stat. 3013; Pub. L. 109–271, §§ 1(c)(1), 4(b), (d), Aug. 12, 2006, 120 Stat. 750, 758; Pub. L. 113–4, title III, § 303, Mar. 7, 2013, 127 Stat. 87; Pub. L. 117–103, div. W, title III, § 303(a), Mar. 15, 2022, 136 Stat. 866.)
 
 **Editorial Notes**
 
@@ -1921,53 +1921,53 @@ Section was formerly classified to section 14045b of Title 42, The Public Health
 
 **Amendments**
 
-2022—Subsec. (a)(2), (3). Pub. L. 117–103, § 303(a)(1), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Attorney General shall award grants and contracts under this section on a competitive basis for a period of 3 years. The Attorney General, through the Director of the Office on Violence Against Women, shall award the grants in amounts of not more than $300,000 for individual institutions of higher education and not more than $1,000,000 for consortia of such institutions.”
+2022—Subsec. (a)(2), (3). Pub. L. 117–103, § 303(a)(1), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Attorney General shall award grants and contracts under this section on a competitive basis for a period of 3 years. The Attorney General, through the Director of the Office on Violence Against Women, shall award the grants in amounts of not more than $300,000 for individual institutions of higher education and not more than $1,000,000 for consortia of such institutions.”
 
-Subsec. (b)(2). Pub. L. 117–103, § 303(a)(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “To develop, strengthen, and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault and stalking, including the use of technology to commit these crimes, and to train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards on such policies, protocols, and services. Within 90 days after January 5, 2006, the Attorney General shall issue and make available minimum standards of training relating to domestic violence, dating violence, sexual assault, and stalking on campus, for all campus security personnel and personnel serving on campus disciplinary or judicial boards.”
+Subsec. (b)(2). Pub. L. 117–103, § 303(a)(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “To develop, strengthen, and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault and stalking, including the use of technology to commit these crimes, and to train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards on such policies, protocols, and services. Within 90 days after January 5, 2006, the Attorney General shall issue and make available minimum standards of training relating to domestic violence, dating violence, sexual assault, and stalking on campus, for all campus security personnel and personnel serving on campus disciplinary or judicial boards.”
 
-Subsec. (b)(3). Pub. L. 117–103, § 303(a)(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “To implement and operate education programs for the prevention of domestic violence, dating violence, sexual assault, and stalking.”
+Subsec. (b)(3). Pub. L. 117–103, § 303(a)(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “To implement and operate education programs for the prevention of domestic violence, dating violence, sexual assault, and stalking.”
 
-Subsec. (b)(9). Pub. L. 117–103, § 303(a)(2)(C), substituted “, provide, and disseminate” for “and provide”.
+Subsec. (b)(9). Pub. L. 117–103, § 303(a)(2)(C), substituted “, provide, and disseminate” for “and provide”.
 
-Subsec. (b)(10). Pub. L. 117–103, § 303(a)(2)(D), inserted “and disseminate” after “or adapt”.
+Subsec. (b)(10). Pub. L. 117–103, § 303(a)(2)(D), inserted “and disseminate” after “or adapt”.
 
-Subsec. (b)(11) to (13). Pub. L. 117–103, § 303(a)(2)(E), added pars. (11) to (13).
+Subsec. (b)(11) to (13). Pub. L. 117–103, § 303(a)(2)(E), added pars. (11) to (13).
 
-Subsec. (c)(3). Pub. L. 117–103, § 303(a)(3), substituted “2023 through 2027” for “2014 through 2018”.
+Subsec. (c)(3). Pub. L. 117–103, § 303(a)(3), substituted “2023 through 2027” for “2014 through 2018”.
 
-Subsec. (d)(3)(B). Pub. L. 117–103, § 303(a)(4)(A)(i), substituted “for all students” for “for all incoming students”.
+Subsec. (d)(3)(B). Pub. L. 117–103, § 303(a)(4)(A)(i), substituted “for all students” for “for all incoming students”.
 
-Subsec. (d)(3)(D). Pub. L. 117–103, § 303(a)(4)(A)(ii), added subpar. (D) and struck out former subpar. (D). Prior to amendment, subpar. (D) read as follows: “The grantee shall train all members of campus disciplinary boards to respond effectively to situations involving domestic violence, dating violence, sexual assault, or stalking.”
+Subsec. (d)(3)(D). Pub. L. 117–103, § 303(a)(4)(A)(ii), added subpar. (D) and struck out former subpar. (D). Prior to amendment, subpar. (D) read as follows: “The grantee shall train all members of campus disciplinary boards to respond effectively to situations involving domestic violence, dating violence, sexual assault, or stalking.”
 
-Subsec. (d)(4)(C). Pub. L. 117–103, § 303(a)(4)(B), inserted “sexual orientation, gender identity,” after “sex,”.
+Subsec. (d)(4)(C). Pub. L. 117–103, § 303(a)(4)(B), inserted “sexual orientation, gender identity,” after “sex,”.
 
-Subsec. (e). Pub. L. 117–103, § 303(a)(5), substituted “$15,000,000 for each of fiscal years 2023 through 2027, of which not less than 10 percent shall be made available for grants to historically Black colleges and universities” for “$12,000,000 for each of fiscal years 2014 through 2018”.
+Subsec. (e). Pub. L. 117–103, § 303(a)(5), substituted “$15,000,000 for each of fiscal years 2023 through 2027, of which not less than 10 percent shall be made available for grants to historically Black colleges and universities” for “$12,000,000 for each of fiscal years 2014 through 2018”.
 
-2013—Subsec. (a)(1). Pub. L. 113–4, § 303(1)(A), substituted “stalking on campuses,” for “stalking on campuses, and” and “crimes on” for “crimes against women on” and inserted “, and to develop and strengthen prevention education and awareness programs” before period at end.
+2013—Subsec. (a)(1). Pub. L. 113–4, § 303(1)(A), substituted “stalking on campuses,” for “stalking on campuses, and” and “crimes on” for “crimes against women on” and inserted “, and to develop and strengthen prevention education and awareness programs” before period at end.
 
-Subsec. (a)(2). Pub. L. 113–4, § 303(1)(B), substituted “$300,000” for “$500,000”.
+Subsec. (a)(2). Pub. L. 113–4, § 303(1)(B), substituted “$300,000” for “$500,000”.
 
-Subsec. (b)(2). Pub. L. 113–4, § 303(2)(A), inserted “, strengthen,” after “To develop” and “including the use of technology to commit these crimes,” after “sexual assault and stalking,”.
+Subsec. (b)(2). Pub. L. 113–4, § 303(2)(A), inserted “, strengthen,” after “To develop” and “including the use of technology to commit these crimes,” after “sexual assault and stalking,”.
 
-Subsec. (b)(4). Pub. L. 113–4, § 303(2)(B), inserted “and population specific services” after “strengthen victim services programs” and “, regardless of whether the services are provided by the institution or in coordination with community victim service providers” before period at end, and substituted “victim service providers” for “entities carrying out nonprofit and other victim services programs, including domestic violence, dating violence, sexual assault, and stalking victim services programs”.
+Subsec. (b)(4). Pub. L. 113–4, § 303(2)(B), inserted “and population specific services” after “strengthen victim services programs” and “, regardless of whether the services are provided by the institution or in coordination with community victim service providers” before period at end, and substituted “victim service providers” for “entities carrying out nonprofit and other victim services programs, including domestic violence, dating violence, sexual assault, and stalking victim services programs”.
 
-Subsec. (b)(9), (10). Pub. L. 113–4, § 303(2)(C), added pars. (9) and (10).
+Subsec. (b)(9), (10). Pub. L. 113–4, § 303(2)(C), added pars. (9) and (10).
 
-Subsec. (c)(2)(B). Pub. L. 113–4, § 303(3)(A)(i), substituted “victim service providers” for “any non-profit, nongovernmental entities carrying out other victim services programs”.
+Subsec. (c)(2)(B). Pub. L. 113–4, § 303(3)(A)(i), substituted “victim service providers” for “any non-profit, nongovernmental entities carrying out other victim services programs”.
 
-Subsec. (c)(2)(D) to (G). Pub. L. 113–4, § 303(3)(A)(ii), (iii), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
+Subsec. (c)(2)(D) to (G). Pub. L. 113–4, § 303(3)(A)(ii), (iii), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
 
-Subsec. (c)(3). Pub. L. 113–4, § 303(3)(B), substituted “2014 through 2018” for “2007 through 2011”.
+Subsec. (c)(3). Pub. L. 113–4, § 303(3)(B), substituted “2014 through 2018” for “2007 through 2011”.
 
-Subsec. (d)(3), (4). Pub. L. 113–4, § 303(4), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (d)(3), (4). Pub. L. 113–4, § 303(4), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (e). Pub. L. 113–4, § 303(5), substituted “there is authorized to be appropriated $12,000,000 for each of fiscal years 2014 through 2018.” for “there are authorized to be appropriated $12,000,000 for fiscal year 2007 and $15,000,000 for each of fiscal years 2008 through 2011.”
+Subsec. (e). Pub. L. 113–4, § 303(5), substituted “there is authorized to be appropriated $12,000,000 for each of fiscal years 2014 through 2018.” for “there are authorized to be appropriated $12,000,000 for fiscal year 2007 and $15,000,000 for each of fiscal years 2008 through 2011.”
 
-2006—Subsec. (b)(2). Pub. L. 109–271, § 4(b), inserted first sentence and struck out former first sentence which read as follows: “To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault, and stalking.”
+2006—Subsec. (b)(2). Pub. L. 109–271, § 4(b), inserted first sentence and struck out former first sentence which read as follows: “To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault, and stalking.”
 
-Subsec. (d)(2)(A). Pub. L. 109–271, § 4(d), struck out “biennial” before “performance report”.
+Subsec. (d)(2)(A). Pub. L. 109–271, § 4(d), struck out “biennial” before “performance report”.
 
-Subsec. (g). Pub. L. 109–271, § 1(c)(1), added subsec. (g).
+Subsec. (g). Pub. L. 109–271, § 1(c)(1), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1983,7 +1983,7 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10261 of this title.
 
-### § 20126. Consultation
+### § 20126. Consultation
 
 **(a) In general**
 
@@ -2011,7 +2011,7 @@ The Attorney General shall conduct annual consultations with Indian tribal gover
 
 Not later than 120 days before the date of a consultation under subsection (a), the Attorney General shall notify tribal leaders of the date, time, and location of the consultation.
 
-(Pub. L. 109–162, title IX, § 903, Jan. 5, 2006, 119 Stat. 3078; Pub. L. 113–4, title IX, § 903, Mar. 7, 2013, 127 Stat. 120; Pub. L. 116–165, § 4(b)(3), Oct. 10, 2020, 134 Stat. 761.)
+(Pub. L. 109–162, title IX, § 903, Jan. 5, 2006, 119 Stat. 3078; Pub. L. 113–4, title IX, § 903, Mar. 7, 2013, 127 Stat. 120; Pub. L. 116–165, § 4(b)(3), Oct. 10, 2020, 134 Stat. 761.)
 
 **Editorial Notes**
 
@@ -2031,27 +2031,27 @@ Section was formerly classified to section 14045d of Title 42, The Public Health
 
 **Amendments**
 
-2020—Subsec. (b)(2). Pub. L. 116–165, § 4(b)(3)(A), added par. (2) and struck out former par. (2) which read as follows: “enhancing the safety of Indian women from domestic violence, dating violence, sexual assault, stalking, and sex trafficking; and”.
+2020—Subsec. (b)(2). Pub. L. 116–165, § 4(b)(3)(A), added par. (2) and struck out former par. (2) which read as follows: “enhancing the safety of Indian women from domestic violence, dating violence, sexual assault, stalking, and sex trafficking; and”.
 
-Subsec. (b)(4). Pub. L. 116–165, § 4(b)(3)(B), (C), added par. (4).
+Subsec. (b)(4). Pub. L. 116–165, § 4(b)(3)(B), (C), added par. (4).
 
-2013—Subsec. (a). Pub. L. 113–4, § 903(1), substituted “, the Violence Against Women Act of 2000” for “and the Violence Against Women Act of 2000” and inserted “, and the Violence Against Women Reauthorization Act of 2013” before period at end.
+2013—Subsec. (a). Pub. L. 113–4, § 903(1), substituted “, the Violence Against Women Act of 2000” for “and the Violence Against Women Act of 2000” and inserted “, and the Violence Against Women Reauthorization Act of 2013” before period at end.
 
-Subsec. (b). Pub. L. 113–4, § 903(2)(A), substituted “Secretary of Health and Human Services, the Secretary of the Interior,” for “Secretary of the Department of Health and Human Services” in introductory provisions.
+Subsec. (b). Pub. L. 113–4, § 903(2)(A), substituted “Secretary of Health and Human Services, the Secretary of the Interior,” for “Secretary of the Department of Health and Human Services” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 113–4, § 903(2)(B), substituted “stalking, and sex trafficking” for “and stalking”.
+Subsec. (b)(2). Pub. L. 113–4, § 903(2)(B), substituted “stalking, and sex trafficking” for “and stalking”.
 
-Subsecs. (c), (d). Pub. L. 113–4, § 903(3), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 113–4, § 903(3), added subsecs. (c) and (d).
 
-### § 20127. Emergency and transitional pet shelter and housing assistance grant program
+### § 20127. Emergency and transitional pet shelter and housing assistance grant program
 
 **(1) Grant program**
 
 **(A) In general**
 
-The Secretary, acting in consultation with the Office of the Violence Against Women 1
+The Secretary, acting in consultation with the Office of the Violence Against Women 1
 
-<sup>1</sup>  So in original. Probably should be “Office on Violence Against Women”.
+<sup>1</sup> So in original. Probably should be “Office on Violence Against Women”.
 
 of the Department of Justice, the Secretary of Housing and Urban Development, and the Secretary of Health and Human Services, shall award grants under this section to eligible entities to carry out programs to provide the assistance described in paragraph (3) with respect to victims of domestic violence, dating violence, sexual assault, or stalking and the pets, service animals, emotional support animals, or horses of such victims.
 
@@ -2059,7 +2059,7 @@ of the Department of Justice, the Secretary of Housing and Urban Development, an
 
 The Secretary may enter into a memorandum of understanding with the head of another Department or agency, as appropriate, to carry out any of the authorities provided to the Secretary under this section.2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(2) Application**
 
@@ -2209,9 +2209,9 @@ The term “service animal” has the meaning given the term in section 36.104 o
 
 **(F) Other terms**
 
-Except as otherwise provided in this section, terms used in this section <sup>2</sup> shall have the meaning given such terms in section 12291(a) of this title.
+Except as otherwise provided in this section, terms used in this section <sup>2</sup> shall have the meaning given such terms in section 12291(a) of this title.
 
-(Pub. L. 115–334, title XII, § 12502(b), Dec. 20, 2018, 132 Stat. 4983.)
+(Pub. L. 115–334, title XII, § 12502(b), Dec. 20, 2018, 132 Stat. 4983.)
 
 **Editorial Notes**
 
@@ -2229,15 +2229,15 @@ Section is comprised of section 12502(b) of title XII of Pub. L. 115–334. Sect
 
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of Title 7, Agriculture.
 
-### § 20128. Agency and department coordination
+### § 20128. Agency and department coordination
 
-Each head of an Executive department (as defined in section 101 of title 5) responsible for carrying out a program under this Act, the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080) 1
+Each head of an Executive department (as defined in section 101 of title 5) responsible for carrying out a program under this Act, the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 , or the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54) may coordinate and collaborate on the prevention of domestic violence, dating violence, sexual assault, and stalking, including sharing best practices and efficient use of resources and technology for victims and those seeking assistance from the Federal Government.
 
-(Pub. L. 117–103, div. W, § 3, Mar. 15, 2022, 136 Stat. 846.)
+(Pub. L. 117–103, div. W, § 3, Mar. 15, 2022, 136 Stat. 846.)
 
 **Editorial Notes**
 
@@ -2263,13 +2263,13 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 For definitions of terms used in this section, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.
 
-### § 20129. LGBT specific services program
+### § 20129. LGBT specific services program
 
 **(a) Establishment**
 
-The Attorney General, acting through the Director of the Violence Against Women Office 1
+The Attorney General, acting through the Director of the Violence Against Women Office 1
 
-<sup>1</sup>  So in original. Probably should be “Office on Violence Against Women”.
+<sup>1</sup> So in original. Probably should be “Office on Violence Against Women”.
 
 (referred to in this section as the “Director”), shall make grants to eligible entities to enhance lesbian, gay, bisexual, and transgender (referred to in this section as “LGBT”) specific services for victims of domestic violence, dating violence, sexual assault and stalking.
 
@@ -2323,7 +2323,7 @@ Nothing in this section shall be construed to exclude LGBT community-based organ
 
 There are authorized to be appropriated to carry out this section $8,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
 
-(Pub. L. 117–103, div. W, title II, § 206, Mar. 15, 2022, 136 Stat. 861.)
+(Pub. L. 117–103, div. W, title II, § 206, Mar. 15, 2022, 136 Stat. 861.)
 
 **Editorial Notes**
 
@@ -2341,7 +2341,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 For definitions of terms used in this section, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.
 
-### § 20130. Study and reports on barriers to survivors’ economic security access
+### § 20130. Study and reports on barriers to survivors’ economic security access
 
 **(a) Study**
 
@@ -2371,7 +2371,7 @@ Not later than 1 year after March 15, 2022, and every 5 years thereafter, the Se
 
 **(7)** barriers that impede victims’ ability to pursue legal action, including legal costs and filing fees, and complexities of the jurisdiction of law enforcement agencies.
 
-(Pub. L. 117–103, div. W, title VII, § 704, Mar. 15, 2022, 136 Stat. 894.)
+(Pub. L. 117–103, div. W, title VII, § 704, Mar. 15, 2022, 136 Stat. 894.)
 
 **Editorial Notes**
 
@@ -2391,7 +2391,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 For definitions of terms used in this section, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.
 
-### § 20131. Media campaign
+### § 20131. Media campaign
 
 **(1) Definitions** In this subsection:
 
@@ -2545,7 +2545,7 @@ The Director shall determine the overall purposes and strategy of the national m
 
 There are authorized to be appropriated to the Director to carry out this section $5,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
 
-(Pub. L. 117–103, div. W, title XIII, § 1310(c), Mar. 15, 2022, 136 Stat. 931.)
+(Pub. L. 117–103, div. W, title XIII, § 1310(c), Mar. 15, 2022, 136 Stat. 931.)
 
 **Editorial Notes**
 
@@ -2565,7 +2565,7 @@ For definitions of terms used in this section, see section 12291 of this title, 
 
 ## SUBCHAPTER III—ADDITIONAL VICTIM COMPENSATION AND SERVICES
 
-### § 20141. Services to victims
+### § 20141. Services to victims
 
 **(a) Designation of responsible officials**
 
@@ -2585,9 +2585,9 @@ The head of each department and agency of the United States engaged in the detec
 
 **(A)** inform a victim of the place where the victim may receive emergency medical and social services;
 
-**(B)** inform a victim of any restitution or other relief to which the victim may be entitled under this or any other law and 1
+**(B)** inform a victim of any restitution or other relief to which the victim may be entitled under this or any other law and 1
 
-<sup>1</sup>  So in original. Probably should be followed by “the”.
+<sup>1</sup> So in original. Probably should be followed by “the”.
 
 manner in which such relief may be obtained;
 
@@ -2605,9 +2605,9 @@ manner in which such relief may be obtained;
 
 **(C)** the filing of charges against a suspected offender;
 
-**(D)** the scheduling of each court proceeding that the witness is either required to attend or, under section 10606(b)(4) 2
+**(D)** the scheduling of each court proceeding that the witness is either required to attend or, under section 10606(b)(4) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 42, is entitled to attend;
 
@@ -2661,13 +2661,13 @@ This section does not create a cause of action or defense in favor of any person
 
 **(vii)** another person designated by the court.
 
-(Pub. L. 101–647, title V, § 503, Nov. 29, 1990, 104 Stat. 4820; Pub. L. 103–322, title IV, § 40503(a), Sept. 13, 1994, 108 Stat. 1946.)
+(Pub. L. 101–647, title V, § 503, Nov. 29, 1990, 104 Stat. 4820; Pub. L. 103–322, title IV, § 40503(a), Sept. 13, 1994, 108 Stat. 1946.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 10606(b)(4) of title 42, referred to in subsec. (c)(3)(D), was in the original “section 1102(b)(4)”, meaning section 1102(b)(4) of Pub. L. 101–647, which has been translated as reading section 502(b)(4) of Pub. L. 101–647 to reflect the probable intent of Congress because Pub. L. 101–647 does not contain a section 1102 and section 502(b)(4) relates to the right of crime victims to be present at public court proceedings. Section 10606 of Title 42, The Public Health and Welfare, was repealed by Pub. L. 108–405, title I, § 102(c), Oct. 30, 2004, 118 Stat. 2264.
+Section 10606(b)(4) of title 42, referred to in subsec. (c)(3)(D), was in the original “section 1102(b)(4)”, meaning section 1102(b)(4) of Pub. L. 101–647, which has been translated as reading section 502(b)(4) of Pub. L. 101–647 to reflect the probable intent of Congress because Pub. L. 101–647 does not contain a section 1102 and section 502(b)(4) relates to the right of crime victims to be present at public court proceedings. Section 10606 of Title 42, The Public Health and Welfare, was repealed by Pub. L. 108–405, title I, § 102(c), Oct. 30, 2004, 118 Stat. 2264.
 
 **Codification**
 
@@ -2677,7 +2677,7 @@ Section was formerly classified to section 10607 of Title 42, The Public Health 
 
 1994—Subsec. (c)(7). Pub. L. 103–322 inserted at end “The Attorney General shall provide for the payment of the cost of up to 2 anonymous and confidential tests of the victim for sexually transmitted diseases, including HIV, gonorrhea, herpes, chlamydia, and syphilis, during the 12 months following sexual assaults that pose a risk of transmission, and the cost of a counseling session by a medically trained professional on the accuracy of such tests and the risk of transmission of sexually transmitted diseases to the victim as the result of the assault. A victim may waive anonymity and confidentiality of any tests paid for under this section.”
 
-### § 20142. Closed circuit televised court proceedings for victims of crime
+### § 20142. Closed circuit televised court proceedings for victims of crime
 
 **(a) In general** Notwithstanding any provision of the Federal Rules of Criminal Procedure to the contrary, in order to permit victims of crime to watch criminal trial proceedings in cases where the venue of the trial is changed—
 
@@ -2711,9 +2711,9 @@ The Administrative Office of the United States Courts may accept donations to en
 
 **(e) Construction**
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. No par. (2) has been enacted.
+<sup>1</sup> So in original. No par. (2) has been enacted.
 
 Nothing in this section shall be construed—
 
@@ -2733,7 +2733,7 @@ The Judicial Conference of the United States, pursuant to its rule making author
 
 This section shall only apply to cases filed after January 1, 1995.
 
-(Pub. L. 104–132, title II, § 235, Apr. 24, 1996, 110 Stat. 1246.)
+(Pub. L. 104–132, title II, § 235, Apr. 24, 1996, 110 Stat. 1246.)
 
 **Editorial Notes**
 
@@ -2745,7 +2745,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out
 
 Section was formerly classified to section 10608 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 20143. Grants for young witness assistance
+### § 20143. Grants for young witness assistance
 
 **(a) In general**
 
@@ -2781,7 +2781,7 @@ The Director of the Bureau of Justice Assistance of the Office of Justice Progra
 
 There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2006 through 2009.
 
-(Pub. L. 109–162, title XI, § 1136, Jan. 5, 2006, 119 Stat. 3109; Pub. L. 109–271, § 8(c), Aug. 12, 2006, 120 Stat. 766.)
+(Pub. L. 109–162, title XI, § 1136, Jan. 5, 2006, 119 Stat. 3109; Pub. L. 109–271, § 8(c), Aug. 12, 2006, 120 Stat. 766.)
 
 **Editorial Notes**
 
@@ -2793,7 +2793,7 @@ Section was formerly classified to section 3743 of Title 42, The Public Health a
 
 2006—Subsec. (a). Pub. L. 109–271 substituted “The Director of the Bureau of Justice Assistance of the Office of Justice Programs may” for “The Attorney General, acting through the Bureau of Justice Assistance, may”.
 
-### § 20144. Justice for United States victims of state sponsored terrorism
+### § 20144. Justice for United States victims of state sponsored terrorism
 
 **(a) Short title**
 
@@ -3051,7 +3051,7 @@ There is established in the Treasury a fund, to be designated as the United Stat
 
 All funds, and the net proceeds from the sale of property, forfeited or paid to the United States after December 18, 2015, as a criminal penalty or fine arising from a violation of any license, order, regulation, or prohibition issued under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the Trading with the Enemy Act (50 U.S.C. App. 1 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or any related criminal conspiracy, scheme, or other Federal offense arising from the actions of, or doing business with or acting on behalf of, a state sponsor of terrorism.
 
@@ -3199,7 +3199,7 @@ The term “source other than this Fund” means all collateral sources, includi
 
 **(7) State sponsor of terrorism**
 
-The term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 4605(j) <sup>1</sup> of title 50, section 2371 of title 22, section 2780 of title 22, or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
+The term “state sponsor of terrorism” means a country the government of which the Secretary of State has determined, for purposes of section 4605(j) <sup>1</sup> of title 50, section 2371 of title 22, section 2780 of title 22, or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
 **(8) United States person**
 
@@ -3237,7 +3237,7 @@ The term “9/11 victim” means a United States person who has an eligible clai
 
 **(B)** includes a plaintiff, estate, or successor in interest described in subparagraph (A) who is a judgment creditor in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Vic.2
 
-<sup>2</sup>  So in original. Probably should be “Civ.”
+<sup>2</sup> So in original. Probably should be “Civ.”
 
 4518 (S.D.N.Y.), or a Settling Judgment Creditor as identified in the order dated May 27, 2014, in the proceedings captioned In Re 650 Fifth Avenue & Related Properties, No. 08 Vic.2 10934 (S.D.N.Y. filed Dec. 17, 2008).
 
@@ -3251,23 +3251,23 @@ The term “9/11 victim” means a United States person who has an eligible clai
 
 The provisions of this section are severable. If any provision of this section, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of this section not so adjudicated.
 
-(Pub. L. 114–113, div. O, title IV, § 404, Dec. 18, 2015, 129 Stat. 3007; Pub. L. 116–69, div. B, title VII, § 1701(b)(1), Nov. 21, 2019, 133 Stat. 1140; Pub. L. 116–260, div. FF, title XVII, § 1705, Dec. 27, 2020, 134 Stat. 3293; Pub. L. 117–328, div. MM, § 101(b), Dec. 29, 2022, 136 Stat. 6106.)
+(Pub. L. 114–113, div. O, title IV, § 404, Dec. 18, 2015, 129 Stat. 3007; Pub. L. 116–69, div. B, title VII, § 1701(b)(1), Nov. 21, 2019, 133 Stat. 1140; Pub. L. 116–260, div. FF, title XVII, § 1705, Dec. 27, 2020, 134 Stat. 3293; Pub. L. 117–328, div. MM, § 101(b), Dec. 29, 2022, 136 Stat. 6106.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The United States Victims of State Sponsored Terrorism Fund Clarification Act, referred to in subsec. (b)(2)(A), is Pub. L. 116–69, div. B, title VII, § 1701, Nov. 21, 2019, 133 Stat. 1140, which amended this section and enacted notes under this section and section 10101 of this title. The date of enactment of the Act is Nov. 21, 2019.
+The United States Victims of State Sponsored Terrorism Fund Clarification Act, referred to in subsec. (b)(2)(A), is Pub. L. 116–69, div. B, title VII, § 1701, Nov. 21, 2019, 133 Stat. 1140, which amended this section and enacted notes under this section and section 10101 of this title. The date of enactment of the Act is Nov. 21, 2019.
 
-The Fairness for 9/11 Families Act, referred to in subsec. (b)(2)(A), is Pub. L. 117–328, div. MM, § 101, Dec. 29, 2022, 136 Stat. 6106, which amended this section and enacted a note under section 10101 of this title. The date of enactment of the Act is Dec. 29, 2022.
+The Fairness for 9/11 Families Act, referred to in subsec. (b)(2)(A), is Pub. L. 117–328, div. MM, § 101, Dec. 29, 2022, 136 Stat. 6106, which amended this section and enacted a note under section 10101 of this title. The date of enactment of the Act is Dec. 29, 2022.
 
-Section 1605(a)(7) of title 28 (as such section was in effect on January 27, 2008), referred to in subsecs. (c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of section 1605 of title 28 as it existed prior to being struck out by Pub. L. 110–181, § 1083(b)(1)(A). See 2008 Amendment note under that section.
+Section 1605(a)(7) of title 28 (as such section was in effect on January 27, 2008), referred to in subsecs. (c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of section 1605 of title 28 as it existed prior to being struck out by Pub. L. 110–181, § 1083(b)(1)(A). See 2008 Amendment note under that section.
 
-The International Emergency Economic Powers Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (e)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Trading with the Enemy Act, referred to in subsec. (e)(2)(A), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Trading with the Enemy Act, referred to in subsec. (e)(2)(A), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-Section 4605(j) of title 50, referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j) of title 50 can be found in section 4813(c) of title 50, as enacted by Pub. L. 115–232.
+Section 4605(j) of title 50, referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j) of title 50 can be found in section 4813(c) of title 50, as enacted by Pub. L. 115–232.
 
 Section 405 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (j)(12) to (14), is section 405 of Pub. L. 107–42, which is set out in a note under section 40101 of Title 49, Transportation.
 
@@ -3279,45 +3279,45 @@ Section 101(b) of div. MM of 117–328, which directed amendment of section 404 
 
 **Amendments**
 
-2022—Subsec. (b)(1)(B). Pub. L. 117–328, § 101(b)(1)(A), inserted “and during the 1-year period beginning on December 29, 2022, the Special Master may utilize an additional 5 full-time equivalent Department of Justice personnel” before period at end of first sentence. See Codification note above.
+2022—Subsec. (b)(1)(B). Pub. L. 117–328, § 101(b)(1)(A), inserted “and during the 1-year period beginning on December 29, 2022, the Special Master may utilize an additional 5 full-time equivalent Department of Justice personnel” before period at end of first sentence. See Codification note above.
 
-Subsec. (b)(2)(A). Pub. L. 117–328, § 101(b)(1)(B), inserted “Not later than 30 days after the date of enactment of the Fairness for 9/11 Families Act, the Special Master shall update, as necessary as a result of the enactment of such Act, such procedures and other guidance previously issued by the Special Master.” after “guidance previously issued by the Special Master.” See Codification note above.
+Subsec. (b)(2)(A). Pub. L. 117–328, § 101(b)(1)(B), inserted “Not later than 30 days after the date of enactment of the Fairness for 9/11 Families Act, the Special Master shall update, as necessary as a result of the enactment of such Act, such procedures and other guidance previously issued by the Special Master.” after “guidance previously issued by the Special Master.” See Codification note above.
 
-Subsec. (c)(3)(A)(ii). Pub. L. 117–328, § 101(b)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019, to submit an application for payment.” See Codification note above.
+Subsec. (c)(3)(A)(ii). Pub. L. 117–328, § 101(b)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019, to submit an application for payment.” See Codification note above.
 
-Subsec. (d)(3)(B)(iii). Pub. L. 117–328, § 101(b)(3)(A), added cl. (iii). See Codification note above.
+Subsec. (d)(3)(B)(iii). Pub. L. 117–328, § 101(b)(3)(A), added cl. (iii). See Codification note above.
 
-Subsec. (d)(4)(A). Pub. L. 117–328, § 101(b)(3)(B)(i), substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)”. See Codification note above.
+Subsec. (d)(4)(A). Pub. L. 117–328, § 101(b)(3)(B)(i), substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)”. See Codification note above.
 
-Subsec. (d)(4)(C)(iv). Pub. L. 117–328, § 101(b)(3)(B)(ii), added cl. (iv). See Codification note above.
+Subsec. (d)(4)(C)(iv). Pub. L. 117–328, § 101(b)(3)(B)(ii), added cl. (iv). See Codification note above.
 
-Subsec. (d)(4)(D). Pub. L. 117–328, § 101(b)(3)(B)(iii), added subpar. (D). See Codification note above.
+Subsec. (d)(4)(D). Pub. L. 117–328, § 101(b)(3)(B)(iii), added subpar. (D). See Codification note above.
 
-Subsec. (e)(2)(B)(v). Pub. L. 117–328, § 101(b)(4), added cl. (v). See Codification note above.
+Subsec. (e)(2)(B)(v). Pub. L. 117–328, § 101(b)(4), added cl. (v). See Codification note above.
 
-Subsec. (j)(15), (16). Pub. L. 117–328, § 101(b)(5), added pars. (15) and (16). See Codification note above.
+Subsec. (j)(15), (16). Pub. L. 117–328, § 101(b)(5), added pars. (15) and (16). See Codification note above.
 
-2020—Subsec. (c)(2)(A)(i). Pub. L. 116–260, § 1705(a)(1), substituted “foreign state that was designated as a state sponsor of terrorism at the time the acts described in clause (ii) occurred or was so designated as a result of such acts” for “state sponsor of terrorism”.
+2020—Subsec. (c)(2)(A)(i). Pub. L. 116–260, § 1705(a)(1), substituted “foreign state that was designated as a state sponsor of terrorism at the time the acts described in clause (ii) occurred or was so designated as a result of such acts” for “state sponsor of terrorism”.
 
-Subsec. (d)(4)(A). Pub. L. 116–260, § 1705(b)(1), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
+Subsec. (d)(4)(A). Pub. L. 116–260, § 1705(b)(1), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
 
-Subsec. (d)(4)(C). Pub. L. 116–260, § 1705(b)(2), added subpar. (C).
+Subsec. (d)(4)(C). Pub. L. 116–260, § 1705(b)(2), added subpar. (C).
 
-Subsec. (e)(6). Pub. L. 116–260, § 1705(a)(2), substituted “January 2, 2039” for “January 2, 2030” in two places.
+Subsec. (e)(6). Pub. L. 116–260, § 1705(a)(2), substituted “January 2, 2039” for “January 2, 2030” in two places.
 
-Subsec. (j)(6). Pub. L. 116–260, § 1705(a)(3), inserted “, except that the term does not include payments received in connection with an international claims agreement to which the United States is a state party or any other settlement of terrorism-related claims against Sudan” after “final judgment”.
+Subsec. (j)(6). Pub. L. 116–260, § 1705(a)(3), inserted “, except that the term does not include payments received in connection with an international claims agreement to which the United States is a state party or any other settlement of terrorism-related claims against Sudan” after “final judgment”.
 
-2019—Subsec. (b)(1)(B). Pub. L. 116–69, § 1701(b)(1)(A)(i), substituted “section, except that, during the 1-year period beginning on November 21, 2019, the Special Master may utilize an additional 5 full-time equivalent Department of Justice personnel.” for “section.”
+2019—Subsec. (b)(1)(B). Pub. L. 116–69, § 1701(b)(1)(A)(i), substituted “section, except that, during the 1-year period beginning on November 21, 2019, the Special Master may utilize an additional 5 full-time equivalent Department of Justice personnel.” for “section.”
 
-Subsec. (b)(2)(A). Pub. L. 116–69, § 1701(b)(1)(A)(ii), substituted “Not later than 30 days after the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act, the Special Master shall update, as necessary as a result of the enactment of such Act, such procedures and other guidance previously issued by the Special Master. Such notice and any updates to that notice or other guidance are” for “Such notice is”.
+Subsec. (b)(2)(A). Pub. L. 116–69, § 1701(b)(1)(A)(ii), substituted “Not later than 30 days after the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act, the Special Master shall update, as necessary as a result of the enactment of such Act, such procedures and other guidance previously issued by the Special Master. Such notice and any updates to that notice or other guidance are” for “Such notice is”.
 
-Subsec. (c)(2)(B). Pub. L. 116–69, § 1701(b)(1)(B)(i), substituted “January 20, 1981” for “January 20, 1981, if such person is identified as a member of the proposed class in case number 1:00-CV-03110 (EGS) of the United States District Court for the District of Columbia”.
+Subsec. (c)(2)(B). Pub. L. 116–69, § 1701(b)(1)(B)(i), substituted “January 20, 1981” for “January 20, 1981, if such person is identified as a member of the proposed class in case number 1:00-CV-03110 (EGS) of the United States District Court for the District of Columbia”.
 
-Subsec. (c)(3)(A)(i)(II). Pub. L. 116–69, § 1701(b)(1)(B)(ii)(I), substituted for period at end “, except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019, shall have 90 days from November 21, 2019, to submit an application for payment.”
+Subsec. (c)(3)(A)(i)(II). Pub. L. 116–69, § 1701(b)(1)(B)(ii)(I), substituted for period at end “, except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019, shall have 90 days from November 21, 2019, to submit an application for payment.”
 
-Subsec. (c)(3)(A)(ii). Pub. L. 116–69, § 1701(b)(1)(B)(ii)(II), substituted for period at end “, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019, to submit an application for payment.”
+Subsec. (c)(3)(A)(ii). Pub. L. 116–69, § 1701(b)(1)(B)(ii)(II), substituted for period at end “, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019, to submit an application for payment.”
 
-Subsec. (d)(3)(A). Pub. L. 116–69, § 1701(b)(1)(C)(i), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (d)(3)(A). Pub. L. 116–69, § 1701(b)(1)(C)(i), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) Pro rata basis.—Except as provided in subparagraph (B) and subject to the limitations described in clause (ii), the Special Master shall carry out paragraph (1), by dividing all available funds on a pro rata basis, based on the amounts outstanding and unpaid on eligible claims, until all such amounts have been paid in full.
 
@@ -3329,29 +3329,29 @@ Subsec. (d)(3)(A). Pub. L. 116–69, § 1701(b)(1)(C)(i), added cls. (i) and (
 
 “(III) In the event that a United States person, or the immediate family member of such person, has an eligible claim under this section and has received an award or an award determination under section 405 of the Air Transportation Safety and System Stabilization Act (49 U.S.C. 40101 note), the amount of compensation to which such person, or the immediate family member of such person, was determined to be entitled under section 405 of the Air Transportation Safety and System Stabilization Act (49 U.S.C. 40101 note) shall be considered controlling for the purposes of this section, notwithstanding any compensatory damages amounts such person, or immediate family member of such person, is deemed eligible for or entitled to pursuant to a final judgment described in subsection (c)(2)(A).”
 
-Subsec. (d)(4). Pub. L. 116–69, § 1701(b)(1)(C)(ii), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), on” for “On”, and added subpar. (B).
+Subsec. (d)(4). Pub. L. 116–69, § 1701(b)(1)(C)(ii), designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), on” for “On”, and added subpar. (B).
 
-Subsec. (e)(2)(A)(ii). Pub. L. 116–69, § 1701(b)(1)(D)(i), substituted “Seventy-five percent” for “One-half” and “seventy-five percent” for “one-half”.
+Subsec. (e)(2)(A)(ii). Pub. L. 116–69, § 1701(b)(1)(D)(i), substituted “Seventy-five percent” for “One-half” and “seventy-five percent” for “one-half”.
 
-Subsec. (e)(6). Pub. L. 116–69, § 1701(b)(1)(D)(ii), substituted “2030” for “2026” in subpars. (A) and (B).
+Subsec. (e)(6). Pub. L. 116–69, § 1701(b)(1)(D)(ii), substituted “2030” for “2026” in subpars. (A) and (B).
 
-Subsec. (f)(1). Pub. L. 116–69, § 1701(b)(1)(E), inserted “representing a non-9/11 related victim of state sponsored terrorism” after “No attorney” and “After November 21, 2019, no attorney representing a 9/11 related victim of state sponsored terrorism shall charge, receive, or collect, and the Special Master shall not approve, any payment of fees and costs that in the aggregate exceeds 15 percent of any payment made under this section after November 21, 2019.” after “section.”
+Subsec. (f)(1). Pub. L. 116–69, § 1701(b)(1)(E), inserted “representing a non-9/11 related victim of state sponsored terrorism” after “No attorney” and “After November 21, 2019, no attorney representing a 9/11 related victim of state sponsored terrorism shall charge, receive, or collect, and the Special Master shall not approve, any payment of fees and costs that in the aggregate exceeds 15 percent of any payment made under this section after November 21, 2019.” after “section.”
 
-Subsec. (j)(6). Pub. L. 116–69, § 1701(b)(1)(F)(i), struck out “(including payments from the September 11th Victim Compensation Fund (49 U.S.C. 40101 note))” after “local governments”.
+Subsec. (j)(6). Pub. L. 116–69, § 1701(b)(1)(F)(i), struck out “(including payments from the September 11th Victim Compensation Fund (49 U.S.C. 40101 note))” after “local governments”.
 
-Subsec. (j)(9) to (14). Pub. L. 116–69, § 1701(b)(1)(F)(ii), added pars. (9) to (14).
+Subsec. (j)(9) to (14). Pub. L. 116–69, § 1701(b)(1)(F)(ii), added pars. (9) to (14).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–69, div. B, title VII, § 1701(d), Nov. 21, 2019, 133 Stat. 1143, provided that: “This section [amending this section and enacting provisions set out as a note below] and the amendments made by this section shall take effect on the date of enactment of this Act [Nov. 21, 2019].”
+Pub. L. 116–69, div. B, title VII, § 1701(d), Nov. 21, 2019, 133 Stat. 1143, provided that: “This section [amending this section and enacting provisions set out as a note below] and the amendments made by this section shall take effect on the date of enactment of this Act [Nov. 21, 2019].”
 
 **Construction of 2019 Amendment**
 
-Pub. L. 116–69, div. B, title VII, § 1701(c), Nov. 21, 2019, 133 Stat. 1143, provided that: “A determination by the Special Master before the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act [Nov. 21, 2019] that an award or award determination under section 405 of the Air Transportation Safety and Stabilization Act [Pub. L. 107–42] (49 U.S.C. 40101 note) was controlling for purposes of the Fund (pursuant to subsection (d)(3)(A)(ii)(III) of the Justice for United States Victims of State Sponsored Terrorism Act (34 U.S.C. 20144(d)(3)(A)(ii)(III)), as such section was in effect on the day before the date of enactment of this Act [Nov. 21, 2019]) shall not prejudice a claim of a 9/11 victim, 9/11 spouse, or 9/11 dependent.”
+Pub. L. 116–69, div. B, title VII, § 1701(c), Nov. 21, 2019, 133 Stat. 1143, provided that: “A determination by the Special Master before the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act [Nov. 21, 2019] that an award or award determination under section 405 of the Air Transportation Safety and Stabilization Act [Pub. L. 107–42] (49 U.S.C. 40101 note) was controlling for purposes of the Fund (pursuant to subsection (d)(3)(A)(ii)(III) of the Justice for United States Victims of State Sponsored Terrorism Act (34 U.S.C. 20144(d)(3)(A)(ii)(III)), as such section was in effect on the day before the date of enactment of this Act [Nov. 21, 2019]) shall not prejudice a claim of a 9/11 victim, 9/11 spouse, or 9/11 dependent.”
 
-### § 20145. Elimination of barriers
+### § 20145. Elimination of barriers
 
 **(a) Minors**
 
@@ -3361,13 +3361,13 @@ A Federal agency may not require a survivor of human trafficking who is less tha
 
 A Federal agency may not charge a survivor of human trafficking or a homeless youth a fee to obtain a copy of a Government-issued identity card issued to the survivor or homeless youth.
 
-(Pub. L. 117–347, title IV, § 402, Jan. 5, 2023, 136 Stat. 6208.)
+(Pub. L. 117–347, title IV, § 402, Jan. 5, 2023, 136 Stat. 6208.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Definitions**
 
-Pub. L. 117–347, § 3, Jan. 5, 2023, 136 Stat. 6199, provided that:
+Pub. L. 117–347, § 3, Jan. 5, 2023, 136 Stat. 6199, provided that:
 
 > “In this Act [see section 1 of Pub. L. 117–347, set out as a Short Title of 2023 Amendment note under section 10101 of this title]:
 

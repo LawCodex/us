@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 311—BOYS & GIRLS CLUBS OF AMERICA"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 311—BOYS & GIRLS CLUBS OF AMERICA"
 identifier: "/us/usc/t36/stII/ptB/ch311"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 311—BOYS & GIRLS CLUBS OF AMERICA
 
-## § 31101. Organization
+## § 31101. Organization
 
 **(a) Federal Charter.—** Boys & Girls Clubs of America (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -29,13 +29,13 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 31101 | 36:691. | Aug. 6, 1956, ch. 976, § 1, 70 Stat. 1052; Dec. 10, 1991, Pub. L. 102–199, § 1(2), 105 Stat. 1628. |
-|  | 36:692. | Aug. 6, 1956, ch. 976, §§ 2, 4(1), 70 Stat. 1052. |
+| 31101 | 36:691. | Aug. 6, 1956, ch. 976, § 1, 70 Stat. 1052; Dec. 10, 1991, Pub. L. 102–199, § 1(2), 105 Stat. 1628. |
+|  | 36:692. | Aug. 6, 1956, ch. 976, §§ 2, 4(1), 70 Stat. 1052. |
 |  | 36:694(1). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 31102. Purposes
+## § 31102. Purposes
 
 The purposes of the corporation are—
 
@@ -49,9 +49,9 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 31102 | 36:693. | Aug. 6, 1956, ch. 976, § 3, 70 Stat. 1052; Dec. 10, 1991, Pub. L. 102–199, § 1(3), 105 Stat. 1628. |
+| 31102 | 36:693. | Aug. 6, 1956, ch. 976, § 3, 70 Stat. 1052; Dec. 10, 1991, Pub. L. 102–199, § 1(3), 105 Stat. 1628. |
 
-## § 31103. Membership
+## § 31103. Membership
 
 **(a) Eligibility.—** Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the constitution and bylaws of the corporation.
 
@@ -69,17 +69,17 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 31103(a) | 36:696(a) (1st sentence). | Aug. 6, 1956, ch. 976, § 6, 70 Stat. 1053. |
+| 31103(a) | 36:696(a) (1st sentence). | Aug. 6, 1956, ch. 976, § 6, 70 Stat. 1053. |
 | 31103(b) | 36:696(a) (last sentence). |  |
 | 31103(c) | 36:696(b). |  |
 
-In subsection (a), the words “are as provided in the constitution and bylaws of the corporation” are substituted for “shall . . . be determined as the constitution and bylaws of the corporation may provide” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (a), the words “are as provided in the constitution and bylaws of the corporation” are substituted for “shall . . . be determined as the constitution and bylaws of the corporation may provide” for consistency in the revised title and to eliminate unnecessary words.
 
 In subsection (b), the words “the right to” are omitted as unnecessary.
 
 In subsection (c), the words “on termination of membership, whether by” are substituted for “either upon” for clarity. The words “in the event that” and “canceled or otherwise” are omitted as unnecessary.
 
-## § 31104. Governing body
+## § 31104. Governing body
 
 **(a) Board of Directors.—**
 
@@ -99,12 +99,12 @@ In subsection (c), the words “on termination of membership, whether by” are 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 31104(a) | 36:697. | Aug. 6, 1956, ch. 976, §§ 7, 8, 70 Stat. 1053. |
+| 31104(a) | 36:697. | Aug. 6, 1956, ch. 976, §§ 7, 8, 70 Stat. 1053. |
 | 31104(b) | 36:698. |  |
 
 In subsection (a)(1), the word “governing” is substituted for “managing” for consistency in the revised title. The text of 36:697(a) is omitted as executed and obsolete.
 
-## § 31105. Powers
+## § 31105. Powers
 
 The corporation may—
 
@@ -128,7 +128,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 31105 | 36:694(2)–(9). | Aug. 6, 1956, ch. 976, §§ 4(2)–(9), 16, 70 Stat. 1052, 1056. |
+| 31105 | 36:694(2)–(9). | Aug. 6, 1956, ch. 976, §§ 4(2)–(9), 16, 70 Stat. 1052, 1056. |
 |  | 36:706. |  |
 
 In this section, the text of 36:706 is omitted as executed and obsolete.
@@ -145,7 +145,7 @@ In clause (6), the words “for the purposes of the corporation” are omitted a
 
 In clause (7), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary.
 
-## § 31106. Restrictions
+## § 31106. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -161,7 +161,7 @@ In clause (7), the words “complain and defend in any court of competent jurisd
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 31106(a) | 36:702. | Aug. 6, 1956, ch. 976, §§ 9, 10, 12, 70 Stat. 1055. |
+| 31106(a) | 36:702. | Aug. 6, 1956, ch. 976, §§ 9, 10, 12, 70 Stat. 1055. |
 | 31106(b) | 36:700. |  |
 | 31106(c) | 36:699(a). |  |
 | 31106(d) | 36:699(b). |  |
@@ -172,7 +172,7 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 In subsection (d), the words “or advance” are added is 2 places for consistency in the subsection.
 
-## § 31107. Principal office
+## § 31107. Principal office
 
 The principal office of the corporation shall be in New York, New York, or another place decided by the board of directors. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -182,11 +182,11 @@ The principal office of the corporation shall be in New York, New York, or anoth
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 31107 | 36:695(a). | Aug. 6, 1956, ch. 976, § 5(a), 70 Stat. 1053. |
+| 31107 | 36:695(a). | Aug. 6, 1956, ch. 976, § 5(a), 70 Stat. 1053. |
 
 The word “various” is omitted as unnecessary.
 
-## § 31108. Records and inspection
+## § 31108. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -204,11 +204,11 @@ The word “various” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 31108 | 36:703. | Aug. 6, 1956, ch. 976, § 13, 70 Stat. 1055. |
+| 31108 | 36:703. | Aug. 6, 1956, ch. 976, § 13, 70 Stat. 1055. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 31109. Service of process
+## § 31109. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -218,11 +218,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 31109 | 36:695(b). | Aug. 6, 1956, ch. 976, § 5(b), 70 Stat. 1053. |
+| 31109 | 36:695(b). | Aug. 6, 1956, ch. 976, § 5(b), 70 Stat. 1053. |
 
 The words “at all times” are omitted as unnecessary.
 
-## § 31110. Liability for acts of officers and agents
+## § 31110. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -232,9 +232,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 31110 | 36:701. | Aug. 6, 1956, ch. 976, § 11, 70 Stat. 1055. |
+| 31110 | 36:701. | Aug. 6, 1956, ch. 976, § 11, 70 Stat. 1055. |
 
-## § 31111. Distribution of assets on dissolution or final liquidation
+## § 31111. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed as provided by the board of directors, but in compliance with the constitution and bylaws of the corporation.
 
@@ -244,6 +244,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 31111 | 36:705. | Aug. 6, 1956, ch. 976, § 15, 70 Stat. 1056. |
+| 31111 | 36:705. | Aug. 6, 1956, ch. 976, § 15, 70 Stat. 1056. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The words “outstanding” and “all Federal and State laws applicable thereto” are omitted as unnecessary.

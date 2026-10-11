@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 35—ARTIFICIAL REEFS
 
-## § 2101. Congressional statement of findings and purpose
+## § 2101. Congressional statement of findings and purpose
 
 **(a)** The Congress finds that—
 
@@ -31,7 +31,7 @@ retrieved: 2026-10-11
 
 **(b)** The purpose of this chapter is to promote and facilitate responsible and effective efforts to establish artificial reefs in waters covered under this chapter.
 
-(Pub. L. 98–623, title II, § 202, Nov. 8, 1984, 98 Stat. 3394.)
+(Pub. L. 98–623, title II, § 202, Nov. 8, 1984, 98 Stat. 3394.)
 
 **Editorial Notes**
 
@@ -43,9 +43,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Short Title**
 
-Pub. L. 98–623, title II, § 201, Nov. 8, 1984, 98 Stat. 3394, provided that: “This title [enacting this chapter and section 1220d of Title 16, Conservation, and amending sections 1220 to 1220c of Title 16] may be cited as the ‘National Fishing Enhancement Act of 1984’.”
+Pub. L. 98–623, title II, § 201, Nov. 8, 1984, 98 Stat. 3394, provided that: “This title [enacting this chapter and section 1220d of Title 16, Conservation, and amending sections 1220 to 1220c of Title 16] may be cited as the ‘National Fishing Enhancement Act of 1984’.”
 
-## § 2102. Establishment of standards
+## § 2102. Establishment of standards
 
 Based on the best scientific information available, artificial reefs in waters covered under this chapter shall be sited and constructed, and subsequently monitored and managed in a manner which will—
 
@@ -59,13 +59,13 @@ Based on the best scientific information available, artificial reefs in waters c
 
 **(5)** be consistent with generally accepted principles of international law and shall not create any unreasonable obstruction to navigation.
 
-(Pub. L. 98–623, title II, § 203, Nov. 8, 1984, 98 Stat. 3395.)
+(Pub. L. 98–623, title II, § 203, Nov. 8, 1984, 98 Stat. 3395.)
 
-## § 2103. National artificial reef plan
+## § 2103. National artificial reef plan
 
-Not later than one year after November 8, 1984, the Secretary of Commerce, in consultation with the Secretary of the Interior, the Secretary of Defense, the Administrator of the Environmental Protection Agency, the Secretary of the Department in which the Coast Guard is operating, the Regional Fishery Managment 1
+Not later than one year after November 8, 1984, the Secretary of Commerce, in consultation with the Secretary of the Interior, the Secretary of Defense, the Administrator of the Environmental Protection Agency, the Secretary of the Department in which the Coast Guard is operating, the Regional Fishery Managment 1
 
-<sup>1</sup>  So in original. Probably should be “Management”.
+<sup>1</sup> So in original. Probably should be “Management”.
 
 Councils, interested States, Interstate Fishery Commissions, and representatives of the private sector, shall develop and publish a long-term plan which will meet the purpose of this chapter and be consistent with the standards established under section 2102 of this title. The plan must include—
 
@@ -81,7 +81,7 @@ Councils, interested States, Interstate Fishery Commissions, and representatives
 
 **(6)** an evaluation of alternatives for facilitating the transfer of artificial reef construction materials to persons holding permits issued pursuant to section 2104 of this title, including, but not limited to, credits for environmental mitigation and modified tax obligations.
 
-(Pub. L. 98–623, title II, § 204, Nov. 8, 1984, 98 Stat. 3395.)
+(Pub. L. 98–623, title II, § 204, Nov. 8, 1984, 98 Stat. 3395.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -89,7 +89,7 @@ Councils, interested States, Interstate Fishery Commissions, and representatives
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 2104. Permits for construction and management of artificial reefs
+## § 2104. Permits for construction and management of artificial reefs
 
 **(a) Secretarial action on permits** In issuing a permit for artificial reefs under section 403 of this title, section 1344 of this title, or section 1333(e) of title 43, the Secretary of the Army (hereinafter in this section referred to as the “Secretary”) shall—
 
@@ -125,9 +125,9 @@ Nothing in this chapter creates any liability on the part of the United States.
 
 Any person who, after notice and an opportunity for a hearing, is found to have violated any provision of a permit issued in accordance with subsection (a) shall be liable to the United States for a civil penalty, not to exceed $10,000 for each violation. The amount of the civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation. The Secretary may compromise, modify, or remit with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection.
 
-(Pub. L. 98–623, title II, § 205, Nov. 8, 1984, 98 Stat. 3396.)
+(Pub. L. 98–623, title II, § 205, Nov. 8, 1984, 98 Stat. 3396.)
 
-## § 2105. Definitions
+## § 2105. Definitions
 
 For purposes of this chapter—
 
@@ -137,9 +137,9 @@ For purposes of this chapter—
 
 **(3)** The term “waters covered under this chapter” means the navigable waters of the United States and the waters superjacent to the Outer Continental Shelf as defined in section 1331 of title 43, to the extent such waters exist in or are adjacent to any State.
 
-(Pub. L. 98–623, title II, § 206, Nov. 8, 1984, 98 Stat. 3397.)
+(Pub. L. 98–623, title II, § 206, Nov. 8, 1984, 98 Stat. 3397.)
 
-## § 2106. Savings clauses
+## § 2106. Savings clauses
 
 **(a) Tennessee Valley Authority jurisdiction**
 
@@ -149,4 +149,4 @@ Nothing in this chapter shall be construed as replacing or superseding section 8
 
 Nothing in this chapter shall be construed as extending or diminishing the jurisdiction or authority of any State over the siting, construction, monitoring, or managing of artificial reefs within its boundaries.
 
-(Pub. L. 98–623, title II, § 208, Nov. 8, 1984, 98 Stat. 3398.)
+(Pub. L. 98–623, title II, § 208, Nov. 8, 1984, 98 Stat. 3398.)

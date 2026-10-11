@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 2—NATIONAL EMERGENCY MANAGEMENT
 
-## § 701. Definitions
+## § 701. Definitions
 
-In this title— 1
+In this title— 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(1)** the term “Administrator” means the Administrator of the Agency;
 
@@ -57,7 +57,7 @@ In this title— 1
 
 **(16)** the term “tribal government” means the government of an Indian tribe or authorized tribal organization, or in Alaska a Native village or Alaska Regional Native Corporation.
 
-(Pub. L. 109–295, title VI, § 602, Oct. 4, 2006, 120 Stat. 1394.)
+(Pub. L. 109–295, title VI, § 602, Oct. 4, 2006, 120 Stat. 1394.)
 
 **Editorial Notes**
 
@@ -65,7 +65,7 @@ In this title— 1
 
 This title, referred to in text, is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1355, known as the Post-Katrina Emergency Management Reform Act of 2006. For complete classification of title VI to the Code, see Short Title note set out below and Tables.
 
-Section 314(a)(6) of this title, referred to in par. (13), was in the original “section 502(a)(6) of the Homeland Security Act 2002” and was translated as meaning section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, § 611(8), and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, § 611(9), and is classified to section 312 of this title, to reflect the probable intent of Congress.
+Section 314(a)(6) of this title, referred to in par. (13), was in the original “section 502(a)(6) of the Homeland Security Act 2002” and was translated as meaning section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, § 611(8), and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, § 611(9), and is classified to section 312 of this title, to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -75,7 +75,7 @@ Any reference to the Administrator of the Federal Emergency Management Agency in
 
 **Effective Date**
 
-Pub. L. 109–295, title VI, § 614, Oct. 4, 2006, 120 Stat. 1411, provided that:
+Pub. L. 109–295, title VI, § 614, Oct. 4, 2006, 120 Stat. 1411, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this title [see Tables for classification] and the amendments made by this title shall take effect on the date of enactment of this Act [Oct. 4, 2006].
 
@@ -93,37 +93,37 @@ Pub. L. 109–295, title VI, § 614, Oct. 4, 2006, 120 Stat. 1411, provided th
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–263, div. G, title LXXIII, § 7301, Dec. 23, 2022, 136 Stat. 3684, provided that: “This subtitle [subtitle A (§§ 7301–7309) of title LXXIII of div. G of Pub. L. 117–263, enacting part F of subchapter II of this chapter] may be cited as the ‘Global Catastrophic Risk Management Act of 2022’.”
+Pub. L. 117–263, div. G, title LXXIII, § 7301, Dec. 23, 2022, 136 Stat. 3684, provided that: “This subtitle [subtitle A (§§ 7301–7309) of title LXXIII of div. G of Pub. L. 117–263, enacting part F of subchapter II of this chapter] may be cited as the ‘Global Catastrophic Risk Management Act of 2022’.”
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–272, § 1, Dec. 31, 2020, 134 Stat. 3349, provided that: “This Act [amending section 791 of this title and enacting provisions set out as notes under section 791 of this title] may be cited as the ‘Federal Advance Contracts Enhancement Act’ or the ‘FACE Act’.”
+Pub. L. 116–272, § 1, Dec. 31, 2020, 134 Stat. 3349, provided that: “This Act [amending section 791 of this title and enacting provisions set out as notes under section 791 of this title] may be cited as the ‘Federal Advance Contracts Enhancement Act’ or the ‘FACE Act’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–64, § 1, Oct. 9, 2019, 133 Stat. 1122, provided that: “This Act [amending section 748 of this title] may be cited as the ‘Terrorist and Foreign Fighter Travel Exercise Act of 2019’.”
+Pub. L. 116–64, § 1, Oct. 9, 2019, 133 Stat. 1122, provided that: “This Act [amending section 748 of this title] may be cited as the ‘Terrorist and Foreign Fighter Travel Exercise Act of 2019’.”
 
 **Short Title**
 
-Pub. L. 109–295, title VI, § 601, Oct. 4, 2006, 120 Stat. 1394, provided that: “This title [see Tables for classification] may be cited as the ‘Post-Katrina Emergency Management Reform Act of 2006’.”
+Pub. L. 109–295, title VI, § 601, Oct. 4, 2006, 120 Stat. 1394, provided that: “This title [see Tables for classification] may be cited as the ‘Post-Katrina Emergency Management Reform Act of 2006’.”
 
 **Clarification of Congressional Intent**
 
-Pub. L. 110–53, title XXII, § 2202, Aug. 3, 2007, 121 Stat. 541, provided that: “The Federal departments and agencies (including independent agencies) identified under the provisions of this title [enacting provisions set out as notes under section 194 of this title and section 247d–3a of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 309 of Title 47, Telecommunications] and title III of this Act [enacting sections 579 and 580 of this title and amending sections 194 and 572 of this title] and title VI of Public Law 109–295 [see Short Title note set out above] shall carry out their respective duties and responsibilities in a manner that does not impede the implementation of requirements specified under this title and title III of this Act and title VI of Public Law 109–295. Notwithstanding the obligations under section 1806 of Public Law 109–295 [probably means Pub. L. 107–296; 6 U.S.C. 576], the provisions of this title and title III of this Act and title VI of Public Law 109–295 shall not preclude or obstruct any such department or agency from exercising its other authorities related to emergency communications matters.”
+Pub. L. 110–53, title XXII, § 2202, Aug. 3, 2007, 121 Stat. 541, provided that: “The Federal departments and agencies (including independent agencies) identified under the provisions of this title [enacting provisions set out as notes under section 194 of this title and section 247d–3a of Title 42, The Public Health and Welfare, and amending provisions set out as a note under section 309 of Title 47, Telecommunications] and title III of this Act [enacting sections 579 and 580 of this title and amending sections 194 and 572 of this title] and title VI of Public Law 109–295 [see Short Title note set out above] shall carry out their respective duties and responsibilities in a manner that does not impede the implementation of requirements specified under this title and title III of this Act and title VI of Public Law 109–295. Notwithstanding the obligations under section 1806 of Public Law 109–295 [probably means Pub. L. 107–296; 6 U.S.C. 576], the provisions of this title and title III of this Act and title VI of Public Law 109–295 shall not preclude or obstruct any such department or agency from exercising its other authorities related to emergency communications matters.”
 
 **National Weather Service**
 
-Pub. L. 109–295, title VI, § 613, Oct. 4, 2006, 120 Stat. 1411, provided that: “Nothing in this title [see Tables for classification] shall alter or otherwise affect the authorities and activities of the National Weather Service to protect life and property, including under the Act of October 1, 1890 (26 Stat. 653-55) [15 U.S.C. 312 et seq.].”
+Pub. L. 109–295, title VI, § 613, Oct. 4, 2006, 120 Stat. 1411, provided that: “Nothing in this title [see Tables for classification] shall alter or otherwise affect the authorities and activities of the National Weather Service to protect life and property, including under the Act of October 1, 1890 (26 Stat. 653-55) [15 U.S.C. 312 et seq.].”
 
 **References in Pub. L. 109–295**
 
-Pub. L. 109–295, title VI, § 699A, Oct. 4, 2006, 120 Stat. 1463, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in this title [see Tables for classification] shall be treated as referring only to the provisions of this title.”
+Pub. L. 109–295, title VI, § 699A, Oct. 4, 2006, 120 Stat. 1463, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in this title [see Tables for classification] shall be treated as referring only to the provisions of this title.”
 
 ## SUBCHAPTER I—PERSONNEL PROVISIONS
 
 ### Part A—Federal Emergency Management Agency Personnel
 
-#### § 711. Surge Capacity Force
+#### § 711. Surge Capacity Force
 
 **(a) Establishment**
 
@@ -169,27 +169,27 @@ The Administrator may provide members of the Surge Capacity Force with travel ex
 
 **(2)** other elements of the plan needed to establish the portion of the Surge Capacity Force consisting of individuals designated under those procedures.
 
-(Pub. L. 109–295, title VI, § 624, Oct. 4, 2006, 120 Stat. 1419.)
+(Pub. L. 109–295, title VI, § 624, Oct. 4, 2006, 120 Stat. 1419.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 ### Part B—Emergency Management Capabilities
 
-#### § 721. Evacuation preparedness technical assistance
+#### § 721. Evacuation preparedness technical assistance
 
 The Administrator, in coordination with the heads of other appropriate Federal agencies, shall provide evacuation preparedness technical assistance to State, local, and tribal governments, including the preparation of hurricane evacuation studies and technical assistance in developing evacuation plans, assessing storm surge estimates, evacuation zones, evacuation clearance times, transportation capacity, and shelter capacity.
 
-(Pub. L. 109–295, title VI, § 632, Oct. 4, 2006, 120 Stat. 1421.)
+(Pub. L. 109–295, title VI, § 632, Oct. 4, 2006, 120 Stat. 1421.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Guidance on Evacuation Routes**
 
-Pub. L. 115–254, div. D, § 1209, Oct. 5, 2018, 132 Stat. 3441, provided that:
+Pub. L. 115–254, div. D, § 1209, Oct. 5, 2018, 132 Stat. 3441, provided that:
 
 > **“(a) In General.—**
 
@@ -255,7 +255,7 @@ Pub. L. 115–254, div. D, § 1209, Oct. 5, 2018, 132 Stat. 3441, provided tha
 
 [For definition of “State”, as used in section 1209 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under section 5122 of Title 42, The Public Health and Welfare.]
 
-#### § 722. Urban Search and Rescue Response System
+#### § 722. Urban Search and Rescue Response System
 
 **(a) In general**
 
@@ -265,9 +265,9 @@ There is in the Agency a system known as the Urban Search and Rescue Response Sy
 
 There is authorized to be appropriated to carry out the system for fiscal year 2008, an amount equal to the amount appropriated for the system for fiscal year 2007 and an additional $20,000,000.
 
-(Pub. L. 109–295, title VI, § 634, Oct. 4, 2006, 120 Stat. 1421.)
+(Pub. L. 109–295, title VI, § 634, Oct. 4, 2006, 120 Stat. 1421.)
 
-#### § 723. Metropolitan Medical Response Grant Program
+#### § 723. Metropolitan Medical Response Grant Program
 
 **(a) In general**
 
@@ -281,15 +281,15 @@ The program shall include each purpose of the program as it existed on June 1, 2
 
 There is authorized to be appropriated to carry out the program for fiscal year 2008, an amount equal to the amount appropriated for the program for fiscal year 2007 and an additional $30,000,000.
 
-(Pub. L. 109–295, title VI, § 635, Oct. 4, 2006, 120 Stat. 1421.)
+(Pub. L. 109–295, title VI, § 635, Oct. 4, 2006, 120 Stat. 1421.)
 
-#### § 724. Logistics
+#### § 724. Logistics
 
 The Administrator shall develop an efficient, transparent, and flexible logistics system for procurement and delivery of goods and services necessary for an effective and timely response to natural disasters, acts of terrorism, and other man-made disasters and for real-time visibility of items at each point throughout the logistics system.
 
-(Pub. L. 109–295, title VI, § 636, Oct. 4, 2006, 120 Stat. 1422.)
+(Pub. L. 109–295, title VI, § 636, Oct. 4, 2006, 120 Stat. 1422.)
 
-#### § 725. Prepositioned equipment program
+#### § 725. Prepositioned equipment program
 
 **(a) In general**
 
@@ -299,15 +299,15 @@ The Administrator shall establish a prepositioned equipment program to prepositi
 
 The Administrator shall notify State, local, and tribal officials in an area in which a location for the prepositioned equipment program will be closed not later than 60 days before the date of such closure.
 
-(Pub. L. 109–295, title VI, § 637, Oct. 4, 2006, 120 Stat. 1422.)
+(Pub. L. 109–295, title VI, § 637, Oct. 4, 2006, 120 Stat. 1422.)
 
-#### § 726. Basic life supporting first aid and education
+#### § 726. Basic life supporting first aid and education
 
 The Administrator shall enter into agreements with organizations to provide funds to emergency response providers to provide education and training in life supporting first aid to children.
 
-(Pub. L. 109–295, title VI, § 639, Oct. 4, 2006, 120 Stat. 1423.)
+(Pub. L. 109–295, title VI, § 639, Oct. 4, 2006, 120 Stat. 1423.)
 
-#### § 727. Improvements to information technology systems
+#### § 727. Improvements to information technology systems
 
 **(a) Measures to improve information technology systems** The Administrator, in coordination with the Chief Information Officer of the Department, shall take appropriate measures to update and improve the information technology systems of the Agency, including measures to—
 
@@ -327,19 +327,19 @@ The Administrator shall enter into agreements with organizations to provide fund
 
 Not later than 270 days after October 4, 2006, the Administrator shall submit to the appropriate committees of Congress a report describing the implementation of this section, including a description of any actions taken, improvements made, and remaining problems and a description of any additional funding needed to make necessary and appropriate improvements to the information technology systems of the Agency.
 
-(Pub. L. 109–295, title VI, § 640, Oct. 4, 2006, 120 Stat. 1423.)
+(Pub. L. 109–295, title VI, § 640, Oct. 4, 2006, 120 Stat. 1423.)
 
-#### § 728. Disclosure of certain information to law enforcement agencies
+#### § 728. Disclosure of certain information to law enforcement agencies
 
 In the event of circumstances requiring an evacuation, sheltering, or mass relocation, the Administrator may disclose information in any individual assistance database of the Agency in accordance with section 552a(b) of title 5 (commonly referred to as the “Privacy Act”) to any law enforcement agency of the Federal Government or a State, local, or tribal government in order to identify illegal conduct or address public safety or security issues, including compliance with sex offender notification laws.
 
-(Pub. L. 109–295, title VI, § 640a, Oct. 4, 2006, 120 Stat. 1424.)
+(Pub. L. 109–295, title VI, § 640a, Oct. 4, 2006, 120 Stat. 1424.)
 
 ## SUBCHAPTER II—COMPREHENSIVE PREPAREDNESS SYSTEM
 
 ### Part A—National Preparedness System
 
-#### § 741. Definitions
+#### § 741. Definitions
 
 In this part:
 
@@ -399,7 +399,7 @@ The term “type” means a classification of resources that refers to the capab
 
 The terms “typed” and “typing” have the meanings given those terms in section 311 of this title.
 
-(Pub. L. 109–295, title VI, § 641, Oct. 4, 2006, 120 Stat. 1424; Pub. L. 110–53, title IV, § 401(b), Aug. 3, 2007, 121 Stat. 302.)
+(Pub. L. 109–295, title VI, § 641, Oct. 4, 2006, 120 Stat. 1424; Pub. L. 110–53, title IV, § 401(b), Aug. 3, 2007, 121 Stat. 302.)
 
 **Editorial Notes**
 
@@ -407,21 +407,21 @@ The terms “typed” and “typing” have the meanings given those terms in se
 
 2007—Pars. (2) to (14). Pub. L. 110–53 added pars. (2) and (12) to (14) and redesignated former pars. (2) to (10) as (3) to (11), respectively.
 
-#### § 742. National preparedness
+#### § 742. National preparedness
 
 In order to prepare the Nation for all hazards, including natural disasters, acts of terrorism, and other man-made disasters, the President, consistent with the declaration of policy under section 5195 of title 42 and title V of the Homeland Security Act of 2002 (6 U.S.C. 311 et seq.), as amended by this Act, shall develop a national preparedness goal and a national preparedness system.
 
-(Pub. L. 109–295, title VI, § 642, Oct. 4, 2006, 120 Stat. 1425.)
+(Pub. L. 109–295, title VI, § 642, Oct. 4, 2006, 120 Stat. 1425.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Homeland Security Act of 2002, referred to in text, is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title V of the Act is classified generally to subchapter V (§ 311 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+The Homeland Security Act of 2002, referred to in text, is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title V of the Act is classified generally to subchapter V (§ 311 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 This Act, referred to in text, means title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1394, known as the Post-Katrina Emergency Management Reform Act of 2006. For complete classification of this Act to the Code, see Short Title and References in Pub. L. 109–295 notes set out under section 701 of this title and Tables.
 
-#### § 743. National preparedness goal
+#### § 743. National preparedness goal
 
 **(a) Establishment**
 
@@ -431,9 +431,9 @@ The President, acting through the Administrator, shall complete, revise, and upd
 
 The national preparedness goal, to the greatest extent practicable, shall be consistent with the National Incident Management System and the National Response Plan.
 
-(Pub. L. 109–295, title VI, § 643, Oct. 4, 2006, 120 Stat. 1425.)
+(Pub. L. 109–295, title VI, § 643, Oct. 4, 2006, 120 Stat. 1425.)
 
-#### § 744. Establishment of national preparedness system
+#### § 744. Establishment of national preparedness system
 
 **(a) Establishment**
 
@@ -461,9 +461,9 @@ The President, acting through the Administrator, shall develop a national prepar
 
 The national preparedness system may include national planning scenarios.
 
-(Pub. L. 109–295, title VI, § 644, Oct. 4, 2006, 120 Stat. 1425.)
+(Pub. L. 109–295, title VI, § 644, Oct. 4, 2006, 120 Stat. 1425.)
 
-#### § 745. National planning scenarios
+#### § 745. National planning scenarios
 
 **(a) In general**
 
@@ -475,9 +475,9 @@ The Administrator, in coordination with the heads of appropriate Federal agencie
 
 **(2)** provide the minimum number of representative scenarios necessary to identify and define the tasks and target capabilities required to respond to all hazards.
 
-(Pub. L. 109–295, title VI, § 645, Oct. 4, 2006, 120 Stat. 1425.)
+(Pub. L. 109–295, title VI, § 645, Oct. 4, 2006, 120 Stat. 1425.)
 
-#### § 746. Target capabilities and preparedness priorities
+#### § 746. Target capabilities and preparedness priorities
 
 **(a) Establishment of guidelines on target capabilities**
 
@@ -505,9 +505,9 @@ In establishing the guidelines under subsection (a), the Administrator shall est
 
 The Administrator may provide support for the development of mutual aid agreements within States.
 
-(Pub. L. 109–295, title VI, § 646, Oct. 4, 2006, 120 Stat. 1426.)
+(Pub. L. 109–295, title VI, § 646, Oct. 4, 2006, 120 Stat. 1426.)
 
-#### § 747. Equipment and training standards
+#### § 747. Equipment and training standards
 
 **(a) Equipment standards**
 
@@ -535,9 +535,9 @@ The Administrator, in coordination with the heads of appropriate Federal agencie
 
 In carrying out this section, the Administrator shall consult with representatives of relevant public and private sector national voluntary consensus standards development organizations.
 
-(Pub. L. 109–295, title VI, § 647, Oct. 4, 2006, 120 Stat. 1426.)
+(Pub. L. 109–295, title VI, § 647, Oct. 4, 2006, 120 Stat. 1426.)
 
-#### § 748. Training and exercises
+#### § 748. Training and exercises
 
 **(a) National training program**
 
@@ -587,7 +587,7 @@ Beginning not later than 180 days after October 4, 2006, the Administrator, in c
 
 **(B)** To test and evaluate the readiness of Federal, State, local, and tribal governments to respond and recover in a coordinated and unified manner to catastrophic incidents.
 
-(Pub. L. 109–295, title VI, § 648, Oct. 4, 2006, 120 Stat. 1427; Pub. L. 110–53, title IV, §§ 402, 403, Aug. 3, 2007, 121 Stat. 302, 303; Pub. L. 116–64, § 3, Oct. 9, 2019, 133 Stat. 1123.)
+(Pub. L. 109–295, title VI, § 648, Oct. 4, 2006, 120 Stat. 1427; Pub. L. 110–53, title IV, §§ 402, 403, Aug. 3, 2007, 121 Stat. 302, 303; Pub. L. 116–64, § 3, Oct. 9, 2019, 133 Stat. 1123.)
 
 **Editorial Notes**
 
@@ -595,15 +595,15 @@ Beginning not later than 180 days after October 4, 2006, the Administrator, in c
 
 2019—Subsec. (b)(2)(A)(i). Pub. L. 116–64 inserted “and emerging” after “credible”.
 
-2007—Subsec. (b)(2)(A)(iv) to (vi). Pub. L. 110–53, § 402, added cls. (iv) to (vi) and struck out former cls. (iv) and (v) which read as follows:
+2007—Subsec. (b)(2)(A)(iv) to (vi). Pub. L. 110–53, § 402, added cls. (iv) to (vi) and struck out former cls. (iv) and (v) which read as follows:
 
 “(iv) designed to provide for systematic evaluation of readiness; and
 
 “(v) designed to address the unique requirements of populations with special needs; and”.
 
-Subsec. (b)(2)(B). Pub. L. 110–53, § 403, in introductory provisions, substituted “shall include a selection of model exercises that State, local, and tribal governments can readily adapt for use and provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises (whether a model exercise program or an exercise designed locally)” for “shall provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises”.
+Subsec. (b)(2)(B). Pub. L. 110–53, § 403, in introductory provisions, substituted “shall include a selection of model exercises that State, local, and tribal governments can readily adapt for use and provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises (whether a model exercise program or an exercise designed locally)” for “shall provide assistance to State, local, and tribal governments with the design, implementation, and evaluation of exercises”.
 
-#### § 748a. Prioritization of facilities
+#### § 748a. Prioritization of facilities
 
 Not later than 180 days after October 5, 2018, the Administrator shall provide guidance and training on an annual basis to State, local, and Indian tribal governments, first responders, and utility companies on—
 
@@ -613,7 +613,7 @@ Not later than 180 days after October 5, 2018, the Administrator shall provide g
 
 **(3)** how State, local, and Indian tribal governments, first responders, utility companies, hospitals, nursing homes, and other long-term care facilities should develop a strategy to coordinate emergency response plans, including the activation of emergency response plans, in anticipation of a major disaster, including severe weather events.
 
-(Pub. L. 115–254, div. D, § 1208, Oct. 5, 2018, 132 Stat. 3441.)
+(Pub. L. 115–254, div. D, § 1208, Oct. 5, 2018, 132 Stat. 3441.)
 
 **Editorial Notes**
 
@@ -627,7 +627,7 @@ Section was enacted as part of the Disaster Recovery Reform Act of 2018 and also
 
 For definitions of “Administrator” and “State” as used in this section, see section 1203 of Pub. L. 115–254, set out as a note under section 5122 of Title 42, The Public Health and Welfare.
 
-#### § 749. Comprehensive assessment system
+#### § 749. Comprehensive assessment system
 
 **(a) Establishment**
 
@@ -647,9 +647,9 @@ The Administrator shall ensure that each component of the national preparedness 
 
 **(4)** performance of training, exercises, and operations.
 
-(Pub. L. 109–295, title VI, § 649, Oct. 4, 2006, 120 Stat. 1428.)
+(Pub. L. 109–295, title VI, § 649, Oct. 4, 2006, 120 Stat. 1428.)
 
-#### § 750. Remedial action management program
+#### § 750. Remedial action management program
 
 The Administrator, in coordination with the National Council on Disability and the National Advisory Council, shall establish a remedial action management program to—
 
@@ -659,9 +659,9 @@ The Administrator, in coordination with the National Council on Disability and t
 
 **(3)** conduct remedial action tracking and long-term trend analysis.
 
-(Pub. L. 109–295, title VI, § 650, Oct. 4, 2006, 120 Stat. 1428.)
+(Pub. L. 109–295, title VI, § 650, Oct. 4, 2006, 120 Stat. 1428.)
 
-#### § 751. Federal response capability inventory
+#### § 751. Federal response capability inventory
 
 **(a) In general**
 
@@ -705,23 +705,23 @@ The Administrator, in coordination with the Secretary of Defense, shall develop 
 
 **(3)** the sharing of the inventory described in subsection (a) with other Federal agencies, as appropriate.
 
-(Pub. L. 109–295, title VI, § 651, Oct. 4, 2006, 120 Stat. 1429; Pub. L. 110–53, title IV, § 405, Aug. 3, 2007, 121 Stat. 303.)
+(Pub. L. 109–295, title VI, § 651, Oct. 4, 2006, 120 Stat. 1429; Pub. L. 110–53, title IV, § 405, Aug. 3, 2007, 121 Stat. 303.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2007—Subsec. (b). Pub. L. 110–53, § 405(1)(A), substituted “For each Federal agency with responsibilities under the National Response Plan, the inventory” for “The inventory” in introductory provisions.
+2007—Subsec. (b). Pub. L. 110–53, § 405(1)(A), substituted “For each Federal agency with responsibilities under the National Response Plan, the inventory” for “The inventory” in introductory provisions.
 
-Subsec. (b)(2) to (4). Pub. L. 110–53, § 405(1)(B)–(D), added pars. (2) and (3) and redesignated former par. (2) as (4).
+Subsec. (b)(2) to (4). Pub. L. 110–53, § 405(1)(B)–(D), added pars. (2) and (3) and redesignated former par. (2) as (4).
 
-Subsec. (d)(1). Pub. L. 110–53, § 405(2)(A), substituted “regarding—” for “regarding capabilities, readiness, or the compatibility of equipment;” in introductory provisions and added subpars. (A) to (E).
+Subsec. (d)(1). Pub. L. 110–53, § 405(2)(A), substituted “regarding—” for “regarding capabilities, readiness, or the compatibility of equipment;” in introductory provisions and added subpars. (A) to (E).
 
-Subsec. (d)(2). Pub. L. 110–53, § 405(2)(B), inserted “of capabilities, credentialed personnel, and typed resources” after “rapid deployment”.
+Subsec. (d)(2). Pub. L. 110–53, § 405(2)(B), inserted “of capabilities, credentialed personnel, and typed resources” after “rapid deployment”.
 
-Subsec. (d)(3). Pub. L. 110–53, § 405(2)(C), substituted “the inventory described in subsection (a)” for “inventories”.
+Subsec. (d)(3). Pub. L. 110–53, § 405(2)(C), substituted “the inventory described in subsection (a)” for “inventories”.
 
-#### § 752. Reporting requirements
+#### § 752. Reporting requirements
 
 **(a) Federal preparedness report**
 
@@ -797,25 +797,25 @@ Not later than 15 months after October 4, 2006, and annually thereafter, a State
 
 **(ii)** the extent to which the use of Federal assistance during the preceding fiscal year achieved the preparedness priorities.
 
-(Pub. L. 109–295, title VI, § 652, Oct. 4, 2006, 120 Stat. 1429; Pub. L. 110–53, title I, § 103, title IV, § 406, Aug. 3, 2007, 121 Stat. 293, 304.)
+(Pub. L. 109–295, title VI, § 652, Oct. 4, 2006, 120 Stat. 1429; Pub. L. 110–53, title I, § 103, title IV, § 406, Aug. 3, 2007, 121 Stat. 293, 304.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Homeland Security Act of 2002, referred to in subsec. (a)(2)(E), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XX of the Act is classified generally to subchapter XV (§ 601 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+The Homeland Security Act of 2002, referred to in subsec. (a)(2)(E), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XX of the Act is classified generally to subchapter XV (§ 601 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 **Amendments**
 
-2007—Subsec. (a)(2)(C). Pub. L. 110–53, § 406(1), substituted “section 751 of this title, including the number and type of credentialed personnel in each category of personnel trained and ready to respond to a natural disaster, act of terrorism, or other man-made disaster” for “section 751(a) of this title”.
+2007—Subsec. (a)(2)(C). Pub. L. 110–53, § 406(1), substituted “section 751 of this title, including the number and type of credentialed personnel in each category of personnel trained and ready to respond to a natural disaster, act of terrorism, or other man-made disaster” for “section 751(a) of this title”.
 
-Subsec. (a)(2)(E). Pub. L. 110–53, § 103(a), added subpar. (E).
+Subsec. (a)(2)(E). Pub. L. 110–53, § 103(a), added subpar. (E).
 
-Subsec. (a)(2)(F). Pub. L. 110–53, § 406(2)–(4), added subpar. (F).
+Subsec. (a)(2)(F). Pub. L. 110–53, § 406(2)–(4), added subpar. (F).
 
-Subsec. (c)(2)(C). Pub. L. 110–53, § 103(b), which directed amendment of subpar. (D) by substituting “a discussion of the extent to which target capabilities identified in the applicable State homeland security plan and other applicable plans remain unmet and an assessment of resources needed” for “an assessment of resource needs”, was executed by making the substitution in subpar. (C) to reflect the probable intent of Congress.
+Subsec. (c)(2)(C). Pub. L. 110–53, § 103(b), which directed amendment of subpar. (D) by substituting “a discussion of the extent to which target capabilities identified in the applicable State homeland security plan and other applicable plans remain unmet and an assessment of resources needed” for “an assessment of resource needs”, was executed by making the substitution in subpar. (C) to reflect the probable intent of Congress.
 
-#### § 753. Federal preparedness
+#### § 753. Federal preparedness
 
 **(a) Agency responsibility** In support of the national preparedness system, the President shall ensure that each Federal agency with responsibilities under the National Response Plan—
 
@@ -901,25 +901,25 @@ The President shall certify to the Committee on Homeland Security and Government
 
 **(2)** the allocation of Department of Defense resources.
 
-(Pub. L. 109–295, title VI, § 653, Oct. 4, 2006, 120 Stat. 1430; Pub. L. 110–53, title IV, § 407, Aug. 3, 2007, 121 Stat. 304.)
+(Pub. L. 109–295, title VI, § 653, Oct. 4, 2006, 120 Stat. 1430; Pub. L. 110–53, title IV, § 407, Aug. 3, 2007, 121 Stat. 304.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2007—Subsec. (a). Pub. L. 110–53, § 407(1)(A), struck out “coordinating, primary, or supporting” before “responsibilities” in introductory provisions.
+2007—Subsec. (a). Pub. L. 110–53, § 407(1)(A), struck out “coordinating, primary, or supporting” before “responsibilities” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 110–53, § 407(1)(B), inserted “, including credentialing of personnel and typing of resources likely needed to respond to a natural disaster, act of terrorism, or other man-made disaster in accordance with section 320 of this title” before semicolon at end.
+Subsec. (a)(2). Pub. L. 110–53, § 407(1)(B), inserted “, including credentialing of personnel and typing of resources likely needed to respond to a natural disaster, act of terrorism, or other man-made disaster in accordance with section 320 of this title” before semicolon at end.
 
-Subsec. (a)(5). Pub. L. 110–53, § 407(1)(C)–(E), added par. (5).
+Subsec. (a)(5). Pub. L. 110–53, § 407(1)(C)–(E), added par. (5).
 
-Subsec. (d). Pub. L. 110–53, § 407(2), inserted “to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives” after “certify” and struck out “coordinating, primary, or supporting” before “responsibilities”.
+Subsec. (d). Pub. L. 110–53, § 407(2), inserted “to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives” after “certify” and struck out “coordinating, primary, or supporting” before “responsibilities”.
 
-#### § 754. Use of existing resources
+#### § 754. Use of existing resources
 
 In establishing the national preparedness goal and national preparedness system, the Administrator shall use existing preparedness documents, planning tools, and guidelines to the extent practicable and consistent with this Act.
 
-(Pub. L. 109–295, title VI, § 654, Oct. 4, 2006, 120 Stat. 1432.)
+(Pub. L. 109–295, title VI, § 654, Oct. 4, 2006, 120 Stat. 1432.)
 
 **Editorial Notes**
 
@@ -929,7 +929,7 @@ This Act, referred to in text, means title VI of Pub. L. 109–295, Oct. 4, 2006
 
 ### Part B—Additional Preparedness
 
-#### § 761. Emergency Management Assistance Compact grants
+#### § 761. Emergency Management Assistance Compact grants
 
 **(a) In general**
 
@@ -955,7 +955,7 @@ The Administrator shall consult with the Administrator of the Emergency Manageme
 
 There is authorized to be appropriated to carry out this section $4,000,000 for each of fiscal years 2018 through 2022. Such sums shall remain available until expended.
 
-(Pub. L. 109–295, title VI, § 661, Oct. 4, 2006, 120 Stat. 1432; Pub. L. 115–254, div. D, § 1217(b), Oct. 5, 2018, 132 Stat. 3451.)
+(Pub. L. 109–295, title VI, § 661, Oct. 4, 2006, 120 Stat. 1432; Pub. L. 115–254, div. D, § 1217(b), Oct. 5, 2018, 132 Stat. 3451.)
 
 **Editorial Notes**
 
@@ -967,7 +967,7 @@ The Joint Resolution entitled “Joint Resolution granting the consent of Congre
 
 2018—Subsec. (d). Pub. L. 115–254 substituted “for each of fiscal years 2018 through 2022” for “for fiscal year 2008”.
 
-#### § 762. Emergency management performance grants program
+#### § 762. Emergency management performance grants program
 
 **(a) Definitions** In this section—
 
@@ -1003,13 +1003,13 @@ Notwithstanding subsection (d), in any fiscal year before fiscal year 2013 in wh
 
 There is authorized to be appropriated to carry out the program, for each of fiscal years 2018 through 2022, $950,000,000.
 
-(Pub. L. 109–295, title VI, § 662, Oct. 4, 2006, 120 Stat. 1433; Pub. L. 110–53, title II, § 201, Aug. 3, 2007, 121 Stat. 294; Pub. L. 115–254, div. D, § 1217(c), Oct. 5, 2018, 132 Stat. 3451.)
+(Pub. L. 109–295, title VI, § 662, Oct. 4, 2006, 120 Stat. 1433; Pub. L. 110–53, title II, § 201, Aug. 3, 2007, 121 Stat. 294; Pub. L. 115–254, div. D, § 1217(c), Oct. 5, 2018, 132 Stat. 3451.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (b) and (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. Title VI of the Act is classified generally to subchapter IV–B (§ 5195 et seq.) of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (b) and (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. Title VI of the Act is classified generally to subchapter IV–B (§ 5195 et seq.) of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Amendments**
 
@@ -1027,13 +1027,13 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 2007—Pub. L. 110–53 amended section catchline and text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated for the Emergency Management Performance Grants Program for fiscal year 2008, an amount equal to the amount appropriated for the program for fiscal year 2007 and an additional $175,000,000.”
 
-#### § 763. Transfer of Noble Training Center
+#### § 763. Transfer of Noble Training Center
 
 The Noble Training Center is transferred to the Center for Domestic Preparedness. The Center for Domestic Preparedness shall integrate the Noble Training Center into the program structure of the Center for Domestic Preparedness.
 
-(Pub. L. 109–295, title VI, § 663, Oct. 4, 2006, 120 Stat. 1433.)
+(Pub. L. 109–295, title VI, § 663, Oct. 4, 2006, 120 Stat. 1433.)
 
-#### § 763a. Training for Federal Government, foreign governments, or private entities
+#### § 763a. Training for Federal Government, foreign governments, or private entities
 
 In fiscal year 2013 and thereafter: (a) the Center for Domestic Preparedness may provide training to emergency response providers from the Federal Government, foreign governments, or private entities, if the Center for Domestic Preparedness is reimbursed for the cost of such training, and any reimbursement under this subsection shall be credited to the account from which the expenditure being reimbursed was made and shall be available, without fiscal year limitation, for the purposes for which amounts in the account may be expended; (b) the head of the Center for Domestic Preparedness shall ensure that any training provided under (a) does not interfere with the primary mission of the Center to train State and local emergency response providers; and (c) subject to (b), nothing in (a) prohibits the Center for Domestic Preparedness from providing training to employees of the Federal Emergency Management Agency in existing chemical, biological, radiological, nuclear, explosives, mass casualty, and medical surge courses pursuant to 5 U.S.C. 4103 without reimbursement for the cost of such training.
 
@@ -1045,7 +1045,7 @@ In fiscal year 2013 and thereafter: (a) the Center for Domestic Preparedness may
 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2013, and not as part of the Post-Katrina Emergency Management Reform Act of 2006 which comprises this chapter.
 
-#### § 764. National exercise simulation center
+#### § 764. National exercise simulation center
 
 The President shall establish a national exercise simulation center that—
 
@@ -1061,9 +1061,9 @@ The President shall establish a national exercise simulation center that—
 
 **(2)** uses modeling and simulation for training, exercises, and command and control functions at the operational level.
 
-(Pub. L. 109–295, title VI, § 664, Oct. 4, 2006, 120 Stat. 1433.)
+(Pub. L. 109–295, title VI, § 664, Oct. 4, 2006, 120 Stat. 1433.)
 
-#### § 765. Real property transactions
+#### § 765. Real property transactions
 
 **(a) Reports to the Armed Services Committees** The Director of the Office of Civil and Defense Mobilization, or his designee, may not enter into any of the following listed transactions by or for the use of that agency until after the expiration of thirty days from the date upon which a report of the facts concerning the proposed transaction is submitted to the Committees on Armed Services of the Senate and House of Representatives:
 
@@ -1091,7 +1091,7 @@ This section applies only to real property in the States of the Union, the Distr
 
 A statement in an instrument of conveyance, including a lease, that the requirements of this section have been met, or that the conveyance is not subject to this section, is conclusive.
 
-(Aug. 10, 1956, ch. 1041, § 43, 70A Stat. 636; Pub. L. 86–70, § 37, June 25, 1959, 73 Stat. 150; Pub. L. 86–500, title V, § 512, June 8, 1960, 74 Stat. 187; Pub. L. 86–624, § 38, June 12, 1960, 74 Stat. 421; Pub. L. 96–470, title II, § 202(c), Oct. 19, 1980, 94 Stat. 2242.)
+(Aug. 10, 1956, ch. 1041, § 43, 70A Stat. 636; Pub. L. 86–70, § 37, June 25, 1959, 73 Stat. 150; Pub. L. 86–500, title V, § 512, June 8, 1960, 74 Stat. 187; Pub. L. 86–624, § 38, June 12, 1960, 74 Stat. 421; Pub. L. 96–470, title II, § 202(c), Oct. 19, 1980, 94 Stat. 2242.)
 
 **Editorial Notes**
 
@@ -1099,7 +1099,7 @@ A statement in an instrument of conveyance, including a lease, that the requirem
 
 Section was formerly classified to section 2285 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as this section.
 
-Prior to classification as section 2285, section was formerly classified to section 171x of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Prior to classification as section 2285, section was formerly classified to section 171x of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 Section was enacted as a part of act Aug. 10, 1956, ch. 1041, and not as part of the Post-Katrina Emergency Management Reform Act of 2006 which comprises this chapter.
 
@@ -1113,7 +1113,7 @@ Subsec. (b). Pub. L. 86–500 substituted “Director of the Office of Civil and
 
 Subsec. (c). Pub. L. 86–624 substituted “States of the Union, the District of Columbia” for “United States, Hawaii.”
 
-Pub. L. 86–500 struck out “, Hawaii,” after “United States”.
+Pub. L. 86–500 struck out “, Hawaii,” after “United States”.
 
 Subsec. (d). Pub. L. 86–500 reenacted subsection without change.
 
@@ -1145,13 +1145,13 @@ Functions of Federal Civil Defense Administration transferred to President by se
 
 Office of Emergency Preparedness, including offices of Director, Deputy Director, Assistant Directors, and Regional Directors, abolished and functions vested by law in Office of Emergency Preparedness or Director of Office of Emergency Preparedness transferred to President by sections 1 and 3(a)(1) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
-Functions vested in Director of Office of Emergency Preparedness as of June 30, 1973, by Executive Order, proclamation, or other directive issued by or on behalf of President or otherwise, with certain exceptions, transferred to Administrator of General Services, effective July 1, 1973, by Ex. Ord. No. 11725, § 3, eff. June 29, 1973, 38 F.R. 17175, formerly set out as a note under section 2271 of the former Appendix to Title 50, War and National Defense.
+Functions vested in Director of Office of Emergency Preparedness as of June 30, 1973, by Executive Order, proclamation, or other directive issued by or on behalf of President or otherwise, with certain exceptions, transferred to Administrator of General Services, effective July 1, 1973, by Ex. Ord. No. 11725, § 3, eff. June 29, 1973, 38 F.R. 17175, formerly set out as a note under section 2271 of the former Appendix to Title 50, War and National Defense.
 
 Functions of Administrator of Federal Civil Defense Administration under this section, previously transferred to President, delegated to Director of Federal Emergency Management Agency by section 4–105 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43242, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 ### Part C—Miscellaneous Authorities
 
-#### § 771. National Disaster Recovery Strategy
+#### § 771. National Disaster Recovery Strategy
 
 **(a) In general**
 
@@ -1185,9 +1185,9 @@ Not later than 270 days after October 4, 2006, the Administrator shall submit to
 
 **(B)** on a periodic basis after the submission of the report under paragraph (1), but not less than once every 5 years after the date of the submission of the report under paragraph (1).
 
-(Pub. L. 109–295, title VI, § 682, Oct. 4, 2006, 120 Stat. 1445.)
+(Pub. L. 109–295, title VI, § 682, Oct. 4, 2006, 120 Stat. 1445.)
 
-#### § 772. National Disaster Housing Strategy
+#### § 772. National Disaster Housing Strategy
 
 **(a) In general**
 
@@ -1255,15 +1255,15 @@ Not later than 270 days after October 4, 2006, the Administrator shall submit to
 
 **(B)** on a periodic basis after the submission of the report under paragraph (1), but not less than once every 5 years after the date of the submission of the report under paragraph (1).
 
-(Pub. L. 109–295, title VI, § 683, Oct. 4, 2006, 120 Stat. 1446.)
+(Pub. L. 109–295, title VI, § 683, Oct. 4, 2006, 120 Stat. 1446.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
-#### § 773. Individuals with disabilities guidelines
+#### § 773. Individuals with disabilities guidelines
 
 Not later than 90 days after October 4, 2006, and in coordination with the National Advisory Council, the National Council on Disability, the Interagency Coordinating Council on Preparedness and Individuals With Disabilities established under Executive Order No. 13347, and the Disability Coordinator (established under section 321b of this title), the Administrator shall develop guidelines to accommodate individuals with disabilities, which shall include guidelines for—
 
@@ -1271,7 +1271,7 @@ Not later than 90 days after October 4, 2006, and in coordination with the Natio
 
 **(2)** devices used in connection with disaster operations, including first aid stations, mass feeding areas, portable payphone stations, portable toilets, and temporary housing.
 
-(Pub. L. 109–295, title VI, § 689(a), Oct. 4, 2006, 120 Stat. 1448.)
+(Pub. L. 109–295, title VI, § 689(a), Oct. 4, 2006, 120 Stat. 1448.)
 
 **Editorial Notes**
 
@@ -1279,7 +1279,7 @@ Not later than 90 days after October 4, 2006, and in coordination with the Natio
 
 Executive Order No. 13347, referred to in text, is set out as a note under section 314 of this title.
 
-#### § 774. Reunification
+#### § 774. Reunification
 
 **(a) Definitions** In this section:
 
@@ -1349,7 +1349,7 @@ Not later than 180 days after October 4, 2006, the Administrator, in coordinatio
 
 Not later than 270 days after October 4, 2006, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate and the Committee on Transportation and Infrastructure and the Committee on the Judiciary of the House of Representatives a report describing in detail the status of the Child Locator Center, including funding issues and any difficulties or issues in establishing the Center or completing the cooperative agreements described in subsection (b)(3)(K).
 
-(Pub. L. 109–295, title VI, § 689b, Oct. 4, 2006, 120 Stat. 1449.)
+(Pub. L. 109–295, title VI, § 689b, Oct. 4, 2006, 120 Stat. 1449.)
 
 **Editorial Notes**
 
@@ -1357,7 +1357,7 @@ Not later than 270 days after October 4, 2006, the Administrator shall submit to
 
 Section is comprised of section 689b of Pub. L. 109–295. Subsec. (c) of section 689b of Pub. L. 109–295 amended section 11292 of Title 34, Crime Control and Law Enforcement.
 
-#### § 775. National Emergency Family Registry and Locator System
+#### § 775. National Emergency Family Registry and Locator System
 
 **(a) Definitions** In this section—
 
@@ -1391,9 +1391,9 @@ Not later than 90 days after October 4, 2006, the Administrator shall enter a me
 
 Not later than 270 days after October 4, 2006, the Administrator shall submit to the appropriate committees of Congress a report describing in detail the status of the National Emergency Family Registry and Locator System, including any difficulties or issues in establishing the System, including funding issues.
 
-(Pub. L. 109–295, title VI, § 689c, Oct. 4, 2006, 120 Stat. 1451.)
+(Pub. L. 109–295, title VI, § 689c, Oct. 4, 2006, 120 Stat. 1451.)
 
-#### § 776. Individuals and households pilot program
+#### § 776. Individuals and households pilot program
 
 **(a) Pilot program**
 
@@ -1443,9 +1443,9 @@ Not later than March 31, 2009, the Administrator shall submit to the appropriate
 
 The Administrator shall not approve a project under the pilot program after December 31, 2008.
 
-(Pub. L. 109–295, title VI, § 689i, Oct. 4, 2006, 120 Stat. 1454.)
+(Pub. L. 109–295, title VI, § 689i, Oct. 4, 2006, 120 Stat. 1454.)
 
-#### § 777. Public assistance pilot program
+#### § 777. Public assistance pilot program
 
 **(a) Pilot program**
 
@@ -1511,11 +1511,11 @@ The Administrator shall initiate implementation of the pilot program under this 
 
 The Administrator may not approve a project under the pilot program under this section after December 31, 2008.
 
-(Pub. L. 109–295, title VI, § 689j, Oct. 4, 2006, 120 Stat. 1455.)
+(Pub. L. 109–295, title VI, § 689j, Oct. 4, 2006, 120 Stat. 1455.)
 
 ### Part D—Prevention of Fraud, Waste, and Abuse
 
-#### § 791. Advance contracting
+#### § 791. Advance contracting
 
 **(a) Initial report**
 
@@ -1597,7 +1597,7 @@ At the end of each fiscal quarter, beginning with the first fiscal quarter occur
 
 **(B)** clearly communicate the purpose and use of a master acquisition planning schedule.
 
-(Pub. L. 109–295, title VI, § 691, Oct. 4, 2006, 120 Stat. 1457; Pub. L. 116–272, § 3(a), Dec. 31, 2020, 134 Stat. 3349.)
+(Pub. L. 109–295, title VI, § 691, Oct. 4, 2006, 120 Stat. 1457; Pub. L. 116–272, § 3(a), Dec. 31, 2020, 134 Stat. 3349.)
 
 **Editorial Notes**
 
@@ -1609,7 +1609,7 @@ At the end of each fiscal quarter, beginning with the first fiscal quarter occur
 
 **Findings**
 
-Pub. L. 116–272, § 2, Dec. 31, 2020, 134 Stat. 3349, provided that:
+Pub. L. 116–272, § 2, Dec. 31, 2020, 134 Stat. 3349, provided that:
 
 > “Congress finds that—
 
@@ -1623,13 +1623,13 @@ Pub. L. 116–272, § 2, Dec. 31, 2020, 134 Stat. 3349, provided that:
 
 **Report**
 
-Pub. L. 116–272, § 3(b), Dec. 31, 2020, 134 Stat. 3351, provided that: “The Administrator of the Federal Emergency Management Agency shall regularly update the appropriate committees of Congress (as defined in section 602 of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 701)) on the progress of the Federal Emergency Management Agency in implementing the recommendations of the Government Accountability Office in the report entitled ‘2017 Disaster Contracting: Action Needed to Better Ensure More Effective Use and Management of Advance Contracts’, as required under section 691 of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 791), as amended by subsection (a).”
+Pub. L. 116–272, § 3(b), Dec. 31, 2020, 134 Stat. 3351, provided that: “The Administrator of the Federal Emergency Management Agency shall regularly update the appropriate committees of Congress (as defined in section 602 of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 701)) on the progress of the Federal Emergency Management Agency in implementing the recommendations of the Government Accountability Office in the report entitled ‘2017 Disaster Contracting: Action Needed to Better Ensure More Effective Use and Management of Advance Contracts’, as required under section 691 of the Post-Katrina Emergency Management Reform Act of 2006 (6 U.S.C. 791), as amended by subsection (a).”
 
-#### § 792. Repealed. Pub. L. 117–253, § 1, Dec. 20, 2022, 136 Stat. 2360
+#### § 792. Repealed. Pub. L. 117–253, § 1, Dec. 20, 2022, 136 Stat. 2360
 
-Section, Pub. L. 109–295, title VI, § 692, Oct. 4, 2006, 120 Stat. 1458, related to limitations on tiering of subcontractors.
+Section, Pub. L. 109–295, title VI, § 692, Oct. 4, 2006, 120 Stat. 1458, related to limitations on tiering of subcontractors.
 
-#### § 793. Oversight and accountability of Federal disaster expenditures
+#### § 793. Oversight and accountability of Federal disaster expenditures
 
 **(a) Authority of Administrator to designate funds for oversight activities**
 
@@ -1689,9 +1689,9 @@ A Federal agency receiving oversight funds under this section shall submit annua
 
 In this section, the term “oversight funds” means funds referred to in subsection (a) that are designated for use in performing oversight activities.
 
-(Pub. L. 109–295, title VI, § 693, Oct. 4, 2006, 120 Stat. 1458.)
+(Pub. L. 109–295, title VI, § 693, Oct. 4, 2006, 120 Stat. 1458.)
 
-#### § 794. Limitation on length of certain noncompetitive contracts
+#### § 794. Limitation on length of certain noncompetitive contracts
 
 **(a) Regulations** The Secretary shall promulgate regulations applicable to contracts described in subsection (c) to restrict the contract period of any such contract entered into using procedures other than competitive procedures pursuant to the exception provided in paragraph (2) of section 3304(a) of title 41 to the minimum contract period necessary—
 
@@ -1701,9 +1701,9 @@ In this section, the term “oversight funds” means funds referred to in subse
 
 **(b) Specific contract period**
 
-The regulations promulgated under subsection (a) shall require the contract period to not to exceed 1
+The regulations promulgated under subsection (a) shall require the contract period to not to exceed 1
 
-<sup>1</sup>  So in original. Probably should be “period not to exceed”.
+<sup>1</sup> So in original. Probably should be “period not to exceed”.
 
 150 days, unless the Secretary determines that exceptional circumstances apply.
 
@@ -1711,17 +1711,17 @@ The regulations promulgated under subsection (a) shall require the contract peri
 
 This section applies to any contract in an amount greater than the simplified acquisition threshold (as defined by section 134 of title 41) entered into by the Department to facilitate response to or recovery from a natural disaster, act of terrorism, or other man-made disaster.
 
-(Pub. L. 109–295, title VI, § 695, Oct. 4, 2006, 120 Stat. 1460.)
+(Pub. L. 109–295, title VI, § 695, Oct. 4, 2006, 120 Stat. 1460.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “paragraph (2) of section 3304(a) of title 41” substituted for “paragraph (2) of section 303(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), “paragraph (2) of section 3304(a) of title 41” substituted for “paragraph (2) of section 303(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (c), “section 134 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), “section 134 of title 41” substituted for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-#### § 795. Fraud, waste, and abuse controls
+#### § 795. Fraud, waste, and abuse controls
 
 **(a) In general** The Administrator shall ensure that—
 
@@ -1737,7 +1737,7 @@ In subsec. (c), “section 134 of title 41” substituted for “section 4 of th
 
 The Administrator shall ensure that any database or similar application processing system for Federal disaster relief assistance programs administered by the Agency undergoes a review by the Inspector General of the Agency to determine the existence and implementation of such internal controls required under this section and the amendments made by this section.
 
-(Pub. L. 109–295, title VI, § 696, Oct. 4, 2006, 120 Stat. 1460.)
+(Pub. L. 109–295, title VI, § 696, Oct. 4, 2006, 120 Stat. 1460.)
 
 **Editorial Notes**
 
@@ -1749,7 +1749,7 @@ For the amendments made by this section, referred to in subsec. (b), see Codific
 
 Section is comprised of section 696 of Pub. L. 109–295. Subsec. (c) of section 696 of Pub. L. 109–295 amended section 5174 of Title 42, The Public Health and Welfare.
 
-#### § 796. Registry of disaster response contractors
+#### § 796. Registry of disaster response contractors
 
 **(a) Definitions** In this section—
 
@@ -1809,27 +1809,27 @@ The registry shall be made generally available on the Internet site of the Agenc
 
 As part of the acquisition planning for contracting for debris removal, distribution of supplies in a disaster, reconstruction, and other disaster or emergency relief activities, a Federal agency shall consult the registry.
 
-(Pub. L. 109–295, title VI, § 697, Oct. 4, 2006, 120 Stat. 1461.)
+(Pub. L. 109–295, title VI, § 697, Oct. 4, 2006, 120 Stat. 1461.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Small Business Act, referred to in subsec. (a)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (a)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
-#### § 797. Fraud prevention training program
+#### § 797. Fraud prevention training program
 
 The Administrator shall develop and implement a program to provide training on the prevention of waste, fraud, and abuse of Federal disaster relief assistance relating to the response to or recovery from natural disasters and acts of terrorism or other man-made disasters and ways to identify such potential waste, fraud, and abuse.
 
-(Pub. L. 109–295, title VI, § 698, Oct. 4, 2006, 120 Stat. 1462.)
+(Pub. L. 109–295, title VI, § 698, Oct. 4, 2006, 120 Stat. 1462.)
 
 ### Part E—Authorization of Appropriations
 
-#### § 811. Authorization of appropriations
+#### § 811. Authorization of appropriations
 
-There are authorized to be appropriated to carry out this title 1
+There are authorized to be appropriated to carry out this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the amendments made by this title for the administration and operations of the Agency—
 
@@ -1839,7 +1839,7 @@ and the amendments made by this title for the administration and operations of t
 
 **(3)** for fiscal year 2010, an amount equal to the amount described in paragraph (2), multiplied by 1.1.
 
-(Pub. L. 109–295, title VI, § 699, Oct. 4, 2006, 120 Stat. 1462.)
+(Pub. L. 109–295, title VI, § 699, Oct. 4, 2006, 120 Stat. 1462.)
 
 **Editorial Notes**
 
@@ -1855,7 +1855,7 @@ This title, referred to in text, is title VI of Pub. L. 109–295, Oct. 4, 2006,
 
 Part was enacted as part of the Global Catastrophic Risk Management Act of 2022 and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not part of the Post-Katrina Emergency Management Reform Act of 2006 which comprises this chapter.
 
-#### § 821. Definitions
+#### § 821. Definitions
 
 In this part:
 
@@ -1925,7 +1925,7 @@ The term “national exercise program” means activities carried out to test an
 
 The term “Secretary” means the Secretary of Homeland Security.
 
-(Pub. L. 117–263, div. G, title LXXIII, § 7302, Dec. 23, 2022, 136 Stat. 3684.)
+(Pub. L. 117–263, div. G, title LXXIII, § 7302, Dec. 23, 2022, 136 Stat. 3684.)
 
 **Editorial Notes**
 
@@ -1933,7 +1933,7 @@ The term “Secretary” means the Secretary of Homeland Security.
 
 Section 5195c(e) of title 42, referred to in par. (4), was in the original “section 1016(e) of the Critical Infrastructure Protection Act of 2001” and was translated as reading “section 1016(e) of the Critical Infrastructures Protection Act of 2001”, to reflect the probable intent of Congress.
 
-#### § 822. Assessment of global catastrophic risk
+#### § 822. Assessment of global catastrophic risk
 
 **(a) In general**
 
@@ -1975,9 +1975,9 @@ The Secretary and the Administrator shall coordinate an assessment of global cat
 
 **(17)** other stakeholders the Secretary and the Administrator determine appropriate.
 
-(Pub. L. 117–263, div. G, title LXXIII, § 7303, Dec. 23, 2022, 136 Stat. 3685.)
+(Pub. L. 117–263, div. G, title LXXIII, § 7303, Dec. 23, 2022, 136 Stat. 3685.)
 
-#### § 823. Report required
+#### § 823. Report required
 
 **(a) In general**
 
@@ -2009,9 +2009,9 @@ Not later than 1 year after December 23, 2022, and every 10 years thereafter, th
 
 **(2)** share information gained through the consultation required under paragraph (1) with relevant Federal partners listed in section 822(b) of this title.
 
-(Pub. L. 117–263, div. G, title LXXIII, § 7304, Dec. 23, 2022, 136 Stat. 3686.)
+(Pub. L. 117–263, div. G, title LXXIII, § 7304, Dec. 23, 2022, 136 Stat. 3686.)
 
-#### § 824. Enhanced catastrophic incident annex
+#### § 824. Enhanced catastrophic incident annex
 
 **(a) In general** The Secretary, in coordination with the Administrator and the Federal partners listed in section 822(b) of this title, shall supplement each Federal Interagency Operational Plan to include an annex containing a strategy to ensure the health, safety, and general welfare of the civilian population affected by catastrophic incidents by—
 
@@ -2079,19 +2079,19 @@ Not later than 1 year after December 23, 2022, and every 10 years thereafter, th
 
 **(5)** the United States military is sufficiently engaged in armed or cyber conflict with State or non-State adversaries, or is otherwise unable to augment domestic response capabilities in a significant manner due to a catastrophic incident.
 
-(Pub. L. 117–263, div. G, title LXXIII, § 7305, Dec. 23, 2022, 136 Stat. 3687.)
+(Pub. L. 117–263, div. G, title LXXIII, § 7305, Dec. 23, 2022, 136 Stat. 3687.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(4), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(4), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Validation of Strategy; Recommendations; Report**
 
-Pub. L. 117–263, div. G, title LXXIII, §§ 7306–7308, Dec. 23, 2022, 136 Stat. 3688, provided that:
+Pub. L. 117–263, div. G, title LXXIII, §§ 7306–7308, Dec. 23, 2022, 136 Stat. 3688, provided that:
 
 > **“SEC. 7306. VALIDATION OF THE STRATEGY THROUGH AN EXERCISE.**
 
@@ -2115,13 +2115,13 @@ Pub. L. 117–263, div. G, title LXXIII, §§ 7306–7308, Dec. 23, 2022, 136 
 
 > **“(2)** an after-action report following the conduct of the exercise described in section 7306.”
 
-#### § 825. Rules of construction
+#### § 825. Rules of construction
 
 **(a) Administrator**
 
-Nothing in this part shall be construed to supersede the civilian emergency management authority of the Administrator under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or the Post Katrina Emergency Management Reform Act 1
+Nothing in this part shall be construed to supersede the civilian emergency management authority of the Administrator under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or the Post Katrina Emergency Management Reform Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (6 U.S.C. 701 et seq.).
 
@@ -2129,12 +2129,12 @@ Nothing in this part shall be construed to supersede the civilian emergency mana
 
 Nothing in this part shall be construed as providing new authority to the Secretary, except to coordinate and facilitate the development of the assessments and reports required pursuant to this part.
 
-(Pub. L. 117–263, div. G, title LXXIII, § 7309, Dec. 23, 2022, 136 Stat. 3689.)
+(Pub. L. 117–263, div. G, title LXXIII, § 7309, Dec. 23, 2022, 136 Stat. 3689.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The Post Katrina Emergency Management Reform Act, referred to in subsec. (a), probably means the Post-Katrina Emergency Management Reform Act of 2006, which is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1394, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.

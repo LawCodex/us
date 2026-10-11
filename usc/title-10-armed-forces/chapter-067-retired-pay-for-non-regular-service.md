@@ -23,13 +23,13 @@ A prior chapter 67 was transferred to part II of subtitle E of this title and re
 
 **Amendments**
 
-1996—Pub. L. 104–106, div. A, title XV, § 1503(a)(13), Feb. 10, 1996, 110 Stat. 511, substituted “NON-REGULAR” for “­NONREGULAR” in chapter heading.
+1996—Pub. L. 104–106, div. A, title XV, § 1503(a)(13), Feb. 10, 1996, 110 Stat. 511, substituted “NON-REGULAR” for “­NONREGULAR” in chapter heading.
 
-## § 1331. Reference to chapter 1223
+## § 1331. Reference to chapter 1223
 
 Provisions of law relating to retired pay for nonregular service are set forth in chapter 1223 of this title (beginning with section 12731).
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1662(j)(7), Oct. 5, 1994, 108 Stat. 3005.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1662(j)(7), Oct. 5, 1994, 108 Stat. 3005.)
 
 **Editorial Notes**
 

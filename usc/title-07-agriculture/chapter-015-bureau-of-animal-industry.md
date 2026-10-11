@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 15—BUREAU OF ANIMAL INDUSTRY
 
-## § 391. Establishment of bureau; appointment of chief; duties
+## § 391. Establishment of bureau; appointment of chief; duties
 
 There shall be in the Department of Agriculture a Bureau of Animal Industry. The Secretary of Agriculture is authorized to appoint a chief thereof, who shall be a competent veterinary surgeon, and whose duty it shall be to investigate and report upon the condition of the domestic animals and live poultry of the United States, their protection and use, and also inquire into and report the causes of contagious, infectious, and communicable diseases among them, and the means for the prevention and cure of the same, and to collect such information on these subjects as shall be valuable to the agricultural and commercial interests of the country.
 
-(May 29, 1884, ch. 60, § 1, 23 Stat. 31; July 14, 1890, ch. 707, 26 Stat. 288; Feb. 7, 1928, ch. 30, 45 Stat. 59.)
+(May 29, 1884, ch. 60, § 1, 23 Stat. 31; July 14, 1890, ch. 707, 26 Stat. 288; Feb. 7, 1928, ch. 30, 45 Stat. 59.)
 
 **Editorial Notes**
 
@@ -51,27 +51,27 @@ Authority formerly granted to Commissioner of Agriculture by section 1 of act of
 
 Functions of Bureau of Animal Industry of Agricultural Research Administration concerned primarily with regulatory activities consolidated with other agencies into Food Distribution Administration, which was consolidated into War Food Administration, which was terminated and its functions transferred to Secretary of Agriculture, by Ex. Ord. No. 9577.
 
-## § 392. Repealed. Oct. 31, 1951, ch. 654, § 1(11), 65 Stat. 701
+## § 392. Repealed. Oct. 31, 1951, ch. 654, § 1(11), 65 Stat. 701
 
 Section, act Aug. 10, 1912, ch. 284, 37 Stat. 274, related to sale or exchange of animals not needed.
 
-## § 393. Sale of pathological and zoological specimens; disposition of moneys
+## § 393. Sale of pathological and zoological specimens; disposition of moneys
 
 The Secretary of Agriculture is authorized to prepare and sell at cost such pathological and zoological specimens as he may deem of scientific or educational value to scientists or others engaged in the work of hygiene and sanitation: *Provided*, That all moneys received from the sale of such specimens shall be deposited in the Treasury as miscellaneous receipts.
 
-(Mar. 4, 1913, ch. 145, § 1 [part], 37 Stat. 833.)
+(Mar. 4, 1913, ch. 145, § 1 [part], 37 Stat. 833.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, § 301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
+Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, § 301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
 
-## § 394. Repealed. Pub. L. 107–171, title X, § 10703(c)(3), May 13, 2002, 116 Stat. 518
+## § 394. Repealed. Pub. L. 107–171, title X, § 10703(c)(3), May 13, 2002, 116 Stat. 518
 
 Section, act July 24, 1919, ch. 26, 41 Stat. 241, related to overtime of employees engaged in enforcement of Meat Inspection Act.
 
-## § 394a. Overtime of employees working at establishments which prepare virus, serum, toxin, and analogous products
+## § 394a. Overtime of employees working at establishments which prepare virus, serum, toxin, and analogous products
 
 The Secretary of Agriculture is authorized to pay employees of the Bureau of Animal Industry employed in establishments subject to the provisions of section 157 of title 21, for all overtime, night, or holiday work performed at such establishments, at such rates as he may determine, and to accept from such establishments wherein such overtime work is performed reimbursement for any sums paid out by him for such overtime work.
 
@@ -81,13 +81,13 @@ The Secretary of Agriculture is authorized to pay employees of the Bureau of Ani
 
 **Transfer of Functions**
 
-Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, § 301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
+Functions of Bureau of Animal Industry transferred to Secretary of Agriculture by 1947 Reorg. Plan No. 1, § 301, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 952. See note set out under section 391 of this title.
 
-## § 395. Fees for rabies diagnoses; disposition of moneys
+## § 395. Fees for rabies diagnoses; disposition of moneys
 
 Fees shall be charged for all diagnoses in connection with rabies, except those performed for agencies of the United States Government, in such amounts as the Secretary shall prescribe, and such fees shall be covered into the Treasury as miscellaneous receipts.
 
-(Sept. 21, 1944, ch. 412, title I, § 101(e), 58 Stat. 734.)
+(Sept. 21, 1944, ch. 412, title I, § 101(e), 58 Stat. 734.)
 
 **Editorial Notes**
 
@@ -105,13 +105,13 @@ July 22, 1942, ch. 516, 56 Stat. 674.
 
 **Authorization of Appropriation**
 
-Act Sept. 21, 1944, ch. 412, title I, § 101(g), 58 Stat. 735, provided that: “There are hereby authorized to be appropriated for the purposes of this section [enacting this section, sections 396 and 398 of this title, former section 429 of this title, section 626 of Title 21, Food and Drugs, and former section 114a of Title 21] such sums as the Congress may from time to time determine to be necessary.”
+Act Sept. 21, 1944, ch. 412, title I, § 101(g), 58 Stat. 735, provided that: “There are hereby authorized to be appropriated for the purposes of this section [enacting this section, sections 396 and 398 of this title, former section 429 of this title, section 626 of Title 21, Food and Drugs, and former section 114a of Title 21] such sums as the Congress may from time to time determine to be necessary.”
 
-## § 396. Inspection of livestock, hides, animal products, etc.; place; charges; disposition of funds
+## § 396. Inspection of livestock, hides, animal products, etc.; place; charges; disposition of funds
 
 The Secretary of Agriculture upon application of any exporter, importer, packer, or owner of, or the agent thereof, or dealer in, livestock, hides, skins, meat, or other animal products may, in his discretion, cause to be made inspections and examinations at places other than the headquarters of inspectors for the convenience of said applicants, who may be charged for the expenses of travel and subsistence incurred for such inspections and examinations, the funds derived from such charges to be deposited in the Treasury of the United States to the credit of the appropriation from which the expenses are paid.
 
-(Sept. 21, 1944, ch. 412, title I, § 101(c), 58 Stat. 734.)
+(Sept. 21, 1944, ch. 412, title I, § 101(c), 58 Stat. 734.)
 
 **Editorial Notes**
 
@@ -147,19 +147,19 @@ June 4, 1936, ch. 489, 49 Stat. 1429.
 
 Authorization of appropriation of sums necessary for the purposes of this section, see note under section 395 of this title.
 
-## § 397. Omitted
+## § 397. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts Aug. 28, 1954, ch. 1041, title II, § 204(e), 68 Stat. 900; Apr. 2, 1956, ch. 159, § 2, 70 Stat. 87, authorized transfer of Commodity Credit Corporation funds not to exceed $17,000,000 for fiscal year ending June 30, 1956 and not to exceed $20,000,000 for each of fiscal years 1957 and 1958 for brucellosis eradication, indemnification for destroyed cattle and administrative expenses and authorized appropriations to reimburse the Commodity Credit Corporation for the expenditures.
+Section, acts Aug. 28, 1954, ch. 1041, title II, § 204(e), 68 Stat. 900; Apr. 2, 1956, ch. 159, § 2, 70 Stat. 87, authorized transfer of Commodity Credit Corporation funds not to exceed $17,000,000 for fiscal year ending June 30, 1956 and not to exceed $20,000,000 for each of fiscal years 1957 and 1958 for brucellosis eradication, indemnification for destroyed cattle and administrative expenses and authorized appropriations to reimburse the Commodity Credit Corporation for the expenditures.
 
-## § 398. Purchase and testing of serums or analogous products; dissemination of test results
+## § 398. Purchase and testing of serums or analogous products; dissemination of test results
 
 The Secretary of Agriculture may purchase in the open market from applicable appropriations samples of all tuberculin, serums, antitoxins, or analogous products, of foreign or domestic manufacture, which are sold in the United States, for the detection, prevention, treatment, or cure of diseases of domestic animals, test the same, and disseminate the results of said tests in such manner as he may deem best.
 
-(Sept. 21, 1944, ch. 412, title I, § 101(d), 58 Stat. 734.)
+(Sept. 21, 1944, ch. 412, title I, § 101(d), 58 Stat. 734.)
 
 **Editorial Notes**
 
@@ -173,7 +173,7 @@ Section was formerly classified to section 430 of this title prior to editorial 
 
 Authorization of appropriation of sums necessary for the purposes of this section, see note under section 395 of this title.
 
-## § 399. Domestic raising of fur-bearing animals; classification
+## § 399. Domestic raising of fur-bearing animals; classification
 
 For the purposes of all classification and administration of Acts of Congress, Executive orders, administrative orders, and regulations pertaining to—
 
@@ -183,7 +183,7 @@ For the purposes of all classification and administration of Acts of Congress, E
 
 **(c)** the breeding, raising, producing, or marketing of such animals or their products by the producer shall be deemed an agricultural pursuit.
 
-(Apr. 30, 1946, ch. 242, § 1, 60 Stat. 127.)
+(Apr. 30, 1946, ch. 242, § 1, 60 Stat. 127.)
 
 **Editorial Notes**
 
@@ -195,11 +195,11 @@ Section was formerly classified to section 433 of this title prior to editorial 
 
 **Effective Date**
 
-Act Apr. 30, 1946, ch. 242, § 3, 60 Stat. 128, provided that: “This Act [enacting this section and provisions set out as a note below] shall take effect sixty days after the date of its enactment [Apr. 30, 1946].”
+Act Apr. 30, 1946, ch. 242, § 3, 60 Stat. 128, provided that: “This Act [enacting this section and provisions set out as a note below] shall take effect sixty days after the date of its enactment [Apr. 30, 1946].”
 
 **Transfer of Functions**
 
-Act Apr. 30, 1946, ch. 242, § 2, 60 Stat. 127; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, provided that:
+Act Apr. 30, 1946, ch. 242, § 2, 60 Stat. 127; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, provided that:
 
 > **“(a)** All the functions of the Secretary of the Interior and the Fish and Wildlife Service of the Department of the Interior, which affect the breeding, raising, producing, marketing, or any other phase of the production or distribution, of domestically raised fur-bearing animals, or products thereof, are hereby transferred to and vested in the Secretary of Agriculture.
 

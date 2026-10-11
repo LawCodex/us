@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 45—PROTECTION OF INDIANS AND CONSERVATION OF RESOURCES
 
-## § 5101. Allotment of land on Indian reservations
+## § 5101. Allotment of land on Indian reservations
 
 On and after June 18, 1934, no land of any Indian reservation, created or set apart by treaty or agreement with the Indians, Act of Congress, Executive order, purchase, or otherwise, shall be allotted in severalty to any Indian.
 
-(June 18, 1934, ch. 576, § 1, 48 Stat. 984.)
+(June 18, 1934, ch. 576, § 1, 48 Stat. 984.)
 
 **Editorial Notes**
 
@@ -31,21 +31,21 @@ Section was formerly classified to section 461 of this title prior to editorial 
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–204, § 1(a), Mar. 2, 2004, 118 Stat. 542, provided that: “This Act [amending section 5123 of this title and former sections 640d–24 and 712e of this title and provisions set out as notes under section 301 of Title 7, Agriculture, section 7420 of Title 10, Armed Forces, and section 431 of Title 16, Conservation] may be cited as the ‘Native American Technical Corrections Act of 2004’.”
+Pub. L. 108–204, § 1(a), Mar. 2, 2004, 118 Stat. 542, provided that: “This Act [amending section 5123 of this title and former sections 640d–24 and 712e of this title and provisions set out as notes under section 301 of Title 7, Agriculture, section 7420 of Title 10, Armed Forces, and section 431 of Title 16, Conservation] may be cited as the ‘Native American Technical Corrections Act of 2004’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–454, title I, § 101, Nov. 2, 1994, 108 Stat. 4791, provided that: “This title [enacting sections 5130 and 5131 of this title and provisions set out as a note under section 5130 of this title] may be cited as the ‘Federally Recognized Indian Tribe List Act of 1994’.”
+Pub. L. 103–454, title I, § 101, Nov. 2, 1994, 108 Stat. 4791, provided that: “This title [enacting sections 5130 and 5131 of this title and provisions set out as a note under section 5130 of this title] may be cited as the ‘Federally Recognized Indian Tribe List Act of 1994’.”
 
 **Short Title**
 
 Act June 18, 1934, ch. 576, 48 Stat. 984, which enacted this section and sections 5102, 5103, 5107 to 5113, 5115, 5116, 5118, 5120, 5121, 5123 to 5125, and 5129 of this title, is popularly known as the “Indian Reorganization Act”.
 
-## § 5102. Existing periods of trust and restrictions on alienation extended
+## § 5102. Existing periods of trust and restrictions on alienation extended
 
 The existing periods of trust placed upon any Indian lands and any restriction on alienation thereof are extended and continued until otherwise directed by Congress.
 
-(June 18, 1934, ch. 576, § 2, 48 Stat. 984.)
+(June 18, 1934, ch. 576, § 2, 48 Stat. 984.)
 
 **Editorial Notes**
 
@@ -53,7 +53,7 @@ The existing periods of trust placed upon any Indian lands and any restriction o
 
 Section was formerly classified to section 462 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5103. Restoration of lands to tribal ownership
+## § 5103. Restoration of lands to tribal ownership
 
 **(a) Protection of existing rights**
 
@@ -61,13 +61,13 @@ The Secretary of the Interior, if he shall find it to be in the public interest,
 
 **(b) Papago Indians; permits for easements, etc.**
 
-**(1)** , (2) Repealed. May 27, 1955, ch. 106, § 1, 69 Stat. 67.
+**(1)** , (2) Repealed. May 27, 1955, ch. 106, § 1, 69 Stat. 67.
 
 **(3)** Water reservoirs, charcos, water holes, springs, wells, or any other form of water development by the United States or the Papago Indians shall not be used for mining purposes under the terms of this Act, except under permit from the Secretary of the Interior approved by the Papago Indian Council: *Provided*, That nothing herein shall be construed as interfering with or affecting the validity of the water rights of the Indians of this reservation: *Provided further*, That the appropriation of living water heretofore or hereafter affected, by the Papago Indians is recognized and validated subject to all the laws applicable thereto.
 
 **(4)** Nothing herein contained shall restrict the granting or use of permits for easements or rights-of-way; or ingress or egress over the lands for all proper and lawful purposes.
 
-(June 18, 1934, ch. 576, § 3, 48 Stat. 984; Aug. 28, 1937, ch. 866, 50 Stat. 862; May 27, 1955, ch. 106, § 1, 69 Stat. 67.)
+(June 18, 1934, ch. 576, § 3, 48 Stat. 984; Aug. 28, 1937, ch. 866, 50 Stat. 862; May 27, 1955, ch. 106, § 1, 69 Stat. 67.)
 
 **Editorial Notes**
 
@@ -103,19 +103,19 @@ Subsec. (b)(4). Act Aug. 28, 1937, designated second par. as par. (4).
 
 **Papago Indian Reservation**
 
-Act May 27, 1955, ch. 106, § 1, 69 Stat. 67, provided: “That the provisions with respect to subjection of mineral lands within the Papago Indian Reservation to exploration, location, and entry under the mining laws of the United States in the Executive order dated February 1, 1917, creating the Papago Indian Reservation, and in the third proviso in section 1 of the Act of February 21, 1931 (46 Stat. 1202), and the provisions of subsection (b)(1) and (2) and of the remainder, following the word ‘purposes,’ of subsection (b)(4) of section 3 of the Act of June 18, 1934 (48 Stat. 984; 25 U.S.C. 461–479 [now 25 U.S.C. 5101–5129]), as amended by the Act of August 26 [28], 1937 (50 Stat. 862, 863; 25 U.S.C. 463 [now 25 U.S.C. 5103]) [this section], are hereby repealed, all tribal lands within the Papago Indian Reservation are hereby withdrawn from all forms of exploration, location, and entry under such laws, the minerals underlying such lands are hereby made a part of the reservation to be held in trust by the United States for the Papago Indian Tribe, and such minerals shall be subject to lease for mining purposes pursuant to the provisions of the Act of May 11, 1938 (52 Stat. 347) [sections 396a to 396g of this title]: *Provided*, That the provisions of this Act shall not be applicable to lands within the Papago Indian Reservation for which a mineral patent has heretofore been issued or to a claim that has been validly initiated before the date of this Act and thereafter maintained under the mining laws of the United States.”
+Act May 27, 1955, ch. 106, § 1, 69 Stat. 67, provided: “That the provisions with respect to subjection of mineral lands within the Papago Indian Reservation to exploration, location, and entry under the mining laws of the United States in the Executive order dated February 1, 1917, creating the Papago Indian Reservation, and in the third proviso in section 1 of the Act of February 21, 1931 (46 Stat. 1202), and the provisions of subsection (b)(1) and (2) and of the remainder, following the word ‘purposes,’ of subsection (b)(4) of section 3 of the Act of June 18, 1934 (48 Stat. 984; 25 U.S.C. 461–479 [now 25 U.S.C. 5101–5129]), as amended by the Act of August 26 [28], 1937 (50 Stat. 862, 863; 25 U.S.C. 463 [now 25 U.S.C. 5103]) [this section], are hereby repealed, all tribal lands within the Papago Indian Reservation are hereby withdrawn from all forms of exploration, location, and entry under such laws, the minerals underlying such lands are hereby made a part of the reservation to be held in trust by the United States for the Papago Indian Tribe, and such minerals shall be subject to lease for mining purposes pursuant to the provisions of the Act of May 11, 1938 (52 Stat. 347) [sections 396a to 396g of this title]: *Provided*, That the provisions of this Act shall not be applicable to lands within the Papago Indian Reservation for which a mineral patent has heretofore been issued or to a claim that has been validly initiated before the date of this Act and thereafter maintained under the mining laws of the United States.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of the Interior and functions of all agencies and employees of Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all other officers of Department of the Interior and functions of all agencies and employees of Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of those officers, agencies, and employees, by Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 5104. Exchanges of land
+## § 5104. Exchanges of land
 
 For the purpose of effecting land consolidations between Indians and non-Indians within the reservation, the Secretary of the Interior is authorized, under such rules and regulations as he may prescribe, to acquire through purchase, exchange, or relinquishment, any interest in lands, water rights, or surface rights to lands within said reservation. Exchanges of lands hereunder shall be made on the basis of equal value and the value of improvements on lands to be relinquished to the Indians or by Indians to non-Indians shall be given due consideration and allowance made therefor in the valuation of lieu lands. This section shall apply to tribal, trust, or otherwise restricted Indian allotments whether the allottee be living or deceased.
 
-(Aug. 10, 1939, ch. 662, § 2, 53 Stat. 1351.)
+(Aug. 10, 1939, ch. 662, § 2, 53 Stat. 1351.)
 
 **Editorial Notes**
 
@@ -123,11 +123,11 @@ For the purpose of effecting land consolidations between Indians and non-Indians
 
 Section was formerly classified to section 463e of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5105. Title to lands
+## § 5105. Title to lands
 
 Title to lands or any interest therein acquired pursuant to this Act for Indian use shall be taken in the name of the United States of America in trust for the tribe or individual Indian for which acquired.
 
-(Aug. 10, 1939, ch. 662, § 3, 53 Stat. 1351.)
+(Aug. 10, 1939, ch. 662, § 3, 53 Stat. 1351.)
 
 **Editorial Notes**
 
@@ -139,11 +139,11 @@ This Act, referred to in text, is act Aug. 10, 1939, ch. 662, 53 Stat. 1351, whi
 
 Section was formerly classified to section 463f of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5106. Use of funds appropriated under section 5108
+## § 5106. Use of funds appropriated under section 5108
 
 For the purpose of carrying into effect the land-purchase provision of this Act, the Secretary of the Interior is authorized to use so much as may be necessary of any funds heretofore or hereafter appropriated pursuant to section 5108 of this title.
 
-(Aug. 10, 1939, ch. 662, § 4, 53 Stat. 1351.)
+(Aug. 10, 1939, ch. 662, § 4, 53 Stat. 1351.)
 
 **Editorial Notes**
 
@@ -155,11 +155,11 @@ This Act, referred to in text, is act Aug. 10, 1939, ch. 662, 53 Stat. 1351, whi
 
 Section was formerly classified to section 463g of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5107. Transfer and exchange of restricted Indian lands and shares of Indian tribes and corporations
+## § 5107. Transfer and exchange of restricted Indian lands and shares of Indian tribes and corporations
 
 Except as provided in this Act, no sale, devise, gift, exchange, or other transfer of restricted Indian lands or of shares in the assets of any Indian tribe or corporation organized under this Act shall be made or approved: *Provided*, That such lands or interests may, with the approval of the Secretary of the Interior, be sold, devised, or otherwise transferred to the Indian tribe in which the lands or shares are located or from which the shares were derived, or to a successor corporation: *Provided further*, That, subject to section 8(b) of the American Indian Probate Reform Act of 2004 (Public Law 108–374; 25 U.S.C. 2201 note), lands and shares described in the preceding proviso shall descend or be devised to any member of an Indian tribe or corporation described in that proviso or to an heir or lineal descendant of such a member in accordance with the Indian Land Consolidation Act (25 U.S.C. 2201 et seq.), including a tribal probate code approved, or regulations promulgated under, that Act: *Provided further*, That the Secretary of the Interior may authorize any voluntary exchanges of lands of equal value and the voluntary exchange of shares of equal value whenever such exchange, in the judgment of the Secretary, is expedient and beneficial for or compatible with the proper consolidation of Indian lands and for the benefit of cooperative organizations.
 
-(June 18, 1934, ch. 576, § 4, 48 Stat. 985; Pub. L. 96–363, § 1, Sept. 26, 1980, 94 Stat. 1207; Pub. L. 106–462, title I, § 106(c), Nov. 7, 2000, 114 Stat. 2007; Pub. L. 108–374, § 6(d), Oct. 27, 2004, 118 Stat. 1805; Pub. L. 109–157, § 8(b), Dec. 30, 2005, 119 Stat. 2952; Pub. L. 109–221, title V, § 501(b)(1), May 12, 2006, 120 Stat. 343.)
+(June 18, 1934, ch. 576, § 4, 48 Stat. 985; Pub. L. 96–363, § 1, Sept. 26, 1980, 94 Stat. 1207; Pub. L. 106–462, title I, § 106(c), Nov. 7, 2000, 114 Stat. 2007; Pub. L. 108–374, § 6(d), Oct. 27, 2004, 118 Stat. 1805; Pub. L. 109–157, § 8(b), Dec. 30, 2005, 119 Stat. 2952; Pub. L. 109–221, title V, § 501(b)(1), May 12, 2006, 120 Stat. 343.)
 
 **Editorial Notes**
 
@@ -167,7 +167,7 @@ Except as provided in this Act, no sale, devise, gift, exchange, or other transf
 
 This Act, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
-The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 97–459, Jan. 12, 1983, 96 Stat. 2517, which is classified generally to chapter 24 (§ 2201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 97–459, Jan. 12, 1983, 96 Stat. 2517, which is classified generally to chapter 24 (§ 2201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 **Codification**
 
@@ -179,9 +179,9 @@ Section was formerly classified to section 464 of this title prior to editorial 
 
 2005—Pub. L. 109–157 amended section catchline and text generally. Prior to amendment, text related to transfer of restricted Indian lands or shares in assets of Indian tribes or corporation and exchange of lands.
 
-2004—Pub. L. 108–374, § 6(d)(1), (2), in first proviso, struck out “, in accordance with the then existing laws of the State, or Federal laws where applicable, in which said lands are located or in which the subject matter of the corporation is located,” after “descend or be devised” and “, except as provided by the Indian Land Consolidation Act, any other Indian person for whom the Secretary of the Interior determines that the United States may hold land in trust:” after “lineal descendants of such member or”.
+2004—Pub. L. 108–374, § 6(d)(1), (2), in first proviso, struck out “, in accordance with the then existing laws of the State, or Federal laws where applicable, in which said lands are located or in which the subject matter of the corporation is located,” after “descend or be devised” and “, except as provided by the Indian Land Consolidation Act, any other Indian person for whom the Secretary of the Interior determines that the United States may hold land in trust:” after “lineal descendants of such member or”.
 
-Pub. L. 108–374, § 6(d)(3), which directed insertion of “in accordance with the Indian Land Consolidation Act (25 U.S.C. 2201 et seq.) (including a tribal probate code approved under that Act or regulations promulgated under that Act):” in first proviso without specifying where the insertion was to be made, was executed by making the insertion at end of first proviso, to reflect the probable intent of Congress.
+Pub. L. 108–374, § 6(d)(3), which directed insertion of “in accordance with the Indian Land Consolidation Act (25 U.S.C. 2201 et seq.) (including a tribal probate code approved under that Act or regulations promulgated under that Act):” in first proviso without specifying where the insertion was to be made, was executed by making the insertion at end of first proviso, to reflect the probable intent of Congress.
 
 2000—Pub. L. 106–462, which directed the amendment of this section by substituting “member or, except as provided by the Indian Land Consolidation Act,” for “member or:”, was executed by making the substitution for “member or” before “any other Indian person” to reflect the probable intent of Congress because the phrase “member or:” did not appear in text.
 
@@ -195,13 +195,13 @@ Amendment by Pub. L. 109–221 effective as if included in the enactment of Pub.
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–157, § 9, Dec. 30, 2005, 119 Stat. 2953, provided that: “The amendments made by this Act [amending this section, sections 2204 to 2206, 2212, 2214, and 2216 of this title and provisions set out as a note under section 2201 of this title] shall be effective as if included in the American Indian Probate Reform Act of 2004 (25 U.S.C. 2201 note; Public Law 108–374).”
+Pub. L. 109–157, § 9, Dec. 30, 2005, 119 Stat. 2953, provided that: “The amendments made by this Act [amending this section, sections 2204 to 2206, 2212, 2214, and 2216 of this title and provisions set out as a note under section 2201 of this title] shall be effective as if included in the American Indian Probate Reform Act of 2004 (25 U.S.C. 2201 note; Public Law 108–374).”
 
 **Effective Date of 2004 Amendment**
 
 Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year after June 20, 2005, see section 8(b) of Pub. L. 108–374, set out as a Notice; Effective Date of 2004 Amendment note under section 2201 of this title.
 
-## § 5108. Acquisition of lands, water rights or surface rights; appropriation; title to lands; tax exemption
+## § 5108. Acquisition of lands, water rights or surface rights; appropriation; title to lands; tax exemption
 
 The Secretary of the Interior is authorized, in his discretion, to acquire, through purchase, relinquishment, gift, exchange, or assignment, any interest in lands, water rights, or surface rights to lands, within or without existing reservations, including trust or otherwise restricted allotments, whether the allottee be living or deceased, for the purpose of providing land for Indians.
 
@@ -209,13 +209,13 @@ For the acquisition of such lands, interests in lands, water rights, and surface
 
 The unexpended balances of any appropriations made pursuant to this section shall remain available until expended.
 
-Title to any lands or rights acquired pursuant to this Act or the Act of July 28, 1955 (69 Stat. 392), as amended (25 U.S.C. 608 et seq.) 1
+Title to any lands or rights acquired pursuant to this Act or the Act of July 28, 1955 (69 Stat. 392), as amended (25 U.S.C. 608 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall be taken in the name of the United States in trust for the Indian tribe or individual Indian for which the land is acquired, and such lands or rights shall be exempt from State and local taxation.
 
-(June 18, 1934, ch. 576, § 5, 48 Stat. 985; Pub. L. 100–581, title II, § 214, Nov. 1, 1988, 102 Stat. 2941.)
+(June 18, 1934, ch. 576, § 5, 48 Stat. 985; Pub. L. 100–581, title II, § 214, Nov. 1, 1988, 102 Stat. 2941.)
 
 **Editorial Notes**
 
@@ -233,11 +233,11 @@ Section was formerly classified to section 465 of this title prior to editorial 
 
 1988—Pub. L. 100–581 inserted “or the Act of July 28, 1955 (69 Stat. 392), as amended (25 U.S.C. 608 et seq.)” after “this Act”.
 
-## § 5109. Indian forestry units; rules and regulations
+## § 5109. Indian forestry units; rules and regulations
 
 The Secretary of the Interior is directed to make rules and regulations for the operation and management of Indian forestry units on the principle of sustained-yield management, to restrict the number of livestock grazed on Indian range units to the estimated carrying capacity of such ranges, and to promulgate such other rules and regulations as may be necessary to protect the range from deterioration, to prevent soil erosion, to assure full utilization of the range, and like purposes.
 
-(June 18, 1934, ch. 576, § 6, 48 Stat. 986.)
+(June 18, 1934, ch. 576, § 6, 48 Stat. 986.)
 
 **Editorial Notes**
 
@@ -245,11 +245,11 @@ The Secretary of the Interior is directed to make rules and regulations for the 
 
 Section was formerly classified to section 466 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5110. New Indian reservations
+## § 5110. New Indian reservations
 
 The Secretary of the Interior is hereby authorized to proclaim new Indian reservations on lands acquired pursuant to any authority conferred by this Act, or to add such lands to existing reservations: *Provided*, That lands added to existing reservations shall be designated for the exclusive use of Indians entitled by enrollment or by tribal membership to residence at such reservations.
 
-(June 18, 1934, ch. 576, § 7, 48 Stat. 986.)
+(June 18, 1934, ch. 576, § 7, 48 Stat. 986.)
 
 **Editorial Notes**
 
@@ -261,11 +261,11 @@ This Act, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popu
 
 Section was formerly classified to section 467 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5111. Allotments or holdings outside of reservations
+## § 5111. Allotments or holdings outside of reservations
 
 Nothing contained in this Act shall be construed to relate to Indian holdings of allotments or homesteads upon the public domain outside of the geographic boundaries of any Indian reservation now existing or established hereafter.
 
-(June 18, 1934, ch. 576, § 8, 48 Stat. 986.)
+(June 18, 1934, ch. 576, § 8, 48 Stat. 986.)
 
 **Editorial Notes**
 
@@ -277,11 +277,11 @@ This Act, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popu
 
 Section was formerly classified to section 468 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5112. Indian corporations; appropriation for organizing
+## § 5112. Indian corporations; appropriation for organizing
 
 There is authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as may be necessary, but not to exceed $250,000 in any fiscal year, to be expended at the order of the Secretary of the Interior, in defraying the expenses of organizing Indian chartered corporations or other organizations created under this Act.
 
-(June 18, 1934, ch. 576, § 9, 48 Stat. 986.)
+(June 18, 1934, ch. 576, § 9, 48 Stat. 986.)
 
 **Editorial Notes**
 
@@ -293,11 +293,11 @@ This Act, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popu
 
 Section was formerly classified to section 469 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5113. Revolving fund; appropriation for loans
+## § 5113. Revolving fund; appropriation for loans
 
 There is authorized to be appropriated, out of any funds in the Treasury not otherwise appropriated, the sum of $20,000,000 to be established as a revolving fund from which the Secretary of the Interior, under such rules and regulations as he may prescribe, may make loans to Indian chartered corporations for the purpose of promoting the economic development of such tribes and of their members, and may defray the expenses of administering such loans. Repayment of amounts loaned under this authorization shall be credited to the revolving fund and shall be available for the purposes for which the fund is established.
 
-(June 18, 1934, ch. 576, § 10, 48 Stat. 986; Pub. L. 86–533, § 1(16), June 29, 1960, 74 Stat. 248; Pub. L. 87–250, Sept. 15, 1961, 75 Stat. 520.)
+(June 18, 1934, ch. 576, § 10, 48 Stat. 986; Pub. L. 86–533, § 1(16), June 29, 1960, 74 Stat. 248; Pub. L. 87–250, Sept. 15, 1961, 75 Stat. 520.)
 
 **Editorial Notes**
 
@@ -317,11 +317,11 @@ Section was formerly classified to section 470 of this title prior to editorial 
 
 Funds from diverse sources to be administered as a single Indian Revolving Loan Fund after Apr. 12, 1974, see section 1461 of this title.
 
-## § 5114. Interest charges covered into revolving fund
+## § 5114. Interest charges covered into revolving fund
 
 Interest or other charges heretofore or hereafter collected on loans shall be credited to the revolving fund created by section 5113 of this title and shall be available for the establishment of a revolving fund for the purpose of making and administering loans to Indian-chartered corporations in accordance with the Act of June 18, 1934 (48 Stat. 986) [25 U.S.C. 5101 et seq.], and of making and administering loans to individual Indians and to associations or corporate groups of Indians of Oklahoma in accordance with the Act of June 26, 1936 (49 Stat. 1967).
 
-(June 28, 1941, ch. 259, § 1, 55 Stat. 316.)
+(June 28, 1941, ch. 259, § 1, 55 Stat. 316.)
 
 **Editorial Notes**
 
@@ -329,17 +329,17 @@ Interest or other charges heretofore or hereafter collected on loans shall be cr
 
 Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
-Act of June 26, 1936, referred to in text, is act June 26, 1936, ch. 831, 49 Stat. 1967, popularly known as the Oklahoma Welfare Act, which was classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45A (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables. Provisions of the Act relating to the revolving fund appear in section 5206 of this title.
+Act of June 26, 1936, referred to in text, is act June 26, 1936, ch. 831, 49 Stat. 1967, popularly known as the Oklahoma Welfare Act, which was classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45A (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables. Provisions of the Act relating to the revolving fund appear in section 5206 of this title.
 
 **Codification**
 
 Section was formerly classified to section 470a of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5115. Vocational and trade schools; appropriation for tuition
+## § 5115. Vocational and trade schools; appropriation for tuition
 
 There is authorized to be appropriated, out of any funds in the United States Treasury not otherwise appropriated, a sum not to exceed $250,000 annually, together with any unexpended balances of previous appropriations made pursuant to this section, for loans to Indians for the payment of tuition and other expenses in recognized vocational and trade schools: *Provided*, That not more than $50,000 of such sum shall be available for loans to Indian students in high schools and colleges. Such loans shall be reimbursable under rules established by the Commissioner of Indian Affairs.
 
-(June 18, 1934, ch. 576, § 11, 48 Stat. 986.)
+(June 18, 1934, ch. 576, § 11, 48 Stat. 986.)
 
 **Editorial Notes**
 
@@ -351,13 +351,13 @@ Section was formerly classified to section 471 of this title prior to editorial 
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 5116. Standards for Indians appointed to Indian Office
+## § 5116. Standards for Indians appointed to Indian Office
 
 The Secretary of the Interior is directed to establish standards of health, age, character, experience, knowledge, and ability for Indians who may be appointed, without regard to civil-service laws, to the various positions maintained, now or hereafter, by the Indian Office, in the administration of functions or services affecting any Indian tribe. Such qualified Indians shall hereafter have the preference to appointment to vacancies in any such positions.
 
-(June 18, 1934, ch. 576, § 12, 48 Stat. 986.)
+(June 18, 1934, ch. 576, § 12, 48 Stat. 986.)
 
 **Editorial Notes**
 
@@ -375,9 +375,9 @@ Status of Indian appointed to Federal service under excepted appointment to be c
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 5117. Indian preference laws applicable to Bureau of Indian Affairs and Indian Health Service positions
+## § 5117. Indian preference laws applicable to Bureau of Indian Affairs and Indian Health Service positions
 
 **(a) Establishment of retention categories for purposes of reduction-in-force procedures**
 
@@ -399,9 +399,9 @@ For purposes of applying reduction-in-force procedures under subsection (a) of s
 
 **(1)** Notwithstanding any provision of the Indian preference laws, such laws shall not apply in the case of any personnel action respecting an applicant or employee not entitled to Indian preference if each tribal organization concerned grants, in writing, a waiver of the application of such laws with respect to such personnel action.
 
-**(2)** The provisions of section 8336(j) of title 5 shall not apply to any individual who has accepted a waiver with respect to a personnel action pursuant to paragraph (1) of this subsection or to section 2011(f) 1
+**(2)** The provisions of section 8336(j) of title 5 shall not apply to any individual who has accepted a waiver with respect to a personnel action pursuant to paragraph (1) of this subsection or to section 2011(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -421,13 +421,13 @@ The Office of Personnel Management shall provide all appropriate assistance to t
 
 **(3)** The term “Bureau of Indian Affairs” means (A) the Bureau of Indian Affairs and (B) all other organizational units in the Department of the Interior directly and primarily related to providing services to Indians and in which positions are filled in accordance with the Indian preference laws.
 
-(Pub. L. 96–135, § 2, Dec. 5, 1979, 93 Stat. 1057; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–581, title II, § 205, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 105–362, title VIII, § 801(e), title XIII, § 1302(d), Nov. 10, 1998, 112 Stat. 3288, 3294.)
+(Pub. L. 96–135, § 2, Dec. 5, 1979, 93 Stat. 1057; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–581, title II, § 205, Nov. 1, 1988, 102 Stat. 2940; Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 105–362, title VIII, § 801(e), title XIII, § 1302(d), Nov. 10, 1998, 112 Stat. 3288, 3294.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2011(f) of this title, referred to in subsec. (c)(2), was in the original a reference to section 1131 of the Education Amendments of 1978, Pub. L. 95–561, meaning section 1131 of Pub. L. 95–561 prior to the general amendments of chapter 22 (§ 2000 et seq.) of this title by Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3979, and Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2007. As added by Pub. L. 107–110, section 1131 of Pub. L. 95–561 relates to policy for Indian control of Indian education and is classified to section 2011 of this title. Provisions relating to waivers of education personnel actions are now contained in section 2012(f) of this title.
+Section 2011(f) of this title, referred to in subsec. (c)(2), was in the original a reference to section 1131 of the Education Amendments of 1978, Pub. L. 95–561, meaning section 1131 of Pub. L. 95–561 prior to the general amendments of chapter 22 (§ 2000 et seq.) of this title by Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3979, and Pub. L. 107–110, title X, § 1042, Jan. 8, 2002, 115 Stat. 2007. As added by Pub. L. 107–110, section 1131 of Pub. L. 95–561 relates to policy for Indian control of Indian education and is classified to section 2011 of this title. Provisions relating to waivers of education personnel actions are now contained in section 2012(f) of this title.
 
 **Codification**
 
@@ -435,15 +435,15 @@ Section was formerly classified to section 472a of this title prior to editorial
 
 **Amendments**
 
-1998—Subsec. (d). Pub. L. 105–362, § 801(e)(3), struck out par. (1) designation and struck out par. (2) which read as follows: “The Secretaries of the Interior and Health and Human Services, and the Director of the Office of Personnel Management shall each submit a report to Congress following the close of each fiscal year with respect to the actions which they took in such fiscal year to place non-Indian employees of the Bureau of Indian Affairs and the Indian Health Service in other Federal positions.”
+1998—Subsec. (d). Pub. L. 105–362, § 801(e)(3), struck out par. (1) designation and struck out par. (2) which read as follows: “The Secretaries of the Interior and Health and Human Services, and the Director of the Office of Personnel Management shall each submit a report to Congress following the close of each fiscal year with respect to the actions which they took in such fiscal year to place non-Indian employees of the Bureau of Indian Affairs and the Indian Health Service in other Federal positions.”
 
-Pub. L. 105–362, § 801(e)(1), (2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Secretaries of the Interior and Health and Human Services shall each submit to the Congress a report following the close of each fiscal year with respect to the actions which they took in such fiscal year to recruit and train Indians to qualify such Indians for positions which are subject to preference under the Indian preference laws. Such report shall also include information as to the grade levels and occupational classifications of Indian and non-Indian employees in the Bureau of Indian Affairs and the Indian Health Service.”
+Pub. L. 105–362, § 801(e)(1), (2), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “The Secretaries of the Interior and Health and Human Services shall each submit to the Congress a report following the close of each fiscal year with respect to the actions which they took in such fiscal year to recruit and train Indians to qualify such Indians for positions which are subject to preference under the Indian preference laws. Such report shall also include information as to the grade levels and occupational classifications of Indian and non-Indian employees in the Bureau of Indian Affairs and the Indian Health Service.”
 
-Subsec. (e). Pub. L. 105–362, § 1302(d), which directed the amendment of subsec. (e) by striking out par. (1) designation after “(e)” and striking out par. (2), could not be executed because par. (1) designation did not immediately follow “(e)” subsequent to amendment by Pub. L. 105–362, § 801(e)(2). See above.
+Subsec. (e). Pub. L. 105–362, § 1302(d), which directed the amendment of subsec. (e) by striking out par. (1) designation after “(e)” and striking out par. (2), could not be executed because par. (1) designation did not immediately follow “(e)” subsequent to amendment by Pub. L. 105–362, § 801(e)(2). See above.
 
-Pub. L. 105–362, § 801(e)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Pub. L. 105–362, § 801(e)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 105–362, § 801(e)(2), redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 105–362, § 801(e)(2), redesignated subsec. (f) as (e).
 
 1990—Subsec. (b)(2). Pub. L. 101–509 substituted “a Deputy Secretary” for “an Under Secretary” before “or Assistant Secretary”.
 
@@ -457,13 +457,13 @@ Subsec. (f). Pub. L. 105–362, § 801(e)(2), redesignated subsec. (f) as (e).
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of the Interior, see section 529 [title I, § 112(e)(1), (2)(B)] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
+Amendment by Pub. L. 101–509 effective on first day of first pay period beginning on or after Nov. 5, 1990, with continued service by incumbent Under Secretary of the Interior, see section 529 [title I, § 112(e)(1), (2)(B)] of Pub. L. 101–509, set out as a note under section 3404 of Title 20, Education.
 
-## § 5118. Application generally
+## § 5118. Application generally
 
 The provisions of this Act shall not apply to any of the Territories, colonies, or insular possessions of the United States, except that sections 9, 10, 11, 12, and 16 [25 U.S.C. 5112, 5113, 5115, 5116, 5123] shall apply to the Territory of Alaska: *Provided*, That sections 4, 7, 16, 17, and 18 of this Act [25 U.S.C. 5107, 5110, 5123, 5124, 5125] shall not apply to the following-named Indian tribes, the members of such Indian tribes, together with members of other tribes affiliated with such named tribes located in the State of Oklahoma, as follows: Cheyenne, Arapaho, Apache, Comanche, Kiowa, Caddo, Delaware, Wichita, Osage, Kaw, Otoe, Tonkawa, Pawnee, Ponca, Shawnee, Ottawa, Quapaw, Seneca, Wyandotte, Iowa, Sac and Fox, Kickapoo, Pottawatomi, Cherokee, Chickasaw, Choctaw, Creek, and Seminole. Section 4 of this Act [25 U.S.C. 5107] shall not apply to the Indians of the Klamath Reservation in Oregon.
 
-(June 18, 1934, ch. 576, § 13, 48 Stat. 986; Pub. L. 101–301, § 3(b), May 24, 1990, 104 Stat. 207.)
+(June 18, 1934, ch. 576, § 13, 48 Stat. 986; Pub. L. 101–301, § 3(b), May 24, 1990, 104 Stat. 207.)
 
 **Editorial Notes**
 
@@ -485,11 +485,11 @@ Section was formerly classified to section 473 of this title prior to editorial 
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-## § 5119. Application to Alaska
+## § 5119. Application to Alaska
 
 Sections 5101, 5108, 5110, 5111, 5121, 5124, and 5129 of this title shall after May 1, 1936, apply to the Territory of Alaska: *Provided*, That groups of Indians in Alaska not recognized prior to May 1, 1936, as bands or tribes, but having a common bond of occupation, or association, or residence within a well-defined neighborhood, community, or rural district, may organize to adopt constitutions and bylaws and to receive charters of incorporation and Federal loans under sections 5113, 5123, and 5124 of this title.
 
-(May 1, 1936, ch. 254, § 1, 49 Stat. 1250.)
+(May 1, 1936, ch. 254, § 1, 49 Stat. 1250.)
 
 **Editorial Notes**
 
@@ -503,11 +503,11 @@ Section was formerly classified to section 362 of Title 48, Territories and Insu
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-## § 5120. Continuation of allowances
+## § 5120. Continuation of allowances
 
 The Secretary of the Interior is directed to continue the allowance of the articles enumerated in section 17 of the Act of March 2, 1889 (23 Stat. L. 894), or their commuted cash value under the Act of June 10, 1896 (29 Stat. L. 334), to all Sioux Indians who would be eligible, but for the provisions of this Act, to receive allotments of lands in severalty under section 19 of the Act of May 29, 1908 (25 Stat. L. 451), or under any prior Act, and who have the prescribed status of the head of a family or single person over the age of eighteen years, and his approval shall be final and conclusive, claims therefor to be paid as formerly from the permanent appropriation made by said section 17 and carried on the books of the Treasury for this purpose. No person shall receive in his own right more than one allowance of the benefits, and application must be made and approved during the lifetime of the allottee or the right shall lapse. Such benefits shall continue to be paid upon such reservation until such time as the lands available therein for allotment on June 18, 1934, would have been exhausted by the award to each person receiving such benefits of an allotment of eighty acres of such land.
 
-(June 18, 1934, ch. 576, § 14, 48 Stat. 987.)
+(June 18, 1934, ch. 576, § 14, 48 Stat. 987.)
 
 **Editorial Notes**
 
@@ -525,11 +525,11 @@ Section 19 of the Act of May 29, 1908, referred to in text, probably means secti
 
 Section was formerly classified to section 474 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5121. Claims or suits of Indian tribes against United States; rights unimpaired
+## § 5121. Claims or suits of Indian tribes against United States; rights unimpaired
 
 Nothing in this Act shall be construed to impair or prejudice any claim or suit of any Indian tribe against the United States. It is declared to be the intent of Congress that no expenditures for the benefit of Indians made out of appropriations authorized by said sections shall be considered as offsets in any suit brought to recover upon any claim of such Indians against the United States.
 
-(June 18, 1934, ch. 576, § 15, 48 Stat. 987.)
+(June 18, 1934, ch. 576, § 15, 48 Stat. 987.)
 
 **Editorial Notes**
 
@@ -541,11 +541,11 @@ This Act, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popu
 
 Section was formerly classified to section 475 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5122. Offsets of gratuities
+## § 5122. Offsets of gratuities
 
 In all suits now pending in the United States Court of Federal Claims by an Indian tribe or band which have not been tried or submitted, and in any suit hereafter filed in the United States Court of Federal Claims by any such tribe or band, the United States Court of Federal Claims is directed to consider and to offset against any amount found due the said tribe or band all sums expended gratuitously by the United States for the benefit of the said tribe or band; and in all cases now pending or hereafter filed in the United States Court of Federal Claims in which an Indian tribe or band is party plaintiff, wherein the duty of the court is merely to report its findings of fact and conclusions to Congress, the said United States Court of Federal Claims is directed to include in its report a statement of the amount of money which has been expended by the United States gratuitously for the benefit of the said tribe or band: *Provided*, That expenditures made prior to the date of the law, treaty, agreement, or Executive order under which the claims arise shall not be offset against the claims or claim asserted; and expenditures under the Act of June 18, 1934 (48 Stat. L. 984) [25 U.S.C. 5101 et seq.], except expenditures under appropriations made pursuant to section 5 of such Act [25 U.S.C. 5108], shall not be charged as offsets against any claim on behalf of an Indian tribe or tribes now pending in the United States Court of Federal Claims or hereafter filed: *Provided further*, That funds appropriated and expended from tribal funds shall not be construed as gratuities; and this section shall not be deemed to amend or affect the various Acts granting jurisdiction to the United States Court of Federal Claims to hear and determine the claims listed on page 678 of the hearings before the subcommittee of the House Committee on Appropriations on the second deficiency appropriation bill for the fiscal year 1935: *And provided further*, That no expenditure under any emergency appropriation or allotment made subsequently to March 4, 1933, and generally applicable throughout the United States for relief in stricken agricultural areas, relief from distress caused by unemployment and conditions resulting therefrom, the prosecution of public works and public projects for the relief of unemployment or to increase employment, and for work relief (including the civil-works program) shall be considered in connection with the operation of this section.
 
-(Aug. 12, 1935, ch. 508, § 2, 49 Stat. 596; Pub. L. 97–164, title I, § 160(a)(8), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Aug. 12, 1935, ch. 508, § 2, 49 Stat. 596; Pub. L. 97–164, title I, § 160(a)(8), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -573,7 +573,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-## § 5123. Organization of Indian tribes; constitution and bylaws and amendment thereof; special election
+## § 5123. Organization of Indian tribes; constitution and bylaws and amendment thereof; special election
 
 **(a) Adoption; effective date** Any Indian tribe shall have the right to organize for its common welfare, and may adopt an appropriate constitution and bylaws, and any amendments thereto, which shall become effective when—
 
@@ -613,9 +613,9 @@ In addition to all powers vested in any Indian tribe or tribal council by existi
 
 **(f) Privileges and immunities of Indian tribes; prohibition on new regulations**
 
-Departments or agencies of the United States shall not promulgate any regulation or make any decision or determination pursuant to the Act of June 18, 1934 (25 U.S.C. 461 et seq., 48 Stat. 984) 1
+Departments or agencies of the United States shall not promulgate any regulation or make any decision or determination pursuant to the Act of June 18, 1934 (25 U.S.C. 461 et seq., 48 Stat. 984) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 as amended, or any other Act of Congress, with respect to a federally recognized Indian tribe that classifies, enhances, or diminishes the privileges and immunities available to the Indian tribe relative to other federally recognized tribes by virtue of their status as Indian tribes.
 
@@ -629,13 +629,13 @@ Any regulation or administrative decision or determination of a department or ag
 
 **(2)** nothing in this Act invalidates any constitution or other governing document adopted by an Indian tribe after June 18, 1934, in accordance with the authority described in paragraph (1).
 
-(June 18, 1934, ch. 576, § 16, 48 Stat. 987; Pub. L. 100–581, title I, § 101, Nov. 1, 1988, 102 Stat. 2938; Pub. L. 103–263, § 5(b), May 31, 1994, 108 Stat. 709; Pub. L. 106–179, § 3, Mar. 14, 2000, 114 Stat. 47; Pub. L. 108–204, title I, § 103, Mar. 2, 2004, 118 Stat. 543.)
+(June 18, 1934, ch. 576, § 16, 48 Stat. 987; Pub. L. 100–581, title I, § 101, Nov. 1, 1988, 102 Stat. 2938; Pub. L. 103–263, § 5(b), May 31, 1994, 108 Stat. 709; Pub. L. 106–179, § 3, Mar. 14, 2000, 114 Stat. 47; Pub. L. 108–204, title I, § 103, Mar. 2, 2004, 118 Stat. 543.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of June 18, 1934 (25 U.S.C. 461 et seq., 48 Stat. 984) and this Act, referred to in subsecs. (f) and (h), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which was classified generally to subchapter V (§ 461 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+Act of June 18, 1934 (25 U.S.C. 461 et seq., 48 Stat. 984) and this Act, referred to in subsecs. (f) and (h), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which was classified generally to subchapter V (§ 461 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 **Codification**
 
@@ -647,7 +647,7 @@ Section was formerly classified to section 476 of this title prior to editorial 
 
 2004—Subsec. (h). Pub. L. 108–204 added subsec. (h).
 
-2000—Subsec. (e). Pub. L. 106–179 struck out “, the choice of counsel and fixing of fees to be subject to the approval of the Secretary” after “To employ legal counsel”.
+2000—Subsec. (e). Pub. L. 106–179 struck out “, the choice of counsel and fixing of fees to be subject to the approval of the Secretary” after “To employ legal counsel”.
 
 1994—Subsecs. (f), (g). Pub. L. 103–263 added subsecs. (f) and (g).
 
@@ -657,7 +657,7 @@ Section was formerly classified to section 476 of this title prior to editorial 
 
 **Definitions Applicable**
 
-Pub. L. 100–581, title I, § 102, Nov. 1, 1988, 102 Stat. 2939, provided that:
+Pub. L. 100–581, title I, § 102, Nov. 1, 1988, 102 Stat. 2939, provided that:
 
 > “For the purpose of this Act [probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out below], the term—
 
@@ -669,13 +669,13 @@ Pub. L. 100–581, title I, § 102, Nov. 1, 1988, 102 Stat. 2939, provided tha
 
 **Amendment of Tribal Constitution and Bylaws**
 
-Pub. L. 100–581, title I, § 103, Nov. 1, 1988, 102 Stat. 2939, provided that: “Nothing in this Act [probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out above] is intended to amend, revoke, or affect any tribal constitution, bylaw, or amendment ratified and approved prior to this Act.”
+Pub. L. 100–581, title I, § 103, Nov. 1, 1988, 102 Stat. 2939, provided that: “Nothing in this Act [probably means title I of Pub. L. 100–581 which amended this section and enacted provisions set out above] is intended to amend, revoke, or affect any tribal constitution, bylaw, or amendment ratified and approved prior to this Act.”
 
-## § 5124. Incorporation of Indian tribes; charter; ratification by election
+## § 5124. Incorporation of Indian tribes; charter; ratification by election
 
 The Secretary of the Interior may, upon petition by any tribe, issue a charter of incorporation to such tribe: *Provided*, That such charter shall not become operative until ratified by the governing body of such tribe. Such charter may convey to the incorporated tribe the power to purchase, take by gift, or bequest, or otherwise, own, hold, manage, operate, and dispose of property of every description, real and personal, including the power to purchase restricted Indian lands and to issue in exchange therefor interests in corporate property, and such further powers as may be incidental to the conduct of corporate business, not inconsistent with law; but no authority shall be granted to sell, mortgage, or lease for a period exceeding twenty-five years any trust or restricted lands included in the limits of the reservation. Any charter so issued shall not be revoked or surrendered except by Act of Congress.
 
-(June 18, 1934, ch. 576, § 17, 48 Stat. 988; Pub. L. 101–301, § 3(c), May 24, 1990, 104 Stat. 207.)
+(June 18, 1934, ch. 576, § 17, 48 Stat. 988; Pub. L. 101–301, § 3(c), May 24, 1990, 104 Stat. 207.)
 
 **Editorial Notes**
 
@@ -687,11 +687,11 @@ Section was formerly classified to section 477 of this title prior to editorial 
 
 1990—Pub. L. 101–301 substituted “by any tribe” for “by at least one-third of the adult Indians”, “by the governing body of such tribe” for “at a special election by a majority vote of the adult Indians living on the reservation”, and “twenty-five years any trust or restricted lands” for “ten years any of the land”.
 
-## § 5125. Acceptance optional
+## § 5125. Acceptance optional
 
 This Act shall not apply to any reservation wherein a majority of the adult Indians, voting at a special election duly called by the Secretary of the Interior, shall vote against its application. It shall be the duty of the Secretary of the Interior, within one year after June 18, 1934, to call such an election, which election shall be held by secret ballot upon thirty days’ notice.
 
-(June 18, 1934, ch. 576, § 18, 48 Stat. 988.)
+(June 18, 1934, ch. 576, § 18, 48 Stat. 988.)
 
 **Editorial Notes**
 
@@ -707,11 +707,11 @@ Section was formerly classified to section 478 of this title prior to editorial 
 
 **Extensions of Time**
 
-The time for holding an election under this section was extended to June 18, 1936, by act June 15, 1935, ch. 260, § 2, 49 Stat. 378.
+The time for holding an election under this section was extended to June 18, 1936, by act June 15, 1935, ch. 260, § 2, 49 Stat. 378.
 
-Act June 15, 1935, ch. 260, § 3, 49 Stat. 378, provided that the periods of trust or the restrictions on alienation of Indian lands should be extended to Dec. 31, 1936, in case of a vote against the application of sections 5101 to 5103, 5107 to 5113, 5115, 5116, 5118, 5120, 5121, 5123 to 5125, and 5129 of this title.
+Act June 15, 1935, ch. 260, § 3, 49 Stat. 378, provided that the periods of trust or the restrictions on alienation of Indian lands should be extended to Dec. 31, 1936, in case of a vote against the application of sections 5101 to 5103, 5107 to 5113, 5115, 5116, 5118, 5120, 5121, 5123 to 5125, and 5129 of this title.
 
-## § 5126. Mandatory application of sections 5102 and 5124
+## § 5126. Mandatory application of sections 5102 and 5124
 
 Notwithstanding section 5125 of this title, sections 5102 and 5124 of this title shall apply to—
 
@@ -721,7 +721,7 @@ Notwithstanding section 5125 of this title, sections 5102 and 5124 of this title
 
 **(3)** all lands owned by Indians that are subject to a restriction imposed by the United States on alienation of the rights of the Indians in the lands.
 
-(Pub. L. 101–301, § 3(a), May 24, 1990, 104 Stat. 207.)
+(Pub. L. 101–301, § 3(a), May 24, 1990, 104 Stat. 207.)
 
 **Editorial Notes**
 
@@ -729,11 +729,11 @@ Notwithstanding section 5125 of this title, sections 5102 and 5124 of this title
 
 Section was formerly classified to section 478–1 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5127. Procedure
+## § 5127. Procedure
 
 In any election heretofore or hereafter held under the Act of June 18, 1934 (48 Stat. 984) [25 U.S.C. 5101 et seq.], on the question of excluding a reservation from the application of the said Act or on the question of adopting a constitution and bylaws or amendments thereto or on the question of ratifying a charter, the vote of a majority of those actually voting shall be necessary and sufficient to effectuate such exclusion, adoption, or ratification, as the case may be: *Provided, however*, That in each instance the total vote cast shall not be less than 30 per centum of those entitled to vote.
 
-(June 15, 1935, ch. 260, § 1, 49 Stat. 378.)
+(June 15, 1935, ch. 260, § 1, 49 Stat. 378.)
 
 **Editorial Notes**
 
@@ -745,11 +745,11 @@ Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Sta
 
 Section was formerly classified to section 478a of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5128. Application of laws and treaties
+## § 5128. Application of laws and treaties
 
 All laws, general and special, and all treaty provisions affecting any Indian reservation which has voted or may vote to exclude itself from the application of the Act of June 18, 1934 (48 Stat. 984) [25 U.S.C. 5101 et seq.], shall be deemed to have been continuously effective as to such reservation, notwithstanding the passage of said Act of June 18, 1934. Nothing in the Act of June 18, 1934, shall be construed to abrogate or impair any rights guaranteed under any existing treaty with any Indian tribe, where such tribe voted not to exclude itself from the application of said Act.
 
-(June 15, 1935, ch. 260, § 4, 49 Stat. 378.)
+(June 15, 1935, ch. 260, § 4, 49 Stat. 378.)
 
 **Editorial Notes**
 
@@ -761,11 +761,11 @@ Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Sta
 
 Section was formerly classified to section 478b of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5129. Definitions
+## § 5129. Definitions
 
 The term “Indian” as used in this Act shall include all persons of Indian descent who are members of any recognized Indian tribe now under Federal jurisdiction, and all persons who are descendants of such members who were, on June 1, 1934, residing within the present boundaries of any Indian reservation, and shall further include all other persons of one-half or more Indian blood. For the purposes of this Act, Eskimos and other aboriginal peoples of Alaska shall be considered Indians. The term “tribe” wherever used in this Act shall be construed to refer to any Indian tribe, organized band, pueblo, or the Indians residing on one reservation. The words “adult Indians” wherever used in this Act shall be construed to refer to Indians who have attained the age of twenty-one years.
 
-(June 18, 1934, ch. 576, § 19, 48 Stat. 988.)
+(June 18, 1934, ch. 576, § 19, 48 Stat. 988.)
 
 **Editorial Notes**
 
@@ -783,11 +783,11 @@ Section was formerly classified to section 479 of this title prior to editorial 
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-## § 5130. Definitions
+## § 5130. Definitions
 
-For the purposes of this title: 1
+For the purposes of this title: 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(1)** The term “Secretary” means the Secretary of the Interior.
 
@@ -795,7 +795,7 @@ For the purposes of this title: 1
 
 **(3)** The term “list” means the list of recognized tribes published by the Secretary pursuant to section 5131 of this title.
 
-(Pub. L. 103–454, title I, § 102, Nov. 2, 1994, 108 Stat. 4791.)
+(Pub. L. 103–454, title I, § 102, Nov. 2, 1994, 108 Stat. 4791.)
 
 **Editorial Notes**
 
@@ -815,7 +815,7 @@ For short title of this section and section 5131 of this title as the “Federal
 
 **Congressional Findings**
 
-Pub. L. 103–454, title I, § 103, Nov. 2, 1994, 108 Stat. 4791, provided that:
+Pub. L. 103–454, title I, § 103, Nov. 2, 1994, 108 Stat. 4791, provided that:
 
 > “The Congress finds that—
 
@@ -835,7 +835,7 @@ Pub. L. 103–454, title I, § 103, Nov. 2, 1994, 108 Stat. 4791, provided tha
 
 > **“(8)** the list of federally recognized tribes which the Secretary publishes should reflect all of the federally recognized Indian tribes in the United States which are eligible for the special programs and services provided by the United States to Indians because of their status as Indians.”
 
-## § 5131. Publication of list of recognized tribes
+## § 5131. Publication of list of recognized tribes
 
 **(a) Publication of list**
 
@@ -845,7 +845,7 @@ The Secretary shall publish in the Federal Register a list of all Indian tribes 
 
 The list shall be published within 60 days of November 2, 1994, and annually on or before every January 30 thereafter.
 
-(Pub. L. 103–454, title I, § 104, Nov. 2, 1994, 108 Stat. 4792.)
+(Pub. L. 103–454, title I, § 104, Nov. 2, 1994, 108 Stat. 4792.)
 
 **Editorial Notes**
 
@@ -853,11 +853,11 @@ The list shall be published within 60 days of November 2, 1994, and annually on 
 
 Section was formerly classified to section 479a–1 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5132. Indians eligible for loans
+## § 5132. Indians eligible for loans
 
 On and after May 10, 1939, no individual of less than one-quarter degree of Indian blood shall be eligible for a loan from funds made available in accordance with the provisions of the Act of June 18, 1934 (48 Stat. 986) [25 U.S.C. 5101 et seq.], and the Act of June 26, 1936 (49 Stat. 1967).
 
-(May 10, 1939, ch. 119, § 1, 53 Stat. 698.)
+(May 10, 1939, ch. 119, § 1, 53 Stat. 698.)
 
 **Editorial Notes**
 
@@ -865,13 +865,13 @@ On and after May 10, 1939, no individual of less than one-quarter degree of Indi
 
 Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
-Act of June 26, 1936, referred to in text, is act June 26, 1936, ch. 831, 49 Stat. 1967, popularly known as the Oklahoma Welfare Act, which was classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45A (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables. Provisions of the Act relating to the revolving fund appear in section 5206 of this title.
+Act of June 26, 1936, referred to in text, is act June 26, 1936, ch. 831, 49 Stat. 1967, popularly known as the Oklahoma Welfare Act, which was classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45A (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables. Provisions of the Act relating to the revolving fund appear in section 5206 of this title.
 
 **Codification**
 
 Section was formerly classified to section 480 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5133. Revolving fund; loans; regulations
+## § 5133. Revolving fund; loans; regulations
 
 The Secretary of the Interior, or his designated representative, is authorized, under such regulations as the Secretary may prescribe, to make loans from the revolving fund established pursuant to the Acts of June 18, 1934 (48 Stat. 984) [25 U.S.C. 5101 et seq.], and June 26, 1936 (49 Stat. 1967), to tribes, bands, groups, and individual Indians, not otherwise eligible for loans under said Acts: *Provided*, That no portion of these funds shall be loaned to Indians of less than one-quarter Indian blood.
 
@@ -883,7 +883,7 @@ The Secretary of the Interior, or his designated representative, is authorized, 
 
 Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to this chapter. Provisions of the Act establishing the revolving fund are set out in section 5113 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
-Act of June 26, 1936, referred to in text, is act June 26, 1936, ch. 831, 49 Stat. 1967, popularly known as the Oklahoma Welfare Act, which was classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45A (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables. Provisions of the Act relating to the revolving fund appear in section 5206 of this title.
+Act of June 26, 1936, referred to in text, is act June 26, 1936, ch. 831, 49 Stat. 1967, popularly known as the Oklahoma Welfare Act, which was classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45A (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables. Provisions of the Act relating to the revolving fund appear in section 5206 of this title.
 
 Funds in the revolving fund authorized by these Acts, and certain other sums, to be administered after Apr. 12, 1974, as a single Indian Revolving Loan Fund, see section 1461 of this title.
 
@@ -891,7 +891,7 @@ Funds in the revolving fund authorized by these Acts, and certain other sums, to
 
 Section was formerly classified to section 482 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5134. Sale of land by individual Indian owners
+## § 5134. Sale of land by individual Indian owners
 
 The Secretary of the Interior, or his duly authorized representative, is authorized in his discretion, and upon application of the Indian owners, to issue patents in fee, to remove restrictions against alienation, and to approve conveyances, with respect to lands or interests in lands held by individual Indians under the provisions of the Act of June 18, 1934 (48 Stat. 984) [25 U.S.C. 5101 et seq.], or the Act of June 26, 1936 (49 Stat. 1967).
 
@@ -903,19 +903,19 @@ The Secretary of the Interior, or his duly authorized representative, is authori
 
 Act of June 18, 1934, referred to in text, is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
-Act of June 26, 1936, referred to in text, is act June 26, 1936, ch. 831, 49 Stat. 1967, popularly known as the Oklahoma Welfare Act, which was classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45A (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
+Act of June 26, 1936, referred to in text, is act June 26, 1936, ch. 831, 49 Stat. 1967, popularly known as the Oklahoma Welfare Act, which was classified generally to subchapter VIII (§ 501 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 45A (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
 **Codification**
 
 Section was formerly classified to section 483 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5135. Mortgages and deeds of trust by individual Indian owners; removal from trust or restricted status; application to Secretary
+## § 5135. Mortgages and deeds of trust by individual Indian owners; removal from trust or restricted status; application to Secretary
 
 **(a)** The individual Indian owners of any land which either is held by the United States in trust for them or is subject to a restriction against alienation imposed by the United States are authorized, subject to approval by the Secretary of the Interior, to execute a mortgage or deed of trust to such land. Such land shall be subject to foreclosure or sale pursuant to the terms of such mortgage or deed of trust in accordance with the laws of the tribe which has jurisdiction over such land or, in the case where no tribal foreclosure law exists, in accordance with the laws of the State or Territory in which the land is located. For the purpose of any foreclosure or sale proceeding the Indian owners shall be regarded as vested with an unrestricted fee simple title to the land, the United States shall not be a necessary party to the proceeding, and any conveyance of the land pursuant to the proceeding shall divest the United States of title to the land. All mortgages and deeds of trust to such land heretofore approved by the Secretary of the Interior are ratified and confirmed.
 
 **(b)** In the event such land is acquired by an Indian or an Indian tribe, such land shall not be removed from trust or restricted status except upon application to the Secretary under existing law.
 
-(Mar. 29, 1956, ch. 107, 70 Stat. 62; Pub. L. 98–608, § 2, Oct. 30, 1984, 98 Stat. 3173; Pub. L. 101–644, title III, § 301(c), Nov. 29, 1990, 104 Stat. 4667.)
+(Mar. 29, 1956, ch. 107, 70 Stat. 62; Pub. L. 98–608, § 2, Oct. 30, 1984, 98 Stat. 3173; Pub. L. 101–644, title III, § 301(c), Nov. 29, 1990, 104 Stat. 4667.)
 
 **Editorial Notes**
 
@@ -929,13 +929,13 @@ Section was formerly classified to section 483a of this title prior to editorial
 
 1984—Pub. L. 98–608 designated existing provisions as subsec. (a) and added subsec. (b).
 
-## § 5136. Loans to purchasers of highly fractioned land
+## § 5136. Loans to purchasers of highly fractioned land
 
 **(a) In general**
 
 The Secretary of Agriculture is authorized to make direct loans in a manner consistent with direct loans pursuant to subtitle D of the Consolidated Farm and Rural Development Act (7 U.S.C. 1981 et seq.), to any Indian tribe recognized by the Secretary of the Interior or tribal corporation established pursuant to the Indian Reorganization Act (25 U.S.C. 477),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 which does not have adequate uncommitted funds, to acquire lands or interests therein within the tribe’s reservation as determined by the Secretary of the Interior, or within a community in Alaska incorporated by the Secretary pursuant to the Indian Reorganization Act [25 U.S.C. 5101 et seq.], for use of the tribe or the corporation or the members of either. Such loans shall be limited to such Indian tribes or tribal corporations as have reasonable prospects of success in their proposed operations and as are unable to obtain sufficient credit elsewhere at reasonable rates and terms to finance the purposes authorized in sections 5136 to 5143 of this title.
 
@@ -949,13 +949,13 @@ Subject to paragraph (2), the Secretary of Agriculture may make and insure loans
 
 Section 5140 of this title shall not apply to trust land, restricted tribal land, or tribal corporation land that is mortgaged in accordance with paragraph (1).
 
-(Pub. L. 91–229, § 1, Apr. 11, 1970, 84 Stat. 120; Pub. L. 110–234, title V, § 5501, May 22, 2008, 122 Stat. 1161; Pub. L. 110–246, § 4(a), title V, § 5501, June 18, 2008, 122 Stat. 1664, 1922; Pub. L. 113–79, title V, § 5402, Feb. 7, 2014, 128 Stat. 840.)
+(Pub. L. 91–229, § 1, Apr. 11, 1970, 84 Stat. 120; Pub. L. 110–234, title V, § 5501, May 22, 2008, 122 Stat. 1161; Pub. L. 110–246, § 4(a), title V, § 5501, June 18, 2008, 122 Stat. 1664, 1922; Pub. L. 113–79, title V, § 5402, Feb. 7, 2014, 128 Stat. 840.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitle D of the Act is classified principally to subchapter IV (§ 1981 et seq.) of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitle D of the Act is classified principally to subchapter IV (§ 1981 et seq.) of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 Tribal corporation established by the Indian Reorganization Act (25 U.S.C. 477), referred to in subsec. (a), means a tribal corporation established under section 17 of act June 18, 1934, ch. 576, 48 Stat. 988, which was classified to section 477 of this title prior to editiorial reclassification as section 5124 of this title.
 
@@ -969,11 +969,11 @@ Section was formerly classified to section 488 of this title prior to editorial 
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–79, § 5402(1), in first sentence, substituted “direct loans in a manner consistent with direct loans pursuant to subtitle D of the Consolidated Farm and Rural Development Act (7 U.S.C. 1981 et seq.)” for “loans from the Farmers Home Administration Direct Loan Account created by section 1988(c) of title 7, and to make and insure loans as provided in sections 1928 and 1929 of title 7”.
+2014—Subsec. (a). Pub. L. 113–79, § 5402(1), in first sentence, substituted “direct loans in a manner consistent with direct loans pursuant to subtitle D of the Consolidated Farm and Rural Development Act (7 U.S.C. 1981 et seq.)” for “loans from the Farmers Home Administration Direct Loan Account created by section 1988(c) of title 7, and to make and insure loans as provided in sections 1928 and 1929 of title 7”.
 
-Subsec. (b)(1). Pub. L. 113–79, § 5402(2), substituted “or to intermediaries in order to establish revolving loan funds for the purchase of highly fractionated land under that section” for “pursuant to section 2204(c) of this title”.
+Subsec. (b)(1). Pub. L. 113–79, § 5402(2), substituted “or to intermediaries in order to establish revolving loan funds for the purchase of highly fractionated land under that section” for “pursuant to section 2204(c) of this title”.
 
-2008—Pub. L. 110–246, § 5501, inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2008—Pub. L. 110–246, § 5501, inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -981,11 +981,11 @@ Subsec. (b)(1). Pub. L. 113–79, § 5402(2), substituted “or to intermediar
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-## § 5137. Removal of duplicative appraisals
+## § 5137. Removal of duplicative appraisals
 
 Notwithstanding any other law (including regulations), in making loans under section 5136 of this title, borrowers who are Indian tribes, members of Indian tribes, or tribal corporations shall only be required to obtain 1 appraisal under an appraisal standard recognized as of February 7, 2014, by the Secretary or the Secretary of the Interior.
 
-(Pub. L. 113–79, title V, § 5403, Feb. 7, 2014, 128 Stat. 840.)
+(Pub. L. 113–79, title V, § 5403, Feb. 7, 2014, 128 Stat. 840.)
 
 **Editorial Notes**
 
@@ -999,11 +999,11 @@ Section was formerly classified to section 488a of this title prior to editorial
 
 “Secretary” as meaning the Secretary of Agriculture, see section 9001 of Title 7, Agriculture.
 
-## § 5138. Title in trust to United States
+## § 5138. Title in trust to United States
 
 Title to land acquired by a tribe or tribal corporation with a loan made or insured pursuant to sections 5136 to 5143 of this title may, with the approval of the Secretary of the Interior, be taken by the United States in trust for the tribe or tribal corporation.
 
-(Pub. L. 91–229, § 2, Apr. 11, 1970, 84 Stat. 120.)
+(Pub. L. 91–229, § 2, Apr. 11, 1970, 84 Stat. 120.)
 
 **Editorial Notes**
 
@@ -1011,11 +1011,11 @@ Title to land acquired by a tribe or tribal corporation with a loan made or insu
 
 Section was formerly classified to section 489 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5139. Tribal rights and privileges in connection with loans
+## § 5139. Tribal rights and privileges in connection with loans
 
 A tribe or tribal corporation to which a loan is made or insured pursuant to sections 5136 to 5143 of this title (1) may waive in writing any immunity from suit or liability which it may possess, (2) may mortgage or otherwise hypothecate trust or restricted property if (a) authorized by its constitution or charter or by a tribal referendum, and (b) approved by the Secretary of the Interior, and (3) shall comply with rules and regulations prescribed by the Secretary of Agriculture in connection with such loans.
 
-(Pub. L. 91–229, § 3, Apr. 11, 1970, 84 Stat. 120.)
+(Pub. L. 91–229, § 3, Apr. 11, 1970, 84 Stat. 120.)
 
 **Editorial Notes**
 
@@ -1023,11 +1023,11 @@ A tribe or tribal corporation to which a loan is made or insured pursuant to sec
 
 Section was formerly classified to section 490 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5140. Mortgaged property governed by State law
+## § 5140. Mortgaged property governed by State law
 
 Trust or restricted tribal or tribal corporation property mortgaged pursuant to sections 5136 to 5143 of this title shall be subject to foreclosure and sale or conveyance in lieu of foreclosure, free of such trust or restrictions, in accordance with the laws of the State in which the property is located.
 
-(Pub. L. 91–229, § 4, Apr. 11, 1970, 84 Stat. 120.)
+(Pub. L. 91–229, § 4, Apr. 11, 1970, 84 Stat. 120.)
 
 **Editorial Notes**
 
@@ -1035,17 +1035,17 @@ Trust or restricted tribal or tribal corporation property mortgaged pursuant to 
 
 Section was formerly classified to section 491 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5141. Interest rates and taxes
+## § 5141. Interest rates and taxes
 
 Loans made or insured pursuant to sections 5136 to 5143 of this title will be subject to the interest rate provisions of section 307(a)(3)(B) of the Consolidated Farmers Home Administration Act of 1961, as amended [7 U.S.C. 1927(a)(3)(B)], and to the provisions of subtitle D of that Act [7 U.S.C. 1981 et seq.] except sections 340 [7 U.S.C. 1990], 341, 342 [7 U.S.C. 1013a], and 343 [7 U.S.C. 1991] thereof: *Provided*, That section 334 [7 U.S.C. 1984] thereof shall not be construed to subject to taxation any lands or interests therein while they are held by an Indian tribe or tribal corporation or by the United States in trust for such tribe or tribal corporation pursuant to sections 5136 to 5143 of this title.
 
-(Pub. L. 91–229, § 5, Apr. 11, 1970, 84 Stat. 120; Pub. L. 101–624, title XVIII, § 1854(a), Nov. 28, 1990, 104 Stat. 3837.)
+(Pub. L. 91–229, § 5, Apr. 11, 1970, 84 Stat. 120; Pub. L. 101–624, title XVIII, § 1854(a), Nov. 28, 1990, 104 Stat. 3837.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consolidated Farmers Home Administration Act of 1961, referred to in text, is now the Consolidated Farm and Rural Development Act, Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307. Subtitle D of the Consolidated Farm and Rural Development Act is classified principally to subchapter IV (§ 1981 et seq.) of chapter 50 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farmers Home Administration Act of 1961, referred to in text, is now the Consolidated Farm and Rural Development Act, Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307. Subtitle D of the Consolidated Farm and Rural Development Act is classified principally to subchapter IV (§ 1981 et seq.) of chapter 50 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 Section 341 of that Act is set out as a note under section 1921 of Title 7.
 
@@ -1057,7 +1057,7 @@ Section was formerly classified to section 492 of this title prior to editorial 
 
 1990—Pub. L. 101–624 substituted “section 307(a)(3)(B)” for “section 307(a)”.
 
-## § 5142. Reduction of unpaid principal
+## § 5142. Reduction of unpaid principal
 
 **(a) In general** The Secretary of Agriculture may, on the application of the borrower of a loan or loans made under sections 5136 to 5143 of this title, reduce the unpaid principal balance of such loan or loans to the current fair market value of the land purchased with the proceeds of the loan or loans if—
 
@@ -1079,9 +1079,9 @@ The cost of appraisals undertaken under paragraph (1) shall be paid by the borro
 
 **(c) Appeals**
 
-Decisions of the Secretary of Agriculture under this section shall be appealable in accordance with the provisions of section 333B 1
+Decisions of the Secretary of Agriculture under this section shall be appealable in accordance with the provisions of section 333B 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Consolidated Farm and Rural Development Act (7 U.S.C. 1983b).
 
@@ -1089,35 +1089,35 @@ of the Consolidated Farm and Rural Development Act (7 U.S.C. 1983b).
 
 A borrower that had a loan or loans reduced under this section shall not submit an application for another reduction on such loan or loans for a period of 5 years after the initial reduction.
 
-(Pub. L. 91–229, § 6, as added Pub. L. 101–82, title III, § 303, Aug. 14, 1989, 103 Stat. 583.)
+(Pub. L. 91–229, § 6, as added Pub. L. 101–82, title III, § 303, Aug. 14, 1989, 103 Stat. 583.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 333B of the Consolidated Farm and Rural Development Act (7 U.S.C. 1983b), referred to in subsec. (c), probably means section 333B of Pub. L. 87–128, as added by Pub. L. 99–198, title XIII, § 1313(a), Dec. 23, 1985, 99 Stat. 1525, and amended, which related to appeals from adverse decisions under the Act, prior to repeal by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233, and enactment of a new section 333B of Pub. L. 87–128 by Pub. L. 110–234, title V, § 5301, May 22, 2008, 122 Stat. 1147, and Pub. L. 110–246, title V, § 5301, June 18, 2008, 122 Stat. 1908, which established a beginning farmers’ pilot program.
+Section 333B of the Consolidated Farm and Rural Development Act (7 U.S.C. 1983b), referred to in subsec. (c), probably means section 333B of Pub. L. 87–128, as added by Pub. L. 99–198, title XIII, § 1313(a), Dec. 23, 1985, 99 Stat. 1525, and amended, which related to appeals from adverse decisions under the Act, prior to repeal by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233, and enactment of a new section 333B of Pub. L. 87–128 by Pub. L. 110–234, title V, § 5301, May 22, 2008, 122 Stat. 1147, and Pub. L. 110–246, title V, § 5301, June 18, 2008, 122 Stat. 1908, which established a beginning farmers’ pilot program.
 
 **Codification**
 
-Another section 6 of Pub. L. 91–229 was added by Pub. L. 101–624, title XVIII, § 1854(b), Nov. 28, 1990, 104 Stat. 3837, and is classified to section 5143 of this title.
+Another section 6 of Pub. L. 91–229 was added by Pub. L. 101–624, title XVIII, § 1854(b), Nov. 28, 1990, 104 Stat. 3837, and is classified to section 5143 of this title.
 
 Section was formerly classified to section 493 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5143. Authorization of appropriations
+## § 5143. Authorization of appropriations
 
 There are authorized to be appropriated to carry out sections 5136 to 5143 of this title $8,000,000 for each of the fiscal years 1991 through 1995.
 
-(Pub. L. 91–229, § 6, as added Pub. L. 101–624, title XVIII, § 1854(b), Nov. 28, 1990, 104 Stat. 3837.)
+(Pub. L. 91–229, § 6, as added Pub. L. 101–624, title XVIII, § 1854(b), Nov. 28, 1990, 104 Stat. 3837.)
 
 **Editorial Notes**
 
 **Codification**
 
-Another section 6 of Pub. L. 91–229 was added by Pub. L. 101–82, title III, § 303, Aug. 14, 1989, 103 Stat. 583, and is classified to section 5142 of this title.
+Another section 6 of Pub. L. 91–229 was added by Pub. L. 101–82, title III, § 303, Aug. 14, 1989, 103 Stat. 583, and is classified to section 5142 of this title.
 
 Section was formerly classified to section 494 of this title prior to editorial reclassification and renumbering as this section.
 
-## § 5144. Certification of rental proceeds
+## § 5144. Certification of rental proceeds
 
 Notwithstanding any other provision of law, any actual rental proceeds from the lease of land acquired under section 5136 of this title certified by the Secretary of the Interior shall be deemed—
 
@@ -1125,7 +1125,7 @@ Notwithstanding any other provision of law, any actual rental proceeds from the 
 
 **(2)** to satisfy the requirement for appraisal of that land.
 
-(Pub. L. 109–221, title II, § 203, May 12, 2006, 120 Stat. 341.)
+(Pub. L. 109–221, title II, § 203, May 12, 2006, 120 Stat. 341.)
 
 **Editorial Notes**
 

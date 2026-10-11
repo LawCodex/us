@@ -15,19 +15,19 @@ retrieved: 2026-10-11
 
 # CHAPTER 55—DEPARTMENT OF AGRICULTURE
 
-## § 2201. Establishment of Department
+## § 2201. Establishment of Department
 
 There shall be at the seat of government a Department of Agriculture, the general design and duties of which shall be to acquire and to diffuse among the people of the United States useful information on subjects connected with agriculture, rural development, aquaculture, and human nutrition, in the most general and comprehensive sense of those terms, and to procure, propagate, and distribute among the people new and valuable seeds and plants.
 
-(R.S. § 520; Pub. L. 92–419, title VI, § 603(a), Aug. 30, 1972, 86 Stat. 675; Pub. L. 95–113, title XV, § 1502(a), Sept. 29, 1977, 91 Stat. 1021.)
+(R.S. § 520; Pub. L. 92–419, title VI, § 603(a), Aug. 30, 1972, 86 Stat. 675; Pub. L. 95–113, title XV, § 1502(a), Sept. 29, 1977, 91 Stat. 1021.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 520 derived from act May 15, 1862, ch. 72, § 1, 12 Stat. 387.
+R.S. § 520 derived from act May 15, 1862, ch. 72, § 1, 12 Stat. 387.
 
-Section was formerly classified to section 511 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 511 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -43,19 +43,19 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–191, § 1, Dec. 23, 2024, 138 Stat. 2658, provided that: “This Act [enacting section 2279*l* of this title] may be cited as the ‘Beagle Brigade Act of 2023’.”
+Pub. L. 118–191, § 1, Dec. 23, 2024, 138 Stat. 2658, provided that: “This Act [enacting section 2279*l* of this title] may be cited as the ‘Beagle Brigade Act of 2023’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–113, § 1, Nov. 21, 1997, 111 Stat. 2274, provided that: “This Act [enacting section 2204g of this title, amending sections 1991 and 2276 of this title and section 9 of Title 13, Census, repealing section 142 of Title 13, and enacting provisions set out as a note under section 1991 of this title] may be cited as the ‘Census of Agriculture Act of 1997’.”
+Pub. L. 105–113, § 1, Nov. 21, 1997, 111 Stat. 2274, provided that: “This Act [enacting section 2204g of this title, amending sections 1991 and 2276 of this title and section 9 of Title 13, Census, repealing section 142 of Title 13, and enacting provisions set out as a note under section 1991 of this title] may be cited as the ‘Census of Agriculture Act of 1997’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–355, § 1, Sept. 24, 1980, 94 Stat. 1171, provided that: “This Act [enacting sections 2204b and 2211b of this title, amending sections 1926, 2204, 2204a, 2663, and 2667 of this title, section 5314 of Title 5, Government Organization and Employees, and section 3122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 2204b of this title] may be cited as the ‘Rural Development Policy Act of 1980’.”
+Pub. L. 96–355, § 1, Sept. 24, 1980, 94 Stat. 1171, provided that: “This Act [enacting sections 2204b and 2211b of this title, amending sections 1926, 2204, 2204a, 2663, and 2667 of this title, section 5314 of Title 5, Government Organization and Employees, and section 3122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 2204b of this title] may be cited as the ‘Rural Development Policy Act of 1980’.”
 
 **Short Title of 1956 Amendment**
 
-Act Aug. 3, 1956, ch. 950, § 1, 70 Stat. 1032, provided that: “This Act [enacting sections 1040, 2228, 2229, 2268a, and 2333 of this title, and sections 579b and 590h–4 of Title 16, Conservation, and amending sections 1004, 1392, 1516, and 1766 of this title, sections 590k and 590n of Title 16, and sections 114a and 114c of Title 21, Food and Drugs] may be cited as the ‘Department of Agriculture Organic Act of 1956’.”
+Act Aug. 3, 1956, ch. 950, § 1, 70 Stat. 1032, provided that: “This Act [enacting sections 1040, 2228, 2229, 2268a, and 2333 of this title, and sections 579b and 590h–4 of Title 16, Conservation, and amending sections 1004, 1392, 1516, and 1766 of this title, sections 590k and 590n of Title 16, and sections 114a and 114c of Title 21, Food and Drugs] may be cited as the ‘Department of Agriculture Organic Act of 1956’.”
 
 **Short Title**
 
@@ -63,7 +63,7 @@ This section popularly known as the “Department of Agriculture Organic Act”.
 
 **Establishment of Personnel Ceiling for Fiscal Years 1982, 1983, and 1984**
 
-Pub. L. 97–35, title I, § 125, Aug. 13, 1981, 95 Stat. 369, provided that: “Notwithstanding any other provision of law, the total full-time equivalent staff year personnel ceiling for the United States Department of Agriculture shall not exceed one hundred and seventeen thousand staff years (including overtime) for each of the fiscal years ending September 30, 1982, September 30, 1983, and September 30, 1984.”
+Pub. L. 97–35, title I, § 125, Aug. 13, 1981, 95 Stat. 369, provided that: “Notwithstanding any other provision of law, the total full-time equivalent staff year personnel ceiling for the United States Department of Agriculture shall not exceed one hundred and seventeen thousand staff years (including overtime) for each of the fiscal years ending September 30, 1982, September 30, 1983, and September 30, 1984.”
 
 **Executive Documents**
 
@@ -110,7 +110,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 > **“(e)** All conveyances under the Act referred to in subsection (h) of section 1 hereof of national forest lands reserved from the public domain shall, upon recommendation of the Secretary of Agriculture, be made by the Secretary of the Interior.”
 
 ****REORGANIZATION PLAN NO. 2 OF 1953**
-Eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, as amended Oct. 15, 1982, Pub. L. 97–325, § 8(d), 96 Stat. 1606; Oct. 13, 1994, Pub. L. 103–354, title II, § 218(e)(1), 108 Stat. 3213**
+Eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, as amended Oct. 15, 1982, Pub. L. 97–325, § 8(d), 96 Stat. 1606; Oct. 13, 1994, Pub. L. 103–354, title II, § 218(e)(1), 108 Stat. 3213**
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 25, 1953, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended [see 5 U.S.C. 901 et seq.].
 
@@ -124,11 +124,11 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 **Sec. 2. Assistant Secretaries of Agriculture**
 
-[Repealed. Pub. L. 103–354, title II, § 218(e)(1), Oct. 13, 1994, 108 Stat. 3213. Section authorized the appointment of two additional Assistant Secretaries of Agriculture. See section 6918 of this title.]
+[Repealed. Pub. L. 103–354, title II, § 218(e)(1), Oct. 13, 1994, 108 Stat. 3213. Section authorized the appointment of two additional Assistant Secretaries of Agriculture. See section 6918 of this title.]
 
 **Sec. 3. Administrative Assistant Secretary**
 
-[Repealed. Pub. L. 97–325, § 8(d), Oct. 15, 1982, 96 Stat. 1606. Section authorized the appointment of an Administrative Assistant Secretary of Agriculture. See section 2212c of this title.]
+[Repealed. Pub. L. 97–325, § 8(d), Oct. 15, 1982, 96 Stat. 1606. Section authorized the appointment of an Administrative Assistant Secretary of Agriculture. See section 2212c of this title.]
 
 **Sec. 4. Delegation of Functions**
 
@@ -142,33 +142,33 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 The Secretary of Agriculture may from time to time effect such transfers within the Department of Agriculture of any of the records, property, and personnel affected by this reorganization plan and such transfers of unexpended balances (available or to be made available for use in connection with any affected function or agency) of appropriations, allocations, and other funds of such Department, as he deems necessary to carry out the provisions of this reorganization plan; but such unexpended balances so transferred shall be used only for the purposes for which such appropriation was originally made.
 
-## § 2202. Executive Department; Secretary
+## § 2202. Executive Department; Secretary
 
 The Department of Agriculture shall be an executive department, under the supervision and control of a Secretary of Agriculture, who shall be appointed by the President, by and with the advice and consent of the Senate. The provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department; and all laws and parts of laws relating to the Department of Agriculture in existence February 9, 1889, as far as the same are applicable and not in conflict with this section, and only so far, are continued in full force and effect.
 
-(Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659.)
+(Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 4 of the Revised Statutes, referred to in text, was entitled “Provisions Applicable to All Executive Departments, and consisted of R.S. §§ 158 to 198. For provisions of the Code derived from such title 4, see sections 101, 301, 303, 304, 503, 2952, 3101, 3106, 3341, 3345 to 3349, 5535, 5536 of Title 5, Government Organization and Employees; section 207 of Title 18, Crimes and Criminal Procedure; sections 514, 520 of Title 28, Judiciary and Judicial Procedure; section 3321 of Title 31, Money and Finance.
+Title 4 of the Revised Statutes, referred to in text, was entitled “Provisions Applicable to All Executive Departments, and consisted of R.S. §§ 158 to 198. For provisions of the Code derived from such title 4, see sections 101, 301, 303, 304, 503, 2952, 3101, 3106, 3341, 3345 to 3349, 5535, 5536 of Title 5, Government Organization and Employees; section 207 of Title 18, Crimes and Criminal Procedure; sections 514, 520 of Title 28, Judiciary and Judicial Procedure; section 3321 of Title 31, Money and Finance.
 
 **Codification**
 
-Section was formerly classified to section 512 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 512 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 **Order of Succession**
 
 For order of succession during any period when both Secretary and Deputy Secretary of Agriculture are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13542, May 13, 2010, 75 F.R. 27921, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
-## § 2203. Seal
+## § 2203. Seal
 
 The Secretary of Agriculture is authorized and directed to procure a proper seal, with such suitable inscriptions and devices as he may approve, to be known as the official seal of the Department of Agriculture, and to be kept and used to verify official documents, under such rules and regulations as he may prescribe.
 
@@ -178,23 +178,23 @@ The Secretary of Agriculture is authorized and directed to procure a proper seal
 
 **Codification**
 
-Section was formerly classified to section 513 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 513 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2204. General duties of Secretary; advisory functions; research and development
+## § 2204. General duties of Secretary; advisory functions; research and development
 
 **(a)** The Secretary of Agriculture shall procure and preserve all information concerning agriculture, rural development, aquaculture, and human nutrition which he can obtain by means of books and correspondence, and by practical and scientific experiments, accurate records of which experiments shall be kept in his office, by the collection of statistics, and by any other appropriate means within his power; he shall collect new and valuable seeds and plants; shall test, by cultivation, the value of such of them as may require such tests; shall propagate such as may be worthy of propagation; and shall distribute them among agriculturists; and he shall advise the President, other members of his Cabinet, and the Congress on policies and programs designed to improve the quality of life for people living in the rural and nonmetropolitan regions of the Nation.
 
 **(b)** The Secretary is authorized to initiate or expand research and development efforts related to solution of problems of rural water supply, rural sewage and solid waste management, rural housing, rural industrialization, and technology appropriate to small- and moderate-sized family farming operations, and any other problem that the Secretary may determine has an effect upon the economic development or the quality of life in rural areas.
 
-(R.S. § 526; Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659; Pub. L. 92–419, title VI, § 603(b), Aug. 30, 1972, 86 Stat. 675; Pub. L. 94–273, § 7(4), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–113, title XV, § 1502(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 96–355, § 5, Sept. 24, 1980, 94 Stat. 1174.)
+(R.S. § 526; Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659; Pub. L. 92–419, title VI, § 603(b), Aug. 30, 1972, 86 Stat. 675; Pub. L. 94–273, § 7(4), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–113, title XV, § 1502(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 96–355, § 5, Sept. 24, 1980, 94 Stat. 1174.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 526 derived from act May 15, 1862, ch. 72, § 3, 12 Stat. 387.
+R.S. § 526 derived from act May 15, 1862, ch. 72, § 3, 12 Stat. 387.
 
-Section was formerly classified to section 514 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 514 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -204,9 +204,9 @@ Section was formerly classified to section 514 of Title 5 prior to the general r
 
 1976—Subsec. (b). Pub. L. 94–273 substituted “December” for “September”.
 
-1972—Subsec. (a). Pub. L. 92–419, § 603(b)(1)–(3), designated existing provisions as subsec. (a), provided for information concerning rural development, and prescribed advisory functions of the Secretary, respectively.
+1972—Subsec. (a). Pub. L. 92–419, § 603(b)(1)–(3), designated existing provisions as subsec. (a), provided for information concerning rural development, and prescribed advisory functions of the Secretary, respectively.
 
-Subsec. (b). Pub. L. 92–419, § 603(b)(4), added subsec. (b).
+Subsec. (b). Pub. L. 92–419, § 603(b)(4), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 **Report on Geographically Disadvantaged Farmers and Ranchers**
 
-Pub. L. 107–171, title X, § 10906, May 13, 2002, 116 Stat. 538, provided that:
+Pub. L. 107–171, title X, § 10906, May 13, 2002, 116 Stat. 538, provided that:
 
 > **“(a) Definition of Geographically Disadvantaged Farmer or Rancher.—** In this section, the term ‘geographically disadvantaged farmer or rancher’ means a farmer or rancher in—
 
@@ -244,7 +244,7 @@ Pub. L. 107–171, title X, § 10906, May 13, 2002, 116 Stat. 538, provided th
 
 **Review of Operation of Agricultural and Natural Resource Programs on Tribal Trust Land**
 
-Pub. L. 107–171, title X, § 10910, May 13, 2002, 116 Stat. 539, provided that:
+Pub. L. 107–171, title X, § 10910, May 13, 2002, 116 Stat. 539, provided that:
 
 > **“(a) Review.—** The Secretary of Agriculture (referred to in this section as the ‘Secretary’) shall conduct a review of the operation of agricultural and natural resource programs available to farmers and ranchers operating on tribal and trust land, including—
 
@@ -294,7 +294,7 @@ Pub. L. 107–171, title X, § 10910, May 13, 2002, 116 Stat. 539, provided th
 
 **Aviation Inspections**
 
-Pub. L. 103–354, title III, § 306, Oct. 13, 1994, 108 Stat. 3241, provided that:
+Pub. L. 103–354, title III, § 306, Oct. 13, 1994, 108 Stat. 3241, provided that:
 
 > **“(a) Study of Aircraft Inspections.—**
 
@@ -320,9 +320,9 @@ Pub. L. 103–354, title III, § 306, Oct. 13, 1994, 108 Stat. 3241, provided 
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-Functions of Secretary of Agriculture administered through Bureau of Biological Survey relating to conservation of wildlife, game, and migratory birds transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Secretary of Agriculture administered through Bureau of Biological Survey relating to conservation of wildlife, game, and migratory birds transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Delegation of authority to Secretary with respect to nation’s food program during war emergency, see Ex. Ord. No. 9280, paraphrased as a note under section 452 of this title.
 
@@ -334,7 +334,7 @@ For assignment of certain emergency preparedness functions to Secretary of Agric
 
 For order of succession during any period when both Secretary and Deputy Secretary of Agriculture are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13542, May 13, 2010, 75 F.R. 27921, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
-## § 2204–1. Delegation of regulatory functions of Secretary of Agriculture; definitions
+## § 2204–1. Delegation of regulatory functions of Secretary of Agriculture; definitions
 
 As used in sections 2204–1 to 2204–5 of this title—
 
@@ -342,67 +342,67 @@ As used in sections 2204–1 to 2204–5 of this title—
 
 **(b)** The term “regulatory function” means the making, prescribing, issuing, or promulgating of a regulatory order; and includes (1) determining whether such making, prescribing, issuing, or promulgating is authorized or required by law, and (2) any action which is required or authorized to be performed before, after, or in connection with, such determining, making, prescribing, issuing, or promulgating.
 
-(Apr. 4, 1940, ch. 75, § 1, 54 Stat. 81.)
+(Apr. 4, 1940, ch. 75, § 1, 54 Stat. 81.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 450c of this title prior to editorial reclassification and renumbering as this section, and to section 516a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 450c of this title prior to editorial reclassification and renumbering as this section, and to section 516a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2204–2. Delegation of regulatory functions to designated employees; status of employees; number; revocation of delegation
+## § 2204–2. Delegation of regulatory functions to designated employees; status of employees; number; revocation of delegation
 
 Whenever the Secretary of Agriculture deems that the delegation of the whole or any part of any regulatory function which the Secretary is, now or after April 4, 1940, required or authorized to perform will result in the more expeditious discharge of the duties of the Department of Agriculture, he is authorized to make such delegation to any officer or employee designated under this section. The Secretary is authorized to designate officers or employees of the Department to whom functions may be delegated under this section and to assign appropriate titles to such officers or employees. There shall not be in the Department at any one time more than two officers or employees designated under this section and vested with a regulatory function or part thereof delegated under this section. The Secretary may at any time revoke the whole or any part of a delegation or designation made by him under this section.
 
-(Apr. 4, 1940, ch. 75, § 2, 54 Stat. 81; Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, 650.)
+(Apr. 4, 1940, ch. 75, § 2, 54 Stat. 81; Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, 650.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 450d of this title prior to editorial reclassification and renumbering as this section, and to section 516b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 450d of this title prior to editorial reclassification and renumbering as this section, and to section 516b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
 1966—Pub. L. 89–554 repealed third sentence which related to grade of a position. See section 5109 of Title 5, Government Organization and Employees.
 
-## § 2204–3. Authority of designated employees; retroactive revocation of delegation
+## § 2204–3. Authority of designated employees; retroactive revocation of delegation
 
 Whenever a delegation is made under section 2204–2 of this title, all provisions of law shall be construed as if the regulatory function or the part thereof delegated had (to the extent of the delegation) been vested by law in the individual to whom the delegation is made, instead of in the Secretary of Agriculture. A revocation of delegation shall not be retroactive, and each regulatory function or part thereof performed (within the scope of the delegation) by such individual prior to the revocation shall be considered as having been performed by the Secretary.
 
-(Apr. 4, 1940, ch. 75, § 3, 54 Stat. 82.)
+(Apr. 4, 1940, ch. 75, § 3, 54 Stat. 82.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 450e of this title prior to editorial reclassification and renumbering as this section, and to section 516c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 450e of this title prior to editorial reclassification and renumbering as this section, and to section 516c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2204–4. Delegation of functions under other laws as unaffected
+## § 2204–4. Delegation of functions under other laws as unaffected
 
 The provisions of section 2204–2 of this title shall not be deemed to prohibit the delegation, under authority of any other provision of law, of the whole or any part of any regulatory function or other function to any officer or employee of the Department of Agriculture.
 
-(Apr. 4, 1940, ch. 75, § 4, 54 Stat. 82.)
+(Apr. 4, 1940, ch. 75, § 4, 54 Stat. 82.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 450f of this title prior to editorial reclassification as this section, and to section 516d of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 450f of this title prior to editorial reclassification as this section, and to section 516d of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2204–5. Authorization of appropriations for cooperative research projects
+## § 2204–5. Authorization of appropriations for cooperative research projects
 
 There is authorized to be appropriated such sums as may be necessary to carry out the purposes of sections 2204–1 to 2204–5 of this title.
 
-(Apr. 4, 1940, ch. 75, § 5, 54 Stat. 82.)
+(Apr. 4, 1940, ch. 75, § 5, 54 Stat. 82.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 450g of this title prior to editorial reclassification as this section, and to section 516e of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 450g of this title prior to editorial reclassification as this section, and to section 516e of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2204a. Rural development; utilization of non-Federal offices; location of field units; interchange of personnel and facilities
+## § 2204a. Rural development; utilization of non-Federal offices; location of field units; interchange of personnel and facilities
 
 The Secretary of Agriculture shall utilize to the maximum extent practicable State, regional, district, county, local, or other Department of Agriculture offices to enhance rural development, and shall to the maximum extent practicable provide directly, or, in the case of agencies outside of the Department of Agriculture, through arrangements with the heads of such agencies, for—
 
@@ -410,7 +410,7 @@ The Secretary of Agriculture shall utilize to the maximum extent practicable Sta
 
 **(2)** the interchange of personnel and facilities in each such office to the extent necessary or desirable to achieve the most efficient utilization of such personnel and facilities and provide the most effective assistance in the development of rural areas in accordance with State rural development plans.
 
-(Pub. L. 92–419, title VI, § 603(c), Aug. 30, 1972, 86 Stat. 675; Pub. L. 96–355, § 4(5), Sept. 24, 1980, 94 Stat. 1174.)
+(Pub. L. 92–419, title VI, § 603(c), Aug. 30, 1972, 86 Stat. 675; Pub. L. 96–355, § 4(5), Sept. 24, 1980, 94 Stat. 1174.)
 
 **Editorial Notes**
 
@@ -428,7 +428,7 @@ Amendment by Pub. L. 96–355 effective Oct. 1, 1980, see section 10 of Pub. L. 
 
 Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
 
-## § 2204b. Rural development policy
+## § 2204b. Rural development policy
 
 **(a) Coordination of nationwide rural development program using services of executive branch departments and agencies and State and local governments**
 
@@ -494,7 +494,7 @@ The Secretary of Agriculture shall provide leadership within the executive branc
 
 **(6)** simplify, standardize, and reduce the complexity of applications, reports, and other forms required under Federal rural development programs.
 
-(Pub. L. 92–419, title VI, § 607, as added Pub. L. 96–355, § 2, Sept. 24, 1980, 94 Stat. 1171; amended Pub. L. 104–127, title VII, § 759A, Apr. 4, 1996, 110 Stat. 1138; Pub. L. 117–286, § 4(a)(28), Dec. 27, 2022, 136 Stat. 4308.)
+(Pub. L. 92–419, title VI, § 607, as added Pub. L. 96–355, § 2, Sept. 24, 1980, 94 Stat. 1171; amended Pub. L. 104–127, title VII, § 759A, Apr. 4, 1996, 110 Stat. 1138; Pub. L. 117–286, § 4(a)(28), Dec. 27, 2022, 136 Stat. 4308.)
 
 **Editorial Notes**
 
@@ -512,7 +512,7 @@ The Privacy Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–579, Dec
 
 **Effective Date**
 
-Pub. L. 96–355, § 10, Sept. 24, 1980, 94 Stat. 1176, provided that: “The provisions of this Act [enacting this section and section 2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title] shall become effective October 1, 1980.”
+Pub. L. 96–355, § 10, Sept. 24, 1980, 94 Stat. 1176, provided that: “The provisions of this Act [enacting this section and section 2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title] shall become effective October 1, 1980.”
 
 **Termination of Reporting Requirements**
 
@@ -524,7 +524,7 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 **Simplified, Uniform Application for Assistance From All Federal Rural Development Programs**
 
-Pub. L. 104–127, title VII, § 762, Apr. 4, 1996, 110 Stat. 1148, provided that:
+Pub. L. 104–127, title VII, § 762, Apr. 4, 1996, 110 Stat. 1148, provided that:
 
 > “Not later than 1 year after the date of enactment of this Act [Apr. 4, 1996], the Secretary of Agriculture shall develop a streamlined, simplified, and uniform application which shall be used in applying for assistance under all of the following:
 
@@ -544,13 +544,13 @@ Pub. L. 104–127, title VII, § 762, Apr. 4, 1996, 110 Stat. 1148, provided t
 
 **Executive Order No. 12720**
 
-Ex. Ord. No. 12720, July 16, 1990, 55 F.R. 29337, as amended by Ex. Ord. No. 12783, Dec. 17, 1991, 56 F.R. 65977, which established the President’s Council on Rural America, was revoked by Ex. Ord. No. 12869, § 4(c), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 12720, July 16, 1990, 55 F.R. 29337, as amended by Ex. Ord. No. 12783, Dec. 17, 1991, 56 F.R. 65977, which established the President’s Council on Rural America, was revoked by Ex. Ord. No. 12869, § 4(c), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 **Executive Order No. 13575**
 
-Ex. Ord. No. 13575, June 9, 2011, 76 F.R. 34841, which established the White House Rural Council, was revoked by Ex. Ord. No. 13790, § 6, Apr. 25, 2017, 82 F.R. 20239.
+Ex. Ord. No. 13575, June 9, 2011, 76 F.R. 34841, which established the White House Rural Council, was revoked by Ex. Ord. No. 13790, § 6, Apr. 25, 2017, 82 F.R. 20239.
 
-## § 2204b–1. Rural development
+## § 2204b–1. Rural development
 
 **(a) Congressional commitment**
 
@@ -558,19 +558,19 @@ The Congress commits itself to a sound balance between rural and urban America. 
 
 **(b) Location of Federal facilities**
 
-Congress hereby directs the heads of all executive departments and agencies of the Government to establish and maintain departmental policies and procedures giving first priority to the location of new offices and other facilities in rural areas as defined in the private business enterprise exception in section 1926(a)(7) 1
+Congress hereby directs the heads of all executive departments and agencies of the Government to establish and maintain departmental policies and procedures giving first priority to the location of new offices and other facilities in rural areas as defined in the private business enterprise exception in section 1926(a)(7) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Pub. L. 91–524, title IX, § 901, Nov. 30, 1970, 84 Stat. 1383; Pub. L. 92–419, title VI, § 601, Aug. 30, 1972, 86 Stat. 674; Pub. L. 94–273, § 7(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–355, § 6, Sept. 24, 1980, 94 Stat. 1174.)
+(Pub. L. 91–524, title IX, § 901, Nov. 30, 1970, 84 Stat. 1383; Pub. L. 92–419, title VI, § 601, Aug. 30, 1972, 86 Stat. 674; Pub. L. 94–273, § 7(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 96–355, § 6, Sept. 24, 1980, 94 Stat. 1174.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1926(a)(7) of this title, referred to in subsec. (b), was repealed and a new section 1926(a)(7) was added by Pub. L. 104–127, title VII, § 741(a)(2), Apr. 4, 1996, 110 Stat. 1123. As added, section 1926(a)(7) of this title defined “rural areas” but no longer contained provisions relating to a private business enterprise exception. Subsequently, section 1926(a)(7) was repealed by Pub. L. 107–171, title VI, § 6020(b)(1), May 13, 2002, 116 Stat. 363.
+Section 1926(a)(7) of this title, referred to in subsec. (b), was repealed and a new section 1926(a)(7) was added by Pub. L. 104–127, title VII, § 741(a)(2), Apr. 4, 1996, 110 Stat. 1123. As added, section 1926(a)(7) of this title defined “rural areas” but no longer contained provisions relating to a private business enterprise exception. Subsequently, section 1926(a)(7) was repealed by Pub. L. 107–171, title VI, § 6020(b)(1), May 13, 2002, 116 Stat. 363.
 
 **Codification**
 
@@ -606,7 +606,7 @@ Amendment by Pub. L. 96–355 effective Oct. 1, 1980, see section 10 of Pub. L. 
 
 Ex. Ord. No. 11797, July 31, 1974, 39 F.R. 27893, which delegated to the Secretary of Agriculture the President’s authority to prepare and submit to Congress annual reports concerning the location of new Federal facilities in rural areas, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-## § 2204b–2. Temporary prioritization of rural health assistance
+## § 2204b–2. Temporary prioritization of rural health assistance
 
 **(a) Authority to temporarily prioritize certain rural development applications**
 
@@ -660,13 +660,13 @@ The Secretary may rescind a reprioritization announcement made under subsection 
 
 Not later than 48 hours after making, extending, or rescinding an announcement under this section, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, and transmit to the Secretary of Health and Human Services, a written notice of the declaration, extension, or rescission.
 
-(Pub. L. 92–419, title VI, § 608, as added Pub. L. 115–334, title VI, § 6101(b), Dec. 20, 2018, 132 Stat. 4727.)
+(Pub. L. 92–419, title VI, § 608, as added Pub. L. 115–334, title VI, § 6101(b), Dec. 20, 2018, 132 Stat. 4727.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Support for Cotton Merchandisers**
 
-Pub. L. 117–328, div. HH, title V, § 601, Dec. 29, 2022, 136 Stat. 5994, provided that:
+Pub. L. 117–328, div. HH, title V, § 601, Dec. 29, 2022, 136 Stat. 5994, provided that:
 
 > **“(a) Cotton Merchandiser Pandemic Assistance.—**
 
@@ -686,7 +686,7 @@ Pub. L. 117–328, div. HH, title V, § 601, Dec. 29, 2022, 136 Stat. 5994, pr
 
 **Emergency Rural Development Grants for Rural Health Care**
 
-Pub. L. 117–2, title I, § 1002, Mar. 11, 2021, 135 Stat. 11, provided that:
+Pub. L. 117–2, title I, § 1002, Mar. 11, 2021, 135 Stat. 11, provided that:
 
 > **“(a) Grants.—** The Secretary of Agriculture (in this section referred to as the ‘Secretary’) shall use the funds made available by this section to establish an emergency pilot program for rural development not later than 150 days after the date of enactment of this Act [Mar. 11, 2021] to provide grants to eligible applicants (as defined in section 3570.61(a) of title 7, Code of Federal Regulations) to be awarded by the Secretary based on rural development needs related to the COVID–19 pandemic.
 
@@ -708,7 +708,7 @@ Pub. L. 117–2, title I, § 1002, Mar. 11, 2021, 135 Stat. 11, provided that:
 
 > **“(c) Funding.—** In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $500,000,000, to remain available until September 30, 2023, to carry out this section, of which not more than 3 percent may be used by the Secretary for administrative purposes and not more than 2 percent may be used by the Secretary for technical assistance as defined in section 306(a)(26) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926(a)(26)).”
 
-## § 2204b–3. Council on Rural Community Innovation and Economic Development
+## § 2204b–3. Council on Rural Community Innovation and Economic Development
 
 **(a) Purpose** The purpose of this section is to enhance the efforts of the Federal Government to address the needs of rural areas in the United States by—
 
@@ -842,9 +842,9 @@ The Council may establish, in addition to the working groups established under p
 
 **(2) Membership**
 
-The Secretary shall include as members of each working group such Council members, other heads of Federal agencies (or their designees as defined in (d)(3) 1
+The Secretary shall include as members of each working group such Council members, other heads of Federal agencies (or their designees as defined in (d)(3) 1
 
-<sup>1</sup>  So in original. Probably should be “subsection (c)(3)”.
+<sup>1</sup> So in original. Probably should be “subsection (c)(3)”.
 
 ), and non-Federal partners as determined appropriate to the subject matter.
 
@@ -886,13 +886,13 @@ The Council shall establish a Jobs Accelerator Working Group.
 
 **(III)** provide opportunities for rural jobs accelerators to share best practices and further collaborate with one another.
 
-(Pub. L. 115–334, title VI, § 6306, Dec. 20, 2018, 132 Stat. 4752.)
+(Pub. L. 115–334, title VI, § 6306, Dec. 20, 2018, 132 Stat. 4752.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Executive Order 13790, referred to in subsec. (b)(2), is Ex. Ord. No. 13790, § 6, Apr. 25, 2017, 82 F.R. 20239, which is not classified to the Code.
+Executive Order 13790, referred to in subsec. (b)(2), is Ex. Ord. No. 13790, § 6, Apr. 25, 2017, 82 F.R. 20239, which is not classified to the Code.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -900,13 +900,13 @@ Executive Order 13790, referred to in subsec. (b)(2), is Ex. Ord. No. 13790, §�
 
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of this title.
 
-## § 2204b–4. Institute for Rural Partnerships
+## § 2204b–4. Institute for Rural Partnerships
 
 For an additional amount for the Office of the Secretary, $30,000,000, to remain available until expended, to establish an Institute for Rural Partnerships: *Provided*, That the Secretary shall establish a grant program and distribute the funds to three geographically diverse established land-grant universities: *Provided further*, That the Institute for Rural Partnerships shall dedicate resources to researching the causes and conditions of challenges facing rural areas, and develop community partnerships to address such challenges: *Provided further*, That administrative or other fees shall not exceed one percent: *Provided further*, That such partnership shall coordinate and publish an annual report.
 
-(Pub. L. 117–103, div. A, title VII, § 778, Mar. 15, 2022, 136 Stat. 99.)
+(Pub. L. 117–103, div. A, title VII, § 778, Mar. 15, 2022, 136 Stat. 99.)
 
-## § 2204c. Water management for rural areas
+## § 2204c. Water management for rural areas
 
 **(a) In general** The Secretary of Agriculture is authorized, directly or in coordination with any other Federal agency, entity, corporation, department, unit of State or local government, cooperative, confederation, individual, public or private organization, Indian tribe, or university, to—
 
@@ -966,29 +966,29 @@ The Secretary is authorized to provide assistance under this section for the pro
 
 Nothing in this section shall authorize the waiver of a cost-share requirement under a program established under any other provision of law.
 
-(Pub. L. 100–387, title IV, § 401, Aug. 11, 1988, 102 Stat. 956.)
+(Pub. L. 100–387, title IV, § 401, Aug. 11, 1988, 102 Stat. 956.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of July 2, 1862, referred to in subsec. (e)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, referred to in subsec. (e)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (e)(2), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (e)(2), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-## § 2204d. Encouragement of private contracting
+## § 2204d. Encouragement of private contracting
 
 **(a) In general**
 
 For the purpose of promoting local job creation and private sector investment in rural communities, the Secretary of Agriculture is encouraged, where appropriate and feasible, to use private enterprise concerns located in rural areas, rather than government employees or government enterprises, to provide commercial activities or products to carry out the purposes of this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(b) Plan required**
 
 The Secretary shall develop and implement a plan that will result in increasing the use of contracts awarded to private firms by the Department of Agriculture, and maximizing the use of grant, loan, or other financial assistance made for the purpose of rural development to provide the goods and services purchased to carry out the purposes of this title.<sup>1</sup>
 
-(Pub. L. 101–624, title XXIII, § 2394, Nov. 28, 1990, 104 Stat. 4057.)
+(Pub. L. 101–624, title XXIII, § 2394, Nov. 28, 1990, 104 Stat. 4057.)
 
 **Editorial Notes**
 
@@ -996,7 +996,7 @@ The Secretary shall develop and implement a plan that will result in increasing 
 
 This title, referred to in text, is title XXIII of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3979, known as the Rural Economic Development Act of 1990. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1921 of this title and Tables.
 
-## § 2204e. Office of Risk Assessment and Cost-Benefit Analysis
+## § 2204e. Office of Risk Assessment and Cost-Benefit Analysis
 
 **(a) Office of Risk Assessment and Cost-Benefit Analysis**
 
@@ -1030,13 +1030,13 @@ This section shall not be construed to amend, modify, or alter any statute and s
 
 As used in this section, the term “major regulation” means any regulation that the Secretary of Agriculture estimates is likely to have an annual impact on the economy of the United States of $100,000,000 in 1994 dollars.
 
-(Pub. L. 103–354, title III, § 304, Oct. 13, 1994, 108 Stat. 3239.)
+(Pub. L. 103–354, title III, § 304, Oct. 13, 1994, 108 Stat. 3239.)
 
-## § 2204f. Repealed. Pub. L. 107–171, title VI, § 6403(a), May 13, 2002, 116 Stat. 429
+## § 2204f. Repealed. Pub. L. 107–171, title VI, § 6403(a), May 13, 2002, 116 Stat. 429
 
-Section, Pub. L. 104–127, title VII, § 793, Apr. 4, 1996, 110 Stat. 1152; Pub. L. 105–185, title II, § 252, June 23, 1998, 112 Stat. 557; Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(c)(1)], Oct. 21, 1998, 112 Stat. 2681, 2681–33, related to Fund for Rural America.
+Section, Pub. L. 104–127, title VII, § 793, Apr. 4, 1996, 110 Stat. 1152; Pub. L. 105–185, title II, § 252, June 23, 1998, 112 Stat. 557; Pub. L. 105–277, div. A, § 101(a) [title VII, § 753(c)(1)], Oct. 21, 1998, 112 Stat. 2681, 2681–33, related to Fund for Rural America.
 
-## § 2204g. Authority of Secretary of Agriculture to conduct census of agriculture
+## § 2204g. Authority of Secretary of Agriculture to conduct census of agriculture
 
 **(a) Census of agriculture required**
 
@@ -1102,7 +1102,7 @@ Information obtained under this subsection may not be used for any purpose other
 
 **(2)** the Secretary of Commerce, to the extent that a matter under the jurisdiction of the Secretary of Commerce is involved.
 
-(Pub. L. 105–113, § 2, Nov. 21, 1997, 111 Stat. 2274; Pub. L. 110–234, title X, § 10103, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, § 4(a), title X, § 10103, June 18, 2008, 122 Stat. 1664, 2097.)
+(Pub. L. 105–113, § 2, Nov. 21, 1997, 111 Stat. 2274; Pub. L. 110–234, title X, § 10103, May 22, 2008, 122 Stat. 1336; Pub. L. 110–246, § 4(a), title X, § 10103, June 18, 2008, 122 Stat. 1664, 2097.)
 
 **Editorial Notes**
 
@@ -1112,7 +1112,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 10103, designated existing provisions as par. (1), inserted heading, and added par. (2).
+2008—Subsec. (a). Pub. L. 110–246, § 10103, designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1120,7 +1120,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 2204h. Local food production and program evaluation
+## § 2204h. Local food production and program evaluation
 
 **(a) In general** The Secretary shall—
 
@@ -1182,7 +1182,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Not later than 1 year after February 7, 2014, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the progress that has been made in implementing this section and identifying any additional needs and barriers related to developing local and regional food systems.
 
-(Pub. L. 113–79, title X, § 10016, Feb. 7, 2014, 128 Stat. 952; Pub. L. 115–334, title X, § 10102(c)(3), Dec. 20, 2018, 132 Stat. 4898.)
+(Pub. L. 113–79, title X, § 10016, Feb. 7, 2014, 128 Stat. 952; Pub. L. 115–334, title X, § 10102(c)(3), Dec. 20, 2018, 132 Stat. 4898.)
 
 **Editorial Notes**
 
@@ -1196,7 +1196,7 @@ Not later than 1 year after February 7, 2014, and annually thereafter, the Secre
 
 “Secretary” as meaning the Secretary of Agriculture, see section 9001 of this title.
 
-## § 2204i. Reports on land access and farmland ownership data collection
+## § 2204i. Reports on land access and farmland ownership data collection
 
 **(a) Land access** Not later than 1 year after December 20, 2018, the Secretary of Agriculture, in consultation with the Chief Economist, shall submit to Congress and make publicly available a report identifying—
 
@@ -1238,15 +1238,15 @@ Not later than 1 year after February 7, 2014, and annually thereafter, the Secre
 
 **(c) Authorization of appropriations**
 
-There is authorized to be appropriated to carry out this section $3,000,000 for each fiscal 1
+There is authorized to be appropriated to carry out this section $3,000,000 for each fiscal 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “of”.
+<sup>1</sup> So in original. Probably should be preceded by “of”.
 
 years 2019 through 2023, to remain available until expended.
 
-(Pub. L. 115–334, title XII, § 12607, Dec. 20, 2018, 132 Stat. 5006.)
+(Pub. L. 115–334, title XII, § 12607, Dec. 20, 2018, 132 Stat. 5006.)
 
-## § 2204j. National agriculture imagery program
+## § 2204j. National agriculture imagery program
 
 **(a) In general**
 
@@ -1270,9 +1270,9 @@ The Secretary of Agriculture may supplement the aerial imagery collected under t
 
 There is authorized to be appropriated to carry out this section $23,000,000 for fiscal year 2019 and each fiscal year thereafter.
 
-(Pub. L. 115–334, title XII, § 12612, Dec. 20, 2018, 132 Stat. 5013.)
+(Pub. L. 115–334, title XII, § 12612, Dec. 20, 2018, 132 Stat. 5013.)
 
-## § 2205. Duties of former Commissioner of Agriculture transferred to Secretary
+## § 2205. Duties of former Commissioner of Agriculture transferred to Secretary
 
 The Secretary of Agriculture is authorized and directed to perform all the duties named in all Acts of Congress in force on February 8, 1889, to be performed by the Commissioner of Agriculture.
 
@@ -1282,27 +1282,27 @@ The Secretary of Agriculture is authorized and directed to perform all the dutie
 
 **Codification**
 
-Section was formerly classified to section 515 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 515 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2206. Custody of property and records
+## § 2206. Custody of property and records
 
 The Secretary of Agriculture shall have charge, in the building and premises appropriated to the department, of the library, furniture, fixtures, records, and other property appertaining to it, or acquired for use in its business.
 
-(R.S. § 525; Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659.)
+(R.S. § 525; Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 525 derived from act May 15, 1862, ch. 72, § 3, 12 Stat. 387 and Res. Dec. 15, 1868, No. 1, 15 Stat. 343.
+R.S. § 525 derived from act May 15, 1862, ch. 72, § 3, 12 Stat. 387 and Res. Dec. 15, 1868, No. 1, 15 Stat. 343.
 
-Section was formerly classified to section 516 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 516 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1314,9 +1314,9 @@ Section was formerly classified to section 516 of Title 5 prior to the general r
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2206a. Conveyance of excess Federal personal property
+## § 2206a. Conveyance of excess Federal personal property
 
 Notwithstanding any other provision of law, the Secretary of Agriculture may—
 
@@ -1330,13 +1330,13 @@ Notwithstanding any other provision of law, the Secretary of Agriculture may—
 
 **(2)** acquire from, exchange with, or dispose of personal property to other Federal departments and agencies without monetary compensation in furtherance of the purposes of this section.
 
-(Pub. L. 104–127, title IX, § 923, Apr. 4, 1996, 110 Stat. 1195; Pub. L. 110–234, title XIV, § 14223, May 22, 2008, 122 Stat. 1484; Pub. L. 110–246, § 4(a), title XIV, § 14223, June 18, 2008, 122 Stat. 1664, 2246.)
+(Pub. L. 104–127, title IX, § 923, Apr. 4, 1996, 110 Stat. 1195; Pub. L. 110–234, title XIV, § 14223, May 22, 2008, 122 Stat. 1484; Pub. L. 110–246, § 4(a), title XIV, § 14223, June 18, 2008, 122 Stat. 1664, 2246.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 30, 1890 (7 U.S.C. 321 et seq.), referred to in par. (1)(C), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890 (7 U.S.C. 321 et seq.), referred to in par. (1)(C), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Codification**
 
@@ -1344,7 +1344,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Par. (1)(B). Pub. L. 110–246, § 14223, substituted “section 1101a(a)(5) of title 20” for “section 1059c(b) of title 20”.
+2008—Par. (1)(B). Pub. L. 110–246, § 14223, substituted “section 1101a(a)(5) of title 20” for “section 1059c(b) of title 20”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1352,11 +1352,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-## § 2206b. Availability of excess and surplus computers in rural areas
+## § 2206b. Availability of excess and surplus computers in rural areas
 
 In addition to any other authority, the Secretary of Agriculture may make available to an organization excess or surplus computers or other technical equipment of the Department of Agriculture for the purposes of distribution to a city, town, or local government entity in a rural area (as defined in section 1991(a)(13)(A) of this title).
 
-(Pub. L. 110–234, title XIV, § 14220, May 22, 2008, 122 Stat. 1483; Pub. L. 110–246, § 4(a), title XIV, § 14220, June 18, 2008, 122 Stat. 1664, 2245.)
+(Pub. L. 110–234, title XIV, § 14220, May 22, 2008, 122 Stat. 1483; Pub. L. 110–246, § 4(a), title XIV, § 14220, June 18, 2008, 122 Stat. 1664, 2245.)
 
 **Editorial Notes**
 
@@ -1370,19 +1370,19 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 2207. Reports
+## § 2207. Reports
 
 The Secretary of Agriculture shall annually make a general report in writing of his acts to the President, in which he may recommend the publication of papers forming parts of or accompanying his report. He shall also make special reports on particular subjects whenever required to do so by the President or either House of Congress, or when he shall think the subject in his charge requires it.
 
-(R.S. §§ 528, 529; Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659; May 29, 1928, ch. 901, § 1(101), 45 Stat. 993; Aug. 30, 1954, ch. 1076, § 1(6), 68 Stat. 966.)
+(R.S. §§ 528, 529; Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659; May 29, 1928, ch. 901, § 1(101), 45 Stat. 993; Aug. 30, 1954, ch. 1076, § 1(6), 68 Stat. 966.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. §§ 528 and 529 derived from the following acts: May 15, 1862, ch. 72, § 3, 12 Stat. 387; Mar. 2, 1867, § 1, 14 Stat. 440, 445.
+R.S. §§ 528 and 529 derived from the following acts: May 15, 1862, ch. 72, § 3, 12 Stat. 387; Mar. 2, 1867, § 1, 14 Stat. 440, 445.
 
-Section was formerly classified to section 557 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 557 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -1404,9 +1404,9 @@ Pub. L. 103–111, title I, Oct. 21, 1993, 107 Stat. 1048, provided in part: “
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2207a. Reports to Congress on obligation and expenditure
+## § 2207a. Reports to Congress on obligation and expenditure
 
 **(a)** Not later than 20 days after the end of each fiscal year, the Secretary of Agriculture shall submit to Congress a report on the amounts obligated and expended by the Department during that fiscal year for the procurement of advisory and assistance services.
 
@@ -1418,15 +1418,15 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 **(3)** The justification for the award of each contract and the reason the work cannot be performed by civil servants.
 
-(Pub. L. 101–161, title VI, § 641, Nov. 21, 1989, 103 Stat. 986; Pub. L. 104–316, title I, § 104(b), Oct. 19, 1996, 110 Stat. 3829.)
+(Pub. L. 101–161, title VI, § 641, Nov. 21, 1989, 103 Stat. 986; Pub. L. 104–316, title I, § 104(b), Oct. 19, 1996, 110 Stat. 3829.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–316, in subsec. (a), struck out par. (1) designation before “Not later than”, struck out subpar. (A) designation before “submit to Congress”, struck out “, and (B) transmit a copy of such report to the Comptroller General of the United States” after “and assistance services”, redesignated par. (2) as subsec. (b) and in introductory provisions substituted “subsection (a) of this section shall” for “paragraph (1) shall”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former subsec. (b) which read as follows: “The Comptroller General of the United States shall review the reports submitted under subsection (a) of this section and transmit to Congress any comments and recommendations the Comptroller General considers appropriate regarding the matter contained in such reports.”
+1996—Pub. L. 104–316, in subsec. (a), struck out par. (1) designation before “Not later than”, struck out subpar. (A) designation before “submit to Congress”, struck out “, and (B) transmit a copy of such report to the Comptroller General of the United States” after “and assistance services”, redesignated par. (2) as subsec. (b) and in introductory provisions substituted “subsection (a) of this section shall” for “paragraph (1) shall”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former subsec. (b) which read as follows: “The Comptroller General of the United States shall review the reports submitted under subsection (a) of this section and transmit to Congress any comments and recommendations the Comptroller General considers appropriate regarding the matter contained in such reports.”
 
-## § 2207b. Program metrics
+## § 2207b. Program metrics
 
 **(a) In general** The Secretary shall collect data regarding economic activities created through grants and loans, including any technical assistance provided as a component of the grant or loan program, and measure the short- and long-term viability of award recipients and any entities to whom those recipients provide assistance using award funds, under—
 
@@ -1458,13 +1458,13 @@ Not later than 4 years after February 7, 2014, and every 2 years thereafter, the
 
 **(E)** such other information as the Secretary considers appropriate.
 
-(Pub. L. 113–79, title VI, § 6209, Feb. 7, 2014, 128 Stat. 861; Pub. L. 115–334, title X, § 10102(c)(4), Dec. 20, 2018, 132 Stat. 4898.)
+(Pub. L. 113–79, title VI, § 6209, Feb. 7, 2014, 128 Stat. 861; Pub. L. 115–334, title X, § 10102(c)(4), Dec. 20, 2018, 132 Stat. 4898.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(3), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitle E of the Act is classified generally to subchapter V (§ 2009 et seq.) of chapter 50 of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(3), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitle E of the Act is classified generally to subchapter V (§ 2009 et seq.) of chapter 50 of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 **Amendments**
 
@@ -1476,7 +1476,7 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(3), 
 
 “Secretary” as meaning the Secretary of Agriculture, see section 9001 of this title.
 
-## § 2207c. Annual report on work of agricultural experiment stations and of college extension work; publication and distribution
+## § 2207c. Annual report on work of agricultural experiment stations and of college extension work; publication and distribution
 
 There shall be prepared by the Department of Agriculture an annual report on the work and expenditures of the agricultural experiment stations established under the Act of Congress of March second, eighteen hundred and eighty-seven [7 U.S.C. 361a et seq.], on the work and expenditures of the Department of Agriculture in connection therewith, and on the cooperative agricultural extension work and expenditures of the Department of Agriculture and of agricultural colleges under the Act of May eighth, nineteen hundred and fourteen [7 U.S.C. 341 et seq.], and there shall be printed annually eight thousand copies of said report, of which one thousand copies shall be for the use of the Senate, two thousand copies for the use of the House of Representatives, and five thousand copies for the use of the Department of Agriculture.
 
@@ -1488,7 +1488,7 @@ There shall be prepared by the Department of Agriculture an annual report on the
 
 The Act of Congress of March second, eighteen hundred and eighty-seven, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, known as the Hatch Act, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-The Act of May eighth, nineteen hundred and fourteen, referred to in text, is act May 8, 1914, ch. 79, 38 Stat. 372, known as the “Smith-Lever Act”, and also known as the “Agricultural Work Extension Act”, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
+The Act of May eighth, nineteen hundred and fourteen, referred to in text, is act May 8, 1914, ch. 79, 38 Stat. 372, known as the “Smith-Lever Act”, and also known as the “Agricultural Work Extension Act”, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
 **Codification**
 
@@ -1498,9 +1498,9 @@ Section was formerly classified to section 418 of this title prior to editorial 
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2207d. Reports on disbursement of funds for agricultural research and extension at 1862 and 1890 land-grant colleges, including Tuskegee University
+## § 2207d. Reports on disbursement of funds for agricultural research and extension at 1862 and 1890 land-grant colleges, including Tuskegee University
 
 Not later than September 30, 2019, and each year thereafter, the Secretary shall annually submit to Congress a report describing the allocations made to, and matching funds received by, 1890 Institutions and 1862 Institutions (as those terms are defined in section 7601 of this title) for each of the agricultural research, extension, education, and related programs established under—
 
@@ -1512,7 +1512,7 @@ Not later than September 30, 2019, and each year thereafter, the Secretary shall
 
 **(4)** the Hatch Act of 1887 (7 U.S.C. 361a et seq.).
 
-(Pub. L. 115–334, title VII, § 7116, Dec. 20, 2018, 132 Stat. 4789.)
+(Pub. L. 115–334, title VII, § 7116, Dec. 20, 2018, 132 Stat. 4789.)
 
 **Editorial Notes**
 
@@ -1526,19 +1526,19 @@ The Hatch Act of 1887, referred to in par. (4), is act Mar. 2, 1887, ch. 314, 24
 
 “Secretary” as meaning the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of this title.
 
-## § 2208. Expenditure of appropriations; accounting
+## § 2208. Expenditure of appropriations; accounting
 
 The Secretary of Agriculture shall direct and superintend the expenditure of all money appropriated to the Department and render accounts thereof.
 
-(R.S. § 3677; Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659.)
+(R.S. § 3677; Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 3677 derived act May 15, 1882, ch. 72, § 3, 12 Stat. 388.
+R.S. § 3677 derived act May 15, 1882, ch. 72, § 3, 12 Stat. 388.
 
-Section was formerly classified to section 557a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 557a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1548,7 +1548,7 @@ Section was formerly classified to section 557a of Title 5 prior to the general 
 
 **Buy American Requirements**
 
-Pub. L. 110–234, title IV, § 4306, May 22, 2008, 122 Stat. 1131, and Pub. L. 110–246, § 4(a), title IV, § 4306, June 18, 2008, 122 Stat. 1664, 1893, provided that:
+Pub. L. 110–234, title IV, § 4306, May 22, 2008, 122 Stat. 1131, and Pub. L. 110–246, § 4(a), title IV, § 4306, June 18, 2008, 122 Stat. 1664, 1893, provided that:
 
 > **“(a) Findings.—** The Congress finds the following:
 
@@ -1564,7 +1564,7 @@ Pub. L. 110–234, title IV, § 4306, May 22, 2008, 122 Stat. 1131, and Pub. L
 
 **Compliance With Buy American Act**
 
-Pub. L. 105–86, title VII, § 716, Nov. 18, 1997, 111 Stat. 2106, provided that:
+Pub. L. 105–86, title VII, § 716, Nov. 18, 1997, 111 Stat. 2106, provided that:
 
 > “Hereafter: (a) Compliance With Buy American Act.—None of the funds made available in this Act [see Tables for classification] may be expended by an entity unless the entity agrees that in expending the funds the entity will comply with sections 2 through 4 of the Act of March 3, 1933 ([former] 41 U.S.C. 10a–10c [see chapter 83 of Title 41, Public Contracts]; popularly known as the ‘Buy American Act’).
 
@@ -1578,25 +1578,25 @@ Pub. L. 105–86, title VII, § 716, Nov. 18, 1997, 111 Stat. 2106, provided t
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 104–180, title VII, § 716, Aug. 6, 1996, 110 Stat. 1598.
+Pub. L. 104–180, title VII, § 716, Aug. 6, 1996, 110 Stat. 1598.
 
-Pub. L. 104–37, title VII, § 716, Oct. 21, 1995, 109 Stat. 330.
+Pub. L. 104–37, title VII, § 716, Oct. 21, 1995, 109 Stat. 330.
 
-Pub. L. 103–330, title VII, § 719, Sept. 30, 1994, 108 Stat. 2468.
+Pub. L. 103–330, title VII, § 719, Sept. 30, 1994, 108 Stat. 2468.
 
-Pub. L. 103–111, title VII, § 727, Oct. 21, 1993, 107 Stat. 1080.
+Pub. L. 103–111, title VII, § 727, Oct. 21, 1993, 107 Stat. 1080.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2208a. Loan levels provided to Department of Agriculture
+## § 2208a. Loan levels provided to Department of Agriculture
 
 On and after November 10, 2005, loan levels provided in this or any other Appropriations Act to the Department of Agriculture shall be considered estimates, not limitations.
 
-(Pub. L. 109–97, title VII, § 710, Nov. 10, 2005, 119 Stat. 2150.)
+(Pub. L. 109–97, title VII, § 710, Nov. 10, 2005, 119 Stat. 2150.)
 
 **Editorial Notes**
 
@@ -1604,41 +1604,41 @@ On and after November 10, 2005, loan levels provided in this or any other Approp
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 108–447, div. A, title VII, § 711, Dec. 8, 2004, 118 Stat. 2839.
+Pub. L. 108–447, div. A, title VII, § 711, Dec. 8, 2004, 118 Stat. 2839.
 
-Pub. L. 108–199, div. A, title VII, § 711, Jan. 23, 2004, 118 Stat. 32.
+Pub. L. 108–199, div. A, title VII, § 711, Jan. 23, 2004, 118 Stat. 32.
 
-Pub. L. 108–7, div. A, title VII, § 711, Feb. 20, 2003, 117 Stat. 39.
+Pub. L. 108–7, div. A, title VII, § 711, Feb. 20, 2003, 117 Stat. 39.
 
-Pub. L. 107—76, title VII, § 711, Nov. 28, 2001, 115 Stat. 733.
+Pub. L. 107—76, title VII, § 711, Nov. 28, 2001, 115 Stat. 733.
 
-Pub. L. 106—387, § 1(a) [title VII, § 711], Oct. 28, 2000, 114 Stat. 1549, 1549A–29.
+Pub. L. 106—387, § 1(a) [title VII, § 711], Oct. 28, 2000, 114 Stat. 1549, 1549A–29.
 
-Pub. L. 106–78, title VII, § 712, Oct. 22, 1999, 113 Stat. 1162.
+Pub. L. 106–78, title VII, § 712, Oct. 22, 1999, 113 Stat. 1162.
 
-Pub. L. 105–277, div. A, § 101(a) [title VII, § 712], Oct. 21, 1998, 112 Stat. 2681–26.
+Pub. L. 105–277, div. A, § 101(a) [title VII, § 712], Oct. 21, 1998, 112 Stat. 2681–26.
 
-Pub. L. 105–86, title VII, § 713, Nov. 18, 1997, 111 Stat. 2106.
+Pub. L. 105–86, title VII, § 713, Nov. 18, 1997, 111 Stat. 2106.
 
-Pub. L. 104–180, title VII, § 713, Aug. 6, 1996, 110 Stat. 1598.
+Pub. L. 104–180, title VII, § 713, Aug. 6, 1996, 110 Stat. 1598.
 
-Pub. L. 104–37, title VII, § 713, Oct. 21, 1995, 109 Stat. 330.
+Pub. L. 104–37, title VII, § 713, Oct. 21, 1995, 109 Stat. 330.
 
-Pub. L. 103–330, title VII, § 713, Sept. 30, 1994, 108 Stat. 2468.
+Pub. L. 103–330, title VII, § 713, Sept. 30, 1994, 108 Stat. 2468.
 
-Pub. L. 103–111, title VII, § 721, Oct. 21, 1993, 107 Stat. 1080.
+Pub. L. 103–111, title VII, § 721, Oct. 21, 1993, 107 Stat. 1080.
 
-## § 2209. Additional statement of expenditures
+## § 2209. Additional statement of expenditures
 
 The Secretary of Agriculture shall furnish proper vouchers and accounts for the sums appropriated for the Department of Agriculture to the Government Accountability Office.
 
-(Mar. 3, 1885, ch. 338, § 2, 23 Stat. 356; Aug. 11, 1916, ch. 313, 39 Stat. 492; June 10, 1921, ch. 18 § 301, 42 Stat. 23; May 29, 1928, ch. 901, § 1(88), 45 Stat. 992; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Mar. 3, 1885, ch. 338, § 2, 23 Stat. 356; Aug. 11, 1916, ch. 313, 39 Stat. 492; June 10, 1921, ch. 18 § 301, 42 Stat. 23; May 29, 1928, ch. 901, § 1(88), 45 Stat. 992; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 558 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 558 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -1652,19 +1652,19 @@ Section was formerly classified to section 558 of Title 5 prior to the general r
 
 “Government Accountability Office” substituted in text for “General Accounting Office” pursuant to section 8(b) of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance, which redesignated the General Accounting Office and any references thereto as the Government Accountability Office. Previously, “General Accounting Office” substituted in text for “accounting officers of the Treasury” pursuant to act June 10, 1921, which transferred powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31.
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2209a. Advances to chiefs of field parties
+## § 2209a. Advances to chiefs of field parties
 
 On and after October 28, 1991, advances of money to chiefs of field parties from any appropriation for the Department of Agriculture may be made by authority of the Secretary of Agriculture.
 
-(Pub. L. 102–142, title VII, § 706, Oct. 28, 1991, 105 Stat. 911.)
+(Pub. L. 102–142, title VII, § 706, Oct. 28, 1991, 105 Stat. 911.)
 
-## § 2209b. Availability of appropriations
+## § 2209b. Availability of appropriations
 
 New obligational authority provided for the following appropriation items in this Act shall remain available until expended: Public Law 480 [7 U.S.C. 1691 et seq.]; Mutual and Self-Help Housing; Watershed and Flood Prevention Operations; Resource Conservation and Development; Colorado River Basin Salinity Control Program; Animal and Plant Health Inspection Service, the contingency fund to meet emergency conditions, Integrated Systems Acquisition Project, the reserve fund for the Grasshopper and Mormon Cricket Control Programs, and buildings and facilities; Agricultural Stabilization and Conservation Service, salaries and expenses funds made available to county committees; the Federal Crop Insurance Corporation Fund; Agricultural Research Service, buildings and facilities; Cooperative State Research Service, buildings and facilities; Office of International Cooperation and Development, Middle-Income Country Training Program; Dairy Indemnity Program; higher education graduate fellowships grants under section 3152(b)(6) of this title; capacity building grants to colleges eligible to receive funds under the Act of August 30, 1890 [7 U.S.C. 321 et seq.], including Tuskegee University; and buildings and facilities, Food and Drug Administration: *Provided*, That, on and after October 28, 1991, such appropriations are authorized to remain available until expended.
 
-(Pub. L. 102–142, title VII, § 708, Oct. 28, 1991, 105 Stat. 911.)
+(Pub. L. 102–142, title VII, § 708, Oct. 28, 1991, 105 Stat. 911.)
 
 **Editorial Notes**
 
@@ -1672,9 +1672,9 @@ New obligational authority provided for the following appropriation items in thi
 
 This Act, referred to in text, is Pub. L. 102–142, Oct. 28, 1991, 105 Stat. 878, known as the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
 
-Public Law 480, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, known as the Food for Peace Act, which is classified generally to chapter 41 (§ 1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+Public Law 480, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, known as the Food for Peace Act, which is classified generally to chapter 41 (§ 1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
-Act of August 30, 1890, referred to in text, is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in text, is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1682,85 +1682,85 @@ Act of August 30, 1890, referred to in text, is act Aug. 30, 1890, ch. 841, 26 S
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
-Pub. L. 111–8, div. A, title VII, § 702, Mar. 11, 2009, 123 Stat. 553.
+Pub. L. 111–8, div. A, title VII, § 702, Mar. 11, 2009, 123 Stat. 553.
 
-Pub. L. 110–161, div. A, title VII, § 702, Dec. 26, 2007, 121 Stat. 1874.
+Pub. L. 110–161, div. A, title VII, § 702, Dec. 26, 2007, 121 Stat. 1874.
 
-Pub. L. 109–289, div. B, title II, § 20113, as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 15.
+Pub. L. 109–289, div. B, title II, § 20113, as added Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 15.
 
-Pub. L. 109–97, title VII, § 704, Nov. 10, 2005, 119 Stat. 2149.
+Pub. L. 109–97, title VII, § 704, Nov. 10, 2005, 119 Stat. 2149.
 
-Pub. L. 108–447, div. A, title VII, § 704, Dec. 8, 2004, 118 Stat. 2838.
+Pub. L. 108–447, div. A, title VII, § 704, Dec. 8, 2004, 118 Stat. 2838.
 
-Pub. L. 108–199, div. A, title VII, § 705, Jan. 23, 2004, 118 Stat. 31.
+Pub. L. 108–199, div. A, title VII, § 705, Jan. 23, 2004, 118 Stat. 31.
 
-Pub. L. 108–7, div. A, title VII, § 705, Feb. 20, 2003, 117 Stat. 38.
+Pub. L. 108–7, div. A, title VII, § 705, Feb. 20, 2003, 117 Stat. 38.
 
-Pub. L. 107–76, title VII, § 705, Nov. 28, 2001, 115 Stat. 732.
+Pub. L. 107–76, title VII, § 705, Nov. 28, 2001, 115 Stat. 732.
 
-Pub. L. 106–387, § 1(a) [title VII, § 705], Oct. 28, 2000, 114 Stat. 1549, 1549A–28.
+Pub. L. 106–387, § 1(a) [title VII, § 705], Oct. 28, 2000, 114 Stat. 1549, 1549A–28.
 
-Pub. L. 106–78, title VII, § 705, Oct. 22, 1999, 113 Stat. 1161.
+Pub. L. 106–78, title VII, § 705, Oct. 22, 1999, 113 Stat. 1161.
 
-Pub. L. 105–277, div. A, § 101(a) [title VII, § 705], Oct. 21, 1998, 112 Stat. 2681, 2681–25.
+Pub. L. 105–277, div. A, § 101(a) [title VII, § 705], Oct. 21, 1998, 112 Stat. 2681, 2681–25.
 
-Pub. L. 105–86, title VII, § 705, Nov. 18, 1997, 111 Stat. 2104.
+Pub. L. 105–86, title VII, § 705, Nov. 18, 1997, 111 Stat. 2104.
 
-Pub. L. 104–180, title VII, § 705, Aug. 6, 1996, 110 Stat. 1596.
+Pub. L. 104–180, title VII, § 705, Aug. 6, 1996, 110 Stat. 1596.
 
-Pub. L. 104–37, title VII, § 705, Oct. 21, 1995, 109 Stat. 329.
+Pub. L. 104–37, title VII, § 705, Oct. 21, 1995, 109 Stat. 329.
 
-Pub. L. 103–330, title VII, § 705, Sept. 30, 1994, 108 Stat. 2466.
+Pub. L. 103–330, title VII, § 705, Sept. 30, 1994, 108 Stat. 2466.
 
-Pub. L. 103–111, title VII, § 706, Oct. 21, 1993, 107 Stat. 1078.
+Pub. L. 103–111, title VII, § 706, Oct. 21, 1993, 107 Stat. 1078.
 
-Pub. L. 102–341, title VII, § 706, Aug. 14, 1992, 106 Stat. 907.
+Pub. L. 102–341, title VII, § 706, Aug. 14, 1992, 106 Stat. 907.
 
-Pub. L. 101–506, title VI, § 608, Nov. 5, 1990, 104 Stat. 1346.
+Pub. L. 101–506, title VI, § 608, Nov. 5, 1990, 104 Stat. 1346.
 
-Pub. L. 101–161, title VI, § 608, Nov. 21, 1989, 103 Stat. 982.
+Pub. L. 101–161, title VI, § 608, Nov. 21, 1989, 103 Stat. 982.
 
-Pub. L. 100–460, title VI, § 608, Oct. 1, 1988, 102 Stat. 2260.
+Pub. L. 100–460, title VI, § 608, Oct. 1, 1988, 102 Stat. 2260.
 
-Pub. L. 100–202, § 101(k) [title VI, § 608], Dec. 22, 1987, 101 Stat. 1329–322, 1329–354.
+Pub. L. 100–202, § 101(k) [title VI, § 608], Dec. 22, 1987, 101 Stat. 1329–322, 1329–354.
 
-Pub. L. 99–500, § 101(a) [title VI, § 608], Oct. 18, 1986, 100 Stat. 1783, 1783–27, and Pub. L. 99–591, § 101(a) [title VI, § 608], Oct. 30, 1986, 100 Stat. 3341, 3341–27.
+Pub. L. 99–500, § 101(a) [title VI, § 608], Oct. 18, 1986, 100 Stat. 1783, 1783–27, and Pub. L. 99–591, § 101(a) [title VI, § 608], Oct. 30, 1986, 100 Stat. 3341, 3341–27.
 
-Pub. L. 99–190, § 101(a) [H.R. 3037, title VI, § 608], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
+Pub. L. 99–190, § 101(a) [H.R. 3037, title VI, § 608], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
 
-Pub. L. 97–370, title VI, § 608, Dec. 18, 1982, 96 Stat. 1810.
+Pub. L. 97–370, title VI, § 608, Dec. 18, 1982, 96 Stat. 1810.
 
-Pub. L. 97–103, title VI, § 608, Dec. 23, 1981, 95 Stat. 1488.
+Pub. L. 97–103, title VI, § 608, Dec. 23, 1981, 95 Stat. 1488.
 
-Pub. L. 96–528, title VI, § 608, Dec. 15, 1980, 94 Stat. 3116.
+Pub. L. 96–528, title VI, § 608, Dec. 15, 1980, 94 Stat. 3116.
 
-Pub. L. 96–108, title VI, § 607, Nov. 9, 1979, 93 Stat. 841.
+Pub. L. 96–108, title VI, § 607, Nov. 9, 1979, 93 Stat. 841.
 
-Pub. L. 95–448, title VI, § 607, Oct. 11, 1978, 92 Stat. 1092.
+Pub. L. 95–448, title VI, § 607, Oct. 11, 1978, 92 Stat. 1092.
 
-Pub. L. 95–97, title VI, § 608, Aug. 12, 1977, 91 Stat. 828.
+Pub. L. 95–97, title VI, § 608, Aug. 12, 1977, 91 Stat. 828.
 
-Pub. L. 94–351, title VI, § 608, July 12, 1976, 90 Stat. 868.
+Pub. L. 94–351, title VI, § 608, July 12, 1976, 90 Stat. 868.
 
-Pub. L. 94–122, title VI, § 611, Oct. 21, 1975, 89 Stat. 667.
+Pub. L. 94–122, title VI, § 611, Oct. 21, 1975, 89 Stat. 667.
 
-## § 2209c. Use of funds for one-year contracts to be performed in two fiscal years
+## § 2209c. Use of funds for one-year contracts to be performed in two fiscal years
 
 On and after October 28, 1991, funds appropriated to the Department of Agriculture and the Food and Drug Administration may be used for one-year contracts which are to be performed in two fiscal years so long as the total amount for such contracts is obligated in the year for which the funds are appropriated.
 
-(Pub. L. 102–142, title VII, § 725, Oct. 28, 1991, 105 Stat. 913.)
+(Pub. L. 102–142, title VII, § 725, Oct. 28, 1991, 105 Stat. 913.)
 
-## § 2209d. Statement of percentage and dollar amount of Federal funding
+## § 2209d. Statement of percentage and dollar amount of Federal funding
 
 On and after October 28, 1991, the Department of Agriculture, when issuing statements, press releases, requests for proposals, bid solicitations, and other documents describing projects or programs funded in whole or in part with Federal money, all grantees receiving Federal funds, including but not limited to State and local governments, shall clearly state (1) the percentage of the total cost of the program or project which will be financed with Federal money, and (2) the dollar amount of Federal funds for the project or program.
 
-(Pub. L. 102–142, title VII, § 733, Oct. 28, 1991, 105 Stat. 914.)
+(Pub. L. 102–142, title VII, § 733, Oct. 28, 1991, 105 Stat. 914.)
 
-## § 2209e. Prohibition on payments to parties involved with prohibited drug-producing plants
+## § 2209e. Prohibition on payments to parties involved with prohibited drug-producing plants
 
 On and after October 21, 1993, none of the funds available to the Department of Agriculture may be used to make production or other payments to a person, persons, or corporations upon a final finding by court of competent jurisdiction that such party is guilty of growing, cultivating, harvesting, processing or storing marijuana, or other such prohibited drug-producing plants on any part of lands owned or controlled by such persons or corporations.
 
-(Pub. L. 103–111, title VII, § 704, Oct. 21, 1993, 107 Stat. 1078.)
+(Pub. L. 103–111, title VII, § 704, Oct. 21, 1993, 107 Stat. 1078.)
 
 **Editorial Notes**
 
@@ -1768,29 +1768,29 @@ On and after October 21, 1993, none of the funds available to the Department of 
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 102–341, title VII, § 704, Aug. 14, 1992, 106 Stat. 907.
+Pub. L. 102–341, title VII, § 704, Aug. 14, 1992, 106 Stat. 907.
 
-Pub. L. 102–142, title VII, § 705, Oct. 28, 1991, 105 Stat. 911.
+Pub. L. 102–142, title VII, § 705, Oct. 28, 1991, 105 Stat. 911.
 
-Pub. L. 101–506, title VI, § 605, Nov. 5, 1990, 104 Stat. 1346.
+Pub. L. 101–506, title VI, § 605, Nov. 5, 1990, 104 Stat. 1346.
 
-Pub. L. 101–161, title VI, § 605, Nov. 21, 1989, 103 Stat. 982.
+Pub. L. 101–161, title VI, § 605, Nov. 21, 1989, 103 Stat. 982.
 
-Pub. L. 100–460, title VI, § 605, Oct. 1, 1988, 102 Stat. 2259.
+Pub. L. 100–460, title VI, § 605, Oct. 1, 1988, 102 Stat. 2259.
 
-Pub. L. 100–202, § 101(k) [title VI, § 605], Dec. 22, 1987, 101 Stat. 1329–322, 1329–353.
+Pub. L. 100–202, § 101(k) [title VI, § 605], Dec. 22, 1987, 101 Stat. 1329–322, 1329–353.
 
-## § 2209f. Restriction on commodity purchase program payments
+## § 2209f. Restriction on commodity purchase program payments
 
 On and after October 28, 2000, none of the funds made available to the Department of Agriculture shall be used to carry out any commodity purchase program that would prohibit eligibility or participation by farmer-owned cooperatives.
 
-(Pub. L. 106–387, § 1(a) [title VII, § 725], Oct. 28, 2000, 114 Stat. 1549, 1549A–32.)
+(Pub. L. 106–387, § 1(a) [title VII, § 725], Oct. 28, 2000, 114 Stat. 1549, 1549A–32.)
 
-## § 2209g. Availability of funds for uniforms or allowances
+## § 2209g. Availability of funds for uniforms or allowances
 
 On and after November 10, 2005, funds appropriated by this or any other Appropriations Act to the Department of Agriculture (excluding the Forest Service) shall be available for uniforms or allowances as authorized by law (5 U.S.C. 5901–5902).
 
-(Pub. L. 109–97, title VII, § 702, Nov. 10, 2005, 119 Stat. 2149.)
+(Pub. L. 109–97, title VII, § 702, Nov. 10, 2005, 119 Stat. 2149.)
 
 **Editorial Notes**
 
@@ -1798,97 +1798,97 @@ On and after November 10, 2005, funds appropriated by this or any other Appropri
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 108–447, div. A, title VII, § 702, Dec. 8, 2004, 118 Stat. 2838.
+Pub. L. 108–447, div. A, title VII, § 702, Dec. 8, 2004, 118 Stat. 2838.
 
-Pub. L. 108–199, div. A, title VII, § 702, Jan. 23, 2004, 118 Stat. 31.
+Pub. L. 108–199, div. A, title VII, § 702, Jan. 23, 2004, 118 Stat. 31.
 
-Pub. L. 108–7, div. A, title VII, § 702, Feb. 20, 2003, 117 Stat. 38.
+Pub. L. 108–7, div. A, title VII, § 702, Feb. 20, 2003, 117 Stat. 38.
 
-Pub. L. 107–76, title VII, § 702, Nov. 28, 2001, 115 Stat. 731.
+Pub. L. 107–76, title VII, § 702, Nov. 28, 2001, 115 Stat. 731.
 
-Pub. L. 106–387, § 1(a) [title VII, § 702], Oct. 28, 2000, 114 Stat. 1549, 1549A–28.
+Pub. L. 106–387, § 1(a) [title VII, § 702], Oct. 28, 2000, 114 Stat. 1549, 1549A–28.
 
-Pub. L. 106–78, title VII, § 702, Nov. 28, 2001, 113 Stat. 1160.
+Pub. L. 106–78, title VII, § 702, Nov. 28, 2001, 113 Stat. 1160.
 
-Pub. L. 105–277, div. A, § 101(a) [title VII, § 702], Oct. 21, 1998, 112 Stat. 2681–25.
+Pub. L. 105–277, div. A, § 101(a) [title VII, § 702], Oct. 21, 1998, 112 Stat. 2681–25.
 
-Pub. L. 105–86, title VII, § 702, Nov. 18, 1997, 111 Stat. 2104.
+Pub. L. 105–86, title VII, § 702, Nov. 18, 1997, 111 Stat. 2104.
 
-Pub. L. 104–180, title VII, § 702, Aug. 6, 1996, 110 Stat. 1596.
+Pub. L. 104–180, title VII, § 702, Aug. 6, 1996, 110 Stat. 1596.
 
-Pub. L. 104–37, title VII, § 702, Oct. 21, 1995, 109 Stat. 329.
+Pub. L. 104–37, title VII, § 702, Oct. 21, 1995, 109 Stat. 329.
 
-Pub. L. 103–330, title VII, § 702, Sept. 30, 1994, 108 Stat. 2466.
+Pub. L. 103–330, title VII, § 702, Sept. 30, 1994, 108 Stat. 2466.
 
-Pub. L. 103–111, title VII, § 702, Oct. 21, 1993, 107 Stat. 1078.
+Pub. L. 103–111, title VII, § 702, Oct. 21, 1993, 107 Stat. 1078.
 
-Pub. L. 102–341, title VII, § 702, Aug. 14, 1992, 106 Stat. 906.
+Pub. L. 102–341, title VII, § 702, Aug. 14, 1992, 106 Stat. 906.
 
-Pub. L. 102–142, title VII, § 703, Oct. 28, 1991, 105 Stat. 911.
+Pub. L. 102–142, title VII, § 703, Oct. 28, 1991, 105 Stat. 911.
 
-Pub. L. 101–506, title VI, § 603, Nov. 5, 1990, 104 Stat. 1346.
+Pub. L. 101–506, title VI, § 603, Nov. 5, 1990, 104 Stat. 1346.
 
-Pub. L. 101–161, title VI, § 603, Nov. 21, 1989, 103 Stat. 982.
+Pub. L. 101–161, title VI, § 603, Nov. 21, 1989, 103 Stat. 982.
 
-Pub. L. 100–460, title VI, § 603, Oct. 1, 1988, 102 Stat. 2259.
+Pub. L. 100–460, title VI, § 603, Oct. 1, 1988, 102 Stat. 2259.
 
-Pub. L. 100–202, § 101(k) [title VI, § 603], Dec. 22, 1987, 101 Stat. 1329, 1329–353.
+Pub. L. 100–202, § 101(k) [title VI, § 603], Dec. 22, 1987, 101 Stat. 1329, 1329–353.
 
-Pub. L. 99–500, § 101(a) [title VI, § 603], Oct. 18, 1986, 100 Stat. 1783, 1783–27, and Pub. L. 99–591, § 101(a) [title VI, § 603], Oct. 30, 1986, 100 Stat. 3341, 3341–27.
+Pub. L. 99–500, § 101(a) [title VI, § 603], Oct. 18, 1986, 100 Stat. 1783, 1783–27, and Pub. L. 99–591, § 101(a) [title VI, § 603], Oct. 30, 1986, 100 Stat. 3341, 3341–27.
 
-Pub. L. 97–370, title VI, § 603, Dec. 18, 1982, 96 Stat. 1810.
+Pub. L. 97–370, title VI, § 603, Dec. 18, 1982, 96 Stat. 1810.
 
-Pub. L. 97–103, title VI, § 603, Dec. 23, 1981, 95 Stat. 1487.
+Pub. L. 97–103, title VI, § 603, Dec. 23, 1981, 95 Stat. 1487.
 
-Pub. L. 96–108, title VI, § 602, Nov. 9, 1979, 93 Stat. 840.
+Pub. L. 96–108, title VI, § 602, Nov. 9, 1979, 93 Stat. 840.
 
-Pub. L. 95–448, title VI, § 602, Oct. 11, 1978, 92 Stat. 1092.
+Pub. L. 95–448, title VI, § 602, Oct. 11, 1978, 92 Stat. 1092.
 
-Pub. L. 94–351, title VI, § 602, July 12, 1976, 90 Stat. 868.
+Pub. L. 94–351, title VI, § 602, July 12, 1976, 90 Stat. 868.
 
-Pub. L. 94–122, title VI, § 602, Oct. 21, 1975, 89 Stat. 666.
+Pub. L. 94–122, title VI, § 602, Oct. 21, 1975, 89 Stat. 666.
 
-Pub. L. 93–563, title V, § 502, Dec. 31, 1974, 88 Stat. 1842.
+Pub. L. 93–563, title V, § 502, Dec. 31, 1974, 88 Stat. 1842.
 
-Pub. L. 93–135, title V, § 503, Oct. 24, 1973, 87 Stat. 489.
+Pub. L. 93–135, title V, § 503, Oct. 24, 1973, 87 Stat. 489.
 
-Pub. L. 92–399, title V, § 503, Aug. 22, 1972, 86 Stat. 611.
+Pub. L. 92–399, title V, § 503, Aug. 22, 1972, 86 Stat. 611.
 
-Pub. L. 92–73, title V, § 503, Aug. 10, 1971, 85 Stat. 201.
+Pub. L. 92–73, title V, § 503, Aug. 10, 1971, 85 Stat. 201.
 
-Pub. L. 91–566, title V, § 503, Dec. 22, 1970, 84 Stat. 1496.
+Pub. L. 91–566, title V, § 503, Dec. 22, 1970, 84 Stat. 1496.
 
-Pub. L. 91–127, title V, § 503, Nov. 26, 1969, 83 Stat. 260.
+Pub. L. 91–127, title V, § 503, Nov. 26, 1969, 83 Stat. 260.
 
-Pub. L. 90–463, title V, § 503, Aug. 8, 1968, 82 Stat. 653.
+Pub. L. 90–463, title V, § 503, Aug. 8, 1968, 82 Stat. 653.
 
-Pub. L. 90–113, title V, § 503, Oct. 24, 1967, 81 Stat. 334.
+Pub. L. 90–113, title V, § 503, Oct. 24, 1967, 81 Stat. 334.
 
-Pub. L. 89–556, title V, § 503, Sept. 7, 1966, 80 Stat. 703.
+Pub. L. 89–556, title V, § 503, Sept. 7, 1966, 80 Stat. 703.
 
-Pub. L. 89–316, title V, § 503, Nov. 2, 1965, 79 Stat. 1179.
+Pub. L. 89–316, title V, § 503, Nov. 2, 1965, 79 Stat. 1179.
 
-Pub. L. 88–574, title V, § 503, Sept. 2, 1964, 78 Stat. 876.
+Pub. L. 88–574, title V, § 503, Sept. 2, 1964, 78 Stat. 876.
 
-Pub. L. 88–250, title VI, § 603, Dec. 30, 1963, 77 Stat. 833.
+Pub. L. 88–250, title VI, § 603, Dec. 30, 1963, 77 Stat. 833.
 
-Pub. L. 87–879, title VI, § 603, Oct. 24, 1962, 76 Stat. 1215.
+Pub. L. 87–879, title VI, § 603, Oct. 24, 1962, 76 Stat. 1215.
 
-Pub. L. 87–112, title V, § 503, July 26, 1961, 75 Stat. 240.
+Pub. L. 87–112, title V, § 503, July 26, 1961, 75 Stat. 240.
 
-Pub. L. 86–532, title IV, § 403, June 29, 1960, 74 Stat. 244.
+Pub. L. 86–532, title IV, § 403, June 29, 1960, 74 Stat. 244.
 
-Pub. L. 86–80, title IV, § 403, July 8, 1959, 73 Stat. 179.
+Pub. L. 86–80, title IV, § 403, July 8, 1959, 73 Stat. 179.
 
-Pub. L. 85–459, title IV, § 403, June 13, 1958, 72 Stat. 199.
+Pub. L. 85–459, title IV, § 403, June 13, 1958, 72 Stat. 199.
 
-Pub. L. 85–119, title V, § 503, Aug. 2, 1957, 71 Stat. 340.
+Pub. L. 85–119, title V, § 503, Aug. 2, 1957, 71 Stat. 340.
 
-## § 2209h. Reimbursement of Office of the General Counsel
+## § 2209h. Reimbursement of Office of the General Counsel
 
 On and after November 10, 2005, agencies and offices of the Department of Agriculture may utilize any unobligated salaries and expenses funds to reimburse the Office of the General Counsel for salaries and expenses of personnel, and for other related expenses, incurred in representing such agencies and offices in the resolution of complaints by employees or applicants for employment, and in cases and other matters pending before the Equal Employment Opportunity Commission, the Federal Labor Relations Authority, or the Merit Systems Protection Board with the prior approval of the Committees on Appropriations of both Houses of Congress.
 
-(Pub. L. 109–97, title VII, § 732, Nov. 10, 2005, 119 Stat. 2154.)
+(Pub. L. 109–97, title VII, § 732, Nov. 10, 2005, 119 Stat. 2154.)
 
 **Editorial Notes**
 
@@ -1896,17 +1896,17 @@ On and after November 10, 2005, agencies and offices of the Department of Agricu
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 108–447, div. A, title VII, § 736, Dec. 8, 2004, 118 Stat. 2844.
+Pub. L. 108–447, div. A, title VII, § 736, Dec. 8, 2004, 118 Stat. 2844.
 
-Pub. L. 108–199, div. A, title VII, § 732, Jan. 23, 2004, 118 Stat. 35.
+Pub. L. 108–199, div. A, title VII, § 732, Jan. 23, 2004, 118 Stat. 35.
 
-Pub. L. 108–7, div. A, title VII, § 739, Feb. 20, 2003, 117 Stat. 43.
+Pub. L. 108–7, div. A, title VII, § 739, Feb. 20, 2003, 117 Stat. 43.
 
-## § 2209i. Funding for preparation of final agency decisions regarding discrimination complaints
+## § 2209i. Funding for preparation of final agency decisions regarding discrimination complaints
 
 On and after November 10, 2005, agencies and offices of the Department of Agriculture may utilize any available discretionary funds to cover the costs of preparing, or contracting for the preparation of, final agency decisions regarding complaints of discrimination in employment or program activities arising within such agencies and offices.
 
-(Pub. L. 109–97, title VII, § 751, Nov. 10, 2005, 119 Stat. 2156.)
+(Pub. L. 109–97, title VII, § 751, Nov. 10, 2005, 119 Stat. 2156.)
 
 **Editorial Notes**
 
@@ -1914,11 +1914,11 @@ On and after November 10, 2005, agencies and offices of the Department of Agricu
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 108–447, div. A, title VII, § 763, Dec. 8, 2004, 118 Stat. 2847.
+Pub. L. 108–447, div. A, title VII, § 763, Dec. 8, 2004, 118 Stat. 2847.
 
-Pub. L. 108–199, div. A, title VII, § 762, Jan. 23, 2004, 118 Stat. 39.
+Pub. L. 108–199, div. A, title VII, § 762, Jan. 23, 2004, 118 Stat. 39.
 
-## § 2209j. Permanent debarment from participation in Department of Agriculture programs for fraud
+## § 2209j. Permanent debarment from participation in Department of Agriculture programs for fraud
 
 **(a) In general**
 
@@ -1934,7 +1934,7 @@ The Secretary may reduce a debarment under subsection (a) to a period of not les
 
 A debarment under subsection (a) shall not apply with respect to participation in domestic food assistance programs (as defined by the Secretary).
 
-(Pub. L. 110–234, title XIV, § 14211, May 22, 2008, 122 Stat. 1464; Pub. L. 110–246, § 4(a), title XIV, § 14211, June 18, 2008, 122 Stat. 1664, 2226.)
+(Pub. L. 110–234, title XIV, § 14211, May 22, 2008, 122 Stat. 1464; Pub. L. 110–246, § 4(a), title XIV, § 14211, June 18, 2008, 122 Stat. 1664, 2226.)
 
 **Editorial Notes**
 
@@ -1948,7 +1948,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 2209k. Prohibition on payments to fossil fuel refiners and importers
+## § 2209k. Prohibition on payments to fossil fuel refiners and importers
 
 **(a) In General.—** The Secretary of Agriculture may not use any funds, facilities, or authorities of the Commodity Credit Corporation or the Department of Agriculture—
 
@@ -1964,7 +1964,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(c) Moratorium on Authorities Relating to Exchanges of Agricultural Products for Petroleum Products.—** The authorities under the ninth and tenth sentences of section 714b(h) of title 15 (relating to the availability of agricultural products for the Secretary of Energy to exchange for petroleum products and the terms and conditions of those exchanges, respectively) shall not be used during the 180-day period beginning on October 1, 2020.
 
-(Pub. L. 116–159, div. D, title VI, § 4604, Oct. 1, 2020, 134 Stat. 747.)
+(Pub. L. 116–159, div. D, title VI, § 4604, Oct. 1, 2020, 134 Stat. 747.)
 
 **Editorial Notes**
 
@@ -1972,11 +1972,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Section 8101 of this title, referred to in subsec. (b), was in the original “7 U.S.C. 8101” but probably should have been a reference to section 9001 of the Farm Security and Rural Investment Act of 2002, Pub. L. 107–171, which is classified to section 8101 of this title.
 
-## § 2210. Deputy Secretary of Agriculture; appointment
+## § 2210. Deputy Secretary of Agriculture; appointment
 
 There is established in the Department of Agriculture the position of Deputy Secretary of Agriculture, to be appointed by the President, by and with the advice and consent of the Senate.
 
-(Mar. 26, 1934, ch. 89, title I, 48 Stat. 467; Pub. L. 94–561, § 1(c)(1), Oct. 19, 1976, 90 Stat. 2643.)
+(Mar. 26, 1934, ch. 89, title I, 48 Stat. 467; Pub. L. 94–561, § 1(c)(1), Oct. 19, 1976, 90 Stat. 2643.)
 
 **Editorial Notes**
 
@@ -1984,7 +1984,7 @@ There is established in the Department of Agriculture the position of Deputy Sec
 
 Provisions of this section which prescribed the basic compensation of the Under Secretary were omitted to conform to the provisions of act July 31, 1956. See section 5314 of Title 5, Government Organization and Employees.
 
-Section was formerly classified to section 514a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 514a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -1998,27 +1998,27 @@ Amendment by Pub. L. 94–561 effective Oct. 19, 1976, see section 5 of Pub. L. 
 
 **Status of Incumbent Under Secretary of Agriculture**
 
-Pub. L. 94–561, § 1(d), Oct. 19, 1976, 90 Stat. 2643, provided that: “The officer occupying the position of Under Secretary of Agriculture, on the date of enactment of this Act [Oct. 19, 1976], may assume the duties of the Deputy Secretary of Agriculture. The individual assuming such duties shall not be required to be reappointed by reason of the enactment of this Act.”
+Pub. L. 94–561, § 1(d), Oct. 19, 1976, 90 Stat. 2643, provided that: “The officer occupying the position of Under Secretary of Agriculture, on the date of enactment of this Act [Oct. 19, 1976], may assume the duties of the Deputy Secretary of Agriculture. The individual assuming such duties shall not be required to be reappointed by reason of the enactment of this Act.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953, Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953, Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2211. Powers and duties of Deputy Secretary of Agriculture
+## § 2211. Powers and duties of Deputy Secretary of Agriculture
 
 The Deputy Secretary of Agriculture is authorized to exercise the functions and perform the duties of the first assistant of the Secretary of Agriculture within the meaning of section 3345 of title 5 and shall perform such other duties as may be required by law or prescribed by the Secretary of Agriculture.
 
-(June 5, 1939, ch. 181, 53 Stat. 809; Pub. L. 94–561, § 1(c)(2), Oct. 19, 1976, 90 Stat. 2643.)
+(June 5, 1939, ch. 181, 53 Stat. 809; Pub. L. 94–561, § 1(c)(2), Oct. 19, 1976, 90 Stat. 2643.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 3345 of title 5” substituted in text for “section 177 of the Revised Statutes of the United States (U.S.C., title 5, sec. 4)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Section 3345 of title 5” substituted in text for “section 177 of the Revised Statutes of the United States (U.S.C., title 5, sec. 4)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Section was formerly classified to section 514b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 514b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -2030,49 +2030,49 @@ Section was formerly classified to section 514b of Title 5 prior to the general 
 
 Amendment by Pub. L. 94–561 effective Oct. 19, 1976, see section 5 of Pub. L. 94–561, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
-## § 2211a. Omitted
+## § 2211a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 95–501, title V, § 501(a), Oct. 21, 1978, 92 Stat. 1691, which related to establishment in Department of Agriculture of position of Under Secretary of Agriculture for International Affairs and Commodity Programs, was omitted in the complete revision of Pub. L. 95–501 by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668. See section 5691 of this title.
+Section, Pub. L. 95–501, title V, § 501(a), Oct. 21, 1978, 92 Stat. 1691, which related to establishment in Department of Agriculture of position of Under Secretary of Agriculture for International Affairs and Commodity Programs, was omitted in the complete revision of Pub. L. 95–501 by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668. See section 5691 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Redesignation of Assistant Secretary of Agriculture for International Affairs and Commodity Programs**
 
-Pub. L. 95–501, title V, § 501(c), Oct. 21, 1978, 92 Stat. 1691, which prohibited the use of the designation of “Assistant Secretary of Agriculture for International Affairs and Commodity Programs” after Oct. 21, 1978, was omitted in the complete revision of Pub. L. 95–501 by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668.
+Pub. L. 95–501, title V, § 501(c), Oct. 21, 1978, 92 Stat. 1691, which prohibited the use of the designation of “Assistant Secretary of Agriculture for International Affairs and Commodity Programs” after Oct. 21, 1978, was omitted in the complete revision of Pub. L. 95–501 by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668.
 
-## §§ 2211b to 2212c. Repealed. Pub. L. 103–354, title II, §§ 218(e)(2)–(6), 231(f)(1), Oct. 13, 1994, 108 Stat. 3213, 3219
+## §§ 2211b to 2212c. Repealed. Pub. L. 103–354, title II, §§ 218(e)(2)–(6), 231(f)(1), Oct. 13, 1994, 108 Stat. 3213, 3219
 
-Section 2211b, Pub. L. 96–355, § 3(a), Sept. 24, 1980, 94 Stat. 1173, authorized appointment of an Under Secretary of Agriculture for Small Community and Rural Development.
+Section 2211b, Pub. L. 96–355, § 3(a), Sept. 24, 1980, 94 Stat. 1173, authorized appointment of an Under Secretary of Agriculture for Small Community and Rural Development.
 
-Section 2212, acts Feb. 9, 1889, ch. 122, § 2, 25 Stat. 659; June 30, 1906, ch. 3913, 34 Stat. 670, authorized appointment of an Assistant Secretary of Agriculture.
+Section 2212, acts Feb. 9, 1889, ch. 122, § 2, 25 Stat. 659; June 30, 1906, ch. 3913, 34 Stat. 670, authorized appointment of an Assistant Secretary of Agriculture.
 
-Section 2212a, Pub. L. 92–419, title VI, § 604(a), Aug. 30, 1972, 86 Stat. 676, authorized appointment of an additional Assistant Secretary of Agriculture.
+Section 2212a, Pub. L. 92–419, title VI, § 604(a), Aug. 30, 1972, 86 Stat. 676, authorized appointment of an additional Assistant Secretary of Agriculture.
 
-Section 2212b, Pub. L. 94–561, § 2, Oct. 19, 1976, 90 Stat. 2643, authorized appointment of an additional Assistant Secretary of Agriculture.
+Section 2212b, Pub. L. 94–561, § 2, Oct. 19, 1976, 90 Stat. 2643, authorized appointment of an additional Assistant Secretary of Agriculture.
 
-Section 2212c, Pub. L. 97–325, § 8(a), Oct. 15, 1982, 96 Stat. 1605, authorized appointment of an additional Assistant Secretary of Agriculture.
+Section 2212c, Pub. L. 97–325, § 8(a), Oct. 15, 1982, 96 Stat. 1605, authorized appointment of an additional Assistant Secretary of Agriculture.
 
-## § 2213. Omitted
+## § 2213. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts June 5, 1952, ch. 369, ch. XI, § 1101, 66 Stat. 121; 1953 Reorg. Plan No. 2, § 3, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633; June 28, 1955, ch. 189, § 12(c)(16), 69 Stat. 182; Aug. 14, 1964, Pub. L. 88–426, title III, § 307, 78 Stat. 432, related to the position of Assistant Secretary of Agriculture for Administration established by section 3 of Reorg. Plan No. 2 of 1953. Section 3 of Reorg. Plan No. 2 of 1953 was repealed by Pub. L. 97–325, § 8(d), Oct. 15, 1982, 96 Stat. 1606. See section 2212c of this title.
+Section, acts June 5, 1952, ch. 369, ch. XI, § 1101, 66 Stat. 121; 1953 Reorg. Plan No. 2, § 3, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633; June 28, 1955, ch. 189, § 12(c)(16), 69 Stat. 182; Aug. 14, 1964, Pub. L. 88–426, title III, § 307, 78 Stat. 432, related to the position of Assistant Secretary of Agriculture for Administration established by section 3 of Reorg. Plan No. 2 of 1953. Section 3 of Reorg. Plan No. 2 of 1953 was repealed by Pub. L. 97–325, § 8(d), Oct. 15, 1982, 96 Stat. 1606. See section 2212c of this title.
 
-Section was formerly classified to section 517b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 517b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2214. General Counsel; appointment
+## § 2214. General Counsel; appointment
 
 **(a)** The President shall appoint on and after July 31, 1956, by and with the advice and consent of the Senate, a General Counsel of the Department of Agriculture.
 
 **(b)** The existing office of General Counsel of the Department of Agriculture shall be abolished effective upon the appointment and qualification of the General Counsel provided for by subsection (a) or April 1, 1957, whichever is earlier.
 
-(July 31, 1956, ch. 804, title III, § 301, 70 Stat. 742.)
+(July 31, 1956, ch. 804, title III, § 301, 70 Stat. 742.)
 
 **Editorial Notes**
 
@@ -2080,21 +2080,21 @@ Section was formerly classified to section 517b of Title 5 prior to the general 
 
 Section is based on that part of section 301 of act July 31, 1956, relating to the General Counsel of the Department of Agriculture. That part of such section 301 relating to the General Counsel of the Department of Health, Education, and Welfare [now Health and Human Services], is classified to section 3504 of Title 42, The Public Health and Welfare. That part of such section 301 relating to the General Counsel of the Post Office Department was enacted as section 307 of Title 39 by Pub. L. 86–682, Sept. 2, 1960, 74 Stat. 580. Such provisions were eliminated from Title 39 by the Postal Reorganization Act, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719.
 
-Section was formerly classified to section 518a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 518a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2215. Chief clerk
+## § 2215. Chief clerk
 
 The Secretary of Agriculture shall appoint a chief clerk.
 
-(R.S. § 523; Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659; Feb. 10, 1925, ch. 200, 43 Stat. 822.)
+(R.S. § 523; Feb. 9, 1889, ch. 122, §§ 1, 4, 25 Stat. 659; Feb. 10, 1925, ch. 200, 43 Stat. 822.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 523 derived from act May 15, 1862, ch. 72, § 4, 12 Stat. 388.
+R.S. § 523 derived from act May 15, 1862, ch. 72, § 4, 12 Stat. 388.
 
-Section was formerly classified to section 519 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 519 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2102,31 +2102,31 @@ Section was formerly classified to section 519 of Title 5 prior to the general r
 
 “Secretary of Agriculture” substituted in text for “Commissioner of Agriculture” pursuant to sections 1 and 4 of act Feb. 9, 1889, which are classified to section 2202 of this title. See, also, section 2205 of this title.
 
-## § 2216. Repealed. Pub. L. 92–310, title II, § 221(a), June 6, 1972, 86 Stat. 205
+## § 2216. Repealed. Pub. L. 92–310, title II, § 221(a), June 6, 1972, 86 Stat. 205
 
-Section, R.S. § 524; acts Mar. 2, 1895, ch. 177, § 5, 28 Stat. 807; May 10, 1934, ch. 277, § 512(b), 48 Stat. 759, related to the bond of the chief clerk of the Department of Agriculture.
+Section, R.S. § 524; acts Mar. 2, 1895, ch. 177, § 5, 28 Stat. 807; May 10, 1934, ch. 277, § 512(b), 48 Stat. 759, related to the bond of the chief clerk of the Department of Agriculture.
 
-Section was formerly classified to section 520 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 520 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2217. Oaths, affirmations, and affidavits taken by officers, agents, or employees of Department; use and effect
+## § 2217. Oaths, affirmations, and affidavits taken by officers, agents, or employees of Department; use and effect
 
 Such officers, agents, or employees of the Department of Agriculture of the United States as are designated by the Secretary of Agriculture for the purpose are authorized and empowered to administer to or take from any person an oath, affirmation, or affidavit whenever such oath, affirmation, or affidavit is for use in any prosecution or proceeding under or in the enforcement of any law committed to or which may be committed to the Secretary of Agriculture or the Department of Agriculture or any bureau or subdivision thereof for administration. Any such oath, affirmation, or affidavit administered or taken by or before such officer, agent, or employee when certified under his hand and authenticated by the seal of the Department of Agriculture may be offered or used in any court of the United States and shall have like force and effect as if administered or taken before a clerk of such court without further proof of the identity or authority of such officer, agent, or employee.
 
-(Jan. 31, 1925, ch. 124, § 1, 43 Stat. 803.)
+(Jan. 31, 1925, ch. 124, § 1, 43 Stat. 803.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 521 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 521 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
 **Department of the Interior Personnel**
 
-Provisions of this section were made applicable to such officers, agents, or employees of Department of the Interior performing functions of former Bureau of Biological Survey as are designated by Secretary of the Interior for purposes named herein by 1939 Reorg. Plan No. II, § 4(g), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds. Bureau of Biological Survey was subsequently consolidated with Bureau of Fisheries into Fish and Wildlife Service in Department of the Interior by 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232, also set out in the Appendix to Title 5.
+Provisions of this section were made applicable to such officers, agents, or employees of Department of the Interior performing functions of former Bureau of Biological Survey as are designated by Secretary of the Interior for purposes named herein by 1939 Reorg. Plan No. II, § 4(g), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds. Bureau of Biological Survey was subsequently consolidated with Bureau of Fisheries into Fish and Wildlife Service in Department of the Interior by 1940 Reorg. Plan No. III, § 3, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1232, also set out in the Appendix to Title 5.
 
-## § 2217a. Power to administer oaths, examine witnesses, or require production of books, etc.
+## § 2217a. Power to administer oaths, examine witnesses, or require production of books, etc.
 
 On and after July 24, 1919, in the performance of the duties required of the Bureau of Agricultural Economics in the administration or enforcement of provisions of Acts (United States Cotton Futures Act, Thirty-ninth Statutes at Large, page 476; United States Grain Standards Act, Thirty-ninth Statutes at Large, page 482 [7 U.S.C. 71 et seq.]; United States Warehouse Act, Thirty-ninth Statutes at Large, page 486 [7 U.S.C. 241 et seq.]; Standard Container Act, Thirty-ninth Statutes at Large, page 673; and the Acts making annual appropriations for the Department of Agriculture) relating to the Department of Agriculture, the Secretary of Agriculture, or any representative specifically authorized in writing by him for the purpose, shall have power to administer oaths, examine witnesses, and call for the production of books and papers.
 
@@ -2138,11 +2138,11 @@ On and after July 24, 1919, in the performance of the duties required of the Bur
 
 The United States Cotton Futures Act, referred to in text, is part A of act Aug. 11, 1916, ch. 313, 39 Stat. 476, which was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
-The United States Grain Standards Act, referred to in text, is part B of act Aug. 11, 1916, ch. 313, 39 Stat. 482, which is classified generally to chapter 3 (§ 71 et seq.) of this title. For complete classification of this Act to the Code, see section 71 of this title and Tables.
+The United States Grain Standards Act, referred to in text, is part B of act Aug. 11, 1916, ch. 313, 39 Stat. 482, which is classified generally to chapter 3 (§ 71 et seq.) of this title. For complete classification of this Act to the Code, see section 71 of this title and Tables.
 
-The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
+The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
 
-The Standard Container Act, referred to in text, is act Aug. 31, 1916, ch. 426, 39 Stat. 673, which was classified generally to subchapter VII (§ 251 et seq.) of chapter 6 of Title 15, Commerce and Trade, and was repealed by Pub. L. 90–628, § 1(a), Oct. 22, 1968, 82 Stat. 1320. For complete classification of this Act to the Code prior to its repeal, see Tables.
+The Standard Container Act, referred to in text, is act Aug. 31, 1916, ch. 426, 39 Stat. 673, which was classified generally to subchapter VII (§ 251 et seq.) of chapter 6 of Title 15, Commerce and Trade, and was repealed by Pub. L. 90–628, § 1(a), Oct. 22, 1968, 82 Stat. 1320. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
 **Codification**
 
@@ -2160,19 +2160,19 @@ Act May 11, 1922, transferred powers of former “Bureau of Markets, Bureau of M
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2218. Fee for administering or taking oaths, affirmations, and affidavits
+## § 2218. Fee for administering or taking oaths, affirmations, and affidavits
 
 No officer, agent, or employee of the Department of Agriculture shall demand or accept any fee or compensation whatsoever for administering or taking any oath, affirmation, or affidavit under the authority conferred by section 2217 of this title.
 
-(Jan. 31, 1925, ch. 124, § 2, 43 Stat. 803.)
+(Jan. 31, 1925, ch. 124, § 2, 43 Stat. 803.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 522 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 522 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2184,9 +2184,9 @@ Application to Department of the Interior employees, see note under section 2217
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2219. Salaries; how paid
+## § 2219. Salaries; how paid
 
 The Secretary of Agriculture is authorized and directed to pay the salary of each employee from the roll of the bureau, independent division, or office in which the employee is working, and no other.
 
@@ -2196,9 +2196,9 @@ The Secretary of Agriculture is authorized and directed to pay the salary of eac
 
 **Codification**
 
-Section was formerly classified to section 528 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 528 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2219a. Overtime and holiday pay
+## § 2219a. Overtime and holiday pay
 
 **(a) In general** The Secretary of Agriculture may—
 
@@ -2210,21 +2210,21 @@ Section was formerly classified to section 528 of Title 5 prior to the general r
 
 Sums received by the Secretary under this section shall remain available until expended without further appropriation and without fiscal year limitation, to carry out subsection (a).
 
-(Pub. L. 107–171, title X, § 10703(a), (b), May 13, 2002, 116 Stat. 517.)
+(Pub. L. 107–171, title X, § 10703(a), (b), May 13, 2002, 116 Stat. 517.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Meat Inspection Act, referred to in subsec. (a)(1), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
+The Federal Meat Inspection Act, referred to in subsec. (a)(1), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
-The Poultry Products Inspection Act, referred to in subsec. (a)(1), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
+The Poultry Products Inspection Act, referred to in subsec. (a)(1), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 
-## § 2220. Certain officials and employees of Department and others not subject to restriction on payment of compensation to Government officials and employees
+## § 2220. Certain officials and employees of Department and others not subject to restriction on payment of compensation to Government officials and employees
 
 The officials and the employees of the Department of Agriculture engaged in the activities described in section 2279i of this title and paid in whole or in part out of funds contributed as provided therein, and the persons, corporations, or associations making contributions as therein provided, shall not be subject to the provisions of section 209 of title 18; nor shall any official or employee engaged in the cooperative activities of the Forest Service, or the persons, corporations, or associations contributing to such activities be subject to such section.
 
-(July 24, 1919, ch. 26, 41 Stat. 270; Sept. 3, 1954, ch. 1263, § 5, 68 Stat. 1227.)
+(July 24, 1919, ch. 26, 41 Stat. 270; Sept. 3, 1954, ch. 1263, § 5, 68 Stat. 1227.)
 
 **Editorial Notes**
 
@@ -2232,13 +2232,13 @@ The officials and the employees of the Department of Agriculture engaged in the 
 
 “Section 209 of title 18” substituted in text for “section 1914 of title 18” on authority of section 2 of Pub. L. 87–849, Oct. 23, 1962, 76 Stat. 1126, which repealed section 1914 and supplanted it with section 209, and which provided that exemptions from section 1914 shall be deemed exemptions from section 209. For further details, see Exemptions note set out under section 203 of Title 18, Crimes and Criminal Procedure.
 
-Section was formerly classified to sections 67 and 564 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378. Thereafter, section was classified to section 450h of this title prior to its transfer to this section.
+Section was formerly classified to sections 67 and 564 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378. Thereafter, section was classified to section 450h of this title prior to its transfer to this section.
 
 **Amendments**
 
 1954—Act Sept. 3, 1954, substituted “section 1914 of title 18” for reference to proviso in Act of March 3, 1917 (5 U.S.C. 66).
 
-## § 2221. Details of persons from or to office of Secretary
+## § 2221. Details of persons from or to office of Secretary
 
 Details may be made from or to the office of the Secretary when necessary and the services of the person whom it is proposed to detail are not required in that office.
 
@@ -2248,9 +2248,9 @@ Details may be made from or to the office of the Secretary when necessary and th
 
 **Codification**
 
-Section was formerly classified to section 530 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 530 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2222. Details of law clerks
+## § 2222. Details of law clerks
 
 Law clerks may be detailed by the Secretary of Agriculture for service in or out of Washington.
 
@@ -2260,9 +2260,9 @@ Law clerks may be detailed by the Secretary of Agriculture for service in or out
 
 **Codification**
 
-Section was formerly classified to section 531 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 531 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2223. Details of employees from and to library and bureaus and offices
+## § 2223. Details of employees from and to library and bureaus and offices
 
 Employees of the library may be temporarily detailed by the Secretary of Agriculture for library service in the bureaus and offices of the department, and employees of the bureaus and offices of the department engaged in library work may also be temporarily detailed to the library.
 
@@ -2276,15 +2276,15 @@ The library, referred to in text, is the library of the Department of Agricultur
 
 **Codification**
 
-Section was formerly classified to section 532 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 532 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2224. Details of employees from and to Division of Accounts and Disbursements and bureaus and offices; traveling expenses
+## § 2224. Details of employees from and to Division of Accounts and Disbursements and bureaus and offices; traveling expenses
 
 Employees of the Division of Accounts and Disbursements may be detailed by the Secretary of Agriculture for accounting and disbursing work in any of the bureaus and offices of the department for duty in or out of the city of Washington, and employees of the bureaus and offices of the department may also be detailed to the Division of Accounts and Disbursements for duty in or out of the city of Washington, traveling expenses of employees so detailed to be paid from the appropriation of the bureau or office in connection with which such travel is performed.
 
@@ -2294,29 +2294,29 @@ Employees of the Division of Accounts and Disbursements may be detailed by the S
 
 **References in Text**
 
-The Division of Accounts and Disbursements, referred to in text, was a division of the Department of Agriculture at the time of enactment of this section. The activities of that Division are now performed by the various departmental offices in the Department of Agriculture under the Assistant Secretary of Agriculture for Administration. In a similar consolidation of operations, but one carried out in a different department, the Division of Disbursement and certain other offices and agencies and their functions in the Treasury Department were consolidated into the Fiscal Service of the Treasury Department by 1940 Reorg. Plan No. III, § 1(a), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees.
+The Division of Accounts and Disbursements, referred to in text, was a division of the Department of Agriculture at the time of enactment of this section. The activities of that Division are now performed by the various departmental offices in the Department of Agriculture under the Assistant Secretary of Agriculture for Administration. In a similar consolidation of operations, but one carried out in a different department, the Division of Disbursement and certain other offices and agencies and their functions in the Treasury Department were consolidated into the Fiscal Service of the Treasury Department by 1940 Reorg. Plan No. III, § 1(a), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Codification**
 
-Section was formerly classified to section 533 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 533 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2224a. Utilization of employees of agencies for part-time and intermittent assistance to other agencies; exclusion of overtime resulting from natural disasters from staff year ceilings
+## § 2224a. Utilization of employees of agencies for part-time and intermittent assistance to other agencies; exclusion of overtime resulting from natural disasters from staff year ceilings
 
 On and after October 28, 1991, notwithstanding any other provision of law, employees of the agencies of the Department of Agriculture, including employees of the Agricultural Stabilization and Conservation county committees, may be utilized to provide part-time and intermittent assistance to other agencies of the Department, without reimbursement, during periods when they are not otherwise fully utilized, and ceilings on full-time equivalent staff years established for or by the Department of Agriculture shall exclude overtime as well as staff years expended as a result of carrying out programs associated with natural disasters, such as forest fires, droughts, floods, and other acts of God.
 
-(Pub. L. 102–142, title VII, § 711, Oct. 28, 1991, 105 Stat. 912.)
+(Pub. L. 102–142, title VII, § 711, Oct. 28, 1991, 105 Stat. 912.)
 
-## § 2225. Employment of temporary personnel
+## § 2225. Employment of temporary personnel
 
 The Department of Agriculture may employ persons or organizations, on a temporary basis, by contract or otherwise: *Provided*, That no expenditures for such temporary employment shall be made unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein.
 
-(Sept. 21, 1944, ch. 412, title VII, § 706(a), 58 Stat. 742; Ex. Ord. No. 9577, June 29, 1945, 10 F.R. 4253.)
+(Sept. 21, 1944, ch. 412, title VII, § 706(a), 58 Stat. 742; Ex. Ord. No. 9577, June 29, 1945, 10 F.R. 4253.)
 
 **Editorial Notes**
 
@@ -2326,55 +2326,55 @@ This section was enacted as a part of the Department of Agriculture Organic Act 
 
 First sentence of section which related to the authority of the War Food Administrator to employ personnel was omitted on the authority of Ex. Ord. No. 9577, which terminated the War Food Administration.
 
-The exception from “the Classification Act of 1923, as amended” was omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949 (63 Stat. 972, 973) repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exception contained in this section because of section 1106(b) that provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–544, § 8(a), Sept. 6, 1966, 80 Stat. 632 (section 1 of which revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 now contains the applicability provisions of the 1949 Act.
+The exception from “the Classification Act of 1923, as amended” was omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949 (63 Stat. 972, 973) repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exception contained in this section because of section 1106(b) that provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–544, § 8(a), Sept. 6, 1966, 80 Stat. 632 (section 1 of which revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 now contains the applicability provisions of the 1949 Act.
 
-Section was formerly classified to section 574 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 574 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2225a. Contracts for consulting services
+## § 2225a. Contracts for consulting services
 
 On and after October 28, 1991, the expenditure of any appropriation for the Department of Agriculture for any consulting service through procurement contract, pursuant to 5 U.S.C. 3109, shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive order issued pursuant to existing law.
 
-(Pub. L. 102–142, title VII, § 701, Oct. 28, 1991, 105 Stat. 911.)
+(Pub. L. 102–142, title VII, § 701, Oct. 28, 1991, 105 Stat. 911.)
 
-## § 2225b. Personal service contracts for veterinarians
+## § 2225b. Personal service contracts for veterinarians
 
 On and after October 28, 1991, provisions of law prohibiting or restricting personal services contracts shall not apply to veterinarians employed by the Department to take animal blood samples, test and vaccinate animals, and perform branding and tagging activities on a fee-for-service basis.
 
-(Pub. L. 102–142, title VII, § 723, Oct. 28, 1991, 105 Stat. 913.)
+(Pub. L. 102–142, title VII, § 723, Oct. 28, 1991, 105 Stat. 913.)
 
-## § 2225c. Employment contracts for services abroad
+## § 2225c. Employment contracts for services abroad
 
-On and after October 28, 2000, funds appropriated to the Department of Agriculture may be used to employ individuals by contract for services outside the United States as determined by the agencies to be necessary or appropriate for carrying out programs and activities abroad; and such contracts are authorized to be negotiated, the terms of the contract to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making and performance of contracts and performance of work in the United States. Individuals employed by contract to perform such services outside the United States shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management. Such individuals may be considered employees within the meaning of the Federal Employee Compensation Act, 5 U.S.C. 8101 et seq. Further, that 1
+On and after October 28, 2000, funds appropriated to the Department of Agriculture may be used to employ individuals by contract for services outside the United States as determined by the agencies to be necessary or appropriate for carrying out programs and activities abroad; and such contracts are authorized to be negotiated, the terms of the contract to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making and performance of contracts and performance of work in the United States. Individuals employed by contract to perform such services outside the United States shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management. Such individuals may be considered employees within the meaning of the Federal Employee Compensation Act, 5 U.S.C. 8101 et seq. Further, that 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Government service credit shall be accrued for the time employed under a Personal Service Agreement (PSA) should the individual later be hired into a permanent United States Government position within FAS or another United States Government agency if the authorities of the hiring agency so permit.
 
-(Pub. L. 106–387, § 1(a) [title VII, § 740], Oct. 28, 2000, 114 Stat. 1549, 1549A–34.)
+(Pub. L. 106–387, § 1(a) [title VII, § 740], Oct. 28, 2000, 114 Stat. 1549, 1549A–34.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Employee Compensation Act, referred to in text, is act Sept. 7, 1916, ch. 458, 39 Stat. 742, which was repealed and the provisions thereof were reenacted as subchapter I (§ 8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+The Federal Employee Compensation Act, referred to in text, is act Sept. 7, 1916, ch. 458, 39 Stat. 742, which was repealed and the provisions thereof were reenacted as subchapter I (§ 8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Availability of Foreign Agricultural Service Funds**
 
-Pub. L. 100–202, § 101(k) [title IV], Dec. 22, 1987, 101 Stat. 1329–322, 1329–350, as amended by Pub. L. 105–277, div. A, § 101(a) [title VII, § 750], Oct. 21, 1998, 112 Stat. 2681, 2681–32, provided in part: “That funds available to the Foreign Agricultural Service under this and subsequent appropriations Acts shall be available to contract with individuals for services to be performed outside the United States as determined by the Service to be necessary or appropriate for carrying out programs and activities abroad. On or after August 1, 1998 such individuals employed by contract to perform such services shall not, by virtue of such employment, be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management. Such individuals may be considered employees within the meaning of the Federal Employee Compensation Act, 5 U.S.C. 8101 et seq.”
+Pub. L. 100–202, § 101(k) [title IV], Dec. 22, 1987, 101 Stat. 1329–322, 1329–350, as amended by Pub. L. 105–277, div. A, § 101(a) [title VII, § 750], Oct. 21, 1998, 112 Stat. 2681, 2681–32, provided in part: “That funds available to the Foreign Agricultural Service under this and subsequent appropriations Acts shall be available to contract with individuals for services to be performed outside the United States as determined by the Service to be necessary or appropriate for carrying out programs and activities abroad. On or after August 1, 1998 such individuals employed by contract to perform such services shall not, by virtue of such employment, be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management. Such individuals may be considered employees within the meaning of the Federal Employee Compensation Act, 5 U.S.C. 8101 et seq.”
 
-## § 2225d. Availability of Department of Agriculture funds for temporary employment
+## § 2225d. Availability of Department of Agriculture funds for temporary employment
 
 On and after November 10, 2005, funds appropriated by this or any other Appropriations Act to the Department of Agriculture (excluding the Forest Service) shall be available for employment pursuant to the second sentence of section 2225 of this title and section 3109 of title 5.
 
-(Pub. L. 109–97, title VII, § 703, Nov. 10, 2005, 119 Stat. 2149.)
+(Pub. L. 109–97, title VII, § 703, Nov. 10, 2005, 119 Stat. 2149.)
 
 **Editorial Notes**
 
@@ -2382,25 +2382,25 @@ On and after November 10, 2005, funds appropriated by this or any other Appropri
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 108–447, div. A, title VII, § 703, Dec. 8, 2004, 118 Stat. 2838.
+Pub. L. 108–447, div. A, title VII, § 703, Dec. 8, 2004, 118 Stat. 2838.
 
-Pub. L. 108–199, div. A, title VII, § 703, Jan. 23, 2004, 118 Stat. 31.
+Pub. L. 108–199, div. A, title VII, § 703, Jan. 23, 2004, 118 Stat. 31.
 
-Pub. L. 108–7, div. A, title VII, § 703, Feb. 20, 2003, 117 Stat. 38.
+Pub. L. 108–7, div. A, title VII, § 703, Feb. 20, 2003, 117 Stat. 38.
 
-## § 2226. Employment of persons for forest fire fighting, pest control, and handling of animals
+## § 2226. Employment of persons for forest fire fighting, pest control, and handling of animals
 
 Notwithstanding any other provisions of law, the Department is authorized on and after August 31, 1951, to employ or otherwise contract with persons at regular rates of pay for necessary hours of work for emergency forest fire fighting and pest control and for handling of animals, including dairy cattle, without regard to Sundays, Federal holidays, and the regular workweek.
 
-(Aug. 31, 1951, ch. 374, title IV, § 407, 65 Stat. 246.)
+(Aug. 31, 1951, ch. 374, title IV, § 407, 65 Stat. 246.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 574a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 574a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2227. Traveling expenses
+## § 2227. Traveling expenses
 
 The Secretary of Agriculture is authorized to purchase from appropriations made for traveling expenses for employees of the Department of Agriculture, mileage and mileage books, at commercial rates, in the manner in which such mileage or mileage books are usually purchased.
 
@@ -2410,7 +2410,7 @@ The Secretary of Agriculture is authorized to purchase from appropriations made 
 
 **Codification**
 
-Section was formerly classified to section 538 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 538 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2418,33 +2418,33 @@ Section was formerly classified to section 538 of Title 5 prior to the general r
 
 Insofar as the provisions of this section relating to subsistence may conflict with those of sections 821 to 823, and 827 to 833 of former Title 5, which are now covered by sections 102, 105, 2105, 2106, 5701, 5705, 5707 and 5708 of Title 5, Government Organization and Employees, they were repealed by section 829 of former Title 5, which is now covered by section 5708 of Title 5.
 
-## § 2228. Emergency subsistence for employees
+## § 2228. Emergency subsistence for employees
 
 The Department of Agriculture is authorized to furnish subsistence to employees without consideration as, or deduction from, the compensation of such employees where warranted by emergency condition connected with the work under such regulations as the Secretary of Agriculture may prescribe.
 
-(Aug. 3, 1956, ch. 950, § 5, 70 Stat. 1033.)
+(Aug. 3, 1956, ch. 950, § 5, 70 Stat. 1033.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 541d of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 541d of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2229. Travel and per diem expenses of temporary or seasonal employees
+## § 2229. Travel and per diem expenses of temporary or seasonal employees
 
 Under such regulations as may be prescribed by the Secretary of Agriculture, funds available to the Department of Agriculture may be used for the payment of transportation expenses and per diem in lieu of subsistence expenses, in accordance with subchapter I of chapter 57 of title 5, for travel between places of recruitment and duty, and while at places of duty, of persons appointed for temporary or seasonal services in inspection, classing or grading agricultural commodities.
 
-(Aug. 3, 1956, ch. 950, § 12, 70 Stat. 1034.)
+(Aug. 3, 1956, ch. 950, § 12, 70 Stat. 1034.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 541e of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 541e of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-“Subchapter I of chapter 57 of title 5” substituted in text for “the Travel Expense Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Subchapter I of chapter 57 of title 5” substituted in text for “the Travel Expense Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-## § 2230. Employees in Alaska; subsistence, equipment, and supplies
+## § 2230. Employees in Alaska; subsistence, equipment, and supplies
 
 The Secretary of Agriculture is authorized to furnish subsistence to employees of the United States Department of Agriculture in the Territory of Alaska, and to purchase personal equipment and supplies for them, and to make deductions to meet the cost thereof from any money appropriated for salary payments or otherwise due such employees.
 
@@ -2454,7 +2454,7 @@ The Secretary of Agriculture is authorized to furnish subsistence to employees o
 
 **Codification**
 
-Section was formerly classified to section 543a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 543a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2468,11 +2468,11 @@ Insofar as the provisions of this section relating to subsistence may conflict w
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-## § 2231. Official expenses of employees stationed abroad
+## § 2231. Official expenses of employees stationed abroad
 
 Employees of the Department of Agriculture stationed abroad may, with the approval of the Secretary of Agriculture, enter into leases for official quarters, for periods not exceeding one year, and may pay rent, telephone, subscriptions to publications, and other charges incident to the conduct of their offices and the discharge of their duties, in advance, in any foreign country where custom or practice requires payment in advance.
 
-(Sept. 21, 1944, ch. 412, title VII, § 705(c), 58 Stat. 742.)
+(Sept. 21, 1944, ch. 412, title VII, § 705(c), 58 Stat. 742.)
 
 **Editorial Notes**
 
@@ -2480,7 +2480,7 @@ Employees of the Department of Agriculture stationed abroad may, with the approv
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to section 543b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 543b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Prior Provisions**
 
@@ -2502,23 +2502,23 @@ June 16, 1938, ch. 464, title I, 52 Stat. 711.
 
 June 29, 1937, ch. 404, 50 Stat. 395.
 
-## § 2231a. Reimbursement of employees for costs of State licenses and certification fees
+## § 2231a. Reimbursement of employees for costs of State licenses and certification fees
 
 On and after October 28, 1991, notwithstanding any other provision of law, any appropriations or funds available to the agencies of the Department of Agriculture may be used to reimburse employees for the cost of State licenses and certification fees pursuant to their Department of Agriculture position and that are necessary to comply with State laws, regulations, and requirements.
 
-(Pub. L. 102–142, title VII, § 738, Oct. 28, 1991, 105 Stat. 915.)
+(Pub. L. 102–142, title VII, § 738, Oct. 28, 1991, 105 Stat. 915.)
 
-## § 2231b. First amendment rights of employees of the United States Department of Agriculture
+## § 2231b. First amendment rights of employees of the United States Department of Agriculture
 
 Notwithstanding any other provision of law, no employee of the United States Department of Agriculture shall be peremptorily removed, on or after February 15, 1994, from the position of the employee without an opportunity for a public or nonpublic hearing, at the option of the employee, because of remarks made during personal time in opposition to policies, or proposed policies, of the Department, including policies or proposed policies regarding homosexuals. Any employee removed on or after February 15, 1994, without the opportunity for such a hearing shall be reinstated to the position of the employee pending such a hearing.
 
-(Pub. L. 103–354, title III, § 302, Oct. 13, 1994, 108 Stat. 3239.)
+(Pub. L. 103–354, title III, § 302, Oct. 13, 1994, 108 Stat. 3239.)
 
-## § 2232. Stenographic reporting service
+## § 2232. Stenographic reporting service
 
 The Department of Agriculture is authorized to contract for stenographic reporting services.
 
-(Sept. 21, 1944, ch. 412, title VII, § 705(b), 58 Stat. 742.)
+(Sept. 21, 1944, ch. 412, title VII, § 705(b), 58 Stat. 742.)
 
 **Editorial Notes**
 
@@ -2526,11 +2526,11 @@ The Department of Agriculture is authorized to contract for stenographic reporti
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to section 520a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 520a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in the following Department of Agriculture Appropriation Acts, and were repealed by Pub. L. 89–554, § 8(a), Sept 6, 1966, 80 Stat. 632:
+Provisions similar to those in this section were contained in the following Department of Agriculture Appropriation Acts, and were repealed by Pub. L. 89–554, § 8(a), Sept 6, 1966, 80 Stat. 632:
 
 June 28, 1944, ch. 296, 58 Stat. 426.
 
@@ -2550,7 +2550,7 @@ June 29, 1937, ch. 404, 50 Stat. 395.
 
 June 4, 1936, ch. 489, 49 Stat. 1421.
 
-May 17, 1935, ch. 131, title I, § 1, 49 Stat. 248.
+May 17, 1935, ch. 131, title I, § 1, 49 Stat. 248.
 
 Mar. 26, 1934, ch. 89, 48 Stat. 468.
 
@@ -2570,21 +2570,21 @@ Jan. 18, 1927, ch. 39, 44 Stat. 977.
 
 May 11, 1926, ch. 286, 44 Stat. 500.
 
-## § 2233. Funds available for expenses of advisory committees
+## § 2233. Funds available for expenses of advisory committees
 
 Funds available for carrying out the activities of the Department of Agriculture shall be available for expenses of advisory committees, including travel expenses in accordance with the provisions of section 5703 of title 5.
 
-(Aug. 3, 1956, ch. 950, § 4, 70 Stat. 1033.)
+(Aug. 3, 1956, ch. 950, § 4, 70 Stat. 1033.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 5703 of title 5” substituted in text for “section 5 of the Administrative Expenses Act of 1946, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Section 5703 of title 5” substituted in text for “section 5 of the Administrative Expenses Act of 1946, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Section was formerly classified to section 541c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 541c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2234. Purchases for bureaus from appropriations for contingent expenses
+## § 2234. Purchases for bureaus from appropriations for contingent expenses
 
 The Secretary of Agriculture may purchase stationery, supplies, furniture, and miscellaneous materials from this appropriation for contingent expenses and transfer the same at actual cost to the various bureaus, divisions, and offices of the Department of Agriculture in the city of Washington, reimbursement therefor to be made to such appropriation by said bureaus, divisions, and offices from their lump-fund appropriations by transfer settlements through the Treasury Department.
 
@@ -2594,19 +2594,19 @@ The Secretary of Agriculture may purchase stationery, supplies, furniture, and m
 
 **Codification**
 
-Section was formerly classified to section 542 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 542 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2235. Working capital fund established; use of central services by bureaus, etc., of the Department
+## § 2235. Working capital fund established; use of central services by bureaus, etc., of the Department
 
 A working capital fund of $400,000 is established without fiscal year limitation, for the payment of salaries and other expenses necessary to the maintenance and operation of (1) central duplicating, photographic, and tabulating services, (2) a central motor-transport service for the maintenance, repair, and operation of motor-transport vehicles and other equipment, (3) a central supply service for the purchase, storage, handling, issuance, packing, or shipping of stationery, supplies, equipment, blank forms, and miscellaneous materials, for which stocks thereof, not to exceed $200,000 in value (except for the value of blank forms) at the close of any fiscal year, may be maintained sufficient to meet, in whole or in part, requirements of the bureaus and offices of the Department in the city of Washington and elsewhere, and (4) such other services as the Secretary, with the approval of the Director of the Office of Management and Budget, determines may be performed more advantageously as central services; said fund to be credited with advances or reimbursements from applicable funds of bureaus, offices, and agencies for which services are performed on the basis of rates which shall include estimated or actual charges for personal services, materials, equipment (including maintenance, repairs, and depreciation) and other expenses: *Provided*, That such advances shall not be available for any period beyond that provided by the Act appropriating the funds: *Provided further*, That such central services shall, to the fullest extent practicable, be used to make unnecessary the maintenance of separate like services in the bureaus, offices, and agencies of the department.
 
-(July 12, 1943, ch. 215, 57 Stat. 393; Pub. L. 89–106, § 7, Aug. 4, 1965, 79 Stat. 432; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
+(July 12, 1943, ch. 215, 57 Stat. 393; Pub. L. 89–106, § 7, Aug. 4, 1965, 79 Stat. 432; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 542–1 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 542–1 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -2618,11 +2618,11 @@ Section was formerly classified to section 542–1 of Title 5 prior to the gener
 
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of 1970 Reorg. Plan No. 2. Section 102 of 1970 Reorg. Plan No. 2, redesignated Bureau of the Budget as Office of Management and Budget and offices of Director, Deputy Director, and Assistant Directors of Bureau of the Budget as Director, Deputy Director, and Assistant Directors of Office of Management and Budget, respectively. Section 103 of 1970 Reorg. Plan No. 2, transferred records, property, personnel and funds of Bureau of the Budget to Office of Management and Budget. See Part I of Reorganization Plan No. 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 2235a. Deposit and retention of credit card refunds or rebates
+## § 2235a. Deposit and retention of credit card refunds or rebates
 
 On and after November 28, 2001, refunds or rebates received on an on-going basis from a credit card services provider under the Department of Agriculture’s charge card programs may be deposited to and retained without fiscal year limitation in the Department’s Working Capital Fund established under section 2235 of this title and used to fund management initiatives of general benefit to the Department of Agriculture bureaus and offices as determined by the Secretary of Agriculture or the Secretary’s designee.
 
-(Pub. L. 107–76, title VII, § 729, Nov. 28, 2001, 115 Stat. 736.)
+(Pub. L. 107–76, title VII, § 729, Nov. 28, 2001, 115 Stat. 736.)
 
 **Editorial Notes**
 
@@ -2630,21 +2630,21 @@ On and after November 28, 2001, refunds or rebates received on an on-going basis
 
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
-Pub. L. 106–387, § 1(a) [title I, § 757], Oct. 28, 2000, 114 Stat. 1549, 1549A–43.
+Pub. L. 106–387, § 1(a) [title I, § 757], Oct. 28, 2000, 114 Stat. 1549, 1549A–43.
 
-## § 2236. Working capital fund for Agricultural Research Center; establishment
+## § 2236. Working capital fund for Agricultural Research Center; establishment
 
 There is established a working capital fund of $300,000, to be available without fiscal year limitation, for expenses necessary for furnishing facilities and services by the Agricultural Research Center to Government agencies. Said fund shall be reimbursed from applicable appropriations or other funds to cover the charges for such facilities and services, including handling and related charges, for equipment rentals (including depreciation, maintenance, and repairs), for supplies, equipment and materials, stores of which may be maintained at the Center, and for building construction, alterations, and repairs, and applicable appropriations or other funds may also be charged their proportionate share of the necessary general expenses of the Center not covered by the annual appropriation.
 
-(Sept. 6, 1950, ch. 896, Ch. VI, title I, § 101, 64 Stat. 658.)
+(Sept. 6, 1950, ch. 896, Ch. VI, title I, § 101, 64 Stat. 658.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 542–2 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 542–2 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2237. Use of field work funds for employment of men with equipment, etc.
+## § 2237. Use of field work funds for employment of men with equipment, etc.
 
 Funds available for field work in the Department of Agriculture shall be available for employment by contract or otherwise of men with equipment, boats, work animals, animal-drawn, and motor-propelled vehicles.
 
@@ -2654,19 +2654,19 @@ Funds available for field work in the Department of Agriculture shall be availab
 
 **Codification**
 
-Section was formerly classified to section 542a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 542a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2238. Use of field work funds for purchase of arms and ammunition
+## § 2238. Use of field work funds for purchase of arms and ammunition
 
 Funds available for field work in the Department of Agriculture may be used for the purchase of arms and ammunition whenever the individual purchase does not exceed $50, and for individual purchases exceeding $50, when such arms and ammunition cannot advantageously be supplied by the Secretary of the Army pursuant to section 7655 of title 10.
 
-(June 4, 1936, ch. 489, 49 Stat. 1422; Pub. L. 115–232, div. A, title VIII, § 809(d), Aug. 13, 2018, 132 Stat. 1841.)
+(June 4, 1936, ch. 489, 49 Stat. 1422; Pub. L. 115–232, div. A, title VIII, § 809(d), Aug. 13, 2018, 132 Stat. 1841.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 542b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 542b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 The Department of War was designated the Department of the Army and the title of the Secretary of War was changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued the military Department of the Army under the administrative supervision of a Secretary of the Army.
 
@@ -2680,35 +2680,35 @@ The Department of War was designated the Department of the Army and the title of
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
 
-## § 2239. Funds for printing, binding, and scientific and technical article reprint purchases
+## § 2239. Funds for printing, binding, and scientific and technical article reprint purchases
 
 Funds available to the Department of Agriculture may be used for printing and binding, including the purchase of reprints of scientific and technical articles.
 
-(Sept. 6, 1950, ch. 896, Ch. VI, title IV, § 406, 64 Stat. 679.)
+(Sept. 6, 1950, ch. 896, Ch. VI, title IV, § 406, 64 Stat. 679.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 542c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 542c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2240. Reimbursement of appropriation for salaries and compensation of employees in mechanical shops
+## § 2240. Reimbursement of appropriation for salaries and compensation of employees in mechanical shops
 
 The Secretary of Agriculture may, by transfer settlements through the Government Accountability Office, reimburse any appropriation made for the salaries and compensation of employees in the mechanical shops of the department from the appropriation made for the bureau, office, or division for which any work in said shops is performed, and such reimbursement shall be at the actual cost of labor for such work.
 
-(May 11, 1922, ch. 185, 42 Stat. 508; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(May 11, 1922, ch. 185, 42 Stat. 508; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 543 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 543 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-## § 2241. Sale or exchange of animals or animal products
+## § 2241. Sale or exchange of animals or animal products
 
 The Secretary of Agriculture is authorized to sell in the open market or to exchange for other livestock such animals or animal products as cease to be needed in the work of the department, and all moneys received from the sale of such animals or animal products or as a bonus in the exchange of the same shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
@@ -2718,9 +2718,9 @@ The Secretary of Agriculture is authorized to sell in the open market or to exch
 
 **Codification**
 
-Section was formerly classified to section 549 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 549 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2241a. Exchange or sale authority
+## § 2241a. Exchange or sale authority
 
 **(a) Definition of qualified item of personal property** In this section, the term “qualified item of personal property” means—
 
@@ -2742,7 +2742,7 @@ Section was formerly classified to section 549 of Title 5 prior to the general r
 
 Subsection (b) does not apply to the free dissemination of new varieties of seeds and germplasm in accordance with section 2201 of this title.
 
-(Pub. L. 103–354, title III, § 307, as added Pub. L. 110–234, title VII, § 7408, May 22, 2008, 122 Stat. 1252, and Pub. L. 110–246, § 4(a), title VII, § 7408, June 18, 2008, 122 Stat. 1664, 2013; amended Pub. L. 113–79, title VII, § 7605, Feb. 7, 2014, 128 Stat. 912.)
+(Pub. L. 103–354, title III, § 307, as added Pub. L. 110–234, title VII, § 7408, May 22, 2008, 122 Stat. 1252, and Pub. L. 110–246, § 4(a), title VII, § 7408, June 18, 2008, 122 Stat. 1664, 2013; amended Pub. L. 113–79, title VII, § 7605, Feb. 7, 2014, 128 Stat. 912.)
 
 **Editorial Notes**
 
@@ -2752,7 +2752,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2014—Pub. L. 113–79 made technical amendment to directory language of Pub. L. 110–246, § 7408, which enacted this section.
+2014—Pub. L. 113–79 made technical amendment to directory language of Pub. L. 110–246, § 7408, which enacted this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2760,11 +2760,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 2241b. Purchase of seeds and plants for distribution
+## § 2241b. Purchase of seeds and plants for distribution
 
 Purchase and distribution of vegetable, field, and flower seeds, plants, shrubs, vines, bulbs, and cuttings shall be of the freshest and best obtainable varieties and adapted to general cultivation.
 
-(R.S. § 527; Apr. 25, 1896, ch. 140, 29 Stat. 106.)
+(R.S. § 527; Apr. 25, 1896, ch. 140, 29 Stat. 106.)
 
 **Editorial Notes**
 
@@ -2776,11 +2776,11 @@ Section was formerly classified to section 415 of this title prior to editorial 
 
 1896—Act Apr. 25, 1896, struck out “by the Department of Agriculture” and “trees”, and inserted “vegetable, field, and flower seeds” and “bulbs”.
 
-## § 2242. Repealed. Pub. L. 101–624, title XVI, § 1606(b)(1), (2), Nov. 28, 1990, 104 Stat. 3715
+## § 2242. Repealed. Pub. L. 101–624, title XVI, § 1606(b)(1), (2), Nov. 28, 1990, 104 Stat. 3715
 
 Section, acts May 23, 1908, ch. 192, 35 Stat. 264, 266; Mar. 4, 1915, ch. 144, 38 Stat. 1109, provided for sale of copies of card index of publications. See section 3125a of this title.
 
-## § 2242a. User fees for reports, publications, and software
+## § 2242a. User fees for reports, publications, and software
 
 **(a) Authority of Secretary** The Secretary of Agriculture may—
 
@@ -2802,7 +2802,7 @@ The imposition of such charges shall be consistent with section 9701 of title 31
 
 Any fees collected, late payment penalties, and interest earned shall be credited to the account referred to in this section and may be invested by the Secretary of Agriculture in insured or fully-collateralized interest-bearing accounts or, at the discretion of the Secretary of Agriculture, by the Secretary of the Treasury in United States Government debt instruments. Fees and charges, including late payment penalties and interest earned from the investment of such funds shall be credited to such account.
 
-(Pub. L. 97–98, title XI, § 1121, Dec. 22, 1981, 95 Stat. 1273; Pub. L. 99–198, title XVII, § 1769, Dec. 23, 1985, 99 Stat. 1656; Pub. L. 101–624, title XXV, § 2510, Nov. 28, 1990, 104 Stat. 4073.)
+(Pub. L. 97–98, title XI, § 1121, Dec. 22, 1981, 95 Stat. 1273; Pub. L. 99–198, title XVII, § 1769, Dec. 23, 1985, 99 Stat. 1656; Pub. L. 101–624, title XXV, § 2510, Nov. 28, 1990, 104 Stat. 4073.)
 
 **Editorial Notes**
 
@@ -2818,11 +2818,11 @@ Any fees collected, late payment penalties, and interest earned shall be credite
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-## § 2242b. Translation of publications into foreign languages
+## § 2242b. Translation of publications into foreign languages
 
 On and after October 28, 1991, funds appropriated to the Department of Agriculture by this Act may be used for translation of publications of the Department of Agriculture into foreign languages when determined by the Secretary to be in the public interest.
 
-(Pub. L. 102–142, title VII, § 721, Oct. 28, 1991, 105 Stat. 913.)
+(Pub. L. 102–142, title VII, § 721, Oct. 28, 1991, 105 Stat. 913.)
 
 **Editorial Notes**
 
@@ -2830,7 +2830,7 @@ On and after October 28, 1991, funds appropriated to the Department of Agricultu
 
 This Act, referred to in text, is Pub. L. 102–142, Oct. 28, 1991, 105 Stat. 878, known as the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1992. For complete classification of this Act to the Code, see Tables.
 
-## § 2243. Sale of photographic prints and maps
+## § 2243. Sale of photographic prints and maps
 
 The Secretary of Agriculture may dispose of photographic prints (including bromide enlargements), lantern slides, transparencies, blueprints, and forest maps at cost and 10 per centum additional, and condemned property or materials under his charge in the same manner as provided by law for other bureaus.
 
@@ -2840,11 +2840,11 @@ The Secretary of Agriculture may dispose of photographic prints (including bromi
 
 **Codification**
 
-Section was formerly classified to section 552 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 552 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2244. Repealed. Pub. L. 101–624, title XVI, § 1606(b)(3), Nov. 28, 1990, 104 Stat. 3715
+## § 2244. Repealed. Pub. L. 101–624, title XVI, § 1606(b)(3), Nov. 28, 1990, 104 Stat. 3715
 
-Section, act Sept. 21, 1944, ch. 412, title VII, § 708, 58 Stat. 742, provided for manufacture and sale of copies of bibliographies, photographic reproductions of books, and library supplies. See section 3125a of this title.
+Section, act Sept. 21, 1944, ch. 412, title VII, § 708, 58 Stat. 742, provided for manufacture and sale of copies of bibliographies, photographic reproductions of books, and library supplies. See section 3125a of this title.
 
 Provisions similar to those in this section were contained in the following Department of Agriculture Appropriation Acts:
 
@@ -2854,7 +2854,7 @@ July 12, 1943, ch. 215, 57 Stat. 396.
 
 July 22, 1942, ch. 516, 56 Stat. 665.
 
-## § 2245. Sale of prints and lantern slides
+## § 2245. Sale of prints and lantern slides
 
 The Secretary of Agriculture is authorized to furnish, upon application, prints and lantern slides from negatives in the possession of the department and to charge for the same a price to cover the cost of preparation, such price to be determined and established by the Secretary of Agriculture, and the money received from such sales to be deposited in the Treasury of the United States.
 
@@ -2864,9 +2864,9 @@ The Secretary of Agriculture is authorized to furnish, upon application, prints 
 
 **Codification**
 
-Section was formerly classified to section 553 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 553 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2246. Loan, rental, or sale of films
+## § 2246. Loan, rental, or sale of films
 
 The Secretary of Agriculture is authorized, under such rules and regulations and subject to such conditions as he may prescribe, to loan, rent, or sell copies of films. In the sale or rental of films educational institutions or associations for agricultural education not organized for profit shall have preference; all moneys received from such rentals or sales to be covered into the Treasury of the United States as miscellaneous receipts.
 
@@ -2876,9 +2876,9 @@ The Secretary of Agriculture is authorized, under such rules and regulations and
 
 **Codification**
 
-Section was formerly classified to section 554 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 554 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2247. Sale of samples of pure sugars
+## § 2247. Sale of samples of pure sugars
 
 The Secretary of Agriculture may furnish, upon application, samples of pure sugars, naval stores, microscopical specimens, and other products to State and municipal officers, educational institutions, and other parties and charge for the same a price to cover the cost thereof, such price to be determined and established by the Secretary, and the money received from sales to be deposited in the Treasury of the United States as miscellaneous receipts.
 
@@ -2888,13 +2888,13 @@ The Secretary of Agriculture may furnish, upon application, samples of pure suga
 
 **Codification**
 
-Section was formerly classified to section 555 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 555 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2247a. Farm or food products; sale of samples, practical forms, etc.
+## § 2247a. Farm or food products; sale of samples, practical forms, etc.
 
 The Secretary of Agriculture is authorized to sell samples, illustrations, practical forms, or sets of the grades recommended or promulgated by him for farm or food products, under such rules and regulations as he may prescribe, and the receipts therefrom shall be deposited in the Treasury to the credit of miscellaneous receipts.
 
-(Sept. 21, 1944, ch. 412, title IV, § 401(a), 58 Stat. 738.)
+(Sept. 21, 1944, ch. 412, title IV, § 401(a), 58 Stat. 738.)
 
 **Editorial Notes**
 
@@ -2918,7 +2918,7 @@ June 25, 1940, ch. 421, 54 Stat. 555.
 
 June 30, 1939, ch. 253, title I, 53 Stat. 968.
 
-## § 2248. Statistics relating to turpentine and rosin
+## § 2248. Statistics relating to turpentine and rosin
 
 The Secretary of Agriculture is authorized and directed to collect and/or compile and publish annually, and at such other times, and in such form and on such date or dates as he shall prescribe, statistics and essential information relating to spirits of turpentine and rosin produced, held, and used in the domestic and foreign commerce of the United States.
 
@@ -2928,19 +2928,19 @@ The Secretary of Agriculture is authorized and directed to collect and/or compil
 
 **Codification**
 
-Section was formerly classified to section 556b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 556b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2249. Amount and character of cooperation
+## § 2249. Amount and character of cooperation
 
 Unless otherwise provided by the Department of Agriculture Organic Act of 1944 or by other statute, the measure and character of cooperation authorized by said Act on the part of the Federal Government and on the part of the cooperator shall be such as may be prescribed by the Secretary, unless otherwise provided for in the applicable appropriation.
 
-(Sept. 21, 1944, ch. 412, title VII, § 711, 58 Stat. 743.)
+(Sept. 21, 1944, ch. 412, title VII, § 711, 58 Stat. 743.)
 
 **Editorial Notes**
 
@@ -2952,19 +2952,19 @@ The Department of Agriculture Organic Act of 1944, referred to in text, is act S
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to section 564a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 564a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2250. Construction and repair of buildings and public improvements
+## § 2250. Construction and repair of buildings and public improvements
 
 The Department of Agriculture is authorized to erect, alter, and repair such buildings and other public improvements as may be necessary to carry out its authorized work: *Provided*, That no building or improvement shall be erected or altered under this authority unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein.
 
-(Sept. 21, 1944, ch. 412, title VII, § 703, 58 Stat. 742.)
+(Sept. 21, 1944, ch. 412, title VII, § 703, 58 Stat. 742.)
 
 **Editorial Notes**
 
@@ -2972,35 +2972,35 @@ The Department of Agriculture is authorized to erect, alter, and repair such bui
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to section 565a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 565a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2250a. Erection of buildings and other structures on non-Federal lands; duration of use of such lands; removal of structures after termination of use; availability of funds for expenses of acquiring long-term leases or other agreements
+## § 2250a. Erection of buildings and other structures on non-Federal lands; duration of use of such lands; removal of structures after termination of use; availability of funds for expenses of acquiring long-term leases or other agreements
 
 Notwithstanding the provisions of existing law, except the Commodity Credit Corporation Charter Act [15 U.S.C. 714 et seq.] and without regard to sections 3111 and 3112 of title 40, but within the limitations of cost otherwise applicable, appropriations of the Department of Agriculture may be expended for the erection of buildings and other structures on land owned by States, counties, municipalities, or other political subdivisions, corporations, or individuals: *Provided*, That prior to such erection there is obtained the right to use the land for the estimated life of or need for the structure, including the right to remove any such structure within a reasonable time after the termination of the right to use the land: *Provided further*, That appropriations and funds available to the Department of Agriculture shall be available for expenses in connection with acquiring the right to use land for such purposes under long-term lease or other agreement.
 
-(Pub. L. 89–106, § 1, Aug. 4, 1965, 79 Stat. 431.)
+(Pub. L. 89–106, § 1, Aug. 4, 1965, 79 Stat. 431.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat. 1070, and is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat. 1070, and is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
 **Codification**
 
-Section was formerly classified to section 565b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 565b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-“Sections 3111 and 3112 of title 40” substituted in text for “section 355, Revised Statutes, as amended (40 U.S.C. 255)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3111 and 3112 of title 40” substituted in text for “section 355, Revised Statutes, as amended (40 U.S.C. 255)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-## § 2250b. Nonrecurring expenses fund
+## § 2250b. Nonrecurring expenses fund
 
 There is hereby established in the Treasury of the United States a fund to be known as the “Nonrecurring expenses fund” (the Fund): *Provided*, That unobligated balances of expired discretionary funds appropriated in this or any succeeding fiscal year from the General Fund of the Treasury to the Department of Agriculture (except the Forest Service) by this or any other Act may be transferred (not later than the end of the fifth fiscal year after the last fiscal year for which such funds are available for the purposes for which appropriated) into the Fund: *Provided further*, That amounts deposited in the Fund shall be available until expended, and in addition to such other funds as may be available for such purposes, for facilities infrastructure and information technology services.1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 necessary for the operation of the Department of Agriculture, subject to approval by the Office of Management and Budget: *Provided further*, That amounts in the Fund may be obligated only after the Committees on Appropriations of the House of Representatives and the Senate are notified at least 15 days in advance of the planned use of funds.
 
-(Pub. L. 113–235, div. A, title VII, § 742, Dec. 16, 2014, 128 Stat. 2170; Pub. L. 118–42, div. B, title VII, § 779, Mar. 9, 2024, 138 Stat. 117.)
+(Pub. L. 113–235, div. A, title VII, § 742, Dec. 16, 2014, 128 Stat. 2170; Pub. L. 118–42, div. B, title VII, § 779, Mar. 9, 2024, 138 Stat. 117.)
 
 **Editorial Notes**
 
@@ -3016,17 +3016,17 @@ Pub. L. 118–42, which directed the amendment of section 2250b of title 7, Unit
 
 2024—Pub. L. 118–42 substituted “infrastructure and information technology services. necessary” for “infrastructure capital acquisition necessary”. See Codification note above.
 
-## § 2251. Reimbursement of Production and Marketing Administration appropriations for expenses of maintaining registers of indebtedness and making set-offs
+## § 2251. Reimbursement of Production and Marketing Administration appropriations for expenses of maintaining registers of indebtedness and making set-offs
 
 Beginning with the fiscal year 1942, each appropriation to enable the Secretary of Agriculture to carry into effect any program administered through the Production and Marketing Administration may, in the discretion of the Secretary, be reimbursed out of the then current appropriation for the agency affected, for a fair share of the administrative expense, as estimated periodically or in advance by the Production and Marketing Administration of maintaining registers of indebtedness and making, out of such Production and Marketing Administration appropriation, set-offs under the order entered by the Secretary on May 8, 1937, as heretofore or hereafter amended, in favor of any other agency of the Government.
 
-(July 22, 1942, ch. 516, 56 Stat. 691; 1946 Reorg. Plan No. 3, § 501(a), eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1100.)
+(July 22, 1942, ch. 516, 56 Stat. 691; 1946 Reorg. Plan No. 3, § 501(a), eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1100.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 566 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 566 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
@@ -3034,15 +3034,15 @@ Section was formerly classified to section 566 of Title 5 prior to the general r
 
 Production and Marketing Administration functions transferred to other units of Department of Agriculture under Secretary’s memorandum 1320, supp. 4, of Nov. 2, 1953.
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 Agriculture Adjustment Administration consolidated into Production and Marketing Administration by Secretary of Agriculture’s Memorandum No. 1118, Aug. 18, 1945, which consolidation was ratified by 1946 Reorg. Plan No. 3, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 2252. Reimbursement of Production and Marketing Administration appropriations for costs of procuring agricultural commodities for nongovernmental agencies or foreign governments
+## § 2252. Reimbursement of Production and Marketing Administration appropriations for costs of procuring agricultural commodities for nongovernmental agencies or foreign governments
 
 Applicable appropriations available to the Production and Marketing Administration current at the time services are rendered or payment therefore is received may be reimbursed by nongovernmental agencies or foreign governments (by advance credits or reimbursements) for the actual or estimated costs, as determined by the Production and Marketing Administration, incident to procuring agricultural commodities for such nongovernmental agencies or foreign governments.
 
-(Sept. 21, 1944, ch. 412, title IV, § 402, 58 Stat. 738; Ex. Ord. No. 9577, June 29, 1945, 10 F.R. 4253.)
+(Sept. 21, 1944, ch. 412, title IV, § 402, 58 Stat. 738; Ex. Ord. No. 9577, June 29, 1945, 10 F.R. 4253.)
 
 **Editorial Notes**
 
@@ -3050,7 +3050,7 @@ Applicable appropriations available to the Production and Marketing Administrati
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to section 569 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 569 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
@@ -3058,21 +3058,21 @@ Section was formerly classified to section 569 of Title 5 prior to the general r
 
 Production and Marketing Administration functions transferred to other units in Department of Agriculture under Secretary’s memorandum 1320, supp. 4, of Nov. 2, 1953.
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 War Food Administration terminated by Ex. Ord. No. 9577, and all functions transferred to Secretary of Agriculture, who established Production and Marketing Administration, under authority of said Ex. Ord. No. 9577, to administer functions of many of marketing and production agencies, including those functions of former War Food Administration.
 
-## § 2253. Adjustment by Secretary of titles to lands acquired by Government and subject to his control
+## § 2253. Adjustment by Secretary of titles to lands acquired by Government and subject to his control
 
 If the Secretary of Agriculture shall find after the acquisition by the United States of any land or interest therein which is subject to his administration, custody, or control, other than land acquired by exchange of public domain land or resources, that the title thereto is legally insufficient for the purposes for which such land or interest was acquired and no consideration therefor has been paid by the United States, or that title or color of title to such land or interest was acquired through mistake, misunderstanding, error, or inadvertence, he is authorized to execute and deliver on behalf of and in the name of the United States to the person from whom the title was acquired or to the person whom he finds entitled thereto a quitclaim deed to such land or interest: *Provided, however*, That if the person to whom such deed is made is the same person from whom the United States acquired title, or his successor in interest, any consideration given by the United States for such land or interest shall be restored or, in lieu thereof, the value equivalent of such consideration as determined by the Secretary of Agriculture shall be paid to the United States; and any consideration or value equivalent so restored or paid shall, so far as is practicable, be restored to the jurisdiction, or deposited to the credit, of the department, agency, appropriation, or fund from which the consideration was transferred or paid at the time of the acquisition of title by the United States.
 
-(July 8, 1943, ch. 197, 57 Stat. 388; Mar. 3, 1952, ch. 72, 66 Stat. 11; Pub. L. 87–869, § 2, Oct. 23, 1962, 76 Stat. 1157.)
+(July 8, 1943, ch. 197, 57 Stat. 388; Mar. 3, 1952, ch. 72, 66 Stat. 11; Pub. L. 87–869, § 2, Oct. 23, 1962, 76 Stat. 1157.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 567 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 567 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -3084,9 +3084,9 @@ Section was formerly classified to section 567 of Title 5 prior to the general r
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2254. Operation, maintenance and purchase of aircraft by Agricultural Research Service; construction and repair of buildings
+## § 2254. Operation, maintenance and purchase of aircraft by Agricultural Research Service; construction and repair of buildings
 
 Appropriations for the Agricultural Research Service shall be available for the operation and maintenance of aircraft and the purchase of not to exceed one for replacement only and pursuant to section 2250 of this title for the construction, alteration, and repair of buildings and improvements.
 
@@ -3098,7 +3098,7 @@ Appropriations for the Agricultural Research Service shall be available for the 
 
 Section is from the appropriation act cited as the credit to this section.
 
-Section was formerly classified to section 568a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 568a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Prior Provisions**
 
@@ -3146,11 +3146,11 @@ Pub. L. 108–7, div. A, title I, Feb. 20, 2003, 117 Stat. 16.
 
 Pub. L. 107–76, title I, Nov. 28, 2001, 115 Stat. 708.
 
-Pub. L. 106–387, § 1(a) [title I], Oct. 28, 2000, 114 Stat. 1549, 1549A–5.
+Pub. L. 106–387, § 1(a) [title I], Oct. 28, 2000, 114 Stat. 1549, 1549A–5.
 
 Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1139.
 
-Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681, 2681–4.
+Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681, 2681–4.
 
 Pub. L. 105–86, title I, Nov. 18, 1997, 111 Stat. 2083.
 
@@ -3172,11 +3172,11 @@ Pub. L. 101–161, title I, Nov. 21, 1989, 103 Stat. 955, 956.
 
 Pub. L. 100–460, title I, Oct. 1, 1988, 102 Stat. 2233.
 
-Pub. L. 100–202, § 101(k) [title I], Dec. 22, 1987, 101 Stat. 1329–322, 1329–327.
+Pub. L. 100–202, § 101(k) [title I], Dec. 22, 1987, 101 Stat. 1329–322, 1329–327.
 
-Pub. L. 99–500, § 101(a) [title I], Oct. 18, 1986, 100 Stat. 1783, 1783–4, and Pub. L. 99–591, § 101(a) [title I], Oct. 30, 1986, 100 Stat. 3341, 3341–4.
+Pub. L. 99–500, § 101(a) [title I], Oct. 18, 1986, 100 Stat. 1783, 1783–4, and Pub. L. 99–591, § 101(a) [title I], Oct. 30, 1986, 100 Stat. 3341, 3341–4.
 
-Pub. L. 99–190, § 101(a) [H.R. 3037, title I], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
+Pub. L. 99–190, § 101(a) [H.R. 3037, title I], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
 
 Pub. L. 97–370, title I, Dec. 18, 1982, 96 Stat. 1789.
 
@@ -3254,7 +3254,7 @@ June 22, 1946, ch. 445, 60 Stat. 276.
 
 May 5, 1945, ch. 109, 59 Stat. 142.
 
-## § 2254a. Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products
+## § 2254a. Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products
 
 On and after December 26, 2007, none of the funds appropriated under this heading shall be available to carry out research related to the production, processing, or marketing of tobacco or tobacco products.
 
@@ -3266,7 +3266,7 @@ On and after December 26, 2007, none of the funds appropriated under this headin
 
 This heading, referred to in text, refers to the headings “Agricultural Research Service” and “salaries and expenses” of title I of div. A of the Consolidated Appropriations Act, 2008, Pub. L. 110–161.
 
-## § 2254b. Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products; exception
+## § 2254b. Availability of funds appropriated for Agricultural Research Service for research related to tobacco or tobacco products; exception
 
 On and after December 26, 2007, none of the funds appropriated under this heading shall be available to carry out research related to the production, processing, or marketing of tobacco or tobacco products: *Provided further*, That on and after December 26, 2007, this paragraph shall not apply to research on the medical, biotechnological, food, and industrial uses of tobacco.
 
@@ -3278,11 +3278,11 @@ On and after December 26, 2007, none of the funds appropriated under this headin
 
 This heading, referred to in text, refers to the headings “Cooperative State Research, Education, and Extension Service” and “research and education activities” of title I of div. A of the Consolidated Appropriations Act, 2008, Pub. L. 110–161.
 
-## § 2254c. Research
+## § 2254c. Research
 
 There is appropriated, out of any funds in the Treasury not otherwise appropriated, $20,000,000 for each of fiscal years 2021 and 2022 for the Agricultural Research Service to address gaps in nutrition research at the critical intersections of responsive agriculture, quality food production, and human nutrition and health.
 
-(Pub. L. 116–260, div. N, title VII, § 756, Dec. 27, 2020, 134 Stat. 2109; Pub. L. 117–158, § 4(c), June 25, 2022, 136 Stat. 1312.)
+(Pub. L. 116–260, div. N, title VII, § 756, Dec. 27, 2020, 134 Stat. 2109; Pub. L. 117–158, § 4(c), June 25, 2022, 136 Stat. 1312.)
 
 **Editorial Notes**
 
@@ -3290,11 +3290,11 @@ There is appropriated, out of any funds in the Treasury not otherwise appropriat
 
 2022—Pub. L. 117–158 substituted “for each of fiscal years 2021 and 2022” for “for fiscal year 2021 and each fiscal year thereafter”.
 
-## § 2255. Membership in International Wheat Advisory Committee, International Sugar Council, etc.
+## § 2255. Membership in International Wheat Advisory Committee, International Sugar Council, etc.
 
 The Secretary of Agriculture is authorized to expend funds, available for agricultural conservation, adjustment, and land use programs, for the share of the United States as a member of the International Wheat Advisory Committee, the International Sugar Council, or like events or bodies concerned with the objectives of said program, together with traveling and other necessary expenses relating thereto: *Provided*, That expenditures under this authority shall not be made unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein.
 
-(Sept. 21, 1944, ch. 412, title VII, § 701(a), 58 Stat. 741.)
+(Sept. 21, 1944, ch. 412, title VII, § 701(a), 58 Stat. 741.)
 
 **Editorial Notes**
 
@@ -3302,21 +3302,21 @@ The Secretary of Agriculture is authorized to expend funds, available for agricu
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to sections 570 and 574 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to sections 570 and 574 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-## § 2255a. Financial assistance to national and international conferences
+## § 2255a. Financial assistance to national and international conferences
 
 On and after October 21, 1993, appropriations available to the Department of Agriculture can be used to provide financial assistance to the organizers of national and international conferences, if such conferences are in support of agency programs.
 
 (Pub. L. 103–111, title I, Oct. 21, 1993, 107 Stat. 1050.)
 
-## § 2255b. Department of Agriculture conference transparency
+## § 2255b. Department of Agriculture conference transparency
 
 **(a) Report**
 
@@ -3362,7 +3362,7 @@ Each report submitted in accordance with subsection (a) shall be posted in a sea
 
 **(2)** does not include any training program that is continuing education or a curriculum-based educational program, provided that such training program is held independent of a conference of a non-governmental organization.
 
-(Pub. L. 110–234, title XIV, § 14208, May 22, 2008, 122 Stat. 1462; Pub. L. 110–246, § 4(a), title XIV, § 14208, June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 115–334, title XII, § 12611, Dec. 20, 2018, 132 Stat. 5013.)
+(Pub. L. 110–234, title XIV, § 14208, May 22, 2008, 122 Stat. 1462; Pub. L. 110–246, § 4(a), title XIV, § 14208, June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 115–334, title XII, § 12611, Dec. 20, 2018, 132 Stat. 5013.)
 
 **Editorial Notes**
 
@@ -3380,11 +3380,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-## § 2256. Inspections, analyses, and tests for other Government departments and agencies; reimbursement
+## § 2256. Inspections, analyses, and tests for other Government departments and agencies; reimbursement
 
 The head of any department or independent establishment of the Government requiring inspections, analyses, and tests of food and other products, within the scope of the functions of the Department of Agriculture and which that Department is unable to perform within the limits of its appropriations, may, with the approval of the Secretary, transfer to the Department for direct expenditure such sums as may be necessary for the performance of such work.
 
-(Sept. 21, 1944, ch. 412, title VII, § 702(a), 58 Stat. 741.)
+(Sept. 21, 1944, ch. 412, title VII, § 702(a), 58 Stat. 741.)
 
 **Editorial Notes**
 
@@ -3392,13 +3392,13 @@ The head of any department or independent establishment of the Government requir
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to section 571 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 571 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2257. Interchangeability of funds for miscellaneous expenses and general expenses
+## § 2257. Interchangeability of funds for miscellaneous expenses and general expenses
 
 Not to exceed 7 per centum of the amounts appropriated for any fiscal year for the miscellaneous expenses of the work of any bureau, division, or office of the Department of Agriculture shall be available interchangeably for expenditures on the objects included within the general expenses of such bureau, division, or office, but no more than 7 per centum shall be added to any one item of appropriation except in cases of extraordinary emergency.
 
-(Sept. 21, 1944, ch. 412, title VII, § 702(b), 58 Stat. 741.)
+(Sept. 21, 1944, ch. 412, title VII, § 702(b), 58 Stat. 741.)
 
 **Editorial Notes**
 
@@ -3406,13 +3406,13 @@ Not to exceed 7 per centum of the amounts appropriated for any fiscal year for t
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to section 572 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 572 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2258. Purchase of newspapers
+## § 2258. Purchase of newspapers
 
 The Department of Agriculture is authorized to subscribe for such newspapers as may be necessary to carry out its authorized work.
 
-(Sept. 21, 1944, ch. 412, title VII, § 704, 58 Stat. 742; Pub. L. 110–161, div. A, title VII, § 740, Dec. 26, 2007, 121 Stat. 1881.)
+(Sept. 21, 1944, ch. 412, title VII, § 704, 58 Stat. 742; Pub. L. 110–161, div. A, title VII, § 740, Dec. 26, 2007, 121 Stat. 1881.)
 
 **Editorial Notes**
 
@@ -3420,17 +3420,17 @@ The Department of Agriculture is authorized to subscribe for such newspapers as 
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to section 573 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 573 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
-2007—Pub. L. 110–161 struck out “: *Provided*, That purchases under this authority shall not be made unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein” before period at end.
+2007—Pub. L. 110–161 struck out “: *Provided*, That purchases under this authority shall not be made unless provision is made therefor in the applicable appropriation and the cost thereof is not in excess of limitations prescribed therein” before period at end.
 
-## § 2259. Market-inspection certificates as prima facie evidence
+## § 2259. Market-inspection certificates as prima facie evidence
 
 Market-inspection certificates issued by authorized agents of the Department of Agriculture shall be received in all courts of the United States as prima facie evidence of the truth of the statements therein contained.
 
-(Sept. 21, 1944, ch. 412, title IV, § 401(c), 58 Stat. 738.)
+(Sept. 21, 1944, ch. 412, title IV, § 401(c), 58 Stat. 738.)
 
 **Editorial Notes**
 
@@ -3438,39 +3438,39 @@ Market-inspection certificates issued by authorized agents of the Department of 
 
 This section was enacted as part of the Department of Agriculture Organic Act of 1944.
 
-Section was formerly classified to section 575 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 575 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## §§ 2260, 2260a. Repealed. Pub. L. 107–171, title X, § 10418(a)(3), (4), May 13, 2002, 116 Stat. 507
+## §§ 2260, 2260a. Repealed. Pub. L. 107–171, title X, § 10418(a)(3), (4), May 13, 2002, 116 Stat. 507
 
 Section 2260, act Aug. 28, 1950, ch. 815, 64 Stat. 561, related to inspection or quarantine services involving overtime furnished upon a reimbursable basis.
 
-Section 2260a, Pub. L. 104–127, title IX, § 919, Apr. 4, 1996, 110 Stat. 1191, related to reimbursable agreements.
+Section 2260a, Pub. L. 104–127, title IX, § 919, Apr. 4, 1996, 110 Stat. 1191, related to reimbursable agreements.
 
-## § 2261. Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs
+## § 2261. Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs
 
 In the conduct of foreign market development programs, the Secretary of Agriculture is authorized to credit contributions from individuals, firms, associations, agencies, and other groups, and the proceeds received from space rentals, and sales of products and materials at exhibitions, to the appropriations charged with the cost of acquiring such space, products, and materials.
 
-(Pub. L. 87–128, title II, § 203, Aug. 8, 1961, 75 Stat. 307.)
+(Pub. L. 87–128, title II, § 203, Aug. 8, 1961, 75 Stat. 307.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 577 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 577 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2262. Employee liability insurance on motor vehicles in foreign countries
+## § 2262. Employee liability insurance on motor vehicles in foreign countries
 
 The Secretary of Agriculture is authorized to obtain insurance to cover the liability of any employee of the Department of Agriculture for damage to or loss of property or personal injury or death caused by the act or omission of any such employee while acting within the scope of his office or employment and while operating a motor vehicle belonging to the United States in a foreign country.
 
-(Pub. L. 89–106, § 3, Aug. 4, 1965, 79 Stat. 431.)
+(Pub. L. 89–106, § 3, Aug. 4, 1965, 79 Stat. 431.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 578 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 578 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2262a. Overseas tort claims
+## § 2262a. Overseas tort claims
 
 **(a) In general**
 
@@ -3484,39 +3484,39 @@ A claim may not be allowed under this section unless the claim is presented in w
 
 Notwithstanding any other provision of law, an award or denial of a claim by the Secretary of Agriculture under this section is final.
 
-(Pub. L. 104–127, title IX, § 920, Apr. 4, 1996, 110 Stat. 1191.)
+(Pub. L. 104–127, title IX, § 920, Apr. 4, 1996, 110 Stat. 1191.)
 
-## § 2263. Transfer of funds
+## § 2263. Transfer of funds
 
 Subject to limitations applicable with respect to each appropriation concerned, each appropriation available to the Department of Agriculture may be charged, at any time during a fiscal year, for the benefit of any other appropriation available to the Department, for the purpose of financing the procurement of materials and services, or financing activities or other costs, for which funds are available both in the financing appropriation so charged and in the appropriation so benefited; except that such expenses so financed shall be charged on a final basis, as of a date not later than the close of such fiscal year, to the appropriations so benefited, with appropriate credit to the financing appropriation.
 
-(Pub. L. 89–106, § 8, Aug. 4, 1965, 79 Stat. 432.)
+(Pub. L. 89–106, § 8, Aug. 4, 1965, 79 Stat. 432.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 579 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 579 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2264. National Agricultural Library; acceptance of gifts, bequests, or devises; conditional gifts
+## § 2264. National Agricultural Library; acceptance of gifts, bequests, or devises; conditional gifts
 
 The Secretary of Agriculture is hereby authorized to accept, receive, hold, and administer on behalf of the United States gifts, bequests, or devises of real and personal property made unconditionally for the benefit of the National Agricultural Library or for the carrying out of any of its functions. Conditional gifts may be accepted and used in accordance with their provisions provided that no gift may be accepted which is conditioned on any expenditure not to be met therefrom or from the income thereof unless such expenditure has been approved by Act of Congress.
 
-(Pub. L. 91–591, § 2, Dec. 28, 1970, 84 Stat. 1588.)
+(Pub. L. 91–591, § 2, Dec. 28, 1970, 84 Stat. 1588.)
 
-## § 2265. Deposit of money accepted for benefit of National Agricultural Library; disbursement
+## § 2265. Deposit of money accepted for benefit of National Agricultural Library; disbursement
 
 Any gift of money accepted pursuant to the authority granted in section 2264 of this title, or the net proceeds from the liquidation of any other property so accepted, or the proceeds of any insurance on any gift property not used for its restoration shall be deposited in the Treasury of the United States for credit to a separate account and shall be disbursed upon order of the Secretary of Agriculture.
 
-(Pub. L. 91–591, § 3, Dec. 28, 1970, 84 Stat. 1588.)
+(Pub. L. 91–591, § 3, Dec. 28, 1970, 84 Stat. 1588.)
 
-## § 2266. Congressional reaffirmation of policy to foster and encourage family farms
+## § 2266. Congressional reaffirmation of policy to foster and encourage family farms
 
 **(a)** Congress reaffirms the historical policy of the United States to foster and encourage the family farm system of agriculture in this country. Congress believes that the maintenance of the family farm system of agriculture is essential to the social well-being of the Nation and the competitive production of adequate supplies of food and fiber. Congress further believes that any significant expansion of nonfamily owned large-scale corporate farming enterprises will be detrimental to the national welfare. It is neither the policy nor the intent of Congress that agricultural and agriculture-related programs be administered exclusively for family farm operations, but it is the policy and the express intent of Congress that no such program be administered in a manner that will place the family farm operation at an unfair economic disadvantage.
 
 **(b)** Omitted
 
-(Pub. L. 95–113, title I, § 102, Sept. 29, 1977, 91 Stat. 918; Pub. L. 97–98, title XVI, § 1608, Dec. 22, 1981, 95 Stat. 1347; Pub. L. 99–198, title XIV, § 1441, Dec. 23, 1985, 99 Stat. 1560.)
+(Pub. L. 95–113, title I, § 102, Sept. 29, 1977, 91 Stat. 918; Pub. L. 97–98, title XVI, § 1608, Dec. 22, 1981, 95 Stat. 1347; Pub. L. 99–198, title XIV, § 1441, Dec. 23, 1985, 99 Stat. 1560.)
 
 **Editorial Notes**
 
@@ -3542,9 +3542,9 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 **Study of Impact of Prohibitions on Payments to Certain Corporations Under Wheat, Feed Grains, Cotton, and Rice Programs; Report by January 1, 1979**
 
-Pub. L. 95–113, title I, § 103, Sept. 29, 1977, 91 Stat. 919, provided that in furtherance of the policy stated in section 102 of this Act [this section], the Secretary of Agriculture was to conduct a study and report to Congress no later than January 1, 1979, on the impact on participation in the wheat, feed grain, cotton, and rice programs and the production of such commodities in carrying out a statutory provision such as that included in the Food and Agriculture Act of 1977, as passed by the Senate on May 24, 1977 [see Short Title of 1977 Amendment note set out under section 1281 of this title], prohibiting the making of payments to certain corporations and other entities under such programs, which study was to assess the impact of extending the prohibition against making commodity program payments to tenants on land owned by such corporations and other entities which would be excluded from payments under such a provision, and was to utilize the information on commodity program payments compiled by the Agricultural Stabilization and Conservation Service in determining payment eligibility under section 101 of the Agricultural Act of 1970, as amended [section 1307 of this title], and section 101 of this Act [section 1308 of this title]. The Secretary was authorized to collect such other information as necessary to determine the impact of such a statutory provision and to identify the number and characteristics of producers that would be affected by such a provision.
+Pub. L. 95–113, title I, § 103, Sept. 29, 1977, 91 Stat. 919, provided that in furtherance of the policy stated in section 102 of this Act [this section], the Secretary of Agriculture was to conduct a study and report to Congress no later than January 1, 1979, on the impact on participation in the wheat, feed grain, cotton, and rice programs and the production of such commodities in carrying out a statutory provision such as that included in the Food and Agriculture Act of 1977, as passed by the Senate on May 24, 1977 [see Short Title of 1977 Amendment note set out under section 1281 of this title], prohibiting the making of payments to certain corporations and other entities under such programs, which study was to assess the impact of extending the prohibition against making commodity program payments to tenants on land owned by such corporations and other entities which would be excluded from payments under such a provision, and was to utilize the information on commodity program payments compiled by the Agricultural Stabilization and Conservation Service in determining payment eligibility under section 101 of the Agricultural Act of 1970, as amended [section 1307 of this title], and section 101 of this Act [section 1308 of this title]. The Secretary was authorized to collect such other information as necessary to determine the impact of such a statutory provision and to identify the number and characteristics of producers that would be affected by such a provision.
 
-## § 2266a. Century Farms program
+## § 2266a. Century Farms program
 
 The Secretary shall establish a program under which the Secretary recognizes any farm that—
 
@@ -3558,7 +3558,7 @@ The Secretary shall establish a program under which the Secretary recognizes any
 
 **(C)** has been owned by the same family for at least 100 consecutive years, as verified through deeds, wills, abstracts, tax statements, or other similar legal documents considered appropriate by the Secretary.
 
-(Pub. L. 115–334, title XII, § 12508, Dec. 20, 2018, 132 Stat. 4990.)
+(Pub. L. 115–334, title XII, § 12508, Dec. 20, 2018, 132 Stat. 4990.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3566,7 +3566,7 @@ The Secretary shall establish a program under which the Secretary recognizes any
 
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of this title.
 
-## § 2266b. Eligibility for operators on heirs property land to obtain a farm number
+## § 2266b. Eligibility for operators on heirs property land to obtain a farm number
 
 **(a) Definitions** In this section:
 
@@ -3610,7 +3610,7 @@ Any farm number provided under paragraph (1) shall be sufficient to satisfy any 
 
 The Secretary shall identify alternative forms of eligible documentation that a farm operator may provide in seeking the assignment of a farm number under subsection (b)(1).
 
-(Pub. L. 115–334, title XII, § 12615, Dec. 20, 2018, 132 Stat. 5014.)
+(Pub. L. 115–334, title XII, § 12615, Dec. 20, 2018, 132 Stat. 5014.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3618,9 +3618,9 @@ The Secretary shall identify alternative forms of eligible documentation that a 
 
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of this title.
 
-## § 2267. Repealed. Pub. L. 100–387, title I, § 101(b)(1), Aug. 11, 1988, 102 Stat. 931
+## § 2267. Repealed. Pub. L. 100–387, title I, § 101(b)(1), Aug. 11, 1988, 102 Stat. 931
 
-Section, Pub. L. 95–113, title XI, § 1105, Sept. 29, 1977, 91 Stat. 955; Pub. L. 97–98, title XI, § 1111(b), Dec. 22, 1981, 95 Stat. 1267; Pub. L. 99–198, title XVII, § 1763(a), Dec. 23, 1985, 99 Stat. 1651, related to an emergency feed program. See section 1471 et seq. of this title.
+Section, Pub. L. 95–113, title XI, § 1105, Sept. 29, 1977, 91 Stat. 955; Pub. L. 97–98, title XI, § 1111(b), Dec. 22, 1981, 95 Stat. 1267; Pub. L. 99–198, title XVII, § 1763(a), Dec. 23, 1985, 99 Stat. 1651, related to an emergency feed program. See section 1471 et seq. of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3628,19 +3628,19 @@ Section, Pub. L. 95–113, title XI, § 1105, Sept. 29, 1977, 91 Stat. 955; Pu
 
 Repeal effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
 
-## § 2268. Public lands; relinquishment
+## § 2268. Public lands; relinquishment
 
 Notwithstanding any other provision of law, the Secretary of Agriculture may, whenever he considers it desirable, relinquish to a State all or part of the legislative jurisdiction of the United States over lands or interests under his control in that State. Relinquishment of legislative jurisdiction under this section may be accomplished (1) by filing with the Governor of the State concerned a notice of relinquishment to take effect upon acceptance thereof, or (2) as the laws of the State may otherwise provide.
 
 (Pub. L. 95–441, Oct. 10, 1978, 92 Stat. 1064.)
 
-## § 2268a. Acquisition of land; options
+## § 2268a. Acquisition of land; options
 
 **(a)** The Department of Agriculture is authorized to acquire land, or interest therein, by purchase, exchange or otherwise, as may be necessary to carry out its authorized work: *Provided*, That no acquisition shall be made under this authority unless provision is made therefor in the applicable appropriation or other law.
 
 **(b)** Appropriations for the Department of Agriculture which are available for the purchase of land may be expended for options to purchase land: *Provided*, That not to exceed $1 may be expended for each option to purchase any particular tract or tracts of land unless otherwise provided in appropriation or other law.
 
-(Aug. 3, 1956, ch. 950, § 11, 70 Stat. 1034.)
+(Aug. 3, 1956, ch. 950, § 11, 70 Stat. 1034.)
 
 **Editorial Notes**
 
@@ -3648,13 +3648,13 @@ Notwithstanding any other provision of law, the Secretary of Agriculture may, wh
 
 Section was formerly classified to section 428a of this title prior to editorial reclassification and renumbering as this section.
 
-## § 2269. Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury; regulations
+## § 2269. Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury; regulations
 
 Notwithstanding any other provision of law, the Secretary of Agriculture is authorized to accept, receive, hold, utilize, and administer on behalf of the United States gifts, bequests, or devises of real and personal property made for the benefit of the United States Department of Agriculture or for the carrying out of any of its functions. For the purposes of the Federal income, estate, and gift tax laws, property accepted under the authority of this section shall be considered as a gift, bequest, or devise to the United States. Any gift of money accepted pursuant to the authority granted in this section, or the net proceeds from the liquidation of any property so accepted, or the proceeds of any insurance on any gift property not used for its restoration shall be deposited in the Treasury of the United States for credit to a separate fund and shall be disbursed upon order of the Secretary of Agriculture. The Secretary of Agriculture may promulgate regulations to carry out the provisions of this section.
 
 (Pub. L. 95–442, Oct. 10, 1978, 92 Stat. 1065.)
 
-## § 2270. Authority of Office of Inspector General
+## § 2270. Authority of Office of Inspector General
 
 Any person who is employed in the Office of the Inspector General, Department of Agriculture, who conducts investigations of alleged or suspected felony criminal violations of statutes, including but not limited to the Food and Nutrition Act of 2008 [7 U.S.C. 2011 et seq.], administered by the Secretary of Agriculture or any agency of the Department of Agriculture and who is designated by the Inspector General of the Department of Agriculture may—
 
@@ -3664,21 +3664,21 @@ Any person who is employed in the Office of the Inspector General, Department of
 
 **(3)** carry a firearm;
 
-in accordance with rules issued by the Secretary of Agriculture, while such employee is engaged in the performance of official duties under the authority provided in section 406 of title 5, or described in section 9 1
+in accordance with rules issued by the Secretary of Agriculture, while such employee is engaged in the performance of official duties under the authority provided in section 406 of title 5, or described in section 9 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Inspector General Act of 1978 (Public Law 95–452, 92 Stat. 1107). The Attorney General of the United States may disapprove any designation made by the Inspector General under this section.
 
-(Pub. L. 97–98, title XIII, § 1337, Dec. 22, 1981, 95 Stat. 1294; Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(II), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(II), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 117–286, § 4(b)(23), Dec. 27, 2022, 136 Stat. 4345.)
+(Pub. L. 97–98, title XIII, § 1337, Dec. 22, 1981, 95 Stat. 1294; Pub. L. 110–234, title IV, § 4002(b)(1)(B), (2)(II), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (2)(II), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 117–286, § 4(b)(23), Dec. 27, 2022, 136 Stat. 4345.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food and Nutrition Act of 2008, referred to in text, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under 2011 of this title and Tables.
+The Food and Nutrition Act of 2008, referred to in text, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under 2011 of this title and Tables.
 
-Section 9 of the Inspector General Act of 1978, referred to in text, is section 9 of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 422 of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4252, 4361.
+Section 9 of the Inspector General Act of 1978, referred to in text, is section 9 of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 422 of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4252, 4361.
 
 **Codification**
 
@@ -3688,7 +3688,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2022—Pub. L. 117–286 substituted “the authority provided in section 406 of title 5, or described in section 9 of the Inspector General Act of 1978 (Public Law 95–452, 92 Stat. 1107).” for “the authority provided in section 6, or described in section 9, of the Inspector General Act of 1978 (5 U.S.C. App. 6, 9).” in concluding provisions.
 
-2008—Pub. L. 110–246, § 4002(b)(1)(B), (2)(II), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in introductory provisions.
+2008—Pub. L. 110–246, § 4002(b)(1)(B), (2)(II), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3702,11 +3702,11 @@ Amendment by section 4002(b)(1)(B), (2)(II) of Pub. L. 110–246 effective Oct. 
 
 Section effective on such date as the Secretary of Agriculture may prescribe, taking into account the need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as an Effective Date of 1981 Amendment note under section 2012 of this title.
 
-## § 2270a. Office of Inspector General; transfer of forfeiture funds for law enforcement activities
+## § 2270a. Office of Inspector General; transfer of forfeiture funds for law enforcement activities
 
 For fiscal year 1999 and thereafter, funds transferred to the Office of the Inspector General through forfeiture proceedings or from the Department of Justice Assets Forfeiture Fund or the Department of the Treasury Forfeiture Fund, as a participating agency, as an equitable share from the forfeiture of property in investigations in which the Office of the Inspector General participates, or through the granting of a Petition for Remission or Mitigation, shall be deposited to the credit of this account for law enforcement activities authorized under chapter 4 of title 5, to remain available until expended.
 
-(Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681, 2681–3; Pub. L. 117–286, § 4(b)(24), Dec. 27, 2022, 136 Stat. 4346.)
+(Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681, 2681–3; Pub. L. 117–286, § 4(b)(24), Dec. 27, 2022, 136 Stat. 4346.)
 
 **Editorial Notes**
 
@@ -3724,23 +3724,23 @@ Pub. L. 104–37, title I, Oct. 21, 1995, 109 Stat. 302.
 
 2022—Pub. L. 117–286 substituted “chapter 4 of title 5,” for “the Inspector General Act of 1978,”.
 
-## § 2270b. Department of Agriculture Inspector General investigation of Forest Service firefighter deaths
+## § 2270b. Department of Agriculture Inspector General investigation of Forest Service firefighter deaths
 
 In the case of each fatality of an officer or employee of the Forest Service that occurs due to wildfire entrapment or burnover, the Inspector General of the Department of Agriculture shall conduct an investigation of the fatality. The investigation shall not rely on, and shall be completely independent of, any investigation of the fatality that is conducted by the Forest Service.
 
-(Pub. L. 107–203, § 1, July 24, 2002, 116 Stat. 744.)
+(Pub. L. 107–203, § 1, July 24, 2002, 116 Stat. 744.)
 
-## § 2270c. Submission of results
+## § 2270c. Submission of results
 
 As soon as possible after completing an investigation under section 2270b of this title, the Inspector General of the Department of Agriculture shall submit to Congress and the Secretary of Agriculture a report containing the results of the investigation.
 
-(Pub. L. 107–203, § 2, July 24, 2002, 116 Stat. 744.)
+(Pub. L. 107–203, § 2, July 24, 2002, 116 Stat. 744.)
 
-## § 2271. Marketing education programs for small and medium size family farm operations
+## § 2271. Marketing education programs for small and medium size family farm operations
 
 In carrying out marketing research and education programs, the Secretary of Agriculture shall take such steps as may be necessary to increase the efforts of the Department of Agriculture in providing marketing education programs for persons engaged in small and medium size family farm operations.
 
-(Pub. L. 97–98, title XIV, § 1445, Dec. 22, 1981, 95 Stat. 1327.)
+(Pub. L. 97–98, title XIV, § 1445, Dec. 22, 1981, 95 Stat. 1327.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3748,19 +3748,19 @@ In carrying out marketing research and education programs, the Secretary of Agri
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-## § 2271a. Advanced marketing training for farmers and ranchers
+## § 2271a. Advanced marketing training for farmers and ranchers
 
 The Secretary of Agriculture may establish a program to train farmers and ranchers in advanced techniques for the marketing of agricultural commodities, livestock, and aquacultural products produced by such farmers and ranchers, including (where appropriate as determined by the Secretary) training in the use of futures and options markets.
 
-(Pub. L. 99–641, title II, § 206(b), Nov. 10, 1986, 100 Stat. 3564.)
+(Pub. L. 99–641, title II, § 206(b), Nov. 10, 1986, 100 Stat. 3564.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Study and Report of Marketing Practices of Applicants and Borrowers of Farm Loans**
 
-Pub. L. 99–641, title II, § 206(a), Nov. 10, 1986, 100 Stat. 3563, provided that the Comptroller General of the United States should conduct a study, to be reported to Congress within 1 year after Nov. 10, 1986, of marketing practices used by applicants for and borrowers of farm loans made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.).
+Pub. L. 99–641, title II, § 206(a), Nov. 10, 1986, 100 Stat. 3563, provided that the Comptroller General of the United States should conduct a study, to be reported to Congress within 1 year after Nov. 10, 1986, of marketing practices used by applicants for and borrowers of farm loans made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.).
 
-## § 2272. Volunteers for Department of Agriculture programs
+## § 2272. Volunteers for Department of Agriculture programs
 
 **(a) Establishment of program**
 
@@ -3776,7 +3776,7 @@ The Secretary of Agriculture (hereafter referred to in this section as the “Se
 
 Any individual who provides voluntary service under this section shall not be considered a Federal employee, except for purposes of chapter 81 of title 5 (relating to compensation for injury), and sections 2671 through 2680 of title 28 (relating to tort claims).
 
-(Pub. L. 97–98, title XV, § 1526, Dec. 22, 1981, 95 Stat. 1337.)
+(Pub. L. 97–98, title XV, § 1526, Dec. 22, 1981, 95 Stat. 1337.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3786,25 +3786,25 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 **Authorization of Appropriations**
 
-Pub. L. 97–98, title XV, § 1527, Dec. 22, 1981, 95 Stat. 1337, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subtitle [subtitle G (§§ 1526, 1527) of title XV of Pub. L. 97–98, enacting this section and this note], such sums to remain available until expended.”
+Pub. L. 97–98, title XV, § 1527, Dec. 22, 1981, 95 Stat. 1337, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subtitle [subtitle G (§§ 1526, 1527) of title XV of Pub. L. 97–98, enacting this section and this note], such sums to remain available until expended.”
 
-## § 2272a. Funds for incidental expenses and promotional items relating to volunteers
+## § 2272a. Funds for incidental expenses and promotional items relating to volunteers
 
 On and after August 6, 1996, funds appropriated to the Department of Agriculture may be used for incidental expenses such as transportation, uniforms, lodging, and subsistence for volunteers serving under the authority of section 2272 of this title, when such volunteers are engaged in the work of the United States Department of Agriculture; and for promotional items of nominal value relating to the United States Department of Agriculture Volunteer Programs.
 
-(Pub. L. 104–180, title VII, § 729, Aug. 6, 1996, 110 Stat. 1600.)
+(Pub. L. 104–180, title VII, § 729, Aug. 6, 1996, 110 Stat. 1600.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2272a, Pub. L. 102–142, title VII, § 739, Oct. 28, 1991, 105 Stat. 915, authorized use of funds for incidental expenses and promotional items relating to volunteers on and after Oct. 28, 1991, prior to repeal by Pub. L. 104–127, title III, § 336(f)(2), Apr. 4, 1996, 110 Stat. 1007.
+A prior section 2272a, Pub. L. 102–142, title VII, § 739, Oct. 28, 1991, 105 Stat. 915, authorized use of funds for incidental expenses and promotional items relating to volunteers on and after Oct. 28, 1991, prior to repeal by Pub. L. 104–127, title III, § 336(f)(2), Apr. 4, 1996, 110 Stat. 1007.
 
-## § 2273. Local search and rescue operations
+## § 2273. Local search and rescue operations
 
 The Secretary of Agriculture may assist, through the use of Soil Conservation Service personnel, vehicles, communication equipment, and other equipment or materials available to the Secretary, in local search and rescue operations when requested by responsible local public authorities. Such assistance may be provided in emergencies caused by tornadoes, fires, floods, snowstorms, earthquakes, and similar disasters.
 
-(Pub. L. 97–98, title XV, § 1550, Dec. 22, 1981, 95 Stat. 1344.)
+(Pub. L. 97–98, title XV, § 1550, Dec. 22, 1981, 95 Stat. 1344.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3812,17 +3812,17 @@ The Secretary of Agriculture may assist, through the use of Soil Conservation Se
 
 Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as a note under section 4301 of this title.
 
-## § 2274. Firearm authority of employees engaged in animal quarantine enforcement
+## § 2274. Firearm authority of employees engaged in animal quarantine enforcement
 
 Any employee of the United States Department of Agriculture designated by the Secretary of Agriculture and the Attorney General of the United States may carry a firearm and use a firearm when necessary for self-protection, in accordance with rules and regulations issued by the Secretary of Agriculture and the Attorney General of the United States, while such employee is engaged in the performance of the employee’s official duties to (1) carry out any law or regulation related to the control, eradication, or prevention of the introduction or dissemination of communicable disease of livestock or poultry into the United States or (2) perform any duty related to such disease control, eradication, or prevention, subject to the direction of the Secretary.
 
-(Pub. L. 97–312, § 1, Oct. 14, 1982, 96 Stat. 1461.)
+(Pub. L. 97–312, § 1, Oct. 14, 1982, 96 Stat. 1461.)
 
-## § 2274a. Firearm authority of employees conducting field work in remote locations
+## § 2274a. Firearm authority of employees conducting field work in remote locations
 
 On and after December 8, 2004, the Secretary of Agriculture is authorized to permit employees of the United States Department of Agriculture to carry and use firearms for personal protection while conducting field work in remote locations in the performance of their official duties.
 
-(Pub. L. 108–447, div. A, title VII, § 742, Dec. 8, 2004, 118 Stat. 2844.)
+(Pub. L. 108–447, div. A, title VII, § 742, Dec. 8, 2004, 118 Stat. 2844.)
 
 **Editorial Notes**
 
@@ -3830,15 +3830,15 @@ On and after December 8, 2004, the Secretary of Agriculture is authorized to per
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub.L. 108–199, div. A, title VII, § 745, Jan. 23, 2004, 118 Stat. 37.
+Pub.L. 108–199, div. A, title VII, § 745, Jan. 23, 2004, 118 Stat. 37.
 
-Pub.L. 108–7, div. A, title VII, § 753, Feb. 20, 2003, 117 Stat. 45.
+Pub.L. 108–7, div. A, title VII, § 753, Feb. 20, 2003, 117 Stat. 45.
 
-## § 2275. Repealed. Pub. L. 101–624, title XV, § 1572(3), Nov. 28, 1990, 104 Stat. 3702
+## § 2275. Repealed. Pub. L. 101–624, title XV, § 1572(3), Nov. 28, 1990, 104 Stat. 3702
 
-Section, Pub. L. 99–198, title XI, § 1151, Dec. 23, 1985, 99 Stat. 1497, provided for trade consultation between the Foreign Agricultural Service and other Federal agencies. See section 5674 of this title.
+Section, Pub. L. 99–198, title XI, § 1151, Dec. 23, 1985, 99 Stat. 1497, provided for trade consultation between the Foreign Agricultural Service and other Federal agencies. See section 5674 of this title.
 
-## § 2276. Confidentiality of information
+## § 2276. Confidentiality of information
 
 **(a) In general** In the case of information furnished under a provision of law referred to in subsection (d), neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
 
@@ -3860,9 +3860,9 @@ Section, Pub. L. 99–198, title XI, § 1151, Dec. 23, 1985, 99 Stat. 1497, pr
 
 **(c) Violations; penalties**
 
-Any person who shall publish, cause to be published, or otherwise publicly release information collected pursuant to a provision of law referred to in subsection (d), in any manner or for any purpose prohibited in section 1
+Any person who shall publish, cause to be published, or otherwise publicly release information collected pursuant to a provision of law referred to in subsection (d), in any manner or for any purpose prohibited in section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (a), shall be fined not more than $10,000 or imprisoned for not more than 1 year, or both.
 
@@ -3898,7 +3898,7 @@ Any person who shall publish, cause to be published, or otherwise publicly relea
 
 This section shall not prohibit the release of information under section 2204g(f)(2) of this title.
 
-(Pub. L. 99–198, title XVII, § 1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, § 4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 348], Nov. 29, 1999, 113 Stat. 1535, 1501A–207; Pub. L. 107–171, title II, § 2004(b), May 13, 2002, 116 Stat. 236; Pub. L. 115–334, title X, § 10109(d), Dec. 20, 2018, 132 Stat. 4907.)
+(Pub. L. 99–198, title XVII, § 1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, § 4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 348], Nov. 29, 1999, 113 Stat. 1535, 1501A–207; Pub. L. 107–171, title II, § 2004(b), May 13, 2002, 116 Stat. 236; Pub. L. 115–334, title X, § 10109(d), Dec. 20, 2018, 132 Stat. 4907.)
 
 **Editorial Notes**
 
@@ -3908,29 +3908,29 @@ Section 10109 of the Agriculture Improvement Act of 2018, referred to in subsec.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 10109(d)(1)(A), inserted heading.
+2018—Subsec. (a). Pub. L. 115–334, § 10109(d)(1)(A), inserted heading.
 
-Subsec. (a)(3). Pub. L. 115–334, § 10109(d)(1)(B), substituted “paragraph (12) or (13) of subsection (d)” for “subsection (d)(12)”.
+Subsec. (a)(3). Pub. L. 115–334, § 10109(d)(1)(B), substituted “paragraph (12) or (13) of subsection (d)” for “subsection (d)(12)”.
 
-Subsec. (d). Pub. L. 115–334, § 10109(d)(2)(A), inserted heading.
+Subsec. (d). Pub. L. 115–334, § 10109(d)(2)(A), inserted heading.
 
-Subsec. (d)(13). Pub. L. 115–334, § 10109(d)(2)(B)–(D), added par. (13).
+Subsec. (d)(13). Pub. L. 115–334, § 10109(d)(2)(B)–(D), added par. (13).
 
-2002—Subsec. (a)(3). Pub. L. 107–171, § 2004(b)(1), added par. (3).
+2002—Subsec. (a)(3). Pub. L. 107–171, § 2004(b)(1), added par. (3).
 
-Subsec. (d)(12). Pub. L. 107–171, § 2004(b)(2), added par. (12).
+Subsec. (d)(12). Pub. L. 107–171, § 2004(b)(2), added par. (12).
 
 1999—Subsec. (d)(10), (11). Pub. L. 106–113 added par. (10) and redesignated former par. (10) as (11).
 
-1997—Subsec. (d)(10). Pub. L. 105–113, § 4(a)(2), added par. (10).
+1997—Subsec. (d)(10). Pub. L. 105–113, § 4(a)(2), added par. (10).
 
-Subsec. (e). Pub. L. 105–113, § 4(b), added subsec. (e).
+Subsec. (e). Pub. L. 105–113, § 4(b), added subsec. (e).
 
-## § 2277. Contracts by Animal and Plant Health Inspection Service for services to be performed abroad
+## § 2277. Contracts by Animal and Plant Health Inspection Service for services to be performed abroad
 
 Funds available to the Animal and Plant Health Inspection Service (APHIS) under this and subsequent appropriations shall be available for contracting with individuals for services to be performed outside of the United States, as determined by APHIS to be necessary or appropriate for carrying out programs and activities abroad. Such individuals shall not be regarded as officers or employees of the United States under any law administered by the Office of Personnel Management.
 
-(Pub. L. 102–142, title VII, § 737, Oct. 28, 1991, 105 Stat. 915.)
+(Pub. L. 102–142, title VII, § 737, Oct. 28, 1991, 105 Stat. 915.)
 
 **Editorial Notes**
 
@@ -3938,9 +3938,9 @@ Funds available to the Animal and Plant Health Inspection Service (APHIS) under 
 
 Provisions similar to those in this section were contained in the following prior appropriation act:
 
-Pub. L. 101–506, title VI, § 641, Nov. 5, 1990, 104 Stat. 1350.
+Pub. L. 101–506, title VI, § 641, Nov. 5, 1990, 104 Stat. 1350.
 
-## § 2278. Consistency with international obligations of United States
+## § 2278. Consistency with international obligations of United States
 
 **(a) In general**
 
@@ -3954,9 +3954,9 @@ The Secretary of Agriculture shall take all steps necessary and appropriate to e
 
 Nothing in this section shall be construed as providing for a cause of action under this section.
 
-(Pub. L. 101–624, title XIX, § 1999T, Nov. 28, 1990, 104 Stat. 3928.)
+(Pub. L. 101–624, title XIX, § 1999T, Nov. 28, 1990, 104 Stat. 3928.)
 
-## § 2279. Farming opportunities training and outreach
+## § 2279. Farming opportunities training and outreach
 
 **(a) Definitions** In this section:
 
@@ -4440,23 +4440,23 @@ Not more than 5 percent of the amounts made available to carry out this section 
 
 A recipient of a grant or a party to a contract or other agreement under subsection (c) or (d) may not use more than 10 percent of the funds received for the indirect costs of carrying out a grant, contract, or other agreement.
 
-(Pub. L. 101–624, title XXV, § 2501, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 102–237, title X, § 1003, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 107–171, title X, § 10707, May 13, 2002, 116 Stat. 520; Pub. L. 110–234, title XIV, §§ 14001, 14004, 14005, May 22, 2008, 122 Stat. 1442, 1443, 1445; Pub. L. 110–246, § 4(a), title XIV, §§ 14001, 14004, 14005, June 18, 2008, 122 Stat. 1664, 2204, 2205, 2207; Pub. L. 112–240, title VII, § 701(h), Jan. 2, 2013, 126 Stat. 2367; Pub. L. 113–79, title XII, §§ 12201, 12203, Feb. 7, 2014, 128 Stat. 983, 984; Pub. L. 115–334, title XII, §§ 12301(b), 12306(a), Dec. 20, 2018, 132 Stat. 4951, 4968.)
+(Pub. L. 101–624, title XXV, § 2501, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 102–237, title X, § 1003, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 107–171, title X, § 10707, May 13, 2002, 116 Stat. 520; Pub. L. 110–234, title XIV, §§ 14001, 14004, 14005, May 22, 2008, 122 Stat. 1442, 1443, 1445; Pub. L. 110–246, § 4(a), title XIV, §§ 14001, 14004, 14005, June 18, 2008, 122 Stat. 1664, 2204, 2205, 2207; Pub. L. 112–240, title VII, § 701(h), Jan. 2, 2013, 126 Stat. 2367; Pub. L. 113–79, title XII, §§ 12201, 12203, Feb. 7, 2014, 128 Stat. 983, 984; Pub. L. 115–334, title XII, §§ 12301(b), 12306(a), Dec. 20, 2018, 132 Stat. 4951, 4968.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in subsec. (a)(1)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a)(1)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(1)(C), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(1)(C), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Soil Conservation Act and the Domestic Allotment Assistance Act, referred to in subsec. (a)(1)(D) and (E), respectively, probably mean the Soil Conservation and Domestic Allotment Act, act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+The Soil Conservation Act and the Domestic Allotment Assistance Act, referred to in subsec. (a)(1)(D) and (E), respectively, probably mean the Soil Conservation and Domestic Allotment Act, act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (a)(1)(F), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (c)(5), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (c)(5), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 **Codification**
 
@@ -4464,127 +4464,127 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 12301(b)(1), substituted “Farming opportunities training and outreach” for “Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers” in section catchline.
+2018—Pub. L. 115–334, § 12301(b)(1), substituted “Farming opportunities training and outreach” for “Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers” in section catchline.
 
-Subsec. (a). Pub. L. 115–334, § 12301(b)(5)(A), inserted introductory provisions.
+Subsec. (a). Pub. L. 115–334, § 12301(b)(5)(A), inserted introductory provisions.
 
-Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (e) as (a). Former subsec. (a) redesignated (c).
+Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (e) as (a). Former subsec. (a) redesignated (c).
 
-Subsec. (a)(1). Pub. L. 115–334, § 12301(b)(5)(B)–(D), redesignated par. (3) as (1) and substituted “Agricultural” for “Agriculture” in heading and “The” for “As used in this section, the” and “agricultural” for “agriculture” in introductory provisions. Former par. (1) redesignated (6).
+Subsec. (a)(1). Pub. L. 115–334, § 12301(b)(5)(B)–(D), redesignated par. (3) as (1) and substituted “Agricultural” for “Agriculture” in heading and “The” for “As used in this section, the” and “agricultural” for “agriculture” in introductory provisions. Former par. (1) redesignated (6).
 
-Subsec. (a)(2). Pub. L. 115–334, § 12301(b)(5)(E), added par. (2). Former par. (2) redesignated (5).
+Subsec. (a)(2). Pub. L. 115–334, § 12301(b)(5)(E), added par. (2). Former par. (2) redesignated (5).
 
-Subsec. (a)(3). Pub. L. 115–334, § 12301(b)(5)(B), redesignated par. (4) as (3). Former par. (3) redesignated (1).
+Subsec. (a)(3). Pub. L. 115–334, § 12301(b)(5)(B), redesignated par. (4) as (3). Former par. (3) redesignated (1).
 
-Subsec. (a)(4). Pub. L. 115–334, § 12301(b)(5)(B), redesignated par. (6) as (4). Former par. (4) redesignated (3).
+Subsec. (a)(4). Pub. L. 115–334, § 12301(b)(5)(B), redesignated par. (6) as (4). Former par. (4) redesignated (3).
 
-Subsec. (a)(5). Pub. L. 115–334, § 12301(b)(5)(B), (C), redesignated par. (2) as (5) and substituted “The” for “As used in this section, the”.
+Subsec. (a)(5). Pub. L. 115–334, § 12301(b)(5)(B), (C), redesignated par. (2) as (5) and substituted “The” for “As used in this section, the”.
 
-Pub. L. 115–334, § 12301(b)(4), redesignated par. (5) as subsec. (c)(6).
+Pub. L. 115–334, § 12301(b)(4), redesignated par. (5) as subsec. (c)(6).
 
-Pub. L. 115–334, § 12301(b)(2), redesignated subsec. (i) as par. (5) and realigned margins.
+Pub. L. 115–334, § 12301(b)(2), redesignated subsec. (i) as par. (5) and realigned margins.
 
-Subsec. (a)(6). Pub. L. 115–334, § 12301(b)(5)(B), (C), redesignated par. (1) as (6) and substituted “The” for “As used in this section, the”. Former Par. (6) redesignated (4).
+Subsec. (a)(6). Pub. L. 115–334, § 12301(b)(5)(B), (C), redesignated par. (1) as (6) and substituted “The” for “As used in this section, the”. Former Par. (6) redesignated (4).
 
-Subsec. (a)(7)(C). Pub. L. 115–334, § 12306(a), added subpar. (C).
+Subsec. (a)(7)(C). Pub. L. 115–334, § 12306(a), added subpar. (C).
 
-Subsec. (b). Pub. L. 115–334, § 12301(b)(6), added subsec. (b). Former subsec. (b) redesignated (g).
+Subsec. (b). Pub. L. 115–334, § 12301(b)(6), added subsec. (b). Former subsec. (b) redesignated (g).
 
-Subsec. (c). Pub. L. 115–334, § 12301(b)(7)(A), inserted “for socially disadvantaged and veteran farmers and ranchers” after “assistance” in heading.
+Subsec. (c). Pub. L. 115–334, § 12301(b)(7)(A), inserted “for socially disadvantaged and veteran farmers and ranchers” after “assistance” in heading.
 
-Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (a) as (c). Former subsec. (c) redesignated (k).
+Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (a) as (c). Former subsec. (c) redesignated (k).
 
-Subsec. (c)(1). Pub. L. 115–334, § 12301(b)(7)(C), (D)(i), redesignated par. (6) as (1) and substituted “In this subsection, the term” for “The term” in introductory provisions. Former par. (1) redesignated (2).
+Subsec. (c)(1). Pub. L. 115–334, § 12301(b)(7)(C), (D)(i), redesignated par. (6) as (1) and substituted “In this subsection, the term” for “The term” in introductory provisions. Former par. (1) redesignated (2).
 
-Subsec. (c)(1)(A)(ii). Pub. L. 115–334, § 12301(b)(7)(D)(ii), substituted “this subsection” for “subsection (a)”.
+Subsec. (c)(1)(A)(ii). Pub. L. 115–334, § 12301(b)(7)(D)(ii), substituted “this subsection” for “subsection (a)”.
 
-Subsec. (c)(1)(F). Pub. L. 115–334, § 12301(b)(7)(D)(iii), made technical amendment to reference in original act which appears in text as reference to section 5304 of title 25.
+Subsec. (c)(1)(F). Pub. L. 115–334, § 12301(b)(7)(D)(iii), made technical amendment to reference in original act which appears in text as reference to section 5304 of title 25.
 
-Subsec. (c)(2). Pub. L. 115–334, § 12301(b)(7)(C), (E)(i), redesignated par. (1) as (2) and substituted “Using funds made available under subsection (*l*), the Secretary of Agriculture shall, for the period of fiscal years 2019 through 2023, carry out” for “The Secretary of Agriculture shall carry out” in introductory provisions. Former par. (2) redesignated (3).
+Subsec. (c)(2). Pub. L. 115–334, § 12301(b)(7)(C), (E)(i), redesignated par. (1) as (2) and substituted “Using funds made available under subsection (*l*), the Secretary of Agriculture shall, for the period of fiscal years 2019 through 2023, carry out” for “The Secretary of Agriculture shall carry out” in introductory provisions. Former par. (2) redesignated (3).
 
-Subsec. (c)(2)(B). Pub. L. 115–334, § 12301(b)(7)(E)(ii), (iii), substituted “agricultural, forestry, and related” for “agricultural”.
+Subsec. (c)(2)(B). Pub. L. 115–334, § 12301(b)(7)(E)(ii), (iii), substituted “agricultural, forestry, and related” for “agricultural”.
 
-Subsec. (c)(3). Pub. L. 115–334, § 12301(b)(7)(C), (F), redesignated par. (2) as (3) and substituted “(2)” for “(1)” in introductory provisions.
+Subsec. (c)(3). Pub. L. 115–334, § 12301(b)(7)(C), (F), redesignated par. (2) as (3) and substituted “(2)” for “(1)” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 115–334, § 12301(b)(7)(B), (C), redesignated par. (3) as (4) and struck out former par. (4) which related to funding.
+Subsec. (c)(4). Pub. L. 115–334, § 12301(b)(7)(B), (C), redesignated par. (3) as (4) and struck out former par. (4) which related to funding.
 
-Subsec. (c)(4)(A). Pub. L. 115–334, § 12301(b)(7)(G)(i), in heading, substituted “Outreach and technical assistance” for “In general” and, in text, substituted “(3)” for “(2)” and inserted “to socially disadvantaged farmers and ranchers and veteran farmers and ranchers” after “assistance”.
+Subsec. (c)(4)(A). Pub. L. 115–334, § 12301(b)(7)(G)(i), in heading, substituted “Outreach and technical assistance” for “In general” and, in text, substituted “(3)” for “(2)” and inserted “to socially disadvantaged farmers and ranchers and veteran farmers and ranchers” after “assistance”.
 
-Subsec. (c)(4)(C). Pub. L. 115–334, § 12301(b)(7)(G)(ii), substituted “(2)” for “(1)”.
+Subsec. (c)(4)(C). Pub. L. 115–334, § 12301(b)(7)(G)(ii), substituted “(2)” for “(1)”.
 
-Subsec. (c)(4)(D)(v) to (vii). Pub. L. 115–334, § 12301(b)(7)(G)(iii), added cls. (v) to (vii).
+Subsec. (c)(4)(D)(v) to (vii). Pub. L. 115–334, § 12301(b)(7)(G)(iii), added cls. (v) to (vii).
 
-Subsec. (c)(4)(E) to (J). Pub. L. 115–334, § 12301(b)(7)(G)(iv), added subpars. (E) to (J).
+Subsec. (c)(4)(E) to (J). Pub. L. 115–334, § 12301(b)(7)(G)(iv), added subpars. (E) to (J).
 
-Subsec. (c)(6). Pub. L. 115–334, § 12301(b)(7)(C), redesignated par. (6) as (1).
+Subsec. (c)(6). Pub. L. 115–334, § 12301(b)(7)(C), redesignated par. (6) as (1).
 
-Pub. L. 115–334, § 12301(b)(4), redesignated subsec. (a)(5) as (c)(6).
+Pub. L. 115–334, § 12301(b)(4), redesignated subsec. (a)(5) as (c)(6).
 
-Subsecs. (d), (e). Pub. L. 115–334, § 12301(b)(8), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (h) and (a), respectively.
+Subsecs. (d), (e). Pub. L. 115–334, § 12301(b)(8), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (h) and (a), respectively.
 
-Subsec. (f). Pub. L. 115–334, § 12301(b)(9), added subsec. (f) and struck out former subsec. (f) which amended section 2003 of this title.
+Subsec. (f). Pub. L. 115–334, § 12301(b)(9), added subsec. (f) and struck out former subsec. (f) which amended section 2003 of this title.
 
-Subsec. (g). Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (b) as (g). Former subsec. (g) redesignated (i).
+Subsec. (g). Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (b) as (g). Former subsec. (g) redesignated (i).
 
-Subsec. (h). Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (d) as (h). Former subsec. (h) redesignated (j).
+Subsec. (h). Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (d) as (h). Former subsec. (h) redesignated (j).
 
-Subsec. (h)(3). Pub. L. 115–334, § 12301(b)(10), inserted “and not later than March 1, 2020,” after “1991,”.
+Subsec. (h)(3). Pub. L. 115–334, § 12301(b)(10), inserted “and not later than March 1, 2020,” after “1991,”.
 
-Subsec. (i). Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (g) as (i).
+Subsec. (i). Pub. L. 115–334, § 12301(b)(3), redesignated subsec. (g) as (i).
 
-Pub. L. 115–334, § 12301(b)(2), redesignated subsec. (i) as (a)(5).
+Pub. L. 115–334, § 12301(b)(2), redesignated subsec. (i) as (a)(5).
 
-Subsecs. (j), (k). Pub. L. 115–334, § 12301(b)(3), redesignated subsecs. (h) and (c) as (j) and (k), respectively.
+Subsecs. (j), (k). Pub. L. 115–334, § 12301(b)(3), redesignated subsecs. (h) and (c) as (j) and (k), respectively.
 
-Subsec. (*l*). Pub. L. 115–334, § 12301(b)(11), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 115–334, § 12301(b)(11), added subsec. (*l*).
 
-2014—Pub. L. 113–79, § 12201(a)(1), inserted “and veteran farmers and ranchers” after “ranchers” in section catchline.
+2014—Pub. L. 113–79, § 12201(a)(1), inserted “and veteran farmers and ranchers” after “ranchers” in section catchline.
 
-Subsec. (a)(1). Pub. L. 113–79, § 12201(a)(2)(A), inserted “and veteran farmers or ranchers” after “ranchers” in introductory provisions.
+Subsec. (a)(1). Pub. L. 113–79, § 12201(a)(2)(A), inserted “and veteran farmers or ranchers” after “ranchers” in introductory provisions.
 
-Subsec. (a)(2)(B)(i). Pub. L. 113–79, § 12201(a)(2)(B), inserted “and veteran farmers or ranchers” after “ranchers”.
+Subsec. (a)(2)(B)(i). Pub. L. 113–79, § 12201(a)(2)(B), inserted “and veteran farmers or ranchers” after “ranchers”.
 
-Subsec. (a)(4)(A). Pub. L. 113–79, § 12201(a)(2)(C)(i)(I), substituted “2018” for “2012” in heading.
+Subsec. (a)(4)(A). Pub. L. 113–79, § 12201(a)(2)(C)(i)(I), substituted “2018” for “2012” in heading.
 
-Subsec. (a)(4)(A)(iii). Pub. L. 113–79, § 12201(a)(2)(C)(i)(II)–(IV), added cl. (iii).
+Subsec. (a)(4)(A)(iii). Pub. L. 113–79, § 12201(a)(2)(C)(i)(II)–(IV), added cl. (iii).
 
-Subsec. (a)(4)(E). Pub. L. 113–79, § 12201(a)(2)(C)(ii), added subpar. (E).
+Subsec. (a)(4)(E). Pub. L. 113–79, § 12201(a)(2)(C)(ii), added subpar. (E).
 
-Subsec. (b)(2). Pub. L. 113–79, § 12201(a)(3), inserted “or veteran farmers and ranchers” after “socially disadvantaged farmers and ranchers”.
+Subsec. (b)(2). Pub. L. 113–79, § 12201(a)(3), inserted “or veteran farmers and ranchers” after “socially disadvantaged farmers and ranchers”.
 
-Subsec. (c)(1)(A). Pub. L. 113–79, § 12201(a)(4)(A), inserted “veteran farmers or ranchers and” before “members”.
+Subsec. (c)(1)(A). Pub. L. 113–79, § 12201(a)(4)(A), inserted “veteran farmers or ranchers and” before “members”.
 
-Subsec. (c)(2)(A). Pub. L. 113–79, § 12201(a)(4)(B), inserted “veteran farmers or ranchers and” before “members”.
+Subsec. (c)(2)(A). Pub. L. 113–79, § 12201(a)(4)(B), inserted “veteran farmers or ranchers and” before “members”.
 
-Subsec. (e)(5)(A)(i). Pub. L. 113–79, § 12201(a)(5)(A), inserted “and veteran farmers or ranchers” after “ranchers”.
+Subsec. (e)(5)(A)(i). Pub. L. 113–79, § 12201(a)(5)(A), inserted “and veteran farmers or ranchers” after “ranchers”.
 
-Subsec. (e)(5)(A)(ii). Pub. L. 113–79, § 12201(a)(5)(B), inserted “and veteran farmers or ranchers” after “ranchers”.
+Subsec. (e)(5)(A)(ii). Pub. L. 113–79, § 12201(a)(5)(B), inserted “and veteran farmers or ranchers” after “ranchers”.
 
-Subsec. (e)(7). Pub. L. 113–79, § 12201(b), added par. (7).
+Subsec. (e)(7). Pub. L. 113–79, § 12201(b), added par. (7).
 
-Subsec. (i). Pub. L. 113–79, § 12203, added subsec. (i).
+Subsec. (i). Pub. L. 113–79, § 12203, added subsec. (i).
 
-2013—Subsec. (a)(4)(A). Pub. L. 112–240, § 701(h)(1), substituted “Fiscal years 2009 through 2012” for “In general” in heading.
+2013—Subsec. (a)(4)(A). Pub. L. 112–240, § 701(h)(1), substituted “Fiscal years 2009 through 2012” for “In general” in heading.
 
-Subsec. (a)(4)(B) to (D). Pub. L. 112–240, § 701(h)(2)–(5), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and substituted “subparagraph (A) or (B)” for “subparagraph (A)” in subpars. (C) and (D).
+Subsec. (a)(4)(B) to (D). Pub. L. 112–240, § 701(h)(2)–(5), added subpar. (B), redesignated former subpars. (B) and (C) as (C) and (D), respectively, and substituted “subparagraph (A) or (B)” for “subparagraph (A)” in subpars. (C) and (D).
 
-2008—Subsec. (a)(2). Pub. L. 110–246, § 14004(a)(1), amended par. (2) generally. Prior to amendment, par. (2) contained provisions stating that the outreach and technical assistance program was to enhance coordination of authorized outreach, technical assistance, and education efforts and include information on, and assistance with, commodity, conservation, credit, rural, and business development programs, application and bidding procedures, farm and risk management, marketing, and other activities essential to participation in Department programs.
+2008—Subsec. (a)(2). Pub. L. 110–246, § 14004(a)(1), amended par. (2) generally. Prior to amendment, par. (2) contained provisions stating that the outreach and technical assistance program was to enhance coordination of authorized outreach, technical assistance, and education efforts and include information on, and assistance with, commodity, conservation, credit, rural, and business development programs, application and bidding procedures, farm and risk management, marketing, and other activities essential to participation in Department programs.
 
-Subsec. (a)(3)(A). Pub. L. 110–246, § 14004(a)(2)(A), substituted “entity that has demonstrated an ability to carry out the requirements described in paragraph (2) to provide outreach” for “entity to provide information”.
+Subsec. (a)(3)(A). Pub. L. 110–246, § 14004(a)(2)(A), substituted “entity that has demonstrated an ability to carry out the requirements described in paragraph (2) to provide outreach” for “entity to provide information”.
 
-Subsec. (a)(3)(D). Pub. L. 110–246, § 14004(a)(2)(B), added subpar. (D).
+Subsec. (a)(3)(D). Pub. L. 110–246, § 14004(a)(2)(B), added subpar. (D).
 
-Subsec. (a)(4)(A). Pub. L. 110–246, § 14004(a)(3)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2002 through 2007.”
+Subsec. (a)(4)(A). Pub. L. 110–246, § 14004(a)(3)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2002 through 2007.”
 
-Subsec. (a)(4)(C). Pub. L. 110–246, § 14004(a)(3)(B), added subpar. (C).
+Subsec. (a)(4)(C). Pub. L. 110–246, § 14004(a)(3)(B), added subpar. (C).
 
-Subsec. (e)(5)(A)(ii). Pub. L. 110–246, § 14004(b), which directed amendment of cl. (ii) by substituting “work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period” for “work with socially disadvantaged farmers or ranchers during the 2-year period”, was executed by making the substitution for “work with socially disadvantaged farmers and ranchers during the 2-year period”, to reflect the probable intent of Congress.
+Subsec. (e)(5)(A)(ii). Pub. L. 110–246, § 14004(b), which directed amendment of cl. (ii) by substituting “work with, and on behalf of, socially disadvantaged farmers or ranchers during the 3-year period” for “work with socially disadvantaged farmers or ranchers during the 2-year period”, was executed by making the substitution for “work with socially disadvantaged farmers and ranchers during the 2-year period”, to reflect the probable intent of Congress.
 
-Subsec. (g)(1). Pub. L. 110–246, § 14001, substituted “Farm Service Agency and Natural Resources Conservation Service” for “Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices”, inserted “where there has been a need demonstrated” after “include”, and struck out at end “The tribe shall be required to provide the necessary office space if it wishes to participate in this program.”
+Subsec. (g)(1). Pub. L. 110–246, § 14001, substituted “Farm Service Agency and Natural Resources Conservation Service” for “Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices”, inserted “where there has been a need demonstrated” after “include”, and struck out at end “The tribe shall be required to provide the necessary office space if it wishes to participate in this program.”
 
-Subsec. (h). Pub. L. 110–246, § 14005, added subsec. (h).
+Subsec. (h). Pub. L. 110–246, § 14005, added subsec. (h).
 
-2002—Subsec. (a). Pub. L. 107–171, § 10707(b), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+2002—Subsec. (a). Pub. L. 107–171, § 10707(b), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
 
 “(1) In general.—The Secretary of Agriculture (hereafter referred to in this section as the ‘Secretary’) shall provide outreach and technical assistance to encourage and assist socially disadvantaged farmers and ranchers to own and operate farms and ranches and to participate in agricultural programs. This assistance should include information on application and bidding procedures, farm management, and other essential information to participate in agricultural programs.
 
@@ -4602,17 +4602,17 @@ Subsec. (h). Pub. L. 110–246, § 14005, added subsec. (h).
 
 “(3) Funding.—There are authorized to be appropriated $10,000,000 for each fiscal year to carry out this subsection.”
 
-Subsec. (d)(1). Pub. L. 107–171, § 10707(c)(1), struck out “of Agriculture” after “analyze within the Department”.
+Subsec. (d)(1). Pub. L. 107–171, § 10707(c)(1), struck out “of Agriculture” after “analyze within the Department”.
 
-Subsec. (e)(4) to (6). Pub. L. 107–171, § 10707(a), added pars. (4) to (6).
+Subsec. (e)(4) to (6). Pub. L. 107–171, § 10707(a), added pars. (4) to (6).
 
-Subsec. (g)(1). Pub. L. 107–171, § 10707(c)(2), struck out “of Agriculture” after “Department”.
+Subsec. (g)(1). Pub. L. 107–171, § 10707(c)(2), struck out “of Agriculture” after “Department”.
 
-1991—Subsec. (a)(3). Pub. L. 102–237, § 1003(1), substituted “subsection” for “section”.
+1991—Subsec. (a)(3). Pub. L. 102–237, § 1003(1), substituted “subsection” for “section”.
 
-Subsec. (c)(1)(C). Pub. L. 102–237, § 1003(2), inserted “program” after “agricultural”.
+Subsec. (c)(1)(C). Pub. L. 102–237, § 1003(2), inserted “program” after “agricultural”.
 
-Subsec. (d)(3). Pub. L. 102–237, § 1003(3), substituted “November 28, 1991” for “1 year after the date of enactment of this Act”.
+Subsec. (d)(3). Pub. L. 102–237, § 1003(3), substituted “November 28, 1991” for “1 year after the date of enactment of this Act”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4626,7 +4626,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **USDA Assistance and Support for Underserved Farmers, Ranchers, and Foresters**
 
-Pub. L. 117–2, title I, § 1006, Mar. 11, 2021, 135 Stat. 13, as amended by Pub. L. 117–169, title II, § 22007, Aug. 16, 2022, 136 Stat. 2021, provided that:
+Pub. L. 117–2, title I, § 1006, Mar. 11, 2021, 135 Stat. 13, as amended by Pub. L. 117–169, title II, § 22007, Aug. 16, 2022, 136 Stat. 2021, provided that:
 
 > **“(a) Technical and other assistance.—** In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2022, to remain available until September 30, 2031, out of any money in the Treasury not otherwise appropriated, $125,000,000 to provide outreach, mediation, financial training, capacity building training, cooperative development and agricultural credit training and support, and other technical assistance on issues concerning food, agriculture, agricultural credit, agricultural extension, rural development, or nutrition to underserved farmers, ranchers, or forest landowners, including veterans, limited resource producers, beginning farmers and ranchers, and farmers, ranchers, and forest landowners living in high poverty areas.
 
@@ -4648,7 +4648,7 @@ Pub. L. 117–2, title I, § 1006, Mar. 11, 2021, 135 Stat. 13, as amended by 
 
 **Minority Farmer Advisory Committee**
 
-Pub. L. 110–234, title XIV, § 14008, May 22, 2008, 122 Stat. 1446, and Pub. L. 110–246, § 4(a), title XIV, § 14008, June 18, 2008, 122 Stat. 1664, 2208, provided that:
+Pub. L. 110–234, title XIV, § 14008, May 22, 2008, 122 Stat. 1446, and Pub. L. 110–246, § 4(a), title XIV, § 14008, June 18, 2008, 122 Stat. 1664, 2208, provided that:
 
 > **“(a) Establishment.—** Not later than 18 months after the date of the enactment of this Act [June 18, 2008], the Secretary of Agriculture shall establish an advisory committee, to be known as the ‘Advisory Committee on Minority Farmers’ (in this section referred to as the ‘Committee’).
 
@@ -4680,7 +4680,7 @@ Pub. L. 110–234, title XIV, § 14008, May 22, 2008, 122 Stat. 1446, and Pub.
 
 **Waiver of Statute of Limitations**
 
-Pub. L. 105–277, div. A, § 101(a) [title VII, § 741], Oct. 21, 1998, 112 Stat. 2681, 2681–30, provided that:
+Pub. L. 105–277, div. A, § 101(a) [title VII, § 741], Oct. 21, 1998, 112 Stat. 2681, 2681–30, provided that:
 
 > **“(a)** To the extent permitted by the Constitution, any civil action to obtain relief with respect to the discrimination alleged in an eligible complaint, if commenced not later than 2 years after the date of the enactment of this Act [Oct. 21, 1998], shall not be barred by any statute of limitations.
 
@@ -4714,7 +4714,7 @@ Pub. L. 105–277, div. A, § 101(a) [title VII, § 741], Oct. 21, 1998, 112
 
 > **“(g)** The standard of review for judicial review of an agency action with respect to an eligible complaint is de novo review. Chapter 5 of title 5 of the United States Code shall apply with respect to an agency action under this section with respect to an eligible complaint, without regard to section 554(a)(1) of that title.”
 
-## § 2279–1. Transparency and accountability for socially disadvantaged farmers and ranchers
+## § 2279–1. Transparency and accountability for socially disadvantaged farmers and ranchers
 
 **(a) Purpose**
 
@@ -4768,7 +4768,7 @@ Except as otherwise provided, the data under this section shall not be used for 
 
 **(2)** the action taken, not taken, or recommended to the producer or landowner.
 
-(Pub. L. 101–624, title XXV, § 2501A, as added Pub. L. 107–171, title X, § 10708(a), May 13, 2002, 116 Stat. 522; amended Pub. L. 110–234, title XIV, §§ 14003, 14006, May 22, 2008, 122 Stat. 1443, 1445; Pub. L. 110–246, § 4(a), title XIV, §§ 14003, 14006, June 18, 2008, 122 Stat. 1664, 2205, 2207; Pub. L. 113–79, title XII, § 12204, Feb. 7, 2014, 128 Stat. 984.)
+(Pub. L. 101–624, title XXV, § 2501A, as added Pub. L. 107–171, title X, § 10708(a), May 13, 2002, 116 Stat. 522; amended Pub. L. 110–234, title XIV, §§ 14003, 14006, May 22, 2008, 122 Stat. 1443, 1445; Pub. L. 110–246, § 4(a), title XIV, §§ 14003, 14006, June 18, 2008, 122 Stat. 1664, 2205, 2207; Pub. L. 113–79, title XII, § 12204, Feb. 7, 2014, 128 Stat. 984.)
 
 **Editorial Notes**
 
@@ -4780,9 +4780,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (e). Pub. L. 113–79, in introductory provisions, struck out “and, at the time of the request, also requests a receipt” after “landowners”.
 
-2008—Subsecs. (c), (d). Pub. L. 110–246, § 14006, added subsecs. (c) and (d) and struck out former subsec. (c) which related to annual computation of the participation rate of socially disadvantaged farmers and ranchers as a percentage of the total participation of all farmers and ranchers for each Department of Agriculture program and requirement that participation according to race, ethnicity, and gender be included in each report.
+2008—Subsecs. (c), (d). Pub. L. 110–246, § 14006, added subsecs. (c) and (d) and struck out former subsec. (c) which related to annual computation of the participation rate of socially disadvantaged farmers and ranchers as a percentage of the total participation of all farmers and ranchers for each Department of Agriculture program and requirement that participation according to race, ethnicity, and gender be included in each report.
 
-Subsec. (e). Pub. L. 110–246, § 14003, added subsec. (e).
+Subsec. (e). Pub. L. 110–246, § 14003, added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4792,11 +4792,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Oversight and Compliance**
 
-Pub. L. 110–234, title XIV, § 14007, May 22, 2008, 122 Stat. 1446, and Pub. L. 110–246, § 4(a), title XIV, § 14007, June 18, 2008, 122 Stat. 1664, 2208, provided that: “The Secretary [of Agriculture], acting through the Assistant Secretary for Civil Rights of the Department of Agriculture, shall use the reports described in subsection (c) of section 2501A of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279–1), as amended by section 14006, in the conduct of oversight and evaluation of civil rights compliance.”
+Pub. L. 110–234, title XIV, § 14007, May 22, 2008, 122 Stat. 1446, and Pub. L. 110–246, § 4(a), title XIV, § 14007, June 18, 2008, 122 Stat. 1664, 2208, provided that: “The Secretary [of Agriculture], acting through the Assistant Secretary for Civil Rights of the Department of Agriculture, shall use the reports described in subsection (c) of section 2501A of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279–1), as amended by section 14006, in the conduct of oversight and evaluation of civil rights compliance.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-## § 2279–2. Report of civil rights complaints, resolutions, and actions
+## § 2279–2. Report of civil rights complaints, resolutions, and actions
 
 Each year, the Secretary shall—
 
@@ -4814,7 +4814,7 @@ Each year, the Secretary shall—
 
 **(3)** make the report available to the public by posting the report on the website of the Department.
 
-(Pub. L. 110–234, title XIV, § 14010, May 22, 2008, 122 Stat. 1447; Pub. L. 110–246, § 4(a), title XIV, § 14010, June 18, 2008, 122 Stat. 1664, 2209.)
+(Pub. L. 110–234, title XIV, § 14010, May 22, 2008, 122 Stat. 1447; Pub. L. 110–246, § 4(a), title XIV, § 14010, June 18, 2008, 122 Stat. 1664, 2209.)
 
 **Editorial Notes**
 
@@ -4832,7 +4832,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-## § 2279a. Fair and equitable treatment of socially disadvantaged producers
+## § 2279a. Fair and equitable treatment of socially disadvantaged producers
 
 **(a) Fair crop acreage bases and farm program payment yields**
 
@@ -4858,17 +4858,17 @@ Not later than February 1, 1995, the Comptroller General shall submit the report
 
 For purposes of this section, the term “socially disadvantaged producer” means a producer who is a member of a group whose members have been subjected to racial, ethnic, or gender prejudice because of their identity as members of a group without regard to their individual qualities.
 
-(Pub. L. 103–354, title III, § 305, Oct. 13, 1994, 108 Stat. 3240.)
+(Pub. L. 103–354, title III, § 305, Oct. 13, 1994, 108 Stat. 3240.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051. Title V of the Act, which was classified generally to subchapter IV (§ 1461 et seq.) of chapter 35A of this title, was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051. Title V of the Act, which was classified generally to subchapter IV (§ 1461 et seq.) of chapter 35A of this title, was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (b), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-## § 2279b. Department of Agriculture educational, training, and professional development activities
+## § 2279b. Department of Agriculture educational, training, and professional development activities
 
 **(a) Definitions** In this section:
 
@@ -4998,13 +4998,13 @@ The Graduate School may use the facilities and resources of the Department of Ag
 
 The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c)) shall be made available to the Comptroller General for purposes of conducting an audit.
 
-(Pub. L. 104–127, title IX, § 921, Apr. 4, 1996, 110 Stat. 1191; Pub. L. 107–171, title X, § 10705(a), May 13, 2002, 116 Stat. 518; Pub. L. 110–234, title XIV, § 14213(a), May 22, 2008, 122 Stat. 1465; Pub. L. 110–246, § 4(a), title XIV, § 14213(a), June 18, 2008, 122 Stat. 1664, 2227; Pub. L. 117–286, § 4(a)(29), Dec. 27, 2022, 136 Stat. 4308.)
+(Pub. L. 104–127, title IX, § 921, Apr. 4, 1996, 110 Stat. 1191; Pub. L. 107–171, title X, § 10705(a), May 13, 2002, 116 Stat. 518; Pub. L. 110–234, title XIV, § 14213(a), May 22, 2008, 122 Stat. 1465; Pub. L. 110–246, § 4(a), title XIV, § 14213(a), June 18, 2008, 122 Stat. 1664, 2227; Pub. L. 117–286, § 4(a)(29), Dec. 27, 2022, 136 Stat. 4308.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsecs. (h)(4) and (i), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsecs. (h)(4) and (i), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -5012,9 +5012,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2022—Subsec. (g)(1). Pub. L. 117–286 substituted “chapter 10 of title 5;” for “the Federal Advisory Committee Act (5 U.S.C. App.);”.
 
-2008—Pub. L. 110–246, § 14213(a)(1), substituted “Department of Agriculture educational, training, and professional development activities” for “Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality” in section catchline.
+2008—Pub. L. 110–246, § 14213(a)(1), substituted “Department of Agriculture educational, training, and professional development activities” for “Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality” in section catchline.
 
-Subsec. (b). Pub. L. 110–246, § 14213(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “On and after April 4, 1996, the Graduate School of the Department of Agriculture shall continue to operate as a nonappropriated fund instrumentality of the United States under the jurisdiction of the Department of Agriculture.”
+Subsec. (b). Pub. L. 110–246, § 14213(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “On and after April 4, 1996, the Graduate School of the Department of Agriculture shall continue to operate as a nonappropriated fund instrumentality of the United States under the jurisdiction of the Department of Agriculture.”
 
 2002—Subsec. (k). Pub. L. 107–171 added subsec. (k).
 
@@ -5026,15 +5026,15 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title X, § 10705(c), May 13, 2002, 116 Stat. 519, provided that: “The amendments made by this section [amending this section and repealing section 5922 of this title] take effect on October 1, 2002.”
+Pub. L. 107–171, title X, § 10705(c), May 13, 2002, 116 Stat. 519, provided that: “The amendments made by this section [amending this section and repealing section 5922 of this title] take effect on October 1, 2002.”
 
 **Procurement Procedures**
 
-Pub. L. 110–234, title XIV, § 14213(b), May 22, 2008, 122 Stat. 1466, and Pub. L. 110–246, § 4(a), title XIV, § 14213(b), June 18, 2008, 122 Stat. 1664, 2228, provided that: “Notwithstanding the amendments made by subsection (a) [amending this section], effective on the date of the enactment of this Act [June 18, 2008], the Graduate School of the Department of Agriculture shall be subject to Federal procurement laws and regulations in the same manner and subject to the same requirements as a private entity providing services to the Federal Government.”
+Pub. L. 110–234, title XIV, § 14213(b), May 22, 2008, 122 Stat. 1466, and Pub. L. 110–246, § 4(a), title XIV, § 14213(b), June 18, 2008, 122 Stat. 1664, 2228, provided that: “Notwithstanding the amendments made by subsection (a) [amending this section], effective on the date of the enactment of this Act [June 18, 2008], the Graduate School of the Department of Agriculture shall be subject to Federal procurement laws and regulations in the same manner and subject to the same requirements as a private entity providing services to the Federal Government.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.]
 
-## § 2279c. Student internship programs
+## § 2279c. Student internship programs
 
 **(a) Student intern subsistence program**
 
@@ -5096,7 +5096,7 @@ The Secretary may designate a lead agency within the Department to carry out thi
 
 A student who participates in an internship program shall not be considered a Federal employee, except for purposes of chapter 81 of title 5, and chapter 171 of title 28.
 
-(Pub. L. 104–127, title IX, § 922, Apr. 4, 1996, 110 Stat. 1193; Pub. L. 105–244, title I, § 102(a)(1)(A), Oct. 7, 1998, 112 Stat. 1617.)
+(Pub. L. 104–127, title IX, § 922, Apr. 4, 1996, 110 Stat. 1193; Pub. L. 105–244, title I, § 102(a)(1)(A), Oct. 7, 1998, 112 Stat. 1617.)
 
 **Editorial Notes**
 
@@ -5110,19 +5110,19 @@ A student who participates in an internship program shall not be considered a Fe
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-## § 2279d. Compensatory damages in claims under Rehabilitation Act of 1973
+## § 2279d. Compensatory damages in claims under Rehabilitation Act of 1973
 
 In any claim brought under the Rehabilitation Act of 1973 [29 U.S.C. 701 et seq.] and filed with the Secretary of Agriculture after January 1994 resulting in a finding that a farmer was subjected to discrimination under any farm loan program or activity conducted by the United States Department of Agriculture in violation of section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), the Secretary of Agriculture shall be liable for compensatory damages. Such liability shall apply to any administrative action brought before October 21, 1998, but only if the action is brought within the applicable statute of limitations and the complainant sought or seeks compensatory damages while the action is pending.
 
-(Pub. L. 105–277, div. A, § 101(a) [title VII, § 742], Oct. 21, 1998, 112 Stat. 2681, 2681–31.)
+(Pub. L. 105–277, div. A, § 101(a) [title VII, § 742], Oct. 21, 1998, 112 Stat. 2681, 2681–31.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rehabilitation Act of 1973, referred to in text, is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in text, is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-## § 2279e. Civil penalty
+## § 2279e. Civil penalty
 
 **(a) In general**
 
@@ -5152,17 +5152,17 @@ Any civil penalty not paid in full when due under an order assessing the civil p
 
 **(2)** the Secretary of Homeland Security, with respect to an animal used for purposes of official inspections by the Department of Homeland Security.
 
-(Pub. L. 106–224, title V, § 501, June 20, 2000, 114 Stat. 455; Pub. L. 107–296, title IV, § 421(h), Nov. 25, 2002, 116 Stat. 2184.)
+(Pub. L. 106–224, title V, § 501, June 20, 2000, 114 Stat. 455; Pub. L. 107–296, title IV, § 421(h), Nov. 25, 2002, 116 Stat. 2184.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–296, § 421(h)(1), inserted “or the Department of Homeland Security” after “Department of Agriculture” and “or the Secretary of Homeland Security” after “Secretary of Agriculture”.
+2002—Subsec. (a). Pub. L. 107–296, § 421(h)(1), inserted “or the Department of Homeland Security” after “Department of Agriculture” and “or the Secretary of Homeland Security” after “Secretary of Agriculture”.
 
-Subsecs. (b) to (d)(1). Pub. L. 107–296, § 421(h)(2), substituted “Secretary concerned” for “Secretary” wherever appearing.
+Subsecs. (b) to (d)(1). Pub. L. 107–296, § 421(h)(2), substituted “Secretary concerned” for “Secretary” wherever appearing.
 
-Subsec. (e). Pub. L. 107–296, § 421(h)(3), added subsec. (e).
+Subsec. (e). Pub. L. 107–296, § 421(h)(3), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5170,7 +5170,7 @@ Subsec. (e). Pub. L. 107–296, § 421(h)(3), added subsec. (e).
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-## § 2279f. Subpoena authority
+## § 2279f. Subpoena authority
 
 **(a) In general**
 
@@ -5196,7 +5196,7 @@ The Secretary concerned shall publish procedures for the issuance of subpoenas u
 
 Subpoenas for witnesses to attend court in any judicial district or testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under section 2279e of this title may run to any other judicial district.
 
-(Pub. L. 106–224, title V, § 502, June 20, 2000, 114 Stat. 455; Pub. L. 107–296, title IV, § 421(h)(2), Nov. 25, 2002, 116 Stat. 2184.)
+(Pub. L. 106–224, title V, § 502, June 20, 2000, 114 Stat. 455; Pub. L. 107–296, title IV, § 421(h)(2), Nov. 25, 2002, 116 Stat. 2184.)
 
 **Editorial Notes**
 
@@ -5210,11 +5210,11 @@ Subpoenas for witnesses to attend court in any judicial district or testify or p
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
-## § 2279g. Marketing services; cooperative agreements
+## § 2279g. Marketing services; cooperative agreements
 
 Notwithstanding chapter 63 of title 31, marketing services of the Agricultural Marketing Service; the Grain Inspection, Packers and Stockyards Administration; the Animal and Plant Health Inspection Service; and the food safety activities of the Food Safety and Inspection Service, on and after February 20, 2003, may use cooperative agreements to reflect a relationship between the Agricultural Marketing Service; the Grain Inspection, Packers and Stockyards Administration; the Animal and Plant Health Inspection Service; or the Food Safety and Inspection Service and a State or cooperator to carry out agricultural marketing programs, to carry out programs to protect the nation’s animal and plant resources, or to carry out educational programs or special studies to improve the safety of the nation’s food supply.
 
-(Pub. L. 108–7, div. A, title VII, § 713, Feb. 20, 2003, 117 Stat. 39.)
+(Pub. L. 108–7, div. A, title VII, § 713, Feb. 20, 2003, 117 Stat. 39.)
 
 **Editorial Notes**
 
@@ -5226,23 +5226,23 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 107–76, title VII, § 713, Nov. 28, 2001, 115 Stat. 733.
+Pub. L. 107–76, title VII, § 713, Nov. 28, 2001, 115 Stat. 733.
 
-Pub. L. 106–387, § 1(a) [title VII, § 713], Oct. 28, 2000, 114 Stat. 1549, 1549A–29.
+Pub. L. 106–387, § 1(a) [title VII, § 713], Oct. 28, 2000, 114 Stat. 1549, 1549A–29.
 
-Pub. L. 106–78, title VII, § 716, Oct. 22, 1999, 113 Stat. 1162.
+Pub. L. 106–78, title VII, § 716, Oct. 22, 1999, 113 Stat. 1162.
 
-Pub. L. 105–277, div. A, § 101(a) [title VII, § 715], Oct. 21, 1998, 112 Stat. 2681, 2681–26.
+Pub. L. 105–277, div. A, § 101(a) [title VII, § 715], Oct. 21, 1998, 112 Stat. 2681, 2681–26.
 
-Pub. L. 105–86, title VII, § 717, Nov. 18, 1997, 111 Stat. 2106.
+Pub. L. 105–86, title VII, § 717, Nov. 18, 1997, 111 Stat. 2106.
 
-Pub. L. 104–180, title VII, § 717, Aug. 6, 1996, 110 Stat. 1598.
+Pub. L. 104–180, title VII, § 717, Aug. 6, 1996, 110 Stat. 1598.
 
-Pub. L. 104–37, title VII, § 717, Oct. 21, 1995, 109 Stat. 331.
+Pub. L. 104–37, title VII, § 717, Oct. 21, 1995, 109 Stat. 331.
 
-Pub. L. 103–330, title VII, § 720, Sept. 30, 1994, 108 Stat. 2469.
+Pub. L. 103–330, title VII, § 720, Sept. 30, 1994, 108 Stat. 2469.
 
-## § 2279h. Cross-servicing activities of National Finance Center
+## § 2279h. Cross-servicing activities of National Finance Center
 
 On and after November 10, 2005, the Chief Financial Officer shall actively market and expand cross-servicing activities of the National Finance Center.
 
@@ -5266,9 +5266,9 @@ Pub. L. 108–7, div. A, title I, Feb. 20, 2003, 117 Stat. 14.
 
 Pub. L. 107–76, title I, Nov. 28, 2001, 115 Stat. 705.
 
-Pub. L. 106–387, § 1(a) [title I], Oct. 28, 2000, 114 Stat. 1549, 1549A–2.
+Pub. L. 106–387, § 1(a) [title I], Oct. 28, 2000, 114 Stat. 1549, 1549A–2.
 
-Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681–1.
+Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681–1.
 
 Pub. L. 105–86, title I, Nov. 18, 1997, 111 Stat. 2080.
 
@@ -5276,7 +5276,7 @@ Pub. L. 104–180, title I, Aug. 6, 1996, 110 Stat. 1570.
 
 Pub. L. 104–37, title I, Oct. 21, 1995, 109 Stat. 300.
 
-## § 2279i. Cooperation with State and other agencies; expenditures
+## § 2279i. Cooperation with State and other agencies; expenditures
 
 In carrying on the activities of the Department of Agriculture involving cooperation with State, county, and municipal agencies, associations of farmers, individual farmers, universities, colleges, boards of trade, chambers of commerce, or other local associations of business men, business organizations, and individuals within the State, Territory, district, or insular possession in which such activities are to be carried on, moneys contributed from such outside sources, except in the case of the authorized activities of the Forest Service, shall be paid only through the Secretary of Agriculture or through State, county, or municipal agencies, or local farm bureaus or like organizations, cooperating for the purpose with the Secretary of Agriculture.
 
@@ -5286,13 +5286,13 @@ In carrying on the activities of the Department of Agriculture involving coopera
 
 **Codification**
 
-Section was formerly classified to section 450b of this title prior to editorial reclassification and renumbering as this section, and to section 563 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 450b of this title prior to editorial reclassification and renumbering as this section, and to section 563 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 2279j. Conversion authority
+## § 2279j. Conversion authority
 
 The Secretary may, notwithstanding subchapter I of chapter 33 of title 5, governing appointments in the competitive or excepted service, noncompetitively convert to an appointment in the competitive service, in an agency or office within the Department of Agriculture, a recent graduate or student who is a United States citizen and has been awarded and successfully completed a scholarship program granted to the individual by the Department through the 1890 National Scholars Program or the 1994 Tribal Scholars Program carried out by the Department, provided the individual meets the requirements for such conversion and meets Office of Personnel Management qualification standards, as determined by the Secretary. Nothing in the preceding sentence shall be construed as requiring the Secretary to convert an individual under the authority under such sentence.
 
-(Pub. L. 115–334, title XII, § 12519, Dec. 20, 2018, 132 Stat. 5001.)
+(Pub. L. 115–334, title XII, § 12519, Dec. 20, 2018, 132 Stat. 5001.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5300,7 +5300,7 @@ The Secretary may, notwithstanding subchapter I of chapter 33 of title 5, govern
 
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of this title.
 
-## § 2279k. Authorization of protection operations for the Secretary of Agriculture and others
+## § 2279k. Authorization of protection operations for the Secretary of Agriculture and others
 
 **(a) In general** The Department of Agriculture is authorized to employ qualified law enforcement officers or special agents to provide—
 
@@ -5340,7 +5340,7 @@ The authorities granted under this section may be exercised notwithstanding sect
 
 Not later than September 30, 2019, and each September 30 through 2024, the Secretary shall provide to the Committee on Agriculture of the House of Representatives and Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the protection provided, and accounting for the expenditures made, pursuant to this section.
 
-(Pub. L. 115–334, title XII, § 12520, Dec. 20, 2018, 132 Stat. 5001.)
+(Pub. L. 115–334, title XII, § 12520, Dec. 20, 2018, 132 Stat. 5001.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5348,7 +5348,7 @@ Not later than September 30, 2019, and each September 30 through 2024, the Secre
 
 “Secretary” means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of this title.
 
-## § 2279l. National Detector Dog Training Center
+## § 2279l. National Detector Dog Training Center
 
 **(a) In general**
 
@@ -5370,7 +5370,7 @@ There is established a National Detector Dog Training Center (referred to in thi
 
 **(7)** Any other duties necessary to safeguard domestic agricultural and natural resources from foreign and invasive pests and diseases, as determined by the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service.
 
-(Pub. L. 118–191, § 2, Dec. 23, 2024, 138 Stat. 2658.)
+(Pub. L. 118–191, § 2, Dec. 23, 2024, 138 Stat. 2658.)
 
 **Editorial Notes**
 

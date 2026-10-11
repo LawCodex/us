@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 88—WESTERN AND CENTRAL PACIFIC FISHERIES CONVENTION
 
-## § 6901. Definitions
+## § 6901. Definitions
 
 In this chapter:
 
@@ -63,7 +63,7 @@ The term “fishing vessel” means any vessel used or intended for use for the 
 
 The term “highly migratory fish stocks” means all fish stocks of the species listed in Annex 1 of the 1982 Convention, except sauries, occurring in the Convention Area,1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 and such other species of fish as the Commission may determine.
 
@@ -83,7 +83,7 @@ The term “transshipment” means the unloading of all or any of the fish on bo
 
 The terms “WCPFC Convention” and “Western and Central Pacific Convention” means the Convention on the Conservation and Management of the Highly Migratory Fish Stocks in the Western and Central Pacific Ocean, (including any annexes, amendments, or protocols which are in force, or have come into force, for the United States) which was adopted at Honolulu, Hawaii, on September 5, 2000, by the Multilateral High Level Conference on the Highly Migratory Fish Stocks in the Western and Central Pacific Ocean.
 
-(Pub. L. 109–479, title V, § 502, Jan. 12, 2007, 120 Stat. 3635.)
+(Pub. L. 109–479, title V, § 502, Jan. 12, 2007, 120 Stat. 3635.)
 
 **Editorial Notes**
 
@@ -95,9 +95,9 @@ Presidential Proclamation Numbered 5030, referred to in par. (5), is Proc. No. 5
 
 **Short Title**
 
-Pub. L. 109–479, title V, § 501, Jan. 12, 2007, 120 Stat. 3635, provided that: “This title [enacting this chapter] may be cited as the ‘Western and Central Pacific Fisheries Convention Implementation Act’.”
+Pub. L. 109–479, title V, § 501, Jan. 12, 2007, 120 Stat. 3635, provided that: “This title [enacting this chapter] may be cited as the ‘Western and Central Pacific Fisheries Convention Implementation Act’.”
 
-## § 6902. Appointment of United States Commissioners
+## § 6902. Appointment of United States Commissioners
 
 **(a) In general**
 
@@ -143,11 +143,11 @@ Each member of the advisory committee appointed under subparagraph (A) shall ser
 
 The advisory committee established by subparagraph (A) shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and the WCPFC Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures. A majority of the members of the advisory committee shall constitute a quorum. Meetings of the advisory committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.2
 
-<sup>2</sup>  So in original. The period probably should be a comma.
+<sup>2</sup> So in original. The period probably should be a comma.
 
 and the advisory committee shall not be subject to chapter 10 of title 5.
 
@@ -171,7 +171,7 @@ The Secretary shall provide to advisory committees in a timely manner such admin
 
 **(ii)** shall not be considered Federal employees except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
 
-**(f) 3 [footnote: 3 So in original. No subsec. (e) has been enacted.] Memorandum of understanding** For highly migratory species in the Pacific, the Secretary, in coordination with the Secretary of State, shall develop a memorandum of understanding with the Western Pacific, Pacific, and North Pacific Fishery Management Councils, that clarifies the role of the relevant Council or Councils with respect to—
+**(f) 3 [footnote: 3 So in original. No subsec. (e) has been enacted.] Memorandum of understanding** For highly migratory species in the Pacific, the Secretary, in coordination with the Secretary of State, shall develop a memorandum of understanding with the Western Pacific, Pacific, and North Pacific Fishery Management Councils, that clarifies the role of the relevant Council or Councils with respect to—
 
 **(1)** participation in United States delegations to international fishery organizations in the Pacific Ocean, including government-to-government consultations;
 
@@ -181,7 +181,7 @@ The Secretary shall provide to advisory committees in a timely manner such admin
 
 **(4)** recommending those domestic fishing regulations that are consistent with the actions of the international fishery organization, for approval and implementation under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)
 
-(Pub. L. 109–479, title V, § 503, Jan. 12, 2007, 120 Stat. 3636; Pub. L. 111–348, title III, § 301, Jan. 4, 2011, 124 Stat. 3672; Pub. L. 114–327, title III, § 301(a)(1), Dec. 16, 2016, 130 Stat. 1993; Pub. L. 117–286, § 4(a)(133), Dec. 27, 2022, 136 Stat. 4320.)
+(Pub. L. 109–479, title V, § 503, Jan. 12, 2007, 120 Stat. 3636; Pub. L. 111–348, title III, § 301, Jan. 4, 2011, 124 Stat. 3672; Pub. L. 114–327, title III, § 301(a)(1), Dec. 16, 2016, 130 Stat. 1993; Pub. L. 117–286, § 4(a)(133), Dec. 27, 2022, 136 Stat. 4320.)
 
 **Editorial Notes**
 
@@ -189,19 +189,19 @@ The Secretary shall provide to advisory committees in a timely manner such admin
 
 This chapter, referred to in subsec. (d)(1)(C), probably should have been “this title” in the original, meaning title V of Pub. L. 109–479 which enacted this chapter.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (d)(1)(C) and (f)(4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (d)(1)(C) and (f)(4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Amendments**
 
 2022—Subsec. (d)(1)(C). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
-2016—Subsec. (a). Pub. L. 114–327, § 301(a)(1)(A), inserted “and commercial fishing” after “fish stocks”.
+2016—Subsec. (a). Pub. L. 114–327, § 301(a)(1)(A), inserted “and commercial fishing” after “fish stocks”.
 
-Subsec. (d)(1)(E). Pub. L. 114–327, § 301(a)(1)(B), added subpar. (E).
+Subsec. (d)(1)(E). Pub. L. 114–327, § 301(a)(1)(B), added subpar. (E).
 
-2011—Subsec. (a). Pub. L. 111–348, § 301(1), substituted “Management Council, and one of whom shall be the chairman or a member of” for “Management Council and”.
+2011—Subsec. (a). Pub. L. 111–348, § 301(1), substituted “Management Council, and one of whom shall be the chairman or a member of” for “Management Council and”.
 
-Subsec. (c)(1). Pub. L. 111–348, § 301(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
+Subsec. (c)(1). Pub. L. 111–348, § 301(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Individuals serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
 
 “(A) injury compensation under chapter 81 of title 5;
 
@@ -209,7 +209,7 @@ Subsec. (c)(1). Pub. L. 111–348, § 301(2), added par. (1) and struck out fo
 
 “(C) any other criminal or civil statute or regulation governing the conduct of Federal employees.”
 
-Subsec. (d)(2)(B)(ii). Pub. L. 111–348, § 301(3), added cl. (ii) and struck out former cl. (ii) which read as follows: “shall be considered Federal employees while performing service as members of an advisory committee only for purposes of—
+Subsec. (d)(2)(B)(ii). Pub. L. 111–348, § 301(3), added cl. (ii) and struck out former cl. (ii) which read as follows: “shall be considered Federal employees while performing service as members of an advisory committee only for purposes of—
 
 “(I) injury compensation under chapter 81 of title 5;
 
@@ -217,7 +217,7 @@ Subsec. (d)(2)(B)(ii). Pub. L. 111–348, § 301(3), added cl. (ii) and struck
 
 “(III) any other criminal or civil statute or regulation governing the conduct of Federal employees in their capacity as Federal employees.”
 
-## § 6903. Authority and responsibility of the Secretary of State
+## § 6903. Authority and responsibility of the Secretary of State
 
 The Secretary of State may—
 
@@ -227,9 +227,9 @@ The Secretary of State may—
 
 **(3)** act upon, or refer to other appropriate authority, any communication referred to in paragraph (1).
 
-(Pub. L. 109–479, title V, § 504, Jan. 12, 2007, 120 Stat. 3639.)
+(Pub. L. 109–479, title V, § 504, Jan. 12, 2007, 120 Stat. 3639.)
 
-## § 6904. Rulemaking authority of the Secretary of Commerce
+## § 6904. Rulemaking authority of the Secretary of Commerce
 
 **(a) Promulgation of regulations**
 
@@ -239,15 +239,15 @@ The Secretary, in consultation with the Secretary of State and, with respect to 
 
 The Secretary may promulgate regulations applicable to all vessels and persons subject to the jurisdiction of the United States, including United States flag vessels wherever they may be operating, on such date as the Secretary shall prescribe.
 
-(Pub. L. 109–479, title V, § 505, Jan. 12, 2007, 120 Stat. 3639.)
+(Pub. L. 109–479, title V, § 505, Jan. 12, 2007, 120 Stat. 3639.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-## § 6905. Enforcement
+## § 6905. Enforcement
 
 **(a) In general** The Secretary may—
 
@@ -293,7 +293,7 @@ For additional prohibitions relating to this chapter and enforcement of this cha
 
 The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this Act, except that the Secretary may release or make public any such information in any aggregate or summary form that does not directly or indirectly disclose the identity or business of any person. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary of any information submitted in compliance with any requirement or regulation under this Act.
 
-(Pub. L. 109–479, title V, § 506, Jan. 12, 2007, 120 Stat. 3640; Pub. L. 114–81, title I, § 105(1), Nov. 5, 2015, 129 Stat. 657.)
+(Pub. L. 109–479, title V, § 506, Jan. 12, 2007, 120 Stat. 3640; Pub. L. 114–81, title I, § 105(1), Nov. 5, 2015, 129 Stat. 657.)
 
 **Editorial Notes**
 
@@ -301,19 +301,19 @@ The Secretary shall, by regulation, prescribe such procedures as may be necessar
 
 This Act, referred to in subsecs. (a)(1), (b), and (d), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575, known as the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 1801 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Tuna Conventions Act, referred to in subsec. (b), probably means the Tuna Conventions Act of 1950, act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
+The Tuna Conventions Act, referred to in subsec. (b), probably means the Tuna Conventions Act of 1950, act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
-The South Pacific Tuna Act, referred to in subsec. (b), probably means the South Pacific Tuna Act of 1988, Pub. L. 100–330, June 7, 1988, 102 Stat. 591, which is classified generally to chapter 16C (§ 973 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 973 of this title and Tables.
+The South Pacific Tuna Act, referred to in subsec. (b), probably means the South Pacific Tuna Act of 1988, Pub. L. 100–330, June 7, 1988, 102 Stat. 591, which is classified generally to chapter 16C (§ 973 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 973 of this title and Tables.
 
-The Atlantic Tunas Convention Act, referred to in subsec. (b), probably means the Atlantic Tunas Convention Act of 1975, Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+The Atlantic Tunas Convention Act, referred to in subsec. (b), probably means the Atlantic Tunas Convention Act of 1975, Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
 **Amendments**
 
 2015—Pub. L. 114–81 amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857) were incorporated into and made a part of this chapter. Any person that violates any provision of this chapter is subject to the penalties and entitled to the privileges and immunities provided in the Magnuson-Stevens Fishery Conservation and Management Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of that Act were incorporated into and made a part of this chapter.”
 
-## § 6906. Prohibited acts
+## § 6906. Prohibited acts
 
 **(a) In general** It is unlawful for any person—
 
@@ -329,9 +329,9 @@ The Atlantic Tunas Convention Act, referred to in subsec. (b), probably means th
 
 **(6)** to ship, transport, offer for sale, sell, purchase, import, export, or have custody, control, or possession of, any fish taken or retained in violation of this chapter or any regulation, permit, or agreement referred to in paragraph (1) or (2);
 
-**(7)** to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any chapter 1
+**(7)** to interfere with, delay, or prevent, by any means, the apprehension or arrest of another person, knowing that such other person has committed any chapter 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 prohibited by this section;
 
@@ -353,7 +353,7 @@ prohibited by this section;
 
 In the case of any fish described in subsection (a) offered for entry into the United States, the Secretary of Commerce shall require proof satisfactory to the Secretary that such fish is not ineligible for such entry under the terms of section 6905(a) of this title.
 
-(Pub. L. 109–479, title V, § 507, Jan. 12, 2007, 120 Stat. 3641; Pub. L. 114–81, title I, § 105(2), Nov. 5, 2015, 129 Stat. 657.)
+(Pub. L. 109–479, title V, § 507, Jan. 12, 2007, 120 Stat. 3641; Pub. L. 114–81, title I, § 105(2), Nov. 5, 2015, 129 Stat. 657.)
 
 **Editorial Notes**
 
@@ -361,13 +361,13 @@ In the case of any fish described in subsection (a) offered for entry into the U
 
 2015—Subsec. (a)(2). Pub. L. 114–81 substituted “suspension, of” for “suspension, on”.
 
-## § 6907. Cooperation in carrying out convention
+## § 6907. Cooperation in carrying out convention
 
 **(a) Federal and State agencies; private institutions and organizations**
 
 The Secretary may cooperate with agencies of the United States government,1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 any public or private institutions or organizations within the United States or abroad, and, through the Secretary of State, the duly authorized officials of the government of any party to the WCPFC Convention, in carrying out responsibilities under this chapter.
 
@@ -393,9 +393,9 @@ Except as provided in subsection (e) of this section, nothing in this chapter sh
 
 **(B)** has enacted laws or promulgated regulations that implement the recommendations of the commission within the boundaries of such State that—
 
-**(i)** are less restrictive that 2
+**(i)** are less restrictive that 2
 
-<sup>2</sup>  So in original. Probably should be “than”.
+<sup>2</sup> So in original. Probably should be “than”.
 
 the regulations promulgated under section 6905(a) of this title; or
 
@@ -407,9 +407,9 @@ The regulations promulgated pursuant to section 6905(a) of this title shall appl
 
 **(3) Hearing**
 
-If a State requests a formal agency hearing, the Secretary shall not apply the regulations promulgated pursuant 3
+If a State requests a formal agency hearing, the Secretary shall not apply the regulations promulgated pursuant 3
 
-<sup>3</sup>  So in original. Probably should be followed by “to”.
+<sup>3</sup> So in original. Probably should be followed by “to”.
 
 section 6905(a) of this title within that State’s boundaries unless the hearing record supports a determination under paragraph (1)(A) or (B).
 
@@ -417,15 +417,15 @@ section 6905(a) of this title within that State’s boundaries unless the hearin
 
 To ensure that the purposes of subsection (e) are carried out, the Secretary shall undertake a continuing review of the laws and regulations of all States to which subsection (e) applies or may apply and the extent to which such laws and regulations are enforced.
 
-(Pub. L. 109–479, title V, § 508, Jan. 12, 2007, 120 Stat. 3642.)
+(Pub. L. 109–479, title V, § 508, Jan. 12, 2007, 120 Stat. 3642.)
 
-## § 6908. Territorial participation
+## § 6908. Territorial participation
 
 The Secretary of State shall ensure participation in the Commission and its subsidiary bodies by American Samoa, Guam, and the Northern Mariana Islands to the same extent provided to the territories of other nations.
 
-(Pub. L. 109–479, title V, § 509, Jan. 12, 2007, 120 Stat. 3643.)
+(Pub. L. 109–479, title V, § 509, Jan. 12, 2007, 120 Stat. 3643.)
 
-## § 6909. Exclusive Economic Zone notification
+## § 6909. Exclusive Economic Zone notification
 
 Masters of commercial fishing vessels of nations fishing for species under the management authority of the Western and Central Pacific Fisheries Convention that do not carry vessel monitoring systems capable of communicating with United States enforcement authorities shall, prior to, or as soon as reasonably possible after, entering and transiting the Exclusive Economic Zone seaward of Hawaii and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area—
 
@@ -435,9 +435,9 @@ Masters of commercial fishing vessels of nations fishing for species under the m
 
 **(3)** where requested by an enforcement officer, proceed to a specified location so that a vessel inspection can be conducted.
 
-(Pub. L. 109–479, title V, § 510, Jan. 12, 2007, 120 Stat. 3643.)
+(Pub. L. 109–479, title V, § 510, Jan. 12, 2007, 120 Stat. 3643.)
 
-## § 6909a. United States conservation, management, and enforcement objectives
+## § 6909a. United States conservation, management, and enforcement objectives
 
 The Secretary, in consultation with the Secretary of State, in the course of negotiations, shall seek—
 
@@ -449,7 +449,7 @@ The Secretary, in consultation with the Secretary of State, in the course of neg
 
 **(4)** to ensure that conservation and management measures take into consideration traditional fishing patterns of fishing vessels of the United States and the operating requirements of the fisheries covered by the Western and Central Pacific Convention.
 
-(Pub. L. 109–479, title V, § 511, as added Pub. L. 114–327, title III, § 301(a)(2), Dec. 16, 2016, 130 Stat. 1994.)
+(Pub. L. 109–479, title V, § 511, as added Pub. L. 114–327, title III, § 301(a)(2), Dec. 16, 2016, 130 Stat. 1994.)
 
 **Editorial Notes**
 
@@ -457,8 +457,8 @@ The Secretary, in consultation with the Secretary of State, in the course of neg
 
 A prior section 511 of Pub. L. 109–479 was renumbered section 512 and is classified to section 6910 of this title.
 
-## § 6910. Authorization of appropriations
+## § 6910. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary of Commerce such sums as may be necessary to carry out this chapter and to pay the United States’ contribution to the Commission under section 5 of part III of the WCPFC Convention.
 
-(Pub. L. 109–479, title V, § 512, formerly § 511, Jan. 12, 2007, 120 Stat. 3644; renumbered § 512, Pub. L. 114–327, title III, § 301(a)(2), Dec. 16, 2016, 130 Stat. 1994.)
+(Pub. L. 109–479, title V, § 512, formerly § 511, Jan. 12, 2007, 120 Stat. 3644; renumbered § 512, Pub. L. 114–327, title III, § 301(a)(2), Dec. 16, 2016, 130 Stat. 1994.)

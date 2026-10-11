@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 228 (§§ 3591 to 3599) relating to imposition, payment, and collection of fines was added by Pub. L. 98–473, title II, § 238(a), Oct. 12, 1984, 98 Stat. 2034, effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Pub. L. 98–596, § 12(a)(1), Oct. 30, 1984, 98 Stat. 3139, repealed chapter 228 applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596.
+A prior chapter 228 (§§ 3591 to 3599) relating to imposition, payment, and collection of fines was added by Pub. L. 98–473, title II, § 238(a), Oct. 12, 1984, 98 Stat. 2034, effective pursuant to section 235(a)(1) of Pub. L. 98–473 the first day of the first calendar month beginning twenty-four months after Oct. 12, 1984. Pub. L. 98–596, § 12(a)(1), Oct. 30, 1984, 98 Stat. 3139, repealed chapter 228 applicable pursuant to section 12(b) of Pub. L. 98–596 on and after the date of enactment of Pub. L. 98–473 (Oct. 12, 1984). Section 238(i) of Pub. L. 98–473 which repealed section 238 of Pub. L. 98–473 on the same date established by section 235(a)(1) of Pub. L. 98–473 was repealed by section 12(a)(9) of Pub. L. 98–596.
 
 **Amendments**
 
-2006—Pub. L. 109–177, title II, § 222(b), Mar. 9, 2006, 120 Stat. 232, which directed amendment of the “table of sections of the bill” by adding item 3599 after item 3598, was executed by adding item 3599 to the table of sections for this chapter to reflect the probable intent of Congress.
+2006—Pub. L. 109–177, title II, § 222(b), Mar. 9, 2006, 120 Stat. 232, which directed amendment of the “table of sections of the bill” by adding item 3599 after item 3598, was executed by adding item 3599 to the table of sections for this chapter to reflect the probable intent of Congress.
 
-## § 3591. Sentence of death
+## § 3591. Sentence of death
 
 **(a)** A defendant who has been found guilty of—
 
@@ -51,17 +51,17 @@ shall be sentenced to death if, after consideration of the factors set forth in 
 
 shall be sentenced to death if, after consideration of the factors set forth in section 3592 in the course of a hearing held pursuant to section 3593, it is determined that imposition of a sentence of death is justified, except that no person may be sentenced to death who was less than 18 years of age at the time of the offense.
 
-(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1959.)
+(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1959.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 103–322, title VI, § 60001, Sept. 13, 1994, 108 Stat. 1959, provided that: “This title [enacting this chapter and sections 36, 37, 1118 to 1121, 2245, 2280, 2281, and 2332a of this title, amending sections 34, 241, 242, 245, 247, 794, 844, 924, 930, 1091, 1111, 1114, 1116, 1117, 1201, 1203, 1503, 1512, 1513, 1716, 1958, 1959, 1992, 2113, 2119, 2251, 2332, 2340A, 3005, and 3432 of this title and section 1324 of Title 8, Aliens and Nationality, renumbering former section 2245 of this title as 2246, repealing section 46503 of Title 49, Transportation, and enacting provisions set out as notes under this section and sections 36, 37, and 2280 of this title] may be cited as the ‘Federal Death Penalty Act of 1994’.”
+Pub. L. 103–322, title VI, § 60001, Sept. 13, 1994, 108 Stat. 1959, provided that: “This title [enacting this chapter and sections 36, 37, 1118 to 1121, 2245, 2280, 2281, and 2332a of this title, amending sections 34, 241, 242, 245, 247, 794, 844, 924, 930, 1091, 1111, 1114, 1116, 1117, 1201, 1203, 1503, 1512, 1513, 1716, 1958, 1959, 1992, 2113, 2119, 2251, 2332, 2340A, 3005, and 3432 of this title and section 1324 of Title 8, Aliens and Nationality, renumbering former section 2245 of this title as 2246, repealing section 46503 of Title 49, Transportation, and enacting provisions set out as notes under this section and sections 36, 37, and 2280 of this title] may be cited as the ‘Federal Death Penalty Act of 1994’.”
 
 **Applicability to Uniform Code of Military Justice**
 
-Pub. L. 103–322, title VI, § 60004, Sept. 13, 1994, 108 Stat. 1970, provided that: “Chapter 228 of title 18, United States Code, as added by this title, shall not apply to prosecutions under the Uniform Code of Military Justice (10 U.S.C. 801).”
+Pub. L. 103–322, title VI, § 60004, Sept. 13, 1994, 108 Stat. 1970, provided that: “Chapter 228 of title 18, United States Code, as added by this title, shall not apply to prosecutions under the Uniform Code of Military Justice (10 U.S.C. 801).”
 
 **Executive Documents**
 
@@ -115,7 +115,7 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 3592. Mitigating and aggravating factors to be considered in determining whether a sentence of death is justified
+## § 3592. Mitigating and aggravating factors to be considered in determining whether a sentence of death is justified
 
 **(a) Mitigating Factors.—** In determining whether a sentence of death is to be imposed on a defendant, the finder of fact shall consider any mitigating factor, including the following:
 
@@ -147,9 +147,9 @@ The jury, or if there is no jury, the court, may consider whether any other aggr
 
 **(c) Aggravating Factors for Homicide.—** In determining whether a sentence of death is justified for an offense described in section 3591(a)(2), the jury, or if there is no jury, the court, shall consider each of the following aggravating factors for which notice has been given and determine which, if any, exist:
 
-**(1) Death during commission of another crime.—** The death, or injury resulting in death, occurred during the commission or attempted commission of, or during the immediate flight from the commission of, an offense under section 32 (destruction of aircraft or aircraft facilities), section 33 (destruction of motor vehicles or motor vehicle facilities), section 37 (violence at international airports), section 351 (violence against Members of Congress, Cabinet officers, or Supreme Court Justices), an offense under section 751 (prisoners in custody of institution or officer), section 794 (gathering or delivering defense information to aid foreign government), section 844(d) (transportation of explosives in interstate commerce for certain purposes), section 844(f) (destruction of Government property by explosives), section 1118 (prisoners serving life term), section 1201 (kidnapping), section 844(i) (destruction of property affecting interstate commerce by explosives), section 1116 (killing or attempted killing of diplomats), section 1203 (hostage taking), section 1992 1
+**(1) Death during commission of another crime.—** The death, or injury resulting in death, occurred during the commission or attempted commission of, or during the immediate flight from the commission of, an offense under section 32 (destruction of aircraft or aircraft facilities), section 33 (destruction of motor vehicles or motor vehicle facilities), section 37 (violence at international airports), section 351 (violence against Members of Congress, Cabinet officers, or Supreme Court Justices), an offense under section 751 (prisoners in custody of institution or officer), section 794 (gathering or delivering defense information to aid foreign government), section 844(d) (transportation of explosives in interstate commerce for certain purposes), section 844(f) (destruction of Government property by explosives), section 1118 (prisoners serving life term), section 1201 (kidnapping), section 844(i) (destruction of property affecting interstate commerce by explosives), section 1116 (killing or attempted killing of diplomats), section 1203 (hostage taking), section 1992 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (wrecking trains), section 2245 (offenses resulting in death), section 2280 (maritime violence), section 2281 (maritime platform violence), section 2332 (terrorist acts abroad against United States nationals), section 2332a (use of weapons of mass destruction), or section 2381 (treason) of this title, or section 46502 of title 49, United States Code (aircraft piracy).
 
@@ -221,15 +221,15 @@ The jury, or if there is no jury, the court, may consider whether any other aggr
 
 The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
-(Added and amended Pub. L. 103–322, title VI, § 60002(a), title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII, § 728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§ 601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 107–273, div. B, title IV, § 4002(e)(2), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–248, title II, § 206(a)(4), July 27, 2006, 120 Stat. 614.)
+(Added and amended Pub. L. 103–322, title VI, § 60002(a), title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII, § 728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§ 601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 107–273, div. B, title IV, § 4002(e)(2), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–248, title II, § 206(a)(4), July 27, 2006, 120 Stat. 614.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1992 of this title, referred to in subsec. (c)(1), was repealed and a new section 1992 enacted by Pub. L. 109–177, title I, § 110(a), Mar. 9, 2006, 120 Stat. 205, and, as so enacted, section 1992 no longer relates only to the crime of wrecking trains.
+Section 1992 of this title, referred to in subsec. (c)(1), was repealed and a new section 1992 enacted by Pub. L. 109–177, title I, § 110(a), Mar. 9, 2006, 120 Stat. 205, and, as so enacted, section 1992 no longer relates only to the crime of wrecking trains.
 
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (c)(12), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. Title II of the Act, known as the Controlled Substances Act, is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. Title III of the Act, known as the Controlled Substances Import and Export Act, is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under sections 801 and 951 of Title 21 and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (c)(12), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. Title II of the Act, known as the Controlled Substances Act, is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. Title III of the Act, known as the Controlled Substances Import and Export Act, is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under sections 801 and 951 of Title 21 and Tables.
 
 **Amendments**
 
@@ -237,13 +237,13 @@ The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in 
 
 2002—Subsec. (c)(1). Pub. L. 107–273 substituted “section 37” for “section 36”.
 
-1996—Subsec. (c)(1). Pub. L. 104–294, § 601(b)(7), substituted “section 2332a (use of weapons of mass destruction)” for “section 2339 (use of weapons of mass destruction)”.
+1996—Subsec. (c)(1). Pub. L. 104–294, § 601(b)(7), substituted “section 2332a (use of weapons of mass destruction)” for “section 2339 (use of weapons of mass destruction)”.
 
-Subsec. (c)(12). Pub. L. 104–294, § 604(b)(35), substituted “Comprehensive Drug Abuse Prevention and Control Act of 1970” for “Controlled Substances Act”.
+Subsec. (c)(12). Pub. L. 104–294, § 604(b)(35), substituted “Comprehensive Drug Abuse Prevention and Control Act of 1970” for “Controlled Substances Act”.
 
 Subsec. (c)(16). Pub. L. 104–132 added par. (16).
 
-1994—Subsec. (c)(1). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping”.
+1994—Subsec. (c)(1). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -251,7 +251,7 @@ Subsec. (c)(16). Pub. L. 104–132 added par. (16).
 
 Amendment by section 604(b)(35) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-## § 3593. Special hearing to determine whether a sentence of death is justified
+## § 3593. Special hearing to determine whether a sentence of death is justified
 
 **(a) Notice by the Government.—** If, in a case involving an offense described in section 3591, the attorney for the government believes that the circumstances of the offense are such that a sentence of death is justified under this chapter, the attorney shall, a reasonable time before the trial or before acceptance by the court of a plea of guilty, sign and file with the court, and serve on the defendant, a notice—
 
@@ -295,7 +295,7 @@ the jury, or if there is no jury, the court, shall consider whether all the aggr
 
 **(f) Special Precaution To Ensure Against Discrimination.—** In a hearing held before a jury, the court, prior to the return of a finding under subsection (e), shall instruct the jury that, in considering whether a sentence of death is justified, it shall not consider the race, color, religious beliefs, national origin, or sex of the defendant or of any victim and that the jury is not to recommend a sentence of death unless it has concluded that it would recommend a sentence of death for the crime in question no matter what the race, color, religious beliefs, national origin, or sex of the defendant or of any victim may be. The jury, upon return of a finding under subsection (e), shall also return to the court a certificate, signed by each juror, that consideration of the race, color, religious beliefs, national origin, or sex of the defendant or any victim was not involved in reaching his or her individual decision and that the individual juror would have made the same recommendation regarding a sentence for the crime in question no matter what the race, color, religious beliefs, national origin, or sex of the defendant or any victim may be.
 
-(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1964; amended Pub. L. 105–6, § 2(c), Mar. 19, 1997, 111 Stat. 12; Pub. L. 107–273, div. B, title IV, § 4002(e)(8), Nov. 2, 2002, 116 Stat. 1810.)
+(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1964; amended Pub. L. 105–6, § 2(c), Mar. 19, 1997, 111 Stat. 12; Pub. L. 107–273, div. B, title IV, § 4002(e)(8), Nov. 2, 2002, 116 Stat. 1810.)
 
 **Editorial Notes**
 
@@ -315,13 +315,13 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out
 
 Amendment by Pub. L. 105–6 applicable to cases pending on Mar. 19, 1997, see section 2(d) of Pub. L. 105–6, set out as an Effective Date note under section 3510 of this title.
 
-## § 3594. Imposition of a sentence of death
+## § 3594. Imposition of a sentence of death
 
 Upon a recommendation under section 3593(e) that the defendant should be sentenced to death or life imprisonment without possibility of release, the court shall sentence the defendant accordingly. Otherwise, the court shall impose any lesser sentence that is authorized by law. Notwithstanding any other law, if the maximum term of imprisonment for the offense is life imprisonment, the court may impose a sentence of life imprisonment without possibility of release.
 
-(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1966.)
+(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1966.)
 
-## § 3595. Review of a sentence of death
+## § 3595. Review of a sentence of death
 
 **(a) Appeal.—** In a case in which a sentence of death is imposed, the sentence shall be subject to review by the court of appeals upon appeal by the defendant. Notice of appeal must be filed within the time specified for the filing of a notice of appeal. An appeal under this section may be consolidated with an appeal of the judgment of conviction and shall have priority over all other cases.
 
@@ -351,9 +351,9 @@ the court shall remand the case for reconsideration under section 3593 or imposi
 
 **(3)** The court of appeals shall state in writing the reasons for its disposition of an appeal of a sentence of death under this section.
 
-(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1967.)
+(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1967.)
 
-## § 3596. Implementation of a sentence of death
+## § 3596. Implementation of a sentence of death
 
 **(a) In General.—** A person who has been sentenced to death pursuant to this chapter shall be committed to the custody of the Attorney General until exhaustion of the procedures for appeal of the judgment of conviction and for review of the sentence. When the sentence is to be implemented, the Attorney General shall release the person sentenced to death to the custody of a United States marshal, who shall supervise implementation of the sentence in the manner prescribed by the law of the State in which the sentence is imposed. If the law of the State does not provide for implementation of a sentence of death, the court shall designate another State, the law of which does provide for the implementation of a sentence of death, and the sentence shall be implemented in the latter State in the manner prescribed by such law.
 
@@ -361,23 +361,23 @@ the court shall remand the case for reconsideration under section 3593 or imposi
 
 **(c) Mental Capacity.—** A sentence of death shall not be carried out upon a person who is mentally retarded. A sentence of death shall not be carried out upon a person who, as a result of mental disability, lacks the mental capacity to understand the death penalty and why it was imposed on that person.
 
-(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1967.)
+(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1967.)
 
-## § 3597. Use of State facilities
+## § 3597. Use of State facilities
 
 **(a) In General.—** A United States marshal charged with supervising the implementation of a sentence of death may use appropriate State or local facilities for the purpose, may use the services of an appropriate State or local official or of a person such an official employs for the purpose, and shall pay the costs thereof in an amount approved by the Attorney General.
 
 **(b) Excuse of an Employee on Moral or Religious Grounds.—** No employee of any State department of corrections, the United States Department of Justice, the Federal Bureau of Prisons, or the United States Marshals Service, and no employee providing services to that department, bureau, or service under contract shall be required, as a condition of that employment or contractual obligation, to be in attendance at or to participate in any prosecution or execution under this section if such participation is contrary to the moral or religious convictions of the employee. In this subsection, “participation in executions” includes personal preparation of the condemned individual and the apparatus used for execution and supervision of the activities of other personnel in carrying out such activities.
 
-(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1968.)
+(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1968.)
 
-## § 3598. Special provisions for Indian country
+## § 3598. Special provisions for Indian country
 
 Notwithstanding sections 1152 and 1153, no person subject to the criminal jurisdiction of an Indian tribal government shall be subject to a capital sentence under this chapter for any offense the Federal jurisdiction for which is predicated solely on Indian country (as defined in section 1151 of this title) and which has occurred within the boundaries of Indian country, unless the governing body of the tribe has elected that this chapter have effect over land and persons subject to its criminal jurisdiction.
 
-(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1968.)
+(Added Pub. L. 103–322, title VI, § 60002(a), Sept. 13, 1994, 108 Stat. 1968.)
 
-## § 3599. Counsel for financially unable defendants
+## § 3599. Counsel for financially unable defendants
 
 **(a)**
 
@@ -403,29 +403,29 @@ shall be entitled to the appointment of one or more attorneys and the furnishing
 
 **(g)**
 
-**(1)** Compensation shall be paid to attorneys appointed under this subsection 1
+**(1)** Compensation shall be paid to attorneys appointed under this subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
-at a rate of not more than $125 per hour for in-court and out-of-court time. The Judicial Conference is authorized to raise the maximum for hourly payment specified in the 2
+at a rate of not more than $125 per hour for in-court and out-of-court time. The Judicial Conference is authorized to raise the maximum for hourly payment specified in the 2
 
-<sup>2</sup>  So in original. Probably should be “this”.
+<sup>2</sup> So in original. Probably should be “this”.
 
-paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay for the General Schedule made pursuant to section 5305 3
+paragraph up to the aggregate of the overall average percentages of the adjustments in the rates of pay for the General Schedule made pursuant to section 5305 3
 
-<sup>3</sup>  So in original. Probably should be “5303”.
+<sup>3</sup> So in original. Probably should be “5303”.
 
 of title 5 on or after such date. After the rates are raised under the preceding sentence, such hourly range may be raised at intervals of not less than one year, up to the aggregate of the overall average percentages of such adjustments made since the last raise under this paragraph.
 
 **(2)** Fees and expenses paid for investigative, expert, and other reasonably necessary services authorized under subsection (f) shall not exceed $7,500 in any case, unless payment in excess of that limit is certified by the court, or by the United States magistrate judge, if the services were rendered in connection with the case disposed of entirely before such magistrate judge, as necessary to provide fair compensation for services of an unusual character or duration, and the amount of the excess payment is approved by the chief judge of the circuit. The chief judge of the circuit may delegate such approval authority to an active or senior circuit judge.
 
-**(3)** The amounts paid under this paragraph 4
+**(3)** The amounts paid under this paragraph 4
 
-<sup>4</sup>  So in original. Probably should be “subsection”.
+<sup>4</sup> So in original. Probably should be “subsection”.
 
 for services in any case shall be disclosed to the public, after the disposition of the petition.
 
-(Added Pub. L. 109–177, title II, § 222(a), Mar. 9, 2006, 120 Stat. 231; amended Pub. L. 110–406, § 12(c), Oct. 13, 2008, 122 Stat. 4294.)
+(Added Pub. L. 109–177, title II, § 222(a), Mar. 9, 2006, 120 Stat. 231; amended Pub. L. 110–406, § 12(c), Oct. 13, 2008, 122 Stat. 4294.)
 
 **Editorial Notes**
 

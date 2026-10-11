@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1976—Pub. L. 94–381, § 4, Aug. 12, 1976, 90 Stat. 1119, struck out item 2281 “Injunction against enforcement of State statute; three-judge court required”, item 2282 “Injunction against enforcement of Federal statute; three-judge court required”, and inserted “when required” after “district court” in item 2284.
+1976—Pub. L. 94–381, § 4, Aug. 12, 1976, 90 Stat. 1119, struck out item 2281 “Injunction against enforcement of State statute; three-judge court required”, item 2282 “Injunction against enforcement of Federal statute; three-judge court required”, and inserted “when required” after “district court” in item 2284.
 
-## [§§ 2281, 2282. Repealed. Pub. L. 94–381, §§ 1, 2, Aug. 12, 1976, 90 Stat. 1119]
+## [§§ 2281, 2282. Repealed. Pub. L. 94–381, §§ 1, 2, Aug. 12, 1976, 90 Stat. 1119]
 
 Section 2281, act June 25, 1948, ch. 646, 62 Stat. 968, provided that an interlocutory or permanent injunction restraining the enforcement, operation or execution of a State statute on grounds of unconstitutionality should not be granted unless the application has been heard and determined by a three-judge district court.
 
@@ -33,7 +33,7 @@ Section 2282, act June 25, 1948, ch. 646, 62 Stat. 968, provided that an interlo
 
 Repeal not applicable to any action commenced on or before Aug. 12, 1976, see section 7 of Pub. L. 94–381 set out as an Effective Date of 1976 Amendment note under section 2284 of this title.
 
-## § 2283. Stay of State court proceedings
+## § 2283. Stay of State court proceedings
 
 A court of the United States may not grant an injunction to stay proceedings in a State court except as expressly authorized by Act of Congress, or where necessary in aid of its jurisdiction, or to protect or effectuate its judgments.
 
@@ -41,7 +41,7 @@ A court of the United States may not grant an injunction to stay proceedings in 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 379 (Mar. 3, 1911, ch. 231, § 265, 36 Stat. 1162).
+Based on title 28, U.S.C., 1940 ed., § 379 (Mar. 3, 1911, ch. 231, § 265, 36 Stat. 1162).
 
 An exception as to acts of Congress relating to bankruptcy was omitted and the general exception substituted to cover all exceptions.
 
@@ -53,7 +53,7 @@ Therefore the revised section restores the basic law as generally understood and
 
 Changes were made in phraseology.
 
-## § 2284. Three-judge court; when required; composition; procedure
+## § 2284. Three-judge court; when required; composition; procedure
 
 **(a)** A district court of three judges shall be convened when otherwise required by Act of Congress, or when an action is filed challenging the constitutionality of the apportionment of congressional districts or the apportionment of any statewide legislative body.
 
@@ -65,11 +65,11 @@ Changes were made in phraseology.
 
 **(3)** A single judge may conduct all proceedings except the trial, and enter all orders permitted by the rules of civil procedure except as provided in this subsection. He may grant a temporary restraining order on a specific finding, based on evidence submitted, that specified irreparable damage will result if the order is not granted, which order, unless previously revoked by the district judge, shall remain in force only until the hearing and determination by the district court of three judges of an application for a preliminary injunction. A single judge shall not appoint a master, or order a reference, or hear and determine any application for a preliminary or permanent injunction or motion to vacate such an injunction, or enter judgment on the merits. Any action of a single judge may be reviewed by the full court at any time before final judgment.
 
-(June 25, 1948, ch. 646, 62 Stat. 968; Pub. L. 86–507, § 1(19), June 11, 1960, 74 Stat. 201; Pub. L. 94–381, § 3, Aug. 12, 1976, 90 Stat. 1119; Pub. L. 98–620, title IV, § 402(29)(E), Nov. 8, 1984, 98 Stat. 3359.)
+(June 25, 1948, ch. 646, 62 Stat. 968; Pub. L. 86–507, § 1(19), June 11, 1960, 74 Stat. 201; Pub. L. 94–381, § 3, Aug. 12, 1976, 90 Stat. 1119; Pub. L. 98–620, title IV, § 402(29)(E), Nov. 8, 1984, 98 Stat. 3359.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 380, 380a, and 792 (Mar. 3, 1911, ch. 231, §§ 210, 266, 36 Stat. 1150, 1162; Mar. 4, 1943, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Feb. 13, 1925, ch. 229, § 1, 43 Stat. 938; Aug. 24, 1937, ch. 754, § 3, 50 Stat. 752; Apr. 6, 1942, ch. 210, § 3, 56 Stat. 199).
+Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 380, 380a, and 792 (Mar. 3, 1911, ch. 231, §§ 210, 266, 36 Stat. 1150, 1162; Mar. 4, 1943, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Feb. 13, 1925, ch. 229, § 1, 43 Stat. 938; Aug. 24, 1937, ch. 754, § 3, 50 Stat. 752; Apr. 6, 1942, ch. 210, § 3, 56 Stat. 199).
 
 Provisions of sections 47, 47a, 380, and 380a of title 28, U.S.C., 1940 ed., relating to the Supreme Court’s jurisdiction of direct appeals appear in section 1253 of this title.
 
@@ -113,4 +113,4 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–381, § 7, Aug. 12, 1976, 90 Stat. 1120, provided that: “This Act [amending this section and section 2403 of this title and repealing sections 2281 and 2282 of this title] shall not apply to any action commenced on or before the date of enactment [Aug. 12, 1976].”
+Pub. L. 94–381, § 7, Aug. 12, 1976, 90 Stat. 1120, provided that: “This Act [amending this section and section 2403 of this title and repealing sections 2281 and 2282 of this title] shall not apply to any action commenced on or before the date of enactment [Aug. 12, 1976].”

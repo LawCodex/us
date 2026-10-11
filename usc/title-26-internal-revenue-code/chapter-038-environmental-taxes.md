@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 38, consisting of sections 4521 to 4603 and relating to import taxes, was repealed by Pub. L. 87–456, title III, § 302(d), May 24, 1962, 76 Stat. 77, and Pub. L. 94–455, title XIX, § 1904(a)(15), Oct. 4, 1976, 90 Stat. 1814.
+A prior chapter 38, consisting of sections 4521 to 4603 and relating to import taxes, was repealed by Pub. L. 87–456, title III, § 302(d), May 24, 1962, 76 Stat. 77, and Pub. L. 94–455, title XIX, § 1904(a)(15), Oct. 4, 1976, 90 Stat. 1814.
 
 **Amendments**
 
-1989—Pub. L. 101–239, title VII, § 7506(b), Dec. 19, 1989, 103 Stat. 2369, added item for subchapter D.
+1989—Pub. L. 101–239, title VII, § 7506(b), Dec. 19, 1989, 103 Stat. 2369, added item for subchapter D.
 
-1986—Pub. L. 99–499, title V, § 515(b), Oct. 17, 1986, 100 Stat. 1769, added item for subchapter C.
+1986—Pub. L. 99–499, title V, § 515(b), Oct. 17, 1986, 100 Stat. 1769, added item for subchapter C.
 
-Pub. L. 99–499, title V, § 514(a)(2), Oct. 17, 1986, 100 Stat. 1767, struck out item for subchapter C.
+Pub. L. 99–499, title V, § 514(a)(2), Oct. 17, 1986, 100 Stat. 1767, struck out item for subchapter C.
 
-1980—Pub. L. 96–510, title II, § 231(b), Dec. 11, 1980, 94 Stat. 2804, added item for subchapter C.
+1980—Pub. L. 96–510, title II, § 231(b), Dec. 11, 1980, 94 Stat. 2804, added item for subchapter C.
 
-Pub. L. 96–510, title II, § 211(a), Dec. 11, 1980, 94 Stat. 2797, added chapter 38 and analysis of subchapters consisting of items A and B.
+Pub. L. 96–510, title II, § 211(a), Dec. 11, 1980, 94 Stat. 2797, added chapter 38 and analysis of subchapters consisting of items A and B.
 
 ## Subchapter A—Tax on Petroleum
 
-### § 4611. Imposition of tax
+### § 4611. Imposition of tax
 
 **(a) General Rule** There is hereby imposed a tax at the rate specified in subsection (c) on—
 
@@ -101,7 +101,7 @@ The tax imposed by subsection (a)(2) shall be paid by the person entering the pr
 
 The tax imposed by subsection (b) shall be paid by the person using or exporting the crude oil, as the case may be.
 
-**[(e) Repealed. Pub. L. 117–169, title I, § 13601(a)(1), Aug. 16, 2022, 136 Stat. 1981]**
+**[(e) Repealed. Pub. L. 117–169, title I, § 13601(a)(1), Aug. 16, 2022, 136 Stat. 1981]**
 
 **(f) Application of Oil Spill Liability Trust Fund financing rate**
 
@@ -113,7 +113,7 @@ Except as provided in paragraph (2), the Oil Spill Liability Trust Fund financin
 
 The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2025.
 
-(Added Pub. L. 96–510, title II, § 211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§ 511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, § 8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, § 6108, Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–221, § 8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, § 7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, § 11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, § 1361, Aug. 8, 2005, 119 Stat. 1058; Pub. L. 110–343, div. B, title IV, § 405(a)(1), (b)(1), (2), Oct. 3, 2008, 122 Stat. 3860, 3861; Pub. L. 113–295, div. A, title II, § 221(a)(12)(I), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–123, div. D, title I, § 40416(a), Feb. 9, 2018, 132 Stat. 152; Pub. L. 116–94, div. Q, title I, § 134(a), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, § 117(a), Dec. 27, 2020, 134 Stat. 3051; Pub. L. 117–169, title I, § 13601(a), Aug. 16, 2022, 136 Stat. 1981.)
+(Added Pub. L. 96–510, title II, § 211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§ 511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, § 8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, § 6108, Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–221, § 8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, § 7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, § 11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, § 1361, Aug. 8, 2005, 119 Stat. 1058; Pub. L. 110–343, div. B, title IV, § 405(a)(1), (b)(1), (2), Oct. 3, 2008, 122 Stat. 3860, 3861; Pub. L. 113–295, div. A, title II, § 221(a)(12)(I), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–123, div. D, title I, § 40416(a), Feb. 9, 2018, 132 Stat. 152; Pub. L. 116–94, div. Q, title I, § 134(a), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, § 117(a), Dec. 27, 2020, 134 Stat. 3051; Pub. L. 117–169, title I, § 13601(a), Aug. 16, 2022, 136 Stat. 1981.)
 
 **Inflation Adjusted Items for Certain Years**
 
@@ -123,15 +123,15 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 
 **Codification**
 
-Amendments by Pub. L. 99–509, title VIII, § 8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
+Amendments by Pub. L. 99–509, title VIII, § 8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 **Amendments**
 
-2022—Subsec. (c)(2)(A). Pub. L. 117–169, § 13601(a)(2)(A), substituted “16.4 cents” for “9.7 cents”.
+2022—Subsec. (c)(2)(A). Pub. L. 117–169, § 13601(a)(2)(A), substituted “16.4 cents” for “9.7 cents”.
 
-Subsec. (c)(3). Pub. L. 117–169, § 13601(a)(2)(B), added par. (3).
+Subsec. (c)(3). Pub. L. 117–169, § 13601(a)(2)(B), added par. (3).
 
-Subsec. (e). Pub. L. 117–169, § 13601(a)(1), struck out subsec. (e) which related to application of Hazardous Substance Superfund financing rate.
+Subsec. (e). Pub. L. 117–169, § 13601(a)(1), struck out subsec. (e) which related to application of Hazardous Substance Superfund financing rate.
 
 2020—Subsec. (f)(2). Pub. L. 116–260 substituted “December 31, 2025” for “December 31, 2020”.
 
@@ -139,15 +139,15 @@ Subsec. (e). Pub. L. 117–169, § 13601(a)(1), struck out subsec. (e) which r
 
 2018—Subsec. (f)(2). Pub. L. 115–123 substituted “December 31, 2018” for “December 31, 2017”.
 
-2014—Subsec. (e)(2)(B). Pub. L. 113–295, § 221(a)(12)(I)(i), substituted “this section” for “section 59A, this section,”.
+2014—Subsec. (e)(2)(B). Pub. L. 113–295, § 221(a)(12)(I)(i), substituted “this section” for “section 59A, this section,”.
 
-Subsec. (e)(3)(A). Pub. L. 113–295, § 221(a)(12)(I)(ii), struck out “section 59A,” after “collected under” and comma after “rate)”.
+Subsec. (e)(3)(A). Pub. L. 113–295, § 221(a)(12)(I)(ii), struck out “section 59A,” after “collected under” and comma after “rate)”.
 
-2008—Subsec. (c)(2)(B). Pub. L. 110–343, § 405(a)(1), substituted “is—” for “is 5 cents a barrel.” and added cls. (i) and (ii).
+2008—Subsec. (c)(2)(B). Pub. L. 110–343, § 405(a)(1), substituted “is—” for “is 5 cents a barrel.” and added cls. (i) and (ii).
 
-Subsec. (f)(1). Pub. L. 110–343, § 405(b)(2), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
+Subsec. (f)(1). Pub. L. 110–343, § 405(b)(2), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
 
-Subsec. (f)(2), (3). Pub. L. 110–343, § 405(b)(1), added par. (2) and struck out former pars. (2) and (3), which provided that the Oil Spill Liability Trust Fund financing rate would not apply if the unobligated balance in the Fund exceeded $2,700,000,000 and that the Fund financing rate would not apply after Dec. 31, 2014.
+Subsec. (f)(2), (3). Pub. L. 110–343, § 405(b)(1), added par. (2) and struck out former pars. (2) and (3), which provided that the Oil Spill Liability Trust Fund financing rate would not apply if the unobligated balance in the Fund exceeded $2,700,000,000 and that the Fund financing rate would not apply after Dec. 31, 2014.
 
 2005—Subsec. (f). Pub. L. 109–58 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -155,15 +155,15 @@ Subsec. (f)(2), (3). Pub. L. 110–343, § 405(b)(1), added par. (2) and struc
 
 “(2) No tax if unobligated balance in fund exceeds $1,000,000,000.—The Oil Spill Liability Trust Fund financing rate shall not apply during any calendar quarter if the Secretary estimates that as of the close of the preceding calendar quarter the unobligated balance in the Oil Spill Liability Trust Fund exceeds $1,000,000,000.”
 
-1990—Subsec. (e)(1). Pub. L. 101–508, § 11231(a)(1)(B), substituted “January 1, 1996” for “January 1, 1992”.
+1990—Subsec. (e)(1). Pub. L. 101–508, § 11231(a)(1)(B), substituted “January 1, 1996” for “January 1, 1992”.
 
-Subsec. (e)(2). Pub. L. 101–508, § 11231(a)(2), substituted “1993” for “1989” and “1994” for “1990” in introductory provisions and “1994” for “1990” and “1995” for “1991” in subpar. (B) and concluding provisions.
+Subsec. (e)(2). Pub. L. 101–508, § 11231(a)(2), substituted “1993” for “1989” and “1994” for “1990” in introductory provisions and “1994” for “1990” and “1995” for “1991” in subpar. (B) and concluding provisions.
 
-Subsec. (e)(3). Pub. L. 101–508, § 11231(b), substituted “$11,970,000,000” for “$6,650,000,000” in heading.
+Subsec. (e)(3). Pub. L. 101–508, § 11231(b), substituted “$11,970,000,000” for “$6,650,000,000” in heading.
 
-Subsec. (e)(3)(A). Pub. L. 101–508, § 11231(b), substituted “December 31, 1995” for “December 31, 1991”.
+Subsec. (e)(3)(A). Pub. L. 101–508, § 11231(b), substituted “December 31, 1995” for “December 31, 1991”.
 
-Subsec. (e)(3)(B). Pub. L. 101–508, § 11231(a)(1)(B), (b), substituted “January 1, 1996” for “January 1, 1992” in heading and text and “$11,970,000,000” for “$6,650,000,000” in heading and twice in text.
+Subsec. (e)(3)(B). Pub. L. 101–508, § 11231(a)(1)(B), (b), substituted “January 1, 1996” for “January 1, 1992” in heading and text and “$11,970,000,000” for “$6,650,000,000” in heading and twice in text.
 
 1989—Subsec. (c)(2)(A). Pub. L. 101–221 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Hazardous Substance Superfund financing rate is—
 
@@ -171,27 +171,27 @@ Subsec. (e)(3)(B). Pub. L. 101–508, § 11231(a)(1)(B), (b), substituted “J
 
 “(ii) 11.7 cents a barrel in the case of the tax imposed by subsection (a)(2), and”.
 
-Subsec. (c)(2)(B). Pub. L. 101–239, § 7505(b), substituted “5 cents” for “1.3 cents”.
+Subsec. (c)(2)(B). Pub. L. 101–239, § 7505(b), substituted “5 cents” for “1.3 cents”.
 
-Subsec. (f). Pub. L. 101–239, § 7505(a)(1), amended subsec. (f) generally, substituting pars. (1) and (2) for former pars. (1) general applicability, (2) commencement date, and (3) limit on tax of $300,000,000.
+Subsec. (f). Pub. L. 101–239, § 7505(a)(1), amended subsec. (f) generally, substituting pars. (1) and (2) for former pars. (1) general applicability, (2) commencement date, and (3) limit on tax of $300,000,000.
 
 1988—Subsec. (f)(2)(B). Pub. L. 100–647 substituted “December 31, 1990” for “September 1, 1987”.
 
-1986—Subsecs. (a), (b)(1). Pub. L. 99–499, § 512(a), substituted “at the rate specified in subsection (c)” for “of 0.79 cent a barrel”.
+1986—Subsecs. (a), (b)(1). Pub. L. 99–499, § 512(a), substituted “at the rate specified in subsection (c)” for “of 0.79 cent a barrel”.
 
-Subsec. (c). Pub. L. 99–509, § 8032(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+Subsec. (c). Pub. L. 99–509, § 8032(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(1) In general.—Except as provided in paragraph (2), the rate of the taxes imposed by this section is 8.2 cents a barrel.
 
 “(2) Imported petroleum products.—The rate of the tax imposed by subsection (a)(2) shall be 11.7 cents a barrel.”
 
-Pub. L. 99–499, § 512(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+Pub. L. 99–499, § 512(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Subsec. (d). Pub. L. 99–499, § 512(b), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 99–499, § 512(b), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 99–509, § 8032(c)(1), substituted “Hazardous Substance Superfund financing rate” for “taxes” in heading, substituted “the Hazardous Substance Superfund financing rate under this section” for “the taxes imposed by this section” in par. (1), inserted “(to the extent attributable to the Hazardous Substance Superfund financing rate)” after “this section” in pars. (2) and (3)(A), and substituted “the Hazardous Substance Superfund financing rate under this section shall not apply” for “no tax shall be imposed under this section” in par. (3)(B).
+Subsec. (e). Pub. L. 99–509, § 8032(c)(1), substituted “Hazardous Substance Superfund financing rate” for “taxes” in heading, substituted “the Hazardous Substance Superfund financing rate under this section” for “the taxes imposed by this section” in par. (1), inserted “(to the extent attributable to the Hazardous Substance Superfund financing rate)” after “this section” in pars. (2) and (3)(A), and substituted “the Hazardous Substance Superfund financing rate under this section shall not apply” for “no tax shall be imposed under this section” in par. (3)(B).
 
-Pub. L. 99–499, §§ 511(a), 512(b), amended subsec. (d) generally and redesignated it as (e). Prior to amendment and redesignation, subsec. (d), termination, read as follows: “The taxes imposed by this section shall not apply after September 30, 1985, except that if on September 30, 1983, or September 30, 1984—
+Pub. L. 99–499, §§ 511(a), 512(b), amended subsec. (d) generally and redesignated it as (e). Prior to amendment and redesignation, subsec. (d), termination, read as follows: “The taxes imposed by this section shall not apply after September 30, 1985, except that if on September 30, 1983, or September 30, 1984—
 
 “(1) the unobligated balance in the Hazardous Substance Response Trust Fund as of such date exceeds $900,000,000, and
 
@@ -199,25 +199,25 @@ Pub. L. 99–499, §§ 511(a), 512(b), amended subsec. (d) generally and redes
 
 then no tax shall be imposed by this section during the first calendar year beginning after the date referred to in paragraph (1).”
 
-Subsec. (f). Pub. L. 99–509, § 8032(c)(2), added subsec. (f).
+Subsec. (f). Pub. L. 99–509, § 8032(c)(2), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–169, title I, § 13601(c), Aug. 16, 2022, 136 Stat. 1982, provided that: “The amendments made by this section [amending this section and section 9507 of this title] shall take effect on January 1, 2023.”
+Pub. L. 117–169, title I, § 13601(c), Aug. 16, 2022, 136 Stat. 1982, provided that: “The amendments made by this section [amending this section and section 9507 of this title] shall take effect on January 1, 2023.”
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. EE, title I, § 117(b), Dec. 27, 2020, 134 Stat. 3051, provided that: “The amendment made by this section [amending this section] shall apply on and after January 1, 2021.”
+Pub. L. 116–260, div. EE, title I, § 117(b), Dec. 27, 2020, 134 Stat. 3051, provided that: “The amendment made by this section [amending this section] shall apply on and after January 1, 2021.”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. Q, title I, § 134(b), Dec. 20, 2019, 133 Stat. 3234, provided that: “The amendment made by this section [amending this section] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act [Dec. 20, 2019].”
+Pub. L. 116–94, div. Q, title I, § 134(b), Dec. 20, 2019, 133 Stat. 3234, provided that: “The amendment made by this section [amending this section] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act [Dec. 20, 2019].”
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–123, div. D, title I, § 40416(b), Feb. 9, 2018, 132 Stat. 152, provided that: “The amendment made by this section [amending this section] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act [Feb. 9, 2018].”
+Pub. L. 115–123, div. D, title I, § 40416(b), Feb. 9, 2018, 132 Stat. 152, provided that: “The amendment made by this section [amending this section] shall apply on and after the first day of the first calendar month beginning after the date of the enactment of this Act [Feb. 9, 2018].”
 
 **Effective Date of 2014 Amendment**
 
@@ -225,37 +225,37 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–343, div. B, title IV, § 405(a)(2), Oct. 3, 2008, 122 Stat. 3860, provided that: “The amendment made by this subsection [amending this section] shall apply on and after the first day of the first calendar quarter beginning more than 60 days after the date of the enactment of this Act [Oct. 3, 2008].”
+Pub. L. 110–343, div. B, title IV, § 405(a)(2), Oct. 3, 2008, 122 Stat. 3860, provided that: “The amendment made by this subsection [amending this section] shall apply on and after the first day of the first calendar quarter beginning more than 60 days after the date of the enactment of this Act [Oct. 3, 2008].”
 
-Pub. L. 110–343, div. B, title IV, § 405(b)(3), Oct. 3, 2008, 122 Stat. 3861, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [Oct. 3, 2008].”
+Pub. L. 110–343, div. B, title IV, § 405(b)(3), Oct. 3, 2008, 122 Stat. 3861, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [Oct. 3, 2008].”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–221, § 8(b), Dec. 12, 1989, 103 Stat. 1891, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of enactment of this Act [Dec. 12, 1989].”
+Pub. L. 101–221, § 8(b), Dec. 12, 1989, 103 Stat. 1891, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of enactment of this Act [Dec. 12, 1989].”
 
 **Effective Date of 1986 Amendments**
 
-Pub. L. 99–509, title VIII, § 8032(d), Oct. 21, 1986, 100 Stat. 1959, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–509, title VIII, § 8032(d), Oct. 21, 1986, 100 Stat. 1959, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section and sections 4612, 4661, 4671, and 9507 of this title] shall take effect on the commencement date (as defined in [former] section 4611(f)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as added by this section).
 
 > **“(2) Coordination with superfund reauthorization.—** The amendments made by this section shall take effect only if the Superfund Amendments and Reauthorization Act of 1986 [Pub. L. 99–499, approved Oct. 17, 1986] is enacted.”
 
-[Pub. L. 101–239, title VII, § 7505(d)(1), Dec. 19, 1989, 103 Stat. 2363, provided that: “For purposes of sections 8032(d) and 8033(c) of the Omnibus Budget Reconciliation Act of 1986 [Pub. L. 99–509, set out as notes above and under section 9509 of this title], the commencement date is January 1, 1990.” ]
+[Pub. L. 101–239, title VII, § 7505(d)(1), Dec. 19, 1989, 103 Stat. 2363, provided that: “For purposes of sections 8032(d) and 8033(c) of the Omnibus Budget Reconciliation Act of 1986 [Pub. L. 99–509, set out as notes above and under section 9509 of this title], the commencement date is January 1, 1990.” ]
 
-Pub. L. 99–499, title V, § 511(c), Oct. 17, 1986, 100 Stat. 1761, provided that: “The amendments made by this section [amending this section and repealing section 9653 of Title 42, The Public Health and Welfare] shall take effect on January 1, 1987.”
+Pub. L. 99–499, title V, § 511(c), Oct. 17, 1986, 100 Stat. 1761, provided that: “The amendments made by this section [amending this section and repealing section 9653 of Title 42, The Public Health and Welfare] shall take effect on January 1, 1987.”
 
-Pub. L. 99–499, title V, § 512(d), Oct. 17, 1986, 100 Stat. 1761, provided that: “The amendments made by this section [amending this section and section 4612 of this title] shall take effect on January 1, 1987.”
+Pub. L. 99–499, title V, § 512(d), Oct. 17, 1986, 100 Stat. 1761, provided that: “The amendments made by this section [amending this section and section 4612 of this title] shall take effect on January 1, 1987.”
 
 **Effective Date**
 
-Pub. L. 96–510, title II, § 211(c), Dec. 11, 1980, 94 Stat. 2801, provided that: “The amendments made by this section [enacting subchapters A and B of this chapter] shall take effect on April 1, 1981.”
+Pub. L. 96–510, title II, § 211(c), Dec. 11, 1980, 94 Stat. 2801, provided that: “The amendments made by this section [enacting subchapters A and B of this chapter] shall take effect on April 1, 1981.”
 
 **Short Title**
 
 For short title of title II of Pub. L. 96–510 as the “Hazardous Substance Response Revenue Act of 1980”, see Short Title of 1980 Amendment note, set out under section 1 of this title.
 
-### § 4612. Definitions and special rules
+### § 4612. Definitions and special rules
 
 **(a) Definitions** For purposes of this subchapter—
 
@@ -373,7 +373,7 @@ No portion of the unused business credit for any taxable year which is attributa
 
 The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4611.
 
-(Added Pub. L. 96–510, title II, § 211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, § 512(c), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, § 8032(b), Oct. 21, 1986, 100 Stat. 1957; Pub. L. 101–239, title VII, § 7505(c), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–380, title IX, § 9002, Aug. 18, 1990, 104 Stat. 574; Pub. L. 102–486, title XIX, § 1922(a), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 115–141, div. U, title IV, § 401(a)(223), Mar. 23, 2018, 132 Stat. 1194.)
+(Added Pub. L. 96–510, title II, § 211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, § 512(c), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, § 8032(b), Oct. 21, 1986, 100 Stat. 1957; Pub. L. 101–239, title VII, § 7505(c), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–380, title IX, § 9002, Aug. 18, 1990, 104 Stat. 574; Pub. L. 102–486, title XIX, § 1922(a), Oct. 24, 1992, 106 Stat. 3028; Pub. L. 115–141, div. U, title IV, § 401(a)(223), Mar. 23, 2018, 132 Stat. 1194.)
 
 **Editorial Notes**
 
@@ -383,7 +383,7 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(4), is t
 
 **Codification**
 
-Amendments by Pub. L. 99–509, title VIII, § 8031(c), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (c) and (d) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
+Amendments by Pub. L. 99–509, title VIII, § 8031(c), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (c) and (d) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 **Amendments**
 
@@ -407,7 +407,7 @@ Subsec. (e). Pub. L. 99–509 redesignated former subsec. (d) as (e).
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–486, title XIX, § 1922(b), Oct. 24, 1992, 106 Stat. 3029, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 24, 1992].”
+Pub. L. 102–486, title XIX, § 1922(b), Oct. 24, 1992, 106 Stat. 3029, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 24, 1992].”
 
 **Effective Date of 1990 Amendment**
 
@@ -427,7 +427,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 ## Subchapter B—Tax on Certain Chemicals
 
-### § 4661. Imposition of tax
+### § 4661. Imposition of tax
 
 **(a) General rule**
 
@@ -486,19 +486,19 @@ The amount of tax imposed by subsection (a) shall be determined in accordance wi
 
 No tax shall be imposed by this section after December 31, 2031.
 
-(Added Pub. L. 96–510, title II, § 211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, § 513(a), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, § 8032(c)(3), Oct. 21, 1986, 100 Stat. 1958; Pub. L. 117–58, div. H, title II, § 80201(a)(1), (b)(1), Nov. 15, 2021, 135 Stat. 1328, 1329.)
+(Added Pub. L. 96–510, title II, § 211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, § 513(a), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, § 8032(c)(3), Oct. 21, 1986, 100 Stat. 1958; Pub. L. 117–58, div. H, title II, § 80201(a)(1), (b)(1), Nov. 15, 2021, 135 Stat. 1328, 1329.)
 
 **Editorial Notes**
 
 **Codification**
 
-Amendment by Pub. L. 99–509, title VIII, § 8031(d)(2), Oct. 21, 1986, 100 Stat. 1956, to subsec. (c) of this section was not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
+Amendment by Pub. L. 99–509, title VIII, § 8031(d)(2), Oct. 21, 1986, 100 Stat. 1956, to subsec. (c) of this section was not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 **Amendments**
 
-2021—Subsec. (b). Pub. L. 117–58, § 80201(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) set out the amount of tax on certain taxable chemicals.
+2021—Subsec. (b). Pub. L. 117–58, § 80201(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) set out the amount of tax on certain taxable chemicals.
 
-Subsec. (c). Pub. L. 117–58, § 80201(a)(1), amended subsec. (c) generally. Prior to amendment, text read as follows: “No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.”
+Subsec. (c). Pub. L. 117–58, § 80201(a)(1), amended subsec. (c) generally. Prior to amendment, text read as follows: “No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.”
 
 1986—Subsec. (b). Pub. L. 99–499 inserted at end “For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting ‘10.13’ for ‘4.87’.”
 
@@ -508,13 +508,13 @@ Subsec. (c). Pub. L. 99–509 substituted “the Hazardous Substance Superfund f
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–58, div. H, title II, § 80201(d), Nov. 15, 2021, 135 Stat. 1330, provided that: “The amendments made by this section [amending this section and sections 4671 and 4672 of this title] shall take effect on July 1, 2022.”
+Pub. L. 117–58, div. H, title II, § 80201(d), Nov. 15, 2021, 135 Stat. 1330, provided that: “The amendments made by this section [amending this section and sections 4671 and 4672 of this title] shall take effect on July 1, 2022.”
 
 **Effective Date of 1986 Amendments**
 
 Amendment by Pub. L. 99–509 effective on commencement date as defined in former section 4611(f)(2), see section 8032(d) of Pub. L. 99–509, set out as a note under section 4611 of this title.
 
-Pub. L. 99–499, title V, § 513(h), Oct. 17, 1986, 100 Stat. 1765, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 99–499, title V, § 513(h), Oct. 17, 1986, 100 Stat. 1765, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendments made by this section [amending this section and section 4662 of this title] shall take effect on January 1, 1987.
 
@@ -556,7 +556,7 @@ Pub. L. 99–499, title V, § 513(h), Oct. 17, 1986, 100 Stat. 1765, as amende
 
 Subchapter effective Apr. 1, 1981, see section 211(c) of Pub. L. 96–510, set out as a note under section 4611 of this title.
 
-### § 4662. Definitions and special rules
+### § 4662. Definitions and special rules
 
 **(a) Definitions** For purposes of this subchapter—
 
@@ -848,7 +848,7 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4661.
 
-(Added Pub. L. 96–510, title II, § 211(a), Dec. 11, 1980, 94 Stat. 2799; amended Pub. L. 98–369, div. A, title X, § 1019(a)–(c), July 18, 1984, 98 Stat. 1022–1024; Pub. L. 99–499, title V, § 513(b)–(g), Oct. 17, 1986, 100 Stat. 1762–1765; Pub. L. 100–647, title II, § 2001(a), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 106–170, title V, § 532(c)(2)(U), Dec. 17, 1999, 113 Stat. 1931.)
+(Added Pub. L. 96–510, title II, § 211(a), Dec. 11, 1980, 94 Stat. 2799; amended Pub. L. 98–369, div. A, title X, § 1019(a)–(c), July 18, 1984, 98 Stat. 1022–1024; Pub. L. 99–499, title V, § 513(b)–(g), Oct. 17, 1986, 100 Stat. 1762–1765; Pub. L. 100–647, title II, § 2001(a), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 106–170, title V, § 532(c)(2)(U), Dec. 17, 1999, 113 Stat. 1931.)
 
 **Editorial Notes**
 
@@ -862,39 +862,39 @@ Section 106 of the Comprehensive Environmental Response, Compensation, and Liabi
 
 1999—Subsec. (c)(2)(C). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-1988—Subsec. (b)(10)(A). Pub. L. 100–647, § 2001(a)(2), substituted “one or more” for “a mixture of”.
+1988—Subsec. (b)(10)(A). Pub. L. 100–647, § 2001(a)(2), substituted “one or more” for “a mixture of”.
 
-Subsec. (e)(3), (4). Pub. L. 100–647, § 2001(a)(1), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (e)(3), (4). Pub. L. 100–647, § 2001(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
-1986—Subsec. (b)(7). Pub. L. 99–499, § 513(c), added par. (7).
+1986—Subsec. (b)(7). Pub. L. 99–499, § 513(c), added par. (7).
 
-Subsec. (b)(8). Pub. L. 99–499, § 513(d), added par. (8).
+Subsec. (b)(8). Pub. L. 99–499, § 513(d), added par. (8).
 
-Subsec. (b)(9). Pub. L. 99–499, § 513(e)(1), added par. (9).
+Subsec. (b)(9). Pub. L. 99–499, § 513(e)(1), added par. (9).
 
-Subsec. (b)(10). Pub. L. 99–499, § 513(g), added par. (10).
+Subsec. (b)(10). Pub. L. 99–499, § 513(g), added par. (10).
 
-Subsec. (c). Pub. L. 99–499, § 513(f), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except as provided in subsection (b), if any person manufactures, produces, or imports a taxable chemical and uses such chemical, then such person shall be liable for tax under section 4661 in the same manner as if such chemical were sold by such person.”
+Subsec. (c). Pub. L. 99–499, § 513(f), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except as provided in subsection (b), if any person manufactures, produces, or imports a taxable chemical and uses such chemical, then such person shall be liable for tax under section 4661 in the same manner as if such chemical were sold by such person.”
 
-Subsec. (d)(1). Pub. L. 99–499, § 513(b)(2), substituted “which is a taxable chemical” for “the sale of which by such person would be taxable under such section”, in subpar. (B), and substituted “imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)” for “imposed by such section on the other substance manufactured or produced” in last sentence.
+Subsec. (d)(1). Pub. L. 99–499, § 513(b)(2), substituted “which is a taxable chemical” for “the sale of which by such person would be taxable under such section”, in subpar. (B), and substituted “imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)” for “imposed by such section on the other substance manufactured or produced” in last sentence.
 
-Subsec. (d)(4). Pub. L. 99–499, § 513(e)(2), added par. (4).
+Subsec. (d)(4). Pub. L. 99–499, § 513(e)(2), added par. (4).
 
-Subsecs. (e), (f). Pub. L. 99–499, § 513(b)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 99–499, § 513(b)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1984—Subsec. (b)(1). Pub. L. 98–369, § 1019(a)(3), inserted “or in the manufacture or production of any motor fuel, diesel fuel, aviation fuel, or jet fuel”.
+1984—Subsec. (b)(1). Pub. L. 98–369, § 1019(a)(3), inserted “or in the manufacture or production of any motor fuel, diesel fuel, aviation fuel, or jet fuel”.
 
-Subsec. (b)(2)(A). Pub. L. 98–369, § 1019(b)(2)(A), substituted “qualified fertilizer substance” for “qualified substance”.
+Subsec. (b)(2)(A). Pub. L. 98–369, § 1019(b)(2)(A), substituted “qualified fertilizer substance” for “qualified substance”.
 
-Subsec. (b)(2)(B) to (D). Pub. L. 98–369, § 1019(b)(1), inserted “fertilizer” after “qualified” wherever appearing in subpar. (B), inserted “fertilizer” after “Qualified” in subpar. (C) heading and in text substituted “The term ‘qualified fertilizer use’ means any use in the manufacture or production of fertilizer or for direct application as a fertilizer” for “For purposes of this subsection, the term ‘qualified use’ means any use in the manufacture or production of a fertilizer”, and added subpar. (D).
+Subsec. (b)(2)(B) to (D). Pub. L. 98–369, § 1019(b)(1), inserted “fertilizer” after “qualified” wherever appearing in subpar. (B), inserted “fertilizer” after “Qualified” in subpar. (C) heading and in text substituted “The term ‘qualified fertilizer use’ means any use in the manufacture or production of fertilizer or for direct application as a fertilizer” for “For purposes of this subsection, the term ‘qualified use’ means any use in the manufacture or production of a fertilizer”, and added subpar. (D).
 
-Subsec. (b)(5), (6). Pub. L. 98–369, § 1019(a)(1), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 98–369, § 1019(a)(1), added pars. (5) and (6).
 
-Subsec. (c). Pub. L. 98–369, § 1019(c), substituted “Except as provided in subsection (b), if” for “If”.
+Subsec. (c). Pub. L. 98–369, § 1019(c), substituted “Except as provided in subsection (b), if” for “If”.
 
-Subsec. (d)(2)(B). Pub. L. 98–369, § 1019(b)(2)(B), inserted “fertilizer” after “qualified” and struck out “, or sells such substance for use,” after “such substance”.
+Subsec. (d)(2)(B). Pub. L. 98–369, § 1019(b)(2)(B), inserted “fertilizer” after “qualified” and struck out “, or sells such substance for use,” after “such substance”.
 
-Subsec. (d)(3). Pub. L. 98–369, § 1019(a)(2), added par. (3).
+Subsec. (d)(3). Pub. L. 98–369, § 1019(a)(2), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -912,7 +912,7 @@ Amendment by Pub. L. 99–499 effective Jan. 1, 1987, except as otherwise provid
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title X, § 1019(d), July 18, 1984, 98 Stat. 1024, provided that:
+Pub. L. 98–369, div. A, title X, § 1019(d), July 18, 1984, 98 Stat. 1024, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall take effect as if included in the amendments made by section 211(a) of the Hazardous Substance Response Revenue Act of 1980 [Pub. L. 96–510, which enacted this section].
 
@@ -924,9 +924,9 @@ Pub. L. 98–369, div. A, title X, § 1019(d), July 18, 1984, 98 Stat. 1024, p
 
 **Prior Provisions**
 
-A prior subchapter C related to tax on hazardous wastes, consisted of sections 4681 and 4682, prior to repeal by Pub. L. 99–499, title V, § 514(a)(1), Oct. 17, 1986, 100 Stat. 1767.
+A prior subchapter C related to tax on hazardous wastes, consisted of sections 4681 and 4682, prior to repeal by Pub. L. 99–499, title V, § 514(a)(1), Oct. 17, 1986, 100 Stat. 1767.
 
-### § 4671. Imposition of tax
+### § 4671. Imposition of tax
 
 **(a) General rule**
 
@@ -960,15 +960,15 @@ No tax shall be imposed by this section on the sale or use of any substance if t
 
 No tax shall be imposed by this section after December 31, 2031.
 
-(Added Pub. L. 99–499, title V, § 515(a), Oct. 17, 1986, 100 Stat. 1767; amended Pub. L. 99–509, title VIII, § 8032(c)(3), Oct. 21, 1986, 100 Stat. 1958; Pub. L. 117–58, div. H, title II, § 80201(a)(2), (b)(2), Nov. 15, 2021, 135 Stat. 1328, 1330.)
+(Added Pub. L. 99–499, title V, § 515(a), Oct. 17, 1986, 100 Stat. 1767; amended Pub. L. 99–509, title VIII, § 8032(c)(3), Oct. 21, 1986, 100 Stat. 1958; Pub. L. 117–58, div. H, title II, § 80201(a)(2), (b)(2), Nov. 15, 2021, 135 Stat. 1328, 1330.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (b)(2). Pub. L. 117–58, § 80201(b)(2), substituted “10 percent” for “5 percent”.
+2021—Subsec. (b)(2). Pub. L. 117–58, § 80201(b)(2), substituted “10 percent” for “5 percent”.
 
-Subsec. (e). Pub. L. 117–58, § 80201(a)(2), amended subsec. (e) generally. Prior to amendment, text read as follows: “No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.”
+Subsec. (e). Pub. L. 117–58, § 80201(a)(2), amended subsec. (e) generally. Prior to amendment, text read as follows: “No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.”
 
 1986—Subsec. (e). Pub. L. 99–509 substituted “the Hazardous Substance Superfund financing rate under section 4611 does not apply” for “no tax is imposed under section 4611(a)”.
 
@@ -984,13 +984,13 @@ Amendment by Pub. L. 99–509 effective on commencement date as defined in forme
 
 **Effective Date**
 
-Pub. L. 99–499, title V, § 515(c), Oct. 17, 1986, 100 Stat. 1769, provided that: “The amendments made by this section [enacting this subchapter] shall take effect on January 1, 1989.”
+Pub. L. 99–499, title V, § 515(c), Oct. 17, 1986, 100 Stat. 1769, provided that: “The amendments made by this section [enacting this subchapter] shall take effect on January 1, 1989.”
 
 **Study and Report**
 
-Pub. L. 99–499, title V, § 515(d), Oct. 17, 1986, 100 Stat. 1769, directed the Secretary of the Treasury or his delegate to conduct a study of issues relating to the implementation of the tax imposed by this section and certain credit for exports of taxable substances, and report to Congress not later than Jan. 1, 1988.
+Pub. L. 99–499, title V, § 515(d), Oct. 17, 1986, 100 Stat. 1769, directed the Secretary of the Treasury or his delegate to conduct a study of issues relating to the implementation of the tax imposed by this section and certain credit for exports of taxable substances, and report to Congress not later than Jan. 1, 1988.
 
-### § 4672. Definitions and special rules
+### § 4672. Definitions and special rules
 
 **(a) Taxable substance** For purposes of this subchapter—
 
@@ -1053,7 +1053,7 @@ The terms “taxable chemical” and “United States” have the respective mea
 
 The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4671.
 
-(Added Pub. L. 99–499, title V, § 515(a), Oct. 17, 1986, 100 Stat. 1768; amended Pub. L. 100–647, title II, § 2001(b), Nov. 10, 1988, 102 Stat. 3594; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 117–58, div. H, title II, § 80201(c)(1), Nov. 15, 2021, 135 Stat. 1330.)
+(Added Pub. L. 99–499, title V, § 515(a), Oct. 17, 1986, 100 Stat. 1768; amended Pub. L. 100–647, title II, § 2001(b), Nov. 10, 1988, 102 Stat. 3594; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 117–58, div. H, title II, § 80201(c)(1), Nov. 15, 2021, 135 Stat. 1330.)
 
 **Editorial Notes**
 
@@ -1061,11 +1061,11 @@ The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply 
 
 2021—Subsec. (a)(2)(B). Pub. L. 117–58 substituted “20 percent” for “50 percent” in two places.
 
-1988—Subsec. (a)(2). Pub. L. 100–647, § 2001(b)(2), inserted at end “If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.”
+1988—Subsec. (a)(2). Pub. L. 100–647, § 2001(b)(2), inserted at end “If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.”
 
-Subsec. (a)(2)(B). Pub. L. 100–647, § 2001(b)(1), inserted “(or more than 50 percent of the value)” after “weight”.
+Subsec. (a)(2)(B). Pub. L. 100–647, § 2001(b)(1), inserted “(or more than 50 percent of the value)” after “weight”.
 
-Subsec. (a)(4). Pub. L. 100–647, § 2001(b)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+Subsec. (a)(4). Pub. L. 100–647, § 2001(b)(3), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
 “(A) In general.—The Secretary may add substances to or remove substances from the list under paragraph (3) (including items listed by reason of paragraph (2)) as necessary to carry out the purposes of this subchapter.
 
@@ -1095,15 +1095,15 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Presumption As a Taxable Substance for Prior Determinations**
 
-Pub. L. 117–58, div. H, title II, § 80201(c)(2), Nov. 15, 2021, 135 Stat. 1330, provided that: “Except as otherwise determined by the Secretary of the Treasury (or the Secretary’s delegate), any substance which was determined to be a taxable substance by reason of section 4672(a)(2) of the Internal Revenue Code of 1986 prior to the date of enactment of this Act [Nov. 15, 2021] shall continue to be treated as a taxable substance for purposes of such section after such date.”
+Pub. L. 117–58, div. H, title II, § 80201(c)(2), Nov. 15, 2021, 135 Stat. 1330, provided that: “Except as otherwise determined by the Secretary of the Treasury (or the Secretary’s delegate), any substance which was determined to be a taxable substance by reason of section 4672(a)(2) of the Internal Revenue Code of 1986 prior to the date of enactment of this Act [Nov. 15, 2021] shall continue to be treated as a taxable substance for purposes of such section after such date.”
 
 **Publication of Initial List**
 
-Pub. L. 117–58, div. H, title II, § 80201(c)(3), Nov. 15, 2021, 135 Stat. 1330, provided that: “Not later than January 1, 2022, the Secretary of the Treasury (or the Secretary’s delegate) shall publish an initial list of taxable substances under section 4672(a) of the Internal Revenue Code of 1986.”
+Pub. L. 117–58, div. H, title II, § 80201(c)(3), Nov. 15, 2021, 135 Stat. 1330, provided that: “Not later than January 1, 2022, the Secretary of the Treasury (or the Secretary’s delegate) shall publish an initial list of taxable substances under section 4672(a) of the Internal Revenue Code of 1986.”
 
 ## Subchapter D—Ozone-Depleting Chemicals, Etc.
 
-### § 4681. Imposition of tax
+### § 4681. Imposition of tax
 
 **(a) General rule** There is hereby imposed a tax on—
 
@@ -1135,13 +1135,13 @@ The amount of the tax imposed by subsection (a) on any imported taxable product 
 
 Rules similar to the rules of paragraphs (2) and (3) of section 4671(b) shall apply.
 
-(Added Pub. L. 101–239, title VII, § 7506(a), Dec. 19, 1989, 103 Stat. 2364; amended Pub. L. 101–508, title XI, § 11203(c), Nov. 5, 1990, 104 Stat. 1388–422; Pub. L. 102–486, title XIX, § 1931(a), Oct. 24, 1992, 106 Stat. 3029; Pub. L. 105–34, title XIV, § 1432(c)(1), Aug. 5, 1997, 111 Stat. 1050.)
+(Added Pub. L. 101–239, title VII, § 7506(a), Dec. 19, 1989, 103 Stat. 2364; amended Pub. L. 101–508, title XI, § 11203(c), Nov. 5, 1990, 104 Stat. 1388–422; Pub. L. 102–486, title XIX, § 1931(a), Oct. 24, 1992, 106 Stat. 3029; Pub. L. 105–34, title XIV, § 1432(c)(1), Aug. 5, 1997, 111 Stat. 1050.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4681, added Pub. L. 96–510, title II, § 231(a), Dec. 11, 1980, 94 Stat. 2804, was contained in subchapter C of this chapter prior to repeal by Pub. L. 99–499, title V, § 514(a)(1), (c), Oct. 17, 1986, 100 Stat. 1767, effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
+A prior section 4681, added Pub. L. 96–510, title II, § 231(a), Dec. 11, 1980, 94 Stat. 2804, was contained in subchapter C of this chapter prior to repeal by Pub. L. 99–499, title V, § 514(a)(1), (c), Oct. 17, 1986, 100 Stat. 1767, effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
 
 **Amendments**
 
@@ -1165,15 +1165,15 @@ Subsec. (b)(1)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to ame
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–486, title XIX, § 1931(d), Oct. 24, 1992, 106 Stat. 3029, provided that: “The amendments made by this section [amending this section and section 4682 of this title] shall apply to taxable chemicals sold or used on or after January 1, 1993.”
+Pub. L. 102–486, title XIX, § 1931(d), Oct. 24, 1992, 106 Stat. 3029, provided that: “The amendments made by this section [amending this section and section 4682 of this title] shall apply to taxable chemicals sold or used on or after January 1, 1993.”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11203(e), Nov. 5, 1990, 104 Stat. 1388–423, provided that: “The amendments made by this section [amending this section and section 4682 of this title] shall take effect on January 1, 1991.”
+Pub. L. 101–508, title XI, § 11203(e), Nov. 5, 1990, 104 Stat. 1388–423, provided that: “The amendments made by this section [amending this section and section 4682 of this title] shall take effect on January 1, 1991.”
 
 **Effective Date**
 
-Pub. L. 101–239, title VII, § 7506(c), Dec. 19, 1989, 103 Stat. 2369, provided that:
+Pub. L. 101–239, title VII, § 7506(c), Dec. 19, 1989, 103 Stat. 2369, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this subchapter] shall take effect on January 1, 1990.
 
@@ -1181,7 +1181,7 @@ Pub. L. 101–239, title VII, § 7506(c), Dec. 19, 1989, 103 Stat. 2369, provi
 
 > **“(3) Notification of changes in international agreements.—** The Secretary of the Treasury or his delegate shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of changes in the Montreal Protocol and of other international agreements to which the United States is a signatory relating to ozone-depleting chemicals.”
 
-### § 4682. Definitions and special rules
+### § 4682. Definitions and special rules
 
 **(a) Ozone-depleting chemical** For purposes of this subchapter—
 
@@ -1198,9 +1198,9 @@ Pub. L. 101–239, title VII, § 7506(c), Dec. 19, 1989, 103 Stat. 2369, provi
 | CFC–11 | trichlorofluoromethane |
 | CFC–12 | dichlorodifluoromethane |
 | CFC–113 | trichlorotrifluoroethane |
-| CFC–114 | 1,2-dichloro-1,1,2,2-tetra-   fluoroethane |
+| CFC–114 | 1,2-dichloro-1,1,2,2-tetra- fluoroethane |
 | CFC–115 | chloropentafluoroethane |
-| Halon-1211 | bromochlorodifluoro-   methane |
+| Halon-1211 | bromochlorodifluoro- methane |
 | Halon-1301 | bromotrifluoromethane |
 | Halon-2402 | dibromotetrafluoroethane |
 | Carbon tetrachloride | Tetrachloromethane |
@@ -1385,51 +1385,51 @@ The taxes imposed by this subsection on January 1 of any calendar year shall be 
 
 All other provisions of law, including penalties, applicable with respect to the taxes imposed by section 4681 shall apply to the floor stocks taxes imposed by this subsection.
 
-(Added Pub. L. 101–239, title VII, § 7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§ 11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§ 1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, § 1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, § 903(a), title XIV, § 1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051; Pub. L. 113–295, div. A, title II, § 221(a)(107), Dec. 19, 2014, 128 Stat. 4053.)
+(Added Pub. L. 101–239, title VII, § 7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§ 11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§ 1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, § 1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, § 903(a), title XIV, § 1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051; Pub. L. 113–295, div. A, title II, § 221(a)(107), Dec. 19, 2014, 128 Stat. 4053.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4682, added Pub. L. 96–510, title II, § 231(a), Dec. 11, 1980, 94 Stat. 2804, was contained in subchapter C of this chapter, prior to repeal by Pub. L. 99–499, title V, § 514(a)(1), (c), Oct. 17, 1986, 100 Stat. 1767, effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
+A prior section 4682, added Pub. L. 96–510, title II, § 231(a), Dec. 11, 1980, 94 Stat. 2804, was contained in subchapter C of this chapter, prior to repeal by Pub. L. 99–499, title V, § 514(a)(1), (c), Oct. 17, 1986, 100 Stat. 1767, effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
 
 **Amendments**
 
 2014—Subsec. (h). Pub. L. 113–295 redesignated pars. (2) to (4) as (1) to (3), respectively, in par. (1), as so redesignated, substituted “In general” for “Other tax-increase dates” in heading and struck out “after 1991” after “calendar year” in subpar. (C), and struck out former par. (1), which read as follows: “On any ozone-depleting chemical which on January 1, 1990, is held by any person (other than the manufacturer, producer, or importer thereof) for sale or for use in further manufacture, there is hereby imposed a floor stocks tax in an amount equal to the tax which would be imposed by section 4681 on such chemical if the sale of such chemical by the manufacturer, producer, or importer thereof had occurred during 1990.”
 
-1997—Subsec. (d)(1). Pub. L. 105–34, § 903(a), substituted “recycled Halon-1301 or recycled Halon-2402” for “recycled halon”.
+1997—Subsec. (d)(1). Pub. L. 105–34, § 903(a), substituted “recycled Halon-1301 or recycled Halon-2402” for “recycled halon”.
 
-Subsec. (g). Pub. L. 105–34, § 1432(c)(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) consisted of pars. (1) to (5) relating to taxes imposed during 1990 to 1993 on halons, chemicals used in rigid foam insulation, and methyl chloroform and taxes imposed on chemicals used as propellants in metered-dose inhalers.
+Subsec. (g). Pub. L. 105–34, § 1432(c)(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) consisted of pars. (1) to (5) relating to taxes imposed during 1990 to 1993 on halons, chemicals used in rigid foam insulation, and methyl chloroform and taxes imposed on chemicals used as propellants in metered-dose inhalers.
 
-1996—Subsec. (d)(1). Pub. L. 104–188, § 1803(a)(1), inserted before period at end “, or on any recycled halon imported from any country which is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer”.
+1996—Subsec. (d)(1). Pub. L. 104–188, § 1803(a)(1), inserted before period at end “, or on any recycled halon imported from any country which is a signatory to the Montreal Protocol on Substances that Deplete the Ozone Layer”.
 
-Subsec. (g)(4). Pub. L. 104–188, § 1803(b), amended par. (4) generally, substituting provisions relating to chemicals used as propellants in metered-dose inhalers for provisions relating to chemicals used for sterilizing medical instruments and as propellants in metered-dose inhalers, including provisions relating to rate of tax, overpayments, and applicable period.
+Subsec. (g)(4). Pub. L. 104–188, § 1803(b), amended par. (4) generally, substituting provisions relating to chemicals used as propellants in metered-dose inhalers for provisions relating to chemicals used for sterilizing medical instruments and as propellants in metered-dose inhalers, including provisions relating to rate of tax, overpayments, and applicable period.
 
-1992—Subsec. (g)(2)(A). Pub. L. 102–486, § 1932(a), in table, for sales or use during 1993, decreased applicable percentages from 3.3, 1.0, and 1.6 to 2.49, 0.75, and 1.24 in the case of Halon-1211, Halon-1301, and Halon-2402, respectively, and struck out applicable percentages for sales or use during 1991 and 1992.
+1992—Subsec. (g)(2)(A). Pub. L. 102–486, § 1932(a), in table, for sales or use during 1993, decreased applicable percentages from 3.3, 1.0, and 1.6 to 2.49, 0.75, and 1.24 in the case of Halon-1211, Halon-1301, and Halon-2402, respectively, and struck out applicable percentages for sales or use during 1991 and 1992.
 
-Subsec. (g)(2)(B). Pub. L. 102–486, § 1931(b), in table decreased applicable percentage in the case of sales or use in 1993 from 10 to 7.46.
+Subsec. (g)(2)(B). Pub. L. 102–486, § 1931(b), in table decreased applicable percentage in the case of sales or use in 1993 from 10 to 7.46.
 
-Subsec. (g)(4), (5). Pub. L. 102–486, § 1932(b), (c), added pars. (4) and (5).
+Subsec. (g)(4), (5). Pub. L. 102–486, § 1932(b), (c), added pars. (4) and (5).
 
-Subsec. (h)(2)(C). Pub. L. 102–486, § 1931(c), substituted “any calendar year after 1991” for “1991, 1992, 1993, and 1994”.
+Subsec. (h)(2)(C). Pub. L. 102–486, § 1931(c), substituted “any calendar year after 1991” for “1991, 1992, 1993, and 1994”.
 
-1990—Subsecs. (a)(2), (b). Pub. L. 101–508, § 11203(a), inserted items for “Carbon tetrachloride” through “CFC–217” in tables.
+1990—Subsecs. (a)(2), (b). Pub. L. 101–508, § 11203(a), inserted items for “Carbon tetrachloride” through “CFC–217” in tables.
 
-Subsec. (c)(2). Pub. L. 101–508, § 11203(d)(1), inserted “(other than methyl chloroform)”.
+Subsec. (c)(2). Pub. L. 101–508, § 11203(d)(1), inserted “(other than methyl chloroform)”.
 
-Subsec. (d)(3)(B)(i). Pub. L. 101–508, § 11701(g)(1), substituted “, produced, or imported” for “or produced” in introductory provisions.
+Subsec. (d)(3)(B)(i). Pub. L. 101–508, § 11701(g)(1), substituted “, produced, or imported” for “or produced” in introductory provisions.
 
-Subsec. (d)(3)(B)(i)(I). Pub. L. 101–508, § 11701(g)(2), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the amount equal to the 1986 export percentage of the aggregate tax imposed by this subchapter with respect to ozone-depleting chemicals manufactured or produced by such person during such calendar year (other than chemicals with respect to which subclause (II) applies), and”.
+Subsec. (d)(3)(B)(i)(I). Pub. L. 101–508, § 11701(g)(2), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the amount equal to the 1986 export percentage of the aggregate tax imposed by this subchapter with respect to ozone-depleting chemicals manufactured or produced by such person during such calendar year (other than chemicals with respect to which subclause (II) applies), and”.
 
-Subsec. (d)(3)(B)(i)(II). Pub. L. 101–508, § 11701(g)(3), substituted “tax which would (but for this subsection and subsection (g)) be imposed” for “tax imposed”.
+Subsec. (d)(3)(B)(i)(II). Pub. L. 101–508, § 11701(g)(3), substituted “tax which would (but for this subsection and subsection (g)) be imposed” for “tax imposed”.
 
-Subsec. (d)(3)(B)(i)(III). Pub. L. 101–508, § 11701(g)(4), added subcl. (III).
+Subsec. (d)(3)(B)(i)(III). Pub. L. 101–508, § 11701(g)(4), added subcl. (III).
 
-Subsec. (d)(3)(B)(ii). Pub. L. 101–508, § 11701(g)(5), substituted last sentence for former last sentence which read as follows: “The percentage determined under the preceding sentence shall be based on data published by the Environmental Protection Agency.”
+Subsec. (d)(3)(B)(ii). Pub. L. 101–508, § 11701(g)(5), substituted last sentence for former last sentence which read as follows: “The percentage determined under the preceding sentence shall be based on data published by the Environmental Protection Agency.”
 
-Subsec. (d)(3)(C). Pub. L. 101–508, § 11203(b), added subpar. (C).
+Subsec. (d)(3)(C). Pub. L. 101–508, § 11203(b), added subpar. (C).
 
-Subsec. (h)(3). Pub. L. 101–508, § 11203(d)(2), substituted “June 30” for “April 1”.
+Subsec. (h)(3). Pub. L. 101–508, § 11203(d)(2), substituted “June 30” for “April 1”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1439,11 +1439,11 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title IX, § 903(b), Aug. 5, 1997, 111 Stat. 873, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title IX, § 903(b), Aug. 5, 1997, 111 Stat. 873, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–188, title I, § 1803(c), Aug. 20, 1996, 110 Stat. 1893, provided that:
+Pub. L. 104–188, title I, § 1803(c), Aug. 20, 1996, 110 Stat. 1893, provided that:
 
 > **“(1) Recycled halon.—**
 
@@ -1457,7 +1457,7 @@ Pub. L. 104–188, title I, § 1803(c), Aug. 20, 1996, 110 Stat. 1893, provide
 
 Amendment by section 1931(b), (c) of Pub. L. 102–486 applicable to taxable chemicals sold or used on or after Jan. 1, 1993, see section 1931(d) of Pub. L. 102–486, set out as a note under section 4681 of this title.
 
-Pub. L. 102–486, title XIX, § 1932(d), Oct. 24, 1992, 106 Stat. 3031, provided that: “The amendments made by this section [amending this section] shall apply to sales and uses on or after January 1, 1993.”
+Pub. L. 102–486, title XIX, § 1932(d), Oct. 24, 1992, 106 Stat. 3031, provided that: “The amendments made by this section [amending this section] shall apply to sales and uses on or after January 1, 1993.”
 
 **Effective Date of 1990 Amendment**
 
@@ -1467,8 +1467,8 @@ Amendment by section 11701(g) of Pub. L. 101–508 effective, except as otherwis
 
 **Certification System**
 
-Pub. L. 104–188, title I, § 1803(a)(2), Aug. 20, 1996, 110 Stat. 1892, provided that: “The Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall develop a certification system to ensure compliance with the recycling requirement for imported halon under section 4682(d)(1) of the Internal Revenue Code of 1986, as amended by paragraph (1).”
+Pub. L. 104–188, title I, § 1803(a)(2), Aug. 20, 1996, 110 Stat. 1892, provided that: “The Secretary of the Treasury, after consultation with the Administrator of the Environmental Protection Agency, shall develop a certification system to ensure compliance with the recycling requirement for imported halon under section 4682(d)(1) of the Internal Revenue Code of 1986, as amended by paragraph (1).”
 
 **Deposits for First Quarter of 1991**
 
-Pub. L. 101–508, title XI, § 11203(f), Nov. 5, 1990, 104 Stat. 1388–423, provided that: “No deposit of any tax imposed by subchapter D of chapter 38 of the Internal Revenue Code of 1986 on any substance treated as an ozone-depleting chemical by reason of the amendment made by subsection (a)(1) [amending this section] shall be required to be made before April 1, 1991.”
+Pub. L. 101–508, title XI, § 11203(f), Nov. 5, 1990, 104 Stat. 1388–423, provided that: “No deposit of any tax imposed by subchapter D of chapter 38 of the Internal Revenue Code of 1986 on any substance treated as an ozone-depleting chemical by reason of the amendment made by subsection (a)(1) [amending this section] shall be required to be made before April 1, 1991.”

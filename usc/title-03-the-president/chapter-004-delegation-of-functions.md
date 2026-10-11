@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Similar Provisions; Repeal; Saving Clause**
 
-Similar provisions were contained in former chapter 4, comprising former sections 301 to 303 of this title, which was set out here but which was not a part of this title. Former sections 301 to 303 were derived from act Aug. 8, 1950, ch. 646, §§ 1–3, 64 Stat. 419, and were repealed by section 56(j) of act Oct. 31, 1951. Subsec. (*l*) of section 56 provided that the repeal should not affect any rights or liabilities existing under the repealed sections on the effective date of the repeal (Oct. 31, 1951).
+Similar provisions were contained in former chapter 4, comprising former sections 301 to 303 of this title, which was set out here but which was not a part of this title. Former sections 301 to 303 were derived from act Aug. 8, 1950, ch. 646, §§ 1–3, 64 Stat. 419, and were repealed by section 56(j) of act Oct. 31, 1951. Subsec. (*l*) of section 56 provided that the repeal should not affect any rights or liabilities existing under the repealed sections on the effective date of the repeal (Oct. 31, 1951).
 
-## § 301. General authorization to delegate functions; publication of delegations
+## § 301. General authorization to delegate functions; publication of delegations
 
 The President of the United States is authorized to designate and empower the head of any department or agency in the executive branch, or any official thereof who is required to be appointed by and with the advice and consent of the Senate, to perform without approval, ratification, or other action by the President (1) any function which is vested in the President by law, or (2) any function which such officer is required or authorized by law to perform only with or subject to the approval, ratification, or other action of the President: *Provided*, That nothing contained herein shall relieve the President of his responsibility in office for the acts of any such head or other official designated by him to perform such functions. Such designation and authorization shall be in writing, shall be published in the Federal Register, shall be subject to such terms, conditions, and limitations as the President may deem advisable, and shall be revocable at any time by the President in whole or in part.
 
-(Added Oct. 31, 1951, ch. 655, § 10, 65 Stat. 712.)
+(Added Oct. 31, 1951, ch. 655, § 10, 65 Stat. 712.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -41,7 +41,7 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 
 **Ex. Ord. No. 10250. Delegation of Functions to the Secretary of the Interior**
 
-Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732, Oct. 10, 1957, 22 F.R. 8135; Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973; Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454, provided:
+Ex. Ord. No. 10250, June 5, 1951, 16 F.R. 5385, as amended by Ex. Ord. No. 10732, Oct. 10, 1957, 22 F.R. 8135; Ex. Ord. No. 10752, Feb. 12, 1958, 23 F.R. 973; Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454, provided:
 
 \1. The Secretary of the Interior is hereby designated and empowered to perform the following-described functions of the President without the approval, ratification, or other action of the President:
 
@@ -137,15 +137,15 @@ Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended by Ex. Ord. No. 105
 
 **Ex. Ord. No. 10530. Providing for the Performance of Certain Functions Vested in or Subject to the Approval of the President**
 
-Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended by Ex. Ord. No. 10573, Oct. 26, 1954, 19 F.R. 6899; Ex. Ord. No. 10682, Oct. 22, 1956, 21 F.R. 8129; Ex. Ord. No. 10759, Mar. 17, 1958, 23 F.R. 1803; Ex. Ord. No. 10790, Nov. 20, 1958, 23 F.R. 9051; Ex. Ord. No. 10836, Sept. 8, 1959, 24 F.R. 7269; Ex. Ord. No. 10852, Nov. 27, 1959, 24 F.R. 9565; Ex. Ord. No. 10889, Oct. 5, 1960, 25 F.R. 9633; Ex. Ord. No. 10903, Jan. 9, 1961, 26 F.R. 217; Ex. Ord. No. 10960, Aug. 21, 1961, 26 F.R. 7823; Ex. Ord. No. 10970, Oct. 27, 1961, 26 F.R. 10149; Ex. Ord. No. 11012, Mar. 27, 1962, 27 F.R. 2983; Ex. Ord. No. 11116, Aug. 5, 1963, 28 F.R. 8075; Ex. Ord. No. 11164, Aug. 1, 1964, 29 F.R. 11257; Ex. Ord. No. 11184, Oct. 13, 1964, 29 F.R. 14155; Ex. Ord. No. 11196, Feb. 2, 1965, 30 F.R. 1171; Ex. Ord. No. 11222, May 8, 1965, 30 F.R. 6469; Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739; Ex. Ord. No. 11230, § 2(1), (3), (5) to (14), June 28, 1965, 30 F.R. 8447; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Pub. L. 98–497, title I, § 103(b)(1), Oct. 19, 1984, 98 Stat. 2283; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 10530, May 10, 1954, 19 F.R. 2709, as amended by Ex. Ord. No. 10573, Oct. 26, 1954, 19 F.R. 6899; Ex. Ord. No. 10682, Oct. 22, 1956, 21 F.R. 8129; Ex. Ord. No. 10759, Mar. 17, 1958, 23 F.R. 1803; Ex. Ord. No. 10790, Nov. 20, 1958, 23 F.R. 9051; Ex. Ord. No. 10836, Sept. 8, 1959, 24 F.R. 7269; Ex. Ord. No. 10852, Nov. 27, 1959, 24 F.R. 9565; Ex. Ord. No. 10889, Oct. 5, 1960, 25 F.R. 9633; Ex. Ord. No. 10903, Jan. 9, 1961, 26 F.R. 217; Ex. Ord. No. 10960, Aug. 21, 1961, 26 F.R. 7823; Ex. Ord. No. 10970, Oct. 27, 1961, 26 F.R. 10149; Ex. Ord. No. 11012, Mar. 27, 1962, 27 F.R. 2983; Ex. Ord. No. 11116, Aug. 5, 1963, 28 F.R. 8075; Ex. Ord. No. 11164, Aug. 1, 1964, 29 F.R. 11257; Ex. Ord. No. 11184, Oct. 13, 1964, 29 F.R. 14155; Ex. Ord. No. 11196, Feb. 2, 1965, 30 F.R. 1171; Ex. Ord. No. 11222, May 8, 1965, 30 F.R. 6469; Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739; Ex. Ord. No. 11230, § 2(1), (3), (5) to (14), June 28, 1965, 30 F.R. 8447; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Pub. L. 98–497, title I, § 103(b)(1), Oct. 19, 1984, 98 Stat. 2283; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 **Part I—Director of the Bureau of the Budget**
 
-[Superseded by Ex. Ord. No. 11230, § 2(1), (3), (5)–(14), June 28, 1965, 30 F.R. 8447]
+[Superseded by Ex. Ord. No. 11230, § 2(1), (3), (5)–(14), June 28, 1965, 30 F.R. 8447]
 
 **Part II—The Office of Personnel Management**
 
-[Superseded by Ex. Ord. No. 11228, § 3(1), (2), (5), June 14, 1965, 30 F.R. 7739]
+[Superseded by Ex. Ord. No. 11228, § 3(1), (2), (5), June 14, 1965, 30 F.R. 7739]
 
 **Part III—The Housing and Home Finance Administrator**
 
@@ -211,7 +211,7 @@ Sec. 4. As used in this order, the term “functions” includes duties, powers,
 
 **Ex. Ord. No. 10637. Delegation of Functions to Secretary of Homeland Security**
 
-Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended by Ex. Ord. No. 13286, § 75, Feb. 28, 2003, 68 F.R. 10631, provided:
+Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended by Ex. Ord. No. 13286, § 75, Feb. 28, 2003, 68 F.R. 10631, provided:
 
 Section 1. The Secretary of Homeland Security is hereby designated and empowered to perform the following- described functions without the approval, ratification, or other action of the President:
 
@@ -295,7 +295,7 @@ Dwight D. Eisenhower.
 
 **Ex. Ord. No. 10950. Delegation of Functions to Secretary of the Interior**
 
-Ex. Ord. No. 10950, June 27, 1961, 26 F.R. 5787, as amended by Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454, provided:
+Ex. Ord. No. 10950, June 27, 1961, 26 F.R. 5787, as amended by Pub. L. 101–509, title V, § 529 [title I, § 112(c)], Nov. 5, 1990, 104 Stat. 1427, 1454, provided:
 
 By virtue of the authority vested in me by section 6(b) of the Alaska Statehood Act of July 7, 1958 (72 Stat. 339) [set out as a note preceding 48 U.S.C. 21], and as President of the United States, I hereby designate the Secretary of the Interior as my representative to exercise the authority vested in me by section 6(b) of the act to approve selections of land made by the State of Alaska under the provisions of section 6(b) in instances in which those selections include land lying north and west of the line described in section 10(b) of the act: *Provided*, That no selection by the State shall be approved pursuant to this order, in whole or in part, without the concurrence of the Secretary of Defense or his designated representative.
 
@@ -303,11 +303,11 @@ As the Secretary of the Interior may direct, the Deputy Secretary of the Interio
 
 **Ex. Ord. No. 11012. Delegation of Functions to Administrator of General Services**
 
-Ex. Ord. No. 11012, Mar. 27, 1962, 27 F.R. 2983, as amended by Ex. Ord. No. 11230, § 2(11), June 28, 1965, 30 F.R. 8447; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 11012, Mar. 27, 1962, 27 F.R. 2983, as amended by Ex. Ord. No. 11230, § 2(11), June 28, 1965, 30 F.R. 8447; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
 By virtue of the authority vested in me by Section 301 of Title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
-Section 1. [Superseded by Ex. Ord. No. 11230, § 2(11), June 28, 1965, 30 F.R. 8447.]
+Section 1. [Superseded by Ex. Ord. No. 11230, § 2(11), June 28, 1965, 30 F.R. 8447.]
 
 Sec. 2. The Administrator of General Services is hereby designated and empowered to exercise, without the approval, ratification, or other action of the President, so much of the authority vested in the President by Section 1(b) of the Act of August 2, 1946, ch. 744, 60 Stat. 807 (5 U.S.C. 73b–1(b)) [5 U.S.C. 5724], as pertains to the establishment of the rates to be used in reimbursing civilian officers or employees of the Government on a commuted basis in lieu of the payment of actual expenses of transportation, packing, crating, temporary storage, drayage, and unpacking of their household goods and personal effects in the case of transfers from one official station to another within the continental United States for permanent duty.
 
@@ -487,7 +487,7 @@ Sec. 2. All actions heretofore taken by or for the President with respect to the
 
 **Executive Order No. 11423**
 
-Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, as amended by Ex. Ord. No. 12847, May 17, 1993, 58 F.R. 29511; Ex. Ord. No. 13284, § 14, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13337, § 2, Apr. 30, 2004, 69 F.R. 25300, which delegated functions to Secretary of State respecting certain facilities constructed and maintained on United States borders, was revoked by Ex. Ord. No. 13867, § 2(k), Apr. 10, 2019, 84 F.R. 15492, set out below.
+Ex. Ord. No. 11423, Aug. 16, 1968, 33 F.R. 11741, as amended by Ex. Ord. No. 12847, May 17, 1993, 58 F.R. 29511; Ex. Ord. No. 13284, § 14, Jan. 23, 2003, 68 F.R. 4076; Ex. Ord. No. 13337, § 2, Apr. 30, 2004, 69 F.R. 25300, which delegated functions to Secretary of State respecting certain facilities constructed and maintained on United States borders, was revoked by Ex. Ord. No. 13867, § 2(k), Apr. 10, 2019, 84 F.R. 15492, set out below.
 
 **Ex. Ord. No. 11592. Delegation of Functions to Director of Office of Management and Budget**
 
@@ -669,7 +669,7 @@ Richard Nixon.
 
 **Abolition of Domestic Council**
 
-The Domestic Council, referred to in section 5 of Ex. Ord. No. 11690, Dec. 14, 1972, 31 F.R. 26815, was abolished and its functions transferred to the President with power to delegate such functions within the Executive Office of the President pursuant to Reorg. Plan No. 1 of 1977, §§ 1, 3, 5D, 42 F.R. 56101, 91 Stat. 1633, set out preceding section 101 of this title, effective on or before Apr. 1, 1978, at such time as specified by the President. Ex. Ord. No. 12045, Mar. 27, 1978, 43 F.R. 13347, set out preceding section 101 of this title, provided that the abolition and transfer of functions of the Domestic Council be effective Mar. 26, 1978.
+The Domestic Council, referred to in section 5 of Ex. Ord. No. 11690, Dec. 14, 1972, 31 F.R. 26815, was abolished and its functions transferred to the President with power to delegate such functions within the Executive Office of the President pursuant to Reorg. Plan No. 1 of 1977, §§ 1, 3, 5D, 42 F.R. 56101, 91 Stat. 1633, set out preceding section 101 of this title, effective on or before Apr. 1, 1978, at such time as specified by the President. Ex. Ord. No. 12045, Mar. 27, 1978, 43 F.R. 13347, set out preceding section 101 of this title, provided that the abolition and transfer of functions of the Domestic Council be effective Mar. 26, 1978.
 
 **Executive Order No. 11713**
 
@@ -917,7 +917,7 @@ George W. Bush.
 
 **Executive Order No. 13337**
 
-Ex. Ord. No. 13337, Apr. 30, 2004, 69 F.R. 25299, which designated the Secretary of State to receive all applications for Presidential permits for the construction, connection, operation, or maintenance, at the borders of the United States, of facilities for the exportation or importation of petroleum, petroleum products, coal, or other fuels to or from a foreign country, was revoked by Ex. Ord. No. 13867, § 2(k), Apr. 10, 2019, 84 F.R. 15492, set out below.
+Ex. Ord. No. 13337, Apr. 30, 2004, 69 F.R. 25299, which designated the Secretary of State to receive all applications for Presidential permits for the construction, connection, operation, or maintenance, at the borders of the United States, of facilities for the exportation or importation of petroleum, petroleum products, coal, or other fuels to or from a foreign country, was revoked by Ex. Ord. No. 13867, § 2(k), Apr. 10, 2019, 84 F.R. 15492, set out below.
 
 **Ex. Ord. No. 13346. Delegation of Certain Waiver, Determination, Certification, Recommendation, and Reporting Functions**
 
@@ -939,7 +939,7 @@ Section 1. The functions of the President in making certain waivers, determinati
 
 Sec. 2. The functions of the President in making certifications to the Congress consistent with the resolution of advice and consent to ratification of the Chemical Weapons Convention adopted by the Senate on April 24, 1997 (Resolution) are assigned as follows:
 
-(a) The Secretary of State is authorized to make a certification consistent with section 2(7)(C)(i) of the Resolution [repealed by Pub. L. 117–263, div. I, title XCVII, § 9716(a), Dec. 23, 2022, 136 Stat. 3921] with respect to the effectiveness and viability of the Australia Group.
+(a) The Secretary of State is authorized to make a certification consistent with section 2(7)(C)(i) of the Resolution [repealed by Pub. L. 117–263, div. I, title XCVII, § 9716(a), Dec. 23, 2022, 136 Stat. 3921] with respect to the effectiveness and viability of the Australia Group.
 
 (b) The Secretary of Commerce is authorized to make a certification consistent with section 2(9) of the Resolution with respect to the interests of certain firms in the United States.
 
@@ -1105,11 +1105,11 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 George W. Bush.
 
-## § 302. Scope of delegation of functions
+## § 302. Scope of delegation of functions
 
 The authority conferred by this chapter shall apply to any function vested in the President by law if such law does not affirmatively prohibit delegation of the performance of such function as herein provided for, or specifically designate the officer or officers to whom it may be delegated. This chapter shall not be deemed to limit or derogate from any existing or inherent right of the President to delegate the performance of functions vested in him by law, and nothing herein shall be deemed to require express authorization in any case in which such an official would be presumed in law to have acted by authority or direction of the President.
 
-(Added Oct. 31, 1951, ch. 655, § 10, 65 Stat. 712.)
+(Added Oct. 31, 1951, ch. 655, § 10, 65 Stat. 712.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1117,11 +1117,11 @@ The authority conferred by this chapter shall apply to any function vested in th
 
 For similar provisions contained in prior law, and saving clause in connection therewith, see note preceding section 301 of this title.
 
-## § 303. Definitions
+## § 303. Definitions
 
 As used in this chapter, the term “function” embraces any duty, power, responsibility, authority, or discretion vested in the President or other officer concerned, and the terms “perform” and “performance” may be construed to mean “exercise”.
 
-(Added Oct. 31, 1951, ch. 655, § 10, 65 Stat. 712.)
+(Added Oct. 31, 1951, ch. 655, § 10, 65 Stat. 712.)
 
 **Statutory Notes and Related Subsidiaries**
 

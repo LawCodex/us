@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2019—Pub. L. 116–92, div. A, title X, § 1055(c)(2), Dec. 20, 2019, 133 Stat. 1593, added item 3401 and struck out former item 3401 “Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations”.
+2019—Pub. L. 116–92, div. A, title X, § 1055(c)(2), Dec. 20, 2019, 133 Stat. 1593, added item 3401 and struck out former item 3401 “Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations”.
 
-1986—Pub. L. 99–410, title II, § 201(b)(1), Aug. 28, 1986, 100 Stat. 928, added item 3406.
+1986—Pub. L. 99–410, title II, § 201(b)(1), Aug. 28, 1986, 100 Stat. 928, added item 3406.
 
-1979—Pub. L. 96–70, title I, § 1331(e)(3)(B), Sept. 27, 1979, 93 Stat. 482, struck out item 3402 “Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations in the Canal Zone”.
+1979—Pub. L. 96–70, title I, § 1331(e)(3)(B), Sept. 27, 1979, 93 Stat. 482, struck out item 3402 “Mailing privileges of members of Armed Forces of the United States and of friendly foreign nations in the Canal Zone”.
 
-## § 3401. Mailing privileges of members of Armed Forces of the United States
+## § 3401. Mailing privileges of members of Armed Forces of the United States
 
 **(a)**
 
@@ -61,33 +61,33 @@ retrieved: 2026-10-11
 
 **(2)** The term “United States air carrier” has the meaning given the term “air carrier” in section 40102 of title 49.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755; Pub. L. 92–469, Oct. 6, 1972, 86 Stat. 782; Pub. L. 96–70, title I, § 1331(e)(2), Sept. 27, 1979, 93 Stat. 482; Pub. L. 98–443, § 9(g)(1), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 101–384, Sept. 18, 1990, 104 Stat. 737; Pub. L. 101–509, title VI, § 631(a), Nov. 5, 1990, 104 Stat. 1480; Pub. L. 101–510, div. A, title XI, § 1113, Nov. 5, 1990, 104 Stat. 1636; Pub. L. 102–484, div. A, title X, § 1051(b)(3), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title III, § 364, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 103–272, § 5(k)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 106–398, § 1 [[div. A], title X, § 1088], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 108–375, div. A, title X, § 1071, Oct. 28, 2004, 118 Stat. 2056; Pub. L. 110–405, § 2(b)(10), Oct. 13, 2008, 122 Stat. 4290; Pub. L. 116–92, div. A, title X, § 1055(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1592, 1593.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 755; Pub. L. 92–469, Oct. 6, 1972, 86 Stat. 782; Pub. L. 96–70, title I, § 1331(e)(2), Sept. 27, 1979, 93 Stat. 482; Pub. L. 98–443, § 9(g)(1), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 101–384, Sept. 18, 1990, 104 Stat. 737; Pub. L. 101–509, title VI, § 631(a), Nov. 5, 1990, 104 Stat. 1480; Pub. L. 101–510, div. A, title XI, § 1113, Nov. 5, 1990, 104 Stat. 1636; Pub. L. 102–484, div. A, title X, § 1051(b)(3), Oct. 23, 1992, 106 Stat. 2498; Pub. L. 103–160, div. A, title III, § 364, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 103–272, § 5(k)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 106–398, § 1 [[div. A], title X, § 1088], Oct. 30, 2000, 114 Stat. 1654, 1654A–294; Pub. L. 108–375, div. A, title X, § 1071, Oct. 28, 2004, 118 Stat. 2056; Pub. L. 110–405, § 2(b)(10), Oct. 13, 2008, 122 Stat. 4290; Pub. L. 116–92, div. A, title X, § 1055(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1592, 1593.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Pub. L. 116–92, § 1055(c)(1), struck out “and of friendly foreign nations” after “United States” in section catchline.
+2019—Pub. L. 116–92, § 1055(c)(1), struck out “and of friendly foreign nations” after “United States” in section catchline.
 
-Subsec. (a). Pub. L. 116–92, § 1055(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to carriage at no cost of letter mail or sound- or video-recorded communications having the character of personal correspondence mailed at Armed Forces post offices.
+Subsec. (a). Pub. L. 116–92, § 1055(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to carriage at no cost of letter mail or sound- or video-recorded communications having the character of personal correspondence mailed at Armed Forces post offices.
 
-Subsec. (b). Pub. L. 116–92, § 1055(b)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to the carriage by air of certain categories of mail matter.
+Subsec. (b). Pub. L. 116–92, § 1055(b)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to the carriage by air of certain categories of mail matter.
 
-Subsecs. (c) to (g). Pub. L. 116–92, § 1055(b), redesignated subsecs. (d) to (g) as (c) to (f), respectively, and struck out former subsec. (c) which read as follows: “Any parcel, other than a parcel mailed at a rate of postage requiring priority of handling and delivery, not exceeding 30 pounds in weight and 60 inches in length and girth combined, which is mailed at or addressed to any Armed Forces post office established under section 406(a) of this title, shall be transported by air on a space available basis on certificated United States air carriers or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title, or on military aircraft, upon payment of a fee for such air transportation in addition to the rate of postage otherwise applicable to such a parcel not transported by air.”
+Subsecs. (c) to (g). Pub. L. 116–92, § 1055(b), redesignated subsecs. (d) to (g) as (c) to (f), respectively, and struck out former subsec. (c) which read as follows: “Any parcel, other than a parcel mailed at a rate of postage requiring priority of handling and delivery, not exceeding 30 pounds in weight and 60 inches in length and girth combined, which is mailed at or addressed to any Armed Forces post office established under section 406(a) of this title, shall be transported by air on a space available basis on certificated United States air carriers or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title, or on military aircraft, upon payment of a fee for such air transportation in addition to the rate of postage otherwise applicable to such a parcel not transported by air.”
 
-2008—Subsec. (b). Pub. L. 110–405, § 2(b)(10)(D), struck out concluding provisions which read as follows: “Whenever adequate service by certificated United States air carriers and military aircraft is not available to provide transportation of mail matter by air in accordance with this subsection, the transportation of such mail may be authorized by other than certificated United States air carriers and military aircraft.”
+2008—Subsec. (b). Pub. L. 110–405, § 2(b)(10)(D), struck out concluding provisions which read as follows: “Whenever adequate service by certificated United States air carriers and military aircraft is not available to provide transportation of mail matter by air in accordance with this subsection, the transportation of such mail may be authorized by other than certificated United States air carriers and military aircraft.”
 
-Pub. L. 110–405, § 2(b)(10)(A)–(C), substituted “or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title” for “at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49”, struck out “at rates not to exceed those so fixed and determined for scheduled United States air carriers” after “military aircraft”, and substituted “certificated” for “scheduled” wherever appearing.
+Pub. L. 110–405, § 2(b)(10)(A)–(C), substituted “or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title” for “at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49”, struck out “at rates not to exceed those so fixed and determined for scheduled United States air carriers” after “military aircraft”, and substituted “certificated” for “scheduled” wherever appearing.
 
-Subsec. (c). Pub. L. 110–405, § 2(b)(10)(D), struck out at end “If adequate service by certificated United States air carriers and military aircraft is not available, any such parcel may be transported by other than certificated United States air carriers and military aircraft.”.
+Subsec. (c). Pub. L. 110–405, § 2(b)(10)(D), struck out at end “If adequate service by certificated United States air carriers and military aircraft is not available, any such parcel may be transported by other than certificated United States air carriers and military aircraft.”.
 
-Pub. L. 110–405, § 2(b)(10)(A)–(C), substituted “or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title” for “at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49”, struck out “at rates not to exceed those so fixed and determined for scheduled United States air carriers” after “military aircraft”, and substituted “certificated” for “scheduled” wherever appearing.
+Pub. L. 110–405, § 2(b)(10)(A)–(C), substituted “or, for carriage of mail in foreign air transportation, other air carriers, air taxi operators or foreign air carriers as permitted by section 5402 of this title” for “at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49”, struck out “at rates not to exceed those so fixed and determined for scheduled United States air carriers” after “military aircraft”, and substituted “certificated” for “scheduled” wherever appearing.
 
-2004—Subsec. (b). Pub. L. 108–375, § 1071(a)(1), substituted “title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers,” for “title 49,” in introductory provisions and “carriers and military aircraft” for “carriers” in two places in concluding provisions.
+2004—Subsec. (b). Pub. L. 108–375, § 1071(a)(1), substituted “title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers,” for “title 49,” in introductory provisions and “carriers and military aircraft” for “carriers” in two places in concluding provisions.
 
-Subsec. (c). Pub. L. 108–375, § 1071(a)(2), in first sentence, substituted “title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers,” for “title 49,” and, in second sentence, inserted “and military aircraft” after “by scheduled United States air carriers” and substituted “by other than scheduled United States air carriers and military aircraft” for “by air carriers other than scheduled United States air carriers”.
+Subsec. (c). Pub. L. 108–375, § 1071(a)(2), in first sentence, substituted “title 49, or on military aircraft at rates not to exceed those so fixed and determined for scheduled United States air carriers,” for “title 49,” and, in second sentence, inserted “and military aircraft” after “by scheduled United States air carriers” and substituted “by other than scheduled United States air carriers and military aircraft” for “by air carriers other than scheduled United States air carriers”.
 
-Subsec. (g). Pub. L. 108–375, § 1071(b), added subsec. (g).
+Subsec. (g). Pub. L. 108–375, § 1071(b), added subsec. (g).
 
 2000—Subsec. (b)(2), (3). Pub. L. 106–398 substituted “the maximum size allowed by the Postal Service for fourth class parcel post (known as ‘Standard Mail (B)’)” for “100 inches in length and girth combined”.
 
@@ -101,23 +101,23 @@ Subsec. (g). Pub. L. 108–375, § 1071(b), added subsec. (g).
 
 Subsec. (a)(1)(A). Pub. L. 101–510 substituted “sound- or video-recorded” for “sound-recorded”.
 
-Pub. L. 101–509, which directed that “, or temporarily deployed overseas for an operational contingency in arduous circumstances, as determined by the Secretary of Defense” be inserted after “belligerent”, and that “or” be struck out the first time it appears, was executed by making the insertion as directed but by striking out “or” appearing before “serving with a friendly foreign force” to reflect the probable intent of Congress.
+Pub. L. 101–509, which directed that “, or temporarily deployed overseas for an operational contingency in arduous circumstances, as determined by the Secretary of Defense” be inserted after “belligerent”, and that “or” be struck out the first time it appears, was executed by making the insertion as directed but by striking out “or” appearing before “serving with a friendly foreign force” to reflect the probable intent of Congress.
 
 Pub. L. 101–384 inserted “engaged in temporary military operations under arduous circumstances,” before “or serving”.
 
-Subsecs. (a)(2)(D), (b)(1)(A). Pub. L. 101–510 substituted  “sound-  or  video-recorded”  for  “sound-recorded”.
+Subsecs. (a)(2)(D), (b)(1)(A). Pub. L. 101–510 substituted “sound- or video-recorded” for “sound-recorded”.
 
 1984—Subsecs. (b), (c). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
 1979—Subsec. (b). Pub. L. 96–70 substituted “or the Virgin Islands,” for “the Virgin Islands, or the Canal Zone,”.
 
-1972—Subsec. (b)(1). Pub. L. 92–469, § 1, substituted “15” for “5” after “pounds” in cl. (B), redesignated subsec. (b)(2) as (b)(1)(C), and deleted therefrom former cls. reading “(A) in an overseas area designated by the President under subsection (a) of this section, or (B) in an isolated, hardship, or combat support area overseas, or where adequate surface transportation is not available”.
+1972—Subsec. (b)(1). Pub. L. 92–469, § 1, substituted “15” for “5” after “pounds” in cl. (B), redesignated subsec. (b)(2) as (b)(1)(C), and deleted therefrom former cls. reading “(A) in an overseas area designated by the President under subsection (a) of this section, or (B) in an isolated, hardship, or combat support area overseas, or where adequate surface transportation is not available”.
 
-Subsec. (b)(2). Pub. L. 92–469, § 1, added subsec. (b)(2). Former subsec. (b)(2) redesignated subsec. (b)(1)(C).
+Subsec. (b)(2). Pub. L. 92–469, § 1, added subsec. (b)(2). Former subsec. (b)(2) redesignated subsec. (b)(1)(C).
 
-Subsec. (b)(3). Pub. L. 92–469, § 1, substituted “15” for “5” after “pounds”.
+Subsec. (b)(3). Pub. L. 92–469, § 1, substituted “15” for “5” after “pounds”.
 
-Subsecs. (c) to (f). Pub. L. 92–469, § 2, added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
+Subsecs. (c) to (f). Pub. L. 92–469, § 2, added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -139,7 +139,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **Operation Desert Shield**
 
-Pub. L. 101–509, title VI, § 631(b), Nov. 5, 1990, 104 Stat. 1480, provided that: “This section [amending this section] shall apply to military personnel participating in ‘Operation Desert Shield’.”
+Pub. L. 101–509, title VI, § 631(b), Nov. 5, 1990, 104 Stat. 1480, provided that: “This section [amending this section] shall apply to military personnel participating in ‘Operation Desert Shield’.”
 
 **Executive Documents**
 
@@ -159,7 +159,7 @@ Sec. 2. *Interagency Consultation*. In performing the function delegated by this
 
 Ronald Reagan.
 
-## [§ 3402. Repealed. Pub. L. 96–70, title I, § 1331(e)(3)(A), Sept. 27, 1979, 93 Stat. 482]
+## [§ 3402. Repealed. Pub. L. 96–70, title I, § 1331(e)(3)(A), Sept. 27, 1979, 93 Stat. 482]
 
 Section, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 757, related to mailing privileges of members of Armed Forces of the United States and of friendly foreign nations in the Canal Zone.
 
@@ -169,7 +169,7 @@ Section, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 757, related to mailing privi
 
 Repeal effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
-## § 3403. Matter for blind and other handicapped persons
+## § 3403. Matter for blind and other handicapped persons
 
 **(a)** The matter described in subsection (b) of this section (other than matter mailed under section 3404 of this title) may be mailed free of postage, if—
 
@@ -201,7 +201,7 @@ Repeal effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as a
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3404. Unsealed letters sent by blind or physically handicapped persons
+## § 3404. Unsealed letters sent by blind or physically handicapped persons
 
 Unsealed letters sent by a blind person or a person having a physical impairment, as described in section 3403(a)(1) of this title, in raised characters or sightsaving type, or in the form of sound recordings, may be mailed free of postage.
 
@@ -213,7 +213,7 @@ Unsealed letters sent by a blind person or a person having a physical impairment
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3405. Markings
+## § 3405. Markings
 
 All matter relating to blind or other handicapped persons mailed under section 3403 or 3404 of this title, shall bear the words “Free Matter for the Blind or Handicapped”, or words to that effect specified by the Postal Service, in the upper right-hand corner of the address area.
 
@@ -225,7 +225,7 @@ All matter relating to blind or other handicapped persons mailed under section 3
 
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding section 101 of this title.
 
-## § 3406. Balloting materials under the Uniformed and Overseas Citizens Absentee Voting Act
+## § 3406. Balloting materials under the Uniformed and Overseas Citizens Absentee Voting Act
 
 **(a)** Balloting materials under the Uniformed and Overseas Citizens Absentee Voting Act (individually or in bulk)—
 
@@ -235,13 +235,13 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 **(b)** As used in this section, the term “balloting materials” has the meaning given that term in section 107 of the Uniformed and Overseas Citizens Absentee Voting Act.
 
-(Added Pub. L. 99–410, title II, § 201(a), Aug. 28, 1986, 100 Stat. 928.)
+(Added Pub. L. 99–410, title II, § 201(a), Aug. 28, 1986, 100 Stat. 928.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. Section 107 of the Act is now classified to section 20310 of Title 52. For complete classification of this Act to the Code, see Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. Section 107 of the Act is now classified to section 20310 of Title 52. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 

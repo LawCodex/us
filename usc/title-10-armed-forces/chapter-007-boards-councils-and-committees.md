@@ -19,53 +19,53 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title III, § 363(1), Dec. 22, 2023, 137 Stat. 233, redesignated item 184 “Joint Safety Council” as 185. Amendment was made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title III, § 363(1), Dec. 22, 2023, 137 Stat. 233, redesignated item 184 “Joint Safety Council” as 185. Amendment was made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title III, § 311, title X, § 1082(a)(2), title XIV, § 1411(a), Dec. 23, 2022, 136 Stat. 2500, 2799, 2869, added item 182a and item 184 “Civilian Protection Center of Excellence” and struck out item 187 “Strategic Materials Protection Board”. Striking of item 187 was made pursuant to operation of section 102 of this title.
+2022—Pub. L. 117–263, div. A, title III, § 311, title X, § 1082(a)(2), title XIV, § 1411(a), Dec. 23, 2022, 136 Stat. 2500, 2799, 2869, added item 182a and item 184 “Civilian Protection Center of Excellence” and struck out item 187 “Strategic Materials Protection Board”. Striking of item 187 was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title III, § 372(b), Dec. 27, 2021, 135 Stat. 1666, added item 184 “Joint Safety Council”.
+2021—Pub. L. 117–81, div. A, title III, § 372(b), Dec. 27, 2021, 135 Stat. 1666, added item 184 “Joint Safety Council”.
 
-2019—Pub. L. 116–92, div. A, title VIII, § 810(b), title XVII, § 1731(a)(10), Dec. 20, 2019, 133 Stat. 1487, 1813, substituted “Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions” for “Military Aviation and Installation Assurance Siting Clearinghouse for review of mission obstructions” in item 183a and struck out item 190 “Defense Cost Accounting Standards Board”.
+2019—Pub. L. 116–92, div. A, title VIII, § 810(b), title XVII, § 1731(a)(10), Dec. 20, 2019, 133 Stat. 1487, 1813, substituted “Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions” for “Military Aviation and Installation Assurance Siting Clearinghouse for review of mission obstructions” in item 183a and struck out item 190 “Defense Cost Accounting Standards Board”.
 
-2017—Pub. L. 115–91, div. A, title III, §§ 311(b)(4), 341(b)(2), Dec. 12, 2017, 131 Stat. 1348, 1361, substituted “Explosive safety board” for “Ammunition storage board” in item 172 and added item 183a.
+2017—Pub. L. 115–91, div. A, title III, §§ 311(b)(4), 341(b)(2), Dec. 12, 2017, 131 Stat. 1348, 1361, substituted “Explosive safety board” for “Ammunition storage board” in item 172 and added item 183a.
 
-2016—Pub. L. 114–328, div. A, title VIII, § 820(b)(2), title IX, § 904(b), title XII, § 1241(*o*)(3), Dec. 23, 2016, 130 Stat. 2276, 2345, 2512, struck out items 184 “Regional Centers for Security Studies” and 185 “Financial Management Modernization Executive Committee” and, effective Oct. 1, 2018, added item 190.
+2016—Pub. L. 114–328, div. A, title VIII, § 820(b)(2), title IX, § 904(b), title XII, § 1241(*o*)(3), Dec. 23, 2016, 130 Stat. 2276, 2345, 2512, struck out items 184 “Regional Centers for Security Studies” and 185 “Financial Management Modernization Executive Committee” and, effective Oct. 1, 2018, added item 190.
 
-2014—Pub. L. 113–291, div. A, title IX, § 901(*l*)(2), title X, § 1071(f)(3), Dec. 19, 2014, 128 Stat. 3468, 3510, struck out item 186 “Defense Business System Management Committee” and inserted period at end of item 189.
+2014—Pub. L. 113–291, div. A, title IX, § 901(*l*)(2), title X, § 1071(f)(3), Dec. 19, 2014, 128 Stat. 3468, 3510, struck out item 186 “Defense Business System Management Committee” and inserted period at end of item 189.
 
-2013—Pub. L. 113–66, div. A, title II, § 261(b), title X, § 1052(a)(2), Dec. 26, 2013, 127 Stat. 725, 861, added items 171a and 189.
+2013—Pub. L. 113–66, div. A, title II, § 261(b), title X, § 1052(a)(2), Dec. 26, 2013, 127 Stat. 725, 861, added items 171a and 189.
 
-Pub. L. 112–239, div. A, title X, § 1040(b), Jan. 2, 2013, 126 Stat. 1930, added item 188.
+Pub. L. 112–239, div. A, title X, § 1040(b), Jan. 2, 2013, 126 Stat. 1930, added item 188.
 
-2008—Pub. L. 110–417, [div. A], title X, § 1061(a)(3), Oct. 14, 2008, 122 Stat. 4612, inserted period at end of item 183.
+2008—Pub. L. 110–417, [div. A], title X, § 1061(a)(3), Oct. 14, 2008, 122 Stat. 4612, inserted period at end of item 183.
 
-Pub. L. 110–181, div. A, title IX, § 906(a)(2), Jan. 28, 2008, 122 Stat. 277, added item 183.
+Pub. L. 110–181, div. A, title IX, § 906(a)(2), Jan. 28, 2008, 122 Stat. 277, added item 183.
 
-2006—Pub. L. 109–364, div. A, title VIII, § 843(b), title IX, § 904(a)(2), Oct. 17, 2006, 120 Stat. 2339, 2353, substituted “Regional Centers for Security Studies” for “Department of Defense regional centers for security studies” in item 184 and added item 187.
+2006—Pub. L. 109–364, div. A, title VIII, § 843(b), title IX, § 904(a)(2), Oct. 17, 2006, 120 Stat. 2339, 2353, substituted “Regional Centers for Security Studies” for “Department of Defense regional centers for security studies” in item 184 and added item 187.
 
-2004—Pub. L. 108–375, div. A, title III, § 332(b)(2), Oct. 28, 2004, 118 Stat. 1855, added item 186.
+2004—Pub. L. 108–375, div. A, title III, § 332(b)(2), Oct. 28, 2004, 118 Stat. 1855, added item 186.
 
-2002—Pub. L. 107–314, div. A, title X, § 1041(a)(1)(B), Dec. 2, 2002, 116 Stat. 2645, struck out item 183 “Advisory committees: annual justification required”.
+2002—Pub. L. 107–314, div. A, title X, § 1041(a)(1)(B), Dec. 2, 2002, 116 Stat. 2645, struck out item 183 “Advisory committees: annual justification required”.
 
-2001—Pub. L. 107–107, div. A, title X, § 1009(a)(2), Dec. 28, 2001, 115 Stat. 1208, added item 185.
+2001—Pub. L. 107–107, div. A, title X, § 1009(a)(2), Dec. 28, 2001, 115 Stat. 1208, added item 185.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 912(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–229, added item 184.
+2000—Pub. L. 106–398, § 1 [[div. A], title IX, § 912(a)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–229, added item 184.
 
-1997—Pub. L. 105–85, div. A, title III, § 382(a)(2), title IX, § 904(b), Nov. 18, 1997, 111 Stat. 1711, 1855, added items 182 and 183.
+1997—Pub. L. 105–85, div. A, title III, § 382(a)(2), title IX, § 904(b), Nov. 18, 1997, 111 Stat. 1711, 1855, added items 182 and 183.
 
-1996—Pub. L. 104–106, div. A, title IX, § 905(a)(2), Feb. 10, 1996, 110 Stat. 404, added item 181.
+1996—Pub. L. 104–106, div. A, title IX, § 905(a)(2), Feb. 10, 1996, 110 Stat. 404, added item 181.
 
-1991—Pub. L. 102–190, div. A, title V, § 513(b), Dec. 5, 1991, 105 Stat. 1361, added item 180.
+1991—Pub. L. 102–190, div. A, title V, § 513(b), Dec. 5, 1991, 105 Stat. 1361, added item 180.
 
-1986—Pub. L. 99–661, div. C, title I, § 3137(a)(2), Nov. 14, 1986, 100 Stat. 4066, added item 179.
+1986—Pub. L. 99–661, div. C, title I, § 3137(a)(2), Nov. 14, 1986, 100 Stat. 4066, added item 179.
 
-1983—Pub. L. 98–132, § 2(a)(2), Oct. 17, 1983, 97 Stat. 849, inserted “The Henry M. Jackson” before “Foundation” in item 178.
+1983—Pub. L. 98–132, § 2(a)(2), Oct. 17, 1983, 97 Stat. 849, inserted “The Henry M. Jackson” before “Foundation” in item 178.
 
-Pub. L. 98–36, § 2(b), May 27, 1983, 97 Stat. 201, added item 178.
+Pub. L. 98–36, § 2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
-1976—Pub. L. 94–361, title VIII, § 811(c), July 14, 1976, 90 Stat. 936, added items 176 and 177.
+1976—Pub. L. 94–361, title VIII, § 811(c), July 14, 1976, 90 Stat. 936, added items 176 and 177.
 
-## § 171. Armed Forces Policy Council
+## § 171. Armed Forces Policy Council
 
 **(a)** There is in the Department of Defense an Armed Forces Policy Council consisting of—
 
@@ -105,13 +105,13 @@ Pub. L. 98–36, § 2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
 **(b)** The Armed Forces Policy Council shall advise the Secretary of Defense on matters of broad policy relating to the armed forces and shall consider and report on such other matters as the Secretary of Defense may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 85–599, § 9(c), Aug. 6, 1958, 72 Stat. 521; Pub. L. 92–596, § 5, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, § 3(b), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 98–94, title XII, § 1213, Sept. 24, 1983, 97 Stat. 687; Pub. L. 99–500, § 101(c) [title X, § 903(e)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, § 101(c) [title X, § 903(e)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, § 903(e), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, § 904(d)(1), (3), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, § 902(6), Dec. 20, 2019, 133 Stat. 1543; Pub. L. 116–283, div. A, title IX, § 924(b)(8), Jan. 1, 2021, 134 Stat. 3822.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 85–599, § 9(c), Aug. 6, 1958, 72 Stat. 521; Pub. L. 92–596, § 5, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, § 3(b), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 98–94, title XII, § 1213, Sept. 24, 1983, 97 Stat. 687; Pub. L. 99–500, § 101(c) [title X, § 903(e)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, § 101(c) [title X, § 903(e)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, § 903(e), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, § 904(d)(1), (3), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, § 902(6), Dec. 20, 2019, 133 Stat. 1543; Pub. L. 116–283, div. A, title IX, § 924(b)(8), Jan. 1, 2021, 134 Stat. 3822.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 171(a)   171(b) | 5:171e (less last sentence). 5:171e (last sentence). | July 26, 1947, ch. 343, § 210; restated Aug. 10, 1949, ch. 412, § 7(a), 63 Stat. 581. |
+| 171(a) 171(b) | 5:171e (less last sentence). 5:171e (last sentence). | July 26, 1947, ch. 343, § 210; restated Aug. 10, 1949, ch. 412, § 7(a), 63 Stat. 581. |
 
 **Editorial Notes**
 
@@ -123,23 +123,23 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 2021—Subsec. (a)(17). Pub. L. 116–283 added par. (17).
 
-2019—Subsec. (a)(3). Pub. L. 116–92, § 902(6)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+2019—Subsec. (a)(3). Pub. L. 116–92, § 902(6)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (a)(4) to (16). Pub. L. 116–92, § 902(6)(B)–(E), added par. (4), redesignated former pars. (4) to (8) as (5) to (9), respectively, added pars. (10) and (11), and redesignated former pars. (9) to (13) as (12) to (16), respectively.
+Subsec. (a)(4) to (16). Pub. L. 116–92, § 902(6)(B)–(E), added par. (4), redesignated former pars. (4) to (8) as (5) to (9), respectively, added pars. (10) and (11), and redesignated former pars. (9) to (13) as (12) to (16), respectively.
 
 2001—Subsec. (a)(3). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-1993—Subsec. (a)(3). Pub. L. 103–160, § 904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+1993—Subsec. (a)(3). Pub. L. 103–160, § 904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
-Subsec. (a)(8). Pub. L. 103–160, § 904(d)(3), substituted “Deputy Under Secretary of Defense for Acquisition and Technology” for “Deputy Under Secretary of Defense for Acquisition”.
+Subsec. (a)(8). Pub. L. 103–160, § 904(d)(3), substituted “Deputy Under Secretary of Defense for Acquisition and Technology” for “Deputy Under Secretary of Defense for Acquisition”.
 
 1986—Subsec. (a)(3) to (13) Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (a) identically, redesignating pars. (3) to (11) as (4), (5), (6), (7), (9), (10), (11), (12), and (13), respectively, adding new pars. (3) and (8), and substituting “the Under Secretary of Defense for Acquisition” for “the Under Secretaries of Defense” in par. (7).
 
 1983—Subsec. (a)(11). Pub. L. 98–94 added par. (11).
 
-1977—Subsec. (a)(2). Pub. L. 95–140, § 3(b)(1), substituted “the Deputy” for “a Deputy”.
+1977—Subsec. (a)(2). Pub. L. 95–140, § 3(b)(1), substituted “the Deputy” for “a Deputy”.
 
-Subsec. (a)(6). Pub. L. 95–140, § 3(b)(2), substituted “the Under Secretaries of Defense;” for “the Director of Defense Research and Engineering;”.
+Subsec. (a)(6). Pub. L. 95–140, § 3(b)(2), substituted “the Under Secretaries of Defense;” for “the Director of Defense Research and Engineering;”.
 
 1972—Subsec. (a)(2). Pub. L. 92–596 substituted “a Deputy Secretary” for “the Deputy Secretary”.
 
@@ -149,9 +149,9 @@ Subsec. (a)(6). Pub. L. 95–140, § 3(b)(2), substituted “the Under Secreta
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [enacting section 178 of this title and amending section 2113 of this title] may be cited as the ‘Foundation for the Advancement of Military Medicine Act of 1983’.”
+Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [enacting section 178 of this title and amending section 2113 of this title] may be cited as the ‘Foundation for the Advancement of Military Medicine Act of 1983’.”
 
-## § 171a. Council on Oversight of the National Leadership Command, Control, and Communications System
+## § 171a. Council on Oversight of the National Leadership Command, Control, and Communications System
 
 **(a) Establishment.—** There is within the Department of Defense a council to be known as the “Council on Oversight of the National Leadership Command, Control, and Communications System” (in this section referred to as the “Council”).
 
@@ -287,47 +287,47 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act 
 
 **(3)** Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
 
-(Added Pub. L. 113–66, div. A, title X, § 1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, § 1651, Nov. 25, 2015, 129 Stat. 1121; Pub. L. 114–328, div. A, title XVI, § 1661, Dec. 23, 2016, 130 Stat. 2613; Pub. L. 115–91, div. A, title X, § 1081(a)(13), title XVI, § 1654(a)(1), Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 116–92, div. A, title XVI, § 1661, Dec. 20, 2019, 133 Stat. 1772; Pub. L. 116–283, div. A, title X, § 1081(a)(10), title XVIII, § 1845(c)(2), Jan. 1, 2021, 134 Stat. 3871, 4247; Pub. L. 117–81, div. A, title XVII, §§ 1701(b)(14), 1702(a)(1), Dec. 27, 2021, 135 Stat. 2134, 2155; Pub. L. 117–263, div. A, title XVI, §§ 1636(c), 1672(a), Dec. 23, 2022, 136 Stat. 2940, 2959.)
+(Added Pub. L. 113–66, div. A, title X, § 1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, § 1651, Nov. 25, 2015, 129 Stat. 1121; Pub. L. 114–328, div. A, title XVI, § 1661, Dec. 23, 2016, 130 Stat. 2613; Pub. L. 115–91, div. A, title X, § 1081(a)(13), title XVI, § 1654(a)(1), Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 116–92, div. A, title XVI, § 1661, Dec. 20, 2019, 133 Stat. 1772; Pub. L. 116–283, div. A, title X, § 1081(a)(10), title XVIII, § 1845(c)(2), Jan. 1, 2021, 134 Stat. 3871, 4247; Pub. L. 117–81, div. A, title XVII, §§ 1701(b)(14), 1702(a)(1), Dec. 27, 2021, 135 Stat. 2134, 2155; Pub. L. 117–263, div. A, title XVI, §§ 1636(c), 1672(a), Dec. 23, 2022, 136 Stat. 2940, 2959.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (b)(7), (8). Pub. L. 117–263, § 1672(a), added par. (7) and redesignated former par. (7) as (8).
+2022—Subsec. (b)(7), (8). Pub. L. 117–263, § 1672(a), added par. (7) and redesignated former par. (7) as (8).
 
-Subsecs. (h) to (*l*). Pub. L. 117–263, § 1636(c), redesignated subsecs. (i) to (*l*) as (h) to (k), respectively, and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows:
+Subsecs. (h) to (*l*). Pub. L. 117–263, § 1636(c), redesignated subsecs. (i) to (*l*) as (h) to (k), respectively, and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows:
 
 “(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
 
 “(2) In this subsection, the term ‘anomaly’ means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.”
 
-2021—Subsec. (i)(1). Pub. L. 116–283, § 1081(a)(10), substituted “Acquisition” for “Acquisitions”.
+2021—Subsec. (i)(1). Pub. L. 116–283, § 1081(a)(10), substituted “Acquisition” for “Acquisitions”.
 
-Subsec. (i)(3). Pub. L. 117–81, § 1702(a)(1), substituted “4251(d)” for “2366a(d)”.
+Subsec. (i)(3). Pub. L. 117–81, § 1702(a)(1), substituted “4251(d)” for “2366a(d)”.
 
-Pub. L. 116–283, § 1845(c)(2), as amended by Pub. L. 117–81, § 1701(b)(14), substituted “sections 4172(e)” for “sections 2366(e)”.
+Pub. L. 116–283, § 1845(c)(2), as amended by Pub. L. 117–81, § 1701(b)(14), substituted “sections 4172(e)” for “sections 2366(e)”.
 
-2019—Pub. L. 116–92 substituted “and Sustainment” for “, Technology, and Logistics” wherever appearing.
+2019—Pub. L. 116–92 substituted “and Sustainment” for “, Technology, and Logistics” wherever appearing.
 
-2017—Subsec. (f). Pub. L. 115–91, § 1081(a)(13)(A), substituted “(50 U.S.C. 3003(4)))” for “(50 U.S.C. 3003(4))”.
+2017—Subsec. (f). Pub. L. 115–91, § 1081(a)(13)(A), substituted “(50 U.S.C. 3003(4)))” for “(50 U.S.C. 3003(4))”.
 
-Subsec. (i)(3). Pub. L. 115–91, § 1081(a)(13)(B), substituted “sections 2366(e) and 2366a(d)” for “section 2366(e)”.
+Subsec. (i)(3). Pub. L. 115–91, § 1081(a)(13)(B), substituted “sections 2366(e) and 2366a(d)” for “section 2366(e)”.
 
-Subsecs. (k), (*l*). Pub. L. 115–91, § 1654(a)(1), added subsec. (k) and redesignated former subsec. (k) as (*l*).
+Subsecs. (k), (*l*). Pub. L. 115–91, § 1654(a)(1), added subsec. (k) and redesignated former subsec. (k) as (*l*).
 
-2016—Subsec. (d)(1). Pub. L. 114–328, § 1661(a)(1), inserted “, and including with respect to the integrated tactical warning and attack assessment systems, processes, and enablers, and continuity of the governmental functions of the Department of Defense” before period at end.
+2016—Subsec. (d)(1). Pub. L. 114–328, § 1661(a)(1), inserted “, and including with respect to the integrated tactical warning and attack assessment systems, processes, and enablers, and continuity of the governmental functions of the Department of Defense” before period at end.
 
-Subsec. (d)(2)(C). Pub. L. 114–328, § 1661(a)(2), inserted “(including space system architectures and associated user terminals and ground segments)” before period at end.
+Subsec. (d)(2)(C). Pub. L. 114–328, § 1661(a)(2), inserted “(including space system architectures and associated user terminals and ground segments)” before period at end.
 
-Subsec. (e). Pub. L. 114–328, § 1661(c)(1), substituted “During the period preceding January 31, 2021, at the same time each year that the budget of the President is submitted to Congress pursuant to section 1105(a) of title 31, and from time to time after such period at the discretion of the Council,” for “At the same time each year that the budget of the President is submitted to Congress pursuant to section 1105(a) of title 31,” in introductory provisions.
+Subsec. (e). Pub. L. 114–328, § 1661(c)(1), substituted “During the period preceding January 31, 2021, at the same time each year that the budget of the President is submitted to Congress pursuant to section 1105(a) of title 31, and from time to time after such period at the discretion of the Council,” for “At the same time each year that the budget of the President is submitted to Congress pursuant to section 1105(a) of title 31,” in introductory provisions.
 
-Subsec. (e)(6). Pub. L. 114–328, § 1661(c)(2), added par. (6).
+Subsec. (e)(6). Pub. L. 114–328, § 1661(c)(2), added par. (6).
 
-Subsecs. (i) to (k). Pub. L. 114–328, § 1661(b), added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
+Subsecs. (i) to (k). Pub. L. 114–328, § 1661(b), added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
 
-2015—Subsec. (e)(5). Pub. L. 114–92, § 1651(3), added par. (5).
+2015—Subsec. (e)(5). Pub. L. 114–92, § 1651(3), added par. (5).
 
-Subsecs. (f) to (i). Pub. L. 114–92, § 1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
+Subsecs. (f) to (i). Pub. L. 114–92, § 1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -339,7 +339,7 @@ Amendment by section 1845(c)(2) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 
 **Department of Defense Instruction**
 
-Pub. L. 115–91, div. A, title XVI, § 1654(a)(2), Dec. 12, 2017, 131 Stat. 1759, provided that: “The Secretary of Defense shall issue a Department of Defense Instruction, or revise such an Instruction, to ensure that program managers carry out subsection (k)(1) of section 171a of title 10, United States Code, as added by paragraph (1).”
+Pub. L. 115–91, div. A, title XVI, § 1654(a)(2), Dec. 12, 2017, 131 Stat. 1759, provided that: “The Secretary of Defense shall issue a Department of Defense Instruction, or revise such an Instruction, to ensure that program managers carry out subsection (k)(1) of section 171a of title 10, United States Code, as added by paragraph (1).”
 
 **Termination of Reporting Requirements**
 
@@ -347,7 +347,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsecs. (e) and (g)(
 
 **Execution and Programmatic Oversight**
 
-Pub. L. 115–91, div. A, title XVI, § 1654(b), Dec. 12, 2017, 131 Stat. 1759, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1654(b), Dec. 12, 2017, 131 Stat. 1759, provided that:
 
 > **“(1) Database.—** Not later than one year after the date of the enactment of this Act [Dec. 12, 2017], the Chief Information Officer of the Department of Defense, as Executive Secretary of the Council on Oversight of the National Leadership Command, Control, and Communications System established under section 171a of title 10, United States Code (or a successor to the Chief Information Officer assigned responsibility for policy, oversight, guidance, and coordination for nuclear command and control systems), shall, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, develop a database relating to the execution of all nuclear command, control, and communications acquisition programs of the Department of Defense with an approved Materiel Development Decision. The database shall be updated not less frequently than annually and upon completion of a major program element of such a program.
 
@@ -387,7 +387,7 @@ Pub. L. 115–91, div. A, title XVI, § 1654(b), Dec. 12, 2017, 131 Stat. 1759
 
 > **“(B)** upon completion of the database.”
 
-## § 172. Explosive safety board
+## § 172. Explosive safety board
 
 **(a) In General.—** The Secretary of Defense, acting through a joint board that includes members selected by the Secretaries of the military departments, composed of military officers designated as the chair and voting members of the board for each military department, and other civilian officers and employees of the Department of Defense, as necessary, shall provide oversight on storage and transportation of supplies of ammunition and components thereof for use of the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard, with particular regard to keeping those supplies properly dispersed and stored and to preventing hazardous conditions from arising to endanger life and property inside or outside of storage reservations. When the Coast Guard is not operating as a service in the Department of the Navy, the Secretary of Homeland Security shall appoint an officer of the Coast Guard to serve as a voting member of the board.
 
@@ -463,7 +463,7 @@ Pub. L. 115–91, div. A, title XVI, § 1654(b), Dec. 12, 2017, 131 Stat. 1759
 
 **(2)** In this subsection, the term “launch vehicle” has the meaning given such term in section 50902(11) of title 51.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 104–201, div. A, title IX, § 909, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 111–383, div. A, title X, § 1075(b)(7), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 115–91, div. A, title III, § 341(a), (b)(1), Dec. 12, 2017, 131 Stat. 1361; Pub. L. 115–232, div. A, title III, § 351, Aug. 13, 2018, 132 Stat. 1730; Pub. L. 116–283, div. A, title III, § 351(a), title IX, § 924(b)(2)(A)(ii), Jan. 1, 2021, 134 Stat. 3542, 3821; Pub. L. 118–31, div. A, title XVI, § 1601(a), title XVIII, § 1801(a)(2), Dec. 22, 2023, 137 Stat. 583, 683.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 104–201, div. A, title IX, § 909, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 111–383, div. A, title X, § 1075(b)(7), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 115–91, div. A, title III, § 341(a), (b)(1), Dec. 12, 2017, 131 Stat. 1361; Pub. L. 115–232, div. A, title III, § 351, Aug. 13, 2018, 132 Stat. 1730; Pub. L. 116–283, div. A, title III, § 351(a), title IX, § 924(b)(2)(A)(ii), Jan. 1, 2021, 134 Stat. 3542, 3821; Pub. L. 118–31, div. A, title XVI, § 1601(a), title XVIII, § 1801(a)(2), Dec. 22, 2023, 137 Stat. 583, 683.)
 
 **Historical and Revision Notes**
 
@@ -479,27 +479,27 @@ In subsection (b), the words “in carrying out” are substituted for the words
 
 **Amendments**
 
-2023—Subsec. (c). Pub. L. 118–31, § 1601(a)(1), substituted “Except as provided in subsection (h), the chair” for “The chair” in introductory provisions.
+2023—Subsec. (c). Pub. L. 118–31, § 1601(a)(1), substituted “Except as provided in subsection (h), the chair” for “The chair” in introductory provisions.
 
-Subsec. (c)(5). Pub. L. 118–31, § 1801(a)(2)(A), substituted “perform” for “performs”.
+Subsec. (c)(5). Pub. L. 118–31, § 1801(a)(2)(A), substituted “perform” for “performs”.
 
-Subsec. (c)(11). Pub. L. 118–31, § 1801(a)(2)(B), substituted “establish” for “establishes”.
+Subsec. (c)(11). Pub. L. 118–31, § 1801(a)(2)(B), substituted “establish” for “establishes”.
 
-Subsec. (c)(13). Pub. L. 118–31, § 1801(a)(2)(C), substituted “conduct” for “conducts”.
+Subsec. (c)(13). Pub. L. 118–31, § 1801(a)(2)(C), substituted “conduct” for “conducts”.
 
-Subsec. (h). Pub. L. 118–31, § 1601(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 118–31, § 1601(a)(2), added subsec. (h).
 
-2021—Subsec. (a). Pub. L. 116–283, § 924(b)(2)(A)(ii), substituted “Marine Corps, Space Force,” for “Marine Corps,”.
+2021—Subsec. (a). Pub. L. 116–283, § 924(b)(2)(A)(ii), substituted “Marine Corps, Space Force,” for “Marine Corps,”.
 
-Subsecs. (c) to (g). Pub. L. 116–283, § 351(a), added subsecs. (c) to (g).
+Subsecs. (c) to (g). Pub. L. 116–283, § 351(a), added subsecs. (c) to (g).
 
 2018—Subsec. (a). Pub. L. 115–23 substituted “Marine Corps, and Coast Guard” for “and Marine Corps” and inserted at end “When the Coast Guard is not operating as a service in the Department of the Navy, the Secretary of Homeland Security shall appoint an officer of the Coast Guard to serve as a voting member of the board.”
 
-2017—Pub. L. 115–91, § 341(b)(1), substituted “Explosive safety” for “Ammunition storage” in section catchline.
+2017—Pub. L. 115–91, § 341(b)(1), substituted “Explosive safety” for “Ammunition storage” in section catchline.
 
-Pub. L. 115–91, § 341(a)(1)–(8), designated existing provisions as subsec. (a) and inserted heading, inserted “that includes members” after “joint board”, substituted “selected by the Secretaries of the military departments” for “selected by them”, inserted “military” before “officers”, “designated as the chair and voting members of the board for each military department” after “officers”, and “and other” before “civilian officers”, and substituted “as necessary” for “or both” and “provide oversight on storage and transportation of” for “keep informed on stored”.
+Pub. L. 115–91, § 341(a)(1)–(8), designated existing provisions as subsec. (a) and inserted heading, inserted “that includes members” after “joint board”, substituted “selected by the Secretaries of the military departments” for “selected by them”, inserted “military” before “officers”, “designated as the chair and voting members of the board for each military department” after “officers”, and “and other” before “civilian officers”, and substituted “as necessary” for “or both” and “provide oversight on storage and transportation of” for “keep informed on stored”.
 
-Subsec. (b). Pub. L. 115–91, § 341(a)(9), added subsec. (b).
+Subsec. (b). Pub. L. 115–91, § 341(a)(9), added subsec. (b).
 
 2011—Pub. L. 111–383 struck out subsec. (a) designation before “The Secretaries” and struck out subsec. (b) which read as follows: “The board shall confer with and advise the Secretaries of the military departments in carrying out the recommendations in House Document No. 199 of the Seventieth Congress.”
 
@@ -509,21 +509,21 @@ Subsec. (b). Pub. L. 115–91, § 341(a)(9), added subsec. (b).
 
 **Deadline for Appointment**
 
-Pub. L. 116–283, div. A, title III, § 351(b), Jan. 1, 2021, 134 Stat. 3543, provided that: “By not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall take such steps as may be necessary to ensure that the explosive safety board of the Department of Defense, as authorized under section 172 of title 10, United States Code, has a chair who is a military officer and whose responsibilities include the day-to-day management of the explosive safety board and the responsibilities provided in subsection (c) of such section.”
+Pub. L. 116–283, div. A, title III, § 351(b), Jan. 1, 2021, 134 Stat. 3543, provided that: “By not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall take such steps as may be necessary to ensure that the explosive safety board of the Department of Defense, as authorized under section 172 of title 10, United States Code, has a chair who is a military officer and whose responsibilities include the day-to-day management of the explosive safety board and the responsibilities provided in subsection (c) of such section.”
 
-## § 173. Advisory personnel
+## § 173. Advisory personnel
 
 **(a)** The Secretary of Defense may establish such advisory committees and employ such part-time advisers as he considers necessary for the performance of his functions and those of the agencies under his control.
 
 **(b)** A person who serves as a member of a committee may not be paid for that service while holding another position or office under the United States for which he receives compensation. Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 89–718, § 2, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 104–106, div. A, title X, § 1061(e)(1), Feb. 10, 1996, 110 Stat. 443.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 89–718, § 2, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 104–106, div. A, title X, § 1061(e)(1), Feb. 10, 1996, 110 Stat. 443.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 173(a)     173(b)     173(c) | 5:171j(a) (1st sentence, as applicable to Secretary of Defense). 5:171j(a) (less 1st sentence, as applicable to Secretary of Defense). 5:171j(b) (as applicable to Secretary of Defense). | July 26, 1947, ch. 343, § 303 (as applicable to Secretary of Defense); Aug. 10, 1949, ch. 412, § 10(c) (as applicable to Secretary of Defense); Sept. 3, 1954, ch. 1263, § 8 (as applicable to Secretary of Defense), 68 Stat. 1228. |
+| 173(a) 173(b) 173(c) | 5:171j(a) (1st sentence, as applicable to Secretary of Defense). 5:171j(a) (less 1st sentence, as applicable to Secretary of Defense). 5:171j(b) (as applicable to Secretary of Defense). | July 26, 1947, ch. 343, § 303 (as applicable to Secretary of Defense); Aug. 10, 1949, ch. 412, § 10(c) (as applicable to Secretary of Defense); Sept. 3, 1954, ch. 1263, § 8 (as applicable to Secretary of Defense), 68 Stat. 1228. |
 
 In subsection (a), the words “consistent with other provisions of sections 171–171n, 172–172j, 181–1, 181–2, 411a, 411b, and 626–626d of this title and sections 401–405 of Title 50” are omitted as surplusage. The word “establish” is substituted for the word “appoint”, since the filling of the position involved is not appointment to an office in the constitutional sense.
 
@@ -545,7 +545,7 @@ In subsection (c), the words “as a part-time adviser” are substituted for th
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-## § 174. Advisory personnel: research and development
+## § 174. Advisory personnel: research and development
 
 **(a)** The Secretary of each military department may establish such advisory committees and panels as are necessary for the research and development activities of his department and may employ such part-time advisers as he considers necessary to carry out those activities.
 
@@ -559,13 +559,13 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 **(3)** the chief, and one assistant to the chief, of any technical service, bureau, or office.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 9; Pub. L. 104–106, div. A, title X, § 1061(e)(1), Feb. 10, 1996, 110 Stat. 443.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 9; Pub. L. 104–106, div. A, title X, § 1061(e)(1), Feb. 10, 1996, 110 Stat. 443.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 174(a) | 5:235b (1st sentence). 5:475g (1st sentence). 5:628b (1st sentence). | July 16, 1952, ch. 882, §§ 1, 7 (as applicable to § 1), 66 Stat. 725, 726. |
+| 174(a) | 5:235b (1st sentence). 5:475g (1st sentence). 5:628b (1st sentence). | July 16, 1952, ch. 882, §§ 1, 7 (as applicable to § 1), 66 Stat. 725, 726. |
 | 174(b) | 5:235b (less 1st sentence). 5:475g (less 1st sentence). 5:628b (less 1st sentence). |  |
 | 174(c) | 5:235h (as applicable to 5:235b). 5:475m (as applicable to 5:475g). 5:628h (as applicable to 5:628b). |  |
 
@@ -585,53 +585,53 @@ In subsection (b), the words “or panel” are inserted for clarity. The words 
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-## § 175. Reserve Forces Policy Board
+## § 175. Reserve Forces Policy Board
 
 There is in the Office of the Secretary of Defense a Reserve Forces Policy Board. The functions, membership, and organization of that board are set forth in section 10301 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 9; Pub. L. 90–168, § 2(3), (4), Dec. 1, 1967, 81 Stat. 521; Pub. L. 98–94, title XII, § 1212(b), Sept. 24, 1983, 97 Stat. 687; Pub. L. 98–525, title XIII, § 1306, title XIV, § 1405(4), Oct. 19, 1984, 98 Stat. 2613, 2622; Pub. L. 98–557, § 21, Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–433, title V, § 531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title IX, § 921, title XVI, § 1661(b)(3), Oct. 5, 1994, 108 Stat. 2829, 2981.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 9; Pub. L. 90–168, § 2(3), (4), Dec. 1, 1967, 81 Stat. 521; Pub. L. 98–94, title XII, § 1212(b), Sept. 24, 1983, 97 Stat. 687; Pub. L. 98–525, title XIII, § 1306, title XIV, § 1405(4), Oct. 19, 1984, 98 Stat. 2613, 2622; Pub. L. 98–557, § 21, Oct. 30, 1984, 98 Stat. 2870; Pub. L. 99–433, title V, § 531(a)(1), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 103–337, div. A, title IX, § 921, title XVI, § 1661(b)(3), Oct. 5, 1994, 108 Stat. 2829, 2981.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 175(a) 175(b) 175(c) 175(d) 175(e) | 50:1008(a). 50:1008(b). 50:1008(c). 50:1008(d) (less proviso). 50:1008(d) (proviso). | July 9, 1952, ch. 608, § 257 (less (e)), 66 Stat. 497. |
+| 175(a) 175(b) 175(c) 175(d) 175(e) | 50:1008(a). 50:1008(b). 50:1008(c). 50:1008(d) (less proviso). 50:1008(d) (proviso). | July 9, 1952, ch. 608, § 257 (less (e)), 66 Stat. 497. |
 
 In subsection (a), the word “are” is substituted for the words “is established”, to make clear the continuing authority of the organization established by the source statute. Clauses (3), (4), and (5) are substituted for 50:1008(a)(iii) for clarity. In clauses (6), (7), (8), and (9), the word “designated” is substituted for the word “appointed”, in 50:1008(iv), (v), (vi), and (vii), to make it clear that the positions described are not constitutional offices.
 
-In subsection (b), the words “Regular Coast Guard or Coast Guard Reserve” are substituted for the words “Regular or Reserve \* \* \* Coast Guard”.
+In subsection (b), the words “Regular Coast Guard or Coast Guard Reserve” are substituted for the words “Regular or Reserve \* \* \* Coast Guard”.
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Pub. L. 103–337, § 1661(b)(3), amended section generally, substituting single undesignated par. for former subsecs. (a) to (f) relating to establishment, composition, functions, and powers of Reserve Forces Policy Board.
+1994—Pub. L. 103–337, § 1661(b)(3), amended section generally, substituting single undesignated par. for former subsecs. (a) to (f) relating to establishment, composition, functions, and powers of Reserve Forces Policy Board.
 
-Subsec. (a)(4). Pub. L. 103–337, § 921(1), substituted “and an officer of the Regular Marine Corps each” for “or Regular Marine Corps”.
+Subsec. (a)(4). Pub. L. 103–337, § 921(1), substituted “and an officer of the Regular Marine Corps each” for “or Regular Marine Corps”.
 
-Subsec. (a)(10). Pub. L. 103–337, § 921(2)–(4), added par. (10).
+Subsec. (a)(10). Pub. L. 103–337, § 921(2)–(4), added par. (10).
 
 1986—Subsec. (d). Pub. L. 99–433 substituted “3021” and “8021” for “3033” and “8033”, respectively.
 
 1984—Subsec. (b). Pub. L. 98–557 substituted “Regular or Reserve, to serve as voting members” for “regular or reserve, to serve as a voting member”.
 
-Pub. L. 98–525, § 1306, substituted “two officers of the Coast Guard, regular or reserve” for “an officer of the Regular Coast Guard or the Coast Guard Reserve”.
+Pub. L. 98–525, § 1306, substituted “two officers of the Coast Guard, regular or reserve” for “an officer of the Regular Coast Guard or the Coast Guard Reserve”.
 
-Subsec. (c). Pub. L. 98–525, § 1405(4), inserted a comma following “Reserve Affairs”.
+Subsec. (c). Pub. L. 98–525, § 1405(4), inserted a comma following “Reserve Affairs”.
 
 1983—Subsec. (c). Pub. L. 98–94 substituted “Assistant Secretary of Defense for Reserve Affairs” for “Assistant Secretary of Defense for Manpower and Reserve Affairs”.
 
-1967—Subsec. (a)(2). Pub. L. 90–168, § 2(3), substituted “the Assistant Secretary of the Army for Manpower and Reserve Affairs, the Assistant Secretary of the Navy for Manpower and Reserve Affairs, and the Assistant Secretary of the Air Force for Manpower and Reserve Affairs” for “the Secretary, the Under Secretary, or an Assistant Secretary designated under section 264(b) of this title, of each of the military departments”.
+1967—Subsec. (a)(2). Pub. L. 90–168, § 2(3), substituted “the Assistant Secretary of the Army for Manpower and Reserve Affairs, the Assistant Secretary of the Navy for Manpower and Reserve Affairs, and the Assistant Secretary of the Air Force for Manpower and Reserve Affairs” for “the Secretary, the Under Secretary, or an Assistant Secretary designated under section 264(b) of this title, of each of the military departments”.
 
-Subsec. (b). Pub. L. 90–168, § 2(4), substituted “Secretary of Transportation” for “Secretary of the Treasury” as the Secretary empowered to designate officers to serve on the Board and substituted “serve as a voting member” for “serve without vote as a member” in the description of the officer’s service on the Board.
+Subsec. (b). Pub. L. 90–168, § 2(4), substituted “Secretary of Transportation” for “Secretary of the Treasury” as the Secretary empowered to designate officers to serve on the Board and substituted “serve as a voting member” for “serve without vote as a member” in the description of the officer’s service on the Board.
 
-Subsec. (c). Pub. L. 90–168, § 2(4), substituted “Assistant Secretary of Defense for Manpower and Reserve Affairs” for “Assistant Secretary of Defense designated under section 264(a) of this title”.
+Subsec. (c). Pub. L. 90–168, § 2(4), substituted “Assistant Secretary of Defense for Manpower and Reserve Affairs” for “Assistant Secretary of Defense designated under section 264(a) of this title”.
 
-Subsec. (d). Pub. L. 90–168, § 2(4), inserted references to sections 5251 and 5252 of this title.
+Subsec. (d). Pub. L. 90–168, § 2(4), inserted references to sections 5251 and 5252 of this title.
 
-Subsec. (e). Pub. L. 90–168, § 2(4), substituted “member of a committee or board prescribed under a section listed in subsection (d)” for “member of a committee under section 3033 or 8033 of this title”.
+Subsec. (e). Pub. L. 90–168, § 2(4), substituted “member of a committee or board prescribed under a section listed in subsection (d)” for “member of a committee under section 3033 or 8033 of this title”.
 
-Subsec. (f). Pub. L. 90–168, § 2(4), added subsec. (f).
+Subsec. (f). Pub. L. 90–168, § 2(4), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -647,7 +647,7 @@ Amendment by Pub. L. 98–94 effective Oct. 1, 1983, see section 1212(e) of Pub.
 
 For effective date of amendment by Pub. L. 90–168, see section 7 of Pub. L. 90–168, set out as a note under section 138 of this title.
 
-## § 176. Armed Forces Institute of Pathology
+## § 176. Armed Forces Institute of Pathology
 
 **(a)**
 
@@ -675,7 +675,7 @@ For effective date of amendment by Pub. L. 90–168, see section 7 of Pub. L. 90
 
 **(d)** The Secretary of Defense shall promulgate such regulations as may be necessary to prescribe the organization, functions, and responsibilities of the Institute.
 
-(Added Pub. L. 94–361, title VIII, § 811(b), July 14, 1976, 90 Stat. 933; amended Pub. L. 96–513, title V, § 511(6), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–160, div. A, title VII, § 733, Nov. 30, 1993, 107 Stat. 1697; Pub. L. 104–106, div. A, title IX, § 903(f)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 107–107, div. A, title X, § 1048(a)(4), Dec. 28, 2001, 115 Stat. 1222.)
+(Added Pub. L. 94–361, title VIII, § 811(b), July 14, 1976, 90 Stat. 933; amended Pub. L. 96–513, title V, § 511(6), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–160, div. A, title VII, § 733, Nov. 30, 1993, 107 Stat. 1697; Pub. L. 104–106, div. A, title IX, § 903(f)(1), Feb. 10, 1996, 110 Stat. 402; Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 107–107, div. A, title X, § 1048(a)(4), Dec. 28, 2001, 115 Stat. 1222.)
 
 **Editorial Notes**
 
@@ -683,15 +683,15 @@ For effective date of amendment by Pub. L. 90–168, see section 7 of Pub. L. 90
 
 2001—Subsec. (a)(3). Pub. L. 107–107 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1996—Subsec. (a)(3). Pub. L. 104–106, § 903(a), (f)(1), which directed amendment of subsec. (a)(3), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs” and “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”, was repealed by Pub. L. 104–201.
+1996—Subsec. (a)(3). Pub. L. 104–106, § 903(a), (f)(1), which directed amendment of subsec. (a)(3), eff. Jan. 31, 1997, by substituting “official in the Department of Defense with principal responsibility for health affairs” for “Assistant Secretary of Defense for Health Affairs” and “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”, was repealed by Pub. L. 104–201.
 
 1993—Subsec. (c). Pub. L. 103–160 inserted at end “The Secretary of Defense, on a case-by-case basis, may waive the limitation on the number of distinguished pathologists or scientists with whom agreements may be entered into under this subsection if the Secretary determines that such waiver is in the best interest of the Department of Defense.”
 
 1989—Subsec. (a)(3). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1980—Subsec. (a)(3). Pub. L. 96–513, § 511(6)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+1980—Subsec. (a)(3). Pub. L. 96–513, § 511(6)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-Subsec. (b)(1)(A). Pub. L. 96–513, § 511(6)(B), inserted “of this title” after “177”.
+Subsec. (b)(1)(A). Pub. L. 96–513, § 511(6)(B), inserted “of this title” after “177”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -701,7 +701,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Establishment of Joint Pathology Center**
 
-Pub. L. 110–181, div. A, title VII, § 722, Jan. 28, 2008, 122 Stat. 199, provided that:
+Pub. L. 110–181, div. A, title VII, § 722, Jan. 28, 2008, 122 Stat. 199, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -733,7 +733,7 @@ Pub. L. 110–181, div. A, title VII, § 722, Jan. 28, 2008, 122 Stat. 199, pr
 
 **National Museum of Health and Medicine**
 
-Pub. L. 103–337, div. A, title X, § 1067, Oct. 5, 1994, 108 Stat. 2851, as amended by Pub. L. 105–78, title VII, § 702, Nov. 13, 1997, 111 Stat. 1524, provided that:
+Pub. L. 103–337, div. A, title X, § 1067, Oct. 5, 1994, 108 Stat. 2851, as amended by Pub. L. 105–78, title VII, § 702, Nov. 13, 1997, 111 Stat. 1524, provided that:
 
 > **“(a) Purpose.—** It is the purpose of this section—
 
@@ -745,7 +745,7 @@ Pub. L. 103–337, div. A, title X, § 1067, Oct. 5, 1994, 108 Stat. 2851, as 
 
 **Congressional Findings and Declaration**
 
-Pub. L. 94–361, title VIII, § 811(a), July 14, 1976, 90 Stat. 933, provided that:
+Pub. L. 94–361, title VIII, § 811(a), July 14, 1976, 90 Stat. 933, provided that:
 
 > **“(1)** The Congress hereby finds and declares that—
 
@@ -763,7 +763,7 @@ Pub. L. 94–361, title VIII, § 811(a), July 14, 1976, 90 Stat. 933, provided
 
 > **“(2)** The Congress further finds and declares that beneficial cooperative efforts between private individuals, professional societies, and other entities on the one hand and the Armed Forces Institute of Pathology on the other can be carried out most effectively through the establishment of a private corporation.”
 
-## § 177. American Registry of Pathology
+## § 177. American Registry of Pathology
 
 **(a)**
 
@@ -797,7 +797,7 @@ Pub. L. 94–361, title VIII, § 811(a), July 14, 1976, 90 Stat. 933, provided
 
 **(d)** The American Registry of Pathology may transmit annually to its Board and supporting organizations referred to in subsection (a)(2) a comprehensive and detailed report of its operations, activities, and accomplishments.
 
-(Added Pub. L. 94–361, title VIII, § 811(b), July 14, 1976, 90 Stat. 934; amended Pub. L. 98–525, title XIV, § 1405(5), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 112–239, div. A, title V, § 585, Jan. 2, 2013, 126 Stat. 1768.)
+(Added Pub. L. 94–361, title VIII, § 811(b), July 14, 1976, 90 Stat. 934; amended Pub. L. 98–525, title XIV, § 1405(5), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 112–239, div. A, title V, § 585, Jan. 2, 2013, 126 Stat. 1768.)
 
 **Editorial Notes**
 
@@ -807,17 +807,17 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1
 
 **Amendments**
 
-2013—Subsec. (a)(2). Pub. L. 112–239, § 585(1)(A), substituted “the professional societies and organizations that support the activities of the American Registry of Pathology” for “those professional societies and organizations which sponsor individual registries of pathology at the Armed Forces Institute of Pathology” and struck out at end “Each such sponsor shall appoint one member to the Board for a term of four years.”
+2013—Subsec. (a)(2). Pub. L. 112–239, § 585(1)(A), substituted “the professional societies and organizations that support the activities of the American Registry of Pathology” for “those professional societies and organizations which sponsor individual registries of pathology at the Armed Forces Institute of Pathology” and struck out at end “Each such sponsor shall appoint one member to the Board for a term of four years.”
 
-Subsec. (a)(3). Pub. L. 112–239, § 585(1)(B), struck out “with the concurrence of the Director of the Armed Forces Institute of Pathology” after “shall be appointed by the Board”.
+Subsec. (a)(3). Pub. L. 112–239, § 585(1)(B), struck out “with the concurrence of the Director of the Armed Forces Institute of Pathology” after “shall be appointed by the Board”.
 
-Subsec. (b). Pub. L. 112–239, § 585(2), redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “enter into contracts with the Armed Forces Institute of Pathology for the provision of such services and personnel as may be necessary to carry out their cooperative enterprises;”.
+Subsec. (b). Pub. L. 112–239, § 585(2), redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which read as follows: “enter into contracts with the Armed Forces Institute of Pathology for the provision of such services and personnel as may be necessary to carry out their cooperative enterprises;”.
 
-Subsec. (d). Pub. L. 112–239, § 585(3), substituted “annually to its Board and supporting organizations referred to in subsection (a)(2)” for “to the Director and the Board of Governors of the Armed Forces Institute of Pathology and to the sponsors referred to in subsection (a)(2) annually, and at such other times as it deems desirable,”.
+Subsec. (d). Pub. L. 112–239, § 585(3), substituted “annually to its Board and supporting organizations referred to in subsection (a)(2)” for “to the Director and the Board of Governors of the Armed Forces Institute of Pathology and to the sponsors referred to in subsection (a)(2) annually, and at such other times as it deems desirable,”.
 
 1984—Subsec. (a)(1). Pub. L. 98–525 substituted “sec. 29–501” for “sec. 29–1001”.
 
-## § 178. The Henry M. Jackson Foundation for the Advancement of Military Medicine
+## § 178. The Henry M. Jackson Foundation for the Advancement of Military Medicine
 
 **(a)** There is authorized to be established a nonprofit corporation to be known as the Henry M. Jackson Foundation for the Advancement of Military Medicine (hereinafter in this section referred to as the “Foundation”) which shall not for any purpose be an agency or instrumentality of the United States Government. The Foundation shall be subject to the provisions of this section and, to the extent not inconsistent with this section, the Corporations and Associations Articles of the State of Maryland.
 
@@ -867,19 +867,19 @@ Subsec. (d). Pub. L. 112–239, § 585(3), substituted “annually to its Boar
 
 **(i)** The Council shall transmit to the President annually, and at such other times as the Council considers desirable, a report on the operations, activities, and accomplishments of the Foundation.
 
-(Added Pub. L. 98–36, § 2(a), May 27, 1983, 97 Stat. 200; amended Pub. L. 98–132, § 2(a)(1), Oct. 17, 1983, 97 Stat. 849; Pub. L. 101–189, div. A, title VII, § 726(b)(2), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 115–232, div. A, title VII, § 739, Aug. 13, 2018, 132 Stat. 1822; Pub. L. 116–92, div. A, title VII, § 733(a), (b), Dec. 20, 2019, 133 Stat. 1461.)
+(Added Pub. L. 98–36, § 2(a), May 27, 1983, 97 Stat. 200; amended Pub. L. 98–132, § 2(a)(1), Oct. 17, 1983, 97 Stat. 849; Pub. L. 101–189, div. A, title VII, § 726(b)(2), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 115–232, div. A, title VII, § 739, Aug. 13, 2018, 132 Stat. 1822; Pub. L. 116–92, div. A, title VII, § 733(a), (b), Dec. 20, 2019, 133 Stat. 1461.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (c)(1)(C). Pub. L. 116–92, § 733(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “six members appointed by the ex officio members of the Council designated in clauses (A) and (B).”
+2019—Subsec. (c)(1)(C). Pub. L. 116–92, § 733(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “six members appointed by the ex officio members of the Council designated in clauses (A) and (B).”
 
-Subsec. (c)(2). Pub. L. 116–92, § 733(b), substituted “except that any person” for “except that—
+Subsec. (c)(2). Pub. L. 116–92, § 733(b), substituted “except that any person” for “except that—
 
 “(A) any person”,
 
-substituted period at end for “; and”, and struck out subpar. (B) which read as follows: “the terms of office of members first taking office shall expire, as designated by the ex officio members of the Council at the time of the appointment, two at the end of two years and two at the end of four years.”
+substituted period at end for “; and”, and struck out subpar. (B) which read as follows: “the terms of office of members first taking office shall expire, as designated by the ex officio members of the Council at the time of the appointment, two at the end of two years and two at the end of four years.”
 
 2018—Subsec. (c)(1)(C). Pub. L. 115–232 substituted “six members” for “four members”.
 
@@ -887,17 +887,17 @@ substituted period at end for “; and”, and struck out subpar. (B) which re
 
 1996—Subsec. (c)(1)(A). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and the House of Representatives”.
 
-1989—Subsec. (g)(1). Pub. L. 101–189 inserted “, accept grants from, and make grants to” after “contracts with”.
+1989—Subsec. (g)(1). Pub. L. 101–189 inserted “, accept grants from, and make grants to” after “contracts with”.
 
-1983—Pub. L. 98–132, § 2(a)(1)(A), inserted “The Henry M. Jackson” before “Foundation” in section catchline.
+1983—Pub. L. 98–132, § 2(a)(1)(A), inserted “The Henry M. Jackson” before “Foundation” in section catchline.
 
-Subsec. (a). Pub. L. 98–132, § 2(a)(1)(B), inserted “Henry M. Jackson”.
+Subsec. (a). Pub. L. 98–132, § 2(a)(1)(B), inserted “Henry M. Jackson”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided:
+Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided:
 
 > “That
 
@@ -907,13 +907,13 @@ Pub. L. 98–132, § 1, Oct. 17, 1983, 97 Stat. 849, provided:
 
 **Effective Date of 2019 Amendment; Construction**
 
-Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461, provided that:
+Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 20, 2019].
 
 > **“(2) Construction for current members.—** Nothing in the amendments made by this section shall be construed to terminate or otherwise alter the appointment or term of service of members of the Henry M. Jackson Foundation for the Advancement of Military Medicine who are so serving on the date of the enactment of this Act pursuant to an appointment under paragraph (1)(C) or (2) of section 178(c) of title 10, United States Code, made before that date.”
 
-## § 179. Nuclear Weapons Council
+## § 179. Nuclear Weapons Council
 
 **(a) Establishment; Membership.—** There is a Nuclear Weapons Council (hereinafter in this section referred to as the “Council”) operated as a joint activity of the Department of Defense and the Department of Energy. The Council shall be the primary mechanism for integrating, streamlining, and ensuring unity of purpose and direction for nuclear deterrence related activities within the Department of Defense and the Department of Energy. The membership of the Council is comprised of the following officers of those departments:
 
@@ -1013,17 +1013,17 @@ Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461,
 
 **(ii)** whether the plans and budget reviewed under paragraph (1) will enable the Administrator to meet—
 
-**(I)** the requirements to produce war reserve plutonium pits under section 4219(a) 1
+**(I)** the requirements to produce war reserve plutonium pits under section 4219(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of such Act (50 U.S.C. 2538a(a)); and
 
 **(II)** any other requirements under Federal law.
 
-**(C)** If the evaluation under subparagraph (B)(ii) determines that the plans and budget reviewed under paragraph (1) will not enable the Administrator to meet the requirements to produce war reserve plutonium pits under section 6218 2
+**(C)** If the evaluation under subparagraph (B)(ii) determines that the plans and budget reviewed under paragraph (1) will not enable the Administrator to meet the requirements to produce war reserve plutonium pits under section 6218 2
 
-<sup>2</sup>  So in original. Probably should be “6128”.
+<sup>2</sup> So in original. Probably should be “6128”.
 
 —
 
@@ -1047,7 +1047,7 @@ of such Act (50 U.S.C. 2538a(a)); and
 
 **(ii)** any comments of the Chairman.
 
-**(6)** In this subsection, the term “budget” has the meaning given that term in section 231(f) <sup>1</sup> of this title.
+**(6)** In this subsection, the term “budget” has the meaning given that term in section 231(f) <sup>1</sup> of this title.
 
 **(g) Semiannual Updates on Council Meetings.—**
 
@@ -1061,173 +1061,173 @@ of such Act (50 U.S.C. 2538a(a)); and
 
 **(3)** The Council may provide a semiannual update under paragraph (1) either in the form of a briefing or a written report.
 
-(Added Pub. L. 99–661, div. C, title I, § 3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, § 1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, § 1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, § 3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, § 3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, § 904(b)(1), title XV, § 1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 106–65, div. A, title X, § 1067(1), div. C, title XXXI, § 3163(a), (c), Oct. 5, 1999, 113 Stat. 774, 944; Pub. L. 106–398, § 1 [div. C, title XXXI, § 3152(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–464; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. D, title XLII, § 4213(c), formerly Pub. L. 104–201, div. C, title XXXI, § 3159(c), Sept. 23, 1996, 110 Stat. 2842, renumbered § 4213(c) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14), Nov. 24, 2003, 117 Stat. 1760; Pub. L. 108–375, div. A, title IX, § 902(a)–(d), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 109–364, div. A, title IX, § 903, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–383, div. A, title IX, § 901(j)(1), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–239, div. A, title X, § 1039, Jan. 2, 2013, 126 Stat. 1927; Pub. L. 113–66, div. A, title X, §§ 1053, 1091(a)(3), Dec. 26, 2013, 127 Stat. 861, 875; Pub. L. 113–291, div. A, title XVI, § 1641, Dec. 19, 2014, 128 Stat. 3648; Pub. L. 114–92, div. A, title X, § 1076(a), Nov. 25, 2015, 129 Stat. 997; Pub. L. 115–91, div. A, title X, § 1081(a)(14), title XVI, § 1653, Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 115–232, div. A, title XVI, § 1661, Aug. 13, 2018, 132 Stat. 2152; Pub. L. 116–92, div. A, title XVI, § 1663, Dec. 20, 2019, 133 Stat. 1772; Pub. L. 116–283, div. A, title XVI, §§ 1631(a), 1632(a), Jan. 1, 2021, 134 Stat. 4056, 4057; Pub. L. 117–263, div. A, title XVI, § 1633(a), (b), (d), Dec. 23, 2022, 136 Stat. 2935, 2936, 2938; Pub. L. 118–159, div. A, title XVI, § 1621(d)(1), Dec. 23, 2024, 138 Stat. 2171; Pub. L. 119–60, div. A, title XVI, § 1631, div. C, title XXXI, § 3111(c)(1)(A), Dec. 18, 2025, 139 Stat. 1184, 1459.)
+(Added Pub. L. 99–661, div. C, title I, § 3137(a)(1), Nov. 14, 1986, 100 Stat. 4065; amended Pub. L. 100–180, div. A, title XII, § 1231(2), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 100–456, div. A, title XII, § 1233(h), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 102–484, div. C, title XXXI, § 3133, Oct. 23, 1992, 106 Stat. 2639; Pub. L. 103–160, div. A, title IX, § 904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. C, title XXXI, § 3152, Oct. 5, 1994, 108 Stat. 3090; Pub. L. 104–106, div. A, title IX, § 904(b)(1), title XV, § 1502(a)(7), Feb. 10, 1996, 110 Stat. 403, 502; Pub. L. 106–65, div. A, title X, § 1067(1), div. C, title XXXI, § 3163(a), (c), Oct. 5, 1999, 113 Stat. 774, 944; Pub. L. 106–398, § 1 [div. C, title XXXI, § 3152(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–464; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. D, title XLII, § 4213(c), formerly Pub. L. 104–201, div. C, title XXXI, § 3159(c), Sept. 23, 1996, 110 Stat. 2842, renumbered § 4213(c) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, § 3141(e)(14), Nov. 24, 2003, 117 Stat. 1760; Pub. L. 108–375, div. A, title IX, § 902(a)–(d), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 109–364, div. A, title IX, § 903, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–383, div. A, title IX, § 901(j)(1), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–239, div. A, title X, § 1039, Jan. 2, 2013, 126 Stat. 1927; Pub. L. 113–66, div. A, title X, §§ 1053, 1091(a)(3), Dec. 26, 2013, 127 Stat. 861, 875; Pub. L. 113–291, div. A, title XVI, § 1641, Dec. 19, 2014, 128 Stat. 3648; Pub. L. 114–92, div. A, title X, § 1076(a), Nov. 25, 2015, 129 Stat. 997; Pub. L. 115–91, div. A, title X, § 1081(a)(14), title XVI, § 1653, Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 115–232, div. A, title XVI, § 1661, Aug. 13, 2018, 132 Stat. 2152; Pub. L. 116–92, div. A, title XVI, § 1663, Dec. 20, 2019, 133 Stat. 1772; Pub. L. 116–283, div. A, title XVI, §§ 1631(a), 1632(a), Jan. 1, 2021, 134 Stat. 4056, 4057; Pub. L. 117–263, div. A, title XVI, § 1633(a), (b), (d), Dec. 23, 2022, 136 Stat. 2935, 2936, 2938; Pub. L. 118–159, div. A, title XVI, § 1621(d)(1), Dec. 23, 2024, 138 Stat. 2171; Pub. L. 119–60, div. A, title XVI, § 1631, div. C, title XXXI, § 3111(c)(1)(A), Dec. 18, 2025, 139 Stat. 1184, 1459.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4219(a) of such Act (50 U.S.C. 2538a(a)), referred to in subsec. (f)(3)(B)(ii)(I), means section 4219(a) of the Atomic Energy Defense Act, div. D of Pub. L. 107–314, which was classified to section 2538a(a) of Title 50, War and National Defense, prior to repeal and restatement as section 6128(a) of this title by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1363, 1458.
+Section 4219(a) of such Act (50 U.S.C. 2538a(a)), referred to in subsec. (f)(3)(B)(ii)(I), means section 4219(a) of the Atomic Energy Defense Act, div. D of Pub. L. 107–314, which was classified to section 2538a(a) of Title 50, War and National Defense, prior to repeal and restatement as section 6128(a) of this title by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1363, 1458.
 
-Section 231(f) of this title, referred to in subsec. (f)(6), was redesignated as section 231(g) of this title by Pub. L. 117–263, div. A, title III, § 352(a)(2), Dec. 23, 2022, 136 Stat. 2533, and was subsequently redesignated as section 231(h) of this title by Pub. L. 118–159, div. A, title X, § 1021(1), Dec. 23, 2024, 138 Stat. 2052.
+Section 231(f) of this title, referred to in subsec. (f)(6), was redesignated as section 231(g) of this title by Pub. L. 117–263, div. A, title III, § 352(a)(2), Dec. 23, 2022, 136 Stat. 2533, and was subsequently redesignated as section 231(h) of this title by Pub. L. 118–159, div. A, title X, § 1021(1), Dec. 23, 2024, 138 Stat. 2052.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 1631(1), in introductory provisions, inserted “The Council shall be the primary mechanism for integrating, streamlining, and ensuring unity of purpose and direction for nuclear deterrence related activities within the Department of Defense and the Department of Energy.” after “joint activity of the Department of Defense and the Department of Energy.”
+2025—Subsec. (a). Pub. L. 119–60, § 1631(1), in introductory provisions, inserted “The Council shall be the primary mechanism for integrating, streamlining, and ensuring unity of purpose and direction for nuclear deterrence related activities within the Department of Defense and the Department of Energy.” after “joint activity of the Department of Defense and the Department of Energy.”
 
-Subsec. (c)(3). Pub. L. 119–60, § 1631(2), struck out par. (3) which related to staff and administrative services; staff director.
+Subsec. (c)(3). Pub. L. 119–60, § 1631(2), struck out par. (3) which related to staff and administrative services; staff director.
 
-Subsec. (d)(1) to (5). Pub. L. 119–60, § 1631(3)(A), (B), added par. (1) and redesignated former pars. (1) to (4) as (2) to (5), respectively. Former par. (5) redesignated (6).
+Subsec. (d)(1) to (5). Pub. L. 119–60, § 1631(3)(A), (B), added par. (1) and redesignated former pars. (1) to (4) as (2) to (5), respectively. Former par. (5) redesignated (6).
 
-Subsec. (d)(6). Pub. L. 119–60, § 1631(3)(C), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Considering safety, security, and control issues for existing weapons and for proposed new weapon program starts.”
+Subsec. (d)(6). Pub. L. 119–60, § 1631(3)(C), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Considering safety, security, and control issues for existing weapons and for proposed new weapon program starts.”
 
-Pub. L. 119–60, § 1631(3)(A), designated par. (5) as (6). Former par. (6) redesignated (7).
+Pub. L. 119–60, § 1631(3)(A), designated par. (5) as (6). Former par. (6) redesignated (7).
 
-Subsec. (d)(7). Pub. L. 119–60, § 1631(3)(D), substituted “Overseeing the approval of” for “Ensuring that adequate consideration is given to”.
+Subsec. (d)(7). Pub. L. 119–60, § 1631(3)(D), substituted “Overseeing the approval of” for “Ensuring that adequate consideration is given to”.
 
-Pub. L. 119–60, § 1631(3)(A), designated par. (6) as (7). Former par. (7) redesignated (8).
+Pub. L. 119–60, § 1631(3)(A), designated par. (6) as (7). Former par. (7) redesignated (8).
 
-Subsec. (d)(8). Pub. L. 119–60, § 1631(3)(E), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “Providing specific guidance regarding priorities for research on nuclear weapons and priorities among activities, including production, surveillance, research, construction, and any other programs within the National Nuclear Security Administration.”
+Subsec. (d)(8). Pub. L. 119–60, § 1631(3)(E), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “Providing specific guidance regarding priorities for research on nuclear weapons and priorities among activities, including production, surveillance, research, construction, and any other programs within the National Nuclear Security Administration.”
 
-Pub. L. 119–60, § 1631(3)(A), designated par. (7) as (8). Former par. (8) redesignated (9).
+Pub. L. 119–60, § 1631(3)(A), designated par. (7) as (8). Former par. (8) redesignated (9).
 
-Subsec. (d)(9). Pub. L. 119–60, § 1631(3)(F), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Coordinating and approving activities conducted by the Department of Energy for the study, development, production, and retirement of nuclear warheads, including concept definition studies, feasibility studies, engineering development, hardware component fabrication, warhead production, and warhead retirement.”
+Subsec. (d)(9). Pub. L. 119–60, § 1631(3)(F), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Coordinating and approving activities conducted by the Department of Energy for the study, development, production, and retirement of nuclear warheads, including concept definition studies, feasibility studies, engineering development, hardware component fabrication, warhead production, and warhead retirement.”
 
-Pub. L. 119–60, § 1631(3)(A), designated par. (8) as (9). Former par. (9) redesignated (10).
+Pub. L. 119–60, § 1631(3)(A), designated par. (8) as (9). Former par. (9) redesignated (10).
 
-Subsec. (d)(10). Pub. L. 119–60, § 1631(3)(G), inserted “and weapon system” after “warhead”.
+Subsec. (d)(10). Pub. L. 119–60, § 1631(3)(G), inserted “and weapon system” after “warhead”.
 
-Pub. L. 119–60, § 1631(3)(A), designated par. (9) as (10). Former par. (10) redesignated (11).
+Pub. L. 119–60, § 1631(3)(A), designated par. (9) as (10). Former par. (10) redesignated (11).
 
-Subsec. (d)(11). Pub. L. 119–60, § 1631(3)(A), designated par. (10) as (11). Former par. (11) redesignated (12).
+Subsec. (d)(11). Pub. L. 119–60, § 1631(3)(A), designated par. (10) as (11). Former par. (11) redesignated (12).
 
-Subsec. (d)(12). Pub. L. 119–60, § 1631(3)(H), inserted “and related weapon systems supporting nuclear deterrence missions” after “weapons”.
+Subsec. (d)(12). Pub. L. 119–60, § 1631(3)(H), inserted “and related weapon systems supporting nuclear deterrence missions” after “weapons”.
 
-Pub. L. 119–60, § 1631(3)(A), designated par. (11) as (12). Former par. (12) redesignated (13).
+Pub. L. 119–60, § 1631(3)(A), designated par. (11) as (12). Former par. (12) redesignated (13).
 
-Subsec. (d)(13). Pub. L. 119–60, § 1631(3)(A), designated par. (12) as (13). Former par. (13) redesignated (14).
+Subsec. (d)(13). Pub. L. 119–60, § 1631(3)(A), designated par. (12) as (13). Former par. (13) redesignated (14).
 
-Subsec. (d)(14). Pub. L. 119–60, § 3111(c)(1)(A)(i), which directed amendment of par. (13) of subsec. (d) by substituting “section 6101” for “section 4002 of the Atomic Energy Defense Act (50 U.S.C. 2501)”, was executed by making the substitution in par. (14), to reflect the probable intent of Congress, in view of the redesignation of par. (13) as (14) by Pub. L. 119–60, § 1631(3)(A). See note below.
+Subsec. (d)(14). Pub. L. 119–60, § 3111(c)(1)(A)(i), which directed amendment of par. (13) of subsec. (d) by substituting “section 6101” for “section 4002 of the Atomic Energy Defense Act (50 U.S.C. 2501)”, was executed by making the substitution in par. (14), to reflect the probable intent of Congress, in view of the redesignation of par. (13) as (14) by Pub. L. 119–60, § 1631(3)(A). See note below.
 
-Pub. L. 119–60, § 1631(3)(I), substituted “Overseeing” for “Coordinating” and inserted “systems and” after “delivery”.
+Pub. L. 119–60, § 1631(3)(I), substituted “Overseeing” for “Coordinating” and inserted “systems and” after “delivery”.
 
-Pub. L. 119–60, § 1631(3)(A), designated par. (13) as (14).
+Pub. L. 119–60, § 1631(3)(A), designated par. (13) as (14).
 
-Subsec. (f)(1). Pub. L. 119–60, § 1631(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Council shall annually review the plans and budget of the National Nuclear Security Administration and assess whether such plans and budget meet the current and projected requirements relating to nuclear weapons.”
+Subsec. (f)(1). Pub. L. 119–60, § 1631(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Council shall annually review the plans and budget of the National Nuclear Security Administration and assess whether such plans and budget meet the current and projected requirements relating to nuclear weapons.”
 
-Subsec. (f)(2)(A), (B)(i), (ii). Pub. L. 119–60, § 3111(c)(1)(A)(ii)(I), substituted “section 6289” for “section 4717 of the Atomic Energy Defense Act (50 U.S.C. 2757)”.
+Subsec. (f)(2)(A), (B)(i), (ii). Pub. L. 119–60, § 3111(c)(1)(A)(ii)(I), substituted “section 6289” for “section 4717 of the Atomic Energy Defense Act (50 U.S.C. 2757)”.
 
-Subsec. (f)(3)(C). Pub. L. 119–60, § 3111(c)(1)(A)(ii)(II), substituted “section 6218” for “section 4219(a) of the Atomic Energy Defense Act (50 U.S.C. 2538a(a))”.
+Subsec. (f)(3)(C). Pub. L. 119–60, § 3111(c)(1)(A)(ii)(II), substituted “section 6218” for “section 4219(a) of the Atomic Energy Defense Act (50 U.S.C. 2538a(a))”.
 
 2024—Subsec. (c)(2), (3)(A). Pub. L. 118–159 substituted “Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs” for “Nuclear, Chemical, and Biological Defense Programs”.
 
-2022—Subsec. (d)(9). Pub. L. 117–263, § 1633(a)(1), inserted “, in coordination with the Joint Requirements Oversight Council,” after “capabilities, and”.
+2022—Subsec. (d)(9). Pub. L. 117–263, § 1633(a)(1), inserted “, in coordination with the Joint Requirements Oversight Council,” after “capabilities, and”.
 
-Subsec. (d)(10) to (12). Pub. L. 117–263, § 1633(a)(2), (3), added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
+Subsec. (d)(10) to (12). Pub. L. 117–263, § 1633(a)(2), (3), added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
 
-Subsec. (d)(13). Pub. L. 117–263, § 1633(a)(2), (4), redesignated par. (12) as (13), struck it out, and added a new par. (13). Prior to amendment, such par. related to Council’s responsibility to provide guidance regarding priorities and comments on annual proposals for research on improved conventional weapons.
+Subsec. (d)(13). Pub. L. 117–263, § 1633(a)(2), (4), redesignated par. (12) as (13), struck it out, and added a new par. (13). Prior to amendment, such par. related to Council’s responsibility to provide guidance regarding priorities and comments on annual proposals for research on improved conventional weapons.
 
-Subsec. (f). Pub. L. 117–263, § 1633(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to budget and funding matters.
+Subsec. (f). Pub. L. 117–263, § 1633(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to budget and funding matters.
 
-Subsec. (g)(1)(A). Pub. L. 117–263, § 1633(d), inserted “and the members who attended each meeting” before the semicolon.
+Subsec. (g)(1)(A). Pub. L. 117–263, § 1633(d), inserted “and the members who attended each meeting” before the semicolon.
 
-2021—Subsec. (d)(9) to (12). Pub. L. 116–283, § 1632(a), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
+2021—Subsec. (d)(9) to (12). Pub. L. 116–283, § 1632(a), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
 
-Subsec. (g). Pub. L. 116–283, § 1631(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to semiannual briefings to Congress.
+Subsec. (g). Pub. L. 116–283, § 1631(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to semiannual briefings to Congress.
 
 2019—Subsec. (g). Pub. L. 116–92 added subsec. (g).
 
-2018—Subsec. (a)(1). Pub. L. 115–232, § 1661(1), substituted “Acquisition and Sustainment” for “Acquisition, Technology, and Logistics”.
+2018—Subsec. (a)(1). Pub. L. 115–232, § 1661(1), substituted “Acquisition and Sustainment” for “Acquisition, Technology, and Logistics”.
 
-Subsec. (a)(4) to (6). Pub. L. 115–232, § 1661(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+Subsec. (a)(4) to (6). Pub. L. 115–232, § 1661(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-2017—Subsec. (f)(3)(B)(iii). Pub. L. 115–91, § 1081(a)(14), substituted “Joint” for “Joints”.
+2017—Subsec. (f)(3)(B)(iii). Pub. L. 115–91, § 1081(a)(14), substituted “Joint” for “Joints”.
 
-Subsec. (f)(6), (7). Pub. L. 115–91, § 1653, added par. (6) and redesignated former par. (6) as (7).
+Subsec. (f)(6), (7). Pub. L. 115–91, § 1653, added par. (6) and redesignated former par. (6) as (7).
 
 2015—Subsec. (g). Pub. L. 114–92 struck out subsec. (g) which related to annual report.
 
 2014—Subsec. (f)(3) to (6). Pub. L. 113–291 added pars. (3) to (6).
 
-2013—Subsec. (a)(5). Pub. L. 113–66, § 1091(a)(3), substituted “Commander” for “commander”.
+2013—Subsec. (a)(5). Pub. L. 113–66, § 1091(a)(3), substituted “Commander” for “commander”.
 
-Subsec. (b)(3). Pub. L. 112–239, § 1039(c), inserted at end “To the extent possible, not later than seven days before a meeting, the Chairman shall disseminate to each member of the Council the agenda and documents for such meeting.”
+Subsec. (b)(3). Pub. L. 112–239, § 1039(c), inserted at end “To the extent possible, not later than seven days before a meeting, the Chairman shall disseminate to each member of the Council the agenda and documents for such meeting.”
 
-Subsec. (d)(2). Pub. L. 112–239, § 1039(a)(1), inserted “and alternatives” before period at end.
+Subsec. (d)(2). Pub. L. 112–239, § 1039(a)(1), inserted “and alternatives” before period at end.
 
-Subsec. (d)(3). Pub. L. 112–239, § 1039(a)(2), inserted “and approving” after “Coordinating”.
+Subsec. (d)(3). Pub. L. 112–239, § 1039(a)(2), inserted “and approving” after “Coordinating”.
 
-Subsec. (d)(7). Pub. L. 112–239, § 1039(a)(3), substituted “specific” for “broad” and inserted before period at end “and priorities among activities, including production, surveillance, research, construction, and any other programs within the National Nuclear Security Administration”.
+Subsec. (d)(7). Pub. L. 112–239, § 1039(a)(3), substituted “specific” for “broad” and inserted before period at end “and priorities among activities, including production, surveillance, research, construction, and any other programs within the National Nuclear Security Administration”.
 
-Subsec. (d)(10). Pub. L. 113–66, § 1053(a), redesignated par. (11) as (10) and struck out former par. (10) which read as follows: “Coordinating and providing guidance and oversight on nuclear command, control, and communications systems.”
+Subsec. (d)(10). Pub. L. 113–66, § 1053(a), redesignated par. (11) as (10) and struck out former par. (10) which read as follows: “Coordinating and providing guidance and oversight on nuclear command, control, and communications systems.”
 
-Pub. L. 112–239, § 1039(a)(5), added par. (10). Former par. (10) redesignated (12).
+Pub. L. 112–239, § 1039(a)(5), added par. (10). Former par. (10) redesignated (12).
 
-Subsec. (d)(11). Pub. L. 113–66, § 1053(a)(2), redesignated par. (12) as (11).
+Subsec. (d)(11). Pub. L. 113–66, § 1053(a)(2), redesignated par. (12) as (11).
 
-Pub. L. 112–239, § 1039(b)(1), added par. (11).
+Pub. L. 112–239, § 1039(b)(1), added par. (11).
 
-Subsec. (d)(12). Pub. L. 113–66, § 1053(a)(2), redesignated par. (12) as (11).
+Subsec. (d)(12). Pub. L. 113–66, § 1053(a)(2), redesignated par. (12) as (11).
 
-Pub. L. 112–239, § 1039(a)(4), redesignated par. (10) as (12).
+Pub. L. 112–239, § 1039(a)(4), redesignated par. (10) as (12).
 
-Subsec. (f). Pub. L. 112–239, § 1039(b)(3), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 112–239, § 1039(b)(3), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 113–66, § 1053(c), substituted “that includes the following” for “on the following” in introductory provisions.
+Subsec. (g). Pub. L. 113–66, § 1053(c), substituted “that includes the following” for “on the following” in introductory provisions.
 
-Pub. L. 112–239, § 1039(b)(2), redesignated subsec. (f) as (g).
+Pub. L. 112–239, § 1039(b)(2), redesignated subsec. (f) as (g).
 
-Subsec. (g)(6). Pub. L. 113–66, § 1053(b), added par. (6).
+Subsec. (g)(6). Pub. L. 113–66, § 1053(b), added par. (6).
 
-2011—Subsec. (c)(2). Pub. L. 111–383, § 901(j)(1)(A), substituted “Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs” for “Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs”.
+2011—Subsec. (c)(2). Pub. L. 111–383, § 901(j)(1)(A), substituted “Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs” for “Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs”.
 
 Subsec. (c)(3)(A). Pub. L. 111–383 substituted “Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs” for “Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs” and “Assistant Secretary” for “that Assistant to the Secretary”.
 
 2006—Subsec. (a)(5). Pub. L. 109–364 added par. (5).
 
-2004—Subsec. (a). Pub. L. 108–375, § 902(b), (d)(1), inserted heading and, in introductory provisions, struck out “Joint” before “Nuclear Weapons Council” and substituted “operated as a joint activity of the Department of Defense and the Department of Energy. The membership of the Council is comprised of the following officers of those departments:” for “composed of three members as follows:”.
+2004—Subsec. (a). Pub. L. 108–375, § 902(b), (d)(1), inserted heading and, in introductory provisions, struck out “Joint” before “Nuclear Weapons Council” and substituted “operated as a joint activity of the Department of Defense and the Department of Energy. The membership of the Council is comprised of the following officers of those departments:” for “composed of three members as follows:”.
 
-Subsec. (a)(4). Pub. L. 108–375, § 902(a), added par. (4).
+Subsec. (a)(4). Pub. L. 108–375, § 902(a), added par. (4).
 
-Subsec. (b). Pub. L. 108–375, § 902(d)(2), inserted heading.
+Subsec. (b). Pub. L. 108–375, § 902(d)(2), inserted heading.
 
-Subsec. (c). Pub. L. 108–375, § 902(d)(3), inserted heading.
+Subsec. (c). Pub. L. 108–375, § 902(d)(3), inserted heading.
 
-Subsec. (c)(3)(B). Pub. L. 108–375, § 902(c)(1), substituted “designated” for “appointed”.
+Subsec. (c)(3)(B). Pub. L. 108–375, § 902(c)(1), substituted “designated” for “appointed”.
 
-Subsec. (d). Pub. L. 108–375, § 902(d)(4), inserted heading.
+Subsec. (d). Pub. L. 108–375, § 902(d)(4), inserted heading.
 
-Subsec. (e). Pub. L. 108–375, § 902(c)(2), (d)(5), inserted heading and substituted “The Council shall” for “In addition to the responsibilities set forth in subsection (d), the Council shall also” in text.
+Subsec. (e). Pub. L. 108–375, § 902(c)(2), (d)(5), inserted heading and substituted “The Council shall” for “In addition to the responsibilities set forth in subsection (d), the Council shall also” in text.
 
-Subsec. (f). Pub. L. 108–375, § 902(c)(3), (d)(6), inserted heading and substituted “congressional defense committees” for “Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives” in introductory provisions.
+Subsec. (f). Pub. L. 108–375, § 902(c)(3), (d)(6), inserted heading and substituted “congressional defense committees” for “Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives” in introductory provisions.
 
 2001—Subsec. (a)(1). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
-2000—Subsec. (a)(3). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3152(a)(1)], added par. (3) and struck out former par. (3) which read as follows: “One senior representative of the Department of Energy designated by the Secretary of Energy.”
+2000—Subsec. (a)(3). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3152(a)(1)], added par. (3) and struck out former par. (3) which read as follows: “One senior representative of the Department of Energy designated by the Secretary of Energy.”
 
-Subsec. (b)(2). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3152(a)(2)], substituted “the Under Secretary for Nuclear Security of the Department of Energy” for “the representative designated under subsection (a)(3)”.
+Subsec. (b)(2). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3152(a)(2)], substituted “the Under Secretary for Nuclear Security of the Department of Energy” for “the representative designated under subsection (a)(3)”.
 
-1999—Subsec. (b)(3). Pub. L. 106–65, § 3163(a)(1), added par. (3).
+1999—Subsec. (b)(3). Pub. L. 106–65, § 3163(a)(1), added par. (3).
 
-Subsec. (c)(3). Pub. L. 106–65, § 3163(a)(2), added par. (3).
+Subsec. (c)(3). Pub. L. 106–65, § 3163(a)(2), added par. (3).
 
-Subsec. (f). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+Subsec. (f). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
-Subsec. (f)(3) to (5). Pub. L. 106–65, § 3163(c), added pars. (3) to (5).
+Subsec. (f)(3) to (5). Pub. L. 106–65, § 3163(c), added pars. (3) to (5).
 
-1996—Subsec. (c)(2). Pub. L. 104–106, § 904(b)(1), substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy”.
+1996—Subsec. (c)(2). Pub. L. 104–106, § 904(b)(1), substituted “Nuclear and Chemical and Biological Defense Programs” for “Atomic Energy”.
 
-Subsec. (e). Pub. L. 107–314, § 4213(c)(2), formerly Pub. L. 104–201, § 3159(c)(2), as renumbered by Pub. L. 108–136, added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 107–314, § 4213(c)(2), formerly Pub. L. 104–201, § 3159(c)(2), as renumbered by Pub. L. 108–136, added subsec. (e). Former subsec. (e) redesignated (f).
 
-Pub. L. 104–106, § 1502(a)(7), substituted “to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “to the Committees on Armed Services and Appropriations of the Senate and”.
+Pub. L. 104–106, § 1502(a)(7), substituted “to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on National Security and the Committee on Appropriations of the” for “to the Committees on Armed Services and Appropriations of the Senate and”.
 
-Subsec. (f). Pub. L. 107–314, § 4213(c)(1), formerly Pub. L. 104–201, § 3159(c)(1), as renumbered by Pub. L. 108–136, redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 107–314, § 4213(c)(1), formerly Pub. L. 104–201, § 3159(c)(1), as renumbered by Pub. L. 108–136, redesignated subsec. (e) as (f).
 
-1994—Subsecs. (a)(3), (b). Pub. L. 103–337, § 3152(c), substituted “designated” for “appointed” wherever appearing.
+1994—Subsecs. (a)(3), (b). Pub. L. 103–337, § 3152(c), substituted “designated” for “appointed” wherever appearing.
 
-Subsec. (d)(8) to (10). Pub. L. 103–337, § 3152(a), added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
+Subsec. (d)(8) to (10). Pub. L. 103–337, § 3152(a), added par. (8) and redesignated former pars. (8) and (9) as (9) and (10), respectively.
 
-Subsec. (e). Pub. L. 103–337, § 3152(b), added subsec. (e).
+Subsec. (e). Pub. L. 103–337, § 3152(b), added subsec. (e).
 
 1993—Subsec. (a)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
 
@@ -1245,7 +1245,7 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 **Consideration of Budget Matters at Meetings of Nuclear Weapons Council**
 
-Pub. L. 116–92, div. A, title XVI, § 1664, Dec. 20, 2019, 133 Stat. 1773, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1664, Dec. 20, 2019, 133 Stat. 1773, provided that:
 
 > **“(a) Attendance.—**
 
@@ -1265,9 +1265,9 @@ Pub. L. 116–92, div. A, title XVI, § 1664, Dec. 20, 2019, 133 Stat. 1773, p
 
 **Chairman of JCS To Serve on Council If There Is No Vice Chairman of JCS**
 
-Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, provided that, if on Nov. 14, 1986, the position of Vice Chairman of the Joint Chiefs of Staff had not been established by law, the Chairman of the Joint Chiefs of Staff would be a member of the Nuclear Weapons Council established by section 179 of this title, and would remain a member of such Council until an individual had been appointed Vice Chairman of the Joint Chiefs of Staff.
+Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, provided that, if on Nov. 14, 1986, the position of Vice Chairman of the Joint Chiefs of Staff had not been established by law, the Chairman of the Joint Chiefs of Staff would be a member of the Nuclear Weapons Council established by section 179 of this title, and would remain a member of such Council until an individual had been appointed Vice Chairman of the Joint Chiefs of Staff.
 
-## § 180. Service academy athletic programs: review board
+## § 180. Service academy athletic programs: review board
 
 **(a) Independent Review Board.—** The Secretary of Defense shall appoint a board to review the administration of the athletics programs of the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy.
 
@@ -1291,7 +1291,7 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, 
 
 **(2)** The members of the board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the board.
 
-(Added Pub. L. 102–190, div. A, title V, § 513(a), Dec. 5, 1991, 105 Stat. 1360; amended Pub. L. 106–65, div. A, title X, § 1066(a)(2), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
+(Added Pub. L. 102–190, div. A, title V, § 513(a), Dec. 5, 1991, 105 Stat. 1360; amended Pub. L. 106–65, div. A, title X, § 1066(a)(2), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
 **Editorial Notes**
 
@@ -1301,7 +1301,7 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, 
 
 1999—Subsec. (d)(1). Pub. L. 106–65 substituted “Executive Schedule Level IV under section 5376 of title 5” for “grade GS–18 of the General Schedule under section 5332 of title 5”.
 
-## § 181. Joint Requirements Oversight Council
+## § 181. Joint Requirements Oversight Council
 
 **(a) In General.—** There is a Joint Requirements Oversight Council in the Department of Defense.
 
@@ -1409,29 +1409,29 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, 
 
 **(5)** The term “service chief” has the meaning given in section 3101 of this title.
 
-(Added Pub. L. 104–106, div. A, title IX, § 905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, § 908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, § 942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, [div. A], title VIII, § 813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§ 101(d)(1), 105(a), title II, § 201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, § 841, title X, § 1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, § 951(b), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, § 802(d)(1), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title IX, § 925(a), Dec. 23, 2016, 130 Stat. 2359; Pub. L. 115–91, div. A, title X, § 1081(a)(15), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, § 831(b)(1), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title IX, § 902(7), title XVI, § 1621(e)(1)(A)(v), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title IX, §§ 906, 924(b)(9), title XVIII, § 1850(m), Jan. 1, 2021, 134 Stat. 3799, 3822, 4271; Pub. L. 117–81, div. A, title IX, § 903(a), title XVII, § 1702(a)(2), Dec. 27, 2021, 135 Stat. 1869, 2155; Pub. L. 118–159, div. A, title V, § 521(b), Dec. 23, 2024, 138 Stat. 1880; Pub. L. 119–60, div. A, title XVIII, § 1811(a)–(f), Dec. 18, 2025, 139 Stat. 1241–1243.)
+(Added Pub. L. 104–106, div. A, title IX, § 905(a)(1), Feb. 10, 1996, 110 Stat. 403; amended Pub. L. 104–201, div. A, title IX, § 908, Sept. 23, 1996, 110 Stat. 2621; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, § 1043(b)(3), Nov. 24, 2003, 117 Stat. 1610; Pub. L. 110–181, div. A, title IX, § 942(a)–(d), Jan. 28, 2008, 122 Stat. 287, 288; Pub. L. 110–417, [div. A], title VIII, § 813(d)(1), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–23, title I, §§ 101(d)(1), 105(a), title II, § 201(b), May 22, 2009, 123 Stat. 1709, 1717, 1719; Pub. L. 111–383, div. A, title VIII, § 841, title X, § 1075(b)(8), Jan. 7, 2011, 124 Stat. 4281, 4369; Pub. L. 112–239, div. A, title IX, § 951(b), Jan. 2, 2013, 126 Stat. 1891; Pub. L. 114–92, div. A, title VIII, § 802(d)(1), Nov. 25, 2015, 129 Stat. 879; Pub. L. 114–328, div. A, title IX, § 925(a), Dec. 23, 2016, 130 Stat. 2359; Pub. L. 115–91, div. A, title X, § 1081(a)(15), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title VIII, § 831(b)(1), Aug. 13, 2018, 132 Stat. 1857; Pub. L. 116–92, div. A, title IX, § 902(7), title XVI, § 1621(e)(1)(A)(v), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title IX, §§ 906, 924(b)(9), title XVIII, § 1850(m), Jan. 1, 2021, 134 Stat. 3799, 3822, 4271; Pub. L. 117–81, div. A, title IX, § 903(a), title XVII, § 1702(a)(2), Dec. 27, 2021, 135 Stat. 1869, 2155; Pub. L. 118–159, div. A, title V, § 521(b), Dec. 23, 2024, 138 Stat. 1880; Pub. L. 119–60, div. A, title XVIII, § 1811(a)–(f), Dec. 18, 2025, 139 Stat. 1241–1243.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (b). Pub. L. 119–60, § 1811(a), which directed amendment of subsec. (b) “by amending paragraphs (1) through (7)”, was executed by generally amending pars. (1) to (7) and adding pars. (8) and (9), to reflect the probable intent of Congress. Prior to amendment, pars. (1) to (7) listed tasks in which the Joint Requirements Oversight Council was to assist the Chairman of the Joint Chiefs of Staff.
+2025—Subsec. (b). Pub. L. 119–60, § 1811(a), which directed amendment of subsec. (b) “by amending paragraphs (1) through (7)”, was executed by generally amending pars. (1) to (7) and adding pars. (8) and (9), to reflect the probable intent of Congress. Prior to amendment, pars. (1) to (7) listed tasks in which the Joint Requirements Oversight Council was to assist the Chairman of the Joint Chiefs of Staff.
 
-Subsec. (c)(1)(A). Pub. L. 119–60, § 1811(b), struck out “or joint performance requirements” before period at end.
+Subsec. (c)(1)(A). Pub. L. 119–60, § 1811(b), struck out “or joint performance requirements” before period at end.
 
-Subsec. (d)(2). Pub. L. 119–60, § 1811(c)(1), inserted “strongly” before “consider” and struck out “paragraphs (1) and (2)” before “of subsection (b)”.
+Subsec. (d)(2). Pub. L. 119–60, § 1811(c)(1), inserted “strongly” before “consider” and struck out “paragraphs (1) and (2)” before “of subsection (b)”.
 
-Subsec. (d)(3). Pub. L. 119–60, § 1811(c)(2), substituted “Input from service chiefs” for “Input from chiefs of staff” in heading and “and consider the views of the service chiefs in their roles as end users of capabilities delivered by the defense acquisition system” for “, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system,” in text, and struck out “under subsection (b)(2) and joint performance requirements pursuant to subsection (b)(3)” before period at end.
+Subsec. (d)(3). Pub. L. 119–60, § 1811(c)(2), substituted “Input from service chiefs” for “Input from chiefs of staff” in heading and “and consider the views of the service chiefs in their roles as end users of capabilities delivered by the defense acquisition system” for “, and strongly consider, the views of the Chiefs of Staff of the armed forces, in their roles as customers of the acquisition system,” in text, and struck out “under subsection (b)(2) and joint performance requirements pursuant to subsection (b)(3)” before period at end.
 
-Subsec. (d)(4). Pub. L. 119–60, § 1811(c)(3), substituted “and consider” for “, and strongly consider,”.
+Subsec. (d)(4). Pub. L. 119–60, § 1811(c)(3), substituted “and consider” for “, and strongly consider,”.
 
-Subsec. (d)(5). Pub. L. 119–60, § 1811(c)(4), added par. (5).
+Subsec. (d)(5). Pub. L. 119–60, § 1811(c)(4), added par. (5).
 
-Subsec. (e). Pub. L. 119–60, § 1811(d), amended subsec. (e) generally. Prior to amendment, text of subsec. (e) read as follows: “The Chief of Staff of an armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.”
+Subsec. (e). Pub. L. 119–60, § 1811(d), amended subsec. (e) generally. Prior to amendment, text of subsec. (e) read as follows: “The Chief of Staff of an armed force is responsible for all performance requirements for that armed force and, except for performance requirements specified in subsections (b)(4) and (b)(5), such performance requirements do not need to be validated by the Joint Requirements Oversight Council.”
 
-Subsec. (f). Pub. L. 119–60, § 1811(e), inserted “and Engineering” after “Analytic” in heading and “and mission engineering activities” after “Office of Cost Assessment and Program Evaluation” in text, and struck out “in operations research, systems analysis, and cost estimation” after “resources and expertise”.
+Subsec. (f). Pub. L. 119–60, § 1811(e), inserted “and Engineering” after “Analytic” in heading and “and mission engineering activities” after “Office of Cost Assessment and Program Evaluation” in text, and struck out “in operations research, systems analysis, and cost estimation” after “resources and expertise”.
 
-Subsec. (h). Pub. L. 119–60, § 1811(f), added par. (1), redesignated former par. (1) as (2), added pars. (1), (3), and (5), and struck out former pars. (2) and (3) which read as follows:
+Subsec. (h). Pub. L. 119–60, § 1811(f), added par. (1), redesignated former par. (1) as (2), added pars. (1), (3), and (5), and struck out former pars. (2) and (3) which read as follows:
 
 “(2) The term ‘performance requirement’ means a performance attribute of a particular system considered critical or essential to the development of an effective military capability.
 
@@ -1439,29 +1439,29 @@ Subsec. (h). Pub. L. 119–60, § 1811(f), added par. (1), redesignated former
 
 2024—Subsec. (c)(1)(F). Pub. L. 118–159 substituted “in the grade of general” for “in the grade equivalent to the grade of general in the Army, Air Force, or Marine Corps, or admiral in the Navy”.
 
-2021—Subsec. (b)(2) to (5). Pub. L. 117–81, § 903(a)(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
+2021—Subsec. (b)(2) to (5). Pub. L. 117–81, § 903(a)(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 117–81, § 903(a)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (b)(6). Pub. L. 117–81, § 903(a)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Subsec. (b)(7). Pub. L. 117–81, § 1702(a)(2), which directed amendment of par. (6) by substituting “sections 4251(b), 4252(a)(4),” for “sections 2366a(b), 2366b(a)(4),”, was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 117–81, § 903(a)(1)(A). See below.
+Subsec. (b)(7). Pub. L. 117–81, § 1702(a)(2), which directed amendment of par. (6) by substituting “sections 4251(b), 4252(a)(4),” for “sections 2366a(b), 2366b(a)(4),”, was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 117–81, § 903(a)(1)(A). See below.
 
-Pub. L. 117–81, § 903(a)(1)(A), redesignated par. (6) as (7).
+Pub. L. 117–81, § 903(a)(1)(A), redesignated par. (6) as (7).
 
-Pub. L. 116–283, § 1850(m), which directed amendment of par. (6) by substituting “4375(b)” for “2433(e)(2)” effective Jan. 1, 2022, was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 117–81, § 903(a)(1)(A), effective Dec. 27, 2021. See above.
+Pub. L. 116–283, § 1850(m), which directed amendment of par. (6) by substituting “4375(b)” for “2433(e)(2)” effective Jan. 1, 2022, was executed by making the substitution in par. (7) to reflect the probable intent of Congress and the redesignation of par. (6) as (7) by Pub. L. 117–81, § 903(a)(1)(A), effective Dec. 27, 2021. See above.
 
-Subsec. (c)(1)(F). Pub. L. 116–283, § 924(b)(9), added subpar. (F).
+Subsec. (c)(1)(F). Pub. L. 116–283, § 924(b)(9), added subpar. (F).
 
-Subsec. (d)(1)(D). Pub. L. 117–81, § 903(a)(2), substituted “Engineering who shall serve as the Chief Technical Advisor to the Council and—” and cls. (i) and (ii) for “Engineering.”
+Subsec. (d)(1)(D). Pub. L. 117–81, § 903(a)(2), substituted “Engineering who shall serve as the Chief Technical Advisor to the Council and—” and cls. (i) and (ii) for “Engineering.”
 
-Pub. L. 116–283, § 906(b), substituted “The” for “the”.
+Pub. L. 116–283, § 906(b), substituted “The” for “the”.
 
-Subsec. (d)(4). Pub. L. 116–283, § 906(a), added par. (4).
+Subsec. (d)(4). Pub. L. 116–283, § 906(a), added par. (4).
 
-2019—Subsec. (d)(1)(B). Pub. L. 116–92, § 1621(e)(1)(A)(v), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
+2019—Subsec. (d)(1)(B). Pub. L. 116–92, § 1621(e)(1)(A)(v), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
 
-Subsec. (d)(1)(C). Pub. L. 116–92, § 902(7)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (d)(1)(C). Pub. L. 116–92, § 902(7)(A), substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (d)(1)(D) to (H). Pub. L. 116–92, § 902(7)(B), (C), added subpar. (D) and redesignated former subpars. (D) to (G) as (E) to (H), respectively.
+Subsec. (d)(1)(D) to (H). Pub. L. 116–92, § 902(7)(B), (C), added subpar. (D) and redesignated former subpars. (D) to (G) as (E) to (H), respectively.
 
 2018—Subsec. (b)(3) to (7). Pub. L. 115–232 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which related to development of recommendations for program cost and fielding targets pursuant to section 2448a of this title.
 
@@ -1471,47 +1471,47 @@ Subsec. (d)(1)(D) to (H). Pub. L. 116–92, § 902(7)(B), (C), added subpar. (
 
 2015—Subsec. (d)(3). Pub. L. 114–92 added par. (3).
 
-2013—Subsec. (b)(1)(C). Pub. L. 112–239, § 951(b)(1), substituted “in ensuring that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, in the establishment and approval of military requirements” for “in ensuring the consideration of trade-offs among cost, schedule, and performance objectives for joint military requirements”.
+2013—Subsec. (b)(1)(C). Pub. L. 112–239, § 951(b)(1), substituted “in ensuring that appropriate trade-offs are made among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, in the establishment and approval of military requirements” for “in ensuring the consideration of trade-offs among cost, schedule, and performance objectives for joint military requirements”.
 
-Subsec. (b)(3). Pub. L. 112–239, § 951(b)(2), substituted “the total cost of such resources” for “such resource level”.
+Subsec. (b)(3). Pub. L. 112–239, § 951(b)(2), substituted “the total cost of such resources” for “such resource level”.
 
-2011—Subsec. (a). Pub. L. 111–383, § 841(d), substituted “There is” for “The Secretary of Defense shall establish”.
+2011—Subsec. (a). Pub. L. 111–383, § 841(d), substituted “There is” for “The Secretary of Defense shall establish”.
 
-Subsec. (b)(3). Pub. L. 111–383, § 1075(b)(8), which directed substitution of “Program Evaluation” for “Performance Evaluation”, could not be executed because of the amendment by Pub. L. 111–383, § 841(c)(2). See below.
+Subsec. (b)(3). Pub. L. 111–383, § 1075(b)(8), which directed substitution of “Program Evaluation” for “Performance Evaluation”, could not be executed because of the amendment by Pub. L. 111–383, § 841(c)(2). See below.
 
-Pub. L. 111–383, § 841(c)(2), substituted “advisors to the Council under subsection (d)” for “Under Secretary of Defense (Comptroller), the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Director of Cost Assessment and Performance Evaluation”.
+Pub. L. 111–383, § 841(c)(2), substituted “advisors to the Council under subsection (d)” for “Under Secretary of Defense (Comptroller), the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Director of Cost Assessment and Performance Evaluation”.
 
-Subsec. (c)(1)(A). Pub. L. 111–383, § 841(a)(1), inserted “Vice” before “Chairman of the Joint Chiefs of Staff”.
+Subsec. (c)(1)(A). Pub. L. 111–383, § 841(a)(1), inserted “Vice” before “Chairman of the Joint Chiefs of Staff”.
 
-Subsec. (c)(1)(F). Pub. L. 111–383, § 841(b), added subpar. (F).
+Subsec. (c)(1)(F). Pub. L. 111–383, § 841(b), added subpar. (F).
 
-Subsec. (c)(2). Pub. L. 111–383, § 841(a)(2), substituted “under subparagraphs (B), (C), (D), and (E) of paragraph (1)” for “, other than the Chairman of the Joint Chiefs of Staff,”.
+Subsec. (c)(2). Pub. L. 111–383, § 841(a)(2), substituted “under subparagraphs (B), (C), (D), and (E) of paragraph (1)” for “, other than the Chairman of the Joint Chiefs of Staff,”.
 
-Subsec. (c)(3). Pub. L. 111–383, § 841(a)(3), struck out par. (3) which read as follows: “The functions of the Chairman of the Joint Chiefs of Staff as chairman of the Council may only be delegated to the Vice Chairman of the Joint Chiefs of Staff.”
+Subsec. (c)(3). Pub. L. 111–383, § 841(a)(3), struck out par. (3) which read as follows: “The functions of the Chairman of the Joint Chiefs of Staff as chairman of the Council may only be delegated to the Vice Chairman of the Joint Chiefs of Staff.”
 
-Subsec. (d)(1). Pub. L. 111–383, § 841(c)(1), substituted “The following officials of the Department of Defense shall serve as advisors to the Council on matters within their authority and expertise:” for “The Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the Director of Cost Assessment and Program Evaluation shall serve as advisors to the Council on matters within their authority and expertise.” and added subpars. (A) to (F).
+Subsec. (d)(1). Pub. L. 111–383, § 841(c)(1), substituted “The following officials of the Department of Defense shall serve as advisors to the Council on matters within their authority and expertise:” for “The Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense (Comptroller), and the Director of Cost Assessment and Program Evaluation shall serve as advisors to the Council on matters within their authority and expertise.” and added subpars. (A) to (F).
 
-2009—Subsec. (b)(1)(C). Pub. L. 111–23, § 201(b)(1), added subpar. (C).
+2009—Subsec. (b)(1)(C). Pub. L. 111–23, § 201(b)(1), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 111–23, § 201(b)(2)(A), inserted “, in consultation with the Under Secretary of Defense (Comptroller), the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Director of Cost Assessment and Performance Evaluation,” after “assist the Chairman”.
+Subsec. (b)(3). Pub. L. 111–23, § 201(b)(2)(A), inserted “, in consultation with the Under Secretary of Defense (Comptroller), the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Director of Cost Assessment and Performance Evaluation,” after “assist the Chairman”.
 
-Subsec. (b)(5). Pub. L. 111–23, § 201(b)(2)(B)–(4), added par. (5).
+Subsec. (b)(5). Pub. L. 111–23, § 201(b)(2)(B)–(4), added par. (5).
 
-Subsec. (d). Pub. L. 111–23, § 105(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 111–23, § 105(a), designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 111–23, § 101(d)(1), substituted “Director of Cost Assessment and Program Evaluation” for “Director of the Office of Program Analysis and Evaluation”.
+Pub. L. 111–23, § 101(d)(1), substituted “Director of Cost Assessment and Program Evaluation” for “Director of the Office of Program Analysis and Evaluation”.
 
-2008—Subsec. (b). Pub. L. 110–181, § 942(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to mission of Joint Requirements Oversight Council.
+2008—Subsec. (b). Pub. L. 110–181, § 942(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to mission of Joint Requirements Oversight Council.
 
 Subsec. (b)(4). Pub. L. 110–417 substituted “section 2366a(b), section 2366b(a)(4),” for “section 2366a(a)(4), section 2366b(b),”.
 
-Subsec. (d). Pub. L. 110–181, § 942(b)(2), added subsec. (d). Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 110–181, § 942(b)(2), added subsec. (d). Former subsec. (d) redesignated (f).
 
-Subsec. (e). Pub. L. 110–181, § 942(c), added subsec. (e).
+Subsec. (e). Pub. L. 110–181, § 942(c), added subsec. (e).
 
-Subsec. (f). Pub. L. 110–181, § 942(b)(1), redesignated subsec. (d) as (f).
+Subsec. (f). Pub. L. 110–181, § 942(b)(1), redesignated subsec. (d) as (f).
 
-Subsec. (g). Pub. L. 110–181, § 942(d), added subsec. (g).
+Subsec. (g). Pub. L. 110–181, § 942(d), added subsec. (g).
 
 2003—Subsec. (d)(2). Pub. L. 108–136 substituted “subsection, the term ‘oversight” for “subsection:”, struck out “(A) The term ‘oversight” before “information’ means”, and struck out subpar. (B) which read as follows: “The term ‘congressional defense committees’ means—
 
@@ -1531,21 +1531,21 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 104–106, div. A, title IX, § 905(b), Feb. 10, 1996, 110 Stat. 404, provided that: “The amendments made by this section [enacting this section] shall take effect on January 31, 1997.”
+Pub. L. 104–106, div. A, title IX, § 905(b), Feb. 10, 1996, 110 Stat. 404, provided that: “The amendments made by this section [enacting this section] shall take effect on January 31, 1997.”
 
 **Input From Commanders of Combatant Commands**
 
-Pub. L. 111–23, title I, § 105(b), May 22, 2009, 123 Stat. 1718, which provided that the Joint Requirements Oversight Council in the Department of Defense was to seek and consider input from the commanders of combatant commands, in accordance with section 181(d) of title 10, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(3), Dec. 18, 2025, 139 Stat. 1244.
+Pub. L. 111–23, title I, § 105(b), May 22, 2009, 123 Stat. 1718, which provided that the Joint Requirements Oversight Council in the Department of Defense was to seek and consider input from the commanders of combatant commands, in accordance with section 181(d) of title 10, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(3), Dec. 18, 2025, 139 Stat. 1244.
 
 **Review of Joint Military Requirements**
 
-Pub. L. 111–23, title II, § 201(c), May 22, 2009, 123 Stat. 1720, which provided that the Secretary of Defense was to ensure that each new joint military requirement recommended by the Joint Requirements Oversight Council was reviewed, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(4), Dec. 18, 2025, 139 Stat. 1244.
+Pub. L. 111–23, title II, § 201(c), May 22, 2009, 123 Stat. 1720, which provided that the Secretary of Defense was to ensure that each new joint military requirement recommended by the Joint Requirements Oversight Council was reviewed, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(4), Dec. 18, 2025, 139 Stat. 1244.
 
 **Study Guidance for Analyses of Alternatives**
 
-Pub. L. 111–23, title II, § 201(d), May 22, 2009, 123 Stat. 1720, which related to study guidance for analyses of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council was the validation authority, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(4), Dec. 18, 2025, 139 Stat. 1244.
+Pub. L. 111–23, title II, § 201(d), May 22, 2009, 123 Stat. 1720, which related to study guidance for analyses of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council was the validation authority, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(4), Dec. 18, 2025, 139 Stat. 1244.
 
-Pub. L. 111–23, title II, § 201(d), May 22, 2009, 123 Stat. 1720, provided that:
+Pub. L. 111–23, title II, § 201(d), May 22, 2009, 123 Stat. 1720, provided that:
 
 > “The Director of Cost Assessment and Program Evaluation shall take the lead in the development of study guidance for an analysis of alternatives for each joint military requirement for which the Chairman of the Joint Requirements Oversight Council is the validation authority. In developing the guidance, the Director shall solicit the advice of appropriate officials within the Department of Defense and ensure that the guidance requires, at a minimum—
 
@@ -1555,13 +1555,13 @@ Pub. L. 111–23, title II, § 201(d), May 22, 2009, 123 Stat. 1720, provided 
 
 **Deadlines for Inclusion of Core Mission References in Documents**
 
-Pub. L. 110–181, div. A, title IX, § 942(f), Jan. 28, 2008, 122 Stat. 288, which provided that, effective June 1, 2009, all joint military requirements documents of the Joint Requirements Oversight Council produced to carry out its mission under section 181(b)(1) of title 10were to reference the core mission areas organized and defined under former section 118b of title 10, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(2), Dec. 18, 2025, 139 Stat. 1244.
+Pub. L. 110–181, div. A, title IX, § 942(f), Jan. 28, 2008, 122 Stat. 288, which provided that, effective June 1, 2009, all joint military requirements documents of the Joint Requirements Oversight Council produced to carry out its mission under section 181(b)(1) of title 10were to reference the core mission areas organized and defined under former section 118b of title 10, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(2), Dec. 18, 2025, 139 Stat. 1244.
 
 **Reports on Joint Requirements Oversight Council Reform Initiative**
 
-Pub. L. 106–398, § 1 [[div. A], title IX, § 916], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, § 923, Dec. 28, 2001, 115 Stat. 1199, which directed the Chairman of the Joints Chiefs of Staff to submit reports to committees of Congress not later than Mar. 1, 2001, Sept. 1, 2001, Mar. 1, 2002, and Mar. 1, 2003, on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(1), Dec. 18, 2025, 139 Stat. 1244.
+Pub. L. 106–398, § 1 [[div. A], title IX, § 916], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, as amended by Pub. L. 107–107, div. A, title IX, § 923, Dec. 28, 2001, 115 Stat. 1199, which directed the Chairman of the Joints Chiefs of Staff to submit reports to committees of Congress not later than Mar. 1, 2001, Sept. 1, 2001, Mar. 1, 2002, and Mar. 1, 2003, on the progress made on the initiative of the Chairman to reform and refocus the Joint Requirements Oversight Council, was repealed by Pub. L. 119–60, div. A, title XVIII, § 1811(h)(1), Dec. 18, 2025, 139 Stat. 1244.
 
-## § 182. Center for Excellence in Disaster Management and Humanitarian Assistance
+## § 182. Center for Excellence in Disaster Management and Humanitarian Assistance
 
 **(a) Establishment.—** The Secretary of Defense may operate a Center for Excellence in Disaster Management and Humanitarian Assistance (in this section referred to as the “Center”).
 
@@ -1603,23 +1603,23 @@ Pub. L. 106–398, § 1 [[div. A], title IX, § 916], Oct. 30, 2000, 114 Sta
 
 **(4)** Funds accepted by the Secretary under paragraph (1) as a donation on behalf of the Center shall be credited to appropriations available to the Department of Defense for the Center. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Center for the same purposes and the same period as the appropriations with which merged.
 
-(Added Pub. L. 105–85, div. A, title III, § 382(a)(1), Nov. 18, 1997, 111 Stat. 1709.)
+(Added Pub. L. 105–85, div. A, title III, § 382(a)(1), Nov. 18, 1997, 111 Stat. 1709.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Payments for Education and Training of Personnel of Foreign Countries**
 
-Pub. L. 107–248, title VIII, § 8093, Oct. 23, 2002, 116 Stat. 1558, provided that: “During the current fiscal year and hereafter, under regulations prescribed by the Secretary of Defense, the Center of Excellence for Disaster Management and Humanitarian Assistance [probably should be Center for Excellence in Disaster Management and Humanitarian Assistance] may also pay, or authorize payment for, the expenses of providing or facilitating education and training for appropriate military and civilian personnel of foreign countries in disaster management, peace operations, and humanitarian assistance.”
+Pub. L. 107–248, title VIII, § 8093, Oct. 23, 2002, 116 Stat. 1558, provided that: “During the current fiscal year and hereafter, under regulations prescribed by the Secretary of Defense, the Center of Excellence for Disaster Management and Humanitarian Assistance [probably should be Center for Excellence in Disaster Management and Humanitarian Assistance] may also pay, or authorize payment for, the expenses of providing or facilitating education and training for appropriate military and civilian personnel of foreign countries in disaster management, peace operations, and humanitarian assistance.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 107–117, div. A, title VIII, § 8109, Jan. 10, 2002, 115 Stat. 2272.
+Pub. L. 107–117, div. A, title VIII, § 8109, Jan. 10, 2002, 115 Stat. 2272.
 
-Pub. L. 106–259, title VIII, § 8109, Aug. 9, 2000, 114 Stat. 698.
+Pub. L. 106–259, title VIII, § 8109, Aug. 9, 2000, 114 Stat. 698.
 
-Pub. L. 106–79, title VIII, § 8139, Oct. 25, 1999, 113 Stat. 1269.
+Pub. L. 106–79, title VIII, § 8139, Oct. 25, 1999, 113 Stat. 1269.
 
-## § 182a. Center for Excellence in Environmental Security
+## § 182a. Center for Excellence in Environmental Security
 
 **(a) Establishment.—** The Secretary of Defense may operate a Center for Excellence in Environmental Security (in this section referred to as the “Center”).
 
@@ -1661,9 +1661,9 @@ Pub. L. 106–79, title VIII, § 8139, Oct. 25, 1999, 113 Stat. 1269.
 
 **(4)** Funds accepted by the Secretary under paragraph (1) as a donation on behalf of the Center shall be credited to appropriations available to the Department of Defense for the Center. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Center for the same purposes and the same period as the appropriations with which merged.
 
-(Added Pub. L. 117–263, div. A, title III, § 311, Dec. 23, 2022, 136 Stat. 2501.)
+(Added Pub. L. 117–263, div. A, title III, § 311, Dec. 23, 2022, 136 Stat. 2501.)
 
-## § 183. Department of Defense Board of Actuaries
+## § 183. Department of Defense Board of Actuaries
 
 **(a) In General.—** There shall be in the Department of Defense a Department of Defense Board of Actuaries (hereinafter in this section referred to as the “Board”).
 
@@ -1699,21 +1699,21 @@ Pub. L. 106–79, title VIII, § 8139, Oct. 25, 1999, 113 Stat. 1269.
 
 **(2)** The Board shall also furnish its advice and opinion on matters referred to it by the Secretary.
 
-(Added Pub. L. 110–181, div. A, title IX, § 906(a)(1), Jan. 28, 2008, 122 Stat. 275.)
+(Added Pub. L. 110–181, div. A, title IX, § 906(a)(1), Jan. 28, 2008, 122 Stat. 275.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 183, added Pub. L. 105–85, div. A, title IX, § 904(a), Nov. 18, 1997, 111 Stat. 1854, required the Secretary of Defense to report annually on the justification or requirement and projected costs of Department of Defense advisory committees, prior to repeal by Pub. L. 107–314, div. A, title X, § 1041(a)(1)(A), Dec. 2, 2002, 116 Stat. 2645.
+A prior section 183, added Pub. L. 105–85, div. A, title IX, § 904(a), Nov. 18, 1997, 111 Stat. 1854, required the Secretary of Defense to report annually on the justification or requirement and projected costs of Department of Defense advisory committees, prior to repeal by Pub. L. 107–314, div. A, title X, § 1041(a)(1)(A), Dec. 2, 2002, 116 Stat. 2645.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Initial Service as Board Members**
 
-Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277, provided that: “Each member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries as of the date of the enactment of this Act [Jan. 28, 2008] shall serve as an initial member of the Department of Defense Board of Actuaries under section 183 of title 10, United States Code (as added by paragraph (1)), from that date until the date otherwise provided for the completion of such individual’s term as a member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries, as the case may be, unless earlier removed by the Secretary of Defense.”
+Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277, provided that: “Each member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries as of the date of the enactment of this Act [Jan. 28, 2008] shall serve as an initial member of the Department of Defense Board of Actuaries under section 183 of title 10, United States Code (as added by paragraph (1)), from that date until the date otherwise provided for the completion of such individual’s term as a member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries, as the case may be, unless earlier removed by the Secretary of Defense.”
 
-## § 183a. Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions
+## § 183a. Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions
 
 **(a) Establishment.—**
 
@@ -1863,7 +1863,7 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 27
 
 **(C)** significantly impair or degrade the capability of the Department of Defense to conduct training, research, development, testing, and evaluation, and operations or to maintain military readiness.
 
-(Added Pub. L. 115–91, div. A, title III, § 311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§ 311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329; Pub. L. 116–283, div. A, title III, § 311, Jan. 1, 2021, 134 Stat. 3513; Pub. L. 117–81, div. A, title III, § 371(b), Dec. 27, 2021, 135 Stat. 1663; Pub. L. 118–31, div. A, title III, §§ 361, 362, Dec. 22, 2023, 137 Stat. 231; Pub. L. 118–159, div. A, title III, § 311, Dec. 23, 2024, 138 Stat. 1851; Pub. L. 119–60, div. A, title XVII, § 1701(a)(5), Dec. 18, 2025, 139 Stat. 1208.)
+(Added Pub. L. 115–91, div. A, title III, § 311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§ 311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329; Pub. L. 116–283, div. A, title III, § 311, Jan. 1, 2021, 134 Stat. 3513; Pub. L. 117–81, div. A, title III, § 371(b), Dec. 27, 2021, 135 Stat. 1663; Pub. L. 118–31, div. A, title III, §§ 361, 362, Dec. 22, 2023, 137 Stat. 231; Pub. L. 118–159, div. A, title III, § 311, Dec. 23, 2024, 138 Stat. 1851; Pub. L. 119–60, div. A, title XVII, § 1701(a)(5), Dec. 18, 2025, 139 Stat. 1208.)
 
 **Editorial Notes**
 
@@ -1877,55 +1877,55 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 2024—Subsec. (h)(2)(A)(ii). Pub. L. 118–159 substituted “by law” for “under this title”.
 
-2023—Pub. L. 118–31, § 362(b)(1), inserted “or antenna structure projects” after “energy projects” wherever appearing and inserted “or antenna structure project” after “energy project” wherever appearing except in subsecs. (e)(1) and (h)(2).
+2023—Pub. L. 118–31, § 362(b)(1), inserted “or antenna structure projects” after “energy projects” wherever appearing and inserted “or antenna structure project” after “energy project” wherever appearing except in subsecs. (e)(1) and (h)(2).
 
-Subsec. (c)(3). Pub. L. 118–31, § 361, inserted “The Clearinghouse shall ensure that a governor has at least 30 days after the date on which the governor receives the notice of presumed risk to provide any such comments and shall provide detailed information and other information necessary to ensure that the governor can fully understand the nature of the presumed risk.” after “to the application.”
+Subsec. (c)(3). Pub. L. 118–31, § 361, inserted “The Clearinghouse shall ensure that a governor has at least 30 days after the date on which the governor receives the notice of presumed risk to provide any such comments and shall provide detailed information and other information necessary to ensure that the governor can fully understand the nature of the presumed risk.” after “to the application.”
 
-Subsec. (d)(2)(B). Pub. L. 118–31, § 362(a)(1)(A), inserted “or any active intercontinental ballistic missile launch facility or control center” after “military training routes”.
+Subsec. (d)(2)(B). Pub. L. 118–31, § 362(a)(1)(A), inserted “or any active intercontinental ballistic missile launch facility or control center” after “military training routes”.
 
-Subsec. (d)(2)(E). Pub. L. 118–31, § 362(a)(1)(B), substituted “a Deputy Under Secretary of Defense, or, in the case of a geographic area of concern related to an active intercontinental ballistic missile launch facility or control center, the Assistant Secretary of Defense for Energy, Installations, and Environment” for “or a Deputy Under Secretary of Defense”.
+Subsec. (d)(2)(E). Pub. L. 118–31, § 362(a)(1)(B), substituted “a Deputy Under Secretary of Defense, or, in the case of a geographic area of concern related to an active intercontinental ballistic missile launch facility or control center, the Assistant Secretary of Defense for Energy, Installations, and Environment” for “or a Deputy Under Secretary of Defense”.
 
-Subsec. (e)(1). Pub. L. 118–31, § 362(a)(2), designated first sentence as subpar. (A) and inserted “or antenna structure project” after “energy project”, designated second sentence as subpar. (C) and substituted “Any finding of unacceptable risk to national security by the Secretary of Defense under this paragraph” for “The Secretary of Defense’s finding of unacceptable risk to national security”, and added subpar. (B) after subpar. (A) as so designated.
+Subsec. (e)(1). Pub. L. 118–31, § 362(a)(2), designated first sentence as subpar. (A) and inserted “or antenna structure project” after “energy project”, designated second sentence as subpar. (C) and substituted “Any finding of unacceptable risk to national security by the Secretary of Defense under this paragraph” for “The Secretary of Defense’s finding of unacceptable risk to national security”, and added subpar. (B) after subpar. (A) as so designated.
 
-Subsec. (h)(2) to (11). Pub. L. 118–31, § 362(b)(2), added pars. (2) and (3) and redesignated former pars. (2) to (9) as (4) to (11), respectively.
+Subsec. (h)(2) to (11). Pub. L. 118–31, § 362(b)(2), added pars. (2) and (3) and redesignated former pars. (2) to (9) as (4) to (11), respectively.
 
-2021—Subsec. (c)(2). Pub. L. 116–283, § 311(1), designated existing provisions as subpar. (A) and added subpar. (B).
+2021—Subsec. (c)(2). Pub. L. 116–283, § 311(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(2)(C). Pub. L. 117–81, § 371(b)(1), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 117–81, § 371(b)(1), added subpar. (C).
 
-Subsec. (c)(4) to (6). Pub. L. 116–283, § 311(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
+Subsec. (c)(4) to (6). Pub. L. 116–283, § 311(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
 
-Subsec. (c)(7). Pub. L. 116–283, § 311(2), (4), redesignated par. (6) as (7) and struck out “Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity.” before “Material marked”.
+Subsec. (c)(7). Pub. L. 116–283, § 311(2), (4), redesignated par. (6) as (7) and struck out “Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity.” before “Material marked”.
 
-Subsec. (c)(8). Pub. L. 117–81, § 371(b)(2), added par. (8).
+Subsec. (c)(8). Pub. L. 117–81, § 371(b)(2), added par. (8).
 
-2019—Subsec. (c)(1). Pub. L. 116–92, § 311, substituted “75 days” for “60 days” in introductory provisions.
+2019—Subsec. (c)(1). Pub. L. 116–92, § 311, substituted “75 days” for “60 days” in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 116–92, § 371(1), in second sentence, substituted “air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar” for “air route surveillance radar or airport surveillance radar” and inserted after second sentence “Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity.”
+Subsec. (c)(6). Pub. L. 116–92, § 371(1), in second sentence, substituted “air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar” for “air route surveillance radar or airport surveillance radar” and inserted after second sentence “Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity.”
 
-Subsec. (d)(2)(E). Pub. L. 116–92, § 371(2)(A), substituted “the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense” for “a Deputy Secretary of Defense, an Under Secretary of Defense, or a Principal Deputy Under Secretary of Defense”.
+Subsec. (d)(2)(E). Pub. L. 116–92, § 371(2)(A), substituted “the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense” for “a Deputy Secretary of Defense, an Under Secretary of Defense, or a Principal Deputy Under Secretary of Defense”.
 
-Subsec. (d)(3), (4). Pub. L. 116–92, § 371(2)(B), (C), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (d)(3), (4). Pub. L. 116–92, § 371(2)(B), (C), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (e)(3). Pub. L. 116–92, § 371(3), substituted “an Under Secretary of Defense, or a Deputy Under Secretary of Defense” for “an under secretary of defense, or a deputy under secretary of defense”.
+Subsec. (e)(3). Pub. L. 116–92, § 371(3), substituted “an Under Secretary of Defense, or a Deputy Under Secretary of Defense” for “an under secretary of defense, or a deputy under secretary of defense”.
 
-Subsec. (f). Pub. L. 116–92, § 371(4), which directed the substitution of “from an entity requesting a review by the Clearinghouse under this section” for “from an applicant for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49”, could not be executed because of the intervening amendment by Pub. L. 116–92, § 312. See note below.
+Subsec. (f). Pub. L. 116–92, § 371(4), which directed the substitution of “from an entity requesting a review by the Clearinghouse under this section” for “from an applicant for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49”, could not be executed because of the intervening amendment by Pub. L. 116–92, § 312. See note below.
 
-Pub. L. 116–92, § 312, substituted “for an energy project” for “for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49”.
+Pub. L. 116–92, § 312, substituted “for an energy project” for “for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49”.
 
-Subsec. (h)(3) to (9). Pub. L. 116–92, § 371(5), added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, in par. (7) substituted “the Administrator of the Federal Aviation Administration” for “the Federal Aviation Administration”, added par. (8), and redesignated former par. (7) as (9).
+Subsec. (h)(3) to (9). Pub. L. 116–92, § 371(5), added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, in par. (7) substituted “the Administrator of the Federal Aviation Administration” for “the Federal Aviation Administration”, added par. (8), and redesignated former par. (7) as (9).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Applicability of Existing Rules and Regulations**
 
-Pub. L. 115–91, div. A, title III, § 311(c), Dec. 12, 2017, 131 Stat. 1348, provided that: “Notwithstanding the amendments made by subsection (a) [enacting this section], any rule or regulation promulgated to carry out section 358 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 [Pub. L. 111–383] (49 U.S.C. 44718 note), that is in effect on the day before the date of the enactment of this Act [Dec. 12, 2017] shall continue in effect and apply to the extent such rule or regulation is consistent with the authority under section 183a of title 10, United States Code, as added by subsection (a), until such rule or regulation is otherwise amended or repealed.”
+Pub. L. 115–91, div. A, title III, § 311(c), Dec. 12, 2017, 131 Stat. 1348, provided that: “Notwithstanding the amendments made by subsection (a) [enacting this section], any rule or regulation promulgated to carry out section 358 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 [Pub. L. 111–383] (49 U.S.C. 44718 note), that is in effect on the day before the date of the enactment of this Act [Dec. 12, 2017] shall continue in effect and apply to the extent such rule or regulation is consistent with the authority under section 183a of title 10, United States Code, as added by subsection (a), until such rule or regulation is otherwise amended or repealed.”
 
 **Deadline for Initial Identification of Geographic Areas**
 
-Pub. L. 115–91, div. A, title III, § 311(d), Dec. 12, 2017, 131 Stat. 1348, provided that: “The initial identification of geographic areas under section 183a(d)(2)(B) of title 10, United States Code, as added by subsection (a), shall be completed not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017].”
+Pub. L. 115–91, div. A, title III, § 311(d), Dec. 12, 2017, 131 Stat. 1348, provided that: “The initial identification of geographic areas under section 183a(d)(2)(B) of title 10, United States Code, as added by subsection (a), shall be completed not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017].”
 
-## § 184. Civilian Protection Center of Excellence
+## § 184. Civilian Protection Center of Excellence
 
 **(a) Establishment.—** The Secretary of Defense shall operate the Civilian Protection Center of Excellence. The purpose of the Center shall be to—
 
@@ -1955,7 +1955,7 @@ Pub. L. 115–91, div. A, title III, § 311(d), Dec. 12, 2017, 131 Stat. 1348,
 
 **(c) Annual Report.—** The Secretary of Defense shall submit to the congressional defense committees, and make publicly available on an appropriate website of the Department, an annual report on the activities of the Center.
 
-(Added Pub. L. 117–263, div. A, title X, § 1082(a)(1), Dec. 23, 2022, 136 Stat. 2799.)
+(Added Pub. L. 117–263, div. A, title X, § 1082(a)(1), Dec. 23, 2022, 136 Stat. 2799.)
 
 **Editorial Notes**
 
@@ -1971,9 +1971,9 @@ A prior section 184 was renumbered section 342 of this title.
 
 **Deadline for Establishment**
 
-Pub. L. 117–263, div. A, title X, § 1082(b), Dec. 23, 2022, 136 Stat. 2799, provided that: “The Civilian Protection Center of Excellence, as required under section 184 of title 10, United States Code, as added by subsection (a), shall be established by not later than 90 days after the date of the enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. A, title X, § 1082(b), Dec. 23, 2022, 136 Stat. 2799, provided that: “The Civilian Protection Center of Excellence, as required under section 184 of title 10, United States Code, as added by subsection (a), shall be established by not later than 90 days after the date of the enactment of this Act [Dec. 23, 2022].”
 
-## § 185. Joint Safety Council
+## § 185. Joint Safety Council
 
 **(a) In General.—** There is established, within the Office of the Deputy Secretary of Defense, a Joint Safety Council (in this section referred to as the “Council”).
 
@@ -2105,33 +2105,33 @@ Pub. L. 117–263, div. A, title X, § 1082(b), Dec. 23, 2022, 136 Stat. 2799,
 
 **(l) Biannual Briefings.—** Not later than March 31 and December 31 of each year, the Chairperson of the Council shall provide to the congressional defense committees a briefing on the contents of the report required to be submitted under subsection (k)(1) that covers the six-month period preceding the date of the briefing.
 
-(Added Pub. L. 117–81, div. A, title III, § 372(a), Dec. 27, 2021, 135 Stat. 1664, § 184; amended Pub. L. 117–263, div. A, title III, §§ 381, 383, Dec. 23, 2022, 136 Stat. 2542, 2544; renumbered § 185 and amended Pub. L. 118–31, div. A, title III, § 363, Dec. 22, 2023, 137 Stat. 233; Pub. L. 118–159, div. A, title III, § 331, Dec. 23, 2024, 138 Stat. 1854.)
+(Added Pub. L. 117–81, div. A, title III, § 372(a), Dec. 27, 2021, 135 Stat. 1664, § 184; amended Pub. L. 117–263, div. A, title III, §§ 381, 383, Dec. 23, 2022, 136 Stat. 2542, 2544; renumbered § 185 and amended Pub. L. 118–31, div. A, title III, § 363, Dec. 22, 2023, 137 Stat. 233; Pub. L. 118–159, div. A, title III, § 331, Dec. 23, 2024, 138 Stat. 1854.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (k)(1). Pub. L. 118–159, § 331(1)(A), substituted “Chairperson” for “Chair” and “biannual” for “semi-annual”.
+2024—Subsec. (k)(1). Pub. L. 118–159, § 331(1)(A), substituted “Chairperson” for “Chair” and “biannual” for “semi-annual”.
 
-Subsec. (k)(2). Pub. L. 118–159, § 331(1)(B)(i), in introductory provisions, struck out “March 31, 2023, and not later than” before “December 31” and “thereafter” after “each year” and substituted “an annual report” for “a report”.
+Subsec. (k)(2). Pub. L. 118–159, § 331(1)(B)(i), in introductory provisions, struck out “March 31, 2023, and not later than” before “December 31” and “thereafter” after “each year” and substituted “an annual report” for “a report”.
 
-Subsec. (k)(2)(C). Pub. L. 118–159, § 331(1)(B)(ii)–(iv), added subpar. (C).
+Subsec. (k)(2)(C). Pub. L. 118–159, § 331(1)(B)(ii)–(iv), added subpar. (C).
 
-Subsec. (*l*). Pub. L. 118–159, § 331(2), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 118–159, § 331(2), added subsec. (*l*).
 
-2023—Pub. L. 118–31, § 363(1), renumbered section 184 of this title relating to Joint Safety Council as this section.
+2023—Pub. L. 118–31, § 363(1), renumbered section 184 of this title relating to Joint Safety Council as this section.
 
-Subsec. (d)(7) to (12). Pub. L. 118–31, § 363(2), added pars. (7), (11), and (12), redesignated former pars. (7) to (9) as (8) to (10), respectively, and substituted “the safety management system and program described in paragraphs (5) and (6), respectively” for “the safety management systems described in paragraphs (9) and (10)” in par. (8) as so redesignated.
+Subsec. (d)(7) to (12). Pub. L. 118–31, § 363(2), added pars. (7), (11), and (12), redesignated former pars. (7) to (9) as (8) to (10), respectively, and substituted “the safety management system and program described in paragraphs (5) and (6), respectively” for “the safety management systems described in paragraphs (9) and (10)” in par. (8) as so redesignated.
 
-2022—Subsec. (b)(1)(D), (E). Pub. L. 117–263, § 383, added subpar. (D) and redesignated former subpar. (D) as (E).
+2022—Subsec. (b)(1)(D), (E). Pub. L. 117–263, § 383, added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (k). Pub. L. 117–263, § 381, substituted “Reports” for “Report” in heading, designated existing provisions as par. (1), and added par. (2).
+Subsec. (k). Pub. L. 117–263, § 381, substituted “Reports” for “Report” in heading, designated existing provisions as par. (1), and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Establishment of Major Mishap Incident Designation Classification for Department of Defense Incidents**
 
-Pub. L. 118–159, div. A, title X, § 1054, Dec. 23, 2024, 138 Stat. 2061, provided that:
+Pub. L. 118–159, div. A, title X, § 1054, Dec. 23, 2024, 138 Stat. 2061, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish a new mishap designation classification for the most serious incidents, to be known as ‘major mishap incidents’, to describe any incident that—
 
@@ -2187,7 +2187,7 @@ Pub. L. 118–159, div. A, title X, § 1054, Dec. 23, 2024, 138 Stat. 2061, pr
 
 **Deadlines**
 
-Pub. L. 117–81, div. A, title III, § 372(c), Dec. 27, 2021, 135 Stat. 1666, provided that:
+Pub. L. 117–81, div. A, title III, § 372(c), Dec. 27, 2021, 135 Stat. 1666, provided that:
 
 > **“(1) Establishment.—** The Secretary of Defense shall ensure the establishment of the Joint Safety Council under section 184 of title 10, United States Code (as added by subsection (a)) [now 10 U.S.C. 185], by not later than the date that is 120 days after the date of the enactment of this Act [Dec. 27, 2021].
 
@@ -2195,15 +2195,15 @@ Pub. L. 117–81, div. A, title III, § 372(c), Dec. 27, 2021, 135 Stat. 1666,
 
 > **“(3) Directors of safety.—** Not later than 30 days after the date of the enactment of this Act, the Secretary of each military department shall ensure there is appointed as the Director of Safety for the military department concerned an officer of that military department in pay grade O–8 or above.”
 
-## [§ 186. Repealed. Pub. L. 113–291, div. A, title IX, § 901(c), Dec. 19, 2014, 128 Stat. 3463]
+## [§ 186. Repealed. Pub. L. 113–291, div. A, title IX, § 901(c), Dec. 19, 2014, 128 Stat. 3463]
 
-Section, added Pub. L. 108–375, div. A, title III, § 332(b)(1), Oct. 28, 2004, 118 Stat. 1854; amended Pub. L. 110–417, [div. A], title IX, § 904, Oct. 14, 2008, 122 Stat. 4567; Pub. L. 111–383, div. A, title X, § 1075(b)(9), Jan. 7, 2011, 124 Stat. 4369, related to Defense Business System Management Committee.
+Section, added Pub. L. 108–375, div. A, title III, § 332(b)(1), Oct. 28, 2004, 118 Stat. 1854; amended Pub. L. 110–417, [div. A], title IX, § 904, Oct. 14, 2008, 122 Stat. 4567; Pub. L. 111–383, div. A, title X, § 1075(b)(9), Jan. 7, 2011, 124 Stat. 4369, related to Defense Business System Management Committee.
 
-## [§ 187. Repealed. Pub. L. 117–263, div. A, title XIV, § 1411(a), Dec. 23, 2022, 136 Stat. 2869]
+## [§ 187. Repealed. Pub. L. 117–263, div. A, title XIV, § 1411(a), Dec. 23, 2022, 136 Stat. 2869]
 
-Section, added Pub. L. 109–364, div. A, title VIII, § 843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, § 829, Jan. 7, 2011, 124 Stat. 4272; Pub. L. 112–239, div. A, title IX, § 901(c), Jan. 2, 2013, 126 Stat. 1864; Pub. L. 114–328, div. A, title X, § 1081(a)(2), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 116–92, div. A, title XVII, § 1731(a)(11), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title XVIII, § 1870(c)(6)(C), Jan. 1, 2021, 134 Stat. 4285, related to Strategic Materials Protection Board. See section 98h–1 of Title 50, War and National Defense.
+Section, added Pub. L. 109–364, div. A, title VIII, § 843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, § 829, Jan. 7, 2011, 124 Stat. 4272; Pub. L. 112–239, div. A, title IX, § 901(c), Jan. 2, 2013, 126 Stat. 1864; Pub. L. 114–328, div. A, title X, § 1081(a)(2), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 116–92, div. A, title XVII, § 1731(a)(11), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title XVIII, § 1870(c)(6)(C), Jan. 1, 2021, 134 Stat. 4285, related to Strategic Materials Protection Board. See section 98h–1 of Title 50, War and National Defense.
 
-## § 188. Interagency Council on the Strategic Capability of the National Laboratories
+## § 188. Interagency Council on the Strategic Capability of the National Laboratories
 
 **(a) Establishment.—** There is an Interagency Council on the Strategic Capability of the National Laboratories (in this section referred to as the “Council”).
 
@@ -2265,17 +2265,17 @@ Section, added Pub. L. 109–364, div. A, title VIII, § 843(a), Oct. 17, 2006
 
 **(B)** each national laboratory of the Department of Energy.
 
-(Added Pub. L. 112–239, div. A, title X, § 1040(a), Jan. 2, 2013, 126 Stat. 1928.)
+(Added Pub. L. 112–239, div. A, title X, § 1040(a), Jan. 2, 2013, 126 Stat. 1928.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Construction**
 
-Pub. L. 112–239, div. A, title X, § 1040(d), Jan. 2, 2013, 126 Stat. 1931, provided that: “Nothing in section 188 of title 10, United States Code, as added by subsection (a), shall be construed to limit section 309 of the Homeland Security Act of 2002 (6 U.S.C. 189).”
+Pub. L. 112–239, div. A, title X, § 1040(d), Jan. 2, 2013, 126 Stat. 1931, provided that: “Nothing in section 188 of title 10, United States Code, as added by subsection (a), shall be construed to limit section 309 of the Homeland Security Act of 2002 (6 U.S.C. 189).”
 
 **Report**
 
-Pub. L. 112–239, div. A, title X, § 1040(c), Jan. 2, 2013, 126 Stat. 1930, provided that:
+Pub. L. 112–239, div. A, title X, § 1040(c), Jan. 2, 2013, 126 Stat. 1930, provided that:
 
 > **“(1) In general.—** Not later than September 30, 2013, the Interagency Council on the Strategic Capability of the National Laboratories established under section 188 of title 10, United States Code, as added by subsection (a), shall submit to the appropriate congressional committees a report describing and assessing the following:
 
@@ -2313,7 +2313,7 @@ Pub. L. 112–239, div. A, title X, § 1040(c), Jan. 2, 2013, 126 Stat. 1930, 
 
 > **“(E)** The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.”
 
-## § 189. Communications Security Review and Advisory Board
+## § 189. Communications Security Review and Advisory Board
 
 **(a) Establishment.—** There shall be in the Department of Defense a Communications Security Review and Advisory Board (in this section referred to as the “Board”) to review and assess the communications security, cryptographic modernization, and related key management activities of the Department and provide advice to the Secretary with respect to such activities.
 
@@ -2345,7 +2345,7 @@ Pub. L. 112–239, div. A, title X, § 1040(c), Jan. 2, 2013, 126 Stat. 1930, 
 
 **(d) Exclusion of Certain Programs.—** The Board shall not include the consideration of programs funded under the National Intelligence Program (as defined in section 3(6) of the National Security Act of 1947 (50 U.S.C. 3003(6))) in carrying out this section.
 
-(Added Pub. L. 113–66, div. A, title II, § 261(a), Dec. 26, 2013, 127 Stat. 724; amended Pub. L. 113–291, div. A, title X, § 1071(f)(4), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 116–283, div. A, title XVIII, § 1846(i)(2), Jan. 1, 2021, 134 Stat. 4252.)
+(Added Pub. L. 113–66, div. A, title II, § 261(a), Dec. 26, 2013, 127 Stat. 724; amended Pub. L. 113–291, div. A, title X, § 1071(f)(4), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 116–283, div. A, title XVIII, § 1846(i)(2), Jan. 1, 2021, 134 Stat. 4252.)
 
 **Editorial Notes**
 
@@ -2361,6 +2361,6 @@ Pub. L. 112–239, div. A, title X, § 1040(c), Jan. 2, 2013, 126 Stat. 1930, 
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## [§ 190. Repealed. Pub. L. 116–92, div. A, title VIII, § 810(a), Dec. 20, 2019, 133 Stat. 1487]
+## [§ 190. Repealed. Pub. L. 116–92, div. A, title VIII, § 810(a), Dec. 20, 2019, 133 Stat. 1487]
 
-Section, added Pub. L. 114–328, div. A, title VIII, § 820(b)(1), Dec. 23, 2016, 130 Stat. 2274; amended Pub. L. 115–91, div. A, title VIII, § 804, Dec. 12, 2017, 131 Stat. 1456, related to Defense Cost Accounting Standards Board.
+Section, added Pub. L. 114–328, div. A, title VIII, § 820(b)(1), Dec. 23, 2016, 130 Stat. 2274; amended Pub. L. 115–91, div. A, title VIII, § 804, Dec. 12, 2017, 131 Stat. 1456, related to Defense Cost Accounting Standards Board.

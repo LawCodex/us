@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2003—Pub. L. 108–29, § 2(b), May 29, 2003, 117 Stat. 772, added item 1369.
+2003—Pub. L. 108–29, § 2(b), May 29, 2003, 117 Stat. 772, added item 1369.
 
-2000—Pub. L. 106–254, § 2(b), Aug. 2, 2000, 114 Stat. 638, added item 1368.
+2000—Pub. L. 106–254, § 2(b), Aug. 2, 2000, 114 Stat. 638, added item 1368.
 
-1990—Pub. L. 101–647, title XXXV, § 3543, Nov. 29, 1990, 104 Stat. 4926, inserted a period after “1366”.
+1990—Pub. L. 101–647, title XXXV, § 3543, Nov. 29, 1990, 104 Stat. 4926, inserted a period after “1366”.
 
-1986—Pub. L. 99–646, § 29(b), Nov. 10, 1986, 100 Stat. 3598, redesignated item 1365, relating to destruction of an energy facility, as item 1366.
+1986—Pub. L. 99–646, § 29(b), Nov. 10, 1986, 100 Stat. 3598, redesignated item 1365, relating to destruction of an energy facility, as item 1366.
 
-Pub. L. 99–508, title III, § 303(b), Oct. 21, 1986, 100 Stat. 1873, added item 1367.
+Pub. L. 99–508, title III, § 303(b), Oct. 21, 1986, 100 Stat. 1873, added item 1367.
 
-1984—Section 1365(d) of this title as added by Pub. L. 98–473, title II, § 1011(a), Oct. 12, 1984, 98 Stat. 2141, added item 1365, relating to destruction of an energy facility.
+1984—Section 1365(d) of this title as added by Pub. L. 98–473, title II, § 1011(a), Oct. 12, 1984, 98 Stat. 2141, added item 1365, relating to destruction of an energy facility.
 
-1983—Pub. L. 98–127, § 3, Oct. 13, 1983, 97 Stat. 832, added item 1365, relating to tampering with consumer products.
+1983—Pub. L. 98–127, § 3, Oct. 13, 1983, 97 Stat. 832, added item 1365, relating to tampering with consumer products.
 
-## § 1361. Government property or contracts
+## § 1361. Government property or contracts
 
 Whoever willfully injures or commits any depredation against any property of the United States, or of any department or agency thereof, or any property which has been or is being manufactured or constructed for the United States, or any department or agency thereof, or attempts to commit any of the foregoing offenses, shall be punished as follows:
 
 If the damage or attempted damage to such property exceeds the sum of $1,000, by a fine under this title or imprisonment for not more than ten years, or both; if the damage or attempted damage to such property does not exceed the sum of $1,000, by a fine under this title or by imprisonment for not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXII, § 320903(d)(1), title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2125, 2147; Pub. L. 104–294, title VI, §§ 601(a)(3), 605(e), 606(a), Oct. 11, 1996, 110 Stat. 3498, 3510, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXII, § 320903(d)(1), title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2125, 2147; Pub. L. 104–294, title VI, §§ 601(a)(3), 605(e), 606(a), Oct. 11, 1996, 110 Stat. 3498, 3510, 3511.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 82 (Mar. 4, 1909, ch. 321, § 35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
+Based on title 18, U.S.C., 1940 ed., § 82 (Mar. 4, 1909, ch. 321, § 35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
 
 The embezzlement and theft provisions of section 82 of title 18, U.S.C., 1940 ed., are now incorporated in section 641 of this title.
 
@@ -61,27 +61,27 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-1996—Pub. L. 104–294, § 605(e), inserted comma after “foregoing offenses” in first par.
+1996—Pub. L. 104–294, § 605(e), inserted comma after “foregoing offenses” in first par.
 
-Pub. L. 104–294, §§ 601(a)(3), 606(a), in second par., substituted “fine under this title” for “fine of under this title” in two places and “$1,000” for “$100” in two places.
+Pub. L. 104–294, §§ 601(a)(3), 606(a), in second par., substituted “fine under this title” for “fine of under this title” in two places and “$1,000” for “$100” in two places.
 
-1994—Pub. L. 103–322, § 320903(d)(1)(A), inserted “or attempts to commit any of the foregoing offenses” before “shall be punished” in first par.
+1994—Pub. L. 103–322, § 320903(d)(1)(A), inserted “or attempts to commit any of the foregoing offenses” before “shall be punished” in first par.
 
-Pub. L. 103–322, § 330016(1)(H), (L), in second par., substituted “under this title” for “not more than $10,000” before “or imprisonment for not more than ten years” and for “not more than $1,000” before “or by imprisonment for not more than one year”.
+Pub. L. 103–322, § 330016(1)(H), (L), in second par., substituted “under this title” for “not more than $10,000” before “or imprisonment for not more than ten years” and for “not more than $1,000” before “or by imprisonment for not more than one year”.
 
-Pub. L. 103–322, § 320903(d)(1)(B), inserted “or attempted damage” after “damage” in two places in second par.
+Pub. L. 103–322, § 320903(d)(1)(B), inserted “or attempted damage” after “damage” in two places in second par.
 
-## § 1362. Communication lines, stations or systems
+## § 1362. Communication lines, stations or systems
 
 Whoever willfully or maliciously injures or destroys any of the works, property, or material of any radio, telegraph, telephone or cable, line, station, or system, or other means of communication, operated or controlled by the United States, or used or intended to be used for military or civil defense functions of the United States, whether constructed or in process of construction, or willfully or maliciously interferes in any way with the working or use of any such line, or system, or willfully or maliciously obstructs, hinders, or delays the transmission of any communication over any such line, or system, or attempts or conspires to do such an act, shall be fined under this title or imprisoned not more than ten years, or both.
 
 In the case of any works, property, or material, not operated or controlled by the United States, this section shall not apply to any lawful strike activity, or other lawful concerted activities for the purposes of collective bargaining or other mutual aid and protection which do not injure or destroy any line or system used or intended to be used for the military or civil defense functions of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 87–306, Sept. 26, 1961, 75 Stat. 669; Pub. L. 103–322, title XXXII, § 320903(d)(2), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2147; Pub. L. 107–56, title VIII, § 811(c), Oct. 26, 2001, 115 Stat. 381.)
+(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 87–306, Sept. 26, 1961, 75 Stat. 669; Pub. L. 103–322, title XXXII, § 320903(d)(2), title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2125, 2147; Pub. L. 107–56, title VIII, § 811(c), Oct. 26, 2001, 115 Stat. 381.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 116 (Mar. 4, 1909, ch. 321, § 60, 35 Stat. 1099).
+Based on title 18, U.S.C., 1940 ed., § 116 (Mar. 4, 1909, ch. 321, § 60, 35 Stat. 1099).
 
 This section was extended to include radio and radio stations. Minor changes were made in phraseology.
 
@@ -95,15 +95,15 @@ This section was extended to include radio and radio stations. Minor changes wer
 
 1961—Pub. L. 87–306 extended the provisions of the section to means of communication used or intended to be used for military or civil defense functions of the United States, made the provisions inapplicable to lawful strike activities, which do not injure any line or system used for such functions, and increased the punishment by fine from $1,000 to $10,000 and by imprisonment from 3 to 10 years.
 
-## § 1363. Buildings or property within special maritime and territorial jurisdiction
+## § 1363. Buildings or property within special maritime and territorial jurisdiction
 
 Whoever, within the special maritime and territorial jurisdiction of the United States, willfully and maliciously destroys or injures any structure, conveyance, or other real or personal property, or attempts or conspires to do such an act, shall be fined under this title or imprisoned not more than five years, or both, and if the building be a dwelling, or the life of any person be placed in jeopardy, shall be fined under this title or imprisoned not more than twenty years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, § 703, Apr. 24, 1996, 110 Stat. 1294; Pub. L. 107–56, title VIII, § 811(d), Oct. 26, 2001, 115 Stat. 381.)
+(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–132, title VII, § 703, Apr. 24, 1996, 110 Stat. 1294; Pub. L. 107–56, title VIII, § 811(d), Oct. 26, 2001, 115 Stat. 381.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 464, 465 (Mar. 4, 1909, ch. 321, §§ 285, 286, 35 Stat. 1144).
+Based on title 18, U.S.C., 1940 ed., §§ 464, 465 (Mar. 4, 1909, ch. 321, §§ 285, 286, 35 Stat. 1144).
 
 Said sections were consolidated and rewritten both as to form and substance. The provisions relating to arson are incorporated in section 81 of this title. (See reviser’s note under said section 81 of this title for explanation of changes.)
 
@@ -117,15 +117,15 @@ Said sections were consolidated and rewritten both as to form and substance. The
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” after “shipping, shall be” and for “fined not more than $5,000” after “jeopardy, shall be”.
 
-## § 1364. Interference with foreign commerce by violence
+## § 1364. Interference with foreign commerce by violence
 
 Whoever, with intent to prevent, interfere with, or obstruct or attempt to prevent, interfere with, or obstruct the exportation to foreign countries of articles from the United States, injures or destroys, by fire or explosives, such articles or the places where they may be while in such foreign commerce, shall be fined under this title or imprisoned not more than twenty years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 764; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 381 (June 15, 1917, ch. 30, titles IV, XIII, § 1, 40 Stat. 221, 231; Mar. 28, 1940, ch. 72, § 4, 54 Stat. 79).
+Based on title 18, U.S.C., 1940 ed., § 381 (June 15, 1917, ch. 30, titles IV, XIII, § 1, 40 Stat. 221, 231; Mar. 28, 1940, ch. 72, § 4, 54 Stat. 79).
 
 Mandatory punishment provisions were rephrased in the alternative.
 
@@ -139,7 +139,7 @@ Minor verbal changes were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 1365. Tampering with consumer products
+## § 1365. Tampering with consumer products
 
 **(a)** Whoever, with reckless disregard for the risk that another person will be placed in danger of death or bodily injury and under circumstances manifesting extreme indifference to such risk, tampers with any consumer product that affects interstate or foreign commerce, or the labeling of, or container for, any such product, or attempts to do so, shall—
 
@@ -205,7 +205,7 @@ Minor verbal changes were made.
 
 **(E)** any other injury to the body, no matter how temporary.
 
-(Added Pub. L. 98–127, § 2, Oct. 13, 1983, 97 Stat. 831; amended Pub. L. 101–647, title XXXV, § 3544, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, § 330016(1)(L), (O), (Q), (S), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 107–307, § 2, Dec. 2, 2002, 116 Stat. 2445.)
+(Added Pub. L. 98–127, § 2, Oct. 13, 1983, 97 Stat. 831; amended Pub. L. 101–647, title XXXV, § 3544, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, § 330016(1)(L), (O), (Q), (S), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 107–307, § 2, Dec. 2, 2002, 116 Stat. 2445.)
 
 **Editorial Notes**
 
@@ -217,15 +217,15 @@ Another section 1365 was renumbered section 1366 of this title.
 
 2002—Subsecs. (f) to (h). Pub. L. 107–307 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-1994—Subsec. (a)(1). Pub. L. 103–322, § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
+1994—Subsec. (a)(1). Pub. L. 103–322, § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
-Subsec. (a)(2), (3). Pub. L. 103–322, § 330016(1)(S), substituted “fined under this title” for “fined not more than $100,000”.
+Subsec. (a)(2), (3). Pub. L. 103–322, § 330016(1)(S), substituted “fined under this title” for “fined not more than $100,000”.
 
-Subsec. (a)(4). Pub. L. 103–322, § 330016(1)(Q), substituted “fined under this title” for “fined not more than $50,000”.
+Subsec. (a)(4). Pub. L. 103–322, § 330016(1)(Q), substituted “fined under this title” for “fined not more than $50,000”.
 
-Subsec. (b). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
+Subsec. (b). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 
-Subsecs. (c)(1), (d), (e). Pub. L. 103–322, § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
+Subsecs. (c)(1), (d), (e). Pub. L. 103–322, § 330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
 
 1990—Subsec. (g)(1)(A). Pub. L. 101–647 inserted opening quotation marks before “device”.
 
@@ -233,13 +233,13 @@ Subsecs. (c)(1), (d), (e). Pub. L. 103–322, § 330016(1)(O), substituted “
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–307, § 1, Dec. 2, 2002, 116 Stat. 2445, provided that: “This Act [amending this section] may be cited as the ‘Product Packaging Protection Act of 2002’.”
+Pub. L. 107–307, § 1, Dec. 2, 2002, 116 Stat. 2445, provided that: “This Act [amending this section] may be cited as the ‘Product Packaging Protection Act of 2002’.”
 
 **Short Title**
 
-Pub. L. 98–127, § 1, Oct. 13, 1983, 97 Stat. 831, provided: “That this Act [enacting this section and section 155A of Title 35, Patents] may be cited as the ‘Federal Anti-Tampering Act’.”
+Pub. L. 98–127, § 1, Oct. 13, 1983, 97 Stat. 831, provided: “That this Act [enacting this section and section 155A of Title 35, Patents] may be cited as the ‘Federal Anti-Tampering Act’.”
 
-## § 1366. Destruction of an energy facility
+## § 1366. Destruction of an energy facility
 
 **(a)** Whoever knowingly and willfully damages or attempts or conspires to damage the property of an energy facility in an amount that in fact exceeds or would if the attempted offense had been completed, or if the object of the conspiracy had been achieved, have exceeded $100,000, or damages or attempts or conspires to damage the property of an energy facility in any amount and causes or attempts or conspires to cause a significant interruption or impairment of a function of an energy facility, shall be punishable by a fine under this title or imprisonment for not more than 20 years, or both.
 
@@ -249,39 +249,39 @@ Pub. L. 98–127, § 1, Oct. 13, 1983, 97 Stat. 831, provided: “That this Ac
 
 **(d)** Whoever is convicted of a violation of subsection (a) or (b) that has resulted in the death of any person shall be subject to imprisonment for any term of years or life.
 
-(Added Pub. L. 98–473, title II, § 1011(a), Oct. 12, 1984, 98 Stat. 2141, § 1365; renumbered § 1366, Pub. L. 99–646, § 29(a), Nov. 10, 1986, 100 Stat. 3598; amended Pub. L. 101–647, title XXXV, §§ 3545, 3546, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–272, § 5(e)(9), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXII, § 320903(d)(3), title XXXIII, § 330016(2)(C), Sept. 13, 1994, 108 Stat. 2125, 2148; Pub. L. 107–56, title VIII, § 810(b), Oct. 26, 2001, 115 Stat. 380; Pub. L. 109–177, title IV, § 406(c)(2), Mar. 9, 2006, 120 Stat. 245.)
+(Added Pub. L. 98–473, title II, § 1011(a), Oct. 12, 1984, 98 Stat. 2141, § 1365; renumbered § 1366, Pub. L. 99–646, § 29(a), Nov. 10, 1986, 100 Stat. 3598; amended Pub. L. 101–647, title XXXV, §§ 3545, 3546, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–272, § 5(e)(9), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXII, § 320903(d)(3), title XXXIII, § 330016(2)(C), Sept. 13, 1994, 108 Stat. 2125, 2148; Pub. L. 107–56, title VIII, § 810(b), Oct. 26, 2001, 115 Stat. 380; Pub. L. 109–177, title IV, § 406(c)(2), Mar. 9, 2006, 120 Stat. 245.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–177 substituted “attempts or conspires” for “attempts” wherever appearing and inserted “, or if the object of the conspiracy had been achieved,” after “the attempted offense had been completed”.
+2006—Subsec. (a). Pub. L. 109–177 substituted “attempts or conspires” for “attempts” wherever appearing and inserted “, or if the object of the conspiracy had been achieved,” after “the attempted offense had been completed”.
 
-2001—Subsec. (a). Pub. L. 107–56, § 810(b)(1), substituted “20 years” for “ten years”.
+2001—Subsec. (a). Pub. L. 107–56, § 810(b)(1), substituted “20 years” for “ten years”.
 
-Subsec. (d). Pub. L. 107–56, § 810(b)(2), added subsec. (d).
+Subsec. (d). Pub. L. 107–56, § 810(b)(2), added subsec. (d).
 
-1994—Subsec. (a). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $50,000”.
+1994—Subsec. (a). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $50,000”.
 
-Pub. L. 103–322, § 320903(d)(3), inserted “or attempts to damage” after “damages” in two places, “or would if the attempted offense had been completed have exceeded” after “exceeds”, and “or attempts to cause” after “causes”.
+Pub. L. 103–322, § 320903(d)(3), inserted “or attempts to damage” after “damages” in two places, “or would if the attempted offense had been completed have exceeded” after “exceeds”, and “or attempts to cause” after “causes”.
 
-Subsec. (b). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $25,000”.
+Subsec. (b). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $25,000”.
 
-Pub. L. 103–322, § 320903(d)(3)(A), (C), inserted “or attempts to damage” after “damages” and “or would if the attempted offense had been completed have exceeded” after “exceeds”.
+Pub. L. 103–322, § 320903(d)(3)(A), (C), inserted “or attempts to damage” after “damages” and “or would if the attempted offense had been completed have exceeded” after “exceeds”.
 
 Subsec. (c). Pub. L. 103–272 substituted “an interstate gas pipeline facility as defined in section 60101 of title 49” for “interstate transmission facilities, as defined in section 2 of the Natural Gas Pipeline Safety Act of 1968”.
 
-1990—Subsec. (c). Pub. L. 101–647, § 3545, substituted “section 2 of the Natural Gas Pipeline Safety Act of 1968” for “49 U.S.C. 1671”.
+1990—Subsec. (c). Pub. L. 101–647, § 3545, substituted “section 2 of the Natural Gas Pipeline Safety Act of 1968” for “49 U.S.C. 1671”.
 
-Subsec. (d). Pub. L. 101–647, § 3546, struck out subsec. (d) which read as follows: “The table of contents for chapter 65 of title 18, United States Code, is amended by adding at the end thereof the following new item: ‘1365 Destruction of an energy facility.’ ”
+Subsec. (d). Pub. L. 101–647, § 3546, struck out subsec. (d) which read as follows: “The table of contents for chapter 65 of title 18, United States Code, is amended by adding at the end thereof the following new item: ‘1365 Destruction of an energy facility.’ ”
 
-## § 1367. Interference with the operation of a satellite
+## § 1367. Interference with the operation of a satellite
 
 **(a)** Whoever, without the authority of the satellite operator, intentionally or maliciously interferes with the authorized operation of a communications or weather satellite or obstructs or hinders any satellite transmission shall be fined in accordance with this title or imprisoned not more than ten years or both.
 
 **(b)** This section does not prohibit any lawfully authorized investigative, protective, or intelligence activity of a law enforcement agency or of an intelligence agency of the United States.
 
-(Added Pub. L. 99–508, title III, § 303(a), Oct. 21, 1986, 100 Stat. 1872.)
+(Added Pub. L. 99–508, title III, § 303(a), Oct. 21, 1986, 100 Stat. 1872.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -289,13 +289,13 @@ Subsec. (d). Pub. L. 101–647, § 3546, struck out subsec. (d) which read as 
 
 Section effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 302 of Pub. L. 99–508, set out as a note under section 3121 of this title.
 
-## § 1368. Harming animals used in law enforcement
+## § 1368. Harming animals used in law enforcement
 
 **(a)** Whoever willfully and maliciously harms any police animal, or attempts or conspires to do so, shall be fined under this title and imprisoned not more than 1 year. If the offense permanently disables or disfigures the animal, or causes serious bodily injury to or the death of the animal, the maximum term of imprisonment shall be 10 years.
 
 **(b)** In this section, the term “police animal” means a dog or horse employed by a Federal agency (whether in the executive, legislative, or judicial branch) for the principal purpose of aiding in the detection of criminal activity, enforcement of laws, or apprehension of criminal offenders.
 
-(Added Pub. L. 106–254, § 2(a), Aug. 2, 2000, 114 Stat. 638; amended Pub. L. 107–273, div. B, title IV, § 4003(a)(4), Nov. 2, 2002, 116 Stat. 1811.)
+(Added Pub. L. 106–254, § 2(a), Aug. 2, 2000, 114 Stat. 638; amended Pub. L. 107–273, div. B, title IV, § 4003(a)(4), Nov. 2, 2002, 116 Stat. 1811.)
 
 **Editorial Notes**
 
@@ -307,9 +307,9 @@ Section effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant 
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–254, § 1, Aug. 2, 2000, 114 Stat. 638, provided that: “This Act [enacting this section] may be cited as the ‘Federal Law Enforcement Animal Protection Act of 2000’.”
+Pub. L. 106–254, § 1, Aug. 2, 2000, 114 Stat. 638, provided that: “This Act [enacting this section] may be cited as the ‘Federal Law Enforcement Animal Protection Act of 2000’.”
 
-## § 1369. Destruction of veterans’ memorials
+## § 1369. Destruction of veterans’ memorials
 
 **(a)** Whoever, in a circumstance described in subsection (b), willfully injures or destroys, or attempts to injure or destroy, any structure, plaque, statue, or other monument on public property commemorating the service of any person or persons in the armed forces of the United States shall be fined under this title, imprisoned not more than 10 years, or both.
 
@@ -319,10 +319,10 @@ Pub. L. 106–254, § 1, Aug. 2, 2000, 114 Stat. 638, provided that: “This A
 
 **(2)** the structure, plaque, statue, or other monument described in subsection (a) is located on property owned by, or under the jurisdiction of, the Federal Government.
 
-(Added Pub. L. 108–29, § 2(a), May 29, 2003, 117 Stat. 772.)
+(Added Pub. L. 108–29, § 2(a), May 29, 2003, 117 Stat. 772.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–29, § 1, May 29, 2003, 117 Stat. 772, provided that: “This Act [enacting this section and provisions set out as a note under section 109 of Title 23, Highways] may be cited as the ‘Veterans’ Memorial Preservation and Recognition Act of 2003’.”
+Pub. L. 108–29, § 1, May 29, 2003, 117 Stat. 772, provided that: “This Act [enacting this section and provisions set out as a note under section 109 of Title 23, Highways] may be cited as the ‘Veterans’ Memorial Preservation and Recognition Act of 2003’.”

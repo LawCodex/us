@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1976—Pub. L. 94–455, title XIX, § 1901(b)(20)(C), Oct. 4, 1976, 90 Stat. 1797, struck out item for part III “Bank affiliates”.
+1976—Pub. L. 94–455, title XIX, § 1901(b)(20)(C), Oct. 4, 1976, 90 Stat. 1797, struck out item for part III “Bank affiliates”.
 
 ## PART I—RULES OF GENERAL APPLICATION TO BANKING INSTITUTIONS
 
@@ -27,27 +27,27 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1986—Pub. L. 99–514, title IX, § 901(d)(4)(H), Oct. 22, 1986, 100 Stat. 2380, struck out item 586 “Reserves for losses on loans of small business investment companies, etc.”
+1986—Pub. L. 99–514, title IX, § 901(d)(4)(H), Oct. 22, 1986, 100 Stat. 2380, struck out item 586 “Reserves for losses on loans of small business investment companies, etc.”
 
-1976—Pub. L. 94–455, title XIX, § 1901(b)(18), Oct. 4, 1976, 90 Stat. 1796, struck out item 583 “Deductions of dividends paid on certain preferred stock”.
+1976—Pub. L. 94–455, title XIX, § 1901(b)(18), Oct. 4, 1976, 90 Stat. 1796, struck out item 583 “Deductions of dividends paid on certain preferred stock”.
 
-1969—Pub. L. 91–172, title IV, § 431(c)(2), Dec. 30, 1969, 83 Stat. 620, substituted “Bad debts, losses, and gains with respect to securities held by financial institutions”, for “Bad debt and loss deduction with respect to securities held by banks” in item 582, and added items 585 and 586.
+1969—Pub. L. 91–172, title IV, § 431(c)(2), Dec. 30, 1969, 83 Stat. 620, substituted “Bad debts, losses, and gains with respect to securities held by financial institutions”, for “Bad debt and loss deduction with respect to securities held by banks” in item 582, and added items 585 and 586.
 
-### § 581. Definition of bank
+### § 581. Definition of bank
 
 For purposes of sections 582 and 584, the term “bank” means a bank or trust company incorporated and doing business under the laws of the United States (including laws relating to the District of Columbia) or of any State, a substantial part of the business of which consists of receiving deposits and making loans and discounts, or of exercising fiduciary powers similar to those permitted to national banks under authority of the Comptroller of the Currency, and which is subject by law to supervision and examination by State or Federal authority having supervision over banking institutions. Such term also means a domestic building and loan association.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 202; Pub. L. 87–722, § 5, Sept. 28, 1962, 76 Stat. 670; Pub. L. 94–455, title XIX, § 1901(c)(5), Oct. 4, 1976, 90 Stat. 1803.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 202; Pub. L. 87–722, § 5, Sept. 28, 1962, 76 Stat. 670; Pub. L. 94–455, title XIX, § 1901(c)(5), Oct. 4, 1976, 90 Stat. 1803.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Pub. L. 94–455 substituted “or of any State” for “of any State, or of any Territory” after “District of Columbia)” and struck out “, Territorial,” after “examination by State”.
+1976—Pub. L. 94–455 substituted “or of any State” for “of any State, or of any Territory” after “District of Columbia)” and struck out “, Territorial,” after “examination by State”.
 
 1962—Pub. L. 87–722 substituted “authority of the Comptroller of the Currency” for “section 11(k) of the Federal Reserve Act (38 Stat. 262; 12 U.S.C. 248(k))”.
 
-### § 582. Bad debts, losses, and gains with respect to securities held by financial institutions
+### § 582. Bad debts, losses, and gains with respect to securities held by financial institutions
 
 **(a) Securities**
 
@@ -83,53 +83,53 @@ For purposes of subparagraph (A), the term “business development corporation�
 
 In the case of a foreign corporation referred to in subparagraph (A)(i), paragraph (1) shall only apply to gains and losses which are effectively connected with the conduct of a banking business in the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 202; Pub. L. 85–866, title I, § 34, Sept. 2, 1958, 72 Stat. 1632; Pub. L. 91–172, title IV, § 433(a), (c), Dec. 30, 1969, 83 Stat. 623, 624; Pub. L. 94–455, title X, § 1044(a), title XIV, § 1402(b)(1)(G), (2), Oct. 4, 1976, 90 Stat. 1642, 1732; Pub. L. 98–369, div. A, title X, § 1001(b)(6), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, § 671(b)(4), title IX, § 901(d)(3), Oct. 22, 1986, 100 Stat. 2318, 2379; Pub. L. 100–647, title I, § 1008(d)(3), Nov. 10, 1988, 102 Stat. 3439; Pub. L. 101–508, title XI, § 11801(a)(25), (c)(11), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 104–188, title I, § 1621(b)(4), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, § 835(b)(3), Oct. 22, 2004, 118 Stat. 1593.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 202; Pub. L. 85–866, title I, § 34, Sept. 2, 1958, 72 Stat. 1632; Pub. L. 91–172, title IV, § 433(a), (c), Dec. 30, 1969, 83 Stat. 623, 624; Pub. L. 94–455, title X, § 1044(a), title XIV, § 1402(b)(1)(G), (2), Oct. 4, 1976, 90 Stat. 1642, 1732; Pub. L. 98–369, div. A, title X, § 1001(b)(6), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, § 671(b)(4), title IX, § 901(d)(3), Oct. 22, 1986, 100 Stat. 2318, 2379; Pub. L. 100–647, title I, § 1008(d)(3), Nov. 10, 1988, 102 Stat. 3439; Pub. L. 101–508, title XI, § 11801(a)(25), (c)(11), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 104–188, title I, § 1621(b)(4), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, § 835(b)(3), Oct. 22, 2004, 118 Stat. 1593.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Small Business Investment Act of 1958, referred to in subsec. (c)(2)(A)(iii), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c)(2)(A)(iii), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 **Amendments**
 
-2004—Subsec. (c)(1). Pub. L. 108–357 struck out “, and any regular interest in a FASIT,” before “shall be treated”.
+2004—Subsec. (c)(1). Pub. L. 108–357 struck out “, and any regular interest in a FASIT,” before “shall be treated”.
 
-1996—Subsec. (c)(1). Pub. L. 104–188 inserted “, and any regular interest in a FASIT,” after “REMIC”.
+1996—Subsec. (c)(1). Pub. L. 104–188 inserted “, and any regular interest in a FASIT,” after “REMIC”.
 
-1990—Subsec. (c)(1). Pub. L. 101–508, § 11801(c)(11)(A), substituted “paragraph (2)” for “paragraph (5)”.
+1990—Subsec. (c)(1). Pub. L. 101–508, § 11801(c)(11)(A), substituted “paragraph (2)” for “paragraph (5)”.
 
-Subsec. (c)(2). Pub. L. 101–508, § 11801(a)(25), (c)(11)(B), redesignated par. (5) as (2) and struck out former par. (2) “Transitional rule for banks” which read as follows: “In the case of a bank, if the net long-term capital gains of the taxable year from sales or exchanges of qualifying securities exceed the net short-term capital losses of the taxable year from such sales or exchanges, such excess shall be considered as gain from the sale of a capital asset held for more than 6 months to the extent it does not exceed the net gain on sales and exchanges described in paragraph (1).”
+Subsec. (c)(2). Pub. L. 101–508, § 11801(a)(25), (c)(11)(B), redesignated par. (5) as (2) and struck out former par. (2) “Transitional rule for banks” which read as follows: “In the case of a bank, if the net long-term capital gains of the taxable year from sales or exchanges of qualifying securities exceed the net short-term capital losses of the taxable year from such sales or exchanges, such excess shall be considered as gain from the sale of a capital asset held for more than 6 months to the extent it does not exceed the net gain on sales and exchanges described in paragraph (1).”
 
-Subsec. (c)(3). Pub. L. 101–508, § 11801(a)(25), struck out par. (3) “Special rules” which read as follows: “For purposes of this subsection—
+Subsec. (c)(3). Pub. L. 101–508, § 11801(a)(25), struck out par. (3) “Special rules” which read as follows: “For purposes of this subsection—
 
 “(A) The term ‘qualifying security’ means a bond, debenture, note, or certificate or other evidence of indebtedness held by a bank on July 11, 1969.
 
 “(B) The amount treated as capital gain or loss from the sale or exchange of a qualifying security shall be determined by multiplying the amount of capital gain or loss from the sale or exchange of such security (determined without regard to this subsection) by a fraction, the numerator of which is the number of days before July 12, 1969, that such security was held by the bank, and the denominator of which is the number of days the security was held by the bank.”
 
-Subsec. (c)(4). Pub. L. 101–508, § 11801(a)(25), struck out par. (4) “Transitional rule for banks” which read as follows: “In the case of a corporation which would be a bank except for the fact that it is a foreign corporation, the net gain, if any, for the taxable year on sales and exchanges described in paragraph (1) shall be considered as gain from the sale or exchange of a capital asset to the extent such net gain does not exceed the portion of any capital loss carryover to such taxable year which is attributable to capital losses on sales or exchanges described in paragraph (1) for a taxable year beginning before July 12, 1969. For purposes of the preceding sentence, the portion of a net capital loss for a taxable year which is attributable to capital losses on sales or exchanges described in paragraph (1) is the amount of the net capital loss on such sales or exchanges for such taxable year (but not in excess of the net capital loss for such taxable year).”
+Subsec. (c)(4). Pub. L. 101–508, § 11801(a)(25), struck out par. (4) “Transitional rule for banks” which read as follows: “In the case of a corporation which would be a bank except for the fact that it is a foreign corporation, the net gain, if any, for the taxable year on sales and exchanges described in paragraph (1) shall be considered as gain from the sale or exchange of a capital asset to the extent such net gain does not exceed the portion of any capital loss carryover to such taxable year which is attributable to capital losses on sales or exchanges described in paragraph (1) for a taxable year beginning before July 12, 1969. For purposes of the preceding sentence, the portion of a net capital loss for a taxable year which is attributable to capital losses on sales or exchanges described in paragraph (1) is the amount of the net capital loss on such sales or exchanges for such taxable year (but not in excess of the net capital loss for such taxable year).”
 
-Subsec. (c)(5). Pub. L. 101–508, § 11801(c)(11)(B), redesignated par. (5) as (2).
+Subsec. (c)(5). Pub. L. 101–508, § 11801(c)(11)(B), redesignated par. (5) as (2).
 
 1988—Subsec. (a). Pub. L. 100–647 substituted “subsections (a) and (b) of section 166” for “subsections (a), (b), and (c) of section 166”.
 
-1986—Subsec. (c)(1). Pub. L. 99–514, § 901(d)(3)(A), substituted “referred to in paragraph (5)” for “to which section 585, 586, or 593 applies”.
+1986—Subsec. (c)(1). Pub. L. 99–514, § 901(d)(3)(A), substituted “referred to in paragraph (5)” for “to which section 585, 586, or 593 applies”.
 
-Pub. L. 99–514, § 671(b)(4), inserted “For purposes of the preceding sentence, any regular or residual interest in a REMIC shall be treated as an evidence of indebtedness.”
+Pub. L. 99–514, § 671(b)(4), inserted “For purposes of the preceding sentence, any regular or residual interest in a REMIC shall be treated as an evidence of indebtedness.”
 
-Subsec. (c)(5). Pub. L. 99–514, § 901(d)(3)(B), added par. (5).
+Subsec. (c)(5). Pub. L. 99–514, § 901(d)(3)(B), added par. (5).
 
 1984—Subsec. (c)(2). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-1976—Subsec. (c)(2). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
+1976—Subsec. (c)(2). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-Pub. L. 94–455, § 1402(b)(1)(G), (2), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+Pub. L. 94–455, § 1402(b)(1)(G), (2), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (c)(4). Pub. L. 94–455, § 1044(a), added par. (4).
+Subsec. (c)(4). Pub. L. 94–455, § 1044(a), added par. (4).
 
-1969—Pub. L. 91–172, § 433(c), substituted “Bad debts, losses, and gains with respect to securities held by financial institutions” for “Bad debt and loss deduction with respect to securities held by banks” in section catchline.
+1969—Pub. L. 91–172, § 433(c), substituted “Bad debts, losses, and gains with respect to securities held by financial institutions” for “Bad debt and loss deduction with respect to securities held by banks” in section catchline.
 
-Subsec. (c). Pub. L. 91–172, § 433(a), redesignated existing provisions as par. (1), inserted reference to sections 585, 586 and 593, and added pars. (2) and (3).
+Subsec. (c). Pub. L. 91–172, § 433(a), redesignated existing provisions as par. (1), inserted reference to sections 585, 586 and 593, and added pars. (2) and (3).
 
 1958—Subsec. (c). Pub. L. 85–866 struck out “with interest coupons or in registered form,” before “exceed the gains”.
 
@@ -159,19 +159,19 @@ Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 198
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title X, § 1044(b), Oct. 4, 1976, 90 Stat. 1643, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title X, § 1044(b), Oct. 4, 1976, 90 Stat. 1643, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** The amendment made by subsection (a) [amending this section] shall apply with respect to taxable years beginning after July 11, 1969.
 
 > **“(2)** If the refund or credit of any overpayment attributable to the application of the amendment made by subsection (a) to any taxable year is otherwise prevented by the operation of any law or rule of law (other than section 7122 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], relating to compromises) on the day which is one year after the date of the enactment of this Act [Oct. 4, 1976], such credit or refund shall be nevertheless allowed or made if claim therefor is filed on or before such day.”
 
-Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IV, § 433(d), Dec. 30, 1969, 83 Stat. 624, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title IV, § 433(d), Dec. 30, 1969, 83 Stat. 624, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** The amendments made by this section [amending this section and section 1243 of this title] shall apply to taxable years beginning after July 11, 1969.
 
@@ -185,7 +185,7 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-### [§ 583. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(82), Oct. 4, 1976, 90 Stat. 1778]
+### [§ 583. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(82), Oct. 4, 1976, 90 Stat. 1778]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 202, related to deductions by certain taxpayers of dividends paid to the United States or any instrumentality thereof exempt from Federal income taxes on the preferred stock of the corporation owned by the United States or such instrumentality.
 
@@ -195,7 +195,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 202, related to deductions by cer
 
 Repeal effective with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
-### § 584. Common trust funds
+### § 584. Common trust funds
 
 **(a) Definitions** For purposes of this subtitle, the term “common trust fund” means a fund maintained by a bank—
 
@@ -305,7 +305,7 @@ This subsection shall not apply to any common trust fund which would not meet th
 
 For purposes of this subtitle, the taxable year of any common trust fund shall be the calendar year.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 203; Pub. L. 87–722, § 4, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–272, title II, § 201(d)(5), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–414, § 1, Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title XIV, § 1402(b)(1)(H), (2), title XIX, §§ 1901(b)(1)(G), 1906(b)(13)(A), title XXI, §§ 2131(d), 2138, Oct. 4, 1976, 90 Stat. 1732, 1790, 1834, 1924, 1932; Pub. L. 95–30, title I, § 101(d)(7), May 23, 1977, 91 Stat. 133; Pub. L. 96–223, title IV, § 404(b)(3), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, § 301(b)(3), (6)(A), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–448, title I, § 103(a)(2), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, § 1001(b)(7), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, § 612(b)(2), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 100–647, title I, § 1008(e)(5)(A), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 104–188, title I, § 1805(a), Aug. 20, 1996, 110 Stat. 1894; Pub. L. 106–36, title III, § 3001(c)(1), June 25, 1999, 113 Stat. 183; Pub. L. 108–27, title III, § 302(e)(7), May 28, 2003, 117 Stat. 764.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 203; Pub. L. 87–722, § 4, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–272, title II, § 201(d)(5), Feb. 26, 1964, 78 Stat. 32; Pub. L. 94–414, § 1, Sept. 17, 1976, 90 Stat. 1273; Pub. L. 94–455, title XIV, § 1402(b)(1)(H), (2), title XIX, §§ 1901(b)(1)(G), 1906(b)(13)(A), title XXI, §§ 2131(d), 2138, Oct. 4, 1976, 90 Stat. 1732, 1790, 1834, 1924, 1932; Pub. L. 95–30, title I, § 101(d)(7), May 23, 1977, 91 Stat. 133; Pub. L. 96–223, title IV, § 404(b)(3), Apr. 2, 1980, 94 Stat. 306; Pub. L. 97–34, title III, § 301(b)(3), (6)(A), Aug. 13, 1981, 95 Stat. 270; Pub. L. 97–448, title I, § 103(a)(2), Jan. 12, 1983, 96 Stat. 2375; Pub. L. 98–369, div. A, title X, § 1001(b)(7), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, § 612(b)(2), Oct. 22, 1986, 100 Stat. 2250; Pub. L. 100–647, title I, § 1008(e)(5)(A), Nov. 10, 1988, 102 Stat. 3440; Pub. L. 104–188, title I, § 1805(a), Aug. 20, 1996, 110 Stat. 1894; Pub. L. 106–36, title III, § 3001(c)(1), June 25, 1999, 113 Stat. 183; Pub. L. 108–27, title III, § 302(e)(7), May 28, 2003, 117 Stat. 764.)
 
 **Editorial Notes**
 
@@ -313,31 +313,31 @@ For purposes of this subtitle, the taxable year of any common trust fund shall b
 
 2003—Subsec. (c). Pub. L. 108–27 inserted concluding provisions.
 
-1999—Subsec. (h)(3)(A). Pub. L. 106–36, § 3001(c)(1)(A), struck out “, and the fact that any property transferred by the common trust fund is subject to a liability,” before “shall be disregarded”.
+1999—Subsec. (h)(3)(A). Pub. L. 106–36, § 3001(c)(1)(A), struck out “, and the fact that any property transferred by the common trust fund is subject to a liability,” before “shall be disregarded”.
 
-Subsec. (h)(3)(B)(ii). Pub. L. 106–36, § 3001(c)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: “For purposes of clause (i), the term ‘assumed liabilities’ means the aggregate of—
+Subsec. (h)(3)(B)(ii). Pub. L. 106–36, § 3001(c)(1)(B), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: “For purposes of clause (i), the term ‘assumed liabilities’ means the aggregate of—
 
 “(I) any liability of the common trust fund assumed by any regulated investment company in connection with the transfer referred to in paragraph (1)(A), and
 
 “(II) any liability to which property so transferred is subject.”
 
-Subsec. (h)(3)(C). Pub. L. 106–36, § 3001(c)(1)(B), added subpar. (C).
+Subsec. (h)(3)(C). Pub. L. 106–36, § 3001(c)(1)(B), added subpar. (C).
 
 1996—Subsecs. (h), (i). Pub. L. 104–188 added subsec. (h) and redesignated former subsec. (h) as (i).
 
 1988—Subsec. (h). Pub. L. 100–647 added subsec. (h).
 
-1986—Subsec. (c). Pub. L. 99–514, § 612(b)(2)(B), substituted “1 year” for “6 months” wherever appearing in pars. (1) and (2).
+1986—Subsec. (c). Pub. L. 99–514, § 612(b)(2)(B), substituted “1 year” for “6 months” wherever appearing in pars. (1) and (2).
 
-Pub. L. 99–514, § 612(b)(2)(A), amended subsec. (c) generally, restating subpars. (A) to (C) of former par. (1) as pars. (1) to (3) and striking out former par. (2) which read as follows: “The proportionate share of each participant in the amount of dividends or interest received by the common trust fund and to which section 116 or 128 applies shall be considered for purposes of such section as having been received by such participant.”
+Pub. L. 99–514, § 612(b)(2)(A), amended subsec. (c) generally, restating subpars. (A) to (C) of former par. (1) as pars. (1) to (3) and striking out former par. (2) which read as follows: “The proportionate share of each participant in the amount of dividends or interest received by the common trust fund and to which section 116 or 128 applies shall be considered for purposes of such section as having been received by such participant.”
 
 1984—Subsec. (c)(1)(A), (B). Pub. L. 98–369 substituted “6 months” for “1 year”, wherever appearing, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
 1983—Subsec. (c)(2). Pub. L. 97–448 reenacted par. (2) without change.
 
-1981—Subsec. (c)(2). Pub. L. 97–34, § 301(b)(6)(A), inserted reference to “interest” in heading and text, which continued the amendment made by Pub. L. 96–223.
+1981—Subsec. (c)(2). Pub. L. 97–34, § 301(b)(6)(A), inserted reference to “interest” in heading and text, which continued the amendment made by Pub. L. 96–223.
 
-Pub. L. 97–34, § 301(b)(3), inserted “or 128” after “section 116”.
+Pub. L. 97–34, § 301(b)(3), inserted “or 128” after “section 116”.
 
 1980—Subsec. (c)(2). Pub. L. 96–223 inserted “or interest” after “dividends” in heading and text.
 
@@ -345,17 +345,17 @@ Pub. L. 97–34, § 301(b)(3), inserted “or 128” after “section 116”.
 
 1976—Subsec. (a). Pub. L. 94–414 inserted provision relating to treatment of two or more bank members of same affiliated group.
 
-Subsec. (a)(1). Pub. L. 94–455, § 2138, designated existing provisions relating to trustee, executor, administrator and guardian as subpar. (A) and added subpar. (B).
+Subsec. (a)(1). Pub. L. 94–455, § 2138, designated existing provisions relating to trustee, executor, administrator and guardian as subpar. (A) and added subpar. (B).
 
-Subsec. (c)(1)(A), (B). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year” wherever appearing.
+Subsec. (c)(1)(A), (B). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year” wherever appearing.
 
-Pub. L. 94–455, § 1402(b)(1)(H), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+Pub. L. 94–455, § 1402(b)(1)(H), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (c)(2). Pub. L. 94–455, § 1901(b)(1)(G), struck out provisions relating to partially tax exempt interest and election of a common trust fund to amortize premiums on bonds and other obligations.
+Subsec. (c)(2). Pub. L. 94–455, § 1901(b)(1)(G), struck out provisions relating to partially tax exempt interest and election of a common trust fund to amortize premiums on bonds and other obligations.
 
-Subsec. (e). Pub. L. 94–455, § 2131(d), inserted “The admission of a participant shall be treated with respect to the participant as the purchase of, or exchange for, the participating interest”.
+Subsec. (e). Pub. L. 94–455, § 2131(d), inserted “The admission of a participant shall be treated with respect to the participant as the purchase of, or exchange for, the participating interest”.
 
-Subsec. (g). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (g). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 1964—Subsec. (c)(2). Pub. L. 88–272 struck out “section 34 or” before “section 116 applies”.
 
@@ -373,11 +373,11 @@ Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see s
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–188, title I, § 1805(b), Aug. 20, 1996, 110 Stat. 1895, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transfers after December 31, 1995.”
+Pub. L. 104–188, title I, § 1805(b), Aug. 20, 1996, 110 Stat. 1895, provided that: “The amendment made by subsection (a) [amending this section] shall apply to transfers after December 31, 1995.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1008(e)(5)(B), Nov. 10, 1988, 102 Stat. 3440, provided that:
+Pub. L. 100–647, title I, § 1008(e)(5)(B), Nov. 10, 1988, 102 Stat. 3440, provided that:
 
 > “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the amendments made by section 806 of the Reform Act [Pub. L. 99–514], except that section 806(e)(1) [set out as a note under section 1378 of this title] shall be applied by substituting ‘December 31, 1987’ for ‘December 31, 1986’. For purposes of section 806(e)(2) of the Reform Act [set out as a note under section 1378 of this title]—
 
@@ -387,7 +387,7 @@ Pub. L. 100–647, title I, § 1008(e)(5)(B), Nov. 10, 1988, 102 Stat. 3440, p
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title VI, § 612(b)(2)(B), Oct. 22, 1986, 100 Stat. 2250, provided that: “If the amendments made by section 1001 of the Tax Reform Act of 1984 [Pub. L. 98–369, amending this section and sections 166, 341, 402, 403, 423, 582, 631, 642, 702, 818, 852, 856, 857, 1222, 1223, 1231, 1232, 1233, 1234, 1235, 1246, 1247, and 1248 of this title] cease to apply [see Effective Date of 1984 Amendment note below], effective with respect to property to which such amendments do not apply, subsection (c) of section 584 is amended by striking out ‘6 months’ each place it appears and inserting in lieu thereof ‘1 year’.”
+Pub. L. 99–514, title VI, § 612(b)(2)(B), Oct. 22, 1986, 100 Stat. 2250, provided that: “If the amendments made by section 1001 of the Tax Reform Act of 1984 [Pub. L. 98–369, amending this section and sections 166, 341, 402, 403, 423, 582, 631, 642, 702, 818, 852, 856, 857, 1222, 1223, 1231, 1232, 1233, 1234, 1235, 1246, 1247, and 1248 of this title] cease to apply [see Effective Date of 1984 Amendment note below], effective with respect to property to which such amendments do not apply, subsection (c) of section 584 is amended by striking out ‘6 months’ each place it appears and inserting in lieu thereof ‘1 year’.”
 
 Amendment by section 612(b)(2) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 612(c) of Pub. L. 99–514, set out as a note under section 301 of this title.
 
@@ -413,21 +413,21 @@ Amendment by Pub. L. 95–30 applicable to taxable years beginning after Dec. 31
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XXI, § 2131(f)(6), Oct. 4, 1976, 90 Stat. 1925, provided that: “The amendments made by subsections (d) and (e) [amending this section and section 683 of this title] shall take effect on April 8, 1976, in taxable years ending on or after such date.”
+Pub. L. 94–455, title XXI, § 2131(f)(6), Oct. 4, 1976, 90 Stat. 1925, provided that: “The amendments made by subsections (d) and (e) [amending this section and section 683 of this title] shall take effect on April 8, 1976, in taxable years ending on or after such date.”
 
-Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 Amendment by section 1901(b)(1)(G) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
-Pub. L. 94–414, § 2, Sept. 17, 1976, 90 Stat. 1273, provided that: “The amendment made by the first section of this Act [amending this section] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–414, § 2, Sept. 17, 1976, 90 Stat. 1273, provided that: “The amendment made by the first section of this Act [amending this section] shall apply to taxable years beginning after December 31, 1975.”
 
 **Effective Date of 1964 Amendment**
 
 Amendment by Pub. L. 88–272 applicable with respect to dividends received after Dec. 31, 1964, in taxable years ending after such date, see section 201(e) of Pub. L. 88–272, set out as a note under section 22 of this title.
 
-### § 585. Reserves for losses on loans of banks
+### § 585. Reserves for losses on loans of banks
 
 **(a) Reserve for bad debts**
 
@@ -562,7 +562,7 @@ The term “disqualification year” means, with respect to any bank, the 1st ta
 
 In the case of a parent-subsidiary controlled group, any election under this section shall be made separately by each member of such group.
 
-(Added Pub. L. 91–172, title IV, § 431(a), Dec. 30, 1969, 83 Stat. 616; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title II, § 267(a), Aug. 13, 1981, 95 Stat. 266; Pub. L. 99–514, title IX, § 901(a), (d)(1), Oct. 22, 1986, 100 Stat. 2375, 2378; Pub. L. 100–203, title X, § 10301(b)(2), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, § 1009(a)(2), (3), Nov. 10, 1988, 102 Stat. 3445; Pub. L. 101–508, title XI, § 11801(a)(26), (c)(12)(C)–(E), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 104–188, title I, § 1616(b)(6), Aug. 20, 1996, 110 Stat. 1856.)
+(Added Pub. L. 91–172, title IV, § 431(a), Dec. 30, 1969, 83 Stat. 616; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title II, § 267(a), Aug. 13, 1981, 95 Stat. 266; Pub. L. 99–514, title IX, § 901(a), (d)(1), Oct. 22, 1986, 100 Stat. 2375, 2378; Pub. L. 100–203, title X, § 10301(b)(2), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, § 1009(a)(2), (3), Nov. 10, 1988, 102 Stat. 3445; Pub. L. 101–508, title XI, § 11801(a)(26), (c)(12)(C)–(E), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 104–188, title I, § 1616(b)(6), Aug. 20, 1996, 110 Stat. 1856.)
 
 **Editorial Notes**
 
@@ -570,15 +570,15 @@ In the case of a parent-subsidiary controlled group, any election under this sec
 
 1996—Subsec. (a)(2)(A). Pub. L. 104–188 struck out “other than an organization to which section 593 applies” after “section 581)”.
 
-1990—Subsec. (b)(1). Pub. L. 101–508, § 11801(c)(12)(C), substituted “shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).” for “shall not exceed the greater of—
+1990—Subsec. (b)(1). Pub. L. 101–508, § 11801(c)(12)(C), substituted “shall not exceed the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (2).” for “shall not exceed the greater of—
 
 “(A) for taxable years beginning before 1988 the addition to the reserve for losses on loans determined under the percentage method as provided in paragraph (2), or
 
 “(B) the addition to the reserve for losses on loans determined under the experience method as provided in paragraph (3).”
 
-Subsec. (b)(2). Pub. L. 101–508, § 11801(a)(26), (c)(12)(D), redesignated par. (3) as (2) and struck out former par. (2) which related to use of percentage method for determining amount to add to reserve for bad debts.
+Subsec. (b)(2). Pub. L. 101–508, § 11801(a)(26), (c)(12)(D), redesignated par. (3) as (2) and struck out former par. (2) which related to use of percentage method for determining amount to add to reserve for bad debts.
 
-Subsec. (b)(3). Pub. L. 101–508, § 11801(c)(12)(D), (E), redesignated par. (4) as (3), substituted heading for one which read: “Regulations; definition of eligible loan, etc.”, and amended text generally. Prior to amendment, text read as follows: “The Secretary shall define the terms ‘loan’ and ‘eligible loan’ and prescribe such regulations as may be necessary to carry out the purposes of this section; except that the term ‘eligible loan’ shall not include—
+Subsec. (b)(3). Pub. L. 101–508, § 11801(c)(12)(D), (E), redesignated par. (4) as (3), substituted heading for one which read: “Regulations; definition of eligible loan, etc.”, and amended text generally. Prior to amendment, text read as follows: “The Secretary shall define the terms ‘loan’ and ‘eligible loan’ and prescribe such regulations as may be necessary to carry out the purposes of this section; except that the term ‘eligible loan’ shall not include—
 
 “(A) a loan to a bank (as defined in section 581),
 
@@ -594,27 +594,27 @@ Subsec. (b)(3). Pub. L. 101–508, § 11801(c)(12)(D), (E), redesignated par. 
 
 “(G) commercial paper, including short-term promissory notes which may be purchased on the open market.” Former par. (3) redesignated (2).
 
-Subsec. (b)(4). Pub. L. 101–508, § 11801(c)(12)(D), redesignated par. (4) as (3).
+Subsec. (b)(4). Pub. L. 101–508, § 11801(c)(12)(D), redesignated par. (4) as (3).
 
-1988—Subsec. (c)(3)(A)(iii)(I). Pub. L. 100–647, § 1009(a)(2)(B), substituted “such higher percentage of such net amount as the taxpayer may elect” for “such greater amount as the taxpayer may designate”.
+1988—Subsec. (c)(3)(A)(iii)(I). Pub. L. 100–647, § 1009(a)(2)(B), substituted “such higher percentage of such net amount as the taxpayer may elect” for “such greater amount as the taxpayer may designate”.
 
-Subsec. (c)(3)(B)(ii). Pub. L. 100–647, § 1009(a)(2)(C), substituted “elects a higher percentage” for “designates an amount”.
+Subsec. (c)(3)(B)(ii). Pub. L. 100–647, § 1009(a)(2)(C), substituted “elects a higher percentage” for “designates an amount”.
 
-Subsec. (c)(4). Pub. L. 100–647, § 1009(a)(3), inserted at end “If the amount of the reserve referred to in subparagraph (B) as of the close of any taxable year exceeds the outstanding balance (as of such time) of the loans referred to in subparagraph (B), such excess shall be included in gross income for such taxable year.”
+Subsec. (c)(4). Pub. L. 100–647, § 1009(a)(3), inserted at end “If the amount of the reserve referred to in subparagraph (B) as of the close of any taxable year exceeds the outstanding balance (as of such time) of the loans referred to in subparagraph (B), such excess shall be included in gross income for such taxable year.”
 
-Subsec. (c)(5)(C). Pub. L. 100–647, § 1009(a)(2)(A), added subpar. (C).
+Subsec. (c)(5)(C). Pub. L. 100–647, § 1009(a)(2)(A), added subpar. (C).
 
 1987—Subsec. (c)(3)(C). Pub. L. 100–203 substituted “section 6655(e)(2)(A)(i)” for “section 6655(d)(3)”.
 
-1986—Subsec. (a). Pub. L. 99–514, § 901(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This section shall apply to the following financial institutions:
+1986—Subsec. (a). Pub. L. 99–514, § 901(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This section shall apply to the following financial institutions:
 
 “(1) any bank (as defined in section 581) other than an organization to which section 593 applies, and
 
 “(2) any corporation to which paragraph (1) would apply except for the fact that it is a foreign corporation, and in the case of any such foreign corporation this section shall apply only with respect to loans outstanding the interest on which is effectively connected with the conduct of a banking business within the United States.”
 
-Subsec. (b)(1). Pub. L. 99–514, § 901(d)(1), substituted “subsection (a)” for “section 166(c)”.
+Subsec. (b)(1). Pub. L. 99–514, § 901(d)(1), substituted “subsection (a)” for “section 166(c)”.
 
-Subsec. (c). Pub. L. 99–514, § 901(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 99–514, § 901(a)(2), added subsec. (c).
 
 1981—Subsec. (b)(2). Pub. L. 97–34 defined “allowable percentage” to mean 1.0 percent for taxable years beginning in 1982 and 0.6 percent for taxable years beginning after 1982, previously so applicable for taxable years beginning after 1981 and redefined “base year” by substituting the last taxable year beginning before 1976 for taxable years beginning after 1975 but before 1983, for the last taxable year beginning before 1976 for taxable years after 1975 but before 1982; and the last taxable year beginning before 1983 for taxable years beginning after 1982, for the last taxable year beginning before 1982 for taxable years beginning after 1981.
 
@@ -632,7 +632,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title X, § 10301(c), Dec. 22, 1987, 101 Stat. 1330–429, provided that: “The amendments made by this section [amending this section and sections 6201, 6425, 6601, 6651, and 6655 of this title and repealing section 6154 of this title] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, § 10301(c), Dec. 22, 1987, 101 Stat. 1330–429, provided that: “The amendments made by this section [amending this section and sections 6201, 6425, 6601, 6651, and 6655 of this title and repealing section 6154 of this title] shall apply to taxable years beginning after December 31, 1987.”
 
 **Effective Date of 1986 Amendment**
 
@@ -640,19 +640,19 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title II, § 267(b), Aug. 13, 1981, 95 Stat. 267, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after 1981.”
+Pub. L. 97–34, title II, § 267(b), Aug. 13, 1981, 95 Stat. 267, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after 1981.”
 
 **Effective Date**
 
-Pub. L. 91–172, title IV, § 431(d), Dec. 30, 1969, 83 Stat. 620, provided that: “The amendments made by subsections (a) [enacting this section and section 586 of this title] and (c) [amending section 166 of this title] shall apply to taxable years beginning after July 11, 1969.”
+Pub. L. 91–172, title IV, § 431(d), Dec. 30, 1969, 83 Stat. 620, provided that: “The amendments made by subsections (a) [enacting this section and section 586 of this title] and (c) [amending section 166 of this title] shall apply to taxable years beginning after July 11, 1969.”
 
 **Savings Provision**
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-### [§ 586. Repealed. Pub. L. 99–514, title IX, § 901(c), Oct. 22, 1986, 100 Stat. 2378]
+### [§ 586. Repealed. Pub. L. 99–514, title IX, § 901(c), Oct. 22, 1986, 100 Stat. 2378]
 
-Section, added Pub. L. 91–172, title IV, § 431(a), Dec. 30, 1969, 83 Stat. 618; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to reserves for losses on loans of small business investment companies, etc.
+Section, added Pub. L. 91–172, title IV, § 431(a), Dec. 30, 1969, 83 Stat. 618; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to reserves for losses on loans of small business investment companies, etc.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -666,25 +666,25 @@ Repeal applicable to taxable years beginning after Dec. 31, 1986, see section 90
 
 **Amendments**
 
-1996—Pub. L. 104–188, title I, § 1616(b)(16), Aug. 20, 1996, 110 Stat. 1857, struck out items 595 “Foreclosure on property securing loans” and 596 “Limitation on dividends received deduction”.
+1996—Pub. L. 104–188, title I, § 1616(b)(16), Aug. 20, 1996, 110 Stat. 1857, struck out items 595 “Foreclosure on property securing loans” and 596 “Limitation on dividends received deduction”.
 
-1989—Pub. L. 101–73, title XIV, § 1401(b)(1), Aug. 9, 1989, 103 Stat. 549, repealed amendment made by Pub. L. 99–514, § 904(b)(2), see 1986 Amendment note below.
+1989—Pub. L. 101–73, title XIV, § 1401(b)(1), Aug. 9, 1989, 103 Stat. 549, repealed amendment made by Pub. L. 99–514, § 904(b)(2), see 1986 Amendment note below.
 
-Pub. L. 101–73, title XIV, § 1401(a)(3)(C), Aug. 9, 1989, 103 Stat. 549, substituted “Treatment of transactions in which Federal financial assistance provided” for “FSLIC or FDIC financial assistance” in item 597.
+Pub. L. 101–73, title XIV, § 1401(a)(3)(C), Aug. 9, 1989, 103 Stat. 549, substituted “Treatment of transactions in which Federal financial assistance provided” for “FSLIC or FDIC financial assistance” in item 597.
 
-1988—Pub. L. 100–647, title IV, § 4012(b)(2)(D)(ii), Nov. 10, 1988, 102 Stat. 3658, substituted “FSLIC or FDIC” for “FSLIC” in item 597.
+1988—Pub. L. 100–647, title IV, § 4012(b)(2)(D)(ii), Nov. 10, 1988, 102 Stat. 3658, substituted “FSLIC or FDIC” for “FSLIC” in item 597.
 
-1986—Pub. L. 99–514, title IX, § 904(b)(2), (c)(2)(A), Oct. 22, 1986, 100 Stat. 2385, as amended by Pub. L. 100–647, title IV, § 4012(a)(2), Nov. 10, 1988, 102 Stat. 3656, which, applicable to transfers after Dec. 31, 1989, in taxable years ending after that date, directed amendment of analysis by striking out item 597, was repealed by Pub. L. 101–73, title XIV, § 1401(b)(1), (c)(4), Aug. 9, 1989, 103 Stat. 549, 550, eff. Oct. 22, 1986, and applicable as if the amendments made by such section had not been enacted.
+1986—Pub. L. 99–514, title IX, § 904(b)(2), (c)(2)(A), Oct. 22, 1986, 100 Stat. 2385, as amended by Pub. L. 100–647, title IV, § 4012(a)(2), Nov. 10, 1988, 102 Stat. 3656, which, applicable to transfers after Dec. 31, 1989, in taxable years ending after that date, directed amendment of analysis by striking out item 597, was repealed by Pub. L. 101–73, title XIV, § 1401(b)(1), (c)(4), Aug. 9, 1989, 103 Stat. 549, 550, eff. Oct. 22, 1986, and applicable as if the amendments made by such section had not been enacted.
 
-1981—Pub. L. 97–34, title II, § 244(b), Aug. 13, 1981, 95 Stat. 255, added item 597.
+1981—Pub. L. 97–34, title II, § 244(b), Aug. 13, 1981, 95 Stat. 255, added item 597.
 
-1976—Pub. L. 94–455, title XIX, § 1901(b)(19), Oct. 4, 1976, 90 Stat. 1796, struck out item 592 “Deduction for repayment of certain loans”.
+1976—Pub. L. 94–455, title XIX, § 1901(b)(19), Oct. 4, 1976, 90 Stat. 1796, struck out item 592 “Deduction for repayment of certain loans”.
 
-1969—Pub. L. 91–172, title IV, § 434(b)(2), Dec. 30, 1969, 83 Stat. 625, added item 596.
+1969—Pub. L. 91–172, title IV, § 434(b)(2), Dec. 30, 1969, 83 Stat. 625, added item 596.
 
-1962—Pub. L. 87–834, § 6(d), Oct. 16, 1962, 76 Stat. 984, substituted “Reserves for losses on loans” for “Additions to reserve for bad debts” in item 593, and added item 595.
+1962—Pub. L. 87–834, § 6(d), Oct. 16, 1962, 76 Stat. 984, substituted “Reserves for losses on loans” for “Additions to reserve for bad debts” in item 593, and added item 595.
 
-### § 591. Deduction for dividends paid on deposits
+### § 591. Deduction for dividends paid on deposits
 
 **(a) In general**
 
@@ -696,7 +696,7 @@ In the case of mutual savings banks, cooperative banks, domestic building and lo
 
 **(2)** which is subject to, and operates under, Federal or State laws relating to mutual savings bank.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 204; Pub. L. 87–834, § 6(f), Oct. 16, 1962, 76 Stat. 984; Pub. L. 97–34, title II, § 245(a), Aug. 13, 1981, 95 Stat. 255.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 204; Pub. L. 87–834, § 6(f), Oct. 16, 1962, 76 Stat. 984; Pub. L. 97–34, title II, § 245(a), Aug. 13, 1981, 95 Stat. 255.)
 
 **Editorial Notes**
 
@@ -710,9 +710,9 @@ In the case of mutual savings banks, cooperative banks, domestic building and lo
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title II, § 246(d), Aug. 13, 1981, 95 Stat. 256, provided that: “The amendments made by section 245 [amending this section and section 593 of this title] shall apply with respect to taxable years ending after the date of the enactment of this Act [Aug. 13, 1981].”
+Pub. L. 97–34, title II, § 246(d), Aug. 13, 1981, 95 Stat. 256, provided that: “The amendments made by section 245 [amending this section and section 593 of this title] shall apply with respect to taxable years ending after the date of the enactment of this Act [Aug. 13, 1981].”
 
-### [§ 592. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(83), Oct. 4, 1976, 90 Stat. 1778]
+### [§ 592. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(83), Oct. 4, 1976, 90 Stat. 1778]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 205, authorized a deduction by mutual savings banks for repayment of loans made before Sept. 1, 1951, by the United States or any agency or instrumentality thereof, or any mutual fund established under the authority of the laws of any State.
 
@@ -722,7 +722,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 205, authorized a deduction by mu
 
 Repeal effective with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
-### § 593. Reserves for losses on loans
+### § 593. Reserves for losses on loans
 
 **(a) Reserve for bad debts**
 
@@ -950,7 +950,7 @@ The balance taken into account by a taxpayer under paragraph (2)(A)(ii) of this 
 
 The Secretary shall prescribe such regulations as may be necessary to carry out this subsection and subsection (e), including regulations providing for the application of such subsections in the case of acquisitions, mergers, spin-offs, and other reorganizations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 205; Pub. L. 87–834, § 6(a), Oct. 16, 1962, 76 Stat. 977; Pub. L. 91–172, title IV, § 432(a), (b), Dec. 30, 1969, 83 Stat. 620, 622; Pub. L. 94–455, title XIX, § 1901(a)(84), Oct. 4, 1976, 90 Stat. 1778; Pub. L. 96–222, title I, § 104(a)(3)(C), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–34, title II, §§ 243, 245(b), (c), Aug. 13, 1981, 95 Stat. 255, 256; Pub. L. 99–514, title III, § 311(b)(2), title VI, § 671(b)(2), title IX, § 901(b)(1)–(3), (d)(2), Oct. 22, 1986, 100 Stat. 2219, 2317, 2378; Pub. L. 100–647, title I, §§ 1003(c)(3), 1006(t)(25)(B), Nov. 10, 1988, 102 Stat. 3384, 3426; Pub. L. 101–73, title XIV, § 1401(b)(3), Aug. 9, 1989, 103 Stat. 550; Pub. L. 101–508, title XI, § 11801(c)(12)(F), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§ 1616(a), (b)(7), 1704(t)(51), Aug. 20, 1996, 110 Stat. 1854, 1857, 1890; Pub. L. 105–34, title XVI, § 1601(f)(5)(A), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 115–141, div. U, title IV, § 401(b)(24), Mar. 23, 2018, 132 Stat. 1203.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 205; Pub. L. 87–834, § 6(a), Oct. 16, 1962, 76 Stat. 977; Pub. L. 91–172, title IV, § 432(a), (b), Dec. 30, 1969, 83 Stat. 620, 622; Pub. L. 94–455, title XIX, § 1901(a)(84), Oct. 4, 1976, 90 Stat. 1778; Pub. L. 96–222, title I, § 104(a)(3)(C), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–34, title II, §§ 243, 245(b), (c), Aug. 13, 1981, 95 Stat. 255, 256; Pub. L. 99–514, title III, § 311(b)(2), title VI, § 671(b)(2), title IX, § 901(b)(1)–(3), (d)(2), Oct. 22, 1986, 100 Stat. 2219, 2317, 2378; Pub. L. 100–647, title I, §§ 1003(c)(3), 1006(t)(25)(B), Nov. 10, 1988, 102 Stat. 3384, 3426; Pub. L. 101–73, title XIV, § 1401(b)(3), Aug. 9, 1989, 103 Stat. 550; Pub. L. 101–508, title XI, § 11801(c)(12)(F), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§ 1616(a), (b)(7), 1704(t)(51), Aug. 20, 1996, 110 Stat. 1854, 1857, 1890; Pub. L. 105–34, title XVI, § 1601(f)(5)(A), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 115–141, div. U, title IV, § 401(b)(24), Mar. 23, 2018, 132 Stat. 1203.)
 
 **Editorial Notes**
 
@@ -966,91 +966,91 @@ Section 5(e) of the Federal Deposit Insurance Act, referred to in subsec. (e)(1)
 
 1997—Subsec. (e)(1)(A). Pub. L. 105–34 inserted “(and, in the case of an S corporation, the accumulated adjustments account, as defined in section 1368(e)(1))” after “1951,”.
 
-1996—Subsec. (b)(1)(A), (3). Pub. L. 104–188, § 1704(t)(51), provided that the amendment made by section 11801(c)(12)(F) of Pub. L. 101–508 shall be applied as if “and (3)” appeared instead of “and (E)”. See 1990 Amendment note below.
+1996—Subsec. (b)(1)(A), (3). Pub. L. 104–188, § 1704(t)(51), provided that the amendment made by section 11801(c)(12)(F) of Pub. L. 101–508 shall be applied as if “and (3)” appeared instead of “and (E)”. See 1990 Amendment note below.
 
-Subsec. (e)(1). Pub. L. 104–188, § 1616(b)(7)(A), substituted “by a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “by a domestic building and loan association or an institution that is treated as a mutual savings bank under section 591(b)” in introductory provisions.
+Subsec. (e)(1). Pub. L. 104–188, § 1616(b)(7)(A), substituted “by a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “by a domestic building and loan association or an institution that is treated as a mutual savings bank under section 591(b)” in introductory provisions.
 
-Pub. L. 104–188, § 1616(b)(7)(C)–(E), in closing provisions, substituted “a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “the association or an institution that is treated as a mutual savings bank under section 591(b)” after “complete liquidation of” and for “an association” after “an interest in” and inserted at end “This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.”
+Pub. L. 104–188, § 1616(b)(7)(C)–(E), in closing provisions, substituted “a taxpayer having a balance described in subsection (g)(2)(A)(ii)” for “the association or an institution that is treated as a mutual savings bank under section 591(b)” after “complete liquidation of” and for “an association” after “an interest in” and inserted at end “This paragraph shall not apply to any distribution of all of the stock of a bank (as defined in section 581) to another corporation if, immediately after the distribution, such bank and such other corporation are members of the same affiliated group (as defined in section 1504) and the provisions of section 5(e) of the Federal Deposit Insurance Act (as in effect on December 31, 1995) or similar provisions are in effect.”
 
-Subsec. (e)(1)(B). Pub. L. 104–188, § 1616(b)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “then out of the reserve for losses on qualifying real property loans, to the extent additions to such reserve exceed the additions which would have been allowed under subsection (b)(3),”.
+Subsec. (e)(1)(B). Pub. L. 104–188, § 1616(b)(7)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “then out of the reserve for losses on qualifying real property loans, to the extent additions to such reserve exceed the additions which would have been allowed under subsection (b)(3),”.
 
-Subsecs. (f), (g). Pub. L. 104–188, § 1616(a), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 104–188, § 1616(a), added subsecs. (f) and (g).
 
-1990—Subsec. (b). Pub. L. 101–508, § 11801(c)(12)(F), which directed the amendment of pars. (1)(A) and (E) by substituting “section 585(b)(2)” for “section 585(b)(3)”, was executed to pars. (1)(A) and (3). See 1996 Amendment note above.
+1990—Subsec. (b). Pub. L. 101–508, § 11801(c)(12)(F), which directed the amendment of pars. (1)(A) and (E) by substituting “section 585(b)(2)” for “section 585(b)(3)”, was executed to pars. (1)(A) and (3). See 1996 Amendment note above.
 
 1989—Subsec. (e)(1). Pub. L. 101–73 amended last sentence generally. Prior to amendment, last sentence read as follows: “This paragraph shall not apply to any transaction to which section 381 (relating to carryovers in certain corporate acquisitions) applies, or to any distribution to the Federal Savings and Loan Insurance Corporation in redemption of an interest in an association, if such interest was originally received by the Federal Savings and Loan Insurance Corporation in exchange for financial assistance pursuant to section 406(f) of the National Housing Act (12 U.S.C. sec. 1729(f)).”
 
-1988—Subsec. (b)(2)(D)(v). Pub. L. 100–647, § 1003(c)(3), added cl. (v).
+1988—Subsec. (b)(2)(D)(v). Pub. L. 100–647, § 1003(c)(3), added cl. (v).
 
-Subsec. (d)(4). Pub. L. 100–647, § 1006(t)(25)(B), inserted at end “For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC’s are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.”
+Subsec. (d)(4). Pub. L. 100–647, § 1006(t)(25)(B), inserted at end “For purposes of determining whether any interest in a REMIC qualifies under the preceding sentence, any interest in another REMIC held by such REMIC shall be treated as a qualifying real property loan under principles similar to the principles of the preceding sentence, except that if such REMIC’s are part of a tiered structure, they shall be treated as 1 REMIC for purposes of this paragraph.”
 
-1986—Subsec. (a). Pub. L. 99–514, § 901(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This section shall apply to any mutual savings bank, domestic building and loan association, or cooperative bank without capital stock organized and operated for mutual purposes and without profit.”
+1986—Subsec. (a). Pub. L. 99–514, § 901(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This section shall apply to any mutual savings bank, domestic building and loan association, or cooperative bank without capital stock organized and operated for mutual purposes and without profit.”
 
-Subsec. (b)(1). Pub. L. 99–514, § 901(d)(2)(A), (B), in introductory provisions, substituted “subsection (a)” for “section 166(c)” and in subpar. (B), substituted “paragraph (2) or (3), whichever is the larger” for “paragraph (2), (3), or (4), whichever amount is the largest” in introductory provisions and “paragraph (3)” for “paragraph (4)” in cl. (i).
+Subsec. (b)(1). Pub. L. 99–514, § 901(d)(2)(A), (B), in introductory provisions, substituted “subsection (a)” for “section 166(c)” and in subpar. (B), substituted “paragraph (2) or (3), whichever is the larger” for “paragraph (2), (3), or (4), whichever amount is the largest” in introductory provisions and “paragraph (3)” for “paragraph (4)” in cl. (i).
 
-Subsec. (b)(2)(A). Pub. L. 99–514, § 901(b)(2)(A), added subpar. (A) and struck out former subpar. (A) which provided that subject to subpars. (B), (C), and (D), the amount determined under par. (2) was to be an amount equal to applicable percentage of taxable income for such year determined under a table which fixed specific percentages for taxable years 1976, 1977, 1978, and 1979 or thereafter.
+Subsec. (b)(2)(A). Pub. L. 99–514, § 901(b)(2)(A), added subpar. (A) and struck out former subpar. (A) which provided that subject to subpars. (B), (C), and (D), the amount determined under par. (2) was to be an amount equal to applicable percentage of taxable income for such year determined under a table which fixed specific percentages for taxable years 1976, 1977, 1978, and 1979 or thereafter.
 
-Subpar. (b)(2)(B). Pub. L. 99–514, § 901(b)(2)(A), added subpar. (B), which incorporated provisions of former subpar. (C), relating to reducing amounts referred to in par. (1)(A), and struck out former subpar. (B) which provided for reduction of applicable percentage in certain cases.
+Subpar. (b)(2)(B). Pub. L. 99–514, § 901(b)(2)(A), added subpar. (B), which incorporated provisions of former subpar. (C), relating to reducing amounts referred to in par. (1)(A), and struck out former subpar. (B) which provided for reduction of applicable percentage in certain cases.
 
-Subsec. (b)(2)(C). Pub. L. 99–514, § 901(b)(2)(A), (B), redesignated former subpar. (D) as (C) and struck out former subpar. (C) which related to reduction for amounts referred to in par. (1)(A). See par. (1)(B).
+Subsec. (b)(2)(C). Pub. L. 99–514, § 901(b)(2)(A), (B), redesignated former subpar. (D) as (C) and struck out former subpar. (C) which related to reduction for amounts referred to in par. (1)(A). See par. (1)(B).
 
-Subsec. (b)(2)(D). Pub. L. 99–514, § 901(b)(2)(B), (d)(2)(B), redesignated subpar. (E) as (D) and substituted in cl. (iv) “8 percent” for “the applicable percentage (determined under subparagraphs (A) and (B))”. Former subpar. (D) redesignated (C).
+Subsec. (b)(2)(D). Pub. L. 99–514, § 901(b)(2)(B), (d)(2)(B), redesignated subpar. (E) as (D) and substituted in cl. (iv) “8 percent” for “the applicable percentage (determined under subparagraphs (A) and (B))”. Former subpar. (D) redesignated (C).
 
-Subsec. (b)(2)(E). Pub. L. 99–514, § 901(b)(2)(B), redesignated subpar. (E) as (D).
+Subsec. (b)(2)(E). Pub. L. 99–514, § 901(b)(2)(B), redesignated subpar. (E) as (D).
 
-Pub. L. 99–514, § 311(b)(2), redesignated former cl. (v) as (iv), and struck out former cl. (iv) which read as follows: “by excluding from gross income an amount equal to the lesser of <sup>18</sup>⁄<sub>46</sub> of the net long-term capital gain for the taxable year or <sup>18</sup>⁄<sub>46</sub> of the net long-term capital gain for the taxable year from the sale or exchange of property other than property described in clause (iii), and”.
+Pub. L. 99–514, § 311(b)(2), redesignated former cl. (v) as (iv), and struck out former cl. (iv) which read as follows: “by excluding from gross income an amount equal to the lesser of <sup>18</sup>⁄<sub>46</sub> of the net long-term capital gain for the taxable year or <sup>18</sup>⁄<sub>46</sub> of the net long-term capital gain for the taxable year from the sale or exchange of property other than property described in clause (iii), and”.
 
-Subsec. (b)(3), (4). Pub. L. 99–514, § 901(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The amount determined under this paragraph to be a reasonable addition to the reserve for losses on qualifying real property loans shall be computed in the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2), reduced by the amount referred to in paragraph (1)(A) for the taxable year.”
+Subsec. (b)(3), (4). Pub. L. 99–514, § 901(b)(3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The amount determined under this paragraph to be a reasonable addition to the reserve for losses on qualifying real property loans shall be computed in the same manner as is provided with respect to additions to the reserves for losses on loans of banks under section 585(b)(2), reduced by the amount referred to in paragraph (1)(A) for the taxable year.”
 
-Subsec. (b)(5). Pub. L. 99–514, § 901(b)(3), struck out par. (5) which read as follows: “For purposes of paragraph (3), the amount deemed to be the balance of the reserve for losses on loans at the beginning of the taxable year shall be the total of the balances at such time of the reserve for losses on nonqualifying loans, the reserve for losses on qualifying real property loans, and the supplemental reserve for losses on loans.”
+Subsec. (b)(5). Pub. L. 99–514, § 901(b)(3), struck out par. (5) which read as follows: “For purposes of paragraph (3), the amount deemed to be the balance of the reserve for losses on loans at the beginning of the taxable year shall be the total of the balances at such time of the reserve for losses on nonqualifying loans, the reserve for losses on qualifying real property loans, and the supplemental reserve for losses on loans.”
 
-Subsec. (d)(4). Pub. L. 99–514, § 671(b)(2), added par. (4).
+Subsec. (d)(4). Pub. L. 99–514, § 671(b)(2), added par. (4).
 
-Subsec. (e)(1)(B). Pub. L. 99–514, § 901(d)(2)(C), substituted “subsection (b)(3)” for “subsection (B)(4)”.
+Subsec. (e)(1)(B). Pub. L. 99–514, § 901(d)(2)(C), substituted “subsection (b)(3)” for “subsection (B)(4)”.
 
-1981—Subsec. (a). Pub. L. 97–34, § 245(c)(1), struck out “not having capital stock represented by shares” after “mutual savings bank”.
+1981—Subsec. (a). Pub. L. 97–34, § 245(c)(1), struck out “not having capital stock represented by shares” after “mutual savings bank”.
 
-Subsec. (b)(2)(B). Pub. L. 97–34, § 245(b)(1), inserted “which is not described in section 591(b)” after “mutual savings bank” in cls. (i) and (ii) and in last sentence.
+Subsec. (b)(2)(B). Pub. L. 97–34, § 245(b)(1), inserted “which is not described in section 591(b)” after “mutual savings bank” in cls. (i) and (ii) and in last sentence.
 
-Subsec. (b)(2)(C). Pub. L. 97–34, § 245(b)(2), inserted “which are not described in section 591(b)” after “mutual savings banks” in cl. (i).
+Subsec. (b)(2)(C). Pub. L. 97–34, § 245(b)(2), inserted “which are not described in section 591(b)” after “mutual savings banks” in cl. (i).
 
-Subsec. (e)(1). Pub. L. 97–34, § 245(c)(2), inserted “or an institution that is treated as a mutual savings bank under section 591(b)” after “domestic building and loan association” and “liquidation of the association”.
+Subsec. (e)(1). Pub. L. 97–34, § 245(c)(2), inserted “or an institution that is treated as a mutual savings bank under section 591(b)” after “domestic building and loan association” and “liquidation of the association”.
 
-Pub. L. 97–34, § 243, inserted provisions making par. (1) inapplicable to any distribution to the Federal Savings and Loan Insurance Corporation in redemption of an interest in an association, if such interest was originally received by the Corporation in exchange for financial assistance pursuant to section 1729(f) of title 12.
+Pub. L. 97–34, § 243, inserted provisions making par. (1) inapplicable to any distribution to the Federal Savings and Loan Insurance Corporation in redemption of an interest in an association, if such interest was originally received by the Corporation in exchange for financial assistance pursuant to section 1729(f) of title 12.
 
 1980—Subsec. (b)(2)(E)(iv). Pub. L. 96–222 substituted “<sup>18</sup>⁄<sub>46</sub>” for “⅜” in two places.
 
-1976—Subsec. (b)(2)(A). Pub. L. 94–455, § 1901(a)(84)(A), struck from the percentage table the years 1969 to 1975, inclusive.
+1976—Subsec. (b)(2)(A). Pub. L. 94–455, § 1901(a)(84)(A), struck from the percentage table the years 1969 to 1975, inclusive.
 
-Subsec. (b)(2)(E)(i). Pub. L. 94–455, § 1901(a)(84)(D), substituted “subsection (e)” for “subsection (f)” after “by reason of”.
+Subsec. (b)(2)(E)(i). Pub. L. 94–455, § 1901(a)(84)(D), substituted “subsection (e)” for “subsection (f)” after “by reason of”.
 
-Subsec. (c)(2). Pub. L. 94–455, § 1901(a)(84)(B), added par. (2). Former par. (2), relating to allocation of pre-1963 reserves for bad debts, was struck out.
+Subsec. (c)(2). Pub. L. 94–455, § 1901(a)(84)(B), added par. (2). Former par. (2), relating to allocation of pre-1963 reserves for bad debts, was struck out.
 
-Subsec. (c)(3). Pub. L. 94–455, § 1901(a)(84)(B), redesignated par. (6) as par. (3). Former par. (3), relating to the method of allocation to reserves for bad debts, was struck out.
+Subsec. (c)(3). Pub. L. 94–455, § 1901(a)(84)(B), redesignated par. (6) as par. (3). Former par. (3), relating to the method of allocation to reserves for bad debts, was struck out.
 
-Subsec. (c)(4), (5). Pub. L. 94–455, § 1901(a)(84)(B), struck out par. (4) which defined “pre-1963 reserves”, and struck out par. (5) which related to certain pre-1952 surplus.
+Subsec. (c)(4), (5). Pub. L. 94–455, § 1901(a)(84)(B), struck out par. (4) which defined “pre-1963 reserves”, and struck out par. (5) which related to certain pre-1952 surplus.
 
-Subsec. (c)(6). Pub. L. 94–455, § 1901(a)(84)(B), redesignated par. (6) as (3).
+Subsec. (c)(6). Pub. L. 94–455, § 1901(a)(84)(B), redesignated par. (6) as (3).
 
-Subsecs. (d) to (f). Pub. L. 94–455, § 1901(a)(84)(C), struck out subsec. (d) relating to the determination of taxable income for taxpayer which uses the reserve method of accounting for bad debts for taxable years beginning in 1962 and ending in 1963, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
+Subsecs. (d) to (f). Pub. L. 94–455, § 1901(a)(84)(C), struck out subsec. (d) relating to the determination of taxable income for taxpayer which uses the reserve method of accounting for bad debts for taxable years beginning in 1962 and ending in 1963, and redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
-Subsecs. (e), (f). Pub. L. 94–455, § 1901(a)(84)(C), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsecs. (e), (f). Pub. L. 94–455, § 1901(a)(84)(C), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-1969—Subsec. (b)(1)(A). Pub. L. 91–172, § 432(a)(1), inserted provisions for the method of computing the amount of the reasonable addition to the reserve for losses on nonqualifying loans.
+1969—Subsec. (b)(1)(A). Pub. L. 91–172, § 432(a)(1), inserted provisions for the method of computing the amount of the reasonable addition to the reserve for losses on nonqualifying loans.
 
-Subsec. (b)(2). Pub. L. 91–172, § 432(a)(2), substituted a table of applicable percentages of the taxable income for each year up to 1979 and thereafter for the amount in excess of 60 percent over the amount referred to in former subsec. (b)(1)(A), transferred the remaining provisions of former subsec. (b)(2) to subpart (D), and added subpars. (B) to (E).
+Subsec. (b)(2). Pub. L. 91–172, § 432(a)(2), substituted a table of applicable percentages of the taxable income for each year up to 1979 and thereafter for the amount in excess of 60 percent over the amount referred to in former subsec. (b)(1)(A), transferred the remaining provisions of former subsec. (b)(2) to subpart (D), and added subpars. (B) to (E).
 
-Subsec. (b)(3). Pub. L. 91–172, § 432(a)(2), substantially changed method of computation of the amount by conforming it to the method of determining the additions to the reserves for losses on loans of banks under section 585(b)(2).
+Subsec. (b)(3). Pub. L. 91–172, § 432(a)(2), substantially changed method of computation of the amount by conforming it to the method of determining the additions to the reserves for losses on loans of banks under section 585(b)(2).
 
-Subsec. (b)(4). Pub. L. 91–172, § 432(a)(2), changed method of computation of the amount by conforming it to the method of determining the additions to the reserves for losses on loans of banks under section 585(b)(3).
+Subsec. (b)(4). Pub. L. 91–172, § 432(a)(2), changed method of computation of the amount by conforming it to the method of determining the additions to the reserves for losses on loans of banks under section 585(b)(3).
 
-Subsec. (b)(5). Pub. L. 91–172, § 432(a)(2), substituted provisions relating to determination of reserve for percentage method for provisions relating to limitation in case of certain domestic building and loan associations.
+Subsec. (b)(5). Pub. L. 91–172, § 432(a)(2), substituted provisions relating to determination of reserve for percentage method for provisions relating to limitation in case of certain domestic building and loan associations.
 
-Subsec. (f). Pub. L. 91–172, § 432(b), excepted the application of par. (1) to any transaction to which section 381 of this title applied.
+Subsec. (f). Pub. L. 91–172, § 432(b), excepted the application of par. (1) to any transaction to which section 381 of this title applied.
 
 1962—Pub. L. 87–834 amended section generally. Prior to such amendment, section read as follows:
 
-“§ 593. Additions to reserve for bad debts
+“§ 593. Additions to reserve for bad debts
 
 “In the case of a mutual savings bank not having capital stock represented by shares, a domestic building and loan association, and a cooperative bank without capital stock organized and operated for mutual purposes and without profit, the reasonable addition to a reserve for bad debts under section 166(c) shall be determined with due regard to the amount of the taxpayer’s surplus or bad debt reserves existing at the close of December 31, 1951. In the case of a taxpayer described in the preceding sentence, the reasonable addition to a reserve for bad debts for any taxable year shall in no case be less than the amount determined by the taxpayer as the reasonable addition for such year; except that the amount determined by the taxpayer under this sentence shall not be greater than the lesser of—
 
@@ -1066,7 +1066,7 @@ Amendment by Pub. L. 105–34 effective as if included in the provisions of the 
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–188, title I, § 1616(c), Aug. 20, 1996, 110 Stat. 1857, provided that:
+Pub. L. 104–188, title I, § 1616(c), Aug. 20, 1996, 110 Stat. 1857, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 50, 52, 57, 246, 291, 585, 860E, 992, 1038, 1042, 1277, and 1361 of this title and repealing sections 595 and 596 of this title] shall apply to taxable years beginning after December 31, 1995.
 
@@ -1082,7 +1082,7 @@ Pub. L. 104–188, title I, § 1616(c), Aug. 20, 1996, 110 Stat. 1857, provide
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–73, title XIV, § 1401(c)(6), Aug. 9, 1989, 103 Stat. 550, provided that: “The amendment made by subsection (b)(3) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 9, 1989].”
+Pub. L. 101–73, title XIV, § 1401(c)(6), Aug. 9, 1989, 103 Stat. 550, provided that: “The amendment made by subsection (b)(3) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 9, 1989].”
 
 **Effective Date of 1988 Amendment**
 
@@ -1090,7 +1090,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title III, § 311(c), Oct. 22, 1986, 100 Stat. 2219, as amended by Pub. L. 100–647, title I, § 1003(c)(2), Nov. 10, 1988, 102 Stat. 3384, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 631, 852, 1201, and 1445 of this title] shall apply to taxable years beginning after December 31, 1986; except that the amendment made by subsection (b)(4) [amending section 1445 of this title] shall apply to payments made after December 31, 1986.”
+Pub. L. 99–514, title III, § 311(c), Oct. 22, 1986, 100 Stat. 2219, as amended by Pub. L. 100–647, title I, § 1003(c)(2), Nov. 10, 1988, 102 Stat. 3384, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 631, 852, 1201, and 1445 of this title] shall apply to taxable years beginning after December 31, 1986; except that the amendment made by subsection (b)(4) [amending section 1445 of this title] shall apply to payments made after December 31, 1986.”
 
 Amendment by section 671(b)(2) of Pub. L. 99–514 effective Jan. 1, 1987, see section 675(a) of Pub. L. 99–514, as amended, set out as an Effective Date note under section 860A of this title.
 
@@ -1098,7 +1098,7 @@ Amendment by section 901(b)(1)–(3), (d)(2) of Pub. L. 99–514 applicable to t
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title II, § 246(b), Aug. 13, 1981, 95 Stat. 256, provided that: “The amendment made by section 243 [amending this section] shall apply to any distribution made on or after January 1, 1981.”
+Pub. L. 97–34, title II, § 246(b), Aug. 13, 1981, 95 Stat. 256, provided that: “The amendment made by section 243 [amending this section] shall apply to any distribution made on or after January 1, 1981.”
 
 Amendment by section 245(b), (c) of Pub. L. 97–34 applicable with respect to taxable years ending after Aug. 13, 1981, see section 246(d) of Pub. L. 97–34, set out as a note under section 591 of this title.
 
@@ -1112,11 +1112,11 @@ Amendment by Pub. L. 94–455 applicable with respect to taxable years beginning
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IV, § 432(e), Dec. 30, 1969, 83 Stat. 623, provided that: “The amendments made by this section [amending this section and section 7701 of this title] shall be effective for taxable years beginning after July 11, 1969.”
+Pub. L. 91–172, title IV, § 432(e), Dec. 30, 1969, 83 Stat. 623, provided that: “The amendments made by this section [amending this section and section 7701 of this title] shall be effective for taxable years beginning after July 11, 1969.”
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–834, § 6(g)(1), Oct. 16, 1962, 76 Stat. 984, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years ending after December 31, 1962, except that section 593(f) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] shall apply to distributions after December 31, 1962, in taxable years ending after such date.”
+Pub. L. 87–834, § 6(g)(1), Oct. 16, 1962, 76 Stat. 984, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years ending after December 31, 1962, except that section 593(f) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] shall apply to distributions after December 31, 1962, in taxable years ending after such date.”
 
 **Savings Provision**
 
@@ -1128,7 +1128,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 Federal Savings and Loan Insurance Corporation abolished and its functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
 
-### § 594. Alternative tax for mutual savings banks conducting life insurance business
+### § 594. Alternative tax for mutual savings banks conducting life insurance business
 
 **(a) Alternative tax** In the case of a mutual savings bank not having capital stock represented by shares, authorized under State law to engage in the business of issuing life insurance contracts, and which conducts a life insurance business in a separate department the accounts of which are maintained separately from the other accounts of the mutual savings bank, there shall be imposed in lieu of the tax imposed by section 11, a tax consisting of the sum of the partial taxes determined under paragraphs (1) and (2):
 
@@ -1140,7 +1140,7 @@ Federal Savings and Loan Insurance Corporation abolished and its functions trans
 
 Subsection (a) shall apply only if the life insurance department would, if it were treated as a separate corporation, qualify as a life insurance company under section 816.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 205; Mar. 13, 1956, ch. 83, § 5(3), 70 Stat. 49; Pub. L. 98–369, div. A, title II, § 211(b)(8), July 18, 1984, 98 Stat. 755; Pub. L. 115–97, title I, § 13001(b)(2)(E), Dec. 22, 2017, 131 Stat. 2096.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 205; Mar. 13, 1956, ch. 83, § 5(3), 70 Stat. 49; Pub. L. 98–369, div. A, title II, § 211(b)(8), July 18, 1984, 98 Stat. 755; Pub. L. 115–97, title I, § 13001(b)(2)(E), Dec. 22, 2017, 131 Stat. 2096.)
 
 **Editorial Notes**
 
@@ -1166,11 +1166,11 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note under section 821 of this title.
 
-### [§§ 595, 596. Repealed. Pub. L. 104–188, title I, § 1616(b)(8), (9), Aug. 20, 1996, 110 Stat. 1857]
+### [§§ 595, 596. Repealed. Pub. L. 104–188, title I, § 1616(b)(8), (9), Aug. 20, 1996, 110 Stat. 1857]
 
-Section 595, added Pub. L. 87–834, § 6(b), Oct. 16, 1962, 76 Stat. 982; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to foreclosure on property securing loans, including provisions relating to nonrecognition of gain or loss as result of foreclosure, character of property, basis, and regulatory authority.
+Section 595, added Pub. L. 87–834, § 6(b), Oct. 16, 1962, 76 Stat. 982; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to foreclosure on property securing loans, including provisions relating to nonrecognition of gain or loss as result of foreclosure, character of property, basis, and regulatory authority.
 
-Section 596, added Pub. L. 91–172, title IV, § 434(a), Dec. 30, 1969, 83 Stat. 624; amended Pub. L. 99–514, title IX, § 901(d)(4)(D), Oct. 22, 1986, 100 Stat. 2380, provided that in case of organization to which section 593 of this title applied and which computed additions to reserve for losses on loans for taxable year under section 593(b)(2) of this title, total amount allowed under sections 243, 244, and 245 of this title for taxable year as deduction with respect to dividends received was to be reduced by amount equal to 8 percent of such total amount.
+Section 596, added Pub. L. 91–172, title IV, § 434(a), Dec. 30, 1969, 83 Stat. 624; amended Pub. L. 99–514, title IX, § 901(d)(4)(D), Oct. 22, 1986, 100 Stat. 2380, provided that in case of organization to which section 593 of this title applied and which computed additions to reserve for losses on loans for taxable year under section 593(b)(2) of this title, total amount allowed under sections 243, 244, and 245 of this title for taxable year as deduction with respect to dividends received was to be reduced by amount equal to 8 percent of such total amount.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1178,7 +1178,7 @@ Section 596, added Pub. L. 91–172, title IV, § 434(a), Dec. 30, 1969, 83 St
 
 Repeal of section 595 applicable to property acquired in taxable years beginning after Dec. 31, 1995, and repeal of section 596 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c)(1), (3) of Pub. L. 104–188, set out as an Effective Date of 1996 Amendment note under section 593 of this title.
 
-### § 597. Treatment of transactions in which Federal financial assistance provided
+### § 597. Treatment of transactions in which Federal financial assistance provided
 
 **(a) General rule**
 
@@ -1212,13 +1212,13 @@ regardless of whether any note or other instrument is issued in exchange therefo
 
 For purposes of this section, the term “domestic building and loan association” has the meaning given such term by section 7701(a)(19) without regard to subparagraph (C) thereof.
 
-(Added Pub. L. 97–34, title II, § 244(a), Aug. 13, 1981, 95 Stat. 255; amended Pub. L. 99–514, title IX, § 904(b)(1), Oct. 22, 1986, 100 Stat. 2385; Pub. L. 100–647, title IV, § 4012(b)(2)(A)–(D)(i), (c)(1), Nov. 10, 1988, 102 Stat. 3657, 3658; Pub. L. 101–73, title XIV, § 1401(a)(3)(A), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 101–239, title VII, § 7841(e)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, § 11704(a)(7), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 115–141, div. U, title IV, § 401(b)(25), Mar. 23, 2018, 132 Stat. 1203.)
+(Added Pub. L. 97–34, title II, § 244(a), Aug. 13, 1981, 95 Stat. 255; amended Pub. L. 99–514, title IX, § 904(b)(1), Oct. 22, 1986, 100 Stat. 2385; Pub. L. 100–647, title IV, § 4012(b)(2)(A)–(D)(i), (c)(1), Nov. 10, 1988, 102 Stat. 3657, 3658; Pub. L. 101–73, title XIV, § 1401(a)(3)(A), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 101–239, title VII, § 7841(e)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, § 11704(a)(7), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 115–141, div. U, title IV, § 401(b)(25), Mar. 23, 2018, 132 Stat. 1203.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 406 of the National Housing Act, referred to in subsec. (c)(1), which was classified to section 1729 of Title 12, Banks and Banking, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
+Section 406 of the National Housing Act, referred to in subsec. (c)(1), which was classified to section 1729 of Title 12, Banks and Banking, was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
 
 Sections 11(f) and 13(c) of the Federal Deposit Insurance Act, referred to in subsec. (c)(2), are classified to sections 1821(f) and 1823(c), respectively, of Title 12.
 
@@ -1228,31 +1228,31 @@ Sections 11(f) and 13(c) of the Federal Deposit Insurance Act, referred to in su
 
 1990—Subsec. (c). Pub. L. 101–508 substituted “For purposes of” for “The purposes of”.
 
-1989—Pub. L. 101–73, § 1401(b)(1), repealed amendment made by Pub. L. 99–514, § 904(b)(1), see 1986 Amendment note below.
+1989—Pub. L. 101–73, § 1401(b)(1), repealed amendment made by Pub. L. 99–514, § 904(b)(1), see 1986 Amendment note below.
 
-Pub. L. 101–73, § 1401(a)(3)(A), amended section generally, substituting present provisions for former provisions which contained section catchline that read “FSLIC or FDIC financial assistance” and which provided: in subsec. (a) for an exclusion from gross income; in subsec. (b) for no reduction in basis of assets; in subsec. (c) for a reduction of tax attributes by 50 percent of amounts excludable under subsection (a); and in subsec. (d) for a definition of “domestic building and loan association”.
+Pub. L. 101–73, § 1401(a)(3)(A), amended section generally, substituting present provisions for former provisions which contained section catchline that read “FSLIC or FDIC financial assistance” and which provided: in subsec. (a) for an exclusion from gross income; in subsec. (b) for no reduction in basis of assets; in subsec. (c) for a reduction of tax attributes by 50 percent of amounts excludable under subsection (a); and in subsec. (d) for a definition of “domestic building and loan association”.
 
 Subsec. (b)(2). Pub. L. 101–239 substituted “in connection with such assistance” for “to reflect such treatment”.
 
-1988—Pub. L. 100–647, § 4012(b)(2)(D)(i), substituted “FSLIC or FDIC” for “FSLIC” in section catchline.
+1988—Pub. L. 100–647, § 4012(b)(2)(D)(i), substituted “FSLIC or FDIC” for “FSLIC” in section catchline.
 
-Subsec. (a). Pub. L. 100–647, § 4012(b)(2)(A), inserted at end “Gross income of a bank does not include any amount of money or other property received from the Federal Deposit Insurance Corporation pursuant to sections 13(c), 15(c)(1), and 15(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1821(f) and 1823(c)(1) and (c)(2)), regardless of whether any note or other instrument is issued in exchange therefor.”
+Subsec. (a). Pub. L. 100–647, § 4012(b)(2)(A), inserted at end “Gross income of a bank does not include any amount of money or other property received from the Federal Deposit Insurance Corporation pursuant to sections 13(c), 15(c)(1), and 15(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1821(f) and 1823(c)(1) and (c)(2)), regardless of whether any note or other instrument is issued in exchange therefor.”
 
-Subsec. (b). Pub. L. 100–647, § 4012(b)(2)(C), substituted “association or bank” for “association”.
+Subsec. (b). Pub. L. 100–647, § 4012(b)(2)(C), substituted “association or bank” for “association”.
 
-Subsec. (c). Pub. L. 100–647, § 4012(c)(1), added subsec. (c).
+Subsec. (c). Pub. L. 100–647, § 4012(c)(1), added subsec. (c).
 
-Subsec. (d). Pub. L. 100–647, § 4012(b)(2)(B), which directed amendment of section 597(b), as amended by section 4012(c)(1) of Pub. L. 100–647, by adding at the end thereof subsec. (d), was executed by adding subsec. (d) at the end of section 597, as amended by section 4012(c)(1) of Pub. L. 100–647, as the probable intent of Congress.
+Subsec. (d). Pub. L. 100–647, § 4012(b)(2)(B), which directed amendment of section 597(b), as amended by section 4012(c)(1) of Pub. L. 100–647, by adding at the end thereof subsec. (d), was executed by adding subsec. (d) at the end of section 597, as amended by section 4012(c)(1) of Pub. L. 100–647, as the probable intent of Congress.
 
-1986—Pub. L. 99–514, § 904(b)(1), (c)(2)(A), as amended by Pub. L. 100–647, title IV, § 4012(a)(2), which (applicable to transfers after Dec. 31, 1989, in taxable years ending after such date, with exceptions) directed repeal of this section, was repealed by Pub. L. 101–73, § 1401(b)(1), (c)(4), eff. Oct. 22, 1986, and I.R.C. of 1986 applicable as if the amendments made by such section had not been enacted.
+1986—Pub. L. 99–514, § 904(b)(1), (c)(2)(A), as amended by Pub. L. 100–647, title IV, § 4012(a)(2), which (applicable to transfers after Dec. 31, 1989, in taxable years ending after such date, with exceptions) directed repeal of this section, was repealed by Pub. L. 101–73, § 1401(b)(1), (c)(4), eff. Oct. 22, 1986, and I.R.C. of 1986 applicable as if the amendments made by such section had not been enacted.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title VII, § 7841(e)(2), Dec. 19, 1989, 103 Stat. 2429, provided that: “The amendment made by this subsection [amending this section] shall apply as if included in the amendments made by section 1401 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 [Pub. L. 101–73].”
+Pub. L. 101–239, title VII, § 7841(e)(2), Dec. 19, 1989, 103 Stat. 2429, provided that: “The amendment made by this subsection [amending this section] shall apply as if included in the amendments made by section 1401 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 [Pub. L. 101–73].”
 
-Pub. L. 101–73, title XIV, § 1401(c)(3)–(5), Aug. 9, 1989, 103 Stat. 550, provided that:
+Pub. L. 101–73, title XIV, § 1401(c)(3)–(5), Aug. 9, 1989, 103 Stat. 550, provided that:
 
 > **“(3) Subsection (a)(3).—**
 
@@ -1266,7 +1266,7 @@ Pub. L. 101–73, title XIV, § 1401(c)(3)–(5), Aug. 9, 1989, 103 Stat. 550,
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title IV, § 4012(b)(2)(E), Nov. 10, 1988, 102 Stat. 3658, provided that:
+Pub. L. 100–647, title IV, § 4012(b)(2)(E), Nov. 10, 1988, 102 Stat. 3658, provided that:
 
 > “The amendments made by this paragraph [amending this section] shall apply to any transfer—
 
@@ -1274,7 +1274,7 @@ Pub. L. 100–647, title IV, § 4012(b)(2)(E), Nov. 10, 1988, 102 Stat. 3658, 
 
 > **“(ii)** after December 31, 1989, if such transfer is pursuant to an acquisition occurring after such date of enactment and before January 1, 1990.”
 
-Pub. L. 100–647, title IV, § 4012(c)(3), Nov. 10, 1988, 102 Stat. 3660, as amended by Pub. L. 101–73, title XIV, § 1401(b)(2), Aug. 9, 1989, 103 Stat. 549, provided that:
+Pub. L. 100–647, title IV, § 4012(c)(3), Nov. 10, 1988, 102 Stat. 3660, as amended by Pub. L. 101–73, title XIV, § 1401(b)(2), Aug. 9, 1989, 103 Stat. 549, provided that:
 
 > “The amendments made by this subsection [amending this section and provisions set out below] shall apply to any transfer—
 
@@ -1286,11 +1286,11 @@ Pub. L. 100–647, title IV, § 4012(c)(3), Nov. 10, 1988, 102 Stat. 3660, as 
 
 **Effective Date of Repeal**
 
-Pub. L. 99–514, title IX, § 904(c)(2), Oct. 22, 1986, 100 Stat. 2385, as amended by Pub. L. 100–647, title IV, § 4012(a)(2), (c)(2), Nov. 10, 1988, 102 Stat. 3656, 3660, which provided that repeal of this section was to be applicable to transfers after Dec. 31, 1989, in taxable years ending after such date, with exceptions, and which related to clarification of treatment of amounts excluded under this section, was repealed by Pub. L. 101–73, title XIV, § 1401(a)(3)(B), (b)(1), Aug. 9, 1989, 103 Stat. 549.
+Pub. L. 99–514, title IX, § 904(c)(2), Oct. 22, 1986, 100 Stat. 2385, as amended by Pub. L. 100–647, title IV, § 4012(a)(2), (c)(2), Nov. 10, 1988, 102 Stat. 3656, 3660, which provided that repeal of this section was to be applicable to transfers after Dec. 31, 1989, in taxable years ending after such date, with exceptions, and which related to clarification of treatment of amounts excluded under this section, was repealed by Pub. L. 101–73, title XIV, § 1401(a)(3)(B), (b)(1), Aug. 9, 1989, 103 Stat. 549.
 
 **Effective Date**
 
-Pub. L. 97–34, title II, § 246(c), Aug. 13, 1981, 95 Stat. 256, provided that: “The amendment made by section 244 [enacting this section] shall apply to any payment made on or after January 1, 1981.”
+Pub. L. 97–34, title II, § 246(c), Aug. 13, 1981, 95 Stat. 256, provided that: “The amendment made by section 244 [enacting this section] shall apply to any payment made on or after January 1, 1981.”
 
 **Savings Provision**
 
@@ -1302,17 +1302,17 @@ Federal Savings and Loan Insurance Corporation abolished and its functions trans
 
 **Repeal of Provisions Relating to Repeal of Special Reorganization Rules for Financial Institutions**
 
-Pub. L. 101–73, title XIV, § 1401(b)(1), Aug. 9, 1989, 103 Stat. 549, provided that: “Section 904 of the Tax Reform Act of 1986 [Pub. L. 99–514, amending section 368 of this title, repealing this section and enacting provisions set out as notes under sections 368 and 597 of this title] (other than subsection (c)(2)(B) thereof [section 904(c)(2)(B) of Pub. L. 99–514, formerly set out as a note above]) is hereby repealed and the Internal Revenue Code of 1986 shall be applied as if the amendments made by such section had not been enacted.”
+Pub. L. 101–73, title XIV, § 1401(b)(1), Aug. 9, 1989, 103 Stat. 549, provided that: “Section 904 of the Tax Reform Act of 1986 [Pub. L. 99–514, amending section 368 of this title, repealing this section and enacting provisions set out as notes under sections 368 and 597 of this title] (other than subsection (c)(2)(B) thereof [section 904(c)(2)(B) of Pub. L. 99–514, formerly set out as a note above]) is hereby repealed and the Internal Revenue Code of 1986 shall be applied as if the amendments made by such section had not been enacted.”
 
 **References to Federal Savings and Loan Insurance Corporation**
 
-Pub. L. 101–73, title XIV, § 1401(c)(7), Aug. 9, 1989, 103 Stat. 550, provided that: “Any reference to the Federal Savings and Loan Insurance Corporation in section 597 of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act [Aug. 9, 1989]) shall be treated as including a reference to the Resolution Trust Corporation and the FSLIC Resolution Fund.”
+Pub. L. 101–73, title XIV, § 1401(c)(7), Aug. 9, 1989, 103 Stat. 550, provided that: “Any reference to the Federal Savings and Loan Insurance Corporation in section 597 of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act [Aug. 9, 1989]) shall be treated as including a reference to the Resolution Trust Corporation and the FSLIC Resolution Fund.”
 
 **Annual Reports on Transactions in Which Federal Financial Assistance Provided**
 
-Pub. L. 101–73, title XIV, § 1403, Aug. 9, 1989, 103 Stat. 551, which required the Secretary of the Treasury to submit annual reports to the Senate and to the Committee on Ways and Means of the House of Representatives on transactions with respect to which Federal financial assistance subject to this section was provided, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 142 of House Document No. 103–7.
+Pub. L. 101–73, title XIV, § 1403, Aug. 9, 1989, 103 Stat. 551, which required the Secretary of the Treasury to submit annual reports to the Senate and to the Committee on Ways and Means of the House of Representatives on transactions with respect to which Federal financial assistance subject to this section was provided, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 142 of House Document No. 103–7.
 
-### [§ 601. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(85), Oct. 4, 1976, 90 Stat. 1778]
+### [§ 601. Repealed. Pub. L. 94–455, title XIX, § 1901(a)(85), Oct. 4, 1976, 90 Stat. 1778]
 
 Section, act Aug. 16, 1954, ch. 736, 68A Stat. 206, related to a special deduction for bank affiliates.
 

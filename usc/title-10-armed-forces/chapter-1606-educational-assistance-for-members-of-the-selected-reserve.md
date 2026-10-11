@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–81, div. A, title X, § 1061(29)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 16137 “Biennial report to Congress”.
+2011—Pub. L. 112–81, div. A, title X, § 1061(29)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 16137 “Biennial report to Congress”.
 
-2008—Pub. L. 110–252, title V, § 5006(e)(2), June 30, 2008, 122 Stat. 2386, added item 16132a.
+2008—Pub. L. 110–252, title V, § 5006(e)(2), June 30, 2008, 122 Stat. 2386, added item 16132a.
 
-Pub. L. 110–181, div. A, title V, § 528(a)(2), Jan. 28, 2008, 122 Stat. 107, added item 16131a.
+Pub. L. 110–181, div. A, title V, § 528(a)(2), Jan. 28, 2008, 122 Stat. 107, added item 16131a.
 
-1999—Pub. L. 106–65, div. A, title V, § 548(b), Oct. 5, 1999, 113 Stat. 609, substituted “Biennial report to Congress” for “Reports to Congress” in item 16137.
+1999—Pub. L. 106–65, div. A, title V, § 548(b), Oct. 5, 1999, 113 Stat. 609, substituted “Biennial report to Congress” for “Reports to Congress” in item 16137.
 
-1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(33), Feb. 10, 1996, 110 Stat. 498, substituted “limitation” for “limitations” in item 16133.
+1996—Pub. L. 104–106, div. A, title XV, § 1501(b)(33), Feb. 10, 1996, 110 Stat. 498, substituted “limitation” for “limitations” in item 16133.
 
-## § 16131. Educational assistance program: establishment; amount
+## § 16131. Educational assistance program: establishment; amount
 
 **(a)** To encourage membership in units of the Selected Reserve of the Ready Reserve, the Secretary of each military department, under regulations prescribed by the Secretary of Defense, and the Secretary of Homeland Security, under regulations prescribed by the Secretary with respect to the Coast Guard when it is not operating as a service in the Navy, shall establish and maintain a program to provide educational assistance to members of the Selected Reserve of the Ready Reserve of the armed forces under the jurisdiction of the Secretary concerned who agree to remain members of the Selected Reserve for a period of not less than six years.
 
@@ -177,7 +177,7 @@ Pub. L. 110–181, div. A, title V, § 528(a)(2), Jan. 28, 2008, 122 Stat. 107
 
 **(2)** Concurrent receipt of educational assistance under section 2007 of this title and educational assistance under this chapter shall not be considered a duplication of benefits if the individual is enrolled in a program of education on a half-time or more basis.
 
-(Added Pub. L. 95–79, title IV, § 402(a), July 30, 1977, 91 Stat. 328, § 2131; amended Pub. L. 96–107, title IV, § 402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, § 906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, § 511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§ 110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§ 642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, § 422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, § 337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, § 2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§ 301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, § 12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, § 518, Nov. 30, 1993, 107 Stat. 1651; renumbered § 16131 and amended Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, § 1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, § 105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, § 553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, § 8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494; Pub. L. 106–65, div. A, title X, § 1066(a)(33), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, § 539(a), Jan. 6, 2006, 119 Stat. 3250; Pub. L. 114–315, title IV, § 416(a), Dec. 16, 2016, 130 Stat. 1565; Pub. L. 117–81, div. A, title V, § 559(a), Dec. 27, 2021, 135 Stat. 1741.)
+(Added Pub. L. 95–79, title IV, § 402(a), July 30, 1977, 91 Stat. 328, § 2131; amended Pub. L. 96–107, title IV, § 402(a), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–342, title IX, § 906(a)(1), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 96–513, title V, § 511(68), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–689, title I, §§ 110(a), 111(b)(1), Nov. 18, 1988, 102 Stat. 4170, 4172; Pub. L. 101–189, div. A, title VI, §§ 642(a), (b), 645(a)(1), (b)(1), Nov. 29, 1989, 103 Stat. 1456, 1458; Pub. L. 101–237, title IV, § 422(b)(2), Dec. 18, 1989, 103 Stat. 2089; Pub. L. 102–25, title III, § 337(b), Apr. 6, 1991, 105 Stat. 90; Pub. L. 102–127, § 2(d), Oct. 10, 1991, 105 Stat. 621; Pub. L. 102–568, title III, §§ 301(b), (d), 310(b), 318, 320(a)(1), Oct. 29, 1992, 106 Stat. 4326, 4330, 4334, 4335; Pub. L. 103–66, title XII, § 12009(b), Aug. 10, 1993, 107 Stat. 416; Pub. L. 103–160, div. A, title V, § 518, Nov. 30, 1993, 107 Stat. 1651; renumbered § 16131 and amended Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), (3), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title X, § 1076, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–275, title I, § 105(d), Oct. 9, 1996, 110 Stat. 3327; Pub. L. 105–85, div. A, title V, § 553(a), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–178, title VIII, § 8203(b)(1)–(3), June 9, 1998, 112 Stat. 493, 494; Pub. L. 106–65, div. A, title X, § 1066(a)(33), Oct. 5, 1999, 113 Stat. 772; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, § 539(a), Jan. 6, 2006, 119 Stat. 3250; Pub. L. 114–315, title IV, § 416(a), Dec. 16, 2016, 130 Stat. 1565; Pub. L. 117–81, div. A, title V, § 559(a), Dec. 27, 2021, 135 Stat. 1741.)
 
 **Editorial Notes**
 
@@ -193,93 +193,93 @@ Pub. L. 110–181, div. A, title V, § 528(a)(2), Jan. 28, 2008, 122 Stat. 107
 
 1999—Subsec. (b)(1). Pub. L. 106–65 inserted “in” after “Except as provided” in introductory provisions.
 
-1998—Subsec. (b)(1). Pub. L. 105–178, § 8203(b)(3), struck out “in paragraph (2) and” after “Except as provided” in introductory provisions.
+1998—Subsec. (b)(1). Pub. L. 105–178, § 8203(b)(3), struck out “in paragraph (2) and” after “Except as provided” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 105–178, § 8203(b)(1)(A), substituted “$251 (as increased from time to time under paragraph (2))” for “$190”.
+Subsec. (b)(1)(A). Pub. L. 105–178, § 8203(b)(1)(A), substituted “$251 (as increased from time to time under paragraph (2))” for “$190”.
 
-Subsec. (b)(1)(B). Pub. L. 105–178, § 8203(b)(1)(B), substituted “$188 (as increased from time to time under paragraph (2))” for “$143”.
+Subsec. (b)(1)(B). Pub. L. 105–178, § 8203(b)(1)(B), substituted “$188 (as increased from time to time under paragraph (2))” for “$143”.
 
-Subsec. (b)(1)(C). Pub. L. 105–178, § 8203(b)(1)(C), substituted “$125 (as increased from time to time under paragraph (2))” for “$95”.
+Subsec. (b)(1)(C). Pub. L. 105–178, § 8203(b)(1)(C), substituted “$125 (as increased from time to time under paragraph (2))” for “$95”.
 
-Subsec. (b)(2). Pub. L. 105–178, § 8203(b)(2), in introductory provisions, substituted “, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under this paragraph for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates”.
+Subsec. (b)(2). Pub. L. 105–178, § 8203(b)(2), in introductory provisions, substituted “, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under this paragraph for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates”.
 
-1997—Subsec. (c)(3)(B)(i). Pub. L. 105–85 struck out “, in connection with the Persian Gulf War,” after “being ordered”.
+1997—Subsec. (c)(3)(B)(i). Pub. L. 105–85 struck out “, in connection with the Persian Gulf War,” after “being ordered”.
 
-1996—Subsec. (b)(1). Pub. L. 104–275, § 105(d)(2), substituted “(f)” for “(g)”.
+1996—Subsec. (b)(1). Pub. L. 104–275, § 105(d)(2), substituted “(f)” for “(g)”.
 
-Subsecs. (e) to (i). Pub. L. 104–275, § 105(d)(1), redesignated subsecs. (f) to (j) as (e) to (i), respectively, and struck out former subsec. (e) which read as follows:
+Subsecs. (e) to (i). Pub. L. 104–275, § 105(d)(1), redesignated subsecs. (f) to (j) as (e) to (i), respectively, and struck out former subsec. (e) which read as follows:
 
 “(e)(1) The amount of the monthly educational assistance allowance payable to a person pursuing a cooperative program under this chapter shall be 80 percent of the monthly allowance otherwise payable to such person under this chapter.
 
 “(2) For each month that a person is paid a monthly educational assistance allowance for pursuit of a cooperative program under this chapter, the person’s entitlement under this chapter shall be charged at the rate of 80 percent of a month.”
 
-Subsec. (j). Pub. L. 104–275, § 105(d)(1), redesignated subsec. (j) as (i).
+Subsec. (j). Pub. L. 104–275, § 105(d)(1), redesignated subsec. (j) as (i).
 
 Pub. L. 104–106 added subsec. (j).
 
-1994—Pub. L. 103–337, § 1663(b)(2), renumbered section 2131 of this title as this section.
+1994—Pub. L. 103–337, § 1663(b)(2), renumbered section 2131 of this title as this section.
 
-Subsec. (c)(3)(B)(i). Pub. L. 103–337, § 1663(b)(3)(A), substituted “12301(a), 12301(d), 12301(g), 12302, or 12304” for “672(a), (d), or (g), 673, or 673b”.
+Subsec. (c)(3)(B)(i). Pub. L. 103–337, § 1663(b)(3)(A), substituted “12301(a), 12301(d), 12301(g), 12302, or 12304” for “672(a), (d), or (g), 673, or 673b”.
 
-Subsec. (g)(1). Pub. L. 103–337, § 1663(b)(3)(B), substituted “16136(c)” for “2136(c)”.
+Subsec. (g)(1). Pub. L. 103–337, § 1663(b)(3)(B), substituted “16136(c)” for “2136(c)”.
 
 1993—Subsec. (b)(2). Pub. L. 103–66 struck out subpar. (A), struck out subpar. (B) designation before “With respect to”, redesignated former cls. (i) and (ii) as subpars. (A) and (B), respectively, and in subpar. (B) substituted “subparagraph (A)” for “clause (i)”. Prior to amendment, subpar. (A) read as follows: “With respect to the fiscal year beginning on October 1, 1993, the Secretary shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) equal to the percentage by which the Consumer Price Index (all items, United States city average, published by the Bureau of Labor Statistics) for the 12-month period ending June 30, 1993, exceeds such Consumer Price Index for the 12-month period ending June 30, 1992.”
 
-Subsec. (c)(1). Pub. L. 103–160, § 518(1), struck out “other than a program of education in a course of instruction beyond the baccalaureate degree level” after “title 38”.
+Subsec. (c)(1). Pub. L. 103–160, § 518(1), struck out “other than a program of education in a course of instruction beyond the baccalaureate degree level” after “title 38”.
 
-Subsec. (i). Pub. L. 103–160, § 518(2), added subsec. (i).
+Subsec. (i). Pub. L. 103–160, § 518(2), added subsec. (i).
 
-1992—Subsec. (b)(1). Pub. L. 102–568, § 301(b), substituted “$190” for “$140” in subpar. (A), “$143” for “$105” in subpar. (B), and “$95” for “$70” in subpar. (C).
+1992—Subsec. (b)(1). Pub. L. 102–568, § 301(b), substituted “$190” for “$140” in subpar. (A), “$143” for “$105” in subpar. (B), and “$95” for “$70” in subpar. (C).
 
-Subsec. (b)(2)(A). Pub. L. 102–568, § 301(d)(1), (2), redesignated subpar. (B) as (A), substituted “shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “may continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under subparagraph (A) of this paragraph and may provide a percentage increase in such rates”, and struck out former subpar. (A) which read as follows: “During the period beginning on October 1, 1991, and ending on September 30, 1993, the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) shall be $170, $128, and $85, respectively.”
+Subsec. (b)(2)(A). Pub. L. 102–568, § 301(d)(1), (2), redesignated subpar. (B) as (A), substituted “shall provide a percentage increase in the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1)” for “may continue to pay, in lieu of the rates payable under subparagraphs (A), (B), and (C) of paragraph (1), the monthly rates payable under subparagraph (A) of this paragraph and may provide a percentage increase in such rates”, and struck out former subpar. (A) which read as follows: “During the period beginning on October 1, 1991, and ending on September 30, 1993, the monthly rates payable under subparagraphs (A), (B), and (C) of paragraph (1) shall be $170, $128, and $85, respectively.”
 
-Subsec. (b)(2)(B), (C). Pub. L. 102–568, § 301(d)(3), redesignated subpar. (C) as (B) and substituted “shall continue” for “may continue” and “shall provide” for “may provide” in introductory provisions. Former subpar. (B) redesignated (A).
+Subsec. (b)(2)(B), (C). Pub. L. 102–568, § 301(d)(3), redesignated subpar. (C) as (B) and substituted “shall continue” for “may continue” and “shall provide” for “may provide” in introductory provisions. Former subpar. (B) redesignated (A).
 
-Subsec. (c)(2). Pub. L. 102–568, § 320(a)(1)(A), substituted “section 3695 of title 38” for “section 1795 of title 38”.
+Subsec. (c)(2). Pub. L. 102–568, § 320(a)(1)(A), substituted “section 3695 of title 38” for “section 1795 of title 38”.
 
-Subsec. (c)(3)(B)(ii). Pub. L. 102–568, § 320(a)(1)(B), substituted “, the individual’s” for “of this subparagraph, his or her”.
+Subsec. (c)(3)(B)(ii). Pub. L. 102–568, § 320(a)(1)(B), substituted “, the individual’s” for “of this subparagraph, his or her”.
 
-Subsec. (c)(3)(C). Pub. L. 102–568, § 320(a)(1)(C), struck out “of this paragraph” after “subparagraph (B)(ii)”.
+Subsec. (c)(3)(C). Pub. L. 102–568, § 320(a)(1)(C), struck out “of this paragraph” after “subparagraph (B)(ii)”.
 
-Subsec. (g)(1). Pub. L. 102–568, § 310(b)(1), struck out “(other than tuition and fees charged for or attributable to solo flying hours)” after “tuition and fees”.
+Subsec. (g)(1). Pub. L. 102–568, § 310(b)(1), struck out “(other than tuition and fees charged for or attributable to solo flying hours)” after “tuition and fees”.
 
-Subsec. (g)(4). Pub. L. 102–568, § 310(b)(2), added par. (4).
+Subsec. (g)(4). Pub. L. 102–568, § 310(b)(2), added par. (4).
 
-Subsec. (h). Pub. L. 102–568, § 318, added subsec. (h).
+Subsec. (h). Pub. L. 102–568, § 318, added subsec. (h).
 
-1991—Subsec. (b). Pub. L. 102–25, § 337(b)(1), designated existing provisions as par. (1) and substituted “Except as provided in paragraph (2) and” for “Except as provided in”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
+1991—Subsec. (b). Pub. L. 102–25, § 337(b)(1), designated existing provisions as par. (1) and substituted “Except as provided in paragraph (2) and” for “Except as provided in”, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2).
 
 Subsec. (c)(3). Pub. L. 102–127 added par. (3).
 
-Subsecs. (f)(2), (g)(3). Pub. L. 102–25, § 337(b)(2), (3), substituted “amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned” for “$140”.
+Subsecs. (f)(2), (g)(3). Pub. L. 102–25, § 337(b)(2), (3), substituted “amount equal to the amount of the monthly rate payable under subsection (b)(1)(A) for the fiscal year concerned” for “$140”.
 
-1989—Subsec. (b). Pub. L. 101–237, § 422(b)(2)(A), in introductory provisions, substituted “subsections (d) through (g)” for “subsections (d) through (f)”.
+1989—Subsec. (b). Pub. L. 101–237, § 422(b)(2)(A), in introductory provisions, substituted “subsections (d) through (g)” for “subsections (d) through (f)”.
 
-Pub. L. 101–189, § 645(b)(1), in introductory provisions, substituted “of an educational assistance allowance” for “and educational assistance allowance”.
+Pub. L. 101–189, § 645(b)(1), in introductory provisions, substituted “of an educational assistance allowance” for “and educational assistance allowance”.
 
-Pub. L. 101–189, § 642(b)(1), in introductory provisions, substituted “Except as provided in subsections (d) through (f), each” for “Each” and inserted “, through the Secretary of Veterans Affairs,” after “Secretary concerned”.
+Pub. L. 101–189, § 642(b)(1), in introductory provisions, substituted “Except as provided in subsections (d) through (f), each” for “Each” and inserted “, through the Secretary of Veterans Affairs,” after “Secretary concerned”.
 
-Subsec. (b)(4). Pub. L. 101–189, § 645(a)(1), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+Subsec. (b)(4). Pub. L. 101–189, § 645(a)(1), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-Subsec. (c)(1). Pub. L. 101–189, § 642(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Educational assistance may only be provided under this chapter for pursuit of a program of education at an institution of higher learning and may not be provided to a person after the person has completed a course of instruction required for the award of a baccalaureate degree or the equivalent evidence of completion of study.”
+Subsec. (c)(1). Pub. L. 101–189, § 642(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Educational assistance may only be provided under this chapter for pursuit of a program of education at an institution of higher learning and may not be provided to a person after the person has completed a course of instruction required for the award of a baccalaureate degree or the equivalent evidence of completion of study.”
 
-Subsecs. (d) to (f). Pub. L. 101–189, § 642(b)(2), added subsecs. (d) to (f).
+Subsecs. (d) to (f). Pub. L. 101–189, § 642(b)(2), added subsecs. (d) to (f).
 
-Subsec. (g). Pub. L. 101–237, § 422(b)(2)(B), added subsec. (g).
+Subsec. (g). Pub. L. 101–237, § 422(b)(2)(B), added subsec. (g).
 
-1988—Subsec. (b)(4). Pub. L. 100–689, § 110(a), added par. (4).
+1988—Subsec. (b)(4). Pub. L. 100–689, § 110(a), added par. (4).
 
-Subsec. (c)(2). Pub. L. 100–689, § 111(b)(1), inserted “(or the equivalent thereof in part-time educational assistance)” before period at end.
+Subsec. (c)(2). Pub. L. 100–689, § 111(b)(1), inserted “(or the equivalent thereof in part-time educational assistance)” before period at end.
 
 1984—Pub. L. 98–525 amended section generally, substituting a schedule of payments at stated monthly rates for full-time, three-quarter-time, and half-time pursuit of an education program for former provisions which had set a maximum for any one member of $1,000 for any twelve-month period and $4,000 for the total assistance to any one member.
 
-1980—Subsec. (a). Pub. L. 96–513, § 511(68)(A), substituted “armed forces” for “armed force”.
+1980—Subsec. (a). Pub. L. 96–513, § 511(68)(A), substituted “armed forces” for “armed force”.
 
-Subsec. (b)(2). Pub. L. 96–513, § 511(68)(B), inserted “of this title” after “2132”.
+Subsec. (b)(2). Pub. L. 96–513, § 511(68)(B), inserted “of this title” after “2132”.
 
 Subsec. (c). Pub. L. 96–342 substituted “$1,000” for “$500” and “$4,000” for “$2,000”.
 
-Subsec. (d). Pub. L. 96–513, § 511(68)(C), substituted “Secretary of Education” for “Commissioner of Education, Department of Health, Education, and Welfare”.
+Subsec. (d). Pub. L. 96–513, § 511(68)(C), substituted “Secretary of Education” for “Commissioner of Education, Department of Health, Education, and Welfare”.
 
 1979—Subsec. (b)(1). Pub. L. 96–107 substituted “100 percent” for “50 percent”.
 
@@ -287,7 +287,7 @@ Subsec. (d). Pub. L. 96–513, § 511(68)(C), substituted “Secretary of Educ
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title V, § 539(c), Jan. 6, 2006, 119 Stat. 3250, provided that: “The amendments made by this section [amending this section and section 16162 of this title] shall apply to a licensing or certification test administered on or after the date of the enactment of this Act [Jan. 6, 2006].”
+Pub. L. 109–163, div. A, title V, § 539(c), Jan. 6, 2006, 119 Stat. 3250, provided that: “The amendments made by this section [amending this section and section 16162 of this title] shall apply to a licensing or certification test administered on or after the date of the enactment of this Act [Jan. 6, 2006].”
 
 **Effective Date of 2002 Amendment**
 
@@ -295,7 +295,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–178, title VIII, § 8203(b)(4), June 9, 1998, 112 Stat. 494, provided that: “The amendments made by this subsection [amending this section] shall take effect on October 1, 1998, and shall apply with respect to educational assistance allowances paid for months after September 1998. However, no adjustment in rates of educational assistance shall be made under paragraph (2) of section 16131(b) of title 10, United States Code, as amended by paragraph (2), for fiscal year 1999.”
+Pub. L. 105–178, title VIII, § 8203(b)(4), June 9, 1998, 112 Stat. 494, provided that: “The amendments made by this subsection [amending this section] shall take effect on October 1, 1998, and shall apply with respect to educational assistance allowances paid for months after September 1998. However, no adjustment in rates of educational assistance shall be made under paragraph (2) of section 16131(b) of title 10, United States Code, as amended by paragraph (2), for fiscal year 1999.”
 
 **Effective Date of 1994 Amendment**
 
@@ -303,37 +303,37 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–568, title III, § 301(e), Oct. 29, 1992, 106 Stat. 4326, provided that:
+Pub. L. 102–568, title III, § 301(e), Oct. 29, 1992, 106 Stat. 4326, provided that:
 
 > **“(1)** The amendments made by this section [amending this section and section 3015 of Title 38, Veterans’ Benefits] shall take effect on April 1, 1993.
 
 > **“(2)** The amendments made by this section shall not be construed to change the account from which payment is made for that portion of a payment under chapter 30 of title 38, United States Code, or chapter 106 [now 1606] of title 10, United States Code, which is a Montgomery GI bill rate increase and a title III benefit is paid. For the purposes of this subsection, the terms ‘Montgomery GI bill rate increase’ and ‘title III benefit’ have the meanings provided in section 393 of the Persian Gulf Conflict Supplemental Authorization and Personnel Benefits Act of 1991 [Pub. L. 102–25] (105 Stat. 99).”
 
-Pub. L. 102–568, title III, § 310(d), Oct. 29, 1992, 106 Stat. 4330, provided that: “The amendments made by this section [amending this section and sections 3032 and 3231 of Title 38] shall apply to flight training received under chapters 30 and 32 of title 38, United States Code, and chapter 106 [now 1606] of title 10, United States Code, after September 30, 1992.”
+Pub. L. 102–568, title III, § 310(d), Oct. 29, 1992, 106 Stat. 4330, provided that: “The amendments made by this section [amending this section and sections 3032 and 3231 of Title 38] shall apply to flight training received under chapters 30 and 32 of title 38, United States Code, and chapter 106 [now 1606] of title 10, United States Code, after September 30, 1992.”
 
 **Effective Date of 1989 Amendments**
 
-Pub. L. 101–237, title IV, § 422(d), Dec. 18, 1989, 103 Stat. 2090, provided that: “The amendments made by this section [amending this section, section 2136 [now 16136] of this title, and sections 1432 [now 3032] and 1434 [now 3034] of Title 38, Veterans’ Benefits] shall take effect on September 30, 1990.”
+Pub. L. 101–237, title IV, § 422(d), Dec. 18, 1989, 103 Stat. 2090, provided that: “The amendments made by this section [amending this section, section 2136 [now 16136] of this title, and sections 1432 [now 3032] and 1434 [now 3034] of Title 38, Veterans’ Benefits] shall take effect on September 30, 1990.”
 
-Pub. L. 101–189, div. A, title VI, § 642(d), Nov. 29, 1989, 103 Stat. 1458, provided that: “The amendments made by this section [amending this section and section 2136 [now 16136] of this title] shall apply with respect to any person who after September 30, 1990, meets the requirements set forth in subparagraph (A) or (B) of section 2132(a)(1) [now 16132(a)(1)(A), (B)] of title 10, United States Code.”
+Pub. L. 101–189, div. A, title VI, § 642(d), Nov. 29, 1989, 103 Stat. 1458, provided that: “The amendments made by this section [amending this section and section 2136 [now 16136] of this title] shall apply with respect to any person who after September 30, 1990, meets the requirements set forth in subparagraph (A) or (B) of section 2132(a)(1) [now 16132(a)(1)(A), (B)] of title 10, United States Code.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title VII, § 705(b), Oct. 19, 1984, 98 Stat. 2567, provided that: “The amendments made by this section [amending this chapter] shall take effect on July 1, 1985, and shall apply only to members of the Armed Forces who qualify for educational assistance under chapter 106 of title 10, United States Code, as amended by subsection (a), on or after such date.”
+Pub. L. 98–525, title VII, § 705(b), Oct. 19, 1984, 98 Stat. 2567, provided that: “The amendments made by this section [amending this chapter] shall take effect on July 1, 1985, and shall apply only to members of the Armed Forces who qualify for educational assistance under chapter 106 of title 10, United States Code, as amended by subsection (a), on or after such date.”
 
 **Effective Date of 1980 Amendments**
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-Pub. L. 96–342, title IX, § 906(a)(2), Sept. 8, 1980, 94 Stat. 1117, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on October 1, 1980.”
+Pub. L. 96–342, title IX, § 906(a)(2), Sept. 8, 1980, 94 Stat. 1117, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on October 1, 1980.”
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–107, title IV, § 402(c), Nov. 9, 1979, 93 Stat. 808, provided that: “The amendments made by this section [amending sections 2131 and 2133 [now 16131 and 16133] of this title] shall apply only to individuals enlisting in the Reserves after September 30, 1979.”
+Pub. L. 96–107, title IV, § 402(c), Nov. 9, 1979, 93 Stat. 808, provided that: “The amendments made by this section [amending sections 2131 and 2133 [now 16131 and 16133] of this title] shall apply only to individuals enlisting in the Reserves after September 30, 1979.”
 
 **Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Selected Reserve Montgomery GI Bill**
 
-Pub. L. 108–454, title I, § 103(d), Dec. 10, 2004, 118 Stat. 3601, provided that:
+Pub. L. 108–454, title I, § 103(d), Dec. 10, 2004, 118 Stat. 3601, provided that:
 
 > “For months beginning on or after October 1, 2005, and before January 1, 2008, subsection (d)(1) of section 16131 of title 10, United States Code, shall be applied as if—
 
@@ -345,9 +345,9 @@ Pub. L. 108–454, title I, § 103(d), Dec. 10, 2004, 118 Stat. 3601, provided
 
 **1995 Cost-of-Living Adjustment in Rates of Educational Assistance**
 
-Pub. L. 103–66, title XII, § 12009(c), Aug. 10, 1993, 107 Stat. 416, provided that the fiscal year 1995 cost-of-living adjustments in the rates of educational assistance payable under chapter 30 of Title 38, Veterans’ Benefits, and this chapter were to be the percentage equal to 50 percent of the percentage by which such assistance would be increased under section 3015(g) of Title 38 and subsec. (b)(2) of this section but for section 12009 of Pub. L. 103–66.
+Pub. L. 103–66, title XII, § 12009(c), Aug. 10, 1993, 107 Stat. 416, provided that the fiscal year 1995 cost-of-living adjustments in the rates of educational assistance payable under chapter 30 of Title 38, Veterans’ Benefits, and this chapter were to be the percentage equal to 50 percent of the percentage by which such assistance would be increased under section 3015(g) of Title 38 and subsec. (b)(2) of this section but for section 12009 of Pub. L. 103–66.
 
-## § 16131a. Accelerated payment of educational assistance
+## § 16131a. Accelerated payment of educational assistance
 
 **(a)** The educational assistance allowance payable under section 16131 of this title with respect to an eligible person described in subsection (b) may, upon the election of such eligible person, be paid on an accelerated basis in accordance with this section.
 
@@ -393,15 +393,15 @@ Pub. L. 103–66, title XII, § 12009(c), Aug. 10, 1993, 107 Stat. 416, provid
 
 **(g)** The aggregate amount of educational assistance payable under this section in any fiscal year for enrollments covered by subsection (b)(1) may not exceed $4,000,000.
 
-(Added Pub. L. 110–181, div. A, title V, § 528(a)(1), Jan. 28, 2008, 122 Stat. 105.)
+(Added Pub. L. 110–181, div. A, title V, § 528(a)(1), Jan. 28, 2008, 122 Stat. 105.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 110–181, div. A, title V, § 528(a)(3), Jan. 28, 2008, 122 Stat. 107, provided that: “The amendments made by this subsection [enacting this section] shall take effect on October 1, 2008, and shall only apply to initial enrollments in approved programs of education after such date.”
+Pub. L. 110–181, div. A, title V, § 528(a)(3), Jan. 28, 2008, 122 Stat. 107, provided that: “The amendments made by this subsection [enacting this section] shall take effect on October 1, 2008, and shall only apply to initial enrollments in approved programs of education after such date.”
 
-## § 16132. Eligibility for educational assistance
+## § 16132. Eligibility for educational assistance
 
 **(a)** A person who—
 
@@ -421,7 +421,7 @@ is entitled to educational assistance under section 16131 of this title.
 
 **(d)** A person who serves in the Selected Reserve may not receive credit for such service under both the program established by chapter 30 of title 38 and the program established by this chapter but shall elect (in such form and manner as the Secretary of Veterans Affairs may prescribe) the program to which such service is to be credited. However, a person may not receive credit under the program established by this chapter for service (in any grade) on full-time active duty or full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components in a position which is included in the end strength required to be authorized each year by section 115(a)(1)(B) of this title.
 
-(Added Pub. L. 95–79, title IV, § 402(a), July 30, 1977, 91 Stat. 329, § 2132; amended Pub. L. 95–485, title IV, § 402(a), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–513, title V, § 511(69), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–48, § 4, June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§ 110(b), 111(b)(2)–(4), Nov. 18, 1988, 102 Stat. 4170, 4173; Pub. L. 101–189, div. A, title VI, §§ 643(a), 645(a), (b)(2), Nov. 29, 1989, 103 Stat. 1458; Pub. L. 102–25, title VII, § 701(f)(6), Apr. 6, 1991, 105 Stat. 115; renumbered § 16132 and amended Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), (4), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title XV, § 1501(b)(34), Feb. 10, 1996, 110 Stat. 498; Pub. L. 106–419, title I, § 102(d), Nov. 1, 2000, 114 Stat. 1825.)
+(Added Pub. L. 95–79, title IV, § 402(a), July 30, 1977, 91 Stat. 329, § 2132; amended Pub. L. 95–485, title IV, § 402(a), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–513, title V, § 511(69), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–48, § 4, June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§ 110(b), 111(b)(2)–(4), Nov. 18, 1988, 102 Stat. 4170, 4173; Pub. L. 101–189, div. A, title VI, §§ 643(a), 645(a), (b)(2), Nov. 29, 1989, 103 Stat. 1458; Pub. L. 102–25, title VII, § 701(f)(6), Apr. 6, 1991, 105 Stat. 115; renumbered § 16132 and amended Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), (4), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title XV, § 1501(b)(34), Feb. 10, 1996, 110 Stat. 498; Pub. L. 106–419, title I, § 102(d), Nov. 1, 2000, 114 Stat. 1825.)
 
 **Editorial Notes**
 
@@ -431,31 +431,31 @@ is entitled to educational assistance under section 16131 of this title.
 
 1996—Subsec. (c). Pub. L. 104–106 substituted “sections 16134” for “section 16134”.
 
-1994—Pub. L. 103–337, § 1663(b)(2), renumbered section 2132 of this title as this section.
+1994—Pub. L. 103–337, § 1663(b)(2), renumbered section 2132 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, § 1663(b)(4)(A), substituted “16131” for “2131” in concluding provisions.
+Subsec. (a). Pub. L. 103–337, § 1663(b)(4)(A), substituted “16131” for “2131” in concluding provisions.
 
-Subsec. (c). Pub. L. 103–337, § 1663(b)(4)(B), substituted “section 16134 and 16135” for “sections 2134 and 2135”.
+Subsec. (c). Pub. L. 103–337, § 1663(b)(4)(B), substituted “section 16134 and 16135” for “sections 2134 and 2135”.
 
 1991—Subsec. (d). Pub. L. 102–25 substituted “section 115(a)(1)(B)” for “section 115(b)(1)(A)(ii)”.
 
-1989—Subsec. (c). Pub. L. 101–189, § 645(a), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” and “to that Secretary” for “to the Administrator”.
+1989—Subsec. (c). Pub. L. 101–189, § 645(a), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” and “to that Secretary” for “to the Administrator”.
 
-Subsec. (d). Pub. L. 101–189, § 645(a)(1), (b)(2), substituted “A person” for “An individual” and “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+Subsec. (d). Pub. L. 101–189, § 645(a)(1), (b)(2), substituted “A person” for “An individual” and “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-Pub. L. 101–189, § 643(a), inserted at end “However, a person may not receive credit under the program established by this chapter for service (in any grade) on full-time active duty or full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components in a position which is included in the end strength required to be authorized each year by section 115(b)(1)(A)(ii) of this title.”
+Pub. L. 101–189, § 643(a), inserted at end “However, a person may not receive credit under the program established by this chapter for service (in any grade) on full-time active duty or full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components in a position which is included in the end strength required to be authorized each year by section 115(b)(1)(A)(ii) of this title.”
 
-1988—Subsec. (a)(2). Pub. L. 100–689, § 111(b)(2), substituted “completed the requirements of” for “received”, and inserted before semicolon at end “, or in the case of an individual who reenlists or extends an enlistment as described in paragraph (1)(A) of this subsection, has completed such requirements at any time before such reenlistment or extension”.
+1988—Subsec. (a)(2). Pub. L. 100–689, § 111(b)(2), substituted “completed the requirements of” for “received”, and inserted before semicolon at end “, or in the case of an individual who reenlists or extends an enlistment as described in paragraph (1)(A) of this subsection, has completed such requirements at any time before such reenlistment or extension”.
 
-Subsec. (b). Pub. L. 100–689, § 110(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Educational assistance may not be provided to a member under this chapter until the member—
+Subsec. (b). Pub. L. 100–689, § 110(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Educational assistance may not be provided to a member under this chapter until the member—
 
 “(1) has completed the initial period of active duty for training required of the member; and
 
 “(2) has completed 180 days of service in the Selected Reserve.”
 
-Subsec. (c). Pub. L. 100–689, § 111(b)(3), inserted at end “At the request of the Administrator of Veterans’ Affairs, the Secretary of Defense shall transmit a notice of entitlement for each such person to the Administrator.”
+Subsec. (c). Pub. L. 100–689, § 111(b)(3), inserted at end “At the request of the Administrator of Veterans’ Affairs, the Secretary of Defense shall transmit a notice of entitlement for each such person to the Administrator.”
 
-Subsec. (d). Pub. L. 100–689, § 111(b)(4), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “A person who is entitled to educational assistance under chapter 30 of title 38 based on section 1412 of that title may not also be provided educational assistance under this chapter.”
+Subsec. (d). Pub. L. 100–689, § 111(b)(4), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “A person who is entitled to educational assistance under chapter 30 of title 38 based on section 1412 of that title may not also be provided educational assistance under this chapter.”
 
 1987—Subsec. (a)(1). Pub. L. 100–48 substituted “after June 30, 1985” for “during the period beginning on July 1, 1985, and ending on June 30, 1988”.
 
@@ -485,9 +485,9 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Savings Provision**
 
-Pub. L. 101–189, div. A, title VI, § 643(b), Nov. 29, 1989, 103 Stat. 1458, provided that: “The amendment made by subsection (a) [amending this section] shall not affect the eligibility for educational assistance of any person who before the date of the enactment of this Act [Nov. 29, 1989] is entitled to educational assistance under section 2131(a) [now 16131(a)] of title 10, United States Code.”
+Pub. L. 101–189, div. A, title VI, § 643(b), Nov. 29, 1989, 103 Stat. 1458, provided that: “The amendment made by subsection (a) [amending this section] shall not affect the eligibility for educational assistance of any person who before the date of the enactment of this Act [Nov. 29, 1989] is entitled to educational assistance under section 2131(a) [now 16131(a)] of title 10, United States Code.”
 
-## § 16132a. Authority to transfer unused education benefits to family members
+## § 16132a. Authority to transfer unused education benefits to family members
 
 **(a) In General.—** Subject to regulation prescribed by the Secretary of Defense, the Secretary concerned may permit a member described in subsection (b) who is entitled to basic educational assistance under this chapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such member’s entitlement to such assistance, subject to the limitation under subsection (d).
 
@@ -595,17 +595,17 @@ shall not affect the use of entitlement by the dependent to whom the entitlement
 
 **(4)** the manner in which the provisions referred to in subsections (h)(4) and (5) shall be administered with respect to a dependent to whom entitlement is transferred under this section.
 
-(Added Pub. L. 110–252, title V, § 5006(b), June 30, 2008, 122 Stat. 2381; amended Pub. L. 111–383, div. A, title X, § 1075(b)(55), Jan. 7, 2011, 124 Stat. 4372.)
+(Added Pub. L. 110–252, title V, § 5006(b), June 30, 2008, 122 Stat. 2381; amended Pub. L. 111–383, div. A, title X, § 1075(b)(55), Jan. 7, 2011, 124 Stat. 4372.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2011—Subsec. (b)(1). Pub. L. 111–383, § 1075(b)(55)(A), substituted “agreement to serve” for “agreement to service”.
+2011—Subsec. (b)(1). Pub. L. 111–383, § 1075(b)(55)(A), substituted “agreement to serve” for “agreement to service”.
 
-Subsec. (i)(2). Pub. L. 111–383, § 1075(b)(55)(B), struck out “whose” after “member’s”.
+Subsec. (i)(2). Pub. L. 111–383, § 1075(b)(55)(B), struck out “whose” after “member’s”.
 
-## § 16133. Time limitation for use of entitlement
+## § 16133. Time limitation for use of entitlement
 
 **(a)** Except as provided in subsection (b), the period during which a person entitled to educational assistance under this chapter may use such person’s entitlement expires on the date the person is separated from the Selected Reserve.
 
@@ -633,15 +633,15 @@ the period for using entitlement prescribed by subsection (a) shall be determine
 
 **(c)** In this section, the term “emergency situation” has the meaning given such term in section 3601 of title 38.
 
-(Added Pub. L. 95–79, title IV, § 402(a), July 30, 1977, 91 Stat. 329, § 2133; amended Pub. L. 96–107, title IV, § 402(b), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–513, title V, § 511(70), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–456, div. A, title XII, § 1233(g)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 100–689, title I, § 111(b)(5), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 102–127, § 3, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–484, div. D, title XLIV, § 4419(a), Oct. 23, 1992, 106 Stat. 2717; Pub. L. 102–568, title III, § 320(a)(2), Oct. 29, 1992, 106 Stat. 4335; Pub. L. 103–160, div. A, title V, § 561(m), Nov. 30, 1993, 107 Stat. 1668; renumbered § 16133 and amended Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), (5), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 105–85, div. A, title V, § 553(b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–261, div. A, title V, § 561(q), Oct. 17, 1998, 112 Stat. 2027; Pub. L. 106–398, § 1 [[div. A], title V, § 571(p)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–314, div. A, title VI, § 641(a), Dec. 2, 2002, 116 Stat. 2576; Pub. L. 110–181, div. A, title V, § 529, Jan. 28, 2008, 122 Stat. 110; Pub. L. 110–252, title V, § 5006(d), June 30, 2008, 122 Stat. 2386; Pub. L. 114–315, title IV, § 416(b), Dec. 16, 2016, 130 Stat. 1565; Pub. L. 117–333, § 3(d), (e)(4), Jan. 5, 2023, 136 Stat. 6127, 6128.)
+(Added Pub. L. 95–79, title IV, § 402(a), July 30, 1977, 91 Stat. 329, § 2133; amended Pub. L. 96–107, title IV, § 402(b), Nov. 9, 1979, 93 Stat. 808; Pub. L. 96–513, title V, § 511(70), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–456, div. A, title XII, § 1233(g)(2), Sept. 29, 1988, 102 Stat. 2058; Pub. L. 100–689, title I, § 111(b)(5), Nov. 18, 1988, 102 Stat. 4173; Pub. L. 102–127, § 3, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–484, div. D, title XLIV, § 4419(a), Oct. 23, 1992, 106 Stat. 2717; Pub. L. 102–568, title III, § 320(a)(2), Oct. 29, 1992, 106 Stat. 4335; Pub. L. 103–160, div. A, title V, § 561(m), Nov. 30, 1993, 107 Stat. 1668; renumbered § 16133 and amended Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), (5), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 105–85, div. A, title V, § 553(b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 105–261, div. A, title V, § 561(q), Oct. 17, 1998, 112 Stat. 2027; Pub. L. 106–398, § 1 [[div. A], title V, § 571(p)], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–314, div. A, title VI, § 641(a), Dec. 2, 2002, 116 Stat. 2576; Pub. L. 110–181, div. A, title V, § 529, Jan. 28, 2008, 122 Stat. 110; Pub. L. 110–252, title V, § 5006(d), June 30, 2008, 122 Stat. 2386; Pub. L. 114–315, title IV, § 416(b), Dec. 16, 2016, 130 Stat. 1565; Pub. L. 117–333, § 3(d), (e)(4), Jan. 5, 2023, 136 Stat. 6127, 6128.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (b)(5). Pub. L. 117–333, § 3(d), added par. (5).
+2023—Subsec. (b)(5). Pub. L. 117–333, § 3(d), added par. (5).
 
-Subsec. (c). Pub. L. 117–333, § 3(e)(4), added subsec. (c).
+Subsec. (c). Pub. L. 117–333, § 3(e)(4), added subsec. (c).
 
 2016—Subsec. (b)(4). Pub. L. 114–315 substituted “12304, 12304a, or 12304b” for “or 12304” in introductory provisions.
 
@@ -655,13 +655,13 @@ Subsec. (b)(1)(B). Pub. L. 110–181 inserted “or the period beginning on Octo
 
 1998—Subsec. (b)(1)(B). Pub. L. 105–261 substituted “September 30, 2001” for “September 30, 1999”.
 
-1997—Subsec. (b)(4). Pub. L. 105–85 struck out “(A)” before “In the case of”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, struck out “, during the Persian Gulf War,” after “Ready Reserve who”, and struck out former subpar. (B) which read as follows: “For the purposes of this paragraph, the term ‘Persian Gulf War’ shall have the meaning given such term in section 101(33) of title 38.”
+1997—Subsec. (b)(4). Pub. L. 105–85 struck out “(A)” before “In the case of”, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, struck out “, during the Persian Gulf War,” after “Ready Reserve who”, and struck out former subpar. (B) which read as follows: “For the purposes of this paragraph, the term ‘Persian Gulf War’ shall have the meaning given such term in section 101(33) of title 38.”
 
-1994—Pub. L. 103–337, § 1663(b)(2), renumbered section 2133 of this title as this section.
+1994—Pub. L. 103–337, § 1663(b)(2), renumbered section 2133 of this title as this section.
 
-Subsec. (b)(1)(B). Pub. L. 103–337, § 1663(b)(5)(A), substituted “10143(a)” for “268(b)”.
+Subsec. (b)(1)(B). Pub. L. 103–337, § 1663(b)(5)(A), substituted “10143(a)” for “268(b)”.
 
-Subsec. (b)(4)(A). Pub. L. 103–337, § 1663(b)(5)(B), substituted “12301(a), 12301(d), 12301(g), 12302, or 12304” for “672(a), (d), or (g), 673, or 673b”.
+Subsec. (b)(4)(A). Pub. L. 103–337, § 1663(b)(5)(B), substituted “12301(a), 12301(d), 12301(g), 12302, or 12304” for “672(a), (d), or (g), 673, or 673b”.
 
 1993—Subsec. (b)(1)(B). Pub. L. 103–160 substituted “September 30, 1999” for “September 30, 1995”.
 
@@ -671,9 +671,9 @@ Subsec. (b)(2), (3). Pub. L. 102–568 substituted “section 3031(f) of title 3
 
 1991—Subsec. (b)(4). Pub. L. 102–127 added par. (4).
 
-1988—Subsec. (a). Pub. L. 100–689, § 111(b)(5)(A), substituted “chapter” for “section”.
+1988—Subsec. (a). Pub. L. 100–689, § 111(b)(5)(A), substituted “chapter” for “section”.
 
-Subsec. (b). Pub. L. 100–689, § 111(b)(5)(B), added par. (1), redesignated existing pars. (1) and (2) as (2) and (3), respectively, and directed the substitution of “1431(f)” for “1431(e)” in par. (2) as redesignated, which could not be executed because such substitution was previously made by Pub. L. 100–456, prior to redesignation of par. (1) as (2), see below.
+Subsec. (b). Pub. L. 100–689, § 111(b)(5)(B), added par. (1), redesignated existing pars. (1) and (2) as (2) and (3), respectively, and directed the substitution of “1431(f)” for “1431(e)” in par. (2) as redesignated, which could not be executed because such substitution was previously made by Pub. L. 100–456, prior to redesignation of par. (1) as (2), see below.
 
 Pub. L. 100–456 substituted “section 1431(f)” for “section 1431(e)” in par. (1).
 
@@ -687,7 +687,7 @@ Pub. L. 100–456 substituted “section 1431(f)” for “section 1431(e)” in
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title VI, § 641(b), Dec. 2, 2002, 116 Stat. 2577, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2002, and shall apply with respect to periods of entitlement to educational assistance under chapter 1606 of title 10, United States Code, that begin on or after October 1, 1992.”
+Pub. L. 107–314, div. A, title VI, § 641(b), Dec. 2, 2002, 116 Stat. 2577, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2002, and shall apply with respect to periods of entitlement to educational assistance under chapter 1606 of title 10, United States Code, that begin on or after October 1, 1992.”
 
 **Effective Date of 1994 Amendment**
 
@@ -707,9 +707,9 @@ Amendment by Pub. L. 96–107 applicable only to individuals enlisting in the Re
 
 **Extension of Time Limitations for Use of Entitlement: Educational Assistance for Members of the Selected Reserve**
 
-Pub. L. 116–140, § 6(d), Apr. 28, 2020, 134 Stat. 634, which provided for a temporary extension to use entitled educational assistance, was repealed by Pub. L. 117–333, § 3(f), Jan. 5, 2023, 136 Stat. 6128. See subsec. (b)(5) of this section.
+Pub. L. 116–140, § 6(d), Apr. 28, 2020, 134 Stat. 634, which provided for a temporary extension to use entitled educational assistance, was repealed by Pub. L. 117–333, § 3(f), Jan. 5, 2023, 136 Stat. 6128. See subsec. (b)(5) of this section.
 
-## § 16134. Termination of assistance
+## § 16134. Termination of assistance
 
 Educational assistance may not be provided under this chapter—
 
@@ -717,7 +717,7 @@ Educational assistance may not be provided under this chapter—
 
 **(2)** to a member who fails to participate satisfactorily in required training as a member of the Selected Reserve.
 
-(Added Pub. L. 95–79, title IV, § 402(a), July 30, 1977, 91 Stat. 330, § 2134; amended Pub. L. 98–94, title XII, § 1268(14), Sept. 24, 1983, 97 Stat. 707; Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2566; renumbered § 16134, Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.)
+(Added Pub. L. 95–79, title IV, § 402(a), July 30, 1977, 91 Stat. 330, § 2134; amended Pub. L. 98–94, title XII, § 1268(14), Sept. 24, 1983, 97 Stat. 707; Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2566; renumbered § 16134, Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.)
 
 **Editorial Notes**
 
@@ -735,7 +735,7 @@ Educational assistance may not be provided under this chapter—
 
 Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members of the Armed Forces who qualify for educational assistance under this chapter on or after such date, see section 705(b) of Pub. L. 98–525, set out as a note under section 16131 of this title.
 
-## § 16135. Failure to participate satisfactorily; penalties
+## § 16135. Failure to participate satisfactorily; penalties
 
 **(a) Penalties.—** At the option of the Secretary concerned, a member of the Selected Reserve of an armed force who does not participate satisfactorily in required training as a member of the Selected Reserve during a term of enlistment or other period of obligated service that created entitlement of the member to educational assistance under this chapter, and during which the member has received such assistance, may—
 
@@ -745,7 +745,7 @@ Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members
 
 **(b) Effect of Repayment.—** Any repayment under section 303a(e) or 373 of title 37 shall not affect the period of obligation of a member to serve as a Reserve in the Selected Reserve.
 
-(Added Pub. L. 95–79, title IV, § 402(a), July 30, 1977, 91 Stat. 330, § 2135; amended Pub. L. 95–485, title IV, § 402(b), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–342, title IX, § 906(b), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–689, title I, § 111(b)(6), Nov. 18, 1988, 102 Stat. 4173; renumbered § 16135 and amended Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), (6), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title XV, § 1501(b)(35), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–314, div. A, title VI, § 642, Dec. 2, 2002, 116 Stat. 2577; Pub. L. 109–163, div. A, title VI, § 687(c)(12), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(N), Dec. 12, 2017, 131 Stat. 1426.)
+(Added Pub. L. 95–79, title IV, § 402(a), July 30, 1977, 91 Stat. 330, § 2135; amended Pub. L. 95–485, title IV, § 402(b), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–342, title IX, § 906(b), Sept. 8, 1980, 94 Stat. 1117; Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2566; Pub. L. 100–689, title I, § 111(b)(6), Nov. 18, 1988, 102 Stat. 4173; renumbered § 16135 and amended Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), (6), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title XV, § 1501(b)(35), Feb. 10, 1996, 110 Stat. 498; Pub. L. 107–314, div. A, title VI, § 642, Dec. 2, 2002, 116 Stat. 2577; Pub. L. 109–163, div. A, title VI, § 687(c)(12), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(N), Dec. 12, 2017, 131 Stat. 1426.)
 
 **Editorial Notes**
 
@@ -759,15 +759,15 @@ Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members
 
 1996—Subsec. (b)(1)(A). Pub. L. 104–106 substituted “16131(a)” for “2131(a)”.
 
-1994—Pub. L. 103–337, § 1663(b)(2), renumbered section 2135 of this title as this section.
+1994—Pub. L. 103–337, § 1663(b)(2), renumbered section 2135 of this title as this section.
 
-Subsec. (a)(1)(A). Pub. L. 103–337, § 1663(b)(6)(A), substituted “16132” for “2132”.
+Subsec. (a)(1)(A). Pub. L. 103–337, § 1663(b)(6)(A), substituted “16132” for “2132”.
 
-Subsec. (b)(1)(A). Pub. L. 103–337, § 1663(b)(6)(B), which directed substitution of “section 16132(a)” for “section 2132(a)”, could not be executed because “section 2132(a)” does not appear in subsec. (b)(1)(A).
+Subsec. (b)(1)(A). Pub. L. 103–337, § 1663(b)(6)(B), which directed substitution of “section 16132(a)” for “section 2132(a)”, could not be executed because “section 2132(a)” does not appear in subsec. (b)(1)(A).
 
-1988—Subsec. (a)(1). Pub. L. 100–689, § 111(b)(6)(A), inserted “, and during which the member has received such assistance,” after “chapter”.
+1988—Subsec. (a)(1). Pub. L. 100–689, § 111(b)(6)(A), inserted “, and during which the member has received such assistance,” after “chapter”.
 
-Subsec. (b)(1)(A). Pub. L. 100–689, § 111(b)(6)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “the number of months of obligated service remaining under the agreement entered into under section 2132(a)(3) divided by the original number of months of such obligation; and”.
+Subsec. (b)(1)(A). Pub. L. 100–689, § 111(b)(6)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “the number of months of obligated service remaining under the agreement entered into under section 2132(a)(3) divided by the original number of months of such obligation; and”.
 
 1984—Pub. L. 98–525 amended section generally, substituting provisions relating to the failure to participate satisfactorily and penalties for provisions which had designated Sept. 30, 1985, as the termination date for enlistments qualifying for educational assistance.
 
@@ -793,7 +793,7 @@ Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 
-## § 16136. Administration of program
+## § 16136. Administration of program
 
 **(a)** Educational assistance under this chapter shall be provided through the Department of Veterans Affairs, under agreements to be entered into by the Secretary of Defense, and by the Secretary of Homeland Security, with the Secretary of Veterans Affairs. Such agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Department of Veterans Affairs for the making of payments under this chapter.
 
@@ -807,7 +807,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **(3)** the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.
 
-(Added Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2567, § 2136; amended Pub. L. 101–189, div. A, title VI, §§ 642(c), 645(a)(1), Nov. 29, 1989, 103 Stat. 1457, 1458; Pub. L. 101–237, title IV, §§ 405(d)(3), 422(b)(1), Dec. 18, 1989, 103 Stat. 2081, 2089; Pub. L. 101–510, div. A, title XIV, § 1484(j)(3), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 102–16, § 10(b), Mar. 22, 1991, 105 Stat. 56; Pub. L. 102–568, title III, §§ 313(a)(6), 319, 320(a)(3), Oct. 29, 1992, 106 Stat. 4333, 4335, 4336; renumbered § 16136, Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006; Pub. L. 103–446, title VI, § 601(c), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, § 204(b), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2567, § 2136; amended Pub. L. 101–189, div. A, title VI, §§ 642(c), 645(a)(1), Nov. 29, 1989, 103 Stat. 1457, 1458; Pub. L. 101–237, title IV, §§ 405(d)(3), 422(b)(1), Dec. 18, 1989, 103 Stat. 2081, 2089; Pub. L. 101–510, div. A, title XIV, § 1484(j)(3), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 102–16, § 10(b), Mar. 22, 1991, 105 Stat. 56; Pub. L. 102–568, title III, §§ 313(a)(6), 319, 320(a)(3), Oct. 29, 1992, 106 Stat. 4333, 4335, 4336; renumbered § 16136, Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006; Pub. L. 103–446, title VI, § 601(c), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title II, § 204(b), Nov. 11, 1998, 112 Stat. 3327; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -815,29 +815,29 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 2002—Subsec. (a). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1998—Subsec. (c)(2). Pub. L. 105–245 substituted “pilot certificate” for “pilot’s license” in two places and inserted “, on the day the individual begins a course of flight training,” after “meets”.
+1998—Subsec. (c)(2). Pub. L. 105–245 substituted “pilot certificate” for “pilot’s license” in two places and inserted “, on the day the individual begins a course of flight training,” after “meets”.
 
 1994—Pub. L. 103–337 renumbered section 2136 of this title as this section.
 
 Subsec. (c). Pub. L. 103–446 struck out “(1)” after “(c)”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “This subsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
 
-1992—Subsec. (b). Pub. L. 102–568, § 320(a)(3), substituted “sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692)” for “sections 1670, 1671, 1673, 1674, 1676, 1682(g), 1683, and 1685 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1786(a), 1787, and 1792)”.
+1992—Subsec. (b). Pub. L. 102–568, § 320(a)(3), substituted “sections 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692)” for “sections 1670, 1671, 1673, 1674, 1676, 1682(g), 1683, and 1685 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1786(a), 1787, and 1792)”.
 
-Pub. L. 102–568, § 319, struck out “1780(c),” after “exception of sections”.
+Pub. L. 102–568, § 319, struck out “1780(c),” after “exception of sections”.
 
-Subsec. (c)(1). Pub. L. 102–568, § 313(a)(6), substituted “section 3680A(b) of title 38” for “section 1673(b) of title 38”.
+Subsec. (c)(1). Pub. L. 102–568, § 313(a)(6), substituted “section 3680A(b) of title 38” for “section 1673(b) of title 38”.
 
 1991—Subsec. (b). Pub. L. 102–16 struck out “1434(b), 1663,” before “1670,” and “1780(g),” before “1786(a),”.
 
 1990—Subsec. (a). Pub. L. 101–510 substituted “Department of Veterans Affairs” for “Veterans’ Administration” in two places.
 
-1989—Subsec. (a). Pub. L. 101–189, § 645(a)(1), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+1989—Subsec. (a). Pub. L. 101–189, § 645(a)(1), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-Subsec. (b). Pub. L. 101–237, § 405(d)(3), inserted reference to section 1685 of title 38.
+Subsec. (b). Pub. L. 101–237, § 405(d)(3), inserted reference to section 1685 of title 38.
 
-Pub. L. 101–189, § 642(c), amended first sentence generally and substituted “and the term ‘a person’, as used” for “, as used” in second sentence. Prior to amendment, first sentence read as follows: “Except as otherwise provided in this chapter, the provisions of sections 1663, 1670, 1671, 1673, 1674, 1676, 1682(g), and 1683 of chapter 34 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1780(a)(5), 1780(b), 1786, 1787(b)(1), and 1792) shall be applicable to the provision of educational assistance under this chapter.”
+Pub. L. 101–189, § 642(c), amended first sentence generally and substituted “and the term ‘a person’, as used” for “, as used” in second sentence. Prior to amendment, first sentence read as follows: “Except as otherwise provided in this chapter, the provisions of sections 1663, 1670, 1671, 1673, 1674, 1676, 1682(g), and 1683 of chapter 34 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 1780(a)(5), 1780(b), 1786, 1787(b)(1), and 1792) shall be applicable to the provision of educational assistance under this chapter.”
 
-Subsec. (c). Pub. L. 101–237, § 422(b)(1), added subsec. (c).
+Subsec. (c). Pub. L. 101–237, § 422(b)(1), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -847,7 +847,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title II, § 204(c), Nov. 11, 1998, 112 Stat. 3327, provided that: “The amendments made by this section [amending this section and sections 3034 and 3241 of Title 38, Veterans’ Benefits] shall apply with respect to courses of flight training beginning on or after October 1, 1998.”
+Pub. L. 105–368, title II, § 204(c), Nov. 11, 1998, 112 Stat. 3327, provided that: “The amendments made by this section [amending this section and sections 3034 and 3241 of Title 38, Veterans’ Benefits] shall apply with respect to courses of flight training beginning on or after October 1, 1998.”
 
 **Effective Date of 1994 Amendment**
 
@@ -855,7 +855,7 @@ Amendment by Pub. L. 103–446 effective Oct. 1, 1994, see section 601(d) of Pub
 
 **Effective Date of 1989 Amendments**
 
-Pub. L. 101–237, title IV, § 405(e), Dec. 18, 1989, 103 Stat. 2082, provided that: “The amendments made by this section [amending this section and section 1685 [now 3485] of Title 38, Veterans’ Benefits] shall take effect on May 1, 1990, and shall apply to services performed on or after that date.”
+Pub. L. 101–237, title IV, § 405(e), Dec. 18, 1989, 103 Stat. 2082, provided that: “The amendments made by this section [amending this section and section 1685 [now 3485] of Title 38, Veterans’ Benefits] shall take effect on May 1, 1990, and shall apply to services performed on or after that date.”
 
 Amendment by section 422(b)(1) of Pub. L. 101–237 effective Sept. 30, 1990, see section 422(d) of Pub. L. 101–237, set out as a note under section 16131 of this title.
 
@@ -867,8 +867,8 @@ Section effective July 1, 1985, applicable only to members of the Armed Forces w
 
 **Savings Provision**
 
-Pub. L. 102–568, title III, § 313(b), Oct. 29, 1992, 106 Stat. 4333, provided that: “The amendments made by paragraphs (2) through (6) of subsection (a) of this section [enacting section 3680A of Title 38, Veterans’ Benefits, amending this section and sections 3034 and 3241 of Title 38, and repealing section 3473 of Title 38] shall not apply to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on the date of enactment of this section [Oct. 29, 1992] for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under title 38, United States Code, or title 10, United States Code, in effect on that date.”
+Pub. L. 102–568, title III, § 313(b), Oct. 29, 1992, 106 Stat. 4333, provided that: “The amendments made by paragraphs (2) through (6) of subsection (a) of this section [enacting section 3680A of Title 38, Veterans’ Benefits, amending this section and sections 3034 and 3241 of Title 38, and repealing section 3473 of Title 38] shall not apply to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on the date of enactment of this section [Oct. 29, 1992] for as long as such person is continuously thereafter so enrolled and meets the requirements of eligibility for such assistance for the pursuit of such program under title 38, United States Code, or title 10, United States Code, in effect on that date.”
 
-## [§ 16137. Repealed. Pub. L. 112–81, div. A, title X, § 1061(29)(A), Dec. 31, 2011, 125 Stat. 1584]
+## [§ 16137. Repealed. Pub. L. 112–81, div. A, title X, § 1061(29)(A), Dec. 31, 2011, 125 Stat. 1584]
 
-Section, added Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2567, § 2137; renumbered § 16137, Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006; amended Pub. L. 104–106, div. A, title X, § 1077, Feb. 10, 1996, 110 Stat. 451; Pub. L. 106–65, div. A, title V, § 548(a), Oct. 5, 1999, 113 Stat. 609, required biennial report on the operation of the educational assistance program.
+Section, added Pub. L. 98–525, title VII, § 705(a)(1), Oct. 19, 1984, 98 Stat. 2567, § 2137; renumbered § 16137, Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006; amended Pub. L. 104–106, div. A, title X, § 1077, Feb. 10, 1996, 110 Stat. 451; Pub. L. 106–65, div. A, title V, § 548(a), Oct. 5, 1999, 113 Stat. 609, required biennial report on the operation of the educational assistance program.

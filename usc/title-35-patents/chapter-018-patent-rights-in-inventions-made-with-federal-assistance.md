@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2000—Pub. L. 106–404, § 4(b), Nov. 1, 2000, 114 Stat. 1744, substituted “Licensing federally owned inventions” for “Restrictions on licensing of federally owned inventions” in item 209.
+2000—Pub. L. 106–404, § 4(b), Nov. 1, 2000, 114 Stat. 1744, substituted “Licensing federally owned inventions” for “Restrictions on licensing of federally owned inventions” in item 209.
 
-1984—Pub. L. 98–620, title V, § 501(15), Nov. 8, 1984, 98 Stat. 3368, added item 212.
+1984—Pub. L. 98–620, title V, § 501(15), Nov. 8, 1984, 98 Stat. 3368, added item 212.
 
-1982—Pub. L. 97–256, title I, § 101(5), Sept. 8, 1982, 96 Stat. 816, redesignated chapter 38, as added by Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3018, comprising sections 200 to 211, as chapter 18, and transferred chapter 18, as so redesignated, to end of this part from end of part IV.
+1982—Pub. L. 97–256, title I, § 101(5), Sept. 8, 1982, 96 Stat. 816, redesignated chapter 38, as added by Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3018, comprising sections 200 to 211, as chapter 18, and transferred chapter 18, as so redesignated, to end of this part from end of part IV.
 
-## § 200. Policy and objective
+## § 200. Policy and objective
 
 It is the policy and objective of the Congress to use the patent system to promote the utilization of inventions arising from federally supported research or development; to encourage maximum participation of small business firms in federally supported research and development efforts; to promote collaboration between commercial concerns and nonprofit organizations, including universities; to ensure that inventions made by nonprofit organizations and small business firms are used in a manner to promote free competition and enterprise without unduly encumbering future research and discovery; to promote the commercialization and public availability of inventions made in the United States by United States industry and labor; to ensure that the Government obtains sufficient rights in federally supported inventions to meet the needs of the Government and protect the public against nonuse or unreasonable use of inventions; and to minimize the costs of administering policies in this area.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3018; amended Pub. L. 106–404, § 5, Nov. 1, 2000, 114 Stat. 1745.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3018; amended Pub. L. 106–404, § 5, Nov. 1, 2000, 114 Stat. 1745.)
 
 **Editorial Notes**
 
@@ -47,7 +47,7 @@ Section effective July 1, 1981, but implementing regulations authorized to be is
 
 This chapter is popularly known as the Bayh-Dole Act. Section 6(a) of Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3018, which enacted this chapter, is also popularly known as the Bayh-Dole Act and also as the University and Small Business Patent Procedures Act of 1980. For complete classification of section 6(a) of Pub. L. 96–517 to the Code, see Tables.
 
-## § 201. Definitions
+## § 201. Definitions
 
 As used in this chapter—
 
@@ -59,9 +59,9 @@ As used in this chapter—
 
 **(d)** The term “invention” means any invention or discovery which is or may be patentable or otherwise protectable under this title or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.).
 
-**(e)** The term “subject invention” means any invention of the contractor conceived or first actually reduced to practice in the performance of work under a funding agreement: *Provided*, That in the case of a variety of plant, the date of determination (as defined in section 41(d) 1
+**(e)** The term “subject invention” means any invention of the contractor conceived or first actually reduced to practice in the performance of work under a funding agreement: *Provided*, That in the case of a variety of plant, the date of determination (as defined in section 41(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Plant Variety Protection Act (7 U.S.C. 2401(d))) must also occur during the period of contract performance.
 
@@ -73,25 +73,25 @@ of the Plant Variety Protection Act (7 U.S.C. 2401(d))) must also occur during t
 
 **(i)** The term “nonprofit organization” means universities and other institutions of higher education or an organization of the type described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)) and exempt from taxation under section 501(a) of the Internal Revenue Code (26 U.S.C. 501(a)) or any nonprofit scientific or educational organization qualified under a State nonprofit organization statute.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3019; amended Pub. L. 98–620, title V, § 501(1), (2), Nov. 8, 1984, 98 Stat. 3364; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–273, div. C, title III, § 13206(a)(12), Nov. 2, 2002, 116 Stat. 1904.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3019; amended Pub. L. 98–620, title V, § 501(1), (2), Nov. 8, 1984, 98 Stat. 3364; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–273, div. C, title III, § 13206(a)(12), Nov. 2, 2002, 116 Stat. 1904.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Plant Variety Protection Act, referred to in subsec. (d), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
+The Plant Variety Protection Act, referred to in subsec. (d), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
 
 Section 41 of the Plant Variety Protection Act (7 U.S.C. 2401(d)), referred to in subsec. (e), was subsequently amended, and no longer defines the term “date of determination”.
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–273 struck out “United States Code,” after “section 105 of title 5,” and “, United States Code” after “section 102 of title 5”.
+2002—Subsec. (a). Pub. L. 107–273 struck out “United States Code,” after “section 105 of title 5,” and “, United States Code” after “section 102 of title 5”.
 
 1986—Subsec. (i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1984—Subsec. (d). Pub. L. 98–620, § 501(1), inserted “or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.)” after “title”.
+1984—Subsec. (d). Pub. L. 98–620, § 501(1), inserted “or any novel variety of plant which is or may be protectable under the Plant Variety Protection Act (7 U.S.C. 2321 et seq.)” after “title”.
 
-Subsec. (e). Pub. L. 98–620, § 501(2), inserted “: *Provided*, That in the case of a variety of plant, the date of determination (as defined in section 41(d) of the Plant Variety Protection Act (7 U.S.C. 2401(d))) must also occur during the period of contract performance” after “agreement”.
+Subsec. (e). Pub. L. 98–620, § 501(2), inserted “: *Provided*, That in the case of a variety of plant, the date of determination (as defined in section 41(d) of the Plant Variety Protection Act (7 U.S.C. 2401(d))) must also occur during the period of contract performance” after “agreement”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -99,7 +99,7 @@ Subsec. (e). Pub. L. 98–620, § 501(2), inserted “: *Provided*, That in 
 
 Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 202. Disposition of rights
+## § 202. Disposition of rights
 
 **(a)** Each nonprofit organization or small business firm may, within a reasonable time after disclosure as required by paragraph (c)(1) of this section, elect to retain title to any subject invention: *Provided, however*, That a funding agreement may provide otherwise (i) when the contractor is not located in the United States or does not have a place of business located in the United States or is subject to the control of a foreign government, (ii) in exceptional circumstances when it is determined by the agency that restriction or elimination of the right to retain title to any subject invention will better promote the policy and objectives of this chapter (iii) when it is determined by a Government authority which is authorized by statute or Executive order to conduct foreign intelligence or counter-intelligence activities that the restriction or elimination of the right to retain title to any subject invention is necessary to protect the security of such activities or, (iv) when the funding agreement includes the operation of a Government-owned, contractor-operated facility of the Department of Energy primarily dedicated to that Department’s naval nuclear propulsion or weapons related programs and all funding agreement limitations under this subparagraph on the contractor’s right to elect title to a subject invention are limited to inventions occurring under the above two programs of the Department of Energy. The rights of the nonprofit organization or small business firm shall be subject to the provisions of paragraph (c) of this section and the other provisions of this chapter.
 
@@ -143,7 +143,7 @@ Section effective July 1, 1981, but implementing regulations authorized to be is
 
 **(2)** A Federal agency shall not require the licensing of third parties under any such provision unless the head of the agency determines that the use of the invention by others is necessary for the practice of a subject invention or for the use of a work object of the funding agreement and that such action is necessary to achieve the practical application of the subject invention or work object. Any such determination shall be on the record after an opportunity for an agency hearing. Any action commenced for judicial review of such determination shall be brought within sixty days after notification of such determination.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3020; amended Pub. L. 98–620, title V, § 501(3)–(8), Nov. 8, 1984, 98 Stat. 3364–3366; Pub. L. 102–204, § 10, Dec. 10, 1991, 105 Stat. 1641; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(12)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–404, § 6(1), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 107–273, div. C, title III, § 13206(a)(13), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 111–8, div. G, title I, § 1301(h), Mar. 11, 2009, 123 Stat. 829; Pub. L. 112–29, §§ 3(g)(7), 13(a), 20(i)(2), Sept. 16, 2011, 125 Stat. 288, 327, 334.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3020; amended Pub. L. 98–620, title V, § 501(3)–(8), Nov. 8, 1984, 98 Stat. 3364–3366; Pub. L. 102–204, § 10, Dec. 10, 1991, 105 Stat. 1641; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(12)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–404, § 6(1), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 107–273, div. C, title III, § 13206(a)(13), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 111–8, div. G, title I, § 1301(h), Mar. 11, 2009, 123 Stat. 829; Pub. L. 112–29, §§ 3(g)(7), 13(a), 20(i)(2), Sept. 16, 2011, 125 Stat. 288, 327, 334.)
 
 **Editorial Notes**
 
@@ -153,23 +153,23 @@ This Act, referred to in subsec. (d), probably means Pub. L. 96–517, Dec. 12, 
 
 **Amendments**
 
-2011—Subsec. (b)(3). Pub. L. 112–29, § 20(i)(2)(A), substituted “section 203(b)” for “the section 203(b)”.
+2011—Subsec. (b)(3). Pub. L. 112–29, § 20(i)(2)(A), substituted “section 203(b)” for “the section 203(b)”.
 
-Subsec. (c)(2). Pub. L. 112–29, § 3(g)(7)(A), substituted “the 1-year period referred to in section 102(b) would end before the end of that 2-year period” for “publication, on sale, or public use, has initiated the one year statutory period in which valid patent protection can still be obtained in the United States” and “before the end of that 1-year” for “prior to the end of the statutory”.
+Subsec. (c)(2). Pub. L. 112–29, § 3(g)(7)(A), substituted “the 1-year period referred to in section 102(b) would end before the end of that 2-year period” for “publication, on sale, or public use, has initiated the one year statutory period in which valid patent protection can still be obtained in the United States” and “before the end of that 1-year” for “prior to the end of the statutory”.
 
-Subsec. (c)(3). Pub. L. 112–29, § 3(g)(7)(B), substituted “the expiration of the 1-year period referred to in section 102(b)” for “any statutory bar date that may occur under this title due to publication, on sale, or public use”.
+Subsec. (c)(3). Pub. L. 112–29, § 3(g)(7)(B), substituted “the expiration of the 1-year period referred to in section 102(b)” for “any statutory bar date that may occur under this title due to publication, on sale, or public use”.
 
-Subsec. (c)(7)(D). Pub. L. 112–29, § 20(i)(2)(B), substituted “except where it is determined to be infeasible following a reasonable inquiry, a preference in the licensing of subject inventions shall be given to small business firms; and” for “except where it proves infeasible after a reasonable inquiry, in the licensing of subject inventions shall be given to small business firms; and”.
+Subsec. (c)(7)(D). Pub. L. 112–29, § 20(i)(2)(B), substituted “except where it is determined to be infeasible following a reasonable inquiry, a preference in the licensing of subject inventions shall be given to small business firms; and” for “except where it proves infeasible after a reasonable inquiry, in the licensing of subject inventions shall be given to small business firms; and”.
 
-Subsec. (c)(7)(E)(i). Pub. L. 112–29, § 13(a), substituted “15 percent” for “75 percent”, “85 percent” for “25 percent”, and “described above in this clause;” for “as described above in this clause (D);”.
+Subsec. (c)(7)(E)(i). Pub. L. 112–29, § 13(a), substituted “15 percent” for “75 percent”, “85 percent” for “25 percent”, and “described above in this clause;” for “as described above in this clause (D);”.
 
 2009—Subsec. (b)(3), (4). Pub. L. 111–8 redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “At least once every 5 years, the Comptroller General shall transmit a report to the Committees on the Judiciary of the Senate and House of Representatives on the manner in which this chapter is being implemented by the agencies and on such other aspects of Government patent policies and practices with respect to federally funded inventions as the Comptroller General believes appropriate.”
 
-2002—Subsec. (b)(4). Pub. L. 107–273, § 13206(a)(13)(A), substituted “section 203(b)” for “last paragraph of section 203(2)”.
+2002—Subsec. (b)(4). Pub. L. 107–273, § 13206(a)(13)(A), substituted “section 203(b)” for “last paragraph of section 203(2)”.
 
-Subsec. (c)(4). Pub. L. 107–273, § 13206(a)(13)(B)(i), substituted “additional rights,” for “additional rights;”.
+Subsec. (c)(4). Pub. L. 107–273, § 13206(a)(13)(B)(i), substituted “additional rights,” for “additional rights;”.
 
-Subsec. (c)(5). Pub. L. 107–273, § 13206(a)(13)(B)(ii), struck out “of the United States Code” after “section 552 of title 5”.
+Subsec. (c)(5). Pub. L. 107–273, § 13206(a)(13)(B)(ii), struck out “of the United States Code” after “section 552 of title 5”.
 
 2000—Subsec. (e). Pub. L. 106–404 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In any case when a Federal employee is a coinventor of any invention made under a funding agreement with a nonprofit organization or small business firm, the Federal agency employing such coinventor is authorized to transfer or assign whatever rights it may acquire in the subject invention from its employee to the contractor subject to the conditions set forth in this chapter.”
 
@@ -177,33 +177,33 @@ Subsec. (c)(5). Pub. L. 107–273, § 13206(a)(13)(B)(ii), struck out “of th
 
 1991—Subsec. (b)(3). Pub. L. 102–204 substituted “every 5 years” for “each year”.
 
-1984—Subsec. (a). Pub. L. 98–620, § 501(3), substituted “when the contractor is not located in the United States or does not have a place of business located in the United States or is subject to the control of a foreign government” for “when the funding agreement is for the operation of a Government-owned research or production facility”, struck out “or” before “(ii)”, which was executed by striking out “or” before “(iii)” as the probable intent of Congress, and added cl. (iv).
+1984—Subsec. (a). Pub. L. 98–620, § 501(3), substituted “when the contractor is not located in the United States or does not have a place of business located in the United States or is subject to the control of a foreign government” for “when the funding agreement is for the operation of a Government-owned research or production facility”, struck out “or” before “(ii)”, which was executed by striking out “or” before “(iii)” as the probable intent of Congress, and added cl. (iv).
 
-Subsec. (b)(1). Pub. L. 98–620, § 501(4), gave to the Department of Commerce oversight of agency use of the exceptions to small business or nonprofit organization invention ownership.
+Subsec. (b)(1). Pub. L. 98–620, § 501(4), gave to the Department of Commerce oversight of agency use of the exceptions to small business or nonprofit organization invention ownership.
 
-Subsec. (b)(2). Pub. L. 98–620, § 501(4), substituted provisions authorizing the Administrator of the Office of Federal Procurement Policy to issue regulations describing situations in which agencies may not exercise the authorities of clauses (i) or (ii) of subsec. (a), whenever the Administrator has determined that one or more agencies are utilizing such authority in violation of this chapter for provisions which gave to the Comptroller General oversight of agency actions under this chapter.
+Subsec. (b)(2). Pub. L. 98–620, § 501(4), substituted provisions authorizing the Administrator of the Office of Federal Procurement Policy to issue regulations describing situations in which agencies may not exercise the authorities of clauses (i) or (ii) of subsec. (a), whenever the Administrator has determined that one or more agencies are utilizing such authority in violation of this chapter for provisions which gave to the Comptroller General oversight of agency actions under this chapter.
 
-Subsec. (b)(4). Pub. L. 98–620, § 501(4A), added par. (4).
+Subsec. (b)(4). Pub. L. 98–620, § 501(4A), added par. (4).
 
-Subsec. (c)(1). Pub. L. 98–620, § 501(5), substituted provisions requiring disclosure of each invention within a reasonable time after it becomes known to contractor personnel responsible for the administration of patent matters for provision requiring disclosure of each invention within a reasonable time after it is made.
+Subsec. (c)(1). Pub. L. 98–620, § 501(5), substituted provisions requiring disclosure of each invention within a reasonable time after it becomes known to contractor personnel responsible for the administration of patent matters for provision requiring disclosure of each invention within a reasonable time after it is made.
 
-Subsec. (c)(2). Pub. L. 98–620, § 501(5), substituted provisions requiring the contractor to make a written election within two years after disclosure to the Federal agency (or such additional time as may be approved by the Federal agency) whether the contractor will retain title to a subject invention for provision requiring election to retain title within a reasonable time after disclosure, and inserted provision authorizing the Federal agency to shorten the period for election under certain circumstances.
+Subsec. (c)(2). Pub. L. 98–620, § 501(5), substituted provisions requiring the contractor to make a written election within two years after disclosure to the Federal agency (or such additional time as may be approved by the Federal agency) whether the contractor will retain title to a subject invention for provision requiring election to retain title within a reasonable time after disclosure, and inserted provision authorizing the Federal agency to shorten the period for election under certain circumstances.
 
-Subsec. (c)(3). Pub. L. 98–620, § 501(5), substituted provisions requiring a contractor electing rights in a subject invention to file a patent application prior to any statutory bar date that may occur under this title due to publication, on sale, or public use, and thereafter to file corresponding patent applications in other countries in which it wishes to retain title within reasonable times for provisions requiring the contractor to file patent applications within a reasonable time.
+Subsec. (c)(3). Pub. L. 98–620, § 501(5), substituted provisions requiring a contractor electing rights in a subject invention to file a patent application prior to any statutory bar date that may occur under this title due to publication, on sale, or public use, and thereafter to file corresponding patent applications in other countries in which it wishes to retain title within reasonable times for provisions requiring the contractor to file patent applications within a reasonable time.
 
-Subsec. (c)(4). Pub. L. 98–620, § 501(5), substituted provision that the funding agreement may provide for such additional rights, including the right to assign or have assigned foreign patent rights in the subject invention, as are determined by the agency as necessary for meeting the obligations of the United States under any treaty, international agreement, arrangement of cooperation, memorandum of understanding, or similar arrangement, including any military agreement relating to weapons development and production for provision that the agency could, if provided in the funding agreement, have additional rights to sublicense any foreign government or international organization pursuant to any existing or future treaty or agreement.
+Subsec. (c)(4). Pub. L. 98–620, § 501(5), substituted provision that the funding agreement may provide for such additional rights, including the right to assign or have assigned foreign patent rights in the subject invention, as are determined by the agency as necessary for meeting the obligations of the United States under any treaty, international agreement, arrangement of cooperation, memorandum of understanding, or similar arrangement, including any military agreement relating to weapons development and production for provision that the agency could, if provided in the funding agreement, have additional rights to sublicense any foreign government or international organization pursuant to any existing or future treaty or agreement.
 
-Subsec. (c)(5). Pub. L. 98–620, § 501(6), substituted “as well as any information on utilization or efforts at obtaining utilization obtained as part of a proceeding under section 203 of this chapter shall be treated” for “may be treated”.
+Subsec. (c)(5). Pub. L. 98–620, § 501(6), substituted “as well as any information on utilization or efforts at obtaining utilization obtained as part of a proceeding under section 203 of this chapter shall be treated” for “may be treated”.
 
-Subsec. (c)(7)(A). Pub. L. 98–620, § 501(7), struck out provision which made an exception for organizations which were not themselves engaged in or did not hold a substantial interest in other organizations engaged in the manufacture or sales of products or the use of processes that might utilize the invention or be in competition with embodiments of the invention.
+Subsec. (c)(7)(A). Pub. L. 98–620, § 501(7), struck out provision which made an exception for organizations which were not themselves engaged in or did not hold a substantial interest in other organizations engaged in the manufacture or sales of products or the use of processes that might utilize the invention or be in competition with embodiments of the invention.
 
-Subsec. (c)(7)(B). Pub. L. 98–620, § 501(8), redesignated cl. (C) as (B). Former cl. (B), relating to a prohibition against the granting of exclusive licenses under United States Patents or Patent Applications in a subject invention by the contractor to persons other than small business firms for periods in excess of certain specified periods and relating to commercial sales, was struck out.
+Subsec. (c)(7)(B). Pub. L. 98–620, § 501(8), redesignated cl. (C) as (B). Former cl. (B), relating to a prohibition against the granting of exclusive licenses under United States Patents or Patent Applications in a subject invention by the contractor to persons other than small business firms for periods in excess of certain specified periods and relating to commercial sales, was struck out.
 
-Subsec. (c)(7)(C). Pub. L. 98–620, § 501(8), added cl. (C). Former cl. (C) redesignated (B).
+Subsec. (c)(7)(C). Pub. L. 98–620, § 501(8), added cl. (C). Former cl. (C) redesignated (B).
 
-Subsec. (c)(7)(D). Pub. L. 98–620, § 501(8), added cl. (D). Former cl. (D) redesignated (E).
+Subsec. (c)(7)(D). Pub. L. 98–620, § 501(8), added cl. (D). Former cl. (D) redesignated (E).
 
-Subsec. (c)(7)(E). Pub. L. 98–620, § 501(8), redesignated former cl. (D) as (E) and inserted provisions placing a limit on the amount of royalties that the contract operators of Government-owned laboratories are entitled to retain after paying patent administrative expenses and a share of the royalties to inventors, requiring payment of amounts in excess of such limits to the United States Treasury, and requiring that, to the extent it provides the most effective technology transfer, the licensing of subject inventions shall be administered by contractor employees on location at the facility.
+Subsec. (c)(7)(E). Pub. L. 98–620, § 501(8), redesignated former cl. (D) as (E) and inserted provisions placing a limit on the amount of royalties that the contract operators of Government-owned laboratories are entitled to retain after paying patent administrative expenses and a share of the royalties to inventors, requiring payment of amounts in excess of such limits to the United States Treasury, and requiring that, to the extent it provides the most effective technology transfer, the licensing of subject inventions shall be administered by contractor employees on location at the facility.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -211,19 +211,19 @@ Subsec. (c)(7)(E). Pub. L. 98–620, § 501(8), redesignated former cl. (D) as
 
 Amendment by section 3(g)(7) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
 
-Pub. L. 112–29, § 13(b), Sept. 16, 2011, 125 Stat. 327, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued before, on, or after that date.”
+Pub. L. 112–29, § 13(b), Sept. 16, 2011, 125 Stat. 327, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued before, on, or after that date.”
 
 Amendment by section 20(i)(2) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(*l*) of Pub. L. 112–29, set out as a note under section 2 of this title.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date**
 
 Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 203. March-in rights
+## § 203. March-in rights
 
 **(a)** With respect to any subject invention in which a small business firm or nonprofit organization has acquired title under this chapter, the Federal agency under whose funding agreement the subject invention was made shall have the right, in accordance with such procedures as are provided in regulations promulgated hereunder to require the contractor, an assignee or exclusive licensee of a subject invention to grant a nonexclusive, partially exclusive, or exclusive license in any field of use to a responsible applicant or applicants, upon terms that are reasonable under the circumstances, and if the contractor, assignee, or exclusive licensee refuses such request, to grant such a license itself, if the Federal agency determines that such—
 
@@ -235,23 +235,23 @@ Section effective July 1, 1981, but implementing regulations authorized to be is
 
 **(4)** action is necessary because the agreement required by section 204 has not been obtained or waived or because a licensee of the exclusive right to use or sell any subject invention in the United States is in breach of its agreement obtained pursuant to section 204.
 
-**(b)** A determination pursuant to this section or section 202(b)(4) 1
+**(b)** A determination pursuant to this section or section 202(b)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not be subject to chapter 71 of title 41. An administrative appeals procedure shall be established by regulations promulgated in accordance with section 206. Additionally, any contractor, inventor, assignee, or exclusive licensee adversely affected by a determination under this section may, at any time within sixty days after the determination is issued, file a petition in the United States Court of Federal Claims, which shall have jurisdiction to determine the appeal on the record and to affirm, reverse, remand or modify, as appropriate, the determination of the Federal agency. In cases described in paragraphs (1) and (3) of subsection (a), the agency’s determination shall be held in abeyance pending the exhaustion of appeals or petitions filed under the preceding sentence.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3022; amended Pub. L. 98–620, title V, § 501(9), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–273, div. C, title III, § 13206(a)(14), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 111–350, § 5(i)(2), Jan. 4, 2011, 124 Stat. 3850.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3022; amended Pub. L. 98–620, title V, § 501(9), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 107–273, div. C, title III, § 13206(a)(14), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 111–350, § 5(i)(2), Jan. 4, 2011, 124 Stat. 3850.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 202(b)(4), referred to in subsec. (b), was redesignated section 202(b)(3) of this title by Pub. L. 111–8, div. G, title I, § 1301(h), Mar. 11, 2009, 123 Stat. 829.
+Section 202(b)(4), referred to in subsec. (b), was redesignated section 202(b)(3) of this title by Pub. L. 111–8, div. G, title I, § 1301(h), Mar. 11, 2009, 123 Stat. 829.
 
 **Amendments**
 
-2011—Subsec. (b). Pub. L. 111–350 substituted “chapter 71 of title 41” for “the Contract Disputes Act (41 U.S.C. § 601 et seq.)”.
+2011—Subsec. (b). Pub. L. 111–350 substituted “chapter 71 of title 41” for “the Contract Disputes Act (41 U.S.C. § 601 et seq.)”.
 
 2002—Pub. L. 107–273 redesignated par. (1) as subsec. (a) and former subpars. (a) to (d) as pars. (1) to (4), respectively, redesignated former par. (2) as subsec. (b), struck out quotation marks and comma before “as appropriate”, and substituted “paragraphs (1) and (3) of subsection (a)” for “paragraphs (a) and (c)”.
 
@@ -269,11 +269,11 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 204. Preference for United States industry
+## § 204. Preference for United States industry
 
 Notwithstanding any other provision of this chapter, no small business firm or nonprofit organization which receives title to any subject invention and no assignee of any such small business firm or nonprofit organization shall grant to any person the exclusive right to use or sell any subject invention in the United States unless such person agrees that any products embodying the subject invention or produced through the use of the subject invention will be manufactured substantially in the United States. However, in individual cases, the requirement for such an agreement may be waived by the Federal agency under whose funding agreement the invention was made upon a showing by the small business firm, nonprofit organization, or assignee that reasonable but unsuccessful efforts have been made to grant licenses on similar terms to potential licensees that would be likely to manufacture substantially in the United States or that under the circumstances domestic manufacture is not commercially feasible.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3023.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3023.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -281,11 +281,11 @@ Notwithstanding any other provision of this chapter, no small business firm or n
 
 Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 205. Confidentiality
+## § 205. Confidentiality
 
 Federal agencies are authorized to withhold from disclosure to the public information disclosing any invention in which the Federal Government owns or may own a right, title, or interest (including a nonexclusive license) for a reasonable time in order for a patent application to be filed. Furthermore, Federal agencies shall not be required to release copies of any document which is part of an application for patent filed with the United States Patent and Trademark Office or with any foreign patent office.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3023.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3023.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -293,11 +293,11 @@ Federal agencies are authorized to withhold from disclosure to the public inform
 
 Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 206. Uniform clauses and regulations
+## § 206. Uniform clauses and regulations
 
 The Secretary of Commerce may issue regulations which may be made applicable to Federal agencies implementing the provisions of sections 202 through 204 of this chapter and shall establish standard funding agreement provisions required under this chapter. The regulations and the standard funding agreement shall be subject to public comment before their issuance.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3023; amended Pub. L. 98–620, title V, § 501(10), Nov. 8, 1984, 98 Stat. 3367.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3023; amended Pub. L. 98–620, title V, § 501(10), Nov. 8, 1984, 98 Stat. 3367.)
 
 **Editorial Notes**
 
@@ -311,7 +311,7 @@ The Secretary of Commerce may issue regulations which may be made applicable to 
 
 Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 207. Domestic and foreign protection of federally owned inventions
+## § 207. Domestic and foreign protection of federally owned inventions
 
 **(a)** Each Federal agency is authorized to—
 
@@ -331,7 +331,7 @@ Section effective July 1, 1981, but implementing regulations authorized to be is
 
 **(3)** consult with and advise Federal agencies as to areas of science and technology research and development with potential for commercial utilization.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3023; amended Pub. L. 98–620, title V, § 501(11), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 106–404, § 6(2), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3023; amended Pub. L. 98–620, title V, § 501(11), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 106–404, § 6(2), Nov. 1, 2000, 114 Stat. 1745; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Editorial Notes**
 
@@ -339,9 +339,9 @@ Section effective July 1, 1981, but implementing regulations authorized to be is
 
 2011—Subsec. (a)(2). Pub. L. 112–29 struck out “of this title” after “29”.
 
-2000—Subsec. (a)(2). Pub. L. 106–404, § 6(2)(A), substituted “inventions” for “patent applications, patents, or other forms of protection obtained”.
+2000—Subsec. (a)(2). Pub. L. 106–404, § 6(2)(A), substituted “inventions” for “patent applications, patents, or other forms of protection obtained”.
 
-Subsec. (a)(3). Pub. L. 106–404, § 6(2)(B), inserted “, including acquiring rights for and administering royalties to the Federal Government in any invention, but only to the extent the party from whom the rights are acquired voluntarily enters into the transaction, to facilitate the licensing of a federally owned invention” after “or through contract”.
+Subsec. (a)(3). Pub. L. 106–404, § 6(2)(B), inserted “, including acquiring rights for and administering royalties to the Federal Government in any invention, but only to the extent the party from whom the rights are acquired voluntarily enters into the transaction, to facilitate the licensing of a federally owned invention” after “or through contract”.
 
 1984—Pub. L. 98–620 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -467,11 +467,11 @@ Sec. 5. Subsections (a) and (c) of section 3 of Executive Order No. 10096 are he
 
 John F. Kennedy.
 
-## § 208. Regulations governing Federal licensing
+## § 208. Regulations governing Federal licensing
 
 The Secretary of Commerce is authorized to promulgate regulations specifying the terms and conditions upon which any federally owned invention, other than inventions owned by the Tennessee Valley Authority, may be licensed on a nonexclusive, partially exclusive, or exclusive basis.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 98–620, title V, § 501(12), Nov. 8, 1984, 98 Stat. 3367.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 98–620, title V, § 501(12), Nov. 8, 1984, 98 Stat. 3367.)
 
 **Editorial Notes**
 
@@ -485,7 +485,7 @@ The Secretary of Commerce is authorized to promulgate regulations specifying the
 
 Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 209. Licensing federally owned inventions
+## § 209. Licensing federally owned inventions
 
 **(a) Authority.—** A Federal agency may grant an exclusive or partially exclusive license on a federally owned invention under section 207(a)(2) only if—
 
@@ -527,7 +527,7 @@ Section effective July 1, 1981, but implementing regulations authorized to be is
 
 **(f) Plan.—** No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the person requesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, § 4(a), Nov. 1, 2000, 114 Stat. 1743; Pub. L. 107–273, div. C, title III, § 13206(a)(15), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 112–29, § 20(i)(3), Sept. 16, 2011, 125 Stat. 335.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, § 4(a), Nov. 1, 2000, 114 Stat. 1743; Pub. L. 107–273, div. C, title III, § 13206(a)(15), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 112–29, § 20(i)(3), Sept. 16, 2011, 125 Stat. 335.)
 
 **Editorial Notes**
 
@@ -549,21 +549,21 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 210. Precedence of chapter
+## § 210. Precedence of chapter
 
 **(a)** This chapter shall take precedence over any other Act which would require a disposition of rights in subject inventions of small business firms or nonprofit organizations contractors in a manner that is inconsistent with this chapter, including but not necessarily limited to the following:
 
-**(1)** section 10(a) of the Act of June 29, 1935, as added by title I of the Act of August 14, 1946 (7 U.S.C. 427i(a); 60 Stat. 1085); 1
+**(1)** section 10(a) of the Act of June 29, 1935, as added by title I of the Act of August 14, 1946 (7 U.S.C. 427i(a); 60 Stat. 1085); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** section 205(a) of the Act of August 14, 1946 (7 U.S.C. 1624(a); 60 Stat. 1090);
 
 **(3)** section 501(c) of the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 951(c); 83 Stat. 742);
 
-**(4)** section 30168(e) <sup>1</sup> of title 49;
+**(4)** section 30168(e) <sup>1</sup> of title 49;
 
-**(5)** section 12 of the National Science Foundation Act of 1950 (42 U.S.C. 1871(a); <sup>1</sup> 82 Stat. 360);
+**(5)** section 12 of the National Science Foundation Act of 1950 (42 U.S.C. 1871(a); <sup>1</sup> 82 Stat. 360);
 
 **(6)** section 152 of the Atomic Energy Act of 1954 (42 U.S.C. 2182; 68 Stat. 943);
 
@@ -579,7 +579,7 @@ Section effective July 1, 1981, but implementing regulations authorized to be is
 
 **(12)** section 5(d) of the Consumer Product Safety Act (15 U.S.C. 2054(d); 86 Stat. 1211);
 
-**(13)** section 3 of the Act of April 5, 1944 (30 U.S.C. 323; 58 Stat. 191); <sup>1</sup>
+**(13)** section 3 of the Act of April 5, 1944 (30 U.S.C. 323; 58 Stat. 191); <sup>1</sup>
 
 **(14)** section 8001(c)(3) of the Solid Waste Disposal Act (42 U.S.C. 6981(c); 90 Stat. 2829);
 
@@ -587,11 +587,11 @@ Section effective July 1, 1981, but implementing regulations authorized to be is
 
 **(16)** section 427(b) of the Federal Mine Health and Safety Act of 1977 (30 U.S.C. 937(b); 86 Stat. 155);
 
-**(17)** section 306(d) of the Surface Mining and Reclamation Act of 1977 (30 U.S.C. 1226(d); 91 Stat. 455); <sup>1</sup>
+**(17)** section 306(d) of the Surface Mining and Reclamation Act of 1977 (30 U.S.C. 1226(d); 91 Stat. 455); <sup>1</sup>
 
 **(18)** section 21(d) of the Federal Fire Prevention and Control Act of 1974 (15 U.S.C. 2218(d); 88 Stat. 1548);
 
-**(19)** section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 (42 U.S.C. 5585(b); 92 Stat. 2516); <sup>1</sup>
+**(19)** section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 (42 U.S.C. 5585(b); 92 Stat. 2516); <sup>1</sup>
 
 **(20)** section 12 of the Native Latex Commercialization and Economic Development Act of 1978 (7 U.S.C. 178j; 92 Stat. 2533); and
 
@@ -607,7 +607,7 @@ The Act creating this chapter shall be construed to take precedence over any fut
 
 **(e)** The provisions of the Stevenson-Wydler Technology Innovation Act of 1980 shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, § 501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, § 9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, § 5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, § 7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, § 220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, § 13206(a)(16), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 109–58, title X, § 1009(a)(2), Aug. 8, 2005, 119 Stat. 934; Pub. L. 111–314, § 4(c), Dec. 18, 2010, 124 Stat. 3440; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, § 501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, § 9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, § 5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, § 7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, § 220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, § 13206(a)(16), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 109–58, title X, § 1009(a)(2), Aug. 8, 2005, 119 Stat. 934; Pub. L. 111–314, § 4(c), Dec. 18, 2010, 124 Stat. 3440; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Editorial Notes**
 
@@ -615,23 +615,23 @@ The Act creating this chapter shall be construed to take precedence over any fut
 
 The Act and this Act, referred to in subsec. (a), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186 and 5908 and former section 2457 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 13 and 41 of this title. For complete classification of this Act to the Code, see Tables.
 
-Section 10 of the Act of June 29, 1935, referred to in subsec. (a)(1), is section 10 of act June 29, 1935, ch. 338, title I, as added Aug. 14, 1946, ch. 966, title I, § 101(2), 60 Stat. 1085, which was formerly classified to section 427i of Title 7, Agriculture, prior to editorial reclassification as section 3105 of Title 7.
+Section 10 of the Act of June 29, 1935, referred to in subsec. (a)(1), is section 10 of act June 29, 1935, ch. 338, title I, as added Aug. 14, 1946, ch. 966, title I, § 101(2), 60 Stat. 1085, which was formerly classified to section 427i of Title 7, Agriculture, prior to editorial reclassification as section 3105 of Title 7.
 
-Section 30168 of title 49, referred to in subsec. (a)(4), was repealed by Pub. L. 112–141, div. C, title I, § 31204(b)(2)(B), July 6, 2012, 126 Stat. 760.
+Section 30168 of title 49, referred to in subsec. (a)(4), was repealed by Pub. L. 112–141, div. C, title I, § 31204(b)(2)(B), July 6, 2012, 126 Stat. 760.
 
-Section 12 of the National Science Foundation Act of 1950 (42 U.S.C. 1871(a); 82 Stat. 360), referred to in subsec. (a)(5), was amended by Pub. L. 99–159, title I, § 109(c), Nov. 22, 1985, 99 Stat. 889, by striking out subsec. (b) and designating subsec. (a) as the entire section.
+Section 12 of the National Science Foundation Act of 1950 (42 U.S.C. 1871(a); 82 Stat. 360), referred to in subsec. (a)(5), was amended by Pub. L. 99–159, title I, § 109(c), Nov. 22, 1985, 99 Stat. 889, by striking out subsec. (b) and designating subsec. (a) as the entire section.
 
 Section 3 of the Act of April 5, 1944 (30 U.S.C. 323; 58 Stat. 191), referred to in subsec. (a)(13), was omitted from the Code.
 
 Section 306(d) of the Surface Mining and Reclamation Act, referred to in subsec. (a)(17), was classified to section 1226(d) of Title 30, Mineral Lands and Mining, prior to enactment of Pub. L. 98–409, which enacted a new section 1226 of Title 30. See section 1226(c) of Title 30.
 
-Section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 (42 U.S.C. 5585(b); 92 Stat. 2516), referred to in subsec. (a)(19), was repealed by Pub. L. 116–260, div. Z, title III, § 3006(f), Dec. 27, 2020, 134 Stat. 2513.
+Section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 (42 U.S.C. 5585(b); 92 Stat. 2516), referred to in subsec. (a)(19), was repealed by Pub. L. 116–260, div. Z, title III, § 3006(f), Dec. 27, 2020, 134 Stat. 2513.
 
-The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (a)(20), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§ 178 et seq.) of chapter 8A of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 178 of Title 7 and Tables.
+The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (a)(20), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§ 178 et seq.) of chapter 8A of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 178 of Title 7 and Tables.
 
-Section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 92 Stat. 1360), referred to in subsec. (a)(21), was repealed by Pub. L. 98–242, title I, § 110(a), Mar. 22, 1984, 98 Stat. 101. See section 10308 of Title 42, The Public Health and Welfare.
+Section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 92 Stat. 1360), referred to in subsec. (a)(21), was repealed by Pub. L. 98–242, title I, § 110(a), Mar. 22, 1984, 98 Stat. 101. See section 10308 of Title 42, The Public Health and Welfare.
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (e), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 **Amendments**
 
@@ -641,15 +641,15 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 
 2005—Subsec. (a)(8). Pub. L. 109–58 substituted “Coal Research and Development Act of 1960” for “Coal Research Development Act of 1960”.
 
-2002—Subsec. (a)(11). Pub. L. 107–273, § 13206(a)(16)(A)(i), substituted “5908” for “5901”.
+2002—Subsec. (a)(11). Pub. L. 107–273, § 13206(a)(16)(A)(i), substituted “5908” for “5901”.
 
-Subsec. (a)(20). Pub. L. 107–273, § 13206(a)(16)(A)(ii), substituted “178j” for “178(j)”.
+Subsec. (a)(20). Pub. L. 107–273, § 13206(a)(16)(A)(ii), substituted “178j” for “178(j)”.
 
-Subsec. (c). Pub. L. 107–273, § 13206(a)(16)(B), substituted “section 202(c)(4)” for “paragraph 202(c)(4)” and struck out second period after “title”.
+Subsec. (c). Pub. L. 107–273, § 13206(a)(16)(B), substituted “section 202(c)(4)” for “paragraph 202(c)(4)” and struck out second period after “title”.
 
 1998—Subsec. (a)(11) to (22). Pub. L. 105–393 redesignated pars. (12) to (22) as (11) to (21), respectively, and struck out former par. (11) which read as follows: “subsection (e) of section 302 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App. 302(e); 79 Stat. 5);”.
 
-1996—Subsec. (e). Pub. L. 104–113 struck out “, as amended by the Federal Technology Transfer Act of 1986,” after “1980”.
+1996—Subsec. (e). Pub. L. 104–113 struck out “, as amended by the Federal Technology Transfer Act of 1986,” after “1980”.
 
 1994—Subsec. (a)(4). Pub. L. 103–272 substituted “section 30168(e) of title 49” for “section 106(c) of the National Traffic and Motor Vehicle Safety Act of 1966 (15 U.S.C. 1395(c); 80 Stat. 721)”.
 
@@ -671,11 +671,11 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 211. Relationship to antitrust laws
+## § 211. Relationship to antitrust laws
 
 Nothing in this chapter shall be deemed to convey to any person immunity from civil or criminal liability, or to create any defenses to actions, under any antitrust law.
 
-(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3027.)
+(Added Pub. L. 96–517, § 6(a), Dec. 12, 1980, 94 Stat. 3027.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -683,8 +683,8 @@ Nothing in this chapter shall be deemed to convey to any person immunity from ci
 
 Section effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as an Effective Date of 1980 Amendment note under section 41 of this title.
 
-## § 212. Disposition of rights in educational awards
+## § 212. Disposition of rights in educational awards
 
 No scholarship, fellowship, training grant, or other funding agreement made by a Federal agency primarily to an awardee for educational purposes will contain any provision giving the Federal agency any rights to inventions made by the awardee.
 
-(Added Pub. L. 98–620, title V, § 501(14), Nov. 8, 1984, 98 Stat. 3368.)
+(Added Pub. L. 98–620, title V, § 501(14), Nov. 8, 1984, 98 Stat. 3368.)

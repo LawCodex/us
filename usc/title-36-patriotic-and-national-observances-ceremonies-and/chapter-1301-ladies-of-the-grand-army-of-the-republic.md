@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1301—LADIES OF THE GRAND ARMY OF THE REPUBLIC"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1301—LADIES OF THE GRAND ARMY OF THE REPUBLIC"
 identifier: "/us/usc/t36/stII/ptB/ch1301"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1301—LADIES OF THE GRAND ARMY OF THE REPUBLIC
 
-## § 130101. Organization
+## § 130101. Organization
 
 **(a) Federal Charter.—** Ladies of the Grand Army of the Republic (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -29,12 +29,12 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130101 | 36:78. | June 17, 1959, Pub. L. 86–47, §§ 1, 2, 4(1), 73 Stat. 76, 77. |
+| 130101 | 36:78. | June 17, 1959, Pub. L. 86–47, §§ 1, 2, 4(1), 73 Stat. 76, 77. |
 |  | 36:78a. 36:78c(1). |  |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words. The text of 36:78a is omitted as executed and obsolete.
 
-## § 130102. Purposes
+## § 130102. Purposes
 
 The purposes of the corporation are—
 
@@ -56,11 +56,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130102 | 36:78b. | June 17, 1959, Pub. L. 86–47, § 3, 73 Stat. 77. |
+| 130102 | 36:78b. | June 17, 1959, Pub. L. 86–47, § 3, 73 Stat. 77. |
 
 In clause (5), the words “destroy, or impair” are substituted for “make for the destruction or impairment of” to eliminate unnecessary words.
 
-## § 130103. Membership
+## § 130103. Membership
 
 **(a) Eligibility.—**
 
@@ -84,13 +84,13 @@ In clause (5), the words “destroy, or impair” are substituted for “make fo
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130103 | 36:78d. | June 17, 1959, Pub. L. 86–47, § 5, 73 Stat. 78. |
+| 130103 | 36:78d. | June 17, 1959, Pub. L. 86–47, § 5, 73 Stat. 78. |
 
-In subsection (a)(1), the words “are as provided in the constitution and bylaws of the corporation” are substituted for “shall . . . be determined as the constitution and bylaws of the corporation may provide” for consistency in the revised title.
+In subsection (a)(1), the words “are as provided in the constitution and bylaws of the corporation” are substituted for “shall . . . be determined as the constitution and bylaws of the corporation may provide” for consistency in the revised title.
 
 In subsection (a)(2)(A), the words “at any time” are added for clarity.
 
-## § 130104. Governing body
+## § 130104. Governing body
 
 **(a) National Convention.—**
 
@@ -108,14 +108,14 @@ In subsection (a)(2)(A), the words “at any time” are added for clarity.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130104(a) | 36:78e. | June 17, 1959, Pub. L. 86–47, §§ 6, 7, 73 Stat. 78. |
+| 130104(a) | 36:78e. | June 17, 1959, Pub. L. 86–47, §§ 6, 7, 73 Stat. 78. |
 | 130104(b) | 36:78f. |  |
 
 In subsection (a)(2), the words “several”, “always”, “thereof”, and “the hands of” are omitted as unnecessary.
 
 In subsection (a)(3), the words “State, territory, or possession of the United States” are substituted for “State or Territory” for consistency in the revised title and with other titles of the United States Code.
 
-## § 130105. Powers
+## § 130105. Powers
 
 The corporation may—
 
@@ -141,7 +141,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130105 | 36:78c(2)–(10). | June 17, 1959, Pub. L. 86–47, § 4(2)–(10), 73 Stat. 77. |
+| 130105 | 36:78c(2)–(10). | June 17, 1959, Pub. L. 86–47, § 4(2)–(10), 73 Stat. 77. |
 
 In clause (1), the word “alter” is omitted as included in “amend”. The words “not inconsistent with the laws of the United States or of any State in which the corporation is to operate” are omitted as unnecessary.
 
@@ -157,7 +157,7 @@ In clause (7), the words “complain and defend in any court of competent jurisd
 
 In clause (8), the words “any other act” are substituted for “any and all acts and things” for consistency in the revised title and to eliminate unnecessary words. The word “objects” is omitted as included in “purposes”.
 
-## § 130106. Exclusive right to name, seals, emblems, and badges
+## § 130106. Exclusive right to name, seals, emblems, and badges
 
 The corporation and its subordinate divisions have the exclusive right to use the name “Ladies of the Grand Army of the Republic”. The corporation has the exclusive right to use and to allow others to use seals, emblems, and badges the corporation adopts.
 
@@ -167,11 +167,11 @@ The corporation and its subordinate divisions have the exclusive right to use th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130106 | 36:78*o*. | June 17, 1959, Pub. L. 86–47, § 16, 73 Stat. 79. |
+| 130106 | 36:78*o*. | June 17, 1959, Pub. L. 86–47, § 16, 73 Stat. 79. |
 
 The word “sole” is omitted as included in “exclusive”. The words “allow others to use” are substituted for “allow or refuse the use of”, and the words “the corporation adopts” are substituted for “as have heretofore been used by the Ladies of the Grand Army of the Republic”, for consistency in the revised title.
 
-## § 130107. Restrictions
+## § 130107. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -187,7 +187,7 @@ The word “sole” is omitted as included in “exclusive”. The words “allo
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130107(a) | 36:78k. | June 17, 1959, Pub. L. 86–47, §§ 9, 10, 12, 73 Stat. 78, 79. |
+| 130107(a) | 36:78k. | June 17, 1959, Pub. L. 86–47, §§ 9, 10, 12, 73 Stat. 78, 79. |
 | 130107(b) | 36:78i. |  |
 | 130107(c) | 36:78h(a). |  |
 | 130107(d) | 36:78h(b). |  |
@@ -200,7 +200,7 @@ In subsection (c), the words “inure to the benefit of” are substituted for �
 
 In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
 
-## § 130108. Principal office
+## § 130108. Principal office
 
 The principal office of the corporation shall be in the District of Columbia or another place decided by the corporation. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -210,11 +210,11 @@ The principal office of the corporation shall be in the District of Columbia or 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130108 | 36:78g(a). | June 17, 1959, Pub. L. 86–47, § 8(a), 73 Stat. 78. |
+| 130108 | 36:78g(a). | June 17, 1959, Pub. L. 86–47, § 8(a), 73 Stat. 78. |
 
 The word “various” is omitted as unnecessary.
 
-## § 130109. Records and inspection
+## § 130109. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -230,13 +230,13 @@ The word “various” is omitted as unnecessary.
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130109 | 36:78*l*. | June 17, 1959, Pub. L. 86–47, § 13, 73 Stat. 79. |
+| 130109 | 36:78*l*. | June 17, 1959, Pub. L. 86–47, § 13, 73 Stat. 79. |
 
 In this section, the word “records” is substituted for “books and records” for consistency in the revised title and to eliminate unnecessary words.
 
 In subsection (a)(2), the reference to the “council of administration” is retained although there is no council of administration created by 36:78e or 36:78f.
 
-## § 130110. Service of process
+## § 130110. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -246,11 +246,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130110 | 36:78g(b). | June 17, 1959, Pub. L. 86–47, § 8(b), 73 Stat. 78. |
+| 130110 | 36:78g(b). | June 17, 1959, Pub. L. 86–47, § 8(b), 73 Stat. 78. |
 
 The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept” for consistency in the revised title.
 
-## § 130111. Liability for acts of officers and agents
+## § 130111. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -260,9 +260,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130111 | 36:78j. | June 17, 1959, Pub. L. 86–47, § 11, 73 Stat. 79. |
+| 130111 | 36:78j. | June 17, 1959, Pub. L. 86–47, § 11, 73 Stat. 79. |
 
-## § 130112. Annual report
+## § 130112. Annual report
 
 Not later than March 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior fiscal year. The report may consist of a report on the proceedings of the national convention. The report may not be printed as a public document.
 
@@ -272,7 +272,7 @@ Not later than March 1 of each year, the corporation shall submit a report to Co
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130112 | 36:78n. | June 17, 1959, Pub. L. 86–47, § 15, 73 Stat. 79. |
+| 130112 | 36:78n. | June 17, 1959, Pub. L. 86–47, § 15, 73 Stat. 79. |
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -280,7 +280,7 @@ Not later than March 1 of each year, the corporation shall submit a report to Co
 
 For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 201 of House Document No. 103–7.
 
-## § 130113. Distribution of assets on dissolution or final liquidation
+## § 130113. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be distributed as provided by the council of administration, but in compliance with the constitution and bylaws of the corporation.
 
@@ -290,6 +290,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 130113 | 36:78p. | June 17, 1959, Pub. L. 86–47, § 17, 73 Stat. 80. |
+| 130113 | 36:78p. | June 17, 1959, Pub. L. 86–47, § 17, 73 Stat. 80. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary. The words “as provided by” are substituted for “in accordance with the determination of” for consistency in the revised title and to eliminate unnecessary words. The reference to the “council of administration” is retained although there is no council of administration created by 36:78e or 36:78f. The words “all Federal and State laws applicable thereto” are omitted as unnecessary.

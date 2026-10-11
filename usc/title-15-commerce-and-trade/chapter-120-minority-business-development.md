@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 120—MINORITY BUSINESS DEVELOPMENT
 
-## § 9501. Definitions
+## § 9501. Definitions
 
 In this chapter:
 
@@ -197,13 +197,13 @@ The term “Tribal Government” means the recognized governing body of any Indi
 
 **(19) Under Secretary**
 
-The term “Under Secretary” means the Under Secretary of Commerce for Minority Business Development, who is appointed as described in section \_\_\_3(b) 1
+The term “Under Secretary” means the Under Secretary of Commerce for Minority Business Development, who is appointed as described in section \_\_\_3(b) 1
 
-<sup>1</sup>  So in original. See References in Text note below.
+<sup>1</sup> So in original. See References in Text note below.
 
 to administer this chapter.
 
-(Pub. L. 117–58, div. K, § 100002, Nov. 15, 2021, 135 Stat. 1445.)
+(Pub. L. 117–58, div. K, § 100002, Nov. 15, 2021, 135 Stat. 1445.)
 
 **Editorial Notes**
 
@@ -211,7 +211,7 @@ to administer this chapter.
 
 This chapter, referred to in text, was in the original “this division”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified prinicpally to this chapter. For complete classification of division K to the Code, see Short Title note set out below and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (10)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (10)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 Section \_\_\_3(b), referred to in par. (19), probably means subsec. (b) of section 100003 of Pub. L. 117–58, which is classified to section 9502 of this title.
 
@@ -219,9 +219,9 @@ Section \_\_\_3(b), referred to in par. (19), probably means subsec. (b) of sect
 
 **Short Title**
 
-Pub. L. 117–58, div. K, § 100001, Nov. 15, 2021, 135 Stat. 1445, provided that: “This division [enacting this chapter and amending section 5314 of Title 5, Government Organization and Employees] may be cited as the ‘Minority Business Development Act of 2021’.”
+Pub. L. 117–58, div. K, § 100001, Nov. 15, 2021, 135 Stat. 1445, provided that: “This division [enacting this chapter and amending section 5314 of Title 5, Government Organization and Employees] may be cited as the ‘Minority Business Development Act of 2021’.”
 
-## § 9502. Minority Business Development Agency
+## § 9502. Minority Business Development Agency
 
 **(a) In general**
 
@@ -297,7 +297,7 @@ In order to carry out this chapter, the Under Secretary shall establish a region
 
 **(v)** promoting business continuity and preparedness.
 
-(Pub. L. 117–58, div. K, § 100003, Nov. 15, 2021, 135 Stat. 1448.)
+(Pub. L. 117–58, div. K, § 100003, Nov. 15, 2021, 135 Stat. 1448.)
 
 **Editorial Notes**
 
@@ -313,7 +313,7 @@ Section is comprised of section 100003 of Pub. L. 117–58. Subsec. (b)(2)(B) of
 
 ### Part A—Market Development, Research, and Information
 
-#### § 9511. Private sector development
+#### § 9511. Private sector development
 
 The Under Secretary shall, whenever the Under Secretary determines such action is necessary or appropriate—
 
@@ -335,9 +335,9 @@ The Under Secretary shall, whenever the Under Secretary determines such action i
 
 **(3)** facilitate the efforts of private sector entities and Federal agencies to advance the growth of minority business enterprises.
 
-(Pub. L. 117–58, div. K, title I, § 100101, Nov. 15, 2021, 135 Stat. 1449.)
+(Pub. L. 117–58, div. K, title I, § 100101, Nov. 15, 2021, 135 Stat. 1449.)
 
-#### § 9512. Public sector development
+#### § 9512. Public sector development
 
 The Under Secretary shall, whenever the Under Secretary determines such action is necessary or appropriate—
 
@@ -365,9 +365,9 @@ The Under Secretary shall, whenever the Under Secretary determines such action i
 
 **(3)** facilitate the efforts of public sector entities and Federal agencies to advance the growth of minority business enterprises.
 
-(Pub. L. 117–58, div. K, title I, § 100102, Nov. 15, 2021, 135 Stat. 1450.)
+(Pub. L. 117–58, div. K, title I, § 100102, Nov. 15, 2021, 135 Stat. 1450.)
 
-#### § 9513. Research and information
+#### § 9513. Research and information
 
 **(a) In general** In order to achieve the purposes of this chapter, the Under Secretary—
 
@@ -395,7 +395,7 @@ The Under Secretary shall, whenever the Under Secretary determines such action i
 
 **(B)** in a manner that is consistent with section 552a of title 5, protect the privacy of the minority business enterprises to which the data described in paragraph (1) relates.
 
-(Pub. L. 117–58, div. K, title I, § 100103, Nov. 15, 2021, 135 Stat. 1450.)
+(Pub. L. 117–58, div. K, title I, § 100103, Nov. 15, 2021, 135 Stat. 1450.)
 
 **Editorial Notes**
 
@@ -405,13 +405,13 @@ This chapter, referred to in subsec. (a), was in the original “this division�
 
 ### Part B—Minority Business Development Agency Business Center Program
 
-#### § 9521. Definition
+#### § 9521. Definition
 
-In this part, the term “MBDA Business Center Program” means the program established under section \_\_\_113. 1
+In this part, the term “MBDA Business Center Program” means the program established under section \_\_\_113. 1
 
-<sup>1</sup>  So in original. See References in Text note below.
+<sup>1</sup> So in original. See References in Text note below.
 
-(Pub. L. 117–58, div. K, title I, § 100111, Nov. 15, 2021, 135 Stat. 1451.)
+(Pub. L. 117–58, div. K, title I, § 100111, Nov. 15, 2021, 135 Stat. 1451.)
 
 **Editorial Notes**
 
@@ -419,7 +419,7 @@ In this part, the term “MBDA Business Center Program” means the program esta
 
 Section \_\_\_113, referred to in text, probably means section 100113 of Pub. L. 117–58, which is classified to section 9523 of this title.
 
-#### § 9522. Purpose
+#### § 9522. Purpose
 
 The purpose of the MBDA Business Center Program shall be to create a national network of public-private partnerships that—
 
@@ -433,27 +433,27 @@ The purpose of the MBDA Business Center Program shall be to create a national ne
 
 **(3)** facilitate the growth of minority business enterprises by promoting trade.
 
-(Pub. L. 117–58, div. K, title I, § 100112, Nov. 15, 2021, 135 Stat. 1451.)
+(Pub. L. 117–58, div. K, title I, § 100112, Nov. 15, 2021, 135 Stat. 1451.)
 
-#### § 9523. Establishment
+#### § 9523. Establishment
 
 **(a) In general** There is established in the Agency a program—
 
 **(1)** that shall be known as the MBDA Business Center Program;
 
-**(2)** that shall be separate and distinct from the efforts of the Under Secretary under section \_\_\_101; 1
+**(2)** that shall be separate and distinct from the efforts of the Under Secretary under section \_\_\_101; 1
 
-<sup>1</sup>  So in original. See References in Text note below.
+<sup>1</sup> So in original. See References in Text note below.
 
 and
 
-**(3)** under which the Under Secretary shall make Federal assistance awards to eligible entities to operate MBDA Business Centers, which shall, in accordance with section \_\_\_114, <sup>1</sup> provide technical assistance and business development services, or specialty services, to minority business enterprises.
+**(3)** under which the Under Secretary shall make Federal assistance awards to eligible entities to operate MBDA Business Centers, which shall, in accordance with section \_\_\_114, <sup>1</sup> provide technical assistance and business development services, or specialty services, to minority business enterprises.
 
 **(b) Coverage**
 
-The Under Secretary shall take all necessary actions to ensure that the MBDA Business Center Program, in accordance with section \_\_\_114, <sup>1</sup> offers the services described in subsection (a)(3) in all regions of the United States.
+The Under Secretary shall take all necessary actions to ensure that the MBDA Business Center Program, in accordance with section \_\_\_114, <sup>1</sup> offers the services described in subsection (a)(3) in all regions of the United States.
 
-(Pub. L. 117–58, div. K, title I, § 100113, Nov. 15, 2021, 135 Stat. 1451.)
+(Pub. L. 117–58, div. K, title I, § 100113, Nov. 15, 2021, 135 Stat. 1451.)
 
 **Editorial Notes**
 
@@ -463,7 +463,7 @@ Section \_\_\_101, referred to in subsec. (a)(2), probably means section 100101 
 
 Section \_\_\_114, referred to in subsecs. (a)(3) and (b), probably means section 100114 of Pub. L. 117–58, which is classified to section 9524 of this title.
 
-#### § 9524. Grants and cooperative agreements
+#### § 9524. Grants and cooperative agreements
 
 **(a) Requirements** An MBDA Business Center (referred to in this part as a “Center”), with respect to the Federal financial assistance award made to operate the Center under the MBDA Business Center Program—
 
@@ -473,9 +473,9 @@ Section \_\_\_114, referred to in subsecs. (a)(3) and (b), probably means sectio
 
 **(i)** referral services to meet the needs of minority business enterprises; and
 
-**(ii)** programs and services to accomplish the goals described in section \_\_\_101(1); 1
+**(ii)** programs and services to accomplish the goals described in section \_\_\_101(1); 1
 
-<sup>1</sup>  So in original. See References in Text note below.
+<sup>1</sup> So in original. See References in Text note below.
 
 **(B)** develop, cultivate, and maintain a network of strategic partnerships with organizations that foster access by minority business enterprises to economic markets, capital, or contracts;
 
@@ -633,11 +633,11 @@ If the Under Secretary extends the term of an MBDA Business Center agreement und
 
 **(ii)** women’s business centers described in section 656 of this title;
 
-**(iii)** eligible entities, as that term is defined in section 2411 2
+**(iii)** eligible entities, as that term is defined in section 2411 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-of title 10, that provide services under the program carried out under chapter 142 2 of that title; and
+of title 10, that provide services under the program carried out under chapter 142 2 of that title; and
 
 **(iv)** entities participating in the Hollings Manufacturing Extension Partnership Program established under section 278k of this title;
 
@@ -649,7 +649,7 @@ of title 10, that provide services under the program carried out under chapter 1
 
 The Under Secretary shall issue and publish regulations that establish minimum standards regarding verification of minority business enterprise status for clients of entities operating under the MBDA Business Center Program.
 
-(Pub. L. 117–58, div. K, title I, § 100114, Nov. 15, 2021, 135 Stat. 1452.)
+(Pub. L. 117–58, div. K, title I, § 100114, Nov. 15, 2021, 135 Stat. 1452.)
 
 **Editorial Notes**
 
@@ -657,17 +657,17 @@ The Under Secretary shall issue and publish regulations that establish minimum s
 
 Section \_\_\_101(1), referred to in subsec. (a)(1)(A)(ii), probably means par. (1) of section 100101 of Pub. L. 117–58, which is classified to section 9511 of this title.
 
-Section 2411 of title 10, referred to in subsec. (h)(3)(B)(iii), was renumbered section 4951 of Title 10, Armed Forces, by Pub. L. 116–283, div. A, title XVIII, § 1872(a)(1)(B), (2), Jan. 1, 2021, 134 Stat. 4287, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(m)(1)(A), (3), Dec. 27, 2021, 135 Stat. 2144, 2145.
+Section 2411 of title 10, referred to in subsec. (h)(3)(B)(iii), was renumbered section 4951 of Title 10, Armed Forces, by Pub. L. 116–283, div. A, title XVIII, § 1872(a)(1)(B), (2), Jan. 1, 2021, 134 Stat. 4287, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(m)(1)(A), (3), Dec. 27, 2021, 135 Stat. 2144, 2145.
 
-Chapter 142 of that title, referred to in subsec. (h)(3)(B)(iii), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1872(b)(1), Jan. 1, 2021, 134 Stat. 4289, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in Title 10, Armed Forces, by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+Chapter 142 of that title, referred to in subsec. (h)(3)(B)(iii), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1872(b)(1), Jan. 1, 2021, 134 Stat. 4289, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in Title 10, Armed Forces, by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
 
-#### § 9525. Minimizing disruptions to existing MBDA Business Center program
+#### § 9525. Minimizing disruptions to existing MBDA Business Center program
 
 The Under Secretary shall ensure that each Federal assistance award made under the Business Centers program of the Agency, as is in effect on the day before November 15, 2021, is carried out in a manner that, to the greatest extent practicable, prevents disruption of any activity carried out under that award.
 
-(Pub. L. 117–58, div. K, title I, § 100115, Nov. 15, 2021, 135 Stat. 1455.)
+(Pub. L. 117–58, div. K, title I, § 100115, Nov. 15, 2021, 135 Stat. 1455.)
 
-#### § 9526. Publicity
+#### § 9526. Publicity
 
 In carrying out the MBDA Business Center Program, the Under Secretary shall widely publicize the MBDA Business Center Program, including—
 
@@ -677,11 +677,11 @@ In carrying out the MBDA Business Center Program, the Under Secretary shall wide
 
 **(3)** by sharing information relating to the MBDA Business Center Program with community-based organizations, including interpretation groups where necessary, to communicate in the most common languages spoken by the groups served by those organizations.
 
-(Pub. L. 117–58, div. K, title I, § 100116, Nov. 15, 2021, 135 Stat. 1455.)
+(Pub. L. 117–58, div. K, title I, § 100116, Nov. 15, 2021, 135 Stat. 1455.)
 
 ## SUBCHAPTER II—NEW INITIATIVES TO PROMOTE ECONOMIC RESILIENCY FOR MINORITY BUSINESSES
 
-### § 9541. Annual diverse business forum on capital formation
+### § 9541. Annual diverse business forum on capital formation
 
 **(a) Responsibility of Agency**
 
@@ -729,9 +729,9 @@ Any head of a Federal agency, department, or organization who receives a request
 
 If a finding or recommendation described in subsection (d)(1) relates to more than 1 Federal agency, the applicable Federal agencies may, for the purposes of the public statement required under paragraph (1)(B), issue a joint statement.
 
-(Pub. L. 117–58, div. K, title II, § 100201, Nov. 15, 2021, 135 Stat. 1455.)
+(Pub. L. 117–58, div. K, title II, § 100201, Nov. 15, 2021, 135 Stat. 1455.)
 
-### § 9542. Agency study on alternative financing solutions
+### § 9542. Agency study on alternative financing solutions
 
 **(a) Purpose**
 
@@ -743,9 +743,9 @@ The purpose of this section is to provide information relating to alternative fi
 
 **(2)** submit to Congress, and publish on the website of the Agency, a report describing the findings of the study carried out under paragraph (1).
 
-(Pub. L. 117–58, div. K, title II, § 100202, Nov. 15, 2021, 135 Stat. 1456.)
+(Pub. L. 117–58, div. K, title II, § 100202, Nov. 15, 2021, 135 Stat. 1456.)
 
-### § 9543. Educational development relating to management and entrepreneurship
+### § 9543. Educational development relating to management and entrepreneurship
 
 **(a) Duties** The Under Secretary shall, whenever the Under Secretary determines such action is necessary or appropriate—
 
@@ -811,11 +811,11 @@ The Under Secretary shall establish and publish a timeline under which an eligib
 
 **(C)** the number of eligible entities that were recipients of grants awarded under this section.
 
-(Pub. L. 117–58, div. K, title II, § 100203, Nov. 15, 2021, 135 Stat. 1457.)
+(Pub. L. 117–58, div. K, title II, § 100203, Nov. 15, 2021, 135 Stat. 1457.)
 
 ## SUBCHAPTER III—RURAL MINORITY BUSINESS CENTER PROGRAM
 
-### § 9551. Definitions
+### § 9551. Definitions
 
 In this subchapter:
 
@@ -851,9 +851,9 @@ The term “rural area” has the meaning given the term in section 1991(a) of t
 
 The term “rural minority business enterprise” means a minority business enterprise located in a rural area.
 
-(Pub. L. 117–58, div. K, title III, § 100301, Nov. 15, 2021, 135 Stat. 1458.)
+(Pub. L. 117–58, div. K, title III, § 100301, Nov. 15, 2021, 135 Stat. 1458.)
 
-### § 9552. Business Centers
+### § 9552. Business Centers
 
 **(a) In general**
 
@@ -971,17 +971,17 @@ Not later than 90 days after November 15, 2021, the Under Secretary shall issue 
 
 In determining whether to enter into an MBDA Rural Business Center agreement with an eligible entity under this section, the Under Secretary shall consider the needs of the eligible entity.
 
-(Pub. L. 117–58, div. K, title III, § 100302, Nov. 15, 2021, 135 Stat. 1459.)
+(Pub. L. 117–58, div. K, title III, § 100302, Nov. 15, 2021, 135 Stat. 1459.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act of July 2, 1862, referred to in subsec. (d)(2)(B)(iii)(I), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the Morrill Act and also as the First Morrill Act, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
+The Act of July 2, 1862, referred to in subsec. (d)(2)(B)(iii)(I), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the Morrill Act and also as the First Morrill Act, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 301 of Title 7 and Tables.
 
-The Act of August 30, 1890, referred to in subsec. (d)(2)(B)(iii)(II), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
+The Act of August 30, 1890, referred to in subsec. (d)(2)(B)(iii)(II), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 
-### § 9553. Report to Congress
+### § 9553. Report to Congress
 
 Not later than 1 year after November 15, 2021, the Under Secretary shall submit to the appropriate congressional committees a report that includes—
 
@@ -989,9 +989,9 @@ Not later than 1 year after November 15, 2021, the Under Secretary shall submit 
 
 **(2)** recommendations for extending the outreach of the Agency to underserved areas.
 
-(Pub. L. 117–58, div. K, title III, § 100303, Nov. 15, 2021, 135 Stat. 1461.)
+(Pub. L. 117–58, div. K, title III, § 100303, Nov. 15, 2021, 135 Stat. 1461.)
 
-### § 9554. Study and report
+### § 9554. Study and report
 
 **(a) In general**
 
@@ -1001,11 +1001,11 @@ The Under Secretary, in coordination with relevant leadership of the Agency and 
 
 Not later than 1 year after November 15, 2021, the Under Secretary shall submit to the appropriate congressional committees a report that includes the results of the study conducted under subsection (a), which shall include recommendations regarding the ways in which minority business enterprises can meet gaps in the supply chain of the United States.
 
-(Pub. L. 117–58, div. K, title III, § 100304, Nov. 15, 2021, 135 Stat. 1461.)
+(Pub. L. 117–58, div. K, title III, § 100304, Nov. 15, 2021, 135 Stat. 1461.)
 
 ## SUBCHAPTER IV—MINORITY BUSINESS DEVELOPMENT GRANTS
 
-### § 9561. Grants to nonprofit organizations that support minority business enterprises
+### § 9561. Grants to nonprofit organizations that support minority business enterprises
 
 **(a) Definition** In this section, the term “covered entity” means a private nonprofit organization that—
 
@@ -1071,17 +1071,17 @@ A covered entity to which a grant is made under this section may use the grant f
 
 **(C)** information regarding the industries of the minority business enterprises served by the covered entities to which the grants were made.
 
-(Pub. L. 117–58, div. K, title IV, § 100401, Nov. 15, 2021, 135 Stat. 1461.)
+(Pub. L. 117–58, div. K, title IV, § 100401, Nov. 15, 2021, 135 Stat. 1461.)
 
 ## SUBCHAPTER V—MINORITY BUSINESS ENTERPRISES ADVISORY COUNCIL
 
-### § 9571. Purpose
+### § 9571. Purpose
 
 The Under Secretary shall establish the Minority Business Enterprises Advisory Council (referred to in this subchapter as the “Council”) to advise and assist the Agency.
 
-(Pub. L. 117–58, div. K, title V, § 100501, Nov. 15, 2021, 135 Stat. 1463.)
+(Pub. L. 117–58, div. K, title V, § 100501, Nov. 15, 2021, 135 Stat. 1463.)
 
-### § 9572. Composition and term
+### § 9572. Composition and term
 
 **(a) Composition**
 
@@ -1095,9 +1095,9 @@ The Under Secretary shall designate 1 of the private sector members of the Counc
 
 The Council shall meet at the request of the Under Secretary and members shall serve for a term of 2 years. Members of the Council may be reappointed.
 
-(Pub. L. 117–58, div. K, title V, § 100502, Nov. 15, 2021, 135 Stat. 1463.)
+(Pub. L. 117–58, div. K, title V, § 100502, Nov. 15, 2021, 135 Stat. 1463.)
 
-### § 9573. Duties
+### § 9573. Duties
 
 **(a) In general** The Council shall provide advice to the Under Secretary by—
 
@@ -1119,11 +1119,11 @@ Members of the Council shall not be compensated for service on the Council but m
 
 Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Council shall terminate on the date that is 5 years after November 15, 2021.
 
-(Pub. L. 117–58, div. K, title V, § 100503, Nov. 15, 2021, 135 Stat. 1463.)
+(Pub. L. 117–58, div. K, title V, § 100503, Nov. 15, 2021, 135 Stat. 1463.)
 
 **Editorial Notes**
 
@@ -1131,17 +1131,17 @@ the Council shall terminate on the date that is 5 years after November 15, 2021.
 
 This chapter, referred to in subsec. (a)(3)(A), was in the original “this division”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified prinicpally to this chapter. For complete classification of division K to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 ## SUBCHAPTER VI—FEDERAL COORDINATION OF MINORITY BUSINESS PROGRAMS
 
-### § 9581. General duties
+### § 9581. General duties
 
 The Under Secretary may coordinate, as consistent with law, the plans, programs, and operations of the Federal Government that affect, or may contribute to, the establishment, preservation, and strengthening of socially or economically disadvantaged business concerns.
 
-(Pub. L. 117–58, div. K, title VI, § 100601, Nov. 15, 2021, 135 Stat. 1464.)
+(Pub. L. 117–58, div. K, title VI, § 100601, Nov. 15, 2021, 135 Stat. 1464.)
 
-### § 9582. Participation of Federal departments and agencies
+### § 9582. Participation of Federal departments and agencies
 
 The Under Secretary shall—
 
@@ -1157,7 +1157,7 @@ The Under Secretary shall—
 
 **(3)** convene, for purposes of coordination, meetings of the heads of such Federal agencies and departments, or their designees, the programs and activities of which may affect or contribute to the carrying out of this chapter.
 
-(Pub. L. 117–58, div. K, title VI, § 100602, Nov. 15, 2021, 135 Stat. 1464.)
+(Pub. L. 117–58, div. K, title VI, § 100602, Nov. 15, 2021, 135 Stat. 1464.)
 
 **Editorial Notes**
 
@@ -1167,7 +1167,7 @@ This chapter, referred to in pars. (1)(B), (C), and (3), was in the original “
 
 ## SUBCHAPTER VII—ADMINISTRATIVE POWERS OF THE AGENCY; MISCELLANEOUS PROVISIONS
 
-### § 9591. Administrative powers
+### § 9591. Administrative powers
 
 **(a) In general** In carrying out this chapter, the Under Secretary may—
 
@@ -1197,7 +1197,7 @@ Subject to paragraph (2), in carrying out this chapter, the Under Secretary may,
 
 The Under Secretary may impose reasonable terms, conditions, reservations, and restrictions upon the use of any property under paragraph (1).
 
-(Pub. L. 117–58, div. K, title VII, § 100701, Nov. 15, 2021, 135 Stat. 1464.)
+(Pub. L. 117–58, div. K, title VII, § 100701, Nov. 15, 2021, 135 Stat. 1464.)
 
 **Editorial Notes**
 
@@ -1205,7 +1205,7 @@ The Under Secretary may impose reasonable terms, conditions, reservations, and r
 
 This chapter, referred to in subsecs. (a) and (b)(1), was in the original “this division” or “this Act”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, known as the Minority Business Development Act of 2021, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
-### § 9592. Federal assistance
+### § 9592. Federal assistance
 
 **(a) In general**
 
@@ -1213,7 +1213,7 @@ This chapter, referred to in subsecs. (a) and (b)(1), was in the original “thi
 
 To carry out sections \_\_\_101, \_\_\_102, and \_\_\_103(a),1
 
-<sup>1</sup>  So in original. See References in Text note below.
+<sup>1</sup> So in original. See References in Text note below.
 
 the Under Secretary may provide Federal assistance to public sector entities and private sector entities in the form of grants or cooperative agreements.
 
@@ -1233,9 +1233,9 @@ The Under Secretary shall consult with public sector entities and private sector
 
 **(b) Publicity**
 
-In carrying out this section, the Under Secretary shall broadly publicize all opportunities for Federal assistance available under this section, including through the means required under section \_\_\_116. <sup>1</sup>
+In carrying out this section, the Under Secretary shall broadly publicize all opportunities for Federal assistance available under this section, including through the means required under section \_\_\_116. <sup>1</sup>
 
-(Pub. L. 117–58, div. K, title VII, § 100702, Nov. 15, 2021, 135 Stat. 1465.)
+(Pub. L. 117–58, div. K, title VII, § 100702, Nov. 15, 2021, 135 Stat. 1465.)
 
 **Editorial Notes**
 
@@ -1245,7 +1245,7 @@ Sections \_\_\_101, \_\_\_102, and \_\_\_103(a), referred to in subsec. (a)(1), 
 
 Section \_\_\_116, referred to in subsec. (b), probably means section 100116 of Pub. L. 117–58, which is classified to section 9526 of this title.
 
-### § 9593. Recordkeeping
+### § 9593. Recordkeeping
 
 **(a) In general** Each recipient of assistance under this chapter shall keep such records as the Under Secretary shall prescribe, including records that fully disclose, with respect to the assistance received by the recipient under this chapter—
 
@@ -1265,7 +1265,7 @@ Section \_\_\_116, referred to in subsec. (b), probably means section 100116 of 
 
 The Under Secretary, the Inspector General of the Department of Commerce, and the Comptroller General of the United States, or any duly authorized representative of any such individual, shall have access, for the purpose of audit, investigation, and examination, to any book, document, paper, record, or other material of the Agency or an MBDA Business Center.
 
-(Pub. L. 117–58, div. K, title VII, § 100703, Nov. 15, 2021, 135 Stat. 1466.)
+(Pub. L. 117–58, div. K, title VII, § 100703, Nov. 15, 2021, 135 Stat. 1466.)
 
 **Editorial Notes**
 
@@ -1273,7 +1273,7 @@ The Under Secretary, the Inspector General of the Department of Commerce, and th
 
 This chapter, referred to in subsec. (a), was in the original “this division”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified principally to this chapter. For complete classification of division K to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
-### § 9594. Review and report by Comptroller General
+### § 9594. Review and report by Comptroller General
 
 Not later than 4 years after November 5, 2021, the Comptroller General of the United States shall—
 
@@ -1287,7 +1287,7 @@ Not later than 4 years after November 5, 2021, the Comptroller General of the Un
 
 **(C)** recommendations for any legislative or administrative action that should be taken to improve the achievement of the purposes of this chapter.
 
-(Pub. L. 117–58, div. K, title VII, § 100704, Nov. 15, 2021, 135 Stat. 1466.)
+(Pub. L. 117–58, div. K, title VII, § 100704, Nov. 15, 2021, 135 Stat. 1466.)
 
 **Editorial Notes**
 
@@ -1295,7 +1295,7 @@ Not later than 4 years after November 5, 2021, the Comptroller General of the Un
 
 This chapter, referred to in pars. (1) and (2), was in the original “this division”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified principally to this chapter. For complete classification of division K to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
-### § 9595. Biannual reports; recommendations
+### § 9595. Biannual reports; recommendations
 
 **(a) Biannual report**
 
@@ -1305,7 +1305,7 @@ Not later than 1 year after November 15, 2021, and 90 days after the last day of
 
 The Under Secretary shall periodically submit to Congress and the President recommendations for legislation or other actions that the Under Secretary determines to be necessary or appropriate to promote the purposes of this chapter.
 
-(Pub. L. 117–58, div. K, title VII, § 100705, Nov. 15, 2021, 135 Stat. 1466.)
+(Pub. L. 117–58, div. K, title VII, § 100705, Nov. 15, 2021, 135 Stat. 1466.)
 
 **Editorial Notes**
 
@@ -1313,7 +1313,7 @@ The Under Secretary shall periodically submit to Congress and the President reco
 
 This chapter, referred to in text, was in the original “this division”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified principally to this chapter. For complete classification of division K to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
-### § 9596. Separability
+### § 9596. Separability
 
 If a provision of this chapter, or the application of a provision of this chapter to any person or circumstance, is held by a court of competent jurisdiction to be invalid, that judgment—
 
@@ -1329,7 +1329,7 @@ If a provision of this chapter, or the application of a provision of this chapte
 
 **(B)** the application of the provision of this chapter to each person or circumstance directly involved in the controversy in which the judgment is rendered.
 
-(Pub. L. 117–58, div. K, title VII, § 100706, Nov. 15, 2021, 135 Stat. 1467.)
+(Pub. L. 117–58, div. K, title VII, § 100706, Nov. 15, 2021, 135 Stat. 1467.)
 
 **Editorial Notes**
 
@@ -1337,7 +1337,7 @@ If a provision of this chapter, or the application of a provision of this chapte
 
 This chapter, referred to in text, was in the original “this division”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified principally to this chapter. For complete classification of division K to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
-### § 9597. Executive Order 11625
+### § 9597. Executive Order 11625
 
 The powers and duties of the Agency shall be determined—
 
@@ -1345,7 +1345,7 @@ The powers and duties of the Agency shall be determined—
 
 **(2)** without regard to Executive Order 11625 (36 Fed. Reg. 19967; relating to prescribing additional arrangements for developing and coordinating a national program for minority business enterprise).
 
-(Pub. L. 117–58, div. K, title VII, § 100707, Nov. 15, 2021, 135 Stat. 1467.)
+(Pub. L. 117–58, div. K, title VII, § 100707, Nov. 15, 2021, 135 Stat. 1467.)
 
 **Editorial Notes**
 
@@ -1355,7 +1355,7 @@ Executive Order 11625, referred to in section catchline and par. (2), is Ex. Ord
 
 This chapter, referred to in par. (1), was in the original “this division”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified principally to this chapter. For complete classification of division K to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
-### § 9598. Authorization of appropriations
+### § 9598. Authorization of appropriations
 
 There are authorized to be appropriated to the Under Secretary $110,000,000 for each of fiscal years 2021 through 2025 to carry out this chapter, of which—
 
@@ -1363,7 +1363,7 @@ There are authorized to be appropriated to the Under Secretary $110,000,000 for 
 
 **(2)** $20,000,000 shall be used in each such fiscal year to carry out subchapter III.
 
-(Pub. L. 117–58, div. K, title VII, § 100708, Nov. 15, 2021, 135 Stat. 1467.)
+(Pub. L. 117–58, div. K, title VII, § 100708, Nov. 15, 2021, 135 Stat. 1467.)
 
 **Editorial Notes**
 

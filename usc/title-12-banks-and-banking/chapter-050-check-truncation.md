@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 50—CHECK TRUNCATION
 
-## § 5001. Findings; purposes
+## § 5001. Findings; purposes
 
 **(a) Findings** The Congress finds as follows:
 
@@ -37,13 +37,13 @@ retrieved: 2026-10-11
 
 **(3)** To improve the overall efficiency of the Nation’s payments system.
 
-(Pub. L. 108–100, § 2, Oct. 28, 2003, 117 Stat. 1177.)
+(Pub. L. 108–100, § 2, Oct. 28, 2003, 117 Stat. 1177.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Expedited Funds Availability Act, referred to in subsec. (a)(1), (2), is title VI of Pub. L. 100–86, Aug. 10, 1987, 101 Stat. 635, which is classified principally to chapter 41 (§ 4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+The Expedited Funds Availability Act, referred to in subsec. (a)(1), (2), is title VI of Pub. L. 100–86, Aug. 10, 1987, 101 Stat. 635, which is classified principally to chapter 41 (§ 4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
@@ -51,13 +51,13 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **Effective Date**
 
-Pub. L. 108–100, § 20, Oct. 28, 2003, 117 Stat. 1194, provided that: “This Act [enacting this chapter, amending section 412 of this title, and enacting provisions set out as notes under this section] shall take effect at the end of the 12-month period beginning on the date of the enactment of this Act [Oct. 28, 2003], except as otherwise specifically provided in this Act.”
+Pub. L. 108–100, § 20, Oct. 28, 2003, 117 Stat. 1194, provided that: “This Act [enacting this chapter, amending section 412 of this title, and enacting provisions set out as notes under this section] shall take effect at the end of the 12-month period beginning on the date of the enactment of this Act [Oct. 28, 2003], except as otherwise specifically provided in this Act.”
 
 **Short Title**
 
-Pub. L. 108–100, § 1(a), Oct. 28, 2003, 117 Stat. 1177, provided that: “This Act [enacting this chapter, amending section 412 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Check Clearing for the 21st Century Act’ or the ‘Check 21 Act’.”
+Pub. L. 108–100, § 1(a), Oct. 28, 2003, 117 Stat. 1177, provided that: “This Act [enacting this chapter, amending section 412 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Check Clearing for the 21st Century Act’ or the ‘Check 21 Act’.”
 
-## § 5002. Definitions
+## § 5002. Definitions
 
 For purposes of this chapter, the following definitions shall apply:
 
@@ -191,7 +191,7 @@ The term “Uniform Commercial Code” means the Uniform Commercial Code in effe
 
 Unless the context requires otherwise, the terms not defined in this section shall have the same meanings as in the Uniform Commercial Code.
 
-(Pub. L. 108–100, § 3, Oct. 28, 2003, 117 Stat. 1178.)
+(Pub. L. 108–100, § 3, Oct. 28, 2003, 117 Stat. 1178.)
 
 **Editorial Notes**
 
@@ -205,7 +205,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5003. General provisions governing substitute checks
+## § 5003. General provisions governing substitute checks
 
 **(a) No agreement required**
 
@@ -229,7 +229,7 @@ A bank shall identify itself as a reconverting bank on any substitute check for 
 
 A substitute check that is the legal equivalent of the original check under subsection (b) shall be subject to any provision, including any provision relating to the protection of customers, of part 229 of title 12 of the Code of Federal Regulations, the Uniform Commercial Code, and any other applicable Federal or State law as if such substitute check were the original check, to the extent such provision of law is not inconsistent with this chapter.
 
-(Pub. L. 108–100, § 4, Oct. 28, 2003, 117 Stat. 1180.)
+(Pub. L. 108–100, § 4, Oct. 28, 2003, 117 Stat. 1180.)
 
 **Editorial Notes**
 
@@ -243,7 +243,7 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5004. Substitute check warranties
+## § 5004. Substitute check warranties
 
 A bank that transfers, presents, or returns a substitute check and receives consideration for the check warrants, as a matter of law, to the transferee, any subsequent collecting or returning bank, the depositary bank, the drawee, the drawer, the payee, the depositor, and any endorser (regardless of whether the warrantee receives the substitute check or another paper or electronic form of the substitute check or original check) that—
 
@@ -251,7 +251,7 @@ A bank that transfers, presents, or returns a substitute check and receives cons
 
 **(2)** no depositary bank, drawee, drawer, or endorser will receive presentment or return of the substitute check, the original check, or a copy or other paper or electronic version of the substitute check or original check such that the bank, drawee, drawer, or endorser will be asked to make a payment based on a check that the bank, drawee, drawer, or endorser has already paid.
 
-(Pub. L. 108–100, § 5, Oct. 28, 2003, 117 Stat. 1181.)
+(Pub. L. 108–100, § 5, Oct. 28, 2003, 117 Stat. 1181.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -259,7 +259,7 @@ A bank that transfers, presents, or returns a substitute check and receives cons
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5005. Indemnity
+## § 5005. Indemnity
 
 **(a) Indemnity**
 
@@ -313,7 +313,7 @@ A bank that indemnifies a party under this section may attempt to recover from a
 
 Each indemnified party shall have a duty to comply with all reasonable requests for assistance from an indemnifying bank in connection with any claim the indemnifying bank brings against a warrantor or other party related to a check that forms the basis for the indemnification.
 
-(Pub. L. 108–100, § 6, Oct. 28, 2003, 117 Stat. 1181.)
+(Pub. L. 108–100, § 6, Oct. 28, 2003, 117 Stat. 1181.)
 
 **Editorial Notes**
 
@@ -327,7 +327,7 @@ This chapter, referred to in subsec. (d)(2), was in the original “this Act”,
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5006. Expedited recredit for consumers
+## § 5006. Expedited recredit for consumers
 
 **(a) Recredit claims**
 
@@ -481,7 +481,7 @@ A consumer who was provided a substitute check may make a claim for an expedited
 
 This section shall only apply to customers who are consumers.
 
-(Pub. L. 108–100, § 7, Oct. 28, 2003, 117 Stat. 1182.)
+(Pub. L. 108–100, § 7, Oct. 28, 2003, 117 Stat. 1182.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -489,7 +489,7 @@ This section shall only apply to customers who are consumers.
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5007. Expedited recredit procedures for banks
+## § 5007. Expedited recredit procedures for banks
 
 **(a) Recredit claims**
 
@@ -563,7 +563,7 @@ If a claimant bank reverses, in accordance with section 5006(e) of this title, a
 
 If the indemnifying bank provides the claimant bank with the original check or a copy of the original check (including an image or a substitute check) under subsection (c)(1)(A), section 5005(d) of this title shall govern any right of the indemnifying bank to any repayment of any funds the indemnifying bank has recredited to the claimant bank pursuant to subsection (c).
 
-(Pub. L. 108–100, § 8, Oct. 28, 2003, 117 Stat. 1186.)
+(Pub. L. 108–100, § 8, Oct. 28, 2003, 117 Stat. 1186.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -571,11 +571,11 @@ If the indemnifying bank provides the claimant bank with the original check or a
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5008. Delays in an emergency
+## § 5008. Delays in an emergency
 
 A delay by a bank beyond the time limits prescribed or permitted by this chapter shall be excused if the delay is caused by interruption of communication or computer facilities, suspension of payments by another bank, war, emergency conditions, failure of equipment, or other circumstances beyond the control of a bank and if the bank uses such diligence as the circumstances require.
 
-(Pub. L. 108–100, § 9, Oct. 28, 2003, 117 Stat. 1188.)
+(Pub. L. 108–100, § 9, Oct. 28, 2003, 117 Stat. 1188.)
 
 **Editorial Notes**
 
@@ -589,7 +589,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5009. Measure of damages
+## § 5009. Measure of damages
 
 **(a) Liability**
 
@@ -617,7 +617,7 @@ If a person incurs damages that resulted in whole or in part from the negligence
 
 Nothing in this subsection reduces the rights of a consumer or any other person under the Uniform Commercial Code or other applicable provision of Federal or State law.
 
-(Pub. L. 108–100, § 10, Oct. 28, 2003, 117 Stat. 1188.)
+(Pub. L. 108–100, § 10, Oct. 28, 2003, 117 Stat. 1188.)
 
 **Editorial Notes**
 
@@ -631,7 +631,7 @@ This chapter, referred to in subsec. (a)(1), was in the original “this Act”,
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5010. Statute of limitations and notice of claim
+## § 5010. Statute of limitations and notice of claim
 
 **(a) Actions under this chapter**
 
@@ -651,7 +651,7 @@ Except as provided in subsection (c), unless a person gives notice of a claim to
 
 A timely claim by a consumer under section 5006 of this title for expedited recredit constitutes timely notice of a claim by the consumer for purposes of subsection (b).
 
-(Pub. L. 108–100, § 11, Oct. 28, 2003, 117 Stat. 1188.)
+(Pub. L. 108–100, § 11, Oct. 28, 2003, 117 Stat. 1188.)
 
 **Editorial Notes**
 
@@ -665,7 +665,7 @@ This chapter, referred to in subsecs. (a)(1), (b), was in the original “this A
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5011. Consumer awareness
+## § 5011. Consumer awareness
 
 **(a) In general** Each bank shall provide, in accordance with subsection (b), a brief notice about substitute checks that describes—
 
@@ -715,7 +715,7 @@ A bank may delete any information in the model form or clause that is not requir
 
 This section shall not be construed as requiring any bank to use a model form or clause that the Board prepares under this subsection.
 
-(Pub. L. 108–100, § 12, Oct. 28, 2003, 117 Stat. 1189.)
+(Pub. L. 108–100, § 12, Oct. 28, 2003, 117 Stat. 1189.)
 
 **Editorial Notes**
 
@@ -731,11 +731,11 @@ This chapter, referred to in subsec. (c)(2)(B), was in the original “this Act�
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5012. Effect on other law
+## § 5012. Effect on other law
 
 This chapter shall supersede any provision of Federal or State law, including the Uniform Commercial Code, that is inconsistent with this chapter, but only to the extent of the inconsistency.
 
-(Pub. L. 108–100, § 13, Oct. 28, 2003, 117 Stat. 1190.)
+(Pub. L. 108–100, § 13, Oct. 28, 2003, 117 Stat. 1190.)
 
 **Editorial Notes**
 
@@ -749,7 +749,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5013. Variation by agreement
+## § 5013. Variation by agreement
 
 **(a) Section 5007**
 
@@ -759,7 +759,7 @@ Any provision of section 5007 of this title may be varied by agreement of the ba
 
 Except as provided in subsection (a), no provision of this chapter may be varied by agreement of any person or persons.
 
-(Pub. L. 108–100, § 14, Oct. 28, 2003, 117 Stat. 1190.)
+(Pub. L. 108–100, § 14, Oct. 28, 2003, 117 Stat. 1190.)
 
 **Editorial Notes**
 
@@ -773,11 +773,11 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5014. Regulations
+## § 5014. Regulations
 
 The Board may prescribe such regulations as the Board determines to be necessary to implement, prevent circumvention or evasion of, or facilitate compliance with the provisions of this chapter.
 
-(Pub. L. 108–100, § 15, Oct. 28, 2003, 117 Stat. 1190.)
+(Pub. L. 108–100, § 15, Oct. 28, 2003, 117 Stat. 1190.)
 
 **Editorial Notes**
 
@@ -791,7 +791,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5015. Study and report on funds availability
+## § 5015. Study and report on funds availability
 
 **(a) Study** In order to evaluate the implementation and the impact of this chapter, the Board shall conduct a study of—
 
@@ -809,7 +809,7 @@ Section effective at the end of the 12-month period beginning on Oct. 28, 2003, 
 
 Before the end of the 30-month period beginning on the effective date of this chapter, the Board shall submit a report to the Congress containing the results of the study conducted under this section, together with recommendations for legislative action.
 
-(Pub. L. 108–100, § 16, Oct. 28, 2003, 117 Stat. 1190.)
+(Pub. L. 108–100, § 16, Oct. 28, 2003, 117 Stat. 1190.)
 
 **Editorial Notes**
 
@@ -825,11 +825,11 @@ The effective date of this chapter, referred to in subsec. (b), is at the end of
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5016. Statistical reporting of costs and revenues for transporting checks between reserve banks
+## § 5016. Statistical reporting of costs and revenues for transporting checks between reserve banks
 
 In the annual report prepared by the Board for the first full calendar year after October 28, 2003, and in each of the 9 subsequent annual reports by the Board, the Board shall include the amount of operating costs attributable to, and an estimate of the Federal Reserve banks’ imputed revenues derived from, the transportation of commercial checks between Federal Reserve bank check processing centers.
 
-(Pub. L. 108–100, § 17, Oct. 28, 2003, 117 Stat. 1191.)
+(Pub. L. 108–100, § 17, Oct. 28, 2003, 117 Stat. 1191.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -837,7 +837,7 @@ In the annual report prepared by the Board for the first full calendar year afte
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5017. Evaluation and report by the Comptroller General
+## § 5017. Evaluation and report by the Comptroller General
 
 **(a) Study** During the 5-year period beginning on October 28, 2003, the Comptroller General of the United States shall evaluate the implementation and administration of this chapter, including—
 
@@ -851,7 +851,7 @@ Section effective at the end of the 12-month period beginning on Oct. 28, 2003, 
 
 Before the end of the 5-year period referred to in subsection (a), the Comptroller General shall submit a report to the Congress containing the findings and conclusions of the Comptroller General in connection with the evaluation conducted pursuant to subsection (a), together with such recommendations for legislative and administrative action as the Comptroller General may determine to be appropriate.
 
-(Pub. L. 108–100, § 18, Oct. 28, 2003, 117 Stat. 1191.)
+(Pub. L. 108–100, § 18, Oct. 28, 2003, 117 Stat. 1191.)
 
 **Editorial Notes**
 
@@ -865,7 +865,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 Section effective at the end of the 12-month period beginning on Oct. 28, 2003, see section 20 of Pub. L. 108–100, set out as a note under section 5001 of this title.
 
-## § 5018. Depositary services efficiency and cost reduction
+## § 5018. Depositary services efficiency and cost reduction
 
 **(a) Findings** The Congress finds as follows:
 
@@ -947,11 +947,11 @@ Following completion of the transition from the use of compensating balances to 
 
 Notwithstanding section 20,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 this section shall take effect on October 28, 2003.
 
-(Pub. L. 108–100, § 19, Oct. 28, 2003, 117 Stat. 1191.)
+(Pub. L. 108–100, § 19, Oct. 28, 2003, 117 Stat. 1191.)
 
 **Editorial Notes**
 
@@ -967,4 +967,4 @@ Section is comprised of section 19 of Pub. L. 108–100. Subsec. (d) of section 
 
 **Funds for Reimbursement for Depositary and Financial Agency Services**
 
-Pub. L. 108–199, div. F, title II, § 218, Jan. 23, 2004, 118 Stat. 321, provided that: “For fiscal year 2004 and each fiscal year thereafter, there are appropriated to the Secretary of the Treasury such sums as may be necessary to reimburse financial institutions in their capacity as depositaries and financial agents of the United States for all services required or directed by the Secretary of the Treasury, or the Secretary’s designee, to be performed by such financial institutions on behalf of the Department of the Treasury or other Federal agencies, including services rendered prior to fiscal year 2004.”
+Pub. L. 108–199, div. F, title II, § 218, Jan. 23, 2004, 118 Stat. 321, provided that: “For fiscal year 2004 and each fiscal year thereafter, there are appropriated to the Secretary of the Treasury such sums as may be necessary to reimburse financial institutions in their capacity as depositaries and financial agents of the United States for all services required or directed by the Secretary of the Treasury, or the Secretary’s designee, to be performed by such financial institutions on behalf of the Department of the Treasury or other Federal agencies, including services rendered prior to fiscal year 2004.”

@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(6), Dec. 18, 2025, 139 Stat. 948, struck out item 3678 “Contracts with terms of 18 months or more: limitation”. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(6), Dec. 18, 2025, 139 Stat. 948, struck out item 3678 “Contracts with terms of 18 months or more: limitation”. Amendment was made pursuant to operation of section 102 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Riding Gang Member Requirements**
 
-Pub. L. 109–364, div. A, title X, § 1018, Oct. 17, 2006, 120 Stat. 2380, as amended by Pub. L. 110–417, div. C, title XXXV, § 3504, Oct. 14, 2008, 122 Stat. 4762, provided that:
+Pub. L. 109–364, div. A, title X, § 1018, Oct. 17, 2006, 120 Stat. 2380, as amended by Pub. L. 110–417, div. C, title XXXV, § 3504, Oct. 14, 2008, 122 Stat. 4762, provided that:
 
 > **“(a) In General.—** The Secretary of Defense may not award, renew, extend, or exercise an option to extend any charter of a vessel documented under chapter 121 of title 46, United States Code, for the Department of Defense, or any contract for the carriage of cargo by a vessel documented under that chapter for the Department of Defense, unless the charter or contract, respectively, includes provisions that—
 
@@ -63,7 +63,7 @@ Pub. L. 109–364, div. A, title X, § 1018, Oct. 17, 2006, 120 Stat. 2380, as
 
 [Amendments made by Pub. L. 117–263 to section 70105 of Title 46, Shipping, referred to in section 1018(a)(2), (b)(2)(B) of Pub. L. 109–364, set out above, are such that section 70105 now refers to “transportation worker identification credential” rather than “transportation security card”. See section 70105 of Title 46.]
 
-## § 3671. Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles
+## § 3671. Requirement for authorization by law of certain contracts relating to vessels, aircraft, and combat vehicles
 
 **(a)**
 
@@ -99,15 +99,15 @@ Pub. L. 109–364, div. A, title X, § 1018, Oct. 17, 2006, 120 Stat. 2380, as
 
 **(5)** In the case of a contract described in subsection (a)(1)(B), the commander of the special operations command may make a contract without regard to this subsection if funds are available and obligated for the full cost of the contract (including termination costs) on or before the date the contract is awarded.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (b), Jan. 1, 2021, 134 Stat. 4206; Pub. L. 118–159, div. A, title VIII, § 811(b), Dec. 23, 2024, 138 Stat. 1979.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (b), Jan. 1, 2021, 134 Stat. 4206; Pub. L. 118–159, div. A, title VIII, § 811(b), Dec. 23, 2024, 138 Stat. 1979.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (a) of section 2401 of this title, which was transferred to this section by Pub. L. 116–283, § 1825(b), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 109–163, div. A, title VIII, § 815(a)(1), Jan. 6, 2006, 119 Stat. 3381.
+The text of subsec. (a) of section 2401 of this title, which was transferred to this section by Pub. L. 116–283, § 1825(b), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 109–163, div. A, title VIII, § 815(a)(1), Jan. 6, 2006, 119 Stat. 3381.
 
-The text of subsec. (b) of section 2401 of this title, which was transferred to this section by Pub. L. 116–283, § 1825(b), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 104–106, div. A, title XV, §§ 1502(a)(20), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(13)], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 109–163, div. A, title VIII, § 815(a)(1), (b), Jan. 6, 2006, 119 Stat. 3381; Pub. L. 110–181, div. A, title VIII, § 824, Jan. 28, 2008, 122 Stat. 227; Pub. L. 112–239, div. A, title X, § 1076(f)(26), Jan. 2, 2013, 126 Stat. 1953.
+The text of subsec. (b) of section 2401 of this title, which was transferred to this section by Pub. L. 116–283, § 1825(b), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 104–106, div. A, title XV, §§ 1502(a)(20), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(13)], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 109–163, div. A, title VIII, § 815(a)(1), (b), Jan. 6, 2006, 119 Stat. 3381; Pub. L. 110–181, div. A, title VIII, § 824, Jan. 28, 2008, 122 Stat. 227; Pub. L. 112–239, div. A, title X, § 1076(f)(26), Jan. 2, 2013, 126 Stat. 1953.
 
 **Amendments**
 
@@ -117,7 +117,7 @@ The text of subsec. (b) of section 2401 of this title, which was transferred to 
 
 “(C) a period of 30 days of continuous session of Congress has expired following the date on which the certification was received by such committees.”
 
-2021—Pub. L. 116–283, § 1825(b), transferred subsecs. (a) and (b) of section 2401 of this title to this section.
+2021—Pub. L. 116–283, § 1825(b), transferred subsecs. (a) and (b) of section 2401 of this title to this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -127,9 +127,9 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Multi-Year Aircraft Lease Pilot Program**
 
-Pub. L. 107–206, title I, § 308, Aug. 2, 2002, 116 Stat. 841, provided that: “During the current fiscal year and hereafter, section 2533a of title 10, United States Code [now 10 U.S.C. 4862], shall not apply to any transaction entered into to acquire or sustain aircraft under the authority of section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284) [set out below].”
+Pub. L. 107–206, title I, § 308, Aug. 2, 2002, 116 Stat. 841, provided that: “During the current fiscal year and hereafter, section 2533a of title 10, United States Code [now 10 U.S.C. 4862], shall not apply to any transaction entered into to acquire or sustain aircraft under the authority of section 8159 of the Department of Defense Appropriations Act, 2002 (division A of Public Law 107–117; 115 Stat. 2284) [set out below].”
 
-Pub. L. 107–117, div. A, title VIII, § 8159, Jan. 10, 2002, 115 Stat. 2284, as amended by Pub. L. 107–248, title VIII, § 8117, Oct. 23, 2002, 116 Stat. 1564; Pub. L. 113–76, div. C, title VIII, § 8122, Jan. 17, 2014, 128 Stat. 133, provided that:
+Pub. L. 107–117, div. A, title VIII, § 8159, Jan. 10, 2002, 115 Stat. 2284, as amended by Pub. L. 107–248, title VIII, § 8117, Oct. 23, 2002, 116 Stat. 1564; Pub. L. 113–76, div. C, title VIII, § 8122, Jan. 17, 2014, 128 Stat. 133, provided that:
 
 > **“(a)** The Secretary of the Air Force may, from funds provided in this Act [see Tables for classification] or any future appropriations Act, establish and make payments on a multi-year pilot program for leasing general purpose Boeing 767 aircraft and Boeing 737 aircraft in commercial configuration.
 
@@ -153,7 +153,7 @@ Pub. L. 107–117, div. A, title VIII, § 8159, Jan. 10, 2002, 115 Stat. 2284,
 
 > **“(B)** A period of not less than 30 calendar days has elapsed after submitting the report.
 
-> **“[(7)** Repealed. Pub. L. 113–76, div. C, title VIII, § 8122, Jan. 17, 2014, 128 Stat. 133.]
+> **“[(7)** Repealed. Pub. L. 113–76, div. C, title VIII, § 8122, Jan. 17, 2014, 128 Stat. 133.]
 
 > **“(8)** The Air Force shall accept delivery of the aircraft in a general purpose configuration.
 
@@ -175,7 +175,7 @@ Pub. L. 107–117, div. A, title VIII, § 8159, Jan. 10, 2002, 115 Stat. 2284,
 
 **Lease of Firefighting, Crash Rescue, and Snow Removal Equipment**
 
-Pub. L. 105–262, title VIII, § 8126, Oct. 17, 1998, 112 Stat. 2333, provided that:
+Pub. L. 105–262, title VIII, § 8126, Oct. 17, 1998, 112 Stat. 2333, provided that:
 
 > **“(a)** The Secretary of the Army and the Secretary of the Air Force may each enter into one or more multiyear leases of nontactical firefighting equipment, nontactical crash rescue equipment, or nontactical snow removal equipment. The period of a lease entered into under this section shall be for any period not in excess of 10 years. Any such lease shall provide that performance under the lease during the second and subsequent years of the contract is contingent upon the appropriation of funds and shall provide for a cancellation payment to be made to the lessor if such appropriations are not made.
 
@@ -183,7 +183,7 @@ Pub. L. 105–262, title VIII, § 8126, Oct. 17, 1998, 112 Stat. 2333, provide
 
 > **“(c)** This section is effective for all fiscal years beginning after September 30, 1998.”
 
-## § 3672. Requirement of specific authorization by law for appropriation, and for obligation and expenditure, of funds for certain contracts relating to aircraft, naval vessels, and combat vehicles
+## § 3672. Requirement of specific authorization by law for appropriation, and for obligation and expenditure, of funds for certain contracts relating to aircraft, naval vessels, and combat vehicles
 
 **(a) Limitation.—** Funds may not be appropriated for any fiscal year to or for any armed force or obligated or expended for—
 
@@ -205,21 +205,21 @@ unless funds for that purpose have been specifically authorized by law.
 
 **(B)** shall reflect such portion in the appropriate procurement account in the request.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (d), (e), Jan. 1, 2021, 134 Stat. 4206, 4207.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (d), (e), Jan. 1, 2021, 134 Stat. 4206, 4207.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of par. (1) of subsec. (c) of section 2401 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, § 1825(d), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 98–525, title XII, § 1232(a)(1), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 109–163, div. A, title VIII, § 815(a)(2), Jan. 6, 2006, 119 Stat. 3381.
+The text of par. (1) of subsec. (c) of section 2401 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, § 1825(d), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 98–525, title XII, § 1232(a)(1), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 109–163, div. A, title VIII, § 815(a)(2), Jan. 6, 2006, 119 Stat. 3381.
 
-The text of subsec. (e) of section 2401 of this title, which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, § 1825(e), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 109–163, div. A, title VIII, § 815(a)(3), Jan. 6, 2006, 119 Stat. 3381; Pub. L. 116–92, div. A, title XVII, § 1731(a)(48), Dec. 20, 2019, 133 Stat. 1815.
+The text of subsec. (e) of section 2401 of this title, which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, § 1825(e), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 109–163, div. A, title VIII, § 815(a)(3), Jan. 6, 2006, 119 Stat. 3381; Pub. L. 116–92, div. A, title XVII, § 1731(a)(48), Dec. 20, 2019, 133 Stat. 1815.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1825(d), after transfer of par. (2) of section 2401(c) of this title to section 3673 of this title, redesignated remainder of subsec. (c) of section 2401 of this title as subsec. (a) of this section, inserted heading, struck out par. (1) designation before “Funds may not”, and redesignated subpars. (A) and (B) of such former par. (1) as pars. (1) and (2), respectively.
+2021—Subsec. (a). Pub. L. 116–283, § 1825(d), after transfer of par. (2) of section 2401(c) of this title to section 3673 of this title, redesignated remainder of subsec. (c) of section 2401 of this title as subsec. (a) of this section, inserted heading, struck out par. (1) designation before “Funds may not”, and redesignated subpars. (A) and (B) of such former par. (1) as pars. (1) and (2), respectively.
 
-Subsec. (b). Pub. L. 116–283, § 1825(e), redesignated subsec. (e) of section 2401 of this title as subsec. (b) of this section, inserted heading, and substituted “section 3676 of this title” for “subsection (g)” in par. (2) and “this chapter” for “this section” in introductory provisions of par. (3).
+Subsec. (b). Pub. L. 116–283, § 1825(e), redesignated subsec. (e) of section 2401 of this title as subsec. (b) of this section, inserted heading, and substituted “section 3676 of this title” for “subsection (g)” in par. (2) and “this chapter” for “this section” in introductory provisions of par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -227,7 +227,7 @@ Subsec. (b). Pub. L. 116–283, § 1825(e), redesignated subsec. (e) of sectio
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3673. Limitation on indemnification
+## § 3673. Limitation on indemnification
 
 Funds appropriated to the Department of Defense may not be used to indemnify any person under the terms of a contract entered into under this chapter—
 
@@ -235,7 +235,7 @@ Funds appropriated to the Department of Defense may not be used to indemnify any
 
 **(2)** to pay any attorneys’ fees in connection with such contract.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (c), Jan. 1, 2021, 134 Stat. 4206.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (c), Jan. 1, 2021, 134 Stat. 4206.)
 
 **Editorial Notes**
 
@@ -245,11 +245,11 @@ The Internal Revenue Code of 1986, referred to in par. (1), is classified genera
 
 **Codification**
 
-The text of par. (2) of subsec. (c) of section 2401 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1825(c), was based on Pub. L. 98–525, title XII, § 1232(a)(1)(C), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 103–35, title II, § 201(c)(6), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. A, title XV, § 1503(a)(21), Feb. 10, 1996, 110 Stat. 512.
+The text of par. (2) of subsec. (c) of section 2401 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1825(c), was based on Pub. L. 98–525, title XII, § 1232(a)(1)(C), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 103–35, title II, § 201(c)(6), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. A, title XV, § 1503(a)(21), Feb. 10, 1996, 110 Stat. 512.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1825(c), transferred par. (2) of section 2401(c) of this title to this section, struck out par. (2) designation at beginning, substituted “this chapter” for “this section” in introductory provisions, and redesignated subpars. (A) and (B) of such former par. (2) as pars. (1) and (2), respectively.
+2021—Pub. L. 116–283, § 1825(c), transferred par. (2) of section 2401(c) of this title to this section, struck out par. (2) designation at beginning, substituted “this chapter” for “this section” in introductory provisions, and redesignated subpars. (A) and (B) of such former par. (2) as pars. (1) and (2), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -257,7 +257,7 @@ The text of par. (2) of subsec. (c) of section 2401 of this title, which was tra
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3674. Long-term lease or charter defined; substantial termination liability
+## § 3674. Long-term lease or charter defined; substantial termination liability
 
 **(a) Long-term Lease or Charter.—**
 
@@ -293,7 +293,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 is more than one-half the price of the vessel, aircraft, or combat vehicle involved.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (f), Jan. 1, 2021, 134 Stat. 4206, 4207.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (f), Jan. 1, 2021, 134 Stat. 4206, 4207.)
 
 **Editorial Notes**
 
@@ -303,17 +303,17 @@ Section 168 of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)(
 
 **Codification**
 
-The text of subsec. (d) of section 2401 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1825(f), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 100–26, § 7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 109–163, div. A, title VIII, § 815(a)(1), Jan. 6, 2006, 119 Stat. 3381.
+The text of subsec. (d) of section 2401 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1825(f), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 100–26, § 7(h)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 109–163, div. A, title VIII, § 815(a)(1), Jan. 6, 2006, 119 Stat. 3381.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1825(f)(1), transferred subsec. (d) of section 2401 of this title to this section, struck out subsec. (d) designation at beginning, and redesignated pars. (1) and (2) of such former subsec. (d) as subsecs. (a) and (b), respectively.
+2021—Pub. L. 116–283, § 1825(f)(1), transferred subsec. (d) of section 2401 of this title to this section, struck out subsec. (d) designation at beginning, and redesignated pars. (1) and (2) of such former subsec. (d) as subsecs. (a) and (b), respectively.
 
-Subsec. (a). Pub. L. 116–283, § 1825(f)(2)(A), (C), (D), (E), after redesignation of section 2401(d)(1) of this title as subsec. (a) of this section, inserted subsec. heading, redesignated subpar. (A)(i) and (ii) and its concluding provisions as par. (1)(A)(i) and (ii) and (B), respectively, redesignated subpar. (B)(i) and (ii) and its concluding provisions as par. (2)(A)(i) and (ii) and (B), respectively, and inserted par. headings.
+Subsec. (a). Pub. L. 116–283, § 1825(f)(2)(A), (C), (D), (E), after redesignation of section 2401(d)(1) of this title as subsec. (a) of this section, inserted subsec. heading, redesignated subpar. (A)(i) and (ii) and its concluding provisions as par. (1)(A)(i) and (ii) and (B), respectively, redesignated subpar. (B)(i) and (ii) and its concluding provisions as par. (2)(A)(i) and (ii) and (B), respectively, and inserted par. headings.
 
-Subsec. (a)(1)(A). Pub. L. 116–283, § 1825(f)(2)(A), (B), substituted “In this chapter” for “In this section” and “paragraph (2)” for “subparagraph (B)” in introductory provisions.
+Subsec. (a)(1)(A). Pub. L. 116–283, § 1825(f)(2)(A), (B), substituted “In this chapter” for “In this section” and “paragraph (2)” for “subparagraph (B)” in introductory provisions.
 
-Subsec. (b). Pub. L. 116–283, § 1825(f)(3), after redesignation of section 2401(d)(2) of this title as subsec. (b) of this section, inserted heading, substituted “this chapter” for “this section” in introductory provisions, and redesignated subpar. (A) as par. (1) and subpar. (B) and its cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively.
+Subsec. (b). Pub. L. 116–283, § 1825(f)(3), after redesignation of section 2401(d)(2) of this title as subsec. (b) of this section, inserted heading, substituted “this chapter” for “this section” in introductory provisions, and redesignated subpar. (A) as par. (1) and subpar. (B) and its cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -321,7 +321,7 @@ Subsec. (b). Pub. L. 116–283, § 1825(f)(3), after redesignation of section 
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3675. Capital lease or lease-purchase treated as an acquisition
+## § 3675. Capital lease or lease-purchase treated as an acquisition
 
 **(a) In General.—** If a lease or charter covered by this chapter is a capital lease or a lease-purchase—
 
@@ -331,21 +331,21 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(b) Definitions.—** In this section, the terms “capital lease” and “lease-purchase” have the meanings given those terms in Appendix B to Office of Management and Budget Circular A–11, as in effect on January 6, 2006.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (g), Jan. 1, 2021, 134 Stat. 4206, 4208.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (g), Jan. 1, 2021, 134 Stat. 4206, 4208.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (f) of section 2401 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1825(g), was based on Pub. L. 109–163, div. A, title VIII, § 815(c)(2), Jan. 6, 2006, 119 Stat. 3382; Pub. L. 111–84, div. A, title X, § 1073(a)(24), Oct. 28, 2009, 123 Stat. 2473.
+The text of subsec. (f) of section 2401 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1825(g), was based on Pub. L. 109–163, div. A, title VIII, § 815(c)(2), Jan. 6, 2006, 119 Stat. 3382; Pub. L. 111–84, div. A, title X, § 1073(a)(24), Oct. 28, 2009, 123 Stat. 2473.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1825(g)(1)(A), transferred subsec. (f) of section 2401 of this title to this section, struck out subsec. (f) designation at beginning, and redesignated pars. (1) and (2) of such former subsec. (f) as subsecs. (a) and (b), respectively.
+2021—Pub. L. 116–283, § 1825(g)(1)(A), transferred subsec. (f) of section 2401 of this title to this section, struck out subsec. (f) designation at beginning, and redesignated pars. (1) and (2) of such former subsec. (f) as subsecs. (a) and (b), respectively.
 
-Subsec. (a). Pub. L. 116–283, § 1825(g)(2), after redesignation of section 2401(f)(1) of this title as subsec. (a) of this section, inserted heading, substituted “this chapter” for “this section” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+Subsec. (a). Pub. L. 116–283, § 1825(g)(2), after redesignation of section 2401(f)(1) of this title as subsec. (a) of this section, inserted heading, substituted “this chapter” for “this section” in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
-Subsec. (b). Pub. L. 116–283, § 1825(g)(3), after redesignation of section 2401(d)(2) of this title as subsec. (b) of this section, inserted heading and substituted “In this section” for “In this subsection”.
+Subsec. (b). Pub. L. 116–283, § 1825(g)(3), after redesignation of section 2401(d)(2) of this title as subsec. (b) of this section, inserted heading and substituted “In this section” for “In this subsection”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -353,21 +353,21 @@ Subsec. (b). Pub. L. 116–283, § 1825(g)(3), after redesignation of section 
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3676. Guidelines
+## § 3676. Guidelines
 
 The Director of the Office of Management and Budget and the Secretary of the Treasury shall jointly issue guidelines for determining under what circumstances the Department of Defense may use lease or charter arrangements for aircraft, naval vessels, and combat vehicles rather than directly procuring such aircraft, vessels, and combat vehicles.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (h), Jan. 1, 2021, 134 Stat. 4206, 4208.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (h), Jan. 1, 2021, 134 Stat. 4206, 4208.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (g) of section 2401 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1825(h), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 98–525, title XII, § 1232(a)(2), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 109–163, div. A, title VIII, § 815(c)(1), Jan. 6, 2006, 119 Stat. 3382.
+The text of subsec. (g) of section 2401 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1825(h), was based on Pub. L. 98–94, title XII, § 1202(a)(1), Sept. 24, 1983, 97 Stat. 679; Pub. L. 98–525, title XII, § 1232(a)(2), Oct. 19, 1984, 98 Stat. 2600; Pub. L. 109–163, div. A, title VIII, § 815(c)(1), Jan. 6, 2006, 119 Stat. 3382.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1825(h), transferred subsec. (g) of section 2401 of this title to this section and struck out subsec. (g) designation at beginning.
+2021—Pub. L. 116–283, § 1825(h), transferred subsec. (g) of section 2401 of this title to this section and struck out subsec. (g) designation at beginning.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -375,7 +375,7 @@ The text of subsec. (g) of section 2401 of this title, which was transferred to 
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3677. Contracts for lease or use of vessels for a term of greater than two years but less than five years: prior notice to congressional committees
+## § 3677. Contracts for lease or use of vessels for a term of greater than two years but less than five years: prior notice to congressional committees
 
 The Secretary of a military department may make a contract for the lease of a vessel or for the provision of a service through use by a contractor of a vessel, the term of which is for a period of greater than two years, but less than five years, only if—
 
@@ -389,17 +389,17 @@ The Secretary of a military department may make a contract for the lease of a ve
 
 **(2)** a period of 60 days has expired following the date on which notice was received by such committees.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (i), Jan. 1, 2021, 134 Stat. 4206, 4208.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (i), Jan. 1, 2021, 134 Stat. 4206, 4208.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (h) of section 2401 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1825(i), was based on Pub. L. 110–181, div. A, title X, § 1011, Jan. 28, 2008, 122 Stat. 303; Pub. L. 112–239, div. A, title VIII, § 821, title X, § 1076(f)(26), Jan. 2, 2013, 126 Stat. 1830, 1953.
+The text of subsec. (h) of section 2401 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1825(i), was based on Pub. L. 110–181, div. A, title X, § 1011, Jan. 28, 2008, 122 Stat. 303; Pub. L. 112–239, div. A, title VIII, § 821, title X, § 1076(f)(26), Jan. 2, 2013, 126 Stat. 1830, 1953.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1825(i), transferred subsec. (h) of section 2401 of this title to this section and struck out subsec. (h) designation at beginning.
+2021—Pub. L. 116–283, § 1825(i), transferred subsec. (h) of section 2401 of this title to this section and struck out subsec. (h) designation at beginning.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -407,12 +407,12 @@ The text of subsec. (h) of section 2401 of this title, which was transferred to 
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## [§ 3678. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(6), Dec. 18, 2025, 139 Stat. 948]
+## [§ 3678. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(6), Dec. 18, 2025, 139 Stat. 948]
 
-Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (j), Jan. 1, 2021, 134 Stat. 4206, 4208, related to contracts with terms of 18 months or more: limitation.
+Section, added and amended Pub. L. 116–283, div. A, title XVIII, § 1825(a), (j), Jan. 1, 2021, 134 Stat. 4206, 4208, related to contracts with terms of 18 months or more: limitation.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Leases for Tanker Aircraft Under Multiyear Aircraft-Lease Pilot Program**
 
-Pub. L. 107–314, div. A, title I, § 133, Dec. 2, 2002, 116 Stat. 2477, which provided that the Secretary of the Air Force could not enter into a lease for the acquisition of tanker aircraft for the Air Force under section 8159 of div. A of Pub. L. 107–117 (10 U.S.C. 3671 note) until certain requirements were met, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(19)(A), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 107–314, div. A, title I, § 133, Dec. 2, 2002, 116 Stat. 2477, which provided that the Secretary of the Air Force could not enter into a lease for the acquisition of tanker aircraft for the Air Force under section 8159 of div. A of Pub. L. 107–117 (10 U.S.C. 3671 note) until certain requirements were met, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(19)(A), Dec. 18, 2025, 139 Stat. 949.

@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–196, § 5(b), Dec. 23, 2024, 138 Stat. 2673, added item 7114.
+2024—Pub. L. 118–196, § 5(b), Dec. 23, 2024, 138 Stat. 2673, added item 7114.
 
-2022—Pub. L. 117–300, § 2(a)(2)(B), Dec. 27, 2022, 136 Stat. 4380, added item 7112 and struck out former item 7112 “Expedited treatment of remanded claims”.
+2022—Pub. L. 117–300, § 2(a)(2)(B), Dec. 27, 2022, 136 Stat. 4380, added item 7112 and struck out former item 7112 “Expedited treatment of remanded claims”.
 
-Pub. L. 117–168, § 1(b)(2), title VIII, § 807(a)(5)(A), Aug. 10, 2022, 136 Stat 1759, 1806, inserted “; decisions; notice” after “Board” in item 7104.
+Pub. L. 117–168, § 1(b)(2), title VIII, § 807(a)(5)(A), Aug. 10, 2022, 136 Stat 1759, 1806, inserted “; decisions; notice” after “Board” in item 7104.
 
-2017—Pub. L. 115–55, § 2(q)(2), (s)(2), (u)(3), (w)(3), Aug. 23, 2017, 131 Stat. 1112, 1113, 1115, substituted “Filing of appeal” for “Filing of notice of disagreement and appeal” in item 7105, struck out items 7106 “Administrative appeals” and 7109 “Independent medical opinions”, and added item 7113.
+2017—Pub. L. 115–55, § 2(q)(2), (s)(2), (u)(3), (w)(3), Aug. 23, 2017, 131 Stat. 1112, 1113, 1115, substituted “Filing of appeal” for “Filing of notice of disagreement and appeal” in item 7105, struck out items 7106 “Administrative appeals” and 7109 “Independent medical opinions”, and added item 7113.
 
-2003—Pub. L. 108–183, title VII, § 707(b)(2), Dec. 16, 2003, 117 Stat. 2673, added item 7112.
+2003—Pub. L. 108–183, title VII, § 707(b)(2), Dec. 16, 2003, 117 Stat. 2673, added item 7112.
 
-1997—Pub. L. 105–111, § 1(b)(2), Nov. 21, 1997, 111 Stat. 2272, added item 7111.
+1997—Pub. L. 105–111, § 1(b)(2), Nov. 21, 1997, 111 Stat. 2272, added item 7111.
 
-1994—Pub. L. 103–446, title II, § 201(a)(2), Nov. 2, 1994, 108 Stat. 4656, added item 7101A.
+1994—Pub. L. 103–446, title II, § 201(a)(2), Nov. 2, 1994, 108 Stat. 4656, added item 7101A.
 
-Pub. L. 103–271, §§ 6(b), 7(a)(2), (b)(3), July 1, 1994, 108 Stat. 742, 743, substituted “Reconsideration; correction of obvious errors” for “Determinations by the Board” in item 7103, substituted “Appeals: dockets; hearings” for “Docketing of appeals” in item 7107, and struck out item 7110 “Traveling sections”.
+Pub. L. 103–271, §§ 6(b), 7(a)(2), (b)(3), July 1, 1994, 108 Stat. 742, 743, substituted “Reconsideration; correction of obvious errors” for “Determinations by the Board” in item 7103, substituted “Appeals: dockets; hearings” for “Docketing of appeals” in item 7107, and struck out item 7110 “Traveling sections”.
 
-1991—Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4001 to 4010 as 7101 to 7110, respectively.
+1991—Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4001 to 4010 as 7101 to 7110, respectively.
 
-1988—Pub. L. 100–687, div. A, title II, § 207(b), Nov. 18, 1988, 102 Stat. 4112, added item 4010.
+1988—Pub. L. 100–687, div. A, title II, § 207(b), Nov. 18, 1988, 102 Stat. 4112, added item 4010.
 
-1962—Pub. L. 87–671, § 3, Sept. 19, 1962, 76 Stat. 557, added item 4009.
+1962—Pub. L. 87–671, § 3, Sept. 19, 1962, 76 Stat. 557, added item 4009.
 
-Pub. L. 87–666, § 2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and substituted “Filing of notice of disagreement and appeal” for “Applications for review on appeal” in item 4005, “Administrative appeals” for “Docketing of appeals” in item 4006, and “Docketing of appeals” for “Simultaneously contested claims” in item 4007.
+Pub. L. 87–666, § 2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and substituted “Filing of notice of disagreement and appeal” for “Applications for review on appeal” in item 4005, “Administrative appeals” for “Docketing of appeals” in item 4006, and “Docketing of appeals” for “Simultaneously contested claims” in item 4007.
 
-## § 7101. Composition of Board of Veterans’ Appeals
+## § 7101. Composition of Board of Veterans’ Appeals
 
 **(a)** There is in the Department a Board of Veterans’ Appeals (hereinafter in this chapter referred to as the “Board”). The Board is under the administrative control and supervision of a chairman directly responsible to the Secretary. The Board shall consist of a Chairman, a Vice Chairman, and such number of members as may be found necessary in order to conduct hearings and dispose of appeals properly before the Board in a timely manner. The Board shall have such other professional, administrative, clerical, and stenographic personnel as are necessary in conducting hearings and considering and disposing of appeals properly before the Board. The Board shall have sufficient personnel under the preceding sentence to enable the Board to conduct hearings and consider and dispose of appeals properly before the Board in a timely manner.
 
@@ -105,7 +105,7 @@ Pub. L. 87–666, § 2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and su
 
 **(e)** A performance incentive that is authorized by law for officers and employees of the Federal Government may be awarded to a member of the Board (including an acting member) by reason of that member’s service on the Board only if the Chairman of the Board determines that such member should be awarded that incentive. A determination by the Chairman for such purpose shall be made taking into consideration the quality of performance of the Board member.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1240, § 4001; Pub. L. 98–223, title II, § 208(a)–(c), Mar. 2, 1984, 98 Stat. 43, 44; Pub. L. 100–687, div. A, title II, §§ 201(a), 202(b), 208, 209, Nov. 18, 1988, 102 Stat. 4109, 4110, 4112; renumbered § 7101 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(2), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§ 2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 402, 404, 405; Pub. L. 103–271, §§ 2–5, July 1, 1994, 108 Stat. 740, 741; Pub. L. 103–446, title II, §§ 201(d), 203, Nov. 2, 1994, 108 Stat. 4657; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 116–137, § 2(c)(1), Apr. 10, 2020, 134 Stat. 616.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1240, § 4001; Pub. L. 98–223, title II, § 208(a)–(c), Mar. 2, 1984, 98 Stat. 43, 44; Pub. L. 100–687, div. A, title II, §§ 201(a), 202(b), 208, 209, Nov. 18, 1988, 102 Stat. 4109, 4110, 4112; renumbered § 7101 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(2), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§ 2(c)(3), 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 402, 404, 405; Pub. L. 103–271, §§ 2–5, July 1, 1994, 108 Stat. 740, 741; Pub. L. 103–446, title II, §§ 201(d), 203, Nov. 2, 1994, 108 Stat. 4657; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 116–137, § 2(c)(1), Apr. 10, 2020, 134 Stat. 616.)
 
 **Editorial Notes**
 
@@ -117,63 +117,63 @@ Pub. L. 87–666, § 2, Sept. 19, 1962, 76 Stat. 554, added item 4005A, and su
 
 1998—Subsec. (b)(1). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1994—Subsec. (a). Pub. L. 103–271, § 2, struck out “(not more than 65)” after “such number”.
+1994—Subsec. (a). Pub. L. 103–271, § 2, struck out “(not more than 65)” after “such number”.
 
-Subsec. (b). Pub. L. 103–446, § 201(d)(1), (2), designated as par. (2) the text in par. (1) beginning “The Chairman may be removed” and struck out former par. (2) which read as follows:
+Subsec. (b). Pub. L. 103–446, § 201(d)(1), (2), designated as par. (2) the text in par. (1) beginning “The Chairman may be removed” and struck out former par. (2) which read as follows:
 
 “(2)(A) The other members of the Board (including the Vice Chairman) shall be appointed by the Secretary, with the approval of the President, based upon recommendations of the Chairman. Each such member shall be appointed for a term of nine years.
 
 “(B) A member of the Board (other than the Chairman) may be removed by the Secretary upon the recommendation of the Chairman. In the case of a removal that would be covered by section 7521 of title 5 in the case of an administrative law judge, a removal of a member of the Board under this paragraph shall be carried out subject to the same requirements as apply to removal of an administrative law judge under that section. Section 554(a)(2) of title 5 shall not apply to a removal action under this subparagraph. In such a removal action, a member shall have the rights set out in section 7513(b) of such title.”
 
-Subsec. (b)(1). Pub. L. 103–271, § 3, inserted after first sentence “The Chairman shall be subject to the same ethical and legal limitations and restrictions concerning involvement in political activities as apply to judges of the United States Court of Veterans Appeals.”
+Subsec. (b)(1). Pub. L. 103–271, § 3, inserted after first sentence “The Chairman shall be subject to the same ethical and legal limitations and restrictions concerning involvement in political activities as apply to judges of the United States Court of Veterans Appeals.”
 
-Subsec. (b)(3). Pub. L. 103–446, §§ 201(d)(3), 203, substituted “The Chairman” for “Members (including the Chairman)” and inserted at end “If, upon the expiration of the term of office for which the Chairman was appointed, the position of Chairman would become vacant, the individual serving as Chairman may, with the approval of the Secretary, continue to serve as Chairman until either appointed to another term or a successor is appointed, but not beyond the end of the Congress during which the term of office expired.”
+Subsec. (b)(3). Pub. L. 103–446, §§ 201(d)(3), 203, substituted “The Chairman” for “Members (including the Chairman)” and inserted at end “If, upon the expiration of the term of office for which the Chairman was appointed, the position of Chairman would become vacant, the individual serving as Chairman may, with the approval of the Secretary, continue to serve as Chairman until either appointed to another term or a successor is appointed, but not beyond the end of the Congress during which the term of office expired.”
 
-Subsec. (c)(1). Pub. L. 103–271, § 4(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to paragraph (2) of this subsection, the Chairman may from time to time designate employees of the Department to serve as temporary members of the Board. Any such designation shall be for a period of not to exceed one year, as determined by the Chairman. An individual may not serve as a temporary member of the Board for more than 24 months during any 48-month period.”
+Subsec. (c)(1). Pub. L. 103–271, § 4(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Subject to paragraph (2) of this subsection, the Chairman may from time to time designate employees of the Department to serve as temporary members of the Board. Any such designation shall be for a period of not to exceed one year, as determined by the Chairman. An individual may not serve as a temporary member of the Board for more than 24 months during any 48-month period.”
 
-Subsec. (c)(2), (3). Pub. L. 103–271, § 4(a)(2)–(4), redesignated par. (3) as (2), substituted “the number of acting members of the Board designated under such paragraph (1) during the year for which the report is made.” for “the number of temporary Board members designated under this subsection and the number of acting Board members designated under section 7102(a)(2)(A)(ii) of this title during the year for which the report is made.”, and struck out former par. (2) which read as follows: “Designation under paragraph (1) of this subsection of an individual as a temporary member of the Board may not be made when there are fewer than 65 members of the Board.”
+Subsec. (c)(2), (3). Pub. L. 103–271, § 4(a)(2)–(4), redesignated par. (3) as (2), substituted “the number of acting members of the Board designated under such paragraph (1) during the year for which the report is made.” for “the number of temporary Board members designated under this subsection and the number of acting Board members designated under section 7102(a)(2)(A)(ii) of this title during the year for which the report is made.”, and struck out former par. (2) which read as follows: “Designation under paragraph (1) of this subsection of an individual as a temporary member of the Board may not be made when there are fewer than 65 members of the Board.”
 
-Subsec. (d)(2)(F). Pub. L. 103–271, § 5, added subpar. (F).
+Subsec. (d)(2)(F). Pub. L. 103–271, § 5, added subpar. (F).
 
-Subsec. (d)(3)(B). Pub. L. 103–271, § 4(b)(2), substituted “section 7101(a)” for “section 7103(d)”.
+Subsec. (d)(3)(B). Pub. L. 103–271, § 4(b)(2), substituted “section 7101(a)” for “section 7103(d)”.
 
-Subsec. (e). Pub. L. 103–271, § 4(b)(1), substituted “an acting member” for “a temporary or acting member”.
+Subsec. (e). Pub. L. 103–271, § 4(b)(1), substituted “an acting member” for “a temporary or acting member”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4001 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4001 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–54 amended subsec. (a) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “There is” for “There shall be” and “. The Board is under the administrative” for “under the administrative”.
+Pub. L. 102–54 amended subsec. (a) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “There is” for “There shall be” and “. The Board is under the administrative” for “under the administrative”.
 
-Subsec. (b)(2), (4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b)(2), (4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (c)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (c)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (c)(3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (c)(3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 2(c)(3), substituted “section 529” for “section 214”.
+Pub. L. 102–83, § 2(c)(3), substituted “section 529” for “section 214”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7102(a)(2)(A)(ii)” for “4002(a)(2)(A)(ii)”.
+Pub. L. 102–40, § 402(d)(1), substituted “7102(a)(2)(A)(ii)” for “4002(a)(2)(A)(ii)”.
 
-Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (d)(3)(B). Pub. L. 102–40, § 402(d)(1), substituted “7103(d)” for “4003(d)”.
+Subsec. (d)(3)(B). Pub. L. 102–40, § 402(d)(1), substituted “7103(d)” for “4003(d)”.
 
-1988—Subsec. (a). Pub. L. 100–687, § 202(b), inserted “and” after “Vice Chairman,” substituted “necessary in order to conduct hearings and dispose of appeals properly before the Board in a timely manner. The Board shall have” for “necessary, and”, and inserted provisions which required that Board have sufficient personnel to conduct hearings and consider and dispose of appeals.
+1988—Subsec. (a). Pub. L. 100–687, § 202(b), inserted “and” after “Vice Chairman,” substituted “necessary in order to conduct hearings and dispose of appeals properly before the Board in a timely manner. The Board shall have” for “necessary, and”, and inserted provisions which required that Board have sufficient personnel to conduct hearings and consider and dispose of appeals.
 
-Subsec. (b). Pub. L. 100–687, § 201(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Members of the Board (including the Chairman and Vice Chairman) shall be appointed by the Administrator with the approval of the President.”
+Subsec. (b). Pub. L. 100–687, § 201(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Members of the Board (including the Chairman and Vice Chairman) shall be appointed by the Administrator with the approval of the President.”
 
-Subsec. (d). Pub. L. 100–687, § 208, added subsec. (d).
+Subsec. (d). Pub. L. 100–687, § 208, added subsec. (d).
 
-Subsec. (e). Pub. L. 100–687, § 209, added subsec. (e).
+Subsec. (e). Pub. L. 100–687, § 209, added subsec. (e).
 
-1984—Subsec. (a). Pub. L. 98–223, § 208(a), (c), substituted “65” for “fifty” and struck out “associate” before “members”.
+1984—Subsec. (a). Pub. L. 98–223, § 208(a), (c), substituted “65” for “fifty” and struck out “associate” before “members”.
 
-Subsec. (c). Pub. L. 98–223, § 208(b), added subsec. (c).
+Subsec. (c). Pub. L. 98–223, § 208(b), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -187,7 +187,7 @@ Amendment by section 201(a) of Pub. L. 100–687 effective Feb. 1, 1989, amendme
 
 **One-Time Reporting Requirements**
 
-Pub. L. 116–137, § 2(c)(2), Apr. 10, 2020, 134 Stat. 617, provided that:
+Pub. L. 116–137, § 2(c)(2), Apr. 10, 2020, 134 Stat. 617, provided that:
 
 > “The first report required to be submitted under section 7101(d) of title 38, United States Code, shall include the following information with respect to hearings scheduled under subparagraph (C) of paragraph (2) of subsection (c) of section 7101 [probably should be “7107”] of such title, as added by subsection (a):
 
@@ -205,7 +205,7 @@ Pub. L. 116–137, § 2(c)(2), Apr. 10, 2020, 134 Stat. 617, provided that:
 
 **Board of Veterans’ Appeals**
 
-Pub. L. 100–687, div. A, title II, § 201(c), (d), Nov. 18, 1988, 102 Stat. 4109, 4110, provided that:
+Pub. L. 100–687, div. A, title II, § 201(c), (d), Nov. 18, 1988, 102 Stat. 4109, 4110, provided that:
 
 > **“(c) Transition to New Board.—**
 
@@ -227,7 +227,7 @@ Pub. L. 100–687, div. A, title II, § 201(c), (d), Nov. 18, 1988, 102 Stat. 
 
 > as determined by the Administrator [now Secretary] at the time of the initial appointments.”
 
-## § 7101A. Members of Board: appointment; pay; performance review
+## § 7101A. Members of Board: appointment; pay; performance review
 
 **(a)**
 
@@ -281,35 +281,35 @@ Pub. L. 100–687, div. A, title II, § 201(c), (d), Nov. 18, 1988, 102 Stat. 
 
 **(g)** The Secretary shall prescribe procedures for the administration of this section, including deadlines and time schedules for different actions under this section.
 
-(Added Pub. L. 103–446, title II, § 201(a)(1), Nov. 2, 1994, 108 Stat. 4655; amended Pub. L. 105–368, title X, § 1002, Nov. 11, 1998, 112 Stat. 3363.)
+(Added Pub. L. 103–446, title II, § 201(a)(1), Nov. 2, 1994, 108 Stat. 4655; amended Pub. L. 105–368, title X, § 1002, Nov. 11, 1998, 112 Stat. 3363.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–368, § 1002(a), designated existing provisions as par. (1) and added par. (2).
+1998—Subsec. (a). Pub. L. 105–368, § 1002(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(2). Pub. L. 105–368, § 1002(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon removal from the Board under paragraph (1), a member of the Board (other than the Chairman) who was a career or career-conditional employee in the civil service before commencement of service as a member of the Board shall revert to the civil service grade and series held by the member immediately before the appointment of the member to the Board.”
+Subsec. (d)(2). Pub. L. 105–368, § 1002(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon removal from the Board under paragraph (1), a member of the Board (other than the Chairman) who was a career or career-conditional employee in the civil service before commencement of service as a member of the Board shall revert to the civil service grade and series held by the member immediately before the appointment of the member to the Board.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 103–446, title II, § 201(c), Nov. 2, 1994, 108 Stat. 4657, provided that: “Section 7101A(b) of title 38, United States Code, as added by subsection (a), shall take effect on the first day of the first pay period beginning after December 31, 1994.”
+Pub. L. 103–446, title II, § 201(c), Nov. 2, 1994, 108 Stat. 4657, provided that: “Section 7101A(b) of title 38, United States Code, as added by subsection (a), shall take effect on the first day of the first pay period beginning after December 31, 1994.”
 
 **Save Pay Provision**
 
-Pub. L. 103–446, title II, § 201(b), Nov. 2, 1994, 108 Stat. 4656, provided that: “The rate of basic pay payable to an individual who is a member of the Board of Veterans’ Appeals on the date of the enactment of this Act [Nov. 2, 1994] may not be reduced by reason of the amendments made by this section [enacting this section and amending section 7101 of this title] to a rate below the rate payable to such individual on the day before such date.”
+Pub. L. 103–446, title II, § 201(b), Nov. 2, 1994, 108 Stat. 4656, provided that: “The rate of basic pay payable to an individual who is a member of the Board of Veterans’ Appeals on the date of the enactment of this Act [Nov. 2, 1994] may not be reduced by reason of the amendments made by this section [enacting this section and amending section 7101 of this title] to a rate below the rate payable to such individual on the day before such date.”
 
 **Deadline for Establishment of Performance Evaluation Criteria for Board Members**
 
-Pub. L. 103–446, title II, § 202, Nov. 2, 1994, 108 Stat. 4657, provided that:
+Pub. L. 103–446, title II, § 202, Nov. 2, 1994, 108 Stat. 4657, provided that:
 
 > **“(a) Deadline.—** The job performance standards required to be established by section 7101A(f) of title 38, United States Code, as added by section 201(a), shall be established not later than 90 days after the date of the enactment of this Act [Nov. 2, 1994].
 
 > **“(b) Submission to Congressional Committees.—** Not later than the date on which the standards referred to in subsection (a) take effect, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report describing the standards established by the Chairman of the Board of Veterans’ Appeals.”
 
-## § 7102. Assignment of members of Board
+## § 7102. Assignment of members of Board
 
 **(a)** A proceeding instituted before the Board may be assigned to an individual member of the Board or to a panel of not less than three members of the Board. A member or panel assigned a proceeding shall make a determination thereon, including any motion filed in connection therewith. The member or panel, as the case may be, shall make a report under section 7104(d) of this title on any such determination, which report shall constitute the final disposition of the proceeding by the member or panel.
 
@@ -323,7 +323,7 @@ Pub. L. 103–446, title II, § 202, Nov. 2, 1994, 108 Stat. 4657, provided th
 
 **(3)** In this subsection, the term “military sexual trauma” has the meaning given that term in section 1166(c) of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, § 4002; Pub. L. 98–223, title II, § 208(c), (d), Mar. 2, 1984, 98 Stat. 44; renumbered § 7102 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 103–271, § 6(a), July 1, 1994, 108 Stat. 741; Pub. L. 117–300, § 1(a), Dec. 27, 2022, 136 Stat. 4379.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, § 4002; Pub. L. 98–223, title II, § 208(c), (d), Mar. 2, 1984, 98 Stat. 44; renumbered § 7102 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 103–271, § 6(a), July 1, 1994, 108 Stat. 741; Pub. L. 117–300, § 1(a), Dec. 27, 2022, 136 Stat. 4379.)
 
 **Editorial Notes**
 
@@ -333,35 +333,35 @@ Pub. L. 103–446, title II, § 202, Nov. 2, 1994, 108 Stat. 4657, provided th
 
 1994—Pub. L. 103–271 amended section generally, substituting present provisions for provisions authorizing Chairman to divide Board into sections of three members and to assign proceedings thereto, and provisions relating to assignment where section is composed of fewer than three members, limiting annual period of service, prohibiting more than one member to be a temporary or acting member, and relating to hearing docket and report of determination.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4002 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4002 of this title as this section.
 
 Subsec. (a)(2)(A)(ii). Pub. L. 102–83 substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (a)(3). Pub. L. 102–40, § 402(d)(1), substituted “7101(c)” for “4001(c)”.
+Subsec. (a)(3). Pub. L. 102–40, § 402(d)(1), substituted “7101(c)” for “4001(c)”.
 
-1984—Subsec. (a)(1). Pub. L. 98–223, § 208(d)(1), designated provision authorizing the Chairman from time to time to divide the Board into sections of three members, assign members to the Board thereto, and designated the chief thereof, as par. (1).
+1984—Subsec. (a)(1). Pub. L. 98–223, § 208(d)(1), designated provision authorizing the Chairman from time to time to divide the Board into sections of three members, assign members to the Board thereto, and designated the chief thereof, as par. (1).
 
-Subsec. (a)(2). Pub. L. 98–223, § 208(d)(2), designated provision relating to authority of the Chairman in the case where a section is composed of fewer than three members as a result of absence, vacancy, or inability of a member to serve as subpar. (A), and in subpar. (A) as so designated, inserted provision authorizing the Chairman to designate an employee of the Veterans’ Administration to serve as an acting member of the Board on such section for a period of not to exceed 90 days, and added subpar. (B).
+Subsec. (a)(2). Pub. L. 98–223, § 208(d)(2), designated provision relating to authority of the Chairman in the case where a section is composed of fewer than three members as a result of absence, vacancy, or inability of a member to serve as subpar. (A), and in subpar. (A) as so designated, inserted provision authorizing the Chairman to designate an employee of the Veterans’ Administration to serve as an acting member of the Board on such section for a period of not to exceed 90 days, and added subpar. (B).
 
-Subsec. (a)(3). Pub. L. 98–223, § 208(d)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 98–223, § 208(d)(2), added par. (3).
 
-Subsec. (b). Pub. L. 98–223, § 208(d)(3), designated provision relating to the maintenance of a hearing docket and the holding of formal recorded hearings upon which a final determination will be made as subsec. (b).
+Subsec. (b). Pub. L. 98–223, § 208(d)(3), designated provision relating to the maintenance of a hearing docket and the holding of formal recorded hearings upon which a final determination will be made as subsec. (b).
 
-Pub. L. 98–223, § 208(c), struck out “associate” before “member” in two places.
+Pub. L. 98–223, § 208(c), struck out “associate” before “member” in two places.
 
-Subsec. (c). Pub. L. 98–223, § 208(d)(4), designated provision relating to the section making a determination on any proceeding or motion in connection therewith assigned to the section by the Board and making a report on such determination, which report constitutes its final disposition of the proceeding, as subsec. (c).
+Subsec. (c). Pub. L. 98–223, § 208(d)(4), designated provision relating to the section making a determination on any proceeding or motion in connection therewith assigned to the section by the Board and making a report on such determination, which report constitutes its final disposition of the proceeding, as subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **First Training**
 
-Pub. L. 117–300, § 1(b), Dec. 27, 2022, 136 Stat. 4379, provided that: “The Secretary of Veterans Affairs shall ensure that each member of the Board of Veterans’ Appeals is offered the first annual training under section 7102(c) of title 38, United States Code, as amended by subsection (a), by not later than 180 days after the date of the enactment of this Act [Dec. 27, 2022].”
+Pub. L. 117–300, § 1(b), Dec. 27, 2022, 136 Stat. 4379, provided that: “The Secretary of Veterans Affairs shall ensure that each member of the Board of Veterans’ Appeals is offered the first annual training under section 7102(c) of title 38, United States Code, as amended by subsection (a), by not later than 180 days after the date of the enactment of this Act [Dec. 27, 2022].”
 
 **Applicability of Limitation Under Subsection (c)(2)**
 
-Pub. L. 117–300, § 1(c), Dec. 27, 2022, 136 Stat. 4379, provided that: “The limitation under section 7102(c)(2) of title 38, United States Code, as added by subsection (a), shall apply with respect to the assignment of proceedings on or after the date that is 180 days after the date of the enactment of this Act [Dec. 27, 2022].”
+Pub. L. 117–300, § 1(c), Dec. 27, 2022, 136 Stat. 4379, provided that: “The limitation under section 7102(c)(2) of title 38, United States Code, as added by subsection (a), shall apply with respect to the assignment of proceedings on or after the date that is 180 days after the date of the enactment of this Act [Dec. 27, 2022].”
 
-## § 7103. Reconsideration; correction of obvious errors
+## § 7103. Reconsideration; correction of obvious errors
 
 **(a)** The decision of the Board determining a matter under section 7102 of this title is final unless the Chairman orders reconsideration of the decision in accordance with subsection (b). Such an order may be made on the Chairman’s initiative or upon motion of the claimant.
 
@@ -379,7 +379,7 @@ Pub. L. 117–300, § 1(c), Dec. 27, 2022, 136 Stat. 4379, provided that: “T
 
 **(c)** The Board on its own motion may correct an obvious error in the record, without regard to whether there has been a motion or order for reconsideration.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, § 4003; Pub. L. 100–687, div. A, title II, § 202(a), Nov. 18, 1988, 102 Stat. 4110; renumbered § 7103, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, § 6(a), July 1, 1994, 108 Stat. 741; Pub. L. 115–55, § 2(*o*), Aug. 23, 2017, 131 Stat. 1111.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, § 4003; Pub. L. 100–687, div. A, title II, § 202(a), Nov. 18, 1988, 102 Stat. 4110; renumbered § 7103, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, § 6(a), July 1, 1994, 108 Stat. 741; Pub. L. 115–55, § 2(*o*), Aug. 23, 2017, 131 Stat. 1111.)
 
 **Editorial Notes**
 
@@ -409,7 +409,7 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub. L. 100–687, set out as an Effective Date note under section 7251 of this title.
 
-## § 7104. Jurisdiction of the Board; decisions; notice
+## § 7104. Jurisdiction of the Board; decisions; notice
 
 **(a)** All questions in a matter which under section 511(a) of this title is subject to decision by the Secretary shall be subject to one review on appeal to the Secretary. Final decisions on such appeals shall be made by the Board. Decisions of the Board shall be based on the entire record in the proceeding and upon consideration of all evidence and material of record and applicable provisions of law and regulation.
 
@@ -443,47 +443,47 @@ Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub
 
 **(2)** A claimant (or the claimant’s representative) may revoke such an election at any time, by means prescribed by the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, § 4004; Pub. L. 87–97, § 1, July 20, 1961, 75 Stat. 215; Pub. L. 100–687, div. A, title I, § 101(b), title II, §§ 203(a), 204, 205, Nov. 18, 1988, 102 Stat. 4106, 4110, 4111; renumbered § 7104 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(g)(2), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), (c), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–271, §§ 7(b)(1), 8, July 1, 1994, 108 Stat. 743; Pub. L. 104–275, title V, § 509, Oct. 9, 1996, 110 Stat. 3344; Pub. L. 115–55, § 2(p), (w)(2), Aug. 23, 2017, 131 Stat. 1111, 1114; Pub. L. 117–168, title VIII, § 807(a)(5), Aug. 10, 2022, 136 Stat. 1806.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1241, § 4004; Pub. L. 87–97, § 1, July 20, 1961, 75 Stat. 215; Pub. L. 100–687, div. A, title I, § 101(b), title II, §§ 203(a), 204, 205, Nov. 18, 1988, 102 Stat. 4106, 4110, 4111; renumbered § 7104 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(g)(2), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), (c), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–271, §§ 7(b)(1), 8, July 1, 1994, 108 Stat. 743; Pub. L. 104–275, title V, § 509, Oct. 9, 1996, 110 Stat. 3344; Pub. L. 115–55, § 2(p), (w)(2), Aug. 23, 2017, 131 Stat. 1111, 1114; Pub. L. 117–168, title VIII, § 807(a)(5), Aug. 10, 2022, 136 Stat. 1806.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–168, § 807(a)(5)(A), inserted “; decisions; notice” after “Board” in section catchline.
+2022—Pub. L. 117–168, § 807(a)(5)(A), inserted “; decisions; notice” after “Board” in section catchline.
 
-Subsecs. (e), (f). Pub. L. 117–168, § 807(a)(5)(B), added subsecs. (e) and (f) and struck out former subsec. (e) which related to mailing a copy of a written decision to the claimant or mailing or otherwise sending a copy to an authorized representative of the claimant.
+Subsecs. (e), (f). Pub. L. 117–168, § 807(a)(5)(B), added subsecs. (e) and (f) and struck out former subsec. (e) which related to mailing a copy of a written decision to the claimant or mailing or otherwise sending a copy to an authorized representative of the claimant.
 
-2017—Subsec. (b). Pub. L. 115–55, § 2(p), substituted “readjudicated” for “reopened”.
+2017—Subsec. (b). Pub. L. 115–55, § 2(p), substituted “readjudicated” for “reopened”.
 
-Subsec. (d)(2), (3). Pub. L. 115–55, § 2(w)(2), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (d)(2), (3). Pub. L. 115–55, § 2(w)(2), added par. (2) and redesignated former par. (2) as (3).
 
 1996—Subsec. (e). Pub. L. 104–275 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “After reaching a decision in a case, the Board shall promptly mail a copy of its written decision to the claimant and the claimant’s authorized representative (if any) at the last known address of the claimant and at the last known address of such representative (if any).”
 
-1994—Subsec. (a). Pub. L. 103–271, § 8, substituted “511(a)” for “211(a)”.
+1994—Subsec. (a). Pub. L. 103–271, § 8, substituted “511(a)” for “211(a)”.
 
-Pub. L. 103–271, § 7(b)(1), struck out after second sentence “The Board shall decide any such appeal only after affording the claimant an opportunity for a hearing.”
+Pub. L. 103–271, § 7(b)(1), struck out after second sentence “The Board shall decide any such appeal only after affording the claimant an opportunity for a hearing.”
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4004 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4004 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–54 made a technical correction to Pub. L. 100–687, § 101(b). See 1988 Amendment note below.
+Pub. L. 102–54 made a technical correction to Pub. L. 100–687, § 101(b). See 1988 Amendment note below.
 
-Subsec. (b). Pub. L. 102–40, § 402(d)(1), substituted “5108” for “3008”.
+Subsec. (b). Pub. L. 102–40, § 402(d)(1), substituted “5108” for “3008”.
 
-Subsec. (c). Pub. L. 102–83, § 4(c), substituted “chief legal officer of the Department” for “chief law officer”.
+Subsec. (c). Pub. L. 102–83, § 4(c), substituted “chief legal officer of the Department” for “chief law officer”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1988—Subsec. (a). Pub. L. 100–687, § 101(b), as amended by Pub. L. 102–54, substituted “All questions in a matter which under section 211(a) of this title is subject to decision by the Administrator” for “All questions on claims involving benefits under the laws administered by the Veterans’ Administration”.
+1988—Subsec. (a). Pub. L. 100–687, § 101(b), as amended by Pub. L. 102–54, substituted “All questions in a matter which under section 211(a) of this title is subject to decision by the Administrator” for “All questions on claims involving benefits under the laws administered by the Veterans’ Administration”.
 
-Pub. L. 100–687, § 203(a), inserted at end “The Board shall decide any such appeal only after affording the claimant an opportunity for a hearing. Decisions of the Board shall be based on the entire record in the proceeding and upon consideration of all evidence and material of record and applicable provisions of law and regulation.”
+Pub. L. 100–687, § 203(a), inserted at end “The Board shall decide any such appeal only after affording the claimant an opportunity for a hearing. Decisions of the Board shall be based on the entire record in the proceeding and upon consideration of all evidence and material of record and applicable provisions of law and regulation.”
 
-Subsec. (b). Pub. L. 100–687, § 204, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When a claim is disallowed by the Board, it may not thereafter be reopened and allowed, and no claim based upon the same factual basis shall be considered; however, where subsequent to disallowance of a claim, new and material evidence in the form of official reports from the proper service department is secured, the Board may authorize the reopening of the claim and review of the former decision.”
+Subsec. (b). Pub. L. 100–687, § 204, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When a claim is disallowed by the Board, it may not thereafter be reopened and allowed, and no claim based upon the same factual basis shall be considered; however, where subsequent to disallowance of a claim, new and material evidence in the form of official reports from the proper service department is secured, the Board may authorize the reopening of the claim and review of the former decision.”
 
-Subsecs. (d), (e). Pub. L. 100–687, § 205, added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “The decisions of the Board shall be in writing and shall contain findings of fact and conclusions of law separately stated.”
+Subsecs. (d), (e). Pub. L. 100–687, § 205, added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “The decisions of the Board shall be in writing and shall contain findings of fact and conclusions of law separately stated.”
 
 1961—Subsec. (d). Pub. L. 87–97 added subsec. (d).
 
@@ -495,7 +495,7 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–54, § 14(g)(2), June 13, 1991, 105 Stat. 288, provided that the amendment made by that section is effective Nov. 18, 1988.
+Pub. L. 102–54, § 14(g)(2), June 13, 1991, 105 Stat. 288, provided that the amendment made by that section is effective Nov. 18, 1988.
 
 **Effective Date of 1988 Amendment**
 
@@ -503,13 +503,13 @@ Amendment by sections 101(b) and 204 of Pub. L. 100–687 effective Sept. 1, 198
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–97, § 2, July 20, 1961, 75 Stat. 215, provided that: “The amendment made by this Act [amending this section] shall take effect as of January 1, 1962.”
+Pub. L. 87–97, § 2, July 20, 1961, 75 Stat. 215, provided that: “The amendment made by this Act [amending this section] shall take effect as of January 1, 1962.”
 
 **Rule of Construction**
 
 Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of this title to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under section 5100 of this title.
 
-## § 7105. Filing of appeal
+## § 7105. Filing of appeal
 
 **(a)** Appellate review shall be initiated by the filing of a notice of disagreement in the form prescribed by the Secretary. Each appellant will be accorded hearing and representation rights pursuant to the provisions of this chapter and regulations of the Secretary.
 
@@ -551,7 +551,7 @@ Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of t
 
 **(d)** The Board may dismiss any appeal which fails to identify the specific determination with which the claimant disagrees.
 
-(Added Pub. L. 87–666, § 1, Sept. 19, 1962, 76 Stat. 553, § 4005; amended Pub. L. 99–576, title VII, § 701(85), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title II, §§ 203(b), 206, Nov. 18, 1988, 102 Stat. 4111; renumbered § 7105 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 112–154, title V, § 501(a), Aug. 6, 2012, 126 Stat. 1190; Pub. L. 115–55, § 2(q)(1), Aug. 23, 2017, 131 Stat. 1111; Pub. L. 117–168, title VIII, § 807(a)(6), Aug. 10, 2022, 136 Stat. 1806.)
+(Added Pub. L. 87–666, § 1, Sept. 19, 1962, 76 Stat. 553, § 4005; amended Pub. L. 99–576, title VII, § 701(85), Oct. 28, 1986, 100 Stat. 3298; Pub. L. 100–687, div. A, title II, §§ 203(b), 206, Nov. 18, 1988, 102 Stat. 4111; renumbered § 7105 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 112–154, title V, § 501(a), Aug. 6, 2012, 126 Stat. 1190; Pub. L. 115–55, § 2(q)(1), Aug. 23, 2017, 131 Stat. 1111; Pub. L. 117–168, title VIII, § 807(a)(6), Aug. 10, 2022, 136 Stat. 1806.)
 
 **Editorial Notes**
 
@@ -559,21 +559,21 @@ Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of t
 
 2022—Subsec. (b)(1)(A). Pub. L. 117–168 substituted “issuance” for “mailing”.
 
-2017—Pub. L. 115–55, § 2(q)(1)(F), struck out “notice of disagreement and” before “appeal” in section catchline.
+2017—Pub. L. 115–55, § 2(q)(1)(F), struck out “notice of disagreement and” before “appeal” in section catchline.
 
-Subsec. (a). Pub. L. 115–55, § 2(q)(1)(A), substituted “Appellate review shall be initiated by the filing of a notice of disagreement in the form prescribed by the Secretary.” for “Appellate review will be initiated by a notice of disagreement and completed by a substantive appeal after a statement of the case is furnished as prescribed in this section.”
+Subsec. (a). Pub. L. 115–55, § 2(q)(1)(A), substituted “Appellate review shall be initiated by the filing of a notice of disagreement in the form prescribed by the Secretary.” for “Appellate review will be initiated by a notice of disagreement and completed by a substantive appeal after a statement of the case is furnished as prescribed in this section.”
 
-Subsec. (b). Pub. L. 115–55, § 2(q)(1)(B), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+Subsec. (b). Pub. L. 115–55, § 2(q)(1)(B), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(1) Except in the case of simultaneously contested claims, notice of disagreement shall be filed within one year from the date of mailing of notice of the result of initial review or determination. Such notice, and appeals, must be in writing and be filed with the activity which entered the determination with which disagreement is expressed (hereinafter referred to as the “agency of original jurisdiction”). A notice of disagreement postmarked before the expiration of the one-year period will be accepted as timely filed.
 
 “(2) Notices of disagreement, and appeals, must be in writing and may be filed by the claimant, the claimant’s legal guardian, or such accredited representative, attorney, or authorized agent as may be selected by the claimant or legal guardian. Not more than one recognized organization, attorney, or agent will be recognized at any one time in the prosecution of a claim.”
 
-Subsec. (c). Pub. L. 115–55, § 2(q)(1)(C), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If no notice of disagreement is filed in accordance with this chapter within the prescribed period, the action or determination shall become final and the claim will not thereafter be reopened or allowed, except as may otherwise be provided by regulations not inconsistent with this title.”
+Subsec. (c). Pub. L. 115–55, § 2(q)(1)(C), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If no notice of disagreement is filed in accordance with this chapter within the prescribed period, the action or determination shall become final and the claim will not thereafter be reopened or allowed, except as may otherwise be provided by regulations not inconsistent with this title.”
 
-Subsec. (d). Pub. L. 115–55, § 2(q)(1)(D), added subsec. (d) and struck out former subsec. (d) which related to development and review actions, statement of the case, and dismissal of appeal.
+Subsec. (d). Pub. L. 115–55, § 2(q)(1)(D), added subsec. (d) and struck out former subsec. (d) which related to development and review actions, statement of the case, and dismissal of appeal.
 
-Subsec. (e). Pub. L. 115–55, § 2(q)(1)(E), struck out subsec. (e) which read as follows:
+Subsec. (e). Pub. L. 115–55, § 2(q)(1)(E), struck out subsec. (e) which read as follows:
 
 “(1) If, either at the time or after the agency of original jurisdiction receives a substantive appeal, the claimant or the claimant’s representative, if any, submits evidence to either the agency of original jurisdiction or the Board of Veterans’ Appeals for consideration in connection with the issue or issues with which disagreement has been expressed, such evidence shall be subject to initial review by the Board unless the claimant or the claimant’s representative, as the case may be, requests in writing that the agency of original jurisdiction initially review such evidence.
 
@@ -583,13 +583,13 @@ Subsec. (e). Pub. L. 115–55, § 2(q)(1)(E), struck out subsec. (e) which rea
 
 2001—Subsec. (b)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4005 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4005 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
-Subsec. (d)(2). Pub. L. 102–40, § 402(d)(1), substituted “5701” for “3301”.
+Subsec. (d)(2). Pub. L. 102–40, § 402(d)(1), substituted “5701” for “3301”.
 
-1988—Subsec. (d)(1). Pub. L. 100–687, § 206(a), substituted “shall prepare a statement of the case. A statement of the case shall include the following:” for “will prepare a statement of the case consisting of—”, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
+1988—Subsec. (d)(1). Pub. L. 100–687, § 206(a), substituted “shall prepare a statement of the case. A statement of the case shall include the following:” for “will prepare a statement of the case consisting of—”, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) A summary of the evidence in the case pertinent to the issue or issues with which disagreement has been expressed;
 
@@ -597,13 +597,13 @@ Subsec. (d)(2). Pub. L. 102–40, § 402(d)(1), substituted “5701” for “
 
 “(C) The decision on such issue or issues and a summary of the reasons therefor.”
 
-Subsec. (d)(4). Pub. L. 100–687, § 206(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The appellant will be presumed to be in agreement with any statement of fact contained in the statement of the case to which no exception is taken.”
+Subsec. (d)(4). Pub. L. 100–687, § 206(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The appellant will be presumed to be in agreement with any statement of fact contained in the statement of the case to which no exception is taken.”
 
-Subsec. (d)(5). Pub. L. 100–687, § 203(b), struck out “will base its decision on the entire record and” after “of Veterans’ Appeals”.
+Subsec. (d)(5). Pub. L. 100–687, § 203(b), struck out “will base its decision on the entire record and” after “of Veterans’ Appeals”.
 
-1986—Subsec. (b)(2). Pub. L. 99–576, § 701(85), substituted “the claimant’s” for “his” and “the claimant or legal guardian” for “him”.
+1986—Subsec. (b)(2). Pub. L. 99–576, § 701(85), substituted “the claimant’s” for “his” and “the claimant or legal guardian” for “him”.
 
-Subsec. (d)(1), (3). Pub. L. 99–576, § 701(85)(A), substituted “the claimant’s” for “his”.
+Subsec. (d)(1), (3). Pub. L. 99–576, § 701(85)(A), substituted “the claimant’s” for “his”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -613,7 +613,7 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–154, title V, § 501(b), Aug. 6, 2012, 126 Stat. 1190, provided that: “Subsection (e) of such section [38 U.S.C. 7105(e)], as added by subsection (a), shall take effect on the date that is 180 days after the date of the enactment of this Act [Aug. 6, 2012], and shall apply with respect to claims for which a substantive appeal is filed on or after the date that is 180 days after the date of the enactment of this Act.”
+Pub. L. 112–154, title V, § 501(b), Aug. 6, 2012, 126 Stat. 1190, provided that: “Subsection (e) of such section [38 U.S.C. 7105(e)], as added by subsection (a), shall take effect on the date that is 180 days after the date of the enactment of this Act [Aug. 6, 2012], and shall apply with respect to claims for which a substantive appeal is filed on or after the date that is 180 days after the date of the enactment of this Act.”
 
 **Effective Date of 1988 Amendment**
 
@@ -621,13 +621,13 @@ Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub
 
 **Effective Date**
 
-Pub. L. 87–666, § 3, Sept. 19, 1962, 76 Stat. 554, provided that: “The amendments made by this Act [enacting sections 4005, 4005A, and 4006 [now 7105, 7105A, and 7106] of this title, redesignating former section 4006 as 4007 [now 7107] of this title, and repealing former sections 4005 and 4007 of this title] shall be effective January 1, 1963.”
+Pub. L. 87–666, § 3, Sept. 19, 1962, 76 Stat. 554, provided that: “The amendments made by this Act [enacting sections 4005, 4005A, and 4006 [now 7105, 7105A, and 7106] of this title, redesignating former section 4006 as 4007 [now 7107] of this title, and repealing former sections 4005 and 4007 of this title] shall be effective January 1, 1963.”
 
 **Rule of Construction**
 
 Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of this title to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under section 5100 of this title.
 
-## § 7105A. Simultaneously contested claims
+## § 7105A. Simultaneously contested claims
 
 **(a)** In simultaneously contested claims where one is allowed and one rejected, the time allowed for the filing of a notice of disagreement shall be sixty days from the date notice of the adverse action is issued. In such cases the agency of original jurisdiction shall promptly notify all parties in interest at the last known address of the action taken, expressly inviting attention to the fact that notice of disagreement will not be entertained unless filed within the sixty-day period prescribed by this subsection.
 
@@ -637,7 +637,7 @@ Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of t
 
 **(2)** Such notice shall be forwarded to the last known address of record of the parties concerned, and such action shall constitute sufficient evidence of notice.
 
-(Added Pub. L. 87–666, § 1, Sept. 19, 1962, 76 Stat. 554, § 4005A; renumbered § 7105A and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 115–55, § 2(r), Aug. 23, 2017, 131 Stat. 1112; Pub. L. 117–168, title VIII, § 807(a)(7), Aug. 10, 2022, 136 Stat. 1806.)
+(Added Pub. L. 87–666, § 1, Sept. 19, 1962, 76 Stat. 554, § 4005A; renumbered § 7105A and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 115–55, § 2(r), Aug. 23, 2017, 131 Stat. 1112; Pub. L. 117–168, title VIII, § 807(a)(7), Aug. 10, 2022, 136 Stat. 1806.)
 
 **Editorial Notes**
 
@@ -667,9 +667,9 @@ Section effective Jan. 1, 1963, see section 3 of Pub. L. 87–666, set out as a 
 
 Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of this title to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under section 5100 of this title.
 
-## [§ 7106. Repealed. Pub. L. 115–55, § 2(s)(1), Aug. 23, 2017, 131 Stat. 1112]
+## [§ 7106. Repealed. Pub. L. 115–55, § 2(s)(1), Aug. 23, 2017, 131 Stat. 1112]
 
-Section, added Pub. L. 87–666, § 1, Sept. 19, 1962, 76 Stat. 554, § 4006; renumbered § 7106 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, related to application for administrative appeals.
+Section, added Pub. L. 87–666, § 1, Sept. 19, 1962, 76 Stat. 554, § 4006; renumbered § 7106 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, related to application for administrative appeals.
 
 Provisions similar to those comprising this section were contained in subsec. (c)(2) of former section 4005 of this title, prior to the general amendment of sections 4005 to 4007 by Pub. L. 87–666.
 
@@ -679,7 +679,7 @@ Provisions similar to those comprising this section were contained in subsec. (c
 
 Repeal applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under section 101 of this title, and bracketed note thereunder.
 
-## § 7107. Appeals: dockets; hearings
+## § 7107. Appeals: dockets; hearings
 
 **(a) Dockets.—**
 
@@ -745,33 +745,33 @@ Repeal applicable to all claims for which the Secretary of Veterans Affairs prov
 
 **(e) Policy on Changing Dockets.—** The Secretary shall develop and implement a policy allowing an appellant to move the appellant’s case from one docket to another docket.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, § 4006; renumbered § 4007, Pub. L. 87–666, § 1, Sept. 19, 1962, 76 Stat. 553; renumbered § 7107, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, § 7(a)(1), July 1, 1994, 108 Stat. 742; Pub. L. 103–446, title III, § 303, Nov. 2, 1994, 108 Stat. 4658; Pub. L. 105–368, title X, § 1003, Nov. 11, 1998, 112 Stat. 3363; Pub. L. 114–315, title I, § 102, Dec. 16, 2016, 130 Stat. 1540; Pub. L. 115–55, § 2(t), Aug. 23, 2017, 131 Stat. 1112; Pub. L. 116–137, § 2(a), Apr. 10, 2020, 134 Stat. 616.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1242, § 4006; renumbered § 4007, Pub. L. 87–666, § 1, Sept. 19, 1962, 76 Stat. 553; renumbered § 7107, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 103–271, § 7(a)(1), July 1, 1994, 108 Stat. 742; Pub. L. 103–446, title III, § 303, Nov. 2, 1994, 108 Stat. 4658; Pub. L. 105–368, title X, § 1003, Nov. 11, 1998, 112 Stat. 3363; Pub. L. 114–315, title I, § 102, Dec. 16, 2016, 130 Stat. 1540; Pub. L. 115–55, § 2(t), Aug. 23, 2017, 131 Stat. 1112; Pub. L. 116–137, § 2(a), Apr. 10, 2020, 134 Stat. 616.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (c)(2)(A). Pub. L. 116–137, § 2(a)(1), inserted “or subparagraph (C) of this paragraph” after “subparagraph (B) of such paragraph”.
+2020—Subsec. (c)(2)(A). Pub. L. 116–137, § 2(a)(1), inserted “or subparagraph (C) of this paragraph” after “subparagraph (B) of such paragraph”.
 
-Subsec. (c)(2)(B). Pub. L. 116–137, § 2(a)(2), inserted “or subparagraph (C) of this paragraph” after “subparagraph (A) of such paragraph”.
+Subsec. (c)(2)(B). Pub. L. 116–137, § 2(a)(2), inserted “or subparagraph (C) of this paragraph” after “subparagraph (A) of such paragraph”.
 
-Subsec. (c)(2)(C). Pub. L. 116–137, § 2(a)(3), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 116–137, § 2(a)(3), added subpar. (C).
 
 2017—Pub. L. 115–55 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to order of cases, opportunity for hearing, maintenance of hearing docket and holding of hearings by the Board, location and type of hearings, hearings conducted by electronic or other means, and screening of cases, respectively.
 
-2016—Subsec. (d)(1). Pub. L. 114–315, § 102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An appellant may request that a hearing before the Board be held at its principal location or at a facility of the Department located within the area served by a regional office of the Department.”
+2016—Subsec. (d)(1). Pub. L. 114–315, § 102(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An appellant may request that a hearing before the Board be held at its principal location or at a facility of the Department located within the area served by a regional office of the Department.”
 
-Subsec. (e)(2). Pub. L. 114–315, § 102(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “When such facilities and equipment are available, the Chairman may afford the appellant an opportunity to participate in a hearing before the Board through the use of such facilities and equipment in lieu of a hearing held by personally appearing before a Board member or panel as provided in subsection (d). Any such hearing shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing. If the appellant declines to participate in a hearing through the use of such facilities and equipment, the opportunity of the appellant to a hearing as provided in such subsection (d) shall not be affected.”
+Subsec. (e)(2). Pub. L. 114–315, § 102(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “When such facilities and equipment are available, the Chairman may afford the appellant an opportunity to participate in a hearing before the Board through the use of such facilities and equipment in lieu of a hearing held by personally appearing before a Board member or panel as provided in subsection (d). Any such hearing shall be conducted in the same manner as, and shall be considered the equivalent of, a personal hearing. If the appellant declines to participate in a hearing through the use of such facilities and equipment, the opportunity of the appellant to a hearing as provided in such subsection (d) shall not be affected.”
 
-1998—Subsec. (a)(1). Pub. L. 105–368, § 1003(a)(1), inserted “in paragraphs (2) and (3) and” after “Except as provided”.
+1998—Subsec. (a)(1). Pub. L. 105–368, § 1003(a)(1), inserted “in paragraphs (2) and (3) and” after “Except as provided”.
 
-Subsec. (a)(2). Pub. L. 105–368, § 1003(a)(2), added second and third sentences and struck out former second sentence which read as follows: “Any such motion shall set forth succinctly the grounds upon which it is based and may not be granted unless the case involves interpretation of law of general application affecting other claims or for other sufficient cause shown.”
+Subsec. (a)(2). Pub. L. 105–368, § 1003(a)(2), added second and third sentences and struck out former second sentence which read as follows: “Any such motion shall set forth succinctly the grounds upon which it is based and may not be granted unless the case involves interpretation of law of general application affecting other claims or for other sufficient cause shown.”
 
-Subsec. (a)(3). Pub. L. 105–368, § 1003(a)(3), added par. (3).
+Subsec. (a)(3). Pub. L. 105–368, § 1003(a)(3), added par. (3).
 
-Subsec. (d)(2). Pub. L. 105–368, § 1003(b)(1), substituted “in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.” for “in the order in which requests for hearings within that area are received by the Department.”
+Subsec. (d)(2). Pub. L. 105–368, § 1003(b)(1), substituted “in accordance with the place of the case on the docket under subsection (a) relative to other cases on the docket for which hearings are scheduled to be held within that area.” for “in the order in which requests for hearings within that area are received by the Department.”
 
-Subsec. (d)(3). Pub. L. 105–368, § 1003(b)(2), added par. (3) and struck out former par. (3) which read as follows: “In a case in which the Secretary is aware that the appellant is seriously ill or is under severe financial hardship, a hearing may be scheduled at a time earlier than would be provided for under paragraph (2).”
+Subsec. (d)(3). Pub. L. 105–368, § 1003(b)(2), added par. (3) and struck out former par. (3) which read as follows: “In a case in which the Secretary is aware that the appellant is seriously ill or is under severe financial hardship, a hearing may be scheduled at a time earlier than would be provided for under paragraph (2).”
 
 1994—Pub. L. 103–446 substituted “Except as provided in subsection (f), each case” for “Each case” in subsec. (a)(1) and added subsec. (f).
 
@@ -789,17 +789,17 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 **Deadline for Implementation**
 
-Pub. L. 116–137, § 2(b), Apr. 10, 2020, 134 Stat. 616, provided that: “The Secretary shall implement the amendments made by subsection (a) [amending this section] not later than 180 days after the date of the enactment of this Act [Apr. 10, 2020].”
+Pub. L. 116–137, § 2(b), Apr. 10, 2020, 134 Stat. 616, provided that: “The Secretary shall implement the amendments made by subsection (a) [amending this section] not later than 180 days after the date of the enactment of this Act [Apr. 10, 2020].”
 
 **Collaboration**
 
-Pub. L. 116–137, § 2(d), Apr. 10, 2020, 134 Stat. 617, provided that: “In developing the capacity and procedures to conduct hearings under subparagraph (C) of paragraph (2) of subsection (c) of section 7101 [probably should be “7107”] of title 38, United States Code, as added by subsection (a), the Secretary of Veterans Affairs shall collaborate with, partner with, and give weight to the advice of veterans service organizations and such other stakeholders as the Secretary considers appropriate.”
+Pub. L. 116–137, § 2(d), Apr. 10, 2020, 134 Stat. 617, provided that: “In developing the capacity and procedures to conduct hearings under subparagraph (C) of paragraph (2) of subsection (c) of section 7101 [probably should be “7107”] of title 38, United States Code, as added by subsection (a), the Secretary of Veterans Affairs shall collaborate with, partner with, and give weight to the advice of veterans service organizations and such other stakeholders as the Secretary considers appropriate.”
 
-## § 7108. Rejection of applications
+## § 7108. Rejection of applications
 
 An application for review on appeal shall not be entertained unless it is in conformity with this chapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243, § 4008; renumbered § 7108, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243, § 4008; renumbered § 7108, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
 
 **Editorial Notes**
 
@@ -807,9 +807,9 @@ An application for review on appeal shall not be entertained unless it is in con
 
 1991—Pub. L. 102–40 renumbered section 4008 of this title as this section.
 
-## [§ 7109. Repealed. Pub. L. 115–55, § 2(u)(1), Aug. 23, 2017, 131 Stat. 1113]
+## [§ 7109. Repealed. Pub. L. 115–55, § 2(u)(1), Aug. 23, 2017, 131 Stat. 1113]
 
-Section, added Pub. L. 87–671, § 1, Sept. 19, 1962, 76 Stat. 557, § 4009; amended Pub. L. 100–687, div. A, title I, § 103(b), Nov. 18, 1988, 102 Stat. 4107; renumbered § 7109, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, related to advisory medical opinions from one or more independent medical experts who are not employees of the Department.
+Section, added Pub. L. 87–671, § 1, Sept. 19, 1962, 76 Stat. 557, § 4009; amended Pub. L. 100–687, div. A, title I, § 103(b), Nov. 18, 1988, 102 Stat. 4107; renumbered § 7109, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, related to advisory medical opinions from one or more independent medical experts who are not employees of the Department.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -817,11 +817,11 @@ Section, added Pub. L. 87–671, § 1, Sept. 19, 1962, 76 Stat. 557, § 4009
 
 Repeal applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under section 101 of this title, and bracketed note thereunder.
 
-## [§ 7110. Repealed. Pub. L. 103–271, § 7(b)(2), July 1, 1994, 108 Stat. 743]
+## [§ 7110. Repealed. Pub. L. 103–271, § 7(b)(2), July 1, 1994, 108 Stat. 743]
 
-Section, added Pub. L. 100–687, div. A, title II, § 207(a), Nov. 18, 1988, 102 Stat. 4111, § 4010; renumbered § 7110, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, authorized hearing before traveling sections of the Board.
+Section, added Pub. L. 100–687, div. A, title II, § 207(a), Nov. 18, 1988, 102 Stat. 4111, § 4010; renumbered § 7110, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, authorized hearing before traveling sections of the Board.
 
-## § 7111. Revision of decisions on grounds of clear and unmistakable error
+## § 7111. Revision of decisions on grounds of clear and unmistakable error
 
 **(a)** A decision by the Board is subject to revision on the grounds of clear and unmistakable error. If evidence establishes the error, the prior decision shall be reversed or revised.
 
@@ -835,13 +835,13 @@ Section, added Pub. L. 100–687, div. A, title II, § 207(a), Nov. 18, 1988, 
 
 **(f)** A claim filed with the Secretary that requests reversal or revision of a previous Board decision due to clear and unmistakable error shall be considered to be a request to the Board under this section, and the Secretary shall promptly transmit any such request to the Board for its consideration under this section.
 
-(Added Pub. L. 105–111, § 1(b)(1), Nov. 21, 1997, 111 Stat. 2271; amended Pub. L. 115–55, § 2(v), Aug. 23, 2017, 131 Stat. 1113.)
+(Added Pub. L. 105–111, § 1(b)(1), Nov. 21, 1997, 111 Stat. 2271; amended Pub. L. 115–55, § 2(v), Aug. 23, 2017, 131 Stat. 1113.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (e). Pub. L. 115–55 struck out “, without referral to any adjudicative or hearing official acting on behalf of the Secretary” after “merits”.
+2017—Subsec. (e). Pub. L. 115–55 struck out “, without referral to any adjudicative or hearing official acting on behalf of the Secretary” after “merits”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -853,7 +853,7 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 Section applicable to any determination made before, on, or after Nov. 21, 1997, see section 1(c)(1) of Pub. L. 105–111, set out as a note under section 5109A of this title.
 
-## § 7112. Expedited treatment of certain claims
+## § 7112. Expedited treatment of certain claims
 
 **(a) Remanded Claims.—** The Secretary shall take such actions as may be necessary to provide for the expeditious treatment by the Board of any claim that is remanded to the Secretary by the Court of Appeals for Veterans Claims.
 
@@ -869,7 +869,7 @@ Section applicable to any determination made before, on, or after Nov. 21, 1997,
 
 **(2)** The term “military sexual trauma” has the meaning given that term in section 1166 of this title.
 
-(Added Pub. L. 108–183, title VII, § 707(b)(1), Dec. 16, 2003, 117 Stat. 2673; amended Pub. L. 117–300, § 2(a)(1), (2)(A), Dec. 27, 2022, 136 Stat. 4379, 4380.)
+(Added Pub. L. 108–183, title VII, § 707(b)(1), Dec. 16, 2003, 117 Stat. 2673; amended Pub. L. 117–300, § 2(a)(1), (2)(A), Dec. 27, 2022, 136 Stat. 4379, 4380.)
 
 **Editorial Notes**
 
@@ -877,7 +877,7 @@ Section applicable to any determination made before, on, or after Nov. 21, 1997,
 
 2022—Pub. L. 117–300 substituted “certain” for “remanded” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsecs. (b) and (c).
 
-## § 7113. Evidentiary record before the Board of Veterans’ Appeals
+## § 7113. Evidentiary record before the Board of Veterans’ Appeals
 
 **(a) Cases With No Request for a Hearing or Additional Evidence.—** For cases in which a hearing before the Board of Veterans’ Appeals is not requested in the notice of disagreement and no request was made to submit evidence, the evidentiary record before the Board shall be limited to the evidence of record at the time of the decision of the agency of original jurisdiction on appeal.
 
@@ -901,7 +901,7 @@ Section applicable to any determination made before, on, or after Nov. 21, 1997,
 
 **(B)** Evidence submitted by the appellant and his or her representative, if any, within 90 days following receipt of the notice of disagreement.
 
-(Added Pub. L. 115–55, § 2(w)(1), Aug. 23, 2017, 131 Stat. 1114.)
+(Added Pub. L. 115–55, § 2(w)(1), Aug. 23, 2017, 131 Stat. 1114.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -909,14 +909,14 @@ Section applicable to any determination made before, on, or after Nov. 21, 1997,
 
 Section applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under section 101 of this title, and bracketed note thereunder.
 
-## § 7114. Internship program
+## § 7114. Internship program
 
 The Secretary shall establish a competitive internship program of the Board for individuals enrolled in the first or second year of law schools accredited by the American Bar Association.
 
-(Added Pub. L. 118–196, § 5(a), Dec. 23, 2024, 138 Stat. 2673.)
+(Added Pub. L. 118–196, § 5(a), Dec. 23, 2024, 138 Stat. 2673.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for Establishing Internship Program**
 
-Pub. L. 118–196, § 5(c), Dec. 23, 2024, 138 Stat. 2673, provided that: “The Secretary of Veterans Affairs shall establish the internship program required by section 7114 of such title [meaning title 38, United States Code], as added by subsection (a), not later than one year after the date of the enactment of this Act [Dec. 23, 2024].”
+Pub. L. 118–196, § 5(c), Dec. 23, 2024, 138 Stat. 2673, provided that: “The Secretary of Veterans Affairs shall establish the internship program required by section 7114 of such title [meaning title 38, United States Code], as added by subsection (a), not later than one year after the date of the enactment of this Act [Dec. 23, 2024].”

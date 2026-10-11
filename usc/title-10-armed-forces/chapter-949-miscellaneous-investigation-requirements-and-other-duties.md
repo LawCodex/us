@@ -23,9 +23,9 @@ A prior chapter 949, consisting of sections 9771 to 9783, related to real proper
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(3)(B)(ii), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 875 of this title as this chapter and item 9061 as 9381.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(3)(B)(ii), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 875 of this title as this chapter and item 9061 as 9381.
 
-## § 9381. Fatality reviews
+## § 9381. Fatality reviews
 
 **(a) Review of Fatalities.—** The Secretary of the Air Force shall conduct a multidisciplinary, impartial review (referred to as a “fatality review”) in the case of each fatality known or suspected to have resulted from domestic violence or child abuse against any of the following:
 
@@ -51,29 +51,29 @@ A prior chapter 949, consisting of sections 9771 to 9783, related to real proper
 
 **(c) OSD Guidance.—** The Secretary of Defense shall prescribe guidance, which shall be uniform for the military departments, for the conduct of reviews by the Secretary under subsection (a).
 
-(Added Pub. L. 108–136, div. A, title V, § 576(c)(1), Nov. 24, 2003, 117 Stat. 1488, § 9061; renumbered § 9381, Pub. L. 115–232, div. A, title VIII, § 806(b)(17), Aug. 13, 2018, 132 Stat. 1833; amended Pub. L. 116–283, div. A, title IX, § 923(c)(23), Jan. 1, 2021, 134 Stat. 3813.)
+(Added Pub. L. 108–136, div. A, title V, § 576(c)(1), Nov. 24, 2003, 117 Stat. 1488, § 9061; renumbered § 9381, Pub. L. 115–232, div. A, title VIII, § 806(b)(17), Aug. 13, 2018, 132 Stat. 1833; amended Pub. L. 116–283, div. A, title IX, § 923(c)(23), Jan. 1, 2021, 134 Stat. 3813.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 9381 to 9383 were repealed by Pub. L. 114–328, div. A, title XII, § 1241(i)(2), Dec. 23, 2016, 130 Stat. 2508.
+Prior sections 9381 to 9383 were repealed by Pub. L. 114–328, div. A, title XII, § 1241(i)(2), Dec. 23, 2016, 130 Stat. 2508.
 
-Section 9381, added Pub. L. 103–160, div. A, title XI, § 1178(b), Nov. 30, 1993, 107 Stat. 1769, established the Aviation Leadership Program. See section 348 of this title.
+Section 9381, added Pub. L. 103–160, div. A, title XI, § 1178(b), Nov. 30, 1993, 107 Stat. 1769, established the Aviation Leadership Program. See section 348 of this title.
 
-Section 9382, added Pub. L. 103–160, div. A, title XI, § 1178(b), Nov. 30, 1993, 107 Stat. 1769, related to the Secretary of the Air Force providing to a person receiving training transportation, supplies, equipment, clothing, billeting, food, and health services.
+Section 9382, added Pub. L. 103–160, div. A, title XI, § 1178(b), Nov. 30, 1993, 107 Stat. 1769, related to the Secretary of the Air Force providing to a person receiving training transportation, supplies, equipment, clothing, billeting, food, and health services.
 
-Section 9383, added Pub. L. 103–160, div. A, title XI, § 1178(b), Nov. 30, 1993, 107 Stat. 1769, related to the Secretary of the Air Force paying a living allowance to a person receiving training.
+Section 9383, added Pub. L. 103–160, div. A, title XI, § 1178(b), Nov. 30, 1993, 107 Stat. 1769, related to the Secretary of the Air Force paying a living allowance to a person receiving training.
 
-Other prior sections 9381 to 9383 and prior sections 9384 to 9387 were repealed by Pub. L. 88–647, title III, § 301(26), Oct. 13, 1964, 78 Stat. 1073. See chapter 103 of this title.
+Other prior sections 9381 to 9383 and prior sections 9384 to 9387 were repealed by Pub. L. 88–647, title III, § 301(26), Oct. 13, 1964, 78 Stat. 1073. See chapter 103 of this title.
 
 Section 9381, act Aug. 10, 1956, ch. 1041, 70A Stat. 568, defined “advanced training”.
 
-Section 9382, acts Aug. 10, 1956, ch. 1041, 70A Stat. 568; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(44), 72 Stat. 1567, related to establishment and composition of Air Force Reserve Officers’ Training Corps.
+Section 9382, acts Aug. 10, 1956, ch. 1041, 70A Stat. 568; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(44), 72 Stat. 1567, related to establishment and composition of Air Force Reserve Officers’ Training Corps.
 
 Section 9383, act Aug. 10, 1956, ch. 1041, 70A Stat. 569, related to admission and training of medical, dental, pharmacy and veterinary students.
 
-Section 9384, act Aug. 10, 1956, ch. 1041, 70A Stat. 569; Pub. L. 85–861, § 1(202), Sept. 2, 1958, 72 Stat. 1541, set out courses of training.
+Section 9384, act Aug. 10, 1956, ch. 1041, 70A Stat. 569; Pub. L. 85–861, § 1(202), Sept. 2, 1958, 72 Stat. 1541, set out courses of training.
 
 Section 9385, act Aug. 10, 1956, ch. 1041, 70A Stat. 569, authorized operation and maintenance of training camps.
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 61—INTERJURISDICTIONAL FISHERIES
 
-## § 4101. Congressional statement of purposes
+## § 4101. Congressional statement of purposes
 
 The purposes of this chapter are—
 
@@ -25,7 +25,7 @@ The purposes of this chapter are—
 
 **(3)** to promote and encourage research in preparation for the implementation of the use of ecosystems and interspecies approaches to the conservation and management of interjurisdictional fishery resources throughout their range.
 
-(Pub. L. 99–659, title III, § 302, Nov. 14, 1986, 100 Stat. 3732; Pub. L. 107–372, title III, § 302(b), Dec. 19, 2002, 116 Stat. 3095.)
+(Pub. L. 99–659, title III, § 302, Nov. 14, 1986, 100 Stat. 3732; Pub. L. 107–372, title III, § 302(b), Dec. 19, 2002, 116 Stat. 3095.)
 
 **Editorial Notes**
 
@@ -41,13 +41,13 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Effective Date**
 
-Pub. L. 99–659, title III, § 310, Nov. 14, 1986, 100 Stat. 3736, provided that: “This title [enacting this chapter and repealing chapter 10D (§ 779 et seq.) of this title] takes effect October 1, 1987.”
+Pub. L. 99–659, title III, § 310, Nov. 14, 1986, 100 Stat. 3736, provided that: “This title [enacting this chapter and repealing chapter 10D (§ 779 et seq.) of this title] takes effect October 1, 1987.”
 
 **Short Title**
 
-Pub. L. 99–659, title III, § 301, Nov. 14, 1986, 100 Stat. 3731, provided that: “This title [enacting this chapter and repealing chapter 10D (§ 779 et seq.) of this title] may be cited as the ‘Interjurisdictional Fisheries Act of 1986’.”
+Pub. L. 99–659, title III, § 301, Nov. 14, 1986, 100 Stat. 3731, provided that: “This title [enacting this chapter and repealing chapter 10D (§ 779 et seq.) of this title] may be cited as the ‘Interjurisdictional Fisheries Act of 1986’.”
 
-## § 4102. Definitions
+## § 4102. Definitions
 
 For the purposes of this chapter:
 
@@ -79,7 +79,7 @@ For purposes of applying section 4104(a)(3) of this title during fiscal year 198
 
 **(10)** The term “State agency” means any department, agency, commission, or official of a State authorized under the laws of the State to regulate commercial fisheries or enforce laws relating to commercial fisheries.
 
-(Pub. L. 99–659, title III, § 303, Nov. 14, 1986, 100 Stat. 3732; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 99–659, title III, § 303, Nov. 14, 1986, 100 Stat. 3732; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Editorial Notes**
 
@@ -87,7 +87,7 @@ For purposes of applying section 4104(a)(3) of this title during fiscal year 198
 
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Proclamation Numbered 5030, referred to in par. (3)(A), is set out under section 1453 of this title.
 
@@ -99,19 +99,19 @@ Proclamation Numbered 5030, referred to in par. (3)(A), is set out under section
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date**
 
 Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under section 4101 of this title.
 
-## § 4103. Apportionment
+## § 4103. Apportionment
 
 **(a) Time when apportionments made**
 
-Funds appropriated under section 4107(a) 1
+Funds appropriated under section 4107(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall be apportioned by the Secretary among the States on October 1 of each fiscal year, or as soon thereafter as practicable.
 
@@ -147,15 +147,15 @@ The amount of funds apportioned to each State shall be determined by the Secreta
 
 **(3)** that is returned to the Secretary by the State,
 
-may not be considered to be apportioned to that State and shall be added to such funds as are appropriated pursuant to section 4107(a) <sup>1</sup> of this title for the next fiscal year (and shall be treated as having been appropriated for such next year) for apportionment under subsection (a). Any notification or return of funds referred to in paragraph (2) or (3) by a State is irrevocable.
+may not be considered to be apportioned to that State and shall be added to such funds as are appropriated pursuant to section 4107(a) <sup>1</sup> of this title for the next fiscal year (and shall be treated as having been appropriated for such next year) for apportionment under subsection (a). Any notification or return of funds referred to in paragraph (2) or (3) by a State is irrevocable.
 
-(Pub. L. 99–659, title III, § 304, Nov. 14, 1986, 100 Stat. 3733; Pub. L. 101–627, title V, § 501, Nov. 28, 1990, 104 Stat. 4462.)
+(Pub. L. 99–659, title III, § 304, Nov. 14, 1986, 100 Stat. 3733; Pub. L. 101–627, title V, § 501, Nov. 28, 1990, 104 Stat. 4462.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4107 of this title, referred to in subsecs. (a) and (d), was repealed by Pub. L. 117–328, div. S, title II, § 204(a), Dec. 29, 2022, 136 Stat. 5270.
+Section 4107 of this title, referred to in subsecs. (a) and (d), was repealed by Pub. L. 117–328, div. S, title II, § 204(a), Dec. 29, 2022, 136 Stat. 5270.
 
 **Amendments**
 
@@ -167,15 +167,15 @@ Section 4107 of this title, referred to in subsecs. (a) and (d), was repealed by
 
 Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under section 4101 of this title.
 
-## § 4104. State projects
+## § 4104. State projects
 
 **(a) In general**
 
 **(1)** Any State may, through its State agency or an interstate commission, submit to the Secretary a proposal for a project which includes full plans, specifications, and cost estimates for such project. The total cost of all items included for engineering, planning, inspection, and unforeseen contingencies in connection with any works to be constructed as part of such a proposed project shall not exceed 10 percent of the total cost of such works, and shall be paid by the State as a part of its contribution to the total cost of the works.
 
-**(2)** No part of any funds appropriated under any authorization contained in section 4107 1
+**(2)** No part of any funds appropriated under any authorization contained in section 4107 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title may be obligated with respect to any project until the proposal for such project has been submitted under paragraph (1) and approved by the Secretary. The Secretary, before approving any proposal for a project, must evaluate the proposal as to—
 
@@ -215,13 +215,13 @@ The expenditure of funds under this chapter shall be applied only to projects fo
 
 When the Secretary determines that a project carried out under a proposal approved by the Secretary has been completed, or where the Secretary otherwise deems it appropriate, the Secretary shall cause to be paid to the proper authority of the State, or to the official or depository designated by the interstate commission if the State agency specifies that payment is to be made to the interstate commission, the Federal share of the project. Any payment made to an interstate commission shall be charged against the apportionment of the State concerned.
 
-(Pub. L. 99–659, title III, § 305, Nov. 14, 1986, 100 Stat. 3734.)
+(Pub. L. 99–659, title III, § 305, Nov. 14, 1986, 100 Stat. 3734.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4107 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 117–328, div. S, title II, § 204(a), Dec. 29, 2022, 136 Stat. 5270.
+Section 4107 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 117–328, div. S, title II, § 204(a), Dec. 29, 2022, 136 Stat. 5270.
 
 This chapter, referred to in subsecs. (a)(2)(C), (F), (3), (4)(B) and (b), was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
@@ -231,7 +231,7 @@ This chapter, referred to in subsecs. (a)(2)(C), (F), (3), (4)(B) and (b), was i
 
 Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under section 4101 of this title.
 
-## § 4105. Property
+## § 4105. Property
 
 **(a) Application of Federal and State laws**
 
@@ -245,7 +245,7 @@ Title to all property, real and personal, acquired for the purposes of completin
 
 If a State disposes of any real or personal property acquired under this chapter, the State shall pay into the Treasury of the United States the amount of any proceeds resulting from the property disposed to the extent of and in the same ratio that funds provided under this chapter were used in the acquisition of the property. In no case shall the amount paid into the Treasury of the United States under this section exceed the amount of funds provided by this chapter for the acquisition of the property involved.
 
-(Pub. L. 99–659, title III, § 306, Nov. 14, 1986, 100 Stat. 3735.)
+(Pub. L. 99–659, title III, § 306, Nov. 14, 1986, 100 Stat. 3735.)
 
 **Editorial Notes**
 
@@ -259,7 +259,7 @@ This chapter, referred to in subsec. (c), was in the original “this title”, 
 
 Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under section 4101 of this title.
 
-## § 4106. Reports to Congress
+## § 4106. Reports to Congress
 
 After consultation with the States receiving funds under this chapter and with any interstate commission involved in carrying out a project under this chapter, the Secretary shall submit to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 90 days after the end of the fiscal year 1988, and each second fiscal year occurring after that fiscal year, a report which contains—
 
@@ -271,7 +271,7 @@ After consultation with the States receiving funds under this chapter and with a
 
 **(4)** a statement specifying all funds which have been apportioned pursuant to section 4104(a) of this title and are available for obligation by a State or the Secretary but which have not been obligated.
 
-(Pub. L. 99–659, title III, § 307, Nov. 14, 1986, 100 Stat. 3735.)
+(Pub. L. 99–659, title III, § 307, Nov. 14, 1986, 100 Stat. 3735.)
 
 **Editorial Notes**
 
@@ -289,6 +289,6 @@ Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as 
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 4107. Repealed. Pub. L. 117–328, div. S, title II, § 204(a), Dec. 29, 2022, 136 Stat. 5270
+## § 4107. Repealed. Pub. L. 117–328, div. S, title II, § 204(a), Dec. 29, 2022, 136 Stat. 5270
 
-Section, Pub. L. 99–659, title III, § 308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§ 502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, § 9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, § 811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, § 21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, § 101[(a)] [title II, § 211], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, § 402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, § 302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, § 302(g), Jan. 12, 2007, 120 Stat. 3624; Pub. L. 111–348, title I, § 104, Jan. 4, 2011, 124 Stat. 3671, authorized appropriations, with certain conditions, to the Secretary of Commerce for fiscal years 2007 through 2012.
+Section, Pub. L. 99–659, title III, § 308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§ 502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, § 9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, § 811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, § 21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, § 101[(a)] [title II, § 211], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, § 402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, § 302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, § 302(g), Jan. 12, 2007, 120 Stat. 3624; Pub. L. 111–348, title I, § 104, Jan. 4, 2011, 124 Stat. 3671, authorized appropriations, with certain conditions, to the Secretary of Commerce for fiscal years 2007 through 2012.

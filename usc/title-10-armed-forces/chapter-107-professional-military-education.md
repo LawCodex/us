@@ -23,11 +23,11 @@ A prior chapter 107 was renumbered chapter 106A of this title.
 
 **Amendments**
 
-2017—Pub. L. 115–91, div. A, title X, § 1051(a)(10)(B), Dec. 12, 2017, 131 Stat. 1561, struck out item 2157 “Annual report to Congress”.
+2017—Pub. L. 115–91, div. A, title X, § 1051(a)(10)(B), Dec. 12, 2017, 131 Stat. 1561, struck out item 2157 “Annual report to Congress”.
 
-2006—Pub. L. 109–364, div. A, title X, § 1071(a)(12), (13), Oct. 17, 2006, 120 Stat. 2399, substituted “Joint professional” for “Professional” in item 2152 and “Phase” for “phase” in item 2155.
+2006—Pub. L. 109–364, div. A, title X, § 1071(a)(12), (13), Oct. 17, 2006, 120 Stat. 2399, substituted “Joint professional” for “Professional” in item 2152 and “Phase” for “phase” in item 2155.
 
-## § 2151. Definitions
+## § 2151. Definitions
 
 **(a) Joint Professional Military Education.—** Joint professional military education consists of the rigorous and thorough instruction and examination of officers of the armed forces in an environment designed to promote a theoretical and practical in-depth understanding of joint matters and, specifically, of the subject matter covered. The subject matter to be covered by joint professional military education shall include at least the following:
 
@@ -71,15 +71,15 @@ A prior chapter 107 was renumbered chapter 106A of this title.
 
 **(3)** The term “joint intermediate level school” includes the National Intelligence University.
 
-(Added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1897; amended Pub. L. 112–81, div. A, title V, § 552(a)(2), Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title VIII, § 845(c), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 118–159, div. A, title V, § 554, Dec. 23, 2024, 138 Stat. 1896; Pub. L. 119–60, div. A, title V, § 552(a), Dec. 18, 2025, 139 Stat. 877.)
+(Added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1897; amended Pub. L. 112–81, div. A, title V, § 552(a)(2), Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title VIII, § 845(c), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 118–159, div. A, title V, § 554, Dec. 23, 2024, 138 Stat. 1896; Pub. L. 119–60, div. A, title V, § 552(a), Dec. 18, 2025, 139 Stat. 877.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (b)(1)(E). Pub. L. 119–60, § 552(a)(1), added subpar. (E).
+2025—Subsec. (b)(1)(E). Pub. L. 119–60, § 552(a)(1), added subpar. (E).
 
-Subsec. (b)(2)(E). Pub. L. 119–60, § 552(a)(2), added subpar. (E).
+Subsec. (b)(2)(E). Pub. L. 119–60, § 552(a)(2), added subpar. (E).
 
 2024—Subsec. (b)(3). Pub. L. 118–159 substituted “National Intelligence University” for “National Defense Intelligence College”.
 
@@ -91,7 +91,7 @@ Subsec. (b)(2)(E). Pub. L. 119–60, § 552(a)(2), added subpar. (E).
 
 **Professional Military Education: Report; Definition**
 
-Pub. L. 117–81, div. A, title V, § 559D, Dec. 27, 2021, 135 Stat. 1743, provided that:
+Pub. L. 117–81, div. A, title V, § 559D, Dec. 27, 2021, 135 Stat. 1743, provided that:
 
 > **“(a) Report.—**
 
@@ -127,7 +127,7 @@ Pub. L. 117–81, div. A, title V, § 559D, Dec. 27, 2021, 135 Stat. 1743, pro
 
 National Defense Intelligence College changed to National Intelligence University by Department of Defense Instruction 3305.01 on Feb. 9, 2011.
 
-## § 2152. Joint professional military education: general requirements
+## § 2152. Joint professional military education: general requirements
 
 **(a) In General.—** The Secretary of Defense shall implement a comprehensive framework for the joint professional military education of officers, including officers nominated under section 661 of this title for the joint specialty.
 
@@ -139,19 +139,19 @@ National Defense Intelligence College changed to National Intelligence Universit
 
 **(2)** preparing officers for joint duty assignments.
 
-(Added and amended Pub. L. 108–375, div. A, title V, § 532(a)(2), (b), Oct. 28, 2004, 118 Stat. 1897, 1900.)
+(Added and amended Pub. L. 108–375, div. A, title V, § 532(a)(2), (b), Oct. 28, 2004, 118 Stat. 1897, 1900.)
 
 **Editorial Notes**
 
 **Codification**
 
-Subsecs. (b) and (c) of section 663 of this title, which were transferred to this section by Pub. L. 108–375, § 532(b), were based on Pub. L. 99–433, title IV, § 401(a), Oct. 1, 1986, 100 Stat. 1027.
+Subsecs. (b) and (c) of section 663 of this title, which were transferred to this section by Pub. L. 108–375, § 532(b), were based on Pub. L. 99–433, title IV, § 401(a), Oct. 1, 1986, 100 Stat. 1027.
 
 **Amendments**
 
-2004—Subsecs. (b), (c). Pub. L. 108–375, § 532(b), transferred subsecs. (b) and (c) of section 663 of this title to end of this section. See Codification note above.
+2004—Subsecs. (b), (c). Pub. L. 108–375, § 532(b), transferred subsecs. (b) and (c) of section 663 of this title to end of this section. See Codification note above.
 
-## § 2153. Capstone course: newly selected general and flag officers
+## § 2153. Capstone course: newly selected general and flag officers
 
 **(a) Requirement.—** Each officer selected for promotion to the grade of brigadier general or, in the case of the Navy or the commissioned officer corps of the National Oceanic and Atmospheric Administration, rear admiral (lower half) shall be required, after such selection, to attend a military education course designed specifically to prepare new general and flag officers to work with the other uniformed services.
 
@@ -163,9 +163,9 @@ Subsecs. (b) and (c) of section 663 of this title, which were transferred to thi
 
 **(B)** when necessary for the good of the service;
 
-**(C)** in the case of an officer whose proposed selection for promotion is based primarily upon scientific and technical qualifications for which joint requirements do not exist (as determined under regulations prescribed under section 619(e)(4) 1
+**(C)** in the case of an officer whose proposed selection for promotion is based primarily upon scientific and technical qualifications for which joint requirements do not exist (as determined under regulations prescribed under section 619(e)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title); and
 
@@ -173,21 +173,21 @@ of this title); and
 
 **(2)** The authority of the Secretary of Defense to grant a waiver under paragraph (1) may only be delegated to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. Such a waiver may be granted only on a case-by-case basis in the case of an individual officer.
 
-(Added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1897; amended Pub. L. 116–259, title II, § 205(b)(3), Dec. 23, 2020, 134 Stat. 1167.)
+(Added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1897; amended Pub. L. 116–259, title II, § 205(b)(3), Dec. 23, 2020, 134 Stat. 1167.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 619(e)(4) of this title, referred to in subsec. (b)(1)(C), was repealed by Pub. L. 103–160, div. A, title IX, § 931(b), Nov. 30, 1993, 107 Stat. 1734. See section 619a(f) of this title.
+Section 619(e)(4) of this title, referred to in subsec. (b)(1)(C), was repealed by Pub. L. 103–160, div. A, title IX, § 931(b), Nov. 30, 1993, 107 Stat. 1734. See section 619a(f) of this title.
 
 **Amendments**
 
-2020—Subsec. (a). Pub. L. 116–259, § 205(b)(3)(A), inserted “or the commissioned officer corps of the National Oceanic and Atmospheric Administration” after “in the case of the Navy” and substituted “other uniformed services” for “other armed forces”.
+2020—Subsec. (a). Pub. L. 116–259, § 205(b)(3)(A), inserted “or the commissioned officer corps of the National Oceanic and Atmospheric Administration” after “in the case of the Navy” and substituted “other uniformed services” for “other armed forces”.
 
-Subsec. (b)(1). Pub. L. 116–259, § 205(b)(3)(B), inserted “or the Secretary of Commerce, as applicable,” after “the Secretary of Defense” in introductory provisions.
+Subsec. (b)(1). Pub. L. 116–259, § 205(b)(3)(B), inserted “or the Secretary of Commerce, as applicable,” after “the Secretary of Defense” in introductory provisions.
 
-## § 2154. Joint professional military education: three-phase approach
+## § 2154. Joint professional military education: three-phase approach
 
 **(a) Three-Phase Approach.—** The Secretary of Defense shall implement a three-phase approach to joint professional military education, as follows:
 
@@ -209,7 +209,7 @@ Subsec. (b)(1). Pub. L. 116–259, § 205(b)(3)(B), inserted “or the Secreta
 
 **(2)** In this subsection, the term “distance education” has the meaning given such term in section 103 of the Higher Education Act of 1965 (20 U.S.C. 1003).
 
-(Added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1898; amended Pub. L. 112–81, div. A, title V, § 552(a)(1), Dec. 31, 2011, 125 Stat. 1412; Pub. L. 113–291, div. A, title V, § 506, Dec. 19, 2014, 128 Stat. 3356; Pub. L. 114–92, div. A, title V, § 554, Nov. 25, 2015, 129 Stat. 824; Pub. L. 118–159, div. A, title V, § 555, Dec. 23, 2024, 138 Stat. 1896; Pub. L. 119–60, div. A, title V, § 553, Dec. 18, 2025, 139 Stat. 877.)
+(Added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1898; amended Pub. L. 112–81, div. A, title V, § 552(a)(1), Dec. 31, 2011, 125 Stat. 1412; Pub. L. 113–291, div. A, title V, § 506, Dec. 19, 2014, 128 Stat. 3356; Pub. L. 114–92, div. A, title V, § 554, Nov. 25, 2015, 129 Stat. 824; Pub. L. 118–159, div. A, title V, § 555, Dec. 23, 2024, 138 Stat. 1896; Pub. L. 119–60, div. A, title V, § 553, Dec. 18, 2025, 139 Stat. 877.)
 
 **Editorial Notes**
 
@@ -219,7 +219,7 @@ Subsec. (b)(1). Pub. L. 116–259, § 205(b)(3)(B), inserted “or the Secreta
 
 2024—Subsec. (c). Pub. L. 118–159 added subsec. (c).
 
-2015—Subsec. (a)(2)(A). Pub. L. 114–92 inserted “, or offered through,” after “taught in residence at”.
+2015—Subsec. (a)(2)(A). Pub. L. 114–92 inserted “, or offered through,” after “taught in residence at”.
 
 2014—Subsec. (a)(2). Pub. L. 113–291 substituted “consisting of—” for “consisting of a joint professional military education curriculum taught in residence at—” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
@@ -229,7 +229,7 @@ Subsec. (b)(1). Pub. L. 116–259, § 205(b)(3)(B), inserted “or the Secreta
 
 2011—Subsec. (a)(1). Pub. L. 112–81 inserted “or at a joint intermediate level school” before period at end.
 
-## § 2155. Joint professional military education Phase II program of instruction
+## § 2155. Joint professional military education Phase II program of instruction
 
 **(a) Prerequisite of Completion of Joint Professional Military Education Phase I Program of Instruction.—**
 
@@ -263,30 +263,30 @@ Subsec. (b)(1). Pub. L. 116–259, § 205(b)(3)(B), inserted “or the Secreta
 
 **(2)** of the faculty at the school who are active-duty officers who provide instruction in such courses, the percentage who are officers of the armed force that administers the school may not exceed 60 percent, with the remaining services proportionally represented.
 
-(Added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1898; amended Pub. L. 109–364, div. A, title X, § 1071(a)(13), (14), Oct. 17, 2006, 120 Stat. 2399.)
+(Added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1898; amended Pub. L. 109–364, div. A, title X, § 1071(a)(13), (14), Oct. 17, 2006, 120 Stat. 2399.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Pub. L. 109–364, § 1071(a)(13), substituted “Phase” for “phase” in section catchline.
+2006—Pub. L. 109–364, § 1071(a)(13), substituted “Phase” for “phase” in section catchline.
 
-Subsec. (a). Pub. L. 109–364, § 1071(a)(14), inserted “Phase” after “Education” in heading.
+Subsec. (a). Pub. L. 109–364, § 1071(a)(14), inserted “Phase” after “Education” in heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program on JPME Phase II on Other Than In-Residence Basis**
 
-Pub. L. 112–81, div. A, title V, § 552(b), Dec. 31, 2011, 125 Stat. 1412, authorized the Secretary of Defense to carry out a pilot program to assess the feasibility and advisability of offering a program of instruction under this section on an other than in-residence basis and provided that the authority for the program would expire five years after Dec. 31, 2011.
+Pub. L. 112–81, div. A, title V, § 552(b), Dec. 31, 2011, 125 Stat. 1412, authorized the Secretary of Defense to carry out a pilot program to assess the feasibility and advisability of offering a program of instruction under this section on an other than in-residence basis and provided that the authority for the program would expire five years after Dec. 31, 2011.
 
-## § 2156. Joint Forces Staff College: duration of principal course of instruction
+## § 2156. Joint Forces Staff College: duration of principal course of instruction
 
 **(a) Duration.—** The duration of the principal course of instruction offered at the Joint Forces Staff College may not be less than 10 weeks of resident instruction.
 
 **(b) Definition.—** In this section, the term “principal course of instruction” means any course of instruction offered at the Joint Forces Staff College as Phase II joint professional military education.
 
-(Added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1900.)
+(Added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1900.)
 
-## [§ 2157. Repealed. Pub. L. 115–91, div. A, title X, § 1051(a)(10)(A), Dec. 12, 2017, 131 Stat. 1560]
+## [§ 2157. Repealed. Pub. L. 115–91, div. A, title X, § 1051(a)(10)(A), Dec. 12, 2017, 131 Stat. 1560]
 
-Section, added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1900; amended Pub. L. 109–364, div. A, title X, § 1071(a)(15), Oct. 17, 2006, 120 Stat. 2399, required annual reports to Congress regarding joint professional military education.
+Section, added Pub. L. 108–375, div. A, title V, § 532(a)(2), Oct. 28, 2004, 118 Stat. 1900; amended Pub. L. 109–364, div. A, title X, § 1071(a)(15), Oct. 17, 2006, 120 Stat. 2399, required annual reports to Congress regarding joint professional military education.

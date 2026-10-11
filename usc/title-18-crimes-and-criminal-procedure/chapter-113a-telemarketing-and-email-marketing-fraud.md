@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 113A of part I of this title, consisting of section 2331 et seq. and relating to terrorism, was renumbered chapter 113B of part I of this title by Pub. L. 103–322, title XXV, § 250002(a)(1), Sept. 13, 1994, 108 Stat. 2082.
+A prior chapter 113A of part I of this title, consisting of section 2331 et seq. and relating to terrorism, was renumbered chapter 113B of part I of this title by Pub. L. 103–322, title XXV, § 250002(a)(1), Sept. 13, 1994, 108 Stat. 2082.
 
 **Amendments**
 
-2017—Pub. L. 115–70, title IV, § 402(a)(1), (b)(2), Oct. 18, 2017, 131 Stat. 1213, 1214, inserted “AND EMAIL MARKETING” after “TELEMARKETING” in chapter heading and added item 2328.
+2017—Pub. L. 115–70, title IV, § 402(a)(1), (b)(2), Oct. 18, 2017, 131 Stat. 1213, 1214, inserted “AND EMAIL MARKETING” after “TELEMARKETING” in chapter heading and added item 2328.
 
-## § 2325. Definition
+## § 2325. Definition
 
 In this chapter, the term “telemarketing or email marketing”—
 
@@ -59,23 +59,23 @@ by use of one or more interstate telephone calls, emails, text messages, or elec
 
 if the person making the solicitation does not solicit customers by telephone, email, text message, or electronic instant message, but only receives interstate telephone calls, emails, text messages, or electronic instant messages initiated by customers in response to the written materials, whether in hard copy or digital format, and in response to those interstate telephone calls, emails, text messages, or electronic instant messages does not conduct further solicitation.
 
-(Added Pub. L. 115–70, title IV, § 402(a)(2), Oct. 18, 2017, 131 Stat. 1213.)
+(Added Pub. L. 115–70, title IV, § 402(a)(2), Oct. 18, 2017, 131 Stat. 1213.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2325, added Pub. L. 103–322, title XXV, § 250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 107–56, title X, § 1011(d), Oct. 26, 2001, 115 Stat. 396, related to definition of “telemarketing”, prior to repeal by Pub. L. 115–70, title IV, § 402(a)(2), Oct. 18, 2017, 131 Stat. 1213.
+A prior section 2325, added Pub. L. 103–322, title XXV, § 250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 107–56, title X, § 1011(d), Oct. 26, 2001, 115 Stat. 396, related to definition of “telemarketing”, prior to repeal by Pub. L. 115–70, title IV, § 402(a)(2), Oct. 18, 2017, 131 Stat. 1213.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 103–322, title XXV, § 250001, Sept. 13, 1994, 108 Stat. 2081, provided that: “This Act [probably should be “title”, meaning title XXV (§§ 250001–250008) of Pub. L. 103–322, which enacted this chapter, amended sections 1029, 1341, and 3059 of this title, and enacted provisions set out as notes under this section and section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Senior Citizens Against Marketing Scams Act of 1994’.”
+Pub. L. 103–322, title XXV, § 250001, Sept. 13, 1994, 108 Stat. 2081, provided that: “This Act [probably should be “title”, meaning title XXV (§§ 250001–250008) of Pub. L. 103–322, which enacted this chapter, amended sections 1029, 1341, and 3059 of this title, and enacted provisions set out as notes under this section and section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Senior Citizens Against Marketing Scams Act of 1994’.”
 
 **Information Network**
 
-Pub. L. 103–322, title XXV, § 250008, Sept. 13, 1994, 108 Stat. 2088, as amended by Pub. L. 104–294, title VI, § 604(b)(29), Oct. 11, 1996, 110 Stat. 3508, provided that:
+Pub. L. 103–322, title XXV, § 250008, Sept. 13, 1994, 108 Stat. 2088, as amended by Pub. L. 104–294, title VI, § 604(b)(29), Oct. 11, 1996, 110 Stat. 3508, provided that:
 
 > **“(a) Hotline.—** The Attorney General shall, subject to the availability of appropriations, establish a national toll-free hotline for the purpose of—
 
@@ -85,7 +85,7 @@ Pub. L. 103–322, title XXV, § 250008, Sept. 13, 1994, 108 Stat. 2088, as am
 
 > **“(b) Action on Information Gathered.—** The Attorney General shall work in cooperation with the Federal Trade Commission to ensure that information gathered through the hotline shall be acted on in an appropriate manner.”
 
-## § 2326. Enhanced penalties
+## § 2326. Enhanced penalties
 
 A person who is convicted of an offense under section 1028, 1029, 1341, 1342, 1343, 1344, or 1347 or section 1128B of the Social Security Act (42 U.S.C. 1320a–7b), or a conspiracy to commit such an offense, in connection with the conduct of telemarketing or email marketing—
 
@@ -99,7 +99,7 @@ A person who is convicted of an offense under section 1028, 1029, 1341, 1342, 13
 
 shall be imprisoned for a term of up to 10 years in addition to any term of imprisonment imposed under any of those sections, respectively.
 
-(Added Pub. L. 103–322, title XXV, § 250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 105–184, §§ 3, 4, June 23, 1998, 112 Stat. 520; Pub. L. 115–70, title IV, § 402(a)(3), Oct. 18, 2017, 131 Stat. 1214.)
+(Added Pub. L. 103–322, title XXV, § 250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 105–184, §§ 3, 4, June 23, 1998, 112 Stat. 520; Pub. L. 115–70, title IV, § 402(a)(3), Oct. 18, 2017, 131 Stat. 1214.)
 
 **Editorial Notes**
 
@@ -107,9 +107,9 @@ shall be imprisoned for a term of up to 10 years in addition to any term of impr
 
 2017—Pub. L. 115–70 substituted “1344, or 1347 or section 1128B of the Social Security Act (42 U.S.C. 1320a–7b)” for “or 1344” and inserted “or email marketing” after “telemarketing” in introductory provisions.
 
-1998—Pub. L. 105–184 inserted “, or a conspiracy to commit such an offense,” after “or 1344” in introductory provisions and substituted “shall” for “may” in two places.
+1998—Pub. L. 105–184 inserted “, or a conspiracy to commit such an offense,” after “or 1344” in introductory provisions and substituted “shall” for “may” in two places.
 
-## § 2327. Mandatory restitution
+## § 2327. Mandatory restitution
 
 **(a) In General.—** Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution to all victims of any offense for which an enhanced penalty is provided under section 2326.
 
@@ -133,43 +133,43 @@ shall be imprisoned for a term of up to 10 years in addition to any term of impr
 
 **(c) Victim Defined.—** In this section, the term “victim” has the meaning given that term in section 3663A(a)(2).
 
-(Added Pub. L. 103–322, title XXV, § 250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 104–132, title II, § 205(e), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 104–294, title VI, § 601(n), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 105–184, § 5, June 23, 1998, 112 Stat. 520.)
+(Added Pub. L. 103–322, title XXV, § 250002(a)(2), Sept. 13, 1994, 108 Stat. 2082; amended Pub. L. 104–132, title II, § 205(e), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 104–294, title VI, § 601(n), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 105–184, § 5, June 23, 1998, 112 Stat. 520.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–184, § 5(1), substituted “to all victims of any offense for which an enhanced penalty is provided under section 2326” for “for any offense under this chapter”.
+1998—Subsec. (a). Pub. L. 105–184, § 5(1), substituted “to all victims of any offense for which an enhanced penalty is provided under section 2326” for “for any offense under this chapter”.
 
-Subsec. (c). Pub. L. 105–184, § 5(2), added subsec. (c) and struck out former subsec. (c) which read as follows:
+Subsec. (c). Pub. L. 105–184, § 5(2), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
 “(c) Definition.—For purposes of this section, the term ‘victim’ includes the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim’s estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.”
 
-1996—Subsec. (a). Pub. L. 104–132, § 205(e)(1), inserted “or 3663A” after “3663”.
+1996—Subsec. (a). Pub. L. 104–132, § 205(e)(1), inserted “or 3663A” after “3663”.
 
-Subsec. (b)(1). Pub. L. 104–132, § 205(e)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
+Subsec. (b)(1). Pub. L. 104–132, § 205(e)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
 
 “(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim’s losses as determined by the court, pursuant to paragraph (3); and
 
 “(B) the United States Attorney enforce the restitution order by all available and reasonable means.”
 
-Subsec. (b)(2). Pub. L. 104–132, § 205(e)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution may be enforced by a victim named in the order to receive the restitution as well as by the United States Attorney, in the same manner as a judgment in a civil action.”
+Subsec. (b)(2). Pub. L. 104–132, § 205(e)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution may be enforced by a victim named in the order to receive the restitution as well as by the United States Attorney, in the same manner as a judgment in a civil action.”
 
-Subsec. (b)(4)(C), (D). Pub. L. 104–132, § 205(e)(2)(C), struck out subpars. (C) and (D), which related to court’s consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court’s entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
+Subsec. (b)(4)(C), (D). Pub. L. 104–132, § 205(e)(2)(C), struck out subpars. (C) and (D), which related to court’s consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court’s entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 
-Subsec. (b)(5) to (10). Pub. L. 104–132, § 205(e)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
+Subsec. (b)(5) to (10). Pub. L. 104–132, § 205(e)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
 
-Subsec. (c). Pub. L. 104–294, which directed substitution of “designee” for “delegee” wherever appearing, could not be executed because of amendment by Pub. L. 104–132, § 205(e)(3), (4). See below.
+Subsec. (c). Pub. L. 104–294, which directed substitution of “designee” for “delegee” wherever appearing, could not be executed because of amendment by Pub. L. 104–132, § 205(e)(3), (4). See below.
 
-Pub. L. 104–132, § 205(e)(3), (4), redesignated subsec. (f) as (c) and struck out former subsec. (c) relating to proof of claim.
+Pub. L. 104–132, § 205(e)(3), (4), redesignated subsec. (f) as (c) and struck out former subsec. (c) relating to proof of claim.
 
-Subsecs. (d), (e). Pub. L. 104–132, § 205(e)(3), struck out subsecs. (d) and (e) which read as follows:
+Subsecs. (d), (e). Pub. L. 104–132, § 205(e)(3), struck out subsecs. (d) and (e) which read as follows:
 
 “(d) Modification of Order.—A victim or the offender may petition the court at any time to modify a restitution order as appropriate in view of a change in the economic circumstances of the offender.
 
 “(e) Reference to Magistrate or Special Master.—The court may refer any issue arising in connection with a proposed order of restitution to a magistrate or special master for proposed findings of fact and recommendations as to disposition, subject to a de novo determination of the issue by the court.”
 
-Subsec. (f). Pub. L. 104–132, § 205(e)(4), redesignated subsec. (f) as (c).
+Subsec. (f). Pub. L. 104–132, § 205(e)(4), redesignated subsec. (f) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -177,7 +177,7 @@ Subsec. (f). Pub. L. 104–132, § 205(e)(4), redesignated subsec. (f) as (c).
 
 Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under section 2248 of this title.
 
-## § 2328. Mandatory forfeiture
+## § 2328. Mandatory forfeiture
 
 **(a) In General.—** The court, in imposing sentence on a person who is convicted of any offense for which an enhanced penalty is provided under section 2326, shall order that the defendant forfeit to the United States—
 
@@ -187,7 +187,7 @@ Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible
 
 **(b) Procedures.—** The procedures set forth in section 413 of the Controlled Substances Act (21 U.S.C. 853), other than subsection (d) of that section, and in Rule 32.2 of the Federal Rules of Criminal Procedure, shall apply to all stages of a criminal forfeiture proceeding under this section.
 
-(Added Pub. L. 115–70, title IV, § 402(a)(4), Oct. 18, 2017, 131 Stat. 1214.)
+(Added Pub. L. 115–70, title IV, § 402(a)(4), Oct. 18, 2017, 131 Stat. 1214.)
 
 **Editorial Notes**
 

@@ -19,27 +19,27 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title V, § 515(b), Dec. 22, 2023, 137 Stat. 249, added item 510.
+2023—Pub. L. 118–31, div. A, title V, § 515(b), Dec. 22, 2023, 137 Stat. 249, added item 510.
 
-2004—Pub. L. 108–375, div. A, title V, § 594(b)(2), Oct. 28, 2004, 118 Stat. 1936, substituted “National Guard Youth Challenge” for “National Guard Challenge” in item 509.
+2004—Pub. L. 108–375, div. A, title V, § 594(b)(2), Oct. 28, 2004, 118 Stat. 1936, substituted “National Guard Youth Challenge” for “National Guard Challenge” in item 509.
 
-1997—Pub. L. 105–85, div. A, title X, § 1076(b), Nov. 18, 1997, 111 Stat. 1914, added item 509.
+1997—Pub. L. 105–85, div. A, title X, § 1076(b), Nov. 18, 1997, 111 Stat. 1914, added item 509.
 
-1994—Pub. L. 103–337, div. A, title III, § 385(b), Oct. 5, 1994, 108 Stat. 2742, added item 508.
+1994—Pub. L. 103–337, div. A, title III, § 385(b), Oct. 5, 1994, 108 Stat. 2742, added item 508.
 
-## § 501. Training generally
+## § 501. Training generally
 
 **(a)** The discipline, including training, of the Army National Guard shall conform to that of the Army. The discipline, including training, of the Air National Guard shall conform to that of the Air Force.
 
 **(b)** The training of the National Guard shall be conducted by the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands in conformity with this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 609; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(7), Jan. 6, 2006, 119 Stat. 3442.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 609; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(7), Jan. 6, 2006, 119 Stat. 3442.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 501(a) 501(b) | 32:61 (1st 24 words). 32:61 (less 1st 24 words). | June 3, 1916, ch. 134, § 91, 39 Stat. 206. |
+| 501(a) 501(b) | 32:61 (1st 24 words). 32:61 (less 1st 24 words). | June 3, 1916, ch. 134, § 91, 39 Stat. 206. |
 
 In subsection (a), the words “that of” are substituted for the words “the system which is or may be prescribed for”. The word “Army” is substituted for the words “Regular Army”, since the Army is the category for which the discipline and training is prescribed and the Regular Army is a personnel category for which no discipline and training is prescribed. Similarly, the words “Air Force” are used instead of the words “Regular Air Force”.
 
@@ -55,7 +55,7 @@ In subsection (a), the words “that of” are substituted for the words “the 
 
 **Accreditation of National Guard Marksmanship Training Center**
 
-Pub. L. 119–60, div. A, title V, § 549, Dec. 18, 2025, 139 Stat. 876, provided that:
+Pub. L. 119–60, div. A, title V, § 549, Dec. 18, 2025, 139 Stat. 876, provided that:
 
 > **“(a) Accreditation.—** The Secretary of the Army may accredit the National Guard Marksmanship Training Center (hereinafter, ‘NGMTC’), located at Robinson Maneuver Training Center, Arkansas, as a U.S. Army Training and Doctrine Command institution.
 
@@ -75,7 +75,7 @@ Pub. L. 119–60, div. A, title V, § 549, Dec. 18, 2025, 139 Stat. 876, provi
 
 **Pilot Program on Regional Cybersecurity Training Center for the Army National Guard**
 
-Pub. L. 115–232, div. A, title XVI, § 1651, Aug. 13, 2018, 132 Stat. 2139, as amended by Pub. L. 116–283, div. A, title XVII, § 1743, Jan. 1, 2021, 134 Stat. 4135; Pub. L. 117–81, div. A, title XV, § 1502, Dec. 27, 2021, 135 Stat. 2021, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1651, Aug. 13, 2018, 132 Stat. 2139, as amended by Pub. L. 116–283, div. A, title XVII, § 1743, Jan. 1, 2021, 134 Stat. 4135; Pub. L. 117–81, div. A, title XV, § 1502, Dec. 27, 2021, 135 Stat. 2021, provided that:
 
 > **“(a) Pilot Program.—** The Secretary of the Army may carry out a pilot program under which the Secretary establishes a National Guard training center to provide collaborative interagency education and training for members of the Army National Guard.
 
@@ -125,9 +125,9 @@ Pub. L. 115–232, div. A, title XVI, § 1651, Aug. 13, 2018, 132 Stat. 2139, 
 
 **National Guard Support on Wildfire Response**
 
-Pub. L. 117–81, div. A, title V, § 515, Dec. 27, 2021, 135 Stat. 1683, as amended by Pub. L. 117–263, div. A, title V, § 516, Dec. 23, 2022, 136 Stat. 2566, related to National Guard support on wildfire response, prior to repeal by Pub. L. 118–31, div. A, title V, § 515(c), Dec. 22, 2023, 137 Stat. 249.
+Pub. L. 117–81, div. A, title V, § 515, Dec. 27, 2021, 135 Stat. 1683, as amended by Pub. L. 117–263, div. A, title V, § 516, Dec. 23, 2022, 136 Stat. 2566, related to National Guard support on wildfire response, prior to repeal by Pub. L. 118–31, div. A, title V, § 515(c), Dec. 22, 2023, 137 Stat. 249.
 
-Pub. L. 115–91, div. A, title III, § 351, Dec. 12, 2017, 131 Stat. 1367, as amended by Pub. L. 117–263, div. A, title III, § 385, Dec. 23, 2022, 136 Stat. 2544; Pub. L. 119–60, div. A, title III, § 314, Dec. 18, 2025, 139 Stat. 804, provided that:
+Pub. L. 115–91, div. A, title III, § 351, Dec. 12, 2017, 131 Stat. 1367, as amended by Pub. L. 117–263, div. A, title III, § 385, Dec. 23, 2022, 136 Stat. 2544; Pub. L. 119–60, div. A, title III, § 314, Dec. 18, 2025, 139 Stat. 804, provided that:
 
 > “The Secretary of the Army and the Secretary of the Air Force, in consultation with the Chief of the National Guard Bureau, shall provide support for the training of appropriate personnel of the National Guard on wildfire prevention and response. In carrying out this section, the Secretaries—
 
@@ -137,7 +137,7 @@ Pub. L. 115–91, div. A, title III, § 351, Dec. 12, 2017, 131 Stat. 1367, as
 
 **Demonstration Project To Increase Reserve Component Internet Access and Services in Rural Communities**
 
-Pub. L. 106–398, § 1 [[div. A], title III, § 390], Oct. 30, 2000, 114 Stat. 1654, 1654A–90, provided that:
+Pub. L. 106–398, § 1 [[div. A], title III, § 390], Oct. 30, 2000, 114 Stat. 1654, 1654A–90, provided that:
 
 > **“(a) Authorization and Purpose of Project.—** The Secretary of the Army, acting through the Chief of the National Guard Bureau, may carry out a demonstration project in rural communities that are unserved or underserved by the telecommunications medium known as the Internet to provide or increase Internet access and services to units and members of the National Guard and other reserve components located in these communities.
 
@@ -151,7 +151,7 @@ Pub. L. 106–398, § 1 [[div. A], title III, § 390], Oct. 30, 2000, 114 St
 
 **Pilot Program To Use National Guard Personnel in Medically Underserved Communities**
 
-Pub. L. 102–484, div. A, title III, § 376, Oct. 23, 1992, 106 Stat. 2385, as amended by Pub. L. 103–160, div. A, title III, § 365, Nov. 30, 1993, 107 Stat. 1629; Pub. L. 103–337, div. A, title III, § 384, Oct. 5, 1994, 108 Stat. 2741, provided that:
+Pub. L. 102–484, div. A, title III, § 376, Oct. 23, 1992, 106 Stat. 2385, as amended by Pub. L. 103–160, div. A, title III, § 365, Nov. 30, 1993, 107 Stat. 1629; Pub. L. 103–337, div. A, title III, § 384, Oct. 5, 1994, 108 Stat. 2741, provided that:
 
 > **“(a) Pilot Program.—** The Chief of the National Guard Bureau shall enter into an agreement, approved by the Secretary of Defense, with each of the Governors of one or more States to carry out a pilot program during fiscal years 1993, 1994, and 1995 to provide training and professional development opportunities for members of the National Guard through the provision of health care to residents of medically underserved communities in those States with the use of personnel and equipment of the National Guard.
 
@@ -187,11 +187,11 @@ Pub. L. 102–484, div. A, title III, § 376, Oct. 23, 1992, 106 Stat. 2385, a
 
 **National Guard Civilian Youth Opportunities Pilot Program**
 
-Pub. L. 104–106, div. A, title V, § 573, Feb. 10, 1996, 110 Stat. 355, continued the authority to carry out the pilot program under section 1091 of Pub. L. 102–484 for 18 months beyond Feb. 10, 1996, and limited the number of programs authorized to be carried out.
+Pub. L. 104–106, div. A, title V, § 573, Feb. 10, 1996, 110 Stat. 355, continued the authority to carry out the pilot program under section 1091 of Pub. L. 102–484 for 18 months beyond Feb. 10, 1996, and limited the number of programs authorized to be carried out.
 
-Pub. L. 102–484, div. A, title X, § 1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, § 104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, § 1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, § 391(*o*), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 105–85, div. A, title X, § 1073(d)(2)(B), Nov. 18, 1997, 111 Stat. 1905, authorized a pilot program known as the National Guard Civilian Youth Opportunities Program during fiscal years 1993 through 1995 to provide help to selected secondary school dropouts through military-based training. See section 509 of this title.
+Pub. L. 102–484, div. A, title X, § 1091, Oct. 23, 1992, 106 Stat. 2519, as amended by Pub. L. 103–82, title I, § 104(e)(1)(A), (C), Sept. 21, 1993, 107 Stat. 846; Pub. L. 103–160, div. A, title XI, § 1174, Nov. 30, 1993, 107 Stat. 1767; Pub. L. 103–382, title III, § 391(*o*), Oct. 20, 1994, 108 Stat. 4024; Pub. L. 105–85, div. A, title X, § 1073(d)(2)(B), Nov. 18, 1997, 111 Stat. 1905, authorized a pilot program known as the National Guard Civilian Youth Opportunities Program during fiscal years 1993 through 1995 to provide help to selected secondary school dropouts through military-based training. See section 509 of this title.
 
-## § 502. Required drills and field exercises
+## § 502. Required drills and field exercises
 
 **(a)** Under regulations to be prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, each company, battery, squadron, and detachment of the National Guard, unless excused by the Secretary concerned, shall—
 
@@ -237,16 +237,16 @@ be ordered to perform training or other duty in addition to that prescribed unde
 
 **(3)** Duty without pay shall be considered for all purposes as if it were duty with pay.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Pub. L. 88–621, § 1(1), Oct. 3, 1964, 78 Stat. 999; Pub. L. 90–168, § 4, Dec. 1, 1967, 81 Stat. 526; Pub. L. 92–156, title III, § 303(b), Nov. 17, 1971, 85 Stat. 425; Pub. L. 103–160, div. A, title V, § 524(b), Nov. 30, 1993, 107 Stat. 1657; Pub. L. 109–364, div. A, title V, § 525(c), Oct. 17, 2006, 120 Stat. 2195.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Pub. L. 88–621, § 1(1), Oct. 3, 1964, 78 Stat. 999; Pub. L. 90–168, § 4, Dec. 1, 1967, 81 Stat. 526; Pub. L. 92–156, title III, § 303(b), Nov. 17, 1971, 85 Stat. 425; Pub. L. 103–160, div. A, title V, § 524(b), Nov. 30, 1993, 107 Stat. 1657; Pub. L. 109–364, div. A, title V, § 525(c), Oct. 17, 2006, 120 Stat. 2195.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 502(a)   502(b)   502(c)     502(d) | 32:62 (1st sentence, less proviso). 32:62 (proviso of 1st sentence). 32:62 (last sentence, less 1st, 2d, and 3d provisos). 32:62 (1st proviso of last sentence). | June 3, 1916, ch. 134, § 92; restated June 3, 1924, ch. 244, § 2; restated Oct. 14, 1940, ch. 875, § 2, 54 Stat. 1135; Mar. 25, 1948, ch. 157, § 5(a), 62 Stat. 90. |
+| 502(a) 502(b) 502(c) 502(d) | 32:62 (1st sentence, less proviso). 32:62 (proviso of 1st sentence). 32:62 (last sentence, less 1st, 2d, and 3d provisos). 32:62 (1st proviso of last sentence). | June 3, 1916, ch. 134, § 92; restated June 3, 1924, ch. 244, § 2; restated Oct. 14, 1940, ch. 875, § 2, 54 Stat. 1135; Mar. 25, 1948, ch. 157, § 5(a), 62 Stat. 90. |
 | 502(e) | 32:62 (2d and 3d provisos of last sentence). |  |
 
-In subsection (a), the words “including target practice” and “such company, troop, battery, or detachment shall have been \* \* \* from participation in any part thereof” are omitted as surplusage.
+In subsection (a), the words “including target practice” and “such company, troop, battery, or detachment shall have been \* \* \* from participation in any part thereof” are omitted as surplusage.
 
 In subsections (a) and (b), the word “troop” is omitted as obsolete.
 
@@ -256,7 +256,7 @@ In subsection (c), the word “member” is substituted for the words “officer
 
 In subsection (d), the word “members” is substituted for the words “officers and enlisted men”. The words “for which a member is credited” are substituted for the words “participated in by each officer and enlisted man at each assembly at which he shall be credited as having been present”. The words “for duty at such assembly”, “actual”, and “character of” are omitted as surplusage.
 
-In subsection (e), the word “member” is substituted for the words “officer or enlisted man”. The words “Air Corps \* \* \* assigned to an Air Corps unit thereof, or \* \* \* an officer or enlisted man of the Medical Department of the said National Guard regularly attached to an Air Corps unit of the National Guard by appropriate authority” are omitted, since the revised subsection applies only to members who perform flights under competent orders and who are thereby prevented from attending a regular drill.
+In subsection (e), the word “member” is substituted for the words “officer or enlisted man”. The words “Air Corps \* \* \* assigned to an Air Corps unit thereof, or \* \* \* an officer or enlisted man of the Medical Department of the said National Guard regularly attached to an Air Corps unit of the National Guard by appropriate authority” are omitted, since the revised subsection applies only to members who perform flights under competent orders and who are thereby prevented from attending a regular drill.
 
 **Editorial Notes**
 
@@ -318,7 +318,7 @@ Sec. 6. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 J.R. Biden, Jr.
 
-## § 503. Participation in field exercises
+## § 503. Participation in field exercises
 
 **(a)**
 
@@ -330,13 +330,13 @@ J.R. Biden, Jr.
 
 **(c)** Members of the National Guard participating in an exercise under subsection (a) may, after being mustered, be paid for the period beginning with the date of leaving home and ending with the date of return, as determined in advance. If otherwise correct, such a payment passes to the credit of the disbursing officer.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 104–106, div. A, title V, § 517, Feb. 10, 1996, 110 Stat. 309; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 610; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 104–106, div. A, title V, § 517, Feb. 10, 1996, 110 Stat. 309; Pub. L. 109–163, div. A, title X, § 1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 503(a) 503(b) 503(c) | 32:63 (1st 56 words). 32:63 (less 1st 56 words). 32:158. | June 3, 1916, ch. 134, §§ 94 (less last 43 words after semicolon), 98, 39 Stat. 206, 207. |
+| 503(a) 503(b) 503(c) | 32:63 (1st 56 words). 32:63 (less 1st 56 words). 32:158. | June 3, 1916, ch. 134, §§ 94 (less last 43 words after semicolon), 98, 39 Stat. 206, 207. |
 
 In subsection (a), the words “the whole or any part” and “any part of” are omitted as surplusage. The word “Army” is substituted for the words “Regular Army”, since the Army is the category that participates in the exercises, and the Regular Army is a personnel category only. Similarly, the words “Air Force” are used instead of the words “Regular Air Force”.
 
@@ -354,7 +354,7 @@ In subsection (c), the words “Members of the National Guard participating in a
 
 1988—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-## § 504. National Guard schools and small arms competitions
+## § 504. National Guard schools and small arms competitions
 
 **(a)** Under regulations to be prescribed by the Secretary of the Army or Secretary of the Air Force, as the case may be, members of the National Guard may—
 
@@ -366,17 +366,17 @@ In subsection (c), the words “Members of the National Guard participating in a
 
 **(b)** Activities authorized under subsection (a) for members of the National Guard of a State or territory, Puerto Rico, or the District of Columbia may be held inside or outside its boundaries.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 611; Pub. L. 88–621, § 1(2), Oct. 3, 1964, 78 Stat. 999; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 611; Pub. L. 88–621, § 1(2), Oct. 3, 1964, 78 Stat. 999; Pub. L. 100–456, div. A, title XII, § 1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 504(a) 504(b) | 32:64 (1st sentence). 32:64 (less 1st sentence). | June 3, 1916, ch. 134, § 97 (less last sentence); restated May 28, 1926, ch. 417, § 2 (less last sentence), 44 Stat. 674. |
+| 504(a) 504(b) | 32:64 (1st sentence). 32:64 (less 1st sentence). | June 3, 1916, ch. 134, § 97 (less last sentence); restated May 28, 1926, ch. 417, § 2 (less last sentence), 44 Stat. 674. |
 
 In subsection (a), the word “members” is substituted for the words “officers, warrant officers, and enlisted men”. The words “for the purpose” and “for that purpose” are omitted as surplusage.
 
-In subsection (b), the words “Assemblies under subsection (a)” are substituted for the words “such assemblages”. The words “for members of the National Guard of a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia \* \* \* inside or outside of its boundaries” are substituted for the words “either within or without the State, Territory, or District of Columbia, to which the members of the National Guard designated to attend them shall belong”.
+In subsection (b), the words “Assemblies under subsection (a)” are substituted for the words “such assemblages”. The words “for members of the National Guard of a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia \* \* \* inside or outside of its boundaries” are substituted for the words “either within or without the State, Territory, or District of Columbia, to which the members of the National Guard designated to attend them shall belong”.
 
 **Editorial Notes**
 
@@ -386,7 +386,7 @@ In subsection (b), the words “Assemblies under subsection (a)” are substitut
 
 1964—Pub. L. 88–621 substituted provisions authorizing the Secretaries of the Army and of the Air Force to issue regulations, for provisions authorizing the President to issue regulations, and provided that members of the National Guard may conduct or attend schools conducted by the National Guard.
 
-## § 505. Army and Air Force schools and field exercises
+## § 505. Army and Air Force schools and field exercises
 
 Under such regulations as the President may prescribe and upon the recommendation of the governor of any State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands or of the commanding general of the National Guard of the District of Columbia, the Secretary of the Army may authorize a limited number of members of its Army National Guard to—
 
@@ -400,13 +400,13 @@ Similarly, the Secretary of the Air Force may authorize a limited number of memb
 
 **(2)** be attached to an organization of the Air Force corresponding to the organization of the Air National Guard to which the member belongs, for routine practical instruction at an air base during field training or other outdoor exercise.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 611; Pub. L. 100–456, div. A, title XII, § 1234(b)(4), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(4), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 611; Pub. L. 100–456, div. A, title XII, § 1234(b)(4), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(b)(4), Jan. 6, 2006, 119 Stat. 3441.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 505 | 32:65. | June 3, 1916, ch. 134, § 99 (1st 133 words); restated Sept. 22, 1922, ch. 423, § 5 (1st 129 words); restated May 28, 1926, ch. 417, § 3 (1st 133 words), 44 Stat. 674. |
+| 505 | 32:65. | June 3, 1916, ch. 134, § 99 (1st 133 words); restated Sept. 22, 1922, ch. 423, § 5 (1st 129 words); restated May 28, 1926, ch. 417, § 3 (1st 133 words), 44 Stat. 674. |
 
 The words “branch of the Army corresponding” are substituted for the words “same arm, corps, or department”, to conform to sections 3063 and 3064 of title 10. In the second sentence, the words “organization of the Air Force corresponding” are substituted for the words “same arm, corps, or department”, since the Air Force is not organized by statute into branches, arms, corps, or departments. The word “members” is substituted for the words “officers, warrant officers, and enlisted men”. The words “service school” are substituted for the words “military-service school of the United States”. Reference to the United States Air Force Academy is inserted to reflect its establishment by the Air Force Academy Act (63 Stat. 47).
 
@@ -418,7 +418,7 @@ The words “branch of the Army corresponding” are substituted for the words �
 
 1988—Pub. L. 100–456, which directed the substitution of “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,” in subsec. (a), was executed to the introductory provisions of this section as the probable intent of Congress.
 
-## § 506. Assignment and detail of members of Regular Army or Regular Air Force for instruction of National Guard
+## § 506. Assignment and detail of members of Regular Army or Regular Air Force for instruction of National Guard
 
 **(a)** The President shall assign for instruction of the National Guard such members of the Regular Army or the Regular Air Force as he considers necessary.
 
@@ -430,13 +430,13 @@ The words “branch of the Army corresponding” are substituted for the words �
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 506(a) 506(b) | 32:66. 32:67. | June 3, 1916, ch. 134, § 81 (1st sentence of 2d par., less 1st 7 words); added June 4, 1920, ch. 227, subch. I, § 44 (5th sentence, less 1st 6 words); restated Sept. 22, 1922 ch. 423, § 4 (6th sentence, less 1st 6 words); restated Feb. 28, 1925, ch. 371, § 3 (6th sentence, less 1st 6 words); restated June 15, 1933, ch. 87, § 16 (1st sentence of 2d par., less 1st 7 words), 48 Stat. 160. June 3, 1916, ch. 134, § 96, 39 Stat. 207. |
+| 506(a) 506(b) | 32:66. 32:67. | June 3, 1916, ch. 134, § 81 (1st sentence of 2d par., less 1st 7 words); added June 4, 1920, ch. 227, subch. I, § 44 (5th sentence, less 1st 6 words); restated Sept. 22, 1922 ch. 423, § 4 (6th sentence, less 1st 6 words); restated Feb. 28, 1925, ch. 371, § 3 (6th sentence, less 1st 6 words); restated June 15, 1933, ch. 87, § 16 (1st sentence of 2d par., less 1st 7 words), 48 Stat. 160. June 3, 1916, ch. 134, § 96, 39 Stat. 207. |
 
 In subsection (a), the words “members of the Regular Army and the Regular Air Force” are substituted for the words “officers of the Regular Army” and “enlisted men of the Regular Army”.
 
 In subsection (b), the words “members” is substituted for the words “officers and enlisted men”. The words “one or more”, “information”, and “encampment, maneuver, or other” are omitted as surplusage.
 
-## § 507. Instruction in firing; supply of ammunition
+## § 507. Instruction in firing; supply of ammunition
 
 Ammunition for instruction in firing and for target practice may be furnished, in such amounts as may be prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, to units of the National Guard encamped at a post, camp, or air base. The instruction shall be under the direction of a commissioned officer selected for that purpose by the proper military commander.
 
@@ -446,11 +446,11 @@ Ammunition for instruction in firing and for target practice may be furnished, i
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 507 | 32:71. | Jan. 21, 1903, ch. 196, § 21, 32 Stat. 779. |
+| 507 | 32:71. | Jan. 21, 1903, ch. 196, § 21, 32 Stat. 779. |
 
 The words “post camp, or air base” are substituted for the words “military post or camp”. The words “such amounts” are omitted as surplusage. The words “National Guard” are substituted for the words “troops of the militia”, since the source statute historically applied only to the organized militia (see opinion of the Judge Advocate General of the Army (JAGA 1952/4374, 9 July 1952)). The word “commissioned” is inserted, since 32:71 historically applied only to commissioned officers (see opinion of the Judge Advocate General of the Army (JAGA 1953/4078, 6 May 1953)).
 
-## § 508. Assistance for certain youth and charitable organizations
+## § 508. Assistance for certain youth and charitable organizations
 
 **(a) Authority To Provide Services.—** Members and units of the National Guard may provide the services described in subsection (b) to an eligible organization in conjunction with training required under this chapter in any case in which—
 
@@ -508,7 +508,7 @@ The words “post camp, or air base” are substituted for the words “military
 
 **(14)** Any other youth or charitable organization designated by the Secretary of Defense.
 
-(Added Pub. L. 103–337, div. A, title III, § 385(a), Oct. 5, 1994, 108 Stat. 2741.)
+(Added Pub. L. 103–337, div. A, title III, § 385(a), Oct. 5, 1994, 108 Stat. 2741.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -516,7 +516,7 @@ The words “post camp, or air base” are substituted for the words “military
 
 References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see section 220502(c) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
-## § 509. National Guard Youth Challenge Program of opportunities for civilian youth
+## § 509. National Guard Youth Challenge Program of opportunities for civilian youth
 
 **(a) Program Authority and Purpose.—** The Secretary of Defense may use the National Guard to conduct a civilian youth opportunities program, to be known as the “National Guard Youth Challenge Program”, which shall consist of at least a 22-week residential program and a 12-month post-residential mentoring period. The Program shall seek to improve life skills and employment potential of participants by providing military-based training and supervised work experience, together with the core program components of assisting participants to receive a high school diploma or its equivalent, leadership development, promoting fellowship and community service, developing life coping skills and job skills, and improving physical fitness and health and hygiene.
 
@@ -634,13 +634,13 @@ References to the United States Olympic Committee deemed to refer to the United 
 
 **(7)** The procedures to be used by the Secretary when communicating with States about the Program.
 
-(Added Pub. L. 105–85, div. A, title X, § 1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, § 579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, § 120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, § 1 [[div. A], title V, § 577(a)–(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–140; Pub. L. 107–107, div. A, title V, § 596(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–314, div. A, title X, § 1062(g)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–375, div. A, title V, § 594(a), (b)(1), Oct. 28, 2004, 118 Stat. 1935, 1936; Pub. L. 110–417, [div. A], title V, § 594(a), Oct. 14, 2008, 122 Stat. 4475; Pub. L. 111–84, div. A, title V, § 593(a), Oct. 28, 2009, 123 Stat. 2337; Pub. L. 115–232, div. A, title V, § 519, Aug. 13, 2018, 132 Stat. 1754.)
+(Added Pub. L. 105–85, div. A, title X, § 1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, § 579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, § 120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, § 1 [[div. A], title V, § 577(a)–(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–140; Pub. L. 107–107, div. A, title V, § 596(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–314, div. A, title X, § 1062(g)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–375, div. A, title V, § 594(a), (b)(1), Oct. 28, 2004, 118 Stat. 1935, 1936; Pub. L. 110–417, [div. A], title V, § 594(a), Oct. 14, 2008, 122 Stat. 4475; Pub. L. 111–84, div. A, title V, § 593(a), Oct. 28, 2009, 123 Stat. 2337; Pub. L. 115–232, div. A, title V, § 519, Aug. 13, 2018, 132 Stat. 1754.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National and Community Service Act of 1990, referred to in subsec. (f)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle E of title I of the Act is classified generally to division E (§ 12611 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (f)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle E of title I of the Act is classified generally to division E (§ 12611 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 **Amendments**
 
@@ -658,77 +658,77 @@ The National and Community Service Act of 1990, referred to in subsec. (f)(2), i
 
 “(4) for fiscal year 2001 and each subsequent fiscal year, 60 percent of the costs of operating the State program during that year.”
 
-2004—Pub. L. 108–375, § 594(b)(1), amended section catchline generally, substituting “National Guard Youth” for “National Guard”.
+2004—Pub. L. 108–375, § 594(b)(1), amended section catchline generally, substituting “National Guard Youth” for “National Guard”.
 
-Subsec. (a). Pub. L. 108–375, § 594(a)(1), substituted “National Guard Youth Challenge Program” for “National Guard Challenge Program” the first place it appeared and “Program” for “National Guard Challenge Program” the second place it appeared.
+Subsec. (a). Pub. L. 108–375, § 594(a)(1), substituted “National Guard Youth Challenge Program” for “National Guard Challenge Program” the first place it appeared and “Program” for “National Guard Challenge Program” the second place it appeared.
 
-Subsec. (b)(1). Pub. L. 108–375, § 594(a)(2), substituted “Program” for “National Guard Challenge Program”.
+Subsec. (b)(1). Pub. L. 108–375, § 594(a)(2), substituted “Program” for “National Guard Challenge Program”.
 
-Subsec. (b)(2). Pub. L. 108–375, § 594(a)(2),(3), substituted “Program” for “National Guard Challenge Program” in introductory provisions and for “program” wherever appearing in subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 108–375, § 594(a)(2),(3), substituted “Program” for “National Guard Challenge Program” in introductory provisions and for “program” wherever appearing in subpars. (A) and (B).
 
-Subsec. (b)(3). Pub. L. 108–375, § 594(a)(2),(3), substituted “Program” for “National Guard Challenge Program” before “may be expended” and for “program” before “in excess”.
+Subsec. (b)(3). Pub. L. 108–375, § 594(a)(2),(3), substituted “Program” for “National Guard Challenge Program” before “may be expended” and for “program” before “in excess”.
 
-Subsec. (b)(4). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” before “regardless” in first sentence and for “program” before “or any transfer” and “within” in first sentence and before period at end in second sentence.
+Subsec. (b)(4). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” before “regardless” in first sentence and for “program” before “or any transfer” and “within” in first sentence and before period at end in second sentence.
 
-Subsecs. (c) to (f). Pub. L. 108–375, § 594(a)(2), substituted “Program” for “National Guard Challenge Program” wherever appearing in text.
+Subsecs. (c) to (f). Pub. L. 108–375, § 594(a)(2), substituted “Program” for “National Guard Challenge Program” wherever appearing in text.
 
-Subsec. (g)(1). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” before “is conducted” in first sentence and for “program” before period at end of first and second sentences.
+Subsec. (g)(1). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” before “is conducted” in first sentence and for “program” before period at end of first and second sentences.
 
-Subsec. (g)(2). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” after “Governor participating in the” and after “in carrying out the” and substituted “Program” for “program” after “National Guard is participating in the”.
+Subsec. (g)(2). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” after “Governor participating in the” and after “in carrying out the” and substituted “Program” for “program” after “National Guard is participating in the”.
 
-Subsec. (g)(3). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” after “performing services for the” and for “program” after “purposes of the”.
+Subsec. (g)(3). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” after “performing services for the” and for “program” after “purposes of the”.
 
-Subsecs. (h), (i)(1). Pub. L. 108–375, § 594(a)(2), substituted “Program” for “National Guard Challenge Program” wherever appearing.
+Subsecs. (h), (i)(1). Pub. L. 108–375, § 594(a)(2), substituted “Program” for “National Guard Challenge Program” wherever appearing.
 
-Subsec. (i)(2)(A). Pub. L. 108–375, § 594(a)(3), substituted “Program” for “program”.
+Subsec. (i)(2)(A). Pub. L. 108–375, § 594(a)(3), substituted “Program” for “program”.
 
-Subsec. (i)(2)(C). Pub. L. 108–375, § 594(a)(2), substituted “Program” for “National Guard Challenge Program”.
+Subsec. (i)(2)(C). Pub. L. 108–375, § 594(a)(2), substituted “Program” for “National Guard Challenge Program”.
 
-Subsec. (j). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” after “To carry out the” in first sentence and before period at end of second sentence and substituted “Program” for “program” before “out of other resources” in first sentence.
+Subsec. (j). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” after “To carry out the” in first sentence and before period at end of second sentence and substituted “Program” for “program” before “out of other resources” in first sentence.
 
-Subsec. (k). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” after “effectiveness of the” in first sentence and after “State in which the” in second sentence and substituted “Program” for “program” before “is carried out in the District of Columbia” in second sentence.
+Subsec. (k). Pub. L. 108–375, § 594(a)(2), (3), substituted “Program” for “National Guard Challenge Program” after “effectiveness of the” in first sentence and after “State in which the” in second sentence and substituted “Program” for “program” before “is carried out in the District of Columbia” in second sentence.
 
-Subsec. (*l*)(3). Pub. L. 108–375, § 594(a)(4), added par. (3).
+Subsec. (*l*)(3). Pub. L. 108–375, § 594(a)(4), added par. (3).
 
-Subsec. (m). Pub. L. 108–375, § 594(a)(2), substituted “Program” for “National Guard Challenge Program” in introductory provisions.
+Subsec. (m). Pub. L. 108–375, § 594(a)(2), substituted “Program” for “National Guard Challenge Program” in introductory provisions.
 
-Subsec. (m)(1) to (7). Pub. L. 108–375, § 594(a)(3), substituted “Program” for “program” wherever appearing.
+Subsec. (m)(1) to (7). Pub. L. 108–375, § 594(a)(3), substituted “Program” for “program” wherever appearing.
 
-2002—Subsec. (b). Pub. L. 107–314 amended Pub. L. 106–398, § 577(b)(2). See 2000 Amendment note below.
+2002—Subsec. (b). Pub. L. 107–314 amended Pub. L. 106–398, § 577(b)(2). See 2000 Amendment note below.
 
-2001—Subsec. (b)(2)(A). Pub. L. 107–107, § 596(a)(1), substituted “in fiscal year 2001 or 2002” for “in a fiscal year”.
+2001—Subsec. (b)(2)(A). Pub. L. 107–107, § 596(a)(1), substituted “in fiscal year 2001 or 2002” for “in a fiscal year”.
 
-Subsec. (b)(4). Pub. L. 107–107, § 596(a)(2), added par. (4).
+Subsec. (b)(4). Pub. L. 107–107, § 596(a)(2), added par. (4).
 
-2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title V, § 577(a)], struck out “, acting through the Chief of the National Guard Bureau,” after “The Secretary of Defense”.
+2000—Subsec. (a). Pub. L. 106–398, § 1 [[div. A], title V, § 577(a)], struck out “, acting through the Chief of the National Guard Bureau,” after “The Secretary of Defense”.
 
-Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title V, § 577(b)(1), (3)], inserted “(1)” before “The Secretary of Defense” and added pars. (2) and (3).
+Subsec. (b). Pub. L. 106–398, § 1 [[div. A], title V, § 577(b)(1), (3)], inserted “(1)” before “The Secretary of Defense” and added pars. (2) and (3).
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 577(b)(2)], as amended by Pub. L. 107–314, struck out “, except that Department of Defense expenditures under the program may not exceed $62,500,000 for any fiscal year” before period at end.
+Pub. L. 106–398, § 1 [[div. A], title V, § 577(b)(2)], as amended by Pub. L. 107–314, struck out “, except that Department of Defense expenditures under the program may not exceed $62,500,000 for any fiscal year” before period at end.
 
 Pub. L. 106–246 substituted “Department of Defense” for “Federal”.
 
-Subsec. (m). Pub. L. 106–398, § 1 [[div. A], title V, § 577(c)], added subsec. (m).
+Subsec. (m). Pub. L. 106–398, § 1 [[div. A], title V, § 577(c)], added subsec. (m).
 
-1999—Subsec. (a). Pub. L. 106–65, § 579(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a National Guard civilian youth opportunities program (to be known as the ‘National Guard Challenge Program’) to use the National Guard to provide military-based training, including supervised work experience in community service and conservation projects, to civilian youth who cease to attend secondary school before graduating so as to improve the life skills and employment potential of such youth.”
+1999—Subsec. (a). Pub. L. 106–65, § 579(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a National Guard civilian youth opportunities program (to be known as the ‘National Guard Challenge Program’) to use the National Guard to provide military-based training, including supervised work experience in community service and conservation projects, to civilian youth who cease to attend secondary school before graduating so as to improve the life skills and employment potential of such youth.”
 
-Subsec. (b). Pub. L. 106–65, § 579(b), substituted “$62,500,000” for “$50,000,000”.
+Subsec. (b). Pub. L. 106–65, § 579(b), substituted “$62,500,000” for “$50,000,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title V, § 593(b), Oct. 28, 2009, 123 Stat. 2337, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2009, and shall apply with respect to fiscal years beginning on or after that date.”
+Pub. L. 111–84, div. A, title V, § 593(b), Oct. 28, 2009, 123 Stat. 2337, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2009, and shall apply with respect to fiscal years beginning on or after that date.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title V, § 594(b), Oct. 14, 2008, 122 Stat. 4475, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to fiscal years beginning on or after that date.”
+Pub. L. 110–417, [div. A], title V, § 594(b), Oct. 14, 2008, 122 Stat. 4475, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2008, and shall apply with respect to fiscal years beginning on or after that date.”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title X, § 1062(g), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(g)(1) of Pub. L. 107–314 is effective as of Oct. 30, 2000, and as if included in Pub. L. 106–398 as enacted.
+Pub. L. 107–314, div. A, title X, § 1062(g), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(g)(1) of Pub. L. 107–314 is effective as of Oct. 30, 2000, and as if included in Pub. L. 106–398 as enacted.
 
-## § 510. Authorization for FireGuard Program
+## § 510. Authorization for FireGuard Program
 
 **(a) In General.—** The Secretary of Defense may use members of the National Guard to carry out a program to aggregate, analyze, and assess multi-source remote sensing information for interagency partnerships in the detection and monitoring of wildfires, and to support any emergency response to such wildfires. Such a program shall be known as the “FireGuard Program”.
 
@@ -744,7 +744,7 @@ Pub. L. 107–314, div. A, title X, § 1062(g), Dec. 2, 2002, 116 Stat. 2651, 
 
 **(B)** any corporation, firm, partnership, company, nonprofit, Federal agency or sub-agency, or State or local government, with contractors or employees who possess a requisite security clearance for handling such data.
 
-(Added Pub. L. 118–31, div. A, title V, § 515(a), Dec. 22, 2023, 137 Stat. 248; amended Pub. L. 118–159, div. A, title III, § 352(a), Dec. 23, 2024, 138 Stat. 1857.)
+(Added Pub. L. 118–31, div. A, title V, § 515(a), Dec. 22, 2023, 137 Stat. 248; amended Pub. L. 118–159, div. A, title III, § 352(a), Dec. 23, 2024, 138 Stat. 1857.)
 
 **Editorial Notes**
 

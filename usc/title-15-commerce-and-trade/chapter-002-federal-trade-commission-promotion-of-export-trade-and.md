@@ -17,17 +17,17 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FEDERAL TRADE COMMISSION
 
-### § 41. Federal Trade Commission established; membership; vacancies; seal
+### § 41. Federal Trade Commission established; membership; vacancies; seal
 
 A commission is created and established, to be known as the Federal Trade Commission (hereinafter referred to as the Commission), which shall be composed of five Commissioners, who shall be appointed by the President, by and with the advice and consent of the Senate. Not more than three of the Commissioners shall be members of the same political party. The first Commissioners appointed shall continue in office for terms of three, four, five, six, and seven years, respectively, from September 26, 1914, the term of each to be designated by the President, but their successors shall be appointed for terms of seven years, except that any person chosen to fill a vacancy shall be appointed only for the unexpired term of the Commissioner whom he shall succeed: *Provided, however*, That upon the expiration of his term of office a Commissioner shall continue to serve until his successor shall have been appointed and shall have qualified..1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 The President shall choose a chairman from the Commission’s membership. No Commissioner shall engage in any other business, vocation, or employment. Any Commissioner may be removed by the President for inefficiency, neglect of duty, or malfeasance in office. A vacancy in the Commission shall not impair the right of the remaining Commissioners to exercise all the powers of the Commission.
 
 The Commission shall have an official seal, which shall be judicially noticed.
 
-(Sept. 26, 1914, ch. 311, § 1, 38 Stat. 717; Mar. 21, 1938, ch. 49, § 1, 52 Stat. 111; 1950 Reorg. Plan No. 8, § 3, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265.)
+(Sept. 26, 1914, ch. 311, § 1, 38 Stat. 717; Mar. 21, 1938, ch. 49, § 1, 52 Stat. 111; 1950 Reorg. Plan No. 8, § 3, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265.)
 
 **Editorial Notes**
 
@@ -45,7 +45,7 @@ By section 3 of act Sept. 26, 1914, Bureau of Corporations abolished and all emp
 
 **Clarification of Status of Subsidiaries and Affiliates**
 
-Pub. L. 106–102, title I, § 133(a), (b), Nov. 12, 1999, 113 Stat. 1383, provided that:
+Pub. L. 106–102, title I, § 133(a), (b), Nov. 12, 1999, 113 Stat. 1383, provided that:
 
 > **“(a) Clarification of Federal Trade Commission Jurisdiction.—** Any person that directly or indirectly controls, is controlled directly or indirectly by, or is directly or indirectly under common control with, any bank or savings association (as such terms are defined in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813]) and is not itself a bank or savings association shall not be deemed to be a bank or savings association for purposes of any provisions applied by the Federal Trade Commission under the Federal Trade Commission Act [15 U.S.C. 41 et seq.].
 
@@ -137,7 +137,7 @@ I recommend that the Congress allow the reorganization plan to become effective.
 
 John F. Kennedy.
 
-### § 42. Employees; expenses
+### § 42. Employees; expenses
 
 Each commissioner shall receive a salary, payable in the same manner as the salaries of the judges of the courts of the United States. The commission shall appoint a secretary, who shall receive a salary, and it shall have authority to employ and fix the compensation of such attorneys, special experts, examiners, clerks, and other employees as it may from time to time find necessary for the proper performance of its duties and as may be from time to time appropriated for by Congress.
 
@@ -149,7 +149,7 @@ Until otherwise provided by law, the Commission may rent suitable offices for it
 
 The Government Accountability Office shall receive and examine all accounts of expenditures of the Commission.
 
-(Sept. 26, 1914, ch. 311, § 2, 38 Stat. 718; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Sept. 26, 1914, ch. 311, § 2, 38 Stat. 718; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; 1978 Reorg. Plan No. 2, § 102, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -173,23 +173,23 @@ Provisions that fixed the salary of the secretary of the commission, payable in 
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” substituted in text for “Civil Service Commission” pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted in text for “Civil Service Commission” pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 43. Office and place of meeting
+### § 43. Office and place of meeting
 
 The principal office of the Commission shall be in the city of Washington, but it may meet and exercise all its powers at any other place. The Commission may, by one or more of its members, or by such examiners as it may designate, prosecute any inquiry necessary to its duties in any part of the United States.
 
-(Sept. 26, 1914, ch. 311, § 3, 38 Stat. 719.)
+(Sept. 26, 1914, ch. 311, § 3, 38 Stat. 719.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 44. Definitions
+### § 44. Definitions
 
 The words defined in this section shall have the following meaning when found in this subchapter, to wit:
 
@@ -201,7 +201,7 @@ The words defined in this section shall have the following meaning when found in
 
 “Acts to regulate commerce” means subtitle IV of title 49 and the Communications Act of 1934 [47 U.S.C. 151 et seq.] and all Acts amendatory thereof and supplementary thereto.
 
-“Antitrust Acts” means the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890; also sections 73 to 76, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, approved August 27, 1894; also the Act entitled “An Act to amend sections 73 and 76 of the Act of August 27, 1894, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’ ”, approved February 12, 1913; and also the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914.
+“Antitrust Acts” means the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890; also sections 73 to 76, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, approved August 27, 1894; also the Act entitled “An Act to amend sections 73 and 76 of the Act of August 27, 1894, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’ ”, approved February 12, 1913; and also the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914.
 
 “Banks” means the types of banks and other financial institutions referred to in section 57a(f)(2) of this title.
 
@@ -211,7 +211,7 @@ The words defined in this section shall have the following meaning when found in
 
 (2) any multinational organization, to the extent that it is acting on behalf of an entity described in paragraph (1).
 
-(Sept. 26, 1914, ch. 311, § 4, 38 Stat. 719; Mar. 21, 1938, ch. 49, § 2, 52 Stat. 111; Pub. L. 102–242, title II, § 212(g)(1), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(B), Nov. 2, 2002, 116 Stat. 1921; Pub. L. 109–455, §§ 2, 13, Dec. 22, 2006, 120 Stat. 3372, 3382; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
+(Sept. 26, 1914, ch. 311, § 4, 38 Stat. 719; Mar. 21, 1938, ch. 49, § 2, 52 Stat. 111; Pub. L. 102–242, title II, § 212(g)(1), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 107–273, div. C, title IV, § 14102(c)(2)(B), Nov. 2, 2002, 116 Stat. 1921; Pub. L. 109–455, §§ 2, 13, Dec. 22, 2006, 120 Stat. 3372, 3382; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
 
 **Amendment of Section**
 
@@ -221,7 +221,7 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 
 **References in Text**
 
-The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July 2, 1890, referred to in the text, is known as the Sherman Act, and is classified to sections 1 to 7 of this title.
 
@@ -233,13 +233,13 @@ The Act entitled “An Act to supplement existing laws against unlawful restrain
 
 **Codification**
 
-“Subtitle IV of title 49” substituted in text for “the Act entitled ‘An Act to regulate commerce’, approved February 14, 1887, and all Acts amendatory thereof and supplementary thereto” on authority of Pub. L. 95–473, § 3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+“Subtitle IV of title 49” substituted in text for “the Act entitled ‘An Act to regulate commerce’, approved February 14, 1887, and all Acts amendatory thereof and supplementary thereto” on authority of Pub. L. 95–473, § 3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
 **Amendments**
 
-2012—Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment note below.
+2012—Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment note below.
 
-2006—Pub. L. 109–455, § 2, which added par. defining “Foreign law enforcement agency”, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
+2006—Pub. L. 109–455, § 2, which added par. defining “Foreign law enforcement agency”, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
 
 2002—Pub. L. 107–273 substituted “73 to 76” for “73 to 77” in par. defining “Antitrust Acts”.
 
@@ -251,9 +251,9 @@ The Act entitled “An Act to supplement existing laws against unlawful restrain
 
 **Termination Date of 2006 Amendment**
 
-Pub. L. 109–455, § 13, Dec. 22, 2006, 120 Stat. 3382, as amended by Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484; Pub. L. 116–173, § 1, Oct. 20, 2020, 134 Stat. 837, provided that: “Effective September 30, 2027, this Act [enacting sections 57b–2a, 57b–2b, 57c–1, and 57c–2 of this title, amending this section, sections 45, 46, 56, 57b–2, and 58 of this title, and section 3412 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section and section 58 of this title], and the amendments made by this Act, are repealed, and any provision of law amended by this Act shall be amended to read as if this Act had not been enacted into law.”
+Pub. L. 109–455, § 13, Dec. 22, 2006, 120 Stat. 3382, as amended by Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484; Pub. L. 116–173, § 1, Oct. 20, 2020, 134 Stat. 837, provided that: “Effective September 30, 2027, this Act [enacting sections 57b–2a, 57b–2b, 57c–1, and 57c–2 of this title, amending this section, sections 45, 46, 56, 57b–2, and 58 of this title, and section 3412 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section and section 58 of this title], and the amendments made by this Act, are repealed, and any provision of law amended by this Act shall be amended to read as if this Act had not been enacted into law.”
 
-[Pub. L. 116–173, § 1, which delayed the repeal of Pub. L. 109–455, and reversion of any amended text, by substituting “September 30, 2027” for “September 30, 2020” in section 13 of Pub. L. 109–455, set out above, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 116–173 was enacted on Oct. 20, 2020.]
+[Pub. L. 116–173, § 1, which delayed the repeal of Pub. L. 109–455, and reversion of any amended text, by substituting “September 30, 2027” for “September 30, 2020” in section 13 of Pub. L. 109–455, set out above, was given effect to reflect the probable intent of Congress, notwithstanding that Pub. L. 116–173 was enacted on Oct. 20, 2020.]
 
 **Effective Date of 2002 Amendment**
 
@@ -261,11 +261,11 @@ Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with 
 
 **Preservation of Existing Authority**
 
-Pub. L. 109–455, § 12, Dec. 22, 2006, 120 Stat. 3382, provided that: “The authority provided by this Act [see Termination Date of 2006 Amendment note above], and by the Federal Trade Commission Act (15 U.S.C. 41 et seq.) and the Right to Financial Privacy Act [of 1978] (12 U.S.C. 3401 et seq.), as such Acts are amended by this Act, is in addition to, and not in lieu of, any other authority vested in the Federal Trade Commission or any other officer of the United States.”
+Pub. L. 109–455, § 12, Dec. 22, 2006, 120 Stat. 3382, provided that: “The authority provided by this Act [see Termination Date of 2006 Amendment note above], and by the Federal Trade Commission Act (15 U.S.C. 41 et seq.) and the Right to Financial Privacy Act [of 1978] (12 U.S.C. 3401 et seq.), as such Acts are amended by this Act, is in addition to, and not in lieu of, any other authority vested in the Federal Trade Commission or any other officer of the United States.”
 
 [Section 12 of Pub. L. 109–455, set out above, repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, as amended, set out as a Termination Date of 2006 Amendment note above.]
 
-### § 45. Unfair methods of competition unlawful; prevention by Commission
+### § 45. Unfair methods of competition unlawful; prevention by Commission
 
 **(a) Declaration of unlawfulness; power to prohibit unfair practices; inapplicability to foreign trade**
 
@@ -297,9 +297,9 @@ If this subsection applies to such methods of competition only because of the op
 
 **(b) Proceeding by Commission; modifying and setting aside orders**
 
-Whenever the Commission shall have reason to believe that any such person, partnership, or corporation has been or is using any unfair method of competition or unfair or deceptive act or practice in or affecting commerce, and if it shall appear to the Commission that a proceeding by it in respect thereof would be to the interest of the public, it shall issue and serve upon such person, partnership, or corporation a complaint stating its charges in that respect and containing a notice of a hearing upon a day and at a place therein fixed at least thirty days after the service of said complaint. The person, partnership, or corporation so complained of shall have the right to appear at the place and time so fixed and show cause why an order should not be entered by the Commission requiring such person, partnership, or corporation to cease and desist from the violation of the law so charged in said complaint. Any person, partnership, or corporation may make application, and upon good cause shown may be allowed by the Commission to intervene and appear in said proceeding by counsel or in person. The testimony in any such proceeding shall be reduced to writing and filed in the office of the Commission. If upon such hearing the Commission shall be of the opinion that the method of competition or the act or practice in question is prohibited by this subchapter, it shall make a report in writing in which it shall state its findings as to the facts and shall issue and cause to be served on such person, partnership, or corporation an order requiring such person, partnership, or corporation to cease and desist from using such method of competition or such act or practice. Until the expiration of the time allowed for filing a petition for review, if no such petition has been duly filed within such time, or, if a petition for review has been filed within such time then until the record in the proceeding has been filed in a court of appeals of the United States, as hereinafter provided, the Commission may at any time, upon such notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, any report or any order made or issued by it under this section. After the expiration of the time allowed for filing a petition for review, if no such petition has been duly filed within such time, the Commission may at any time, after notice and opportunity for hearing, reopen and alter, modify, or set aside, in whole or in part any report or order made or issued by it under this section, whenever in the opinion of the Commission conditions of fact or of law have so changed as to require such action or if the public interest shall so require, except that (1) the said person, partnership, or corporation may, within sixty days after service upon him or it of said report or order entered after such a reopening, obtain a review thereof in the appropriate court of appeals of the United States, in the manner provided in subsection (c) of this section; and (2) in the case of an order, the Commission shall reopen any such order to consider whether such order (including any affirmative relief provision contained in such order) should be altered, modified, or set aside, in whole or in part, if the person, partnership, or corporation involved files a request with the Commission which makes a satisfactory showing that changed conditions of law or fact require such order to be altered, modified, or set aside, in whole or in part. The Commission shall determine whether to alter, modify, or set aside any order of the Commission in response to a request made by a person, partnership, or corporation under paragraph 1
+Whenever the Commission shall have reason to believe that any such person, partnership, or corporation has been or is using any unfair method of competition or unfair or deceptive act or practice in or affecting commerce, and if it shall appear to the Commission that a proceeding by it in respect thereof would be to the interest of the public, it shall issue and serve upon such person, partnership, or corporation a complaint stating its charges in that respect and containing a notice of a hearing upon a day and at a place therein fixed at least thirty days after the service of said complaint. The person, partnership, or corporation so complained of shall have the right to appear at the place and time so fixed and show cause why an order should not be entered by the Commission requiring such person, partnership, or corporation to cease and desist from the violation of the law so charged in said complaint. Any person, partnership, or corporation may make application, and upon good cause shown may be allowed by the Commission to intervene and appear in said proceeding by counsel or in person. The testimony in any such proceeding shall be reduced to writing and filed in the office of the Commission. If upon such hearing the Commission shall be of the opinion that the method of competition or the act or practice in question is prohibited by this subchapter, it shall make a report in writing in which it shall state its findings as to the facts and shall issue and cause to be served on such person, partnership, or corporation an order requiring such person, partnership, or corporation to cease and desist from using such method of competition or such act or practice. Until the expiration of the time allowed for filing a petition for review, if no such petition has been duly filed within such time, or, if a petition for review has been filed within such time then until the record in the proceeding has been filed in a court of appeals of the United States, as hereinafter provided, the Commission may at any time, upon such notice and in such manner as it shall deem proper, modify or set aside, in whole or in part, any report or any order made or issued by it under this section. After the expiration of the time allowed for filing a petition for review, if no such petition has been duly filed within such time, the Commission may at any time, after notice and opportunity for hearing, reopen and alter, modify, or set aside, in whole or in part any report or order made or issued by it under this section, whenever in the opinion of the Commission conditions of fact or of law have so changed as to require such action or if the public interest shall so require, except that (1) the said person, partnership, or corporation may, within sixty days after service upon him or it of said report or order entered after such a reopening, obtain a review thereof in the appropriate court of appeals of the United States, in the manner provided in subsection (c) of this section; and (2) in the case of an order, the Commission shall reopen any such order to consider whether such order (including any affirmative relief provision contained in such order) should be altered, modified, or set aside, in whole or in part, if the person, partnership, or corporation involved files a request with the Commission which makes a satisfactory showing that changed conditions of law or fact require such order to be altered, modified, or set aside, in whole or in part. The Commission shall determine whether to alter, modify, or set aside any order of the Commission in response to a request made by a person, partnership, or corporation under paragraph 1
 
-<sup>1</sup>  So in original. Probably should be “clause”.
+<sup>1</sup> So in original. Probably should be “clause”.
 
 (2) not later than 120 days after the date of the filing of such request.
 
@@ -395,7 +395,7 @@ In such action, such person, partnership, or corporation shall be liable for a c
 
 The Commission shall have no authority under this section or section 57a of this title to declare unlawful an act or practice on the grounds that such act or practice is unfair unless the act or practice causes or is likely to cause substantial injury to consumers which is not reasonably avoidable by consumers themselves and not outweighed by countervailing benefits to consumers or to competition. In determining whether an act or practice is unfair, the Commission may consider established public policies as evidence to be considered with all other evidence. Such public policy considerations may not serve as a primary basis for such determination.
 
-(Sept. 26, 1914, ch. 311, § 5, 38 Stat. 719; Mar. 21, 1938, ch. 49, § 3, 52 Stat. 111; June 23, 1938, ch. 601, title XI, § 1107(f), 52 Stat. 1028; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Mar. 16, 1950, ch. 61, § 4(c), 64 Stat. 21; July 14, 1952, ch. 745, § 2, 66 Stat. 632; Pub. L. 85–726, title XIV, §§ 1401(b), 1411, Aug. 23, 1958, 72 Stat. 806, 809; Pub. L. 85–791, § 3, Aug. 28, 1958, 72 Stat. 942; Pub. L. 85–909, § 3, Sept. 2, 1958, 72 Stat. 1750; Pub. L. 86–507, § 1(13), June 11, 1960, 74 Stat. 200; Pub. L. 93–153, title IV, § 408(c), (d), Nov. 16, 1973, 87 Stat. 591, 592; Pub. L. 93–637, title II, §§ 201(a), 204(b), 205(a), Jan. 4, 1975, 88 Stat. 2193, 2200; Pub. L. 94–145, § 3, Dec. 12, 1975, 89 Stat. 801; Pub. L. 96–37, § 1(a), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, § 2, May 28, 1980, 94 Stat. 374; Pub. L. 97–290, title IV, § 403, Oct. 8, 1982, 96 Stat. 1246; Pub. L. 98–620, title IV, § 402(12), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–86, title VII, § 715(a)(1), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–312, §§ 4, 6, 9, Aug. 26, 1994, 108 Stat. 1691, 1692, 1695; Pub. L. 109–455, §§ 3, 13, Dec. 22, 2006, 120 Stat. 3372, 3382; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
+(Sept. 26, 1914, ch. 311, § 5, 38 Stat. 719; Mar. 21, 1938, ch. 49, § 3, 52 Stat. 111; June 23, 1938, ch. 601, title XI, § 1107(f), 52 Stat. 1028; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Mar. 16, 1950, ch. 61, § 4(c), 64 Stat. 21; July 14, 1952, ch. 745, § 2, 66 Stat. 632; Pub. L. 85–726, title XIV, §§ 1401(b), 1411, Aug. 23, 1958, 72 Stat. 806, 809; Pub. L. 85–791, § 3, Aug. 28, 1958, 72 Stat. 942; Pub. L. 85–909, § 3, Sept. 2, 1958, 72 Stat. 1750; Pub. L. 86–507, § 1(13), June 11, 1960, 74 Stat. 200; Pub. L. 93–153, title IV, § 408(c), (d), Nov. 16, 1973, 87 Stat. 591, 592; Pub. L. 93–637, title II, §§ 201(a), 204(b), 205(a), Jan. 4, 1975, 88 Stat. 2193, 2200; Pub. L. 94–145, § 3, Dec. 12, 1975, 89 Stat. 801; Pub. L. 96–37, § 1(a), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, § 2, May 28, 1980, 94 Stat. 374; Pub. L. 97–290, title IV, § 403, Oct. 8, 1982, 96 Stat. 1246; Pub. L. 98–620, title IV, § 402(12), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 100–86, title VII, § 715(a)(1), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–312, §§ 4, 6, 9, Aug. 26, 1994, 108 Stat. 1691, 1692, 1695; Pub. L. 109–455, §§ 3, 13, Dec. 22, 2006, 120 Stat. 3372, 3382; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
 
 **Amendment of Section**
 
@@ -405,33 +405,33 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 
 **References in Text**
 
-The Packers and Stockyards Act, 1921, as amended, referred to in subsec. (a)(2), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
+The Packers and Stockyards Act, 1921, as amended, referred to in subsec. (a)(2), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified to chapter 9 (§ 181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
 **Codification**
 
-In subsec. (a)(2), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a)(2), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 In subsec. (c), “section 1254 of title 28” substituted for “section 240 of the Judicial Code [28 U.S.C. 347]” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
 
 **Amendments**
 
-2012—Subsec. (a)(4). Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment note below.
+2012—Subsec. (a)(4). Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment note below.
 
-2006—Subsec. (a)(4). Pub. L. 109–455, § 3, which added par. (4) extending the definition of unfair or deceptive acts or practices to include certain ones involving foreign commerce, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
+2006—Subsec. (a)(4). Pub. L. 109–455, § 3, which added par. (4) extending the definition of unfair or deceptive acts or practices to include certain ones involving foreign commerce, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
 
-1994—Subsec. (g)(1). Pub. L. 103–312, § 6(d), substituted a period for “; or” at end.
+1994—Subsec. (g)(1). Pub. L. 103–312, § 6(d), substituted a period for “; or” at end.
 
-Subsec. (g)(2). Pub. L. 103–312, § 6(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon the expiration of the time allowed for filing a petition for certiorari, if the order of the Commission has been affirmed, or the petition for review dismissed by the court of appeals, and no petition for certiorari has been duly filed; or”.
+Subsec. (g)(2). Pub. L. 103–312, § 6(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Upon the expiration of the time allowed for filing a petition for certiorari, if the order of the Commission has been affirmed, or the petition for review dismissed by the court of appeals, and no petition for certiorari has been duly filed; or”.
 
-Subsec. (g)(3). Pub. L. 103–312, § 6(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Upon the denial of a petition for certiorari, if the order of the Commission has been affirmed or the petition for review dismissed by the court of appeals; or”.
+Subsec. (g)(3). Pub. L. 103–312, § 6(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Upon the denial of a petition for certiorari, if the order of the Commission has been affirmed or the petition for review dismissed by the court of appeals; or”.
 
-Subsec. (g)(4). Pub. L. 103–312, § 6(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Upon the expiration of thirty days from the date of issuance of the mandate of the Supreme Court, if such Court directs that the order of the Commission be affirmed or the petition for review dismissed.”
+Subsec. (g)(4). Pub. L. 103–312, § 6(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Upon the expiration of thirty days from the date of issuance of the mandate of the Supreme Court, if such Court directs that the order of the Commission be affirmed or the petition for review dismissed.”
 
-Subsec. (m)(1)(B). Pub. L. 103–312, § 4(a), inserted “, other than a consent order,” after “a final cease and desist order” in introductory provisions.
+Subsec. (m)(1)(B). Pub. L. 103–312, § 4(a), inserted “, other than a consent order,” after “a final cease and desist order” in introductory provisions.
 
-Subsec. (m)(2). Pub. L. 103–312, § 4(b), inserted at end “Upon request of any party to such an action against such defendant, the court shall also review the determination of law made by the Commission in the proceeding under subsection (b) that the act or practice which was the subject of such proceeding constituted an unfair or deceptive act or practice in violation of subsection (a).”
+Subsec. (m)(2). Pub. L. 103–312, § 4(b), inserted at end “Upon request of any party to such an action against such defendant, the court shall also review the determination of law made by the Commission in the proceeding under subsection (b) that the act or practice which was the subject of such proceeding constituted an unfair or deceptive act or practice in violation of subsection (a).”
 
-Subsec. (n). Pub. L. 103–312, § 9, added subsec. (n).
+Subsec. (n). Pub. L. 103–312, § 9, added subsec. (n).
 
 1987—Subsec. (a)(2). Pub. L. 100–86 inserted “Federal credit unions described in section 57a(f)(4) of this title,” after “section 57a(f)(3) of this title,”.
 
@@ -443,27 +443,27 @@ Subsec. (n). Pub. L. 103–312, § 9, added subsec. (n).
 
 1979—Subsec. (a)(2). Pub. L. 96–37 added savings and loan institutions described in section 57a(f)(3) of this title to the enumeration of entities exempted from the Commission’s power to prevent the use of unfair methods of competition and unfair or deceptive acts or practices.
 
-1975—Pub. L. 93–637, § 201(a), substituted “in or affecting commerce” for “in commerce” wherever appearing.
+1975—Pub. L. 93–637, § 201(a), substituted “in or affecting commerce” for “in commerce” wherever appearing.
 
 Subsec. (a). Pub. L. 94–145 struck out pars. (2) to (5) which permitted fair trade pricing of articles for retail sale and State enactment of nonsigner provisions, and redesignated par. (6) as (2).
 
-Subsec. (m). Pub. L. 93–637, §§ 204(b), 205(a), added subsec. (m). Former subsec. (m), relating to the election by the Commission to appear in its own name after notifying and consulting with and giving the Attorney General 10 days to take the action proposed by the Commission, was struck out.
+Subsec. (m). Pub. L. 93–637, §§ 204(b), 205(a), added subsec. (m). Former subsec. (m), relating to the election by the Commission to appear in its own name after notifying and consulting with and giving the Attorney General 10 days to take the action proposed by the Commission, was struck out.
 
-1973—Subsec. (*l*). Pub. L. 93–153, § 408(c), raised the maximum civil penalty for each violation to $10,000 and inserted provisions empowering the United States District Courts to grant mandatory injunctions and such other and further equitable relief as they might deem appropriate for the enforcement of final Commission orders.
+1973—Subsec. (*l*). Pub. L. 93–153, § 408(c), raised the maximum civil penalty for each violation to $10,000 and inserted provisions empowering the United States District Courts to grant mandatory injunctions and such other and further equitable relief as they might deem appropriate for the enforcement of final Commission orders.
 
-Subsec. (m). Pub. L. 93–153, § 408(d), added subsec. (m).
+Subsec. (m). Pub. L. 93–153, § 408(d), added subsec. (m).
 
 1960—Subsec. (f). Pub. L. 86–507 substituted “mailing a copy thereof by registered mail or by certified mail” for “registering and mailing a copy thereof”, and “mailed by registered mail or by certified mail” for “registered and mailed”.
 
 1958—Subsec. (a)(6). Pub. L. 85–909 substituted “persons, partnerships, or corporations insofar as they are subject to the Packers and Stockyards Act, 1921, as amended,” for “persons, partnerships or corporations subject to the Packers and Stockyards Act, 1921,”.
 
-Pub. L. 85–726, § 1411, substituted “Federal Aviation Act of 1958” for “Civil Aeronautics Act of 1938”.
+Pub. L. 85–726, § 1411, substituted “Federal Aviation Act of 1958” for “Civil Aeronautics Act of 1938”.
 
-Subsec. (b). Pub. L. 85–791, § 3(a), struck out “the transcript of” before “the record in the proceeding” in sixth sentence.
+Subsec. (b). Pub. L. 85–791, § 3(a), struck out “the transcript of” before “the record in the proceeding” in sixth sentence.
 
-Subsec. (c). Pub. L. 85–791, § 3(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, and “Commission shall file in the court the record in the proceeding, as provided in section 2112 of title 28” for “Commission forthwith shall certify and file in the court a transcript of the entire record in the proceeding, including all the evidence taken and the report and order of the Commission”, and which, in third sentence struck out “and transcript” after “petition”, inserted “concurrently with the Commission until the filing of the record” and struck out “upon the pleadings, evidence, and proceedings set forth in such transcript” before “a decree affirming”.
+Subsec. (c). Pub. L. 85–791, § 3(b), in second sentence, substituted “transmitted by the clerk of the court to” for “served upon”, and “Commission shall file in the court the record in the proceeding, as provided in section 2112 of title 28” for “Commission forthwith shall certify and file in the court a transcript of the entire record in the proceeding, including all the evidence taken and the report and order of the Commission”, and which, in third sentence struck out “and transcript” after “petition”, inserted “concurrently with the Commission until the filing of the record” and struck out “upon the pleadings, evidence, and proceedings set forth in such transcript” before “a decree affirming”.
 
-Subsec. (d). Pub. L. 85–791, § 3(c), substituted “Upon the filing of the record with it the” for “The”.
+Subsec. (d). Pub. L. 85–791, § 3(c), substituted “Upon the filing of the record with it the” for “The”.
 
 1952—Subsec. (a). Act July 14, 1952, amended subsec. (a) generally to permit fair trade pricing of articles for retail sale.
 
@@ -485,7 +485,7 @@ Amendment by section 3 of Pub. L. 109–455 repealed effective Sept. 30, 2027, a
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–312, § 15, Aug. 26, 1994, 108 Stat. 1697, provided that:
+Pub. L. 103–312, § 15, Aug. 26, 1994, 108 Stat. 1697, provided that:
 
 > **“(a) In General.—** Except as provided in subsections (b), (c), (d), and (e), the provisions of this Act [enacting section 57b–5 of this title, amending this section and sections 53, 57a, 57b–1, 57b–2, 57c, and 58 of this title, and enacting provisions set out as notes under sections 57c and 58 of this title] shall take effect on the date of enactment of this Act [Aug. 26, 1994].
 
@@ -503,7 +503,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–252, § 23, May 28, 1980, 94 Stat. 397, provided that: “The provisions of this Act [enacting sections 57a–1 and 57b–1 to 57b–4 of this title, amending this section and sections 46, 50, 57a, 57c, and 58 of this title, and enacting provisions set out as notes under sections 46, 57a, 57a–1, 57c, and 58 of this title], and the amendments made by this Act, shall take effect on the date of the enactment of this Act [May 28, 1980].”
+Pub. L. 96–252, § 23, May 28, 1980, 94 Stat. 397, provided that: “The provisions of this Act [enacting sections 57a–1 and 57b–1 to 57b–4 of this title, amending this section and sections 46, 50, 57a, 57c, and 58 of this title, and enacting provisions set out as notes under sections 46, 57a, 57a–1, 57c, and 58 of this title], and the amendments made by this Act, shall take effect on the date of the enactment of this Act [May 28, 1980].”
 
 **Effective Date of 1975 Amendments**
 
@@ -511,7 +511,7 @@ Amendment by Pub. L. 94–145 effective upon expiration of ninety-day period beg
 
 Amendment by section 204(b) of Pub. L. 93–637 not applicable to any civil action commenced before Jan. 4, 1975, see section 204(c) of Pub. L. 93–637, set out as a note under section 56 of this title.
 
-Pub. L. 93–637, § 205(b), Jan. 4, 1975, 88 Stat. 2201, provided that: “The amendment made by subsection (a) of this section [amending this section] shall not apply to any violation, act, or practice to the extent that such violation, act, or practice occurred before the date of enactment of this Act [Jan. 4, 1975].”
+Pub. L. 93–637, § 205(b), Jan. 4, 1975, 88 Stat. 2201, provided that: “The amendment made by subsection (a) of this section [amending this section] shall not apply to any violation, act, or practice to the extent that such violation, act, or practice occurred before the date of enactment of this Act [Jan. 4, 1975].”
 
 **Effective Date of 1958 Amendment**
 
@@ -523,7 +523,7 @@ Amendment by act Mar. 16, 1950, effective July 1, 1950, see note set out under s
 
 **Prohibiting Deceptive Acts or Practices in Connection With the Novel Coronavirus**
 
-Pub. L. 116–260, div. FF, title XIV, § 1401, Dec. 27, 2020, 134 Stat. 3275, provided that:
+Pub. L. 116–260, div. FF, title XIV, § 1401, Dec. 27, 2020, 134 Stat. 3275, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘COVID–19 Consumer Protection Act’.
 
@@ -549,7 +549,7 @@ Pub. L. 116–260, div. FF, title XIV, § 1401, Dec. 27, 2020, 134 Stat. 3275,
 
 **Congressional Findings and Declaration of Purpose Covering Grant of District Subpena Enforcement Authority and Authority To Grant Preliminary Injunctive Relief**
 
-Pub. L. 93–153, § 408(a), (b), Nov. 16, 1973, 87 Stat. 591, provided that:
+Pub. L. 93–153, § 408(a), (b), Nov. 16, 1973, 87 Stat. 591, provided that:
 
 > **“(a)**
 
@@ -561,19 +561,19 @@ Pub. L. 93–153, § 408(a), (b), Nov. 16, 1973, 87 Stat. 591, provided that:
 
 **Purpose of Act July 14, 1952**
 
-Act July 14, 1952, ch. 745, § 1, 66 Stat. 631, provided: “That it is the purpose of this Act [amending this section] to protect the rights of States under the United States Constitution to regulate their internal affairs and more particularly to enact statutes and laws, and to adopt policies, which authorize contracts and agreements prescribing minimum or stipulated prices for the resale of commodities and to extend the minimum or stipulated prices prescribed by such contracts and agreements to persons who are not parties thereto. It is the further purpose of this Act to permit such statutes, laws, and public policies to apply to commodities, contracts, agreements, and activities in or affecting interstate or foreign commerce.”
+Act July 14, 1952, ch. 745, § 1, 66 Stat. 631, provided: “That it is the purpose of this Act [amending this section] to protect the rights of States under the United States Constitution to regulate their internal affairs and more particularly to enact statutes and laws, and to adopt policies, which authorize contracts and agreements prescribing minimum or stipulated prices for the resale of commodities and to extend the minimum or stipulated prices prescribed by such contracts and agreements to persons who are not parties thereto. It is the further purpose of this Act to permit such statutes, laws, and public policies to apply to commodities, contracts, agreements, and activities in or affecting interstate or foreign commerce.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 45a. Labels on products
+### § 45a. Labels on products
 
 To the extent any person introduces, delivers for introduction, sells, advertises, or offers for sale in commerce a product with a “Made in the U.S.A.” or “Made in America” label, or the equivalent thereof, in order to represent that such product was in whole or substantial part of domestic origin, such label shall be consistent with decisions and orders of the Federal Trade Commission issued pursuant to section 45 of this title. This section only applies to such labels. Nothing in this section shall preclude the application of other provisions of law relating to labeling. The Commission may periodically consider an appropriate percentage of imported components which may be included in the product and still be reasonably consistent with such decisions and orders. Nothing in this section shall preclude use of such labels for products that contain imported components under the label when the label also discloses such information in a clear and conspicuous manner. The Commission shall administer this section pursuant to section 45 of this title and may from time to time issue rules pursuant to section 553 of title 5 for such purpose. If a rule is issued, such violation shall be treated by the Commission as a violation of a rule under section 57a of this title regarding unfair or deceptive acts or practices. This section shall be effective upon publication in the Federal Register of a Notice of the provisions of this section. The Commission shall publish such notice within six months after September 13, 1994.
 
-(Pub. L. 103–322, title XXXII, § 320933, Sept. 13, 1994, 108 Stat. 2135.)
+(Pub. L. 103–322, title XXXII, § 320933, Sept. 13, 1994, 108 Stat. 2135.)
 
 **Editorial Notes**
 
@@ -581,7 +581,7 @@ To the extent any person introduces, delivers for introduction, sells, advertise
 
 Section was enacted as part of the Violent Crime Control and Law Enforcement Act of 1994, and not as part of the Federal Trade Commission Act which comprises this subchapter.
 
-### § 45b. Consumer review protection
+### § 45b. Consumer review protection
 
 **(a) Definitions** In this section:
 
@@ -749,7 +749,7 @@ Nothing in this section shall be construed to limit, impair, or supersede the op
 
 **(2)** subsections (d) and (e) shall apply with respect to contracts in effect on or after the date that is 1 year after December 14, 2016.
 
-(Pub. L. 114–258, § 2, Dec. 14, 2016, 130 Stat. 1355.)
+(Pub. L. 114–258, § 2, Dec. 14, 2016, 130 Stat. 1355.)
 
 **Editorial Notes**
 
@@ -763,7 +763,7 @@ This Act, referred to in subsecs. (d)(2)(A) and (f), is Pub. L. 114–258, Dec. 
 
 Section was enacted as part of the Consumer Review Fairness Act of 2016, and not as part of the Federal Trade Commission Act which comprises this subchapter.
 
-### § 45c. Unfair and deceptive acts and practices relating to circumvention of ticket access control measures
+### § 45c. Unfair and deceptive acts and practices relating to circumvention of ticket access control measures
 
 **(a) Conduct prohibited**
 
@@ -871,7 +871,7 @@ In addition to civil actions brought by attorneys general under paragraph (1), a
 
 Nothing in this subsection may be construed to prohibit an authorized official of a State from initiating or continuing any proceeding in a court of the State for a violation of any civil or criminal law of the State.
 
-(Pub. L. 114–274, § 2, Dec. 14, 2016, 130 Stat. 1401.)
+(Pub. L. 114–274, § 2, Dec. 14, 2016, 130 Stat. 1401.)
 
 **Editorial Notes**
 
@@ -887,7 +887,7 @@ Section was enacted as part of the Better Online Ticket Sales Act of 2016 or the
 
 **Definitions**
 
-Pub. L. 114–274, § 3, Dec. 14, 2016, 130 Stat. 1403, provided that:
+Pub. L. 114–274, § 3, Dec. 14, 2016, 130 Stat. 1403, provided that:
 
 > “In this Act [see Short Title of 2016 Amendment note set out under section 58 of this title]:
 
@@ -955,7 +955,7 @@ Sec. 4. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 45d. Unfair or deceptive acts or practices with respect to substance use disorder treatment service and products
+### § 45d. Unfair or deceptive acts or practices with respect to substance use disorder treatment service and products
 
 **(a) Unlawful activity**
 
@@ -981,7 +981,7 @@ Any person who violates subsection (a) shall be subject to the penalties and ent
 
 Nothing in this subtitle shall be construed to limit the authority of the Federal Trade Commission or the Food and Drug Administration under any other provision of law.
 
-(Pub. L. 115–271, title VIII, § 8023, Oct. 24, 2018, 132 Stat. 4082.)
+(Pub. L. 115–271, title VIII, § 8023, Oct. 24, 2018, 132 Stat. 4082.)
 
 **Editorial Notes**
 
@@ -989,7 +989,7 @@ Nothing in this subtitle shall be construed to limit the authority of the Federa
 
 The Federal Trade Commission Act, referred to in subsec. (b)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-This subtitle, referred to in subsec. (c), is subtitle B (§§ 8021–8023) of title VIII of Pub. L. 115–271, Oct. 24, 2018, 132 Stat. 4082, known as the Opioid Addiction Recovery Fraud Prevention Act of 2018, which enacted this section and provisions set out as notes under this section and section 58 of this title.
+This subtitle, referred to in subsec. (c), is subtitle B (§§ 8021–8023) of title VIII of Pub. L. 115–271, Oct. 24, 2018, 132 Stat. 4082, known as the Opioid Addiction Recovery Fraud Prevention Act of 2018, which enacted this section and provisions set out as notes under this section and section 58 of this title.
 
 **Codification**
 
@@ -999,15 +999,15 @@ Section was enacted as part of the Opioid Addiction Recovery Fraud Prevention Ac
 
 **Definitions**
 
-Pub. L. 115–271, title VIII, § 8022, Oct. 24, 2018, 132 Stat. 4082, provided that:
+Pub. L. 115–271, title VIII, § 8022, Oct. 24, 2018, 132 Stat. 4082, provided that:
 
-> “For purposes of this subtitle [subtitle B (§§ 8021–8023) of title VIII of Pub. L. 115–271, see References in Text note above] only, and not [to] be construed or applied as to challenge or affect the characterization, definition, or treatment under any other statute, regulation, or rule:
+> “For purposes of this subtitle [subtitle B (§§ 8021–8023) of title VIII of Pub. L. 115–271, see References in Text note above] only, and not [to] be construed or applied as to challenge or affect the characterization, definition, or treatment under any other statute, regulation, or rule:
 
 > **“(1) Substance use disorder treatment product.—** The term ‘substance use disorder treatment product’ means a product for use or marketed for use in the treatment, cure, or prevention of a substance use disorder, including an opioid use disorder.
 
 > **“(2) Substance use disorder treatment service.—** The term ‘substance use disorder treatment service’ means a service that purports to provide referrals to treatment, treatment, or recovery housing for people diagnosed with, having, or purporting to have a substance use disorder, including an opioid use disorder.”
 
-### § 45e. Office for the prevention of fraud targeting seniors
+### § 45e. Office for the prevention of fraud targeting seniors
 
 **(a) Establishment of Advisory Office** The Federal Trade Commission (in this section referred to as the “Commission”) shall establish an office within the Bureau of Consumer Protection for the purpose of advising the Commission on the prevention of fraud targeting seniors and to assist the Commission with the following:
 
@@ -1039,7 +1039,7 @@ The Commission shall commence carrying out the requirements of this section not 
 
 No additional funds are authorized to be appropriated to carry out this section and the Commission shall carry out this section using amounts otherwise made available to the Commission.
 
-(Pub. L. 117–103, div. Q, title I, § 122, Mar. 15, 2022, 136 Stat. 811.)
+(Pub. L. 117–103, div. Q, title I, § 122, Mar. 15, 2022, 136 Stat. 811.)
 
 **Editorial Notes**
 
@@ -1051,7 +1051,7 @@ Section was enacted as part of the Seniors Fraud Prevention Act of 2022, the Fra
 
 **Senior Scams Prevention Advisory Group**
 
-Pub. L. 117–103, div. Q, title I, § 112(a)–(d), Mar. 15, 2022, 136 Stat. 809, 810, provided that:
+Pub. L. 117–103, div. Q, title I, § 112(a)–(d), Mar. 15, 2022, 136 Stat. 809, 810, provided that:
 
 > **“(a) Establishment.—** There is established a Senior Scams Prevention Advisory Group (in this subtitle [subtitle A of div. Q of Pub. L. 117–103, amending section 21711 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under section 58 of this title and section 21711 of Title 34] referred to as the ‘Advisory Group’).
 
@@ -1129,9 +1129,9 @@ Pub. L. 117–103, div. Q, title I, § 112(a)–(d), Mar. 15, 2022, 136 Stat. 
 
 > **“(B)** encourage the use and distribution of the materials created under this subsection to prevent scams affecting seniors by governmental agencies and the private sector.”
 
-[Pub. L. 117–103, div. Q, title I, § 112(a)–(d), set out above, ceases to be effective on the date that is 5 years after Mar. 15, 2022, see section 112(f) of title I of div. Q of Pub. L. 117–103, set out as a Termination of 2022 Amendment note under section 21711 of Title 34, Crime Control and Law Enforcement.]
+[Pub. L. 117–103, div. Q, title I, § 112(a)–(d), set out above, ceases to be effective on the date that is 5 years after Mar. 15, 2022, see section 112(f) of title I of div. Q of Pub. L. 117–103, set out as a Termination of 2022 Amendment note under section 21711 of Title 34, Crime Control and Law Enforcement.]
 
-### § 45f. Collection, verification, and disclosure of information by online marketplaces to inform consumers
+### § 45f. Collection, verification, and disclosure of information by online marketplaces to inform consumers
 
 **(a) Collection and verification of information**
 
@@ -1395,19 +1395,19 @@ No State or political subdivision of a State, or territory of the United States,
 
 This section shall take effect 180 days after December 29, 2022.
 
-(Pub. L. 117–328, div. BB, title III, § 301, Dec. 29, 2022, 136 Stat. 5555.)
+(Pub. L. 117–328, div. BB, title III, § 301, Dec. 29, 2022, 136 Stat. 5555.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (c)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (c)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Consolidated Appropriations Act, 2023, and not as part of the Federal Trade Commission Act which comprises this chapter.
 
-### § 46. Additional powers of Commission
+### § 46. Additional powers of Commission
 
 The Commission shall also have power—
 
@@ -1485,11 +1485,11 @@ The authority granted by this subsection shall not authorize the Commission to t
 
 **(7) Assistance to certain countries**
 
-The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) 1
+The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) 1 of title 50.
+of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) 1 of title 50.
 
 **(k) Referral of evidence for criminal proceedings**
 
@@ -1521,7 +1521,7 @@ No officer or employee of the Commission or any Commissioner may publish or disc
 
 Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise such authority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
 
-(Sept. 26, 1914, ch. 311, § 6, 38 Stat. 721; Pub. L. 93–153, title IV, § 408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§ 201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37, § 1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§ 3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L. 100–86, title VII, § 715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, § 5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, § 3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598; Pub. L. 109–455, §§ 4(a), (b), (d), 13, Dec. 22, 2006, 120 Stat. 3372, 3373, 3375, 3382; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
+(Sept. 26, 1914, ch. 311, § 6, 38 Stat. 721; Pub. L. 93–153, title IV, § 408(e), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, §§ 201(b), 202(b), 203(a), Jan. 4, 1975, 88 Stat. 2193, 2198; Pub. L. 96–37, § 1(b), July 23, 1979, 93 Stat. 95; Pub. L. 96–252, §§ 3–5(a), May 28, 1980, 94 Stat. 374, 375; Pub. L. 100–86, title VII, § 715(a), (b), Aug. 10, 1987, 101 Stat. 655; Pub. L. 103–437, § 5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 103–438, § 3(e)(2)(A), Nov. 2, 1994, 108 Stat. 4598; Pub. L. 109–455, §§ 4(a), (b), (d), 13, Dec. 22, 2006, 120 Stat. 3372, 3373, 3375, 3382; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
 
 **Amendment of Section**
 
@@ -1533,43 +1533,43 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 
 The Act to regulate commerce, referred to in subsecs. (a), (b), (j)(6), and the proviso following subsec. (*l*), is defined in section 44 of this title.
 
-The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (i), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-Section 4605(j) of title 50, referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
+Section 4605(j) of title 50, referred to in subsec. (j)(7), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
 
 **Amendments**
 
-2012—Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment notes below.
+2012—Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment notes below.
 
-2006—Pub. L. 109–455, § 4(d), which substituted “subsections (a), (b), and (j)” for “clauses (a) and (b)” in proviso following subsec. (*l*), was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
+2006—Pub. L. 109–455, § 4(d), which substituted “subsections (a), (b), and (j)” for “clauses (a) and (b)” in proviso following subsec. (*l*), was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
 
-Subsec. (f). Pub. L. 109–455, § 4(a), which inserted “(1)” after “disclose such information”, substituted “purposes, and” for “purposes.”, and added par. (2) providing for conditional disclosure to officers and employees of foreign law enforcement, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
+Subsec. (f). Pub. L. 109–455, § 4(a), which inserted “(1)” after “disclose such information”, substituted “purposes, and” for “purposes.”, and added par. (2) providing for conditional disclosure to officers and employees of foreign law enforcement, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
 
-Subsecs. (j) to (*l*). Pub. L. 109–455, § 4(b), which added subsecs. (j) to (*l*) relating to investigative assistance for foreign law enforcement agencies, referral of evidence for criminal proceedings, and expenditures for cooperative arrangements, respectively, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
+Subsecs. (j) to (*l*). Pub. L. 109–455, § 4(b), which added subsecs. (j) to (*l*) relating to investigative assistance for foreign law enforcement agencies, referral of evidence for criminal proceedings, and expenditures for cooperative arrangements, respectively, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
 
 1994—Pub. L. 103–437, in first and third undesignated pars. following proviso after subsec. (h), substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
 
 Subsec. (i). Pub. L. 103–438 added subsec. (i).
 
-1987—Pub. L. 100–86, § 715(b), in proviso following subsec. (h), inserted reference to Federal credit unions described in section 57a(f)(4) of this title and reference to in business as a Federal credit union.
+1987—Pub. L. 100–86, § 715(b), in proviso following subsec. (h), inserted reference to Federal credit unions described in section 57a(f)(4) of this title and reference to in business as a Federal credit union.
 
-Subsecs. (a), (b). Pub. L. 100–86, § 715(a)(1), (2), inserted reference to Federal credit unions described in section 57a(f)(4) of this title.
+Subsecs. (a), (b). Pub. L. 100–86, § 715(a)(1), (2), inserted reference to Federal credit unions described in section 57a(f)(4) of this title.
 
-1980—Pub. L. 96–252, §§ 3(b)–5(a), inserted three undesignated paragraphs following proviso after subsec. (h) requiring the Commission to establish a plan to reduce burdens imposed upon small businesses by the quarterly financial reporting requirements under subsec. (b) of this section, prohibiting Commissioners and officers and employees of the Commission from publishing or disclosing information whereby line-of-business data furnished by particular establishments or individuals can be identified, and, with certain exceptions, making this section inapplicable to the business of insurance.
+1980—Pub. L. 96–252, §§ 3(b)–5(a), inserted three undesignated paragraphs following proviso after subsec. (h) requiring the Commission to establish a plan to reduce burdens imposed upon small businesses by the quarterly financial reporting requirements under subsec. (b) of this section, prohibiting Commissioners and officers and employees of the Commission from publishing or disclosing information whereby line-of-business data furnished by particular establishments or individuals can be identified, and, with certain exceptions, making this section inapplicable to the business of insurance.
 
-Subsec. (f). Pub. L. 96–252, § 3(a), substituted “as are” for “, except trade secrets and names of customers, as it shall deem expedient” and inserted proviso restricting Commission’s authority to make public trade secrets or commercial or financial information which is obtained from any person and which is privileged or confidential.
+Subsec. (f). Pub. L. 96–252, § 3(a), substituted “as are” for “, except trade secrets and names of customers, as it shall deem expedient” and inserted proviso restricting Commission’s authority to make public trade secrets or commercial or financial information which is obtained from any person and which is privileged or confidential.
 
-1979—Pub. L. 96–37, § 1(b)(3), in proviso following subsec. (h), inserted references to savings and loan institutions and to persons, partnerships, corporations, groups of persons, partnerships, or corporations or industries that are not engaged or are engaged only incidentally in business as savings and loan institutions.
+1979—Pub. L. 96–37, § 1(b)(3), in proviso following subsec. (h), inserted references to savings and loan institutions and to persons, partnerships, corporations, groups of persons, partnerships, or corporations or industries that are not engaged or are engaged only incidentally in business as savings and loan institutions.
 
-Subsecs. (a), (b). Pub. L. 96–37, § 1(b)(1), (2), inserted reference to savings and loan institutions described in section 57a(f)(3) of this title.
+Subsecs. (a), (b). Pub. L. 96–37, § 1(b)(1), (2), inserted reference to savings and loan institutions described in section 57a(f)(3) of this title.
 
-1975—Pub. L. 93–637, § 203(a)(3), in proviso following subsec. (h), substituted “any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations,” for “any such corporation to the extent that such action is necessary to the investigation of any corporation, group of corporations,”.
+1975—Pub. L. 93–637, § 203(a)(3), in proviso following subsec. (h), substituted “any person, partnership, or corporation to the extent that such action is necessary to the investigation of any person, partnership, or corporation, group of persons, partnerships, or corporations,” for “any such corporation to the extent that such action is necessary to the investigation of any corporation, group of corporations,”.
 
-Subsec. (a). Pub. L. 93–637, §§ 201(b), 203(a)(1), substituted “in or whose business affects commerce” for “in commerce”, “person, partnership, or corporation” for “corporation”, and “persons, partnerships, and corporations” for “corporations and to individuals, associations, and partnerships”.
+Subsec. (a). Pub. L. 93–637, §§ 201(b), 203(a)(1), substituted “in or whose business affects commerce” for “in commerce”, “person, partnership, or corporation” for “corporation”, and “persons, partnerships, and corporations” for “corporations and to individuals, associations, and partnerships”.
 
-Subsec. (b). Pub. L. 93–637, §§ 201(b), 203(a)(2), substituted “in or whose business affects commerce” for “in commerce”, “special orders, persons, partnerships, and corporations, engaged in or whose business affects commerce, excepting” for “special orders, corporations engaged in or whose business affects commerce, excepting”, and “respective persons, partnerships, and corporations” for “respective corporations”.
+Subsec. (b). Pub. L. 93–637, §§ 201(b), 203(a)(2), substituted “in or whose business affects commerce” for “in commerce”, “special orders, persons, partnerships, and corporations, engaged in or whose business affects commerce, excepting” for “special orders, corporations engaged in or whose business affects commerce, excepting”, and “respective persons, partnerships, and corporations” for “respective corporations”.
 
-Subsec. (g). Pub. L. 93–637, § 202(b), inserted “(except as provided in section 57a(a)(2) of this title)” before “to make rules and regulations”.
+Subsec. (g). Pub. L. 93–637, § 202(b), inserted “(except as provided in section 57a(a)(2) of this title)” before “to make rules and regulations”.
 
 1973—Pub. L. 93–153 inserted proviso following subsec. (h) that the Commission’s investigatory powers to gather and compile information, investigate, and require reports or answers is not curtailed as regards banks and common carriers when the investigation in question is an investigation of a corporation, group of corporations, or industry not engaged or engaged only incidentally in banking or in business as a common carrier subject to the Act to regulate commerce notwithstanding provisions excepting banks and common carriers subject to the Act from the exercise of the Commission’s power to investigate and require reports from corporations.
 
@@ -1593,13 +1593,13 @@ For applicability to rules promulgated or proposed under subsec. (g) of this sec
 
 **Study and Evaluation of Effectiveness of State Policies and Programs Relating to Regulation of Certain Health Insurance Policies**
 
-Pub. L. 96–252, § 5(b), May 28, 1980, 94 Stat. 376, provided that: “The amendment made in subsection (a) [adding undesignated paragraph authorizing studies and reports relating to the business of insurance] shall not be construed to prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive study and evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.].”
+Pub. L. 96–252, § 5(b), May 28, 1980, 94 Stat. 376, provided that: “The amendment made in subsection (a) [adding undesignated paragraph authorizing studies and reports relating to the business of insurance] shall not be construed to prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive study and evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.].”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
 **Ex. Ord. No. 10544. Inspection of Income Tax Returns by Federal Trade Commission**
 
@@ -1611,11 +1611,11 @@ This Executive Order shall be effective upon its filing for publication in the F
 
 Dwight D. Eisenhower.
 
-### § 46a. Concurrent resolution essential to authorize investigations
+### § 46a. Concurrent resolution essential to authorize investigations
 
 After June 16, 1933, no new investigations shall be initiated by the Commission as the result of a legislative resolution, except the same be a concurrent resolution of the two Houses of Congress.
 
-(June 16, 1933, ch. 101, § 1, 48 Stat. 291.)
+(June 16, 1933, ch. 101, § 1, 48 Stat. 291.)
 
 **Editorial Notes**
 
@@ -1627,13 +1627,13 @@ Section was not enacted as part of the Federal Trade Commission Act which compri
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 47. Reference of suits under antitrust statutes to Commission
+### § 47. Reference of suits under antitrust statutes to Commission
 
 In any suit in equity brought by or under the direction of the Attorney General as provided in the antitrust Acts, the court may, upon the conclusion of the testimony therein, if it shall be then of opinion that the complainant is entitled to relief, refer said suit to the Commission, as a master in chancery, to ascertain and report an appropriate form of decree therein. The Commission shall proceed upon such notice to the parties and under such rules of procedure as the court may prescribe, and upon the coming in of such report such exceptions may be filed and such proceedings had in relation thereto as upon the report of a master in other equity causes, but the court may adopt or reject such report, in whole or in part, and enter such decree as the nature of the case may in its judgment require.
 
-(Sept. 26, 1914, ch. 311, § 7, 38 Stat. 722.)
+(Sept. 26, 1914, ch. 311, § 7, 38 Stat. 722.)
 
 **Editorial Notes**
 
@@ -1645,21 +1645,21 @@ The words “In any suit in equity brought by or under the direction of the Atto
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 48. Information and assistance from departments
+### § 48. Information and assistance from departments
 
 The several departments and bureaus of the Government when directed by the President shall furnish the Commission, upon its request, all records, papers, and information in their possession relating to any corporation subject to any of the provisions of this subchapter, and shall detail from time to time such officials and employees to the Commission as he may direct.
 
-(Sept. 26, 1914, ch. 311, § 8, 38 Stat. 722.)
+(Sept. 26, 1914, ch. 311, § 8, 38 Stat. 722.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 49. Documentary evidence; depositions; witnesses
+### § 49. Documentary evidence; depositions; witnesses
 
 For the purposes of this subchapter the Commission, or its duly authorized agent or agents, shall at all reasonable times have access to, for the purpose of examination, and the right to copy any documentary evidence of any person, partnership, or corporation being investigated or proceeded against; and the Commission shall have power to require by subpoena the attendance and testimony of witnesses and the production of all such documentary evidence relating to any matter under investigation. Any member of the Commission may sign subpoenas, and members and examiners of the Commission may administer oaths and affirmations, examine witnesses, and receive evidence.
 
@@ -1673,17 +1673,17 @@ The Commission may order testimony to be taken by deposition in any proceeding o
 
 Witnesses summoned before the Commission shall be paid the same fees and mileage that are paid witnesses in the courts of the United States and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
-(Sept. 26, 1914, ch. 311, § 9, 38 Stat. 722; Pub. L. 91–452, title II, § 211, Oct. 15, 1970, 84 Stat. 929; Pub. L. 93–637, title II, § 203(b), Jan. 4, 1975, 88 Stat. 2198.)
+(Sept. 26, 1914, ch. 311, § 9, 38 Stat. 722; Pub. L. 91–452, title II, § 211, Oct. 15, 1970, 84 Stat. 929; Pub. L. 93–637, title II, § 203(b), Jan. 4, 1975, 88 Stat. 2198.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1975—First par. Pub. L. 93–637, § 203(b)(1), substituted “person, partnership, or corporation” for “corporation”.
+1975—First par. Pub. L. 93–637, § 203(b)(1), substituted “person, partnership, or corporation” for “corporation”.
 
-Third par. Pub. L. 93–637, § 203(b)(2), substituted “person, partnership, or corporation” for “corporation or other person” wherever appearing.
+Third par. Pub. L. 93–637, § 203(b)(2), substituted “person, partnership, or corporation” for “corporation or other person” wherever appearing.
 
-Fourth par. Pub. L. 93–637, § 203(b)(3), substituted “person, partnership, or corporation” for “person or corporation”.
+Fourth par. Pub. L. 93–637, § 203(b)(3), substituted “person, partnership, or corporation” for “person or corporation”.
 
 1970—Seventh par. Pub. L. 91–452 struck out provisions which granted immunity from prosecution for any natural person testifying or producing evidence, documentary or otherwise, before the commission in obedience to a subpoena issued by it.
 
@@ -1701,9 +1701,9 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 50. Offenses and penalties
+### § 50. Offenses and penalties
 
 Any person who shall neglect or refuse to attend and testify, or to answer any lawful inquiry or to produce any documentary evidence, if in his power to do so, in obedience to an order of a district court of the United States directing compliance with the subpoena or lawful requirement of the Commission, shall be guilty of an offense and upon conviction thereof by a court of competent jurisdiction shall be punished by a fine of not less than $1,000 nor more than $5,000, or by imprisonment for not more than one year, or by both such fine and imprisonment.
 
@@ -1713,7 +1713,7 @@ If any persons, partnership, or corporation required by this subchapter to file 
 
 Any officer or employee of the Commission who shall make public any information obtained by the Commission without its authority, unless directed by a court, shall be deemed guilty of a misdemeanor, and, upon conviction thereof, shall be punished by a fine not exceeding $5,000, or by imprisonment not exceeding one year, or by fine and imprisonment, in the discretion of the court.
 
-(Sept. 26, 1914, ch. 311, § 10, 38 Stat. 723; June 25, 1948, ch. 646, § 1, 62 Stat. 909; Pub. L. 93–637, title II, § 203(c), Jan. 4, 1975, 88 Stat. 2199; Pub. L. 96–252, § 6, May 28, 1980, 94 Stat. 376.)
+(Sept. 26, 1914, ch. 311, § 10, 38 Stat. 723; June 25, 1948, ch. 646, § 1, 62 Stat. 909; Pub. L. 93–637, title II, § 203(c), Jan. 4, 1975, 88 Stat. 2199; Pub. L. 96–252, § 6, May 28, 1980, 94 Stat. 376.)
 
 **Editorial Notes**
 
@@ -1721,9 +1721,9 @@ Any officer or employee of the Commission who shall make public any information 
 
 1980—First par. Pub. L. 96–252 inserted “any” after “produce” and “an order of a district court of the United States directing compliance with” after “obedience to”.
 
-1975—Second par. Pub. L. 93–637, § 203(c)(1), substituted “person, partnership, or corporation” for “corporation” wherever appearing.
+1975—Second par. Pub. L. 93–637, § 203(c)(1), substituted “person, partnership, or corporation” for “corporation” wherever appearing.
 
-Third par. Pub. L. 93–637, § 203(c)(2), substituted “If any persons, partnership, or corporation” for “If any corporation”, and “in the case of a corporation or partnership in the district where the corporation or partnership has its principal office or in any district in which it shall do business, and in the case of any person in the district where such person resides or has his principal place of business” for “in the district where the corporation has its principal office or in any district in which it shall do business”.
+Third par. Pub. L. 93–637, § 203(c)(2), substituted “If any persons, partnership, or corporation” for “If any corporation”, and “in the case of a corporation or partnership in the district where the corporation or partnership has its principal office or in any district in which it shall do business, and in the case of any person in the district where such person resides or has his principal place of business” for “in the district where the corporation has its principal office or in any district in which it shall do business”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1739,15 +1739,15 @@ Amendment by Pub. L. 96–252 effective May 28, 1980, see section 23 of Pub. L. 
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 51. Effect on other statutory provisions
+### § 51. Effect on other statutory provisions
 
 Nothing contained in this subchapter shall be construed to prevent or interfere with the enforcement of the provisions of the antitrust Acts or the Acts to regulate commerce, nor shall anything contained in this subchapter be construed to alter, modify, or repeal the said antitrust Acts or the Acts to regulate commerce or any part or parts thereof.
 
-(Sept. 26, 1914, ch. 311, § 11, 38 Stat. 724.)
+(Sept. 26, 1914, ch. 311, § 11, 38 Stat. 724.)
 
-### § 52. Dissemination of false advertisements
+### § 52. Dissemination of false advertisements
 
 **(a) Unlawfulness** It shall be unlawful for any person, partnership, or corporation to disseminate, or cause to be disseminated, any false advertisement—
 
@@ -1759,7 +1759,7 @@ Nothing contained in this subchapter shall be construed to prevent or interfere 
 
 The dissemination or the causing to be disseminated of any false advertisement within the provisions of subsection (a) of this section shall be an unfair or deceptive act or practice in or affecting commerce within the meaning of section 45 of this title.
 
-(Sept. 26, 1914, ch. 311, § 12, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114; amended Pub. L. 93–637, title II, § 201(c), Jan. 4, 1975, 88 Stat. 2193; Pub. L. 103–297, § 8, Aug. 16, 1994, 108 Stat. 1550.)
+(Sept. 26, 1914, ch. 311, § 12, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114; amended Pub. L. 93–637, title II, § 201(c), Jan. 4, 1975, 88 Stat. 2193; Pub. L. 103–297, § 8, Aug. 16, 1994, 108 Stat. 1550.)
 
 **Editorial Notes**
 
@@ -1775,7 +1775,7 @@ Subsec. (b). Pub. L. 93–637 substituted “in or affecting commerce” for “
 
 **Information About Scams Related to COVID–19**
 
-Pub. L. 116–287, § 2, Jan. 5, 2021, 134 Stat. 4882, provided that:
+Pub. L. 116–287, § 2, Jan. 5, 2021, 134 Stat. 4882, provided that:
 
 > **“(a) Dissemination of Information.—**
 
@@ -1799,7 +1799,7 @@ Pub. L. 116–287, § 2, Jan. 5, 2021, 134 Stat. 4882, provided that:
 
 > **“(c) Commission Defined.—** In this section, the term ‘Commission’ means the Federal Trade Commission.”
 
-### § 53. False advertisements; injunctions and restraining orders
+### § 53. False advertisements; injunctions and restraining orders
 
 **(a) Power of Commission; jurisdiction of courts** Whenever the Commission has reason to believe—
 
@@ -1835,15 +1835,15 @@ The verified return by the person serving such process setting forth the manner 
 
 the court shall exclude such issue from the operation of the restraining order or injunction.
 
-(Sept. 26, 1914, ch. 311, § 13, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114; amended Pub. L. 93–153, title IV, § 408(f), Nov. 16, 1973, 87 Stat. 592; Pub. L. 103–312, § 10, Aug. 26, 1994, 108 Stat. 1695.)
+(Sept. 26, 1914, ch. 311, § 13, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114; amended Pub. L. 93–153, title IV, § 408(f), Nov. 16, 1973, 87 Stat. 592; Pub. L. 103–312, § 10, Aug. 26, 1994, 108 Stat. 1695.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsecs. (a), (b). Pub. L. 103–312, § 10(a), in concluding provisions, substituted “Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under section 1391 of title 28. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served on any person, partnership, or corporation wherever it may be found.” for “Any such suit shall be brought in the district in which such person, partnership, or corporation resides or transacts business.”
+1994—Subsecs. (a), (b). Pub. L. 103–312, § 10(a), in concluding provisions, substituted “Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under section 1391 of title 28. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served on any person, partnership, or corporation wherever it may be found.” for “Any such suit shall be brought in the district in which such person, partnership, or corporation resides or transacts business.”
 
-Subsecs. (c), (d). Pub. L. 103–312, § 10(b), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 103–312, § 10(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1973—Subsecs. (b), (c). Pub. L. 93–153 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -1851,9 +1851,9 @@ Subsecs. (c), (d). Pub. L. 103–312, § 10(b), added subsec. (c) and redesign
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 54. False advertisements; penalties
+### § 54. False advertisements; penalties
 
 **(a) Imposition of penalties**
 
@@ -1863,27 +1863,27 @@ Any person, partnership, or corporation who violates any provision of section 52
 
 No publisher, radio-broadcast licensee, or agency or medium for the dissemination of advertising, except the manufacturer, packer, distributor, or seller of the commodity to which the false advertisement relates, shall be liable under this section by reason of the dissemination by him of any false advertisement, unless he has refused, on the request of the Commission, to furnish the Commission the name and post-office address of the manufacturer, packer, distributor, seller, or advertising agency, residing in the United States, who caused him to disseminate such advertisement. No advertising agency shall be liable under this section by reason of the causing by it of the dissemination of any false advertisement, unless it has refused, on the request of the Commission, to furnish the Commission the name and post-office address of the manufacturer, packer, distributor, or seller, residing in the United States, who caused it to cause the dissemination of such advertisement.
 
-(Sept. 26, 1914, ch. 311, § 14, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114.)
+(Sept. 26, 1914, ch. 311, § 14, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Meat Inspection Act, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which is classified to subchapters I to IV (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
+The Meat Inspection Act, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which is classified to subchapters I to IV (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Act Mar. 21, 1938, ch. 49, § 5(b), 52 Stat. 117, provided: “Section 14 of the Federal Trade Commission Act [this section] added to such Act by section 4 of this Act, shall take effect on the expiration of sixty days after the date of the enactment of this Act [Mar. 21, 1938].”
+Act Mar. 21, 1938, ch. 49, § 5(b), 52 Stat. 117, provided: “Section 14 of the Federal Trade Commission Act [this section] added to such Act by section 4 of this Act, shall take effect on the expiration of sixty days after the date of the enactment of this Act [Mar. 21, 1938].”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 55. Additional definitions
+### § 55. Additional definitions
 
 For the purposes of sections 52 to 54 of this title—
 
@@ -1921,7 +1921,7 @@ The term “cosmetic” means (1) articles to be rubbed, poured, sprinkled, or s
 
 **(2)** all substances, mixtures, and compounds which have a consistence similar to that of butter and which contain any edible oils or fats other than milk fat if made in imitation or semblance of butter.
 
-(Sept. 26, 1914, ch. 311, § 15, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114; amended Mar. 16, 1950, ch. 61, § 4(a), (b), 64 Stat. 21; Pub. L. 94–295, § 3(a)(1)(B), May 28, 1976, 90 Stat. 575.)
+(Sept. 26, 1914, ch. 311, § 15, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114; amended Mar. 16, 1950, ch. 61, § 4(a), (b), 64 Stat. 21; Pub. L. 94–295, § 3(a)(1)(B), May 28, 1976, 90 Stat. 575.)
 
 **Editorial Notes**
 
@@ -1929,9 +1929,9 @@ The term “cosmetic” means (1) articles to be rubbed, poured, sprinkled, or s
 
 1976—Subsec. (d). Pub. L. 94–295 expanded definition of “device” to include implements, machines, implants, in vitro reagents, and other similar or related articles, added recognition in the National Formulary or the United States Pharmacopeia, or any supplement to the Formulary or Pharmacopeia, to the enumeration of conditions under which a device may qualify for inclusion under this chapter, and inserted requirements that a device be one which does not achieve any of its principal intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of any of its principal intended purposes.
 
-1950—Subsec. (a). Act Mar. 16, 1950, § 4(a), designated existing provisions as par. (1) and added par. (2) relating to oleomargarine.
+1950—Subsec. (a). Act Mar. 16, 1950, § 4(a), designated existing provisions as par. (1) and added par. (2) relating to oleomargarine.
 
-Subsec. (f). Act Mar. 16, 1950, § 4(b), added subsec. (f).
+Subsec. (f). Act Mar. 16, 1950, § 4(b), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1939,7 +1939,7 @@ Subsec. (f). Act Mar. 16, 1950, § 4(b), added subsec. (f).
 
 Amendment by act Mar. 16, 1950, effective July 1, 1950, see note set out under section 347 of Title 21, Food and Drugs.
 
-### § 56. Commencement, defense, intervention and supervision of litigation and appeal by Commission or Attorney General
+### § 56. Commencement, defense, intervention and supervision of litigation and appeal by Commission or Attorney General
 
 **(a) Procedure for exercise of authority to litigate or appeal**
 
@@ -2011,7 +2011,7 @@ Nothing in this subsection authorizes the payment of claims or judgments from an
 
 The authority provided by this subsection is in addition to any other authority of the Commission or the Attorney General.
 
-(Sept. 26, 1914, ch. 311, § 16, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114; amended Pub. L. 93–153, title IV, § 408(g), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, § 204(a), Jan. 4, 1975, 88 Stat. 2199; Pub. L. 109–455, §§ 5, 7(b), 13, Dec. 22, 2006, 120 Stat. 3375, 3379, 3382; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
+(Sept. 26, 1914, ch. 311, § 16, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114; amended Pub. L. 93–153, title IV, § 408(g), Nov. 16, 1973, 87 Stat. 592; Pub. L. 93–637, title II, § 204(a), Jan. 4, 1975, 88 Stat. 2199; Pub. L. 109–455, §§ 5, 7(b), 13, Dec. 22, 2006, 120 Stat. 3375, 3379, 3382; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
 
 **Amendment of Section**
 
@@ -2021,11 +2021,11 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 
 **Amendments**
 
-2012—Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment notes below.
+2012—Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment notes below.
 
-2006—Subsec. (a)(2)(E). Pub. L. 109–455, § 7(b), which added subpar. (E) reading “under section 57b–2a of this title;”, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
+2006—Subsec. (a)(2)(E). Pub. L. 109–455, § 7(b), which added subpar. (E) reading “under section 57b–2a of this title;”, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
 
-Subsec. (c). Pub. L. 109–455, § 5, which added subsec. (c) relating to attorneys used and money expended for foreign litigation, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
+Subsec. (c). Pub. L. 109–455, § 5, which added subsec. (c) relating to attorneys used and money expended for foreign litigation, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
 
 1975—Pub. L. 93–637 substituted provisions authorizing the Commission at its election to appear in court by its own name and designate its attorneys for such purpose, for provisions relating to the certification of facts by the Commission to the Attorney General who brought the appropriate proceedings, or, after compliance with section 45(m) of this title, itself brought the appropriate proceedings.
 
@@ -2039,21 +2039,21 @@ Amendment by sections 5 and 7(b) of Pub. L. 109–455 repealed effective Sept. 3
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 93–637, title II, § 204(c), Jan. 4, 1975, 88 Stat. 2200, provided that: “The amendment and repeal made by this section [amending this section and repealing section 45(m) of this title] shall not apply to any civil action commenced before the date of enactment of this Act [Jan. 4, 1975].”
+Pub. L. 93–637, title II, § 204(c), Jan. 4, 1975, 88 Stat. 2200, provided that: “The amendment and repeal made by this section [amending this section and repealing section 45(m) of this title] shall not apply to any civil action commenced before the date of enactment of this Act [Jan. 4, 1975].”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 57. Separability clause
+### § 57. Separability clause
 
 If any provision of this subchapter, or the application thereof to any person, partnership, or corporation, or circumstance, is held invalid, the remainder of this subchapter, and the application of such provisions to any other person, partnership, corporation, or circumstance, shall not be affected thereby.
 
-(Sept. 26, 1914, ch. 311, § 17, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114.)
+(Sept. 26, 1914, ch. 311, § 17, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114.)
 
-### § 57a. Unfair or deceptive acts or practices rulemaking proceedings
+### § 57a. Unfair or deceptive acts or practices rulemaking proceedings
 
 **(a) Authority of Commission to prescribe rules and general statements of policy**
 
@@ -2133,9 +2133,9 @@ If any provision of this subchapter, or the application thereof to any person, p
 
 **(B)** For purposes of this section, the term “rulemaking record” means the rule, its statement of basis and purpose, the transcript required by subsection (c)(5), any written submissions, and any other information which the Commission considers relevant to such rule.
 
-**(2)** If the petitioner or the Commission applies to the court for leave to make additional oral submissions or written presentations and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Commission, the court may order the Commission to provide additional opportunity to make such submissions and presentations. The Commission may modify or set aside its rule or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule, and the rule’s statement of basis of 1
+**(2)** If the petitioner or the Commission applies to the court for leave to make additional oral submissions or written presentations and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Commission, the court may order the Commission to provide additional opportunity to make such submissions and presentations. The Commission may modify or set aside its rule or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule, and the rule’s statement of basis of 1
 
-<sup>1</sup>  So in original. Probably should be “and”.
+<sup>1</sup> So in original. Probably should be “and”.
 
 purpose, with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
 
@@ -2165,7 +2165,7 @@ The term “evidence”, as used in this paragraph, means any matter in the rule
 
 **(f) Definitions of banks, savings and loan institutions, and Federal credit unions**
 
-**(1)** Repealed. Pub. L. 111–203, title X, § 1092(2), July 21, 2010, 124 Stat. 2095
+**(1)** Repealed. Pub. L. 111–203, title X, § 1092(2), July 21, 2010, 124 Stat. 2095
 
 **(2) Definition.—** For purposes of this subchapter, the term “bank” means—
 
@@ -2179,9 +2179,9 @@ The term “evidence”, as used in this paragraph, means any matter in the rule
 
 **(4)** For purposes of this subchapter, the term “Federal credit union” has the same meaning as in sections 1766 and 1786 of title 12.
 
-The terms used in this paragraph 2
+The terms used in this paragraph 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.
 
@@ -2189,9 +2189,9 @@ that are not defined in this subchapter or otherwise defined in section 1813(s) 
 
 **(1)** Any person to whom a rule under subsection (a)(1)(B) of this section applies may petition the Commission for an exemption from such rule.
 
-**(2)** If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) to any person or class or 3
+**(2)** If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) to any person or class or 3
 
-<sup>3</sup>  So in original. Probably should be “of”.
+<sup>3</sup> So in original. Probably should be “of”.
 
 persons is not necessary to prevent the unfair or deceptive act or practice to which the rule relates, the Commission may exempt such person or class from all or part of such rule. Section 553 of title 5 shall apply to action under this paragraph.
 
@@ -2215,13 +2215,13 @@ The Commission shall not have any authority to promulgate any rule in the childr
 
 Not later than 60 days after May 28, 1980, the Commission shall publish a proposed rule, and not later than 180 days after May 28, 1980, the Commission shall promulgate a final rule, which shall prohibit any officer, employee, or agent of the Commission with any investigative responsibility or other responsibility relating to any rulemaking proceeding within any operating bureau of the Commission, from communicating or causing to be communicated to any Commissioner or to the personal staff of any Commissioner any fact which is relevant to the merits of such proceeding and which is not on the rulemaking record of such proceeding, unless such communication is made available to the public and is included in the rulemaking record. The provisions of this subsection shall not apply to any communication to the extent such communication is required for the disposition of ex parte matters as authorized by law.
 
-(Sept. 26, 1914, ch. 311, § 18, as added Pub. L. 93–637, title II, § 202(a), Jan. 4, 1975, 88 Stat. 2193; amended Pub. L. 96–37, § 1(c), July 23, 1979, 93 Stat. 95; Pub. L. 96–221, title VI, § 610(b), Mar. 31, 1980, 94 Stat. 174; Pub. L. 96–252, §§ 7–11(a), 12, May 28, 1980, 94 Stat. 376–379; Pub. L. 100–86, title VII, § 715(c), Aug. 10, 1987, 101 Stat. 655; Pub. L. 101–73, title VII, § 744(t), Aug. 9, 1989, 103 Stat. 441; Pub. L. 102–242, title II, § 212(g)(2), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 102–550, title XVI, § 1604(a)(9), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 103–312, §§ 3, 5, Aug. 26, 1994, 108 Stat. 1691, 1692; Pub. L. 103–437, § 5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 109–351, title VII, § 725(g), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, § 123(g), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 111–203, title X, § 1092, July 21, 2010, 124 Stat. 2094.)
+(Sept. 26, 1914, ch. 311, § 18, as added Pub. L. 93–637, title II, § 202(a), Jan. 4, 1975, 88 Stat. 2193; amended Pub. L. 96–37, § 1(c), July 23, 1979, 93 Stat. 95; Pub. L. 96–221, title VI, § 610(b), Mar. 31, 1980, 94 Stat. 174; Pub. L. 96–252, §§ 7–11(a), 12, May 28, 1980, 94 Stat. 376–379; Pub. L. 100–86, title VII, § 715(c), Aug. 10, 1987, 101 Stat. 655; Pub. L. 101–73, title VII, § 744(t), Aug. 9, 1989, 103 Stat. 441; Pub. L. 102–242, title II, § 212(g)(2), Dec. 19, 1991, 105 Stat. 2302; Pub. L. 102–550, title XVI, § 1604(a)(9), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 103–312, §§ 3, 5, Aug. 26, 1994, 108 Stat. 1691, 1692; Pub. L. 103–437, § 5(a), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 109–351, title VII, § 725(g), Oct. 13, 2006, 120 Stat. 2002; Pub. L. 109–356, title I, § 123(g), Oct. 16, 2006, 120 Stat. 2029; Pub. L. 111–203, title X, § 1092, July 21, 2010, 124 Stat. 2094.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (f)(2)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
+Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (f)(2)(B), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 
 **Prior Provisions**
 
@@ -2229,39 +2229,39 @@ A prior section 18 of act Sept. 26, 1914, ch. 311, was renumbered section 28 and
 
 **Amendments**
 
-2010—Subsec. (f). Pub. L. 111–203, § 1092(1), inserted subsec. heading.
+2010—Subsec. (f). Pub. L. 111–203, § 1092(1), inserted subsec. heading.
 
-Subsec. (f)(1). Pub. L. 111–203, § 1092(2), struck out par. (1) which related to prevention of unfair or deceptive acts or practices in or affecting commerce.
+Subsec. (f)(1). Pub. L. 111–203, § 1092(2), struck out par. (1) which related to prevention of unfair or deceptive acts or practices in or affecting commerce.
 
-Subsec. (f)(2). Pub. L. 111–203, § 1092(4)(A), substituted “Definition” for “Enforcement” in heading and “For purposes of this subchapter, the term ‘bank’ means” for “Compliance with regulations prescribed under this subsection shall be enforced under section 1818 of title 12, in the case of” in introductory provisions.
+Subsec. (f)(2). Pub. L. 111–203, § 1092(4)(A), substituted “Definition” for “Enforcement” in heading and “For purposes of this subchapter, the term ‘bank’ means” for “Compliance with regulations prescribed under this subsection shall be enforced under section 1818 of title 12, in the case of” in introductory provisions.
 
-Subsec. (f)(2)(A). Pub. L. 111–203, § 1092(4)(B), struck out “, by the division of consumer affairs established by the Office of the Comptroller of the Currency” before semicolon at end.
+Subsec. (f)(2)(A). Pub. L. 111–203, § 1092(4)(B), struck out “, by the division of consumer affairs established by the Office of the Comptroller of the Currency” before semicolon at end.
 
-Subsec. (f)(2)(B). Pub. L. 111–203, § 1092(4)(C), substituted “25A” for “25(a)” and struck out “, by the division of consumer affairs established by the Board of Governors of the Federal Reserve System” before “; and”.
+Subsec. (f)(2)(B). Pub. L. 111–203, § 1092(4)(C), substituted “25A” for “25(a)” and struck out “, by the division of consumer affairs established by the Board of Governors of the Federal Reserve System” before “; and”.
 
-Subsec. (f)(2)(C). Pub. L. 111–203, § 1092(4)(D), inserted “than” after “other” and struck out “, by the division of consumer affairs established by the Board of Directors of the Federal Deposit Insurance Corporation” before period at end.
+Subsec. (f)(2)(C). Pub. L. 111–203, § 1092(4)(D), inserted “than” after “other” and struck out “, by the division of consumer affairs established by the Board of Directors of the Federal Deposit Insurance Corporation” before period at end.
 
-Subsec. (f)(3). Pub. L. 111–203, § 1092(5), substituted “For purposes of this subchapter, the term ‘savings and loan institution’ has the same meaning as in” for “Compliance with regulations prescribed under this subsection shall be enforced under section 1818 of title 12 with respect to savings associations as defined in”.
+Subsec. (f)(3). Pub. L. 111–203, § 1092(5), substituted “For purposes of this subchapter, the term ‘savings and loan institution’ has the same meaning as in” for “Compliance with regulations prescribed under this subsection shall be enforced under section 1818 of title 12 with respect to savings associations as defined in”.
 
-Subsec. (f)(4). Pub. L. 111–203, § 1092(6), substituted “For purposes of this subchapter, the term ‘Federal credit union’ has the same meaning as in” for “Compliance with regulations prescribed under this subsection shall be enforced with respect to Federal credit unions under”.
+Subsec. (f)(4). Pub. L. 111–203, § 1092(6), substituted “For purposes of this subchapter, the term ‘Federal credit union’ has the same meaning as in” for “Compliance with regulations prescribed under this subsection shall be enforced with respect to Federal credit unions under”.
 
-Subsec. (f)(5) to (7). Pub. L. 111–203, § 1092(3), struck out pars. (5) to (7) which related to violation of regulations, authority to make rules relating to compliance, and annual report to Congress by each agency exercising authority.
+Subsec. (f)(5) to (7). Pub. L. 111–203, § 1092(3), struck out pars. (5) to (7) which related to violation of regulations, authority to make rules relating to compliance, and annual report to Congress by each agency exercising authority.
 
-2006—Subsec. (f)(2)(A), (B). Pub. L. 109–351 and Pub. L. 109–356 amended par. (2) identically, striking out “, banks operating under the code of law for the District of Columbia,” after “national banks” in subpar. (A) and “and banks operating under the code of law for the District of Columbia” after “(other than national banks” in subpar. (B).
+2006—Subsec. (f)(2)(A), (B). Pub. L. 109–351 and Pub. L. 109–356 amended par. (2) identically, striking out “, banks operating under the code of law for the District of Columbia,” after “national banks” in subpar. (A) and “and banks operating under the code of law for the District of Columbia” after “(other than national banks” in subpar. (B).
 
-1994—Subsec. (a)(1). Pub. L. 103–312, § 3(b), substituted “subsection (h)” for “subsection (i)” in introductory provisions.
+1994—Subsec. (a)(1). Pub. L. 103–312, § 3(b), substituted “subsection (h)” for “subsection (i)” in introductory provisions.
 
 Subsec. (b)(2)(B), (C). Pub. L. 103–437 substituted “Committee on Energy and Commerce” for “Committee on Interstate and Foreign Commerce”.
 
-Subsec. (b)(3). Pub. L. 103–312, § 5, added par. (3).
+Subsec. (b)(3). Pub. L. 103–312, § 5, added par. (3).
 
-Subsecs. (h) to (k). Pub. L. 103–312, § 3(a), redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h) which provided for compensation for attorney fees, expert witness fees, etc., incurred in rulemaking proceedings, limitation on amount, and establishment of small business outreach program.
+Subsecs. (h) to (k). Pub. L. 103–312, § 3(a), redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h) which provided for compensation for attorney fees, expert witness fees, etc., incurred in rulemaking proceedings, limitation on amount, and establishment of small business outreach program.
 
 1992—Subsec. (f)(2)(A). Pub. L. 102–550 substituted “division” for “divisions”.
 
-1991—Subsec. (f). Pub. L. 102–242, § 212(g)(2)(B), inserted at end “The terms used in this paragraph that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.”
+1991—Subsec. (f). Pub. L. 102–242, § 212(g)(2)(B), inserted at end “The terms used in this paragraph that are not defined in this subchapter or otherwise defined in section 1813(s) of title 12 shall have the meaning given to them in section 3101 of title 12.”
 
-Subsec. (f)(2). Pub. L. 102–242, § 212(g)(2)(A), added par. (2) and struck out former par. (2) which read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under section 1818 of title 12, in the case of—
+Subsec. (f)(2). Pub. L. 102–242, § 212(g)(2)(A), added par. (2) and struck out former par. (2) which read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under section 1818 of title 12, in the case of—
 
 “(A) national banks and banks operating under the code of law for the District of Columbia, by the division of consumer affairs established by the Comptroller of the Currency;
 
@@ -2271,43 +2271,43 @@ Subsec. (f)(2). Pub. L. 102–242, § 212(g)(2)(A), added par. (2) and struck 
 
 1989—Subsec. (f)(3). Pub. L. 101–73 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Compliance with regulations prescribed under this subsection shall be enforced under section 5 of the Home Owners’ Loan Act of 1933 (12 U.S.C. 1464) with respect to Federal savings and loan associations, section 407 of the National Housing Act (12 U.S.C. 1730) with respect to insured institutions, and sections 6(i) and 17 of the Federal Home Loan Bank Act (12 U.S.C. 1426(i), 1437) with respect to savings and loan institutions which are members of a Federal Home Loan Bank, by a division of consumer affairs to be established by the Federal Home Loan Bank Board pursuant to the Federal Home Loan Bank Act.”
 
-1987—Subsec. (f)(1). Pub. L. 100–86, § 715(c)(1), (2), in second sentence inserted “and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))” and in last sentence inserted “or Federal credit unions described in paragraph (4),” in two places, substituted “any such” for “either such”, and inserted “, savings and loan institutions or Federal credit unions”.
+1987—Subsec. (f)(1). Pub. L. 100–86, § 715(c)(1), (2), in second sentence inserted “and the National Credit Union Administration Board (with respect to Federal credit unions described in paragraph (4))” and in last sentence inserted “or Federal credit unions described in paragraph (4),” in two places, substituted “any such” for “either such”, and inserted “, savings and loan institutions or Federal credit unions”.
 
-Subsec. (f)(4) to (7). Pub. L. 100–86, § 715(c)(3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
+Subsec. (f)(4) to (7). Pub. L. 100–86, § 715(c)(3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
-1980—Subsec. (a)(1). Pub. L. 96–252, §§ 7, 11(a)(2), in provisions preceding subpar. (A) substituted “Except as provided in subsection (i), the” for “The” and in subpar. (B) inserted “, except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section” after “section 45(a)(1) of this title)”.
+1980—Subsec. (a)(1). Pub. L. 96–252, §§ 7, 11(a)(2), in provisions preceding subpar. (A) substituted “Except as provided in subsection (i), the” for “The” and in subpar. (B) inserted “, except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section” after “section 45(a)(1) of this title)”.
 
-Subsec. (b). Pub. L. 96–252, §§ 8(a), 11(a)(3), designated existing provisions as par. (1) and cls. (1) to (4) thereof as subpars. (A) to (D) and, subpar. (A) thereof, inserted “the text of the rule, including any alternatives, which the Commission proposes to promulgate, and” after “particularity”, and added par. (2).
+Subsec. (b). Pub. L. 96–252, §§ 8(a), 11(a)(3), designated existing provisions as par. (1) and cls. (1) to (4) thereof as subpars. (A) to (D) and, subpar. (A) thereof, inserted “the text of the rule, including any alternatives, which the Commission proposes to promulgate, and” after “particularity”, and added par. (2).
 
-Subsec. (c). Pub. L. 96–252, § 8(b)(1), in provisions preceding par. (1) substituted “subsection (b)(1)(C)” for “subsection (b)(3)”.
+Subsec. (c). Pub. L. 96–252, § 8(b)(1), in provisions preceding par. (1) substituted “subsection (b)(1)(C)” for “subsection (b)(3)”.
 
-Subsec. (c)(1). Pub. L. 96–252, § 9(a)(2), added par. (1). Former par. (1) redesignated (2).
+Subsec. (c)(1). Pub. L. 96–252, § 9(a)(2), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (c)(2). Pub. L. 96–252, § 9(a)(1), (b)(1), redesignated former par. (1) as (2), substituted “paragraph (3)” for “paragraph (2)” and “paragraph (3)(B)” for “paragraph (2)(B)”. Former par. (2) redesignated (3).
+Subsec. (c)(2). Pub. L. 96–252, § 9(a)(1), (b)(1), redesignated former par. (1) as (2), substituted “paragraph (3)” for “paragraph (2)” and “paragraph (3)(B)” for “paragraph (2)(B)”. Former par. (2) redesignated (3).
 
-Subsec. (c)(3). Pub. L. 96–252, § 9(a)(1), (b)(2), redesignated former par. (2) as (3) and substituted “paragraph (2)” for “paragraph (1)”. Former par. (3) redesignated (4).
+Subsec. (c)(3). Pub. L. 96–252, § 9(a)(1), (b)(2), redesignated former par. (2) as (3) and substituted “paragraph (2)” for “paragraph (1)”. Former par. (3) redesignated (4).
 
-Subsec. (c)(4), (5). Pub. L. 96–252, § 9(a)(1), (b)(3), redesignated former par. (3) as (4) and substituted in subpar. (A) “paragraph (2) and (3)” for “paragraphs (1) and (2)”. Former par. (4) redesignated (5).
+Subsec. (c)(4), (5). Pub. L. 96–252, § 9(a)(1), (b)(3), redesignated former par. (3) as (4) and substituted in subpar. (A) “paragraph (2) and (3)” for “paragraphs (1) and (2)”. Former par. (4) redesignated (5).
 
-Subsec. (e). Pub. L. 96–252, §§ 8(b)(2), 9(c), substituted in par. (1)(B) “subsection (c)(5)” for “subsection (c)(4)” and in par. (5)(C) “subsection (b)(1)(D)” for “subsection (b)(4)”.
+Subsec. (e). Pub. L. 96–252, §§ 8(b)(2), 9(c), substituted in par. (1)(B) “subsection (c)(5)” for “subsection (c)(4)” and in par. (5)(C) “subsection (b)(1)(D)” for “subsection (b)(4)”.
 
 Subsec. (f)(6). Pub. L. 96–221 struck out requirement that the report be made not later than every March 15.
 
-Subsec. (h)(2). Pub. L. 96–252, § 10(b), substituted provisions reserving an amount equal to 25 percent of the amount appropriated for the payment of compensation under this subsection to be available solely for the payment of compensation to persons who either would be regulated by a proposed rule or represent persons who would be so regulated for provisions restricting the aggregate amount of compensation paid under this subsection in any fiscal year to all persons, who in rulemaking proceedings in which they receive compensation, are persons who would be regulated by the proposed rule or represent persons who would be so regulated, to an amount not in excess of 25 percent of the aggregate amount paid as compensation under this subsection.
+Subsec. (h)(2). Pub. L. 96–252, § 10(b), substituted provisions reserving an amount equal to 25 percent of the amount appropriated for the payment of compensation under this subsection to be available solely for the payment of compensation to persons who either would be regulated by a proposed rule or represent persons who would be so regulated for provisions restricting the aggregate amount of compensation paid under this subsection in any fiscal year to all persons, who in rulemaking proceedings in which they receive compensation, are persons who would be regulated by the proposed rule or represent persons who would be so regulated, to an amount not in excess of 25 percent of the aggregate amount paid as compensation under this subsection.
 
-Subsec. (h)(3). Pub. L. 96–252, § 10(a), (e), temporarily added par. (3) and redesignated former par. (3) as (4). See Effective and Termination Dates of 1980 Amendments note below.
+Subsec. (h)(3). Pub. L. 96–252, § 10(a), (e), temporarily added par. (3) and redesignated former par. (3) as (4). See Effective and Termination Dates of 1980 Amendments note below.
 
-Subsec. (h)(4). Pub. L. 96–252, § 10(a), (c), (e), temporarily redesignated former par. (3) as (4) and substituted “$750,000” for “$1,000,000”. See Effective and Termination Dates of 1980 Amendments note below.
+Subsec. (h)(4). Pub. L. 96–252, § 10(a), (c), (e), temporarily redesignated former par. (3) as (4) and substituted “$750,000” for “$1,000,000”. See Effective and Termination Dates of 1980 Amendments note below.
 
-Subsec. (h)(5). Pub. L. 96–252, § 10(d), (e), added par. (5) to be redesignated (4) effective Sept. 30, 1983. See Effective and Termination Dates of 1980 Amendments note below.
+Subsec. (h)(5). Pub. L. 96–252, § 10(d), (e), added par. (5) to be redesignated (4) effective Sept. 30, 1983. See Effective and Termination Dates of 1980 Amendments note below.
 
-Subsec. (i). Pub. L. 96–252, § 11(a)(1), added subsec. (i).
+Subsec. (i). Pub. L. 96–252, § 11(a)(1), added subsec. (i).
 
-Subsecs. (j), (k). Pub. L. 96–252, § 12, added subsecs. (j) and (k).
+Subsecs. (j), (k). Pub. L. 96–252, § 12, added subsecs. (j) and (k).
 
-1979—Subsec. (f)(1). Pub. L. 96–37, § 1(c)(1), inserted provisions relating to savings and loan institutions and to regulations with respect to savings and loan institutions promulgated by Federal Home Loan Bank Board.
+1979—Subsec. (f)(1). Pub. L. 96–37, § 1(c)(1), inserted provisions relating to savings and loan institutions and to regulations with respect to savings and loan institutions promulgated by Federal Home Loan Bank Board.
 
-Subsec. (f)(3) to (6). Pub. L. 96–37, § 1(c)(2), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
+Subsec. (f)(3) to (6). Pub. L. 96–37, § 1(c)(2), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2329,11 +2329,11 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 **Effective and Termination Dates of 1980 Amendments**
 
-Pub. L. 96–252, § 10(e), May 28, 1980, 94 Stat. 378, provided that: “The amendments made in subsection (a) and subsection (c) [amending this section] are repealed, effective at the end of fiscal year 1982. Effective upon such repeal, paragraph (5) of section 18(h) of the Federal Trade Commission Act [subsec. (h)(5) of this section], as added by subsection (d), is redesignated as paragraph (4) of section 18(h) of such Act.”
+Pub. L. 96–252, § 10(e), May 28, 1980, 94 Stat. 378, provided that: “The amendments made in subsection (a) and subsection (c) [amending this section] are repealed, effective at the end of fiscal year 1982. Effective upon such repeal, paragraph (5) of section 18(h) of the Federal Trade Commission Act [subsec. (h)(5) of this section], as added by subsection (d), is redesignated as paragraph (4) of section 18(h) of such Act.”
 
-Pub. L. 97–377, title I, § 101(d), Dec. 21, 1982, 96 Stat. 1866, 1870, provided in part that: “Notwithstanding any other provision of law, the provisions of sections 10 [amending this section and enacting provision set out as first paragraph of this note], 11(b) [set out as a note below], 18 [set out as a note under section 57c of this title], 20 [set out as a note under section 57c of this title] and 21 [enacting section 57a–1 of this title and enacting a provision set out as a note under section 57a–1 of this title], of the Federal Trade Commission Improvements Act of 1980 (Public Law 96–252; 94 Stat. 374) are hereby extended until the termination date set forth in section 102(c) of H.J. Res. 631 [Sept. 30, 1983] as enacted into law [Pub. L. 97–377], notwithstanding subsections 10(e) [see paragraph above] and 21(i) [set out as a note under section 57a–1 of this title] of the Federal Trade Commission Improvements Act of 1980 (Public Law 96–252; 94 Stat. 374).”
+Pub. L. 97–377, title I, § 101(d), Dec. 21, 1982, 96 Stat. 1866, 1870, provided in part that: “Notwithstanding any other provision of law, the provisions of sections 10 [amending this section and enacting provision set out as first paragraph of this note], 11(b) [set out as a note below], 18 [set out as a note under section 57c of this title], 20 [set out as a note under section 57c of this title] and 21 [enacting section 57a–1 of this title and enacting a provision set out as a note under section 57a–1 of this title], of the Federal Trade Commission Improvements Act of 1980 (Public Law 96–252; 94 Stat. 374) are hereby extended until the termination date set forth in section 102(c) of H.J. Res. 631 [Sept. 30, 1983] as enacted into law [Pub. L. 97–377], notwithstanding subsections 10(e) [see paragraph above] and 21(i) [set out as a note under section 57a–1 of this title] of the Federal Trade Commission Improvements Act of 1980 (Public Law 96–252; 94 Stat. 374).”
 
-Pub. L. 96–252, § 11(c), May 28, 1980, 94 Stat. 379, provided that: “The amendments made in subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [May 28, 1980]. The children’s advertising proceeding pending on the date of the enactment of this Act shall not proceed further until such time as the Commission has complied with section 18(b)(1)(A) of the Federal Trade Commission Act [subsec. (b)(1)(A) of this section], as amended by subsection (a)(3) and as so redesignated in section 8(a). In any such further proceeding, interested parties shall be given a reasonable opportunity to present their views in accordance with section 18(b)(1)(B) of the Federal Trade Commission Act, as so redesignated in section 8(a) [subsec. (b)(1)(B) of this section], section 18(b)(1)(C) of such Act, as so redesignated in section 8(a) [subsec. (b)(1)(C) of this section], and section 18(c) of such Act (15 U.S.C. 57a(c)).”
+Pub. L. 96–252, § 11(c), May 28, 1980, 94 Stat. 379, provided that: “The amendments made in subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [May 28, 1980]. The children’s advertising proceeding pending on the date of the enactment of this Act shall not proceed further until such time as the Commission has complied with section 18(b)(1)(A) of the Federal Trade Commission Act [subsec. (b)(1)(A) of this section], as amended by subsection (a)(3) and as so redesignated in section 8(a). In any such further proceeding, interested parties shall be given a reasonable opportunity to present their views in accordance with section 18(b)(1)(B) of the Federal Trade Commission Act, as so redesignated in section 8(a) [subsec. (b)(1)(B) of this section], section 18(b)(1)(C) of such Act, as so redesignated in section 8(a) [subsec. (b)(1)(C) of this section], and section 18(c) of such Act (15 U.S.C. 57a(c)).”
 
 Amendment by Pub. L. 96–252 effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as an Effective Date of 1980 Amendment note under section 45 of this title.
 
@@ -2341,19 +2341,19 @@ Amendment by Pub. L. 96–221 effective on expiration of two years and six month
 
 **Restriction on Use of Funds for Purpose of Initiating New Rulemaking Proceeding**
 
-Pub. L. 96–252, § 11(b), May 28, 1980, 94 Stat. 379, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I § 101(d), Dec. 21, 1982, 96 Stat. 1870), under section 57c of this title, for the purpose of initiating any new rulemaking proceeding under this section which was intended to result in, or which might result in, the promulgation of any rule by the Commission which prohibited or otherwise regulated any commercial advertising on the basis of a determination by the Commission that such commercial advertising constituted an unfair act or practice in or affecting commerce.
+Pub. L. 96–252, § 11(b), May 28, 1980, 94 Stat. 379, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I § 101(d), Dec. 21, 1982, 96 Stat. 1870), under section 57c of this title, for the purpose of initiating any new rulemaking proceeding under this section which was intended to result in, or which might result in, the promulgation of any rule by the Commission which prohibited or otherwise regulated any commercial advertising on the basis of a determination by the Commission that such commercial advertising constituted an unfair act or practice in or affecting commerce.
 
 **Restriction on Use of Funds Respecting Regulation of Funeral Industry; Exception**
 
-Pub. L. 96–252, § 19, May 28, 1980, 94 Stat. 391, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982, under section 57c of this title to issue the proposed trade regulation rule which was published in the Federal Register of Aug. 29, 1975, beginning at page 39901, and which relates to the regulation of funeral industry practices, in final form or a substantially similar proposed or final trade regulation rule unless the final rule met specific requirements and the Commission followed specific procedures.
+Pub. L. 96–252, § 19, May 28, 1980, 94 Stat. 391, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982, under section 57c of this title to issue the proposed trade regulation rule which was published in the Federal Register of Aug. 29, 1975, beginning at page 39901, and which relates to the regulation of funeral industry practices, in final form or a substantially similar proposed or final trade regulation rule unless the final rule met specific requirements and the Commission followed specific procedures.
 
 **Oversight Hearings With Respect to Federal Trade Commission**
 
-Pub. L. 96–252, § 22, May 28, 1980, 94 Stat. 396, required the Consumer Subcommittee of the Committee on Commerce, Science, and Transportation of the Senate to conduct an oversight hearing with respect to the Federal Trade Commission at least once during the first 6 calendar months, and at least once during the last 6 calendar months, of each of the fiscal years 1980, 1981, and 1982.
+Pub. L. 96–252, § 22, May 28, 1980, 94 Stat. 396, required the Consumer Subcommittee of the Committee on Commerce, Science, and Transportation of the Senate to conduct an oversight hearing with respect to the Federal Trade Commission at least once during the first 6 calendar months, and at least once during the last 6 calendar months, of each of the fiscal years 1980, 1981, and 1982.
 
 **Applicability of Unfair or Deceptive Acts or Practices Rulemaking Procedures to Rules Classifying Corporations Promulgated Prior to January 4, 1975**
 
-Pub. L. 93–637, title II, § 202(c), Jan. 4, 1975, 88 Stat. 2198, provided that:
+Pub. L. 93–637, title II, § 202(c), Jan. 4, 1975, 88 Stat. 2198, provided that:
 
 > **“(1)** The amendments made by subsections (a) and (b) of this section [enacting this section and amending section 46 of this title] shall not affect the validity of any rule which was promulgated under section 6(g) of the Federal Trade Commission Act [section 46(g) of this title] prior to the date of enactment of this section [Jan. 4, 1975]. Any proposed rule under section 6(g) of such Act with respect to which presentation of data, views, and arguments was substantially completed before such date may be promulgated in the same manner and with the same validity as such rule could have been promulgated had this section not been enacted.
 
@@ -2361,25 +2361,25 @@ Pub. L. 93–637, title II, § 202(c), Jan. 4, 1975, 88 Stat. 2198, provided t
 
 **Study, Evaluation, and Report by Federal Trade Commission and Administrative Conference of United States on Unfair or Deceptive Acts or Practices; Rulemaking Procedures**
 
-Pub. L. 93–637, title II, § 202(d), Jan. 4, 1975, 88 Stat. 2198, as amended by Pub. L. 94–299, § 2, May 29, 1976, 90 Stat. 588; Pub. L. 95–558, Nov. 1, 1978, 92 Stat. 2130, required the Federal Trade Commission and the Administrative Conference of the United States, not later than June 30, 1979, to conduct a study and submit a report to Congress on the rulemaking procedures under section 57a of this title.
+Pub. L. 93–637, title II, § 202(d), Jan. 4, 1975, 88 Stat. 2198, as amended by Pub. L. 94–299, § 2, May 29, 1976, 90 Stat. 588; Pub. L. 95–558, Nov. 1, 1978, 92 Stat. 2130, required the Federal Trade Commission and the Administrative Conference of the United States, not later than June 30, 1979, to conduct a study and submit a report to Congress on the rulemaking procedures under section 57a of this title.
 
-### § 57a–1. Omitted
+### § 57a–1. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 96–252, § 21(a)–(h), May 28, 1980, 94 Stat. 393; H. Res. 549, Mar. 25, 1980; Pub. L. 98–620, title IV, § 402(13), Nov. 8, 1984, 98 Stat. 3358, provided procedures for review by Congress of final rules promulgated by the Federal Trade Commission.
+Section, Pub. L. 96–252, § 21(a)–(h), May 28, 1980, 94 Stat. 393; H. Res. 549, Mar. 25, 1980; Pub. L. 98–620, title IV, § 402(13), Nov. 8, 1984, 98 Stat. 3358, provided procedures for review by Congress of final rules promulgated by the Federal Trade Commission.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date; Termination Date**
 
-Pub. L. 96–252, § 21(i), May 28, 1980, 94 Stat. 396, provided that: “The provisions of this section shall take effect on the date of the enactment of this Act [May 28, 1980] and shall cease to have any force or effect after September 30, 1982.”
+Pub. L. 96–252, § 21(i), May 28, 1980, 94 Stat. 396, provided that: “The provisions of this section shall take effect on the date of the enactment of this Act [May 28, 1980] and shall cease to have any force or effect after September 30, 1982.”
 
-Pub. L. 97–377, title I, § 101(d), Dec. 21, 1982, 96 Stat. 1870, provided in part that notwithstanding any other provision of law, the provisions of section 21 of the Federal Trade Commission Improvements Act of 1980 [Pub. L. 96–252], which enacted this section and enacted provisions set out as a note under this section, were extended until Sept. 30, 1983, notwithstanding section 21(i) of such Act.
+Pub. L. 97–377, title I, § 101(d), Dec. 21, 1982, 96 Stat. 1870, provided in part that notwithstanding any other provision of law, the provisions of section 21 of the Federal Trade Commission Improvements Act of 1980 [Pub. L. 96–252], which enacted this section and enacted provisions set out as a note under this section, were extended until Sept. 30, 1983, notwithstanding section 21(i) of such Act.
 
-### § 57b. Civil actions for violations of rules and cease and desist orders respecting unfair or deceptive acts or practices
+### § 57b. Civil actions for violations of rules and cease and desist orders respecting unfair or deceptive acts or practices
 
 **(a) Suits by Commission against persons, partnerships, or corporations; jurisdiction; relief for dishonest or fraudulent acts**
 
@@ -2405,13 +2405,13 @@ No action may be brought by the Commission under this section more than 3 years 
 
 Remedies provided in this section are in addition to, and not in lieu of, any other remedy or right of action provided by State or Federal law. Nothing in this section shall be construed to affect any authority of the Commission under any other provision of law.
 
-(Sept. 26, 1914, ch. 311, § 19, as added Pub. L. 93–637, title II, § 206(a), Jan. 4, 1975, 88 Stat. 2201.)
+(Sept. 26, 1914, ch. 311, § 19, as added Pub. L. 93–637, title II, § 206(a), Jan. 4, 1975, 88 Stat. 2201.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 93–637, title II, § 206(b), Jan. 4, 1975, 88 Stat. 2202, provided that:
+Pub. L. 93–637, title II, § 206(b), Jan. 4, 1975, 88 Stat. 2202, provided that:
 
 > “The amendment made by subsection (a) of this section [enacting this section] shall not apply to—
 
@@ -2419,7 +2419,7 @@ Pub. L. 93–637, title II, § 206(b), Jan. 4, 1975, 88 Stat. 2202, provided t
 
 > **“(2)** any act or practice with respect to which the Commission issues a cease-and-desist order, to the extent that such act or practice occurred before the date of enactment of this Act [Jan. 4, 1975], unless such order was issued after such date and the person, partnership or corporation against whom such an order was issued had been notified in the complaint, or in the notice or order attached thereto, that consumer redress may be sought.”
 
-### § 57b–1. Civil investigative demands
+### § 57b–1. Civil investigative demands
 
 **(a) Definitions** For purposes of this section:
 
@@ -2577,7 +2577,7 @@ Notwithstanding any other provision of law, the Commission shall have no authori
 
 **(2)** apply to or affect the jurisdiction, duties, or powers of any agency of the Federal Government, other than the Commission, regardless of whether such jurisdiction, duties, or powers are derived in whole or in part, by reference to this subchapter.
 
-(Sept. 26, 1914, ch. 311, § 20, as added Pub. L. 96–252, § 13, May 28, 1980, 94 Stat. 380; amended Pub. L. 103–312, § 7, Aug. 26, 1994, 108 Stat. 1693; Pub. L. 103–438, § 3(e)(2)(B), Nov. 2, 1994, 108 Stat. 4598.)
+(Sept. 26, 1914, ch. 311, § 20, as added Pub. L. 96–252, § 13, May 28, 1980, 94 Stat. 380; amended Pub. L. 103–312, § 7, Aug. 26, 1994, 108 Stat. 1693; Pub. L. 103–438, § 3(e)(2)(B), Nov. 2, 1994, 108 Stat. 4598.)
 
 **Editorial Notes**
 
@@ -2585,7 +2585,7 @@ Notwithstanding any other provision of law, the Commission shall have no authori
 
 The Clayton Act, referred to in subsec. (a)(8)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of this title and Tables.
 
-The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a)(8)(C), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The International Antitrust Enforcement Assistance Act of 1994, referred to in subsec. (a)(8)(C), is Pub. L. 103–438, Nov. 2, 1994, 108 Stat. 4597, which is classified principally to chapter 88 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 **Prior Provisions**
 
@@ -2593,23 +2593,23 @@ A prior section 20 of act Sept. 26, 1914, ch. 311, was renumbered section 24 and
 
 **Amendments**
 
-1994—Subsec. (a)(2). Pub. L. 103–312, § 7(a)(1), inserted before period at end “or in any antitrust violations”.
+1994—Subsec. (a)(2). Pub. L. 103–312, § 7(a)(1), inserted before period at end “or in any antitrust violations”.
 
-Subsec. (a)(3). Pub. L. 103–312, § 7(a)(2), inserted before period at end “or any provisions relating to antitrust violations”.
+Subsec. (a)(3). Pub. L. 103–312, § 7(a)(2), inserted before period at end “or any provisions relating to antitrust violations”.
 
-Subsec. (a)(7). Pub. L. 103–312, § 7(a)(3), inserted before period at end “or any antitrust violation”.
+Subsec. (a)(7). Pub. L. 103–312, § 7(a)(3), inserted before period at end “or any antitrust violation”.
 
 Subsec. (a)(8). Pub. L. 103–438 amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The term ‘antitrust violation’ means any unfair method of competition (within the meaning of section 45(a)(1) of this title), any violation of the Clayton Act, any violation of any other Federal statute that prohibits, or makes available to the Commission a civil remedy with respect to, any restraint upon or monopolization of interstate or foreign trade or commerce, or any activity in preparation for a merger, acquisition, joint venture, or similar transaction, which if consummated, may result in such an unfair method of competition or violation.”
 
-Pub. L. 103–312, § 7(a)(4), added par. (8).
+Pub. L. 103–312, § 7(a)(4), added par. (8).
 
-Subsec. (c)(1). Pub. L. 103–312, § 7(b)(1), inserted “or tangible things” after “control of any documentary material”, “or to antitrust violations,” after “section 45(a)(1) of this title),”, and “to submit such tangible things,” after “copying or reproduction,”.
+Subsec. (c)(1). Pub. L. 103–312, § 7(b)(1), inserted “or tangible things” after “control of any documentary material”, “or to antitrust violations,” after “section 45(a)(1) of this title),”, and “to submit such tangible things,” after “copying or reproduction,”.
 
-Subsec. (c)(4) to (14). Pub. L. 103–312, § 7(b)(2), added pars. (4) and (12) and redesignated former pars. (4) to (10), (11), and (12) as (5) to (11), (13), and (14), respectively.
+Subsec. (c)(4) to (14). Pub. L. 103–312, § 7(b)(2), added pars. (4) and (12) and redesignated former pars. (4) to (10), (11), and (12) as (5) to (11), (13), and (14), respectively.
 
-Subsec. (g). Pub. L. 103–312, § 7(c), inserted “, tangible things” after “documentary material”.
+Subsec. (g). Pub. L. 103–312, § 7(c), inserted “, tangible things” after “documentary material”.
 
-Subsec. (j)(1). Pub. L. 103–312, § 7(d), inserted before semicolon at end “, any proceeding under section 11(b) of the Clayton Act (15 U.S.C. 21(b)), or any adjudicative proceeding under any other provision of law”.
+Subsec. (j)(1). Pub. L. 103–312, § 7(d), inserted before semicolon at end “, any proceeding under section 11(b) of the Clayton Act (15 U.S.C. 21(b)), or any adjudicative proceeding under any other provision of law”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2621,15 +2621,15 @@ Amendment by Pub. L. 103–312 applicable only with respect to compulsory proces
 
 Section effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as an Effective Date of 1980 Amendment note under section 45 of this title.
 
-### § 57b–2. Confidentiality
+### § 57b–2. Confidentiality
 
 **(a) Definitions** For purposes of this section:
 
 **(1)** The term “material” means documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony.
 
-**(2)** The term “Federal agency” has the meaning given it in section 552(e) 1
+**(2)** The term “Federal agency” has the meaning given it in section 552(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5.
 
@@ -2681,7 +2681,7 @@ then the custodian shall, upon written request of the person who produced the ma
 
 **(C)** the appropriate Federal banking agency (as defined in section 1813(q) of title 12) or, in the case of a Federal credit union, the National Credit Union Administration, has given its prior approval if the materials to be provided under subparagraph (B) are requested by the foreign law enforcement agency for the purpose of investigating, or engaging in enforcement proceedings based on, possible violations of law by a bank, a savings and loan institution described in section 57a(f)(3) of this title, or a Federal credit union described in section 57a(f)(4) of this title; and
 
-**(D)** the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) <sup>1</sup> of title 50.
+**(D)** the foreign law enforcement agency is not from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) <sup>1</sup> of title 50.
 
 Nothing in the preceding sentence authorizes the disclosure of material obtained in connection with the administration of the Federal antitrust laws or foreign antitrust laws (as defined in paragraphs (5) and (7), respectively, of section 6211 of this title) to any officer or employee of a foreign law enforcement agency.
 
@@ -2711,7 +2711,7 @@ Any successor designated under paragraph (2)(A) as a result of the requirements 
 
 **(C)** the disclosure of relevant and material information in Commission adjudicative proceedings or in judicial proceedings to which the Commission is a party; or
 
-**(D)** the disclosure to a Federal agency of disaggregated information obtained in accordance with section 3512 <sup>1</sup> of title 44, except that the recipient agency shall use such disaggregated information for economic, statistical, or policymaking purposes only, and shall not disclose such information in an individually identifiable form.
+**(D)** the disclosure to a Federal agency of disaggregated information obtained in accordance with section 3512 <sup>1</sup> of title 44, except that the recipient agency shall use such disaggregated information for economic, statistical, or policymaking purposes only, and shall not disclose such information in an individually identifiable form.
 
 **(2)** Any disclosure of relevant and material information in Commission adjudicative proceedings or in judicial proceedings to which the Commission is a party shall be governed by the rules of the Commission for adjudicative proceedings or by court rules or orders, except that the rules of the Commission shall not be amended in a manner inconsistent with the purposes of this section.
 
@@ -2739,7 +2739,7 @@ Any material which is received by the Commission in any investigation, a purpose
 
 Nothing in this subsection shall authorize the Commission to withhold information from the Congress or prevent the Commission from complying with an order of a court of the United States in an action commenced by the United States or the Commission.
 
-(Sept. 26, 1914, ch. 311, § 21, as added Pub. L. 96–252, § 14, May 28, 1980, 94 Stat. 385; amended Pub. L. 103–312, § 8, Aug. 26, 1994, 108 Stat. 1694; Pub. L. 109–455, §§ 6, 13, Dec. 22, 2006, 120 Stat. 3376, 3382; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
+(Sept. 26, 1914, ch. 311, § 21, as added Pub. L. 96–252, § 14, May 28, 1980, 94 Stat. 385; amended Pub. L. 103–312, § 8, Aug. 26, 1994, 108 Stat. 1694; Pub. L. 109–455, §§ 6, 13, Dec. 22, 2006, 120 Stat. 3376, 3382; Pub. L. 112–203, § 1, Dec. 4, 2012, 126 Stat. 1484.)
 
 **Amendment of Section**
 
@@ -2751,7 +2751,7 @@ For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date
 
 Section 552(e) of title 5, referred to in subsec. (a)(2), was redesignated section 552(f) of Title 5, Government Organization and Employees, by section 1802(b) of Pub. L. 99–570.
 
-Section 4605(j) of title 50, referred to in subsec. (b)(6)(D), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
+Section 4605(j) of title 50, referred to in subsec. (b)(6)(D), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. For provisions similar to those of former section 4605(j) of title 50, see section 4813(c) of title 50, as enacted by Pub. L. 115–232.
 
 Section 3512 of title 44, referred to in subsec. (d)(1)(D), which related to requirements for the collection of information by independent Federal regulatory agencies, was a part of chapter 35 of Title 44, Public Printing and Documents. Chapter 35 was amended generally by the Paperwork Reduction Act of 1980 (Pub. L. 96–511) and subsequently by the Paperwork Reduction Act of 1995 (Pub. L. 104–13).
 
@@ -2761,25 +2761,25 @@ A prior section 21 of act Sept. 26, 1914, ch. 311, was renumbered section 28 and
 
 **Amendments**
 
-2012—Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment notes below.
+2012—Pub. L. 112–203, § 1, amended Pub. L. 109–455, § 13. See 2006 Amendment notes below.
 
-2006—Subsec. (b)(6). Pub. L. 109–455, § 6(a), which inserted at end “The custodian may make such material available to any foreign law enforcement agency upon the prior certification of an appropriate official of any such foreign law enforcement agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement purposes, if—”, added subpars. (A) to (D) setting forth conditions for making materials available to foreign law enforcement agencies, and inserted concluding provisions restricting disclosure of certain antitrust materials, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
+2006—Subsec. (b)(6). Pub. L. 109–455, § 6(a), which inserted at end “The custodian may make such material available to any foreign law enforcement agency upon the prior certification of an appropriate official of any such foreign law enforcement agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement purposes, if—”, added subpars. (A) to (D) setting forth conditions for making materials available to foreign law enforcement agencies, and inserted concluding provisions restricting disclosure of certain antitrust materials, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. See Termination Date of 2006 Amendment note below.
 
-Subsec. (f). Pub. L. 109–455, § 6(b), which inserted heading “Exemption from public disclosure” and amended text of subsec. (f) generally, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. Prior to amendment by section 6(b), text read as follows: “Any material which is received by the Commission in any investigation, a purpose of which is to determine whether any person may have violated any provision of the laws administered by the Commission, and which is provided pursuant to any compulsory process under this subchapter or which is provided voluntarily in place of such compulsory process shall be exempt from disclosure under section 552 of title 5.” See Termination Date of 2006 Amendment note below.
+Subsec. (f). Pub. L. 109–455, § 6(b), which inserted heading “Exemption from public disclosure” and amended text of subsec. (f) generally, was repealed by Pub. L. 109–455, § 13, as amended by Pub. L. 112–203, § 1. Prior to amendment by section 6(b), text read as follows: “Any material which is received by the Commission in any investigation, a purpose of which is to determine whether any person may have violated any provision of the laws administered by the Commission, and which is provided pursuant to any compulsory process under this subchapter or which is provided voluntarily in place of such compulsory process shall be exempt from disclosure under section 552 of title 5.” See Termination Date of 2006 Amendment note below.
 
-1994—Subsec. (a)(1). Pub. L. 103–312, § 8(1), inserted “tangible things,” after “documentary material,”.
+1994—Subsec. (a)(1). Pub. L. 103–312, § 8(1), inserted “tangible things,” after “documentary material,”.
 
-Subsec. (b)(1). Pub. L. 103–312, § 8(2), inserted “, tangible thing,” after “document”.
+Subsec. (b)(1). Pub. L. 103–312, § 8(2), inserted “, tangible thing,” after “document”.
 
-Subsec. (b)(2)(A). Pub. L. 103–312, § 8(3), inserted “tangible things,” after “documentary material,”.
+Subsec. (b)(2)(A). Pub. L. 103–312, § 8(3), inserted “tangible things,” after “documentary material,”.
 
-Subsec. (b)(3). Pub. L. 103–312, § 8(4), in subpar. (A), inserted “tangible things,” after “documentary material,”, in subpar. (B), inserted “, and may make tangible things available,” after “transcripts of oral testimony” and “, things,” after “such material”, in subpar. (C), inserted “tangible things,” after “documentary material,” and “, things,” after “material”, and in subpar. (D)(i), inserted “, tangible things,” after “documentary material”.
+Subsec. (b)(3). Pub. L. 103–312, § 8(4), in subpar. (A), inserted “tangible things,” after “documentary material,”, in subpar. (B), inserted “, and may make tangible things available,” after “transcripts of oral testimony” and “, things,” after “such material”, in subpar. (C), inserted “tangible things,” after “documentary material,” and “, things,” after “material”, and in subpar. (D)(i), inserted “, tangible things,” after “documentary material”.
 
-Subsec. (b)(4), (5). Pub. L. 103–312, § 8(5), (6), inserted “tangible things,” after “documentary material,”.
+Subsec. (b)(4), (5). Pub. L. 103–312, § 8(5), (6), inserted “tangible things,” after “documentary material,”.
 
-Subsec. (b)(6). Pub. L. 103–312, § 8(7), inserted “The custodian of any tangible things may make such things available for inspection to such persons on the same basis.” after first sentence, and “results of inspections of tangible things,” after “Such documentary material,”.
+Subsec. (b)(6). Pub. L. 103–312, § 8(7), inserted “The custodian of any tangible things may make such things available for inspection to such persons on the same basis.” after first sentence, and “results of inspections of tangible things,” after “Such documentary material,”.
 
-Subsec. (b)(7). Pub. L. 103–312, § 8(8), inserted “tangible things,” after “documentary material,”.
+Subsec. (b)(7). Pub. L. 103–312, § 8(8), inserted “tangible things,” after “documentary material,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2795,7 +2795,7 @@ Amendment by Pub. L. 103–312 applicable only with respect to compulsory proces
 
 Section effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as an Effective Date of 1980 Amendment note under section 45 of this title.
 
-### § 57b–2a. Confidentiality and delayed notice of compulsory process for certain third parties
+### § 57b–2a. Confidentiality and delayed notice of compulsory process for certain third parties
 
 **(a) Application with other laws**
 
@@ -2861,7 +2861,7 @@ This section shall not apply to an investigation or proceeding related to the ad
 
 **(C)** the dissipation, fraudulent transfer, or concealment of assets subject to recovery by the Commission.
 
-(Sept. 26, 1914, ch. 311, § 21A, as added Pub. L. 109–455, § 7(a), Dec. 22, 2006, 120 Stat. 3377.)
+(Sept. 26, 1914, ch. 311, § 21A, as added Pub. L. 109–455, § 7(a), Dec. 22, 2006, 120 Stat. 3377.)
 
 **Repeal of Section**
 
@@ -2871,7 +2871,7 @@ For repeal of section by section 13 of Pub. L. 109–455, see Effective Date of 
 
 **References in Text**
 
-The Right to Financial Privacy Act, referred to in subsecs. (a) to (e), probably means the Right to Financial Privacy Act of 1978, Pub. L. 95–630, title XI, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
+The Right to Financial Privacy Act, referred to in subsecs. (a) to (e), probably means the Right to Financial Privacy Act of 1978, Pub. L. 95–630, title XI, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2879,7 +2879,7 @@ The Right to Financial Privacy Act, referred to in subsecs. (a) to (e), probably
 
 Section repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, as amended, set out as a Termination Date of 2006 Amendment note under section 44 of this title.
 
-### § 57b–2b. Protection for voluntary provision of information
+### § 57b–2b. Protection for voluntary provision of information
 
 **(a) In general**
 
@@ -2923,7 +2923,7 @@ Any entity described in subsection (d) that voluntarily provides consumer compla
 
 **(4)** An Internet service provider or provider of telephone services.
 
-(Sept. 26, 1914, ch. 311, § 21B, as added Pub. L. 109–455, § 8, Dec. 22, 2006, 120 Stat. 3380.)
+(Sept. 26, 1914, ch. 311, § 21B, as added Pub. L. 109–455, § 8, Dec. 22, 2006, 120 Stat. 3380.)
 
 **Repeal of Section**
 
@@ -2935,7 +2935,7 @@ For repeal of section by section 13 of Pub. L. 109–455, see Effective Date of 
 
 Section repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, as amended, set out as a Termination Date of 2006 Amendment note under section 44 of this title.
 
-### § 57b–3. Rulemaking process
+### § 57b–3. Rulemaking process
 
 **(a) Definitions** For purposes of this section:
 
@@ -3009,7 +3009,7 @@ Section repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, 
 
 **(4)** The Commission shall not propose or promulgate a rule which was not listed on a regulatory agenda unless the Commission publishes with the rule an explanation of the reasons the rule was omitted from such agenda.
 
-(Sept. 26, 1914, ch. 311, § 22, as added Pub. L. 96–252, § 15, May 28, 1980, 94 Stat. 388.)
+(Sept. 26, 1914, ch. 311, § 22, as added Pub. L. 96–252, § 15, May 28, 1980, 94 Stat. 388.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3017,7 +3017,7 @@ Section repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, 
 
 Section effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as an Effective Date of 1980 Amendment note under section 45 of this title.
 
-### § 57b–4. Good faith reliance on actions of Board of Governors
+### § 57b–4. Good faith reliance on actions of Board of Governors
 
 **(a) “Board of Governors” defined**
 
@@ -3043,7 +3043,7 @@ The provisions of subsection (b) shall apply regardless of whether any rule, reg
 
 any person, partnership, or corporation submits a request to the Board of Governors for the issuance of any statement of interpretation or statement of approval relating to any conduct or practice of such person, partnership, or corporation which may be subject to the requirements of such Federal law, then the Board of Governors shall dispose of such request as soon as practicable after the receipt of such request.
 
-(Sept. 26, 1914, ch. 311, § 23, as added Pub. L. 96–252, § 16, May 28, 1980, 94 Stat. 390.)
+(Sept. 26, 1914, ch. 311, § 23, as added Pub. L. 96–252, § 16, May 28, 1980, 94 Stat. 390.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3051,13 +3051,13 @@ any person, partnership, or corporation submits a request to the Board of Govern
 
 Section effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as an Effective Date of 1980 Amendment note under section 45 of this title.
 
-### § 57b–5. Agricultural cooperatives
+### § 57b–5. Agricultural cooperatives
 
 **(a)** The Commission shall not have any authority to conduct any study, investigation, or prosecution of any agricultural cooperative for any conduct which, because of the provisions of sections 291 and 292 of title 7, is not a violation of any of the antitrust Acts or this subchapter.
 
 **(b)** The Commission shall not have any authority to conduct any study or investigation of any agricultural marketing orders.
 
-(Sept. 26, 1914, ch. 311, § 24, as added Pub. L. 103–312, § 2, Aug. 26, 1994, 108 Stat. 1691.)
+(Sept. 26, 1914, ch. 311, § 24, as added Pub. L. 103–312, § 2, Aug. 26, 1994, 108 Stat. 1691.)
 
 **Editorial Notes**
 
@@ -3065,11 +3065,11 @@ Section effective May 28, 1980, see section 23 of Pub. L. 96–252, set out as a
 
 A prior section 24 of act Sept. 26, 1914, was renumbered section 25 and is classified to section 57c of this title.
 
-### § 57c. Authorization of appropriations
+### § 57c. Authorization of appropriations
 
 There are authorized to be appropriated to carry out the functions, powers, and duties of the Commission not to exceed $92,700,000 for fiscal year 1994; not to exceed $99,000,000 for fiscal year 1995; not to exceed $102,000,000 for fiscal year 1996; not to exceed $107,000,000 for fiscal year 1997; and not to exceed $111,000,000 for fiscal year 1998.
 
-(Sept. 26, 1914, ch. 311, § 25, formerly § 20, as added Pub. L. 93–367, title II, § 207, Jan. 4, 1975, 88 Stat. 2203; amended Pub. L. 94–299, § 1, May 29, 1976, 90 Stat. 588; renumbered § 24 and amended Pub. L. 96–252, §§ 13, 17, May 28, 1980, 94 Stat. 380, 391; renumbered § 25 and amended Pub. L. 103–312, §§ 2, 14, Aug. 26, 1994, 108 Stat. 1691, 1697; Pub. L. 104–216, § 2, Oct. 1, 1996, 110 Stat. 3019.)
+(Sept. 26, 1914, ch. 311, § 25, formerly § 20, as added Pub. L. 93–367, title II, § 207, Jan. 4, 1975, 88 Stat. 2203; amended Pub. L. 94–299, § 1, May 29, 1976, 90 Stat. 588; renumbered § 24 and amended Pub. L. 96–252, §§ 13, 17, May 28, 1980, 94 Stat. 380, 391; renumbered § 25 and amended Pub. L. 103–312, §§ 2, 14, Aug. 26, 1994, 108 Stat. 1691, 1697; Pub. L. 104–216, § 2, Oct. 1, 1996, 110 Stat. 3019.)
 
 **Editorial Notes**
 
@@ -3079,11 +3079,11 @@ A prior section 25 of act Sept. 26, 1914, was renumbered section 28 and is class
 
 **Amendments**
 
-1996—Pub. L. 104–216 struck out “and” before “not to exceed $102,000,000” and inserted before period at end “; not to exceed $107,000,000 for fiscal year 1997; and not to exceed $111,000,000 for fiscal year 1998”.
+1996—Pub. L. 104–216 struck out “and” before “not to exceed $102,000,000” and inserted before period at end “; not to exceed $107,000,000 for fiscal year 1997; and not to exceed $111,000,000 for fiscal year 1998”.
 
-1994—Pub. L. 103–312, § 14, amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out the functions, powers, and duties of the Federal Trade Commission not to exceed $42,000,000 for the fiscal year ending June 30, 1975; not to exceed $47,091,000 for the fiscal year ending June 30, 1976; not to exceed $50,000,000 for the fiscal year ending in 1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982.”
+1994—Pub. L. 103–312, § 14, amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out the functions, powers, and duties of the Federal Trade Commission not to exceed $42,000,000 for the fiscal year ending June 30, 1975; not to exceed $47,091,000 for the fiscal year ending June 30, 1976; not to exceed $50,000,000 for the fiscal year ending in 1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982.”
 
-1980—Pub. L. 96–252, § 17, substituted “1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982” for “1977. For fiscal years ending after 1977, there may be appropriated to carry out such functions, powers, and duties, only such sums as the Congress may hereafter authorize by law”.
+1980—Pub. L. 96–252, § 17, substituted “1977; not to exceed $70,000,000 for the fiscal year ending September 30, 1980; not to exceed $75,000,000 for the fiscal year ending September 30, 1981; and not to exceed $80,000,000 for the fiscal year ending September 30, 1982” for “1977. For fiscal years ending after 1977, there may be appropriated to carry out such functions, powers, and duties, only such sums as the Congress may hereafter authorize by law”.
 
 1976—Pub. L. 94–299 substituted “$47,091,000” for “$46,000,000”.
 
@@ -3095,7 +3095,7 @@ Amendment by Pub. L. 96–252 effective May 28, 1980, see section 23 of Pub. L. 
 
 **Intervention by Commission in Certain Proceedings**
 
-Pub. L. 103–312, § 11, Aug. 26, 1994, 108 Stat. 1696, provided that:
+Pub. L. 103–312, § 11, Aug. 26, 1994, 108 Stat. 1696, provided that:
 
 > **“(a) Limitation on Use of Authorized Funds.—** The Federal Trade Commission shall not have any authority to use any funds which are authorized to be appropriated to carry out the Federal Trade Commission Act (15 U.S.C. 41 et seq.) for fiscal years 1994, 1995, and 1996 for the purpose of submitting statements to, appearing before, or intervening in the proceedings of, any Federal or State agency or State legislative body concerning proposed rules or legislation that the agency or legislative body is considering unless the Commission advises the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding such action as soon as possible.
 
@@ -3103,13 +3103,13 @@ Pub. L. 103–312, § 11, Aug. 26, 1994, 108 Stat. 1696, provided that:
 
 **Restriction on Use of Funds To Cancel Registration of Trademarks**
 
-Pub. L. 96–252, § 18, May 28, 1980, 94 Stat. 391, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I § 101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of taking any action under 15 U.S.C. 1064 with respect to the cancellation of the registration of any mark on the ground that such mark has become the common descriptive name of an article or substance.
+Pub. L. 96–252, § 18, May 28, 1980, 94 Stat. 391, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I § 101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of taking any action under 15 U.S.C. 1064 with respect to the cancellation of the registration of any mark on the ground that such mark has become the common descriptive name of an article or substance.
 
 **Restriction on Use of Funds Respecting Study, Investigation, or Prosecution of any Agricultural Cooperative or Study or Investigation of any Agricultural Marketing Orders**
 
-Pub. L. 96–252, § 20, May 28, 1980, 94 Stat. 393, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I § 101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of conducting any study, investigation, or prosecution of any agricultural cooperative for any conduct which, because of the provisions of the Capper-Volstead Act (7 U.S.C. 291 et seq.), was not a violation of any Federal antitrust Act or this subchapter or for the purpose of conducting any study or investigation of any agricultural marketing orders.
+Pub. L. 96–252, § 20, May 28, 1980, 94 Stat. 393, prohibited the Federal Trade Commission from using any funds authorized to be appropriated to carry out this subchapter for fiscal year 1980, 1981, or 1982 (or 1983 as extended by Pub. L. 97–377, title I § 101(d), Dec. 21, 1982, 96 Stat. 1870), under this section, for the purpose of conducting any study, investigation, or prosecution of any agricultural cooperative for any conduct which, because of the provisions of the Capper-Volstead Act (7 U.S.C. 291 et seq.), was not a violation of any Federal antitrust Act or this subchapter or for the purpose of conducting any study or investigation of any agricultural marketing orders.
 
-### § 57c–1. Staff exchanges
+### § 57c–1. Staff exchanges
 
 **(a) In general** The Commission may—
 
@@ -3125,7 +3125,7 @@ The staff arrangements described in subsection (a) need not be reciprocal. The C
 
 A person appointed under subsection (a)(1) shall be subject to the provisions of law relating to ethics, conflicts of interest, corruption, and any other criminal or civil statute or regulation governing the standards of conduct for Federal employees that are applicable to the type of appointment.
 
-(Sept. 26, 1914, ch. 311, § 25A, as added Pub. L. 109–455, § 9, Dec. 22, 2006, 120 Stat. 3381.)
+(Sept. 26, 1914, ch. 311, § 25A, as added Pub. L. 109–455, § 9, Dec. 22, 2006, 120 Stat. 3381.)
 
 **Repeal of Section**
 
@@ -3137,11 +3137,11 @@ For repeal of section by section 13 of Pub. L. 109–455, see Effective Date of 
 
 Section repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, as amended, set out as a Termination Date of 2006 Amendment note under section 44 of this title.
 
-### § 57c–2. Reimbursement of expenses
+### § 57c–2. Reimbursement of expenses
 
 The Commission may accept payment or reimbursement, in cash or in kind, from a domestic or foreign law enforcement agency, or payment or reimbursement made on behalf of such agency, for expenses incurred by the Commission, its members, or employees in carrying out any activity pursuant to a statute administered by the Commission without regard to any other provision of law. Any such payments or reimbursements shall be considered a reimbursement to the appropriated funds of the Commission.
 
-(Sept. 26, 1914, ch. 311, § 26, as added Pub. L. 109–455, § 11(2), Dec. 22, 2006, 120 Stat. 3381.)
+(Sept. 26, 1914, ch. 311, § 26, as added Pub. L. 109–455, § 11(2), Dec. 22, 2006, 120 Stat. 3381.)
 
 **Repeal of Section**
 
@@ -3159,11 +3159,11 @@ A prior section 26 of act Sept. 26, 1914, was renumbered section 28 and is class
 
 Section repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, as amended, set out as a Termination Date of 2006 Amendment note under section 44 of this title.
 
-### § 58. Short title
+### § 58. Short title
 
 This subchapter may be cited as the “Federal Trade Commission Act”.
 
-(Sept. 26, 1914, ch. 311, § 28, formerly § 18, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114; renumbered § 21, Pub. L. 93–637, title II, § 202(a), Jan. 4, 1975, 88 Stat. 2193; renumbered § 25, Pub. L. 96–252, § 13, May 28, 1980, 94 Stat. 380; renumbered § 26, Pub. L. 103–312, § 2, Aug. 26, 1994, 108 Stat. 1691; renumbered § 28, Pub. L. 109–455, § 11(1), Dec. 22, 2006, 120 Stat. 3381.)
+(Sept. 26, 1914, ch. 311, § 28, formerly § 18, as added Mar. 21, 1938, ch. 49, § 4, 52 Stat. 114; renumbered § 21, Pub. L. 93–637, title II, § 202(a), Jan. 4, 1975, 88 Stat. 2193; renumbered § 25, Pub. L. 96–252, § 13, May 28, 1980, 94 Stat. 380; renumbered § 26, Pub. L. 103–312, § 2, Aug. 26, 1994, 108 Stat. 1691; renumbered § 28, Pub. L. 109–455, § 11(1), Dec. 22, 2006, 120 Stat. 3381.)
 
 **Amendment of Section**
 
@@ -3177,47 +3177,47 @@ Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–103, div. Q, title I, § 101, Mar. 15, 2022, 136 Stat. 809, provided that: “This title [enacting section 45e of this title, amending section 21711 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under this section and section 45e of this title, and section 21711 of Title 34] may be cited as the ‘Fraud and Scam Reduction Act’.”
+Pub. L. 117–103, div. Q, title I, § 101, Mar. 15, 2022, 136 Stat. 809, provided that: “This title [enacting section 45e of this title, amending section 21711 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under this section and section 45e of this title, and section 21711 of Title 34] may be cited as the ‘Fraud and Scam Reduction Act’.”
 
-Pub. L. 117–103, div. Q, title I, § 111, Mar. 15, 2022, 136 Stat. 809, provided that: “This subtitle [subtitle A (§§ 111, 112) of title I of div. Q of Pub. L. 117–103, amending section 21711 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under section 45e of this title and section 21711 of Title 34] may be cited as the ‘Stop Senior Scams Act’.”
+Pub. L. 117–103, div. Q, title I, § 111, Mar. 15, 2022, 136 Stat. 809, provided that: “This subtitle [subtitle A (§§ 111, 112) of title I of div. Q of Pub. L. 117–103, amending section 21711 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as notes under section 45e of this title and section 21711 of Title 34] may be cited as the ‘Stop Senior Scams Act’.”
 
-Pub. L. 117–103, div. Q, title I, § 121, Mar. 15, 2022, 136 Stat. 811, provided that: “This subtitle [subtitle B (§§ 121, 122) of title I of div. Q of Pub. L. 117–103, enacting section 45e of this title] may be cited as the ‘Seniors Fraud Prevention Act of 2022’.”
+Pub. L. 117–103, div. Q, title I, § 121, Mar. 15, 2022, 136 Stat. 811, provided that: “This subtitle [subtitle B (§§ 121, 122) of title I of div. Q of Pub. L. 117–103, enacting section 45e of this title] may be cited as the ‘Seniors Fraud Prevention Act of 2022’.”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 116–287, § 1, Jan. 5, 2021, 134 Stat. 4882, provided that: “This Act [enacting provisions set out as a note under section 52 of this title] may be cited as the ‘Combating Pandemic Scams Act of 2020’.”
+Pub. L. 116–287, § 1, Jan. 5, 2021, 134 Stat. 4882, provided that: “This Act [enacting provisions set out as a note under section 52 of this title] may be cited as the ‘Combating Pandemic Scams Act of 2020’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–271, title VIII, § 8021, Oct. 24, 2018, 132 Stat. 4082, provided that: “This subtitle [subtitle B (§§ 8021–8023) of title VIII of Pub. L. 115–271, enacting section 45d of this title and provisions set out as a note under section 45d of this title] may be cited as the ‘Opioid Addiction Recovery Fraud Prevention Act of 2018’.”
+Pub. L. 115–271, title VIII, § 8021, Oct. 24, 2018, 132 Stat. 4082, provided that: “This subtitle [subtitle B (§§ 8021–8023) of title VIII of Pub. L. 115–271, enacting section 45d of this title and provisions set out as a note under section 45d of this title] may be cited as the ‘Opioid Addiction Recovery Fraud Prevention Act of 2018’.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–274, § 1, Dec. 14, 2016, 130 Stat. 1401, provided that: “This Act [enacting section 45c of this title and provisions set out as a note under section 45c of this title] may be cited as the ‘Better Online Ticket Sales Act of 2016’ or the ‘BOTS Act of 2016’.”
+Pub. L. 114–274, § 1, Dec. 14, 2016, 130 Stat. 1401, provided that: “This Act [enacting section 45c of this title and provisions set out as a note under section 45c of this title] may be cited as the ‘Better Online Ticket Sales Act of 2016’ or the ‘BOTS Act of 2016’.”
 
-Pub. L. 114–258, § 1, Dec. 14, 2016, 130 Stat. 1355, provided that: “This Act [enacting section 45b of this title] may be cited as the ‘Consumer Review Fairness Act of 2016’.”
+Pub. L. 114–258, § 1, Dec. 14, 2016, 130 Stat. 1355, provided that: “This Act [enacting section 45b of this title] may be cited as the ‘Consumer Review Fairness Act of 2016’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–455, § 1, Dec. 22, 2006, 120 Stat. 3372, provided that: “This Act [enacting sections 57b–2a, 57b–2b, 57c–1, and 57c–2 of this title, amending this section, sections 44, 45, 46, 56, and 57b–2 of this title, and section 3412 of Title 12, Banks and Banking, and enacting provisions set out as notes under section 44 of this title] may be cited as the ‘Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers beyond Borders Act of 2006’ or the ‘U.S. SAFE WEB Act of 2006’.”
+Pub. L. 109–455, § 1, Dec. 22, 2006, 120 Stat. 3372, provided that: “This Act [enacting sections 57b–2a, 57b–2b, 57c–1, and 57c–2 of this title, amending this section, sections 44, 45, 46, 56, and 57b–2 of this title, and section 3412 of Title 12, Banks and Banking, and enacting provisions set out as notes under section 44 of this title] may be cited as the ‘Undertaking Spam, Spyware, And Fraud Enforcement With Enforcers beyond Borders Act of 2006’ or the ‘U.S. SAFE WEB Act of 2006’.”
 
 [Section 1 of Pub. L. 109–455, set out above, repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, as amended, set out as a Termination Date of 2006 Amendment note under section 44 of this title.]
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–216, § 1, Oct. 1, 1996, 110 Stat. 3019, provided that: “This Act [amending section 57c of this title] may be cited as the ‘Federal Trade Commission Reauthorization Act of 1996’.”
+Pub. L. 104–216, § 1, Oct. 1, 1996, 110 Stat. 3019, provided that: “This Act [amending section 57c of this title] may be cited as the ‘Federal Trade Commission Reauthorization Act of 1996’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–312, § 1(a), Aug. 26, 1994, 108 Stat. 1691, provided that: “This Act [enacting section 57b–5 of this title, amending this section and sections 45, 53, 57a, 57b–1, 57b–2, and 57c of this title, and enacting provisions set out as notes under sections 45 and 57c of this title] may be cited as the ‘Federal Trade Commission Act Amendments of 1994’.”
+Pub. L. 103–312, § 1(a), Aug. 26, 1994, 108 Stat. 1691, provided that: “This Act [enacting section 57b–5 of this title, amending this section and sections 45, 53, 57a, 57b–1, 57b–2, and 57c of this title, and enacting provisions set out as notes under sections 45 and 57c of this title] may be cited as the ‘Federal Trade Commission Act Amendments of 1994’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–252, § 1, May 28, 1980, 94 Stat. 374, provided that “This Act [enacting sections 57a–1 and 57b–1 to 57b–4 of this title, amending this section and sections 45, 46, 50, 57a, and 57c of this title, and enacting provisions set out as notes under sections 45, 46, 57a, 57a–1, and 57c of this title] may be cited as the ‘Federal Trade Commission Improvements Act of 1980’.”
+Pub. L. 96–252, § 1, May 28, 1980, 94 Stat. 374, provided that “This Act [enacting sections 57a–1 and 57b–1 to 57b–4 of this title, amending this section and sections 45, 46, 50, 57a, and 57c of this title, and enacting provisions set out as notes under sections 45, 46, 57a, 57a–1, and 57c of this title] may be cited as the ‘Federal Trade Commission Improvements Act of 1980’.”
 
 ## SUBCHAPTER II—PROMOTION OF EXPORT TRADE
 
-### § 61. Export trade; definitions
+### § 61. Export trade; definitions
 
 The words “export trade” wherever used in this subchapter mean solely trade or commerce in goods, wares, or merchandise exported, or in the course of being exported from the United States or any Territory thereof to any foreign nation; but the words “export trade” shall not be deemed to include the production, manufacture, or selling for consumption or for resale, within the United States or any Territory thereof, of such goods, wares, or merchandise, or any act in the course of such production, manufacture, or selling for consumption or for resale.
 
@@ -3225,13 +3225,13 @@ The words “trade within the United States” wherever used in this subchapter 
 
 The word “association” wherever used in this subchapter means any corporation or combination, by contract or otherwise, of two or more persons, partnerships, or corporations.
 
-(Apr. 10, 1918, ch. 50, § 1, 40 Stat. 516.)
+(Apr. 10, 1918, ch. 50, § 1, 40 Stat. 516.)
 
-### § 62. Export trade and antitrust legislation
+### § 62. Export trade and antitrust legislation
 
 Nothing contained in the Sherman Act [15 U.S.C. 1 et seq.] shall be construed as declaring to be illegal an association entered into for the sole purpose of engaging in export trade and actually engaged solely in such export trade, or an agreement made or act done in the course of export trade by such association, provided such association, agreement, or act is not in restraint of trade within the United States, and is not in restraint of the export trade of any domestic competitor of such association: *Provided*, That such association does not, either in the United States or elsewhere, enter into any agreement, understanding, or conspiracy, or do any act which artificially or intentionally enhances or depresses prices within the United States of commodities of the class exported by such association, or which substantially lessens competition within the United States or otherwise restrains trade therein.
 
-(Apr. 10, 1918, ch. 50, § 2, 40 Stat. 517.)
+(Apr. 10, 1918, ch. 50, § 2, 40 Stat. 517.)
 
 **Editorial Notes**
 
@@ -3239,29 +3239,29 @@ Nothing contained in the Sherman Act [15 U.S.C. 1 et seq.] shall be construed as
 
 “Sherman Act [15 U.S.C. 1 et seq.]” substituted in text for “Act entitled ‘An Act to protect trade and commerce against unlawful restraints and monopolies,’ approved July second, eighteen hundred and ninety” on authority of the enacting clause of that Act set out as a Short Title note under section 1 of this title.
 
-### § 63. Acquisition of stock of export trade corporation
+### § 63. Acquisition of stock of export trade corporation
 
 Nothing contained in section 18 of this title shall be construed to forbid the acquisition or ownership by any corporation of the whole or any part of the stock or other capital of any corporation organized solely for the purpose of engaging in export trade, and actually engaged solely in such export trade, unless the effect of such acquisition or ownership may be to restrain trade or substantially lessen competition within the United States.
 
-(Apr. 10, 1918, ch. 50, § 3, 40 Stat. 517.)
+(Apr. 10, 1918, ch. 50, § 3, 40 Stat. 517.)
 
-### § 64. Unfair methods of competition in export trade
+### § 64. Unfair methods of competition in export trade
 
 The prohibition against “unfair methods of competition” and the remedies provided for enforcing said prohibition contained in the Federal Trade Commission Act [15 U.S.C. 41 et seq.] shall be construed as extending to unfair methods of competition used in export trade against competitors engaged in export trade, even though the acts constituting such unfair methods are done without the territorial jurisdiction of the United States.
 
-(Apr. 10, 1918, ch. 50, § 4, 40 Stat. 517.)
+(Apr. 10, 1918, ch. 50, § 4, 40 Stat. 517.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Codification**
 
 “Federal Trade Commission Act [15 U.S.C. 41 et seq.]” substituted in text for “Act entitled ‘An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes,’ approved September twenty-sixth, nineteen hundred and fourteen” on authority of section 18 of that Act [15 U.S.C. 58].
 
-### § 65. Information required from export trade corporation; powers of Federal Trade Commission
+### § 65. Information required from export trade corporation; powers of Federal Trade Commission
 
 Every association which engages solely in export trade, within thirty days after its creation, shall file with the Federal Trade Commission a verified written statement setting forth the location of its offices or places of business and the names and addresses of all its officers and of all its stockholders or members, and if a corporation, a copy of its certificate or articles of incorporation and bylaws, and if unincorporated, a copy of its articles or contract of association, and on the 1st day of January of each year every association engaged solely in export trade shall make a like statement of the location of its offices or places of business and the names and addresses of all its officers and of all its stockholders or members and of all amendments to and changes in its articles or certificate of incorporation or in its articles or contract of association. It shall also furnish to the Commission such information as the Commission may require as to its organization business, conduct, practices, management, and relation to other associations, corporations, partnerships, and individuals. Any association which shall fail so to do shall not have the benefit of the provisions of sections 62 and 63 of this title, and it shall also forfeit to the United States the sum of $100 for each and every day of the continuance of such failure, which forfeiture shall be payable into the Treasury of the United States, and shall be recoverable in a civil suit in the name of the United States brought in the district where the association has its principal office, or in any district in which it shall do business. It shall be the duty of the various United States attorneys, under the direction of the Attorney General of the United States, to prosecute for the recovery of the forfeiture. The costs and expenses of such prosecution shall be paid out of the appropriation for the expenses of the courts of the United States.
 
@@ -3269,13 +3269,13 @@ Whenever the Federal Trade Commission shall have reason to believe that an assoc
 
 For the purpose of enforcing these provisions the Federal Trade Commission shall have all the powers, so far as applicable, given it in the Federal Trade Commission Act [15 U.S.C. 41 et seq.].
 
-(Apr. 10, 1918, ch. 50, § 5, 40 Stat. 517; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
+(Apr. 10, 1918, ch. 50, § 5, 40 Stat. 517; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Codification**
 
@@ -3291,17 +3291,17 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys”
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 66. Short title
+### § 66. Short title
 
 This subchapter may be cited as the “Webb-Pomerene Act”.
 
-(Apr. 10, 1918, ch. 50, § 6, as added Pub. L. 94–435, title III, § 305(c), Sept. 30, 1976, 90 Stat. 1397.)
+(Apr. 10, 1918, ch. 50, § 6, as added Pub. L. 94–435, title III, § 305(c), Sept. 30, 1976, 90 Stat. 1397.)
 
 ## SUBCHAPTER III—LABELING OF WOOL PRODUCTS
 
-### § 68. Definitions
+### § 68. Definitions
 
 As used in this subchapter—
 
@@ -3321,51 +3321,51 @@ As used in this subchapter—
 
 **(h)** The term “Territory” includes the insular possessions of the United States and also any Territory of the United States.
 
-(Oct. 14, 1940, ch. 871, § 2, 54 Stat. 1128; Pub. L. 96–242, § 1, May 5, 1980, 94 Stat. 344.)
+(Oct. 14, 1940, ch. 871, § 2, 54 Stat. 1128; Pub. L. 96–242, § 1, May 5, 1980, 94 Stat. 344.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act of September 26, 1914, referred to in subsec. (f), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Act of September 26, 1914, referred to in subsec. (f), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 The Federal Trade Commission Act approved March 21, 1938, referred to in subsec. (f), is act Mar. 21, 1938, ch. 49, 52 Stat. 111. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-1980—Subsec. (c). Pub. L. 96–242, § 1(a), substituted “recycled wool” for “reprocessed wool” as term defined, designated existing definition as cl. (1), and added cl. (2).
+1980—Subsec. (c). Pub. L. 96–242, § 1(a), substituted “recycled wool” for “reprocessed wool” as term defined, designated existing definition as cl. (1), and added cl. (2).
 
-Subsecs. (d) to (i). Pub. L. 96–242, § 1(b)–(d), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and, in subsec. (d) as so redesignated, substituted “containing wool or recycled wool” for “containing wool, reprocessed wool, or reused wool”. Former subsec. (d), which defined term “reused wool”, was struck out.
+Subsecs. (d) to (i). Pub. L. 96–242, § 1(b)–(d), redesignated subsecs. (e) to (i) as (d) to (h), respectively, and, in subsec. (d) as so redesignated, substituted “containing wool or recycled wool” for “containing wool, reprocessed wool, or reused wool”. Former subsec. (d), which defined term “reused wool”, was struck out.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–242, § 3, May 5, 1980, 94 Stat. 344, provided that: “The amendments made by this Act [amending this section and section 68b of this title] shall take effect with respect to wool products manufactured on or after the date sixty days after the date of enactment of this Act [May 5, 1980].”
+Pub. L. 96–242, § 3, May 5, 1980, 94 Stat. 344, provided that: “The amendments made by this Act [amending this section and section 68b of this title] shall take effect with respect to wool products manufactured on or after the date sixty days after the date of enactment of this Act [May 5, 1980].”
 
 **Effective Date**
 
-Act Oct. 14, 1940, ch. 871, § 12, 54 Stat. 1133, provided that: “This Act [this subchapter] shall take effect nine months after the date of its passage.”
+Act Oct. 14, 1940, ch. 871, § 12, 54 Stat. 1133, provided that: “This Act [this subchapter] shall take effect nine months after the date of its passage.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–428, § 1, Dec. 20, 2006, 120 Stat. 2913, provided that: “This Act [amending section 68b of this title and enacting provisions set out as a note under section 68b of this title] may be cited as the ‘Wool Suit Fabric Labeling Fairness and International Standards Conforming Act’.”
+Pub. L. 109–428, § 1, Dec. 20, 2006, 120 Stat. 2913, provided that: “This Act [amending section 68b of this title and enacting provisions set out as a note under section 68b of this title] may be cited as the ‘Wool Suit Fabric Labeling Fairness and International Standards Conforming Act’.”
 
 **Short Title**
 
-Act Oct. 14, 1940, ch. 871, § 1, 54 Stat. 1128, provided that: “This Act [this subchapter] may be cited as the ‘Wool Products Labeling Act of 1939’.”
+Act Oct. 14, 1940, ch. 871, § 1, 54 Stat. 1128, provided that: “This Act [this subchapter] may be cited as the ‘Wool Products Labeling Act of 1939’.”
 
 **Separability**
 
-Act Oct. 14, 1940, ch. 871, § 13, 54 Stat. 1133, provided that: “If any provision of this Act [this subchapter], or the application thereof to any person, partnership, corporation, or circumstance is held invalid, the remainder of the Act and the application of such provision to any other person, partnership, corporation, or circumstance shall not be affected thereby.”
+Act Oct. 14, 1940, ch. 871, § 13, 54 Stat. 1133, provided that: “If any provision of this Act [this subchapter], or the application thereof to any person, partnership, corporation, or circumstance is held invalid, the remainder of the Act and the application of such provision to any other person, partnership, corporation, or circumstance shall not be affected thereby.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 68a. Misbranding declared unlawful
+### § 68a. Misbranding declared unlawful
 
 The introduction, or manufacture for introduction, into commerce, or the sale, transportation, or distribution, in commerce, of any wool product which is misbranded within the meaning of this subchapter or the rules and regulations hereunder, is unlawful and shall be an unfair method of competition, and an unfair and deceptive act or practice, in commerce under the Federal Trade Commission Act; and any person who shall manufacture or deliver for shipment or ship or sell or offer for sale in commerce, any such wool product which is misbranded within the meaning of this subchapter and the rules and regulations hereunder is guilty of an unfair method of competition, and an unfair and deceptive act or practice, in commerce within the meaning of the Federal Trade Commission Act.
 
@@ -3375,9 +3375,9 @@ This section shall not apply—
 
 (b) To any person manufacturing, delivering for shipment, shipping, selling, or offering for sale, for exportation from the United States to any foreign country a wool product branded in accordance with the specifications of the purchaser and in accordance with the laws of such country.
 
-(Oct. 14, 1940, ch. 871, § 3, 54 Stat. 1129.)
+(Oct. 14, 1940, ch. 871, § 3, 54 Stat. 1129.)
 
-### § 68b. Misbranded wool products
+### § 68b. Misbranded wool products
 
 **(a) False identification; affixation of label, etc., contents** A wool product shall be misbranded—
 
@@ -3469,7 +3469,7 @@ For the purposes of this subchapter, a wool product shall be considered to be fa
 
 For purposes of this subchapter, any wool product shall be misbranded if a stamp, tag, label, or other identification conforming to the requirements of this section is not on or affixed to the inside center of the neck midway between the shoulder seams or, if such product does not contain a neck, in the most conspicuous place on the inner side of such product, unless it is on or affixed on the outer side of such product or in the case of hosiery items, on the outer side of such product or package.
 
-(Oct. 14, 1940, ch. 871, § 4, 54 Stat. 1129; Pub. L. 96–242, § 2, May 5, 1980, 94 Stat. 344; Pub. L. 98–417, title III, §§ 304, 305, Sept. 24, 1984, 98 Stat. 1604; Pub. L. 109–428, § 2(a), Dec. 20, 2006, 120 Stat. 2913.)
+(Oct. 14, 1940, ch. 871, § 4, 54 Stat. 1129; Pub. L. 96–242, § 2, May 5, 1980, 94 Stat. 344; Pub. L. 98–417, title III, §§ 304, 305, Sept. 24, 1984, 98 Stat. 1604; Pub. L. 109–428, § 2(a), Dec. 20, 2006, 120 Stat. 2913.)
 
 **Editorial Notes**
 
@@ -3477,9 +3477,9 @@ For purposes of this subchapter, any wool product shall be misbranded if a stamp
 
 2006—Subsec. (a)(5), (6). Pub. L. 109–428 added pars. (5) and (6).
 
-1984—Subsec. (a)(2)(D). Pub. L. 98–417, § 304, added subpar. (D).
+1984—Subsec. (a)(2)(D). Pub. L. 98–417, § 304, added subpar. (D).
 
-Subsecs. (e), (f). Pub. L. 98–417, § 305, added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 98–417, § 305, added subsecs. (e) and (f).
 
 1980—Subsec. (a)(2)(A). Pub. L. 96–242 substituted “recycled wool” for “reprocessed wool” as cl. (2), struck out cl. (3) “reused wool”, and redesignated existing cls. (4) and (5) as (3) and (4), respectively.
 
@@ -3487,11 +3487,11 @@ Subsecs. (e), (f). Pub. L. 98–417, § 305, added subsecs. (e) and (f).
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–428, § 2(b), Dec. 20, 2006, 120 Stat. 2915, provided that: “The amendments made by this section [amending this section] shall apply to wool products manufactured on or after January 1, 2007.”
+Pub. L. 109–428, § 2(b), Dec. 20, 2006, 120 Stat. 2915, provided that: “The amendments made by this section [amending this section] shall apply to wool products manufactured on or after January 1, 2007.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–417, title III, § 307, Sept. 24, 1984, 98 Stat. 1605, provided that: “The amendments made by this title [amending this section and sections 68c and 70b of this title] shall be effective ninety days after the date of enactment of this Act [Sept. 24, 1984].”
+Pub. L. 98–417, title III, § 307, Sept. 24, 1984, 98 Stat. 1605, provided that: “The amendments made by this title [amending this section and sections 68c and 70b of this title] shall be effective ninety days after the date of enactment of this Act [Sept. 24, 1984].”
 
 **Effective Date of 1980 Amendment**
 
@@ -3501,9 +3501,9 @@ Amendment by Pub. L. 96–242 effective with respect to wool products manufactur
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 68c. Stamp, tag, label, or other identification
+### § 68c. Stamp, tag, label, or other identification
 
 **(a) Affixing; retention until sale**
 
@@ -3511,9 +3511,9 @@ Any person manufacturing for introduction, or first introducing into commerce a 
 
 **(b) Removal or mutilation**
 
-Any person who shall cause or participate in the removal or mutilation of any stamp, tag, label, or other means of identification affixed to a wood 1
+Any person who shall cause or participate in the removal or mutilation of any stamp, tag, label, or other means of identification affixed to a wood 1
 
-<sup>1</sup>  So in original. Probably should be “wool”.
+<sup>1</sup> So in original. Probably should be “wool”.
 
 product with intent to violate the provisions of this subchapter, is guilty of an unfair method of competition, and an unfair and deceptive act or practice, in commerce within the meaning of the Federal Trade Commission Act.
 
@@ -3521,11 +3521,11 @@ product with intent to violate the provisions of this subchapter, is guilty of a
 
 For the purposes of subsections (a) and (b) of this section, any package of wool products intended for sale to the ultimate consumer shall also be considered a wool product and shall have affixed to it a stamp, tag, label, or other means of identification bearing the information required by section 68b of this title, with respect to the wool products contained therein, unless such package of wool products is transparent to the extent that it allows for the clear reading of the stamp, tag, label, or other means of identification affixed to the wool product, or in the case of hosiery items this section shall not be construed as requiring the affixing of a stamp, tag, label, or other means of identification to each hosiery product contained in a package if (1) such hosiery products are intended for sale to the ultimate consumer in such package, (2) such package has affixed to it a stamp, tag, label, or other means of identification bearing, with respect to the hosiery products contained therein, the information required by section 68b of this title,2
 
-<sup>2</sup>  See Codification note.
+<sup>2</sup> See Codification note.
 
 and (3) the information on the stamp, tag, label, or other means of identification affixed to such package is equally applicable with respect to each hosiery product contained therein.
 
-(Oct. 14, 1940, ch. 871, § 5, 54 Stat. 1130; Pub. L. 98–417, title III, § 306, Sept. 24, 1984, 98 Stat. 1605.)
+(Oct. 14, 1940, ch. 871, § 5, 54 Stat. 1130; Pub. L. 98–417, title III, § 306, Sept. 24, 1984, 98 Stat. 1605.)
 
 **Editorial Notes**
 
@@ -3543,7 +3543,7 @@ Section 68b of this title, the second time it appears in subsec. (c), was in the
 
 Amendment by Pub. L. 98–417 effective 90 days after Sept. 24, 1984, see section 307 of Pub. L. 98–417, set out as a note under section 68b of this title.
 
-### § 68d. Enforcement of subchapter
+### § 68d. Enforcement of subchapter
 
 **(a) Authority of Commission**
 
@@ -3561,15 +3561,15 @@ Every manufacturer of wool products shall maintain proper records showing the fi
 
 The neglect or refusal to maintain and so preserve such records is unlawful, and any such manufacturer who neglects or refuses to maintain and so preserve such records shall forfeit to the United States the sum of $100 for each day of such failure, which shall accrue to the United States and be recoverable in a civil action.
 
-(Oct. 14, 1940, ch. 871, § 6, 54 Stat. 1131.)
+(Oct. 14, 1940, ch. 871, § 6, 54 Stat. 1131.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 68e. Condemnation and injunction proceedings
+### § 68e. Condemnation and injunction proceedings
 
 **(a) Grounds for condemnation; disposition of merchandise**
 
@@ -3585,15 +3585,15 @@ If such wool products are condemned by the court, they shall be disposed of, in 
 
 the Commission may bring suit in the district court of the United States or in the United States court of any Territory, for the district or Territory in which such person resides or transacts business, to enjoin such violation, and upon proper showing a temporary injunction or restraining order shall be granted without bond.
 
-(Oct. 14, 1940, ch. 871, § 7, 54 Stat. 1131.)
+(Oct. 14, 1940, ch. 871, § 7, 54 Stat. 1131.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 68f. Exclusion of misbranded wool products
+### § 68f. Exclusion of misbranded wool products
 
 All wool products imported into the United States, except those made more than twenty years prior to such importation, shall be stamped, tagged, labeled, or otherwise identified in accordance with the provisions of this subchapter and all invoices of such wool products required under the Act of June 17, 1930 (c. 497, title IV, 46 Stat. 719), shall set forth, in addition to the matter therein specified, the information with respect to said wool products required under the provisions of this subchapter, which information shall be in the invoices prior to their certification under said Act of June 17, 1930.
 
@@ -3601,7 +3601,7 @@ The falsification of, or failure to set forth, said information in said invoices
 
 A verified statement from the manufacturer or producer of such wool products showing their fiber content as required under the provisions of this subchapter may be required under regulations prescribed by the Secretary of the Treasury.
 
-(Oct. 14, 1940, ch. 871, § 8, 54 Stat. 1132.)
+(Oct. 14, 1940, ch. 871, § 8, 54 Stat. 1132.)
 
 **Editorial Notes**
 
@@ -3617,9 +3617,9 @@ Provisions covering the consignee’s declaration under the Act of June 17, 1930
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 68g. Guaranty
+### § 68g. Guaranty
 
 **(a) Avoidance of liability; requirements**
 
@@ -3631,43 +3631,43 @@ Said guaranty shall be either (1) a separate guaranty specifically designating t
 
 Any person who furnishes a false guaranty, except a person relying upon a guaranty to the same effect received in good faith signed by and containing the name and address of the person residing in the United States by whom the wool product guaranteed was manufactured and/or from whom it was received, with reason to believe the wool product falsely guaranteed may be introduced, sold, transported, or distributed in commerce, is guilty of an unfair method of competition, and an unfair and deceptive act or practice, in commerce within the meaning of the Federal Trade Commission Act.
 
-(Oct. 14, 1940, ch. 871, § 9, 54 Stat. 1132.)
+(Oct. 14, 1940, ch. 871, § 9, 54 Stat. 1132.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 68h. Criminal penalty
+### § 68h. Criminal penalty
 
 Any person who willfully violates sections 68a, 68c, 68f, or 68g(b) of this title shall be guilty of a misdemeanor and upon conviction shall be fined not more than $5,000, or be imprisoned not more than one year, or both, in the discretion of the court: *Provided*, That nothing herein shall limit other provisions of this subchapter.
 
 Whenever the Commission has reason to believe any person is guilty of a misdemeanor under this section, it shall certify all pertinent facts to the Attorney General, whose duty it shall be to cause appropriate proceedings to be brought for the enforcement of the provisions of this section against such person.
 
-(Oct. 14, 1940, ch. 871, § 10, 54 Stat. 1133.)
+(Oct. 14, 1940, ch. 871, § 10, 54 Stat. 1133.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 68i. Application of other laws
+### § 68i. Application of other laws
 
 The provision of this subchapter shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of the United States.
 
-(Oct. 14, 1940, ch. 871, § 11, 54 Stat. 1133.)
+(Oct. 14, 1940, ch. 871, § 11, 54 Stat. 1133.)
 
-### § 68j. Exceptions from subchapter
+### § 68j. Exceptions from subchapter
 
 None of the provisions of this subchapter shall be construed to apply to the manufacture, delivery for shipment, shipment, sale, or offering for sale any carpets, rugs, mats, or upholsteries, nor to any person manufacturing, delivering for shipment, shipping, selling, or offering for sale any carpets, rugs, mats, or upholsteries.
 
-(Oct. 14, 1940, ch. 871, § 14, 54 Stat. 1133.)
+(Oct. 14, 1940, ch. 871, § 14, 54 Stat. 1133.)
 
 ## SUBCHAPTER IV—LABELING OF FUR PRODUCTS
 
-### § 69. Definitions
+### § 69. Definitions
 
 As used in this subchapter—
 
@@ -3693,17 +3693,17 @@ As used in this subchapter—
 
 **(k)** The term “United States” means the several States, the District of Columbia, and the Territories and possessions of the United States.
 
-(Aug. 8, 1951, ch. 298, § 2, 65 Stat. 175; Pub. L. 106–476, title I, § 1443(b), Nov. 9, 2000, 114 Stat. 2167; Pub. L. 111–313, § 2(a), Dec. 18, 2010, 124 Stat. 3326.)
+(Aug. 8, 1951, ch. 298, § 2, 65 Stat. 175; Pub. L. 106–476, title I, § 1443(b), Nov. 9, 2000, 114 Stat. 2167; Pub. L. 111–313, § 2(a), Dec. 18, 2010, 124 Stat. 3326.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The act approved September 26, 1914, referred to in subsec. (h), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, known as the Federal Trade Commission Act, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The act approved September 26, 1914, referred to in subsec. (h), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, known as the Federal Trade Commission Act, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 **Amendments**
 
-2010—Subsec. (d). Pub. L. 111–313 struck out “; except that such term shall not include such articles (other than any dog or cat fur product to which section 1308 of title 19 applies) as the Commission shall exempt by reason of the relatively small quantity or value of the fur or used fur contained therein” after “used fur”.
+2010—Subsec. (d). Pub. L. 111–313 struck out “; except that such term shall not include such articles (other than any dog or cat fur product to which section 1308 of title 19 applies) as the Commission shall exempt by reason of the relatively small quantity or value of the fur or used fur contained therein” after “used fur”.
 
 2000—Subsec. (d). Pub. L. 106–476 inserted “(other than any dog or cat fur product to which section 1308 of title 19 applies)” after “shall not include such articles”.
 
@@ -3711,31 +3711,31 @@ The act approved September 26, 1914, referred to in subsec. (h), is act Sept. 26
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–313, § 2(b), Dec. 18, 2010, 124 Stat. 3326, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 18, 2010].”
+Pub. L. 111–313, § 2(b), Dec. 18, 2010, 124 Stat. 3326, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 18, 2010].”
 
 **Effective Date**
 
-Act Aug. 8, 1951, ch. 298, § 14, 65 Stat. 181, provided that: “This Act [this subchapter], except section 7 [section 69e of this title], shall take effect one year after the date of its enactment [Aug. 8, 1951].”
+Act Aug. 8, 1951, ch. 298, § 14, 65 Stat. 181, provided that: “This Act [this subchapter], except section 7 [section 69e of this title], shall take effect one year after the date of its enactment [Aug. 8, 1951].”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–313, § 1, Dec. 18, 2010, 124 Stat. 3326, provided that: “This Act [amending this section and section 69a of this title and enacting provisions set out as a note under this section] may be cited as the ‘Truth in Fur Labeling Act of 2010’.”
+Pub. L. 111–313, § 1, Dec. 18, 2010, 124 Stat. 3326, provided that: “This Act [amending this section and section 69a of this title and enacting provisions set out as a note under this section] may be cited as the ‘Truth in Fur Labeling Act of 2010’.”
 
 **Short Title**
 
-Act Aug. 8, 1951, ch. 298, § 1, 65 Stat. 175, provided: “That this Act [this subchapter] may be cited as the ‘Fur Products Labeling Act’ ”.
+Act Aug. 8, 1951, ch. 298, § 1, 65 Stat. 175, provided: “That this Act [this subchapter] may be cited as the ‘Fur Products Labeling Act’ ”.
 
 **Separability**
 
-Act Aug. 8, 1951, ch. 298, § 13, 65 Stat. 181, provided that: “If any provision of this Act [this subchapter] or the application thereof to any person or circumstance is held invalid, the remainder of the Act [this subchapter] and the application of such provision to any other person or circumstance shall not be affected thereby.”
+Act Aug. 8, 1951, ch. 298, § 13, 65 Stat. 181, provided that: “If any provision of this Act [this subchapter] or the application thereof to any person or circumstance is held invalid, the remainder of the Act [this subchapter] and the application of such provision to any other person or circumstance shall not be affected thereby.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 69a. Violations of Federal Trade Commission Act
+### § 69a. Violations of Federal Trade Commission Act
 
 **(a) Introduction or manufacture for introduction into commerce, sale, advertising or offering for sale in commerce**
 
@@ -3767,7 +3767,7 @@ Subsections (a), (b), and (c) of this section shall not apply to any common carr
 
 **(2)** when sold in a face to face transaction at a place such as a residence, craft fair, or other location used on a temporary or short term basis, by the person who trapped or hunted the animal, where the revenue from the sale of apparel or fur products is not the primary source of income of such person.
 
-(Aug. 8, 1951, ch. 298, § 3, 65 Stat. 176; Pub. L. 111–313, § 3, Dec. 18, 2010, 124 Stat. 3326.)
+(Aug. 8, 1951, ch. 298, § 3, 65 Stat. 176; Pub. L. 111–313, § 3, Dec. 18, 2010, 124 Stat. 3326.)
 
 **Editorial Notes**
 
@@ -3779,7 +3779,7 @@ The Federal Trade Commission Act, referred to in text, is defined in section 69 
 
 2010—Subsec. (g). Pub. L. 111–313 added subsec. (g).
 
-### § 69b. Misbranded fur products
+### § 69b. Misbranded fur products
 
 For the purposes of this subchapter, a fur product shall be considered to be misbranded—
 
@@ -3801,15 +3801,15 @@ For the purposes of this subchapter, a fur product shall be considered to be mis
 
 **(3)** if the label required by paragraph (2)(A) of this section sets forth the name or names of any animal or animals other than the name or names provided for in such paragraph.
 
-(Aug. 8, 1951, ch. 298, § 4, 65 Stat. 177.)
+(Aug. 8, 1951, ch. 298, § 4, 65 Stat. 177.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 69c. False advertising and invoicing
+### § 69c. False advertising and invoicing
 
 **(a)** For the purposes of this subchapter, a fur product or fur shall be considered to be falsely or deceptively advertised if any advertisement, representation, public announcement, or notice which is intended to aid, promote, or assist directly or indirectly in the sale or offering for sale of such fur product or fur—
 
@@ -3843,9 +3843,9 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 
 **(2)** if such invoice contains the name or names of any animal or animals other than the name or names specified in paragraph (1)(A) of this subsection, or contains any form of misrepresentation or deception, directly or by implication, with respect to such fur product or fur.
 
-(Aug. 8, 1951, ch. 298, § 5, 65 Stat. 178.)
+(Aug. 8, 1951, ch. 298, § 5, 65 Stat. 178.)
 
-### § 69d. Fur products imported into United States
+### § 69d. Fur products imported into United States
 
 **(a) Necessity of proper labelling; additional information**
 
@@ -3859,13 +3859,13 @@ The falsification of, or failure to set forth, said information in said invoices
 
 A verified statement from the manufacturer, producer of, or dealer in, imported fur products and furs showing information required under the provisions of this subchapter may be required under regulations prescribed by the Secretary of the Treasury.
 
-(Aug. 8, 1951, ch. 298, § 6, 65 Stat. 178.)
+(Aug. 8, 1951, ch. 298, § 6, 65 Stat. 178.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tariff Act of 1930, referred to in subsecs. (a) and (b), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. Title IV of the Tariff Act of 1930 is classified generally to subtitle III (§ 1401 et seq.) of chapter 4 of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsecs. (a) and (b), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. Title IV of the Tariff Act of 1930 is classified generally to subtitle III (§ 1401 et seq.) of chapter 4 of Title 19. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (b), is defined in section 69 of this title.
 
@@ -3873,9 +3873,9 @@ The Federal Trade Commission Act, referred to in subsec. (b), is defined in sect
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 69e. Name guide for fur products
+### § 69e. Name guide for fur products
 
 **(a) Fur Products Name Guide**
 
@@ -3889,15 +3889,15 @@ The Commission may, from time to time, with the assistance and cooperation of th
 
 If the name of an animal (as set forth in the Fur Products Name Guide) connotes a geographical origin or significance other than the true country or place of origin of such animal, the Commission may require whenever such name is used in setting forth the information required by this subchapter, such qualifying statements as it may deem necessary to prevent confusion or deception.
 
-(Aug. 8, 1951, ch. 298, § 7, 65 Stat. 179.)
+(Aug. 8, 1951, ch. 298, § 7, 65 Stat. 179.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 69f. Enforcement of subchapter
+### § 69f. Enforcement of subchapter
 
 **(a) Enforcement by Federal Trade Commission**
 
@@ -3919,7 +3919,7 @@ The Commission is authorized (1) to cause inspections, analyses, tests, and exam
 
 **(2)** The neglect or refusal to maintain and preserve such records is unlawful, and any such manufacturer or dealer who neglects or refuses to maintain and preserve such records shall forfeit to the United States the sum of $100 for each day of such failure which shall accrue to the United States and be recoverable by a civil action.
 
-(Aug. 8, 1951, ch. 298, § 8, 65 Stat. 179.)
+(Aug. 8, 1951, ch. 298, § 8, 65 Stat. 179.)
 
 **Editorial Notes**
 
@@ -3931,9 +3931,9 @@ The Federal Trade Commission Act, referred to in subsec. (a), is defined in sect
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 69g. Condemnation and injunction proceedings
+### § 69g. Condemnation and injunction proceedings
 
 **(a) Grounds for condemnation; disposition of merchandise**
 
@@ -3945,7 +3945,7 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 
 **(1)** any person is volating,1
 
-<sup>1</sup>  So in original. Probably should be “violating,”.
+<sup>1</sup> So in original. Probably should be “violating,”.
 
 or is about to violate, section 69a, 69d, or 69h(b) of this title; and
 
@@ -3953,7 +3953,7 @@ or is about to violate, section 69a, 69d, or 69h(b) of this title; and
 
 the Commission may bring suit in the district court of the United States or in the United States court of any Territory, for the district or Territory in which such person resides or transacts business, to enjoin such violation, and upon proper showing a temporary injunction or restraining order shall be granted without bond.
 
-(Aug. 8, 1951, ch. 298, § 9, 65 Stat. 180.)
+(Aug. 8, 1951, ch. 298, § 9, 65 Stat. 180.)
 
 **Editorial Notes**
 
@@ -3965,9 +3965,9 @@ The Federal Trade Commission Act, referred to in subsec. (b)(2), is defined in s
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 69h. Guaranty
+### § 69h. Guaranty
 
 **(a) Avoidance of liability; requirements**
 
@@ -3977,7 +3977,7 @@ No person shall be guilty under section 69a of this title if he establishes a gu
 
 It shall be unlawful for any person to furnish, with respect to any fur product or fur, a false guaranty (except a person relying upon a guaranty to the same effect received in good faith signed by and containing the name and address of the person residing in the United States by whom the fur product or fur guaranteed was manufactured or from whom it was received) with reason to believe the fur product or fur falsely guaranteed may be introduced, sold, transported, or distributed in commerce, and any person who violates the provisions of this subsection is guilty of an unfair method of competition, and an unfair or deceptive act or practice, in commerce within the meaning of the Federal Trade Commission Act [15 U.S.C. 41 et seq.].
 
-(Aug. 8, 1951, ch. 298, § 10, 65 Stat. 181.)
+(Aug. 8, 1951, ch. 298, § 10, 65 Stat. 181.)
 
 **Editorial Notes**
 
@@ -3989,31 +3989,31 @@ The Federal Trade Commission Act, referred to in subsec. (b), is defined in sect
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 69i. Criminal penalty
+### § 69i. Criminal penalty
 
 **(a)** Any person who willfully violates section 69a, 69d, or 69h(b) of this title shall be guilty of a misdemeanor and upon conviction shall be fined not more than $5,000, or be imprisoned not more than one year, or both, in the discretion of the court.
 
 **(b)** Whenever the Commission has reason to believe any person is guilty of a misdemeanor under this section, it shall certify all pertinent facts to the Attorney General, whose duty it shall be to cause appropriate proceedings to be brought for the enforcement of the provisions of this section against such person.
 
-(Aug. 8, 1951, ch. 298, § 11, 65 Stat. 181.)
+(Aug. 8, 1951, ch. 298, § 11, 65 Stat. 181.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
-### § 69j. Application of other laws
+### § 69j. Application of other laws
 
 The provisions of this subchapter shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of Congress.
 
-(Aug. 8, 1951, ch. 298, § 12, 65 Stat. 181.)
+(Aug. 8, 1951, ch. 298, § 12, 65 Stat. 181.)
 
 ## SUBCHAPTER V—TEXTILE FIBER PRODUCTS IDENTIFICATION
 
-### § 70. Definitions
+### § 70. Definitions
 
 As used in this subchapter—
 
@@ -4051,29 +4051,29 @@ except that such term does not include a product required to be labeled under th
 
 **(m)** The term “ultimate consumer” means a person who obtains a textile fiber product by purchase or exchange with no intent to sell or exchange such textile fiber product in any form.
 
-(Pub. L. 85–897, § 2, Sept. 2, 1958, 72 Stat. 1717.)
+(Pub. L. 85–897, § 2, Sept. 2, 1958, 72 Stat. 1717.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Wool Products Labeling Act of 1939, referred to in subsec. (h)(3), is act Oct. 14, 1940, ch. 871, 54 Stat. 1128, which is classified generally to subchapter III (§ 68 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 68 of this title and Tables.
+The Wool Products Labeling Act of 1939, referred to in subsec. (h)(3), is act Oct. 14, 1940, ch. 871, 54 Stat. 1128, which is classified generally to subchapter III (§ 68 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 68 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 85–897, § 15, Sept. 2, 1958, 72 Stat. 1724, provided that: “This Act [this subchapter] shall take effect eighteen months after enactment [Sept. 2, 1958], except for the promulgation of rules and regulations by the Commission, which shall be promulgated within nine months after the enactment of this Act. The Commission shall provide for the exception of any textile fiber product acquired prior to the effective date of this Act.”
+Pub. L. 85–897, § 15, Sept. 2, 1958, 72 Stat. 1724, provided that: “This Act [this subchapter] shall take effect eighteen months after enactment [Sept. 2, 1958], except for the promulgation of rules and regulations by the Commission, which shall be promulgated within nine months after the enactment of this Act. The Commission shall provide for the exception of any textile fiber product acquired prior to the effective date of this Act.”
 
 **Short Title**
 
-Pub. L. 85–897, § 1, Sept. 2, 1958, 72 Stat. 1717, provided: “That this Act [this subchapter] may be cited as the ‘Textile Fiber Products Identification Act’.”
+Pub. L. 85–897, § 1, Sept. 2, 1958, 72 Stat. 1717, provided: “That this Act [this subchapter] may be cited as the ‘Textile Fiber Products Identification Act’.”
 
 **Separability**
 
-Pub. L. 85–897, § 13, Sept. 2, 1958, 72 Stat. 1723, provided that: “If any provision of this Act [this subchapter], or the application thereof to any person, as that term is herein defined, is held invalid, the remainder of the Act and the application of the remaining provisions to any person shall not be affected thereby.”
+Pub. L. 85–897, § 13, Sept. 2, 1958, 72 Stat. 1723, provided that: “If any provision of this Act [this subchapter], or the application thereof to any person, as that term is herein defined, is held invalid, the remainder of the Act and the application of the remaining provisions to any person shall not be affected thereby.”
 
-### § 70a. Violations of Federal Trade Commission Act
+### § 70a. Violations of Federal Trade Commission Act
 
 **(a) Introduction or manufacture for introduction into commerce, sale, advertising or offering for sale in commerce**
 
@@ -4099,15 +4099,15 @@ The sale, offering for sale, advertising, delivery, transportation, or causing t
 
 **(5)** to any textile fiber product until such product has been produced by the manufacturer or processor in the form intended for sale or delivery to, or for use by, the ultimate consumer: *Provided*, That this exemption shall apply only if such textile fiber product is covered by an invoice or other paper relating to the marketing or handling of the textile fiber product and such invoice or paper correctly discloses the information with respect to the textile fiber product which would otherwise be required under section 70b of this title to be on the stamp, tag, label, or other identification and the name and address of the person issuing the invoice or paper.
 
-(Pub. L. 85–897, § 3, Sept. 2, 1958, 72 Stat. 1718.)
+(Pub. L. 85–897, § 3, Sept. 2, 1958, 72 Stat. 1718.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsecs. (a) to (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) to (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-### § 70b. Misbranded and falsely advertised textile fiber products
+### § 70b. Misbranded and falsely advertised textile fiber products
 
 **(a) False or deceptive identification**
 
@@ -4163,7 +4163,7 @@ For purposes of this subchapter, any textile fiber product shall be misbranded i
 
 **(2) Exceptions.—** Any package that contains several different types of goods and includes socks classified under subheading 6115.92.90, 6115.93.90, 6115.99.18, 6111.20.60, 6111.30.50, or 6111.90.50 of the Harmonized Tariff Schedule of the United States, as in effect on September 1, 2003, shall not be subject to the requirements of paragraph (1).
 
-(Pub. L. 85–897, § 4, Sept. 2, 1958, 72 Stat. 1719; Pub. L. 89–35, §§ 1, 2, June 5, 1965, 79 Stat. 124; Pub. L. 98–417, title III, §§ 301–303, Sept. 24, 1984, 98 Stat. 1603, 1604; Pub. L. 108–429, title II, § 2004(h)(1), Dec. 3, 2004, 118 Stat. 2594.)
+(Pub. L. 85–897, § 4, Sept. 2, 1958, 72 Stat. 1719; Pub. L. 89–35, §§ 1, 2, June 5, 1965, 79 Stat. 124; Pub. L. 98–417, title III, §§ 301–303, Sept. 24, 1984, 98 Stat. 1603, 1604; Pub. L. 108–429, title II, § 2004(h)(1), Dec. 3, 2004, 118 Stat. 2594.)
 
 **Editorial Notes**
 
@@ -4171,33 +4171,33 @@ For purposes of this subchapter, any textile fiber product shall be misbranded i
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (k), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
-The Fur Products Labeling Act, referred to in subsec. (g), is act Aug. 8, 1951, ch. 298, 65 Stat. 175, which is classified generally to subchapter IV (§ 69 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 69 of this title and Tables.
+The Fur Products Labeling Act, referred to in subsec. (g), is act Aug. 8, 1951, ch. 298, 65 Stat. 175, which is classified generally to subchapter IV (§ 69 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 69 of this title and Tables.
 
 **Amendments**
 
 2004—Subsec. (k). Pub. L. 108–429 added subsec. (k).
 
-1984—Subsec. (b)(5). Pub. L. 98–417, § 301, added par. (5).
+1984—Subsec. (b)(5). Pub. L. 98–417, § 301, added par. (5).
 
-Subsec. (e). Pub. L. 98–417, § 302, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section shall not be construed as requiring the affixing of a stamp, tag, label, or other means of identification to each textile fiber product contained in a package if (1) such textile fiber products are intended for sale to the ultimate consumer in such package, (2) such package has affixed to it a stamp, tag, label, or other means of identification bearing, with respect to the textile fiber products contained therein, the information required by subsection (b) of this section, and (3) the information on the stamp, tag, label, or other means of identification affixed to such package is equally applicable with respect to each textile fiber product contained therein.”
+Subsec. (e). Pub. L. 98–417, § 302, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section shall not be construed as requiring the affixing of a stamp, tag, label, or other means of identification to each textile fiber product contained in a package if (1) such textile fiber products are intended for sale to the ultimate consumer in such package, (2) such package has affixed to it a stamp, tag, label, or other means of identification bearing, with respect to the textile fiber products contained therein, the information required by subsection (b) of this section, and (3) the information on the stamp, tag, label, or other means of identification affixed to such package is equally applicable with respect to each textile fiber product contained therein.”
 
-Subsecs. (i), (j). Pub. L. 98–417, § 303, added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 98–417, § 303, added subsecs. (i) and (j).
 
-1965—Subsec. (b)(1). Pub. L. 89–35, § 1, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount contained in such product”.
+1965—Subsec. (b)(1). Pub. L. 89–35, § 1, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount contained in such product”.
 
-Subsec. (b)(2). Pub. L. 89–35, § 2, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount stated”.
+Subsec. (b)(2). Pub. L. 89–35, § 2, inserted “, but nothing in this section shall be construed as prohibiting the disclosure of any fiber present in a textile fiber product which has a clearly established and definite functional significance where present in the amount stated”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–429, title II, § 2004(h)(2), Dec. 3, 2004, 118 Stat. 2594, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date that is 15 months after the date of enactment of this Act [Dec. 3, 2004], and on and after the date that is 15 months after such date of enactment, any provision of part 303 of title 16, Code of Federal Regulations, that is inconsistent with such amendment shall not apply.”
+Pub. L. 108–429, title II, § 2004(h)(2), Dec. 3, 2004, 118 Stat. 2594, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date that is 15 months after the date of enactment of this Act [Dec. 3, 2004], and on and after the date that is 15 months after such date of enactment, any provision of part 303 of title 16, Code of Federal Regulations, that is inconsistent with such amendment shall not apply.”
 
 **Effective Date of 1984 Amendment**
 
 Amendment by Pub. L. 98–417 effective 90 days after Sept. 24, 1984, see section 307 of Pub. L. 98–417, set out as a note under section 68b of this title.
 
-### § 70c. Removal of stamp, tag, label, or other identification
+### § 70c. Removal of stamp, tag, label, or other identification
 
 **(a) Removal or mutilation after shipment in commerce**
 
@@ -4215,15 +4215,15 @@ may substitute for the stamp, tag, label, or other means of identification requi
 
 If any person other than the ultimate consumer breaks a package which bears a stamp, tag, label, or other means of identification conforming to the requirements of section 70b of this title, and if such package contains one or more units of a textile fiber product to which a stamp, tag, label, or other identification conforming to the requirements of section 70b of this title is not affixed, such person shall affix a stamp, tag, label, or other identification bearing the information on the stamp, tag, label, or other means of identification attached to such broken package to each unit of textile fiber product taken from such broken package.
 
-(Pub. L. 85–897, § 5, Sept. 2, 1958, 72 Stat. 1720.)
+(Pub. L. 85–897, § 5, Sept. 2, 1958, 72 Stat. 1720.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-### § 70d. Records
+### § 70d. Records
 
 **(a) Maintenance and preservation by manufacturer**
 
@@ -4237,15 +4237,15 @@ Any person substituting a stamp, tag, label, or other identification pursuant to
 
 The neglect or refusal to maintain or preserve the records required by this section is unlawful, and any person neglecting or refusing to maintain such records shall be guilty of an unfair method of competition, and an unfair or deceptive act or practice, in commerce, under the Federal Trade Commission Act [15 U.S.C. 41 et seq.].
 
-(Pub. L. 85–897, § 6, Sept. 2, 1958, 72 Stat. 1721.)
+(Pub. L. 85–897, § 6, Sept. 2, 1958, 72 Stat. 1721.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-### § 70e. Enforcement
+### § 70e. Enforcement
 
 **(a) Enforcement by Federal Trade Commission**
 
@@ -4263,15 +4263,15 @@ The Commission is authorized and directed to make such rules and regulations, in
 
 The Commission is authorized to cause inspections, analyses, tests, and examinations to be made of any product subject to this subchapter.
 
-(Pub. L. 85–897, § 7, Sept. 2, 1958, 72 Stat. 1721.)
+(Pub. L. 85–897, § 7, Sept. 2, 1958, 72 Stat. 1721.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-### § 70f. Injunction proceedings
+### § 70f. Injunction proceedings
 
 Whenever the Commission has reason to believe—
 
@@ -4281,27 +4281,27 @@ Whenever the Commission has reason to believe—
 
 the Commission may bring suit in the district court of the United States or in the United States court of any Territory, for the district or Territory in which such person resides or transacts business, to enjoin the doing of such act and upon proper showing a temporary injunction or restraining order shall be granted without bond.
 
-(Pub. L. 85–897, § 8, Sept. 2, 1958, 72 Stat. 1721.)
+(Pub. L. 85–897, § 8, Sept. 2, 1958, 72 Stat. 1721.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-### § 70g. Exclusion of misbranded textile fiber products
+### § 70g. Exclusion of misbranded textile fiber products
 
 All textile fiber products imported into the United States shall be stamped, tagged, labeled, or otherwise identified in accordance with the provisions of section 70b of this title, and all invoices of such products required pursuant to section 1484 of title 19, shall set forth, in addition to the matter therein specified, the information with respect to said products required under the provisions of section 70b(b) of this title, which information shall be in the invoices prior to their certification, if such certification is required pursuant to section 1484 of title 19. The falsification of, or failure to set forth the required information in such invoices, or the falsification or perjury of the consignee’s declaration provided for in section 1485 of title 19, insofar as it relates to such information, is unlawful, and shall be an unfair method of competition, and an unfair and deceptive act or practice, in commerce under the Federal Trade Commission Act [15 U.S.C. 41 et seq.]; and any person who falsifies, or perjures the consignee’s declaration insofar as it relates to such information, may thenceforth be prohibited by the Commission from importing, or participating in the importation of, any textile fiber product into the United States except upon filing bond with the Secretary of the Treasury in a sum double the value of said products and any duty thereon, conditioned upon compliance with the provisions of this subchapter. A verified statement from the manufacturer or producer of such products showing their fiber content as required under the provisions of this subchapter may be required under regulation prescribed by the Secretary of the Treasury.
 
-(Pub. L. 85–897, § 9, Sept. 2, 1958, 72 Stat. 1722.)
+(Pub. L. 85–897, § 9, Sept. 2, 1958, 72 Stat. 1722.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-### § 70h. Guaranty
+### § 70h. Guaranty
 
 **(a) Avoidance of liability; requirements**
 
@@ -4311,23 +4311,23 @@ No person shall be guilty of an unlawful act under section 70a of this title if 
 
 The furnishing of a false guaranty, except where the person furnishing such false guaranty relies on a guaranty to the same effect received in good faith signed by and containing the name and address of the person residing in the United States by whom the product guaranteed was manufactured or from whom it was received, is unlawful, and shall be an unfair method of competition, and an unfair and deceptive act or practice, in commerce, within the meaning of the Federal Trade Commission Act [15 U.S.C. 41 et seq.].
 
-(Pub. L. 85–897, § 10, Sept. 2, 1958, 72 Stat. 1722.)
+(Pub. L. 85–897, § 10, Sept. 2, 1958, 72 Stat. 1722.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-### § 70i. Criminal penalty
+### § 70i. Criminal penalty
 
 **(a)** Any person who willfully does an act which by section 70a, 70c, 70d, 70g, or 70h(b) of this title is declared to be unlawful shall be guilty of a misdemeanor and upon conviction shall be fined not more than $5,000 or be imprisoned not more than one year, or both, in the discretion of the court: *Provided*, That nothing in this section shall limit any other provision of this subchapter.
 
 **(b)** Whenever the Commission has reason to believe that any person is guilty of a misdemeanor under this section, it may certify all pertinent facts to the Attorney General. If, on the basis of the facts certified, the Attorney General concurs in such belief, it shall be his duty to cause appropriate proceedings to be brought for the enforcement of the provisions of this section against such person.
 
-(Pub. L. 85–897, § 11, Sept. 2, 1958, 72 Stat. 1723.)
+(Pub. L. 85–897, § 11, Sept. 2, 1958, 72 Stat. 1723.)
 
-### § 70j. Exemptions
+### § 70j. Exemptions
 
 **(a)** None of the provisions of this subchapter shall be construed to apply to—
 
@@ -4357,65 +4357,65 @@ The exemption provided for any article by paragraph (3) or (4) of this subsectio
 
 **(b)** The Commission may exclude from the provisions of this subchapter other textile fiber products (1) which have an insignificant or inconsequential textile fiber content, or (2) with respect to which the disclosure of textile fiber content is not necessary for the protection of the ultimate consumer.
 
-(Pub. L. 85–897, § 12, Sept. 2, 1958, 72 Stat. 1723.)
+(Pub. L. 85–897, § 12, Sept. 2, 1958, 72 Stat. 1723.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug and Cosmetic Act of 1938, referred to in subsec. (a)(8), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug and Cosmetic Act of 1938, referred to in subsec. (a)(8), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-### § 70k. Application of other laws
+### § 70k. Application of other laws
 
 The provisions of this subchapter shall be held to be in addition to, and not in substitution for or limitation of, the provisions of any other Act of the United States.
 
-(Pub. L. 85–897, § 14, Sept. 2, 1958, 72 Stat. 1724.)
+(Pub. L. 85–897, § 14, Sept. 2, 1958, 72 Stat. 1724.)
 
 ## SUBCHAPTER VI—PREVENTION OF UNFAIR METHODS OF COMPETITION
 
-### § 71. “Person” defined
+### § 71. “Person” defined
 
 When used in this subchapter the term “person” includes partnerships, corporations, and associations.
 
-(Sept. 8, 1916, ch. 463, title VIII, § 800, 39 Stat. 798.)
+(Sept. 8, 1916, ch. 463, title VIII, § 800, 39 Stat. 798.)
 
-### § 72. Repealed. Pub. L. 108–429, title II, § 2006(a), Dec. 3, 2004, 118 Stat. 2597
+### § 72. Repealed. Pub. L. 108–429, title II, § 2006(a), Dec. 3, 2004, 118 Stat. 2597
 
-Section, act Sept. 8, 1916, ch. 463, title VIII, § 801, 39 Stat. 798, related to importation or sale of articles at less than market value or wholesale price.
+Section, act Sept. 8, 1916, ch. 463, title VIII, § 801, 39 Stat. 798, related to importation or sale of articles at less than market value or wholesale price.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 108–429, title II, § 2006(b), Dec. 3, 2004, 118 Stat. 2597, provided that: “The repeal made by subsection (a) [repealing this section] shall not affect any action under section 801 of the Act referred to in subsection (a) [this section] that was commenced before the date of the enactment of this Act [Dec. 3, 2004] and is pending on such date.”
+Pub. L. 108–429, title II, § 2006(b), Dec. 3, 2004, 118 Stat. 2597, provided that: “The repeal made by subsection (a) [repealing this section] shall not affect any action under section 801 of the Act referred to in subsection (a) [this section] that was commenced before the date of the enactment of this Act [Dec. 3, 2004] and is pending on such date.”
 
-### § 73. Agreements involving restrictions in favor of imported goods
+### § 73. Agreements involving restrictions in favor of imported goods
 
 If any article produced in a foreign country is imported into the United States under any agreement, understanding, or condition that the importer thereof or any other person in the United States shall not use, purchase, or deal in, or shall be restricted in his using, purchasing, or dealing in, the articles of any other person, there shall be levied, collected, and paid thereon, in addition to the duty otherwise imposed by law, a special duty equal to double the amount of such duty: *Provided*, That the above shall not be interpreted to prevent the establishing in this country on the part of a foreign producer of an exclusive agency for the sale in the United States of the products of said foreign producer or merchant, nor to prevent such exclusive agent from agreeing not to use, purchase, or deal in the article of any other person, but this proviso shall not be construed to exempt from the provisions of this section any article imported by such exclusive agent if such agent is required by the foreign producer or if it is agreed between such agent and such foreign producer that any agreement, understanding or condition set out in this section shall be imposed by such agent upon the sale or other disposition of such article to any person in the United States.
 
-(Sept. 8, 1916, ch. 463, title VIII, § 802, 39 Stat. 799.)
+(Sept. 8, 1916, ch. 463, title VIII, § 802, 39 Stat. 799.)
 
-### § 74. Rules and regulations
+### § 74. Rules and regulations
 
 The Secretary of the Treasury shall make such rules and regulations as are necessary for the carrying out of the provisions of section 73 of this title.
 
-(Sept. 8, 1916, ch. 463, title VIII, § 803, 39 Stat. 799.)
+(Sept. 8, 1916, ch. 463, title VIII, § 803, 39 Stat. 799.)
 
-### § 75. Retaliation against country prohibiting importations
+### § 75. Retaliation against country prohibiting importations
 
 Whenever any country, dependency, or colony shall prohibit the importation of any article the product of the soil or industry of the United States and not injurious to health or morals, the President shall have power to prohibit, during the period such prohibition is in force, the importation into the United States of similar articles, or in case the United States does not import similar articles from that country, then other articles, the products of such country, dependency, or colony.
 
 And the Secretary of the Treasury, with the approval of the President, shall make such rules and regulations as are necessary for the execution of the provisions of this section.
 
-(Sept. 8, 1916, ch. 463, title VIII, § 804, 39 Stat. 799.)
+(Sept. 8, 1916, ch. 463, title VIII, § 804, 39 Stat. 799.)
 
-### § 76. Retaliation against restriction of importations in time of war
+### § 76. Retaliation against restriction of importations in time of war
 
 Whenever, during the existence of a war in which the United States is not engaged, the President shall be satisfied that there is reasonable ground to believe that under the laws, regulations, or practices of any country, colony, or dependency contrary to the law and practice of nations, the importation into their own or any other country, dependency, or colony of any article the product of the soil or industry of the United States and not injurious to health or morals is prevented or restricted the President is authorized and empowered to prohibit or restrict during the period such prohibition or restriction is in force, the importation into the United States of similar or other articles, products of such country, dependency, or colony as in his opinion the public interest may require; and in such case he shall make proclamation stating the article or articles which are prohibited from importation into the United States; and any person or persons who shall import, or attempt or conspire to import, or be concerned in importing, such article or articles, into the United States contrary to the prohibition in such proclamation, shall be liable to a fine of not less than $2,000 nor more than $50,000, or to imprisonment not to exceed two years, or both, in the discretion of the court. The President may change, modify, revoke, or renew such proclamation in his discretion.
 
-(Sept. 8, 1916, ch. 463, title VIII, § 805, 39 Stat. 799.)
+(Sept. 8, 1916, ch. 463, title VIII, § 805, 39 Stat. 799.)
 
-### § 77. Discrimination against neutral Americans in time of war
+### § 77. Discrimination against neutral Americans in time of war
 
 Whenever, during the existence of a war in which the United States is not engaged, the President shall be satisfied that there is reasonable ground to believe that any vessel, American or foreign, is, on account of the laws, regulations, or practices of a belligerent Government, making or giving any undue or unreasonable preference or advantage in any respect whatsoever to any particular person, company, firm, or corporation, or any particular description of traffic in the United States or its possessions or to any citizens of the United States residing in neutral countries abroad, or is subjecting any particular person, company, firm, or corporation or any particular description of traffic in the United States or its possessions, or any citizens of the United States residing in neutral countries abroad to any undue or unreasonable prejudice, disadvantage, injury, or discrimination in regard to accepting, receiving, transporting, or delivering, or refusing to accept, receive, transfer, or deliver any cargo, freight, or passengers, or in any other respect whatsoever, he is authorized and empowered to direct the detention of such vessels by withholding clearance or by formal notice forbidding departure, and to revoke, modify, or renew any such direction.
 
@@ -4425,7 +4425,7 @@ In case any vessel which is detained by virtue of this subchapter shall depart o
 
 The President of the United States is authorized and empowered to employ such part of the land or naval forces of the United States as shall be necessary to carry out the purposes of this subchapter.
 
-(Sept. 8, 1916, ch. 463, title VIII, § 806, 39 Stat. 799.)
+(Sept. 8, 1916, ch. 463, title VIII, § 806, 39 Stat. 799.)
 
 **Executive Documents**
 

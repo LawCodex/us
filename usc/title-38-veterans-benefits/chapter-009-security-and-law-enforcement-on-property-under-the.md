@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 9—SECURITY AND LAW ENFORCEMENT ON PROPERTY UNDER THE JURISDICTION OF THE DEPARTMENT
 
-## § 901. Authority to prescribe rules for conduct and penalties for violations
+## § 901. Authority to prescribe rules for conduct and penalties for violations
 
 **(a)**
 
@@ -41,7 +41,7 @@ retrieved: 2026-10-11
 
 **(2)** For purposes of this subsection, a covered service dog is a service dog that has been trained by an entity that is accredited by an appropriate accrediting body that evaluates and accredits organizations which train guide or service dogs.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 397; amended Pub. L. 112–154, title I, § 109, Aug. 6, 2012, 126 Stat. 1174.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 397; amended Pub. L. 112–154, title I, § 109, Aug. 6, 2012, 126 Stat. 1174.)
 
 **Editorial Notes**
 
@@ -49,13 +49,13 @@ retrieved: 2026-10-11
 
 Prior section 901 was renumbered section 2301 of this title.
 
-Provisions similar to those in this section were contained in section 218(a) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 218(a) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
 2012—Subsec. (f). Pub. L. 112–154 added subsec. (f).
 
-## § 902. Enforcement and arrest authority of Department police officers
+## § 902. Enforcement and arrest authority of Department police officers
 
 **(a)**
 
@@ -139,7 +139,7 @@ Provisions similar to those in this section were contained in section 218(a) of 
 
 **(ii)** An incident, including an allegation, of the use of force by a Department police officer that results in any person receiving medical attention.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 397; amended Pub. L. 111–163, title X, § 1001, May 5, 2010, 124 Stat. 1181; Pub. L. 117–328, div. U, title IV, § 405(a), (b)(1), (c), Dec. 29, 2022, 136 Stat. 5491, 5492.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 397; amended Pub. L. 111–163, title X, § 1001, May 5, 2010, 124 Stat. 1181; Pub. L. 117–328, div. U, title IV, § 405(a), (b)(1), (c), Dec. 29, 2022, 136 Stat. 5491, 5492.)
 
 **Editorial Notes**
 
@@ -151,17 +151,17 @@ The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole M
 
 A prior section 902 was renumbered section 2302 of this title, prior to repeal by Pub. L. 116–315.
 
-Provisions similar to those in this section were contained in section 218(b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 218(b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
-2022—Subsec. (a)(3). Pub. L. 117–328, § 405(b)(1), added par. (3).
+2022—Subsec. (a)(3). Pub. L. 117–328, § 405(b)(1), added par. (3).
 
-Subsec. (e). Pub. L. 117–328, § 405(a), added subsec. (e).
+Subsec. (e). Pub. L. 117–328, § 405(a), added subsec. (e).
 
-Subsec. (f). Pub. L. 117–328, § 405(c), added subsec. (f).
+Subsec. (f). Pub. L. 117–328, § 405(c), added subsec. (f).
 
-2010—Subsec. (a)(1). Pub. L. 111–163, § 1001(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Employees of the Department who are Department police officers shall, with respect to acts occurring on Department property, enforce—
+2010—Subsec. (a)(1). Pub. L. 111–163, § 1001(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Employees of the Department who are Department police officers shall, with respect to acts occurring on Department property, enforce—
 
 “(A) Federal laws;
 
@@ -169,15 +169,15 @@ Subsec. (f). Pub. L. 117–328, § 405(c), added subsec. (f).
 
 “(C) subject to paragraph (2), traffic and motor vehicle laws of a State or local government within the jurisdiction of which such Department property is located.”
 
-Subsec. (a)(2), (3). Pub. L. 111–163, § 1001(1)(B), (C), redesignated par. (3) as (2), inserted “, and on any arrest warrant issued by competent judicial authority” before the period, and struck out former par. (2) which read as follows: “A law described in subparagraph (C) of paragraph (1) may be enforced under such subparagraph only as authorized by an express grant of authority under applicable State or local law. Any such enforcement shall be by the issuance of a citation for violation of such law.”
+Subsec. (a)(2), (3). Pub. L. 111–163, § 1001(1)(B), (C), redesignated par. (3) as (2), inserted “, and on any arrest warrant issued by competent judicial authority” before the period, and struck out former par. (2) which read as follows: “A law described in subparagraph (C) of paragraph (1) may be enforced under such subparagraph only as authorized by an express grant of authority under applicable State or local law. Any such enforcement shall be by the issuance of a citation for violation of such law.”
 
-Subsec. (c). Pub. L. 111–163, § 1001(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall consult with the Attorney General before prescribing regulations under paragraph (1) of subsection (b).”
+Subsec. (c). Pub. L. 111–163, § 1001(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall consult with the Attorney General before prescribing regulations under paragraph (1) of subsection (b).”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Guidance on the Use of Body Worn Cameras; Consultation**
 
-Pub. L. 117–328, div. U, title IV, § 405(b)(2), (3), (f), Dec. 29, 2022, 136 Stat. 5492, 5493, provided that:
+Pub. L. 117–328, div. U, title IV, § 405(b)(2), (3), (f), Dec. 29, 2022, 136 Stat. 5492, 5493, provided that:
 
 > **“(2) Guidance.—** Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall issue, and make publicly available, guidance on the use of body worn cameras by Department police officers pursuant to section 902(a)(3) of title 38, United States Code, as amended by paragraph (1).
 
@@ -191,7 +191,7 @@ Pub. L. 117–328, div. U, title IV, § 405(b)(2), (3), (f), Dec. 29, 2022, 13
 
 **Police Crisis Intervention Training of Department of Veterans Affairs**
 
-Pub. L. 116–214, title II, § 205, Dec. 5, 2020, 134 Stat. 1038, provided that:
+Pub. L. 116–214, title II, § 205, Dec. 5, 2020, 134 Stat. 1038, provided that:
 
 > **“(a) Training.—** The Secretary of Veterans Affairs shall provide to Department police officers an annual training on the prevention of suicide among the population served by the Department police officers.
 
@@ -231,7 +231,7 @@ Pub. L. 116–214, title II, § 205, Dec. 5, 2020, 134 Stat. 1038, provided th
 
 > **“(f) Department Police Officer Defined.—** In this section, the term ‘Department police officer’ means an employee of the Department of Veterans Affairs specified in section 902(a) of title 38, United States Code.”
 
-## § 903. Uniform allowance
+## § 903. Uniform allowance
 
 **(a)** The Secretary may pay an allowance under this section for the purchase of uniforms to any Department police officer who is required to wear a prescribed uniform in the performance of official duties.
 
@@ -251,7 +251,7 @@ Pub. L. 116–214, title II, § 205, Dec. 5, 2020, 134 Stat. 1038, provided th
 
 **(e)** An allowance may not be paid to a Department police officer under this section and under section 5901 of title 5 for the same fiscal year.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 398; amended Pub. L. 111–163, title X, § 1002, May 5, 2010, 124 Stat. 1182.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 398; amended Pub. L. 111–163, title X, § 1002, May 5, 2010, 124 Stat. 1182.)
 
 **Editorial Notes**
 
@@ -259,7 +259,7 @@ Pub. L. 116–214, title II, § 205, Dec. 5, 2020, 134 Stat. 1038, provided th
 
 Prior section 903 was renumbered section 2303 of this title.
 
-Provisions similar to those in this section were contained in section 218(c) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 218(c) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 **Amendments**
 
@@ -275,11 +275,11 @@ Provisions similar to those in this section were contained in section 218(c) of 
 
 “(c) The amount of an allowance under this section may be increased to an amount up to $400 for not more than one fiscal year in the case of any Department police officer. In the case of a person who is appointed as a Department police officer on or after January 1, 1990, an allowance in an amount established under this subsection shall be paid at the beginning of such person’s employment as such an officer. In the case of any other Department police officer, an allowance in an amount established under this subsection shall be paid upon the request of the officer.”
 
-## § 904. Equipment and weapons
+## § 904. Equipment and weapons
 
 The Secretary shall furnish Department police officers with such weapons and related equipment as the Secretary determines to be necessary and appropriate.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 399.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 399.)
 
 **Editorial Notes**
 
@@ -287,13 +287,13 @@ The Secretary shall furnish Department police officers with such weapons and rel
 
 Prior section 904 was renumbered section 2304 of this title.
 
-Provisions similar to those in this section were contained in section 218(d) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 218(d) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
-## § 905. Use of facilities and services of other law enforcement agencies
+## § 905. Use of facilities and services of other law enforcement agencies
 
 With the permission of the head of the agency concerned, the Secretary may use the facilities and services of Federal, State, and local law enforcement agencies when it is economical and in the public interest to do so.
 
-(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 399.)
+(Added Pub. L. 102–83, § 2(a), Aug. 6, 1991, 105 Stat. 399.)
 
 **Editorial Notes**
 
@@ -301,6 +301,6 @@ With the permission of the head of the agency concerned, the Secretary may use t
 
 Prior section 905 was renumbered section 2305 of this title.
 
-Provisions similar to those in this section were contained in section 218(e) of this title prior to repeal by Pub. L. 102–83, § 2(a).
+Provisions similar to those in this section were contained in section 218(e) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 Prior sections 906 to 908 and 1000 to 1010 were renumbered sections 2306 to 2308 and 2400 to 2410 of this title, respectively.

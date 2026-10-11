@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 15, consisting of sections 1501 to 151326, related to a pilot program for a United States trustee system, prior to repeal by Pub. L. 99–554, title II, § 231, Oct. 27, 1986, 100 Stat. 3103.
+A prior chapter 15, consisting of sections 1501 to 151326, related to a pilot program for a United States trustee system, prior to repeal by Pub. L. 99–554, title II, § 231, Oct. 27, 1986, 100 Stat. 3103.
 
-## § 1501. Purpose and scope of application
+## § 1501. Purpose and scope of application
 
 **(a)** The purpose of this chapter is to incorporate the Model Law on Cross-Border Insolvency so as to provide effective mechanisms for dealing with cases of cross-border insolvency with the objectives of—
 
@@ -59,17 +59,17 @@ A prior chapter 15, consisting of sections 1501 to 151326, related to a pilot pr
 
 **(d)** The court may not grant relief under this chapter with respect to any deposit, escrow, trust fund, or other security required or permitted under any applicable State insurance law or regulation for the benefit of claim holders in the United States.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 135.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 135.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Investor Protection Act of 1970, referred to in subsec. (c)(3), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in subsec. (c)(3), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
 **Prior Provisions**
 
-A prior section 1501, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652, related to applicability of chapter which provided a pilot program for a United States trustee system, prior to repeal by Pub. L. 99–554, title II, § 231, Oct. 27, 1986, 100 Stat. 3103.
+A prior section 1501, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652, related to applicability of chapter which provided a pilot program for a United States trustee system, prior to repeal by Pub. L. 99–554, title II, § 231, Oct. 27, 1986, 100 Stat. 3103.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -79,7 +79,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 1502. Definitions
+### § 1502. Definitions
 
 For the purposes of this chapter, the term—
 
@@ -99,7 +99,7 @@ For the purposes of this chapter, the term—
 
 **(8)** “within the territorial jurisdiction of the United States”, when used with reference to property of a debtor, refers to tangible property located within the territory of the United States and intangible property deemed under applicable nonbankruptcy law to be located within that territory, including any property subject to attachment or garnishment that may properly be seized or garnished by an action in a Federal or State court in the United States.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 135.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 135.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -107,11 +107,11 @@ For the purposes of this chapter, the term—
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1503. International obligations of the United States
+### § 1503. International obligations of the United States
 
 To the extent that this chapter conflicts with an obligation of the United States arising out of any treaty or other form of agreement to which it is a party with one or more other countries, the requirements of the treaty or agreement prevail.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 136.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 136.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -119,11 +119,11 @@ To the extent that this chapter conflicts with an obligation of the United State
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1504. Commencement of ancillary case
+### § 1504. Commencement of ancillary case
 
 A case under this chapter is commenced by the filing of a petition for recognition of a foreign proceeding under section 1515.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 136.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 136.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -131,11 +131,11 @@ A case under this chapter is commenced by the filing of a petition for recogniti
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1505. Authorization to act in a foreign country
+### § 1505. Authorization to act in a foreign country
 
 A trustee or another entity (including an examiner) may be authorized by the court to act in a foreign country on behalf of an estate created under section 541. An entity authorized to act under this section may act in any way permitted by the applicable foreign law.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 136.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 136.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -143,11 +143,11 @@ A trustee or another entity (including an examiner) may be authorized by the cou
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1506. Public policy exception
+### § 1506. Public policy exception
 
 Nothing in this chapter prevents the court from refusing to take an action governed by this chapter if the action would be manifestly contrary to the public policy of the United States.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 136.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 136.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -155,7 +155,7 @@ Nothing in this chapter prevents the court from refusing to take an action gover
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1507. Additional assistance
+### § 1507. Additional assistance
 
 **(a)** Subject to the specific limitations stated elsewhere in this chapter the court, if recognition is granted, may provide additional assistance to a foreign representative under this title or under other laws of the United States.
 
@@ -171,7 +171,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(5)** if appropriate, the provision of an opportunity for a fresh start for the individual that such foreign proceeding concerns.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 136.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 136.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -179,11 +179,11 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1508. Interpretation
+### § 1508. Interpretation
 
 In interpreting this chapter, the court shall consider its international origin, and the need to promote an application of this chapter that is consistent with the application of similar statutes adopted by foreign jurisdictions.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 137.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 137.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -193,7 +193,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 ## SUBCHAPTER II—ACCESS OF FOREIGN REPRESENTATIVES AND CREDITORS TO THE COURT
 
-### § 1509. Right of direct access
+### § 1509. Right of direct access
 
 **(a)** A foreign representative may commence a case under section 1504 by filing directly with the court a petition for recognition of a foreign proceeding under section 1515.
 
@@ -213,7 +213,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(f)** Notwithstanding any other provision of this section, the failure of a foreign representative to commence a case or to obtain recognition under this chapter does not affect any right the foreign representative may have to sue in a court in the United States to collect or recover a claim which is the property of the debtor.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 137.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 137.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -221,11 +221,11 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1510. Limited jurisdiction
+### § 1510. Limited jurisdiction
 
 The sole fact that a foreign representative files a petition under section 1515 does not subject the foreign representative to the jurisdiction of any court in the United States for any other purpose.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 138.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 138.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -233,7 +233,7 @@ The sole fact that a foreign representative files a petition under section 1515 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1511. Commencement of case under section 301, 302, or 303
+### § 1511. Commencement of case under section 301, 302, or 303
 
 **(a)** Upon recognition, a foreign representative may commence—
 
@@ -243,13 +243,13 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(b)** The petition commencing a case under subsection (a) must be accompanied by a certified copy of an order granting recognition. The court where the petition for recognition has been filed must be advised of the foreign representative’s intent to commence a case under subsection (a) prior to such commencement.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 138; amended Pub. L. 111–327, § 2(a)(45), Dec. 22, 2010, 124 Stat. 3562.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 138; amended Pub. L. 111–327, § 2(a)(45), Dec. 22, 2010, 124 Stat. 3562.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Pub. L. 111–327 inserted “, 302,” after “301” in section catchline.
+2010—Pub. L. 111–327 inserted “, 302,” after “301” in section catchline.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -257,11 +257,11 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1512. Participation of a foreign representative in a case under this title
+### § 1512. Participation of a foreign representative in a case under this title
 
 Upon recognition of a foreign proceeding, the foreign representative in the recognized proceeding is entitled to participate as a party in interest in a case regarding the debtor under this title.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 138.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 138.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -269,7 +269,7 @@ Upon recognition of a foreign proceeding, the foreign representative in the reco
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1513. Access of foreign creditors to a case under this title
+### § 1513. Access of foreign creditors to a case under this title
 
 **(a)** Foreign creditors have the same rights regarding the commencement of, and participation in, a case under this title as domestic creditors.
 
@@ -283,7 +283,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(B)** Allowance and priority as to a foreign tax claim or other foreign public law claim shall be governed by any applicable tax treaty of the United States, under the conditions and circumstances specified therein.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 138.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 138.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -291,7 +291,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1514. Notification to foreign creditors concerning a case under this title
+### § 1514. Notification to foreign creditors concerning a case under this title
 
 **(a)** Whenever in a case under this title notice is to be given to creditors generally or to any class or category of creditors, such notice shall also be given to the known creditors generally, or to creditors in the notified class or category, that do not have addresses in the United States. The court may order that appropriate steps be taken with a view to notifying any creditor whose address is not yet known.
 
@@ -307,7 +307,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(d)** Any rule of procedure or order of the court as to notice or the filing of a proof of claim shall provide such additional time to creditors with foreign addresses as is reasonable under the circumstances.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 138.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 138.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -317,7 +317,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 ## SUBCHAPTER III—RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF
 
-### § 1515. Application for recognition
+### § 1515. Application for recognition
 
 **(a)** A foreign representative applies to the court for recognition of a foreign proceeding in which the foreign representative has been appointed by filing a petition for recognition.
 
@@ -333,7 +333,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(d)** The documents referred to in paragraphs (1) and (2) of subsection (b) shall be translated into English. The court may require a translation into English of additional documents.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 139.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 139.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -341,7 +341,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1516. Presumptions concerning recognition
+### § 1516. Presumptions concerning recognition
 
 **(a)** If the decision or certificate referred to in section 1515(b) indicates that the foreign proceeding is a foreign proceeding and that the person or body is a foreign representative, the court is entitled to so presume.
 
@@ -349,7 +349,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(c)** In the absence of evidence to the contrary, the debtor’s registered office, or habitual residence in the case of an individual, is presumed to be the center of the debtor’s main interests.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 139.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 139.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -357,7 +357,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1517. Order granting recognition
+### § 1517. Order granting recognition
 
 **(a)** Subject to section 1506, after notice and a hearing, an order recognizing a foreign proceeding shall be entered if—
 
@@ -377,7 +377,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(d)** The provisions of this subchapter do not prevent modification or termination of recognition if it is shown that the grounds for granting it were fully or partially lacking or have ceased to exist, but in considering such action the court shall give due weight to possible prejudice to parties that have relied upon the order granting recognition. A case under this chapter may be closed in the manner prescribed under section 350.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 139.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 139.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -385,7 +385,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1518. Subsequent information
+### § 1518. Subsequent information
 
 From the time of filing the petition for recognition of a foreign proceeding, the foreign representative shall file with the court promptly a notice of change of status concerning—
 
@@ -393,7 +393,7 @@ From the time of filing the petition for recognition of a foreign proceeding, th
 
 **(2)** any other foreign proceeding regarding the debtor that becomes known to the foreign representative.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 140.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 140.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -401,7 +401,7 @@ From the time of filing the petition for recognition of a foreign proceeding, th
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1519. Relief that may be granted upon filing petition for recognition
+### § 1519. Relief that may be granted upon filing petition for recognition
 
 **(a)** From the time of filing a petition for recognition until the court rules on the petition, the court may, at the request of the foreign representative, where relief is urgently needed to protect the assets of the debtor or the interests of the creditors, grant relief of a provisional nature, including—
 
@@ -421,7 +421,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(f)** The exercise of rights not subject to the stay arising under section 362(a) pursuant to paragraph (6), (7), (17), or (27) of section 362(b) or pursuant to section 362(*o*) shall not be stayed by any order of a court or administrative agency in any proceeding under this chapter.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 140; amended Pub. L. 111–327, § 2(a)(46), Dec. 22, 2010, 124 Stat. 3562.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 140; amended Pub. L. 111–327, § 2(a)(46), Dec. 22, 2010, 124 Stat. 3562.)
 
 **Editorial Notes**
 
@@ -435,7 +435,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1520. Effects of recognition of a foreign main proceeding
+### § 1520. Effects of recognition of a foreign main proceeding
 
 **(a)** Upon recognition of a foreign proceeding that is a foreign main proceeding—
 
@@ -451,7 +451,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(c)** Subsection (a) does not affect the right of a foreign representative or an entity to file a petition commencing a case under this title or the right of any party to file claims or take other proper actions in such a case.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 141.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 141.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -459,7 +459,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1521. Relief that may be granted upon recognition
+### § 1521. Relief that may be granted upon recognition
 
 **(a)** Upon recognition of a foreign proceeding, whether main or nonmain, where necessary to effectuate the purpose of this chapter and to protect the assets of the debtor or the interests of the creditors, the court may, at the request of the foreign representative, grant any appropriate relief, including—
 
@@ -487,7 +487,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(f)** The exercise of rights not subject to the stay arising under section 362(a) pursuant to paragraph (6), (7), (17), or (27) of section 362(b) or pursuant to section 362(*o*) shall not be stayed by any order of a court or administrative agency in any proceeding under this chapter.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 141; amended Pub. L. 111–327, § 2(a)(47), Dec. 22, 2010, 124 Stat. 3562.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 141; amended Pub. L. 111–327, § 2(a)(47), Dec. 22, 2010, 124 Stat. 3562.)
 
 **Editorial Notes**
 
@@ -501,7 +501,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1522. Protection of creditors and other interested persons
+### § 1522. Protection of creditors and other interested persons
 
 **(a)** The court may grant relief under section 1519 or 1521, or may modify or terminate relief under subsection (c), only if the interests of the creditors and other interested entities, including the debtor, are sufficiently protected.
 
@@ -511,7 +511,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 **(d)** Section 1104(d) shall apply to the appointment of an examiner under this chapter. Any examiner shall comply with the qualification requirements imposed on a trustee by section 322.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 142.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 142.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -519,13 +519,13 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1523. Actions to avoid acts detrimental to creditors
+### § 1523. Actions to avoid acts detrimental to creditors
 
 **(a)** Upon recognition of a foreign proceeding, the foreign representative has standing in a case concerning the debtor pending under another chapter of this title to initiate actions under sections 522, 544, 545, 547, 548, 550, 553, and 724(a).
 
 **(b)** When a foreign proceeding is a foreign nonmain proceeding, the court must be satisfied that an action under subsection (a) relates to assets that, under United States law, should be administered in the foreign nonmain proceeding.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 142.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 142.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -533,11 +533,11 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1524. Intervention by a foreign representative
+### § 1524. Intervention by a foreign representative
 
 Upon recognition of a foreign proceeding, the foreign representative may intervene in any proceedings in a State or Federal court in the United States in which the debtor is a party.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 142.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 142.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -547,13 +547,13 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 ## SUBCHAPTER IV—COOPERATION WITH FOREIGN COURTS AND FOREIGN REPRESENTATIVES
 
-### § 1525. Cooperation and direct communication between the court and foreign courts or foreign representatives
+### § 1525. Cooperation and direct communication between the court and foreign courts or foreign representatives
 
 **(a)** Consistent with section 1501, the court shall cooperate to the maximum extent possible with a foreign court or a foreign representative, either directly or through the trustee.
 
 **(b)** The court is entitled to communicate directly with, or to request information or assistance directly from, a foreign court or a foreign representative, subject to the rights of a party in interest to notice and participation.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 143.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 143.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -561,13 +561,13 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1526. Cooperation and direct communication between the trustee and foreign courts or foreign representatives
+### § 1526. Cooperation and direct communication between the trustee and foreign courts or foreign representatives
 
 **(a)** Consistent with section 1501, the trustee or other person, including an examiner, authorized by the court, shall, subject to the supervision of the court, cooperate to the maximum extent possible with a foreign court or a foreign representative.
 
 **(b)** The trustee or other person, including an examiner, authorized by the court is entitled, subject to the supervision of the court, to communicate directly with a foreign court or a foreign representative.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 143.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 143.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -575,7 +575,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1527. Forms of cooperation
+### § 1527. Forms of cooperation
 
 Cooperation referred to in sections 1525 and 1526 may be implemented by any appropriate means, including—
 
@@ -589,7 +589,7 @@ Cooperation referred to in sections 1525 and 1526 may be implemented by any appr
 
 **(5)** coordination of concurrent proceedings regarding the same debtor.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 143.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 143.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -599,11 +599,11 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
 ## SUBCHAPTER V—CONCURRENT PROCEEDINGS
 
-### § 1528. Commencement of a case under this title after recognition of a foreign main proceeding
+### § 1528. Commencement of a case under this title after recognition of a foreign main proceeding
 
 After recognition of a foreign main proceeding, a case under another chapter of this title may be commenced only if the debtor has assets in the United States. The effects of such case shall be restricted to the assets of the debtor that are within the territorial jurisdiction of the United States and, to the extent necessary to implement cooperation and coordination under sections 1525, 1526, and 1527, to other assets of the debtor that are within the jurisdiction of the court under sections 541(a) of this title, and 1334(e) of title 28, to the extent that such other assets are not subject to the jurisdiction and control of a foreign proceeding that has been recognized under this chapter.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 143.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 143.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -611,7 +611,7 @@ After recognition of a foreign main proceeding, a case under another chapter of 
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1529. Coordination of a case under this title and a foreign proceeding
+### § 1529. Coordination of a case under this title and a foreign proceeding
 
 If a foreign proceeding and a case under another chapter of this title are pending concurrently regarding the same debtor, the court shall seek cooperation and coordination under sections 1525, 1526, and 1527, and the following shall apply:
 
@@ -631,7 +631,7 @@ If a foreign proceeding and a case under another chapter of this title are pendi
 
 **(4)** In achieving cooperation and coordination under sections 1528 and 1529, the court may grant any of the relief authorized under section 305.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 144; amended Pub. L. 111–327, § 2(a)(48), Dec. 22, 2010, 124 Stat. 3562.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 144; amended Pub. L. 111–327, § 2(a)(48), Dec. 22, 2010, 124 Stat. 3562.)
 
 **Editorial Notes**
 
@@ -645,7 +645,7 @@ If a foreign proceeding and a case under another chapter of this title are pendi
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1530. Coordination of more than 1 foreign proceeding
+### § 1530. Coordination of more than 1 foreign proceeding
 
 In matters referred to in section 1501, with respect to more than 1 foreign proceeding regarding the debtor, the court shall seek cooperation and coordination under sections 1525, 1526, and 1527, and the following shall apply:
 
@@ -655,7 +655,7 @@ In matters referred to in section 1501, with respect to more than 1 foreign proc
 
 **(3)** If, after recognition of a foreign nonmain proceeding, another foreign nonmain proceeding is recognized, the court shall grant, modify, or terminate relief for the purpose of facilitating coordination of the proceedings.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 144.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 144.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -663,11 +663,11 @@ In matters referred to in section 1501, with respect to more than 1 foreign proc
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1531. Presumption of insolvency based on recognition of a foreign main proceeding
+### § 1531. Presumption of insolvency based on recognition of a foreign main proceeding
 
 In the absence of evidence to the contrary, recognition of a foreign main proceeding is, for the purpose of commencing a proceeding under section 303, proof that the debtor is generally not paying its debts as such debts become due.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 144.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 144.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -675,23 +675,23 @@ In the absence of evidence to the contrary, recognition of a foreign main procee
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of this title.
 
-### § 1532. Rule of payment in concurrent proceedings
+### § 1532. Rule of payment in concurrent proceedings
 
 Without prejudice to secured claims or rights in rem, a creditor who has received payment with respect to its claim in a foreign proceeding pursuant to a law relating to insolvency may not receive a payment for the same claim in a case under any other chapter of this title regarding the debtor, so long as the payment to other creditors of the same class is proportionately less than the payment the creditor has already received.
 
-(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 145.)
+(Added Pub. L. 109–8, title VIII, § 801(a), Apr. 20, 2005, 119 Stat. 145.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Sections 15101 to 151326 of prior chapter 15 were repealed by Pub. L. 99–554, title II, § 231, Oct. 27, 1986, 100 Stat. 3103.
+Sections 15101 to 151326 of prior chapter 15 were repealed by Pub. L. 99–554, title II, § 231, Oct. 27, 1986, 100 Stat. 3103.
 
 Section 15101, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652, related to definitions.
 
 Section 15102, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652, related to a rule of construction.
 
-Section 15103, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652; Pub. L. 98–353, title III, §§ 311(b)(3), 318(b), July 10, 1984, 98 Stat. 355, 357, related to applicability of subchapters and sections.
+Section 15103, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652; Pub. L. 98–353, title III, §§ 311(b)(3), 318(b), July 10, 1984, 98 Stat. 355, 357, related to applicability of subchapters and sections.
 
 Section 15303, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to involuntary cases.
 
@@ -707,7 +707,7 @@ Section 15330, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to compens
 
 Section 15343, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2653, related to examination of debtor.
 
-Section 15345, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2654; Pub. L. 97–258, § 3(c), Sept. 13, 1982, 96 Stat. 1064, related to money of estates.
+Section 15345, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2654; Pub. L. 97–258, § 3(c), Sept. 13, 1982, 96 Stat. 1064, related to money of estates.
 
 Section 15701, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2654, related to interim trustee.
 
@@ -725,7 +725,7 @@ Section 151105, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2656, related to termin
 
 Section 151163, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2656, related to appointment of trustee.
 
-Section 151302, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2656; Pub. L. 98–353, title III, §§ 311(b)(4), 534, July 10, 1984, 98 Stat. 355, 390, related to trustees.
+Section 151302, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2656; Pub. L. 98–353, title III, §§ 311(b)(4), 534, July 10, 1984, 98 Stat. 355, 390, related to trustees.
 
 Section 151326, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2657, related to payments.
 
@@ -733,7 +733,7 @@ Section 151326, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2657, related to paymen
 
 Effective date and applicability of repeal by Pub. L. 99–554 dependent upon the judicial district involved, see section 302(d), (e) of Pub. L. 99–554, set out in an Effective Date of 1986 Amendment; Transition and Administrative Provisions note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
-Pub. L. 95–598, title IV, § 408(c), Nov. 6, 1978, 92 Stat. 2687, as amended by Pub. L. 98–166, title II, § 200, Nov. 28, 1983, 97 Stat. 1081; Pub. L. 98–353, title III, § 323, July 10, 1984, 98 Stat. 358; Pub. L. 99–429, Sept. 30, 1986, 100 Stat. 985; Pub. L. 99–500, § 101(b) [title II, § 200], Oct. 18, 1986, 100 Stat. 1783–39, 1783–45, and Pub. L. 99–591, § 101(b) [title II, § 200], Oct. 30, 1986, 100 Stat. 3341–39, 3341–45; Pub. L. 99–554, title III, § 307(a), Oct. 27, 1986, 100 Stat. 3125, provided for the repeal of prior chapter 15 at a prospective date, prior to repeal by Pub. L. 99–554, title III, § 307(b), Oct. 27, 1986, 100 Stat. 3125.
+Pub. L. 95–598, title IV, § 408(c), Nov. 6, 1978, 92 Stat. 2687, as amended by Pub. L. 98–166, title II, § 200, Nov. 28, 1983, 97 Stat. 1081; Pub. L. 98–353, title III, § 323, July 10, 1984, 98 Stat. 358; Pub. L. 99–429, Sept. 30, 1986, 100 Stat. 985; Pub. L. 99–500, § 101(b) [title II, § 200], Oct. 18, 1986, 100 Stat. 1783–39, 1783–45, and Pub. L. 99–591, § 101(b) [title II, § 200], Oct. 30, 1986, 100 Stat. 3341–39, 3341–45; Pub. L. 99–554, title III, § 307(a), Oct. 27, 1986, 100 Stat. 3125, provided for the repeal of prior chapter 15 at a prospective date, prior to repeal by Pub. L. 99–554, title III, § 307(b), Oct. 27, 1986, 100 Stat. 3125.
 
 **Effective Date**
 

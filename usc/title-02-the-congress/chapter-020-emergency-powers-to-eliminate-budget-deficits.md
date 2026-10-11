@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—ELIMINATION OF DEFICITS IN EXCESS OF MAXIMUM DEFICIT AMOUNT
 
-### § 900. Statement of budget enforcement through sequestration; definitions
+### § 900. Statement of budget enforcement through sequestration; definitions
 
 **(a) Omitted**
 
@@ -99,7 +99,7 @@ This subchapter provides for budget enforcement as called for in House Concurren
 
 **(D)** temporary, which means not of a permanent duration.
 
-(Pub. L. 99–177, title II, § 250, as added Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, § 250(c)(21), formerly § 257(12), as added Pub. L. 100–119, title I, § 102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered § 250(c)(21), Pub. L. 101–508, title XIII, § 13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§ 10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, § 8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, § 9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, § 801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, § 10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, § 10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, § 8001(b), Aug. 10, 2005, 119 Stat. 1915; Pub. L. 111–139, title I, § 9(a), Feb. 12, 2010, 124 Stat. 21; Pub. L. 112–25, title I, § 102, Aug. 2, 2011, 125 Stat. 245; Pub. L. 113–67, div. A, title I, § 101(d)(1), Dec. 26, 2013, 127 Stat. 1168.)
+(Pub. L. 99–177, title II, § 250, as added Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–574, and Pub. L. 99–177, title II, § 250(c)(21), formerly § 257(12), as added Pub. L. 100–119, title I, § 102(b)(7), Sept. 29, 1987, 101 Stat. 774, renumbered § 250(c)(21), Pub. L. 101–508, title XIII, § 13101(b), Nov. 5, 1990, 104 Stat. 1388–589; amended Pub. L. 105–33, title X, §§ 10202, 10204(a)(2), 10208(a)(2), Aug. 5, 1997, 111 Stat. 697, 702, 708; Pub. L. 105–178, title VIII, § 8101(c), (f), June 9, 1998, 112 Stat. 489; Pub. L. 105–206, title IX, § 9013(b), July 22, 1998, 112 Stat. 865; Pub. L. 106–291, title VIII, § 801(c), Oct. 11, 2000, 114 Stat. 1028; Pub. L. 108–88, § 10(c), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, § 10(c), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, § 8001(b), Aug. 10, 2005, 119 Stat. 1915; Pub. L. 111–139, title I, § 9(a), Feb. 12, 2010, 124 Stat. 21; Pub. L. 112–25, title I, § 102, Aug. 2, 2011, 125 Stat. 245; Pub. L. 113–67, div. A, title I, § 101(d)(1), Dec. 26, 2013, 127 Stat. 1168.)
 
 **Editorial Notes**
 
@@ -109,53 +109,53 @@ House Concurrent Resolution 84, referred to in subsec. (b), is H. Con. Res. 84, 
 
 The Balanced Budget Act of 1997, referred to in subsec. (c)(4)(F), (17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
-The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Title V of the Act, known as the Federal Credit Reform Act of 1990, was added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Title V of the Act, known as the Federal Credit Reform Act of 1990, was added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 **Codification**
 
 Subsection (a) of this section, which provided a partial table of contents for this subchapter, was omitted from the Code.
 
-Pub. L. 101–508, § 13101(b), transferred section 257(12) of Pub. L. 99–177, which was classified to section 907(12) of this title, to subsec. (c)(21) (now (c)(19)) of this section.
+Pub. L. 101–508, § 13101(b), transferred section 257(12) of Pub. L. 99–177, which was classified to section 907(12) of this title, to subsec. (c)(21) (now (c)(19)) of this section.
 
 **Amendments**
 
 2013—Subsec. (c)(4)(D) to (F). Pub. L. 113–67 added subpars. (D) to (F).
 
-2011—Subsec. (c)(4). Pub. L. 112–25, § 102(1), added par. (4) and struck out former par. (4) which defined the terms “category”, “highway category”, “mass transit category”, “conservation spending category”, “Federal and State Land and Water Conservation Fund sub-category”, “State and Other Conservation sub-category”, “Urban and Historic Preservation sub-category”, “Payments in Lieu of Taxes sub-category”, “Federal Deferred Maintenance sub-category”, and “Coastal Assistance sub-category” and provided a special rule for outlays in excess of the discretionary spending limit for the highway or mass transit category.
+2011—Subsec. (c)(4). Pub. L. 112–25, § 102(1), added par. (4) and struck out former par. (4) which defined the terms “category”, “highway category”, “mass transit category”, “conservation spending category”, “Federal and State Land and Water Conservation Fund sub-category”, “State and Other Conservation sub-category”, “Urban and Historic Preservation sub-category”, “Payments in Lieu of Taxes sub-category”, “Federal Deferred Maintenance sub-category”, and “Coastal Assistance sub-category” and provided a special rule for outlays in excess of the discretionary spending limit for the highway or mass transit category.
 
-Subsec. (c)(8)(C). Pub. L. 112–25, § 102(2), substituted “the Supplemental Nutrition Assistance Program” for “the food stamp program”.
+Subsec. (c)(8)(C). Pub. L. 112–25, § 102(2), substituted “the Supplemental Nutrition Assistance Program” for “the food stamp program”.
 
-Subsec. (c)(14). Pub. L. 112–25, § 102(3), added par. (14) and struck out former par. (14) which read as follows: “The term ‘outyear’ means, with respect to a budget year, any of the first 4 fiscal years that follow the budget year.”
+Subsec. (c)(14). Pub. L. 112–25, § 102(3), added par. (14) and struck out former par. (14) which read as follows: “The term ‘outyear’ means, with respect to a budget year, any of the first 4 fiscal years that follow the budget year.”
 
-Subsec. (c)(20), (21). Pub. L. 112–25, § 102(4), added pars. (20) and (21).
+Subsec. (c)(20), (21). Pub. L. 112–25, § 102(4), added pars. (20) and (21).
 
 2010—Subsec. (c)(18). Pub. L. 111–139 substituted “the expenses of the Federal deposit insurance agencies” for “the expenses the Federal deposit insurance agencies”.
 
-2005—Subsec. (c)(4)(B). Pub. L. 109–59, § 8001(b)(1)(A), substituted “the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users:” for “the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2004, Part V and the Surface Transportation Extension Act of 2003:” in introductory provisions.
+2005—Subsec. (c)(4)(B). Pub. L. 109–59, § 8001(b)(1)(A), substituted “the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users:” for “the Transportation Equity Act for the 21st Century and the Surface Transportation Extension Act of 2004, Part V and the Surface Transportation Extension Act of 2003:” in introductory provisions.
 
-Subsec. (c)(4)(B)(v) to (vii). Pub. L. 109–59, § 8001(b)(1)(B), added cls. (v) to (vii).
+Subsec. (c)(4)(B)(v) to (vii). Pub. L. 109–59, § 8001(b)(1)(B), added cls. (v) to (vii).
 
-Subsec. (c)(4)(C). Pub. L. 109–59, § 8001(b)(2), added heading and text of subpar. (C) and struck out former subpar. (C) which provided that the term “mass transit category” referred to the budget accounts as listed in cls. (i) to (vi) that were subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2004, Part V, and the Surface Transportation Extension Act of 2003, or for which appropriations were provided pursuant to authorizations contained in those Acts, with certain exceptions, and that such term also referred to the Washington Metropolitan Transit Authority account (69–1128–0–1–401) only for fiscal year 1999 only for appropriations provided pursuant to authorizations contained in section 14 of Public Law 96–184 and Public Law 101–551.
+Subsec. (c)(4)(C). Pub. L. 109–59, § 8001(b)(2), added heading and text of subpar. (C) and struck out former subpar. (C) which provided that the term “mass transit category” referred to the budget accounts as listed in cls. (i) to (vi) that were subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2004, Part V, and the Surface Transportation Extension Act of 2003, or for which appropriations were provided pursuant to authorizations contained in those Acts, with certain exceptions, and that such term also referred to the Washington Metropolitan Transit Authority account (69–1128–0–1–401) only for fiscal year 1999 only for appropriations provided pursuant to authorizations contained in section 14 of Public Law 96–184 and Public Law 101–551.
 
-2004—Subsec. (c)(4)(B). Pub. L. 108–310, § 10(c)(1), inserted “and the Surface Transportation Extension Act of 2004, Part V” after “Century”.
+2004—Subsec. (c)(4)(B). Pub. L. 108–310, § 10(c)(1), inserted “and the Surface Transportation Extension Act of 2004, Part V” after “Century”.
 
-Subsec. (c)(4)(C). Pub. L. 108–310, § 10(c)(2)(A), inserted “and the Surface Transportation Extension Act of 2004, Part V” after “provided in the Transportation Equity Act for the 21st Century”.
+Subsec. (c)(4)(C). Pub. L. 108–310, § 10(c)(2)(A), inserted “and the Surface Transportation Extension Act of 2004, Part V” after “provided in the Transportation Equity Act for the 21st Century”.
 
-Pub. L. 108–310, § 10(c)(2)(B), which directed the substitution of “those Acts” for “that Act”, could not be executed because the words “that Act” did not appear subsequent to amendment by Pub. L. 108–88. See 2003 Amendment note below.
+Pub. L. 108–310, § 10(c)(2)(B), which directed the substitution of “those Acts” for “that Act”, could not be executed because the words “that Act” did not appear subsequent to amendment by Pub. L. 108–88. See 2003 Amendment note below.
 
-2003—Subsec. (c)(4)(B). Pub. L. 108–88, § 10(c)(1), inserted “and the Surface Transportation Extension Act of 2003” after “Century”.
+2003—Subsec. (c)(4)(B). Pub. L. 108–88, § 10(c)(1), inserted “and the Surface Transportation Extension Act of 2003” after “Century”.
 
-Subsec. (c)(4)(C). Pub. L. 108–88, § 10(c)(2), inserted “and the Surface Transportation Extension Act of 2003” after “Century” the first place it appears and substituted “those Acts” for “that Act”.
+Subsec. (c)(4)(C). Pub. L. 108–88, § 10(c)(2), inserted “and the Surface Transportation Extension Act of 2003” after “Century” the first place it appears and substituted “those Acts” for “that Act”.
 
 2000—Subsec. (c)(4)(E) to (K). Pub. L. 106–291 added subpars. (E) to (K).
 
-1998—Subsec. (c)(4). Pub. L. 105–178, § 8101(c), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+1998—Subsec. (c)(4). Pub. L. 105–178, § 8101(c), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
-Subsec. (c)(4)(C). Pub. L. 105–178, § 8101(f), as added by Pub. L. 105–206, § 9013(b), in introductory provisions, substituted “Century or” for “Century and” and “as amended by the Transportation Equity Act for the 21st Century” for “as amended by this section”, and inserted concluding provisions.
+Subsec. (c)(4)(C). Pub. L. 105–178, § 8101(f), as added by Pub. L. 105–206, § 9013(b), in introductory provisions, substituted “Century or” for “Century and” and “as amended by the Transportation Equity Act for the 21st Century” for “as amended by this section”, and inserted concluding provisions.
 
-1997—Subsec. (a). Pub. L. 105–33, §§ 10204(a)(2), 10208(a)(2), amended table of contents. See Codification note above.
+1997—Subsec. (a). Pub. L. 105–33, §§ 10204(a)(2), 10208(a)(2), amended table of contents. See Codification note above.
 
-Subsec. (b). Pub. L. 105–33, § 10202(a), substituted present text for former text which read as follows: “This subchapter provides for the enforcement of the deficit reduction assumed in House Concurrent Resolution 310 (101st Congress, second session) and the applicable deficit targets for fiscal years 1991 through 1995. Enforcement, as necessary, is to be implemented through sequestration—
+Subsec. (b). Pub. L. 105–33, § 10202(a), substituted present text for former text which read as follows: “This subchapter provides for the enforcement of the deficit reduction assumed in House Concurrent Resolution 310 (101st Congress, second session) and the applicable deficit targets for fiscal years 1991 through 1995. Enforcement, as necessary, is to be implemented through sequestration—
 
 “(1) to enforce discretionary spending levels assumed in that resolution (with adjustments as provided hereinafter);
 
@@ -165,9 +165,9 @@ Subsec. (b). Pub. L. 105–33, § 10202(a), substituted present text for forme
 
 applied in the order set forth above.”
 
-Subsec. (c)(1). Pub. L. 105–33, § 10202(b)(1), struck out “(but including the treatment specified in section 907(b)(3) of this title of the Hospital Insurance Trust Fund) and the terms ‘maximum deficit amount’ ” before “and ‘discretionary” and substituted “section 901” for “section 601 of that Act as adjusted under sections 901 and 903”.
+Subsec. (c)(1). Pub. L. 105–33, § 10202(b)(1), struck out “(but including the treatment specified in section 907(b)(3) of this title of the Hospital Insurance Trust Fund) and the terms ‘maximum deficit amount’ ” before “and ‘discretionary” and substituted “section 901” for “section 601 of that Act as adjusted under sections 901 and 903”.
 
-Subsec. (c)(4). Pub. L. 105–33, § 10202(b)(2), added par. (4) and struck out former par. (4) which read as follows: “The term ‘category’ means:
+Subsec. (c)(4). Pub. L. 105–33, § 10202(b)(2), added par. (4) and struck out former par. (4) which read as follows: “The term ‘category’ means:
 
 “(A) For fiscal years 1991, 1992, and 1993, any of the following subsets of discretionary appropriations: defense, international, or domestic. Discretionary appropriations in each of the three categories shall be those so designated in the joint statement of managers accompanying the conference report on the Omnibus Budget Reconciliation Act of 1990. New accounts or activities shall be categorized in consultation with the Committees on Appropriations and the Budget of the House of Representatives and the Senate.
 
@@ -175,33 +175,33 @@ Subsec. (c)(4). Pub. L. 105–33, § 10202(b)(2), added par. (4) and struck ou
 
 Contributions to the United States to offset the cost of Operation Desert Shield shall not be counted within any category.”
 
-Subsec. (c)(6). Pub. L. 105–33, § 10202(b)(3), added par. (6) and struck out former par. (6) which read as follows: “The term ‘budgetary resources’ means—
+Subsec. (c)(6). Pub. L. 105–33, § 10202(b)(3), added par. (6) and struck out former par. (6) which read as follows: “The term ‘budgetary resources’ means—
 
 “(A) with respect to budget year 1991, new budget authority; unobligated balances; new loan guarantee commitments or limitations; new direct loan obligations, commitments, or limitations; direct spending authority; and obligation limitations; or
 
 “(B) with respect to budget year 1992, 1993, 1994, or 1995, new budget authority; unobligated balances; direct spending authority; and obligation limitations.”
 
-Subsec. (c)(9). Pub. L. 105–33, § 10202(b)(4), substituted “that budget submission that are not included with it” for “submission of the fiscal year 1992 budget that are not included with a budget submission”.
+Subsec. (c)(9). Pub. L. 105–33, § 10202(b)(4), substituted “that budget submission that are not included with it” for “submission of the fiscal year 1992 budget that are not included with a budget submission”.
 
-Subsec. (c)(14). Pub. L. 105–33, § 10202(b)(5), inserted “first 4” before “fiscal years” and struck out “through fiscal year 1995” after “the budget year”.
+Subsec. (c)(14). Pub. L. 105–33, § 10202(b)(5), inserted “first 4” before “fiscal years” and struck out “through fiscal year 1995” after “the budget year”.
 
-Subsec. (c)(17). Pub. L. 105–33, § 10202(b)(6), (7), redesignated par. (18) as (17), substituted “Balanced Budget Act of 1997” for “Omnibus Budget Reconciliation Act of 1990”, and struck out former par. (17) which read as follows: “For purposes of sections 902 and 903 of this title, legislation enacted during the second session of the One Hundred First Congress shall be deemed to have been enacted before November 5, 1990.”
+Subsec. (c)(17). Pub. L. 105–33, § 10202(b)(6), (7), redesignated par. (18) as (17), substituted “Balanced Budget Act of 1997” for “Omnibus Budget Reconciliation Act of 1990”, and struck out former par. (17) which read as follows: “For purposes of sections 902 and 903 of this title, legislation enacted during the second session of the One Hundred First Congress shall be deemed to have been enacted before November 5, 1990.”
 
-Subsec. (c)(18). Pub. L. 105–33, § 10202(b)(6), (8), redesignated par. (19) as (18) and substituted “the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.” for “of the Federal Deposit Insurance Corporation and the funds it incorporates, the Resolution Trust Corporation, the National Credit Union Administration and the funds it incorporates, the Office of Thrift Supervision, the Comptroller of the Currency Assessment Fund, and the RTC Office of Inspector General.” Former par. (18) redesignated (17).
+Subsec. (c)(18). Pub. L. 105–33, § 10202(b)(6), (8), redesignated par. (19) as (18) and substituted “the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.” for “of the Federal Deposit Insurance Corporation and the funds it incorporates, the Resolution Trust Corporation, the National Credit Union Administration and the funds it incorporates, the Office of Thrift Supervision, the Comptroller of the Currency Assessment Fund, and the RTC Office of Inspector General.” Former par. (18) redesignated (17).
 
-Subsec. (c)(19). Pub. L. 105–33, § 10202(b)(9), added par. (19) and struck out former par. (19) which read as follows: “The sale of an asset means the sale to the public of any asset, whether physical or financial, owned in whole or in part by the United States. The term ‘prepayment of a loan’ means payments to the United States made in advance of the schedules set by law or contract when the financial asset is first acquired, such as the prepayment to the Federal Financing Bank of loans guaranteed by the Rural Electrification Administration. If a law or contract allows a flexible payment schedule, the term ‘in advance’ shall mean in advance of the slowest payment schedule allowed under such law or contract.”
+Subsec. (c)(19). Pub. L. 105–33, § 10202(b)(9), added par. (19) and struck out former par. (19) which read as follows: “The sale of an asset means the sale to the public of any asset, whether physical or financial, owned in whole or in part by the United States. The term ‘prepayment of a loan’ means payments to the United States made in advance of the schedules set by law or contract when the financial asset is first acquired, such as the prepayment to the Federal Financing Bank of loans guaranteed by the Rural Electrification Administration. If a law or contract allows a flexible payment schedule, the term ‘in advance’ shall mean in advance of the slowest payment schedule allowed under such law or contract.”
 
-Pub. L. 105–33, § 10202(b)(6), redesignated par. (21) as (19). Former par. (19) redesignated (18).
+Pub. L. 105–33, § 10202(b)(6), redesignated par. (21) as (19). Former par. (19) redesignated (18).
 
-Subsec. (c)(20). Pub. L. 105–33, § 10202(b)(6), struck out par. (20) which read as follows: “The term ‘composite outlay rate’ means the percent of new budget authority that is converted to outlays in the fiscal year for which the budget authority is provided and subsequent fiscal years, as follows:
+Subsec. (c)(20). Pub. L. 105–33, § 10202(b)(6), struck out par. (20) which read as follows: “The term ‘composite outlay rate’ means the percent of new budget authority that is converted to outlays in the fiscal year for which the budget authority is provided and subsequent fiscal years, as follows:
 
 “(A) For the international category, 46 percent for the first year, 20 percent for the second year, 16 percent for the third year, and 8 percent for the fourth year.
 
 “(B) For the domestic category, 53 percent for the first year, 31 percent for the second year, 12 percent for the third year, and 2 percent for the fourth year.”
 
-Subsec. (c)(21). Pub. L. 105–33, § 10202(b)(6), redesignated par. (21) as (19).
+Subsec. (c)(21). Pub. L. 105–33, § 10202(b)(6), redesignated par. (21) as (19).
 
-1990—Subsec. (c)(21). Pub. L. 101–508, § 13101(b), redesignated section 907(12) of this title as par. (21).
+1990—Subsec. (c)(21). Pub. L. 101–508, § 13101(b), redesignated section 907(12) of this title as par. (21).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -211,49 +211,49 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 **Effective and Termination Dates**
 
-Pub. L. 103–66, title XIV, § 14002(c)(3)(A), Aug. 10, 1993, 107 Stat. 684, which provided that, notwithstanding section 275(b) of Pub. L. 99–177, formerly set out below, sections 900, 901, 902, and 904 to 908 of this title were to expire on Sept. 30, 1998, was repealed by Pub. L. 105–33, title X, § 10212(b), Aug. 5, 1997, 111 Stat. 712.
+Pub. L. 103–66, title XIV, § 14002(c)(3)(A), Aug. 10, 1993, 107 Stat. 684, which provided that, notwithstanding section 275(b) of Pub. L. 99–177, formerly set out below, sections 900, 901, 902, and 904 to 908 of this title were to expire on Sept. 30, 1998, was repealed by Pub. L. 105–33, title X, § 10212(b), Aug. 5, 1997, 111 Stat. 712.
 
-Pub. L. 99–177, title II, § 275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, § 106(c), title II, § 210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§ 13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, § 10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177 (amending section 622(2) of this title), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending section 652 of this title) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C of title II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending section 911 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 911 of Title 42) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Pub. L. 99–177, title II, § 275, Dec. 12, 1985, 99 Stat. 1100, as amended by Pub. L. 100–119, title I, § 106(c), title II, § 210(b), Sept. 29, 1987, 101 Stat. 780, 787; Pub. L. 101–508, title XIII, §§ 13112(b), 13208(b), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 105–33, title X, § 10212(a), Aug. 5, 1997, 111 Stat. 712, which provided that, except as otherwise provided in section 275, amendments by title II of Pub. L. 99–177 were effective Dec. 12, 1985, and applicable to fiscal years beginning after Sept. 30, 1985; that amendment by section 201(a)(2) of Pub. L. 99–177 (amending section 622(2) of this title), and amendment by section 201(b) of Pub. L. 99–177 (insofar as it relates to section 633(c), (f), and (g) of this title and to section 641(c), (d), and (g) of this title), were effective Apr. 15, 1986; that amendment by section 212 of Pub. L. 99–177 (amending section 652 of this title) was effective Feb. 1, 1986; that sections 251, 253, 258B, and 271(b) of Pub. L. 99–177 (sections 901, 903, and 907c of this title and provisions set out as a note below), and sections 1105(f) and 1106(c) of title 31, United States Code, were to expire Sept. 30, 2002; that the remaining sections of part C of title II of Pub. L. 99–177 (enacting this subchapter) were to expire Sept. 30, 2006; and that amendments by part D of title II of Pub. L. 99–177 (amending section 911 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 911 of Title 42) were applicable as provided in that part, was repealed by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 118–5, § 1, June 3, 2023, 137 Stat. 10, provided that: “This Act [enacting sections 4336 to 4336e of Title 42, the Public Health and Welfare, amending sections 901 and 904 of this title, section 801 of Title 5, Government Organization and Employees, sections 2011 and 2015 of Title 7, Agriculture, and sections 607, 611, 4332, and 4370m of Title 42, and enacting provisions set out as notes under section 551 of Title 5, section 2015 of Title 7, section 3101 of Title 31, Money and Finance, and section 607 of Title 42] may be cited as the ‘Fiscal Responsibility Act of 2023’.”
+Pub. L. 118–5, § 1, June 3, 2023, 137 Stat. 10, provided that: “This Act [enacting sections 4336 to 4336e of Title 42, the Public Health and Welfare, amending sections 901 and 904 of this title, section 801 of Title 5, Government Organization and Employees, sections 2011 and 2015 of Title 7, Agriculture, and sections 607, 611, 4332, and 4370m of Title 42, and enacting provisions set out as notes under section 551 of Title 5, section 2015 of Title 7, section 3101 of Title 31, Money and Finance, and section 607 of Title 42] may be cited as the ‘Fiscal Responsibility Act of 2023’.”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 117–71, § 1, Dec. 10, 2021, 135 Stat. 1506, provided that: “This Act [amending section 901a of this title and sections 1395m–1, 1395w–4, and 1395iii of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 901a of this title] may be cited as the ‘Protecting Medicare and American Farmers from Sequester Cuts Act’.”
+Pub. L. 117–71, § 1, Dec. 10, 2021, 135 Stat. 1506, provided that: “This Act [amending section 901a of this title and sections 1395m–1, 1395w–4, and 1395iii of Title 42, The Public Health and Welfare, and enacting and amending provisions set out as notes under section 901a of this title] may be cited as the ‘Protecting Medicare and American Farmers from Sequester Cuts Act’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–37, § 1, Aug. 2, 2019, 133 Stat. 1049, provided that: “This Act [amending sections 901 and 901a of this title and section 58c of Title 19, Customs Duties, enacting provisions set out as a note under section 3101 of Title 31, Money and Finance, and amending provisions set out as a note under section 3805 of Title 19] may be cited as the ‘Bipartisan Budget Act of 2019’.”
+Pub. L. 116–37, § 1, Aug. 2, 2019, 133 Stat. 1049, provided that: “This Act [amending sections 901 and 901a of this title and section 58c of Title 19, Customs Duties, enacting provisions set out as a note under section 3101 of Title 31, Money and Finance, and amending provisions set out as a note under section 3805 of Title 19] may be cited as the ‘Bipartisan Budget Act of 2019’.”
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 113–67, div. A, § 1(a), Dec. 26, 2013, 127 Stat. 1165, provided that: “This division [see Tables for classification] may be cited as the ‘Bipartisan Budget Act of 2013’.”
+Pub. L. 113–67, div. A, § 1(a), Dec. 26, 2013, 127 Stat. 1165, provided that: “This division [see Tables for classification] may be cited as the ‘Bipartisan Budget Act of 2013’.”
 
 **Short Title of 2011 Amendment**
 
-Pub. L. 112–25, § 1(a), Aug. 2, 2011, 125 Stat. 240, provided that: “This Act [enacting section 901a of this title and section 3101A of Title 31, Money and Finance, amending this section and sections 622, 645, 901, and 904 of this title, sections 1070a and 1087e of Title 20, Education, and section 3101 of Title 31, enacting provisions set out as notes under this section and sections 631 and 902 of this title and section 1089 of Title 20, amending provisions set out as a note under section 621 of this title, and repealing provisions set out as a note under this section] may be cited as the ‘Budget Control Act of 2011’.”
+Pub. L. 112–25, § 1(a), Aug. 2, 2011, 125 Stat. 240, provided that: “This Act [enacting section 901a of this title and section 3101A of Title 31, Money and Finance, amending this section and sections 622, 645, 901, and 904 of this title, sections 1070a and 1087e of Title 20, Education, and section 3101 of Title 31, enacting provisions set out as notes under this section and sections 631 and 902 of this title and section 1089 of Title 20, amending provisions set out as a note under section 621 of this title, and repealing provisions set out as a note under this section] may be cited as the ‘Budget Control Act of 2011’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–33, title X, § 10001(a), Aug. 5, 1997, 111 Stat. 677, provided that: “This title [enacting sections 645 and 645a of this title, amending this section, sections 601, 602, 622, 631 to 636, 639, 641 to 644, 651, 654, 661a, 661c to 661e, 691a, 691c, 691e, 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 652, 665 to 665e, 901a, and 908 of this title and section 14212 of Title 42, enacting provisions set out as notes under this section and section 902 of this title, amending provisions set out as notes under this section and section 621 of this title, and repealing provisions set out as notes under this section and sections 621, 631, and 665 of this title] may be cited as the ‘Budget Enforcement Act of 1997’.”
+Pub. L. 105–33, title X, § 10001(a), Aug. 5, 1997, 111 Stat. 677, provided that: “This title [enacting sections 645 and 645a of this title, amending this section, sections 601, 602, 622, 631 to 636, 639, 641 to 644, 651, 654, 661a, 661c to 661e, 691a, 691c, 691e, 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 652, 665 to 665e, 901a, and 908 of this title and section 14212 of Title 42, enacting provisions set out as notes under this section and section 902 of this title, amending provisions set out as notes under this section and section 621 of this title, and repealing provisions set out as notes under this section and sections 621, 631, and 665 of this title] may be cited as the ‘Budget Enforcement Act of 1997’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–508, title XIII, § 13001(a), Nov. 5, 1990, 104 Stat. 1388–573, provided that: “This title [enacting this section and sections 643, 661 to 661f, 665 to 665e, and 907a to 907d of this title, amending sections 601, 602, 622, 631 to 637, 639, 641, 642, 644, 651, 652, and 901 to 907 of this title, section 1022 of Title 15, Commerce and Trade, sections 1105, 1341, and 1342 of Title 31, Money and Finance, and section 401 of Title 42, The Public Health and Welfare, transferring section 921 of this title to section 601(g) of this title, repealing section 909 of this title, enacting provisions set out as notes under this section and sections 621, 622, 632, 633, 665, and 902 of this title, and amending provisions set out as notes under this section and sections 621 and 632 of this title] may be cited as the ‘Budget Enforcement Act of 1990’.”
+Pub. L. 101–508, title XIII, § 13001(a), Nov. 5, 1990, 104 Stat. 1388–573, provided that: “This title [enacting this section and sections 643, 661 to 661f, 665 to 665e, and 907a to 907d of this title, amending sections 601, 602, 622, 631 to 637, 639, 641, 642, 644, 651, 652, and 901 to 907 of this title, section 1022 of Title 15, Commerce and Trade, sections 1105, 1341, and 1342 of Title 31, Money and Finance, and section 401 of Title 42, The Public Health and Welfare, transferring section 921 of this title to section 601(g) of this title, repealing section 909 of this title, enacting provisions set out as notes under this section and sections 621, 622, 632, 633, 665, and 902 of this title, and amending provisions set out as notes under this section and sections 621 and 632 of this title] may be cited as the ‘Budget Enforcement Act of 1990’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–119, title I, § 101(b), Sept. 29, 1987, 101 Stat. 754, provided that: “This title [enacting section 908 of this title, amending sections 622, 632, 642, 901 to 907, and 922 of this title and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under section 1395ww of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 901 of this title and sections 1320b–8 and 1395ww of Title 42] may be cited as the ‘Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987’.”
+Pub. L. 100–119, title I, § 101(b), Sept. 29, 1987, 101 Stat. 754, provided that: “This title [enacting section 908 of this title, amending sections 622, 632, 642, 901 to 907, and 922 of this title and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under section 1395ww of Title 42, The Public Health and Welfare, and amending provisions set out as notes under section 901 of this title and sections 1320b–8 and 1395ww of Title 42] may be cited as the ‘Balanced Budget and Emergency Deficit Control Reaffirmation Act of 1987’.”
 
 **Short Title**
 
-Pub. L. 99–177, title II, § 200(a), Dec. 12, 1985, 99 Stat. 1038, provided that: “This title [enacting this chapter and sections 654 to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title] may be cited as the ‘Balanced Budget and Emergency Deficit Control Act of 1985’.”
+Pub. L. 99–177, title II, § 200(a), Dec. 12, 1985, 99 Stat. 1038, provided that: “This title [enacting this chapter and sections 654 to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title] may be cited as the ‘Balanced Budget and Emergency Deficit Control Act of 1985’.”
 
 **Severability**
 
-Pub. L. 112–25, § 2, Aug. 2, 2011, 125 Stat. 240, provided that: “If any provision of this Act [see Short Title of 2011 Amendment note above], or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this Act and the application of this Act to any other person or circumstance shall not be affected.”
+Pub. L. 112–25, § 2, Aug. 2, 2011, 125 Stat. 240, provided that: “If any provision of this Act [see Short Title of 2011 Amendment note above], or any application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this Act and the application of this Act to any other person or circumstance shall not be affected.”
 
 **Joint Select Committee on Deficit Reduction**
 
@@ -435,7 +435,7 @@ Pub. L. 112–25, title IV, Aug. 2, 2011, 125 Stat. 259, provided that:
 
 **Habitat Conservation Activities Considered Within Coastal Assistance Sub-Category**
 
-Pub. L. 108–7, div. B, title II, § 214, Feb. 20, 2003, 117 Stat. 82, provided that:
+Pub. L. 108–7, div. B, title II, § 214, Feb. 20, 2003, 117 Stat. 82, provided that:
 
 > **“(a)** Hereafter, habitat conservation activities, enforcement and surveillance—cooperative enforcement and vessel monitoring, stock assessments—data collection, and highly migratory shark fishery research under the heading, ‘National Oceanic and Atmospheric Administration, Operations, Research and Facilities’, shall be considered to be within the ‘Coastal Assistance sub-category’ in [former] section 250(c)(4)(K) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended [former 2 U.S.C. 900(c)(4)(K)].
 
@@ -449,23 +449,23 @@ Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 775.
 
 **Purpose of Subtitle B of Title X of Pub. L. 105–33**
 
-Pub. L. 105–33, title X, § 10201, Aug. 5, 1997, 111 Stat. 697, provided that: “The purpose of this subtitle [subtitle B (§§ 10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under this section] is to extend discretionary spending limits and pay-as-you-go requirements.”
+Pub. L. 105–33, title X, § 10201, Aug. 5, 1997, 111 Stat. 697, provided that: “The purpose of this subtitle [subtitle B (§§ 10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under this section] is to extend discretionary spending limits and pay-as-you-go requirements.”
 
 **Restriction on Elimination or Reduction of Programs Relating to Energy and Water Development**
 
-Pub. L. 102–377, title V, § 503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects or activities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings and Slippage’, ‘general reduction’, or the provision of Public Law 99–177 [see Short Title note above] or Public Law 100–119 [see section 213 of Pub. L. 100–119 set out below] unless such reports expressly provide otherwise.”
+Pub. L. 102–377, title V, § 503, Oct. 2, 1992, 106 Stat. 1342, provided that: “None of the programs, projects or activities as defined in the reports accompanying this Act or subsequent Energy and Water Development Appropriations Acts, may be eliminated or disproportionately reduced due to the application of ‘Savings and Slippage’, ‘general reduction’, or the provision of Public Law 99–177 [see Short Title note above] or Public Law 100–119 [see section 213 of Pub. L. 100–119 set out below] unless such reports expressly provide otherwise.”
 
 **Waivers and Suspensions in the Senate**
 
-Pub. L. 99–177, title II, § 271(b), Dec. 12, 1985, 99 Stat. 1094, as amended by Pub. L. 100–119, title II, § 211, Sept. 29, 1987, 101 Stat. 787, provided that: “Sections 301(i), 302(c), 302(f), 304(b), 310(d), 310(g), and 311(a) of the Congressional Budget Act of 1974 [sections 632(i), 633(c), 633(f), former 635(b), 641(d), 641(g), and 642(a) of this title] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn. This subsection shall not apply to any joint resolution reported or discharged pursuant to section 254(a) of this joint resolution [section 904(a) of this title].”
+Pub. L. 99–177, title II, § 271(b), Dec. 12, 1985, 99 Stat. 1094, as amended by Pub. L. 100–119, title II, § 211, Sept. 29, 1987, 101 Stat. 787, provided that: “Sections 301(i), 302(c), 302(f), 304(b), 310(d), 310(g), and 311(a) of the Congressional Budget Act of 1974 [sections 632(i), 633(c), 633(f), former 635(b), 641(d), 641(g), and 642(a) of this title] may be waived or suspended in the Senate only by the affirmative vote of three-fifths of the Members, duly chosen and sworn. This subsection shall not apply to any joint resolution reported or discharged pursuant to section 254(a) of this joint resolution [section 904(a) of this title].”
 
 **Appeals of Rulings**
 
-Pub. L. 99–177, title II, § 271(c), as added by Pub. L. 100–119, title II, § 210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 [sections 632(i), 633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title].”
+Pub. L. 99–177, title II, § 271(c), as added by Pub. L. 100–119, title II, § 210(a), Sept. 29, 1987, 101 Stat. 787, provided that: “An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under section 301(i), 302(c), 302(f), 304(b), 306, 310(d), 310(g), or 311(a) of the Congressional Budget Act of 1974 [sections 632(i), 633(c), 633(f), 635(b), 637, 641(d), 641(g), or 642(a) of this title].”
 
 **Exercise of Congressional Rulemaking Power**
 
-Pub. L. 103–66, title XIV, § 14004, Aug. 10, 1993, 107 Stat. 685, provided that:
+Pub. L. 103–66, title XIV, § 14004, Aug. 10, 1993, 107 Stat. 685, provided that:
 
 > “The Congress enacts the provisions of this part [probably should be “this title”, amending sections 665, 901, 902, and 904 of this title, enacting provisions set out as notes under this section and section 902 of this title, and amending provisions set out as notes under section 665 of this title]—
 
@@ -473,7 +473,7 @@ Pub. L. 103–66, title XIV, § 14004, Aug. 10, 1993, 107 Stat. 685, provided 
 
 > **“(2)** with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
 
-Pub. L. 101–508, title XIII, § 13305, Nov. 5, 1990, 104 Stat. 1388–627, provided that:
+Pub. L. 101–508, title XIII, § 13305, Nov. 5, 1990, 104 Stat. 1388–627, provided that:
 
 > “This title and the amendments made by it [see Short Title of 1990 Amendment note above] are enacted by the Congress—
 
@@ -481,7 +481,7 @@ Pub. L. 101–508, title XIII, § 13305, Nov. 5, 1990, 104 Stat. 1388–627, p
 
 > **“(2)** with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House.”
 
-Pub. L. 100–119, title II, § 213, Sept. 29, 1987, 101 Stat. 787, provided that:
+Pub. L. 100–119, title II, § 213, Sept. 29, 1987, 101 Stat. 787, provided that:
 
 > “This Act and the amendments made by this Act [enacting sections 908 and 909 of this title, amending sections 622, 632, 635, 636, 642, 683, 684, 687, 901 to 907, and 922 of this title and sections 1105 and 3101 of Title 31, Money and Finance, enacting provisions set out as notes under sections 602, 621, 686, and 901 of this title and section 1395ww of Title 42, The Public Health and Welfare, amending provisions set out as notes under section 901 of this title and sections 1320b–8 and 1395ww of Title 42, and repealing provisions set out as a note under section 653 of this title], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by Congress—
 
@@ -489,7 +489,7 @@ Pub. L. 100–119, title II, § 213, Sept. 29, 1987, 101 Stat. 787, provided t
 
 > **“(2)** with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.”
 
-Pub. L. 99–177, title II, § 271(d), formerly § 271(c), Dec. 12, 1985, 99 Stat. 1094, as redesignated by Pub. L. 100–119, title II, § 210(a), Sept. 29, 1987, 101 Stat. 787, provided that:
+Pub. L. 99–177, title II, § 271(d), formerly § 271(c), Dec. 12, 1985, 99 Stat. 1094, as redesignated by Pub. L. 100–119, title II, § 210(a), Sept. 29, 1987, 101 Stat. 787, provided that:
 
 > “The provisions of this title [see Short Title note above], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
 
@@ -547,7 +547,7 @@ Sec. 5. *Effective Date*. This order shall take effect upon enactment of the Omn
 
 William J. Clinton.
 
-### § 901. Enforcing discretionary spending limits
+### § 901. Enforcing discretionary spending limits
 
 **(a) Enforcement**
 
@@ -601,9 +601,9 @@ For purposes of this paragraph, amounts provided by annual appropriations shall 
 
 When the President submits the budget under section 1105 of title 31, OMB shall calculate and the budget shall include adjustments to discretionary spending limits (and those limits as cumulatively adjusted) for the budget year and each outyear to reflect changes in concepts and definitions. Such changes shall equal the baseline levels of new budget authority and outlays using up-to-date concepts and definitions, minus those levels using the concepts and definitions in effect before such changes. Such changes may only be made after consultation with the Committees on Appropriations and the Budget of the House of Representatives and the Senate, and that consultation shall include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to such changes.
 
-**(2) Sequestration reports** When OMB submits a sequestration report under section 904(e), (f), or (g) of this title for a fiscal year, OMB shall calculate, and the sequestration report and subsequent budgets submitted by the President under section 1105(a) of title 31 shall include 1
+**(2) Sequestration reports** When OMB submits a sequestration report under section 904(e), (f), or (g) of this title for a fiscal year, OMB shall calculate, and the sequestration report and subsequent budgets submitted by the President under section 1105(a) of title 31 shall include 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 adjustments to discretionary spending limits (and those limits as adjusted) for the fiscal year and each succeeding year, as follows:
 
@@ -809,9 +809,9 @@ If, for fiscal year 2020, appropriations for the Periodic Censuses and Programs 
 
 **(A)** for the revised security category, $886,349,000,000 in new budget authority; and
 
-**(B)** for the revised nonsecurity category; 2
+**(B)** for the revised nonsecurity category; 2
 
-<sup>2</sup>  So in original. The semicolon probably should be a comma.
+<sup>2</sup> So in original. The semicolon probably should be a comma.
 
 $703,651,000,000 in new budget authority; and
 
@@ -819,7 +819,7 @@ $703,651,000,000 in new budget authority; and
 
 **(A)** for the revised security category, $895,212,000,000 in new budget authority; and
 
-**(B)** for the revised nonsecurity category; <sup>2</sup> $710,688,000,000 in new budget authority;
+**(B)** for the revised nonsecurity category; <sup>2</sup> $710,688,000,000 in new budget authority;
 
 as adjusted in strict conformance with subsection (b).
 
@@ -829,9 +829,9 @@ as adjusted in strict conformance with subsection (b).
 
 **(A)** For the revised security category, the amount that is equal to the total budget authority for such category for base funding, as published in the Congressional Budget Office cost estimate for the applicable appropriations Acts for the preceding fiscal year (table 1–S of H.R. 2617, published on December 21, 2022), reduced by one percent.
 
-**(B)** For the revised non-security 3
+**(B)** For the revised non-security 3
 
-<sup>3</sup>  So in original.
+<sup>3</sup> So in original.
 
 category, the amount that is equal to the total budget authority for such category for base funding as published in the Congressional Budget Office cost estimate for the applicable appropriations Acts for the preceding fiscal year (table 1–S of H.R. 2617, published on December 21, 2022), reduced by one percent.
 
@@ -849,13 +849,13 @@ If, after January 1, 2024, there are enacted into law each of the full year disc
 
 **(1) In general** Subject to paragraph (3), if on or after January 1, 2025, there is in effect an Act making continuing appropriations for part of fiscal year 2025 for any discretionary budget account, the discretionary spending limits specified in subsection (c)(10) for fiscal year 2025 shall be adjusted in the final sequestration report, in accordance with paragraph (2), as follows:
 
-**(A)** for the revised security category, the amount calculated for such category in section 4
+**(A)** for the revised security category, the amount calculated for such category in section 4
 
-<sup>4</sup>  So in original. Probably should be “subsection”.
+<sup>4</sup> So in original. Probably should be “subsection”.
 
 (d)(1)(A); and
 
-**(B)** for the revised non-security <sup>3</sup> category, the amount calculated for each category in section <sup>4</sup> (d)(1)(B).
+**(B)** for the revised non-security <sup>3</sup> category, the amount calculated for each category in section <sup>4</sup> (d)(1)(B).
 
 **(2) Final report; sequestration order** If the conditions specified in paragraph (1) are met during fiscal year 2025, the final sequestration report for such fiscal year pursuant to section 904(f)(1) of this title and any order pursuant to section 904(f)(5) of this title shall be issued on the earlier of—
 
@@ -867,39 +867,39 @@ If, after January 1, 2024, there are enacted into law each of the full year disc
 
 If, after January 1, 2025, there are enacted into law each of the full year discretionary appropriation Acts, then the adjustment to the applicable discretionary spending limits in paragraph (1) shall have no force or effect, and the discretionary spending limits for the revised security category and revised nonsecurity category for the applicable fiscal year shall be such limits as in effect on December 31 of the applicable fiscal year.
 
-(Pub. L. 99–177, title II, § 251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, § 102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, § 8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, § 13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, § 14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, § 571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, § 562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, § 119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, § 103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, § 211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 577], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, § 10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, § 201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, § 8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, § 801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, § 101(a) [title VII, § 701(a)], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, § 101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, § 10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, § 10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§ 8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, § 101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, § 901(d)(1), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, § 101(a), Dec. 26, 2013, 127 Stat. 1166; Pub. L. 114–74, title I, § 101(a), title VIII, § 815, Nov. 2, 2015, 129 Stat. 585, 604; Pub. L. 114–113, div. O, title X, § 1003, Dec. 18, 2015, 129 Stat. 3035; Pub. L. 115–123, div. C, title I, § 30101(a), title II, § 30206(c), Feb. 9, 2018, 132 Stat. 122, 131; Pub. L. 115–141, div. O, title I, § 102(a), Mar. 23, 2018, 132 Stat. 1059; Pub. L. 115–334, title VIII, § 8704(a)(1)(A), Dec. 20, 2018, 132 Stat. 4877; Pub. L. 116–37, title I, § 101(a), (c), Aug. 2, 2019, 133 Stat. 1049; Pub. L. 118–5, div. A, title I, §§ 101(a), (b), 102, June 3, 2023, 137 Stat. 12, 13, 15.)
+(Pub. L. 99–177, title II, § 251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, § 102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, § 8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, § 13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, § 14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, § 571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, § 562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, § 119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, § 103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, § 211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 577], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, § 10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, § 201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, § 8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, § 801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, § 101(a) [title VII, § 701(a)], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, § 101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, § 10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, § 10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§ 8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, § 101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, § 901(d)(1), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, § 101(a), Dec. 26, 2013, 127 Stat. 1166; Pub. L. 114–74, title I, § 101(a), title VIII, § 815, Nov. 2, 2015, 129 Stat. 585, 604; Pub. L. 114–113, div. O, title X, § 1003, Dec. 18, 2015, 129 Stat. 3035; Pub. L. 115–123, div. C, title I, § 30101(a), title II, § 30206(c), Feb. 9, 2018, 132 Stat. 122, 131; Pub. L. 115–141, div. O, title I, § 102(a), Mar. 23, 2018, 132 Stat. 1059; Pub. L. 115–334, title VIII, § 8704(a)(1)(A), Dec. 20, 2018, 132 Stat. 4877; Pub. L. 116–37, title I, § 101(a), (c), Aug. 2, 2019, 133 Stat. 1049; Pub. L. 118–5, div. A, title I, §§ 101(a), (b), 102, June 3, 2023, 137 Stat. 12, 13, 15.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(D)(i)(II), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(D)(i)(II), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Codification**
 
-Pub. L. 101–508, § 13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to section 907(e) of this title.
+Pub. L. 101–508, § 13101(e)(2), redesignated former subsec. (a)(6)(I) of this section as section 257(e) of Pub. L. 99–177, which is classified to section 907(e) of this title.
 
 **Amendments**
 
-2023—Subsec. (b)(2)(B)(i)(XI), (XII). Pub. L. 118–5, § 101(b)(1), added subcls. (XI) and (XII).
+2023—Subsec. (b)(2)(B)(i)(XI), (XII). Pub. L. 118–5, § 101(b)(1), added subcls. (XI) and (XII).
 
-Subsec. (b)(2)(C)(i)(XI), (XII). Pub. L. 118–5, § 101(b)(2), added subcls. (XI) and (XII).
+Subsec. (b)(2)(C)(i)(XI), (XII). Pub. L. 118–5, § 101(b)(2), added subcls. (XI) and (XII).
 
-Subsec. (b)(2)(D)(i). Pub. L. 118–5, § 101(b)(3)(A), substituted “for fiscal years 2024 and 2025” for “for fiscal years 2012 through 2021” in introductory provisions.
+Subsec. (b)(2)(D)(i). Pub. L. 118–5, § 101(b)(3)(A), substituted “for fiscal years 2024 and 2025” for “for fiscal years 2012 through 2021” in introductory provisions.
 
-Subsec. (b)(2)(D)(i)(II). Pub. L. 118–5, § 101(b)(3)(B), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “notwithstanding clause (iv), starting in fiscal year 2018, five percent of the total appropriations provided after fiscal year 2011 or in the previous 10 years, whichever is less, net of any rescissions of budget authority enacted in the same period, with respect to amounts provided for major disasters declared pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) and designated by the Congress and the President as an emergency pursuant to subparagraph (A)(i) of this paragraph; and”.
+Subsec. (b)(2)(D)(i)(II). Pub. L. 118–5, § 101(b)(3)(B), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “notwithstanding clause (iv), starting in fiscal year 2018, five percent of the total appropriations provided after fiscal year 2011 or in the previous 10 years, whichever is less, net of any rescissions of budget authority enacted in the same period, with respect to amounts provided for major disasters declared pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) and designated by the Congress and the President as an emergency pursuant to subparagraph (A)(i) of this paragraph; and”.
 
-Subsec. (b)(2)(E)(i)(V), (VI). Pub. L. 118–5, § 101(b)(4), added subcls. (V) and (VI).
+Subsec. (b)(2)(E)(i)(V), (VI). Pub. L. 118–5, § 101(b)(4), added subcls. (V) and (VI).
 
-Subsec. (c)(9), (10). Pub. L. 118–5, § 101(a), added pars. (9) and (10).
+Subsec. (c)(9), (10). Pub. L. 118–5, § 101(a), added pars. (9) and (10).
 
-Subsecs. (d), (e). Pub. L. 118–5, § 102, added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 118–5, § 102, added subsecs. (d) and (e).
 
-2019—Subsec. (b)(2)(G). Pub. L. 116–37, § 101(c), added subpar. (G).
+2019—Subsec. (b)(2)(G). Pub. L. 116–37, § 101(c), added subpar. (G).
 
-Subsec. (c)(7), (8). Pub. L. 116–37, § 101(a), added pars. (7) and (8) and struck out former pars. (7) and (8) which read as follows:
+Subsec. (c)(7), (8). Pub. L. 116–37, § 101(a), added pars. (7) and (8) and struck out former pars. (7) and (8) which read as follows:
 
 “(7) for fiscal year 2020—
 
@@ -913,37 +913,37 @@ Subsec. (c)(7), (8). Pub. L. 116–37, § 101(a), added pars. (7) and (8) and 
 
 “(B) for the revised nonsecurity category, $590,000,000,000 in new budget authority;”.
 
-2018—Subsec. (b)(2)(D)(i). Pub. L. 115–141, § 102(a)(1), added subcls. (I) to (III) and struck out former subcls. (I) and (II) which read as follows:
+2018—Subsec. (b)(2)(D)(i). Pub. L. 115–141, § 102(a)(1), added subcls. (I) to (III) and struck out former subcls. (I) and (II) which read as follows:
 
 “(I) the average funding provided for disaster relief over the previous 10 years, excluding the highest and lowest years; and
 
 “(II) the amount, for years when the enacted new discretionary budget authority designated as being for disaster relief for the preceding fiscal year was less than the average as calculated in subclause (I) for that fiscal year, that is the difference between the enacted amount and the allowable adjustment as calculated in such subclause for that fiscal year.”
 
-Subsec. (b)(2)(D)(ii). Pub. L. 115–141, § 102(a)(2), as amended by Pub. L. 115–334, § 8704(a)(1)(A), substituted “not later than 30 days after March 23, 2018” for “not later than 30 days after August 2, 2011”.
+Subsec. (b)(2)(D)(ii). Pub. L. 115–141, § 102(a)(2), as amended by Pub. L. 115–334, § 8704(a)(1)(A), substituted “not later than 30 days after March 23, 2018” for “not later than 30 days after August 2, 2011”.
 
-Subsec. (b)(2)(E). Pub. L. 115–123, § 30206(c), added subpar. (E).
+Subsec. (b)(2)(E). Pub. L. 115–123, § 30206(c), added subpar. (E).
 
-Subsec. (b)(2)(F). Pub. L. 115–141, § 102(a)(3), added subpar. (F).
+Subsec. (b)(2)(F). Pub. L. 115–141, § 102(a)(3), added subpar. (F).
 
-Subsec. (c)(5), (6). Pub. L. 115–123, § 30101(a), added pars. (5) and (6) and struck out former pars. (5) and (6) which defined discretionary spending limits for fiscal years 2018 and 2019, respectively.
+Subsec. (c)(5), (6). Pub. L. 115–123, § 30101(a), added pars. (5) and (6) and struck out former pars. (5) and (6) which defined discretionary spending limits for fiscal years 2018 and 2019, respectively.
 
 2015—Subsec. (a)(7)(B). Pub. L. 114–113 substituted “both the CBO and OMB estimates of the amount of discretionary new budget authority” for “the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays”.
 
-Subsec. (b)(2)(B)(i). Pub. L. 114–74, § 815(1)(A), in introductory provisions, substituted “, for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys” for “and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act”.
+Subsec. (b)(2)(B)(i). Pub. L. 114–74, § 815(1)(A), in introductory provisions, substituted “, for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys” for “and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act”.
 
-Subsec. (b)(2)(B)(i)(VI). Pub. L. 114–74, § 815(1)(B), substituted “$1,546,000,000” for “$1,309,000,000”.
+Subsec. (b)(2)(B)(i)(VI). Pub. L. 114–74, § 815(1)(B), substituted “$1,546,000,000” for “$1,309,000,000”.
 
-Subsec. (b)(2)(B)(i)(VII). Pub. L. 114–74, § 815(1)(C), substituted “$1,462,000,000” for “$1,309,000,000”.
+Subsec. (b)(2)(B)(i)(VII). Pub. L. 114–74, § 815(1)(C), substituted “$1,462,000,000” for “$1,309,000,000”.
 
-Subsec. (b)(2)(B)(i)(VIII). Pub. L. 114–74, § 815(1)(D), substituted “$1,410,000,000” for “$1,309,000,000”.
+Subsec. (b)(2)(B)(i)(VIII). Pub. L. 114–74, § 815(1)(D), substituted “$1,410,000,000” for “$1,309,000,000”.
 
-Subsec. (b)(2)(B)(i)(X). Pub. L. 114–74, § 815(1)(E), substituted “$1,302,000,000” for “$1,309,000,000”.
+Subsec. (b)(2)(B)(i)(X). Pub. L. 114–74, § 815(1)(E), substituted “$1,302,000,000” for “$1,309,000,000”.
 
-Subsec. (b)(2)(B)(ii)(I). Pub. L. 114–74, § 815(2), inserted before semicolon “, including work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity”.
+Subsec. (b)(2)(B)(ii)(I). Pub. L. 114–74, § 815(2), inserted before semicolon “, including work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity”.
 
-Subsec. (b)(2)(B)(ii)(III). Pub. L. 114–74, § 815(3), substituted “, redeterminations, co-operative disability investigation units, and fraud prosecutions” for “and redeterminations”.
+Subsec. (b)(2)(B)(ii)(III). Pub. L. 114–74, § 815(3), substituted “, redeterminations, co-operative disability investigation units, and fraud prosecutions” for “and redeterminations”.
 
-Subsec. (c)(3), (4). Pub. L. 114–74, § 101(a), added pars. (3) and (4) and struck out former pars. (3) and (4) which defined discretionary spending limits for fiscal years 2016 and 2017.
+Subsec. (c)(3), (4). Pub. L. 114–74, § 101(a), added pars. (3) and (4) and struck out former pars. (3) and (4) which defined discretionary spending limits for fiscal years 2016 and 2017.
 
 2013—Subsec. (c). Pub. L. 113–67 added pars. (1) to (8) and struck out former pars. (1) to (10) which defined discretionary spending limits for fiscal years 2012 to 2021.
 
@@ -959,9 +959,9 @@ Subsec. (c)(2), (3). Pub. L. 112–240 amended pars. (2) and (3) generally. Prio
 
 2011—Pub. L. 112–25 amended section generally. Prior to amendment, section related to enforcing discretionary spending limits.
 
-2005—Subsec. (b)(1)(B) to (E). Pub. L. 109–59, § 8002, reenacted heading of subpar. (B) without change and amended text of subpars. (B) to (E) generally. Prior to amendment, subpar. (B) provided for adjustments to align highway spending with revenues using amount of obligations set forth in section 8103 of the Transportation Equity Act for the 21st Century and estimates of receipts for fiscal years 1998 through 2003, subpar. (C) provided for additional adjustments required in budget submissions for fiscal years 2000 through 2003, subpar. (D) provided for a final sequester report for fiscal year 1999 and an adjustment of estimates upon submission of the budget for fiscal years 2000 through 2003, and subpar. (E) required consultation with the Committees on the Budget and inclusion of a report on adjustments under subparagraphs (B) and (C) in the preview report.
+2005—Subsec. (b)(1)(B) to (E). Pub. L. 109–59, § 8002, reenacted heading of subpar. (B) without change and amended text of subpars. (B) to (E) generally. Prior to amendment, subpar. (B) provided for adjustments to align highway spending with revenues using amount of obligations set forth in section 8103 of the Transportation Equity Act for the 21st Century and estimates of receipts for fiscal years 1998 through 2003, subpar. (C) provided for additional adjustments required in budget submissions for fiscal years 2000 through 2003, subpar. (D) provided for a final sequester report for fiscal year 1999 and an adjustment of estimates upon submission of the budget for fiscal years 2000 through 2003, and subpar. (E) required consultation with the Committees on the Budget and inclusion of a report on adjustments under subparagraphs (B) and (C) in the preview report.
 
-Subsec. (c). Pub. L. 109–59, § 8001(a), added pars. (1) to (5), redesignated former pars. (2) to (9) as (6) to (13), respectively, and struck out former par. (1) which read as follows: “with respect to fiscal year 2004—
+Subsec. (c). Pub. L. 109–59, § 8001(a), added pars. (1) to (5), redesignated former pars. (2) to (9) as (6) to (13), respectively, and struck out former par. (1) which read as follows: “with respect to fiscal year 2004—
 
 “(A) for the highway category: $31,834,000,000 in outlays;
 
@@ -969,99 +969,99 @@ Subsec. (c). Pub. L. 109–59, § 8001(a), added pars. (1) to (5), redesignate
 
 “(C) for the conservation spending category: $2,080,000,000, in new budget authority and $2,032,000,000 in outlays;”.
 
-2004—Subsec. (b)(2). Pub. L. 108–310, § 10(a), which directed amendment of par. (2) by striking out “through 2002” in introductory provisions, could not be executed because the phrase “through 2002” did not appear subsequent to amendment by Pub. L. 108–88, § 10(a). See 2003 Amendment note below.
+2004—Subsec. (b)(2). Pub. L. 108–310, § 10(a), which directed amendment of par. (2) by striking out “through 2002” in introductory provisions, could not be executed because the phrase “through 2002” did not appear subsequent to amendment by Pub. L. 108–88, § 10(a). See 2003 Amendment note below.
 
-Subsec. (c). Pub. L. 108–310, § 10(b), which directed the amendment of subsec. (c) by redesignating par. (8) as par. (1), substituting “with respect to fiscal year 2005—” for “with respect to fiscal year 2005” and adding subpars. (A) and (B) in par. (1), redesignating remaining provisions of par. (1) as subpar. (C), redesignating pars. (9) to (16) as (2) to (9), respectively, and striking out former pars. (1) to (7), which defined “discretionary spending limit” with respect to fiscal years 2002 to 2006, either could not be executed or could not be executed as intended because of prior amendments by Pub. L. 108–88, § 10(b). See 2003 Amendment notes below.
+Subsec. (c). Pub. L. 108–310, § 10(b), which directed the amendment of subsec. (c) by redesignating par. (8) as par. (1), substituting “with respect to fiscal year 2005—” for “with respect to fiscal year 2005” and adding subpars. (A) and (B) in par. (1), redesignating remaining provisions of par. (1) as subpar. (C), redesignating pars. (9) to (16) as (2) to (9), respectively, and striking out former pars. (1) to (7), which defined “discretionary spending limit” with respect to fiscal years 2002 to 2006, either could not be executed or could not be executed as intended because of prior amendments by Pub. L. 108–88, § 10(b). See 2003 Amendment notes below.
 
-2003—Subsec. (b)(2). Pub. L. 108–88, § 10(a), struck out “through 2002” after “succeeding year” in introductory provisions.
+2003—Subsec. (b)(2). Pub. L. 108–88, § 10(a), struck out “through 2002” after “succeeding year” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 108–88, § 10(b)(1), redesignated par. (8) as (1), substituted “with respect to fiscal year 2004—” for “with respect to fiscal year 2004”, added subpars. (A) and (B), redesignated remaining provisions of par. (1) as subpar. (C), and struck out former par. (1), which defined “discretionary spending limit” with respect to fiscal year 1997.
+Subsec. (c)(1). Pub. L. 108–88, § 10(b)(1), redesignated par. (8) as (1), substituted “with respect to fiscal year 2004—” for “with respect to fiscal year 2004”, added subpars. (A) and (B), redesignated remaining provisions of par. (1) as subpar. (C), and struck out former par. (1), which defined “discretionary spending limit” with respect to fiscal year 1997.
 
-Subsec. (c)(2) to (16). Pub. L. 108–88, § 10(b), redesignated pars. (9) to (16) as (2) to (9), respectively, and struck out former pars. (2) to (7), which defined “discretionary spending limit” with respect to fiscal years 1998 to 2003.
+Subsec. (c)(2) to (16). Pub. L. 108–88, § 10(b), redesignated pars. (9) to (16) as (2) to (9), respectively, and struck out former pars. (2) to (7), which defined “discretionary spending limit” with respect to fiscal years 1998 to 2003.
 
-2002—Subsec. (c)(6)(A). Pub. L. 107–117, § 101(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;”.
+2002—Subsec. (c)(6)(A). Pub. L. 107–117, § 101(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $551,074,000,000 in new budget authority and $560,799,000,000 in outlays;”.
 
-Subsec. (c)(6)(C). Pub. L. 107–117, § 101(a)(2), struck out second “and” at end.
+Subsec. (c)(6)(C). Pub. L. 107–117, § 101(a)(2), struck out second “and” at end.
 
-Subsec. (c)(6)(D). Pub. L. 107–117, § 101(a)(3), substituted “$1,473,000,000” for “$1,232,000,000”.
+Subsec. (c)(6)(D). Pub. L. 107–117, § 101(a)(3), substituted “$1,473,000,000” for “$1,232,000,000”.
 
-2000—Subsec. (b)(2)(H). Pub. L. 106–291, § 801(b), added subpar. (H).
+2000—Subsec. (b)(2)(H). Pub. L. 106–291, § 801(b), added subpar. (H).
 
 Subsec. (c)(5)(A). Pub. L. 106–429 added subpar. (A) and struck out former subpar. (A) which read as follows: “for the discretionary category: $542,032,000,000 in new budget authority and $564,396,000,000 in outlays;”.
 
-Subsec. (c)(6)(D). Pub. L. 106–291, § 801(a)(1), added subpar. (D).
+Subsec. (c)(6)(D). Pub. L. 106–291, § 801(a)(1), added subpar. (D).
 
-Subsec. (c)(7)(C). Pub. L. 106–291, § 801(a)(2), added subpar. (C).
+Subsec. (c)(7)(C). Pub. L. 106–291, § 801(a)(2), added subpar. (C).
 
-Subsec. (c)(8) to (16). Pub. L. 106–291, § 801(a)(3), added pars. (8) to (16).
+Subsec. (c)(8) to (16). Pub. L. 106–291, § 801(a)(3), added pars. (8) to (16).
 
-1998—Subsec. (b)(1). Pub. L. 105–178, § 8101(d), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) to (E).
+1998—Subsec. (b)(1). Pub. L. 105–178, § 8101(d), designated existing provisions as subpar. (A), inserted heading, and added subpars. (B) to (E).
 
-Subsec. (c)(3)(D), (E). Pub. L. 105–178, § 8101(a)(1), added subpars. (D) and (E).
+Subsec. (c)(3)(D), (E). Pub. L. 105–178, § 8101(a)(1), added subpars. (D) and (E).
 
-Subsec. (c)(4)(C), (D). Pub. L. 105–178, § 8101(a)(2), added subpars. (C) and (D).
+Subsec. (c)(4)(C), (D). Pub. L. 105–178, § 8101(a)(2), added subpars. (C) and (D).
 
-Subsec. (c)(5). Pub. L. 105–178, § 8101(a)(3), substituted a dash for comma after “2001”, designated remaining provisions as subpar. (A), realigned margins, struck out “and” at end, and added subpars. (B) and (C).
+Subsec. (c)(5). Pub. L. 105–178, § 8101(a)(3), substituted a dash for comma after “2001”, designated remaining provisions as subpar. (A), realigned margins, struck out “and” at end, and added subpars. (B) and (C).
 
-Subsec. (c)(6). Pub. L. 105–178, § 8101(a)(4), substituted a dash for comma after “2002”, designated remaining provisions as subpar. (A), realigned margins, and added subpars. (B) and (C).
+Subsec. (c)(6). Pub. L. 105–178, § 8101(a)(4), substituted a dash for comma after “2002”, designated remaining provisions as subpar. (A), realigned margins, and added subpars. (B) and (C).
 
-Subsec. (c)(7). Pub. L. 105–178, § 8101(a)(5), added par. (7).
+Subsec. (c)(7). Pub. L. 105–178, § 8101(a)(5), added par. (7).
 
-1997—Subsec. (a). Pub. L. 105–33, § 10203(a)(1), struck out “Fiscal Years 1991–1998” before “Enforcement” in heading.
+1997—Subsec. (a). Pub. L. 105–33, § 10203(a)(1), struck out “Fiscal Years 1991–1998” before “Enforcement” in heading.
 
-Subsec. (a)(3). Pub. L. 105–33, § 10203(a)(2), substituted “section 905(f)” for “section 905(h)” in two places.
+Subsec. (a)(3). Pub. L. 105–33, § 10203(a)(2), substituted “section 905(f)” for “section 905(h)” in two places.
 
-Subsec. (a)(7). Pub. L. 105–33, § 10203(a)(3), added par. (7) and struck out heading and text of former par. (7). Text read as follows: “As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation. Within 5 calendar days after the enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the two estimates. For purposes of this paragraph, amounts provided by annual appropriations shall include any new budget authority and outlays for those years in accounts for which funding is provided in that legislation that result from previously enacted legislation. Those OMB estimates shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph for the purposes of this subsection. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
+Subsec. (a)(7). Pub. L. 105–33, § 10203(a)(3), added par. (7) and struck out heading and text of former par. (7). Text read as follows: “As soon as practicable after Congress completes action on any discretionary appropriation, CBO, after consultation with the Committees on the Budget of the House of Representatives and the Senate, shall provide OMB with an estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation. Within 5 calendar days after the enactment of any discretionary appropriation, OMB shall transmit a report to the House of Representatives and to the Senate containing the CBO estimate of that legislation, an OMB estimate of the amount of discretionary new budget authority and outlays for the current year (if any) and the budget year provided by that legislation, and an explanation of any difference between the two estimates. For purposes of this paragraph, amounts provided by annual appropriations shall include any new budget authority and outlays for those years in accounts for which funding is provided in that legislation that result from previously enacted legislation. Those OMB estimates shall be made using current economic and technical assumptions. OMB shall use the OMB estimates transmitted to the Congress under this paragraph for the purposes of this subsection. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
 
-Subsec. (b). Pub. L. 105–33, § 10203(a)(4), added subsec. (b) and struck out heading and text of former subsec. (b) which provided that when the President submitted the budget for a budget year from 1992 to 1998, OMB was to calculate, and the budget was to include, adjustments to discretionary spending limits reflecting certain enumerated factors and provided that when OMB submitted a sequestration report for a fiscal year from 1991 to 1998, OMB was to calculate, and the sequestration report and subsequent budgets were to include, adjustments to discretionary spending limits reflecting certain enumerated factors.
+Subsec. (b). Pub. L. 105–33, § 10203(a)(4), added subsec. (b) and struck out heading and text of former subsec. (b) which provided that when the President submitted the budget for a budget year from 1992 to 1998, OMB was to calculate, and the budget was to include, adjustments to discretionary spending limits reflecting certain enumerated factors and provided that when OMB submitted a sequestration report for a fiscal year from 1991 to 1998, OMB was to calculate, and the sequestration report and subsequent budgets were to include, adjustments to discretionary spending limits reflecting certain enumerated factors.
 
 Subsec. (b)(2)(G). Pub. L. 105–89 added subpar. (G).
 
-Subsec. (c). Pub. L. 105–33, § 10203(b), added subsec. (c).
+Subsec. (c). Pub. L. 105–33, § 10203(b), added subsec. (c).
 
 1996—Subsec. (b)(2)(G). Pub. L. 104–208 substituted “fiscal years 1994, 1995, and 1997” for “fiscal year 1994 and 1995” in two places.
 
 Subsec. (b)(2)(H). Pub. L. 104–121 added subpar. (H).
 
-Subsec. (b)(2)(H)(i). Pub. L. 104–193, § 211(d)(5)(B)(i), substituted “$175,000,000” for “$25,000,000” and “$310,000,000” for “$160,000,000” in subcl. (II), and “$245,000,000” for “$145,000,000” and “$470,000,000” for “$370,000,000” in subcl. (III).
+Subsec. (b)(2)(H)(i). Pub. L. 104–193, § 211(d)(5)(B)(i), substituted “$175,000,000” for “$25,000,000” and “$310,000,000” for “$160,000,000” in subcl. (II), and “$245,000,000” for “$145,000,000” and “$470,000,000” for “$370,000,000” in subcl. (III).
 
-Subsec. (b)(2)(H)(ii)(I). Pub. L. 104–193, § 211(d)(5)(B)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the term ‘continuing disability reviews’ has the meaning given such term by section 401(g)(1)(A) of title 42;”.
+Subsec. (b)(2)(H)(ii)(I). Pub. L. 104–193, § 211(d)(5)(B)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the term ‘continuing disability reviews’ has the meaning given such term by section 401(g)(1)(A) of title 42;”.
 
 1994—Subsec. (b)(2)(D)(i). Pub. L. 103–354 inserted at end “This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.”
 
 Subsec. (b)(2)(G). Pub. L. 103–306 substituted “1994 and 1995” for “1994” in two places.
 
-1993—Subsec. (a). Pub. L. 103–66, § 14002(c)(1)(A), substituted “1998” for “1995” in heading.
+1993—Subsec. (a). Pub. L. 103–66, § 14002(c)(1)(A), substituted “1998” for “1995” in heading.
 
-Subsec. (b)(1). Pub. L. 103–66, § 14002(c)(1)(B)(i), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “outyear through 1998” for “outyear through 1995”.
+Subsec. (b)(1). Pub. L. 103–66, § 14002(c)(1)(B)(i), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “outyear through 1998” for “outyear through 1995”.
 
-Subsec. (b)(1)(B)(iii). Pub. L. 103–66, § 14002(c)(1)(B)(ii), added cl. (iii).
+Subsec. (b)(1)(B)(iii). Pub. L. 103–66, § 14002(c)(1)(B)(ii), added cl. (iii).
 
-Subsec. (b)(2). Pub. L. 103–66, § 14002(c)(1)(B)(iii), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “year through 1998” for “year through 1995”.
+Subsec. (b)(2). Pub. L. 103–66, § 14002(c)(1)(B)(iii), in introductory provisions, substituted “1995, 1996, 1997, or 1998” for “or 1995” and “year through 1998” for “year through 1995”.
 
-Subsec. (b)(2)(D)(i). Pub. L. 103–66, § 14002(c)(1)(B)(iv), substituted “for any fiscal year,” for “for fiscal year 1991, 1992, 1993, 1994, or 1995,”.
+Subsec. (b)(2)(D)(i). Pub. L. 103–66, § 14002(c)(1)(B)(iv), substituted “for any fiscal year,” for “for fiscal year 1991, 1992, 1993, 1994, or 1995,”.
 
-Subsec. (b)(2)(E)(iv). Pub. L. 103–66, § 14002(c)(1)(B)(v), added cl. (iv).
+Subsec. (b)(2)(E)(iv). Pub. L. 103–66, § 14002(c)(1)(B)(v), added cl. (iv).
 
-Subsec. (b)(2)(F). Pub. L. 103–66, § 14002(c)(1)(B)(vi), inserted before period at end “, and not to exceed 0.5 percent of the adjusted descretionary [sic] spending limit on outlays for the fiscal year in fiscal year 1996, 1997, or 1998”.
+Subsec. (b)(2)(F). Pub. L. 103–66, § 14002(c)(1)(B)(vi), inserted before period at end “, and not to exceed 0.5 percent of the adjusted descretionary [sic] spending limit on outlays for the fiscal year in fiscal year 1996, 1997, or 1998”.
 
 Subsec. (b)(2)(G). Pub. L. 103–87 added subpar. (G).
 
-1990—Pub. L. 101–508, § 13101(a), amended section generally, substituting subsecs. (a) and (b) relating to enforcement of discretionary spending limits for former subsecs. (a) to (e) relating to reporting of excess deficits.
+1990—Pub. L. 101–508, § 13101(a), amended section generally, substituting subsecs. (a) and (b) relating to enforcement of discretionary spending limits for former subsecs. (a) to (e) relating to reporting of excess deficits.
 
-Subsec. (a)(6)(I). Pub. L. 101–508, § 13101(e)(2), redesignated subsec. (a)(6)(I) of this section as section 907(e) of this title.
+Subsec. (a)(6)(I). Pub. L. 101–508, § 13101(e)(2), redesignated subsec. (a)(6)(I) of this section as section 907(e) of this title.
 
 1987—Pub. L. 100–119 amended section generally, substituting provisions consisting of subsecs. (a) to (e) relating to reports by Director of CBO to Director of OMB and to Congress and by Director of OMB to President and Congress for provisions consisting of subsecs. (a) to (g) relating to joint reports by Directors of CBO and OMB to Comptroller General and report by Comptroller General to President and Congress.
 
-Subsec. (a)(6)(B). Pub. L. 100–203, § 8003(f), struck out “and” before “contract authority” and inserted provision whereby the authority to provide insurance through the Federal Housing Administration Fund be continued.
+Subsec. (a)(6)(B). Pub. L. 100–203, § 8003(f), struck out “and” before “contract authority” and inserted provision whereby the authority to provide insurance through the Federal Housing Administration Fund be continued.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title VIII, § 8704(a)(2), Dec. 20, 2018, 132 Stat. 4877, provided that: “The amendments made by paragraph (1) [amending this section and section 7102 of Title 16, Conservation] shall take effect as if enacted as part of the Wildfire Suppression Funding and Forest Management Activities Act ([div. O of] Public Law 115–141).”
+Pub. L. 115–334, title VIII, § 8704(a)(2), Dec. 20, 2018, 132 Stat. 4877, provided that: “The amendments made by paragraph (1) [amending this section and section 7102 of Title 16, Conservation] shall take effect as if enacted as part of the Wildfire Suppression Funding and Forest Management Activities Act ([div. O of] Public Law 115–141).”
 
-Pub. L. 115–141, div. O, title I, § 102(b), Mar. 23, 2018, 132 Stat. 1060, provided that: “The amendment made by paragraph (1) of subsection (a) [amending this section] shall begin to apply in fiscal year 2019.”
+Pub. L. 115–141, div. O, title I, § 102(b), Mar. 23, 2018, 132 Stat. 1060, provided that: “The amendment made by paragraph (1) of subsection (a) [amending this section] shall begin to apply in fiscal year 2019.”
 
 **Effective Date of 1997 Amendment**
 
@@ -1069,21 +1069,21 @@ Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provi
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–354, title I, § 119(d)(1), Oct. 13, 1994, 108 Stat. 3208, provided that the amendment made by that section is effective Jan. 1, 1995.
+Pub. L. 103–354, title I, § 119(d)(1), Oct. 13, 1994, 108 Stat. 3208, provided that the amendment made by that section is effective Jan. 1, 1995.
 
 **Adjustment for Rounding**
 
-Pub. L. 106–429, § 101(a) [title VII, § 701(c)], Nov. 6, 2000, 114 Stat. 1900, 1900A–64, provided for adjustments for rounding.
+Pub. L. 106–429, § 101(a) [title VII, § 701(c)], Nov. 6, 2000, 114 Stat. 1900, 1900A–64, provided for adjustments for rounding.
 
-Pub. L. 106–113, div. B, § 1000(a)(5) [title III, § 307], Nov. 29, 1999, 113 Stat. 1536, 1501A–306, provided for adjustments for rounding.
+Pub. L. 106–113, div. B, § 1000(a)(5) [title III, § 307], Nov. 29, 1999, 113 Stat. 1536, 1501A–306, provided for adjustments for rounding.
 
 **Offsetting Adjustment in Discretionary Spending Limits**
 
-Pub. L. 105–178, title VIII, § 8101(b), June 9, 1998, 112 Stat. 489, as amended by Pub. L. 105–206, title IX, § 9013(a), July 22, 1998, 112 Stat. 865, provided adjustments of nondefense category for fiscal year 1999, discretionary category for fiscal year 2000, and discretionary spending limits for fiscal years 2001 and 2002.
+Pub. L. 105–178, title VIII, § 8101(b), June 9, 1998, 112 Stat. 489, as amended by Pub. L. 105–206, title IX, § 9013(a), July 22, 1998, 112 Stat. 865, provided adjustments of nondefense category for fiscal year 1999, discretionary category for fiscal year 2000, and discretionary spending limits for fiscal years 2001 and 2002.
 
 **Level of Obligation Limitations**
 
-Pub. L. 109–59, title VIII, § 8003, Aug. 10, 2005, 119 Stat. 1917, as amended by Pub. L. 111–147, title IV, § 446(a), (b), Mar. 18, 2010, 124 Stat. 95, 96; Pub. L. 111–322, title II, § 2308, Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, § 308, Mar. 4, 2011, 125 Stat. 21, provided that:
+Pub. L. 109–59, title VIII, § 8003, Aug. 10, 2005, 119 Stat. 1917, as amended by Pub. L. 111–147, title IV, § 446(a), (b), Mar. 18, 2010, 124 Stat. 95, 96; Pub. L. 111–322, title II, § 2308, Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, § 308, Mar. 4, 2011, 125 Stat. 21, provided that:
 
 > **“(a) Highway Category.—** For the purposes of [former] section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 [former 2 U.S.C. 901(b)], the level of obligation limitations for the highway category is—
 
@@ -1121,9 +1121,9 @@ Pub. L. 109–59, title VIII, § 8003, Aug. 10, 2005, 119 Stat. 1917, as amend
 
 Similar provisions for prior fiscal years were contained in the following prior act:
 
-Pub. L. 105–178, title VIII, § 8103, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 108–88, § 11(a), (b), Sept. 30, 2003, 117 Stat. 1128; Pub. L. 108–310, § 11(a), (b), Sept. 30, 2004, 118 Stat. 1161.
+Pub. L. 105–178, title VIII, § 8103, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 108–88, § 11(a), (b), Sept. 30, 2003, 117 Stat. 1128; Pub. L. 108–310, § 11(a), (b), Sept. 30, 2004, 118 Stat. 1161.
 
-### § 901a. Enforcement of budget goal
+### § 901a. Enforcement of budget goal
 
 Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:
 
@@ -1221,9 +1221,9 @@ Any reductions imposed under this section shall be implemented in accordance wit
 
 **(9) Report**
 
-On the dates specified in paragraph (2), OMB shall submit a report to Congress containing information about the calculations required under this section, the adjusted discretionary spending limits, a listing of the reductions required for each nonexempt direct spending account, and any other data and explanations that enhance public understanding of this title 1
+On the dates specified in paragraph (2), OMB shall submit a report to Congress containing information about the calculations required under this section, the adjusted discretionary spending limits, a listing of the reductions required for each nonexempt direct spending account, and any other data and explanations that enhance public understanding of this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and actions taken under it.
 
@@ -1251,7 +1251,7 @@ and actions taken under it.
 
 **(B)** Paragraph (5)(B) shall not be implemented for fiscal years 2020 and 2021.
 
-(Pub. L. 99–177, title II, § 251A, as added Pub. L. 112–25, title III, § 302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, § 901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, § 101(b), (c), (d)(2), div. B, title II, § 1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, § 1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, § 222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, § 101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, § 30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, § 101(d), title IV, § 402, Aug. 2, 2019, 133 Stat. 1050, 1058; Pub. L. 116–136, div. A, title III, § 3709(b), Mar. 27, 2020, 134 Stat. 422; Pub. L. 117–7, § 1(b), Apr. 14, 2021, 135 Stat. 251; Pub. L. 117–58, div. I, § 90001, Nov. 15, 2021, 135 Stat. 1341; Pub. L. 117–71, § 2(b), Dec. 10, 2021, 135 Stat. 1506; Pub. L. 117–328, div. FF, title IV, § 4163, Dec. 29, 2022, 136 Stat. 5931; Pub. L. 118–31, div. A, title XVIII, § 1852, Dec. 22, 2023, 137 Stat. 709; Pub. L. 118–42, div. G, title III, § 303, Mar. 9, 2024, 138 Stat. 452; Pub. L. 118–47, div. G, title I, § 109, Mar. 23, 2024, 138 Stat. 857; Pub. L. 119–4, div. B, title II, § 2211, Mar. 15, 2025, 139 Stat. 44; Pub. L. 119–37, div. F, title II, § 6213, Nov. 12, 2025, 139 Stat. 634; Pub. L. 119–75, div. J, title II, § 6227, Feb. 3, 2026, 140 Stat. 684.)
+(Pub. L. 99–177, title II, § 251A, as added Pub. L. 112–25, title III, § 302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, § 901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, § 101(b), (c), (d)(2), div. B, title II, § 1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, § 1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, § 222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, § 101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, § 30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, § 101(d), title IV, § 402, Aug. 2, 2019, 133 Stat. 1050, 1058; Pub. L. 116–136, div. A, title III, § 3709(b), Mar. 27, 2020, 134 Stat. 422; Pub. L. 117–7, § 1(b), Apr. 14, 2021, 135 Stat. 251; Pub. L. 117–58, div. I, § 90001, Nov. 15, 2021, 135 Stat. 1341; Pub. L. 117–71, § 2(b), Dec. 10, 2021, 135 Stat. 1506; Pub. L. 117–328, div. FF, title IV, § 4163, Dec. 29, 2022, 136 Stat. 5931; Pub. L. 118–31, div. A, title XVIII, § 1852, Dec. 22, 2023, 137 Stat. 709; Pub. L. 118–42, div. G, title III, § 303, Mar. 9, 2024, 138 Stat. 452; Pub. L. 118–47, div. G, title I, § 109, Mar. 23, 2024, 138 Stat. 857; Pub. L. 119–4, div. B, title II, § 2211, Mar. 15, 2025, 139 Stat. 44; Pub. L. 119–37, div. F, title II, § 6213, Nov. 12, 2025, 139 Stat. 634; Pub. L. 119–75, div. J, title II, § 6227, Feb. 3, 2026, 140 Stat. 684.)
 
 **Editorial Notes**
 
@@ -1259,7 +1259,7 @@ and actions taken under it.
 
 Section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011, referred to in par. (1)(B), is section 401(b)(3)(B)(i)(II) of title IV of Pub. L. 112–25, which is set out in a note under section 900 of this title.
 
-This title, referred to in par. (9), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+This title, referred to in par. (9), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
 The Bipartisan Budget Act of 2013, referred to in par. (10)(A), is div. A of Pub. L. 113–67, Dec. 26, 2013, 127 Stat. 1165. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 900 of this title and Tables.
 
@@ -1271,169 +1271,169 @@ The Bipartisan Budget Act of 2019, referred to in par. (13)(A), is Pub. L. 116�
 
 **Prior Provisions**
 
-A prior section 901a, Pub. L. 99–177, title II, § 251A, as added Pub. L. 103–322, title XXXI, § 310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, § 10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
+A prior section 901a, Pub. L. 99–177, title II, § 251A, as added Pub. L. 103–322, title XXXI, § 310001(g)(1), Sept. 13, 1994, 108 Stat. 2104, related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by Pub. L. 105–33, title X, § 10204(a)(1), Aug. 5, 1997, 111 Stat. 702.
 
 **Amendments**
 
-2026—Par. (6)(D). Pub. L. 119–75, § 6227(1), substituted “such that the payment reduction shall be 2.0 percent for such fiscal year.” for “such that, notwithstanding the 2 percent limit specified in subparagraph (A) for such payments—
+2026—Par. (6)(D). Pub. L. 119–75, § 6227(1), substituted “such that the payment reduction shall be 2.0 percent for such fiscal year.” for “such that, notwithstanding the 2 percent limit specified in subparagraph (A) for such payments—
 
 “(i) with respect to the first 11 months in which such order is effective for such fiscal year, the payment reduction shall be 2.0 percent; and
 
 “(ii) with respect to the last 1 month in which such order is effective for such fiscal year, the payment reduction shall be 0 percent.”
 
-Par. (6)(F). Pub. L. 119–75, § 6227(2), added subpar. (F).
+Par. (6)(F). Pub. L. 119–75, § 6227(2), added subpar. (F).
 
-2025—Par. (6)(D)(i). Pub. L. 119–37, § 6213(1), substituted “11 months” for “10 months”.
+2025—Par. (6)(D)(i). Pub. L. 119–37, § 6213(1), substituted “11 months” for “10 months”.
 
-Pub. L. 119–4, § 2211(1), substituted “10 months” for “8 months”.
+Pub. L. 119–4, § 2211(1), substituted “10 months” for “8 months”.
 
-Par. (6)(D)(ii). Pub. L. 119–37, § 6213(2), substituted “1 month” for “2 months”.
+Par. (6)(D)(ii). Pub. L. 119–37, § 6213(2), substituted “1 month” for “2 months”.
 
-Pub. L. 119–4, § 2211(2), substituted “2 months” for “4 months”.
+Pub. L. 119–4, § 2211(2), substituted “2 months” for “4 months”.
 
-2024—Par. (6)(D)(i). Pub. L. 118–42, § 303(1), substituted “8 months” for “7 months”.
+2024—Par. (6)(D)(i). Pub. L. 118–42, § 303(1), substituted “8 months” for “7 months”.
 
-Par. (6)(D)(ii). Pub. L. 118–42, § 303(2), substituted “4 months” for “5 months”.
+Par. (6)(D)(ii). Pub. L. 118–42, § 303(2), substituted “4 months” for “5 months”.
 
 Par. (6)(E). Pub. L. 118–47 added subpar. (E).
 
-2023—Par. (6)(D)(i). Pub. L. 118–31, § 1852(1), substituted “7 months” for “6 months”.
+2023—Par. (6)(D)(i). Pub. L. 118–31, § 1852(1), substituted “7 months” for “6 months”.
 
-Par. (6)(D)(ii). Pub. L. 118–31, § 1852(2), substituted “last 5 months” for “second 6 months”.
+Par. (6)(D)(ii). Pub. L. 118–31, § 1852(2), substituted “last 5 months” for “second 6 months”.
 
-2022—Par. (6)(B). Pub. L. 117–328, § 4163(1), in introductory provisions, substituted “On the date on which the President submits the budget under section 1105 of title 31” for “On the dates OMB issues its sequestration preview reports” and struck out “pursuant to section 904(c) of this title,” before “the President shall order a sequestration”.
+2022—Par. (6)(B). Pub. L. 117–328, § 4163(1), in introductory provisions, substituted “On the date on which the President submits the budget under section 1105 of title 31” for “On the dates OMB issues its sequestration preview reports” and struck out “pursuant to section 904(c) of this title,” before “the President shall order a sequestration”.
 
-Par. (6)(C). Pub. L. 117–328, § 4163(2), realigned margins.
+Par. (6)(C). Pub. L. 117–328, § 4163(2), realigned margins.
 
-Par. (6)(D). Pub. L. 117–328, § 4163(3), (4), added subpar. (D) and struck out former subpar. (D) which read as follows: “Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
+Par. (6)(D). Pub. L. 117–328, § 4163(3), (4), added subpar. (D) and struck out former subpar. (D) which read as follows: “Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
 
 “(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.25 percent; and
 
 “(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 3 percent.”
 
-Par. (6)(E). Pub. L. 117–328, § 4163(3), struck out subpar. (E) which read as follows: “Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2031 shall be applied to such payments so that—
+Par. (6)(E). Pub. L. 117–328, § 4163(3), struck out subpar. (E) which read as follows: “Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2031 shall be applied to such payments so that—
 
 “(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
 
 “(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0 percent.”
 
-2021—Par. (6)(B). Pub. L. 117–58, § 90001(1), substituted “2031” for “2030” in introductory provisions.
+2021—Par. (6)(B). Pub. L. 117–58, § 90001(1), substituted “2031” for “2030” in introductory provisions.
 
-Par. (6)(C). Pub. L. 117–71, § 2(b)(2), added subpar. (C). Former subpar. (C) redesignated (E).
+Par. (6)(C). Pub. L. 117–71, § 2(b)(2), added subpar. (C). Former subpar. (C) redesignated (E).
 
-Pub. L. 117–58, § 90001(2)(A), substituted “2031” for “2030” in introductory provisions.
+Pub. L. 117–58, § 90001(2)(A), substituted “2031” for “2030” in introductory provisions.
 
-Par. (6)(C)(i). Pub. L. 117–58, § 90001(2)(B), substituted “6” for “5 ½”, “4.0” for “2.0”, and “; and” for semicolon at end.
+Par. (6)(C)(i). Pub. L. 117–58, § 90001(2)(B), substituted “6” for “5 ½”, “4.0” for “2.0”, and “; and” for semicolon at end.
 
-Pub. L. 117–7, § 1(b)(1), substituted “first 5 ½ months” for “first 6 months” and “2.0 percent” for “4.0 percent” and struck out “and” at end.
+Pub. L. 117–7, § 1(b)(1), substituted “first 5 ½ months” for “first 6 months” and “2.0 percent” for “4.0 percent” and struck out “and” at end.
 
-Par. (6)(C)(ii). Pub. L. 117–58, § 90001(2)(C), substituted “second 6 months” for “6-month period beginning on the day after the last day of the period described in clause (i)”, “0” for “4.0”, and a period for “; and” at end.
+Par. (6)(C)(ii). Pub. L. 117–58, § 90001(2)(C), substituted “second 6 months” for “6-month period beginning on the day after the last day of the period described in clause (i)”, “0” for “4.0”, and a period for “; and” at end.
 
-Pub. L. 117–7, § 1(b)(2), substituted “6-month period beginning on the day after the last day of the period described in clause (i)” for “second 6 months” and “4.0 percent; and” for “0.0 percent.”
+Pub. L. 117–7, § 1(b)(2), substituted “6-month period beginning on the day after the last day of the period described in clause (i)” for “second 6 months” and “4.0 percent; and” for “0.0 percent.”
 
-Par. (6)(C)(iii). Pub. L. 117–58, § 90001(2)(D), struck out cl. (iii) which read as follows: “with respect to the remaining ½ month in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.”
+Par. (6)(C)(iii). Pub. L. 117–58, § 90001(2)(D), struck out cl. (iii) which read as follows: “with respect to the remaining ½ month in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.”
 
-Pub. L. 117–7, § 1(b)(3), added cl. (iii).
+Pub. L. 117–7, § 1(b)(3), added cl. (iii).
 
-Par. (6)(D). Pub. L. 117–71, § 2(b)(2), added subpar. (D).
+Par. (6)(D). Pub. L. 117–71, § 2(b)(2), added subpar. (D).
 
-Par. (6)(E). Pub. L. 117–71, § 2(b)(1), redesignated subpar. (C) as (E).
+Par. (6)(E). Pub. L. 117–71, § 2(b)(1), redesignated subpar. (C) as (E).
 
-2020—Par. (6)(B). Pub. L. 116–136, § 3709(b)(1), substituted “through 2030” for “through 2029” in introductory provisions.
+2020—Par. (6)(B). Pub. L. 116–136, § 3709(b)(1), substituted “through 2030” for “through 2029” in introductory provisions.
 
-Par. (6)(C). Pub. L. 116–136, § 3709(b)(2), substituted “fiscal year 2030” for “fiscal year 2029” in introductory provisions.
+Par. (6)(C). Pub. L. 116–136, § 3709(b)(2), substituted “fiscal year 2030” for “fiscal year 2029” in introductory provisions.
 
-2019—Par. (5)(B). Pub. L. 116–37, § 101(d)(1), substituted “(12), and (13)” for “and (12)” in introductory provisions.
+2019—Par. (5)(B). Pub. L. 116–37, § 101(d)(1), substituted “(12), and (13)” for “and (12)” in introductory provisions.
 
-Par. (6)(B). Pub. L. 116–37, § 402(1), substituted “fiscal years 2022 through 2029” for “fiscal years 2022 through 2027” in introductory provisions.
+Par. (6)(B). Pub. L. 116–37, § 402(1), substituted “fiscal years 2022 through 2029” for “fiscal years 2022 through 2027” in introductory provisions.
 
-Par. (6)(C). Pub. L. 116–37, § 402(2), substituted “fiscal year 2029” for “fiscal year 2027” in introductory provisions.
+Par. (6)(C). Pub. L. 116–37, § 402(2), substituted “fiscal year 2029” for “fiscal year 2027” in introductory provisions.
 
-Par. (13). Pub. L. 116–37, § 101(d)(2), added par. (13).
+Par. (13). Pub. L. 116–37, § 101(d)(2), added par. (13).
 
-2018—Par. (5)(B). Pub. L. 115–123, § 30101(b)(1), substituted “, (11), and (12)” for “and (11)” in introductory provisions.
+2018—Par. (5)(B). Pub. L. 115–123, § 30101(b)(1), substituted “, (11), and (12)” for “and (11)” in introductory provisions.
 
-Par. (6)(B). Pub. L. 115–123, § 30101(c)(1), substituted “for each of fiscal years 2022 through 2027” for “for fiscal year 2022, for fiscal year 2023, for fiscal year 2024, and for fiscal year 2025” in introductory provisions.
+Par. (6)(B). Pub. L. 115–123, § 30101(c)(1), substituted “for each of fiscal years 2022 through 2027” for “for fiscal year 2022, for fiscal year 2023, for fiscal year 2024, and for fiscal year 2025” in introductory provisions.
 
-Par. (6)(C). Pub. L. 115–123, § 30101(c)(2), substituted “fiscal year 2027” for “fiscal year 2025” in introductory provisions.
+Par. (6)(C). Pub. L. 115–123, § 30101(c)(2), substituted “fiscal year 2027” for “fiscal year 2025” in introductory provisions.
 
-Par. (12). Pub. L. 115–123, § 30101(b)(2), added par. (12).
+Par. (12). Pub. L. 115–123, § 30101(b)(2), added par. (12).
 
-2015—Par. (5)(B). Pub. L. 114–74, § 101(b)(1), substituted “paragraphs (10) and (11)” for “paragraph (10)”.
+2015—Par. (5)(B). Pub. L. 114–74, § 101(b)(1), substituted “paragraphs (10) and (11)” for “paragraph (10)”.
 
-Par. (6)(B). Pub. L. 114–74, § 101(c)(1), in introductory provisions, substituted “for fiscal year 2024, and for fiscal year 2025” for “and for fiscal year 2024”.
+Par. (6)(B). Pub. L. 114–74, § 101(c)(1), in introductory provisions, substituted “for fiscal year 2024, and for fiscal year 2025” for “and for fiscal year 2024”.
 
-Par. (6)(C), (D). Pub. L. 114–74, § 101(c)(2), (3), redesignated subpar. (D) as (C), substituted “fiscal year 2025” for “fiscal year 2024” in introductory provisions, and struck out former subpar. (C) which read as follows: “Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2023 shall be applied to such payments so that—
+Par. (6)(C), (D). Pub. L. 114–74, § 101(c)(2), (3), redesignated subpar. (D) as (C), substituted “fiscal year 2025” for “fiscal year 2024” in introductory provisions, and struck out former subpar. (C) which read as follows: “Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2023 shall be applied to such payments so that—
 
 “(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.90 percent; and
 
 “(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 1.11 percent.”
 
-Par. (11). Pub. L. 114–74, § 101(b)(2), added par. (11).
+Par. (11). Pub. L. 114–74, § 101(b)(2), added par. (11).
 
-2014—Par. (6)(B). Pub. L. 113–82 substituted “, for fiscal year 2023, and for fiscal year 2024” for “and for fiscal year 2023”.
+2014—Par. (6)(B). Pub. L. 113–82 substituted “, for fiscal year 2023, and for fiscal year 2024” for “and for fiscal year 2023”.
 
 Par. (6)(D). Pub. L. 113–93 added subpar. (D).
 
-2013—Pub. L. 113–67, § 101(d)(2)(A), in introductory provisions substituted “Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:” for “Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in section 901(c) of this title shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:”.
+2013—Pub. L. 113–67, § 101(d)(2)(A), in introductory provisions substituted “Discretionary appropriations and direct spending accounts shall be reduced in accordance with this section as follows:” for “Unless a joint committee bill achieving an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted by January 15, 2012, the discretionary spending limits listed in section 901(c) of this title shall be revised, and discretionary appropriations and direct spending shall be reduced, as follows:”.
 
-Par. (1). Pub. L. 113–67, § 101(d)(2)(B), (C), redesignated par.(3) as (1) and struck out former par. (1) which defined “revised security category” as discretionary appropriations in budget function 050 and “revised nonsecurity category” as discretionary appropriations other than in budget function 050.
+Par. (1). Pub. L. 113–67, § 101(d)(2)(B), (C), redesignated par.(3) as (1) and struck out former par. (1) which defined “revised security category” as discretionary appropriations in budget function 050 and “revised nonsecurity category” as discretionary appropriations other than in budget function 050.
 
-Par. (2). Pub. L. 113–67, § 101(d)(2)(B)–(D), redesignated par. (4) as (2), substituted “paragraph (1)” for “paragraph (3)”, and struck out former par. (2) which revised discretionary spending limits under section 901(c) of this title for fiscal years 2013 through 2021.
+Par. (2). Pub. L. 113–67, § 101(d)(2)(B)–(D), redesignated par. (4) as (2), substituted “paragraph (1)” for “paragraph (3)”, and struck out former par. (2) which revised discretionary spending limits under section 901(c) of this title for fiscal years 2013 through 2021.
 
-Par. (3). Pub. L. 113–67, § 101(d)(2)(C), (E), redesignated par. (5) as (3) and substituted “paragraph (2)” for “paragraph (4)” in two places. Former par. (3) redesignated (1).
+Par. (3). Pub. L. 113–67, § 101(d)(2)(C), (E), redesignated par. (5) as (3) and substituted “paragraph (2)” for “paragraph (4)” in two places. Former par. (3) redesignated (1).
 
-Par. (3)(E). Pub. L. 112–240, § 901(a), added subpar. (E).
+Par. (3)(E). Pub. L. 112–240, § 901(a), added subpar. (E).
 
-Par. (4). Pub. L. 113–67, § 101(d)(2)(C), (F), redesignated par. (6) as (4) and substituted “paragraph (2)” for “paragraph (4)” in two places. Former par. (4) redesignated (2).
+Par. (4). Pub. L. 113–67, § 101(d)(2)(C), (F), redesignated par. (6) as (4) and substituted “paragraph (2)” for “paragraph (4)” in two places. Former par. (4) redesignated (2).
 
-Pub. L. 112–240, § 901(c)(1), substituted “March 1, 2013” for “January 2, 2013”.
+Pub. L. 112–240, § 901(c)(1), substituted “March 1, 2013” for “January 2, 2013”.
 
-Par. (5). Pub. L. 113–67, § 101(d)(2)(C), (G), redesignated par. (7) as (5) and substituted “paragraph (3)” for “paragraph (5)” in two places and “paragraph (4)” for “paragraph (6)” in two places. Former par. (5) redesignated (3).
+Par. (5). Pub. L. 113–67, § 101(d)(2)(C), (G), redesignated par. (7) as (5) and substituted “paragraph (3)” for “paragraph (5)” in two places and “paragraph (4)” for “paragraph (6)” in two places. Former par. (5) redesignated (3).
 
-Par. (5)(B). Pub. L. 113–67, § 101(b)(2), substituted “Except as provided by paragraph (10), on” for “On” in introductory provisions.
+Par. (5)(B). Pub. L. 113–67, § 101(b)(2), substituted “Except as provided by paragraph (10), on” for “On” in introductory provisions.
 
-Par. (6). Pub. L. 113–67, § 101(d)(2)(C), (H), redesignated par. (8) as (6) and, in subpar. (A), substituted “paragraph (2)” for “paragraph (4)” and “paragraphs (3) and (4)” for “paragraphs (5) and (6)”. Former par. (6) redesignated (4).
+Par. (6). Pub. L. 113–67, § 101(d)(2)(C), (H), redesignated par. (8) as (6) and, in subpar. (A), substituted “paragraph (2)” for “paragraph (4)” and “paragraphs (3) and (4)” for “paragraphs (5) and (6)”. Former par. (6) redesignated (4).
 
-Pub. L. 113–67, § 101(c), designated existing provisions as subpar. (A) and added subpar. (B).
+Pub. L. 113–67, § 101(c), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Par. (6)(C). Pub. L. 113–67, § 1205, added subpar. (C).
+Par. (6)(C). Pub. L. 113–67, § 1205, added subpar. (C).
 
-Par. (7). Pub. L. 113–67, § 101(d)(2)(C), (I), redesignated par. (9) as (7), substituted “paragraph (6)” for “paragraph (8)”, and substituted “paragraph (4)” for “paragraph (6)” in two places. Former par. (7) redesignated (5).
+Par. (7). Pub. L. 113–67, § 101(d)(2)(C), (I), redesignated par. (9) as (7), substituted “paragraph (6)” for “paragraph (8)”, and substituted “paragraph (4)” for “paragraph (6)” in two places. Former par. (7) redesignated (5).
 
-Par. (7)(A). Pub. L. 112–240, § 901(c)(2), substituted “March 1, 2013” for “January 2, 2013” in introductory provisions.
+Par. (7)(A). Pub. L. 112–240, § 901(c)(2), substituted “March 1, 2013” for “January 2, 2013” in introductory provisions.
 
-Par. (8). Pub. L. 113–67, § 101(d)(2)(C), redesignated par. (10) as (8). Former par. (8) redesignated (6).
+Par. (8). Pub. L. 113–67, § 101(d)(2)(C), redesignated par. (10) as (8). Former par. (8) redesignated (6).
 
-Par. (9). Pub. L. 113–67, § 101(d)(2)(C), (J), redesignated par. (11) as (9) and substituted “paragraph (2)” for “paragraph (4)”. Former par. (9) redesignated (7).
+Par. (9). Pub. L. 113–67, § 101(d)(2)(C), (J), redesignated par. (11) as (9) and substituted “paragraph (2)” for “paragraph (4)”. Former par. (9) redesignated (7).
 
-Par. (10). Pub. L. 113–67, § 101(b)(1), added par. (10). Former par. (10) redesignated (8).
+Par. (10). Pub. L. 113–67, § 101(b)(1), added par. (10). Former par. (10) redesignated (8).
 
-Par. (11). Pub. L. 113–67, § 101(d)(2)(C), redesignated par. (11) as (9).
+Par. (11). Pub. L. 113–67, § 101(d)(2)(C), redesignated par. (11) as (9).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Temporary Suspension and Adjustment of Medicare Sequestration**
 
-Pub. L. 116–136, div. A, title III, § 3709(a), Mar. 27, 2020, 134 Stat. 421, as amended by Pub. L. 116–260, div. N, title I, § 102(a), Dec. 27, 2020, 134 Stat. 1950; Pub. L. 117–7, § 1(a)(1), Apr. 14, 2021, 135 Stat. 251; Pub. L. 117–71, § 2(a)(1), Dec. 10, 2021, 135 Stat. 1506, provided that: “During the period beginning on May 1, 2020 and ending on March 31, 2022, the Medicare programs under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) shall be exempt from reduction under any sequestration order issued before, on, or after the date of enactment of this Act [Mar. 27, 2020].”
+Pub. L. 116–136, div. A, title III, § 3709(a), Mar. 27, 2020, 134 Stat. 421, as amended by Pub. L. 116–260, div. N, title I, § 102(a), Dec. 27, 2020, 134 Stat. 1950; Pub. L. 117–7, § 1(a)(1), Apr. 14, 2021, 135 Stat. 251; Pub. L. 117–71, § 2(a)(1), Dec. 10, 2021, 135 Stat. 1506, provided that: “During the period beginning on May 1, 2020 and ending on March 31, 2022, the Medicare programs under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) shall be exempt from reduction under any sequestration order issued before, on, or after the date of enactment of this Act [Mar. 27, 2020].”
 
-[Pub. L. 117–71, § 2(a)(2), Dec. 10, 2021, 135 Stat. 1506, provided that: “The amendments made by paragraph (1) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136).” ]
+[Pub. L. 117–71, § 2(a)(2), Dec. 10, 2021, 135 Stat. 1506, provided that: “The amendments made by paragraph (1) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136).” ]
 
-[Pub. L. 117–7, § 1(a)(2), Apr. 14, 2021, 135 Stat. 251, provided that: “The amendment made by paragraph (1) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136).” ]
+[Pub. L. 117–7, § 1(a)(2), Apr. 14, 2021, 135 Stat. 251, provided that: “The amendment made by paragraph (1) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136).” ]
 
-[Pub. L. 116–260, div. N, title I, § 102(b), Dec. 27, 2020, 134 Stat. 1950, provided that: “The amendment made by subsection (a) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136).” ]
+[Pub. L. 116–260, div. N, title I, § 102(b), Dec. 27, 2020, 134 Stat. 1950, provided that: “The amendment made by subsection (a) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136).” ]
 
 **2013 Sequester**
 
-Pub. L. 112–240, title IX, § 901(e), Jan. 2, 2013, 126 Stat. 2370, provided that:
+Pub. L. 112–240, title IX, § 901(e), Jan. 2, 2013, 126 Stat. 2370, provided that:
 
 > “On March 1, 2013, the President shall order a sequestration for fiscal year 2013 pursuant to section 251A of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 901a], as amended by this section, pursuant to which, only for the purposes of the calculation in sections 251A(5)(A), 251A(6)(A), and 251A(7)(A), section 251(c)(2) [former 2 U.S.C. 901(c)(2)] shall be applied as if it read as follows:
 
-> “ ‘(2) For fiscal year 2013—
+> “ ‘(2) For fiscal year 2013—
 
-> “ ‘(A) for the security category, $544,000,000,000 in budget authority; and
+> “ ‘(A) for the security category, $544,000,000,000 in budget authority; and
 
-> “ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
+> “ ‘(B) for the nonsecurity category, $499,000,000,000 in budget authority;’.”
 
 **Executive Documents**
 
@@ -1473,7 +1473,7 @@ Sequestration orders pursuant to this section for prior fiscal years were contai
 
 2013—Order of President of the United States, dated Mar. 1, 2013, 78 F.R. 14633.
 
-### § 902. Enforcing pay-as-you-go
+### § 902. Enforcing pay-as-you-go
 
 **(a) Purpose**
 
@@ -1499,15 +1499,15 @@ Not later than 15 calendar days after the date Congress adjourns to end a sessio
 
 **(A) First**
 
-All reductions in automatic spending increases specified in section 906(a) 1
+All reductions in automatic spending increases specified in section 906(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall be made.
 
 **(B) Second**
 
-If additional reductions in direct spending accounts are required to be made, the maximum reductions permissible under sections 906(b) of this title (guaranteed and direct student loans) and 906(c) <sup>1</sup> of this title (foster care and adoption assistance) shall be made.
+If additional reductions in direct spending accounts are required to be made, the maximum reductions permissible under sections 906(b) of this title (guaranteed and direct student loans) and 906(c) <sup>1</sup> of this title (foster care and adoption assistance) shall be made.
 
 **(C) Third**
 
@@ -1551,71 +1551,71 @@ If during the preparation of the report under paragraph (2) OMB determines that 
 
 If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d). This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
 
-(Pub. L. 99–177, title II, § 252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, § 102(a), Sept. 29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, § 8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, § 14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, § 119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, § 10205, Aug. 5, 1997, 111 Stat. 702; Pub. L. 113–67, div. A, title I, § 121(1), (2), Dec. 26, 2013, 127 Stat. 1174, 1175.)
+(Pub. L. 99–177, title II, § 252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, § 102(a), Sept. 29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, § 8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, § 14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, § 119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, § 10205, Aug. 5, 1997, 111 Stat. 702; Pub. L. 113–67, div. A, title I, § 121(1), (2), Dec. 26, 2013, 127 Stat. 1174, 1175.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 906(a) of this title, referred to in subsec. (c)(1)(A), was repealed by Pub. L. 111–139, title I, § 10(a), Feb. 12, 2010, 124 Stat. 21.
+Section 906(a) of this title, referred to in subsec. (c)(1)(A), was repealed by Pub. L. 111–139, title I, § 10(a), Feb. 12, 2010, 124 Stat. 21.
 
-Section 906(c) of this title, referred to in subsec. (c)(1)(B), was repealed by Pub. L. 111–139, title I, § 10(c), Feb. 12, 2010, 124 Stat. 22.
+Section 906(c) of this title, referred to in subsec. (c)(1)(B), was repealed by Pub. L. 111–139, title I, § 10(c), Feb. 12, 2010, 124 Stat. 22.
 
 **Amendments**
 
-2013—Subsec. (b)(2)(B). Pub. L. 113–67, § 121(1), substituted “applicable to the budget year” for “applicable to budget year”.
+2013—Subsec. (b)(2)(B). Pub. L. 113–67, § 121(1), substituted “applicable to the budget year” for “applicable to budget year”.
 
-Subsec. (c)(1)(C)(i). Pub. L. 113–67, § 121(2), substituted “subsection (b)” for “paragraph (1)”.
+Subsec. (c)(1)(C)(i). Pub. L. 113–67, § 121(2), substituted “subsection (b)” for “paragraph (1)”.
 
-1997—Subsec. (a). Pub. L. 105–33, § 10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration.”
+1997—Subsec. (a). Pub. L. 105–33, § 10205(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The purpose of this section is to assure that any legislation (enacted after November 5, 1990) affecting direct spending or receipts that increases the deficit in any fiscal year covered by this Act will trigger an offsetting sequestration.”
 
-Subsec. (b). Pub. L. 105–33, § 10205(1), added subsec. (b) and struck out heading and text of former subsec. (b) which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
+Subsec. (b). Pub. L. 105–33, § 10205(1), added subsec. (b) and struck out heading and text of former subsec. (b) which required sequestrations at the end of a session of Congress to offset amount of any net deficit increase in that fiscal year and prior fiscal year caused by all direct spending and receipts legislation enacted after Nov. 5, 1990.
 
-Subsec. (c)(1)(B). Pub. L. 105–33, § 10205(2), inserted “and direct” after “guaranteed”.
+Subsec. (c)(1)(B). Pub. L. 105–33, § 10205(2), inserted “and direct” after “guaranteed”.
 
-Subsec. (d). Pub. L. 105–33, § 10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
+Subsec. (d). Pub. L. 105–33, § 10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
 
-Subsec. (e). Pub. L. 105–33, § 10205(4), struck out “, for any fiscal year from 1991 through 1998,” after “If” and “through 1995” after “receipts in all fiscal years”.
+Subsec. (e). Pub. L. 105–33, § 10205(4), struck out “, for any fiscal year from 1991 through 1998,” after “If” and “through 1995” after “receipts in all fiscal years”.
 
 1994—Subsec. (e). Pub. L. 103–354 inserted at end “This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.”
 
-1993—Subsec. (a). Pub. L. 103–66, § 14003(a)(1), which directed the substitution of “Fiscal year 1992–1998 enforcement” for “Fiscal year 1992–1995 enforcement” in heading, was executed by substituting “Fiscal years 1992–1998 enforcement” for “Fiscal years 1992–1995 enforcement”, to reflect the probable intent of Congress.
+1993—Subsec. (a). Pub. L. 103–66, § 14003(a)(1), which directed the substitution of “Fiscal year 1992–1998 enforcement” for “Fiscal year 1992–1995 enforcement” in heading, was executed by substituting “Fiscal years 1992–1998 enforcement” for “Fiscal years 1992–1995 enforcement”, to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 103–66, § 14003(a)(2), substituted “through fiscal year 1998” for “through fiscal year 1995” in two places.
+Subsec. (d). Pub. L. 103–66, § 14003(a)(2), substituted “through fiscal year 1998” for “through fiscal year 1995” in two places.
 
-Subsec. (e). Pub. L. 103–66, § 14003(a)(3), substituted “for any fiscal year from 1991 through 1998” for “for fiscal year 1991, 1992, 1993, 1994, or 1995”.
+Subsec. (e). Pub. L. 103–66, § 14003(a)(3), substituted “for any fiscal year from 1991 through 1998” for “for fiscal year 1991, 1992, 1993, 1994, or 1995”.
 
 1990—Pub. L. 101–508 amended section generally, substituting subsecs. (a) to (e) relating to enforcement of pay-as-you-go for former subsecs. (a) to (g) relating to Presidential order.
 
 1987—Pub. L. 100–119 amended section generally to reflect substitution of Director of OMB for Comptroller General as official submitting reports under section 901 of this title and to revise provisions relating to content of Presidential orders issued in accordance with those reports.
 
-Subsec. (c)(2)(F)(ii). Pub. L. 100–203, § 8003(e), substituted “proposed” for “made”.
+Subsec. (c)(2)(F)(ii). Pub. L. 100–203, § 8003(e), substituted “proposed” for “made”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–354, title I, § 119(d)(2), Oct. 13, 1994, 108 Stat. 3208, provided that the amendment made by that section is effective Jan. 1, 1995.
+Pub. L. 103–354, title I, § 119(d)(2), Oct. 13, 1994, 108 Stat. 3208, provided that the amendment made by that section is effective Jan. 1, 1995.
 
 **Congressional Budget Office Excepted From Certain Requirements**
 
-Pub. L. 112–25, title I, § 104(b), Aug. 2, 2011, 125 Stat. 246, provided that: “Sections 252(d)(1), 254(c), 254(f)(3), and 254(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902(d)(1), 904(c), (f)(3), (i)] shall not apply to the Congressional Budget Office.”
+Pub. L. 112–25, title I, § 104(b), Aug. 2, 2011, 125 Stat. 246, provided that: “Sections 252(d)(1), 254(c), 254(f)(3), and 254(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902(d)(1), 904(c), (f)(3), (i)] shall not apply to the Congressional Budget Office.”
 
 **Reduction of Preexisting Paygo Balances**
 
-Pub. L. 107–312, § 1, Dec. 2, 2002, 116 Stat. 2456, provided that: “Upon enactment of this Act [Dec. 2, 2002], the Director of the Office of Management and Budget shall reduce any balances of direct spending and receipts legislation for all fiscal years under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902] to zero.”
+Pub. L. 107–312, § 1, Dec. 2, 2002, 116 Stat. 2456, provided that: “Upon enactment of this Act [Dec. 2, 2002], the Director of the Office of Management and Budget shall reduce any balances of direct spending and receipts legislation for all fiscal years under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902] to zero.”
 
 **Pay-As-You-Go Adjustment**
 
-Pub. L. 107–117, div. C, § 102, Jan. 10, 2002, 115 Stat. 2342, provided that in preparing the final sequestration report for fiscal year 2002 required by section 904(f)(3) of this title, the Director of the Office of Management and Budget should change any balance of direct spending and receipts legislation for fiscal years 2001 and 2002 under this section to zero.
+Pub. L. 107–117, div. C, § 102, Jan. 10, 2002, 115 Stat. 2342, provided that in preparing the final sequestration report for fiscal year 2002 required by section 904(f)(3) of this title, the Director of the Office of Management and Budget should change any balance of direct spending and receipts legislation for fiscal years 2001 and 2002 under this section to zero.
 
 **Conforming Paygo Scorecard With Transportation Equity Act for 21st Century**
 
-Pub. L. 105–178, title VIII, § 8102, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 105–206, title IX, § 9013(c), July 22, 1998, 112 Stat. 865, provided that: “Upon the enactment of this Act [June 9, 1998], the Director of the Office of Management and Budget shall not make any estimates under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902(d)] of changes in direct spending outlays and receipts for any fiscal year resulting from this title [see Tables for classification] or from section 1102 of this Act [former 23 U.S.C. 104 note].”
+Pub. L. 105–178, title VIII, § 8102, June 9, 1998, 112 Stat. 492, as amended by Pub. L. 105–206, title IX, § 9013(c), July 22, 1998, 112 Stat. 865, provided that: “Upon the enactment of this Act [June 9, 1998], the Director of the Office of Management and Budget shall not make any estimates under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902(d)] of changes in direct spending outlays and receipts for any fiscal year resulting from this title [see Tables for classification] or from section 1102 of this Act [former 23 U.S.C. 104 note].”
 
 **Reduction of Preexisting Balances and Exclusion of Effects of Pub. L. 105–33 From Paygo Scorecard**
 
-Pub. L. 105–33, title X, § 10213, Aug. 5, 1997, 111 Stat. 712, provided that:
+Pub. L. 105–33, title X, § 10213, Aug. 5, 1997, 111 Stat. 712, provided that:
 
 > “Upon the enactment of this Act [Aug. 5, 1997], the Director of the Office of Management and Budget shall—
 
@@ -1625,9 +1625,9 @@ Pub. L. 105–33, title X, § 10213, Aug. 5, 1997, 111 Stat. 712, provided tha
 
 **Reduction of Direct Spending and Receipts Legislation Balances**
 
-Pub. L. 103–66, title XIV, § 14003(c), Aug. 10, 1993, 107 Stat. 685, provided that: “Upon enactment of this Act [Aug. 10, 1993], the director of the Office of Management and Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902] by an amount equal to the net deficit reduction achieved through the enactment in this Act [see Tables for classification] of direct spending and receipts legislation for that year.”
+Pub. L. 103–66, title XIV, § 14003(c), Aug. 10, 1993, 107 Stat. 685, provided that: “Upon enactment of this Act [Aug. 10, 1993], the director of the Office of Management and Budget shall reduce the balances of direct spending and receipts legislation applicable to each fiscal year under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902] by an amount equal to the net deficit reduction achieved through the enactment in this Act [see Tables for classification] of direct spending and receipts legislation for that year.”
 
-### § 903. Enforcing deficit targets
+### § 903. Enforcing deficit targets
 
 **(a) Sequestration**
 
@@ -1655,15 +1655,15 @@ Each non-exempt defense account shall be reduced by a dollar amount calculated b
 
 **(1) First**
 
-All reductions in automatic spending increases under section 906(a) 1
+All reductions in automatic spending increases under section 906(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall be made.
 
 **(2) Second**
 
-If additional reductions in non-defense accounts are required to be made, the maximum reduction permissible under sections 906(b) of this title (guaranteed student loans) and 906(c) <sup>1</sup> of this title (foster care and adoption assistance) shall be made.
+If additional reductions in non-defense accounts are required to be made, the maximum reduction permissible under sections 906(b) of this title (guaranteed student loans) and 906(c) <sup>1</sup> of this title (foster care and adoption assistance) shall be made.
 
 **(3) Third**
 
@@ -1695,17 +1695,17 @@ For purposes of subsections (b), (c), (d), and (e), accounts shall be assumed to
 
 **(A)** When the President submits the budget for fiscal year 1992, the maximum deficit amounts for fiscal years 1992, 1993, 1994, and 1995 shall be adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions. When the President submits the budget for fiscal year 1993, the maximum deficit amounts for fiscal years 1993, 1994, and 1995 shall be further adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions.
 
-**(B)** When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses to make that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) <sup>1</sup> and 901(b)(2)(E) <sup>1</sup> of this title, otherwise applicable through fiscal year 1993 or 1994 (as the case may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
+**(B)** When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses to make that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) <sup>1</sup> and 901(b)(2)(E) <sup>1</sup> of this title, otherwise applicable through fiscal year 1993 or 1994 (as the case may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
 
 **(C)** When the budget for fiscal year 1994 or 1995 is submitted and the sequestration reports for those years under section 904 of this title are made (as applicable), if the President does not choose to make the adjustments set forth in subparagraph (B), the maximum deficit amount for that fiscal year shall be adjusted by the amount of the adjustment to discretionary spending limits first applicable for that year (if any) under section 901(b) of this title.
 
 **(D)** For each fiscal year the adjustments required to be made with the submission of the President’s budget for that year shall also be made when OMB submits the sequestration update report and the final sequestration report for that year, but OMB shall continue to use the economic and technical assumptions in the President’s budget for that year.
 
-Each adjustment shall be made by increasing or decreasing the maximum deficit amounts set forth in section 665 <sup>1</sup> of this title.
+Each adjustment shall be made by increasing or decreasing the maximum deficit amounts set forth in section 665 <sup>1</sup> of this title.
 
 **(2) Calculations of adjustments** The required increase or decrease shall be calculated as follows:
 
-**(A)** The baseline deficit or surplus shall be calculated using up-to-date economic and technical assumptions, using up-to-date concepts and definitions, and, in lieu of the baseline levels of discretionary appropriations, using the discretionary spending limits set forth in section 665 <sup>1</sup> of this title as adjusted under section 901 of this title.
+**(A)** The baseline deficit or surplus shall be calculated using up-to-date economic and technical assumptions, using up-to-date concepts and definitions, and, in lieu of the baseline levels of discretionary appropriations, using the discretionary spending limits set forth in section 665 <sup>1</sup> of this title as adjusted under section 901 of this title.
 
 **(B)** The net deficit increase or decrease caused by all direct spending and receipts legislation enacted after November 5, 1990 (after adjusting for any sequestration of direct spending accounts) shall be calculated for each fiscal year by adding—
 
@@ -1715,7 +1715,7 @@ Each adjustment shall be made by increasing or decreasing the maximum deficit am
 
 **(C)** The amount calculated under subparagraph (B) shall be subtracted from the amount calculated under subparagraph (A).
 
-**(D)** The maximum deficit amount set forth in section 665 <sup>1</sup> of this title shall be subtracted from the amount calculated under subparagraph (C).
+**(D)** The maximum deficit amount set forth in section 665 <sup>1</sup> of this title shall be subtracted from the amount calculated under subparagraph (C).
 
 **(E)** The amount calculated under subparagraph (D) shall be the amount of the adjustment required by paragraph (1).
 
@@ -1729,19 +1729,19 @@ The initial estimates of the net costs of federal deposit insurance for fiscal y
 
 For fiscal year 1994 and fiscal year 1995, the amount of the reestimate of deposit insurance costs shall be calculated by subtracting the amount set forth under paragraph (1) for that year from the current estimate of deposit insurance costs (but assuming full funding of, and continuation of, the deposit insurance guarantee commitment in effect on the date of submission of the budget for fiscal year 1993).
 
-(Pub. L. 99–177, title II, § 253, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, § 103, Sept. 29, 1987, 101 Stat. 775; Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–583.)
+(Pub. L. 99–177, title II, § 253, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, § 103, Sept. 29, 1987, 101 Stat. 775; Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–583.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 906(a) of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 111–139, title I, § 10(a), Feb. 12, 2010, 124 Stat. 21.
+Section 906(a) of this title, referred to in subsec. (e)(1), was repealed by Pub. L. 111–139, title I, § 10(a), Feb. 12, 2010, 124 Stat. 21.
 
-Section 906(c) of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 111–139, title I, § 10(c), Feb. 12, 2010, 124 Stat. 22.
+Section 906(c) of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 111–139, title I, § 10(c), Feb. 12, 2010, 124 Stat. 22.
 
-Section 901(b) of this title, referred to in subsec. (g)(1)(B), was amended by Pub. L. 105–33, title X, § 10203(a)(4), Aug. 5, 1997, 111 Stat. 699; Pub. L. 105–178, title VIII, § 8101(d), June 9, 1998, 112 Stat. 490; Pub. L. 109–59, title VIII, § 8002, Aug. 10, 2005, 119 Stat. 1916; and Pub. L. 112–25, title I, § 101, Aug. 2, 2011, 125 Stat. 241, and as so amended, no longer contains par. (1)(C) or (2)(E).
+Section 901(b) of this title, referred to in subsec. (g)(1)(B), was amended by Pub. L. 105–33, title X, § 10203(a)(4), Aug. 5, 1997, 111 Stat. 699; Pub. L. 105–178, title VIII, § 8101(d), June 9, 1998, 112 Stat. 490; Pub. L. 109–59, title VIII, § 8002, Aug. 10, 2005, 119 Stat. 1916; and Pub. L. 112–25, title I, § 101, Aug. 2, 2011, 125 Stat. 241, and as so amended, no longer contains par. (1)(C) or (2)(E).
 
-Section 665 of this title, referred to in subsec. (g)(1), (2)(A), (D), was repealed by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695.
+Section 665 of this title, referred to in subsec. (g)(1), (2)(A), (D), was repealed by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695.
 
 **Codification**
 
@@ -1753,7 +1753,7 @@ November 5, 1990, referred to in subsec. (g)(2)(B), was in the original “the d
 
 1987—Pub. L. 100–119 amended section generally, designating existing provisions as par. (1), substituting “(or December 15, 1987, in the case of the fiscal year 1988)” for “(or on or before April 1, 1986, in the case of the fiscal year 1986)”, and adding pars. (2) and (3).
 
-### § 904. Reports and orders
+### § 904. Reports and orders
 
 **(a) Timetable**
 
@@ -1840,9 +1840,9 @@ The final reports shall contain all the information required in the pay-as-you-g
 
 **(4) Explanation of differences**
 
-The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under section 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable 1
+The OMB report shall explain any differences between OMB and CBO estimates of the amount of any net deficit change calculated under section 902(b) of this title, any excess deficit, any breach, and any required sequestration percentage. The OMB report shall also explain differences in the amount of sequesterable 1
 
-<sup>1</sup>  So in original. Probably should be “sequestrable”.
+<sup>1</sup> So in original. Probably should be “sequestrable”.
 
 resources for any budget account to be reduced if such difference is greater than $5,000,000.
 
@@ -1870,7 +1870,7 @@ If an appropriation for a fiscal year in progress is enacted (after Congress adj
 
 In all reports required by this section, OMB shall use the same economic and technical assumptions as used in the most recent budget submitted by the President under section 1105(a) of title 31.
 
-(Pub. L. 99–177, title II, § 254, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §§ 102(b)(1), 106(e)(2), Sept. 29, 1987, 101 Stat. 773, 781; Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–586; Pub. L. 103–66, title XIV, §§ 14002(c)(2), 14003(b), Aug. 10, 1993, 107 Stat. 684, 685; Pub. L. 103–322, title XXXI, § 310001(g)(2), Sept. 13, 1994, 108 Stat. 2105; Pub. L. 104–316, title I, § 102(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 105–33, title X, § 10206, Aug. 5, 1997, 111 Stat. 704; Pub. L. 112–25, title I, § 103, Aug. 2, 2011, 125 Stat. 246; Pub. L. 113–67, div. A, title I, § 121(3), (4), Dec. 26, 2013, 127 Stat. 1175; Pub. L. 118–5, div. A, title I, § 101(c), June 3, 2023, 137 Stat. 13.)
+(Pub. L. 99–177, title II, § 254, Dec. 12, 1985, 99 Stat. 1078; Pub. L. 100–119, title I, §§ 102(b)(1), 106(e)(2), Sept. 29, 1987, 101 Stat. 773, 781; Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–586; Pub. L. 103–66, title XIV, §§ 14002(c)(2), 14003(b), Aug. 10, 1993, 107 Stat. 684, 685; Pub. L. 103–322, title XXXI, § 310001(g)(2), Sept. 13, 1994, 108 Stat. 2105; Pub. L. 104–316, title I, § 102(d), Oct. 19, 1996, 110 Stat. 3828; Pub. L. 105–33, title X, § 10206, Aug. 5, 1997, 111 Stat. 704; Pub. L. 112–25, title I, § 103, Aug. 2, 2011, 125 Stat. 246; Pub. L. 113–67, div. A, title I, § 121(3), (4), Dec. 26, 2013, 127 Stat. 1175; Pub. L. 118–5, div. A, title I, § 101(c), June 3, 2023, 137 Stat. 13.)
 
 **Editorial Notes**
 
@@ -1880,45 +1880,45 @@ November 5, 1990, referred to in subsec. (c)(3)(B), was in the original “the d
 
 **Amendments**
 
-2023—Subsec. (c)(2). Pub. L. 118–5, § 101(c)(1), substituted “2025” for “2021”.
+2023—Subsec. (c)(2). Pub. L. 118–5, § 101(c)(1), substituted “2025” for “2021”.
 
-Subsec. (f)(2)(A). Pub. L. 118–5, § 101(c)(2), substituted “2025” for “2021”.
+Subsec. (f)(2)(A). Pub. L. 118–5, § 101(c)(2), substituted “2025” for “2021”.
 
-2013—Subsec. (c)(3)(A). Pub. L. 113–67, § 121(3), substituted “section 902(b)” for “subsection 902(b)”.
+2013—Subsec. (c)(3)(A). Pub. L. 113–67, § 121(3), substituted “section 902(b)” for “subsection 902(b)”.
 
-Subsec. (f)(4). Pub. L. 113–67, § 121(4), substituted “section 902(b)” for “subsection 902(b)”.
+Subsec. (f)(4). Pub. L. 113–67, § 121(4), substituted “section 902(b)” for “subsection 902(b)”.
 
-2011—Subsec. (c)(2). Pub. L. 112–25, § 103(1), substituted “2021” for “2002”.
+2011—Subsec. (c)(2). Pub. L. 112–25, § 103(1), substituted “2021” for “2002”.
 
-Subsec. (e). Pub. L. 112–25, § 103(2), added “This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.” at end.
+Subsec. (e). Pub. L. 112–25, § 103(2), added “This report shall also contain a preview estimate of the adjustment for disaster funding for the upcoming fiscal year.” at end.
 
-Subsec. (f)(2)(A). Pub. L. 112–25, § 103(3), substituted “2021” for “2002” and inserted “, including a final estimate of the adjustment for disaster funding” before period at end.
+Subsec. (f)(2)(A). Pub. L. 112–25, § 103(3), substituted “2021” for “2002” and inserted “, including a final estimate of the adjustment for disaster funding” before period at end.
 
-1997—Subsec. (c). Pub. L. 105–33, § 10206(1), (2), redesignated subsec. (d) as (c), substituted “2002” for “1998” in par. (2), and struck out heading and text of former subsec. (c). Text read as follows: “With respect to budget year 1994 or 1995, on the date specified in subsection (a) of this section the President shall notify the House of Representatives and the Senate of his decision regarding the optional adjustment of the maximum deficit amount (as allowed under section 903(g)(1)(B) of this title).”
+1997—Subsec. (c). Pub. L. 105–33, § 10206(1), (2), redesignated subsec. (d) as (c), substituted “2002” for “1998” in par. (2), and struck out heading and text of former subsec. (c). Text read as follows: “With respect to budget year 1994 or 1995, on the date specified in subsection (a) of this section the President shall notify the House of Representatives and the Senate of his decision regarding the optional adjustment of the maximum deficit amount (as allowed under section 903(g)(1)(B) of this title).”
 
-Subsec. (d). Pub. L. 105–33, § 10206(1), (3), redesignated subsec. (e) as (d) and substituted “section 905(f)” for “section 905(h)”. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 105–33, § 10206(1), (3), redesignated subsec. (e) as (d) and substituted “section 905(f)” for “section 905(h)”. Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 105–33, § 10206(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 105–33, § 10206(1), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 105–33, § 10206(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 105–33, § 10206(1), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(2)(A). Pub. L. 105–33, § 10206(4)(A), substituted “2002” for “1998”.
+Subsec. (f)(2)(A). Pub. L. 105–33, § 10206(4)(A), substituted “2002” for “1998”.
 
-Subsec. (f)(3). Pub. L. 105–33, § 10206(4)(B), struck out “through 1998” after “each outyear”.
+Subsec. (f)(3). Pub. L. 105–33, § 10206(4)(B), struck out “through 1998” after “each outyear”.
 
-Subsec. (f)(4) to (6). Pub. L. 105–33, § 10206(4)(C), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The final reports shall set forth for the budget year estimates for each of the following:
+Subsec. (f)(4) to (6). Pub. L. 105–33, § 10206(4)(C), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out heading and text of former par. (4). Text read as follows: “The final reports shall set forth for the budget year estimates for each of the following:
 
 “(A) The amount of budget authority appropriated from the Violent Crime Reduction Trust Fund and outlays resulting from those appropriations.
 
 “(B) The sequestration percentage and reductions, if any, required under section 901a of this title.”
 
-Subsec. (g). Pub. L. 105–33, § 10206(1), (5), redesignated subsec. (h) as (g) and substituted “paragraph (f)(2)” for “paragraph (g)(2)” and “paragraphs (f)(2) and (f)(4)” for “paragraphs (g)(2) and (g)(4)”. Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 105–33, § 10206(1), (5), redesignated subsec. (h) as (g) and substituted “paragraph (f)(2)” for “paragraph (g)(2)” and “paragraphs (f)(2) and (f)(4)” for “paragraphs (g)(2) and (g)(4)”. Former subsec. (g) redesignated (f).
 
-Subsecs. (h) to (k). Pub. L. 105–33, § 10206(1), redesignated subsecs. (i) to (k) as (h) to (j), respectively. Former subsec. (h) redesignated (g).
+Subsecs. (h) to (k). Pub. L. 105–33, § 10206(1), redesignated subsecs. (i) to (k) as (h) to (j), respectively. Former subsec. (h) redesignated (g).
 
-1996—Subsec. (a). Pub. L. 104–316, § 102(d)(1), struck out item at end of timetable relating to GAO compliance report.
+1996—Subsec. (a). Pub. L. 104–316, § 102(d)(1), struck out item at end of timetable relating to GAO compliance report.
 
-Subsec. (i). Pub. L. 104–316, § 102(d)(2), in introductory provisions substituted “Upon request of the Committee on the Budget of the House of Representatives or the Senate” for “On the date specified in subsection (a) of this section”.
+Subsec. (i). Pub. L. 104–316, § 102(d)(2), in introductory provisions substituted “Upon request of the Committee on the Budget of the House of Representatives or the Senate” for “On the date specified in subsection (a) of this section”.
 
 1994—Subsec. (g)(4) to (6). Pub. L. 103–322 added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
@@ -1926,9 +1926,9 @@ Subsec. (i). Pub. L. 104–316, § 102(d)(2), in introductory provisions subst
 
 1990—Pub. L. 101–508 amended section generally, substituting provisions setting out timetable and requisite content of reports and orders developed as part of sequestration process for former provisions relating to special Congressional procedures in the event of recession, Congressional responses to Presidential orders, and treatment of certain resolutions as reconciliation bills.
 
-1987—Subsec. (b)(1)(A). Pub. L. 100–119, § 102(b)(1), substituted “the Director of OMB” for “the Comptroller General”.
+1987—Subsec. (b)(1)(A). Pub. L. 100–119, § 102(b)(1), substituted “the Director of OMB” for “the Comptroller General”.
 
-Subsec. (b)(1)(E). Pub. L. 100–119, § 106(e)(2), inserted provisions relating to maximum deficit amount for fiscal year 1988 or 1989.
+Subsec. (b)(1)(E). Pub. L. 100–119, § 106(e)(2), inserted provisions relating to maximum deficit amount for fiscal year 1988 or 1989.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1938,9 +1938,9 @@ Subsections (c), (f)(3), and (i) of this section inapplicable to the Congression
 
 **Fiscal Year Deficit Control Measures**
 
-1991—Pub. L. 102–27, title IV, § 401(b), Apr. 10, 1991, 105 Stat. 154, provided that: “Upon the enactment of this Act [Apr. 10, 1991], the order issued by the President on November 9, 1990 [set out below], pursuant to sections 251 and 254 of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended, [2 U.S.C. 901, 904] is hereby rescinded. Any action taken to implement this order shall be reversed, and any sequestrable resource that has been reduced or sequestered by such order is hereby restored, revived, or released and shall be available to the same extent and for the same purpose as if the order had not been issued.”
+1991—Pub. L. 102–27, title IV, § 401(b), Apr. 10, 1991, 105 Stat. 154, provided that: “Upon the enactment of this Act [Apr. 10, 1991], the order issued by the President on November 9, 1990 [set out below], pursuant to sections 251 and 254 of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended, [2 U.S.C. 901, 904] is hereby rescinded. Any action taken to implement this order shall be reversed, and any sequestrable resource that has been reduced or sequestered by such order is hereby restored, revived, or released and shall be available to the same extent and for the same purpose as if the order had not been issued.”
 
-Pub. L. 101–508, title XIII, § 13401, Nov. 5, 1990, 104 Stat. 1388–628, provided that:
+Pub. L. 101–508, title XIII, § 13401, Nov. 5, 1990, 104 Stat. 1388–628, provided that:
 
 > **“(a) Order Rescinded.—** Upon the enactment of this Act [Nov. 5, 1990], the orders issued by the President on August 25, 1990, and October 15, 1990 [set out below], pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902] are hereby rescinded.
 
@@ -1952,31 +1952,31 @@ Pub. L. 101–508, title XIII, § 13401, Nov. 5, 1990, 104 Stat. 1388–628, p
 
 > **“(2)** All obligations incurred in anticipation of the appropriations made and authority granted by House Joint Resolution 666 for the purposes of maintaining the essential level of activity to protect life and property and bringing about orderly termination of government functions are hereby ratified and approved if otherwise in accord with the provisions of that Act [Pub. L. 101–412, Oct. 9, 1990, 104 Stat. 894].”
 
-Pub. L. 101–467, § 105, Oct. 28, 1990, 104 Stat. 1087, provided that:
+Pub. L. 101–467, § 105, Oct. 28, 1990, 104 Stat. 1087, provided that:
 
 > **“(a)** Any order on sequestration for fiscal year 1991 issued before, on, or after the date of enactment of this joint resolution [Oct. 28, 1990] pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902] is suspended and no action shall be taken to implement any such order.
 
 > **“(b)** Subsection (a) shall cease to be effective on the date set forth in section 101(b)(B) [Nov. 5, 1990].”
 
-Pub. L. 101–461, § 113, Oct. 25, 1990, 104 Stat. 1078, provided that:
+Pub. L. 101–461, § 113, Oct. 25, 1990, 104 Stat. 1078, provided that:
 
 > **“(a)** Any order on sequestration for fiscal year 1991 issued before, on, or after the date of enactment of this joint resolution [Oct. 25, 1990] pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902] is suspended and no action shall be taken to implement any such order.
 
 > **“(b)** Subsection (a) shall cease to be effective on the date set forth in section 108(c) [Oct. 27, 1990].”
 
-Pub. L. 101–444, § 113, Oct. 19, 1990, 104 Stat. 1033, provided that:
+Pub. L. 101–444, § 113, Oct. 19, 1990, 104 Stat. 1033, provided that:
 
 > **“(a)** Any order on sequestration for fiscal year 1991 issued before, on, or after the date of enactment of this joint resolution [Oct. 19, 1990] pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902] is suspended and no action shall be taken to implement any such order.
 
 > **“(b)** Subsection (a) shall cease to be effective on the date set forth in section 108(c) [Oct. 24, 1990].”
 
-Pub. L. 101–412, § 113, Oct. 9, 1990, 104 Stat. 897, provided that:
+Pub. L. 101–412, § 113, Oct. 9, 1990, 104 Stat. 897, provided that:
 
 > **“(a)** Any order on sequestration for fiscal year 1991 issued before, on, or after the date of enactment of this joint resolution [Oct. 9, 1990] pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902] is suspended and no action shall be taken to implement any such order.
 
 > **“(b)** Subsection (a) shall cease to be effective on the date set forth in section 108(c) [Oct. 19, 1990].”
 
-Pub. L. 101–403, title I, § 113, Oct. 1, 1990, 104 Stat. 870, provided that:
+Pub. L. 101–403, title I, § 113, Oct. 1, 1990, 104 Stat. 870, provided that:
 
 > **“(a)** Any order on sequestration for fiscal year 1991 issued before, on, or after the date of enactment of this joint resolution [Oct. 1, 1990] pursuant to section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902] is suspended and no action shall be taken to implement any such order.
 
@@ -2018,13 +2018,13 @@ George Bush.
 
 Initial Order of the President of the United States, Aug. 25, 1990, 55 F.R. 35133, which provided emergency deficit control measures for fiscal year 1991, was superseded by Final Order of the President, Oct. 15, 1990, 55 F.R. 41977, set out above.
 
-1990—Pub. L. 101–239, title VI, § 6001, Dec. 19, 1989, 103 Stat. 2139, provided that: “Notwithstanding any other provision of law (including section 11002 [set out below] or any other provision of this Act, other than section 6201 [set out below]), the reductions in the amount of payments required under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] made by the final sequester order issued by the President on October 16, 1989 [set out below], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902(b)] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act [2 U.S.C. 902(a)(4)(B), 906(d)(2)]) through December 31, 1989, with respect to payments for items and services under part A of such title [42 U.S.C. 1395c et seq.] (including payments under section 1886 of such title [42 U.S.C. 1395ww] attributable or allocated to such part). Each such payment made for items and services provided during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
+1990—Pub. L. 101–239, title VI, § 6001, Dec. 19, 1989, 103 Stat. 2139, provided that: “Notwithstanding any other provision of law (including section 11002 [set out below] or any other provision of this Act, other than section 6201 [set out below]), the reductions in the amount of payments required under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] made by the final sequester order issued by the President on October 16, 1989 [set out below], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902(b)] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act [2 U.S.C. 902(a)(4)(B), 906(d)(2)]) through December 31, 1989, with respect to payments for items and services under part A of such title [42 U.S.C. 1395c et seq.] (including payments under section 1886 of such title [42 U.S.C. 1395ww] attributable or allocated to such part). Each such payment made for items and services provided during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
 
-Pub. L. 101–239, title VI, § 6101, Dec. 19, 1989, 103 Stat. 2168, provided that: “Notwithstanding any other provision of law (including any other provision of this Act, other than section 6201 [set out below]), the reductions in the amount of payments required under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] made by the final sequester order issued by the President on October 16, 1989, pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902(b)] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act [2 U.S.C. 902(a)(4)(B), 906(d)(2)]) through March 31, 1990, with respect to payments for items and services under part B of such title [42 U.S.C. 1395j et seq.].”
+Pub. L. 101–239, title VI, § 6101, Dec. 19, 1989, 103 Stat. 2168, provided that: “Notwithstanding any other provision of law (including any other provision of this Act, other than section 6201 [set out below]), the reductions in the amount of payments required under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] made by the final sequester order issued by the President on October 16, 1989, pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902(b)] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act [2 U.S.C. 902(a)(4)(B), 906(d)(2)]) through March 31, 1990, with respect to payments for items and services under part B of such title [42 U.S.C. 1395j et seq.].”
 
-Pub. L. 101–239, title VI, § 6201, Dec. 19, 1989, 103 Stat. 2225, provided that: “Notwithstanding any other provision of law (including section 11002 [set out below] or any other provision of this Act), the reductions in the amount of payments required under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] made by the final sequester order issued by the President on October 16, 1989 [set out below], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902(b)] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act [2 U.S.C. 902(a)(4)(B), 906(d)(2)]) through December 31, 1989, with respect to payments under section 1833(a)(1)(A) or 1876 of the Social Security Act [42 U.S.C. 1395*l*(a)(1)(A), 1395mm], section 402 of the Social Security Amendments of 1967 [section 402 of Pub. L. 90–248, enacting 42 U.S.C. 1395b–1, and amending 42 U.S.C. 1395*ll*], or section 222 of the Social Security Amendments of 1972 [section 222 of Pub. L. 92–603, amending 42 U.S.C. 1395b–1 and enacting provisions set out as a note under 42 U.S.C. 1395b–1]. Each such payment made during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
+Pub. L. 101–239, title VI, § 6201, Dec. 19, 1989, 103 Stat. 2225, provided that: “Notwithstanding any other provision of law (including section 11002 [set out below] or any other provision of this Act), the reductions in the amount of payments required under title XVIII of the Social Security Act [42 U.S.C. 1395 et seq.] made by the final sequester order issued by the President on October 16, 1989 [set out below], pursuant to section 252(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 902(b)] shall continue to be effective (as provided by sections 252(a)(4)(B) and 256(d)(2) of such Act [2 U.S.C. 902(a)(4)(B), 906(d)(2)]) through December 31, 1989, with respect to payments under section 1833(a)(1)(A) or 1876 of the Social Security Act [42 U.S.C. 1395*l*(a)(1)(A), 1395mm], section 402 of the Social Security Amendments of 1967 [section 402 of Pub. L. 90–248, enacting 42 U.S.C. 1395b–1, and amending 42 U.S.C. 1395*ll*], or section 222 of the Social Security Amendments of 1972 [section 222 of Pub. L. 92–603, amending 42 U.S.C. 1395b–1 and enacting provisions set out as a note under 42 U.S.C. 1395b–1]. Each such payment made during fiscal year 1990 after such date shall be increased by 1.42 percent above what it would otherwise be under this Act.”
 
-Pub. L. 101–239, title XI, § 11002, Dec. 19, 1989, 103 Stat. 2490, provided that:
+Pub. L. 101–239, title XI, § 11002, Dec. 19, 1989, 103 Stat. 2490, provided that:
 
 > **“(a) Order Rescinded.—**
 
@@ -2076,9 +2076,9 @@ Initial Order of the President of the United States, Aug. 25, 1989, 54 F.R. 3562
 
 Initial Order of the President of the United States, Aug. 25, 1988, 53 F.R. 32881.
 
-1988—Pub. L. 100–203, title IV, §§ 4001, 4041(b), 4061, title VIII, § 8002, Dec. 22, 1987, 101 Stat. 1330–42, 1330–84, 1330–100, 1330–281.
+1988—Pub. L. 100–203, title IV, §§ 4001, 4041(b), 4061, title VIII, § 8002, Dec. 22, 1987, 101 Stat. 1330–42, 1330–84, 1330–100, 1330–281.
 
-Pub. L. 100–202, § 1, Dec. 22, 1987, 101 Stat. 1329.
+Pub. L. 100–202, § 1, Dec. 22, 1987, 101 Stat. 1329.
 
 Order of the President of the United States, Nov. 20, 1987, 52 F.R. 44960.
 
@@ -2086,19 +2086,19 @@ Order of the President of the United States, Oct. 20, 1987, 52 F.R. 39205.
 
 1986—Pub. L. 99–366, July 31, 1986, 100 Stat. 773.
 
-Pub. L. 99–349, title II, § 202, July 2, 1986, 100 Stat. 748.
+Pub. L. 99–349, title II, § 202, July 2, 1986, 100 Stat. 748.
 
-Pub. L. 99–255, Mar. 7, 1986, 100 Stat. 39, as amended by Pub. L. 99–322, § 1, May 23, 1986, 100 Stat. 494.
+Pub. L. 99–255, Mar. 7, 1986, 100 Stat. 39, as amended by Pub. L. 99–322, § 1, May 23, 1986, 100 Stat. 494.
 
 Order of the President of the United States, Feb. 1, 1986, 51 F.R. 4291.
 
-### § 905. Exempt programs and activities
+### § 905. Exempt programs and activities
 
 **(a) Social security benefits and tier I railroad retirement benefits**
 
-Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act (42 U.S.C. 401 et seq.), and benefits payable under sections 231b and 231c 1
+Benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act (42 U.S.C. 401 et seq.), and benefits payable under sections 231b and 231c 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 45, shall be exempt from reduction under any order issued under this subchapter.
 
@@ -2174,9 +2174,9 @@ Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Defens
 
 Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America International Technology Security and Innovation Fund.
 
-Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Workforce and Education Fund 2
+Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Workforce and Education Fund 2
 
-<sup>2</sup>  So in original. Probably should be followed by a period.
+<sup>2</sup> So in original. Probably should be followed by a period.
 
 Dual Benefits Payments Account (60–0111–0–1–601).
 
@@ -2478,15 +2478,15 @@ Grants-In-Aid for Airports (69–8106–0–7–402).
 
 For purposes of subsections (b), (g), and (h), each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
 
-(Pub. L. 99–177, title II, § 255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, § 7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, § 506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, § 104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, § 743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, § 8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, § 13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, § 13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, § 902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, § 601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, § 110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, § 2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, § 10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 111–139, title I, § 11, Feb. 12, 2010, 124 Stat. 23; Pub. L. 113–67, div. A, title I, § 121(5)–(8), Dec. 26, 2013, 127 Stat. 1175; Pub. L. 114–113, div. O, title IV, § 403(a), Dec. 18, 2015, 129 Stat. 3007; Pub. L. 115–254, div. F, title VI, § 1470(a), Oct. 5, 2018, 132 Stat. 3515; Pub. L. 117–167, div. A, §§ 102(e), 106(d), 107(c), Aug. 9, 2022, 136 Stat. 1378, 1393, 1398.)
+(Pub. L. 99–177, title II, § 255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, § 7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, § 506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, § 104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, § 743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, § 8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, § 13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, § 13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, § 902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, § 601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, § 110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, § 2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, § 10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 111–139, title I, § 11, Feb. 12, 2010, 124 Stat. 23; Pub. L. 113–67, div. A, title I, § 121(5)–(8), Dec. 26, 2013, 127 Stat. 1175; Pub. L. 114–113, div. O, title IV, § 403(a), Dec. 18, 2015, 129 Stat. 3007; Pub. L. 115–254, div. F, title VI, § 1470(a), Oct. 5, 2018, 132 Stat. 3515; Pub. L. 117–167, div. A, §§ 102(e), 106(d), 107(c), Aug. 9, 2022, 136 Stat. 1378, 1393, 1398.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Sections 231b and 231c of title 45, referred to in subsec. (a), were in the original references to sections 3 and 4 of the Railroad Retirement Act of 1937 (45 U.S.C. 231 et seq.), and were translated as meaning sections 3 and 4 of the Railroad Retirement Act of 1974, to reflect the probable intent of Congress. The Railroad Retirement Act of 1937, act Aug. 29, 1935, ch. 812, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, was amended in its entirety and completely revised by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads.
+Sections 231b and 231c of title 45, referred to in subsec. (a), were in the original references to sections 3 and 4 of the Railroad Retirement Act of 1937 (45 U.S.C. 231 et seq.), and were translated as meaning sections 3 and 4 of the Railroad Retirement Act of 1974, to reflect the probable intent of Congress. The Railroad Retirement Act of 1937, act Aug. 29, 1935, ch. 812, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, was amended in its entirety and completely revised by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads.
 
 The Federal Employees’ Compensation Act, referred to in subsec. (g)(1)(B), which is act Sept. 7, 1916, ch. 458, 39 Stat. 742, was repealed and the provisions thereof reenacted as subchapter I of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
@@ -2494,195 +2494,195 @@ Section 410 of the Air Transportation Safety and System Stabilization Act, refer
 
 **Amendments**
 
-2022—Subsec. (d). Pub. L. 117–167, § 107(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this subchapter.”
+2022—Subsec. (d). Pub. L. 117–167, § 107(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this subchapter.”
 
-Subsec. (g)(1)(A). Pub. L. 117–167, § 106(d), inserted item relating to Public Wireless Supply Chain Innovation Fund.
+Subsec. (g)(1)(A). Pub. L. 117–167, § 106(d), inserted item relating to Public Wireless Supply Chain Innovation Fund.
 
-Pub. L. 117–167, § 102(e), inserted items relating to Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Fund, Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Defense Fund, Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America International Technology Security and Innovation Fund, and Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Workforce and Education Fund.
+Pub. L. 117–167, § 102(e), inserted items relating to Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Fund, Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Defense Fund, Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America International Technology Security and Innovation Fund, and Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Workforce and Education Fund.
 
 2018—Subsec. (g)(2). Pub. L. 115–254 substituted “United States International Development Finance Corporation.” for “Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151).”
 
 2015—Subsec. (g)(1)(B). Pub. L. 114–113 inserted items relating to the September 11th Victim Compensation Fund (15–0340–0–1–754), Victims Compensation Fund established under section 410 of the Air Transportation Safety and System Stabilization Act, United States Victims of State Sponsored Terrorism Fund, and the World Trade Center Health Program Fund (75–0946–0–1–551).
 
-2013—Subsec. (a). Pub. L. 113–67, § 121(5), substituted “sections 231b and 231c of title 45” for “section 231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45”.
+2013—Subsec. (a). Pub. L. 113–67, § 121(5), substituted “sections 231b and 231c of title 45” for “section 231b(a), 231b(f)(2), 231c(a), and 231c(f) of title 45”.
 
-Subsec. (h). Pub. L. 113–67, § 121(6), in item relating to Federal Pell Grants, made technical amendment to reference in original act which appears in text as reference to section 1070a of title 20.
+Subsec. (h). Pub. L. 113–67, § 121(6), in item relating to Federal Pell Grants, made technical amendment to reference in original act which appears in text as reference to section 1070a of title 20.
 
-Subsec. (j). Pub. L. 113–67, § 121(8), redesignated subsec. (j) relating to identification of programs as (k).
+Subsec. (j). Pub. L. 113–67, § 121(8), redesignated subsec. (j) relating to identification of programs as (k).
 
-Pub. L. 113–67, § 121(7), realigned margins of list items.
+Pub. L. 113–67, § 121(7), realigned margins of list items.
 
-Subsec. (k). Pub. L. 113–67, § 121(8), redesignated subsec. (j) relating to identification of programs as (k).
+Subsec. (k). Pub. L. 113–67, § 121(8), redesignated subsec. (j) relating to identification of programs as (k).
 
-2010—Subsecs. (a) to (d). Pub. L. 111–139, § 11(b), amended subsecs. (a) to (d) generally. Prior to amendment, subsecs. (a) to (d) related to exemptions for social security benefits and tier I railroad retirement benefits, veterans programs, net interest, and earned income tax credit, respectively.
+2010—Subsecs. (a) to (d). Pub. L. 111–139, § 11(b), amended subsecs. (a) to (d) generally. Prior to amendment, subsecs. (a) to (d) related to exemptions for social security benefits and tier I railroad retirement benefits, veterans programs, net interest, and earned income tax credit, respectively.
 
-Subsecs. (g), (h). Pub. L. 111–139, § 11(c), amended subsecs. (g) and (h) generally. Prior to amendment, subsecs. (g) and (h) related to exemptions for other programs and activities and low-income programs, respectively.
+Subsecs. (g), (h). Pub. L. 111–139, § 11(c), amended subsecs. (g) and (h) generally. Prior to amendment, subsecs. (g) and (h) related to exemptions for other programs and activities and low-income programs, respectively.
 
-Subsec. (i). Pub. L. 111–139, § 11(d), added subsec. (i). Former subsec. (i) redesignated (j) relating to identification of programs.
+Subsec. (i). Pub. L. 111–139, § 11(d), added subsec. (i). Former subsec. (i) redesignated (j) relating to identification of programs.
 
-Subsec. (j). Pub. L. 111–139, § 11(d), added subsec. (j) relating to split treatment programs.
+Subsec. (j). Pub. L. 111–139, § 11(d), added subsec. (j) relating to split treatment programs.
 
-Pub. L. 111–139, § 11(a), redesignated subsec. (i) as (j) relating to identification of programs and substituted “2010” for “1998”.
+Pub. L. 111–139, § 11(a), redesignated subsec. (i) as (j) relating to identification of programs and substituted “2010” for “1998”.
 
-2006—Subsec. (g)(1)(A). Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(10). See 1996 Amendment note below.
+2006—Subsec. (g)(1)(A). Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(10). See 1996 Amendment note below.
 
-1997—Subsec. (b). Pub. L. 105–33, § 10207(a), substituted “Veterans Insurance and Indemnities” for “Veterans Insurance and Indemnity”, “Canteen Service Revolving Fund” for “Veterans’ Canteen Service Revolving Fund”, “(36–0120–0–1–701)” for “(36–0137–0–1–702)” in item relating to benefits under chapter 21 of title 38, “Compensation” for “Veterans’ compensation”, and “Pensions” for “Veterans’ pensions” and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
+1997—Subsec. (b). Pub. L. 105–33, § 10207(a), substituted “Veterans Insurance and Indemnities” for “Veterans Insurance and Indemnity”, “Canteen Service Revolving Fund” for “Veterans’ Canteen Service Revolving Fund”, “(36–0120–0–1–701)” for “(36–0137–0–1–702)” in item relating to benefits under chapter 21 of title 38, “Compensation” for “Veterans’ compensation”, and “Pensions” for “Veterans’ pensions” and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
 
-Subsec. (f). Pub. L. 105–33, § 10207(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Outlays for programs specified in paragraph (1) of section 907 of this title shall be subject to reduction only in accordance with the procedures established in section 901(a)(3)(C) and 906(b) of this title.”
+Subsec. (f). Pub. L. 105–33, § 10207(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Outlays for programs specified in paragraph (1) of section 907 of this title shall be subject to reduction only in accordance with the procedures established in section 901(a)(3)(C) and 906(b) of this title.”
 
-Subsec. (g)(1)(A). Pub. L. 105–33, § 10207(c)(1)(KK), inserted items relating to Thrift Savings Fund, United States Enrichment Corporation (95–4054–0–3–271), Vaccine Injury Compensation, and Vaccine Injury Compensation Program Trust Fund.
+Subsec. (g)(1)(A). Pub. L. 105–33, § 10207(c)(1)(KK), inserted items relating to Thrift Savings Fund, United States Enrichment Corporation (95–4054–0–3–271), Vaccine Injury Compensation, and Vaccine Injury Compensation Program Trust Fund.
 
-Pub. L. 105–33, § 10207(c)(1)(JJ), inserted “Revolving Fund (22–4055–0–3–373)” before semicolon in item relating to the Resolution Trust Corporation.
+Pub. L. 105–33, § 10207(c)(1)(JJ), inserted “Revolving Fund (22–4055–0–3–373)” before semicolon in item relating to the Resolution Trust Corporation.
 
-Pub. L. 105–33, § 10207(c)(1)(II), struck out “Resolution Funding Corporation;” after item relating to postal service fund.
+Pub. L. 105–33, § 10207(c)(1)(II), struck out “Resolution Funding Corporation;” after item relating to postal service fund.
 
-Pub. L. 105–33, § 10207(c)(1)(HH), substituted “806” for “852” in item relating to payments to the United States territories.
+Pub. L. 105–33, § 10207(c)(1)(HH), substituted “806” for “852” in item relating to payments to the United States territories.
 
-Pub. L. 105–33, § 10207(c)(1)(GG), struck out “Payments to state and local government fiscal assistance trust fund (20–2111–0–1–851);” after item relating to payments to social security trust funds.
+Pub. L. 105–33, § 10207(c)(1)(GG), struck out “Payments to state and local government fiscal assistance trust fund (20–2111–0–1–851);” after item relating to payments to social security trust funds.
 
-Pub. L. 105–33, § 10207(c)(1)(FF), substituted “651” for “571” in item relating to payments to social security trust funds.
+Pub. L. 105–33, § 10207(c)(1)(FF), substituted “651” for “571” in item relating to payments to social security trust funds.
 
-Pub. L. 105–33, § 10207(c)(1)(EE), struck out “Compact of Free Association, economic assistance pursuant to Public Law 99–658 (14–0415–0–1–806);” after item relating to payments to military retirement fund.
+Pub. L. 105–33, § 10207(c)(1)(EE), struck out “Compact of Free Association, economic assistance pursuant to Public Law 99–658 (14–0415–0–1–806);” after item relating to payments to military retirement fund.
 
-Pub. L. 105–33, § 10207(c)(1)(DD), substituted “571” for “572” in item relating to payments to health care trust funds.
+Pub. L. 105–33, § 10207(c)(1)(DD), substituted “571” for “572” in item relating to payments to health care trust funds.
 
-Pub. L. 105–33, § 10207(c)(1)(CC), inserted item relating to Office of Thrift Supervision.
+Pub. L. 105–33, § 10207(c)(1)(CC), inserted item relating to Office of Thrift Supervision.
 
-Pub. L. 105–33, § 10207(c)(1)(BB), substituted “Credit union share” for “credit union share” and inserted before semicolon “(25–4468–0–3–373)” in third item relating to National Credit Union Administration.
+Pub. L. 105–33, § 10207(c)(1)(BB), substituted “Credit union share” for “credit union share” and inserted before semicolon “(25–4468–0–3–373)” in third item relating to National Credit Union Administration.
 
-Pub. L. 105–33, § 10207(c)(1)(AA), substituted “Central” for “central” and inserted before semicolon “(25–4470–0–3–373)” in second item relating to National Credit Union Administration.
+Pub. L. 105–33, § 10207(c)(1)(AA), substituted “Central” for “central” and inserted before semicolon “(25–4470–0–3–373)” in second item relating to National Credit Union Administration.
 
-Pub. L. 105–33, § 10207(c)(1)(Z), inserted “operating fund (25–4056–0–3–373)” before semicolon in first item relating to National Credit Union Administration.
+Pub. L. 105–33, § 10207(c)(1)(Z), inserted “operating fund (25–4056–0–3–373)” before semicolon in first item relating to National Credit Union Administration.
 
-Pub. L. 105–33, § 10207(c)(1)(Y), substituted “(75–9931–0–3–550)” for “(75–4430–0–3–551)” in item relating to medical facilities guarantee and loan fund.
+Pub. L. 105–33, § 10207(c)(1)(Y), substituted “(75–9931–0–3–550)” for “(75–4430–0–3–551)” in item relating to medical facilities guarantee and loan fund.
 
-Pub. L. 105–33, § 10207(c)(1)(X), substituted “Panama Canal Commission, Panama Canal Revolving Fund (95–4061–0–3–403);” for “Panama Canal Commission, operating expenses (95–5190–0–2–403), and Panama Canal Commission, capital outlay (95–5190–0–2–403);”.
+Pub. L. 105–33, § 10207(c)(1)(X), substituted “Panama Canal Commission, Panama Canal Revolving Fund (95–4061–0–3–403);” for “Panama Canal Commission, operating expenses (95–5190–0–2–403), and Panama Canal Commission, capital outlay (95–5190–0–2–403);”.
 
-Pub. L. 105–33, § 10207(c)(1)(W), substituted “806” for “852” in item relating to internal revenue collections for Puerto Rico.
+Pub. L. 105–33, § 10207(c)(1)(W), substituted “806” for “852” in item relating to internal revenue collections for Puerto Rico.
 
-Pub. L. 105–33, § 10207(c)(1)(V), struck out “and insurance” after “Higher education facilities loans”.
+Pub. L. 105–33, § 10207(c)(1)(V), struck out “and insurance” after “Higher education facilities loans”.
 
-Pub. L. 105–33, § 10207(c)(1)(U), inserted “program account” after “fund” and substituted “(75–0340–0–1–552)” for “(Health Education Assistance Loan Program) (75–4305–0–3–553)” in item relating to health professions graduate student loan insurance fund.
+Pub. L. 105–33, § 10207(c)(1)(U), inserted “program account” after “fund” and substituted “(75–0340–0–1–552)” for “(Health Education Assistance Loan Program) (75–4305–0–3–553)” in item relating to health professions graduate student loan insurance fund.
 
-Pub. L. 105–33, § 10207(c)(1)(T), substituted “accounts” for “account” after “Federal payment to the railroad retirement”.
+Pub. L. 105–33, § 10207(c)(1)(T), substituted “accounts” for “account” after “Federal payment to the railroad retirement”.
 
-Pub. L. 105–33, § 10207(c)(1)(S), inserted “(95–4039–0–3–371)” before semicolon in item relating to Federal Housing Finance Board.
+Pub. L. 105–33, § 10207(c)(1)(S), inserted “(95–4039–0–3–371)” before semicolon in item relating to Federal Housing Finance Board.
 
-Pub. L. 105–33, § 10207(c)(1)(R), inserted “(51–4066–0–3–373)” before semicolon in third item relating to Federal Deposit Insurance Corporation.
+Pub. L. 105–33, § 10207(c)(1)(R), inserted “(51–4066–0–3–373)” before semicolon in third item relating to Federal Deposit Insurance Corporation.
 
-Pub. L. 105–33, § 10207(c)(1)(Q), inserted “(51–4065–0–3–373)” before semicolon in second item relating to Federal Deposit Insurance Corporation.
+Pub. L. 105–33, § 10207(c)(1)(Q), inserted “(51–4065–0–3–373)” before semicolon in second item relating to Federal Deposit Insurance Corporation.
 
-Pub. L. 105–33, § 10207(c)(1)(P), inserted “(51–4064–0–3–373)” before semicolon in first item relating to Federal Deposit Insurance Corporation.
+Pub. L. 105–33, § 10207(c)(1)(P), inserted “(51–4064–0–3–373)” before semicolon in first item relating to Federal Deposit Insurance Corporation.
 
-Pub. L. 105–33, § 10207(c)(1)(O), struck out “Federal Deposit Insurance Corporation;” after item relating to Farm Credit System Financial Assistance Corporation, interest payments (20–1850–0–1–351).
+Pub. L. 105–33, § 10207(c)(1)(O), struck out “Federal Deposit Insurance Corporation;” after item relating to Farm Credit System Financial Assistance Corporation, interest payments (20–1850–0–1–351).
 
-Pub. L. 105–33, § 10207(c)(1)(N), inserted items relating to Farm Credit Administration and Farm Credit System Financial Assistance Corporation, interest payment (20–1850–0–1–908).
+Pub. L. 105–33, § 10207(c)(1)(N), inserted items relating to Farm Credit Administration and Farm Credit System Financial Assistance Corporation, interest payment (20–1850–0–1–908).
 
-Pub. L. 105–33, § 10207(c)(1)(M), struck out “Eastern Indian land claims settlement fund (14–2202–0–1–806);” after item relating to dual benefits payments account.
+Pub. L. 105–33, § 10207(c)(1)(M), struck out “Eastern Indian land claims settlement fund (14–2202–0–1–806);” after item relating to dual benefits payments account.
 
-Pub. L. 105–33, § 10207(c)(1)(L), struck out “Director of the Office of Thrift Supervision;” after item relating to Comptroller of the Currency.
+Pub. L. 105–33, § 10207(c)(1)(L), struck out “Director of the Office of Thrift Supervision;” after item relating to Comptroller of the Currency.
 
-Pub. L. 105–33, § 10207(c)(1)(K), inserted “, Assessment funds (20–8413–0–8–373)” before semicolon in item relating to the Comptroller of the Currency.
+Pub. L. 105–33, § 10207(c)(1)(K), inserted “, Assessment funds (20–8413–0–8–373)” before semicolon in item relating to the Comptroller of the Currency.
 
-Pub. L. 105–33, § 10207(c)(1)(J), substituted “806” for “852” in item relating to the Customs Service.
+Pub. L. 105–33, § 10207(c)(1)(J), substituted “806” for “852” in item relating to the Customs Service.
 
-Pub. L. 105–33, § 10207(c)(1)(I), inserted item relating to Conservation Reserve Program.
+Pub. L. 105–33, § 10207(c)(1)(I), inserted item relating to Conservation Reserve Program.
 
-Pub. L. 105–33, § 10207(c)(1)(H), inserted item relating to Compact of Free Association.
+Pub. L. 105–33, § 10207(c)(1)(H), inserted item relating to Compact of Free Association.
 
-Pub. L. 105–33, § 10207(c)(1)(G), struck out “Coinage profit fund (20–5811–0–2–803);” after item relating to claims, judgments, and relief acts.
+Pub. L. 105–33, § 10207(c)(1)(G), struck out “Coinage profit fund (20–5811–0–2–803);” after item relating to claims, judgments, and relief acts.
 
-Pub. L. 105–33, § 10207(c)(1)(F), substituted “808” for “806” in item relating to claims, judgments, and relief acts.
+Pub. L. 105–33, § 10207(c)(1)(F), substituted “808” for “806” in item relating to claims, judgments, and relief acts.
 
-Pub. L. 105–33, § 10207(c)(1)(E), struck out “Claims, defense (97–0102–0–1–051);” after second item relating to Bureau of Indian Affairs.
+Pub. L. 105–33, § 10207(c)(1)(E), struck out “Claims, defense (97–0102–0–1–051);” after second item relating to Bureau of Indian Affairs.
 
-Pub. L. 105–33, § 10207(c)(1)(D), substituted “Miscellaneous trust funds” for “miscellaneous trust funds, tribal trust funds” in second item relating to Bureau of Indian Affairs.
+Pub. L. 105–33, § 10207(c)(1)(D), substituted “Miscellaneous trust funds” for “miscellaneous trust funds, tribal trust funds” in second item relating to Bureau of Indian Affairs.
 
-Pub. L. 105–33, § 10207(c)(1)(C), inserted “Indian land and water claims settlements and” after comma in first item relating to Bureau of Indian Affairs.
+Pub. L. 105–33, § 10207(c)(1)(C), inserted “Indian land and water claims settlements and” after comma in first item relating to Bureau of Indian Affairs.
 
-Pub. L. 105–33, § 10207(c)(1)(B), struck out “Thrift Savings Fund (26–8141–0–7–602);” after item relating to administration of Territories, Northern Mariana Islands Covenant grants.
+Pub. L. 105–33, § 10207(c)(1)(B), struck out “Thrift Savings Fund (26–8141–0–7–602);” after item relating to administration of Territories, Northern Mariana Islands Covenant grants.
 
-Pub. L. 105–33, § 10207(c)(1)(A), inserted item relating to activities financed by voluntary payments to Government.
+Pub. L. 105–33, § 10207(c)(1)(A), inserted item relating to activities financed by voluntary payments to Government.
 
-Subsec. (g)(1)(B). Pub. L. 105–33, § 10207(c)(2)(E), substituted “Railroad Industry Pension Fund” for “Railroad retirement tier II”.
+Subsec. (g)(1)(B). Pub. L. 105–33, § 10207(c)(2)(E), substituted “Railroad Industry Pension Fund” for “Railroad retirement tier II”.
 
-Pub. L. 105–33, § 10207(c)(2)(D), inserted “Special workers compensation expenses,” before “Longshoremen’s and harborworkers’ compensation benefits”.
+Pub. L. 105–33, § 10207(c)(2)(D), inserted “Special workers compensation expenses,” before “Longshoremen’s and harborworkers’ compensation benefits”.
 
-Pub. L. 105–33, § 10207(c)(2)(C), substituted “Claims Judges’ Retirement Fund” for “Court of Federal Claims Judges’ Retirement Fund”.
+Pub. L. 105–33, § 10207(c)(2)(C), substituted “Claims Judges’ Retirement Fund” for “Court of Federal Claims Judges’ Retirement Fund”.
 
-Pub. L. 105–33, § 10207(c)(2)(B), substituted “Black Lung Disability Trust Fund” for “Black lung benefits”.
+Pub. L. 105–33, § 10207(c)(2)(B), substituted “Black Lung Disability Trust Fund” for “Black lung benefits”.
 
-Pub. L. 105–33, § 10207(c)(2)(A), substituted “The following Federal retirement and disability accounts” for “The following budget accounts” in introductory provisions.
+Pub. L. 105–33, § 10207(c)(2)(A), substituted “The following Federal retirement and disability accounts” for “The following budget accounts” in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 105–33, § 10207(c)(3)(E), struck out items “Credit union share insurance fund (25–4468–0–3–371);” and “Economic development revolving fund (13–4406–0–3–452);” after item relating to credit liquidating accounts, item “Export-Import Bank of the United States, Limitation of program activity (83–4027–0–3–155);” after item relating to energy security reserve (Synthetic Fuels Corporation), item “Federal Deposit Insurance Corporation (51–8419–0–8–371);” after item relating to Federal Crop Insurance Corporation fund, items “Federal Housing Administration fund (86–4070–0–3–371);”, “Federal ship financing fund (69–4301–0–3–403);”, and “Federal ship financing fund, fishing vessels (13–4417–0–3–376);” after item relating to Federal Emergency Management Agency National insurance development fund, items “Government National Mortgage Association, Guarantees of mortgage-backed securities (86–4238–0–3–371);” and “Health education loans (75–4307–0–3–553);” after item relating to geothermal resources development fund, item “Indian loan guarantee and insurance fund (14–4410–0–3–452);” after item relating to homeowners assistance fund, defense, and items “Railroad rehabilitation and improvement financing fund (69–4411–0–3–401);”, “Rural development insurance fund (12–4155–0–3–452);”, “Rural electric and telephone revolving fund (12–4230–8–3–271);”, “Rural housing insurance fund (12–4141–0–3–371);”, “Small Business Administration, Business loan and investment fund (73–4154–0–3–376);”, “Small Business Administration, Lease guarantees revolving fund (73–4157–0–3–376);”, “Small Business Administration, Pollution control equipment contract guarantee revolving fund (73–4147–0–3–376);”, “Small Business Administration, Surety bond guarantees revolving fund (73–4156–0–3–376);”, and “Department of Veterans Affairs, Loan guaranty revolving fund (36–4025–0–3–704);” after item relating to rail service assistance.
+Subsec. (g)(2). Pub. L. 105–33, § 10207(c)(3)(E), struck out items “Credit union share insurance fund (25–4468–0–3–371);” and “Economic development revolving fund (13–4406–0–3–452);” after item relating to credit liquidating accounts, item “Export-Import Bank of the United States, Limitation of program activity (83–4027–0–3–155);” after item relating to energy security reserve (Synthetic Fuels Corporation), item “Federal Deposit Insurance Corporation (51–8419–0–8–371);” after item relating to Federal Crop Insurance Corporation fund, items “Federal Housing Administration fund (86–4070–0–3–371);”, “Federal ship financing fund (69–4301–0–3–403);”, and “Federal ship financing fund, fishing vessels (13–4417–0–3–376);” after item relating to Federal Emergency Management Agency National insurance development fund, items “Government National Mortgage Association, Guarantees of mortgage-backed securities (86–4238–0–3–371);” and “Health education loans (75–4307–0–3–553);” after item relating to geothermal resources development fund, item “Indian loan guarantee and insurance fund (14–4410–0–3–452);” after item relating to homeowners assistance fund, defense, and items “Railroad rehabilitation and improvement financing fund (69–4411–0–3–401);”, “Rural development insurance fund (12–4155–0–3–452);”, “Rural electric and telephone revolving fund (12–4230–8–3–271);”, “Rural housing insurance fund (12–4141–0–3–371);”, “Small Business Administration, Business loan and investment fund (73–4154–0–3–376);”, “Small Business Administration, Lease guarantees revolving fund (73–4157–0–3–376);”, “Small Business Administration, Pollution control equipment contract guarantee revolving fund (73–4147–0–3–376);”, “Small Business Administration, Surety bond guarantees revolving fund (73–4156–0–3–376);”, and “Department of Veterans Affairs, Loan guaranty revolving fund (36–4025–0–3–704);” after item relating to rail service assistance.
 
-Pub. L. 105–33, § 10207(c)(3)(D), inserted item relating to credit liquidating accounts.
+Pub. L. 105–33, § 10207(c)(3)(D), inserted item relating to credit liquidating accounts.
 
-Pub. L. 105–33, § 10207(c)(3)(C), struck out “Community development grant loan guarantees (86–0162–0–1–451);” after item relating to United States Treasury check forgery insurance fund.
+Pub. L. 105–33, § 10207(c)(3)(C), struck out “Community development grant loan guarantees (86–0162–0–1–451);” after item relating to United States Treasury check forgery insurance fund.
 
-Pub. L. 105–33, § 10207(c)(3)(B), substituted “United States Treasury check forgery insurance fund” for “Check forgery insurance fund”.
+Pub. L. 105–33, § 10207(c)(3)(B), substituted “United States Treasury check forgery insurance fund” for “Check forgery insurance fund”.
 
-Pub. L. 105–33, § 10207(c)(3)(A), struck out items “Agency for International Development, Housing, and other credit guarantee programs (72–4340–0–3–151);” and “Agricultural credit insurance fund (12–4140–0–3–351);” after “order issued under this subchapter:”.
+Pub. L. 105–33, § 10207(c)(3)(A), struck out items “Agency for International Development, Housing, and other credit guarantee programs (72–4340–0–3–151);” and “Agricultural credit insurance fund (12–4140–0–3–351);” after “order issued under this subchapter:”.
 
-Subsec. (h). Pub. L. 105–33, § 10207(f), struck out heading and text of subsec. (h) relating to optional exemption of military personnel. Text read as follows:
+Subsec. (h). Pub. L. 105–33, § 10207(f), struck out heading and text of subsec. (h) relating to optional exemption of military personnel. Text read as follows:
 
 “(1) The President may, with respect to any military personnel account, exempt that account from sequestration or provide for a lower uniform percentage reduction than would otherwise apply.
 
 “(2) The President may not use the authority provided by paragraph (1) unless he notifies the Congress of the manner in which such authority will be exercised on or before the initial snapshot date for the budget year.”
 
-Pub. L. 105–33, § 10207(d)(4), inserted item relating to family support payments to States.
+Pub. L. 105–33, § 10207(d)(4), inserted item relating to family support payments to States.
 
-Pub. L. 105–33, § 10207(d)(3), substituted item relating to special supplemental nutrition program for women, infants, and children (WIC) for “Women, infants, and children program (12–3510–0–1–605).”.
+Pub. L. 105–33, § 10207(d)(3), substituted item relating to special supplemental nutrition program for women, infants, and children (WIC) for “Women, infants, and children program (12–3510–0–1–605).”.
 
-Pub. L. 105–33, § 10207(d)(2), inserted items relating to temporary assistance for needy families, contingency fund, and child care entitlement to States.
+Pub. L. 105–33, § 10207(d)(2), inserted items relating to temporary assistance for needy families, contingency fund, and child care entitlement to States.
 
-Pub. L. 105–33, § 10207(d)(1), substituted item relating to child nutrition programs for “Child nutrition (12–3539–0–1–605);”.
+Pub. L. 105–33, § 10207(d)(1), substituted item relating to child nutrition programs for “Child nutrition (12–3539–0–1–605);”.
 
-Subsec. (i). Pub. L. 105–33, § 10207(e), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of subsections (g) and (h) of this section, programs are identified by the designated budget account identification code numbers set forth in the Budget of the United States Government, 1986—Appendix.”
+Subsec. (i). Pub. L. 105–33, § 10207(e), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “For purposes of subsections (g) and (h) of this section, programs are identified by the designated budget account identification code numbers set forth in the Budget of the United States Government, 1986—Appendix.”
 
-1996—Subsec. (g)(1)(A). Pub. L. 104–208, § 2704(d)(10), which directed the amendment of subpar. (A) by substituting “Deposit Insurance Fund” for “Bank Insurance Fund” and by striking “Federal Deposit Insurance Corporation, Savings Association Insurance fund;”, was not executed and was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendments note below.
+1996—Subsec. (g)(1)(A). Pub. L. 104–208, § 2704(d)(10), which directed the amendment of subpar. (A) by substituting “Deposit Insurance Fund” for “Bank Insurance Fund” and by striking “Federal Deposit Insurance Corporation, Savings Association Insurance fund;”, was not executed and was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendments note below.
 
 Subsec. (h). Pub. L. 104–193 substituted “Block grants to States for temporary assistance for needy families;” for “Aid to families with dependent children (75–0412–0–1–609);”.
 
-1992—Subsec. (g)(1)(A). Pub. L. 102–572, § 601(b), inserted item relating to payment to Judiciary Trust Funds.
+1992—Subsec. (g)(1)(A). Pub. L. 102–572, § 601(b), inserted item relating to payment to Judiciary Trust Funds.
 
 Pub. L. 102–486 inserted item relating to United States Enrichment Corporation.
 
-Subsec. (g)(1)(B). Pub. L. 102–572, § 601(a), inserted items relating to Judicial Officers’ Retirement Fund and Court of Federal Claims Judges’ Retirement Fund.
+Subsec. (g)(1)(B). Pub. L. 102–572, § 601(a), inserted items relating to Judicial Officers’ Retirement Fund and Court of Federal Claims Judges’ Retirement Fund.
 
 1991—Subsec. (b). Pub. L. 102–83 substituted “section 2307 of title 38” for “section 907 of title 38” in item relating to burial benefits for veterans.
 
 Subsec. (g)(2). Pub. L. 102–54 substituted last two items relating to Department of Veterans Affairs for items relating to Veterans Administration, Loan guaranty revolving fund, and Veterans Administration, Servicemen’s group life insurance fund.
 
-1990—Subsec. (a). Pub. L. 101–508, § 13101(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Increases in benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act, or in benefits payable under section 231b(a), 231b(f)(3), 231c(a), or 231c(f) of title 45, shall not be considered ‘automatic spending increases’ for purposes of this title; and no reduction in any such increase or in any of the benefits involved shall be made under any order issued under this subchapter.”
+1990—Subsec. (a). Pub. L. 101–508, § 13101(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Increases in benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act, or in benefits payable under section 231b(a), 231b(f)(3), 231c(a), or 231c(f) of title 45, shall not be considered ‘automatic spending increases’ for purposes of this title; and no reduction in any such increase or in any of the benefits involved shall be made under any order issued under this subchapter.”
 
-Subsec. (e). Pub. L. 101–508, § 13101(c)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Offsetting receipts and collections shall not be reduced under any order issued under this subchapter.”
+Subsec. (e). Pub. L. 101–508, § 13101(c)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Offsetting receipts and collections shall not be reduced under any order issued under this subchapter.”
 
-Subsec. (g)(1)(B). Pub. L. 101–508, § 13101(c)(3), inserted item relating to railroad supplemental annuity pension fund.
+Subsec. (g)(1)(B). Pub. L. 101–508, § 13101(c)(3), inserted item relating to railroad supplemental annuity pension fund.
 
-Subsec. (h). Pub. L. 101–508, § 13101(c)(4), added subsec. (h) relating to optional exemption of military personnel.
+Subsec. (h). Pub. L. 101–508, § 13101(c)(4), added subsec. (h) relating to optional exemption of military personnel.
 
 1989—Subsec. (g)(1)(A). Pub. L. 101–220 inserted item relating to Farm Credit System Financial Assistance Corporation, interest payments, after item relating to Exchange stabilization fund.
 
-Pub. L. 101–73, § 743(a)(1), inserted item relating to Director of the Office of Thrift Supervision after item relating to Comptroller of the Currency.
+Pub. L. 101–73, § 743(a)(1), inserted item relating to Director of the Office of Thrift Supervision after item relating to Comptroller of the Currency.
 
-Pub. L. 101–73, § 743(a)(2), substituted items relating to Federal Deposit Insurance Corporation, Bank Insurance Fund; Federal Deposit Insurance Corporation, FSLIC Resolution Fund; and Federal Deposit Insurance Corporation, Savings Association Insurance Fund; for item relating to Federal Home Loan Bank Board.
+Pub. L. 101–73, § 743(a)(2), substituted items relating to Federal Deposit Insurance Corporation, Bank Insurance Fund; Federal Deposit Insurance Corporation, FSLIC Resolution Fund; and Federal Deposit Insurance Corporation, Savings Association Insurance Fund; for item relating to Federal Home Loan Bank Board.
 
-Pub. L. 101–73, § 743(a)(3), substituted item relating to Federal Housing Finance Board for item relating to Federal Home Loan Bank Board, Federal Savings and Loan Insurance Corporation.
+Pub. L. 101–73, § 743(a)(3), substituted item relating to Federal Housing Finance Board for item relating to Federal Home Loan Bank Board, Federal Savings and Loan Insurance Corporation.
 
-Pub. L. 101–73, § 743(a)(4), inserted items relating to Resolution Funding Corporation and Resolution Trust Corporation after item relating to Postal service fund.
+Pub. L. 101–73, § 743(a)(4), inserted items relating to Resolution Funding Corporation and Resolution Trust Corporation after item relating to Postal service fund.
 
-Subsec. (g)(2). Pub. L. 101–73, § 743(c), struck out item relating to Federal Savings and Loan Insurance Corporation fund (82–4037–0–3–371).
+Subsec. (g)(2). Pub. L. 101–73, § 743(c), struck out item relating to Federal Savings and Loan Insurance Corporation fund (82–4037–0–3–371).
 
-1987—Subsec. (b). Pub. L. 100–119, § 104(b)(1), inserted items relating to National Service Life Insurance Fund, Service-Disabled Veterans Insurance Fund, Veterans Special Life Insurance Fund, Veterans Reopened Insurance Fund, United States Government Life Insurance Fund, Veterans Insurance and Indemnity, Special Therapeutic and Rehabilitation Activities Fund, Veterans’ Canteen Service Revolving Fund, benefits under chapter 21 of title 38 relating to specially adapted and mortgage-protection life insurance for certain veterans and service-connected disabilities, benefits under section 907 of title 38 relating to burial benefits for veterans who die as a result of service-connected disability, and benefits under chapter 39 of title 38 relating to automobiles and adaptive equipment for certain disabled veterans and members of the Armed Forces.
+1987—Subsec. (b). Pub. L. 100–119, § 104(b)(1), inserted items relating to National Service Life Insurance Fund, Service-Disabled Veterans Insurance Fund, Veterans Special Life Insurance Fund, Veterans Reopened Insurance Fund, United States Government Life Insurance Fund, Veterans Insurance and Indemnity, Special Therapeutic and Rehabilitation Activities Fund, Veterans’ Canteen Service Revolving Fund, benefits under chapter 21 of title 38 relating to specially adapted and mortgage-protection life insurance for certain veterans and service-connected disabilities, benefits under section 907 of title 38 relating to burial benefits for veterans who die as a result of service-connected disability, and benefits under chapter 39 of title 38 relating to automobiles and adaptive equipment for certain disabled veterans and members of the Armed Forces.
 
-Subsec. (g)(1). Pub. L. 100–119, § 104(a)(2), (b)(2), (3), designated existing provisions of par. (1) as subpar. (A); inserted items relating to Administration of Territories, Northern Mariana Islands Covenant grants, Thrift Savings Fund, Bureau of Indian Affairs, miscellaneous payments to Indians, Customs Service, miscellaneous permanent appropriations, higher education facilities loans and insurance, Internal Revenue Collections for Puerto Rico, Panama Canal Commission operating expenses and Panama Canal Commission capital outlay, to medical facilities guarantee and loan fund, Federal interest subsidies for medical facilities, Compact of Free Association, economic assistance pursuant to Public Law 99–658, payments to United States territories, fiscal assistance, payments to widows and heirs of deceased Members of Congress, and Washington Metropolitan Area Transit Authority, interest payments; and added subpar. (B).
+Subsec. (g)(1). Pub. L. 100–119, § 104(a)(2), (b)(2), (3), designated existing provisions of par. (1) as subpar. (A); inserted items relating to Administration of Territories, Northern Mariana Islands Covenant grants, Thrift Savings Fund, Bureau of Indian Affairs, miscellaneous payments to Indians, Customs Service, miscellaneous permanent appropriations, higher education facilities loans and insurance, Internal Revenue Collections for Puerto Rico, Panama Canal Commission operating expenses and Panama Canal Commission capital outlay, to medical facilities guarantee and loan fund, Federal interest subsidies for medical facilities, Compact of Free Association, economic assistance pursuant to Public Law 99–658, payments to United States territories, fiscal assistance, payments to widows and heirs of deceased Members of Congress, and Washington Metropolitan Area Transit Authority, interest payments; and added subpar. (B).
 
 Pub. L. 100–86 inserted items relating to Comptroller of the Currency; Federal Deposit Insurance Corporation; Federal Home Loan Bank Board; Federal Home Loan Bank Board, Federal Savings and Loan Insurance Corporation; National Credit Union Administration; National Credit Union Administration, central liquidity facility; and National Credit Union Administration, credit union share insurance fund.
 
-Subsec. (g)(2). Pub. L. 100–119, § 104(c)(1), struck out following items relating to Veterans Administration: national service life insurance fund, service-disabled veterans insurance fund, United States Government life insurance fund, veterans insurance and indemnities, veterans reopened insurance fund, and veterans special life insurance fund.
+Subsec. (g)(2). Pub. L. 100–119, § 104(c)(1), struck out following items relating to Veterans Administration: national service life insurance fund, service-disabled veterans insurance fund, United States Government life insurance fund, veterans insurance and indemnities, veterans reopened insurance fund, and veterans special life insurance fund.
 
-Subsec. (h). Pub. L. 100–119, § 104(a)(1), inserted item relating to commodity supplemental food program.
+Subsec. (h). Pub. L. 100–119, § 104(a)(1), inserted item relating to commodity supplemental food program.
 
 1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -2692,7 +2692,7 @@ Subsec. (g)(1). Pub. L. 99–509 inserted item relating to dual benefits payment
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–167, div. A, § 107(f), Aug. 9, 2022, 136 Stat. 1399, provided that:
+Pub. L. 117–167, div. A, § 107(f), Aug. 9, 2022, 136 Stat. 1399, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [enacting section 48D of Title 26, Internal Revenue Code, and amending this section and sections 46, 49, 50, and 1371 of Title 26] shall apply to property placed in service after December 31, 2022, and, for any property the construction of which begins prior to January 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after the date of enactment of this Act [Aug. 9, 2022].
 
@@ -2700,13 +2700,13 @@ Pub. L. 117–167, div. A, § 107(f), Aug. 9, 2022, 136 Stat. 1399, provided t
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–254, div. F, title VI, § 1470(w), Oct. 5, 2018, 132 Stat. 3519, provided that: “The amendments made by this section [amending this section, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 649, 4721, 4727, and 4902 of Title 15, Commerce and Trade, section 709 of Title 18, Crimes and Criminal Procedure, section 4421 of Title 19, Customs Duties, section 1131c of Title 20, Education, sections 2151n, 2291, 2296b, 5401, 5421, 6062, 6445, 7102, 7902, 8926, 9303, and 9546 of Title 22, Foreign Relations and Intercourse, section 9101 of Title 31, Money and Finance, sections 17334 and 17336 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 2293 and 2394c of Title 22] shall take effect at the end of the transition period.”
+Pub. L. 115–254, div. F, title VI, § 1470(w), Oct. 5, 2018, 132 Stat. 3519, provided that: “The amendments made by this section [amending this section, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 649, 4721, 4727, and 4902 of Title 15, Commerce and Trade, section 709 of Title 18, Crimes and Criminal Procedure, section 4421 of Title 19, Customs Duties, section 1131c of Title 20, Education, sections 2151n, 2291, 2296b, 5401, 5421, 6062, 6445, 7102, 7902, 8926, 9303, and 9546 of Title 22, Foreign Relations and Intercourse, section 9101 of Title 31, Money and Finance, sections 17334 and 17336 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 2293 and 2394c of Title 22] shall take effect at the end of the transition period.”
 
 [For definition of “transition period” as used in section 1470(w) of Pub. L. 115–254, set out above, see section 9681 of Title 22, Foreign Relations and Intercourse.]
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. O, title IV, § 403(b), Dec. 18, 2015, 129 Stat. 3007, provided that: “The amendments made by this section [amending this section] shall apply to any sequestration order issued under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900 et seq.) on or after the date of enactment of this Act [Dec. 18, 2015].”
+Pub. L. 114–113, div. O, title IV, § 403(b), Dec. 18, 2015, 129 Stat. 3007, provided that: “The amendments made by this section [amending this section] shall apply to any sequestration order issued under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900 et seq.) on or after the date of enactment of this Act [Dec. 18, 2015].”
 
 **Effective Date of 2006 Amendment**
 
@@ -2720,25 +2720,25 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–572, title XI, § 1101(a), Oct. 29, 1992, 106 Stat. 4524, provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act [see Tables for classification] shall take effect on January 1, 1993.”
+Pub. L. 102–572, title XI, § 1101(a), Oct. 29, 1992, 106 Stat. 4524, provided that: “Except as otherwise provided in this Act, the provisions of this Act and the amendments made by this Act [see Tables for classification] shall take effect on January 1, 1993.”
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–509, title VII, § 7002(b), Oct. 21, 1986, 100 Stat. 1949, provided that: “The amendment made by subsection (a) [amending this section] shall apply to fiscal years beginning after September 30, 1986.”
+Pub. L. 99–509, title VII, § 7002(b), Oct. 21, 1986, 100 Stat. 1949, provided that: “The amendment made by subsection (a) [amending this section] shall apply to fiscal years beginning after September 30, 1986.”
 
 **Soldiers’ and Airmen’s Home**
 
 The Soldiers’ and Airmen’s Home, referred to in subsec. (g)(1)(A), was incorporated into the Armed Forces Retirement Home by section 411 of Title 24, Hospitals and Asylums.
 
-### § 906. General and special sequestration rules
+### § 906. General and special sequestration rules
 
-**(a) Repealed. Pub. L. 111–139, title I, § 10(a), Feb. 12, 2010, 124 Stat. 21**
+**(a) Repealed. Pub. L. 111–139, title I, § 10(a), Feb. 12, 2010, 124 Stat. 21**
 
 **(b) Student loans**
 
 For all student loans under part B or D of title IV of the Higher Education Act of 1965 [20 U.S.C. 1071 et seq., 1087a et seq.] made during the period when a sequestration order under section 904 of this title is in effect as required by section 902 or 903 of this title, origination fees under sections 438(c)(2) and (6) and 455(c) [20 U.S.C. 1087–1(c)(2), (6), 1087e(c)] and loan processing and issuance fees under section 428(f)(1)(A)(ii) of that Act [20 U.S.C. 1078(f)(1)(A)(ii)] shall each be increased by the uniform percentage specified in that sequestration order, and, for student loans originated during the period of the sequestration, special allowance payments under section 438(b) of that Act [20 U.S.C. 1087–1(b)] accruing during the period of the sequestration shall be reduced by the uniform percentage specified in that sequestration order.
 
-**(c) Repealed. Pub. L. 111–139, title I, § 10(c), Feb. 12, 2010, 124 Stat. 22**
+**(c) Repealed. Pub. L. 111–139, title I, § 10(c), Feb. 12, 2010, 124 Stat. 22**
 
 **(d) Special rules for Medicare program**
 
@@ -2844,13 +2844,13 @@ shall be subject to reduction under an order in the same manner as other adminis
 
 **(1)** Notwithstanding any other provision of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 administrative expenses incurred by the departments and agencies, including independent agencies, of the Federal Government in connection with any program, project, activity, or account shall be subject to reduction pursuant to an order issued under section 904 of this title, without regard to any exemption, exception, limitation, or special rule which is otherwise applicable with respect to such program, project, activity, or account under this subchapter.
 
 **(2)** Notwithstanding any other provision of law, administrative expenses of any program, project, activity, or account which is self-supporting and does not receive appropriations shall be subject to reduction under a sequester order, unless specifically exempted in this subchapter.
 
-**(3)** Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) <sup>1</sup> shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
+**(3)** Payments made by the Federal Government to reimburse or match administrative costs incurred by a State or political subdivision under or in connection with any program, project, activity, or account shall not be considered administrative expenses of the Federal Government for purposes of this section, and shall be subject to reduction or sequestration under this subchapter to the extent (and only to the extent) that other payments made by the Federal Government under or in connection with that program, project, activity, or account are subject to such reduction or sequestration; except that Federal payments made to a State as reimbursement of administrative costs incurred by such State under or in connection with the unemployment compensation programs specified in subsection (h)(1) <sup>1</sup> shall be subject to reduction or sequestration under this subchapter notwithstanding the exemption otherwise granted to such programs under that subsection.
 
 **(4)** Notwithstanding any other provision of law, this subsection shall not apply with respect to the following:
 
@@ -2892,7 +2892,7 @@ shall not be subject to reduction.
 
 **(1) Powers and authorities of the Commodity Credit Corporation**
 
-This title <sup>1</sup> shall not restrict the Commodity Credit Corporation in the discharge of its authority and responsibility as a corporation to buy and sell commodities in world trade, to use the proceeds as a revolving fund to meet other obligations and otherwise operate as a corporation, the purpose for which it was created.
+This title <sup>1</sup> shall not restrict the Commodity Credit Corporation in the discharge of its authority and responsibility as a corporation to buy and sell commodities in world trade, to use the proceeds as a revolving fund to meet other obligations and otherwise operate as a corporation, the purpose for which it was created.
 
 **(2) Reduction in payments made under contracts**
 
@@ -2930,23 +2930,23 @@ Nothing in this joint resolution shall limit or reduce, in any way, any appropri
 
 **(6)** Budgetary resources sequestered in revolving, trust, and special fund accounts and offsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
 
-(Pub. L. 99–177, title II, § 256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, § 506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§ 102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, § 743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, § 13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(2)(A), (4)(H)], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440; Pub. L. 104–193, title I, § 110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, § 10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§ 9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, § 352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–260, div. N, title II, § 235(a), (c), Dec. 27, 2020, 134 Stat. 1959; Pub. L. 117–168, title VIII, § 805(b), Aug. 10, 2022, 136 Stat. 1805; Pub. L. 117–263, div. A, title VI, § 626(a), Dec. 23, 2022, 136 Stat. 2628.)
+(Pub. L. 99–177, title II, § 256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, § 506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§ 102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, § 743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, § 13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(2)(A), (4)(H)], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440; Pub. L. 104–193, title I, § 110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, § 10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§ 9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, § 352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–260, div. N, title II, § 235(a), (c), Dec. 27, 2020, 134 Stat. 1959; Pub. L. 117–168, title VIII, § 805(b), Aug. 10, 2022, 136 Stat. 1805; Pub. L. 117–263, div. A, title VI, § 626(a), Dec. 23, 2022, 136 Stat. 2628.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (b), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and D of title IV of the Act are classified generally to parts B (§ 1071 et seq.) and D (§ 1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B and D of title IV of the Act are classified generally to parts B (§ 1071 et seq.) and D (§ 1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsecs. (d) and (i)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XII and XVIII of the Social Security Act are classified generally to subchapters XII (§ 1321 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A to D of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.), B (§ 1395j et seq.), C (§ 1395w–21 et seq.), and D (§ 1395w–101 et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (d) and (i)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XII and XVIII of the Social Security Act are classified generally to subchapters XII (§ 1321 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A to D of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.), B (§ 1395j et seq.), C (§ 1395w–21 et seq.), and D (§ 1395w–101 et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to in subsec. (g)(1), is section 529 [title III, § 302] of Pub. L. 101–509, which is set out as a note under section 5304 of Title 5, Government Organization and Employees.
+Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to in subsec. (g)(1), is section 529 [title III, § 302] of Pub. L. 101–509, which is set out as a note under section 5304 of Title 5, Government Organization and Employees.
 
-This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
-Subsec. (h)(1), referred to in subsec. (h)(3), was redesignated subsec. (i)(1) by Pub. L. 101–508, title XIII, § 13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
+Subsec. (h)(1), referred to in subsec. (h)(3), was redesignated subsec. (i)(1) by Pub. L. 101–508, title XIII, § 13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (i)(1)(D), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (i)(1)(D), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(2)(A), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 204 of such Act is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
@@ -2954,21 +2954,21 @@ This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, De
 
 **Amendments**
 
-2024—Subsec. (i)(1)(D). Pub. L. 118–159, § 5701(a)(2), repealed Pub. L. 116–260, § 235(c). See 2020 Amendment note below.
+2024—Subsec. (i)(1)(D). Pub. L. 118–159, § 5701(a)(2), repealed Pub. L. 116–260, § 235(c). See 2020 Amendment note below.
 
 2022—Subsec. (g)(2)(B)(ii). Pub. L. 117–263 substituted “sections 403b and 405” for “sections 403a and 475”.
 
 Subsec. (h)(4)(G). Pub. L. 117–168 added subpar. (G).
 
-2020—Subsec. (i)(1)(D). Pub. L. 116–260, § 235(c), which directed the repeal of the amendment made by section 235(a) of Pub. L. 116–260, was repealed by Pub. L. 118–159, § 5701(a)(2).
+2020—Subsec. (i)(1)(D). Pub. L. 116–260, § 235(c), which directed the repeal of the amendment made by section 235(a) of Pub. L. 116–260, was repealed by Pub. L. 118–159, § 5701(a)(2).
 
-Pub. L. 116–260, § 235(a), added subpar. (D).
+Pub. L. 116–260, § 235(a), added subpar. (D).
 
-2013—Subsec. (g)(2)(B)(ii). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
+2013—Subsec. (g)(2)(B)(ii). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
 
-2011—Subsec. (g)(2)(B)(ii). Pub. L. 112–81, § 631(f)(4)(B), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “475” for “405”.
+2011—Subsec. (g)(2)(B)(ii). Pub. L. 112–81, § 631(f)(4)(B), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “475” for “405”.
 
-2010—Subsec. (a). Pub. L. 111–139, § 10(a), struck out subsec. (a). Text read as follows: “Automatic spending increases are increases in outlays due to changes in indexes in the following programs:
+2010—Subsec. (a). Pub. L. 111–139, § 10(a), struck out subsec. (a). Text read as follows: “Automatic spending increases are increases in outlays due to changes in indexes in the following programs:
 
 “(1) Special milk program; and
 
@@ -2976,15 +2976,15 @@ Pub. L. 116–260, § 235(a), added subpar. (D).
 
 In those programs all amounts other than the automatic spending increases shall be exempt from reduction under any order issued under this subchapter.”
 
-Subsec. (b). Pub. L. 111–139, § 10(b), substituted “origination fees under sections 438(c)(2) and (6) and 455(c) and loan processing and issuance fees under section 428(f)(1)(A)(ii) of that Act shall each be increased by the uniform percentage specified in that sequestration order, and, for student loans originated during the period of the sequestration, special allowance payments under section 438(b) of that Act accruing during the period of the sequestration shall be reduced by the uniform percentage specified in that sequestration order.” for “origination fees under sections 438(c)(2) and 455(c) of that Act shall each be increased by 0.50 percentage point.”
+Subsec. (b). Pub. L. 111–139, § 10(b), substituted “origination fees under sections 438(c)(2) and (6) and 455(c) and loan processing and issuance fees under section 428(f)(1)(A)(ii) of that Act shall each be increased by the uniform percentage specified in that sequestration order, and, for student loans originated during the period of the sequestration, special allowance payments under section 438(b) of that Act accruing during the period of the sequestration shall be reduced by the uniform percentage specified in that sequestration order.” for “origination fees under sections 438(c)(2) and 455(c) of that Act shall each be increased by 0.50 percentage point.”
 
-Subsec. (c). Pub. L. 111–139, § 10(c), struck out subsec. (c). Text read as follows: “Any order issued by the President under section 904 of this title shall make the reduction which is otherwise required under the foster care and adoption assistance programs (established by part E of title IV of the Social Security Act) only with respect to payments and expenditures made by States in which increases in foster care maintenance payment rates or adoption assistance payment rates (or both) are to take effect during the fiscal year involved, and only to the extent that the required reduction can be accomplished by applying a uniform percentage reduction to the Federal matching payments that each such State would otherwise receive under section 474 of that Act (for such fiscal year) for that portion of the State’s payments which is attributable to the increases taking effect during that year. No State’s matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage. No State may, after December 12, 1985, make any change in the timetable for making payments under a State plan approved under part E of title IV of the Social Security Act which has the effect of changing the fiscal year in which expenditures under such part are made.”
+Subsec. (c). Pub. L. 111–139, § 10(c), struck out subsec. (c). Text read as follows: “Any order issued by the President under section 904 of this title shall make the reduction which is otherwise required under the foster care and adoption assistance programs (established by part E of title IV of the Social Security Act) only with respect to payments and expenditures made by States in which increases in foster care maintenance payment rates or adoption assistance payment rates (or both) are to take effect during the fiscal year involved, and only to the extent that the required reduction can be accomplished by applying a uniform percentage reduction to the Federal matching payments that each such State would otherwise receive under section 474 of that Act (for such fiscal year) for that portion of the State’s payments which is attributable to the increases taking effect during that year. No State’s matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage. No State may, after December 12, 1985, make any change in the timetable for making payments under a State plan approved under part E of title IV of the Social Security Act which has the effect of changing the fiscal year in which expenditures under such part are made.”
 
-Subsec. (d)(1). Pub. L. 111–139, § 10(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: “To achieve the total percentage reduction in those programs required by sections 902 and 903 of this title, and notwithstanding section 710 of the Social Security Act, OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply to payments under the health insurance programs under title XVIII of the Social Security Act for services furnished after the order is issued, such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that fiscal year as determined on a 12-month basis.”
+Subsec. (d)(1). Pub. L. 111–139, § 10(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: “To achieve the total percentage reduction in those programs required by sections 902 and 903 of this title, and notwithstanding section 710 of the Social Security Act, OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply to payments under the health insurance programs under title XVIII of the Social Security Act for services furnished after the order is issued, such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that fiscal year as determined on a 12-month basis.”
 
-Subsec. (d)(2) to (6). Pub. L. 111–139, § 10(d)(1), (3)–(5), added pars. (2) and (4), redesignated former pars. (2), (3), and (4) as (3), (5), and (6), respectively, and amended par. (6) generally. Prior to amendment, text of par. (6) read as follows: “In computing the adjusted average per capita cost for purposes of section 1876(a)(4) of the Social Security Act, the Secretary of Health and Human Services shall not take into account any reductions in payment amounts which have been or may be effected under this subchapter.”
+Subsec. (d)(2) to (6). Pub. L. 111–139, § 10(d)(1), (3)–(5), added pars. (2) and (4), redesignated former pars. (2), (3), and (4) as (3), (5), and (6), respectively, and amended par. (6) generally. Prior to amendment, text of par. (6) read as follows: “In computing the adjusted average per capita cost for purposes of section 1876(a)(4) of the Social Security Act, the Secretary of Health and Human Services shall not take into account any reductions in payment amounts which have been or may be effected under this subchapter.”
 
-Subsec. (d)(7). Pub. L. 111–139, § 10(d)(6), added par. (7).
+Subsec. (d)(7). Pub. L. 111–139, § 10(d)(6), added par. (7).
 
 Subsec. (h)(4)(C) to (H). Pub. L. 111–203 redesignated subpars. (D), (E), (F), and (H) as (C), (D), (E), and (F), respectively, and struck out former subpars. (C) and (G) which read as follows:
 
@@ -2992,51 +2992,51 @@ Subsec. (h)(4)(C) to (H). Pub. L. 111–203 redesignated subpars. (D), (E), (F),
 
 “(G) Resolution Trust Corporation.”
 
-Subsec. (k)(1). Pub. L. 111–139, § 9(b), substituted “in paragraph (6)” for “in paragraph (5)”.
+Subsec. (k)(1). Pub. L. 111–139, § 9(b), substituted “in paragraph (6)” for “in paragraph (5)”.
 
-1997—Pub. L. 105–33, § 10208(a)(1), substituted “General and special sequestration rules” for “Exceptions, limitations, and special rules” as section catchline.
+1997—Pub. L. 105–33, § 10208(a)(1), substituted “General and special sequestration rules” for “Exceptions, limitations, and special rules” as section catchline.
 
-Subsec. (a). Pub. L. 105–33, § 10208(b), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “National Wool Act;”.
+Subsec. (a). Pub. L. 105–33, § 10208(b), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “National Wool Act;”.
 
-Subsec. (b). Pub. L. 105–33, § 10208[(c)], amended subsec. (b) generally, substituting new heading and text for former text consisting of pars. (1) to (3) relating to reductions required to be achieved from student loan programs operated under part B of title IV of the Higher Education Act of 1965 as a consequence of a sequestration order. Amendment was executed to reflect the probable intent of Congress based on language directing the general amendment of subsec. (b), appearing in the conference report for H.R. 2015, H. Rept. No. 105–217, 105th Congress, as adopted by the House of Representatives and Senate.
+Subsec. (b). Pub. L. 105–33, § 10208[(c)], amended subsec. (b) generally, substituting new heading and text for former text consisting of pars. (1) to (3) relating to reductions required to be achieved from student loan programs operated under part B of title IV of the Higher Education Act of 1965 as a consequence of a sequestration order. Amendment was executed to reflect the probable intent of Congress based on language directing the general amendment of subsec. (b), appearing in the conference report for H.R. 2015, H. Rept. No. 105–217, 105th Congress, as adopted by the House of Representatives and Senate.
 
-Subsec. (e)(1). Pub. L. 105–33, § 10208(d), substituted “shall be 2 percent.” for “shall be—” and struck out subpars. (A) and (B) which read as follows:
+Subsec. (e)(1). Pub. L. 105–33, § 10208(d), substituted “shall be 2 percent.” for “shall be—” and struck out subpars. (A) and (B) which read as follows:
 
 “(A) 1 percent in the case of the fiscal year 1986, and
 
 “(B) 2 percent in the case of any subsequent fiscal year.”
 
-Subsec. (h)(2). Pub. L. 105–33, § 10208(e)(1), substituted “this subchapter” for “this joint resolution”.
+Subsec. (h)(2). Pub. L. 105–33, § 10208(e)(1), substituted “this subchapter” for “this joint resolution”.
 
-Subsec. (h)(4)(D). Pub. L. 105–33, § 10208(e)(2), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “Office of Thrift Supervision.”
+Subsec. (h)(4)(D). Pub. L. 105–33, § 10208(e)(2), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “Office of Thrift Supervision.”
 
-Subsec. (h)(4)(E) to (G). Pub. L. 105–33, § 10208(e)(2), redesignated subpars. (F), (G), and (I) as (E), (F), and (G), respectively. Former subpar. (E) redesignated (D).
+Subsec. (h)(4)(E) to (G). Pub. L. 105–33, § 10208(e)(2), redesignated subpars. (F), (G), and (I) as (E), (F), and (G), respectively. Former subpar. (E) redesignated (D).
 
-Subsec. (h)(4)(H). Pub. L. 105–33, § 10208(e)(2), added subpar. (H) and struck out former subpar. (H) which read as follows: “Resolution Funding Corporation.”
+Subsec. (h)(4)(H). Pub. L. 105–33, § 10208(e)(2), added subpar. (H) and struck out former subpar. (H) which read as follows: “Resolution Funding Corporation.”
 
-Subsec. (h)(4)(I). Pub. L. 105–33, § 10208(e)(2), redesignated subpar. (I) as (G).
+Subsec. (h)(4)(I). Pub. L. 105–33, § 10208(e)(2), redesignated subpar. (I) as (G).
 
-Subsec. (j)(2) to (5). Pub. L. 105–33, § 10208(f), added pars. (2) to (5) and struck out former pars. (2) to (5) which related to reduction in payments made under contracts, delayed reduction in outlays permissible, uniform percentage rate of reduction and other limitations, and no double reduction for agricultural price support and income protection programs.
+Subsec. (j)(2) to (5). Pub. L. 105–33, § 10208(f), added pars. (2) to (5) and struck out former pars. (2) to (5) which related to reduction in payments made under contracts, delayed reduction in outlays permissible, uniform percentage rate of reduction and other limitations, and no double reduction for agricultural price support and income protection programs.
 
-Subsec. (k)(1). Pub. L. 105–33, § 10208(g)(1), struck out “other than a trust or special fund account” after “from any account” and inserted “, except as provided in paragraph (5)” before period.
+Subsec. (k)(1). Pub. L. 105–33, § 10208(g)(1), struck out “other than a trust or special fund account” after “from any account” and inserted “, except as provided in paragraph (5)” before period.
 
-Subsec. (k)(6). Pub. L. 105–33, § 10208(g)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage.”
+Subsec. (k)(6). Pub. L. 105–33, § 10208(g)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage.”
 
 1996—Subsecs. (k), (*l*). Pub. L. 104–193 redesignated subsec. (*l*) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
 
-1990—Subsec. (a). Pub. L. 101–508, § 13101(d)(1), amended subsec. (a) generally, substituting provisions relating to automatic spending increases for provisions relating to effect of reductions and sequestrations.
+1990—Subsec. (a). Pub. L. 101–508, § 13101(d)(1), amended subsec. (a) generally, substituting provisions relating to automatic spending increases for provisions relating to effect of reductions and sequestrations.
 
-Subsec. (b). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title” in pars. (1) to (3).
+Subsec. (b). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title” in pars. (1) to (3).
 
-Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (h).
+Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (h).
 
-Subsec. (c). Pub. L. 101–508, § 13101(d)(4), inserted after first sentence “No State’s matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage.”
+Subsec. (c). Pub. L. 101–508, § 13101(d)(4), inserted after first sentence “No State’s matching payments from the Federal Government for foster care maintenance payments or for adoption assistance maintenance payments may be reduced by a percentage exceeding the applicable domestic sequestration percentage.”
 
-Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
 
-Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (f) as (c). Former subsec. (c) redesignated (b).
+Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (f) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (d)(1). Pub. L. 101–508, § 13101(d)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The maximum permissible reduction for the health insurance programs under title XVIII of the Social Security Act for any fiscal year, pursuant to an order issued under section 902 of this title, consists only of a reduction of—
+Subsec. (d)(1). Pub. L. 101–508, § 13101(d)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The maximum permissible reduction for the health insurance programs under title XVIII of the Social Security Act for any fiscal year, pursuant to an order issued under section 902 of this title, consists only of a reduction of—
 
 “(A) 1 percent in the case of fiscal year 1986, and
 
@@ -3044,53 +3044,53 @@ Subsec. (d)(1). Pub. L. 101–508, § 13101(d)(5), amended par. (1) generally.
 
 in each separate payment amount otherwise made for a covered service under those programs without regard to this subchapter.”
 
-Subsec. (d)(2)(C). Pub. L. 101–508, § 13101(d)(6), struck out subpar. (C) which read as follows: “For purposes of this paragraph, the effective period of a sequestration order for fiscal year 1986 is the period beginning on March 1, 1986, and ending on September 30, 1986.”
+Subsec. (d)(2)(C). Pub. L. 101–508, § 13101(d)(6), struck out subpar. (C) which read as follows: “For purposes of this paragraph, the effective period of a sequestration order for fiscal year 1986 is the period beginning on March 1, 1986, and ending on September 30, 1986.”
 
-Subsec. (e). Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (k) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (k) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Subsec. (e)(1). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
 
-Subsec. (f). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Subsec. (f). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
 
-Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (c).
+Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (c).
 
-Subsec. (g)(1). Pub. L. 101–509, § 529 [title I, § 101(b)(4)(H)], in closing provisions, inserted “(as increased by any amount payable under section 5304 of title 5 or section 302 of the Federal Employees Pay Comparability Act of 1990)” after “pay system” and substituted “5303” for “5305”.
+Subsec. (g)(1). Pub. L. 101–509, § 529 [title I, § 101(b)(4)(H)], in closing provisions, inserted “(as increased by any amount payable under section 5304 of title 5 or section 302 of the Federal Employees Pay Comparability Act of 1990)” after “pay system” and substituted “5303” for “5305”.
 
-Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
 
-Subsec. (g)(2)(A). Pub. L. 101–509, § 529 [title I, § 101(b)(2)(A)], substituted “5302(1)” for “5301(c)”.
+Subsec. (g)(2)(A). Pub. L. 101–509, § 529 [title I, § 101(b)(2)(A)], substituted “5302(1)” for “5301(c)”.
 
-Subsec. (h). Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (b) as (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (b) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(1). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Subsec. (h)(1). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
 
-Subsec. (i). Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (h) as (i) and struck out former subsec. (i) which related to treatment of mine worker disability compensation increases as automatic spending increases.
+Subsec. (i). Pub. L. 101–508, § 13101(d)(2), redesignated subsec. (h) as (i) and struck out former subsec. (i) which related to treatment of mine worker disability compensation increases as automatic spending increases.
 
-Subsec. (i)(1), (2)(A). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
+Subsec. (i)(1), (2)(A). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title”.
 
-Subsec. (j). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title” wherever appearing in pars. (2) to (5).
+Subsec. (j). Pub. L. 101–508, § 13101(d)(3), substituted “section 904 of this title” for “section 902 of this title” wherever appearing in pars. (2) to (5).
 
-Subsec. (k). Pub. L. 101–508, § 13101(d)(2), added subsec. (k). Former subsec. (k) redesignated (e).
+Subsec. (k). Pub. L. 101–508, § 13101(d)(2), added subsec. (k). Former subsec. (k) redesignated (e).
 
-Subsec. (*l*). Pub. L. 101–508, § 13101(d)(2), added subsec. (*l*) and struck out former subsec. (*l*) which related to treatment of obligated balances.
+Subsec. (*l*). Pub. L. 101–508, § 13101(d)(2), added subsec. (*l*) and struck out former subsec. (*l*) which related to treatment of obligated balances.
 
-1989—Subsec. (b)(4)(C). Pub. L. 101–73, § 743(b)(1), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+1989—Subsec. (b)(4)(C). Pub. L. 101–73, § 743(b)(1), substituted “Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
-Subsec. (b)(4)(D). Pub. L. 101–73, § 743(b)(2), substituted “Office of Thrift Supervision” for “Federal Savings and Loan Insurance Corporation”.
+Subsec. (b)(4)(D). Pub. L. 101–73, § 743(b)(2), substituted “Office of Thrift Supervision” for “Federal Savings and Loan Insurance Corporation”.
 
-Subsec. (b)(4)(H), (I). Pub. L. 101–73, § 743(b)(3), added subpars. (H) and (I).
+Subsec. (b)(4)(H), (I). Pub. L. 101–73, § 743(b)(3), added subpars. (H) and (I).
 
-1987—Subsec. (a)(2). Pub. L. 100–119, § 102(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any amount of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, spending authority (as defined in section 651(c)(2) of this title), or obligation limitations which is sequestered or reduced pursuant to an order issued under section 902 of this title is permanently cancelled, with the exception of amounts sequestered in special or trust funds, which shall remain in such funds and be available in accordance with and to the extent permitted by law, including the provisions of this Act.”
+1987—Subsec. (a)(2). Pub. L. 100–119, § 102(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any amount of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, spending authority (as defined in section 651(c)(2) of this title), or obligation limitations which is sequestered or reduced pursuant to an order issued under section 902 of this title is permanently cancelled, with the exception of amounts sequestered in special or trust funds, which shall remain in such funds and be available in accordance with and to the extent permitted by law, including the provisions of this Act.”
 
 Subsec. (b)(4). Pub. L. 100–86 added par. (4).
 
-Subsec. (b)(4)(G). Pub. L. 100–119, § 104(a)(3), added subpar. (G).
+Subsec. (b)(4)(G). Pub. L. 100–119, § 104(a)(3), added subpar. (G).
 
-Subsec. (d)(1)(B). Pub. L. 100–119, § 102(b)(11), inserted “(or such higher percentage as may apply as determined in accordance with section 902(a)(4)(B)(ii) of this title)”.
+Subsec. (d)(1)(B). Pub. L. 100–119, § 102(b)(11), inserted “(or such higher percentage as may apply as determined in accordance with section 902(a)(4)(B)(ii) of this title)”.
 
-Subsec. (e). Pub. L. 100–119, § 104(a)(4), substituted “Notwithstanding any change in the display of budget accounts, any order” for “Any order”.
+Subsec. (e). Pub. L. 100–119, § 104(a)(4), substituted “Notwithstanding any change in the display of budget accounts, any order” for “Any order”.
 
-Subsec. (*l*). Pub. L. 100–119, § 102(b)(3), amended subsec. (*l*) generally, striking out provisions which had created an “existing contract” exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violated the legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of this title, under an order issued under section 902 of this title.
+Subsec. (*l*). Pub. L. 100–119, § 102(b)(3), amended subsec. (*l*) generally, striking out provisions which had created an “existing contract” exception to the rule of obligated balances not being subject to reduction under an order issued under section 902 of this title, under which existing contracts in major functional category 050 (other than (A) those contracts which included a specified penalty for cancellation or modification by the Government and which if so cancelled or modified would have resulted (due to such penalty) in a net loss to the Government for the fiscal year, and (B) those contracts the reduction of which would have violated the legal obligations of the Government) were subject to reduction, in accordance with section 901(d)(3) of this title, under an order issued under section 902 of this title.
 
 1986—Subsec. (h)(2)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -3098,23 +3098,23 @@ Subsec. (*l*). Pub. L. 100–119, § 102(b)(3), amended subsec. (*l*) generall
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. E, title LVII, § 5701(b), Dec. 23, 2024, 138 Stat. 2461, provided that: “The amendments made by subsection (a) [amending and repealing provisions set out as notes below] shall apply as if enacted on the day before the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act (50 U.S.C. 1601 et seq.) terminates.”
+Pub. L. 118–159, div. E, title LVII, § 5701(b), Dec. 23, 2024, 138 Stat. 2461, provided that: “The amendments made by subsection (a) [amending and repealing provisions set out as notes below] shall apply as if enacted on the day before the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act (50 U.S.C. 1601 et seq.) terminates.”
 
 [The national emergency concerning the COVID–19 outbreak terminated on Apr. 10, 2023, see Pub. L. 118–3, set out as a note under section 1621 of Title 50, War and National Defense.]
 
 **Effective and Termination Dates of 2020 Amendment**
 
-Pub. L. 116–260, div. N, title II, § 235(b), Dec. 27, 2020, 134 Stat. 1959, as amended by Pub. L. 118–159, div. E, title LVII, § 5701(a)(1), Dec. 23, 2024, 138 Stat. 2461, provided that: “The treatment of payments made from the Railroad Unemployment Insurance Account pursuant to the amendment made by subsection (a) [amending this section] shall take effect 7 days after the date of enactment of the Continued Assistance to Rail Workers Act of 2020 [Dec. 27, 2020].”
+Pub. L. 116–260, div. N, title II, § 235(b), Dec. 27, 2020, 134 Stat. 1959, as amended by Pub. L. 118–159, div. E, title LVII, § 5701(a)(1), Dec. 23, 2024, 138 Stat. 2461, provided that: “The treatment of payments made from the Railroad Unemployment Insurance Account pursuant to the amendment made by subsection (a) [amending this section] shall take effect 7 days after the date of enactment of the Continued Assistance to Rail Workers Act of 2020 [Dec. 27, 2020].”
 
-Pub. L. 116–260, div. N, title II, § 235(c), Dec. 27, 2020, 134 Stat. 1959, which provided that the amendments made by section 235(a) of Pub. L. 116–260 to this section would be repealed 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act terminated, was repealed by Pub. L. 118–159, div. E, title LVII, § 5701(a)(2), Dec. 23, 2024, 138 Stat. 2461. See Effective Date of 2024 Amendment note above.
+Pub. L. 116–260, div. N, title II, § 235(c), Dec. 27, 2020, 134 Stat. 1959, which provided that the amendments made by section 235(a) of Pub. L. 116–260 to this section would be repealed 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act terminated, was repealed by Pub. L. 118–159, div. E, title LVII, § 5701(a)(2), Dec. 23, 2024, 138 Stat. 2461. See Effective Date of 2024 Amendment note above.
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title III, § 351, July 21, 2010, 124 Stat. 1546, provided that: “Except as provided in section 364(a) [amending section 1438 of Title 12, Banks and Banking, and enacting provisions set out as a note under section 1438 of Title 12], the amendments made by this subtitle [subtitle E (§§ 351–378) of title III of Pub. L. 111–203, see Tables for classification] shall take effect on the transfer date.”
+Pub. L. 111–203, title III, § 351, July 21, 2010, 124 Stat. 1546, provided that: “Except as provided in section 364(a) [amending section 1438 of Title 12, Banks and Banking, and enacting provisions set out as a note under section 1438 of Title 12], the amendments made by this subtitle [subtitle E (§§ 351–378) of title III of Pub. L. 111–203, see Tables for classification] shall take effect on the transfer date.”
 
 [For definition of “transfer date” as used in section 351 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.]
 
@@ -3124,9 +3124,9 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
-### § 907. The baseline
+### § 907. The baseline
 
 **(a) In general**
 
@@ -3190,7 +3190,7 @@ In deriving the baseline for any budget year or outyear, current-year amounts sh
 
 Amounts realized from the sale of an asset shall not be included in estimates under section 901, 902, or 903 of this title if that sale would result in a financial cost to the Federal Government as determined pursuant to scorekeeping guidelines.
 
-(Pub. L. 99–177, title II, § 257, formerly §§ 251(a)(6)(I), 257, Dec. 12, 1985, 99 Stat. 1092; Pub. L. 100–119, title I, §§ 102(a), (b)(4)–(8), 104(c)(2), 106(b), Sept. 29, 1987, 101 Stat. 754, 773, 774, 777, 780; renumbered § 257 and amended Pub. L. 101–508, title XIII, § 13101(b), (e)(1), (2), Nov. 5, 1990, 104 Stat. 1388–589, 1388–591, 1388–593; Pub. L. 105–33, title X, § 10209(a), Aug. 5, 1997, 111 Stat. 710; Pub. L. 113–67, div. A, title I, § 121(9), Dec. 26, 2013, 127 Stat. 1175.)
+(Pub. L. 99–177, title II, § 257, formerly §§ 251(a)(6)(I), 257, Dec. 12, 1985, 99 Stat. 1092; Pub. L. 100–119, title I, §§ 102(a), (b)(4)–(8), 104(c)(2), 106(b), Sept. 29, 1987, 101 Stat. 754, 773, 774, 777, 780; renumbered § 257 and amended Pub. L. 101–508, title XIII, § 13101(b), (e)(1), (2), Nov. 5, 1990, 104 Stat. 1388–589, 1388–591, 1388–593; Pub. L. 105–33, title X, § 10209(a), Aug. 5, 1997, 111 Stat. 710; Pub. L. 113–67, div. A, title I, § 121(9), Dec. 26, 2013, 127 Stat. 1175.)
 
 **Editorial Notes**
 
@@ -3200,29 +3200,29 @@ This Act, referred to in subsec. (b)(3), means Pub. L. 99–177, Dec. 12, 1985, 
 
 **Codification**
 
-Pub. L. 101–508, § 13101(b), redesignated former par. (12) of this section as section 250(c)(21) (now 250(c)(19)) of Pub. L. 99–177, which is classified to section 900(c)(19) of this title.
+Pub. L. 101–508, § 13101(b), redesignated former par. (12) of this section as section 250(c)(21) (now 250(c)(19)) of Pub. L. 99–177, which is classified to section 900(c)(19) of this title.
 
-Pub. L. 101–508, § 13101(e)(2), transferred section 251(a)(6)(I) of Pub. L. 99–177, which was classified to section 901(a)(6)(I) of this title, to subsec. (e) of this section.
+Pub. L. 101–508, § 13101(e)(2), transferred section 251(a)(6)(I) of Pub. L. 99–177, which was classified to section 901(a)(6)(I) of this title, to subsec. (e) of this section.
 
 **Amendments**
 
 2013—Subsec. (b)(2)(A)(i). Pub. L. 113–67 substituted “differences” for “differenes”.
 
-1997—Subsec. (b)(2)(A). Pub. L. 105–33, § 10209(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.”
+1997—Subsec. (b)(2)(A). Pub. L. 105–33, § 10209(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “No program with estimated current-year outlays greater than $50 million shall be assumed to expire in the budget year or outyears.”
 
-Subsec. (b)(2)(D). Pub. L. 105–33, § 10209(a)(2), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 105–33, § 10209(a)(2), added subpar. (D).
 
-Subsec. (c)(5). Pub. L. 105–33, § 10209(a)(3), substituted “domestic product chain-type price index” for “national product fixed-weight price index”.
+Subsec. (c)(5). Pub. L. 105–33, § 10209(a)(3), substituted “domestic product chain-type price index” for “national product fixed-weight price index”.
 
-Subsec. (e). Pub. L. 105–33, § 10209(a)(4), added subsec. (e) and struck out former subsec. (e) which read as follows: “The sale of an asset or prepayment of a loan shall not alter the deficit or produce any net deficit reduction in the budget baseline, except that the budget baseline estimate shall include asset sales mandated by law before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986;”.
+Subsec. (e). Pub. L. 105–33, § 10209(a)(4), added subsec. (e) and struck out former subsec. (e) which read as follows: “The sale of an asset or prepayment of a loan shall not alter the deficit or produce any net deficit reduction in the budget baseline, except that the budget baseline estimate shall include asset sales mandated by law before September 18, 1987, and routine, ongoing asset sales and loan prepayments at levels consistent with agency operations in fiscal year 1986;”.
 
-1990—Pub. L. 101–508, § 13101(e)(1), amended section generally, substituting provisions relating to baseline for provisions relating to definitions.
+1990—Pub. L. 101–508, § 13101(e)(1), amended section generally, substituting provisions relating to baseline for provisions relating to definitions.
 
-Subsec. (e). Pub. L. 101–508, § 13101(e)(2), redesignated section 901(a)(6)(I) of this title as subsec. (e) of this section, and substituted “The” for “assuming, for purposes of this paragraph and subparagraph (A)(i) of paragraph (3), that the”.
+Subsec. (e). Pub. L. 101–508, § 13101(e)(2), redesignated section 901(a)(6)(I) of this title as subsec. (e) of this section, and substituted “The” for “assuming, for purposes of this paragraph and subparagraph (A)(i) of paragraph (3), that the”.
 
-1987—Pub. L. 100–119, § 102(a), amended section 901 of this title generally, adding subsec. (a)(6)(I). See 1990 Amendment note above.
+1987—Pub. L. 100–119, § 102(a), amended section 901 of this title generally, adding subsec. (a)(6)(I). See 1990 Amendment note above.
 
-Par. (1). Pub. L. 100–119, § 104(c)(2), struck out provisions of former subpar. (A) that “automatic spending increase” meant increases in budget outlays due to changes in indexes in the following Federal programs:
+Par. (1). Pub. L. 100–119, § 104(c)(2), struck out provisions of former subpar. (A) that “automatic spending increase” meant increases in budget outlays due to changes in indexes in the following Federal programs:
 
 “Black lung benefits (20-8144-0-7-601);
 
@@ -3256,31 +3256,31 @@ Par. (1). Pub. L. 100–119, § 104(c)(2), struck out provisions of former sub
 
 “Tax Court judges survivors annuity fund (23-8115-0-7-602).”
 
-Par. (7). Pub. L. 100–119, § 102(b)(4), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The terms ‘sequester’ and ‘sequestration’ (subject to section 902(a)(4) of this title) refer to or mean the cancellation of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, and spending authority as defined in section 651(c)(2) of this title, and the reduction of obligation limitations.”
+Par. (7). Pub. L. 100–119, § 102(b)(4), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The terms ‘sequester’ and ‘sequestration’ (subject to section 902(a)(4) of this title) refer to or mean the cancellation of new budget authority, unobligated balances, obligated balances, new loan guarantee commitments, new direct loan obligations, and spending authority as defined in section 651(c)(2) of this title, and the reduction of obligation limitations.”
 
-Par. (9). Pub. L. 100–119, § 102(b)(5), added par. (9).
+Par. (9). Pub. L. 100–119, § 102(b)(5), added par. (9).
 
-Par. (10). Pub. L. 100–119, § 106(b), added par. (10).
+Par. (10). Pub. L. 100–119, § 106(b), added par. (10).
 
-Par. (11). Pub. L. 100–119, § 102(b)(6), added par. (11).
+Par. (11). Pub. L. 100–119, § 102(b)(6), added par. (11).
 
-Par. (12). Pub. L. 100–119, § 102(b)(7), added par. (12).
+Par. (12). Pub. L. 100–119, § 102(b)(7), added par. (12).
 
-Pars. (13), (14). Pub. L. 100–119, § 102(b)(8), added pars. (13) and (14).
+Pars. (13), (14). Pub. L. 100–119, § 102(b)(8), added pars. (13) and (14).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Definition of Terms Used in Balanced Budget and Emergency Deficit Control Act of 1985**
 
-Pub. L. 101–163, title III, § 315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended [see Short Title note set out under section 900 of this title], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shall each be considered to be one appropriation account and one ‘program, project, and activity’.”
+Pub. L. 101–163, title III, § 315, Nov. 21, 1989, 103 Stat. 1066, provided that: “Effective in the case of this Act and any subsequent Act making appropriations for the Legislative Branch, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended [see Short Title note set out under section 900 of this title], or any other Act which requires a uniform percentage reduction in accounts in this Act and any subsequent Act making appropriations for the Legislative Branch, the accounts under the general heading ‘Senate’, and the accounts under the general heading ‘House of Representatives’, shall each be considered to be one appropriation account and one ‘program, project, and activity’.”
 
-Pub. L. 100–202, § 101(i) [title III, § 306], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, provided that: “Hereafter, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended [see Short Title note set out under section 900 of this title], the term ‘program, project, and activity’ shall be synonymous with each appropriation account in this Act [see Tables for classification], except that the accounts under the general heading ‘House of Representatives’ shall be considered one appropriation account and one ‘program, project, and activity’, and the accounts under the general heading ‘Senate’ shall be considered one appropriation account and one ‘program, project, and activity’.”
+Pub. L. 100–202, § 101(i) [title III, § 306], Dec. 22, 1987, 101 Stat. 1329–290, 1329–309, provided that: “Hereafter, for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177), as amended [see Short Title note set out under section 900 of this title], the term ‘program, project, and activity’ shall be synonymous with each appropriation account in this Act [see Tables for classification], except that the accounts under the general heading ‘House of Representatives’ shall be considered one appropriation account and one ‘program, project, and activity’, and the accounts under the general heading ‘Senate’ shall be considered one appropriation account and one ‘program, project, and activity’.”
 
 **Cost-of-Living Adjustments in Certain Federal Benefits**
 
-Pub. L. 99–509, title VII, § 7001, Oct. 21, 1986, 100 Stat. 1948, provided that benefits payable in calendar years 1987 to 1991 under programs listed in this section, including any cost-of-living adjustments, were not subject to modification, suspension, or reduction in such calendar years pursuant to a Presidential order.
+Pub. L. 99–509, title VII, § 7001, Oct. 21, 1986, 100 Stat. 1948, provided that benefits payable in calendar years 1987 to 1991 under programs listed in this section, including any cost-of-living adjustments, were not subject to modification, suspension, or reduction in such calendar years pursuant to a Presidential order.
 
-### § 907a. Suspension in event of war or low growth
+### § 907a. Suspension in event of war or low growth
 
 **(a) Procedures in event of low-growth report**
 
@@ -3288,13 +3288,13 @@ Pub. L. 99–509, title VII, § 7001, Oct. 21, 1986, 100 Stat. 1948, provided 
 
 Whenever CBO issues a low-growth report under section 254(i) [2 U.S.C. 904(i)], the Majority Leader of the House of Representatives may, and the Majority Leader of the Senate shall, introduce a joint resolution (in the form set forth in paragraph (2)) declaring that the conditions specified in section 254(i) are met and suspending the relevant provisions of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-titles III and VI 1 of the Congressional Budget Act of 1974 [2 U.S.C. 631 et seq.], and section 1103 of title 31.
+titles III and VI 1 of the Congressional Budget Act of 1974 [2 U.S.C. 631 et seq.], and section 1103 of title 31.
 
 **(2) Form of joint resolution**
 
-**(A)** The matter after the resolving clause in any joint resolution introduced pursuant to paragraph (1) shall be as follows: “That the Congress declares that the conditions specified in section 254(j) <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985 are met, and the implementation of the Congressional Budget and Impoundment Control Act of 1974, chapter 11 of title 31, United States Code, and part C of the Balanced Budget and Emergency Deficit Control Act of 1985 are modified as described in section 258(b) of the Balanced Budget and Emergency Deficit Control Act of 1985.”
+**(A)** The matter after the resolving clause in any joint resolution introduced pursuant to paragraph (1) shall be as follows: “That the Congress declares that the conditions specified in section 254(j) <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985 are met, and the implementation of the Congressional Budget and Impoundment Control Act of 1974, chapter 11 of title 31, United States Code, and part C of the Balanced Budget and Emergency Deficit Control Act of 1985 are modified as described in section 258(b) of the Balanced Budget and Emergency Deficit Control Act of 1985.”
 
 **(B)** The title of the joint resolution shall be “Joint resolution suspending certain provisions of law pursuant to section 258(a)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985.”; and the joint resolution shall not contain any preamble.
 
@@ -3328,7 +3328,7 @@ When the joint resolution is agreed to, the Clerk of the House of Representative
 
 **(1)** the subsequent issuance of any sequestration report or any sequestration order is precluded;
 
-**(2)** sections 302(f), 310(d), 311(a), and title VI <sup>1</sup> of the Congressional Budget Act of 1974 [2 U.S.C. 633(f), 641(d), 642(a)] are suspended; and
+**(2)** sections 302(f), 310(d), 311(a), and title VI <sup>1</sup> of the Congressional Budget Act of 1974 [2 U.S.C. 633(f), 641(d), 642(a)] are suspended; and
 
 **(3)** section 1103 of title 31 is suspended.
 
@@ -3338,17 +3338,17 @@ When the joint resolution is agreed to, the Clerk of the House of Representative
 
 **(2)** In the event of a suspension of sequestration procedures due to the enactment of a joint resolution described in subsection (a), then, effective with regard to the first fiscal year beginning at least 12 months after the enactment of that resolution, the provisions of subsection (b) triggered by that resolution are no longer effective.
 
-(Pub. L. 99–177, title II, § 258, as added Pub. L. 101–508, title XIII, § 13101(f), Nov. 5, 1990, 104 Stat. 1388–593; amended Pub. L. 113–67, div. A, title I, § 121(10), Dec. 26, 2013, 127 Stat. 1175.)
+(Pub. L. 99–177, title II, § 258, as added Pub. L. 101–508, title XIII, § 13101(f), Nov. 5, 1990, 104 Stat. 1388–593; amended Pub. L. 113–67, div. A, title I, § 121(10), Dec. 26, 2013, 127 Stat. 1175.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsec. (a)(1), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+This title, referred to in subsec. (a)(1), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
-The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Title III of the Act is classified generally to subchapter I (§ 631 et seq.) of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§ 665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Title III of the Act is classified generally to subchapter I (§ 631 et seq.) of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§ 665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
-Section 254(j) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is section 254(j) of Pub. L. 99–177, which was redesignated section 254(i) of that Act by Pub. L. 105–33, title X, § 10206(1), Aug. 5, 1997, 111 Stat. 704, and is classified to section 904(i) of this title.
+Section 254(j) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is section 254(j) of Pub. L. 99–177, which was redesignated section 254(i) of that Act by Pub. L. 105–33, title X, § 10206(1), Aug. 5, 1997, 111 Stat. 704, and is classified to section 904(i) of this title.
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(2)(A), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
@@ -3356,13 +3356,13 @@ Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referre
 
 **Prior Provisions**
 
-A prior section 258 of Pub. L. 99–177 was classified to section 908 of this title prior to repeal by Pub. L. 105–33, title X, § 10210, Aug. 5, 1997, 111 Stat. 711.
+A prior section 258 of Pub. L. 99–177 was classified to section 908 of this title prior to repeal by Pub. L. 105–33, title X, § 10210, Aug. 5, 1997, 111 Stat. 711.
 
 **Amendments**
 
 2013—Subsec. (a)(1). Pub. L. 113–67, which directed substitution of “section 254(i)” for “section 254(j)”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-### § 907b. Modification of Presidential order
+### § 907b. Modification of Presidential order
 
 **(a) Introduction of joint resolution**
 
@@ -3400,9 +3400,9 @@ Appeals from the decisions of the Chair shall be decided without debate.
 
 **(6) Conference reports**
 
-In the Senate, points of order under titles III, IV, and VI 1
+In the Senate, points of order under titles III, IV, and VI 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Congressional Budget Act of 1974 [2 U.S.C. 631 et seq., 651 et seq.] are applicable to a conference report on the joint resolution or any amendments in disagreement thereto.
 
@@ -3426,15 +3426,15 @@ of the Congressional Budget Act of 1974 [2 U.S.C. 631 et seq., 651 et seq.] are 
 
 If the Senate receives from the House of Representatives a joint resolution introduced under subsection (a) after the Senate has disposed of a Senate originated resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
 
-(Pub. L. 99–177, title II, § 258A, as added Pub. L. 101–508, title XIII, § 13101(f), Nov. 5, 1990, 104 Stat. 1388–595.)
+(Pub. L. 99–177, title II, § 258A, as added Pub. L. 101–508, title XIII, § 13101(f), Nov. 5, 1990, 104 Stat. 1388–595.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Titles III and IV of the Act are classified generally to subchapters I (§ 631 et seq.) and II (§ 651 et seq.), respectively, of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§ 665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (b)(6), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Titles III and IV of the Act are classified generally to subchapters I (§ 631 et seq.) and II (§ 651 et seq.), respectively, of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§ 665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, § 10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
-### § 907c. Flexibility among defense programs, projects, and activities
+### § 907c. Flexibility among defense programs, projects, and activities
 
 **(a) Reductions beyond amount specified in Presidential order**
 
@@ -3444,9 +3444,9 @@ Subject to subsections (b), (c), and (d), new budget authority and unobligated b
 
 No actions taken by the President under subsection (a) for a fiscal year may result in a domestic base closure or realignment that would otherwise be subject to section 2687 of title 10.
 
-**(c) Report and joint resolution required** The President may not exercise the authority provided by this paragraph 1
+**(c) Report and joint resolution required** The President may not exercise the authority provided by this paragraph 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 for a fiscal year unless—
 
@@ -3454,7 +3454,7 @@ for a fiscal year unless—
 
 **(2)** that report is submitted within 5 calendar days of the start of the next session of Congress; and
 
-**(3)** a joint resolution affirming or modifying the changes proposed by the President pursuant to this paragraph <sup>1</sup> becomes law.
+**(3)** a joint resolution affirming or modifying the changes proposed by the President pursuant to this paragraph <sup>1</sup> becomes law.
 
 **(d) Introduction of joint resolution**
 
@@ -3522,7 +3522,7 @@ In the Senate, points of order under titles III and IV of the Congressional Budg
 
 If the Senate receives from the House of Representatives a joint resolution introduced under subsection (d) after the Senate has disposed of a Senate originated joint resolution which is identical to the House passed joint resolution, the action of the Senate with regard to the disposition of the Senate originated joint resolution shall be deemed to be the action of the Senate with regard to the House originated joint resolution. If it is not identical to the House passed joint resolution, then the Senate shall be considered to have passed the joint resolution of the House as amended by the text of the Senate joint resolution.
 
-(Pub. L. 99–177, title II, § 258B, as added Pub. L. 101–508, title XIII, § 13101(g), Nov. 5, 1990, 104 Stat. 1388–597.)
+(Pub. L. 99–177, title II, § 258B, as added Pub. L. 101–508, title XIII, § 13101(g), Nov. 5, 1990, 104 Stat. 1388–597.)
 
 **Editorial Notes**
 
@@ -3530,9 +3530,9 @@ If the Senate receives from the House of Representatives a joint resolution intr
 
 Section 258B, referred to in subsec. (e)(1), (2), means section 258B of Pub. L. 99–177, which is classified to this section.
 
-The Congressional Budget Act of 1974, referred to in subsec. (k), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Titles III and IV of the Act are classified generally to subchapters I (§ 631 et seq.) and II (§ 651 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (k), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Titles III and IV of the Act are classified generally to subchapters I (§ 631 et seq.) and II (§ 651 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
-### § 907d. Special reconciliation process
+### § 907d. Special reconciliation process
 
 **(a) Reporting of resolutions and reconciliation bills and resolutions, in Senate**
 
@@ -3592,27 +3592,27 @@ Any bill or resolution received in the Senate from the House, which is a compani
 
 For purposes of this subsection, the term “resolution” means a simple, joint, or concurrent resolution.
 
-(Pub. L. 99–177, title II, § 258C, as added Pub. L. 101–508, title XIII, § 13101(g), Nov. 5, 1990, 104 Stat. 1388–600.)
+(Pub. L. 99–177, title II, § 258C, as added Pub. L. 101–508, title XIII, § 13101(g), Nov. 5, 1990, 104 Stat. 1388–600.)
 
-### § 908. Repealed. Pub. L. 105–33, title X, § 10210, Aug. 5, 1997, 111 Stat. 711
+### § 908. Repealed. Pub. L. 105–33, title X, § 10210, Aug. 5, 1997, 111 Stat. 711
 
-Section, Pub. L. 99–177, title II, § 258, as added Pub. L. 100–119, title I, § 105(a), Sept. 29, 1987, 101 Stat. 778, related to modification of Presidential order.
+Section, Pub. L. 99–177, title II, § 258, as added Pub. L. 100–119, title I, § 105(a), Sept. 29, 1987, 101 Stat. 778, related to modification of Presidential order.
 
-### § 909. Repealed. Pub. L. 101–508, title XIII, § 13212, Nov. 5, 1990, 104 Stat. 1388–621
+### § 909. Repealed. Pub. L. 101–508, title XIII, § 13212, Nov. 5, 1990, 104 Stat. 1388–621
 
-Section, Pub. L. 100–119, title II, § 202, Sept. 29, 1987, 101 Stat. 784, prohibited counting as savings transfer of Government actions from one year to another.
+Section, Pub. L. 100–119, title II, § 202, Sept. 29, 1987, 101 Stat. 784, prohibited counting as savings transfer of Government actions from one year to another.
 
 ## SUBCHAPTER II—OPERATION AND REVIEW
 
-### § 921. Transferred
+### § 921. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 99–177, title II, § 273, Dec. 12, 1985, 99 Stat. 1098, which related to revenue estimates, was redesignated as section 201(g) of Pub. L. 93–344 by section 13202(b) of Pub. L. 101–508 and is classified to section 601(f) of this title.
+Section, Pub. L. 99–177, title II, § 273, Dec. 12, 1985, 99 Stat. 1098, which related to revenue estimates, was redesignated as section 201(g) of Pub. L. 93–344 by section 13202(b) of Pub. L. 101–508 and is classified to section 601(f) of this title.
 
-### § 922. Judicial review
+### § 922. Judicial review
 
 **(a) Expedited review**
 
@@ -3620,7 +3620,7 @@ Section, Pub. L. 99–177, title II, § 273, Dec. 12, 1985, 99 Stat. 1098, whi
 
 **(2)** Any Member of Congress, or any other person adversely affected by any action taken under this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 may bring an action, in the United States District Court for the District of Columbia, for declaratory judgment and injunctive relief concerning the constitutionality of this title.1
 
@@ -3644,7 +3644,7 @@ It shall be the duty of the District Court for the District of Columbia and the 
 
 **(1)** If it is finally determined by a court of competent jurisdiction that an order issued by the President under section 904 of this title for any fiscal year—
 
-**(A)** does not reduce automatic spending increases under any program specified in section 906(a) <sup>1</sup> of this title if such increases are required to be reduced by subchapter I of this chapter (or reduces such increases by a greater extent than is so required), or
+**(A)** does not reduce automatic spending increases under any program specified in section 906(a) <sup>1</sup> of this title if such increases are required to be reduced by subchapter I of this chapter (or reduces such increases by a greater extent than is so required), or
 
 **(B)** does not sequester the amount of budgetary resources which is required to be sequestered by such subchapter (or sequesters more than that amount) with respect to any program, project, activity, or account,
 
@@ -3672,44 +3672,44 @@ The rights created by this section are in addition to the rights of any person u
 
 The economic data and economic assumptions used by the Director of OMB in computing the figures specified in any report issued by the Director of OMB under section 904 of this title, shall not be subject to review in any judicial or administrative proceeding.
 
-(Pub. L. 99–177, title II, § 274, Dec. 12, 1985, 99 Stat. 1098; Pub. L. 100–119, title I, § 102(b)(9), (10), Sept. 29, 1987, 101 Stat. 774, 775; Pub. L. 105–33, title X, § 10211, Aug. 5, 1997, 111 Stat. 711.)
+(Pub. L. 99–177, title II, § 274, Dec. 12, 1985, 99 Stat. 1098; Pub. L. 100–119, title I, § 102(b)(9), (10), Sept. 29, 1987, 101 Stat. 774, 775; Pub. L. 105–33, title X, § 10211, Aug. 5, 1997, 111 Stat. 711.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This title, referred to in subsec. (a)(2), (3), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+This title, referred to in subsec. (a)(2), (3), means title II (§ 200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
 Section 906(a) of this title, referred to in subsec. (d)(1)(A), was repealed by Pub. L. 111–139, title I, §10(a), Feb. 12, 2010, 124 Stat. 21.
 
 **Amendments**
 
-1997—Subsec. (a)(1), (3). Pub. L. 105–33, § 10211(1), substituted “section 904” for “section 902”.
+1997—Subsec. (a)(1), (3). Pub. L. 105–33, § 10211(1), substituted “section 904” for “section 902”.
 
-Subsec. (d)(1). Pub. L. 105–33, § 10211(1), substituted “section 904” for “section 902(b)” in introductory provisions.
+Subsec. (d)(1). Pub. L. 105–33, § 10211(1), substituted “section 904” for “section 902(b)” in introductory provisions.
 
-Subsec. (d)(1)(A). Pub. L. 105–33, § 10211(2), substituted “906(a) of this title if” for “907(1) of this title to the extent that” and inserted “or” at end.
+Subsec. (d)(1)(A). Pub. L. 105–33, § 10211(2), substituted “906(a) of this title if” for “907(1) of this title to the extent that” and inserted “or” at end.
 
-Subsec. (d)(1)(B). Pub. L. 105–33, § 10211(3), substituted “budgetary resources” for “new budget authority, new loan guarantee commitments, new direct loan obligations, or spending authority”. Directory language directing the striking of “or” after the comma was executed by striking “or” after “account,” and not after “activity,” to reflect the probable intent of Congress.
+Subsec. (d)(1)(B). Pub. L. 105–33, § 10211(3), substituted “budgetary resources” for “new budget authority, new loan guarantee commitments, new direct loan obligations, or spending authority”. Directory language directing the striking of “or” after the comma was executed by striking “or” after “account,” and not after “activity,” to reflect the probable intent of Congress.
 
-Subsec. (d)(1)(C). Pub. L. 105–33, § 10211(4), struck out subpar. (C) which read as follows: “does not reduce obligation limitations by the amount by which such limitations are required to be reduced under subchapter I of this chapter (or reduces such limitations by more than that amount) with respect to any program, project, activity, or account,”.
+Subsec. (d)(1)(C). Pub. L. 105–33, § 10211(4), struck out subpar. (C) which read as follows: “does not reduce obligation limitations by the amount by which such limitations are required to be reduced under subchapter I of this chapter (or reduces such limitations by more than that amount) with respect to any program, project, activity, or account,”.
 
-Subsec. (d)(2). Pub. L. 105–33, § 10211(1), substituted “section 904” for “section 902(b)” in introductory and concluding provisions.
+Subsec. (d)(2). Pub. L. 105–33, § 10211(1), substituted “section 904” for “section 902(b)” in introductory and concluding provisions.
 
-Subsec. (e). Pub. L. 105–33, § 10211(1), substituted “section 904” for “section 902”.
+Subsec. (e). Pub. L. 105–33, § 10211(1), substituted “section 904” for “section 902”.
 
-Subsec. (f). Pub. L. 105–33, § 10211(5), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f) consisting of pars. (1) to (5) relating to alternative procedures for joint reports of directors.
+Subsec. (f). Pub. L. 105–33, § 10211(5), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f) consisting of pars. (1) to (5) relating to alternative procedures for joint reports of directors.
 
-Subsec. (g). Pub. L. 105–33, § 10211(6), substituted “figures” for “base levels of total revenues and total budget outlays, as” and “section 904 of this title” for “section 901(a)(2)(B) or (c)(2) of this title,”.
+Subsec. (g). Pub. L. 105–33, § 10211(6), substituted “figures” for “base levels of total revenues and total budget outlays, as” and “section 904 of this title” for “section 901(a)(2)(B) or (c)(2) of this title,”.
 
-Pub. L. 105–33, § 10211(5), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+Pub. L. 105–33, § 10211(5), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-Subsec. (h). Pub. L. 105–33, § 10211(5), redesignated subsec. (h) as (g).
+Subsec. (h). Pub. L. 105–33, § 10211(5), redesignated subsec. (h) as (g).
 
-1987—Subsec. (f)(1). Pub. L. 100–119, § 102(b)(9)(A), added par. (1) and struck out former par. (1) which read as follows: “In the event that any of the reporting procedures described in section 901 of this title are invalidated, then any report of the Directors referred to in section 901(a) or (c)(1) of this title shall be transmitted to the joint committee established under this subsection.”
+1987—Subsec. (f)(1). Pub. L. 100–119, § 102(b)(9)(A), added par. (1) and struck out former par. (1) which read as follows: “In the event that any of the reporting procedures described in section 901 of this title are invalidated, then any report of the Directors referred to in section 901(a) or (c)(1) of this title shall be transmitted to the joint committee established under this subsection.”
 
-Subsec. (f)(2), (3). Pub. L. 100–119, § 102(b)(9)(B), substituted “Director of CBO” for “Directors” wherever appearing.
+Subsec. (f)(2), (3). Pub. L. 100–119, § 102(b)(9)(B), substituted “Director of CBO” for “Directors” wherever appearing.
 
-Subsec. (f)(5). Pub. L. 100–119, § 102(b)(9)(C), substituted “section 901(a)(2)(B) or (c)(2)” for “section 901(b) or (c)(2)”.
+Subsec. (f)(5). Pub. L. 100–119, § 102(b)(9)(C), substituted “section 901(a)(2)(B) or (c)(2)” for “section 901(b) or (c)(2)”.
 
-Subsec. (h). Pub. L. 100–119, § 102(b)(10), substituted “and economic assumptions” for “, assumptions, and methodologies”, “Director of OMB” for “Comptroller General” in two places, and “section 901(a)(2)(B)” for “section 901(b)”.
+Subsec. (h). Pub. L. 100–119, § 102(b)(10), substituted “and economic assumptions” for “, assumptions, and methodologies”, “Director of OMB” for “Comptroller General” in two places, and “section 901(a)(2)(B)” for “section 901(b)”.

@@ -19,37 +19,37 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XVI, § 1603, Dec. 18, 2025, 139 Stat. 1175, added item 2275d. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title XVI, § 1603, Dec. 18, 2025, 139 Stat. 1175, added item 2275d. Amendment was made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title XVI, §§ 1601(a), 1603, Dec. 23, 2024, 138 Stat. 2157, 2160, added items 2271a and 2275c and struck out item 2275 “Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs”. Amendments were made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title XVI, §§ 1601(a), 1603, Dec. 23, 2024, 138 Stat. 2157, 2160, added items 2271a and 2275c and struck out item 2275 “Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs”. Amendments were made pursuant to operation of section 102 of this title.
 
-2023—Pub. L. 118–31, div. A, title XVI, §§ 1602, 1603, Dec. 22, 2023, 137 Stat. 584, added items 2275b and 2276a. Amendments were made pursuant to operation of section 102 of this title.
+2023—Pub. L. 118–31, div. A, title XVI, §§ 1602, 1603, Dec. 22, 2023, 137 Stat. 584, added items 2275b and 2276a. Amendments were made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title XVI, § 1601, Dec. 23, 2022, 136 Stat. 2929, added item 2275a.
+2022—Pub. L. 117–263, div. A, title XVI, § 1601, Dec. 23, 2022, 136 Stat. 2929, added item 2275a.
 
-2021—Pub. L. 117–81, div. A, title XVI, § 1601(a)(2), Dec. 27, 2021, 135 Stat. 2073, added item 2277.
+2021—Pub. L. 117–81, div. A, title XVI, § 1601(a)(2), Dec. 27, 2021, 135 Stat. 2073, added item 2277.
 
-Pub. L. 116–283, div. A, title X, § 1081(a)(35), Jan. 1, 2021, 134 Stat. 3872, struck out item 2279c “Air Force Space Command”.
+Pub. L. 116–283, div. A, title X, § 1081(a)(35), Jan. 1, 2021, 134 Stat. 3872, struck out item 2279c “Air Force Space Command”.
 
-2018—Pub. L. 115–232, div. A, title X, § 1081(a)(18)(B), Aug. 13, 2018, 132 Stat. 1984, added item 2279d.
+2018—Pub. L. 115–232, div. A, title X, § 1081(a)(18)(B), Aug. 13, 2018, 132 Stat. 1984, added item 2279d.
 
-2017—Pub. L. 115–91, div. A, title X, § 1051(a)(13)(B), title XVI, §§ 1601(a)(2), (b)(2)(B), (b)(2), 1603(d)(2), Dec. 12, 2017, 131 Stat. 1561, 1719, 1720, 1723, added item 2279c, substituted “Space Rapid Capabilities Office” for “Operationally Responsive Space Program Office” in item 2273a and “Foreign commercial satellite services and foreign launches” for “Foreign commercial satellite services” in item 2279, and struck out items 2277 “Report on foreign counter-space programs” and 2279a “Principal Advisor on Space Control”.
+2017—Pub. L. 115–91, div. A, title X, § 1051(a)(13)(B), title XVI, §§ 1601(a)(2), (b)(2)(B), (b)(2), 1603(d)(2), Dec. 12, 2017, 131 Stat. 1561, 1719, 1720, 1723, added item 2279c, substituted “Space Rapid Capabilities Office” for “Operationally Responsive Space Program Office” in item 2273a and “Foreign commercial satellite services and foreign launches” for “Foreign commercial satellite services” in item 2279, and struck out items 2277 “Report on foreign counter-space programs” and 2279a “Principal Advisor on Space Control”.
 
-2015—Pub. L. 114–92, div. A, title XVI, §§ 1602(b), 1603(b), Nov. 25, 2015, 129 Stat. 1096, 1098, added items 2279a and 2279b.
+2015—Pub. L. 114–92, div. A, title XVI, §§ 1602(b), 1603(b), Nov. 25, 2015, 129 Stat. 1096, 1098, added items 2279a and 2279b.
 
-2013—Pub. L. 113–66, div. A, title IX, § 911(b), title XVI, § 1602(a)(2), Dec. 26, 2013, 127 Stat. 823, 942, added items 2278 and 2279.
+2013—Pub. L. 113–66, div. A, title IX, § 911(b), title XVI, § 1602(a)(2), Dec. 26, 2013, 127 Stat. 823, 942, added items 2278 and 2279.
 
-Pub. L. 112–239, div. A, title IX, §§ 911(b), 912(b), 913(c)(2), Jan. 2, 2013, 126 Stat. 1872, 1874, 1876, added items 2275 to 2277.
+Pub. L. 112–239, div. A, title IX, §§ 911(b), 912(b), 913(c)(2), Jan. 2, 2013, 126 Stat. 1872, 1874, 1876, added items 2275 to 2277.
 
-2009—Pub. L. 111–84, div. A, title IX, § 912(b), Oct. 28, 2009, 123 Stat. 2431, added item 2274 and struck out former item 2274 “Space surveillance network: pilot program for provision of satellite tracking support to entities outside United States Government”.
+2009—Pub. L. 111–84, div. A, title IX, § 912(b), Oct. 28, 2009, 123 Stat. 2431, added item 2274 and struck out former item 2274 “Space surveillance network: pilot program for provision of satellite tracking support to entities outside United States Government”.
 
-2006—Pub. L. 109–364, div. A, title IX, § 913(b)(2), Oct. 17, 2006, 120 Stat. 2357, substituted “Operationally Responsive Space Program Office” for “Operationally responsive national security payloads and buses: separate program element required” in item 2273a.
+2006—Pub. L. 109–364, div. A, title IX, § 913(b)(2), Oct. 17, 2006, 120 Stat. 2357, substituted “Operationally Responsive Space Program Office” for “Operationally responsive national security payloads and buses: separate program element required” in item 2273a.
 
-2004—Pub. L. 108–375, div. A, title IX, § 913(a)(2), Oct. 28, 2004, 118 Stat. 2028, added item 2273a.
+2004—Pub. L. 108–375, div. A, title IX, § 913(a)(2), Oct. 28, 2004, 118 Stat. 2028, added item 2273a.
 
-2003—Pub. L. 108–136, div. A, title IX, §§ 911(a)(2), 912(b), 913(b), Nov. 24, 2003, 117 Stat. 1564, 1565, 1567, added items 2272 to 2274.
+2003—Pub. L. 108–136, div. A, title IX, §§ 911(a)(2), 912(b), 913(b), Nov. 24, 2003, 117 Stat. 1564, 1565, 1567, added items 2272 to 2274.
 
-## § 2271. Management of space programs: joint program offices and officer management programs
+## § 2271. Management of space programs: joint program offices and officer management programs
 
 **(a) Joint Program Offices.—** The Secretary of Defense shall take appropriate actions to ensure, to the maximum extent practicable, that space development and acquisition programs of the Department of Defense are carried out through joint program offices.
 
@@ -63,23 +63,23 @@ Pub. L. 112–239, div. A, title IX, §§ 911(b), 912(b), 913(c)(2), Jan. 2, 2
 
 **(2)** The Secretary of Defense shall designate those positions in the Office of the National Security Space Architect of the Department of Defense (or any successor office) that qualify as joint duty assignment positions for purposes of chapter 38 of this title.
 
-(Added Pub. L. 107–107, div. A, title IX, § 911(a), Dec. 28, 2001, 115 Stat. 1195.)
+(Added Pub. L. 107–107, div. A, title IX, § 911(a), Dec. 28, 2001, 115 Stat. 1195.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to competitions for designs of aircraft, aircraft parts, and aeronautical accessories, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continuation of Operation of Defense Meteorological Satellite Program**
 
-Pub. L. 119–60, div. A, title XVI, § 1606, Dec. 18, 2025, 139 Stat. 1176, provided that: “The Secretary of Defense shall continue to operate the Defense Meteorological Satellite Program, and its existing functions and distribution capability, until the end of the functional life of the satellites in orbit as of the date of the enactment of this Act [Dec. 18, 2025] under such program.”
+Pub. L. 119–60, div. A, title XVI, § 1606, Dec. 18, 2025, 139 Stat. 1176, provided that: “The Secretary of Defense shall continue to operate the Defense Meteorological Satellite Program, and its existing functions and distribution capability, until the end of the functional life of the satellites in orbit as of the date of the enactment of this Act [Dec. 18, 2025] under such program.”
 
 **Study on Establishing a Tactical Surveillance, Reconnaissance, and Tracking Program of Record**
 
-Pub. L. 119–60, div. A, title XVI, § 1607, Dec. 18, 2025, 139 Stat. 1176, provided that:
+Pub. L. 119–60, div. A, title XVI, § 1607, Dec. 18, 2025, 139 Stat. 1176, provided that:
 
 > **“(a) Study.—** The Secretary of the Air Force, in coordination with the Under Secretary of Defense for Intelligence and Security, shall conduct a study on the feasibility and advisability of establishing a program of record for tactical surveillance, reconnaissance, and tracking capabilities within the Department of Defense.
 
@@ -115,7 +115,7 @@ Pub. L. 119–60, div. A, title XVI, § 1607, Dec. 18, 2025, 139 Stat. 1176, p
 
 **Use of Middle Tier Acquisition Program for Proliferated Warfighter Space Architecture of the Space Development Agency**
 
-Pub. L. 118–31, div. A, title XVI, § 1608, Dec. 22, 2023, 137 Stat. 587, as amended by Pub. L. 118–159, div. A, title VIII, § 804(c)(6), title XVII, § 1701(b), Dec. 23, 2024, 138 Stat. 1969, 2206; Pub. L. 119–60, div. A, title XVI, § 1604, Dec. 18, 2025, 139 Stat. 1176, provided that:
+Pub. L. 118–31, div. A, title XVI, § 1608, Dec. 22, 2023, 137 Stat. 587, as amended by Pub. L. 118–159, div. A, title VIII, § 804(c)(6), title XVII, § 1701(b), Dec. 23, 2024, 138 Stat. 1969, 2206; Pub. L. 119–60, div. A, title XVI, § 1604, Dec. 18, 2025, 139 Stat. 1176, provided that:
 
 > **“(a) In General.—** The Director of the Space Development Agency shall use a middle tier acquisition program for the rapid fielding of satellites and associated systems for each of the following tranches of the proliferated warfighter space architecture of the Agency:
 
@@ -153,7 +153,7 @@ Pub. L. 118–31, div. A, title XVI, § 1608, Dec. 22, 2023, 137 Stat. 587, as
 
 **Matters Relating to Space-Based Ground and Airborne Moving Target Indication Systems**
 
-Pub. L. 118–31, div. A, title XVI, § 1684, Dec. 22, 2023, 137 Stat. 618, as amended by Pub. L. 118–159, div. A, title XVI, § 1654, Dec. 23, 2024, 138 Stat. 2201; Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227, provided that:
+Pub. L. 118–31, div. A, title XVI, § 1684, Dec. 22, 2023, 137 Stat. 618, as amended by Pub. L. 118–159, div. A, title XVI, § 1654, Dec. 23, 2024, 138 Stat. 2201; Pub. L. 119–60, div. A, title XVIII, § 1802(b)(1)(A), Dec. 18, 2025, 139 Stat. 1227, provided that:
 
 > **“(a) In General.—** The Secretary of the Air Force shall be responsible for presenting space-based ground and airborne moving target indication systems to the combatant commands to accomplish missions assigned to such commands under the Unified Command Plan that—
 
@@ -217,7 +217,7 @@ Pub. L. 118–31, div. A, title XVI, § 1684, Dec. 22, 2023, 137 Stat. 618, as
 
 **Allied Responsive Space Capabilities**
 
-Pub. L. 117–263, div. A, title XVI, § 1606, Dec. 23, 2022, 136 Stat. 2931, provided that:
+Pub. L. 117–263, div. A, title XVI, § 1606, Dec. 23, 2022, 136 Stat. 2931, provided that:
 
 > **“(a) Initiatives.—** The Secretary of the Defense and the Secretary of State shall jointly ensure that responsive space capabilities of the Department of Defense align with initiatives by Five Eyes countries, member states of the North Atlantic Treaty Organization, and other allies to promote a globally responsive space architecture.
 
@@ -243,7 +243,7 @@ Pub. L. 117–263, div. A, title XVI, § 1606, Dec. 23, 2022, 136 Stat. 2931, 
 
 **Limitation on Use of Commercial Satellite Services and Associated Systems**
 
-Pub. L. 117–81, div. A, title XVI, § 1607(b), Dec. 27, 2021, 135 Stat. 2079, provided that:
+Pub. L. 117–81, div. A, title XVI, § 1607(b), Dec. 27, 2021, 135 Stat. 2079, provided that:
 
 > **“(1) In general.—** Except as provided by paragraph (2), the Secretary of Defense may not rely solely on the use of commercial satellite services and associated systems to carry out operational requirements, including command and control requirements, targeting requirements, or other requirements that are necessary to execute strategic and tactical operations.
 
@@ -251,7 +251,7 @@ Pub. L. 117–81, div. A, title XVI, § 1607(b), Dec. 27, 2021, 135 Stat. 2079
 
 **Classification Review of Programs of the Space Force**
 
-Pub. L. 117–81, div. A, title XVI, § 1609, Dec. 27, 2021, 135 Stat. 2081, provided that:
+Pub. L. 117–81, div. A, title XVI, § 1609, Dec. 27, 2021, 135 Stat. 2081, provided that:
 
 > **“(a) Classification Review.—** The Secretary of Defense shall—
 
@@ -273,7 +273,7 @@ Pub. L. 117–81, div. A, title XVI, § 1609, Dec. 27, 2021, 135 Stat. 2081, p
 
 **Space Policy Review**
 
-Pub. L. 117–81, div. A, title XVI, § 1611, Dec. 27, 2021, 135 Stat. 2081, as amended by Pub. L. 118–31, div. A, title XVI, § 1605, Dec. 22, 2023, 137 Stat. 586, provided that:
+Pub. L. 117–81, div. A, title XVI, § 1611, Dec. 27, 2021, 135 Stat. 2081, as amended by Pub. L. 118–31, div. A, title XVI, § 1605, Dec. 22, 2023, 137 Stat. 586, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in consultation with the Director of National Intelligence, shall carry out a review of the space policy of the Department of Defense.
 
@@ -315,7 +315,7 @@ Pub. L. 117–81, div. A, title XVI, § 1611, Dec. 27, 2021, 135 Stat. 2081, a
 
 **Commercial Space Domain Awareness Capabilities**
 
-Pub. L. 116–283, div. A, title XVI, § 1607, Jan. 1, 2021, 134 Stat. 4047, provided that:
+Pub. L. 116–283, div. A, title XVI, § 1607, Jan. 1, 2021, 134 Stat. 4047, provided that:
 
 > **“(a) Procurement.—** Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of the Air Force shall procure commercial space domain awareness services by awarding at least two contracts for such services.
 
@@ -333,7 +333,7 @@ Pub. L. 116–283, div. A, title XVI, § 1607, Jan. 1, 2021, 134 Stat. 4047, p
 
 **Tactically Responsive Space Capability**
 
-Pub. L. 116–283, div. A, title XVI, § 1609, Jan. 1, 2021, 134 Stat. 4048, as amended by Pub. L. 117–81, div. A, title XVI, § 1605, Dec. 27, 2021, 135 Stat. 2078; Pub. L. 117–263, div. A, title XVI, § 1604, Dec. 23, 2022, 136 Stat. 2930, provided that:
+Pub. L. 116–283, div. A, title XVI, § 1609, Jan. 1, 2021, 134 Stat. 4048, as amended by Pub. L. 117–81, div. A, title XVI, § 1605, Dec. 27, 2021, 135 Stat. 2078; Pub. L. 117–263, div. A, title XVI, § 1604, Dec. 23, 2022, 136 Stat. 2930, provided that:
 
 > **“(a) Program.—** The Secretary of the Air Force shall ensure that the Space Force has a tactically responsive space capability that—
 
@@ -373,7 +373,7 @@ Pub. L. 116–283, div. A, title XVI, § 1609, Jan. 1, 2021, 134 Stat. 4048, a
 
 **Space-Based Environmental Monitoring Mission Requirements**
 
-Pub. L. 116–92, div. A, title XVI, § 1605, Dec. 20, 2019, 133 Stat. 1723, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1605, Dec. 20, 2019, 133 Stat. 1723, provided that:
 
 > **“(a) Procurement of Modernized Pathfinder Program Satellite.—**
 
@@ -421,7 +421,7 @@ Pub. L. 116–92, div. A, title XVI, § 1605, Dec. 20, 2019, 133 Stat. 1723, p
 
 **Resilient Enterprise Ground Architecture**
 
-Pub. L. 116–92, div. A, title XVI, § 1606, Dec. 20, 2019, 133 Stat. 1724, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1606, Dec. 20, 2019, 133 Stat. 1724, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that the Secretary of the Air Force, to advance the security of the space assets of the Department of Defense, should—
 
@@ -443,7 +443,7 @@ Pub. L. 116–92, div. A, title XVI, § 1606, Dec. 20, 2019, 133 Stat. 1724, p
 
 **Space Warfighting Policy, Review of Space Capabilities, and Plan on Space Warfighting Readiness**
 
-Pub. L. 115–232, div. A, title XVI, § 1607, Aug. 13, 2018, 132 Stat. 2108, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1607, Aug. 13, 2018, 132 Stat. 2108, provided that:
 
 > **“(a) Space Warfighting Policy.—** Not later than March 29, 2019, the Secretary of Defense shall develop a space warfighting policy.
 
@@ -505,7 +505,7 @@ Pub. L. 115–232, div. A, title XVI, § 1607, Aug. 13, 2018, 132 Stat. 2108, 
 
 **Designation of Component of Department of Defense Responsible for Coordination of Hosted Payload Information**
 
-Pub. L. 115–232, div. A, title XVI, § 1611, Aug. 13, 2018, 132 Stat. 2112, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1611, Aug. 13, 2018, 132 Stat. 2112, provided that:
 
 > “Not later than 30 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense, in coordination with the Secretary of the Air Force, and other Secretaries of the military departments and the heads of Defense Agencies the Secretary determines appropriate, shall designate a component of the Department of Defense or a military department to be responsible for coordinating information, processes, and lessons learned relating to using commercially hosted payloads across the military departments, Defense Agencies, and other appropriate elements of the Department of Defense. The functions of such designated component shall include, at a minimum, the following:
 
@@ -515,17 +515,17 @@ Pub. L. 115–232, div. A, title XVI, § 1611, Aug. 13, 2018, 132 Stat. 2112, 
 
 **Air Force Space Contractor Responsibility Watch List**
 
-Pub. L. 115–91, div. A, title XVI, § 1612, Dec. 12, 2017, 131 Stat. 1729, which required the Commander of the Air Force Space and Missile Systems Center to establish and maintain a space contractor responsibility watch list, was repealed by Pub. L. 118–159, div. A, title XVI, § 1601(b), Dec. 23, 2024, 138 Stat. 2158. See section 2271a of this title.
+Pub. L. 115–91, div. A, title XVI, § 1612, Dec. 12, 2017, 131 Stat. 1729, which required the Commander of the Air Force Space and Missile Systems Center to establish and maintain a space contractor responsibility watch list, was repealed by Pub. L. 118–159, div. A, title XVI, § 1601(b), Dec. 23, 2024, 138 Stat. 2158. See section 2271a of this title.
 
 **Briefings on the National Space Defense Center**
 
-Pub. L. 115–31, div. N, title VI, § 605(e)(2), May 5, 2017, 131 Stat. 832, as amended by Pub. L. 116–283, div. A, title XVI, § 1604(c)(2), (3), Jan. 1, 2021, 134 Stat. 4043, 4044, provided that: “The Director of the National Reconnaissance Office and the Commander of the United States Space Command, in coordination with the Director of National Intelligence and Under Secretary of Defense for Intelligence [now Under Secretary of Defense for Intelligence and Security], shall provide to the appropriate committees of Congress briefings providing updates on activities and progress of the National Space Defense Center to begin 30 days after the date of the enactment of this Act [May 5, 2017]. Such briefings shall be quarterly for the first year following enactment, and annually thereafter.”
+Pub. L. 115–31, div. N, title VI, § 605(e)(2), May 5, 2017, 131 Stat. 832, as amended by Pub. L. 116–283, div. A, title XVI, § 1604(c)(2), (3), Jan. 1, 2021, 134 Stat. 4043, 4044, provided that: “The Director of the National Reconnaissance Office and the Commander of the United States Space Command, in coordination with the Director of National Intelligence and Under Secretary of Defense for Intelligence [now Under Secretary of Defense for Intelligence and Security], shall provide to the appropriate committees of Congress briefings providing updates on activities and progress of the National Space Defense Center to begin 30 days after the date of the enactment of this Act [May 5, 2017]. Such briefings shall be quarterly for the first year following enactment, and annually thereafter.”
 
-[Pub. L. 115–31, div. N, title VI, § 605(a), May 5, 2017, 131 Stat. 830, provided that: “In this section [enacting provisions set out as a note above], the term ‘appropriate committees of Congress’ means the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives], the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives.” ]
+[Pub. L. 115–31, div. N, title VI, § 605(a), May 5, 2017, 131 Stat. 830, provided that: “In this section [enacting provisions set out as a note above], the term ‘appropriate committees of Congress’ means the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives], the Committee on Armed Services of the Senate, and the Committee on Armed Services of the House of Representatives.” ]
 
 **Space-Based Environmental Monitoring**
 
-Pub. L. 114–328, div. A, title XVI, § 1607, Dec. 23, 2016, 130 Stat. 2586, provided that:
+Pub. L. 114–328, div. A, title XVI, § 1607, Dec. 23, 2016, 130 Stat. 2586, provided that:
 
 > **“(a) Roles of DOD and NOAA.—**
 
@@ -549,7 +549,7 @@ Pub. L. 114–328, div. A, title XVI, § 1607, Dec. 23, 2016, 130 Stat. 2586, 
 
 **Consolidation of Acquisition of Wideband Satellite Communications**
 
-Pub. L. 114–92, div. A, title XVI, § 1610, Nov. 25, 2015, 129 Stat. 1102, provided that:
+Pub. L. 114–92, div. A, title XVI, § 1610, Nov. 25, 2015, 129 Stat. 1102, provided that:
 
 > **“(a) Plan.—**
 
@@ -603,11 +603,11 @@ Pub. L. 114–92, div. A, title XVI, § 1610, Nov. 25, 2015, 129 Stat. 1102, p
 
 **Satellite Communications Responsibilities of Executive Agent for Space**
 
-Pub. L. 113–291, div. A, title XVI, § 1603, Dec. 19, 2014, 128 Stat. 3622, directed the revision of Department of Defense guidance relating to acquisition of satellite communications no later than 180 days after Dec. 19, 2014.
+Pub. L. 113–291, div. A, title XVI, § 1603, Dec. 19, 2014, 128 Stat. 3622, directed the revision of Department of Defense guidance relating to acquisition of satellite communications no later than 180 days after Dec. 19, 2014.
 
 **Prohibition on Contracting With Russian Suppliers of Rocket Engines for the National Security Space Launch Program**
 
-Pub. L. 113–291, div. A, title XVI, § 1608, Dec. 19, 2014, 128 Stat. 3626, as amended by Pub. L. 114–92, div. A, title XVI, § 1607, Nov. 25, 2015, 129 Stat. 1100; Pub. L. 114–328, div. A, title XVI, § 1602, Dec. 23, 2016, 130 Stat. 2582, provided that:
+Pub. L. 113–291, div. A, title XVI, § 1608, Dec. 19, 2014, 128 Stat. 3626, as amended by Pub. L. 114–92, div. A, title XVI, § 1607, Nov. 25, 2015, 129 Stat. 1100; Pub. L. 114–328, div. A, title XVI, § 1602, Dec. 23, 2016, 130 Stat. 2582, provided that:
 
 > **“(a) In General.—** Except as provided by subsections (b) and (c), beginning on the date of the enactment of this Act [Dec. 19, 2014], the Secretary of Defense may not award or renew a contract for the procurement of property or services for space launch activities under the evolved expendable launch vehicle program [now the National Security Space Launch program] if such contract carries out such space launch activities using rocket engines designed or manufactured in the Russian Federation.
 
@@ -625,7 +625,7 @@ Pub. L. 113–291, div. A, title XVI, § 1608, Dec. 19, 2014, 128 Stat. 3626, 
 
 **Integrated Space Architectures**
 
-Pub. L. 111–383, div. A, title IX, § 911, Jan. 7, 2011, 124 Stat. 4328, as amended by Pub. L. 113–291, div. A, title X, § 1071(d)(1)(A), Dec. 19, 2014, 128 Stat. 3509, provided that:
+Pub. L. 111–383, div. A, title IX, § 911, Jan. 7, 2011, 124 Stat. 4328, as amended by Pub. L. 113–291, div. A, title X, § 1071(d)(1)(A), Dec. 19, 2014, 128 Stat. 3509, provided that:
 
 > “The Secretary of Defense and the Director of National Intelligence shall develop an integrated process for national security space architecture planning, development, coordination, and analysis that—
 
@@ -639,7 +639,7 @@ Pub. L. 111–383, div. A, title IX, § 911, Jan. 7, 2011, 124 Stat. 4328, as 
 
 **Space Protection Strategy**
 
-Pub. L. 110–181, div. A, title IX, § 911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, as amended by Pub. L. 113–66, div. A, title IX, § 912(c), Dec. 26, 2013, 127 Stat. 824; Pub. L. 113–291, div. A, title X, § 1071(d)(1)(B), title XVI, § 1606(e), Dec. 19, 2014, 128 Stat. 3509, 3625; Pub. L. 115–232, div. A, title VIII, § 813(b)(1), Aug. 13, 2018, 132 Stat. 1851, provided that:
+Pub. L. 110–181, div. A, title IX, § 911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, as amended by Pub. L. 113–66, div. A, title IX, § 912(c), Dec. 26, 2013, 127 Stat. 824; Pub. L. 113–291, div. A, title X, § 1071(d)(1)(B), title XVI, § 1606(e), Dec. 19, 2014, 128 Stat. 3509, 3625; Pub. L. 115–232, div. A, title VIII, § 813(b)(1), Aug. 13, 2018, 132 Stat. 1851, provided that:
 
 > **“(a) Sense of Congress.—** It is the Sense of Congress that the United States should place greater priority on the protection of national security space systems.
 
@@ -697,21 +697,21 @@ Pub. L. 110–181, div. A, title IX, § 911(a)–(f), Jan. 28, 2008, 122 Stat.
 
 **Maintenance of Capability for Space-Based Nuclear Detection**
 
-Pub. L. 110–181, div. A, title X, § 1065, Jan. 28, 2008, 122 Stat. 324, provided that: “The Secretary of Defense shall maintain the capability for space-based nuclear detection at a level that meets or exceeds the level of capability as of the date of the enactment of this Act [Jan. 28, 2008].”
+Pub. L. 110–181, div. A, title X, § 1065, Jan. 28, 2008, 122 Stat. 324, provided that: “The Secretary of Defense shall maintain the capability for space-based nuclear detection at a level that meets or exceeds the level of capability as of the date of the enactment of this Act [Jan. 28, 2008].”
 
 **Space Situational Awareness Strategy and Space Control Mission Review**
 
-Pub. L. 109–163, div. A, title IX, § 911, Jan. 6, 2006, 119 Stat. 3405, required the Secretary of Defense to develop a “Space Situational Awareness Strategy” for ensuring freedom to operate United States space assets affecting national security, and to provide for a review and assessment of the requirements of the Department of Defense for the space control mission, prior to repeal by Pub. L. 110–181, div. A, title IX, § 911(g), Jan. 28, 2008, 122 Stat. 280.
+Pub. L. 109–163, div. A, title IX, § 911, Jan. 6, 2006, 119 Stat. 3405, required the Secretary of Defense to develop a “Space Situational Awareness Strategy” for ensuring freedom to operate United States space assets affecting national security, and to provide for a review and assessment of the requirements of the Department of Defense for the space control mission, prior to repeal by Pub. L. 110–181, div. A, title IX, § 911(g), Jan. 28, 2008, 122 Stat. 280.
 
 **Space Personnel Career Fields**
 
-Pub. L. 108–136, div. A, title V, § 547, Nov. 24, 2003, 117 Stat. 1480, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, required the Secretary of Defense to develop a strategy to promote the development of space personnel career fields and required reports regarding the strategy to be submitted by the Secretary of Defense and the Comptroller General to Congress in 2004 and 2005.
+Pub. L. 108–136, div. A, title V, § 547, Nov. 24, 2003, 117 Stat. 1480, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, required the Secretary of Defense to develop a strategy to promote the development of space personnel career fields and required reports regarding the strategy to be submitted by the Secretary of Defense and the Comptroller General to Congress in 2004 and 2005.
 
 **Comptroller General Assessment of Implementation of Recommendations of Space Commission**
 
-Pub. L. 107–107, div. A, title IX, § 914, Dec. 28, 2001, 115 Stat. 1197, directed the Comptroller General to carry out an assessment through Feb. 15, 2003, of the actions taken by the Secretary of Defense in implementing the recommendations in the report of the Space Commission submitted to Congress pursuant to Pub. L. 106–65, § 1623, formerly set out as a note under section 111 of this title, that were applicable to the Department of Defense, and to submit reports to committees of Congress, not later than Feb. 15, 2002, and Feb. 15, 2003, setting forth the results of the assessment.
+Pub. L. 107–107, div. A, title IX, § 914, Dec. 28, 2001, 115 Stat. 1197, directed the Comptroller General to carry out an assessment through Feb. 15, 2003, of the actions taken by the Secretary of Defense in implementing the recommendations in the report of the Space Commission submitted to Congress pursuant to Pub. L. 106–65, § 1623, formerly set out as a note under section 111 of this title, that were applicable to the Department of Defense, and to submit reports to committees of Congress, not later than Feb. 15, 2002, and Feb. 15, 2003, setting forth the results of the assessment.
 
-## § 2271a. Space Contractor Responsibility Watch List
+## § 2271a. Space Contractor Responsibility Watch List
 
 **(a) Establishment.—** The Assistant Secretary of the Air Force for Space Acquisition and Integration, acting as the service acquisition executive for the Air Force for space systems and programs, shall maintain a list of contractors with a history of poor performance on space procurement contracts.
 
@@ -765,27 +765,27 @@ Pub. L. 107–107, div. A, title IX, § 914, Dec. 28, 2001, 115 Stat. 1197, di
 
 **(3)** The term “watch list” means the watch list maintained under subsection (a).
 
-(Added Pub. L. 118–159, div. A, title XVI, § 1601(a), Dec. 23, 2024, 138 Stat. 2157.)
+(Added Pub. L. 118–159, div. A, title XVI, § 1601(a), Dec. 23, 2024, 138 Stat. 2157.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 115–91, div. A, title XVI, § 1612, Dec. 12, 2017, 131 Stat. 1729, which was set out in a note under section 2271 of this title, prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1601(b), Dec. 23, 2024, 138 Stat. 2158.
+Provisions similar to those in this section were contained in Pub. L. 115–91, div. A, title XVI, § 1612, Dec. 12, 2017, 131 Stat. 1729, which was set out in a note under section 2271 of this title, prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1601(b), Dec. 23, 2024, 138 Stat. 2158.
 
-## § 2272. Space science and technology strategy: coordination
+## § 2272. Space science and technology strategy: coordination
 
 The Secretary of Defense and the Director of National Intelligence shall jointly develop and implement a space science and technology strategy and shall review and, as appropriate, revise the strategy biennially. Functions of the Secretary under this section shall be carried out jointly by the Under Secretary of Defense for Research and Engineering and the official of the Department of Defense designated as the Department of Defense Executive Agent for Space.1
 
-<sup>1</sup>  See Transfer of Functions note below.
+<sup>1</sup> See Transfer of Functions note below.
 
-(Added Pub. L. 108–136, div. A, title IX, § 911(a)(1), Nov. 24, 2003, 117 Stat. 1563; amended Pub. L. 111–84, div. A, title IX, § 911(a)(1)–(3), Oct. 28, 2009, 123 Stat. 2428, 2429; Pub. L. 111–383, div. A, title IX, § 901(j)(2), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 114–92, div. A, title XVI, § 1604, Nov. 25, 2015, 129 Stat. 1098; Pub. L. 116–92, div. A, title IX, § 902(28), Dec. 20, 2019, 133 Stat. 1546.)
+(Added Pub. L. 108–136, div. A, title IX, § 911(a)(1), Nov. 24, 2003, 117 Stat. 1563; amended Pub. L. 111–84, div. A, title IX, § 911(a)(1)–(3), Oct. 28, 2009, 123 Stat. 2428, 2429; Pub. L. 111–383, div. A, title IX, § 901(j)(2), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 114–92, div. A, title XVI, § 1604, Nov. 25, 2015, 129 Stat. 1098; Pub. L. 116–92, div. A, title IX, § 902(28), Dec. 20, 2019, 133 Stat. 1546.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2272, act Aug. 10, 1956, ch. 1041, 70A Stat. 124, related to contracts to obtain designs submitted in design competitions, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+A prior section 2272, act Aug. 10, 1956, ch. 1041, 70A Stat. 124, related to contracts to obtain designs submitted in design competitions, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 **Amendments**
 
@@ -795,11 +795,11 @@ A prior section 2272, act Aug. 10, 1956, ch. 1041, 70A Stat. 124, related to con
 
 2011—Subsecs. (a), (b). Pub. L. 111–383 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering” wherever appearing.
 
-2009—Subsec. (a)(1). Pub. L. 111–84, § 911(a)(1), substituted “The Secretary of Defense and the Director of National Intelligence shall jointly develop” for “The Secretary of Defense shall develop”.
+2009—Subsec. (a)(1). Pub. L. 111–84, § 911(a)(1), substituted “The Secretary of Defense and the Director of National Intelligence shall jointly develop” for “The Secretary of Defense shall develop”.
 
-Subsec. (a)(2)(D). Pub. L. 111–84, § 911(a)(2), added subpar. (D).
+Subsec. (a)(2)(D). Pub. L. 111–84, § 911(a)(2), added subpar. (D).
 
-Subsec. (a)(5). Pub. L. 111–84, § 911(a)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The strategy shall be available for review by the congressional defense committees.”
+Subsec. (a)(5). Pub. L. 111–84, § 911(a)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The strategy shall be available for review by the congressional defense committees.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -813,9 +813,9 @@ For termination and transfer of functions of the Department of Defense Executive
 
 **Initial Report**
 
-Pub. L. 111–84, div. A, title IX, § 911(a)(4), Oct. 28, 2009, 123 Stat. 2429, required the first space science and technology strategy required to be submitted under former 10 U.S.C. 2272(a)(5) to be submitted on the date on which the President submitted to Congress the budget for fiscal year 2012 under 31 U.S.C. 1105.
+Pub. L. 111–84, div. A, title IX, § 911(a)(4), Oct. 28, 2009, 123 Stat. 2429, required the first space science and technology strategy required to be submitted under former 10 U.S.C. 2272(a)(5) to be submitted on the date on which the President submitted to Congress the budget for fiscal year 2012 under 31 U.S.C. 1105.
 
-## § 2273. Policy regarding assured access to space: national security payloads
+## § 2273. Policy regarding assured access to space: national security payloads
 
 **(a) Policy.—** It is the policy of the United States for the President to undertake actions appropriate to ensure, to the maximum extent practicable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
 
@@ -835,35 +835,35 @@ Pub. L. 111–84, div. A, title IX, § 911(a)(4), Oct. 28, 2009, 123 Stat. 242
 
 **(c) Coordination.—** The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration and the Director of National Intelligence.
 
-(Added Pub. L. 108–136, div. A, title IX, § 912(a)(1), Nov. 24, 2003, 117 Stat. 1565; Pub. L. 110–181, div. A, title IX, § 931(a)(12), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(11), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 115–232, div. A, title XVI, § 1603(a), Aug. 13, 2018, 132 Stat. 2105; Pub. L. 116–92, div. A, title XVII, § 1731(a)(34), Dec. 20, 2019, 133 Stat. 1814.)
+(Added Pub. L. 108–136, div. A, title IX, § 912(a)(1), Nov. 24, 2003, 117 Stat. 1565; Pub. L. 110–181, div. A, title IX, § 931(a)(12), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, [div. A], title IX, § 932(a)(11), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, § 1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 115–232, div. A, title XVI, § 1603(a), Aug. 13, 2018, 132 Stat. 2105; Pub. L. 116–92, div. A, title XVII, § 1731(a)(34), Dec. 20, 2019, 133 Stat. 1814.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982, Pub. L. 97–164, title I, § 160(a)(4), 96 Stat. 48; Oct. 29, 1992, Pub. L. 102–572, title IX, § 902(b)(1), 106 Stat. 4516, related to right of United States to designs, rights of designers to patents, and rights to sue United States, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+A prior section 2273, acts Aug. 10, 1956, ch. 1041, 70A Stat. 125; Apr. 2, 1982, Pub. L. 97–164, title I, § 160(a)(4), 96 Stat. 48; Oct. 29, 1992, Pub. L. 102–572, title IX, § 902(b)(1), 106 Stat. 4516, related to right of United States to designs, rights of designers to patents, and rights to sue United States, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 **Amendments**
 
 2019—Subsec. (b)(1). Pub. L. 116–92 inserted semicolon at end.
 
-2018—Subsec. (b)(3). Pub. L. 115–232, § 1603(a)(1), added par. (3).
+2018—Subsec. (b)(3). Pub. L. 115–232, § 1603(a)(1), added par. (3).
 
-Subsec. (c). Pub. L. 115–232, § 1603(a)(2), inserted “and the Director of National Intelligence” before period at end.
+Subsec. (c). Pub. L. 115–232, § 1603(a)(2), inserted “and the Director of National Intelligence” before period at end.
 
-2009—Subsec. (b)(1). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(11). See 2008 Amendment note below.
+2009—Subsec. (b)(1). Pub. L. 111–84 repealed Pub. L. 110–417, § 932(a)(11). See 2008 Amendment note below.
 
-2008—Subsec. (b)(1). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(11), amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(11), was repealed by Pub. L. 111–84.
+2008—Subsec. (b)(1). Pub. L. 110–181 and Pub. L. 110–417, § 932(a)(11), amended par. (1) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence”. Pub. L. 110–417, § 932(a)(11), was repealed by Pub. L. 111–84.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 **National Security Space Launch Program**
 
-Pub. L. 116–283, div. A, title XVI, § 1606, Jan. 1, 2021, 134 Stat. 4044, provided that:
+Pub. L. 116–283, div. A, title XVI, § 1606, Jan. 1, 2021, 134 Stat. 4044, provided that:
 
 > **“(a) Launch Services Agreement.—**
 
@@ -951,7 +951,7 @@ Pub. L. 116–283, div. A, title XVI, § 1606, Jan. 1, 2021, 134 Stat. 4044, p
 
 **Policy To Ensure Launch of Small-Class Payloads**
 
-Pub. L. 116–283, div. A, title XVI, § 1608, Jan. 1, 2021, 134 Stat. 4047, provided that:
+Pub. L. 116–283, div. A, title XVI, § 1608, Jan. 1, 2021, 134 Stat. 4047, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall establish a small launch and satellite policy to ensure responsive and reliable access to space through the processing and launch of Department of Defense small-class payloads.
 
@@ -975,7 +975,7 @@ Pub. L. 116–283, div. A, title XVI, § 1608, Jan. 1, 2021, 134 Stat. 4047, p
 
 **Program To Enhance and Improve Launch Support and Infrastructure**
 
-Pub. L. 116–92, div. A, title XVI, § 1609, Dec. 20, 2019, 133 Stat. 1727, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1609, Dec. 20, 2019, 133 Stat. 1727, provided that:
 
 > **“(a) In General.—** In support of the policy described in section 2273(a) of title 10, United States Code, the Secretary of Defense, in coordination with the Administrator of the Federal Aviation Administration, may carry out a program to enhance infrastructure and improve support activities for the processing and launch of Department of Defense small-class and medium-class payloads.
 
@@ -997,7 +997,7 @@ Pub. L. 116–92, div. A, title XVI, § 1609, Dec. 20, 2019, 133 Stat. 1727, p
 
 **Use of Reusable Launch Vehicles**
 
-Pub. L. 115–232, div. A, title XVI, § 1603, Aug. 13, 2018, 132 Stat. 2105, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1603, Aug. 13, 2018, 132 Stat. 2105, provided that:
 
 > **“(a) Assured Access to Space.—**
 
@@ -1029,7 +1029,7 @@ Pub. L. 115–232, div. A, title XVI, § 1603, Aug. 13, 2018, 132 Stat. 2105, 
 
 **Launch Support and Infrastructure Modernization**
 
-Pub. L. 115–91, div. A, title XVI, § 1609, Dec. 12, 2017, 131 Stat. 1727, as amended by Pub. L. 116–92, div. A, title XVII, § 1731(c), Dec. 20, 2019, 133 Stat. 1816, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1609, Dec. 12, 2017, 131 Stat. 1727, as amended by Pub. L. 116–92, div. A, title XVII, § 1731(c), Dec. 20, 2019, 133 Stat. 1816, provided that:
 
 > **“(a) In General.—** In support of the policy specified in section 2273 of title 10, United States Code, the Secretary of Defense shall carry out a program to modernize infrastructure and improve support activities for the processing and launch of United States national security space vehicles launching from Federal ranges.
 
@@ -1057,11 +1057,11 @@ Pub. L. 115–91, div. A, title XVI, § 1609, Dec. 12, 2017, 131 Stat. 1727, a
 
 > **“(C)** recommendations for improving transparency, flexibility, and responsiveness in launch scheduling.”
 
-[Pub. L. 116–92, div. A, title XVII, § 1731(c), Dec. 20, 2019, 133 Stat. 1816, provided that the amendment made by section 1731(c) to section 1609(b)(3) of Pub. L. 115–91, set out above, is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.]
+[Pub. L. 116–92, div. A, title XVII, § 1731(c), Dec. 20, 2019, 133 Stat. 1816, provided that the amendment made by section 1731(c) to section 1609(b)(3) of Pub. L. 115–91, set out above, is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.]
 
 **Acquisition Strategy for National Security Space Launch Program**
 
-Pub. L. 114–92, div. A, title XVI, § 1608, Nov. 25, 2015, 129 Stat. 1100, as amended by Pub. L. 116–283, div. A, title XVIII, § 1831(j)(1), Jan. 1, 2021, 134 Stat. 4216, provided that:
+Pub. L. 114–92, div. A, title XVI, § 1608, Nov. 25, 2015, 129 Stat. 1100, as amended by Pub. L. 116–283, div. A, title XVIII, § 1831(j)(1), Jan. 1, 2021, 134 Stat. 4216, provided that:
 
 > **“(a) Treatment of Certain Arrangement.—**
 
@@ -1113,7 +1113,7 @@ Pub. L. 114–92, div. A, title XVI, § 1608, Nov. 25, 2015, 129 Stat. 1100, a
 
 **Rocket Propulsion System Development Program**
 
-Pub. L. 113–291, div. A, title XVI, § 1604, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, title XVI, § 1606(a), Nov. 25, 2015, 129 Stat. 1099; Pub. L. 114–328, div. A, title XVI, § 1603, Dec. 23, 2016, 130 Stat. 2582, provided that:
+Pub. L. 113–291, div. A, title XVI, § 1604, Dec. 19, 2014, 128 Stat. 3623, as amended by Pub. L. 114–92, div. A, title XVI, § 1606(a), Nov. 25, 2015, 129 Stat. 1099; Pub. L. 114–328, div. A, title XVI, § 1603, Dec. 23, 2016, 130 Stat. 2582, provided that:
 
 > **“(a) Development.—**
 
@@ -1193,7 +1193,7 @@ Pub. L. 113–291, div. A, title XVI, § 1604, Dec. 19, 2014, 128 Stat. 3623, 
 
 > **“(2)** The term ‘rocket propulsion system’ means, with respect to the development authorized by subsection (a), a main booster, first-stage rocket engine or motor. The term does not include a launch vehicle, an upper stage, a strap-on motor, or related infrastructure.”
 
-## § 2273a. Space Rapid Capabilities Office
+## § 2273a. Space Rapid Capabilities Office
 
 **(a) In General.—** There is within the Space Force a program office known as the Space Rapid Capabilities Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Space Force Space Systems Command.
 
@@ -1225,7 +1225,7 @@ Pub. L. 113–291, div. A, title XVI, § 1604, Dec. 19, 2014, 128 Stat. 3623, 
 
 **(f) Board of Directors.—** The Secretary of the Air Force shall establish for the Office a Board of Directors (to be known as the “Space Rapid Capabilities Board of Directors”) to provide coordination, oversight, and approval of projects of the Office.
 
-(Added Pub. L. 108–375, div. A, title IX, § 913(a)(1), Oct. 28, 2004, 118 Stat. 2028; amended Pub. L. 109–364, div. A, title IX, § 913(b)(1), Oct. 17, 2006, 120 Stat. 2355; Pub. L. 112–239, div. A, title IX, § 914, Jan. 2, 2013, 126 Stat. 1876; Pub. L. 115–91, div. A, title XVI, § 1601(b)(1), Dec. 12, 2017, 131 Stat. 1720; Pub. L. 115–232, div. A, title XVI, § 1602, Aug. 13, 2018, 132 Stat. 2104; Pub. L. 116–92, div. A, title IX, § 958(a)(2), title XVI, § 1601(b)(2), Dec. 20, 2019, 133 Stat. 1567, 1722; Pub. L. 116–283, div. A, title IX, § 924(b)(31), Jan. 1, 2021, 134 Stat. 3825; Pub. L. 119–60, div. A, title VI, § 601(i), Dec. 18, 2025, 139 Stat. 905.)
+(Added Pub. L. 108–375, div. A, title IX, § 913(a)(1), Oct. 28, 2004, 118 Stat. 2028; amended Pub. L. 109–364, div. A, title IX, § 913(b)(1), Oct. 17, 2006, 120 Stat. 2355; Pub. L. 112–239, div. A, title IX, § 914, Jan. 2, 2013, 126 Stat. 1876; Pub. L. 115–91, div. A, title XVI, § 1601(b)(1), Dec. 12, 2017, 131 Stat. 1720; Pub. L. 115–232, div. A, title XVI, § 1602, Aug. 13, 2018, 132 Stat. 2104; Pub. L. 116–92, div. A, title IX, § 958(a)(2), title XVI, § 1601(b)(2), Dec. 20, 2019, 133 Stat. 1567, 1722; Pub. L. 116–283, div. A, title IX, § 924(b)(31), Jan. 1, 2021, 134 Stat. 3825; Pub. L. 119–60, div. A, title VI, § 601(i), Dec. 18, 2025, 139 Stat. 905.)
 
 **Editorial Notes**
 
@@ -1239,41 +1239,41 @@ Pub. L. 113–291, div. A, title XVI, § 1604, Dec. 19, 2014, 128 Stat. 3623, 
 
 “(B) recommend priorities as the Commander determines appropriate.”
 
-2019—Subsec. (a). Pub. L. 116–92, § 958(a)(2)(A), substituted “Space Force” for “Air Force Space Command”.
+2019—Subsec. (a). Pub. L. 116–92, § 958(a)(2)(A), substituted “Space Force” for “Air Force Space Command”.
 
-Subsec. (b). Pub. L. 116–92, § 958(a)(2)(B), substituted “Chief of Space Operations” for “Commander of the Air Force Space Command”.
+Subsec. (b). Pub. L. 116–92, § 958(a)(2)(B), substituted “Chief of Space Operations” for “Commander of the Air Force Space Command”.
 
-Subsec. (d)(3). Pub. L. 116–92, § 1601(b)(2), substituted “The Commander of the United States Space Command, or, if no such command exists, the Commander of the United States Strategic Command,” for “The Commander of the United States Strategic Command, acting through the United States Space Command,”.
+Subsec. (d)(3). Pub. L. 116–92, § 1601(b)(2), substituted “The Commander of the United States Space Command, or, if no such command exists, the Commander of the United States Strategic Command,” for “The Commander of the United States Strategic Command, acting through the United States Space Command,”.
 
 2018—Pub. L. 115–232 amended section generally. Prior to amendment, section related to: in subsec. (a) the Space Rapid Capabilities Office, in subsec. (b) the head of the Office, in subsec. (c) the mission of the Office, in subsec. (d) elements of the Department of Defense to be included in the Office, in subsec. (e) acquisition activities of the Office, in subsec. (f) required program elements, and in subsec. (g) establishment of an Executive Committee to provide coordination, oversight, and approval of projects.
 
-2017—Pub. L. 115–91, § 1601(b)(1)(A), substituted “Space Rapid Capabilities” for “Operationally Responsive Space Program” in section catchline.
+2017—Pub. L. 115–91, § 1601(b)(1)(A), substituted “Space Rapid Capabilities” for “Operationally Responsive Space Program” in section catchline.
 
-Subsec. (a). Pub. L. 115–91, § 1601(b)(1)(B), substituted “Air Force Space Command” for “Air Force Space and Missile Systems Center of the Department of Defense” and “Space Rapid Capabilities” for “Operationally Responsive Space Program”.
+Subsec. (a). Pub. L. 115–91, § 1601(b)(1)(B), substituted “Air Force Space Command” for “Air Force Space and Missile Systems Center of the Department of Defense” and “Space Rapid Capabilities” for “Operationally Responsive Space Program”.
 
-Subsec. (b). Pub. L. 115–91, § 1601(b)(1)(C), substituted “Air Force Space Command” for “Air Force Space and Missile Systems Center”.
+Subsec. (b). Pub. L. 115–91, § 1601(b)(1)(C), substituted “Air Force Space Command” for “Air Force Space and Missile Systems Center”.
 
-Subsec. (c)(2). Pub. L. 115–91, § 1601(b)(1)(D), substituted “space rapid capabilities” for “operationally responsive space”.
+Subsec. (c)(2). Pub. L. 115–91, § 1601(b)(1)(D), substituted “space rapid capabilities” for “operationally responsive space”.
 
-Subsec. (d). Pub. L. 115–91, § 1601(b)(1)(E), substituted “space rapid capabilities” for “operationally responsive space” in introductory provisions and pars. (2) and (3)(A), “space rapid capabilities” for “capabilities for operationally responsive space” in par. (1), and “space rapid capabilities” for “operationally responsive space capabilities” in introductory provisions of par. (4)(B).
+Subsec. (d). Pub. L. 115–91, § 1601(b)(1)(E), substituted “space rapid capabilities” for “operationally responsive space” in introductory provisions and pars. (2) and (3)(A), “space rapid capabilities” for “capabilities for operationally responsive space” in par. (1), and “space rapid capabilities” for “operationally responsive space capabilities” in introductory provisions of par. (4)(B).
 
-Subsec. (f)(1)(A). Pub. L. 115–91, § 1601(b)(1)(D), substituted “space rapid capabilities” for “operationally responsive space”.
+Subsec. (f)(1)(A). Pub. L. 115–91, § 1601(b)(1)(D), substituted “space rapid capabilities” for “operationally responsive space”.
 
-Subsec. (g)(1). Pub. L. 115–91, § 1601(b)(1)(F), substituted “Space Rapid Capabilities” for “Operationally Responsive Space”.
+Subsec. (g)(1). Pub. L. 115–91, § 1601(b)(1)(F), substituted “Space Rapid Capabilities” for “Operationally Responsive Space”.
 
-2013—Subsec. (a). Pub. L. 112–239, § 914(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish within the Department of Defense an office to be known as the Operationally Responsive Space Program Office (in this section referred to as the ‘Office’).”
+2013—Subsec. (a). Pub. L. 112–239, § 914(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish within the Department of Defense an office to be known as the Operationally Responsive Space Program Office (in this section referred to as the ‘Office’).”
 
-Subsec. (b). Pub. L. 112–239, § 914(b), substituted “shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.” for “shall be—
+Subsec. (b). Pub. L. 112–239, § 914(b), substituted “shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.” for “shall be—
 
 “(1) the Department of Defense Executive Agent for Space; or
 
 “(2) the designee of the Secretary of Defense, who shall report to the Department of Defense Executive Agent for Space.”
 
-Subsec. (c)(1). Pub. L. 112–239, § 914(c), substituted “launch” for “spacelift”.
+Subsec. (c)(1). Pub. L. 112–239, § 914(c), substituted “launch” for “spacelift”.
 
-Subsec. (e)(1). Pub. L. 112–239, § 914(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Department of Defense Executive Agent for Space shall be the senior acquisition executive of the Office.”
+Subsec. (e)(1). Pub. L. 112–239, § 914(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Department of Defense Executive Agent for Space shall be the senior acquisition executive of the Office.”
 
-Subsec. (g). Pub. L. 112–239, § 914(e), added subsec. (g).
+Subsec. (g). Pub. L. 112–239, § 914(e), added subsec. (g).
 
 2006—Pub. L. 109–364 amended section catchline and text generally, substituting provisions relating to establishment, control, mission, elements, and authority of the Operationally Responsive Space Program Office within the Department of Defense for provisions relating to requirement for a separate, dedicated program element for operationally responsive national security payloads and buses within budget program elements for space programs of the Department of Defense.
 
@@ -1281,11 +1281,11 @@ Subsec. (g). Pub. L. 112–239, § 914(e), added subsec. (g).
 
 **Effective Date**
 
-Pub. L. 108–375, div. A, title IX, § 913(b), Oct. 28, 2004, 118 Stat. 2028, provided that: “Subsection (a) of section 2273a of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 2005.”
+Pub. L. 108–375, div. A, title IX, § 913(b), Oct. 28, 2004, 118 Stat. 2028, provided that: “Subsection (a) of section 2273a of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 2005.”
 
 **United States Policy on Operationally Responsive Space**
 
-Pub. L. 109–364, div. A, title IX, § 913(a), Oct. 17, 2006, 120 Stat. 2355, provided that:
+Pub. L. 109–364, div. A, title IX, § 913(a), Oct. 17, 2006, 120 Stat. 2355, provided that:
 
 > “It is the policy of the United States to demonstrate, acquire, and deploy an effective capability for operationally responsive space to support military users and operations from space, which shall consist of—
 
@@ -1299,9 +1299,9 @@ Pub. L. 109–364, div. A, title IX, § 913(a), Oct. 17, 2006, 120 Stat. 2355,
 
 **Joint Operationally Responsive Space Payload Technology Organization**
 
-Pub. L. 109–163, div. A, title IX, § 913(a), Jan. 6, 2006, 119 Stat. 3408, which directed the Secretary of Defense to establish or designate an organization in the Department of Defense to coordinate joint operationally responsive space payload technology, was repealed by Pub. L. 109–364, div. A, title IX, § 913(d), Oct. 17, 2006, 120 Stat. 2358.
+Pub. L. 109–163, div. A, title IX, § 913(a), Jan. 6, 2006, 119 Stat. 3408, which directed the Secretary of Defense to establish or designate an organization in the Department of Defense to coordinate joint operationally responsive space payload technology, was repealed by Pub. L. 109–364, div. A, title IX, § 913(d), Oct. 17, 2006, 120 Stat. 2358.
 
-## § 2274. Space situational awareness services and information: provision to non-United States Government entities
+## § 2274. Space situational awareness services and information: provision to non-United States Government entities
 
 **(a) Authority.—**
 
@@ -1351,13 +1351,13 @@ Pub. L. 109–163, div. A, title IX, § 913(a), Jan. 6, 2006, 119 Stat. 3408, 
 
 **(h) Notice of Concerns of Disclosure of Information.—** If the Secretary determines that a commercial or foreign entity has declined or is reluctant to provide data or information to the Secretary in accordance with this section due to the concerns of such entity about the potential disclosure of such data or information, the Secretary shall, not later than 60 days after the Secretary makes that determination, provide notice to the congressional defense committees of the declination or reluctance of such entity.
 
-(Added Pub. L. 108–136, div. A, title IX, § 913(a), Nov. 24, 2003, 117 Stat. 1565; amended Pub. L. 109–364, div. A, title IX, § 912, Oct. 17, 2006, 120 Stat. 2355; Pub. L. 110–417, [div. A], title IX, § 911, Oct. 14, 2008, 122 Stat. 4571; Pub. L. 111–84, div. A, title IX, § 912(a), Oct. 28, 2009, 123 Stat. 2429; Pub. L. 115–232, div. A, title XVI, § 1604(a), Aug. 13, 2018, 132 Stat. 2106.)
+(Added Pub. L. 108–136, div. A, title IX, § 913(a), Nov. 24, 2003, 117 Stat. 1565; amended Pub. L. 109–364, div. A, title IX, § 912, Oct. 17, 2006, 120 Stat. 2355; Pub. L. 110–417, [div. A], title IX, § 911, Oct. 14, 2008, 122 Stat. 4571; Pub. L. 111–84, div. A, title IX, § 912(a), Oct. 28, 2009, 123 Stat. 2429; Pub. L. 115–232, div. A, title XVI, § 1604(a), Aug. 13, 2018, 132 Stat. 2106.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2274, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related to procurement for experimental purposes, was repealed by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+A prior section 2274, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related to procurement for experimental purposes, was repealed by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 **Amendments**
 
@@ -1373,11 +1373,11 @@ A prior section 2274, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related 
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title IX, § 912(c), Oct. 28, 2009, 123 Stat. 2431, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2009, or the date of the enactment of this Act [Oct. 28, 2009], whichever is later.”
+Pub. L. 111–84, div. A, title IX, § 912(c), Oct. 28, 2009, 123 Stat. 2431, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2009, or the date of the enactment of this Act [Oct. 28, 2009], whichever is later.”
 
 **Process and Plan for Space Force Space Situational Awareness**
 
-Pub. L. 118–31, div. A, title XVI, § 1609, Dec. 22, 2023, 137 Stat. 588, provided that:
+Pub. L. 118–31, div. A, title XVI, § 1609, Dec. 22, 2023, 137 Stat. 588, provided that:
 
 > **“(a) In General.—** The Assistant Secretary of the Air Force for Space Acquisition and Integration, in consultation with Chief of Space Operations, shall—
 
@@ -1389,7 +1389,7 @@ Pub. L. 118–31, div. A, title XVI, § 1609, Dec. 22, 2023, 137 Stat. 588, pr
 
 **Limitation on Availability of Funding for Joint Space Operations Center Mission System**
 
-Pub. L. 115–91, div. A, title XVI, § 1610, Dec. 12, 2017, 131 Stat. 1728, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1610, Dec. 12, 2017, 131 Stat. 1728, provided that:
 
 > **“(a) Limitation.—** Of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for fiscal year 2018 for the Joint Space Operations Center mission system, not more than 75 percent may be obligated or expended until the date on which the Secretary of the Air Force certifies to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the Secretary has developed the plan under subsection (b).
 
@@ -1397,13 +1397,13 @@ Pub. L. 115–91, div. A, title XVI, § 1610, Dec. 12, 2017, 131 Stat. 1728, p
 
 > **“(c) Waiver.—** The Secretary may waive the implementation of the plan developed under subsection (b) if the Secretary determines that existing commercial capabilities will not address national security requirements or existing space situational awareness capability gaps. The authority under this subsection may not be delegated below the Deputy Secretary of Defense.”
 
-## [§ 2275. Repealed. Pub. L. 118–159, div. A, title XVI, § 1603(b), Dec. 23, 2024, 138 Stat. 2160]
+## [§ 2275. Repealed. Pub. L. 118–159, div. A, title XVI, § 1603(b), Dec. 23, 2024, 138 Stat. 2160]
 
-Section, added Pub. L. 112–239, div. A, title IX, § 911(a), Jan. 2, 2013, 126 Stat. 1870; amended Pub. L. 113–291, div. A, title X, § 1071(e)(3), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, § 902(29), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title XVIII, §§ 1845(c)(3), 1846(i)(5), Jan. 1, 2021, 134 Stat. 4247, 4252; Pub. L. 117–263, div. A, title XVI, § 1603, Dec. 23, 2022, 136 Stat. 2930; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(21), Dec. 22, 2023, 137 Stat. 684, related to reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs. See section 2275c of this title.
+Section, added Pub. L. 112–239, div. A, title IX, § 911(a), Jan. 2, 2013, 126 Stat. 1870; amended Pub. L. 113–291, div. A, title X, § 1071(e)(3), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–92, div. A, title IX, § 902(29), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title XVIII, §§ 1845(c)(3), 1846(i)(5), Jan. 1, 2021, 134 Stat. 4247, 4252; Pub. L. 117–263, div. A, title XVI, § 1603, Dec. 23, 2022, 136 Stat. 2930; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(21), Dec. 22, 2023, 137 Stat. 684, related to reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs. See section 2275c of this title.
 
-A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related to award of contracts and review of decisions, was repealed by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related to award of contracts and review of decisions, was repealed by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
-## § 2275a. Requirements for protection of satellites
+## § 2275a. Requirements for protection of satellites
 
 **(a) Establishment of Requirements.—** Before a major satellite acquisition program achieves Milestone A approval, or equivalent, the Chief of Staff of the Space Force, in consultation with the Commander of the United States Space Command, shall establish requirements for the defense and resilience of the satellites under that program against the capabilities of adversaries to target, degrade, or destroy the satellites.
 
@@ -1413,9 +1413,9 @@ A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related 
 
 **(2)** The term “Milestone A approval” has the meaning given that term in section 4251 of this title 10.
 
-(Added Pub. L. 117–263, div. A, title XVI, § 1601, Dec. 23, 2022, 136 Stat. 2929.)
+(Added Pub. L. 117–263, div. A, title XVI, § 1601, Dec. 23, 2022, 136 Stat. 2929.)
 
-## § 2275b. Requirements for appropriate classification guidance
+## § 2275b. Requirements for appropriate classification guidance
 
 **(a) In General.—** Before a space major defense acquisition program achieves Milestone B approval, or equivalent, the milestone decision authority shall determine whether the classification guidance for the program remains appropriate and—
 
@@ -1431,7 +1431,7 @@ A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related 
 
 **(3)** The term “space major defense acquisition program” means a major defense acquisition program for the acquisition of a satellite, ground system, or command and control system.
 
-(Added Pub. L. 118–31, div. A, title XVI, § 1602, Dec. 22, 2023, 137 Stat. 584; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(27), Dec. 23, 2024, 138 Stat. 2204.)
+(Added Pub. L. 118–31, div. A, title XVI, § 1602, Dec. 22, 2023, 137 Stat. 584; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(27), Dec. 23, 2024, 138 Stat. 2204.)
 
 **Editorial Notes**
 
@@ -1439,7 +1439,7 @@ A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related 
 
 2024—Pub. L. 118–159 struck out period at end of section catchline.
 
-## § 2275c. Space Force satellite ground systems
+## § 2275c. Space Force satellite ground systems
 
 **(a) Requirement.—** The Assistant Secretary of the Air Force for Space Acquisitions and Integration, acting as the service acquisition executive for the Air Force for space systems and programs, may not authorize a launch associated with a Space Force satellite acquisition program unless—
 
@@ -1453,15 +1453,15 @@ A prior section 2275, act Aug. 10, 1956, ch. 1041, 70A Stat. 126, which related 
 
 **(2)** Not later than 10 days after making a waiver under paragraph (1), the Secretary shall notify the congressional defense committees of such waiver.
 
-(Added Pub. L. 118–159, div. A, title XVI, § 1603(a), Dec. 23, 2024, 138 Stat. 2160.)
+(Added Pub. L. 118–159, div. A, title XVI, § 1603(a), Dec. 23, 2024, 138 Stat. 2160.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions requiring reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs were contained in section 2275 of this title, prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1603(b), Dec. 23, 2024, 138 Stat. 2160.
+Provisions requiring reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs were contained in section 2275 of this title, prior to repeal by Pub. L. 118–159, div. A, title XVI, § 1603(b), Dec. 23, 2024, 138 Stat. 2160.
 
-## § 2275d. Acquisition and operation of space systems for space warfighting and control
+## § 2275d. Acquisition and operation of space systems for space warfighting and control
 
 **(a) Requirement.—** The Secretary of Defense shall acquire and operate space systems to be used primarily for space warfighting and control to meet the requirements specified by one or more combatant commanders in carrying out the responsibilities set forth in section 164 of this title.
 
@@ -1481,9 +1481,9 @@ Provisions requiring reports on integration of acquisition and capability delive
 
 **(D)** the anticipated duration of such waiver.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1603, Dec. 18, 2025, 139 Stat. 1175.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1603, Dec. 18, 2025, 139 Stat. 1175.)
 
-## § 2276. Commercial space launch cooperation
+## § 2276. Commercial space launch cooperation
 
 **(a) Authority.—** The Secretary of Defense may take such actions as the Secretary considers to be in the best interest of the Federal Government to—
 
@@ -1537,7 +1537,7 @@ Provisions requiring reports on integration of acquisition and capability delive
 
 **(3) Use of funds.—** Funds deposited in the Defense Cooperation Space Launch Account under paragraph (2) are authorized to be appropriated and shall be available for obligation only to the extent provided in advance in an appropriation Act for costs incurred by the Department of Defense in carrying out subsection (b). Funds in the Account shall remain available until expended.
 
-**[(e)** Repealed. Pub. L. 115–232, div. A, title VIII, § 813(a)(2), Aug. 13, 2018, 132 Stat. 1851.]
+**[(e)** Repealed. Pub. L. 115–232, div. A, title VIII, § 813(a)(2), Aug. 13, 2018, 132 Stat. 1851.]
 
 **(f) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section.
 
@@ -1555,13 +1555,13 @@ Provisions requiring reports on integration of acquisition and capability delive
 
 **(4) Space transportation infrastructure.—** The term “space transportation infrastructure” has the meaning given that term in section 50501(12) of title 51.
 
-(Added Pub. L. 112–239, div. A, title IX, § 912(a), Jan. 2, 2013, 126 Stat. 1872; amended Pub. L. 115–232, div. A, title VIII, § 813(a)(2), Aug. 13, 2018, 132 Stat. 1851.)
+(Added Pub. L. 112–239, div. A, title IX, § 912(a), Jan. 2, 2013, 126 Stat. 1872; amended Pub. L. 115–232, div. A, title VIII, § 813(a)(2), Aug. 13, 2018, 132 Stat. 1851.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 126; Sept. 7, 1962, Pub. L. 87–651, title I, § 131, 76 Stat. 514, which related to inspection and audit of plants and books of contractors and provided criminal penalties for violations, was repealed by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+A prior section 2276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 126; Sept. 7, 1962, Pub. L. 87–651, title I, § 131, 76 Stat. 514, which related to inspection and audit of plants and books of contractors and provided criminal penalties for violations, was repealed by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 **Amendments**
 
@@ -1571,7 +1571,7 @@ A prior section 2276, acts Aug. 10, 1956, ch. 1041, 70A Stat. 126; Sept. 7, 1962
 
 **Plan To Improve Threat-Sharing Arrangements With Commercial Space Operators**
 
-Pub. L. 118–31, div. A, title XVI, § 1610, Dec. 22, 2023, 137 Stat. 589, provided that:
+Pub. L. 118–31, div. A, title XVI, § 1610, Dec. 22, 2023, 137 Stat. 589, provided that:
 
 > **“(a) Plan for Threat Sharing With Commercial Space Operators.—** The Assistant Secretary of the Air Force for Space Acquisition and Integration, in consultation with the Commander of the United States Space Command, shall develop and implement a plan to expand threat-sharing arrangements with commercial space operators that are under contract with the Department of Defense as of the date of the enactment of this Act [Dec. 22, 2023].
 
@@ -1579,7 +1579,7 @@ Pub. L. 118–31, div. A, title XVI, § 1610, Dec. 22, 2023, 137 Stat. 589, pr
 
 **National Security Space Launch Program**
 
-Pub. L. 118–159, div. A, title XVI, § 1605(b), (c), Dec. 23, 2024, 138 Stat. 2161, provided that:
+Pub. L. 118–159, div. A, title XVI, § 1605(b), (c), Dec. 23, 2024, 138 Stat. 2161, provided that:
 
 > **“(b) Notification of Changes in Phase Three Acquisition Strategy.—** Not later than seven days before implementing any modification to the final phase three acquisition strategy under the National Security Space Launch program, the Assistant Secretary of the Air Force for Space Acquisition and Integration shall submit to the appropriate congressional committees notice of the proposed modification together with an explanation of the reasons for such modification.
 
@@ -1595,7 +1595,7 @@ Pub. L. 118–159, div. A, title XVI, § 1605(b), (c), Dec. 23, 2024, 138 Stat
 
 > **“(3)** The term ‘phase three’ has the meaning given that term in section 1601(e) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 118–71 [probably should be 117–81]; 10 U.S.C. 2276 note) [set out below].”
 
-Pub. L. 117–81, div. A, title XVI, § 1601(b), (c), (e), Dec. 27, 2021, 135 Stat. 2073–2075, as amended by Pub. L. 118–159, div. A, title XVI, § 1605(a), Dec. 23, 2024, 138 Stat. 2161, provided that:
+Pub. L. 117–81, div. A, title XVI, § 1601(b), (c), (e), Dec. 27, 2021, 135 Stat. 2073–2075, as amended by Pub. L. 118–159, div. A, title XVI, § 1605(a), Dec. 23, 2024, 138 Stat. 2161, provided that:
 
 > **“(b) Policy.—** With respect to entering into contracts for launch services during the period beginning on the date of the enactment of this Act [Dec. 27, 2021] and ending September 30, 2029, it shall be the policy of the Department of Defense and the National Reconnaissance Office to—
 
@@ -1623,7 +1623,7 @@ Pub. L. 117–81, div. A, title XVI, § 1601(b), (c), (e), Dec. 27, 2021, 135 
 
 > **“(3)** The term ‘phase two’ means, with respect to the National Security Space Launch program, launch missions ordered under the program during fiscal years 2020 through 2024.”
 
-## § 2276a. Special authority for provision of space launch support services to increase space launch capacity
+## § 2276a. Special authority for provision of space launch support services to increase space launch capacity
 
 **(a) In General.—** The Secretary of a military department may support Federal and commercial space launch capacity on any domestic real property under the control of the Secretary through the provision of space launch support services.
 
@@ -1665,7 +1665,7 @@ Pub. L. 117–81, div. A, title XVI, § 1601(b), (c), (e), Dec. 27, 2021, 135 
 
 **(C)** an identification of the rate, fixed price, or similar mechanism, if any, used to calculate the amount of the indirect costs that are reimbursable for the fiscal year following the fiscal year covered by the report.
 
-(Added Pub. L. 118–31, div. A, title XVI, § 1603, Dec. 22, 2023, 137 Stat. 584; amended Pub. L. 119–60, div. A, title XVI, § 1602, Dec. 18, 2025, 139 Stat. 1175.)
+(Added Pub. L. 118–31, div. A, title XVI, § 1603, Dec. 22, 2023, 137 Stat. 584; amended Pub. L. 119–60, div. A, title XVI, § 1602, Dec. 18, 2025, 139 Stat. 1175.)
 
 **Editorial Notes**
 
@@ -1673,7 +1673,7 @@ Pub. L. 117–81, div. A, title XVI, § 1601(b), (c), (e), Dec. 27, 2021, 135 
 
 2025—Subsecs. (c) to (e). Pub. L. 119–60 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-## § 2277. Disclosure of National Security Space Launch program contract pricing terms
+## § 2277. Disclosure of National Security Space Launch program contract pricing terms
 
 **(a) In General.—** With respect to any contract awarded by the Secretary of the Air Force for the launch of a national security payload under the National Security Space Launch program, not later than 30 days after entering into such a contract, the Secretary shall submit to the congressional defense committees a description of the pricing terms of the contract. For those contracts that include the launch of assets of the National Reconnaissance Office, the Secretary shall also submit the pricing terms to the congressional intelligence committees (as defined by section 3 of the National Security Act of 1947 (50 U.S.C. 3003)).
 
@@ -1685,17 +1685,17 @@ Pub. L. 117–81, div. A, title XVI, § 1601(b), (c), (e), Dec. 27, 2021, 135 
 
 **(c) Rule of Construction.—** For purposes of section 1905 of title 18, a disclosure of contract pricing terms under subsection (a) shall be construed as a disclosure authorized by law.
 
-(Added Pub. L. 117–81, div. A, title XVI, § 1601(a)(1), Dec. 27, 2021, 135 Stat. 2073.)
+(Added Pub. L. 117–81, div. A, title XVI, § 1601(a)(1), Dec. 27, 2021, 135 Stat. 2073.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2277, added Pub. L. 112–239, div. A, title IX, § 913(c)(1), Jan. 2, 2013, 126 Stat. 1875, related to report on foreign counter-space programs, prior to repeal by Pub. L. 115–91, div. A, title X, § 1051(a)(13)(A), Dec. 12, 2017, 131 Stat. 1561.
+A prior section 2277, added Pub. L. 112–239, div. A, title IX, § 913(c)(1), Jan. 2, 2013, 126 Stat. 1875, related to report on foreign counter-space programs, prior to repeal by Pub. L. 115–91, div. A, title X, § 1051(a)(13)(A), Dec. 12, 2017, 131 Stat. 1561.
 
-Another prior section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to availability of appropriations, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+Another prior section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to availability of appropriations, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
-## § 2278. Notification of foreign interference of national security space
+## § 2278. Notification of foreign interference of national security space
 
 **(a) Notice Required.—**
 
@@ -1729,19 +1729,19 @@ Another prior section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related 
 
 **(2)** The term “United States critical national security space capability” means a national security space capability of the United States provided by an asset on the critical asset list established by the Commander of the United States Space Command pursuant to Department of Defense Directive 3020.40, Department of Defense Instruction 3020.45, Joint Publication 3-01 of the Joint Chiefs of Staff, or such other relevant requirements of the Department of Defense.
 
-(Added Pub. L. 113–66, div. A, title IX, § 911(a), Dec. 26, 2013, 127 Stat. 823; amended Pub. L. 116–283, div. A, title XVI, § 1604(d), Jan. 1, 2021, 134 Stat. 4044; Pub. L. 118–159, div. A, title XVI, § 1604, Dec. 23, 2024, 138 Stat. 2160.)
+(Added Pub. L. 113–66, div. A, title IX, § 911(a), Dec. 26, 2013, 127 Stat. 823; amended Pub. L. 116–283, div. A, title XVI, § 1604(d), Jan. 1, 2021, 134 Stat. 4044; Pub. L. 118–159, div. A, title XVI, § 1604, Dec. 23, 2024, 138 Stat. 2160.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2278, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to purchases of sample aircraft, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+A prior section 2278, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to purchases of sample aircraft, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–159, § 1604(1), designated introductory provisions as par. (1), substituted “Except as provided by paragraph (2), the Commander of the United States Space Command” for “The Commander of the United States Space Command”, inserted “critical” before “national security space capability”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+2024—Subsec. (a). Pub. L. 118–159, § 1604(1), designated introductory provisions as par. (1), substituted “Except as provided by paragraph (2), the Commander of the United States Space Command” for “The Commander of the United States Space Command”, inserted “critical” before “national security space capability”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-Subsec. (c). Pub. L. 118–159, § 1604(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In this section, the term ‘appropriate congressional committees’ means—
+Subsec. (c). Pub. L. 118–159, § 1604(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In this section, the term ‘appropriate congressional committees’ means—
 
 “(1) the congressional defense committees; and
 
@@ -1749,7 +1749,7 @@ Subsec. (c). Pub. L. 118–159, § 1604(2), added subsec. (c) and struck out f
 
 2021—Subsec. (a). Pub. L. 116–283 substituted “Space Command” for “Strategic Command”.
 
-## § 2279. Foreign commercial satellite services and foreign launches
+## § 2279. Foreign commercial satellite services and foreign launches
 
 **(a) Prohibition.—** Except as provided in subsection (c), the Secretary of Defense may not enter into a contract for satellite services with a foreign entity if the Secretary reasonably believes that—
 
@@ -1803,7 +1803,7 @@ Subsec. (c). Pub. L. 118–159, § 1604(2), added subsec. (c) and struck out f
 
 **(2)** The term “cybersecurity risk” means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism.
 
-(Added Pub. L. 113–66, div. A, title XVI, § 1602(a)(1), Dec. 26, 2013, 127 Stat. 941; amended Pub. L. 115–91, div. A, title XVI, § 1603(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1722, 1723; Pub. L. 115–232, div. A, title X, § 1081(a)(16), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title IX, § 902(30), Dec. 20, 2019, 133 Stat. 1546.)
+(Added Pub. L. 113–66, div. A, title XVI, § 1602(a)(1), Dec. 26, 2013, 127 Stat. 941; amended Pub. L. 115–91, div. A, title XVI, § 1603(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1722, 1723; Pub. L. 115–232, div. A, title X, § 1081(a)(16), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title IX, § 902(30), Dec. 20, 2019, 133 Stat. 1546.)
 
 **Editorial Notes**
 
@@ -1815,7 +1815,7 @@ Section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 201
 
 **Prior Provisions**
 
-A prior section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to restrictions on alien employees of contractors as to access to plans and specifications, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
+A prior section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to restrictions on alien employees of contractors as to access to plans and specifications, prior to repeal by Pub. L. 103–160, div. A, title VIII, § 821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 
 **Amendments**
 
@@ -1823,39 +1823,39 @@ A prior section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to res
 
 2018—Subsec. (c). Pub. L. 115–232 substituted “subsections (a) and (b)” for “subsection (a) and (b)” in introductory provisions.
 
-2017—Pub. L. 115–91, § 1603(d)(1)(A), substituted “services and foreign launches” for “services” in section catchline.
+2017—Pub. L. 115–91, § 1603(d)(1)(A), substituted “services and foreign launches” for “services” in section catchline.
 
-Subsec. (a). Pub. L. 115–91, § 1603(d)(1)(B), substituted “subsection (c)” for “subsection (b)” in introductory provisions.
+Subsec. (a). Pub. L. 115–91, § 1603(d)(1)(B), substituted “subsection (c)” for “subsection (b)” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 115–91, § 1603(d)(1)(C), struck out “launch or other” before “satellite services”.
+Subsec. (a)(2). Pub. L. 115–91, § 1603(d)(1)(C), struck out “launch or other” before “satellite services”.
 
-Subsec. (a)(3). Pub. L. 115–91, § 1603(a), added par. (3).
+Subsec. (a)(3). Pub. L. 115–91, § 1603(a), added par. (3).
 
-Subsec. (b). Pub. L. 115–91, § 1603(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 115–91, § 1603(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 115–91, § 1603(b)(1), (d)(1)(D), redesignated subsec. (b) as (c) and substituted “prohibitions in subsection (a) and (b)” for “prohibition in subsection (a)” in introductory provisions. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 115–91, § 1603(b)(1), (d)(1)(D), redesignated subsec. (b) as (c) and substituted “prohibitions in subsection (a) and (b)” for “prohibition in subsection (a)” in introductory provisions. Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 115–91, § 1603(b)(1), (d)(1)(B), (E), redesignated subsec. (c) as (d) and substituted “subsection (c)” for “subsection (b)” and “prohibition under subsection (a) or (b)” for “prohibition under subsection (a)”. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 115–91, § 1603(b)(1), (d)(1)(B), (E), redesignated subsec. (c) as (d) and substituted “subsection (c)” for “subsection (b)” and “prohibition under subsection (a) or (b)” for “prohibition under subsection (a)”. Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 115–91, § 1603(b)(1), (d)(1)(B), redesignated subsec. (d) as (e) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 115–91, § 1603(b)(1), (d)(1)(B), redesignated subsec. (d) as (e) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 115–91, § 1603(b)(1), (c), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, text read as follows: “In this section, the term ‘covered foreign country’ means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2019).”
+Subsec. (f). Pub. L. 115–91, § 1603(b)(1), (c), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, text read as follows: “In this section, the term ‘covered foreign country’ means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2019).”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title XVI, § 1603(e), Dec. 12, 2017, 131 Stat. 1723, provided that: “Except as otherwise specifically provided, the amendments made by this section [amending this section] shall apply with respect to contracts for satellite services awarded by the Secretary of Defense on or after the date of the enactment of this Act [Dec. 12, 2017].”
+Pub. L. 115–91, div. A, title XVI, § 1603(e), Dec. 12, 2017, 131 Stat. 1723, provided that: “Except as otherwise specifically provided, the amendments made by this section [amending this section] shall apply with respect to contracts for satellite services awarded by the Secretary of Defense on or after the date of the enactment of this Act [Dec. 12, 2017].”
 
-## [§ 2279a. Repealed. Pub. L. 115–91, div. A, title XVI, § 1601(b)(2)(A), Dec. 12, 2017, 131 Stat. 1719]
+## [§ 2279a. Repealed. Pub. L. 115–91, div. A, title XVI, § 1601(b)(2)(A), Dec. 12, 2017, 131 Stat. 1719]
 
-Section, added Pub. L. 114–92, div. A, title XVI, § 1602(a), Nov. 25, 2015, 129 Stat. 1096, related to principal advisor on space control.
+Section, added Pub. L. 114–92, div. A, title XVI, § 1602(a), Nov. 25, 2015, 129 Stat. 1096, related to principal advisor on space control.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination of Certain Positions and Entities**
 
-Pub. L. 115–91, div. A, title XVI, § 1601(b)(1), Dec. 12, 2017, 131 Stat. 1719, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1601(b)(1), Dec. 12, 2017, 131 Stat. 1719, provided that:
 
 > **“(1) In general.—** Effective 30 days after the date of the enactment of this Act [Dec. 12, 2017]—
 
@@ -1869,7 +1869,7 @@ Pub. L. 115–91, div. A, title XVI, § 1601(b)(1), Dec. 12, 2017, 131 Stat. 1
 
 > **“(E)** the Defense Space Council shall be terminated.”
 
-## § 2279b. Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise
+## § 2279b. Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise
 
 **(a) Establishment.—** There is within the Department of Defense a council to be known as the “Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise” (in this section referred to as the “Council”).
 
@@ -1953,7 +1953,7 @@ Pub. L. 115–91, div. A, title XVI, § 1601(b)(1), Dec. 12, 2017, 131 Stat. 1
 
 **(h) Termination.—** The Council shall terminate on the date that is 10 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022.
 
-(Added Pub. L. 114–92, div. A, title XVI, § 1603(a), Nov. 25, 2015, 129 Stat. 1096; amended Pub. L. 116–92, div. A, title IX, § 902(31), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title XVI, § 1604(b), Jan. 1, 2021, 134 Stat. 4043; Pub. L. 117–81, div. A, title X, § 1081(a)(27), title XVI, § 1604, Dec. 27, 2021, 135 Stat. 1921, 2077.)
+(Added Pub. L. 114–92, div. A, title XVI, § 1603(a), Nov. 25, 2015, 129 Stat. 1096; amended Pub. L. 116–92, div. A, title IX, § 902(31), Dec. 20, 2019, 133 Stat. 1546; Pub. L. 116–283, div. A, title XVI, § 1604(b), Jan. 1, 2021, 134 Stat. 4043; Pub. L. 117–81, div. A, title X, § 1081(a)(27), title XVI, § 1604, Dec. 27, 2021, 135 Stat. 1921, 2077.)
 
 **Editorial Notes**
 
@@ -1963,21 +1963,21 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Amendments**
 
-2021—Subsec. (b)(7) to (11). Pub. L. 116–283, § 1604(b)(1), added par. (7) and redesignated former pars. (7) to (10) as (8) to (11) (relating to the Secretaries of the military departments), respectively.
+2021—Subsec. (b)(7) to (11). Pub. L. 116–283, § 1604(b)(1), added par. (7) and redesignated former pars. (7) to (10) as (8) to (11) (relating to the Secretaries of the military departments), respectively.
 
-Subsec. (b)(12). Pub. L. 117–81, § 1081(a)(27), redesignated par. (11), relating to such other officers of the Department of Defense as the Secretary may designate, as (12).
+Subsec. (b)(12). Pub. L. 117–81, § 1081(a)(27), redesignated par. (11), relating to such other officers of the Department of Defense as the Secretary may designate, as (12).
 
-Subsec. (d)(2)(D) to (F). Pub. L. 117–81, § 1604(1), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+Subsec. (d)(2)(D) to (F). Pub. L. 117–81, § 1604(1), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-Subsec. (f)(1), (2). Pub. L. 116–283, § 1604(b)(2), substituted “Space Command” for “Strategic Command” in introductory provisions.
+Subsec. (f)(1), (2). Pub. L. 116–283, § 1604(b)(2), substituted “Space Command” for “Strategic Command” in introductory provisions.
 
-Subsec. (h). Pub. L. 117–81, § 1604(2), substituted “National Defense Authorization Act for Fiscal Year 2022” for “National Defense Authorization Act for Fiscal Year 2016”.
+Subsec. (h). Pub. L. 117–81, § 1604(2), substituted “National Defense Authorization Act for Fiscal Year 2022” for “National Defense Authorization Act for Fiscal Year 2016”.
 
-2019—Subsec. (b)(2) to (11). Pub. L. 116–92, § 902(31)(A), added pars. (2) and (3), redesignated former pars. (3) to (10) as (4) to (11), respectively, and struck out former par. (2) which read as follows: “The Under Secretary of Defense for Acquisition, Technology, and Logistics.”
+2019—Subsec. (b)(2) to (11). Pub. L. 116–92, § 902(31)(A), added pars. (2) and (3), redesignated former pars. (3) to (10) as (4) to (11), respectively, and struck out former par. (2) which read as follows: “The Under Secretary of Defense for Acquisition, Technology, and Logistics.”
 
-Subsec. (c). Pub. L. 116–92, § 902(31)(B), substituted “the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment,” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (c). Pub. L. 116–92, § 902(31)(B), substituted “the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment,” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-## [§ 2279c. Renumbered § 9081]
+## [§ 2279c. Renumbered § 9081]
 
 **Editorial Notes**
 
@@ -1985,7 +1985,7 @@ Subsec. (c). Pub. L. 116–92, § 902(31)(B), substituted “the Under Secreta
 
 A prior section 2279c was renumbered section 2279d of this title.
 
-## § 2279d. Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments
+## § 2279d. Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments
 
 **(a) Limitation.—**
 
@@ -2035,13 +2035,13 @@ A prior section 2279c was renumbered section 2279d of this title.
 
 **(c) Sunset.—** The limitation in subsection (a) shall terminate on December 31, 2023.
 
-(Added and amended Pub. L. 115–91, div. A, title XVI, § 1602, Dec. 12, 2017, 131 Stat. 1721, § 2279c; renumbered § 2279d, Pub. L. 115–232, div. A, title X, § 1081(a)(18)(A), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title XVII, § 1731(a)(35), Dec. 20, 2019, 133 Stat. 1814.)
+(Added and amended Pub. L. 115–91, div. A, title XVI, § 1602, Dec. 12, 2017, 131 Stat. 1721, § 2279c; renumbered § 2279d, Pub. L. 115–232, div. A, title X, § 1081(a)(18)(A), Aug. 13, 2018, 132 Stat. 1984; Pub. L. 116–92, div. A, title XVII, § 1731(a)(35), Dec. 20, 2019, 133 Stat. 1814.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1602(b) of Pub. L. 113–66, formerly set out as a note under section 2281 of this title, which was transferred to and inserted as the first subsection of this section, redesignated as subsec. (a), and amended by Pub. L. 115–91, § 1602(b), was based on Pub. L. 113–66, div. A, title XVI, § 1602(b), Dec. 26, 2013, 127 Stat. 943.
+Section 1602(b) of Pub. L. 113–66, formerly set out as a note under section 2281 of this title, which was transferred to and inserted as the first subsection of this section, redesignated as subsec. (a), and amended by Pub. L. 115–91, § 1602(b), was based on Pub. L. 113–66, div. A, title XVI, § 1602(b), Dec. 26, 2013, 127 Stat. 943.
 
 **Amendments**
 
@@ -2049,4 +2049,4 @@ Section 1602(b) of Pub. L. 113–66, formerly set out as a note under section 22
 
 2018—Pub. L. 115–232 renumbered section 2279c of this title as this section.
 
-2017—Subsec. (a). Pub. L. 115–91, § 1602(b), transferred section 1602(b) of Pub. L. 113–66 to this section, inserted it as the first subsection of this section, designated it as subsec. (a), substituted “Limitation” for “Limitation on Construction on United States Territory of Satellite Positioning Ground Monitoring Stations of Foreign Governments” in heading, and struck out par. (6). Prior to amendment, text of par. (6) read as follows: “Effective on the date that is five years after the date of the enactment of this Act, paragraphs (1) through (5) are repealed.” See Codification note above.
+2017—Subsec. (a). Pub. L. 115–91, § 1602(b), transferred section 1602(b) of Pub. L. 113–66 to this section, inserted it as the first subsection of this section, designated it as subsec. (a), substituted “Limitation” for “Limitation on Construction on United States Territory of Satellite Positioning Ground Monitoring Stations of Foreign Governments” in heading, and struck out par. (6). Prior to amendment, text of par. (6) read as follows: “Effective on the date that is five years after the date of the enactment of this Act, paragraphs (1) through (5) are repealed.” See Codification note above.

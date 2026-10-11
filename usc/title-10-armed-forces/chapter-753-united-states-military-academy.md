@@ -19,51 +19,51 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title V, § 557(a)(1), Dec. 23, 2024, 138 Stat. 1896, substituted “service obligation” for “agreement to serve as officer” in item 7448. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title V, § 557(a)(1), Dec. 23, 2024, 138 Stat. 1896, substituted “service obligation” for “agreement to serve as officer” in item 7448. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title V, § 553(a)(2), Dec. 27, 2021, 135 Stat. 1736, added item 7442a.
+2021—Pub. L. 117–81, div. A, title V, § 553(a)(2), Dec. 27, 2021, 135 Stat. 1736, added item 7442a.
 
-2018–Pub. L. 115–232, div. A, title VIII, § 808(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 403 of this title as this chapter and items 4331 to 4362 as 7431 to 7462, respectively.
+2018–Pub. L. 115–232, div. A, title VIII, § 808(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 403 of this title as this chapter and items 4331 to 4362 as 7431 to 7462, respectively.
 
-2016—Pub. L. 114–328, div. A, title XII, § 1248(b)(2)(A), Dec. 23, 2016, 130 Stat. 2525, struck out items 4344 “Selection of persons from foreign countries”, 4345 “Exchange program with foreign military academies”, and 4345a “Foreign and cultural exchange activities”.
+2016—Pub. L. 114–328, div. A, title XII, § 1248(b)(2)(A), Dec. 23, 2016, 130 Stat. 2525, struck out items 4344 “Selection of persons from foreign countries”, 4345 “Exchange program with foreign military academies”, and 4345a “Foreign and cultural exchange activities”.
 
-2015—Pub. L. 114–92, div. A, title V, § 557(b), Nov. 25, 2015, 129 Stat. 827, added item 4362.
+2015—Pub. L. 114–92, div. A, title V, § 557(b), Nov. 25, 2015, 129 Stat. 827, added item 4362.
 
-2008—Pub. L. 110–417, [div. A], title V, § 541(a)(2), Oct. 14, 2008, 122 Stat. 4455, added item 4345a.
+2008—Pub. L. 110–417, [div. A], title V, § 541(a)(2), Oct. 14, 2008, 122 Stat. 4455, added item 4345a.
 
-2006—Pub. L. 109–364, div. A, title X, § 1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, made technical correction to directory language of Pub. L. 108–375, § 544(a)(2). See 2004 Amendment note below.
+2006—Pub. L. 109–364, div. A, title X, § 1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, made technical correction to directory language of Pub. L. 108–375, § 544(a)(2). See 2004 Amendment note below.
 
-Pub. L. 109–364, div. A, title V, § 532(d)(1), Oct. 17, 2006, 120 Stat. 2205, added item 4361.
+Pub. L. 109–364, div. A, title V, § 532(d)(1), Oct. 17, 2006, 120 Stat. 2205, added item 4361.
 
-2004—Pub. L. 108–375, div. A, title V, § 545(a)(2), Oct. 28, 2004, 118 Stat. 1908, added item 4360.
+2004—Pub. L. 108–375, div. A, title V, § 545(a)(2), Oct. 28, 2004, 118 Stat. 1908, added item 4360.
 
-Pub. L. 108–375, div. A, title V, § 544(a)(2), Oct. 28, 2004, 118 Stat. 1906, as amended by Pub. L. 109–364, div. A, title X, § 1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, added item 4359.
+Pub. L. 108–375, div. A, title V, § 544(a)(2), Oct. 28, 2004, 118 Stat. 1906, as amended by Pub. L. 109–364, div. A, title X, § 1071(g)(2), Oct. 17, 2006, 120 Stat. 2402, added item 4359.
 
-1999—Pub. L. 106–65, div. A, title V, § 532(a)(4)(B), div. B, title XXVIII, § 2871(a)(2), Oct. 5, 1999, 113 Stat. 603, 873, added items 4333a and 4357.
+1999—Pub. L. 106–65, div. A, title V, § 532(a)(4)(B), div. B, title XXVIII, § 2871(a)(2), Oct. 5, 1999, 113 Stat. 603, 873, added items 4333a and 4357.
 
-1998—Pub. L. 105–261, div. A, title X, § 1063(a)(2), Oct. 17, 1998, 112 Stat. 2130, added item 4358.
+1998—Pub. L. 105–261, div. A, title X, § 1063(a)(2), Oct. 17, 1998, 112 Stat. 2130, added item 4358.
 
-1997—Pub. L. 105–85, div. A, title V, § 542(a)(2), Nov. 18, 1997, 111 Stat. 1741, added item 4345.
+1997—Pub. L. 105–85, div. A, title V, § 542(a)(2), Nov. 18, 1997, 111 Stat. 1741, added item 4345.
 
-1996—Pub. L. 104–106, div. A, title V, § 533(a)(2), Feb. 10, 1996, 110 Stat. 315, struck out item 4357 “Athletics program: athletic director; nonappropriated fund account”.
+1996—Pub. L. 104–106, div. A, title V, § 533(a)(2), Feb. 10, 1996, 110 Stat. 315, struck out item 4357 “Athletics program: athletic director; nonappropriated fund account”.
 
-1994—Pub. L. 103–337, div. A, title V, § 556(a)(2), Oct. 5, 1994, 108 Stat. 2774, added item 4357.
+1994—Pub. L. 103–337, div. A, title V, § 556(a)(2), Oct. 5, 1994, 108 Stat. 2774, added item 4357.
 
-1993—Pub. L. 103–160, div. A, title V, § 533(a)(2), Nov. 30, 1993, 107 Stat. 1658, added item 4338.
+1993—Pub. L. 103–160, div. A, title V, § 533(a)(2), Nov. 30, 1993, 107 Stat. 1658, added item 4338.
 
-1983—Pub. L. 98–94, title X, § 1004(a)(3), Sept. 24, 1983, 97 Stat. 658, substituted “from foreign countries” for “from Canada and American Republics” in item 4344, and struck out item 4345 “Selection of Filipinos”.
+1983—Pub. L. 98–94, title X, § 1004(a)(3), Sept. 24, 1983, 97 Stat. 658, substituted “from foreign countries” for “from Canada and American Republics” in item 4344, and struck out item 4345 “Selection of Filipinos”.
 
-1982—Pub. L. 97–295, § 1(41)(B), Oct. 12, 1982, 96 Stat. 1298, added item 4356.
+1982—Pub. L. 97–295, § 1(41)(B), Oct. 12, 1982, 96 Stat. 1298, added item 4356.
 
-1981—Pub. L. 97–60, title II, § 203(a)(2)(B), Oct. 14, 1981, 95 Stat. 1006, added item 4341a.
+1981—Pub. L. 97–60, title II, § 203(a)(2)(B), Oct. 14, 1981, 95 Stat. 1006, added item 4341a.
 
-1978—Pub. L. 95–551, § 4(b), Oct. 30, 1978, 92 Stat. 2069, substituted “Establishment; Superintendent; faculty” for “Superintendent; faculty; adjutant; chaplain” in item 4331, “director of admissions” for “registrar” in item 4336, and struck out item 4338 “Director of music”.
+1978—Pub. L. 95–551, § 4(b), Oct. 30, 1978, 92 Stat. 2069, substituted “Establishment; Superintendent; faculty” for “Superintendent; faculty; adjutant; chaplain” in item 4331, “director of admissions” for “registrar” in item 4336, and struck out item 4338 “Director of music”.
 
-1968—Pub. L. 90–623, § 2(7), Oct. 22, 1968, 82 Stat. 1314, struck out item 4339 “Organist and choirmaster; civilian instructors in departments of foreign languages and tactics: quarters, fuel, and light”.
+1968—Pub. L. 90–623, § 2(7), Oct. 22, 1968, 82 Stat. 1314, struck out item 4339 “Organist and choirmaster; civilian instructors in departments of foreign languages and tactics: quarters, fuel, and light”.
 
-1958—Pub. L. 85–600, § 1(12), Aug. 6, 1958, 72 Stat. 523, inserted “, registrar” in item 4336.
+1958—Pub. L. 85–600, § 1(12), Aug. 6, 1958, 72 Stat. 523, inserted “, registrar” in item 4336.
 
-## § 7431. Establishment; Superintendent; faculty
+## § 7431. Establishment; Superintendent; faculty
 
 **(a)** There is in the Department of the Army a United States Military Academy, at West Point, New York (hereinafter in this chapter referred to as the “Academy”), for the instruction and preparation for military service of selected persons called “cadets”. The organization of the Academy shall be prescribed by the Secretary of the Army.
 
@@ -81,17 +81,17 @@ Pub. L. 108–375, div. A, title V, § 544(a)(2), Oct. 28, 2004, 118 Stat. 190
 
 **(6)** A director of admissions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 238, § 4331; Pub. L. 85–600, § 1(8), Aug. 6, 1958, 72 Stat. 522; Pub. L. 85–723, Aug. 21, 1958, 72 Stat. 711; Pub. L. 95–551, § 1, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, § 512(12), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 102–484, div. A, title V, § 523(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 103–160, div. A, title V, § 533(a)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L. 110–181, div. A, title V, § 507, Jan. 28, 2008, 122 Stat. 96; renumbered § 7431, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 238, § 4331; Pub. L. 85–600, § 1(8), Aug. 6, 1958, 72 Stat. 522; Pub. L. 85–723, Aug. 21, 1958, 72 Stat. 711; Pub. L. 95–551, § 1, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, § 512(12), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 102–484, div. A, title V, § 523(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 103–160, div. A, title V, § 533(a)(3), Nov. 30, 1993, 107 Stat. 1658; Pub. L. 110–181, div. A, title V, § 507, Jan. 28, 2008, 122 Stat. 96; renumbered § 7431, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4331(a)               4331(b) | 10:1061. 10:1071. 10:1077. 10:1077a. 10:1078a. 10:1087 (less proviso). 10:1088. 10:1089 (1st 20 words). 10:1073. | R.S. 1309; Feb. 18, 1896, ch. 22 (less proviso), 29 Stat. 8. June 23, 1879, ch. 35, § 4 (less last 30 words), 21 Stat. 34. June 8, 1926, ch. 492 (1st par., less 1st proviso), 44 Stat. 703. |
+| 4331(a) 4331(b) | 10:1061. 10:1071. 10:1077. 10:1077a. 10:1078a. 10:1087 (less proviso). 10:1088. 10:1089 (1st 20 words). 10:1073. | R.S. 1309; Feb. 18, 1896, ch. 22 (less proviso), 29 Stat. 8. June 23, 1879, ch. 35, § 4 (less last 30 words), 21 Stat. 34. June 8, 1926, ch. 492 (1st par., less 1st proviso), 44 Stat. 703. |
 |  |  | Apr. 19, 1910, ch. 174 (1st and 2d provisos under “Permanent Establishment”), 36 Stat. 312; June 8, 1926, ch. 492 (1st proviso of 1st par.), 44 Stat. 703. |
 |  |  | Apr. 19, 1910, ch. 174 (8th par. under “Permanent Establishment”), 36 Stat. 312. |
 |  |  | May 26, 1934, ch. 353, 48 Stat. 806. |
-|  |  | June 26, 1946, ch. 495, §§ 1 (less proviso), 2, 3 (1st 20 words), 60 Stat. 312. |
+|  |  | June 26, 1946, ch. 495, §§ 1 (less proviso), 2, 3 (1st 20 words), 60 Stat. 312. |
 
 In subsection (a), reference to the senior instructors of artillery, cavalry, and infantry, and the master of the sword, in 10:1061, are omitted as obsolete. The duties of the former master of the sword are presently performed by the director of physical education, detailed to that duty by the superintendent of the Academy from officers assigned to duty at that installation by the Secretary under section 3012(e) of this title. The words “and one assistant professor”, in 10:1061, are omitted as superseded by section 4333 of this title. The words “shall be constituted” are omitted as surplusage. The Act of June 8, 1926, ch. 492 (last proviso of 1st par.), 44 Stat. 703, is not contained in 10:1077a. It is also omitted from the revised section as executed.
 
@@ -99,7 +99,7 @@ The word “permanent” is inserted in subsection (a)(4), pursuant to 10:1087, 
 
 In clause (4)(A), the word “Electricity” is substituted for the words “chemistry, mineralogy, and geology”, in 10:1061, pursuant to General Orders 38, Hq USMA, 29 June 1946.
 
-In clause (4)(C), the word “Foreign” is substituted for the word “modern”, in 10:1071, pursuant to General Orders No. 6, Hq USMA, 14 February 1949. The Act of June 23, 1879, ch. 35, § 4 (1st 47 words) is not contained in 10:1071. It is also omitted from the revised section as executed.
+In clause (4)(C), the word “Foreign” is substituted for the word “modern”, in 10:1071, pursuant to General Orders No. 6, Hq USMA, 14 February 1949. The Act of June 23, 1879, ch. 35, § 4 (1st 47 words) is not contained in 10:1071. It is also omitted from the revised section as executed.
 
 In clause (4)(E), the word “Mechanics” is substituted for the words “natural and experimental philosophy”, in 10:1061, pursuant to General Orders No. 3, Hq USMA, 11 February 1943.
 
@@ -139,7 +139,7 @@ A prior section 7431 was renumbered section 8731 of this title.
 
 1992—Subsec. (c). Pub. L. 102–484 added subsec. (c).
 
-1980—Pub. L. 96–513 substituted “New York (hereinafter in this chapter referred to as the ‘Academy’)” for “New York, in this chapter called the ‘Academy’ ”.
+1980—Pub. L. 96–513 substituted “New York (hereinafter in this chapter referred to as the ‘Academy’)” for “New York, in this chapter called the ‘Academy’ ”.
 
 1978—Pub. L. 95–551 substituted “Establishment; Superintendent; faculty” for “Superintendent; faculty; adjutant; chaplain” in section catchline.
 
@@ -163,7 +163,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Prohibition on Participation of Males in Athletic Programs or Activities at the Military Service Academies That Are Designated for Women or Girls**
 
-Pub. L. 119–60, div. A, title V, § 559A, Dec. 18, 2025, 139 Stat. 880, provided that:
+Pub. L. 119–60, div. A, title V, § 559A, Dec. 18, 2025, 139 Stat. 880, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy do not permit a person enrolled at such an Academy whose sex is male to participate in an athletic program or activity that is designated for women or girls.
 
@@ -177,7 +177,7 @@ Pub. L. 119–60, div. A, title V, § 559A, Dec. 18, 2025, 139 Stat. 880, prov
 
 **Regulations on Certain Parental Guardianship Rights of Cadets and Midshipmen**
 
-Pub. L. 117–81, div. A, title V, § 559A, Dec. 27, 2021, 135 Stat. 1742, provided that:
+Pub. L. 117–81, div. A, title V, § 559A, Dec. 27, 2021, 135 Stat. 1742, provided that:
 
 > **“(a) Regulations Required.—** Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, after consultation with the Secretaries of the military departments and the Superintendent of each military service academy, shall prescribe regulations that include the option to preserve parental guardianship rights of a cadet or midshipman who becomes pregnant or fathers a child while attending a military service academy, consistent with the individual and academic responsibilities of such cadet or midshipman.
 
@@ -201,7 +201,7 @@ Pub. L. 117–81, div. A, title V, § 559A, Dec. 27, 2021, 135 Stat. 1742, pro
 
 **Service Academies: Referral of Applicants to the Senior Military Colleges and Units of the Senior Reserve Officer Training Corps**
 
-Pub. L. 118–159, div. A, title V, § 559C, Dec. 23, 2024, 138 Stat. 1900, provided that:
+Pub. L. 118–159, div. A, title V, § 559C, Dec. 23, 2024, 138 Stat. 1900, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense shall establish a system whereby a covered individual may elect to have the Secretary share information regarding such covered individual with a senior military college or a unit of the Senior Reserve Officer Training Corps.
 
@@ -215,7 +215,7 @@ Pub. L. 118–159, div. A, title V, § 559C, Dec. 23, 2024, 138 Stat. 1900, pr
 
 **Pilot Program on Cardiac Screening at Certain Military Service Academies**
 
-Pub. L. 117–81, div. A, title VII, § 733, Dec. 27, 2021, 135 Stat. 1798, provided that:
+Pub. L. 117–81, div. A, title VII, § 733, Dec. 27, 2021, 135 Stat. 1798, provided that:
 
 > **“(a) Pilot Program.—** The Secretary of Defense shall establish a pilot program to furnish mandatory electrocardiograms to individuals who have been admitted to a covered military service academy in connection with the military accession screening process, at no cost to such candidates.
 
@@ -237,7 +237,7 @@ Pub. L. 117–81, div. A, title VII, § 733, Dec. 27, 2021, 135 Stat. 1798, pr
 
 **Speech Disorders of Cadets and Midshipmen**
 
-Pub. L. 116–92, div. A, title V, § 558, Dec. 20, 2019, 133 Stat. 1392, provided that:
+Pub. L. 116–92, div. A, title V, § 558, Dec. 20, 2019, 133 Stat. 1392, provided that:
 
 > **“(a) Testing.—** The Superintendent of a military service academy shall provide testing for speech disorders to incoming cadets or midshipmen under the jurisdiction of that Superintendent.
 
@@ -257,7 +257,7 @@ Pub. L. 116–92, div. A, title V, § 558, Dec. 20, 2019, 133 Stat. 1392, prov
 
 **Prayer at Military Service Academy Activities**
 
-Pub. L. 109–163, div. A, title V, § 598, Jan. 6, 2006, 119 Stat. 3283, provided that:
+Pub. L. 109–163, div. A, title V, § 598, Jan. 6, 2006, 119 Stat. 3283, provided that:
 
 > **“(a) In General.—** The superintendent of a service academy may have in effect such policy as the superintendent considers appropriate with respect to the offering of a voluntary, nondenominational prayer at an otherwise authorized activity of the academy, subject to the United States Constitution and such limitations as the Secretary of Defense may prescribe.
 
@@ -271,7 +271,7 @@ Pub. L. 109–163, div. A, title V, § 598, Jan. 6, 2006, 119 Stat. 3283, prov
 
 **Sexual Harassment and Violence at the Military Service Academies**
 
-Pub. L. 108–375, div. A, title V, § 576, Oct. 28, 2004, 118 Stat. 1924, as amended by Pub. L. 111–84, div. A, title V, § 566, Oct. 28, 2009, 123 Stat. 2313, provided that:
+Pub. L. 108–375, div. A, title V, § 576, Oct. 28, 2004, 118 Stat. 1924, as amended by Pub. L. 111–84, div. A, title V, § 566, Oct. 28, 2009, 123 Stat. 2313, provided that:
 
 > **“(a) Extension of Task Force.—**
 
@@ -333,7 +333,7 @@ Pub. L. 108–375, div. A, title V, § 576, Oct. 28, 2004, 118 Stat. 1924, as 
 
 > **“(f) Termination.—** The task force shall terminate 90 days after the date on which the report of the task force is submitted to the Committees on Armed Services of the Senate and House of Representatives pursuant to subsection (e)(3).”
 
-Pub. L. 108–136, div. A, title V, § 526, Nov. 24, 2003, 117 Stat. 1466, provided that:
+Pub. L. 108–136, div. A, title V, § 526, Nov. 24, 2003, 117 Stat. 1466, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish a Department of Defense task force to examine matters relating to sexual harassment and violence at the United States Military Academy and the United States Naval Academy.
 
@@ -421,7 +421,7 @@ Pub. L. 108–136, div. A, title V, § 526, Nov. 24, 2003, 117 Stat. 1466, pro
 
 **Colonel Thomas Hawkins Johnson Visiting Scholar Program and Lecture Series**
 
-Pub. L. 101–510, div. A, title XIV, § 1466, Nov. 5, 1990, 104 Stat. 1700, provided that:
+Pub. L. 101–510, div. A, title XIV, § 1466, Nov. 5, 1990, 104 Stat. 1700, provided that:
 
 > **“(a) Visiting Scholar Program.—**
 
@@ -435,19 +435,19 @@ Pub. L. 101–510, div. A, title XIV, § 1466, Nov. 5, 1990, 104 Stat. 1700, p
 
 > **“(2)** There is authorized to be appropriated to the Secretary of Defense $25,000 for each fiscal year to carry out this subsection.”
 
-## § 7432. Departments and professors: titles
+## § 7432. Departments and professors: titles
 
 **(a)** The Secretary of the Army may prescribe the titles of each of the departments of instruction and the professors of the Academy. However, the change of the title of a department or officer does not affect the status, rank, or eligibility for promotion or retirement of, or otherwise prejudice, a professor at the Academy.
 
 **(b)** Upon becoming the senior professor in a department, a permanent professor thereby becomes the head of that department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 238, § 4332; renumbered § 7432, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 238, § 4332; renumbered § 7432, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4332(a) 4332(b) | 10:1061a. 10:1087 (proviso). | Dec. 14, 1942, ch. 729, 56 Stat. 1049. June 26, 1946, ch. 495, § 1 (proviso), 60 Stat. 312. |
+| 4332(a) 4332(b) | 10:1061a. 10:1087 (proviso). | Dec. 14, 1942, ch. 729, 56 Stat. 1049. June 26, 1946, ch. 495, § 1 (proviso), 60 Stat. 312. |
 
 In subsection (a), the words “now or after December 14, 1942, established at” are omitted as surplusage. The word “precedence” is omitted as covered by the word “rank”. The words “pay, allowances” are omitted, since they are determined by the grade held. The words “from time to time”, “shall be known”, and “operate in any case or on any account” are omitted as surplusage.
 
@@ -467,7 +467,7 @@ A prior section 7432 was renumbered section 8732 of this title.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7433. Superintendent; faculty: appointment and detail
+## § 7433. Superintendent; faculty: appointment and detail
 
 **(a)** The Superintendent and the Commandant of Cadets of the Academy shall be detailed to those positions by the President from any branch of the Army. Other officers on duty at the Academy, except the permanent professors, may be detailed from any branch of the Army.
 
@@ -479,13 +479,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(e)** No graduate of the Academy may be appointed or detailed to serve at the Academy as a professor or instructor, or as an assistant to a professor or instructor, within two years after his graduation.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 238, § 4333; Pub. L. 85–600, § 1(9), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–551, § 2, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, § 502(24), Dec. 12, 1980, 94 Stat. 2910; renumbered § 7433, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 238, § 4333; Pub. L. 85–600, § 1(9), Aug. 6, 1958, 72 Stat. 522; Pub. L. 95–551, § 2, Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title V, § 502(24), Dec. 12, 1980, 94 Stat. 2910; renumbered § 7433, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4333(a)       4333(b)   4333(c) | 10:1062. 10:1063 (1st sentence, and 1st 26 words of last sentence). 10:1063 (last sentence, less 1st 26 words). 10:1064. | R.S. 1313. R.S. 1314 (words before semicolon). July 26, 1894, ch. 167 (words after semicolon in 7th clause), 28 Stat. 151. |
+| 4333(a) 4333(b) 4333(c) | 10:1062. 10:1063 (1st sentence, and 1st 26 words of last sentence). 10:1063 (last sentence, less 1st 26 words). 10:1064. | R.S. 1313. R.S. 1314 (words before semicolon). July 26, 1894, ch. 167 (words after semicolon in 7th clause), 28 Stat. 151. |
 
 In subsection (a), the word “detailed” is substituted for the word “selected”, in 10:1062, and for the word “appointed”, in 10:1063, since historically the offices of superintendent and commandant of cadets have been filled by detail. The words “assistant professors, acting assistant professors, and the adjutant”, in 10:1063, are omitted as covered by the word “officers”, in 10:1062. The words “except the permanent professors” are inserted to conform to 10:1062.
 
@@ -571,21 +571,21 @@ Apr. 9, 1935, ch. 54, title I, 49 Stat. 138.
 
 Apr. 26, 1934, ch. 165, title I, 48 Stat. 631.
 
-## § 7433a. Superintendent: condition for detail to position
+## § 7433a. Superintendent: condition for detail to position
 
 **(a) Retirement.—** As a condition for detail to the position of Superintendent of the Academy, an officer shall acknowledge that upon termination of that detail the officer shall be retired pursuant to section 7321(a) of this title, unless such retirement is waived under section 7321(b) of this title.
 
 **(b) Minimum Tour of Duty.—** An officer who is detailed to the position of Superintendent of the Academy shall be so detailed for a period of not less than three years. In any case in which an officer serving as Superintendent is reassigned or retires before having completed three years service as Superintendent, or otherwise leaves that position (other than due to death) without having completed three years service in that position, the Secretary of the Army shall submit to Congress notice that such officer left the position of Superintendent without having completed three years service in that position, together with a statement of the reasons why that officer did not complete three years service in that position.
 
-(Added Pub. L. 106–65, div. A, title V, § 532(a)(1)(B), Oct. 5, 1999, 113 Stat. 603, § 4333a; amended Pub. L. 108–375, div. A, title V, § 541(b)(1), Oct. 28, 2004, 118 Stat. 1902; renumbered § 7433a and amended Pub. L. 115–232, div. A, title VIII, §§ 808(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
+(Added Pub. L. 106–65, div. A, title V, § 532(a)(1)(B), Oct. 5, 1999, 113 Stat. 603, § 4333a; amended Pub. L. 108–375, div. A, title V, § 541(b)(1), Oct. 28, 2004, 118 Stat. 1902; renumbered § 7433a and amended Pub. L. 115–232, div. A, title VIII, §§ 808(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 808(c)(1), renumbered section 4333a of this title as this section.
+2018—Pub. L. 115–232, § 808(c)(1), renumbered section 4333a of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 7321(a)” for “section 3921(a)” and “section 7321(b)” for “section 3921(b)”.
+Subsec. (a). Pub. L. 115–232, § 809(a), substituted “section 7321(a)” for “section 3921(a)” and “section 7321(b)” for “section 3921(b)”.
 
 2004—Pub. L. 108–375 designated existing provisions as subsec. (a), inserted heading, inserted “pursuant to section 3921(a) of this title, unless such retirement is waived under section 3921(b) of this title” before period at end, and added subsec. (b).
 
@@ -599,7 +599,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Section not applicable to an officer serving on Oct. 5, 1999, in the position of Superintendent of the United States Military Academy, Naval Academy, or Air Force Academy for so long as that officer continues on and after that date to serve in that position without a break in service, see section 532(a)(5) of Pub. L. 106–65, set out as a note under section 7321 of this title.
 
-## § 7434. Command and supervision
+## § 7434. Command and supervision
 
 **(a)** The supervision and charge of the Academy is in the Department of the Army, under officers of the Army detailed to that duty by the Secretary of the Army.
 
@@ -609,7 +609,7 @@ Section not applicable to an officer serving on Oct. 5, 1999, in the position of
 
 **(d)** The permanent professors and the director of admissions exercise command only in the academic department of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 239, § 4334; Pub. L. 85–600, § 1(10), Aug. 6, 1958, 72 Stat. 523; Pub. L. 95–551, § 2, Oct. 30, 1978, 92 Stat. 2069; renumbered § 7434, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 239, § 4334; Pub. L. 85–600, § 1(10), Aug. 6, 1958, 72 Stat. 523; Pub. L. 95–551, § 2, Oct. 30, 1978, 92 Stat. 2069; renumbered § 7434, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -632,7 +632,7 @@ In subsection (d), reference to assimilated rank is omitted as superseded by sec
 
 **Prior Provisions**
 
-A prior section 7434, acts Aug. 10, 1956, ch. 1041, 70A Stat. 461; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(35), 72 Stat. 1566; Oct. 11, 1962, Pub. L. 87–796, § 1(10), 76 Stat. 906; Apr. 5, 1976, Pub. L. 94–258, title II, § 201(16), 90 Stat. 313; Dec. 12, 1980, Pub. L. 96–513, title V, § 513(36), 94 Stat. 2934; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIII, § 1311(7), 104 Stat. 1670, directed Secretary to submit annual report to Congress on production from naval petroleum reserves during the preceding year, prior to repeal by Pub. L. 104–66, title I, § 1051(g), Dec. 21, 1995, 109 Stat. 716. Pub. L. 104–106, div. A, title XV, § 1502(a)(28)(A), Feb. 10, 1996, 110 Stat. 506, which directed the general amendment of this section, could not be executed because of the prior repeal by Pub. L. 104–66.
+A prior section 7434, acts Aug. 10, 1956, ch. 1041, 70A Stat. 461; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(35), 72 Stat. 1566; Oct. 11, 1962, Pub. L. 87–796, § 1(10), 76 Stat. 906; Apr. 5, 1976, Pub. L. 94–258, title II, § 201(16), 90 Stat. 313; Dec. 12, 1980, Pub. L. 96–513, title V, § 513(36), 94 Stat. 2934; Nov. 5, 1990, Pub. L. 101–510, div. A, title XIII, § 1311(7), 104 Stat. 1670, directed Secretary to submit annual report to Congress on production from naval petroleum reserves during the preceding year, prior to repeal by Pub. L. 104–66, title I, § 1051(g), Dec. 21, 1995, 109 Stat. 716. Pub. L. 104–106, div. A, title XV, § 1502(a)(28)(A), Feb. 10, 1996, 110 Stat. 506, which directed the general amendment of this section, could not be executed because of the prior repeal by Pub. L. 104–66.
 
 **Amendments**
 
@@ -648,7 +648,7 @@ A prior section 7434, acts Aug. 10, 1956, ch. 1041, 70A Stat. 461; Sept. 2, 1958
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7435. Dean of Academic Board
+## § 7435. Dean of Academic Board
 
 **(a)** The Dean of the Academic Board shall be appointed as an additional permanent professor from the permanent professors who have served as heads of departments of instruction at the Academy.
 
@@ -656,7 +656,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** The retirement age of an officer appointed as Dean of the Academic Board is that of a permanent professor of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 239, § 4335; Pub. L. 85–861, § 33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, § 508(a), Nov. 14, 1986, 100 Stat. 3866; Pub. L. 102–484, div. A, title V, § 521(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 106–65, div. A, title V, § 533(a), Oct. 5, 1999, 113 Stat. 604; Pub. L. 115–91, div. A, title V, § 507(a), Dec. 12, 2017, 131 Stat. 1374; renumbered § 7435, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 239, § 4335; Pub. L. 85–861, § 33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, § 508(a), Nov. 14, 1986, 100 Stat. 3866; Pub. L. 102–484, div. A, title V, § 521(a), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 106–65, div. A, title V, § 533(a), Oct. 5, 1999, 113 Stat. 604; Pub. L. 115–91, div. A, title V, § 507(a), Dec. 12, 2017, 131 Stat. 1374; renumbered § 7435, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -664,7 +664,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4335(a) 4335(b) | 10:1089 (2d sentence). 10:1089 (less 1st 20 words, and less 2d sentence). | June 26, 1946, ch. 495, § 3 (less 1st 20 words), 60 Stat. 312. |
+| 4335(a) 4335(b) | 10:1089 (2d sentence). 10:1089 (less 1st 20 words, and less 2d sentence). | June 26, 1946, ch. 495, § 3 (less 1st 20 words), 60 Stat. 312. |
 
 In subsection (b), the word “grade” is substituted for the word “rank”. The words “pay, allowances” are omitted, since they are determined by the grade held. The words “retirement rights” are omitted as covered by the word “benefits”. The words “There is authorized”, “from time to time”, and “statutory” are omitted as surplusage.
 
@@ -688,9 +688,9 @@ A prior section 7435 was renumbered section 8735 of this title.
 
 1992—Subsec. (c). Pub. L. 102–484 struck out subsec. (c) which read as follows: “The Dean of the Academic Board has the grade of brigadier general while serving in such position, with the benefits authorized for regular brigadier generals of the Army, if appointed to that grade by the President, by and with the advice and consent of the Senate. However, the retirement age of an officer so appointed is that of a permanent professor of the Academy.”
 
-1986—Subsec. (b). Pub. L. 99–661, § 508(a)(1), struck out “The Dean has the grade of brigadier general while serving as such, with the benefits authorized for regular brigadier generals of the Army, except that his retirement age is that of a permanent professor of the Academy.” See subsec. (c).
+1986—Subsec. (b). Pub. L. 99–661, § 508(a)(1), struck out “The Dean has the grade of brigadier general while serving as such, with the benefits authorized for regular brigadier generals of the Army, except that his retirement age is that of a permanent professor of the Academy.” See subsec. (c).
 
-Subsec. (c). Pub. L. 99–661, § 508(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 99–661, § 508(a)(2), added subsec. (c).
 
 1958—Subsec. (b). Pub. L. 85–861 substituted “the grade of brigadier general” for “the regular grade of brigadier general”.
 
@@ -708,13 +708,13 @@ Amendment by Pub. L. 99–661 applicable with respect to appointments or details
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
-## § 7436. Permanent professors; director of admissions
+## § 7436. Permanent professors; director of admissions
 
 **(a)** A permanent professor of the Academy, other than the Dean of the Academic Board, who is the head of a department of instruction, or who has served as such a professor for more than six years, has the grade of colonel. However, a permanent professor appointed from the Regular Army has the grade of colonel after the date when he completes six years of service as a professor, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier. All other permanent professors have the grade of lieutenant colonel.
 
 **(b)** A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Army has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 239, § 4336; Pub. L. 85–600, § 1(11), Aug. 6, 1958, 72 Stat. 523; Pub. L. 85–861, § 33(a)(46)(B), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 95–551, §§ 2, 4(a), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title II, § 218(a), title V, § 502(25), Dec. 12, 1980, 94 Stat. 2886, 2911; Pub. L. 98–525, title V, § 533(d)(1), Oct. 19, 1984, 98 Stat. 2528; renumbered § 7436, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 239, § 4336; Pub. L. 85–600, § 1(11), Aug. 6, 1958, 72 Stat. 523; Pub. L. 85–861, § 33(a)(46)(B), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 95–551, §§ 2, 4(a), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title II, § 218(a), title V, § 502(25), Dec. 12, 1980, 94 Stat. 2886, 2911; Pub. L. 98–525, title V, § 533(d)(1), Oct. 19, 1984, 98 Stat. 2528; renumbered § 7436, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -722,7 +722,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4336 | 10:1079a(a). | Aug. 7, 1947, ch. 512, § 520(a), 61 Stat. 912. |
+| 4336 | 10:1079a(a). | Aug. 7, 1947, ch. 512, § 520(a), 61 Stat. 912. |
 
 The word “grade” is substituted for the word “rank”. The words “pay, and allowances” are omitted, since they are determined by the grade held. 10:1079a (a) (last proviso), and the words “Hereafter each of”, “who have been or may hereafter be”, and “and appointed in” are omitted as surplusage.
 
@@ -742,15 +742,15 @@ A prior section 7436 was renumbered section 8736 of this title.
 
 1984—Subsecs. (a), (b). Pub. L. 98–525 substituted “on which he would have been promoted had he been selected for promotion from among officers in the promotion zone,” for “when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried before his appointment as a professor, is promoted to the regular grade of colonel,”.
 
-1980—Subsecs. (a), (b). Pub. L. 96–513, § 502(25), substituted “a regular officer” for “a promotion-list officer”, and inserted “or active-duty list” after “on the promotion list”.
+1980—Subsecs. (a), (b). Pub. L. 96–513, § 502(25), substituted “a regular officer” for “a promotion-list officer”, and inserted “or active-duty list” after “on the promotion list”.
 
-Subsec. (c). Pub. L. 96–513, § 218(a), struck out subsec. (c) which provided that, unless he is serving in a higher grade, an officer detailed to perform the duties of director of admissions has, while performing those duties, the temporary grade of lieutenant colonel and, after performing those duties for a period of six years, has the temporary grade of colonel.
+Subsec. (c). Pub. L. 96–513, § 218(a), struck out subsec. (c) which provided that, unless he is serving in a higher grade, an officer detailed to perform the duties of director of admissions has, while performing those duties, the temporary grade of lieutenant colonel and, after performing those duties for a period of six years, has the temporary grade of colonel.
 
-1978—Pub. L. 95–551, § 4(a), substituted “director of admissions” for “registrar” in section catchline.
+1978—Pub. L. 95–551, § 4(a), substituted “director of admissions” for “registrar” in section catchline.
 
-Subsecs. (b), (c). Pub. L. 95–551, § 2, substituted “director of admissions” for “registrar” wherever appearing.
+Subsecs. (b), (c). Pub. L. 95–551, § 2, substituted “director of admissions” for “registrar” wherever appearing.
 
-1958—Pub. L. 85–600, § 1(11)(C), inserted “; registrar” in section catchline.
+1958—Pub. L. 85–600, § 1(11)(C), inserted “; registrar” in section catchline.
 
 Subsec. (a). Pub. L. 85–861 substituted “has the grade of colonel” for “has the regular grade of colonel” in two places, and “have the grade of lieutenant colonel” for “have the regular grade of lieutenant colonel”.
 
@@ -770,15 +770,15 @@ Amendment by section 218(a) of Pub. L. 96–513 effective Sept. 15, 1981, but th
 
 Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
 
-**Service Performed as Registrar Prior to Aug. 6, 1958**
+**Service Performed as Registrar Prior to Aug. 6, 1958**
 
-Pub. L. 85–600, § 2, Aug. 6, 1958, 72 Stat. 524, provided that: “No increase in pay or allowances accrues by reason of the enactment of this Act [amending this section and sections 3075, 3204, 3205, 3283, 3296, 3883, 3886, 4331, 4333, 4334, 8075, 8204, 8205, 8296, 8883, 8886, 9331, 9333, 9334, and 9336 of this title] for service performed before this Act takes effect [Aug. 6, 1958].”
+Pub. L. 85–600, § 2, Aug. 6, 1958, 72 Stat. 524, provided that: “No increase in pay or allowances accrues by reason of the enactment of this Act [amending this section and sections 3075, 3204, 3205, 3283, 3296, 3883, 3886, 4331, 4333, 4334, 8075, 8204, 8205, 8296, 8883, 8886, 9331, 9333, 9334, and 9336 of this title] for service performed before this Act takes effect [Aug. 6, 1958].”
 
-## § 7437. Chaplain
+## § 7437. Chaplain
 
 There shall be a chaplain at the Academy, who must be a clergyman, appointed by the President for a term of four years. The chaplain is entitled to a monthly housing allowance in the same amount as the basic allowance for housing allowed to a lieutenant colonel, and to fuel and light for quarters in kind. The chaplain may be reappointed.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 239, § 4337; Pub. L. 87–651, title I, § 117, Sept. 7, 1962, 76 Stat. 513; Pub. L. 107–107, div. A, title V, § 540(a), Dec. 28, 2001, 115 Stat. 1109; renumbered § 7437, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 239, § 4337; Pub. L. 87–651, title I, § 117, Sept. 7, 1962, 76 Stat. 513; Pub. L. 107–107, div. A, title V, § 540(a), Dec. 28, 2001, 115 Stat. 1109; renumbered § 7437, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -816,7 +816,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title V, § 540(b), Dec. 28, 2001, 115 Stat. 1109, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Dec. 28, 2001].”
+Pub. L. 107–107, div. A, title V, § 540(b), Dec. 28, 2001, 115 Stat. 1109, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act [Dec. 28, 2001].”
 
 **Executive Documents**
 
@@ -824,7 +824,7 @@ Pub. L. 107–107, div. A, title V, § 540(b), Dec. 28, 2001, 115 Stat. 1109, 
 
 Functions of President under this section delegated to Secretary of Defense, see section 1(5) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 
-## § 7438. Civilian faculty: number; compensation
+## § 7438. Civilian faculty: number; compensation
 
 **(a)** The Secretary of the Army may employ as many civilians as professors, instructors, and lecturers at the Academy as the Secretary considers necessary.
 
@@ -836,7 +836,7 @@ Functions of President under this section delegated to Secretary of Defense, see
 
 **(2)** Any premium pay or compensatory time off for hours of work or tours of duty in excess of the regularly scheduled hours or tours of duty.
 
-(Added Pub. L. 103–160, div. A, title V, § 533(a)(1), Nov. 30, 1993, 107 Stat. 1658, § 4338; amended Pub. L. 106–65, div. A, title XI, § 1107(a), Oct. 5, 1999, 113 Stat. 778; renumbered § 7438, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 103–160, div. A, title V, § 533(a)(1), Nov. 30, 1993, 107 Stat. 1658, § 4338; amended Pub. L. 106–65, div. A, title XI, § 1107(a), Oct. 5, 1999, 113 Stat. 778; renumbered § 7438, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -856,7 +856,7 @@ Prior sections 7438 and 7439 were renumbered sections 8738 and 8739 of this titl
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7440. Quartermaster
+## § 7440. Quartermaster
 
 The Secretary of the Army shall detail a commissioned officer of the Army as quartermaster for the Corps of Cadets. The quartermaster shall—
 
@@ -866,7 +866,7 @@ The Secretary of the Army shall detail a commissioned officer of the Army as qua
 
 **(3)** supervise the mess.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 240, § 4340; renumbered § 7440, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 240, § 4340; renumbered § 7440, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -888,11 +888,11 @@ The words “buy and issue all provisions for the mess” and “supervise the m
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7441. Faculty and other officers: leaves of absence
+## § 7441. Faculty and other officers: leaves of absence
 
 The Superintendent of the Academy may grant a leave of absence for the period of the suspension of the ordinary academic studies, without deduction of pay or allowances, to a professor, assistant professor, instructor, or other officer of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 240, § 4341; renumbered § 7441, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 240, § 4341; renumbered § 7441, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -914,11 +914,11 @@ The words “under regulations prescribed by the Secretary of the Army” are om
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7441a. Cadets: appointment by the President
+## § 7441a. Cadets: appointment by the President
 
 Cadets at the Academy shall be appointed by the President alone. An appointment is conditional until the cadet is admitted.
 
-(Added Pub. L. 97–60, title II, § 203(a)(2)(A), Oct. 14, 1981, 95 Stat. 1006, § 4341a; renumbered § 7441a, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 97–60, title II, § 203(a)(2)(A), Oct. 14, 1981, 95 Stat. 1006, § 4341a; renumbered § 7441a, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -934,9 +934,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 97–60, title II, § 203(d), Oct. 14, 1981, 95 Stat. 1007, provided that: “The amendments made by this section [enacting this section and section 9341a of this title and amending sections 4342, 6953, 6954, and 9342 of this title] shall take effect with respect to nominations for appointment to the first class admitted to each Academy after the date of the enactment of this Act [Oct. 14, 1981].”
+Pub. L. 97–60, title II, § 203(d), Oct. 14, 1981, 95 Stat. 1007, provided that: “The amendments made by this section [enacting this section and section 9341a of this title and amending sections 4342, 6953, 6954, and 9342 of this title] shall take effect with respect to nominations for appointment to the first class admitted to each Academy after the date of the enactment of this Act [Oct. 14, 1981].”
 
-## § 7442. Cadets: appointment; numbers, territorial distribution
+## § 7442. Cadets: appointment; numbers, territorial distribution
 
 **(a)** The authorized strength of the Corps of Cadets of the Academy (determined for any year as of the day before the last day of the academic year) is 4,400 or such lower number as may be prescribed by the Secretary of the Army under subsection (j). Subject to that limitation, cadets are selected as follows:
 
@@ -982,7 +982,7 @@ however, a person who is eligible for selection under paragraph (1) of subsectio
 
 **(4)** 20 nominated by the Secretary of the Army, under regulations prescribed by him, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Reserve Officers’ Training Corps.
 
-**(5)** 200 <sup>1</sup> selected by the Secretary of the Army in order of merit (prescribed pursuant to section 7443 of this title) from qualified alternates nominated by persons named in paragraphs (3) through (10) of subsection (a).
+**(5)** 200 <sup>1</sup> selected by the Secretary of the Army in order of merit (prescribed pursuant to section 7443 of this title) from qualified alternates nominated by persons named in paragraphs (3) through (10) of subsection (a).
 
 **(c)** The President may also appoint as cadets at the Academy children of persons who have been awarded the Medal of Honor for acts performed while in the armed forces.
 
@@ -1030,13 +1030,13 @@ however, a person who is eligible for selection under paragraph (1) of subsectio
 
 **(4)** In this subsection, the term “cadet strength limit” means the authorized maximum strength of the Corps of Cadets of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 240, § 4342; Pub. L. 85–861, § 33(a)(26), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–663, § 1(1), (2), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, § 1(1), Mar. 3, 1964, 78 Stat. 148; Pub. L. 89–650, § 1(1)–(4), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, § 2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, § 204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, § 1(1), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, § 1(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, § 803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, § 512(13), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 96–600, § 2(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, § 203(a)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, § 1005(a)(1), (b)(1), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, § 532(a)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, § 531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, § 1672(c)(3), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–106, div. A, title V, § 532(a), title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 314, 502; Pub. L. 105–85, div. A, title X, § 1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, § 531(b)(1), title X, § 1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, § 1 [[div. A], title V, § 531(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–314, div. A, title V, § 532(a), (f), Dec. 2, 2002, 116 Stat. 2545, 2547; Pub. L. 108–136, div. A, title V, § 524(a), title X, § 1031(a)(53), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–364, div. A, title X, § 1071(a)(28), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title V, § 525, Jan. 28, 2008, 122 Stat. 104; Pub. L. 110–229, title VII, § 718(a), May 8, 2008, 122 Stat. 869; Pub. L. 110–417, [div. A], title V, § 540(a), Oct. 14, 2008, 122 Stat. 4454; Pub. L. 111–84, div. A, title V, § 527(a), Oct. 28, 2009, 123 Stat. 2288; Pub. L. 112–239, div. A, title X, § 1076(f)(38), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 114–92, div. A, title V, § 556(a), Nov. 25, 2015, 129 Stat. 824; Pub. L. 114–328, div. A, title V, § 566(a), Dec. 23, 2016, 130 Stat. 2138; renumbered § 7442 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840; Pub. L. 117–263, div. A, title V, § 552(a), Dec. 23, 2022, 136 Stat. 2592; Pub. L. 118–31, div. A, title V, §§ 561(a), 562(a), Dec. 22, 2023, 137 Stat. 273, 274; Pub. L. 119–60, div. A, title V, § 555(a), Dec. 18, 2025, 139 Stat. 878.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 240, § 4342; Pub. L. 85–861, § 33(a)(26), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–663, § 1(1), (2), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, § 1(1), Mar. 3, 1964, 78 Stat. 148; Pub. L. 89–650, § 1(1)–(4), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, § 2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, § 204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, § 1(1), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, § 1(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, § 803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, § 512(13), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 96–600, § 2(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, § 203(a)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, § 1005(a)(1), (b)(1), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, § 532(a)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, § 531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, § 1672(c)(3), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–106, div. A, title V, § 532(a), title XV, § 1502(a)(1), Feb. 10, 1996, 110 Stat. 314, 502; Pub. L. 105–85, div. A, title X, § 1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, § 531(b)(1), title X, § 1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, § 1 [[div. A], title V, § 531(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–314, div. A, title V, § 532(a), (f), Dec. 2, 2002, 116 Stat. 2545, 2547; Pub. L. 108–136, div. A, title V, § 524(a), title X, § 1031(a)(53), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–364, div. A, title X, § 1071(a)(28), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title V, § 525, Jan. 28, 2008, 122 Stat. 104; Pub. L. 110–229, title VII, § 718(a), May 8, 2008, 122 Stat. 869; Pub. L. 110–417, [div. A], title V, § 540(a), Oct. 14, 2008, 122 Stat. 4454; Pub. L. 111–84, div. A, title V, § 527(a), Oct. 28, 2009, 123 Stat. 2288; Pub. L. 112–239, div. A, title X, § 1076(f)(38), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 114–92, div. A, title V, § 556(a), Nov. 25, 2015, 129 Stat. 824; Pub. L. 114–328, div. A, title V, § 566(a), Dec. 23, 2016, 130 Stat. 2138; renumbered § 7442 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840; Pub. L. 117–263, div. A, title V, § 552(a), Dec. 23, 2022, 136 Stat. 2592; Pub. L. 118–31, div. A, title V, §§ 561(a), 562(a), Dec. 22, 2023, 137 Stat. 273, 274; Pub. L. 119–60, div. A, title V, § 555(a), Dec. 18, 2025, 139 Stat. 878.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4342(a) | 10:1092a (1st par., less clauses (a) through (e)). 10:1092a (clause (a), less 14th through 52d words after 4th semicolon; and less last 32 words). | R.S. 1317. June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 Stat. 303, 304; June 3, 1954, ch. 251, § 2, 68 Stat. 169. |
+| 4342(a) | 10:1092a (1st par., less clauses (a) through (e)). 10:1092a (clause (a), less 14th through 52d words after 4th semicolon; and less last 32 words). | R.S. 1317. June 30, 1950, ch. 421, §§ 1, 2 (last proviso), 64 Stat. 303, 304; June 3, 1954, ch. 251, § 2, 68 Stat. 169. |
 |  | 10:1092a (1st 13 words of clause (b)). |  |
 |  | 10:1092a (1st 26 words of clause (c)). |  |
 |  | 10:1092a (clause (d)). |  |
@@ -1049,13 +1049,13 @@ however, a person who is eligible for selection under paragraph (1) of subsectio
 | 4342(g) | 10:1092a (clause (c), less 1st 26 words). |  |
 | 4342(h) | 10:1092a (last 53 words of clause (e)). |  |
 
-In subsection (a), the words “the authorized strength \* \* \* is as follows—” are substituted for the words “shall be authorized and consist of the following”. The words “at large” and “which totals two thousand four hundred and ninety-six”, and 10:1092a (clause (d)) are omitted as surplusage.
+In subsection (a), the words “the authorized strength \* \* \* is as follows—” are substituted for the words “shall be authorized and consist of the following”. The words “at large” and “which totals two thousand four hundred and ninety-six”, and 10:1092a (clause (d)) are omitted as surplusage.
 
 In subsection (b), the words “from whatever source of admission”, in 10:1092a, are omitted as surplusage. 10:1098 (words before last semicolon) is omitted as obsolete.
 
 In subsection (c), the first 15 words are substituted for the words “all of which cadets shall be”. The words “domiciled in” are substituted for the words “actual residents of” to conform to opinions of the Judge Advocate General of the Army (R. 29, 83; J.A.G. 351.11, Feb. 10, 1925).
 
-In subsection (e)(4), the words “armed forces” are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words “such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38”. The words “including male and female members of \* \* \* and all components thereof” are omitted as surplusage.
+In subsection (e)(4), the words “armed forces” are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words “such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38”. The words “including male and female members of \* \* \* and all components thereof” are omitted as surplusage.
 
 In subsection (f), the words “whether a death is service-connected” are substituted for the words “as to the service connection of the cause of death”.
 
@@ -1069,31 +1069,31 @@ In subsection (h), the words “or shall hereafter be” are omitted as surplusa
 
 2025—Subsec. (a). Pub. L. 119–60 substituted “up to 14 ranked or unranked alternates” for “9 ranked or unranked alternates” in concluding provisions.
 
-2023—Subsec. (a). Pub. L. 118–31, § 561(a)(1), substituted “15 persons” for “10 persons” in concluding provisions.
+2023—Subsec. (a). Pub. L. 118–31, § 561(a)(1), substituted “15 persons” for “10 persons” in concluding provisions.
 
-Subsec. (a)(8). Pub. L. 118–31, § 562(a), substituted “Five” for “Four”.
+Subsec. (a)(8). Pub. L. 118–31, § 562(a), substituted “Five” for “Four”.
 
-Subsec. (b)(5). Pub. L. 118–31, § 561(a)(2), substituted “200” for “150”.
+Subsec. (b)(5). Pub. L. 118–31, § 561(a)(2), substituted “200” for “150”.
 
 2022—Subsec. (b)(5). Pub. L. 117–263 substituted “paragraphs (3) through (10)” for “paragraphs (3) and (4)”.
 
-2018—Pub. L. 115–232, § 808(c)(1), renumbered section 4342 of this title as this section.
+2018—Pub. L. 115–232, § 808(c)(1), renumbered section 4342 of this title as this section.
 
-Subsec. (b)(5). Pub. L. 115–232, § 809(a), substituted “section 7443” for “section 4343”.
+Subsec. (b)(5). Pub. L. 115–232, § 809(a), substituted “section 7443” for “section 4343”.
 
 2016—Subsec. (a). Pub. L. 114–328 inserted at end of concluding provisions “When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.”
 
-2015—Subsec. (a)(6). Pub. L. 114–92, § 556(a)(1), substituted “Four” for “Three”.
+2015—Subsec. (a)(6). Pub. L. 114–92, § 556(a)(1), substituted “Four” for “Three”.
 
-Subsec. (a)(8). Pub. L. 114–92, § 556(a)(2), substituted “Four” for “Three”.
+Subsec. (a)(8). Pub. L. 114–92, § 556(a)(2), substituted “Four” for “Three”.
 
-Subsec. (a)(9). Pub. L. 114–92, § 556(a)(3), substituted “Three” for “Two”.
+Subsec. (a)(9). Pub. L. 114–92, § 556(a)(3), substituted “Three” for “Two”.
 
-Subsec. (a)(10). Pub. L. 114–92, § 556(a)(4), substituted “Three” for “Two”.
+Subsec. (a)(10). Pub. L. 114–92, § 556(a)(4), substituted “Three” for “Two”.
 
-2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(38)(A)(i), substituted “paragraph” for “clause” in two places in concluding provisions.
+2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(38)(A)(i), substituted “paragraph” for “clause” in two places in concluding provisions.
 
-Subsecs. (b)(5), (d), (f). Pub. L. 112–239, § 1076(f)(38)(A)(ii)–(C), substituted “paragraphs” for “clauses”.
+Subsecs. (b)(5), (d), (f). Pub. L. 112–239, § 1076(f)(38)(A)(ii)–(C), substituted “paragraphs” for “clauses”.
 
 2009—Subsec. (a)(10). Pub. L. 111–84 substituted “Two cadets” for “One cadet”.
 
@@ -1105,49 +1105,49 @@ Subsec. (j)(1). Pub. L. 110–181 struck out last sentence which read as follows
 
 2006—Subsec. (a)(9). Pub. L. 109–364 substituted “cadets” for “cadet”.
 
-2003—Subsec. (a)(6), (8). Pub. L. 108–136, § 524(a)(1), substituted “Three” for “Two”.
+2003—Subsec. (a)(6), (8). Pub. L. 108–136, § 524(a)(1), substituted “Three” for “Two”.
 
-Subsec. (a)(9). Pub. L. 108–136, § 524(a)(2), substituted “Two” for “One”.
+Subsec. (a)(9). Pub. L. 108–136, § 524(a)(2), substituted “Two” for “One”.
 
-Subsec. (h). Pub. L. 108–136, § 1031(a)(53), substituted “Superintendent” for “Secretary of the Army”.
+Subsec. (h). Pub. L. 108–136, § 1031(a)(53), substituted “Superintendent” for “Secretary of the Army”.
 
-2002—Subsec. (a). Pub. L. 107–314, § 532(a)(1), inserted before period at end of first sentence “or such higher number as may be prescribed by the Secretary of the Army under subsection (j)”.
+2002—Subsec. (a). Pub. L. 107–314, § 532(a)(1), inserted before period at end of first sentence “or such higher number as may be prescribed by the Secretary of the Army under subsection (j)”.
 
-Subsec. (i). Pub. L. 107–314, § 532(f), struck out “(beginning with the 2001–2002 academic year)” after “any year”.
+Subsec. (i). Pub. L. 107–314, § 532(f), struck out “(beginning with the 2001–2002 academic year)” after “any year”.
 
-Subsec. (j). Pub. L. 107–314, § 532(a)(2), added subsec. (j).
+Subsec. (j). Pub. L. 107–314, § 532(a)(2), added subsec. (j).
 
-2000—Subsec. (b)(1)(B). Pub. L. 106–398, § 1 [[div. A], title V, § 531(a)(1)], struck out “, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” after “retired or retainer pay”.
+2000—Subsec. (b)(1)(B). Pub. L. 106–398, § 1 [[div. A], title V, § 531(a)(1)], struck out “, other than those granted retired pay under section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” after “retired or retainer pay”.
 
-Subsec. (b)(1)(C), (D). Pub. L. 106–398, § 1 [[div. A], title V, § 531(a)(2)], added subpars. (C) and (D).
+Subsec. (b)(1)(C), (D). Pub. L. 106–398, § 1 [[div. A], title V, § 531(a)(2)], added subpars. (C) and (D).
 
-1999—Subsec. (a). Pub. L. 106–65, § 531(b)(1)(A), substituted “(determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, cadets are selected as follows:” for “is as follows:” in introductory provisions.
+1999—Subsec. (a). Pub. L. 106–65, § 531(b)(1)(A), substituted “(determined for any year as of the day before the last day of the academic year) is 4,000. Subject to that limitation, cadets are selected as follows:” for “is as follows:” in introductory provisions.
 
-Subsec. (g). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+Subsec. (g). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
-Subsec. (i). Pub. L. 106–65, § 531(b)(1)(B), added subsec. (i).
+Subsec. (i). Pub. L. 106–65, § 531(b)(1)(B), added subsec. (i).
 
 1997—Subsec. (a)(10). Pub. L. 105–85 substituted “Mariana” for “Marianas”.
 
-1996—Subsec. (a)(10). Pub. L. 104–106, § 532(a), added par. (10).
+1996—Subsec. (a)(10). Pub. L. 104–106, § 532(a), added par. (10).
 
-Subsec. (g). Pub. L. 104–106, § 1502(a)(1), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+Subsec. (g). Pub. L. 104–106, § 1502(a)(1), substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
 
 1994—Subsec. (b)(1)(B). Pub. L. 103–337 substituted “section 12731 of this title (or under section 1331 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “section 1331 of this title”.
 
 1993—Subsec. (a). Pub. L. 103–160 in concluding provisions substituted “10 persons” for “a principal candidate and nine alternates” and inserted at end “Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter.”
 
-1990—Subsec. (a)(8) to (10). Pub. L. 101–510, § 532(a)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States.”
+1990—Subsec. (a)(8) to (10). Pub. L. 101–510, § 532(a)(1)(A), redesignated cls. (9) and (10) as (8) and (9), respectively, and struck out former cl. (8) which read as follows: “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States.”
 
-Subsec. (d). Pub. L. 101–510, § 532(a)(1)(B), substituted “clauses (2) through (9)” for “clauses (2)–(7), (9), or (10)”.
+Subsec. (d). Pub. L. 101–510, § 532(a)(1)(B), substituted “clauses (2) through (9)” for “clauses (2)–(7), (9), or (10)”.
 
-Subsec. (f). Pub. L. 101–510, § 532(a)(1)(C), substituted “clauses (3) through (9)” for “clauses (3)–(7), (9) and (10)”.
+Subsec. (f). Pub. L. 101–510, § 532(a)(1)(C), substituted “clauses (3) through (9)” for “clauses (3)–(7), (9) and (10)”.
 
 1989—Subsec. (a)(1). Pub. L. 101–189 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-1983—Subsec. (a)(8). Pub. L. 98–94, § 1005(b)(1), substituted “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States” for “One cadet nominated by the Governor of the Panama Canal from the children of civilians residing in the Canal Zone or the children of civilian personnel of the United States Government, or the Panama Canal Company, residing in the Republic of Panama”.
+1983—Subsec. (a)(8). Pub. L. 98–94, § 1005(b)(1), substituted “One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States” for “One cadet nominated by the Governor of the Panama Canal from the children of civilians residing in the Canal Zone or the children of civilian personnel of the United States Government, or the Panama Canal Company, residing in the Republic of Panama”.
 
-Subsec. (a)(10). Pub. L. 98–94, § 1005(a)(1), substituted “, nominated by the Delegate in Congress from American Samoa” for “nominated by the Secretary of the Army upon recommendation of the Governor of Samoa”.
+Subsec. (a)(10). Pub. L. 98–94, § 1005(a)(1), substituted “, nominated by the Delegate in Congress from American Samoa” for “nominated by the Secretary of the Army upon recommendation of the Governor of Samoa”.
 
 1981—Subsec. (d). Pub. L. 97–60 substituted provisions authorizing the Superintendent to nominate for appointment each year 50 persons from the country at large for provisions that all cadets were to be appointed by the President and that all such appointments were conditional until the cadet was admitted. See section 4341a of this title.
 
@@ -1157,13 +1157,13 @@ Subsec. (h). Pub. L. 96–513 substituted “The” for “Effective beginning w
 
 1975—Subsecs. (a)(1), (8), (b)(1), (c). Pub. L. 94–106 substituted “children” for “sons” wherever appearing.
 
-1973—Subsec. (a)(6). Pub. L. 93–171, § 1(1), substituted “One cadet from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands” for “Five cadets from each Territory, nominated by the Delegate in Congress from the Territory”.
+1973—Subsec. (a)(6). Pub. L. 93–171, § 1(1), substituted “One cadet from the Virgin Islands, nominated by the Delegate in Congress from the Virgin Islands” for “Five cadets from each Territory, nominated by the Delegate in Congress from the Territory”.
 
-Subsec. (a)(9). Pub. L. 93–171, § 1(2), struck out reference to Guam and Virgin Islands.
+Subsec. (a)(9). Pub. L. 93–171, § 1(2), struck out reference to Guam and Virgin Islands.
 
-Subsec. (a)(10). Pub. L. 93–171, § 1(3), added cl. (10).
+Subsec. (a)(10). Pub. L. 93–171, § 1(3), added cl. (10).
 
-Subsec. (f). Pub. L. 93–171, § 1(4), substituted “, (9) and (10) of subsection (a)” for “and (9) of subsection (a)” and struck out reference to Territory.
+Subsec. (f). Pub. L. 93–171, § 1(4), substituted “, (9) and (10) of subsection (a)” for “and (9) of subsection (a)” and struck out reference to Territory.
 
 1972—Subsec. (a)(1). Pub. L. 92–365 increased the number of cadets from 40 to 65 and added sons of members who are in a missing status and sons of civilian employees who are in missing status as eligible for the competitive examination.
 
@@ -1173,19 +1173,19 @@ Subsec. (f). Pub. L. 93–171, § 1(4), substituted “, (9) and (10) of sub
 
 Subsec. (a)(5). Pub. L. 90–623 substituted “Commissioner” for “Commissioners”.
 
-1966—Subsec. (a)(1). Pub. L. 89–650, § 1(1), provided for selection of cadets to the Military Academy from sons of members of the armed forces who have a 100 per centum service-connected disability and removed the limitation to active service during World War I or World War II or after June 26, 1950, and before Feb. 1, 1955.
+1966—Subsec. (a)(1). Pub. L. 89–650, § 1(1), provided for selection of cadets to the Military Academy from sons of members of the armed forces who have a 100 per centum service-connected disability and removed the limitation to active service during World War I or World War II or after June 26, 1950, and before Feb. 1, 1955.
 
-Subsec. (a)(2). Pub. L. 89–650, § 1(2), provided for nominations to the Military Academy by the President pro tempore of the Senate if there is no Vice President.
+Subsec. (a)(2). Pub. L. 89–650, § 1(2), provided for nominations to the Military Academy by the President pro tempore of the Senate if there is no Vice President.
 
-Subsec. (b)(1). Pub. L. 89–650, § 1(3), increased the number of Presidential appointments to the Military Academy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components, and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
+Subsec. (b)(1). Pub. L. 89–650, § 1(3), increased the number of Presidential appointments to the Military Academy from 75 to 100, provided for selection of eligible persons as stated in items (A) and (B), previously chosen from sons of members of regular components, and declared persons eligible under subsec. (a)(1) ineligible under subsec. (b)(1) of this section.
 
-Subsec. (b)(3). Pub. L. 89–650, § 1(4), substituted “reserve components of the Army” for “the Army Reserve”.
+Subsec. (b)(3). Pub. L. 89–650, § 1(4), substituted “reserve components of the Army” for “the Army Reserve”.
 
 1964—Pub. L. 88–276 amended section generally, and among other changes, in the noncompetitive appointments, increased the number of cadets nominated by the Vice President from three to five, each Senator, Representative, and Delegate from 4 to 5, and the Commissioner of Puerto Rico from 4 to 5, authorized the Governor of Puerto Rico to appoint one cadet, each Senator, Representative and Delegate to nominate a principal and five alternates for each vacancy, and, in the competitive appointments, permitted the President to appoint 75 cadets annually from the sons of members of the Regular components, instead of a cumulative total of 89, the Secretary of the Army to appoint 85 cadets annually from enlisted members of the Regular Army, instead of a cumulative total of 90, 85 annually from enlisted members of the Army Reserve, instead of a cumulative total of 90, 20 annually from honor graduates of designated honor schools and the R.O.T.C., instead of a cumulative total of 40 from honor schools only, 150 annually, in order of merit, from among the qualified alternates nominated by members of Congress, and when the quota of cadets selected under subsecs. (b)(1), (2), (3) is not filled, to fill the vacancies by appointing those best qualified from any of the three sources, decreased the number of cadets nominated by the Commissioners of the District of Columbia from 6 to 5, and by the Governor of the Panama Canal from 2 to 1, limited appointments to the number that can be adequately accommodated at the Academy, within the limitation that congressional appointments cannot be limited to less than four, and if limited, a priority of selection is established for the other categories, and, beginning in 1964, the Secretary may upon request of a Member of Congress, furnish him the name of any nominating authority responsible for the nomination of any identified person to the Academy.
 
-1962—Subsec. (a)(10). Pub. L. 87–663, § 1(1), added cl. (10).
+1962—Subsec. (a)(10). Pub. L. 87–663, § 1(1), added cl. (10).
 
-Subsec. (c). Pub. L. 87–633, § 1(2), inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “clauses (1)–(5) and (10)” for “clauses (1)–(5).”
+Subsec. (c). Pub. L. 87–633, § 1(2), inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “clauses (1)–(5) and (10)” for “clauses (1)–(5).”
 
 1958—Subsec. (c). Pub. L. 85–861 inserted a comma after “district”.
 
@@ -1193,7 +1193,7 @@ Subsec. (c). Pub. L. 87–633, § 1(2), inserted references to American Samoa,
 
 **Effective Date of 2023 Amendment**
 
-Pub. L. 118–31, div. A, title V, § 561(d), Dec. 22, 2023, 137 Stat. 274, provided that: “The amendments made by this section [amending this section and sections 8454 and 9442 of this title] shall apply to nominations of candidates and appointments to the Service Academies (as such term is defined in section 347 of title 10, United States Code) for classes entering such Service Academies beginning with the 2025-2026 academic year.”
+Pub. L. 118–31, div. A, title V, § 561(d), Dec. 22, 2023, 137 Stat. 274, provided that: “The amendments made by this section [amending this section and sections 8454 and 9442 of this title] shall apply to nominations of candidates and appointments to the Service Academies (as such term is defined in section 347 of title 10, United States Code) for classes entering such Service Academies beginning with the 2025-2026 academic year.”
 
 **Effective Date of 2018 Amendment**
 
@@ -1201,23 +1201,23 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title V, § 566(e), Dec. 23, 2016, 130 Stat. 2139, provided that: “The amendments made by this section [amending this section, sections 6954 and 9342 of this title, and section 51302 of Title 46, Shipping] shall apply with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after January 1, 2018.”
+Pub. L. 114–328, div. A, title V, § 566(e), Dec. 23, 2016, 130 Stat. 2139, provided that: “The amendments made by this section [amending this section, sections 6954 and 9342 of this title, and section 51302 of Title 46, Shipping] shall apply with respect to the appointment of cadets and midshipmen to the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the United States Merchant Marine Academy for classes entering these service academies after January 1, 2018.”
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–92, div. A, title V, § 556(d), Nov. 25, 2015, 129 Stat. 825, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall apply with respect to the nomination of candidates for appointment to the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy for classes entering these military service academies after the date of the enactment of this Act [Nov. 25, 2015].”
+Pub. L. 114–92, div. A, title V, § 556(d), Nov. 25, 2015, 129 Stat. 825, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall apply with respect to the nomination of candidates for appointment to the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy for classes entering these military service academies after the date of the enactment of this Act [Nov. 25, 2015].”
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title V, § 527(d), Oct. 28, 2009, 123 Stat. 2288, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall apply with respect to appointments to the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy beginning with the first class of candidates nominated for appointment to these military service academies after the date of the enactment of this Act [Oct. 28, 2009].”
+Pub. L. 111–84, div. A, title V, § 527(d), Oct. 28, 2009, 123 Stat. 2288, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall apply with respect to appointments to the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy beginning with the first class of candidates nominated for appointment to these military service academies after the date of the enactment of this Act [Oct. 28, 2009].”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title V, § 540(d), Oct. 14, 2008, 122 Stat. 4454, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall apply with respect to academic years at the United States Military Academy, the United States Naval Academy, and the Air Force Academy after the 2007-2008 academic year.”
+Pub. L. 110–417, [div. A], title V, § 540(d), Oct. 14, 2008, 122 Stat. 4454, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall apply with respect to academic years at the United States Military Academy, the United States Naval Academy, and the Air Force Academy after the 2007-2008 academic year.”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title V, § 524(d), Nov. 24, 2003, 117 Stat. 1465, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall apply with respect to the nomination of candidates for appointment to the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy for classes entering those academies after the date of the enactment of this Act [Nov. 24, 2003].”
+Pub. L. 108–136, div. A, title V, § 524(d), Nov. 24, 2003, 117 Stat. 1465, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall apply with respect to the nomination of candidates for appointment to the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy for classes entering those academies after the date of the enactment of this Act [Nov. 24, 2003].”
 
 **Effective Date of 1994 Amendment**
 
@@ -1229,13 +1229,13 @@ Amendment by Pub. L. 97–60 effective with respect to nominations for appointme
 
 **Effective Date of 1980 Amendments**
 
-Pub. L. 96–600, § 2(d), Dec. 24, 1980, 94 Stat. 3493, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall be effective beginning with the nominations for appointment to the service academies for academic years beginning more than one year after the date of enactment of this Act [Dec. 24, 1980].”
+Pub. L. 96–600, § 2(d), Dec. 24, 1980, 94 Stat. 3493, provided that: “The amendments made by this section [amending this section and sections 6954 and 9342 of this title] shall be effective beginning with the nominations for appointment to the service academies for academic years beginning more than one year after the date of enactment of this Act [Dec. 24, 1980].”
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–171, § 4, Nov. 29, 1973, 87 Stat. 691, provided that: “The amendments made by this Act [amending this section and sections 4343, 6954, 6956, 6958, 9342, and 9343 of this title] shall be effective beginning with the nominations for appointments to the service academies in the calendar year 1974.”
+Pub. L. 93–171, § 4, Nov. 29, 1973, 87 Stat. 691, provided that: “The amendments made by this Act [amending this section and sections 4343, 6954, 6956, 6958, 9342, and 9343 of this title] shall be effective beginning with the nominations for appointments to the service academies in the calendar year 1974.”
 
 **Effective Date of 1970 Amendment**
 
@@ -1251,7 +1251,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 **Information on Nominations and Applications for Military Service Academies**
 
-Pub. L. 116–283, div. A, title V, § 575, Jan. 1, 2021, 134 Stat. 3645, as amended by Pub. L. 117–263, div. A, title V, § 556, Dec. 23, 2022, 136 Stat. 2595; Pub. L. 118–159, div. A, title V, § 559A, Dec. 23, 2024, 138 Stat. 1900, provided that:
+Pub. L. 116–283, div. A, title V, § 575, Jan. 1, 2021, 134 Stat. 3645, as amended by Pub. L. 117–263, div. A, title V, § 556, Dec. 23, 2022, 136 Stat. 2595; Pub. L. 118–159, div. A, title V, § 559A, Dec. 23, 2024, 138 Stat. 1900, provided that:
 
 > **“(a) Nominations Portal.—**
 
@@ -1321,13 +1321,13 @@ Pub. L. 116–283, div. A, title V, § 575, Jan. 1, 2021, 134 Stat. 3645, as a
 
 **Eligibility of Female Individuals for Appointment and Admission to Service Academies; Uniform Application of Academic and Other Standards to Male and Female Individuals**
 
-Pub. L. 94–106, title VIII, § 803(a), Oct. 7, 1975, 89 Stat. 537, provided that: “Notwithstanding any other provision of law, in the administration of chapter 403 [now 753] of title 10, United States Code [this chapter] (relating to the United States Military Academy), chapter 603 [now 853] of such title (relating to the United States Naval Academy), and chapter 903 [now 953] of such title (relating to the United States Air Force Academy), the Secretary of the military department concerned shall take such action as may be necessary and appropriate to insure that (1) female individuals shall be eligible for appointment and admission to the service academy concerned, beginning with appointments to such academy for the class beginning in calendar year 1976, and (2) the academic and other relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for male individuals, except for those minimum essential adjustments in such standards required because of physiological differences between male and female individuals.”
+Pub. L. 94–106, title VIII, § 803(a), Oct. 7, 1975, 89 Stat. 537, provided that: “Notwithstanding any other provision of law, in the administration of chapter 403 [now 753] of title 10, United States Code [this chapter] (relating to the United States Military Academy), chapter 603 [now 853] of such title (relating to the United States Naval Academy), and chapter 903 [now 953] of such title (relating to the United States Air Force Academy), the Secretary of the military department concerned shall take such action as may be necessary and appropriate to insure that (1) female individuals shall be eligible for appointment and admission to the service academy concerned, beginning with appointments to such academy for the class beginning in calendar year 1976, and (2) the academic and other relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for male individuals, except for those minimum essential adjustments in such standards required because of physiological differences between male and female individuals.”
 
 **Secretary To Implement Policy of Expeditious Admission of Women to the Academy**
 
-Pub. L. 94–106, title VIII, § 803(c), Oct. 7, 1975, 89 Stat. 538, provided that: “It is the sense of Congress that, subject to the provisions of subsection (a) [note set out above], the Secretaries of the military departments shall, under the direction of the Secretary of Defense, continue to exercise the authority granted them in chapters 403, 603 and 903 [now 753, 853, and 953] of title 10, United States Code, but such authority must be exercised within a program providing for the orderly and expeditious admission of women to the academies, consistent with the needs of the services, with the implementation of such program upon enactment of this Act [Oct. 7, 1975].”
+Pub. L. 94–106, title VIII, § 803(c), Oct. 7, 1975, 89 Stat. 538, provided that: “It is the sense of Congress that, subject to the provisions of subsection (a) [note set out above], the Secretaries of the military departments shall, under the direction of the Secretary of Defense, continue to exercise the authority granted them in chapters 403, 603 and 903 [now 753, 853, and 953] of title 10, United States Code, but such authority must be exercised within a program providing for the orderly and expeditious admission of women to the academies, consistent with the needs of the services, with the implementation of such program upon enactment of this Act [Oct. 7, 1975].”
 
-## § 7442a. Cadets: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate
+## § 7442a. Cadets: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate
 
 **(a) Senators.—** In the event a Senator does not submit all nominations for cadets allocated to such Senator for an academic year in accordance with section 7442(a)(3) of this title, due to death, resignation from office, or expulsion from office, and the date of the swearing-in of the Senator’s successor as Senator occurs after the date of the deadline for submittal of nominations for cadets for the academic year, the nominations for cadets for such academic year, otherwise authorized to be made by the Senator pursuant to such section, may be made instead by the other Senator from the State of such Representative.
 
@@ -1335,19 +1335,19 @@ Pub. L. 94–106, title VIII, § 803(c), Oct. 7, 1975, 89 Stat. 538, provided 
 
 **(c) Rule of Construction.—** The nomination of a cadet by a Member of Congress pursuant to this section shall not be construed to permanently reallocate nominations under section 7442 of this title.
 
-(Added Pub. L. 117–81, div. A, title V, § 553(a)(1), Dec. 27, 2021, 135 Stat. 1736.)
+(Added Pub. L. 117–81, div. A, title V, § 553(a)(1), Dec. 27, 2021, 135 Stat. 1736.)
 
-## § 7443. Cadets: appointment; to bring Corps to full strength
+## § 7443. Cadets: appointment; to bring Corps to full strength
 
 If it is determined that, upon the admission of a new class to the Academy, the number of cadets at the Academy will be below the authorized number, the Secretary of the Army may fill the vacancies by nominating additional cadets from qualified candidates designated as alternates and from other qualified candidates who competed for nomination and are recommended and found qualified by the Academic Board. At least three-fourths of those nominated under this section shall be selected from qualified alternates nominated by the persons named in paragraphs (2) through (8) of section 7442(a) of this title, and the remainder from qualified candidates holding competitive nominations under any other provision of law. An appointment under this section is an additional appointment and is not in place of an appointment otherwise authorized by law.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 242, § 4343; Pub. L. 88–276, § 1(2), Mar. 3, 1964, 78 Stat. 150; Pub. L. 93–171, § 1(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 102–25, title VII, § 701(f)(5), Apr. 6, 1991, 105 Stat. 115; Pub. L. 112–239, div. A, title X, § 1076(f)(39), Jan. 2, 2013, 126 Stat. 1954; renumbered § 7443 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 242, § 4343; Pub. L. 88–276, § 1(2), Mar. 3, 1964, 78 Stat. 150; Pub. L. 93–171, § 1(5), Nov. 29, 1973, 87 Stat. 690; Pub. L. 102–25, title VII, § 701(f)(5), Apr. 6, 1991, 105 Stat. 115; Pub. L. 112–239, div. A, title X, § 1076(f)(39), Jan. 2, 2013, 126 Stat. 1954; renumbered § 7443 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4343 | 10:1092d. | June 30, 1950, ch. 421, § 4, 64 Stat. 305. |
+| 4343 | 10:1092d. | June 30, 1950, ch. 421, § 4, 64 Stat. 305. |
 
 The words “If it is determined” are substituted for the words “When upon determination”. The words “within his discretion” are omitted as covered by the word “may”. The words “within the capacity of the Academy”, “from the remaining sources of admission authorized by law”, and “to be admitted in such class” are omitted as surplusage. The words “by the persons named in clauses (1)–(6) of section 4342(a), and clause (2) of section 4342(e), of this title” are substituted for the words “by the Vice President, Members of the Senate and House of Representatives of the United States, Delegates and Resident Commissioners, the Commissioners of the District of Columbia, and the Governor of the Canal Zone”. The words “under any other provision of law” are substituted for the words “from sources authorized by law other than those holding such alternate appointments”.
 
@@ -1355,9 +1355,9 @@ The words “If it is determined” are substituted for the words “When upon d
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 809(a), substituted “paragraphs (2) through (8) of section 7442(a)” for “paragraphs (2) through (8) of section 4342(a)”.
+2018—Pub. L. 115–232, § 809(a), substituted “paragraphs (2) through (8) of section 7442(a)” for “paragraphs (2) through (8) of section 4342(a)”.
 
-Pub. L. 115–232, § 808(c)(1), renumbered section 4343 of this title as this section.
+Pub. L. 115–232, § 808(c)(1), renumbered section 4343 of this title as this section.
 
 2013—Pub. L. 112–239 substituted “paragraphs” for “clauses”.
 
@@ -1379,9 +1379,9 @@ Effective date of amendment by Pub. L. 93–171, see section 4 of Pub. L. 93–1
 
 **Number of Alternate-Appointees From Congressional Sources Not To Be Reduced Because of Additional Presidential Appointments**
 
-Pub. L. 89–650, § 2, Oct. 13, 1966, 80 Stat. 896, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(7), Aug. 13, 2018, 132 Stat. 1840, provided that: “Notwithstanding any other provision of law, none of the additional appointments authorized in sections 7442(b)(1), 8454(b), and 9442(b)(1) of title 10, United States Code, as provided by this Act shall serve to reduce or diminish the number of qualified alternates from congressional sources who would otherwise be appointed by the appropriate service Secretary under the authority contained in sections 7443, 8456, and 9443 of such title.”
+Pub. L. 89–650, § 2, Oct. 13, 1966, 80 Stat. 896, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(7), Aug. 13, 2018, 132 Stat. 1840, provided that: “Notwithstanding any other provision of law, none of the additional appointments authorized in sections 7442(b)(1), 8454(b), and 9442(b)(1) of title 10, United States Code, as provided by this Act shall serve to reduce or diminish the number of qualified alternates from congressional sources who would otherwise be appointed by the appropriate service Secretary under the authority contained in sections 7443, 8456, and 9443 of such title.”
 
-## § 7446. Cadets: requirements for admission
+## § 7446. Cadets: requirements for admission
 
 **(a)** To be eligible for admission to the Academy a candidate must be at least 17 years of age and must not have passed his twenty-third birthday on July 1 of the year in which he enters the Academy.
 
@@ -1395,19 +1395,19 @@ Pub. L. 89–650, § 2, Oct. 13, 1966, 80 Stat. 896, as amended by Pub. L. 115
 
 If a candidate for admission refuses to take this oath, his appointment is terminated.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 242, § 4346; Pub. L. 104–201, div. A, title V, § 555(b), Sept. 23, 1996, 110 Stat. 2527; renumbered § 7446, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 242, § 4346; Pub. L. 104–201, div. A, title V, § 555(b), Sept. 23, 1996, 110 Stat. 2527; renumbered § 7446, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4346(a) 4346(b) 4346(c) | 10:1092b (less provisos). 10:1096. 10:1095. | June 30, 1950, ch. 421, § 2 (less provisos), 64 Stat. 304. |
+| 4346(a) 4346(b) 4346(c) | 10:1092b (less provisos). 10:1096. 10:1095. | June 30, 1950, ch. 421, § 2 (less provisos), 64 Stat. 304. |
 | 4346(d) | 10:1099. | R.S. 1319; restated Mar. 2, 1901, ch. 804 (1st proviso under “Permanent Establishment”), 31 Stat. 911. |
 |  |  | Aug. 9, 1912, ch. 275 (2d proviso under “Permanent Establishment”), 37 Stat. 252. R.S. 1320. |
 
 In subsection (a), the words “Effective January 1, 1951” are omitted as executed. The word “Calendar” is omitted as surplusage. The words “must not have passed his twenty-second birthday” are substituted for the words “not more than twenty-two years of age”, to make it clear that a person whose twenty-second birthday falls on July 1 of the year of admission is eligible (see opinion of the Judge Advocate General of the Army (JAGA 1952/7083, 2 Sept. 1952)).
 
-In subsection (b), the words “To be” are substituted for the words “before they shall be”. The words “must show \* \* \* that he is qualified” are substituted for the words “shall be required to be well versed”. The words “from time to time” are omitted as surplusage.
+In subsection (b), the words “To be” are substituted for the words “before they shall be”. The words “must show \* \* \* that he is qualified” are substituted for the words “shall be required to be well versed”. The words “from time to time” are omitted as surplusage.
 
 In subsection (c), the word “shall” is substituted for the word “may”, since the nominee is required to appear for the examination. The word “appear” is substituted for the words “present himself”. The words “at a place” are substituted for the words “at West Point, New York, or other prescribed places”.
 
@@ -1429,11 +1429,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Consideration of Standardized Test Scores in Military Service Academy Application Process**
 
-Pub. L. 118–31, div. A, title V, § 563, Dec. 22, 2023, 137 Stat. 274, provided that: “The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy require the submission and consideration of standardized test scores as part of the application process.”
+Pub. L. 118–31, div. A, title V, § 563, Dec. 22, 2023, 137 Stat. 274, provided that: “The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy require the submission and consideration of standardized test scores as part of the application process.”
 
 **Temporary Authority To Waive Maximum Age Limitation on Admission to the Military Service Academies**
 
-Pub. L. 112–81, div. A, title V, § 553, Dec. 31, 2011, 125 Stat. 1413, as amended by Pub. L. 114–92, div. A, title X, § 1072(b), Nov. 25, 2015, 129 Stat. 995, provided that:
+Pub. L. 112–81, div. A, title V, § 553, Dec. 31, 2011, 125 Stat. 1413, as amended by Pub. L. 114–92, div. A, title X, § 1072(b), Nov. 25, 2015, 129 Stat. 995, provided that:
 
 > **“(a) Waiver for Certain Enlisted Members.—** The Secretary of the military department concerned may waive the maximum age limitation specified in section 4346(a), 6958(a)(1), or 9346(a) [now 7446(a), 8458(a)(1), or 9446(a)] of title 10, United States Code, for the admission of an enlisted member of the Armed Forces to the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy if the member—
 
@@ -1451,7 +1451,7 @@ Pub. L. 112–81, div. A, title V, § 553, Dec. 31, 2011, 125 Stat. 1413, as a
 
 **Authority To Waive Maximum Age Limitation on Admission to Service Academies for Certain Enlisted Members Who Served During Persian Gulf War**
 
-Pub. L. 102–190, div. A, title V, § 514, Dec. 5, 1991, 105 Stat. 1361, provided that:
+Pub. L. 102–190, div. A, title V, § 514, Dec. 5, 1991, 105 Stat. 1361, provided that:
 
 > **“(a) Waiver Authority.—** The Secretary of the military department concerned may waive the maximum age limitation in section 4346(a), 6958(a)(1), or 9346(a) [now 7446(a), 8458(a)(1), or 9446(a)] of title 10, United States Code, in the case of any enlisted member of the Armed Forces who—
 
@@ -1467,13 +1467,13 @@ Pub. L. 102–190, div. A, title V, § 514, Dec. 5, 1991, 105 Stat. 1361, prov
 
 **Persons From Countries Assisting U.S. in Vietnam; Service Academy Instruction: Oath of Trainees**
 
-Exemption from oath requirement of subsec. (d) of this section of appointees to the Military Academy, the Naval Academy, and the Air Force Academy from countries assisting U.S. in Vietnam, see Pub. L. 89–802, § 1(g), Nov. 9, 1966, 80 Stat. 1519, formerly set out as a note under section 4344 of this title.
+Exemption from oath requirement of subsec. (d) of this section of appointees to the Military Academy, the Naval Academy, and the Air Force Academy from countries assisting U.S. in Vietnam, see Pub. L. 89–802, § 1(g), Nov. 9, 1966, 80 Stat. 1519, formerly set out as a note under section 4344 of this title.
 
-## § 7447. Cadets; nominees: effect of redistricting of States
+## § 7447. Cadets; nominees: effect of redistricting of States
 
 If as a result of redistricting a State the domicile of a cadet, or a nominee, nominated by a Representative falls within a congressional district other than that from which he was nominated, he is charged to the district in which his domicile so falls. For this purpose, the number of cadets otherwise authorized for that district is increased to include him. However, the number as so increased is reduced by one if he fails to become a cadet or when he is finally separated from the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 243, § 4347; renumbered § 7447, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 243, § 4347; renumbered § 7447, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -1481,7 +1481,7 @@ If as a result of redistricting a State the domicile of a cadet, or a nominee, n
 |---|---|---|
 | 4347 | 10:1091–1. | July 7, 1943, ch. 193, 57 Stat. 383. |
 
-The word “domicile” is substituted for the words “place of residence” to conform to opinions of the Judge Advocate General of the Army (R. 29, 83; J.A.G. 351.11, Feb. 10, 1925). The words “a \* \* \* other than that from which he was nominated” are substituted for the word “another”. The words “were appointed with respect to”, “of the former district”, “as additional numbers”, “at such academy for the Representative”, “temporarily”, and “in attendance at such academy under an appointment from such former district” are omitted as surplusage. The words “the district in which his domicile so falls” are substituted for the words “of the latter district”. The words “to include him” are substituted for 10:1091–1 (18 words before proviso). The words “However, the number as so increased” are substituted for 10:1091–1 (1st 13 words of proviso). The words “if he fails to become a cadet” are inserted for clarity.
+The word “domicile” is substituted for the words “place of residence” to conform to opinions of the Judge Advocate General of the Army (R. 29, 83; J.A.G. 351.11, Feb. 10, 1925). The words “a \* \* \* other than that from which he was nominated” are substituted for the word “another”. The words “were appointed with respect to”, “of the former district”, “as additional numbers”, “at such academy for the Representative”, “temporarily”, and “in attendance at such academy under an appointment from such former district” are omitted as surplusage. The words “the district in which his domicile so falls” are substituted for the words “of the latter district”. The words “to include him” are substituted for 10:1091–1 (18 words before proviso). The words “However, the number as so increased” are substituted for 10:1091–1 (1st 13 words of proviso). The words “if he fails to become a cadet” are inserted for clarity.
 
 **Editorial Notes**
 
@@ -1495,7 +1495,7 @@ The word “domicile” is substituted for the words “place of residence” to
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7448. Cadets: service obligation
+## § 7448. Cadets: service obligation
 
 **(a)** Each cadet shall sign an agreement with respect to the cadet’s length of service in the armed forces. The agreement shall provide that the cadet agrees to the following:
 
@@ -1559,13 +1559,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(f)** A cadet or former cadet who does not fulfill each term of the agreement as specified under subsection (a), or an alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 243, § 4348; Pub. L. 88–276, § 5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, § 301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§ 541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, § 512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, § 511(b), title XVI, § 1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, § 531(a), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, § 687(c)(9), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, § 1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, § 554(a), Jan. 7, 2011, 124 Stat. 4221; Pub. L. 115–91, div. A, title V, § 543(a), title VI, § 618(a)(1)(K), Dec. 12, 2017, 131 Stat. 1395, 1426; renumbered § 7448, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 116–92, div. A, title V, § 554(a), Dec. 20, 2019, 133 Stat. 1388; Pub. L. 117–263, div. A, title V, § 553(a), Dec. 23, 2022, 136 Stat. 2592; Pub. L. 118–159, div. A, title V, § 557(a), Dec. 23, 2024, 138 Stat. 1896; Pub. L. 119–60, div. A, title V, § 556(a), Dec. 18, 2025, 139 Stat. 878.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 243, § 4348; Pub. L. 88–276, § 5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, § 301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§ 541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, § 512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, § 511(b), title XVI, § 1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, § 531(a), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, § 687(c)(9), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, § 1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, § 554(a), Jan. 7, 2011, 124 Stat. 4221; Pub. L. 115–91, div. A, title V, § 543(a), title VI, § 618(a)(1)(K), Dec. 12, 2017, 131 Stat. 1395, 1426; renumbered § 7448, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 116–92, div. A, title V, § 554(a), Dec. 20, 2019, 133 Stat. 1388; Pub. L. 117–263, div. A, title V, § 553(a), Dec. 23, 2022, 136 Stat. 2592; Pub. L. 118–159, div. A, title V, § 557(a), Dec. 23, 2024, 138 Stat. 1896; Pub. L. 119–60, div. A, title V, § 556(a), Dec. 18, 2025, 139 Stat. 878.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4348 | 10:1092c. | June 30, 1950, ch. 421, § 3, 64 Stat. 304. |
+| 4348 | 10:1092c. | June 30, 1950, ch. 421, § 3, 64 Stat. 304. |
 
 The word “agreement” is substituted for the word “articles”. The words “Hereafter”, “appointed to the United States Military Academy”, “engage”, and 10:1092c (1st 25 words of clause (2)) are omitted as surplusage. The word “separated” is substituted for the words “discharged by competent authority”. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only when accepted. The first 31 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have”.
 
@@ -1575,37 +1575,37 @@ The word “agreement” is substituted for the word “articles”. The words �
 
 2025—Subsec. (b)(4). Pub. L. 119–60 substituted “five” for “three”.
 
-2024—Pub. L. 118–159, § 557(a)(1), substituted “service obligation” for “agreement to serve as officer” in section catchline.
+2024—Pub. L. 118–159, § 557(a)(1), substituted “service obligation” for “agreement to serve as officer” in section catchline.
 
-Subsec. (b)(1). Pub. L. 118–159, § 557(a)(2)(A), substituted “Subject to paragraph (4), the Secretary of the Army” for “The Secretary of the Army”.
+Subsec. (b)(1). Pub. L. 118–159, § 557(a)(2)(A), substituted “Subject to paragraph (4), the Secretary of the Army” for “The Secretary of the Army”.
 
-Subsec. (b)(4). Pub. L. 118–159, § 557(a)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “A cadet who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).”
+Subsec. (b)(4). Pub. L. 118–159, § 557(a)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “A cadet who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).”
 
-Subsec. (c)(2)(A). Pub. L. 118–159, § 557(a)(3), inserted “unless such cadet receives a transfer under paragraph (4) of subsection (b)” before “; and”.
+Subsec. (c)(2)(A). Pub. L. 118–159, § 557(a)(3), inserted “unless such cadet receives a transfer under paragraph (4) of subsection (b)” before “; and”.
 
-Subsec. (f). Pub. L. 118–159, § 557(a)(4), substituted “an alternative obligation” for “the alternative obligation”.
+Subsec. (f). Pub. L. 118–159, § 557(a)(4), substituted “an alternative obligation” for “the alternative obligation”.
 
-2022—Subsec. (a)(5). Pub. L. 117–263, § 553(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “That the cadet—
+2022—Subsec. (a)(5). Pub. L. 117–263, § 553(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “That the cadet—
 
 “(A) will not seek release from the cadet’s commissioned service obligation or seek or accept approval for off-duty employment while completing the cadet’s commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
 
 “(B) understands that the appointment alternative described in paragraph (3) will not be used to allow the cadet to obtain such employment until at least the end of that two-year period.”
 
-Subsec. (b)(4). Pub. L. 117–263, § 553(a)(2), added par. (4).
+Subsec. (b)(4). Pub. L. 117–263, § 553(a)(2), added par. (4).
 
-Subsec. (c)(2) to (4). Pub. L. 117–263, § 553(a)(3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (c)(2) to (4). Pub. L. 117–263, § 553(a)(3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (d). Pub. L. 117–263, § 553(a)(4), substituted “with respect to a cadet” for “with respect to an officer who is a graduate of the Academy” and “cadet’s” for “officer’s”.
+Subsec. (d). Pub. L. 117–263, § 553(a)(4), substituted “with respect to a cadet” for “with respect to an officer who is a graduate of the Academy” and “cadet’s” for “officer’s”.
 
-Subsec. (f). Pub. L. 117–263, § 553(a)(5), substituted “each term” for “the terms”.
+Subsec. (f). Pub. L. 117–263, § 553(a)(5), substituted “each term” for “the terms”.
 
 2019—Subsec. (a)(5)(A). Pub. L. 116–92 inserted “or seek or accept approval for off-duty employment while completing the cadet’s commissioned service obligation” before “to obtain employment”.
 
 2018—Pub. L. 115–232 renumbered section 4348 of this title as this section.
 
-2017—Subsec. (a)(5). Pub. L. 115–91, § 543(a), added par. (5).
+2017—Subsec. (a)(5). Pub. L. 115–91, § 543(a), added par. (5).
 
-Subsec. (f). Pub. L. 115–91, § 618(a)(1)(K), inserted “or 373” before “of title 37”.
+Subsec. (f). Pub. L. 115–91, § 618(a)(1)(K), inserted “or 373” before “of title 37”.
 
 2011—Subsec. (a)(4). Pub. L. 111–383 added par. (4).
 
@@ -1615,9 +1615,9 @@ Subsec. (f). Pub. L. 115–91, § 618(a)(1)(K), inserted “or 373” before �
 
 1996—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
 
-1989—Subsec. (a)(2)(B). Pub. L. 101–189, § 511(b), substituted “six years” for “five years”.
+1989—Subsec. (a)(2)(B). Pub. L. 101–189, § 511(b), substituted “six years” for “five years”.
 
-Subsec. (d). Pub. L. 101–189, § 1622(e)(5), inserted “the term” after “In this section,”.
+Subsec. (d). Pub. L. 101–189, § 1622(e)(5), inserted “the term” after “In this section,”.
 
 1985—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows:
 
@@ -1633,9 +1633,9 @@ If the cadet is a minor and has parents or a guardian, he may sign the agreement
 
 “(b) A cadet who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Army to the Army Reserve in an appropriate enlisted grade and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade for such period of time as the Secretary prescribes but not for more than four years.”
 
-1984—Subsec. (a). Pub. L. 98–525, § 541(a), struck out “, unless sooner separated,” in introductory text before “he will”; inserted in cl. (1) “unless sooner separated from the Academy,”; and inserted “, unless sooner separated from the service,” in cls. (2) and (3).
+1984—Subsec. (a). Pub. L. 98–525, § 541(a), struck out “, unless sooner separated,” in introductory text before “he will”; inserted in cl. (1) “unless sooner separated from the Academy,”; and inserted “, unless sooner separated from the service,” in cls. (2) and (3).
 
-Subsec. (a)(3). Pub. L. 98–525, § 524(b), substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
+Subsec. (a)(3). Pub. L. 98–525, § 524(b), substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
 
 1964—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -1645,9 +1645,9 @@ Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. A, title V, § 553(d), as added by Pub. L. 117–328, div. O, title II, § 202(a), Dec. 29, 2022, 136 Stat. 5227, provided that: “The amendments made by this section [amending this section and sections 8459 and 9448 of this title] shall only apply with respect to a cadet or midshipman who first enrolls in the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on or after June 1, 2021.”
+Pub. L. 117–263, div. A, title V, § 553(d), as added by Pub. L. 117–328, div. O, title II, § 202(a), Dec. 29, 2022, 136 Stat. 5227, provided that: “The amendments made by this section [amending this section and sections 8459 and 9448 of this title] shall only apply with respect to a cadet or midshipman who first enrolls in the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on or after June 1, 2021.”
 
-[Pub. L. 117–328, div. O, title II, § 202(b), Dec. 29, 2022, 136 Stat. 5227, provided that: “The amendment made by subsection (a) [enacting section 553(d) of Pub. L. 117–263, set out above] shall take effect on the date of the enactment of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 [Pub. L. 117–263, approved Dec. 23, 2022] and apply as if originally included in the enactment of such Act.” ]
+[Pub. L. 117–328, div. O, title II, § 202(b), Dec. 29, 2022, 136 Stat. 5227, provided that: “The amendment made by subsection (a) [enacting section 553(d) of Pub. L. 117–263, set out above] shall take effect on the date of the enactment of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 [Pub. L. 117–263, approved Dec. 23, 2022] and apply as if originally included in the enactment of such Act.” ]
 
 **Effective Date of 2018 Amendment**
 
@@ -1655,11 +1655,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title V, § 543(d), Dec. 12, 2017, 131 Stat. 1396, provided that: “The Secretaries of the military departments shall promptly revise the cadet and midshipman service agreements under sections 4348, 6959, and 9348 [now 7448, 8459, and 9448] of title 10, United States Code, to reflect the amendments made by this section [amending this section and sections 6959 and 9348 of this title]. The revised agreement shall apply to cadets and midshipmen who are attending the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on the date of the enactment of this Act [Dec. 12, 2017] and to persons who begin attendance at such military service academies on or after that date.”
+Pub. L. 115–91, div. A, title V, § 543(d), Dec. 12, 2017, 131 Stat. 1396, provided that: “The Secretaries of the military departments shall promptly revise the cadet and midshipman service agreements under sections 4348, 6959, and 9348 [now 7448, 8459, and 9448] of title 10, United States Code, to reflect the amendments made by this section [amending this section and sections 6959 and 9348 of this title]. The revised agreement shall apply to cadets and midshipmen who are attending the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on the date of the enactment of this Act [Dec. 12, 2017] and to persons who begin attendance at such military service academies on or after that date.”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title V, § 531(e), Feb. 10, 1996, 110 Stat. 314, provided that: “The amendments made by this section [amending this section and sections 6959 and 9348 of this title] apply to persons first admitted to the United States Military Academy, United States Naval Academy, and United States Air Force Academy after December 31, 1991.”
+Pub. L. 104–106, div. A, title V, § 531(e), Feb. 10, 1996, 110 Stat. 314, provided that: “The amendments made by this section [amending this section and sections 6959 and 9348 of this title] apply to persons first admitted to the United States Military Academy, United States Naval Academy, and United States Air Force Academy after December 31, 1991.”
 
 **Effective Date of 1989 Amendment**
 
@@ -1667,7 +1667,7 @@ Amendment by section 511(b) of Pub. L. 101–189 applicable to persons who are f
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–145, title V, § 512(e), Nov. 8, 1985, 99 Stat. 626, provided that:
+Pub. L. 99–145, title V, § 512(e), Nov. 8, 1985, 99 Stat. 626, provided that:
 
 > “The amendments made by subsections (a), (b), and (c) [amending this section and sections 6959 and 9348 of this title] (other than with respect to the authority of the Secretary of a military department to prescribe regulations)—
 
@@ -1677,15 +1677,15 @@ Pub. L. 99–145, title V, § 512(e), Nov. 8, 1985, 99 Stat. 626, provided tha
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–525, title V, § 541(d), Oct. 19, 1984, 98 Stat. 2529, provided that: “The amendments made by this section [amending this section and sections 6959 and 9348 of this title] shall apply with respect to agreements entered into under section 4348, 6959, or 9348 [now 7448, 8459, or 9448] of title 10, United States Code, before, on, or after the date of the enactment of this Act [Oct. 19, 1984].”
+Pub. L. 98–525, title V, § 541(d), Oct. 19, 1984, 98 Stat. 2529, provided that: “The amendments made by this section [amending this section and sections 6959 and 9348 of this title] shall apply with respect to agreements entered into under section 4348, 6959, or 9348 [now 7448, 8459, or 9448] of title 10, United States Code, before, on, or after the date of the enactment of this Act [Oct. 19, 1984].”
 
 **Effective Date of 1964 Amendment; Obligated Period of Service**
 
-Pub. L. 88–276, § 5(c), Mar. 3, 1964, 78 Stat. 153, provided that: “The amendments made by this section [amending this section, sections 6959 and 9348 of this title, and section 182 of Title 14, Coast Guard] shall apply only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after the date of enactment of this Act [Mar. 3, 1964], and shall not affect the obligated period of service of any cadet or midshipman appointed to one of the service academies or the Coast Guard Academy on or before the date of enactment of this Act.”
+Pub. L. 88–276, § 5(c), Mar. 3, 1964, 78 Stat. 153, provided that: “The amendments made by this section [amending this section, sections 6959 and 9348 of this title, and section 182 of Title 14, Coast Guard] shall apply only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after the date of enactment of this Act [Mar. 3, 1964], and shall not affect the obligated period of service of any cadet or midshipman appointed to one of the service academies or the Coast Guard Academy on or before the date of enactment of this Act.”
 
 **Regulations Implementing 1985 Amendment**
 
-Pub. L. 99–145, title V, § 512(d), Nov. 8, 1985, 99 Stat. 626, provided that: “The Secretary of each military department shall prescribe the regulations required by section 4348(c), 6959(c), or 9348(c) [now 7448(c), 8459(c), or 9448(c)], as appropriate, of title 10, United States Code (as added by the amendments made by subsections (a), (b), and (c)) not later than the end of the 90-day period beginning on the date of the enactment of this Act [Nov. 8, 1985].”
+Pub. L. 99–145, title V, § 512(d), Nov. 8, 1985, 99 Stat. 626, provided that: “The Secretary of each military department shall prescribe the regulations required by section 4348(c), 6959(c), or 9348(c) [now 7448(c), 8459(c), or 9448(c)], as appropriate, of title 10, United States Code (as added by the amendments made by subsections (a), (b), and (c)) not later than the end of the 90-day period beginning on the date of the enactment of this Act [Nov. 8, 1985].”
 
 **Savings Provision**
 
@@ -1693,7 +1693,7 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 **Report on Service Academy Professional Sports Pathway**
 
-Pub. L. 118–31, div. A, title V, § 564(b), (c), Dec. 22, 2023, 137 Stat. 274, 275, provided that:
+Pub. L. 118–31, div. A, title V, § 564(b), (c), Dec. 22, 2023, 137 Stat. 274, 275, provided that:
 
 > **“(b) Report Required.—** Not later than March 1, 2024, and annually thereafter, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report that includes the following information:
 
@@ -1715,7 +1715,7 @@ Pub. L. 118–31, div. A, title V, § 564(b), (c), Dec. 22, 2023, 137 Stat. 27
 
 **Department of Defense Policy on Service Academy and ROTC Graduates Seeking To Participate in Professional Sports Before Completion of Their Active-Duty Service Obligations**
 
-Pub. L. 109–364, div. A, title V, § 533, Oct. 17, 2006, 120 Stat. 2206, provided that:
+Pub. L. 109–364, div. A, title V, § 533, Oct. 17, 2006, 120 Stat. 2206, provided that:
 
 > **“(a) Policy Required.—**
 
@@ -1755,7 +1755,7 @@ Pub. L. 109–364, div. A, title V, § 533, Oct. 17, 2006, 120 Stat. 2206, pro
 
 > **“(c) Application of Policy to Armed Forces.—** Not later than December 1, 2007, the Secretary of each military department shall prescribe regulations, or modify current regulations, in order to implement the policy prescribed by the Secretary of Defense under subsection (a) with respect to the Armed Forces under the jurisdiction of such Secretary.”
 
-## § 7449. Cadets: organization of Corps; service; instruction
+## § 7449. Cadets: organization of Corps; service; instruction
 
 **(a)** The Corps of Cadets shall be divided into companies, as directed by the Superintendent, for the purpose of military instruction. Each company shall be commanded by a commissioned officer of the Army.
 
@@ -1767,7 +1767,7 @@ Pub. L. 109–364, div. A, title V, § 533, Oct. 17, 2006, 120 Stat. 2206, pro
 
 **(e)** The Corps of Cadets shall be trained in the duties of members of the Army, shall be encamped at least three months in each year, and shall be trained in all duties incident to a camp.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 243, § 4349; renumbered § 7449, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 243, § 4349; renumbered § 7449, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -1794,20 +1794,20 @@ In subsection (e), the words “members of the Army” are substituted for the w
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7450. Cadets: clothing and equipment
+## § 7450. Cadets: clothing and equipment
 
 **(a)** The Secretary of the Army may prescribe the amount to be credited to a cadet, upon original admission to the Academy, for the cost of his initial issue of clothing and equipment. That amount shall be deducted from his pay. If a cadet is discharged before graduation while owing the United States for pay advanced for the purchase of required clothing and equipment, he shall turn in so much of his clothing and equipment of a distinctive military nature as is necessary to repay the amount advanced. If the value of the clothing and equipment turned in does not cover the amount owed, the indebtedness shall be canceled.
 
 **(b)** Under such regulations as the Secretary may prescribe, uniforms and equipment shall be furnished to a cadet at the Academy upon his request.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 244, § 4350; renumbered § 7450, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 244, § 4350; renumbered § 7450, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4350(a) 4350(b) | 10:1149a. 10:1106. | Aug. 31, 1918, ch. 166, § 9 (17th through 22d words), 40 Stat. 957. |
-|  |  | Aug. 22, 1951, ch. 340, § 1, 65 Stat. 196. |
+| 4350(a) 4350(b) | 10:1149a. 10:1106. | Aug. 31, 1918, ch. 166, § 9 (17th through 22d words), 40 Stat. 957. |
+|  |  | Aug. 22, 1951, ch. 340, § 1, 65 Stat. 196. |
 
 In subsection (a), the words “while owing the United States for pay advanced for the purchase of” are substituted for the words “who is indebted to the United States on account of advances of pay to purchase”. The words “as is necessary to repay the amount advanced” are substituted for the words “to the extent required to discharge such indebtedness”.
 
@@ -1825,7 +1825,7 @@ In subsection (b), the word “accouterments” is omitted as surplusage. The wo
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7451. Cadets: deficiencies in conduct or studies; effect of failure on successor
+## § 7451. Cadets: deficiencies in conduct or studies; effect of failure on successor
 
 **(a)** A cadet who is reported as deficient in conduct or studies and recommended to be discharged from the Academy may not, unless recommended by the Academic Board, be returned or reappointed to the Academy.
 
@@ -1833,7 +1833,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c)** The failure of a member of a graduating class to complete the course with his class does not delay the admission of his successor.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 244, § 4351; renumbered § 7451, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 244, § 4351; renumbered § 7451, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -1841,7 +1841,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 |---|---|---|
 | 4351(a) 4351(b) 4351(c) | 10:1104. 10:1103. 10:1092b (1st proviso). | Aug. 11, 1916, ch. 314 (3d, 4th, and 5th provisos under “Permanent Establishment”), 39 Stat. 493. |
 |  |  | R.S. 1325. |
-|  |  | June 30, 1950, ch. 421, § 2 (1st proviso), 64 Stat. 304. |
+|  |  | June 30, 1950, ch. 421, § 2 (1st proviso), 64 Stat. 304. |
 
 In subsection (a), 10:1104 (last 20 words) is omitted as superseded by section 3287(d) of this title.
 
@@ -1863,7 +1863,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Readmission to Service Academies of Certain Former Cadets and Midshipmen**
 
-Pub. L. 108–136, div. A, title V, § 525, Nov. 24, 2003, 117 Stat. 1465, provided that:
+Pub. L. 108–136, div. A, title V, § 525, Nov. 24, 2003, 117 Stat. 1465, provided that:
 
 > **“(a) Inspector General Report as Basis for Readmission.—**
 
@@ -1893,7 +1893,7 @@ Pub. L. 108–136, div. A, title V, § 525, Nov. 24, 2003, 117 Stat. 1465, pro
 
 > **“(3)** The United States Air Force Academy.”
 
-## § 7452. Cadets: hazing
+## § 7452. Cadets: hazing
 
 **(a)** Subject to the approval of the Secretary of the Army, the Superintendent of the Academy shall issue regulations—
 
@@ -1907,13 +1907,13 @@ Pub. L. 108–136, div. A, title V, § 525, Nov. 24, 2003, 117 Stat. 1465, pro
 
 **(c)** A cadet dismissed from the Academy for hazing may not be reappointed to the Corps of Cadets, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, Marine Corps, or Space Force, until two years after the graduation of his class.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 244, § 4352; renumbered § 7452, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 116–283, div. A, title IX, § 924(c)(1)(A), Jan. 1, 2021, 134 Stat. 3826.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 244, § 4352; renumbered § 7452, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 116–283, div. A, title IX, § 924(c)(1)(A), Jan. 1, 2021, 134 Stat. 3826.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4352(a) 4352(b)   4352(c) | 10:1163 (1st par.). 10:1163 (1st 32 words of last par.). 10:1163 (last par., less 1st 32 words). | Mar. 2, 1901, ch. 804 (2d proviso under “Permanent Establishment”); restated Apr. 19, 1910, ch. 174 (38th par. under “Buildings and Grounds”), 36 Stat. 323. |
+| 4352(a) 4352(b) 4352(c) | 10:1163 (1st par.). 10:1163 (1st 32 words of last par.). 10:1163 (last par., less 1st 32 words). | Mar. 2, 1901, ch. 804 (2d proviso under “Permanent Establishment”); restated Apr. 19, 1910, ch. 174 (38th par. under “Buildings and Grounds”), 36 Stat. 323. |
 
 In subsection (a), the word “violations” is substituted for the words “infractions of the same”. The words “to embody a clear” are omitted as surplusage.
 
@@ -1935,13 +1935,13 @@ In subsection (c), the words “a regular component” are inserted, since the s
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7453. Cadets: degree and commission on graduation
+## § 7453. Cadets: degree and commission on graduation
 
 **(a)** Under such conditions as the Secretary of the Army may prescribe, the Superintendent of the Academy may confer the degree of bachelor of science upon graduates of the Academy.
 
 **(b)** Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Army under section 531 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 245, § 4353; Pub. L. 85–861, § 1(103), Sept. 2, 1958, 72 Stat. 1489; Pub. L. 96–513, title V, § 502(26), Dec. 12, 1980, 94 Stat. 2911; renumbered § 7453, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 245, § 4353; Pub. L. 85–861, § 1(103), Sept. 2, 1958, 72 Stat. 1489; Pub. L. 96–513, title V, § 502(26), Dec. 12, 1980, 94 Stat. 2911; renumbered § 7453, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -1949,8 +1949,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4353(a)   4353(b) | 10:486a (less last sentence). 10:506c(f) (1st sentence, less last 43 words). | May 25, 1933, ch. 37 (less last sentence); restated Aug. 9, 1946, ch. 932 (less last sentence); restated Aug. 4, 1949, ch. 393, § 13; restated Aug. 18, 1949, ch. 476 (less last sentence), 63 Stat. 615. |
-|  |  | Aug. 7, 1947, ch. 512, § 506(f) (1st sentence, less last 43 words), 61 Stat. 892. |
+| 4353(a) 4353(b) | 10:486a (less last sentence). 10:506c(f) (1st sentence, less last 43 words). | May 25, 1933, ch. 37 (less last sentence); restated Aug. 9, 1946, ch. 932 (less last sentence); restated Aug. 4, 1949, ch. 393, § 13; restated Aug. 18, 1949, ch. 476 (less last sentence), 63 Stat. 615. |
+|  |  | Aug. 7, 1947, ch. 512, § 506(f) (1st sentence, less last 43 words), 61 Stat. 892. |
 
 In subsection (a), the last 27 words are substituted for 10:486a (last sentence). The words “rules and” and “from and after the date of the accrediting of said Academy” are omitted as surplusage. The word “conditions” is substituted for the words “rules and regulations”.
 
@@ -1960,7 +1960,7 @@ In subsection (b), the words “except section 541 of this title” are inserted
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4353(b) | 10 App.:506c–4(c) (1st sentence). | July 20, 1956, ch. 646, § 103(c) (1st sentence), 70 Stat. 583. |
+| 4353(b) | 10 App.:506c–4(c) (1st sentence). | July 20, 1956, ch. 646, § 103(c) (1st sentence), 70 Stat. 583. |
 
 It is unnecessary to include a reference to section 541, since that section does not derogate from the authority granted in this section.
 
@@ -1986,21 +1986,21 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 
 **Degrees for Persons Who Graduated Before Accrediting of Military Academy**
 
-Act Aug. 10, 1956, ch. 1041, § 35, 70A Stat. 634, provided in part that, under conditions prescribed by the Secretary of the Army, the Superintendent of the United States Military Academy may confer the degree of bachelor of science upon living graduates of the Academy who were graduated before the date of accrediting of the Academy and who have met the requirements of the Academy for that degree.
+Act Aug. 10, 1956, ch. 1041, § 35, 70A Stat. 634, provided in part that, under conditions prescribed by the Secretary of the Army, the Superintendent of the United States Military Academy may confer the degree of bachelor of science upon living graduates of the Academy who were graduated before the date of accrediting of the Academy and who have met the requirements of the Academy for that degree.
 
-## § 7454. Buildings and grounds: memorial hall; buildings for religious worship
+## § 7454. Buildings and grounds: memorial hall; buildings for religious worship
 
 **(a)** The memorial hall at the Academy is a repository for statues, busts, mural tablets, portraits of distinguished and deceased officers and graduates of the Academy, paintings of battle scenes, trophies of war, and other objects that may tend to elevate the military profession. No object may be placed in this hall without the approval of two-thirds of the members of the Academic Board of the Academy by a recorded vote taken by ayes and nays.
 
 **(b)** The Secretary of the Army may authorize any denomination, sect, or religious body to erect a building for religious worship on the West Point Military Reservation, if its erection will not interfere with the use of the reservation for military purposes and will be without expense to the United States. Such a building shall be removed, or its location changed, without compensation for it and without other expense to the United States, by the denomination, sect, or religious body that erected it, whenever in the opinion of the Secretary public or military necessity so requires.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 245, § 4354; renumbered § 7454, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 245, § 4354; renumbered § 7454, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4354(a) 4354(b) | 10:1125. 10:1126. | July 23, 1892, ch. 237, § 6, 27 Stat. 263. |
+| 4354(a) 4354(b) | 10:1125. 10:1126. | July 23, 1892, ch. 237, § 6, 27 Stat. 263. |
 |  |  | July 8, 1898, ch. 636, 30 Stat. 722. |
 
 In subsection (a), the words “and to prevent the introduction of unworthy subjects into this hall” and “entire” are omitted as surplusage.
@@ -2019,7 +2019,7 @@ In subsection (b), the words “in his discretion” and “Government of” are
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7455. Board of Visitors
+## § 7455. Board of Visitors
 
 **(a)** A Board of Visitors to the Academy is constituted annually of—
 
@@ -2065,13 +2065,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(B)** remotely, at the election of such member.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 245, § 4355; Pub. L. 96–579, § 13(a), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, § 1061(e)(2), title XV, § 1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered § 7455, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 117–81, div. A, title V, §§ 554(a), 555(a), Dec. 27, 2021, 135 Stat. 1738; Pub. L. 118–159, div. A, title V, § 558(a), Dec. 23, 2024, 138 Stat. 1898; Pub. L. 119–60, div. A, title V, § 557(a), Dec. 18, 2025, 139 Stat. 879.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 245, § 4355; Pub. L. 96–579, § 13(a), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 104–106, div. A, title X, § 1061(e)(2), title XV, § 1502(a)(12), Feb. 10, 1996, 110 Stat. 443, 503; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered § 7455, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 117–81, div. A, title V, §§ 554(a), 555(a), Dec. 27, 2021, 135 Stat. 1738; Pub. L. 118–159, div. A, title V, § 558(a), Dec. 23, 2024, 138 Stat. 1898; Pub. L. 119–60, div. A, title V, § 557(a), Dec. 18, 2025, 139 Stat. 879.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4355(a)   4355(b) | 10:1055. 10:1056 (1st sentence). 10:1056 (less 1st sentence). | June 29, 1948, ch. 714, §§ 1–6, 62 Stat. 1094; June 30, 1954, ch. 432, § 732, 68 Stat. 356. |
+| 4355(a) 4355(b) | 10:1055. 10:1056 (1st sentence). 10:1056 (less 1st sentence). | June 29, 1948, ch. 714, §§ 1–6, 62 Stat. 1094; June 30, 1954, ch. 432, § 732, 68 Stat. 356. |
 | 4355(c) | 10:1057. |  |
 | 4355(d) | 10:1058. |  |
 | 4355(e) | 10:1059(a). |  |
@@ -2083,7 +2083,7 @@ In subsections (a) and (b), the word “designated” is substituted for the wor
 
 Subsection (b) is substituted for 10:1056(e) (2d sentence).
 
-In subsection (c), the words “during the term for which such member was appointed” and “Such successor shall be appointed \* \* \* who died or resigned” are omitted as surplusage.
+In subsection (c), the words “during the term for which such member was appointed” and “Such successor shall be appointed \* \* \* who died or resigned” are omitted as surplusage.
 
 In subsection (g), the words “as it may deem necessary or advisable effectuate the duties imposed upon it by the provisions of sections 1055–1060 of this title” are omitted as surplusage.
 
@@ -2095,21 +2095,21 @@ In subsection (h), the words “called for consultation by the Board in connecti
 
 2025—Subsec. (a)(8). Pub. L. 119–60 substituted “two other members” for “one other member”.
 
-2024—Subsec. (a). Pub. L. 118–159, § 558(a)(1), added subsec. (a) and struck out former subsec. (a) which related to membership of Board of Visitors.
+2024—Subsec. (a). Pub. L. 118–159, § 558(a)(1), added subsec. (a) and struck out former subsec. (a) which related to membership of Board of Visitors.
 
-Subsec. (f). Pub. L. 118–159, § 558(a)(2), inserted “and the Committees on Armed Services of the Senate and House of Representatives” after “the President” in two places.
+Subsec. (f). Pub. L. 118–159, § 558(a)(2), inserted “and the Committees on Armed Services of the Senate and House of Representatives” after “the President” in two places.
 
-2021—Subsec. (b). Pub. L. 117–81, § 554(a), substituted “is appointed by the President” for “is appointed”.
+2021—Subsec. (b). Pub. L. 117–81, § 554(a), substituted “is appointed by the President” for “is appointed”.
 
-Subsec. (i). Pub. L. 117–81, § 555(a), added subsec. (i).
+Subsec. (i). Pub. L. 117–81, § 555(a), added subsec. (i).
 
 2018—Pub. L. 115–232 renumbered section 4355 of this title as this section.
 
 1999—Subsec. (a)(3). Pub. L. 106–65, substituted “Committee on Armed Services” for “Committee on National Security”.
 
-1996—Subsec. (a)(3). Pub. L. 104–106, § 1502(a)(12), substituted “National Security” for “Armed Services”.
+1996—Subsec. (a)(3). Pub. L. 104–106, § 1502(a)(12), substituted “National Security” for “Armed Services”.
 
-Subsec. (h). Pub. L. 104–106, § 1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
+Subsec. (h). Pub. L. 104–106, § 1061(e)(2), struck out “is entitled to not more than $5 a day and” after “each adviser”.
 
 1980—Subsec. (b). Pub. L. 96–579 required member whose term of office had expired to continue service until appointment of a successor.
 
@@ -2119,17 +2119,17 @@ Subsec. (h). Pub. L. 104–106, § 1061(e)(2), struck out “is entitled to no
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7456. Use of certain gifts
+## § 7456. Use of certain gifts
 
 Under regulations prescribed by the Secretary of the Army, the Superintendent of the Academy may (without regard to section 2601 of this title) accept, hold, administer, invest, and spend any gift, devise, or bequest of personal property of a value of $20,000 or less made to the United States on the condition that such gift, devise, or bequest be used for the benefit of the Academy or any entity thereof. The Secretary may pay or authorize the payment of all reasonable and necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest under this section.
 
-(Added Pub. L. 97–295, § 1(41)(A), Oct. 12, 1982, 96 Stat. 1297, § 4356; renumbered § 7456, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 97–295, § 1(41)(A), Oct. 12, 1982, 96 Stat. 1297, § 4356; renumbered § 7456, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4356 | 10:4334 (note). | Sept. 8, 1982, Pub. L. 97–252, § 1133(a), 96 Stat. 761. |
+| 4356 | 10:4334 (note). | Sept. 8, 1982, Pub. L. 97–252, § 1133(a), 96 Stat. 761. |
 
 The word “Academy” is substituted for “United States Military Academy” for consistency in title 10.
 
@@ -2147,13 +2147,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Applicability of Section**
 
-Pub. L. 97–252, title XI, § 1133, Sept. 8, 1982, 96 Stat. 761, provided that:
+Pub. L. 97–252, title XI, § 1133, Sept. 8, 1982, 96 Stat. 761, provided that:
 
-> **“(a) [Repealed and reenacted as section 4356 (now 7456) of this title by Pub. L. 97–295, §§ 1(41)(A), 6(b), Oct. 12, 1982, 96 Stat. 1297, 1315.]**
+> **“(a) [Repealed and reenacted as section 4356 (now 7456) of this title by Pub. L. 97–295, §§ 1(41)(A), 6(b), Oct. 12, 1982, 96 Stat. 1297, 1315.]**
 
 > **“(b)** This section applies with respect to any gift, devise, or bequest made on or after the date of the enactment of this Act [Sept. 8, 1982] for the purpose described in subsection (a) [see text of section 7456 of this title] and applies to any such gift, devise, or bequest, or devise made before the date of the enactment of this Act with respect to which the Secretary of the Army has approved application of this section rather than section 2601 of title 10, United States Code.”
 
-## § 7457. Acceptance of guarantees with gifts for major projects
+## § 7457. Acceptance of guarantees with gifts for major projects
 
 **(a) Acceptance Authority.—** Subject to subsection (c), the Secretary of the Army may accept from a donor or donors a qualified guarantee for the completion of a major project for the benefit of the Academy.
 
@@ -2205,7 +2205,7 @@ Pub. L. 97–252, title XI, § 1133, Sept. 8, 1982, 96 Stat. 761, provided tha
 
 **(B)** holds for the account of others investment assets in a total amount considered by the Secretary of the Army to qualify the firm as a major investment management firm.
 
-(Added Pub. L. 106–65, div. B, title XXVIII, § 2871(a)(1), Oct. 5, 1999, 113 Stat. 871, § 4357; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(17)], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 108–136, div. A, title X, § 1031(a)(54), Nov. 24, 2003, 117 Stat. 1603; renumbered § 7457, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–65, div. B, title XXVIII, § 2871(a)(1), Oct. 5, 1999, 113 Stat. 871, § 4357; amended Pub. L. 106–398, § 1 [[div. A], title X, § 1087(a)(17)], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 108–136, div. A, title X, § 1031(a)(54), Nov. 24, 2003, 117 Stat. 1603; renumbered § 7457, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -2223,7 +2223,7 @@ Pub. L. 97–252, title XI, § 1133, Sept. 8, 1982, 96 Stat. 761, provided tha
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7458. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees
+## § 7458. Grants for faculty research for scientific, literary, and educational purposes: acceptance; authorized grantees
 
 **(a) Acceptance of Research Grants.—** The Secretary of the Army may authorize the Superintendent of the Academy to accept qualifying research grants under this section. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of the Academy for a scientific, literary, or educational purpose.
 
@@ -2237,7 +2237,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(f) Regulations.—** The Secretary of the Army shall prescribe regulations for the administration of this section.
 
-(Added Pub. L. 105–261, div. A, title X, § 1063(a)(1), Oct. 17, 1998, 112 Stat. 2130, § 4358; renumbered § 7458, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 105–261, div. A, title X, § 1063(a)(1), Oct. 17, 1998, 112 Stat. 2130, § 4358; renumbered § 7458, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -2251,7 +2251,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7459. Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds
+## § 7459. Mixed-funded athletic and recreational extracurricular programs: authority to manage appropriated funds in same manner as nonappropriated funds
 
 **(a) Authority.—** In the case of an Academy mixed-funded athletic or recreational extracurricular program, the Secretary of the Army may designate funds appropriated to the Department of the Army and available for that program to be treated as nonappropriated funds and expended for that program in accordance with laws applicable to the expenditure of nonappropriated funds. Appropriated funds so designated shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
 
@@ -2265,7 +2265,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(4)** The program is not a private organization and is not operated by a private organization.
 
-(Added Pub. L. 108–375, div. A, title V, § 544(a)(1), Oct. 28, 2004, 118 Stat. 1906, § 4359; renumbered § 7459, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 108–375, div. A, title V, § 544(a)(1), Oct. 28, 2004, 118 Stat. 1906, § 4359; renumbered § 7459, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -2281,15 +2281,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 108–375, div. A, title V, § 544(d), Oct. 28, 2004, 118 Stat. 1907, provided that: “Sections 4359, 6978, and 9359 [now 7459, 8478, and 9459] of title 10, United States Code, shall apply only with respect to funds appropriated for fiscal years after fiscal year 2004.”
+Pub. L. 108–375, div. A, title V, § 544(d), Oct. 28, 2004, 118 Stat. 1907, provided that: “Sections 4359, 6978, and 9359 [now 7459, 8478, and 9459] of title 10, United States Code, shall apply only with respect to funds appropriated for fiscal years after fiscal year 2004.”
 
-## § 7460. Cadets: charges and fees for attendance; limitation
+## § 7460. Cadets: charges and fees for attendance; limitation
 
 **(a) Prohibition.—** Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at the Academy may be imposed unless the charge or fee is specifically authorized by a law enacted after October 5, 1994.
 
 **(b) Exception.—** The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994. The Secretary of Defense shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection.
 
-(Added Pub. L. 108–375, div. A, title V, § 545(a)(1), Oct. 28, 2004, 118 Stat. 1908, § 4360; renumbered § 7460, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 108–375, div. A, title V, § 545(a)(1), Oct. 28, 2004, 118 Stat. 1908, § 4360; renumbered § 7460, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -2303,7 +2303,7 @@ Pub. L. 108–375, div. A, title V, § 544(d), Oct. 28, 2004, 118 Stat. 1907, 
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7461. Policy on sexual harassment and sexual violence
+## § 7461. Policy on sexual harassment and sexual violence
 
 **(a) Required Policy.—** Under guidance prescribed by the Secretary of Defense, the Secretary of the Army shall direct the Superintendent of the Academy to prescribe a policy on sexual harassment and sexual violence applicable to the cadets and other personnel of the Academy.
 
@@ -2405,7 +2405,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(5)** A cadet who transfers under this subsection may retain the cadet’s appointment to the United States Military Academy or may be appointed to the military service academy to which the cadet transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
 
-(Added Pub. L. 109–364, div. A, title V, § 532(a)(1), Oct. 17, 2006, 120 Stat. 2200, § 4361; renumbered § 7461, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 116–92, div. A, title V, § 555(a), Dec. 20, 2019, 133 Stat. 1388; Pub. L. 116–283, div. A, title V, § 552(b)(1), Jan. 1, 2021, 134 Stat. 3632.)
+(Added Pub. L. 109–364, div. A, title V, § 532(a)(1), Oct. 17, 2006, 120 Stat. 2200, § 4361; renumbered § 7461, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 116–92, div. A, title V, § 555(a), Dec. 20, 2019, 133 Stat. 1388; Pub. L. 116–283, div. A, title V, § 552(b)(1), Jan. 1, 2021, 134 Stat. 3632.)
 
 **Editorial Notes**
 
@@ -2429,7 +2429,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (d)(4)(B) of 
 
 **Policy for Military Service Academies on Separation of Alleged Victims and Alleged Perpetrators in Incidents of Sexual Assault**
 
-Pub. L. 116–283, div. A, title V, § 539, Jan. 1, 2021, 134 Stat. 3606, provided that:
+Pub. L. 116–283, div. A, title V, § 539, Jan. 1, 2021, 134 Stat. 3606, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall, in consultation with the Secretaries of the military departments and the Superintendent of each military service academy, prescribe in regulations a policy under which a cadet or midshipman of a military service academy who is the alleged victim of a sexual assault and a cadet or midshipman who is the alleged perpetrator of such assault shall, to the extent practicable, each be given the opportunity to complete their course of study at the academy without—
 
@@ -2463,7 +2463,7 @@ Pub. L. 116–283, div. A, title V, § 539, Jan. 1, 2021, 134 Stat. 3606, prov
 
 **Development of Resource Guides Regarding Sexual Assault for the Military Service Academies**
 
-Pub. L. 115–232, div. A, title V, § 545, Aug. 13, 2018, 132 Stat. 1764, provided that:
+Pub. L. 115–232, div. A, title V, § 545, Aug. 13, 2018, 132 Stat. 1764, provided that:
 
 > **“(a) Development.—** Not later than 30 days after the date of the enactment of this Act [Aug. 13, 2018], each Superintendent of a military service academy shall develop and maintain a resource guide for students at the respective military service academies regarding sexual assault.
 
@@ -2523,15 +2523,15 @@ Pub. L. 115–232, div. A, title V, § 545, Aug. 13, 2018, 132 Stat. 1764, pro
 
 **Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies**
 
-Pub. L. 113–291, div. A, title V, § 552(a), Dec. 19, 2014, 128 Stat. 3377, provided that: “The Secretary of the military department concerned shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 950) [see Tables for classification], including amendments made by that title, and the provisions of subtitle D [subtitle D (§§ 531–547) of title V of div. A of Pub. L. 113–291, see Tables for classification], including amendments made by such subtitle, apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable.”
+Pub. L. 113–291, div. A, title V, § 552(a), Dec. 19, 2014, 128 Stat. 3377, provided that: “The Secretary of the military department concerned shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 950) [see Tables for classification], including amendments made by that title, and the provisions of subtitle D [subtitle D (§§ 531–547) of title V of div. A of Pub. L. 113–291, see Tables for classification], including amendments made by such subtitle, apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable.”
 
 **Prevention of Sexual Assault at Military Service Academies**
 
-Pub. L. 113–66, div. A, title XVII, § 1746, Dec. 26, 2013, 127 Stat. 983, provided that: “The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy include a section in the curricula of that military service academy that outlines honor, respect, and character development as such pertain to the issue of preventing sexual assault in the Armed Forces. Such curricula section shall include a brief history of the problem of sexual assault in the Armed Forces, a definition of sexual assault, information relating to reporting a sexual assault, victims’ rights, and dismissal and dishonorable discharge for offenders. Training in such section in the curricula shall be provided within 14 days after the initial arrival of a new cadet or midshipman at that military service academy and repeated annually thereafter.”
+Pub. L. 113–66, div. A, title XVII, § 1746, Dec. 26, 2013, 127 Stat. 983, provided that: “The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy include a section in the curricula of that military service academy that outlines honor, respect, and character development as such pertain to the issue of preventing sexual assault in the Armed Forces. Such curricula section shall include a brief history of the problem of sexual assault in the Armed Forces, a definition of sexual assault, information relating to reporting a sexual assault, victims’ rights, and dismissal and dishonorable discharge for offenders. Training in such section in the curricula shall be provided within 14 days after the initial arrival of a new cadet or midshipman at that military service academy and repeated annually thereafter.”
 
 **Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues**
 
-Pub. L. 109–364, div. A, title V, § 532(b), Oct. 17, 2006, 120 Stat. 2205, provided that:
+Pub. L. 109–364, div. A, title V, § 532(b), Oct. 17, 2006, 120 Stat. 2205, provided that:
 
 > **“(1) Use of focus groups for years when survey not required.—** In any year in which the Secretary of a military department is not required by law to conduct a survey at the service academy under the Secretary’s jurisdiction on matters relating to sexual assault and sexual harassment issues at that Academy, the Secretary shall provide for focus groups to be conducted at that Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at that Academy.
 
@@ -2545,7 +2545,7 @@ Pub. L. 109–364, div. A, title V, § 532(b), Oct. 17, 2006, 120 Stat. 2205, 
 
 > **“(C)** The United States Air Force Academy.”
 
-## § 7462. Support of athletic programs
+## § 7462. Support of athletic programs
 
 **(a) Authority.—**
 
@@ -2609,7 +2609,7 @@ Pub. L. 109–364, div. A, title V, § 532(b), Oct. 17, 2006, 120 Stat. 2205, 
 
 **(h) Association Defined.—** In this section, the term “Association” means the Army West Point Athletic Association.
 
-(Added Pub. L. 114–92, div. A, title V, § 557(a), Nov. 25, 2015, 129 Stat. 825, § 4362; renumbered § 7462, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+(Added Pub. L. 114–92, div. A, title V, § 557(a), Nov. 25, 2015, 129 Stat. 825, § 4362; renumbered § 7462, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 116–283, div. A, title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
 **Editorial Notes**
 
@@ -2619,13 +2619,13 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 **Prior Provisions**
 
-A prior section 7471, act Aug. 10, 1956, ch. 1041, 70A Stat. 462, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, § 36B(23), Sept. 2, 1958, 72 Stat. 1571.
+A prior section 7471, act Aug. 10, 1956, ch. 1041, 70A Stat. 462, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, § 36B(23), Sept. 2, 1958, 72 Stat. 1571.
 
 Prior sections 7472 and 7473 were renumbered sections 8742 and 8743 of this title, respectively.
 
-A prior section 7474, act Aug. 10, 1956, ch. 1041, 70A Stat. 463, related to establishment of wage rates for employees by Secretary of Navy, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663.
+A prior section 7474, act Aug. 10, 1956, ch. 1041, 70A Stat. 463, related to establishment of wage rates for employees by Secretary of Navy, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 663.
 
-A prior section 7475, act Aug. 10, 1956, ch. 1041, 70A Stat. 463, restricted increasing of forces at naval activities prior to national elections, prior to repeal by Pub. L. 86–148, § 1(1), Aug. 7, 1959, 73 Stat. 302.
+A prior section 7475, act Aug. 10, 1956, ch. 1041, 70A Stat. 463, restricted increasing of forces at naval activities prior to national elections, prior to repeal by Pub. L. 86–148, § 1(1), Aug. 7, 1959, 73 Stat. 302.
 
 Prior sections 7476 to 7480 were renumbered sections 8746 to 8750 of this title, respectively.
 

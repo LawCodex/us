@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1990—Pub. L. 101–647, title XXXV, § 3559, Nov. 29, 1990, 104 Stat. 4927, struck out “racketeering” after “Prohibited” in item 1962.
+1990—Pub. L. 101–647, title XXXV, § 3559, Nov. 29, 1990, 104 Stat. 4927, struck out “racketeering” after “Prohibited” in item 1962.
 
-1970—Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 941, added chapter 96 and items 1961 to 1968.
+1970—Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 941, added chapter 96 and items 1961 to 1968.
 
-## § 1961. Definitions
+## § 1961. Definitions
 
 As used in this chapter—
 
 **(1)** “racketeering activity” means (A) any act or threat involving murder, kidnapping, gambling, arson, robbery, bribery, extortion, dealing in obscene matter, or dealing in a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act), which is chargeable under State law and punishable by imprisonment for more than one year; (B) any act which is indictable under any of the following provisions of title 18, United States Code: Section 201 (relating to bribery), section 224 (relating to sports bribery), sections 471, 472, and 473 (relating to counterfeiting), section 659 (relating to theft from interstate shipment) if the act indictable under section 659 is felonious, section 664 (relating to embezzlement from pension and welfare funds), sections 891–894 (relating to extortionate credit transactions), section 932 (relating to straw purchasing), section 933 (relating to trafficking in firearms), section 1028 (relating to fraud and related activity in connection with identification documents), section 1029 (relating to fraud and related activity in connection with access devices), section 1084 (relating to the transmission of gambling information), section 1341 (relating to mail fraud), section 1343 (relating to wire fraud), section 1344 (relating to financial institution fraud), section 1351 (relating to fraud in foreign labor contracting), section 1425 (relating to the procurement of citizenship or nationalization unlawfully), section 1426 (relating to the reproduction of naturalization or citizenship papers), section 1427 (relating to the sale of naturalization or citizenship papers), sections 1461–1465 (relating to obscene matter), section 1503 (relating to obstruction of justice), section 1510 (relating to obstruction of criminal investigations), section 1511 (relating to the obstruction of State or local law enforcement), section 1512 (relating to tampering with a witness, victim, or an informant), section 1513 (relating to retaliating against a witness, victim, or an informant), section 1542 (relating to false statement in application and use of passport), section 1543 (relating to forgery or false use of passport), section 1544 (relating to misuse of passport), section 1546 (relating to fraud and misuse of visas, permits, and other documents), sections 1581–1592 (relating to peonage, slavery, and trafficking in persons).,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 sections 1831 and 1832 (relating to economic espionage and theft of trade secrets), section 1951 (relating to interference with commerce, robbery, or extortion), section 1952 (relating to racketeering), section 1953 (relating to interstate transportation of wagering paraphernalia), section 1954 (relating to unlawful welfare fund payments), section 1955 (relating to the prohibition of illegal gambling businesses), section 1956 (relating to the laundering of monetary instruments), section 1957 (relating to engaging in monetary transactions in property derived from specified unlawful activity), section 1958 (relating to use of interstate commerce facilities in the commission of murder-for-hire), section 1960 (relating to illegal money transmitters), sections 2251, 2251A, 2252, and 2260 (relating to sexual exploitation of children), sections 2312 and 2313 (relating to interstate transportation of stolen motor vehicles), sections 2314 and 2315 (relating to interstate transportation of stolen property), section 2318 (relating to trafficking in counterfeit labels for phonorecords, computer programs or computer program documentation or packaging and copies of motion pictures or other audiovisual works), section 2319 (relating to criminal infringement of a copyright), section 2319A (relating to unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances), section 2320 (relating to trafficking in goods or services bearing counterfeit marks), section 2321 (relating to trafficking in certain motor vehicles or motor vehicle parts), sections 2341–2346 (relating to trafficking in contraband cigarettes), sections 2421–24 (relating to white slave traffic),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 sections 175–178 (relating to biological weapons), sections 229–229F (relating to chemical weapons), section 831 (relating to nuclear materials), (C) any act which is indictable under title 29, United States Code, section 186 (dealing with restrictions on payments and loans to labor organizations) or section 501(c) (relating to embezzlement from union funds), (D) any offense involving fraud connected with a case under title 11 (except a case under section 157 of this title), fraud in the sale of securities, or the felonious manufacture, importation, receiving, concealment, buying, selling, or otherwise dealing in a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act), punishable under any law of the United States, (E) any act which is indictable under the Currency and Foreign Transactions Reporting Act, (F) any act which is indictable under the Immigration and Nationality Act, section 274 (relating to bringing in and harboring certain aliens), section 277 (relating to aiding or assisting certain aliens to enter the United States), or section 278 (relating to importation of alien for immoral purpose) if the act indictable under such section of such Act was committed for the purpose of financial gain, or (G) any act that is indictable under any provision listed in section 2332b(g)(5)(B);
 
@@ -55,7 +55,7 @@ sections 175–178 (relating to biological weapons), sections 229–229F (relati
 
 **(10)** “Attorney General” includes the Attorney General of the United States, the Deputy Attorney General of the United States, the Associate Attorney General of the United States, any Assistant Attorney General of the United States, or any employee of the Department of Justice or any employee of any department or agency of the United States so designated by the Attorney General to carry out the powers conferred on the Attorney General by this chapter. Any department or agency so designated may use in investigations authorized by this chapter either the investigative provisions of this chapter or the investigative power of such department or agency otherwise conferred by law.
 
-(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 941; amended Pub. L. 95–575, § 3(c), Nov. 2, 1978, 92 Stat. 2465; Pub. L. 95–598, title III, § 314(g), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 98–473, title II, §§ 901(g), 1020, Oct. 12, 1984, 98 Stat. 2136, 2143; Pub. L. 98–547, title II, § 205, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 99–570, title I, § 1365(b), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 99–646, § 50(a), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §§ 7013, 7020(c), 7032, 7054, 7514, Nov. 18, 1988, 102 Stat. 4395, 4396, 4398, 4402, 4489; Pub. L. 101–73, title IX, § 968, Aug. 9, 1989, 103 Stat. 506; Pub. L. 101–647, title XXXV, § 3560, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 103–322, title IX, § 90104, title XVI, § 160001(f), title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 1987, 2037, 2150; Pub. L. 103–394, title III, § 312(b), Oct. 22, 1994, 108 Stat. 4140; Pub. L. 104–132, title IV, § 433, Apr. 24, 1996, 110 Stat. 1274; Pub. L. 104–153, § 3, July 2, 1996, 110 Stat. 1386; Pub. L. 104–208, div. C, title II, § 202, Sept. 30, 1996, 110 Stat. 3009–565; Pub. L. 104–294, title VI, §§ 601(b)(3), (i)(3), 604(b)(6), Oct. 11, 1996, 110 Stat. 3499, 3501, 3506; Pub. L. 107–56, title VIII, § 813, Oct. 26, 2001, 115 Stat. 382; Pub. L. 107–273, div. B, title IV, § 4005(f)(1), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–193, § 5(b), Dec. 19, 2003, 117 Stat. 2879; Pub. L. 108–458, title VI, § 6802(e), Dec. 17, 2004, 118 Stat. 3767; Pub. L. 109–164, title I, § 103(c), Jan. 10, 2006, 119 Stat. 3563; Pub. L. 109–177, title IV, § 403(a), Mar. 9, 2006, 120 Stat. 243; Pub. L. 113–4, title XII, § 1211(a), Mar. 7, 2013, 127 Stat. 142; Pub. L. 114–153, § 3(b), May 11, 2016, 130 Stat. 382; Pub. L. 117–159, div. A, title II, § 12004(a)(3), June 25, 2022, 136 Stat. 1328.)
+(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 941; amended Pub. L. 95–575, § 3(c), Nov. 2, 1978, 92 Stat. 2465; Pub. L. 95–598, title III, § 314(g), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 98–473, title II, §§ 901(g), 1020, Oct. 12, 1984, 98 Stat. 2136, 2143; Pub. L. 98–547, title II, § 205, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 99–570, title I, § 1365(b), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 99–646, § 50(a), Nov. 10, 1986, 100 Stat. 3605; Pub. L. 100–690, title VII, §§ 7013, 7020(c), 7032, 7054, 7514, Nov. 18, 1988, 102 Stat. 4395, 4396, 4398, 4402, 4489; Pub. L. 101–73, title IX, § 968, Aug. 9, 1989, 103 Stat. 506; Pub. L. 101–647, title XXXV, § 3560, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 103–322, title IX, § 90104, title XVI, § 160001(f), title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 1987, 2037, 2150; Pub. L. 103–394, title III, § 312(b), Oct. 22, 1994, 108 Stat. 4140; Pub. L. 104–132, title IV, § 433, Apr. 24, 1996, 110 Stat. 1274; Pub. L. 104–153, § 3, July 2, 1996, 110 Stat. 1386; Pub. L. 104–208, div. C, title II, § 202, Sept. 30, 1996, 110 Stat. 3009–565; Pub. L. 104–294, title VI, §§ 601(b)(3), (i)(3), 604(b)(6), Oct. 11, 1996, 110 Stat. 3499, 3501, 3506; Pub. L. 107–56, title VIII, § 813, Oct. 26, 2001, 115 Stat. 382; Pub. L. 107–273, div. B, title IV, § 4005(f)(1), Nov. 2, 2002, 116 Stat. 1813; Pub. L. 108–193, § 5(b), Dec. 19, 2003, 117 Stat. 2879; Pub. L. 108–458, title VI, § 6802(e), Dec. 17, 2004, 118 Stat. 3767; Pub. L. 109–164, title I, § 103(c), Jan. 10, 2006, 119 Stat. 3563; Pub. L. 109–177, title IV, § 403(a), Mar. 9, 2006, 120 Stat. 243; Pub. L. 113–4, title XII, § 1211(a), Mar. 7, 2013, 127 Stat. 142; Pub. L. 114–153, § 3(b), May 11, 2016, 130 Stat. 382; Pub. L. 117–159, div. A, title II, § 12004(a)(3), June 25, 2022, 136 Stat. 1328.)
 
 **Editorial Notes**
 
@@ -63,11 +63,11 @@ sections 175–178 (relating to biological weapons), sections 229–229F (relati
 
 Section 102 of the Controlled Substances Act, referred to in par. (1)(A), (D), is classified to section 802 of Title 21, Food and Drugs.
 
-Sections 2421–24, referred to in par. (1)(B), probably means sections 2421 to 2424 of this title, which are contained in chapter 117 of this title, the heading of which was amended by Pub. L. 99–628, § 5(a)(1), Nov. 7, 1986, 100 Stat. 3511, by substituting “Transportation for Illegal Sexual Activity and Related Crimes” for “White Slave Traffic”.
+Sections 2421–24, referred to in par. (1)(B), probably means sections 2421 to 2424 of this title, which are contained in chapter 117 of this title, the heading of which was amended by Pub. L. 99–628, § 5(a)(1), Nov. 7, 1986, 100 Stat. 3511, by substituting “Transportation for Illegal Sexual Activity and Related Crimes” for “White Slave Traffic”.
 
-The Currency and Foreign Transactions Reporting Act, referred to in par. (1)(E), is title II of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1118, which was repealed and reenacted as subchapter II of chapter 53 of Title 31, Money and Finance, by Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31.
+The Currency and Foreign Transactions Reporting Act, referred to in par. (1)(E), is title II of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1118, which was repealed and reenacted as subchapter II of chapter 53 of Title 31, Money and Finance, by Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31.
 
-The Immigration and Nationality Act, referred to in par. (1)(F), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. Sections 274, 277, and 278 of the Act are classified to sections 1324, 1327, and 1328 of Title 8, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in par. (1)(F), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. Sections 274, 277, and 278 of the Act are classified to sections 1324, 1327, and 1328 of Title 8, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 The effective date of this chapter, referred to in par. (5), is Oct. 15, 1970.
 
@@ -91,55 +91,55 @@ Pub. L. 109–164 substituted “1581–1592” for “1581–1591”.
 
 2001—Par. (1)(G). Pub. L. 107–56, as amended by Pub. L. 107–273, which directed addition of cl. (G) before period at end, was executed by making the addition before the semicolon at end to reflect the probable intent of Congress.
 
-1996—Par. (1)(B). Pub. L. 104–294, § 604(b)(6), amended directory language of Pub. L. 103–322, § 160001(f). See 1994 Amendment note below.
+1996—Par. (1)(B). Pub. L. 104–294, § 604(b)(6), amended directory language of Pub. L. 103–322, § 160001(f). See 1994 Amendment note below.
 
-Pub. L. 104–294, § 601(i)(3), substituted “2260” for “2258”.
+Pub. L. 104–294, § 601(i)(3), substituted “2260” for “2258”.
 
-Pub. L. 104–208 struck out “if the act indictable under section 1028 was committed for the purpose of financial gain” before “, section 1029”, inserted “section 1425 (relating to the procurement of citizenship or nationalization unlawfully), section 1426 (relating to the reproduction of naturalization or citizenship papers), section 1427 (relating to the sale of naturalization or citizenship papers),” after “section 1344 (relating to financial institution fraud),”, struck out “if the act indictable under section 1542 was committed for the purpose of financial gain” before “, section 1543”, “if the act indictable under section 1543 was committed for the purpose of financial gain” before “, section 1544”, “if the act indictable under section 1544 was committed for the purpose of financial gain” before “, section 1546”, and “if the act indictable under section 1546 was committed for the purpose of financial gain” before “, sections 1581–1588”.
+Pub. L. 104–208 struck out “if the act indictable under section 1028 was committed for the purpose of financial gain” before “, section 1029”, inserted “section 1425 (relating to the procurement of citizenship or nationalization unlawfully), section 1426 (relating to the reproduction of naturalization or citizenship papers), section 1427 (relating to the sale of naturalization or citizenship papers),” after “section 1344 (relating to financial institution fraud),”, struck out “if the act indictable under section 1542 was committed for the purpose of financial gain” before “, section 1543”, “if the act indictable under section 1543 was committed for the purpose of financial gain” before “, section 1544”, “if the act indictable under section 1544 was committed for the purpose of financial gain” before “, section 1546”, and “if the act indictable under section 1546 was committed for the purpose of financial gain” before “, sections 1581–1588”.
 
-Pub. L. 104–153 inserted “, section 2318 (relating to trafficking in counterfeit labels for phonorecords, computer programs or computer program documentation or packaging and copies of motion pictures or other audiovisual works), section 2319 (relating to criminal infringement of a copyright), section 2319A (relating to unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances), section 2320 (relating to trafficking in goods or services bearing counterfeit marks)” after “sections 2314 and 2315 (relating to interstate transportation of stolen property)”.
+Pub. L. 104–153 inserted “, section 2318 (relating to trafficking in counterfeit labels for phonorecords, computer programs or computer program documentation or packaging and copies of motion pictures or other audiovisual works), section 2319 (relating to criminal infringement of a copyright), section 2319A (relating to unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances), section 2320 (relating to trafficking in goods or services bearing counterfeit marks)” after “sections 2314 and 2315 (relating to interstate transportation of stolen property)”.
 
-Pub. L. 104–132, § 433(1), (2), inserted “section 1028 (relating to fraud and related activity in connection with identification documents) if the act indictable under section 1028 was committed for the purpose of financial gain,” before “section 1029” and “section 1542 (relating to false statement in application and use of passport) if the act indictable under section 1542 was committed for the purpose of financial gain, section 1543 (relating to forgery or false use of passport) if the act indictable under section 1543 was committed for the purpose of financial gain, section 1544 (relating to misuse of passport) if the act indictable under section 1544 was committed for the purpose of financial gain, section 1546 (relating to fraud and misuse of visas, permits, and other documents) if the act indictable under section 1546 was committed for the purpose of financial gain, sections 1581–1588 (relating to peonage and slavery),” after “section 1513 (relating to retaliating against a witness, victim, or an informant),”.
+Pub. L. 104–132, § 433(1), (2), inserted “section 1028 (relating to fraud and related activity in connection with identification documents) if the act indictable under section 1028 was committed for the purpose of financial gain,” before “section 1029” and “section 1542 (relating to false statement in application and use of passport) if the act indictable under section 1542 was committed for the purpose of financial gain, section 1543 (relating to forgery or false use of passport) if the act indictable under section 1543 was committed for the purpose of financial gain, section 1544 (relating to misuse of passport) if the act indictable under section 1544 was committed for the purpose of financial gain, section 1546 (relating to fraud and misuse of visas, permits, and other documents) if the act indictable under section 1546 was committed for the purpose of financial gain, sections 1581–1588 (relating to peonage and slavery),” after “section 1513 (relating to retaliating against a witness, victim, or an informant),”.
 
-Par. (1)(D). Pub. L. 104–294, § 601(b)(3), substituted “section 157 of this title” for “section 157 of that title”.
+Par. (1)(D). Pub. L. 104–294, § 601(b)(3), substituted “section 157 of this title” for “section 157 of that title”.
 
-Par. (1)(F). Pub. L. 104–132, § 433(3), (4), which directed addition of cl. (F) before period at end, was executed by making the addition before the semicolon at end to reflect the probable intent of Congress.
+Par. (1)(F). Pub. L. 104–132, § 433(3), (4), which directed addition of cl. (F) before period at end, was executed by making the addition before the semicolon at end to reflect the probable intent of Congress.
 
-1994—Par. (1)(A). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping”.
+1994—Par. (1)(A). Pub. L. 103–322, § 330021(1), substituted “kidnapping” for “kidnaping”.
 
-Pub. L. 103–322, § 90104, substituted “a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act)” for “narcotic or other dangerous drugs”.
+Pub. L. 103–322, § 90104, substituted “a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act)” for “narcotic or other dangerous drugs”.
 
-Par. (1)(B). Pub. L. 103–322, § 160001(f), as amended by Pub. L. 104–294, § 604(b)(6), substituted “2251, 2251A, 2252, and 2258” for “2251–2252”.
+Par. (1)(B). Pub. L. 103–322, § 160001(f), as amended by Pub. L. 104–294, § 604(b)(6), substituted “2251, 2251A, 2252, and 2258” for “2251–2252”.
 
 Par. (1)(D). Pub. L. 103–394 inserted “(except a case under section 157 of that title)” after “title 11”.
 
-Pub. L. 103–322, § 90104, substituted “a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act)” for “narcotic or other dangerous drugs”.
+Pub. L. 103–322, § 90104, substituted “a controlled substance or listed chemical (as defined in section 102 of the Controlled Substances Act)” for “narcotic or other dangerous drugs”.
 
-1990—Par. (1)(B). Pub. L. 101–647 substituted “section 1029 (relating to” for “section 1029 (relative to” and struck out “sections 2251 through 2252 (relating to sexual exploitation of children),” before “, section 1958”.
+1990—Par. (1)(B). Pub. L. 101–647 substituted “section 1029 (relating to” for “section 1029 (relative to” and struck out “sections 2251 through 2252 (relating to sexual exploitation of children),” before “, section 1958”.
 
 1989—Par. (1). Pub. L. 101–73 inserted “section 1344 (relating to financial institution fraud),” after “section 1343 (relating to wire fraud),”.
 
-1988—Par. (1)(B). Pub. L. 100–690, § 7514, inserted “sections 2251 through 2252 (relating to sexual exploitation of children),”.
+1988—Par. (1)(B). Pub. L. 100–690, § 7514, inserted “sections 2251 through 2252 (relating to sexual exploitation of children),”.
 
-Pub. L. 100–690, § 7054, inserted “, section 1029 (relative to fraud and related activity in connection with access devices)” and “, section 1958 (relating to use of interstate commerce facilities in the commission of murder-for-hire), sections 2251–2252 (relating to sexual exploitation of children)”.
+Pub. L. 100–690, § 7054, inserted “, section 1029 (relative to fraud and related activity in connection with access devices)” and “, section 1958 (relating to use of interstate commerce facilities in the commission of murder-for-hire), sections 2251–2252 (relating to sexual exploitation of children)”.
 
-Pub. L. 100–690, § 7032, substituted “section 2321” for “section 2320”.
+Pub. L. 100–690, § 7032, substituted “section 2321” for “section 2320”.
 
-Pub. L. 100–690, § 7013, made technical amendment to directory language of Pub. L. 99–646. See 1986 Amendment note below.
+Pub. L. 100–690, § 7013, made technical amendment to directory language of Pub. L. 99–646. See 1986 Amendment note below.
 
-Par. (10). Pub. L. 100–690, § 7020(c), inserted “the Associate Attorney General of the United States,” after “Deputy Attorney General of the United States,”.
+Par. (10). Pub. L. 100–690, § 7020(c), inserted “the Associate Attorney General of the United States,” after “Deputy Attorney General of the United States,”.
 
-1986—Par. (1)(B). Pub. L. 99–646, as amended by Pub. L. 100–690, § 7013, inserted “section 1512 (relating to tampering with a witness, victim, or an informant), section 1513 (relating to retaliating against a witness, victim, or an informant),” after “section 1511 (relating to the obstruction of State or local law enforcement),”.
+1986—Par. (1)(B). Pub. L. 99–646, as amended by Pub. L. 100–690, § 7013, inserted “section 1512 (relating to tampering with a witness, victim, or an informant), section 1513 (relating to retaliating against a witness, victim, or an informant),” after “section 1511 (relating to the obstruction of State or local law enforcement),”.
 
 Pub. L. 99–570 inserted “section 1956 (relating to the laundering of monetary instruments), section 1957 (relating to engaging in monetary transactions in property derived from specified unlawful activity),”.
 
-1984—Par. (1)(A). Pub. L. 98–473, § 1020(1), inserted “dealing in obscene matter,” after “extortion,”.
+1984—Par. (1)(A). Pub. L. 98–473, § 1020(1), inserted “dealing in obscene matter,” after “extortion,”.
 
 Par. (1)(B). Pub. L. 98–547 inserted “sections 2312 and 2313 (relating to interstate transportation of stolen motor vehicles),” and “section 2320 (relating to trafficking in certain motor vehicles or motor vehicle parts),”.
 
-Pub. L. 98–473, § 1020(2), inserted “sections 1461–1465 (relating to obscene matter),”.
+Pub. L. 98–473, § 1020(2), inserted “sections 1461–1465 (relating to obscene matter),”.
 
-Par. (1)(E). Pub. L. 98–473, § 901(g), added cl. (E).
+Par. (1)(E). Pub. L. 98–473, § 901(g), added cl. (E).
 
 1978—Par. (1)(B). Pub. L. 95–575 inserted “sections 2341–2346 (relating to trafficking in contraband cigarettes),”.
 
@@ -149,7 +149,7 @@ Par. (1)(D). Pub. L. 95–598 substituted “fraud connected with a case under t
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4005(f)(1), Nov. 2, 2002, 116 Stat. 1813, provided that the amendment made by section 4005(f)(1) is effective Oct. 26, 2001.
+Pub. L. 107–273, div. B, title IV, § 4005(f)(1), Nov. 2, 2002, 116 Stat. 1813, provided that the amendment made by section 4005(f)(1) is effective Oct. 26, 2001.
 
 **Effective Date of 1996 Amendment**
 
@@ -167,13 +167,13 @@ Amendment by Pub. L. 95–575 effective Nov. 2, 1978, see section 4 of Pub. L. 9
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–473, title II, ch. III (§§ 301–322), § 301, Oct. 12, 1984, 98 Stat. 2040, provided that: “This title [probably means this chapter, enacting sections 1589, 1600, 1613a, and 1616 of Title 19, Customs Duties and sections 853, 854, and 970 of Title 21, Food and Drugs, amending section 1963 of this title and sections 1602, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1618, 1619, and 1644 of Title 19, sections 824, 848, and 881 of Title 21, and section 524 of Title 28, Judiciary and Judicial Procedure, and repealing section 7607 of Title 26, Internal Revenue Code] may be cited as the ‘Comprehensive Forfeiture Act of 1984’.”
+Pub. L. 98–473, title II, ch. III (§§ 301–322), § 301, Oct. 12, 1984, 98 Stat. 2040, provided that: “This title [probably means this chapter, enacting sections 1589, 1600, 1613a, and 1616 of Title 19, Customs Duties and sections 853, 854, and 970 of Title 21, Food and Drugs, amending section 1963 of this title and sections 1602, 1605, 1606, 1607, 1608, 1609, 1610, 1611, 1612, 1613, 1614, 1615, 1618, 1619, and 1644 of Title 19, sections 824, 848, and 881 of Title 21, and section 524 of Title 28, Judiciary and Judicial Procedure, and repealing section 7607 of Title 26, Internal Revenue Code] may be cited as the ‘Comprehensive Forfeiture Act of 1984’.”
 
 **Short Title of 1970 Amendment**
 
-Pub. L. 91–452, § 1, Oct. 15, 1970, 84 Stat. 922, provided in part: “That this Act [enacting this section, sections 841 to 848, 1511, 1623, 1955, 1962 to 1968, 3331 to 3334, 3503, 3504, 3575 to 3578, and 6001 to 6005 of this title, and section 1826 of Title 28, Judiciary and Judicial Procedure, amending sections 835, 1073, 1505, 1954, 2424, 2516, 2517, 3148, 3486, and 3500 of this title, sections 15, 87f, 135c, 499m, and 2115 of Title 7, Agriculture, section 25 of Title 11, Bankruptcy, section 1820 of Title 12, Banks and Banking, sections 49, 77v, 78u, 79r, 80a–41, 80b–9, 155, 717m, 1271, and 1714 of Title 15, Commerce and Trade, section 825f of Title 16, Conservation, section 1333 of Title 19, Customs Duties, section 373 of Title 21, Food and Drugs, section 161 of Title 29, Labor, section 506 of Title 33, Navigation and Navigable Waters, sections 405 and 2201 of Title 42, The Public Health and Welfare, sections 157 and 362 of Title 45, Railroads, section 1124 of former Title 46, Shipping, section 409 of Title 47, Telecommunications, sections 9, 43, 46, 916, 1017, and 1484 of former Title 49, Transportation, sections 792 and 4555 of Title 50, War and National Defense, and former sections 643a, 1152, and 2026 of the former Appendix to Title 50, repealing sections 837, 895, 1406, and 2514 of this title, sections 32 and 33 of Title 15, sections 4874 and 7493 of Title 26, Internal Revenue Code, section 827 of former Title 46, sections 47 and 48 of former Title 49, and sections 121 to 144 of Title 50, enacting provisions set out as notes under this section and sections 841, 1511, 1955, preceding 3331, preceding 3481, 3504, and 6001 of this title, and repealing provisions set out as a note under section 2510 of this title] may be cited as the ‘Organized Crime Control Act of 1970’.”
+Pub. L. 91–452, § 1, Oct. 15, 1970, 84 Stat. 922, provided in part: “That this Act [enacting this section, sections 841 to 848, 1511, 1623, 1955, 1962 to 1968, 3331 to 3334, 3503, 3504, 3575 to 3578, and 6001 to 6005 of this title, and section 1826 of Title 28, Judiciary and Judicial Procedure, amending sections 835, 1073, 1505, 1954, 2424, 2516, 2517, 3148, 3486, and 3500 of this title, sections 15, 87f, 135c, 499m, and 2115 of Title 7, Agriculture, section 25 of Title 11, Bankruptcy, section 1820 of Title 12, Banks and Banking, sections 49, 77v, 78u, 79r, 80a–41, 80b–9, 155, 717m, 1271, and 1714 of Title 15, Commerce and Trade, section 825f of Title 16, Conservation, section 1333 of Title 19, Customs Duties, section 373 of Title 21, Food and Drugs, section 161 of Title 29, Labor, section 506 of Title 33, Navigation and Navigable Waters, sections 405 and 2201 of Title 42, The Public Health and Welfare, sections 157 and 362 of Title 45, Railroads, section 1124 of former Title 46, Shipping, section 409 of Title 47, Telecommunications, sections 9, 43, 46, 916, 1017, and 1484 of former Title 49, Transportation, sections 792 and 4555 of Title 50, War and National Defense, and former sections 643a, 1152, and 2026 of the former Appendix to Title 50, repealing sections 837, 895, 1406, and 2514 of this title, sections 32 and 33 of Title 15, sections 4874 and 7493 of Title 26, Internal Revenue Code, section 827 of former Title 46, sections 47 and 48 of former Title 49, and sections 121 to 144 of Title 50, enacting provisions set out as notes under this section and sections 841, 1511, 1955, preceding 3331, preceding 3481, 3504, and 6001 of this title, and repealing provisions set out as a note under section 2510 of this title] may be cited as the ‘Organized Crime Control Act of 1970’.”
 
-Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 941, is popularly known as the “Racketeer Influenced and Corrupt Organizations Act”. See also Short Title note below.
+Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 941, is popularly known as the “Racketeer Influenced and Corrupt Organizations Act”. See also Short Title note below.
 
 **Short Title**
 
@@ -181,11 +181,11 @@ This chapter is popularly known as the “Racketeer Influenced and Corrupt Organ
 
 **Savings Provision**
 
-Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
+Amendment by section 314 of Pub. L. 95–598 not to affect the application of chapter 9 (§ 151 et seq.), chapter 96 (§ 1961 et seq.), or section 2516, 3057, or 3284 of this title to any act of any person (1) committed before Oct. 1, 1979, or (2) committed after Oct. 1, 1979, in connection with a case commenced before such date, see section 403(d) of Pub. L. 95–598, set out as a note preceding section 101 of Title 11, Bankruptcy.
 
 **Separability**
 
-Pub. L. 91–452, title XIII, § 1301, Oct. 15, 1970, 84 Stat. 962, provided that: “If the provisions of any part of this Act [see Short Title of 1970 Amendment note set out above] or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.”
+Pub. L. 91–452, title XIII, § 1301, Oct. 15, 1970, 84 Stat. 962, provided that: “If the provisions of any part of this Act [see Short Title of 1970 Amendment note set out above] or the application thereof to any person or circumstances be held invalid, the provisions of the other parts and their application to other persons or circumstances shall not be affected thereby.”
 
 **Rule of Construction**
 
@@ -193,7 +193,7 @@ Nothing in amendment made by Pub. L. 117–159 to be construed to allow the esta
 
 **Congressional Statement of Findings and Purpose**
 
-Pub. L. 91–452, § 1, Oct. 15, 1970, 84 Stat. 922, provided in part that:
+Pub. L. 91–452, § 1, Oct. 15, 1970, 84 Stat. 922, provided in part that:
 
 > “The Congress finds that (1) organized crime in the United States is a highly sophisticated, diversified, and widespread activity that annually drains billions of dollars from America’s economy by unlawful conduct and the illegal use of force, fraud, and corruption; (2) organized crime derives a major portion of its power through money obtained from such illegal endeavors as syndicated gambling, loan sharking, the theft and fencing of property, the importation and distribution of narcotics and other dangerous drugs, and other forms of social exploitation; (3) this money and power are increasingly used to infiltrate and corrupt legitimate business and labor unions and to subvert and corrupt our democratic processes; (4) organized crime activities in the United States weaken the stability of the Nation’s economic system, harm innocent investors and competing organizations, interfere with free competition, seriously burden interstate and foreign commerce, threaten the domestic security, and undermine the general welfare of the Nation and its citizens; and (5) organized crime continues to grow because of defects in the evidence-gathering process of the law inhibiting the development of the legally admissible evidence necessary to bring criminal and other sanctions or remedies to bear on the unlawful activities of those engaged in organized crime and because the sanctions and remedies available to the Government are unnecessarily limited in scope and impact.
 
@@ -201,7 +201,7 @@ Pub. L. 91–452, § 1, Oct. 15, 1970, 84 Stat. 922, provided in part that:
 
 **Liberal Construction of Provisions; Supersedure of Federal or State Laws; Authority of Attorneys Representing United States**
 
-Pub. L. 91–452, title IX, § 904, Oct. 15, 1970, 84 Stat. 947, provided that:
+Pub. L. 91–452, title IX, § 904, Oct. 15, 1970, 84 Stat. 947, provided that:
 
 > **“(a)** The provisions of this title [enacting this chapter and amending sections 1505, 2516, and 2517 of this title] shall be liberally construed to effectuate its remedial purposes.
 
@@ -225,7 +225,7 @@ Pub. L. 98–368, July 17, 1984, 98 Stat. 490, provided for the Commission estab
 
 Ex. Ord. No. 12435, July 28, 1983, 48 F.R. 34723, as amended Ex. Ord. No. 12507, Mar. 22, 1985, 50 F.R. 11835, which established and provided for the administration of the President’s Commission on Organized Crime, was revoked by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
-## § 1962. Prohibited activities
+## § 1962. Prohibited activities
 
 **(a)** It shall be unlawful for any person who has received any income derived, directly or indirectly, from a pattern of racketeering activity or through collection of an unlawful debt in which such person has participated as a principal within the meaning of section 2, title 18, United States Code, to use or invest, directly or indirectly, any part of such income, or the proceeds of such income, in acquisition of any interest in, or the establishment or operation of, any enterprise which is engaged in, or the activities of which affect, interstate or foreign commerce. A purchase of securities on the open market for purposes of investment, and without the intention of controlling or participating in the control of the issuer, or of assisting another to do so, shall not be unlawful under this subsection if the securities of the issuer held by the purchaser, the members of his immediate family, and his or their accomplices in any pattern or racketeering activity or the collection of an unlawful debt after such purchase do not amount in the aggregate to one percent of the outstanding securities of any one class, and do not confer, either in law or in fact, the power to elect one or more directors of the issuer.
 
@@ -235,7 +235,7 @@ Ex. Ord. No. 12435, July 28, 1983, 48 F.R. 34723, as amended Ex. Ord. No. 12507,
 
 **(d)** It shall be unlawful for any person to conspire to violate any of the provisions of subsection (a), (b), or (c) of this section.
 
-(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 942; amended Pub. L. 100–690, title VII, § 7033, Nov. 18, 1988, 102 Stat. 4398.)
+(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 942; amended Pub. L. 100–690, title VII, § 7033, Nov. 18, 1988, 102 Stat. 4398.)
 
 **Editorial Notes**
 
@@ -243,7 +243,7 @@ Ex. Ord. No. 12435, July 28, 1983, 48 F.R. 34723, as amended Ex. Ord. No. 12507,
 
 1988—Subsec. (d). Pub. L. 100–690 substituted “subsection” for “subsections”.
 
-## § 1963. Criminal penalties
+## § 1963. Criminal penalties
 
 **(a)** Whoever violates any provision of section 1962 of this chapter shall be fined under this title or imprisoned not more than 20 years (or for life if the violation is based on a racketeering activity for which the maximum penalty includes life imprisonment), or both, and shall forfeit to the United States, irrespective of any provision of State law—
 
@@ -369,7 +369,7 @@ the court shall amend the order of forfeiture in accordance with its determinati
 
 the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).
 
-(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–473, title II, §§ 302, 2301(a)–(c), Oct. 12, 1984, 98 Stat. 2040, 2192; Pub. L. 99–570, title I, § 1153(a), Oct. 27, 1986, 100 Stat. 3207–13; Pub. L. 99–646, § 23, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–690, title VII, §§ 7034, 7058(d), Nov. 18, 1988, 102 Stat. 4398, 4403; Pub. L. 101–647, title XXXV, § 3561, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 111–16, § 3(4), May 7, 2009, 123 Stat. 1607.)
+(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–473, title II, §§ 302, 2301(a)–(c), Oct. 12, 1984, 98 Stat. 2040, 2192; Pub. L. 99–570, title I, § 1153(a), Oct. 27, 1986, 100 Stat. 3207–13; Pub. L. 99–646, § 23, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–690, title VII, §§ 7034, 7058(d), Nov. 18, 1988, 102 Stat. 4398, 4403; Pub. L. 101–647, title XXXV, § 3561, Nov. 29, 1990, 104 Stat. 4927; Pub. L. 111–16, § 3(4), May 7, 2009, 123 Stat. 1607.)
 
 **Editorial Notes**
 
@@ -383,29 +383,29 @@ The Federal Rules of Evidence, referred to in subsec. (d)(3), are set out in the
 
 1990—Subsec. (a). Pub. L. 101–647 substituted “or both” for “or both.” in introductory provisions.
 
-1988—Subsec. (a). Pub. L. 100–690, § 7058(d), substituted “shall be fined under this title or imprisoned not more than 20 years (or for life if the violation is based on a racketeering activity for which the maximum penalty includes life imprisonment), or both.” for “shall be fined not more than $25,000 or imprisoned not more than twenty years, or both”.
+1988—Subsec. (a). Pub. L. 100–690, § 7058(d), substituted “shall be fined under this title or imprisoned not more than 20 years (or for life if the violation is based on a racketeering activity for which the maximum penalty includes life imprisonment), or both.” for “shall be fined not more than $25,000 or imprisoned not more than twenty years, or both”.
 
-Subsecs. (m), (n). Pub. L. 100–690, § 7034, redesignated former subsec. (n) as (m) and substituted “act or omission” for “act of omission”.
+Subsecs. (m), (n). Pub. L. 100–690, § 7034, redesignated former subsec. (n) as (m) and substituted “act or omission” for “act of omission”.
 
 1986—Subsecs. (c) to (m). Pub. L. 99–646 substituted “(*l*)” for “(m)” in subsec. (c), redesignated subsecs. (e) to (m) as (d) to (*l*), respectively, and substituted “(*l*)” for “(m)” in subsec. (i) as redesignated.
 
 Subsec. (n). Pub. L. 99–570 added subsec. (n).
 
-1984—Subsec. (a). Pub. L. 98–473, § 2301(a), inserted “In lieu of a fine otherwise authorized by this section, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.” following par. (3).
+1984—Subsec. (a). Pub. L. 98–473, § 2301(a), inserted “In lieu of a fine otherwise authorized by this section, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.” following par. (3).
 
-Pub. L. 98–473, § 302, amended subsec. (a) generally, designating existing provisions as pars. (1) and (2), inserting par. (3), and provisions following par. (3) relating to power of the court to order forfeiture to the United States.
+Pub. L. 98–473, § 302, amended subsec. (a) generally, designating existing provisions as pars. (1) and (2), inserting par. (3), and provisions following par. (3) relating to power of the court to order forfeiture to the United States.
 
-Subsec. (b). Pub. L. 98–473, § 302, amended subsec. (b) generally, substituting provisions relating to property subject to forfeiture, for provisions relating to jurisdiction of the district courts of the United States.
+Subsec. (b). Pub. L. 98–473, § 302, amended subsec. (b) generally, substituting provisions relating to property subject to forfeiture, for provisions relating to jurisdiction of the district courts of the United States.
 
-Subsec. (c). Pub. L. 98–473, § 302, amended subsec. (c) generally, substituting provisions relating to transfer of rights, etc., in property to the United States, or to other transferees, for provisions relating to seizure and transfer of property to the United States and procedures related thereto.
+Subsec. (c). Pub. L. 98–473, § 302, amended subsec. (c) generally, substituting provisions relating to transfer of rights, etc., in property to the United States, or to other transferees, for provisions relating to seizure and transfer of property to the United States and procedures related thereto.
 
-Subsec. (d). Pub. L. 98–473, § 2301(b), struck out subsec. (d) which provided: “If any of the property described in subsection (a): (1) cannot be located; (2) has been transferred to, sold to, or deposited with, a third party; (3) has been placed beyond the jurisdiction of the court; (4) has been substantially diminished in value by any act or omission of the defendant; or (5) has been commingled with other property which cannot be divided without difficulty; the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).”
+Subsec. (d). Pub. L. 98–473, § 2301(b), struck out subsec. (d) which provided: “If any of the property described in subsection (a): (1) cannot be located; (2) has been transferred to, sold to, or deposited with, a third party; (3) has been placed beyond the jurisdiction of the court; (4) has been substantially diminished in value by any act or omission of the defendant; or (5) has been commingled with other property which cannot be divided without difficulty; the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).”
 
-Pub. L. 98–473, § 302, added subsec. (d).
+Pub. L. 98–473, § 302, added subsec. (d).
 
-Subsecs. (e) to (m). Pub. L. 98–473, § 302, added subsecs. (d) to (m).
+Subsecs. (e) to (m). Pub. L. 98–473, § 302, added subsecs. (d) to (m).
 
-Subsec. (m)(1). Pub. L. 98–473, § 2301(c), struck out “for at least seven successive court days” after “dispose of the property”.
+Subsec. (m)(1). Pub. L. 98–473, § 2301(c), struck out “for at least seven successive court days” after “dispose of the property”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -417,7 +417,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 1964. Civil remedies
+## § 1964. Civil remedies
 
 **(a)** The district courts of the United States shall have jurisdiction to prevent and restrain violations of section 1962 of this chapter by issuing appropriate orders, including, but not limited to: ordering any person to divest himself of any interest, direct or indirect, in any enterprise; imposing reasonable restrictions on the future activities or investments of any person, including, but not limited to, prohibiting any person from engaging in the same type of endeavor as the enterprise engaged in, the activities of which affect interstate or foreign commerce; or ordering dissolution or reorganization of any enterprise, making due provision for the rights of innocent persons.
 
@@ -427,13 +427,13 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **(d)** A final judgment or decree rendered in favor of the United States in any criminal proceeding brought by the United States under this chapter shall estop the defendant from denying the essential allegations of the criminal offense in any subsequent civil proceeding brought by the United States.
 
-(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–620, title IV, § 402(24)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 104–67, title I, § 107, Dec. 22, 1995, 109 Stat. 758.)
+(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 943; amended Pub. L. 98–620, title IV, § 402(24)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 104–67, title I, § 107, Dec. 22, 1995, 109 Stat. 758.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1995—Subsec. (c). Pub. L. 104–67 inserted before period at end “, except that no person may rely upon any conduct that would have been actionable as fraud in the purchase or sale of securities to establish a violation of section 1962. The exception contained in the preceding sentence does not apply to an action against any person that is criminally convicted in connection with the fraud, in which case the statute of limitations shall start to run on the date on which the conviction becomes final”.
+1995—Subsec. (c). Pub. L. 104–67 inserted before period at end “, except that no person may rely upon any conduct that would have been actionable as fraud in the purchase or sale of securities to establish a violation of section 1962. The exception contained in the preceding sentence does not apply to an action against any person that is criminally convicted in connection with the fraud, in which case the statute of limitations shall start to run on the date on which the conviction becomes final”.
 
 1984—Subsec. (b). Pub. L. 98–620 struck out provision that in any action brought by the United States under this section, the court had to proceed as soon as practicable to the hearing and determination thereof.
 
@@ -451,7 +451,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Securities and Exchange Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of Title 15, Commerce and Trade.
 
-## § 1965. Venue and process
+## § 1965. Venue and process
 
 **(a)** Any civil action or proceeding under this chapter against any person may be instituted in the district court of the United States for any district in which such person resides, is found, has an agent, or transacts his affairs.
 
@@ -461,13 +461,13 @@ Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any im
 
 **(d)** All other process in any action or proceeding under this chapter may be served on any person in any judicial district in which such person resides, is found, has an agent, or transacts his affairs.
 
-(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 944.)
+(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 944.)
 
-## § 1966. Expedition of actions
+## § 1966. Expedition of actions
 
 In any civil action instituted under this chapter by the United States in any district court of the United States, the Attorney General may file with the clerk of such court a certificate stating that in his opinion the case is of general public importance. A copy of that certificate shall be furnished immediately by such clerk to the chief judge or in his absence to the presiding district judge of the district in which such action is pending. Upon receipt of such copy, such judge shall designate immediately a judge of that district to hear and determine action.
 
-(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 944; amended Pub. L. 98–620, title IV, § 402(24)(B), Nov. 8, 1984, 98 Stat. 3359.)
+(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 944; amended Pub. L. 98–620, title IV, § 402(24)(B), Nov. 8, 1984, 98 Stat. 3359.)
 
 **Editorial Notes**
 
@@ -481,13 +481,13 @@ In any civil action instituted under this chapter by the United States in any di
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-## § 1967. Evidence
+## § 1967. Evidence
 
 In any proceeding ancillary to or in any civil action instituted by the United States under this chapter the proceedings may be open or closed to the public at the discretion of the court after consideration of the rights of affected persons.
 
-(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 944.)
+(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 944.)
 
-## § 1968. Civil investigative demand
+## § 1968. Civil investigative demand
 
 **(a)** Whenever the Attorney General has reason to believe that any person or enterprise may be in possession, custody, or control of any documentary materials relevant to a racketeering investigation, he may, prior to the institution of a civil or criminal proceeding thereon, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to produce such material for examination.
 
@@ -551,4 +551,4 @@ Any successor so designated shall have with regard to such materials all duties 
 
 **(j)** Whenever any petition is filed in any district court of the United States under this section, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry into effect the provisions of this section.
 
-(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 944.)
+(Added Pub. L. 91–452, title IX, § 901(a), Oct. 15, 1970, 84 Stat. 944.)

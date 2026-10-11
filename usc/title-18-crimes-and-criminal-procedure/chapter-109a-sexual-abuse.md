@@ -23,11 +23,11 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical chapters 109A.
 
 **Amendments**
 
-2022—Pub. L. 117–103, div. W, title XII, § 1202(c)(2), Mar. 15, 2022, 136 Stat. 925, substituted “Sexual abuse of a minor, a ward, or an individual in Federal custody” for “Sexual abuse of a minor or ward” in item 2243.
+2022—Pub. L. 117–103, div. W, title XII, § 1202(c)(2), Mar. 15, 2022, 136 Stat. 925, substituted “Sexual abuse of a minor, a ward, or an individual in Federal custody” for “Sexual abuse of a minor or ward” in item 2243.
 
-1994—Pub. L. 103–322, title IV, §§ 40111(c), 40113(a)(2), title VI, § 60010(b), Sept. 13, 1994, 108 Stat. 1903, 1907, 1973, redesignated item 2245 as 2246 and added items 2245, 2247, and 2248.
+1994—Pub. L. 103–322, title IV, §§ 40111(c), 40113(a)(2), title VI, § 60010(b), Sept. 13, 1994, 108 Stat. 1903, 1907, 1973, redesignated item 2245 as 2246 and added items 2245, 2247, and 2248.
 
-## § 2241. Aggravated sexual abuse
+## § 2241. Aggravated sexual abuse
 
 **(a) By Force or Threat.—** Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly causes another person to engage in a sexual act—
 
@@ -53,7 +53,7 @@ or attempts to do so, shall be fined under this title, imprisoned for any term o
 
 **(d) State of Mind Proof Requirement.—** In a prosecution under subsection (c) of this section, the Government need not prove that the defendant knew that the other person engaging in the sexual act had not attained the age of 12 years.
 
-(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3660; amended Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 121[7(b)]], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, § 301(a), Oct. 30, 1998, 112 Stat. 2978; Pub. L. 109–162, title XI, § 1177(a)(1), (2), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§ 206(a)(1), 207(2), July 27, 2006, 120 Stat. 613, 615; Pub. L. 110–161, div. E, title V, § 554, Dec. 26, 2007, 121 Stat. 2082; Pub. L. 118–159, div. A, title V, § 569(1), Dec. 23, 2024, 138 Stat. 1906.)
+(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3660; amended Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 121[7(b)]], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, § 301(a), Oct. 30, 1998, 112 Stat. 2978; Pub. L. 109–162, title XI, § 1177(a)(1), (2), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§ 206(a)(1), 207(2), July 27, 2006, 120 Stat. 613, 615; Pub. L. 110–161, div. E, title V, § 554, Dec. 26, 2007, 121 Stat. 2082; Pub. L. 118–159, div. A, title V, § 569(1), Dec. 23, 2024, 138 Stat. 1906.)
 
 **Editorial Notes**
 
@@ -67,13 +67,13 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2241.
 
 2007—Subsecs. (a) to (c). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General”.
 
-2006—Subsecs. (a), (b). Pub. L. 109–248, § 207(2), inserted comma after “Attorney General” in introductory provisions.
+2006—Subsecs. (a), (b). Pub. L. 109–248, § 207(2), inserted comma after “Attorney General” in introductory provisions.
 
-Pub. L. 109–162, § 1177(a)(1), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
+Pub. L. 109–162, § 1177(a)(1), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
 
-Subsec. (c). Pub. L. 109–248 inserted comma after “Attorney General” and substituted “and imprisoned for not less than 30 years or for life” for “, imprisoned for any term of years or life, or both” in first sentence.
+Subsec. (c). Pub. L. 109–248 inserted comma after “Attorney General” and substituted “and imprisoned for not less than 30 years or for life” for “, imprisoned for any term of years or life, or both” in first sentence.
 
-Pub. L. 109–162, § 1177(a)(2), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in first sentence.
+Pub. L. 109–162, § 1177(a)(2), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in first sentence.
 
 1998—Subsec. (c). Pub. L. 105–314 substituted “younger than the person so engaging” for “younger than that person”.
 
@@ -85,17 +85,17 @@ Pub. L. 109–162, § 1177(a)(2), inserted “or in any prison, institution, o
 
 **Effective Date**
 
-Pub. L. 99–646, § 87(e), Nov. 10, 1986, 100 Stat. 3624, and Pub. L. 99–654, § 4, Nov. 14, 1986, 100 Stat. 3664, provided, respectively, that: “This section and the amendments made by this section [see Short Title note below] shall take effect 30 days after the date of the enactment of this Act [Nov. 10, 1986].” and “This Act and the amendments made by this Act [see Short Title note below] shall take effect 30 days after the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–646, § 87(e), Nov. 10, 1986, 100 Stat. 3624, and Pub. L. 99–654, § 4, Nov. 14, 1986, 100 Stat. 3664, provided, respectively, that: “This section and the amendments made by this section [see Short Title note below] shall take effect 30 days after the date of the enactment of this Act [Nov. 10, 1986].” and “This Act and the amendments made by this Act [see Short Title note below] shall take effect 30 days after the date of the enactment of this Act [Nov. 14, 1986].”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 121[7(a)]], Sept. 30, 1996, 110 Stat. 3009, 3009–31, provided that: “This section [probably means subsec. 7 of section 121 of Pub. L. 104–208, div. A, title I, § 101(a), which amended sections 2241 and 2243 of this title] may be cited as the ‘Amber Hagerman Child Protection Act of 1996’.”
+Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 121[7(a)]], Sept. 30, 1996, 110 Stat. 3009, 3009–31, provided that: “This section [probably means subsec. 7 of section 121 of Pub. L. 104–208, div. A, title I, § 101(a), which amended sections 2241 and 2243 of this title] may be cited as the ‘Amber Hagerman Child Protection Act of 1996’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–646, § 87(a), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, § 1, Nov. 14, 1986, 100 Stat. 3660, provided, respectively, that: “This section [enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, The Public Health and Welfare, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title] may be cited as the ‘Sexual Abuse Act of 1986’.” and “This Act [enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title] may be cited as the ‘Sexual Abuse Act of 1986’.”
+Pub. L. 99–646, § 87(a), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654, § 1, Nov. 14, 1986, 100 Stat. 3660, provided, respectively, that: “This section [enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, The Public Health and Welfare, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title] may be cited as the ‘Sexual Abuse Act of 1986’.” and “This Act [enacting this chapter, amending sections 113, 1111, 1153, and 3185 of this title, sections 300w–3, 300w–4, and 9511 of Title 42, and section 1472 of former Title 49, Transportation, and repealing chapter 99 of this title] may be cited as the ‘Sexual Abuse Act of 1986’.”
 
-## § 2242. Sexual abuse
+## § 2242. Sexual abuse
 
 Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly—
 
@@ -111,7 +111,7 @@ Whoever, in the special maritime and territorial jurisdiction of the United Stat
 
 or attempts to do so, shall be fined under this title and imprisoned for any term of years or for life.
 
-(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3621, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 109–162, title XI, § 1177(a)(3), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§ 205, 207(2), July 27, 2006, 120 Stat. 613, 615; Pub. L. 110–161, div. E, title V, § 554, Dec. 26, 2007, 121 Stat. 2082; Pub. L. 117–103, div. W, title XII, § 1202(b), Mar. 15, 2022, 136 Stat. 924.)
+(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3621, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 109–162, title XI, § 1177(a)(3), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§ 205, 207(2), July 27, 2006, 120 Stat. 613, 615; Pub. L. 110–161, div. E, title V, § 554, Dec. 26, 2007, 121 Stat. 2082; Pub. L. 117–103, div. W, title XII, § 1202(b), Mar. 15, 2022, 136 Stat. 924.)
 
 **Editorial Notes**
 
@@ -125,7 +125,7 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2242.
 
 2007—Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General” in introductory provisions.
 
-2006—Pub. L. 109–248 inserted comma after “Attorney General” in introductory provisions and substituted “and imprisoned for any term of years or for life” for “, imprisoned not more than 20 years, or both” in concluding provisions.
+2006—Pub. L. 109–248 inserted comma after “Attorney General” in introductory provisions and substituted “and imprisoned for any term of years or for life” for “, imprisoned not more than 20 years, or both” in concluding provisions.
 
 Pub. L. 109–162 inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
 
@@ -137,7 +137,7 @@ Pub. L. 109–162 inserted “or in any prison, institution, or facility in whic
 
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
-## § 2243. Sexual abuse of a minor, a ward, or an individual in Federal custody
+## § 2243. Sexual abuse of a minor, a ward, or an individual in Federal custody
 
 **(a) Of a Minor.—** Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in a sexual act with another person who—
 
@@ -165,7 +165,7 @@ or attempts to do so, shall be fined under this title, imprisoned not more than 
 
 **(2)** that the requisite age difference existed between the persons so engaging.
 
-(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3621, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 101–647, title III, § 322, Nov. 29, 1990, 104 Stat. 4818; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 121[7(c)]], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, § 301(b), Oct. 30, 1998, 112 Stat. 2979; Pub. L. 109–162, title XI, § 1177(a)(4), (b)(1), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, § 207, July 27, 2006, 120 Stat. 615; Pub. L. 110–161, div. E, title V, § 554, Dec. 26, 2007, 121 Stat. 2082; Pub. L. 117–103, div. W, title XII, § 1202(c)(1), title XIII, § 1312, Mar. 15, 2022, 136 Stat. 924, 935.)
+(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3621, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 101–647, title III, § 322, Nov. 29, 1990, 104 Stat. 4818; Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 121[7(c)]], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, § 301(b), Oct. 30, 1998, 112 Stat. 2979; Pub. L. 109–162, title XI, § 1177(a)(4), (b)(1), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, § 207, July 27, 2006, 120 Stat. 615; Pub. L. 110–161, div. E, title V, § 554, Dec. 26, 2007, 121 Stat. 2082; Pub. L. 117–103, div. W, title XII, § 1202(c)(1), title XIII, § 1312, Mar. 15, 2022, 136 Stat. 924, 935.)
 
 **Editorial Notes**
 
@@ -175,25 +175,25 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2243.
 
 **Amendments**
 
-2022—Pub. L. 117–103, § 1202(c)(1)(A), substituted “Sexual abuse of a minor, a ward, or an individual in Federal custody” for “Sexual abuse of a minor or ward” in section catchline.
+2022—Pub. L. 117–103, § 1202(c)(1)(A), substituted “Sexual abuse of a minor, a ward, or an individual in Federal custody” for “Sexual abuse of a minor or ward” in section catchline.
 
-Subsec. (c). Pub. L. 117–103, § 1202(c)(1)(C), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 117–103, § 1202(c)(1)(C), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 117–103, § 1312, struck out par. (1) designation before “In a prosecution” and struck out par. (2) which read as follows: “In a prosecution under this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the persons engaging in the sexual act were at that time married to each other.” Amendment was directed to subsec. (c) but executed to subsec. (d) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by Pub. L. 117–103, § 1202(c)(1)(B). See below.
+Subsec. (d). Pub. L. 117–103, § 1312, struck out par. (1) designation before “In a prosecution” and struck out par. (2) which read as follows: “In a prosecution under this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the persons engaging in the sexual act were at that time married to each other.” Amendment was directed to subsec. (c) but executed to subsec. (d) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by Pub. L. 117–103, § 1202(c)(1)(B). See below.
 
-Pub. L. 117–103, § 1202(c)(1)(B), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Pub. L. 117–103, § 1202(c)(1)(B), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 117–103, § 1202(c)(1)(B), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 117–103, § 1202(c)(1)(B), redesignated subsec. (d) as (e).
 
 2007—Subsecs. (a), (b). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General” in introductory provisions.
 
-2006—Subsec. (a). Pub. L. 109–248, § 207(2), inserted comma after “Attorney General” in introductory provisions.
+2006—Subsec. (a). Pub. L. 109–248, § 207(2), inserted comma after “Attorney General” in introductory provisions.
 
-Pub. L. 109–162, § 1177(a)(4), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
+Pub. L. 109–162, § 1177(a)(4), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
 
 Subsec. (b). Pub. L. 109–248 inserted comma after “Attorney General” in introductory provisions and substituted “15 years” for “five years” in concluding provisions.
 
-Pub. L. 109–162, § 1177(a)(4), (b)(1), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions and substituted “five years” for “one year” in concluding provisions.
+Pub. L. 109–162, § 1177(a)(4), (b)(1), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions and substituted “five years” for “one year” in concluding provisions.
 
 1998—Subsec. (a). Pub. L. 105–314 struck out “crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or” after “Whoever” in introductory provisions.
 
@@ -207,7 +207,7 @@ Pub. L. 109–162, § 1177(a)(4), (b)(1), inserted “or in any prison, instit
 
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
-## § 2244. Abusive sexual contact
+## § 2244. Abusive sexual contact
 
 **(a) Sexual Conduct in Circumstances Where Sexual Acts Are Punished by This Chapter.—** Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in or causes sexual contact with or by another person, if so to do would violate—
 
@@ -221,15 +221,15 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 **(5)** subsection (c) of section 2241 of this title had the sexual contact been a sexual act, shall be fined under this title and imprisoned for any term of years or for life; or
 
-**(6)** subsection (c) of section 2243 of this title had the sexual contact been a sexual act, shall be fined under this title, imprisoned not more than two years, or both; 1
+**(6)** subsection (c) of section 2243 of this title had the sexual contact been a sexual act, shall be fined under this title, imprisoned not more than two years, or both; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
 **(b) In Other Circumstances.—** Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in sexual contact with another person without that other person’s permission shall be fined under this title, imprisoned not more than two years, or both.
 
 **(c) Offenses Involving Young Children.—** If the sexual contact that violates this section (other than subsection (a)(5)) is with an individual who has not attained the age of 12 years, the maximum term of imprisonment that may be imposed for the offense shall be twice that otherwise provided in this section.
 
-(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3622, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 100–690, title VII, § 7058(a), Nov. 18, 1988, 102 Stat. 4403; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 105–314, title III, § 302, Oct. 30, 1998, 112 Stat. 2979; Pub. L. 109–162, title XI, § 1177(a)(5), (b)(2), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§ 206(a)(2), 207(2), July 27, 2006, 120 Stat. 613, 615; Pub. L. 110–161, div. E, title V, § 554, Dec. 26, 2007, 121 Stat. 2082; Pub. L. 117–103, div. W, title XII, § 1202(d), Mar. 15, 2022, 136 Stat. 925.)
+(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3622, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 100–690, title VII, § 7058(a), Nov. 18, 1988, 102 Stat. 4403; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 105–314, title III, § 302, Oct. 30, 1998, 112 Stat. 2979; Pub. L. 109–162, title XI, § 1177(a)(5), (b)(2), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §§ 206(a)(2), 207(2), July 27, 2006, 120 Stat. 613, 615; Pub. L. 110–161, div. E, title V, § 554, Dec. 26, 2007, 121 Stat. 2082; Pub. L. 117–103, div. W, title XII, § 1202(d), Mar. 15, 2022, 136 Stat. 925.)
 
 **Editorial Notes**
 
@@ -243,21 +243,21 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2244.
 
 2007—Subsecs. (a), (b). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General”.
 
-2006—Subsec. (a). Pub. L. 109–248, § 207(2), inserted comma after “Attorney General” in introductory provisions.
+2006—Subsec. (a). Pub. L. 109–248, § 207(2), inserted comma after “Attorney General” in introductory provisions.
 
-Pub. L. 109–162, § 1177(a)(5), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
+Pub. L. 109–162, § 1177(a)(5), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 109–248, § 206(a)(2)(A)(i), inserted “subsection (a) or (b) of” before “section 2241 of this title”.
+Subsec. (a)(1). Pub. L. 109–248, § 206(a)(2)(A)(i), inserted “subsection (a) or (b) of” before “section 2241 of this title”.
 
-Subsec. (a)(4). Pub. L. 109–162, § 1177(b)(2), substituted “two years” for “six months”.
+Subsec. (a)(4). Pub. L. 109–162, § 1177(b)(2), substituted “two years” for “six months”.
 
-Subsec. (a)(5). Pub. L. 109–248, § 206(a)(2)(A)(ii)–(iv), added par. (5).
+Subsec. (a)(5). Pub. L. 109–248, § 206(a)(2)(A)(ii)–(iv), added par. (5).
 
-Subsec. (b). Pub. L. 109–248, § 207(2), inserted comma after “Attorney General”.
+Subsec. (b). Pub. L. 109–248, § 207(2), inserted comma after “Attorney General”.
 
-Pub. L. 109–162, § 1177(a)(5), (b)(2), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” and substituted “two years” for “six months”.
+Pub. L. 109–162, § 1177(a)(5), (b)(2), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” and substituted “two years” for “six months”.
 
-Subsec. (c). Pub. L. 109–248, § 206(a)(2)(B), inserted “(other than subsection (a)(5))” after “violates this section”.
+Subsec. (c). Pub. L. 109–248, § 206(a)(2)(B), inserted “(other than subsection (a)(5))” after “violates this section”.
 
 1998—Subsec. (c). Pub. L. 105–314 added subsec. (c).
 
@@ -271,11 +271,11 @@ Subsec. (c). Pub. L. 109–248, § 206(a)(2)(B), inserted “(other than subse
 
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
-## § 2245. Offenses resulting in death
+## § 2245. Offenses resulting in death
 
-**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] In General.—** A person who, in the course of an offense under this chapter, or section 1591, 2251, 2251A, 2260, 2421, 2422, 2423, or 2425, murders an individual, shall be punished by death or imprisoned for any term of years or for life.
+**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] In General.—** A person who, in the course of an offense under this chapter, or section 1591, 2251, 2251A, 2260, 2421, 2422, 2423, or 2425, murders an individual, shall be punished by death or imprisoned for any term of years or for life.
 
-(Added Pub. L. 103–322, title VI, § 60010(a)(2), Sept. 13, 1994, 108 Stat. 1972; amended Pub. L. 109–248, title II, § 206(a)(3), July 27, 2006, 120 Stat. 613.)
+(Added Pub. L. 103–322, title VI, § 60010(a)(2), Sept. 13, 1994, 108 Stat. 1972; amended Pub. L. 109–248, title II, § 206(a)(3), July 27, 2006, 120 Stat. 613.)
 
 **Editorial Notes**
 
@@ -287,7 +287,7 @@ A prior section 2245 was renumbered section 2246 of this title.
 
 2006—Pub. L. 109–248 amended section catchline and text generally. Prior to amendment, text read as follows: “A person who, in the course of an offense under this chapter, engages in conduct that results in the death of a person, shall be punished by death or imprisoned for any term of years or for life.”
 
-## § 2246. Definitions for chapter
+## § 2246. Definitions for chapter
 
 As used in this chapter—
 
@@ -319,7 +319,7 @@ but does not include supervision or other control (other than custody during spe
 
 **(7)** the term “Federal law enforcement officer” has the meaning given the term in section 115.
 
-(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3622, § 2245, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3662, § 2245; renumbered § 2246 and amended Pub. L. 103–322, title IV, § 40502, title VI, § 60010(a)(1), Sept. 13, 1994, 108 Stat. 1945, 1972; Pub. L. 105–314, title III, § 301(c), Oct. 30, 1998, 112 Stat. 2979; Pub. L. 117–103, div. W, title XII, § 1202(e), Mar. 15, 2022, 136 Stat. 925.)
+(Added Pub. L. 99–646, § 87(b), Nov. 10, 1986, 100 Stat. 3622, § 2245, and Pub. L. 99–654, § 2, Nov. 14, 1986, 100 Stat. 3662, § 2245; renumbered § 2246 and amended Pub. L. 103–322, title IV, § 40502, title VI, § 60010(a)(1), Sept. 13, 1994, 108 Stat. 1945, 1972; Pub. L. 105–314, title III, § 301(c), Oct. 30, 1998, 112 Stat. 2979; Pub. L. 117–103, div. W, title XII, § 1202(e), Mar. 15, 2022, 136 Stat. 925.)
 
 **Editorial Notes**
 
@@ -333,9 +333,9 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections.
 
 1998—Par. (6). Pub. L. 105–314 added par. (6).
 
-1994—Pub. L. 103–322, § 60010(a)(1), renumbered section 2245 of this title as this section.
+1994—Pub. L. 103–322, § 60010(a)(1), renumbered section 2245 of this title as this section.
 
-Par. (2)(D). Pub. L. 103–322, § 40502, added subpar. (D).
+Par. (2)(D). Pub. L. 103–322, § 40502, added subpar. (D).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -343,23 +343,23 @@ Par. (2)(D). Pub. L. 103–322, § 40502, added subpar. (D).
 
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
-## § 2247. Repeat offenders
+## § 2247. Repeat offenders
 
 **(a) Maximum Term of Imprisonment.—** The maximum term of imprisonment for a violation of this chapter after a prior sex offense conviction shall be twice the term otherwise provided by this chapter, unless section 3559(e) applies.
 
 **(b) Prior Sex Offense Conviction Defined.—** In this section, the term “prior sex offense conviction” has the meaning given that term in section 2426(b).
 
-(Added Pub. L. 103–322, title IV, § 40111(a), Sept. 13, 1994, 108 Stat. 1903; amended Pub. L. 105–314, title III, § 303, Oct. 30, 1998, 112 Stat. 2979; Pub. L. 108–21, title I, § 106(b), Apr. 30, 2003, 117 Stat. 655.)
+(Added Pub. L. 103–322, title IV, § 40111(a), Sept. 13, 1994, 108 Stat. 1903; amended Pub. L. 105–314, title III, § 303, Oct. 30, 1998, 112 Stat. 2979; Pub. L. 108–21, title I, § 106(b), Apr. 30, 2003, 117 Stat. 655.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Subsec. (a). Pub. L. 108–21 inserted “, unless section 3559(e) applies” before period at end.
+2003—Subsec. (a). Pub. L. 108–21 inserted “, unless section 3559(e) applies” before period at end.
 
 1998—Pub. L. 105–314 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Any person who violates a provision of this chapter, after one or more prior convictions for an offense punishable under this chapter, or after one or more prior convictions under the laws of any State relating to aggravated sexual abuse, sexual abuse, or abusive sexual contact have become final, is punishable by a term of imprisonment up to twice that otherwise authorized.”
 
-## § 2248. Mandatory restitution
+## § 2248. Mandatory restitution
 
 **(a) In General.—** Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
 
@@ -395,38 +395,38 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 **(c) Definition.—** For purposes of this section, the term “victim” means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim’s estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
 
-(Added Pub. L. 103–322, title IV, § 40113(a)(1), Sept. 13, 1994, 108 Stat. 1904; amended Pub. L. 104–132, title II, § 205(b), Apr. 24, 1996, 110 Stat. 1231.)
+(Added Pub. L. 103–322, title IV, § 40113(a)(1), Sept. 13, 1994, 108 Stat. 1904; amended Pub. L. 104–132, title II, § 205(b), Apr. 24, 1996, 110 Stat. 1231.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–132, § 205(b)(1), inserted “or 3663A” after “3663”.
+1996—Subsec. (a). Pub. L. 104–132, § 205(b)(1), inserted “or 3663A” after “3663”.
 
-Subsec. (b)(1). Pub. L. 104–132, § 205(b)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
+Subsec. (b)(1). Pub. L. 104–132, § 205(b)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
 
 “(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim’s losses as determined by the court, pursuant to paragraph (3); and
 
 “(B) the United States Attorney enforce the restitution order by all available and reasonable means.”
 
-Subsec. (b)(2). Pub. L. 104–132, § 205(b)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+Subsec. (b)(2). Pub. L. 104–132, § 205(b)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
 
-Subsec. (b)(4)(C), (D). Pub. L. 104–132, § 205(b)(2)(C), struck out subpars. (C) and (D), which related to court’s consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court’s entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
+Subsec. (b)(4)(C), (D). Pub. L. 104–132, § 205(b)(2)(C), struck out subpars. (C) and (D), which related to court’s consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court’s entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 
-Subsec. (b)(5) to (10). Pub. L. 104–132, § 205(b)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
+Subsec. (b)(5) to (10). Pub. L. 104–132, § 205(b)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
 
-Subsec. (c). Pub. L. 104–132, § 205(b)(3), (4), redesignated subsec. (f) as (c) and struck out former subsec. (c) relating to proof of claim.
+Subsec. (c). Pub. L. 104–132, § 205(b)(3), (4), redesignated subsec. (f) as (c) and struck out former subsec. (c) relating to proof of claim.
 
-Subsecs. (d), (e). Pub. L. 104–132, § 205(b)(3), struck out subsecs. (d) and (e) which read as follows:
+Subsecs. (d), (e). Pub. L. 104–132, § 205(b)(3), struck out subsecs. (d) and (e) which read as follows:
 
 “(d) Modification of Order.—A victim or the offender may petition the court at any time to modify a restitution order as appropriate in view of a change in the economic circumstances of the offender.
 
 “(e) Reference to Magistrate or Special Master.—The court may refer any issue arising in connection with a proposed order of restitution to a magistrate or special master for proposed findings of fact and recommendations as to disposition, subject to a de novo determination of the issue by the court.”
 
-Subsec. (f). Pub. L. 104–132, § 205(b)(4), redesignated subsec. (f) as (c).
+Subsec. (f). Pub. L. 104–132, § 205(b)(4), redesignated subsec. (f) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–132, title II, § 211, Apr. 24, 1996, 110 Stat. 1241, provided that: “The amendments made by this subtitle [subtitle A (§§ 201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out under section 3551 of this title] shall, to the extent constitutionally permissible, be effective for sentencing proceedings in cases in which the defendant is convicted on or after the date of enactment of this Act [Apr. 24, 1996].”
+Pub. L. 104–132, title II, § 211, Apr. 24, 1996, 110 Stat. 1241, provided that: “The amendments made by this subtitle [subtitle A (§§ 201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out under section 3551 of this title] shall, to the extent constitutionally permissible, be effective for sentencing proceedings in cases in which the defendant is convicted on or after the date of enactment of this Act [Apr. 24, 1996].”

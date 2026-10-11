@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION” in headings for subchapters I and II.
+1991—Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION” in headings for subchapters I and II.
 
-Pub. L. 102–40, title III, § 305(b)(2), title IV, § 402(c)(1), May 7, 1991, 105 Stat. 210, 239, renumbered items 5201 to 5228 as 8501 to 8528, respectively, and substituted “PATIENT” for “INMATE” in heading for subchapter II.
+Pub. L. 102–40, title III, § 305(b)(2), title IV, § 402(c)(1), May 7, 1991, 105 Stat. 210, 239, renumbered items 5201 to 5228 as 8501 to 8528, respectively, and substituted “PATIENT” for “INMATE” in heading for subchapter II.
 
 ## SUBCHAPTER I—PROPERTY LEFT ON DEPARTMENT FACILITY
 
@@ -29,9 +29,9 @@ Pub. L. 102–40, title III, § 305(b)(2), title IV, § 402(c)(1), May 7, 19
 
 **Editorial Notes**
 
-1991—Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION”.
+1991—Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION”.
 
-### § 8501. Vesting of property left by decedents
+### § 8501. Vesting of property left by decedents
 
 **(a)** Personal property left by any decedent upon premises used as a Department facility, which premises are subject to the exclusive legislative jurisdiction of the United States and are within the exterior boundaries of any State or dependency of the United States, shall vest and be disposed of as provided in this subchapter, except that—
 
@@ -41,7 +41,7 @@ Pub. L. 102–40, title III, § 305(b)(2), title IV, § 402(c)(1), May 7, 19
 
 **(b)** Any officer or employee of the United States in possession of any such property may deliver same to the executor (or the administrator with will annexed) who shall have qualified in either jurisdiction as provided in subsection (a)(1); or if none such then to the domiciliary administrator or to any other qualified administrator who shall demand such property. When delivery shall have been made to any such executor or administrator in accordance with this subsection, neither the United States nor any officer or employee thereof shall be liable therefor.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1256, § 5201; Pub. L. 99–576, title VII, § 701(93), Oct. 28, 1986, 100 Stat. 3299; renumbered § 8501, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1256, § 5201; Pub. L. 99–576, title VII, § 701(93), Oct. 28, 1986, 100 Stat. 3299; renumbered § 8501, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
 
 **Editorial Notes**
 
@@ -53,7 +53,7 @@ Subsec. (a). Pub. L. 102–83 substituted “Department” for “Veterans’ Ad
 
 1986—Subsec. (a)(1). Pub. L. 99–576 substituted “such person’s” for “his”.
 
-### § 8502. Disposition of unclaimed personal property
+### § 8502. Disposition of unclaimed personal property
 
 **(a)** Notwithstanding the provisions of section 8501 of this title, the Secretary may dispose of the personal property of such decedent left or found upon such premises as hereafter provided in this subchapter.
 
@@ -67,7 +67,7 @@ Subsec. (a). Pub. L. 102–83 substituted “Department” for “Veterans’ Ad
 
 **(f)** Any such property, the sale of which is authorized under this subchapter and which remains unsold, may be used, destroyed, or otherwise disposed of in accordance with regulations promulgated by the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1257, § 5202; Pub. L. 94–581, title II, § 208(a), Oct. 21, 1976, 90 Stat. 2860; Pub. L. 97–258, § 3(k)(9), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–576, title VII, § 701(94), Oct. 28, 1986, 100 Stat. 3299; renumbered § 8502 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(f)(11), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, § 1201(i)(11), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 107–135, title II, § 208(e)(9), Jan. 23, 2002, 115 Stat. 2464.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1257, § 5202; Pub. L. 94–581, title II, § 208(a), Oct. 21, 1976, 90 Stat. 2860; Pub. L. 97–258, § 3(k)(9), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–576, title VII, § 701(94), Oct. 28, 1986, 100 Stat. 3299; renumbered § 8502 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(f)(11), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title XII, § 1201(i)(11), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 107–135, title II, § 208(e)(9), Jan. 23, 2002, 115 Stat. 2464.)
 
 **Editorial Notes**
 
@@ -77,43 +77,43 @@ Subsec. (a). Pub. L. 102–83 substituted “Department” for “Veterans’ Ad
 
 1994—Subsec. (d). Pub. L. 103–446 substituted “Department of Veterans Affairs,” for “Department,”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5202 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5202 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “8501” for “5201”.
+Pub. L. 102–40, § 402(d)(1), substituted “8501” for “5201”.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1713(b)” for “613(b)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1713(b)” for “613(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
 Pub. L. 102–54 amended subsec. (b) as in effect immediately before the enactment of Pub. L. 102–40 by inserting a comma in second sentence before “namely,”.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–40, § 402(d)(1), substituted “8501” for “5201” in two places.
+Pub. L. 102–40, § 402(d)(1), substituted “8501” for “5201” in two places.
 
-Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1986—Subsec. (b). Pub. L. 99–576, § 701(94)(A), in first sentence substituted “such person’s last” for “his last” in two places, inserted “has personal property situated on such facility and” before “shall have designated”, substituted “to receive such property when such veteran, dependent or survivor dies,” for “to whom he desires his personal property situated upon such facility to be delivered, upon the death of such veteran”, and substituted “the Administrator” for “him” after “authorized by”.
+1986—Subsec. (b). Pub. L. 99–576, § 701(94)(A), in first sentence substituted “such person’s last” for “his last” in two places, inserted “has personal property situated on such facility and” before “shall have designated”, substituted “to receive such property when such veteran, dependent or survivor dies,” for “to whom he desires his personal property situated upon such facility to be delivered, upon the death of such veteran”, and substituted “the Administrator” for “him” after “authorized by”.
 
-Pub. L. 99–576, § 701(94)(B)(i)–(iv), in second sentence substituted “by such veteran, dependent, or survivor” for “by the veteran”, struck out “if he has” before “failed to request”, and substituted “the Administrator’s” for “his” and “in writing delivered to the Veterans’ Administration” for “as provided in this subchapter,”.
+Pub. L. 99–576, § 701(94)(B)(i)–(iv), in second sentence substituted “by such veteran, dependent, or survivor” for “by the veteran”, struck out “if he has” before “failed to request”, and substituted “the Administrator’s” for “his” and “in writing delivered to the Veterans’ Administration” for “as provided in this subchapter,”.
 
-Pub. L. 99–576, § 701(94)(B)(v), which directed that second sentence of subsec. (b) be amended by substituting “children, grandchildren, parents, grandparents, siblings” for “child, grandchild, mother, father, grandmother, grandfather, brother or sister”, was executed by substituting the new provisions for “child, grandchild, mother, father, grandmother, grandfather, brother, or sister”, to reflect the probable intent of Congress and the fact that a comma appears after “brother” in the former provisions.
+Pub. L. 99–576, § 701(94)(B)(v), which directed that second sentence of subsec. (b) be amended by substituting “children, grandchildren, parents, grandparents, siblings” for “child, grandchild, mother, father, grandmother, grandfather, brother or sister”, was executed by substituting the new provisions for “child, grandchild, mother, father, grandmother, grandfather, brother, or sister”, to reflect the probable intent of Congress and the fact that a comma appears after “brother” in the former provisions.
 
-Pub. L. 99–576, § 701(94)(C), struck out third sentence which read as follows: “In case two or more of those named above request the property, only one shall be entitled to possession thereof and in the order hereinbefore set forth, unless they otherwise agree in writing delivered to the Veterans’ Administration.”
+Pub. L. 99–576, § 701(94)(C), struck out third sentence which read as follows: “In case two or more of those named above request the property, only one shall be entitled to possession thereof and in the order hereinbefore set forth, unless they otherwise agree in writing delivered to the Veterans’ Administration.”
 
-Pub. L. 99–576, § 701(94)(D), in fourth sentence substituted “the Administrator’s designee may in such case deliver the property either jointly or separately in equal values, to those equally entitled thereto” for “his designee may in such case select the one to receive such possession,” and “in the discretion of the Administrator or the Administrator’s designee” for “in his discretion”.
+Pub. L. 99–576, § 701(94)(D), in fourth sentence substituted “the Administrator’s designee may in such case deliver the property either jointly or separately in equal values, to those equally entitled thereto” for “his designee may in such case select the one to receive such possession,” and “in the discretion of the Administrator or the Administrator’s designee” for “in his discretion”.
 
-Subsec. (c). Pub. L. 99–576, § 701(94)(E), substituted “the Administrator’s” for “his”.
+Subsec. (c). Pub. L. 99–576, § 701(94)(E), substituted “the Administrator’s” for “his”.
 
 1982—Subsec. (d). Pub. L. 97–258 substituted “section 1321(a)(45) of title 31” for “section 725s(a)(45) of title 31”.
 
@@ -125,11 +125,11 @@ Subsec. (c). Pub. L. 99–576, § 701(94)(E), substituted “the Administrator
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 8503. Notice of provisions of this subchapter
+### § 8503. Notice of provisions of this subchapter
 
 All persons having or bringing personal property on the premises of a Department facility shall be given reasonable notice of the provisions of this subchapter. In case of a mentally incompetent person, notice hereof shall be given the guardian or other person having custody or control of such person or, if none, to such person’s nearest relative if known. The admission to or continued maintenance in such facility after reasonable notice of the provisions of this subchapter shall constitute consent to the provisions hereof. The death of any person on any such facility or the leaving of property thereon shall be prima facie evidence of a valid agreement for the disposition of such property in accordance with the provisions of this subchapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1258, § 5203; Pub. L. 99–576, title VII, § 701(95), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8503, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1258, § 5203; Pub. L. 99–576, title VII, § 701(95), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8503, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
 
 **Editorial Notes**
 
@@ -141,11 +141,11 @@ Pub. L. 102–83 substituted “Department” for “Veterans’ Administration�
 
 1986—Pub. L. 99–576 substituted “such person’s” for “his” in second sentence.
 
-### § 8504. Disposition of other unclaimed property
+### § 8504. Disposition of other unclaimed property
 
 Any other unclaimed property found on the premises under the control of the Department shall be stored by the officer in charge of such premises and may be sold, used, destroyed, or otherwise disposed of in accordance with regulations promulgated by the Secretary if the owner thereof fails to claim same within ninety days. If undisposed of, the same may be reclaimed by the owner, such person’s personal representative or next of kin, upon payment of reasonable storage charges prescribed by regulations. If sold, the net proceeds thereof shall be credited to said post fund to be expended as other assets of such fund. The person who was entitled to such property, or such person’s legal representative, or assignee, shall be paid the proceeds of sale thereof, less expenses if claim therefor be made within five years from the date of finding. If the owner shall have died intestate without creditors or next of kin surviving, such proceeds shall not be paid to such person’s legal representative.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1258, § 5204; Pub. L. 99–576, title VII, § 701(96), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8504, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1258, § 5204; Pub. L. 99–576, title VII, § 701(96), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8504, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -157,11 +157,11 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Depa
 
 1986—Pub. L. 99–576 substituted “such person’s” for “his” in three places.
 
-### § 8505. Sale or other disposition of property
+### § 8505. Sale or other disposition of property
 
 Any unclaimed personal property as described in section 8502 of this title of veterans who have heretofore died or who may hereafter die while maintained as such in a Department facility, and also any unclaimed property heretofore or hereafter found or situated in such facility, may be sold, used, destroyed, or otherwise disposed of in accordance with this subchapter, and subject to regulations promulgated by the Secretary pursuant hereto; and the net proceeds of sale thereof shall be credited and be subject to disbursement as provided in this subchapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1258, § 5205; renumbered § 8505 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1258, § 5205; renumbered § 8505 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -171,11 +171,11 @@ Any unclaimed personal property as described in section 8502 of this title of ve
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Department” for “Veterans’ Administration”.
 
-### § 8506. Notice of sale
+### § 8506. Notice of sale
 
 At least ninety days before any sale pursuant to this subchapter, written or printed notice thereof describing the property to be sold shall be mailed to the owner of the property or, if deceased, to the owner’s executor or administrator, or to the nearest kin, if any such appear by the records of the Department. If none such appears from said records, similar notice shall be posted at the facility where the death occurred or property shall have been found (if in existence) and at the place where such property is situated at the time of such notice, and also at the place where probate notices are posted in the county wherein the sale is to be had. The person posting such notice shall make an affidavit setting forth the time and place of such posting and attaching thereto a copy of such notice, and such affidavit shall be prima facie evidence of such posting and admissible in evidence as proof of the same.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1258, § 5206; Pub. L. 99–576, title VII, § 701(97), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8506, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1258, § 5206; Pub. L. 99–576, title VII, § 701(97), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8506, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
 
 **Editorial Notes**
 
@@ -187,11 +187,11 @@ Pub. L. 102–83 substituted “Department” for “Veterans’ Administration�
 
 1986—Pub. L. 99–576 substituted “the owner’s” for “his” before “executor”.
 
-### § 8507. Payment of small shipping charges
+### § 8507. Payment of small shipping charges
 
 Upon receipt of a proper claim for such property under the provisions of this subchapter the Secretary is hereby authorized, in the Secretary’s discretion and in accordance with regulations prescribed by the Secretary, to pay mailing or shipping charges not to exceed $25 in the case of each deceased veteran as hereinabove defined.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, § 5207; Pub. L. 99–576, title VII, § 701(98), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8507, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, § 5207; Pub. L. 99–576, title VII, § 701(98), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8507, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -203,11 +203,11 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” in two plac
 
 1986—Pub. L. 99–576 substituted “the Administrator’s” for “his” and “prescribed by the Administrator” for “by him promulgated”.
 
-### § 8508. Relinquishment of Federal jurisdiction
+### § 8508. Relinquishment of Federal jurisdiction
 
 Subject to the provisions of this subchapter and to the extent necessary to effectuate the purposes of this subchapter, there is hereby relinquished to the respective State or dependency of the United States such jurisdiction pertaining to the administration of estates of decedents as may have been ceded to the United States by said State or dependency of the United States respecting the Federal reservation on which is situated any Department facility while such facility is operated by the Department; such jurisdiction with respect to any such property on any such reservation to be to the same extent as if such premises had not been ceded to the United States. Nothing in this section shall be construed to deprive any State or dependency of the United States of any jurisdiction which it now has nor to give any State, possession, or dependency of the United States authority over any Federal official as such on such premises or otherwise.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, § 5208; renumbered § 8508, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, § 5208; renumbered § 8508, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
 
 **Editorial Notes**
 
@@ -217,11 +217,11 @@ Subject to the provisions of this subchapter and to the extent necessary to effe
 
 Pub. L. 102–83 substituted “Department” for “Veterans’ Administration” in two places.
 
-### § 8509. Definitions
+### § 8509. Definitions
 
 The term “facility” or “Department facility” as used in this subchapter means those facilities over which the Department has direct and exclusive administrative jurisdiction, including hospitals or other facilities on property owned or leased by the United States while operated by the Department.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, § 5209; renumbered § 8509, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, § 5209; renumbered § 8509, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
 
 **Editorial Notes**
 
@@ -231,11 +231,11 @@ The term “facility” or “Department facility” as used in this subchapter 
 
 Pub. L. 102–83 substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-### § 8510. Finality of decisions
+### § 8510. Finality of decisions
 
 Decisions by the Secretary under this subchapter shall not be reviewable administratively by any other officer of the United States.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, § 5210; renumbered § 8510, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, § 5210; renumbered § 8510, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -251,17 +251,17 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION”.
+1991—Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “DEPARTMENT” for “VETERANS’ ADMINISTRATION”.
 
-Pub. L. 102–40, title III, § 305(b)(1), May 7, 1991, 105 Stat. 210, substituted “PATIENT” for “INMATE”.
+Pub. L. 102–40, title III, § 305(b)(1), May 7, 1991, 105 Stat. 210, substituted “PATIENT” for “INMATE”.
 
-### § 8520. Vesting of property left by decedents
+### § 8520. Vesting of property left by decedents
 
 **(a)** Whenever any veteran (admitted as a veteran), or a dependent or survivor of a veteran receiving care under the penultimate sentence of section 1781(b) of this title, shall die while a member or patient in any facility, or any hospital while being furnished care or treatment therein by the Department, and shall not leave any surviving spouse, next of kin, or heirs entitled, under the laws of the decedent’s domicile, to the decedent’s personal property as to which such person dies intestate, all such property, including money and choses in action, owned by such person at the time of death and not disposed of by will or otherwise, shall immediately vest in and become the property of the United States as trustee for the sole use and benefit of the General Post Fund (hereinafter in this subchapter referred to as the “Fund”), a trust fund prescribed by section 1321(a)(45) of title 31.
 
 **(b)** The provisions of subsection (a) are conditions precedent to the initial, and also to the further furnishing of care or treatment by the Department in a facility or hospital. The acceptance and the continued acceptance of care or treatment by any veteran (admitted as a veteran to a Department facility or hospital) shall constitute an acceptance of the provisions and conditions of this subchapter and have the effect of an assignment, effective at such person’s death, of such assets in accordance with and subject to the provisions of this subchapter and regulations issued in accordance with this subchapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, § 5220; Pub. L. 94–581, title II, § 208(b), Oct. 21, 1976, 90 Stat. 2860; Pub. L. 97–258, § 3(k)(9), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–576, title VII, § 701(99), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8520, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§ 4(a)(3), (4), 5(c)(1), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–135, title II, § 208(e)(9), Jan. 23, 2002, 115 Stat. 2464.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1259, § 5220; Pub. L. 94–581, title II, § 208(b), Oct. 21, 1976, 90 Stat. 2860; Pub. L. 97–258, § 3(k)(9), Sept. 13, 1982, 96 Stat. 1066; Pub. L. 99–576, title VII, § 701(99), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8520, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§ 4(a)(3), (4), 5(c)(1), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 107–14, § 8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–135, title II, § 208(e)(9), Jan. 23, 2002, 115 Stat. 2464.)
 
 **Editorial Notes**
 
@@ -273,19 +273,19 @@ Pub. L. 102–40, title III, § 305(b)(1), May 7, 1991, 105 Stat. 210, substit
 
 1991—Pub. L. 102–40 renumbered section 5220 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1713(b)” for “613(b)”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1713(b)” for “613(b)”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Subsec. (b). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-1986—Subsec. (a). Pub. L. 99–576, § 701(99)(A), substituted “any surviving” for “surviving him any”, “the decedent’s” for “his” in two places, “such person” for “he”, and “owned by such person” for “owned by him”.
+1986—Subsec. (a). Pub. L. 99–576, § 701(99)(A), substituted “any surviving” for “surviving him any”, “the decedent’s” for “his” in two places, “such person” for “he”, and “owned by such person” for “owned by him”.
 
-Subsec. (b). Pub. L. 99–576, § 701(99)(B), substituted “such person’s” for “his”.
+Subsec. (b). Pub. L. 99–576, § 701(99)(B), substituted “such person’s” for “his”.
 
 1982—Subsec. (a). Pub. L. 97–258 substituted “section 1321(a)(45) of title 31” for “section 725s(a)(45) of title 31”.
 
-1976—Subsec. (a). Pub. L. 94–581 inserted “, or a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title,” after “(admitted as a veteran)”.
+1976—Subsec. (a). Pub. L. 94–581 inserted “, or a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title,” after “(admitted as a veteran)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -293,11 +293,11 @@ Subsec. (b). Pub. L. 99–576, § 701(99)(B), substituted “such person’s�
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 8521. Presumption of contract for disposition of personalty
+### § 8521. Presumption of contract for disposition of personalty
 
 The fact of death of a veteran (admitted as such), or a dependent or survivor of a veteran receiving care under the penultimate sentence of section 1781(b) of this title, in a facility or hospital, while being furnished care or treatment therein by the Department, leaving no spouse, next of kin, or heirs, shall give rise to a conclusive presumption of a valid contract for the disposition in accordance with this subchapter, but subject to its conditions, of all property described in section 8520 of this title owned by said decedent at death and as to which such person dies intestate.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1260, § 5221; Pub. L. 94–581, title II, § 208(c), Oct. 21, 1976, 90 Stat. 2860; Pub. L. 99–576, title VII, § 701(100), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8521 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§ 4(a)(3), (4), 5(c)(1), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 107–135, title II, § 208(e)(9), Jan. 23, 2002, 115 Stat. 2464.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1260, § 5221; Pub. L. 94–581, title II, § 208(c), Oct. 21, 1976, 90 Stat. 2860; Pub. L. 99–576, title VII, § 701(100), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8521 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§ 4(a)(3), (4), 5(c)(1), Aug. 6, 1991, 105 Stat. 404, 406; Pub. L. 107–135, title II, § 208(e)(9), Jan. 23, 2002, 115 Stat. 2464.)
 
 **Editorial Notes**
 
@@ -311,7 +311,7 @@ Pub. L. 102–83 substituted “1713(b)” for “613(b)” and “Department”
 
 1986—Pub. L. 99–576 substituted “such person” for “he”.
 
-1976—Pub. L. 94–581 inserted “, or a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title,” after “(admitted as such)”.
+1976—Pub. L. 94–581 inserted “, or a dependent or survivor of a veteran receiving care under the last sentence of section 613(b) of this title,” after “(admitted as such)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -319,11 +319,11 @@ Pub. L. 102–83 substituted “1713(b)” for “613(b)” and “Department”
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 8522. Sale of assets accruing to the Fund
+### § 8522. Sale of assets accruing to the Fund
 
 Any assets heretofore or hereafter accruing to the benefit of the Fund, other than money, but including jewelry and other personal effects, may be sold at the times and places and in the manner prescribed by regulations issued by the Secretary. Upon receipt of the purchase price the Secretary is authorized to deliver at the place of sale, said property sold, and upon request to execute and deliver appropriate assignments or other conveyances thereof in the name of the United States, which shall pass to the purchaser such title as decedent had at date of death. The net proceeds after paying any proper sales expense as determined by the Secretary shall forthwith be paid to the Treasurer of the United States to the credit of the Fund; and may be disbursed as are other moneys in the Fund by the Division of Disbursements, Treasury Department, upon order of said Secretary. Articles of personal adornment which are obviously of sentimental value, shall be retained and not sold or otherwise disposed of until the expiration of five years from the date of death of the veteran, without a claim therefor, unless for sanitary or other proper reasons it is deemed unsafe to retain same, in which event they may be destroyed forthwith. Any other articles coming into possession of the Secretary or the Secretary’s representative by virtue of this subchapter which, under regulations promulgated by the Secretary, are determined to be unsalable may be destroyed forthwith or at the time prescribed by regulations, or may be used for the purposes for which disbursements might properly be made from the Fund, or if not usable, otherwise disposed of in accordance with regulations.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1260, § 5222; Pub. L. 99–576, title VII, § 701(101), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8522, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1260, § 5222; Pub. L. 99–576, title VII, § 701(101), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8522, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -341,11 +341,11 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Secr
 
 Division of Disbursements of Treasury Department consolidated into Fiscal Service of Treasury Department by section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees. See section 306 of Title 31, Money and Finance.
 
-### § 8523. Disbursements from the Fund
+### § 8523. Disbursements from the Fund
 
 Disbursements from the Fund shall be made by the Division of Disbursements, Treasury Department, upon the order and within the discretion of the Secretary for the benefit of members and patients while being supplied care or treatment by the Department in any facility or hospital. The authority contained in the preceding sentence is not limited to facilities or hospitals under direct administrative control of the Department. There shall be paid out of the assets of the decedent so far as may be the valid claims of creditors against the decedent’s estate that would be legally payable therefrom in the absence of this subchapter and without the benefit of any exemption statute, and which may be presented to the Department within one year from the date of death, or within the time, to the person, and in the manner required or permitted by the law of the State wherein administration, if any, is had upon the estate of the deceased veteran; and also the proper expenses and costs of administration, if any. If the decedent’s estate is insolvent the distribution to creditors shall be in accordance with the laws of the decedent’s domicile, and the preferences and priorities prescribed thereby shall govern, subject to any applicable law of the United States.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1260, § 5223; Pub. L. 99–576, title VII, § 701(102), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8523, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1260, § 5223; Pub. L. 99–576, title VII, § 701(102), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8523, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -363,11 +363,11 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Depa
 
 Division of Disbursements of Treasury Department consolidated into Fiscal Service of Treasury Department by section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees. See section 306 of Title 31, Money and Finance.
 
-### § 8524. Disposal of remaining assets
+### § 8524. Disposal of remaining assets
 
 The remainder of such assets or their proceeds shall become assets of the United States as trustee for the Fund and disposed of in accordance with this subchapter. If there is administration upon the decedent’s estate such assets, other than money, upon claim therefor within the time required by law, shall be delivered by the administrator of the estate to the Secretary or the Secretary’s authorized representative, as upon final distribution; and upon the same claim there shall be paid to the Treasurer of the United States for credit to the Fund any such money, available for final distribution. In the absence of administration, any money, chose in action, or other property of the deceased veteran held by any person shall be paid or transferred to the Secretary upon demand by the Secretary or the Secretary’s duly authorized representative, who shall deliver itemized receipt therefor. Such payment or transfer shall constitute a complete acquittance of the transferor with respect to any claims by any administrator, creditor, or next of kin of such decedent.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1261, § 5224; Pub. L. 99–576, title VII, § 701(103), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8524, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1261, § 5224; Pub. L. 99–576, title VII, § 701(103), Oct. 28, 1986, 100 Stat. 3300; renumbered § 8524, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -379,11 +379,11 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Secr
 
 1986—Pub. L. 99–576 substituted “the Administrator’s” for “his” in two places, and “the Administrator” for “him”.
 
-### § 8525. Court actions
+### § 8525. Court actions
 
 If necessary to obtain such assets the Secretary, through the Secretary’s authorized attorneys, may bring and prosecute appropriate actions at law or other legal proceedings, the costs and expenses thereof to be paid as are other administrative expenses of the Department.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1261, § 5225; Pub. L. 99–576, title VII, § 701(104), Oct. 28, 1986, 100 Stat. 3301; renumbered § 8525, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1261, § 5225; Pub. L. 99–576, title VII, § 701(104), Oct. 28, 1986, 100 Stat. 3301; renumbered § 8525, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -395,11 +395,11 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator”, “Secreta
 
 1986—Pub. L. 99–576 substituted “the Administrator’s” for “his”.
 
-### § 8526. Filing of claims for assets
+### § 8526. Filing of claims for assets
 
 Notwithstanding the crediting to said Fund of the assets, or proceeds thereof, of any decedent, whether upon determination by a court or the Department pursuant to the provisions of section 8520 of this title, any person claiming a right to such assets may within five years after the death of the decedent file a claim on behalf of such person and any other claiming with the Secretary. Upon receipt of due proof that any person was at date of death of the veteran entitled to the veteran’s personal property, or a part thereof, under the laws of the State of domicile of the decedent, the Secretary may pay out of the Fund, but not to exceed the net amount credited thereto from said decedent’s estate less any necessary expenses, the amount to which such person, or persons, was or were so entitled, and upon similar claim any assets of the decedent which shall not have been disposed of shall be delivered in kind to the parties legally entitled thereto. If any person so entitled is under legal disability at the date of death of such decedent, such five-year period of limitation shall run from the termination or removal of legal disability. In the event of doubt as to entitlement, the Secretary may cause administration or other appropriate proceedings to be instituted in any court having jurisdiction. In determining questions of fact or law involved in the adjudication of claims made under this section, no judgment, decree, or order entered in any action at law, suit in equity, or other legal proceeding of any character purporting to determine entitlement to said assets or any part thereof, shall be binding upon the United States or the Secretary or determinative of any fact or question involving entitlement to any such property or the proceeds thereof, or any part of the Fund, unless the Secretary has been seasonably served with notice and permitted to become a party to such suit or proceeding if the Secretary makes a request therefor within thirty days after such notice. Notice may be served in person or by registered mail or by certified mail upon the Secretary, or upon the Secretary’s authorized attorney in the State wherein the action or proceedings may be pending. Notice may be waived by the Secretary or by the Secretary’s authorized attorney, in which event the finding, judgment, or decree shall have the same effect as if the Secretary were a party and served with notice. Any necessary court costs or expenses if authorized by the Secretary may be paid as are other administrative expenses of the Department.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1261, § 5226; Pub. L. 86–507, § 1(33), June 11, 1960, 74 Stat. 202; Pub. L. 99–576, title VII, § 701(105), Oct. 28, 1986, 100 Stat. 3301; renumbered § 8526 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1261, § 5226; Pub. L. 86–507, § 1(33), June 11, 1960, 74 Stat. 202; Pub. L. 99–576, title VII, § 701(105), Oct. 28, 1986, 100 Stat. 3301; renumbered § 8526 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -413,11 +413,11 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator”, “Secreta
 
 1960—Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-### § 8527. Notice of provisions of subchapter
+### § 8527. Notice of provisions of subchapter
 
 The Secretary shall prescribe a form of application for hospital treatment and domiciliary care which shall include notice of the provisions of this subchapter.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1262, § 5227; renumbered § 8527, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1262, § 5227; renumbered § 8527, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -427,11 +427,11 @@ The Secretary shall prescribe a form of application for hospital treatment and d
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
-### § 8528. Investment of the Fund
+### § 8528. Investment of the Fund
 
 Money in the Fund not required for current disbursements may be invested and reinvested by the Secretary of the Treasury in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1262, § 5228; renumbered § 8528, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1262, § 5228; renumbered § 8528, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
 
 **Editorial Notes**
 

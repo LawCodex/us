@@ -19,29 +19,29 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2013—Pub. L. 112–260, title III, § 302(a)(2), Jan. 10, 2013, 126 Stat. 2425, which directed amendment of the table of sections for chapter 72 by adding item 7255 and striking out former item 7255 “Offices”, without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
+2013—Pub. L. 112–260, title III, § 302(a)(2), Jan. 10, 2013, 126 Stat. 2425, which directed amendment of the table of sections for chapter 72 by adding item 7255 and striking out former item 7255 “Offices”, without specifying the Code title to be amended, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
-2008—Pub. L. 110–389, title VI, § 604(b), Oct. 10, 2008, 122 Stat. 4179, added item 7288.
+2008—Pub. L. 110–389, title VI, § 604(b), Oct. 10, 2008, 122 Stat. 4179, added item 7288.
 
-2001—Pub. L. 107–103, title VI, §§ 604(c)(2), 605(b), Dec. 27, 2001, 115 Stat. 1000, substituted “Practice and registration fees” for “Practice fee” in item 7285 and added item 7287.
+2001—Pub. L. 107–103, title VI, §§ 604(c)(2), 605(b), Dec. 27, 2001, 115 Stat. 1000, substituted “Practice and registration fees” for “Practice fee” in item 7285 and added item 7287.
 
-1999—Pub. L. 106–117, title X, §§ 1021(b), 1024(b), Nov. 30, 1999, 113 Stat. 1592, 1594, added items 7257 and 7299.
+1999—Pub. L. 106–117, title X, §§ 1021(b), 1024(b), Nov. 30, 1999, 113 Stat. 1592, 1594, added items 7257 and 7299.
 
-1998—Pub. L. 105–368, title V, § 512(a)(3), (4)(A), Nov. 11, 1998, 112 Stat. 3341, substituted “APPEALS FOR VETERANS CLAIMS” for “VETERANS APPEALS” in chapter heading, struck out “of Veterans Appeals” after “Court” in item 7286, substituted “Court decision” for “United States Court of Veterans Appeals decision” in item 7291, and struck out “Court of Veterans Appeals” before “Retirement Fund” in item 7298.
+1998—Pub. L. 105–368, title V, § 512(a)(3), (4)(A), Nov. 11, 1998, 112 Stat. 3341, substituted “APPEALS FOR VETERANS CLAIMS” for “VETERANS APPEALS” in chapter heading, struck out “of Veterans Appeals” after “Court” in item 7286, substituted “Court decision” for “United States Court of Veterans Appeals decision” in item 7291, and struck out “Court of Veterans Appeals” before “Retirement Fund” in item 7298.
 
-1991—Pub. L. 102–82, § 2(b), Aug. 6, 1991, 105 Stat. 375, added item 7286.
+1991—Pub. L. 102–82, § 2(b), Aug. 6, 1991, 105 Stat. 375, added item 7286.
 
-Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4051 to 4098 as 7251 to 7298, respectively.
+Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4051 to 4098 as 7251 to 7298, respectively.
 
-1989—Pub. L. 101–94, title I, § 101(b), Aug. 16, 1989, 103 Stat. 625, added subchapter V heading and items 4096 to 4098.
+1989—Pub. L. 101–94, title I, § 101(b), Aug. 16, 1989, 103 Stat. 625, added subchapter V heading and items 4096 to 4098.
 
 ## SUBCHAPTER I—ORGANIZATION AND JURISDICTION
 
-### § 7251. Status
+### § 7251. Status
 
 There is hereby established, under Article I of the Constitution of the United States, a court of record to be known as the United States Court of Appeals for Veterans Claims.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4113, § 4051; renumbered § 7251, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 511(b), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4113, § 4051; renumbered § 7251, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 511(b), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -55,13 +55,13 @@ There is hereby established, under Article I of the Constitution of the United S
 
 **Change of Name**
 
-Pub. L. 105–368, title V, § 511(a), Nov. 11, 1998, 112 Stat. 3341, provided that: “The United States Court of Veterans Appeals is hereby renamed as, and shall hereafter be known and designated as, the United States Court of Appeals for Veterans Claims.”
+Pub. L. 105–368, title V, § 511(a), Nov. 11, 1998, 112 Stat. 3341, provided that: “The United States Court of Veterans Appeals is hereby renamed as, and shall hereafter be known and designated as, the United States Court of Appeals for Veterans Claims.”
 
-Pub. L. 105–368, title V, § 512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: “Any reference in a law, regulation, document, paper, or other record of the United States to the United States Court of Veterans Appeals shall be deemed to be a reference to the United States Court of Appeals for Veterans Claims.”
+Pub. L. 105–368, title V, § 512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: “Any reference in a law, regulation, document, paper, or other record of the United States to the United States Court of Veterans Appeals shall be deemed to be a reference to the United States Court of Appeals for Veterans Claims.”
 
 **Effective Date of 2001 Amendment; Construction**
 
-Pub. L. 107–103, title VI, § 603(c), (d), Dec. 27, 2001, 115 Stat. 999, provided that:
+Pub. L. 107–103, title VI, § 603(c), (d), Dec. 27, 2001, 115 Stat. 999, provided that:
 
 > **“(c) Construction.—** The repeal in subsection (a) [repealing section 402 of Pub. L. 100–687, formerly set out as a note below] may not be construed to confer upon the United States Court of Appeals for Veterans Claims jurisdiction over any appeal or other matter not within the jurisdiction of the Court as provided in section 7266(a) of title 38, United States Code.
 
@@ -73,13 +73,13 @@ Pub. L. 107–103, title VI, § 603(c), (d), Dec. 27, 2001, 115 Stat. 999, pro
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title V, § 513, Nov. 11, 1998, 112 Stat. 3342, provided that: “This subtitle [subtitle B (§§ 511–513) of title V of Pub. L. 105–368, see Tables for classification], and the amendments made by this subtitle, shall take effect on the first day of the first month beginning more than 90 days after the date of the enactment of this Act [Nov. 11, 1998].”
+Pub. L. 105–368, title V, § 513, Nov. 11, 1998, 112 Stat. 3342, provided that: “This subtitle [subtitle B (§§ 511–513) of title V of Pub. L. 105–368, see Tables for classification], and the amendments made by this subtitle, shall take effect on the first day of the first month beginning more than 90 days after the date of the enactment of this Act [Nov. 11, 1998].”
 
 **Effective Date**
 
-Pub. L. 100–687, div. A, title IV, § 401, Nov. 18, 1988, 102 Stat. 4122, as amended by Pub. L. 101–94, title III, § 301, Aug. 16, 1989, 103 Stat. 628, provided that:
+Pub. L. 100–687, div. A, title IV, § 401, Nov. 18, 1988, 102 Stat. 4122, as amended by Pub. L. 101–94, title III, § 301, Aug. 16, 1989, 103 Stat. 628, provided that:
 
-> **“(a) General Effective Date.—** Except as otherwise provided in this section, this division (and the amendments made by this Act) [div. A (§§ 1–403) of Pub. L. 100–687, known as the ‘Veterans’ Judicial Review Act’, see Tables for classification] shall take effect on September 1, 1989.
+> **“(a) General Effective Date.—** Except as otherwise provided in this section, this division (and the amendments made by this Act) [div. A (§§ 1–403) of Pub. L. 100–687, known as the ‘Veterans’ Judicial Review Act’, see Tables for classification] shall take effect on September 1, 1989.
 
 > **“(b) Effective Date for Certain Transition Provisions.—** The amendment made by section 201(a) [amending section 4001 [now 7101] of this title] shall take effect on February 1, 1989.
 
@@ -91,13 +91,13 @@ Pub. L. 100–687, div. A, title IV, § 401, Nov. 18, 1988, 102 Stat. 4122, as
 
 **Chapter Applicable to Claims Alleging Previous Determination the Product of Clear and Unmistakable Error**
 
-Pub. L. 105–111, § 1(c)(2), Nov. 21, 1997, 111 Stat. 2272, provided that: “Notwithstanding section 402 of the Veterans Judicial Review Act (38 U.S.C. 7251 note), chapter 72 of title 38, United States Code, shall apply with respect to any decision of the Board of Veterans’ Appeals on a claim alleging that a previous determination of the Board was the product of clear and unmistakable error if that claim is filed after, or was pending before the Department of Veterans Affairs, the Court of Veterans Appeals [now Court of Appeals for Veterans Claims], the Court of Appeals for the Federal Circuit, or the Supreme Court on the date of the enactment of this Act [Nov. 21, 1997].”
+Pub. L. 105–111, § 1(c)(2), Nov. 21, 1997, 111 Stat. 2272, provided that: “Notwithstanding section 402 of the Veterans Judicial Review Act (38 U.S.C. 7251 note), chapter 72 of title 38, United States Code, shall apply with respect to any decision of the Board of Veterans’ Appeals on a claim alleging that a previous determination of the Board was the product of clear and unmistakable error if that claim is filed after, or was pending before the Department of Veterans Affairs, the Court of Veterans Appeals [now Court of Appeals for Veterans Claims], the Court of Appeals for the Federal Circuit, or the Supreme Court on the date of the enactment of this Act [Nov. 21, 1997].”
 
 **Chapter Applicable to Cases Filed On or After November 18, 1988**
 
-Pub. L. 100–687, div. A, title IV, § 402, Nov. 18, 1988, 102 Stat. 4122, as amended by Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239, which provided that this chapter applied to any case in which a notice of disagreement was filed under section 7105 of this title on or after Nov. 18, 1988, was repealed by Pub. L. 107–103, title VI, § 603(a), Dec. 27, 2001, 115 Stat. 999.
+Pub. L. 100–687, div. A, title IV, § 402, Nov. 18, 1988, 102 Stat. 4122, as amended by Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239, which provided that this chapter applied to any case in which a notice of disagreement was filed under section 7105 of this title on or after Nov. 18, 1988, was repealed by Pub. L. 107–103, title VI, § 603(a), Dec. 27, 2001, 115 Stat. 999.
 
-### § 7252. Jurisdiction; finality of decisions
+### § 7252. Jurisdiction; finality of decisions
 
 **(a)** The Court of Appeals for Veterans Claims shall have exclusive jurisdiction to review decisions of the Board of Veterans’ Appeals. The Secretary may not seek review of any such decision. The Court shall have power to affirm, modify, or reverse a decision of the Board or to remand the matter, as appropriate.
 
@@ -105,7 +105,7 @@ Pub. L. 100–687, div. A, title IV, § 402, Nov. 18, 1988, 102 Stat. 4122, as
 
 **(c)** Decisions by the Court are subject to review as provided in section 7292 of this title.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4113, § 4052; renumbered § 7252 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4113, § 4052; renumbered § 7252 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -113,19 +113,19 @@ Pub. L. 100–687, div. A, title IV, § 402, Nov. 18, 1988, 102 Stat. 4122, as
 
 1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4052 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4052 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Pub. L. 102–54 amended subsec. (a) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “Court” for “court” in last sentence.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1155” for “355”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1155” for “355”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7261” for “4061”.
+Pub. L. 102–40, § 402(d)(1), substituted “7261” for “4061”.
 
-Subsec. (c). Pub. L. 102–40, § 402(d)(1), substituted “7292” for “4092”.
+Subsec. (c). Pub. L. 102–40, § 402(d)(1), substituted “7292” for “4092”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -133,7 +133,7 @@ Subsec. (c). Pub. L. 102–40, § 402(d)(1), substituted “7292” for “409
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7253. Composition
+### § 7253. Composition
 
 **(a) Composition.—** The Court of Appeals for Veterans Claims is composed of at least three and not more than seven judges, one of whom shall serve as chief judge in accordance with subsection (d).
 
@@ -223,7 +223,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(2)** Effective as of January 1, 2028, an appointment may not be made to the Court if the appointment would result in there being more judges of the Court than the authorized number of judges of the Court specified in subsection (a).
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4114, § 4053; amended Pub. L. 101–94, title I, § 102(c), Aug. 16, 1989, 103 Stat. 626; renumbered § 7253, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, § 3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, § 801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§ 501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§ 1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, § 601, Dec. 27, 2001, 115 Stat. 998; Pub. L. 107–273, div. C, title I, § 11043(f), Nov. 2, 2002, 116 Stat. 1856; Pub. L. 108–454, title VIII, § 802, Dec. 10, 2004, 118 Stat. 3625; Pub. L. 109–233, title V, § 503(15), June 15, 2006, 120 Stat. 417; Pub. L. 110–389, title VI, § 601, Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–260, title III, § 302(b), Jan. 10, 2013, 126 Stat. 2425; Pub. L. 114–315, title II, §§ 201(a), 204(a), Dec. 16, 2016, 130 Stat. 1548, 1549; Pub. L. 116–159, div. E, title II, § 5205, Oct. 1, 2020, 134 Stat. 750; Pub. L. 118–196, § 7, Dec. 23, 2024, 138 Stat. 2675.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4114, § 4053; amended Pub. L. 101–94, title I, § 102(c), Aug. 16, 1989, 103 Stat. 626; renumbered § 7253, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, § 3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, § 801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§ 501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§ 1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, § 601, Dec. 27, 2001, 115 Stat. 998; Pub. L. 107–273, div. C, title I, § 11043(f), Nov. 2, 2002, 116 Stat. 1856; Pub. L. 108–454, title VIII, § 802, Dec. 10, 2004, 118 Stat. 3625; Pub. L. 109–233, title V, § 503(15), June 15, 2006, 120 Stat. 417; Pub. L. 110–389, title VI, § 601, Oct. 10, 2008, 122 Stat. 4176; Pub. L. 112–260, title III, § 302(b), Jan. 10, 2013, 126 Stat. 2425; Pub. L. 114–315, title II, §§ 201(a), 204(a), Dec. 16, 2016, 130 Stat. 1548, 1549; Pub. L. 116–159, div. E, title II, § 5205, Oct. 1, 2020, 134 Stat. 750; Pub. L. 118–196, § 7, Dec. 23, 2024, 138 Stat. 2675.)
 
 **Editorial Notes**
 
@@ -233,17 +233,17 @@ The date of the enactment of the Veterans Benefits Improvement Act of 2024, refe
 
 **Amendments**
 
-2024—Subsec. (i)(1). Pub. L. 118–196, § 7(1), designated existing provisions as subpar. (A), substituted “Subject to paragraph (2), effective during the period beginning on December 31, 2009, and ending on the date of the enactment of the Veterans Benefits Improvement Act of 2024” for “Subject to paragraph (2), effective as of December 31, 2009”, and added subpar. (B).
+2024—Subsec. (i)(1). Pub. L. 118–196, § 7(1), designated existing provisions as subpar. (A), substituted “Subject to paragraph (2), effective during the period beginning on December 31, 2009, and ending on the date of the enactment of the Veterans Benefits Improvement Act of 2024” for “Subject to paragraph (2), effective as of December 31, 2009”, and added subpar. (B).
 
-Subsec. (i)(2). Pub. L. 118–196, § 7(2), substituted “January 1, 2028” for “January 1, 2026”.
+Subsec. (i)(2). Pub. L. 118–196, § 7(2), substituted “January 1, 2028” for “January 1, 2026”.
 
 2020—Subsec. (i)(2). Pub. L. 116–159 substituted “January 1, 2026” for “January 1, 2021”.
 
-2016—Subsec. (d)(1)(B), (C). Pub. L. 114–315, § 204(a)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
+2016—Subsec. (d)(1)(B), (C). Pub. L. 114–315, § 204(a)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (d)(2). Pub. L. 114–315, § 204(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In any case in which there is no judge of the Court in regular active service who has served as a judge of the Court for at least one year, the judge of the court in regular active service who is senior in commission and has not served previously as chief judge shall act as the chief judge.”
+Subsec. (d)(2). Pub. L. 114–315, § 204(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In any case in which there is no judge of the Court in regular active service who has served as a judge of the Court for at least one year, the judge of the court in regular active service who is senior in commission and has not served previously as chief judge shall act as the chief judge.”
 
-Subsec. (i)(2). Pub. L. 114–315, § 201(a), substituted “January 1, 2021” for “January 1, 2013”.
+Subsec. (i)(2). Pub. L. 114–315, § 201(a), substituted “January 1, 2021” for “January 1, 2013”.
 
 2013—Subsec. (f)(1). Pub. L. 112–260, which directed substitution of “engaging in the practice of law, or violating section 7255(c) of this title” for “or engaging in the practice of law” in section 7253(f)(1), without specifying the Code title to be amended, was executed to subsec. (f)(1) of this section, to reflect the probable intent of Congress.
 
@@ -251,37 +251,37 @@ Subsec. (i)(2). Pub. L. 114–315, § 201(a), substituted “January 1, 2021�
 
 2006—Subsec. (d)(5). Pub. L. 109–233 substituted “Court” for “court”.
 
-2004—Subsec. (d)(1). Pub. L. 108–454, § 802(a), inserted “The chief judge of the Court is the head of the Court.” after “(1)”.
+2004—Subsec. (d)(1). Pub. L. 108–454, § 802(a), inserted “The chief judge of the Court is the head of the Court.” after “(1)”.
 
-Subsec. (d)(4)(A). Pub. L. 108–454, § 802(b), substituted “Court” for “court” in cls. (i) and (ii).
+Subsec. (d)(4)(A). Pub. L. 108–454, § 802(b), substituted “Court” for “court” in cls. (i) and (ii).
 
-Subsec. (h)(4). Pub. L. 108–454, § 802(c), substituted “December 27, 2001,” for “the date of the enactment of this subsection”.
+Subsec. (h)(4). Pub. L. 108–454, § 802(c), substituted “December 27, 2001,” for “the date of the enactment of this subsection”.
 
-2002—Subsec. (g)(1). Pub. L. 107–273, § 11043(f)(1), substituted “chapter 16” for “section 372(c)” and “such chapter” for “such section”.
+2002—Subsec. (g)(1). Pub. L. 107–273, § 11043(f)(1), substituted “chapter 16” for “section 372(c)” and “such chapter” for “such section”.
 
-Subsec. (g)(2). Pub. L. 107–273, § 11043(f)(2), substituted “sections 354(b) through 360” for “paragraphs (7) through (15) of section 372(c)” and “section 354(b) or 355” for “paragraph (7) or (8) of section 372(c)”.
+Subsec. (g)(2). Pub. L. 107–273, § 11043(f)(2), substituted “sections 354(b) through 360” for “paragraphs (7) through (15) of section 372(c)” and “section 354(b) or 355” for “paragraph (7) or (8) of section 372(c)”.
 
-Subsec. (g)(3)(B). Pub. L. 107–273, § 11043(f)(3), substituted “361” for “372(c)(16)”.
+Subsec. (g)(3)(B). Pub. L. 107–273, § 11043(f)(3), substituted “361” for “372(c)(16)”.
 
-2001—Subsecs. (b), (c), (f), (g). Pub. L. 107–103, § 601(b), inserted subsec. headings.
+2001—Subsecs. (b), (c), (f), (g). Pub. L. 107–103, § 601(b), inserted subsec. headings.
 
-Subsec. (h). Pub. L. 107–103, § 601(a), added subsec. (h).
+Subsec. (h). Pub. L. 107–103, § 601(a), added subsec. (h).
 
-1999—Subsec. (a). Pub. L. 106–117, § 1031, inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Court of Appeals for Veterans Claims shall be composed of a chief judge and at least two and not more than six associate judges.”
+1999—Subsec. (a). Pub. L. 106–117, § 1031, inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “The Court of Appeals for Veterans Claims shall be composed of a chief judge and at least two and not more than six associate judges.”
 
-Subsec. (d). Pub. L. 106–117, § 1032(a), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The chief judge is the head of the Court”.
+Subsec. (d). Pub. L. 106–117, § 1032(a), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The chief judge is the head of the Court”.
 
-Subsec. (e). Pub. L. 106–117, § 1033, inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows:
+Subsec. (e). Pub. L. 106–117, § 1033, inserted heading and amended text of subsec. (e) generally. Prior to amendment, text read as follows:
 
 “(e)(1) The chief judge of the Court shall receive a salary at the same rate as is received by judges of the United States Courts of Appeals.
 
 “(2) Each judge of the Court, other than the chief judge, shall receive a salary at the same rate as is received by judges of the United States district courts.”
 
-1998—Subsec. (a). Pub. L. 105–368, § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+1998—Subsec. (a). Pub. L. 105–368, § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-Subsec. (c). Pub. L. 105–368, § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+Subsec. (c). Pub. L. 105–368, § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-Pub. L. 105–368, § 501, inserted at end “A judge who is nominated by the President for appointment to an additional term on the Court without a break in service and whose term of office expires while that nomination is pending before the Senate may continue in office for up to 1 year while that nomination is pending.”
+Pub. L. 105–368, § 501, inserted at end “A judge who is nominated by the President for appointment to an additional term on the Court without a break in service and whose term of office expires while that nomination is pending before the Senate may continue in office for up to 1 year while that nomination is pending.”
 
 1992—Subsec. (g). Pub. L. 102–585 designated existing provisions as par. (1) and added pars. (2) and (3).
 
@@ -295,19 +295,19 @@ Subsec. (g). Pub. L. 102–82 added subsec. (g).
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–315, title II, § 204(b), Dec. 16, 2016, 130 Stat. 1550, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to the selection of a chief judge occurring on or after January 1, 2020.”
+Pub. L. 114–315, title II, § 204(b), Dec. 16, 2016, 130 Stat. 1550, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to the selection of a chief judge occurring on or after January 1, 2020.”
 
 **Effective Date of 2013 Amendment**
 
 Amendment by Pub. L. 112–260 effective on the date that is 180 days after Jan. 10, 2013, see section 302(c)(1) of Pub. L. 112–260, set out as a note under section 7255 of this title.
 
-Pub. L. 112–260, title III, § 302(c)(2), Jan. 10, 2013, 126 Stat. 2426, provided that: “The amendment made by subsection (b) [amending this section] shall apply with respect to judges confirmed on or after January 1, 2012.”
+Pub. L. 112–260, title III, § 302(c)(2), Jan. 10, 2013, 126 Stat. 2426, provided that: “The amendment made by subsection (b) [amending this section] shall apply with respect to judges confirmed on or after January 1, 2012.”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–117, title X, § 1036, Nov. 30, 1999, 113 Stat. 1595, provided that:
+Pub. L. 106–117, title X, § 1036, Nov. 30, 1999, 113 Stat. 1595, provided that:
 
-> **“(a) Effective Date.—** The amendments made by this subtitle [subtitle C (§§ 1031–1036) of title X of Pub. L. 106–117, amending this section and sections 7254, 7281, 7296, and 7297 of this title] shall take effect on the date of the enactment of this Act [Nov. 30, 1999].
+> **“(a) Effective Date.—** The amendments made by this subtitle [subtitle C (§§ 1031–1036) of title X of Pub. L. 106–117, amending this section and sections 7254, 7281, 7296, and 7297 of this title] shall take effect on the date of the enactment of this Act [Nov. 30, 1999].
 
 > **“(b) Savings Provision for Incumbent Chief Judge.—** The amendments made by this subtitle shall not apply while the individual who is chief judge of the Court [United States Court of Appeals for Veterans Claims] on the date of the enactment of this Act [Nov. 30, 1999] continues to serve as chief judge. If that individual, upon termination of service as chief judge, provides notice under section 7257 of title 38, United States Code, of availability for service in a recalled status, the rate of pay applicable to that individual under section 7296(c)(1)(A) of such title while serving in a recalled status shall be at the rate of pay applicable to that individual at the time of retirement, if greater than the rate otherwise applicable under that section.”
 
@@ -319,7 +319,7 @@ Amendment by section 512(a)(1) of Pub. L. 105–368 effective on first day of fi
 
 Section 302 of Pub. L. 100–687 prohibited President from appointing associate judges of the United States Court of Veterans Appeals under subsec. (b) of this section, until the chief judge of such Court has been appointed and that judges could be appointed after Feb. 1, 1989.
 
-### § 7254. Organization
+### § 7254. Organization
 
 **(a)** The Court of Appeals for Veterans Claims shall have a seal which shall be judicially noticed.
 
@@ -335,7 +335,7 @@ Section 302 of Pub. L. 100–687 prohibited President from appointing associate 
 
 **(e)** Judges of the Court shall have the authority to administer oaths.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4114, § 4054; amended Pub. L. 101–94, title IV, § 402, Aug. 16, 1989, 103 Stat. 628; Pub. L. 101–237, title VI, § 602(b), Dec. 18, 1989, 103 Stat. 2095; renumbered § 7254, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(e)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–82, § 8(3), Aug. 6, 1991, 105 Stat. 377; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, § 1034, Nov. 30, 1999, 113 Stat. 1595.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4114, § 4054; amended Pub. L. 101–94, title IV, § 402, Aug. 16, 1989, 103 Stat. 628; Pub. L. 101–237, title VI, § 602(b), Dec. 18, 1989, 103 Stat. 2095; renumbered § 7254, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(e)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–82, § 8(3), Aug. 6, 1991, 105 Stat. 377; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, § 1034, Nov. 30, 1999, 113 Stat. 1595.)
 
 **Editorial Notes**
 
@@ -363,7 +363,7 @@ Amendment by Pub. L. 106–117 effective Nov. 30, 1999, with savings provision f
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7255. Offices, duty stations, and residences
+### § 7255. Offices, duty stations, and residences
 
 **(a) Principal Office.—** The principal office of the Court of Appeals for Veterans Claims shall be in the Washington, D.C., metropolitan area, but the Court may sit at any place within the United States.
 
@@ -379,7 +379,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(2)** Paragraph (1) shall not apply to recall-eligible retired judges of the Court of Appeals for Veterans Claims.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4114, § 4055; renumbered § 7255, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 108–454, title VIII, § 801, Dec. 10, 2004, 118 Stat. 3625; Pub. L. 112–260, title III, § 302(a)(1), Jan. 10, 2013, 126 Stat. 2425.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4114, § 4055; renumbered § 7255, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 108–454, title VIII, § 801, Dec. 10, 2004, 118 Stat. 3625; Pub. L. 112–260, title III, § 302(a)(1), Jan. 10, 2013, 126 Stat. 2425.)
 
 **Editorial Notes**
 
@@ -397,7 +397,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–260, title III, § 302(c)(1), Jan. 10, 2013, 126 Stat. 2425, provided that: “Subsection (c) of section 7255 [probably means 38 U.S.C. 7255(c)], as added by subsection (a), and the amendment made by subsection (b) [amending section 7253 of this title] shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 10, 2013].”
+Pub. L. 112–260, title III, § 302(c)(1), Jan. 10, 2013, 126 Stat. 2425, provided that: “Subsection (c) of section 7255 [probably means 38 U.S.C. 7255(c)], as added by subsection (a), and the amendment made by subsection (b) [amending section 7253 of this title] shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 10, 2013].”
 
 **Effective Date of 1998 Amendment**
 
@@ -405,7 +405,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **Facilities for Court of Appeals for Veterans Claims**
 
-Pub. L. 101–94, title II, § 201, Aug. 16, 1989, 103 Stat. 626, as amended by Pub. L. 105–368, title V, § 512(c), Nov. 11, 1998, 112 Stat. 3342, provided that:
+Pub. L. 101–94, title II, § 201, Aug. 16, 1989, 103 Stat. 626, as amended by Pub. L. 105–368, title V, § 512(c), Nov. 11, 1998, 112 Stat. 3342, provided that:
 
 > **“(a) Space in the District of Columbia.—** The Administrator of General Services shall provide suitable building space in the District of Columbia for the United States Court of Appeals for Veterans Claims as the Court’s principal place of business. The Administrator shall, if necessary, arrange for temporary space for the Court if permanent space is not immediately available for the Court. The Administrator shall place a high priority on the provision of such temporary and permanent space for the Court.
 
@@ -413,13 +413,13 @@ Pub. L. 101–94, title II, § 201, Aug. 16, 1989, 103 Stat. 626, as amended b
 
 > **“(c) Additional Requirement.—** Any building space provided to the Court under subsection (a) shall be adjacent to additional building space (in an amount acceptable to the Court) that can be made available to the Court in the future if needed for expansion of the facilities of the Court.”
 
-Pub. L. 100–687, div. A, title III, § 303, Nov. 18, 1988, 102 Stat. 4121, provided for the initial location of the principal office of the Court of Veterans Appeals.
+Pub. L. 100–687, div. A, title III, § 303, Nov. 18, 1988, 102 Stat. 4121, provided for the initial location of the principal office of the Court of Veterans Appeals.
 
-### § 7256. Times and places of sessions
+### § 7256. Times and places of sessions
 
 The times and places of sessions of the Court of Appeals for Veterans Claims shall be prescribed by the chief judge.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4115, § 4056; renumbered § 7256, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4115, § 4056; renumbered § 7256, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -435,7 +435,7 @@ The times and places of sessions of the Court of Appeals for Veterans Claims sha
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7257. Recall of retired judges
+### § 7257. Recall of retired judges
 
 **(a)**
 
@@ -471,19 +471,19 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(2)** Nothing in this section affects the right of a judge who retired under chapter 83 or 84 of title 5 to serve as a reemployed annuitant in accordance with the provisions of title 5.
 
-(Added Pub. L. 106–117, title X, § 1021(a), Nov. 30, 1999, 113 Stat. 1590; amended Pub. L. 110–389, title VI, § 603(a), (b)(3)–(c), Oct. 10, 2008, 122 Stat. 4177, 4178.)
+(Added Pub. L. 106–117, title X, § 1021(a), Nov. 30, 1999, 113 Stat. 1590; amended Pub. L. 110–389, title VI, § 603(a), (b)(3)–(c), Oct. 10, 2008, 122 Stat. 4177, 4178.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–389, § 603(b)(4), amended last sentence generally. Prior to amendment, last sentence read as follows: “Such a notice provided by a retired judge is irrevocable.”
+2008—Subsec. (a)(1). Pub. L. 110–389, § 603(b)(4), amended last sentence generally. Prior to amendment, last sentence read as follows: “Such a notice provided by a retired judge is irrevocable.”
 
-Subsec. (b)(2). Pub. L. 110–389, § 603(a), struck out “or for more than a total of 180 days (or the equivalent) during any calendar year” before period at end.
+Subsec. (b)(2). Pub. L. 110–389, § 603(a), struck out “or for more than a total of 180 days (or the equivalent) during any calendar year” before period at end.
 
-Subsec. (b)(3). Pub. L. 110–389, § 603(c), inserted at end “This paragraph shall not apply to a judge to whom section 7296(c)(1)(A) or 7296(c)(1)(B) of this title applies and who has, in the aggregate, served at least five years of recalled service on the Court under this section.”
+Subsec. (b)(3). Pub. L. 110–389, § 603(c), inserted at end “This paragraph shall not apply to a judge to whom section 7296(c)(1)(A) or 7296(c)(1)(B) of this title applies and who has, in the aggregate, served at least five years of recalled service on the Court under this section.”
 
-Subsec. (d). Pub. L. 110–389, § 603(b)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+Subsec. (d). Pub. L. 110–389, § 603(b)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
 “(d)(1) The pay of a recall-eligible retired judge who retired under section 7296 of this title is specified in subsection (c) of that section.
 
@@ -491,7 +491,7 @@ Subsec. (d). Pub. L. 110–389, § 603(b)(3), amended subsec. (d) generally. P
 
 ## SUBCHAPTER II—PROCEDURE
 
-### § 7261. Scope of review
+### § 7261. Scope of review
 
 **(a)** In any action brought under this chapter, the Court of Appeals for Veterans Claims, to the extent necessary to its decision and when presented, shall—
 
@@ -521,31 +521,31 @@ Subsec. (d). Pub. L. 110–389, § 603(b)(3), amended subsec. (d) generally. P
 
 **(d)** When a final decision of the Board of Veterans’ Appeals is adverse to a party and the sole stated basis for such decision is the failure of the party to comply with any applicable regulation prescribed by the Secretary, the Court shall review only questions raised as to compliance with and the validity of the regulation.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4115, § 4061; amended Pub. L. 101–237, title VI, § 602(c), Dec. 18, 1989, 103 Stat. 2095; renumbered § 7261, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(e)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–330, title IV, § 401(a), (b), Dec. 6, 2002, 116 Stat. 2832.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4115, § 4061; amended Pub. L. 101–237, title VI, § 602(c), Dec. 18, 1989, 103 Stat. 2095; renumbered § 7261, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(e)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(a)(1), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–330, title IV, § 401(a), (b), Dec. 6, 2002, 116 Stat. 2832.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a)(4). Pub. L. 107–330, § 401(a), inserted “adverse to the claimant” after “material fact” and “or reverse” after “and set aside”.
+2002—Subsec. (a)(4). Pub. L. 107–330, § 401(a), inserted “adverse to the claimant” after “material fact” and “or reverse” after “and set aside”.
 
-Subsec. (b). Pub. L. 107–330, § 401(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In making the determinations under subsection (a) of this section, the Court shall take due account of the rule of prejudicial error.”
+Subsec. (b). Pub. L. 107–330, § 401(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In making the determinations under subsection (a) of this section, the Court shall take due account of the rule of prejudicial error.”
 
 1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” in introductory provisions.
 
 1991—Pub. L. 102–40 renumbered section 4061 of this title as this section.
 
-Subsec. (a)(1) to (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (a)(1) to (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (a)(4). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (a)(4). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Pub. L. 102–54 amended subsec. (c) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “Court” for “court”.
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1989—Subsec. (a)(2). Pub. L. 101–237 inserted “or unreasonably delayed” after “withheld”.
 
@@ -553,7 +553,7 @@ Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–330, title IV, § 401(c), Dec. 6, 2002, 116 Stat. 2832, provided that:
+Pub. L. 107–330, title IV, § 401(c), Dec. 6, 2002, 116 Stat. 2832, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 6, 2002].
 
@@ -563,13 +563,13 @@ Pub. L. 107–330, title IV, § 401(c), Dec. 6, 2002, 116 Stat. 2832, provided
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7262. Fee for filing appeals
+### § 7262. Fee for filing appeals
 
 **(a)** The Court of Appeals for Veterans Claims may impose a fee of not more than $50 for the filing of any appeal with the Court. The Court shall establish procedures under which such a fee may be waived in the case of an appeal filed by or on behalf of a person who demonstrates that the requirement that such fee be paid will impose a hardship on that person. A decision as to such a waiver is final and may not be reviewed in any other court.
 
 **(b)** The Court may from time to time adjust the maximum amount permitted for a fee imposed under subsection (a) of this section based upon inflation and similar fees charged by other courts established under Article I of the Constitution.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4115, § 4062; renumbered § 7262, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4115, § 4062; renumbered § 7262, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -585,7 +585,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7263. Representation of parties; fee agreements
+### § 7263. Representation of parties; fee agreements
 
 **(a)** The Secretary shall be represented before the Court of Appeals for Veterans Claims by the General Counsel of the Department.
 
@@ -595,7 +595,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(d)** In reviewing a fee agreement under subsection (c) of this section or under section 5904(c)(2) of this title, the Court may affirm the finding or order of the Board and may order a reduction in the fee called for in the agreement if it finds that the fee is excessive or unreasonable. An order of the Court under this subsection is final and may not be reviewed in any other court.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4116, § 4063; renumbered § 7263 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4116, § 4063; renumbered § 7263 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -603,15 +603,15 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4063 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4063 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–40, § 402(d)(1), substituted “7264” for “4064”.
+Subsec. (b). Pub. L. 102–40, § 402(d)(1), substituted “7264” for “4064”.
 
-Subsec. (d). Pub. L. 102–40, § 402(d)(1), substituted “5904(c)(2)” for “3404(c)(2)”.
+Subsec. (d). Pub. L. 102–40, § 402(d)(1), substituted “5904(c)(2)” for “3404(c)(2)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -619,7 +619,7 @@ Subsec. (d). Pub. L. 102–40, § 402(d)(1), substituted “5904(c)(2)” for 
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7264. Rules of practice and procedure
+### § 7264. Rules of practice and procedure
 
 **(a)** The proceedings of the Court of Appeals for Veterans Claims shall be conducted in accordance with such rules of practice and procedure as the Court prescribes.
 
@@ -627,7 +627,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(c)** Section 455 of title 28 shall apply to judges and proceedings of the Court.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4116, § 4064; renumbered § 7264 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, § 4, Aug. 6, 1991, 105 Stat. 376; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4116, § 4064; renumbered § 7264 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, § 4, Aug. 6, 1991, 105 Stat. 376; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -635,9 +635,9 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4064 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4064 of this title as this section.
 
-Subsec. (b). Pub. L. 102–40, § 402(d)(1), substituted “7266” for “4066”.
+Subsec. (b). Pub. L. 102–40, § 402(d)(1), substituted “7266” for “4066”.
 
 Subsec. (c). Pub. L. 102–82 added subsec. (c).
 
@@ -649,9 +649,9 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **Interim Rules of Court of Veterans Appeals**
 
-Pub. L. 101–94, title II, § 203, Aug. 16, 1989, 103 Stat. 627, provided that the Federal Rules of Appellate Procedure (28 U.S.C. App.) would be interim rules of United States Court of Veterans Appeals unless otherwise provided by the Court in accordance with this chapter, and if there was a conflict between a provision of Federal Rules of Appellate Procedure and procedures set forth in this chapter, procedures set forth in this chapter would apply.
+Pub. L. 101–94, title II, § 203, Aug. 16, 1989, 103 Stat. 627, provided that the Federal Rules of Appellate Procedure (28 U.S.C. App.) would be interim rules of United States Court of Veterans Appeals unless otherwise provided by the Court in accordance with this chapter, and if there was a conflict between a provision of Federal Rules of Appellate Procedure and procedures set forth in this chapter, procedures set forth in this chapter would apply.
 
-### § 7265. Contempt authority; assistance to the Court
+### § 7265. Contempt authority; assistance to the Court
 
 **(a)** The Court shall have power to punish by fine or imprisonment such contempt of its authority as—
 
@@ -663,7 +663,7 @@ Pub. L. 101–94, title II, § 203, Aug. 16, 1989, 103 Stat. 627, provided tha
 
 **(b)** The Court shall have such assistance in the carrying out of its lawful writ, process, order, rule, decree, or command as is available to a court of the United States. The United States marshal for a district in which the Court is sitting shall, if requested by the chief judge of the Court, attend any session of the Court in that district.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4116, § 4065; renumbered § 7265, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4116, § 4065; renumbered § 7265, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
 
 **Editorial Notes**
 
@@ -671,7 +671,7 @@ Pub. L. 101–94, title II, § 203, Aug. 16, 1989, 103 Stat. 627, provided tha
 
 1991—Pub. L. 102–40 renumbered section 4065 of this title as this section.
 
-### § 7266. Notice of appeal
+### § 7266. Notice of appeal
 
 **(a)** In order to obtain review by the Court of Appeals for Veterans Claims of a final decision of the Board of Veterans’ Appeals, a person adversely affected by such decision shall file a notice of appeal with the Court within 120 days after the date on which notice of the decision is issued pursuant to section 7104(e) of this title.
 
@@ -685,7 +685,7 @@ Pub. L. 101–94, title II, § 203, Aug. 16, 1989, 103 Stat. 627, provided tha
 
 **(d)** For a notice of appeal mailed to the Court to be deemed to be received under subsection (c)(2) on a particular date, the United States Postal Service postmark on the cover in which the notice is posted must be legible. The Court shall determine the legibility of any such postmark and the Court’s determination as to legibility shall be final and not subject to review by any other Court.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4116, § 4066; renumbered § 7266 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title V, § 511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title V, § 507, Dec. 27, 2001, 115 Stat. 997; Pub. L. 117–168, title VIII, § 807(a)(8), Aug. 10, 2022, 136 Stat. 1806.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4116, § 4066; renumbered § 7266 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title V, § 511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title V, § 507, Dec. 27, 2001, 115 Stat. 997; Pub. L. 117–168, title VIII, § 807(a)(8), Aug. 10, 2022, 136 Stat. 1806.)
 
 **Editorial Notes**
 
@@ -699,11 +699,11 @@ Pub. L. 101–94, title II, § 203, Aug. 16, 1989, 103 Stat. 627, provided tha
 
 1994—Subsec. (a). Pub. L. 103–446 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In order to obtain review by the Court of Veterans Appeals of a final decision of the Board of Veterans’ Appeals, a person adversely affected by that action must file a notice of appeal with the Court. Any such notice must be filed within 120 days after the date on which notice of the decision is mailed pursuant to section 7104(e) of this title.”
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4066 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4066 of this title as this section.
 
-Subsec. (a). Pub. L. 102–40, § 402(d)(1), substituted “7104(e)” for “4004(e)”.
+Subsec. (a). Pub. L. 102–40, § 402(d)(1), substituted “7104(e)” for “4004(e)”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -713,7 +713,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–446, title V, § 511(b), Nov. 2, 1994, 108 Stat. 4670, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 2, 1994] and shall apply to notices of appeal that are delivered or mailed to the United States Court of Veterans Appeals [now United States Court of Appeals for Veterans Claims] on or after that date.”
+Pub. L. 103–446, title V, § 511(b), Nov. 2, 1994, 108 Stat. 4670, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 2, 1994] and shall apply to notices of appeal that are delivered or mailed to the United States Court of Veterans Appeals [now United States Court of Appeals for Veterans Claims] on or after that date.”
 
 **Rule of Construction**
 
@@ -721,9 +721,9 @@ Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of t
 
 **Interim Provision for Filing Notices of Appeal**
 
-Pub. L. 101–94, title II, § 202, Aug. 16, 1989, 103 Stat. 626, provided that in the case of a person adversely affected by a final decision of the Board of Veterans’ Appeals that was made before the date on which the United States Court of Veterans Appeals published in the Federal Register a notice by the Court that it had commenced operations, the period prescribed under this section within which a notice of appeal had to be filed with the Court was to be extended to the end of the 30-day period beginning on the date such notice was published, if the end of that period was later than the date that would otherwise be applicable under this section.
+Pub. L. 101–94, title II, § 202, Aug. 16, 1989, 103 Stat. 626, provided that in the case of a person adversely affected by a final decision of the Board of Veterans’ Appeals that was made before the date on which the United States Court of Veterans Appeals published in the Federal Register a notice by the Court that it had commenced operations, the period prescribed under this section within which a notice of appeal had to be filed with the Court was to be extended to the end of the 30-day period beginning on the date such notice was published, if the end of that period was later than the date that would otherwise be applicable under this section.
 
-### § 7267. Decisions
+### § 7267. Decisions
 
 **(a)** A decision upon a proceeding before the Court of Appeals for Veterans Claims shall be made as quickly as practicable. In a case heard by a panel of the Court, the decision shall be made by a majority vote of the panel in accordance with the rules of the Court. The decision of the judge or panel hearing the case so made shall be the decision of the Court.
 
@@ -731,7 +731,7 @@ Pub. L. 101–94, title II, § 202, Aug. 16, 1989, 103 Stat. 626, provided tha
 
 **(c)** The Court shall designate in its decision in any case those specific records of the Government on which it relied (if any) in making its decision. The Secretary shall preserve records so designated for not less than the period of time designated by the Archivist of the United States.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4117, § 4067; renumbered § 7267, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–82, §§ 1, 8(1), Aug. 6, 1991, 105 Stat. 375, 377; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4117, § 4067; renumbered § 7267, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–82, §§ 1, 8(1), Aug. 6, 1991, 105 Stat. 375, 377; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -741,23 +741,23 @@ Pub. L. 101–94, title II, § 202, Aug. 16, 1989, 103 Stat. 626, provided tha
 
 1991—Pub. L. 102–40 renumbered section 4067 of this title as this section.
 
-Subsec. (a). Pub. L. 102–82, § 1(3), struck out before period at end “except as provided in subsection (d) of this section”.
+Subsec. (a). Pub. L. 102–82, § 1(3), struck out before period at end “except as provided in subsection (d) of this section”.
 
-Subsec. (b). Pub. L. 102–82, § 1(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Court shall include in its decision a statement of its conclusions of law and determinations as to factual matters.”
+Subsec. (b). Pub. L. 102–82, § 1(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Court shall include in its decision a statement of its conclusions of law and determinations as to factual matters.”
 
 Subsec. (c). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–82, § 8(1), substituted “Archivist of the United States” for “Administrator of the National Archives and Records Administration”.
+Pub. L. 102–82, § 8(1), substituted “Archivist of the United States” for “Administrator of the National Archives and Records Administration”.
 
-Pub. L. 102–82, § 1(2), redesignated subsec. (e) as (c). Former subsec. (c) redesignated (b).
+Pub. L. 102–82, § 1(2), redesignated subsec. (e) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 102–82, § 1(1), struck out subsec. (d) which read as follows:
+Subsec. (d). Pub. L. 102–82, § 1(1), struck out subsec. (d) which read as follows:
 
 “(1) In the case of a proceeding determined by a single judge of the Court, the decision of the judge shall become the decision of the Court unless before the end of the 30-day period beginning on the date of the decision by the judge the Court, upon the motion of either party or on its own initiative, directs that the decision be reviewed by a panel of the Court. In such a case, the decision of the judge initially deciding the case shall not be a part of the record.
 
 “(2) In the case of a proceeding determined by a panel of the Court, the decision of the panel shall become the decision of the Court unless before the end of the 30-day period beginning on the date of the decision by the panel the Court, upon the motion of either party or on its own initiative, directs that the decision be reviewed by an expanded panel of the Court (or the Court en banc). In such a case, the decision of the panel initially deciding the case shall not be a part of the record.”
 
-Subsec. (e). Pub. L. 102–82, § 1(2), redesignated subsec. (e) as (c).
+Subsec. (e). Pub. L. 102–82, § 1(2), redesignated subsec. (e) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -765,7 +765,7 @@ Subsec. (e). Pub. L. 102–82, § 1(2), redesignated subsec. (e) as (c).
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7268. Availability of proceedings
+### § 7268. Availability of proceedings
 
 **(a)** Except as provided in subsection (b) of this section, all decisions of the Court of Appeals for Veterans Claims and all briefs, motions, documents, and exhibits received by the Court (including a transcript of the stenographic report of the hearings) shall be public records open to the inspection of the public.
 
@@ -783,7 +783,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(3)** The rules prescribed under paragraph (1) shall take into consideration best practices in Federal and State courts to protect private information or otherwise maintain necessary information security.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4117, § 4068; renumbered § 7268, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–82, § 8(2), Aug. 6, 1991, 105 Stat. 377; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 110–389, title VI, § 602, Oct. 10, 2008, 122 Stat. 4177.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4117, § 4068; renumbered § 7268, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–82, § 8(2), Aug. 6, 1991, 105 Stat. 377; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 110–389, title VI, § 602, Oct. 10, 2008, 122 Stat. 4177.)
 
 **Editorial Notes**
 
@@ -803,7 +803,7 @@ Subsec. (b)(2). Pub. L. 102–82 substituted “may, upon motion of the appellan
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7269. Publication of decisions
+### § 7269. Publication of decisions
 
 **(a)** The Court of Appeals for Veterans Claims shall provide for the publication of decisions of the Court in such form and manner as may be best adapted for public information and use. The Court may make such exceptions, or may authorize the chief judge to make such exceptions, to the requirement for publication in the preceding sentence as may be appropriate.
 
@@ -811,7 +811,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(c)** Such publications shall be subject to sale in the same manner and upon the same terms as other public documents.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4118, § 4069; renumbered § 7269, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4118, § 4069; renumbered § 7269, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -829,7 +829,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 ## SUBCHAPTER III—MISCELLANEOUS PROVISIONS
 
-### § 7281. Employees
+### § 7281. Employees
 
 **(a)** The Court of Appeals for Veterans Claims may appoint a clerk without regard to the provisions of title 5 governing appointments in the competitive service. The clerk shall serve at the pleasure of the Court.
 
@@ -853,7 +853,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(k)** Notwithstanding any other provision of law, the Court may pay on behalf of its judges, who are age 65 or older, any increase in the cost of Federal Employees’ Group Life Insurance imposed after April 24, 1999, including any expenses generated by such payments, as authorized by the chief judge of the Court in a manner consistent with such payment authorized by the Judicial Conference of the United States pursuant to section 604(a)(5) of title 28.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4118, § 4081; amended Pub. L. 101–94, title II, § 204(a), Aug. 16, 1989, 103 Stat. 627; renumbered § 7281, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, § 7, Aug. 6, 1991, 105 Stat. 377; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, § 1035(1), Nov. 30, 1999, 113 Stat. 1595; Pub. L. 114–315, title II, § 202(a), Dec. 16, 2016, 130 Stat. 1549.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4118, § 4081; amended Pub. L. 101–94, title II, § 204(a), Aug. 16, 1989, 103 Stat. 627; renumbered § 7281, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, § 7, Aug. 6, 1991, 105 Stat. 377; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, § 1035(1), Nov. 30, 1999, 113 Stat. 1595; Pub. L. 114–315, title II, § 202(a), Dec. 16, 2016, 130 Stat. 1549.)
 
 **Editorial Notes**
 
@@ -879,7 +879,7 @@ Subsec. (i). Pub. L. 102–82 added subsec. (i).
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–315, title II, § 202(b), Dec. 16, 2016, 130 Stat. 1549, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any payment made on or after the first day of the first applicable pay period beginning on or after the date of the enactment of this Act [Dec. 16, 2016].”
+Pub. L. 114–315, title II, § 202(b), Dec. 16, 2016, 130 Stat. 1549, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any payment made on or after the first day of the first applicable pay period beginning on or after the date of the enactment of this Act [Dec. 16, 2016].”
 
 **Effective Date of 1999 Amendment**
 
@@ -891,17 +891,17 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–94, title II, § 204(c), Aug. 16, 1989, 103 Stat. 627, provided that: “Notwithstanding section 401 of the Veterans’ Judicial Review Act [Pub. L. 100–687, set out as an Effective Date note under section 7251 of this title], the authority provided by section 4081 [now 7281] of title 38, United States Code, as amended by subsection (a), shall take effect on the date of the enactment of this Act [Aug. 16, 1989].”
+Pub. L. 101–94, title II, § 204(c), Aug. 16, 1989, 103 Stat. 627, provided that: “Notwithstanding section 401 of the Veterans’ Judicial Review Act [Pub. L. 100–687, set out as an Effective Date note under section 7251 of this title], the authority provided by section 4081 [now 7281] of title 38, United States Code, as amended by subsection (a), shall take effect on the date of the enactment of this Act [Aug. 16, 1989].”
 
 **Limitation on Conversion of Employees to Competitive Service**
 
-Pub. L. 101–94, title II, § 204(b), Aug. 16, 1989, 103 Stat. 627, as amended by Pub. L. 105–368, title V, § 512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: “Notwithstanding clause (1)(A) of the proviso under the heading ‘Court of Veterans Appeals’ in chapter XI of [title I of] Public Law 101–45 [formerly set out below], no employee of the United States Court of Appeals for Veterans Claims may be converted to the competitive service without the approval of the Court.”
+Pub. L. 101–94, title II, § 204(b), Aug. 16, 1989, 103 Stat. 627, as amended by Pub. L. 105–368, title V, § 512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: “Notwithstanding clause (1)(A) of the proviso under the heading ‘Court of Veterans Appeals’ in chapter XI of [title I of] Public Law 101–45 [formerly set out below], no employee of the United States Court of Appeals for Veterans Claims may be converted to the competitive service without the approval of the Court.”
 
 **Appointment of Employees Eligible for Noncompetitive Conversion to Position in Competitive Service; Procurement of Experts and Consultants**
 
 Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 113, authorized United States Court of Veterans Appeals, during fiscal year 1989, to appoint not to exceed 35 employees to positions in competitive service if certain requirements were met and to procure services of experts and consultants.
 
-### § 7282. Budget and expenditures
+### § 7282. Budget and expenditures
 
 **(a)** The budget of the Court of Appeals for Veterans Claims as submitted by the Court for inclusion in the budget of the President for any fiscal year shall be included in that budget without review within the executive branch.
 
@@ -909,7 +909,7 @@ Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 113, authorized United State
 
 **(c)** All expenditures of the Court shall be allowed and paid upon presentation of itemized vouchers signed by the certifying officer designated by the chief judge. Except as provided in section 7285 of this title, all such expenditures shall be paid out of moneys appropriated for purposes of the Court.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4118, § 4082; renumbered § 7282 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4118, § 4082; renumbered § 7282 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -917,9 +917,9 @@ Pub. L. 101–45, title I, June 30, 1989, 103 Stat. 113, authorized United State
 
 1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4082 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4082 of this title as this section.
 
-Subsec. (c). Pub. L. 102–40, § 402(d)(1), substituted “7285” for “4085”.
+Subsec. (c). Pub. L. 102–40, § 402(d)(1), substituted “7285” for “4085”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -927,11 +927,11 @@ Subsec. (c). Pub. L. 102–40, § 402(d)(1), substituted “7285” for “408
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7283. Disposition of fees
+### § 7283. Disposition of fees
 
 Except for amounts received pursuant to section 7285 of this title, all fees received by the Court of Appeals for Veterans Claims shall be covered into the Treasury as miscellaneous receipts.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4118, § 4083; renumbered § 7283 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4118, § 4083; renumbered § 7283 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -947,11 +947,11 @@ Except for amounts received pursuant to section 7285 of this title, all fees rec
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7284. Fee for transcript of record
+### § 7284. Fee for transcript of record
 
 The Court of Appeals for Veterans Claims may fix a fee, not in excess of the fee authorized by law to be charged and collected therefor by the clerks of the district courts, for comparing, or for preparing and comparing, a transcript of the record of any proceeding before the Court, or for copying any record, entry, or other paper and the comparison and certification thereof.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4118, § 4084; renumbered § 7284, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4118, § 4084; renumbered § 7284, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -967,7 +967,7 @@ The Court of Appeals for Veterans Claims may fix a fee, not in excess of the fee
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7285. Practice and registration fees
+### § 7285. Practice and registration fees
 
 **(a)** The Court of Appeals for Veterans Claims may impose a reasonable periodic registration fee on persons admitted to practice before the Court. The frequency and amount of such fee shall be determined by the Court. The Court may also impose a reasonable registration fee on persons (other than judges of the Court) participating at judicial conferences convened pursuant to section 7286 of this title or in any other court-sponsored activity.
 
@@ -981,19 +981,19 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(B)** other activities and programs of the Court that are intended to support and foster communication and relationships between the Court and persons practicing before the Court or the study, understanding, public commemoration, or improvement of veterans law or of the work of the Court.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4119, § 4085; renumbered § 7285, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title VI, § 604(a)–(c)(1), Dec. 27, 2001, 115 Stat. 999; Pub. L. 110–389, title VI, § 605, Oct. 10, 2008, 122 Stat. 4179.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4119, § 4085; renumbered § 7285, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title VI, § 604(a)–(c)(1), Dec. 27, 2001, 115 Stat. 999; Pub. L. 110–389, title VI, § 605, Oct. 10, 2008, 122 Stat. 4179.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–389 inserted “reasonable” after “impose a” in two places and struck out “, except that such amount may not exceed $30 per year” after “by the Court”.
+2008—Subsec. (a). Pub. L. 110–389 inserted “reasonable” after “impose a” in two places and struck out “, except that such amount may not exceed $30 per year” after “by the Court”.
 
-2001—Pub. L. 107–103, § 604(c)(1), substituted “Practice and registration fees” for “Practice fee” in section catchline.
+2001—Pub. L. 107–103, § 604(c)(1), substituted “Practice and registration fees” for “Practice fee” in section catchline.
 
-Subsec. (a). Pub. L. 107–103, § 604(a), inserted at end “The Court may also impose a registration fee on persons (other than judges of the Court) participating at judicial conferences convened pursuant to section 7286 of this title or in any other court-sponsored activity.”
+Subsec. (a). Pub. L. 107–103, § 604(a), inserted at end “The Court may also impose a registration fee on persons (other than judges of the Court) participating at judicial conferences convened pursuant to section 7286 of this title or in any other court-sponsored activity.”
 
-Subsec. (b). Pub. L. 107–103, § 604(b), substituted “for the following purposes:” and pars. (1) and (2) for “for the purposes of (1) employing independent counsel to pursue disciplinary matters, and (2) defraying administrative costs for the implementation of the standards of proficiency prescribed for practice before the Court.”
+Subsec. (b). Pub. L. 107–103, § 604(b), substituted “for the following purposes:” and pars. (1) and (2) for “for the purposes of (1) employing independent counsel to pursue disciplinary matters, and (2) defraying administrative costs for the implementation of the standards of proficiency prescribed for practice before the Court.”
 
 1998—Subsec. (a). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
@@ -1005,11 +1005,11 @@ Subsec. (b). Pub. L. 107–103, § 604(b), substituted “for the following pu
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7286. Judicial Conference of the Court
+### § 7286. Judicial Conference of the Court
 
 The Chief Judge of the Court of Appeals for Veterans Claims may summon the judges of the Court to an annual judicial conference, at a time and place that the Chief Judge designates, for the purpose of considering the business of the Court and recommending means of improving the administration of justice within the Court’s jurisdiction. The Court shall provide by its rules for representation and active participation at such conference by persons admitted to practice before the Court and by other persons active in the legal profession.
 
-(Added Pub. L. 102–82, § 2(a), Aug. 6, 1991, 105 Stat. 375; amended Pub. L. 105–368, title V, § 512(a)(1), (2)(A), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 102–82, § 2(a), Aug. 6, 1991, 105 Stat. 375; amended Pub. L. 105–368, title V, § 512(a)(1), (2)(A), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
@@ -1023,13 +1023,13 @@ The Chief Judge of the Court of Appeals for Veterans Claims may summon the judge
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7287. Administration
+### § 7287. Administration
 
 Notwithstanding any other provision of law, the Court of Appeals for Veterans Claims may exercise, for purposes of management, administration, and expenditure of funds of the Court, the authorities provided for such purposes by any provision of law (including any limitation with respect to such provision of law) applicable to a court of the United States (as that term is defined in section 451 of title 28), except to the extent that such provision of law is inconsistent with a provision of this chapter.
 
-(Added Pub. L. 107–103, title VI, § 605(a), Dec. 27, 2001, 115 Stat. 1000.)
+(Added Pub. L. 107–103, title VI, § 605(a), Dec. 27, 2001, 115 Stat. 1000.)
 
-### § 7288. Annual report
+### § 7288. Annual report
 
 **(a) In General.—** The chief judge of the Court shall submit to the appropriate committees of Congress each year a report summarizing the workload of the Court for the fiscal year ending during the preceding year.
 
@@ -1095,11 +1095,11 @@ Notwithstanding any other provision of law, the Court of Appeals for Veterans Cl
 
 **(2)** the Committee on Veterans’ Affairs of the House of Representatives.
 
-(Added Pub. L. 110–389, title VI, § 604(a), Oct. 10, 2008, 122 Stat. 4178.)
+(Added Pub. L. 110–389, title VI, § 604(a), Oct. 10, 2008, 122 Stat. 4178.)
 
 ## SUBCHAPTER IV—DECISIONS AND REVIEW
 
-### § 7291. Date when Court decision becomes final
+### § 7291. Date when Court decision becomes final
 
 **(a)** A decision of the United States Court of Appeals for Veterans Claims shall become final upon the expiration of the time allowed for filing, under section 7292 of this title, a notice of appeal from such decision, if no such notice is duly filed within such time. If such a notice is filed within such time, such a decision shall become final—
 
@@ -1135,19 +1135,19 @@ then the decision of the Court of Appeals for Veterans Claims rendered upon such
 
 **(d)** As used in this section, the term “mandate”, in case a mandate has been recalled before the expiration of 30 days from the date of issuance thereof, means the final mandate.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4119, § 4091; renumbered § 7291 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title V, § 512(a)(1), (2)(B), Nov. 11, 1998, 112 Stat. 3341.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4119, § 4091; renumbered § 7291 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 105–368, title V, § 512(a)(1), (2)(B), Nov. 11, 1998, 112 Stat. 3341.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Pub. L. 105–368, § 512(a)(2)(B), substituted “Court decision” for “United States Court of Veterans Appeals decision” in section catchline.
+1998—Pub. L. 105–368, § 512(a)(2)(B), substituted “Court decision” for “United States Court of Veterans Appeals decision” in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 105–368, § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” wherever appearing.
+Subsecs. (a) to (c). Pub. L. 105–368, § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals” wherever appearing.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4091 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4091 of this title as this section.
 
-Subsec. (a). Pub. L. 102–40, § 402(d)(1), substituted “7292” for “4092” in introductory provisions.
+Subsec. (a). Pub. L. 102–40, § 402(d)(1), substituted “7292” for “4092” in introductory provisions.
 
 Subsec. (b). Pub. L. 102–83 substituted “Secretary” for “Administrator” in pars. (1) and (2).
 
@@ -1157,7 +1157,7 @@ Subsec. (b). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7292. Review by United States Court of Appeals for the Federal Circuit
+### § 7292. Review by United States Court of Appeals for the Federal Circuit
 
 **(a)** After a decision of the United States Court of Appeals for Veterans Claims is entered in a case, any party to the case may obtain a review of the decision with respect to the validity of a decision of the Court on a rule of law or of any statute or regulation (other than a refusal to review the schedule of ratings for disabilities adopted under section 1155 of this title) or any interpretation thereof (other than a determination as to a factual matter) that was relied on by the Court in making the decision. Such a review shall be obtained by filing a notice of appeal with the Court of Appeals for Veterans Claims within the time and in the manner prescribed for appeal to United States courts of appeals from United States district courts.
 
@@ -1189,7 +1189,7 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **(2)** Rules for review of decisions of the Court of Appeals for Veterans Claims shall be those prescribed by the Supreme Court under section 2072 of title 28.
 
-(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4120, § 4092; amended Pub. L. 101–94, title III, § 302(b), Aug. 16, 1989, 103 Stat. 628; renumbered § 7292, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(e)(5), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–330, title IV, § 402(a), Dec. 6, 2002, 116 Stat. 2832.)
+(Added Pub. L. 100–687, div. A, title III, § 301(a), Nov. 18, 1988, 102 Stat. 4120, § 4092; amended Pub. L. 101–94, title III, § 302(b), Aug. 16, 1989, 103 Stat. 628; renumbered § 7292, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(e)(5), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–330, title IV, § 402(a), Dec. 6, 2002, 116 Stat. 2832.)
 
 **Editorial Notes**
 
@@ -1201,9 +1201,9 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 1991—Pub. L. 102–40 renumbered section 4092 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1155” for “355”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1155” for “355”.
 
-Subsec. (b)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Subsec. (c). Pub. L. 102–54 amended subsec. (c) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “United States Court” for “United States Courts”.
 
@@ -1213,7 +1213,7 @@ Subsec. (c). Pub. L. 102–54 amended subsec. (c) as in effect immediately befor
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–330, title IV, § 402(b), Dec. 6, 2002, 116 Stat. 2832, provided that:
+Pub. L. 107–330, title IV, § 402(b), Dec. 6, 2002, 116 Stat. 2832, provided that:
 
 > “The amendment made by subsection (a) [amending this section] shall apply with respect to any appeal—
 
@@ -1231,7 +1231,7 @@ Amendment by Pub. L. 101–94 effective as if included in Pub. L. 100–687, div
 
 ## SUBCHAPTER V—RETIREMENT AND SURVIVORS ANNUITIES
 
-### § 7296. Retirement of judges
+### § 7296. Retirement of judges
 
 **(a)** For purposes of this section:
 
@@ -1348,7 +1348,7 @@ Amendment by Pub. L. 101–94 effective as if included in Pub. L. 100–687, div
 
 **(k)** The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit to individual accounts in the name of each judge from whom such amounts are received.
 
-(Added Pub. L. 101–94, title I, § 101(a), Aug. 16, 1989, 103 Stat. 617, § 4096; renumbered § 7296 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, § 5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, § 7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§ 1022, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 107–103, title VI, § 602, Dec. 27, 2001, 115 Stat. 999; Pub. L. 110–389, title VI, § 603(b)(1), (2), Oct. 10, 2008, 122 Stat. 4177, 4178.)
+(Added Pub. L. 101–94, title I, § 101(a), Aug. 16, 1989, 103 Stat. 617, § 4096; renumbered § 7296 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, § 5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, § 7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, § 512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§ 1022, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 107–103, title VI, § 602, Dec. 27, 2001, 115 Stat. 999; Pub. L. 110–389, title VI, § 603(b)(1), (2), Oct. 10, 2008, 122 Stat. 4177, 4178.)
 
 **Editorial Notes**
 
@@ -1360,27 +1360,27 @@ The Civil Service Retirement and Disability Fund, referred to in subsecs. (f)(2)
 
 **Amendments**
 
-2008—Subsec. (c)(1). Pub. L. 110–389, § 603(b)(1), added par. (1) and struck out former par. (1), which related to retirement pay structure for retired judges based on recall status.
+2008—Subsec. (c)(1). Pub. L. 110–389, § 603(b)(1), added par. (1) and struck out former par. (1), which related to retirement pay structure for retired judges based on recall status.
 
-Subsec. (f)(3)(A). Pub. L. 110–389, § 603(b)(2), substituted “paragraph (1)(A)(i) or (2)” for “paragraph (2)”.
+Subsec. (f)(3)(A). Pub. L. 110–389, § 603(b)(2), substituted “paragraph (1)(A)(i) or (2)” for “paragraph (2)”.
 
 2001—Subsec. (b)(2). Pub. L. 107–103 struck out at end: “In order to retire under this paragraph, a judge must, not earlier than 9 months preceding the date of the expiration of the judge’s term of office and not later than 6 months preceding such date, advise the President in writing that the judge is willing to accept reappointment to the Court.”
 
-1999—Subsec. (a)(2). Pub. L. 106–117, § 1035(2), substituted “a judge” for “the chief judge or an associate judge”.
+1999—Subsec. (a)(2). Pub. L. 106–117, § 1035(2), substituted “a judge” for “the chief judge or an associate judge”.
 
-Subsec. (c)(1). Pub. L. 106–117, § 1022(a), substituted “as follows:” for “at the rate of pay in effect at the time of retirement.” and added subpars. (A) to (C).
+Subsec. (c)(1). Pub. L. 106–117, § 1022(a), substituted “as follows:” for “at the rate of pay in effect at the time of retirement.” and added subpars. (A) to (C).
 
-Subsec. (f)(3). Pub. L. 106–117, § 1022(b), added par. (3).
+Subsec. (f)(3). Pub. L. 106–117, § 1022(b), added par. (3).
 
 1998—Subsecs. (a)(1), (i)(1), (k). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4096 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4096 of this title as this section.
 
 Subsec. (f)(2)(A). Pub. L. 102–198 substituted “8440d” for “8440c”.
 
 Pub. L. 102–82 inserted before semicolon at end “except as authorized by section 8440c of title 5”.
 
-Subsec. (h)(3)(B). Pub. L. 102–40, § 402(d)(1), substituted “7297” for “4097” in introductory provisions, “7297(b)” for “4097(b)” in cl. (i), and “7297(e)” for “4097(e)” in cl. (ii).
+Subsec. (h)(3)(B). Pub. L. 102–40, § 402(d)(1), substituted “7297” for “4097” in introductory provisions, “7297(b)” for “4097(b)” in cl. (i), and “7297(e)” for “4097(e)” in cl. (ii).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1394,9 +1394,9 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 **Transitional Provisions To Stagger Terms of Judges**
 
-Pub. L. 106–117, title X, § 1002, Nov. 30, 1999, 113 Stat. 1588, provided that: “In this title [see Short Title of 1999 Amendments note set out under section 101 of this title], the term ‘Court’ means the United States Court of Appeals for Veterans Claims.”
+Pub. L. 106–117, title X, § 1002, Nov. 30, 1999, 113 Stat. 1588, provided that: “In this title [see Short Title of 1999 Amendments note set out under section 101 of this title], the term ‘Court’ means the United States Court of Appeals for Veterans Claims.”
 
-Pub. L. 106–117, title X, §§ 1011, 1012, Nov. 30, 1999, 113 Stat. 1588, 1590, provided that:
+Pub. L. 106–117, title X, §§ 1011, 1012, Nov. 30, 1999, 113 Stat. 1588, 1590, provided that:
 
 > **“SEC. 1011. EARLY RETIREMENT AUTHORITY FOR CURRENT JUDGES.**
 
@@ -1491,9 +1491,9 @@ Pub. L. 106–117, title X, §§ 1011, 1012, Nov. 30, 1999, 113 Stat. 1588, 15
 > | 69 | 11 |
 > | 70 | 10.” |
 
-> Pub. L. 106–117, title X, § 1032(b), Nov. 30, 1999, 113 Stat. 1595, provided that: “A person serving as a judge of the Court under section 1011 may not serve as chief judge of the Court.”
+> Pub. L. 106–117, title X, § 1032(b), Nov. 30, 1999, 113 Stat. 1595, provided that: “A person serving as a judge of the Court under section 1011 may not serve as chief judge of the Court.”
 
-### § 7297. Survivor annuities
+### § 7297. Survivor annuities
 
 **(a)** For purposes of this section:
 
@@ -1647,7 +1647,7 @@ Such payment shall be a bar to recovery by any other individual.
 
 **(ii)** being permanently disabled as described by subsection (b)(4) of such section.
 
-(Added Pub. L. 101–94, title I, § 101(a), Aug. 16, 1989, 103 Stat. 620, § 4097; renumbered § 7297 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(6), June 13, 1991, 105 Stat. 287; Pub. L. 102–82, § 5(c)(2), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, § 7(c)(4)(E), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §§ 503, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§ 1023, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 114–315, title II, § 203, Dec. 16, 2016, 130 Stat. 1549.)
+(Added Pub. L. 101–94, title I, § 101(a), Aug. 16, 1989, 103 Stat. 620, § 4097; renumbered § 7297 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(e)(6), June 13, 1991, 105 Stat. 287; Pub. L. 102–82, § 5(c)(2), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, § 7(c)(4)(E), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §§ 503, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§ 1023, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 114–315, title II, § 203, Dec. 16, 2016, 130 Stat. 1549.)
 
 **Editorial Notes**
 
@@ -1655,51 +1655,51 @@ Such payment shall be a bar to recovery by any other individual.
 
 2016—Subsec. (p). Pub. L. 114–315 added subsec. (p).
 
-1999—Subsec. (a)(2). Pub. L. 106–117, § 1035(2), substituted “a judge” for “the chief judge or an associate judge”.
+1999—Subsec. (a)(2). Pub. L. 106–117, § 1035(2), substituted “a judge” for “the chief judge or an associate judge”.
 
-Pub. L. 106–117, § 1023(e)(2)(A), inserted “who is in active service or who has retired under section 7296 of this title” after “Court”.
+Pub. L. 106–117, § 1023(e)(2)(A), inserted “who is in active service or who has retired under section 7296 of this title” after “Court”.
 
-Subsec. (a)(3). Pub. L. 106–117, § 1023(e)(2)(B), substituted “7296” for “7296(c)”.
+Subsec. (a)(3). Pub. L. 106–117, § 1023(e)(2)(B), substituted “7296” for “7296(c)”.
 
-Subsec. (a)(5). Pub. L. 106–117, § 1023(a), substituted “one year” for “two years”.
+Subsec. (a)(5). Pub. L. 106–117, § 1023(a), substituted “one year” for “two years”.
 
-Subsec. (a)(8). Pub. L. 106–117, § 1023(e)(2)(C), added par. (8).
+Subsec. (a)(8). Pub. L. 106–117, § 1023(e)(2)(C), added par. (8).
 
-Subsec. (b). Pub. L. 106–117, § 1023(b), inserted “or within six months after the date on which the judge marries if the judge has retired under section 7296 of this title” before the period at end of first sentence.
+Subsec. (b). Pub. L. 106–117, § 1023(b), inserted “or within six months after the date on which the judge marries if the judge has retired under section 7296 of this title” before the period at end of first sentence.
 
-Subsec. (c). Pub. L. 106–117, § 1023(c), substituted “that percentage of the judge’s pay that is the same as provided for the deduction from the salary or retirement salary of a judge of the United States Court of Federal Claims for the purpose of a survivor annuity under section 376(b)(1)(B) of title 28” for “3.5 percent of the judge’s pay”.
+Subsec. (c). Pub. L. 106–117, § 1023(c), substituted “that percentage of the judge’s pay that is the same as provided for the deduction from the salary or retirement salary of a judge of the United States Court of Federal Claims for the purpose of a survivor annuity under section 376(b)(1)(B) of title 28” for “3.5 percent of the judge’s pay”.
 
-Subsec. (d). Pub. L. 106–117, § 1023(d), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 106–117, § 1023(d), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (f)(1). Pub. L. 106–117, § 1023(e)(1)(A), in introductory provisions, substituted “at least 18 months” for “at least 5 years” and “last 18 months” for “last 5 years”.
+Subsec. (f)(1). Pub. L. 106–117, § 1023(e)(1)(A), in introductory provisions, substituted “at least 18 months” for “at least 5 years” and “last 18 months” for “last 5 years”.
 
-Subsec. (f)(1)(A). Pub. L. 106–117, § 1023(f), struck out “or following the surviving spouse’s attainment of the age of 50 years, whichever is the later” after “death of the judge”.
+Subsec. (f)(1)(A). Pub. L. 106–117, § 1023(f), struck out “or following the surviving spouse’s attainment of the age of 50 years, whichever is the later” after “death of the judge”.
 
-Subsec. (f)(5). Pub. L. 106–117, § 1023(e)(1)(B), added par. (5).
+Subsec. (f)(5). Pub. L. 106–117, § 1023(e)(1)(B), added par. (5).
 
-1998—Subsec. (a)(1), (4). Pub. L. 105–368, § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+1998—Subsec. (a)(1), (4). Pub. L. 105–368, § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-Subsec. (*o*). Pub. L. 105–368, § 503, amended subsec. (*o*) generally. Prior to amendment, subsec. (*o*) read as follows: “Whenever the salaries of judges paid under section 7253(e) of this title are increased, each annuity payable from the retirement fund which is based, in whole or in part, upon a deceased judge having rendered some portion of that judge’s final 18 months of service as a judge of the Court, shall also be increased. The amount of the increase in the annuity shall be determined by multiplying the amount of the annuity on the date on which the increase in salaries becomes effective by 3 percent for each full 5 percent by which those salaries were increased.”
+Subsec. (*o*). Pub. L. 105–368, § 503, amended subsec. (*o*) generally. Prior to amendment, subsec. (*o*) read as follows: “Whenever the salaries of judges paid under section 7253(e) of this title are increased, each annuity payable from the retirement fund which is based, in whole or in part, upon a deceased judge having rendered some portion of that judge’s final 18 months of service as a judge of the Court, shall also be increased. The amount of the increase in the annuity shall be determined by multiplying the amount of the annuity on the date on which the increase in salaries becomes effective by 3 percent for each full 5 percent by which those salaries were increased.”
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4097 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4097 of this title as this section.
 
-Subsec. (a)(3). Pub. L. 102–40, § 402(d)(1), substituted “7253(e)” for “4053(e)” and “7296(c)” for “4096(c)”.
+Subsec. (a)(3). Pub. L. 102–40, § 402(d)(1), substituted “7253(e)” for “4053(e)” and “7296(c)” for “4096(c)”.
 
-Subsec. (a)(4). Pub. L. 102–40, § 402(d)(1), substituted “7298” for “4098”.
+Subsec. (a)(4). Pub. L. 102–40, § 402(d)(1), substituted “7298” for “4098”.
 
-Subsec. (e). Pub. L. 102–40, § 402(d)(1), substituted “7296” for “4096” wherever appearing.
+Subsec. (e). Pub. L. 102–40, § 402(d)(1), substituted “7296” for “4096” wherever appearing.
 
 Subsec. (h)(1)(A)(i). Pub. L. 102–54 amended subsec. (h)(1)(A)(i) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “subsection (*l*)” for “subsection (1)”.
 
-Subsec. (k)(3). Pub. L. 102–40, § 402(d)(1), substituted “7296(d)” for “4096(d)”.
+Subsec. (k)(3). Pub. L. 102–40, § 402(d)(1), substituted “7296(d)” for “4096(d)”.
 
 Subsec. (n). Pub. L. 102–198 substituted “8440d” for “8440c”.
 
 Pub. L. 102–82 inserted “except section 8440c of title 5” before period at end of first sentence.
 
-Pub. L. 102–40, § 402(d)(1), substituted “7296(d)” for “4096(d)”.
+Pub. L. 102–40, § 402(d)(1), substituted “7296(d)” for “4096(d)”.
 
-Subsec. (*o*). Pub. L. 102–40, § 402(d)(1), substituted “7253(e)” for “4053(e)”.
+Subsec. (*o*). Pub. L. 102–40, § 402(d)(1), substituted “7253(e)” for “4053(e)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1711,7 +1711,7 @@ Amendment by section 1035(2) of Pub. L. 106–117 effective Nov. 30, 1999, with 
 
 Amendment by section 512(a)(1) of Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7298. Retirement Fund
+### § 7298. Retirement Fund
 
 **(a)** There is established in the Treasury a fund known as the Court of Appeals for Veterans Claims Retirement Fund.
 
@@ -1747,7 +1747,7 @@ Amendment by section 512(a)(1) of Pub. L. 105–368 effective on first day of fi
 
 **(g)** For purpose of section 255(g)(1)(B) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 905(g)(1)(B)), the retirement fund shall be treated in the same manner as the Claims Judges’ Retirement Fund.
 
-(Added Pub. L. 101–94, title I, § 101(a), Aug. 16, 1989, 103 Stat. 625, § 4098; renumbered § 7298 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, §§ 502, 512(a)(1), (2)(C), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, § 1011(j), Nov. 30, 1999, 113 Stat. 1589.)
+(Added Pub. L. 101–94, title I, § 101(a), Aug. 16, 1989, 103 Stat. 625, § 4098; renumbered § 7298 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 105–368, title V, §§ 502, 512(a)(1), (2)(C), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, § 1011(j), Nov. 30, 1999, 113 Stat. 1589.)
 
 **Editorial Notes**
 
@@ -1755,17 +1755,17 @@ Amendment by section 512(a)(1) of Pub. L. 105–368 effective on first day of fi
 
 1999—Subsec. (e)(2)(C), (D). Pub. L. 106–117 added subpar. (D) and redesignated former subpar. (C) as (D).
 
-1998—Pub. L. 105–368, § 512(a)(2)(C), struck out “Court of Veterans Appeals” before “Retirement Fund” in section catchline.
+1998—Pub. L. 105–368, § 512(a)(2)(C), struck out “Court of Veterans Appeals” before “Retirement Fund” in section catchline.
 
-Subsecs. (a), (d). Pub. L. 105–368, § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
+Subsecs. (a), (d). Pub. L. 105–368, § 512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-Subsec. (g). Pub. L. 105–368, § 502, added subsec. (g).
+Subsec. (g). Pub. L. 105–368, § 502, added subsec. (g).
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4098 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 4098 of this title as this section.
 
-Subsecs. (b), (c). Pub. L. 102–40, § 402(d)(1), substituted “7296” for “4096” and “7297” for “4097”.
+Subsecs. (b), (c). Pub. L. 102–40, § 402(d)(1), substituted “7296” for “4096” and “7297” for “4097”.
 
-Subsec. (e)(2)(B)(ii)(I). Pub. L. 102–40, § 402(d)(1), substituted “7296(i) and 7297(c)” for “4096(i) and 4097(c)” and “7296(j) and 7296(d)” for “4096(j) and 4096(d)”.
+Subsec. (e)(2)(B)(ii)(I). Pub. L. 102–40, § 402(d)(1), substituted “7296(i) and 7297(c)” for “4096(i) and 4097(c)” and “7296(j) and 7296(d)” for “4096(j) and 4096(d)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1773,10 +1773,10 @@ Subsec. (e)(2)(B)(ii)(I). Pub. L. 102–40, § 402(d)(1), substituted “7296(
 
 Amendment by section 512(a)(1), (2)(C) of Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 
-### § 7299. Limitation on activities of retired judges
+### § 7299. Limitation on activities of retired judges
 
 **(a)** A retired judge of the Court who is recall-eligible under section 7257 of this title and who in the practice of law represents (or supervises or directs the representation of) a client in making any claim relating to veterans’ benefits against the United States or any agency thereof shall, pursuant to such section, be considered to have declined recall service and be removed from the status of a recall-eligible judge. The pay of such a judge, pursuant to section 7296 of this title, shall be the pay of the judge at the time of the removal from recall status.
 
 **(b)** A recall-eligible judge shall be considered to be an officer or employee of the United States, but only during periods when the judge is serving in recall status. Any prohibition, limitation, or restriction that would otherwise apply to the activities of a recall-eligible judge shall apply only during periods when the judge is serving in recall status.
 
-(Added Pub. L. 106–117, title X, § 1024(a), Nov. 30, 1999, 113 Stat. 1593.)
+(Added Pub. L. 106–117, title X, § 1024(a), Nov. 30, 1999, 113 Stat. 1593.)

@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 945 of this title as this chapter.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 945 of this title as this chapter.
 
-1999—Pub. L. 106–65, div. A, title VII, § 721(c)(4), (6), Oct. 5, 1999, 113 Stat. 695, substituted “DISPOSITION” for “INQUESTS; DISPOSITION” in chapter heading and struck out item 9711 “Inquests”.
+1999—Pub. L. 106–65, div. A, title VII, § 721(c)(4), (6), Oct. 5, 1999, 113 Stat. 695, substituted “DISPOSITION” for “INQUESTS; DISPOSITION” in chapter heading and struck out item 9711 “Inquests”.
 
-1990—Pub. L. 101–510, div. A, title XV, § 1533(a)(10)(B), Nov. 5, 1990, 104 Stat. 1735, struck out item 9713 “Disposition of effects of deceased persons by Soldiers’ and Airmen’s Home”.
+1990—Pub. L. 101–510, div. A, title XV, § 1533(a)(10)(B), Nov. 5, 1990, 104 Stat. 1735, struck out item 9713 “Disposition of effects of deceased persons by Soldiers’ and Airmen’s Home”.
 
-1980—Pub. L. 96–513, title V, § 514(20)(C), Dec. 12, 1980, 94 Stat. 2936, substituted “Soldiers’ and Airmen’s Home” for “Soldiers’ Home” in item 9713.
+1980—Pub. L. 96–513, title V, § 514(20)(C), Dec. 12, 1980, 94 Stat. 2936, substituted “Soldiers’ and Airmen’s Home” for “Soldiers’ Home” in item 9713.
 
-## [§ 9711. Repealed. Pub. L. 106–65, div. A, title VII, § 721(b), Oct. 5, 1999, 113 Stat. 694]
+## [§ 9711. Repealed. Pub. L. 106–65, div. A, title VII, § 721(b), Oct. 5, 1999, 113 Stat. 694]
 
 Section, Aug. 10, 1956, ch. 1041, 70A Stat. 584, related to inquests.
 
-## § 9712. Disposition of effects of deceased persons by summary court-martial
+## § 9712. Disposition of effects of deceased persons by summary court-martial
 
 **(a)** Upon the death of—
 
@@ -63,13 +63,13 @@ the commanding officer of the place or command shall permit the legal representa
 
 **(f)** As soon as practicable after the effects have been converted into cash under subsection (e), the summary court-martial shall deposit all cash in the court’s possession and belonging to the estate with the officer designated in regulations, and shall send a receipt therefor, together with any will or other papers of value, an inventory of the effects and articles not permitted to be sold, to the executive part of the Department of the Air Force. The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 585; Pub. L. 89–718, § 48, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, § 514(19), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 99–145, title XIII, § 1301(d)(4)(A), Nov. 8, 1985, 99 Stat. 736; Pub. L. 101–510, div. A, title XV, § 1533(a)(9), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 104–316, title II, § 202(g), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 116–283, div. A, title IX, § 923(e)(15), Jan. 1, 2021, 134 Stat. 3818.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 585; Pub. L. 89–718, § 48, Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, § 514(19), Dec. 12, 1980, 94 Stat. 2936; Pub. L. 99–145, title XIII, § 1301(d)(4)(A), Nov. 8, 1985, 99 Stat. 736; Pub. L. 101–510, div. A, title XV, § 1533(a)(9), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 104–316, title II, § 202(g), Oct. 19, 1996, 110 Stat. 3842; Pub. L. 116–283, div. A, title IX, § 923(e)(15), Jan. 1, 2021, 134 Stat. 3818.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9712(a)     9712(b) | 5:150j (words before 1st semicolon of 1st par.; and last par.). 5:150j (22 words after 1st semicolon of 1st par.). | June 4, 1920, ch. 227, subch. II, § 1 (Art. 112), 41 Stat. 809; May 5, 1950, ch. 169, § 6(c), 64 Stat. 145. |
+| 9712(a) 9712(b) | 5:150j (words before 1st semicolon of 1st par.; and last par.). 5:150j (22 words after 1st semicolon of 1st par.). | June 4, 1920, ch. 227, subch. II, § 1 (Art. 112), 41 Stat. 809; May 5, 1950, ch. 169, § 6(c), 64 Stat. 145. |
 | 9712(c) | 5:150j (words between 1st and 2d semicolons of 1st par., less 1st 22 words). |  |
 | 9712(d) | 5:150j (words between 2d and 3d semicolons of 1st par.). |  |
 | 9712(e) | 5:150j (words between 3d and 4th semicolons of 1st par.). |  |
@@ -80,7 +80,7 @@ In subsection (a), the words “the court-martial jurisdiction of the Air Force 
 
 In subsections (a), (b), and (c), the words “surviving spouse” are substituted for the word “widow”.
 
-In subsection (c), the word “may” is substituted for the words “shall have authority to”. The words “to the extent permitted” are substituted for the words “in so far as \* \* \* will permit”. The words “under this article” and “upon its transactions” are omitted as surplusage.
+In subsection (c), the word “may” is substituted for the words “shall have authority to”. The words “to the extent permitted” are substituted for the words “in so far as \* \* \* will permit”. The words “under this article” and “upon its transactions” are omitted as surplusage.
 
 In subsection (d), the words “through the Quartermaster Corps” are omitted, since the Air Force does not have organic corps created by statute. The words “if such be found by said court” are omitted as surplusage. The words “United States” are substituted for the word “Government”. 5:150j (19 words before 3d semicolon of 1st par.) is omitted as covered by subsection (g).
 
@@ -96,9 +96,9 @@ In subsection (f), the words “Soldiers’ Home” are inserted, since, as prov
 
 1996—Subsec. (g). Pub. L. 104–316 struck out subsec. (g) which read as follows: “The summary court-martial shall make a full report of the transactions under this section, with respect to the deceased, to the Department of the Air Force for transmission to the General Accounting Office for action authorized in the settlement of accounts of deceased members of the Air Force.”
 
-1990—Subsec. (a)(2). Pub. L. 101–510, § 1533(a)(9)(A), substituted “a resident of the Armed Forces Retirement Home” for “an inmate of the United States Soldiers’ and Airmen’s Home”.
+1990—Subsec. (a)(2). Pub. L. 101–510, § 1533(a)(9)(A), substituted “a resident of the Armed Forces Retirement Home” for “an inmate of the United States Soldiers’ and Airmen’s Home”.
 
-Subsec. (f). Pub. L. 101–510, § 1533(a)(9)(B), struck out “for transmission to the United States Soldiers’ and Airmen’s Home” after “Department of the Air Force” and inserted at end “The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.”
+Subsec. (f). Pub. L. 101–510, § 1533(a)(9)(B), struck out “for transmission to the United States Soldiers’ and Airmen’s Home” after “Department of the Air Force” and inserted at end “The Secretary of the Air Force shall deliver to the Armed Forces Retirement Home all items received by the executive part of the Department of the Air Force under this subsection.”
 
 1985—Subsec. (d). Pub. L. 99–145 substituted pars. (1) to (6) for former pars. (1) to (9) which read as follows:
 
@@ -134,9 +134,9 @@ Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see sectio
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## [§ 9713. Repealed. Pub. L. 101–510, div. A, title XV, § 1533(a)(10)(A), Nov. 5, 1990, 104 Stat. 1735]
+## [§ 9713. Repealed. Pub. L. 101–510, div. A, title XV, § 1533(a)(10)(A), Nov. 5, 1990, 104 Stat. 1735]
 
-Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 586; Dec. 12, 1980, Pub. L. 96–513, title V, § 514(20)(A), (B), 94 Stat. 2936; Nov. 8, 1985, Pub. L. 99–145, title XIII, § 1301(d)(4)(B), 99 Stat. 737; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), 103 Stat. 1602, related to disposition of effects of deceased persons by Soldiers’ and Airmen’s Home.
+Section, acts Aug. 10, 1956, ch. 1041, 70A Stat. 586; Dec. 12, 1980, Pub. L. 96–513, title V, § 514(20)(A), (B), 94 Stat. 2936; Nov. 8, 1985, Pub. L. 99–145, title XIII, § 1301(d)(4)(B), 99 Stat. 737; Nov. 29, 1989, Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), 103 Stat. 1602, related to disposition of effects of deceased persons by Soldiers’ and Airmen’s Home.
 
 **Statutory Notes and Related Subsidiaries**
 

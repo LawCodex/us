@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–331, § 3(a)(2), Oct. 26, 1996, 110 Stat. 4069, added item 1296.
+1996—Pub. L. 104–331, § 3(a)(2), Oct. 26, 1996, 110 Stat. 4069, added item 1296.
 
-1984—Pub. L. 98–620, title IV, § 402(29)(C), Nov. 8, 1984, 98 Stat. 3359, struck out item 1296 “Precedence of cases in the United States Court of Appeals for the Federal Circuit”.
+1984—Pub. L. 98–620, title IV, § 402(29)(C), Nov. 8, 1984, 98 Stat. 3359, struck out item 1296 “Precedence of cases in the United States Court of Appeals for the Federal Circuit”.
 
-1982—Pub. L. 97–164, title I, § 127(b), Apr. 2, 1982, 96 Stat. 39, added items 1295 and 1296.
+1982—Pub. L. 97–164, title I, § 127(b), Apr. 2, 1982, 96 Stat. 39, added items 1295 and 1296.
 
-1978—Pub. L. 95–598, title II, § 236(b), Nov. 6, 1978, 92 Stat. 2667, directed the addition of item 1293, “Bankruptcy appeals”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598, title II, § 236(b), Nov. 6, 1978, 92 Stat. 2667, directed the addition of item 1293, “Bankruptcy appeals”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-1961—Pub. L. 87–189, § 4, Aug. 30, 1961, 75 Stat. 417, struck out item 1293 “Final decisions of Puerto Rico and Hawaii Supreme Courts”.
+1961—Pub. L. 87–189, § 4, Aug. 30, 1961, 75 Stat. 417, struck out item 1293 “Final decisions of Puerto Rico and Hawaii Supreme Courts”.
 
-## § 1291. Final decisions of district courts
+## § 1291. Final decisions of district courts
 
 The courts of appeals (other than the United States Court of Appeals for the Federal Circuit) shall have jurisdiction of appeals from all final decisions of the district courts of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands, except where a direct review may be had in the Supreme Court. The jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
 
-(June 25, 1948, ch. 646, 62 Stat. 929; Oct. 31, 1951, ch. 655, § 48, 65 Stat. 726; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 97–164, title I, § 124, Apr. 2, 1982, 96 Stat. 36.)
+(June 25, 1948, ch. 646, 62 Stat. 929; Oct. 31, 1951, ch. 655, § 48, 65 Stat. 726; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 97–164, title I, § 124, Apr. 2, 1982, 96 Stat. 36.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 225(a), 933(a)(1), and section 1356 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and sections 61 and 62 of title 7 of the Canal Zone Code (Mar. 3, 1911, ch. 231, § 128, 36 Stat. 1133; Aug. 24, 1912, ch. 390, § 9, 37 Stat. 566; Jan. 28, 1915, ch. 22, § 2, 38 Stat. 804; Feb. 7, 1925, ch. 150, 43 Stat. 813; Sept. 21, 1922, ch. 370, § 3, 42 Stat. 1006; Feb. 13, 1925, ch. 229, § 1, 43 Stat. 936; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; May 17, 1932, ch. 190, 47 Stat. 158; Feb. 16, 1933, ch. 91, § 3, 47 Stat. 817; May 31, 1935, ch. 160, 49 Stat. 313; June 20, 1938, ch. 526, 52 Stat. 779; Aug. 2, 1946, ch. 753, § 412(a)(1), 60 Stat. 844).
+Based on title 28, U.S.C., 1940 ed., §§ 225(a), 933(a)(1), and section 1356 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and sections 61 and 62 of title 7 of the Canal Zone Code (Mar. 3, 1911, ch. 231, § 128, 36 Stat. 1133; Aug. 24, 1912, ch. 390, § 9, 37 Stat. 566; Jan. 28, 1915, ch. 22, § 2, 38 Stat. 804; Feb. 7, 1925, ch. 150, 43 Stat. 813; Sept. 21, 1922, ch. 370, § 3, 42 Stat. 1006; Feb. 13, 1925, ch. 229, § 1, 43 Stat. 936; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; May 17, 1932, ch. 190, 47 Stat. 158; Feb. 16, 1933, ch. 91, § 3, 47 Stat. 817; May 31, 1935, ch. 160, 49 Stat. 313; June 20, 1938, ch. 526, 52 Stat. 779; Aug. 2, 1946, ch. 753, § 412(a)(1), 60 Stat. 844).
 
 This section rephrases and simplifies paragraphs “First”, “Second”, and “Third” of section 225(a) of title 28, U.S.C., 1940 ed., which referred to each Territory and Possession separately, and to sections 61 and 62 of the Canal Zone Code, section 933(a)(1) of said title relating to jurisdiction of appeals in tort claims cases, and the provisions of section 1356 of title 48, U.S.C., 1940 ed., relating to jurisdiction of appeals from final judgments of the district court for the Canal Zone.
 
@@ -97,7 +97,7 @@ Changes were made in phraseology.
 
 **Amendments**
 
-1982—Pub. L. 97–164, § 124, inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “The court of appeals” and inserted provision that the jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
+1982—Pub. L. 97–164, § 124, inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “The court of appeals” and inserted provision that the jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
 
 1958—Pub. L. 85–508 struck out provisions which gave courts of appeals jurisdiction of appeals from District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
@@ -117,7 +117,7 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-## § 1292. Interlocutory decisions
+## § 1292. Interlocutory decisions
 
 **(a)** Except as provided in subsections (c) and (d) of this section, the courts of appeals shall have jurisdiction of appeals from:
 
@@ -151,11 +151,11 @@ For termination of the United States District Court for the District of the Cana
 
 **(e)** The Supreme Court may prescribe rules, in accordance with section 2072 of this title, to provide for an appeal of an interlocutory decision to the courts of appeals that is not otherwise provided for under subsection (a), (b), (c), or (d).
 
-(June 25, 1948, ch. 646, 62 Stat. 929; Oct. 31, 1951, ch. 655, § 49, 65 Stat. 726; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 85–919, Sept. 2, 1958, 72 Stat. 1770; Pub. L. 97–164, § 125, Apr. 2, 1982, 96 Stat. 36; Pub. L. 98–620, title IV, § 412, Nov. 8, 1984, 98 Stat. 3362; Pub. L. 100–702, title V, § 501, Nov. 19, 1988, 102 Stat. 4652; Pub. L. 102–572, title I, § 101, title IX, §§ 902(b), 906(c), Oct. 29, 1992, 106 Stat. 4506, 4516, 4518.)
+(June 25, 1948, ch. 646, 62 Stat. 929; Oct. 31, 1951, ch. 655, § 49, 65 Stat. 726; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 85–919, Sept. 2, 1958, 72 Stat. 1770; Pub. L. 97–164, § 125, Apr. 2, 1982, 96 Stat. 36; Pub. L. 98–620, title IV, § 412, Nov. 8, 1984, 98 Stat. 3362; Pub. L. 100–702, title V, § 501, Nov. 19, 1988, 102 Stat. 4652; Pub. L. 102–572, title I, § 101, title IX, §§ 902(b), 906(c), Oct. 29, 1992, 106 Stat. 4506, 4516, 4518.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 225(b), 227, 227a, and section 61 of title 7 of the Canal Zone Code (Mar. 3, 1911, ch. 231, §§ 128, 129, 36 Stat. 1133, 1134; Feb. 13, 1925, ch. 229, § 1, 43 Stat. 937; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Apr. 3, 1926, ch. 102, 44 Stat. 233; May 20, 1926, ch. 347, § 13(a), 44 Stat. 587; Apr. 11, 1928, ch. 354, § 1, 45 Stat. 422; May 17, 1932, ch. 190, 47 Stat. 158).
+Based on title 28, U.S.C., 1940 ed., §§ 225(b), 227, 227a, and section 61 of title 7 of the Canal Zone Code (Mar. 3, 1911, ch. 231, §§ 128, 129, 36 Stat. 1133, 1134; Feb. 13, 1925, ch. 229, § 1, 43 Stat. 937; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Apr. 3, 1926, ch. 102, 44 Stat. 233; May 20, 1926, ch. 347, § 13(a), 44 Stat. 587; Apr. 11, 1928, ch. 354, § 1, 45 Stat. 422; May 17, 1932, ch. 190, 47 Stat. 158).
 
 Section consolidates sections 225(b), 227 and part of 227a of title 28, U.S.C., 1940 ed., with necessary changes in phraseology to effect the consolidation.
 
@@ -185,25 +185,25 @@ Section 61 of title 7 of the Canal Zone Code is also incorporated in sections 12
 
 **Amendments**
 
-1992—Subsec. (d)(2). Pub. L. 102–572, §§ 902(b)(1), 906(c), substituted “When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims” for “When any judge of the United States Claims Court”.
+1992—Subsec. (d)(2). Pub. L. 102–572, §§ 902(b)(1), 906(c), substituted “When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims” for “When any judge of the United States Claims Court”.
 
-Subsec. (d)(3). Pub. L. 102–572, § 902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in two places.
+Subsec. (d)(3). Pub. L. 102–572, § 902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in two places.
 
-Subsec. (d)(4). Pub. L. 102–572, § 902(b), substituted “United States Court of Federal Claims” for “United States Claims Court” in subpar. (A) and “Court of Federal Claims” for “Claims Court” in two places in subpar. (B).
+Subsec. (d)(4). Pub. L. 102–572, § 902(b), substituted “United States Court of Federal Claims” for “United States Claims Court” in subpar. (A) and “Court of Federal Claims” for “Claims Court” in two places in subpar. (B).
 
-Subsec. (e). Pub. L. 102–572, § 101, added subsec. (e).
+Subsec. (e). Pub. L. 102–572, § 101, added subsec. (e).
 
 1988—Subsec. (d)(4). Pub. L. 100–702 added par. (4).
 
-1984—Subsec. (b). Pub. L. 98–620, § 412(a), inserted “which would have jurisdiction of an appeal of such action” after “The Court of Appeals”.
+1984—Subsec. (b). Pub. L. 98–620, § 412(a), inserted “which would have jurisdiction of an appeal of such action” after “The Court of Appeals”.
 
-Subsec. (c)(1). Pub. L. 98–620, § 412(b), inserted “or (b)” after “(a)”.
+Subsec. (c)(1). Pub. L. 98–620, § 412(b), inserted “or (b)” after “(a)”.
 
-1982—Subsec. (a). Pub. L. 97–164, § 125(a)(1), substituted “Except as provided in subsections (c) and (d) of this section, the courts” for “The courts” in introductory provisions.
+1982—Subsec. (a). Pub. L. 97–164, § 125(a)(1), substituted “Except as provided in subsections (c) and (d) of this section, the courts” for “The courts” in introductory provisions.
 
-Subsec. (a)(4). Pub. L. 97–164, § 125(a)(2), (3), struck out par. (4) which related to judgments in civil actions for patent infringement which were final except for accounting.
+Subsec. (a)(4). Pub. L. 97–164, § 125(a)(2), (3), struck out par. (4) which related to judgments in civil actions for patent infringement which were final except for accounting.
 
-Subsecs. (c), (d). Pub. L. 97–164, § 125(b), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 97–164, § 125(b), added subsecs. (c) and (d).
 
 1958—Pub. L. 85–919 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -221,7 +221,7 @@ Amendment by sections 902(b) and 906(c) of Pub. L. 102–572 effective Oct. 29, 
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–702, title V, § 502, Nov. 19, 1988, 102 Stat. 4652, provided that: “The amendment made by section 501 [amending this section] shall apply to any action commenced in the district court on or after the date of enactment of this title [Nov. 19, 1988].”
+Pub. L. 100–702, title V, § 502, Nov. 19, 1988, 102 Stat. 4652, provided that: “The amendment made by section 501 [amending this section] shall apply to any action commenced in the district court on or after the date of enactment of this title [Nov. 19, 1988].”
 
 **Effective Date of 1982 Amendment**
 
@@ -235,13 +235,13 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
 
-## [§ 1293. Repealed. Pub. L. 87–189, § 3, Aug. 30, 1961, 75 Stat. 417]
+## [§ 1293. Repealed. Pub. L. 87–189, § 3, Aug. 30, 1961, 75 Stat. 417]
 
-Section, acts June 25, 1948, ch. 646, 62 Stat. 929; Mar. 18, 1959, Pub. L. 86–3, § 14(b), 73 Stat. 10, provided for appeal from supreme court of Puerto Rico to court of appeals for first circuit. See section 1258 of this title.
+Section, acts June 25, 1948, ch. 646, 62 Stat. 929; Mar. 18, 1959, Pub. L. 86–3, § 14(b), 73 Stat. 10, provided for appeal from supreme court of Puerto Rico to court of appeals for first circuit. See section 1258 of this title.
 
-A subsequent section 1293, added Pub. L. 95–598, title II, § 236(a), Nov. 6, 1978, 92 Stat. 2667, which related to bankruptcy appeals, did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+A subsequent section 1293, added Pub. L. 95–598, title II, § 236(a), Nov. 6, 1978, 92 Stat. 2667, which related to bankruptcy appeals, did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 1294. Circuits in which decisions reviewable
+## § 1294. Circuits in which decisions reviewable
 
 Except as provided in sections 1292(c), 1292(d), and 1295 of this title, appeals from reviewable decisions of the district and territorial courts shall be taken to the courts of appeals as follows:
 
@@ -253,11 +253,11 @@ Except as provided in sections 1292(c), 1292(d), and 1295 of this title, appeals
 
 **(4)** From the District Court of Guam, to the Court of Appeals for the Ninth Circuit.
 
-(June 25, 1948, ch. 646, 62 Stat. 930; Oct. 31, 1951, ch. 655, § 50(a), 65 Stat. 727; Pub. L. 85–508, § 12(g), July 7, 1958, 72 Stat. 348; Pub. L. 86–3, § 14(c), Mar. 18, 1959, 73 Stat. 10; Pub. L. 87–189, § 5, Aug. 30, 1961, 75 Stat. 417; Pub. L. 95–598, title II, § 237, Nov. 6, 1978, 92 Stat. 2667; Pub. L. 97–164, title I, § 126, Apr. 2, 1982, 96 Stat. 37.)
+(June 25, 1948, ch. 646, 62 Stat. 930; Oct. 31, 1951, ch. 655, § 50(a), 65 Stat. 727; Pub. L. 85–508, § 12(g), July 7, 1958, 72 Stat. 348; Pub. L. 86–3, § 14(c), Mar. 18, 1959, 73 Stat. 10; Pub. L. 87–189, § 5, Aug. 30, 1961, 75 Stat. 417; Pub. L. 95–598, title II, § 237, Nov. 6, 1978, 92 Stat. 2667; Pub. L. 97–164, title I, § 126, Apr. 2, 1982, 96 Stat. 37.)
 
 **Historical and Revision Notes**
 
-Based on section 1141(b)(1)(2)(3) of title 26, U.S.C., 1940 ed., Internal Revenue Code, title 28, U.S.C., 1940 ed., § 225(d) and sections 645, 864, 865, 1356, and 1392 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 61 of title 7 of the Canal Zone Code (Apr. 12, 1900, ch. 191, § 35, 31 Stat. 85; Mar. 3, 1911, ch. 231, § 128, 36 Stat. 1133; Aug. 24, 1912, ch. 390, § 9, 37 Stat. 566; Mar. 2, 1917, ch. 145, §§ 42, 43, 39 Stat. 966; Mar. 3, 1917, ch. 171, § 2, 39 Stat. 1132; Sept. 21, 1922, ch. 370, § 3, 42 Stat. 1006; Feb. 13, 1925, ch. 229, §§ 1, 13, 43 Stat. 936, 942; Feb. 26, 1926, ch. 27, § 1002, 44 Stat. 110; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; May 17, 1932, ch. 190, 47 Stat. 158; Feb. 16, 1933, ch. 91, § 3, 47 Stat. 817; May 10, 1934, ch. 277, § 519, 48 Stat. 760; Feb. 10, 1939, ch. 2, § 1141(b)(1)(2)(3), 53 Stat. 164).
+Based on section 1141(b)(1)(2)(3) of title 26, U.S.C., 1940 ed., Internal Revenue Code, title 28, U.S.C., 1940 ed., § 225(d) and sections 645, 864, 865, 1356, and 1392 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 61 of title 7 of the Canal Zone Code (Apr. 12, 1900, ch. 191, § 35, 31 Stat. 85; Mar. 3, 1911, ch. 231, § 128, 36 Stat. 1133; Aug. 24, 1912, ch. 390, § 9, 37 Stat. 566; Mar. 2, 1917, ch. 145, §§ 42, 43, 39 Stat. 966; Mar. 3, 1917, ch. 171, § 2, 39 Stat. 1132; Sept. 21, 1922, ch. 370, § 3, 42 Stat. 1006; Feb. 13, 1925, ch. 229, §§ 1, 13, 43 Stat. 936, 942; Feb. 26, 1926, ch. 27, § 1002, 44 Stat. 110; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; May 17, 1932, ch. 190, 47 Stat. 158; Feb. 16, 1933, ch. 91, § 3, 47 Stat. 817; May 10, 1934, ch. 277, § 519, 48 Stat. 760; Feb. 10, 1939, ch. 2, § 1141(b)(1)(2)(3), 53 Stat. 164).
 
 Section consolidates the venue provisions of sections 645, 864, 1356, and 1392 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions with sections 1141(b)(1)(2)(3) to title 26, U.S.C., 1940 ed., Internal Revenue and sections 225(d) and 865 of said title 48. Other provisions of said section 864, not incorporated in this section and sections 41 and 119 of this title, were retained in title 48. Other provisions of said section 1356 are incorporated in section 1291 of this title. Other provisions of said section 1392 were also retained in title 48.
 
@@ -355,7 +355,7 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-## § 1295. Jurisdiction of the United States Court of Appeals for the Federal Circuit
+## § 1295. Jurisdiction of the United States Court of Appeals for the Federal Circuit
 
 **(a)** The United States Court of Appeals for the Federal Circuit shall have exclusive jurisdiction—
 
@@ -397,7 +397,7 @@ For termination of the United States District Court for the District of the Cana
 
 **(c)** The Court of Appeals for the Federal Circuit shall review the matter referred in accordance with the standards specified in section 7107(b) of title 41. The court shall proceed with judicial review on the administrative record made before the board of contract appeals on matters so referred as in other cases pending in such court, shall determine the issue of finality of the appeal decision, and shall, if appropriate, render judgment thereon, or remand the matter to any administrative or executive body or official with such direction as it may deem proper and just.
 
-(Added Pub. L. 97–164, title I, § 127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, § 205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, § 1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, § 1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, § 102(c), title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4402(b)(2), 4732(b)(14)], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–584; Pub. L. 111–350, § 5(g)(5), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 112–29, §§ 7(c)(2), 19(b), Sept. 16, 2011, 125 Stat. 314, 331.)
+(Added Pub. L. 97–164, title I, § 127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, § 205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, § 1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, § 1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, § 102(c), title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4402(b)(2), 4732(b)(14)], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–584; Pub. L. 111–350, § 5(g)(5), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 112–29, §§ 7(c)(2), 19(b), Sept. 16, 2011, 125 Stat. 314, 331.)
 
 **Editorial Notes**
 
@@ -415,27 +415,27 @@ Section 523 of the Energy Policy and Conservation Act, referred to in subsec. (a
 
 **Amendments**
 
-2011—Subsec. (a)(1). Pub. L. 112–29, § 19(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1338 of this title, except that a case involving a claim arising under any Act of Congress relating to copyrights, exclusive rights in mask works, or trademarks and no other claims under section 1338(a) shall be governed by sections 1291, 1292, and 1294 of this title;”.
+2011—Subsec. (a)(1). Pub. L. 112–29, § 19(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1338 of this title, except that a case involving a claim arising under any Act of Congress relating to copyrights, exclusive rights in mask works, or trademarks and no other claims under section 1338(a) shall be governed by sections 1291, 1292, and 1294 of this title;”.
 
-Subsec. (a)(4)(A). Pub. L. 112–29, § 7(c)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;”.
+Subsec. (a)(4)(A). Pub. L. 112–29, § 7(c)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;”.
 
-Subsec. (a)(10). Pub. L. 111–350, § 5(g)(5)(A), substituted “section 7107(a)(1) of title 41” for “section 8(g)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 607(g)(1))”.
+Subsec. (a)(10). Pub. L. 111–350, § 5(g)(5)(A), substituted “section 7107(a)(1) of title 41” for “section 8(g)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 607(g)(1))”.
 
-Subsec. (b). Pub. L. 111–350, § 5(g)(5)(B), substituted “section 7107(b) of title 41” for “section 10(b) of the Contract Disputes Act of 1978 (41 U.S.C. 609(b))”.
+Subsec. (b). Pub. L. 111–350, § 5(g)(5)(B), substituted “section 7107(b) of title 41” for “section 10(b) of the Contract Disputes Act of 1978 (41 U.S.C. 609(b))”.
 
-Subsec. (c). Pub. L. 111–350, § 5(g)(5)(C), substituted “section 7107(b) of title 41” for “section 10(b) of the Contract Disputes Act of 1978”.
+Subsec. (c). Pub. L. 111–350, § 5(g)(5)(C), substituted “section 7107(b) of title 41” for “section 10(b) of the Contract Disputes Act of 1978”.
 
-1999—Subsec. (a)(4)(A). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(14)(A)], inserted “United States” before “Patent and Trademark”.
+1999—Subsec. (a)(4)(A). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(14)(A)], inserted “United States” before “Patent and Trademark”.
 
-Subsec. (a)(4)(B). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(14)(B)], substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
+Subsec. (a)(4)(B). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(b)(14)(B)], substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
 
-Subsec. (a)(4)(C). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4402(b)(2)], substituted “145, 146, or 154(b)” for “145 or 146”.
+Subsec. (a)(4)(C). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4402(b)(2)], substituted “145, 146, or 154(b)” for “145 or 146”.
 
-1992—Subsec. (a)(3). Pub. L. 102–572, § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a)(3). Pub. L. 102–572, § 902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-Subsec. (a)(11) to (14). Pub. L. 102–572, § 102(c), added pars. (11) to (14).
+Subsec. (a)(11) to (14). Pub. L. 102–572, § 102(c), added pars. (11) to (14).
 
-1988—Subsec. (a)(1). Pub. L. 100–702 inserted “, exclusive rights in mask works,” after “copyrights”.
+1988—Subsec. (a)(1). Pub. L. 100–702 inserted “, exclusive rights in mask works,” after “copyrights”.
 
 Subsec. (a)(7). Pub. L. 100–418 substituted “U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States” for “headnote 6 to schedule 8, part 4, of the Tariff Schedules of the United States”.
 
@@ -447,13 +447,13 @@ Subsec. (a)(7). Pub. L. 100–418 substituted “U.S. note 6 to subchapter X of 
 
 Amendment by section 7(c)(2) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, see section 7(e) of Pub. L. 112–29, set out as a note under section 6 of Title 35, Patents.
 
-Pub. L. 112–29, § 19(e), Sept. 16, 2011, 125 Stat. 333, provided that: “The amendments made by this section [enacting section 1454 of this title and section 299 of Title 35, Patents, and amending this section and section 1338 of this title] shall apply to any civil action commenced on or after the date of the enactment of this Act [Sept. 16, 2011].”
+Pub. L. 112–29, § 19(e), Sept. 16, 2011, 125 Stat. 333, provided that: “The amendments made by this section [enacting section 1454 of this title and section 299 of Title 35, Patents, and amending this section and section 1338 of this title] shall apply to any civil action commenced on or after the date of the enactment of this Act [Sept. 16, 2011].”
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title IV, § 4402(b)(2)] of Pub. L. 106–113 effective on date that is 6 months after Nov. 29, 1999, and, except for design patent application filed under chapter 16 of Title 35, applicable to any application filed on or after such date, see section 1000(a)(9) [title IV, § 4405(a)] of Pub. L. 106–113, set out as a note under section 154 of Title 35, Patents.
+Amendment by section 1000(a)(9) [title IV, § 4402(b)(2)] of Pub. L. 106–113 effective on date that is 6 months after Nov. 29, 1999, and, except for design patent application filed under chapter 16 of Title 35, applicable to any application filed on or after such date, see section 1000(a)(9) [title IV, § 4405(a)] of Pub. L. 106–113, set out as a note under section 154 of Title 35, Patents.
 
-Amendment by section 1000(a)(9) [title IV, § 4732(b)(14)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by section 1000(a)(9) [title IV, § 4732(b)(14)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Effective Date of 1992 Amendment**
 
@@ -477,7 +477,7 @@ Section effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as 
 
 **Abolition of Temporary Emergency Court of Appeals**
 
-Pub. L. 102–572, title I, § 102(d), (e), Oct. 29, 1992, 106 Stat. 4507, provided that:
+Pub. L. 102–572, title I, § 102(d), (e), Oct. 29, 1992, 106 Stat. 4507, provided that:
 
 > **“(d) Abolition of Court.—** The Temporary Emergency Court of Appeals created by section 211(b) of the Economic Stabilization Act of 1970 [Pub. L. 91–379, formerly set out as a note under section 1904 of Title 12, Banks and Banking] is abolished, effective 6 months after the date of the enactment of this Act [Oct. 29, 1992].
 
@@ -491,7 +491,7 @@ Pub. L. 102–572, title I, § 102(d), (e), Oct. 29, 1992, 106 Stat. 4507, pro
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
-## § 1296. Review of certain agency actions
+## § 1296. Review of certain agency actions
 
 **(a) Jurisdiction.—** Subject to the provisions of chapter 179, the United States Court of Appeals for the Federal Circuit shall have jurisdiction over a petition for review of a final decision under chapter 5 of title 3 of—
 
@@ -503,14 +503,14 @@ For termination of the United States District Court for the District of the Cana
 
 **(b) Filing of Petition.—** Any petition for review under this section must be filed within 30 days after the date the petitioner receives notice of the final decision.
 
-(Added Pub. L. 104–331, § 3(a)(1), Oct. 26, 1996, 110 Stat. 4068.)
+(Added Pub. L. 104–331, § 3(a)(1), Oct. 26, 1996, 110 Stat. 4068.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1296, added Pub. L. 97–164, title I, § 127(a), Apr. 2, 1982, 96 Stat. 39, related to precedence of cases in United States Court of Appeals for the Federal Circuit, prior to repeal by Pub. L. 98–620, title IV, § 402(29)(C), Nov. 8, 1984, 98 Stat. 3359.
+A prior section 1296, added Pub. L. 97–164, title I, § 127(a), Apr. 2, 1982, 96 Stat. 39, related to precedence of cases in United States Court of Appeals for the Federal Circuit, prior to repeal by Pub. L. 98–620, title IV, § 402(29)(C), Nov. 8, 1984, 98 Stat. 3359.
 
 **Effective Date**
 
-Pub. L. 104–331, § 3(d), Oct. 26, 1996, 110 Stat. 4071, provided that: “The amendments made by this section [enacting this section and sections 1413 and 3901 to 3908 of this title and amending sections 1346 and 2402 of this title] shall take effect on October 1, 1997.”
+Pub. L. 104–331, § 3(d), Oct. 26, 1996, 110 Stat. 4071, provided that: “The amendments made by this section [enacting this section and sections 1413 and 3901 to 3908 of this title and amending sections 1346 and 2402 of this title] shall take effect on October 1, 1997.”

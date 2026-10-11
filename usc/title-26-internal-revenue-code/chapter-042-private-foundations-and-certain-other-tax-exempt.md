@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2017—Pub. L. 115–97, title I, § 13701(b), Dec. 22, 2017, 131 Stat. 2168, added item for subchapter H.
+2017—Pub. L. 115–97, title I, § 13701(b), Dec. 22, 2017, 131 Stat. 2168, added item for subchapter H.
 
-2006—Pub. L. 109–280, title XII, § 1231(b)(2), Aug. 17, 2006, 120 Stat. 1098, which directed the addition of item for subchapter G to the analysis for chapter 42 without specifying the act to be amended, was executed by adding the item to this analysis, which is for chapter 42 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+2006—Pub. L. 109–280, title XII, § 1231(b)(2), Aug. 17, 2006, 120 Stat. 1098, which directed the addition of item for subchapter G to the analysis for chapter 42 without specifying the act to be amended, was executed by adding the item to this analysis, which is for chapter 42 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-Pub. L. 109–222, title V, § 516(a)(2), May 17, 2006, 120 Stat. 371, added item for subchapter F.
+Pub. L. 109–222, title V, § 516(a)(2), May 17, 2006, 120 Stat. 371, added item for subchapter F.
 
-1996—Pub. L. 104–168, title XIII, § 1311(c)(6), July 30, 1996, 110 Stat. 1478, struck out item for subchapter D “Abatement of first and second-tier taxes in certain cases” and added items for subchapters D and E.
+1996—Pub. L. 104–168, title XIII, § 1311(c)(6), July 30, 1996, 110 Stat. 1478, struck out item for subchapter D “Abatement of first and second-tier taxes in certain cases” and added items for subchapters D and E.
 
-1987—Pub. L. 100–203, title X, § 10712(c)(7), (9), Dec. 22, 1987, 101 Stat. 1330–467, substituted in chapter heading “AND CERTAIN OTHER TAX-EXEMPT ORGANIZATIONS” for “BLACK LUNG BENEFIT TRUSTS”, struck out item for subchapter C “Abatement of first and second tier taxes in certain cases”, and added items for subchapters C and D.
+1987—Pub. L. 100–203, title X, § 10712(c)(7), (9), Dec. 22, 1987, 101 Stat. 1330–467, substituted in chapter heading “AND CERTAIN OTHER TAX-EXEMPT ORGANIZATIONS” for “BLACK LUNG BENEFIT TRUSTS”, struck out item for subchapter C “Abatement of first and second tier taxes in certain cases”, and added items for subchapters C and D.
 
-1984—Pub. L. 98–369, div. A, title III, § 305(b)(3), July 18, 1984, 98 Stat. 784, substituted “Abatement of first and second tier taxes in certain cases” for “Abatement of second tier taxes where there is correction during correction period” in item for subchapter C.
+1984—Pub. L. 98–369, div. A, title III, § 305(b)(3), July 18, 1984, 98 Stat. 784, substituted “Abatement of first and second tier taxes in certain cases” for “Abatement of second tier taxes where there is correction during correction period” in item for subchapter C.
 
-1980—Pub. L. 96–596, § 2(c)(3), Dec. 24, 1980, 94 Stat. 3474, added item for subchapter C.
+1980—Pub. L. 96–596, § 2(c)(3), Dec. 24, 1980, 94 Stat. 3474, added item for subchapter C.
 
-1978—Pub. L. 95–227, § 4(c)(2)(A), Feb. 10, 1978, 92 Stat. 22, in chapter heading inserted “; BLACK LUNG BENEFIT TRUSTS” after “FOUNDATIONS”, and added items for subchapters A and B.
+1978—Pub. L. 95–227, § 4(c)(2)(A), Feb. 10, 1978, 92 Stat. 22, in chapter heading inserted “; BLACK LUNG BENEFIT TRUSTS” after “FOUNDATIONS”, and added items for subchapters A and B.
 
-1969—Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 498, added chapter heading “PRIVATE FOUNDATIONS”.
+1969—Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 498, added chapter heading “PRIVATE FOUNDATIONS”.
 
 ## Subchapter A—Private Foundations
 
@@ -43,11 +43,11 @@ Pub. L. 109–222, title V, § 516(a)(2), May 17, 2006, 120 Stat. 371, added i
 
 **Amendments**
 
-1978—Pub. L. 95–227, § 4(c)(2)(A), Feb. 10, 1978, 92 Stat. 22, added subchapter A heading and designated sections 4940 to 4948 as subchapter A.
+1978—Pub. L. 95–227, § 4(c)(2)(A), Feb. 10, 1978, 92 Stat. 22, added subchapter A heading and designated sections 4940 to 4948 as subchapter A.
 
-1969—Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 498, added analysis of sections.
+1969—Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 498, added analysis of sections.
 
-### § 4940. Excise tax based on investment income
+### § 4940. Excise tax based on investment income
 
 **(a) Tax-exempt foundations**
 
@@ -149,7 +149,7 @@ The term “family” has the meaning given to such term by section 4946(d).
 
 The rules of paragraphs (3) and (4) of section 4946(a) shall apply for purposes of subparagraph (B)(ii).
 
-(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 498; amended Pub. L. 94–455, title XIX, § 1901(b)(33)(N), Oct. 4, 1976, 90 Stat. 1802; Pub. L. 95–345, § 2(a)(4), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title V, § 520(a), Nov. 6, 1978, 92 Stat. 2884; Pub. L. 98–369, div. A, title III, §§ 302(a), 303(a), July 18, 1984, 98 Stat. 779, 781; Pub. L. 99–514, title XIII, § 1301(j)(6), title XVIII, § 1832, Oct. 22, 1986, 100 Stat. 2658, 2851; Pub. L. 109–280, title XII, § 1221(a)(1), (b), Aug. 17, 2006, 120 Stat. 1089; Pub. L. 110–172, § 3(f), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 116–94, div. Q, title II, § 206(a), (b), Dec. 20, 2019, 133 Stat. 3246.)
+(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 498; amended Pub. L. 94–455, title XIX, § 1901(b)(33)(N), Oct. 4, 1976, 90 Stat. 1802; Pub. L. 95–345, § 2(a)(4), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title V, § 520(a), Nov. 6, 1978, 92 Stat. 2884; Pub. L. 98–369, div. A, title III, §§ 302(a), 303(a), July 18, 1984, 98 Stat. 779, 781; Pub. L. 99–514, title XIII, § 1301(j)(6), title XVIII, § 1832, Oct. 22, 1986, 100 Stat. 2658, 2851; Pub. L. 109–280, title XII, § 1221(a)(1), (b), Aug. 17, 2006, 120 Stat. 1089; Pub. L. 110–172, § 3(f), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 116–94, div. Q, title II, § 206(a), (b), Dec. 20, 2019, 133 Stat. 3246.)
 
 **Editorial Notes**
 
@@ -159,31 +159,31 @@ Section 1221(a)(1), (b) of Pub. L. 109–280, which directed the amendment of se
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 116–94, § 206(a), substituted “1.39 percent” for “2 percent”.
+2019—Subsec. (a). Pub. L. 116–94, § 206(a), substituted “1.39 percent” for “2 percent”.
 
-Subsec. (e). Pub. L. 116–94, § 206(b), struck out subsec. (e) which provided for reduction in tax where private foundation met certain distribution requirements.
+Subsec. (e). Pub. L. 116–94, § 206(b), struck out subsec. (e) which provided for reduction in tax where private foundation met certain distribution requirements.
 
 2007—Subsec. (c)(4)(A). Pub. L. 110–172 amended text generally. Prior to amendment, text read as follows: “There shall be taken into account only gains and losses from the sale or other disposition of property used for the production of interest, dividends, rents, and royalties, and property used for the production of income included in computing the tax imposed by section 511 (except to the extent gain or loss from the sale or other disposition of such property is taken into account for purposes of such tax).”
 
-2006—Subsec. (c)(2). Pub. L. 109–280, § 1221(a)(1), inserted at end “Such term shall also include income from sources similar to those in the preceding sentence.” See Codification note above.
+2006—Subsec. (c)(2). Pub. L. 109–280, § 1221(a)(1), inserted at end “Such term shall also include income from sources similar to those in the preceding sentence.” See Codification note above.
 
-Subsec. (c)(4)(A). Pub. L. 109–280, § 1221(b)(1), substituted “gross investment income (as defined in paragraph (2))” for “interest, dividends, rents, and royalties”. See Codification note above.
+Subsec. (c)(4)(A). Pub. L. 109–280, § 1221(b)(1), substituted “gross investment income (as defined in paragraph (2))” for “interest, dividends, rents, and royalties”. See Codification note above.
 
-Subsec. (c)(4)(C). Pub. L. 109–280, § 1221(b)(2), inserted “or carrybacks” after “carryovers”. See Codification note above.
+Subsec. (c)(4)(C). Pub. L. 109–280, § 1221(b)(2), inserted “or carrybacks” after “carryovers”. See Codification note above.
 
-Subsec. (c)(4)(D). Pub. L. 109–280, § 1221(b)(3), added subpar. (D). See Codification note above.
+Subsec. (c)(4)(D). Pub. L. 109–280, § 1221(b)(3), added subpar. (D). See Codification note above.
 
-1986—Subsec. (c)(5). Pub. L. 99–514, § 1301(j), substituted “(relating to State and local bonds)” for “(relating to interest on certain governmental obligations)”.
+1986—Subsec. (c)(5). Pub. L. 99–514, § 1301(j), substituted “(relating to State and local bonds)” for “(relating to interest on certain governmental obligations)”.
 
-Subsec. (e)(2). Pub. L. 99–514, § 1832, added subpar. (B) and struck out former subpar. (B) and concluding provision which read as follows:
+Subsec. (e)(2). Pub. L. 99–514, § 1832, added subpar. (B) and struck out former subpar. (B) and concluding provision which read as follows:
 
 “(B) the average percentage payout for the base period equals or exceeds 5 percent.
 
 In the case of an operating foundation (as defined in section 4942(j)(3)), subparagraph (B) shall be applied by substituting ‘3⅓ percent’ for ‘5 percent’.”
 
-1984—Subsec. (d). Pub. L. 98–369, § 302(a), added subsec. (d).
+1984—Subsec. (d). Pub. L. 98–369, § 302(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 98–369, § 303(a), added subsec. (e).
+Subsec. (e). Pub. L. 98–369, § 303(a), added subsec. (e).
 
 1978—Subsec. (a). Pub. L. 95–600 substituted “2 percent” for “4 percent”.
 
@@ -195,7 +195,7 @@ Subsec. (c)(2). Pub. L. 95–345 inserted provision relating to payments with re
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. Q, title II, § 206(c), Dec. 20, 2019, 133 Stat. 3246, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 20, 2019].”
+Pub. L. 116–94, div. Q, title II, § 206(c), Dec. 20, 2019, 133 Stat. 3246, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 20, 2019].”
 
 **Effective Date of 2007 Amendment**
 
@@ -213,19 +213,19 @@ Amendment by section 1832 of Pub. L. 99–514 effective, except as otherwise pro
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title III, § 302(c)(1), July 18, 1984, 98 Stat. 780, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title III, § 302(c)(1), July 18, 1984, 98 Stat. 780, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1984.”
 
-Pub. L. 98–369, div. A, title III, § 303(b), July 18, 1984, 98 Stat. 782, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title III, § 303(b), July 18, 1984, 98 Stat. 782, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1984.”
 
 **Effective Date of 1978 Amendments**
 
-Pub. L. 95–600, title V, § 520(b), Nov. 6, 1978, 92 Stat. 2884, provided that: “The amendment made by the first section of this Act [probably meaning section 520(a), which amended this section] shall apply to taxable years beginning after September 30, 1977.”
+Pub. L. 95–600, title V, § 520(b), Nov. 6, 1978, 92 Stat. 2884, provided that: “The amendment made by the first section of this Act [probably meaning section 520(a), which amended this section] shall apply to taxable years beginning after September 30, 1977.”
 
 Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as payments with respect to securities loans (as defined in section 512(a)(5) of this title), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
 
 **Effective Date**
 
-Pub. L. 91–172, title I, § 101(k), Dec. 30, 1969, 83 Stat. 533, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided:
+Pub. L. 91–172, title I, § 101(k), Dec. 30, 1969, 83 Stat. 533, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection and subsection (*l*) [set out as a note below] the amendments made by this section [enacting this section and sections 507 to 509, 4941 to 4848, 6056, 6684, and 6685 of this title, amending sections 101, 170, 501, 503, 542, 663, 681, 878, 884, 1443, 2039, 2517, 4057, 4221, 4253, 4294, 5214, 6033, 6034, 6043, 6104, 6161, 6201, 6211 to 6214, 6344, 6501, 6503, 6511, 6512, 6601, 6652, 6653, 6659, 6676, 6677, 6679, 6682, 7207, 7422, and 7454 of this title, repealing section 504 of this title, and enacting provisions set out as notes under this section and section 1 of this title] shall take effect on January 1, 1970.
 
@@ -239,7 +239,7 @@ Pub. L. 91–172, title I, § 101(k), Dec. 30, 1969, 83 Stat. 533, as amended 
 
 **Savings Provision**
 
-Pub. L. 91–172, title I, § 101(*l*), Dec. 30, 1969, 83 Stat. 533, as amended by Pub. L. 93–490, § 4(a), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIII, §§ 1301(a), 1309(a), Oct. 4, 1976, 90 Stat. 1713, 1729; Pub. L. 95–600, title VII, § 703(f), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title III, § 314(b)(1), July 18, 1984, 98 Stat. 787; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–172, title I, § 101(*l*), Dec. 30, 1969, 83 Stat. 533, as amended by Pub. L. 93–490, § 4(a), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XIII, §§ 1301(a), 1309(a), Oct. 4, 1976, 90 Stat. 1713, 1729; Pub. L. 95–600, title VII, § 703(f), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title III, § 314(b)(1), July 18, 1984, 98 Stat. 787; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) References to internal revenue code provisions.—** Except as otherwise expressly provided, references in the following paragraphs of this subsection are to sections of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] as amended by this section.
 
@@ -293,7 +293,7 @@ Pub. L. 91–172, title I, § 101(*l*), Dec. 30, 1969, 83 Stat. 533, as amende
 
 > **“(ii)** substantially all of the assets of which on May 26, 1969, consist of more than 90 percent of the stock of an incorporated business enterprise which is licensed and regulated, the sales or contracts of which are regulated, and the professional representatives of which are licensed, by State regulatory agencies in at least 10 States; and
 
-> **“(iii)** which acquired such stock solely by gift, devise, or bequest, section 4943(c)(4)(A)(i) shall be applied with respect to the holdings of such foundation in such incorporated business enterprise as if it did not contain the phrase ‘, but in no event shall the percentage so substituted be more than 50 percent’, and section 4943(c)(4)(D) shall not apply with respect to such holdings. For purposes of the preceding sentence, stock of such enterprise in a trust created before May 27, 1969, of which the foundation is the remainder beneficiary shall be deemed to be held by such foundation on May 26, 1969, if such foundation held (without regard to such trust) more than 20 percent of the stock of such enterprise on May 26, 1969.
+> **“(iii)** which acquired such stock solely by gift, devise, or bequest, section 4943(c)(4)(A)(i) shall be applied with respect to the holdings of such foundation in such incorporated business enterprise as if it did not contain the phrase ‘, but in no event shall the percentage so substituted be more than 50 percent’, and section 4943(c)(4)(D) shall not apply with respect to such holdings. For purposes of the preceding sentence, stock of such enterprise in a trust created before May 27, 1969, of which the foundation is the remainder beneficiary shall be deemed to be held by such foundation on May 26, 1969, if such foundation held (without regard to such trust) more than 20 percent of the stock of such enterprise on May 26, 1969.
 
 > **“(B)** Subparagraph (A) shall apply to a private foundation only if—
 
@@ -311,27 +311,27 @@ Pub. L. 91–172, title I, § 101(*l*), Dec. 30, 1969, 83 Stat. 533, as amende
 
 > **“(8) Certain redemptions.—** For purposes of applying section 302(b)(1) to the determination of the amount of gross investment income under sections 4940 and 4948(a), any distribution made to a private foundation in redemption of stock held by such private foundation in a business enterprise shall be treated as not essentially equivalent to a dividend, if such redemption is described in paragraph (2)(B) of this subsection.”
 
-[Pub. L. 98–369, div. A, title III, § 314(b)(2), July 18, 1984, 98 Stat. 787, provided that: “The amendment made by paragraph (1) [amending section 101(4)(A)(iii) of Pub. L. 91–172, set out above] shall apply as if included in section 101(*l*)(4) of the Tax Reform Act of 1969 [Pub. L. 91–172].” ]
+[Pub. L. 98–369, div. A, title III, § 314(b)(2), July 18, 1984, 98 Stat. 787, provided that: “The amendment made by paragraph (1) [amending section 101(4)(A)(iii) of Pub. L. 91–172, set out above] shall apply as if included in section 101(*l*)(4) of the Tax Reform Act of 1969 [Pub. L. 91–172].” ]
 
-[Pub. L. 94–455, title XIII, § 1301(b), Oct. 4, 1976, 90 Stat. 1713, provided that: “The amendments made by subsection (a) [enacting subpar. (F) of section 101(2) of Pub. L. 91–172, set out above] shall apply to dispositions after the date of the enactment of this Act [Oct. 4, 1976] in taxable years ending after such date.” ]
+[Pub. L. 94–455, title XIII, § 1301(b), Oct. 4, 1976, 90 Stat. 1713, provided that: “The amendments made by subsection (a) [enacting subpar. (F) of section 101(2) of Pub. L. 91–172, set out above] shall apply to dispositions after the date of the enactment of this Act [Oct. 4, 1976] in taxable years ending after such date.” ]
 
-[Pub. L. 94–455, title XIII, § 1309(b), Oct. 4, 1976, 90 Stat. 1729, provided that: “The amendment made by this section [amending section 101(2)(B) of Pub. L. 91–172, set out above] shall apply to dispositions made after the date of enactment of this Act [Oct. 4, 1976].” ]
+[Pub. L. 94–455, title XIII, § 1309(b), Oct. 4, 1976, 90 Stat. 1729, provided that: “The amendment made by this section [amending section 101(2)(B) of Pub. L. 91–172, set out above] shall apply to dispositions made after the date of enactment of this Act [Oct. 4, 1976].” ]
 
-[Pub. L. 93–490, § 4(b), Oct. 26, 1974, 88 Stat. 1467, provided that: “The amendment made by this section [enacting subpar. (F) of section 101(3) of Pub. L. 91–172, set out above] shall apply to taxable years beginning after December 31, 1971.” ]
+[Pub. L. 93–490, § 4(b), Oct. 26, 1974, 88 Stat. 1467, provided that: “The amendment made by this section [enacting subpar. (F) of section 101(3) of Pub. L. 91–172, set out above] shall apply to taxable years beginning after December 31, 1971.” ]
 
 **Determination of Operating Foundation Status for Certain Purposes**
 
-Pub. L. 100–647, title VI, § 6204, Nov. 10, 1988, 102 Stat. 3730, provided that: “For purposes of section 302(c)(3) of the Deficit Reduction Act of 1984 [Pub. L. 98–369, set out below], a private foundation which constituted an operating foundation (as defined in section 4942(j)(3) of the Internal Revenue Code of 1986) for its last taxable year ending before January 1, 1983, shall be treated as constituting an operating foundation as of January 1, 1983.”
+Pub. L. 100–647, title VI, § 6204, Nov. 10, 1988, 102 Stat. 3730, provided that: “For purposes of section 302(c)(3) of the Deficit Reduction Act of 1984 [Pub. L. 98–369, set out below], a private foundation which constituted an operating foundation (as defined in section 4942(j)(3) of the Internal Revenue Code of 1986) for its last taxable year ending before January 1, 1983, shall be treated as constituting an operating foundation as of January 1, 1983.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Public Support Requirement Not Applicable to Certain Existing Foundations**
 
-Pub. L. 98–369, div. A, title III, § 302(c)(3), July 18, 1984, 98 Stat. 781, provided that: “A foundation which was an operating foundation (as defined in section 4942(j)(3) of the Internal Revenue Code of 1954) as of January 1, 1983, shall be treated as meeting the requirements of section 4940(d)(2)(B) of such Code (as added by subsection (a)).”
+Pub. L. 98–369, div. A, title III, § 302(c)(3), July 18, 1984, 98 Stat. 781, provided that: “A foundation which was an operating foundation (as defined in section 4942(j)(3) of the Internal Revenue Code of 1954) as of January 1, 1983, shall be treated as meeting the requirements of section 4940(d)(2)(B) of such Code (as added by subsection (a)).”
 
-### § 4941. Taxes on self-dealing
+### § 4941. Taxes on self-dealing
 
 **(a) Initial taxes**
 
@@ -437,7 +437,7 @@ With respect to any one act of self-dealing, the maximum amount of the tax impos
 
 The terms “correction” and “correct” mean, with respect to any act of self-dealing, undoing the transaction to the extent possible, but in any case placing the private foundation in a financial position not worse than that in which it would be if the disqualified person were dealing under the highest fiduciary standards.
 
-(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 499; amended Pub. L. 94–455, title XIX, §§ 1901(b)(8)(H), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1795, 1834; Pub. L. 96–596, § 2(a)(1)(A), (B), (2)(A), (3)(A), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 96–608, § 5, Dec. 28, 1980, 94 Stat. 3553; Pub. L. 99–234, title I, § 107(c), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–514, title I, § 122(a)(2)(A), title XVIII, § 1812(b)(1), Oct. 22, 1986, 100 Stat. 2110, 2833; Pub. L. 100–647, title I, § 1001(d)(1)(A), Nov. 10, 1988, 102 Stat. 3350; Pub. L. 109–280, title XII, § 1212(a)(1), (2), Aug. 17, 2006, 120 Stat. 1074.)
+(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 499; amended Pub. L. 94–455, title XIX, §§ 1901(b)(8)(H), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1795, 1834; Pub. L. 96–596, § 2(a)(1)(A), (B), (2)(A), (3)(A), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 96–608, § 5, Dec. 28, 1980, 94 Stat. 3553; Pub. L. 99–234, title I, § 107(c), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–514, title I, § 122(a)(2)(A), title XVIII, § 1812(b)(1), Oct. 22, 1986, 100 Stat. 2110, 2833; Pub. L. 100–647, title I, § 1001(d)(1)(A), Nov. 10, 1988, 102 Stat. 3350; Pub. L. 109–280, title XII, § 1212(a)(1), (2), Aug. 17, 2006, 120 Stat. 1074.)
 
 **Editorial Notes**
 
@@ -451,39 +451,39 @@ Section 1212(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 
 **Amendments**
 
-2006—Subsec. (a)(1). Pub. L. 109–280, § 1212(a)(1)(A), substituted “10 percent” for “5 percent”. See Codification note above.
+2006—Subsec. (a)(1). Pub. L. 109–280, § 1212(a)(1)(A), substituted “10 percent” for “5 percent”. See Codification note above.
 
-Subsec. (a)(2). Pub. L. 109–280, § 1212(a)(1)(B), substituted “5 percent” for “2½ percent”. See Codification note above.
+Subsec. (a)(2). Pub. L. 109–280, § 1212(a)(1)(B), substituted “5 percent” for “2½ percent”. See Codification note above.
 
-Subsec. (c)(2). Pub. L. 109–280, § 1212(a)(2), substituted “$20,000” for “$10,000” wherever appearing in heading and text. See Codification note above.
+Subsec. (c)(2). Pub. L. 109–280, § 1212(a)(2), substituted “$20,000” for “$10,000” wherever appearing in heading and text. See Codification note above.
 
 1988—Subsec. (d)(2)(G)(ii). Pub. L. 100–647 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “scholarships and fellowship grants which are subject to the provisions of section 117(a) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),”.
 
-1986—Subsec. (d)(2)(B). Pub. L. 99–514, § 1812(b)(1), inserted “(determined without regard to section 7872)” after “without interest or other charge”.
+1986—Subsec. (d)(2)(B). Pub. L. 99–514, § 1812(b)(1), inserted “(determined without regard to section 7872)” after “without interest or other charge”.
 
-Subsec. (d)(2)(G)(i). Pub. L. 99–514, § 122(a)(2)(A), inserted “(without regard to paragraph (3) thereof)” after “section 74(b)”.
+Subsec. (d)(2)(G)(i). Pub. L. 99–514, § 122(a)(2)(A), inserted “(without regard to paragraph (3) thereof)” after “section 74(b)”.
 
 Subsec. (d)(2)(G)(vii). Pub. L. 99–234 substituted “5702” for “5702(a)”.
 
-1980—Subsec. (b)(1). Pub. L. 96–596, § 2(a)(1)(A), substituted “taxable period” for “correction period”.
+1980—Subsec. (b)(1). Pub. L. 96–596, § 2(a)(1)(A), substituted “taxable period” for “correction period”.
 
 Subsec. (d)(2)(H). Pub. L. 96–608 added subpar. (H).
 
-Subsec. (e)(1)(B), (C). Pub. L. 96–596, § 2(a)(2)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (e)(1)(B), (C). Pub. L. 96–596, § 2(a)(2)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (e)(2)(B). Pub. L. 96–596, § 2(a)(1)(B), substituted “taxable period” for “correction period”.
+Subsec. (e)(2)(B). Pub. L. 96–596, § 2(a)(1)(B), substituted “taxable period” for “correction period”.
 
-Subsec. (e)(4). Pub. L. 96–596, § 2(a)(3)(A), struck out par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under section 6212 of this title, extended by any period in which the deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
+Subsec. (e)(4). Pub. L. 96–596, § 2(a)(3)(A), struck out par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under section 6212 of this title, extended by any period in which the deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
 
-1976—Subsec. (d)(2)(G)(ii). Pub. L. 94–455, § 1901(b)(8)(H), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)” after “study at an”.
+1976—Subsec. (d)(2)(G)(ii). Pub. L. 94–455, § 1901(b)(8)(H), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)” after “study at an”.
 
-Subsec. (e)(4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (e)(4). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–280, title XII, § 1212(f), Aug. 17, 2006, 120 Stat. 1075, provided that: “The amendments made by this section [amending this section and sections 4942 to 4945 and 4958 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title XII, § 1212(f), Aug. 17, 2006, 120 Stat. 1075, provided that: “The amendments made by this section [amending this section and sections 4942 to 4945 and 4958 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 17, 2006].”
 
 **Effective Date of 1988 Amendment**
 
@@ -505,13 +505,13 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 Exceptions to applicability of section, see section 101(*l*)(2) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Tax on Self-Dealing Not To Apply to Certain Stock Purchases**
 
-Pub. L. 98–369, div. A, title III, § 312, July 18, 1984, 98 Stat. 786, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title III, § 312, July 18, 1984, 98 Stat. 786, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a) General Rule.—** Section 4941 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to taxes on self-dealing) shall not apply to the purchase during 1978 of stock from a private foundation (and to any note issued in connection with such purchase) if—
 
@@ -529,7 +529,7 @@ Pub. L. 98–369, div. A, title III, § 312, July 18, 1984, 98 Stat. 786, as a
 
 Determination of status as substantial contributor within section 507(d)(2) of this title for purposes of applying this section, see section 3 of Pub. L. 95–170, set out as a note under section 507 of this title.
 
-### § 4942. Taxes on failure to distribute income
+### § 4942. Taxes on failure to distribute income
 
 **(a) Initial tax** There is hereby imposed on the undistributed income of a private foundation for any taxable year, which has not been distributed before the first day of the second (or any succeeding) taxable year following such taxable year (if such first day falls within the taxable period), a tax equal to 30 percent of the amount of such income remaining undistributed at the beginning of such second (or succeeding) taxable year. The tax imposed by this subsection shall not apply to the undistributed income of a private foundation—
 
@@ -763,7 +763,7 @@ Notwithstanding the provisions of subparagraph (A), if the qualifying distributi
 
 For purposes of this section (but no other provisions of this title), the term “operating foundation” includes any organization which, on May 26, 1969, and at all times thereafter before the close of the taxable year, operated and maintained as its principal functional purpose facilities for the long-term care, comfort, maintenance, or education of permanently and totally disabled persons, elderly persons, needy widows, or children but only if such organization meets the requirements of paragraph (3)(B)(ii).
 
-(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 502; amended Pub. L. 94–455, title XIII, §§ 1302(a), 1303(a), 1310(a), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1713, 1715, 1729, 1834; Pub. L. 95–600, title V, § 522(a), Nov. 6, 1978, 92 Stat. 2885; Pub. L. 96–596, § 2(a)(1)(C), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 97–34, title VIII, § 823(a), Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–448, title I, § 108(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title III, §§ 304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, 98 Stat. 782–784, 787; Pub. L. 99–514, title XIII, § 1301(j)(6), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 109–280, title XII, §§ 1212(b), 1244(a), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 110–172, § 11(a)(14)(D), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 113–295, div. A, title II, § 221(a)(105), Dec. 19, 2014, 128 Stat. 4053.)
+(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 502; amended Pub. L. 94–455, title XIII, §§ 1302(a), 1303(a), 1310(a), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1713, 1715, 1729, 1834; Pub. L. 95–600, title V, § 522(a), Nov. 6, 1978, 92 Stat. 2885; Pub. L. 96–596, § 2(a)(1)(C), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 97–34, title VIII, § 823(a), Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–448, title I, § 108(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title III, §§ 304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, 98 Stat. 782–784, 787; Pub. L. 99–514, title XIII, § 1301(j)(6), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 109–280, title XII, §§ 1212(b), 1244(a), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 110–172, § 11(a)(14)(D), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 113–295, div. A, title II, § 221(a)(105), Dec. 19, 2014, 128 Stat. 4053.)
 
 **Editorial Notes**
 
@@ -773,59 +773,59 @@ Sections 1212(b) and 1244(a) of Pub. L. 109–280, which directed the amendment 
 
 **Amendments**
 
-2014—Subsec. (g)(2)(A). Pub. L. 113–295, § 221(a)(105)(A), substituted “Subject” for “For all taxable years beginning on or after January 1, 1975, subject”.
+2014—Subsec. (g)(2)(A). Pub. L. 113–295, § 221(a)(105)(A), substituted “Subject” for “For all taxable years beginning on or after January 1, 1975, subject”.
 
-Subsec. (i)(2). Pub. L. 113–295, § 221(a)(105)(B), struck out “beginning after December 31, 1969, and” after “(not exceeding 5)”.
+Subsec. (i)(2). Pub. L. 113–295, § 221(a)(105)(B), struck out “beginning after December 31, 1969, and” after “(not exceeding 5)”.
 
 2007—Subsec. (i)(1)(A). Pub. L. 110–172 substituted “section 170(b)(1)(F)(ii)” for “section 170(b)(1)(E)(ii)”.
 
-2006—Subsec. (a). Pub. L. 109–280, § 1212(b), substituted “30 percent” for “15 percent” in introductory provisions. See Codification note above.
+2006—Subsec. (a). Pub. L. 109–280, § 1212(b), substituted “30 percent” for “15 percent” in introductory provisions. See Codification note above.
 
-Subsec. (g)(4). Pub. L. 109–280, § 1244(a), amended heading and text of par. (4) generally, substituting provisions relating to limitation on distributions by nonoperating private foundations to supporting organizations for provisions relating to limitation on administrative expenses allocable to making of contributions, gifts, and grants. See Codification note above.
+Subsec. (g)(4). Pub. L. 109–280, § 1244(a), amended heading and text of par. (4) generally, substituting provisions relating to limitation on distributions by nonoperating private foundations to supporting organizations for provisions relating to limitation on administrative expenses allocable to making of contributions, gifts, and grants. See Codification note above.
 
 1986—Subsec. (f)(2)(A). Pub. L. 99–514 substituted “(relating to State and local bonds)” for “(relating to interest on certain governmental obligations)”.
 
-1984—Subsec. (a)(2)(B). Pub. L. 98–369, § 314(a)(1), substituted “subsection (j)(2)” for “subsection (j)(4)”.
+1984—Subsec. (a)(2)(B). Pub. L. 98–369, § 314(a)(1), substituted “subsection (j)(2)” for “subsection (j)(4)”.
 
-Subsec. (d)(1). Pub. L. 98–369, § 304(b), substituted “the sum of the minimum investment return plus the amounts described in subsection (f)(2)(C), reduced by” for “the minimum investment return reduced by”.
+Subsec. (d)(1). Pub. L. 98–369, § 304(b), substituted “the sum of the minimum investment return plus the amounts described in subsection (f)(2)(C), reduced by” for “the minimum investment return reduced by”.
 
-Subsec. (f)(1). Pub. L. 98–369, § 314(a)(2), substituted “subsection (j)” for “subsection (d)”.
+Subsec. (f)(1). Pub. L. 98–369, § 314(a)(2), substituted “subsection (j)” for “subsection (d)”.
 
-Subsec. (g)(1)(A). Pub. L. 98–369, § 304(a)(2), substituted “including that portion of reasonable and necessary administrative expenses” for “including administrative expenses”.
+Subsec. (g)(1)(A). Pub. L. 98–369, § 304(a)(2), substituted “including that portion of reasonable and necessary administrative expenses” for “including administrative expenses”.
 
-Subsec. (g)(2)(C)(ii). Pub. L. 98–369, § 305(b)(4), substituted “section 4963(e)” for “section 4962(e)”.
+Subsec. (g)(2)(C)(ii). Pub. L. 98–369, § 305(b)(4), substituted “section 4963(e)” for “section 4962(e)”.
 
-Subsec. (g)(4). Pub. L. 98–369, § 304(a)(1), added par. (4).
+Subsec. (g)(4). Pub. L. 98–369, § 304(a)(1), added par. (4).
 
 1983—Subsec. (j)(3)(A)(i). Pub. L. 97–448 substituted “or” for “and” at the end.
 
-1981—Subsec. (d)(1). Pub. L. 97–34, § 823(a)(1), struck out “or the adjusted net income (whichever is higher)” after “return”.
+1981—Subsec. (d)(1). Pub. L. 97–34, § 823(a)(1), struck out “or the adjusted net income (whichever is higher)” after “return”.
 
-Subsec. (j)(3). Pub. L. 97–34, § 823(a)(2), (3), inserted in subpar. (A) “the lesser of” after “substantially all of”, designated existing provisions as cl. (i), added cl. (ii), and inserted provision respecting applicability of subpar. (A)(ii).
+Subsec. (j)(3). Pub. L. 97–34, § 823(a)(2), (3), inserted in subpar. (A) “the lesser of” after “substantially all of”, designated existing provisions as cl. (i), added cl. (ii), and inserted provision respecting applicability of subpar. (A)(ii).
 
-1980—Subsec. (b). Pub. L. 96–596, § 2(a)(1)(C), substituted “taxable period” for “correction period”.
+1980—Subsec. (b). Pub. L. 96–596, § 2(a)(1)(C), substituted “taxable period” for “correction period”.
 
-Subsec. (g)(2)(C)(ii). Pub. L. 96–596, § 2(a)(4)(A), substituted “the correction period (as defined in section 4962(e))” for “the initial correction period provided in subsection (j)(2)”.
+Subsec. (g)(2)(C)(ii). Pub. L. 96–596, § 2(a)(4)(A), substituted “the correction period (as defined in section 4962(e))” for “the initial correction period provided in subsection (j)(2)”.
 
-Subsec. (j)(1). Pub. L. 96–596, § 2(a)(2)(B), substituted provision ending the taxable period on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section under section 6212 of this title or the date on which the tax imposed by subsec. (a) of this section is assessed for provision ending the taxable period on the date of mailing the notice of deficiency with respect to a tax imposed by subsec. (a) of this section under section 6212 of this title.
+Subsec. (j)(1). Pub. L. 96–596, § 2(a)(2)(B), substituted provision ending the taxable period on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section under section 6212 of this title or the date on which the tax imposed by subsec. (a) of this section is assessed for provision ending the taxable period on the date of mailing the notice of deficiency with respect to a tax imposed by subsec. (a) of this section under section 6212 of this title.
 
-Subsec. (j)(2). Pub. L. 96–596, § 2(a)(3)(B)(i), (iii), redesignated par. (4) as (2) and struck out former par. (2), which defined correction period, with respect to any private foundation for any taxable year, as the period beginning with the first day of the taxable year and ending 90 days after the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (b) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to permit a distribution of undistributed income.
+Subsec. (j)(2). Pub. L. 96–596, § 2(a)(3)(B)(i), (iii), redesignated par. (4) as (2) and struck out former par. (2), which defined correction period, with respect to any private foundation for any taxable year, as the period beginning with the first day of the taxable year and ending 90 days after the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (b) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to permit a distribution of undistributed income.
 
-Subsec. (j)(3)(B)(i). Pub. L. 96–596, § 2(a)(3)(B)(ii), substituted “paragraph (4)” for “paragraph (5)”.
+Subsec. (j)(3)(B)(i). Pub. L. 96–596, § 2(a)(3)(B)(ii), substituted “paragraph (4)” for “paragraph (5)”.
 
-Subsec. (j)(4) to (6). Pub. L. 96–596, § 2(a)(3)(B)(iii), (iv), redesignated pars. (5) and (6) as (4) and (5), respectively.
+Subsec. (j)(4) to (6). Pub. L. 96–596, § 2(a)(3)(B)(iii), (iv), redesignated pars. (5) and (6) as (4) and (5), respectively.
 
 1978—Subsec. (j)(6). Pub. L. 95–600 added par. (6).
 
-1976—Subsec. (a)(2)(C). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a)(2)(C). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (e). Pub. L. 94–455, § 1303(a), among other changes, substituted provisions establishing a fixed percentage rate to be used in computing the minimum investment return for any private foundation for provisions establishing a variable applicable percentage rate of 7 percent in 1970 and an applicable rate to be determined by the Secretary after 1970, for use in computing the minimum investment return for any private foundation and inserted provisions relating to reduction in value for blockage or similar factors.
+Subsec. (e). Pub. L. 94–455, § 1303(a), among other changes, substituted provisions establishing a fixed percentage rate to be used in computing the minimum investment return for any private foundation for provisions establishing a variable applicable percentage rate of 7 percent in 1970 and an applicable rate to be determined by the Secretary after 1970, for use in computing the minimum investment return for any private foundation and inserted provisions relating to reduction in value for blockage or similar factors.
 
-Subsec. (f)(2)(D). Pub. L. 94–455, § 1310(a), added subpar. (D).
+Subsec. (f)(2)(D). Pub. L. 94–455, § 1310(a), added subpar. (D).
 
-Subsec. (g)(2). Pub. L. 94–455, § 1302(a), among other changes, inserted reference to all taxable years beginning on or after Jan. 1, 1975, requirement that the project will not be completed before the end of the taxable year of the foundation in which the set-aside is made, and subpars. (C) to (E).
+Subsec. (g)(2). Pub. L. 94–455, § 1302(a), among other changes, inserted reference to all taxable years beginning on or after Jan. 1, 1975, requirement that the project will not be completed before the end of the taxable year of the foundation in which the set-aside is made, and subpars. (C) to (E).
 
-Subsecs. (h)(2), (j)(2)(B). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsecs. (h)(2), (j)(2)(B). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -837,7 +837,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 Amendment by section 1212(b) of Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006, see section 1212(f) of Pub. L. 109–280, set out as a note under section 4941 of this title.
 
-Pub. L. 109–280, title XII, § 1244(c), Aug. 17, 2006, 120 Stat. 1108, provided that: “The amendments made by this section [amending this section and section 4945 of this title] shall apply to distributions and expenditures after the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title XII, § 1244(c), Aug. 17, 2006, 120 Stat. 1108, provided that: “The amendments made by this section [amending this section and section 4945 of this title] shall apply to distributions and expenditures after the date of the enactment of this Act [Aug. 17, 2006].”
 
 **Effective Date of 1986 Amendment**
 
@@ -845,11 +845,11 @@ Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, ex
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title III, § 304(c), July 18, 1984, 98 Stat. 783, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title III, § 304(c), July 18, 1984, 98 Stat. 783, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1984.”
 
 Amendment by section 305(b)(4) of Pub. L. 98–369 applicable to taxable events occurring after Dec. 31, 1984, see section 305(c) of Pub. L. 98–369, set out as an Effective Date note under section 4962 of this title.
 
-Pub. L. 98–369, div. A, title III, § 314(a)(4), July 18, 1984, 98 Stat. 787, provided that: “The amendments made by this subsection [amending this section and section 6501 of this title] shall take effect on the date of the enactment of this Act [July 18, 1984].”.
+Pub. L. 98–369, div. A, title III, § 314(a)(4), July 18, 1984, 98 Stat. 787, provided that: “The amendments made by this subsection [amending this section and section 6501 of this title] shall take effect on the date of the enactment of this Act [July 18, 1984].”.
 
 **Effective Date of 1983 Amendment**
 
@@ -857,7 +857,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–34, title VIII, § 823(b), Aug. 13, 1981, 95 Stat. 352, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title VIII, § 823(b), Aug. 13, 1981, 95 Stat. 352, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1981.”
 
 **Effective Date of 1980 Amendment**
 
@@ -865,21 +865,21 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title V, § 522(b), Nov. 6, 1978, 92 Stat. 2885, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 95–600, title V, § 522(b), Nov. 6, 1978, 92 Stat. 2885, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1969.”
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIII, § 1302(c), Oct. 4, 1976, 90 Stat. 1715, provided that: “The amendments made by this section [amending this section and section 6501 of this title] shall apply to taxable years beginning after December 31, 1974.”
+Pub. L. 94–455, title XIII, § 1302(c), Oct. 4, 1976, 90 Stat. 1715, provided that: “The amendments made by this section [amending this section and section 6501 of this title] shall apply to taxable years beginning after December 31, 1974.”
 
-Pub. L. 94–455, title XIII, § 1303(b), Oct. 4, 1976, 90 Stat. 1715, provided that: “The amendment made by this section [amending this section] applies to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title XIII, § 1303(b), Oct. 4, 1976, 90 Stat. 1715, provided that: “The amendment made by this section [amending this section] applies to taxable years beginning after December 31, 1975.”
 
-Pub. L. 94–455, title XIII, § 1310(b), Oct. 4, 1976, 90 Stat. 1729, provided that: “The amendments made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Oct. 4, 1976].”
+Pub. L. 94–455, title XIII, § 1310(b), Oct. 4, 1976, 90 Stat. 1729, provided that: “The amendments made by this section [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Oct. 4, 1976].”
 
 **Savings Provision**
 
 Applicability of section to organizations organized before May 27, 1969, see section 101(*l*)(3) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
-### § 4943. Taxes on excess business holdings
+### § 4943. Taxes on excess business holdings
 
 **(a) Initial tax**
 
@@ -1157,7 +1157,7 @@ The requirements of this paragraph are met if the business enterprise, not later
 
 **(C)** any trust described in section 4947(a)(2) (relating to split-interest trusts).
 
-(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 507; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, § 2(a)(1)(D), (2)(C), (3)(C), (4)(B), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 98–369, div. A, title III, §§ 307(a), 308(a), 309(a), 310(a), 314(c)(1), July 18, 1984, 98 Stat. 784, 785, 787; Pub. L. 109–280, title XII, §§ 1212(c), 1233(a), 1243(a), Aug. 17, 2006, 120 Stat. 1074, 1099, 1105; Pub. L. 113–295, div. A, title II, § 220(r), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–123, div. D, title II, § 41110(a), Feb. 9, 2018, 132 Stat. 159.)
+(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 507; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, § 2(a)(1)(D), (2)(C), (3)(C), (4)(B), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 98–369, div. A, title III, §§ 307(a), 308(a), 309(a), 310(a), 314(c)(1), July 18, 1984, 98 Stat. 784, 785, 787; Pub. L. 109–280, title XII, §§ 1212(c), 1233(a), 1243(a), Aug. 17, 2006, 120 Stat. 1074, 1099, 1105; Pub. L. 113–295, div. A, title II, § 220(r), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–123, div. D, title II, § 41110(a), Feb. 9, 2018, 132 Stat. 159.)
 
 **Editorial Notes**
 
@@ -1175,27 +1175,27 @@ Sections 1212(c), 1233(a), and 1243(a) of Pub. L. 109–280, which directed the 
 
 2014—Subsecs. (e)(3)(B), (f)(7)(B). Pub. L. 113–295 substituted “January 1, 1971” for “January 1, 1970”.
 
-2006—Subsec. (a)(1). Pub. L. 109–280, § 1212(c), substituted “10 percent” for “5 percent”. See Codification note above.
+2006—Subsec. (a)(1). Pub. L. 109–280, § 1212(c), substituted “10 percent” for “5 percent”. See Codification note above.
 
-Subsec. (e). Pub. L. 109–280, § 1233(a), added subsec. (e). See Codification note above.
+Subsec. (e). Pub. L. 109–280, § 1233(a), added subsec. (e). See Codification note above.
 
-Subsec. (f). Pub. L. 109–280, § 1243(a), added subsec. (f). See Codification note above.
+Subsec. (f). Pub. L. 109–280, § 1243(a), added subsec. (f). See Codification note above.
 
-1984—Subsec. (c)(4)(A)(ii). Pub. L. 98–369, § 308(a), substituted “For purposes of the preceding sentence, any decrease in percentage holdings attributable to issuances of stock (or to issuances of stock coupled with redemptions of stock) shall be disregarded so long as (I) the net percentage decrease disregarded under this sentence does not exceed 2 percent, and (II) the number of shares held by the foundation is not affected by any such issuance or redemption” for “For purposes of this clause, any decrease in percentage holdings attributable to issuances of stock (or to issuances of stock coupled with redemptions of stock) shall be determined only as of the close of each taxable year of the private foundation unless the aggregate of the percentage decreases attributable to the issuances of stock (or such issuances and redemptions) during such taxable year equals or exceeds 1 percent”.
+1984—Subsec. (c)(4)(A)(ii). Pub. L. 98–369, § 308(a), substituted “For purposes of the preceding sentence, any decrease in percentage holdings attributable to issuances of stock (or to issuances of stock coupled with redemptions of stock) shall be disregarded so long as (I) the net percentage decrease disregarded under this sentence does not exceed 2 percent, and (II) the number of shares held by the foundation is not affected by any such issuance or redemption” for “For purposes of this clause, any decrease in percentage holdings attributable to issuances of stock (or to issuances of stock coupled with redemptions of stock) shall be determined only as of the close of each taxable year of the private foundation unless the aggregate of the percentage decreases attributable to the issuances of stock (or such issuances and redemptions) during such taxable year equals or exceeds 1 percent”.
 
-Subsec. (c)(4)(B)(i). Pub. L. 98–369, § 309(a), substituted “the private foundation and all disqualified persons have” for “the private foundation has”.
+Subsec. (c)(4)(B)(i). Pub. L. 98–369, § 309(a), substituted “the private foundation and all disqualified persons have” for “the private foundation has”.
 
-Subsec. (c)(6). Pub. L. 98–369, § 310(a), inserted following subpar. (B) “In any case where an acquisition by a disqualified person would result in a substitution under clause (i) or (ii) of subparagraph (D) of paragraph (4), the preceding sentence shall be applied with respect to such acquisition as if it did not contain the phrase ‘or by a disqualified person’ in the material preceding subparagraph (A).”
+Subsec. (c)(6). Pub. L. 98–369, § 310(a), inserted following subpar. (B) “In any case where an acquisition by a disqualified person would result in a substitution under clause (i) or (ii) of subparagraph (D) of paragraph (4), the preceding sentence shall be applied with respect to such acquisition as if it did not contain the phrase ‘or by a disqualified person’ in the material preceding subparagraph (A).”
 
-Subsec. (c)(7). Pub. L. 98–369, § 307(a), added par. (7).
+Subsec. (c)(7). Pub. L. 98–369, § 307(a), added par. (7).
 
-Subsec. (d)(4). Pub. L. 98–369, § 314(c)(1), added par. (4).
+Subsec. (d)(4). Pub. L. 98–369, § 314(c)(1), added par. (4).
 
-1980—Subsec. (b). Pub. L. 96–596, § 2(a)(1)(D), substituted “taxable period” for “correction period”.
+1980—Subsec. (b). Pub. L. 96–596, § 2(a)(1)(D), substituted “taxable period” for “correction period”.
 
-Subsec. (d)(2). Pub. L. 96–596, § 2(a)(2)(C), substituted provision ending the taxable period on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings or the date on which the tax imposed by subsec. (a) of this section in respect to such holdings is assessed for provision ending the taxable period on the date of mailing the notice of deficiency with respect to a tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings.
+Subsec. (d)(2). Pub. L. 96–596, § 2(a)(2)(C), substituted provision ending the taxable period on the earlier of the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings or the date on which the tax imposed by subsec. (a) of this section in respect to such holdings is assessed for provision ending the taxable period on the date of mailing the notice of deficiency with respect to a tax imposed by subsec. (a) of this section under section 6212 of this title in respect to such holdings.
 
-Subsec. (d)(3), (4). Pub. L. 96–596, § 2(a)(3)(C), (4)(B), redesignated par. (4) as (3), and in subpar. (A) of par. (3) as so redesignated, substituted “section 4942(j)(4)” for “section 4942(j)(5)”, and struck out par. (3), which defined correction period, with respect to excess business holdings of a private foundation in a business enterprise, as the period ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to permit orderly disposition of such excess business holdings.
+Subsec. (d)(3), (4). Pub. L. 96–596, § 2(a)(3)(C), (4)(B), redesignated par. (4) as (3), and in subpar. (A) of par. (3) as so redesignated, substituted “section 4942(j)(4)” for “section 4942(j)(5)”, and struck out par. (3), which defined correction period, with respect to excess business holdings of a private foundation in a business enterprise, as the period ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to permit orderly disposition of such excess business holdings.
 
 1976—Subsecs. (c), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
@@ -1203,31 +1203,31 @@ Subsec. (d)(3), (4). Pub. L. 96–596, § 2(a)(3)(C), (4)(B), redesignated par
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–123, div. D, title II, § 41110(b), Feb. 9, 2018, 132 Stat. 160, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–123, div. D, title II, § 41110(b), Feb. 9, 2018, 132 Stat. 160, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
 **Effective Date of 2006 Amendment**
 
 Amendment by section 1212(c) of Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006, see section 1212(f) of Pub. L. 109–280, set out as a note under section 4941 of this title.
 
-Pub. L. 109–280, title XII, § 1233(b), Aug. 17, 2006, 120 Stat. 1100, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title XII, § 1233(b), Aug. 17, 2006, 120 Stat. 1100, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 17, 2006].”
 
-Pub. L. 109–280, title XII, § 1243(b), Aug. 17, 2006, 120 Stat. 1107, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title XII, § 1243(b), Aug. 17, 2006, 120 Stat. 1107, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 17, 2006].”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title III, § 307(b), July 18, 1984, 98 Stat. 785, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title III, § 307(b), July 18, 1984, 98 Stat. 785, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) In general.—** The amendment made by subsection (a) [amending this section] shall apply to business holdings with respect to which the 5-year period described in section 4943(c)(6) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] ends on or after November 1, 1983.
 
 > **“(2) Transitional rule.—** Any plan submitted to the Secretary of the Treasury or his delegate on or before the 60th day after the date of the enactment of this Act [July 18, 1984] shall be treated as submitted before the close of the initial 5-year period referred to in section 4943(c)(7)(B) of the Internal Revenue Code of 1986 (as added by subsection (a)).”
 
-Pub. L. 98–369, div. A, title III, § 308(b), July 18, 1984, 98 Stat. 785, provided that: “The amendment made by subsection (a) [amending this section] shall apply to increases and decreases occurring after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title III, § 308(b), July 18, 1984, 98 Stat. 785, provided that: “The amendment made by subsection (a) [amending this section] shall apply to increases and decreases occurring after the date of the enactment of this Act [July 18, 1984].”
 
-Pub. L. 98–369, div. A, title III, § 309(b), July 18, 1984, 98 Stat. 785, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the amendment made by section 101(b) of the Tax Reform Act of 1969 [section 101(b) of Pub. L. 91–172 which enacted this section].”
+Pub. L. 98–369, div. A, title III, § 309(b), July 18, 1984, 98 Stat. 785, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the amendment made by section 101(b) of the Tax Reform Act of 1969 [section 101(b) of Pub. L. 91–172 which enacted this section].”
 
-Pub. L. 98–369, div. A, title III, § 310(b), July 18, 1984, 98 Stat. 786, provided that: “The amendment made by subsection (a) [amending this section] shall apply to acquisitions after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title III, § 310(b), July 18, 1984, 98 Stat. 786, provided that: “The amendment made by subsection (a) [amending this section] shall apply to acquisitions after the date of the enactment of this Act [July 18, 1984].”
 
-Pub. L. 98–369, div. A, title III, § 314(c)(2), July 18, 1984, 98 Stat. 788, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to taxable years beginning after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title III, § 314(c)(2), July 18, 1984, 98 Stat. 788, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to taxable years beginning after the date of the enactment of this Act [July 18, 1984].”
 
 **Effective Date of 1980 Amendment**
 
@@ -1237,7 +1237,7 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 Applicability of section to private foundations, see section 101(*l*)(4) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
-### § 4944. Taxes on investments which jeopardize charitable purpose
+### § 4944. Taxes on investments which jeopardize charitable purpose
 
 **(a) Initial taxes**
 
@@ -1287,7 +1287,7 @@ With respect to any one investment, the maximum amount of the tax imposed by sub
 
 An investment which jeopardizes the carrying out of exempt purposes shall be considered to be removed from jeopardy when such investment is sold or otherwise disposed of, and the proceeds of such sale or other disposition are not investments which jeopardize the carrying out of exempt purposes.
 
-(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 511; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, § 2(a)(1)(E), (2)(D), (3)(D), Dec. 24, 1980, 94 Stat. 3469–3471; Pub. L. 109–280, title XII, § 1212(d), Aug. 17, 2006, 120 Stat. 1074.)
+(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 511; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–596, § 2(a)(1)(E), (2)(D), (3)(D), Dec. 24, 1980, 94 Stat. 3469–3471; Pub. L. 109–280, title XII, § 1212(d), Aug. 17, 2006, 120 Stat. 1074.)
 
 **Editorial Notes**
 
@@ -1297,15 +1297,15 @@ Section 1212(d) of Pub. L. 109–280, which directed the amendment of section 49
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–280, § 1212(d)(1), substituted “10 percent” for “5 percent” in pars. (1) and (2). See Codification note above.
+2006—Subsec. (a). Pub. L. 109–280, § 1212(d)(1), substituted “10 percent” for “5 percent” in pars. (1) and (2). See Codification note above.
 
-Subsec. (d)(2). Pub. L. 109–280, § 1212(d)(2), substituted “$10,000,” for “$5,000,” and “$20,000.” for “$10,000.” See Codification note above.
+Subsec. (d)(2). Pub. L. 109–280, § 1212(d)(2), substituted “$10,000,” for “$5,000,” and “$20,000.” for “$10,000.” See Codification note above.
 
-1980—Subsec. (b)(1). Pub. L. 96–596, § 2(a)(1)(E), substituted “taxable period” for “correction period”.
+1980—Subsec. (b)(1). Pub. L. 96–596, § 2(a)(1)(E), substituted “taxable period” for “correction period”.
 
-Subsec. (e)(1)(B), (C). Pub. L. 96–596, § 2(a)(2)(D), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (e)(1)(B), (C). Pub. L. 96–596, § 2(a)(2)(D), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (e)(3). Pub. L. 96–596, § 2(a)(3)(D), struck out par. (3), which defined correction period, with respect to any investment which jeopardizes the carrying out of exempt purposes, as the period beginning with the date on which such investment is entered into and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about removal from jeopardy.
+Subsec. (e)(3). Pub. L. 96–596, § 2(a)(3)(D), struck out par. (3), which defined correction period, with respect to any investment which jeopardizes the carrying out of exempt purposes, as the period beginning with the date on which such investment is entered into and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about removal from jeopardy.
 
 1976—Subsec. (e)(3)(B). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -1319,7 +1319,7 @@ Amendment by Pub. L. 109–280 applicable to taxable years beginning after Aug. 
 
 For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
 
-### § 4945. Taxes on taxable expenditures
+### § 4945. Taxes on taxable expenditures
 
 **(a) Initial taxes**
 
@@ -1399,7 +1399,7 @@ In determining whether the organization meets the requirements of paragraph (4) 
 
 **(1)** the grant constitutes a scholarship or fellowship grant which would be subject to the provisions of section 117(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) and is to be used for study at an educational organization described in section 170(b)(1)(A)(ii),
 
-**(2)** the grant constitutes a prize or award which is subject to the provisions of section 74(b) (without regard to paragraph (3) thereof), if the recipient of such prize or award is selected from the general public, or
+**(2)** the grant constitutes a prize or award which is subject to the provisions of section 74(b) (without regard to paragraph (3) thereof), if the recipient of such prize or award is selected from the general public, or
 
 **(3)** the purpose of the grant is to achieve a specific objective, produce a report or other similar product, or improve or enhance a literary, artistic, musical, scientific, teaching, or other similar capacity, skill, or talent of the grantee.
 
@@ -1423,7 +1423,7 @@ The terms “correction” and “correct” mean, with respect to any taxable e
 
 **(B)** the date on which the tax imposed by subsection (a)(1) is assessed.
 
-(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 512; amended Pub. L. 94–455, title XIX, §§ 1901(b)(8)(H), 1906(b)(13(A), Oct. 4, 1976, 90 Stat. 1795, 1834; Pub. L. 96–596, § 2(a)(1)(F), (2)(E), Dec. 24, 1980, 94 Stat. 3469, 3470; Pub. L. 98–369, div. A, title III, § 302(b), July 18, 1984, 98 Stat. 780; Pub. L. 99–514, title I, § 122(a)(2)(B), Oct. 22, 1986, 100 Stat. 2110; Pub. L. 100–647, title I, § 1001(d)(1)(B), Nov. 10, 1988, 102 Stat. 3350; Pub. L. 109–280, title XII, §§ 1212(e), 1244(b), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 113–295, div. A, title II, § 221(a)(106), Dec. 19, 2014, 128 Stat. 4053.)
+(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 512; amended Pub. L. 94–455, title XIX, §§ 1901(b)(8)(H), 1906(b)(13(A), Oct. 4, 1976, 90 Stat. 1795, 1834; Pub. L. 96–596, § 2(a)(1)(F), (2)(E), Dec. 24, 1980, 94 Stat. 3469, 3470; Pub. L. 98–369, div. A, title III, § 302(b), July 18, 1984, 98 Stat. 780; Pub. L. 99–514, title I, § 122(a)(2)(B), Oct. 22, 1986, 100 Stat. 2110; Pub. L. 100–647, title I, § 1001(d)(1)(B), Nov. 10, 1988, 102 Stat. 3350; Pub. L. 109–280, title XII, §§ 1212(e), 1244(b), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 113–295, div. A, title II, § 221(a)(106), Dec. 19, 2014, 128 Stat. 4053.)
 
 **Editorial Notes**
 
@@ -1439,13 +1439,13 @@ Sections 1212(e) and 1244(b) of Pub. L. 109–280, which directed the amendment 
 
 2014—Subsec. (f). Pub. L. 113–295 struck out “(excluding therefrom any preceding taxable year which begins before January 1, 1970)” after “taxable years of such organization” in concluding provisions.
 
-2006—Subsec. (a)(1). Pub. L. 109–280, § 1212(e)(1)(A), substituted “20 percent” for “10 percent”. See Codification note above.
+2006—Subsec. (a)(1). Pub. L. 109–280, § 1212(e)(1)(A), substituted “20 percent” for “10 percent”. See Codification note above.
 
-Subsec. (a)(2). Pub. L. 109–280, § 1212(e)(1)(B), substituted “5 percent” for “2½ percent”. See Codification note above.
+Subsec. (a)(2). Pub. L. 109–280, § 1212(e)(1)(B), substituted “5 percent” for “2½ percent”. See Codification note above.
 
-Subsec. (c)(2). Pub. L. 109–280, § 1212(e)(2), substituted “$10,000,” for “$5,000,” and “$20,000.” for “$10,000.” See Codification note above.
+Subsec. (c)(2). Pub. L. 109–280, § 1212(e)(2), substituted “$10,000,” for “$5,000,” and “$20,000.” for “$10,000.” See Codification note above.
 
-Subsec. (d)(4)(A). Pub. L. 109–280, § 1244(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such organization is described in paragraph (1), (2), or (3) of section 509(a) or is an exempt operating foundation (as defined in section 4940(d)(2)), or”. See Codification note above.
+Subsec. (d)(4)(A). Pub. L. 109–280, § 1244(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “such organization is described in paragraph (1), (2), or (3) of section 509(a) or is an exempt operating foundation (as defined in section 4940(d)(2)), or”. See Codification note above.
 
 1988—Subsec. (g)(1). Pub. L. 100–647 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the grant constitutes a scholarship or fellowship grant which is subject to the provisions of section 117(a) and is to be used for study at an educational organization described in section 170(b)(1)(A)(ii),”.
 
@@ -1453,13 +1453,13 @@ Subsec. (d)(4)(A). Pub. L. 109–280, § 1244(b), amended subpar. (A) generall
 
 1984—Subsec. (d)(4). Pub. L. 98–369, in amending par. (4) generally, divided existing provisions into subpars. (A) and (B) and inserted reference in subpar. (A) to exempt foundations (as defined in section 4940(d)(2)).
 
-1980—Subsec. (b)(1). Pub. L. 96–596, § 2(a)(1)(F), substituted “taxable period” for “correction period”.
+1980—Subsec. (b)(1). Pub. L. 96–596, § 2(a)(1)(F), substituted “taxable period” for “correction period”.
 
-Subsec. (i)(2). Pub. L. 96–596, § 2(a)(2)(E), substituted provision defining taxable period as the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (a)(1) of this section under section 6212 of this title or the date on which the tax imposed by subsec. (a)(1) of this section is assessed for provision defining correction period as the period beginning with the date on which the taxable expenditure occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under section 6212 of this title, extended by any period in which the deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines to be reasonable and necessary, except that such determination not be made with respect to any taxable expenditure within the meaning of pars. (1), (2), (3), or (4) of subsec. (d) of this section because of any action by an appropriate State officer.
+Subsec. (i)(2). Pub. L. 96–596, § 2(a)(2)(E), substituted provision defining taxable period as the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (a)(1) of this section under section 6212 of this title or the date on which the tax imposed by subsec. (a)(1) of this section is assessed for provision defining correction period as the period beginning with the date on which the taxable expenditure occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under section 6212 of this title, extended by any period in which the deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines to be reasonable and necessary, except that such determination not be made with respect to any taxable expenditure within the meaning of pars. (1), (2), (3), or (4) of subsec. (d) of this section because of any action by an appropriate State officer.
 
-1976—Subsec. (g). Pub. L. 94–455, §§ 1901(b)(8)(H), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and substituted in par. (1) “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)”.
+1976—Subsec. (g). Pub. L. 94–455, §§ 1901(b)(8)(H), 1906(b)(13)(A), struck out in provisions preceding par. (1) “or his delegate” after “Secretary” and substituted in par. (1) “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)”.
 
-Subsecs. (h), (i). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wher­ever appearing.
+Subsecs. (h), (i). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wher­ever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1483,7 +1483,7 @@ Amendment by Pub. L. 99–514 applicable to prizes and awards granted after Dec.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title III, § 302(c)(2), July 18, 1984, 98 Stat. 781, provided that: “The amendment made by subsection (b) [amending this section] shall apply to grants made after December 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title III, § 302(c)(2), July 18, 1984, 98 Stat. 781, provided that: “The amendment made by subsection (b) [amending this section] shall apply to grants made after December 31, 1984, in taxable years ending after such date.”
 
 **Effective Date of 1980 Amendment**
 
@@ -1493,7 +1493,7 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 Applicability of subsecs. (d)(4) and (h) of this section to grants to private foundations described in section 101(*l*)(C)(3) of Pub. L. 91–172, see section 101(*l*)(5) of Pub. L. 91–172, set out as a note under section 4940 of this title.
 
-### § 4946. Definitions and special rules
+### § 4946. Definitions and special rules
 
 **(a) Disqualified person**
 
@@ -1571,7 +1571,7 @@ For purposes of paragraphs (1)(C)(ii) and (iii), (1)(F), and (1)(G), the ownersh
 
 For purposes of subsection (a)(1), the family of any individual shall include only his spouse, ancestors, children, grandchildren, great grandchildren, and the spouses of children, grandchildren, and great grandchildren.
 
-(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 515; amended Pub. L. 95–227, § 4(c)(2)(B), Feb. 10, 1978, 92 Stat. 22; Pub. L. 98–369, div. A, title III, § 306(a), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XVI, § 1606(a), Oct. 22, 1986, 100 Stat. 2771; Pub. L. 105–206, title I, § 1101(c)(1), July 22, 1998, 112 Stat. 696; Pub. L. 106–554, § 1(a)(7) [title III, § 319(16)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
+(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 515; amended Pub. L. 95–227, § 4(c)(2)(B), Feb. 10, 1978, 92 Stat. 22; Pub. L. 98–369, div. A, title III, § 306(a), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XVI, § 1606(a), Oct. 22, 1986, 100 Stat. 2771; Pub. L. 105–206, title I, § 1101(c)(1), July 22, 1998, 112 Stat. 696; Pub. L. 106–554, § 1(a)(7) [title III, § 319(16)], Dec. 21, 2000, 114 Stat. 2763, 2763A–647.)
 
 **Editorial Notes**
 
@@ -1591,17 +1591,17 @@ For purposes of subsection (a)(1), the family of any individual shall include on
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XVI, § 1606(b), Oct. 22, 1986, 100 Stat. 2771, provided that: “The amendment made by this section [amending this section] shall apply to compensation received after December 31, 1985.”
+Pub. L. 99–514, title XVI, § 1606(b), Oct. 22, 1986, 100 Stat. 2771, provided that: “The amendment made by this section [amending this section] shall apply to compensation received after December 31, 1985.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title III, § 306(c), July 18, 1984, 98 Stat. 784, provided that: “The amendments made by this subsection [probably should be “section”, amending this section and section 6104 of this title] shall take effect on January 1, 1985.”
+Pub. L. 98–369, div. A, title III, § 306(c), July 18, 1984, 98 Stat. 784, provided that: “The amendments made by this subsection [probably should be “section”, amending this section and section 6104 of this title] shall take effect on January 1, 1985.”
 
 **Effective Date of 1978 Amendment**
 
 Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
 
-### § 4947. Application of taxes to certain nonexempt trusts
+### § 4947. Application of taxes to certain nonexempt trusts
 
 **(a) Application of tax**
 
@@ -1641,17 +1641,17 @@ If any amounts in the trust are segregated within the meaning of subsection (a)(
 
 The provisions of section 507(a) shall not apply to a trust which is described in subsection (a)(2) by reason of a distribution of qualified employer securities (as defined in section 664(g)(4)) to an employee stock ownership plan (as defined in section 4975(e)(7)) in a qualified gratuitous transfer (as defined by section 664(g)).
 
-(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 517; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XV, § 1530(c)(9), Aug. 5, 1997, 111 Stat. 1079; Pub. L. 107–16, title V, § 542(e)(4), June 7, 2001, 115 Stat. 85; Pub. L. 108–357, title IV, § 413(c)(30), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 111–312, title III, § 301(a), Dec. 17, 2010, 124 Stat. 3300.)
+(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 517; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title XV, § 1530(c)(9), Aug. 5, 1997, 111 Stat. 1079; Pub. L. 107–16, title V, § 542(e)(4), June 7, 2001, 115 Stat. 85; Pub. L. 108–357, title IV, § 413(c)(30), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 111–312, title III, § 301(a), Dec. 17, 2010, 124 Stat. 3300.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(2)(A). Pub. L. 111–312 amended subsec. (a)(2)(A) to read as if amendment by Pub. L. 107–16, § 542(e)(4), had never been enacted. See 2001 Amendment note below.
+2010—Subsec. (a)(2)(A). Pub. L. 111–312 amended subsec. (a)(2)(A) to read as if amendment by Pub. L. 107–16, § 542(e)(4), had never been enacted. See 2001 Amendment note below.
 
 2004—Subsecs. (a)(1), (2), (b)(3). Pub. L. 108–357 struck out “556(b)(2),” after “545(b)(2),” wherever appearing.
 
-2001—Subsec. (a)(2)(A). Pub. L. 107–16, § 542(e)(4), inserted “642(c),” after “170(f)(2)(B),”.
+2001—Subsec. (a)(2)(A). Pub. L. 107–16, § 542(e)(4), inserted “642(c),” after “170(f)(2)(B),”.
 
 1997—Subsec. (b)(4). Pub. L. 105–34 added par. (4).
 
@@ -1675,7 +1675,7 @@ Amendment by Pub. L. 107–16 applicable to deductions for taxable years beginni
 
 Amendment by Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
-### § 4948. Application of taxes and denial of exemption with respect to certain foreign organizations
+### § 4948. Application of taxes and denial of exemption with respect to certain foreign organizations
 
 **(a) Tax on income of certain foreign organizations**
 
@@ -1707,7 +1707,7 @@ For purposes of this subsection, the term “prohibited transaction” means any
 
 **(B)** in a taxable year of such organization for which it is not exempt from taxation under section 501(a) by reason of paragraph (1).
 
-(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 518; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–357, title IV, § 413(c)(30), Oct. 22, 2004, 118 Stat. 1509.)
+(Added Pub. L. 91–172, title I, § 101(b), Dec. 30, 1969, 83 Stat. 518; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–357, title IV, § 413(c)(30), Oct. 22, 2004, 118 Stat. 1509.)
 
 **Editorial Notes**
 
@@ -1725,7 +1725,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 ## Subchapter B—Black Lung Benefit Trusts
 
-### § 4951. Taxes on self-dealing
+### § 4951. Taxes on self-dealing
 
 **(a) Initial taxes**
 
@@ -1825,7 +1825,7 @@ For purposes of subparagraphs (C)(i) and (F), there shall be taken into account 
 
 For purposes of this section, a payment, out of assets or income of a trust described in section 501(c)(21), for the purposes described in subclause (I) or (IV) of section 501(c)(21)(A)(i) shall not be considered an act of self-dealing.
 
-(Added Pub. L. 95–227, § 4(c)(1), Feb. 10, 1978, 92 Stat. 18; amended Pub. L. 96–596, § 2(a)(1)(G), (H), (2)(F), (3)(E), Dec. 24, 1980, 94 Stat. 3469–3471; Pub. L. 102–486, title XIX, § 1940(b), Oct. 24, 1992, 106 Stat. 3035.)
+(Added Pub. L. 95–227, § 4(c)(1), Feb. 10, 1978, 92 Stat. 18; amended Pub. L. 96–596, § 2(a)(1)(G), (H), (2)(F), (3)(E), Dec. 24, 1980, 94 Stat. 3469–3471; Pub. L. 102–486, title XIX, § 1940(b), Oct. 24, 1992, 106 Stat. 3035.)
 
 **Editorial Notes**
 
@@ -1833,13 +1833,13 @@ For purposes of this section, a payment, out of assets or income of a trust desc
 
 1992—Subsec. (f). Pub. L. 102–486 substituted “subclause (I) or (IV) of section 501(c)(21)(A)(i)” for “clause (i) of section 501(c)(21)(A)”.
 
-1980—Subsec. (b)(1). Pub. L. 96–596, § 2(a)(1)(G), substituted “taxable period” for “correction period”.
+1980—Subsec. (b)(1). Pub. L. 96–596, § 2(a)(1)(G), substituted “taxable period” for “correction period”.
 
-Subsec. (e)(1)(B), (C). Pub. L. 96–596, § 2(a)(2)(F), added subpar. (B) and redesignated former subpar. (B) as (C).
+Subsec. (e)(1)(B), (C). Pub. L. 96–596, § 2(a)(2)(F), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (e)(2)(B). Pub. L. 96–596, § 2(a)(1)(H), substituted “taxable period” for “correction period”.
+Subsec. (e)(2)(B). Pub. L. 96–596, § 2(a)(1)(H), substituted “taxable period” for “correction period”.
 
-Subsec. (e)(4), (5). Pub. L. 96–596, § 2(a)(3)(E), redesignated par. (5) as (4) and struck out former par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
+Subsec. (e)(4), (5). Pub. L. 96–596, § 2(a)(3)(E), redesignated par. (5) as (4) and struck out former par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1855,7 +1855,7 @@ For effective date of amendment by Pub. L. 96–596 with respect to any first ti
 
 Subchapter effective with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as a note under section 192 of this title.
 
-### § 4952. Taxes on taxable expenditures
+### § 4952. Taxes on taxable expenditures
 
 **(a) Tax imposed**
 
@@ -1897,15 +1897,15 @@ The terms “correction” and “correct” mean, with respect to any taxable e
 
 **(B)** the date on which the tax imposed by subsection (a)(1) is assessed.
 
-(Added Pub. L. 95–227, § 4(c)(1), Feb. 10, 1978, 92 Stat. 21; amended Pub. L. 96–596, § 2(a)(1)(I), (2)(G), Dec. 24, 1980, 94 Stat. 3469, 3471.)
+(Added Pub. L. 95–227, § 4(c)(1), Feb. 10, 1978, 92 Stat. 21; amended Pub. L. 96–596, § 2(a)(1)(I), (2)(G), Dec. 24, 1980, 94 Stat. 3469, 3471.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1980—Subsec. (b)(1). Pub. L. 96–596, § 2(a)(1)(I), substituted “taxable period” for “correction period”.
+1980—Subsec. (b)(1). Pub. L. 96–596, § 2(a)(1)(I), substituted “taxable period” for “correction period”.
 
-Subsec. (e)(2). Pub. L. 96–596, § 2(a)(2)(G), substituted provision defining taxable period as the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (a)(1) of this section under section 6212 of this title or the date on which the tax imposed by subsec. (a)(1) of this section is assessed for provision defining correction period as the period beginning with the date on which the taxable expenditure occurs and ending 90 days after the date of mailing a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which the deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines reasonable and necessary to bring about the correction of the taxable expenditure.
+Subsec. (e)(2). Pub. L. 96–596, § 2(a)(2)(G), substituted provision defining taxable period as the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (a)(1) of this section under section 6212 of this title or the date on which the tax imposed by subsec. (a)(1) of this section is assessed for provision defining correction period as the period beginning with the date on which the taxable expenditure occurs and ending 90 days after the date of mailing a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which the deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines reasonable and necessary to bring about the correction of the taxable expenditure.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1913,7 +1913,7 @@ Subsec. (e)(2). Pub. L. 96–596, § 2(a)(2)(G), substituted provision definin
 
 For effective date of amendment by Pub. L. 96–596 with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as an Effective Date note under section 4961 of this title.
 
-### § 4953. Tax on excess contributions to black lung benefit trusts
+### § 4953. Tax on excess contributions to black lung benefit trusts
 
 **(a) Tax imposed**
 
@@ -1937,7 +1937,7 @@ There is hereby imposed for each taxable year a tax in an amount equal to 5 perc
 
 **(3)** an act contrary to the purposes for which the trust is exempt from taxation under section 501(a).
 
-(Added Pub. L. 95–227, § 4(c)(1), Feb. 10, 1978, 92 Stat. 22.)
+(Added Pub. L. 95–227, § 4(c)(1), Feb. 10, 1978, 92 Stat. 22.)
 
 ## Subchapter C—Political Expenditures of Section 501(c)(3) Organizations
 
@@ -1947,7 +1947,7 @@ There is hereby imposed for each taxable year a tax in an amount equal to 5 perc
 
 A prior subchapter C, consisting of sections 4961 to 4963 of this title, was redesignated subchapter E.
 
-### § 4955. Taxes on political expenditures of section 501(c)(3) organizations
+### § 4955. Taxes on political expenditures of section 501(c)(3) organizations
 
 **(a) Initial taxes**
 
@@ -2023,7 +2023,7 @@ The terms “correction” and “correct” mean, with respect to any political
 
 **(B)** the date on which tax imposed by subsection (a)(1) is assessed.
 
-(Added Pub. L. 100–203, title X, § 10712(a), Dec. 22, 1987, 101 Stat. 1330–465; amended Pub. L. 104–168, title XIII, § 1311(c)(1), July 30, 1996, 110 Stat. 1478.)
+(Added Pub. L. 100–203, title X, § 10712(a), Dec. 22, 1987, 101 Stat. 1330–465; amended Pub. L. 104–168, title XIII, § 1311(c)(1), July 30, 1996, 110 Stat. 1478.)
 
 **Editorial Notes**
 
@@ -2035,7 +2035,7 @@ The terms “correction” and “correct” mean, with respect to any political
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–168, title XIII, § 1311(d)(1), (2), July 30, 1996, 110 Stat. 1478, provided that:
+Pub. L. 104–168, title XIII, § 1311(d)(1), (2), July 30, 1996, 110 Stat. 1478, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting section 4958 of this title and amending this section and sections 4963, 6213, 7422, and 7454 of this title] (other than subsection (b)) [amending section 501 of this title] shall apply to excess benefit transactions occurring on or after September 14, 1995.
 
@@ -2043,7 +2043,7 @@ Pub. L. 104–168, title XIII, § 1311(d)(1), (2), July 30, 1996, 110 Stat. 14
 
 **Effective Date**
 
-Pub. L. 100–203, title X, § 10712(d), Dec. 22, 1987, 101 Stat. 1330–468, provided that: “The amendments made by this section [enacting this section and amending sections 4962, 4963, 6213, 6501, 6503, 6684, 7422, and 7454 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 1987].”
+Pub. L. 100–203, title X, § 10712(d), Dec. 22, 1987, 101 Stat. 1330–468, provided that: “The amendments made by this section [enacting this section and amending sections 4962, 4963, 6213, 6501, 6503, 6684, 7422, and 7454 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 1987].”
 
 ## Subchapter D—Failure by Certain Charitable Organizations To Meet Certain Qualification Requirements
 
@@ -2055,11 +2055,11 @@ A prior subchapter D, consisting of sections 4961 to 4963 of this title, was red
 
 **Amendments**
 
-2017—Pub. L. 115–97, title I, § 13602(b), Dec. 22, 2017, 131 Stat. 2159, added item 4960.
+2017—Pub. L. 115–97, title I, § 13602(b), Dec. 22, 2017, 131 Stat. 2159, added item 4960.
 
-2010—Pub. L. 111–148, title IX, § 9007(b)(2), Mar. 23, 2010, 124 Stat. 857, added item 4959.
+2010—Pub. L. 111–148, title IX, § 9007(b)(2), Mar. 23, 2010, 124 Stat. 857, added item 4959.
 
-### § 4958. Taxes on excess benefit transactions
+### § 4958. Taxes on excess benefit transactions
 
 **(a) Initial taxes**
 
@@ -2217,7 +2217,7 @@ The terms “correction” and “correct” mean, with respect to any excess be
 
 For purposes of subparagraph (A), the term “investment advisor” means, with respect to any sponsoring organization (as defined in section 4966(d)(1)), any person (other than an employee of such organization) compensated by such organization for managing the investment of, or providing investment advice with respect to, assets maintained in donor advised funds (as defined in section 4966(d)(2)) owned by such organization.
 
-(Added Pub. L. 104–168, title XIII, § 1311(a), July 30, 1996, 110 Stat. 1475; amended Pub. L. 109–280, title XII, §§ 1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, 120 Stat. 1074, 1098, 1099, 1104; Pub. L. 110–172, § 3(i), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 111–148, title I, § 1322(h)(3), Mar. 23, 2010, 124 Stat. 192; Pub. L. 115–141, div. U, title IV, § 401(a)(224), Mar. 23, 2018, 132 Stat. 1194.)
+(Added Pub. L. 104–168, title XIII, § 1311(a), July 30, 1996, 110 Stat. 1475; amended Pub. L. 109–280, title XII, §§ 1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, 120 Stat. 1074, 1098, 1099, 1104; Pub. L. 110–172, § 3(i), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 111–148, title I, § 1322(h)(3), Mar. 23, 2010, 124 Stat. 192; Pub. L. 115–141, div. U, title IV, § 401(a)(224), Mar. 23, 2018, 132 Stat. 1194.)
 
 **Editorial Notes**
 
@@ -2231,33 +2231,33 @@ Sections 1212(a)(3), 1232(a), (b), and 1242(a), (b) of Pub. L. 109–280, which 
 
 2010—Subsec. (e)(1). Pub. L. 111–148 substituted “paragraph (3), (4), or (29)” for “paragraph (3) or (4)”.
 
-2007—Subsec. (c)(3)(A)(i)(II). Pub. L. 110–172, § 3(i)(1), substituted “subparagraph (C)(ii)” for “paragraph (1), (2), or (4) of section 509(a)”.
+2007—Subsec. (c)(3)(A)(i)(II). Pub. L. 110–172, § 3(i)(1), substituted “subparagraph (C)(ii)” for “paragraph (1), (2), or (4) of section 509(a)”.
 
-Subsec. (c)(3)(C)(ii). Pub. L. 110–172, § 3(i)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Such term shall not include any organization described in paragraph (1), (2), or (4) of section 509(a).”
+Subsec. (c)(3)(C)(ii). Pub. L. 110–172, § 3(i)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Such term shall not include any organization described in paragraph (1), (2), or (4) of section 509(a).”
 
-2006—Subsec. (c)(2). Pub. L. 109–280, § 1232(b)(1), added par. (2). Former par. (2) redesignated (3). See Codification note above.
+2006—Subsec. (c)(2). Pub. L. 109–280, § 1232(b)(1), added par. (2). Former par. (2) redesignated (3). See Codification note above.
 
-Subsec. (c)(3). Pub. L. 109–280, § 1242(b), added par. (3). Former par. (3) redesignated (4). See Codification note above.
+Subsec. (c)(3). Pub. L. 109–280, § 1242(b), added par. (3). Former par. (3) redesignated (4). See Codification note above.
 
-Pub. L. 109–280, § 1232(b)(1), redesignated par. (2) as (3). See Codification note above.
+Pub. L. 109–280, § 1232(b)(1), redesignated par. (2) as (3). See Codification note above.
 
-Subsec. (c)(4). Pub. L. 109–280, § 1242(b), redesignated par. (3) as (4). See Codification note above.
+Subsec. (c)(4). Pub. L. 109–280, § 1242(b), redesignated par. (3) as (4). See Codification note above.
 
-Subsec. (d)(2). Pub. L. 109–280, § 1212(a)(3), substituted “$20,000” for “$10,000”. See Codification note above.
+Subsec. (d)(2). Pub. L. 109–280, § 1212(a)(3), substituted “$20,000” for “$10,000”. See Codification note above.
 
-Subsec. (f)(1)(D). Pub. L. 109–280, § 1242(a), added subpar. (D). Former subpar. (D) redesignated (E). See Codification note above.
+Subsec. (f)(1)(D). Pub. L. 109–280, § 1242(a), added subpar. (D). Former subpar. (D) redesignated (E). See Codification note above.
 
-Pub. L. 109–280, § 1232(a)(1), added subpar. (D). See Codification note above.
+Pub. L. 109–280, § 1232(a)(1), added subpar. (D). See Codification note above.
 
-Subsec. (f)(1)(E). Pub. L. 109–280, § 1242(a), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F). See Codification note above.
+Subsec. (f)(1)(E). Pub. L. 109–280, § 1242(a), redesignated subpar. (D) as (E). Former subpar. (E) redesignated (F). See Codification note above.
 
-Pub. L. 109–280, § 1232(a)(1), added subpar. (E). See Codification note above.
+Pub. L. 109–280, § 1232(a)(1), added subpar. (E). See Codification note above.
 
-Subsec. (f)(1)(F). Pub. L. 109–280, § 1242(a), redesignated subpar. (E) as (F). See Codification note above.
+Subsec. (f)(1)(F). Pub. L. 109–280, § 1242(a), redesignated subpar. (E) as (F). See Codification note above.
 
-Subsec. (f)(6). Pub. L. 109–280, § 1232(b)(2), inserted “, except that in the case of any correction of an excess benefit transaction described in subsection (c)(2), no amount repaid in a manner prescribed by the Secretary may be held in any donor advised fund” after “standards”. See Codification note above.
+Subsec. (f)(6). Pub. L. 109–280, § 1232(b)(2), inserted “, except that in the case of any correction of an excess benefit transaction described in subsection (c)(2), no amount repaid in a manner prescribed by the Secretary may be held in any donor advised fund” after “standards”. See Codification note above.
 
-Subsec. (f)(7), (8). Pub. L. 109–280, § 1232(a)(2), added pars. (7) and (8). See Codification note above.
+Subsec. (f)(7), (8). Pub. L. 109–280, § 1232(a)(2), added pars. (7) and (8). See Codification note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2269,9 +2269,9 @@ Amendment by Pub. L. 110–172 effective as if included in the provisions of the
 
 Amendment by section 1212(a)(3) of Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006, see section 1212(f) of Pub. L. 109–280, set out as a note under section 4941 of this title.
 
-Pub. L. 109–280, title XII, § 1232(c), Aug. 17, 2006, 120 Stat. 1099, provided that: “The amendments made by this section [amending this section] shall apply to transactions occurring after the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title XII, § 1232(c), Aug. 17, 2006, 120 Stat. 1099, provided that: “The amendments made by this section [amending this section] shall apply to transactions occurring after the date of the enactment of this Act [Aug. 17, 2006].”
 
-Pub. L. 109–280, title XII, § 1242(c), Aug. 17, 2006, 120 Stat. 1105, provided that:
+Pub. L. 109–280, title XII, § 1242(c), Aug. 17, 2006, 120 Stat. 1105, provided that:
 
 > **“(1) Subsection (a).—** The amendments made by subsection (a) [amending this section] shall apply to transactions occurring after the date of the enactment of this Act [Aug. 17, 2006].
 
@@ -2281,11 +2281,11 @@ Pub. L. 109–280, title XII, § 1242(c), Aug. 17, 2006, 120 Stat. 1105, provi
 
 Section applicable to excess benefit transactions occurring on or after Sept. 14, 1995, and not applicable to any benefit arising from a transaction pursuant to any written contract which was binding on Sept. 13, 1995, and at all times thereafter before such transaction occurred, see section 1311(d)(1), (2) of Pub. L. 104–168, set out as an Effective Date of 1996 Amendment note under section 4955 of this title.
 
-### § 4959. Taxes on failures by hospital organizations
+### § 4959. Taxes on failures by hospital organizations
 
 If a hospital organization to which section 501(r) applies fails to meet the requirement of section 501(r)(3) for any taxable year, there is imposed on the organization a tax equal to $50,000.
 
-(Added Pub. L. 111–148, title IX, § 9007(b)(1), Mar. 23, 2010, 124 Stat. 857.)
+(Added Pub. L. 111–148, title IX, § 9007(b)(1), Mar. 23, 2010, 124 Stat. 857.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2293,7 +2293,7 @@ If a hospital organization to which section 501(r) applies fails to meet the req
 
 Section applicable to failures occurring after Mar. 23, 2010, see section 9007(f)(3) of Pub. L. 111–148, set out as an Effective Date of 2010 Amendment note under section 501 of this title.
 
-### § 4960. Tax on excess tax-exempt organization executive compensation
+### § 4960. Tax on excess tax-exempt organization executive compensation
 
 **(a) Tax imposed** There is hereby imposed a tax equal to the product of the rate of tax under section 11 and the sum of—
 
@@ -2395,7 +2395,7 @@ Remuneration the deduction for which is not allowed by reason of section 162(m) 
 
 The Secretary shall prescribe such regulations as may be necessary to prevent avoidance of the tax under this section, including regulations to prevent avoidance of such tax through the performance of services other than as an employee or by providing compensation through a pass-through or other entity to avoid such tax.
 
-(Added Pub. L. 115–97, title I, § 13602(a), Dec. 22, 2017, 131 Stat. 2157; amended Pub. L. 119–21, title VII, § 70416(a), July 4, 2025, 139 Stat. 223.)
+(Added Pub. L. 115–97, title I, § 13602(a), Dec. 22, 2017, 131 Stat. 2157; amended Pub. L. 119–21, title VII, § 70416(a), July 4, 2025, 139 Stat. 223.)
 
 **Editorial Notes**
 
@@ -2411,11 +2411,11 @@ The Secretary shall prescribe such regulations as may be necessary to prevent av
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–21, title VII, § 70416(b), July 4, 2025, 139 Stat. 223, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2025.”
+Pub. L. 119–21, title VII, § 70416(b), July 4, 2025, 139 Stat. 223, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2025.”
 
 **Effective Date**
 
-Pub. L. 115–97, title I, § 13602(c), Dec. 22, 2017, 131 Stat. 2159, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13602(c), Dec. 22, 2017, 131 Stat. 2159, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2017.”
 
 ## Subchapter E—Abatement of First and Second Tier Taxes in Certain Cases
 
@@ -2423,13 +2423,13 @@ Pub. L. 115–97, title I, § 13602(c), Dec. 22, 2017, 131 Stat. 2159, provide
 
 **Amendments**
 
-1996—Pub. L. 104–168, title XIII, § 1311(a), July 30, 1996, 110 Stat. 1475, redesignated former subchapter D as E.
+1996—Pub. L. 104–168, title XIII, § 1311(a), July 30, 1996, 110 Stat. 1475, redesignated former subchapter D as E.
 
-1987—Pub. L. 100–203, title X, § 10712(a), (b)(5), Dec. 22, 1987, 101 Stat. 1330–465, 1330–467, redesignated former subchapter C as D, and struck out “private foundation” before “first tier taxes” in item 4962.
+1987—Pub. L. 100–203, title X, § 10712(a), (b)(5), Dec. 22, 1987, 101 Stat. 1330–465, 1330–467, redesignated former subchapter C as D, and struck out “private foundation” before “first tier taxes” in item 4962.
 
-1984—Pub. L. 98–369, div. A, title III, § 305(b)(1), (2), July 18, 1984, 98 Stat. 783, substituted “Abatement of First and Second Tier Taxes in Certain Cases” for “Abatement of Second Tier Taxes Where There Is Correction During Correction Period” in the subchapter heading, added item 4962, and renumbered former item 4962 as 4963.
+1984—Pub. L. 98–369, div. A, title III, § 305(b)(1), (2), July 18, 1984, 98 Stat. 783, substituted “Abatement of First and Second Tier Taxes in Certain Cases” for “Abatement of Second Tier Taxes Where There Is Correction During Correction Period” in the subchapter heading, added item 4962, and renumbered former item 4962 as 4963.
 
-### § 4961. Abatement of second tier taxes where there is correction
+### § 4961. Abatement of second tier taxes where there is correction
 
 **(a) General rule**
 
@@ -2457,7 +2457,7 @@ The running of the period of limitations provided in section 6502 on the collect
 
 If the Secretary makes a finding that the collection of the second tier tax is in jeopardy, nothing in this subsection shall prevent the immediate collection of such tax.
 
-(Added Pub. L. 96–596, § 2(c)(1), Dec. 24, 1980, 94 Stat. 3472; amended Pub. L. 99–514, title XVIII, § 1899A(50), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 115–141, div. U, title IV, § 401(a)(325)(C), Mar. 23, 2018, 132 Stat. 1200.)
+(Added Pub. L. 96–596, § 2(c)(1), Dec. 24, 1980, 94 Stat. 3472; amended Pub. L. 99–514, title XVIII, § 1899A(50), Oct. 22, 1986, 100 Stat. 2961; Pub. L. 115–141, div. U, title IV, § 401(a)(325)(C), Mar. 23, 2018, 132 Stat. 1200.)
 
 **Editorial Notes**
 
@@ -2471,7 +2471,7 @@ If the Secretary makes a finding that the collection of the second tier tax is i
 
 **Effective Date**
 
-Pub. L. 96–596, § 2(d), Dec. 24, 1980, 94 Stat. 3474, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–596, § 2(d), Dec. 24, 1980, 94 Stat. 3474, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1) First tier taxes.—** The amendments made by this section [enacting this section and section 4962 of this title and amending sections 4941 to 4945, 4951, 4952, 4971, 4975, 6213, 6214, 6503, and 7422 of this title] with respect to any first tier tax shall take effect as if included in the Internal Revenue Code of 1986 [formerly I.R.C. 1954] when such tax was first imposed.
 
@@ -2479,7 +2479,7 @@ Pub. L. 96–596, § 2(d), Dec. 24, 1980, 94 Stat. 3474, as amended by Pub. L.
 
 > **“(3) First and second tier tax.—** For purposes of this subsection, the terms ‘first tier tax’ and ‘second tier tax’ have the respective meanings given to such terms by section 4962 of the Internal Revenue Code of 1986.”
 
-### § 4962. Abatement of first tier taxes in certain cases
+### § 4962. Abatement of first tier taxes in certain cases
 
 **(a) General rule** If it is established to the satisfaction of the Secretary that—
 
@@ -2497,7 +2497,7 @@ For purposes of this section, the term “qualified first tier tax” means any 
 
 In the case of the tax imposed by section 4955(a), subsection (a)(1) shall be applied by substituting “not willful and flagrant” for “due to reasonable cause and not to willful neglect”.
 
-(Added Pub. L. 98–369, div. A, title III, § 305(a), July 18, 1984, 98 Stat. 783; amended Pub. L. 100–203, title X, § 10712(b)(1), (2), (4), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 105–34, title XVI, § 1603(a), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 110–172, § 3(h), Dec. 29, 2007, 121 Stat. 2475.)
+(Added Pub. L. 98–369, div. A, title III, § 305(a), July 18, 1984, 98 Stat. 783; amended Pub. L. 100–203, title X, § 10712(b)(1), (2), (4), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 105–34, title XVI, § 1603(a), Aug. 5, 1997, 111 Stat. 1096; Pub. L. 110–172, § 3(h), Dec. 29, 2007, 121 Stat. 2475.)
 
 **Editorial Notes**
 
@@ -2511,13 +2511,13 @@ A prior section 4962 was renumbered section 4963 of this title.
 
 1997—Subsec. (b). Pub. L. 105–34 substituted “subchapter A, C, or D” for “subchapter A or C”.
 
-1987—Pub. L. 100–203, § 10712(b)(4), struck out “private foundation” before “first tier taxes” in section catchline.
+1987—Pub. L. 100–203, § 10712(b)(4), struck out “private foundation” before “first tier taxes” in section catchline.
 
-Subsec. (a). Pub. L. 100–203, § 10712(b)(2), substituted “any qualified first tier tax” for “any private foundation first tier tax” in closing provisions.
+Subsec. (a). Pub. L. 100–203, § 10712(b)(2), substituted “any qualified first tier tax” for “any private foundation first tier tax” in closing provisions.
 
-Subsec. (b). Pub. L. 100–203, § 10712(b)(1), added subsec. (b) and struck out former subsec. (b) “Private foundation first tier tax” which read as follows: “For purposes of this section, the term ‘private foundation first tier tax’ means any first tier tax imposed by subchapter A of chapter 42, except that such term shall not include the tax imposed by section 4941(a) (relating to initial tax on self-dealing).”
+Subsec. (b). Pub. L. 100–203, § 10712(b)(1), added subsec. (b) and struck out former subsec. (b) “Private foundation first tier tax” which read as follows: “For purposes of this section, the term ‘private foundation first tier tax’ means any first tier tax imposed by subchapter A of chapter 42, except that such term shall not include the tax imposed by section 4941(a) (relating to initial tax on self-dealing).”
 
-Subsec. (c). Pub. L. 100–203, § 10712(b)(1), added subsec. (c).
+Subsec. (c). Pub. L. 100–203, § 10712(b)(1), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2527,7 +2527,7 @@ Amendment by Pub. L. 110–172 effective as if included in the provisions of the
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title XVI, § 1603(c), Aug. 5, 1997, 111 Stat. 1097, provided that: “The amendments made by this section [amending this section and section 6033 of this title] shall take effect as if included in the provisions of the Taxpayer Bill of Rights 2 [Pub. L. 104–168] to which such amendments relate.”
+Pub. L. 105–34, title XVI, § 1603(c), Aug. 5, 1997, 111 Stat. 1097, provided that: “The amendments made by this section [amending this section and section 6033 of this title] shall take effect as if included in the provisions of the Taxpayer Bill of Rights 2 [Pub. L. 104–168] to which such amendments relate.”
 
 **Effective Date of 1987 Amendment**
 
@@ -2535,9 +2535,9 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 **Effective Date**
 
-Pub. L. 98–369, div. A, title III, § 305(c), July 18, 1984, 98 Stat. 784, provided that: “The amendments made by this section [enacting this section, redesignating former section 4962 as 4963, and amending sections 4942, 6213, and 6503 of this title] shall apply to taxable events occurring after December 31, 1984.”
+Pub. L. 98–369, div. A, title III, § 305(c), July 18, 1984, 98 Stat. 784, provided that: “The amendments made by this section [enacting this section, redesignating former section 4962 as 4963, and amending sections 4942, 6213, and 6503 of this title] shall apply to taxable events occurring after December 31, 1984.”
 
-### § 4963. Definitions
+### § 4963. Definitions
 
 **(a) First tier tax**
 
@@ -2583,7 +2583,7 @@ Except as provided in paragraph (2), the term “correct” has the same meaning
 
 **(D)** in any other case, the date on which such event occurred.
 
-(Added Pub. L. 96–596, § 2(c)(1), Dec. 24, 1980, 94 Stat. 3473, § 4962; renumbered § 4963, Pub. L. 98–369, div. A, title III, § 305(a), July 18, 1984, 98 Stat. 783; amended Pub. L. 100–203, title X, § 10712(b)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 104–168, title XIII, § 1311(c)(2), July 30, 1996, 110 Stat. 1478; Pub. L. 109–280, title XII, § 1231(b)(1), Aug. 17, 2006, 120 Stat. 1098.)
+(Added Pub. L. 96–596, § 2(c)(1), Dec. 24, 1980, 94 Stat. 3473, § 4962; renumbered § 4963, Pub. L. 98–369, div. A, title III, § 305(a), July 18, 1984, 98 Stat. 783; amended Pub. L. 100–203, title X, § 10712(b)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 104–168, title XIII, § 1311(c)(2), July 30, 1996, 110 Stat. 1478; Pub. L. 109–280, title XII, § 1231(b)(1), Aug. 17, 2006, 120 Stat. 1098.)
 
 **Editorial Notes**
 
@@ -2599,7 +2599,7 @@ Except as provided in paragraph (2), the term “correct” has the same meaning
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–280, title XII, § 1231(c), Aug. 17, 2006, 120 Stat. 1098, provided that: “The amendments made by this section [enacting subchapter G of this chapter and amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title XII, § 1231(c), Aug. 17, 2006, 120 Stat. 1098, provided that: “The amendments made by this section [enacting subchapter G of this chapter and amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 17, 2006].”
 
 **Effective Date of 1996 Amendment**
 
@@ -2615,7 +2615,7 @@ For effective date of section with respect to any first tier tax and to any seco
 
 ## Subchapter F—Tax Shelter Transactions
 
-### § 4965. Excise tax on certain tax-exempt entities entering into prohibited tax shelter transactions
+### § 4965. Excise tax on certain tax-exempt entities entering into prohibited tax shelter transactions
 
 **(a) Being a party to and approval of prohibited transactions**
 
@@ -2721,7 +2721,7 @@ The Secretary is authorized to promulgate regulations which provide guidance reg
 
 The tax imposed by this section is in addition to any other tax, addition to tax, or penalty imposed under this title.
 
-(Added Pub. L. 109–222, title V, § 516(a)(1), May 17, 2006, 120 Stat. 368; amended Pub. L. 110–172, § 11(a)(30), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 113–295, div. B, title I, § 102(e)(3), Dec. 19, 2014, 128 Stat. 4062.)
+(Added Pub. L. 109–222, title V, § 516(a)(1), May 17, 2006, 120 Stat. 368; amended Pub. L. 110–172, § 11(a)(30), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 113–295, div. B, title I, § 102(e)(3), Dec. 19, 2014, 128 Stat. 4062.)
 
 **Editorial Notes**
 
@@ -2743,7 +2743,7 @@ Amendment by Pub. L. 113–295 applicable to taxable years beginning after Dec. 
 
 **Effective Date**
 
-Pub. L. 109–222, title V, § 516(d), May 17, 2006, 120 Stat. 372, provided that:
+Pub. L. 109–222, title V, § 516(d), May 17, 2006, 120 Stat. 372, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending sections 6011, 6033, and 6652 of this title] shall apply to taxable years ending after the date of the enactment of this Act [May 17, 2006], with respect to transactions before, on, or after such date, except that no tax under section 4965(a) of the Internal Revenue Code of 1986 (as added by this section) shall apply with respect to income or proceeds that are properly allocable to any period ending on or before the date which is 90 days after such date of enactment.
 
@@ -2755,9 +2755,9 @@ Pub. L. 109–222, title V, § 516(d), May 17, 2006, 120 Stat. 372, provided t
 
 **Codification**
 
-Pub. L. 109–280, title XII, § 1231(a), Aug. 17, 2006, 120 Stat. 1094, which directed the addition of subchapter G at the end of chapter 42, without specifying the act to be amended, was executed by adding subchapter G at the end of chapter 42 of this title, which consists of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+Pub. L. 109–280, title XII, § 1231(a), Aug. 17, 2006, 120 Stat. 1094, which directed the addition of subchapter G at the end of chapter 42, without specifying the act to be amended, was executed by adding subchapter G at the end of chapter 42 of this title, which consists of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-### § 4966. Taxes on taxable distributions
+### § 4966. Taxes on taxable distributions
 
 **(a) Imposition of taxes**
 
@@ -2865,7 +2865,7 @@ With respect to any one taxable distribution, the maximum amount of the tax impo
 
 An organization is described in this subparagraph if the organization is a functionally integrated type III supporting organization (as defined under section 4943(f)(5)(B)).
 
-(Added Pub. L. 109–280, title XII, § 1231(a), Aug. 17, 2006, 120 Stat. 1095.)
+(Added Pub. L. 109–280, title XII, § 1231(a), Aug. 17, 2006, 120 Stat. 1095.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2873,7 +2873,7 @@ An organization is described in this subparagraph if the organization is a funct
 
 Section applicable to taxable years beginning after Aug. 17, 2006, see section 1231(c) of Pub. L. 109–280, set out as an Effective Date of 2006 Amendment note under section 4963 of this title.
 
-### § 4967. Taxes on prohibited benefits
+### § 4967. Taxes on prohibited benefits
 
 **(a) Imposition of taxes**
 
@@ -2903,7 +2903,7 @@ With respect to any one distribution described in subsection (a), the maximum am
 
 A person is described in this subsection if such person is described in section 4958(f)(7) with respect to a donor advised fund.
 
-(Added Pub. L. 109–280, title XII, § 1231(a), Aug. 17, 2006, 120 Stat. 1097.)
+(Added Pub. L. 109–280, title XII, § 1231(a), Aug. 17, 2006, 120 Stat. 1097.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2913,7 +2913,7 @@ Section applicable to taxable years beginning after Aug. 17, 2006, see section 1
 
 ## Subchapter H—Excise Tax Based on Investment Income of Private Colleges and Universities
 
-### § 4968. Excise tax based on investment income of private colleges and universities
+### § 4968. Excise tax based on investment income of private colleges and universities
 
 **(a) Tax imposed**
 
@@ -2999,7 +2999,7 @@ The term “Federal funds” includes any grant made by, and any payment made un
 
 The Secretary shall prescribe such regulations or other guidance as may be necessary to prevent avoidance of the tax under this section, including regulations or other guidance to prevent avoidance of such tax through the restructuring of endowment funds or other arrangements designed to reduce or eliminate the value of net investment income or assets subject to the tax imposed by this section.
 
-(Added Pub. L. 115–97, title I, § 13701(a), Dec. 22, 2017, 131 Stat. 2167; amended Pub. L. 115–123, div. D, title II, § 41109(a), Feb. 9, 2018, 132 Stat. 159; Pub. L. 119–21, title VII, § 70415(a), July 4, 2025, 139 Stat. 221.)
+(Added Pub. L. 115–97, title I, § 13701(a), Dec. 22, 2017, 131 Stat. 2167; amended Pub. L. 115–123, div. D, title II, § 41109(a), Feb. 9, 2018, 132 Stat. 159; Pub. L. 119–21, title VII, § 70415(a), July 4, 2025, 139 Stat. 221.)
 
 **Editorial Notes**
 
@@ -3007,20 +3007,20 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 2025—Pub. L. 119–21 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to tax imposed, applicable educational institution, net investment income, and assets and net investment income of related organizations, respectively.
 
-2018—Subsec. (b)(1)(A). Pub. L. 115–123, § 41109(a)(1), inserted “tuition-paying” after “500”.
+2018—Subsec. (b)(1)(A). Pub. L. 115–123, § 41109(a)(1), inserted “tuition-paying” after “500”.
 
-Subsec. (b)(1)(B). Pub. L. 115–123, § 41109(a)(2), inserted “tuition-paying” after “50 percent of the”.
+Subsec. (b)(1)(B). Pub. L. 115–123, § 41109(a)(2), inserted “tuition-paying” after “50 percent of the”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–21, title VII, § 70415(c), July 4, 2025, 139 Stat. 223, provided that: “The amendments made by this section [amending this section and section 6033 of this title] shall apply to taxable years beginning after December 31, 2025.”
+Pub. L. 119–21, title VII, § 70415(c), July 4, 2025, 139 Stat. 223, provided that: “The amendments made by this section [amending this section and section 6033 of this title] shall apply to taxable years beginning after December 31, 2025.”
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–123, div. D, title II, § 41109(b), Feb. 9, 2018, 132 Stat. 159, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–123, div. D, title II, § 41109(b), Feb. 9, 2018, 132 Stat. 159, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
 **Effective Date**
 
-Pub. L. 115–97, title I, § 13701(c), Dec. 22, 2017, 131 Stat. 2168, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13701(c), Dec. 22, 2017, 131 Stat. 2168, provided that: “The amendments made by this section [enacting this section] shall apply to taxable years beginning after December 31, 2017.”

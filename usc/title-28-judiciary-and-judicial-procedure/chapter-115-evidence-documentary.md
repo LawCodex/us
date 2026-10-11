@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(15)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–584, which directed the amendment of item 1744 by substituting “United States Patent and Trademark Office” for “Patent Office”, was executed by making the substitution for “patent office” to reflect the probable intent of Congress.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(15)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–584, which directed the amendment of item 1744 by substituting “United States Patent and Trademark Office” for “Patent Office”, was executed by making the substitution for “patent office” to reflect the probable intent of Congress.
 
-1996—Pub. L. 104–199, § 2(b), Sept. 21, 1996, 110 Stat. 2419, added item 1738C.
+1996—Pub. L. 104–199, § 2(b), Sept. 21, 1996, 110 Stat. 2419, added item 1738C.
 
-1994—Pub. L. 103–383, § 3(b), Oct. 20, 1994, 108 Stat. 4066, added item 1738B.
+1994—Pub. L. 103–383, § 3(b), Oct. 20, 1994, 108 Stat. 4066, added item 1738B.
 
-1980—Pub. L. 96–611, § 8(b), Dec. 28, 1980, 94 Stat. 3571, added item 1738A.
+1980—Pub. L. 96–611, § 8(b), Dec. 28, 1980, 94 Stat. 3571, added item 1738A.
 
-1976—Pub. L. 94–550, § 1(b), Oct. 18, 1976, 90 Stat. 2534, added item 1746.
+1976—Pub. L. 94–550, § 1(b), Oct. 18, 1976, 90 Stat. 2534, added item 1746.
 
-1964—Pub. L. 88–619, §§ 5(b), 6(b), 7(b), Oct. 3, 1964, 78 Stat. 996, substituted “official documents” for “documents generally; copies” in item 1741, inserted “[Repealed]” in item 1742, and substituted “documents” for “specifications and drawings” in item 1745.
+1964—Pub. L. 88–619, §§ 5(b), 6(b), 7(b), Oct. 3, 1964, 78 Stat. 996, substituted “official documents” for “documents generally; copies” in item 1741, inserted “[Repealed]” in item 1742, and substituted “documents” for “specifications and drawings” in item 1745.
 
-1951—Act Aug. 28, 1951, ch. 351, § 2, 65 Stat. 206, inserted “; photographic copies” in item 1732.
+1951—Act Aug. 28, 1951, ch. 351, § 2, 65 Stat. 206, inserted “; photographic copies” in item 1732.
 
-1949—Act May 24, 1949, ch. 139, § 92(a), 63 Stat. 103, struck out item 1745 “Printed copies of patient specifications and drawings” and renumbered item 1746 as 1745.
+1949—Act May 24, 1949, ch. 139, § 92(a), 63 Stat. 103, struck out item 1745 “Printed copies of patient specifications and drawings” and renumbered item 1746 as 1745.
 
-## § 1731. Handwriting
+## § 1731. Handwriting
 
 The admitted or proved handwriting of any person shall be admissible, for purposes of comparison, to determine genuineness of other handwriting attributed to such person.
 
@@ -43,25 +43,25 @@ The admitted or proved handwriting of any person shall be admissible, for purpos
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 638 (Feb. 26, 1913, ch. 79, 37 Stat. 683).
+Based on title 28, U.S.C., 1940 ed., § 638 (Feb. 26, 1913, ch. 79, 37 Stat. 683).
 
 Words “as a basis for comparison by witnesses, or by the jury, court, or officer conducting such proceeding”, were omitted as superfluous.
 
 Changes were made in phraseology.
 
-## § 1732. Record made in regular course of business; photographic copies
+## § 1732. Record made in regular course of business; photographic copies
 
-If any business, institution, member of a profession or calling, or any department or agency of government, in the regular course of business or activity has kept or recorded any memorandum, writing, entry, print, representation or combination thereof, of any act, transaction, occurrence, or event, and in the regular course of business has caused any or all of the same to be recorded, copied, or reproduced by any photographic, photostatic, microfilm, micro-card, miniature photographic, or other process which accurately reproduces or forms a durable medium for so reproducing the original, the original may be destroyed in the regular course of business unless its preservation is required by law. Such reproduction, when satisfactorily identified, is as admissible in evidence as the original itself in any judicial or administrative proceeding whether the original is in existence or not and an enlargement or facsimile of such reproduction is likewise admissible in evidence if the original reproduction is in existence and available for inspection under direction of court. The introduction of a reproduced record, enlargement, or facsimile does not preclude admission of the original. This subsection 1
+If any business, institution, member of a profession or calling, or any department or agency of government, in the regular course of business or activity has kept or recorded any memorandum, writing, entry, print, representation or combination thereof, of any act, transaction, occurrence, or event, and in the regular course of business has caused any or all of the same to be recorded, copied, or reproduced by any photographic, photostatic, microfilm, micro-card, miniature photographic, or other process which accurately reproduces or forms a durable medium for so reproducing the original, the original may be destroyed in the regular course of business unless its preservation is required by law. Such reproduction, when satisfactorily identified, is as admissible in evidence as the original itself in any judicial or administrative proceeding whether the original is in existence or not and an enlargement or facsimile of such reproduction is likewise admissible in evidence if the original reproduction is in existence and available for inspection under direction of court. The introduction of a reproduced record, enlargement, or facsimile does not preclude admission of the original. This subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 shall not be construed to exclude from evidence any document or copy thereof which is otherwise admissible under the rules of evidence.
 
-(June 25, 1948, ch. 646, 62 Stat. 945; Aug. 28, 1951, ch. 351, §§ 1, 3, 65 Stat. 205, 206; Pub. L. 87–183, Aug. 30, 1961, 75 Stat. 413; Pub. L. 93–595, § 2(b), Jan. 2, 1975, 88 Stat. 1949.)
+(June 25, 1948, ch. 646, 62 Stat. 945; Aug. 28, 1951, ch. 351, §§ 1, 3, 65 Stat. 205, 206; Pub. L. 87–183, Aug. 30, 1961, 75 Stat. 413; Pub. L. 93–595, § 2(b), Jan. 2, 1975, 88 Stat. 1949.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 695 (June 20, 1936, ch. 640, § 1, 49 Stat. 1561).
+Based on title 28, U.S.C., 1940 ed., § 695 (June 20, 1936, ch. 640, § 1, 49 Stat. 1561).
 
 Changes in phraseology were made.
 
@@ -73,11 +73,11 @@ Changes in phraseology were made.
 
 1961—Subsec. (b). Pub. L. 87–183 struck out “unless held in a custodial or fiduciary capacity or” after “may be destroyed in the regular course of business”.
 
-1951—Act Aug. 29, 1951, § 3, inserted reference to photographic copies in section catchline.
+1951—Act Aug. 29, 1951, § 3, inserted reference to photographic copies in section catchline.
 
-Subsecs. (a), (b). Act Aug. 28, 1951, § 1, designated existing provisions as subsec. (a) and added subsec. (b).
+Subsecs. (a), (b). Act Aug. 28, 1951, § 1, designated existing provisions as subsec. (a) and added subsec. (b).
 
-## § 1733. Government records and papers; copies
+## § 1733. Government records and papers; copies
 
 **(a)** Books or records of account or minutes of proceedings of any department or agency of the United States shall be admissible to prove the act, transaction or occurrence as a memorandum of which the same were made or kept.
 
@@ -85,11 +85,11 @@ Subsecs. (a), (b). Act Aug. 28, 1951, § 1, designated existing provisions as 
 
 **(c)** This section does not apply to cases, actions, and proceedings to which the Federal Rules of Evidence apply.
 
-(June 25, 1948, ch. 646, 62 Stat. 946; Pub. L. 93–595, § 2(c), Jan. 2, 1975, 88 Stat. 1949.)
+(June 25, 1948, ch. 646, 62 Stat. 946; Pub. L. 93–595, § 2(c), Jan. 2, 1975, 88 Stat. 1949.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 661–667, 671 (R.S. §§ 882–886, 889; July 31, 1894, ch. 174, §§ 17, 22, 28 Stat. 210; Mar. 2, 1895, ch. 177, § 10, 28 Stat. 809; June 10, 1921, ch. 18, §§ 301, 302, 304, 310, 42 Stat. 23–25; May 10, 1934, ch. 277, § 512, 48 Stat. 758; June 19, 1934, ch. 653, § 6(a), 48 Stat. 1109).
+Based on title 28, U.S.C., 1940 ed., §§ 661–667, 671 (R.S. §§ 882–886, 889; July 31, 1894, ch. 174, §§ 17, 22, 28 Stat. 210; Mar. 2, 1895, ch. 177, § 10, 28 Stat. 809; June 10, 1921, ch. 18, §§ 301, 302, 304, 310, 42 Stat. 23–25; May 10, 1934, ch. 277, § 512, 48 Stat. 758; June 19, 1934, ch. 653, § 6(a), 48 Stat. 1109).
 
 The consolidation of sections 661–667 and 671 of title 28, U.S.C., 1940 ed., permitted omission of obsolete, unnecessary and repetitive provisions in such sections. For example, the provision in section 665 of title 28, U.S.C., 1940 ed., authorizing the court to require production of documents on a plea of non est factum, was omitted. Such plea is obsolete in Federal practice.
 
@@ -111,7 +111,7 @@ The Federal Rules of Evidence, referred to in subsec. (c), are set out in the Ap
 
 1975—Subsec. (c). Pub. L. 93–595 added subsec. (c).
 
-## § 1734. Court record lost or destroyed, generally
+## § 1734. Court record lost or destroyed, generally
 
 **(a)** A lost or destroyed record of any proceeding in any court of the United States may be supplied on application of any interested party not at fault, by substituting a copy certified by the clerk of any court in which an authentic copy is lodged.
 
@@ -127,7 +127,7 @@ If, after the hearing, the court is satisfied that the statements contained in t
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 681, 682, 683, and 684 (R.S. §§ 899, 900, 901, 902; Jan. 31, 1879, ch. 39, § 1, 20 Stat. 277).
+Based on title 28, U.S.C., 1940 ed., §§ 681, 682, 683, and 684 (R.S. §§ 899, 900, 901, 902; Jan. 31, 1879, ch. 39, § 1, 20 Stat. 277).
 
 Sections 681, 682, and 684 of title 28, U.S.C., 1940 ed., contained repetitious language which was eliminated by the consolidation.
 
@@ -135,7 +135,7 @@ Section 683 of title 28, U.S.C., 1940 ed., applied only to cases removed to the 
 
 Changes were made in phraseology.
 
-## § 1735. Court record lost or destroyed where United States interested
+## § 1735. Court record lost or destroyed where United States interested
 
 **(a)** When the record of any case or matter in any court of the United States to which the United States is a party, is lost or destroyed, a certified copy of any official paper of a United States attorney, United States marshal or clerk or other certifying or recording officer of any such court, made pursuant to law, on file in any department or agency of the United States and relating to such case or matter, shall, on being filed in the court to which it relates, have the same effect as an original paper filed in such court. If the copy so filed discloses the date and amount of a judgment or decree and the names of the parties thereto, the court may enforce the judgment or decree as though the original record had not been lost or destroyed.
 
@@ -145,7 +145,7 @@ Changes were made in phraseology.
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 685, 686 (R.S. §§ 903, 904; Jan. 31, 1879, ch. 39, §§ 2, 3, 20 Stat. 277).
+Based on title 28, U.S.C., 1940 ed., §§ 685, 686 (R.S. §§ 903, 904; Jan. 31, 1879, ch. 39, §§ 2, 3, 20 Stat. 277).
 
 A provision of section 686 of title 28, U.S.C., 1940 ed., relating to allowances to clerks and United States attorneys for their services, and disbursements incidental to restoring lost records under such section was deleted as obsolete, in view of sections 508, 509, and 604 of this title, placing such officers on a salary basis and providing for their expenses.
 
@@ -157,7 +157,7 @@ The phrase “so far as the judges of such courts respectively shall deem it ess
 
 Changes were made in phraseology.
 
-## § 1736. Congressional Journals
+## § 1736. Congressional Journals
 
 Extracts from the Journals of the Senate and the House of Representatives, and from the Executive Journal of the Senate when the injunction of secrecy is removed, certified by the Secretary of the Senate or the Clerk of the House of Representatives shall be received in evidence with the same effect as the originals would have.
 
@@ -165,11 +165,11 @@ Extracts from the Journals of the Senate and the House of Representatives, and f
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 676 (R.S. § 895).
+Based on title 28, U.S.C., 1940 ed., § 676 (R.S. § 895).
 
 Changes in phraseology were made.
 
-## § 1737. Copy of officer’s bond
+## § 1737. Copy of officer’s bond
 
 Any person to whose custody the bond of any officer of the United States has been committed shall, on proper request and payment of the fee allowed by any Act of Congress, furnish certified copies thereof, which shall be prima facie evidence in any court of the execution, filing and contents of the bond.
 
@@ -177,7 +177,7 @@ Any person to whose custody the bond of any officer of the United States has bee
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 326, 499, 513, and 514 (R.S. §§ 783, 795; Feb. 22, 1875, ch. 95, § 3, 18 Stat. 333; Mar. 3, 1911, ch. 231, §§ 220, 291, 36 Stat. 1152, 1167).
+Based on title 28, U.S.C., 1940 ed., §§ 326, 499, 513, and 514 (R.S. §§ 783, 795; Feb. 22, 1875, ch. 95, § 3, 18 Stat. 333; Mar. 3, 1911, ch. 231, §§ 220, 291, 36 Stat. 1152, 1167).
 
 Sections 326, 499, 513, and 514 of title 28, U.S.C., 1940 ed., were consolidated. They related to the bonds of particular officers, namely the Clerk of the Supreme Court, the United States marshals, and the clerks of the district courts. The revised section eliminates all inconsistent provisions of such sections.
 
@@ -187,7 +187,7 @@ The other provisions of sections 326, 499, 513, and 514 of title 28, U.S.C., 194
 
 Changes were made in phraseology.
 
-## § 1738. State and Territorial statutes and judicial proceedings; full faith and credit
+## § 1738. State and Territorial statutes and judicial proceedings; full faith and credit
 
 The Acts of the legislature of any State, Territory, or Possession of the United States, or copies thereof, shall be authenticated by affixing the seal of such State, Territory or Possession thereto.
 
@@ -199,7 +199,7 @@ Such Acts, records and judicial proceedings or copies thereof, so authenticated,
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 687 (R.S. § 905).
+Based on title 28, U.S.C., 1940 ed., § 687 (R.S. § 905).
 
 Words “Possession of the United States” were substituted for “of any country subject to the jurisdiction of the United States”.
 
@@ -215,7 +215,7 @@ For additional provisions as to authentication, see Rule 44 of the Federal Rules
 
 Changes were made in phraseology.
 
-## § 1738A. Full faith and credit given to child custody determinations
+## § 1738A. Full faith and credit given to child custody determinations
 
 **(a)** The appropriate authorities of every State shall enforce according to its terms, and shall not modify except as provided in subsections (f), (g), and (h) of this section, any custody determination or visitation determination made consistently with the provisions of this section by a court of another State.
 
@@ -273,7 +273,7 @@ Changes were made in phraseology.
 
 **(h)** A court of a State may not modify a visitation determination made by a court of another State unless the court of the other State no longer has jurisdiction to modify such determination or has declined to exercise jurisdiction to modify such determination.
 
-(Added Pub. L. 96–611, § 8(a), Dec. 28, 1980, 94 Stat. 3569; amended Pub. L. 105–374, § 1, Nov. 12, 1998, 112 Stat. 3383; Pub. L. 106–386, div. B, title III, § 1303(d), Oct. 28, 2000, 114 Stat. 1512.)
+(Added Pub. L. 96–611, § 8(a), Dec. 28, 1980, 94 Stat. 3569; amended Pub. L. 105–374, § 1, Nov. 12, 1998, 112 Stat. 3383; Pub. L. 106–386, div. B, title III, § 1303(d), Oct. 28, 2000, 114 Stat. 1512.)
 
 **Editorial Notes**
 
@@ -281,31 +281,31 @@ Changes were made in phraseology.
 
 2000—Subsec. (c)(2)(C)(ii). Pub. L. 106–386 substituted “the child, a sibling, or parent of the child” for “he”.
 
-1998—Subsec. (a). Pub. L. 105–374, § 1(a), substituted “subsections (f), (g), and (h) of this section, any custody determination or visitation determination” for “subsection (f) of this section, any child custody determination”.
+1998—Subsec. (a). Pub. L. 105–374, § 1(a), substituted “subsections (f), (g), and (h) of this section, any custody determination or visitation determination” for “subsection (f) of this section, any child custody determination”.
 
-Subsec. (b)(2). Pub. L. 105–374, § 1(b), inserted “or grandparent” after “parent”.
+Subsec. (b)(2). Pub. L. 105–374, § 1(b), inserted “or grandparent” after “parent”.
 
-Subsec. (b)(3). Pub. L. 105–374, § 1(c), struck out “or visitation” after “for the custody”.
+Subsec. (b)(3). Pub. L. 105–374, § 1(c), struck out “or visitation” after “for the custody”.
 
-Subsec. (b)(5). Pub. L. 105–374, § 1(d), substituted “custody or visitation determination” for “custody determination” in two places.
+Subsec. (b)(5). Pub. L. 105–374, § 1(d), substituted “custody or visitation determination” for “custody determination” in two places.
 
-Subsec. (b)(9). Pub. L. 105–374, § 1(e), added par. (9).
+Subsec. (b)(9). Pub. L. 105–374, § 1(e), added par. (9).
 
-Subsec. (c). Pub. L. 105–374, § 1(f), substituted “custody or visitation determination” for “custody determination” in introductory provisions.
+Subsec. (c). Pub. L. 105–374, § 1(f), substituted “custody or visitation determination” for “custody determination” in introductory provisions.
 
-Subsec. (c)(2)(D)(i). Pub. L. 105–374, § 1(g), inserted “or visitation” after “determine the custody”.
+Subsec. (c)(2)(D)(i). Pub. L. 105–374, § 1(g), inserted “or visitation” after “determine the custody”.
 
-Subsecs. (d), (e). Pub. L. 105–374, § 1(h), (i), substituted “custody or visitation determination” for “custody determination”.
+Subsecs. (d), (e). Pub. L. 105–374, § 1(h), (i), substituted “custody or visitation determination” for “custody determination”.
 
-Subsec. (g). Pub. L. 105–374, § 1(j), which directed substitution of “custody or visitation determination” for “custody determination”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+Subsec. (g). Pub. L. 105–374, § 1(j), which directed substitution of “custody or visitation determination” for “custody determination”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-Subsec. (h). Pub. L. 105–374, § 1(k), added subsec. (h).
+Subsec. (h). Pub. L. 105–374, § 1(k), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Report on Effects of Parental Kidnaping Laws in Domestic Violence Cases**
 
-Pub. L. 106–386, div. B, title III, § 1303(a)–(c), Oct. 28, 2000, 114 Stat. 1512, provided that:
+Pub. L. 106–386, div. B, title III, § 1303(a)–(c), Oct. 28, 2000, 114 Stat. 1512, provided that:
 
 > **“(a) In General.—** The Attorney General shall—
 
@@ -321,7 +321,7 @@ Pub. L. 106–386, div. B, title III, § 1303(a)–(c), Oct. 28, 2000, 114 Sta
 
 **Congressional Findings and Declaration of Purpose**
 
-Pub. L. 96–611, § 7, Dec. 28, 1980, 94 Stat. 3568, provided that:
+Pub. L. 96–611, § 7, Dec. 28, 1980, 94 Stat. 3568, provided that:
 
 > **“(a)** The Congress finds that—
 
@@ -351,7 +351,7 @@ Pub. L. 96–611, § 7, Dec. 28, 1980, 94 Stat. 3568, provided that:
 
 **State Court Proceedings for Custody Determinations; Priority Treatment; Fees, Costs, and Other Expenses**
 
-Pub. L. 96–611, § 8(c), Dec. 28, 1980, 94 Stat. 3571, provided that:
+Pub. L. 96–611, § 8(c), Dec. 28, 1980, 94 Stat. 3571, provided that:
 
 > “In furtherance of the purposes of section 1738A of title 28, United States Code, as added by subsection (a) of this section, State courts are encouraged to—
 
@@ -363,7 +363,7 @@ Pub. L. 96–611, § 8(c), Dec. 28, 1980, 94 Stat. 3571, provided that:
 
 > **“(B)** the court determines it is appropriate.”
 
-## § 1738B. Full faith and credit for child support orders
+## § 1738B. Full faith and credit for child support orders
 
 **(a) General Rule.—** The appropriate authorities of each State—
 
@@ -459,55 +459,55 @@ Pub. L. 96–611, § 8(c), Dec. 28, 1980, 94 Stat. 3571, provided that:
 
 **(i) Registration for Modification.—** If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
 
-(Added Pub. L. 103–383, § 3(a), Oct. 20, 1994, 108 Stat. 4064; amended Pub. L. 104–193, title III, § 322, Aug. 22, 1996, 110 Stat. 2221; Pub. L. 105–33, title V, § 5554, Aug. 5, 1997, 111 Stat. 636; Pub. L. 113–183, title III, § 301(f)(2), Sept. 29, 2014, 128 Stat. 1944.)
+(Added Pub. L. 103–383, § 3(a), Oct. 20, 1994, 108 Stat. 4064; amended Pub. L. 104–193, title III, § 322, Aug. 22, 1996, 110 Stat. 2221; Pub. L. 105–33, title V, § 5554, Aug. 5, 1997, 111 Stat. 636; Pub. L. 113–183, title III, § 301(f)(2), Sept. 29, 2014, 128 Stat. 1944.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (b). Pub. L. 113–183, § 301(f)(2)(C), inserted designations for pars. (1) to (9) and “The term” after each designation.
+2014—Subsec. (b). Pub. L. 113–183, § 301(f)(2)(C), inserted designations for pars. (1) to (9) and “The term” after each designation.
 
-Subsec. (d). Pub. L. 113–183, § 301(f)(2)(A), substituted “individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,” for “individual contestant”.
+Subsec. (d). Pub. L. 113–183, § 301(f)(2)(A), substituted “individual contestant or the parties have consented in a record or open court that the tribunal of the State may continue to exercise jurisdiction to modify its order,” for “individual contestant”.
 
-Subsec. (e)(2)(A). Pub. L. 113–183, § 301(f)(2)(B), substituted “individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order” for “individual contestant”.
+Subsec. (e)(2)(A). Pub. L. 113–183, § 301(f)(2)(B), substituted “individual contestant and the parties have not consented in a record or open court that the tribunal of the other State may continue to exercise jurisdiction to modify its order” for “individual contestant”.
 
-1997—Subsec. (f)(4). Pub. L. 105–33, § 5554(1), substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
+1997—Subsec. (f)(4). Pub. L. 105–33, § 5554(1), substituted “a court having jurisdiction over the parties shall issue a child support order, which must be recognized.” for “a court may issue a child support order, which must be recognized.”
 
-Subsec. (f)(5). Pub. L. 105–33, § 5554(2), inserted “under subsection (d)” after “jurisdiction”.
+Subsec. (f)(5). Pub. L. 105–33, § 5554(2), inserted “under subsection (d)” after “jurisdiction”.
 
-1996—Subsec. (a)(2). Pub. L. 104–193, § 322(1), substituted “subsections (e), (f), and (i)” for “subsection (e)”.
+1996—Subsec. (a)(2). Pub. L. 104–193, § 322(1), substituted “subsections (e), (f), and (i)” for “subsection (e)”.
 
-Subsec. (b). Pub. L. 104–193, § 322(2), inserted par. defining “child’s home State”.
+Subsec. (b). Pub. L. 104–193, § 322(2), inserted par. defining “child’s home State”.
 
-Subsec. (c). Pub. L. 104–193, § 322(3), inserted “by a court of a State” before “is made” in introductory provisions.
+Subsec. (c). Pub. L. 104–193, § 322(3), inserted “by a court of a State” before “is made” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 104–193, § 322(4), inserted “and subsections (e), (f), and (g)” after “located”.
+Subsec. (c)(1). Pub. L. 104–193, § 322(4), inserted “and subsections (e), (f), and (g)” after “located”.
 
-Subsec. (d). Pub. L. 104–193, § 322(5), inserted “individual” before “contestant” and substituted “subsections (e) and (f)” for “subsection (e)”.
+Subsec. (d). Pub. L. 104–193, § 322(5), inserted “individual” before “contestant” and substituted “subsections (e) and (f)” for “subsection (e)”.
 
-Subsec. (e). Pub. L. 104–193, § 322(6), substituted “modify a child support order issued” for “make a modification of a child support order with respect to a child that is made” in introductory provisions.
+Subsec. (e). Pub. L. 104–193, § 322(6), substituted “modify a child support order issued” for “make a modification of a child support order with respect to a child that is made” in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 104–193, § 322(7), inserted “pursuant to subsection (i)” after “order”.
+Subsec. (e)(1). Pub. L. 104–193, § 322(7), inserted “pursuant to subsection (i)” after “order”.
 
-Subsec. (e)(2). Pub. L. 104–193, § 322(8), inserted “individual” before “contestant” in subpars. (A) and (B) and substituted “with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume” for “to that court’s making the modification and assuming” in subpar. (B).
+Subsec. (e)(2). Pub. L. 104–193, § 322(8), inserted “individual” before “contestant” in subpars. (A) and (B) and substituted “with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume” for “to that court’s making the modification and assuming” in subpar. (B).
 
-Subsec. (f). Pub. L. 104–193, § 322(10), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 104–193, § 322(10), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 104–193, § 322(11), substituted “Modified” for “Prior” in heading and “subsections (e) and (f)” for “subsection (e)” in text.
+Subsec. (g). Pub. L. 104–193, § 322(11), substituted “Modified” for “Prior” in heading and “subsections (e) and (f)” for “subsection (e)” in text.
 
-Pub. L. 104–193, § 322(9), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Pub. L. 104–193, § 322(9), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 104–193, § 322(12), inserted “including the duration of current payments and other obligations of support” before comma in par. (2) and “arrears under” after “enforce” in par. (3).
+Subsec. (h). Pub. L. 104–193, § 322(12), inserted “including the duration of current payments and other obligations of support” before comma in par. (2) and “arrears under” after “enforce” in par. (3).
 
-Pub. L. 104–193, § 322(9), redesignated subsec. (g) as (h).
+Pub. L. 104–193, § 322(9), redesignated subsec. (g) as (h).
 
-Subsec. (i). Pub. L. 104–193, § 322(13), added subsec. (i).
+Subsec. (i). Pub. L. 104–193, § 322(13), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–183, title III, § 301(f)(3)(B), Sept. 29, 2014, 128 Stat. 1945, provided that:
+Pub. L. 113–183, title III, § 301(f)(3)(B), Sept. 29, 2014, 128 Stat. 1945, provided that:
 
 > **“(i)** The amendments made by subparagraphs (A) and (B) of paragraph (2) [amending this section] shall take effect on the date on which the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance enters into force for the United States [The Convention entered into force for the United States Jan. 1, 2017].
 
@@ -523,7 +523,7 @@ For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) o
 
 **Congressional Findings and Declaration of Purpose**
 
-Pub. L. 103–383, § 2, Oct. 20, 1994, 108 Stat. 4063, provided that:
+Pub. L. 103–383, § 2, Oct. 20, 1994, 108 Stat. 4063, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -563,7 +563,7 @@ Pub. L. 103–383, § 2, Oct. 20, 1994, 108 Stat. 4063, provided that:
 
 > **“(3)** to avoid jurisdictional competition and conflict among State courts in the establishment of child support orders.”
 
-## § 1738C. Certain acts, records, and proceedings and the effect thereof
+## § 1738C. Certain acts, records, and proceedings and the effect thereof
 
 **(a) In General.—** No person acting under color of State law may deny—
 
@@ -577,15 +577,15 @@ Pub. L. 103–383, § 2, Oct. 20, 1994, 108 Stat. 4063, provided that:
 
 **(d) State Defined.—** In this section, the term “State” has the meaning given such term under section 7 of title 1.
 
-(Added Pub. L. 117–228, § 4, Dec. 13, 2022, 136 Stat. 2305.)
+(Added Pub. L. 117–228, § 4, Dec. 13, 2022, 136 Stat. 2305.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1738C, added Pub. L. 104–199, § 2(a), Sept. 21, 1996, 110 Stat. 2419, related to effect not required to be given to certain acts, records, and proceedings of another jurisdiction regarding marriage between persons of the same sex, prior to repeal by Pub. L. 117–228, § 3, Dec. 13, 2022, 136 Stat. 2305.
+A prior section 1738C, added Pub. L. 104–199, § 2(a), Sept. 21, 1996, 110 Stat. 2419, related to effect not required to be given to certain acts, records, and proceedings of another jurisdiction regarding marriage between persons of the same sex, prior to repeal by Pub. L. 117–228, § 3, Dec. 13, 2022, 136 Stat. 2305.
 
-## § 1739. State and Territorial nonjudicial records; full faith and credit
+## § 1739. State and Territorial nonjudicial records; full faith and credit
 
 All nonjudicial records or books kept in any public office of any State, Territory, or Possession of the United States, or copies thereof, shall be proved or admitted in any court or office in any other State, Territory, or Possession by the attestation of the custodian of such records or books, and the seal of his office annexed, if there be a seal, together with a certificate of a judge of a court of record of the county, parish, or district in which such office may be kept, or of the Governor, or secretary of state, the chancellor or keeper of the great seal, of the State, Territory, or Possession that the said attestation is in due form and by the proper officers.
 
@@ -597,7 +597,7 @@ Such records or books, or copies thereof, so authenticated, shall have the same 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 688 (R.S. § 906).
+Based on title 28, U.S.C., 1940 ed., § 688 (R.S. § 906).
 
 Words “Possession of the United States” were substituted for “or any country subject to the jurisdiction of the United States.”
 
@@ -611,7 +611,7 @@ See also Rule 44 of the Federal Rules of Civil Procedure.
 
 Changes were made in phraseology.
 
-## § 1740. Copies of consular papers
+## § 1740. Copies of consular papers
 
 Copies of all official documents and papers in the office of any consul or vice consul of the United States, and of all official entries in the books or records of any such office, authenticated by the consul or vice consul, shall be admissible equally with the originals.
 
@@ -619,7 +619,7 @@ Copies of all official documents and papers in the office of any consul or vice 
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 677 (R.S. § 896; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100).
+Based on title 28, U.S.C., 1940 ed., § 677 (R.S. § 896; Apr. 5, 1906, ch. 1366, § 3, 34 Stat. 100).
 
 Words “authenticated by the consul or vice consul” were substituted for “certified under the hand and seal of such officer”, for clarity. Words “in the courts of the United States”, were omitted after “admissible”. Such papers should be so admitted in all courts consistently with sections 1738 and 1739 of this title.
 
@@ -627,17 +627,17 @@ See also Rule 44 of the Federal Rules of Civil Procedure.
 
 Changes were made in phraseology.
 
-## § 1741. Foreign official documents
+## § 1741. Foreign official documents
 
 An official record or document of a foreign country may be evidenced by a copy, summary, or excerpt authenticated as provided in the Federal Rules of Civil Procedure.
 
-(June 25, 1948, ch. 646, 62 Stat. 948; May 24, 1949, ch. 139, § 92(b), 63 Stat. 103; Pub. L. 88–619, § 5(a), Oct. 3, 1964, 78 Stat. 996.)
+(June 25, 1948, ch. 646, 62 Stat. 948; May 24, 1949, ch. 139, § 92(b), 63 Stat. 103; Pub. L. 88–619, § 5(a), Oct. 3, 1964, 78 Stat. 996.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 695e (June 20, 1936, ch. 640, § 6, 49 Stat. 1563).
+Based on title 28, U.S.C., 1940 ed., § 695e (June 20, 1936, ch. 640, § 6, 49 Stat. 1563).
 
 Words “Nothing contained in this section shall be deemed to alter, amend, or repeal section 689 of this title,” at the end of section 695e of title 28, U.S.C., 1940 ed., were omitted. Although significant in the original Act, such words are unnecessary in a revision wherein both sections in question, as revised, are enacted at the same time.
 
@@ -659,19 +659,19 @@ This section corrects a typographical error in section 1741 of title 28, U.S.C.
 
 1949—Act May 24, 1949, corrected spelling of “admissible”.
 
-## [§ 1742. Repealed. Pub. L. 88–619, § 6(a), Oct. 3, 1964, 78 Stat. 996]
+## [§ 1742. Repealed. Pub. L. 88–619, § 6(a), Oct. 3, 1964, 78 Stat. 996]
 
 Section, act June 25, 1948, ch. 646, 62 Stat. 948, related to authentication and certification of copies of documents relating to land titles, by persons having custody of such of any foreign government or its agents, certification by an American minister or consul that they be true copies of the originals, the recording of such copies in the office of the General Counsel for the Department of the Treasury, and to the evidentiary value of such copies.
 
-## § 1743. Demand on postmaster
+## § 1743. Demand on postmaster
 
 The certificate of the Postmaster General or the Government Accountability Office of the mailing to a postmaster of a statement of his account and that payment of the balance stated has not been received shall be sufficient evidence of a demand notwithstanding any allowances or credits subsequently made. A copy of such statement shall be attached to the certificate.
 
-(June 25, 1948, ch. 646, 62 Stat. 948; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(June 25, 1948, ch. 646, 62 Stat. 948; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 670 (R.S. § 890; June 10, 1921, ch. 18, § 301, 42 Stat. 23).
+Based on title 28, U.S.C., 1940 ed., § 670 (R.S. § 890; June 10, 1921, ch. 18, § 301, 42 Stat. 23).
 
 Provisions in section 670 of title 28, U.S.C., 1940 ed., that the statement should recite that a letter has been mailed to a described post office and sufficient time has elapsed for it to have reached its destination, was omitted as superfluous.
 
@@ -689,19 +689,19 @@ Changes were made in phraseology.
 
 **Transfer of Functions**
 
-The office of Postmaster General of the Post Office Department was abolished and all functions, powers, and duties of the Postmaster General were transferred to the United States Postal Service by Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
+The office of Postmaster General of the Post Office Department was abolished and all functions, powers, and duties of the Postmaster General were transferred to the United States Postal Service by Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
 
-## § 1744. Copies of United States Patent and Trademark Office documents, generally
+## § 1744. Copies of United States Patent and Trademark Office documents, generally
 
 Copies of letters patent or of any records, books, papers, or drawings belonging to the United States Patent and Trademark Office and relating to patents, authenticated under the seal of the United States Patent and Trademark Office and certified by the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, or by another officer of the United States Patent and Trademark Office authorized to do so by the Director, shall be admissible in evidence with the same effect as the originals.
 
 Any person making application and paying the required fee may obtain such certified copies.
 
-(June 25, 1948, ch. 646, 62 Stat. 948; May 24, 1949, ch. 139, § 92(c), 63 Stat. 103; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(15)(B), (C)], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
+(June 25, 1948, ch. 646, 62 Stat. 948; May 24, 1949, ch. 139, § 92(c), 63 Stat. 103; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(15)(B), (C)], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
 **Historical and Revision Notes**
 
-Based on section 127 of title 15, U.S.C., 1940 ed., Commerce and Trade, and title 28, U.S.C., 1940 ed., § 673 (R.S. § 892; Mar. 19, 1920, ch. 104, § 7, 41 Stat. 535; Mar. 4, 1925, ch. 535, § 2, 43 Stat. 1269).
+Based on section 127 of title 15, U.S.C., 1940 ed., Commerce and Trade, and title 28, U.S.C., 1940 ed., § 673 (R.S. § 892; Mar. 19, 1920, ch. 104, § 7, 41 Stat. 535; Mar. 4, 1925, ch. 535, § 2, 43 Stat. 1269).
 
 For purposes of uniformity, words “written or printed,” at the beginning of the section, were omitted. Similar sections in this chapter do not contain such words.
 
@@ -721,17 +721,17 @@ Changes in phraseology were made.
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
-## § 1745. Copies of foreign patent documents
+## § 1745. Copies of foreign patent documents
 
 Copies of the specifications and drawings of foreign letters patent, or applications for foreign letters patent, and copies of excerpts of the official journals and other official publications of foreign patent offices belonging to the United States Patent and Trademark Office, certified in the manner provided by section 1744 of this title are prima facie evidence of their contents and of the dates indicated on their face.
 
-(June 25, 1948, ch. 646, 62 Stat. 948, § 1746; renumbered § 1745, May 24, 1949, ch. 139, § 92(e), 63 Stat. 103; Pub. L. 88–619, § 7(a), Oct. 3, 1964, 78 Stat. 996; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(16)], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.)
+(June 25, 1948, ch. 646, 62 Stat. 948, § 1746; renumbered § 1745, May 24, 1949, ch. 139, § 92(e), 63 Stat. 103; Pub. L. 88–619, § 7(a), Oct. 3, 1964, 78 Stat. 996; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(16)], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 674 (R.S. § 893).
+Based on title 28, U.S.C., 1940 ed., § 674 (R.S. § 893).
 
 Changes were made in phraseology.
 
@@ -739,7 +739,7 @@ Changes were made in phraseology.
 
 **Prior Provisions**
 
-A prior section 1745, act June 25, 1948, ch. 646, 62 Stat. 948, related to printed copies of patent specifications and drawings, prior to repeal by act May 24, 1949, ch. 139, § 92(d), 63 Stat. 103.
+A prior section 1745, act June 25, 1948, ch. 646, 62 Stat. 948, related to printed copies of patent specifications and drawings, prior to repeal by act May 24, 1949, ch. 139, § 92(d), 63 Stat. 103.
 
 **Amendments**
 
@@ -753,9 +753,9 @@ A prior section 1745, act June 25, 1948, ch. 646, 62 Stat. 948, related to print
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
-## § 1746. Unsworn declarations under penalty of per­jury
+## § 1746. Unsworn declarations under penalty of per­jury
 
 Wherever, under any law of the United States or under any rule, regulation, order, or requirement made pursuant to law, any matter is required or permitted to be supported, evidenced, established, or proved by the sworn declaration, verification, certificate, statement, oath, or affidavit, in writing of the person making the same (other than a deposition, or an oath of office, or an oath required to be taken before a specified official other than a notary public), such matter may, with like force and effect, be supported, evidenced, established, or proved by the unsworn declaration, certificate, verification, or statement, in writing of such person which is subscribed by him, as true under penalty of perjury, and dated, in substantially the following form:
 
@@ -767,7 +767,7 @@ Wherever, under any law of the United States or under any rule, regulation, orde
 
 (Signature)”.
 
-(Added Pub. L. 94–550, § 1(a), Oct. 18, 1976, 90 Stat. 2534.)
+(Added Pub. L. 94–550, § 1(a), Oct. 18, 1976, 90 Stat. 2534.)
 
 **Editorial Notes**
 

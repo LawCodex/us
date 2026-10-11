@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 10—ARMED FORCES RETIREMENT HOME
 
-## § 401. Definitions
+## § 401. Definitions
 
 For purposes of this chapter:
 
@@ -59,7 +59,7 @@ For purposes of this chapter:
 
 **(F)** The Chief Master Sergeant of the Space Force.
 
-(Pub. L. 101–510, div. A, title XV, § 1502, Nov. 5, 1990, 104 Stat. 1722; Pub. L. 106–398, § 1 [[div. A], title IX, § 902(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–107, div. A, title XIV, § 1402, Dec. 28, 2001, 115 Stat. 1257; Pub. L. 111–281, title II, § 205(a), Oct. 15, 2010, 124 Stat. 2911; Pub. L. 112–81, div. A, title V, § 563(b)(1), Dec. 31, 2011, 125 Stat. 1423; Pub. L. 118–159, div. A, title XIV, § 1422, Dec. 23, 2024, 138 Stat. 2129.)
+(Pub. L. 101–510, div. A, title XV, § 1502, Nov. 5, 1990, 104 Stat. 1722; Pub. L. 106–398, § 1 [[div. A], title IX, § 902(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–107, div. A, title XIV, § 1402, Dec. 28, 2001, 115 Stat. 1257; Pub. L. 111–281, title II, § 205(a), Oct. 15, 2010, 124 Stat. 2911; Pub. L. 112–81, div. A, title V, § 563(b)(1), Dec. 31, 2011, 125 Stat. 1423; Pub. L. 118–159, div. A, title XIV, § 1422, Dec. 23, 2024, 138 Stat. 2129.)
 
 **Editorial Notes**
 
@@ -69,19 +69,19 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Amendments**
 
-2024—Par. (5)(F). Pub. L. 118–159, § 1422(a), added subpar. (F).
+2024—Par. (5)(F). Pub. L. 118–159, § 1422(a), added subpar. (F).
 
-Par. (6)(F). Pub. L. 118–159, § 1422(b), added subpar. (F).
+Par. (6)(F). Pub. L. 118–159, § 1422(b), added subpar. (F).
 
 2011—Pars. (2) to (4). Pub. L. 112–81 added pars. (3) and (4), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘Local Board’ means a Local Board of Trustees established under section 416 of this title.”
 
-2010—Par. (4). Pub. L. 111–281, § 205(a)(1), struck out par. (4) which read as follows: “The term ‘Armed Forces’ does not include the Coast Guard when it is not operating as a service in the Navy.”
+2010—Par. (4). Pub. L. 111–281, § 205(a)(1), struck out par. (4) which read as follows: “The term ‘Armed Forces’ does not include the Coast Guard when it is not operating as a service in the Navy.”
 
-Par. (5)(E). Pub. L. 111–281, § 205(a)(2), added subpar. (E).
+Par. (5)(E). Pub. L. 111–281, § 205(a)(2), added subpar. (E).
 
-Par. (6)(E). Pub. L. 111–281, § 205(a)(3), added subpar. (E).
+Par. (6)(E). Pub. L. 111–281, § 205(a)(3), added subpar. (E).
 
-2001—Pars. (1) to (3). Pub. L. 107–107, § 1402(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
+2001—Pars. (1) to (3). Pub. L. 107–107, § 1402(1), added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) The term ‘Retirement Home’ means the Armed Forces Retirement Home established under section 411(a) of this title.
 
@@ -89,15 +89,15 @@ Par. (6)(E). Pub. L. 111–281, § 205(a)(3), added subpar. (E).
 
 “(3) The term ‘Local Board’ means a Board of Trustees established for each facility of the Retirement Home maintained as a separate establishment of the Retirement Home for administrative purposes.”
 
-Par. (4). Pub. L. 107–107, § 1402(1), (2), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “The term ‘Director’ means a Director of the Armed Forces Retirement Home appointed under section 417(a) of this title.”
+Par. (4). Pub. L. 107–107, § 1402(1), (2), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “The term ‘Director’ means a Director of the Armed Forces Retirement Home appointed under section 417(a) of this title.”
 
-Par. (5). Pub. L. 107–107, § 1402(1), (2), redesignated par. (7) as (5) and struck out former par. (5) which read as follows: “The term ‘Fund’ means the Armed Forces Retirement Home Trust Fund established under section 419(a) of this title.”
+Par. (5). Pub. L. 107–107, § 1402(1), (2), redesignated par. (7) as (5) and struck out former par. (5) which read as follows: “The term ‘Fund’ means the Armed Forces Retirement Home Trust Fund established under section 419(a) of this title.”
 
-Par. (5)(C). Pub. L. 107–107, § 1402(3)(A), substituted “for Personnel” for “, Manpower and Personnel”.
+Par. (5)(C). Pub. L. 107–107, § 1402(3)(A), substituted “for Personnel” for “, Manpower and Personnel”.
 
-Par. (5)(D). Pub. L. 107–107, § 1402(3)(B), substituted “for Manpower and Reserve Affairs” for “with responsibility for personnel matters”.
+Par. (5)(D). Pub. L. 107–107, § 1402(3)(B), substituted “for Manpower and Reserve Affairs” for “with responsibility for personnel matters”.
 
-Pars. (6) to (8). Pub. L. 107–107, § 1402(2), redesignated pars. (6) to (8) as (4) to (6), respectively.
+Pars. (6) to (8). Pub. L. 107–107, § 1402(2), redesignated pars. (6) to (8) as (4) to (6), respectively.
 
 2000—Par. (7)(D). Pub. L. 106–398 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the Deputy Chief of Staff for Manpower of the Marine Corps.”
 
@@ -105,11 +105,11 @@ Pars. (6) to (8). Pub. L. 107–107, § 1402(2), redesignated pars. (6) to (8)
 
 **Effective Date**
 
-Pub. L. 101–510, div. A, title XV, § 1541, Nov. 5, 1990, 104 Stat. 1736, as amended by Pub. L. 103–160, div. A, title III, § 366(f), Nov. 30, 1993, 107 Stat. 1632, which provided that title XV of Pub. L. 101–510 (see Short Title note below) and the amendments made by such title were effective one year after Nov. 5, 1990, except that sections 1519, 1531, and 1533(c)(1) of the Act (enacting sections 419 and 431 of this title and amending section 1321 of Title 31, Money and Finance) were effective Nov. 5, 1990, provisions of section 1515 of the Act (enacting section 415 of this title) relating to the appointment and designation of members of the Retirement Home Board and Local Boards were effective Oct. 1, 1991, and section 1520 of the Act (enacting section 420 of this title) was applicable to the estate of each resident of the Armed Forces Retirement Home who dies after Nov. 29, 1989, was repealed by Pub. L. 107–107, div. A, title XIV, § 1410(b)(3), Dec. 28, 2001, 115 Stat. 1266.
+Pub. L. 101–510, div. A, title XV, § 1541, Nov. 5, 1990, 104 Stat. 1736, as amended by Pub. L. 103–160, div. A, title III, § 366(f), Nov. 30, 1993, 107 Stat. 1632, which provided that title XV of Pub. L. 101–510 (see Short Title note below) and the amendments made by such title were effective one year after Nov. 5, 1990, except that sections 1519, 1531, and 1533(c)(1) of the Act (enacting sections 419 and 431 of this title and amending section 1321 of Title 31, Money and Finance) were effective Nov. 5, 1990, provisions of section 1515 of the Act (enacting section 415 of this title) relating to the appointment and designation of members of the Retirement Home Board and Local Boards were effective Oct. 1, 1991, and section 1520 of the Act (enacting section 420 of this title) was applicable to the estate of each resident of the Armed Forces Retirement Home who dies after Nov. 29, 1989, was repealed by Pub. L. 107–107, div. A, title XIV, § 1410(b)(3), Dec. 28, 2001, 115 Stat. 1266.
 
 **Short Title**
 
-Pub. L. 101–510, div. A, title XV, § 1501(a), formerly § 1501, Nov. 5, 1990, 104 Stat. 1722, as renumbered by Pub. L. 107–107, div. A, title XIV, § 1410(c)(1), Dec. 28, 2001, 115 Stat. 1266, provided that: “This title [enacting this chapter, amending section 6a of this title, sections 1089, 2575, 2772, 4624, 4712, 9624, and 9712 of Title 10, Armed Forces, section 1321 of Title 31, Money and Finance, section 1007 of Title 37, Pay and Allowances of the Uniformed Services, and section 906 of Title 44, Public Printing and Documents, repealing sections 21a to 25, 41 to 43, 44b, 45 to 46b, 48 to 50, 54, and 59 of this title and sections 4713 and 9713 of Title 10, and enacting provisions set out as notes above and under section 2772 of Title 10] may be cited as the ‘Armed Forces Retirement Home Act of 1991’.”
+Pub. L. 101–510, div. A, title XV, § 1501(a), formerly § 1501, Nov. 5, 1990, 104 Stat. 1722, as renumbered by Pub. L. 107–107, div. A, title XIV, § 1410(c)(1), Dec. 28, 2001, 115 Stat. 1266, provided that: “This title [enacting this chapter, amending section 6a of this title, sections 1089, 2575, 2772, 4624, 4712, 9624, and 9712 of Title 10, Armed Forces, section 1321 of Title 31, Money and Finance, section 1007 of Title 37, Pay and Allowances of the Uniformed Services, and section 906 of Title 44, Public Printing and Documents, repealing sections 21a to 25, 41 to 43, 44b, 45 to 46b, 48 to 50, 54, and 59 of this title and sections 4713 and 9713 of Title 10, and enacting provisions set out as notes above and under section 2772 of Title 10] may be cited as the ‘Armed Forces Retirement Home Act of 1991’.”
 
 **Transfer of Functions**
 
@@ -117,7 +117,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ## SUBCHAPTER I—ESTABLISHMENT AND OPERATION OF RETIREMENT HOME
 
-### § 411. Establishment of the Armed Forces Retirement Home
+### § 411. Establishment of the Armed Forces Retirement Home
 
 **(a) Independent establishment**
 
@@ -217,7 +217,7 @@ The Secretary of Defense shall transmit to Congress an annual report on the fina
 
 **(8)** The interest of a lessee of property leased under this subsection may be taxed by State or local governments. A lease under this subsection shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 
-(Pub. L. 101–510, div. A, title XV, § 1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, § 366(a), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, § 1403, Dec. 28, 2001, 115 Stat. 1258; Pub. L. 110–181, div. A, title XIV, § 1422(a), (b), Jan. 28, 2008, 122 Stat. 420; Pub. L. 111–84, div. B, title XXVIII, § 2823, Oct. 28, 2009, 123 Stat. 2666; Pub. L. 111–383, div. B, title XXVIII, § 2813(b), Jan. 7, 2011, 124 Stat. 4463; Pub. L. 112–81, div. A, title V, §§ 561, 564(b)(1), Dec. 31, 2011, 125 Stat. 1420, 1424; Pub. L. 112–239, div. A, title X, § 1076(j), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 115–91, div. B, title XXVIII, § 2873, Dec. 12, 2017, 131 Stat. 1870.)
+(Pub. L. 101–510, div. A, title XV, § 1511, Nov. 5, 1990, 104 Stat. 1723; Pub. L. 103–160, div. A, title III, § 366(a), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, § 1403, Dec. 28, 2001, 115 Stat. 1258; Pub. L. 110–181, div. A, title XIV, § 1422(a), (b), Jan. 28, 2008, 122 Stat. 420; Pub. L. 111–84, div. B, title XXVIII, § 2823, Oct. 28, 2009, 123 Stat. 2666; Pub. L. 111–383, div. B, title XXVIII, § 2813(b), Jan. 7, 2011, 124 Stat. 4463; Pub. L. 112–81, div. A, title V, §§ 561, 564(b)(1), Dec. 31, 2011, 125 Stat. 1420, 1424; Pub. L. 112–239, div. A, title X, § 1076(j), Jan. 2, 2013, 126 Stat. 1955; Pub. L. 115–91, div. B, title XXVIII, § 2873, Dec. 12, 2017, 131 Stat. 1870.)
 
 **Editorial Notes**
 
@@ -227,35 +227,35 @@ This chapter, referred to in subsec. (f), was in the original “this title”, 
 
 **Amendments**
 
-2017—Subsec. (e)(2). Pub. L. 115–91, § 2873(a)(1), substituted “Chief Operating Officer may acquire,” for “Secretary of Defense may acquire,” and “Chief Operating Officer may acquire” for “Secretary may acquire”.
+2017—Subsec. (e)(2). Pub. L. 115–91, § 2873(a)(1), substituted “Chief Operating Officer may acquire,” for “Secretary of Defense may acquire,” and “Chief Operating Officer may acquire” for “Secretary may acquire”.
 
-Subsec. (e)(3). Pub. L. 115–91, § 2873(a)(2), substituted “Chief Operating Officer determines” for “Secretary of Defense determines” and “Chief Operating Officer shall dispose” for “Secretary shall dispose”.
+Subsec. (e)(3). Pub. L. 115–91, § 2873(a)(2), substituted “Chief Operating Officer determines” for “Secretary of Defense determines” and “Chief Operating Officer shall dispose” for “Secretary shall dispose”.
 
-Subsec. (i)(1). Pub. L. 115–91, § 2873(b)(1), in introductory provisions, substituted “Subject to the approval of the Secretary of Defense, whenever” for “Whenever”, “Chief Operating Officer may” for “Secretary of Defense (acting on behalf of the Chief Operating Officer) may”, and “Chief Operating Officer considers” for “Secretary considers”.
+Subsec. (i)(1). Pub. L. 115–91, § 2873(b)(1), in introductory provisions, substituted “Subject to the approval of the Secretary of Defense, whenever” for “Whenever”, “Chief Operating Officer may” for “Secretary of Defense (acting on behalf of the Chief Operating Officer) may”, and “Chief Operating Officer considers” for “Secretary considers”.
 
-Subsec. (i)(5). Pub. L. 115–91, § 2873(b)(2), substituted “the Chief Operating Officer may not enter into the lease” for “the Secretary of Defense may not enter into the lease on behalf of the Chief Operating Officer”.
+Subsec. (i)(5). Pub. L. 115–91, § 2873(b)(2), substituted “the Chief Operating Officer may not enter into the lease” for “the Secretary of Defense may not enter into the lease on behalf of the Chief Operating Officer”.
 
-Subsec. (i)(6)(A). Pub. L. 115–91, § 2873(b)(3), substituted “Chief Operating Officer shall” for “Secretary of Defense shall” in introductory provisions.
+Subsec. (i)(6)(A). Pub. L. 115–91, § 2873(b)(3), substituted “Chief Operating Officer shall” for “Secretary of Defense shall” in introductory provisions.
 
 2013—Subsec. (d)(3). Pub. L. 112–239 struck out first par. (3) which read as follows: “The administration of the Retirement Home (including administration for the provision of health care and medical care for residents) shall remain under the direct authority, control, and administration of the Secretary of Defense.”
 
-2011—Subsec. (d)(2). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director” in two places.
+2011—Subsec. (d)(2). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director” in two places.
 
-Subsec. (d)(3). Pub. L. 112–81, § 561, added second par. (3).
+Subsec. (d)(3). Pub. L. 112–81, § 561, added second par. (3).
 
 Subsec. (i)(2)(F). Pub. L. 111–383 added subpar. (F).
 
-2009—Subsec. (e)(2). Pub. L. 111–84, § 2823(a), inserted at end “If the purchase price to acquire fee title to real property for inclusion in the Retirement Home is more than $750,000, the Secretary may acquire the real property only if the acquisition is specifically authorized by law.”
+2009—Subsec. (e)(2). Pub. L. 111–84, § 2823(a), inserted at end “If the purchase price to acquire fee title to real property for inclusion in the Retirement Home is more than $750,000, the Secretary may acquire the real property only if the acquisition is specifically authorized by law.”
 
-Subsec. (e)(3). Pub. L. 111–84, § 2823(b)(1), added par. (3) and struck out former par. (3) which read as follows: “The Secretary of Defense may dispose of any property of the Retirement Home, by sale, lease, or otherwise, that the Secretary determines is excess to the needs of the Retirement Home. The proceeds from such a disposal of property shall be deposited in the Armed Forces Retirement Home Trust Fund. No such disposal of real property shall be effective earlier than 120 days after the date on which the Secretary transmits a notification of the proposed disposal to the Committees on Armed Services of the Senate and the House of Representatives.”
+Subsec. (e)(3). Pub. L. 111–84, § 2823(b)(1), added par. (3) and struck out former par. (3) which read as follows: “The Secretary of Defense may dispose of any property of the Retirement Home, by sale, lease, or otherwise, that the Secretary determines is excess to the needs of the Retirement Home. The proceeds from such a disposal of property shall be deposited in the Armed Forces Retirement Home Trust Fund. No such disposal of real property shall be effective earlier than 120 days after the date on which the Secretary transmits a notification of the proposed disposal to the Committees on Armed Services of the Senate and the House of Representatives.”
 
-Subsec. (i). Pub. L. 111–84, § 2823(b)(2), added subsec. (i).
+Subsec. (i). Pub. L. 111–84, § 2823(b)(2), added subsec. (i).
 
-2008—Subsec. (d)(3). Pub. L. 110–181, § 1422(a)(1), added par. (3).
+2008—Subsec. (d)(3). Pub. L. 110–181, § 1422(a)(1), added par. (3).
 
-Subsec. (g). Pub. L. 110–181, § 1422(b), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Chief Operating Officer shall endeavor to secure for each facility of the Retirement Home accreditation by a nationally recognized civilian accrediting organization, such as the Continuing Care Accreditation Commission and the Joint Commission for Accreditation of Health Organizations.”
+Subsec. (g). Pub. L. 110–181, § 1422(b), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Chief Operating Officer shall endeavor to secure for each facility of the Retirement Home accreditation by a nationally recognized civilian accrediting organization, such as the Continuing Care Accreditation Commission and the Joint Commission for Accreditation of Health Organizations.”
 
-Subsec. (h). Pub. L. 110–181, § 1422(a)(2), inserted at end “The annual report shall include an assessment of all aspects of each facility of the Retirement Home, including the quality of care at the facility.”
+Subsec. (h). Pub. L. 110–181, § 1422(a)(2), inserted at end “The annual report shall include an assessment of all aspects of each facility of the Retirement Home, including the quality of care at the facility.”
 
 2001—Pub. L. 107–107 reenacted section catchline without change and amended text generally, substituting present provisions for provisions relating to inclusion of existing homes in the Armed Forces Retirement Home in subsec. (a), the purpose of the Retirement Home in subsec. (b), its operation in subsec. (c), its property and facilities in subsec. (d), the requirement that the Secretary of Defense make available certain support services for the Home in subsec. (e), and its accreditation in subsec. (f).
 
@@ -273,7 +273,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (h) of this s
 
 **Modification of Leasing Authority of Armed Forces Retirement Home**
 
-Pub. L. 118–31, div. A, title XIV, § 1421, Dec. 22, 2023, 137 Stat. 530, provided that:
+Pub. L. 118–31, div. A, title XIV, § 1421, Dec. 22, 2023, 137 Stat. 530, provided that:
 
 > **“(a) Agreements.—** Before entering a lease under section 1511(i) of the Armed Forces Retirement Home Act of 1991 (24 U.S.C. 411(i)), the Chief Operating Officer of the Armed Forces Retirement Home may enter into an agreement with a potential lessee for such lease providing for a period of exclusivity, access, study, or for similar purposes. The agreement shall provide for the payment (in cash or in kind) by the potential lessee of consideration for the agreement unless the Chief Operating Officer determines that payment of consideration will not promote the purpose and financial stability of the Armed Forces Retirement Home or be in the public interest.
 
@@ -287,7 +287,7 @@ Pub. L. 118–31, div. A, title XIV, § 1421, Dec. 22, 2023, 137 Stat. 530, pr
 
 > **“(d) Sunset.—** This section shall terminate on September 30, 2026.”
 
-### § 412. Residents of Retirement Home
+### § 412. Residents of Retirement Home
 
 **(a) Persons eligible to be residents** Except as provided in subsection (b), the following persons who served as members of the Armed Forces, at least one-half of whose service was not commissioned service (other than as a warrant officer or limited-duty officer), are eligible to become residents of the Retirement Home:
 
@@ -345,7 +345,7 @@ The Chief Operating Officer shall establish a system of priorities for the accep
 
 A spouse admitted in accordance with paragraph (1) shall be a resident of the Retirement Home consistent with this chapter, except as the Chief Operating Officer may otherwise provide.
 
-(Pub. L. 101–510, div. A, title XV, § 1512, Nov. 5, 1990, 104 Stat. 1724; Pub. L. 107–107, div. A, title XIV, §§ 1404(b)(1)(A), 1405(a), 1410(b)(1), Dec. 28, 2001, 115 Stat. 1260, 1261, 1266; Pub. L. 112–81, div. A, title V, §§ 564(b)(1), 567(c)(6), Dec. 31, 2011, 125 Stat. 1424, 1426; Pub. L. 114–328, div. A, title VI, § 618(f), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–232, div. A, title XIV, § 1412, Aug. 13, 2018, 132 Stat. 2090; Pub. L. 116–283, div. A, title XIV, § 1412(a), Jan. 1, 2021, 134 Stat. 4030.)
+(Pub. L. 101–510, div. A, title XV, § 1512, Nov. 5, 1990, 104 Stat. 1724; Pub. L. 107–107, div. A, title XIV, §§ 1404(b)(1)(A), 1405(a), 1410(b)(1), Dec. 28, 2001, 115 Stat. 1260, 1261, 1266; Pub. L. 112–81, div. A, title V, §§ 564(b)(1), 567(c)(6), Dec. 31, 2011, 125 Stat. 1424, 1426; Pub. L. 114–328, div. A, title VI, § 618(f), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–232, div. A, title XIV, § 1412, Aug. 13, 2018, 132 Stat. 2090; Pub. L. 116–283, div. A, title XIV, § 1412(a), Jan. 1, 2021, 134 Stat. 4030.)
 
 **Editorial Notes**
 
@@ -355,25 +355,25 @@ This chapter, referred to in subsec. (e)(2), was in the original “this Act”,
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1412(a)(1), struck out “active” before “commissioned service” in introductory provisions.
+2021—Subsec. (a). Pub. L. 116–283, § 1412(a)(1), struck out “active” before “commissioned service” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 116–283, § 1412(a)(2), struck out “are 60 years of age or over and” before “were discharged”.
+Subsec. (a)(1). Pub. L. 116–283, § 1412(a)(2), struck out “are 60 years of age or over and” before “were discharged”.
 
-Subsec. (a)(5). Pub. L. 116–283, § 1412(a)(3), added par. (5).
+Subsec. (a)(5). Pub. L. 116–283, § 1412(a)(3), added par. (5).
 
 2018—Pub. L. 115–232 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to persons eligible to be residents, persons ineligible to be residents, acceptance, and priorities for acceptance, respectively.
 
 2016—Subsec. (a)(3)(A). Pub. L. 114–328 inserted “or 351” after “section 310”.
 
-2011—Pub. L. 112–81, § 567(c)(6), made technical amendment to section catchline.
+2011—Pub. L. 112–81, § 567(c)(6), made technical amendment to section catchline.
 
-Subsec. (c). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director”.
+Subsec. (c). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director”.
 
-2001—Subsecs. (a), (c), (d). Pub. L. 107–107, § 1404(b)(1)(A), substituted “Chief Operating Officer” for “Retirement Home Board” wherever appearing.
+2001—Subsecs. (a), (c), (d). Pub. L. 107–107, § 1404(b)(1)(A), substituted “Chief Operating Officer” for “Retirement Home Board” wherever appearing.
 
-Subsec. (e). Pub. L. 107–107, § 1405(a), struck out heading and text of subsec. (e). Text read as follows: “A resident of the Retirement Home who leaves the Retirement Home for more than 45 consecutive days (other than for inpatient medical care) shall be required to reapply for acceptance as a resident.”
+Subsec. (e). Pub. L. 107–107, § 1405(a), struck out heading and text of subsec. (e). Text read as follows: “A resident of the Retirement Home who leaves the Retirement Home for more than 45 consecutive days (other than for inpatient medical care) shall be required to reapply for acceptance as a resident.”
 
-Subsec. (f). Pub. L. 107–107, § 1410(b)(1), struck out heading and text of subsec. (f). Text read as follows: “Residents of the Naval Home and the United States Soldiers’ and Airmen’s Home as of the effective date specified in section 1541(a)—
+Subsec. (f). Pub. L. 107–107, § 1410(b)(1), struck out heading and text of subsec. (f). Text read as follows: “Residents of the Naval Home and the United States Soldiers’ and Airmen’s Home as of the effective date specified in section 1541(a)—
 
 “(1) shall not be required to apply for acceptance as residents of the Retirement Home; and
 
@@ -385,7 +385,7 @@ Subsec. (f). Pub. L. 107–107, § 1410(b)(1), struck out heading and text of 
 
 Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
 
-### § 413. Services provided to residents
+### § 413. Services provided to residents
 
 **(a) Services provided**
 
@@ -407,7 +407,7 @@ The Retirement Home shall provide for the overall health care needs of residents
 
 **(2)** The Retirement Home may not collect a fee from a resident for transportation provided under this subsection.
 
-(Pub. L. 101–510, div. A, title XV, § 1513, Nov. 5, 1990, 104 Stat. 1725; Pub. L. 103–160, div. A, title III, § 366(c), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §§ 1404(b)(1)(B), 1410(a)(1), Dec. 28, 2001, 115 Stat. 1260, 1266; Pub. L. 109–163, div. A, title IX, § 909(a), Jan. 6, 2006, 119 Stat. 3404; Pub. L. 110–181, div. A, title XIV, § 1422(c), Jan. 28, 2008, 122 Stat. 420; Pub. L. 112–81, div. A, title V, § 567(c)(2), Dec. 31, 2011, 125 Stat. 1426; Pub. L. 118–159, div. A, title XIV, § 1423, Dec. 23, 2024, 138 Stat. 2129.)
+(Pub. L. 101–510, div. A, title XV, § 1513, Nov. 5, 1990, 104 Stat. 1725; Pub. L. 103–160, div. A, title III, § 366(c), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 107–107, div. A, title XIV, §§ 1404(b)(1)(B), 1410(a)(1), Dec. 28, 2001, 115 Stat. 1260, 1266; Pub. L. 109–163, div. A, title IX, § 909(a), Jan. 6, 2006, 119 Stat. 3404; Pub. L. 110–181, div. A, title XIV, § 1422(c), Jan. 28, 2008, 122 Stat. 420; Pub. L. 112–81, div. A, title V, § 567(c)(2), Dec. 31, 2011, 125 Stat. 1426; Pub. L. 118–159, div. A, title XIV, § 1423, Dec. 23, 2024, 138 Stat. 2129.)
 
 **Editorial Notes**
 
@@ -419,15 +419,15 @@ The Retirement Home shall provide for the overall health care needs of residents
 
 2008—Subsec. (b). Pub. L. 110–181 inserted after first sentence “The services provided residents of the Retirement Home shall include appropriate nonacute medical and dental services, pharmaceutical services, and transportation of residents, which shall be provided at no cost to residents.”
 
-2006—Subsec. (a). Pub. L. 109–163, § 909(a)(1), substituted “subsections (b), (c), and (d)” for “subsection (b)”.
+2006—Subsec. (a). Pub. L. 109–163, § 909(a)(1), substituted “subsections (b), (c), and (d)” for “subsection (b)”.
 
-Subsec. (b). Pub. L. 109–163, § 909(a)(2), substituted “Except as provided in subsection (d), the” for “The”.
+Subsec. (b). Pub. L. 109–163, § 909(a)(2), substituted “Except as provided in subsection (d), the” for “The”.
 
-Subsecs. (c), (d). Pub. L. 109–163, § 909(a)(3), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 109–163, § 909(a)(3), added subsecs. (c) and (d).
 
-2001—Subsec. (a). Pub. L. 107–107, § 1404(b)(1)(B), substituted “Chief Operating Officer” for “Retirement Home Board”.
+2001—Subsec. (a). Pub. L. 107–107, § 1404(b)(1)(B), substituted “Chief Operating Officer” for “Retirement Home Board”.
 
-Subsec. (b). Pub. L. 107–107, § 1410(a)(1), struck out “maintained as a separate establishment” after “available at a facility” in second sentence.
+Subsec. (b). Pub. L. 107–107, § 1410(a)(1), struck out “maintained as a separate establishment” after “available at a facility” in second sentence.
 
 1993—Subsec. (b). Pub. L. 103–160 added second and third sentences and struck out former second sentence which read as follows: “Secondary and tertiary hospital care for residents that is not available at the Retirement Home shall be obtained through agreements with facilities administered by the Secretary of Veterans Affairs or the Secretary of Defense or at private facilities.”
 
@@ -437,7 +437,7 @@ Subsec. (b). Pub. L. 107–107, § 1410(a)(1), struck out “maintained as a s
 
 Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
 
-### § 413a. Oversight of health care provided to residents
+### § 413a. Oversight of health care provided to residents
 
 **(a) Designation of Senior Medical Advisor**
 
@@ -469,7 +469,7 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 In carrying out the responsibilities set forth in subsection (b) and the duties set forth in subsection (c), the Senior Medical Advisor may establish and seek the advice of such advisory bodies as the Senior Medical Advisor considers appropriate.
 
-(Pub. L. 101–510, div. A, title XV, § 1513A, as added Pub. L. 110–181, div. A, title XIV, § 1422(d)(1), Jan. 28, 2008, 122 Stat. 420; amended Pub. L. 112–81, div. A, title V, §§ 562, 567(c)(3), Dec. 31, 2011, 125 Stat. 1420, 1426; Pub. L. 113–291, div. A, title VII, § 721, Dec. 19, 2014, 128 Stat. 3417; Pub. L. 115–91, div. A, title XIV, § 1413(a)(1), Dec. 12, 2017, 131 Stat. 1707; Pub. L. 115–232, div. A, title XIV, § 1413, Aug. 13, 2018, 132 Stat. 2092; Pub. L. 116–283, div. A, title XIV, § 1413(b)(1), Jan. 1, 2021, 134 Stat. 4032.)
+(Pub. L. 101–510, div. A, title XV, § 1513A, as added Pub. L. 110–181, div. A, title XIV, § 1422(d)(1), Jan. 28, 2008, 122 Stat. 420; amended Pub. L. 112–81, div. A, title V, §§ 562, 567(c)(3), Dec. 31, 2011, 125 Stat. 1420, 1426; Pub. L. 113–291, div. A, title VII, § 721, Dec. 19, 2014, 128 Stat. 3417; Pub. L. 115–91, div. A, title XIV, § 1413(a)(1), Dec. 12, 2017, 131 Stat. 1707; Pub. L. 115–232, div. A, title XIV, § 1413, Aug. 13, 2018, 132 Stat. 2092; Pub. L. 116–283, div. A, title XIV, § 1413(b)(1), Jan. 1, 2021, 134 Stat. 4032.)
 
 **Editorial Notes**
 
@@ -477,23 +477,23 @@ In carrying out the responsibilities set forth in subsection (b) and the duties 
 
 2021—Subsec. (c)(2). Pub. L. 116–283 struck out “(including requirements identified in applicable reports of the Inspector General of the Department of Defense)” before period at end.
 
-2018—Subsec. (c)(1). Pub. L. 115–232, § 1413(1), added par. (1) and struck out former par. (1) which read as follows: “Ensure the timely availability to residents of the Retirement Home, at locations other than the Retirement Home, of such acute medical, mental health, and dental care as such resident may require that is not available at the applicable facility of the Retirement Home.”
+2018—Subsec. (c)(1). Pub. L. 115–232, § 1413(1), added par. (1) and struck out former par. (1) which read as follows: “Ensure the timely availability to residents of the Retirement Home, at locations other than the Retirement Home, of such acute medical, mental health, and dental care as such resident may require that is not available at the applicable facility of the Retirement Home.”
 
-Subsec. (c)(2). Pub. L. 115–232, § 1413(2), substituted “Monitor” for “Ensure”.
+Subsec. (c)(2). Pub. L. 115–232, § 1413(2), substituted “Monitor” for “Ensure”.
 
-2017—Subsec. (b). Pub. L. 115–91, § 1413(a)(1)(A), struck out “the Under Secretary of Defense for Personnel and Readiness,” after “Secretary of Defense,” in introductory provisions.
+2017—Subsec. (b). Pub. L. 115–91, § 1413(a)(1)(A), struck out “the Under Secretary of Defense for Personnel and Readiness,” after “Secretary of Defense,” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 115–91, § 1413(a)(1)(B), substituted “the Secretary of Defense” for “the Under Secretary of Defense for Personnel and Readiness”.
+Subsec. (c)(4). Pub. L. 115–91, § 1413(a)(1)(B), substituted “the Secretary of Defense” for “the Under Secretary of Defense for Personnel and Readiness”.
 
-2014—Subsec. (a). Pub. L. 113–291, § 721(a), substituted “Deputy Director of the Defense Health Agency” for “Deputy Director of the TRICARE Management Activity” wherever appearing.
+2014—Subsec. (a). Pub. L. 113–291, § 721(a), substituted “Deputy Director of the Defense Health Agency” for “Deputy Director of the TRICARE Management Activity” wherever appearing.
 
-Subsec. (c)(2). Pub. L. 113–291, § 721(b), substituted “nationally recognized health care standards and requirements” for “health care standards of the Department of Veterans Affairs”.
+Subsec. (c)(2). Pub. L. 113–291, § 721(b), substituted “nationally recognized health care standards and requirements” for “health care standards of the Department of Veterans Affairs”.
 
-2011—Pub. L. 112–81, § 567(c)(3), substituted “Oversight of health care provided to residents” for “Improved health care oversight of Retirement Home” in section catchline.
+2011—Pub. L. 112–81, § 567(c)(3), substituted “Oversight of health care provided to residents” for “Improved health care oversight of Retirement Home” in section catchline.
 
-Subsec. (b). Pub. L. 112–81, § 562(a), substituted “The” for “(1) The” and “the Chief Operating Officer, and the Advisory Council regarding the direction and oversight of—” for “the Chief Operating Officer regarding the direction and oversight of the provision of medical, preventive mental health, and dental care services at each facility of the Retirement Home.”, added pars. (1) and (2), and struck out former par. (2) which read as follows: “The Senior Medical Advisor shall also provide advice to the Local Board for a facility of the Retirement Home regarding all medical and medical administrative matters of the facility.”
+Subsec. (b). Pub. L. 112–81, § 562(a), substituted “The” for “(1) The” and “the Chief Operating Officer, and the Advisory Council regarding the direction and oversight of—” for “the Chief Operating Officer regarding the direction and oversight of the provision of medical, preventive mental health, and dental care services at each facility of the Retirement Home.”, added pars. (1) and (2), and struck out former par. (2) which read as follows: “The Senior Medical Advisor shall also provide advice to the Local Board for a facility of the Retirement Home regarding all medical and medical administrative matters of the facility.”
 
-Subsec. (c)(3) to (5). Pub. L. 112–81, § 562(b), added pars. (3) and (4) and struck out former pars. (3) to (5) which read as follows:
+Subsec. (c)(3) to (5). Pub. L. 112–81, § 562(b), added pars. (3) and (4) and struck out former pars. (3) to (5) which read as follows:
 
 “(3) Periodically visit and inspect the medical facilities and medical operations of each facility of the Retirement Home.
 
@@ -501,7 +501,7 @@ Subsec. (c)(3) to (5). Pub. L. 112–81, § 562(b), added pars. (3) and (4) an
 
 “(5) Consult with the Local Board for each facility of the Retirement Home not less frequently than once each year.”
 
-### § 414. Fees paid by residents
+### § 414. Fees paid by residents
 
 **(a) Monthly fees**
 
@@ -525,37 +525,37 @@ The Administrators shall deposit fees collected under subsection (a) in the Arme
 
 **(4)** The Administrator of each facility of the Retirement Home may collect a fee upon admission from a resident accepted under section 412(a)(5) of this title equal to the deductions then in effect under section 1007(i)(1) of title 37 for each year of service computed under chapter 1223 of title 10 and shall deposit such fee in the Armed Forces Retirement Home Trust Fund.
 
-(Pub. L. 101–510, div. A, title XV, § 1514, Nov. 5, 1990, 104 Stat. 1725; Pub. L. 103–337, div. A, title III, § 371(b), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 107–107, div. A, title XIV, § 1405(b), Dec. 28, 2001, 115 Stat. 1261; Pub. L. 112–81, div. A, title V, §§ 564(b), 565, Dec. 31, 2011, 125 Stat. 1424; Pub. L. 116–283, div. A, title XIV, § 1412(b), Jan. 1, 2021, 134 Stat. 4031.)
+(Pub. L. 101–510, div. A, title XV, § 1514, Nov. 5, 1990, 104 Stat. 1725; Pub. L. 103–337, div. A, title III, § 371(b), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 107–107, div. A, title XIV, § 1405(b), Dec. 28, 2001, 115 Stat. 1261; Pub. L. 112–81, div. A, title V, §§ 564(b), 565, Dec. 31, 2011, 125 Stat. 1424; Pub. L. 116–283, div. A, title XIV, § 1412(b), Jan. 1, 2021, 134 Stat. 4031.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (c)(2). Pub. L. 116–283, § 1412(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.”
+2021—Subsec. (c)(2). Pub. L. 116–283, § 1412(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The fee shall be fixed as a percentage of the monthly income and monthly payments (including Federal payments) received by a resident. The percentage shall be the same for each facility of the Retirement Home. The Secretary of Defense may make any adjustment in a percentage that the Secretary determines appropriate.”
 
-Subsec. (c)(4). Pub. L. 116–283, § 1412(b)(2), added par. (4).
+Subsec. (c)(4). Pub. L. 116–283, § 1412(b)(2), added par. (4).
 
-2011—Subsec. (a). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director”.
+2011—Subsec. (a). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director”.
 
-Subsec. (b). Pub. L. 112–81, § 564(b)(2), substituted “Administrators” for “Directors”.
+Subsec. (b). Pub. L. 112–81, § 564(b)(2), substituted “Administrators” for “Directors”.
 
-Subsec. (c)(3). Pub. L. 112–81, § 565(a), struck out at end “The first increase in a limitation on maximum monthly amount shall take effect on January 1, 2003.”
+Subsec. (c)(3). Pub. L. 112–81, § 565(a), struck out at end “The first increase in a limitation on maximum monthly amount shall take effect on January 1, 2003.”
 
-Subsec. (d). Pub. L. 112–81, § 565(b), struck out subsec. (d) which related to transitional fee structures.
+Subsec. (d). Pub. L. 112–81, § 565(b), struck out subsec. (d) which related to transitional fee structures.
 
 2001—Pub. L. 107–107 reenacted section catchline without change and amended text generally, substituting present provisions for provisions relating to collection of monthly fees in subsec. (a), deposit of fees in subsec. (b), fixing fees in subsec. (c), and application of fees in subsec. (d).
 
-1994—Subsec. (c)(2). Pub. L. 103–337, § 371(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The fee shall be fixed as a percentage of Federal payments made to a resident, including monthly retired or retainer pay, monthly civil service annuity, monthly compensation or pension paid to the resident by the Secretary of Veterans Affairs, and Social Security payments. Residents who do not receive such Federal payments shall be required to pay a monthly fee that is equivalent to the average monthly fee paid by residents who receive Federal payments, subject to such adjustments in the fee as the Retirement Home Board may make. The percentage shall be the same for each establishment of the Retirement Home.”
+1994—Subsec. (c)(2). Pub. L. 103–337, § 371(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The fee shall be fixed as a percentage of Federal payments made to a resident, including monthly retired or retainer pay, monthly civil service annuity, monthly compensation or pension paid to the resident by the Secretary of Veterans Affairs, and Social Security payments. Residents who do not receive such Federal payments shall be required to pay a monthly fee that is equivalent to the average monthly fee paid by residents who receive Federal payments, subject to such adjustments in the fee as the Retirement Home Board may make. The percentage shall be the same for each establishment of the Retirement Home.”
 
-Subsec. (d). Pub. L. 103–337, § 371(b)(2), added subsec. (d) and struck out former subsec. (d) which specified fees to be paid by residents of the Naval Home and residents of the United States Soldiers’ and Airmen’s Home who became residents of the Retirement Home on the effective date specified in section 1541(a) of Pub. L. 101–510.
+Subsec. (d). Pub. L. 103–337, § 371(b)(2), added subsec. (d) and struck out former subsec. (d) which specified fees to be paid by residents of the Naval Home and residents of the United States Soldiers’ and Airmen’s Home who became residents of the Retirement Home on the effective date specified in section 1541(a) of Pub. L. 101–510.
 
-Subsec. (e). Pub. L. 103–337, § 371(b)(2)(A), struck out subsec. (e) which read as follows: “A person who becomes a resident of the Retirement Home after the effective date specified in section 1541(a) shall be required to pay a monthly fee that is equal to 25 percent of Federal payments made to the resident, subject to such adjustments in the fee as may be made under subsection (c) of this section.”
+Subsec. (e). Pub. L. 103–337, § 371(b)(2)(A), struck out subsec. (e) which read as follows: “A person who becomes a resident of the Retirement Home after the effective date specified in section 1541(a) shall be required to pay a monthly fee that is equal to 25 percent of Federal payments made to the resident, subject to such adjustments in the fee as may be made under subsection (c) of this section.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title III, § 371(d)(2), Oct. 5, 1994, 108 Stat. 2735, provided that: “The amendments made by subsection (b) [amending this section] shall take effect on October 1, 1997.”
+Pub. L. 103–337, div. A, title III, § 371(d)(2), Oct. 5, 1994, 108 Stat. 2735, provided that: “The amendments made by subsection (b) [amending this section] shall take effect on October 1, 1997.”
 
 **Effective Date**
 
@@ -563,7 +563,7 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 **Relief for Residents of the Armed Forces Retirement Home Impacted by Increase in Fees**
 
-Pub. L. 115–232, div. A, title XIV, § 1415, Aug. 13, 2018, 132 Stat. 2092, provided that:
+Pub. L. 115–232, div. A, title XIV, § 1415, Aug. 13, 2018, 132 Stat. 2092, provided that:
 
 > **“(a) Prohibition on Removal for Inability To Pay Fee Increase.—** A resident of the Armed Forces Retirement Home as of September 30, 2018, may not be removed or released from the Retirement Home after that date based solely upon the inability of the resident to pay the amount of any increase in fees applicable to residents of the Retirement Home that takes effect on October 1, 2018.
 
@@ -571,13 +571,13 @@ Pub. L. 115–232, div. A, title XIV, § 1415, Aug. 13, 2018, 132 Stat. 2092, 
 
 **Limitation on Applicability of Fee Increase for Residents of the Armed Forces Retirement Home**
 
-Pub. L. 115–232, div. A, title XIV, § 1416, Aug. 13, 2018, 132 Stat. 2092, provided that:
+Pub. L. 115–232, div. A, title XIV, § 1416, Aug. 13, 2018, 132 Stat. 2092, provided that:
 
 > **“(a) In General.—** In the case of an individual who was a resident of the Armed Forces Retirement Home as of April 9, 2018, the increase in fees for residents of the Home scheduled to take effect on October 1, 2018, shall occur on an incremental basis over the three-year period beginning on October 1, 2018, such that the total fee for such individual as a resident of the Home as of the end of such period covers the cost of care of such individual as a resident of the Home.
 
 > **“(b) Notice and Wait on Implementation of Future Increases.—** Any increase in the fees for residents of the Home that is scheduled to take effect after October 1, 2018, may not take effect until 90 days after the date on which a report on the increase is submitted to the Committees on Armed Services of the Senate and the House of Representatives.”
 
-### § 415. Chief Operating Officer
+### § 415. Chief Operating Officer
 
 **(a) Appointment**
 
@@ -635,7 +635,7 @@ Pub. L. 115–232, div. A, title XIV, § 1416, Aug. 13, 2018, 132 Stat. 2092, 
 
 **(2)** Monies received as gifts, or realized from the disposition of property and facilities received as gifts, shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(Pub. L. 101–510, div. A, title XV, § 1515, Nov. 5, 1990, 104 Stat. 1726; Pub. L. 102–190, div. A, title X, § 1062(a)(4), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 103–160, div. A, title III, § 366(b), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 104–201, div. A, title X, § 1051(a), (b)(1), Sept. 23, 1996, 110 Stat. 2648; Pub. L. 107–107, div. A, title XIV, § 1404(a), Dec. 28, 2001, 115 Stat. 1259; Pub. L. 112–81, div. A, title V, § 563(b)(2), Dec. 31, 2011, 125 Stat. 1423; Pub. L. 115–232, div. A, title XIV, § 1414, Aug. 13, 2018, 132 Stat. 2092.)
+(Pub. L. 101–510, div. A, title XV, § 1515, Nov. 5, 1990, 104 Stat. 1726; Pub. L. 102–190, div. A, title X, § 1062(a)(4), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 103–160, div. A, title III, § 366(b), Nov. 30, 1993, 107 Stat. 1630; Pub. L. 104–201, div. A, title X, § 1051(a), (b)(1), Sept. 23, 1996, 110 Stat. 2648; Pub. L. 107–107, div. A, title XIV, § 1404(a), Dec. 28, 2001, 115 Stat. 1259; Pub. L. 112–81, div. A, title V, § 563(b)(2), Dec. 31, 2011, 125 Stat. 1423; Pub. L. 115–232, div. A, title XIV, § 1414, Aug. 13, 2018, 132 Stat. 2092.)
 
 **Editorial Notes**
 
@@ -643,19 +643,19 @@ Pub. L. 115–232, div. A, title XIV, § 1416, Aug. 13, 2018, 132 Stat. 2092, 
 
 2018—Subsec. (f)(1). Pub. L. 115–232 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Chief Operating Officer may accept gifts of money, property, and facilities on behalf of the Retirement Home.”
 
-2011—Subsec. (c)(2). Pub. L. 112–81 struck out “, including the Local Boards of those facilities” before period at end.
+2011—Subsec. (c)(2). Pub. L. 112–81 struck out “, including the Local Boards of those facilities” before period at end.
 
 2001—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to the Chief Operating Officer of the Retirement Home for provisions relating to the composition and operation of Retirement Home Board.
 
-1996—Subsec. (e)(3). Pub. L. 104–201, § 1051(a), added par. (3).
+1996—Subsec. (e)(3). Pub. L. 104–201, § 1051(a), added par. (3).
 
-Subsec. (f). Pub. L. 104–201, § 1051(b)(1), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Not later than the effective date specified in section 1541(a), members of the Retirement Home Board and the members of each Local Board shall be first appointed to staggered terms.”
+Subsec. (f). Pub. L. 104–201, § 1051(b)(1), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Not later than the effective date specified in section 1541(a), members of the Retirement Home Board and the members of each Local Board shall be first appointed to staggered terms.”
 
 1993—Subsec. (d)(1). Pub. L. 103–160 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary of Defense shall select one of the members of the Retirement Home Board to serve as chairman. The term of office of the chairman of the Retirement Home Board shall be five years.”
 
-1991—Subsecs. (a), (c). Pub. L. 102–190, § 1062(a)(4)(A), substituted “Local Boards” for “local boards”.
+1991—Subsecs. (a), (c). Pub. L. 102–190, § 1062(a)(4)(A), substituted “Local Boards” for “local boards”.
 
-Subsec. (d)(2). Pub. L. 102–190, § 1062(a)(4)(B), substituted “that Board” for “that board”.
+Subsec. (d)(2). Pub. L. 102–190, § 1062(a)(4)(B), substituted “that Board” for “that board”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -665,9 +665,9 @@ Section effective one year after Nov. 5, 1990, except that provisions of this se
 
 **Savings Provision**
 
-Pub. L. 104–201, div. A, title X, § 1051(b)(2), Sept. 23, 1996, 110 Stat. 2649, provided that: “The amendment made by this subsection [amending this section] shall not affect the staggered terms of members of the Armed Forces Retirement Home Board or a Local Board of the Retirement Home under section 1515(f) of such Act [subsec. (f) of this section], as such section is in effect before the date of the enactment of this Act [Sept. 23, 1996].”
+Pub. L. 104–201, div. A, title X, § 1051(b)(2), Sept. 23, 1996, 110 Stat. 2649, provided that: “The amendment made by this subsection [amending this section] shall not affect the staggered terms of members of the Armed Forces Retirement Home Board or a Local Board of the Retirement Home under section 1515(f) of such Act [subsec. (f) of this section], as such section is in effect before the date of the enactment of this Act [Sept. 23, 1996].”
 
-### § 416. Advisory Council
+### § 416. Advisory Council
 
 **(a) Establishment**
 
@@ -739,23 +739,23 @@ A vacancy in the Advisory Council shall be filled in the manner in which the ori
 
 **(2)** A member of the Advisory Council who is a member of the Armed Forces on active duty or a full-time officer or employee of the United States shall receive no additional pay by reason of serving as a member of the Advisory Council.
 
-(Pub. L. 101–510, div. A, title XV, § 1516, as added Pub. L. 112–81, div. A, title V, § 563(a), Dec. 31, 2011, 125 Stat. 1421; amended Pub. L. 115–91, div. A, title XIV, § 1413(b), Dec. 12, 2017, 131 Stat. 1708; Pub. L. 116–283, div. A, title XIV, § 1413(b)(2), Jan. 1, 2021, 134 Stat. 4032.)
+(Pub. L. 101–510, div. A, title XV, § 1516, as added Pub. L. 112–81, div. A, title V, § 563(a), Dec. 31, 2011, 125 Stat. 1421; amended Pub. L. 115–91, div. A, title XIV, § 1413(b), Dec. 12, 2017, 131 Stat. 1708; Pub. L. 116–283, div. A, title XIV, § 1413(b)(2), Jan. 1, 2021, 134 Stat. 4032.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 416, Pub. L. 101–510, div. A, title XV, § 1516, Nov. 5, 1990, 104 Stat. 1728; Pub. L. 107–107, div. A, title XIV, § 1406, Dec. 28, 2001, 115 Stat. 1262; Pub. L. 110–181, div. A, title XIV, § 1422(e), Jan. 28, 2008, 122 Stat. 421; Pub. L. 110–417, [div. A], title X, § 1061(b)(12), Oct. 14, 2008, 122 Stat. 4613, related to local boards of trustees, prior to repeal by Pub. L. 112–81, div. A, title V, § 563(a), Dec. 31, 2011, 125 Stat. 1421.
+A prior section 416, Pub. L. 101–510, div. A, title XV, § 1516, Nov. 5, 1990, 104 Stat. 1728; Pub. L. 107–107, div. A, title XIV, § 1406, Dec. 28, 2001, 115 Stat. 1262; Pub. L. 110–181, div. A, title XIV, § 1422(e), Jan. 28, 2008, 122 Stat. 421; Pub. L. 110–417, [div. A], title X, § 1061(b)(12), Oct. 14, 2008, 122 Stat. 4613, related to local boards of trustees, prior to repeal by Pub. L. 112–81, div. A, title V, § 563(a), Dec. 31, 2011, 125 Stat. 1421.
 
 **Amendments**
 
-2021—Subsec. (b)(3). Pub. L. 116–283 struck out dash after “shall” and subpar. (A) designation before “provide”, substituted period at end for “; and”, and struck out subpar. (B) which read as follows: “make recommendations to the Inspector General of the Department of Defense regarding issues that the Inspector General should investigate.”
+2021—Subsec. (b)(3). Pub. L. 116–283 struck out dash after “shall” and subpar. (A) designation before “provide”, substituted period at end for “; and”, and struck out subpar. (B) which read as follows: “make recommendations to the Inspector General of the Department of Defense regarding issues that the Inspector General should investigate.”
 
-2017—Subsec. (c)(1). Pub. L. 115–91, § 1413(b)(1), substituted “15 members.” for “15 members, each of whom shall be a full or part-time Federal employee or a member of the Armed Forces.”
+2017—Subsec. (c)(1). Pub. L. 115–91, § 1413(b)(1), substituted “15 members.” for “15 members, each of whom shall be a full or part-time Federal employee or a member of the Armed Forces.”
 
-Subsec. (f)(1). Pub. L. 115–91, § 1413(b)(2), substituted “may” for “shall” in introductory provisions.
+Subsec. (f)(1). Pub. L. 115–91, § 1413(b)(2), substituted “may” for “shall” in introductory provisions.
 
-### § 416a. Resident Advisory Committees
+### § 416a. Resident Advisory Committees
 
 **(a) Establishment and purpose**
 
@@ -781,9 +781,9 @@ The election process for the Resident Advisory Committee at a facility of the Re
 
 At a minimum, meetings of a Resident Advisory Committee shall be conducted quarterly.
 
-(Pub. L. 101–510, div. A, title XV, § 1516A, as added Pub. L. 112–81, div. A, title V, § 563(a), Dec. 31, 2011, 125 Stat. 1423.)
+(Pub. L. 101–510, div. A, title XV, § 1516A, as added Pub. L. 112–81, div. A, title V, § 563(a), Dec. 31, 2011, 125 Stat. 1423.)
 
-### § 417. Administrators, Ombudsmen, and staff of facilities
+### § 417. Administrators, Ombudsmen, and staff of facilities
 
 **(a) Appointment**
 
@@ -833,7 +833,7 @@ The Secretary of Defense shall appoint an Administrator and an Ombudsman for eac
 
 **(2)** The Chief Operating Officer shall submit to the Secretary of Defense any recommendations regarding an Administrator that the Chief Operating Officer determines appropriate taking into consideration the annual evaluation.
 
-(Pub. L. 101–510, div. A, title XV, § 1517, Nov. 5, 1990, 104 Stat. 1729; Pub. L. 102–190, div. A, title X, § 1062(a)(5), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 104–201, div. A, title X, § 1051(c), Sept. 23, 1996, 110 Stat. 2649; Pub. L. 105–261, div. A, title X, § 1041(a)–(c), Oct. 17, 1998, 112 Stat. 2124; Pub. L. 107–107, div. A, title XIV, § 1407, Dec. 28, 2001, 115 Stat. 1264; Pub. L. 112–81, div. A, title V, §§ 564(a), 567(c)(4), Dec. 31, 2011, 125 Stat. 1424, 1426; Pub. L. 115–91, div. A, title XIV, § 1413(a)(2), (c), Dec. 12, 2017, 131 Stat. 1707, 1708; Pub. L. 116–283, div. A, title XIV, § 1413(b)(3), Jan. 1, 2021, 134 Stat. 4032.)
+(Pub. L. 101–510, div. A, title XV, § 1517, Nov. 5, 1990, 104 Stat. 1729; Pub. L. 102–190, div. A, title X, § 1062(a)(5), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 104–201, div. A, title X, § 1051(c), Sept. 23, 1996, 110 Stat. 2649; Pub. L. 105–261, div. A, title X, § 1041(a)–(c), Oct. 17, 1998, 112 Stat. 2124; Pub. L. 107–107, div. A, title XIV, § 1407, Dec. 28, 2001, 115 Stat. 1264; Pub. L. 112–81, div. A, title V, §§ 564(a), 567(c)(4), Dec. 31, 2011, 125 Stat. 1424, 1426; Pub. L. 115–91, div. A, title XIV, § 1413(a)(2), (c), Dec. 12, 2017, 131 Stat. 1707, 1708; Pub. L. 116–283, div. A, title XIV, § 1413(b)(3), Jan. 1, 2021, 134 Stat. 4032.)
 
 **Editorial Notes**
 
@@ -841,45 +841,45 @@ The Secretary of Defense shall appoint an Administrator and an Ombudsman for eac
 
 2021—Subsec. (e)(2). Pub. L. 116–283 struck out “the Inspector General of the Department of Defense,” after “the Senior Medical Advisor,”.
 
-2017—Subsec. (b)(4). Pub. L. 115–91, § 1413(c), added par. (4).
+2017—Subsec. (b)(4). Pub. L. 115–91, § 1413(c), added par. (4).
 
-Subsec. (e)(2). Pub. L. 115–91, § 1413(a)(2), substituted “the Secretary of Defense” for “the Under Secretary of Defense for Personnel and Readiness”.
+Subsec. (e)(2). Pub. L. 115–91, § 1413(a)(2), substituted “the Secretary of Defense” for “the Under Secretary of Defense for Personnel and Readiness”.
 
-2011—Pub. L. 112–81, § 567(c)(4), substituted “Administrators, Ombudsmen, and staff of facilities” for “Directors, deputy directors, associate directors, and staff of facilities” in section catchline.
+2011—Pub. L. 112–81, § 567(c)(4), substituted “Administrators, Ombudsmen, and staff of facilities” for “Directors, deputy directors, associate directors, and staff of facilities” in section catchline.
 
-Subsec. (a). Pub. L. 112–81, § 564(a)(1), substituted “an Administrator and an Ombudsman” for “a Director, a Deputy Director, and an Associate Director”.
+Subsec. (a). Pub. L. 112–81, § 564(a)(1), substituted “an Administrator and an Ombudsman” for “a Director, a Deputy Director, and an Associate Director”.
 
-Subsecs. (b), (c). Pub. L. 112–81, § 564(a)(2), substituted “Administrator” for “Director” wherever appearing in heading and text.
+Subsecs. (b), (c). Pub. L. 112–81, § 564(a)(2), substituted “Administrator” for “Director” wherever appearing in heading and text.
 
-Subsec. (d). Pub. L. 112–81, § 564(a)(4), substituted “Ombudsman” for “Associate Director” wherever appearing in heading and text.
+Subsec. (d). Pub. L. 112–81, § 564(a)(4), substituted “Ombudsman” for “Associate Director” wherever appearing in heading and text.
 
-Pub. L. 112–81, § 564(a)(3), redesignated subsec. (f) as (d) and struck out former subsec. (d) which related to Deputy Director.
+Pub. L. 112–81, § 564(a)(3), redesignated subsec. (f) as (d) and struck out former subsec. (d) which related to Deputy Director.
 
-Subsec. (e). Pub. L. 112–81, § 564(a)(5), designated existing provisions as par. (1), substituted “Ombudsman” for “Associate Director” in heading and text, substituted “Administrator of” for “Director and Deputy Director of” and “Administrator may” for “Director may”, and added par. (2).
+Subsec. (e). Pub. L. 112–81, § 564(a)(5), designated existing provisions as par. (1), substituted “Ombudsman” for “Associate Director” in heading and text, substituted “Administrator of” for “Director and Deputy Director of” and “Administrator may” for “Director may”, and added par. (2).
 
-Pub. L. 112–81, § 564(a)(3), redesignated subsec. (g) as (e) and struck out former subsec. (e) which related to duties of Deputy Director.
+Pub. L. 112–81, § 564(a)(3), redesignated subsec. (g) as (e) and struck out former subsec. (e) which related to duties of Deputy Director.
 
-Subsec. (f). Pub. L. 112–81, § 564(a)(3), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
+Subsec. (f). Pub. L. 112–81, § 564(a)(3), redesignated subsec. (h) as (f). Former subsec. (f) redesignated (d).
 
-Subsec. (f)(1). Pub. L. 112–81, § 564(a)(6), substituted “Administrator” for “Director” wherever appearing.
+Subsec. (f)(1). Pub. L. 112–81, § 564(a)(6), substituted “Administrator” for “Director” wherever appearing.
 
-Subsec. (g). Pub. L. 112–81, § 564(a)(7), substituted “Administrators” for “Directors” in heading and par. (1) and “an Administrator” for “a Director” in par. (2).
+Subsec. (g). Pub. L. 112–81, § 564(a)(7), substituted “Administrators” for “Directors” in heading and par. (1) and “an Administrator” for “a Director” in par. (2).
 
-Pub. L. 112–81, § 564(a)(3), redesignated subsec. (i) as (g). Former subsec. (g) redesignated (e).
+Pub. L. 112–81, § 564(a)(3), redesignated subsec. (i) as (g). Former subsec. (g) redesignated (e).
 
-Subsecs. (h), (i). Pub. L. 112–81, § 564(a)(3), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
+Subsecs. (h), (i). Pub. L. 112–81, § 564(a)(3), redesignated subsecs. (h) and (i) as (f) and (g), respectively.
 
 2001—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to directors, deputy directors, associate directors, and staff of facilities for provisions relating to directors and staff.
 
-1998—Subsec. (a)(2). Pub. L. 105–261, § 1041(a)(1)(A), substituted “The Director of the United States Soldiers’ and Airmen’s Home” for “Each Director” in introductory provisions.
+1998—Subsec. (a)(2). Pub. L. 105–261, § 1041(a)(1)(A), substituted “The Director of the United States Soldiers’ and Airmen’s Home” for “Each Director” in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 105–261, § 1041(a)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “have appropriate leadership and management skills, an appreciation and understanding of the culture and norms associated with military service, and a significant military background.”
+Subsec. (a)(2)(B). Pub. L. 105–261, § 1041(a)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “have appropriate leadership and management skills, an appreciation and understanding of the culture and norms associated with military service, and a significant military background.”
 
-Subsec. (a)(3) to (5). Pub. L. 105–261, § 1041(a)(2), (3), added pars. (3) and (4) and redesignated former par. (3) as (5).
+Subsec. (a)(3) to (5). Pub. L. 105–261, § 1041(a)(2), (3), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-Subsec. (c). Pub. L. 105–261, § 1041(b), substituted “Terms of Directors” for “Term of Director” in heading, designated existing provisions as par. (1), substituted “The term of office of the Director of the United States Soldiers’ and Airmen’s Home shall be five years. The Director” for “The term of office of a Director shall be five years. A Director”, and added par. (2).
+Subsec. (c). Pub. L. 105–261, § 1041(b), substituted “Terms of Directors” for “Term of Director” in heading, designated existing provisions as par. (1), substituted “The term of office of the Director of the United States Soldiers’ and Airmen’s Home shall be five years. The Director” for “The term of office of a Director shall be five years. A Director”, and added par. (2).
 
-Subsec. (g). Pub. L. 105–261, § 1041(c), added subsec. (g).
+Subsec. (g). Pub. L. 105–261, § 1041(c), added subsec. (g).
 
 1996—Subsec. (f). Pub. L. 104–201 added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows:
 
@@ -893,13 +893,13 @@ Subsec. (g). Pub. L. 105–261, § 1041(c), added subsec. (g).
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title X, § 1041(d), Oct. 17, 1998, 112 Stat. 2124, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1998.”
+Pub. L. 105–261, div. A, title X, § 1041(d), Oct. 17, 1998, 112 Stat. 2124, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1998.”
 
 **Effective Date**
 
 Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
 
-### § 418. Periodic inspection of retirement home facilities
+### § 418. Periodic inspection of retirement home facilities
 
 **(a) Inspections**
 
@@ -915,7 +915,7 @@ The Chief Operating Officer and the Administrator of a facility being inspected 
 
 **(2)** a plan to address any recommendations and other matters set forth in the report.
 
-(Pub. L. 101–510, div. A, title XV, § 1518, Nov. 5, 1990, 104 Stat. 1730; Pub. L. 105–261, div. A, title X, § 1042(a), Oct. 17, 1998, 112 Stat. 2125; Pub. L. 107–107, div. A, title XIV, § 1404(b)(1)(C), Dec. 28, 2001, 115 Stat. 1260; Pub. L. 110–181, div. A, title XIV, § 1422(f), Jan. 28, 2008, 122 Stat. 422; Pub. L. 112–81, div. A, title V, §§ 563(b)(3), 564(b)(1), 566, 567(c)(5), Dec. 31, 2011, 125 Stat. 1423–1426; Pub. L. 115–91, div. A, title X, § 1051(d), title XIV, § 1413(a)(3), Dec. 12, 2017, 131 Stat. 1562, 1707; Pub. L. 115–232, div. A, title X, § 1081(c)(3), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 116–283, div. A, title XIV, § 1413(a), Jan. 1, 2021, 134 Stat. 4031.)
+(Pub. L. 101–510, div. A, title XV, § 1518, Nov. 5, 1990, 104 Stat. 1730; Pub. L. 105–261, div. A, title X, § 1042(a), Oct. 17, 1998, 112 Stat. 2125; Pub. L. 107–107, div. A, title XIV, § 1404(b)(1)(C), Dec. 28, 2001, 115 Stat. 1260; Pub. L. 110–181, div. A, title XIV, § 1422(f), Jan. 28, 2008, 122 Stat. 422; Pub. L. 112–81, div. A, title V, §§ 563(b)(3), 564(b)(1), 566, 567(c)(5), Dec. 31, 2011, 125 Stat. 1423–1426; Pub. L. 115–91, div. A, title X, § 1051(d), title XIV, § 1413(a)(3), Dec. 12, 2017, 131 Stat. 1562, 1707; Pub. L. 115–232, div. A, title X, § 1081(c)(3), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 116–283, div. A, title XIV, § 1413(a), Jan. 1, 2021, 134 Stat. 4031.)
 
 **Editorial Notes**
 
@@ -923,39 +923,39 @@ The Chief Operating Officer and the Administrator of a facility being inspected 
 
 2021—Pub. L. 116–283 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors.
 
-2018—Subsecs. (c)(1), (e). Pub. L. 115–232, § 1081(c)(3), made technical amendment to directory language of Pub. L. 115–91, § 1051(d). See 2017 Amendment notes below.
+2018—Subsecs. (c)(1), (e). Pub. L. 115–232, § 1081(c)(3), made technical amendment to directory language of Pub. L. 115–91, § 1051(d). See 2017 Amendment notes below.
 
-2017—Subsec. (c)(1). Pub. L. 115–91, § 1413(a)(3)(A), struck out “the Under Secretary of Defense for Personnel and Readiness,” after “the Secretary of Defense,”.
+2017—Subsec. (c)(1). Pub. L. 115–91, § 1413(a)(3)(A), struck out “the Under Secretary of Defense for Personnel and Readiness,” after “the Secretary of Defense,”.
 
-Pub. L. 115–91, § 1051(d)(1), as amended by Pub. L. 115–232, § 1081(c)(3), struck out “Congress and” before “the Secretary of Defense,”.
+Pub. L. 115–91, § 1051(d)(1), as amended by Pub. L. 115–232, § 1081(c)(3), struck out “Congress and” before “the Secretary of Defense,”.
 
-Subsec. (e). Pub. L. 115–91, § 1413(a)(3)(B), which directed amendment of subsec. (e)(1) by substituting “the Secretary of Defense” for “the Under Secretary of Defense for Personnel and Readiness”, was executed by making the substitution in the introductory provisions of subsec. (e) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–91, § 1051(d)(2). See below.
+Subsec. (e). Pub. L. 115–91, § 1413(a)(3)(B), which directed amendment of subsec. (e)(1) by substituting “the Secretary of Defense” for “the Under Secretary of Defense for Personnel and Readiness”, was executed by making the substitution in the introductory provisions of subsec. (e) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–91, § 1051(d)(2). See below.
 
-Pub. L. 115–91, § 1051(d)(2), as amended by Pub. L. 115–232, § 1081(c)(3), struck out “(1)” before “Not later”, redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, and struck out par. (2) which read as follows: “Not later than 45 days after receiving a report and plan under paragraph (1), the Secretary of Defense shall submit the report and plan to Congress.”
+Pub. L. 115–91, § 1051(d)(2), as amended by Pub. L. 115–232, § 1081(c)(3), struck out “(1)” before “Not later”, redesignated subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, and struck out par. (2) which read as follows: “Not later than 45 days after receiving a report and plan under paragraph (1), the Secretary of Defense shall submit the report and plan to Congress.”
 
-2011—Pub. L. 112–81, § 567(c)(5), substituted “Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors” for “Inspection of Retirement Home” in section catchline.
+2011—Pub. L. 112–81, § 567(c)(5), substituted “Periodic inspection of retirement home facilities by Department of Defense Inspector General and outside inspectors” for “Inspection of Retirement Home” in section catchline.
 
-Subsec. (b)(1). Pub. L. 112–81, § 566(1), substituted “Not less often than once every three years,” for “In any year in which a facility of the Retirement Home is not inspected by a nationally recognized civilian accrediting organization,” and “of each facility of the Retirement Home” for “of that facility” and inserted “long-term care,” after “assisted living,”.
+Subsec. (b)(1). Pub. L. 112–81, § 566(1), substituted “Not less often than once every three years,” for “In any year in which a facility of the Retirement Home is not inspected by a nationally recognized civilian accrediting organization,” and “of each facility of the Retirement Home” for “of that facility” and inserted “long-term care,” after “assisted living,”.
 
-Pub. L. 112–81, § 563(b)(3)(A)(i), substituted “Advisory Council or the Resident Advisory Committee” for “Local Board for the facility or the resident advisory committee or council”.
+Pub. L. 112–81, § 563(b)(3)(A)(i), substituted “Advisory Council or the Resident Advisory Committee” for “Local Board for the facility or the resident advisory committee or council”.
 
-Subsec. (b)(3). Pub. L. 112–81, § 563(b)(3)(A)(ii), substituted “Advisory Council, the Resident Advisory Committee” for “Local Board for the facility, the resident advisory committee or council”.
+Subsec. (b)(3). Pub. L. 112–81, § 563(b)(3)(A)(ii), substituted “Advisory Council, the Resident Advisory Committee” for “Local Board for the facility, the resident advisory committee or council”.
 
-Subsec. (b)(4). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director”.
+Subsec. (b)(4). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director”.
 
-Subsec. (c). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director” in two places.
+Subsec. (c). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director” in two places.
 
-Subsec. (c)(1). Pub. L. 112–81, § 566(2)(A), substituted “90 days” for “45 days”.
+Subsec. (c)(1). Pub. L. 112–81, § 566(2)(A), substituted “90 days” for “45 days”.
 
-Pub. L. 112–81, § 563(b)(3)(B), substituted “Advisory Council” for “Local Board for the facility”.
+Pub. L. 112–81, § 563(b)(3)(B), substituted “Advisory Council” for “Local Board for the facility”.
 
-Subsec. (c)(2). Pub. L. 112–81, § 566(2)(B), added par. (2) and struck out former par. (2) which read as follows: “Not later than 45 days after receiving a report of the Inspector General under paragraph (1), the Administrator of the facility concerned shall submit to the Secretary of Defense, the Under Secretary of Defense for Personnel and Readiness, the Chief Operating Officer, and the Local Board for the facility, and to Congress, a plan to address the recommendations and other matters set forth in the report.”
+Subsec. (c)(2). Pub. L. 112–81, § 566(2)(B), added par. (2) and struck out former par. (2) which read as follows: “Not later than 45 days after receiving a report of the Inspector General under paragraph (1), the Administrator of the facility concerned shall submit to the Secretary of Defense, the Under Secretary of Defense for Personnel and Readiness, the Chief Operating Officer, and the Local Board for the facility, and to Congress, a plan to address the recommendations and other matters set forth in the report.”
 
-Subsec. (d)(2). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director”.
+Subsec. (d)(2). Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director”.
 
-Subsec. (e)(1). Pub. L. 112–81, § 566(3), substituted “60 days” for “45 days” and “Chief Operating Officer shall submit to the Under Secretary of Defense for Personnel and Readiness, the Senior Medical Advisor” for “Director of the facility concerned shall submit to the Under Secretary of Defense for Personnel and Readiness, the Chief Operating Officer”.
+Subsec. (e)(1). Pub. L. 112–81, § 566(3), substituted “60 days” for “45 days” and “Chief Operating Officer shall submit to the Under Secretary of Defense for Personnel and Readiness, the Senior Medical Advisor” for “Director of the facility concerned shall submit to the Under Secretary of Defense for Personnel and Readiness, the Chief Operating Officer”.
 
-Pub. L. 112–81, § 563(b)(3)(C), substituted “Advisory Council” for “Local Board for the facility”.
+Pub. L. 112–81, § 563(b)(3)(C), substituted “Advisory Council” for “Local Board for the facility”.
 
 2008—Pub. L. 110–181 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to triennial inspections, alternating duties of Inspectors General, and inspection reports.
 
@@ -973,7 +973,7 @@ Pub. L. 112–81, § 563(b)(3)(C), substituted “Advisory Council” for “L
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. A, title X, § 1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made by section 1081(c)(3) is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.
+Pub. L. 115–232, div. A, title X, § 1081(c), Aug. 13, 2018, 132 Stat. 1985, provided that the amendment made by section 1081(c)(3) is effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted.
 
 **Effective Date**
 
@@ -981,9 +981,9 @@ Section effective one year after Nov. 5, 1990, see section 1541(a) of Pub. L. 10
 
 **First Inspection**
 
-Pub. L. 105–261, div. A, title X, § 1042(b), Oct. 17, 1998, 112 Stat. 2125, provided that: “The first inspection under section 1518 of the Armed Forces Retirement Home Act of 1991 [24 U.S.C. 418], as amended by subsection (a), shall be carried out during fiscal year 1999.”
+Pub. L. 105–261, div. A, title X, § 1042(b), Oct. 17, 1998, 112 Stat. 2125, provided that: “The first inspection under section 1518 of the Armed Forces Retirement Home Act of 1991 [24 U.S.C. 418], as amended by subsection (a), shall be carried out during fiscal year 1999.”
 
-### § 419. Armed Forces Retirement Home Trust Fund
+### § 419. Armed Forces Retirement Home Trust Fund
 
 **(a) Establishment** There is hereby established in the Treasury of the United States a trust fund to be known as the Armed Forces Retirement Home Trust Fund. The Fund shall consist of the following:
 
@@ -1011,7 +1011,7 @@ The Secretary of the Treasury may invest in obligations issued or guaranteed by 
 
 The Chief Financial Officer of the Armed Forces Retirement Home shall comply with the reporting requirements of subchapter II of chapter 35 of title 31.
 
-(Pub. L. 101–510, div. A, title XV, § 1519, Nov. 5, 1990, 104 Stat. 1730; Pub. L. 107–107, div. A, title XIV, §§ 1404(b)(2), 1410(a)(2), (b)(2), Dec. 28, 2001, 115 Stat. 1260, 1266; Pub. L. 110–181, div. A, title XIV, § 1422(g), Jan. 28, 2008, 122 Stat. 423; Pub. L. 112–81, div. A, title V, § 567(b)(1), Dec. 31, 2011, 125 Stat. 1425.)
+(Pub. L. 101–510, div. A, title XV, § 1519, Nov. 5, 1990, 104 Stat. 1730; Pub. L. 107–107, div. A, title XIV, §§ 1404(b)(2), 1410(a)(2), (b)(2), Dec. 28, 2001, 115 Stat. 1260, 1266; Pub. L. 110–181, div. A, title XIV, § 1422(g), Jan. 28, 2008, 122 Stat. 423; Pub. L. 112–81, div. A, title V, § 567(b)(1), Dec. 31, 2011, 125 Stat. 1425.)
 
 **Editorial Notes**
 
@@ -1021,11 +1021,11 @@ The Chief Financial Officer of the Armed Forces Retirement Home shall comply wit
 
 2008—Subsec. (d). Pub. L. 110–181 added subsec. (d).
 
-2001—Pub. L. 107–107, § 1410(a)(2), inserted “Armed Forces” before “Retirement Home Trust Fund” in section catchline.
+2001—Pub. L. 107–107, § 1410(a)(2), inserted “Armed Forces” before “Retirement Home Trust Fund” in section catchline.
 
-Subsec. (c). Pub. L. 107–107, § 1404(b)(2), substituted “Chief Operating Officer” for “Director”.
+Subsec. (c). Pub. L. 107–107, § 1404(b)(2), substituted “Chief Operating Officer” for “Director”.
 
-Subsec. (d). Pub. L. 107–107, § 1410(b)(2), struck out heading and text of subsec. (d). Text read as follows:
+Subsec. (d). Pub. L. 107–107, § 1410(b)(2), struck out heading and text of subsec. (d). Text read as follows:
 
 “(1) During the period beginning on November 5, 1990, and ending on September 30, 1994, the Fund shall contain a separate account for each establishment of the Retirement Home. During that period, contributions shall be collected under subsection (a) of this section for the account of the Naval Home for the purpose of achieving a trust fund five times the estimated annual operating budget of the Naval Home.
 
@@ -1043,7 +1043,7 @@ Subsec. (d). Pub. L. 107–107, § 1410(b)(2), struck out heading and text of 
 
 Section effective Nov. 5, 1990, see section 1541(b) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
 
-### § 420. Disposition of effects of deceased persons; unclaimed property
+### § 420. Disposition of effects of deceased persons; unclaimed property
 
 **(a) Disposition of effects of deceased persons** The Administrator of a facility of the Retirement Home shall safeguard and dispose of the estate and personal effects of deceased residents, including effects delivered to such facility under sections 7712(f) and 9712(f) of title 10, and shall ensure the following:
 
@@ -1103,7 +1103,7 @@ The net proceeds received by the Administrators from the sale of effects under s
 
 In the case of property delivered to the Retirement Home under section 2575 of title 10, the Administrator of the facility shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Administrator of the facility within two years after the delivery.
 
-(Pub. L. 101–510, div. A, title XV, § 1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, § 366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, § 202(j), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 107–107, div. A, title XIV, §§ 1408, 1410(a)(3), Dec. 28, 2001, 115 Stat. 1265, 1266; Pub. L. 107–314, div. A, title X, § 1062(f)(3), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–136, div. A, title X, § 1045(g), Nov. 24, 2003, 117 Stat. 1613; Pub. L. 112–81, div. A, title V, §§ 564(b), 567(c)(6), Dec. 31, 2011, 125 Stat. 1424, 1426; Pub. L. 115–232, div. A, title VIII, § 809(g), Aug. 13, 2018, 132 Stat. 1842.)
+(Pub. L. 101–510, div. A, title XV, § 1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, § 366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, § 202(j), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 107–107, div. A, title XIV, §§ 1408, 1410(a)(3), Dec. 28, 2001, 115 Stat. 1265, 1266; Pub. L. 107–314, div. A, title X, § 1062(f)(3), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108–136, div. A, title X, § 1045(g), Nov. 24, 2003, 117 Stat. 1613; Pub. L. 112–81, div. A, title V, §§ 564(b), 567(c)(6), Dec. 31, 2011, 125 Stat. 1424, 1426; Pub. L. 115–232, div. A, title VIII, § 809(g), Aug. 13, 2018, 132 Stat. 1842.)
 
 **Editorial Notes**
 
@@ -1111,29 +1111,29 @@ In the case of property delivered to the Retirement Home under section 2575 of t
 
 2018—Subsec. (a). Pub. L. 115–232 substituted “sections 7712(f) and 9712(f) of title 10” for “sections 4712(f) and 9712(f) of title 10” in introductory provisions.
 
-2011—Pub. L. 112–81, § 567(c)(6), made technical amendment to section catchline.
+2011—Pub. L. 112–81, § 567(c)(6), made technical amendment to section catchline.
 
-Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director” wherever appearing.
+Pub. L. 112–81, § 564(b)(1), substituted “Administrator” for “Director” wherever appearing.
 
-Subsec. (c). Pub. L. 112–81, § 564(b)(2), substituted “Administrators” for “Directors”.
+Subsec. (c). Pub. L. 112–81, § 564(b)(2), substituted “Administrators” for “Directors”.
 
 2003—Subsec. (b)(1)(C). Pub. L. 108–136 inserted “Armed Forces” before “Retirement Home Trust Fund”.
 
-2002—Subsec. (e). Pub. L. 107–314 made technical correction to directory language of Pub. L. 107–107, § 1410(a)(3)(C). See 2001 Amendment note below.
+2002—Subsec. (e). Pub. L. 107–314 made technical correction to directory language of Pub. L. 107–107, § 1410(a)(3)(C). See 2001 Amendment note below.
 
-2001—Subsec. (a). Pub. L. 107–107, § 1410(a)(3)(A), substituted “a facility” for “each facility that is maintained as a separate establishment” in introductory provisions.
+2001—Subsec. (a). Pub. L. 107–107, § 1410(a)(3)(A), substituted “a facility” for “each facility that is maintained as a separate establishment” in introductory provisions.
 
-Subsec. (b)(1)(B). Pub. L. 107–107, § 1408(b), inserted “Armed Forces” before “Retirement Home Trust Fund”.
+Subsec. (b)(1)(B). Pub. L. 107–107, § 1408(b), inserted “Armed Forces” before “Retirement Home Trust Fund”.
 
-Subsec. (b)(2)(A). Pub. L. 107–107, §§ 1408(a), 1410(a)(3)(B), struck out “maintained as a separate establishment” before “of the Retirement Home” and inserted “who is a full-time officer or employee of the United States or a member of the Armed Forces on active duty” after “may designate an attorney”.
+Subsec. (b)(2)(A). Pub. L. 107–107, §§ 1408(a), 1410(a)(3)(B), struck out “maintained as a separate establishment” before “of the Retirement Home” and inserted “who is a full-time officer or employee of the United States or a member of the Armed Forces on active duty” after “may designate an attorney”.
 
-Subsec. (e). Pub. L. 107–107, § 1410(a)(3)(C), as amended by Pub. L. 107–314, substituted “Director of the facility” for “Directors” in two places.
+Subsec. (e). Pub. L. 107–107, § 1410(a)(3)(C), as amended by Pub. L. 107–314, substituted “Director of the facility” for “Directors” in two places.
 
-1996—Subsec. (b)(1)(C). Pub. L. 104–316, § 202(j)(1), substituted “Secretary of Defense” for “Comptroller General of the United States” and “Secretary” for “Comptroller General”.
+1996—Subsec. (b)(1)(C). Pub. L. 104–316, § 202(j)(1), substituted “Secretary of Defense” for “Comptroller General of the United States” and “Secretary” for “Comptroller General”.
 
-Subsec. (d). Pub. L. 104–316, § 202(j)(2), substituted “Secretary of Defense” for “Comptroller General of the United States” in par. (1), “Secretary” for “Comptroller General” in par. (2), and “allowed by the Secretary” for “allowed by the Comptroller General” in par. (3).
+Subsec. (d). Pub. L. 104–316, § 202(j)(2), substituted “Secretary of Defense” for “Comptroller General of the United States” in par. (1), “Secretary” for “Comptroller General” in par. (2), and “allowed by the Secretary” for “allowed by the Comptroller General” in par. (3).
 
-1993—Subsec. (a). Pub. L. 103–160, § 366(d), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Directors of the establishments of the Retirement Home shall safeguard and dispose of the effects of a deceased person delivered to the Retirement Home under section 4712(f) or 9712(f) of title 10 and the estate and effects of a deceased resident of the Armed Forces Retirement Home as follows:
+1993—Subsec. (a). Pub. L. 103–160, § 366(d), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Directors of the establishments of the Retirement Home shall safeguard and dispose of the effects of a deceased person delivered to the Retirement Home under section 4712(f) or 9712(f) of title 10 and the estate and effects of a deceased resident of the Armed Forces Retirement Home as follows:
 
 “(1) A will or other paper involving property rights shall be promptly delivered to the proper court of record.
 
@@ -1151,7 +1151,7 @@ Subsec. (d). Pub. L. 104–316, § 202(j)(2), substituted “Secretary of Defe
 
 “(F) A beneficiary named in the will of the deceased.”
 
-Subsec. (b). Pub. L. 103–160, § 366(e), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows:
+Subsec. (b). Pub. L. 103–160, § 366(e), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows:
 
 “(1) After three years from the date of death of the deceased, the Directors may sell the effects to which a right has not been established under subsection (a) of this section (except decorations, medals, and citations) by public or private sale, as the Directors consider most advantageous.
 
@@ -1171,13 +1171,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title X, § 1062(f), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(f)(3) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
+Pub. L. 107–314, div. A, title X, § 1062(f), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(f)(3) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
 
 **Effective Date**
 
 Section applicable to estate of each resident of Armed Forces Retirement Home, including United States Soldiers’ and Airmen’s Home and Naval Home, who dies after Nov. 29, 1989, see section 1541(d) of Pub. L. 101–510, formerly set out as a note under section 401 of this title.
 
-### § 421. Payment of residents for services
+### § 421. Payment of residents for services
 
 **(a) Authority**
 
@@ -1185,9 +1185,9 @@ The Chief Operating Officer is authorized to accept for the Armed Forces Retirem
 
 **(b) Employment status** A resident receiving pay for services authorized under subsection (a) shall not, by reason of performing such services and receiving pay for such services, be considered as—
 
-**(1)** receiving the pay of a position or being employed in a position for the purposes of section 5532 1
+**(1)** receiving the pay of a position or being employed in a position for the purposes of section 5532 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5; or
 
@@ -1201,13 +1201,13 @@ of title 5; or
 
 In subsection (b)(1), the term “position” has the meaning given that term in section 5531 of title 5.
 
-(Pub. L. 101–510, div. A, title XV, § 1521, as added Pub. L. 102–484, div. A, title III, § 385(a), Oct. 23, 1992, 106 Stat. 2394; amended Pub. L. 104–201, div. A, title X, § 1052(b), Sept. 23, 1996, 110 Stat. 2650; Pub. L. 107–107, div. A, title XIV, § 1404(b)(3), Dec. 28, 2001, 115 Stat. 1260.)
+(Pub. L. 101–510, div. A, title XV, § 1521, as added Pub. L. 102–484, div. A, title III, § 385(a), Oct. 23, 1992, 106 Stat. 2394; amended Pub. L. 104–201, div. A, title X, § 1052(b), Sept. 23, 1996, 110 Stat. 2650; Pub. L. 107–107, div. A, title XIV, § 1404(b)(3), Dec. 28, 2001, 115 Stat. 1260.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664.
+Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 106–65, div. A, title VI, § 651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 **Amendments**
 
@@ -1219,9 +1219,9 @@ Section 5532 of title 5, referred to in subsec. (b)(1), was repealed by Pub. L. 
 
 **Forgiveness of Indebtedness**
 
-Pub. L. 102–484, div. A, title III, § 385(b), Oct. 23, 1992, 106 Stat. 2394, provided that: “The Chairman of the Armed Forces Retirement Board is authorized to cancel the indebtedness of any resident of the Armed Forces Retirement Home for repayment to the United States of amounts paid the resident for services provided to the Retirement Home before the date of the enactment of this Act [Oct. 23, 1992] if the Chairman determines that it would be in the interest of the United States to do so and against equity and good conscience to require the repayment.”
+Pub. L. 102–484, div. A, title III, § 385(b), Oct. 23, 1992, 106 Stat. 2394, provided that: “The Chairman of the Armed Forces Retirement Board is authorized to cancel the indebtedness of any resident of the Armed Forces Retirement Home for repayment to the United States of amounts paid the resident for services provided to the Retirement Home before the date of the enactment of this Act [Oct. 23, 1992] if the Chairman determines that it would be in the interest of the United States to do so and against equity and good conscience to require the repayment.”
 
-### § 422. Authority to accept certain uncompensated services
+### § 422. Authority to accept certain uncompensated services
 
 **(a) Authority to accept services**
 
@@ -1267,7 +1267,7 @@ The Chief Operating Officer or the Administrator of a facility of the Retirement
 
 The Chief Operating Officer or the Administrator of a facility accepting services under subsection (a) may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a). The Chief Operating Officer or Administrator shall determine which expenses qualify for reimbursement under this subsection.
 
-(Pub. L. 101–510, div. A, title XV, § 1522, as added Pub. L. 104–201, div. A, title X, § 1052(a), Sept. 23, 1996, 110 Stat. 2649; amended Pub. L. 107–107, div. A, title XIV, § 1404(b)(4), Dec. 28, 2001, 115 Stat. 1260; Pub. L. 112–81, div. A, title V, § 564(b)(1), Dec. 31, 2011, 125 Stat. 1424.)
+(Pub. L. 101–510, div. A, title XV, § 1522, as added Pub. L. 104–201, div. A, title X, § 1052(a), Sept. 23, 1996, 110 Stat. 2649; amended Pub. L. 107–107, div. A, title XIV, § 1404(b)(4), Dec. 28, 2001, 115 Stat. 1260; Pub. L. 112–81, div. A, title V, § 564(b)(1), Dec. 31, 2011, 125 Stat. 1424.)
 
 **Editorial Notes**
 
@@ -1275,17 +1275,17 @@ The Chief Operating Officer or the Administrator of a facility accepting service
 
 2011—Pub. L. 112–81 substituted “Administrator” for “Director” wherever appearing.
 
-2001—Subsec. (a). Pub. L. 107–107, § 1404(b)(4)(A), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of each establishment” and struck out “unless the acceptance of the voluntary services is disapproved by the Retirement Home Board” before period at end.
+2001—Subsec. (a). Pub. L. 107–107, § 1404(b)(4)(A), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of each establishment” and struck out “unless the acceptance of the voluntary services is disapproved by the Retirement Home Board” before period at end.
 
-Subsec. (b)(1). Pub. L. 107–107, § 1404(b)(4)(B), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of the establishment” and inserted “offering the services” after “notify the person”.
+Subsec. (b)(1). Pub. L. 107–107, § 1404(b)(4)(B), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of the establishment” and inserted “offering the services” after “notify the person”.
 
-Subsec. (b)(2). Pub. L. 107–107, § 1404(b)(4)(C), substituted “Chief Operating Officer” for “Chairman” in introductory provisions.
+Subsec. (b)(2). Pub. L. 107–107, § 1404(b)(4)(C), substituted “Chief Operating Officer” for “Chairman” in introductory provisions.
 
-Subsec. (c). Pub. L. 107–107, § 1404(b)(4)(D), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of an establishment”.
+Subsec. (c). Pub. L. 107–107, § 1404(b)(4)(D), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of an establishment”.
 
-Subsec. (e). Pub. L. 107–107, § 1404(b)(4)(E), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Board or the Director of the establishment” and “Chief Operating Officer or Director” for “Chairman or Director”.
+Subsec. (e). Pub. L. 107–107, § 1404(b)(4)(E), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Board or the Director of the establishment” and “Chief Operating Officer or Director” for “Chairman or Director”.
 
-### § 423. Preservation of historic buildings and grounds at the Armed Forces Retirement Home—Washington
+### § 423. Preservation of historic buildings and grounds at the Armed Forces Retirement Home—Washington
 
 **(a) Historic nature of facility** Congress finds the following:
 
@@ -1303,46 +1303,46 @@ The Chief Operating Officer and the Administrator of the Armed Forces Retirement
 
 Amounts received as a grant under subsection (b) shall be deposited in the Fund, but shall be kept separate from other amounts in the Fund. The amounts received may only be used for the purpose specified in subsection (b).
 
-(Pub. L. 101–510, div. A, title XV, § 1523, as added Pub. L. 106–65, div. A, title III, § 383, Oct. 5, 1999, 113 Stat. 583; amended Pub. L. 107–107, div. A, title XIV, §§ 1404(b)(5), 1410(a)(4), Dec. 28, 2001, 115 Stat. 1261, 1266; Pub. L. 112–81, div. A, title V, § 564(b)(1), Dec. 31, 2011, 125 Stat. 1424.)
+(Pub. L. 101–510, div. A, title XV, § 1523, as added Pub. L. 106–65, div. A, title III, § 383, Oct. 5, 1999, 113 Stat. 583; amended Pub. L. 107–107, div. A, title XIV, §§ 1404(b)(5), 1410(a)(4), Dec. 28, 2001, 115 Stat. 1261, 1266; Pub. L. 112–81, div. A, title V, § 564(b)(1), Dec. 31, 2011, 125 Stat. 1424.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b), “section 302904 of title 54” substituted for “section 101(e)(3) of the National Historic Preservation Act (16 U.S.C. 470a(e)(3))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+In subsec. (b), “section 302904 of title 54” substituted for “section 101(e)(3) of the National Historic Preservation Act (16 U.S.C. 470a(e)(3))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 **Amendments**
 
 2011—Subsec. (b). Pub. L. 112–81 substituted “Administrator” for “Director”.
 
-2001—Pub. L. 107–107, § 1410(a)(4)(B), amended section catchline generally, substituting “the Armed Forces Retirement Home—Washington” for “United States Soldiers’ and Airmen’s Home”.
+2001—Pub. L. 107–107, § 1410(a)(4)(B), amended section catchline generally, substituting “the Armed Forces Retirement Home—Washington” for “United States Soldiers’ and Airmen’s Home”.
 
-Subsec. (a)(1). Pub. L. 107–107, § 1410(a)(4)(A), substituted “Armed Forces Retirement Home—Washington” for “United States Soldiers’ and Airmen’s Home”.
+Subsec. (a)(1). Pub. L. 107–107, § 1410(a)(4)(A), substituted “Armed Forces Retirement Home—Washington” for “United States Soldiers’ and Airmen’s Home”.
 
-Subsec. (b). Pub. L. 107–107, §§ 1404(b)(5), 1410(a)(4)(A), substituted “Chief Operating Officer” for “Chairman of the Retirement Home Board” and substituted “Armed Forces Retirement Home—Washington” for “United States Soldiers’ and Airmen’s Home” in two places.
+Subsec. (b). Pub. L. 107–107, §§ 1404(b)(5), 1410(a)(4)(A), substituted “Chief Operating Officer” for “Chairman of the Retirement Home Board” and substituted “Armed Forces Retirement Home—Washington” for “United States Soldiers’ and Airmen’s Home” in two places.
 
-### § 424. Repealed. Pub. L. 107–107, div. A, title XIV, § 1410(a)(5), Dec. 28, 2001, 115 Stat. 1266
+### § 424. Repealed. Pub. L. 107–107, div. A, title XIV, § 1410(a)(5), Dec. 28, 2001, 115 Stat. 1266
 
-Section, Pub. L. 101–510, div. A, title XV, § 1524, as added Pub. L. 106–398, § 1 [[div. A], title IX, § 915], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, related to conditional supervisory control of Retirement Home Board by Secretary of Defense.
+Section, Pub. L. 101–510, div. A, title XV, § 1524, as added Pub. L. 106–398, § 1 [[div. A], title IX, § 915], Oct. 30, 2000, 114 Stat. 1654, 1654A–231, related to conditional supervisory control of Retirement Home Board by Secretary of Defense.
 
 ## SUBCHAPTER II—TRANSITIONAL PROVISIONS
 
-### §§ 431 to 433. Repealed. Pub. L. 112–81, div. A, title V, § 567(a), Dec. 31, 2011, 125 Stat. 1425
+### §§ 431 to 433. Repealed. Pub. L. 112–81, div. A, title V, § 567(a), Dec. 31, 2011, 125 Stat. 1425
 
-Section 431, Pub. L. 101–510, div. A, title XV, § 1531, as added Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265, related to temporary continuation of Armed Forces Retirement Home Board.
+Section 431, Pub. L. 101–510, div. A, title XV, § 1531, as added Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265, related to temporary continuation of Armed Forces Retirement Home Board.
 
-A prior section 431, Pub. L. 101–510, div. A, title XV, § 1531, Nov. 5, 1990, 104 Stat. 1732, related to transfer of trust funds relating to Naval Home and Soldiers’ and Airmen’s Home, prior to repeal by Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265.
+A prior section 431, Pub. L. 101–510, div. A, title XV, § 1531, Nov. 5, 1990, 104 Stat. 1732, related to transfer of trust funds relating to Naval Home and Soldiers’ and Airmen’s Home, prior to repeal by Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265.
 
-Section 432, Pub. L. 101–510, div. A, title XV, § 1532, as added Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265, related to directors of facilities.
+Section 432, Pub. L. 101–510, div. A, title XV, § 1532, as added Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265, related to directors of facilities.
 
-A prior section 1532 of Pub. L. 101–510, div. A, title XV, Nov. 5, 1990, 104 Stat. 1732, repealed sections 21a to 25, 41 to 43, 44b, 45 to 46b, 48 to 50, 54, and 59 of this title, prior to repeal by Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265.
+A prior section 1532 of Pub. L. 101–510, div. A, title XV, Nov. 5, 1990, 104 Stat. 1732, repealed sections 21a to 25, 41 to 43, 44b, 45 to 46b, 48 to 50, 54, and 59 of this title, prior to repeal by Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265.
 
-Section 433, Pub. L. 101–510, div. A, title XV, § 1533, as added Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265, related to temporary continuation of incumbent deputy directors.
+Section 433, Pub. L. 101–510, div. A, title XV, § 1533, as added Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265, related to temporary continuation of incumbent deputy directors.
 
-A prior section 1533 of Pub. L. 101–510, div. A, title XV, Nov. 5, 1990, 104 Stat. 1733, amended section 6a of this title, sections 1089, 2575, 2772, 4624, 4712, 9624, and 9712 of Title 10, Armed Forces, section 1321 of Title 31, Money and Finance, section 1007 of Title 37, Pay and Allowances of the Uniformed Services, and section 906 of Title 44, Public Printing and Documents, repealed sections 4713 and 9713 of Title 10, and enacted provisions set out as a note under section 2772 of Title 10, prior to repeal by Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265.
+A prior section 1533 of Pub. L. 101–510, div. A, title XV, Nov. 5, 1990, 104 Stat. 1733, amended section 6a of this title, sections 1089, 2575, 2772, 4624, 4712, 9624, and 9712 of Title 10, Armed Forces, section 1321 of Title 31, Money and Finance, section 1007 of Title 37, Pay and Allowances of the Uniformed Services, and section 906 of Title 44, Public Printing and Documents, repealed sections 4713 and 9713 of Title 10, and enacted provisions set out as a note under section 2772 of Title 10, prior to repeal by Pub. L. 107–107, div. A, title XIV, § 1409, Dec. 28, 2001, 115 Stat. 1265.
 
 ## SUBCHAPTER III—AUTHORIZATION OF APPROPRIATIONS
 
-### § 441. Repealed. Pub. L. 107–107, div. A, title XIV, § 1410(b)(3), Dec. 28, 2001, 115 Stat. 1266
+### § 441. Repealed. Pub. L. 107–107, div. A, title XIV, § 1410(b)(3), Dec. 28, 2001, 115 Stat. 1266
 
-Section, Pub. L. 101–510, div. A, title XV, § 1542, Nov. 5, 1990, 104 Stat. 1736, related to authorization of appropriations for United States Soldiers’ and Airmen’s Home.
+Section, Pub. L. 101–510, div. A, title XV, § 1542, Nov. 5, 1990, 104 Stat. 1736, related to authorization of appropriations for United States Soldiers’ and Airmen’s Home.

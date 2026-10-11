@@ -15,23 +15,23 @@ retrieved: 2026-10-11
 
 # CHAPTER 13—ACQUISITION COUNCILS
 
-2018—Pub. L. 115–390, title II, § 202(b), Dec. 21, 2018, 132 Stat. 5188, added item for subchapter III and items 1321 to 1328.
+2018—Pub. L. 115–390, title II, § 202(b), Dec. 21, 2018, 132 Stat. 5188, added item for subchapter III and items 1321 to 1328.
 
 ## SUBCHAPTER I—FEDERAL ACQUISITION REGULATORY COUNCIL
 
-### § 1301. Definition
+### § 1301. Definition
 
 In this subchapter, the term “Council” means the Federal Acquisition Regulatory Council established under section 1302(a) of this title.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3691.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3691.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1301 | 41:403(17). | Pub. L. 93–400, § 4(17), as added Pub. L. 108–375, title VIII, § 807(b), Oct. 28, 2004, 118 Stat. 2011. |
+| 1301 | 41:403(17). | Pub. L. 93–400, § 4(17), as added Pub. L. 108–375, title VIII, § 807(b), Oct. 28, 2004, 118 Stat. 2011. |
 
-### § 1302. Establishment and membership
+### § 1302. Establishment and membership
 
 **(a) Establishment.—** There is a Federal Acquisition Regulatory Council to assist in the direction and coordination of Government-wide procurement policy and Government-wide procurement regulatory activities in the Federal Government.
 
@@ -57,13 +57,13 @@ In this subchapter, the term “Council” means the Federal Acquisition Regulat
 
 **(B) Limitation on designation.—** No other official or employee may be designated to serve on the Council.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3691; Pub. L. 116–92, div. A, title IX, § 902(88), Dec. 20, 2019, 133 Stat. 1554.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3691; Pub. L. 116–92, div. A, title IX, § 902(88), Dec. 20, 2019, 133 Stat. 1554.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1302(a) | 41:421(a). | Pub. L. 93–400, § 25(a), (b), as added Pub. L. 100–679, § 4, Nov. 17, 1988, 102 Stat. 4056; Pub. L. 101–510, title VIII, § 807, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 104–106, title XLIII, § 4322(a)(2), Feb. 10, 1996, 110 Stat. 677. |
+| 1302(a) | 41:421(a). | Pub. L. 93–400, § 25(a), (b), as added Pub. L. 100–679, § 4, Nov. 17, 1988, 102 Stat. 4056; Pub. L. 101–510, title VIII, § 807, Nov. 5, 1990, 104 Stat. 1593; Pub. L. 104–106, title XLIII, § 4322(a)(2), Feb. 10, 1996, 110 Stat. 677. |
 | 1302(b) | 41:421(b). |  |
 
 In subsection (a), the words “(hereinafter in this section referred to as the ‘Council’)” are omitted as unnecessary.
@@ -82,15 +82,15 @@ In subsection (b)(2)(A)(ii), the cross-reference to section 16(3) of the Office 
 
 **Status of Director of Defense Procurement**
 
-Pub. L. 102–190, div. A, title VIII, § 809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 421(b)(2)) [now 41 U.S.C. 1302(b)(2)], the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.”
+Pub. L. 102–190, div. A, title VIII, § 809, Dec. 5, 1991, 105 Stat. 1423, as amended by Pub. L. 103–160, div. A, title IX, § 904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, § 911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: “For the purposes of the amendment made by section 807 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1593) to section 25(b)(2) of the Office of Federal Procurement Policy Act ([former] 41 U.S.C. 421(b)(2)) [now 41 U.S.C. 1302(b)(2)], the Director of Defense Procurement of the Department of Defense shall be considered to be an official at an organizational level of an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.”
 
-### § 1303. Functions and authority
+### § 1303. Functions and authority
 
 **(a) Functions.—**
 
 **(1) Issue and maintain federal acquisition regulation.—** Subject to sections 1121, 1122(a) to (c)(1), 1125, 1126, 1130, 1131, and 2305 of this title, the Administrator of General Services, the Secretary of Defense, and the Administrator of National Aeronautics and Space, pursuant to their respective authorities under division C of this subtitle, chapter 4 of title 10, chapter 137 legacy provisions (as such term is defined in section 3016 of title 10), and the National Aeronautics and Space Act of 1958 (42 U.S.C. 2451 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall jointly issue and maintain in accordance with subsection (d) a single Government-wide procurement regulation, to be known as the Federal Acquisition Regulation.
 
@@ -132,13 +132,13 @@ shall jointly issue and maintain in accordance with subsection (d) a single Gove
 
 **(d) General Authority With Respect to Federal Acquisition Regulation.—** Subject to section 1121(d) of this title, the Council shall manage, coordinate, control, and monitor the maintenance of, issuance of, and changes in, the Federal Acquisition Regulation.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3691; Pub. L. 117–81, div. A, title XVII, § 1702(h)(2), Dec. 27, 2021, 135 Stat. 2158
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3691; Pub. L. 117–81, div. A, title XVII, § 1702(h)(2), Dec. 27, 2021, 135 Stat. 2158
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1303(a) | 41:421(c). | Pub. L. 93–400, § 25(c)–(f), as added Pub. L. 100–679, § 4, Nov. 17, 1988, 102 Stat. 4056; Pub. L. 104–201, title VIII, § 822, title X, § 1074(f)(3), Sept. 23, 1996, 110 Stat. 2609, 2661; Pub. L. 105–85, title VIII, § 841(d), Nov. 18, 1997, 111 Stat. 1843. |
+| 1303(a) | 41:421(c). | Pub. L. 93–400, § 25(c)–(f), as added Pub. L. 100–679, § 4, Nov. 17, 1988, 102 Stat. 4056; Pub. L. 104–201, title VIII, § 822, title X, § 1074(f)(3), Sept. 23, 1996, 110 Stat. 2609, 2661; Pub. L. 105–85, title VIII, § 841(d), Nov. 18, 1997, 111 Stat. 1843. |
 | 1303(b) | 41:421(d). |  |
 | 1303(c) | 41:421(e). |  |
 | 1303(d) | 41:421(f). |  |
@@ -153,13 +153,13 @@ In subsection (b)(1)(B), the words “(as that term is defined in section 3502(1
 
 **References in Text**
 
-The National Aeronautics and Space Act of 1958, referred to in subsec. (a)(1), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, which was classified principally to chapter 26 (§ 2451 et seq.) of Title 42, The Public Health and Welfare, and was substantially repealed and restated as chapter 201 (§ 20101 et seq.) of Title 51, National and Commercial Space Programs, by Pub. L. 111–314, §§ 3, 6, Dec. 18, 2010, 124 Stat. 3328, 3444. For complete classification of this Act to the Code, see Short Title of 1958 Act note set out under section 10101 of Title 51 and Tables.
+The National Aeronautics and Space Act of 1958, referred to in subsec. (a)(1), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, which was classified principally to chapter 26 (§ 2451 et seq.) of Title 42, The Public Health and Welfare, and was substantially repealed and restated as chapter 201 (§ 20101 et seq.) of Title 51, National and Commercial Space Programs, by Pub. L. 111–314, §§ 3, 6, Dec. 18, 2010, 124 Stat. 3328, 3444. For complete classification of this Act to the Code, see Short Title of 1958 Act note set out under section 10101 of Title 51 and Tables.
 
 **Amendments**
 
 2021—Subsec. (a)(1). Pub. L. 117–81 substituted “chapter 4 of title 10, chapter 137 legacy provisions (as such term is defined in section 3016 of title 10)” for “chapters 4 and 137 of title 10”.
 
-### § 1304. Contract clauses and certifications
+### § 1304. Contract clauses and certifications
 
 **(a) Repetitive Nonstandard Contract Clauses Discouraged.—** The Council shall prescribe regulations to discourage the use of a nonstandard contract clause on a repetitive basis. The regulations shall include provisions that—
 
@@ -187,13 +187,13 @@ The National Aeronautics and Space Act of 1958, referred to in subsec. (a)(1), i
 
 **(ii)** written justification for the certification requirement is provided to the head of the executive agency by the senior procurement executive of the agency and the head of the executive agency approves in writing the inclusion of the certification requirement.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3693.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3693.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1304(a) | 41:425(a). | Pub. L. 93–400, § 29, as added Pub. L. 103–355, title I, § 1093, Oct. 13, 1994, 108 Stat. 3273; Pub. L. 104–106, title XLIII, § 4301(b)(2)(A), (c), Feb. 10, 1996, 110 Stat. 657, 658. |
+| 1304(a) | 41:425(a). | Pub. L. 93–400, § 29, as added Pub. L. 103–355, title I, § 1093, Oct. 13, 1994, 108 Stat. 3273; Pub. L. 104–106, title XLIII, § 4301(b)(2)(A), (c), Feb. 10, 1996, 110 Stat. 657, 658. |
 | 1304(b)(1) | 41:425(b). |  |
 | 1304(b)(2), (3) | 41:425(c). |  |
 
@@ -201,7 +201,7 @@ The National Aeronautics and Space Act of 1958, referred to in subsec. (a)(1), i
 
 **Current Certification Requirements**
 
-Pub. L. 104–106, div. D, title XLIII, § 4301(b)(1), Feb. 10, 1996, 110 Stat. 656, provided that:
+Pub. L. 104–106, div. D, title XLIII, § 4301(b)(1), Feb. 10, 1996, 110 Stat. 656, provided that:
 
 > **“(A)** Not later than 210 days after the date of the enactment of this Act [Feb. 10, 1996], the Administrator for Federal Procurement Policy shall issue for public comment a proposal to amend the Federal Acquisition Regulation to remove from the Federal Acquisition Regulation certification requirements for contractors and offerors that are not specifically imposed by statute. The Administrator may omit such a certification requirement from the proposal only if—
 
@@ -243,7 +243,7 @@ Barack Obama.
 
 ## SUBCHAPTER II—CHIEF ACQUISITION OFFICERS COUNCIL
 
-### § 1311. Establishment and membership
+### § 1311. Establishment and membership
 
 **(a) Establishment.—** There is in the executive branch a Chief Acquisition Officers Council.
 
@@ -269,13 +269,13 @@ Barack Obama.
 
 **(4) Support.—** The Administrator of General Services shall provide administrative and other support for the Council.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3694; Pub. L. 116–92, div. A, title IX, § 902(89), Dec. 20, 2019, 133 Stat. 1554.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3694; Pub. L. 116–92, div. A, title IX, § 902(89), Dec. 20, 2019, 133 Stat. 1554.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1311(a) | 41:414b(a). | Pub. L. 93–400, § 16A(a)–(c), as added Pub. L. 108–136, title XIV, § 1422(a), Nov. 24, 2003, 117 Stat. 1668. |
+| 1311(a) | 41:414b(a). | Pub. L. 93–400, § 16A(a)–(c), as added Pub. L. 108–136, title XIV, § 1422(a), Nov. 24, 2003, 117 Stat. 1668. |
 | 1311(b) | 41:414b(b)(1) (words before comma), (2)–(5). |  |
 | 1311(c)(1) | 41:414b(b)(1) (words after comma). |  |
 | 1311(c)(2) | 41:414b(c)(2). |  |
@@ -288,7 +288,7 @@ Barack Obama.
 
 2019—Subsec. (b)(3). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-### § 1312. Functions
+### § 1312. Functions
 
 **(a) Principal Forum.—** The Chief Acquisition Officers Council is the principal interagency forum for monitoring and improving the Federal acquisition system.
 
@@ -308,18 +308,18 @@ Barack Obama.
 
 **(7)** Work with the Administrator and the Federal Acquisition Regulatory Council to promote the business practices referred to in paragraph (4) and other results of the functions carried out under this subsection.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3694.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3694.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1312(a) | 41:414b(d). | Pub. L. 93–400, § 16A(d), (e), as added Pub. L. 108–136, title XIV, § 1422(a), Nov. 24, 2003, 117 Stat. 1668. |
+| 1312(a) | 41:414b(d). | Pub. L. 93–400, § 16A(d), (e), as added Pub. L. 108–136, title XIV, § 1422(a), Nov. 24, 2003, 117 Stat. 1668. |
 | 1312(b) | 41:414b(e). |  |
 
 ## SUBCHAPTER III—FEDERAL ACQUISITION SUPPLY CHAIN SECURITY
 
-### § 1321. Definitions
+### § 1321. Definitions
 
 In this subchapter:
 
@@ -343,7 +343,7 @@ In this subchapter:
 
 **(8) Supply chain risk.—** The term “supply chain risk” has the meaning given that term in section 4713 of this title.
 
-(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5178.)
+(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5178.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -353,13 +353,13 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **Effective Date**
 
-Pub. L. 115–390, title II, § 202(c), Dec. 21, 2018, 132 Stat. 5188, provided that: “The amendments made by this section [enacting this subchapter] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 21, 2018] and shall apply to contracts that are awarded before, on, or after that date.”
+Pub. L. 115–390, title II, § 202(c), Dec. 21, 2018, 132 Stat. 5188, provided that: “The amendments made by this section [enacting this subchapter] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 21, 2018] and shall apply to contracts that are awarded before, on, or after that date.”
 
-Pub. L. 115–390, title II, § 205, Dec. 21, 2018, 132 Stat. 5193, provided that: “This title [see section 201 of Pub. L. 115–390, set out as a Short Title of 2018 note under section 101 of this title] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 21, 2018].”
+Pub. L. 115–390, title II, § 205, Dec. 21, 2018, 132 Stat. 5193, provided that: “This title [see section 201 of Pub. L. 115–390, set out as a Short Title of 2018 note under section 101 of this title] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 21, 2018].”
 
 **Implementation**
 
-Pub. L. 115–390, title II, § 202(d), Dec. 21, 2018, 132 Stat. 5188, provided that:
+Pub. L. 115–390, title II, § 202(d), Dec. 21, 2018, 132 Stat. 5188, provided that:
 
 > **“(1) Interim final rule.—** Not later than one year after the date of the enactment of this Act [Dec. 21, 2018], the Federal Acquisition Security Council shall prescribe an interim final rule to implement subchapter III of chapter 13 of title 41, United States Code, as added by subsection (a).
 
@@ -371,7 +371,7 @@ Pub. L. 115–390, title II, § 202(d), Dec. 21, 2018, 132 Stat. 5188, provide
 
 > **“(B) Appropriate congressional committees and leadership defined.—** In this paragraph, the term ‘appropriate congressional committees and leadership’ has the meaning given that term in section 1321 of title 41, United States Code, as added by subsection (a).”
 
-### § 1322. Federal Acquisition Security Council establishment and membership
+### § 1322. Federal Acquisition Security Council establishment and membership
 
 **(a) Establishment.—** There is established in the executive branch a Federal Acquisition Security Council.
 
@@ -421,7 +421,7 @@ Pub. L. 115–390, title II, § 202(d), Dec. 21, 2018, 132 Stat. 5188, provide
 
 **(d) Meetings.—** The Council shall meet not later than 60 days after the date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018 and not less frequently than quarterly thereafter.
 
-(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5178.)
+(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5178.)
 
 **Editorial Notes**
 
@@ -437,7 +437,7 @@ Section effective 90 days after Dec. 21, 2018, and applicable to contracts that 
 
 Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as a note under section 1321 of this title.
 
-### § 1323. Functions and authorities
+### § 1323. Functions and authorities
 
 **(a) In General.—** The Council shall perform functions that include the following:
 
@@ -561,7 +561,7 @@ Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section
 
 **(2)** to authorize the issuance of an exclusion or removal order based solely on the fact of foreign ownership of a potential procurement source that is otherwise qualified to enter into procurement contracts with the Federal Government.
 
-(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5180.)
+(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5180.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -571,7 +571,7 @@ Section effective 90 days after Dec. 21, 2018, and applicable to contracts that 
 
 Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as a note under section 1321 of this title.
 
-### § 1324. Strategic plan
+### § 1324. Strategic plan
 
 **(a) In General.—** Not later than 180 days after the date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018, the Council shall develop a strategic plan for addressing supply chain risks posed by the acquisition of covered articles and for managing such risks that includes—
 
@@ -599,7 +599,7 @@ Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section
 
 **(b) Submission to Congress.—** Not later than 7 calendar days after completion of the strategic plan required by subsection (a), the Chairperson of the Council shall submit the plan to the appropriate congressional committees and leadership.
 
-(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5184.)
+(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5184.)
 
 **Editorial Notes**
 
@@ -615,11 +615,11 @@ Section effective 90 days after Dec. 21, 2018, and applicable to contracts that 
 
 Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as a note under section 1321 of this title.
 
-### § 1325. Annual report
+### § 1325. Annual report
 
 Not later than December 31 of each year, the Chairperson of the Council shall submit to the appropriate congressional committees and leadership a report on the activities of the Council during the preceding 12-month period.
 
-(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5184.)
+(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5184.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -629,7 +629,7 @@ Section effective 90 days after Dec. 21, 2018, and applicable to contracts that 
 
 Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as a note under section 1321 of this title.
 
-### § 1326. Requirements for executive agencies
+### § 1326. Requirements for executive agencies
 
 **(a) In General.—** The head of each executive agency shall be responsible for—
 
@@ -665,7 +665,7 @@ Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section
 
 **(2)** provide such additional guidance or tools as are necessary to support actions taken by executive agencies.
 
-(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5184.)
+(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5184.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -675,7 +675,7 @@ Section effective 90 days after Dec. 21, 2018, and applicable to contracts that 
 
 Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as a note under section 1321 of this title.
 
-### § 1327. Judicial review procedures
+### § 1327. Judicial review procedures
 
 **(a) In General.—** Except as provided in subsection (b) and chapter 71 of this title, and notwithstanding any other provision of law, an action taken under section 1323 or 4713 of this title, or any action taken by an executive agency to implement such an action, shall not be subject to administrative review or judicial review, including bid protests before the Government Accountability Office or in any Federal court.
 
@@ -737,13 +737,13 @@ Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section
 
 **(B)** any restricted data, as defined in section 11 of the Atomic Energy Act of 1954 (42 U.S.C. 2014).
 
-(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5185.)
+(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5185.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (b)(4)(B)(iii)(IV), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (b)(4)(B)(iii)(IV), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 The Classified Information Procedures Act, referred to in subsec. (c)(1), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -755,11 +755,11 @@ Section effective 90 days after Dec. 21, 2018, and applicable to contracts that 
 
 Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section 205 of Pub. L. 115–390, set out as a note under section 1321 of this title.
 
-### § 1328. Termination
+### § 1328. Termination
 
 This subchapter shall terminate on December 31, 2033.
 
-(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5188; amended Pub. L. 117–263, div. E, title LIX, § 5949(k)(1), Dec. 23, 2022, 136 Stat. 3492.)
+(Added Pub. L. 115–390, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5188; amended Pub. L. 117–263, div. E, title LIX, § 5949(k)(1), Dec. 23, 2022, 136 Stat. 3492.)
 
 **Editorial Notes**
 

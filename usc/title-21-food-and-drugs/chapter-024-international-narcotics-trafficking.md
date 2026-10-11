@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 24—INTERNATIONAL NARCOTICS TRAFFICKING
 
-## § 1901. Findings and policy
+## § 1901. Findings and policy
 
 **(a) Findings** Congress makes the following findings:
 
@@ -31,7 +31,7 @@ retrieved: 2026-10-11
 
 It shall be the policy of the United States to apply economic and other financial sanctions to significant foreign narcotics traffickers and their organizations worldwide to protect the national security, foreign policy, and economy of the United States from the threat described in subsection (a)(4).
 
-(Pub. L. 106–120, title VIII, § 802, Dec. 3, 1999, 113 Stat. 1626.)
+(Pub. L. 106–120, title VIII, § 802, Dec. 3, 1999, 113 Stat. 1626.)
 
 **Editorial Notes**
 
@@ -39,23 +39,23 @@ It shall be the policy of the United States to apply economic and other financia
 
 Executive Order No. 12978, referred to in subsec. (a)(2), is Ex. Ord. No. 12978, Oct. 21, 1995, 60 F.R. 54579, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-The International Emergency Economic Powers Act, referred to in subsec. (a)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (a)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 106–120, title VIII, § 811, Dec. 3, 1999, 113 Stat. 1636, provided that: “This title [see Short Title note set out below] shall take effect on the date of the enactment of this Act [Dec. 3, 1999].”
+Pub. L. 106–120, title VIII, § 811, Dec. 3, 1999, 113 Stat. 1636, provided that: “This title [see Short Title note set out below] shall take effect on the date of the enactment of this Act [Dec. 3, 1999].”
 
 **Short Title**
 
-Pub. L. 106–120, title VIII, § 801, Dec. 3, 1999, 113 Stat. 1626, provided that: “This title [enacting this chapter and amending section 1182 of Title 8, Aliens and Nationality] may be cited as the ‘Foreign Narcotics Kingpin Designation Act’.”
+Pub. L. 106–120, title VIII, § 801, Dec. 3, 1999, 113 Stat. 1626, provided that: “This title [enacting this chapter and amending section 1182 of Title 8, Aliens and Nationality] may be cited as the ‘Foreign Narcotics Kingpin Designation Act’.”
 
-## § 1902. Purpose
+## § 1902. Purpose
 
 The purpose of this chapter is to provide authority for the identification of, and application of sanctions on a worldwide basis to, significant foreign narcotics traffickers, their organizations, and the foreign persons who provide support to those significant foreign narcotics traffickers and their organizations, whose activities threaten the national security, foreign policy, and economy of the United States.
 
-(Pub. L. 106–120, title VIII, § 803, Dec. 3, 1999, 113 Stat. 1626.)
+(Pub. L. 106–120, title VIII, § 803, Dec. 3, 1999, 113 Stat. 1626.)
 
 **Editorial Notes**
 
@@ -63,7 +63,7 @@ The purpose of this chapter is to provide authority for the identification of, a
 
 This chapter, referred to in text, was in the original “this title”, meaning title VIII of Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1626, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
-## § 1903. Public identification of significant foreign narcotics traffickers and required reports
+## § 1903. Public identification of significant foreign narcotics traffickers and required reports
 
 **(a) Provision of information to the President**
 
@@ -137,13 +137,13 @@ Notwithstanding any other provision of this section, the reports described in su
 
 In any judicial review of a determination made under this section, if the determination was based on classified information (as defined in section 1(a) of the Classified Information Procedures Act) such information may be submitted to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review.
 
-(Pub. L. 106–120, title VIII, § 804, Dec. 3, 1999, 113 Stat. 1626; Pub. L. 114–198, title VIII, § 801, July 22, 2016, 130 Stat. 755.)
+(Pub. L. 106–120, title VIII, § 804, Dec. 3, 1999, 113 Stat. 1626; Pub. L. 114–198, title VIII, § 801, July 22, 2016, 130 Stat. 755.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (d)(3), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§ 3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (d)(3), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§ 3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (i), is section 1(a) of Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -187,7 +187,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-## § 1904. Blocking assets and prohibiting transactions
+## § 1904. Blocking assets and prohibiting transactions
 
 **(a) Applicability of sanctions**
 
@@ -227,7 +227,7 @@ Nothing in this chapter prohibits or otherwise limits the authorized law enforce
 
 **(3)** Section 552(a)(3) of title 5 shall not apply to any record or information obtained or created in the implementation of this chapter.
 
-(Pub. L. 106–120, title VIII, § 805, Dec. 3, 1999, 113 Stat. 1629; Pub. L. 107–108, title III, § 307, Dec. 28, 2001, 115 Stat. 1399.)
+(Pub. L. 106–120, title VIII, § 805, Dec. 3, 1999, 113 Stat. 1629; Pub. L. 107–108, title III, § 307, Dec. 28, 2001, 115 Stat. 1399.)
 
 **Editorial Notes**
 
@@ -241,7 +241,7 @@ Nothing in this chapter prohibits or otherwise limits the authorized law enforce
 
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
-## § 1905. Authorities
+## § 1905. Authorities
 
 **(a) In general** To carry out the purposes of this chapter, the Secretary of the Treasury may, under such regulations as he may prescribe, by means of instructions, licenses, or otherwise—
 
@@ -269,9 +269,9 @@ Pursuant to subsection (a), the Secretary of the Treasury may require recordkeep
 
 The Secretary of the Treasury may issue such other regulations or orders, including regulations prescribing recordkeeping, reporting, and production of documents, definitions, licenses, instructions, or directions, as may be necessary for the exercise of the authorities granted by this chapter.
 
-(Pub. L. 106–120, title VIII, § 806, Dec. 3, 1999, 113 Stat. 1631.)
+(Pub. L. 106–120, title VIII, § 806, Dec. 3, 1999, 113 Stat. 1631.)
 
-## § 1906. Enforcement
+## § 1906. Enforcement
 
 **(a) Criminal penalties**
 
@@ -293,9 +293,9 @@ A civil penalty not to exceed $1,000,000 may be imposed by the Secretary of the 
 
 Any penalty imposed under subsection (b) shall be subject to judicial review only to the extent provided in section 702 of title 5.
 
-(Pub. L. 106–120, title VIII, § 807, Dec. 3, 1999, 113 Stat. 1631.)
+(Pub. L. 106–120, title VIII, § 807, Dec. 3, 1999, 113 Stat. 1631.)
 
-## § 1907. Definitions
+## § 1907. Definitions
 
 As used in this chapter:
 
@@ -327,9 +327,9 @@ The term “United States person” means any United States citizen or national,
 
 The term “significant foreign narcotics trafficker” means any foreign person that plays a significant role in international narcotics trafficking, that the President has determined to be appropriate for sanctions pursuant to this chapter, and that the President has publicly identified in the report required under subsection (b) or (h)(1) of section 1903 of this title.
 
-(Pub. L. 106–120, title VIII, § 808, Dec. 3, 1999, 113 Stat. 1632.)
+(Pub. L. 106–120, title VIII, § 808, Dec. 3, 1999, 113 Stat. 1632.)
 
-## § 1908. Judicial Review Commission on Foreign Asset Control
+## § 1908. Judicial Review Commission on Foreign Asset Control
 
 **(a) Establishment**
 
@@ -377,9 +377,9 @@ There is established a commission to be known as the “Judicial Review Commissi
 
 **(e) Staff**
 
-**(1)** Subject to paragraph (2), the chairman of the Commission, in accordance with rules agreed upon by the Commission, shall appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its duties, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III or 1
+**(1)** Subject to paragraph (2), the chairman of the Commission, in accordance with rules agreed upon by the Commission, shall appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its duties, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III or 1
 
-<sup>1</sup>  So in original. Probably should be “of”.
+<sup>1</sup> So in original. Probably should be “of”.
 
 chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of such title.
 
@@ -405,17 +405,17 @@ chapter 53 of such title relating to classification and General Schedule pay rat
 
 **(B)** Members of the Commission who are officers or employees of the United States shall receive no additional pay by reason of their service on the Commission.
 
-**(2)** While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 2
+**(2)** While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 2
 
-<sup>2</sup>  So in original. Section 5703 of title 5 does not contain a subsec. (b).
+<sup>2</sup> So in original. Section 5703 of title 5 does not contain a subsec. (b).
 
 of title 5.
 
 **(g) Report**
 
-**(1)** Not later than 1 year after December 3, 1999, the Commissions 3
+**(1)** Not later than 1 year after December 3, 1999, the Commissions 3
 
-<sup>3</sup>  So in original. Probably should be “Commission”.
+<sup>3</sup> So in original. Probably should be “Commission”.
 
 shall submit to the committees of Congress referred to in paragraph (4) a report on the activities of the Commission under this section, including the findings, conclusions, and recommendations, if any, of the Commission as a result of the review under subsection (c)(1) and the examination and evaluation under subsection (c)(2).
 
@@ -443,7 +443,7 @@ The Commission shall terminate at the end of the 60-day period beginning on the 
 
 The Attorney General shall, from amounts authorized to be appropriated to the Attorney General by this Act, make available to the Commission $1,000,000 for purposes of the activities of the Commission under this section. Amounts made available to the Commission under the preceding sentence shall remain available until expended.
 
-(Pub. L. 106–120, title VIII, § 810, Dec. 3, 1999, 113 Stat. 1633; Pub. L. 117–286, § 4(a)(162), Dec. 27, 2022, 136 Stat. 4323.)
+(Pub. L. 106–120, title VIII, § 810, Dec. 3, 1999, 113 Stat. 1633; Pub. L. 117–286, § 4(a)(162), Dec. 27, 2022, 136 Stat. 4323.)
 
 **Editorial Notes**
 

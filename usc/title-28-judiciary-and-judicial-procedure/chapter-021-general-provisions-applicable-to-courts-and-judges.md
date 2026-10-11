@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1982—Pub. L. 97–164, title I, §§ 115(a)(2), (b)(2), (c)(2), 116(b), Apr. 2, 1982, 96 Stat. 31, 32, inserted “; official duty stations” in item 456, substituted “other courts” for “Canal Zone, Guam and Virgin Islands” in item 460, and added items 462 and 463.
+1982—Pub. L. 97–164, title I, §§ 115(a)(2), (b)(2), (c)(2), 116(b), Apr. 2, 1982, 96 Stat. 31, 32, inserted “; official duty stations” in item 456, substituted “other courts” for “Canal Zone, Guam and Virgin Islands” in item 460, and added items 462 and 463.
 
-1978—Pub. L. 95–598, title II, §§ 214(c), 217(b), Nov. 6, 1978, 92 Stat. 2661, struck out “Alaska,” after “Application to” in item 460 and struck out reference to referees in bankruptcy in item 455.
+1978—Pub. L. 95–598, title II, §§ 214(c), 217(b), Nov. 6, 1978, 92 Stat. 2661, struck out “Alaska,” after “Application to” in item 460 and struck out reference to referees in bankruptcy in item 455.
 
-1975—Pub. L. 94–82, title II, § 205(a)(2), Aug. 9, 1975, 89 Stat. 422, added item 461.
+1975—Pub. L. 94–82, title II, § 205(a)(2), Aug. 9, 1975, 89 Stat. 422, added item 461.
 
-1974—Pub. L. 93–512, § 2, Dec. 5, 1974, 88 Stat. 1610, substituted “Disqualification of justice, judge, magistrate, or referee in bankruptcy” for “Interest of justice or judge” in item 455.
+1974—Pub. L. 93–512, § 2, Dec. 5, 1974, 88 Stat. 1610, substituted “Disqualification of justice, judge, magistrate, or referee in bankruptcy” for “Interest of justice or judge” in item 455.
 
-1963—Pub. L. 88–139, § 3(b), Oct. 16, 1963, 77 Stat. 248, substituted “power unrestricted by expiration of sessions” for “powers unrestricted by terms” in item 452.
+1963—Pub. L. 88–139, § 3(b), Oct. 16, 1963, 77 Stat. 248, substituted “power unrestricted by expiration of sessions” for “powers unrestricted by terms” in item 452.
 
-1951—Act Oct. 31, 1951, ch. 655, § 42, 65 Stat. 725, inserted “, Guam” in item 460.
+1951—Act Oct. 31, 1951, ch. 655, § 42, 65 Stat. 725, inserted “, Guam” in item 460.
 
 **Change of Name**
 
 Words “magistrate judge” substituted for “magistrate” in item 455 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
-## § 451. Definitions
+## § 451. Definitions
 
 As used in this title:
 
@@ -53,7 +53,7 @@ The term “department” means one of the executive departments enumerated in s
 
 The term “agency” includes any department, independent establishment, commission, administration, authority, board or bureau of the United States or any corporation in which the United States has a proprietary interest, unless the context shows that such term was intended to be used in a more limited sense.
 
-(June 25, 1948, ch. 646, 62 Stat. 907; Pub. L. 86–3, § 10, Mar. 18, 1959, 73 Stat. 9; Pub. L. 89–571, § 3, Sept. 12, 1966, 80 Stat. 764; Pub. L. 95–598, title II, § 213, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 96–417, title V, § 501(10), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, § 114, Apr. 2, 1982, 96 Stat. 29.)
+(June 25, 1948, ch. 646, 62 Stat. 907; Pub. L. 86–3, § 10, Mar. 18, 1959, 73 Stat. 9; Pub. L. 89–571, § 3, Sept. 12, 1966, 80 Stat. 764; Pub. L. 95–598, title II, § 213, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 96–417, title V, § 501(10), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, § 114, Apr. 2, 1982, 96 Stat. 29.)
 
 **Historical and Revisions Notes**
 
@@ -95,11 +95,11 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–3, § 10, Mar. 18, 1959, 73 Stat. 9, provided that the amendment made by section 10 of Pub. L. 86–3 shall be effective on admission of the State of Hawaii into the Union. Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding 491 of Title 48, Territories and Insular Possessions.
+Pub. L. 86–3, § 10, Mar. 18, 1959, 73 Stat. 9, provided that the amendment made by section 10 of Pub. L. 86–3 shall be effective on admission of the State of Hawaii into the Union. Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding 491 of Title 48, Territories and Insular Possessions.
 
 “Circuit Court of Appeals;” “Senior Circuit Judge,” Etc. Defined
 
-Act June 25, 1948, ch. 646, § 32, 62 Stat. 991, as amended by act May 24, 1949, ch. 139, § 127, 63 Stat. 107, provided that:
+Act June 25, 1948, ch. 646, § 32, 62 Stat. 991, as amended by act May 24, 1949, ch. 139, § 127, 63 Stat. 107, provided that:
 
 > **“(a)** All laws of the United States in force on September 1, 1948, in which reference is made to a ‘circuit court of appeals’; ‘senior circuit judge’; ‘senior district judge’; ‘presiding judge’; ‘chief justice’, except when reference to the Chief Justice of the United States is intended; or ‘justice’, except when used with respect to a justice of the Supreme Court of the United States in his capacity as such or as a circuit justice, are hereby amended by substituting ‘court of appeals’ for ‘circuit court of appeals’; ‘chief judge of the circuit’ for ‘senior circuit judge’; ‘chief judge of the district court’ for ‘senior district judge’; ‘chief judge’ for ‘presiding judge’; ‘chief judge’ for ‘chief justice’, except when reference to the Chief Justice of the United States is intended; and ‘judge’ for ‘justice’, except when the latter term is used with respect to a justice of the Supreme Court of the United States in his capacity as such or as a circuit justice.
 
@@ -111,21 +111,21 @@ Act June 25, 1948, ch. 646, § 32, 62 Stat. 991, as amended by act May 24, 194
 
 **Judges of the United States**
 
-Act June 25, 1948, ch. 646, § 2(a), 62 Stat. 985, as amended by act Sept. 3, 1954, ch. 1263, § 51(a), 68 Stat. 1245, provided that: “The Chief Justices of the United States Court of Appeals for the District of Columbia, the District Court of the United States for the District of Columbia, and the Court of Claims [now United States Court of Federal Claims], and the presiding judge of the Court of Customs and Patent Appeals [now United States Court of Appeals for the Federal Circuit], in office on the effective date of this Act shall be the chief judges of their respective courts. The Chief Justice of the United States Court of Appeals for the District of Columbia and the Associate Justices thereof, the Chief Justice of the District Court of the United States for the District of Columbia (formerly named the Supreme Court of the District of Columbia) and the Associate Justices thereof, the Chief Justice of the Court of Claims [now United States Court of Federal Claims], and the presiding judge of the Court of Customs and Patent Appeals [now United States Court of Appeals for the Federal Circuit], in office on the effective date of this Act, shall be judges of the United States within the meaning of Section 451 of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in Section 1 of this Act. The Chief Justice of the United States Court of Appeals for the District of Columbia and the Associate Justices thereof, in office on the effective date of this Act, shall be circuit judges of the District of Columbia Circuit and vested with all the rights, powers, and duties thereof, and the said Chief Justice of the United States Court of Appeals for the District of Columbia shall be Chief Judge of said Circuit. The Chief Justice of the District Court of the United States for the District of Columbia (formerly named the Supreme Court of the District of Columbia) and the Associate Justices thereof, in office on the effective date of this Act, shall be district judges for the District of Columbia and vested with all the rights, powers, and duties thereof.”
+Act June 25, 1948, ch. 646, § 2(a), 62 Stat. 985, as amended by act Sept. 3, 1954, ch. 1263, § 51(a), 68 Stat. 1245, provided that: “The Chief Justices of the United States Court of Appeals for the District of Columbia, the District Court of the United States for the District of Columbia, and the Court of Claims [now United States Court of Federal Claims], and the presiding judge of the Court of Customs and Patent Appeals [now United States Court of Appeals for the Federal Circuit], in office on the effective date of this Act shall be the chief judges of their respective courts. The Chief Justice of the United States Court of Appeals for the District of Columbia and the Associate Justices thereof, the Chief Justice of the District Court of the United States for the District of Columbia (formerly named the Supreme Court of the District of Columbia) and the Associate Justices thereof, the Chief Justice of the Court of Claims [now United States Court of Federal Claims], and the presiding judge of the Court of Customs and Patent Appeals [now United States Court of Appeals for the Federal Circuit], in office on the effective date of this Act, shall be judges of the United States within the meaning of Section 451 of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in Section 1 of this Act. The Chief Justice of the United States Court of Appeals for the District of Columbia and the Associate Justices thereof, in office on the effective date of this Act, shall be circuit judges of the District of Columbia Circuit and vested with all the rights, powers, and duties thereof, and the said Chief Justice of the United States Court of Appeals for the District of Columbia shall be Chief Judge of said Circuit. The Chief Justice of the District Court of the United States for the District of Columbia (formerly named the Supreme Court of the District of Columbia) and the Associate Justices thereof, in office on the effective date of this Act, shall be district judges for the District of Columbia and vested with all the rights, powers, and duties thereof.”
 
-Act Sept. 3, 1954, ch. 1263, § 51(b), 68 Stat. 1246, provided that this amendment should take effect as of Sept. 1, 1948.
+Act Sept. 3, 1954, ch. 1263, § 51(b), 68 Stat. 1246, provided that this amendment should take effect as of Sept. 1, 1948.
 
-## § 452. Courts always open; powers unrestricted by expiration of sessions
+## § 452. Courts always open; powers unrestricted by expiration of sessions
 
 All courts of the United States shall be deemed always open for the purpose of filing proper papers, issuing and returning process, and making motions and orders.
 
 The continued existence or expiration of a session of a court in no way affects the power of the court to do any act or take any proceeding.
 
-(June 25, 1948, ch. 646, 62 Stat. 907; Pub. L. 88–139, § 2, Oct. 16, 1963, 77 Stat. 248.)
+(June 25, 1948, ch. 646, 62 Stat. 907; Pub. L. 88–139, § 2, Oct. 16, 1963, 77 Stat. 248.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 13 and 302 (Mar. 3, 1911, ch. 231, §§ 9, 189, 36 Stat. 1088, 1143; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475).
+Based on title 28, U.S.C., 1940 ed., §§ 13 and 302 (Mar. 3, 1911, ch. 231, §§ 9, 189, 36 Stat. 1088, 1143; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475).
 
 Sections 13 and 302 of title 28, U.S.C., 1940 ed., related only to district courts and the Court of Customs and Patent Appeals, and this section has been written to cover all other courts of the United States.
 
@@ -133,7 +133,7 @@ Other provisions of said section 302 of title 28, U.S.C., 1940 ed., are incorpor
 
 The phrase “always open” means “never closed” and signifies the time when a court can exercise its functions. With respect to matters enumerated by statute or rule as to which the court is “always open,” there is no time when the court is without power to act. (Ex parte Branch, 63 Ala. 383, 387.)
 
-Section 13 of title 28, U.S.C., 1940 ed., provided that “The district courts, as courts of admiralty and as courts of equity, shall be deemed always open \* \* \*” for enumerated purposes, and that the judge “at chambers or in the clerk’s office, and in vacation as well as in term,” may make orders and issue process. The revised section omits all reference to the nature of the action or proceeding and enumeration of the acts which may be performed by the court. This is in accord with Rules 45(c) and 56 of the new Federal Rules of Criminal Procedure which contain similar provisions with respect to criminal procedure both in the courts of appeals and in the district courts.
+Section 13 of title 28, U.S.C., 1940 ed., provided that “The district courts, as courts of admiralty and as courts of equity, shall be deemed always open \* \* \*” for enumerated purposes, and that the judge “at chambers or in the clerk’s office, and in vacation as well as in term,” may make orders and issue process. The revised section omits all reference to the nature of the action or proceeding and enumeration of the acts which may be performed by the court. This is in accord with Rules 45(c) and 56 of the new Federal Rules of Criminal Procedure which contain similar provisions with respect to criminal procedure both in the courts of appeals and in the district courts.
 
 Rules 6(c) and 77(a) of the Federal Rules of Civil Procedure contain provisions similar to the second and first paragraphs, respectively, of this section with respect to civil actions in district courts.
 
@@ -143,15 +143,15 @@ Rules 6(c) and 77(a) of the Federal Rules of Civil Procedure contain provisions 
 
 1963—Pub. L. 88–139 substituted “expiration of sessions” for “terms” in section catchline, and “session” for “term” in text.
 
-## § 453. Oaths of justices and judges
+## § 453. Oaths of justices and judges
 
 Each justice or judge of the United States shall take the following oath or affirmation before performing the duties of his office: “I, \_\_\_ \_\_\_, do solemnly swear (or affirm) that I will administer justice without respect to persons, and do equal right to the poor and to the rich, and that I will faithfully and impartially discharge and perform all the duties incumbent upon me as \_\_\_ under the Constitution and laws of the United States. So help me God.”
 
-(June 25, 1948, ch. 646, 62 Stat. 907; Pub. L. 101–650, title IV, § 404, Dec. 1, 1990, 104 Stat. 5124.)
+(June 25, 1948, ch. 646, 62 Stat. 907; Pub. L. 101–650, title IV, § 404, Dec. 1, 1990, 104 Stat. 5124.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 241, 372, and District of Columbia Code, 1940 ed., §§ 11–203, 11–303 (R.S.D.C., § 752, 18 Stat. pt. II, 90; Feb. 9, 1893, ch. 74, § 3, 27 Stat. 435; Mar. 3, 1901, ch. 854, § 223, 31 Stat. 1224; Mar. 3, 1911, ch. 231, §§ 136, 137, 257, 36 Stat. 1135, 1161; Feb. 25, 1919, ch. 29, § 4, 40 Stat. 1157).
+Based on title 28, U.S.C., 1940 ed., §§ 241, 372, and District of Columbia Code, 1940 ed., §§ 11–203, 11–303 (R.S.D.C., § 752, 18 Stat. pt. II, 90; Feb. 9, 1893, ch. 74, § 3, 27 Stat. 435; Mar. 3, 1901, ch. 854, § 223, 31 Stat. 1224; Mar. 3, 1911, ch. 231, §§ 136, 137, 257, 36 Stat. 1135, 1161; Feb. 25, 1919, ch. 29, § 4, 40 Stat. 1157).
 
 This section consolidates sections 11–203 and 11–303 of District of Columbia Code, 1940 ed., and section 372 of title 28, U.S.C., 1940 ed., with that portion of section 241 of said title 28 providing that judges of the Court of Claims shall take an oath of office. The remainder of said section 241 comprises sections 171 and 173 of this title.
 
@@ -171,7 +171,7 @@ The Attorney General has ruled that the expression “any judge of any court of 
 
 Amendment by Pub. L. 101–650 effective 90 days after Dec. 1, 1990, see section 407 of Pub. L. 101–650, set out as a note under section 332 of this title.
 
-## § 454. Practice of law by justices and judges
+## § 454. Practice of law by justices and judges
 
 Any justice or judge appointed under the authority of the United States who engages in the practice of law is guilty of a high misdemeanor.
 
@@ -179,11 +179,11 @@ Any justice or judge appointed under the authority of the United States who enga
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 373 (Mar. 3, 1911, ch. 231, § 258, 36 Stat. 1161).
+Based on title 28, U.S.C., 1940 ed., § 373 (Mar. 3, 1911, ch. 231, § 258, 36 Stat. 1161).
 
 Changes in phraseology were made.
 
-## § 455. Disqualification of justice, judge, or magistrate judge
+## § 455. Disqualification of justice, judge, or magistrate judge
 
 **(a)** Any justice, judge, or magistrate judge of the United States shall disqualify himself in any proceeding in which his impartiality might reasonably be questioned.
 
@@ -231,11 +231,11 @@ Changes in phraseology were made.
 
 **(f)** Notwithstanding the preceding provisions of this section, if any justice, judge, magistrate judge, or bankruptcy judge to whom a matter has been assigned would be disqualified, after substantial judicial time has been devoted to the matter, because of the appearance or discovery, after the matter was assigned to him or her, that he or she individually or as a fiduciary, or his or her spouse or minor child residing in his or her household, has a financial interest in a party (other than an interest that could be substantially affected by the outcome), disqualification is not required if the justice, judge, magistrate judge, bankruptcy judge, spouse or minor child, as the case may be, divests himself or herself of the interest that provides the grounds for the disqualification.
 
-(June 25, 1948, ch. 646, 62 Stat. 908; Pub. L. 93–512, § 1, Dec. 5, 1974, 88 Stat. 1609; Pub. L. 95–598, title II, § 214(a), (b), Nov. 6, 1978, 92 Stat. 2661; Pub. L. 100–702, title X, § 1007, Nov. 19, 1988, 102 Stat. 4667; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 646, 62 Stat. 908; Pub. L. 93–512, § 1, Dec. 5, 1974, 88 Stat. 1609; Pub. L. 95–598, title II, § 214(a), (b), Nov. 6, 1978, 92 Stat. 2661; Pub. L. 100–702, title X, § 1007, Nov. 19, 1988, 102 Stat. 4667; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 24 (Mar. 3, 1911, ch. 231, § 20, 36 Stat. 1090).
+Based on title 28, U.S.C., 1940 ed., § 24 (Mar. 3, 1911, ch. 231, § 20, 36 Stat. 1090).
 
 Section 24 of title 28, U.S.C., 1940 ed., applied only to district judges. The revised section is made applicable to all justices and judges of the United States.
 
@@ -269,9 +269,9 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub.
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–512, § 3, Dec. 5, 1974, 88 Stat. 1610, provided that: “This Act [amending this section] shall not apply to the trial of any proceeding commenced prior to the date of this Act [Dec. 5, 1974], nor to appellate review of any proceeding which was fully submitted to the reviewing court prior to the date of this Act.”
+Pub. L. 93–512, § 3, Dec. 5, 1974, 88 Stat. 1610, provided that: “This Act [amending this section] shall not apply to the trial of any proceeding commenced prior to the date of this Act [Dec. 5, 1974], nor to appellate review of any proceeding which was fully submitted to the reviewing court prior to the date of this Act.”
 
-## § 456. Traveling expenses of justices and judges; official duty stations
+## § 456. Traveling expenses of justices and judges; official duty stations
 
 **(a)** The Director of the Administrative Office of the United States Courts shall pay each justice or judge of the United States, and each retired justice or judge recalled or designated and assigned to active duty, while attending court or transacting official business at a place other than his official duty station for any continuous period of less than thirty calendar days (1) all necessary transportation expenses certified by the justice or judge; and (2) payments for subsistence expenses at rates or in amounts which the Director establishes, in accordance with regulations which the Director shall prescribe with the approval of the Judicial Conference of the United States and after considering the rates or amounts set by the Administrator of General Services and the President pursuant to section 5702 of title 5. The Director of the Administrative Office of the United States Courts shall also pay each justice or judge of the United States, and each retired justice or judge recalled or designated and assigned to active duty, while attending court or transacting official business under an assignment authorized under chapter 13 of this title which exceeds in duration a continuous period of thirty calendar days, all necessary transportation expenses and actual and necessary expenses of subsistence actually incurred, notwithstanding the provisions of section 5702 of title 5, in accordance with regulations which the Director shall prescribe with the approval of the Judicial Conference of the United States.
 
@@ -287,11 +287,11 @@ Pub. L. 93–512, § 3, Dec. 5, 1974, 88 Stat. 1610, provided that: “This Ac
 
 **(g)** Each circuit or district judge whose official duty station is not fixed expressly by this section shall notify the Director of the Administrative Office of the United States Courts in writing of his actual abode and official duty station upon his appointment and from time to time thereafter as his official duty station may change.
 
-(June 25, 1948, ch. 646, 62 Stat. 908; Aug. 8, 1953, ch. 376, 67 Stat. 488; Pub. L. 86–138, Aug. 7, 1959, 73 Stat. 285; Pub. L. 95–598, title II, § 215, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 96–417, title V, § 501(11), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, § 115(a)(1), Apr. 2, 1982, 96 Stat. 30; Pub. L. 99–234, title I, § 107(d), Jan. 2, 1986, 99 Stat. 1759.)
+(June 25, 1948, ch. 646, 62 Stat. 908; Aug. 8, 1953, ch. 376, 67 Stat. 488; Pub. L. 86–138, Aug. 7, 1959, 73 Stat. 285; Pub. L. 95–598, title II, § 215, Nov. 6, 1978, 92 Stat. 2661; Pub. L. 96–417, title V, § 501(11), Oct. 10, 1980, 94 Stat. 1742; Pub. L. 97–164, title I, § 115(a)(1), Apr. 2, 1982, 96 Stat. 30; Pub. L. 99–234, title I, § 107(d), Jan. 2, 1986, 99 Stat. 1759.)
 
 **Historical and Revision Notes**
 
-Based on section 1102(d) of title 26, U.S.C., 1940 ed., Internal Revenue Code, and title 28, U.S.C., 1940 ed., §§ 218, 270, 296, 296a, 302, 374, 449 (Mar. 3, 1911, ch. 231, §§ 189, 259, 36 Stat. 1143, 1161, and § 187(a) as added Oct. 10, 1940, ch. 843, § 1, 54 Stat. 1101; and section 307 as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1224; Sept. 14, 1922, ch. 306, § 2, 42 Stat. 838; Feb. 24, 1925, ch. 301, § 2, 43 Stat. 965; May 29, 1928, ch. 852, § 711, 45 Stat. 882; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475; June 23, 1930, ch. 573, § 1, 46 Stat. 799; Feb. 10, 1939, ch. 2, § 1102(d), 53 Stat. 159; Apr. 22, 1940, ch. 126, 54 Stat. 149; May 3, 1945, ch. 106, title I, § 1, 59 Stat. 127; May 21, 1945, ch. 129, title IV, 59 Stat. 197; July 5, 1946, ch. 541, title IV, 60 Stat. 477).
+Based on section 1102(d) of title 26, U.S.C., 1940 ed., Internal Revenue Code, and title 28, U.S.C., 1940 ed., §§ 218, 270, 296, 296a, 302, 374, 449 (Mar. 3, 1911, ch. 231, §§ 189, 259, 36 Stat. 1143, 1161, and § 187(a) as added Oct. 10, 1940, ch. 843, § 1, 54 Stat. 1101; and section 307 as added Aug. 7, 1939, ch. 501, § 1, 53 Stat. 1224; Sept. 14, 1922, ch. 306, § 2, 42 Stat. 838; Feb. 24, 1925, ch. 301, § 2, 43 Stat. 965; May 29, 1928, ch. 852, § 711, 45 Stat. 882; Mar. 2, 1929, ch. 488, § 1, 45 Stat. 1475; June 23, 1930, ch. 573, § 1, 46 Stat. 799; Feb. 10, 1939, ch. 2, § 1102(d), 53 Stat. 159; Apr. 22, 1940, ch. 126, 54 Stat. 149; May 3, 1945, ch. 106, title I, § 1, 59 Stat. 127; May 21, 1945, ch. 129, title IV, 59 Stat. 197; July 5, 1946, ch. 541, title IV, 60 Stat. 477).
 
 Section 270 of title 28, U.S.C., 1940 ed., related to the Chief Justice and each judge of the Court of Claims and provided for payment of expenses on order of court.
 
@@ -327,7 +327,7 @@ Numerous changes were made in phraseology.
 
 Those provisions of this section which related to the Tax Court were eliminated by Senate amendment, therefore section 1102(d) of title 26, U.S.C., was not one of the sources of this section as finally enacted.
 
-As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 303, which was classified to title 28, U.S.C., 1946 ed., § 296a, became one of the sources of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
+As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 303, which was classified to title 28, U.S.C., 1946 ed., § 296a, became one of the sources of this section and was accordingly included in the schedule of repeals by Senate amendment. See 80th Congress Senate Report No. 1559.
 
 **Editorial Notes**
 
@@ -335,7 +335,7 @@ As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 303, w
 
 1986—Subsec. (a). Pub. L. 99–234 substituted “payments for subsistence expenses at rates or in amounts which the Director establishes, in accordance with regulations which the Director shall prescribe with the approval of the Judicial Conference of the United States and after considering the rates or amounts set by the Administrator of General Services and the President pursuant to section 5702 of title 5” for “a per diem allowance for travel at the rate which the Director establishes not to exceed the maximum per diem allowance fixed by section 5702(a) of title 5, or in accordance with regulations which the Director shall prescribe with the approval of the Judicial Conference of the United States, reimbursement for his actual and necessary expenses of subsistence not in excess of the maximum amount fixed by section 5702 of title 5”.
 
-1982—Pub. L. 97–164 inserted “; official duty stations” in section catchline.
+1982—Pub. L. 97–164 inserted “; official duty stations” in section catchline.
 
 Subsec. (a). Pub. L. 97–164 designated existing undesignated first par. as subsec. (a), substituted “The Director of the Administrative Office of the United States Courts shall pay each justice or judge of the United States, and each retired justice or judge recalled or designated and assigned to active duty, while attending court or transacting official business at a place other than his official duty station for any continuous period of less than thirty calendar days (1) all necessary transportation expenses certified by the justice or judge; and (2) a per diem allowance for travel at the rate which the Director establishes not to exceed the maximum per diem allowance fixed by section 5702(a) of title 5, or in accordance with regulations which the Director shall prescribe with the approval of the Judicial Conference of the United States, reimbursement for his actual and necessary expenses of subsistence not in excess of the maximum amount fixed by section 5702 of title 5” for “Each Justice or judge of the United States and each retired Justice or judge recalled or designated and assigned to active duty, while attending court or transacting official business at a place other than his official station, shall, upon his certificate, be paid by the Director of the Administrative Office of the United States Courts all necessary traveling expenses, and also a per diem allowance in lieu of actual expenses of subsistence (as defined in the Travel Expense Act of 1949, as amended, 63 Stat. 166; 5 U.S.C. 835) at the per diem rate provided for by the Travel Expense Act of 1949, as amended, or, in accordance with regulations prescribed by the Director of the Administrative Office of the United States Courts with the approval of the Judicial Conference of the United States, reimbursement for his actual expenses of subsistence not in excess of the maximum amount fixed by the Travel Expense Act of 1949, as amended”, and inserted “The Director of the Administrative Office of the United States Courts shall also pay each justice or judge of the United States, and each retired justice or judge recalled or designated and assigned to active duty, while attending court or transacting official business under an assignment authorized under chapter 13 of this title which exceeds in duration a continuous period of thirty calendar days, all necessary transportation expenses and actual and necessary expenses of subsistence actually incurred, notwithstanding the provisions of section 5702 of title 5, in accordance with regulations which the Director shall prescribe with the approval of the Judicial Conference of the United States.”
 
@@ -373,23 +373,23 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 **Report on Transportation Needs**
 
-Pub. L. 99–550, § 3, Oct. 27, 1986, 100 Stat. 3070, directed Director of Administrative Office of United States Courts, within one year after Oct. 27, 1986, to prepare, in consultation with Marshal of Supreme Court of United States, Clerk of United States Court of Military Appeals, and Court Administrator of United States Tax Court, and transmit to Congress, appropriate recommendations concerning transportation needs of judicial branch and of courts established pursuant to Article I of the Constitution.
+Pub. L. 99–550, § 3, Oct. 27, 1986, 100 Stat. 3070, directed Director of Administrative Office of United States Courts, within one year after Oct. 27, 1986, to prepare, in consultation with Marshal of Supreme Court of United States, Clerk of United States Court of Military Appeals, and Court Administrator of United States Tax Court, and transmit to Congress, appropriate recommendations concerning transportation needs of judicial branch and of courts established pursuant to Article I of the Constitution.
 
 **Promulgation of Regulations by Director**
 
 Director to promulgate regulations effectuating increases in reimbursement for expenses, see section 6 of Pub. L. 87–139, Aug. 14, 1961, 75 Stat. 340, set out as a note under section 604 of this title.
 
-## § 457. Records; obsolete papers
+## § 457. Records; obsolete papers
 
 The records of district courts and of courts of appeals shall be kept at one or more of the places where court is held. Such places shall be designated by the respective courts except when otherwise directed by the judicial council of the circuit.
 
 Papers of any court established by Act of Congress which have become obsolete and are no longer necessary or useful, may be disposed of with the approval of the court concerned in the manner provided by sections 366–380 of Title 44 and in accordance with the rules of the Judicial Conference of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 908; Pub. L. 95–598, title II, § 216, Nov. 6, 1978, 92 Stat. 2661.)
+(June 25, 1948, ch. 646, 62 Stat. 908; Pub. L. 95–598, title II, § 216, Nov. 6, 1978, 92 Stat. 2661.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 10, 523a, 523b, (Mar. 3, 1911, ch. 231, § 6, 36 Stat. 1088; June 3, 1930, ch. 396, §§ 1, 2, 46 Stat. 496).
+Based on title 28, U.S.C., 1940 ed., §§ 10, 523a, 523b, (Mar. 3, 1911, ch. 231, § 6, 36 Stat. 1088; June 3, 1930, ch. 396, §§ 1, 2, 46 Stat. 496).
 
 Section consolidates and simplifies sections 10, 523a and 523b of title 28, U.S.C., 1940 ed., relating to filing district court records and destroying obsolete papers and bankruptcy proofs of claims.
 
@@ -407,13 +407,13 @@ Substantial changes were made in phraseology and arrangement.
 
 **References in Text**
 
-Sections 366–380 of Title 44, referred to in text, were repealed and the provisions thereof reenacted as chapter 33 (§ 3301 et seq.) of Title 44, Public Printing and Documents, by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238.
+Sections 366–380 of Title 44, referred to in text, were repealed and the provisions thereof reenacted as chapter 33 (§ 3301 et seq.) of Title 44, Public Printing and Documents, by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238.
 
 **Amendments**
 
 1978—Pub. L. 95–598 directed the amendment of section by inserting “of bankruptcy courts,” after “The record”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 458. Relative of justice or judge ineligible to appointment
+## § 458. Relative of justice or judge ineligible to appointment
 
 **(a)**
 
@@ -439,11 +439,11 @@ Sections 366–380 of Title 44, referred to in text, were repealed and the provi
 
 **(2)** No person may be appointed to the position of judge of a court exercising judicial power under article III of the United States Constitution (other than the Supreme Court) who is related by affinity or consanguinity within the degree of first cousin to any judge who is a member of the same court.
 
-(June 25, 1948, ch. 646, 62 Stat. 908; Pub. L. 105–300, § 1(a), Oct. 27, 1998, 112 Stat. 2836.)
+(June 25, 1948, ch. 646, 62 Stat. 908; Pub. L. 105–300, § 1(a), Oct. 27, 1998, 112 Stat. 2836.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 126 (Mar. 3, 1887, ch. 373, § 7, 24 Stat. 555; Aug. 13, 1888, ch. 866, § 7, 25 Stat. 437; Mar. 3, 1911, ch. 231, § 67, 36 Stat. 1105; Dec. 21, 1911, ch. 4, 37 Stat. 46).
+Based on title 28, U.S.C., 1940 ed., § 126 (Mar. 3, 1887, ch. 373, § 7, 24 Stat. 555; Aug. 13, 1888, ch. 866, § 7, 25 Stat. 437; Mar. 3, 1911, ch. 231, § 67, 36 Stat. 1105; Dec. 21, 1911, ch. 4, 37 Stat. 46).
 
 A provision referring to circuit court employees as of December 21, 1911, was omitted as obsolete.
 
@@ -459,9 +459,9 @@ Changes in phraseology were made.
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–300, § 1(b), Oct. 27, 1998, 112 Stat. 2837, provided that: “This Act [amending this section] shall take effect on the date of enactment of this Act [Oct. 27, 1998] and shall apply only to any individual whose nomination is submitted to the Senate on or after such date.”
+Pub. L. 105–300, § 1(b), Oct. 27, 1998, 112 Stat. 2837, provided that: “This Act [amending this section] shall take effect on the date of enactment of this Act [Oct. 27, 1998] and shall apply only to any individual whose nomination is submitted to the Senate on or after such date.”
 
-## § 459. Administration of oaths and acknowledgments
+## § 459. Administration of oaths and acknowledgments
 
 Each justice or judge of the United States may administer oaths and affirmations and take acknowledgments.
 
@@ -469,7 +469,7 @@ Each justice or judge of the United States may administer oaths and affirmations
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., §§ 264, 385, section 1509 of title 19, U.S.C., 1940 ed., Customs Duties, and section 1114(a) of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1911, ch. 231, §§ 158, 268, 36 Stat. 1139, 1163; June 17, 1930, ch. 497, title IV, § 509, 46 Stat. 733; Feb. 10, 1939, ch. 2, § 1114(a), 53 Stat. 160; Oct. 21, 1942, ch. 619, title V, § 504(a), (c), 56 Stat. 957; Feb. 25, 1944, ch. 63, title V, § 503, 58 Stat. 72).
+Based on title 28, U.S.C., 1940 ed., §§ 264, 385, section 1509 of title 19, U.S.C., 1940 ed., Customs Duties, and section 1114(a) of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1911, ch. 231, §§ 158, 268, 36 Stat. 1139, 1163; June 17, 1930, ch. 497, title IV, § 509, 46 Stat. 733; Feb. 10, 1939, ch. 2, § 1114(a), 53 Stat. 160; Oct. 21, 1942, ch. 619, title V, § 504(a), (c), 56 Stat. 957; Feb. 25, 1944, ch. 63, title V, § 503, 58 Stat. 72).
 
 Section consolidates provisions of sections 264 and 385 of title 28, U.S.C., 1940 ed., section 1509 of title 19, U.S.C., 1940 ed., and section 1114(a) of title 26, U.S.C., 1940 ed., relating to administration of oaths and acknowledgments by judges and courts.
 
@@ -487,13 +487,13 @@ The revised section clarifies what was apparently a statutory omission in that n
 
 By Senate amendment, all provisions relating to the Tax Court were eliminated, therefore, as finally enacted, section 1114(a) of Title 26, U.S.C., Internal Revenue Code, did not constitute part of the source of this section. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
 
-## § 460. Application to other courts
+## § 460. Application to other courts
 
 **(a)** Sections 452 through 459 and section 462 of this chapter shall also apply to the United States Court of Federal Claims, to each court created by Act of Congress in a territory which is invested with any jurisdiction of a district court of the United States, and to the judges thereof.
 
 **(b)** The official duty station of each judge referred to in subsection (a) which is not otherwise established by law shall be that place where the court holds regular sessions at or near which the judge performs a substantial portion of his judicial work, which is nearest the place where he maintains his actual abode in which he customarily lives.
 
-(June 25, 1948, ch. 646, 62 Stat. 908; Oct. 31, 1951, ch. 655, § 43(a), 65 Stat. 725; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, § 217(a), Nov. 6, 1978, 92 Stat. 2661; Pub. L. 97–164, title I, § 115(b)(1), Apr. 2, 1982, 96 Stat. 31; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 908; Oct. 31, 1951, ch. 655, § 43(a), 65 Stat. 725; Pub. L. 85–508, § 12(e), July 7, 1958, 72 Stat. 348; Pub. L. 95–598, title II, § 217(a), Nov. 6, 1978, 92 Stat. 2661; Pub. L. 97–164, title I, § 115(b)(1), Apr. 2, 1982, 96 Stat. 31; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
@@ -511,7 +511,7 @@ This section was included to make clear that the provisions of this chapter are 
 
 1958—Pub. L. 85–508 struck out provisions which made sections 452 to 459 applicable to the District Court for the Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-1951—Act Oct. 31, 1951, inserted “, Guam” in section catchline, and inserted reference to the District Court of Guam in text.
+1951—Act Oct. 31, 1951, inserted “, Guam” in section catchline, and inserted reference to the District Court of Guam in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -531,7 +531,7 @@ Amendment by Pub. L. 95–598 effective Nov. 6, 1978, see section 402(d) of Pub.
 
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
-## § 461. Adjustments in certain salaries
+## § 461. Adjustments in certain salaries
 
 **(a)**
 
@@ -541,7 +541,7 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, upon admission of Alaska i
 
 **(b)** Subsection (a) shall not apply to the extent it would reduce the salary of any individual whose compensation may not, under section 1 of article III of the Constitution of the United States, be diminished during such individual’s continuance in office.
 
-(Added Pub. L. 94–82, title II, § 205(a)(1), Aug. 9, 1975, 89 Stat. 422; amended Pub. L. 101–194, title VII, § 704(a)(2)(A), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(J)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 103–356, title I, § 101(4), Oct. 13, 1994, 108 Stat. 3411.)
+(Added Pub. L. 94–82, title II, § 205(a)(1), Aug. 9, 1975, 89 Stat. 422; amended Pub. L. 101–194, title VII, § 704(a)(2)(A), Nov. 30, 1989, 103 Stat. 1769; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(4)(J)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 103–356, title I, § 101(4), Oct. 13, 1994, 108 Stat. 3411.)
 
 **Editorial Notes**
 
@@ -563,11 +563,11 @@ Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a)(1
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–356, title I, § 101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by that section is effective as of Dec. 31, 1994.
+Pub. L. 103–356, title I, § 101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by that section is effective as of Dec. 31, 1994.
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 **Effective Date of 1989 Amendment**
 
@@ -575,57 +575,57 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub
 
 **References to “this Act” in Div. D of Pub. L. 111–8**
 
-Pub. L. 111–8, div. D, title VII, § 750, Mar. 11, 2009, 123 Stat. 693, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any title other than title IV [123 Stat. 649] or VIII [123 Stat. 695] shall not apply to such title IV or VIII.”
+Pub. L. 111–8, div. D, title VII, § 750, Mar. 11, 2009, 123 Stat. 693, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any title other than title IV [123 Stat. 649] or VIII [123 Stat. 695] shall not apply to such title IV or VIII.”
 
 **References to “this Act” in Div. D of Pub. L. 110–161**
 
-Pub. L. 110–161, div. D, title VII, § 749, Dec. 26, 2007, 121 Stat. 2035, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any title other than title IV [121 Stat. 1990] or VIII [121 Stat. 2035] shall not apply to such title IV or VIII.”
+Pub. L. 110–161, div. D, title VII, § 749, Dec. 26, 2007, 121 Stat. 2035, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any title other than title IV [121 Stat. 1990] or VIII [121 Stat. 2035] shall not apply to such title IV or VIII.”
 
 **Salary Adjustments**
 
-Pub. L. 111–8, div. D, title III, § 310, Mar. 11, 2009, 123 Stat. 649, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], and from funds appropriated in this Act [div. D of Pub. L. 111–8, see Tables for classification and see section 750 of Pub. L. 111–8, set out as a note above], Justices and judges of the United States are authorized during fiscal year 2009, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
+Pub. L. 111–8, div. D, title III, § 310, Mar. 11, 2009, 123 Stat. 649, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], and from funds appropriated in this Act [div. D of Pub. L. 111–8, see Tables for classification and see section 750 of Pub. L. 111–8, set out as a note above], Justices and judges of the United States are authorized during fiscal year 2009, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
-Pub. L. 110–161, div. D, title III, § 305, Dec. 26, 2007, 121 Stat. 1989, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], and from funds appropriated in this Act [div. D of Pub. L. 110–161, see Tables for classification and see section 749 of Pub. L. 110–161, set out as a note above], Justices and judges of the United States are authorized during fiscal year 2008, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
+Pub. L. 110–161, div. D, title III, § 305, Dec. 26, 2007, 121 Stat. 1989, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], and from funds appropriated in this Act [div. D of Pub. L. 110–161, see Tables for classification and see section 749 of Pub. L. 110–161, set out as a note above], Justices and judges of the United States are authorized during fiscal year 2008, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
-Pub. L. 109–115, div. A, title IV, § 405, Nov. 30, 2005, 119 Stat. 2470, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], and from funds appropriated in this Act [div. A of Pub. L. 109–115, see Tables for classification], Justices and judges of the United States are authorized during fiscal year 2006, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
+Pub. L. 109–115, div. A, title IV, § 405, Nov. 30, 2005, 119 Stat. 2470, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], and from funds appropriated in this Act [div. A of Pub. L. 109–115, see Tables for classification], Justices and judges of the United States are authorized during fiscal year 2006, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
-Pub. L. 108–491, § 1, Dec. 23, 2004, 118 Stat. 3973, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 2005 to receive a salary adjustment in accordance with section 461 of title 28, United States Code.”
+Pub. L. 108–491, § 1, Dec. 23, 2004, 118 Stat. 3973, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 2005 to receive a salary adjustment in accordance with section 461 of title 28, United States Code.”
 
-Pub. L. 108–447, div. B, title III, § 306, Dec. 8, 2004, 118 Stat. 2895, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], and from funds appropriated in this Act [div. B of Pub. L. 108–447, see Tables for classification], Justices and judges of the United States are authorized during fiscal year 2005, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
+Pub. L. 108–447, div. B, title III, § 306, Dec. 8, 2004, 118 Stat. 2895, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], and from funds appropriated in this Act [div. B of Pub. L. 108–447, see Tables for classification], Justices and judges of the United States are authorized during fiscal year 2005, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
 Pub. L. 108–167, Dec. 6, 2003, 117 Stat. 2031, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 2004 to receive a salary adjustment in accordance with section 461 of title 28, United States Code.”
 
-Pub. L. 108–6, § 1, Feb. 13, 2003, 117 Stat. 10, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 2003 to receive a salary adjustment in accordance with section 461 of title 28, United States Code.”
+Pub. L. 108–6, § 1, Feb. 13, 2003, 117 Stat. 10, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 2003 to receive a salary adjustment in accordance with section 461 of title 28, United States Code.”
 
-Pub. L. 107–77, title III, § 305, Nov. 28, 2001, 115 Stat. 783, provided in part that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 2002, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
+Pub. L. 107–77, title III, § 305, Nov. 28, 2001, 115 Stat. 783, provided in part that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 2002, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
 
-Pub. L. 106–553, § 1(a)(2) [title III, § 309], Dec. 21, 2000, 114 Stat. 2762, 2762A–89, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 2001, to receive a salary adjustment in accordance with 28 U.S.C. 461, only if for the purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 [Pub. L. 101–194] (5 U.S.C. 5318 note), adjustments under section 5303 of title 5, United States Code, shall take effect in fiscal year 2001”.
+Pub. L. 106–553, § 1(a)(2) [title III, § 309], Dec. 21, 2000, 114 Stat. 2762, 2762A–89, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 2001, to receive a salary adjustment in accordance with 28 U.S.C. 461, only if for the purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 [Pub. L. 101–194] (5 U.S.C. 5318 note), adjustments under section 5303 of title 5, United States Code, shall take effect in fiscal year 2001”.
 
-Pub. L. 106–113, div. B, § 1000(a)(1) [title III, § 304], Nov. 29, 1999, 113 Stat. 1535, 1501A–36, provided in part that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 2000, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
+Pub. L. 106–113, div. B, § 1000(a)(1) [title III, § 304], Nov. 29, 1999, 113 Stat. 1535, 1501A–36, provided in part that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 2000, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
 
-Pub. L. 105–119, title III, § 306, Nov. 26, 1997, 111 Stat. 2493, provided in part that: “Pursuant to section 140 of Public Law 97–92 [set out below], justices and judges of the United States are authorized during fiscal year 1998, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
+Pub. L. 105–119, title III, § 306, Nov. 26, 1997, 111 Stat. 2493, provided in part that: “Pursuant to section 140 of Public Law 97–92 [set out below], justices and judges of the United States are authorized during fiscal year 1998, to receive a salary adjustment in accordance with 28 U.S.C. 461”.
 
-Pub. L. 102–395, title III, § 304, Oct. 6, 1992, 106 Stat. 1859, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 1993, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
+Pub. L. 102–395, title III, § 304, Oct. 6, 1992, 106 Stat. 1859, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 1993, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
-Pub. L. 102–140, title III, § 305, Oct. 28, 1991, 105 Stat. 810, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 1992, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
+Pub. L. 102–140, title III, § 305, Oct. 28, 1991, 105 Stat. 810, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during fiscal year 1992, to receive a salary adjustment in accordance with 28 U.S.C. 461.”
 
-Pub. L. 101–520, title III, § 321, Nov. 5, 1990, 104 Stat. 2285, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during calendar year 1991 to receive a salary adjustment in accordance with 28 U.S.C. section 461.”
+Pub. L. 101–520, title III, § 321, Nov. 5, 1990, 104 Stat. 2285, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], Justices and judges of the United States are authorized during calendar year 1991 to receive a salary adjustment in accordance with 28 U.S.C. section 461.”
 
-Pub. L. 101–194, title VII, § 703(a)(3), Nov. 30, 1989, 103 Stat. 1768, set out as a note under section 5318 of Title 5, Government Organization and Employees, provided that effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
+Pub. L. 101–194, title VII, § 703(a)(3), Nov. 30, 1989, 103 Stat. 1768, set out as a note under section 5318 of Title 5, Government Organization and Employees, provided that effective the first day of the first applicable pay period that begins on or after January 1, 1991, the rate of basic pay for the Chief Justice of the United States, an associate justice of the Supreme Court of the United States, a judge of a United States circuit court, a judge of a district court of the United States, and a judge of the United States Court of International Trade shall be increased in the amount of 25 percent of their respective rates (as last in effect before the increase), rounded to the nearest multiple of $100 (or, if midway between multiples of $100, to the next higher multiple of $100).
 
 For purposes of section 140 of Pub. L. 97–92 (set out below), appropriate salary increases were authorized for Federal judges and Justices of the Supreme Court pursuant to section 702(a) of Pub. L. 101–194 which provided that effective for pay periods beginning on or after Nov. 30, 1989, the rate of basic pay for any office or position in the judicial branch of the Government shall be determined as if section 620(b) of Pub. L. 100–440 (5 U.S.C. 5303 note) and section 619(b) of Pub. L. 101–136 (5 U.S.C. 5303 note) had never been enacted, see section 702 of Pub. L. 101–194, set out as a note under section 5303 of Title 5.
 
-Pub. L. 100–202, § 101(a) [title IV, § 406], Dec. 22, 1987, 101 Stat. 1329, 1329–26, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], during fiscal year 1988, justices and judges of the United States shall receive the same percentage increase in salary accorded to employees paid under the General Schedule (pursuant to 5 U.S.C. 5305).”
+Pub. L. 100–202, § 101(a) [title IV, § 406], Dec. 22, 1987, 101 Stat. 1329, 1329–26, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], during fiscal year 1988, justices and judges of the United States shall receive the same percentage increase in salary accorded to employees paid under the General Schedule (pursuant to 5 U.S.C. 5305).”
 
-Pub. L. 99–500, § 101(b) [title IV, § 406], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, § 101(b) [title IV, § 406], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], during fiscal year 1987, justices and judges of the United States shall receive the same percentage increase in salary accorded to employees paid under the General Schedule (pursuant to 5 U.S.C. 5305).”
+Pub. L. 99–500, § 101(b) [title IV, § 406], Oct. 18, 1986, 100 Stat. 1783–39, 1783–64, and Pub. L. 99–591, § 101(b) [title IV, § 406], Oct. 30, 1986, 100 Stat. 3341–39, 3341–64, provided that: “Pursuant to section 140 of Public Law 97–92 [set out below], during fiscal year 1987, justices and judges of the United States shall receive the same percentage increase in salary accorded to employees paid under the General Schedule (pursuant to 5 U.S.C. 5305).”
 
-Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 310, provided in part that: “Effective on the first day of the first applicable pay period commencing on or after January 1, 1985, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overall percentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule during fiscal year 1985.”
+Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 310, provided in part that: “Effective on the first day of the first applicable pay period commencing on or after January 1, 1985, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overall percentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule during fiscal year 1985.”
 
-Pub. L. 98–369, div. B, title II, § 2207, July 18, 1984, 98 Stat. 1060, provided that: “Effective on the first day of the first applicable pay period commencing on or after January 1, 1984, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overall percentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule during fiscal year 1984.”
+Pub. L. 98–369, div. B, title II, § 2207, July 18, 1984, 98 Stat. 1060, provided that: “Effective on the first day of the first applicable pay period commencing on or after January 1, 1984, each rate of pay subject to adjustment by section 461 of title 28, United States Code, shall be increased by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the overall percentage of the adjustment taking effect under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule during fiscal year 1984.”
 
 **Specific Congressional Authorization Required for Salary Increases for Federal Judges and Justices of the Supreme Court**
 
-Pub. L. 97–92, § 140, Dec. 15, 1981, 95 Stat. 1200, as amended by Pub. L. 107–77, title VI, § 625, Nov. 28, 2001, 115 Stat. 803, provided that: “Notwithstanding any other provision of law or of this joint resolution [Pub. L. 97–92], none of the funds appropriated by this joint resolution or by any other Act shall be obligated or expended to increase, after the date of enactment of this joint resolution [Dec. 15, 1981], any salary of any Federal judge or Justice of the Supreme Court, except as may be specifically authorized by Act of Congress hereafter enacted: *Provided*, That nothing in this limitation shall be construed to reduce any salary which may be in effect at the time of enactment of this joint resolution nor shall this limitation be construed in any manner to reduce the salary of any Federal judge or of any Justice of the Supreme Court. This section shall apply to fiscal year 1981 and each fiscal year thereafter.”
+Pub. L. 97–92, § 140, Dec. 15, 1981, 95 Stat. 1200, as amended by Pub. L. 107–77, title VI, § 625, Nov. 28, 2001, 115 Stat. 803, provided that: “Notwithstanding any other provision of law or of this joint resolution [Pub. L. 97–92], none of the funds appropriated by this joint resolution or by any other Act shall be obligated or expended to increase, after the date of enactment of this joint resolution [Dec. 15, 1981], any salary of any Federal judge or Justice of the Supreme Court, except as may be specifically authorized by Act of Congress hereafter enacted: *Provided*, That nothing in this limitation shall be construed to reduce any salary which may be in effect at the time of enactment of this joint resolution nor shall this limitation be construed in any manner to reduce the salary of any Federal judge or of any Justice of the Supreme Court. This section shall apply to fiscal year 1981 and each fiscal year thereafter.”
 
 **Salary Rate Limitations on Use of Funds**
 
@@ -641,9 +641,9 @@ Pub. L. 97–92, § 140, Dec. 15, 1981, 95 Stat. 1200, as amended by Pub. L. 1
 
 **1977 Comparability Adjustment Not Effective for Justices, Judges, Commissioners, and Referees**
 
-Pub. L. 95–66, § 1(3), July 11, 1977, 91 Stat. 270, set out as a note under section 5318 of Title 5, Government Organization and Employees, provided that the first adjustment which, but for the enactment of Pub. L. 95–66, would have been made in the salary and rate of pay of justices, judges, commissioners, and referees under this section after July 11, 1977, would not take effect.
+Pub. L. 95–66, § 1(3), July 11, 1977, 91 Stat. 270, set out as a note under section 5318 of Title 5, Government Organization and Employees, provided that the first adjustment which, but for the enactment of Pub. L. 95–66, would have been made in the salary and rate of pay of justices, judges, commissioners, and referees under this section after July 11, 1977, would not take effect.
 
-## § 462. Court accommodations
+## § 462. Court accommodations
 
 **(a)** Sessions of courts of the United States (except the Supreme Court) shall be held only at places where the Director of the Administrative Office of the United States Courts provides accommodations, or where suitable accommodations are furnished without cost to the judicial branch.
 
@@ -657,7 +657,7 @@ Pub. L. 95–66, § 1(3), July 11, 1977, 91 Stat. 270, set out as a note under
 
 **(f)** Upon the request of the Director, the Administrator of General Services is authorized and directed to provide the accommodations the Director requests, and to close accommodations which the Director recommends for closure with the approval of the Judicial Conference of the United States.
 
-(Added Pub. L. 97–164, title I, § 115(c)(1), Apr. 2, 1982, 96 Stat. 31; amended Pub. L. 100–702, title X, § 1015, Nov. 19, 1988, 102 Stat. 4669; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 97–164, title I, § 115(c)(1), Apr. 2, 1982, 96 Stat. 31; amended Pub. L. 100–702, title X, § 1015, Nov. 19, 1988, 102 Stat. 4669; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -677,11 +677,11 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Section effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.
 
-## § 463. Expenses of litigation
+## § 463. Expenses of litigation
 
 Whenever a Chief Justice, justice, judge, officer, or employee of any United States court is sued in his official capacity, or is otherwise required to defend acts taken or omissions made in his official capacity, and the services of an attorney for the Government are not reasonably available pursuant to chapter 31 of this title, the Director of the Administrative Office of the United States Courts may pay the costs of his defense. The Director shall prescribe regulations for such payments subject to the approval of the Judicial Conference of the United States.
 
-(Added Pub. L. 97–164, title I, § 116(a), Apr. 2, 1982, 96 Stat. 32.)
+(Added Pub. L. 97–164, title I, § 116(a), Apr. 2, 1982, 96 Stat. 32.)
 
 **Statutory Notes and Related Subsidiaries**
 

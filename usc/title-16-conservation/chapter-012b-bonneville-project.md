@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 12B—BONNEVILLE PROJECT
 
-## § 832. Completion and maintenance of project; generation of electricity
+## § 832. Completion and maintenance of project; generation of electricity
 
 For the purpose of improving navigation on the Columbia River, and for other purposes incidental thereto, the dam, locks, power plant, and appurtenant works under construction on August 20, 1937, at Bonneville, Oregon and North Bonneville, Washington (called Bonneville project in this chapter), shall be completed, maintained, and operated under the direction of the Secretary of the Army and the supervision of the Chief of Engineers, subject to the provisions of this chapter relating to the powers and duties of the Bonneville power administrator provided for in section 832a(a) of this title (called the administrator in this chapter) respecting the transmission and sale of electric energy generated at said project. The Secretary of the Army shall provide, construct, operate, maintain, and improve at Bonneville project such machinery, equipment, and facilities for the generation of electric energy as the administrator may deem necessary to develop such electric energy as rapidly as markets may be found therefor. The electric energy thus generated and not required for the operation of the dam and locks at such project and the navigation facilities employed in connection therewith shall be delivered to the administrator, for disposition as provided in this chapter.
 
-(Aug. 20, 1937, ch. 720, § 1, 50 Stat. 731; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 20, 1937, ch. 720, § 1, 50 Stat. 731; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -35,7 +35,7 @@ Act Aug. 20, 1937, ch. 720, 50 Stat. 731, which enacted this chapter, is popular
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 832a. General administrative provisions
+## § 832a. General administrative provisions
 
 **(a) Appointment of Administrator; powers and duties**
 
@@ -63,13 +63,13 @@ The administrator is authorized, in the name of the United States, to sell, leas
 
 **(f) Contracts**
 
-Subject only to the provisions of this chapter, the Administrator is authorized to enter into such contracts, agreements, and arrangements, including the amendment, modification, adjustment, or cancelation 1
+Subject only to the provisions of this chapter, the Administrator is authorized to enter into such contracts, agreements, and arrangements, including the amendment, modification, adjustment, or cancelation 1
 
-<sup>1</sup>  So in original. Probably should be “cancellation”.
+<sup>1</sup> So in original. Probably should be “cancellation”.
 
 thereof and the compromise or final settlement of any claim arising thereunder, and to make such expenditures, upon such terms and conditions and in such manner as he may deem necessary.
 
-(Aug. 20, 1937, ch. 720, § 2, 50 Stat. 732; Mar. 6, 1940, ch. 47, §§ 1, 2, 54 Stat. 47; Oct. 23, 1945, ch. 433, §§ 1, 5, 59 Stat. 546, 547; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; 1965 Reorg. Plan No. 4, §§ 11(c), 13(a), eff. July 27, 1965, 30 F.R. 9353, 79 Stat. 1321; Pub. L. 95–91, title III, § 302(a)(1)(D), (2), Aug. 4, 1977, 91 Stat. 578.)
+(Aug. 20, 1937, ch. 720, § 2, 50 Stat. 732; Mar. 6, 1940, ch. 47, §§ 1, 2, 54 Stat. 47; Oct. 23, 1945, ch. 433, §§ 1, 5, 59 Stat. 546, 547; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; 1965 Reorg. Plan No. 4, §§ 11(c), 13(a), eff. July 27, 1965, 30 F.R. 9353, 79 Stat. 1321; Pub. L. 95–91, title III, § 302(a)(1)(D), (2), Aug. 4, 1977, 91 Stat. 578.)
 
 **Editorial Notes**
 
@@ -79,9 +79,9 @@ Provisions of the first par. of subsec. (a) which prescribed the compensation of
 
 **Amendments**
 
-1945—Subsec. (a). Act Oct. 23, 1945, § 5, struck out provisions relating to the appointment and compensation of an Assistant Administrator, chief engineer and general counsel and to the powers and duties of the Assistant Administrator. See section 832i of this title.
+1945—Subsec. (a). Act Oct. 23, 1945, § 5, struck out provisions relating to the appointment and compensation of an Assistant Administrator, chief engineer and general counsel and to the powers and duties of the Assistant Administrator. See section 832i of this title.
 
-Subsec. (f). Act Oct. 23, 1945, § 1, substituted “is authorized to enter into such contracts, agreements, and arrangements, including the amendment, modification, adjustment, or cancelation thereof and the compromise or final settlement of any claim arising thereunder, and to make such expenditures, upon such terms and conditions and in such manner as he may deem necessary” for “is authorized, in the name of the United States, to negotiate and enter into such contracts, agreements, and arrangements as he shall find necessary or appropriate to carry out the purposes of this chapter”.
+Subsec. (f). Act Oct. 23, 1945, § 1, substituted “is authorized to enter into such contracts, agreements, and arrangements, including the amendment, modification, adjustment, or cancelation thereof and the compromise or final settlement of any claim arising thereunder, and to make such expenditures, upon such terms and conditions and in such manner as he may deem necessary” for “is authorized, in the name of the United States, to negotiate and enter into such contracts, agreements, and arrangements as he shall find necessary or appropriate to carry out the purposes of this chapter”.
 
 1940—Subsec. (a). Act Mar. 6, 1940, inserted provisions relating to jurisdiction and functions of administrator.
 
@@ -93,23 +93,23 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Repeals**
 
-Act Mar. 6, 1940, ch. 47, § 1, 54 Stat. 47, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 650.
+Act Mar. 6, 1940, ch. 47, § 1, 54 Stat. 47, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 650.
 
 **Transfer of Functions**
 
-In subsec. (a), “Secretary of Energy” substituted for “Secretary of the Interior” in five places and “Department of Energy” substituted for “Department of the Interior” pursuant to Pub. L. 95–91, § 302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, and which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
+In subsec. (a), “Secretary of Energy” substituted for “Secretary of the Interior” in five places and “Department of Energy” substituted for “Department of the Interior” pursuant to Pub. L. 95–91, § 302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, and which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Provisions of the second sentence of the second par. of subsec. (a), which related to the advisory board and its composition, were omitted pursuant to Reorg. Plan No. 4 of 1965, §§ 11(c) and 13(a), set out in the Appendix to Title 5, Government Organization and Employees, which abolished the advisory board and transferred its functions, including the functions of the chairman and other officers, to the Secretary of the Interior.
+Provisions of the second sentence of the second par. of subsec. (a), which related to the advisory board and its composition, were omitted pursuant to Reorg. Plan No. 4 of 1965, §§ 11(c) and 13(a), set out in the Appendix to Title 5, Government Organization and Employees, which abolished the advisory board and transferred its functions, including the functions of the chairman and other officers, to the Secretary of the Interior.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 832a–1. Repealed. Pub. L. 88–426, title III, § 305(36), Aug. 14, 1964, 78 Stat. 427
+## § 832a–1. Repealed. Pub. L. 88–426, title III, § 305(36), Aug. 14, 1964, 78 Stat. 427
 
-Section, Pub. L. 87–330, title II, § 200, Sept. 30, 1961, 75 Stat. 728, prescribed the compensation of the Administrator, Bonneville Power Administration, and is prescribed by section 5316 of Title 5, Government Organization and Employees.
+Section, Pub. L. 87–330, title II, § 200, Sept. 30, 1961, 75 Stat. 728, prescribed the compensation of the Administrator, Bonneville Power Administration, and is prescribed by section 5316 of Title 5, Government Organization and Employees.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -117,15 +117,15 @@ Section, Pub. L. 87–330, title II, § 200, Sept. 30, 1961, 75 Stat. 728, pre
 
 Repeal effective on first day of first pay period which begins on or after July 1, 1964, see section 501 of Pub. L. 88–426.
 
-## § 832b. Definitions
+## § 832b. Definitions
 
 As employed in this chapter, the term “public body”, or “public bodies”, means States, public power districts, counties, and municipalities, including agencies or subdivisions of any thereof.
 
 As employed in this chapter, the term “cooperative”, or “cooperatives”, means any form of nonprofit-making organization or organizations of citizens supplying, or which may be created to supply, members with any kind of goods, commodities, or services, as nearly as possible at cost.
 
-(Aug. 20, 1937, ch. 720, § 3, 50 Stat. 733.)
+(Aug. 20, 1937, ch. 720, § 3, 50 Stat. 733.)
 
-## § 832c. Distribution of electricity; preference to public bodies and cooperatives
+## § 832c. Distribution of electricity; preference to public bodies and cooperatives
 
 **(a) General provisions**
 
@@ -133,9 +133,9 @@ In order to insure that the facilities for the generation of electric energy at 
 
 **(b) Prior to January 1, 1942; subsequent thereto**
 
-To preserve and protect the preferential rights and priorities of public bodies and cooperatives as provided in section 1
+To preserve and protect the preferential rights and priorities of public bodies and cooperatives as provided in section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (a) and to effectuate the intent and purpose of this chapter that at all times up to January 1, 1942, there shall be available for sale to public bodies and cooperatives not less than 50 per centum of the electric energy produced at the Bonneville project, it shall be the duty of the administrator in making contracts for the sale of such energy to so arrange such contracts as to make such 50 per centum of such energy available to said public bodies and cooperatives until January 1, 1942: *Provided*, That the electric energy so reserved for but not actually purchased by and delivered to such public bodies and cooperatives prior to January 1, 1942, may be disposed of temporarily so long as such temporary disposition will not interfere with the purchase by and delivery to such public bodies and cooperatives at any time prior to January 1, 1942: *Provided further*, That nothing herein contained shall be construed to limit or impair the preferential and priority rights of such public bodies or cooperatives after January 1, 1942; and in the event that after such date there shall be conflicting or competing applications for an allocation of electric energy between any public body or cooperative on the one hand and a private agency of any character on the other, the application of such public body or cooperative shall be granted.
 
@@ -147,7 +147,7 @@ An application by any public body or cooperative for an allocation of electric e
 
 It is declared to be the policy of the Congress, as expressed in this chapter, to preserve the said preferential status of the public bodies and cooperatives herein referred to, and to give to the people of the States within economic transmission distance of the Bonneville project reasonable opportunity and time to hold any election or elections or take any action necessary to create such public bodies and cooperatives as the laws of such States authorize and permit, and to afford such public bodies or cooperatives reasonable time and opportunity to take any action necessary to authorize the issuance of bonds or to arrange other financing necessary to construct or acquire necessary and desirable electric distribution facilities, and in all other respects legally to become qualified purchasers and distributors of electric energy available under this chapter.
 
-(Aug. 20, 1937, ch. 720, § 4, 50 Stat. 733; Mar. 6, 1940, ch. 47, § 3, 54 Stat. 47.)
+(Aug. 20, 1937, ch. 720, § 4, 50 Stat. 733; Mar. 6, 1940, ch. 47, § 3, 54 Stat. 47.)
 
 **Editorial Notes**
 
@@ -161,7 +161,7 @@ It is declared to be the policy of the Congress, as expressed in this chapter, t
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 832d. Contracts for sale of electricity
+## § 832d. Contracts for sale of electricity
 
 **(a) Authorization of Administrator; contents of contracts**
 
@@ -171,7 +171,7 @@ Subject to the provisions of this chapter and to such rate schedules as the Secr
 
 The administrator is authorized to enter into contracts with public or private power systems for the mutual exchange of unused excess power upon suitable exchange terms for the purpose of economical operation or of providing emergency or break-down relief.
 
-(Aug. 20, 1937, ch. 720, § 5, 50 Stat. 734; Oct. 23, 1945, ch. 433, § 2, 59 Stat. 546; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
+(Aug. 20, 1937, ch. 720, § 5, 50 Stat. 734; Oct. 23, 1945, ch. 433, § 2, 59 Stat. 546; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
 
 **Editorial Notes**
 
@@ -183,7 +183,7 @@ The administrator is authorized to enter into contracts with public or private p
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted for “Federal Power Commission” in subsec. (a) pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted for “Federal Power Commission” in subsec. (a) pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
@@ -193,15 +193,15 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Transfer of Functions**
 
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 832e. Rate schedules
+## § 832e. Rate schedules
 
 Schedules of rates and charges for electric energy produced at the Bonneville project and sold to purchasers as in this chapter provided shall be prepared by the administrator and become effective upon confirmation and approval thereof by the Secretary of Energy; and such rates and charges shall also be applicable to dispositions of electric energy to Federal agencies. Subject to confirmation and approval by the Secretary of Energy, such rate schedules may be modified from time to time by the administrator, and shall be fixed and established with a view to encouraging the widest possible diversified use of electric energy. The said rate schedules may provide for uniform rates or rates uniform throughout prescribed transmission areas in order to extend the benefits of an integrated transmission system and encourage the equitable distribution of the electric energy developed at the Bonneville project.
 
-(Aug. 20, 1937, ch. 720, § 6, 50 Stat. 735; Oct. 23, 1945, ch. 433, § 3, 59 Stat. 546; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
+(Aug. 20, 1937, ch. 720, § 6, 50 Stat. 735; Oct. 23, 1945, ch. 433, § 3, 59 Stat. 546; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
 
 **Editorial Notes**
 
@@ -213,7 +213,7 @@ Schedules of rates and charges for electric energy produced at the Bonneville pr
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
@@ -223,27 +223,27 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Transfer of Functions**
 
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
-## § 832f. Elements in determining rates
+## § 832f. Elements in determining rates
 
 It is the intent of Congress that rate schedules for the sale of electric energy which is or may be generated at the Bonneville project in excess of the amount required for operating the dam, locks, and appurtenant works at said project shall be determined with due regard to and predicated upon the fact that such electric energy is developed from water power created as an incident to the construction of the dam in the Columbia River at the Bonneville project for the purposes set forth in section 832 of this title. Rate schedules shall be drawn having regard to the recovery (upon the basis of the application of such rate schedules to the capacity of the electric facilities of Bonneville project) of the cost of producing and transmitting such electric energy, including the amortization of the capital investment over a reasonable period of years. Rate schedules shall be based upon an allocation of costs made by the Secretary of Energy. In computing the cost of electric energy developed from water power created as an incident to and a byproduct of the construction of the Bonneville project, the Secretary of Energy may allocate to the costs of electric facilities such a share of the cost of facilities having joint value for the production of electric energy and other purposes as the power development may fairly bear as compared with such other purposes.
 
-(Aug. 20, 1937, ch. 720, § 7, 50 Stat. 735; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
+(Aug. 20, 1937, ch. 720, § 7, 50 Stat. 735; Pub. L. 95–91, title III, § 301(b), Aug. 4, 1977, 91 Stat. 578.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
+“Secretary of Energy” substituted in text for “Federal Power Commission” pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
-## § 832g. Purchase of supplies and services
+## § 832g. Purchase of supplies and services
 
 Notwithstanding any other provision of law, all purchases and contracts made by the administrator or the Secretary of the Army for supplies or for services except for personal services, shall be made after advertising, in such manner and at such times, sufficiently in advance of opening bids, as the administrator or Secretary of the Army, as the case may be, shall determine to be adequate to insure notice and opportunity for competition. Such advertisement shall not be required, however, when (1) an emergency requires immediate delivery of the supplies or performance of the services; or (2) repair parts, accessories, supplemental equipment, or services are required for supplies or services previously furnished or contracted for; or (3) the aggregate amount involved in any purchase of supplies or procurement of services does not exceed $500; in which cases such purchases of supplies or procurement of services may be made in the open market in the manner common among businessmen. In comparing bids and in making awards, the administrator or the Secretary of the Army, as the case may be, may consider such factors as relative quality and adaptability of supplies or services, the bidder’s financial responsibility, skill, experience, record of integrity in dealing, and ability to furnish repairs and maintenance services, the time of delivery or performance offered, and whether the bidder has complied with the specifications.
 
-(Aug. 20, 1937, ch. 720, § 8, 50 Stat. 735; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 20, 1937, ch. 720, § 8, 50 Stat. 735; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -255,7 +255,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 832h. Miscellaneous administrative provisions
+## § 832h. Miscellaneous administrative provisions
 
 **(a) Accounts; audit; procedures, etc., prescribed**
 
@@ -265,13 +265,13 @@ The administrator, subject to the requirements of the Federal Power Act [16 U.S.
 
 The administrator may make such expenditures for offices, vehicles, furnishings, equipment, supplies, and books; for attendance at meetings; and for such other facilities and services as he may find necessary for the proper administration of this chapter.
 
-(Aug. 20, 1937, ch. 720, § 9, 50 Stat. 736; Oct. 23, 1945, ch. 433, § 4, 59 Stat. 547; Pub. L. 89–448, § 2(a), formerly § 2, June 14, 1966, 80 Stat. 200, as renumbered Pub. L. 89–561, § 6(1), Sept. 7, 1966, 80 Stat. 714; Pub. L. 95–91, title IV, § 402(a)(1)(B), Aug. 4, 1977, 91 Stat. 583.)
+(Aug. 20, 1937, ch. 720, § 9, 50 Stat. 736; Oct. 23, 1945, ch. 433, § 4, 59 Stat. 547; Pub. L. 89–448, § 2(a), formerly § 2, June 14, 1966, 80 Stat. 200, as renumbered Pub. L. 89–561, § 6(1), Sept. 7, 1966, 80 Stat. 714; Pub. L. 95–91, title IV, § 402(a)(1)(B), Aug. 4, 1977, 91 Stat. 583.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Federal Power Act, referred to in subsec. (a), was in the original the “Federal Water Power Act”, and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+Federal Power Act, referred to in subsec. (a), was in the original the “Federal Water Power Act”, and was redesignated the Federal Power Act by section 791a of this title. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
 **Amendments**
 
@@ -285,7 +285,7 @@ Federal Power Act, referred to in subsec. (a), was in the original the “Federa
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) pursuant to Pub. L. 95–91, § 402(a)(1)(B), which is classified to section 7172(a)(1)(B) of Title 42.
+“Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) pursuant to Pub. L. 95–91, § 402(a)(1)(B), which is classified to section 7172(a)(1)(B) of Title 42.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
@@ -293,9 +293,9 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Transfer of Functions**
 
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
-## § 832i. Employment of personnel
+## § 832i. Employment of personnel
 
 **(a) Appointment of Assistant Administrator, chief engineer, and general counsel; compensation; duties**
 
@@ -309,15 +309,15 @@ The Administrator, the Secretary of the Army, and the Secretary of Energy, respe
 
 The Administrator may accept and utilize such voluntary and uncompensated services and with the consent of the agency concerned may utilize such officers, employees, or equipment of any agency of the Federal, State, or local governments which he finds helpful in carrying out the purposes of this chapter; in connection with the utilization of such services, reasonable payments may be allowed for necessary travel and other expenses.
 
-(Aug. 20, 1937, ch. 720, § 10, 50 Stat. 736; Oct. 23, 1945, ch. 433, § 5, 59 Stat. 547; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 95–91, title III, §§ 301(b), 302(a)(1)(D), (2), Aug. 4, 1977, 91 Stat. 578.)
+(Aug. 20, 1937, ch. 720, § 10, 50 Stat. 736; Oct. 23, 1945, ch. 433, § 5, 59 Stat. 547; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 95–91, title III, §§ 301(b), 302(a)(1)(D), (2), Aug. 4, 1977, 91 Stat. 578.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsecs. (a) and (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsecs. (a) and (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Provisions of the second and fourth sentences of subsec. (b) which authorized the Administrator to fix the compensation of laborers, mechanics and workmen without regard to the Classification Act of 1923, and any other laws, rules, or regulations relating to the payment of employees of the United States and which authorized the Administrator, the Secretary of the Army and the Secretary of Energy to fix the compensation of experts without regard to the Classification Act of 1923, were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). [But see *Abell v. United States*, 1975, 518 F.2d 1369, cert. denied 429 U.S. 817, and *Columbia Power Trades Council v. United States Department of Energy*, 1980, 496 F.Supp. 186.] The Classification Act of 1949 was repealed by Act Sept. 6, 1966, Pub. L. 89–554, § 8(a), 80 Stat. 632 (the first section of which revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+Provisions of the second and fourth sentences of subsec. (b) which authorized the Administrator to fix the compensation of laborers, mechanics and workmen without regard to the Classification Act of 1923, and any other laws, rules, or regulations relating to the payment of employees of the United States and which authorized the Administrator, the Secretary of the Army and the Secretary of Energy to fix the compensation of experts without regard to the Classification Act of 1923, were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). [But see *Abell v. United States*, 1975, 518 F.2d 1369, cert. denied 429 U.S. 817, and *Columbia Power Trades Council v. United States Department of Energy*, 1980, 496 F.Supp. 186.] The Classification Act of 1949 was repealed by Act Sept. 6, 1966, Pub. L. 89–554, § 8(a), 80 Stat. 632 (the first section of which revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 **Amendments**
 
@@ -333,13 +333,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 **Transfer of Functions**
 
-“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) pursuant to Pub. L. 95–91, § 302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
+“Secretary of Energy” substituted for “Secretary of the Interior” in subsec. (a) pursuant to Pub. L. 95–91, § 302(a)(1)(D), (2), which is classified to section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, which transferred functions of Secretary of the Interior with respect to Bonneville Power Administration to Secretary of Energy, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-“Secretary of Energy” substituted for “Federal Power Commission” in subsec. (b) pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42.
+“Secretary of Energy” substituted for “Federal Power Commission” in subsec. (b) pursuant to Pub. L. 95–91, § 301(b), which is classified to section 7151(b) of Title 42.
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
@@ -347,15 +347,15 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Transfer of Functions**
 
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 832j. Deposit of receipts; authorization of appropriations
+## § 832j. Deposit of receipts; authorization of appropriations
 
 All receipts from transmission and sale of electric energy generated at the Bonneville project shall be covered into the Treasury of the United States to the credit of miscellaneous receipts, save and except that the Treasury shall set up and maintain from such receipts a continuing fund of $500,000, to the credit of the administrator and subject to check by him, to defray emergency expenses and to insure continuous operation. There is authorized to be appropriated from time to time, out of moneys in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this chapter, including installation of equipment and machinery for the generation of electric energy and facilities for its transmission and sale.
 
-(Aug. 20, 1937, ch. 720, § 11, 50 Stat. 736.)
+(Aug. 20, 1937, ch. 720, § 11, 50 Stat. 736.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -365,7 +365,7 @@ Functions of Secretary of the Interior with respect to Bonneville Power Administ
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to Secretary of Energy (except for certain functions transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7193 of Title 42.
 
-## § 832k. Authority of Administrator
+## § 832k. Authority of Administrator
 
 **(a) Settlement, compromise, and payment of claims; limitations; conclusiveness of settlements; restoration of damage**
 
@@ -375,7 +375,7 @@ The Administrator is authorized to determine, settle, compromise, and pay claims
 
 The Administrator may, in the name of the United States, under the supervision of the Attorney General, bring such suits at law or in equity as in his judgment may be necessary to carry out the purposes of this chapter; and he shall be represented in the prosecution and defense of all litigation, affecting the status or operation of Bonneville project by the United States attorneys for the districts, respectively, in which such litigation may arise, or by such attorney or attorneys as the Attorney General may designate as authorized by law, in conjunction with the regularly employed attorneys of the Administrator.
 
-(Aug. 20, 1937, ch. 720, § 12, 50 Stat. 736; Oct. 23, 1945, ch. 433, § 6, 59 Stat. 547; July 26, 1946, ch. 673, 60 Stat. 701.)
+(Aug. 20, 1937, ch. 720, § 12, 50 Stat. 736; Oct. 23, 1945, ch. 433, § 6, 59 Stat. 547; July 26, 1946, ch. 673, 60 Stat. 701.)
 
 **Editorial Notes**
 
@@ -391,13 +391,13 @@ The Administrator may, in the name of the United States, under the supervision o
 
 Functions of Secretary of the Interior with respect to Bonneville Power Administration transferred to Secretary of Energy by section 7152(a)(1)(D), (2) of Title 42, The Public Health and Welfare, with Bonneville Power Administration to be preserved as a distinct organizational entity within Department of Energy and headed by an Administrator.
 
-## § 832l. Separability
+## § 832l. Separability
 
 If any provision of this chapter or the application of such provision to any person or circumstance shall be held invalid, the remainder of the chapter and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.
 
-(Aug. 20, 1937, ch. 720, § 13, 50 Stat. 736.)
+(Aug. 20, 1937, ch. 720, § 13, 50 Stat. 736.)
 
-## § 832m. Sale of excess Federal power; fish and wildlife conservation within Federal Columbia River Power System; residential exchange; personnel flexibility
+## § 832m. Sale of excess Federal power; fish and wildlife conservation within Federal Columbia River Power System; residential exchange; personnel flexibility
 
 **(a) Definitions** In this section:
 
@@ -423,9 +423,9 @@ The term “Council” means the Northwest Power and Conservation Planning Counc
 
 **(c) Study by Council**
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. No par. (2) has been enacted.
+<sup>1</sup> So in original. No par. (2) has been enacted.
 
 Within 180 days of November 13, 1995, the Council shall review and report to Congress regarding the most appropriate governance structure to allow more effective regional control over efforts to conserve and enhance anadromous and resident fish and wildlife within the Federal Columbia River Power System.
 
@@ -445,7 +445,7 @@ The Administrator may offer employees voluntary separation incentives as deemed 
 
 Unless superseded by an Act of Congress, the authority provided by this section is expressly intended to extend beyond the fiscal year.
 
-(Pub. L. 104–46, title V, § 508, Nov. 13, 1995, 109 Stat. 419.)
+(Pub. L. 104–46, title V, § 508, Nov. 13, 1995, 109 Stat. 419.)
 
 **Editorial Notes**
 
@@ -457,4 +457,4 @@ Section was enacted as part of the Energy and Water Development Appropriations A
 
 **Voluntary Separation Incentives to Employees**
 
-Pub. L. 104–206, title V, § 511, Sept. 30, 1996, 110 Stat. 3004, as amended by Pub. L. 106–377, § 1(a)(2) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–76, provided that: “The Administrator may offer employees voluntary separation incentives as deemed necessary which shall not exceed $25,000. Recipients who accept employment with the United States within five years after separation shall repay the entire amount to the Bonneville Power Administration. This authority shall expire January 1, 2003.”
+Pub. L. 104–206, title V, § 511, Sept. 30, 1996, 110 Stat. 3004, as amended by Pub. L. 106–377, § 1(a)(2) [title III], Oct. 27, 2000, 114 Stat. 1441, 1441A–76, provided that: “The Administrator may offer employees voluntary separation incentives as deemed necessary which shall not exceed $25,000. Recipients who accept employment with the United States within five years after separation shall repay the entire amount to the Bonneville Power Administration. This authority shall expire January 1, 2003.”

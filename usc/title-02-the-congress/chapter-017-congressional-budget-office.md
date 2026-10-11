@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 17—CONGRESSIONAL BUDGET OFFICE
 
-## § 601. Establishment
+## § 601. Establishment
 
 **(a) In general**
 
@@ -51,7 +51,7 @@ In carrying out the duties and functions of the Office, the Director may procure
 
 In carrying out the duties and functions of the Office, and for the purpose of coordinating the operations of the Office with those of other congressional agencies with a view to utilizing most effectively the information, services, and capabilities of all such agencies in carrying out the various responsibilities assigned to each, the Director is authorized to obtain information, data, estimates, and statistics developed by the Government Accountability Office,1
 
-<sup>1</sup>  So in original. Comma probably should not appear.
+<sup>1</sup> So in original. Comma probably should not appear.
 
 and the Library of Congress, and (upon agreement with them) to utilize their services, facilities, and personnel with or without reimbursement. The Comptroller General,1 and the Librarian of Congress are authorized to provide the Office with the information, data, estimates, and statistics, and the services, facilities, and personnel, referred to in the preceding sentence.
 
@@ -63,7 +63,7 @@ For the purposes of revenue legislation which is income, estate and gift, excise
 
 There are authorized to be appropriated to the Office for each fiscal year such sums as may be necessary to enable it to carry out its duties and functions. Until sums are first appropriated pursuant to the preceding sentence, but for a period not exceeding 12 months following the effective date of this subsection, the expenses of the Office shall be paid from the contingent fund of the Senate, in accordance with section 6503 of this title, and upon vouchers approved by the Director.
 
-(Pub. L. 93–344, title II, § 201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, § 273, Dec. 12, 1985, 99 Stat. 1098, renumbered § 201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, § 13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, § 13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, § 10102, Aug. 5, 1997, 111 Stat. 678; Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 224], Nov. 29, 1999, 113 Stat. 1536, 1501A–299; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 116–94, div. E, title II, § 212(a)(3)(B), Dec. 20, 2019, 133 Stat. 2775; Pub. L. 118–89, § 2(a), Sept. 30, 2024, 138 Stat. 1557.)
+(Pub. L. 93–344, title II, § 201, July 12, 1974, 88 Stat. 302; Pub. L. 99–177, title II, § 273, Dec. 12, 1985, 99 Stat. 1098, renumbered § 201(g) of Pub. L. 93–344, Pub. L. 101–508, title XIII, § 13202(b), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 101–508, title XIII, § 13202(a), (c), Nov. 5, 1990, 104 Stat. 1388–615; Pub. L. 105–33, title X, § 10102, Aug. 5, 1997, 111 Stat. 678; Pub. L. 106–113, div. B, § 1000(a)(5) [title II, § 224], Nov. 29, 1999, 113 Stat. 1536, 1501A–299; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 116–94, div. E, title II, § 212(a)(3)(B), Dec. 20, 2019, 133 Stat. 2775; Pub. L. 118–89, § 2(a), Sept. 30, 2024, 138 Stat. 1557.)
 
 **Editorial Notes**
 
@@ -73,7 +73,7 @@ This Act, referred to in subsec. (f), means Pub. L. 93–344, July 12, 1974, 88 
 
 **Codification**
 
-Pub. L. 101–508, § 12302(b), transferred section 273 of Pub. L. 99–177, which was classified to section 921 of this title, to subsec. (g) (now (f)) of this section, relating to revenue estimates.
+Pub. L. 101–508, § 12302(b), transferred section 273 of Pub. L. 99–177, which was classified to section 921 of this title, to subsec. (g) (now (f)) of this section, relating to revenue estimates.
 
 **Amendments**
 
@@ -89,17 +89,17 @@ Pub. L. 101–508, § 12302(b), transferred section 273 of Pub. L. 99–177, w
 
 1999—Subsec. (a)(5). Pub. L. 106–113 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as in effect from time to time, for level III of the Executive Schedule in section 5314 of title 5. The Deputy Director shall receive compensation at a per annum gross rate equal to the rate of basic pay, as so in effect, for level IV of the Executive Schedule in section 5315 of such title.”
 
-1997—Subsec. (a)(3). Pub. L. 105–33, § 10102(a), substituted “The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election.” for “The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter.”
+1997—Subsec. (a)(3). Pub. L. 105–33, § 10102(a), substituted “The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election.” for “The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter.”
 
-Subsec. (e). Pub. L. 105–33, § 10102(b), inserted “and” before “the Library”, struck out “and the Office of Technology Assessment,” after “Library of Congress,”, inserted “and” before “the Librarian”, and struck out “, and the Technology Assessment Board” after “Librarian of Congress”.
+Subsec. (e). Pub. L. 105–33, § 10102(b), inserted “and” before “the Library”, struck out “and the Office of Technology Assessment,” after “Library of Congress,”, inserted “and” before “the Librarian”, and struck out “, and the Technology Assessment Board” after “Librarian of Congress”.
 
-Subsecs. (f), (g). Pub. L. 105–33, § 10102(c), redesignated subsec. (g), relating to revenue estimates, as (f).
+Subsecs. (f), (g). Pub. L. 105–33, § 10102(c), redesignated subsec. (g), relating to revenue estimates, as (f).
 
-1990—Subsec. (f). Pub. L. 101–508, § 13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
+1990—Subsec. (f). Pub. L. 101–508, § 13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
 
-Subsec. (g). Pub. L. 101–508, § 13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
+Subsec. (g). Pub. L. 101–508, § 13202(a), redesignated subsec. (f), relating to authorization of appropriations, as (g).
 
-Pub. L. 101–508, § 12302(b), (c), redesignated section 921 of this title as subsec. (g) of this section, inserted heading “Revenue estimates” and substituted “this Act” for “this title and the Congressional Budget and Impoundment Control Act of 1974”.
+Pub. L. 101–508, § 12302(b), (c), redesignated section 921 of this title as subsec. (g) of this section, inserted heading “Revenue estimates” and substituted “this Act” for “this title and the Congressional Budget and Impoundment Control Act of 1974”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,7 +113,7 @@ Subsec. (a) effective July 12, 1974, see section 905(a) of Pub. L. 93–344, and
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–89, § 1, Sept. 30, 2024, 138 Stat. 1557, provided that: “This Act [amending this section] may be cited as the ‘Congressional Budget Office Data Sharing Act’.”
+Pub. L. 118–89, § 1, Sept. 30, 2024, 138 Stat. 1557, provided that: “This Act [amending this section] may be cited as the ‘Congressional Budget Office Data Sharing Act’.”
 
 **Short Title**
 
@@ -121,9 +121,9 @@ Pub. L. 93–344, which enacted this chapter, to be cited in its entirety as the
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 602. Duties and functions
+## § 602. Duties and functions
 
 **(a) Assistance to budget committees**
 
@@ -193,33 +193,33 @@ The Director of the Congressional Budget Office shall conduct continuing studies
 
 **(iii)** the effect of Federal private sector mandates in the bill or joint resolution on the national economy, including the effect on productivity, economic growth, full employment, creation of productive jobs, and international competitiveness of United States goods and services.
 
-(Pub. L. 93–344, title II, § 202, July 12, 1974, 88 Stat. 304; Pub. L. 99–177, title II, § 221, Dec. 12, 1985, 99 Stat. 1060; Pub. L. 101–508, title XIII, § 13112(a)(3), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 104–4, title I, § 102(1), Mar. 22, 1995, 109 Stat. 60; Pub. L. 104–186, title II, § 213, Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–33, title X, § 10103, Aug. 5, 1997, 111 Stat. 678.)
+(Pub. L. 93–344, title II, § 202, July 12, 1974, 88 Stat. 304; Pub. L. 99–177, title II, § 221, Dec. 12, 1985, 99 Stat. 1060; Pub. L. 101–508, title XIII, § 13112(a)(3), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 104–4, title I, § 102(1), Mar. 22, 1995, 109 Stat. 60; Pub. L. 104–186, title II, § 213, Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–33, title X, § 10103, Aug. 5, 1997, 111 Stat. 678.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (a). Pub. L. 105–33, § 10103(a), inserted “primary” before “duty” in first sentence.
+1997—Subsec. (a). Pub. L. 105–33, § 10103(a), inserted “primary” before “duty” in first sentence.
 
-Subsec. (e). Pub. L. 105–33, § 10103(b), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text of par. (1) of subsec. (e) read as follows: “The duties, functions, and personnel of the Joint Committee on Reduction of Federal Expenditures are transferred to the Office, and the Joint Committee is abolished.” Par. (2) of subsec. (e) repealed section 571 of former Title 31, Money and Finance.
+Subsec. (e). Pub. L. 105–33, § 10103(b), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text of par. (1) of subsec. (e) read as follows: “The duties, functions, and personnel of the Joint Committee on Reduction of Federal Expenditures are transferred to the Office, and the Joint Committee is abolished.” Par. (2) of subsec. (e) repealed section 571 of former Title 31, Money and Finance.
 
-Subsec. (e)(1)(C). Pub. L. 105–33, § 10103(c), added subpar. (C).
+Subsec. (e)(1)(C). Pub. L. 105–33, § 10103(c), added subpar. (C).
 
-Subsecs. (f) to (h). Pub. L. 105–33, § 10103(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively.
+Subsecs. (f) to (h). Pub. L. 105–33, § 10103(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively.
 
 1996—Subsec. (g). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
 
-1995—Subsec. (c)(2), (3). Pub. L. 104–4, § 102(1)(A), added par. (2) and redesignated former par. (2) as (3).
+1995—Subsec. (c)(2), (3). Pub. L. 104–4, § 102(1)(A), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (h). Pub. L. 104–4, § 102(1)(B), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Director shall conduct continuing studies to enhance comparisons of budget outlays, credit authority, and tax expenditures.”
+Subsec. (h). Pub. L. 104–4, § 102(1)(B), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “The Director shall conduct continuing studies to enhance comparisons of budget outlays, credit authority, and tax expenditures.”
 
 1990—Subsecs. (a)(1), (f)(1). Pub. L. 101–508 substituted “new budget authority” for “budget authority” in subsec. (a)(1) and second sentence of subsec. (f)(1).
 
-1985—Subsec. (f)(1). Pub. L. 99–177, § 221(a), substituted “February 15” for “April 1”.
+1985—Subsec. (f)(1). Pub. L. 99–177, § 221(a), substituted “February 15” for “April 1”.
 
-Subsec. (f)(3). Pub. L. 99–177, § 221(b), added par. (3).
+Subsec. (f)(3). Pub. L. 99–177, § 221(b), added par. (3).
 
-Subsec. (h). Pub. L. 99–177, § 221(c), added subsec. (h).
+Subsec. (h). Pub. L. 99–177, § 221(c), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -233,7 +233,7 @@ Amendment by Pub. L. 104–4 effective Jan. 1, 1996, or on the date 90 days afte
 
 **Effective Date of 1985 Amendment**
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, see section 275(a)(1) of Pub. L. 99–177, formerly set out as an Effective and Termination Dates note under section 900 of this title prior to repeal by Pub. L. 112–25, title I, § 104(a), Aug. 2, 2011, 125 Stat. 246.
 
 **Effective Date**
 
@@ -241,9 +241,9 @@ Section effective on day on which first Director of Congressional Budget Office 
 
 **Credit Reform**
 
-Pub. L. 100–119, title II, § 212, Sept. 29, 1987, 101 Stat. 787, provided that the Congressional Budget Office, in consultation with the General Accounting Office, was to study and report to Congress, as soon as practicable, on Federal direct loan and loan guarantee programs for fiscal years 1987 and 1988.
+Pub. L. 100–119, title II, § 212, Sept. 29, 1987, 101 Stat. 787, provided that the Congressional Budget Office, in consultation with the General Accounting Office, was to study and report to Congress, as soon as practicable, on Federal direct loan and loan guarantee programs for fiscal years 1987 and 1988.
 
-## § 603. Public access to budget data
+## § 603. Public access to budget data
 
 **(a) Right to copy**
 
@@ -275,15 +275,15 @@ Subsection (a) shall apply to any information, data, estimates, and statistics o
 
 With respect to information, data, estimates, and statistics obtained under sections 601(d) and 601(e) of this title, the Director shall maintain the same level of confidentiality as is required by law of the department, agency, establishment, or regulatory agency or commission from which it is obtained. Officers and employees of the Congressional Budget Office shall be subject to the same statutory penalties for unauthorized disclosure or use as officers or employees of the department, agency, establishment, or regulatory agency or commission from which it is obtained.
 
-(Pub. L. 93–344, title II, § 203, July 12, 1974, 88 Stat. 305; Pub. L. 106–554, § 1(a)(7) [title III, § 310(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–639.)
+(Pub. L. 93–344, title II, § 203, July 12, 1974, 88 Stat. 305; Pub. L. 106–554, § 1(a)(7) [title III, § 310(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–639.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–554, § 1(a)(7) [title III, § 310(b)(2)], substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)”.
+2000—Subsec. (a). Pub. L. 106–554, § 1(a)(7) [title III, § 310(b)(2)], substituted “subsections (c), (d), and (e)” for “subsections (c) and (d)”.
 
-Subsec. (e). Pub. L. 106–554, § 1(a)(7) [title III, § 310(b)(1)], added subsec. (e).
+Subsec. (e). Pub. L. 106–554, § 1(a)(7) [title III, § 310(b)(1)], added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -291,23 +291,23 @@ Subsec. (e). Pub. L. 106–554, § 1(a)(7) [title III, § 310(b)(1)], added 
 
 Section effective on day on which first Director of Congressional Budget Office is appointed under section 601(a) of this title, see section 905(b) of Pub. L. 93–344, formerly set out as a note under section 621 of this title.
 
-## § 604. Omitted
+## § 604. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 94–440, title V, § 500, Oct. 1, 1976, 90 Stat. 1452, the Legislative Appropriation Act, 1977, which authorized the Congressional Budget Office to contract without regard to section 5 of former Title 41, Public Contracts, applied to fiscal year 1977 and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation act:
+Section, Pub. L. 94–440, title V, § 500, Oct. 1, 1976, 90 Stat. 1452, the Legislative Appropriation Act, 1977, which authorized the Congressional Budget Office to contract without regard to section 5 of former Title 41, Public Contracts, applied to fiscal year 1977 and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 94–157, title I, Dec. 18, 1975, 89 Stat. 834.
 
-## § 605. Sale or lease of property, supplies, or services
+## § 605. Sale or lease of property, supplies, or services
 
 **(a)** Any sale or lease of property, supplies, or services to the Congressional Budget Office shall be deemed to be a sale or lease to the Congress subject to section 4103 of this title.
 
 **(b)** Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996.
 
-(Pub. L. 104–197, title I, § 104, Sept. 16, 1996, 110 Stat. 2404.)
+(Pub. L. 104–197, title I, § 104, Sept. 16, 1996, 110 Stat. 2404.)
 
 **Editorial Notes**
 
@@ -339,19 +339,19 @@ Pub. L. 101–163, title I, Nov. 21, 1989, 103 Stat. 1054.
 
 Pub. L. 100–458, title I, Oct. 1, 1988, 102 Stat. 2169.
 
-Pub. L. 100–202, § 101(i) [title I], Dec. 22, 1987, 101 Stat. 1329–290, 1329–300.
+Pub. L. 100–202, § 101(i) [title I], Dec. 22, 1987, 101 Stat. 1329–290, 1329–300.
 
-Pub. L. 99–500, § 101(j) [H.R. 5203, title I], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(j), Oct. 30, 1986, 100 Stat. 3341–287.
+Pub. L. 99–500, § 101(j) [H.R. 5203, title I], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(j), Oct. 30, 1986, 100 Stat. 3341–287.
 
 Pub. L. 99–151, title I, Nov. 13, 1985, 99 Stat. 800.
 
 Pub. L. 98–367, title I, July 17, 1984, 98 Stat. 482.
 
-## § 605a. Contracting parity
+## § 605a. Contracting parity
 
 In fiscal year 2018 and thereafter, for all contracts for goods and services to which the Congressional Budget Office is a party, the following Federal Acquisition Regulation (FAR) clauses will apply: FAR 52.232–39 and FAR 52.233–4.
 
-(Pub. L. 115–141, div. I, title I, § 130, Mar. 23, 2018, 132 Stat. 779.)
+(Pub. L. 115–141, div. I, title I, § 130, Mar. 23, 2018, 132 Stat. 779.)
 
 **Editorial Notes**
 
@@ -359,13 +359,13 @@ In fiscal year 2018 and thereafter, for all contracts for goods and services to 
 
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
 
-## § 606. Disposition of surplus or obsolete property
+## § 606. Disposition of surplus or obsolete property
 
 **(a)** The Director of the Congressional Budget Office shall have the authority, within the limits of available appropriations, to dispose of surplus or obsolete personal property by inter-agency transfer, donation, sale, trade-in, or discarding. Amounts received for the sale or trade-in of personal property shall be credited to funds available for the operations of the Congressional Budget Office and be available for the costs of acquiring the same or similar property. Such funds shall be available for such purposes during the fiscal year in which received and the following fiscal year.
 
 **(b)** Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996.
 
-(Pub. L. 104–197, title I, § 105, Sept. 16, 1996, 110 Stat. 2404; Pub. L. 107–68, title I, § 126, Nov. 12, 2001, 115 Stat. 577.)
+(Pub. L. 104–197, title I, § 105, Sept. 16, 1996, 110 Stat. 2404; Pub. L. 107–68, title I, § 126, Nov. 12, 2001, 115 Stat. 577.)
 
 **Editorial Notes**
 
@@ -387,13 +387,13 @@ Pub. L. 103–69, title I, Aug. 11, 1993, 107 Stat. 701.
 
 2001—Subsec. (a). Pub. L. 107–68 substituted “sale, trade-in, or discarding” for “or discarding” and inserted at end “Amounts received for the sale or trade-in of personal property shall be credited to funds available for the operations of the Congressional Budget Office and be available for the costs of acquiring the same or similar property. Such funds shall be available for such purposes during the fiscal year in which received and the following fiscal year.”
 
-## § 607. Lump-sum payments for annual leave to separated employees
+## § 607. Lump-sum payments for annual leave to separated employees
 
 **(a)** The Director of the Congressional Budget Office shall have the authority to make lump-sum payments to separated employees of the Congressional Budget Office for unused annual leave.
 
 **(b)** Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1996.
 
-(Pub. L. 104–197, title I, § 106, Sept. 16, 1996, 110 Stat. 2404.)
+(Pub. L. 104–197, title I, § 106, Sept. 16, 1996, 110 Stat. 2404.)
 
 **Editorial Notes**
 
@@ -401,13 +401,13 @@ Pub. L. 103–69, title I, Aug. 11, 1993, 107 Stat. 701.
 
 Section was enacted as part of the Congressional Operations Appropriations Act, 1997, which is title I of the Legislative Branch Appropriations Act, 1997, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
 
-## § 608. Lump-sum payments to enhance staff recruitment and to reward exceptional performance
+## § 608. Lump-sum payments to enhance staff recruitment and to reward exceptional performance
 
 **(a)** The Director of the Congressional Budget Office shall have the authority to make lump-sum payments to enhance staff recruitment and to reward exceptional performance by an employee or a group of employees.
 
 **(b)** Subsection (a) shall apply with respect to fiscal years beginning after September 30, 1999.
 
-(Pub. L. 106–57, title I, § 106, Sept. 29, 1999, 113 Stat. 418.)
+(Pub. L. 106–57, title I, § 106, Sept. 29, 1999, 113 Stat. 418.)
 
 **Editorial Notes**
 
@@ -415,7 +415,7 @@ Section was enacted as part of the Congressional Operations Appropriations Act, 
 
 Section was enacted as part of the Congressional Operations Appropriations Act, 2000, which is title I of the Legislative Branch Appropriations Act, 2000, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
 
-## § 609. Employee training
+## § 609. Employee training
 
 **(a) In general**
 
@@ -433,7 +433,7 @@ Any recovery of debt owed to the Congressional Budget Office under this section 
 
 This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
-(Pub. L. 107–68, title I, § 125, Nov. 12, 2001, 115 Stat. 577.)
+(Pub. L. 107–68, title I, § 125, Nov. 12, 2001, 115 Stat. 577.)
 
 **Editorial Notes**
 
@@ -441,7 +441,7 @@ This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
 Section was enacted as part of the Congressional Operations Appropriations Act, 2002, which is title I of the Legislative Branch Appropriations Act, 2002, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
 
-## § 610. Repayment of student loan on behalf of employee
+## § 610. Repayment of student loan on behalf of employee
 
 **(a) Authorization**
 
@@ -469,7 +469,7 @@ Any amount repaid by, or recovered from, an individual under this section and it
 
 This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
-(Pub. L. 107–68, title I, § 127, Nov. 12, 2001, 115 Stat. 577.)
+(Pub. L. 107–68, title I, § 127, Nov. 12, 2001, 115 Stat. 577.)
 
 **Editorial Notes**
 
@@ -477,7 +477,7 @@ This section shall apply to fiscal year 2002 and each fiscal year thereafter.
 
 Section was enacted as part of the Congressional Operations Appropriations Act, 2002, which is title I of the Legislative Branch Appropriations Act, 2002, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
 
-## § 611. Employee development program
+## § 611. Employee development program
 
 **(a) Establishment**
 
@@ -487,7 +487,7 @@ The Director of the Congressional Budget Office may, by regulation, make applica
 
 This section shall apply to fiscal year 2003 and each fiscal year thereafter.
 
-(Pub. L. 108–7, div. H, title I, § 1101, Feb. 20, 2003, 117 Stat. 370.)
+(Pub. L. 108–7, div. H, title I, § 1101, Feb. 20, 2003, 117 Stat. 370.)
 
 **Editorial Notes**
 
@@ -499,9 +499,9 @@ Section was enacted as part of the Legislative Branch Appropriations Act, 2003, 
 
 **Executive Exchange Program for the Congressional Budget Office**
 
-Pub. L. 110–161, div. H, title I, § 1201, Dec. 26, 2007, 121 Stat. 2238, as amended by Pub. L. 111–68, div. A, title I, § 1201, Oct. 1, 2009, 123 Stat. 2032, which established an executive exchange program and was formerly set out as a note under this section, was transferred to section 612 of this title.
+Pub. L. 110–161, div. H, title I, § 1201, Dec. 26, 2007, 121 Stat. 2238, as amended by Pub. L. 111–68, div. A, title I, § 1201, Oct. 1, 2009, 123 Stat. 2032, which established an executive exchange program and was formerly set out as a note under this section, was transferred to section 612 of this title.
 
-## § 612. Executive exchange program
+## § 612. Executive exchange program
 
 **(a) In general**
 
@@ -535,7 +535,7 @@ The Director of the Congressional Budget Office may establish and conduct an exe
 
 This section shall apply to fiscal year 2008 and each fiscal year thereafter.
 
-(Pub. L. 110–161, div. H, title I, § 1201, Dec. 26, 2007, 121 Stat. 2238; Pub. L. 111–68, div. A, title I, § 1201, Oct. 1, 2009, 123 Stat. 2032; Pub. L. 117–286, § 4(c)(1), Dec. 27, 2022, 136 Stat. 4353.)
+(Pub. L. 110–161, div. H, title I, § 1201, Dec. 26, 2007, 121 Stat. 2238; Pub. L. 111–68, div. A, title I, § 1201, Oct. 1, 2009, 123 Stat. 2032; Pub. L. 117–286, § 4(c)(1), Dec. 27, 2022, 136 Stat. 4353.)
 
 **Editorial Notes**
 
@@ -549,11 +549,11 @@ Section was formerly set out as a note under section 611 of this title.
 
 2022—Subsec. (c)(5). Pub. L. 117–286 substituted “chapter 131 of title 5;” for “the Ethics in Government Act of 1978 (5 U.S.C. App.);”.
 
-2009—Subsec. (b)(1), (2). Pub. L. 111–68, § 1201(1), substituted “5” for “3”.
+2009—Subsec. (b)(1), (2). Pub. L. 111–68, § 1201(1), substituted “5” for “3”.
 
-Subsecs. (d), (e). Pub. L. 111–68, § 1201(2), (3), redesignated subsec. (e) as (d), substituted “This” for “Subject to subsection (d), this”, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “No assignment under this section shall commence after the end of the 2-year period beginning on December 26, 2007.”
+Subsecs. (d), (e). Pub. L. 111–68, § 1201(2), (3), redesignated subsec. (e) as (d), substituted “This” for “Subject to subsection (d), this”, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “No assignment under this section shall commence after the end of the 2-year period beginning on December 26, 2007.”
 
-## § 613. Establishment of senior level positions
+## § 613. Establishment of senior level positions
 
 **(a) In general**
 
@@ -567,7 +567,7 @@ The annual rate of pay for any position established under this section may not e
 
 This section shall apply with respect to fiscal year 2017 and each succeeding fiscal year.
 
-(Pub. L. 115–31, div. I, title I, § 1101, May 5, 2017, 131 Stat. 578.)
+(Pub. L. 115–31, div. I, title I, § 1101, May 5, 2017, 131 Stat. 578.)
 
 **Editorial Notes**
 

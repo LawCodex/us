@@ -13,23 +13,23 @@ retrieved: 2026-10-11
 
 # Title 23—HIGHWAYS
 
-This title was enacted by Pub. L. 85–767, § 1, Aug. 27, 1958, 72 Stat. 885
+This title was enacted by Pub. L. 85–767, § 1, Aug. 27, 1958, 72 Stat. 885
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Pub. L. 109–59, title I, § 1602(e)(2), title V, 5201(a)(1), Aug. 10, 2005, 119 Stat. 1248, 1780, added items for chapters 5 and 6 and struck out item for former chapter 5 “Research and Technology”.
+2005—Pub. L. 109–59, title I, § 1602(e)(2), title V, 5201(a)(1), Aug. 10, 2005, 119 Stat. 1248, 1780, added items for chapters 5 and 6 and struck out item for former chapter 5 “Research and Technology”.
 
-1998—Pub. L. 105–178, title V, § 5101(1), June 9, 1998, 112 Stat. 422, added item for chapter 5.
+1998—Pub. L. 105–178, title V, § 5101(1), June 9, 1998, 112 Stat. 422, added item for chapter 5.
 
-1966—Pub. L. 89–564, title I, § 102(b)(3), Sept. 9, 1966, 80 Stat. 735, added item for chapter 4.
+1966—Pub. L. 89–564, title I, § 102(b)(3), Sept. 9, 1966, 80 Stat. 735, added item for chapter 4.
 
 **Table Showing Disposition of All Sections of Former Title 23**
 
-| *Title 23* *Former Sections* | *Title 23* *New Sections* |
+| *Title 23* *Former Sections* | *Title 23* *New Sections* |
 |---|---|
 | 1 | Rep. |
 | 2 | 101 |
@@ -101,7 +101,7 @@ Current through 119-102not101
 | 43 | Rep. |
 | 44 | Rep. |
 | 45 | Elim. |
-| 46 | See T. 18 § 1020 |
+| 46 | See T. 18 § 1020 |
 | 47–53 | Rep. |
 | 54 | Elim. |
 | 54a | Rep. |
@@ -188,15 +188,15 @@ Current through 119-102not101
 
 **Citation**
 
-Pub. L 85–767, § 1, Aug. 27, 1958, 72 Stat. 885, provided in part that this title may be cited as “Title 23, United States Code, § —”.
+Pub. L 85–767, § 1, Aug. 27, 1958, 72 Stat. 885, provided in part that this title may be cited as “Title 23, United States Code, § —”.
 
 **Repeals**
 
-Pub. L. 85–767, § 2, Aug. 27, 1958, 72 Stat. 919, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title.
+Pub. L. 85–767, § 2, Aug. 27, 1958, 72 Stat. 919, repealed the sections or parts of sections of the Revised Statutes or Statutes at Large covering provisions codified in this title.
 
 **Construction**
 
-Pub. L. 85–767, § 3, Aug. 27, 1958, 72 Stat. 921, provided that:
+Pub. L. 85–767, § 3, Aug. 27, 1958, 72 Stat. 921, provided that:
 
 > **“(a)** If any provision of title 23, as enacted by section 1 of this Act or the application thereof to any person or circumstance is held invalid, the remainder of the title and the application of the provision to other persons or circumstances shall not be affected thereby.
 
@@ -204,13 +204,13 @@ Pub. L. 85–767, § 3, Aug. 27, 1958, 72 Stat. 921, provided that:
 
 **Savings Provision**
 
-Pub. L. 85–767, § 4, Aug. 27, 1958, 72 Stat. 921, provided that: “Any rights or liabilities now existing under prior Acts or portions thereof shall not be affected by the repeal of such prior Acts or portions under section 2 of this Act.”
+Pub. L. 85–767, § 4, Aug. 27, 1958, 72 Stat. 921, provided that: “Any rights or liabilities now existing under prior Acts or portions thereof shall not be affected by the repeal of such prior Acts or portions under section 2 of this Act.”
 
 **Recodification of Title 23**
 
-Pub. L. 104–59, title III, § 357(a), Nov. 28, 1995, 109 Stat. 625, provided that: “The Secretary [of Transportation] shall, by March 31, 1997, prepare and submit to Congress a draft legislative proposal of necessary technical and conforming amendments to title 23, United States Code, and related laws.”
+Pub. L. 104–59, title III, § 357(a), Nov. 28, 1995, 109 Stat. 625, provided that: “The Secretary [of Transportation] shall, by March 31, 1997, prepare and submit to Congress a draft legislative proposal of necessary technical and conforming amendments to title 23, United States Code, and related laws.”
 
-Pub. L. 102–240, title I, § 1066, Dec. 18, 1991, 105 Stat. 2006, provided that the Secretary of Transportation was to have prepared, by Oct. 1, 1993, a proposed recodification of title 23, United States Code, and related laws for submission to Congress for consideration, prior to repeal by Pub. L. 104–59, title III, § 357(b), Nov. 28, 1995, 109 Stat. 625.
+Pub. L. 102–240, title I, § 1066, Dec. 18, 1991, 105 Stat. 2006, provided that the Secretary of Transportation was to have prepared, by Oct. 1, 1993, a proposed recodification of title 23, United States Code, and related laws for submission to Congress for consideration, prior to repeal by Pub. L. 104–59, title III, § 357(b), Nov. 28, 1995, 109 Stat. 625.
 
 - [CHAPTER 1—FEDERAL-AID HIGHWAYS](chapter-001-federal-aid-highways.md)
 

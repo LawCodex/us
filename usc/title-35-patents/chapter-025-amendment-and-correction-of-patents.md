@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 12(b), Sept. 16, 2011, 125 Stat. 327, added item 257.
+2011—Pub. L. 112–29, § 12(b), Sept. 16, 2011, 125 Stat. 327, added item 257.
 
-2002—Pub. L. 107–273, div. C, title III, § 13206(a)(18), Nov. 2, 2002, 116 Stat. 1905, substituted “Correction of named inventor” for “Misjoinder of inventor” in item 256.
+2002—Pub. L. 107–273, div. C, title III, § 13206(a)(18), Nov. 2, 2002, 116 Stat. 1905, substituted “Correction of named inventor” for “Misjoinder of inventor” in item 256.
 
-1975—Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949, substituted “Patent and Trademark Office” for “Patent Office” in item 254.
+1975—Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949, substituted “Patent and Trademark Office” for “Patent Office” in item 254.
 
-## § 251. Reissue of defective patents
+## § 251. Reissue of defective patents
 
 **(a) In General.—** Whenever any patent is, through error, deemed wholly or partly inoperative or invalid, by reason of a defective specification or drawing, or by reason of the patentee claiming more or less than he had a right to claim in the patent, the Director shall, on the surrender of such patent and the payment of the fee required by law, reissue the patent for the invention disclosed in the original patent, and in accordance with a new and amended application, for the unexpired part of the term of the original patent. No new matter shall be introduced into the application for reissue.
 
@@ -35,11 +35,11 @@ retrieved: 2026-10-11
 
 **(d) Reissue Patent Enlarging Scope of Claims.—** No reissued patent shall be granted enlarging the scope of the claims of the original patent unless applied for within two years from the grant of the original patent.
 
-(July 19, 1952, ch. 950, 66 Stat. 808; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 4(b)(2), 20(d), Sept. 16, 2011, 125 Stat. 296, 333.)
+(July 19, 1952, ch. 950, 66 Stat. 808; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 4(b)(2), 20(d), Sept. 16, 2011, 125 Stat. 296, 333.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 64 (R.S. 4916, amended May 24, 1928, ch. 730, 45 Stat. 732.)
+Based on Title 35, U.S.C., 1946 ed., § 64 (R.S. 4916, amended May 24, 1928, ch. 730, 45 Stat. 732.)
 
 The sentences of the corresponding section of existing statute are rearranged and divided into two sections with some changes in language. The clause at the end of the present statute is omitted as obsolete.
 
@@ -51,9 +51,9 @@ A two year period of limitation on applying for broadened reissues is added, cod
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 20(d), designated first to fourth pars. as subsecs. (a) to (d), respectively, inserted headings, and, in subsec. (a), struck out “without any deceptive intention” after “error”.
+2011—Pub. L. 112–29, § 20(d), designated first to fourth pars. as subsecs. (a) to (d), respectively, inserted headings, and, in subsec. (a), struck out “without any deceptive intention” after “error”.
 
-Pub. L. 112–29, § 4(b)(2), in third par., inserted “or the application for the original patent was filed by the assignee of the entire interest” after “claims of the original patent”.
+Pub. L. 112–29, § 4(b)(2), in third par., inserted “or the application for the original patent was filed by the assignee of the entire interest” after “claims of the original patent”.
 
 2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
@@ -69,19 +69,19 @@ Amendment by section 20(d) of Pub. L. 112–29 effective upon the expiration of 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-## § 252. Effect of reissue
+## § 252. Effect of reissue
 
 The surrender of the original patent shall take effect upon the issue of the reissued patent, and every reissued patent shall have the same effect and operation in law, on the trial of actions for causes thereafter arising, as if the same had been originally granted in such amended form, but in so far as the claims of the original and reissued patents are substantially identical, such surrender shall not affect any action then pending nor abate any cause of action then existing, and the reissued patent, to the extent that its claims are substantially identical with the original patent, shall constitute a continuation thereof and have effect continuously from the date of the original patent.
 
 A reissued patent shall not abridge or affect the right of any person or that person’s successors in business who, prior to the grant of a reissue, made, purchased, offered to sell, or used within the United States, or imported into the United States, anything patented by the reissued patent, to continue the use of, to offer to sell, or to sell to others to be used, offered for sale, or sold, the specific thing so made, purchased, offered for sale, used, or imported unless the making, using, offering for sale, or selling of such thing infringes a valid claim of the reissued patent which was in the original patent. The court before which such matter is in question may provide for the continued manufacture, use, offer for sale, or sale of the thing made, purchased, offered for sale, used, or imported as specified, or for the manufacture, use, offer for sale, or sale in the United States of which substantial preparation was made before the grant of the reissue, and the court may also provide for the continued practice of any process patented by the reissue that is practiced, or for the practice of which substantial preparation was made, before the grant of the reissue, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the grant of the reissue.
 
-(July 19, 1952, ch. 950, 66 Stat. 808; Pub. L. 103–465, title V, § 533(b)(2), Dec. 8, 1994, 108 Stat. 4989; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(8)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566.)
+(July 19, 1952, ch. 950, 66 Stat. 808; Pub. L. 103–465, title V, § 533(b)(2), Dec. 8, 1994, 108 Stat. 4989; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4507(8)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 64 (R.S. 4916, amended May 24, 1928, ch. 730, 45 Stat. 732.)
+Based on Title 35, U.S.C., 1946 ed., § 64 (R.S. 4916, amended May 24, 1928, ch. 730, 45 Stat. 732.)
 
 The first paragraph follows the present section with some rearrangement in language. The second paragraph adds new provisions for the protection of intervening rights, the court is given discretion to protect legitimate activities which would be adversely affected by the grant of a reissue and things made before the grant of the reissue are not subject to the reissue unless a claim of the original patent which is repeated in the reissue is infringed.
 
@@ -97,23 +97,23 @@ The first paragraph follows the present section with some rearrangement in langu
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 **Effective Date of 1994 Amendment**
 
 Amendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995], with provisions relating to earliest filed patent application, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under section 154 of this title.
 
-## § 253. Disclaimer
+## § 253. Disclaimer
 
 **(a) In General.—** Whenever a claim of a patent is invalid the remaining claims shall not thereby be rendered invalid. A patentee, whether of the whole or any sectional interest therein, may, on payment of the fee required by law, make disclaimer of any complete claim, stating therein the extent of his interest in such patent. Such disclaimer shall be in writing, and recorded in the Patent and Trademark Office; and it shall thereafter be considered as part of the original patent to the extent of the interest possessed by the disclaimant and by those claiming under him.
 
 **(b) Additional Disclaimer or Dedication.—** In the manner set forth in subsection (a), any patentee or applicant may disclaim or dedicate to the public the entire term, or any terminal part of the term, of the patent granted or to be granted.
 
-(July 19, 1952, ch. 950, 66 Stat. 809; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 112–29, § 20(e), Sept. 16, 2011, 125 Stat. 334.)
+(July 19, 1952, ch. 950, 66 Stat. 809; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 112–29, § 20(e), Sept. 16, 2011, 125 Stat. 334.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 65 (R.S. 4917).
+Based on Title 35, U.S.C., 1946 ed., § 65 (R.S. 4917).
 
 Language is changed and substantive changes are introduced; (1) only a claim as a whole may be disclaimed, and (2) the provision regarding delay is omitted. See preliminary general description of bill.
 
@@ -139,17 +139,17 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-## § 254. Certificate of correction of Patent and Trademark Office mistake
+## § 254. Certificate of correction of Patent and Trademark Office mistake
 
 Whenever a mistake in a patent, incurred through the fault of the Patent and Trademark Office, is clearly disclosed by the records of the Office, the Director may issue a certificate of correction stating the fact and nature of such mistake, under seal, without charge, to be recorded in the records of patents. A printed copy thereof shall be attached to each printed copy of the patent, and such certificate shall be considered as part of the original patent. Every such patent, together with such certificate, shall have the same effect and operation in law on the trial of actions for causes thereafter arising as if the same had been originally issued in such corrected form. The Director may issue a corrected patent without charge in lieu of and with like effect as a certificate of correction.
 
-(July 19, 1952, ch. 950, 66 Stat. 809; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 809; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 88 (Mar. 4, 1925, ch. 535, § 1, 43 Stat. 1268).
+Based on Title 35, U.S.C., 1946 ed., § 88 (Mar. 4, 1925, ch. 535, § 1, 43 Stat. 1268).
 
-The last sentence of the present section is omitted as obsolete. A sentence is added similar to a provision in the corresponding section in the trade-mark law, 15 U.S.C., 1946 ed., § 1057(f), and provides that the Commissioner may issue a corrected patent instead of a certificate of correction.
+The last sentence of the present section is omitted as obsolete. A sentence is added similar to a provision in the corresponding section in the trade-mark law, 15 U.S.C., 1946 ed., § 1057(f), and provides that the Commissioner may issue a corrected patent instead of a certificate of correction.
 
 **Editorial Notes**
 
@@ -165,21 +165,21 @@ The last sentence of the present section is omitted as obsolete. A sentence is a
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1975 Amendment**
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-## § 255. Certificate of correction of applicant’s mistake
+## § 255. Certificate of correction of applicant’s mistake
 
 Whenever a mistake of a clerical or typographical nature, or of minor character, which was not the fault of the Patent and Trademark Office, appears in a patent and a showing has been made that such mistake occurred in good faith, the Director may, upon payment of the required fee, issue a certificate of correction, if the correction does not involve such changes in the patent as would constitute new matter or would require re-examination. Such patent, together with the certificate, shall have the same effect and operation in law on the trial of actions for causes thereafter arising as if the same had been originally issued in such corrected form.
 
-(July 19, 1952, ch. 950, 66 Stat. 809; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 809; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 **Historical and Revision Notes**
 
-This section providing for the correction of minor clerical errors made by the applicant, is new and follows a similar provision in the trade-mark law, 15 U.S.C., 1946 ed., § 1057(g).
+This section providing for the correction of minor clerical errors made by the applicant, is new and follows a similar provision in the trade-mark law, 15 U.S.C., 1946 ed., § 1057(g).
 
 **Editorial Notes**
 
@@ -195,19 +195,19 @@ This section providing for the correction of minor clerical errors made by the a
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1975 Amendment**
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
-## § 256. Correction of named inventor
+## § 256. Correction of named inventor
 
 **(a) Correction.—** Whenever through error a person is named in an issued patent as the inventor, or through error an inventor is not named in an issued patent, the Director may, on application of all the parties and assignees, with proof of the facts and such other requirements as may be imposed, issue a certificate correcting such error.
 
 **(b) Patent Valid if Error Corrected.—** The error of omitting inventors or naming persons who are not inventors shall not invalidate the patent in which such error occurred if it can be corrected as provided in this section. The court before which such matter is called in question may order correction of the patent on notice and hearing of all parties concerned and the Director shall issue a certificate accordingly.
 
-(July 19, 1952, ch. 950, 66 Stat. 810; Pub. L. 97–247, § 6(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(f), Sept. 16, 2011, 125 Stat. 334.)
+(July 19, 1952, ch. 950, 66 Stat. 810; Pub. L. 97–247, § 6(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(f), Sept. 16, 2011, 125 Stat. 334.)
 
 **Historical and Revision Notes**
 
@@ -235,13 +235,13 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1982 Amendment**
 
 Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see section 17(c) of Pub. L. 97–247, set out as an Effective Date note under section 294 of this title.
 
-## § 257. Supplemental examinations to consider, reconsider, or correct information
+## § 257. Supplemental examinations to consider, reconsider, or correct information
 
 **(a) Request for Supplemental Examination.—** A patent owner may request supplemental examination of a patent in the Office to consider, reconsider, or correct information believed to be relevant to the patent, in accordance with such requirements as the Director may establish. Within 3 months after the date a request for supplemental examination meeting the requirements of this section is received, the Director shall conduct the supplemental examination and shall conclude such examination by issuing a certificate indicating whether the information presented in the request raises a substantial new question of patentability.
 
@@ -273,7 +273,7 @@ Amendment by Pub. L. 97–247 effective six months after Aug. 27, 1982, see sect
 
 **(3)** to limit the authority of the Director to issue regulations under chapter 3 relating to sanctions for misconduct by representatives practicing before the Office.
 
-(Added and amended Pub. L. 112–29, §§ 12(a), 20(j), Sept. 16, 2011, 125 Stat. 325, 335.)
+(Added and amended Pub. L. 112–29, §§ 12(a), 20(j), Sept. 16, 2011, 125 Stat. 325, 335.)
 
 **Editorial Notes**
 
@@ -285,7 +285,7 @@ Section 5 of the Federal Trade Commission Act, referred to in subsec. (f)(1), is
 
 **Amendments**
 
-2011—Subsec. (c)(2)(B). Pub. L. 112–29, § 20(j), struck out “of this title” after “281”.
+2011—Subsec. (c)(2)(B). Pub. L. 112–29, § 20(j), struck out “of this title” after “281”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -295,4 +295,4 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 **Effective Date**
 
-Pub. L. 112–29, § 12(c), Sept. 16, 2011, 125 Stat. 327, provided that: “The amendments made by this section [enacting this section] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued before, on, or after that effective date.”
+Pub. L. 112–29, § 12(c), Sept. 16, 2011, 125 Stat. 327, provided that: “The amendments made by this section [enacting this section] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act [Sept. 16, 2011] and shall apply to any patent issued before, on, or after that effective date.”

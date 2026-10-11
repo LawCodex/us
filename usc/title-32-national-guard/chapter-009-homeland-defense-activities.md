@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 9—HOMELAND DEFENSE ACTIVITIES
 
-## § 901. Definitions
+## § 901. Definitions
 
 In this chapter:
 
@@ -23,13 +23,13 @@ In this chapter:
 
 **(2)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or a territory or possession of the United States.
 
-(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1878.)
+(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1878.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Guidance for Use of Unmanned Aircraft Systems by National Guard**
 
-Pub. L. 118–31, div. A, title X, § 1086, Dec. 22, 2023, 137 Stat. 419, provided that:
+Pub. L. 118–31, div. A, title X, § 1086, Dec. 22, 2023, 137 Stat. 419, provided that:
 
 > **“(a) Updated Guidance Required.—** Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall issue updated guidance on the use of unmanned aircraft systems by the National Guard for covered activities.
 
@@ -51,11 +51,11 @@ Pub. L. 118–31, div. A, title X, § 1086, Dec. 22, 2023, 137 Stat. 419, prov
 
 **Implementation of Certain Recommendations Regarding Use of Unmanned Aircraft Systems by the National Guard**
 
-Pub. L. 117–81, div. A, title V, § 514, Dec. 27, 2021, 135 Stat. 1683, provided that: “Not later than September 30, 2022, the Secretary of Defense shall implement recommendations of the Secretary described in section 519C(a)(2) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [134 Stat. 3596].”
+Pub. L. 117–81, div. A, title V, § 514, Dec. 27, 2021, 135 Stat. 1683, provided that: “Not later than September 30, 2022, the Secretary of Defense shall implement recommendations of the Secretary described in section 519C(a)(2) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [134 Stat. 3596].”
 
 **Pilot Program on Remote Provision by National Guard to National Guards of Other States of Cybersecurity Technical Assistance in Training, Preparation, and Response to Cyber Incidents**
 
-Pub. L. 116–283, div. A, title XVII, § 1725, Jan. 1, 2021, 134 Stat. 4112, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1725, Jan. 1, 2021, 134 Stat. 4112, provided that:
 
 > **“(a) Pilot Program Authorized.—**
 
@@ -141,7 +141,7 @@ Pub. L. 116–283, div. A, title XVII, § 1725, Jan. 1, 2021, 134 Stat. 4112, 
 
 **Cyber Capabilities and Interoperability of the National Guard**
 
-Pub. L. 116–283, div. A, title XVII, § 1729, Jan. 1, 2021, 134 Stat. 4118, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1729, Jan. 1, 2021, 134 Stat. 4118, provided that:
 
 > **“(a) Evaluation.—**
 
@@ -185,11 +185,11 @@ Pub. L. 116–283, div. A, title XVII, § 1729, Jan. 1, 2021, 134 Stat. 4118, 
 
 > **“(2)** the public confidence, civil liberties, or public health and safety of the American people.”
 
-## § 902. Homeland defense activities: funds
+## § 902. Homeland defense activities: funds
 
 The Secretary of Defense may provide funds to a Governor to employ National Guard units or members to conduct homeland defense activities that the Secretary determines to be necessary and appropriate for participation by the National Guard units or members, as the case may be.
 
-(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1878; amended Pub. L. 109–364, div. A, title X, § 1071(b)(1), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 115–232, div. A, title X, § 1081(b), Aug. 13, 2018, 132 Stat. 1985.)
+(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1878; amended Pub. L. 109–364, div. A, title X, § 1071(b)(1), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 115–232, div. A, title X, § 1081(b), Aug. 13, 2018, 132 Stat. 1985.)
 
 **Editorial Notes**
 
@@ -199,13 +199,13 @@ The Secretary of Defense may provide funds to a Governor to employ National Guar
 
 2006—Pub. L. 109–364 struck out “(a)” before “The Secretary”.
 
-## § 903. Regulations
+## § 903. Regulations
 
 The Secretary of Defense shall prescribe regulations to implement this chapter.
 
-(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1878.)
+(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1878.)
 
-## § 904. Homeland defense duty
+## § 904. Homeland defense duty
 
 **(a) Full-Time National Guard Duty.—** All duty performed under this chapter shall be considered to be full-time National Guard duty under section 502(f) of this title. Members of the National Guard performing full-time National Guard duty in the Active Guard and Reserve Program may support or execute homeland defense activities performed by the National Guard under this chapter.
 
@@ -219,9 +219,9 @@ The Secretary of Defense shall prescribe regulations to implement this chapter.
 
 **(2)** The performance of the activities is not to degrade the military skills of the members of the National Guard performing those activities.
 
-(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1878.)
+(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1878.)
 
-## § 905. Funding assistance
+## § 905. Funding assistance
 
 In the case of any homeland defense activity for which the Secretary of Defense determines under section 902 of this title that participation of units or members of the National Guard of a State is necessary and appropriate, the Secretary may provide funds to that State in an amount that the Secretary determines is appropriate for the following costs of the participation in that activity from funds available to the Department for related purposes:
 
@@ -231,9 +231,9 @@ In the case of any homeland defense activity for which the Secretary of Defense 
 
 **(3)** The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State.
 
-(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1879.)
+(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1879.)
 
-## § 906. Requests for funding assistance
+## § 906. Requests for funding assistance
 
 A Governor of a State may request funding assistance for the homeland defense activities of the National Guard of that State from the Secretary of Defense. Any such request shall include the following:
 
@@ -243,15 +243,15 @@ A Governor of a State may request funding assistance for the homeland defense ac
 
 **(3)** A certification that homeland defense activities are to be conducted at a time when the personnel involved are not in Federal service.
 
-(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1879.)
+(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1879.)
 
-## § 907. Relationship to State duty
+## § 907. Relationship to State duty
 
 Nothing in this chapter shall be construed as a limitation on the authority of any unit of the National Guard of a State, when such unit is not in Federal service, to perform functions authorized to be performed by the National Guard by the laws of the State concerned.
 
-(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1879.)
+(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1879.)
 
-## § 908. Annual report
+## § 908. Annual report
 
 **(a) Requirement for Report.—** After the end of any fiscal year during which any assistance was provided or activities were carried out under this chapter, the Secretary of Defense shall submit to the congressional defense committees a report regarding any assistance provided and activities carried out under this chapter during that fiscal year. The report for a fiscal year shall be submitted not later than March 31 of the year following the year in which such fiscal year ended.
 
@@ -267,7 +267,7 @@ Nothing in this chapter shall be construed as a limitation on the authority of a
 
 **(5)** A description of the effect of any equipment shortfall on the ability of the National Guard of a State to perform a homeland defense activity.
 
-(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1879; amended Pub. L. 109–364, div. A, title X, § 1071(b)(2), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 112–81, div. A, title X, § 1065(a), Dec. 31, 2011, 125 Stat. 1588; Pub. L. 119–60, div. A, title V, § 513, Dec. 18, 2025, 139 Stat. 862.)
+(Added Pub. L. 108–375, div. A, title V, § 512(a)(1), Oct. 28, 2004, 118 Stat. 1879; amended Pub. L. 109–364, div. A, title X, § 1071(b)(2), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 112–81, div. A, title X, § 1065(a), Dec. 31, 2011, 125 Stat. 1588; Pub. L. 119–60, div. A, title V, § 513, Dec. 18, 2025, 139 Stat. 862.)
 
 **Editorial Notes**
 

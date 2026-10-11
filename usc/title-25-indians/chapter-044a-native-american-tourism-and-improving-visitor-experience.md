@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 44A—NATIVE AMERICAN TOURISM AND IMPROVING VISITOR EXPERIENCE
 
-## § 4351. Purposes
+## § 4351. Purposes
 
 The purposes of this chapter are—
 
@@ -43,15 +43,15 @@ The purposes of this chapter are—
 
 **(7)** to support the development of technologically innovative projects that will incorporate recreational travel and tourism information and data from Federal assets to improve the visitor experience.
 
-(Pub. L. 114–221, § 2, Sept. 23, 2016, 130 Stat. 847.)
+(Pub. L. 114–221, § 2, Sept. 23, 2016, 130 Stat. 847.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 114–221, § 1, Sept. 23, 2016, 130 Stat. 847, provided that: “This Act [enacting this chapter] may be cited as the ‘Native American Tourism and Improving Visitor Experience Act’ or the ‘NATIVE Act’.”
+Pub. L. 114–221, § 1, Sept. 23, 2016, 130 Stat. 847, provided that: “This Act [enacting this chapter] may be cited as the ‘Native American Tourism and Improving Visitor Experience Act’ or the ‘NATIVE Act’.”
 
-## § 4352. Definitions
+## § 4352. Definitions
 
 In this chapter:
 
@@ -75,9 +75,9 @@ The term “Indian tribe” has the meaning given the term in section 5304 of th
 
 The term “tribal organization” has the meaning given the term in section 5304 of this title.
 
-(Pub. L. 114–221, § 3, Sept. 23, 2016, 130 Stat. 848.)
+(Pub. L. 114–221, § 3, Sept. 23, 2016, 130 Stat. 848.)
 
-## § 4353. Integrating Federal tourism assets to strengthen Native tourism opportunities
+## § 4353. Integrating Federal tourism assets to strengthen Native tourism opportunities
 
 **(a) Secretary of Commerce and Secretary of the Interior**
 
@@ -143,9 +143,9 @@ The Secretary of the Interior and the Secretary of Commerce shall coordinate wit
 
 **(4)** the effectiveness of the entity or organization described in subsection (d)(1) based on the metrics developed under subsection (d)(4).
 
-(Pub. L. 114–221, § 4, Sept. 23, 2016, 130 Stat. 848.)
+(Pub. L. 114–221, § 4, Sept. 23, 2016, 130 Stat. 848.)
 
-## § 4354. Native American tourism and branding enhancement
+## § 4354. Native American tourism and branding enhancement
 
 **(a) In general** The head of each agency shall—
 
@@ -177,10 +177,10 @@ The Secretary of the Interior and the Secretary of Commerce shall coordinate wit
 
 **(2)** to conduct joint research and collaborative projects that would support tourism efforts for Indian tribes, tribal organizations, and Native Hawaiian organizations and carry out the intent of this section.
 
-(Pub. L. 114–221, § 5, Sept. 23, 2016, 130 Stat. 850.)
+(Pub. L. 114–221, § 5, Sept. 23, 2016, 130 Stat. 850.)
 
-## § 4355. Effect
+## § 4355. Effect
 
 Nothing in this chapter alters, or demonstrates congressional support for the alteration of, the legal relationship between the United States and any American Indian, Alaska Native, or Native Hawaiian individual, group, organization, or entity.
 
-(Pub. L. 114–221, § 6, Sept. 23, 2016, 130 Stat. 851.)
+(Pub. L. 114–221, § 6, Sept. 23, 2016, 130 Stat. 851.)

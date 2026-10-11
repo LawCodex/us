@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 540. Investigations and improvements; control by Department of the Army; wildlife conservation
+### § 540. Investigations and improvements; control by Department of the Army; wildlife conservation
 
 Federal investigations and improvements of rivers, harbors, and other waterways shall be under the jurisdiction of and shall be prosecuted by the Department of the Army under the direction of the Secretary of the Army and the supervision of the Chief of Engineers, except as otherwise specifically provided by Act of Congress, which said investigations and improvements shall include a due regard for wildlife conservation.
 
-(June 20, 1938, ch. 535, § 1, 52 Stat. 802; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 20, 1938, ch. 535, § 1, 52 Stat. 802; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -37,19 +37,19 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Waterway Improvements Study and Report; Availability of Data to National Transportation Policy Commission**
 
-Pub. L. 94–587, § 158, Oct. 22, 1976, 90 Stat. 2933, directed the Secretary of the Army, acting through the Chief of Engineers, to make a comprehensive study and report on the system of waterway improvements under his jurisdiction, including a review of emergency and defense requirements and an appraisal of additional improvements necessary to optimize the system and its intermodal characteristics, and to submit a report to Congress within three years after funds were first appropriated and made available for the study, together with his recommendations. The Secretary of the Army, acting through the Chief of Engineers, was to make available to the National Transportation Policy Study Commission established by section 154 of Public Law 94–280 [set out as a note under section 101 of Title 23, Highways], the information and other data developed as a result of the study.
+Pub. L. 94–587, § 158, Oct. 22, 1976, 90 Stat. 2933, directed the Secretary of the Army, acting through the Chief of Engineers, to make a comprehensive study and report on the system of waterway improvements under his jurisdiction, including a review of emergency and defense requirements and an appraisal of additional improvements necessary to optimize the system and its intermodal characteristics, and to submit a report to Congress within three years after funds were first appropriated and made available for the study, together with his recommendations. The Secretary of the Army, acting through the Chief of Engineers, was to make available to the National Transportation Policy Study Commission established by section 154 of Public Law 94–280 [set out as a note under section 101 of Title 23, Highways], the information and other data developed as a result of the study.
 
 **Reimbursement of States for Water Resources Projects; Study**
 
-Pub. L. 89–298, title III, § 314, Oct. 27, 1965, 79 Stat. 1096, authorized the Secretary of the Army, through the Chief of Engineers, to study the need for and feasibility of Federal reimbursement of certain public entities for their expenses incurred in connection with authorized projects for improvements of rivers, harbors, and certain other waterways, for various purposes, and to submit a report to Congress no later than Jan. 31, 1967, together with his recommendations in connection therewith.
+Pub. L. 89–298, title III, § 314, Oct. 27, 1965, 79 Stat. 1096, authorized the Secretary of the Army, through the Chief of Engineers, to study the need for and feasibility of Federal reimbursement of certain public entities for their expenses incurred in connection with authorized projects for improvements of rivers, harbors, and certain other waterways, for various purposes, and to submit a report to Congress no later than Jan. 31, 1967, together with his recommendations in connection therewith.
 
-### § 540a. Availability of appropriations for attendance by military personnel at meetings and for printing survey reports
+### § 540a. Availability of appropriations for attendance by military personnel at meetings and for printing survey reports
 
-Appropriations in this title 1
+Appropriations in this title 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-or appropriations made in this title 1 in subsequent Energy and Water Development Appropriations Acts shall on and after October 2, 1992, be available for expenses of attendance by military personnel at meetings in the manner authorized by section 4110 of title 5, uniforms, and allowances therefor, as authorized by law (5 U.S.C. 5901–5902), and for printing, either during a recess or session of Congress, of survey reports authorized by law, and such survey reports as may be printed during a recess of Congress shall be printed, with illustrations, as documents of the next succeeding session of Congress.
+or appropriations made in this title 1 in subsequent Energy and Water Development Appropriations Acts shall on and after October 2, 1992, be available for expenses of attendance by military personnel at meetings in the manner authorized by section 4110 of title 5, uniforms, and allowances therefor, as authorized by law (5 U.S.C. 5901–5902), and for printing, either during a recess or session of Congress, of survey reports authorized by law, and such survey reports as may be printed during a recess of Congress shall be printed, with illustrations, as documents of the next succeeding session of Congress.
 
 (Pub. L. 102–377, title I, Oct. 2, 1992, 106 Stat. 1325.)
 
@@ -59,13 +59,13 @@ or appropriations made in this title 1 in subsequent Energy and Water Developm
 
 This title, referred to in text, is title I of Pub. L. 102–377, Oct. 2, 1992, 106 Stat. 1315. For complete classification of title I to the Code, see Tables.
 
-### § 541. Board of Engineers for Rivers and Harbors; establishment; duties and powers generally
+### § 541. Board of Engineers for Rivers and Harbors; establishment; duties and powers generally
 
 There shall be organized in the office of the Chief of Engineers, United States Army, by detail from time to time from the Corps of Engineers, a board of seven engineer officers, a majority of whom shall be of rank not less than lieutenant colonel, whose duties shall be fixed by the Chief of Engineers, and to whom shall be referred for consideration and recommendation, in addition to any other duties assigned, so far as in the opinion of the Chief of Engineers may be necessary, all reports upon examinations and surveys provided for by Congress, and all projects or changes in projects for works of river and harbor improvement prior to June 13, 1902, or thereafter provided for. And the board shall submit to the Chief of Engineers recommendations as to the desirability of commencing or continuing any and all improvements upon which reports are required. And in the consideration of such works and projects the board shall have in view the amount and character of commerce existing or reasonably prospective which will be benefited by the improvement, and the relation of the ultimate cost of such work, both as to cost of construction and maintenance, to the public commercial interests involved, and the public necessity for the work and propriety of its construction, continuance, or maintenance at the expense of the United States. And such consideration shall be given as time permits to such works as have, prior to June 13, 1902, been provided for by Congress, the same as in the case of new works proposed. The board shall, when it considers the same necessary, and with the sanction and under orders from the Chief of Engineers, make, as a board or through its members, personal examinations of localities. And all facts, information, and arguments which are presented to the board for its consideration in connection with any matter referred to it by the Chief of Engineers shall be reduced to and submitted in writing, and made a part of the records of the office of the Chief of Engineers. It shall further be the duty of said board, upon a request transmitted to the Chief of Engineers by the Committee on Public Works and Transportation of the House of Representatives, or the Committee on Environment and Public Works of the Senate, in the same manner to examine and report through the Chief of Engineers upon any projects adopted, prior to June 13, 1902, by the Government or upon which appropriations have been made, and report upon the desirability of continuing the same or upon any modifications thereof which may be deemed desirable. As used in this section the term “commerce” shall include the use of waterways by seasonal passenger craft, yachts, house boats, fishing boats, motor boats, and other similar water craft, whether or not operated for hire.
 
 The board shall have authority, with the approval of the Chief of Engineers, to rent quarters, if necessary, for the proper transaction of its business, and to employ such civil employees as may, in the opinion of the Chief of Engineers, be required for properly transacting the business assigned to it, and the necessary expenses of the board shall be paid from allotments made by the Chief of Engineers from any appropriations made by Congress for the work or works to which the duties of the board pertain.
 
-(June 13, 1902, ch. 1079, § 3, 32 Stat. 372; Mar. 4, 1913, ch. 144, § 4, 37 Stat. 827; Feb. 10, 1932, ch. 26, 47 Stat. 42; Pub. L. 103–437, § 12(a), Nov. 2, 1994, 108 Stat. 4590.)
+(June 13, 1902, ch. 1079, § 3, 32 Stat. 372; Mar. 4, 1913, ch. 144, § 4, 37 Stat. 827; Feb. 10, 1932, ch. 26, 47 Stat. 42; Pub. L. 103–437, § 12(a), Nov. 2, 1994, 108 Stat. 4590.)
 
 **Editorial Notes**
 
@@ -89,17 +89,17 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 **Termination of Board of Engineers for Rivers and Harbors and Reassignment of Duties and Responsibilities**
 
-Pub. L. 102–580, title II, § 223, Oct. 31, 1992, 106 Stat. 4837, provided that: “The Board of Engineers for Rivers and Harbors, established by section 3 of the River and Harbor Act of June 13, 1902 (33 U.S.C. 541), shall cease to exist on the 180th day following the date of the enactment of this Act [Oct. 31, 1992]. The Secretary may reassign to other elements within the Department of the Army such duties and responsibilities of the Board as the Secretary determines to be necessary.”
+Pub. L. 102–580, title II, § 223, Oct. 31, 1992, 106 Stat. 4837, provided that: “The Board of Engineers for Rivers and Harbors, established by section 3 of the River and Harbor Act of June 13, 1902 (33 U.S.C. 541), shall cease to exist on the 180th day following the date of the enactment of this Act [Oct. 31, 1992]. The Secretary may reassign to other elements within the Department of the Army such duties and responsibilities of the Board as the Secretary determines to be necessary.”
 
 **Waterways Commission**
 
-Act Aug. 8, 1917, ch. 49, § 18, 40 Stat. 269, created a commission to be known as the Waterways Commission, to bring into coordination and cooperation the engineering, scientific, and constructive services, bureaus, boards, etc., relating to study development, or control of waterways, etc., prior to repeal by act June 10, 1920, ch. 285, § 29, 41 Stat. 1077.
+Act Aug. 8, 1917, ch. 49, § 18, 40 Stat. 269, created a commission to be known as the Waterways Commission, to bring into coordination and cooperation the engineering, scientific, and constructive services, bureaus, boards, etc., relating to study development, or control of waterways, etc., prior to repeal by act June 10, 1920, ch. 285, § 29, 41 Stat. 1077.
 
-### § 542. Review by Board of Engineers of reports on examinations and surveys and special reports
+### § 542. Review by Board of Engineers of reports on examinations and surveys and special reports
 
 All reports on examinations and surveys authorized by law shall be reviewed by the Board of Engineers for Rivers and Harbors as provided for in section 541 of this title, and all special reports ordered by Congress shall, in the discretion of the Chief of Engineers, be reviewed in like manner by said board; and the said board shall also, on request by resolution of the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives, submitted to the Chief of Engineers, examine and review the report of any examination or survey made pursuant to any Act or resolution of Congress, and report thereon through the Chief of Engineers, United States Army, who shall submit his conclusions thereon as in other cases: *Provided*, That in no case shall the board, in its report thus called for by committee resolution, extend the scope of the project contemplated in the original report upon which its examination and review has been requested, or in the provision of law authorizing the original examination or survey.
 
-(Mar. 4, 1913, ch. 144, § 4, 37 Stat. 826; Pub. L. 103–437, § 12(b), Nov. 2, 1994, 108 Stat. 4590.)
+(Mar. 4, 1913, ch. 144, § 4, 37 Stat. 826; Pub. L. 103–437, § 12(b), Nov. 2, 1994, 108 Stat. 4590.)
 
 **Editorial Notes**
 
@@ -127,17 +127,17 @@ For termination of Board of Engineers for Rivers and Harbors 180 days after Oct.
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40, July 22, 1949.
 
-### § 543. Employment of civil engineers on western and northwestern rivers
+### § 543. Employment of civil engineers on western and northwestern rivers
 
 The Chief of Engineers may, with the approval of the Secretary of the Army, employ such civil engineers, not exceeding five in number, for the purpose of executing the surveys and improvements of western and northwestern rivers, ordered by Congress, as may be necessary to the proper and diligent prosecution of the same; and the persons so employed may be allowed a reasonable compensation for their services, not to exceed the sum of $3,000 a year.
 
-(R.S. § 5253; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(R.S. § 5253; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5253 derived from Res. Mar. 29, 1867, No. 27, 15 Stat. 28.
+R.S. § 5253 derived from Res. Mar. 29, 1867, No. 27, 15 Stat. 28.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -151,19 +151,19 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40, July 22, 1949.
 
-### § 544. Repealed. Aug. 19, 1968, Pub. L. 88–448, § 402(a)(9), 78 Stat. 493
+### § 544. Repealed. Aug. 19, 1968, Pub. L. 88–448, § 402(a)(9), 78 Stat. 493
 
-Section, act June 3, 1896, ch. 314, § 7, 29 Stat. 235, related to employment of retired officers of the Army or Navy on river and harbour improvements.
+Section, act June 3, 1896, ch. 314, § 7, 29 Stat. 235, related to employment of retired officers of the Army or Navy on river and harbour improvements.
 
-### § 544a. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 650
+### § 544a. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 650
 
-Section, act June 20, 1938, ch. 535, § 5, 52 Stat. 805, related to employment of retired civil service employees. See section 3323 of Title 5, Government Organization and Employees.
+Section, act June 20, 1938, ch. 535, § 5, 52 Stat. 805, related to employment of retired civil service employees. See section 3323 of Title 5, Government Organization and Employees.
 
-### § 544b. Employment of physicians to examine employees; fee or employment basis; validation of prior agreements
+### § 544b. Employment of physicians to examine employees; fee or employment basis; validation of prior agreements
 
 The Chief of Engineers may authorize the employment of physicians under agreement, to make such physical examinations of employees or prospective employees as he may consider essential, on a fee or regular employment basis, and all agreements entered into prior to March 2, 1945, for such purposes are validated, and the Comptroller General is authorized and directed to allow credit in the accounts of disbursing officers for reasonable payments made prior to March 2, 1945, for such services.
 
-(Mar. 2, 1945, ch. 19, § 5, 59 Stat. 24.)
+(Mar. 2, 1945, ch. 19, § 5, 59 Stat. 24.)
 
 **Executive Documents**
 
@@ -171,11 +171,11 @@ The Chief of Engineers may authorize the employment of physicians under agreemen
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40, July 22, 1949.
 
-### § 544c. Minority group participation in construction of the Tennessee-Tombigbee Waterway project; annual report to Congress
+### § 544c. Minority group participation in construction of the Tennessee-Tombigbee Waterway project; annual report to Congress
 
 The Secretary of the Army, acting through the Chief of Engineers, is directed to make a maximum effort to assure the full participation of members of minority groups, living in the States participating in the Tennessee-Tombigbee Waterway Development Authority, in the construction of the Tennessee-Tombigbee Waterway project, including actions to encourage the use, wherever possible, of minority owned firms.
 
-(Pub. L. 94–587, § 185, Oct. 22, 1976, 90 Stat. 2941; Pub. L. 104–106, div. A, title X, § 1064(e), Feb. 10, 1996, 110 Stat. 445.)
+(Pub. L. 94–587, § 185, Oct. 22, 1976, 90 Stat. 2941; Pub. L. 104–106, div. A, title X, § 1064(e), Feb. 10, 1996, 110 Stat. 445.)
 
 **Editorial Notes**
 
@@ -183,7 +183,7 @@ The Secretary of the Army, acting through the Chief of Engineers, is directed to
 
 1996—Pub. L. 104–106 struck out at end “The Chief of Engineers is directed to report on July 1 of each year to the Congress on the implementation of this section, together with recommendation for any legislation that may be needed to assure the fuller and more equitable participation of members of minority groups in this project or others under the direction of the Secretary.”
 
-### § 545. Preliminary examinations and reports; surveys; contents of report to Congress generally
+### § 545. Preliminary examinations and reports; surveys; contents of report to Congress generally
 
 In all cases where preliminary examinations and surveys are authorized a preliminary examination of the river, harbor, or other proposed improvement mentioned shall first be made and a report as to the advisability of its improvement shall be submitted unless a survey or estimate is expressly directed. If upon such preliminary examination the proposed improvement is not deemed advisable, no further action shall be taken thereon without the further direction of Congress; but in case the report shall be favorable to such proposed improvement, or that a survey and estimate should be made to determine the advisability of improvement, the Secretary of the Army is authorized, in his discretion, to cause surveys to be made, and the cost and advisability to be reported to Congress. And such reports containing plans and estimates shall also contain a statement as to the rate at which the work should be prosecuted: *Provided*, That every report submitted to Congress, in addition to full information regarding the present and prospective commercial importance of the project covered by the report and the benefit to commerce likely to result from any proposed plan of improvement, shall also contain such data as it may be practicable to secure in regard to the following subjects:
 
@@ -193,17 +193,17 @@ In all cases where preliminary examinations and surveys are authorized a prelimi
 
 **(c)** Such other subjects as may be properly connected with such project: *Provided*, That in the investigation and study of these questions consideration shall be given only to their bearing upon the improvement of navigation, to the possibility and desirability of their being coordinated in a logical and proper manner with improvements for navigation to lessen the cost of such improvements and to compensate the Government for expenditures made in the interest of navigation, and to their relation to the development and regulation of commerce: *Provided further*, That the investigation and study of these questions may, upon review by the Board of Engineers for Rivers and Harbors when called for as provided by law, be extended to any work of improvement under way and to any locality the examination and survey of which has heretofore been, or may hereafter be, authorized by Congress.
 
-(Mar. 4, 1913, ch. 144, § 3, 37 Stat. 825; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 4, 1913, ch. 144, § 3, 37 Stat. 825; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
 **Codification**
 
-This section and the second paragraph of section 556 of this title are from section 3 of act Mar. 4, 1913, popularly known as the “Rivers and Harbors Appropriation Act of 1913”. That section superseded similar provisions of act June 25, 1910, ch. 382, § 3, 36 Stat. 668, for reports, investigations on review by the board of Engineers and for the printing of reports.
+This section and the second paragraph of section 556 of this title are from section 3 of act Mar. 4, 1913, popularly known as the “Rivers and Harbors Appropriation Act of 1913”. That section superseded similar provisions of act June 25, 1910, ch. 382, § 3, 36 Stat. 668, for reports, investigations on review by the board of Engineers and for the printing of reports.
 
 **Prior Provisions**
 
-Provision for report of examinations of river and harbor improvements appeared in R.S. § 231, repealed by act Mar. 3, 1933, ch. 202, § 1, 47 Stat. 1428, and read as follows: “The Secretary of War shall cause to be prepared and submitted to Congress, in connection with the reports of examinations and surveys of rivers and harbors hereafter made by order of Congress, full statements of all existing facts tending to show to what extent the general commerce of the country will be promoted by the several works of improvements contemplated by such examinations and surveys, to the end that public moneys shall not be applied excepting where such improvements shall tend to subserve the general commercial and navigation interests of the United States.”
+Provision for report of examinations of river and harbor improvements appeared in R.S. § 231, repealed by act Mar. 3, 1933, ch. 202, § 1, 47 Stat. 1428, and read as follows: “The Secretary of War shall cause to be prepared and submitted to Congress, in connection with the reports of examinations and surveys of rivers and harbors hereafter made by order of Congress, full statements of all existing facts tending to show to what extent the general commerce of the country will be promoted by the several works of improvements contemplated by such examinations and surveys, to the end that public moneys shall not be applied excepting where such improvements shall tend to subserve the general commercial and navigation interests of the United States.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -225,13 +225,13 @@ The Secretary of War and the Secretary of the Navy were authorized and directed 
 
 **Preliminary Examinations and Surveys of Great Lakes**
 
-The Secretary of War was directed to cause preliminary examinations and surveys to be made of the harbors and connecting waters of the Great Lakes with a view to determining what additional improvements would be necessary to permit those waterways to accommodate vessels to pass through the Welland Canal when enlarged by the Dominion of Canada, including report as to the character and draft of vessels which might be expected to use the canal when so enlarged, by a provision of the Rivers and Harbors Appropriation Act of 1916, act July 27, 1916, ch. 260, § 2, 39 Stat. 411, omitted from the Code as special and temporary.
+The Secretary of War was directed to cause preliminary examinations and surveys to be made of the harbors and connecting waters of the Great Lakes with a view to determining what additional improvements would be necessary to permit those waterways to accommodate vessels to pass through the Welland Canal when enlarged by the Dominion of Canada, including report as to the character and draft of vessels which might be expected to use the canal when so enlarged, by a provision of the Rivers and Harbors Appropriation Act of 1916, act July 27, 1916, ch. 260, § 2, 39 Stat. 411, omitted from the Code as special and temporary.
 
-### § 545a. Discontinuance
+### § 545a. Discontinuance
 
 For preliminary examinations and surveys authorized in previous river and harbor and flood-control Acts, the Secretary of the Army is directed to cause investigations and reports for navigation and allied purposes to be prepared under the supervision of the Chief of Engineers in the form of survey reports, and that preliminary examination reports shall no longer be required to be prepared.
 
-(Pub. L. 85–500, title I, § 105, July 3, 1958, 72 Stat. 300.)
+(Pub. L. 85–500, title I, § 105, July 3, 1958, 72 Stat. 300.)
 
 **Editorial Notes**
 
@@ -239,11 +239,11 @@ For preliminary examinations and surveys authorized in previous river and harbor
 
 Previous river and harbor and flood-control Acts, referred to in text, means those acts prior to the River and Harbor Act of 1958 and the Flood Control Act of 1958, titles I and II, respectively, of Pub. L. 85–500.
 
-### § 546. Investigation of stream flow and watersheds; surveys in connection with dams
+### § 546. Investigation of stream flow and watersheds; surveys in connection with dams
 
 The surveys of navigable streams shall include such stream-flow measurements and other investigations of the watersheds as may be necessary for preparation of plans of improvement and a proper consideration of all uses of the stream affecting navigation, and whenever necessary similar investigations may be made in connection with all navigable streams under improvement. Whenever permission for the construction of dams in navigable streams is granted, or is under consideration by Congress, such surveys and investigations of the sections of the streams affected may be made as are necessary to secure conformity with rational plans for the improvement of the streams for navigation.
 
-(June 25, 1910, ch. 382, § 3, 36 Stat. 669.)
+(June 25, 1910, ch. 382, § 3, 36 Stat. 669.)
 
 **Editorial Notes**
 
@@ -255,17 +255,17 @@ Section is from section 3 of act June 25, 1910, popularly known as the “Rivers
 
 General provisions regulating the construction of dams were made by the Dam Act of June 21, 1906, ch. 3508, 34 Stat. 386, as amended by act June 23, 1910, ch. 360, 36 Stat. 593, apparently omitted from the Code as superseded.
 
-### § 546a. Information as to configuration of shore line
+### § 546a. Information as to configuration of shore line
 
 Every report submitted to Congress in pursuance of any provision of law for preliminary examination and survey looking to the improvement of the entrance at the mouth of any river or at any inlet, in addition to other information which the Congress has directed shall be given, shall contain information concerning the configuration of the shore line and the probable effect thereon that may be expected to result from the improvement having particular reference to erosion and/or accretion for a distance of not less than ten miles on either side of the said entrance.
 
-(Aug. 30, 1935, ch. 831, § 5, 49 Stat. 1048.)
+(Aug. 30, 1935, ch. 831, § 5, 49 Stat. 1048.)
 
-### § 547. Reports as to local benefits of improvement and recommendations as to local cooperation
+### § 547. Reports as to local benefits of improvement and recommendations as to local cooperation
 
 Every report submitted to Congress in pursuance of any provision of law for a survey, in addition to other information which the Congress has directed shall be given, shall contain a statement of special or local benefit which will accrue to localities affected by such improvement and a statement of general or national benefits, with recommendations as to what local cooperation should be required, if any, on account of such special or local benefit.
 
-(June 5, 1920, ch. 252, § 2, 41 Stat. 1010.)
+(June 5, 1920, ch. 252, § 2, 41 Stat. 1010.)
 
 **Editorial Notes**
 
@@ -273,33 +273,33 @@ Every report submitted to Congress in pursuance of any provision of law for a su
 
 Section is from act June 5, 1920, popularly known as the “Rivers and Harbors Appropriation Act of 1921”.
 
-### § 547a. Inclusion of regional economic development benefits in economic analysis for purposes of computing economic justification of project
+### § 547a. Inclusion of regional economic development benefits in economic analysis for purposes of computing economic justification of project
 
 In the case of any authorized navigation project which has been partially constructed, or is to be constructed, which is located in one or more States, and which serves regional needs, the Secretary of the Army, acting through the Chief of Engineers, may include in any economic analysis which is under preparation on October 22, 1976, such regional economic development benefits as he determines to be appropriate for purposes of computing the economic justification of the project.
 
-(Pub. L. 94–587, § 140, Oct. 22, 1976, 90 Stat. 2930.)
+(Pub. L. 94–587, § 140, Oct. 22, 1976, 90 Stat. 2930.)
 
-### § 548. Omitted
+### § 548. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Mar. 3, 1925, ch. 467, § 7, 43 Stat. 1191, required a report on projects adopted prior to March 3, 1925.
+Section, act Mar. 3, 1925, ch. 467, § 7, 43 Stat. 1191, required a report on projects adopted prior to March 3, 1925.
 
-### § 549. Repealed. Pub. L. 96–470, title I, § 104(c), Oct. 19, 1980, 94 Stat. 2238
+### § 549. Repealed. Pub. L. 96–470, title I, § 104(c), Oct. 19, 1980, 94 Stat. 2238
 
-Section, act Mar. 3, 1899, ch. 425, § 7, 30 Stat. 1150, provided that Chief of Engineers, in submitting his annual reports to Congress on river and harbor improvements, report on deterioration in improvements, estimate cost of repairing or rebuilding such works, and recommend discontinuance of appropriations for any works deemed unworthy of further improvement.
+Section, act Mar. 3, 1899, ch. 425, § 7, 30 Stat. 1150, provided that Chief of Engineers, in submitting his annual reports to Congress on river and harbor improvements, report on deterioration in improvements, estimate cost of repairing or rebuilding such works, and recommend discontinuance of appropriations for any works deemed unworthy of further improvement.
 
-### § 549a. Review of navigation, flood control, and water supply projects
+### § 549a. Review of navigation, flood control, and water supply projects
 
-The Secretary of the Army, acting through the Chief of Engineers, is authorized to review the operation of projects the construction of which has been completed and which were constructed by the Corps of Engineers in the interest of navigation, flood control, water supply, and related purposes, when found advisable due 1
+The Secretary of the Army, acting through the Chief of Engineers, is authorized to review the operation of projects the construction of which has been completed and which were constructed by the Corps of Engineers in the interest of navigation, flood control, water supply, and related purposes, when found advisable due 1
 
-<sup>1</sup>  So in original. Probably should be “due to”.
+<sup>1</sup> So in original. Probably should be “due to”.
 
 the significantly changed physical or economic conditions, and to report thereon to Congress with recommendations on the advisability of modifying the structures or their operation, and for improving the quality of the environment in the overall public interest.
 
-(Pub. L. 91–611, title II, § 216, Dec. 31, 1970, 84 Stat. 1830.)
+(Pub. L. 91–611, title II, § 216, Dec. 31, 1970, 84 Stat. 1830.)
 
 **Editorial Notes**
 
@@ -307,7 +307,7 @@ the significantly changed physical or economic conditions, and to report thereon
 
 Section is from Pub. L. 91–611, popularly known as the “Flood Control Act of 1970”.
 
-### § 549b. Inclusion of project or facility in Corps of Engineers workplan
+### § 549b. Inclusion of project or facility in Corps of Engineers workplan
 
 **(a) In general** The Secretary shall, to the maximum extent practicable, include in the future workplan of the Corps any authorized project or facility of the Corps of Engineers—
 
@@ -319,7 +319,7 @@ Section is from Pub. L. 91–611, popularly known as the “Flood Control Act of
 
 Upon completion of a final report referred to in subsection (a), the Secretary shall transmit a copy of the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 
-(Pub. L. 115–270, title I, § 1117, Oct. 23, 2018, 132 Stat. 3776.)
+(Pub. L. 115–270, title I, § 1117, Oct. 23, 2018, 132 Stat. 3776.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -327,7 +327,7 @@ Upon completion of a final report referred to in subsection (a), the Secretary s
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-### § 550. Report on water terminal and transfer facilities
+### § 550. Report on water terminal and transfer facilities
 
 The Chief of Engineers, United States Army, shall indicate in his annual reports the character of the terminal and transfer facilities existing on every harbor or waterway under maintenance or improvement by the United States, and state whether they are considered adequate for existing commerce. He shall also submit one or more special reports on this subject, as soon as possible after January 18, 1918, including, among other things, the following:
 
@@ -339,7 +339,7 @@ The Chief of Engineers, United States Army, shall indicate in his annual reports
 
 **(d)** An investigation of the general subject of water terminals, with descriptions and general plans of terminals of appropriate types and construction for the harbors and waterways of the United States suitable for various commercial purposes and adapted to the varying conditions of tides, floods, and other physical characteristics.
 
-(July 18, 1918, ch. 155, § 7, 40 Stat. 911.)
+(July 18, 1918, ch. 155, § 7, 40 Stat. 911.)
 
 **Editorial Notes**
 
@@ -347,11 +347,11 @@ The Chief of Engineers, United States Army, shall indicate in his annual reports
 
 Section is from act July 18, 1918, popularly known as the “Rivers and Harbors Appropriation Act of 1918”.
 
-### § 551. Policy of Government as to terminal facilities for new projects
+### § 551. Policy of Government as to terminal facilities for new projects
 
 It is declared to be the policy of the Congress that water terminals are essential at all cities and towns located upon harbors or navigable waterways and that at least one public terminal should exist, constructed, owned, and regulated by the municipality or other public agency of the State and open to the use of all on equal terms. The Secretary of the Army, through the Chief of Engineers, shall give full publicity, as far as may be practicable, to this provision.
 
-(Mar. 2, 1919, ch. 95, § 1, 40 Stat. 1286; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 2, 1919, ch. 95, § 1, 40 Stat. 1286; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -367,15 +367,15 @@ The original text of said section 1 read as follows: “It is hereby declared to
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 552. Repealed. May 29, 1928, ch. 901, § 1(28), 45 Stat. 988
+### § 552. Repealed. May 29, 1928, ch. 901, § 1(28), 45 Stat. 988
 
-Section, act Aug. 5, 1886, ch. 929, § 8, 24 Stat. 335, required reports to Congress concerning civilian engineers employed in improving rivers and harbors.
+Section, act Aug. 5, 1886, ch. 929, § 8, 24 Stat. 335, required reports to Congress concerning civilian engineers employed in improving rivers and harbors.
 
-### § 553. Freight statistics
+### § 553. Freight statistics
 
 In the collection of statistics relating to traffic, the Corps of Engineers is directed to adopt a uniform system of classification for freight, and upon rivers or inland waterways to collate ton-mileage statistics as far as practicable.
 
-(July 25, 1912, ch. 253, § 1, 37 Stat. 223.)
+(July 25, 1912, ch. 253, § 1, 37 Stat. 223.)
 
 **Editorial Notes**
 
@@ -383,21 +383,21 @@ In the collection of statistics relating to traffic, the Corps of Engineers is d
 
 Section is from part of section 1 of act July 25, 1912, popularly known as the “Rivers and Harbors Appropriation Act of 1912”.
 
-### § 554. Duty of shipowners and officers to furnish information to person in local charge of improvement; penalty
+### § 554. Duty of shipowners and officers to furnish information to person in local charge of improvement; penalty
 
 Owners, agents, masters, and clerks of vessels arriving at or departing from localities where works of river and harbor improvement are carried on shall furnish, on application of the persons in local charge of the works, a comprehensive statement of vessels, passengers, freight, and tonnage.
 
 Every person or persons offending against the provisions of this section shall, for each and every offense, be liable to a fine of $100, or imprisonment not exceeding two months, to be enforced in any district court in the United States within whose territorial jurisdiction such offense may have been committed.
 
-(Feb. 21, 1891, ch. 252, §§ 1, 2, 26 Stat. 766.)
+(Feb. 21, 1891, ch. 252, §§ 1, 2, 26 Stat. 766.)
 
-### § 555. Duty of shipowners and officers to furnish information required by Secretary of the Army
+### § 555. Duty of shipowners and officers to furnish information required by Secretary of the Army
 
 Owners, agents, masters, and clerks of vessels and other craft plying upon the navigable waters of the United States, and all individuals and corporations engaged in transporting their own goods upon the navigable waters of the United States, shall furnish such statements relative to vessels, passengers, freight, and tonnage as may be required by the Secretary of the Army: *Provided*, That this provision shall not apply to those rafting logs except upon a direct request upon the owner to furnish specific information.
 
 Every person or persons offending against the provisions of this section shall, for each and every offense, be liable to a fine of not more than $5,000, or imprisonment not exceeding two months, to be enforced in any district court in the United States within whose territorial jurisdiction such offense may have been committed. In addition, the Secretary may assess a civil penalty of up to $2,500, per violation, against any person or entity that fails to provide timely, accurate statements required to be submitted pursuant to this section by the Secretary.
 
-(Sept. 22, 1922, ch. 427, § 11, 42 Stat. 1043; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 99–662, title IX, § 919(f), Nov. 17, 1986, 100 Stat. 4193.)
+(Sept. 22, 1922, ch. 427, § 11, 42 Stat. 1043; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 99–662, title IX, § 919(f), Nov. 17, 1986, 100 Stat. 4193.)
 
 **Editorial Notes**
 
@@ -415,7 +415,7 @@ Section is from act Sept. 22, 1922, popularly known as the “Rivers and Harbors
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 555a. Petroleum product information
+### § 555a. Petroleum product information
 
 **(a) Disclosure to States**
 
@@ -449,7 +449,7 @@ Nothing in the preceding sentence shall be construed to prohibit the disclosure 
 
 **(f) Omitted**
 
-(Pub. L. 99–662, title IX, § 919, Nov. 17, 1986, 100 Stat. 4192.)
+(Pub. L. 99–662, title IX, § 919, Nov. 17, 1986, 100 Stat. 4192.)
 
 **Editorial Notes**
 
@@ -463,13 +463,13 @@ Subsec. (f) of this section amended section 555 of this title.
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 
-### § 556. Printing reports generally
+### § 556. Printing reports generally
 
 The Secretary of the Army shall cause the manuscript of the annual report of the Chief of Engineers and subordinate engineers, relating to the improvement of rivers and harbors, and the report of the Mississippi River Commission to be placed in the hands of the Director of the Government Publishing Office on or before the 15th day of October in each year, and the Director of the Government Publishing Office shall cause said reports to be printed with an accurate and comprehensive index thereof, on or before the first Monday in December in each year, for the use of Congress.
 
 All reports on examinations and surveys which may be prepared during the recess of Congress shall, in the discretion of the Secretary of the Army, be printed by the Director of the Government Publishing Office as documents of the following session of Congress.
 
-(Aug. 11, 1888, ch. 860, § 8, 25 Stat. 424; June 13, 1902, ch. 1079, § 1, 32 Stat. 367; Mar. 4, 1913, ch. 144, § 3, 37 Stat. 826; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
+(Aug. 11, 1888, ch. 860, § 8, 25 Stat. 424; June 13, 1902, ch. 1079, § 1, 32 Stat. 367; Mar. 4, 1913, ch. 144, § 3, 37 Stat. 826; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -479,7 +479,7 @@ The first paragraph of this section is from act Aug. 11, 1888, popularly known a
 
 The Mississippi River Commission was created by act June 28, 1879, set out as sections 641, 642, 644, 646, and 647 of this title.
 
-The words “and Missouri” which appeared in the original text after “Mississippi” were superseded by the abolition of the Missouri River Commission by act June 13, 1902, ch. 1079, § 1, 32 Stat. 367.
+The words “and Missouri” which appeared in the original text after “Mississippi” were superseded by the abolition of the Missouri River Commission by act June 13, 1902, ch. 1079, § 1, 32 Stat. 367.
 
 The second paragraph of this section is from the last paragraph of section 3 of act Mar. 4, 1913, which superseded a similar provision of act July 25, 1912, ch. 253, 37 Stat. 231. Other parts of said section 3 are set out in section 545 of this title.
 
@@ -493,13 +493,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Compilation and Printing of Laws**
 
-Act June 5, 1920, ch. 252, § 6, 41 Stat. 1014, as amended by act Mar. 3, 1925, ch. 467, § 4, 43 Stat. 1190, provided for compilation and printing of laws relating to improvement of rivers and harbors, passed between Mar. 4, 1913, until and including laws of second session of Sixty-eighth Congress.
+Act June 5, 1920, ch. 252, § 6, 41 Stat. 1014, as amended by act Mar. 3, 1925, ch. 467, § 4, 43 Stat. 1190, provided for compilation and printing of laws relating to improvement of rivers and harbors, passed between Mar. 4, 1913, until and including laws of second session of Sixty-eighth Congress.
 
-### § 557. Payment of costs of printing
+### § 557. Payment of costs of printing
 
 The printing of matter relating to river and harbor works, including all reports, compilations, regulations, and so forth, whose preparation is allowable under Department of the Army regulations, shall be done and paid for out of regular annual appropriations for printing and binding for the Department of the Army.
 
-(July 25, 1912, ch. 253, § 13, 37 Stat. 234; July 1, 1916, ch. 209, § 1, 39 Stat. 330; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(July 25, 1912, ch. 253, § 13, 37 Stat. 234; July 1, 1916, ch. 209, § 1, 39 Stat. 330; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -517,17 +517,17 @@ The repealed section 13 of act July 25, 1912, read as follows: “The printing o
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 557a. Publication of pamphlets, maps, brochures, and other material
+### § 557a. Publication of pamphlets, maps, brochures, and other material
 
 The Chief of Engineers is authorized to publish information pamphlets, maps, brochures, and other material on river and harbor, flood control, and other civil works activities, including related public park and recreation facilities, under his jurisdiction, as he may deem to be of value to the general public.
 
-(Pub. L. 85–480, § 1, July 2, 1958, 72 Stat. 279.)
+(Pub. L. 85–480, § 1, July 2, 1958, 72 Stat. 279.)
 
-### § 557b. Sale of publications, charts, or other material; deposit of proceeds
+### § 557b. Sale of publications, charts, or other material; deposit of proceeds
 
 The Chief of Engineers is authorized to provide for the sale of any of the material prepared under authority of section 557a of this title; and of publications, charts, or material prepared under his direction pursuant to other legislative authorization or appropriation, and to charge therefor a sum not less than the cost of reproduction. The money received from sales authorized by this section shall be deposited into the Treasury to the credit of miscellaneous receipts, except that in any case in which the cost of reproduction has been paid from the revolving fund established pursuant to the Civil Functions Appropriation Act, 1954, the proceeds shall be deposited to the credit of such fund.
 
-(Pub. L. 85–480, § 2, July 2, 1958, 72 Stat. 279.)
+(Pub. L. 85–480, § 2, July 2, 1958, 72 Stat. 279.)
 
 **Editorial Notes**
 
@@ -535,11 +535,11 @@ The Chief of Engineers is authorized to provide for the sale of any of the mater
 
 The Civil Functions Appropriation Act, 1954, referred to in text, is act July 27, 1953, ch. 245, 67 Stat. 197. Provisions of the Act establishing the revolving fund are classified to section 576 of this title.
 
-### § 558. Proceeds from sale or transfer of property acquired
+### § 558. Proceeds from sale or transfer of property acquired
 
 When any property which has been heretofore or may be hereafter purchased or acquired for the improvement of rivers and harbors is no longer needed, or is no longer serviceable and is transferred or sold, the proceeds thereof may be credited to the appropriation for the work for which it was acquired.
 
-(June 13, 1902, ch. 1079, § 5, 32 Stat. 373; Feb. 20, 1931, ch. 235, 46 Stat. 1191; Oct. 31, 1951, ch. 654, § 4(4), 65 Stat. 709.)
+(June 13, 1902, ch. 1079, § 5, 32 Stat. 373; Feb. 20, 1931, ch. 235, 46 Stat. 1191; Oct. 31, 1951, ch. 654, § 4(4), 65 Stat. 709.)
 
 **Editorial Notes**
 
@@ -553,21 +553,21 @@ Section is from the first part of section 5 of act June 13, 1902, which was a pr
 
 1951—Act Oct. 31, 1951, struck out provisions authorizing the Secretary of the Army to sell the unserviceable property referred to, and authorizing him to direct the transfer of any property employed in river and harbor works; struck out the provision that the property so transferred should be valued and credited to the project upon which it was theretofore used and charged to the project to which it was transferred; and inserted “and is transferred or sold, the proceeds thereof may be credited to the appropriation for the work for which it was acquired”.
 
-### § 558a. Repealed. Oct. 31, 1951, ch. 654, § 1(56), 65 Stat. 703
+### § 558a. Repealed. Oct. 31, 1951, ch. 654, § 1(56), 65 Stat. 703
 
-Section, act Aug. 30, 1935, ch. 831, § 7, 49 Stat. 1048, related to sale of property no longer needed for improvement of canals, rivers and harbors.
+Section, act Aug. 30, 1935, ch. 831, § 7, 49 Stat. 1048, related to sale of property no longer needed for improvement of canals, rivers and harbors.
 
-### § 558b. Exchange of land or property
+### § 558b. Exchange of land or property
 
 In any case in which it may be necessary or advisable in the execution of an authorized work of river and harbor improvement to exchange land or other property of the Government for private lands or property required for such project, the Secretary of the Army may, upon the recommendation of the Chief of Engineers, authorize such exchange upon terms and conditions deemed appropriate by him, and any conveyance of Government land or interests therein necessary to effect such exchange may be executed by the Secretary of the Army: *Provided further*, That the authority granted to the Secretary of the Army shall not extend to or include lands held or acquired by the Tennessee Valley Authority pursuant to the terms of the Tennessee Valley Authority Act [16 U.S.C. 831 et seq.]. This section shall apply to any exchanges heretofore deemed advisable in connection with the construction of the Bonneville Dam in the Columbia River.
 
-(June 20, 1938, ch. 535, § 2, 52 Stat. 804; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 20, 1938, ch. 535, § 2, 52 Stat. 804; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch. 32, 48 Stat. 58, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
+The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch. 32, 48 Stat. 58, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -575,23 +575,23 @@ The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 558b–1. Application to authorized works of flood control
+### § 558b–1. Application to authorized works of flood control
 
 Section 558b of this title is made applicable to authorized works of flood control.
 
-(Aug. 11, 1939, ch. 699, § 3, 53 Stat. 1414.)
+(Aug. 11, 1939, ch. 699, § 3, 53 Stat. 1414.)
 
-### § 558c. Rights-of-way over United States land
+### § 558c. Rights-of-way over United States land
 
 The Secretary of the Army is authorized and empowered, under such terms and conditions as are deemed advisable by him, to grant easements for rights-of-way for public roads and streets on and across lands acquired by the United States for river and harbor and flood control improvements including, whenever necessary, the privilege of occupying so much of said lands as may be necessary for the piers, abutments, and other portions of a bridge structure: *Provided*, That such rights-of-way shall be granted only upon a finding by the Secretary of the Army that the same will be in the public interest and will not substantially injure the interest of the United States in the property affected thereby: *Provided further*, That all or any part of such rights-of-way may be annulled and forfeited by the Secretary of the Army for failure to comply with the terms or conditions of any grant hereunder or for nonuse or for abandonment of rights granted under the authority hereof: *Provided further*, That the authority granted to the Secretary of the Army shall not extend to or include lands held or acquired by the Tennessee Valley Authority pursuant to the terms of the Tennessee Valley Authority Act [16 U.S.C. 831 et seq.].
 
-(June 20, 1938, ch. 535, § 10, 52 Stat. 808; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 20, 1938, ch. 535, § 10, 52 Stat. 808; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch. 32, 48 Stat. 58, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
+The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch. 32, 48 Stat. 58, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 831 of Title 16 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -599,11 +599,11 @@ The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 559. Disposition of rentals for Government plants
+### § 559. Disposition of rentals for Government plants
 
 Amounts paid after August 8, 1917, by private parties or other agencies for rental of plant owned by the Government in connection with the prosecution of river and harbor works shall be deposited in each case to the credit of the appropriation to which the plant belongs.
 
-(Aug. 8, 1917, ch. 49, § 13, 40 Stat. 268.)
+(Aug. 8, 1917, ch. 49, § 13, 40 Stat. 268.)
 
 **Editorial Notes**
 
@@ -611,11 +611,11 @@ Amounts paid after August 8, 1917, by private parties or other agencies for rent
 
 Section is from act Aug. 8, 1917, popularly known as the “Rivers and Harbors Appropriation Act of 1917”.
 
-### § 560. Contributions from private parties; return of excess
+### § 560. Contributions from private parties; return of excess
 
 The Secretary of the Army is authorized to receive from private parties such funds as may be contributed by them to be expended in connection with funds appropriated by the United States for any authorized work of public improvement of rivers and harbors whenever such work and expenditure may be considered by the Chief of Engineers as advantageous to the interests of navigation: *Provided*, That when contributions heretofore or hereafter made by local interests for river and harbor improvements, in accordance with specific requirements or under general authority of Congress, are in excess of the actual cost of the work contemplated and properly chargeable to such contributions, such excess contributions may, with the approval of the Secretary of the Army, be returned to the proper representatives of the contributing interests, unless the provision of law under which the contribution is made requires that the entire contribution be retained by the United States.
 
-(Mar. 4, 1915, ch. 142, § 4, 38 Stat. 1053; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 4, 1915, ch. 142, § 4, 38 Stat. 1053; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -625,7 +625,7 @@ Section is from act Mar. 4, 1915, popularly known as the “Rivers and Harbors A
 
 **Prior Provisions**
 
-Section superseded act Mar. 4, 1913, ch. 144, § 8, 37 Stat. 827, which read as follows: “The Secretary of War is hereby authorized to receive from private parties such funds as may be contributed by them to be expended in connection with funds appropriated by the United States for any authorized work of public improvement of rivers and harbors, whenever such work and expenditure may be considered by the Chief of Engineers as advantageous to the interests of navigation.”
+Section superseded act Mar. 4, 1913, ch. 144, § 8, 37 Stat. 827, which read as follows: “The Secretary of War is hereby authorized to receive from private parties such funds as may be contributed by them to be expended in connection with funds appropriated by the United States for any authorized work of public improvement of rivers and harbors, whenever such work and expenditure may be considered by the Chief of Engineers as advantageous to the interests of navigation.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -633,15 +633,15 @@ Section superseded act Mar. 4, 1913, ch. 144, § 8, 37 Stat. 827, which read a
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 561. Repealed. Pub. L. 115–270, title I, § 1166(c), Oct. 23, 2018, 132 Stat. 3798
+### § 561. Repealed. Pub. L. 115–270, title I, § 1166(c), Oct. 23, 2018, 132 Stat. 3798
 
-Section, act Mar. 3, 1925, ch. 467, § 11, 43 Stat. 1197; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501, related to advancements by and repayments to local interests for river and harbor improvement projects.
+Section, act Mar. 3, 1925, ch. 467, § 11, 43 Stat. 1197; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501, related to advancements by and repayments to local interests for river and harbor improvement projects.
 
-### § 561a. Contributions from local interests; reduction to meet lowered cost
+### § 561a. Contributions from local interests; reduction to meet lowered cost
 
 When the authorization of a project of river and harbor improvement requires that local interests shall contribute a specific sum of money toward its cost, the Secretary of the Army, upon the recommendation of the Chief of Engineers, may reduce the sum to be contributed to an amount which shall be in the same ratio to the amount of the required contribution as the actual cost of the work to which said contribution is applicable bears to its original estimated cost as set forth in the project document.
 
-(Mar. 3, 1933, ch. 216, 47 Stat. 1545; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 3, 1933, ch. 216, 47 Stat. 1545; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -655,15 +655,15 @@ A prior provision that the reduction authorized by this section was not to apply
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 562. Channel depths and dimensions defined
+### § 562. Channel depths and dimensions defined
 
-In the preparation of projects under this and subsequent river and harbor acts and after the project becomes operational, unless otherwise expressed, the channel depths referred to shall be understood to signify the depth at mean lower low water, as defined by the Department of Commerce for nautical charts and tidal predictions, in tidal waters tributary to the Atlantic and Gulf coasts and at mean lower low water, as defined by the Department of Commerce for nautical charts and tidal predictions, in tidal waters tributary to the Pacific coast and the mean depth for a continuous period of fifteen days of the lowest water, as defined by the Department of Commerce for nautical charts and tidal predictions, in the navigation season of any year in rivers and nontidal channels, and and 1
+In the preparation of projects under this and subsequent river and harbor acts and after the project becomes operational, unless otherwise expressed, the channel depths referred to shall be understood to signify the depth at mean lower low water, as defined by the Department of Commerce for nautical charts and tidal predictions, in tidal waters tributary to the Atlantic and Gulf coasts and at mean lower low water, as defined by the Department of Commerce for nautical charts and tidal predictions, in tidal waters tributary to the Pacific coast and the mean depth for a continuous period of fifteen days of the lowest water, as defined by the Department of Commerce for nautical charts and tidal predictions, in the navigation season of any year in rivers and nontidal channels, and and 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 after the project becomes operational the channel dimensions specified shall be understood to admit of such increase at the entrances, bends, sidings, and turning places as may be necessary to allow of the free movement of boats.
 
-(Mar. 4, 1915, ch. 142, § 5, 38 Stat. 1053; Pub. L. 102–580, title II, § 224, Oct. 31, 1992, 106 Stat. 4837.)
+(Mar. 4, 1915, ch. 142, § 5, 38 Stat. 1053; Pub. L. 102–580, title II, § 224, Oct. 31, 1992, 106 Stat. 4837.)
 
 **Editorial Notes**
 
@@ -673,35 +673,35 @@ Section is from act Mar. 4, 1915, popularly known as the “Rivers and Harbors A
 
 **Prior Provisions**
 
-Section superseded act Mar. 4, 1913, ch. 144, § 9, 37 Stat. 827, which read as follows: “In the preparation of projects under this and subsequent river and harbor acts, unless otherwise expressed, the channel depths referred to shall be understood to signify the depth at mean lower low water in tidal waters, and the mean depth during the month of lowest water in the navigation season in rivers and nontidal channels, and the channel dimensions specified shall be understood to admit of such increase at the entrances, bends, sidings, and turning places as may be necessary to allow of the free movement of boats.”
+Section superseded act Mar. 4, 1913, ch. 144, § 9, 37 Stat. 827, which read as follows: “In the preparation of projects under this and subsequent river and harbor acts, unless otherwise expressed, the channel depths referred to shall be understood to signify the depth at mean lower low water in tidal waters, and the mean depth during the month of lowest water in the navigation season in rivers and nontidal channels, and the channel dimensions specified shall be understood to admit of such increase at the entrances, bends, sidings, and turning places as may be necessary to allow of the free movement of boats.”
 
 **Amendments**
 
-1992—Pub. L. 102–580 inserted “and after the project becomes operational” after “harbor acts”, “lower” after “depth at mean”, “, as defined by the Department of Commerce for nautical charts and tidal predictions,” after “water” wherever appearing, and “and after the project becomes operational” before “the channel dimensions”.
+1992—Pub. L. 102–580 inserted “and after the project becomes operational” after “harbor acts”, “lower” after “depth at mean”, “, as defined by the Department of Commerce for nautical charts and tidal predictions,” after “water” wherever appearing, and “and after the project becomes operational” before “the channel dimensions”.
 
-### § 562a. Project depths for national defense purposes; waterways for general commerce
+### § 562a. Project depths for national defense purposes; waterways for general commerce
 
 The Chief of Engineers, under the direction of the Secretary of the Army, is hereby authorized to maintain authorized river and harbor projects in excess of authorized project depths where such excess depths have been provided by the United States for defense purposes and whenever the Chief of Engineers determines that such waterways also serve essential needs of general commerce.
 
-(Pub. L. 90–483, title I, § 117, Aug. 13, 1968, 82 Stat. 737.)
+(Pub. L. 90–483, title I, § 117, Aug. 13, 1968, 82 Stat. 737.)
 
-### § 563. Omitted
+### § 563. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Sept. 22, 1922, ch. 427, § 6, 42 Stat. 1042, made unexpended funds, appropriated prior to Sept. 22, 1922, for river and harbor improvements, available for preservation and maintenance of existing river and harbor works and prosecution of desirable new proj­ects.
+Section, act Sept. 22, 1922, ch. 427, § 6, 42 Stat. 1042, made unexpended funds, appropriated prior to Sept. 22, 1922, for river and harbor improvements, available for preservation and maintenance of existing river and harbor works and prosecution of desirable new proj­ects.
 
-### § 564. Repealed. July 3, 1943, ch. 189, § 5, 57 Stat. 374
+### § 564. Repealed. July 3, 1943, ch. 189, § 5, 57 Stat. 374
 
-Section, acts June 25, 1910, ch. 382, § 4, 36 Stat. 676; June 5, 1920, ch. 252, § 9, 41 Stat. 1015, related to settlement of claims for injury to or loss of private property.
+Section, acts June 25, 1910, ch. 382, § 4, 36 Stat. 676; June 5, 1920, ch. 252, § 9, 41 Stat. 1015, related to settlement of claims for injury to or loss of private property.
 
-### § 565. River and harbor improvement by private or municipal enterprise
+### § 565. River and harbor improvement by private or municipal enterprise
 
 Any person or persons, corporations, municipal or private, who desire to improve any navigable river, or any part thereof, at their or its own expense and risk may do so upon the approval of the plans and specifications of said proposed improvement by the Secretary of the Army and Chief of Engineers of the Army. The plan of said improvement must conform with the general plan of the Government improvements, must not impede navigation, and no toll shall be imposed on account thereof, and said improvement shall at all times be under the control and supervision of the Secretary of the Army and Chief of Engineers.
 
-(June 13, 1902, ch. 1079, § 1, 32 Stat. 371; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 13, 1902, ch. 1079, § 1, 32 Stat. 371; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -719,11 +719,11 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 The consent of Congress was given to the construction of a ship canal along the Government right of way connecting the waters of Puget Sound with Lake Washington, said canal, when completed, to be turned over to the United States, by act June 11, 1906, ch. 3072, 34 Stat. 231.
 
-### § 566. Improvement by or under authority of State of New Jersey
+### § 566. Improvement by or under authority of State of New Jersey
 
 Authority is given to the State of New Jersey, or, through it, to any commission, individual, corporation, or municipality, singly or collectively, designated by the legislature of said State, or by a commission appointed or authorized by said legislature, to improve the channels on the New Jersey seacoast, or any portion of said coast, or the waters adjacent thereto, lying between thirty-eight degrees fifty-six minutes and forty degrees twenty minutes north latitude, by dredging, or by the construction of piers, jetties, or breakwaters, or other river and harbor work of any description or nature adapted to attain the ends now pursued by the United States Government for the advantage of said coast or the relief of commerce: *Provided*, That such operations shall not encroach upon those portions of said coast, or the channels adjacent thereto, for which the United States Government may undertake similar work according to its own plans: *And provided*, That the plans for said work shall be placed on file with the Chief of Engineers of the Department of the Army for thirty days, during which time he is authorized to disapprove said plans and forbid such work if, in his judgment, the improvements when completed will interfere with navigation or with any works of the United States Government commenced or proposed to be made: *Provided further*, That no tolls or other charges upon commerce shall be imposed by those making such improvements: *And provided further*, That this section shall not be construed as affecting in any way the jurisdiction and control of the Federal Government over any waters that may be improved in pursuance of the provisions thereof, nor as exempting such waters from the operation of the laws heretofore or hereafter enacted by Congress for the preservation and protection of navigable waters. The right to alter, amend, or repeal this section is expressly reserved.
 
-(June 30, 1906, ch. 3923, §§ 1, 2, 34 Stat. 800; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 30, 1906, ch. 3923, §§ 1, 2, 34 Stat. 800; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -731,11 +731,11 @@ Authority is given to the State of New Jersey, or, through it, to any commission
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 567. Navigation and flood control improvements by Minnesota, North Dakota, and South Dakota
+### § 567. Navigation and flood control improvements by Minnesota, North Dakota, and South Dakota
 
 Congress consents that the States of Minnesota, North Dakota, and South Dakota, or any two of them, may enter into any agreement or agreements with each other to aid in improving navigation and to prevent and control floods on boundary waters of said States and the waters tributary thereto. And said States, or any two of them, may agree with each other upon any project or projects for the purpose of making such improvements, and upon the amount of money to be contributed by each to carry out such projects. The Secretary of the Army is authorized and directed to make a survey of any project proposed, as aforesaid, by said States, or any two of them, to determine the feasibility and practicability thereof and the expenses of carrying the same into effect and what share of such expenses should be borne by the respective States, local interests, or by the National Government. If the Secretary of the Army approves any such projects, he may authorize the States to make such improvements at their own expense, but under his supervision.
 
-(Aug. 8, 1917, ch. 49, § 5, 40 Stat. 266; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 8, 1917, ch. 49, § 5, 40 Stat. 266; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -749,19 +749,19 @@ Section is from a part of section 5 of act Aug. 8, 1917, which act was popularly
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 567a. Flood and pollution control compacts between certain States
+### § 567a. Flood and pollution control compacts between certain States
 
 The consent of the Congress of the United States is given to the States of Maine, New York, New Hampshire, Vermont, Massachusetts, Rhode Island, Connecticut, Pennsylvania, West Virginia, Kentucky, Indiana, Illinois, Tennessee, and Ohio, or any two or more of them, to negotiate and enter into agreements or compacts for conserving and regulating the flow, lessening flood damage, removing sources of pollution of the waters thereof, or making other public improvements on any rivers or streams whose drainage basins lie within any two or more of the said States.
 
 No such compact or agreement shall be binding or obligatory upon any State a party thereto unless and until it has been approved by the legislatures of each of the States whose assent is contemplated by the terms of the compact or agreement and by the Congress.
 
-(June 8, 1936, ch. 542, §§ 1, 2, 49 Stat. 1490.)
+(June 8, 1936, ch. 542, §§ 1, 2, 49 Stat. 1490.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Approval of Compact by Congress**
 
-Act July 11, 1940, ch. 581, 54 Stat. 752, provided in part that: “The consent and approval of Congress is hereby given to an interstate compact relating to the control and reduction of the pollution of the streams of the Ohio River drainage basin negotiated and entered into or to be entered into under authority of Public Resolution Numbered 104, Seventy-fourth Congress, approved June 8, 1936, [this section] and now ratified by the States of New York, Illinois, Kentucky, and Indiana, and by the State of Ohio (whose ratification is to go into effect at the time at which the States of New York, Pennsylvania, and West Virginia enter into said compact as parties and signatory States), also by the State of West Virginia (whose ratification is to go into effect at the time at which the States of New York, Ohio, Virginia, and Pennsylvania enter into said compact as parties and signatory States) \* \* \*.”
+Act July 11, 1940, ch. 581, 54 Stat. 752, provided in part that: “The consent and approval of Congress is hereby given to an interstate compact relating to the control and reduction of the pollution of the streams of the Ohio River drainage basin negotiated and entered into or to be entered into under authority of Public Resolution Numbered 104, Seventy-fourth Congress, approved June 8, 1936, [this section] and now ratified by the States of New York, Illinois, Kentucky, and Indiana, and by the State of Ohio (whose ratification is to go into effect at the time at which the States of New York, Pennsylvania, and West Virginia enter into said compact as parties and signatory States), also by the State of West Virginia (whose ratification is to go into effect at the time at which the States of New York, Ohio, Virginia, and Pennsylvania enter into said compact as parties and signatory States) \* \* \*.”
 
 “Sec. 2. Without further submission of said compact, the consent of Congress is hereby given to the State of Virginia or any other State with waters in the Ohio River drainage basin, entering into said compact as a signatory State and party in addition to the States therein named or any of them.
 
@@ -771,17 +771,17 @@ Act July 11, 1940, ch. 581, 54 Stat. 752, provided in part that: “The consent 
 
 “Sec. 5. The right to alter, amend, or repeal the provisions of section 1 is hereby expressly reserved.”
 
-### § 567b. Pollution of Potomac drainage basin; control by State compacts
+### § 567b. Pollution of Potomac drainage basin; control by State compacts
 
 The consent of Congress is given to the States of Maryland and West Virginia and the Commonwealths of Virginia and Pennsylvania and the District of Columbia to enter into the compact to create a Potomac Valley Conservancy District and to establish an Interstate Commission on the Potomac River Basin: *Provided*, That nothing contained in such compact shall be construed as impairing or in any manner affecting any right or jurisdiction of the United States in and over the region which forms the subject of this compact.
 
 (July 11, 1940, ch. 579, 54 Stat. 748.)
 
-### § 567b–1. Amended compact
+### § 567b–1. Amended compact
 
 The consent of Congress is hereby given to the States of Maryland and West Virginia and the Commonwealths of Virginia and Pennsylvania and the District of Columbia to adopt the aforementioned amendments and enter into the amended compact hereinbefore recited and every part and article thereof: *Provided*, That nothing contained in such amended compact shall be construed as impairing or in any manner affecting any right or jurisdiction of the United States in and over the region which forms the subject of this compact: *And provided further*, That the consent herein given does not extend to section (F)(2) of article II of the amended compact.
 
-(Pub. L. 91–407, § 1, Sept. 25, 1970, 84 Stat. 860.)
+(Pub. L. 91–407, § 1, Sept. 25, 1970, 84 Stat. 860.)
 
 **Editorial Notes**
 
@@ -789,11 +789,11 @@ The consent of Congress is hereby given to the States of Maryland and West Virgi
 
 The amended compact, referred to in text, is set out in 84 Stat. 856 to 860.
 
-### § 568. Limitation on power of committee of Congress to consider projects
+### § 568. Limitation on power of committee of Congress to consider projects
 
 No project shall be considered by any committee of Congress with a view to its adoption, except with a view to a survey, if five years have elapsed since a report upon a survey of such project has been submitted to Congress pursuant to law.
 
-(Sept. 22, 1922, ch. 427, § 9, 42 Stat. 1043.)
+(Sept. 22, 1922, ch. 427, § 9, 42 Stat. 1043.)
 
 **Editorial Notes**
 
@@ -801,11 +801,11 @@ No project shall be considered by any committee of Congress with a view to its a
 
 Section is from act Sept. 22, 1922, popularly known as the “Rivers and Harbors Appropriation Act of 1918”.
 
-### § 569. Personal equipment for employees; use of funds for purpose
+### § 569. Personal equipment for employees; use of funds for purpose
 
 Funds heretofore or hereafter appropriated for rivers and harbors to be expended under the supervision of the Secretary of the Army shall be available for expenditure in the purchase of such personal equipment for employees as in the opinion of the Chief of Engineers are essential for the efficient prosecution of the works.
 
-(Jan. 21, 1927, ch. 47, § 5(b), 44 Stat. 1021; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Jan. 21, 1927, ch. 47, § 5(b), 44 Stat. 1021; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -819,17 +819,17 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40, July 22, 1949.
 
-### § 569a. Temporary employment of experts or consultants; compensation
+### § 569a. Temporary employment of experts or consultants; compensation
 
 The Chief of Engineers is authorized to procure the temporary or intermittent services of experts or consultants or organizations thereof in connection with civil functions of the Corps of Engineers without regard to chapter 51 and subchapter III of chapter 53 of title 5: *Provided*, That individuals so engaged may be paid at rates not to exceed the daily equivalent of the rate for GS–18 for each day of their services.
 
-(July 3, 1930, ch. 847, § 6, 46 Stat. 948; May 17, 1950, ch. 188, title I, § 105, 64 Stat. 168; Pub. L. 91–611, title I, § 104, Dec. 31, 1970, 84 Stat. 1819.)
+(July 3, 1930, ch. 847, § 6, 46 Stat. 948; May 17, 1950, ch. 188, title I, § 105, 64 Stat. 168; Pub. L. 91–611, title I, § 104, Dec. 31, 1970, 84 Stat. 1819.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in text for “the Classification Act as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -841,13 +841,13 @@ The Chief of Engineers is authorized to procure the temporary or intermittent se
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 569b. Contracts; architect and engineering services; surveying and mapping services
+### § 569b. Contracts; architect and engineering services; surveying and mapping services
 
 Contracts for architect and engineering services, and surveying and mapping services, shall be awarded by the Chief of Engineers in accordance with title IX of the Federal Property and Administrative Services Act of 1949.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 311.)
 
@@ -855,31 +855,31 @@ Contracts for architect and engineering services, and surveying and mapping serv
 
 **References in Text**
 
-The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377. Title IX of the Act, which was classified generally to subchapter VI (§ 541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§ 1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377. Title IX of the Act, which was classified generally to subchapter VI (§ 541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§ 1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
-### § 569c. Services of volunteers
+### § 569c. Services of volunteers
 
 The United States Army Chief of Engineers may accept the services of volunteers and provide for their incidental expenses, including expenses relating to uniforms, transportation, lodging, and the subsistence of those volunteers, to carry out any activity of the Army Corps of Engineers except policy-making or law or regulatory enforcement. Such volunteers shall not be employees of the United States Government except for the purposes of (1) chapter 171 of title 28, relating to tort claims, and (2) chapter 81 of title 5, relating to compensation for work injuries.
 
-(Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 312; Pub. L. 113–121, title I, § 1047(d), June 10, 2014, 128 Stat. 1256.)
+(Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 312; Pub. L. 113–121, title I, § 1047(d), June 10, 2014, 128 Stat. 1256.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Pub. L. 113–121, which directed amendment in the first sentence of chapter IV of title I of Public Law 98–63 (33 U.S.C. 569c) by inserting “, including expenses relating to uniforms, transportation, lodging, and the subsistence of those volunteers,” after “incidental expenses”, was executed by making the insertion in the first sentence of this section to reflect the probable intent of Congress.
+2014—Pub. L. 113–121, which directed amendment in the first sentence of chapter IV of title I of Public Law 98–63 (33 U.S.C. 569c) by inserting “, including expenses relating to uniforms, transportation, lodging, and the subsistence of those volunteers,” after “incidental expenses”, was executed by making the insertion in the first sentence of this section to reflect the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Services of Volunteers**
 
-Pub. L. 118–272, div. A, title I, § 1112, Jan. 4, 2025, 138 Stat. 3010, provided that:
+Pub. L. 118–272, div. A, title I, § 1112, Jan. 4, 2025, 138 Stat. 3010, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] may recognize a volunteer providing services under the heading ‘Department of Defense—Civil—Department of the Army—Corps of Engineers—Civil—General Provisions’ in chapter IV of title I of the Supplemental Appropriations Act, 1983 (33 U.S.C. 569c) through an award or other appropriate means, except that such award may not be in the form of a cash award.
 
 > **“(b) Process.—** The Secretary shall establish a process to carry out subsection (a).”
 
-### § 569d. Safety award and promotional materials
+### § 569d. Safety award and promotional materials
 
 **(a) Promotion of safety program**
 
@@ -899,7 +899,7 @@ The Secretary is authorized to incur necessary expenses for the honorary recogni
 
 There is authorized to be appropriated $350,000 for each fiscal year beginning after September 30, 1992, for carrying out the purposes of this section.
 
-(Pub. L. 102–580, title II, § 210, Oct. 31, 1992, 106 Stat. 4830.)
+(Pub. L. 102–580, title II, § 210, Oct. 31, 1992, 106 Stat. 4830.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -907,11 +907,11 @@ There is authorized to be appropriated $350,000 for each fiscal year beginning a
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 
-### § 569e. Use of private sector resources in surveying and mapping
+### § 569e. Use of private sector resources in surveying and mapping
 
 To the maximum extent practicable, the Secretary shall make use of private sector resources in carrying out surveying and mapping activities in the Civil Works Program of the Corps of Engineers.
 
-(Pub. L. 102–580, title II, § 212, Oct. 31, 1992, 106 Stat. 4831.)
+(Pub. L. 102–580, title II, § 212, Oct. 31, 1992, 106 Stat. 4831.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -919,11 +919,11 @@ To the maximum extent practicable, the Secretary shall make use of private secto
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 
-### § 569f. Debarment of persons convicted of fraudulent use of “Made in America” labels
+### § 569f. Debarment of persons convicted of fraudulent use of “Made in America” labels
 
 If the Secretary determines that a person has been convicted of intentionally affixing a label bearing a “Made in America” inscription to any product sold in or shipped to the United States which is not made in the United States and which is used in a civil works project of the Secretary, the Secretary shall debar the person from contracting with the Federal Government for a period of not less than 3 years and not more than 5 years. For purposes of this section, the term “debar” has the meaning that term has under section 4654(c) of title 10.
 
-(Pub. L. 102–580, title II, § 226, Oct. 31, 1992, 106 Stat. 4838; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(6), Dec. 27, 2021, 135 Stat. 2160.)
+(Pub. L. 102–580, title II, § 226, Oct. 31, 1992, 106 Stat. 4838; Pub. L. 117–81, div. A, title XVII, § 1702(*l*)(6), Dec. 27, 2021, 135 Stat. 2160.)
 
 **Editorial Notes**
 
@@ -937,17 +937,17 @@ If the Secretary determines that a person has been convicted of intentionally af
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 
-### § 570. Default in contract; disposition of amounts collected
+### § 570. Default in contract; disposition of amounts collected
 
 Any amounts collected from defaulting contractors or their sureties under contracts entered into in connection with river and harbor or flood-control work prosecuted by the Engineer Department, whether collected in cash or by deduction from amounts otherwise due such contractors, hereafter shall be credited in each case to the appropriation under which the contract was made.
 
-(Aug. 30, 1935, ch. 831, § 8, 49 Stat. 1048.)
+(Aug. 30, 1935, ch. 831, § 8, 49 Stat. 1048.)
 
-### § 571. Crediting reimbursements for lost, stolen, or damaged property
+### § 571. Crediting reimbursements for lost, stolen, or damaged property
 
 Any amounts collected from any person, persons, or corporations as a reimbursement for lost, stolen, or damaged property, purchased in connection with river and harbor or flood-control work prosecuted under the direction of the Secretary of the Army and the supervision of the Chief of Engineers, whether collected in cash or by deduction from amounts otherwise due such person, persons, or corporations, hereafter shall be credited in each case to the appropriation that bore the cost of purchase, repair, or replacement of the lost, stolen, or damaged property.
 
-(June 20, 1938, ch. 535, § 4, 52 Stat. 805; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 20, 1938, ch. 535, § 4, 52 Stat. 805; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -961,25 +961,25 @@ Section is also set out as section 701k of this title.
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 572. Collection and removal of drift in Baltimore Harbor
+### § 572. Collection and removal of drift in Baltimore Harbor
 
 On and after July 30, 1948, direct allotments from appropriations for the maintenance and improvement of existing river and harbor works, or from other available appropriations, may be made by the Secretary of the Army for the collection and removal of drift in Baltimore Harbor and its tributary waters, and this work shall be carried out as a separate and distinct project.
 
-(June 30, 1948, ch. 771, title I, § 102, 62 Stat. 1173.)
+(June 30, 1948, ch. 771, title I, § 102, 62 Stat. 1173.)
 
-### § 573. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 656
+### § 573. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 656
 
-Section, act May 17, 1950, ch. 188, title I, § 111, 64 Stat. 170, provided that section 607 of the Federal Employees Pay Act of 1945, as amended [former 5 U.S.C. 947], should not be construed to prevent employment of additional personnel.
+Section, act May 17, 1950, ch. 188, title I, § 111, 64 Stat. 170, provided that section 607 of the Federal Employees Pay Act of 1945, as amended [former 5 U.S.C. 947], should not be construed to prevent employment of additional personnel.
 
-### § 574. Omitted
+### § 574. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Sept. 6, 1950, ch. 896, ch. IX, § 101, 64 Stat. 726, which related to availability of appropriation for payments to school districts, was from the Civil Functions Appropriation Act, 1951, and was not repeated in subsequent appropriation acts.
+Section, act Sept. 6, 1950, ch. 896, ch. IX, § 101, 64 Stat. 726, which related to availability of appropriation for payments to school districts, was from the Civil Functions Appropriation Act, 1951, and was not repeated in subsequent appropriation acts.
 
-### § 574a. Training funds
+### § 574a. Training funds
 
 **(a) In general**
 
@@ -1003,7 +1003,7 @@ An individual not employed by the Department of the Army attending a training cl
 
 Any payments received under paragraph (2) that are in excess of the actual cost of training provided shall be credited as miscellaneous receipts to the Treasury of the United States.
 
-(Pub. L. 110–114, title II, § 2016, Nov. 8, 2007, 121 Stat. 1076.)
+(Pub. L. 110–114, title II, § 2016, Nov. 8, 2007, 121 Stat. 1076.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1011,11 +1011,11 @@ Any payments received under paragraph (2) that are in excess of the actual cost 
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 
-### § 575. Availability of appropriations for expenses incident to operation of power boats or vessels; expenses defined; certification of expenditures
+### § 575. Availability of appropriations for expenses incident to operation of power boats or vessels; expenses defined; certification of expenditures
 
 On and after July 31, 1947, no appropriation under the Corps of Engineers shall be available for any expenses incident to operating any power-driven boat or vessel on other than Government business, and that Government business shall be construed to include transportation, lodging, and subsistence on inspection trips of Federal and State officials, having a public interest in authorized or proposed improvements for river and harbor and flood control, and any expenses incurred therefor shall be chargeable to river and harbor and flood control appropriations heretofore or hereafter made under rules and regulations to be prescribed by the Chief of Engineers: *Provided*, That such expenditures shall be certified by the Division Engineer as necessary and proper expenditures.
 
-(July 31, 1947, ch. 411, § 1, 61 Stat. 688.)
+(July 31, 1947, ch. 411, § 1, 61 Stat. 688.)
 
 **Editorial Notes**
 
@@ -1023,9 +1023,9 @@ On and after July 31, 1947, no appropriation under the Corps of Engineers shall 
 
 Section is also set out as section 701b–9 of this title.
 
-Section was formerly classified to sections 190a and 199 of Title 10 prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1.
+Section was formerly classified to sections 190a and 199 of Title 10 prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1.
 
-### § 576. Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation
+### § 576. Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation
 
 **(a) Revolving fund**
 
@@ -1039,9 +1039,9 @@ No funds may be expended or obligated from the revolving fund described in subse
 
 **(2) Statutory construction** Nothing in this subsection may be construed to—
 
-**(A)** change any authority provided under subchapter I of chapter 169 of title 10; 1
+**(A)** change any authority provided under subchapter I of chapter 169 of title 10; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or
 
@@ -1079,17 +1079,17 @@ Within a reasonable time after creating a building project survey under paragrap
 
 In this section, the term “major renovation” means a renovation or alteration of a building for use by the Corps of Engineers with a total expenditure of more than $20,000,000.
 
-(July 27, 1953, ch. 245, § 101, 67 Stat. 199; Pub. L. 114–322, title I, § 1160, Dec. 16, 2016, 130 Stat. 1667.)
+(July 27, 1953, ch. 245, § 101, 67 Stat. 199; Pub. L. 114–322, title I, § 1160, Dec. 16, 2016, 130 Stat. 1667.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter I of chapter 169 of title 10, referred to in subsec. (b)(2)(A), probably means subchapter I (§ 2801 et seq.) of chapter 169 of Title 10, Armed Forces.
+Subchapter I of chapter 169 of title 10, referred to in subsec. (b)(2)(A), probably means subchapter I (§ 2801 et seq.) of chapter 169 of Title 10, Armed Forces.
 
 **Codification**
 
-Section was formerly classified to section 190b of Title 10 prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1.
+Section was formerly classified to section 190b of Title 10 prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1.
 
 **Amendments**
 
@@ -1099,33 +1099,33 @@ Section was formerly classified to section 190b of Title 10 prior to the general
 
 **Headquarters Aircraft; Transfer and Reassignment of Property Accountability to Army Military Activity**
 
-Pub. L. 101–101, title I, § 105, Sept. 29, 1989, 103 Stat. 649, provided that: “Notwithstanding section 110 of the Energy and Water Development Appropriation Act, 1988, Public Law 100–202 [set out below], the Secretary of the Army is authorized to transfer and re­assign property accountability for the headquarters aircraft of the Corps of Engineers, Serial Number 045, from the assets of the civil works revolving fund, to the military activity of the Army that the Secretary determines is appropriate, except that the aircraft shall be made available on a priority basis as necessary for activities in support of the Army’s civil works mission.”
+Pub. L. 101–101, title I, § 105, Sept. 29, 1989, 103 Stat. 649, provided that: “Notwithstanding section 110 of the Energy and Water Development Appropriation Act, 1988, Public Law 100–202 [set out below], the Secretary of the Army is authorized to transfer and re­assign property accountability for the headquarters aircraft of the Corps of Engineers, Serial Number 045, from the assets of the civil works revolving fund, to the military activity of the Army that the Secretary determines is appropriate, except that the aircraft shall be made available on a priority basis as necessary for activities in support of the Army’s civil works mission.”
 
 **Retention of Three Operational Aircraft; Notice of Intended Use Outside United States**
 
-Pub. L. 100–202, § 101(d) [title I, § 110], Dec. 22, 1987, 101 Stat. 1329–104, 1329–112, provided that: “The Chief of Engineers is directed to retain three operational aircraft authorized pursuant to section 101 of the Act of July 27, 1953, 67 Stat. 199 [33 U.S.C. 576], together with their attendant crews, and may only dispose of any of these aircraft if authorized to do so by a future congressional enactment for that purpose. The Chief of Engineers shall provide at least thirty days advance written notification to the Appropriations Committees of the Senate and House of Representatives of any intended use of any of these aircraft for a trip destined outside the United States or its territories or possessions.”
+Pub. L. 100–202, § 101(d) [title I, § 110], Dec. 22, 1987, 101 Stat. 1329–104, 1329–112, provided that: “The Chief of Engineers is directed to retain three operational aircraft authorized pursuant to section 101 of the Act of July 27, 1953, 67 Stat. 199 [33 U.S.C. 576], together with their attendant crews, and may only dispose of any of these aircraft if authorized to do so by a future congressional enactment for that purpose. The Chief of Engineers shall provide at least thirty days advance written notification to the Appropriations Committees of the Senate and House of Representatives of any intended use of any of these aircraft for a trip destined outside the United States or its territories or possessions.”
 
-### § 576a. Purchase of passenger motor vehicles by Corps of Engineers
+### § 576a. Purchase of passenger motor vehicles by Corps of Engineers
 
 On and after March 4, 1933, the provisions of section 1343 of title 31 shall be construed as applying to the Corps of Engineers as to the purchase of motor-propelled passenger-carrying vehicles.
 
-(Mar. 4, 1933, ch. 281, title II, § 1, 47 Stat. 1599.)
+(Mar. 4, 1933, ch. 281, title II, § 1, 47 Stat. 1599.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Section 1343 of title 31” substituted in text for “section 5 of the Act of July 16, 1914 (U.S.C., title 5, sec. 78)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 1343 of title 31” substituted in text for “section 5 of the Act of July 16, 1914 (U.S.C., title 5, sec. 78)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was formerly classified to section 638b of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877.
 
 Section was also formerly classified to section 78a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-### § 576b. Lease authority
+### § 576b. Lease authority
 
 Notwithstanding any other provision of law, the Secretary may lease space available in buildings for which funding for construction or purchase was provided from the revolving fund established by the 1st section of the Civil Functions Appropriations Act, 1954 (33 U.S.C. 576; 67 Stat. 199), under such terms and conditions as are acceptable to the Secretary. The proceeds from such leases shall be credited to the revolving fund for the purposes set forth in such Act.
 
-(Pub. L. 104–303, title II, § 213, Oct. 12, 1996, 110 Stat. 3684.)
+(Pub. L. 104–303, title II, § 213, Oct. 12, 1996, 110 Stat. 3684.)
 
 **Editorial Notes**
 
@@ -1133,13 +1133,13 @@ Notwithstanding any other provision of law, the Secretary may lease space availa
 
 The Civil Functions Appropriations Act, 1954, referred to in text, is act July 27, 1953, ch. 245, 67 Stat. 197. For complete classification of this Act to the Code, see Tables.
 
-### § 576c. Corps of Engineers operation of unmanned aircraft systems
+### § 576c. Corps of Engineers operation of unmanned aircraft systems
 
 **(a) In general** The Secretary shall designate an individual, within the headquarters office of the Corps of Engineers, who shall serve as the coordinator and principal approving official for developing the process and procedures by which the Corps of Engineers—
 
-**(1)** operates and maintains small unmanned aircraft (as defined in section 331 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 1
+**(1)** operates and maintains small unmanned aircraft (as defined in section 331 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 note)) systems in support of civil works and emergency response missions of the Corps of Engineers; and
 
@@ -1153,7 +1153,7 @@ A small unmanned aircraft system acquired, operated, or maintained for carrying 
 
 A small unmanned aircraft system acquired, operated, or maintained by the Corps of Engineers is excluded from use by the Department of Defense, including the Department of the Army, for any mission of the Department of Defense other than a mission specified in subsection (a).
 
-(Pub. L. 114–322, title I, § 1124, Dec. 16, 2016, 130 Stat. 1647.)
+(Pub. L. 114–322, title I, § 1124, Dec. 16, 2016, 130 Stat. 1647.)
 
 **Editorial Notes**
 
@@ -1167,7 +1167,7 @@ Section 331 of the FAA Modernization and Reform Act of 2012, referred to in subs
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 577. Small river and harbor improvement projects
+### § 577. Small river and harbor improvement projects
 
 **(a) Allotment from appropriations for construction**
 
@@ -1193,7 +1193,7 @@ Each project for which money is allotted under this section shall be complete in
 
 This section shall apply to, but not be limited to, the provision of low water access navigation channels from the existing channel of the Mississippi River to harbor areas heretofore or now established and located along the Mississippi River.
 
-(Pub. L. 86–645, title I, § 107, July 14, 1960, 74 Stat. 486; Pub. L. 89–298, title III, § 310(a), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, § 112(a), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 94–587, § 133(a), Oct. 22, 1976, 90 Stat. 2928; Pub. L. 99–662, title IX, § 915(d), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 110–114, title II, § 2022, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, § 1030(b), June 10, 2014, 128 Stat. 1231; Pub. L. 115–270, title I, § 1157(b), Oct. 23, 2018, 132 Stat. 3794; Pub. L. 118–272, div. A, title I, § 1107(d), Jan. 4, 2025, 138 Stat. 3004.)
+(Pub. L. 86–645, title I, § 107, July 14, 1960, 74 Stat. 486; Pub. L. 89–298, title III, § 310(a), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, § 112(a), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 94–587, § 133(a), Oct. 22, 1976, 90 Stat. 2928; Pub. L. 99–662, title IX, § 915(d), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 110–114, title II, § 2022, Nov. 8, 2007, 121 Stat. 1078; Pub. L. 113–121, title I, § 1030(b), June 10, 2014, 128 Stat. 1231; Pub. L. 115–270, title I, § 1157(b), Oct. 23, 2018, 132 Stat. 3794; Pub. L. 118–272, div. A, title I, § 1107(d), Jan. 4, 2025, 138 Stat. 3004.)
 
 **Editorial Notes**
 
@@ -1203,9 +1203,9 @@ This section shall apply to, but not be limited to, the provision of low water a
 
 2018—Subsec. (a). Pub. L. 115–270 substituted “$62,500,000” for “$50,000,000”.
 
-2014—Subsec. (a). Pub. L. 113–121, § 1030(b)(1), substituted “$50,000,000” for “$35,000,000”.
+2014—Subsec. (a). Pub. L. 113–121, § 1030(b)(1), substituted “$50,000,000” for “$35,000,000”.
 
-Subsec. (b). Pub. L. 113–121, § 1030(b)(2), substituted “$10,000,000” for “$7,000,000”.
+Subsec. (b). Pub. L. 113–121, § 1030(b)(2), substituted “$10,000,000” for “$7,000,000”.
 
 2007—Subsec. (b). Pub. L. 110–114 substituted “$7,000,000” for “$4,000,000”.
 
@@ -1219,9 +1219,9 @@ Subsec. (b). Pub. L. 99–662 substituted “$4,000,000” for “$2,000,000”.
 
 Subsec. (b). Pub. L. 91–611 substituted “$1,000,000” for “$500,000”.
 
-1965—Subsec. (a). Pub. L. 89–298, § 310(a)(1), substituted “$10,000,000” for “$2,000,000”.
+1965—Subsec. (a). Pub. L. 89–298, § 310(a)(1), substituted “$10,000,000” for “$2,000,000”.
 
-Subsec. (b). Pub. L. 89–298, § 310(a)(2), substituted “$500,000” for “$200,000”.
+Subsec. (b). Pub. L. 89–298, § 310(a)(2), substituted “$500,000” for “$200,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1231,23 +1231,23 @@ Amendment by Pub. L. 99–662 not applicable to any project under contract for c
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–587, § 133(c), Oct. 22, 1976, 90 Stat. 2928, provided that: “The amendments made by this section [amending this section and section 701s of this title] shall not apply to any project under contract for construction on the date of enactment of the Water Resources Development Act of 1976 [Oct. 22, 1976].”
+Pub. L. 94–587, § 133(c), Oct. 22, 1976, 90 Stat. 2928, provided that: “The amendments made by this section [amending this section and section 701s of this title] shall not apply to any project under contract for construction on the date of enactment of the Water Resources Development Act of 1976 [Oct. 22, 1976].”
 
 **Effective Date of 1970 Amendment**
 
 Amendment by Pub. L. 91–611 not applicable to any project under contract for construction on Dec. 31, 1970, see section 112(c) of Pub. L. 91–611, set out as a note under section 426g of this title.
 
-### § 577a. Small-boat navigation projects; charter fishing craft
+### § 577a. Small-boat navigation projects; charter fishing craft
 
 The Chief of Engineers, for the purpose of determining Federal and non-Federal cost sharing, relating to proposed construction of small-boat navigation projects, shall consider charter fishing craft as commercial vessels.
 
-(Pub. L. 91–611, title I, § 119, Dec. 31, 1970, 84 Stat. 1822.)
+(Pub. L. 91–611, title I, § 119, Dec. 31, 1970, 84 Stat. 1822.)
 
-### § 577b. Cost of operation and maintenance of general navigation features of small boat harbor projects; applicable projects
+### § 577b. Cost of operation and maintenance of general navigation features of small boat harbor projects; applicable projects
 
 The cost of operation and maintenance of the general navigation features of small boat harbor projects shall be borne by the United States. This section shall apply to any such project authorized (A) under section 201 of the Flood Control Act of 1965 [42 U.S.C. 1962d–5], (B) under section 107 of the River and Harbor Act of 1960 [33 U.S.C. 577], (C) between January 1, 1970, and December 31, 1970, under authority of this Act, and to projects heretofore authorized in accordance with the policy set forth in the preceding sentence and to such projects authorized in this Act or which are hereafter authorized.
 
-(Pub. L. 91–611, title I, § 103, Dec. 31, 1970, 84 Stat. 1819; Pub. L. 93–251, § 6, Mar. 7, 1974, 88 Stat. 15.)
+(Pub. L. 91–611, title I, § 103, Dec. 31, 1970, 84 Stat. 1819; Pub. L. 93–251, § 6, Mar. 7, 1974, 88 Stat. 15.)
 
 **Editorial Notes**
 
@@ -1261,7 +1261,7 @@ Hereafter, referred to in text, probably means after Dec. 31, 1970.
 
 1974—Pub. L. 93–251 amended section generally. Prior to amendment, section read as follows: “The costs of operation and maintenance of the general navigation features of small boat harbor projects authorized between January 1, 1970, and December 31, 1970, under the authority of this Act, section 201 of the Flood Control Act of 1965 [42 U.S.C. 1962d–5], or section 107 of the River and Harbor Act of 1960 [33 U.S.C. 577], shall be borne by the United States.”
 
-### § 578. Disposal of surplus property for development of public port or industrial facilities
+### § 578. Disposal of surplus property for development of public port or industrial facilities
 
 **(a) Conveyance by Secretary of the Army**
 
@@ -1283,15 +1283,15 @@ The Secretary of the Army may delegate any authority conferred upon him by this 
 
 The proceeds from any conveyance made under the provisions of this section shall be covered into the Treasury as miscellaneous receipts.
 
-(Pub. L. 86–645, title I, § 108, July 14, 1960, 74 Stat. 486.)
+(Pub. L. 86–645, title I, § 108, July 14, 1960, 74 Stat. 486.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (63 Stat. 377), as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (63 Stat. 377), as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-### § 578a. Disposition studies
+### § 578a. Disposition studies
 
 **(a) In general**
 
@@ -1301,7 +1301,7 @@ In carrying out a disposition study for a project of the Corps of Engineers, inc
 
 Not later than 1 year after December 16, 2016, the Secretary shall complete the assessment and inventory required under section 6002(a) of the Water Resources Reform and Development Act of 2014 (Public Law 113–121; 128 Stat. 1349).
 
-(Pub. L. 114–322, title I, § 1165, Dec. 16, 2016, 130 Stat. 1670.)
+(Pub. L. 114–322, title I, § 1165, Dec. 16, 2016, 130 Stat. 1670.)
 
 **Editorial Notes**
 
@@ -1315,7 +1315,7 @@ Section 6002 of the Water Resources Reform and Development Act of 2014, referred
 
 Secretary means the Secretary of the Army, see section 1002 of Pub. L. 114–322, set out as a note under section 2201 of this title.
 
-### § 578b. Disposition of projects
+### § 578b. Disposition of projects
 
 **(a) In general**
 
@@ -1331,7 +1331,7 @@ In carrying out a disposition study for a project of the Corps of Engineers, or 
 
 For disposition studies described in subsection (a) in which the Secretary determines that a Federal interest no longer exists, and makes a recommendation of removal of the project or separable element of a project, the Secretary is authorized, using existing authorities, to pursue removal of the project or separable element of a project in partnership with other Federal agencies and non-Federal entities with appropriate capabilities to undertake infrastructure removal.
 
-(Pub. L. 115–270, title I, § 1168, Oct. 23, 2018, 132 Stat. 3798.)
+(Pub. L. 115–270, title I, § 1168, Oct. 23, 2018, 132 Stat. 3798.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1339,11 +1339,11 @@ For disposition studies described in subsection (a) in which the Secretary deter
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-### § 579. Repealed. Pub. L. 101–640, title I, § 119(b), Nov. 28, 1990, 104 Stat. 4630
+### § 579. Repealed. Pub. L. 101–640, title I, § 119(b), Nov. 28, 1990, 104 Stat. 4630
 
-Section, Pub. L. 93–251, title I, § 12, Mar. 7, 1974, 88 Stat. 16; H. Res. 988, Oct. 8, 1974; Pub. L. 94–587, § 157(a), Oct. 22, 1976, 90 Stat. 2933; S. Res. 4, Feb. 4, 1977, provided for deauthorization of projects of improvement of rivers and harbors and other waterways for navigation, beach erosion, flood control, and other purposes which the Secretary of the Army determined should no longer be authorized.
+Section, Pub. L. 93–251, title I, § 12, Mar. 7, 1974, 88 Stat. 16; H. Res. 988, Oct. 8, 1974; Pub. L. 94–587, § 157(a), Oct. 22, 1976, 90 Stat. 2933; S. Res. 4, Feb. 4, 1977, provided for deauthorization of projects of improvement of rivers and harbors and other waterways for navigation, beach erosion, flood control, and other purposes which the Secretary of the Army determined should no longer be authorized.
 
-### § 579a. Corps budgeting; project deauthorizations; comprehensive backlog report
+### § 579a. Corps budgeting; project deauthorizations; comprehensive backlog report
 
 **(a) Funds to be obligated for construction to avoid deauthorization**
 
@@ -1409,13 +1409,13 @@ Any project authorized for construction by this Act shall not be authorized afte
 
 **(II)** the Director of the Office of Management and Budget.
 
-**(ii) Public availability.—** The Secretary shall make a copy of the lists available on a publicly accessible website site 1
+**(ii) Public availability.—** The Secretary shall make a copy of the lists available on a publicly accessible website site 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 in a manner that is downloadable, searchable, and sortable.
 
-(Pub. L. 99–662, title X, § 1001, Nov. 17, 1986, 100 Stat. 4201; Pub. L. 101–640, title I, § 119(a), Nov. 28, 1990, 104 Stat. 4630; Pub. L. 104–303, title II, § 228(a), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–109, § 8(d), Nov. 24, 1999, 113 Stat. 1496; Pub. L. 110–114, title II, § 2046, Nov. 8, 2007, 121 Stat. 1105; Pub. L. 113–121, title VI, § 6001(b), June 10, 2014, 128 Stat. 1345; Pub. L. 115–270, title I, § 1154(a), Oct. 23, 2018, 132 Stat. 3791; Pub. L. 116–260, div. AA, title III, § 360(b), Dec. 27, 2020, 134 Stat. 2732.)
+(Pub. L. 99–662, title X, § 1001, Nov. 17, 1986, 100 Stat. 4201; Pub. L. 101–640, title I, § 119(a), Nov. 28, 1990, 104 Stat. 4630; Pub. L. 104–303, title II, § 228(a), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–109, § 8(d), Nov. 24, 1999, 113 Stat. 1496; Pub. L. 110–114, title II, § 2046, Nov. 8, 2007, 121 Stat. 1105; Pub. L. 113–121, title VI, § 6001(b), June 10, 2014, 128 Stat. 1345; Pub. L. 115–270, title I, § 1154(a), Oct. 23, 2018, 132 Stat. 3791; Pub. L. 116–260, div. AA, title III, § 360(b), Dec. 27, 2020, 134 Stat. 2732.)
 
 **Editorial Notes**
 
@@ -1427,21 +1427,21 @@ Section 219 of the Water Resources Development Act of 1992, referred to in subse
 
 **Amendments**
 
-2020—Subsec. (b)(2), (3). Pub. L. 116–260, § 360(b)(1), redesignated par. (3) as (2) and struck out former par. (2) which related to project deauthorizations and notification to Congress.
+2020—Subsec. (b)(2), (3). Pub. L. 116–260, § 360(b)(1), redesignated par. (3) as (2) and struck out former par. (2) which related to project deauthorizations and notification to Congress.
 
-Subsec. (c). Pub. L. 116–260, § 360(b)(2), struck out subsec. (c). Prior to amendment, text read as follows: “The Secretary shall publish in the Federal Register a list of any projects or separable elements that are deauthorized under this section.”
+Subsec. (c). Pub. L. 116–260, § 360(b)(2), struck out subsec. (c). Prior to amendment, text read as follows: “The Secretary shall publish in the Federal Register a list of any projects or separable elements that are deauthorized under this section.”
 
-2018—Pub. L. 115–270, § 1154(a)(1), substituted “Corps budgeting; project deauthorizations; comprehensive backlog report” for “Project deauthorizations” in section catchline.
+2018—Pub. L. 115–270, § 1154(a)(1), substituted “Corps budgeting; project deauthorizations; comprehensive backlog report” for “Project deauthorizations” in section catchline.
 
-Subsec. (b)(3), (4). Pub. L. 115–270, § 1154(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which related to minimum funding lists and comprehensive backlog reports, respectively.
+Subsec. (b)(3), (4). Pub. L. 115–270, § 1154(a)(2), added pars. (3) and (4) and struck out former pars. (3) and (4) which related to minimum funding lists and comprehensive backlog reports, respectively.
 
 2014—Subsec. (b)(3), (4). Pub. L. 113–121 added pars. (3) and (4).
 
-2007—Subsec. (b)(2). Pub. L. 110–114, § 2046(3), which directed the substitution of “such period” for “such 30 month period” in last sentence, was executed by making the substitution for “such 30-month period” to reflect the probable intent of Congress.
+2007—Subsec. (b)(2). Pub. L. 110–114, § 2046(3), which directed the substitution of “such period” for “such 30 month period” in last sentence, was executed by making the substitution for “such 30-month period” to reflect the probable intent of Congress.
 
-Pub. L. 110–114, § 2046(2), in last sentence, substituted “the last date of the fiscal year following the fiscal year in which” for “30 months after the date”.
+Pub. L. 110–114, § 2046(2), in last sentence, substituted “the last date of the fiscal year following the fiscal year in which” for “30 months after the date”.
 
-Pub. L. 110–114, § 2046(1), in first sentence, substituted “year” for “two years” and “5” for “7”.
+Pub. L. 110–114, § 2046(1), in first sentence, substituted “year” for “two years” and “5” for “7”.
 
 1999—Subsec. (b)(2). Pub. L. 106–109, in first sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), every” for “Every”.
 
@@ -1453,45 +1453,45 @@ Pub. L. 110–114, § 2046(1), in first sentence, substituted “year” for �
 
 **Savings Clause**
 
-Pub. L. 115–270, title I, § 1332(b), Oct. 23, 2018, 132 Stat. 3835, provided that: “Notwithstanding the third sentence of section 1001(b)(2) of the Water Resources Development Act of 1986 (former 33 U.S.C. 579a(b)(2)), projects and separable elements of projects identified in the fiscal year 2017 report prepared in accordance with such section and submitted to Congress on December 15, 2016, shall not be deauthorized unless such projects and separable elements meet the requirements of section 1301(b)(1)(A) of the Water Resources Development Act of 2016 (130 Stat. 1687) [former 33 U.S.C. 579d(b)(1)(A)].”
+Pub. L. 115–270, title I, § 1332(b), Oct. 23, 2018, 132 Stat. 3835, provided that: “Notwithstanding the third sentence of section 1001(b)(2) of the Water Resources Development Act of 1986 (former 33 U.S.C. 579a(b)(2)), projects and separable elements of projects identified in the fiscal year 2017 report prepared in accordance with such section and submitted to Congress on December 15, 2016, shall not be deauthorized unless such projects and separable elements meet the requirements of section 1301(b)(1)(A) of the Water Resources Development Act of 2016 (130 Stat. 1687) [former 33 U.S.C. 579d(b)(1)(A)].”
 
 **Project Deauthorizations; Extension of Limitation on Period of Authorization**
 
-Pub. L. 100–676, § 52(a), Nov. 17, 1988, 102 Stat. 4044, which provided that subsecs. (a) and (c) of this section applied to projects authorized for construction by Pub. L. 100–676 (see Short Title of 1988 Amendment note set out under section 2201 of this title), except that the 5-year period during which funds had to be obligated to prevent deauthorization began on Nov. 17, 1988, and were also to apply to projects authorized for construction subsequent to Pub. L. 100–676, except that 5-year period during which funds had to be obligated to prevent deauthorization began on the date of the authorization of such projects, was repealed by Pub. L. 104–303, title II, § 228(b)(1), Oct. 12, 1996, 110 Stat. 3703.
+Pub. L. 100–676, § 52(a), Nov. 17, 1988, 102 Stat. 4044, which provided that subsecs. (a) and (c) of this section applied to projects authorized for construction by Pub. L. 100–676 (see Short Title of 1988 Amendment note set out under section 2201 of this title), except that the 5-year period during which funds had to be obligated to prevent deauthorization began on Nov. 17, 1988, and were also to apply to projects authorized for construction subsequent to Pub. L. 100–676, except that 5-year period during which funds had to be obligated to prevent deauthorization began on the date of the authorization of such projects, was repealed by Pub. L. 104–303, title II, § 228(b)(1), Oct. 12, 1996, 110 Stat. 3703.
 
 **“Secretary” Defined**
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 
-### § 579b. Omitted
+### § 579b. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 113–121, title VI, § 6001, June 10, 2014, 128 Stat. 1345; Pub. L. 114–322, title I, § 1301(g), Dec. 16, 2016, 130 Stat. 1690, consisted of subsecs. (a) to (f) relating to deauthorization of inactive projects authorized for construction before Nov. 8, 2007. Subsecs. (a) and (c) to (f) were repealed by Pub. L. 114–322, title I, § 1301(g), Dec. 16, 2016, 130 Stat. 1690. Subsec. (b) of section 6001 of Pub. L. 113–121 amended section 579a of this title.
+Section, Pub. L. 113–121, title VI, § 6001, June 10, 2014, 128 Stat. 1345; Pub. L. 114–322, title I, § 1301(g), Dec. 16, 2016, 130 Stat. 1690, consisted of subsecs. (a) to (f) relating to deauthorization of inactive projects authorized for construction before Nov. 8, 2007. Subsecs. (a) and (c) to (f) were repealed by Pub. L. 114–322, title I, § 1301(g), Dec. 16, 2016, 130 Stat. 1690. Subsec. (b) of section 6001 of Pub. L. 113–121 amended section 579a of this title.
 
-### § 579c. Repealed. Pub. L. 116–260, div. AA, title III, § 360(d), Dec. 27, 2020, 134 Stat. 2733
+### § 579c. Repealed. Pub. L. 116–260, div. AA, title III, § 360(d), Dec. 27, 2020, 134 Stat. 2733
 
-Section, Pub. L. 113–121, title VI, § 6003, June 10, 2014, 128 Stat. 1349; Pub. L. 115–270, title I, § 1330(a), Oct. 23, 2018, 132 Stat. 3827, related to backlog prevention pertaining to projects from Public Law 113–121.
+Section, Pub. L. 113–121, title VI, § 6003, June 10, 2014, 128 Stat. 1349; Pub. L. 115–270, title I, § 1330(a), Oct. 23, 2018, 132 Stat. 3827, related to backlog prevention pertaining to projects from Public Law 113–121.
 
-### § 579c–1. Repealed. Pub. L. 116–260, div. AA, title III, § 360(f), Dec. 27, 2020, 134 Stat. 2733
+### § 579c–1. Repealed. Pub. L. 116–260, div. AA, title III, § 360(f), Dec. 27, 2020, 134 Stat. 2733
 
-Section, Pub. L. 114–322, title I, § 1302, Dec. 16, 2016, 130 Stat. 1690, related to backlog prevention pertaining to projects from Public Law 114–322.
+Section, Pub. L. 114–322, title I, § 1302, Dec. 16, 2016, 130 Stat. 1690, related to backlog prevention pertaining to projects from Public Law 114–322.
 
-### § 579c–2. Repealed. Pub. L. 116–260, div. AA, title III, § 360(h), Dec. 27, 2020, 134 Stat. 2733
+### § 579c–2. Repealed. Pub. L. 116–260, div. AA, title III, § 360(h), Dec. 27, 2020, 134 Stat. 2733
 
-Section, Pub. L. 115–270, title I, § 1302, Oct. 23, 2018, 132 Stat. 3817, related to backlog prevention pertaining to projects from Public Law 115–270.
+Section, Pub. L. 115–270, title I, § 1302, Oct. 23, 2018, 132 Stat. 3817, related to backlog prevention pertaining to projects from Public Law 115–270.
 
-### § 579d. Repealed. Pub. L. 116–260, div. AA, title III, § 360(e), Dec. 27, 2020, 134 Stat. 2733
+### § 579d. Repealed. Pub. L. 116–260, div. AA, title III, § 360(e), Dec. 27, 2020, 134 Stat. 2733
 
-Section, Pub. L. 114–322, title I, § 1301, Dec. 16, 2016, 130 Stat. 1686, related to deauthorization of inactive projects as of Public Law 114–322.
+Section, Pub. L. 114–322, title I, § 1301, Dec. 16, 2016, 130 Stat. 1686, related to deauthorization of inactive projects as of Public Law 114–322.
 
-### § 579d–1. Repealed. Pub. L. 116–260, div. AA, title III, § 360(g), Dec. 27, 2020, 134 Stat. 2733
+### § 579d–1. Repealed. Pub. L. 116–260, div. AA, title III, § 360(g), Dec. 27, 2020, 134 Stat. 2733
 
-Section, Pub. L. 115–270, title I, § 1301, Oct. 23, 2018, 132 Stat. 3814, related to deauthorization of inactive projects as of Public Law 115–270.
+Section, Pub. L. 115–270, title I, § 1301, Oct. 23, 2018, 132 Stat. 3814, related to deauthorization of inactive projects as of Public Law 115–270.
 
-### § 579d–2. Deauthorization of inactive projects
+### § 579d–2. Deauthorization of inactive projects
 
 **(a) Purposes** The purposes of this section are—
 
@@ -1569,7 +1569,7 @@ The public comment period shall be 90 days.
 
 The Secretary shall not include in the final deauthorization list submitted under paragraph (1) any project or separable element with respect to which Federal funds for planning, design, or construction are obligated after the development of the preliminary list under subsection (b)(1)(A) but prior to the submission of the final deauthorization list under paragraph (1)(A) of this subsection.
 
-**(d) Repealed. Pub. L. 117–263, div. H, title LXXXI, § 8301(b), Dec. 23, 2022, 136 Stat. 3776**
+**(d) Repealed. Pub. L. 117–263, div. H, title LXXXI, § 8301(b), Dec. 23, 2022, 136 Stat. 3776**
 
 **(e) Special rules**
 
@@ -1617,7 +1617,7 @@ The term “post-authorization change report” has the meaning given such term 
 
 **(ii)** requires additional analysis for the project or separable element.
 
-(Pub. L. 116–260, div. AA, title III, § 301, Dec. 27, 2020, 134 Stat. 2699; Pub. L. 117–263, div. H, title LXXXI, § 8301, Dec. 23, 2022, 136 Stat. 3775; Pub. L. 118–272, div. A, title III, § 1301, Jan. 4, 2025, 138 Stat. 3107.)
+(Pub. L. 116–260, div. AA, title III, § 301, Dec. 27, 2020, 134 Stat. 2699; Pub. L. 117–263, div. H, title LXXXI, § 8301, Dec. 23, 2022, 136 Stat. 3775; Pub. L. 118–272, div. A, title III, § 1301, Jan. 4, 2025, 138 Stat. 3107.)
 
 **Editorial Notes**
 
@@ -1625,9 +1625,9 @@ The term “post-authorization change report” has the meaning given such term 
 
 2025—Subsecs. (a) to (c). Pub. L. 118–272 added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to purposes of this section, proposed deauthorization list, and submission for congressional review and publication of final deauthorization list, respectively.
 
-2022—Subsecs. (a) to (c). Pub. L. 117–263, § 8301(a), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to purposes of this section, development of proposed deauthorization list, and submission to Congress and publication of final deauthorization list, respectively.
+2022—Subsecs. (a) to (c). Pub. L. 117–263, § 8301(a), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to purposes of this section, development of proposed deauthorization list, and submission to Congress and publication of final deauthorization list, respectively.
 
-Subsec. (d). Pub. L. 117–263, § 8301(b), struck out subsec. (d) which provided for deauthorization of projects on final deauthorization list subject to congressional review and non-Federal contributions.
+Subsec. (d). Pub. L. 117–263, § 8301(b), struck out subsec. (d) which provided for deauthorization of projects on final deauthorization list subject to congressional review and non-Federal contributions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1635,7 +1635,7 @@ Subsec. (d). Pub. L. 117–263, § 8301(b), struck out subsec. (d) which provi
 
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.
 
-### § 579e. Access to real estate data
+### § 579e. Access to real estate data
 
 **(a) In general**
 
@@ -1665,7 +1665,7 @@ The Secretary shall ensure that the implementation of subsection (a) occurs as s
 
 Nothing in this section shall be construed as modifying, or exempting the Corps of Engineers from, the requirements of the Federal real property database published under section 21 of the Federal Assets Sale and Transfer Act of 2016 (Public Law 114–287).
 
-(Pub. L. 115–270, title I, § 1107, Oct. 23, 2018, 132 Stat. 3773.)
+(Pub. L. 115–270, title I, § 1107, Oct. 23, 2018, 132 Stat. 3773.)
 
 **Editorial Notes**
 
@@ -1679,7 +1679,7 @@ Section 21 of the Federal Assets Sale and Transfer Act of 2016, referred to in s
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-### § 579f. Budgetary evaluation metrics and transparency; public participation
+### § 579f. Budgetary evaluation metrics and transparency; public participation
 
 **(a) Omitted**
 
@@ -1701,7 +1701,7 @@ Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270,
 
 **(B)** to the maximum extent practicable, to share in concept development and decisionmaking to achieve complementary or integrated solutions to problems.
 
-(Pub. L. 115–270, title I, § 1154, Oct. 23, 2018, 132 Stat. 3791.)
+(Pub. L. 115–270, title I, § 1154, Oct. 23, 2018, 132 Stat. 3791.)
 
 **Editorial Notes**
 
@@ -1715,7 +1715,7 @@ Section is comprised of section 1154 of Pub. L. 115–270. Subsec. (a) of sectio
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-### § 579g. Annual reports
+### § 579g. Annual reports
 
 **(1) In general**
 
@@ -1747,7 +1747,7 @@ The Secretary shall submit to the Committee on Transportation and Infrastructure
 
 **(B)** does not include a feasibility study (as such term is defined in section 2215(d) of this title).
 
-(Pub. L. 118–272, div. A, title I, § 1150(b), Jan. 4, 2025, 138 Stat. 3041.)
+(Pub. L. 118–272, div. A, title I, § 1150(b), Jan. 4, 2025, 138 Stat. 3041.)
 
 **Editorial Notes**
 
@@ -1763,11 +1763,11 @@ Secretary means the Secretary of the Army, see section 1002 of div. A of Pub. L.
 
 ## SUBCHAPTER II—PAY AND ALLOWANCES; TRAVELING EXPENSES AND SUBSISTENCE
 
-### § 581. Hiring special means of transportation
+### § 581. Hiring special means of transportation
 
 In their execution and inspection of river and harbor improvement work, at points beyond easy reach of ordinary regular transportation lines, Engineer officers are authorized to hire and use such transportation as they may consider desirable and advantageous to the progress of work.
 
-(July 25, 1912, ch. 253, § 9, 37 Stat. 233.)
+(July 25, 1912, ch. 253, § 9, 37 Stat. 233.)
 
 **Editorial Notes**
 
@@ -1775,15 +1775,15 @@ In their execution and inspection of river and harbor improvement work, at point
 
 Section is from act July 25, 1912, popularly known as the “Rivers and Harbors Appropriation Act of 1912”.
 
-### § 582. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644
+### § 582. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644
 
-Section, act July 18, 1918, ch. 155, § 9, 40 Stat. 912, related to subsistence allowance to persons engaged in field work.
+Section, act July 18, 1918, ch. 155, § 9, 40 Stat. 912, related to subsistence allowance to persons engaged in field work.
 
-### § 583. Payment of allowances, etc., incident to change of station of Engineer officers from appropriation for improvements
+### § 583. Payment of allowances, etc., incident to change of station of Engineer officers from appropriation for improvements
 
 When in the opinion of the Secretary of the Army the changes of a station of an officer of the Corps of Engineers is primarily in the interest of river and harbor improvement, the mileage and other allowances to which he may be entitled incident to such change of station may be paid from appropriations for such improvements.
 
-(Mar. 3, 1925, ch. 467, § 5, 43 Stat. 1191; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 3, 1925, ch. 467, § 5, 43 Stat. 1191; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1791,7 +1791,7 @@ When in the opinion of the Secretary of the Army the changes of a station of an 
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 583a. Payment of pay and allowances of officers of Corps of Engineers from appropriation for improvements
+### § 583a. Payment of pay and allowances of officers of Corps of Engineers from appropriation for improvements
 
 **(a) In general**
 
@@ -1809,25 +1809,25 @@ The personnel described in subsection (b) who are employed primarily on duty con
 
 **(C)** Enlisted members (whether regular or reserve component).
 
-(Aug. 10, 1956, ch. 1041, § 36, 70A Stat. 634; Pub. L. 117–263, div. H, title LXXXI, § 8125, Dec. 23, 2022, 136 Stat. 3715.)
+(Aug. 10, 1956, ch. 1041, § 36, 70A Stat. 634; Pub. L. 117–263, div. H, title LXXXI, § 8125, Dec. 23, 2022, 136 Stat. 3715.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section is derived from the third proviso of Act June 26, 1936, ch. 839, 49 Stat. 1974, which was classified to section 181a of Title 10 prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1.
+Section is derived from the third proviso of Act June 26, 1936, ch. 839, 49 Stat. 1974, which was classified to section 181a of Title 10 prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1.
 
 **Amendments**
 
 2022—Pub. L. 117–263 designated existing provisions as subsec. (a), inserted heading, substituted “The personnel described in subsection (b)” for “Regular officers of the Corps of Engineers of the Army, and reserve officers of the Army who are assigned to the Corps of Engineers,”, and added subsec. (b).
 
-### §§ 584, 584a. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 647, 648
+### §§ 584, 584a. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 647, 648
 
-Section 584, act Jan. 21, 1927, ch. 47, § 5(d), 44 Stat. 1021, related to expenses incident to transportation of household effects of civilian employees.
+Section 584, act Jan. 21, 1927, ch. 47, § 5(d), 44 Stat. 1021, related to expenses incident to transportation of household effects of civilian employees.
 
-Section 584a, act July 3, 1930, ch. 847, § 6, 46 Stat. 948, related to travel expenses of civilian employees on river and harbor works.
+Section 584a, act July 3, 1930, ch. 847, § 6, 46 Stat. 948, related to travel expenses of civilian employees on river and harbor works.
 
-### § 585. Reserve component training at water resources development projects
+### § 585. Reserve component training at water resources development projects
 
 **(a) In general**
 
@@ -1837,15 +1837,15 @@ In carrying out military training activities or otherwise fulfilling military tr
 
 This section shall not apply to any member of a reserve component of the Armed Forces who is employed by the Corps of Engineers on a full-time basis.
 
-(Pub. L. 117–263, div. H, title LXXXI, § 8124, Dec. 23, 2022, 136 Stat. 3715.)
+(Pub. L. 117–263, div. H, title LXXXI, § 8124, Dec. 23, 2022, 136 Stat. 3715.)
 
 ## SUBCHAPTER III—ACQUISITION OF LAND AND MATERIALS
 
-### § 591. Condemnation, purchase, and donation of land and materials
+### § 591. Condemnation, purchase, and donation of land and materials
 
 The Secretary of the Army may cause proceedings to be instituted, in the name of the United States, in any court having jurisdiction of such proceedings, for the acquirement by condemnation of any land, right-of-way, or material needed to enable him to maintain, operate, or prosecute works for the improvement of rivers and harbors for which provision has been made by law; such proceedings to be prosecuted in accordance with the laws relating to suits for the condemnation of property of the States wherein the proceedings may be instituted: *Provided, however*, That when the owner of such land, right-of-way, or material shall fix a price for the same, which in the opinion of the Secretary of the Army, shall be reasonable, he may purchase the same at such price without further delay: And provided further, That the Secretary of the Army is authorized to accept donations of lands or materials required for the maintenance or prosecution of such works.
 
-(Apr. 24, 1888, ch. 194, 25 Stat. 94; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Apr. 24, 1888, ch. 194, 25 Stat. 94; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1853,11 +1853,11 @@ The Secretary of the Army may cause proceedings to be instituted, in the name of
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 592. Condemnation of land in aid of person, com­pany, corporation, municipal or private
+### § 592. Condemnation of land in aid of person, com­pany, corporation, municipal or private
 
 Whenever any person, company, or corporation, municipal or private, shall undertake to secure any land or easement therein needed in connection with a work of river and harbor improvement duly authorized by Congress, for the purpose of conveying the same to the United States free of cost, or for the purpose of constructing, maintaining, and operating locks, dry docks, or other works to be conveyed to the United States free of cost, and of constructing, maintaining and operating dams for use in connection therewith, and shall be unable for any reason to obtain the same by purchase and acquire a valid title thereto, the Secretary of the Army may, in his discretion, cause proceedings to be instituted in the name of the United States for the acquirement by condemnation of said land or easement, and it shall be the duty of the Attorney General of the United States to institute and conduct such proceedings upon the request of the Secretary of the Army: *Provided*, That all expenses of said proceedings and any award that may be made thereunder shall be paid by the said person, company, or corporation, to secure which payment the Secretary of the Army may require the said person, company, or corporation to execute a proper bond in such amount as he may deem necessary before said proceedings are commenced.
 
-(May 16, 1906, ch. 2465, 34 Stat. 196; June 29, 1906, ch. 3628, 34 Stat. 632; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(May 16, 1906, ch. 2465, 34 Stat. 196; June 29, 1906, ch. 3628, 34 Stat. 632; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -1871,11 +1871,11 @@ Act May 16, 1906, as originally enacted, provided that: “Whenever any person, 
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 593. Condemnation of land in aid of State or State agency
+### § 593. Condemnation of land in aid of State or State agency
 
 Whenever any State, or any reclamation, flood control or drainage district, or other public agency created by any State, shall undertake to secure any land or easement therein, needed in connection with a work of river and harbor improvement duly authorized by Congress, for the purpose of conveying the same to the United States free of cost, and shall be unable for any reason to obtain the same by purchase and acquire a valid title thereto, the Secretary of the Army may, in his discretion, cause proceedings to be instituted in the name of the United States for the acquirement by condemnation of said land or easement, and it shall be the duty of the Attorney General of the United States to institute and conduct such proceedings upon the request of the Secretary of the Army: *Provided*, That all expenses of said proceedings and any award that may be made thereunder shall be paid by such State, or reclamation, flood control or drainage district, or other public agency as aforesaid, to secure which payment the Secretary of the Army may require such State, or reclamation, flood control or drainage district, or other public agency as aforesaid, to execute a proper bond in such amount as he may deem necessary before said proceedings are commenced.
 
-(Aug. 8, 1917, ch. 49, § 9, 40 Stat. 267; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 8, 1917, ch. 49, § 9, 40 Stat. 267; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -1889,11 +1889,11 @@ Section is from act Aug. 8, 1917, popularly known as the “Rivers and Harbors A
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 594. When immediate possession of land may be taken
+### § 594. When immediate possession of land may be taken
 
 Whenever the Secretary of the Army, in pursuance of authority conferred on him by law, causes proceedings to be instituted in the name of the United States for the acquirement by condemnation of any lands, easements, or rights of way needed for a work of river and harbor improvements duly authorized by Congress, the United States, upon the filing of the petition in any such proceedings, shall have the right to take immediate possession of said lands, easements, or rights-of-way, to the extent of the interest to be acquired, and proceed with such public works thereon as have been authorized by Congress: *Provided*, That certain and adequate provision shall have been made for the payment of just compensation to the party or parties entitled thereto, either by previous appropriation by the United States or by the deposit of moneys or other form of security in such amount and form as shall be approved by the court in which such proceedings shall be instituted. The respondent or respondents may move at any time in the court to increase or change the amounts or securities, and the court shall make such order as shall be just in the premises and as shall adequately protect the respondents. In every case the proceedings in condemnation shall be diligently prosecuted on the part of the United States in order that such compensation may be promptly ascertained and paid.
 
-(July 18, 1918, ch. 155, § 5, 40 Stat. 911; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(July 18, 1918, ch. 155, § 5, 40 Stat. 911; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -1907,11 +1907,11 @@ Section is from act July 18, 1918, popularly known as the “Rivers and Harbors 
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 595. Consideration of benefits in assessing compensation
+### § 595. Consideration of benefits in assessing compensation
 
 In all cases where private property shall be taken by the United States for the public use in connection with any improvement of rivers, harbors, canals, or waterways of the United States, and in all condemnation proceedings by the United States to acquire lands or easements for such improvements, where a part only of any such parcel, lot, or tract of land shall be taken, the jury or other tribunal awarding the just compensation or assessing the damages to the owner, whether for the value of the part taken or for any injury to the part not taken, shall take into consideration by way of reducing the amount of compensation or damages any special and direct benefits to the remainder arising from the improvement, and shall render their award or verdict accordingly.
 
-(July 18, 1918, ch. 155, § 6, 40 Stat. 911.)
+(July 18, 1918, ch. 155, § 6, 40 Stat. 911.)
 
 **Editorial Notes**
 
@@ -1919,15 +1919,15 @@ In all cases where private property shall be taken by the United States for the 
 
 Section is from act July 18, 1918, popularly known as the “Rivers and Harbors Appropriation Act of 1918”.
 
-### § 595a. Compensation for taking or condemnation of property for public improvements; fair market value; partial taking; effective date
+### § 595a. Compensation for taking or condemnation of property for public improvements; fair market value; partial taking; effective date
 
 In all cases where real property shall be taken by the United States for the public use in connection with any improvement of rivers, harbors, canals, or waterways of the United States, and in all condemnation proceedings by the United States to acquire lands or easements for such improvements, the compensation to be paid for real property taken by the United States above the normal high water mark of navigable waters of the United States shall be the fair market value of such real property based upon all uses to which such real property may reasonably be put, including its highest and best use, any of which uses may be dependent upon access to or utilization of such navigable waters. In cases of partial takings of real property, no depreciation in the value of any remaining real property shall be recognized and no compensation shall be paid for any damages to such remaining real property which result from loss of or reduction of access from such remaining real property to such navigable waters because of the taking of real property or the purposes for which such real property is taken. The compensation defined herein shall apply to all acquisitions of real property after December 31, 1970, and to the determination of just compensation in any condemnation suit pending on December 31, 1970.
 
-(Pub. L. 91–611, title I, § 111, Dec. 31, 1970, 84 Stat. 1821.)
+(Pub. L. 91–611, title I, § 111, Dec. 31, 1970, 84 Stat. 1821.)
 
-### § 596. Repealed. Pub. L. 91–646, title III, § 306, Jan. 2, 1971, 84 Stat. 1907
+### § 596. Repealed. Pub. L. 91–646, title III, § 306, Jan. 2, 1971, 84 Stat. 1907
 
-Section, Pub. L. 86–645, title III, § 301, July 14, 1960, 74 Stat. 502, declared the policy of Congress with respect to payment of just and reasonable consideration to owners and tenants whose property is acquired for public works projects and payment of a purchase price in negotiation for such property which will consider such congressional policy. See provisions of Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, classified to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare.
+Section, Pub. L. 86–645, title III, § 301, July 14, 1960, 74 Stat. 502, declared the policy of Congress with respect to payment of just and reasonable consideration to owners and tenants whose property is acquired for public works projects and payment of a purchase price in negotiation for such property which will consider such congressional policy. See provisions of Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, classified to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1939,25 +1939,25 @@ Repeal not applicable to any State so long as sections 4630 and 4655 of title 42
 
 Any rights or liabilities existing under provisions repealed by section 306 of Pub. L. 91–646 as not affected by such repeal, see section 306 of Pub. L. 91–646, set out in part as a Savings Provision note under section 4651 of Title 42, The Public Health and Welfare.
 
-### § 597. Acquisition of lands for water resource development projects; information as to probable timing for acquisition; public meetings; regulations
+### § 597. Acquisition of lands for water resource development projects; information as to probable timing for acquisition; public meetings; regulations
 
 Within six months after the date that Congress authorizes construction of a water resource development project under the jurisdiction of the Secretary of the Army, the Corps of Engineers shall make reasonable effort to advise owners and occupants in and adjacent to the project area as to the probable timing for the acquisition of lands for the project and for incidental rights-of-way, relocations, and any other requirements affecting owners and occupants. Within a reasonable time after initial appropriations are made for land acquisition or construction, including relocations, the Corps of Engineers shall conduct public meetings at locations convenient to owners and tenants to be displaced by the project in order to advise them of the proposed plans for acquisition and to afford them an opportunity to comment. To carry out the provisions of this section, the Chief of Engineers shall issue regulations to provide, among other things, dissemination of the following information to those affected: (1) factors considered in making the appraisals; (2) desire to purchase property without going to court; (3) legal right to submit to condemnation proceedings; (4) payments for moving expenses or other losses not covered by appraised market value; (5) occupancy during construction; (6) removal of improvements; (7) payments required from occupants of Government acquired land; (8) withdrawals by owners of deposits made in court by Government, and (9) use of land by owner when easement is acquired. The provisions of this section shall not subject the United States to any liability nor affect the validity of any acquisitions by purchase or condemnation and shall be exempt from the operations of subchapter II of chapter 5, and chapter 7, of title 5.
 
-(Pub. L. 86–645, title III, § 302, July 14, 1960, 74 Stat. 502.)
+(Pub. L. 86–645, title III, § 302, July 14, 1960, 74 Stat. 502.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Subchapter II of chapter 5, and chapter 7, of title 5” substituted in text for “the Administrative Procedure Act of June 11, 1946, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Subchapter II of chapter 5, and chapter 7, of title 5” substituted in text for “the Administrative Procedure Act of June 11, 1946, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 86–645, title III, § 303, July 14, 1960, 74 Stat. 503, provided that: “Title III of this Act [enacting this section and section 596 of this title] may be cited as the ‘Land Acquisition Policy Act of 1960’.”
+Pub. L. 86–645, title III, § 303, July 14, 1960, 74 Stat. 503, provided that: “Title III of this Act [enacting this section and section 596 of this title] may be cited as the ‘Land Acquisition Policy Act of 1960’.”
 
-### § 598. Resettlement of displaced families, individuals, and business concerns
+### § 598. Resettlement of displaced families, individuals, and business concerns
 
 **(a) Acquisition of land; condemnation expenses; bond**
 
@@ -1971,15 +1971,15 @@ No acquisition shall be undertaken under the authority of this section unless th
 
 The Secretary is further authorized and directed by proper deed, executed in the name of the United States, to convey any lands or interests in land acquired in any State under the provisions of this section, to the State, or such public or private nonprofit body, agency, or institution in the State as the Governor may prescribe, upon such terms and conditions as may be agreed upon by the Secretary, the Governor, and the agency to which the conveyance is to be made.
 
-(Pub. L. 90–483, title II, § 209, Aug. 13, 1968, 82 Stat. 745.)
+(Pub. L. 90–483, title II, § 209, Aug. 13, 1968, 82 Stat. 745.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Sections 3114–3116 and 3118 of title 40” substituted in subsec. (a) for “the Act of February 26, 1931 (46 Stat. 1421)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3114–3116 and 3118 of title 40” substituted in subsec. (a) for “the Act of February 26, 1931 (46 Stat. 1421)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-### § 598a. Property acquisition
+### § 598a. Property acquisition
 
 **(a) In general**
 
@@ -1993,13 +1993,13 @@ In determining an interest in land under subsection (a), the Secretary shall fir
 
 In carrying out subsection (a), the Secretary shall consider, with respect to a State, the procedures that the State uses to acquire, or require the acquisition of, interests in land, to the extent that such procedures are generally consistent with the goals of a project or action.
 
-(Pub. L. 115–270, title I, § 1115, Oct. 23, 2018, 132 Stat. 3776.)
+(Pub. L. 115–270, title I, § 1115, Oct. 23, 2018, 132 Stat. 3776.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2007,7 +2007,7 @@ The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-### § 598b. Minimum real estate interest
+### § 598b. Minimum real estate interest
 
 **(a) Real estate plan**
 
@@ -2039,7 +2039,7 @@ The non-Federal interest for an authorized water resources development project s
 
 At the request of a non-Federal interest, an agreement entered into under section 1962d–5b of title 42 between the Secretary and the non-Federal interest before January 4, 2025, may be amended to reflect the requirements of this section.
 
-(Pub. L. 118–272, div. A, title I, § 1104, Jan. 4, 2025, 138 Stat. 3000.)
+(Pub. L. 118–272, div. A, title I, § 1104, Jan. 4, 2025, 138 Stat. 3000.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2047,7 +2047,7 @@ At the request of a non-Federal interest, an agreement entered into under sectio
 
 Secretary means the Secretary of the Army, see section 1002 of div. A of Pub. L. 118–272, set out as a note under section 2201 of this title.
 
-### § 598c. Easements for hurricane and storm damage reduction projects
+### § 598c. Easements for hurricane and storm damage reduction projects
 
 **(a) In general** With respect to a project for hurricane and storm damage reduction for which the Secretary is requiring a perpetual easement, the Secretary shall, upon request by the non-Federal interest for the project, certify real estate availability and proceed to construction of such project with a nonperpetual easement if—
 
@@ -2141,7 +2141,7 @@ It is the sense of Congress that, for the purpose of constructing and maintainin
 
 Nothing in this section may be construed to affect the requirements of section 2213(d) of this title.
 
-(Pub. L. 118–272, div. A, title I, § 1145, Jan. 4, 2025, 138 Stat. 3035.)
+(Pub. L. 118–272, div. A, title I, § 1145, Jan. 4, 2025, 138 Stat. 3035.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2151,11 +2151,11 @@ Secretary means the Secretary of the Army, see section 1002 of div. A of Pub. L.
 
 ## SUBCHAPTER IV—PARTICULAR WORK OR IMPROVEMENTS
 
-### § 601. Mississippi River; regulation of reservoirs at headwaters
+### § 601. Mississippi River; regulation of reservoirs at headwaters
 
 It shall be the duty of the Secretary of the Army to prescribe such rules and regulations in respect to the use and administration of the reservoirs at the headwaters of the Mississippi River as in his judgment the public interest and necessity may require; which rules and regulations shall be posted in some conspicuous place or places for the information of the public. And any person knowingly and willfully violating such rules and regulations shall be liable to a fine not exceeding $500, or imprisonment, not exceeding six months, the same to be enforced by prosecution in any district court of the United States within whose territorial jurisdiction such offense may have been committed. And the Secretary of the Army shall cause such gaugings to be made at or near Saint Paul during the annual operation of said reservoirs as shall determine accurately the discharge at that point, the cost of same to be paid out of the annual appropriation for gauging the waters of the Mississippi River and its tributaries.
 
-(Aug. 11, 1888, ch. 860, § 1, 25 Stat. 419; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 11, 1888, ch. 860, § 1, 25 Stat. 419; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -2171,13 +2171,13 @@ In the original text the words “said reservoirs” appeared instead of “rese
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 602. Maintenance of channel of South Pass of Mississippi River
+### § 602. Maintenance of channel of South Pass of Mississippi River
 
 Upon the termination of the contract entered into with the late James B. Eads for the maintenance of the channel through the South Pass of the Mississippi River, the Secretary of the Army is directed to take charge of said channel, including the jetties, and all auxiliary works connected therewith, and thereafter to maintain with the utmost efficiency said South Pass Channel; and for that purpose he is authorized to draw his warrants from time to time on the Treasurer of the United States, until otherwise provided for by law, for such sums of money as may be necessary, not to exceed in the aggregate for any one year $100,000. For that purpose any available Government dredge may be used.
 
 For the purpose of securing the uninterrupted examinations and surveys of the South Pass of the Mississippi River, the Secretary of the Army, upon the application of the Chief of Engineers, is authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury for such sums as may be necessary to do such work, not to exceed in the aggregate for each year the sum of $10,000.
 
-(Aug. 11, 1888, ch. 860, §§ 1, 4, 25 Stat. 422, 424; June 6, 1900, ch. 790, § 3, 31 Stat. 584; June 13, 1902, ch. 1079, § 1, 32 Stat. 340; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967.)
+(Aug. 11, 1888, ch. 860, §§ 1, 4, 25 Stat. 422, 424; June 6, 1900, ch. 790, § 3, 31 Stat. 584; June 13, 1902, ch. 1079, § 1, 32 Stat. 340; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967.)
 
 **Editorial Notes**
 
@@ -2207,17 +2207,17 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Appropriations**
 
-Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the titles “Maintenance of channel, South Pass, Mississippi River (fiscal year) (8–961.55)” and “Examinations and surveys at South Pass, Mississippi River (fiscal year) (8–961.53)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such accounts are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the titles “Maintenance of channel, South Pass, Mississippi River (fiscal year) (8–961.55)” and “Examinations and surveys at South Pass, Mississippi River (fiscal year) (8–961.53)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such accounts are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
-### § 603. Repealed. Mar. 2, 1945, ch. 19, § 3, 59 Stat. 23
+### § 603. Repealed. Mar. 2, 1945, ch. 19, § 3, 59 Stat. 23
 
-Section, acts July 25, 1912, ch. 253, § 1, 37 Stat. 222; July 3, 1930, ch. 847, § 3, 46 Stat. 946; Oct. 17, 1940, ch. 895, § 3, 54 Stat. 1200, related to removal of temporary obstructions and to minor improvements in navigable waters. See section 603a of this title.
+Section, acts July 25, 1912, ch. 253, § 1, 37 Stat. 222; July 3, 1930, ch. 847, § 3, 46 Stat. 946; Oct. 17, 1940, ch. 895, § 3, 54 Stat. 1200, related to removal of temporary obstructions and to minor improvements in navigable waters. See section 603a of this title.
 
-### § 603a. Removal of snags and debris, and straightening, clearing, and protecting channels in navigable waters
+### § 603a. Removal of snags and debris, and straightening, clearing, and protecting channels in navigable waters
 
 The Secretary of the Army is authorized to allot not to exceed $5,000,000 from any appropriations made prior to or after March 2, 1945, for any one fiscal year for improvement of rivers and harbors, for removing accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel, and for protecting, clearing, and straightening channels in navigable harbors and navigable streams and tributaries thereof, when in the opinion of the Chief of Engineers such work is advisable in the interest of navigation, flood control, ecosystem restoration, or recreation.
 
-(Mar. 2, 1945, ch. 19, § 3, 59 Stat. 23; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 99–662, title IX, § 915(g), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 114–322, title I, § 1164, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 117–263, div. H, title LXXXI, § 8381, Dec. 23, 2022, 136 Stat. 3828.)
+(Mar. 2, 1945, ch. 19, § 3, 59 Stat. 23; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 99–662, title IX, § 915(g), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 114–322, title I, § 1164, Dec. 16, 2016, 130 Stat. 1670; Pub. L. 117–263, div. H, title LXXXI, § 8381, Dec. 23, 2022, 136 Stat. 3828.)
 
 **Editorial Notes**
 
@@ -2225,7 +2225,7 @@ The Secretary of the Army is authorized to allot not to exceed $5,000,000 from a
 
 2022—Pub. L. 117–263 substituted “ecosystem restoration, or recreation” for “or recreation”.
 
-2016—Pub. L. 114–322 substituted “$5,000,000” for “$1,000,000”, “accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel” for “accumulated snags and other debris”, and “, flood control, or recreation” for “or flood control”.
+2016—Pub. L. 114–322 substituted “$5,000,000” for “$1,000,000”, “accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel” for “accumulated snags and other debris”, and “, flood control, or recreation” for “or flood control”.
 
 1986—Pub. L. 99–662 substituted “$1,000,000” for “$300,000”.
 
@@ -2239,11 +2239,11 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Amendment by Pub. L. 99–662 not applicable to any project under contract for construction on Nov. 17, 1986, see section 915(i) of Pub. L. 99–662, set out as a note under section 426g of this title.
 
-### § 604. Removal of snags, etc., from Mississippi River
+### § 604. Removal of snags, etc., from Mississippi River
 
 For the purpose of removing snags, wrecks, and other obstructions in the Mississippi River, the Atchafalaya and Old Rivers from the junction with the Mississippi and Red Rivers down the Atchafalaya River as far down as Melville, Louisiana, the Secretary of the Army, upon the application of the Chief of Engineers, is authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury for such sums as may be necessary to do such work, not to exceed in the aggregate for each year the sum of $100,000.
 
-(Aug. 11, 1888, ch. 860, §§ 1, 7, 25 Stat. 421, 424; Mar. 3, 1909, ch. 264, § 3, 35 Stat. 817; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967.)
+(Aug. 11, 1888, ch. 860, §§ 1, 7, 25 Stat. 421, 424; Mar. 3, 1909, ch. 264, § 3, 35 Stat. 817; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967.)
 
 **Editorial Notes**
 
@@ -2269,13 +2269,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Appropriations**
 
-Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Removing obstructions in Mississippi, Atchafalaya, and Old Rivers (fiscal year) (8–961.58)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Removing obstructions in Mississippi, Atchafalaya, and Old Rivers (fiscal year) (8–961.58)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
-### § 605. Operation of snag boats on Upper Mississippi River
+### § 605. Operation of snag boats on Upper Mississippi River
 
 For the purpose of securing the uninterrupted work of operating snag boats on the Upper Mississippi River, the Illinois River, from its mouth to Copperas Creek, and the Minnesota River and other tributaries of the Upper Mississippi River improved by the United States, the Secretary of the Army, upon the application of the Chief of Engineers, is authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury for such sums as may be necessary to do such work, not to exceed in the aggregate for each year the sum of $25,000.
 
-(Aug. 11, 1888, ch. 860, §§ 1, 7, 25 Stat. 420, 421, 424; Mar. 2, 1907, ch. 2509, § 1, 34 Stat. 1102; Mar. 3, 1909, ch. 264, § 3, 35 Stat. 817; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967.)
+(Aug. 11, 1888, ch. 860, §§ 1, 7, 25 Stat. 420, 421, 424; Mar. 2, 1907, ch. 2509, § 1, 34 Stat. 1102; Mar. 3, 1909, ch. 264, § 3, 35 Stat. 817; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967.)
 
 **Editorial Notes**
 
@@ -2303,9 +2303,9 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Appropriations**
 
-Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Operating snag and dredge boats on upper Mississippi, Illinois, and Minnesota Rivers (fiscal year) (8–962.60)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Operating snag and dredge boats on upper Mississippi, Illinois, and Minnesota Rivers (fiscal year) (8–962.60)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
-### § 605a. Mississippi River forecasting improvements
+### § 605a. Mississippi River forecasting improvements
 
 **(1) In general** The Secretary, in consultation with the Secretary of the department in which the Coast Guard is operating, the Director of the United States Geological Survey, the Administrator of the National Oceanic and Atmospheric Administration, and the Director of the National Weather Service, as applicable, shall improve forecasting on the Mississippi River by—
 
@@ -2329,7 +2329,7 @@ In carrying out this section, the Secretary shall prioritize the sections of the
 
 Not later than 1 year after June 10, 2014, the Secretary shall submit to Congress and make publicly available a report on the activities carried out by the Secretary under this section.
 
-(Pub. L. 113–121, title IV, § 4002(a), June 10, 2014, 128 Stat. 1308.)
+(Pub. L. 113–121, title IV, § 4002(a), June 10, 2014, 128 Stat. 1308.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2337,11 +2337,11 @@ Not later than 1 year after June 10, 2014, the Secretary shall submit to Congres
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of this title.
 
-### § 606. Removal of snags, and so forth, from Ohio River
+### § 606. Removal of snags, and so forth, from Ohio River
 
 For the purpose of securing the uninterrupted work of operating snag boats on the Ohio River and removing snags, wrecks, and other obstructions in said river, the Secretary of the Army, upon the application of the Chief of Engineers, is authorized to draw his warrant or requisition from time to time upon the Secretary of the Treasury for such sums as may be necessary to do such work, not to exceed in the aggregate for each year the sum of $50,000.
 
-(Sept. 19, 1890, ch. 907, § 13, 26 Stat. 455; June 3, 1896, ch. 314, § 3, 29 Stat. 234; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967.)
+(Sept. 19, 1890, ch. 907, § 13, 26 Stat. 455; June 3, 1896, ch. 314, § 3, 29 Stat. 234; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Aug. 30, 1954, ch. 1076, § 1(15), 68 Stat. 967.)
 
 **Editorial Notes**
 
@@ -2363,13 +2363,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Appropriations**
 
-Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Operating snag boats on the Ohio River (fiscal year) (8–962.51)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+Act June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title “Operating snag boats on the Ohio River (fiscal year) (8–962.51)” effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 
-### § 607. Removal of drift from New York Harbor
+### § 607. Removal of drift from New York Harbor
 
 So much as may be necessary of any appropriations made for specific portions of New York Harbor and its immediate tributaries may be allotted by the Secretary of the Army for the maintenance of these waterways by the collection and removal of drift.
 
-(Aug. 8, 1917, ch. 49, § 1, 40 Stat. 252; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 8, 1917, ch. 49, § 1, 40 Stat. 252; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -2383,11 +2383,11 @@ Section is from act Aug. 8, 1917, the Rivers and Harbors Appropriation Act of 19
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 607a. Appropriations; separate project
+### § 607a. Appropriations; separate project
 
 On and after July 3, 1930, direct allotments from appropriations for maintenance and improvement of existing river and harbor works or other available appropriation may be made by the Secretary of the Army for the collection and removal of drift in New York Harbor and its tributary waters, and this work on and after July 3, 1930, shall be carried as a separate and distinct project.
 
-(July 3, 1930, ch. 847, § 6, 46 Stat. 947; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(July 3, 1930, ch. 847, § 6, 46 Stat. 947; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2395,11 +2395,11 @@ On and after July 3, 1930, direct allotments from appropriations for maintenance
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 608. Construction of fishways
+### § 608. Construction of fishways
 
 Whenever river and harbor improvements shall be found to operate (whether by lock and dam or otherwise), as obstructions to the passage of fish, the Secretary of the Army may, in his discretion, direct and cause to be constructed practical and sufficient fishways, to be paid for out of the general appropriations for the streams on which such fishways may be constructed.
 
-(Aug. 11, 1888, ch. 860, § 11, 25 Stat. 425; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 11, 1888, ch. 860, § 11, 25 Stat. 425; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -2413,11 +2413,11 @@ Section is from act Aug. 11, 1888, the Rivers and Harbors Appropriation Act of 1
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 609. Sluices and other work in dams for development of water power
+### § 609. Sluices and other work in dams for development of water power
 
 In order to make possible the economical future development of water power, the Secretary of the Army, upon recommendation of the Chief of Engineers, is authorized, in his discretion, to provide in the permanent parts of any dam authorized at any time by Congress for the improvement of navigation such foundations, sluices, and other works, as may be considered desirable for the future development of its water power.
 
-(July 25, 1912, ch. 253, § 12, 37 Stat. 233; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(July 25, 1912, ch. 253, § 12, 37 Stat. 233; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -2431,7 +2431,7 @@ Section is from act July 25, 1912, the Rivers and Harbors Appropriation Act of 1
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 610. Control of aquatic plant growths and invasive species
+### § 610. Control of aquatic plant growths and invasive species
 
 **(a) In general**
 
@@ -2627,7 +2627,7 @@ The authority provided under this paragraph shall terminate on September 30, 202
 
 The Federal share of an action carried out under a partnership under paragraph (2) or an activity carried out under the pilot program under paragraph (3) shall not exceed 80 percent of the total cost of the action or activity.
 
-(Pub. L. 85–500, title I, § 104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, § 302, Oct. 27, 1965, 79 Stat. 1092; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, § 941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, § 225, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, § 205, Aug. 17, 1999, 113 Stat. 285; Pub. L. 113–121, title I, § 1039(d), June 10, 2014, 128 Stat. 1238; Pub. L. 114–322, title I, § 1178(b), Dec. 16, 2016, 130 Stat. 1674; Pub. L. 115–270, title I, § 1170, Oct. 23, 2018, 132 Stat. 3798; Pub. L. 116–260, div. AA, title V, § 505, Dec. 27, 2020, 134 Stat. 2746; Pub. L. 117–263, div. H, title LXXXI, § 8305(b), Dec. 23, 2022, 136 Stat. 3778; Pub. L. 118–272, div. A, title I, § 1144, title III, §§ 1303(j), 1361, Jan. 4, 2025, 138 Stat. 3035, 3115, 3163.)
+(Pub. L. 85–500, title I, § 104, July 3, 1958, 72 Stat. 300; Pub. L. 89–298, title III, § 302, Oct. 27, 1965, 79 Stat. 1092; Pub. L. 98–63, title I, July 30, 1983, 97 Stat. 313; Pub. L. 99–662, title IX, § 941, Nov. 17, 1986, 100 Stat. 4199; Pub. L. 104–303, title II, § 225, Oct. 12, 1996, 110 Stat. 3697; Pub. L. 106–53, title II, § 205, Aug. 17, 1999, 113 Stat. 285; Pub. L. 113–121, title I, § 1039(d), June 10, 2014, 128 Stat. 1238; Pub. L. 114–322, title I, § 1178(b), Dec. 16, 2016, 130 Stat. 1674; Pub. L. 115–270, title I, § 1170, Oct. 23, 2018, 132 Stat. 3798; Pub. L. 116–260, div. AA, title V, § 505, Dec. 27, 2020, 134 Stat. 2746; Pub. L. 117–263, div. H, title LXXXI, § 8305(b), Dec. 23, 2022, 136 Stat. 3778; Pub. L. 118–272, div. A, title I, § 1144, title III, §§ 1303(j), 1361, Jan. 4, 2025, 138 Stat. 3035, 3115, 3163.)
 
 **Editorial Notes**
 
@@ -2637,77 +2637,77 @@ Executive Order 13112, referred to in subsecs. (f)(1) and (g)(1), is set out as 
 
 **Amendments**
 
-2025—Subsec. (b)(2)(A)(i). Pub. L. 118–272, § 1303(j)(1), substituted “each of fiscal years 2025 through 2029” for “each of fiscal years 2021 through 2024”.
+2025—Subsec. (b)(2)(A)(i). Pub. L. 118–272, § 1303(j)(1), substituted “each of fiscal years 2025 through 2029” for “each of fiscal years 2021 through 2024”.
 
-Subsec. (b)(2)(A)(ii). Pub. L. 118–272, § 1303(j)(2), substituted “2029” for “2028”.
+Subsec. (b)(2)(A)(ii). Pub. L. 118–272, § 1303(j)(2), substituted “2029” for “2028”.
 
-Subsec. (d)(2)(A). Pub. L. 118–272, § 1361, substituted “35 percent” for “50 percent”.
+Subsec. (d)(2)(A). Pub. L. 118–272, § 1361, substituted “35 percent” for “50 percent”.
 
-Subsec. (e)(3). Pub. L. 118–272, § 1144(1), inserted “, and monitoring and contingency planning for,” after “early detection of”.
+Subsec. (e)(3). Pub. L. 118–272, § 1144(1), inserted “, and monitoring and contingency planning for,” after “early detection of”.
 
-Subsec. (g)(2)(A). Pub. L. 118–272, § 1144(2), inserted “the Connecticut River Basin,” after “the Ohio River Basin,”.
+Subsec. (g)(2)(A). Pub. L. 118–272, § 1144(2), inserted “the Connecticut River Basin,” after “the Ohio River Basin,”.
 
-2022—Subsec. (b)(2)(A)(ii). Pub. L. 117–263, § 8305(b)(1), substituted “$75,000,000” for “$50,000,000” and “2028” for “2024”.
+2022—Subsec. (b)(2)(A)(ii). Pub. L. 117–263, § 8305(b)(1), substituted “$75,000,000” for “$50,000,000” and “2028” for “2024”.
 
-Subsec. (f)(4). Pub. L. 117–263, § 8305(b)(2), substituted “2028” for “2024”.
+Subsec. (f)(4). Pub. L. 117–263, § 8305(b)(2), substituted “2028” for “2024”.
 
-Subsec. (g)(2)(A). Pub. L. 117–263, § 8305(b)(3)(A)(i), substituted “water quantity, water quality, or ecosystems” for “water quantity or water quality” and inserted “the Lake Erie Basin, the Ohio River Basin,” after “the Upper Snake River Basin,”.
+Subsec. (g)(2)(A). Pub. L. 117–263, § 8305(b)(3)(A)(i), substituted “water quantity, water quality, or ecosystems” for “water quantity or water quality” and inserted “the Lake Erie Basin, the Ohio River Basin,” after “the Upper Snake River Basin,”.
 
-Subsec. (g)(2)(B). Pub. L. 117–263, § 8305(b)(3)(A)(ii), inserted “, hydrilla (*Hydrilla verticillata*),” after “(*Elaeagnus angustifolia*)”.
+Subsec. (g)(2)(B). Pub. L. 117–263, § 8305(b)(3)(A)(ii), inserted “, hydrilla (*Hydrilla verticillata*),” after “(*Elaeagnus angustifolia*)”.
 
-Subsec. (g)(3)(D). Pub. L. 117–263, § 8305(b)(3)(B), substituted “2028” for “2024”.
+Subsec. (g)(3)(D). Pub. L. 117–263, § 8305(b)(3)(B), substituted “2028” for “2024”.
 
-2020—Subsec. (b)(1). Pub. L. 116–260, § 505(1)(A)(i), substituted “this section (except for subsections (f) and (g)) $130,000,000” for “this section $110,000,000” in introductory provisions.
+2020—Subsec. (b)(1). Pub. L. 116–260, § 505(1)(A)(i), substituted “this section (except for subsections (f) and (g)) $130,000,000” for “this section $110,000,000” in introductory provisions.
 
-Subsec. (b)(1)(D), (E). Pub. L. 116–260, § 505(1)(A)(ii)–(iv), added subpars. (D) and (E).
+Subsec. (b)(1)(D), (E). Pub. L. 116–260, § 505(1)(A)(ii)–(iv), added subpars. (D) and (E).
 
-Subsec. (b)(2). Pub. L. 116–260, § 505(1)(C), added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 116–260, § 505(1)(C), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 116–260, § 505(1)(B), (D), redesignated par. (2) as (3) and inserted “or (2)(A)” after “paragraph (1)”.
+Subsec. (b)(3). Pub. L. 116–260, § 505(1)(B), (D), redesignated par. (2) as (3) and inserted “or (2)(A)” after “paragraph (1)”.
 
-Subsec. (d). Pub. L. 116–260, § 505(2)(A), inserted “and Decontamination” after “inspection” in heading.
+Subsec. (d). Pub. L. 116–260, § 505(2)(A), inserted “and Decontamination” after “inspection” in heading.
 
-Subsec. (d)(1)(A). Pub. L. 116–260, § 505(2)(B)(i)(I), (D), inserted “and decontamination” after “inspection” in heading and substituted “watercraft inspection and decontamination stations” for “watercraft inspection stations” in introductory provisions.
+Subsec. (d)(1)(A). Pub. L. 116–260, § 505(2)(B)(i)(I), (D), inserted “and decontamination” after “inspection” in heading and substituted “watercraft inspection and decontamination stations” for “watercraft inspection stations” in introductory provisions.
 
-Subsec. (d)(1)(A)(iii). Pub. L. 116–260, § 505(2)(B)(i)(III), substituted “Arkansas River Basins;” for “Arizona River Basins.”
+Subsec. (d)(1)(A)(iii). Pub. L. 116–260, § 505(2)(B)(i)(III), substituted “Arkansas River Basins;” for “Arizona River Basins.”
 
-Subsec. (d)(1)(A)(iv), (v). Pub. L. 116–260, § 505(2)(B)(i)(II), (IV), added cls. (iv) and (v).
+Subsec. (d)(1)(A)(iv), (v). Pub. L. 116–260, § 505(2)(B)(i)(II), (IV), added cls. (iv) and (v).
 
-Subsec. (d)(1)(B). Pub. L. 116–260, § 505(2)(B)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The Secretary shall establish watercraft inspection stations under subparagraph (A) at locations with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary, as determined by the Secretary in consultation with States within the areas described in subparagraph (A).”
+Subsec. (d)(1)(B). Pub. L. 116–260, § 505(2)(B)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The Secretary shall establish watercraft inspection stations under subparagraph (A) at locations with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary, as determined by the Secretary in consultation with States within the areas described in subparagraph (A).”
 
-Subsec. (d)(2). Pub. L. 116–260, § 505(2)(D), substituted “watercraft inspection and decontamination stations” for “watercraft inspection stations” in introductory provisions.
+Subsec. (d)(2). Pub. L. 116–260, § 505(2)(D), substituted “watercraft inspection and decontamination stations” for “watercraft inspection stations” in introductory provisions.
 
-Subsec. (d)(3)(A). Pub. L. 116–260, § 505(2)(C), substituted “(v)” for “(iii)” in introductory provisions.
+Subsec. (d)(3)(A). Pub. L. 116–260, § 505(2)(C), substituted “(v)” for “(iii)” in introductory provisions.
 
-Subsecs. (f), (g). Pub. L. 116–260, § 505(3), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 116–260, § 505(3), added subsecs. (f) and (g).
 
-2018—Subsec. (b). Pub. L. 115–270, § 1170(1), amended subec. (b) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such amounts, not in excess of $40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually, as may be necessary to carry out the provisions of this section. Any such funds employed for control operations shall be allocated by the Chief of Engineers on a priority basis, based upon the urgency and need of each area, and the availability of local funds.”
+2018—Subsec. (b). Pub. L. 115–270, § 1170(1), amended subec. (b) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated such amounts, not in excess of $40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually, as may be necessary to carry out the provisions of this section. Any such funds employed for control operations shall be allocated by the Chief of Engineers on a priority basis, based upon the urgency and need of each area, and the availability of local funds.”
 
-Subsec. (d)(1). Pub. L. 115–270, § 1170(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “In carrying out this section, the Secretary may establish, operate, and maintain new or existing watercraft inspection stations to protect the Columbia River Basin to be located in the States of Idaho, Montana, Oregon, and Washington at locations, as determined by the Secretary in consultation with such States, with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary. The Secretary shall also assist the States referred to in this paragraph with rapid response to any aquatic invasive species, including quagga or zebra mussel, infestation.”
+Subsec. (d)(1). Pub. L. 115–270, § 1170(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “In carrying out this section, the Secretary may establish, operate, and maintain new or existing watercraft inspection stations to protect the Columbia River Basin to be located in the States of Idaho, Montana, Oregon, and Washington at locations, as determined by the Secretary in consultation with such States, with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary. The Secretary shall also assist the States referred to in this paragraph with rapid response to any aquatic invasive species, including quagga or zebra mussel, infestation.”
 
-Subsec. (d)(3)(A). Pub. L. 115–270, § 1170(2)(B), amended subpar. (A) generally. Prior to amendment, text read as follows: “the Governors of the States described in paragraph (1);”.
+Subsec. (d)(3)(A). Pub. L. 115–270, § 1170(2)(B), amended subpar. (A) generally. Prior to amendment, text read as follows: “the Governors of the States described in paragraph (1);”.
 
-2016—Subsec. (d)(1). Pub. L. 114–322, § 1178(b)(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “In carrying out this section, the Secretary may establish watercraft inspection stations in the Columbia River Basin to be located in the States of Idaho, Montana, Oregon, and Washington at locations, as determined by the Secretary, with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary.”
+2016—Subsec. (d)(1). Pub. L. 114–322, § 1178(b)(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “In carrying out this section, the Secretary may establish watercraft inspection stations in the Columbia River Basin to be located in the States of Idaho, Montana, Oregon, and Washington at locations, as determined by the Secretary, with the highest likelihood of preventing the spread of aquatic invasive species at reservoirs operated and maintained by the Secretary.”
 
-Subsec. (d)(3)(A). Pub. L. 114–322, § 1178(b)(1)(B), inserted “Governors of the” before “States”.
+Subsec. (d)(3)(A). Pub. L. 114–322, § 1178(b)(1)(B), inserted “Governors of the” before “States”.
 
-Subsec. (e)(3). Pub. L. 114–322, § 1178(b)(2), added par. (3) and struck out former par. (3) which read as follows: “establish watershed-wide plans for expedited response to an infestation of aquatic invasive species; and”.
+Subsec. (e)(3). Pub. L. 114–322, § 1178(b)(2), added par. (3) and struck out former par. (3) which read as follows: “establish watershed-wide plans for expedited response to an infestation of aquatic invasive species; and”.
 
-2014—Subsec. (a). Pub. L. 113–121, § 1039(d)(1)(A)–(C), designated first, second, and third sentences as pars. (1) to (3), respectively, and inserted headings.
+2014—Subsec. (a). Pub. L. 113–121, § 1039(d)(1)(A)–(C), designated first, second, and third sentences as pars. (1) to (3), respectively, and inserted headings.
 
-Subsec. (a)(1). Pub. L. 113–121, § 1039(d)(1)(D)(ii), inserted “and aquatic invasive species” after “noxious aquatic plant growths”.
+Subsec. (a)(1). Pub. L. 113–121, § 1039(d)(1)(D)(ii), inserted “and aquatic invasive species” after “noxious aquatic plant growths”.
 
-Pub. L. 113–121, § 1039(d)(1)(D)(i), which directed substitution of “prevention, control, and progressive” for “control and progressive,”, was executed by making the substitution for “control and progressive” to reflect the probable intent of Congress.
+Pub. L. 113–121, § 1039(d)(1)(D)(i), which directed substitution of “prevention, control, and progressive” for “control and progressive,”, was executed by making the substitution for “control and progressive” to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 113–121, § 1039(d)(2), substituted “$40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually” for “$15,000,000 annually”.
+Subsec. (b). Pub. L. 113–121, § 1039(d)(2), substituted “$40,000,000, of which $20,000,000 shall be made available to implement subsection (d), annually” for “$15,000,000 annually”.
 
-Subsecs. (d), (e). Pub. L. 113–121, § 1039(d)(3), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 113–121, § 1039(d)(3), added subsecs. (d) and (e).
 
-1999—Subsec. (a). Pub. L. 106–53, § 205(1), substituted “noxious aquatic plant growths from” for “water-hyacinth, alligatorweed, Eurasian water milfoil, melaleuca, and other obnoxious aquatic plant growths, from” in first sentence.
+1999—Subsec. (a). Pub. L. 106–53, § 205(1), substituted “noxious aquatic plant growths from” for “water-hyacinth, alligatorweed, Eurasian water milfoil, melaleuca, and other obnoxious aquatic plant growths, from” in first sentence.
 
-Subsec. (b). Pub. L. 106–53, § 205(2), substituted “$15,000,000” for “$12,000,000” in first sentence.
+Subsec. (b). Pub. L. 106–53, § 205(2), substituted “$15,000,000” for “$12,000,000” in first sentence.
 
-Subsec. (c). Pub. L. 106–53, § 205(3), added subsec. (c).
+Subsec. (c). Pub. L. 106–53, § 205(3), added subsec. (c).
 
 1996—Subsec. (a). Pub. L. 104–303 inserted “melaleuca,” after “milfoil,”.
 
@@ -2723,7 +2723,7 @@ Subsec. (b). Pub. L. 89–298 designated part of existing provisions as subsec. 
 
 **Harmful Algal Bloom Demonstration Program**
 
-Pub. L. 116–260, div. AA, title I, § 128, Dec. 27, 2020, 134 Stat. 2642, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8305(c), Dec. 23, 2022, 136 Stat. 3778; Pub. L. 118–272, div. A, title I, § 1134, Jan. 4, 2025, 138 Stat. 3024, provided that:
+Pub. L. 116–260, div. AA, title I, § 128, Dec. 27, 2020, 134 Stat. 2642, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8305(c), Dec. 23, 2022, 136 Stat. 3778; Pub. L. 118–272, div. A, title I, § 1134, Jan. 4, 2025, 138 Stat. 3024, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] shall carry out a demonstration program to determine the causes of, and implement measures to effectively detect, prevent, treat, and eliminate, harmful algal blooms associated with water resources development projects or affecting water bodies of regional, national, or international importance in the United States or its territories.
 
@@ -2787,7 +2787,7 @@ Pub. L. 116–260, div. AA, title I, § 128, Dec. 27, 2020, 134 Stat. 2642, as
 
 **Update on Invasive Species Policy Guidance**
 
-Pub. L. 116–260, div. AA, title V, § 501, Dec. 27, 2020, 134 Stat. 2744, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8305(d), Dec. 23, 2022, 136 Stat. 3779, provided that:
+Pub. L. 116–260, div. AA, title V, § 501, Dec. 27, 2020, 134 Stat. 2744, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8305(d), Dec. 23, 2022, 136 Stat. 3779, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] shall periodically update the Invasive Species Policy Guidance, developed under section 104 of the River and Harbor Act of 1958 (33 U.S.C. 610) and the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 (16 U.S.C. 4701 et seq.), in accordance with the most recent National Invasive Species Council Management Plan developed pursuant to Executive Order 13112 [42 U.S.C. 4321 note].
 
@@ -2801,7 +2801,7 @@ Pub. L. 116–260, div. AA, title V, § 501, Dec. 27, 2020, 134 Stat. 2744, as
 
 **Terrestrial Noxious Weed Control Pilot Program**
 
-Pub. L. 116–260, div. AA, title V, § 503, Dec. 27, 2020, 134 Stat. 2745, provided that:
+Pub. L. 116–260, div. AA, title V, § 503, Dec. 27, 2020, 134 Stat. 2745, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army] shall carry out a pilot program, in consultation with the Federal Interagency Committee for the Management of Noxious and Exotic Weeds, to identify and develop new and improved strategies for terrestrial noxious weed control on Federal land under the jurisdiction of the Secretary.
 
@@ -2813,7 +2813,7 @@ Pub. L. 116–260, div. AA, title V, § 503, Dec. 27, 2020, 134 Stat. 2745, pr
 
 **Asian Carp Prevention and Control Pilot Program**
 
-Pub. L. 116–260, div. AA, title V, § 509(a), Dec. 27, 2020, 134 Stat. 2750, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8391, Dec. 23, 2022, 136 Stat. 3832; Pub. L. 118–272, div. A, title III, § 1303(f), Jan. 4, 2025, 138 Stat. 3114, provided that:
+Pub. L. 116–260, div. AA, title V, § 509(a), Dec. 27, 2020, 134 Stat. 2750, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8391, Dec. 23, 2022, 136 Stat. 3832; Pub. L. 118–272, div. A, title III, § 1303(f), Jan. 4, 2025, 138 Stat. 3114, provided that:
 
 > **“(a) Corps of Engineers Asian Carp Prevention Pilot Program.—**
 
@@ -2855,7 +2855,7 @@ Pub. L. 116–260, div. AA, title V, § 509(a), Dec. 27, 2020, 134 Stat. 2750,
 
 **Harmful Algal Bloom Technology Demonstration**
 
-Pub. L. 115–270, title I, § 1109, Oct. 23, 2018, 132 Stat. 3774, provided that:
+Pub. L. 115–270, title I, § 1109, Oct. 23, 2018, 132 Stat. 3774, provided that:
 
 > **“(a) In General.—** The Secretary [of the Army], acting through the Engineer Research and Development Center, shall implement a 5-year harmful algal bloom technology development demonstration program under the Aquatic Nuisance Research Program. To the extent practicable, the Secretary shall support research that will identify and develop improved strategies for early detection, prevention, and management techniques and procedures to reduce the occurrence and effects of harmful algal blooms in the Nation’s water resources.
 
@@ -2863,11 +2863,11 @@ Pub. L. 115–270, title I, § 1109, Oct. 23, 2018, 132 Stat. 3774, provided t
 
 ## SUBCHAPTER V—PROSECUTION OF WORK GENERALLY
 
-### § 621. By what methods river and harbor work may be authorized to be prosecuted
+### § 621. By what methods river and harbor work may be authorized to be prosecuted
 
 Any public work on canals, rivers, and harbors adopted by Congress may be prosecuted by direct appropriations, by continuing contracts, or by both direct appropriations and continuing contracts.
 
-(Sept. 22, 1922, ch. 427, § 10, 42 Stat. 1043.)
+(Sept. 22, 1922, ch. 427, § 10, 42 Stat. 1043.)
 
 **Editorial Notes**
 
@@ -2875,7 +2875,7 @@ Any public work on canals, rivers, and harbors adopted by Congress may be prosec
 
 Section is from the Rivers and Harbors Appropriation Act of 1922.
 
-### § 622. Contracts, etc., with private industry for implementation of projects for improvements and dredging; reduction of federally owned fleet
+### § 622. Contracts, etc., with private industry for implementation of projects for improvements and dredging; reduction of federally owned fleet
 
 **(a) Contracts for dredging and related work**
 
@@ -2931,7 +2931,7 @@ In carrying out the program under this section, the Secretary shall not reduce t
 
 The Secretary may enter into a contract for the maintenance and crewing of any Federal hopper dredge retained in a ready reserve status. The capital costs (including depreciation costs) of any dredge retained in such status shall be paid for out of funds made available from the Harbor Maintenance Trust Fund and shall not be charged against the Corps of Engineers’ Revolving Fund Account or any individual project cost unless the dredge is specifically used in connection with that project.
 
-(Aug. 11, 1888, ch. 860, § 3, 25 Stat. 423; July 25, 1912, ch. 253, § 1, 37 Stat. 222; Mar. 2, 1919, ch. 95, § 3, 40 Stat. 1287; Pub. L. 95–269, § 1, Apr. 26, 1978, 92 Stat. 218; Pub. L. 104–303, title II, § 237, Oct. 12, 1996, 110 Stat. 3705; Pub. L. 110–114, title II, § 2047(b), Nov. 8, 2007, 121 Stat. 1106.)
+(Aug. 11, 1888, ch. 860, § 3, 25 Stat. 423; July 25, 1912, ch. 253, § 1, 37 Stat. 222; Mar. 2, 1919, ch. 95, § 3, 40 Stat. 1287; Pub. L. 95–269, § 1, Apr. 26, 1978, 92 Stat. 218; Pub. L. 104–303, title II, § 237, Oct. 12, 1996, 110 Stat. 3705; Pub. L. 110–114, title II, § 2047(b), Nov. 8, 2007, 121 Stat. 1106.)
 
 **Editorial Notes**
 
@@ -2945,7 +2945,7 @@ Prior to the general amendment by Pub. L. 95–269, this section was a composite
 
 The first sentence was from a part of section 3 of Act of Aug. 11, 1888, the Rivers and Harbors Appropriation Act of 1888. The remainder of section 3 was classified to section 623 of this title.
 
-The second sentence, which provided that all improvement works authorized by contract may, in the discretion of the Secretary of War [now Army], be carried on by contract or otherwise, as may be most economical or advantageous to the United States, was from section 1 of the Act of July 25, 1912, the Rivers and Harbors Appropriation Act of 1912. Previous similar provisions were contained in Acts Mar. 2, 1907, ch. 2509, § 1, 34 Stat. 1110; Feb. 27, 1911, ch. 166, § 1, 36 Stat. 952.
+The second sentence, which provided that all improvement works authorized by contract may, in the discretion of the Secretary of War [now Army], be carried on by contract or otherwise, as may be most economical or advantageous to the United States, was from section 1 of the Act of July 25, 1912, the Rivers and Harbors Appropriation Act of 1912. Previous similar provisions were contained in Acts Mar. 2, 1907, ch. 2509, § 1, 34 Stat. 1110; Feb. 27, 1911, ch. 166, § 1, 36 Stat. 952.
 
 The third sentence, which provided that in all cases where the project for a work of river or harbor improvement provides for the construction or use of Government dredging plant, the Secretary of War [now Army] may, in his discretion, have the work done by contract if reasonable prices can be obtained, was from section 3 of the Act of Mar. 2, 1919, the Rivers and Harbors Appropriation Act of 1919, which superseded a somewhat similar provision in section 3 of the Act of Aug. 8, 1917, ch. 49, 40 Stat. 261. Section 1 of the 1917 Act, 40 Stat. 255, provided in part that “the work proposed under the project adopted by the river and harbor Act approved July twenty-fifth, nineteen hundred and twelve, may be done by contract if reasonable prices can be obtained”.
 
@@ -2957,11 +2957,11 @@ The third sentence, which provided that in all cases where the project for a wor
 
 1978—Pub. L. 95–269 designated existing provision as subsec. (a), substituted provisions relating to authority of Secretary of the Army, acting through the Chief of Engineers, to implement improvement projects by contract or otherwise and dredging and related work by contract with private industry, for provisions relating to authority of the Secretary of the Army to apply moneys appropriated for improvements by contract or otherwise and for construction or use of a Government dredging plant by contract, and added subsec. (b).
 
-### § 623. Repealed. Oct. 31, 1951, ch. 654, § 1(57), 65 Stat. 703
+### § 623. Repealed. Oct. 31, 1951, ch. 654, § 1(57), 65 Stat. 703
 
-Section, act Aug. 11, 1888, ch. 860, § 3, 25 Stat. 423, related to letting of contracts to lowest responsible bidder.
+Section, act Aug. 11, 1888, ch. 860, § 3, 25 Stat. 423, related to letting of contracts to lowest responsible bidder.
 
-### § 624. Limitation on improvement work by private contract
+### § 624. Limitation on improvement work by private contract
 
 **(a) Determinations respecting comparison of private contract price with estimation of cost of performance of work by Government plant or by well-equipped contractor** No works of river and harbor improvement shall be done by private contract—
 
@@ -2977,7 +2977,7 @@ In estimating the comparable cost of doing the work under subsection (a)(1) by G
 
 In determining a fair and reasonable estimated cost of doing work by private contract under subsection (a)(2), the Secretary of the Army, acting through the Chief of Engineers, shall, in addition to the cost of labor and materials, take into account proper charges for depreciation of plant, all expenses for supervision, overhead, workmen’s compensation, general liability insurance, taxes (State and local), interest on capital invested in plant, and such other expenses and charges the Secretary of the Army, acting through the Chief of Engineers, determines to be appropriate.
 
-(Mar. 2, 1919, ch. 95, § 8, 40 Stat. 1290; Pub. L. 95–269, § 2, Apr. 26, 1978, 92 Stat. 219.)
+(Mar. 2, 1919, ch. 95, § 8, 40 Stat. 1290; Pub. L. 95–269, § 2, Apr. 26, 1978, 92 Stat. 219.)
 
 **Editorial Notes**
 
@@ -2993,21 +2993,21 @@ Section is from the Rivers and Harbors Appropriation Act of 1919.
 
 **Compensation for Increased Costs**
 
-Provision for payment to contractors to compensate for loss occasioned by increased cost of materials during the war with Germany was made by section 10 of act Mar. 2, 1919, and act June 5, 1920, ch. 252, § 5, 41 Stat. 1014.
+Provision for payment to contractors to compensate for loss occasioned by increased cost of materials during the war with Germany was made by section 10 of act Mar. 2, 1919, and act June 5, 1920, ch. 252, § 5, 41 Stat. 1014.
 
 **Repeal of Limitation on Costs**
 
-A provision for limitation on the costs of projects made by section 1 of act Mar. 2, 1919, was repealed by act June 5, 1920, ch. 252, § 3, 41 Stat. 1013.
+A provision for limitation on the costs of projects made by section 1 of act Mar. 2, 1919, was repealed by act June 5, 1920, ch. 252, § 3, 41 Stat. 1013.
 
-### § 625. Repealed. Oct. 31, 1951, ch. 654, § 1(58), 65 Stat. 703
+### § 625. Repealed. Oct. 31, 1951, ch. 654, § 1(58), 65 Stat. 703
 
-Section, acts Sept. 19, 1890, ch. 907, § 2, 26 Stat. 452; July 25, 1912, ch. 253, § 8, 37 Stat. 233, related to combining several projects in one contract.
+Section, acts Sept. 19, 1890, ch. 907, § 2, 26 Stat. 452; July 25, 1912, ch. 253, § 8, 37 Stat. 233, related to combining several projects in one contract.
 
-### § 626. Prosecution of work when appropriation in­sufficient
+### § 626. Prosecution of work when appropriation in­sufficient
 
 Whenever the appropriations made, or authorized to be made, for the completion of any river and harbor work shall prove insufficient therefor, the Secretary of the Army may, in his discretion, on the recommendation of the Chief of Engineers, apply the funds so appropriated or authorized to the prosecution of such work.
 
-(July 25, 1912, ch. 253, § 8, 37 Stat. 233; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(July 25, 1912, ch. 253, § 8, 37 Stat. 233; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -3023,13 +3023,13 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Similar Provisions**
 
-A similar provision was contained in act Mar. 2, 1907, ch. 2509, § 1, 34 Stat. 1073.
+A similar provision was contained in act Mar. 2, 1907, ch. 2509, § 1, 34 Stat. 1073.
 
-### § 627. Application of appropriation when separate works are included therein
+### § 627. Application of appropriation when separate works are included therein
 
 Where separate works or items are consolidated in River and Harbor Acts and an aggregate amount is appropriated therefor, any balances remaining to the credit of the separate works or items may be transferred to the credit of the corresponding aggregate amounts appropriated for the consolidated items, and the amounts appropriated or transferred shall, unless otherwise expressed, be expended in securing maintenance and improvement according to the respective projects adopted by Congress, after giving due regard to the respective needs of traffic. The allotments to the respective works consolidated shall be made by the Secretary of the Army upon recommendations by the Chief of Engineers. In case such works or items are consolidated and separate amounts are given with each project, the amounts so named shall be expended upon such separate projects unless, in the discretion of the Secretary of the Army, another allotment or division should be made of the same. Any balances remaining to the credit of the consolidated items shall be carried to the credit of the respective aggregate amounts appropriated for the consolidated items.
 
-(Mar. 4, 1915, ch. 142, § 3, 38 Stat. 1052; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 4, 1915, ch. 142, § 3, 38 Stat. 1052; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -3039,7 +3039,7 @@ Section is from the Rivers and Harbors Appropriation Act of 1915.
 
 **Prior Provisions**
 
-Section 3 of act Mar. 4, 1915, superseded act Mar. 4, 1913, ch. 144, § 7, 37 Stat. 827, which read as follows:
+Section 3 of act Mar. 4, 1915, superseded act Mar. 4, 1913, ch. 144, § 7, 37 Stat. 827, which read as follows:
 
 > “Where separate works or items are consolidated in this or subsequent river and harbor Acts and an aggregate amount is appropriated therefor the amounts appropriated shall, unless otherwise expressed, be expended in securing maintenance and improvement according to the respective projects adopted by Congress, after giving due regard to the respective needs of traffic. The allotments to the respective works consolidated shall be made by the Secretary of War upon recommendations by the Chief of Engineers. In case such works or items are consolidated and separate amounts are given with each project, the amounts so named shall be expended upon such separate projects unless, in the discretion of the Secretary of War, another allotment or division should be made of the same. Any balances remaining to the credit of the consolidated items shall be carried to the credit of the respective aggregate amounts appropriated for the consolidated items.”
 
@@ -3051,15 +3051,15 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Similar Provisions**
 
-The Rivers and Harbors Appropriation Act, Mar. 2, 1919, ch. 95, § 2, 40 Stat. 1287, contained the following provision: “Where separate works or items are consolidated herein and an aggregate amount is appropriated therefor, the amount so appropriated shall, unless otherwise expressed, be expended in securing the maintenance and improvement according to the respective projects adopted by Congress after giving due regard to the respective needs of traffic. The allotments to the respective works so consolidated shall be made by the Chief of Engineers as authorized by the Secretary of War. In case such works or items are consolidated and separate amounts are given to individual projects the amounts so named shall be expended upon such separate projects. Any balances remaining to the credit of the consolidated items shall be carried to the credit of the respective aggregate amounts appropriated for the consolidated items.”
+The Rivers and Harbors Appropriation Act, Mar. 2, 1919, ch. 95, § 2, 40 Stat. 1287, contained the following provision: “Where separate works or items are consolidated herein and an aggregate amount is appropriated therefor, the amount so appropriated shall, unless otherwise expressed, be expended in securing the maintenance and improvement according to the respective projects adopted by Congress after giving due regard to the respective needs of traffic. The allotments to the respective works so consolidated shall be made by the Chief of Engineers as authorized by the Secretary of War. In case such works or items are consolidated and separate amounts are given to individual projects the amounts so named shall be expended upon such separate projects. Any balances remaining to the credit of the consolidated items shall be carried to the credit of the respective aggregate amounts appropriated for the consolidated items.”
 
-Similar provisions were contained in act July 18, 1918, ch. 155, § 2, 40 Stat. 910.
+Similar provisions were contained in act July 18, 1918, ch. 155, § 2, 40 Stat. 910.
 
-### § 628. Expenditure for dredging within harbor lines
+### § 628. Expenditure for dredging within harbor lines
 
 No money appropriated for the improvement of rivers and harbors shall be expended for dredging inside of harbor lines duly established.
 
-(July 13, 1892, ch. 158, § 5, 27 Stat. 111.)
+(July 13, 1892, ch. 158, § 5, 27 Stat. 111.)
 
 **Editorial Notes**
 
@@ -3067,11 +3067,11 @@ No money appropriated for the improvement of rivers and harbors shall be expende
 
 Section is from the Rivers and Harbors Appropriation Act of 1892.
 
-### § 629. Contract for hire of dredging plant
+### § 629. Contract for hire of dredging plant
 
 Whenever it shall become, in the opinion of the Secretary of the Army, necessary or desirable to hire a dredging plant or plants for the performance of any of the public work carried on under his direction the said Secretary may, in his discretion, agree for the same, either in the manner customary on March 2, 1907, or on the basis of an equitable reimbursement for deterioration of plant when in use by the Government, and a reasonable percentage of the total cost of the work.
 
-(Mar. 2, 1907, ch. 2509, § 5, 34 Stat. 1119; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Mar. 2, 1907, ch. 2509, § 5, 34 Stat. 1119; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -3079,7 +3079,7 @@ Whenever it shall become, in the opinion of the Secretary of the Army, necessary
 
 Section is from the Rivers and Harbors Appropriation Act of 1907.
 
-The part of the original text omitted here repealed act Apr. 28, 1904, ch. 1761, § 4, 33 Stat. 452.
+The part of the original text omitted here repealed act Apr. 28, 1904, ch. 1761, § 4, 33 Stat. 452.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3087,11 +3087,11 @@ The part of the original text omitted here repealed act Apr. 28, 1904, ch. 1761,
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 630. Limitation on expenditure for purchase of dredges
+### § 630. Limitation on expenditure for purchase of dredges
 
 No money authorized to be expended for the acquirement of any dredge or dredges shall be so expended for the purchase of any dredge or dredges from private contractors, which at the time of the proposed purchase can be manufactured at any navy yard or other government-owned factory for a sum less than it can be purchased for from such private contractor.
 
-(Sept. 22, 1922, ch. 427, § 5, 42 Stat. 1042.)
+(Sept. 22, 1922, ch. 427, § 5, 42 Stat. 1042.)
 
 **Editorial Notes**
 
@@ -3101,11 +3101,11 @@ Section is from part of section 5 of the Rivers and Harbors Appropriation Act fo
 
 The omitted portion of that section authorized the construction of six seagoing hopper dredges and limited the cost of each to $750,000.
 
-### § 631. Transfer of property between projects
+### § 631. Transfer of property between projects
 
 The Secretary of the Army may direct a temporary transfer of any property employed in the improvement of rivers and harbors whenever, in his judgment, such transfer would secure efficient or economical results, and such adjustment in the way of charges and credits shall be made between the projects affected as may be equitable.
 
-(June 13, 1902, ch. 1079, § 5, 32 Stat. 373; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 13, 1902, ch. 1079, § 5, 32 Stat. 373; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -3121,19 +3121,19 @@ The omitted part of that section is set out as section 558 of this title.
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-### § 632. Omitted
+### § 632. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 25, 1910, ch. 382, § 5, 36 Stat. 676, provided that the requirements of R.S. § 3744, section 16 of former Title 41, Public Contracts, should not apply to the lease of certain property or hire of vessels for use in connection with river and harbor improvements where the period of the lease or hire did not exceed three months. R.S. § 3744, which required contracts by the Secretaries of War, Navy, and Interior to be in writing and filed in the returns office of the Interior Department, was repealed by act Oct. 21, 1941, ch. 452, 55 Stat. 743.
+Section, act June 25, 1910, ch. 382, § 5, 36 Stat. 676, provided that the requirements of R.S. § 3744, section 16 of former Title 41, Public Contracts, should not apply to the lease of certain property or hire of vessels for use in connection with river and harbor improvements where the period of the lease or hire did not exceed three months. R.S. § 3744, which required contracts by the Secretaries of War, Navy, and Interior to be in writing and filed in the returns office of the Interior Department, was repealed by act Oct. 21, 1941, ch. 452, 55 Stat. 743.
 
-### § 633. Protection, alteration, reconstruction, relocation, or replacement of structures and facilities; contract standards; reasonable costs
+### § 633. Protection, alteration, reconstruction, relocation, or replacement of structures and facilities; contract standards; reasonable costs
 
 Whenever, during the construction or reconstruction of any navigation, flood control, or related water development project under the direction of the Secretary of the Army, the Chief of Engineers determines that any structure or facility owned by an agency of government and utilized in the performance of a governmental function should be protected, altered, reconstructed, relocated, or replaced to meet the requirements of navigation or flood control, or both; or to preserve the safety or integrity of such facility when its safety or usefulness is determined by the Chief of Engineers to be adversely affected or threatened by the project, the Chief of Engineers may, if he deems such action to be in the public interest, enter into a contract providing for (1) the payment from appropriations made for the construction or maintenance of such project, of the reasonable cost of replacing, relocating, or reconstructing such facility to such standard as he deems reasonable but not to exceed the minimum standard of the State or political subdivision for the same type of facility involved, except that if the existing facility exceeds the minimum standard of the State or political subdivision, the Chief of Engineers may provide a facility of comparable standard, or (2) the payment of a lump sum representing the estimated reasonable cost thereof. This section shall not be construed as modifying any existing or future requirement of local cooperation, or as indicating a policy that local interests shall not hereafter be required to assume costs of modifying such facilities. The provisions of this section may be applied to projects hereafter authorized and to those heretofore authorized but not completed as of July 3, 1958, and notwithstanding the navigation servitude vested in the United States, they may be applied to such structures or facilities occupying the beds of navigable waters of the United States.
 
-(Pub. L. 85–500, title I, § 111, July 3, 1958, 72 Stat. 303; Pub. L. 89–298, title III, § 309, Oct. 27, 1965, 79 Stat. 1094.)
+(Pub. L. 85–500, title I, § 111, July 3, 1958, 72 Stat. 303; Pub. L. 89–298, title III, § 309, Oct. 27, 1965, 79 Stat. 1094.)
 
 **Editorial Notes**
 
@@ -3141,11 +3141,11 @@ Whenever, during the construction or reconstruction of any navigation, flood con
 
 1965—Pub. L. 89–298 provided for payment of the reasonable cost of replacing, relocating, or reconstructing the facility to a reasonable standard, not exceeding minimum standard of State or political subdivision for same type of facility involved, except that if the existing facility exceeds the minimum standard of the State or political subdivision, the Chief of Engineers may provide a facility of comparable standard, in provision designated as clause (1), eliminated former provision for payment of reasonable actual cost of the remedial work, and designated existing provisions as clause (2).
 
-### § 634. Assistance relating to water supply
+### § 634. Assistance relating to water supply
 
 The Secretary may provide assistance to municipalities the water supply of which is adversely affected by construction carried out by the Corps of Engineers.
 
-(Pub. L. 115–270, title I, § 1114, Oct. 23, 2018, 132 Stat. 3776.)
+(Pub. L. 115–270, title I, § 1114, Oct. 23, 2018, 132 Stat. 3776.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3153,11 +3153,11 @@ The Secretary may provide assistance to municipalities the water supply of which
 
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under section 2201 of this title.
 
-### § 635. Coast Guard anchorages
+### § 635. Coast Guard anchorages
 
 The Secretary may perform dredging at Federal expense within and adjacent to anchorages established by the Coast Guard pursuant to existing authorities.
 
-(Pub. L. 116–260, div. AA, title I, § 106, Dec. 27, 2020, 134 Stat. 2623.)
+(Pub. L. 116–260, div. AA, title I, § 106, Dec. 27, 2020, 134 Stat. 2623.)
 
 **Statutory Notes and Related Subsidiaries**
 

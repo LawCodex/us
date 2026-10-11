@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—DEFINITIONS, ORGANIZATION, AND GENERAL PROVISIONS AFFECTING SYSTEM
 
-### § 221. Definitions
+### § 221. Definitions
 
 Wherever the word “bank” is used in this chapter, the word shall be held to include State bank, banking association, and trust company, except where national banks or Federal reserve banks are specifically referred to. For purposes of this chapter, a State bank includes any bank which is operating under the Code of Law for the District of Columbia.
 
@@ -25,7 +25,7 @@ The terms “national bank” and “national banking association” used in thi
 
 The terms “bonds and notes of the United States”, “bonds and notes of the Government of the United States”, and “bonds or notes of the United States” used in this chapter shall be held to include certificates of indebtedness and Treasury bills issued under section 3104 of title 31.
 
-(Dec. 23, 1913, ch. 6, § 1 (pars.), 38 Stat. 251; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 86–70, § 8(a), June 25, 1959, 73 Stat. 142; Pub. L. 97–258, § 2(c), Sept. 13, 1982, 96 Stat. 1058; Pub. L. 109–351, title VII, § 725(a)(1), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, § 123(a)(1), Oct. 16, 2006, 120 Stat. 2028.)
+(Dec. 23, 1913, ch. 6, § 1 (pars.), 38 Stat. 251; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 86–70, § 8(a), June 25, 1959, 73 Stat. 142; Pub. L. 97–258, § 2(c), Sept. 13, 1982, 96 Stat. 1058; Pub. L. 109–351, title VII, § 725(a)(1), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, § 123(a)(1), Oct. 16, 2006, 120 Stat. 2028.)
 
 **Editorial Notes**
 
@@ -41,7 +41,7 @@ This section is comprised of the second to fourth pars. of section 1 of act Dec.
 
 2006—Pub. L. 109–351 and 109–356 amended section identically, inserting “For purposes of this chapter, a State bank includes any bank which is operating under the Code of Law for the District of Columbia.” at end of first par.
 
-1982—Pub. L. 97–258 inserted provisions defining “bonds and notes of the United States”, “bonds and notes of the Government of the United States”, and “bonds or notes of the United States”. These provisions are based on acts Sept. 24, 1917, ch. 56, § 5(c), 40 Stat. 290; Apr. 4, 1918, ch. 44, § 4, 40 Stat. 504; Mar. 3, 1919, ch. 100, § 3, 40 Stat. 1311; restated June 17, 1929, ch. 26, 46 Stat. 20 (former 31 U.S.C. 754(c)).
+1982—Pub. L. 97–258 inserted provisions defining “bonds and notes of the United States”, “bonds and notes of the Government of the United States”, and “bonds or notes of the United States”. These provisions are based on acts Sept. 24, 1917, ch. 56, § 5(c), 40 Stat. 290; Apr. 4, 1918, ch. 44, § 4, 40 Stat. 504; Mar. 3, 1919, ch. 100, § 3, 40 Stat. 1311; restated June 17, 1929, ch. 26, 46 Stat. 20 (former 31 U.S.C. 754(c)).
 
 1959—Pub. L. 86–70 inserted definition of “the continental United States”.
 
@@ -51,7 +51,7 @@ This section is comprised of the second to fourth pars. of section 1 of act Dec.
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 221a. Additional definitions
+### § 221a. Additional definitions
 
 As used in this chapter—
 
@@ -67,7 +67,7 @@ As used in this chapter—
 
 **(4)** Which owns or controls, directly or indirectly, either a majority of the shares of capital stock of a member bank or more than 50 per centum of the number of shares voted for the election of directors of a member bank at the preceding election, or controls in any manner the election of a majority of the directors of a member bank, or for the benefit of whose shareholders or members all or substantially all the capital stock of a member bank is held by trustees.
 
-(June 16, 1933, ch. 89, § 2, 48 Stat. 162; Aug. 23, 1935, ch. 614, title III, § 301, 49 Stat. 707; Pub. L. 89–485, § 13(a), (b), July 1, 1966, 80 Stat. 242.)
+(June 16, 1933, ch. 89, § 2, 48 Stat. 162; Aug. 23, 1935, ch. 614, title III, § 301, 49 Stat. 707; Pub. L. 89–485, § 13(a), (b), July 1, 1966, 80 Stat. 242.)
 
 **Editorial Notes**
 
@@ -77,21 +77,21 @@ As used in this chapter, referred to in text, was in the original “As used in 
 
 **Amendments**
 
-1966—Subsec. (b)(4). Pub. L. 89–485, § 13(a), added par. (4) which incorporates definitions of “holding company affiliate” contained in cls. (1) and (2) of former subsec. (c) of this section, and substituted “a member bank” for “any one bank” in first two places.
+1966—Subsec. (b)(4). Pub. L. 89–485, § 13(a), added par. (4) which incorporates definitions of “holding company affiliate” contained in cls. (1) and (2) of former subsec. (c) of this section, and substituted “a member bank” for “any one bank” in first two places.
 
-Subsec. (c). Pub. L. 89–485, § 13(b), repealed definition of “holding company affiliate”, cls. (1) and (2) thereof now being incorporated in the subsec. (b)(4) definition of “affiliate”, substituting “a member bank” for “any one bank” in first two places and the par. excluding therefrom any corporations stock of which is fully owned by the United States and any organization determined by the Board of Governors of the Federal Reserve System not to be engaged, directly or indirectly, as a business in holding the stock of, or managing or controlling, banks, banking associations, savings banks, or trust companies.
+Subsec. (c). Pub. L. 89–485, § 13(b), repealed definition of “holding company affiliate”, cls. (1) and (2) thereof now being incorporated in the subsec. (b)(4) definition of “affiliate”, substituting “a member bank” for “any one bank” in first two places and the par. excluding therefrom any corporations stock of which is fully owned by the United States and any organization determined by the Board of Governors of the Federal Reserve System not to be engaged, directly or indirectly, as a business in holding the stock of, or managing or controlling, banks, banking associations, savings banks, or trust companies.
 
 1935—Subsec. (c). Act Aug. 23, 1935, added last par.
 
-### § 222. Federal reserve districts; membership of national banks
+### § 222. Federal reserve districts; membership of national banks
 
-The continental United States, excluding Alaska, shall be divided into not less than eight nor more than twelve districts. Such districts may be readjusted and new districts may from time to time be created by the Board of Governors of the Federal Reserve System, not to exceed twelve in all: *Provided*, That the districts shall be apportioned with due regard to the convenience and customary course of business and shall not necessarily be coterminous with any State or States. Such districts shall be known as Federal reserve districts and may be designated by number. When the State of Alaska or Hawaii is hereafter admitted to the Union the Federal Reserve 1
+The continental United States, excluding Alaska, shall be divided into not less than eight nor more than twelve districts. Such districts may be readjusted and new districts may from time to time be created by the Board of Governors of the Federal Reserve System, not to exceed twelve in all: *Provided*, That the districts shall be apportioned with due regard to the convenience and customary course of business and shall not necessarily be coterminous with any State or States. Such districts shall be known as Federal reserve districts and may be designated by number. When the State of Alaska or Hawaii is hereafter admitted to the Union the Federal Reserve 1
 
-<sup>1</sup>  Capitalized as in original.
+<sup>1</sup> Capitalized as in original.
 
 districts shall be readjusted by the Board of Governors of the Federal Reserve System in such manner as to include such State. Every national bank in any State shall, upon commencing business or within ninety days after admission into the Union of the State in which it is located, become a member bank of the Federal Reserve System by subscribing and paying for stock in the Federal Reserve bank of its district in accordance with the provisions of this chapter and shall thereupon be an insured bank under the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.], and failure to do so shall subject such bank to the penalty provided by section 501a of this title.
 
-(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 251; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 85–508, § 19, July 7, 1958, 72 Stat. 350; Pub. L. 86–3, § 17, Mar. 18, 1959, 73 Stat. 12.)
+(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 251; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 85–508, § 19, July 7, 1958, 72 Stat. 350; Pub. L. 86–3, § 17, Mar. 18, 1959, 73 Stat. 12.)
 
 **Editorial Notes**
 
@@ -99,7 +99,7 @@ districts shall be readjusted by the Board of Governors of the Federal Reserve S
 
 This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Codification**
 
@@ -143,11 +143,11 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. C16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. C74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
 
-### § 223. Number of Federal reserve cities in district
+### § 223. Number of Federal reserve cities in district
 
 A Federal reserve district shall contain only one Federal reserve city.
 
-(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 251.)
+(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 251.)
 
 **Editorial Notes**
 
@@ -155,11 +155,11 @@ A Federal reserve district shall contain only one Federal reserve city.
 
 Section is based on part of the first par. of section 2 of act Dec. 23, 1913. Some of the other provisions of the first par. are classified to section 222 of this title, and some were not included in the Code. For classification of other pars. of section 2 of this Act, see Codification note under section 222 of this title.
 
-### § 224. Status of reserve cities under former statutes
+### § 224. Status of reserve cities under former statutes
 
 The organization of reserve districts and Federal reserve cities shall not be construed as changing the present status of reserve cities except in so far as this chapter changes the amount of reserves that may be carried with approved reserve agents located therein.
 
-(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 253; Pub. L. 86–114, § 3(b)(5), July 28, 1959, 73 Stat. 264.)
+(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 253; Pub. L. 86–114, § 3(b)(5), July 28, 1959, 73 Stat. 264.)
 
 **Editorial Notes**
 
@@ -173,7 +173,7 @@ Section is comprised of part of the thirteenth par. of section 2 of act Dec. 23,
 
 **Prior Provisions**
 
-Provisions relating to reserve cities and central reserve cities were contained in R.S. §§ 5191, 5192, and act Mar. 3, 1887, ch. 378, §§ 1, 2, 24 Stat. 559, 560.
+Provisions relating to reserve cities and central reserve cities were contained in R.S. §§ 5191, 5192, and act Mar. 3, 1887, ch. 378, §§ 1, 2, 24 Stat. 559, 560.
 
 **Amendments**
 
@@ -185,11 +185,11 @@ Provisions relating to reserve cities and central reserve cities were contained 
 
 Amendment by Pub. L. 86–114 effective three years after July 28, 1959, see section 3(b) of Pub. L. 86–114, set out as a Central Reserve and Reserve Cities note under former section 141 of this title.
 
-### § 225. Federal reserve banks; title
+### § 225. Federal reserve banks; title
 
 A Federal reserve bank shall include in its title the name of the city in which it is situated, as “Federal Reserve Bank of Chicago.”
 
-(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 252.)
+(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 252.)
 
 **Editorial Notes**
 
@@ -197,11 +197,11 @@ A Federal reserve bank shall include in its title the name of the city in which 
 
 Section is based on part of the second par. of section 2 of act Dec. 23, 1913. The rest of the second par. was not included in the Code. For classification of other pars. of section 2 of this Act, see Codification note set out under section 222 of this title.
 
-### § 225a. Maintenance of long run growth of monetary and credit aggregates
+### § 225a. Maintenance of long run growth of monetary and credit aggregates
 
 The Board of Governors of the Federal Reserve System and the Federal Open Market Committee shall maintain long run growth of the monetary and credit aggregates commensurate with the economy’s long run potential to increase production, so as to promote effectively the goals of maximum employment, stable prices, and moderate long-term interest rates.
 
-(Dec. 23, 1913, ch. 6, § 2A, as added Pub. L. 95–188, title II, § 202, Nov. 16, 1977, 91 Stat. 1387; amended Pub. L. 95–523, title I, § 108(a), Oct. 27, 1978, 92 Stat. 1897; Pub. L. 100–418, title III, § 3005(c), Aug. 23, 1988, 102 Stat. 1375; Pub. L. 106–569, title X, § 1003(a), Dec. 27, 2000, 114 Stat. 3028.)
+(Dec. 23, 1913, ch. 6, § 2A, as added Pub. L. 95–188, title II, § 202, Nov. 16, 1977, 91 Stat. 1387; amended Pub. L. 95–523, title I, § 108(a), Oct. 27, 1978, 92 Stat. 1897; Pub. L. 100–418, title III, § 3005(c), Aug. 23, 1988, 102 Stat. 1375; Pub. L. 106–569, title X, § 1003(a), Dec. 27, 2000, 114 Stat. 3028.)
 
 **Editorial Notes**
 
@@ -213,7 +213,7 @@ Another section 202 of Pub. L. 95–188 amended section 302 of this title.
 
 2000—Pub. L. 106–569 struck out provisions after first sentence relating to annual reports to Congress, transmittal of reports to Congressional Committees, consultations with Committees, report of Committee, changing conditions affecting achievement of objectives and plans, and explanation for deviations from objectives and plans.
 
-1988—Pub. L. 100–418 inserted “, including an analysis of the impact of the exchange rate of the dollar on those trends” after “the Nation” in cl. (1).
+1988—Pub. L. 100–418 inserted “, including an analysis of the impact of the exchange rate of the dollar on those trends” after “the Nation” in cl. (1).
 
 1978—Pub. L. 95–523 substituted provisions relating to independent written reports of the Board of Governors to the Congress for provisions relating to the consultations of the Board of Governors with Congress at semi-annual hearings, substituted “the objectives and plans with respect to the ranges” for “such ranges”, inserted “of the monetary and credit aggregates disclosed in the reports submitted under this section” after “growth or diminution”, and inserted proviso respecting the inclusion of an explanation of reasons for revisions or deviations in subsequent consultations and reports.
 
@@ -221,9 +221,9 @@ Another section 202 of Pub. L. 95–188 amended section 302 of this title.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–523, title I, § 108(b), Oct. 27, 1978, 92 Stat. 1898, provided that: “The amendment made by subsection (a) [amending this section] takes effect on January 1, 1979.”
+Pub. L. 95–523, title I, § 108(b), Oct. 27, 1978, 92 Stat. 1898, provided that: “The amendment made by subsection (a) [amending this section] takes effect on January 1, 1979.”
 
-### § 225b. Appearances before and reports to the Congress
+### § 225b. Appearances before and reports to the Congress
 
 **(a) Appearances before the Congress**
 
@@ -255,7 +255,7 @@ The Board shall, concurrent with each semi-annual hearing required by this secti
 
 **(4)** such other information as the Board reasonably believes is necessary or helpful to the public in understanding the accounting, financial reporting, and internal controls of the Board and the Federal reserve banks.
 
-(Dec. 23, 1913, ch. 6, § 2B, as added Pub. L. 106–569, title X, § 1003(b)(1), Dec. 27, 2000, 114 Stat. 3028; amended Pub. L. 111–203, title XI, § 1103(a), July 21, 2010, 124 Stat. 2118.)
+(Dec. 23, 1913, ch. 6, § 2B, as added Pub. L. 106–569, title X, § 1003(b)(1), Dec. 27, 2000, 114 Stat. 3028; amended Pub. L. 111–203, title XI, § 1103(a), July 21, 2010, 124 Stat. 2118.)
 
 **Editorial Notes**
 
@@ -273,17 +273,17 @@ Committee on Banking and Financial Services of House of Representatives abolishe
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of this title.
 
-### § 226. “Federal Reserve Act”
+### § 226. “Federal Reserve Act”
 
 The short title of the Act of December 23, 1913, ch. 6, 38 Stat. 251, shall be the “Federal Reserve Act.”
 
-(Dec. 23, 1913, ch. 6, § 1 (par.), 38 Stat. 251.)
+(Dec. 23, 1913, ch. 6, § 1 (par.), 38 Stat. 251.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Act of December 23, 1913, ch. 6, referred to in text, is classified to this section, sections 1, 35, 59, 90, 92, 141, 142, 221, 222 to 225b, 241 to 246, 247 to 247b, 248, 248–1, 248a to 248c, 253, 261 to 263, 281 to 290, 301 to 308, 321 to 336, 338 to 339a, 341 to 352, 353 to 361, 371 to 371b, 371b–2 to 376, 391, 392, 393, 411 to 416, 418 to 421, 441 to 448, 461, 462, 462b to 467, 481 to 486, 501a to 506, 521, 522, 531, 601 to 604a, and 611 to 633 of this title and as a provision set out as a note under this section. Subsecs. (a)–(c) and (h)–(k) of section 22 of the Act, which were classified to former sections 593 to 599 of this title, were repealed and restated in sections 217 to 220, 433, 655, 656, 1005, 1014, 1906, and 1909 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, §§ 1, 21, 62 Stat. 683, 862, the first section of which enacted Title 18. Sections 217 to 220 of Title 18 were subsequently renumbered sections 212 to 215 of Title 18, respectively, by Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125. Sections 212 and 213 of Title 18, as renumbered by Pub. L. 87–849, were subsequently repealed by Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899. For complete classification of this Act to the Code, see Tables.
+The Act of December 23, 1913, ch. 6, referred to in text, is classified to this section, sections 1, 35, 59, 90, 92, 141, 142, 221, 222 to 225b, 241 to 246, 247 to 247b, 248, 248–1, 248a to 248c, 253, 261 to 263, 281 to 290, 301 to 308, 321 to 336, 338 to 339a, 341 to 352, 353 to 361, 371 to 371b, 371b–2 to 376, 391, 392, 393, 411 to 416, 418 to 421, 441 to 448, 461, 462, 462b to 467, 481 to 486, 501a to 506, 521, 522, 531, 601 to 604a, and 611 to 633 of this title and as a provision set out as a note under this section. Subsecs. (a)–(c) and (h)–(k) of section 22 of the Act, which were classified to former sections 593 to 599 of this title, were repealed and restated in sections 217 to 220, 433, 655, 656, 1005, 1014, 1906, and 1909 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, §§ 1, 21, 62 Stat. 683, 862, the first section of which enacted Title 18. Sections 217 to 220 of Title 18 were subsequently renumbered sections 212 to 215 of Title 18, respectively, by Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125. Sections 212 and 213 of Title 18, as renumbered by Pub. L. 87–849, were subsequently repealed by Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
@@ -293,43 +293,43 @@ This section is comprised of the first par. of section 1 of act Dec. 23, 1913. T
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title II, § 2001(a), Sept. 30, 1996, 110 Stat. 3009–394, provided that: “This title [see Tables for classification] may be cited as the ‘Economic Growth and Regulatory Paperwork Reduction Act of 1996’.”
+Pub. L. 104–208, div. A, title II, § 2001(a), Sept. 30, 1996, 110 Stat. 3009–394, provided that: “This title [see Tables for classification] may be cited as the ‘Economic Growth and Regulatory Paperwork Reduction Act of 1996’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–491, § 1, Oct. 24, 1992, 106 Stat. 3144, provided that: “This Act [amending section 522 of this title] may be cited as the ‘Federal Reserve Bank Branch Modernization Act’.”
+Pub. L. 102–491, § 1, Oct. 24, 1992, 106 Stat. 3144, provided that: “This Act [amending section 522 of this title] may be cited as the ‘Federal Reserve Bank Branch Modernization Act’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–86, § 1(a), Aug. 10, 1987, 101 Stat. 552, provided that: “This Act [enacting sections 371c–1, 1439–1, 1441, 1442a, 1467, 1467a, 1730h, 1730i, 1772b, 1772c, 3806, and 4001 to 4010 of this title and section 3334 of Title 31, Money and Finance, amending sections 24, 248a, 481, 619, 1430, 1436, 1464, 1467, 1725 to 1727, 1729 to 1730a, 1730h, 1757, 1761a, 1761b, 1764, 1766, 1767, 1785 to 1788, 1813, 1817, 1821, 1823, 1828, 1831d, 1832, 1841 to 1843, 1846, 1849, and 3106 of this title, sections 905 and 906 of Title 2, The Congress, sections 45, 46, and 57a of Title 15, Commerce and Trade, and sections 3328, 3702, 3712, 9101, and 9105 of Title 31, providing for future repeal of sections 1442a, 1467a, and 1730i of this title, enacting provisions set out as notes under sections 226, 248a, 619, 1437, 1441, 1464, 1467, 1467a, 1730, 1730a, 1751, 1811, 1841, and 4001 of this title and section 3328 of Title 31, and amending provisions set out as a note under section 1729 of this title] may be cited as the ‘Competitive Equality Banking Act of 1987’.”
+Pub. L. 100–86, § 1(a), Aug. 10, 1987, 101 Stat. 552, provided that: “This Act [enacting sections 371c–1, 1439–1, 1441, 1442a, 1467, 1467a, 1730h, 1730i, 1772b, 1772c, 3806, and 4001 to 4010 of this title and section 3334 of Title 31, Money and Finance, amending sections 24, 248a, 481, 619, 1430, 1436, 1464, 1467, 1725 to 1727, 1729 to 1730a, 1730h, 1757, 1761a, 1761b, 1764, 1766, 1767, 1785 to 1788, 1813, 1817, 1821, 1823, 1828, 1831d, 1832, 1841 to 1843, 1846, 1849, and 3106 of this title, sections 905 and 906 of Title 2, The Congress, sections 45, 46, and 57a of Title 15, Commerce and Trade, and sections 3328, 3702, 3712, 9101, and 9105 of Title 31, providing for future repeal of sections 1442a, 1467a, and 1730i of this title, enacting provisions set out as notes under sections 226, 248a, 619, 1437, 1441, 1464, 1467, 1467a, 1730, 1730a, 1751, 1811, 1841, and 4001 of this title and section 3328 of Title 31, and amending provisions set out as a note under section 1729 of this title] may be cited as the ‘Competitive Equality Banking Act of 1987’.”
 
-Pub. L. 100–86, title I, § 100, Aug. 10, 1987, 101 Stat. 554, provided that: “This title [enacting section 371c–1 of this title, amending sections 24, 619, 1430, 1730, 1730a, 1813, 1828, 1831d, 1832, 1841 to 1843, and 1846 of this title, and enacting provisions set out as notes under sections 226, 619, 1730a, and 1841 of this title] may be cited as the ‘Competitive Equality Amendments of 1987’.”
+Pub. L. 100–86, title I, § 100, Aug. 10, 1987, 101 Stat. 554, provided that: “This title [enacting section 371c–1 of this title, amending sections 24, 619, 1430, 1730, 1730a, 1813, 1828, 1831d, 1832, 1841 to 1843, and 1846 of this title, and enacting provisions set out as notes under sections 226, 619, 1730a, and 1841 of this title] may be cited as the ‘Competitive Equality Amendments of 1987’.”
 
-Pub. L. 100–86, title III, § 301, Aug. 10, 1987, 101 Stat. 585, provided that: “This title [enacting section 1441 of this title, amending sections 1430, 1436, 1725, 1727, and 1730 of this title and section 9101 of Title 31, Money and Finance, and enacting provisions set out as a note under section 1730 of this title] may be cited as the ‘Federal Savings and Loan Insurance Corporation Recapitalization Act of 1987’.”
+Pub. L. 100–86, title III, § 301, Aug. 10, 1987, 101 Stat. 585, provided that: “This title [enacting section 1441 of this title, amending sections 1430, 1436, 1725, 1727, and 1730 of this title and section 9101 of Title 31, Money and Finance, and enacting provisions set out as a note under section 1730 of this title] may be cited as the ‘Federal Savings and Loan Insurance Corporation Recapitalization Act of 1987’.”
 
-Pub. L. 100–86, title IV, § 401, Aug. 10, 1987, 101 Stat. 604, provided that: “This title [enacting sections 1442a, 1467, 1467a, 1730h, and 1730i of this title, amending sections 1464, 1467, 1729 to 1730a, and 1730h of this title, and section 9105 of Title 31, Money and Finance, providing for future repeal of sections 1442a, 1467a, and 1730i of this title, and enacting provisions set out as notes under sections 1437, 1441, 1467, and 1467a of this title] may be cited as the ‘Thrift Industry Recovery Act’.”
+Pub. L. 100–86, title IV, § 401, Aug. 10, 1987, 101 Stat. 604, provided that: “This title [enacting sections 1442a, 1467, 1467a, 1730h, and 1730i of this title, amending sections 1464, 1467, 1729 to 1730a, and 1730h of this title, and section 9105 of Title 31, Money and Finance, providing for future repeal of sections 1442a, 1467a, and 1730i of this title, and enacting provisions set out as notes under sections 1437, 1441, 1467, and 1467a of this title] may be cited as the ‘Thrift Industry Recovery Act’.”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–320, § 1, Oct. 15, 1982, 96 Stat. 1469, provided that: “This Act [enacting sections 216 to 216d, 1701j–3, 1795j, 1866, 1867, 3208, and 3801 to 3805 of this title and section 1099 of Title 20, Education, amending sections 22, 24, 27, 29, 30, 84, 93, 94, 95, 371, 371c, 375a, 375b, 461, 484, 504, 505, 1425a, 1426, 1428a, 1430, 1431, 1436, 1437, 1462, 1464, 1718, 1719, 1725, 1726, 1727, 1728, 1729, 1730, 1730a, 1752, 1752a, 1753, 1755, 1757, 1760, 1761, 1761a, 1761b, 1761c, 1763, 1764, 1766, 1770, 1771, 1782, 1783, 1785, 1786, 1795f, 1813, 1814, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1831c, 1832, 1841, 1842, 1843, 1847, 1861, 1862, 1863, 1864, 1865, 1972, 3106, 3204, 3305, 3412, 3414, and 3503 of this title, section 109 of Title 11, Bankruptcy, sections 1602 and 1603 of Title 15, Commerce and Trade, and sections 8103 and 8105 of Title 42, The Public Health and Welfare, repealing section 82 of this title and provisions set out as a note under section 461 of this title, enacting provisions set out as notes under this section, sections 84, 371, 371c, 1461, 1464, 1811, 1817, 1823, 3503, and 3801 of this title, and sections 1602 and 1603 of Title 15, and amending provisions set out as notes under sections 92 and 191 of this title] may be cited as the ‘Garn-St Germain Depository Institutions Act of 1982’.”
+Pub. L. 97–320, § 1, Oct. 15, 1982, 96 Stat. 1469, provided that: “This Act [enacting sections 216 to 216d, 1701j–3, 1795j, 1866, 1867, 3208, and 3801 to 3805 of this title and section 1099 of Title 20, Education, amending sections 22, 24, 27, 29, 30, 84, 93, 94, 95, 371, 371c, 375a, 375b, 461, 484, 504, 505, 1425a, 1426, 1428a, 1430, 1431, 1436, 1437, 1462, 1464, 1718, 1719, 1725, 1726, 1727, 1728, 1729, 1730, 1730a, 1752, 1752a, 1753, 1755, 1757, 1760, 1761, 1761a, 1761b, 1761c, 1763, 1764, 1766, 1770, 1771, 1782, 1783, 1785, 1786, 1795f, 1813, 1814, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1831c, 1832, 1841, 1842, 1843, 1847, 1861, 1862, 1863, 1864, 1865, 1972, 3106, 3204, 3305, 3412, 3414, and 3503 of this title, section 109 of Title 11, Bankruptcy, sections 1602 and 1603 of Title 15, Commerce and Trade, and sections 8103 and 8105 of Title 42, The Public Health and Welfare, repealing section 82 of this title and provisions set out as a note under section 461 of this title, enacting provisions set out as notes under this section, sections 84, 371, 371c, 1461, 1464, 1811, 1817, 1823, 3503, and 3801 of this title, and sections 1602 and 1603 of Title 15, and amending provisions set out as notes under sections 92 and 191 of this title] may be cited as the ‘Garn-St Germain Depository Institutions Act of 1982’.”
 
-Pub. L. 97–320, title IV, § 410(a), Oct. 15, 1982, 96 Stat. 1515, provided that: “This section [amending sections 371c, 375b, 1820, 1828 and 1972 of this title, and enacting provisions set out as a note under section 371c of this title] may be cited as the ‘Banking Affiliates Act of 1982’.”
+Pub. L. 97–320, title IV, § 410(a), Oct. 15, 1982, 96 Stat. 1515, provided that: “This section [amending sections 371c, 375b, 1820, 1828 and 1972 of this title, and enacting provisions set out as a note under section 371c of this title] may be cited as the ‘Banking Affiliates Act of 1982’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–221, § 1, Mar. 31, 1980, 94 Stat. 132, provided that: “This Act [enacting sections 4a, 86a, 93a, 248a, 1730g, 1735f–7a, 1831d, and 3501 to 3524 of this title, and section 1646 of Title 15, Commerce and Trade, amending sections 24, 27, 29, 51b, 51b–1, 72, 85, 92, 95, 214a, 248, 342, 347b, 355, 360, 371a, 412, 461, 463, 481, 1425a, 1425b, 1431, 1464, 1724, 1726, 1728, 1752, 1757, 1763, 1785, 1787, 1795, to 1795i, 1813, 1817, 1821, 1828, 1832, 1842, and 1843 of this title, and sections 57a, 687, 1602 to 1607, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of Title 15, repealing sections 86a, 371b–1, 1730e, and 1831a of this title, and sections 1614, 1636, and 1639 of Title 15, enacting provisions set out as notes under this section, sections 27, 85, 86a, 191, 248, 355, 371a, 1425a, 1724, 1730g, 1735f–7, 1735f–7a, 1787, 1813, 1817, 3101, 3501, and 3521 of this title, and sections 1601, 1602, and 1607 of Title 15, and repealing provisions set out as notes under sections 85, 86a, 371b–1, and 1831a of this title] may be cited as the ‘Depository Institutions Deregulation and Monetary Control Act of 1980’.”
+Pub. L. 96–221, § 1, Mar. 31, 1980, 94 Stat. 132, provided that: “This Act [enacting sections 4a, 86a, 93a, 248a, 1730g, 1735f–7a, 1831d, and 3501 to 3524 of this title, and section 1646 of Title 15, Commerce and Trade, amending sections 24, 27, 29, 51b, 51b–1, 72, 85, 92, 95, 214a, 248, 342, 347b, 355, 360, 371a, 412, 461, 463, 481, 1425a, 1425b, 1431, 1464, 1724, 1726, 1728, 1752, 1757, 1763, 1785, 1787, 1795, to 1795i, 1813, 1817, 1821, 1828, 1832, 1842, and 1843 of this title, and sections 57a, 687, 1602 to 1607, 1610, 1612, 1613, 1631, 1632, 1635, 1637, 1638, 1640, 1641, 1643, 1663, 1664, 1665a, 1666, 1666d, 1667d, and 1691f of Title 15, repealing sections 86a, 371b–1, 1730e, and 1831a of this title, and sections 1614, 1636, and 1639 of Title 15, enacting provisions set out as notes under this section, sections 27, 85, 86a, 191, 248, 355, 371a, 1425a, 1724, 1730g, 1735f–7, 1735f–7a, 1787, 1813, 1817, 3101, 3501, and 3521 of this title, and sections 1601, 1602, and 1607 of Title 15, and repealing provisions set out as notes under sections 85, 86a, 371b–1, and 1831a of this title] may be cited as the ‘Depository Institutions Deregulation and Monetary Control Act of 1980’.”
 
-Pub. L. 96–221, title I, § 101, Mar. 31, 1980, 94 Stat. 132, provided that: “This title [enacting section 248a of this title, amending sections 248, 342, 347b, 355, 360, 412, 461, 463, and 1425a of this title and enacting provisions set out as notes under sections 248 and 355 of this title] may be cited as the ‘Monetary Control Act of 1980’.”
+Pub. L. 96–221, title I, § 101, Mar. 31, 1980, 94 Stat. 132, provided that: “This title [enacting section 248a of this title, amending sections 248, 342, 347b, 355, 360, 412, 461, 463, and 1425a of this title and enacting provisions set out as notes under sections 248 and 355 of this title] may be cited as the ‘Monetary Control Act of 1980’.”
 
-Pub. L. 96–221, title III, § 301, Mar. 31, 1980, 94 Stat. 145, provided that: “This title [amending sections 371a, 1431, 1464, 1724, 1728, 1752, 1757, 1763, 1785, 1787, 1795 to 1795i, 1813, 1817, 1821, 1828, and 1832 of this title and enacting provisions set out as notes under sections 371a, 1724, 1787, 1813, and 1817 of this title] may be cited as the ‘Consumer Checking Account Equity Act of 1980’.”
+Pub. L. 96–221, title III, § 301, Mar. 31, 1980, 94 Stat. 145, provided that: “This title [amending sections 371a, 1431, 1464, 1724, 1728, 1752, 1757, 1763, 1785, 1787, 1795 to 1795i, 1813, 1817, 1821, 1828, and 1832 of this title and enacting provisions set out as notes under sections 371a, 1724, 1787, 1813, and 1817 of this title] may be cited as the ‘Consumer Checking Account Equity Act of 1980’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–630, § 1, Nov. 10, 1978, 92 Stat. 3641, provided: “That this Act [enacting sections 375b, 504, 505, 635a–1 to 635a–3, 1795 to 1795i, 1831c, 3106a, 3201 to 3207, 3301 to 3308, and 3401 to 3422 of this title, sections 1693 to 1693r of Title 15, Commerce and Trade, and section 2153e–1 of Title 42, The Public Health and Welfare, amending sections 27, 93, 375a, 412, 635, 635e to 635g, 1451, 1462, 1464, 1715z–10, 1726, 1728 to 1730a, 1752 to 1756, 1757 to 1759, 1761 to 1763, 1766, 1767, 1771, 1772a, 1781 to 1789, 1795b to 1795g, 1813, 1817 to 1821, 1828, 1832, 1843, 1844, 1847, 1865, 1972, and 2902 of this title, sections 5108, 5314, and 5315 of Title 5, Government Organization and Employees, sections 709 and 1114 of Title 18, Crimes and Criminal Procedure, and sections 67 and 856 of former Title 31, Money and Finance, enacting provisions set out as notes under sections 27, 93, 375b, 461, 601, 635, 1451, 1728, 1730, 1751, 1752, 1795, 1817, 1832, 3201, 3301, 3401, and 3415 of this title, and sections 1601 and 1693 of Title 15; and amending provisions set out as notes under this section, section 461 of this title, and section 1666f of Title 15] may be cited as the ‘Financial Institutions Regulatory and Interest Rate Control Act of 1978’.”
+Pub. L. 95–630, § 1, Nov. 10, 1978, 92 Stat. 3641, provided: “That this Act [enacting sections 375b, 504, 505, 635a–1 to 635a–3, 1795 to 1795i, 1831c, 3106a, 3201 to 3207, 3301 to 3308, and 3401 to 3422 of this title, sections 1693 to 1693r of Title 15, Commerce and Trade, and section 2153e–1 of Title 42, The Public Health and Welfare, amending sections 27, 93, 375a, 412, 635, 635e to 635g, 1451, 1462, 1464, 1715z–10, 1726, 1728 to 1730a, 1752 to 1756, 1757 to 1759, 1761 to 1763, 1766, 1767, 1771, 1772a, 1781 to 1789, 1795b to 1795g, 1813, 1817 to 1821, 1828, 1832, 1843, 1844, 1847, 1865, 1972, and 2902 of this title, sections 5108, 5314, and 5315 of Title 5, Government Organization and Employees, sections 709 and 1114 of Title 18, Crimes and Criminal Procedure, and sections 67 and 856 of former Title 31, Money and Finance, enacting provisions set out as notes under sections 27, 93, 375b, 461, 601, 635, 1451, 1728, 1730, 1751, 1752, 1795, 1817, 1832, 3201, 3301, 3401, and 3415 of this title, and sections 1601 and 1693 of Title 15; and amending provisions set out as notes under this section, section 461 of this title, and section 1666f of Title 15] may be cited as the ‘Financial Institutions Regulatory and Interest Rate Control Act of 1978’.”
 
 **Short Title of 1977 Amendment**
 
-Pub. L. 95–188, title II, § 201, Nov. 16, 1977, 91 Stat. 1387, provided that: “This title [enacting section 225a of this title, amending sections 242 and 302 of this title and section 208 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 242 of this title] may be cited as the ‘Federal Reserve Reform Act of 1977’.”
+Pub. L. 95–188, title II, § 201, Nov. 16, 1977, 91 Stat. 1387, provided that: “This title [enacting section 225a of this title, amending sections 242 and 302 of this title and section 208 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 242 of this title] may be cited as the ‘Federal Reserve Reform Act of 1977’.”
 
 **Short Title of 1932 Amendment**
 
@@ -337,9 +337,9 @@ Act Feb. 27, 1932, ch. 58, 47 Stat. 56, which enacted sections 347a and 347b of 
 
 **Separability; Right To Amend, Alter or Repeal**
 
-Pub. L. 100–86, title XII, § 1205, Aug. 10, 1987, 101 Stat. 663, provided that: “If any provision of this Act [see Short Title of 1987 Amendment note above] or the application thereof to any person or circumstances is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby.”
+Pub. L. 100–86, title XII, § 1205, Aug. 10, 1987, 101 Stat. 663, provided that: “If any provision of this Act [see Short Title of 1987 Amendment note above] or the application thereof to any person or circumstances is held invalid, the remainder of the Act and the application of the provision to other persons not similarly situated or to other circumstances shall not be affected thereby.”
 
-Act Dec. 23, 1913, ch. 6, §§ 30, 31, formerly §§ 29, 30, 38 Stat. 275, renumbered §§ 30, 31, Pub. L. 95–630, title I, § 101, Nov. 10, 1978, 92 Stat. 3641, provided:
+Act Dec. 23, 1913, ch. 6, §§ 30, 31, formerly §§ 29, 30, 38 Stat. 275, renumbered §§ 30, 31, Pub. L. 95–630, title I, § 101, Nov. 10, 1978, 92 Stat. 3641, provided:
 
 > **“Sec. 30.**
 
@@ -349,11 +349,11 @@ Act Dec. 23, 1913, ch. 6, §§ 30, 31, formerly §§ 29, 30, 38 Stat. 275, r
 
 > The right to amend, alter, or repeal this Act is hereby expressly reserved.”
 
-### § 227. “Banking Act of 1933”
+### § 227. “Banking Act of 1933”
 
 The short title of the Act of June 16, 1933, ch. 89, 48 Stat. 162, shall be the “Banking Act of 1933.”
 
-(June 16, 1933, ch. 89, § 1, 48 Stat. 162.)
+(June 16, 1933, ch. 89, § 1, 48 Stat. 162.)
 
 **Editorial Notes**
 
@@ -365,13 +365,13 @@ The Banking Act of 1933, also known as the Glass-Steagall Act, 1933, referred to
 
 **Right To Amend, Alter or Repeal; Separability**
 
-Act June 16, 1933, ch. 89, § 34, 48 Stat. 195, provided: “The right to alter, amend, or repeal this Act is hereby expressly reserved. If any provision of this act, or the application thereof to any person or circumstances, is held invalid, the remainder of the act, and the application of such provision to other persons or circumstances, shall not be affected thereby”.
+Act June 16, 1933, ch. 89, § 34, 48 Stat. 195, provided: “The right to alter, amend, or repeal this Act is hereby expressly reserved. If any provision of this act, or the application thereof to any person or circumstances, is held invalid, the remainder of the act, and the application of such provision to other persons or circumstances, shall not be affected thereby”.
 
-### § 228. “Banking Act of 1935”
+### § 228. “Banking Act of 1935”
 
 The act of August 23, 1935, ch. 614, 49 Stat. 684, may be cited as the “Banking Act of 1935.”
 
-(Aug. 23, 1935, ch. 614, § 1, 49 Stat. 684.)
+(Aug. 23, 1935, ch. 614, § 1, 49 Stat. 684.)
 
 **Editorial Notes**
 
@@ -383,55 +383,55 @@ The Banking Act of 1935, referred to in text, is classified to sections 2, 24, 3
 
 **Separability**
 
-Act Aug. 23, 1935, ch. 614, title III, § 346, 49 Stat. 723, provided: “If any provision of this Act, or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provision to other persons and circumstances, shall not be affected thereby.”
+Act Aug. 23, 1935, ch. 614, title III, § 346, 49 Stat. 723, provided: “If any provision of this Act, or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application of such provision to other persons and circumstances, shall not be affected thereby.”
 
 ## SUBCHAPTER II—BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM
 
-### § 241. Creation; membership; compensation and expenses
+### § 241. Creation; membership; compensation and expenses
 
 The Board of Governors of the Federal Reserve System (hereinafter referred to as the “Board”) shall be composed of seven members, to be appointed by the President, by and with the advice and consent of the Senate, after August 23, 1935, for terms of fourteen years except as hereinafter provided, but each appointive member of the Federal Reserve Board in office on such date shall continue to serve as a member of the Board until February 1, 1936, and the Secretary of the Treasury and the Comptroller of the Currency shall continue to serve as members of the Board until February 1, 1936. In selecting the members of the Board, not more than one of whom shall be selected from any one Federal Reserve district, the President shall have due regard to a fair representation of the financial, agricultural, industrial, and commercial interests, and geographical divisions of the country. In selecting members of the Board, the President shall appoint at least 1 member with demonstrated primary experience working in or supervising community banks having less than $10,000,000,000 in total assets. The members of the Board shall devote their entire time to the business of the Board and shall each receive basic compensation at the rate of $15,000 per annum, payable monthly, together with actual necessary traveling expenses.
 
-(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 260; June 3, 1922, ch. 205, 42 Stat. 620; Aug. 23, 1935, ch. 614, title II, § 203(b), 49 Stat. 704; Pub. L. 114–1, title I, § 109(a), Jan. 12, 2015, 129 Stat. 9.)
+(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 260; June 3, 1922, ch. 205, 42 Stat. 620; Aug. 23, 1935, ch. 614, title II, § 203(b), 49 Stat. 704; Pub. L. 114–1, title I, § 109(a), Jan. 12, 2015, 129 Stat. 9.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2–7 and 8 of section 10; par. 9 of section 10, as added June 3, 1922, ch. 205, 42 Stat. 621; par. 10 of section 10, as added Aug. 23, 1935, ch. 614, § 203(d), 49 Stat. 705; and par. (12) of section 10, as added Pub. L. 111–203, title XI, § 1108(b), July 21, 2010, 124 Stat. 2126, are classified to sections 242 to 247, 1, 522, 247a, and 247b, respectively, of this title. No par. between pars. (10) and (12) has been enacted.
+Section is comprised of first par. of section 10 of act Dec. 23, 1913. Pars. 2–7 and 8 of section 10; par. 9 of section 10, as added June 3, 1922, ch. 205, 42 Stat. 621; par. 10 of section 10, as added Aug. 23, 1935, ch. 614, § 203(d), 49 Stat. 705; and par. (12) of section 10, as added Pub. L. 111–203, title XI, § 1108(b), July 21, 2010, 124 Stat. 2126, are classified to sections 242 to 247, 1, 522, 247a, and 247b, respectively, of this title. No par. between pars. (10) and (12) has been enacted.
 
 **Amendments**
 
 2015—Pub. L. 114–1 inserted after second sentence “In selecting members of the Board, the President shall appoint at least 1 member with demonstrated primary experience working in or supervising community banks having less than $10,000,000,000 in total assets.”
 
-1935—Act Aug. 23, 1935, § 203(b), increased the appointive membership from six to seven, terminated the membership of the Secretary of the Treasury and the Comptroller of the Currency, raised the tenure from twelve to fourteen years and increased the annual salary from $12,000 to $15,000.
+1935—Act Aug. 23, 1935, § 203(b), increased the appointive membership from six to seven, terminated the membership of the Secretary of the Treasury and the Comptroller of the Currency, raised the tenure from twelve to fourteen years and increased the annual salary from $12,000 to $15,000.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Act Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, provided that: “Hereafter the Federal Reserve Board shall be known as the ‘Board of Governors of the Federal Reserve System,’ and the governor and the vice governor of the Federal Reserve Board shall be known as the ‘chairman’ and the ‘vice chairman,’ respectively, of the Board of Governors of the Federal Reserve System.”
+Act Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704, provided that: “Hereafter the Federal Reserve Board shall be known as the ‘Board of Governors of the Federal Reserve System,’ and the governor and the vice governor of the Federal Reserve Board shall be known as the ‘chairman’ and the ‘vice chairman,’ respectively, of the Board of Governors of the Federal Reserve System.”
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–1, title I, § 109(b), Jan. 12, 2015, 129 Stat. 9, provided that: “The amendment made by this section [amending this section] shall take effect on the date of enactment of this Act [Jan. 12, 2015] and apply to appointments made on and after that effective date, excluding any nomination pending in the Senate on that date.”
+Pub. L. 114–1, title I, § 109(b), Jan. 12, 2015, 129 Stat. 9, provided that: “The amendment made by this section [amending this section] shall take effect on the date of enactment of this Act [Jan. 12, 2015] and apply to appointments made on and after that effective date, excluding any nomination pending in the Senate on that date.”
 
 **Repeals**
 
-Act Oct. 15, 1949, ch. 695, § 4, 63 Stat. 880, formerly cited as a credit to this section, which was used as authority to substitute “$16,000” for “$15,000” in the last sentence, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655.
+Act Oct. 15, 1949, ch. 695, § 4, 63 Stat. 880, formerly cited as a credit to this section, which was used as authority to substitute “$16,000” for “$15,000” in the last sentence, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 655.
 
 **General Accounting Office Study of Conflicts of Interest**
 
-Pub. L. 106–102, title VII, § 728, Nov. 12, 1999, 113 Stat. 1475, provided that the Comptroller General of the United States was to conduct a study analyzing the conflict of interest faced by the Board of Governors of the Federal Reserve System between its role as a primary regulator of the banking industry and its role as a vendor of services to the banking and financial services industry and, before the end of the 1-year period beginning on Nov. 12, 1999, submit a report to the Congress, together with recommendations for such legislative or administrative actions as the Comptroller General determined to be appropriate.
+Pub. L. 106–102, title VII, § 728, Nov. 12, 1999, 113 Stat. 1475, provided that the Comptroller General of the United States was to conduct a study analyzing the conflict of interest faced by the Board of Governors of the Federal Reserve System between its role as a primary regulator of the banking industry and its role as a vendor of services to the banking and financial services industry and, before the end of the 1-year period beginning on Nov. 12, 1999, submit a report to the Congress, together with recommendations for such legislative or administrative actions as the Comptroller General determined to be appropriate.
 
 **Compensation of Board of Governors**
 
 Annual basic compensation of Chairman and Members of Board of Governors, see sections 5313 and 5314 of Title 5, Government Organization and Employees.
 
-### § 242. Ineligibility to hold office in member banks; qualifications and terms of office of members; chairman and vice chairman; oath of office
+### § 242. Ineligibility to hold office in member banks; qualifications and terms of office of members; chairman and vice chairman; oath of office
 
 The members of the Board shall be ineligible during the time they are in office and for two years thereafter to hold any office, position, or employment in any member bank, except that this restriction shall not apply to a member who has served the full term for which he was appointed. Upon the expiration of the term of any appointive member of the Federal Reserve Board in office on August 23, 1935, the President shall fix the term of the successor to such member at not to exceed fourteen years, as designated by the President at the time of nomination, but in such manner as to provide for the expiration of the term of not more than one member in any two-year period, and thereafter each member shall hold office for a term of fourteen years from the expiration of the term of his predecessor, unless sooner removed for cause by the President. Of the persons thus appointed, 1 shall be designated by the President, by and with the advice and consent of the Senate, to serve as Chairman of the Board for a term of 4 years, and 2 shall be designated by the President, by and with the advice and consent of the Senate, to serve as Vice Chairmen of the Board, each for a term of 4 years, 1 of whom shall serve in the absence of the Chairman, as provided in section 244 of this title, and 1 of whom shall be designated Vice Chairman for Supervision. The Vice Chairman for Supervision shall develop policy recommendations for the Board regarding supervision and regulation of depository institution holding companies and other financial firms supervised by the Board, and shall oversee the supervision and regulation of such firms. The Chairman of the Board, subject to its supervision, shall be its active executive officer. Each member of the Board shall within fifteen days after notice of appointment make and subscribe to the oath of office. Upon the expiration of their terms of office, members of the Board shall continue to serve until their successors are appointed and have qualified. Any person appointed as a member of the Board after August 23, 1935, shall not be eligible for reappointment as such member after he shall have served a full term of fourteen years.
 
-(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 260; June 3, 1922, ch. 205, 42 Stat. 620; June 16, 1933, ch. 89, § 6(a), 48 Stat. 166; Aug. 23, 1935, ch. 614, title II, § 203(b), 49 Stat. 704; Pub. L. 95–188, title II, § 204(a), Nov. 16, 1977, 91 Stat. 1388; Pub. L. 111–203, title XI, § 1108(a)(1), July 21, 2010, 124 Stat. 2126.)
+(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 260; June 3, 1922, ch. 205, 42 Stat. 620; June 16, 1933, ch. 89, § 6(a), 48 Stat. 166; Aug. 23, 1935, ch. 614, title II, § 203(b), 49 Stat. 704; Pub. L. 95–188, title II, § 204(a), Nov. 16, 1977, 91 Stat. 1388; Pub. L. 111–203, title XI, § 1108(a)(1), July 21, 2010, 124 Stat. 2126.)
 
 **Editorial Notes**
 
@@ -445,7 +445,7 @@ Section is comprised of second par. of section 10 of act Dec. 23, 1913. For clas
 
 1977—Pub. L. 95–188 substituted in third sentence “one shall be designated by the President, by and with the advice and consent of the Senate, to serve as Chairman of the Board for a term of four years, and one shall be designated by the President, by and with the consent of the Senate, to serve as Vice Chairman of the Board for a term of four years” for “one shall be designated by the President as chairman and one as vice chairman of the Board, to serve as such for a term of four years”.
 
-1935—Act Aug. 23, 1935, § 203(b), extended term of appointive members from twelve to fourteen years, and inserted provisions for continuance in office until successor qualified and against reappointment.
+1935—Act Aug. 23, 1935, § 203(b), extended term of appointive members from twelve to fourteen years, and inserted provisions for continuance in office until successor qualified and against reappointment.
 
 1933—Act June 16, 1933, extended term of appointive members from ten to twelve years.
 
@@ -457,25 +457,25 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title XI, § 1108(a)(2), July 21, 2010, 124 Stat. 2126, provided that: “The amendment made by subsection (a) [amending this section] takes effect on the date of enactment of this title [July 21, 2010] and applies to individuals who are designated by the President on or after that date to serve as Vice Chairman of Supervision.”
+Pub. L. 111–203, title XI, § 1108(a)(2), July 21, 2010, 124 Stat. 2126, provided that: “The amendment made by subsection (a) [amending this section] takes effect on the date of enactment of this title [July 21, 2010] and applies to individuals who are designated by the President on or after that date to serve as Vice Chairman of Supervision.”
 
 **Effective Date of 1977 Amendment; Applicability**
 
-Pub. L. 95–188, title II, § 204(b), Nov. 16, 1977, 91 Stat. 1388, provided that: “The amendment made by subsection (a) [amending this section] takes effect on January 1, 1979, and applies to individuals who are designated by the President on or after such date to serve as Chairman or Vice Chairman of the Board of Governors of the Federal Reserve System.”
+Pub. L. 95–188, title II, § 204(b), Nov. 16, 1977, 91 Stat. 1388, provided that: “The amendment made by subsection (a) [amending this section] takes effect on January 1, 1979, and applies to individuals who are designated by the President on or after such date to serve as Chairman or Vice Chairman of the Board of Governors of the Federal Reserve System.”
 
 **Repeals**
 
-Act Mar. 3, 1919, ch. 101, § 2, 40 Stat. 1315, formerly cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644.
+Act Mar. 3, 1919, ch. 101, § 2, 40 Stat. 1315, formerly cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644.
 
 **Compensation of Chairman of Board**
 
 Annual basic compensation of Chairman of Board of Governors, see section 5313 of Title 5, Government Organization and Employees.
 
-### § 243. Assessments upon Federal reserve banks to pay expenses
+### § 243. Assessments upon Federal reserve banks to pay expenses
 
 The Board of Governors of the Federal Reserve System shall have power to levy semiannually upon the Federal reserve banks, in proportion to their capital stock and surplus, an assessment sufficient to pay its estimated expenses and the salaries of its members and employees for the half year succeeding the levying of such assessment, together with any deficit carried forward from the preceding half year, and such assessments may include amounts sufficient to provide for the acquisition by the Board in its own name of such site or building in the District of Columbia as in its judgment alone shall be necessary for the purpose of providing suitable and adequate quarters for the performance of its functions. After September 1, 2000, the Board may also use such assessments to acquire, in its own name, a site or building (in addition to the facilities existing on such date) to provide for the performance of the functions of the Board. After approving such plans, estimates, and specifications as it shall have caused to be prepared, the Board may, notwithstanding any other provision of law, cause to be constructed on any site so acquired by it a building or buildings suitable and adequate in its judgment for its purposes and proceed to take all such steps as it may deem necessary or appropriate in connection with the construction, equipment, and furnishing of such building or buildings. The Board may maintain, enlarge, or remodel any building or buildings so acquired or constructed and shall have sole control of such building or buildings and space therein.
 
-(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; June 19, 1934, ch. 653, § 4, 48 Stat. 1108; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 106–569, title X, § 1001, Dec. 27, 2000, 114 Stat. 3027.)
+(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; June 19, 1934, ch. 653, § 4, 48 Stat. 1108; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 106–569, title X, § 1001, Dec. 27, 2000, 114 Stat. 3027.)
 
 **Editorial Notes**
 
@@ -495,11 +495,11 @@ Section is comprised of third par. of section 10 of act Dec. 23, 1913. For class
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 244. Principal offices of Board; chairman of Board; obligations and expenses; qualifications of members; vacancies
+### § 244. Principal offices of Board; chairman of Board; obligations and expenses; qualifications of members; vacancies
 
 The principal offices of the Board shall be in the District of Columbia. At meetings of the Board the chairman shall preside, and, in his absence, the vice chairman shall preside. In the absence of the chairman and the vice chairman, the Board shall elect a member to act as chairman pro tempore. The Board shall determine and prescribe the manner in which its obligations shall be incurred and its disbursements and expenses allowed and paid, and may leave on deposit in the Federal Reserve banks the proceeds of assessments levied upon them to defray its estimated expenses and the salaries of its members and employees, whose employment, compensation, leave, and expenses shall be governed solely by the provisions of this chapter and rules and regulations of the Board not inconsistent therewith; and funds derived from such assessments shall not be construed to be Government funds or appropriated moneys. No member of the Board of Governors of the Federal Reserve System shall be an officer or director of any bank, banking institution, trust company, or Federal Reserve bank or hold stock in any bank, banking institution, or trust company; and before entering upon his duties as a member of the Board of Governors of the Federal Reserve System he shall certify under oath that he has complied with this requirement, and such certification shall be filed with the secretary of the Board. Whenever a vacancy shall occur, other than by expiration of term, among the seven members of the Board of Governors of the Federal Reserve System appointed by the President as above provided, a successor shall be appointed by the President, by and with the advice and consent of the Senate, to fill such vacancy, and when appointed he shall hold office for the unexpired term of his predecessor.
 
-(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; June 16, 1933, ch. 89, § 6(b), 48 Stat. 167; Aug. 23, 1935, ch. 614, title II, § 203(a)–(c), 49 Stat. 704, 705.)
+(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; June 16, 1933, ch. 89, § 6(b), 48 Stat. 167; Aug. 23, 1935, ch. 614, title II, § 203(a)–(c), 49 Stat. 704, 705.)
 
 **Editorial Notes**
 
@@ -515,7 +515,7 @@ Word “seven” was substituted for “six” in last sentence on authority of 
 
 **Amendments**
 
-1935—Act Aug. 23, 1935, § 203(c), substituted second and third sentences for former related provisions.
+1935—Act Aug. 23, 1935, § 203(c), substituted second and third sentences for former related provisions.
 
 1933—Act June 16, 1933, fixed the principal offices of the Board, made the Secretary of the Treasury chairman, provided for chairman pro tempore, and referred to disbursements, obligations, salaries and leaves.
 
@@ -525,11 +525,11 @@ Word “seven” was substituted for “six” in last sentence on authority of 
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 245. Vacancies during recess of Senate
+### § 245. Vacancies during recess of Senate
 
 The President shall have power to fill all vacancies that may happen on the Board of Governors of the Federal Reserve System during the recess of the Senate by granting commissions which shall expire with the next session of the Senate.
 
-(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 260; June 3, 1922, ch. 205, 42 Stat. 620; Aug. 23, 1935, ch. 614, title II, § 203(a), 49, Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 260; June 3, 1922, ch. 205, 42 Stat. 620; Aug. 23, 1935, ch. 614, title II, § 203(a), 49, Stat. 704.)
 
 **Editorial Notes**
 
@@ -543,11 +543,11 @@ Section is comprised of fifth par. of section 10 of act Dec. 23, 1913. For class
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 246. Powers of Secretary of the Treasury as affected by chapter
+### § 246. Powers of Secretary of the Treasury as affected by chapter
 
 Nothing in this chapter contained shall be construed as taking away any powers heretofore vested by law in the Secretary of the Treasury which relate to the supervision, management, and control of the Treasury Department and bureaus under such department, and wherever any power vested by this chapter in the Board of Governors of the Federal Reserve System or the Federal reserve agent appears to conflict with the powers of the Secretary of the Treasury, such powers shall be exercised subject to the supervision and control of the Secretary.
 
-(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -565,21 +565,21 @@ Section is comprised of sixth par. of section 10 of act Dec. 23, 1913. For class
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 247. Reports to Congress
+### § 247. Reports to Congress
 
-The Board of Governors of the Federal Reserve System shall annually make a full report of its operations to the Speaker of the House of Representatives, who shall cause the same to be printed for the information of the Congress. The report required under this paragraph shall include the reports required under section 1691f of title 15, section 57a(f)(7) 1
+The Board of Governors of the Federal Reserve System shall annually make a full report of its operations to the Speaker of the House of Representatives, who shall cause the same to be printed for the information of the Congress. The report required under this paragraph shall include the reports required under section 1691f of title 15, section 57a(f)(7) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 15, section 1613 of title 15, and section 247a of this title.
 
-(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 106–569, title XI, § 1103(b), Dec. 27, 2000, 114 Stat. 3030.)
+(Dec. 23, 1913, ch. 6, § 10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 106–569, title XI, § 1103(b), Dec. 27, 2000, 114 Stat. 3030.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 57a(f)(7) of title 15, referred to in text, was repealed by Pub. L. 111–203, title X, § 1092(3), July 21, 2010, 124 Stat. 2095.
+Section 57a(f)(7) of title 15, referred to in text, was repealed by Pub. L. 111–203, title X, § 1092(3), July 21, 2010, 124 Stat. 2095.
 
 **Codification**
 
@@ -597,17 +597,17 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 **Membership of International Banks in Federal Reserve System; Report to Congress**
 
-Pub. L. 95–369, § 3(g), Sept. 17, 1978, 92 Stat. 610, provided that the Board report to Congress not later than 270 days after Sept. 17, 1978 recommendations with respect to permitting corporations organized or operating under section 25 or 25(a) of the Federal Reserve Act to become members of Federal Reserve Banks.
+Pub. L. 95–369, § 3(g), Sept. 17, 1978, 92 Stat. 610, provided that the Board report to Congress not later than 270 days after Sept. 17, 1978 recommendations with respect to permitting corporations organized or operating under section 25 or 25(a) of the Federal Reserve Act to become members of Federal Reserve Banks.
 
 **Effect of International Banking Act of 1978 on International Banks; Report to Congress**
 
-Pub. L. 95–369, § 3(h), Sept. 17, 1978, 92 Stat. 610, provided that: “As part of its annual report pursuant to section 10 of the Federal Reserve Act [this section], the Board shall include its assessment of the effects of the amendments made by this Act [see Short Title note set out under section 3101 of this title] on the capitalization and activities of corporations organized or operating under section 25 or 25(a) of the Federal Reserve Act [sections 601 to 604 and 611 to 631 of this title], and on commercial banks and the banking system.”
+Pub. L. 95–369, § 3(h), Sept. 17, 1978, 92 Stat. 610, provided that: “As part of its annual report pursuant to section 10 of the Federal Reserve Act [this section], the Board shall include its assessment of the effects of the amendments made by this Act [see Short Title note set out under section 3101 of this title] on the capitalization and activities of corporations organized or operating under section 25 or 25(a) of the Federal Reserve Act [sections 601 to 604 and 611 to 631 of this title], and on commercial banks and the banking system.”
 
-### § 247a. Records of action on policy relating to open-market operation and policies determined generally; inclusion in report to Congress
+### § 247a. Records of action on policy relating to open-market operation and policies determined generally; inclusion in report to Congress
 
 The Board of Governors of the Federal Reserve System shall keep a complete record of the action taken by the Board and by the Federal Open Market Committee upon all questions of policy relating to open-market operations and shall record therein the votes taken in connection with the determination of open-market policies and the reasons underlying the action of the Board and the Committee in each instance. The Board shall keep a similar record with respect to all questions of policy determined by the Board, and shall include in its annual report to the Congress a full account of the action so taken during the preceding year with respect to open-market policies and operations and with respect to the policies determined by it and shall include in such report a copy of the records required to be kept under the provisions of this section.
 
-(Dec. 23, 1913, ch. 6, § 10 (par.), as added Aug. 23, 1935, ch. 614, title II, § 203(d), 49 Stat. 705.)
+(Dec. 23, 1913, ch. 6, § 10 (par.), as added Aug. 23, 1935, ch. 614, title II, § 203(d), 49 Stat. 705.)
 
 **Editorial Notes**
 
@@ -615,11 +615,11 @@ The Board of Governors of the Federal Reserve System shall keep a complete recor
 
 Section is comprised of tenth par. of section 10 of act Dec. 23, 1913, as added Aug. 23, 1935. For classification to this title of other pars. of section 10, see Codification note set out under section 241 of this title.
 
-### § 247b. Appearances before Congress
+### § 247b. Appearances before Congress
 
 The Vice Chairman for Supervision shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives and at semi-annual hearings regarding the efforts, activities, objectives, and plans of the Board with respect to the conduct of supervision and regulation of depository institution holding companies and other financial firms supervised by the Board.
 
-(Dec. 23, 1913, ch. 6, § 10(12), as added Pub. L. 111–203, title XI, § 1108(b), July 21, 2010, 124 Stat. 2126.)
+(Dec. 23, 1913, ch. 6, § 10(12), as added Pub. L. 111–203, title XI, § 1108(b), July 21, 2010, 124 Stat. 2126.)
 
 **Editorial Notes**
 
@@ -633,7 +633,7 @@ Section is comprised of par. (12) of section 10 of act Dec. 23, 1913. No par. be
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-### § 248. Enumerated powers
+### § 248. Enumerated powers
 
 The Board of Governors of the Federal Reserve System shall be authorized and empowered:
 
@@ -701,7 +701,7 @@ The Board may appoint the Federal Deposit Insurance Corporation as conservator o
 
 The Board may act in its own name and through its own attorneys in enforcing any provision of this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 regulations promulgated hereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Board is a party and which involves the Board’s regulation or supervision of any bank, bank holding company (as defined in section 1841 of this title), or other entity, or the administration of its operations.
 
@@ -741,7 +741,7 @@ regulations promulgated hereunder, or any other law or regulation, or in any act
 
 **(B)** The available members of the Board shall document in writing the determinations required by subparagraph (A)(ii), and such written findings shall be included in the record of the action and in the official minutes of the Board, and copies of such record shall be provided as soon as practicable to the members of the Board who were not available to participate in the action and to the Chairman of the Committee on Banking, Housing, and Urban Affairs of the Senate and to the Chairman of the Committee on Financial Services of the House of Representatives.
 
-**(s) 2 [footnote: 2 So in original. Two subsecs. (s) have been enacted.] Federal Reserve transparency and release of information**
+**(s) 2 [footnote: 2 So in original. Two subsecs. (s) have been enacted.] Federal Reserve transparency and release of information**
 
 **(1) In general** In order to ensure the disclosure in a timely manner consistent with the purposes of this chapter of information concerning the borrowers and counterparties participating in emergency credit facilities, discount window lending programs, and open market operations authorized or conducted by the Board or a Federal reserve bank, the Board of Governors shall disclose, as provided in paragraph (2)—
 
@@ -821,7 +821,7 @@ The Board shall collect a total amount of assessments, fees, or other charges fr
 
 In collecting assessments, fees, or other charges under paragraph (1) from each company described in paragraph (2) with total consolidated assets of between $100,000,000,000 and $250,000,000,000, the Board shall adjust the amount charged to reflect any changes in supervisory and regulatory responsibilities resulting from the Economic Growth, Regulatory Relief, and Consumer Protection Act with respect to each such company.
 
-(Dec. 23, 1913, ch. 6, § 11, 38 Stat. 261; Sept. 7, 1916, ch. 461, 39 Stat. 752; Sept. 26, 1918, ch. 177, § 2, 40 Stat. 968; Mar. 3, 1919, ch. 101, § 3, 40 Stat. 1315; Feb. 27, 1921, ch. 75, 41 Stat. 1146; June 26, 1930, ch. 612, 46 Stat. 814; Mar. 9, 1933, ch. 1, title I, § 3, 48 Stat. 2; June 16, 1933, ch. 89, § 7, 48 Stat. 167; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, §§ 321(a), 342, 49 Stat. 704, 713, 722; June 12, 1945, ch. 186, § 1(c), 59 Stat. 237; Pub. L. 86–114, § 3(b)(6), July 28, 1959, 73 Stat. 264; Pub. L. 86–251, § 3(c), Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–722, § 3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–427, § 2, May 20, 1966, 80 Stat. 161; Pub. L. 89–765, Nov. 5, 1966, 80 Stat. 1314; Pub. L. 90–269, § 1, Mar. 18, 1968, 82 Stat. 50; Pub. L. 95–251, § 2(a)(3), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–221, title I, § 102, Mar. 31, 1980, 94 Stat. 132; Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068; Pub. L. 97–457, § 17(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, § 744(i)(1), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title I, §§ 133(f), 142(c), Dec. 19, 1991, 105 Stat. 2273, 2281; Pub. L. 102–550, title XVI, § 1603(d)(9), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 103–325, title III, §§ 322(d), 331(d), title VI, § 602(g)(2), Sept. 23, 1994, 108 Stat. 2227, 2232, 2293; Pub. L. 106–102, title VII, § 735, Nov. 12, 1999, 113 Stat. 1479; Pub. L. 107–56, title III, § 364, Oct. 26, 2001, 115 Stat. 333; Pub. L. 107–297, title III, § 301, Nov. 26, 2002, 116 Stat. 2340; Pub. L. 111–203, title III, §§ 318(c), 366(1), title XI, §§ 1103(b), 1108(c), July 21, 2010, 124 Stat. 1527, 1556, 2118, 2126; Pub. L. 115–174, title IV, § 401(c)(2), May 24, 2018, 132 Stat. 1358.)
+(Dec. 23, 1913, ch. 6, § 11, 38 Stat. 261; Sept. 7, 1916, ch. 461, 39 Stat. 752; Sept. 26, 1918, ch. 177, § 2, 40 Stat. 968; Mar. 3, 1919, ch. 101, § 3, 40 Stat. 1315; Feb. 27, 1921, ch. 75, 41 Stat. 1146; June 26, 1930, ch. 612, 46 Stat. 814; Mar. 9, 1933, ch. 1, title I, § 3, 48 Stat. 2; June 16, 1933, ch. 89, § 7, 48 Stat. 167; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, §§ 321(a), 342, 49 Stat. 704, 713, 722; June 12, 1945, ch. 186, § 1(c), 59 Stat. 237; Pub. L. 86–114, § 3(b)(6), July 28, 1959, 73 Stat. 264; Pub. L. 86–251, § 3(c), Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–722, § 3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–427, § 2, May 20, 1966, 80 Stat. 161; Pub. L. 89–765, Nov. 5, 1966, 80 Stat. 1314; Pub. L. 90–269, § 1, Mar. 18, 1968, 82 Stat. 50; Pub. L. 95–251, § 2(a)(3), Mar. 27, 1978, 92 Stat. 183; Pub. L. 96–221, title I, § 102, Mar. 31, 1980, 94 Stat. 132; Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068; Pub. L. 97–457, § 17(b), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, § 744(i)(1), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title I, §§ 133(f), 142(c), Dec. 19, 1991, 105 Stat. 2273, 2281; Pub. L. 102–550, title XVI, § 1603(d)(9), Oct. 28, 1992, 106 Stat. 4080; Pub. L. 103–325, title III, §§ 322(d), 331(d), title VI, § 602(g)(2), Sept. 23, 1994, 108 Stat. 2227, 2232, 2293; Pub. L. 106–102, title VII, § 735, Nov. 12, 1999, 113 Stat. 1479; Pub. L. 107–56, title III, § 364, Oct. 26, 2001, 115 Stat. 333; Pub. L. 107–297, title III, § 301, Nov. 26, 2002, 116 Stat. 2340; Pub. L. 111–203, title III, §§ 318(c), 366(1), title XI, §§ 1103(b), 1108(c), July 21, 2010, 124 Stat. 1527, 1556, 2118, 2126; Pub. L. 115–174, title IV, § 401(c)(2), May 24, 2018, 132 Stat. 1358.)
 
 **Editorial Notes**
 
@@ -833,7 +833,7 @@ This chapter, referred to in subsecs. (c), (h), (i), (n), and (r)(1) and in par.
 
 Reference in subsec. (e) to “section 20 of this Act” means section 20 of the Federal Reserve Act which is not classified to the Code. Since section 20 does not set forth any reserve requirements, section 19 of the Federal Reserve Act might have been intended. For provisions of section 19 relating to reserve requirements, see note above.
 
-The Act of January sixteenth, eighteen hundred and eighty-three, referred to in subsec. (*l*), is act Jan. 16, 1883, ch. 27, 22 Stat. 403, which enacted section 42 of former Title 40, Public Buildings, Property, and Works, and sections 632, 633, 635, 637, 638, and 640 to 642a of former Title 5, Executive Departments and Government Officers and Employees. For complete classification of this Act to the Code, see Tables. Section 42 of former Title 40 was repealed and reenacted as section 8165 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. The sections that were classified to former Title 5 were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, the first section of which enacted Title 5, Government Organization and Employees. For distribution of former sections of Title 5 into the revised Title 5, see table at the beginning of Title 5.
+The Act of January sixteenth, eighteen hundred and eighty-three, referred to in subsec. (*l*), is act Jan. 16, 1883, ch. 27, 22 Stat. 403, which enacted section 42 of former Title 40, Public Buildings, Property, and Works, and sections 632, 633, 635, 637, 638, and 640 to 642a of former Title 5, Executive Departments and Government Officers and Employees. For complete classification of this Act to the Code, see Tables. Section 42 of former Title 40 was repealed and reenacted as section 8165 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. The sections that were classified to former Title 5 were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, the first section of which enacted Title 5, Government Organization and Employees. For distribution of former sections of Title 5 into the revised Title 5, see table at the beginning of Title 5.
 
 This title, referred to in subsec. (p), probably should read “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act, which does not contain titles. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
@@ -851,21 +851,21 @@ Section is comprised of section 11 of act Dec. 23, 1913. The fourteenth par. of 
 
 **Amendments**
 
-2018—Subsec. (s)(2). Pub. L. 115–174, § 401(c)(2)(A), substituted “$100,000,000,000” for “$50,000,000,000” in subpars. (A) and (B).
+2018—Subsec. (s)(2). Pub. L. 115–174, § 401(c)(2)(A), substituted “$100,000,000,000” for “$50,000,000,000” in subpars. (A) and (B).
 
-Subsec. (s)(3). Pub. L. 115–174, § 401(c)(2)(B), added par. (3).
+Subsec. (s)(3). Pub. L. 115–174, § 401(c)(2)(B), added par. (3).
 
-2010—Subsec. (a)(2). Pub. L. 111–203, § 366(1)(A), which directed insertion of “State savings associations that are insured depository institutions (as defined in section 1813 of this title),” after “case of insured”, was executed by making the insertion after “case of insured” in subpar. (B)(i), to reflect the probable intent of Congress.
+2010—Subsec. (a)(2). Pub. L. 111–203, § 366(1)(A), which directed insertion of “State savings associations that are insured depository institutions (as defined in section 1813 of this title),” after “case of insured”, was executed by making the insertion after “case of insured” in subpar. (B)(i), to reflect the probable intent of Congress.
 
-Subsec. (a)(2)(B)(iii). Pub. L. 111–203, § 366(1)(B), (C), substituted “Comptroller of the Currency” for “Director of the Office of Thrift Supervision” and inserted “Federal” before “savings association which”.
+Subsec. (a)(2)(B)(iii). Pub. L. 111–203, § 366(1)(B), (C), substituted “Comptroller of the Currency” for “Director of the Office of Thrift Supervision” and inserted “Federal” before “savings association which”.
 
-Subsec. (a)(2)(B)(iv). Pub. L. 111–203, § 366(1)(D), substituted “savings association” for “savings and loan association”.
+Subsec. (a)(2)(B)(iv). Pub. L. 111–203, § 366(1)(D), substituted “savings association” for “savings and loan association”.
 
-Subsec. (k). Pub. L. 111–203, § 1108(c), inserted at end “The Board of Governors may not delegate to a Federal reserve bank its functions for the establishment of policies for the supervision and regulation of depository institution holding companies and other financial firms supervised by the Board of Governors.”
+Subsec. (k). Pub. L. 111–203, § 1108(c), inserted at end “The Board of Governors may not delegate to a Federal reserve bank its functions for the establishment of policies for the supervision and regulation of depository institution holding companies and other financial firms supervised by the Board of Governors.”
 
-Subsec. (s). Pub. L. 111–203, § 1103(b), added subsec. (s) relating to Federal Reserve transparency and release of information.
+Subsec. (s). Pub. L. 111–203, § 1103(b), added subsec. (s) relating to Federal Reserve transparency and release of information.
 
-Pub. L. 111–203, § 318(c), added subsec. (s) relating to assessments, fees, and other charges for certain companies.
+Pub. L. 111–203, § 318(c), added subsec. (s) relating to assessments, fees, and other charges for certain companies.
 
 2002—Subsec. (r). Pub. L. 107–297 added subsec. (r).
 
@@ -873,17 +873,17 @@ Pub. L. 111–203, § 318(c), added subsec. (s) relating to assessments, fees,
 
 1999—Subsec. (m). Pub. L. 106–102 substituted “[Repealed]” for text of subsec. (m) which related to percentage of capital and surplus represented by loans to be determined by the Federal Reserve Board.
 
-1994—Subsec. (d). Pub. L. 103–325, § 602(g)(2), substituted “Secretary of the Treasury” for “bureau under the charge of the Comptroller of the Currency” before “the issue and retirement” and for “Comptroller” before “to the Federal Reserve agents”.
+1994—Subsec. (d). Pub. L. 103–325, § 602(g)(2), substituted “Secretary of the Treasury” for “bureau under the charge of the Comptroller of the Currency” before “the issue and retirement” and for “Comptroller” before “to the Federal Reserve agents”.
 
-Subsec. (m). Pub. L. 103–325, § 322(d), which directed substitution of “15 percent” for “10 percentum” wherever appearing, was executed by substituting “15 percent” for “10 per centum” in two places to reflect the probable intent of Congress.
+Subsec. (m). Pub. L. 103–325, § 322(d), which directed substitution of “15 percent” for “10 percentum” wherever appearing, was executed by substituting “15 percent” for “10 per centum” in two places to reflect the probable intent of Congress.
 
-Subsec. (p). Pub. L. 103–325, § 331(d), added subsec. (p).
+Subsec. (p). Pub. L. 103–325, § 331(d), added subsec. (p).
 
 1992—Subsecs. (*o*), (p). Pub. L. 102–550 redesignated subsec. (p) as (*o*).
 
-1991—Subsec. (n). Pub. L. 102–242, § 142(c), which directed addition of subsec. (n) at end of section, was executed by adding subsec. (n) after subsec. (m). See Construction of 1991 Amendment note below.
+1991—Subsec. (n). Pub. L. 102–242, § 142(c), which directed addition of subsec. (n) at end of section, was executed by adding subsec. (n) after subsec. (m). See Construction of 1991 Amendment note below.
 
-Subsec. (p). Pub. L. 102–242, § 133(f), added subsec. (p).
+Subsec. (p). Pub. L. 102–242, § 133(f), added subsec. (p).
 
 1989—Subsec. (a)(2)(iii). Pub. L. 101–73 substituted “the Director of the Office of Thrift Supervision in the case of any savings association which is an insured depository institution (as defined in section 1813 of this title)” for “Federal Home Loan Bank Board in the case of any institution insured by the Federal Savings and Loan Insurance Corporation”.
 
@@ -899,7 +899,7 @@ Subsec. (p). Pub. L. 102–242, § 133(f), added subsec. (p).
 
 1966—Subsec. (d). Pub. L. 89–427 excepted the cancellation and destruction, and the accounting with respect to the cancellation and destruction, of notes unfit for circulation from the area of responsibility exercised by the Board of Governors of the Federal Reserve System through the Bureau of the Comptroller of the Currency over the issue and retirement of Federal Reserve notes.
 
-Subsec. (k). Pub. L. 89–765 added subsec. (k). A former subsec. (k) was repealed by Pub. L. 87–722, § 3, Sept. 28, 1962, 76 Stat. 670.
+Subsec. (k). Pub. L. 89–765 added subsec. (k). A former subsec. (k) was repealed by Pub. L. 87–722, § 3, Sept. 28, 1962, 76 Stat. 670.
 
 1962—Subsec. (k). Pub. L. 87–722 repealed subsec. (k) which related to the authority of the Board of Governors of the Federal Reserve System to permit national banks to act as trustees, etc., and is now covered by section 92a of this title.
 
@@ -909,9 +909,9 @@ Subsec. (m). Pub. L. 86–251 struck out “in the form of notes” after “rep
 
 1945—Subsec. (c). Act June 12, 1945, substituted “25 per centum” for “40 per centum”, and “20 per centum” for “32½ per centum” wherever appearing.
 
-1935—Subsec. (k). Act Aug. 23, 1935, § 342, amended last sentence of third par.
+1935—Subsec. (k). Act Aug. 23, 1935, § 342, amended last sentence of third par.
 
-Subsec. (m). Act Aug. 23, 1935, § 321(a), inserted proviso at end of first sentence.
+Subsec. (m). Act Aug. 23, 1935, § 321(a), inserted proviso at end of first sentence.
 
 1933—Subsec. (m). Act June 16, 1933, amended provisions generally.
 
@@ -947,7 +947,7 @@ Amendment by section 133(f) of Pub. L. 102–242 effective 1 year after Dec. 19,
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–221, title I, § 108, Mar. 31, 1980, 94 Stat. 141, provided that: “This title [enacting section 248a of this title, amending this section and sections 342, 347b, 355, 360, 412, 461, 463, 505, and 1425a of this title, and enacting provisions set out as notes under sections 226 and 355 of this title] shall take effect on the first day of the sixth month which begins after the date of the enactment of this title [Mar. 31, 1980], except that the amendments regarding sections 19(b)(7) and 19(b)(8)(D) of the Federal Reserve Act [section 461(b)(7) and (b)(8)(D) of this title] shall take effect on the date of enactment of this title.”
+Pub. L. 96–221, title I, § 108, Mar. 31, 1980, 94 Stat. 141, provided that: “This title [enacting section 248a of this title, amending this section and sections 342, 347b, 355, 360, 412, 461, 463, 505, and 1425a of this title, and enacting provisions set out as notes under sections 226 and 355 of this title] shall take effect on the first day of the sixth month which begins after the date of the enactment of this title [Mar. 31, 1980], except that the amendments regarding sections 19(b)(7) and 19(b)(8)(D) of the Federal Reserve Act [section 461(b)(7) and (b)(8)(D) of this title] shall take effect on the date of enactment of this title.”
 
 **Effective Date of 1959 Amendment**
 
@@ -959,7 +959,7 @@ For construction of amendment by Pub. L. 115–174 as applied to certain foreign
 
 **Construction of 1991 Amendment**
 
-Pub. L. 102–550, title XVI, § 1603(e)(2), Oct. 28, 1992, 106 Stat. 4081, provided that: “The amendment made by section 142(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991 [Pub. L. 102–242] (adding a paragraph at the end of section 11 of the Federal Reserve Act [this section]) shall be considered to have been executed before the amendment made by section 133(f) of the Federal Deposit Insurance Corporation Improvement Act of 1991 [amending this section].”
+Pub. L. 102–550, title XVI, § 1603(e)(2), Oct. 28, 1992, 106 Stat. 4081, provided that: “The amendment made by section 142(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991 [Pub. L. 102–242] (adding a paragraph at the end of section 11 of the Federal Reserve Act [this section]) shall be considered to have been executed before the amendment made by section 133(f) of the Federal Deposit Insurance Corporation Improvement Act of 1991 [amending this section].”
 
 **Executive Documents**
 
@@ -971,11 +971,11 @@ Ex. Ord. No. 6359, Oct. 25, 1933, as amended by Ex. Ord. No. 11825, Dec. 31, 197
 
 Ex. Ord. No. 10547, July 27, 1954, 19 F.R. 4661, required statistical transcript cards submitted with, or prepared by the Internal Revenue Service from, corporation income tax returns for the taxable years ending after June 30, 1951, and before July 1, 1952, to be open to inspection by the Board of Governors of the Federal Reserve System as an aid in executing the powers conferred upon such Board by this section, such inspection to be in accordance and upon compliance with the rules and regulations prescribed by the Secretary of the Treasury in T.D. 6081, 19 F.R. 4666.
 
-### § 248–1. Rules and regulations for transfer of funds and charges therefor among banks; clearing houses
+### § 248–1. Rules and regulations for transfer of funds and charges therefor among banks; clearing houses
 
 The Board of Governors of the Federal Reserve System shall make and promulgate from time to time regulations governing the transfer of funds and charges therefor among Federal reserve banks and their branches, and may at its discretion exercise the functions of a clearing house for such Federal reserve banks, or may designate a Federal reserve bank to exercise such functions, and may also require each such bank to exercise the functions of a clearing house for depository institutions.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 268; Aug. 23, 1935, ch. 614, § 203(a), 49 Stat. 704; Pub. L. 96–221, title I, § 105(d), Mar. 31, 1980, 94 Stat. 140.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 268; Aug. 23, 1935, ch. 614, § 203(a), 49 Stat. 704; Pub. L. 96–221, title I, § 105(d), Mar. 31, 1980, 94 Stat. 140.)
 
 **Editorial Notes**
 
@@ -997,7 +997,7 @@ Section 203(a) of act Aug. 23, 1935, changed the name of the Federal Reserve Boa
 
 Amendment by Pub. L. 96–221 effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as a note under section 248 of this title.
 
-### § 248a. Pricing of services
+### § 248a. Pricing of services
 
 **(a) Publication of pricing principles and proposed schedule of fees; effective date of schedule of fees**
 
@@ -1039,7 +1039,7 @@ The Board shall require reductions in the operating budgets of the Federal Reser
 
 All depository institutions, as defined in section 461(b)(1) of this title, may receive for deposit and as deposits any evidences of transaction accounts, as defined by section 461(b)(1) of this title from other depository institutions, as defined in section 461(b)(1) of this title or from any office of any Federal Reserve bank without regard to any Federal or State law restricting the number or the physical location or locations of such depository institutions.
 
-(Dec. 23, 1913, ch. 6, § 11A, as added Pub. L. 96–221, title I, § 107, Mar. 31, 1980, 94 Stat. 140; amended Pub. L. 100–86, title VI, § 612(a), Aug. 10, 1987, 101 Stat. 652.)
+(Dec. 23, 1913, ch. 6, § 11A, as added Pub. L. 96–221, title I, § 107, Mar. 31, 1980, 94 Stat. 140; amended Pub. L. 100–86, title VI, § 612(a), Aug. 10, 1987, 101 Stat. 652.)
 
 **Editorial Notes**
 
@@ -1051,19 +1051,19 @@ All depository institutions, as defined in section 461(b)(1) of this title, may 
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–86, title VI, § 612(b), Aug. 10, 1987, 101 Stat. 652, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of enactment of this title [Aug. 10, 1987].”
+Pub. L. 100–86, title VI, § 612(b), Aug. 10, 1987, 101 Stat. 652, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of enactment of this title [Aug. 10, 1987].”
 
 **Effective Date**
 
 Section effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 248 of this title.
 
-### § 248b. Annual independent audits of Federal reserve banks and Board
+### § 248b. Annual independent audits of Federal reserve banks and Board
 
 The Board shall order an annual independent audit of the financial statements of each Federal reserve bank and the Board.
 
-(Dec. 23, 1913, ch. 6, § 11B, as added Pub. L. 106–102, title VII, § 726, Nov. 12, 1999, 113 Stat. 1475.)
+(Dec. 23, 1913, ch. 6, § 11B, as added Pub. L. 106–102, title VII, § 726, Nov. 12, 1999, 113 Stat. 1475.)
 
-### § 248c. Master account and services database
+### § 248c. Master account and services database
 
 **(a) Definitions** In this section:
 
@@ -1115,17 +1115,17 @@ Not less frequently than once every quarter, the Board shall update the database
 
 Not later than 180 days after December 23, 2022, the Board shall publish the database with the information required under paragraph (1).
 
-(Dec. 23, 1913, ch. 6, § 11C, as added Pub. L. 117–263, div. E, title LVII, § 5708, Dec. 23, 2022, 136 Stat. 3419.)
+(Dec. 23, 1913, ch. 6, § 11C, as added Pub. L. 117–263, div. E, title LVII, § 5708, Dec. 23, 2022, 136 Stat. 3419.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Organizations Immunities Act, referred to in subsec. (a)(2)(C), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in subsec. (a)(2)(C), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 Enactment of this section, referred to in subsec. (b)(1)(B), means the enactment of this section by Pub. L. 117–263, which was approved Dec. 23, 2022.
 
-### § 249. Repealed. Pub. L. 94–412, title V, § 501(c), Sept. 14, 1976, 90 Stat. 1258
+### § 249. Repealed. Pub. L. 94–412, title V, § 501(c), Sept. 14, 1976, 90 Stat. 1258
 
 Section, act Aug. 8, 1947, ch. 517, 61 Stat. 921, dealt with regulation of consumer credit.
 
@@ -1135,11 +1135,11 @@ Section, act Aug. 8, 1947, ch. 517, 61 Stat. 921, dealt with regulation of consu
 
 Repeal by Pub. L. 94–412 not to affect any action taken or proceeding pending at the time of repeal, see section 501(h) of Pub. L. 94–412, set out as a note under section 1601 of Title 50, War and National Defense.
 
-### § 250. Independence of financial regulatory agencies
+### § 250. Independence of financial regulatory agencies
 
 No officer or agency of the United States shall have any authority to require the Securities and Exchange Commission, the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Director of the Federal Housing Finance Agency, or the National Credit Union Administration to submit legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress if such recommendations, testimony, or comments to the Congress include a statement indicating that the views expressed therein are those of the agency submitting them and do not necessarily represent the views of the President.
 
-(Pub. L. 93–495, title I, § 111, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 103–325, title III, § 331(a), Sept. 23, 1994, 108 Stat. 2232; Pub. L. 106–102, title VI, § 606(e)(2), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 110–289, div. A, title I, § 1102(b), July 30, 2008, 122 Stat. 2664.)
+(Pub. L. 93–495, title I, § 111, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 103–325, title III, § 331(a), Sept. 23, 1994, 108 Stat. 2232; Pub. L. 106–102, title VI, § 606(e)(2), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 110–289, div. A, title I, § 1102(b), July 30, 2008, 122 Stat. 2664.)
 
 **Editorial Notes**
 
@@ -1155,11 +1155,11 @@ Section was not enacted as part of the Federal Reserve Act which comprises this 
 
 1994—Pub. L. 103–325 inserted “the Comptroller of the Currency,” after “Federal Deposit Insurance Corporation,”.
 
-### § 251. Repealed. Pub. L. 104–208, div. A, title II, § 2224(a), Sept. 30, 1996, 110 Stat. 3009–415
+### § 251. Repealed. Pub. L. 104–208, div. A, title II, § 2224(a), Sept. 30, 1996, 110 Stat. 3009–415
 
-Section, Pub. L. 102–242, title IV, § 477, Dec. 19, 1991, 105 Stat. 2387; Pub. L. 102–550, title XVI, § 1606(i)(3), Oct. 28, 1992, 106 Stat. 4089, required Board of Governors of Federal Reserve System to collect and publish information on availability of credit to small businesses.
+Section, Pub. L. 102–242, title IV, § 477, Dec. 19, 1991, 105 Stat. 2387; Pub. L. 102–550, title XVI, § 1606(i)(3), Oct. 28, 1992, 106 Stat. 4089, required Board of Governors of Federal Reserve System to collect and publish information on availability of credit to small businesses.
 
-### § 252. Credit availability assessment
+### § 252. Credit availability assessment
 
 **(a) Study**
 
@@ -1187,7 +1187,7 @@ Not later than 12 months after September 30, 1996, and once every 60 months ther
 
 The studies required by this section shall not increase the regulatory or paperwork burden on regulated financial institutions, other sources of small business credit, or small businesses.
 
-(Pub. L. 104–208, div. A, title II, § 2227, Sept. 30, 1996, 110 Stat. 3009–417.)
+(Pub. L. 104–208, div. A, title II, § 2227, Sept. 30, 1996, 110 Stat. 3009–417.)
 
 **Editorial Notes**
 
@@ -1203,7 +1203,7 @@ Functions vested in Administrator of National Credit Union Administration transf
 
 **Study of Financial Modernization’s Effect on the Accessibility of Small Business and Farm Loans**
 
-Pub. L. 106–102, title I, § 109, Nov. 12, 1999, 113 Stat. 1362, provided that:
+Pub. L. 106–102, title I, § 109, Nov. 12, 1999, 113 Stat. 1362, provided that:
 
 > **“(a) Study.—** The Secretary of the Treasury, in consultation with the Federal banking agencies (as defined in section 3(z) of the Federal Deposit Insurance Act [12 U.S.C. 1813(z)]), shall conduct a study of the extent to which credit is being provided to and for small businesses and farms, as a result of this Act [see Tables for classification] and the amendments made by this Act.
 
@@ -1211,7 +1211,7 @@ Pub. L. 106–102, title I, § 109, Nov. 12, 1999, 113 Stat. 1362, provided th
 
 **Definitions**
 
-Pub. L. 104–208, div. A, title II, § 2001(c), Sept. 30, 1996, 110 Stat. 3009–397, provided that:
+Pub. L. 104–208, div. A, title II, § 2001(c), Sept. 30, 1996, 110 Stat. 3009–397, provided that:
 
 > “Except as otherwise specified in this title [see Tables for classification], the following definitions shall apply for purposes of this title:
 
@@ -1229,7 +1229,7 @@ Pub. L. 104–208, div. A, title II, § 2001(c), Sept. 30, 1996, 110 Stat. 300
 
 > **“(7) Insured depository institution.—** The term ‘insured depository institution’ has the same meaning as in section 3 of the Federal Deposit Insurance Act.”
 
-### § 253. Open data publication by the Board of Governors
+### § 253. Open data publication by the Board of Governors
 
 All public data assets published by the Board of Governors under this chapter, the Bank Holding Company Act of 1956 (12 U.S.C. 1841 et seq.), the Financial Stability Act of 2010 (12 U.S.C. 5311 et seq.), the Home Owners’ Loan Act (12 U.S.C. 1461 et seq.), the Payment, Clearing, and Settlement Supervision Act of 2010 (12 U.S.C. 5461 et seq.), or the Enhancing Financial Institution Safety and Soundness Act of 2010 (title III of Public Law 111–203) (or any provision of law amended by that Act) shall be—
 
@@ -1241,7 +1241,7 @@ All public data assets published by the Board of Governors under this chapter, t
 
 **(4)** accessible via application programming interface where appropriate.
 
-(Dec. 23, 1913, ch. 6, § 32, as added Pub. L. 117–263, div. E, title LVIII, § 5862, Dec. 23, 2022, 136 Stat. 3435.)
+(Dec. 23, 1913, ch. 6, § 32, as added Pub. L. 117–263, div. E, title LVIII, § 5862, Dec. 23, 2022, 136 Stat. 3435.)
 
 **Editorial Notes**
 
@@ -1249,13 +1249,13 @@ All public data assets published by the Board of Governors under this chapter, t
 
 This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
-The Financial Stability Act of 2010, referred to in text, is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to subchapter I (§ 5311 et seq.) of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Financial Stability Act of 2010, referred to in text, is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to subchapter I (§ 5311 et seq.) of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Home Owners’ Loan Act, referred to in text, is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see section 1461 of this title and Tables.
+The Home Owners’ Loan Act, referred to in text, is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see section 1461 of this title and Tables.
 
-The Payment, Clearing, and Settlement Supervision Act of 2010, referred to in text, is title VIII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1802, which is classified generally to subchapter IV (§ 5461 et seq.) of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Payment, Clearing, and Settlement Supervision Act of 2010, referred to in text, is title VIII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1802, which is classified generally to subchapter IV (§ 5461 et seq.) of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Enhancing Financial Institution Safety and Soundness Act of 2010, referred to in text, is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
@@ -1263,9 +1263,9 @@ The Enhancing Financial Institution Safety and Soundness Act of 2010, referred t
 
 **Rulemaking**
 
-Pub. L. 117–263, div. E, title LVIII, § 5863, Dec. 23, 2022, 136 Stat. 3435, provided that:
+Pub. L. 117–263, div. E, title LVIII, § 5863, Dec. 23, 2022, 136 Stat. 3435, provided that:
 
-> **“(a) In General.—** The Board of Governors of the Federal Reserve System shall issue rules to carry out the amendments made by this subtitle [subtitle F (§§ 5861–5864) of title LVIII of div. E of Pub. L. 117–263, enacting this section and amending sections 1467a, 1844, 5361, and 5468 of this title], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title.
+> **“(a) In General.—** The Board of Governors of the Federal Reserve System shall issue rules to carry out the amendments made by this subtitle [subtitle F (§§ 5861–5864) of title LVIII of div. E of Pub. L. 117–263, enacting this section and amending sections 1467a, 1844, 5361, and 5468 of this title], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title.
 
 > **“(b) Scaling of Regulatory Requirements; Minimizing Disruption.—** In issuing the rules required under subsection (a), the Board of Governors of the Federal Reserve System—
 
@@ -1275,15 +1275,15 @@ Pub. L. 117–263, div. E, title LVIII, § 5863, Dec. 23, 2022, 136 Stat. 3435
 
 **Rule of Construction Regarding No New Disclosure Requirements**
 
-Pub. L. 117–263, div. E, title LVIII, § 5864, Dec. 23, 2022, 136 Stat. 3436, provided that: “Nothing in this subtitle [subtitle F (§§ 5861–5864) of title LVIII of div. E of Pub. L. 117–263, enacting this section, amending sections 1467a, 1844, 5361, and 5468 of this title, and enacting provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the Board of Governors of the Federal Reserve System to collect or make publicly available additional information under any Act amended by this subtitle, any Act referenced in an amendment made by this subtitle, or any Act amended by an Act referenced in an amendment made by this subtitle, beyond information that was collected or made publicly available under any such provision of law, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. E, title LVIII, § 5864, Dec. 23, 2022, 136 Stat. 3436, provided that: “Nothing in this subtitle [subtitle F (§§ 5861–5864) of title LVIII of div. E of Pub. L. 117–263, enacting this section, amending sections 1467a, 1844, 5361, and 5468 of this title, and enacting provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the Board of Governors of the Federal Reserve System to collect or make publicly available additional information under any Act amended by this subtitle, any Act referenced in an amendment made by this subtitle, or any Act amended by an Act referenced in an amendment made by this subtitle, beyond information that was collected or made publicly available under any such provision of law, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
 
 ## SUBCHAPTER III—FEDERAL ADVISORY COUNCIL
 
-### § 261. Creation; membership; compensation; meetings; officers; procedure; quorum; vacancies
+### § 261. Creation; membership; compensation; meetings; officers; procedure; quorum; vacancies
 
 There is created a Federal Advisory Council, which shall consist of as many members as there are Federal reserve districts. Each Federal reserve bank by its board of directors shall annually select from its own Federal reserve district one member of said council, who shall receive such compensation and allowances as may be fixed by his board of directors subject to the approval of the Board of Governors of the Federal Reserve System. The meetings of said advisory council shall be held at Washington, District of Columbia, at least four times each year, and oftener if called by the Board of Governors of the Federal Reserve System. The council may in addition to the meetings above provided for hold such other meetings in Washington, District of Columbia, or elsewhere, as it may deem necessary, may select its own officers and adopt its own methods of procedure, and a majority of its members shall constitute a quorum for the transaction of business. Vacancies in the council shall be filled by the respective reserve banks, and members selected to fill vacancies shall serve for the unexpired term.
 
-(Dec. 23, 1913, ch. 6, § 12 (par.), 38 Stat. 263; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 12 (par.), 38 Stat. 263; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1297,11 +1297,11 @@ Section is comprised of first par. of section 12 of act Dec. 23, 1913. Second pa
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 262. Powers
+### § 262. Powers
 
 The Federal Advisory Council shall have power, by itself or through its officers, (1) to confer directly with the Board of Governors of the Federal Reserve System on general business conditions; (2) to make oral or written representations concerning matters within the jurisdiction of said board; (3) to call for information and to make recommendations in regard to discount rates, rediscount business, note issues, reserve conditions in the various districts, the purchase and sale of gold or securities by reserve banks, open-market operations by said banks, and the general affairs of the reserve banking system.
 
-(Dec. 23, 1913, ch. 6, § 12 (par.), 38 Stat. 263; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 12 (par.), 38 Stat. 263; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1317,7 +1317,7 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 ## SUBCHAPTER IV—FEDERAL OPEN MARKET COMMITTEE
 
-### § 263. Federal Open Market Committee; creation; membership; regulations governing open-market transactions
+### § 263. Federal Open Market Committee; creation; membership; regulations governing open-market transactions
 
 **(a)** There is hereby created a Federal Open Market Committee (hereinafter referred to as the “Committee”), which shall consist of the members of the Board of Governors of the Federal Reserve System and five representatives of the Federal Reserve banks to be selected as hereinafter provided. Such representatives shall be presidents or first vice presidents of Federal Reserve banks and, beginning with the election for the term commencing March 1, 1943, shall be elected annually as follows: One by the board of directors of the Federal Reserve Bank of New York, one by the boards of directors of the Federal Reserve Banks of Boston, Philadelphia, and Richmond, one by the boards of directors of the Federal Reserve Banks of Cleveland and Chicago, one by the boards of directors of the Federal Reserve Banks of Atlanta, Dallas, and St. Louis, and one by the boards of directors of the Federal Reserve Banks of Minneapolis, Kansas City, and San Francisco. In such elections each board of directors shall have one vote; and the details of such elections may be governed by regulations prescribed by the committee, which may be amended from time to time. An alternate to serve in the absence of each such representative shall likewise be a president or first vice president of a Federal Reserve bank and shall be elected annually in the same manner. The meetings of said Committee shall be held at Washington, District of Columbia, at least four times each year upon the call of the chairman of the Board of Governors of the Federal Reserve System or at the request of any three members of the Committee.
 
@@ -1325,7 +1325,7 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 **(c)** The time, character, and volume of all purchases and sales of paper described in sections 348a and 353 to 359 of this title as eligible for open-market operations shall be governed with a view to accommodating commerce and business and with regard to their bearing upon the general credit situation of the country.
 
-(Dec. 23, 1913, ch. 6, § 12A, as added June 16, 1933, ch. 89, § 8, 48 Stat. 168; amended Aug. 23, 1935, ch. 614, title II, § 205, 49 Stat. 705; July 7, 1942, ch. 488, § 1, 56 Stat. 647.)
+(Dec. 23, 1913, ch. 6, § 12A, as added June 16, 1933, ch. 89, § 8, 48 Stat. 168; amended Aug. 23, 1935, ch. 614, title II, § 205, 49 Stat. 705; July 7, 1942, ch. 488, § 1, 56 Stat. 647.)
 
 **Editorial Notes**
 
@@ -1337,19 +1337,19 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 ## SUBCHAPTER V—FEDERAL DEPOSIT INSURANCE CORPORATION
 
-### § 264. Transferred
+### § 264. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Dec. 23, 1913, ch. 6, § 12B, as added June 16, 1933, ch. 89, § 8, 48 Stat. 168; amended June 16, 1934, ch. 546, § 1 (1)–(10), 48 Stat. 969, 970; June 28, 1935, ch. 335, 49 Stat. 435; Aug. 23, 1935, ch. 614, title I, § 101, 49 Stat. 684; Apr. 21, 1936, ch. 244, 49 Stat. 1237; May 25, 1938, ch. 276, 52 Stat. 442; June 16, 1938, ch. 489, 52 Stat. 767; June 20, 1939, ch. 214, § 2, 53 Stat. 842; Apr. 13, 1943, ch. 62, § 1, 57 Stat. 65; Aug. 5, 1947, ch. 492, §§ 2, 4, 61 Stat. 773; June 25, 1948, ch. 645, § 21, 62 Stat. 862; Oct. 15, 1949, ch. 695, § 4, 63 Stat. 880; Aug. 17, 1950, ch. 729, §§ 5–7, 64 Stat. 457, relating to the Federal Deposit Insurance Corporation, was withdrawn from the Federal Reserve Act and made a separate act to be known as the Federal Deposit Insurance Act, by section 1 of act Sept. 21, 1950, ch. 967, 64 Stat. 873. The Federal Deposit Insurance Act is classified to chapter 16 (§ 1811 et seq.) of this title.
+Section, act Dec. 23, 1913, ch. 6, § 12B, as added June 16, 1933, ch. 89, § 8, 48 Stat. 168; amended June 16, 1934, ch. 546, § 1 (1)–(10), 48 Stat. 969, 970; June 28, 1935, ch. 335, 49 Stat. 435; Aug. 23, 1935, ch. 614, title I, § 101, 49 Stat. 684; Apr. 21, 1936, ch. 244, 49 Stat. 1237; May 25, 1938, ch. 276, 52 Stat. 442; June 16, 1938, ch. 489, 52 Stat. 767; June 20, 1939, ch. 214, § 2, 53 Stat. 842; Apr. 13, 1943, ch. 62, § 1, 57 Stat. 65; Aug. 5, 1947, ch. 492, §§ 2, 4, 61 Stat. 773; June 25, 1948, ch. 645, § 21, 62 Stat. 862; Oct. 15, 1949, ch. 695, § 4, 63 Stat. 880; Aug. 17, 1950, ch. 729, §§ 5–7, 64 Stat. 457, relating to the Federal Deposit Insurance Corporation, was withdrawn from the Federal Reserve Act and made a separate act to be known as the Federal Deposit Insurance Act, by section 1 of act Sept. 21, 1950, ch. 967, 64 Stat. 873. The Federal Deposit Insurance Act is classified to chapter 16 (§ 1811 et seq.) of this title.
 
-### § 265. Insured banks as depositaries of public money; duties; security; discrimination between banks prohibited; repeal of inconsistent laws
+### § 265. Insured banks as depositaries of public money; duties; security; discrimination between banks prohibited; repeal of inconsistent laws
 
 All insured banks designated for that purpose by the Secretary of the Treasury shall be depositaries of public money of the United States (including, without being limited to, revenues and funds of the United States, and any funds the deposit of which is subject to the control or regulation of the United States or any of its officers, agents, or employees, and Postal Savings funds), and the Secretary is authorized to deposit public money in such depositaries, under such regulations as may be prescribed by the Secretary; and they may also be employed as financial agents of the Government; and they shall perform all such reasonable duties, as depositaries of public money and financial agents of the Government as may be required of them. The Secretary of the Treasury shall require of the insured banks thus designated satisfactory security by the deposit of United States bonds or otherwise, for the safekeeping and prompt payment of public money deposited with them and for the faithful performance of their duties as financial agents of the Government: *Provided*, That no such security shall be required for the safekeeping and prompt payment of such parts of the deposits of the public money in such banks as are insured deposits and each officer, employee, or agent of the United States having official custody of public funds and lawfully depositing the same in an insured bank shall, for the purpose of determining the amount of the insured deposits, be deemed a depositor in such custodial capacity separate and distinct from any other officer, employee, or agent of the United States having official custody of public funds and lawfully depositing the same in the same insured bank in custodial capacity. Notwithstanding any other provision of law, no department, board, agency, instrumentality, officer, employee, or agent of the United States shall issue or permit to continue in effect any regulations, rulings, or instructions or enter into or approve any contracts or perform any other acts having to do with the deposit, disbursement, or expenditure of public funds, or the deposit, custody, or advance of funds subject to the control of the United States as trustee or otherwise which shall discriminate against or prefer national banking associations, State banks members of the Federal Reserve System, or insured banks not members of the Federal Reserve System, by class, or which shall require those enjoying the benefits, directly or indirectly, of disbursed public funds so to discriminate. All Acts or parts thereof in conflict herewith are repealed. The terms “insured bank” and “insured deposit” as used in this section shall be construed according to the definitions of such terms in section 1813 of this title.
 
-(June 11, 1942, ch. 404, § 10, 56 Stat. 356; Sept. 3, 1954, ch. 1263, § 26, 68 Stat. 1235.)
+(June 11, 1942, ch. 404, § 10, 56 Stat. 356; Sept. 3, 1954, ch. 1263, § 26, 68 Stat. 1235.)
 
 **Editorial Notes**
 
@@ -1361,11 +1361,11 @@ Section was formerly classified to section 1110 of the former Appendix to Title 
 
 1954—Act Sept. 3, 1954, substituted “section 1813” for “section 264” in last sentence.
 
-### § 266. State-chartered banks and other institutions as depositaries of public money; fiscal agents; duties
+### § 266. State-chartered banks and other institutions as depositaries of public money; fiscal agents; duties
 
 Banks, savings banks, and savings and loan, building and loan, homestead associations (including cooperative banks), and credit unions created under the laws of any State and the deposits or accounts of which are insured by a State or agency thereof or corporation chartered pursuant to the laws of any State may be depositaries of public money and may be employed as fiscal agents of the United States. The Secretary of the Treasury is authorized to deposit public money in any such institution, and shall prescribe such regulations as may be necessary to enable such institutions to become depositaries of public money and fiscal agents of the United States. Each such institution shall perform all such reasonable duties as depositary of public money and fiscal agent of the United States as may be required of it including services in connection with the collection of taxes and other obligations owed the United States.
 
-(Pub. L. 95–147, § 2(d), Oct. 28, 1977, 91 Stat. 1228.)
+(Pub. L. 95–147, § 2(d), Oct. 28, 1977, 91 Stat. 1228.)
 
 **Editorial Notes**
 
@@ -1375,11 +1375,11 @@ Section was not enacted as part of the Federal Reserve Act, which comprises this
 
 ## SUBCHAPTER VI—CAPITAL AND STOCK OF FEDERAL RESERVE BANKS; DIVIDENDS AND EARNINGS
 
-### § 281. Capital
+### § 281. Capital
 
 No Federal reserve bank shall commence business with a subscribed capital less than $4,000,000.
 
-(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 253.)
+(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 253.)
 
 **Editorial Notes**
 
@@ -1387,11 +1387,11 @@ No Federal reserve bank shall commence business with a subscribed capital less t
 
 Section is comprised of part of the thirteenth par. of section 2 of act Dec. 23, 1913. Some of the other provisions of the thirteenth par. are classified to section 224 of this title, and some were not included in the Code. For classification of other pars. of section 2 of this Act, see Codification note set out under section 222 of this title.
 
-### § 282. Subscription to capital stock by national banking association
+### § 282. Subscription to capital stock by national banking association
 
 Every national banking association within each Federal reserve district shall be required to subscribe to the capital stock of the Federal reserve bank for that district in a sum equal to six per centum of the paid-up capital stock and surplus of such bank, one-sixth of the subscription to be payable on call of the Board of Governors of the Federal Reserve System, one-sixth within three months and one-sixth within six months thereafter, and the remainder of the subscription, or any part thereof, shall be subject to call when deemed necessary by the Board, said payments to be in gold or gold certificates.
 
-(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 252; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 252; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1405,11 +1405,11 @@ Section is based on part of the third par. of section 2 of act Dec. 23, 1913. Th
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 283. Public subscription to capital stock
+### § 283. Public subscription to capital stock
 
 No individual, copartnership, or corporation other than a member bank of its district shall be permitted to subscribe for or to hold at any time more than $25,000 par value of stock in any Federal reserve bank. Such stock shall be known as public stock and may be transferred on the books of the Federal reserve bank by the chairman of the board of directors of such bank.
 
-(Dec. 23, 1913, ch. 6, § 2 (par.), 38 Stat. 253.)
+(Dec. 23, 1913, ch. 6, § 2 (par.), 38 Stat. 253.)
 
 **Editorial Notes**
 
@@ -1417,21 +1417,21 @@ No individual, copartnership, or corporation other than a member bank of its dis
 
 Section is comprised of the ninth par. of section 2 of act Dec. 23, 1913. For classification of other pars. of section 2 of this Act, see Codification note set out under section 222 of this title.
 
-### § 284. Omitted
+### § 284. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 253, was omitted as obsolete pursuant to a communication from the Board of Governors of the Federal Reserve System dated Mar. 7, 1941, which stated “As originally enacted the Federal Reserve Act provided for a Reserve Bank Organization Committee to have charge of the initial steps in organizing the Federal Reserve System and this Committee was authorized to allot Federal Reserve Bank stock to the United States in the event that subscriptions to such stock by banks and by the public were inadequate. However, subscriptions by member banks were adequate and there was no necessity or authority for the allocation of any stock to the United States. Accordingly, [this section] is now of no practical effect, and may be regarded as obsolete.”
+Section, act Dec. 23, 1913, ch. 6, § 2 (part), 38 Stat. 253, was omitted as obsolete pursuant to a communication from the Board of Governors of the Federal Reserve System dated Mar. 7, 1941, which stated “As originally enacted the Federal Reserve Act provided for a Reserve Bank Organization Committee to have charge of the initial steps in organizing the Federal Reserve System and this Committee was authorized to allot Federal Reserve Bank stock to the United States in the event that subscriptions to such stock by banks and by the public were inadequate. However, subscriptions by member banks were adequate and there was no necessity or authority for the allocation of any stock to the United States. Accordingly, [this section] is now of no practical effect, and may be regarded as obsolete.”
 
 This section was based on part of the tenth par. of section 2 of act Dec. 23, 1913. The rest of the tenth par. was not included in the Code. For classification of other pars. of section 2 of this Act, see Codification note set out under section 222 of this title.
 
-### § 285. Nonvoting stock
+### § 285. Nonvoting stock
 
 Stock not held by member banks shall not be entitled to voting power.
 
-(Dec. 23, 1913, ch. 6, § 2 (par.), 38 Stat. 253.)
+(Dec. 23, 1913, ch. 6, § 2 (par.), 38 Stat. 253.)
 
 **Editorial Notes**
 
@@ -1439,11 +1439,11 @@ Stock not held by member banks shall not be entitled to voting power.
 
 Section is comprised of the eleventh par. of section 2 of act Dec. 23, 1913. For classification of other pars. of section 2 of this Act, see Codification note set out under section 222 of this title.
 
-### § 286. Transfers of stock; rules and regulations
+### § 286. Transfers of stock; rules and regulations
 
 The Board of Governors of the Federal Reserve System is empowered to adopt and promulgate rules and regulations governing the transfers of said stock.
 
-(Dec. 23, 1913, ch. 6, § 2 (par.), 38 Stat. 253; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 2 (par.), 38 Stat. 253; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1457,17 +1457,17 @@ Section is based on the twelfth par. of section 2 of act Dec. 23, 1913. For clas
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 287. Value of shares of stock; increase and decrease of stock; member banks as shareholders; surrender of shares
+### § 287. Value of shares of stock; increase and decrease of stock; member banks as shareholders; surrender of shares
 
 The capital stock of each Federal reserve bank shall be divided into shares of $100 each. The outstanding capital stock shall be increased from time to time as member banks increase their capital stock and surplus or as additional banks become members, and may be decreased as member banks reduce their capital stock or surplus or cease to be members. Shares of the capital stock of Federal reserve banks owned by member banks shall not be transferred or hypothecated. When a member bank increases its capital stock or surplus, it shall thereupon subscribe for an additional amount of capital stock of the Federal reserve bank of its district equal to 6 per centum of the said increase, one-half of said subscription to be paid in the manner hereinbefore provided for original subscription, and one-half subject to call of the Board of Governors of the Federal Reserve System. A bank applying for stock in a Federal reserve bank at any time after the organization thereof must subscribe for an amount of the capital stock of the Federal reserve bank equal to 6 per centum of the paid-up capital stock and surplus of said applicant bank, paying therefor its par value plus one-half of 1 per centum a month from the period of the last dividend. When a member bank reduces its capital stock or surplus it shall surrender a proportionate amount of its holdings in the capital stock of said Federal Reserve bank. Any member bank which holds capital stock of a Federal Reserve bank in excess of the amount required on the basis of 6 per centum of its paid-up capital stock and surplus shall surrender such excess stock. When a member bank voluntarily liquidates it shall surrender all of its holdings of the capital stock of said Federal Reserve bank and be released from its stock subscription not previously called. In any such case the shares surrendered shall be canceled and the member bank shall receive in payment therefor, under regulations to be prescribed by the Board of Governors of the Federal Reserve System, a sum equal to its cash-paid subscriptions on the shares surrendered and one-half of 1 per centum a month from the period of the last dividend not to exceed the book value thereof, less any liability of such member bank to the Federal Reserve bank.
 
-(Dec. 23, 1913, ch. 6, § 5, 38 Stat. 257; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 319(a), 49 Stat. 704, 713.)
+(Dec. 23, 1913, ch. 6, § 5, 38 Stat. 257; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 319(a), 49 Stat. 704, 713.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1935—Act Aug. 23, 1935, § 319(a), amended last four sentences.
+1935—Act Aug. 23, 1935, § 319(a), amended last four sentences.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1475,19 +1475,19 @@ The capital stock of each Federal reserve bank shall be divided into shares of $
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 288. Cancellation of stock held by member bank on insolvency or discontinuance of banking operations for sixty days; repayment of cash-paid subscriptions
+### § 288. Cancellation of stock held by member bank on insolvency or discontinuance of banking operations for sixty days; repayment of cash-paid subscriptions
 
 If any member bank shall be declared insolvent and a receiver appointed therefor, the stock held by it in said Federal reserve bank shall be canceled, without impairment of its liability, and all cash-paid subscriptions on said stock, with one-half of 1 per centum per month from the period of last dividend, if earned, not to exceed the book value thereof, shall be first applied to all debts of the insolvent member bank to the Federal reserve bank, and the balance, if any, shall be paid to the receiver of the insolvent bank.
 
 If any national bank which has not gone into liquidation as provided in section 181 of this title, and for which a receiver has not already been appointed for other lawful cause, shall discontinue its banking operations for a period of sixty days the Comptroller of the Currency may, if he deems it advisable, appoint a receiver for such bank. The stock held by the said national bank in the Federal reserve bank of its district shall thereupon be canceled and said national bank shall receive in payment therefor, under regulations to be prescribed by the Board of Governors of the Federal Reserve System, a sum equal to its cash-paid subscriptions on the shares canceled and one-half of 1 per centum a month from the period of the last dividend, if earned, not to exceed the book value thereof, less any liability of such national bank to the Federal reserve bank.
 
-(Dec. 23, 1913, ch. 6, § 6, 38 Stat. 258; Apr. 23, 1930, ch. 207, § 1, 46 Stat. 250; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 319(b), 49 Stat. 704, 713.)
+(Dec. 23, 1913, ch. 6, § 6, 38 Stat. 258; Apr. 23, 1930, ch. 207, § 1, 46 Stat. 250; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 319(b), 49 Stat. 704, 713.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1935—Act Aug. 23, 1935, § 319(b), struck out provision requiring execution of certificate of reduction of capital stock.
+1935—Act Aug. 23, 1935, § 319(b), struck out provision requiring execution of certificate of reduction of capital stock.
 
 1930—Act Apr. 23, 1930, among other changes, added second par.
 
@@ -1503,7 +1503,7 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 289. Dividends and surplus funds of reserve banks; transfer for fiscal year 2000
+### § 289. Dividends and surplus funds of reserve banks; transfer for fiscal year 2000
 
 **(a) Dividends and surplus funds of reserve banks**
 
@@ -1541,7 +1541,7 @@ The aggregate amount of the surplus funds of the Federal reserve banks may not e
 
 Any amounts of the surplus funds of the Federal reserve banks that exceed, or would exceed, the limitation under subparagraph (A) shall be transferred to the Board of Governors of the Federal Reserve System for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.
 
-**(b) 1 [footnote: 1 See Codification note below.] Transfer for fiscal year 2000**
+**(b) 1 [footnote: 1 See Codification note below.] Transfer for fiscal year 2000**
 
 **(1) In general**
 
@@ -1555,13 +1555,13 @@ Of the total amount required to be paid by the Federal reserve banks under parag
 
 During fiscal year 2000, no Federal reserve bank may replenish such bank’s surplus fund by the amount of any transfer by such bank under paragraph (1).
 
-(Dec. 23, 1913, ch. 6, § 7(a), (b), 38 Stat. 258; Mar. 3, 1919, ch. 101, § 1, 40 Stat. 1314; June 16, 1933, ch. 89, § 4, 48 Stat. 163; Pub. L. 103–66, title III, § 3002(a), Aug. 10, 1993, 107 Stat. 337; Pub. L. 103–325, title VI, § 602(d), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–113, div. B, § 1000(a)(5) [title III, § 302], Nov. 29, 1999, 113 Stat. 1536, 1501A–304; Pub. L. 114–94, div. C, title XXXII, §§ 32202, 32203(a), Dec. 4, 2015, 129 Stat. 1739; Pub. L. 115–123, div. C, title II, § 30205, Feb. 9, 2018, 132 Stat. 127; Pub. L. 115–174, title II, § 217, May 24, 2018, 132 Stat. 1326.)
+(Dec. 23, 1913, ch. 6, § 7(a), (b), 38 Stat. 258; Mar. 3, 1919, ch. 101, § 1, 40 Stat. 1314; June 16, 1933, ch. 89, § 4, 48 Stat. 163; Pub. L. 103–66, title III, § 3002(a), Aug. 10, 1993, 107 Stat. 337; Pub. L. 103–325, title VI, § 602(d), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–113, div. B, § 1000(a)(5) [title III, § 302], Nov. 29, 1999, 113 Stat. 1536, 1501A–304; Pub. L. 114–94, div. C, title XXXII, §§ 32202, 32203(a), Dec. 4, 2015, 129 Stat. 1739; Pub. L. 115–123, div. C, title II, § 30205, Feb. 9, 2018, 132 Stat. 127; Pub. L. 115–174, title II, § 217, May 24, 2018, 132 Stat. 1326.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section is comprised of subsec. (a) [formerly first undesignated par.] of section 7 of act Dec. 23, 1913, and subsec. (b) [enacted by Pub. L. 106–113, div. B, § 1000(a)(5) [title III, § 302(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–304] of section 7. Another subsec. (b) of section 7 is classified to section 290 of this title. Subsec. (c) of section 7 is classified to section 531 of this title.
+Section is comprised of subsec. (a) [formerly first undesignated par.] of section 7 of act Dec. 23, 1913, and subsec. (b) [enacted by Pub. L. 106–113, div. B, § 1000(a)(5) [title III, § 302(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–304] of section 7. Another subsec. (b) of section 7 is classified to section 290 of this title. Subsec. (c) of section 7 is classified to section 531 of this title.
 
 **Amendments**
 
@@ -1569,19 +1569,19 @@ Section is comprised of subsec. (a) [formerly first undesignated par.] of sectio
 
 Pub. L. 115–123 substituted “$7,500,000,000” for “$10,000,000,000”.
 
-2015—Subsec. (a)(1)(A). Pub. L. 114–94, § 32203(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend of 6 percent on paid-in capital stock.”
+2015—Subsec. (a)(1)(A). Pub. L. 114–94, § 32203(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: “After all necessary expenses of a Federal reserve bank have been paid or provided for, the stockholders of the bank shall be entitled to receive an annual dividend of 6 percent on paid-in capital stock.”
 
-Subsec. (a)(1)(C). Pub. L. 114–94, § 32203(a)(2), added subpar. (C).
+Subsec. (a)(1)(C). Pub. L. 114–94, § 32203(a)(2), added subpar. (C).
 
-Subsec. (a)(3). Pub. L. 114–94, § 32202, added par. (3).
+Subsec. (a)(3). Pub. L. 114–94, § 32202, added par. (3).
 
-1999—Subsec. (a)(3). Pub. L. 106–113, § 1000(a)(5) [title III, § 302(1)], struck out heading and text of par. (3). Text read as follows: “During fiscal years 1997 and 1998, any amount in the surplus fund of any Federal reserve bank in excess of the amount equal to 3 percent of the total paid-in capital and surplus of the member banks of such bank shall be transferred to the Board for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.”
+1999—Subsec. (a)(3). Pub. L. 106–113, § 1000(a)(5) [title III, § 302(1)], struck out heading and text of par. (3). Text read as follows: “During fiscal years 1997 and 1998, any amount in the surplus fund of any Federal reserve bank in excess of the amount equal to 3 percent of the total paid-in capital and surplus of the member banks of such bank shall be transferred to the Board for transfer to the Secretary of the Treasury for deposit in the general fund of the Treasury.”
 
-Subsec. (b). Pub. L. 106–113, § 1000(a)(5) [title III, § 302(2)], added subsec. (b).
+Subsec. (b). Pub. L. 106–113, § 1000(a)(5) [title III, § 302(2)], added subsec. (b).
 
-1994—Par. (1)(B). Pub. L. 103–325, § 602(d)(1), inserted “(A)” after “subparagraph”.
+1994—Par. (1)(B). Pub. L. 103–325, § 602(d)(1), inserted “(A)” after “subparagraph”.
 
-Par. (2). Pub. L. 103–325, § 602(d)(2), substituted “paragraph (1)(A)” for “subparagraph (A)”.
+Par. (2). Pub. L. 103–325, § 602(d)(2), substituted “paragraph (1)(A)” for “subparagraph (A)”.
 
 1993—Pub. L. 103–66 inserted section catchline and amended section generally. Prior to amendment, section read as follows: “After all necessary expenses of a Federal reserve bank shall have been paid or provided for, the stockholders shall be entitled to receive an annual dividend of 6 per centum on the paid-in capital stock, which dividend shall be cumulative. After the aforesaid dividend claims have been fully met, the net earnings shall be paid into the surplus fund of the Federal reserve bank.”
 
@@ -1591,31 +1591,31 @@ Par. (2). Pub. L. 103–325, § 602(d)(2), substituted “paragraph (1)(A)” 
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–94, div. C, title XXXII, § 32203(b), Dec. 4, 2015, 129 Stat. 1740, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2016.”
+Pub. L. 114–94, div. C, title XXXII, § 32203(b), Dec. 4, 2015, 129 Stat. 1740, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on January 1, 2016.”
 
 **Effective Date of 1933 Amendment**
 
-Act June 16, 1933, ch. 89, § 4, 48 Stat. 163, provided that the amendment made by that section is effective July 1, 1932.
+Act June 16, 1933, ch. 89, § 4, 48 Stat. 163, provided that the amendment made by that section is effective July 1, 1932.
 
 **Discretionary Surplus Funds**
 
-Pub. L. 116–283, div. F, title LXV, § 6510, Jan. 1, 2021, 134 Stat. 4633, provided that: “The dollar amount specified under section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is reduced by $40,000,000.”
+Pub. L. 116–283, div. F, title LXV, § 6510, Jan. 1, 2021, 134 Stat. 4633, provided that: “The dollar amount specified under section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is reduced by $40,000,000.”
 
 **Additional Transfers for Fiscal Years 1997 and 1998**
 
-Pub. L. 103–66, title III, § 3002(b), Aug. 10, 1993, 107 Stat. 337, provided that in addition to the amounts required to be transferred from the surplus funds of the Federal reserve banks pursuant to former section 289(a)(3) of this title, the Federal reserve banks should transfer $106,000,000 in fiscal year 1997 and $107,000,000 in fiscal year 1998 from their surplus funds to the Treasury for deposit in the general fund, and prohibited the banks from replenishing their surplus funds by the amount of such transfer.
+Pub. L. 103–66, title III, § 3002(b), Aug. 10, 1993, 107 Stat. 337, provided that in addition to the amounts required to be transferred from the surplus funds of the Federal reserve banks pursuant to former section 289(a)(3) of this title, the Federal reserve banks should transfer $106,000,000 in fiscal year 1997 and $107,000,000 in fiscal year 1998 from their surplus funds to the Treasury for deposit in the general fund, and prohibited the banks from replenishing their surplus funds by the amount of such transfer.
 
-### § 290. Use of earnings transferred to the Treasury
+### § 290. Use of earnings transferred to the Treasury
 
 The net earnings derived by the United States from Federal reserve banks shall, in the discretion of the Secretary, be used to supplement the gold reserve held against outstanding United States notes, or shall be applied to the reduction of the outstanding bonded indebtedness of the United States under regulations to be prescribed by the Secretary of the Treasury. Should a Federal reserve bank be dissolved or go into liquidation, any surplus remaining, after the payment of all debts, dividend requirements as hereinbefore provided, and the par value of the stock, shall be paid to and become the property of the United States and shall be similarly applied.
 
-(Dec. 23, 1913, ch. 6, § 7(b), 38 Stat. 258; Pub. L. 103–66, title III, § 3002(c)(1), Aug. 10, 1993, 107 Stat. 337.)
+(Dec. 23, 1913, ch. 6, § 7(b), 38 Stat. 258; Pub. L. 103–66, title III, § 3002(c)(1), Aug. 10, 1993, 107 Stat. 337.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section is comprised of subsec. (b) [formerly second undesignated par.] of section 7 of act Dec. 23, 1913. Subsec. (a) and another subsec. (b) [enacted by Pub. L. 106–113, div. B, § 1000(a)(5) [title III, § 302(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–304] of section 7 are classified to section 289 of this title. Subsec. (c) of section 7 is classified to section 531 of this title.
+Section is comprised of subsec. (b) [formerly second undesignated par.] of section 7 of act Dec. 23, 1913. Subsec. (a) and another subsec. (b) [enacted by Pub. L. 106–113, div. B, § 1000(a)(5) [title III, § 302(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–304] of section 7 are classified to section 289 of this title. Subsec. (c) of section 7 is classified to section 531 of this title.
 
 **Amendments**
 
@@ -1623,7 +1623,7 @@ Section is comprised of subsec. (b) [formerly second undesignated par.] of secti
 
 ## SUBCHAPTER VII—DIRECTORS OF FEDERAL RESERVE BANKS; RESERVE AGENTS AND ASSISTANTS
 
-### § 301. Powers and duties of board of directors; suspension of member bank for undue use of bank credit
+### § 301. Powers and duties of board of directors; suspension of member bank for undue use of bank credit
 
 Every Federal reserve bank shall be conducted under the supervision and control of a board of directors.
 
@@ -1631,7 +1631,7 @@ The board of directors shall perform the duties usually appertaining to the offi
 
 Said board of directors shall administer the affairs of said bank fairly and impartially and without discrimination in favor of or against any member bank or banks and may, subject to the provisions of law and the orders of the Board of Governors of the Federal Reserve System, extend to each member bank such discounts, advancements, and accommodations as may be safely and reasonably made with due regard for the claims and demands of other member banks, the maintenance of sound credit conditions, and the accommodation of commerce, industry, and agriculture. The Board of Governors of the Federal Reserve System may prescribe regulations further defining within the limitations of this chapter the conditions under which discounts, advancements, and the accommodations may be extended to member banks. Each Federal reserve bank shall keep itself informed of the general character and amount of the loans and investments of its member banks with a view to ascertaining whether undue use is being made of bank credit for the speculative carrying of or trading in securities, real estate, or commodities, or for any other purpose inconsistent with the maintenance of sound credit conditions; and, in determining whether to grant or refuse advances, rediscounts, or other credit accommodations, the Federal reserve bank shall give consideration to such information. The chairman of the Federal reserve bank shall report to the Board of Governors of the Federal Reserve System any such undue use of bank credit by any member bank, together with his recommendation. Whenever, in the judgment of the Board of Governors of the Federal Reserve System, any member bank is making such undue use of bank credit, the Board may, in its discretion, after reasonable notice and an opportunity for a hearing, suspend such bank from the use of the credit facilities of the Federal Reserve System and may terminate such suspension or may renew it from time to time.
 
-(Dec. 23, 1913, ch. 6, § 4 (pars.), 38 Stat. 255; June 16, 1933, ch. 89, § 3(a), 48 Stat. 163; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 4 (pars.), 38 Stat. 255; June 16, 1933, ch. 89, § 3(a), 48 Stat. 163; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1645,7 +1645,7 @@ Section is comprised of pars. 6 to 8 of section 4 of act Dec. 23, 1913.
 
 Pars. 1 to 3 and 25 of section 4 were omitted from the code as executed.
 
-Pars. 4 and 5, 9 to 12, 13 to 15, 16 to 21, 22, 24, and 26 of section 4, and par. 23 of section 4 as added June 21, 1917, ch. 32, § 2, 40, Stat. 232, are classified to sections 341, 302, 303, 304, 305, 307, 308, and 306, respectively, of this title.
+Pars. 4 and 5, 9 to 12, 13 to 15, 16 to 21, 22, 24, and 26 of section 4, and par. 23 of section 4 as added June 21, 1917, ch. 32, § 2, 40, Stat. 232, are classified to sections 341, 302, 303, 304, 305, 307, 308, and 306, respectively, of this title.
 
 **Amendments**
 
@@ -1657,7 +1657,7 @@ Pars. 4 and 5, 9 to 12, 13 to 15, 16 to 21, 22, 24, and 26 of section 4, and par
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 302. Number of members; classes
+### § 302. Number of members; classes
 
 Such board of directors shall be selected as hereinafter specified and shall consist of nine members, holding office for three years, and divided into three classes, designated as classes A, B, and C.
 
@@ -1667,7 +1667,7 @@ Class B shall consist of three members, who shall represent the public and shall
 
 Class C shall consist of three members who shall be designated by the Board of Governors of the Federal Reserve System. They shall be elected to represent the public, without discrimination on the basis of race, creed, color, sex, or national origin, and with due but not exclusive consideration to the interests of agriculture, commerce, industry, services, labor, and consumers.
 
-(Dec. 23, 1913, ch. 6, § 4 (pars.), 38 Stat. 255; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 95–188, title II, § 202, Nov. 16, 1977, 91 Stat. 1387.)
+(Dec. 23, 1913, ch. 6, § 4 (pars.), 38 Stat. 255; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 95–188, title II, § 202, Nov. 16, 1977, 91 Stat. 1387.)
 
 **Editorial Notes**
 
@@ -1681,11 +1681,11 @@ Another section 202 of Pub. L. 95–188 enacted section 225a of this title.
 
 **Amendments**
 
-1977—Second par. Pub. L. 95–188, § 202(a), required Class A members to be chosen without discrimination on the basis of race, creed, color, sex or national origin.
+1977—Second par. Pub. L. 95–188, § 202(a), required Class A members to be chosen without discrimination on the basis of race, creed, color, sex or national origin.
 
-Third par. Pub. L. 95–188, § 202(b), substituted requirement that Class B members represent the public and be elected without discrimination on the basis of race, creed, color, sex, or national origin, and with due but not exclusive consideration to the interests of agriculture, commerce, industry, services, labor, and consumers for prior requirement that such Class B members, at the time of their election, be actively engaged in their district in commerce, agriculture or some other industrial pursuit.
+Third par. Pub. L. 95–188, § 202(b), substituted requirement that Class B members represent the public and be elected without discrimination on the basis of race, creed, color, sex, or national origin, and with due but not exclusive consideration to the interests of agriculture, commerce, industry, services, labor, and consumers for prior requirement that such Class B members, at the time of their election, be actively engaged in their district in commerce, agriculture or some other industrial pursuit.
 
-Fourth par. Pub. L. 95–188, § 202(c), required Class C members to be elected to represent the public, without discrimination on the basis of race, creed, color, sex, or national origin, and with due but not exclusive consideration to the interests of agriculture, commerce, industry, services, labor, and consumers.
+Fourth par. Pub. L. 95–188, § 202(c), required Class C members to be elected to represent the public, without discrimination on the basis of race, creed, color, sex, or national origin, and with due but not exclusive consideration to the interests of agriculture, commerce, industry, services, labor, and consumers.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1693,7 +1693,7 @@ Fourth par. Pub. L. 95–188, § 202(c), required Class C members to be electe
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 303. Qualifications and disabilities
+### § 303. Qualifications and disabilities
 
 No Senator or Representative in Congress shall be a member of the Board of Governors of the Federal Reserve System or an officer or a director of a Federal reserve bank.
 
@@ -1701,7 +1701,7 @@ No director of class B shall be an officer, director, or employee of any bank.
 
 No director of class C shall be an officer, director, employee, or stockholder of any bank.
 
-(Dec. 23, 1913, ch. 6, § 4 (pars.), 38 Stat. 255; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 4 (pars.), 38 Stat. 255; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1715,7 +1715,7 @@ Section is comprised of pars. 13 to 15 of section 4 of act Dec. 23, 1913. For cl
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 304. Class A and class B directors; selection
+### § 304. Class A and class B directors; selection
 
 Directors of class A and class B shall be chosen in the following manner: The Board of Governors of the Federal Reserve System shall classify the member banks of the district into three general groups or divisions designating each group by number. Each group shall consist as nearly as may be of banks of similar capitalization. Each member bank shall be permitted to nominate to the chairman of the board of directors of the Federal reserve bank of the district one candidate for director of class A and one candidate for director of class B. The candidates so nominated shall be listed by the chairman, indicating by whom nominated, and a copy of said list shall, within fifteen days after its completion, be furnished by the chairman to each member bank. Each member bank by a resolution of the board or by an amendment to its bylaws shall authorize its president, cashier, or some other officer to cast the vote of the member bank in the elections of class A and class B directors: *Provided*, That whenever any member banks within the same Federal Reserve district are subsidiaries of the same bank holding company within the meaning of the Bank Holding Company Act of 1956 [12 U.S.C. 1841 et seq.], participation in any such nomination or election by such member banks, including such bank holding company if it is also a member bank, shall be confined to one of such banks, which may be designated for the purpose by such holding company.
 
@@ -1725,13 +1725,13 @@ Any person who is an officer or director of more than one member bank shall not 
 
 Any candidate having a majority of all votes cast in the column of first choice shall be declared elected. If no candidate have a majority of all the votes in the first column, then there shall be added together the votes cast by the electors for such candidates in the second column and the votes cast for the several candidates in the first column. The candidate then having a majority of the electors voting and the highest number of combined votes shall be declared elected. If no candidate have a majority of electors voting and the highest number of votes when the first and second choices shall have been added, then the votes cast in the third column for other choices shall be added together in like manner, and the candidate then having the highest number of votes shall be declared elected. An immediate report of election shall be declared.
 
-(Dec. 23, 1913, ch. 6, § 4 (pars.), 38 Stat. 256; Sept. 26, 1918, ch. 177, § 1, 40 Stat. 968; June 26, 1930, ch. 614, 46 Stat. 815; June 16, 1933, ch. 89, § 3(b), 48 Stat. 163; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 89–485, § 13(e), July 1, 1966, 80 Stat. 243.)
+(Dec. 23, 1913, ch. 6, § 4 (pars.), 38 Stat. 256; Sept. 26, 1918, ch. 177, § 1, 40 Stat. 968; June 26, 1930, ch. 614, 46 Stat. 815; June 16, 1933, ch. 89, § 3(b), 48 Stat. 163; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 89–485, § 13(e), July 1, 1966, 80 Stat. 243.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 **Codification**
 
@@ -1751,11 +1751,11 @@ Section is comprised of pars. 16 to 21 of section 4 of act Dec. 23, 1913. For cl
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 305. Class C directors; selection; “Federal reserve agent”
+### § 305. Class C directors; selection; “Federal reserve agent”
 
 Class C directors shall be appointed by the Board of Governors of the Federal Reserve System. They shall have been for at least two years residents of the district for which they are appointed, one of whom shall be designated by said board as chairman of the board of directors of the Federal reserve bank and as “Federal reserve agent.” He shall be a person of tested banking experience and in addition to his duties as chairman of the board of directors of the Federal reserve bank he shall be required to maintain, under regulations to be established by the Board of Governors of the Federal Reserve System, a local office of said board on the premises of the Federal reserve bank. He shall make regular reports to the Board of Governors of the Federal Reserve System and shall act as its official representative for the performance of the functions conferred upon it by this chapter. He shall receive an annual compensation to be fixed by the Board of Governors of the Federal Reserve System and paid monthly by the Federal reserve bank to which he is designated. One of the directors of class C shall be appointed by the Board of Governors of the Federal Reserve System as deputy chairman to exercise the powers of the chairman of the board when necessary. In case of the absence of the chairman and deputy chairman, the third class C director shall preside at meetings of the board.
 
-(Dec. 23, 1913, ch. 6, § 4 (par.), 38 Stat. 256; June 21, 1917, ch. 32, § 2, 40 Stat. 232; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 4 (par.), 38 Stat. 256; June 21, 1917, ch. 32, § 2, 40 Stat. 232; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1773,11 +1773,11 @@ Section is comprised of par. 22 of section 4 of act Dec. 23, 1913. For classific
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 306. Assistants to Federal reserve agent
+### § 306. Assistants to Federal reserve agent
 
 Subject to the approval of the Board of Governors of the Federal Reserve System, the Federal reserve agent shall appoint one or more assistants. Such assistants, who shall be persons of tested banking experience, shall assist the Federal reserve agent in the performance of his duties and shall also have power to act in his name and stead during his absence or disability. The Board of Governors of the Federal Reserve System shall require such bonds of the assistant Federal reserve agents as it may deem necessary for the protection of the United States. Assistants to the Federal reserve agent shall receive an annual compensation, to be fixed and paid in the same manner as that of the Federal reserve agent.
 
-(Dec. 23, 1913, ch. 6, § 4 (par.), as added June 21, 1917, ch. 32, § 2, 40 Stat. 232; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 4 (par.), as added June 21, 1917, ch. 32, § 2, 40 Stat. 232; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1791,11 +1791,11 @@ Section is comprised of par. 23 of section 4 of act Dec. 23, 1913, as added June
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 307. Compensation of directors
+### § 307. Compensation of directors
 
 Directors of Federal reserve banks shall receive, in addition to any compensation otherwise provided, a reasonable allowance for necessary expenses in attending meetings of their respective boards, which amount shall be paid by the respective Federal reserve banks. Any compensation that may be provided by boards of directors of Federal reserve banks for directors, officers or employees shall be subject to the approval of the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, § 4 (par.), 38 Stat. 257; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 4 (par.), 38 Stat. 257; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1809,11 +1809,11 @@ Section is comprised of par. 24 of section 4 of act Dec. 23, 1913. For classific
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 308. Terms of directors; vacancies
+### § 308. Terms of directors; vacancies
 
 At the first meeting of the full board of directors of each Federal reserve bank, it shall be the duty of the directors of classes A, B, and C, respectively, to designate one of the members of each class whose term of office shall expire in one year from the 1st of January nearest to date of such meeting, one whose term of office shall expire at the end of two years from said date, and one whose term of office shall expire at the end of three years from said date. Thereafter every director of a Federal reserve bank chosen as hereinbefore provided shall hold office for a term of three years. Vacancies that may occur in the several classes of directors of Federal reserve banks may be filled in the manner provided for the original selection of such directors, such appointees to hold office for the unexpired terms of their predecessors.
 
-(Dec. 23, 1913, ch. 6, § 4 (par.), 38 Stat. 257.)
+(Dec. 23, 1913, ch. 6, § 4 (par.), 38 Stat. 257.)
 
 **Editorial Notes**
 
@@ -1823,7 +1823,7 @@ Section is comprised of par. 26 of section 4 of act Dec. 23, 1913. For classific
 
 ## SUBCHAPTER VIII—STATE BANKS AS MEMBERS OF SYSTEM
 
-### § 321. Application for membership
+### § 321. Application for membership
 
 Any bank incorporated by special law of any State, operating under the Code of Law for the District of Columbia, or organized under the general laws of any State or of the United States, including Morris Plan banks and other incorporated banking institutions engaged in similar business, desiring to become a member of the Federal Reserve System, may make application to the Board of Governors of the Federal Reserve System, under such rules and regulations as it may prescribe, for the right to subscribe to the stock of the Federal Reserve bank organized within the district in which the applying bank is located. Such application shall be for the same amount of stock that the applying bank would be required to subscribe to as a national bank. For the purposes of membership of any such bank the terms “capital” and “capital stock” shall include the amount of outstanding capital notes and debentures legally issued by the applying bank and purchased by the Reconstruction Finance Corporation. The Board of Governors of the Federal Reserve System, subject to the provisions of this chapter and to such conditions as it may prescribe pursuant thereto may permit the applying bank to become a stockholder of such Federal Reserve bank.
 
@@ -1831,7 +1831,7 @@ Upon the conversion of a national bank into a State bank, or the merger or conso
 
 Any such State bank which on February 25, 1927, has established and is operating a branch or branches in conformity with the State law, may retain and operate the same while remaining or upon becoming a stockholder of such Federal Reserve bank; but no such State bank may retain or acquire stock in a Federal Reserve bank except upon relinquishment of any branch or branches established after February 25, 1927, beyond the limits of the city, town, or village in which the parent bank is situated: *Provided, however*, That nothing herein contained shall prevent any State member bank from establishing and operating branches in the United States or any dependency or insular possession thereof or in any foreign country, on the same terms and conditions and subject to the same limitations and restrictions as are applicable to the establishment of branches by national banks except that the approval of the Board of Governors of the Federal Reserve System, instead of the Comptroller of the Currency, shall be obtained before any State member bank may hereafter establish any branch and before any State bank hereafter admitted to membership may retain any branch established after February 25, 1927, beyond the limits of the city, town, or village in which the parent bank is situated. The approval of the Board shall likewise be obtained before any State member bank may establish any new branch within the limits of any such city, town, or village.
 
-(Dec. 23, 1913, ch. 6, § 9 (pars.), 38 Stat. 259; June 21, 1917, ch. 32, § 3, 40 Stat. 232; Feb. 25, 1927, ch. 191, § 9, 44 Stat. 1229; June 16, 1933, ch. 89, § 5(a), (b), 48 Stat. 164; June 16, 1934, ch. 546, § 2, 48 Stat. 971; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 338, 49 Stat. 704, 721; Aug. 17, 1950, ch. 729, § 8, 64 Stat. 458; July 15, 1952, ch. 753, § 2(a), 66 Stat. 633; Pub. L. 108–386, § 8(h), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–351, title VII, § 725(a)(2), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, § 123(a)(2), Oct. 16, 2006, 120 Stat. 2028.)
+(Dec. 23, 1913, ch. 6, § 9 (pars.), 38 Stat. 259; June 21, 1917, ch. 32, § 3, 40 Stat. 232; Feb. 25, 1927, ch. 191, § 9, 44 Stat. 1229; June 16, 1933, ch. 89, § 5(a), (b), 48 Stat. 164; June 16, 1934, ch. 546, § 2, 48 Stat. 971; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 338, 49 Stat. 704, 721; Aug. 17, 1950, ch. 729, § 8, 64 Stat. 458; July 15, 1952, ch. 753, § 2(a), 66 Stat. 633; Pub. L. 108–386, § 8(h), Oct. 30, 2004, 118 Stat. 2232; Pub. L. 109–351, title VII, § 725(a)(2), Oct. 13, 2006, 120 Stat. 2001; Pub. L. 109–356, title I, § 123(a)(2), Oct. 16, 2006, 120 Stat. 2028.)
 
 **Editorial Notes**
 
@@ -1841,7 +1841,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 **Codification**
 
-Section is comprised of the first three pars. of section 9 of act Dec. 23, 1913, as amended. The first par. of this section is comprised of the first par. of section 9 as amended in 1917 (40 Stat. 232). The second par. of this section was added as a new par. to follow the first par. of section 9, by act Aug. 17, 1950. The third par. of this section originally constituted the second par. of section 9, as amended by act Feb. 25, 1927, and became the third par. when act Aug. 17, 1950 added the new second par. The fourth to twenty-third pars. of section 9, as amended, are classified to sections 322 to 338a of this title. Section 329a of this title, which was based on par. twelve of section 9, was omitted from the Code. Paragraph twenty-two of section 9, which was classified to section 337 of this title, was repealed by Pub. L. 89–485, § 13(g), July 1, 1966, 80 Stat. 243.
+Section is comprised of the first three pars. of section 9 of act Dec. 23, 1913, as amended. The first par. of this section is comprised of the first par. of section 9 as amended in 1917 (40 Stat. 232). The second par. of this section was added as a new par. to follow the first par. of section 9, by act Aug. 17, 1950. The third par. of this section originally constituted the second par. of section 9, as amended by act Feb. 25, 1927, and became the third par. when act Aug. 17, 1950 added the new second par. The fourth to twenty-third pars. of section 9, as amended, are classified to sections 322 to 338a of this title. Section 329a of this title, which was based on par. twelve of section 9, was omitted from the Code. Paragraph twenty-two of section 9, which was classified to section 337 of this title, was repealed by Pub. L. 89–485, § 13(g), July 1, 1966, 80 Stat. 243.
 
 **Amendments**
 
@@ -1853,7 +1853,7 @@ Section is comprised of the first three pars. of section 9 of act Dec. 23, 1913,
 
 1950—Act Aug. 17, 1950, inserted second par., permitting application for membership in the Federal Reserve System by the State bank resulting from a conversion, merger, or consolidation transaction involving a national bank, except where the national bank merges or consolidates with a State bank already a member of System in which case the membership continues.
 
-1935—Act Aug. 23, 1935, § 338, inserted phrase in third (formerly second) par. beginning “except that the approval of the Board of Governors”.
+1935—Act Aug. 23, 1935, § 338, inserted phrase in third (formerly second) par. beginning “except that the approval of the Board of Governors”.
 
 1934—Act June 16, 1934, inserted third sentence in first par.
 
@@ -1869,9 +1869,9 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–386, § 8(i), Oct. 30, 2004, 118 Stat. 2232, provided that: “The amendments made by this section [amending this section, sections 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title, and sections 78c, 78*l*, and 78q of Title 15, Commerce and Trade] shall take effect on the date of the enactment of this Act [Oct. 30, 2004].”
+Pub. L. 108–386, § 8(i), Oct. 30, 2004, 118 Stat. 2232, provided that: “The amendments made by this section [amending this section, sections 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title, and sections 78c, 78*l*, and 78q of Title 15, Commerce and Trade] shall take effect on the date of the enactment of this Act [Oct. 30, 2004].”
 
-Pub. L. 108–386, § 9, Oct. 30, 2004, 118 Stat. 2233, provided that: “Except as otherwise provided, this Act [amending this section, sections 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title, and sections 78c, 78*l*, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section and section 1811 of this title] and the amendments made by this Act shall apply with respect to fiscal year 2005 and each succeeding fiscal year.”
+Pub. L. 108–386, § 9, Oct. 30, 2004, 118 Stat. 2233, provided that: “Except as otherwise provided, this Act [amending this section, sections 1709, 1813, 1817, 1820, 1821, 1828, 1841, 1842, 1881, 3206, and 3207 of this title, and sections 78c, 78*l*, and 78q of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section and section 1811 of this title] and the amendments made by this Act shall apply with respect to fiscal year 2005 and each succeeding fiscal year.”
 
 **Executive Documents**
 
@@ -1883,11 +1883,11 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 Section 6(a) of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished Reconstruction Finance Corporation.
 
-### § 322. Determination on application
+### § 322. Determination on application
 
 In acting upon such applications the Board of Governors of the Federal Reserve System shall consider the financial condition of the applying bank, the general character of its management, and whether or not the corporate powers exercised are consistent with the purposes of this chapter.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 233; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 233; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1905,11 +1905,11 @@ Section is comprised of the fourth par. of section 9 of act Dec. 23, 1913, as am
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 323. Stock in Federal reserve banks; method of payment
+### § 323. Stock in Federal reserve banks; method of payment
 
 Whenever the Board of Governors of the Federal Reserve System shall permit the applying bank to become a stockholder in the Federal reserve bank of the district its stock subscription shall be payable on call of the Board of Governors of the Federal Reserve System, and stock issued to it shall be held subject to the provisions of this chapter.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), 38 Stat. 259; June 21, 1917, ch. 32, § 3, 40 Stat. 233; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), 38 Stat. 259; June 21, 1917, ch. 32, § 3, 40 Stat. 233; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1927,11 +1927,11 @@ Section is comprised of the fifth par. of section 9 of act Dec. 23, 1913, as ame
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 324. Laws applicable on becoming members
+### § 324. Laws applicable on becoming members
 
 All banks admitted to membership under authority of this section shall be required to comply with the reserve and capital requirements of this chapter, to conform to those provisions of law imposed on national banks which prohibit such banks from lending on or purchasing their own stock and which relate to the withdrawal or impairment of their capital stock, and to conform to the provisions of sections 56 and 60(b) of this title with respect to the payment of dividends; except that any reference in any such provision to the Comptroller of the Currency shall be deemed for the purposes of this sentence to be a reference to the Board of Governors of the Federal Reserve System. Such banks and the officers, agents, and employees thereof shall also be subject to the provisions of and to the penalties prescribed by sections 334, 656, and 1005 of title 18, and shall be required to make reports of condition and of the payment of dividends to the Federal Reserve bank of which they become a member. Not less than three of such reports shall be made annually on call of the Federal Reserve bank on dates to be fixed by the Board of Governors of the Federal Reserve System. Any bank which (A) maintains procedures reasonably adapted to avoid any inadvertent error and, unintentionally and as a result of such an error, fails to make or publish any report required under this paragraph, within the period of time specified by the Board, or submits or publishes any false or misleading report or information, or (B) inadvertently transmits or publishes any report which is minimally late, shall be subject to a penalty of not more than $2,000 for each day during which such failure continues or such false or misleading information is not corrected. The bank shall have the burden of proving that an error was inadvertent and that a report was inadvertently transmitted or published late. Any bank which fails to make or publish such reports within the period of time specified by the Board, or submits or publishes any false or misleading report or information, in a manner not described in the 2nd preceding sentence shall be subject to a penalty of not more than $20,000 for each day during which such failure continues or such false or misleading information is not corrected. Notwithstanding the preceding sentence, if any bank knowingly or with reckless disregard for the accuracy of any information or report described in such sentence submits or publishes any false or misleading report or information, the Board may assess a penalty of not more than $1,000,000 or 1 percent of total assets of such bank, whichever is less, per day for each day during which such failure continues or such false or misleading information is not corrected. Any penalty imposed under any of the 4 preceding sentences shall be assessed and collected by the Board in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title (for penalties imposed under such section) and any such assessment (including the determination of the amount of the penalty) shall be subject to the provisions of such section. Any bank against which any penalty is assessed under this subsection shall be afforded an agency hearing if such bank submits a request for such hearing within 20 days after the issuance of the notice of assessment. Section 1818(h) of this title shall apply to any proceeding under this paragraph. Such reports of condition shall be in such form and shall contain such information as the Board of Governors of the Federal Reserve System may require.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), 38 Stat. 259; June 21, 1917, ch. 32, § 3, 40 Stat. 233; Aug. 23, 1935, ch. 614, title III, § 320, 49 Stat. 713; Sept. 3, 1954, ch. 1263, § 27, 68 Stat. 1236; Pub. L. 86–230, § 21(b), Sept. 8, 1959, 73 Stat. 466; Pub. L. 101–73, title IX, § 911(d), Aug. 9, 1989, 103 Stat. 480; Pub. L. 103–325, title III, § 308(c), Sept. 23, 1994, 108 Stat. 2218.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), 38 Stat. 259; June 21, 1917, ch. 32, § 3, 40 Stat. 233; Aug. 23, 1935, ch. 614, title III, § 320, 49 Stat. 713; Sept. 3, 1954, ch. 1263, § 27, 68 Stat. 1236; Pub. L. 86–230, § 21(b), Sept. 8, 1959, 73 Stat. 466; Pub. L. 101–73, title IX, § 911(d), Aug. 9, 1989, 103 Stat. 480; Pub. L. 103–325, title III, § 308(c), Sept. 23, 1994, 108 Stat. 2218.)
 
 **Editorial Notes**
 
@@ -1961,11 +1961,11 @@ Section is comprised of the sixth par. of section 9 of act Dec. 23, 1913, as ame
 
 Amendment by Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989, see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
 
-### § 325. Examinations
+### § 325. Examinations
 
 As a condition of membership such banks shall likewise be subject to examinations made by direction of the Board of Governors of the Federal Reserve System or of the Federal reserve bank by examiners selected or approved by the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 233; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 233; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -1979,11 +1979,11 @@ Section is comprised of the seventh par. of section 9 of act Dec. 23, 1913, as a
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 326. Acceptance of examinations and reports by State authorities; special examinations
+### § 326. Acceptance of examinations and reports by State authorities; special examinations
 
 Whenever the directors of the Federal reserve bank shall approve the examinations made by the State authorities, such examinations and the reports thereof may be accepted in lieu of examinations made by examiners selected or approved by the Board of Governors of the Federal Reserve System: *Provided, however*, That when it deems it necessary the board may order special examinations by examiners of its own selection and shall in all cases approve the form of the report. The expenses of all examinations, other than those made by State authorities, may, in the discretion of the Board of Governors of the Federal Reserve System, be assessed against the banks examined and, when so assessed, shall be paid by the banks examined. The Board of Governors of the Federal Reserve System, at its discretion, may furnish any report of examination or other confidential supervisory information concerning any State member bank or other entity examined under any other authority of the Board, to any Federal or State agency or authority with supervisory or regulatory authority over the examined entity, to any officer, director, or receiver of the examined entity, and to any other person that the Board determines to be proper.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 233; amended June 26, 1930, ch. 611, § 1, 46 Stat. 814; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 106–102, title VII, § 727(a), Nov. 12, 1999, 113 Stat. 1475.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 233; amended June 26, 1930, ch. 611, § 1, 46 Stat. 814; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 106–102, title VII, § 727(a), Nov. 12, 1999, 113 Stat. 1475.)
 
 **Editorial Notes**
 
@@ -2003,17 +2003,17 @@ Section is comprised of the eighth par. of section 9 of act Dec. 23, 1913, as am
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 327. Surrender of stock and cancellation of memberships
+### § 327. Surrender of stock and cancellation of memberships
 
 If at any time it shall appear to the Board of Governors of the Federal Reserve System that a member bank has failed to comply with the provisions of this subchapter, or the regulations of the Board of Governors of the Federal Reserve System made pursuant thereto, or has ceased to exercise banking functions without a receiver or liquidating agent having been appointed therefor, it shall be within the power of the board after hearing to require such bank to surrender its stock in the Federal reserve bank and to forfeit all rights and privileges of membership. The Board of Governors of the Federal Reserve System may restore membership upon due proof of compliance with the conditions imposed by this subchapter.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), 38 Stat. 259; June 21, 1917, ch. 32, § 3, 40 Stat. 233; Apr. 23, 1930, ch. 207, § 2, 46 Stat. 251; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), 38 Stat. 259; June 21, 1917, ch. 32, § 3, 40 Stat. 233; Apr. 23, 1930, ch. 207, § 2, 46 Stat. 251; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
+This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
 
 **Codification**
 
@@ -2029,11 +2029,11 @@ Section is comprised of the ninth par. of section 9 of act Dec. 23, 1913, as ame
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 328. Withdrawals from membership
+### § 328. Withdrawals from membership
 
 Any State bank or trust company desiring to withdraw from membership in a Federal Reserve bank may do so, after six months’ written notice shall have been filed with the Board of Governors of the Federal Reserve System, upon the surrender and cancellation of all of its holdings of capital stock in the Federal reserve bank: *Provided*, That the Board of Governors of the Federal Reserve System, in its discretion and subject to such conditions as it may prescribe, may waive such six months’ notice in individual cases and may permit any such State bank or trust company to withdraw from membership in a Federal reserve bank prior to the expiration of six months from the date of the written notice of its intention to withdraw: *Provided, however*, That no Federal reserve bank shall, except under express authority of the Board of Governors of the Federal Reserve System, cancel within the same calendar year more than 25 per centum of its capital stock for the purpose of effecting voluntary withdrawals during that year. All such applications shall be dealt with in the order in which they are filed with the board. Whenever a member bank shall surrender its stock holdings in a Federal reserve bank, or shall be ordered to do so by the Board of Governors of the Federal Reserve System, under authority of law, all of its rights and privileges as a member bank shall thereupon cease and determine, and after due provision has been made for any indebtedness due or to become due to the Federal reserve bank it shall be entitled to a refund of its cash-paid subscription with interest at the rate of one-half of 1 per centum per month from date of last dividend, if earned, the amount refunded in no event to exceed the book value of the stock at that time, and shall likewise be entitled to repayment of deposits and of any other balance due from the Federal reserve bank.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 233; amended Apr. 17, 1930, ch. 175, 46 Stat. 170; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 233; amended Apr. 17, 1930, ch. 175, 46 Stat. 170; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -2051,17 +2051,17 @@ Section is comprised of the tenth par. of section 9 of act Dec. 23, 1913, as ame
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 329. Capital stock required as condition precedent to membership
+### § 329. Capital stock required as condition precedent to membership
 
 No applying bank shall be admitted to membership unless it possesses capital stock and surplus which, in the judgment of the Board of Governors of the Federal Reserve System, are adequate in relation to the character and condition of its assets and to its existing and prospective deposit liabilities and other corporate responsibilities: *Provided*, That no bank engaged in the business of receiving deposits other than trust funds, which does not possess capital stock and surplus in an amount equal to that which would be required for the establishment of a national banking association in the place in which it is located, shall be admitted to membership unless it is, or has been, approved for deposit insurance under the Federal Deposit Insurance Act [12 U.S.C. 1811 et seq.]. The capital stock of a State member bank shall not be reduced except with the prior consent of the Board.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), 38 Stat. 259; June 21, 1917, ch. 32, § 3, 40 Stat. 234; Mar. 4, 1923, ch. 252, title IV, § 401, 42 Stat. 1478; June 16, 1933, ch. 89, § 17(b), 48 Stat. 185; July 15, 1952, ch. 753, § 1, 66 Stat. 633.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), 38 Stat. 259; June 21, 1917, ch. 32, § 3, 40 Stat. 234; Mar. 4, 1923, ch. 252, title IV, § 401, 42 Stat. 1478; June 16, 1933, ch. 89, § 17(b), 48 Stat. 185; July 15, 1952, ch. 753, § 1, 66 Stat. 633.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Codification**
 
@@ -2073,27 +2073,27 @@ Section is comprised of the eleventh par. of section 9 of act Dec. 23, 1913, as 
 
 1933—Act June 16, 1933, dropped alternative method of meeting the capital requirement and inserted proviso.
 
-### § 329a. Omitted
+### § 329a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Dec. 23, 1913, ch. 6, § 9 (par.), as added Aug. 23, 1935, ch. 614, title II, § 202, 49 Stat. 704, related to waiver of the requirements of sections 321 to 338 of this title for admission to membership in the case of a bank which was required to become a member of the Federal Reserve System under a former provision of subsection (y) of former section 264 of this title, which provision was repealed by act June 20, 1939, ch. 214, § 2, 53 Stat. 842.
+Section, act Dec. 23, 1913, ch. 6, § 9 (par.), as added Aug. 23, 1935, ch. 614, title II, § 202, 49 Stat. 704, related to waiver of the requirements of sections 321 to 338 of this title for admission to membership in the case of a bank which was required to become a member of the Federal Reserve System under a former provision of subsection (y) of former section 264 of this title, which provision was repealed by act June 20, 1939, ch. 214, § 2, 53 Stat. 842.
 
 This section was based on the twelfth par. of section 9 of act Dec. 23, 1913, as amended. The twelfth par. constituted the eleventh par. of section 9 when added in 1935, and became the twelfth par. in 1950 (64 Stat. 458). For further details, see Codification note set out under section 321 of this title.
 
-### § 330. Laws applicable on becoming members; discounts for State banks
+### § 330. Laws applicable on becoming members; discounts for State banks
 
 Banks becoming members of the Federal reserve system under authority of this subchapter shall be subject to the provisions of this subchapter and to those of this chapter which relate specifically to member banks, but shall not be subject to examination under the provisions of sections 481 and 482 of this title. Subject to the provisions of this chapter and to the regulations of the board made pursuant thereto, any bank becoming a member of the Federal reserve system shall retain its full charter and statutory rights as a State bank or trust company, and may continue to exercise all corporate powers granted it by the State in which it was created, and shall be entitled to all privileges of member banks, except that the Board of Governors of the Federal Reserve System may limit the activities of State member banks and subsidiaries of State member banks in a manner consistent with section 1831a of this title. No Federal reserve bank shall be permitted to discount for any State bank or trust company notes, drafts, or bills of exchange of any one borrower who is liable for borrowed money to such State bank or trust company in an amount greater than that which could be borrowed lawfully from such State bank or trust company were it a national banking association. The Federal reserve bank, as a condition of the discount of notes, drafts, and bills of exchange for such State bank or trust company, shall require a certificate or guaranty to the effect that the borrower is not liable to such bank in excess of the amount provided by this subchapter, and will not be permitted to become liable in excess of this amount while such notes, drafts, or bills of exchange are under discount with the Federal reserve bank.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 234; amended July 1, 1922, ch. 274, 42 Stat. 821; Pub. L. 102–242, title III, § 303(b), Dec. 19, 1991, 105 Stat. 2353.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 234; amended July 1, 1922, ch. 274, 42 Stat. 821; Pub. L. 102–242, title III, § 303(b), Dec. 19, 1991, 105 Stat. 2353.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
+This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
 
 This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
@@ -2103,19 +2103,19 @@ Section is comprised of the thirteenth par. of section 9 of act Dec. 23, 1913, a
 
 **Amendments**
 
-1991—Pub. L. 102–242 substituted “, except that the Board of Governors of the Federal Reserve System may limit the activities of State member banks and subsidiaries of State member banks in a manner consistent with section 1831a of this title. No Federal reserve bank” for “: *Provided, however*, That no Federal reserve bank”.
+1991—Pub. L. 102–242 substituted “, except that the Board of Governors of the Federal Reserve System may limit the activities of State member banks and subsidiaries of State member banks in a manner consistent with section 1831a of this title. No Federal reserve bank” for “: *Provided, however*, That no Federal reserve bank”.
 
-### § 331. Certifying checks on State banks admitted as members
+### § 331. Certifying checks on State banks admitted as members
 
 It shall be unlawful for any officer, clerk, or agent of any bank admitted to membership under authority of this subchapter, to certify any check drawn upon such bank unless the person or company drawing the check has on deposit therewith at the time such check is certified an amount of money equal to the amount specified in such check. Any check so certified by duly authorized officers shall be a good and valid obligation against such bank, but the act of any such officer, clerk, or agent in violation of this subchapter, may subject such bank to a forfeiture of its membership in the Federal reserve system upon hearing by the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 234; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 21, 1917, ch. 32, § 3, 40 Stat. 234; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
+This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
 
 **Codification**
 
@@ -2127,11 +2127,11 @@ Section is comprised of the fourteenth par. of section 9 of act Dec. 23, 1913, a
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 332. Depositaries of public money; financial agents; security required
+### § 332. Depositaries of public money; financial agents; security required
 
 All banks or trust companies incorporated by special law or organized under the general laws of any State, which are members of the Federal reserve system, when designated for that purpose by the Secretary of the Treasury, shall be depositaries of public money, under such regulations as may be prescribed by the Secretary; and they may also be employed as financial agents of the Government; and they shall perform all such reasonable duties, as depositaries of public money and financial agents of the Government, as may be required of them. The Secretary of the Treasury shall require of the banks and trust companies thus designated satisfactory security, by the deposit of United States bonds or otherwise, for the safe keeping and prompt payment of the public money deposited with them and for the faithful performance of their duties as financial agents of the Government.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), as added May 7, 1928, ch. 507, 45 Stat. 492.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), as added May 7, 1928, ch. 507, 45 Stat. 492.)
 
 **Editorial Notes**
 
@@ -2139,17 +2139,17 @@ All banks or trust companies incorporated by special law or organized under the 
 
 Section is comprised of the fifteenth par. of section 9 of act Dec. 23, 1913, as amended. The fifteenth par. constituted the thirteenth par. of section 9 in 1928 (45 Stat. 492), became the fourteenth par. in 1935 (49 Stat. 704), and became the fifteenth par. in 1950 (64 Stat. 458). For further details, see Codification notes set out under sections 321 and 329a of this title.
 
-### § 333. Mutual savings banks; application and admission to membership in Federal Reserve System
+### § 333. Mutual savings banks; application and admission to membership in Federal Reserve System
 
 Any mutual savings bank having no capital stock (including any other banking institution the capital of which consists of weekly or other time deposits which are segregated from all other deposits and are regarded as capital stock for the purposes of taxation and the declaration of dividends), but having surplus and undivided profits not less than the amount of capital required for the organization of a national bank in the same place, may apply for and be admitted to membership in the Federal Reserve System in the same manner and subject to the same provisions of law as State banks and trust companies, except that any such savings bank shall subscribe for capital stock of the Federal reserve bank in an amount equal to six-tenths of 1 per centum of its total deposit liabilities as shown by the most recent report of examination of such savings bank preceding its admission to membership. Thereafter such subscription shall be adjusted semiannually on the same percentage basis in accordance with rules and regulations prescribed by the Board of Governors of the Federal Reserve System. If any such mutual savings bank applying for membership is not permitted by the laws under which it was organized to purchase stock in a Federal reserve bank, it shall, upon admission to the system, deposit with the Federal reserve bank an amount equal to the amount which it would have been required to pay in on account of a subscription to capital stock. Thereafter such deposit shall be adjusted semiannually in the same manner as subscriptions for stock. Such deposits shall be subject to the same conditions with respect to repayment as amounts paid upon subscriptions to capital stock by other member banks and the Federal reserve bank shall pay interest thereon at the same rate as dividends are actually paid on outstanding shares of stock of such Federal reserve bank. If the laws under which any such savings bank was organized be amended so as to authorize mutual savings banks to subscribe for Federal reserve bank stock, such savings bank shall thereupon subscribe for the appropriate amount of stock in the Federal reserve bank, and the deposit hereinbefore provided for in lieu of payment upon capital stock shall be applied upon such subscription. If the laws under which any such savings bank was organized be not amended at the next session of the legislature following the admission of such savings bank to membership so as to authorize mutual savings banks to purchase Federal reserve bank stock, or if such laws be so amended and such bank fail within six months thereafter to purchase such stock, all of its rights and privileges as a member bank shall be forfeited and its membership in the Federal Reserve System shall be terminated in the manner prescribed in this subchapter with respect to State member banks and trust companies. Each such mutual savings bank shall comply with all the provisions of law applicable to State member banks and trust companies, with the regulations of the Board of Governors of the Federal Reserve System and with the conditions of membership prescribed for such savings bank at the time of admission to membership, except as otherwise hereinbefore provided with respect to capital stock.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 164; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 164; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
+This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
 
 **Codification**
 
@@ -2161,7 +2161,7 @@ Section is comprised of the sixteenth par. of section 9 of act Dec. 23, 1913, as
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 334. Reports from affiliates; penalty for failure to furnish
+### § 334. Reports from affiliates; penalty for failure to furnish
 
 Each bank admitted to membership under this subchapter shall obtain from each of its affiliates other than member banks and furnish to the Federal reserve bank of its district and to the Board of Governors of the Federal Reserve System not less than three reports during each year. Such reports shall be in such form as the Board of Governors of the Federal Reserve System may prescribe, shall be verified by the oath or affirmation of the president or such other officer as may be designated by the board of directors of such affiliate to verify such reports, and shall disclose the information hereinafter provided for as of dates identical with those fixed by the Board of Governors of the Federal Reserve System for reports of the condition of the affiliated member bank. Each such report of an affiliate shall be transmitted as herein provided at the same time as the corresponding report of the affiliated member bank, except that the Board of Governors of the Federal Reserve System may, in its discretion, extend such time for good cause shown. Each such report shall contain such information as in the judgment of the Board of Governors of the Federal Reserve System shall be necessary to disclose fully the relations between such affiliate and such bank and to enable the board to inform itself as to the effect of such relations upon the affairs of such bank. The reports of such affiliates shall be published by the bank under the same conditions as govern its own condition reports.
 
@@ -2169,13 +2169,13 @@ Any such affiliated member bank may be required to obtain from any such affiliat
 
 Any such affiliated member bank which fails to obtain from any of its affiliates and furnish any report provided for by the two preceding paragraphs of this section shall be subject to a penalty of $100 for each day during which such failure continues, which, by direction of the Board of Governors of the Federal Reserve System, may be collected, by suit or otherwise, by the Federal reserve bank of the district in which such member bank is located.
 
-(Dec. 23, 1913, ch. 6, § 9 (pars.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 165; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 89–485, § 13(f), July 1, 1966, 80 Stat. 243.)
+(Dec. 23, 1913, ch. 6, § 9 (pars.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 165; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 89–485, § 13(f), July 1, 1966, 80 Stat. 243.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
+This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
 
 **Codification**
 
@@ -2191,11 +2191,11 @@ Section is comprised of the seventeenth to nineteenth pars. of act Dec. 23, 1913
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 335. Dealing in investment securities; limitations and conditions
+### § 335. Dealing in investment securities; limitations and conditions
 
 State member banks shall be subject to the same limitations and conditions with respect to the purchasing, selling, underwriting, and holding of investment securities and stock as are applicable in the case of national banks under paragraph “Seventh” of section 24 of this title. This section shall not apply to any interest held by a State member bank in accordance with section 24a of this title and subject to the same conditions and limitations provided in such section.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 165; amended Pub. L. 106–102, title I, § 121(d)(2), Nov. 12, 1999, 113 Stat. 1381.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 165; amended Pub. L. 106–102, title I, § 121(d)(2), Nov. 12, 1999, 113 Stat. 1381.)
 
 **Editorial Notes**
 
@@ -2213,17 +2213,17 @@ Section is comprised of the twentieth par. of section 9 of act Dec. 23, 1913, as
 
 Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as a note under section 24 of this title.
 
-### § 336. Certificates of stock; representation of stock of other corporations
+### § 336. Certificates of stock; representation of stock of other corporations
 
 After August 23, 1935, no certificate evidencing the stock of any State member bank shall bear any statement purporting to represent the stock of any other corporation, except a member bank or a corporation engaged on June 16, 1934, in holding the bank premises of such member bank, nor shall the ownership, sale, or transfer of any certificate representing the stock of any State member bank be conditioned in any manner whatsoever upon the ownership, sale, or transfer of a certificate representing the stock of any other corporation, except a member bank or a corporation engaged on June 16, 1934 in holding the bank premises of such member bank: *Provided*, That this subchapter shall not operate to prevent the ownership, sale, or transfer of stock of any other corporation being conditioned upon the ownership, sale, or transfer of a certificate representing stock of a State member bank.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 165; amended Aug. 23, 1935, ch. 614, title III, § 310(b), 49 Stat. 710.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 165; amended Aug. 23, 1935, ch. 614, title III, § 310(b), 49 Stat. 710.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
+This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
 
 **Codification**
 
@@ -2233,23 +2233,23 @@ Section is comprised of the twenty-first par. of section 9 of act Dec. 23, 1913,
 
 1935—Act Aug. 23, 1935, among other changes, inserted proviso.
 
-### § 337. Repealed. Pub. L. 89–485, § 13(g), July 1, 1966, 80 Stat. 243
+### § 337. Repealed. Pub. L. 89–485, § 13(g), July 1, 1966, 80 Stat. 243
 
-Section, act Dec. 23, 1913, ch. 6, § 9 (par.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 166, required agreements of State member banks with holding company affiliates to be subject to voting restrictions and to provide for forfeiture of membership on failure to file agreement.
+Section, act Dec. 23, 1913, ch. 6, § 9 (par.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 166, required agreements of State member banks with holding company affiliates to be subject to voting restrictions and to provide for forfeiture of membership on failure to file agreement.
 
 This section was comprised of the twenty-second par. of section 9 of act Dec. 23, 1913, as amended. The twenty-second par. constituted the twentieth par. of section 9 when added in 1933, became the twenty-first par. in 1935 (49 Stat. 704), and became the twenty-second par. in 1950 (64 Stat. 458). For further details, see Codification notes set out under sections 321 and 329a of this title.
 
-### § 338. Examination of affiliates; forfeiture of membership on refusal of affiliate to give information or pay expense
+### § 338. Examination of affiliates; forfeiture of membership on refusal of affiliate to give information or pay expense
 
 In connection with examinations of State member banks, examiners selected or approved by the Board of Governors of the Federal Reserve System shall make such examinations of the affairs of all affiliates of such banks as shall be necessary to disclose fully the relations between such banks and their affiliates and the effect of such relations upon the affairs of such banks. The expense of examination of affiliates of any State member bank may, in the discretion of the Board of Governors of the Federal Reserve System, be assessed against such bank and, when so assessed, shall be paid by such bank. In the event of the refusal to give any information requested in the course of the examination of any such affiliate, or in the event of the refusal to permit such examination, or in the event of the refusal to pay any expenses so assessed, the Board of Governors of the Federal Reserve System may, in its discretion, require any or all State member banks affiliated with such affiliate to surrender their stock in the Federal Reserve bank and to forfeit all rights and privileges of membership in the Federal Reserve System, as provided in this subchapter.
 
-(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 166; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 9 (par.), as added June 16, 1933, ch. 89, § 5(c), 48 Stat. 166; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
+This subchapter, referred to in text, was in the original “this section”, meaning section 9 of act Dec. 23, 1913, which is classified generally to this subchapter (§ 321 et seq.).
 
 **Codification**
 
@@ -2261,11 +2261,11 @@ Section is comprised of the twenty-second par. of section 9 of act Dec. 23, 1913
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 338a. Investments to promote public welfare and community development; limitation on investments
+### § 338a. Investments to promote public welfare and community development; limitation on investments
 
 A State member bank may make investments directly or indirectly, each of which is designed primarily to promote the public welfare, including the welfare of low- and moderate-income communities or families (such as by providing housing, services, or jobs), to the extent permissible under State law. A State member bank shall not make any such investment if the investment would expose the State member bank to unlimited liability. The Board shall limit a State member bank’s investment in any 1 project and a State member bank’s aggregate investments under this paragraph. The aggregate amount of investments of any State member bank under this paragraph may not exceed an amount equal to the sum of 5 percent of the State member bank’s capital stock actually paid in and unimpaired and 5 percent of the State member bank’s unimpaired surplus, unless the Board determines, by order, that a higher amount will pose no significant risk to the affected deposit insurance fund; and the State member bank is adequately capitalized. In no case shall the aggregate amount of investments of any State member bank under this paragraph exceed an amount equal to the sum of 15 percent of the State member bank’s capital stock actually paid in and unimpaired and 15 percent of the State member bank’s unimpaired surplus. The foregoing standards and limitations apply to investments under this paragraph made by a State member bank directly and by its subsidiaries.
 
-(Dec. 23, 1913, ch. 6, § 9(23), formerly § 9 (par.), as added Pub. L. 102–485, § 6(b), Oct. 23, 1992, 106 Stat. 2774; amended Pub. L. 104–208, div. A, title II, § 2704(d)(8), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(b), Feb. 15, 2006, 119 Stat. 3616; renumbered § 9(23) and amended Pub. L. 109–351, title III, § 305(b), Oct. 13, 2006, 120 Stat. 1971; Pub. L. 110–289, div. B, title V, § 2503(b), July 30, 2008, 122 Stat. 2857.)
+(Dec. 23, 1913, ch. 6, § 9(23), formerly § 9 (par.), as added Pub. L. 102–485, § 6(b), Oct. 23, 1992, 106 Stat. 2774; amended Pub. L. 104–208, div. A, title II, § 2704(d)(8), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(b), Feb. 15, 2006, 119 Stat. 3616; renumbered § 9(23) and amended Pub. L. 109–351, title III, § 305(b), Oct. 13, 2006, 120 Stat. 1971; Pub. L. 110–289, div. B, title V, § 2503(b), July 30, 2008, 122 Stat. 2857.)
 
 **Editorial Notes**
 
@@ -2281,9 +2281,9 @@ Section is comprised of par. (23) (the twenty-third par.) of section 9 of act De
 
 Pub. L. 109–173, in fourth sentence, substituted “Deposit Insurance Fund” for “affected deposit insurance fund”.
 
-Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(8). See 1996 Amendment note below.
+Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(8). See 1996 Amendment note below.
 
-1996—Pub. L. 104—208, § 2704(d)(8), which directed the amendment of the fourth sentence by substituting “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+1996—Pub. L. 104—208, § 2704(d)(8), which directed the amendment of the fourth sentence by substituting “Deposit Insurance Fund” for “affected deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2297,7 +2297,7 @@ Amendment by Pub. L. 109–171 effective no later than the first day of the firs
 
 Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository institution is a savings association on that date, see section 2704(c) of Pub. L. 104–208, formerly set out as a note under section 1821 of this title.
 
-### § 339. Participation by State member banks in lotteries and related activities
+### § 339. Participation by State member banks in lotteries and related activities
 
 **(a) Prohibited activities** A State member bank may not—
 
@@ -2305,9 +2305,9 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 **(2)** deal in bets used as a means or substitute for participation in a lottery;
 
-**(3)** announce, advertise, or publicize the existence of any lottery; 1
+**(3)** announce, advertise, or publicize the existence of any lottery; 1
 
-<sup>1</sup>  So in original. The word “or” probably should appear.
+<sup>1</sup> So in original. The word “or” probably should appear.
 
 **(4)** announce, advertise, or publicize the existence or identity of any participant or winner, as such, in a lottery.
 
@@ -2341,7 +2341,7 @@ Nothing contained in this section prohibits a State member bank from accepting d
 
 The Board of Governors of the Federal Reserve System shall issue such regulations as may be necessary to the strict enforcement of this section and the prevention of evasions thereof.
 
-(Dec. 13, 1913, ch. 6, § 9A, as added Pub. L. 90–203, § 2, Dec. 15, 1967, 81 Stat. 609; amended Pub. L. 113–251, § 3(b), Dec. 18, 2014, 128 Stat. 2889.)
+(Dec. 13, 1913, ch. 6, § 9A, as added Pub. L. 90–203, § 2, Dec. 15, 1967, 81 Stat. 609; amended Pub. L. 113–251, § 3(b), Dec. 18, 2014, 128 Stat. 2889.)
 
 **Editorial Notes**
 
@@ -2351,9 +2351,9 @@ Section was enacted as section 9A of act Dec. 13, 1913, and not as part of secti
 
 **Amendments**
 
-2014—Subsec. (c)(2). Pub. L. 113–251, § 3(b)(1), inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
+2014—Subsec. (c)(2). Pub. L. 113–251, § 3(b)(1), inserted “, other than a savings promotion raffle,” before “whereby” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 113–251, § 3(b)(2), added par. (4).
+Subsec. (c)(4). Pub. L. 113–251, § 3(b)(2), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2361,15 +2361,15 @@ Subsec. (c)(4). Pub. L. 113–251, § 3(b)(2), added par. (4).
 
 Section effective Apr. 1, 1968, see section 6 of Pub. L. 90–203, set out as a note under section 25a of this title.
 
-### § 339a. Resolution of clearing banks
+### § 339a. Resolution of clearing banks
 
 **(a) Conservatorship or receivership**
 
 **(1) Appointment**
 
-The Board may appoint a conservator or receiver to take possession and control of any uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 1
+The Board may appoint a conservator or receiver to take possession and control of any uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title to the same extent and in the same manner as the Comptroller of the Currency may appoint a conservator or receiver for a national bank.
 
@@ -2385,13 +2385,13 @@ The Board shall have the same authority with respect to any conservator or recei
 
 The Board (in the case of an uninsured State member bank which operates, or operates as, such a multilateral clearing organization) may direct a conservator or receiver appointed for the bank to file a petition pursuant to title 11, in which case, title 11 shall apply to the bank in lieu of otherwise applicable Federal or State insolvency law.
 
-(Dec. 13, 1913, ch. 6, § 9B, as added Pub. L. 106–554, § 1(a)(5) [title I, § 112(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–392.)
+(Dec. 13, 1913, ch. 6, § 9B, as added Pub. L. 106–554, § 1(a)(5) [title I, § 112(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–392.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4422 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
+Section 4422 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
 
 **Codification**
 
@@ -2399,7 +2399,7 @@ Section was enacted as section 9B of act Dec. 13, 1913, and not as part of secti
 
 ## SUBCHAPTER IX—POWERS AND DUTIES OF FEDERAL RESERVE BANKS
 
-### § 341. General enumeration of powers
+### § 341. General enumeration of powers
 
 Upon the filing of the organization certificate with the Comptroller of the Currency a Federal reserve bank shall become a body corporate and as such, and in the name designated in such organization certificate, shall have power—
 
@@ -2421,7 +2421,7 @@ Eighth. Upon deposit with the Treasurer of the United States of any bonds of the
 
 But no Federal reserve bank shall transact any business except such as is incidental and necessarily preliminary to its organization until it has been authorized by the Comptroller of the Currency to commence business under the provisions of this chapter.
 
-(Dec. 23, 1913, ch. 6, § 4 (pars.), 38 Stat. 254; Feb. 25, 1927, ch. 191, § 18, 44 Stat. 1234; Aug. 23, 1935, ch. 614, title II, § 201, 49 Stat. 703; Pub. L. 103–325, title VI, § 602(g)(1), Sept. 23, 1994, 108 Stat. 2293; Pub. L. 111–203, title XI, § 1107, July 21, 2010, 124 Stat. 2126.)
+(Dec. 23, 1913, ch. 6, § 4 (pars.), 38 Stat. 254; Feb. 25, 1927, ch. 191, § 18, 44 Stat. 1234; Aug. 23, 1935, ch. 614, title II, § 201, 49 Stat. 703; Pub. L. 103–325, title VI, § 602(g)(1), Sept. 23, 1994, 108 Stat. 2293; Pub. L. 111–203, title XI, § 1107, July 21, 2010, 124 Stat. 2126.)
 
 **Editorial Notes**
 
@@ -2451,7 +2451,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Effective Date of 1935 Amendment**
 
-Act Aug. 23, 1935, ch. 614, title II, § 201, 49 Stat. 703, provided that the amendment made by that section is effective Mar. 1, 1936.
+Act Aug. 23, 1935, ch. 614, title II, § 201, 49 Stat. 703, provided that the amendment made by that section is effective Mar. 1, 1936.
 
 **Executive Documents**
 
@@ -2459,11 +2459,11 @@ Act Aug. 23, 1935, ch. 614, title II, § 201, 49 Stat. 703, provided that the 
 
 For transfer of functions to Secretary of the Treasury, see note under section 55 of this title.
 
-### § 342. Deposits; exchange and collection; member and nonmember banks or other depository institutions; charges
+### § 342. Deposits; exchange and collection; member and nonmember banks or other depository institutions; charges
 
 Any Federal reserve bank may receive from any of its member banks, or other depository institutions, and from the United States, deposits of current funds in lawful money, national-bank notes, Federal reserve notes, or checks, and drafts, payable upon presentation or other items, and also, for collection, maturing notes and bills; or, solely for purposes of exchange or of collection may receive from other Federal reserve banks deposits of current funds in lawful money, national-bank notes, or checks upon other Federal reserve banks, and checks and drafts, payable upon presentation within its district or other items, and maturing notes and bills payable within its district; or, solely for the purposes of exchange or of collection, may receive from any nonmember bank or trust company or other depository institution deposits of current funds in lawful money, national-bank notes, Federal reserve notes, checks and drafts payable upon presentation or other items, or maturing notes and bills: *Provided*, Such nonmember bank or trust company or other depository institution maintains with the Federal Reserve bank of its district a balance in such amount as the Board determines taking into account items in transit, services provided by the Federal Reserve bank, and other factors as the Board may deem appropriate: *Provided further*, That nothing in this or any other section of this chapter shall be construed as prohibiting a member or nonmember bank or other depository institution from making reasonable charges, to be determined and regulated by the Board of Governors of the Federal Reserve System, but in no case to exceed 10 cents per $100 or fraction thereof, based on the total of checks and drafts presented at any one time, for collection or payment of checks and drafts and remission therefor by exchange or otherwise; but no such charges shall be made against the Federal reserve banks.
 
-(Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 263; Sept. 7, 1916, ch. 461, 39 Stat. 752; June 21, 1917, ch. 32, § 4, 40 Stat. 235; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 96–221, title I, § 105(a), Mar. 31, 1980, 94 Stat. 139.)
+(Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 263; Sept. 7, 1916, ch. 461, 39 Stat. 752; June 21, 1917, ch. 32, § 4, 40 Stat. 235; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 96–221, title I, § 105(a), Mar. 31, 1980, 94 Stat. 139.)
 
 **Editorial Notes**
 
@@ -2475,7 +2475,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 Section is comprised of the first par. of section 13 of act Dec. 23, 1913. The second par., par. (3), and the fourth to eighth and tenth to fourteenth pars. of section 13 are classified to sections 92, 343 to 347, 347c, 347d, 361, 372, and 373 of this title.
 
-For decision by U.S. Supreme Court that, despite faulty placement of quotation marks, act Sept. 7, 1916, placed within section 13 of act Dec. 23, 1913, each of the ten pars. located between the phrases that introduced the amendments to sections 13 and 14 of said act, that only the seventh par. (rather than seventh to tenth pars.) comprised the amended R.S. § 5202, and that section 20 of act Apr. 5, 1918 (40 Stat. 512) (which amended R.S. § 5202 comprised of a single par.), did not amend section 13 of said act so as to repeal the eighth to tenth pars., see *United States National Bank of Oregon* v. *Independent Insurance Agents of America, Inc., et al*., 508 U.S. 439, 113 S.Ct. 2173, 124 L.Ed. 2d 402 (1993). As the result of subsequent amendments, such seventh to tenth pars. of section 13 now constitute the ninth to twelfth pars. The ninth par. amended former section 82 of this title, and the tenth to twelfth pars. are classified to sections 361, 92, and 373, respectively, of this title.
+For decision by U.S. Supreme Court that, despite faulty placement of quotation marks, act Sept. 7, 1916, placed within section 13 of act Dec. 23, 1913, each of the ten pars. located between the phrases that introduced the amendments to sections 13 and 14 of said act, that only the seventh par. (rather than seventh to tenth pars.) comprised the amended R.S. § 5202, and that section 20 of act Apr. 5, 1918 (40 Stat. 512) (which amended R.S. § 5202 comprised of a single par.), did not amend section 13 of said act so as to repeal the eighth to tenth pars., see *United States National Bank of Oregon* v. *Independent Insurance Agents of America, Inc., et al*., 508 U.S. 439, 113 S.Ct. 2173, 124 L.Ed. 2d 402 (1993). As the result of subsequent amendments, such seventh to tenth pars. of section 13 now constitute the ninth to twelfth pars. The ninth par. amended former section 82 of this title, and the tenth to twelfth pars. are classified to sections 361, 92, and 373, respectively, of this title.
 
 **Amendments**
 
@@ -2491,15 +2491,15 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 Amendment by Pub. L. 96–221 effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as a note under section 248 of this title.
 
-### § 343. Discount of obligations arising out of actual commercial transactions
+### § 343. Discount of obligations arising out of actual commercial transactions
 
 Upon the indorsement of any of its member banks, which shall be deemed a waiver of demand, notice and protest by such bank as to its own indorsement exclusively, any Federal reserve bank may discount notes, drafts, and bills of exchange arising out of actual commercial transactions; that is, notes, drafts, and bills of exchange issued or drawn for agricultural, industrial, or commercial purposes, or the proceeds of which have been used, or are to be used, for such purposes, the Board of Governors of the Federal Reserve System to have the right to determine or define the character of the paper thus eligible for discount, within the meaning of this chapter. Nothing in this chapter contained shall be construed to prohibit such notes, drafts, and bills of exchange, secured by staple agricultural products, or other goods, wares, or merchandise from being eligible for such discount, and the notes, drafts, and bills of exchange of factors issued as such making advances exclusively to producers of staple agricultural products in their raw state shall be eligible for such discount; but such definition shall not include notes, drafts, or bills covering merely investments or issued or drawn for the purpose of carrying or trading in stocks, bonds, or other investment securities, except bonds and notes of the Government of the United States. Notes, drafts, and bills admitted to discount under the terms of this paragraph must have a maturity at the time of discount of not more than ninety days, exclusive of grace.
 
 **(3)**
 
-**(A)**  1
+**(A)** 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 In unusual and exigent circumstances, the Board of Governors of the Federal Reserve System, by the affirmative vote of not less than five members, may authorize any Federal reserve bank, during such periods as the said board may determine, at rates established in accordance with the provisions of section 357 of this title, to discount for any participant in any program or facility with broad-based eligibility, notes, drafts, and bills of exchange when such notes, drafts, and bills of exchange are indorsed or otherwise secured to the satisfaction of the Federal reserve bank: *Provided*, That before discounting any such note, draft, or bill of exchange, the Federal reserve bank shall obtain evidence that such participant in any program or facility with broad-based eligibility is unable to secure adequate credit accommodations from other banking institutions. All such discounts for any participant in any program or facility with broad-based eligibility shall be subject to such limitations, restrictions, and regulations as the Board of Governors of the Federal Reserve System may prescribe.
 
@@ -2555,7 +2555,7 @@ shall be kept confidential, upon the written request of the Chairman of the Boar
 
 **(E)** If an entity to which a Federal reserve bank has provided a loan under this paragraph becomes a covered financial company, as defined in section 201 of the Dodd-Frank Wall Street Reform and Consumer Protection Act [12 U.S.C. 5381], at any time while such loan is outstanding, and the Federal reserve bank incurs a realized net loss on the loan, then the Federal reserve bank shall have a claim equal to the amount of the net realized loss against the covered entity, with the same priority as an obligation to the Secretary of the Treasury under section 210(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act [12 U.S.C. 5390(b)].
 
-(Dec. 23, 1913, ch. 6, § 13 (pars.), 38 Stat. 263; Sept. 7, 1916, ch. 461, 39 Stat. 752; Mar. 4, 1923, ch. 252, title IV, § 402, 42 Stat. 1478; July 21, 1932, ch. 520, § 210, 47 Stat. 715; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 322, 49 Stat. 704, 714; Pub. L. 102–242, title IV, § 473, Dec. 19, 1991, 105 Stat. 2386; Pub. L. 111–203, title XI, § 1101(a), July 21, 2010, 124 Stat. 2113.)
+(Dec. 23, 1913, ch. 6, § 13 (pars.), 38 Stat. 263; Sept. 7, 1916, ch. 461, 39 Stat. 752; Mar. 4, 1923, ch. 252, title IV, § 402, 42 Stat. 1478; July 21, 1932, ch. 520, § 210, 47 Stat. 715; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 322, 49 Stat. 704, 714; Pub. L. 102–242, title IV, § 473, Dec. 19, 1991, 105 Stat. 2386; Pub. L. 111–203, title XI, § 1101(a), July 21, 2010, 124 Stat. 2113.)
 
 **Editorial Notes**
 
@@ -2563,23 +2563,23 @@ shall be kept confidential, upon the written request of the Chairman of the Boar
 
 This chapter, referred to in the first par., was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in par. (3)(B)(ii), (iii), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title II of the Act is classified principally to subchapter II (§ 5381 et seq.) of chapter 53 of this title. For complete classification of the Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in par. (3)(B)(ii), (iii), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title II of the Act is classified principally to subchapter II (§ 5381 et seq.) of chapter 53 of this title. For complete classification of the Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
-Section is comprised of the second par. and par. (3) of section 13 of act Dec. 23, 1913. Act Mar. 4, 1923, split the second par. of section 13, as amended in 1916 (39 Stat. 752), into two pars., the first of which constitutes the first par. of this section and the second of which constitutes section 344 of this title. Act July 21, 1932, added the second par. of this section which was designated to follow the second par. of section 13. Pub. L. 111–203, § 1101(a)(1), designated the second par. as par. (3). For classification to this title of other pars. of section 13, see Codification note set out under section 342 of this title.
+Section is comprised of the second par. and par. (3) of section 13 of act Dec. 23, 1913. Act Mar. 4, 1923, split the second par. of section 13, as amended in 1916 (39 Stat. 752), into two pars., the first of which constitutes the first par. of this section and the second of which constitutes section 344 of this title. Act July 21, 1932, added the second par. of this section which was designated to follow the second par. of section 13. Pub. L. 111–203, § 1101(a)(1), designated the second par. as par. (3). For classification to this title of other pars. of section 13, see Codification note set out under section 342 of this title.
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1101(a)(1)–(4), designated second par. as par. (3)(A), substituted “any participant in any program or facility with broad-based eligibility” for “any individual, partnership, or corporation”, “bill of exchange,” for “bill of exchange for an individual or a partnership or corporation”, and “such participant in any program or facility with broad-based eligibility” for “such individual, partnership, or corporation”.
+2010—Pub. L. 111–203, § 1101(a)(1)–(4), designated second par. as par. (3)(A), substituted “any participant in any program or facility with broad-based eligibility” for “any individual, partnership, or corporation”, “bill of exchange,” for “bill of exchange for an individual or a partnership or corporation”, and “such participant in any program or facility with broad-based eligibility” for “such individual, partnership, or corporation”.
 
-Par. (3)(A). Pub. L. 111–203, § 1101(a)(5), which directed substitution of “for any participant in any program or facility with broad-based eligibility” for “for individuals, partnerships, corporations”, was executed by making the substitution for “for individuals, partnerships, or corporations”, to reflect the probable intent of Congress.
+Par. (3)(A). Pub. L. 111–203, § 1101(a)(5), which directed substitution of “for any participant in any program or facility with broad-based eligibility” for “for individuals, partnerships, corporations”, was executed by making the substitution for “for individuals, partnerships, or corporations”, to reflect the probable intent of Congress.
 
-Par. (3)(B) to (E). Pub. L. 111–203, § 1101(a)(6), added subpars. (B) to (E).
+Par. (3)(B) to (E). Pub. L. 111–203, § 1101(a)(6), added subpars. (B) to (E).
 
 1991—Pub. L. 102–242 struck out “of the kinds and maturities made eligible for discount for member banks under other provisions of this chapter” after first reference to “bills of exchange” in second par.
 
-1935—Act Aug. 23, 1935, § 322, substituted words immediately preceding proviso for “indorsed and otherwise secured to the satisfaction of the Federal reserve bank.”
+1935—Act Aug. 23, 1935, § 322, substituted words immediately preceding proviso for “indorsed and otherwise secured to the satisfaction of the Federal reserve bank.”
 
 1932—Act July 21, 1932, added second par.
 
@@ -2595,17 +2595,17 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Construction of Div. N of Pub. L. 116–260**
 
-Pub. L. 116–260, div. N, title X, § 1006, Dec. 27, 2020, 134 Stat. 2147, provided that: “Except as expressly set forth in paragraphs (1) and (2) of subsection (c) of section 4029 of the CARES Act [15 U.S.C. 9063(c)(1), (2)], as added by this Act, nothing in this Act [div. N of Pub. L. 116–260, see Tables for classification] shall be construed to modify or limit the authority of the Board of Governors of the Federal Reserve System under section 13(3) of the Federal Reserve Act (12 U.S.C. 343(3)) as of the day before the date of enactment of the CARES Act (Public Law 116–136) [Mar. 27, 2020].”
+Pub. L. 116–260, div. N, title X, § 1006, Dec. 27, 2020, 134 Stat. 2147, provided that: “Except as expressly set forth in paragraphs (1) and (2) of subsection (c) of section 4029 of the CARES Act [15 U.S.C. 9063(c)(1), (2)], as added by this Act, nothing in this Act [div. N of Pub. L. 116–260, see Tables for classification] shall be construed to modify or limit the authority of the Board of Governors of the Federal Reserve System under section 13(3) of the Federal Reserve Act (12 U.S.C. 343(3)) as of the day before the date of enactment of the CARES Act (Public Law 116–136) [Mar. 27, 2020].”
 
 **References to Third Undesignated Paragraph Deemed To Be References to Paragraph (3)**
 
-Pub. L. 111–203, title XI, § 1101(c), July 21, 2010, 124 Stat. 2115, provided that: “On and after the date of enactment of this Act [July 21, 2010], any reference in any provision of Federal law to the third undesignated paragraph of section 13 of the Federal Reserve Act (12 U.S.C. 343) shall be deemed to be a reference to section 13(3) of the Federal Reserve Act [12 U.S.C. 343(3)], as so designated by this section.”
+Pub. L. 111–203, title XI, § 1101(c), July 21, 2010, 124 Stat. 2115, provided that: “On and after the date of enactment of this Act [July 21, 2010], any reference in any provision of Federal law to the third undesignated paragraph of section 13 of the Federal Reserve Act (12 U.S.C. 343) shall be deemed to be a reference to section 13(3) of the Federal Reserve Act [12 U.S.C. 343(3)], as so designated by this section.”
 
-### § 344. Discount or purchase of bills to finance agricultural shipments
+### § 344. Discount or purchase of bills to finance agricultural shipments
 
 Upon the indorsement of any of its member banks, which shall be deemed a waiver of demand, notice, and protest by such bank as to its own indorsement exclusively, and subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, any Federal reserve bank may discount or purchase bills of exchange payable at sight or on demand which grow out of the domestic shipment or the exportation of nonperishable, readily marketable agricultural and other staples and are secured by bills of lading or other shipping documents conveying or securing title to such staples: *Provided*, That all such bills of exchange shall be forwarded promptly for collection, and demand for payment shall be made with reasonable promptness after the arrival of such staples at their destination: *Provided further*, That no such bill shall in any event be held by or for the account of a Federal reserve bank for a period in excess of ninety days. In discounting such bills Federal reserve banks may compute the interest to be deducted on the basis of the estimated life of each bill and adjust the discount after payment of such bills to conform to the actual life thereof.
 
-(Dec. 23, 1913, ch. 6, § 13 (par.), as added Mar. 4, 1923, ch. 252, title IV, § 402, 42 Stat. 1479; amended May 29, 1928, ch. 884, 45 Stat. 975; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 13 (par.), as added Mar. 4, 1923, ch. 252, title IV, § 402, 42 Stat. 1479; amended May 29, 1928, ch. 884, 45 Stat. 975; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -2623,11 +2623,11 @@ Section is comprised of the fourth par. of section 13 of act Dec. 23, 1913, as a
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 345. Rediscount of notes, drafts, and bills for member banks; limitation of amount
+### § 345. Rediscount of notes, drafts, and bills for member banks; limitation of amount
 
 The aggregate of notes, drafts, and bills upon which any person, copartnership, association, or corporation is liable as maker, acceptor, indorser, drawer, or guarantor, rediscounted for any member bank, shall at no time exceed the amount for which such person, copartnership, association, or corporation may lawfully become liable to a national banking association under the terms of section 84 of this title: *Provided, however*, That nothing in this section shall be construed to change the character or class of paper now eligible for rediscount by Federal reserve banks.
 
-(Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 264; Mar. 3, 1915, ch. 93, 38 Stat. 958; Sept. 7, 1916, ch. 461, 39 Stat. 752; Apr. 12, 1930, ch. 140, 46 Stat. 162.)
+(Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 264; Mar. 3, 1915, ch. 93, 38 Stat. 958; Sept. 7, 1916, ch. 461, 39 Stat. 752; Apr. 12, 1930, ch. 140, 46 Stat. 162.)
 
 **Editorial Notes**
 
@@ -2639,11 +2639,11 @@ Section is comprised of the fifth par. of section 13 of act Dec. 23, 1913, as am
 
 1930—Act Apr. 12, 1930, among other changes, inserted proviso.
 
-### § 346. Discount of acceptances
+### § 346. Discount of acceptances
 
 Any Federal reserve bank may discount acceptances of the kinds hereinafter described, which have a maturity at the time of discount of not more than ninety days’ sight, exclusive of days of grace, and which are indorsed by at least one member bank: *Provided*, That such acceptances if drawn for an agricultural purpose and secured at the time of acceptance by warehouse receipts or other such documents conveying or securing title covering readily marketable staples may be discounted with a maturity at the time of discount of not more than six months’ sight exclusive of days of grace.
 
-(Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 264; Mar. 3, 1915, ch. 93, 38 Stat. 958; Sept. 7, 1916, ch. 461, 39 Stat. 752; Mar. 4, 1923, ch. 252, title IV, § 403, 42 Stat. 1479.)
+(Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 264; Mar. 3, 1915, ch. 93, 38 Stat. 958; Sept. 7, 1916, ch. 461, 39 Stat. 752; Mar. 4, 1923, ch. 252, title IV, § 403, 42 Stat. 1479.)
 
 **Editorial Notes**
 
@@ -2655,21 +2655,21 @@ Words “hereinafter described” are from the sixth par. of section 13 of the F
 
 Section is comprised of the sixth par. of section 13 of act Dec. 23, 1913, as amended. The sixth par. constituted the fourth par. of section 13 in 1916 (39 Stat. 752), became the fifth par. in 1923 (42 Stat. 1478), and became the sixth par. in 1932 (47 Stat. 715). For further details, see Codification notes under sections 343 and 344 of this title. For classification to this title of other pars. of section 13, see Codification note set out under section 342 of this title.
 
-### § 347. Advances to member banks on their notes
+### § 347. Advances to member banks on their notes
 
-Any Federal reserve bank may make advances for periods not exceeding fifteen days to its member banks on their promissory notes secured by the deposit or pledge of bonds, notes, certificates of indebtedness, or Treasury bills of the United States, or by the deposit or pledge of debentures or other such obligations of Federal intermediate credit banks which are eligible for purchase by Federal reserve banks under section 350 of this title, or by the deposit or pledge of bonds issued under the provisions of subsection (c) of section 1463 1
+Any Federal reserve bank may make advances for periods not exceeding fifteen days to its member banks on their promissory notes secured by the deposit or pledge of bonds, notes, certificates of indebtedness, or Treasury bills of the United States, or by the deposit or pledge of debentures or other such obligations of Federal intermediate credit banks which are eligible for purchase by Federal reserve banks under section 350 of this title, or by the deposit or pledge of bonds issued under the provisions of subsection (c) of section 1463 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and any Federal reserve bank may make advances for periods not exceeding ninety days to its member banks on their promissory notes secured by such notes, drafts, bills of exchange, or bankers’ acceptances as are eligible for rediscount or for purchase by Federal reserve banks under the provisions of this chapter, or secured by such obligations as are eligible for purchase under section 355 of this title. All such advances shall be made at rates to be established by such Federal reserve banks, such rates to be subject to the review and determination of the Board of Governors of the Federal Reserve System. If any member bank to which any such advance has been made shall, during the life or continuance of such advance, and despite an official warning of the reserve bank of the district or of the Board of Governors of the Federal Reserve System to the contrary, increase its outstanding loans secured by collateral in the form of stocks, bonds, debentures, or other such obligations, or loans made to members of any organized stock exchange, investment house, or dealer in securities, upon any obligation, note, or bill, secured or unsecured, for the purpose of purchasing and/or carrying stocks, bonds, or other investment securities (except obligations of the United States) such advance shall be deemed immediately due and payable, and such member bank shall be ineligible as a borrower at the reserve bank of the district under the provisions of this section for such period as the Board of Governors of the Federal Reserve System shall determine: *Provided*, That no temporary carrying or clearance loans made solely for the purpose of facilitating the purchase or delivery of securities offered for public subscription shall be included in the loans referred to in this section.
 
-(Dec. 23, 1913, ch. 6, § 13 (par.), as added Sept. 7, 1916, ch. 461, 39 Stat. 753; amended May 19, 1932, ch. 191, § 6, 47 Stat. 160; May 12, 1933, ch. 25, title II, § 28, 48 Stat. 46; June 16, 1933, ch. 89, § 9, 48 Stat. 180; Jan. 31, 1934, ch. 7, § 16(a), 48 Stat. 348; Apr. 27, 1934, ch. 168, § 7(a), 48 Stat. 646; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 87–353, § 3(c), Oct. 4, 1961, 75 Stat. 773; Pub. L. 90–505, § 3(a), Sept. 21, 1968, 82 Stat. 856.)
+(Dec. 23, 1913, ch. 6, § 13 (par.), as added Sept. 7, 1916, ch. 461, 39 Stat. 753; amended May 19, 1932, ch. 191, § 6, 47 Stat. 160; May 12, 1933, ch. 25, title II, § 28, 48 Stat. 46; June 16, 1933, ch. 89, § 9, 48 Stat. 180; Jan. 31, 1934, ch. 7, § 16(a), 48 Stat. 348; Apr. 27, 1934, ch. 168, § 7(a), 48 Stat. 646; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 87–353, § 3(c), Oct. 4, 1961, 75 Stat. 773; Pub. L. 90–505, § 3(a), Sept. 21, 1968, 82 Stat. 856.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1463 of this title, referred to in text, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 648.
+Section 1463 of this title, referred to in text, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 648.
 
 This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
@@ -2699,11 +2699,11 @@ Act May 12, 1933, added Federal farm-loan bonds as security for advances.
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 347a. Advances to member bank groups; inadequate amounts of eligible and acceptable assets; liability of individual banks in group; distribution of loans among banks of group; rate of interest; notes accepted for advances as collateral security for Federal reserve notes; foreign obligations as security for advances
+### § 347a. Advances to member bank groups; inadequate amounts of eligible and acceptable assets; liability of individual banks in group; distribution of loans among banks of group; rate of interest; notes accepted for advances as collateral security for Federal reserve notes; foreign obligations as security for advances
 
-Upon receiving the consent of not less than five members of the Board of Governors of the Federal Reserve System, any Federal reserve bank may make advances, in such amount as the board of directors of such Federal reserve bank may determine, to groups of five or more member banks within its district, a majority of them independently owned and controlled, upon their time or demand promissory notes, provided the bank or banks which receive the proceeds of such advances as herein provided have no adequate amounts of eligible and acceptable assets available to enable such bank or banks to obtain sufficient credit accommodations from the Federal reserve bank through rediscounts or advances other than as provided in section 347b 1
+Upon receiving the consent of not less than five members of the Board of Governors of the Federal Reserve System, any Federal reserve bank may make advances, in such amount as the board of directors of such Federal reserve bank may determine, to groups of five or more member banks within its district, a majority of them independently owned and controlled, upon their time or demand promissory notes, provided the bank or banks which receive the proceeds of such advances as herein provided have no adequate amounts of eligible and acceptable assets available to enable such bank or banks to obtain sufficient credit accommodations from the Federal reserve bank through rediscounts or advances other than as provided in section 347b 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title. The liability of the individual banks in each group must be limited to such proportion of the total amount advanced to such group as the deposit liability of the respective banks bears to the aggregate deposit liability of all banks in such group, but such advances may be made to a lesser number of such member banks if the aggregate amount of their deposit liability constitutes at least 10 per centum of the entire deposit liability of the member banks within such district. Such banks shall be authorized to distribute the proceeds of such loans to such of their number and in such amount as they may agree upon, but before so doing they shall require such recipient banks to deposit with a suitable trustee, representing the entire group, their individual notes made in favor of the group protected by such collateral security as may be agreed upon. Any Federal reserve bank making such advance shall charge interest or discount thereon at a rate not less than 1 per centum above its discount rate in effect at the time of making such advance. No such note upon which advances are made by a Federal reserve bank under this section shall be eligible under section 412 of this title as collateral security for Federal reserve notes.
 
@@ -2711,13 +2711,13 @@ No obligations of any foreign government, individual, partnership, association, 
 
 Member banks are authorized to obligate themselves in accordance with the provisions of this section.
 
-(Dec. 23, 1913, ch. 6, § 10A, formerly § 10(a), as added Feb. 27, 1932, ch. 58, § 1, 47 Stat. 56; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; renumbered § 10A, Pub. L. 102–242, title I, § 142(a)(1), Dec. 19, 1991, 105 Stat. 2279.)
+(Dec. 23, 1913, ch. 6, § 10A, formerly § 10(a), as added Feb. 27, 1932, ch. 58, § 1, 47 Stat. 56; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; renumbered § 10A, Pub. L. 102–242, title I, § 142(a)(1), Dec. 19, 1991, 105 Stat. 2279.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 347b of this title, referred to in first par., was in the original a reference to section 10(b), meaning section 10(b) of the Federal Reserve Act. Section 10(b) of that Act was renumbered section 10B by Pub. L. 102–242, title I, § 142(a)(2), Dec. 19, 1991, 105 Stat. 2279, without a corresponding amendment to this section.
+Section 347b of this title, referred to in first par., was in the original a reference to section 10(b), meaning section 10(b) of the Federal Reserve Act. Section 10(b) of that Act was renumbered section 10B by Pub. L. 102–242, title I, § 142(a)(2), Dec. 19, 1991, 105 Stat. 2279, without a corresponding amendment to this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2725,7 +2725,7 @@ Section 347b of this title, referred to in first par., was in the original a ref
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 347b. Advances to individual member banks on time or demand notes; maturities; time notes secured by mortgage loans covering one-to-four family residences
+### § 347b. Advances to individual member banks on time or demand notes; maturities; time notes secured by mortgage loans covering one-to-four family residences
 
 **(a) In general**
 
@@ -2823,7 +2823,7 @@ The term “depository institution” has the same meaning as in section 1813 of
 
 **(iii)** is not expected to be placed in conservatorship or receivership.
 
-(Dec. 23, 1913, ch. 6, § 10B, formerly § 10(b), as added Feb. 27, 1932, ch. 58, § 2, 47 Stat. 56; amended Feb. 3, 1933, ch. 34, 47 Stat. 794; Mar. 9, 1933, ch. 1, title IV, § 402, 48 Stat. 7; Aug. 23, 1935, ch. 614, title II, § 204, 49 Stat. 705; Pub. L. 93–449, § 5, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 96–221, title I, § 106, Mar. 31, 1980, 94 Stat. 140; renumbered § 10B and amended Pub. L. 102–242, title I, § 142(a)(2), (b), Dec. 19, 1991, 105 Stat. 2279; Pub. L. 104–208, div. A, title II, § 2704(d)(9), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(c), Feb. 15, 2006, 119 Stat. 3616.)
+(Dec. 23, 1913, ch. 6, § 10B, formerly § 10(b), as added Feb. 27, 1932, ch. 58, § 2, 47 Stat. 56; amended Feb. 3, 1933, ch. 34, 47 Stat. 794; Mar. 9, 1933, ch. 1, title IV, § 402, 48 Stat. 7; Aug. 23, 1935, ch. 614, title II, § 204, 49 Stat. 705; Pub. L. 93–449, § 5, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 96–221, title I, § 106, Mar. 31, 1980, 94 Stat. 140; renumbered § 10B and amended Pub. L. 102–242, title I, § 142(a)(2), (b), Dec. 19, 1991, 105 Stat. 2279; Pub. L. 104–208, div. A, title II, § 2704(d)(9), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(c), Feb. 15, 2006, 119 Stat. 3616.)
 
 **Editorial Notes**
 
@@ -2835,11 +2835,11 @@ This chapter, referred to in subsec. (b)(4), was in the original “this Act”,
 
 2006—Subsec. (b)(3)(A)(ii). Pub. L. 109–173 substituted “the Deposit Insurance Fund of” for “any deposit insurance fund in”.
 
-Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(9). See 1996 Amendment note below.
+Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(9). See 1996 Amendment note below.
 
-1996—Subsec. (b)(3)(A)(ii). Pub. L. 104—208, § 2704(d)(9), which directed the amendment of cl. (ii) by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+1996—Subsec. (b)(3)(A)(ii). Pub. L. 104—208, § 2704(d)(9), which directed the amendment of cl. (ii) by substituting “the Deposit Insurance Fund of” for “any deposit insurance fund in”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1991—Pub. L. 102–242, § 142(b), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+1991—Pub. L. 102–242, § 142(b), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1980—Pub. L. 96–221 struck out second sentence of first par. relating to interest on notes under this section.
 
@@ -2865,7 +2865,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–242, title I, § 142(d), Dec. 19, 1991, 105 Stat. 2281, provided that: “The amendment made by subsection (b) [amending this section] shall take effect at the end of the 2-year period beginning on the date of enactment of this Act [Dec. 19, 1991].”
+Pub. L. 102–242, title I, § 142(d), Dec. 19, 1991, 105 Stat. 2281, provided that: “The amendment made by subsection (b) [amending this section] shall take effect at the end of the 2-year period beginning on the date of enactment of this Act [Dec. 19, 1991].”
 
 **Effective Date of 1980 Amendment**
 
@@ -2877,11 +2877,11 @@ Amendment by Pub. L. 96–221 effective on first day of sixth month which begins
 
 Proclamation No. 2076, Feb. 16, 1934, 48 Stat. 1734, extended section to Mar. 3, 1935. See 1935 amendment note above.
 
-### § 347c. Advances to individuals, partnerships, and corporations; security; interest rate
+### § 347c. Advances to individuals, partnerships, and corporations; security; interest rate
 
 Subject to such limitations, restrictions, and regulations as the Board of Governors of the Federal Reserve System may prescribe, any Federal reserve bank may make advances to any individual, partnership, or corporation on the promissory notes of such individual, partnership, or corporation secured by direct obligations of the United States or by any obligation which is a direct obligation of, or fully guaranteed as to principal and interest by any agency of the United States. Such advances shall be made for periods not exceeding 90 days and shall bear interest at rates fixed from time to time by the Federal reserve bank, subject to the review and determination of the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, § 13 (par.), as added Mar. 9, 1933, ch. 1, title IV, § 403, 48 Stat. 7; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 90–505, § 3(b), Sept. 21, 1968, 82 Stat. 856.)
+(Dec. 23, 1913, ch. 6, § 13 (par.), as added Mar. 9, 1933, ch. 1, title IV, § 403, 48 Stat. 7; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 90–505, § 3(b), Sept. 21, 1968, 82 Stat. 856.)
 
 **Editorial Notes**
 
@@ -2899,11 +2899,11 @@ Section is comprised of the thirteenth par. of section 13 of act Dec. 23, 1913, 
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 347d. Transactions between Federal Reserve banks and branch or agency of foreign bank; matters considered
+### § 347d. Transactions between Federal Reserve banks and branch or agency of foreign bank; matters considered
 
 Subject to such restrictions, limitations, and regulations as may be imposed by the Board of Governors of the Federal Reserve System, each Federal Reserve bank may receive deposits from, discount paper endorsed by, and make advances to any branch or agency of a foreign bank in the same manner and to the same extent that it may exercise such powers with respect to a member bank if such branch or agency is maintaining reserves with such Reserve bank pursuant to section 3105 of this title. In exercising any such powers with respect to any such branch or agency, each Federal Reserve bank shall give due regard to account balances being maintained by such branch or agency with such Reserve bank and the proportion of the assets of such branch or agency being held as reserves under section 3105 of this title. For the purposes of this paragraph, the terms “branch”, “agency”, and “foreign bank” shall have the same meanings assigned to them in section 3101 of this title.
 
-(Dec. 23, 1913, ch. 6, § 13 (par.), as added Pub. L. 95–369, § 7(b), Sept. 17, 1978, 92 Stat. 621.)
+(Dec. 23, 1913, ch. 6, § 13 (par.), as added Pub. L. 95–369, § 7(b), Sept. 17, 1978, 92 Stat. 621.)
 
 **Editorial Notes**
 
@@ -2913,13 +2913,13 @@ Section is comprised of the fourteenth (last) par. of section 13 of act Dec. 23,
 
 **Prior Provisions**
 
-A prior section 347d, act Mar. 9, 1933, ch. 1, § 404, as added Mar. 24, 1933, ch. 8, § 1, 48 Stat. 20, which related to direct loans to State banks and trust companies, was omitted from the Code as terminated since by its own terms, it was effective for only one year following date of its enactment, Mar. 24, 1933.
+A prior section 347d, act Mar. 9, 1933, ch. 1, § 404, as added Mar. 24, 1933, ch. 8, § 1, 48 Stat. 20, which related to direct loans to State banks and trust companies, was omitted from the Code as terminated since by its own terms, it was effective for only one year following date of its enactment, Mar. 24, 1933.
 
-### § 348. Discount of obligations given for agricultural purposes or based upon livestock; collateral security for Federal reserve notes
+### § 348. Discount of obligations given for agricultural purposes or based upon livestock; collateral security for Federal reserve notes
 
 Upon the indorsement of any of its member banks, which shall be deemed a waiver of demand, notice, and protest by such bank as to its own indorsement exclusively, any Federal reserve bank may, subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, discount notes, drafts, and bills of exchange issued or drawn for an agricultural purpose, or based upon livestock, and having a maturity, at the time of discount, exclusive of days of grace, not exceeding nine months, and such notes, drafts, and bills of exchange may be offered as collateral security for the issuance of Federal reserve notes under the provisions of section 16 of this Act: *Provided*, That notes, drafts, and bills of exchange with maturities in excess of six months shall not be eligible as a basis for the issuance of Federal reserve notes unless secured by warehouse receipts or other such negotiable documents conveying or securing title to readily marketable staple agricultural products or by chattel mortgage upon livestock which is being fattened for market.
 
-(Dec. 23, 1913, ch. 6, § 13A (par.), formerly § 13a, as added Mar. 4, 1923, ch. 252, title IV, § 404, 42 Stat. 1479; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; renumbered § 13A, Pub. L. 102–242, title I, § 142(e)(1), Dec. 19, 1991, 105 Stat. 2281.)
+(Dec. 23, 1913, ch. 6, § 13A (par.), formerly § 13a, as added Mar. 4, 1923, ch. 252, title IV, § 404, 42 Stat. 1479; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; renumbered § 13A, Pub. L. 102–242, title I, § 142(e)(1), Dec. 19, 1991, 105 Stat. 2281.)
 
 **Editorial Notes**
 
@@ -2937,11 +2937,11 @@ Section is comprised of first par. of section 13A, formerly section 13a, as adde
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 348a. Transactions with foreign banks; supervision of Board of Governors of the Federal Reserve System
+### § 348a. Transactions with foreign banks; supervision of Board of Governors of the Federal Reserve System
 
 The Board of Governors of the Federal Reserve System shall exercise special supervision over all relationships and transactions of any kind entered into by any Federal reserve bank with any foreign bank or banker, or with any group of foreign banks or bankers, and all such relationships and transactions shall be subject to such regulations, conditions, and limitations as the Board may prescribe. No officer or other representative of any Federal reserve bank shall conduct negotiations of any kind with the officers or representatives of any foreign bank or banker without first obtaining the permission of the Board of Governors of the Federal Reserve System. The Board of Governors of the Federal Reserve System shall have the right, in its discretion, to be represented in any conference or negotiations by such representative or representatives as the Board may designate. A full report of all conferences or negotiations, and all understandings or agreements arrived at or transactions agreed upon, and all other material facts appertaining to such conferences or negotiations, shall be filed with the Board of Governors of the Federal Reserve System in writing by a duly authorized officer of each Federal reserve bank which shall have participated in such conferences or negotiations.
 
-(Dec. 23, 1913, ch. 6, § 14(g), as added June 16, 1933, ch. 89, § 10, 48 Stat. 181; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 14(g), as added June 16, 1933, ch. 89, § 10, 48 Stat. 181; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2949,23 +2949,23 @@ The Board of Governors of the Federal Reserve System shall exercise special supe
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 349. Rediscount for intermediate credit banks of obligations given for agricultural purposes; discount of notes made pursuant to section 1031
+### § 349. Rediscount for intermediate credit banks of obligations given for agricultural purposes; discount of notes made pursuant to section 1031
 
-Any Federal reserve bank may, subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, rediscount such notes, drafts, and bills mentioned in section 348 of this title for any Federal intermediate credit bank, except that no Federal reserve bank shall rediscount for a Federal intermediate credit bank any such note or obligation which bears the indorsement of a nonmember State bank or trust company which is eligible for membership in the Federal reserve system in accordance with subchapter VIII of this chapter. Any Federal reserve bank may also, subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, discount notes payable to and bearing the indorsement of any Federal intermediate credit bank covering loans or advances made by such bank pursuant to the provisions of section 1031 1
+Any Federal reserve bank may, subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, rediscount such notes, drafts, and bills mentioned in section 348 of this title for any Federal intermediate credit bank, except that no Federal reserve bank shall rediscount for a Federal intermediate credit bank any such note or obligation which bears the indorsement of a nonmember State bank or trust company which is eligible for membership in the Federal reserve system in accordance with subchapter VIII of this chapter. Any Federal reserve bank may also, subject to regulations and limitations to be prescribed by the Board of Governors of the Federal Reserve System, discount notes payable to and bearing the indorsement of any Federal intermediate credit bank covering loans or advances made by such bank pursuant to the provisions of section 1031 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title which have maturities at the time of discount of not more than nine months, exclusive of days of grace, and which are secured by notes, drafts, or bills of exchange eligible for rediscount by Federal Reserve banks.
 
-(Dec. 23, 1913, ch. 6, § 13A (par.), formerly § 13a, as added Mar. 4, 1923, ch. 252, title IV, § 404, 42 Stat. 1479; amended May 19, 1932, ch. 191, § 5, 47 Stat. 160; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; renumbered § 13A, Pub. L. 102–242, title I, § 142(e)(1), Dec. 19, 1991, 105 Stat. 2281.)
+(Dec. 23, 1913, ch. 6, § 13A (par.), formerly § 13a, as added Mar. 4, 1923, ch. 252, title IV, § 404, 42 Stat. 1479; amended May 19, 1932, ch. 191, § 5, 47 Stat. 160; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; renumbered § 13A, Pub. L. 102–242, title I, § 142(e)(1), Dec. 19, 1991, 105 Stat. 2281.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter VIII of this chapter, referred to in text, was in the original “section 9 of this Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. Section 9 of the act is classified generally to subchapter VIII (§ 321 et seq.) of this chapter.
+Subchapter VIII of this chapter, referred to in text, was in the original “section 9 of this Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. Section 9 of the act is classified generally to subchapter VIII (§ 321 et seq.) of this chapter.
 
-Section 1031 of this title, referred to in text, was repealed by Pub. L. 92–181, title V, § 5.26(a), Dec. 10, 1971, 85 Stat. 624. See section 2074 of this title.
+Section 1031 of this title, referred to in text, was repealed by Pub. L. 92–181, title V, § 5.26(a), Dec. 10, 1971, 85 Stat. 624. See section 2074 of this title.
 
 **Codification**
 
@@ -2981,17 +2981,17 @@ Section is comprised of second par. of section 13A, formerly section 13a, as add
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 350. Purchase and sale of debentures and like obligations of intermediate credit banks and agricultural credit corporations
+### § 350. Purchase and sale of debentures and like obligations of intermediate credit banks and agricultural credit corporations
 
 Any Federal reserve bank may also buy and sell debentures and other such obligations issued by a Federal intermediate credit bank or by a national agricultural credit corporation, but only to the same extent as and subject to the same limitations as those upon which it may buy and sell bonds issued under title I of the Federal Farm Loan Act.
 
-(Dec. 23, 1913, ch. 6, § 13A (par.), formerly § 13a, as added Mar. 4, 1923, ch. 252, title IV, § 404, 42 Stat. 1480; renumbered § 13A, Pub. L. 102–242, title I, § 142(e)(1), Dec. 19, 1991, 105 Stat. 2281.)
+(Dec. 23, 1913, ch. 6, § 13A (par.), formerly § 13a, as added Mar. 4, 1923, ch. 252, title IV, § 404, 42 Stat. 1480; renumbered § 13A, Pub. L. 102–242, title I, § 142(e)(1), Dec. 19, 1991, 105 Stat. 2281.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title I of the Federal Farm Loan Act, referred to in text, is title I of act July 17, 1916, ch. 245, 39 Stat. 360. Title I was classified to chapter 7 (§ 641 et seq.) of this title, and was repealed by Pub. L. 92–181, title V, § 5.26(a), Dec. 10, 1971, 85 Stat. 624.
+Title I of the Federal Farm Loan Act, referred to in text, is title I of act July 17, 1916, ch. 245, 39 Stat. 360. Title I was classified to chapter 7 (§ 641 et seq.) of this title, and was repealed by Pub. L. 92–181, title V, § 5.26(a), Dec. 10, 1971, 85 Stat. 624.
 
 **Codification**
 
@@ -3001,13 +3001,13 @@ Section is comprised of third par. of section 13A, formerly section 13a, as adde
 
 **National Agricultural Credit Corporation**
 
-Title II of the Agricultural Credits Act, act Mar. 4, 1923, title II, §§ 201–217, 42 Stat. 1461, authorized creation of national agricultural credit corporations, prior to repeal by Pub. L. 86–230, Sept. 18, 1959, § 24, 73 Stat. 466. Prior to such repeal, act June 16, 1933, § 77, 48 Stat. 292, had prohibited the creation, after June 16, 1933, of national agricultural credit corporations authorized to be formed under the Agricultural Credits Act.
+Title II of the Agricultural Credits Act, act Mar. 4, 1923, title II, §§ 201–217, 42 Stat. 1461, authorized creation of national agricultural credit corporations, prior to repeal by Pub. L. 86–230, Sept. 18, 1959, § 24, 73 Stat. 466. Prior to such repeal, act June 16, 1933, § 77, 48 Stat. 292, had prohibited the creation, after June 16, 1933, of national agricultural credit corporations authorized to be formed under the Agricultural Credits Act.
 
-### § 351. Obligations of cooperative marketing association as issued or drawn for agricultural purposes
+### § 351. Obligations of cooperative marketing association as issued or drawn for agricultural purposes
 
 Notes, drafts, bills of exchange, or acceptances issued or drawn by cooperative marketing associations composed of producers of agricultural products shall be deemed to have been issued or drawn for an agricultural purpose, within the meaning of sections 348 and 349 to 352 of this title, if the proceeds thereof have been or are to be advanced by such association to any members thereof for an agricultural purpose, or have been or are to be used by such association in making payments to any members thereof on account of agricultural products delivered by such members to the association, or if such proceeds have been or are to be used by such association to meet expenditures incurred or to be incurred by the association in connection with the grading, processing, packing, preparation for market, or marketing of any agricultural product handled by such association for any of its members: *Provided*, That the express enumeration in this section of certain classes of paper of cooperative marketing associations as eligible for rediscount shall not be construed as rendering ineligible any other class of paper of such associations which is now eligible for rediscount.
 
-(Dec. 23, 1913, ch. 6, § 13A (par.), formerly § 13a, as added Mar. 4, 1923, ch. 252, title IV, § 404, 42 Stat. 1480; renumbered § 13A, Pub. L. 102–242, title I, § 142(e)(1), Dec. 19, 1991, 105 Stat. 2281.)
+(Dec. 23, 1913, ch. 6, § 13A (par.), formerly § 13a, as added Mar. 4, 1923, ch. 252, title IV, § 404, 42 Stat. 1480; renumbered § 13A, Pub. L. 102–242, title I, § 142(e)(1), Dec. 19, 1991, 105 Stat. 2281.)
 
 **Editorial Notes**
 
@@ -3015,11 +3015,11 @@ Notes, drafts, bills of exchange, or acceptances issued or drawn by cooperative 
 
 Section is comprised of fourth par. of section 13A, formerly section 13a, as added Mar. 4, 1923. Pars. 1 to 3 and 5 of section 13A are set out as sections 348, 349, 350 and 352 of this title, respectively.
 
-### § 352. Limitation on amount of obligations of certain maturities which may be discounted and rediscounted
+### § 352. Limitation on amount of obligations of certain maturities which may be discounted and rediscounted
 
 The Board of Governors of the Federal Reserve System may, by regulation, limit to a percentage of the assets of a Federal reserve bank the amount of notes, drafts, acceptances, or bills having a maturity in excess of three months, but not exceeding six months, exclusive of days of grace, which may be discounted by such bank, and the amount of notes, drafts, bills, or acceptances having a maturity in excess of six months, but not exceeding nine months, which may be rediscounted by such bank.
 
-(Dec. 23, 1913, ch. 6, § 13A (par.), formerly § 13a, as added Mar. 4, 1923, ch. 252, title IV, § 404, 42 Stat. 1480; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; renumbered § 13A, Pub. L. 102–242, title I, § 142(e)(1), Dec. 19, 1991, 105 Stat. 2281.)
+(Dec. 23, 1913, ch. 6, § 13A (par.), formerly § 13a, as added Mar. 4, 1923, ch. 252, title IV, § 404, 42 Stat. 1480; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; renumbered § 13A, Pub. L. 102–242, title I, § 142(e)(1), Dec. 19, 1991, 105 Stat. 2281.)
 
 **Editorial Notes**
 
@@ -3033,29 +3033,29 @@ Section is comprised of fifth par. of section 13A, formerly section 13a, as adde
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 352a. Repealed. Pub. L. 85–699, title VI, § 601, Aug. 21, 1958, 72 Stat. 697
+### § 352a. Repealed. Pub. L. 85–699, title VI, § 601, Aug. 21, 1958, 72 Stat. 697
 
-Section, act Dec. 23, 1913, ch. 6, § 13b, as added June 19, 1934, ch. 653, § 1, 48 Stat. 1105; amended Aug. 23, 1935, ch. 614, title III, § 323, 49 Stat. 714, authorized Federal Reserve Banks to make loans to industrial and commercial businesses and to discount or purchase industrial obligations from financial institutions, and created an industrial advisory committee.
+Section, act Dec. 23, 1913, ch. 6, § 13b, as added June 19, 1934, ch. 653, § 1, 48 Stat. 1105; amended Aug. 23, 1935, ch. 614, title III, § 323, 49 Stat. 714, authorized Federal Reserve Banks to make loans to industrial and commercial businesses and to discount or purchase industrial obligations from financial institutions, and created an industrial advisory committee.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 85–699, title VI, § 601, Aug. 21, 1958, 72 Stat. 697, provided that the repeal of this section is effective one year after Aug. 21, 1958.
+Pub. L. 85–699, title VI, § 601, Aug. 21, 1958, 72 Stat. 697, provided that the repeal of this section is effective one year after Aug. 21, 1958.
 
 **Savings Provision**
 
-Pub. L. 85–699, title VI, § 601, Aug. 21, 1958, 72 Stat. 697, provided that the repeal of this section shall not affect the power of any Federal Reserve bank to carry out, or protect its interest under, any agreement theretofore made or transaction entered into in carrying on operations under this section.
+Pub. L. 85–699, title VI, § 601, Aug. 21, 1958, 72 Stat. 697, provided that the repeal of this section shall not affect the power of any Federal Reserve bank to carry out, or protect its interest under, any agreement theretofore made or transaction entered into in carrying on operations under this section.
 
 **Fund for Management Counseling**
 
-Pub. L. 85–699, title VI, § 602(a), (b), Aug. 21, 1958, 72 Stat. 698, required Federal Reserve banks to repay to the United States certain amounts paid to them under 12 U.S.C. 352a, such amounts to be covered into a special fund for grants under section 636 of Title 15, Commerce and Trade. See text of note set out under that section.
+Pub. L. 85–699, title VI, § 602(a), (b), Aug. 21, 1958, 72 Stat. 698, required Federal Reserve banks to repay to the United States certain amounts paid to them under 12 U.S.C. 352a, such amounts to be covered into a special fund for grants under section 636 of Title 15, Commerce and Trade. See text of note set out under that section.
 
-### § 353. Purchase and sale of cable transfers, acceptances and bills
+### § 353. Purchase and sale of cable transfers, acceptances and bills
 
 Any Federal reserve bank may, under rules and regulations prescribed by the Board of Governors of the Federal Reserve System, purchase and sell in the open market, at home or abroad, either from or to domestic or foreign banks, firms, corporations, or individuals, cable transfers and bankers’ acceptances and bills of exchange of the kinds and maturities by this chapter made eligible for rediscount, with or without the indorsement of a member bank.
 
-(Dec. 23, 1913, ch. 6, § 14 (par.), 38 Stat. 264; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 14 (par.), 38 Stat. 264; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -3073,11 +3073,11 @@ Section is comprised of introductory provisions of section 14 of act Dec. 23, 19
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 354. Transactions involving gold coin, bullion, and certificates
+### § 354. Transactions involving gold coin, bullion, and certificates
 
 Every Federal reserve bank shall have power to deal in gold coin and bullion at home or abroad, to make loans thereon, exchange Federal reserve notes for gold, gold coin, or gold certificates, and to contract for loans of gold coin or bullion, giving therefor, when necessary, acceptable security, including the hypothecation of United States bonds or other securities which Federal reserve banks are authorized to hold.
 
-(Dec. 23, 1913, ch. 6, § 14(a), 38 Stat. 264.)
+(Dec. 23, 1913, ch. 6, § 14(a), 38 Stat. 264.)
 
 **Editorial Notes**
 
@@ -3085,25 +3085,25 @@ Every Federal reserve bank shall have power to deal in gold coin and bullion at 
 
 Section is comprised of subsec. (a) of section 14 of act Dec. 23, 1913. For classification to this title of remainder of section 14, see Codification note set out under section 353 of this title.
 
-### § 355. Purchase and sale of obligations of National, State, and municipal governments; open market operations; purchases and sales from or to United States; maximum aggregate amount of obligations acquired directly from or loaned directly to United States
+### § 355. Purchase and sale of obligations of National, State, and municipal governments; open market operations; purchases and sales from or to United States; maximum aggregate amount of obligations acquired directly from or loaned directly to United States
 
 Every Federal Reserve bank shall have power:
 
-**(1)** To buy and sell, at home or abroad, bonds and notes of the United States, bonds issued under the provisions of subsection (c) of section 1463 1
+**(1)** To buy and sell, at home or abroad, bonds and notes of the United States, bonds issued under the provisions of subsection (c) of section 1463 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title and having maturities from date of purchase of not exceeding six months, and bills, notes, revenue bonds, and warrants with a maturity from date of purchase of not exceeding six months, issued in anticipation of the collection of taxes or in anticipation of the receipt of assured revenues by any State, county, district, political subdivision, or municipality in the continental United States, including irrigation, drainage and reclamation districts, and obligations of, or fully guaranteed as to principal and interest by, a foreign government or agency thereof, such purchases to be made in accordance with rules and regulations prescribed by the Board of Governors of the Federal Reserve System. Notwithstanding any other provision of this chapter, any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.
 
 **(2)** To buy and sell in the open market, under the direction and regulations of the Federal Open Market Committee, any obligation which is a direct obligation of, or fully guaranteed as to principal and interest by, any agency of the United States.
 
-(Dec. 23, 1913, ch. 6, § 14(b), 38 Stat. 264; Jan. 31, 1934, ch. 7, § 16(b), 48 Stat. 348; Apr. 27, 1934, ch. 168, § 7(b), 48 Stat. 646; Aug. 23, 1935, ch. 614, title II, §§ 203(a), 206(a), 49 Stat. 704, 706; Mar. 27, 1942, ch. 199, title IV, § 401, 56 Stat. 180; Apr. 28, 1947, ch. 44, 61 Stat. 56; June 30, 1950, ch. 425, 64 Stat. 307; June 23, 1952, ch. 454, 66 Stat. 154; June 29, 1954, ch. 422, 68 Stat. 329; June 25, 1956, ch. 447, 70 Stat. 339; Pub. L. 85–476, June 30, 1958, 72 Stat. 261; Pub. L. 86–567, July 1, 1960, 74 Stat. 295; Pub. L. 87–353, § 3(d), Oct. 4, 1961, 75 Stat. 773; Pub. L. 87–506, June 28, 1962, 76 Stat. 112; Pub. L. 88–344, June 30, 1964, 78 Stat. 235; Pub. L. 89–484, June 30, 1966, 80 Stat. 235; Pub. L. 89–597, § 6, Sept. 21, 1966, 80 Stat. 825; Pub. L. 90–300, May 4, 1968, 82 Stat. 113; Pub. L. 91–360, July 31, 1970, 84 Stat. 668; Pub. L. 92–45, July 2, 1971, 85 Stat. 100; Pub. L. 93–93, Aug. 14, 1973, 87 Stat. 314; Pub. L. 93–495, title I, § 109, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 94–125, Nov. 12, 1975, 89 Stat. 678; Pub. L. 95–22, title II, § 201, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–128, title II, § 209, Oct. 12, 1977, 91 Stat. 1131; Pub. L. 95–154, Nov. 7, 1977, 91 Stat. 1256; Pub. L. 95–534, Oct. 27, 1978, 92 Stat. 2032; Pub. L. 96–18, §§ 1, 3, June 8, 1979, 93 Stat. 35, 36; Pub. L. 96–221, title I, § 105(b)(2), Mar. 31, 1980, 94 Stat. 140.)
+(Dec. 23, 1913, ch. 6, § 14(b), 38 Stat. 264; Jan. 31, 1934, ch. 7, § 16(b), 48 Stat. 348; Apr. 27, 1934, ch. 168, § 7(b), 48 Stat. 646; Aug. 23, 1935, ch. 614, title II, §§ 203(a), 206(a), 49 Stat. 704, 706; Mar. 27, 1942, ch. 199, title IV, § 401, 56 Stat. 180; Apr. 28, 1947, ch. 44, 61 Stat. 56; June 30, 1950, ch. 425, 64 Stat. 307; June 23, 1952, ch. 454, 66 Stat. 154; June 29, 1954, ch. 422, 68 Stat. 329; June 25, 1956, ch. 447, 70 Stat. 339; Pub. L. 85–476, June 30, 1958, 72 Stat. 261; Pub. L. 86–567, July 1, 1960, 74 Stat. 295; Pub. L. 87–353, § 3(d), Oct. 4, 1961, 75 Stat. 773; Pub. L. 87–506, June 28, 1962, 76 Stat. 112; Pub. L. 88–344, June 30, 1964, 78 Stat. 235; Pub. L. 89–484, June 30, 1966, 80 Stat. 235; Pub. L. 89–597, § 6, Sept. 21, 1966, 80 Stat. 825; Pub. L. 90–300, May 4, 1968, 82 Stat. 113; Pub. L. 91–360, July 31, 1970, 84 Stat. 668; Pub. L. 92–45, July 2, 1971, 85 Stat. 100; Pub. L. 93–93, Aug. 14, 1973, 87 Stat. 314; Pub. L. 93–495, title I, § 109, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 94–125, Nov. 12, 1975, 89 Stat. 678; Pub. L. 95–22, title II, § 201, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–128, title II, § 209, Oct. 12, 1977, 91 Stat. 1131; Pub. L. 95–154, Nov. 7, 1977, 91 Stat. 1256; Pub. L. 95–534, Oct. 27, 1978, 92 Stat. 2032; Pub. L. 96–18, §§ 1, 3, June 8, 1979, 93 Stat. 35, 36; Pub. L. 96–221, title I, § 105(b)(2), Mar. 31, 1980, 94 Stat. 140.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1463 of this title, referred to in par. (1), was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 648.
+Section 1463 of this title, referred to in par. (1), was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 648.
 
 This chapter, referred to in par. (1), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
@@ -3115,13 +3115,13 @@ Section is comprised of subsec. (b) of section 14 of act Dec. 23, 1913. For clas
 
 1980—Par. (1). Pub. L. 96–221 inserted provisions relating to obligations of a foreign government or agency thereof.
 
-1979—Par. (1). Pub. L. 96–18, § 1(a), struck out proviso under which Federal Reserve banks had been allowed, until May 1, 1979, to buy and sell either in the open market or directly from or to the United States bonds, notes, or other obligations which were direct obligations of the United States or which were fully guaranteed by the United States and, after Apr. 30, 1979, had allowed such obligations to be purchased but only in the open market.
+1979—Par. (1). Pub. L. 96–18, § 1(a), struck out proviso under which Federal Reserve banks had been allowed, until May 1, 1979, to buy and sell either in the open market or directly from or to the United States bonds, notes, or other obligations which were direct obligations of the United States or which were fully guaranteed by the United States and, after Apr. 30, 1979, had allowed such obligations to be purchased but only in the open market.
 
-Pub. L. 96–18, § 3(b), inserted provision that notwithstanding any other provision of this chapter, any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.
+Pub. L. 96–18, § 3(b), inserted provision that notwithstanding any other provision of this chapter, any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.
 
-Par. (2). Pub. L. 96–18, §§ 1(b), 3(a), temporarily substituted “the United States or any agency of the United States, and to lend, under the direction and regulations of the Federal Open Market Committee, any such obligation to the Secretary of the Treasury” for “any agency of the United States”. See Effective and Termination Dates of 1979 Amendment note set out below.
+Par. (2). Pub. L. 96–18, §§ 1(b), 3(a), temporarily substituted “the United States or any agency of the United States, and to lend, under the direction and regulations of the Federal Open Market Committee, any such obligation to the Secretary of the Treasury” for “any agency of the United States”. See Effective and Termination Dates of 1979 Amendment note set out below.
 
-Pars. (3), (4). Pub. L. 96–18, §§ 1(c), 3(a), temporarily added pars. (3) and (4). See Effective and Termination Dates of 1979 Amendment note set out below.
+Pars. (3), (4). Pub. L. 96–18, §§ 1(c), 3(a), temporarily added pars. (3) and (4). See Effective and Termination Dates of 1979 Amendment note set out below.
 
 1978—Par. (1). Pub. L. 95–534 substituted “May 1, 1979” for “May 1, 1978” and “April 30, 1979” for “April 30, 1978”.
 
@@ -3169,7 +3169,7 @@ Pub. L. 89–484 substituted “July 1, 1968” for “July 1, 1966” and “Ju
 
 1942—Act Mar. 27, 1942, amended proviso generally.
 
-1935—Act Aug. 23, 1935, § 206(a), inserted proviso.
+1935—Act Aug. 23, 1935, § 206(a), inserted proviso.
 
 1934—Act Apr. 27, 1934, authorized purchase and sale of bonds issued under subsec. (c) of [former] section 1463 of this title.
 
@@ -3185,23 +3185,23 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 Amendment by Pub. L. 96–221 effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 248 of this title.
 
-Pub. L. 96–221, title I, § 105(b)(2), Mar. 31, 1980, 94 Stat. 140, provided that the amendment made by section 105(b)(2) of Pub. L. 96–221 is applicable to 12 U.S.C. 355(1) as such section is in effect on the first day of the sixth month which begins after March 31, 1980, and as it will be in effect on June 1, 1981.
+Pub. L. 96–221, title I, § 105(b)(2), Mar. 31, 1980, 94 Stat. 140, provided that the amendment made by section 105(b)(2) of Pub. L. 96–221 is applicable to 12 U.S.C. 355(1) as such section is in effect on the first day of the sixth month which begins after March 31, 1980, and as it will be in effect on June 1, 1981.
 
 **Effective and Termination Dates of 1979 Amendment**
 
-Pub. L. 96–18, § 3(a), June 8, 1979, 93 Stat. 36, provided that: “Except for the amendments made by subsection (a) of the first section of this Act [amending par. (1) of this section], and except for the amendment made by subsection (b) of this section [amending par. (1) of this section effective upon the expiration of the two-year period beginning on June 8, 1979], the amendments made by this Act [enacting section 359a of this title and pars. (3) and (4) of this section and amending par. (2) of this section] shall be effective only during the two-year period which begins on the date of enactment of this Act [June 8, 1979]. Upon the expiration of such period, each provision of law amended by this Act [enacting section 359a of this title and amending this section], except section 14(b)(1) of the Federal Reserve Act [par. (1) of this section], is amended to read as it did immediately prior to the enactment of this Act.”
+Pub. L. 96–18, § 3(a), June 8, 1979, 93 Stat. 36, provided that: “Except for the amendments made by subsection (a) of the first section of this Act [amending par. (1) of this section], and except for the amendment made by subsection (b) of this section [amending par. (1) of this section effective upon the expiration of the two-year period beginning on June 8, 1979], the amendments made by this Act [enacting section 359a of this title and pars. (3) and (4) of this section and amending par. (2) of this section] shall be effective only during the two-year period which begins on the date of enactment of this Act [June 8, 1979]. Upon the expiration of such period, each provision of law amended by this Act [enacting section 359a of this title and amending this section], except section 14(b)(1) of the Federal Reserve Act [par. (1) of this section], is amended to read as it did immediately prior to the enactment of this Act.”
 
-Pub. L. 96–18, § 3(b), June 8, 1979, 93 Stat. 36, provided that the amendment made by that section is effective “Upon the expiration of the 2-year period which begins on the date of enactment of this Act [June 8, 1979]”.
+Pub. L. 96–18, § 3(b), June 8, 1979, 93 Stat. 36, provided that the amendment made by that section is effective “Upon the expiration of the 2-year period which begins on the date of enactment of this Act [June 8, 1979]”.
 
 **Expiration of 1942 Amendment**
 
 Amendment of the proviso of this section by act Mar. 27, 1942, remained in force only until the date fixed by section 645 of the former Appendix to Title 50, War and National Defense, after which provisions in force before the amendment again became effective. Before the 1942 amendment, the proviso of this section read: *“Provided*, That any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.”
 
-### § 356. Purchase of commercial paper from member banks and sale of same
+### § 356. Purchase of commercial paper from member banks and sale of same
 
 Every Federal reserve bank shall have power to purchase from member banks and to sell, with or without its indorsement, bills of exchange arising out of commercial transactions, as hereinbefore defined.
 
-(Dec. 23, 1913, ch. 6, § 14(c), 38 Stat. 264.)
+(Dec. 23, 1913, ch. 6, § 14(c), 38 Stat. 264.)
 
 **Editorial Notes**
 
@@ -3209,11 +3209,11 @@ Every Federal reserve bank shall have power to purchase from member banks and to
 
 Section is comprised of subsec. (c) of section 14 of act Dec. 23, 1913. For classification to this title of remainder of section 14, see Codification note under section 353 of this title.
 
-### § 357. Establishment of rates of discount
+### § 357. Establishment of rates of discount
 
 Every Federal reserve bank shall have power to establish from time to time, subject to review and determination of the Board of Governors of the Federal Reserve System, rates of discount to be charged by the Federal reserve bank for each class of paper, which shall be fixed with a view of accommodating commerce and business, but each such bank shall establish such rates every fourteen days, or oftener if deemed necessary by the Board.
 
-(Dec. 23, 1913, ch. 6, § 14(d), 38 Stat. 264; Apr. 13, 1920, ch. 128, 41 Stat. 550; Mar. 4, 1923, ch. 252, title IV, § 407, 42 Stat. 1480; Aug. 23, 1935, ch. 614, title II, §§ 203(a), 206(b), 49 Stat. 704, 706.)
+(Dec. 23, 1913, ch. 6, § 14(d), 38 Stat. 264; Apr. 13, 1920, ch. 128, 41 Stat. 550; Mar. 4, 1923, ch. 252, title IV, § 407, 42 Stat. 1480; Aug. 23, 1935, ch. 614, title II, §§ 203(a), 206(b), 49 Stat. 704, 706.)
 
 **Editorial Notes**
 
@@ -3223,7 +3223,7 @@ Section is comprised of subsec. (d) of section 14 of act Dec. 23, 1913. For clas
 
 **Amendments**
 
-1935—Act Aug. 23, 1935, § 206(b), inserted words at end of section beginning “but each such”.
+1935—Act Aug. 23, 1935, § 206(b), inserted words at end of section beginning “but each such”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3231,11 +3231,11 @@ Section is comprised of subsec. (d) of section 14 of act Dec. 23, 1913. For clas
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 358. Establishment of accounts for purposes of open-market operations; correspondents and agencies
+### § 358. Establishment of accounts for purposes of open-market operations; correspondents and agencies
 
 Every Federal reserve bank shall have power to establish accounts with other Federal reserve banks for exchange purposes and, with the consent or upon the order and direction of the Board of Governors of the Federal Reserve System and under regulations to be prescribed by said Board, to open and maintain accounts in foreign countries, appoint correspondents, and establish agencies in such countries wheresoever it may be deemed best for the purpose of purchasing, selling, and collecting bills of exchange, and to buy and sell, with or without its indorsement, through such correspondents or agencies, bills of exchange (or acceptances) arising out of actual commercial transactions which have not more than ninety days to run, exclusive of days of grace, and which bear the signature of two or more responsible parties, and, with the consent of the Board of Governors of the Federal Reserve System, to open and maintain banking accounts for such foreign correspondents or agencies, or for foreign banks or bankers, or for foreign states as defined in section 632 of this title. Whenever any such account has been opened or agency or correspondent has been appointed by a Federal reserve bank, with the consent of or under the order and direction of the Board of Governors of the Federal Reserve System, any other Federal reserve bank may, with the consent and approval of the Board of Governors of the Federal Reserve System, be permitted to carry on or conduct, through the Federal reserve bank opening such account or appointing such agency or correspondent, any transaction authorized by this section under rules and regulations to be prescribed by the board.
 
-(Dec. 23, 1913, ch. 6, § 14(e), 38 Stat. 264; Sept. 7, 1916, ch. 461, 39 Stat. 754; June 21, 1917, ch. 32, § 6, 40 Stat. 235; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Apr. 7, 1941, ch. 43, § 1, 55 Stat. 131.)
+(Dec. 23, 1913, ch. 6, § 14(e), 38 Stat. 264; Sept. 7, 1916, ch. 461, 39 Stat. 754; June 21, 1917, ch. 32, § 6, 40 Stat. 235; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Apr. 7, 1941, ch. 43, § 1, 55 Stat. 131.)
 
 **Editorial Notes**
 
@@ -3245,7 +3245,7 @@ Section is comprised of subsec. (e) of section 14 of act Dec. 23, 1913. For clas
 
 **Amendments**
 
-1941—Act Apr. 7, 1941, inserted in first sentence “, or for foreign banks or bankers, or for foreign states as defined in section 632 of this title” after “foreign correspondents or agencies”.
+1941—Act Apr. 7, 1941, inserted in first sentence “, or for foreign banks or bankers, or for foreign states as defined in section 632 of this title” after “foreign correspondents or agencies”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3253,11 +3253,11 @@ Section is comprised of subsec. (e) of section 14 of act Dec. 23, 1913. For clas
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 359. Purchase and sale of acceptances of intermediate credit banks and agricultural credit corporations
+### § 359. Purchase and sale of acceptances of intermediate credit banks and agricultural credit corporations
 
 Every Federal reserve bank shall have power to purchase and sell in the open market, either from or to domestic banks, firms, corporations, or individuals, acceptances of Federal intermediate credit banks and of national agricultural credit corporations, whenever the Board of Governors of the Federal Reserve System shall declare that the public interest so requires.
 
-(Dec. 23, 1913, ch. 6, § 14(f), as added Mar. 4, 1923, ch. 252, title IV, § 405, 42 Stat. 1480; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 14(f), as added Mar. 4, 1923, ch. 252, title IV, § 405, 42 Stat. 1480; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -3273,21 +3273,21 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 **National Agricultural Credit Corporation**
 
-Title II of the Agricultural Credits Act, act Mar. 4, 1923, title II, §§ 201–217, 42 Stat. 1461, authorized creation of national agricultural credit corporations, prior to repeal by Pub. L. 86–230, Sept. 8, 1959, § 24, 73 Stat. 466. Prior to such repeal, act June 16, 1933, § 77, 48 Stat. 292, had prohibited the creation, after June 16, 1933, of national agricultural credit corporations authorized to be formed under the Agricultural Credits Act.
+Title II of the Agricultural Credits Act, act Mar. 4, 1923, title II, §§ 201–217, 42 Stat. 1461, authorized creation of national agricultural credit corporations, prior to repeal by Pub. L. 86–230, Sept. 8, 1959, § 24, 73 Stat. 466. Prior to such repeal, act June 16, 1933, § 77, 48 Stat. 292, had prohibited the creation, after June 16, 1933, of national agricultural credit corporations authorized to be formed under the Agricultural Credits Act.
 
-### § 359a. Omitted
+### § 359a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Dec. 23, 1913, ch. 6, § 14(h), as added June 8, 1979, Pub. L. 96–18, § 2, 93 Stat. 35, which authorized the Secretary of the Treasury to borrow and sell in open market, and required the repurchase and return of obligations to Federal Reserve Banks, was effective only during the two-year period that began June 8, 1979, as provided by section 3(a) of Pub. L. 96–18.
+Section, act Dec. 23, 1913, ch. 6, § 14(h), as added June 8, 1979, Pub. L. 96–18, § 2, 93 Stat. 35, which authorized the Secretary of the Treasury to borrow and sell in open market, and required the repurchase and return of obligations to Federal Reserve Banks, was effective only during the two-year period that began June 8, 1979, as provided by section 3(a) of Pub. L. 96–18.
 
-### § 360. Receiving checks and drafts on deposit at par; charges for collections, exchange, and clearances
+### § 360. Receiving checks and drafts on deposit at par; charges for collections, exchange, and clearances
 
 Every Federal reserve bank shall receive on deposit at par from depository institutions or from Federal reserve banks checks and other items, including negotiable orders of withdrawal and share drafts and drafts drawn upon any of its depositors, and when remitted by a Federal reserve bank, checks and other items, including negotiable orders of withdrawal and share drafts and drafts drawn by any depositor in any other Federal reserve bank or depository institution upon funds to the credit of said depositor in said reserve bank or depository institution. Nothing herein contained shall be construed as prohibiting a depository institution from charging its actual expense incurred in collecting and remitting funds, or for exchange sold to its patrons. The Board of Governors of the Federal Reserve System shall, by rule, fix the charges to be collected by the depository institutions from its patrons whose checks and other items, including negotiable orders of withdrawal and share drafts are cleared through the Federal reserve bank and the charge which may be imposed for the service of clearing or collection rendered by the Federal reserve bank.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 265; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 96–221, title I, § 105(c), Mar. 31, 1980, 94 Stat. 140.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 265; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 96–221, title I, § 105(c), Mar. 31, 1980, 94 Stat. 140.)
 
 **Editorial Notes**
 
@@ -3309,11 +3309,11 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 Amendment by Pub. L. 96–221 effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as a note under section 248 of this title.
 
-### § 361. Bills receivable, bills of exchange, acceptances; regulations by Board of Governors
+### § 361. Bills receivable, bills of exchange, acceptances; regulations by Board of Governors
 
 The discount and rediscount and the purchase and sale by any Federal reserve bank of any bills receivable and of domestic and foreign bills of exchange, and of acceptances authorized by this chapter, shall be subject to such restrictions, limitations, and regulations as may be imposed by the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 264; Sept. 7, 1916, ch. 461, 39 Stat. 753; Aug. 23, 1935, ch. 614, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 264; Sept. 7, 1916, ch. 461, 39 Stat. 753; Aug. 23, 1935, ch. 614, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -3331,7 +3331,7 @@ Section is based on the tenth par. of section 13 of act Dec. 23, 1913, as amende
 
 Section 203(a) of act Aug. 23, 1935, changed the name of the Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### §§ 362 to 364. Omitted
+### §§ 362 to 364. Omitted
 
 **Editorial Notes**
 
@@ -3363,7 +3363,7 @@ Section 364, act Sept. 26, 1970, Pub. L. 91–422, title II, 84 Stat. 875, which
 
 ## SUBCHAPTER X—POWERS AND DUTIES OF MEMBER BANKS
 
-### § 371. Real estate loans
+### § 371. Real estate loans
 
 **(a) Authorization to make real estate loans; orders, rules, and regulations of Comptroller of the Currency**
 
@@ -3373,7 +3373,7 @@ Any national banking association may make, arrange, purchase or sell loans or ex
 
 Notes representing loans made under this section to finance the construction of residential or farm buildings and having maturities not to exceed nine months shall be eligible for discount as commercial paper within the terms of the first paragraph of section 343 of this title if accompanied by a valid and binding agreement to advance the full amount of the loan upon the completion of the building entered into by an individual, partnership, association, or corporation acceptable to the discounting bank.
 
-(Dec. 23, 1913, ch. 6, § 24, 38 Stat. 273; Sept. 7, 1916, ch. 461, 39 Stat. 754; Feb. 25, 1927, ch. 191, § 16, 44 Stat. 1232; June 27, 1934, ch. 847, § 505, 48 Stat. 1263; Aug. 23, 1935, ch. 614, title II, § 208, title III, § 328, 49 Stat. 706, 717; Mar. 28, 1941, ch. 31, § 8, 55 Stat. 62; July 22, 1937, ch. 517, § 15(a), as added Aug. 14, 1946, ch. 964, § 5, 60 Stat. 1079; May 25, 1948, ch. 334, § 9, 62 Stat. 265; Oct. 25, 1949, ch. 729, § 6, 63 Stat. 906; Apr. 20, 1950, ch. 94, title V, § 502, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, § 207, title V, § 503, 65 Stat. 303, 312; Aug. 15, 1953, ch. 510, 67 Stat. 613; July 22, 1954, ch. 561, 68 Stat. 525; Aug. 28, 1937, ch. 870, § 10(f), as added Aug. 17, 1954, ch. 751, § 1(4), 68 Stat. 736; Aug. 11, 1955, ch. 781, §§ 1, 2, 69 Stat. 633, 634; Pub. L. 85–536, § 3, July 18, 1958, 72 Stat. 396; Pub. L. 86–251, § 4, Sept. 9, 1959, 73 Stat. 489; Pub. L. 87–70, title VIII, § 804(c), title IX, § 902, June 30, 1961, 75 Stat. 188, 191; Pub. L. 87–717, Sept. 28, 1962, 76 Stat. 662; Pub. L. 88–341, June 30, 1964, 78 Stat. 233; Pub. L. 88–560, title X, § 1004, Sept. 2, 1964, 78 Stat. 807; Pub. L. 89–117, title II, § 201(b)(2), title XI, § 1111, Aug. 10, 1965, 79 Stat. 465, 509; Pub. L. 89–754, title V, § 504(a)(2), Nov. 3, 1966, 80 Stat. 1277; Pub. L. 90–19, § 26, May 25, 1967, 81 Stat. 28; Pub. L. 90–448, title IV, § 416(b), title XVII, § 1718, Aug. 1, 1968, 82 Stat. 518, 609; Pub. L. 91–351, title VII, § 704, July 24, 1970, 84 Stat. 462; Pub. L. 91–609, title VII, § 727(c), Dec. 31, 1970, 84 Stat. 1803; Pub. L. 93–383, title VII, § 711, title VIII, § 802(i)(1), Aug. 22, 1974, 88 Stat. 716, 725; Pub. L. 97–320, title IV, § 403(a), Oct. 15, 1982, 96 Stat. 1510; Pub. L. 102–242, title III, § 304(b), Dec. 19, 1991, 105 Stat. 2354.)
+(Dec. 23, 1913, ch. 6, § 24, 38 Stat. 273; Sept. 7, 1916, ch. 461, 39 Stat. 754; Feb. 25, 1927, ch. 191, § 16, 44 Stat. 1232; June 27, 1934, ch. 847, § 505, 48 Stat. 1263; Aug. 23, 1935, ch. 614, title II, § 208, title III, § 328, 49 Stat. 706, 717; Mar. 28, 1941, ch. 31, § 8, 55 Stat. 62; July 22, 1937, ch. 517, § 15(a), as added Aug. 14, 1946, ch. 964, § 5, 60 Stat. 1079; May 25, 1948, ch. 334, § 9, 62 Stat. 265; Oct. 25, 1949, ch. 729, § 6, 63 Stat. 906; Apr. 20, 1950, ch. 94, title V, § 502, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, § 207, title V, § 503, 65 Stat. 303, 312; Aug. 15, 1953, ch. 510, 67 Stat. 613; July 22, 1954, ch. 561, 68 Stat. 525; Aug. 28, 1937, ch. 870, § 10(f), as added Aug. 17, 1954, ch. 751, § 1(4), 68 Stat. 736; Aug. 11, 1955, ch. 781, §§ 1, 2, 69 Stat. 633, 634; Pub. L. 85–536, § 3, July 18, 1958, 72 Stat. 396; Pub. L. 86–251, § 4, Sept. 9, 1959, 73 Stat. 489; Pub. L. 87–70, title VIII, § 804(c), title IX, § 902, June 30, 1961, 75 Stat. 188, 191; Pub. L. 87–717, Sept. 28, 1962, 76 Stat. 662; Pub. L. 88–341, June 30, 1964, 78 Stat. 233; Pub. L. 88–560, title X, § 1004, Sept. 2, 1964, 78 Stat. 807; Pub. L. 89–117, title II, § 201(b)(2), title XI, § 1111, Aug. 10, 1965, 79 Stat. 465, 509; Pub. L. 89–754, title V, § 504(a)(2), Nov. 3, 1966, 80 Stat. 1277; Pub. L. 90–19, § 26, May 25, 1967, 81 Stat. 28; Pub. L. 90–448, title IV, § 416(b), title XVII, § 1718, Aug. 1, 1968, 82 Stat. 518, 609; Pub. L. 91–351, title VII, § 704, July 24, 1970, 84 Stat. 462; Pub. L. 91–609, title VII, § 727(c), Dec. 31, 1970, 84 Stat. 1803; Pub. L. 93–383, title VII, § 711, title VIII, § 802(i)(1), Aug. 22, 1974, 88 Stat. 716, 725; Pub. L. 97–320, title IV, § 403(a), Oct. 15, 1982, 96 Stat. 1510; Pub. L. 102–242, title III, § 304(b), Dec. 19, 1991, 105 Stat. 2354.)
 
 **Editorial Notes**
 
@@ -3401,19 +3401,19 @@ Subsec. (f). Pub. L. 97–320 struck out subsec. (f) “Any national banking ass
 
 Subsec. (g). Pub. L. 97–320 struck out subsec. (g) “Loans made pursuant to this section shall be subject to such conditions and limitations as the Comptroller of the Currency may prescribe by rule or regulation.”
 
-1974—Subsec. (a). Pub. L. 93–383, §§ 711, 802(i)(1), designated unlettered first par. as subsec. (a), substantially revised provisions relating to real estate loans by associations, and inserted reference to obligations guaranteed by section 1440 of title 42.
+1974—Subsec. (a). Pub. L. 93–383, §§ 711, 802(i)(1), designated unlettered first par. as subsec. (a), substantially revised provisions relating to real estate loans by associations, and inserted reference to obligations guaranteed by section 1440 of title 42.
 
-Subsecs. (b) to (f). Pub. L. 93–383, § 711, designated unlettered second, third, fourth, and fifth pars. as subsecs. (b) to (f) and substantially revised provisions relating to real estate loans secured by liens upon forest tracts, loans made to finance the construction of buildings, notes representing loans, repayment of loans, and waiver of restrictions and limitations.
+Subsecs. (b) to (f). Pub. L. 93–383, § 711, designated unlettered second, third, fourth, and fifth pars. as subsecs. (b) to (f) and substantially revised provisions relating to real estate loans secured by liens upon forest tracts, loans made to finance the construction of buildings, notes representing loans, repayment of loans, and waiver of restrictions and limitations.
 
-Subsec. (g). Pub. L. 93–383, § 711, added subsec. (g) authorizing the Comptroller of the Currency to prescribe rules and regulations relating to loans.
+Subsec. (g). Pub. L. 93–383, § 711, added subsec. (g) authorizing the Comptroller of the Currency to prescribe rules and regulations relating to loans.
 
 1970—Pub. L. 91–609 authorized national banks to invest in obligations guaranteed under part B of the Urban Growth and New Community Development Act of 1970.
 
 Pub. L. 91–351 substituted in cl. (3) of third sentence of first par. “90 per centum” for “80 per centum” and “thirty years” for “twenty-five years”, and in first sentence of third par. “sixty months” for “thirty-six months” wherever appearing.
 
-1968—Pub. L. 90–448, § 416(b), substituted “any national banking association may make loans or purchase obligations for land development which are secured by mortgages insured under title X of the National Housing Act or guaranteed under title IV of the Housing and Urban Development Act of 1968” for “any national banking association may make loans for land development which are secured by mortgages insured under title X of the National Housing Act” in first par.
+1968—Pub. L. 90–448, § 416(b), substituted “any national banking association may make loans or purchase obligations for land development which are secured by mortgages insured under title X of the National Housing Act or guaranteed under title IV of the Housing and Urban Development Act of 1968” for “any national banking association may make loans for land development which are secured by mortgages insured under title X of the National Housing Act” in first par.
 
-Pub. L. 90–448, § 1718, substituted “in whole or in part and at any time or times prior to the maturity of such obligation” for “when the entire amount of such obligation is sold to the association” wherever appearing in first and second pars., “thirty-six months” for “twenty-four months” in two places in second par., and “Loans made to any borrower (i) where the association looks for repayment by relying primarily on the borrower’s general credit standing and forecast of income, with or without other security, or (ii) where the association relies on other security as collateral for the loans (including but not limited to a guaranty of a third party), and where, in either case described in clause (i) or (ii) above, the association wishes to take a mortgage, deed of trust, or other instrument upon real estate (whether or not constituting a first lien) as a precaution against contingencies, such loans shall not be considered as real estate loans within the meaning of this section but shall be classed as ordinary non-real-estate loans” for “Loans made to manufacturing and industrial businesses where the association looks for repayment out of the operations of the borrower’s business, relying primarily on the borrower’s general credit standing and forecast of operations, with or without other security, but wishes to take a mortgage on the borrower’s real estate as a precaution against contingencies, shall not be considered as real estate loans within the meaning of this section but shall be classed as ordinary commercial loans” in last par.
+Pub. L. 90–448, § 1718, substituted “in whole or in part and at any time or times prior to the maturity of such obligation” for “when the entire amount of such obligation is sold to the association” wherever appearing in first and second pars., “thirty-six months” for “twenty-four months” in two places in second par., and “Loans made to any borrower (i) where the association looks for repayment by relying primarily on the borrower’s general credit standing and forecast of income, with or without other security, or (ii) where the association relies on other security as collateral for the loans (including but not limited to a guaranty of a third party), and where, in either case described in clause (i) or (ii) above, the association wishes to take a mortgage, deed of trust, or other instrument upon real estate (whether or not constituting a first lien) as a precaution against contingencies, such loans shall not be considered as real estate loans within the meaning of this section but shall be classed as ordinary non-real-estate loans” for “Loans made to manufacturing and industrial businesses where the association looks for repayment out of the operations of the borrower’s business, relying primarily on the borrower’s general credit standing and forecast of operations, with or without other security, but wishes to take a mortgage on the borrower’s real estate as a precaution against contingencies, shall not be considered as real estate loans within the meaning of this section but shall be classed as ordinary commercial loans” in last par.
 
 1967—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Housing and Home Finance Administrator” in first sentence of fourth par.
 
@@ -3427,31 +3427,31 @@ Pub. L. 88–341 substituted “60 per centum of the appraised fair market value
 
 1962—Pub. L. 87–717 increased aggregate real estate loan limitation from 60 to 70 per centum of a bank’s time and savings deposits, and limitation on maturities for loans made to finance the construction of residential or farm buildings, from nine months or less to eighteen months or less.
 
-1961—Pub. L. 87–70 inserted “, or title V of the Housing Act of 1949, as amended” after “sections 590r to 590x–3 of title 16” in first par., and in next to last par. inserted provisions permitting home improvement loans which are insured under section 1709(k) or 1715k(h) of this title to be made without regard to the first lien requirements of this section.
+1961—Pub. L. 87–70 inserted “, or title V of the Housing Act of 1949, as amended” after “sections 590r to 590x–3 of title 16” in first par., and in next to last par. inserted provisions permitting home improvement loans which are insured under section 1709(k) or 1715k(h) of this title to be made without regard to the first lien requirements of this section.
 
-1959—Pub. L. 86–251, § 4(a), substituted in second sentence of first par., “under a lease which does not expire for at least 10 years beyond the maturity date of the loan” for “(1) under a lease for not less than ninety-nine years which is renewable or (2) under a lease having a period of not less than fifty years to run from the date the loan is made or acquired by the national banking association”.
+1959—Pub. L. 86–251, § 4(a), substituted in second sentence of first par., “under a lease which does not expire for at least 10 years beyond the maturity date of the loan” for “(1) under a lease for not less than ninety-nine years which is renewable or (2) under a lease having a period of not less than fifty years to run from the date the loan is made or acquired by the national banking association”.
 
-Pub. L. 86–251, § 4(b)(1), (2), added cl. (3) in third sentence of first par., redesignated former cl. (3) as cl. (4), and prohibited the application of the described limitations and restrictions to State-guaranteed loans.
+Pub. L. 86–251, § 4(b)(1), (2), added cl. (3) in third sentence of first par., redesignated former cl. (3) as cl. (4), and prohibited the application of the described limitations and restrictions to State-guaranteed loans.
 
-Pub. L. 86–251, § 4(c), inserted provisions in third par. classifying certain loans for construction of industrial or commercial buildings as ordinary commercial loans and authorized investments in or liability on loans in an amount that includes 100 per centum of its unimpaired surplus fund.
+Pub. L. 86–251, § 4(c), inserted provisions in third par. classifying certain loans for construction of industrial or commercial buildings as ordinary commercial loans and authorized investments in or liability on loans in an amount that includes 100 per centum of its unimpaired surplus fund.
 
-Pub. L. 86–251, § 4(d), added par. classifying certain loans to manufacturing and industrial businesses as ordinary commercial loans.
+Pub. L. 86–251, § 4(d), added par. classifying certain loans to manufacturing and industrial businesses as ordinary commercial loans.
 
 1958—Pub. L. 85–536 amended fourth par. by striking out “or the Small Business Administration” after “Housing and Home Finance Administrator” and “or the Small Business Act of 1953” after “or 1701g–1 of this title”, and inserting provisions exempting loans in which the Small Business Administration cooperates through agreements to participate on an immediate or deferred basis from the restrictions or limitations of this section imposed upon loans secured by real estate.
 
-1955—Act Aug. 11, 1955, § 1, amended first par. generally to increase the percentage of the loan to the appraised value of the property from 60 to 66⅔ percent in the case of 40 percent amortized residential mortgage loans not exceeding a 10-year maturity, and to permit national banks to make a residential real-estate loan in an amount not to exceed 66⅔ percent of the appraised value of the property and for a term not longer than 20 years.
+1955—Act Aug. 11, 1955, § 1, amended first par. generally to increase the percentage of the loan to the appraised value of the property from 60 to 66⅔ percent in the case of 40 percent amortized residential mortgage loans not exceeding a 10-year maturity, and to permit national banks to make a residential real-estate loan in an amount not to exceed 66⅔ percent of the appraised value of the property and for a term not longer than 20 years.
 
-Act Aug. 11, 1955, § 2, amended third par. by increasing from 6 to 9 months construction loans for the purpose of financing residential or farm buildings.
+Act Aug. 11, 1955, § 2, amended third par. by increasing from 6 to 9 months construction loans for the purpose of financing residential or farm buildings.
 
-1954—Act Aug. 17, 1954, amended third sentence of first par. by inserting “, or sections 590r to 590x–3 of title 16” after “sections 1001–1005d of title 7”.
+1954—Act Aug. 17, 1954, amended third sentence of first par. by inserting “, or sections 590r to 590x–3 of title 16” after “sections 1001–1005d of title 7”.
 
 Act July 22, 1954, amended fourth par. by inserting references to the Small Business Administration and to the Small Business Act of 1953.
 
 1953—Act Aug. 15, 1953, amended section by inserting new second par. to permit the making of real estate loans secured by first liens upon forest tracts which are properly managed.
 
-1951—Act Sept. 1, 1951, § 207, amended third sentence of first par. by inserting a reference to subchapter X of chapter 13 of this title.
+1951—Act Sept. 1, 1951, § 207, amended third sentence of first par. by inserting a reference to subchapter X of chapter 13 of this title.
 
-Act Sept. 1, 1951, § 503, amended third par. by inserting a reference to the Housing and Home Finance Administrator, and references to sections 1701g and 1701g–1 of this title.
+Act Sept. 1, 1951, § 503, amended third par. by inserting a reference to the Housing and Home Finance Administrator, and references to sections 1701g and 1701g–1 of this title.
 
 1950—Act Apr. 20, 1950, amended third sentence of first par. by substituting “1748–1748g, or 1706c of this title” for “or 1748–1748g of this title”.
 
@@ -3473,11 +3473,11 @@ Act Sept. 1, 1951, § 503, amended third par. by inserting a reference to the 
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–320, title IV, § 403(c), Oct. 15, 1982, 96 Stat. 1511, provided that: “This section [amending this section and section 92 of this title] shall take effect upon the expiration of one hundred and eighty days after the date of its enactment [Oct. 15, 1982].”
+Pub. L. 97–320, title IV, § 403(c), Oct. 15, 1982, 96 Stat. 1511, provided that: “This section [amending this section and section 92 of this title] shall take effect upon the expiration of one hundred and eighty days after the date of its enactment [Oct. 15, 1982].”
 
 **Repeals**
 
-Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as not having the effect of repealing the amendments to this section enacted by act July 22, 1937, § 15(a), as added Aug. 14, 1946, and Aug. 28, 1937, § 10(f), as added Aug. 17, 1954, see section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318, set out as a References in Other Laws note under section 1921 of Title 7, Agriculture.
+Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as not having the effect of repealing the amendments to this section enacted by act July 22, 1937, § 15(a), as added Aug. 14, 1946, and Aug. 28, 1937, § 10(f), as added Aug. 17, 1954, see section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318, set out as a References in Other Laws note under section 1921 of Title 7, Agriculture.
 
 **Executive Documents**
 
@@ -3485,21 +3485,21 @@ Repealing provisions of Consolidated Farmers Home Administration Act of 1961 as 
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 371a. Repealed. Pub. L. 111–203, title VI, § 627(a)(1), July 21, 2010, 124 Stat. 1640
+### § 371a. Repealed. Pub. L. 111–203, title VI, § 627(a)(1), July 21, 2010, 124 Stat. 1640
 
-Section, act Dec. 23, 1913, ch. 6, § 19(i), formerly § 19 par. (12), as added June 16, 1933, ch. 89, § 11(b), 48 Stat. 181; amended Aug. 23, 1935, ch. 614, title III, § 324(c), 49 Stat. 714; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; renumbered § 19(i), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824; Pub. L. 96–161, title I, § 101(a), Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§ 302(a), 307, Mar. 31, 1980, 94 Stat. 145, 147, prohibited member banks from paying interest on any deposit payable on demand but included savings provisions and exceptions.
+Section, act Dec. 23, 1913, ch. 6, § 19(i), formerly § 19 par. (12), as added June 16, 1933, ch. 89, § 11(b), 48 Stat. 181; amended Aug. 23, 1935, ch. 614, title III, § 324(c), 49 Stat. 714; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; renumbered § 19(i), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824; Pub. L. 96–161, title I, § 101(a), Dec. 28, 1979, 93 Stat. 1233; Pub. L. 96–221, title III, §§ 302(a), 307, Mar. 31, 1980, 94 Stat. 145, 147, prohibited member banks from paying interest on any deposit payable on demand but included savings provisions and exceptions.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 111–203, title VI, § 627(b), July 21, 2010, 124 Stat. 1640, provided that: “The amendments made by subsection (a) [amending sections 1464 and 1828 of this title and repealing this section] shall take effect 1 year after the date of the enactment of this Act [July 21, 2010].”
+Pub. L. 111–203, title VI, § 627(b), July 21, 2010, 124 Stat. 1640, provided that: “The amendments made by subsection (a) [amending sections 1464 and 1828 of this title and repealing this section] shall take effect 1 year after the date of the enactment of this Act [July 21, 2010].”
 
-### § 371b. Rate of interest on time deposits; payment of time deposits before maturity; waiver of notice requirements for withdrawal of savings deposits
+### § 371b. Rate of interest on time deposits; payment of time deposits before maturity; waiver of notice requirements for withdrawal of savings deposits
 
 The Board may from time to time, after consulting with the Board of Directors of the Federal Deposit Insurance Corporation and the Federal Home Loan Bank Board, prescribe rules governing the advertisement of interest on deposits by member banks on time and savings deposits. The provisions of this section shall not apply to any deposit which is payable only at an office of a member bank located outside of the States of the United States and the District of Columbia. During the period commencing on October 15, 1962, and ending on October 15, 1968, the provisions of this paragraph shall not apply to the rate of interest which may be paid by member banks on time deposits of foreign governments, monetary and financial authorities of foreign governments when acting as such, or international financial institutions of which the United States is a member.
 
-(Dec. 23, 1913, ch. 6, § 19(j), formerly § 19 (par. 13), as added June 16, 1933, ch. 89, § 11(b), 48 Stat. 182; amended Aug. 23, 1935, ch. 614, title III, § 324(c), 49 Stat. 714; Pub. L. 87–827, § 1, Oct. 15, 1962, 76 Stat. 953; Pub. L. 89–79, § 1, July 21, 1965, 79 Stat. 244; renumbered § 19(j) and amended Pub. L. 89–597, § 2(b), (c), Sept. 21, 1966, 80 Stat. 824; Pub. L. 90–505, § 2(a), Sept. 21, 1968, 82 Stat. 856; Pub. L. 96–221, title II, § 207(b)(4)–(6), Mar. 31, 1980, 94 Stat. 144.)
+(Dec. 23, 1913, ch. 6, § 19(j), formerly § 19 (par. 13), as added June 16, 1933, ch. 89, § 11(b), 48 Stat. 182; amended Aug. 23, 1935, ch. 614, title III, § 324(c), 49 Stat. 714; Pub. L. 87–827, § 1, Oct. 15, 1962, 76 Stat. 953; Pub. L. 89–79, § 1, July 21, 1965, 79 Stat. 244; renumbered § 19(j) and amended Pub. L. 89–597, § 2(b), (c), Sept. 21, 1966, 80 Stat. 824; Pub. L. 90–505, § 2(a), Sept. 21, 1968, 82 Stat. 856; Pub. L. 96–221, title II, § 207(b)(4)–(6), Mar. 31, 1980, 94 Stat. 144.)
 
 **Editorial Notes**
 
@@ -3509,7 +3509,7 @@ The Board may from time to time, after consulting with the Board of Directors of
 
 1968—Pub. L. 90–505 gave Board power to prescribe rules governing the payment and advertising of interest on deposits.
 
-1966—Pub. L. 89–597, § 2(c), made authority of Board to prescribe maximum permissible rates of interest that may be paid by member banks on time and savings deposits discretionary rather than mandatory, required prior consultations with the FDIC Board and the FHLB Board, authorized different rate limitations for different classes of deposits, for deposits of different amounts, or according to such other reasonable bases as the Board may deem desirable in the public interest, and struck out provision for rate limitation according to the varying discount rates of member banks in the several Federal Reserve districts.
+1966—Pub. L. 89–597, § 2(c), made authority of Board to prescribe maximum permissible rates of interest that may be paid by member banks on time and savings deposits discretionary rather than mandatory, required prior consultations with the FDIC Board and the FHLB Board, authorized different rate limitations for different classes of deposits, for deposits of different amounts, or according to such other reasonable bases as the Board may deem desirable in the public interest, and struck out provision for rate limitation according to the varying discount rates of member banks in the several Federal Reserve districts.
 
 1965—Pub. L. 89–79 extended until Oct. 15, 1968, the period during which the provisions of this paragraph do not apply to the rate of interest payable by member banks on time deposits of foreign governments, monetary and financial authorities of foreign governments when acting as such, or international financial institutions of which the United States is a member.
 
@@ -3521,11 +3521,11 @@ The Board may from time to time, after consulting with the Board of Directors of
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–221, title II, § 207(b), Mar. 31, 1980, 94 Stat. 144, provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
+Pub. L. 96–221, title II, § 207(b), Mar. 31, 1980, 94 Stat. 144, provided in part that the amendment made by that section is effective 6 years after Mar. 31, 1980.
 
 **Effective and Termination Dates of 1966 Amendment**
 
-Pub. L. 89–597, § 7, Sept. 21, 1966, 80 Stat. 825, as amended, formerly set out as an Effective and Termination Dates of 1966 Amendment note under section 461 of this title (which provided in part that amendment of this section by section 2(c) of Pub. L. 89–597 was effective only to Dec. 15, 1980, and that on Dec. 15, 1980, this section was amended to read as it would without the amendment by section 2(c) of Pub. L. 89–597), was repealed by Pub. L. 96–221, title II, § 207(a), Mar. 31, 1980, 94 Stat. 144.
+Pub. L. 89–597, § 7, Sept. 21, 1966, 80 Stat. 825, as amended, formerly set out as an Effective and Termination Dates of 1966 Amendment note under section 461 of this title (which provided in part that amendment of this section by section 2(c) of Pub. L. 89–597 was effective only to Dec. 15, 1980, and that on Dec. 15, 1980, this section was amended to read as it would without the amendment by section 2(c) of Pub. L. 89–597), was repealed by Pub. L. 96–221, title II, § 207(a), Mar. 31, 1980, 94 Stat. 144.
 
 **Transfer of Functions**
 
@@ -3533,33 +3533,33 @@ Federal Home Loan Bank Board abolished and functions transferred, see sections 4
 
 **Time Deposits; Interest Rates, Limitation**
 
-Pub. L. 93–123, Oct. 15, 1973, 87 Stat. 448, provided that in carrying out the Act of September 21, 1966 (Pub. L. 89–597) [enacting section 1425b of this title, amending sections 355, 371b, 461, and 1828 of this title and section 771 of former Title 31, repealing section 462a–1 of this title, and enacting provisions set out as notes under section 461 of this title] and other provisions of law, the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, the Board of Directors of the Federal Deposit Insurance Corporation, and the Federal Home Loan Bank Board take action to limit rates of interest or dividends paid on time deposits of less than $100,000 by institutions regulated by them, prior to repeal by Pub. L. 96–221, title II, § 207(b)(13), Mar. 31, 1980, 94 Stat. 144, eff. 6 years after Mar. 31, 1980.
+Pub. L. 93–123, Oct. 15, 1973, 87 Stat. 448, provided that in carrying out the Act of September 21, 1966 (Pub. L. 89–597) [enacting section 1425b of this title, amending sections 355, 371b, 461, and 1828 of this title and section 771 of former Title 31, repealing section 462a–1 of this title, and enacting provisions set out as notes under section 461 of this title] and other provisions of law, the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, the Board of Directors of the Federal Deposit Insurance Corporation, and the Federal Home Loan Bank Board take action to limit rates of interest or dividends paid on time deposits of less than $100,000 by institutions regulated by them, prior to repeal by Pub. L. 96–221, title II, § 207(b)(13), Mar. 31, 1980, 94 Stat. 144, eff. 6 years after Mar. 31, 1980.
 
-### § 371b–1. Repealed. Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168
+### § 371b–1. Repealed. Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168
 
-Section, act Dec. 23, 1913, ch. 6, § 19(k), as added Dec. 28, 1979, Pub. L. 96–161, title II, § 208, 93 Stat. 1238, provided that no member bank or affiliate thereof, or any successor or assignee of such member bank or affiliate or any endorser, guarantor, or surety of such member bank or affiliate could plead, raise, or claim directly or by counterclaim, setoff, or otherwise, with respect to any deposit or obligation of such member bank or affiliate, any defense, right, or benefit under any provision of a statute or constitution of a State or of a territory of the United States, or of any law of the District of Columbia, regulating or limiting the rate of interest which could be charged, taken, received, or reserved, that any such provision was preempted, and that no civil or criminal penalty which would otherwise have been applicable under such provision would apply to such member bank or affiliate or to any other person.
+Section, act Dec. 23, 1913, ch. 6, § 19(k), as added Dec. 28, 1979, Pub. L. 96–161, title II, § 208, 93 Stat. 1238, provided that no member bank or affiliate thereof, or any successor or assignee of such member bank or affiliate or any endorser, guarantor, or surety of such member bank or affiliate could plead, raise, or claim directly or by counterclaim, setoff, or otherwise, with respect to any deposit or obligation of such member bank or affiliate, any defense, right, or benefit under any provision of a statute or constitution of a State or of a territory of the United States, or of any law of the District of Columbia, regulating or limiting the rate of interest which could be charged, taken, received, or reserved, that any such provision was preempted, and that no civil or criminal penalty which would otherwise have been applicable under such provision would apply to such member bank or affiliate or to any other person.
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 371b–1, act Dec. 23, 1913, ch. 6, § 19(k), as added Nov. 5, 1979, Pub. L. 96–104, title II, § 201, 93 Stat. 792, identical to this section as added by Pub. L. 96–161, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to deposits made or obligations issued in any State on or after Nov. 5, 1979, but prior to such repeal. See Effective Date of 1979 Amendment note set out below.
+A prior section 371b–1, act Dec. 23, 1913, ch. 6, § 19(k), as added Nov. 5, 1979, Pub. L. 96–104, title II, § 201, 93 Stat. 792, identical to this section as added by Pub. L. 96–161, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to deposits made or obligations issued in any State on or after Nov. 5, 1979, but prior to such repeal. See Effective Date of 1979 Amendment note set out below.
 
-A prior section 371b–1, act Dec. 23, 1913, ch. 6, § 19(k), as added Oct. 29, 1974, Pub. L. 93–501, title III, § 301, 88 Stat. 1560, identical to this section as added by Pub. L. 96–104, was repealed by section 1 of Pub. L. 96–104 except that its provisions shall continue to apply to any deposit made or obligation issued in any State during the period specified in section 304 of Pub. L. 93–501. See Effective and Termination Date of 1974 Amendment note set out below.
+A prior section 371b–1, act Dec. 23, 1913, ch. 6, § 19(k), as added Oct. 29, 1974, Pub. L. 93–501, title III, § 301, 88 Stat. 1560, identical to this section as added by Pub. L. 96–104, was repealed by section 1 of Pub. L. 96–104 except that its provisions shall continue to apply to any deposit made or obligation issued in any State during the period specified in section 304 of Pub. L. 93–501. See Effective and Termination Date of 1974 Amendment note set out below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part that the repeal of this section is effective at the close of Mar. 31, 1980.
+Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part that the repeal of this section is effective at the close of Mar. 31, 1980.
 
 **Savings Provision**
 
-Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, this section [which had been enacted by those laws] shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when this section was in effect in such State.
+Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, this section [which had been enacted by those laws] shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when this section was in effect in such State.
 
 **Effective Date of 1979 Amendments**
 
-Prior to repeal by Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, it was provided by Pub. L. 96–161, title II, § 211, Dec. 28, 1979, 93 Stat. 1239, that:
+Prior to repeal by Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 168, it was provided by Pub. L. 96–161, title II, § 211, Dec. 28, 1979, 93 Stat. 1239, that:
 
 > “The amendments made by sections 208, 209, and 210 of this title [enacting this section and amending sections 1425b and 1828 of this title] shall apply only with respect to deposits made or obligations issued in any State during the period beginning on the date of the enactment of this Act [Dec. 28, 1979] and ending on the earliest of—
 
@@ -3569,7 +3569,7 @@ Prior to repeal by Pub. L. 96–221, title V, § 529, Mar. 31, 1980, 94 Stat. 
 
 > **“(3)** the date on which such State certifies that the voters of such State, after the date of the enactment of this Act [Dec. 28, 1979], have voted in favor of, or to retain, any law, provision of the constitution of such state, or amendment to the constitution of such State which limits the amount of interest which may be charged in connection with such deposits and obligations.”
 
-Prior to its repeal by Pub. L. 96–161, title II, § 212, Dec. 28, 1979, 93 Stat. 1239, it was provided by Pub. L. 96–104, title II, § 204, Nov. 5, 1979, 93 Stat. 793, that:
+Prior to its repeal by Pub. L. 96–161, title II, § 212, Dec. 28, 1979, 93 Stat. 1239, it was provided by Pub. L. 96–104, title II, § 204, Nov. 5, 1979, 93 Stat. 793, that:
 
 > “The amendments made by this title [enacting this section and amending sections 1425b and 1828 of this title] shall apply only with respect to deposits made or obligations issued in any State during the period beginning on the date of the enactment of this Act [Nov. 5, 1979] and ending on the earlier of—
 
@@ -3581,13 +3581,13 @@ Prior to its repeal by Pub. L. 96–161, title II, § 212, Dec. 28, 1979, 93 S
 
 **Effective and Termination Dates of 1974 Amendment**
 
-Prior to repeal by Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789, it was provided by Pub. L. 93–501, title III, § 304, Oct. 29, 1974, 88 Stat. 1561, that: “The amendments made by this title [which enacted this section and amended sections 1425b and 1828 of this title] shall apply to any deposit made or obligation issued in any State after the date of enactment of this title [Oct. 29, 1974], but prior to the earlier of (1) July 1, 1977 or (2) the date (after such date of enactment) on which the State enacts a provision of law which limits the amount of interest which may be charged in connection with deposits or obligations referred to in the amendments made by this title.”
+Prior to repeal by Pub. L. 96–104, § 1, Nov. 5, 1979, 93 Stat. 789, it was provided by Pub. L. 93–501, title III, § 304, Oct. 29, 1974, 88 Stat. 1561, that: “The amendments made by this title [which enacted this section and amended sections 1425b and 1828 of this title] shall apply to any deposit made or obligation issued in any State after the date of enactment of this title [Oct. 29, 1974], but prior to the earlier of (1) July 1, 1977 or (2) the date (after such date of enactment) on which the State enacts a provision of law which limits the amount of interest which may be charged in connection with deposits or obligations referred to in the amendments made by this title.”
 
 **States Having Constitutional Provisions Regarding Maximum Interest Rates**
 
-Pub. L. 96–161, title II, § 213, Dec. 28, 1979, 93 Stat. 1240, provided that the provisions of title II of Pub. L. 96–161, which enacted this section, repealed former section 371b–1 of this title, and enacted provisions set out as a note under this section, continued to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
+Pub. L. 96–161, title II, § 213, Dec. 28, 1979, 93 Stat. 1240, provided that the provisions of title II of Pub. L. 96–161, which enacted this section, repealed former section 371b–1 of this title, and enacted provisions set out as a note under this section, continued to apply until July 1, 1981, in the case of any State having a constitutional provision regarding maximum interest rates.
 
-### § 371b–2. Interbank liabilities
+### § 371b–2. Interbank liabilities
 
 **(a) Purpose**
 
@@ -3631,19 +3631,19 @@ For purposes of this section, the term “insured depository institution” has 
 
 The Board may issue such regulations and orders, including definitions consistent with this section, as may be necessary to administer and carry out the purpose of this section. The appropriate Federal banking agency shall enforce compliance with those regulations under section 1818 of this title.
 
-(Dec. 23, 1913, ch. 6, § 23, as added Pub. L. 102–242, title III, § 308(a), Dec. 19, 1991, 105 Stat. 2362.)
+(Dec. 23, 1913, ch. 6, § 23, as added Pub. L. 102–242, title III, § 308(a), Dec. 19, 1991, 105 Stat. 2362.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 102–242, title III, § 308(c), Dec. 19, 1991, 105 Stat. 2363, provided that: “The amendment made by this section [enacting this section] shall become effective 1 year after the date of enactment of this Act [Dec. 19, 1991].”
+Pub. L. 102–242, title III, § 308(c), Dec. 19, 1991, 105 Stat. 2363, provided that: “The amendment made by this section [enacting this section] shall become effective 1 year after the date of enactment of this Act [Dec. 19, 1991].”
 
 **Regulations**
 
-Pub. L. 102–242, title III, § 308(b), Dec. 19, 1991, 105 Stat. 2362, provided that: “The Board shall prescribe reasonable transition rules to facilitate compliance with section 23 of the Federal Reserve Act [12 U.S.C. 371b–2] (as added by subsection (a)).”
+Pub. L. 102–242, title III, § 308(b), Dec. 19, 1991, 105 Stat. 2362, provided that: “The Board shall prescribe reasonable transition rules to facilitate compliance with section 23 of the Federal Reserve Act [12 U.S.C. 371b–2] (as added by subsection (a)).”
 
-### § 371c. Banking affiliates
+### § 371c. Banking affiliates
 
 **(a) Restrictions on transactions with affiliates**
 
@@ -3767,7 +3767,7 @@ Pub. L. 102–242, title III, § 308(b), Dec. 19, 1991, 105 Stat. 2362, provid
 
 **(d) Exemptions** The provisions of this section, except paragraph (a)(4),1
 
-<sup>1</sup>  So in original. Probably should read “subsection (a)(4),”.
+<sup>1</sup> So in original. Probably should read “subsection (a)(4),”.
 
 shall not be applicable to—
 
@@ -3849,7 +3849,7 @@ For purposes of this section and section 371c–1 of this title, the term “fin
 
 **(4) Amounts of covered transactions.—** The Board may issue such regulations or interpretations as the Board determines are necessary or appropriate with respect to the manner in which a netting agreement may be taken into account in determining the amount of a covered transaction between a member bank or a subsidiary and an affiliate, including the extent to which netting agreements between a member bank or a subsidiary and an affiliate may be taken into account in determining whether a covered transaction is fully secured for purposes of subsection (d)(4). An interpretation under this paragraph with respect to a specific member bank, subsidiary, or affiliate shall be issued jointly with the appropriate Federal banking agency for such member bank, subsidiary, or affiliate.
 
-(Dec. 23, 1913, ch. 6, § 23A, as added June 16, 1933, ch. 89, § 13, 48 Stat. 183; amended Aug. 23, 1935, ch. 614, title III, § 327, 49 Stat. 717; June 30, 1954, ch. 434, § 1, 68 Stat. 358; Pub. L. 86–230, § 1(b), Sept. 8, 1959, 73 Stat. 457; Pub. L. 89–485, §§ 12(a), 13(h), July 1, 1966, 80 Stat. 241, 243; Pub. L. 97–320, title IV, § 410(b), Oct. 15, 1982, 96 Stat. 1515; Pub. L. 97–457, § 22, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 106–102, title I, § 121(b), Nov. 12, 1999, 113 Stat. 1378; Pub. L. 111–203, title VI, §§ 608(a), 609(a), July 21, 2010, 124 Stat. 1608, 1611.)
+(Dec. 23, 1913, ch. 6, § 23A, as added June 16, 1933, ch. 89, § 13, 48 Stat. 183; amended Aug. 23, 1935, ch. 614, title III, § 327, 49 Stat. 717; June 30, 1954, ch. 434, § 1, 68 Stat. 358; Pub. L. 86–230, § 1(b), Sept. 8, 1959, 73 Stat. 457; Pub. L. 89–485, §§ 12(a), 13(h), July 1, 1966, 80 Stat. 241, 243; Pub. L. 97–320, title IV, § 410(b), Oct. 15, 1982, 96 Stat. 1515; Pub. L. 97–457, § 22, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 106–102, title I, § 121(b), Nov. 12, 1999, 113 Stat. 1378; Pub. L. 111–203, title VI, §§ 608(a), 609(a), July 21, 2010, 124 Stat. 1608, 1611.)
 
 **Editorial Notes**
 
@@ -3863,61 +3863,61 @@ This chapter, referred to in subsec. (e)(4)(B), was in the original “this Act�
 
 **Amendments**
 
-2010—Subsec. (b)(1)(D). Pub. L. 111–203, § 608(a)(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows:
+2010—Subsec. (b)(1)(D). Pub. L. 111–203, § 608(a)(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows:
 
 “(i) any company, including a real estate investment trust, that is sponsored and advised on a contractual basis by the member bank or any subsidiary or affiliate of the member bank; or
 
 “(ii) any investment company with respect to which a member bank or any affiliate thereof is an investment advisor as defined in section 80a–2(a)(20) of title 15; and”.
 
-Subsec. (b)(7)(A). Pub. L. 111–203, § 608(a)(1)(B)(i), inserted “, including a purchase of assets subject to an agreement to repurchase” before semicolon at end.
+Subsec. (b)(7)(A). Pub. L. 111–203, § 608(a)(1)(B)(i), inserted “, including a purchase of assets subject to an agreement to repurchase” before semicolon at end.
 
-Subsec. (b)(7)(C). Pub. L. 111–203, § 608(a)(1)(B)(ii), struck out “, including assets subject to an agreement to repurchase,” after “purchase of assets”.
+Subsec. (b)(7)(C). Pub. L. 111–203, § 608(a)(1)(B)(ii), struck out “, including assets subject to an agreement to repurchase,” after “purchase of assets”.
 
-Subsec. (b)(7)(D). Pub. L. 111–203, § 608(a)(1)(B)(iii)(I), inserted “or other debt obligations” after “acceptance of securities”.
+Subsec. (b)(7)(D). Pub. L. 111–203, § 608(a)(1)(B)(iii)(I), inserted “or other debt obligations” after “acceptance of securities”.
 
-Subsec. (b)(7)(F), (G). Pub. L. 111–203, § 608(a)(1)(B)(iii)(II), (iv), added subpars. (F) and (G).
+Subsec. (b)(7)(F), (G). Pub. L. 111–203, § 608(a)(1)(B)(iii)(II), (iv), added subpars. (F) and (G).
 
-Subsec. (c)(1). Pub. L. 111–203, § 608(a)(2)(A)(i), substituted “subsidiary, and any credit exposure of a member bank or a subsidiary to an affiliate resulting from a securities borrowing or lending transaction, or a derivative transaction, shall be secured at all times” for “subsidiary shall be secured at the time of the transaction” in introductory provisions.
+Subsec. (c)(1). Pub. L. 111–203, § 608(a)(2)(A)(i), substituted “subsidiary, and any credit exposure of a member bank or a subsidiary to an affiliate resulting from a securities borrowing or lending transaction, or a derivative transaction, shall be secured at all times” for “subsidiary shall be secured at the time of the transaction” in introductory provisions.
 
-Subsec. (c)(1)(A) to (D). Pub. L. 111–203, § 608(a)(2)(A)(ii), substituted “letter of credit, or credit exposure” for “or letter of credit”.
+Subsec. (c)(1)(A) to (D). Pub. L. 111–203, § 608(a)(2)(A)(ii), substituted “letter of credit, or credit exposure” for “or letter of credit”.
 
-Subsec. (c)(2). Pub. L. 111–203, § 608(a)(2)(D), inserted “, or credit exposure to an affiliate resulting from a securities borrowing or lending transaction, or derivative transaction” before period at end.
+Subsec. (c)(2). Pub. L. 111–203, § 608(a)(2)(D), inserted “, or credit exposure to an affiliate resulting from a securities borrowing or lending transaction, or derivative transaction” before period at end.
 
-Pub. L. 111–203, § 608(a)(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any such collateral that is subsequently retired or amortized shall be replaced by additional eligible collateral where needed to keep the percentage of the collateral value relative to the amount of the outstanding loan or extension of credit, guarantee, acceptance, or letter of credit equal to the minimum percentage required at the inception of the transaction.”
+Pub. L. 111–203, § 608(a)(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Any such collateral that is subsequently retired or amortized shall be replaced by additional eligible collateral where needed to keep the percentage of the collateral value relative to the amount of the outstanding loan or extension of credit, guarantee, acceptance, or letter of credit equal to the minimum percentage required at the inception of the transaction.”
 
-Subsec. (c)(3). Pub. L. 111–203, § 608(a)(2)(E), inserted “or other debt obligations” after “securities” and substituted “guarantee, acceptance, or letter of credit issued on behalf of, or credit exposure from a securities borrowing or lending transaction, or derivative transaction to,” for “or guarantee, acceptance, or letter of credit issued on behalf of,”.
+Subsec. (c)(3). Pub. L. 111–203, § 608(a)(2)(E), inserted “or other debt obligations” after “securities” and substituted “guarantee, acceptance, or letter of credit issued on behalf of, or credit exposure from a securities borrowing or lending transaction, or derivative transaction to,” for “or guarantee, acceptance, or letter of credit issued on behalf of,”.
 
-Pub. L. 111–203, § 608(a)(2)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+Pub. L. 111–203, § 608(a)(2)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Subsec. (c)(4), (5). Pub. L. 111–203, § 608(a)(2)(C), redesignated par. (5) as (4). Former par. (4) redesignated (3).
+Subsec. (c)(4), (5). Pub. L. 111–203, § 608(a)(2)(C), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-Subsec. (d)(4). Pub. L. 111–203, § 608(a)(3), substituted “issuing a guarantee, acceptance, or letter of credit on behalf of, or having credit exposure resulting from a securities borrowing or lending transaction, or derivative transaction to,” for “or issuing a guarantee, acceptance, or letter of credit on behalf of,” in introductory provisions.
+Subsec. (d)(4). Pub. L. 111–203, § 608(a)(3), substituted “issuing a guarantee, acceptance, or letter of credit on behalf of, or having credit exposure resulting from a securities borrowing or lending transaction, or derivative transaction to,” for “or issuing a guarantee, acceptance, or letter of credit on behalf of,” in introductory provisions.
 
-Subsec. (e)(3), (4). Pub. L. 111–203, § 609(a), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows:
+Subsec. (e)(3), (4). Pub. L. 111–203, § 609(a), redesignated par. (4) as (3) and struck out former par. (3). Prior to amendment, text of par. (3) read as follows:
 
 “(A) Exception from limit on covered transactions with any individual financial subsidiary.—Notwithstanding paragraph (2), the restriction contained in subsection (a)(1)(A) of this section shall not apply with respect to covered transactions between a bank and any individual financial subsidiary of the bank.
 
 “(B) Exception for earnings retained by financial subsidiaries.—Notwithstanding paragraph (2) or subsection (b)(7) of this section, a bank’s investment in a financial subsidiary of the bank shall not include retained earnings of the financial subsidiary.”
 
-Subsec. (f)(2). Pub. L. 111–203, § 608(a)(4)(A)(iii), which directed “striking the Board and inserting” subpar. (A) designation and heading, followed by “The Board”, was executed by inserting subpar. (A) designation and heading before “The Board” as it appeared, to reflect the probable intent of Congress.
+Subsec. (f)(2). Pub. L. 111–203, § 608(a)(4)(A)(iii), which directed “striking the Board and inserting” subpar. (A) designation and heading, followed by “The Board”, was executed by inserting subpar. (A) designation and heading before “The Board” as it appeared, to reflect the probable intent of Congress.
 
-Pub. L. 111–203, § 608(a)(4)(A)(ii), substituted “if—” for “if it finds such exemptions to be in the public interest and consistent with the purposes of this section.” and added cls. (i) and (ii).
+Pub. L. 111–203, § 608(a)(4)(A)(ii), substituted “if—” for “if it finds such exemptions to be in the public interest and consistent with the purposes of this section.” and added cls. (i) and (ii).
 
-Pub. L. 111–203, § 608(a)(4)(A)(i), struck out “or order” after “regulation”.
+Pub. L. 111–203, § 608(a)(4)(A)(i), struck out “or order” after “regulation”.
 
-Subsec. (f)(2)(B). Pub. L. 111–203, § 608(a)(4)(A)(iv), added subpar. (B).
+Subsec. (f)(2)(B). Pub. L. 111–203, § 608(a)(4)(A)(iv), added subpar. (B).
 
-Subsec. (f)(4). Pub. L. 111–203, § 608(a)(4)(B), added par. (4).
+Subsec. (f)(4). Pub. L. 111–203, § 608(a)(4)(B), added par. (4).
 
-1999—Subsec. (b)(11). Pub. L. 106–102, § 121(b)(2), added par. (11).
+1999—Subsec. (b)(11). Pub. L. 106–102, § 121(b)(2), added par. (11).
 
-Subsec. (e). Pub. L. 106–102, § 121(b)(1)(B), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 106–102, § 121(b)(1)(B), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 106–102, § 121(b)(1)(A), (3), redesignated subsec. (e) as (f) and added par. (3).
+Subsec. (f). Pub. L. 106–102, § 121(b)(1)(A), (3), redesignated subsec. (e) as (f) and added par. (3).
 
-1983—Subsec. (d)(1). Pub. L. 97–457, § 22(1), substituted “subject to the prohibition contained in subsection (a)(3)” for “except for the purchase of a low-quality asset which is prohibited”.
+1983—Subsec. (d)(1). Pub. L. 97–457, § 22(1), substituted “subject to the prohibition contained in subsection (a)(3)” for “except for the purchase of a low-quality asset which is prohibited”.
 
-Subsec. (d)(6). Pub. L. 97–457, § 22(2), inserted “, subject to the prohibition contained in subsection (a)(3),” after “market quotation or”.
+Subsec. (d)(6). Pub. L. 97–457, § 22(2), inserted “, subject to the prohibition contained in subsection (a)(3),” after “market quotation or”.
 
 1982—Pub. L. 97–320 amended section generally by substituting provisions in lettered subsections relating to restrictions on transactions with affiliates, collateral for such transactions, exemptions for certain transactions and rulemaking and additional exemptions, for prior undesignated paragraphs which read as follows:
 
@@ -3945,11 +3945,11 @@ Subsec. (d)(6). Pub. L. 97–457, § 22(2), inserted “, subject to the pro
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title VI, § 608(d), July 21, 2010, 124 Stat. 1611, provided that: “The amendments made by this section [amending this section and sections 371c–1 and 1468 of this title] shall take effect 1 year after the transfer date.”
+Pub. L. 111–203, title VI, § 608(d), July 21, 2010, 124 Stat. 1611, provided that: “The amendments made by this section [amending this section and sections 371c–1 and 1468 of this title] shall take effect 1 year after the transfer date.”
 
 [For definition of “transfer date” as used in section 608(d) of Pub. L. 111–203, set out above, see section 5301 of this title.]
 
-Pub. L. 111–203, title VI, § 609(b), (c), July 21, 2010, 124 Stat. 1611, provided that:
+Pub. L. 111–203, title VI, § 609(b), (c), July 21, 2010, 124 Stat. 1611, provided that:
 
 > **“(b) Prospective Application of Amendment.—** The amendments made by this section [amending this section] shall apply with respect to any covered transaction between a bank and a subsidiary of the bank, as those terms are defined in section 23A of the Federal Reserve Act (12 U.S.C. 371c), that is entered into on or after the date of enactment of this Act [July 21, 2010].
 
@@ -3963,9 +3963,9 @@ Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see secti
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–320, title IV, § 410(c), Oct. 15, 1982, 96 Stat. 1520, provided that: “Section 23A of the Federal Reserve Act, as amended by this section [this section], shall apply to any transaction entered into after the date of enactment of this Act [Oct. 15, 1982], except for transactions which are the subject of a binding written contract or commitment entered into on or before July 28, 1982, and except that any renewal of a participation in a loan outstanding on July 28, 1982, to a company that becomes an affiliate as a result of the enactment of this Act [see section 1 of Pub. L. 97–320, set out as a Short Title of 1982 Amendments note under section 226 of this title], or any participation in a loan to such an affiliate emanating from the renewal of a binding written contract or commitment outstanding on July 28, 1982, shall not be subject to the collateral requirements of this Act.”
+Pub. L. 97–320, title IV, § 410(c), Oct. 15, 1982, 96 Stat. 1520, provided that: “Section 23A of the Federal Reserve Act, as amended by this section [this section], shall apply to any transaction entered into after the date of enactment of this Act [Oct. 15, 1982], except for transactions which are the subject of a binding written contract or commitment entered into on or before July 28, 1982, and except that any renewal of a participation in a loan outstanding on July 28, 1982, to a company that becomes an affiliate as a result of the enactment of this Act [see section 1 of Pub. L. 97–320, set out as a Short Title of 1982 Amendments note under section 226 of this title], or any participation in a loan to such an affiliate emanating from the renewal of a binding written contract or commitment outstanding on July 28, 1982, shall not be subject to the collateral requirements of this Act.”
 
-### § 371c–1. Restrictions on transactions with affiliates
+### § 371c–1. Restrictions on transactions with affiliates
 
 **(a) In general**
 
@@ -4031,9 +4031,9 @@ A member bank or any subsidiary or affiliate of a member bank shall not publish 
 
 **(d) Definitions** For the purpose of this section—
 
-**(1)** the term “affiliate” has the meaning given to such term in section 371c of this title (but does not include any company described in section 1
+**(1)** the term “affiliate” has the meaning given to such term in section 371c of this title (but does not include any company described in section 1
 
-<sup>1</sup>  So in original. Probably should be “subsection”.
+<sup>1</sup> So in original. Probably should be “subsection”.
 
 (b)(2) of such section or any bank);
 
@@ -4057,19 +4057,19 @@ A member bank or any subsidiary or affiliate of a member bank shall not publish 
 
 The Board may grant an exemption or exclusion under this subsection only if, during the 60-day period beginning on the date of receipt of notice of the finding from the Board under paragraph (1)(B), the Federal Deposit Insurance Corporation does not object, in writing, to such exemption or exclusion, based on a determination that the exemption presents an unacceptable risk to the Deposit Insurance Fund.
 
-(Dec. 23, 1913, ch. 6, § 23B, as added Pub. L. 100–86, title I, § 102(a), Aug. 10, 1987, 101 Stat. 564; amended Pub. L. 106–102, title VII, § 738, Nov. 12, 1999, 113 Stat. 1480; Pub. L. 111–203, title VI, § 608(b), July 21, 2010, 124 Stat. 1610.)
+(Dec. 23, 1913, ch. 6, § 23B, as added Pub. L. 100–86, title I, § 102(a), Aug. 10, 1987, 101 Stat. 564; amended Pub. L. 106–102, title VII, § 738, Nov. 12, 1999, 113 Stat. 1480; Pub. L. 111–203, title VI, § 608(b), July 21, 2010, 124 Stat. 1610.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (e). Pub. L. 111–203, § 608(b)(1)–(4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of par. (1)(B), realigned margins, and struck out concluding provisions which read as follows: “if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section.”
+2010—Subsec. (e). Pub. L. 111–203, § 608(b)(1)–(4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of par. (1)(B), realigned margins, and struck out concluding provisions which read as follows: “if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section.”
 
-Subsec. (e)(1)(B). Pub. L. 111–203, § 608(b)(5)(A), inserted “subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding,” before “regulations” in introductory provisions.
+Subsec. (e)(1)(B). Pub. L. 111–203, § 608(b)(5)(A), inserted “subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding,” before “regulations” in introductory provisions.
 
-Subsec. (e)(1)(B)(ii). Pub. L. 111–203, § 608(b)(5)(B), substituted period for comma at end.
+Subsec. (e)(1)(B)(ii). Pub. L. 111–203, § 608(b)(5)(B), substituted period for comma at end.
 
-Subsec. (e)(2). Pub. L. 111–203, § 608(b)(6), added par. (2).
+Subsec. (e)(2). Pub. L. 111–203, § 608(b)(6), added par. (2).
 
 1999—Subsec. (b)(2). Pub. L. 106–102 amended text of par. (2) generally. Prior to amendment, text read as follows: “Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank who are not officers or employees of the bank or any affiliate thereof.”
 
@@ -4079,7 +4079,7 @@ Subsec. (e)(2). Pub. L. 111–203, § 608(b)(6), added par. (2).
 
 Amendment by Pub. L. 111–203 effective 1 year after the transfer date, see section 608(d) of Pub. L. 111–203, set out as a note under section 371c of this title.
 
-### § 371d. Investment in bank premises or stock of corporation holding premises
+### § 371d. Investment in bank premises or stock of corporation holding premises
 
 **(a) Conditions of investment** No national bank or State member bank shall invest in bank premises, or in the stock, bonds, debentures, or other such obligations of any corporation holding the premises of such bank, or make loans to or upon the security of any such corporation—
 
@@ -4105,7 +4105,7 @@ Amendment by Pub. L. 111–203 effective 1 year after the transfer date, see sec
 
 **(2)** the term “well capitalized” has the same meaning as in section 1831*o*(b) of this title.
 
-(Dec. 23, 1913, ch. 6, § 24A, as added June 16, 1933, ch. 89, § 14, 48 Stat. 184; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; June 30, 1954, ch. 434, § 2, 68 Stat. 358; Pub. L. 104–208, div. A, title II, § 2206, Sept. 30, 1996, 110 Stat. 3009–405.)
+(Dec. 23, 1913, ch. 6, § 24A, as added June 16, 1933, ch. 89, § 14, 48 Stat. 184; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; June 30, 1954, ch. 434, § 2, 68 Stat. 358; Pub. L. 104–208, div. A, title II, § 2206, Sept. 30, 1996, 110 Stat. 3009–405.)
 
 **Editorial Notes**
 
@@ -4127,7 +4127,7 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 372. Bankers’ acceptances
+### § 372. Bankers’ acceptances
 
 **(a) Institutions; drafts and bills of exchange; types** Any member bank and any Federal or State branch or agency of a foreign bank subject to reserve requirements under section 3105 of this title (hereinafter in this section referred to as “institutions”), may accept drafts or bills of exchange drawn upon it having not more than six months’ sight to run, exclusive of days of grace—
 
@@ -4165,7 +4165,7 @@ In order to carry out the purposes of this section, the Board may define any of 
 
 Any limitation or restriction in this section based on paid-up and unimpaired capital stock and surplus of an institution shall be deemed to refer, with respect to a United States branch or agency of a foreign bank, to the dollar equivalent of the paid-up capital stock and surplus of the foreign bank, as determined by the Board, and if the foreign bank has more than one United States branch or agency, the business transacted by all such branches and agencies shall be aggregated in determining compliance with the limitation or restriction.
 
-(Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 264; Mar. 3, 1915, ch. 93, 38 Stat. 958; Sept. 7, 1916, ch. 461, 39 Stat. 752; June 21, 1917, ch. 32, § 5, 40 Stat. 235; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 97–290, title II, § 207, Oct. 8, 1982, 96 Stat. 1239.)
+(Dec. 23, 1913, ch. 6, § 13 (par.), 38 Stat. 264; Mar. 3, 1915, ch. 93, 38 Stat. 958; Sept. 7, 1916, ch. 461, 39 Stat. 752; June 21, 1917, ch. 32, § 5, 40 Stat. 235; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 97–290, title II, § 207, Oct. 8, 1982, 96 Stat. 1239.)
 
 **Editorial Notes**
 
@@ -4199,15 +4199,15 @@ Subsecs. (f) to (h). Pub. L. 97–290 added subsecs. (f) to (h).
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 373. Acceptance of drafts or bills drawn by banks in foreign countries or dependencies of United States for purpose of dollar exchange
+### § 373. Acceptance of drafts or bills drawn by banks in foreign countries or dependencies of United States for purpose of dollar exchange
 
-Any member bank may accept drafts or bills of exchange drawn upon it having not more than three months’ sight to run, exclusive of days of grace, drawn under regulations to be prescribed by the Board of Governors of the Federal Reserve System by banks or bankers in foreign countries or dependencies or insular possessions of the United States for the purpose of furnishing dollar exchange as required by the usages of trade in the respective countries, dependencies, or insular possessions. Such drafts or bills may be acquired by Federal reserve banks in such amounts and subject to such regulations, restrictions, and limitations as may be prescribed by the Board of Governors of the Federal Reserve System: *Provided, however*, That no member bank shall accept such drafts or bills of exchange referred to 1
+Any member bank may accept drafts or bills of exchange drawn upon it having not more than three months’ sight to run, exclusive of days of grace, drawn under regulations to be prescribed by the Board of Governors of the Federal Reserve System by banks or bankers in foreign countries or dependencies or insular possessions of the United States for the purpose of furnishing dollar exchange as required by the usages of trade in the respective countries, dependencies, or insular possessions. Such drafts or bills may be acquired by Federal reserve banks in such amounts and subject to such regulations, restrictions, and limitations as may be prescribed by the Board of Governors of the Federal Reserve System: *Provided, however*, That no member bank shall accept such drafts or bills of exchange referred to 1
 
-<sup>1</sup>  So in original. Probably should be followed by “in”.
+<sup>1</sup> So in original. Probably should be followed by “in”.
 
 this paragraph for any one bank to an amount exceeding in the aggregate ten per centum of the paid-up and unimpaired capital and surplus of the accepting bank unless the draft or bill of exchange is accompanied by documents conveying or securing title or by some other adequate security: *Provided further*, That no member bank shall accept such drafts or bills in an amount exceeding at any time the aggregate of one-half of its paid-up and unimpaired capital and surplus.
 
-(Dec. 23, 1913, ch. 6, § 13 (par.), as added Sept. 7, 1916, ch. 461, 39 Stat. 754; amended Aug. 23, 1935, ch. 614, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 13 (par.), as added Sept. 7, 1916, ch. 461, 39 Stat. 754; amended Aug. 23, 1935, ch. 614, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -4221,11 +4221,11 @@ Section is based on the twelfth par. of section 13 of act Dec. 23, 1913, as amen
 
 Section 203(a) of act Aug. 23, 1935, changed the name of the Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 374. Acting as agent for nonmember bank in getting discounts from reserve bank
+### § 374. Acting as agent for nonmember bank in getting discounts from reserve bank
 
 No member bank shall act as the medium or agent of a nonmember bank in applying for or receiving discounts from a Federal reserve bank under the provisions of this chapter, except by permission of the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, § 19(e), formerly § 19 (par. 8), 38 Stat. 270; June 21, 1917, ch. 32, § 10, 40 Stat. 239; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; renumbered § 19(e), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824.)
+(Dec. 23, 1913, ch. 6, § 19(e), formerly § 19 (par. 8), 38 Stat. 270; June 21, 1917, ch. 32, § 10, 40 Stat. 239; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; renumbered § 19(e), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824.)
 
 **Editorial Notes**
 
@@ -4243,11 +4243,11 @@ Section is comprised of part of subsec. (e), formerly eighth par., of section 19
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 374a. Acting as agent for nonbanking borrower in making loans on securities to dealers in stocks, bonds, etc.; penalties
+### § 374a. Acting as agent for nonbanking borrower in making loans on securities to dealers in stocks, bonds, etc.; penalties
 
 No member bank shall act as the medium or agent of any nonbanking corporation, partnership, association, business trust, or individual in making loans on the security of stocks, bonds, and other investment securities to brokers or dealers in stocks, bonds, and other investment securities. Every violation of this provision by any member bank shall be punishable by a fine of not more than $100 per day during the continuance of such violation; and such fine may be collected, by suit or otherwise, by the Federal reserve bank of the district in which such member bank is located.
 
-(Dec. 23, 1913, ch. 6, § 19(d), formerly § 19 (par. 7), as added June 16, 1933, ch. 89, § 11(a), 48 Stat. 181; renumbered § 19(d), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824.)
+(Dec. 23, 1913, ch. 6, § 19(d), formerly § 19 (par. 7), as added June 16, 1933, ch. 89, § 11(a), 48 Stat. 181; renumbered § 19(d), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824.)
 
 **Editorial Notes**
 
@@ -4255,9 +4255,9 @@ No member bank shall act as the medium or agent of any nonbanking corporation, p
 
 Section is comprised of subsec. (d), formerly seventh par., of section 19 of act Dec. 23, 1913, as redesignated by Pub. L. 89–597.
 
-### § 375. [Reserved]
+### § 375. [Reserved]
 
-(Dec. 23, 1913, ch. 6, § 22(d), as added Sept. 26, 1918, ch. 177, § 5, 40 Stat. 971; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 111–203, title VI, § 615(b), July 21, 2010, 124 Stat. 1615.)
+(Dec. 23, 1913, ch. 6, § 22(d), as added Sept. 26, 1918, ch. 177, § 5, 40 Stat. 971; amended Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 111–203, title VI, § 615(b), July 21, 2010, 124 Stat. 1615.)
 
 **Editorial Notes**
 
@@ -4269,11 +4269,11 @@ Section is comprised of subsec. (d), formerly seventh par., of section 19 of act
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title VI, § 615(c), July 21, 2010, 124 Stat. 1615, provided that: “The amendments made by this section [amending this section and section 1828 of this title] shall take effect on the transfer date.”
+Pub. L. 111–203, title VI, § 615(c), July 21, 2010, 124 Stat. 1615, provided that: “The amendments made by this section [amending this section and section 1828 of this title] shall take effect on the transfer date.”
 
 [For definition of “transfer date” as used in section 615(c) of Pub. L. 111–203, set out above, see section 5301 of this title.]
 
-### § 375a. Loans to executive officers of banks
+### § 375a. Loans to executive officers of banks
 
 **(1) General prohibition; authorization for extension of credit; conditions for credit** Except as authorized under this section, no member bank may extend credit in any manner to any of its own executive officers. No executive officer of any member bank may become indebted to that member bank except by means of an extension of credit which the bank is authorized to make under this section. Any extension of credit under this section shall be promptly reported to the board of directors of the bank, and may be made only if—
 
@@ -4315,7 +4315,7 @@ Each day that any extension of credit in violation of this section exists is a c
 
 The Board of Governors of the Federal Reserve System may prescribe such rules and regulations, including definitions of terms, as it deems necessary to effectuate the purposes and to prevent evasions of this section.
 
-(Dec. 23, 1913, ch. 6, § 22(g), as added June 16, 1933, ch. 89, § 12, 48 Stat. 182; amended June 14, 1935, ch. 245, 49 Stat. 375; Aug. 23, 1935, ch. 614, title III, § 326(c), 49 Stat. 716; Apr. 25, 1938, ch. 173, 52 Stat. 223; June 20, 1939, ch. 214, § 1, 53 Stat. 842; Pub. L. 90–44, § 1, July 3, 1967, 81 Stat. 109; Pub. L. 95–630, title I, § 110, Nov. 10, 1978, 92 Stat. 3665; Pub. L. 97–320, title IV, § 421, Oct. 15, 1982, 96 Stat. 1522; Pub. L. 103–325, title III, § 334(a), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 109–351, title VI, § 601(a), Oct. 13, 2006, 120 Stat. 1978.)
+(Dec. 23, 1913, ch. 6, § 22(g), as added June 16, 1933, ch. 89, § 12, 48 Stat. 182; amended June 14, 1935, ch. 245, 49 Stat. 375; Aug. 23, 1935, ch. 614, title III, § 326(c), 49 Stat. 716; Apr. 25, 1938, ch. 173, 52 Stat. 223; June 20, 1939, ch. 214, § 1, 53 Stat. 842; Pub. L. 90–44, § 1, July 3, 1967, 81 Stat. 109; Pub. L. 95–630, title I, § 110, Nov. 10, 1978, 92 Stat. 3665; Pub. L. 97–320, title IV, § 421, Oct. 15, 1982, 96 Stat. 1522; Pub. L. 103–325, title III, § 334(a), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 109–351, title VI, § 601(a), Oct. 13, 2006, 120 Stat. 1978.)
 
 **Editorial Notes**
 
@@ -4329,11 +4329,11 @@ Proviso which permitted renewal or extension of loans made to executive officers
 
 1994—Par. (2). Pub. L. 103–325 in introductory provisions substituted “A member” for “With the specific prior approval of its board of directors, a member”.
 
-1982—Par. (2). Pub. L. 97–320, § 421(a), struck out “not exceeding $60,000” after “may make a loan”.
+1982—Par. (2). Pub. L. 97–320, § 421(a), struck out “not exceeding $60,000” after “may make a loan”.
 
-Par. (3). Pub. L. 97–320, § 421(a), struck out “, not exceeding the aggregate amount of $20,000 outstanding at any one time,” after “officer of the bank”.
+Par. (3). Pub. L. 97–320, § 421(a), struck out “, not exceeding the aggregate amount of $20,000 outstanding at any one time,” after “officer of the bank”.
 
-Par. (4). Pub. L. 97–320, § 421(b), substituted “in an amount prescribed in a regulation of the member bank’s appropriate Federal banking agency” for “not exceeding the aggregate amount of $10,000 outstanding at any one time”.
+Par. (4). Pub. L. 97–320, § 421(b), substituted “in an amount prescribed in a regulation of the member bank’s appropriate Federal banking agency” for “not exceeding the aggregate amount of $10,000 outstanding at any one time”.
 
 1978—Par. (2). Pub. L. 95–630 substituted “$60,000” for “$30,000”.
 
@@ -4375,7 +4375,7 @@ Act June 14, 1935, struck out a proviso and inserted in lieu thereof first provi
 
 Amendment effective upon expiration of 120 days after Nov. 10, 1978, see sec. 2101 of Pub. L. 95–630 set out as an Effective Date note under section 375b of this title.
 
-### § 375b. Extensions of credit to executive officers, directors, and principal shareholders of member banks
+### § 375b. Extensions of credit to executive officers, directors, and principal shareholders of member banks
 
 **(1) In general**
 
@@ -4511,61 +4511,61 @@ The term “subsidiary” has the same meaning as in section 1841 of this title.
 
 The Board of Governors of the Federal Reserve System may prescribe such regulations, including definitions of terms, as it determines to be necessary to effectuate the purposes and prevent evasions of this section.
 
-(Dec. 23, 1913, ch. 6, § 22(h), as added Pub. L. 95–630, title I, § 104, Nov. 10, 1978, 92 Stat. 3644; amended Pub. L. 97–320, title IV, §§ 410(e), 422, Oct. 15, 1982, 96 Stat. 1520, 1522; Pub. L. 102–242, title III, § 306(a)–(h), Dec. 19, 1991, 105 Stat. 2355, 2357–2359; Pub. L. 102–550, title IX, § 955, title XVI, § 1605(a)(10), Oct. 28, 1992, 106 Stat. 3895, 4086; Pub. L. 103–325, title III, § 334(b), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 104–208, div. A, title II, § 2211, Sept. 30, 1996, 110 Stat. 3009–410; Pub. L. 111–203, title VI, § 614(a), July 21, 2010, 124 Stat. 1614.)
+(Dec. 23, 1913, ch. 6, § 22(h), as added Pub. L. 95–630, title I, § 104, Nov. 10, 1978, 92 Stat. 3644; amended Pub. L. 97–320, title IV, §§ 410(e), 422, Oct. 15, 1982, 96 Stat. 1520, 1522; Pub. L. 102–242, title III, § 306(a)–(h), Dec. 19, 1991, 105 Stat. 2355, 2357–2359; Pub. L. 102–550, title IX, § 955, title XVI, § 1605(a)(10), Oct. 28, 1992, 106 Stat. 3895, 4086; Pub. L. 103–325, title III, § 334(b), Sept. 23, 1994, 108 Stat. 2233; Pub. L. 104–208, div. A, title II, § 2211, Sept. 30, 1996, 110 Stat. 3009–410; Pub. L. 111–203, title VI, § 614(a), July 21, 2010, 124 Stat. 1614.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 22(h) of act Dec. 23, 1913, ch. 6, as added June 19, 1934, ch. 653, § 3, 48 Stat. 1107, was classified to section 596 of this title, prior to repeal by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948.
+A prior section 22(h) of act Dec. 23, 1913, ch. 6, as added June 19, 1934, ch. 653, § 3, 48 Stat. 1107, was classified to section 596 of this title, prior to repeal by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948.
 
 **Amendments**
 
 2010—Subsec. (9)(D)(i). Pub. L. 111–203 substituted “extends credit to a person by—” for “extends credit by making”, inserted “(I) making” before “or renewing”, substituted “which the person” for “which a person” and “the bank; or” for “the bank.”, and added subcl. (II).
 
-1996—Par. (2)(A). Pub. L. 104–208, § 2211(a)(1), (2), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and adjusted margins.
+1996—Par. (2)(A). Pub. L. 104–208, § 2211(a)(1), (2), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and adjusted margins.
 
-Par. (2)(B). Pub. L. 104–208, § 2211(a)(3), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
+Par. (2)(B). Pub. L. 104–208, § 2211(a)(3), added subpar. (B). Former subpar. (B) redesignated cl. (ii) of subpar. (A).
 
-Par. (2)(C). Pub. L. 104–208, § 2211(a)(1), redesignated subpar. (C) as cl. (iii) of subpar. (A).
+Par. (2)(C). Pub. L. 104–208, § 2211(a)(1), redesignated subpar. (C) as cl. (iii) of subpar. (A).
 
-Par. (8)(B). Pub. L. 104–208, § 2211(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The Board may, by regulation, make exceptions to subparagraph (A), except as that subparagraph makes applicable paragraph (2), for an executive officer or director of a subsidiary of a company that controls the member bank, if that executive officer or director does not have authority to participate, and does not participate, in major policymaking functions of the member bank.”
+Par. (8)(B). Pub. L. 104–208, § 2211(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The Board may, by regulation, make exceptions to subparagraph (A), except as that subparagraph makes applicable paragraph (2), for an executive officer or director of a subsidiary of a company that controls the member bank, if that executive officer or director does not have authority to participate, and does not participate, in major policymaking functions of the member bank.”
 
 1994—Par. (8). Pub. L. 103–325 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-1992—Par. (6)(B)(i). Pub. L. 102–550, § 1605(a)(10), substituted “or” for “and” at end.
+1992—Par. (6)(B)(i). Pub. L. 102–550, § 1605(a)(10), substituted “or” for “and” at end.
 
-Par. (9)(D). Pub. L. 102–550, § 955(a), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+Par. (9)(D). Pub. L. 102–550, § 955(a), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-Par. (9)(F). Pub. L. 102–550, § 955(b), designated portion of existing provisions as cl. (i), realigned margin, substituted “; and” for period at end, and added cl. (ii).
+Par. (9)(F). Pub. L. 102–550, § 955(b), designated portion of existing provisions as cl. (i), realigned margin, substituted “; and” for period at end, and added cl. (ii).
 
-1991—Pub. L. 102–242, § 306(a), amended section generally, substituting provisions relating to extensions of credit to executive officers, directors, and principal shareholders of member banks for provisions relating to prohibitions respecting loans and extensions of credit to executive officers and directors of banks, political or campaign committees, etc.
+1991—Pub. L. 102–242, § 306(a), amended section generally, substituting provisions relating to extensions of credit to executive officers, directors, and principal shareholders of member banks for provisions relating to prohibitions respecting loans and extensions of credit to executive officers and directors of banks, political or campaign committees, etc.
 
-Par. (1). Pub. L. 102–242, § 306(d)(2), inserted “(5),” after “(4),”.
+Par. (1). Pub. L. 102–242, § 306(d)(2), inserted “(5),” after “(4),”.
 
-Par. (2)(C). Pub. L. 102–242, § 306(b), added subpar. (C).
+Par. (2)(C). Pub. L. 102–242, § 306(b), added subpar. (C).
 
-Par. (4). Pub. L. 102–242, § 306(c), inserted “, director,” after “executive officer” in heading and text.
+Par. (4). Pub. L. 102–242, § 306(c), inserted “, director,” after “executive officer” in heading and text.
 
-Par. (5). Pub. L. 102–242, § 306(d)(1), added par. (5).
+Par. (5). Pub. L. 102–242, § 306(d)(1), added par. (5).
 
-Par. (7). Pub. L. 102–242, § 306(e), added par. (7).
+Par. (7). Pub. L. 102–242, § 306(e), added par. (7).
 
-Par. (8). Pub. L. 102–242, § 306(f), struck out “bank holding” before “company of which the member”.
+Par. (8). Pub. L. 102–242, § 306(f), struck out “bank holding” before “company of which the member”.
 
-Par. (9)(E). Pub. L. 102–242, § 306(g), added subpar. (E).
+Par. (9)(E). Pub. L. 102–242, § 306(g), added subpar. (E).
 
-Par. (9)(F). Pub. L. 102–242, § 306(h), struck out last sentence of subpar. (F) which read as follows: “For purposes of paragraph (4), if a member bank has its main banking office in a city, town, or village with a population of less than 30,000, the preceding sentence shall apply with ‘18 percent’ substituted for ‘10 percent’.”
+Par. (9)(F). Pub. L. 102–242, § 306(h), struck out last sentence of subpar. (F) which read as follows: “For purposes of paragraph (4), if a member bank has its main banking office in a city, town, or village with a population of less than 30,000, the preceding sentence shall apply with ‘18 percent’ substituted for ‘10 percent’.”
 
-1982—Par. (2). Pub. L. 97–320, § 422, substituted “an amount prescribed in a regulation of the appropriate Federal banking agency” for “$25,000”.
+1982—Par. (2). Pub. L. 97–320, § 422, substituted “an amount prescribed in a regulation of the appropriate Federal banking agency” for “$25,000”.
 
-Par. (6)(C) to (F). Pub. L. 97–320, § 410(e), redesignated subpars. (D) to (G) as (C) to (F), respectively. Former subpar. (C), relating to definition of term “extension of credit”, was struck out.
+Par. (6)(C) to (F). Pub. L. 97–320, § 410(e), redesignated subpars. (D) to (G) as (C) to (F), respectively. Former subpar. (C), relating to definition of term “extension of credit”, was struck out.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title VI, § 614(b), July 21, 2010, 124 Stat. 1614, provided that: “The amendments made by this section [amending this section] shall take effect 1 year after the transfer date.”
+Pub. L. 111–203, title VI, § 614(b), July 21, 2010, 124 Stat. 1614, provided that: “The amendments made by this section [amending this section] shall take effect 1 year after the transfer date.”
 
 [For definition of “transfer date” as used in section 614(b) of Pub. L. 111–203, set out above, see section 5301 of this title.]
 
@@ -4575,7 +4575,7 @@ Amendment by section 1605(a)(10) of Pub. L. 102–550 effective as if included i
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–242, title III, § 306(*l*), Dec. 19, 1991, 105 Stat. 2360, provided that:
+Pub. L. 102–242, title III, § 306(*l*), Dec. 19, 1991, 105 Stat. 2360, provided that:
 
 > “The amendments made by this section [amending this section and sections 1468, 1828, and 1972 of this title] shall become effective upon the earlier of—
 
@@ -4585,11 +4585,11 @@ Pub. L. 102–242, title III, § 306(*l*), Dec. 19, 1991, 105 Stat. 2360, prov
 
 **Effective Date**
 
-Pub. L. 95–630, title XXI, § 2101, Nov. 10, 1978, 92 Stat. 3741, provided that: “Except as otherwise provided herein, this Act [see Short Title of 1978 Amendment note set out under section 226 of this title] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment [Nov. 10, 1978].”
+Pub. L. 95–630, title XXI, § 2101, Nov. 10, 1978, 92 Stat. 3741, provided that: “Except as otherwise provided herein, this Act [see Short Title of 1978 Amendment note set out under section 226 of this title] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment [Nov. 10, 1978].”
 
 **Regulations**
 
-Pub. L. 102–242, title III, § 306(m), Dec. 19, 1991, 105 Stat. 2360, provided that:
+Pub. L. 102–242, title III, § 306(m), Dec. 19, 1991, 105 Stat. 2360, provided that:
 
 > **“(1) In general.—** The Board of Governors of the Federal Reserve System shall, not later than 120 days after the date of enactment of this Act [Dec. 19, 1991], promulgate final regulations to implement the amendments made by this section [amending this section and sections 1468, 1828, and 1972 of this title], other than the amendments made by subsections (i) and (k) [amending sections 1468 and 1828 of this title].
 
@@ -4597,21 +4597,21 @@ Pub. L. 102–242, title III, § 306(m), Dec. 19, 1991, 105 Stat. 2360, provid
 
 **Existing Transactions Not Affected by 1991 Amendments**
 
-Pub. L. 102–242, title III, § 306(n), Dec. 19, 1991, 105 Stat. 2360, provided that: “The amendments made by this section [amending this section and sections 1468, 1828, and 1972 of this title] do not affect the validity of any extension of credit or other transaction lawfully entered into on or before the effective date of those amendments [see Effective Date of 1991 Amendment note above].”
+Pub. L. 102–242, title III, § 306(n), Dec. 19, 1991, 105 Stat. 2360, provided that: “The amendments made by this section [amending this section and sections 1468, 1828, and 1972 of this title] do not affect the validity of any extension of credit or other transaction lawfully entered into on or before the effective date of those amendments [see Effective Date of 1991 Amendment note above].”
 
 **Reporting of Credit by Executive Officers and Directors**
 
-Pub. L. 102–242, title III, § 306(*o*), Dec. 19, 1991, 105 Stat. 2360, provided that: “An executive officer or director of an insured depository institution, a bank holding company, or a savings and loan holding company, the shares of which are not publicly traded, shall report annually to the board of directors of the institution or holding company the outstanding amount of any credit that was extended to such executive officer or director and that is secured by shares of the institution or holding company.”
+Pub. L. 102–242, title III, § 306(*o*), Dec. 19, 1991, 105 Stat. 2360, provided that: “An executive officer or director of an insured depository institution, a bank holding company, or a savings and loan holding company, the shares of which are not publicly traded, shall report annually to the board of directors of the institution or holding company the outstanding amount of any credit that was extended to such executive officer or director and that is secured by shares of the institution or holding company.”
 
-### § 376. Rate of interest paid to directors, etc.
+### § 376. Rate of interest paid to directors, etc.
 
 No member bank shall pay to any director, officer, attorney, or employee a greater rate of interest on the deposits of such director, officer, attorney, or employee than that paid to other depositors on similar deposits with such member bank.
 
-(Dec. 23, 1913, ch. 6, § 22(e), as added Sept. 26, 1918, ch. 177, § 5, 40 Stat. 971.)
+(Dec. 23, 1913, ch. 6, § 22(e), as added Sept. 26, 1918, ch. 177, § 5, 40 Stat. 971.)
 
-### § 377. Repealed. Pub. L. 106–102, title I, § 101(a), Nov. 12, 1999, 113 Stat. 1341
+### § 377. Repealed. Pub. L. 106–102, title I, § 101(a), Nov. 12, 1999, 113 Stat. 1341
 
-Section, acts June 16, 1933, ch. 89, § 20, 48 Stat. 188; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 302, 49 Stat. 704, 707, prohibited member banks from affiliating with organizations dealing in securities and provided for penalties.
+Section, acts June 16, 1933, ch. 89, § 20, 48 Stat. 188; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 302, 49 Stat. 704, 707, prohibited member banks from affiliating with organizations dealing in securities and provided for penalties.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4619,7 +4619,7 @@ Section, acts June 16, 1933, ch. 89, § 20, 48 Stat. 188; Aug. 23, 1935, ch. 6
 
 Repeal effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–102, set out as an Effective Date of 1999 Amendment note under section 24 of this title.
 
-### § 378. Dealers in securities engaging in banking business; individuals or associations engaging in banking business; examinations and reports; penalties
+### § 378. Dealers in securities engaging in banking business; individuals or associations engaging in banking business; examinations and reports; penalties
 
 **(a)** After the expiration of one year after June 16, 1933, it shall be unlawful—
 
@@ -4629,7 +4629,7 @@ Repeal effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–
 
 **(b)** Whoever shall willfully violate any of the provisions of this section shall upon conviction be fined not more than $5,000 or imprisoned not more than five years, or both, and any officer, director, employee, or agent of any person, firm, corporation, association, business trust, or other similar organization who knowingly participates in any such violation shall be punished by a like fine or imprisonment or both.
 
-(June 16, 1933, ch. 89, § 21, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, § 303, 49 Stat. 707; Pub. L. 86–230, § 23, Sept. 8, 1959, 73 Stat. 466; Pub. L. 90–448, title VIII, § 804(d), Aug. 1, 1968, 82 Stat. 543; Pub. L. 95–369, § 12, Sept. 17, 1978, 92 Stat. 624.)
+(June 16, 1933, ch. 89, § 21, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, § 303, 49 Stat. 707; Pub. L. 86–230, § 23, Sept. 8, 1959, 73 Stat. 466; Pub. L. 90–448, title VIII, § 804(d), Aug. 1, 1968, 82 Stat. 543; Pub. L. 95–369, § 12, Sept. 17, 1978, 92 Stat. 624.)
 
 **Editorial Notes**
 
@@ -4637,7 +4637,7 @@ Repeal effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106–
 
 1978—Subsec. (a)(2)(B). Pub. L. 95–369 inserted reference to permission by the United States to engage in such business and subjection by the laws of the United States to examination and regulation.
 
-1968—Subsec. (a)(1). Pub. L. 90–448 inserted “, or issuing securities” in first proviso.
+1968—Subsec. (a)(1). Pub. L. 90–448 inserted “, or issuing securities” in first proviso.
 
 1959—Subsec. (a). Pub. L. 86–230 inserted “and subjected, by the laws of the United States, or of the State, Territory, or District wherein located, to examination and regulation,” after “District,” in cl. (2)(A).
 
@@ -4651,33 +4651,33 @@ For effective date of amendment by Pub. L. 90–448, see section 808 of Pub. L. 
 
 ## SUBCHAPTER XI—DEPOSITARIES AND FISCAL AGENTS
 
-### § 391. Federal reserve banks as Government depositaries and fiscal agents
+### § 391. Federal reserve banks as Government depositaries and fiscal agents
 
 The moneys held in the general fund of the Treasury, except the 5 per centum fund for the redemption of outstanding national-bank notes may, upon the direction of the Secretary of the Treasury, be deposited in Federal reserve banks, which banks, when required by the Secretary of the Treasury, shall act as fiscal agents of the United States; and the revenues of the Government or any part thereof may be deposited in such banks, and disbursements may be made by checks drawn against such deposits.
 
-(Dec. 23, 1913, ch. 6, § 15 (par.), 38 Stat. 265; Pub. L. 90–269, § 2, Mar. 18, 1968, 82 Stat. 50.)
+(Dec. 23, 1913, ch. 6, § 15 (par.), 38 Stat. 265; Pub. L. 90–269, § 2, Mar. 18, 1968, 82 Stat. 50.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section is comprised of first par. of section 15 of act Dec. 23, 1913. Par. 2 of section 15 and par. 3 of section 15, as added Mar. 4, 1923, ch. 252, title IV, § 406, 42 Stat. 1480, are classified to sections 392 and 393, respectively, of this title.
+Section is comprised of first par. of section 15 of act Dec. 23, 1913. Par. 2 of section 15 and par. 3 of section 15, as added Mar. 4, 1923, ch. 252, title IV, § 406, 42 Stat. 1480, are classified to sections 392 and 393, respectively, of this title.
 
 **Amendments**
 
 1968—Pub. L. 90–269 struck out provision which excepted funds provided in this chapter for the redemption of Federal Reserve notes from deposit in Federal reserve banks.
 
-### § 391a. Reimbursement of Federal Reserve Banks
+### § 391a. Reimbursement of Federal Reserve Banks
 
 Beginning in fiscal year 1998 and thereafter, there are appropriated such sums as may be necessary to reimburse Federal Reserve Banks in their capacity as depositaries and fiscal agents for the United States for all services required or directed by the Secretary of the Treasury to be performed by such banks on behalf of the Treasury or other Federal agencies.
 
 (Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1276.)
 
-### § 392. Depositaries of Government funds as confined to banks in Federal reserve system; member banks as depositaries
+### § 392. Depositaries of Government funds as confined to banks in Federal reserve system; member banks as depositaries
 
 No public funds of the postal savings, or any Government funds, shall be deposited in the continental United States in any bank not belonging to the system established by this chapter: *Provided, however*, That nothing in this chapter shall be construed to deny the right of the Secretary of the Treasury to use member banks as depositaries.
 
-(Dec. 23, 1913, ch. 6, § 15 (par.), 38 Stat. 265; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352.)
+(Dec. 23, 1913, ch. 6, § 15 (par.), 38 Stat. 265; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352.)
 
 **Editorial Notes**
 
@@ -4689,13 +4689,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 Words “of the Philippine Islands, or” after “No public funds” were deleted on authority of 1946 Proc. No. 2695, which granted independence to the Philippine Islands pursuant to section 1394 of Title 22. Proc. No. 2695 is set out as a note under section 1394 of Title 22, Foreign Relations and Intercourse.
 
-Section is comprised of second par. of section 15 of act Dec. 23, 1913. Par. 1 of section 15 and par. 3 of section 15, as added Mar. 4, 1923, ch. 252, title IV, § 406, 42 Stat. 1480, are classified to sections 391 and 393, respectively, of this title.
+Section is comprised of second par. of section 15 of act Dec. 23, 1913. Par. 1 of section 15 and par. 3 of section 15, as added Mar. 4, 1923, ch. 252, title IV, § 406, 42 Stat. 1480, are classified to sections 391 and 393, respectively, of this title.
 
-### § 393. Federal reserve banks as depositaries for Farm Credit System
+### § 393. Federal reserve banks as depositaries for Farm Credit System
 
 The Federal Reserve banks are authorized to act as depositaries for and fiscal agents of any Federal land bank, Federal intermediate credit bank, bank for cooperatives, or other institutions of the Farm Credit System.
 
-(Dec. 23, 1913, ch. 6, § 15 (par.), as added Mar. 4, 1923, ch. 252, title IV, § 406, 42 Stat. 1480; amended Pub. L. 92–181, title V, § 5.41, formerly § 5.27(b), Dec. 10, 1971, 85 Stat. 625; renumbered § 5.41(b), Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703; renumbered § 5.41, Pub. L. 100–233, title VIII, § 805(ff)(2), Jan. 6, 1988, 101 Stat. 1717.)
+(Dec. 23, 1913, ch. 6, § 15 (par.), as added Mar. 4, 1923, ch. 252, title IV, § 406, 42 Stat. 1480; amended Pub. L. 92–181, title V, § 5.41, formerly § 5.27(b), Dec. 10, 1971, 85 Stat. 625; renumbered § 5.41(b), Pub. L. 99–205, title II, § 205(a)(2), Dec. 23, 1985, 99 Stat. 1703; renumbered § 5.41, Pub. L. 100–233, title VIII, § 805(ff)(2), Jan. 6, 1988, 101 Stat. 1717.)
 
 **Editorial Notes**
 
@@ -4707,41 +4707,41 @@ Section is comprised of third par. of section 15 of act Dec. 23, 1913, as added 
 
 1971—Pub. L. 92–181 substituted “Federal land bank, Federal intermediate credit bank, bank for cooperatives, or other institutions of the Farm Credit System” for “national agricultural credit corporation or Federal intermediate credit bank”.
 
-### § 394. Federal reserve banks as depositaries for and fiscal agents of Home Owners’ Loan Corporation
+### § 394. Federal reserve banks as depositaries for and fiscal agents of Home Owners’ Loan Corporation
 
 The Federal Reserve banks are authorized, with the approval of the Secretary of the Treasury, to act as depositaries, custodians, and fiscal agents for the Home Owners’ Loan Corporation.
 
-(Apr. 27, 1934, ch. 168, § 8, 48 Stat. 646.)
+(Apr. 27, 1934, ch. 168, § 8, 48 Stat. 646.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Abolition of Home Owners’ Loan Corporation**
 
-For dissolution and abolishment of Home Owners’ Loan Corporation, referred to in this section, by act June 30, 1953, ch. 170, § 21, 67 Stat. 126, see note set out under section 1463 of this title.
+For dissolution and abolishment of Home Owners’ Loan Corporation, referred to in this section, by act June 30, 1953, ch. 170, § 21, 67 Stat. 126, see note set out under section 1463 of this title.
 
-### § 395. Federal reserve banks as depositaries, custodians and fiscal agents for Commodity Credit Corporation
+### § 395. Federal reserve banks as depositaries, custodians and fiscal agents for Commodity Credit Corporation
 
 The Federal Reserve banks are authorized to act as depositaries, custodians, and fiscal agents for the Commodity Credit Corporation.
 
-(July 16, 1943, ch. 241, § 3, 57 Stat. 566.)
+(July 16, 1943, ch. 241, § 3, 57 Stat. 566.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by Reorg. Plan No. 3 of 1946, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See Appendix to Title 5, Government Organization and Employees.
+Administration of program of Commodity Credit Corporation transferred to Secretary of Agriculture by Reorg. Plan No. 3 of 1946, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See Appendix to Title 5, Government Organization and Employees.
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of Administration were excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations, Advisory Board of Commodity Credit Corporation, and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of Administration were excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
 ## SUBCHAPTER XII—FEDERAL RESERVE NOTES
 
-### § 411. Issuance to reserve banks; nature of obligation; redemption
+### § 411. Issuance to reserve banks; nature of obligation; redemption
 
 Federal reserve notes, to be issued at the discretion of the Board of Governors of the Federal Reserve System for the purpose of making advances to Federal reserve banks through the Federal reserve agents as hereinafter set forth and for no other purpose, are authorized. The said notes shall be obligations of the United States and shall be receivable by all national and member banks and Federal reserve banks and for all taxes, customs, and other public dues. They shall be redeemed in lawful money on demand at the Treasury Department of the United States, in the city of Washington, District of Columbia, or at any Federal Reserve bank.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 265; Jan. 30, 1934, ch. 6, § 2(b)(1), 48 Stat. 337; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 265; Jan. 30, 1934, ch. 6, § 2(b)(1), 48 Stat. 337; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -4753,9 +4753,9 @@ Phrase “hereinafter set forth” is from section 16 of the Federal Reserve Act
 
 Section is comprised of first par. of section 16 of act Dec. 23, 1913. Pars. 2 to 5, 6 (formerly 7), 7 to 10 (formerly 8 to 11, respectively), 12 (formerly 13), 13 (formerly 14), and 14 to 16 (formerly 15, 16, and 18, respectively) of section 16 of act Dec. 23, 1913, are classified to sections 412 to 415, 416, 418 to 421, 360, 248–1, and 467, respectively, of this title.
 
-Former pars. 6 and 17 of section 16 of act Dec. 23, 1913, formerly classified to sections 415 and 467, respectively, of this title, were repealed by Pub. L. 90–269, §§ 5, 7, Mar. 18, 1968, 82 Stat. 50.
+Former pars. 6 and 17 of section 16 of act Dec. 23, 1913, formerly classified to sections 415 and 467, respectively, of this title, were repealed by Pub. L. 90–269, §§ 5, 7, Mar. 18, 1968, 82 Stat. 50.
 
-Par. 11 (formerly 12) of section 16 of act Dec. 23, 1913, formerly classified to section 422 of this title, was superseded by act June 26, 1934, ch. 756, § 1(a), (b)(3), 48 Stat. 1225.
+Par. 11 (formerly 12) of section 16 of act Dec. 23, 1913, formerly classified to section 422 of this title, was superseded by act June 26, 1934, ch. 756, § 1(a), (b)(3), 48 Stat. 1225.
 
 **Amendments**
 
@@ -4767,11 +4767,11 @@ Par. 11 (formerly 12) of section 16 of act Dec. 23, 1913, formerly classified to
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 412. Application for notes; collateral required
+### § 412. Application for notes; collateral required
 
 Any Federal Reserve bank may make application to the local Federal Reserve agent for such amount of the Federal Reserve notes hereinbefore provided for as it may require. Such application shall be accompanied with a tender to the local Federal Reserve agent of collateral in amount equal to the sum of the Federal Reserve notes thus applied for and issued pursuant to such application. The collateral security thus offered shall be notes, drafts, bills of exchange, or acceptances acquired under section 92, 342 to 348, 349 to 352, 361, 372, or 373 of this title, or bills of exchange endorsed by a member bank of any Federal Reserve district and purchased under the provisions of sections 348a and 353 to 359 of this title, or bankers’ acceptances purchased under the provisions of said sections 348a and 353 to 359 of this title, or gold certificates, or Special Drawing Right certificates, or any obligations which are direct obligations of, or are fully guaranteed as to principal and interest by, the United States or any agency thereof, or assets that Federal Reserve banks may purchase or hold under sections 348a and 353 to 359 of this title or any other asset of a Federal Reserve bank. In no event shall such collateral security be less than the amount of Federal Reserve notes applied for. The Federal Reserve agent shall each day notify the Board of Governors of the Federal Reserve System of all issues and withdrawals of Federal Reserve notes to and by the Federal Reserve bank to which he is accredited. The said Board of Governors of the Federal Reserve System may at any time call upon a Federal Reserve bank for additional security to protect the Federal Reserve notes issued to it. Collateral shall not be required for Federal Reserve notes which are held in the vaults of, or are otherwise held by or on behalf of, Federal Reserve banks.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 265; Sept. 7, 1916, ch. 461, 39 Stat. 754; June 21, 1917, ch. 32, § 7, 40 Stat. 236; Feb. 27, 1932, ch. 58, § 3, 47 Stat. 57; Feb. 3, 1933, ch. 34, 47 Stat. 794; Jan. 30, 1934, ch. 6, § 2(b)(2), 48 Stat. 338; Mar. 6, 1934, ch. 47, 48 Stat. 398; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Mar. 1, 1937, ch. 20, 50 Stat. 23; June 30, 1939, ch. 256, 53 Stat. 991; June 30, 1941, ch. 264, 55 Stat. 395; May 25, 1943, ch. 102, 57 Stat. 85; June 12, 1945, ch. 186, § 2, 59 Stat. 237; Pub. L. 90–349, § 5(a), June 19, 1968, 82 Stat. 189; Pub. L. 95–630, title I, § 113, Nov. 10, 1978, 92 Stat. 3671; Pub. L. 96–221, title I, § 105(b)(1), Mar. 31, 1980, 94 Stat. 140; Pub. L. 106–122, Dec. 6, 1999, 113 Stat. 1638; Pub. L. 108–100, § 19(d), Oct. 28, 2003, 117 Stat. 1193.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 265; Sept. 7, 1916, ch. 461, 39 Stat. 754; June 21, 1917, ch. 32, § 7, 40 Stat. 236; Feb. 27, 1932, ch. 58, § 3, 47 Stat. 57; Feb. 3, 1933, ch. 34, 47 Stat. 794; Jan. 30, 1934, ch. 6, § 2(b)(2), 48 Stat. 338; Mar. 6, 1934, ch. 47, 48 Stat. 398; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Mar. 1, 1937, ch. 20, 50 Stat. 23; June 30, 1939, ch. 256, 53 Stat. 991; June 30, 1941, ch. 264, 55 Stat. 395; May 25, 1943, ch. 102, 57 Stat. 85; June 12, 1945, ch. 186, § 2, 59 Stat. 237; Pub. L. 90–349, § 5(a), June 19, 1968, 82 Stat. 189; Pub. L. 95–630, title I, § 113, Nov. 10, 1978, 92 Stat. 3671; Pub. L. 96–221, title I, § 105(b)(1), Mar. 31, 1980, 94 Stat. 140; Pub. L. 106–122, Dec. 6, 1999, 113 Stat. 1638; Pub. L. 108–100, § 19(d), Oct. 28, 2003, 117 Stat. 1193.)
 
 **Editorial Notes**
 
@@ -4781,7 +4781,7 @@ Section is comprised of second par. of section 16 of act Dec. 23, 1913. For clas
 
 **Amendments**
 
-2003—Pub. L. 108–100 inserted “or any other asset of a Federal Reserve bank” before period at end of third sentence and “, or are otherwise held by or on behalf of,” after “in the vaults of” in last sentence.
+2003—Pub. L. 108–100 inserted “or any other asset of a Federal Reserve bank” before period at end of third sentence and “, or are otherwise held by or on behalf of,” after “in the vaults of” in last sentence.
 
 1999—Pub. L. 106–122 substituted “acceptances acquired under section 92, 342 to 348, 349 to 352, 361, 372, or 373 of this title” for “acceptances acquired under the provisions of sections 92, 342 to 347, 347c, 347d, 361, 372, and 373 of this title”.
 
@@ -4791,7 +4791,7 @@ Section is comprised of second par. of section 16 of act Dec. 23, 1913. For clas
 
 1968—Pub. L. 90–349 added Special Drawing Right certificates to the types of allowable collateral security which may be tendered for Federal Reserve notes.
 
-1945—Act June 12, 1945, substituted “, or direct obligations of the United States.” for proviso after “gold certificates” in first sentence which limited period during which direct obligations of the United States could be accepted as collateral security.
+1945—Act June 12, 1945, substituted “, or direct obligations of the United States.” for proviso after “gold certificates” in first sentence which limited period during which direct obligations of the United States could be accepted as collateral security.
 
 1943—Act May 25, 1943, substituted “June 30, 1945” for “June 30, 1943,” in proviso.
 
@@ -4827,11 +4827,11 @@ Amendment effective upon expiration of 120 days after Nov. 10, 1978, see sec. 21
 
 The period within which direct obligations of the United States could be accepted as collateral security under this section was extended to Mar. 3, 1937, by Proclamation No. 2117, of Feb. 14, 1935, 49 Stat. 3437; extended to June 30, 1939, by act Mar. 1, 1937; extended to June 30, 1941, by act June 30, 1939; extended to June 30, 1943, by act June 30, 1941; and extended to June 30, 1945, by act May 25, 1943. Act June 12, 1945, amended section to remove the time limitation.
 
-### § 413. Distinctive letter and serial number of notes; cancellation of notes unfit for circulation; accounting; apportionment of credit among Federal Reserve banks
+### § 413. Distinctive letter and serial number of notes; cancellation of notes unfit for circulation; accounting; apportionment of credit among Federal Reserve banks
 
 Federal Reserve notes shall bear upon their faces a distinctive letter and serial number which shall be assigned by the Board of Governors of the Federal Reserve System to each Federal Reserve bank. Federal Reserve notes unfit for circulation shall be canceled, destroyed, and accounted for under procedures prescribed and at locations designated by the Secretary of the Treasury. Upon destruction of such notes, credit with respect thereto shall be apportioned among the twelve Federal Reserve banks as determined by the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 266; June 21, 1917, ch. 32, § 7, 40 Stat. 236; Jan. 30, 1934, ch. 6, § 2(b)(3), (4), 48 Stat. 338; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; June 12, 1945, ch. 186, § 1(a), 59 Stat. 237; July 19, 1954, ch. 547, 68 Stat. 495; Pub. L. 89–3, § 1, Mar. 3, 1965, 79 Stat. 5; Pub. L. 89–427, § 3, May 20, 1966, 80 Stat. 161; Pub. L. 90–269, § 3, Mar. 18, 1968, 82 Stat. 50.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 266; June 21, 1917, ch. 32, § 7, 40 Stat. 236; Jan. 30, 1934, ch. 6, § 2(b)(3), (4), 48 Stat. 338; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; June 12, 1945, ch. 186, § 1(a), 59 Stat. 237; July 19, 1954, ch. 547, 68 Stat. 495; Pub. L. 89–3, § 1, Mar. 3, 1965, 79 Stat. 5; Pub. L. 89–427, § 3, May 20, 1966, 80 Stat. 161; Pub. L. 90–269, § 3, Mar. 18, 1968, 82 Stat. 50.)
 
 **Editorial Notes**
 
@@ -4859,21 +4859,21 @@ Section is comprised of third par. of section 16 of act Dec. 23, 1913. For class
 
 Section 203(a) of Act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 414. Authority of Board of Governors respecting issuance of notes; interest; lien
+### § 414. Authority of Board of Governors respecting issuance of notes; interest; lien
 
-The Board of Governors of the Federal Reserve System shall have the right, acting through the Federal Reserve agent, to grant in whole or in part, or to reject entirely the application of any Federal Reserve bank for Federal Reserve notes; but to the extent that such application may be granted the Board of Governors of the Federal Reserve System shall, through its local Federal Reserve agent, supply Federal Reserve notes to the banks so applying, and such bank shall be charged with the amount of the notes issued to it and shall pay such rate of interest as may be established by the Board of Governors of the Federal Reserve System on only that amount of such notes which equals the total amount of its outstanding Federal Reserve notes less the amount of gold certificates held by the Federal Reserve agent as collateral security. Federal Reserve notes issued to any such bank shall, upon delivery, together with such notes of such Federal Reserve bank as may be issued under subchapter XIII 1
+The Board of Governors of the Federal Reserve System shall have the right, acting through the Federal Reserve agent, to grant in whole or in part, or to reject entirely the application of any Federal Reserve bank for Federal Reserve notes; but to the extent that such application may be granted the Board of Governors of the Federal Reserve System shall, through its local Federal Reserve agent, supply Federal Reserve notes to the banks so applying, and such bank shall be charged with the amount of the notes issued to it and shall pay such rate of interest as may be established by the Board of Governors of the Federal Reserve System on only that amount of such notes which equals the total amount of its outstanding Federal Reserve notes less the amount of gold certificates held by the Federal Reserve agent as collateral security. Federal Reserve notes issued to any such bank shall, upon delivery, together with such notes of such Federal Reserve bank as may be issued under subchapter XIII 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this chapter upon security of United States 2 per centum Government bonds, become a first and paramount lien on all the assets of such bank.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 266; June 21, 1917, ch. 32, § 7, 40 Stat. 237; Jan. 30, 1934, ch. 6, § 2(b)(5), 48 Stat. 338; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; June 12, 1945, ch. 186, § 1(b), 59 Stat. 237; Pub. L. 90–269, § 4, Mar. 18, 1968, 82 Stat. 50.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 266; June 21, 1917, ch. 32, § 7, 40 Stat. 237; Jan. 30, 1934, ch. 6, § 2(b)(5), 48 Stat. 338; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; June 12, 1945, ch. 186, § 1(b), 59 Stat. 237; Pub. L. 90–269, § 4, Mar. 18, 1968, 82 Stat. 50.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter XIII of this chapter, referred to in text, was in the original “section 18 of this Act”, meaning section 18 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. Section 18 of the act was classified generally to subchapter XIII (§ 441 et seq.) of this chapter.
+Subchapter XIII of this chapter, referred to in text, was in the original “section 18 of this Act”, meaning section 18 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. Section 18 of the act was classified generally to subchapter XIII (§ 441 et seq.) of this chapter.
 
 **Codification**
 
@@ -4893,17 +4893,17 @@ Section is comprised of fourth par. of section 16 of act Dec. 23, 1913. For clas
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 415. Reduction of liability for outstanding notes by depositing notes and collateral and payment of notes of series prior to 1928; reissue of deposited notes
+### § 415. Reduction of liability for outstanding notes by depositing notes and collateral and payment of notes of series prior to 1928; reissue of deposited notes
 
 Any Federal Reserve bank may at any time reduce its liability for outstanding Federal Reserve notes by depositing with the Federal Reserve agent its Federal Reserve notes, gold certificates, Special Drawing Right certificates, or lawful money of the United States. Federal Reserve notes so deposited shall not be reissued, except upon compliance with the conditions of an original issue. The liability of a Federal Reserve bank with respect to its outstanding Federal Reserve notes shall be reduced by an amount paid by such bank to the Secretary of the Treasury under section 4 of the Old Series Currency Adjustment Act.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; June 21, 1917, ch. 32, § 7, 40 Stat. 237; Jan. 30, 1934, ch. 6, § 2(b)(5), 48 Stat. 339; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 87–66, § 8(a), June 30, 1961, 75 Stat. 147; Pub. L. 90–269, § 5, Mar. 18, 1968, 82 Stat. 50; Pub. L. 90–349, § 5(b), June 19, 1968, 82 Stat. 189.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; June 21, 1917, ch. 32, § 7, 40 Stat. 237; Jan. 30, 1934, ch. 6, § 2(b)(5), 48 Stat. 339; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 87–66, § 8(a), June 30, 1961, 75 Stat. 147; Pub. L. 90–269, § 5, Mar. 18, 1968, 82 Stat. 50; Pub. L. 90–349, § 5(b), June 19, 1968, 82 Stat. 189.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4 of the Old Series Currency Adjustment Act, referred to in text, which was classified to section 913 of former Title 31, was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
+Section 4 of the Old Series Currency Adjustment Act, referred to in text, which was classified to section 913 of former Title 31, was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
 **Codification**
 
@@ -4925,17 +4925,17 @@ Pub. L. 90–269 struck out second par. (sixth par. of section 16 of Act Dec. 23
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 416. Withdrawal of collateral deposited to protect notes and substitution of other collateral; retirement of notes; payment of notes of series prior to 1928; recovery of collateral; reissue of deposited notes
+### § 416. Withdrawal of collateral deposited to protect notes and substitution of other collateral; retirement of notes; payment of notes of series prior to 1928; recovery of collateral; reissue of deposited notes
 
 Any Federal Reserve bank may at its discretion withdraw collateral deposited with the local Federal Reserve agent for the protection of its Federal Reserve notes issued to it, and shall at the same time substitute therefor other collateral of equal amount with the approval of the Federal Reserve agent under regulations to be prescribed by the Board of Governors of the Federal Reserve System. Any Federal Reserve bank may retire any of its Federal Reserve notes by depositing them with the Federal Reserve agent or with the Treasurer of the United States, and such Federal Reserve bank shall thereupon be entitled to receive back the collateral deposited with the Federal Reserve agent for the security of such notes. Any Federal Reserve bank shall further be entitled to receive back the collateral deposited with the Federal Reserve agent for the security of any notes with respect to which such bank has made payment to the Secretary of the Treasury under section 4 of the Old Series Currency Adjustment Act. Federal Reserve notes so deposited shall not be reissued except upon compliance with the conditions of an original issue.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; June 21, 1917, ch. 32, § 7, 40 Stat. 237; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 87–66, § 8(b), June 30, 1961, 75 Stat. 147; Pub. L. 90–269, § 6, Mar. 18, 1968, 82 Stat. 50.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; June 21, 1917, ch. 32, § 7, 40 Stat. 237; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 87–66, § 8(b), June 30, 1961, 75 Stat. 147; Pub. L. 90–269, § 6, Mar. 18, 1968, 82 Stat. 50.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4 of the Old Series Currency Adjustment Act, referred to in text, which was classified to section 913 of former Title 31, was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
+Section 4 of the Old Series Currency Adjustment Act, referred to in text, which was classified to section 913 of former Title 31, was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
 **Codification**
 
@@ -4959,11 +4959,11 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 
-### § 417. Custody and safe-keeping of notes issued to and collateral deposited with Reserve agent
+### § 417. Custody and safe-keeping of notes issued to and collateral deposited with Reserve agent
 
 All Federal Reserve notes and all gold certificates, Special Drawing Right certificates, and lawful money issued to or deposited with any Federal Reserve agent under the provisions of the Federal Reserve Act shall hereafter be held for such agent, under such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe, in the joint custody of himself and the Federal Reserve bank to which he is accredited. Such agent and such Federal Reserve bank shall be jointly liable for the safe-keeping of such Federal Reserve notes, gold certificates, Special Drawing Right certificates, and lawful money. Nothing herein contained, however, shall be construed to prohibit a Federal Reserve agent from depositing gold certificates and Special Drawing Right certificates with the Board of Governors of the Federal Reserve System, to be held by such Board subject to his order, or with the Treasurer of the United States for the purposes authorized by law.
 
-(June 21, 1917, ch. 32, § 7 (par.), 40 Stat. 238; Jan. 30, 1934, ch. 6, § 2(b)(6), 48 Stat. 339; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 90–349, § 5(c), June 19, 1968, 82 Stat. 189.)
+(June 21, 1917, ch. 32, § 7 (par.), 40 Stat. 238; Jan. 30, 1934, ch. 6, § 2(b)(6), 48 Stat. 339; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 90–349, § 5(c), June 19, 1968, 82 Stat. 189.)
 
 **Editorial Notes**
 
@@ -4979,7 +4979,7 @@ Section is comprised of last par. of section 7 of act June 21, 1917. The precedi
 
 **Amendments**
 
-1968—Pub. L. 90–349, which directed amendment of “[t]he seventh paragraph of section 16 of the Federal Reserve Act, as amended (12 U.S.C. 417)” by inserting “, Special Drawing Right certificates,” after “gold certificates” in the first sentence, “Special Drawing Right certificates,” after “gold certificates,” in the second sentence, and “and Special Drawing Right certificates” after “gold certificates” in the third sentence, was executed by making the insertions in this section, to reflect the probable intent of Congress.
+1968—Pub. L. 90–349, which directed amendment of “[t]he seventh paragraph of section 16 of the Federal Reserve Act, as amended (12 U.S.C. 417)” by inserting “, Special Drawing Right certificates,” after “gold certificates” in the first sentence, “Special Drawing Right certificates,” after “gold certificates,” in the second sentence, and “and Special Drawing Right certificates” after “gold certificates” in the third sentence, was executed by making the insertions in this section, to reflect the probable intent of Congress.
 
 1934—Act Jan. 30, 1934, which directed general amendment of the eighth par. of section 16 of the Federal Reserve Act, was executed to this section, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “All Federal reserve notes and all gold, gold certificates, and lawful money issued to or deposited with any Federal reserve agent under the provisions of the Federal reserve Act shall hereafter be held for such agent, under such rules and regulations as the Federal Reserve Board may prescribe, in the joint custody of himself and the Federal reserve bank to which he is accredited. Such agent and such Federal reserve bank shall be jointly liable for the safe-keeping of such Federal reserve notes, gold, gold certificates, and lawful money. Nothing herein contained, however, shall be construed to prohibit a Federal reserve agent from depositing gold or gold certificates with the Federal Reserve Board, to be held by such board subject to his order, or with the Treasurer of the United States for the purposes authorized by law.”
 
@@ -4995,11 +4995,11 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 
-### § 418. Printing of notes; denomination and form
+### § 418. Printing of notes; denomination and form
 
 In order to furnish suitable notes for circulation as Federal reserve notes, the Secretary of the Treasury shall cause plates and dies to be engraved in the best manner to guard against counterfeits and fraudulent alterations, and shall have printed therefrom and numbered such quantities of such notes of the denominations of $1, $2, $5, $10, $20, $50, $100, $500, $1,000, $5,000, $10,000 as may be required to supply the Federal Reserve banks. Such notes shall be in form and tenor as directed by the Secretary of the Treasury under the provisions of this chapter and shall bear the distinctive numbers of the several Federal reserve banks through which they are issued.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; Sept. 26, 1918, ch. 177, § 3, 40 Stat. 969; Pub. L. 88–36, title I, § 3, June 4, 1963, 77 Stat. 54; Pub. L. 103–325, title VI, § 602(g)(3), Sept. 23, 1994, 108 Stat. 2293.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; Sept. 26, 1918, ch. 177, § 3, 40 Stat. 969; Pub. L. 88–36, title I, § 3, June 4, 1963, 77 Stat. 54; Pub. L. 103–325, title VI, § 602(g)(3), Sept. 23, 1994, 108 Stat. 2293.)
 
 **Editorial Notes**
 
@@ -5019,11 +5019,11 @@ Section is comprised of the seventh par. (formerly the eighth par.) of section 1
 
 1918—Act Sept. 26, 1918, which directed general amendment of “the ninth paragraph of section sixteen of the Federal reserve Act, as amended by the Acts approved September seventh, nineteen hundred and sixteen, and June twenty-first, nineteen hundred and seventeen,” was executed to the eighth par. of section 16 of act Dec. 23, 1913 (now classified to this section), to reflect the probable intent of Congress. Prior to amendment, text read as follows: “In order to furnish suitable notes for circulation as Federal reserve notes, the Comptroller of the Currency shall, under the direction of the Secretary of the Treasury, cause plates and dies to be engraved in the best manner to guard against counterfeits and fraudulent alterations, and shall have printed therefrom and numbered such quantities of such notes of the denominations of $5, $10, $20, $50, $100, as may be required to supply the Federal reserve banks. Such notes shall be in form and tenor as directed by the Secretary of the Treasury under the provisions of this Act and shall bear the distinctive numbers of the several Federal reserve banks through which they are issued.”
 
-### § 419. Delivery of notes prior to delivery to banks
+### § 419. Delivery of notes prior to delivery to banks
 
 When such notes have been prepared, the notes shall be delivered to the Board of Governors of the Federal Reserve System subject to the order of the Secretary of the Treasury for the delivery of such notes in accordance with this chapter.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; May 29, 1920, ch. 214, § 1, 41 Stat. 654; Pub. L. 103–325, title VI, § 602(g)(4), Sept. 23, 1994, 108 Stat. 2293.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; May 29, 1920, ch. 214, § 1, 41 Stat. 654; Pub. L. 103–325, title VI, § 602(g)(4), Sept. 23, 1994, 108 Stat. 2293.)
 
 **Editorial Notes**
 
@@ -5041,11 +5041,11 @@ On authority of act May 29, 1920, which abolished offices of Assistant Treasurer
 
 1994—Pub. L. 103–325, which directed general amendment of “[t]he 9th undesignated paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 419)”, was executed to this section to reflect the probable intent of Congress. Prior to amendment, section read as follows: “When such notes have been prepared, they shall be deposited in the Treasury, or in the designated depositary or mint of the United States nearest the place of business of each Federal reserve bank and shall be held for the use of such bank subject to the order of the Comptroller of the Currency for their delivery, as provided by this chapter.”
 
-### § 420. Control and direction of plates and dies; expense of issue and retirement of notes paid by banks
+### § 420. Control and direction of plates and dies; expense of issue and retirement of notes paid by banks
 
 The plates and dies to be procured by the Secretary of the Treasury for the printing of such circulating notes shall remain under his control and direction, and the expenses necessarily incurred in executing the laws relating to the procuring of such notes, and all other expenses incidental to their issue and retirement, shall be paid by the Federal reserve banks, and the Board of Governors of the Federal Reserve System shall include in its estimate of expenses levied against the Federal reserve banks a sufficient amount to cover the expenses herein provided for.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; Pub. L. 103–325, title VI, § 602(g)(5), Sept. 23, 1994, 108 Stat. 2293.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; Pub. L. 103–325, title VI, § 602(g)(5), Sept. 23, 1994, 108 Stat. 2293.)
 
 **Editorial Notes**
 
@@ -5061,11 +5061,11 @@ Section is comprised of the ninth par. (formerly the tenth par.) of section 16 o
 
 1994—Pub. L. 103–325, which directed amendment of “[t]he 10th undesignated paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 420)” by substituting “Secretary of the Treasury” for “Comptroller of the Currency” and “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”, was executed by making the substitutions in this section to reflect the probable intent of Congress.
 
-### § 421. Examination of plates and dies
+### § 421. Examination of plates and dies
 
 The Secretary of the Treasury may examine the plates, dies, bed pieces, and other material used in the printing of Federal Reserve notes and issue regulations relating to such examinations.
 
-(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; Pub. L. 103–325, title VI, § 602(g)(6), Sept. 23, 1994, 108 Stat. 2293.)
+(Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267; Pub. L. 103–325, title VI, § 602(g)(6), Sept. 23, 1994, 108 Stat. 2293.)
 
 **Editorial Notes**
 
@@ -5077,23 +5077,23 @@ Section is comprised of the tenth (formerly the eleventh) par. of section 16 of 
 
 1994—Pub. L. 103–325, which directed general amendment of “[t]he 11th undesignated paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 421)”, was executed to this section to reflect the probable intent of Congress. Prior to amendment, text read as follows: “The examination of plates, dies, bed pieces, and so forth, and regulations relating to such examination of plates, dies, and so forth, of national-bank notes provided for in section 108 of this title, is extended to include notes herein provided for.”
 
-### § 422. Omitted
+### § 422. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267, which made permanent appropriations for printing notes besides authorizing use of certain printing stock on hand Dec. 23, 1913, was superseded by act June 26, 1934, ch. 756, § 1(a), (b)(3), 48 Stat. 1225.
+Section, act Dec. 23, 1913, ch. 6, § 16 (par.), 38 Stat. 267, which made permanent appropriations for printing notes besides authorizing use of certain printing stock on hand Dec. 23, 1913, was superseded by act June 26, 1934, ch. 756, § 1(a), (b)(3), 48 Stat. 1225.
 
 ## SUBCHAPTER XIII—CIRCULATING NOTES AND BONDS SECURING SAME
 
-### §§ 441 to 448. Omitted
+### §§ 441 to 448. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections, act Dec. 23, 1913, ch. 6, § 18, 38 Stat. 268, as amended by acts Mar. 9, 1933, ch. 1, title IV, § 401, 48 Stat. 6; Sept. 23, 1994, Pub. L. 103–325, title VI, § 602(g)(7), 108 Stat. 2293, are omitted as obsolete.
+Sections, act Dec. 23, 1913, ch. 6, § 18, 38 Stat. 268, as amended by acts Mar. 9, 1933, ch. 1, title IV, § 401, 48 Stat. 6; Sept. 23, 1994, Pub. L. 103–325, title VI, § 602(g)(7), 108 Stat. 2293, are omitted as obsolete.
 
 Section 441 provided that at any time during a period of twenty years from Dec. 23, 1915, any member bank desiring to retire the whole or any part of its circulating notes file with the Treasurer of the United States an application to sell for its account, at par and accrued interest, United States bonds, securing circulation to be retired.
 
@@ -5103,7 +5103,7 @@ Section 443 related to transfer of bonds purchased, payment, and cancellation of
 
 Section 444 related to issuance of circulating notes to reserve banks purchasing bonds.
 
-Section 445 provided for issuance of circulating notes to Federal Reserve banks. Act June 12, 1945, ch. 186, § 3, 59 Stat. 238, provided that all power and authority with respect to the issuance of circulating notes, known as Federal Reserve bank notes, pursuant to this section would cease and terminate on June 12, 1945.
+Section 445 provided for issuance of circulating notes to Federal Reserve banks. Act June 12, 1945, ch. 186, § 3, 59 Stat. 238, provided that all power and authority with respect to the issuance of circulating notes, known as Federal Reserve bank notes, pursuant to this section would cease and terminate on June 12, 1945.
 
 Section 446 related to exchange by reserve banks of bonds bearing circulating privilege for those without such privilege.
 
@@ -5113,15 +5113,15 @@ Section 448 related to exchange of one-year gold notes for 3 per centum gold bon
 
 ## SUBCHAPTER XIV—BANK RESERVES
 
-### § 461. Reserve requirements
+### § 461. Reserve requirements
 
 **(a) Establishment of applicable definitions, payment of interest, obligations as deposits, and regulations**
 
-The Board is authorized for the purposes of this section 1
+The Board is authorized for the purposes of this section 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-to define the terms used in this section,1 to determine what shall be deemed a payment of interest, to determine what types of obligations, whether issued directly by a member bank or indirectly by an affiliate of a member bank or by other means, and, regardless of the use of the proceeds, shall be deemed a deposit, and to prescribe such regulations as it may deem necessary to effectuate the purposes of this section 1 and to prevent evasions thereof.
+to define the terms used in this section,1 to determine what shall be deemed a payment of interest, to determine what types of obligations, whether issued directly by a member bank or indirectly by an affiliate of a member bank or by other means, and, regardless of the use of the proceeds, shall be deemed a deposit, and to prescribe such regulations as it may deem necessary to effectuate the purposes of this section 1 and to prevent evasions thereof.
 
 **(b) Additional definitions; required amounts of reserves maintained against transaction accounts; waiver of ratio limits in extraordinary circumstances; supplemental reserves; reserves related to foreign obligations or assets; exemption for certain deposits; discount and borrowing; transitional adjustments; additional exemptions and waivers; earnings on balances**
 
@@ -5269,7 +5269,7 @@ to define the terms used in this section,1 to determine what shall be deemed a p
 
 **(2)** The balances maintained to meet the reserve requirements of subsection (b) by a depository institution in a Federal Reserve bank or passed through a Federal Home Loan Bank or the National Credit Union Administration Central Liquidity Facility or another depository institution to a Federal Reserve bank may be used to satisfy liquidity requirements which may be imposed under other provisions of Federal or State law.
 
-(Dec. 23, 1913, ch. 6, § 19(a)–(c), formerly § 19 (pars.), 38 Stat. 270; June 21, 1917, ch. 32, § 10, 40 Stat. 239; Aug. 23, 1935, ch. 614, title III, § 324(a), 49 Stat. 714; renumbered § 19(a)–(c) and amended Pub. L. 89–597, § 2(a), Sept. 21, 1966, 80 Stat. 823; Pub. L. 91–151, title I, §§ 4(a), 5, Dec. 23, 1969, 83 Stat. 374, 375; Pub. L. 93–501, title I, § 101(a), Oct. 29, 1974, 88 Stat. 1557; Pub. L. 96–221, title I, §§ 103, 104(a), Mar. 31, 1980, 94 Stat. 133, 138; Pub. L. 97–35, title III, § 385, Aug. 13, 1981, 95 Stat. 433; Pub. L. 97–320, title IV, § 411, title VII, § 708, Oct. 15, 1982, 96 Stat. 1520, 1540; Pub. L. 101–73, title VII, § 744(i)(2), (3), Aug. 9, 1989, 103 Stat. 439; Pub. L. 109–351, title II, §§ 201, 202, title VI, § 603, Oct. 13, 2006, 120 Stat. 1968, 1969, 1980; Pub. L. 111–203, title III, § 366(2), July 21, 2010, 124 Stat. 1556.)
+(Dec. 23, 1913, ch. 6, § 19(a)–(c), formerly § 19 (pars.), 38 Stat. 270; June 21, 1917, ch. 32, § 10, 40 Stat. 239; Aug. 23, 1935, ch. 614, title III, § 324(a), 49 Stat. 714; renumbered § 19(a)–(c) and amended Pub. L. 89–597, § 2(a), Sept. 21, 1966, 80 Stat. 823; Pub. L. 91–151, title I, §§ 4(a), 5, Dec. 23, 1969, 83 Stat. 374, 375; Pub. L. 93–501, title I, § 101(a), Oct. 29, 1974, 88 Stat. 1557; Pub. L. 96–221, title I, §§ 103, 104(a), Mar. 31, 1980, 94 Stat. 133, 138; Pub. L. 97–35, title III, § 385, Aug. 13, 1981, 95 Stat. 433; Pub. L. 97–320, title IV, § 411, title VII, § 708, Oct. 15, 1982, 96 Stat. 1520, 1540; Pub. L. 101–73, title VII, § 744(i)(2), (3), Aug. 9, 1989, 103 Stat. 439; Pub. L. 109–351, title II, §§ 201, 202, title VI, § 603, Oct. 13, 2006, 120 Stat. 1968, 1969, 1980; Pub. L. 111–203, title III, § 366(2), July 21, 2010, 124 Stat. 1556.)
 
 **Editorial Notes**
 
@@ -5277,15 +5277,15 @@ to define the terms used in this section,1 to determine what shall be deemed a p
 
 This section, referred to in subsec. (a), means section 19 of act Dec. 23, 1913, which is classified to sections 142, 371b, 371b–1, 374, 374a, 461, 463 to 466, 505, and 506 of this title.
 
-The Federal Deposit Insurance Act, referred to in subsec. (b)(1)(A)(vi), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (b)(1)(A)(vi), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
-Section 25 of this Act and section 25, referred to in subsec. (b)(6), (12)(C), mean section 25 of act Dec. 23, 1913, ch. 6, which is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title.
+Section 25 of this Act and section 25, referred to in subsec. (b)(6), (12)(C), mean section 25 of act Dec. 23, 1913, ch. 6, which is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title.
 
 For the effective date of the Monetary Control Act of 1980, referred to in subsec. (b)(8), see section 108 of Pub. L. 96–221, set out as an Effective Date of 1980 Amendment note under section 248 of this title.
 
-Section 25A, referred to in subsec. (b)(12)(C), means section 25A of act Dec. 23, 1913, ch. 6, known as the Edge Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title.
+Section 25A, referred to in subsec. (b)(12)(C), means section 25A of act Dec. 23, 1913, ch. 6, known as the Edge Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title.
 
-Section 404 of the National Housing Act (12 U.S.C. 1727), referred to in subsec. (c)(1)(B), was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
+Section 404 of the National Housing Act (12 U.S.C. 1727), referred to in subsec. (c)(1)(B), was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
 
 **Codification**
 
@@ -5295,41 +5295,41 @@ Section is comprised of subsecs. (a) to (c), formerly first six pars., of sectio
 
 2010—Subsec. (b)(1)(F), (4)(B). Pub. L. 111–203 substituted “Comptroller of the Currency” for “Director of the Office of Thrift Supervision”.
 
-2006—Subsec. (b)(2)(A). Pub. L. 109–351, § 202, substituted “a ratio of not greater than 3 percent (and which may be zero)” for “the ratio of 3 per centum” in cl. (i) and “(and which may be zero),” for “and not less than 8 per centum,” in cl. (ii).
+2006—Subsec. (b)(2)(A). Pub. L. 109–351, § 202, substituted “a ratio of not greater than 3 percent (and which may be zero)” for “the ratio of 3 per centum” in cl. (i) and “(and which may be zero),” for “and not less than 8 per centum,” in cl. (ii).
 
-Subsec. (b)(4)(C) to (E). Pub. L. 109–351, § 201(b)(1), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “The supplemental reserve authorized under subparagraph (A) shall be maintained by the Federal Reserve banks in an Earnings Participation Account. Except as provided in subsection (c)(1)(A)(ii) of this section, such Earnings Participation Account shall receive earnings to be paid by the Federal Reserve banks during each calendar quarter at a rate not more than the rate earned on the securities portfolio of the Federal Reserve System during the previous calendar quarter. The Board may prescribe rules and regulations concerning the payment of earnings on Earnings Participation Accounts by Federal Reserve banks under this paragraph.”
+Subsec. (b)(4)(C) to (E). Pub. L. 109–351, § 201(b)(1), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “The supplemental reserve authorized under subparagraph (A) shall be maintained by the Federal Reserve banks in an Earnings Participation Account. Except as provided in subsection (c)(1)(A)(ii) of this section, such Earnings Participation Account shall receive earnings to be paid by the Federal Reserve banks during each calendar quarter at a rate not more than the rate earned on the securities portfolio of the Federal Reserve System during the previous calendar quarter. The Board may prescribe rules and regulations concerning the payment of earnings on Earnings Participation Accounts by Federal Reserve banks under this paragraph.”
 
-Subsec. (b)(12). Pub. L. 109–351, § 201(a), added par. (12).
+Subsec. (b)(12). Pub. L. 109–351, § 201(a), added par. (12).
 
-Subsec. (c)(1)(A). Pub. L. 109–351, § 201(b)(2), substituted “subsection (b)” for “subsection (b)(4)(C)”.
+Subsec. (c)(1)(A). Pub. L. 109–351, § 201(b)(2), substituted “subsection (b)” for “subsection (b)(4)(C)”.
 
-Subsec. (c)(1)(B). Pub. L. 109–351, § 603, struck out “which is not a member bank” after “balances maintained by a depository institution”.
+Subsec. (c)(1)(B). Pub. L. 109–351, § 603, struck out “which is not a member bank” after “balances maintained by a depository institution”.
 
-1989—Subsec. (b)(1)(A)(vi). Pub. L. 101–73, § 744(i)(2), amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: “any insured institution as defined in section 1724 of this title or any institution which is eligible to make application to become an insured institution under section 1726 of this title; and”.
+1989—Subsec. (b)(1)(A)(vi). Pub. L. 101–73, § 744(i)(2), amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: “any insured institution as defined in section 1724 of this title or any institution which is eligible to make application to become an insured institution under section 1726 of this title; and”.
 
-Subsec. (b)(1)(F), (4)(B). Pub. L. 101–73, § 744(i)(3), substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+Subsec. (b)(1)(F), (4)(B). Pub. L. 101–73, § 744(i)(3), substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
-1982—Subsec. (b)(1)(E), (F). Pub. L. 97–320, § 411(c), added subpar. (E) and redesignated former subpar. (E) as (F).
+1982—Subsec. (b)(1)(E), (F). Pub. L. 97–320, § 411(c), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-Subsec. (b)(4)(A)(iv). Pub. L. 97–320, § 411(b), inserted “except as provided in paragraph (11)”.
+Subsec. (b)(4)(A)(iv). Pub. L. 97–320, § 411(b), inserted “except as provided in paragraph (11)”.
 
-Subsec. (b)(8)(D)(i). Pub. L. 97–320, § 708(1), substituted provisions relating to reserve requirements for banks which withdraw from the Federal Reserve System for provision that any bank which was a member bank on July 1, 1979, and which withdrew from membership in the Federal Reserve System during the period beginning on July 1, 1979, and ending on the day before March 31, 1980, would maintain reserves beginning on March 31, 1980, in an amount equal to the amount of reserves it would have been required to maintain if it had been a member bank on March 31, 1980, and that after March 31, 1980, any such bank was directed to maintain reserves in the same amounts as member banks were required to maintain under this subsection, pursuant to subparagraphs (B) and (C)(i).
+Subsec. (b)(8)(D)(i). Pub. L. 97–320, § 708(1), substituted provisions relating to reserve requirements for banks which withdraw from the Federal Reserve System for provision that any bank which was a member bank on July 1, 1979, and which withdrew from membership in the Federal Reserve System during the period beginning on July 1, 1979, and ending on the day before March 31, 1980, would maintain reserves beginning on March 31, 1980, in an amount equal to the amount of reserves it would have been required to maintain if it had been a member bank on March 31, 1980, and that after March 31, 1980, any such bank was directed to maintain reserves in the same amounts as member banks were required to maintain under this subsection, pursuant to subparagraphs (B) and (C)(i).
 
-Subsec. (b)(8)(D)(ii). Pub. L. 97–320, § 708(2), struck out “on or” after “Reserve System”.
+Subsec. (b)(8)(D)(ii). Pub. L. 97–320, § 708(2), struck out “on or” after “Reserve System”.
 
-Subsec. (b)(11). Pub. L. 97–320, § 411(a), added par. (11).
+Subsec. (b)(11). Pub. L. 97–320, § 411(a), added par. (11).
 
 1981—Subsec. (b)(8)(E). Pub. L. 97–35 substituted provisions relating to applicability to any depository institution that was on Aug. 1, 1978, engaged in such business in a State outside the continental limits and was not a member of the Federal Reserve System at any time on or after such date, for provisions relating to applicability to any depository institution that was on Aug. 1, 1978, engaged in such business under the laws of a State, was not a member of the Federal Reserve System on that date, and the principal office of which was outside the continental limits on that date and has remained outside ever since.
 
-1980—Subsec. (b). Pub. L. 96–221, § 103, substituted provisions setting forth additional definitions applicable to reserve requirements and requirements respecting amounts of reserves maintained against transaction accounts, waiver of ratio limits in extraordinary circumstances, supplemental reserves, reserves related to foreign obligations or assets, exemptions for certain deposits, discounts and borrowings, transitional adjustments, and additional exemptions and waivers, for provisions relating to determinations respecting maintenance of reserves against deposits.
+1980—Subsec. (b). Pub. L. 96–221, § 103, substituted provisions setting forth additional definitions applicable to reserve requirements and requirements respecting amounts of reserves maintained against transaction accounts, waiver of ratio limits in extraordinary circumstances, supplemental reserves, reserves related to foreign obligations or assets, exemptions for certain deposits, discounts and borrowings, transitional adjustments, and additional exemptions and waivers, for provisions relating to determinations respecting maintenance of reserves against deposits.
 
-Subsec. (c). Pub. L. 96–221, § 104(a), substituted provisions relating to the promulgation of rules and regulations respecting maintenance of balances, for provisions relating to form of reserves held by member banks.
+Subsec. (c). Pub. L. 96–221, § 104(a), substituted provisions relating to the promulgation of rules and regulations respecting maintenance of balances, for provisions relating to form of reserves held by member banks.
 
 1974—Subsec. (a). Pub. L. 93–501 substituted “and, regardless of the use of the proceeds, shall be deemed a deposit” for “shall be deemed a deposit”.
 
-1969—Subsec. (a). Pub. L. 91–151, § 4(a), authorized Board to determine type of obligations that would be deemed deposits.
+1969—Subsec. (a). Pub. L. 91–151, § 4(a), authorized Board to determine type of obligations that would be deemed deposits.
 
-Subsec. (b). Pub. L. 91–151, § 5, authorized Board to prescribe ratio of indebtedness of member banks to foreign banks, up to a maximum of 22 percent.
+Subsec. (b). Pub. L. 91–151, § 5, authorized Board to prescribe ratio of indebtedness of member banks to foreign banks, up to a maximum of 22 percent.
 
 1966—Pub. L. 89–597 designated first par. provisions of section 19 of act Dec. 23, 1913, as subsec. (a), substituted a general provision authorizing Board to define terms used in sections 142, 371a, 371b, 374, 374a, and 463 to 466 of this title for former provisions defining terms “demand deposits”, “gross demand deposits”, “deposits payable on demand”, “time deposits”, “savings deposits”, and “trust funds”, struck out inclusion of “savings deposits” in term “time deposits” in regard to reserve requirements of member banks, and added subsecs. (b) and (c) to such section 19, superseding second through sixth pars., which authorized Board to fix reserve requirements against time deposits between the limits of 3 and 10 percent, in lieu of prior limits of 3 and 6 percent, and struck out provision for modification of reserve requirements to prevent injurious credit to expansion or contraction.
 
@@ -5343,7 +5343,7 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–351, title II, § 203, Oct. 13, 2006, 120 Stat. 1969, as amended by Pub. L. 110–343, div. A, title I, § 128, Oct. 3, 2008, 122 Stat. 3796, provided that: “The amendments made by this title [amending this section] shall take effect October 1, 2008.”
+Pub. L. 109–351, title II, § 203, Oct. 13, 2006, 120 Stat. 1969, as amended by Pub. L. 110–343, div. A, title I, § 128, Oct. 3, 2008, 122 Stat. 3796, provided that: “The amendments made by this title [amending this section] shall take effect October 1, 2008.”
 
 **Effective Date of 1980 Amendment**
 
@@ -5351,69 +5351,69 @@ Amendment by Pub. L. 96–221 effective on first day of sixth month which begins
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–501, title I, § 101(b), Oct. 29, 1974, 88 Stat. 1557, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to any bank holding company which has filed prior to the date of enactment of this Act [Oct. 29, 1974], an irrevocable declaration with the Board of Governors of the Federal Reserve System to divest itself of all of its banks under section 4 of the Bank Holding Company Act [12 U.S.C. 1843], or to any debt obligation which is an exempted security under section 3(a)(3) of the Securities Act of 1933 [15 U.S.C. 77c(a)(3)].”
+Pub. L. 93–501, title I, § 101(b), Oct. 29, 1974, 88 Stat. 1557, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to any bank holding company which has filed prior to the date of enactment of this Act [Oct. 29, 1974], an irrevocable declaration with the Board of Governors of the Federal Reserve System to divest itself of all of its banks under section 4 of the Bank Holding Company Act [12 U.S.C. 1843], or to any debt obligation which is an exempted security under section 3(a)(3) of the Securities Act of 1933 [15 U.S.C. 77c(a)(3)].”
 
 **Effective and Termination Dates of 1966 Amendment**
 
-Pub. L. 89–597, § 7, Sept. 21, 1966, 80 Stat. 825, as amended by Pub. L. 90–87, Sept. 21, 1967, 81 Stat. 226; Pub. L. 90–505, § 1, Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–71, Sept. 22, 1969, 83 Stat. 115; Pub. L. 91–151, title I, § 1, Dec. 23, 1969, 83 Stat. 371; Pub. L. 92–8, § 1, Mar. 31, 1971, 85 Stat. 13; Pub. L. 92–15, § 1, May 18, 1971, 85 Stat. 38; Pub. L. 93–63, July 6, 1973, 87 Stat. 147; Pub. L. 93–100, § 1, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, § 107, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 94–200, title I, § 101, Dec. 31, 1975, 89 Stat. 1124; Pub. L. 95–22, title I, § 101, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–188, title I, § 101, Nov. 16, 1977, 91 Stat. 1387; Pub. L. 95–630, title XVI, § 1601, Nov. 10, 1978, 92 Stat. 3713, which provided effective and termination dates for 1966 amendments by Pub. L. 89–597 (affecting sections 371b, 1425b, and 1828(g) of this title), was repealed by Pub. L. 96–221, title II, § 207(a), Mar. 31, 1980, 94 Stat. 144.
+Pub. L. 89–597, § 7, Sept. 21, 1966, 80 Stat. 825, as amended by Pub. L. 90–87, Sept. 21, 1967, 81 Stat. 226; Pub. L. 90–505, § 1, Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–71, Sept. 22, 1969, 83 Stat. 115; Pub. L. 91–151, title I, § 1, Dec. 23, 1969, 83 Stat. 371; Pub. L. 92–8, § 1, Mar. 31, 1971, 85 Stat. 13; Pub. L. 92–15, § 1, May 18, 1971, 85 Stat. 38; Pub. L. 93–63, July 6, 1973, 87 Stat. 147; Pub. L. 93–100, § 1, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, § 107, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 94–200, title I, § 101, Dec. 31, 1975, 89 Stat. 1124; Pub. L. 95–22, title I, § 101, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–188, title I, § 101, Nov. 16, 1977, 91 Stat. 1387; Pub. L. 95–630, title XVI, § 1601, Nov. 10, 1978, 92 Stat. 3713, which provided effective and termination dates for 1966 amendments by Pub. L. 89–597 (affecting sections 371b, 1425b, and 1828(g) of this title), was repealed by Pub. L. 96–221, title II, § 207(a), Mar. 31, 1980, 94 Stat. 144.
 
 **Elimination or Reduction of Interest Rate Differential Between Savings Banks and Savings and Loan, Building and Loan, or Homestead Associations**
 
-Pub. L. 94–200, title I, § 102, Dec. 31, 1975, 89 Stat. 1124, as amended by Pub. L. 95–630, title XVI, § 1602, Nov. 10, 1978, 92 Stat. 3713, which had provided that an interest rate differential for any category of deposits or accounts which was in effect on December 10, 1975, between (1) any bank (other than a savings bank) the deposits of which were insured by the Federal Deposit Insurance Corporation and (2) any savings and loan, building and loan, or homestead association (including cooperative banks) the deposits or accounts of which were insured by the Federal Savings and Loan Insurance Corporation or any mutual savings bank as defined in section 3(f) of the Federal Deposit Insurance Act (12 U.S.C. 1813(j)) [section 1813(f) of this title] could not be eliminated or reduced unless (A) written notification was given by the Board of Governors of the Federal Reserve System to the Congress; and (B) the House of Representatives and the Senate approved, by concurrent resolution, the proposed elimination or reduction of the interest rate differential, was repealed by Pub. L. 97–320, title III, § 326(a), Oct. 15, 1982, 96 Stat. 1500. See section 326(b)–(d) of Pub. L. 97–320, set out as a note under section 1828 of this title. See, also, section 207(b)(1) of Pub. L. 96–221 providing for repeal of section 102 of Pub. L. 94–200 effective 6 years after Mar. 31, 1980.
+Pub. L. 94–200, title I, § 102, Dec. 31, 1975, 89 Stat. 1124, as amended by Pub. L. 95–630, title XVI, § 1602, Nov. 10, 1978, 92 Stat. 3713, which had provided that an interest rate differential for any category of deposits or accounts which was in effect on December 10, 1975, between (1) any bank (other than a savings bank) the deposits of which were insured by the Federal Deposit Insurance Corporation and (2) any savings and loan, building and loan, or homestead association (including cooperative banks) the deposits or accounts of which were insured by the Federal Savings and Loan Insurance Corporation or any mutual savings bank as defined in section 3(f) of the Federal Deposit Insurance Act (12 U.S.C. 1813(j)) [section 1813(f) of this title] could not be eliminated or reduced unless (A) written notification was given by the Board of Governors of the Federal Reserve System to the Congress; and (B) the House of Representatives and the Senate approved, by concurrent resolution, the proposed elimination or reduction of the interest rate differential, was repealed by Pub. L. 97–320, title III, § 326(a), Oct. 15, 1982, 96 Stat. 1500. See section 326(b)–(d) of Pub. L. 97–320, set out as a note under section 1828 of this title. See, also, section 207(b)(1) of Pub. L. 96–221 providing for repeal of section 102 of Pub. L. 94–200 effective 6 years after Mar. 31, 1980.
 
 **Interest Rates: Controls**
 
-Pub. L. 89–597, § 1, Sept. 21, 1966, 80 Stat. 823, provided that: “The Secretary of the Treasury, the Board of Governors of the Federal Reserve System, the Board of Directors of the Federal Deposit Insurance Corporation, and the Federal Home Loan Bank Board, in implementation of their respective powers under existing law and this Act [enacting section 1425b of this title, amending this section, sections 355, 371b, and 1828 of this title, and section 771 of former Title 31, Money and Finance, repealing section 462a–1 of this title and enacting provisions set out as notes under this section], shall take action to bring about the reduction of interest rates to the maximum extent feasible in the light of prevailing money market and general economic conditions.”
+Pub. L. 89–597, § 1, Sept. 21, 1966, 80 Stat. 823, provided that: “The Secretary of the Treasury, the Board of Governors of the Federal Reserve System, the Board of Directors of the Federal Deposit Insurance Corporation, and the Federal Home Loan Bank Board, in implementation of their respective powers under existing law and this Act [enacting section 1425b of this title, amending this section, sections 355, 371b, and 1828 of this title, and section 771 of former Title 31, Money and Finance, repealing section 462a–1 of this title and enacting provisions set out as notes under this section], shall take action to bring about the reduction of interest rates to the maximum extent feasible in the light of prevailing money market and general economic conditions.”
 
 Effective and termination dates of control of interest rates provisions, see Effective and Termination Dates of 1966 Amendment note above.
 
 **Outstanding Rate Regulations**
 
-Pub. L. 89–597, § 5, Sept. 21, 1966, 80 Stat. 825, provided that: “Any regulation prescribed by the Board of Governors of the Federal Reserve System or the Board of Directors of the Federal Deposit Insurance Corporation with respect to the payment of deposits and interest thereon by member banks or insured nonmember banks which is in effect when this Act is enacted [Sept. 21, 1966] shall continue in effect unless and until it is modified or rescinded after consultation with the Board of Directors or the Board of Governors, as the case may be, and the Federal Home Loan Bank Board.”
+Pub. L. 89–597, § 5, Sept. 21, 1966, 80 Stat. 825, provided that: “Any regulation prescribed by the Board of Governors of the Federal Reserve System or the Board of Directors of the Federal Deposit Insurance Corporation with respect to the payment of deposits and interest thereon by member banks or insured nonmember banks which is in effect when this Act is enacted [Sept. 21, 1966] shall continue in effect unless and until it is modified or rescinded after consultation with the Board of Directors or the Board of Governors, as the case may be, and the Federal Home Loan Bank Board.”
 
 Effective and termination dates of existing rate regulations, see Effective and Termination Dates of 1966 Amendment note under this section.
 
-### § 462. Omitted
+### § 462. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts Dec. 23, 1913, ch. 6, § 19 (par.), 38 Stat. 270; Aug. 15, 1914, ch. 252, 38 Stat. 691; June 21, 1917, ch. 32, § 10, 40 Stat. 239; Sept. 26, 1918, ch. 177, § 4, 40 Stat. 970; July 28, 1959, Pub. L. 86–114, §§ 1, 2(a), 3(b)(7)–(9), 73 Stat. 863, which related to balances member banks were required to keep in reserve banks, was omitted from the Code in view of the striking out of second through fifth pars. of section 19 of act Dec. 23, 1913 (formerly comprising this section), and incorporation of provisions of such paragraphs in subsecs. (a) to (c) of section 19 of act Dec. 23, 1913 by section 2(a) of Pub. L. 89–597, Sept. 21, 1966, 80 Stat. 823. See section 461 of this title.
+Section, acts Dec. 23, 1913, ch. 6, § 19 (par.), 38 Stat. 270; Aug. 15, 1914, ch. 252, 38 Stat. 691; June 21, 1917, ch. 32, § 10, 40 Stat. 239; Sept. 26, 1918, ch. 177, § 4, 40 Stat. 970; July 28, 1959, Pub. L. 86–114, §§ 1, 2(a), 3(b)(7)–(9), 73 Stat. 863, which related to balances member banks were required to keep in reserve banks, was omitted from the Code in view of the striking out of second through fifth pars. of section 19 of act Dec. 23, 1913 (formerly comprising this section), and incorporation of provisions of such paragraphs in subsecs. (a) to (c) of section 19 of act Dec. 23, 1913 by section 2(a) of Pub. L. 89–597, Sept. 21, 1966, 80 Stat. 823. See section 461 of this title.
 
-### § 462a. Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068
+### § 462a. Repealed. Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068
 
-Section, act Apr. 24, 1917, ch. 4, § 7, 40 Stat. 37, related to reserves against United States deposits.
+Section, act Apr. 24, 1917, ch. 4, § 7, 40 Stat. 37, related to reserves against United States deposits.
 
-### § 462a–1. Repealed. Pub. L. 89–597, § 2(d), Sept. 21, 1966, 80 Stat. 824
+### § 462a–1. Repealed. Pub. L. 89–597, § 2(d), Sept. 21, 1966, 80 Stat. 824
 
-Section, act Dec. 23, 1913, ch. 6, § 19 (par.), as added Aug. 23, 1935, ch. 614, title III, § 324(d), 49 Stat. 715; amended Apr. 13, 1943, ch. 62, § 2, 57 Stat. 65, prescribed maintenance of same bank reserves against deposits by United States as were required against other deposits.
+Section, act Dec. 23, 1913, ch. 6, § 19 (par.), as added Aug. 23, 1935, ch. 614, title III, § 324(d), 49 Stat. 715; amended Apr. 13, 1943, ch. 62, § 2, 57 Stat. 65, prescribed maintenance of same bank reserves against deposits by United States as were required against other deposits.
 
-### §§ 462b, 462c. Omitted
+### §§ 462b, 462c. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 462b, act Dec. 23, 1913, ch. 6, § 19 (par.), as added May 12, 1933, ch. 25, title III, § 46, 48 Stat. 54; amended Aug. 23, 1935, ch. 614, title II, § 207, 49 Stat. 706; July 7, 1942, ch. 488, § 2, 56 Stat. 648; July 28, 1959, Pub. L. 86–114, §§ 2(b), 3(b)(10), (11), 73 Stat. 263, 264, related to change of requirements as to reserves in order to prevent credit expansion or contraction, and was omitted from the Code in view of the striking out of the sixth par. of section 19 of act Dec. 23, 1913 (formerly comprising this section), and incorporation of its provisions in subsecs. (a) to (c) of section 19 of act Dec. 23, 1913 by section 2(a) of Pub. L. 89–597, Sept. 21, 1966, 80 Stat. 823. See section 461 of this title.
+Section 462b, act Dec. 23, 1913, ch. 6, § 19 (par.), as added May 12, 1933, ch. 25, title III, § 46, 48 Stat. 54; amended Aug. 23, 1935, ch. 614, title II, § 207, 49 Stat. 706; July 7, 1942, ch. 488, § 2, 56 Stat. 648; July 28, 1959, Pub. L. 86–114, §§ 2(b), 3(b)(10), (11), 73 Stat. 263, 264, related to change of requirements as to reserves in order to prevent credit expansion or contraction, and was omitted from the Code in view of the striking out of the sixth par. of section 19 of act Dec. 23, 1913 (formerly comprising this section), and incorporation of its provisions in subsecs. (a) to (c) of section 19 of act Dec. 23, 1913 by section 2(a) of Pub. L. 89–597, Sept. 21, 1966, 80 Stat. 823. See section 461 of this title.
 
-Section 462c, act Dec. 23, 1913, ch. 6, § 19 (par.), as added Aug. 16, 1948, ch. 836, § 2, 62 Stat. 1291, related to change of requirements as to reserves to check credit expansion, and terminated on June 30, 1949.
+Section 462c, act Dec. 23, 1913, ch. 6, § 19 (par.), as added Aug. 16, 1948, ch. 836, § 2, 62 Stat. 1291, related to change of requirements as to reserves to check credit expansion, and terminated on June 30, 1949.
 
-### § 463. Limitation on amount of balance with any depository institution without access to Federal Reserve advances
+### § 463. Limitation on amount of balance with any depository institution without access to Federal Reserve advances
 
-No member bank shall keep on deposit with any depository institution which is not authorized to have access to Federal Reserve advances under section 347b 1
+No member bank shall keep on deposit with any depository institution which is not authorized to have access to Federal Reserve advances under section 347b 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title a sum in excess of 10 per centum of its own paid-up capital and surplus.
 
-(Dec. 23, 1913, ch. 6, § 19(e), formerly § 19 (par. 8), 38 Stat. 270; Aug. 15, 1914, ch. 252, 38 Stat. 691; June 21, 1917, ch. 32, § 10, 40 Stat. 239; renumbered § 19(e), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824; Pub. L. 96–221, title I, § 105(e), Mar. 31, 1980, 94 Stat. 140.)
+(Dec. 23, 1913, ch. 6, § 19(e), formerly § 19 (par. 8), 38 Stat. 270; Aug. 15, 1914, ch. 252, 38 Stat. 691; June 21, 1917, ch. 32, § 10, 40 Stat. 239; renumbered § 19(e), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824; Pub. L. 96–221, title I, § 105(e), Mar. 31, 1980, 94 Stat. 140.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 347b of this title, referred to in text, was in the original a reference to section 10(b) of this Act, meaning section 10(b) of the Federal Reserve Act. Section 10(b) of that Act was renumbered section 10B by Pub. L. 102–242, title I, § 142(a)(2), Dec. 19, 1991, 105 Stat. 2279, without a corresponding amendment to this section.
+Section 347b of this title, referred to in text, was in the original a reference to section 10(b) of this Act, meaning section 10(b) of the Federal Reserve Act. Section 10(b) of that Act was renumbered section 10B by Pub. L. 102–242, title I, § 142(a)(2), Dec. 19, 1991, 105 Stat. 2279, without a corresponding amendment to this section.
 
 **Codification**
 
@@ -5421,7 +5421,7 @@ Section is comprised of part of subsec. (e), formerly eighth par., of section 19
 
 **Amendments**
 
-1980—Pub. L. 96–221 substituted provisions limiting amount of balance required to be kept with any depository institution without access to Federal Reserve advances, for provisions limiting amount of balance required  to  be  kept  with  any  State  bank  or  trust company.
+1980—Pub. L. 96–221 substituted provisions limiting amount of balance required to be kept with any depository institution without access to Federal Reserve advances, for provisions limiting amount of balance required to be kept with any State bank or trust company.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5429,11 +5429,11 @@ Section is comprised of part of subsec. (e), formerly eighth par., of section 19
 
 Amendment by Pub. L. 96–221 effective on first day of sixth month which begins after Mar. 31, 1980, see section 108 of Pub. L. 96–221, set out as a note under section 248 of this title.
 
-### § 464. Checking against and withdrawal of reserve balance
+### § 464. Checking against and withdrawal of reserve balance
 
 The required balance carried by a member bank with a Federal reserve bank may, under the regulations and subject to such penalties as may be prescribed by the Board of Governors of the Federal Reserve System, be checked against and withdrawn by such member bank for the purpose of meeting existing liabilities.
 
-(Dec. 23, 1913, ch. 6, § 19(f), formerly § 19 (par. 9), 38 Stat. 270; Aug. 15, 1914, ch. 252, 38 Stat. 691; June 21, 1917, ch. 32, § 10, 40 Stat. 239; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; July 7, 1942, ch. 488, § 3, 56 Stat. 648; renumbered § 19(f), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824.)
+(Dec. 23, 1913, ch. 6, § 19(f), formerly § 19 (par. 9), 38 Stat. 270; Aug. 15, 1914, ch. 252, 38 Stat. 691; June 21, 1917, ch. 32, § 10, 40 Stat. 239; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; July 7, 1942, ch. 488, § 3, 56 Stat. 648; renumbered § 19(f), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824.)
 
 **Editorial Notes**
 
@@ -5451,11 +5451,11 @@ Section is comprised of subsec. (f), formerly ninth par., of section 19 of act D
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 465. Basis for ascertaining deposits against which required balance is determined
+### § 465. Basis for ascertaining deposits against which required balance is determined
 
 In estimating the reserve balances required by this chapter, member banks may deduct from the amount of their gross demand deposits the amounts of balances due from other banks (except Federal Reserve banks and foreign banks) and cash items in process of collection payable immediately upon presentation in the United States, within the meaning of these terms as defined by the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, § 19(g), formerly § 19 (par. 10), 38 Stat. 270; Aug. 15, 1914, ch. 252, 38 Stat. 692; June 21, 1917, ch. 32, § 10, 40 Stat. 240; Aug. 23, 1935, ch. 614, title III, § 324(b), 49 Stat. 714; renumbered § 19(g), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824.)
+(Dec. 23, 1913, ch. 6, § 19(g), formerly § 19 (par. 10), 38 Stat. 270; Aug. 15, 1914, ch. 252, 38 Stat. 692; June 21, 1917, ch. 32, § 10, 40 Stat. 240; Aug. 23, 1935, ch. 614, title III, § 324(b), 49 Stat. 714; renumbered § 19(g), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824.)
 
 **Editorial Notes**
 
@@ -5471,11 +5471,11 @@ Section is comprised of subsec. (g), formerly tenth par., of section 19 of act D
 
 1935—Act Aug. 23, 1935, changed method of estimating reserve balances.
 
-### § 466. Reserves of banks in dependencies or insular possessions
+### § 466. Reserves of banks in dependencies or insular possessions
 
 National banks, or banks organized under local laws, located in a dependency or insular possession or any part of the United States outside the continental United States, may remain nonmember banks, and shall in that event maintain reserves and comply with all the conditions now provided by law regulating them; or said banks may with the consent of the Board of Governors of the Federal Reserve System, become member banks of any one of the reserve districts, and shall in that event take stock, maintain reserves, and be subject to all the other provisions of this chapter.
 
-(Dec. 23, 1913, ch. 6, § 19(h), formerly § 19 (par. 11), 38 Stat. 270; Aug. 15, 1914, ch. 252, 38 Stat. 692; June 21, 1917, ch. 32, § 10, 40 Stat. 240; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 86–70, § 8(b), June 25, 1959, 73 Stat. 142; renumbered § 19(h), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824.)
+(Dec. 23, 1913, ch. 6, § 19(h), formerly § 19 (par. 11), 38 Stat. 270; Aug. 15, 1914, ch. 252, 38 Stat. 692; June 21, 1917, ch. 32, § 10, 40 Stat. 240; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 86–70, § 8(b), June 25, 1959, 73 Stat. 142; renumbered § 19(h), Pub. L. 89–597, § 2(b), Sept. 21, 1966, 80 Stat. 824.)
 
 **Editorial Notes**
 
@@ -5497,19 +5497,19 @@ Section is comprised of subsec. (h), formerly eleventh par., of section 19 of ac
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 467. Deposits of gold coin, gold certificates, and Special Drawing Right certificates with United States Treasurer
+### § 467. Deposits of gold coin, gold certificates, and Special Drawing Right certificates with United States Treasurer
 
 The Secretary of the Treasury is authorized and directed to receive deposits of gold or of gold certificates or of Special Drawing Right certificates with the Treasurer or any designated depositary of the United States when tendered by any Federal Reserve bank or Federal Reserve agent for credit to its or his account with the Board of Governors of the Federal Reserve System. The Secretary shall prescribe by regulation the form of receipt to be issued by the Treasurer or designated depositary to the Federal Reserve bank or Federal Reserve agent making the deposit, and a duplicate of such receipt shall be delivered to the Board of Governors of the Federal Reserve System by the Treasurer at Washington upon proper advices from any designated depositary that such deposit has been made. Deposits so made shall be held subject to the orders of the Board of Governors of the Federal Reserve System and deposits of gold or gold certificates shall be payable in gold certificates, and deposits of Special Drawing Right certificates shall be payable in Special Drawing Right certificates, on the order of the Board of Governors of the Federal Reserve System to any Federal Reserve bank or Federal Reserve agent at the Treasury or at the subtreasury of the United States nearest the place of business of such Federal Reserve bank or such Federal Reserve agent. The order used by the Board of Governors of the Federal Reserve System in making such payments shall be signed by the chairman or vice chairman, or such other officers or members as the Board may by regulation prescribe. The form of such order shall be approved by the Secretary of the Treasury.
 
 The expenses necessarily incurred in carrying out these provisions, including the cost of the certificates or receipts issued for deposits received, and all expenses incident to the handling of such deposits shall be paid by the Board of Governors of the Federal Reserve System and included in its assessments against the several Federal Reserve banks.
 
-Nothing in this section 1
+Nothing in this section 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-shall be construed as amending section six of the Act of March fourteenth, nineteen hundred, as amended by the Acts of March fourth, nineteen hundred and seven, March second, nineteen hundred and eleven, and June twelfth, nineteen hundred and sixteen, nor shall the provisions of this section 1 be construed to apply to the deposits made or to the receipts or certificates issued under those Acts.
+shall be construed as amending section six of the Act of March fourteenth, nineteen hundred, as amended by the Acts of March fourth, nineteen hundred and seven, March second, nineteen hundred and eleven, and June twelfth, nineteen hundred and sixteen, nor shall the provisions of this section 1 be construed to apply to the deposits made or to the receipts or certificates issued under those Acts.
 
-(Dec. 23, 1913, ch. 6, § 16 (pars.), as added June 21, 1917, ch. 32, § 8, 40 Stat. 238; amended May 29, 1920, ch. 214, § 1, 41 Stat. 654; Jan. 30, 1934, ch. 6, § 2(b)(7), (8), 48 Stat. 339, 340; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 89–3, § 2, Mar. 3, 1965, 79 Stat. 5; Pub. L. 90–269, § 7, Mar. 18, 1968, 82 Stat. 50; Pub. L. 90–349, § 5(d), June 19, 1968, 82 Stat. 189.)
+(Dec. 23, 1913, ch. 6, § 16 (pars.), as added June 21, 1917, ch. 32, § 8, 40 Stat. 238; amended May 29, 1920, ch. 214, § 1, 41 Stat. 654; Jan. 30, 1934, ch. 6, § 2(b)(7), (8), 48 Stat. 339, 340; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 89–3, § 2, Mar. 3, 1965, 79 Stat. 5; Pub. L. 90–269, § 7, Mar. 18, 1968, 82 Stat. 50; Pub. L. 90–349, § 5(d), June 19, 1968, 82 Stat. 189.)
 
 **Editorial Notes**
 
@@ -5517,7 +5517,7 @@ shall be construed as amending section six of the Act of March fourteenth, ninet
 
 Words “this section”, referred to in last par., mean section 16 of act Dec. 23, 1913. For classification to this title of section 16, see Codification note set out under section 411 of this title.
 
-Section six of the Act of March fourteenth, nineteen hundred, as amended by the Acts of March fourth, nineteen hundred and seven, March second, nineteen hundred and eleven, and June twelfth, nineteen hundred and sixteen, referred to in text, which was classified to section 429 of former Title 31, was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
+Section six of the Act of March fourteenth, nineteen hundred, as amended by the Acts of March fourth, nineteen hundred and seven, March second, nineteen hundred and eleven, and June twelfth, nineteen hundred and sixteen, referred to in text, which was classified to section 429 of former Title 31, was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
 **Codification**
 
@@ -5531,7 +5531,7 @@ On authority of act May 29, 1920, which abolished offices of Assistant Treasurer
 
 Pub. L. 90–269, which directed striking out of “[t]he paragraph which, prior to the amendments made by this Act [amending sections 248, 391, and 413 to 416 of this title and sections 405b, 408a, 408b, and 821 of Title 31, Money and Finance, and repealing section 408 of Title 31], was the eighteenth paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 467)”, was executed, to reflect the probable intent of Congress (see H.R. Rept. No. 1095, 90th Cong., pp. 1–7 (purpose of legislation), 10 (Ramseyer version) (1968)), by striking out the third par. of this section (seventeenth par. of section 16 of act Dec. 23, 1913), which read as follows: “Deposits made under this section standing to the credit of any Federal Reserve bank with the Board of Governors of the Federal Reserve System shall, at the option of said bank, be counted as part of the lawful reserve which it is required to maintain against outstanding Federal Reserve notes.”
 
-1965—Pub. L. 89–3, which directed amendment of “[t]he eighteenth paragraph of section 16 of the Federal Reserve Act, as amended (12 U.S.C. 467), \* \* \* by substituting a period for the comma after the word ‘notes’ and striking out the remainder of the paragraph”, was executed to the third par. of this section (seventeenth par. of section 16 of act Dec. 23, 1913) to reflect the probable intent of Congress.
+1965—Pub. L. 89–3, which directed amendment of “[t]he eighteenth paragraph of section 16 of the Federal Reserve Act, as amended (12 U.S.C. 467), \* \* \* by substituting a period for the comma after the word ‘notes’ and striking out the remainder of the paragraph”, was executed to the third par. of this section (seventeenth par. of section 16 of act Dec. 23, 1913) to reflect the probable intent of Congress.
 
 1934—Act Jan. 30, 1934, which directed general amendment of the sixteenth and eighteenth pars. of act Dec. 23, 1913, was executed to the first and third pars. of this section (fifteenth and seventeenth pars. of section 16 of act Dec. 23, 1913, respectively) to reflect the probable intent of Congress. Prior to amendment, the first par. of this section authorized and directed the Secretary of the Treasury to receive deposits of gold coin or gold certificates and to prescribe by regulation the form of a receipt to be issued to the Federal reserve bank or agent; the third par. of this section provided that a Federal reserve bank’s gold deposits could count towards its reserve requirement.
 
@@ -5549,17 +5549,17 @@ For transfer of functions to Secretary of the Treasury, see note set out under s
 
 ## SUBCHAPTER XV—BANK EXAMINATIONS
 
-### § 481. Appointment of examiners; examination of member banks, State banks, and trust companies; reports
+### § 481. Appointment of examiners; examination of member banks, State banks, and trust companies; reports
 
 The Comptroller of the Currency, with the approval of the Secretary of the Treasury, shall appoint examiners who shall examine every national bank as often as the Comptroller of the Currency shall deem necessary. The examiner making the examination of any national bank shall have power to make a thorough examination of all the affairs of the bank and in doing so he shall have power to administer oaths and to examine any of the officers and agents thereof under oath and shall make a full and detailed report of the condition of said bank to the Comptroller of the Currency: *Provided*, That in making the examination of any national bank the examiners shall include such an examination of the affairs of all its affiliates other than member banks as shall be necessary to disclose fully the relations between such bank and such affiliates and the effect of such relations upon the affairs of such bank; and in the event of the refusal to give any information required in the course of the examination of any such affiliate, or in the event of the refusal to permit such examination, all the rights, privileges, and franchises of the bank shall be subject to forfeiture in accordance with section 2 of the Federal Reserve Act, as amended (U.S.C., title 12, secs. 141, 222–225, 281–286, and 502).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 The Comptroller of the Currency shall have power, and he is authorized, to publish the report of his examination of any national banking association or affiliate which shall not within one hundred and twenty days after notification of the recommendations or suggestions of the Comptroller, based on said examination, have complied with the same to his satisfaction. Ninety days’ notice prior to such publicity shall be given to the bank or affiliate.
 
 The examiner making the examination of any affiliate of a national bank shall have power to make a thorough examination of all the affairs of the affiliate, and in doing so he shall have power to administer oaths and to examine any of the officers, directors, employees, and agents thereof under oath and to make a report of his findings to the Comptroller of the Currency. If any affiliate of a national bank refuses to pay any assessments, fees, or other charges imposed by the Comptroller of the Currency pursuant to this subchapter or fails to make such payment not later than 60 days after the date on which they are imposed, the Comptroller of the Currency may impose such assessments, fees, or charges against the affiliated national bank, and such assessments, fees, or charges shall be paid by such national bank. If the affiliation is with 2 or more national banks, such assessments, fees, or charges may be imposed on, and collected from, any or all of such national banks in such proportions as the Comptroller of the Currency may prescribe. The examiners and assistant examiners making the examinations of national banking associations and affiliates thereof herein provided for and the chief examiners, reviewing examiners and other persons whose services may be required in connection with such examinations or the reports thereof, shall be employed by the Comptroller of the Currency with the approval of the Secretary of the Treasury; the employment and compensation of examiners, chief examiners, reviewing examiners, assistant examiners, and of the other employees of the office of the Comptroller of the Currency whose compensation is and shall be paid from assessments on banks or affiliates thereof or from other fees or charges imposed pursuant to this subchapter shall be set and adjusted subject to chapter 71 of title 5 and without regard to the provisions of other laws applicable to officers or employees of the United States. The funds derived from such assessments, fees, or charges may be deposited by the Comptroller of the Currency in accordance with the provisions of section 192 of this title and shall not be construed to be Government funds or appropriated monies; and the Comptroller of the Currency is authorized and empowered to prescribe regulations governing the computation and assessment of the expenses of examinations herein provided for and the collection of such assessments from the banks and/or affiliates examined or of other fees or charges imposed pursuant to this subchapter. Such funds shall not be subject to apportionment for the purpose of chapter 15 of title 31 or under any other authority. If any affiliate of a national bank shall refuse to permit an examiner to make an examination of the affiliate or shall refuse to give any information required in the course of any such examination, the national bank with which it is affiliated shall be subject to a penalty of not more than $5,000 for each day that any such refusal shall continue. Such penalty may be assessed by the Comptroller of the Currency and collected in the same manner as expenses of examinations. The Comptroller of the Currency, upon the request of the Board of Governors of the Federal Reserve System, is authorized to assign examiners appointed under this subchapter to examine foreign operations of State banks which are members of the Federal Reserve System.
 
-(R.S. § 5240 (pars.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, § 21, 38 Stat. 271; June 16, 1933, ch. 89, § 28, 48 Stat. 192; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 343, 49 Stat. 704, 722; June 30, 1948, ch. 762, § 1, 62 Stat. 1163; Apr. 30, 1956, ch. 228, § 1, 70 Stat. 124; Pub. L. 96–221, title VII, § 709, Mar. 31, 1980, 94 Stat. 188; Pub. L. 100–86, title V, § 505(b), Aug. 10, 1987, 101 Stat. 633; Pub. L. 101–73, title IX, § 907(f), Aug. 9, 1989, 103 Stat. 470; Pub. L. 102–242, title I, § 114(b), Dec. 19, 1991, 105 Stat. 2248; Pub. L. 111–203, title III, § 318(a)(1), July 21, 2010, 124 Stat. 1526.)
+(R.S. § 5240 (pars.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, § 21, 38 Stat. 271; June 16, 1933, ch. 89, § 28, 48 Stat. 192; Aug. 23, 1935, ch. 614, title II, § 203(a), title III, § 343, 49 Stat. 704, 722; June 30, 1948, ch. 762, § 1, 62 Stat. 1163; Apr. 30, 1956, ch. 228, § 1, 70 Stat. 124; Pub. L. 96–221, title VII, § 709, Mar. 31, 1980, 94 Stat. 188; Pub. L. 100–86, title V, § 505(b), Aug. 10, 1987, 101 Stat. 633; Pub. L. 101–73, title IX, § 907(f), Aug. 9, 1989, 103 Stat. 470; Pub. L. 102–242, title I, § 114(b), Dec. 19, 1991, 105 Stat. 2248; Pub. L. 111–203, title III, § 318(a)(1), July 21, 2010, 124 Stat. 1526.)
 
 **Editorial Notes**
 
@@ -5571,15 +5571,15 @@ This subchapter, referred to in second par., was in the original a reference to 
 
 **Codification**
 
-R.S. § 5240 derived from act June 3, 1864, ch. 106, § 54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
+R.S. § 5240 derived from act June 3, 1864, ch. 106, § 54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
 
-R.S. § 5240, as amended by acts Dec. 23, 1913, July 2, 1932, June 16, 1933, Pub. L. 101–73, and Pub. L. 102–242, is comprised of 7 undesignated paragraphs. Pars. 1 and 2 are classified to section 481 of this title, pars. 3 and 4 are classified to section 482 of this title, and pars. 5 to 7 are classified to sections 483 to 485, respectively, of this title.
+R.S. § 5240, as amended by acts Dec. 23, 1913, July 2, 1932, June 16, 1933, Pub. L. 101–73, and Pub. L. 102–242, is comprised of 7 undesignated paragraphs. Pars. 1 and 2 are classified to section 481 of this title, pars. 3 and 4 are classified to section 482 of this title, and pars. 5 to 7 are classified to sections 483 to 485, respectively, of this title.
 
 **Amendments**
 
 2010—Pub. L. 111–203, in fourth sentence of second par., substituted “set and adjusted subject to chapter 71 of title 5 and without regard to the provisions of other laws applicable to officers or employees of the United States” for “without regard to the provisions of other laws applicable to officers or employees of the United States”.
 
-1991—Pub. L. 102–242, in second par., inserted second and third sentences and struck out former second and third sentences which read as follows: “The expense of examinations of such affiliates may be assessed by the Comptroller of the Currency upon the affiliates examined in proportion to assets or resources held by the affiliates upon the dates of examination of the various affiliates. If any such affiliate shall refuse to pay such expenses or shall fail to do so within sixty days after the date of such assessment, then such expenses may be assessed against the affiliated national bank and, when so assessed, shall be paid by such national bank: *Provided, however*, That, if the affiliation is with two or more national banks, such expenses may be assessed against, and collected from, any or all of such national banks in such proportions as the Comptroller of the Currency may prescribe.”, in fourth sentence, inserted “or from other fees or charges imposed pursuant to this subchapter” after “assessments on banks or affiliates thereof”, and in fifth sentence, inserted “, fees, or charges” before “may be deposited” and “or of other fees or charges imposed pursuant to this subchapter” before period.
+1991—Pub. L. 102–242, in second par., inserted second and third sentences and struck out former second and third sentences which read as follows: “The expense of examinations of such affiliates may be assessed by the Comptroller of the Currency upon the affiliates examined in proportion to assets or resources held by the affiliates upon the dates of examination of the various affiliates. If any such affiliate shall refuse to pay such expenses or shall fail to do so within sixty days after the date of such assessment, then such expenses may be assessed against the affiliated national bank and, when so assessed, shall be paid by such national bank: *Provided, however*, That, if the affiliation is with two or more national banks, such expenses may be assessed against, and collected from, any or all of such national banks in such proportions as the Comptroller of the Currency may prescribe.”, in fourth sentence, inserted “or from other fees or charges imposed pursuant to this subchapter” after “assessments on banks or affiliates thereof”, and in fifth sentence, inserted “, fees, or charges” before “may be deposited” and “or of other fees or charges imposed pursuant to this subchapter” before period.
 
 1989—Pub. L. 101–73, in second par., increased the penalty for refusal to allow the examination from $100 to $5,000.
 
@@ -5589,9 +5589,9 @@ R.S. § 5240, as amended by acts Dec. 23, 1913, July 2, 1932, June 16, 1933, P
 
 1956—Act Apr. 30, 1956, allowed Comptroller to waive 1 of the 2 examinations required each year, but not more than one waiver every two years.
 
-1948—Act June 30, 1948, struck out in first sentence after first proviso of second par. “, including retirement annuities to be fixed by the Comptroller of the Currency,”.
+1948—Act June 30, 1948, struck out in first sentence after first proviso of second par. “, including retirement annuities to be fixed by the Comptroller of the Currency,”.
 
-1935—Act Aug. 23, 1935, § 343, substituted in first sentence after first proviso of second par. “including retirement annuities to be fixed by the Comptroller of the Currency, is and shall be” for “is”.
+1935—Act Aug. 23, 1935, § 343, substituted in first sentence after first proviso of second par. “including retirement annuities to be fixed by the Comptroller of the Currency, is and shall be” for “is”.
 
 1933—Act June 16, 1933, inserted proviso and last two sentences at end of first par. and added second par.
 
@@ -5619,29 +5619,29 @@ Amendment by act June 30, 1948, effective on first day of first pay period begin
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 482. Employees of Office of Comptroller of the Currency; appointment; compensation and benefits
+### § 482. Employees of Office of Comptroller of the Currency; appointment; compensation and benefits
 
 Notwithstanding any of the provisions of section 481 of this title or section 301(f)(1) of title 31 to the contrary, the Comptroller of the Currency shall, subject to chapter 71 of title 5, fix the compensation and number of, and appoint and direct, all employees of the Office of the Comptroller of the Currency. Rates of basic pay for all employees of the Office may be set and adjusted by the Comptroller without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5. The Comptroller may provide additional compensation and benefits to employees of the Office if the same type of compensation or benefits are then being provided by any other Federal bank regulatory agency or, if not then being provided, could be provided by such an agency under applicable provisions of law, rule, or regulation. In setting and adjusting the total amount of compensation and benefits for employees of the Office, the Comptroller shall consult with, and seek to maintain comparability with, other Federal banking agencies.
 
-The Comptroller of the Currency may impose and collect assessments, fees, or other charges as necessary or appropriate to carry out the responsibilities of the office 1
+The Comptroller of the Currency may impose and collect assessments, fees, or other charges as necessary or appropriate to carry out the responsibilities of the office 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 of the Comptroller. Such assessments, fees, and other charges shall be set to meet the Comptroller’s expenses in carrying out authorized activities.
 
-(R.S. § 5240 (pars.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, § 21, 38 Stat. 272; July 2, 1932, ch. 392, 47 Stat. 568; Aug. 23, 1935, ch. 614, title III, § 343, 49 Stat. 722; Apr. 30, 1956, ch. 228, §§ 2, 3, 70 Stat. 124; Pub. L. 101–73, title XII, § 1202, Aug. 9, 1989, 103 Stat. 520; Pub. L. 102–242, title I, § 114(a), Dec. 19, 1991, 105 Stat. 2248; Pub. L. 102–550, title XVI, § 1603(b)(5), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title III, § 331(b)(1), Sept. 23, 1994, 108 Stat. 2232; Pub. L. 111–203, title III, § 318(a)(2), July 21, 2010, 124 Stat. 1526.)
+(R.S. § 5240 (pars.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, § 21, 38 Stat. 272; July 2, 1932, ch. 392, 47 Stat. 568; Aug. 23, 1935, ch. 614, title III, § 343, 49 Stat. 722; Apr. 30, 1956, ch. 228, §§ 2, 3, 70 Stat. 124; Pub. L. 101–73, title XII, § 1202, Aug. 9, 1989, 103 Stat. 520; Pub. L. 102–242, title I, § 114(a), Dec. 19, 1991, 105 Stat. 2248; Pub. L. 102–550, title XVI, § 1603(b)(5), Oct. 28, 1992, 106 Stat. 4079; Pub. L. 103–325, title III, § 331(b)(1), Sept. 23, 1994, 108 Stat. 2232; Pub. L. 111–203, title III, § 318(a)(2), July 21, 2010, 124 Stat. 1526.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Provisions of section 481 of this title, referred to in first par., was in the original “preceding provisions of this section”, meaning R.S. § 5240. See Codification note set out below.
+Provisions of section 481 of this title, referred to in first par., was in the original “preceding provisions of this section”, meaning R.S. § 5240. See Codification note set out below.
 
 **Codification**
 
-R.S. § 5240 derived from act June 3, 1864, ch. 106, § 54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
+R.S. § 5240 derived from act June 3, 1864, ch. 106, § 54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
 
-Section is comprised of third and fourth pars. of R.S. § 5240, as amended. The former fifth par. of R.S. § 5440, which comprised the third par. of this section, was repealed by Pub. L. 102–242. See Codification note set out under section 481 of this title.
+Section is comprised of third and fourth pars. of R.S. § 5240, as amended. The former fifth par. of R.S. § 5440, which comprised the third par. of this section, was repealed by Pub. L. 102–242. See Codification note set out under section 481 of this title.
 
 **Amendments**
 
@@ -5681,19 +5681,19 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 483. Special examination of member banks; information of condition furnished to Board of Governors of the Federal Reserve System
+### § 483. Special examination of member banks; information of condition furnished to Board of Governors of the Federal Reserve System
 
 In addition to the examinations made and conducted by the Comptroller of the Currency, every Federal reserve bank may, with the approval of the Federal reserve agent or the Board of Governors of the Federal Reserve System, provide for special examination of member banks within its district. The expense of such examinations may, in the discretion of the Board of Governors of the Federal Reserve System, be assessed against the banks examined, and, when so assessed, shall be paid by the banks examined. Such examinations shall be so conducted as to inform the Federal reserve bank of the condition of its member banks and of the lines of credit which are being extended by them. Every Federal reserve bank shall at all times furnish to the Board of Governors of the Federal Reserve System such information as may be demanded concerning the condition of any member bank within the district of the said Federal reserve bank.
 
-(R.S. § 5240 (par.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, § 21, 38 Stat. 272; June 26, 1930, ch. 611, § 2, 46 Stat. 814; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(R.S. § 5240 (par.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, § 21, 38 Stat. 272; June 26, 1930, ch. 611, § 2, 46 Stat. 814; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5240 derived from act June 3, 1864, ch. 106, § 54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
+R.S. § 5240 derived from act June 3, 1864, ch. 106, § 54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
 
-Section is comprised of fifth par. of R.S. § 5240, as amended. See Codification note set out under section 481 of this title.
+Section is comprised of fifth par. of R.S. § 5240, as amended. See Codification note set out under section 481 of this title.
 
 **Amendments**
 
@@ -5711,21 +5711,21 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 484. Limitation on visitorial powers
+### § 484. Limitation on visitorial powers
 
 **(a)** No national bank shall be subject to any visitorial powers except as authorized by Federal law, vested in the courts of justice or such as shall be, or have been exercised or directed by Congress or by either House thereof or by any committee of Congress or of either House duly authorized.
 
 **(b)** Notwithstanding subsection (a), lawfully authorized State auditors and examiners may, at reasonable times and upon reasonable notice to a bank, review its records solely to ensure compliance with applicable State unclaimed property or escheat laws upon reasonable cause to believe that the bank has failed to comply with such laws.
 
-(R.S. § 5240 (par.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, § 21, 38 Stat. 272; Pub. L. 97–320, title IV, § 412, Oct. 15, 1982, 96 Stat. 1521; Pub. L. 97–457, § 23(a), Jan. 12, 1983, 96 Stat. 2510.)
+(R.S. § 5240 (par.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, § 21, 38 Stat. 272; Pub. L. 97–320, title IV, § 412, Oct. 15, 1982, 96 Stat. 1521; Pub. L. 97–457, § 23(a), Jan. 12, 1983, 96 Stat. 2510.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5240 derived from act June 3, 1864, ch. 106, § 54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
+R.S. § 5240 derived from act June 3, 1864, ch. 106, § 54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
 
-Section is comprised of sixth par. of R.S. § 5240, as amended. See Codification note set out under section 481 of this title.
+Section is comprised of sixth par. of R.S. § 5240, as amended. See Codification note set out under section 481 of this title.
 
 Section 412 of Pub. L. 97–320, set out in the credit of this section, was amended by section 23(a) of Pub. L. 97–457 to correct an error in the directory language of section 412 of Pub. L. 97–320. That amendment involved only directory language and not the content of the text being amended by Pub. L. 97–320 so no change in the text of this section resulted from the amendment by Pub. L. 97–457.
 
@@ -5739,21 +5739,21 @@ Subsec. (b). Pub. L. 97–320, as amended by Pub. L. 97–457, added subsec. (b)
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–457, § 23(b), Jan. 12, 1983, 96 Stat. 2510, provided that: “The amendment made by subsection (a) [amending section 412 of Pub. L. 97–320, which amended this section] shall be deemed to have taken effect upon the enactment of Public Law 97–320 [Oct. 15, 1982].”
+Pub. L. 97–457, § 23(b), Jan. 12, 1983, 96 Stat. 2510, provided that: “The amendment made by subsection (a) [amending section 412 of Pub. L. 97–320, which amended this section] shall be deemed to have taken effect upon the enactment of Public Law 97–320 [Oct. 15, 1982].”
 
-### § 485. Examination of Federal reserve banks
+### § 485. Examination of Federal reserve banks
 
 The Board of Governors of the Federal Reserve System shall, at least once each year, order an examination of each Federal reserve bank, and upon joint application of ten member banks the Board of Governors of the Federal Reserve System shall order a special examination and report of the condition of any Federal reserve bank.
 
-(R.S. § 5240 (par.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, § 21, 38 Stat. 272; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(R.S. § 5240 (par.); Feb. 19, 1875, ch. 89, 18 Stat. 329; Dec. 23, 1913, ch. 6, § 21, 38 Stat. 272; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
 **Codification**
 
-R.S. § 5240 derived from act June 3, 1864, ch. 106, § 54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
+R.S. § 5240 derived from act June 3, 1864, ch. 106, § 54, 13 Stat. 116, which was part of the National Bank Act. See section 38 of this title.
 
-Section is comprised of seventh par. of R.S. § 5240, as amended. See Codification note set out under section 481 of this title.
+Section is comprised of seventh par. of R.S. § 5240, as amended. See Codification note set out under section 481 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5761,17 +5761,17 @@ Section is comprised of seventh par. of R.S. § 5240, as amended. See Codifica
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 486. Waiver of requirements as to reports from or examinations of affiliates
+### § 486. Waiver of requirements as to reports from or examinations of affiliates
 
 Whenever member banks are required to obtain reports from affiliates, or whenever affiliates of member banks are required to submit to examination, the Board of Governors of the Federal Reserve System or the Comptroller of the Currency, as the case may be, may waive such requirements with respect to any such report or examination of any affiliate if in the judgment of the said Board or Comptroller, respectively, such report or examination is not necessary to disclose fully the relations between such affiliate and such bank and the effect thereof upon the affairs of such bank.
 
-(Dec. 23, 1913, ch. 6, § 21 (par.), as added Aug. 23, 1935, ch. 614, title III, § 325, 49 Stat. 715.)
+(Dec. 23, 1913, ch. 6, § 21 (par.), as added Aug. 23, 1935, ch. 614, title III, § 325, 49 Stat. 715.)
 
 **Editorial Notes**
 
 **Codification**
 
-This section was not enacted as part of R.S. § 5240 which comprises this subchapter. Act Dec. 23, 1913, derived from R.S. § 5240.
+This section was not enacted as part of R.S. § 5240 which comprises this subchapter. Act Dec. 23, 1913, derived from R.S. § 5240.
 
 **Executive Documents**
 
@@ -5781,11 +5781,11 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 ## SUBCHAPTER XVI—CIVIL LIABILITY OF FEDERAL RESERVE AND MEMBER BANKS, SHAREHOLDERS, AND OFFICERS
 
-### § 501. Liability of Federal reserve or member bank for certifying check when amount of deposit was inadequate
+### § 501. Liability of Federal reserve or member bank for certifying check when amount of deposit was inadequate
 
 It shall be unlawful for any officer, director, agent, or employee of any Federal reserve bank, or any member bank as defined in this chapter, to certify any check drawn upon such Federal reserve bank or member bank unless the person, firm, or corporation drawing the check has on deposit with such Federal reserve bank or member bank, at the time such check is certified, an amount of money not less than the amount specified in such check. Any check so certified by a duly authorized officer, director, agent, or employee shall be a good and valid obligation against such Federal reserve bank or member bank; but the act of any officer, director, agent, or employee of any such Federal reserve bank or member bank in violation of this section shall, in the discretion of the Board of Governors of the Federal Reserve System, subject such Federal reserve bank to the penalties imposed by subsection (h) of section 248 of this title, and shall subject such member banks, if a national bank, to the liability and proceedings on the part of the Comptroller of the Currency provided for in section 192 of this title, and shall, in the discretion of the Board of Governors of the Federal Reserve System, subject any other member bank to the penalties imposed by subchapter VIII of chapter 3 of this title for the violation of any of the provisions of this chapter.
 
-(R.S. § 5208; Sept. 26, 1918, ch. 177, § 7, 40 Stat. 972; Feb. 25, 1927, ch. 191, § 12, 44 Stat. 1231; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(R.S. § 5208; Sept. 26, 1918, ch. 177, § 7, 40 Stat. 972; Feb. 25, 1927, ch. 191, § 12, 44 Stat. 1231; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -5793,13 +5793,13 @@ It shall be unlawful for any officer, director, agent, or employee of any Federa
 
 This chapter, referred to in text, was in the original “the act of December 23, 1913, known as the Federal Reserve Act,” and “said act,” respectively, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-Subchapter VIII of chapter 3 of this title, referred to in text, was in the original “section nine of said Federal reserve Act”. Section 9 is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of this title.
+Subchapter VIII of chapter 3 of this title, referred to in text, was in the original “section nine of said Federal reserve Act”. Section 9 is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of this title.
 
 **Codification**
 
-R.S. § 5208 derived from act Mar. 3, 1869, ch. 135, 15 Stat. 335.
+R.S. § 5208 derived from act Mar. 3, 1869, ch. 135, 15 Stat. 335.
 
-The last sentence of R.S. § 5208, as amended, which provided penalties for certification of certain checks, was repealed by section 21 of act June 25, 1948, ch. 645, 62 Stat. 862, 865, and the provisions thereof were reenacted as section 1004 of Title 18, Crimes and Criminal Procedure.
+The last sentence of R.S. § 5208, as amended, which provided penalties for certification of certain checks, was repealed by section 21 of act June 25, 1948, ch. 645, 62 Stat. 862, 865, and the provisions thereof were reenacted as section 1004 of Title 18, Crimes and Criminal Procedure.
 
 **Amendments**
 
@@ -5817,13 +5817,13 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 501a. Forfeiture of franchise of national banks for failure to comply with provisions of this chapter
+### § 501a. Forfeiture of franchise of national banks for failure to comply with provisions of this chapter
 
 Should any national banking association in the United States now organized fail within one year after December 23, 1913, to become a member bank or fail to comply with any of the provisions of this chapter applicable thereto, all of the rights, privileges, and franchises of such association granted to it under the national-bank Act [12 U.S.C. 21 et seq.], or under the provisions of this chapter, shall be thereby forfeited. Any noncompliance with or violation of this chapter shall, however, be determined and adjudged by any court of the United States of competent jurisdiction in a suit brought for that purpose in the district or territory in which such bank is located, under direction of the Board of Governors of the Federal Reserve System, by the Comptroller of the Currency in his own name before the association shall be declared dissolved. In cases of such noncompliance or violation, other than the failure to become a member bank under the provisions of this chapter, every director who participated in or assented to the same shall be held liable in his personal or individual capacity for all damages which said bank, its shareholders, or any other person shall have sustained in consequence of such violation.
 
 Such dissolution shall not take away or impair any remedy against such corporation, its stockholders, or officers, for any liability or penalty which shall have been previously incurred.
 
-(Dec. 23, 1913, ch. 6, § 2 (pars.), 38 Stat. 252; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
+(Dec. 23, 1913, ch. 6, § 2 (pars.), 38 Stat. 252; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704.)
 
 **Editorial Notes**
 
@@ -5831,7 +5831,7 @@ Such dissolution shall not take away or impair any remedy against such corporati
 
 This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
-The national-bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
+The national-bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
 **Codification**
 
@@ -5849,11 +5849,11 @@ Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Bo
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
-### § 502. Liability of shareholders of Federal reserve banks on contracts, etc.
+### § 502. Liability of shareholders of Federal reserve banks on contracts, etc.
 
 The shareholders of every Federal reserve bank shall be held individually responsible, equally and ratably, and not one for another, for all contracts, debts, and engagements of such bank to the extent of the amount of their subscriptions to such stock at the par value thereof in addition to the amount subscribed, whether such subscriptions have been paid up in whole or in part under the provisions of this chapter.
 
-(Dec. 23, 1913, ch. 6, § 2 (par.), 38 Stat. 252.)
+(Dec. 23, 1913, ch. 6, § 2 (par.), 38 Stat. 252.)
 
 **Editorial Notes**
 
@@ -5865,39 +5865,39 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 Section is comprised of the fourth par. of section 2 of act Dec. 23, 1913. For classification of other pars. of section 2 of this Act, see Codification note set out under section 222 of this title.
 
-### § 503. Liability of directors and officers of member banks
+### § 503. Liability of directors and officers of member banks
 
 If the directors or officers of any member bank shall knowingly violate or permit any of the agents, officers, or directors of any member bank to violate any of the provisions of sections 375, 375a, 375b, and 376 of this title or regulations of the board made under authority thereof, or any of the provisions of sections 217, 218, 219, 220,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 655, 1005, 1014, 1906, or 1909 of title 18, every director and officer participating in or assenting to such violation shall be held liable in his personal and individual capacity for all damages which the member bank, its shareholders, or any other persons shall have sustained in consequence of such violation.
 
-(Dec. 23, 1913, ch. 6, § 22(f), as added Sept. 26, 1918, ch. 177, § 5, 40 Stat. 971; amended Sept. 3, 1954, ch. 1263, § 28, 68 Stat. 1236.)
+(Dec. 23, 1913, ch. 6, § 22(f), as added Sept. 26, 1918, ch. 177, § 5, 40 Stat. 971; amended Sept. 3, 1954, ch. 1263, § 28, 68 Stat. 1236.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 217, 218, 219, and 220 of title 18, referred to in text, were renumbered sections 212, 213, 214, and 215 of title 18, respectively, by Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125. Sections 212 and 213 of title 18, as redesignated, were subsequently repealed by Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899.
+Sections 217, 218, 219, and 220 of title 18, referred to in text, were renumbered sections 212, 213, 214, and 215 of title 18, respectively, by Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125. Sections 212 and 213 of title 18, as redesignated, were subsequently repealed by Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899.
 
 **Codification**
 
-In text, “sections 375, 375a, 375b, and 376 of this title” was in the original “this section”, meaning section 22 of act Dec. 23, 1913, which was also classified to sections 593 to 599 of this title. Such sections were repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948, and the provisions thereof were reenacted as sections 217, 218, 219, 220, 655, 1005, 1014, 1906, and 1909 of Title 18, Crimes and Criminal Procedure. Reference to such repealed sections was omitted from the text in view of act Sept. 3, 1954, which amended the text by incorporating therein the reference to the sections of Title 18. The text of section 375 of this title was struck out by Pub. L. 111–203, title VI, § 615(b), July 21, 2010, 124 Stat. 1615.
+In text, “sections 375, 375a, 375b, and 376 of this title” was in the original “this section”, meaning section 22 of act Dec. 23, 1913, which was also classified to sections 593 to 599 of this title. Such sections were repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948, and the provisions thereof were reenacted as sections 217, 218, 219, 220, 655, 1005, 1014, 1906, and 1909 of Title 18, Crimes and Criminal Procedure. Reference to such repealed sections was omitted from the text in view of act Sept. 3, 1954, which amended the text by incorporating therein the reference to the sections of Title 18. The text of section 375 of this title was struck out by Pub. L. 111–203, title VI, § 615(b), July 21, 2010, 124 Stat. 1615.
 
 **Amendments**
 
 1954—Act Sept. 3, 1954, inserted “or any of the provisions of sections 217, 218, 219, 220, 655, 1005, 1014, 1906, or 1909 of title 18,”.
 
-### § 504. Civil money penalty
+### § 504. Civil money penalty
 
 **(a) First tier**
 
 Any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who, violates any provision of section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title, or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
-**(b) Second tier** Notwithstanding subsection (a), any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who 1
+**(b) Second tier** Notwithstanding subsection (a), any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who 1
 
-<sup>1</sup>  So in original. Probably should be followed by a dash.
+<sup>1</sup> So in original. Probably should be followed by a dash.
 
 **(1)**
 
@@ -5923,15 +5923,15 @@ shall forfeit and pay a civil penalty of not more than $25,000 for each day duri
 
 **(A)** commits any violation described in subsection (a);
 
-**(B)** engages in any unsafe or unsound practice in conducting the affairs of such credit union; 2
+**(B)** engages in any unsafe or unsound practice in conducting the affairs of such credit union; 2
 
-<sup>2</sup>  So in original. Probably should be “such member bank”.
+<sup>2</sup> So in original. Probably should be “such member bank”.
 
 or
 
 **(C)** breaches any fiduciary duty; and
 
-**(2)** knowingly or recklessly causes a substantial loss to such credit union <sup>2</sup> or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
+**(2)** knowingly or recklessly causes a substantial loss to such credit union <sup>2</sup> or a substantial pecuniary gain or other benefit to such party by reason of such violation, practice, or breach,
 
 shall forfeit and pay a civil penalty in an amount not to exceed the applicable maximum amount determined under subsection (d) for each day during which such violation, practice, or breach continues.
 
@@ -5945,9 +5945,9 @@ shall forfeit and pay a civil penalty in an amount not to exceed the applicable 
 
 **(B)** 1 percent of the total assets of such member bank.
 
-**(e) Assessment; etc.** Any penalty imposed under subsection (a), (b), or (c) shall be assessed and collected 3
+**(e) Assessment; etc.** Any penalty imposed under subsection (a), (b), or (c) shall be assessed and collected 3
 
-<sup>3</sup>  So in original. Probably should be followed by a dash rather than “by”.
+<sup>3</sup> So in original. Probably should be followed by a dash rather than “by”.
 
 by
 
@@ -5973,27 +5973,27 @@ For purposes of this section, the term “violate” includes any action (alone 
 
 The Comptroller of the Currency and the Board shall prescribe regulations establishing such procedures as may be necessary to carry out this section.
 
-**(m) 4 [footnote: 4 So in original. No subsecs. (j) to (*l*) have been enacted.] Notice under this section after separation from service**
+**(m) 4 [footnote: 4 So in original. No subsecs. (j) to (*l*) have been enacted.] Notice under this section after separation from service**
 
 The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a member bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the appropriate Federal banking agency to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989).
 
-(Dec. 23, 1913, ch. 6, § 29, as added Pub. L. 95–630, title I, § 101, Nov. 10, 1978, 92 Stat. 3641; amended Pub. L. 97–320, title IV, § 424(c), (d)(1), (e), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 101–73, title IX, §§ 905(f), 907(g), Aug. 9, 1989, 103 Stat. 461, 470.)
+(Dec. 23, 1913, ch. 6, § 29, as added Pub. L. 95–630, title I, § 101, Nov. 10, 1978, 92 Stat. 3641; amended Pub. L. 97–320, title IV, § 424(c), (d)(1), (e), Oct. 15, 1982, 96 Stat. 1523; Pub. L. 101–73, title IX, §§ 905(f), 907(g), Aug. 9, 1989, 103 Stat. 461, 470.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title” was in the original “section 22, 23A, or 23B”, meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title. The text of section 375 of this title was struck out by Pub. L. 111–203, title VI, § 615(b), July 21, 2010, 124 Stat. 1615.
+In subsec. (a), “section 371c, 371c–1, 375, 375a, 375b, 376, or 503 of this title” was in the original “section 22, 23A, or 23B”, meaning section 22, 23A, or 23B of the Federal Reserve Act. Sections 23A and 23B are classified to sections 371c and 371c–1, respectively, of this title. Subsections (d) to (h) of section 22 are classified to sections 375, 375a, 375b, 376, and 503 of this title. The text of section 375 of this title was struck out by Pub. L. 111–203, title VI, § 615(b), July 21, 2010, 124 Stat. 1615.
 
 **Amendments**
 
-1989—Pub. L. 101–73, § 907(g), amended section generally, substituting provisions of subsecs. (a) to (i) for former provisions which related to the following: subsec. (a), making loans, extensions of credit, purchases of securities, etc., respecting affiliates, executive officers, etc.; subsec. (b), amount of penalty; subsec. (c), opportunity for hearing; subsec. (d), review by United States court of appeals; subsec. (e), action by Attorney General for failure to pay assessment; subsec. (f), promulgation of regulations; and subsec. (g), penalties covered into Treasury of United States.
+1989—Pub. L. 101–73, § 907(g), amended section generally, substituting provisions of subsecs. (a) to (i) for former provisions which related to the following: subsec. (a), making loans, extensions of credit, purchases of securities, etc., respecting affiliates, executive officers, etc.; subsec. (b), amount of penalty; subsec. (c), opportunity for hearing; subsec. (d), review by United States court of appeals; subsec. (e), action by Attorney General for failure to pay assessment; subsec. (f), promulgation of regulations; and subsec. (g), penalties covered into Treasury of United States.
 
-Subsec. (m). Pub. L. 101–73, § 905(f), added subsec. (m).
+Subsec. (m). Pub. L. 101–73, § 905(f), added subsec. (m).
 
-1982—Subsec. (a). Pub. L. 97–320, § 424(c), (d)(1), inserted proviso giving agency discretionary authority to compromise, etc., any civil money penalty imposed under its authority, and substituted “may be assessed” for “shall be assessed”, respectively.
+1982—Subsec. (a). Pub. L. 97–320, § 424(c), (d)(1), inserted proviso giving agency discretionary authority to compromise, etc., any civil money penalty imposed under its authority, and substituted “may be assessed” for “shall be assessed”, respectively.
 
-Subsec. (d). Pub. L. 97–320, § 424(e), substituted “twenty days from the service” for “ten days from the date”.
+Subsec. (d). Pub. L. 97–320, § 424(e), substituted “twenty days from the service” for “ten days from the date”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6005,7 +6005,7 @@ Amendment by section 907(g) of Pub. L. 101–73 applicable to conduct engaged in
 
 Section effective with respect to violations occurring or continuing after Nov. 10, 1978, see section 109 of Pub. L. 95–630 set out as an Effective Date of 1978 Amendment note under section 93 of this title.
 
-### § 505. Civil money penalty
+### § 505. Civil money penalty
 
 **(1) First tier**
 
@@ -6075,7 +6075,7 @@ For purposes of this section, the term “violate” includes any action (alone 
 
 The Board shall prescribe regulations establishing such procedures as may be necessary to carry out this section.
 
-(Dec. 23, 1913, ch. 6, § 19(*l*), formerly § 19(j), as added Pub. L. 95–630, title I, § 102, Nov. 10, 1978, 92 Stat. 3642; renumbered § 19(*l*), Pub. L. 96–221, title I, § 105(f), Mar. 31, 1980, 94 Stat. 140; amended Pub. L. 97–320, title IV, § 424(a), (d)(2), (e), Oct. 15, 1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, § 907(h), Aug. 9, 1989, 103 Stat. 472.)
+(Dec. 23, 1913, ch. 6, § 19(*l*), formerly § 19(j), as added Pub. L. 95–630, title I, § 102, Nov. 10, 1978, 92 Stat. 3642; renumbered § 19(*l*), Pub. L. 96–221, title I, § 105(f), Mar. 31, 1980, 94 Stat. 140; amended Pub. L. 97–320, title IV, § 424(a), (d)(2), (e), Oct. 15, 1982, 96 Stat. 1522, 1523; Pub. L. 101–73, title IX, § 907(h), Aug. 9, 1989, 103 Stat. 472.)
 
 **Editorial Notes**
 
@@ -6087,9 +6087,9 @@ This section, referred to in pars. (1) and (8), means section 19 of act Dec. 23,
 
 1989—Pub. L. 101–73 amended section generally, revising and restating as pars. (1) to (9) provisions of former pars. (1) to (7) which related to civil penalty respecting depository, reserve, etc., requirements; amount; hearing; review; action by Attorney General; and regulations.
 
-1982—Par. (1). Pub. L. 97–320, § 424(a), (d)(2), inserted proviso giving Board discretionary authority to compromise, etc., any civil money penalty imposed under this section, and substituted “may be assessed” for “shall be assessed”.
+1982—Par. (1). Pub. L. 97–320, § 424(a), (d)(2), inserted proviso giving Board discretionary authority to compromise, etc., any civil money penalty imposed under this section, and substituted “may be assessed” for “shall be assessed”.
 
-Par. (4). Pub. L. 97–320, § 424(e), substituted “twenty days from the service” for “ten days from the date”.
+Par. (4). Pub. L. 97–320, § 424(e), substituted “twenty days from the service” for “ten days from the date”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6101,11 +6101,11 @@ Amendment by Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 198
 
 Section effective with respect to violations occurring or continuing after Nov. 10, 1978, see section 109 of Pub. L. 95–630 set out as an Effective Date of 1978 Amendment note under section 93 of this title.
 
-### § 506. Notice after separation from service
+### § 506. Notice after separation from service
 
 The resignation, termination of employment or participation, or separation of an institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to a member bank (including a separation caused by the closing of such a bank) shall not affect the jurisdiction and authority of the Board to issue any notice and proceed under this section against any such party, if such notice is served before the end of the 6-year period beginning on the date such party ceased to be such a party with respect to such bank (whether such date occurs before, on, or after August 9, 1989).
 
-(Dec. 23, 1913, ch. 6, § 19(m), as added Pub. L. 101–73, title IX, § 905(g), Aug. 9, 1989, 103 Stat. 461.)
+(Dec. 23, 1913, ch. 6, § 19(m), as added Pub. L. 101–73, title IX, § 905(g), Aug. 9, 1989, 103 Stat. 461.)
 
 **Editorial Notes**
 
@@ -6115,7 +6115,7 @@ This section, referred to in text, means section 19 of act Dec. 23, 1913, which 
 
 ## SUBCHAPTER XVII—RESERVE-BANK BRANCHES
 
-### § 521. Reserve-bank branches; establishment; directors; discontinuance of branches; approval for erection of branch bank building
+### § 521. Reserve-bank branches; establishment; directors; discontinuance of branches; approval for erection of branch bank building
 
 The Board of Governors of the Federal Reserve System may permit or require any Federal reserve bank to establish branch banks within the Federal reserve district in which it is located or within the district of any Federal reserve bank which may have been suspended. Such branches, subject to such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe, shall be operated under the supervision of a board of directors to consist of not more than seven nor less than three directors, of whom a majority of one shall be appointed by the Federal reserve bank of the district, and the remaining directors by the Board of Governors of the Federal Reserve System. Directors of branch banks shall hold office during the pleasure of the Board of Governors of the Federal Reserve System.
 
@@ -6123,7 +6123,7 @@ The Board of Governors of the Federal Reserve System may at any time require any
 
 No Federal Reserve bank shall have authority hereafter to enter into any contract or contracts for the erection of any branch bank building of any kind or character or to authorize the erection of any such building, except with the approval of the Board of Governors of the Federal Reserve System.
 
-(Dec. 23, 1913, ch. 6, § 3, 38 Stat. 253; June 21, 1917, ch. 32, § 1, 40 Stat. 232; Feb. 25, 1927, ch. 191, § 19, 44 Stat. 1234; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 87–622, § 2, Aug. 31, 1962, 76 Stat. 418.)
+(Dec. 23, 1913, ch. 6, § 3, 38 Stat. 253; June 21, 1917, ch. 32, § 1, 40 Stat. 232; Feb. 25, 1927, ch. 191, § 19, 44 Stat. 1234; Aug. 23, 1935, ch. 614, title II, § 203(a), 49 Stat. 704; Pub. L. 87–622, § 2, Aug. 31, 1962, 76 Stat. 418.)
 
 **Editorial Notes**
 
@@ -6139,17 +6139,17 @@ No Federal Reserve bank shall have authority hereafter to enter into any contrac
 
 Section 203(a) of act Aug. 23, 1935, changed name of Federal Reserve Board to Board of Governors of the Federal Reserve System.
 
-### § 522. Federal Reserve branch bank buildings
+### § 522. Federal Reserve branch bank buildings
 
 No Federal Reserve bank may authorize the acquisition or construction of any branch building, or enter into any contract or other obligation for the acquisition or construction of any branch building, without the approval of the Board.
 
-(Dec. 23, 1913, ch. 6, § 10 (par.), as added June 3, 1922, ch. 205, 42 Stat. 622; amended Feb. 6, 1923, ch. 60, 42 Stat. 1223; July 30, 1947, ch. 352, 61 Stat. 520; May 29, 1953, ch. 87, 67 Stat. 41; Pub. L. 87–622, § 1, Aug. 31, 1962, 76 Stat. 418; Pub. L. 93–495, title I, § 108, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 102–491, § 2, Oct. 24, 1992, 106 Stat. 3144.)
+(Dec. 23, 1913, ch. 6, § 10 (par.), as added June 3, 1922, ch. 205, 42 Stat. 622; amended Feb. 6, 1923, ch. 60, 42 Stat. 1223; July 30, 1947, ch. 352, 61 Stat. 520; May 29, 1953, ch. 87, 67 Stat. 41; Pub. L. 87–622, § 1, Aug. 31, 1962, 76 Stat. 418; Pub. L. 93–495, title I, § 108, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 102–491, § 2, Oct. 24, 1992, 106 Stat. 3144.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section is comprised of ninth paragraph of act Dec. 23, 1913, § 10, as added June 3, 1922. For classification to this title of other pars. of section 10, see Codification note set out under section 241 of this title.
+Section is comprised of ninth paragraph of act Dec. 23, 1913, § 10, as added June 3, 1922. For classification to this title of other pars. of section 10, see Codification note set out under section 241 of this title.
 
 **Amendments**
 

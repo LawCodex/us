@@ -19,43 +19,43 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–54, § 2(b), Dec. 12, 2025, 139 Stat. 706, added item 1980B.
+2025—Pub. L. 119–54, § 2(b), Dec. 12, 2025, 139 Stat. 706, added item 1980B.
 
-2022—Pub. L. 117–313, § 3(b)(2), Dec. 27, 2022, 136 Stat. 4400, substituted “Beneficiaries” for “Change of beneficiary” in item 1949.
+2022—Pub. L. 117–313, § 3(b)(2), Dec. 27, 2022, 136 Stat. 4400, substituted “Beneficiaries” for “Change of beneficiary” in item 1949.
 
-2021—Pub. L. 116–315, title II, § 2004(a)(2), (c)(3), Jan. 5, 2021, 134 Stat. 4974, added item 1922B and substituted “Legacy service” for “Service” in item 1922 and “Legacy supplemental” for “Supplemental” in item 1922A.
+2021—Pub. L. 116–315, title II, § 2004(a)(2), (c)(3), Jan. 5, 2021, 134 Stat. 4974, added item 1922B and substituted “Legacy service” for “Service” in item 1922 and “Legacy supplemental” for “Supplemental” in item 1922A.
 
-2005—Pub. L. 109–13, div. A, title I, § 1032(b), May 11, 2005, 119 Stat. 259, added item 1980A.
+2005—Pub. L. 109–13, div. A, title I, § 1032(b), May 11, 2005, 119 Stat. 259, added item 1980A.
 
-1998—Pub. L. 105–368, title III, § 302(a)(2), Nov. 11, 1998, 112 Stat. 3333, added item 1980.
+1998—Pub. L. 105–368, title III, § 302(a)(2), Nov. 11, 1998, 112 Stat. 3333, added item 1980.
 
-1996—Pub. L. 104–275, title IV, § 405(b)(3), Oct. 9, 1996, 110 Stat. 3339, substituted “SERVICEMEMBERS’ GROUP” for “SERVICEMEN’S GROUP” in subchapter III heading and “Servicemembers’ Group” for “Servicemen’s Group” in item 1974.
+1996—Pub. L. 104–275, title IV, § 405(b)(3), Oct. 9, 1996, 110 Stat. 3339, substituted “SERVICEMEMBERS’ GROUP” for “SERVICEMEN’S GROUP” in subchapter III heading and “Servicemembers’ Group” for “Servicemen’s Group” in item 1974.
 
-1992—Pub. L. 102–568, title II, § 203(b), Oct. 29, 1992, 106 Stat. 4325, added item 1922A.
+1992—Pub. L. 102–568, title II, § 203(b), Oct. 29, 1992, 106 Stat. 4325, added item 1922A.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 701 to 788 as 1901 to 1988, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 701 to 788 as 1901 to 1988, respectively.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, substituted “Secretary” for “Administrator” in item 785.
+Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405, substituted “Secretary” for “Administrator” in item 785.
 
-1988—Pub. L. 100–687, div. B, title XIV, § 1401(c), Nov. 18, 1988, 102 Stat. 4129, added items 728, 729, and 763.
+1988—Pub. L. 100–687, div. B, title XIV, § 1401(c), Nov. 18, 1988, 102 Stat. 4129, added items 728, 729, and 763.
 
-Pub. L. 100–322, title III, § 331(a)(2), (b)(2), May 20, 1988, 102 Stat. 536, 537, added items 727 and 762.
+Pub. L. 100–322, title III, § 331(a)(2), (b)(2), May 20, 1988, 102 Stat. 536, 537, added items 727 and 762.
 
-1979—Pub. L. 96–128, title III, §§ 302(b), 303(b), Nov. 28, 1979, 93 Stat. 986, added items 726 and 761.
+1979—Pub. L. 96–128, title III, §§ 302(b), 303(b), Nov. 28, 1979, 93 Stat. 986, added items 726 and 761.
 
-1974—Pub. L. 93–289, §§ 2(b), 9(b), May 24, 1974, 88 Stat. 165, 172, added items 777, 778, and 779 and substituted “Veterans’ Special Life Insurance” for “Veterans’ special term insurance” in item 723.
+1974—Pub. L. 93–289, §§ 2(b), 9(b), May 24, 1974, 88 Stat. 165, 172, added items 777, 778, and 779 and substituted “Veterans’ Special Life Insurance” for “Veterans’ special term insurance” in item 723.
 
-1971—Pub. L. 92–188, § 3, Dec. 15, 1971, 85 Stat. 645, substituted “Payment or use of dividends” for “Dividends to pay premiums” in item 707.
+1971—Pub. L. 92–188, § 3, Dec. 15, 1971, 85 Stat. 645, substituted “Payment or use of dividends” for “Dividends to pay premiums” in item 707.
 
-1970—Pub. L. 91–291, § 7, June 25, 1970, 84 Stat. 331, substituted “Duration and termination of coverage; conversion” for “Termination of coverage; conversion” in item 768.
+1970—Pub. L. 91–291, § 7, June 25, 1970, 84 Stat. 331, substituted “Duration and termination of coverage; conversion” for “Termination of coverage; conversion” in item 768.
 
-1965—Pub. L. 89–214, § 2, Sept. 29, 1965, 79 Stat. 886, redesignated “SUBCHAPTER III—GENERAL” as “SUBCHAPTER IV—GENERAL” and inserted “SUBCHAPTER III—SERVICEMEN’S GROUP LIFE INSURANCE” comprising items 765 to 776.
+1965—Pub. L. 89–214, § 2, Sept. 29, 1965, 79 Stat. 886, redesignated “SUBCHAPTER III—GENERAL” as “SUBCHAPTER IV—GENERAL” and inserted “SUBCHAPTER III—SERVICEMEN’S GROUP LIFE INSURANCE” comprising items 765 to 776.
 
-1964—Pub. L. 88–664, § 12(c), Oct. 13, 1964, 78 Stat. 1099, added item 725.
+1964—Pub. L. 88–664, § 12(c), Oct. 13, 1964, 78 Stat. 1099, added item 725.
 
 ## SUBCHAPTER I—NATIONAL SERVICE LIFE INSURANCE
 
-### § 1901. Definitions
+### § 1901. Definitions
 
 For the purposes of this subchapter—
 
@@ -67,7 +67,7 @@ For the purposes of this subchapter—
 
 **(4)** The terms “parent”, “father”, and “mother” mean a father, mother, father through adoption, mother through adoption, persons who have stood in loco parentis to a member of the military or naval forces at any time before entry into active service for a period of not less than one year, and a step­parent, if designated as beneficiary by the insured.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, § 701; renumbered § 1901, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, § 701; renumbered § 1901, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -75,17 +75,17 @@ For the purposes of this subchapter—
 
 Prior section 1901 was renumbered section 3901 of this title.
 
-Another prior section 1901, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, as amended by Pub. L. 90–77, title II, § 204(a), Aug. 31, 1967, 81 Stat. 184, related to veterans eligible for assistance, prior to the general revision of chapter 39 of this title by Pub. L. 91–666. See sections 3901 and 3902 of this title.
+Another prior section 1901, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, as amended by Pub. L. 90–77, title II, § 204(a), Aug. 31, 1967, 81 Stat. 184, related to veterans eligible for assistance, prior to the general revision of chapter 39 of this title by Pub. L. 91–666. See sections 3901 and 3902 of this title.
 
 **Amendments**
 
 1991—Pub. L. 102–83 renumbered section 701 of this title as this section.
 
-### § 1902. Premium rates and policy values
+### § 1902. Premium rates and policy values
 
 Premium rates for insurance shall be the net rates based upon the American Experience Table of Mortality and interest at the rate of 3 per centum per annum. All cash, loan, paid-up, and extended values, and all other calculations in connection with insurance, shall be based upon said American Experience Table of Mortality and interest at the rate of 3 per centum per annum.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, § 702; renumbered § 1902, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, § 702; renumbered § 1902, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -99,11 +99,11 @@ Another prior section 1902, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, rela
 
 1991—Pub. L. 102–83 renumbered section 702 of this title as this section.
 
-### § 1903. Amount of insurance
+### § 1903. Amount of insurance
 
 Insurance shall be issued in any multiple of $500 and the amount of insurance with respect to any one person shall be not less than $1,000 or more than $10,000. No person may carry a combined amount of National Service Life Insurance and United States Government life insurance in excess of $10,000 at any one time. The limitations of this section shall not apply to the additional paid up insurance the purchase of which is authorized under section 1907 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, § 703; Pub. L. 92–188, § 1, Dec. 15, 1971, 85 Stat. 645; renumbered § 1903 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, § 703; Pub. L. 92–188, § 1, Dec. 15, 1971, 85 Stat. 645; renumbered § 1903 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -125,7 +125,7 @@ Another prior section 1903, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216, rela
 
 Amendment by Pub. L. 92–188 effective on date established by Administrator but in no event later than first day of first calendar month beginning more than six calendar months after Dec. 15, 1971, see section 4 of Pub. L. 92–188, set out as a note under section 1907 of this title.
 
-### § 1904. Plans of insurance
+### § 1904. Plans of insurance
 
 **(a)** Insurance may be issued on the following plans: Five-year level premium term, ordinary life, twenty-payment life, thirty-payment life, twenty-year endowment, endowment at age sixty, and endowment at age sixty-five. Level premium term insurance may be converted as of the date when any premium becomes or has become due, or exchanged as of the date of the original policy, upon payment of the difference in reserve, at any time while such insurance is in force and within the term period to any of the foregoing permanent plans of insurance, except that conversion to an endowment plan may not be made while the insured is totally disabled.
 
@@ -137,37 +137,37 @@ Amendment by Pub. L. 92–188 effective on date established by Administrator but
 
 **(e)** After June 30, 1972, and under such regulations as the Secretary may promulgate, insurance may be converted to or exchanged for insurance on a modified life plan under the same terms and conditions as are set forth in subsections (b) and (c) of this section except that at the end of the day preceding the seventieth birthday of the insured the face value of the modified life insurance policy or the amount of extended insurance thereunder shall be automatically reduced by one-half thereof, without any reduction in premium. Any insured whose modified life insurance policy issued under this subsection is in force by payment or waiver of premiums on the day before the insured’s seventieth birthday may be granted insurance on the ordinary life plan upon the same terms and conditions as are set forth in subsection (d) of this section except that in applying such provisions the seventieth birthday is to be substituted for the sixty-fifth birthday. Notwithstanding any other provision of law or regulations the Secretary under such terms and conditions as the Secretary determines to be reasonable and practicable and upon written application and payment of the required premiums, reserves, or other necessary amounts made within one year from the effective date of this subsection by an insured having in force a modified life plan issued under subsection (b) or (c) of this section, including any replacement insurance issued under subsection (d) of this section or other provision of this title, can exchange such insurance without proof of good health for an amount of insurance issued under this subsection equal to the insurance then in force or which was in force on the day before such insured’s sixty-fifth birthday, whichever is the greater.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, § 704; Pub. L. 88–664, § 12(b), Oct. 13, 1964, 78 Stat. 1098; Pub. L. 92–193, Dec. 15, 1971, 85 Stat. 648; Pub. L. 97–295, § 4(21), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, § 701(21), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1904 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, § 704; Pub. L. 88–664, § 12(b), Oct. 13, 1964, 78 Stat. 1098; Pub. L. 92–193, Dec. 15, 1971, 85 Stat. 648; Pub. L. 97–295, § 4(21), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, § 701(21), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1904 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (c), is section 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which was repealed and the provisions thereof reenacted as section 723 [now 1923] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Section 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (c), is section 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which was repealed and the provisions thereof reenacted as section 723 [now 1923] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 **Prior Provisions**
 
 Prior section 1904 was renumbered section 3904 of this title.
 
-Another prior section 1904, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216, related to prohibition against duplication of benefits, prior to the general revision of chapter 39 of this title by Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 1998. See section 3903 of this title.
+Another prior section 1904, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216, related to prohibition against duplication of benefits, prior to the general revision of chapter 39 of this title by Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 1998. See section 3903 of this title.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 704 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 704 of this title as this section.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1923(b)” for “723(b)”, “1922(a)” for “722(a)” in two places, and “1925” for “725” in two places.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1923(b)” for “723(b)”, “1922(a)” for “722(a)” in two places, and “1925” for “725” in two places.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1912” for “712”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1912” for “712”.
 
-Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (d). Pub. L. 99–576, § 701(21)(A), substituted “the insured’s” for “his” in four places, and “the insured” for “he” in two places.
+1986—Subsec. (d). Pub. L. 99–576, § 701(21)(A), substituted “the insured’s” for “his” in four places, and “the insured” for “he” in two places.
 
-Subsec. (e). Pub. L. 99–576, § 701(21)(B), substituted “the insured’s” for “his” and “the Administrator” for “he”.
+Subsec. (e). Pub. L. 99–576, § 701(21)(B), substituted “the insured’s” for “his” and “the Administrator” for “he”.
 
 1982—Subsec. (e). Pub. L. 97–295 substituted “After June 30, 1972,” for “On and after the effective date of this subsection”, and substituted “subsection” for “subsections” after “plan issued under”.
 
@@ -185,17 +185,17 @@ Pub. L. 92–193 provided that the amendment made by Pub. L. 92–193 is effecti
 
 Amendment by Pub. L. 88–664 effective first day of first calendar month which begins more than six calendar months after Oct. 13, 1964, see section 12(d) of Pub. L. 88–664, set out as an Effective Date note under section 1925 of this title.
 
-### § 1905. Renewal
+### § 1905. Renewal
 
 All level premium term policies, except as otherwise provided in this section, shall cease and terminate at the expiration of the term period. At the expiration of any term period any five-year level premium term policy which has not been exchanged or converted to a permanent plan of insurance and which is not lapsed shall be renewed as level premium term insurance without application for a successive five-year period at the premium rate for the attained age without medical examination. However, renewal will be effected in cases where the policy is lapsed only if the insured makes application for reinstatement and renewal of the term policy within five years after the date of lapse, and reinstatement in such cases shall be under the terms and conditions prescribed by the Secretary. In any case in which the insured is shown by evidence satisfactory to the Secretary to be totally disabled at the expiration of the level premium term period of the insurance under conditions which would entitle the insured to continued insurance protection but for such expiration, the insurance, if subject to renewal under this section, shall be automatically renewed for an additional period of five years at the premium rate for the then attained age, unless the insured has elected insurance on some other available plan.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, § 705; Pub. L. 91–291, § 8, June 25, 1970, 84 Stat. 331; Pub. L. 99–576, title VII, § 701(22), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1905 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, § 705; Pub. L. 91–291, § 8, June 25, 1970, 84 Stat. 331; Pub. L. 99–576, title VII, § 701(22), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1905 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior section 1905, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216; Pub. L. 90–77, title II, § 204(b), Aug. 31, 1967, 81 Stat. 184, related to applications, prior to the general revision of chapter 39 of this title by Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 1998.
+Prior section 1905, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216; Pub. L. 90–77, title II, § 204(b), Aug. 31, 1967, 81 Stat. 184, related to applications, prior to the general revision of chapter 39 of this title by Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 1998.
 
 **Amendments**
 
@@ -211,11 +211,11 @@ Prior section 1905, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216; Pub. L. 90�
 
 Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
 
-### § 1906. Policy provisions
+### § 1906. Policy provisions
 
 Provisions for cash, loan, paid-up, and extended values, dividends from gains and savings, refund of unearned premiums, and such other provisions as may be found to be reasonable and practicable may be provided for in the policy of insurance from time to time by regulations promulgated by the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, § 706; renumbered § 1906 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, § 706; renumbered § 1906 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -223,7 +223,7 @@ Provisions for cash, loan, paid-up, and extended values, dividends from gains an
 
 1991—Pub. L. 102–83 renumbered section 706 of this title as this section and substituted “Secretary” for “Administrator”.
 
-### § 1907. Payment or use of dividends
+### § 1907. Payment or use of dividends
 
 **(a)** Until and unless the Secretary has received from the insured a request or directive in writing exercising any other dividend option allowable under the insured’s policy, any dividend accumulations and unpaid dividends shall be applied in payment of premiums becoming due on insurance subsequent to the date the dividend is payable after January 1, 1952.
 
@@ -231,35 +231,35 @@ Provisions for cash, loan, paid-up, and extended values, dividends from gains an
 
 **(c)** The Secretary, upon application in writing made by the insured for insurance under this subsection, and without proof of good health, is authorized to apply any dividend due and payable on national service life insurance after the date of such application to purchase paid up insurance. Also, the Secretary, upon application in writing made by the insured during the one-year period beginning September 1, 1991, and without proof of good health, is authorized to apply any national service life insurance dividend credits and deposits of such insured existing at the date of the insured’s application to purchase paid up insurance. After September 1, 1992, the Secretary may, from time to time, provide for further one-year periods during which insureds may purchase additional paid up insurance from existing dividend credits and deposits. Any such period for the purchase of additional paid up insurance may be allowed only if the Secretary determines in the case of any such period that it would be actuarially and administratively sound to do so. Any dividends, dividend credits, or deposits on endowment policies may be used under this subsection only to purchase additional paid up endowment insurance which matures concurrently with the basic policy. Any dividends, dividend credits, or deposits on policies (other than endowment policies) may be used under this section only to purchase additional paid up whole life insurance. The paid up insurance granted under this subsection shall be in addition to any insurance otherwise authorized under this title, or under prior provisions of law. The paid up insurance granted under this subsection shall be issued on the same terms and conditions as are contained in the standard policies of national service life insurance except (1) the premium rates for such insurance and all cash and loan values thereon shall be based on such table of mortality and rate of interest per annum as may be prescribed by the Secretary; (2) the total disability income provision authorized under section 1915 of this title may not be added to insurance issued under this section; and (3) the insurance shall include such other changes in terms and conditions as the Secretary determines to be reasonable and practicable.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, § 707; Pub. L. 91–291, § 9, June 25, 1970, 84 Stat. 331; Pub. L. 92–188, § 2, Dec. 15, 1971, 85 Stat. 645; Pub. L. 97–295, § 4(22), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, § 701(23), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1907 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(I), (C)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title II, § 203, Aug. 14, 1991, 105 Stat. 416.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, § 707; Pub. L. 91–291, § 9, June 25, 1970, 84 Stat. 331; Pub. L. 92–188, § 2, Dec. 15, 1971, 85 Stat. 645; Pub. L. 97–295, § 4(22), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, § 701(23), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1907 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(I), (C)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title II, § 203, Aug. 14, 1991, 105 Stat. 416.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 707 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 707 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(a)(2)(A)(iii)(I), substituted “Secretary” for “Veterans’ Administration”.
+Subsec. (a). Pub. L. 102–83, § 4(a)(2)(A)(iii)(I), substituted “Secretary” for “Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–83, § 4(a)(2)(C)(i), substituted “by the Secretary” for “in the Veterans’ Administration” in second sentence.
+Subsec. (b). Pub. L. 102–83, § 4(a)(2)(C)(i), substituted “by the Secretary” for “in the Veterans’ Administration” in second sentence.
 
-Pub. L. 102–83, § 4(a)(2)(A)(iii)(I), substituted “Secretary” for “Veterans’ Administration” in first sentence.
+Pub. L. 102–83, § 4(a)(2)(A)(iii)(I), substituted “Secretary” for “Veterans’ Administration” in first sentence.
 
-Subsec. (c). Pub. L. 102–86 amended subsec. (c) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “during the one-year period beginning September 1, 1991” for “before February 1, 1973” and inserting after second sentence “After September 1, 1992, the Secretary may, from time to time, provide for further one-year periods during which insureds may purchase additional paid up insurance from existing dividend credits and deposits. Any such period for the purchase of additional paid up insurance may be allowed only if the Secretary determines in the case of any such period that it would be actuarially and administratively sound to do so.”
+Subsec. (c). Pub. L. 102–86 amended subsec. (c) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “during the one-year period beginning September 1, 1991” for “before February 1, 1973” and inserting after second sentence “After September 1, 1992, the Secretary may, from time to time, provide for further one-year periods during which insureds may purchase additional paid up insurance from existing dividend credits and deposits. Any such period for the purchase of additional paid up insurance may be allowed only if the Secretary determines in the case of any such period that it would be actuarially and administratively sound to do so.”
 
-Pub. L. 102–83, § 5(c)(1), substituted “1915” for “715” in cl. (2).
+Pub. L. 102–83, § 5(c)(1), substituted “1915” for “715” in cl. (2).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 1986—Subsecs. (a), (c). Pub. L. 99–576 substituted “the insured’s” for “his”.
 
 1982—Subsec. (c). Pub. L. 97–295 substituted “before February 1, 1973” for “within six calendar months after the effective date of this subsection”.
 
-1971—Pub. L. 92–188, § 2(3), substituted “Payment or use of dividends” for “Dividends to pay premiums” as section catchline.
+1971—Pub. L. 92–188, § 2(3), substituted “Payment or use of dividends” for “Dividends to pay premiums” as section catchline.
 
-Subsec. (a). Pub. L. 92–188, § 2(1), substituted “or directive in writing exercising any other dividend option allowable under his policy” for “in writing for payment in cash”.
+Subsec. (a). Pub. L. 92–188, § 2(1), substituted “or directive in writing exercising any other dividend option allowable under his policy” for “in writing for payment in cash”.
 
-Subsec. (c). Pub. L. 92–188, § 2(2), added subsec. (c).
+Subsec. (c). Pub. L. 92–188, § 2(2), added subsec. (c).
 
 1970—Pub. L. 91–291 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -267,17 +267,17 @@ Subsec. (c). Pub. L. 92–188, § 2(2), added subsec. (c).
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–188, § 4, Dec. 15, 1971, 85 Stat. 645, provided that: “The amendments made by this Act [amending this section and sections 703 and 741 [now 1903 and 1941] of this title] shall take effect on a date established by the Administrator but in no event later than the first day of the first calendar month which begins more than six calendar months after the date of enactment of this Act [Dec. 15, 1971].”
+Pub. L. 92–188, § 4, Dec. 15, 1971, 85 Stat. 645, provided that: “The amendments made by this Act [amending this section and sections 703 and 741 [now 1903 and 1941] of this title] shall take effect on a date established by the Administrator but in no event later than the first day of the first calendar month which begins more than six calendar months after the date of enactment of this Act [Dec. 15, 1971].”
 
 **Effective Date of 1970 Amendment**
 
 Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
 
-### § 1908. Premium payments
+### § 1908. Premium payments
 
 The Secretary shall, by regulations, prescribe the time and method of payment of the premiums on insurance, but payments of premiums in advance shall not be required for periods of more than one month each, and may at the election of the insured be deducted from the insured’s active-service pay or be otherwise made. An amount equal to the first premium due under a National Service Life Insurance policy may be advanced from current appropriations for active-service pay to any person in the active service in the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, which amount shall constitute a lien upon any service or other pay accruing to the person for whom such advance was made and shall be collected therefrom if not otherwise paid. No disbursing or certifying officer shall be responsible for any loss incurred by reason of such advance. Any amount so advanced in excess of available service or other pay shall constitute a lien on the policy within the provisions of section 5301(b) of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, § 708; Pub. L. 99–576, title VII, § 701(24), Oct. 28, 1986, 100 Stat. 3292; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1908 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 116–283, div. A, title IX, § 926(e), Jan. 1, 2021, 134 Stat. 3831.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, § 708; Pub. L. 99–576, title VII, § 701(24), Oct. 28, 1986, 100 Stat. 3292; Pub. L. 102–40, title IV, § 402(d)(1), May 7, 1991, 105 Stat. 239; renumbered § 1908 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 116–283, div. A, title IX, § 926(e), Jan. 1, 2021, 134 Stat. 3831.)
 
 **Editorial Notes**
 
@@ -297,11 +297,11 @@ Pub. L. 102–40 substituted “5301(b)” for “3101(b)”.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1909. Effective date of insurance
+### § 1909. Effective date of insurance
 
 Insurance may be made effective, as specified in the application, not later than the first day of the calendar month following the date of application therefor, but the United States shall not be liable thereunder for death occurring before such effective date.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, § 709; renumbered § 1909, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, § 709; renumbered § 1909, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -309,29 +309,29 @@ Insurance may be made effective, as specified in the application, not later than
 
 1991—Pub. L. 102–83 renumbered section 709 of this title as this section.
 
-### § 1910. Incontestability
+### § 1910. Incontestability
 
 Subject to the provisions of section 1911 of this title all contracts or policies of insurance heretofore or hereafter issued, reinstated, or converted shall be incontestable from the date of issue, reinstatement, or conversion except for fraud, nonpayment of premium, or on the ground that the applicant was not a member of the military or naval forces of the United States. However, in any case in which a contract or policy of insurance is canceled or voided after March 16, 1954, because of fraud, the Secretary shall refund to the insured, if living, or, if deceased, to the person designated as beneficiary (or if none survives, to the estate of the insured) all money, without interest, paid as premiums on such contract or policy for any period subsequent to two years after the date such fraud induced the Secretary to issue, reinstate, or convert such insurance less any dividends, loan, or other payment made to the insured under such contract or policy.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, § 710; renumbered § 1910 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(II), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1149, § 710; renumbered § 1910 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(II), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 710 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 710 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1911” for “711”.
+Pub. L. 102–83, § 5(c)(1), substituted “1911” for “711”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “shall”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “shall”.
 
-Pub. L. 102–83, § 4(a)(2)(A)(iii)(II), substituted “Secretary” for “Veterans’ Administration” before “to issue”.
+Pub. L. 102–83, § 4(a)(2)(A)(iii)(II), substituted “Secretary” for “Veterans’ Administration” before “to issue”.
 
-### § 1911. Forfeiture
+### § 1911. Forfeiture
 
 Any person guilty of mutiny, treason, spying, or desertion, or who, because of conscientious objections, refuses to perform service in the Armed Forces of the United States or refuses to wear the uniform of such force, shall forfeit all rights to National Service Life Insurance. No insurance shall be payable for death inflicted as a lawful punishment for crime or for military or naval offense, except when inflicted by an enemy of the United States; but the cash surrender value, if any, of such insurance on the date of such death shall be paid to the designated beneficiary, if living, or otherwise to the beneficiary or beneficiaries within the permitted class in accordance with the order specified in section 1916(b) of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1150, § 711; renumbered § 1911 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1150, § 711; renumbered § 1911 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -339,7 +339,7 @@ Any person guilty of mutiny, treason, spying, or desertion, or who, because of c
 
 1991—Pub. L. 102–83 renumbered section 711 of this title as this section and substituted “1916(b)” for “716(b)”.
 
-### § 1912. Total disability waiver
+### § 1912. Total disability waiver
 
 **(a)** Upon application by the insured and under such regulations as the Secretary may promulgate, payment of premiums on insurance may be waived during the continuous total disability of the insured, which continues or has continued for six or more consecutive months, if such disability began (1) after the date of the insured’s application for insurance, (2) while the insurance was in force under premium-paying conditions, and (3) before the insured’s sixty-fifth birthday. Notwithstanding any other provision of this chapter, in any case in which the total disability of the insured commenced on or after the insured’s sixtieth birthday but before the insured’s sixty-fifth birthday, the Secretary shall not grant waiver of any premium becoming due prior to January 1, 1965.
 
@@ -349,29 +349,29 @@ Any person guilty of mutiny, treason, spying, or desertion, or who, because of c
 
 **(d)** In any case in which an insured has been denied or would have been denied premium waiver under section 602(n) of the National Service Life Insurance Act of 1940 or this section solely because the insured became totally disabled between the date of valid application for insurance and the subsequent effective date thereof, and in which it is shown that (1) the total disability was incurred in line of duty between October 8, 1940, and July 31, 1946, inclusive, or June 27, 1950, and April 30, 1951, inclusive, and (2) the insured remained continuously so totally disabled to the date of death or June 8, 1960, whichever is earlier, the Secretary may grant waiver of premiums from the beginning of and during the continuous total disability of such insured. Application for waiver of premiums under this subsection must be filed by the insured or, in the event of the insured’s death, by the beneficiary within two years after June 8, 1960, except that if the insured or the beneficiary be insane or a minor within the two-year period, application for such waiver may be filed within two years after removal of such legal disability, or if an insane insured shall die before the removal of the disability, application may be filed by the beneficiary within two years after the insured’s death. No insurance shall be placed in force under this subsection in any case in which there was an award of benefits under the Servicemen’s Indemnity Act of 1951 or of gratuitous insurance under section 1922(b) of this title. The amount of insurance placed in force hereunder together with any other United States Government life insurance or national service life insurance in force at the time of death, or at the time of the insured’s application for waiver hereunder, may not exceed $10,000 and shall be reduced by the amount of any gratuitous insurance awarded under the National Service Life Insurance Act of 1940. Waiver of premiums under this subsection shall render the insurance nonparticipating during the period such premium waiver is in effect. The cost of waiver of premium and death benefits paid as a result of this subsection shall be borne by the United States.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1150, § 712; Pub. L. 86–497, June 8, 1960, 74 Stat. 164; Pub. L. 88–364, July 7, 1964, 78 Stat. 302; Pub. L. 97–295, § 4(23), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, § 701(25), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1912 and amended Pub. L. 102–83, §§ 4(a)(2)(C)(ii), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1150, § 712; Pub. L. 86–497, June 8, 1960, 74 Stat. 164; Pub. L. 88–364, July 7, 1964, 78 Stat. 302; Pub. L. 97–295, § 4(23), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, § 701(25), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1912 and amended Pub. L. 102–83, §§ 4(a)(2)(C)(ii), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Servicemen’s Indemnity Act of 1951, referred to in subsec. (d), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33, as amended, which was classified generally to subchapter II (§ 851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 837, title V, § 502(9), 70 Stat. 886.
+The Servicemen’s Indemnity Act of 1951, referred to in subsec. (d), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33, as amended, which was classified generally to subchapter II (§ 851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 837, title V, § 502(9), 70 Stat. 886.
 
-The National Service Life Insurance Act of 1940, referred to in subsec. (d), is act Oct. 8, 1940, ch. 757, title VI, pt. I, §§  601 to 623, 54 Stat. 1008, which was classified generally to subchapter I (§§ 801 to 824) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by Pub. L. 85–857, § 14(75), Sept. 2, 1958, 72 Stat. 1272, and the provisions thereof reenacted generally as this subchapter by the first section of Pub. L. 85–857 which enacted Title 38, Veterans’ Benefits. Section 602(n) of the 1940 Act, also referred to in subsec. (d), is covered by this section.
+The National Service Life Insurance Act of 1940, referred to in subsec. (d), is act Oct. 8, 1940, ch. 757, title VI, pt. I, §§ 601 to 623, 54 Stat. 1008, which was classified generally to subchapter I (§§ 801 to 824) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by Pub. L. 85–857, § 14(75), Sept. 2, 1958, 72 Stat. 1272, and the provisions thereof reenacted generally as this subchapter by the first section of Pub. L. 85–857 which enacted Title 38, Veterans’ Benefits. Section 602(n) of the 1940 Act, also referred to in subsec. (d), is covered by this section.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 712 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 712 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in four places.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in four places.
 
-Pub. L. 102–83, § 4(a)(2)(C)(ii), substituted “by the Secretary” for “in the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(2)(C)(ii), substituted “by the Secretary” for “in the Veterans’ Administration”.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1922(b)” for “722(b)”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1922(b)” for “722(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1986—Subsecs. (a), (b), (d). Pub. L. 99–576 substituted “the insured’s” for “his” wherever appearing, and “the insured” for “he” in first sentence of subsec. (d).
 
@@ -387,31 +387,31 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 Pub. L. 88–364 provided that the amendment made by Pub. L. 88–364 is effective Jan. 1, 1965.
 
-### § 1913. Death before six months’ total disability
+### § 1913. Death before six months’ total disability
 
 Whenever premiums are not waived under section 1912 of this title solely because the insured died prior to the continuance of total disability for six months, and proof of such facts, satisfactory to the Secretary, is filed by the beneficiary with the Department within one year after the insured’s death, the insurance shall be deemed to be in force at the date of the death, and the unpaid premiums shall become a lien against the proceeds of the insurance. If the beneficiary is insane or a minor, proof of such facts may be filed within one year after removal of such legal disability.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1150, § 713; Pub. L. 99–576, title VII, § 701(26), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1913 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1150, § 713; Pub. L. 99–576, title VII, § 701(26), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1913 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 713 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 713 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1912” for “712”.
+Pub. L. 102–83, § 5(c)(1), substituted “1912” for “712”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 1986—Pub. L. 99–576 substituted “the” for “his” in three places.
 
-### § 1914. Statutory total disabilities
+### § 1914. Statutory total disabilities
 
 Without prejudice to any other cause of disability, the permanent loss of the use of both feet, of both hands, or of both eyes, or of one foot and one hand, or of one foot and one eye, or of one hand and one eye, or the total loss of hearing of both ears, or the organic loss of speech, shall be deemed total disability for insurance purposes.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1151, § 714; renumbered § 1914, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1151, § 714; renumbered § 1914, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -419,27 +419,27 @@ Without prejudice to any other cause of disability, the permanent loss of the us
 
 1991—Pub. L. 102–83 renumbered section 714 of this title as this section.
 
-### § 1915. Total disability income provision
+### § 1915. Total disability income provision
 
 The Secretary shall, except as hereinafter provided, upon application by the insured and proof of good health satisfactory to the Secretary and payment of such extra premium as the Secretary shall prescribe, include in any National Service Life Insurance policy on the life of the insured (except a policy issued under section 620 of the National Service Life Insurance Act of 1940, or section 1922 of this title) provisions whereby an insured who is shown to have become totally disabled for a period of six consecutive months or more commencing after the date of such application and before attaining the age of sixty-five and while the payment of any premium is not in default, shall be paid monthly disability benefits from the first day of the seventh consecutive month of and during the continuance of such total disability of $10 for each $1,000 of such insurance in effect when such benefits become payable. The total disability provision authorized under this section shall not be issued unless application therefor is made either prior to the insured’s fifty-fifth birthday, or before the insured’s sixtieth birthday and prior to January 1, 1966. The total disability provision authorized under this section shall not be added to a policy containing the total disability coverage heretofore issued under section 602(v) of the National Service Life Insurance Act of 1940, or the provisions of this section as in effect before January 1, 1965, except upon surrender of such total disability coverage, proof of good health, if required, satisfactory to the Secretary, and payment of such extra premium as the Secretary shall determine is required in such cases. Participating policies containing additional provisions for the payment of disability benefits may be separately classified for the purpose of dividend distribution from otherwise similar policies not containing such benefits.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1151, § 715; Pub. L. 88–355, July 7, 1964, 78 Stat. 272; renumbered § 1915 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1151, § 715; Pub. L. 88–355, July 7, 1964, 78 Stat. 272; renumbered § 1915 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 620 of the National Service Life Insurance Act of 1940, referred to in text, is section 620 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 722 [now 1922] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Section 620 of the National Service Life Insurance Act of 1940, referred to in text, is section 620 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 722 [now 1922] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 Section 602(v) of the National Service Life Insurance Act of 1940, referred to in text, is section 602(v) of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(v) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section and section 721 [now 1921] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 715 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 715 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1922” for “722”.
+Pub. L. 102–83, § 5(c)(1), substituted “1922” for “722”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 1964—Pub. L. 88–355 authorized issuance of total disability income provisions to provide coverage to age 65 instead of to age 60, provided that said provisions shall not be issued unless application therefor is made either prior to the insured’s 55th birthday, or before the insured’s 60th birthday and prior to Jan. 1, 1966, and inserted “or the provisions of this section as in effect before January 1, 1965” before “except upon surrender”, and “if required” after “proof of good health.”
 
@@ -449,7 +449,7 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 Pub. L. 88–355 provided that the amendment made by Pub. L. 88–355 is effective Jan. 1, 1965.
 
-### § 1916. Insurance which matured before August 1, 1946
+### § 1916. Insurance which matured before August 1, 1946
 
 **(a)** Insurance which matured before August 1, 1946, is payable in the following manner:
 
@@ -477,7 +477,7 @@ Pub. L. 88–355 provided that the amendment made by Pub. L. 88–355 is effecti
 
 **(f)** Any payments of insurance made to a person, represented by the insured to be within the permitted class of beneficiaries, shall be deemed to have been properly made and to satisfy fully the obligation of the United States under such insurance policy to the extent of such payments.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1151, § 716; Pub. L. 99–576, title VII, § 701(27), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1916 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title V, § 506(a)(2), Aug. 14, 1991, 105 Stat. 426.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1151, § 716; Pub. L. 99–576, title VII, § 701(27), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1916 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title V, § 506(a)(2), Aug. 14, 1991, 105 Stat. 426.)
 
 **Editorial Notes**
 
@@ -487,15 +487,15 @@ Section 602(d) of the National Service Life Insurance Act of 1940, referred to i
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 716 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 716 of this title as this section.
 
-Subsec. (b). Pub. L. 102–86 amended subsec. (b) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “unpaid” for “upaid”.
+Subsec. (b). Pub. L. 102–86 amended subsec. (b) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “unpaid” for “upaid”.
 
-Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1986—Subsec. (e). Pub. L. 99–576 substituted “the insured’s” for “his”.
 
-### § 1917. Insurance maturing on or after August 1, 1946
+### § 1917. Insurance maturing on or after August 1, 1946
 
 **(a)**
 
@@ -539,17 +539,17 @@ Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary”
 
 **(2)** Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1152, § 717; Pub. L. 91–291, § 10, June 25, 1970, 84 Stat. 331; Pub. L. 97–66, title IV, § 403(a), Oct. 17, 1981, 95 Stat. 1031; renumbered § 1917 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title I, § 103(a), Dec. 16, 2003, 117 Stat. 2655; Pub. L. 117–313, §§ 2(a), 3(a), Dec. 27, 2022, 136 Stat. 4399.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1152, § 717; Pub. L. 91–291, § 10, June 25, 1970, 84 Stat. 331; Pub. L. 97–66, title IV, § 403(a), Oct. 17, 1981, 95 Stat. 1031; renumbered § 1917 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title I, § 103(a), Dec. 16, 2003, 117 Stat. 2655; Pub. L. 117–313, §§ 2(a), 3(a), Dec. 27, 2022, 136 Stat. 4399.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–313, § 3(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The insured shall have the right to designate the beneficiary or beneficiaries of insurance maturing on or after August 1, 1946, and shall, subject to regulations, at all times have the right to change the beneficiary or beneficiaries of such insurance without the consent of such beneficiary or beneficiaries.”
+2022—Subsec. (a). Pub. L. 117–313, § 3(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The insured shall have the right to designate the beneficiary or beneficiaries of insurance maturing on or after August 1, 1946, and shall, subject to regulations, at all times have the right to change the beneficiary or beneficiaries of such insurance without the consent of such beneficiary or beneficiaries.”
 
-Subsec. (f)(1)(A). Pub. L. 117–313, § 2(a)(1), substituted “one year” for “two years”.
+Subsec. (f)(1)(A). Pub. L. 117–313, § 2(a)(1), substituted “one year” for “two years”.
 
-Subsec. (f)(1)(B). Pub. L. 117–313, § 2(a)(2), substituted “two years” for “four years”.
+Subsec. (f)(1)(B). Pub. L. 117–313, § 2(a)(2), substituted “two years” for “four years”.
 
 2003—Subsec. (f). Pub. L. 108–183 added subsec. (f).
 
@@ -565,13 +565,13 @@ Subsec. (e). Pub. L. 91–291 added subsec. (e).
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–313, § 2(c), Dec. 27, 2022, 136 Stat. 4399, provided that: “The amendments made by this section [amending this section and section 1952 of this title] shall apply with respect to the death of an insured person occurring on or after the date that is two years before the date of the enactment of this Act [Dec. 27, 2022].”
+Pub. L. 117–313, § 2(c), Dec. 27, 2022, 136 Stat. 4399, provided that: “The amendments made by this section [amending this section and section 1952 of this title] shall apply with respect to the death of an insured person occurring on or after the date that is two years before the date of the enactment of this Act [Dec. 27, 2022].”
 
-Pub. L. 117–313, § 3(c), Dec. 27, 2022, 136 Stat. 4400, provided that: “The amendments made by this section [amending this section and section 1949 of this title] shall apply with respect to the death of an insured person occurring on or after the date that is two years before the date of the enactment of this Act [Dec. 27, 2022].”
+Pub. L. 117–313, § 3(c), Dec. 27, 2022, 136 Stat. 4400, provided that: “The amendments made by this section [amending this section and section 1949 of this title] shall apply with respect to the death of an insured person occurring on or after the date that is two years before the date of the enactment of this Act [Dec. 27, 2022].”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–183, title I, § 103(c), Dec. 16, 2003, 117 Stat. 2655, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1952 of this title] shall take effect on October 1, 2004.”
+Pub. L. 108–183, title I, § 103(c), Dec. 16, 2003, 117 Stat. 2655, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 1952 of this title] shall take effect on October 1, 2004.”
 
 **Effective Date of 1981 Amendment**
 
@@ -583,25 +583,25 @@ Amendment by Pub. L. 91–291 effective first day of first calendar month which 
 
 **Transition Provision**
 
-Pub. L. 108–183, title I, § 103(d), Dec. 16, 2003, 117 Stat. 2655, provided that: “In the case of a person insured under subchapter I or II of chapter 19 of title 38, United States Code, who dies before the effective date of the amendments made by subsections (a) and (b), as specified by subsection (c) [set out as an Effective Date of 2003 Amendment note above], the two-year and four-year periods specified in subsection (f)(1) of section 1917 of title 38, United States Code, as added by subsection (a), and subsection (c)(1) of section 1952 of such title, as added by subsection (b), as applicable, shall for purposes of the applicable subsection be treated as being the two-year and four-year periods, respectively, beginning on the effective date of such amendments, as so specified.”
+Pub. L. 108–183, title I, § 103(d), Dec. 16, 2003, 117 Stat. 2655, provided that: “In the case of a person insured under subchapter I or II of chapter 19 of title 38, United States Code, who dies before the effective date of the amendments made by subsections (a) and (b), as specified by subsection (c) [set out as an Effective Date of 2003 Amendment note above], the two-year and four-year periods specified in subsection (f)(1) of section 1917 of title 38, United States Code, as added by subsection (a), and subsection (c)(1) of section 1952 of such title, as added by subsection (b), as applicable, shall for purposes of the applicable subsection be treated as being the two-year and four-year periods, respectively, beginning on the effective date of such amendments, as so specified.”
 
-### § 1918. Assignments
+### § 1918. Assignments
 
 **(a)** Assignments of all or any part of the beneficiary’s interest may be made by a designated beneficiary to a widow, widower, child, father, mother, grandfather, grandmother, brother, or sister of the insured, when the designated contingent beneficiary, if any, joins the beneficiary in the assignment, and if the assignment is delivered to the Secretary before any payments of the insurance shall have been made to the beneficiary. However, an interest in an annuity, when assigned, shall be payable in equal monthly installments in such multiple of twelve as most nearly equals the number of installments certain under such annuity, or in two hundred and forty installments, whichever is the lesser. The provisions of this subsection shall not be applicable to insurance maturing after July 26, 1962.
 
 **(b)** Except as to insurance granted under the provisions of section 1922(b) of this title, any person to whom insurance maturing after July 26, 1962, is payable may assign all or any portion of such person’s interest in such insurance to a widow, widower, child, father, mother, grandfather, grandmother, brother, or sister of the insured when the designated contingent beneficiary, if any, joins the beneficiary in the assignment. Such joinder shall not be required in any case in which the insurance proceeds are payable in a lump sum.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1153, § 718; Pub. L. 87–557, § 1, July 27, 1962, 76 Stat. 245; Pub. L. 96–128, title III, § 304, Nov. 28, 1979, 93 Stat. 986; Pub. L. 97–295, § 4(24), Oct. 12, 1982, 96 Stat. 1306; renumbered § 1918 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(III), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1153, § 718; Pub. L. 87–557, § 1, July 27, 1962, 76 Stat. 245; Pub. L. 96–128, title III, § 304, Nov. 28, 1979, 93 Stat. 986; Pub. L. 97–295, § 4(24), Oct. 12, 1982, 96 Stat. 1306; renumbered § 1918 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(III), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 718 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 718 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(a)(2)(A)(iii)(III), substituted “Secretary” for “Veterans’ Administration”.
+Subsec. (a). Pub. L. 102–83, § 4(a)(2)(A)(iii)(III), substituted “Secretary” for “Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1922(b)” for “722(b)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1922(b)” for “722(b)”.
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “after July 26, 1962” for “on or after the date of enactment of this sentence”.
 
@@ -617,19 +617,19 @@ Subsec. (b). Pub. L. 97–295 substituted “after July 26, 1982,” for “on o
 
 Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out as a note under section 1114 of this title.
 
-### § 1919. National Service Life Insurance appropriation
+### § 1919. National Service Life Insurance appropriation
 
 **(a)** The National Service Life Insurance appropriation is continued and there is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this chapter and the provisions heretofore prescribed in the National Service Life Insurance Act of 1940, or related Acts, for the payment of liabilities under National Service Life Insurance. Payment from this appropriation shall be made upon and in accordance with awards by the Secretary.
 
 **(b)** All premiums heretofore and hereafter paid on insurance issued or reinstated under section 602(v)(1) of the National Service Life Insurance Act of 1940 where the requirement of good health was waived under such section because of a service-incurred injury or disability shall be credited directly to the National Service Life Insurance appropriation and any payments of benefits heretofore and hereafter made on such insurance shall be made directly from such appropriation.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1154, § 719; Pub. L. 98–160, title VII, § 702(5), Nov. 21, 1983, 97 Stat. 1009; renumbered § 1919 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title III, § 304(a), Nov. 11, 1998, 112 Stat. 3334.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1154, § 719; Pub. L. 98–160, title VII, § 702(5), Nov. 21, 1983, 97 Stat. 1009; renumbered § 1919 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 105–368, title III, § 304(a), Nov. 11, 1998, 112 Stat. 3334.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Service Life Insurance Act of 1940, referred to in subsec. (a), is act Oct. 8, 1940, ch. 757, title VI, part I, 54 Stat. 1008, which was classified generally to chapter 13 (§ 801 et seq.) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this subchapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+The National Service Life Insurance Act of 1940, referred to in subsec. (a), is act Oct. 8, 1940, ch. 757, title VI, part I, 54 Stat. 1008, which was classified generally to chapter 13 (§ 801 et seq.) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this subchapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 Section 602(v)(i) of the National Service Life Insurance Act of 1940, referred to in subsec. (b), is section 602(v)(1) of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(v)(1) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 715 [now 1915] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
@@ -645,9 +645,9 @@ Section 602(v)(i) of the National Service Life Insurance Act of 1940, referred t
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title III, § 304(b), Nov. 11, 1998, 112 Stat. 3334, provided that: “The amendments made by this section [amending this section] shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act [Nov. 11, 1998].”
+Pub. L. 105–368, title III, § 304(b), Nov. 11, 1998, 112 Stat. 3334, provided that: “The amendments made by this section [amending this section] shall take effect at the end of the 90-day period beginning on the date of the enactment of this Act [Nov. 11, 1998].”
 
-### § 1920. National Service Life Insurance Fund
+### § 1920. National Service Life Insurance Fund
 
 **(a)** The National Service Life Insurance Fund heretofore created in the Treasury is continued as a permanent trust fund. Except as otherwise provided in this chapter, all premiums paid on account of National Service Life Insurance shall be deposited and covered into the Treasury to the credit of such fund, which, together with interest earned thereon, shall be available for the payment of liabilities under such insurance, including payment of dividends and refunds of unearned premiums, and for the reimbursement of administrative costs under subsection (c). Payments from this fund shall be made upon and in accordance with awards by the Secretary.
 
@@ -661,7 +661,7 @@ Pub. L. 105–368, title III, § 304(b), Nov. 11, 1998, 112 Stat. 3334, provid
 
 **(3)** This subsection shall be in effect only with respect to fiscal year 1996.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1154, § 720; renumbered § 1920 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, § 201(b), Jan. 26, 1996, 110 Stat. 36.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1154, § 720; renumbered § 1920 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, § 201(b), Jan. 26, 1996, 110 Stat. 36.)
 
 **Editorial Notes**
 
@@ -671,13 +671,13 @@ Amendment by Pub. L. 104–99 is based on section 107(1) of H.R. 2099, One Hundr
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–99 inserted “, and for the reimbursement of administrative costs under subsection (c)” after “unearned premiums”.
+1996—Subsec. (a). Pub. L. 104–99 inserted “, and for the reimbursement of administrative costs under subsection (c)” after “unearned premiums”.
 
 Subsec. (c). Pub. L. 104–99 added subsec. (c).
 
 1991—Pub. L. 102–83 renumbered section 720 of this title as this section and substituted “Secretary” for “Administrator” in two places.
 
-### § 1921. Extra hazard costs
+### § 1921. Extra hazard costs
 
 **(a)** The United States shall bear the excess mortality cost and the cost of waiver of premiums on account of total disability traceable to the extra hazard of military or naval service, as such hazard may be determined by the Secretary.
 
@@ -689,19 +689,19 @@ Subsec. (c). Pub. L. 104–99 added subsec. (c).
 
 **(e)** Any disability for which a waiver was required as a condition to tendering a person a commission under Public Law 816, Seventy-seventh Congress, shall be deemed to be a disability resulting from an injury or disease traceable to the extra hazard of military or naval service for the purpose of applying this section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1154, § 721; renumbered § 1921 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1154, § 721; renumbered § 1921 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 816, Seventy-seventh Congress, referred to in subsec. (e), is act Dec. 18, 1942, ch. 768, §§ 1, 2, 56 Stat. 1066. Section 1 of that Act enacted section 853c–5 of former Title 34, Navy, and was repealed by act July 9, 1952, ch. 608, pt. VIII, § 803, 66 Stat. 505. Section 2 of that Act enacted section 853c–6 of former Title 34, and was omitted from the Code in the general revision and reenactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
+Public Law 816, Seventy-seventh Congress, referred to in subsec. (e), is act Dec. 18, 1942, ch. 768, §§ 1, 2, 56 Stat. 1066. Section 1 of that Act enacted section 853c–5 of former Title 34, Navy, and was repealed by act July 9, 1952, ch. 608, pt. VIII, § 803, 66 Stat. 505. Section 2 of that Act enacted section 853c–6 of former Title 34, and was omitted from the Code in the general revision and reenactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
 
 **Amendments**
 
 1991—Pub. L. 102–83 renumbered section 721 of this title as this section and substituted “Secretary” for “Administrator” wherever appearing in subsecs. (a) to (d).
 
-### § 1922. Legacy service disabled veterans’ insurance
+### § 1922. Legacy service disabled veterans’ insurance
 
 **(a)** Any person who is released from active military, naval, air, or space service, under other than dishonorable conditions on or after April 25, 1951, and is found by the Secretary to be suffering from a disability or disabilities for which compensation would be payable if 10 per centum or more in degree and except for which such person would be insurable according to the standards of good health established by the Secretary, shall, upon application in writing made within two years from the date service-connection of such disability is determined by the Secretary and payment of premiums as provided in this subchapter, be granted insurance by the United States against the death of such person occurring while such insurance is in force. If such a person is shown by evidence satisfactory to the Secretary to have been mentally incompetent during any part of the two-year period, application for insurance under this section may be filed within two years after a guardian is appointed or within two years after the removal of such disability as determined by the Secretary, whichever is the earlier date. If the guardian was appointed or the removal of the disability occurred before January 1, 1959, application for insurance under this section may be made within two years after that date. Insurance granted under this section shall be issued upon the same terms and conditions as are contained in the standard policies of National Service Life Insurance except (1) the premium rates for such insurance shall be based on the Commissioners 1941 Standard Ordinary Table of Mortality and interest at the rate of 2¼ per centum per annum; (2) all cash, loan, paid-up, and extended values shall be based upon the Commissioners 1941 Standard Ordinary Table of Mortality and interest at the rate of 2¼ per centum per annum; (3) all settlements on policies involving annuities shall be calculated on the basis of The Annuity Table for 1949, and interest at the rate of 2¼ per centum per annum; (4) insurance granted under this section shall be on a nonparticipating basis and all premiums and other collections therefor shall be credited directly to a revolving fund in the Treasury of the United States, and any payments on such insurance shall be made directly from such fund; and (5) administrative support financed by the appropriations for “General Operating Expenses, Department of Veterans Affairs” and “Information Technology Systems, Department of Veterans Affairs” for the program of insurance under this section shall be paid from premiums credited to the fund under paragraph (4), and payments for claims against the fund under paragraph (4) for amounts in excess of amounts credited to such fund under that paragraph (after such administrative costs have been paid) shall be paid from appropriations to the fund. Appropriations to such fund are hereby authorized. As to insurance issued under this section, waiver of premiums pursuant to section 602(n) of the National Service Life Insurance Act of 1940 and section 1912 of this title shall not be denied on the ground that the service-connected disability became total before the effective date of such insurance.
 
@@ -739,7 +739,7 @@ Public Law 816, Seventy-seventh Congress, referred to in subsec. (e), is act Dec
 
 **(3)** Except as provided by paragraph (2)(B), a veteran may not be insured under this section and section 1922B simultaneously.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1155, § 722; renumbered § 1922 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(IV), (D)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title II, §§ 201(a), 202(a), Aug. 14, 1991, 105 Stat. 415, 416; Pub. L. 103–446, title XII, § 1201(i)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 106–419, title III, § 311(a), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 110–389, title IV, § 404, Oct. 10, 2008, 122 Stat. 4175; Pub. L. 111–117, div. E, title II, § 226, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 116–283, div. A, title IX, § 926(a)(32), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, § 2004(b)(1), (c)(1), Jan. 5, 2021, 134 Stat. 4974.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1155, § 722; renumbered § 1922 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(IV), (D)(i), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–86, title II, §§ 201(a), 202(a), Aug. 14, 1991, 105 Stat. 415, 416; Pub. L. 103–446, title XII, § 1201(i)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 106–419, title III, § 311(a), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 110–389, title IV, § 404, Oct. 10, 2008, 122 Stat. 4175; Pub. L. 111–117, div. E, title II, § 226, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 116–283, div. A, title IX, § 926(a)(32), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, § 2004(b)(1), (c)(1), Jan. 5, 2021, 134 Stat. 4974.)
 
 **Editorial Notes**
 
@@ -747,15 +747,15 @@ Public Law 816, Seventy-seventh Congress, referred to in subsec. (e), is act Dec
 
 Section 602(n) of the National Service Life Insurance Act of 1940, referred to in subsec. (a), is section 602(n) of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(n) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 712 [now 1912] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
-Section 620 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), is section 620 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Section 620 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), is section 620 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which enacted section 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 **Amendments**
 
-2021—Pub. L. 116–315, § 2004(c)(1), substituted “Legacy service” for “Service” in section catchline.
+2021—Pub. L. 116–315, § 2004(c)(1), substituted “Legacy service” for “Service” in section catchline.
 
 Subsec. (a). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-Subsec. (d). Pub. L. 116–315, § 2004(b)(1), added subsec. (d).
+Subsec. (d). Pub. L. 116–315, § 2004(b)(1), added subsec. (d).
 
 2009—Subsec. (a)(5). Pub. L. 111–117 substituted “administrative support financed by the appropriations for ‘General Operating Expenses, Department of Veterans Affairs’ and ‘Information Technology Systems, Department of Veterans Affairs’ for” for “administrative costs to the Government for the costs of”.
 
@@ -765,41 +765,41 @@ Subsec. (d). Pub. L. 116–315, § 2004(b)(1), added subsec. (d).
 
 1994—Subsec. (b)(4). Pub. L. 103–446 substituted “Notwithstanding section 1917 of this title,” for “Notwithstanding the provisions of section 1917 of this title,”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 722 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 722 of this title as this section.
 
-Subsec. (a). Pub. L. 102–86, § 201(a), amended subsec. (a) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “two years” for “one year” wherever appearing and “two-year” for “one-year”.
+Subsec. (a). Pub. L. 102–86, § 201(a), amended subsec. (a) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “two years” for “one year” wherever appearing and “two-year” for “one-year”.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1912” for “712”.
+Pub. L. 102–83, § 5(c)(1), substituted “1912” for “712”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in four places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in four places.
 
-Pub. L. 102–83, § 4(a)(2)(A)(iii)(IV), substituted “Secretary” for “Veterans’ Administration” after first reference to “determined by the”.
+Pub. L. 102–83, § 4(a)(2)(A)(iii)(IV), substituted “Secretary” for “Veterans’ Administration” after first reference to “determined by the”.
 
-Subsec. (b)(1). Pub. L. 102–86, § 201(a), amended subsec. (b)(1) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “two-year” for “one-year” and “two years” for “one year”.
+Subsec. (b)(1). Pub. L. 102–86, § 201(a), amended subsec. (b)(1) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by substituting “two-year” for “one-year” and “two years” for “one year”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(2)(A)(iii)(IV), substituted “Secretary” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(2)(A)(iii)(IV), substituted “Secretary” for “Veterans’ Administration” in two places.
 
-Subsec. (b)(3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (b)(3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(2)(D)(i), substituted “with the Secretary” for “in the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(2)(D)(i), substituted “with the Secretary” for “in the Veterans’ Administration”.
 
-Subsec. (b)(4). Pub. L. 102–86, § 202(a)(1), amended subsec. (b) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by amending par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding the provisions of section 717 of this title, insurance under this subsection shall be payable at the election of the first beneficiary in 240 equal monthly installments or under the options specified in section 717(b)(3) or (4) of this title. Any installments certain of insurance remaining unpaid at the death of any beneficiary shall be paid in equal monthly installments in an amount equal to the monthly installments paid to the first beneficiary, to the person or persons then in being within the classes specified in subsection (b)(2) of this section and in the order named.”
+Subsec. (b)(4). Pub. L. 102–86, § 202(a)(1), amended subsec. (b) of this section as in effect before the redesignations made by Pub. L. 102–83, § 5, by amending par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding the provisions of section 717 of this title, insurance under this subsection shall be payable at the election of the first beneficiary in 240 equal monthly installments or under the options specified in section 717(b)(3) or (4) of this title. Any installments certain of insurance remaining unpaid at the death of any beneficiary shall be paid in equal monthly installments in an amount equal to the monthly installments paid to the first beneficiary, to the person or persons then in being within the classes specified in subsection (b)(2) of this section and in the order named.”
 
-Pub. L. 102–83, § 5(c)(1), amended par. (4) as amended by Pub. L. 102–86, § 202(a)(1), by substituting “1917” for “717”. See above.
+Pub. L. 102–83, § 5(c)(1), amended par. (4) as amended by Pub. L. 102–86, § 202(a)(1), by substituting “1917” for “717”. See above.
 
-Subsec. (b)(5). Pub. L. 102–86, § 202(a)(2), amended subsec. (b) of this section as in effect before the redesignations by Pub. L. 102–83, § 5, by striking out par. (5) which read as follows: “The right of any beneficiary to payment of any installments shall be conditioned upon his or her being alive to receive such payments. No person shall have a vested right to any installment or installments of any such insurance and any installments not paid to a beneficiary during such beneficiary’s lifetime shall be paid to the beneficiary or beneficiaries within the permitted class next entitled to priority, as provided in subsection (b)(2) of this section. No installments of such insurance shall be paid to the heirs or legal representatives as such of the insured or of any beneficiary, and if no person within the permitted class survives to receive the insurance or any part thereof no payment of the unpaid installments shall be made.”
+Subsec. (b)(5). Pub. L. 102–86, § 202(a)(2), amended subsec. (b) of this section as in effect before the redesignations by Pub. L. 102–83, § 5, by striking out par. (5) which read as follows: “The right of any beneficiary to payment of any installments shall be conditioned upon his or her being alive to receive such payments. No person shall have a vested right to any installment or installments of any such insurance and any installments not paid to a beneficiary during such beneficiary’s lifetime shall be paid to the beneficiary or beneficiaries within the permitted class next entitled to priority, as provided in subsection (b)(2) of this section. No installments of such insurance shall be paid to the heirs or legal representatives as such of the insured or of any beneficiary, and if no person within the permitted class survives to receive the insurance or any part thereof no payment of the unpaid installments shall be made.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–86, title II, § 201(b), Aug. 14, 1991, 105 Stat. 415, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any person who, on or after September 1, 1991, is found by the Secretary of Veterans Affairs to be eligible for insurance under section 722 [now 1922] of title 38, United States Code.”
+Pub. L. 102–86, title II, § 201(b), Aug. 14, 1991, 105 Stat. 415, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any person who, on or after September 1, 1991, is found by the Secretary of Veterans Affairs to be eligible for insurance under section 722 [now 1922] of title 38, United States Code.”
 
-Pub. L. 102–86, title II, § 202(b), Aug. 14, 1991, 105 Stat. 416, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to deaths occurring before, on, or after the date of the enactment of this Act [Aug. 14, 1991]. In the case of insurance under section 722(b) [now 1922(b)] of title 38, United States Code, payable by reason of a death before the date of the enactment of this Act, the Secretary shall pay the remaining balance of such insurance in a lump sum as soon as practicable after the date of the enactment of this Act.”
+Pub. L. 102–86, title II, § 202(b), Aug. 14, 1991, 105 Stat. 416, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to deaths occurring before, on, or after the date of the enactment of this Act [Aug. 14, 1991]. In the case of insurance under section 722(b) [now 1922(b)] of title 38, United States Code, payable by reason of a death before the date of the enactment of this Act, the Secretary shall pay the remaining balance of such insurance in a lump sum as soon as practicable after the date of the enactment of this Act.”
 
-### § 1922A. Legacy supplemental service disabled veterans’ insurance for totally disabled veterans
+### § 1922A. Legacy supplemental service disabled veterans’ insurance for totally disabled veterans
 
 **(a)** Any person insured under section 1922(a) of this title who qualifies for a waiver of premiums under section 1912 of this title is eligible, as provided in this section, for supplemental insurance in an amount not to exceed $30,000.
 
@@ -809,15 +809,15 @@ Pub. L. 102–86, title II, § 202(b), Aug. 14, 1991, 105 Stat. 416, provided 
 
 **(d)** No waiver of premiums shall be made in the case of any person for supplemental insurance granted under this section.
 
-(Added Pub. L. 102–568, title II, § 203(a), Oct. 29, 1992, 106 Stat. 4324; amended Pub. L. 103–446, title XII, § 1201(f)(1), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 111–275, title IV, § 401(a), Oct. 13, 2010, 124 Stat. 2879; Pub. L. 116–315, title II, § 2004(b)(2), (c)(2), Jan. 5, 2021, 134 Stat. 4974.)
+(Added Pub. L. 102–568, title II, § 203(a), Oct. 29, 1992, 106 Stat. 4324; amended Pub. L. 103–446, title XII, § 1201(f)(1), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 111–275, title IV, § 401(a), Oct. 13, 2010, 124 Stat. 2879; Pub. L. 116–315, title II, § 2004(b)(2), (c)(2), Jan. 5, 2021, 134 Stat. 4974.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–315, § 2004(c)(2), substituted “Legacy supplemental” for “Supplemental” in section catchline.
+2021—Pub. L. 116–315, § 2004(c)(2), substituted “Legacy supplemental” for “Supplemental” in section catchline.
 
-Subsec. (b). Pub. L. 116–315, § 2004(b)(2), inserted at end “The Secretary may not accept any such application after December 31, 2022. Except as provided by section 1922(d)(2)(B), a veteran may not have supplemental insurance under this section and be insured under section 1922B simultaneously.”
+Subsec. (b). Pub. L. 116–315, § 2004(b)(2), inserted at end “The Secretary may not accept any such application after December 31, 2022. Except as provided by section 1922(d)(2)(B), a veteran may not have supplemental insurance under this section and be insured under section 1922B simultaneously.”
 
 2010—Subsec. (a). Pub. L. 111–275 substituted “$30,000” for “$20,000”.
 
@@ -827,13 +827,13 @@ Subsec. (b). Pub. L. 116–315, § 2004(b)(2), inserted at end “The Secretar
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title IV, § 401(b), Oct. 13, 2010, 124 Stat. 2879, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2011.”
+Pub. L. 111–275, title IV, § 401(b), Oct. 13, 2010, 124 Stat. 2879, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2011.”
 
 **Effective Date**
 
-Pub. L. 102–568, title II, § 205, Oct. 29, 1992, 106 Stat. 4325, provided that: “The amendments made by this title [enacting this section and amending sections 1967, 1977, and 2106 of this title] shall take effect on December 1, 1992.”
+Pub. L. 102–568, title II, § 205, Oct. 29, 1992, 106 Stat. 4325, provided that: “The amendments made by this title [enacting this section and amending sections 1967, 1977, and 2106 of this title] shall take effect on December 1, 1992.”
 
-### § 1922B. Service-disabled veterans insurance
+### § 1922B. Service-disabled veterans insurance
 
 **(a) Insurance.—**
 
@@ -987,9 +987,9 @@ Pub. L. 102–568, title II, § 205, Oct. 29, 1992, 106 Stat. 4325, provided t
 
 **(5)** Any payment under this subsection shall be a bar to recovery by any other person.
 
-(Added Pub. L. 116–315, title II, § 2004(a)(1), Jan. 5, 2021, 134 Stat. 4970.)
+(Added Pub. L. 116–315, title II, § 2004(a)(1), Jan. 5, 2021, 134 Stat. 4970.)
 
-### § 1923. Veterans’ Special Life Insurance
+### § 1923. Veterans’ Special Life Insurance
 
 **(a)** Insurance heretofore granted under the provisions of section 621 of the National Service Life Insurance Act of 1940, against the death of the policyholder occurring while such insurance is in force, is subject to the same terms and conditions as are contained in standard policies of National Service Life Insurance on the five-year level premium term plan except (1) such insurance may not be exchanged for or converted to insurance on any other plan; (2) the premium rates for such insurance shall be based on the Commissioners 1941 Standard Ordinary Table of Mortality and interest at the rate of 2¼ per centum per annum; (3) all settlements on policies involving annuities shall be calculated on the basis of The Annuity Table for 1949, and interest at the rate of 2¼ per centum per annum; (4) all premiums and other collections on such insurance and any total disability provisions added thereto shall be credited to a revolving fund in the Treasury of the United States, which, together with interest earned thereon, shall be available for the payment of liabilities under such insurance and any total disability provisions added thereto, including payments of dividends and refunds of unearned premiums, and for the reimbursement of administrative costs under subsection (d).
 
@@ -1005,13 +1005,13 @@ Pub. L. 102–568, title II, § 205, Oct. 29, 1992, 106 Stat. 4325, provided t
 
 **(3)** This subsection shall be in effect only with respect to fiscal year 1996.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1157, § 723; Pub. L. 85–896, Sept. 2, 1958, 72 Stat. 1716; Pub. L. 87–223, Sept. 13, 1961, 75 Stat. 495; Pub. L. 93–289, § 2(a), May 24, 1974, 88 Stat. 165; renumbered § 1923 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(C), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, § 201(b), Jan. 26, 1996, 110 Stat. 36.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1157, § 723; Pub. L. 85–896, Sept. 2, 1958, 72 Stat. 1716; Pub. L. 87–223, Sept. 13, 1961, 75 Stat. 495; Pub. L. 93–289, § 2(a), May 24, 1974, 88 Stat. 165; renumbered § 1923 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(C), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, § 201(b), Jan. 26, 1996, 110 Stat. 36.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 621 of the National Service Life Insurance Act of 1940, referred to in subsecs. (a) and (b), is section 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which enacted section 822 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Section 621 of the National Service Life Insurance Act of 1940, referred to in subsecs. (a) and (b), is section 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which enacted section 822 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 **Codification**
 
@@ -1019,37 +1019,37 @@ Amendment by Pub. L. 104–99 is based on section 107(2) of H.R. 2099, One Hundr
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–99 inserted “, and for the reimbursement of administrative costs under subsection (d)” before period at end.
+1996—Subsec. (a). Pub. L. 104–99 inserted “, and for the reimbursement of administrative costs under subsection (d)” before period at end.
 
 Subsec. (d). Pub. L. 104–99 added subsec. (d).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 723 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 723 of this title as this section.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(2)(C), substituted “two Secretaries” for “Administrator and Secretary”.
+Subsec. (c). Pub. L. 102–83, § 4(b)(2)(C), substituted “two Secretaries” for “Administrator and Secretary”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “The”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “The”.
 
-1974—Pub. L. 93–289, § 2(a)(1), substituted “Veterans’ Special Life Insurance” for “Veterans’ special term insurance” in section catchline.
+1974—Pub. L. 93–289, § 2(a)(1), substituted “Veterans’ Special Life Insurance” for “Veterans’ special term insurance” in section catchline.
 
-Subsec. (a). Pub. L. 93–289, § 2(a)(2), substituted “all premiums and other collections on such insurance and any total disability provisions added thereto shall be credited to a revolving fund in the Treasury of the United States, which, together with interest earned thereof, shall be available for the payment of liabilities under such insurance and any total disability provisions added thereto, including payments of dividends and refunds of unearned premiums” for “such insurance and any total disability provision added thereto shall be on a nonparticipating basis and all premiums and other collections therefor shall be credited to a revolving fund in the Treasury of the United States and the payments on such term insurance and any total disability provision added thereto shall be made directly from such fund” in cl. (4).
+Subsec. (a). Pub. L. 93–289, § 2(a)(2), substituted “all premiums and other collections on such insurance and any total disability provisions added thereto shall be credited to a revolving fund in the Treasury of the United States, which, together with interest earned thereof, shall be available for the payment of liabilities under such insurance and any total disability provisions added thereto, including payments of dividends and refunds of unearned premiums” for “such insurance and any total disability provision added thereto shall be on a nonparticipating basis and all premiums and other collections therefor shall be credited to a revolving fund in the Treasury of the United States and the payments on such term insurance and any total disability provision added thereto shall be made directly from such fund” in cl. (4).
 
-Subsec. (b). Pub. L. 93–289, § 2(a)(3), substituted “all premiums and other collections on insurance issued under this subsection and any total disability income provisions added thereto shall be credited directly to the revolving fund referred to in subsection (a) of this section, which together with interest earned thereon, shall be available for the payment of liabilities under such insurance and any total disability provisions added thereto, including payments of dividends and refunds of unearned premiums” for “insurance and any total disability provision added thereto issued under this subsection shall be on a nonparticipating basis and all premiums and other collections therefor shall be credited directly to the revolving fund referred to in subsection (a) and payments on such insurance and any total disability provision added thereto shall be made directly from such fund” in cl. (5).
+Subsec. (b). Pub. L. 93–289, § 2(a)(3), substituted “all premiums and other collections on insurance issued under this subsection and any total disability income provisions added thereto shall be credited directly to the revolving fund referred to in subsection (a) of this section, which together with interest earned thereon, shall be available for the payment of liabilities under such insurance and any total disability provisions added thereto, including payments of dividends and refunds of unearned premiums” for “insurance and any total disability provision added thereto issued under this subsection shall be on a nonparticipating basis and all premiums and other collections therefor shall be credited directly to the revolving fund referred to in subsection (a) and payments on such insurance and any total disability provision added thereto shall be made directly from such fund” in cl. (5).
 
-Subsecs. (d), (e). Pub. L. 93–289, § 2(a)(4), repealed subsecs. (d) and (e) which related to the payment of dividends from the excess funds in the revolving fund, and to the transfer of funds from the revolving fund to general fund receipts in the Treasury.
+Subsecs. (d), (e). Pub. L. 93–289, § 2(a)(4), repealed subsecs. (d) and (e) which related to the payment of dividends from the excess funds in the revolving fund, and to the transfer of funds from the revolving fund to general fund receipts in the Treasury.
 
 1961—Subsecs. (d), (e). Pub. L. 87–223 added subsecs. (d) and (e).
 
-1958—Subsec. (b). Pub. L. 85–896, § 1(2), added subsec. (b). Former subsec. (b) redesignated (c).
+1958—Subsec. (b). Pub. L. 85–896, § 1(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 85–896, § 1(1), redesignated former subsec. (b) as (c) and substituted “equal to the rate of interest, computed as of the end of the month preceding the date of issue of such obligations, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt that are not due or callable until after the expiration of five years from the date of original issue; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest of such obligations shall be the multiple of one-eighth of 1 per centum nearest such average rate” for “not exceeding the average interest rate on all marketable obligations of the United States Treasury outstanding as of the end of the month preceding the date of issue of this special obligation”.
+Subsec. (c). Pub. L. 85–896, § 1(1), redesignated former subsec. (b) as (c) and substituted “equal to the rate of interest, computed as of the end of the month preceding the date of issue of such obligations, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt that are not due or callable until after the expiration of five years from the date of original issue; except that where such average rate is not a multiple of one-eighth of 1 per centum, the rate of interest of such obligations shall be the multiple of one-eighth of 1 per centum nearest such average rate” for “not exceeding the average interest rate on all marketable obligations of the United States Treasury outstanding as of the end of the month preceding the date of issue of this special obligation”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–289, § 12(1), May 24, 1974, 88 Stat. 173, provided that: “The amendments made by section 2 [amending this section], relating to Veterans’ Special Life Insurance, shall become effective upon the date of enactment of this Act [May 24, 1974] except that no dividend on such insurance shall be paid prior to January 1, 1974.”
+Pub. L. 93–289, § 12(1), May 24, 1974, 88 Stat. 173, provided that: “The amendments made by section 2 [amending this section], relating to Veterans’ Special Life Insurance, shall become effective upon the date of enactment of this Act [May 24, 1974] except that no dividend on such insurance shall be paid prior to January 1, 1974.”
 
-### § 1924. In-service waiver of premiums
+### § 1924. In-service waiver of premiums
 
 **(a)** Waiver of all premiums on five-year level premium term insurance and that portion of any permanent insurance premiums representing the cost of the pure insurance risk, as determined by the Secretary, granted on National Service Life Insurance or United States Government life insurance under section 622 of the National Service Life Insurance Act of 1940 and in effect on January 1, 1959, shall, unless canceled, continue in effect according to the provisions of such section for the remainder of the insured’s continuous active service and for one hundred and twenty days thereafter. Such premium waiver renders the contract of insurance nonparticipating during the period the waiver is in effect.
 
@@ -1057,15 +1057,15 @@ Pub. L. 93–289, § 12(1), May 24, 1974, 88 Stat. 173, provided that: “The 
 
 **(c)** In any case in which insurance continued in force under this section matures on or after January 1, 1972, an amount equal to the amount of premiums, less dividends, waived on and after that date shall be placed as an indebtedness against the insurance and, unless otherwise paid, shall be deducted from the proceeds. In such case, the liability of the Government under subsection (b) of this section shall be reduced by the amount so deducted from the proceeds.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1157, § 724; Pub. L. 92–197, § 7, Dec. 15, 1971, 85 Stat. 662; renumbered § 1924 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1157, § 724; Pub. L. 92–197, § 7, Dec. 15, 1971, 85 Stat. 662; renumbered § 1924 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 622 of the National Service Life Insurance Act of 1940, referred to in subsec. (a), is section 622 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which enacted section 823 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Section 622 of the National Service Life Insurance Act of 1940, referred to in subsec. (a), is section 622 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which enacted section 823 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
-Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b), are sections 620 and 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which enacted sections 821 and 822 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which were repealed and reenacted as sections 722 and 723 [now 1922 and 1923], respectively, of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b), are sections 620 and 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, § 10, 65 Stat. 36, which enacted sections 821 and 822 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which were repealed and reenacted as sections 722 and 723 [now 1922 and 1923], respectively, of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 **Amendments**
 
@@ -1079,7 +1079,7 @@ Sections 620 and 621 of the National Service Life Insurance Act of 1940, referre
 
 Amendment by Pub. L. 92–197 effective Jan. 1, 1972, see section 10 of Pub. L. 92–197, set out as a note under section 1311 of this title.
 
-### § 1925. Limited period for acquiring insurance
+### § 1925. Limited period for acquiring insurance
 
 **(a)** Any person (other than a person referred to in subsection (f) of this section) heretofore eligible to apply for National Service Life Insurance after October 7, 1940, and before January 1, 1957, who is found by the Secretary to be suffering (1) from a service-connected disability or disabilities for which compensation would be payable if 10 percent or more in degree and except for which such person would be insurable according to the standards of good health established by the Secretary; or (2) from a non-service-connected disability which renders such person uninsurable according to the standards of good health established by the Secretary and such person establishes to the satisfaction of the Secretary that such person is unable to obtain commercial life insurance at a substandard rate, shall, upon application in writing made before May 2, 1966, compliance with the health requirements of this section and payment of the required premiums, be granted insurance under this section.
 
@@ -1099,53 +1099,53 @@ Amendment by Pub. L. 92–197 effective Jan. 1, 1972, see section 10 of Pub. L. 
 
 **(f)** No insurance shall be granted under this section to any person referred to in section 107 of this title or to any person while on active duty or active duty for training under a call or order to such duty for a period of thirty-one days or more.
 
-(Added Pub. L. 88–664, § 12(a), Oct. 13, 1964, 78 Stat. 1096, § 725; amended Pub. L. 89–40, June 14, 1965, 79 Stat. 130; Pub. L. 96–128, title III, § 301, Nov. 28, 1979, 93 Stat. 985; Pub. L. 97–295, § 4(25), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, § 701(28), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1925 and amended Pub. L. 102–83, §§ 4(a)(2)(B)(ii), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 111–117, div. E, title II, § 225, Dec. 16, 2009, 123 Stat. 3307.)
+(Added Pub. L. 88–664, § 12(a), Oct. 13, 1964, 78 Stat. 1096, § 725; amended Pub. L. 89–40, June 14, 1965, 79 Stat. 130; Pub. L. 96–128, title III, § 301, Nov. 28, 1979, 93 Stat. 985; Pub. L. 97–295, § 4(25), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–576, title VII, § 701(28), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1925 and amended Pub. L. 102–83, §§ 4(a)(2)(B)(ii), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 111–117, div. E, title II, § 225, Dec. 16, 2009, 123 Stat. 3307.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2009—Subsec. (d)(3). Pub. L. 111–117 substituted “appropriations for ‘General Operating Expenses and Information Technology Systems, Department of Veterans Affairs’ ” for “appropriation ‘General Operating Expenses, Department of Veterans Affairs’ ”.
+2009—Subsec. (d)(3). Pub. L. 111–117 substituted “appropriations for ‘General Operating Expenses and Information Technology Systems, Department of Veterans Affairs’ ” for “appropriation ‘General Operating Expenses, Department of Veterans Affairs’ ”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 725 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 725 of this title as this section.
 
-Subsecs. (a) to (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (a) to (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1982” for “782” in par. (3).
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1982” for “782” in par. (3).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing in pars. (1) to (3).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing in pars. (1) to (3).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for first reference to “Veterans’ Administration” in par. (3).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for first reference to “Veterans’ Administration” in par. (3).
 
-Pub. L. 102–83, § 4(a)(2)(B)(ii), substituted “Department of Veterans Affairs” for second reference to “Veterans’ Administration” in par. (3).
+Pub. L. 102–83, § 4(a)(2)(B)(ii), substituted “Department of Veterans Affairs” for second reference to “Veterans’ Administration” in par. (3).
 
-Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1982” for “782”.
+Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1982” for “782”.
 
-1986—Subsecs. (a), (b). Pub. L. 99–576, § 701(28)(A), substituted “such person” for “he”.
+1986—Subsecs. (a), (b). Pub. L. 99–576, § 701(28)(A), substituted “such person” for “he”.
 
-Subsec. (c). Pub. L. 99–576, § 701(28)(A), (B), substituted “the applicant” for “him” in two places, and “such person” for “he”.
+Subsec. (c). Pub. L. 99–576, § 701(28)(A), (B), substituted “the applicant” for “him” in two places, and “such person” for “he”.
 
-Subsec. (d)(3). Pub. L. 99–576, § 701(28)(C), substituted “the Administrator’s” for “his”.
+Subsec. (d)(3). Pub. L. 99–576, § 701(28)(C), substituted “the Administrator’s” for “his”.
 
-1982—Subsec. (a). Pub. L. 97–295, § 4(25), substituted “percent” for “per centum”, and substituted “before May 2, 1966” for “within one year after the effective date of this section”.
+1982—Subsec. (a). Pub. L. 97–295, § 4(25), substituted “percent” for “per centum”, and substituted “before May 2, 1966” for “within one year after the effective date of this section”.
 
-Subsecs. (b), (c), (d)(2). Pub. L. 97–295, § 4(25)(A), substituted “percent” for “per centum” wherever appearing.
+Subsecs. (b), (c), (d)(2). Pub. L. 97–295, § 4(25)(A), substituted “percent” for “per centum” wherever appearing.
 
-1979—Subsec. (b). Pub. L. 96–128, § 301(a), struck out cl. (8) which required the insurance and any attached total disability income provision to be on a nonparticipatory basis.
+1979—Subsec. (b). Pub. L. 96–128, § 301(a), struck out cl. (8) which required the insurance and any attached total disability income provision to be on a nonparticipatory basis.
 
-Subsec. (c). Pub. L. 96–128, § 301(b), struck out cl. (4) which required the insurance and any attached total disability income provision to be on a nonparticipatory basis, and redesignated former cls. (5) to (7) as (4) to (6), respectively.
+Subsec. (c). Pub. L. 96–128, § 301(b), struck out cl. (4) which required the insurance and any attached total disability income provision to be on a nonparticipatory basis, and redesignated former cls. (5) to (7) as (4) to (6), respectively.
 
-Subsec. (d)(1). Pub. L. 96–128, § 301(c), inserted provisions respecting payments of dividends and refunds of unearned premiums from the fund, and interest earned on the assets of the fund.
+Subsec. (d)(1). Pub. L. 96–128, § 301(c), inserted provisions respecting payments of dividends and refunds of unearned premiums from the fund, and interest earned on the assets of the fund.
 
-1965—Subsec. (b). Pub. L. 89–40, § 1(1), struck out provision from cl. (8) which called for all premiums and other collections for insurance granted under this section to be credited to a revolving fund established in the Treasury of the United States and for payment on such insurance or total disability income provisions to be made directly from that fund.
+1965—Subsec. (b). Pub. L. 89–40, § 1(1), struck out provision from cl. (8) which called for all premiums and other collections for insurance granted under this section to be credited to a revolving fund established in the Treasury of the United States and for payment on such insurance or total disability income provisions to be made directly from that fund.
 
-Subsec. (c). Pub. L. 89–40, § 1(2), struck out cl. (8) which provided that all premiums and other collections on the insurance and any total disability income provision attached thereto should be credited to the National Service Life Insurance appropriation, and the payments on such insurance and total disability income provisions should be made directly from such appropriations, and struck out sentence which authorized necessary appropriations.
+Subsec. (c). Pub. L. 89–40, § 1(2), struck out cl. (8) which provided that all premiums and other collections on the insurance and any total disability income provision attached thereto should be credited to the National Service Life Insurance appropriation, and the payments on such insurance and total disability income provisions should be made directly from such appropriations, and struck out sentence which authorized necessary appropriations.
 
-Subsec. (d)(1). Pub. L. 89–40, § 1(3), struck out provisions authorizing appropriations to carry out the purposes of subsec. (b) of this section by adding to the revolving fund as needed at interest to be determined by the Secretary of the Treasury, and substituted therefor provisions requiring credit to Veterans Reopened Insurance Fund of all premiums and collections on insurance issued pursuant to this section and disbursements from that fund of all payments on insurance and total disability provisions attached thereto, separate determination for actuarial purposes of the various insured groups under this section, transfer to fund from Veterans Special Term Insurance Fund to provide initial capital of excess funds not exceeding $1,650,000, and repayment over a reasonable time at interest to be determined by the Secretary of the Treasury.
+Subsec. (d)(1). Pub. L. 89–40, § 1(3), struck out provisions authorizing appropriations to carry out the purposes of subsec. (b) of this section by adding to the revolving fund as needed at interest to be determined by the Secretary of the Treasury, and substituted therefor provisions requiring credit to Veterans Reopened Insurance Fund of all premiums and collections on insurance issued pursuant to this section and disbursements from that fund of all payments on insurance and total disability provisions attached thereto, separate determination for actuarial purposes of the various insured groups under this section, transfer to fund from Veterans Special Term Insurance Fund to provide initial capital of excess funds not exceeding $1,650,000, and repayment over a reasonable time at interest to be determined by the Secretary of the Treasury.
 
-Subsec. (d)(2). Pub. L. 89–40, § 1(4), struck out reference to subsec. (b) of this section.
+Subsec. (d)(2). Pub. L. 89–40, § 1(4), struck out reference to subsec. (b) of this section.
 
-Subsec. (d)(3). Pub. L. 89–40, § 1(5), struck out reference to National Service Life Insurance appropriation.
+Subsec. (d)(3). Pub. L. 89–40, § 1(5), struck out reference to National Service Life Insurance appropriation.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1159,23 +1159,23 @@ Pub. L. 89–40 provided that the amendment made by Pub. L. 89–40 is effective
 
 **Effective Date**
 
-Pub. L. 88–664, § 12(d), Oct. 13, 1964, 78 Stat. 1099, provided that: “The amendments made by this section [enacting this section and amending section 704 [now 1904] of this title] shall take effect as of the first day of the first calendar month which begins more than six calendar months after the date of enactment of this Act [Oct. 13, 1964].”
+Pub. L. 88–664, § 12(d), Oct. 13, 1964, 78 Stat. 1099, provided that: “The amendments made by this section [enacting this section and amending section 704 [now 1904] of this title] shall take effect as of the first day of the first calendar month which begins more than six calendar months after the date of enactment of this Act [Oct. 13, 1964].”
 
-### § 1926. Authority for higher interest rates for amounts payable to beneficiaries
+### § 1926. Authority for higher interest rates for amounts payable to beneficiaries
 
 Notwithstanding sections 1902, 1923, and 1925 of this title, if the beneficiary of an insurance policy receives the proceeds of such policy under a settlement option under which such proceeds are paid in equal monthly installments over a limited period of months, the interest that may be added to each such installment may be at a rate that is higher than the interest rate prescribed in the appropriate section of this subchapter. The Secretary may from time to time establish a higher interest rate under the preceding sentence only in accordance with a determination that such higher rate is administratively and actuarially sound for the program of insurance concerned. Any such higher interest rate shall be paid on the unpaid balance of such monthly installments.
 
-(Added Pub. L. 96–128, title III, § 302(a), Nov. 28, 1979, 93 Stat. 986, § 726; renumbered § 1926 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 96–128, title III, § 302(a), Nov. 28, 1979, 93 Stat. 986, § 726; renumbered § 1926 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 726 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 726 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725”.
+Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1183,7 +1183,7 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out as an Effective Date of 1979 Amendment note under section 1114 of this title.
 
-### § 1927. Authority for higher monthly installments payable to certain annuitants
+### § 1927. Authority for higher monthly installments payable to certain annuitants
 
 **(a)** Subject to subsections (b) and (c) of this section, the Secretary may from time to time adjust the dollar amount of the monthly installments payable to a beneficiary of National Service Life Insurance, Veterans Special Life Insurance, or Veterans Reopened Insurance who is receiving the proceeds of such insurance under a life annuity settlement option. The Secretary may make such an adjustment only if the Secretary determines that the adjustment is administratively and actuarially sound for the program of insurance concerned. The Secretary may make such an adjustment without regard to the provisions of sections 1902, 1923, and 1925 of this title with respect to interest rates and the use of mortality tables.
 
@@ -1191,23 +1191,23 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
 **(c)** The monthly amount of an annuity authorized in sections 1902, 1923, and 1925 of this title, as adjusted under this section, may not be less than the monthly amount of such annuity that would otherwise be applicable without regard to this section.
 
-(Added Pub. L. 100–322, title III, § 331(a)(1), May 20, 1988, 102 Stat. 536, § 727; renumbered § 1927 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 100–322, title III, § 331(a)(1), May 20, 1988, 102 Stat. 536, § 727; renumbered § 1927 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 727 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 727 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725”.
 
-### § 1928. Authority for payment of interest on settlements
+### § 1928. Authority for payment of interest on settlements
 
 **(a)** Subject to subsection (b) of this section, the Secretary may pay interest on the proceeds of a participating National Service Life Insurance, Veterans’ Special Life Insurance, and Veterans Reopened Insurance policy from the date the policy matures to the date of payment of the proceeds to the beneficiary or, in the case of an endowment policy, to the policyholder.
 
@@ -1217,7 +1217,7 @@ Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925
 
 **(2)** Interest paid under subsection (a) of this section shall be at the rate that is established by the Secretary for dividends held on credit or deposit in policyholders’ accounts under the insurance program involved.
 
-(Added Pub. L. 100–687, div. B, title XIV, § 1401(a)(1), Nov. 18, 1988, 102 Stat. 4128, § 728; renumbered § 1928 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 100–687, div. B, title XIV, § 1401(a)(1), Nov. 18, 1988, 102 Stat. 4128, § 728; renumbered § 1928 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -1229,9 +1229,9 @@ Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925
 
 **Effective Date**
 
-Pub. L. 100–687, div. B, title XIV, § 1401(a)(3), Nov. 18, 1988, 102 Stat. 4129, provided that: “The amendments made by this subsection [enacting this section and section 763 [now 1963] of this title] shall take effect with respect to insurance policies maturing after the date of the enactment of this Act [Nov. 18, 1988].”
+Pub. L. 100–687, div. B, title XIV, § 1401(a)(3), Nov. 18, 1988, 102 Stat. 4129, provided that: “The amendments made by this subsection [enacting this section and section 763 [now 1963] of this title] shall take effect with respect to insurance policies maturing after the date of the enactment of this Act [Nov. 18, 1988].”
 
-### § 1929. Authority to adjust premium discount rates
+### § 1929. Authority to adjust premium discount rates
 
 **(a)** Notwithstanding sections 1902, 1923, and 1925 of this title and subject to subsection (b) of this section, the Secretary may from time to time adjust the discount rates for premiums paid in advance on National Service Life Insurance, Veterans’ Special Life Insurance, and Veterans Reopened Insurance.
 
@@ -1241,31 +1241,31 @@ Pub. L. 100–687, div. B, title XIV, § 1401(a)(3), Nov. 18, 1988, 102 Stat. 
 
 **(2)** The Secretary may make an adjustment under subsection (a) of this section only if the Secretary determines that the adjustment is administratively and actuarially sound for the program of insurance involved.
 
-(Added Pub. L. 100–687, div. B, title XIV, § 1401(b)(1), Nov. 18, 1988, 102 Stat. 4129, § 729; renumbered § 1929 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 100–687, div. B, title XIV, § 1401(b)(1), Nov. 18, 1988, 102 Stat. 4129, § 729; renumbered § 1929 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 729 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 729 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725” in subsec. (a) and “1902, 1923, or 1925” for “702, 723, or 725” in subsec. (b)(1).
+Pub. L. 102–83, § 5(c)(1), substituted “1902, 1923, and 1925” for “702, 723, and 725” in subsec. (a) and “1902, 1923, or 1925” for “702, 723, or 725” in subsec. (b)(1).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–687, div. B, title XIV, § 1401(b)(2), Nov. 18, 1988, 102 Stat. 4129, provided that: “The amendment made by paragraph (1) [enacting this section] shall take effect with respect to premiums paid after the date of the enactment of this Act [Nov. 18, 1988].”
+Pub. L. 100–687, div. B, title XIV, § 1401(b)(2), Nov. 18, 1988, 102 Stat. 4129, provided that: “The amendment made by paragraph (1) [enacting this section] shall take effect with respect to premiums paid after the date of the enactment of this Act [Nov. 18, 1988].”
 
 ## SUBCHAPTER II—UNITED STATES GOVERNMENT LIFE INSURANCE
 
-### § 1940. Definition
+### § 1940. Definition
 
 For the purposes of this subchapter, the term “insurance” means United States Government life insurance.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1158, § 740; renumbered § 1940, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1158, § 740; renumbered § 1940, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1273,11 +1273,11 @@ For the purposes of this subchapter, the term “insurance” means United State
 
 1991—Pub. L. 102–83 renumbered section 740 of this title as this section.
 
-### § 1941. Amount of insurance
+### § 1941. Amount of insurance
 
 United States Government life insurance shall be issued against death or total permanent disability in any multiple of $500 and not less than $1,000 or more than $10,000. No person may carry a combined amount of National Service Life Insurance and United States Government life insurance in excess of $10,000 at any one time. The limitations of this section shall not apply to the additional paid up insurance the purchase of which is authorized under section 1907 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1158, § 741; Pub. L. 92–188, § 1, Dec. 15, 1971, 85 Stat. 645; renumbered § 1941 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1158, § 741; Pub. L. 92–188, § 1, Dec. 15, 1971, 85 Stat. 645; renumbered § 1941 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1293,7 +1293,7 @@ United States Government life insurance shall be issued against death or total p
 
 Amendment by Pub. L. 92–188 effective on date established by Administrator but in no event later than first day of first calendar month beginning more than six calendar months after Dec. 15, 1971, see section 4 of Pub. L. 92–188, set out as a note under section 1907 of this title.
 
-### § 1942. Plans of insurance
+### § 1942. Plans of insurance
 
 **(a)** Regulations shall provide for the right to convert insurance on the five-year level premium term plan into ordinary life, twenty-payment life, endowment maturing at age sixty-two, and into other usual forms of insurance as may be prescribed by the Secretary. Provision shall be made for reconversion of any such policies to a higher premium rate or, upon proof of good health satisfactory to the Secretary, to a lower premium rate, in accordance with regulations to be issued by the Secretary. No reconversion shall be made to a five-year level premium term policy.
 
@@ -1311,31 +1311,31 @@ Amendment by Pub. L. 92–188 effective on date established by Administrator but
 
 **(c)** The Secretary shall, upon application made by the insured at the same time as the insured exchanges the term policy for an endowment policy issued under the provisions of subsection (b) of this section, and upon payment of such extra premium as the Secretary shall prescribe, include in such endowment policy a provision for waiver of premiums on the policy and on the provision during the total permanent disability of the insured, if such disability began after the date of such application and while the policy and the provision are in force by payment of premiums. The Secretary shall not grant waiver of any premium becoming due more than one year before receipt by the Secretary of claim for the same, except as provided in this subsection. Any premiums paid for months during which waiver is effective shall be refunded. The Secretary shall provide by regulations for examination or reexamination of an insured claiming waiver of premiums under this subsection, and may deny waiver for failure to cooperate. If it is found that an insured is no longer totally and permanently disabled, the waiver of premiums shall cease as of the date of such finding and the policy and provision may be continued by payment of premiums as provided therein. In any case in which the Secretary finds that the insured’s failure to make timely claim for waiver of premiums, or to submit satisfactory evidence of the existence or continuance of total permanent disability was due to circumstances beyond the insured’s control, the Secretary may grant waiver or continuance of waiver of premiums. If the insured dies without filing claim for waiver, the beneficiary, within one year after the death of the insured, or, if the beneficiary is insane or a minor, within one year after removal of such legal disability, may file claim for waiver with evidence of the insured’s right to waiver under this subsection. Policies containing a provision for waiver of premiums issued under this subsection may be separately classified for the purpose of dividend distribution from otherwise similar policies not containing such provision.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1158, § 742; Pub. L. 87–549, July 25, 1962, 76 Stat. 219; Pub. L. 99–576, title VII, § 701(29), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1942 and amended Pub. L. 102–83, §§ 4(a)(2)(C)(iii), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1158, § 742; Pub. L. 87–549, July 25, 1962, 76 Stat. 219; Pub. L. 99–576, title VII, § 701(29), Oct. 28, 1986, 100 Stat. 3292; renumbered § 1942 and amended Pub. L. 102–83, §§ 4(a)(2)(C)(iii), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 742 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 742 of this title as this section.
 
-Subsecs. (a), (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (a), (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(2)(C)(iii), substituted “by the Secretary” for “in the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(2)(C)(iii), substituted “by the Secretary” for “in the Veterans’ Administration”.
 
-1986—Subsec. (b). Pub. L. 99–576, § 701(29)(A), substituted “the insured’s” for “his” and “the insured” for “he”.
+1986—Subsec. (b). Pub. L. 99–576, § 701(29)(A), substituted “the insured’s” for “his” and “the insured” for “he”.
 
-Subsec. (c). Pub. L. 99–576, § 701(29)(B), substituted “the insured” for “he”, “the term” for “his term”, and “the insured’s control” for “his control”, and struck out “his failure” before “to submit”.
+Subsec. (c). Pub. L. 99–576, § 701(29)(B), substituted “the insured” for “he”, “the term” for “his term”, and “the insured’s control” for “his control”, and struck out “his failure” before “to submit”.
 
 1962—Pub. L. 87–549 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-### § 1943. Premiums
+### § 1943. Premiums
 
 The premium rates for insurance shall be the net rates based upon the American Experience Table of Mortality and interest at 3½ percent per annum. Regulations shall prescribe the time and method of payment of premiums, but payments of premiums in advance shall not be required for periods of more than one month each, and may be deducted from the pay or deposit of the insured or be otherwise made at the insured’s election.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1158, § 743; Pub. L. 97–295, § 4(26), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1943, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1158, § 743; Pub. L. 97–295, § 4(26), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1943, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1347,7 +1347,7 @@ The premium rates for insurance shall be the net rates based upon the American E
 
 1982—Pub. L. 97–295 substituted “percent” for “per centum”.
 
-### § 1944. Policy provisions
+### § 1944. Policy provisions
 
 **(a)** Provisions for maturity at certain ages, for continuous installments during the lifetime of the insured or beneficiaries, or both, for refund of premiums, cash, loan, paid-up and extended values, dividends from gains and savings, and such other provisions for the protection and advantage of and for alternative benefits to the insured and the beneficiaries as may be found to be reasonable and practicable may be provided for in insurance contracts or from time to time by regulations.
 
@@ -1355,7 +1355,7 @@ The premium rates for insurance shall be the net rates based upon the American E
 
 **(c)** On and after July 19, 1939, the rate of interest charged on any loan secured by a lien on insurance shall not exceed 5 percent per annum.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1158, § 744; Pub. L. 97–295, § 4(26), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1944, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1158, § 744; Pub. L. 97–295, § 4(26), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1944, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1367,11 +1367,11 @@ The premium rates for insurance shall be the net rates based upon the American E
 
 1982—Subsecs. (b), (c). Pub. L. 97–295 substituted “percent” for “per centum”.
 
-### § 1945. Renewal
+### § 1945. Renewal
 
 At the expiration of any term period any insurance policy issued on the five-year level premium term plan which has not been exchanged or converted to a permanent plan of insurance and which is not lapsed shall be renewed as level premium term insurance without application for a successive five-year period at the premium rate for the attained age without medical examination. However, renewal shall be effected in cases where the policy is lapsed only if the insured makes application for reinstatement and renewal of the insured’s term policy within five years after the date of lapse, and reinstatement in such cases shall be under the terms and conditions prescribed by the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1159, § 745; Pub. L. 91–291, § 11, June 25, 1970, 84 Stat. 331; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1945 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1159, § 745; Pub. L. 91–291, § 11, June 25, 1970, 84 Stat. 331; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1945 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -1389,11 +1389,11 @@ At the expiration of any term period any insurance policy issued on the five-yea
 
 Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
 
-### § 1946. Dividends to pay premiums
+### § 1946. Dividends to pay premiums
 
 Until and unless the Secretary has received from the insured a request in writing for payment of dividends in cash or that the dividends be placed on deposit in accordance with the provisions of the insured’s policy, any regular annual dividends shall be applied in payment of premiums becoming due on insurance after the date the dividend is payable on or after December 31, 1958.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1159, § 746; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1946 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(V), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1159, § 746; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1946 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(V), 5(a), Aug. 6, 1991, 105 Stat. 403, 406.)
 
 **Editorial Notes**
 
@@ -1403,33 +1403,33 @@ Until and unless the Secretary has received from the insured a request in writin
 
 1986—Pub. L. 99–576 substituted “the insured’s” for “his”.
 
-### § 1947. Incontestability
+### § 1947. Incontestability
 
 Subject to the provisions of section 1954 of this title all contracts or policies of insurance heretofore or hereafter issued, reinstated, or converted shall be incontestable from the date of issuance, reinstatement, or conversion, except for fraud, nonpayment of premiums, or on the ground that the applicant was not a member of the military or naval forces of the United States. The insured under such contract or policy may, without prejudicing the insured’s rights, elect to make claim to the Department or to bring suit under section 1984 of this title on any prior contract or policy, and if found entitled thereto, shall, upon surrender of any subsequent contract or policy, be entitled to payments under the prior contract or policy. In any case in which a contract or policy of insurance is canceled or voided after March 16, 1954, because of fraud, the Secretary shall refund to the insured, if living, or, if deceased, to the person designated as beneficiary (or if none survives, to the estate of the insured) all money, without interest, paid as premiums on such contract or policy for any period subsequent to two years after the date such fraud induced the Secretary to issue, reinstate, or convert such insurance less any dividends, loan, or other payment made to the insured under such contract or policy.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1159, § 747; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1947 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(VI), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1159, § 747; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1947 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(VI), (3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 747 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 747 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1954” for “754” and “1984” for “784”.
+Pub. L. 102–83, § 5(c)(1), substituted “1954” for “754” and “1984” for “784”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “shall” in last sentence.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “shall” in last sentence.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–83, § 4(a)(2)(A)(iii)(VI), substituted “Secretary” for “Veterans’ Administration” before “to issue” in last sentence.
+Pub. L. 102–83, § 4(a)(2)(A)(iii)(VI), substituted “Secretary” for “Veterans’ Administration” before “to issue” in last sentence.
 
 1986—Pub. L. 99–576 substituted “the insured’s” for “his”.
 
-### § 1948. Total disability provision
+### § 1948. Total disability provision
 
 The Secretary shall include in United States Government life insurance policies provision whereby an insured, who is totally disabled as a result of disease or injury for a period of four consecutive months or more before attaining the age of sixty-five years and before default in payment of any premium, shall be paid disability benefits at the rate of $5.75 monthly for each $1,000 of insurance in force when total disability benefits become payable. The amount of such monthly payment under the provisions of this section shall not be reduced because of payment of permanent and total disability benefits under the insurance policy. Such payments shall be effective as of the first day of the fifth consecutive month, and shall be made monthly during the continuance of such total disability. Such payments shall be concurrent with or independent of permanent and total disability benefits under the insurance policy. In addition to the monthly disability benefits the payment of premiums on the life insurance and for the total disability benefits authorized by this section shall be waived during the continuance of such total disability. Regulations shall provide for re­examinations of beneficiaries under this section; and, in the event that it is found that an insured is no longer totally disabled, the waiver of premiums and payment of benefits shall cease and the insurance policy, including the total disability provision, may be continued by payment of premiums as provided in said policy and the total disability provision. Neither the dividends nor the amount payable in any settlement under any United States Government life insurance policy shall be decreased because of disability benefits granted under the provisions of this section. The payment of total disability benefits shall not prejudice the right of any insured, who is totally and permanently disabled, to permanent and total disability benefits under the insured’s insurance policy. The provision authorized by this section shall not be included in any United States Government life insurance policy heretofore or hereafter issued, except upon application, payment of premium by the insured, and proof of good health satisfactory to the Secretary. The benefit granted under this section shall be on the basis of multiples of $500, and not less than $1,000 or more than the amount of insurance in force at time of application. The Secretary shall determine the amount of the monthly premium to cover the benefits of this section, and in order to continue such benefits in force the monthly premiums shall be payable until the insured attains the age of sixty-five years or until the prior maturity of the policy. In all other respects such monthly premium shall be payable under the same terms and conditions as the regular monthly premium on the United States Government life insurance policy.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1159, § 748; Pub. L. 97–295, § 4(27), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1948 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1159, § 748; Pub. L. 97–295, § 4(27), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(30), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1948 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -1441,7 +1441,7 @@ The Secretary shall include in United States Government life insurance policies 
 
 1982—Pub. L. 97–295 substituted “premium” for “permium” after “payment of”.
 
-### § 1949. Beneficiaries
+### § 1949. Beneficiaries
 
 **(a) Designation.—** A person who enrolls in United States Government life insurance may designate a beneficiary of the insurance policy. Subject to regulations, the insured person shall at all times have the right to change the beneficiary or beneficiaries of a United States Government life insurance policy without the consent of such beneficiary or beneficiaries.
 
@@ -1457,7 +1457,7 @@ The Secretary shall include in United States Government life insurance policies 
 
 **(5)** Other next of kin of the insured person entitled under the laws of domicile of the insured person at the time of the death of the insured person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1160, § 749; renumbered § 1949, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 117–313, § 3(b)(1), Dec. 27, 2022, 136 Stat. 4400.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1160, § 749; renumbered § 1949, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 117–313, § 3(b)(1), Dec. 27, 2022, 136 Stat. 4400.)
 
 **Editorial Notes**
 
@@ -1473,11 +1473,11 @@ The Secretary shall include in United States Government life insurance policies 
 
 Amendment by Pub. L. 117–313 applicable with respect to the death of an insured person occurring on or after the date that is two years before Dec. 27, 2022, see section 3(c) of Pub. L. 117–313, set out as a note under section 1917 of this title.
 
-### § 1950. Payment to estates
+### § 1950. Payment to estates
 
 If no beneficiary of insurance is designated by the insured, either while alive or by last will, or if the designated beneficiary does not survive the insured, then there shall be paid to the estate of the insured the present value of the remaining unpaid monthly installments. If the designated beneficiary survives the insured and dies before receiving all of the installments of insurance payable and applicable, then there shall be paid to the estate of such beneficiary the present value of the remaining unpaid monthly installments. No payments shall be made to any estate which under the laws of the residence of the insured or the beneficiary, as the case may be, would escheat, but same shall escheat to the United States and be credited to the United States Government Life Insurance Fund.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1160, § 750; Pub. L. 99–576, title VII, § 701(31), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1950, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1160, § 750; Pub. L. 99–576, title VII, § 701(31), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1950, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1487,11 +1487,11 @@ If no beneficiary of insurance is designated by the insured, either while alive 
 
 1986—Pub. L. 99–576 substituted “while alive or by last will” for “in his lifetime or by his last will and testament”.
 
-### § 1951. Payment of insurance
+### § 1951. Payment of insurance
 
 United States Government life insurance, except as provided in this subchapter, shall be payable in two hundred and forty equal monthly installments. When the amount of an individual monthly payment is less than $5, such amount may in the discretion of the Secretary be allowed to accumulate without interest and be disbursed annually.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, § 751; renumbered § 1951 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, § 751; renumbered § 1951 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -1499,7 +1499,7 @@ United States Government life insurance, except as provided in this subchapter, 
 
 1991—Pub. L. 102–83 renumbered section 751 of this title as this section and substituted “Secretary” for “Administrator”.
 
-### § 1952. Optional settlement
+### § 1952. Optional settlement
 
 **(a)** The Secretary may provide in insurance contracts for optional settlements, to be selected by the insured, whereby such insurance may be made payable either in one sum or in installments for thirty-six months or more. A provision may also be included in such contracts authorizing the beneficiary to elect to receive payment of the insurance in installments for thirty-six months or more, but only if the insured has not exercised the right of election as provided in this subchapter. Even though the insured may have exercised the right of election the beneficiary may elect to receive such insurance in installments spread over a greater period of time than that selected by the insured. Notwithstanding any provision to the contrary in any insurance contract, the beneficiary may, in the case of insurance maturing after September 30, 1981, and for which the insured has not exercised the right of election of the insured as provided in this subchapter, elect to receive payment of the insurance in one sum.
 
@@ -1515,15 +1515,15 @@ United States Government life insurance, except as provided in this subchapter, 
 
 **(2)** Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, § 752; Pub. L. 91–291, § 12, June 25, 1970, 84 Stat. 332; Pub. L. 97–66, title IV, § 403(b), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–576, title VII, § 701(32), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1952 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title I, § 103(b), Dec. 16, 2003, 117 Stat. 2655; Pub. L. 117–313, § 2(b), Dec. 27, 2022, 136 Stat. 4399.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, § 752; Pub. L. 91–291, § 12, June 25, 1970, 84 Stat. 332; Pub. L. 97–66, title IV, § 403(b), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–576, title VII, § 701(32), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1952 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 108–183, title I, § 103(b), Dec. 16, 2003, 117 Stat. 2655; Pub. L. 117–313, § 2(b), Dec. 27, 2022, 136 Stat. 4399.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (c)(1)(A). Pub. L. 117–313, § 2(b)(1), substituted “one year” for “two years”.
+2022—Subsec. (c)(1)(A). Pub. L. 117–313, § 2(b)(1), substituted “one year” for “two years”.
 
-Subsec. (c)(1)(B). Pub. L. 117–313, § 2(b)(2), substituted “two years” for “four years”.
+Subsec. (c)(1)(B). Pub. L. 117–313, § 2(b)(2), substituted “two years” for “four years”.
 
 2003—Subsec. (c). Pub. L. 108–183 added subsec. (c).
 
@@ -1557,11 +1557,11 @@ Amendment by Pub. L. 91–291 effective first day of first calendar month which 
 
 For transition provision relating to subsec. (c)(1) of this section, see section 103(d) of Pub. L. 108–183, set out as a note under section 1917 of this title.
 
-### § 1953. Assignments
+### § 1953. Assignments
 
 Any person to whom United States Government life insurance shall be payable may assign such person’s interest in such insurance to the spouse, child, grandchild, parent, brother, sister, uncle, aunt, nephew, niece, brother-in-law, or sister-in-law of the insured. Insofar as applicable, the definitions contained in section 3 of the World War Veterans’ Act, 1924, in effect on December 31, 1958, shall apply to this section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, § 753; Pub. L. 96–128, title III, § 304, Nov. 28, 1979, 93 Stat. 986; renumbered § 1953, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, § 753; Pub. L. 96–128, title III, § 304, Nov. 28, 1979, 93 Stat. 986; renumbered § 1953, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1581,11 +1581,11 @@ Section 3 of the World War Veterans’ Act, 1924, referred to in text, is sectio
 
 Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out as a note under section 1114 of this title.
 
-### § 1954. Forfeiture
+### § 1954. Forfeiture
 
 No yearly renewable term insurance or United States Government life insurance shall be payable for death inflicted as a lawful punishment for crime or military offense, except when inflicted by the enemy. In such cases the cash surrender value of United States Government life insurance, if any, on the date of such death shall be paid to the designated beneficiary if living, or if there be no designated beneficiary alive at the death of the insured the said value shall be paid to the estate of the insured.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, § 754; renumbered § 1954, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, § 754; renumbered § 1954, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1593,7 +1593,7 @@ No yearly renewable term insurance or United States Government life insurance sh
 
 1991—Pub. L. 102–83 renumbered section 754 of this title as this section.
 
-### § 1955. United States Government Life Insurance Fund
+### § 1955. United States Government Life Insurance Fund
 
 **(a)** All premiums paid on account of United States Government life insurance shall be deposited and covered into the Treasury to the credit of the United States Government Life Insurance Fund and shall be available for the payment of losses, dividends, refunds, and other benefits provided for under such insurance, including such liabilities as shall have been or shall hereafter be reduced to judgment in a district court of the United States or the United States District Court for the District of Columbia, and for the reimbursement of administrative costs under subsection (c). Payments from this fund shall be made upon and in accordance with awards by the Secretary.
 
@@ -1607,7 +1607,7 @@ No yearly renewable term insurance or United States Government life insurance sh
 
 **(3)** This subsection shall be in effect only with respect to fiscal year 1996.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, § 755; renumbered § 1955 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, § 201(b), Jan. 26, 1996, 110 Stat. 36.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1161, § 755; renumbered § 1955 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, § 201(b), Jan. 26, 1996, 110 Stat. 36.)
 
 **Editorial Notes**
 
@@ -1617,29 +1617,29 @@ Amendment by Pub. L. 104–99 is based on section 107(3) of H.R. 2099, One Hundr
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–99 inserted “, and for the reimbursement of administrative costs under subsection (c)” after “District of Columbia”.
+1996—Subsec. (a). Pub. L. 104–99 inserted “, and for the reimbursement of administrative costs under subsection (c)” after “District of Columbia”.
 
 Subsec. (c). Pub. L. 104–99 added subsec. (c).
 
 1991—Pub. L. 102–83 renumbered section 755 of this title as this section and substituted “Secretary” for “Administrator” in subsecs. (a) and (b).
 
-### § 1956. Military and naval insurance appropriation
+### § 1956. Military and naval insurance appropriation
 
 All sums heretofore or hereafter appropriated for the military and naval insurance appropriation and all premiums collected for yearly renewable term insurance deposited and covered into the Treasury to the credit of this appropriation shall be made available to the Department. All premiums that may hereafter be collected for yearly renewable term insurance shall be deposited and covered into the Treasury for the credit of this appropriation. Such sum is made available for the payment of the liabilities of the United States incurred under contracts of yearly renewable term insurance. Payments from this appropriation shall be made upon and in accordance with the awards by the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1162, § 756; renumbered § 1956 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1162, § 756; renumbered § 1956 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 756 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 756 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-### § 1957. Extra hazard costs
+### § 1957. Extra hazard costs
 
 **(a)** The United States shall bear the excess mortality and disability cost resulting from the hazards of war on United States Government life insurance.
 
@@ -1649,23 +1649,23 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 **(d)** Any disability for which a waiver was required as a condition to tendering a person a commission under Public Law 816, Seventy-seventh Congress, shall be deemed to be a disability resulting from an injury or disease traceable to the extra hazard of military or naval service for the purpose of applying this section.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1162, § 757; renumbered § 1957 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1162, § 757; renumbered § 1957 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Public Law 816, Seventy-seventh Congress, referred to in subsec. (d), is act Dec. 18, 1942, ch. 768, §§ 1, 2, 56 Stat. 1066. Section 1 of that Act enacted section 853c–5 of former Title 34, Navy, and was repealed by act July 9, 1952, ch. 608, pt. VIII, § 803, 66 Stat. 505. Section 2 of that Act enacted section 853c–6 of former Title 34, and was omitted from the Code in the general revision and reenactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
+Public Law 816, Seventy-seventh Congress, referred to in subsec. (d), is act Dec. 18, 1942, ch. 768, §§ 1, 2, 56 Stat. 1066. Section 1 of that Act enacted section 853c–5 of former Title 34, Navy, and was repealed by act July 9, 1952, ch. 608, pt. VIII, § 803, 66 Stat. 505. Section 2 of that Act enacted section 853c–6 of former Title 34, and was omitted from the Code in the general revision and reenactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
 
 **Amendments**
 
 1991—Pub. L. 102–83 renumbered section 757 of this title as this section and substituted “Secretary” for “Administrator” wherever appearing in subsecs. (b) and (c).
 
-### § 1958. Statutory total permanent disability
+### § 1958. Statutory total permanent disability
 
 Without prejudice to any other cause of disability, the permanent loss of the use of both feet, of both hands, or of both eyes, or of one foot and one hand, or of one foot and one eye, or of one hand and one eye, or the loss of hearing of both ears, or the organic loss of speech, shall be deemed total permanent disability for insurance purposes. This section shall be deemed to be in effect on and after April 6, 1917, and shall apply only to automatic insurance, yearly renewable term insurance, and United States Government life insurance issued prior to December 15, 1936.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1163, § 758; renumbered § 1958, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1163, § 758; renumbered § 1958, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -1673,19 +1673,19 @@ Without prejudice to any other cause of disability, the permanent loss of the us
 
 1991—Pub. L. 102–83 renumbered section 758 of this title as this section.
 
-### § 1959. Waiver of disability for reinstatement
+### § 1959. Waiver of disability for reinstatement
 
 **(a)** In the event that all provisions of the rules and regulations other than the requirements as to the physical condition of the applicant have been complied with, an application for reinstatement, in whole or in part, of lapsed United States Government life insurance may be approved if made within two years after the date of lapse and if the applicant’s disability is the result of an injury or disease, or of an aggravation thereof, suffered or contracted in the active military or naval service during the period beginning April 6, 1917, and ending July 2, 1921, and the applicant during the applicant’s lifetime submits proof satisfactory to the Secretary showing that the applicant is not totally and permanently disabled. As a condition to the acceptance of an application for reinstatement under this section, the applicant shall be required to pay all the back monthly premiums which would have become payable if such insurance had not lapsed, together with interest at the rate of 5 per centum per annum, compounded annually, on each premium from the date said premium is due by the terms of the policy.
 
 **(b)** Premium liens established under the provisions of section 304 of the World War Veterans’ Act, 1924, shall continue to bear interest at the rate of 5 per centum per annum, compounded annually, and will be deducted from any settlement of insurance to which they are attached.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1163, § 759; Pub. L. 99–576, title VII, § 701(33), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1959 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1163, § 759; Pub. L. 99–576, title VII, § 701(33), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1959 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 304 of the World War Veteran’s Act, 1924, referred to in subsec. (b), is section 304 of act June 7, 1924, ch. 320, title III, 43 Stat. 625, which enacted section 515 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, § 14(51), Sept. 2, 1958, 72 Stat. 1271.
+Section 304 of the World War Veteran’s Act, 1924, referred to in subsec. (b), is section 304 of act June 7, 1924, ch. 320, title III, 43 Stat. 625, which enacted section 515 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, § 14(51), Sept. 2, 1958, 72 Stat. 1271.
 
 **Amendments**
 
@@ -1693,45 +1693,45 @@ Section 304 of the World War Veteran’s Act, 1924, referred to in subsec. (b), 
 
 1986—Subsec. (a). Pub. L. 99–576 substituted “the applicant’s” for “his” and “the applicant” for “he”.
 
-### § 1960. Waiver of premium payments on due date
+### § 1960. Waiver of premium payments on due date
 
 **(a)** The Secretary is authorized to provide by regulations for waiving the payment of premiums on United States Government life insurance on the due date thereof and the insurance may be deemed not to lapse in the cases of the following persons: (1) those who are confined in hospital under the Department for a compensable disability during the period while they are so confined; (2) those who are rated as temporarily totally disabled by reason of any injury or disease entitling them to compensation during the period of such total disability and while they are so rated; (3) those who, while mentally incompetent and for whom no legal guardian had been or has been appointed, allowed or may allow their insurance to lapse during the period for which they have been or hereafter may be rated mentally incompetent, or until a guardian has notified the Department of the guardian’s qualification, but not later than six months after appointment of a guardian. In mentally incompetent cases the waiver is to be made without application and retroactive when necessary. Relief from payment of premiums on the due date thereof shall be for full calendar months, beginning with the month in which said confinement to hospital, the temporary total disability rating, or the mental incompetency began or begins and ending with that month during the half or major fraction of which such persons are no longer entitled to waiver as provided above.
 
 **(b)** All premiums the payment of which when due is waived as provided in this section shall bear interest at the rate of 5 percent per annum, compounded annually, from the due date of each premium, and if not paid by the insured shall be deducted from the insurance in any settlement thereunder, or when the same matures either because of permanent total disability or death. In the event any lien or other indebtedness established by this section or prior corresponding provision of law exists against any policy of United States Government life insurance in excess of the then cash surrender value thereof at the time of the termination of such policy of insurance for any reason other than by death or total permanent disability the Secretary is authorized to transfer and pay from the military and naval insurance appropriation to the United States Government Life Insurance Fund a sum equal to the amount such lien or indebtedness exceeds the then cash surrender value.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1163, § 760; Pub. L. 97–295, § 4(28), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(34), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1960 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1163, § 760; Pub. L. 97–295, § 4(28), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(34), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1960 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 760 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 760 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1986—Subsec. (a). Pub. L. 99–576 substituted “the guardian’s” for “his”.
 
 1982—Subsec. (b). Pub. L. 97–295 substituted “percent” for “per centum”.
 
-### § 1961. Authority for higher interest rates for amounts payable to beneficiaries
+### § 1961. Authority for higher interest rates for amounts payable to beneficiaries
 
 Notwithstanding section 1944(b) of this title, if the beneficiary of an insurance policy issued under the provisions of this subchapter receives the proceeds of such policy under a settlement option under which such proceeds are paid in equal monthly installments over a limited period of months, the interest that may be added to each such installment may be at a rate that is higher than the interest rate prescribed in such section. The Secretary may from time to time establish a higher interest rate under the preceding sentence only in accordance with a determination that such higher rate is administratively and actuarially sound. Any such higher interest rate shall be paid on the unpaid balance of such monthly installments.
 
-(Added Pub. L. 96–128, title III, § 303(a), Nov. 28, 1979, 93 Stat. 986, § 761; renumbered § 1961 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 96–128, title III, § 303(a), Nov. 28, 1979, 93 Stat. 986, § 761; renumbered § 1961 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 761 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 761 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1944(b)” for “744(b)”.
+Pub. L. 102–83, § 5(c)(1), substituted “1944(b)” for “744(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1739,7 +1739,7 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Admin
 
 Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out as an Effective Date of 1979 Amendment note under section 1114 of this title.
 
-### § 1962. Authority for higher monthly installments payable to certain annuitants
+### § 1962. Authority for higher monthly installments payable to certain annuitants
 
 **(a)** Subject to subsections (b) and (c) of this section, the Secretary may from time to time adjust the dollar amount of the monthly installments payable to a beneficiary of United States Government Life Insurance who is receiving the proceeds of such insurance under a life annuity settlement option. The Secretary may make such an adjustment only if the Secretary determines that the adjustment is administratively and actuarially sound. The Secretary may make such an adjustment without regard to the provisions of section 1944 of this title with respect to interest rates and the use of mortality tables.
 
@@ -1747,23 +1747,23 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
 **(c)** The monthly amount of an annuity authorized in section 1944 of this title, as adjusted under this section, may not be less than the monthly amount of such annuity that would otherwise be applicable without regard to this section.
 
-(Added Pub. L. 100–322, title III, § 331(b)(1), May 20, 1988, 102 Stat. 536, § 762; renumbered § 1962 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 100–322, title III, § 331(b)(1), May 20, 1988, 102 Stat. 536, § 762; renumbered § 1962 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 762 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 762 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1944” for “744”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1944” for “744”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1944” for “744”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1944” for “744”.
 
-### § 1963. Authority for payment of interest on settlements
+### § 1963. Authority for payment of interest on settlements
 
 **(a)** Subject to subsection (b) of this section, the Secretary may pay interest on the proceeds of a United States Government Life Insurance policy from the date the policy matures to the date of payment of the proceeds to the beneficiary or, in the case of an endowment policy, to the policyholder.
 
@@ -1773,7 +1773,7 @@ Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1944” for “744�
 
 **(2)** Interest paid under subsection (a) shall be at the rate that is established by the Secretary for dividends held on credit or deposit in policyholders’ accounts.
 
-(Added Pub. L. 100–687, div. B, title XIV, § 1401(a)(2), Nov. 18, 1988, 102 Stat. 4128, § 763; renumbered § 1963 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 100–687, div. B, title XIV, § 1401(a)(2), Nov. 18, 1988, 102 Stat. 4128, § 763; renumbered § 1963 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -1793,9 +1793,9 @@ Section effective with respect to insurance policies maturing after Nov. 18, 198
 
 **Amendments**
 
-1996—Pub. L. 104–275, title IV, § 405(b)(2)(A), Oct. 9, 1996, 110 Stat. 3339, substituted “SERVICEMEMBERS’ GROUP” for “SERVICEMEN’S GROUP”.
+1996—Pub. L. 104–275, title IV, § 405(b)(2)(A), Oct. 9, 1996, 110 Stat. 3339, substituted “SERVICEMEMBERS’ GROUP” for “SERVICEMEN’S GROUP”.
 
-### § 1965. Definitions
+### § 1965. Definitions
 
 For the purpose of this subchapter—
 
@@ -1803,9 +1803,9 @@ For the purpose of this subchapter—
 
 **(A)** full-time duty in the Armed Forces, other than active duty for training;
 
-**(B)** full-time duty (other than for training purposes) as a commissioned officer of the Regular or Reserve Corps 1
+**(B)** full-time duty (other than for training purposes) as a commissioned officer of the Regular or Reserve Corps 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 of the Public Health Service;
 
@@ -1817,7 +1817,7 @@ of the Public Health Service;
 
 **(A)** full-time duty in the Armed Forces performed by Reserves, or by members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10) but not on sustained duty under section 20105 of title 10, for training purposes;
 
-**(B)** full-time duty for training purposes performed as a commissioned officer of the Reserve Corps <sup>1</sup> of the Public Health Service;
+**(B)** full-time duty for training purposes performed as a commissioned officer of the Reserve Corps <sup>1</sup> of the Public Health Service;
 
 **(C)** full-time duty as a member, cadet, or midshipman of the Reserve Officers Training Corps while attending field training or practice cruises; and
 
@@ -1825,7 +1825,7 @@ of the Public Health Service;
 
 **(3)** The term “inactive duty training” means—
 
-**(A)** duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corps <sup>1</sup> of the Public Health Service), or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10), which duty is scheduled in advance by competent authority to begin at a specific time and place; and
+**(A)** duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corps <sup>1</sup> of the Public Health Service), or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10), which duty is scheduled in advance by competent authority to begin at a specific time and place; and
 
 **(B)** in the case of a member of the National Guard or Air National Guard of any State, such term means duty (other than full-time duty) which is scheduled in advance by competent authority to begin at a specific time and place under sections 316, 502, 503, 504, or 505 of title 32, United States Code.
 
@@ -1837,9 +1837,9 @@ of the Public Health Service;
 
 **(B)** a person who volunteers for assignment to the Ready Reserve of a uniformed service and is assigned to a unit or position in which such person may be required to perform active duty, or active duty for training, and each year will be scheduled to perform at least twelve periods of inactive duty training that is creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act);
 
-**(C)** a person who volunteers for assignment to a mobilization category in the Individual Ready Reserve, as defined in section 12304(i)(1) 2
+**(C)** a person who volunteers for assignment to a mobilization category in the Individual Ready Reserve, as defined in section 12304(i)(1) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 10; and
 
@@ -1861,21 +1861,21 @@ of title 10; and
 
 **(C)** The member’s stillborn child.
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 880, § 765; amended Pub. L. 91–291, § 1, June 25, 1970, 84 Stat. 326; Pub. L. 92–185, § 1, Dec. 15, 1971, 85 Stat. 642; Pub. L. 92–315, June 20, 1972, 86 Stat. 227; Pub. L. 93–289, §§ 3, 10(1), May 24, 1974, 88 Stat. 165, 172; Pub. L. 99–576, title VII, § 701(35), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–54, § 14(b)(16), June 13, 1991, 105 Stat. 284; renumbered § 1965 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title VI, § 651(a), title XVI, § 1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–275, title IV, § 402(a), Oct. 9, 1996, 110 Stat. 3337; Pub. L. 106–419, title III, § 313(a), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 107–14, § 4(a)(1), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, § 1032(a)(1), May 11, 2005, 119 Stat. 257; Pub. L. 109–233, title V, § 501(c)(1), June 15, 2006, 120 Stat. 415; Pub. L. 110–389, title IV, § 402(a), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 118–31, div. A, title XVII, § 1723(a)(2), Dec. 22, 2023, 137 Stat. 674.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 880, § 765; amended Pub. L. 91–291, § 1, June 25, 1970, 84 Stat. 326; Pub. L. 92–185, § 1, Dec. 15, 1971, 85 Stat. 642; Pub. L. 92–315, June 20, 1972, 86 Stat. 227; Pub. L. 93–289, §§ 3, 10(1), May 24, 1974, 88 Stat. 165, 172; Pub. L. 99–576, title VII, § 701(35), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–54, § 14(b)(16), June 13, 1991, 105 Stat. 284; renumbered § 1965 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title VI, § 651(a), title XVI, § 1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–275, title IV, § 402(a), Oct. 9, 1996, 110 Stat. 3337; Pub. L. 106–419, title III, § 313(a), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 107–14, § 4(a)(1), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, § 1032(a)(1), May 11, 2005, 119 Stat. 257; Pub. L. 109–233, title V, § 501(c)(1), June 15, 2006, 120 Stat. 415; Pub. L. 110–389, title IV, § 402(a), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 118–31, div. A, title XVII, § 1723(a)(2), Dec. 22, 2023, 137 Stat. 674.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 67 of title 10 as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5)(B), means chapter 67 (§ 1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§ 1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
+Chapter 67 of title 10 as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5)(B), means chapter 67 (§ 1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§ 1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10.
 
-Section 12304(i)(1) of title 10, referred to in par. (5)(C), was redesignated section 12304(j)(1) of title 10 by Pub. L. 109–364, div. A, title V, § 522(b), Oct. 17, 2006, 120 Stat. 2192. Section 12304(j)(1) of title 10 was subsequently redesignated section 12304(k)(2) of title 10 by Pub. L. 118–31, div. A, title XV, § 1532(2), (7)(A), Dec. 22, 2023, 137 Stat. 563, 564.
+Section 12304(i)(1) of title 10, referred to in par. (5)(C), was redesignated section 12304(j)(1) of title 10 by Pub. L. 109–364, div. A, title V, § 522(b), Oct. 17, 2006, 120 Stat. 2192. Section 12304(j)(1) of title 10 was subsequently redesignated section 12304(k)(2) of title 10 by Pub. L. 118–31, div. A, title XV, § 1532(2), (7)(A), Dec. 22, 2023, 137 Stat. 563, 564.
 
 **Amendments**
 
-2023—Par. (2)(A). Pub. L. 118–31, § 1723(a)(2)(A), which directed insertion of “, or by members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10) but not on sustained duty under section 20105 of title 10,” after “for Reserves”, was executed by making the insertion after “Reserves”, to reflect the probable intent of Congress.
+2023—Par. (2)(A). Pub. L. 118–31, § 1723(a)(2)(A), which directed insertion of “, or by members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10) but not on sustained duty under section 20105 of title 10,” after “for Reserves”, was executed by making the insertion after “Reserves”, to reflect the probable intent of Congress.
 
-Par. (3)(A). Pub. L. 118–31, § 1723(a)(2)(B), inserted “, or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10),” after “(including commissioned officers of the Reserve Corps of the Public Health Service)”.
+Par. (3)(A). Pub. L. 118–31, § 1723(a)(2)(B), inserted “, or for members of the Space Force in a space force active status (as defined in section 101(e)(1) of title 10),” after “(including commissioned officers of the Reserve Corps of the Public Health Service)”.
 
 2008—Par. (10)(C). Pub. L. 110–389 added subpar. (C).
 
@@ -1899,41 +1899,41 @@ Par. (3)(A). Pub. L. 118–31, § 1723(a)(2)(B), inserted “, or for member
 
 2000—Par. (5)(C), (D). Pub. L. 106–419 added subpar. (C) and redesignated former subpar. (C) as (D).
 
-1996—Par. (5)(B). Pub. L. 104–275, § 402(a)(1), inserted “and” at end.
+1996—Par. (5)(B). Pub. L. 104–275, § 402(a)(1), inserted “and” at end.
 
-Par. (5)(C) to (E). Pub. L. 104–275, § 402(a)(2), (3), redesignated subpar. (E) as (C) and struck out former subpars. (C) and (D) which read as follows:
+Par. (5)(C) to (E). Pub. L. 104–275, § 402(a)(2), (3), redesignated subpar. (E) as (C) and struck out former subpars. (C) and (D) which read as follows:
 
 “(C) a person assigned to, or who upon application would be eligible for assignment to, the Retired Reserve of a uniformed service who has not received the first increment of retirement pay or has not yet reached sixty-one years of age and has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act);
 
 “(D) a person transferred to the Retired Reserve of a uniformed service under the temporary special retirement authority provided in section 1331a of title 10 who has not received the first increment of retirement pay or has not reached sixty-one years of age; and”.
 
-1994—Par. (5)(B), (C). Pub. L. 103–337, § 1677(d)(1), substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
+1994—Par. (5)(B), (C). Pub. L. 103–337, § 1677(d)(1), substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
 
-Par. (5)(D), (E). Pub. L. 103–337, § 651(a), added subpar. (D) and redesignated former subpar. (D) as (E).
+Par. (5)(D), (E). Pub. L. 103–337, § 651(a), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 765 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 765 of this title as this section.
 
-Par. (4). Pub. L. 102–54, § 14(b)(16)(A), redesignated cls. (i) and (ii) as (A) and (B), respectively.
+Par. (4). Pub. L. 102–54, § 14(b)(16)(A), redesignated cls. (i) and (ii) as (A) and (B), respectively.
 
-Par. (8). Pub. L. 102–54, § 14(b)(16)(B), redesignated cls. (a) to (e) as (A) to (E), respectively.
+Par. (8). Pub. L. 102–54, § 14(b)(16)(B), redesignated cls. (a) to (e) as (A) to (E), respectively.
 
-Par. (9). Pub. L. 102–83, § 5(c)(1), substituted “1966(b)” for “766(b)”.
+Par. (9). Pub. L. 102–83, § 5(c)(1), substituted “1966(b)” for “766(b)”.
 
-Pub. L. 102–54, § 14(b)(16)(B), redesignated cls. (a) to (e) as (A) to (E), respectively.
+Pub. L. 102–54, § 14(b)(16)(B), redesignated cls. (a) to (e) as (A) to (E), respectively.
 
-1986—Par. (5)(B). Pub. L. 99–576, § 701(35)(A), substituted “such person” for “he”.
+1986—Par. (5)(B). Pub. L. 99–576, § 701(35)(A), substituted “such person” for “he”.
 
-Par. (9). Pub. L. 99–576, § 701(35)(B), substituted “the child’s” for “his” in two places.
+Par. (9). Pub. L. 99–576, § 701(35)(B), substituted “the child’s” for “his” in two places.
 
-1974—Par. (1)(C). Pub. L. 93–289, § 10(1), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+1974—Par. (1)(C). Pub. L. 93–289, § 10(1), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-Par. (5). Pub. L. 93–289, § 3, added cls. (B) and (C), redesignated former cl. (B) as (D), and substituted “midshipman of” for “midshipman at” in cl. (A).
+Par. (5). Pub. L. 93–289, § 3, added cls. (B) and (C), redesignated former cl. (B) as (D), and substituted “midshipman of” for “midshipman at” in cl. (A).
 
-Par. (6). Pub. L. 93–289, § 10(1), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+Par. (6). Pub. L. 93–289, § 10(1), substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
 
-1972—Par. (1)(D). Pub. L. 92–315, § 1(3), added cl. (D).
+1972—Par. (1)(D). Pub. L. 92–315, § 1(3), added cl. (D).
 
-Par. (5)(A). Pub. L. 92–315, § 1(4), expanded definition of “member” to include persons in active duty as a cadet or midshipman at the United States Military Academy, United States Naval Academy, United States Air Force Academy and the United States Coast Guard Academy.
+Par. (5)(A). Pub. L. 92–315, § 1(4), expanded definition of “member” to include persons in active duty as a cadet or midshipman at the United States Military Academy, United States Naval Academy, United States Air Force Academy and the United States Coast Guard Academy.
 
 1971—Pars. (7) to (9). Pub. L. 92–185 added pars. (7) to (9) defining, respectively, “widow” or “widower”, “child”, and “parent”.
 
@@ -1959,17 +1959,17 @@ Amendment by section 1677(d)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–289, § 12(2), May 24, 1974, 88 Stat. 173, provided that: “The amendments relating to Servicemen’s Group Life Insurance coverage on a full-time basis for certain members of the Reserves and National Guard shall become effective upon the date of enactment of this Act [May 24, 1974].”
+Pub. L. 93–289, § 12(2), May 24, 1974, 88 Stat. 173, provided that: “The amendments relating to Servicemen’s Group Life Insurance coverage on a full-time basis for certain members of the Reserves and National Guard shall become effective upon the date of enactment of this Act [May 24, 1974].”
 
 **Effective Date of 1971 Amendment**
 
-Pub. L. 92–185, § 2, Dec. 15, 1971, 85 Stat. 643, provided that: “The provisions of this Act [amending this section] shall apply only to Servicemen’s Group Life Insurance in effect on the life of an insured member who dies on or after the date of enactment of this Act [Dec. 15, 1971].”
+Pub. L. 92–185, § 2, Dec. 15, 1971, 85 Stat. 643, provided that: “The provisions of this Act [amending this section] shall apply only to Servicemen’s Group Life Insurance in effect on the life of an insured member who dies on or after the date of enactment of this Act [Dec. 15, 1971].”
 
 **Effective Date of 1970 Amendment**
 
 Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
 
-Pub. L. 91–291, § 14(b), June 25, 1970, 84 Stat. 333, provided that: “The provisions of section 765(7), (8), and (9) [now 1765(7), (8), and (9)] of title 38, United States Code, as added by the first section of this Act shall apply only to servicemen’s group life insurance in effect on the life of an insured member who dies on and after the date of enactment of this Act [June 25, 1970].”
+Pub. L. 91–291, § 14(b), June 25, 1970, 84 Stat. 333, provided that: “The provisions of section 765(7), (8), and (9) [now 1765(7), (8), and (9)] of title 38, United States Code, as added by the first section of this Act shall apply only to servicemen’s group life insurance in effect on the life of an insured member who dies on and after the date of enactment of this Act [June 25, 1970].”
 
 **Transfer of Functions**
 
@@ -1977,13 +1977,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Renaming of Group Life Insurance Program**
 
-Pub. L. 104–275, title IV, § 405(a), Oct. 9, 1996, 110 Stat. 3339, provided that: “The program of insurance operated by the Secretary of Veterans Affairs under subchapter III of chapter 19 of title 38, United States Code, is hereby redesignated as the Servicemembers’ Group Life Insurance program.”
+Pub. L. 104–275, title IV, § 405(a), Oct. 9, 1996, 110 Stat. 3339, provided that: “The program of insurance operated by the Secretary of Veterans Affairs under subchapter III of chapter 19 of title 38, United States Code, is hereby redesignated as the Servicemembers’ Group Life Insurance program.”
 
 **References to Servicemen’s Group Life Insurance or Advisory Council on Servicemen’s Group Life Insurance**
 
-Pub. L. 104–275, title IV, § 405(d), Oct. 9, 1996, 110 Stat. 3340, provided that: “Any reference to Servicemen’s Group Life Insurance or to the Advisory Council on Servicemen’s Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall be deemed to refer to Servicemembers’ Group Life Insurance or the Advisory Council on Servicemembers’ Group Life Insurance, respectively.”
+Pub. L. 104–275, title IV, § 405(d), Oct. 9, 1996, 110 Stat. 3340, provided that: “Any reference to Servicemen’s Group Life Insurance or to the Advisory Council on Servicemen’s Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall be deemed to refer to Servicemembers’ Group Life Insurance or the Advisory Council on Servicemembers’ Group Life Insurance, respectively.”
 
-### § 1966. Eligible insurance companies
+### § 1966. Eligible insurance companies
 
 **(a)** The Secretary is authorized, without regard to section 6101(b) to (d) of title 41, to purchase from one or more life insurance companies a policy or policies of group life insurance to provide the benefits specified in this subchapter. Each such life insurance company must (1) be licensed to issue life insurance in each of the fifty States of the United States and in the District of Columbia, and (2) as of the most recent December 31 for which information is available to the Secretary, have in effect at least 1 percent of the total amount of group life insurance which all life insurance companies have in effect in the United States.
 
@@ -1993,7 +1993,7 @@ Pub. L. 104–275, title IV, § 405(d), Oct. 9, 1996, 110 Stat. 3340, provided
 
 **(d)** The Secretary may at any time discontinue any policy or policies which the Secretary has purchased from any insurance company under this subchapter.
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 880, § 766; amended Pub. L. 97–295, § 4(29), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(36), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1966 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 111–350, § 5(j)(2), Jan. 4, 2011, 124 Stat. 3850.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 880, § 766; amended Pub. L. 97–295, § 4(29), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(36), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1966 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 111–350, § 5(j)(2), Jan. 4, 2011, 124 Stat. 3850.)
 
 **Editorial Notes**
 
@@ -2003,13 +2003,13 @@ Pub. L. 104–275, title IV, § 405(d), Oct. 9, 1996, 110 Stat. 3340, provided
 
 1991—Pub. L. 102–83 renumbered section 766 of this title as this section and substituted “Secretary” for “Administrator” wherever appearing.
 
-1986—Subsec. (c). Pub. L. 99–576, § 701(36)(A), substituted “the Administrator” for “him”.
+1986—Subsec. (c). Pub. L. 99–576, § 701(36)(A), substituted “the Administrator” for “him”.
 
-Subsec. (d). Pub. L. 99–576, § 701(36)(B), substituted “the Administrator” for “he”.
+Subsec. (d). Pub. L. 99–576, § 701(36)(B), substituted “the Administrator” for “he”.
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “percent” for “per centum”.
 
-### § 1967. Persons insured; amount
+### § 1967. Persons insured; amount
 
 **(a)**
 
@@ -2115,7 +2115,7 @@ shall be deemed to have been on active duty, active duty for training, or inacti
 
 **(4)** A notification required by this subsection is satisfied by a good faith effort to provide the required information to the spouse at the last address of the spouse in the records of the Secretary concerned. Failure to provide a notification required under this subsection in a timely manner does not affect the validity of any election specified in paragraph (1) or (2) or beneficiary designation specified in paragraph (3).
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 881, § 767; amended Pub. L. 91–291, § 2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, § 4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, § 401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, § 401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, § 701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, § 336(a), Apr. 6, 1991, 105 Stat. 89; renumbered § 1967 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, § 201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, § 1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, § 651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, § 646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§ 402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§ 312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, § 4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, § 1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§ 2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, § 403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title X, § 1001(d)(1), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–239, div. A, title VI, § 642, Jan. 2, 2013, 126 Stat. 1783; Pub. L. 115–232, div. A, title VI, § 625, Aug. 13, 2018, 132 Stat. 1801; Pub. L. 116–283, div. A, title X, § 1081(b), Jan. 1, 2021, 134 Stat. 3873; Pub. L. 117–209, § 2(a), Oct. 17, 2022, 136 Stat. 2243.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 881, § 767; amended Pub. L. 91–291, § 2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, § 4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, § 401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, § 401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, § 701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, § 336(a), Apr. 6, 1991, 105 Stat. 89; renumbered § 1967 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, § 201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, § 1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, § 651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, § 646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§ 402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§ 312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, § 4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, § 1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§ 2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, § 403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title X, § 1001(d)(1), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–239, div. A, title VI, § 642, Jan. 2, 2013, 126 Stat. 1783; Pub. L. 115–232, div. A, title VI, § 625, Aug. 13, 2018, 132 Stat. 1801; Pub. L. 116–283, div. A, title X, § 1081(b), Jan. 1, 2021, 134 Stat. 3873; Pub. L. 117–209, § 2(a), Oct. 17, 2022, 136 Stat. 2243.)
 
 **Editorial Notes**
 
@@ -2125,9 +2125,9 @@ shall be deemed to have been on active duty, active duty for training, or inacti
 
 2021—Subsec. (a)(3)(D). Pub. L. 116–283 inserted a comma after “theater of operations” in introductory provisions.
 
-2018—Subsec. (a)(3)(A). Pub. L. 115–232, § 625(1), substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)” in introductory provisions.
+2018—Subsec. (a)(3)(A). Pub. L. 115–232, § 625(1), substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)” in introductory provisions.
 
-Subsec. (a)(3)(D). Pub. L. 115–232, § 625(2), added subpar. (D).
+Subsec. (a)(3)(D). Pub. L. 115–232, § 625(2), added subpar. (D).
 
 2013—Subsec. (a)(1)(A)(ii), (C)(ii). Pub. L. 112–239 inserted “(other than a dependent who is also a member of a uniformed service and, because of such membership, is automatically insured under this paragraph)” after “insurable dependent of the member”.
 
@@ -2135,15 +2135,15 @@ Subsec. (a)(3)(D). Pub. L. 115–232, § 625(2), added subpar. (D).
 
 2008—Subsec. (a)(1)(C), (5)(C). Pub. L. 110–389 substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title”.
 
-2005—Subsec. (a)(2)(A). Pub. L. 109–13, § 1012(d), which directed insertion of “, except with respect to insurance provided under paragraph (3)(A)(i)(III)” before period at end, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
+2005—Subsec. (a)(2)(A). Pub. L. 109–13, § 1012(d), which directed insertion of “, except with respect to insurance provided under paragraph (3)(A)(i)(III)” before period at end, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
 
-Subsec. (a)(2)(C). Pub. L. 109–13, § 1012(f)(1), which directed addition of subpar. (C), was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below. Subpar. (C) read as follows: “Pursuant to regulations prescribed by the Secretary of Defense, notice of an election of a member with a spouse not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount provided under paragraph (3)(A)(i)(I), shall be provided to the spouse of the member.”
+Subsec. (a)(2)(C). Pub. L. 109–13, § 1012(f)(1), which directed addition of subpar. (C), was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below. Subpar. (C) read as follows: “Pursuant to regulations prescribed by the Secretary of Defense, notice of an election of a member with a spouse not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount provided under paragraph (3)(A)(i)(I), shall be provided to the spouse of the member.”
 
-Subsec. (a)(3)(A). Pub. L. 109–13, § 1012(f)(2)(A), which directed substitution of “, (C), and (D)” for “and (C)” in introductory provisions, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
+Subsec. (a)(3)(A). Pub. L. 109–13, § 1012(f)(2)(A), which directed substitution of “, (C), and (D)” for “and (C)” in introductory provisions, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
 
-Subsec. (a)(3)(A)(i). Pub. L. 109–80, § 3(a)(1), substituted “$400,000” for “$250,000”.
+Subsec. (a)(3)(A)(i). Pub. L. 109–80, § 3(a)(1), substituted “$400,000” for “$250,000”.
 
-Pub. L. 109–13, § 1012(a)(1), which directed the addition of cl. (i) and the striking of former cl. (i), was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below. The cl. (i) added by Pub. L. 109–13 read as follows: “In the case of a member—
+Pub. L. 109–13, § 1012(a)(1), which directed the addition of cl. (i) and the striking of former cl. (i), was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below. The cl. (i) added by Pub. L. 109–13 read as follows: “In the case of a member—
 
 “(I) $400,000 or such lesser amount as the member may elect as provided in subparagraph (B);
 
@@ -2151,21 +2151,21 @@ Pub. L. 109–13, § 1012(a)(1), which directed the addition of cl. (i) and th
 
 “(III) in the case of a member covered by subsection (e) who has made an election under paragraph (2)(A) not to be insured under this subchapter, the amount of insurance provided for the member by subsection (e).”
 
-Subsec. (a)(3)(B). Pub. L. 109–80, § 5(a), substituted “member, be evenly divisible by $50,000 and, in the case of a member’s spouse,” for “member or spouse”.
+Subsec. (a)(3)(B). Pub. L. 109–80, § 5(a), substituted “member, be evenly divisible by $50,000 and, in the case of a member’s spouse,” for “member or spouse”.
 
-Pub. L. 109–13, § 1012(b), which directed substitution of “member, be evenly divisible by $50,000 and, in the case of a member’s spouse” for “member or spouse”, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
+Pub. L. 109–13, § 1012(b), which directed substitution of “member, be evenly divisible by $50,000 and, in the case of a member’s spouse” for “member or spouse”, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
 
-Subsec. (a)(3)(D), (E). Pub. L. 109–13, § 1012(f)(2)(B), which directed addition of subpars. (D) and (E), was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below. Subpars. (D) and (E) read as follows:
+Subsec. (a)(3)(D), (E). Pub. L. 109–13, § 1012(f)(2)(B), which directed addition of subpars. (D) and (E), was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below. Subpars. (D) and (E) read as follows:
 
 “(D) A member with a spouse may not elect not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount provided under subparagraph (A)(i)(I), without the written consent of the spouse.
 
 “(E) Whenever a member who is not married elects not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount provided for under subparagraph (A)(i)(I), the Secretary concerned shall provide a notice of such election to any person designated by the member as a beneficiary or designated as the member’s next-of-kin for the purpose of emergency notification, as determined under regulations prescribed by the Secretary of Defense.”
 
-Subsec. (d). Pub. L. 109–80, § 3(a)(2), substituted “in effect under paragraph (3)(A)(i) of that subsection” for “of $250,000” in introductory provisions.
+Subsec. (d). Pub. L. 109–80, § 3(a)(2), substituted “in effect under paragraph (3)(A)(i) of that subsection” for “of $250,000” in introductory provisions.
 
-Pub. L. 109–13, § 1012(a)(2), which directed substitution of “$400,000” for “$250,000” in introductory provisions, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
+Pub. L. 109–13, § 1012(a)(2), which directed substitution of “$400,000” for “$250,000” in introductory provisions, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
 
-Subsec. (e). Pub. L. 109–13, § 1012(c)(1), which directed addition of subsec. (e) and redesignation of former subsec. (e) as (f), was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below. The subsec. (e) added by Pub. L. 109–13 read as follows:
+Subsec. (e). Pub. L. 109–13, § 1012(c)(1), which directed addition of subsec. (e) and redesignation of former subsec. (e) as (f), was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below. The subsec. (e) added by Pub. L. 109–13 read as follows:
 
 “(e)(1) A member covered by this subsection is any member as follows:
 
@@ -2183,11 +2183,11 @@ Subsec. (e). Pub. L. 109–13, § 1012(c)(1), which directed addition of subse
 
 “(B) if deducted or withheld from the member’s pay, be reimbursed to the member through such mechanism as the Secretary concerned determines appropriate.”
 
-Subsec. (f). Pub. L. 109–80, § 4, added subsec. (f).
+Subsec. (f). Pub. L. 109–80, § 4, added subsec. (f).
 
-Pub. L. 109–13, § 1012(c)(1)(A), which directed redesignation of subsec. (e) as (f), was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
+Pub. L. 109–13, § 1012(c)(1)(A), which directed redesignation of subsec. (e) as (f), was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
 
-2001—Subsec. (a). Pub. L. 107–14, § 4(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any policy of insurance purchased by the Secretary under section 1966 of this title shall automatically insure against death—
+2001—Subsec. (a). Pub. L. 107–14, § 4(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any policy of insurance purchased by the Secretary under section 1966 of this title shall automatically insure against death—
 
 “(1) any member of a uniformed service on active duty, active duty for training, or inactive duty training scheduled in advance by competent authority; and
 
@@ -2195,33 +2195,33 @@ Pub. L. 109–13, § 1012(c)(1)(A), which directed redesignation of subsec. (e
 
 in the amount of $250,000, unless such member elects in writing (A) not to be insured under this subchapter, or (B) to be insured in an amount less than $250,000 that is evenly divisible by $10,000. The insurance shall be effective the first day of active duty or active duty for training, or the beginning of a period of inactive duty training scheduled in advance by competent authority, or the first day a member of the Ready Reserve meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, or the date certified by the Secretary to the Secretary concerned as the date Servicemembers’ Group Life Insurance under this subchapter for the class or group concerned takes effect, whichever is the later date.”
 
-Subsec. (c). Pub. L. 107–14, § 4(b)(2), inserted first sentence and struck out former first sentence which read as follows: “If any member elects not to be insured under this subchapter or to be insured in any amount less than $250,000, such member may thereafter be insured under this subchapter in the amount of $250,000 or any lesser amount evenly divisible by $10,000 upon written application, proof of good health, and compliance with such other terms and conditions as may be prescribed by the Secretary.”
+Subsec. (c). Pub. L. 107–14, § 4(b)(2), inserted first sentence and struck out former first sentence which read as follows: “If any member elects not to be insured under this subchapter or to be insured in any amount less than $250,000, such member may thereafter be insured under this subchapter in the amount of $250,000 or any lesser amount evenly divisible by $10,000 upon written application, proof of good health, and compliance with such other terms and conditions as may be prescribed by the Secretary.”
 
-2000—Subsec. (a). Pub. L. 106–419, § 313(b), substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title” in par. (2) and concluding provisions.
+2000—Subsec. (a). Pub. L. 106–419, § 313(b), substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title” in par. (2) and concluding provisions.
 
-Pub. L. 106–419, § 312(a), substituted “$250,000” for “$200,000” in two places in concluding provisions.
+Pub. L. 106–419, § 312(a), substituted “$250,000” for “$200,000” in two places in concluding provisions.
 
-Subsecs. (c), (d). Pub. L. 106–419, § 312(a), substituted “$250,000” for “$200,000” in two places in subsec. (c) and in introductory provisions of subsec. (d).
+Subsecs. (c), (d). Pub. L. 106–419, § 312(a), substituted “$250,000” for “$200,000” in two places in subsec. (c) and in introductory provisions of subsec. (d).
 
-1996—Subsec. (a). Pub. L. 104–275, § 405(b)(1)(A), substituted “Servicemembers’ Group” for “Servicemen’s Group” in concluding provisions.
+1996—Subsec. (a). Pub. L. 104–275, § 405(b)(1)(A), substituted “Servicemembers’ Group” for “Servicemen’s Group” in concluding provisions.
 
-Pub. L. 104–275, § 402(b)(1)(C), struck out “or the first day a member of the Reserves, whether or not assigned to the Retired Reserve of a uniformed service, meets the qualifications of section 1965(5)(C) of this title, or the first day a member of the Reserves meets the qualifications of section 1965(5)(D) of this title,” after “section 1965(5)(B) of this title,” in concluding provisions.
+Pub. L. 104–275, § 402(b)(1)(C), struck out “or the first day a member of the Reserves, whether or not assigned to the Retired Reserve of a uniformed service, meets the qualifications of section 1965(5)(C) of this title, or the first day a member of the Reserves meets the qualifications of section 1965(5)(D) of this title,” after “section 1965(5)(B) of this title,” in concluding provisions.
 
-Pub. L. 104–106, § 646(1), substituted “$200,000” for “$100,000” in two places in concluding provisions.
+Pub. L. 104–106, § 646(1), substituted “$200,000” for “$100,000” in two places in concluding provisions.
 
-Subsec. (a)(1). Pub. L. 104–275, § 402(b)(1)(A), inserted “and” at end.
+Subsec. (a)(1). Pub. L. 104–275, § 402(b)(1)(A), inserted “and” at end.
 
-Subsec. (a)(3), (4). Pub. L. 104–275, § 402(b)(1)(B), struck out pars. (3) and (4) which read as follows:
+Subsec. (a)(3), (4). Pub. L. 104–275, § 402(b)(1)(B), struck out pars. (3) and (4) which read as follows:
 
 “(3) any member assigned to, or who upon application would be eligible for assignment to, the Retired Reserve of a uniformed service who meets the qualifications set forth in section 1965(5)(C) of this title; and
 
 “(4) any member assigned to the Retired Reserve of a uniform service who meets the qualifications set forth in section 1965(5)(D) of this title;”.
 
-Subsec. (c). Pub. L. 104–275, § 405(b)(1)(A), substituted “Servicemembers’ Group” for “Servicemen’s Group” in two places.
+Subsec. (c). Pub. L. 104–275, § 405(b)(1)(A), substituted “Servicemembers’ Group” for “Servicemen’s Group” in two places.
 
-Pub. L. 104–106, § 646(1), substituted “$200,000” for “$100,000” in two places.
+Pub. L. 104–106, § 646(1), substituted “$200,000” for “$100,000” in two places.
 
-Subsec. (d). Pub. L. 104–275, §§ 402(b)(2), 404, added subsec. (d) and struck out former subsec. (d) which read as follows: “Notwithstanding any other provision of this section, any member who on May 1, 1991 is a member of the Retired Reserve of a uniformed service (or who upon application would be eligible for assignment to the Retired Reserve of a uniformed service) may obtain increased insurance coverage in the amount of $100,000 or any lesser amount evenly divisible by $10,000 if—
+Subsec. (d). Pub. L. 104–275, §§ 402(b)(2), 404, added subsec. (d) and struck out former subsec. (d) which read as follows: “Notwithstanding any other provision of this section, any member who on May 1, 1991 is a member of the Retired Reserve of a uniformed service (or who upon application would be eligible for assignment to the Retired Reserve of a uniformed service) may obtain increased insurance coverage in the amount of $100,000 or any lesser amount evenly divisible by $10,000 if—
 
 “(1) the member—
 
@@ -2231,61 +2231,61 @@ Subsec. (d). Pub. L. 104–275, §§ 402(b)(2), 404, added subsec. (d) and str
 
 “(2) the member submits a written application for the increased coverage to the office established pursuant to section 1966(b) of this title within one year after May 1, 1991.”
 
-Subsec. (e). Pub. L. 104–275, § 405(b)(1)(A), substituted “Servicemembers’ Group” for “Servicemen’s Group”.
+Subsec. (e). Pub. L. 104–275, § 405(b)(1)(A), substituted “Servicemembers’ Group” for “Servicemen’s Group”.
 
-Pub. L. 104–106, § 646(2), (3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “In addition to the amounts of insurance otherwise provided under this section, an eligible member may, upon application, obtain increased coverage beyond that provided under this section in the amount of $100,000, or any lesser amount evenly divisible by $10,000.”
+Pub. L. 104–106, § 646(2), (3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “In addition to the amounts of insurance otherwise provided under this section, an eligible member may, upon application, obtain increased coverage beyond that provided under this section in the amount of $100,000, or any lesser amount evenly divisible by $10,000.”
 
-Subsec. (f). Pub. L. 104–106, § 646(3), redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 104–106, § 646(3), redesignated subsec. (f) as (e).
 
-1994—Subsec. (a). Pub. L. 103–337, § 651(b)(4), inserted “or the first day a member of the Reserves meets the qualifications of section 1965(5)(D) of this title,” after “section 1965(5)(C) of this title,” in second sentence.
+1994—Subsec. (a). Pub. L. 103–337, § 651(b)(4), inserted “or the first day a member of the Reserves meets the qualifications of section 1965(5)(D) of this title,” after “section 1965(5)(C) of this title,” in second sentence.
 
-Subsec. (a)(4). Pub. L. 103–337, § 651(b)(1)–(3), added par. (4).
+Subsec. (a)(4). Pub. L. 103–337, § 651(b)(1)–(3), added par. (4).
 
 1993—Subsec. (f). Pub. L. 103–160 added subsec. (f).
 
 1992—Subsec. (e). Pub. L. 102–568 added subsec. (e).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 767 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 767 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1966” for “766”, “1965(5)(B)” for “765(5)(B)” in two places, and “1965(5)(C)” for “765(5)(C)” in two places.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1966” for “766”, “1965(5)(B)” for “765(5)(B)” in two places, and “1965(5)(C)” for “765(5)(C)” in two places.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in last sentence.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in last sentence.
 
-Pub. L. 102–25, § 336(a)(1), substituted “$100,000” for “$50,000” in two places in concluding provisions.
+Pub. L. 102–25, § 336(a)(1), substituted “$100,000” for “$50,000” in two places in concluding provisions.
 
-Subsec. (b)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–25, § 336(a)(1), substituted “$100,000” for “$50,000” in two places.
+Pub. L. 102–25, § 336(a)(1), substituted “$100,000” for “$50,000” in two places.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1966(b)” for “766(b)” in par. (2).
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1966(b)” for “766(b)” in par. (2).
 
-Pub. L. 102–54, § 336(a)(2), substituted “May 1, 1991” for “January 1, 1986” wherever appearing and “$100,000” for “$50,000” in introductory provisions.
+Pub. L. 102–54, § 336(a)(2), substituted “May 1, 1991” for “January 1, 1986” wherever appearing and “$100,000” for “$50,000” in introductory provisions.
 
-1986—Subsec. (b). Pub. L. 99–576, § 701(37)(A), substituted “such member” for “him”, “such member” for “he” in three places, and “such member’s” for “his”.
+1986—Subsec. (b). Pub. L. 99–576, § 701(37)(A), substituted “such member” for “him”, “such member” for “he” in three places, and “such member’s” for “his”.
 
-Subsec. (c). Pub. L. 99–576, § 701(37)(B)(i), substituted “such member’s” for “his”.
+Subsec. (c). Pub. L. 99–576, § 701(37)(B)(i), substituted “such member’s” for “his”.
 
-Pub. L. 99–576, § 701(37)(B)(ii), which directed that subsec. (c) be amended by substituting “such member” for “he”, could not be executed, because “he” does not appear in text. See 1985 Amendment note below.
+Pub. L. 99–576, § 701(37)(B)(ii), which directed that subsec. (c) be amended by substituting “such member” for “he”, could not be executed, because “he” does not appear in text. See 1985 Amendment note below.
 
-1985—Subsec. (a). Pub. L. 99–166, § 401(a)(1), increased the amount of insurance to $50,000 from $35,000 and substituted “an amount less than $50,000 that is evenly divisible by $10,000” for “the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000”.
+1985—Subsec. (a). Pub. L. 99–166, § 401(a)(1), increased the amount of insurance to $50,000 from $35,000 and substituted “an amount less than $50,000 that is evenly divisible by $10,000” for “the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000”.
 
-Subsec. (c). Pub. L. 99–166, § 401(a)(2), substituted “any amount less than $50,000, such member may thereafter be insured under this subchapter in the amount of $50,000 or any lesser amount evenly divisible by $10,000” for “the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000, he may thereafter be insured under this subchapter or insured in the amount of $35,000, $30,000, $25,000, $20,000, $15,000, or $10,000 under this subchapter, as the case may be,”.
+Subsec. (c). Pub. L. 99–166, § 401(a)(2), substituted “any amount less than $50,000, such member may thereafter be insured under this subchapter in the amount of $50,000 or any lesser amount evenly divisible by $10,000” for “the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000, he may thereafter be insured under this subchapter or insured in the amount of $35,000, $30,000, $25,000, $20,000, $15,000, or $10,000 under this subchapter, as the case may be,”.
 
-Subsec. (d). Pub. L. 99–166, § 401(a)(3), substituted “January 1, 1986” for “the effective date of this subsection” wherever appearing, and substituted “in the amount of $50,000 or any lesser amount evenly divisible by $10,000” for “up to a maximum of $35,000 (in any amount divisible by $5,000)”.
+Subsec. (d). Pub. L. 99–166, § 401(a)(3), substituted “January 1, 1986” for “the effective date of this subsection” wherever appearing, and substituted “in the amount of $50,000 or any lesser amount evenly divisible by $10,000” for “up to a maximum of $35,000 (in any amount divisible by $5,000)”.
 
-1981—Subsec. (a). Pub. L. 97–66, § 401(a)(1), substituted “in the amount of $35,000 unless such member elects in writing (A) not to be insured under this subchapter, or (B) to be insured in the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000” for “in the amount of $20,000 unless such member elects in writing (A) not to be insured under this subchapter, or (B) to be insured in the amount of $15,000, $10,000, or $5,000”.
+1981—Subsec. (a). Pub. L. 97–66, § 401(a)(1), substituted “in the amount of $35,000 unless such member elects in writing (A) not to be insured under this subchapter, or (B) to be insured in the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000” for “in the amount of $20,000 unless such member elects in writing (A) not to be insured under this subchapter, or (B) to be insured in the amount of $15,000, $10,000, or $5,000”.
 
-Subsec. (c). Pub. L. 97–66, § 401(a)(2), substituted “insured in the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000, he may thereafter be insured under this subchapter or insured in the amount of $35,000, $30,000, $25,000, $20,000, $15,000, or $10,000 under this subchapter” for “insured in the amount of $15,000, $10,000, or $5,000, he may thereafter be insured under this subchapter or insured in the amount of $20,000, $15,000, or $10,000 under this subchapter”.
+Subsec. (c). Pub. L. 97–66, § 401(a)(2), substituted “insured in the amount of $30,000, $25,000, $20,000, $15,000, $10,000, or $5,000, he may thereafter be insured under this subchapter or insured in the amount of $35,000, $30,000, $25,000, $20,000, $15,000, or $10,000 under this subchapter” for “insured in the amount of $15,000, $10,000, or $5,000, he may thereafter be insured under this subchapter or insured in the amount of $20,000, $15,000, or $10,000 under this subchapter”.
 
-Subsec. (d). Pub. L. 97–66, § 401(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 97–66, § 401(a)(3), added subsec. (d).
 
-1974—Subsec. (a). Pub. L. 93–289, § 4(1), authorized insurance for any member of Ready Reserve who meets qualifications set forth in section 765(5)(B) of this title, and any member assigned to, or who upon application would be eligible for assignment to, the Retired Reserve who meets the qualifications set forth in section 765(5)(C) of this title, increased the amount of insurance from $15,000 to $20,000, permitted a member to elect to be insured for $15,000, and prescribed the effective dates of insurance for members of the Ready Reserve and members of the Reserves, whether or not assigned to the Retired Reserves.
+1974—Subsec. (a). Pub. L. 93–289, § 4(1), authorized insurance for any member of Ready Reserve who meets qualifications set forth in section 765(5)(B) of this title, and any member assigned to, or who upon application would be eligible for assignment to, the Retired Reserve who meets the qualifications set forth in section 765(5)(C) of this title, increased the amount of insurance from $15,000 to $20,000, permitted a member to elect to be insured for $15,000, and prescribed the effective dates of insurance for members of the Ready Reserve and members of the Reserves, whether or not assigned to the Retired Reserves.
 
-Subsec. (b). Pub. L. 93–289, § 4(2), substituted “one hundred and twenty days” for “ninety days” in three places.
+Subsec. (b). Pub. L. 93–289, § 4(2), substituted “one hundred and twenty days” for “ninety days” in three places.
 
-Subsec. (c). Pub. L. 93–289, § 4(3), inserted provisions authorizing members who elected to be insured in amounts of $15,000, $10,000, or $5,000 to increase the amount of insurance to $20,000, and inserted sentence providing for automatic insurance for former members insured under Veterans’ Group Life Insurance who decline coverage under Servicemen’s Group Life Insurance.
+Subsec. (c). Pub. L. 93–289, § 4(3), inserted provisions authorizing members who elected to be insured in amounts of $15,000, $10,000, or $5,000 to increase the amount of insurance to $20,000, and inserted sentence providing for automatic insurance for former members insured under Veterans’ Group Life Insurance who decline coverage under Servicemen’s Group Life Insurance.
 
 1970—Subsec. (a). Pub. L. 91–291 increased from $10,000 to $15,000 maximum amount of insurance authorized for members of uniformed services and inserted references to active duty for training and inactive duty training scheduled in advance by competent authority.
 
@@ -2297,7 +2297,7 @@ Subsec. (c). Pub. L. 91–291 redesignated former subsec. (b) as subsec. (c) and
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–209, § 2(b), Oct. 17, 2022, 136 Stat. 2243, provided that:
+Pub. L. 117–209, § 2(b), Oct. 17, 2022, 136 Stat. 2243, provided that:
 
 > “The amendment made by subsection (a) [amending this section] shall take effect on the later of—
 
@@ -2311,27 +2311,27 @@ Pub. L. 117–209, § 2(b), Oct. 17, 2022, 136 Stat. 2243, provided that:
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–389, title IV, § 403(e)(1), Oct. 10, 2008, 122 Stat. 4174, provided that: “The amendments made by subsection (a) [amending this section and section 1969 of this title] shall take effect on the date of the enactment of this Act [Oct. 10, 2008].”
+Pub. L. 110–389, title IV, § 403(e)(1), Oct. 10, 2008, 122 Stat. 4174, provided that: “The amendments made by subsection (a) [amending this section and section 1969 of this title] shall take effect on the date of the enactment of this Act [Oct. 10, 2008].”
 
 **Effective and Termination Dates of 2005 Amendments**
 
-Pub. L. 109–80, § 2, Sept. 30, 2005, 119 Stat. 2045, provided that: “Effective as of August 31, 2005, section 1012 of division A of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 244) [amending this section and sections 1969, 1970, and 1977 of this title and enacting provisions set out as a note under this section], including the amendments made by that section, are repealed, and sections 1967, 1969, 1970, and 1977 of title 38, United States Code, shall be applied as if that section had not been enacted.”
+Pub. L. 109–80, § 2, Sept. 30, 2005, 119 Stat. 2045, provided that: “Effective as of August 31, 2005, section 1012 of division A of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Tsunami Relief, 2005 (Public Law 109–13; 119 Stat. 244) [amending this section and sections 1969, 1970, and 1977 of this title and enacting provisions set out as a note under this section], including the amendments made by that section, are repealed, and sections 1967, 1969, 1970, and 1977 of title 38, United States Code, shall be applied as if that section had not been enacted.”
 
-Pub. L. 109–80, § 3(c), Sept. 30, 2005, 119 Stat. 2046, provided that: “The amendments made by this section [amending this section and section 1977 of this title] shall take effect as of September 1, 2005, and shall apply with respect to deaths occurring on or after that date.”
+Pub. L. 109–80, § 3(c), Sept. 30, 2005, 119 Stat. 2046, provided that: “The amendments made by this section [amending this section and section 1977 of this title] shall take effect as of September 1, 2005, and shall apply with respect to deaths occurring on or after that date.”
 
-Pub. L. 109–80, § 4, Sept. 30, 2005, 119 Stat. 2046, provided that the amendment made by that section is effective Sept. 1, 2005.
+Pub. L. 109–80, § 4, Sept. 30, 2005, 119 Stat. 2046, provided that the amendment made by that section is effective Sept. 1, 2005.
 
-Pub. L. 109–80, § 5(b), Sept. 30, 2005, 119 Stat. 2047, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of September 1, 2005.”
+Pub. L. 109–80, § 5(b), Sept. 30, 2005, 119 Stat. 2047, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of September 1, 2005.”
 
-Pub. L. 109–77, § 115, Sept. 30, 2005, 119 Stat. 2040, provided that: “The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 [amending this section, sections 1969, 1970, and 1977 of this title, section 1478 of Title 10, Armed Forces, and section 411h of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 [119 Stat. 244] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law [enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37], through the earlier of: (1) the date specified in section 106(3) of this joint resolution [Dec. 31, 2005]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section.”
+Pub. L. 109–77, § 115, Sept. 30, 2005, 119 Stat. 2040, provided that: “The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 [amending this section, sections 1969, 1970, and 1977 of this title, section 1478 of Title 10, Armed Forces, and section 411h of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 [119 Stat. 244] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law [enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37], through the earlier of: (1) the date specified in section 106(3) of this joint resolution [Dec. 31, 2005]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section.”
 
-Pub. L. 109–13, div. A, title I, § 1012(h), (i), May 11, 2005, 119 Stat. 246, which provided that section 1012 of Pub. L. 109–13, amending this section and sections 1969, 1970, and 1977 of this title, would take effect on the first day of the first month that began more than 90 days after May 11, 2005, and would terminate on Sept. 30, 2005, and that provisions of such sections as in effect on the day before May 11, 2005, would be revived, was repealed by Pub. L. 109–80, § 2, Sept. 30, 2005, 119 Stat. 2045, effective Aug. 31, 2005.
+Pub. L. 109–13, div. A, title I, § 1012(h), (i), May 11, 2005, 119 Stat. 246, which provided that section 1012 of Pub. L. 109–13, amending this section and sections 1969, 1970, and 1977 of this title, would take effect on the first day of the first month that began more than 90 days after May 11, 2005, and would terminate on Sept. 30, 2005, and that provisions of such sections as in effect on the day before May 11, 2005, would be revived, was repealed by Pub. L. 109–80, § 2, Sept. 30, 2005, 119 Stat. 2045, effective Aug. 31, 2005.
 
 **Effective Date of 2001 Amendment**
 
 Amendment by Pub. L. 107–14 effective on the first day of the first month that begins more than 120 days after June 5, 2001, see section 4(g)(1) of Pub. L. 107–14, set out as a note under section 101 of this title.
 
-Pub. L. 107–14, § 5, June 5, 2001, 115 Stat. 30, provided that:
+Pub. L. 107–14, § 5, June 5, 2001, 115 Stat. 30, provided that:
 
 > **“(a) Applicability of Increase in Benefit.—** Notwithstanding subsection (c) of section 312 of the Veterans Benefits and Health Care Improvement Act of 2000 (Public Law 106–419; 114 Stat. 1854) [set out as a note below], the amendments made by subsection (a) of that section [amending this section] shall take effect on October 1, 2000, with respect to any member of the uniformed services who died in the performance of duty (as determined by the Secretary concerned) during the period beginning on October 1, 2000, and ending at the close of March 31, 2001, and who on the date of death was insured under the Servicemembers’ Group Life Insurance program under subchapter III of chapter 19 of title 38, United States Code, for the maximum coverage available under that program.
 
@@ -2343,15 +2343,15 @@ Pub. L. 107–14, § 5, June 5, 2001, 115 Stat. 30, provided that:
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–419, title III, § 312(c), Nov. 1, 2000, 114 Stat. 1854, provided that: “The amendments made by this section [amending this section and section 1977 of this title] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act [Nov. 1, 2000].”
+Pub. L. 106–419, title III, § 312(c), Nov. 1, 2000, 114 Stat. 1854, provided that: “The amendments made by this section [amending this section and section 1977 of this title] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act [Nov. 1, 2000].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title VI, § 646, Feb. 10, 1996, 110 Stat. 369, provided that the amendments made by that section are effective Apr. 1, 1996.
+Pub. L. 104–106, div. A, title VI, § 646, Feb. 10, 1996, 110 Stat. 369, provided that the amendments made by that section are effective Apr. 1, 1996.
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–160, div. A, title XI, § 1175(b), Nov. 30, 1993, 107 Stat. 1768, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to amendments to chapter 19 of title 38, United States Code, that take effect after November 29, 1992.”
+Pub. L. 103–160, div. A, title XI, § 1175(b), Nov. 30, 1993, 107 Stat. 1768, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to amendments to chapter 19 of title 38, United States Code, that take effect after November 29, 1992.”
 
 **Effective Date of 1992 Amendment**
 
@@ -2359,11 +2359,11 @@ Amendment by Pub. L. 102–568 effective Dec. 1, 1992, see section 205 of Pub. L
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–25, title III, § 336(c)(1), Apr. 6, 1991, 105 Stat. 90, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to deaths on or after the date of the enactment of this Act [Apr. 6, 1991].”
+Pub. L. 102–25, title III, § 336(c)(1), Apr. 6, 1991, 105 Stat. 90, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to deaths on or after the date of the enactment of this Act [Apr. 6, 1991].”
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–166, title IV, § 401(c), Dec. 3, 1985, 99 Stat. 957, as amended by Pub. L. 99–227, § 3, Dec. 28, 1985, 99 Stat. 1745, provided that:
+Pub. L. 99–166, title IV, § 401(c), Dec. 3, 1985, 99 Stat. 957, as amended by Pub. L. 99–227, § 3, Dec. 28, 1985, 99 Stat. 1745, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by subsections (a) and (b) [amending this section and section 777 [now 1977] of this title] shall take effect on January 1, 1986.
 
@@ -2379,7 +2379,7 @@ Amendment by Pub. L. 97–66 effective Dec. 1, 1981, see section 701(b)(2) of Pu
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–289, § 12(3), May 24, 1974, 88 Stat. 173, provided that: “The amendments increasing the maximum amount of Servicemen’s Group Life Insurance shall become effective upon the date of enactment of this Act [May 24, 1974].”
+Pub. L. 93–289, § 12(3), May 24, 1974, 88 Stat. 173, provided that: “The amendments increasing the maximum amount of Servicemen’s Group Life Insurance shall become effective upon the date of enactment of this Act [May 24, 1974].”
 
 **Effective Date of 1970 Amendment**
 
@@ -2387,9 +2387,9 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 
 **Payment of Death Gratuity to SGLI Beneficiaries**
 
-Pub. L. 103–139, title VIII, § 8134, Nov. 11, 1993, 107 Stat. 1471, required Secretary of Defense to pay death gratuity to each beneficiary under Servicemen’s Group Life Insurance policy in case of each deceased member of uniformed services who died on or after Oct. 29, 1992, and before Dec. 1, 1992, and whose death was in performance of duty.
+Pub. L. 103–139, title VIII, § 8134, Nov. 11, 1993, 107 Stat. 1471, required Secretary of Defense to pay death gratuity to each beneficiary under Servicemen’s Group Life Insurance policy in case of each deceased member of uniformed services who died on or after Oct. 29, 1992, and before Dec. 1, 1992, and whose death was in performance of duty.
 
-### § 1968. Duration and termination of coverage; conversion
+### § 1968. Duration and termination of coverage; conversion
 
 **(a)** Each policy purchased under this subchapter shall contain a provision, in terms approved by the Secretary, to the effect that any insurance thereunder on any member of the uniformed services, and any insurance thereunder on any insurable dependent of such a member, unless discontinued or reduced upon the written request of the insured (or discontinued pursuant to section 1969(a)(2)(B) of this title), shall continue in effect while the member is on active duty, active duty for training, or inactive duty training scheduled in advance by competent authority during the period thereof, or while the member meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title and such insurance shall cease as follows:
 
@@ -2445,123 +2445,123 @@ Pub. L. 103–139, title VIII, § 8134, Nov. 11, 1993, 107 Stat. 1471, require
 
 **(B)** In the case of a policy purchased under this subchapter for an insurable dependent who is a child, such policy may not be converted under this subsection.
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 881, § 768; amended Pub. L. 91–291, § 3, June 25, 1970, 84 Stat. 328; Pub. L. 93–289, § 5(a), May 24, 1974, 88 Stat. 166; Pub. L. 97–295, § 4(30), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(38), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1968 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, § 651(c), title XVI, § 1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–106, div. A, title VI, § 647(b), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§ 402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, 110 Stat. 3337–3339; Pub. L. 106–65, div. A, title X, § 1066(d)(1), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–419, title III, § 313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, § 4(c), (f), June 5, 2001, 115 Stat. 28, 29; Pub. L. 109–233, title III, § 301, June 15, 2006, 120 Stat. 405; Pub. L. 110–389, title IV, § 403(b), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title IV, §§ 402(a), 403, Oct. 13, 2010, 124 Stat. 2879.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 881, § 768; amended Pub. L. 91–291, § 3, June 25, 1970, 84 Stat. 328; Pub. L. 93–289, § 5(a), May 24, 1974, 88 Stat. 166; Pub. L. 97–295, § 4(30), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(38), Oct. 28, 1986, 100 Stat. 3293; renumbered § 1968 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, § 651(c), title XVI, § 1677(d)(1), Oct. 5, 1994, 108 Stat. 2792, 3020; Pub. L. 104–106, div. A, title VI, § 647(b), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§ 402(c), 403(a), 405(b)(1)(B), Oct. 9, 1996, 110 Stat. 3337–3339; Pub. L. 106–65, div. A, title X, § 1066(d)(1), Oct. 5, 1999, 113 Stat. 773; Pub. L. 106–419, title III, § 313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, § 4(c), (f), June 5, 2001, 115 Stat. 28, 29; Pub. L. 109–233, title III, § 301, June 15, 2006, 120 Stat. 405; Pub. L. 110–389, title IV, § 403(b), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title IV, §§ 402(a), 403, Oct. 13, 2010, 124 Stat. 2879.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(1)(A)(ii). Pub. L. 111–275, § 402(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “The date that is—
+2010—Subsec. (a)(1)(A)(ii). Pub. L. 111–275, § 402(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “The date that is—
 
 “(I) two years after the date of separation or release from such active duty or active duty for training, in the case of such a separation or release during the period beginning on the date that is one year before the date of the enactment of Veterans’ Housing Opportunity and Benefits Improvement Act of 2006 and ending on September 30, 2011; and
 
 “(II) 18 months after the date of separation or release from such active duty or active duty for training, in the case of such a separation or release on or after October 1, 2011.”
 
-Subsec. (a)(4)(B). Pub. L. 111–275, § 402(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The date that is—
+Subsec. (a)(4)(B). Pub. L. 111–275, § 402(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “The date that is—
 
 “(i) two years after the date of separation or release from such assignment, in the case of such a separation or release during the period beginning on the date that is one year before the date of the enactment of Veterans’ Housing Opportunity and Benefits Improvement Act of 2006 and ending on September 30, 2011; and
 
 “(ii) 18 months after the date of separation or release from such assignment, in the case of such a separation or release on or after October 1, 2011.”
 
-Subsec. (a)(5)(B)(ii). Pub. L. 111–275, § 403, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the date of termination of the insurance on the member’s life under this subchapter; or”.
+Subsec. (a)(5)(B)(ii). Pub. L. 111–275, § 403, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the date of termination of the insurance on the member’s life under this subchapter; or”.
 
 2008—Subsec. (a)(5)(B)(ii). Pub. L. 110–389 struck out “120 days after” before “the date”.
 
-2006—Subsec. (a)(1). Pub. L. 109–233, § 301(a)(2)(A), substituted “shall cease as follows:” for “shall cease—” in introductory provisions.
+2006—Subsec. (a)(1). Pub. L. 109–233, § 301(a)(2)(A), substituted “shall cease as follows:” for “shall cease—” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 109–233, § 301(a)(1), substantially rewrote subpar. (A). Prior to amendment, subpar. (A) read as follows: “120 days after the separation or release from active duty or active duty for training, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such active duty or active duty for training, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after such separation or release; or”.
+Subsec. (a)(1)(A). Pub. L. 109–233, § 301(a)(1), substantially rewrote subpar. (A). Prior to amendment, subpar. (A) read as follows: “120 days after the separation or release from active duty or active duty for training, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such active duty or active duty for training, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after such separation or release; or”.
 
-Subsec. (a)(1)(B). Pub. L. 109–233, § 301(a)(2)(B), substituted “At” for “at” after subpar. designation.
+Subsec. (a)(1)(B). Pub. L. 109–233, § 301(a)(2)(B), substituted “At” for “at” after subpar. designation.
 
-Subsec. (a)(4). Pub. L. 109–233, § 301(b), substantially rewrote par. (4). Prior to amendment, par. (4) read as follows: “With respect to a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, insurance under this subchapter shall cease 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such assignment, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after separation or release from such assignment.”
+Subsec. (a)(4). Pub. L. 109–233, § 301(b), substantially rewrote par. (4). Prior to amendment, par. (4) read as follows: “With respect to a member of the Ready Reserve of a uniformed service who meets the qualifications set forth in subparagraph (B) or (C) of section 1965(5) of this title, insurance under this subchapter shall cease 120 days after separation or release from such assignment, unless on the date of such separation or release the member is totally disabled, under criteria established by the Secretary, in which event the insurance shall cease one year after the date of separation or release from such assignment, or on the date the insured ceases to be totally disabled, whichever is the earlier date, but in no event before the end of 120 days after separation or release from such assignment.”
 
-2001—Subsec. (a). Pub. L. 107–14, § 4(c)(1)(A), (2)(A), in introductory provisions, inserted “and any insurance thereunder on any insurable dependent of such a member,” after “any insurance thereunder on any member of the uniformed services,” and substituted “and such insurance shall cease as follows:” for “, and such insurance shall cease—”.
+2001—Subsec. (a). Pub. L. 107–14, § 4(c)(1)(A), (2)(A), in introductory provisions, inserted “and any insurance thereunder on any insurable dependent of such a member,” after “any insurance thereunder on any member of the uniformed services,” and substituted “and such insurance shall cease as follows:” for “, and such insurance shall cease—”.
 
-Subsec. (a)(1). Pub. L. 107–14, § 4(c)(2)(B), (C)(i), in introductory provisions, substituted “With respect” for “with respect” and “31 days, insurance under this subchapter shall cease—” for “thirty-one days—”.
+Subsec. (a)(1). Pub. L. 107–14, § 4(c)(2)(B), (C)(i), in introductory provisions, substituted “With respect” for “with respect” and “31 days, insurance under this subchapter shall cease—” for “thirty-one days—”.
 
-Subsec. (a)(1)(A). Pub. L. 107–14, § 4(c)(2)(C)(ii), substituted “120 days” for “one hundred and twenty days” and “before the end of 120 days” for “prior to the expiration of one hundred and twenty days”.
+Subsec. (a)(1)(A). Pub. L. 107–14, § 4(c)(2)(C)(ii), substituted “120 days” for “one hundred and twenty days” and “before the end of 120 days” for “prior to the expiration of one hundred and twenty days”.
 
-Subsec. (a)(1)(B). Pub. L. 107–14, § 4(c)(2)(C)(iii), substituted a period for semicolon at end.
+Subsec. (a)(1)(B). Pub. L. 107–14, § 4(c)(2)(C)(iii), substituted a period for semicolon at end.
 
-Subsec. (a)(2). Pub. L. 107–14, § 4(c)(2)(B), (D), substituted “With respect” for “with respect”, “31 days,” for “thirty-one days”, and a period for semicolon at end and substituted “120 days” for “one hundred and twenty days” in two places.
+Subsec. (a)(2). Pub. L. 107–14, § 4(c)(2)(B), (D), substituted “With respect” for “with respect”, “31 days,” for “thirty-one days”, and a period for semicolon at end and substituted “120 days” for “one hundred and twenty days” in two places.
 
-Subsec. (a)(3). Pub. L. 107–14, § 4(c)(2)(B), (E), substituted “With respect” for “with respect” and a period for “; and” at end, inserted a comma after “competent authority”, and substituted “120 days” for “one hundred and twenty days” in two places.
+Subsec. (a)(3). Pub. L. 107–14, § 4(c)(2)(B), (E), substituted “With respect” for “with respect” and a period for “; and” at end, inserted a comma after “competent authority”, and substituted “120 days” for “one hundred and twenty days” in two places.
 
-Subsec. (a)(4). Pub. L. 107–14, § 4(c)(2)(B), (F) substituted “With respect” for “with respect” and inserted “insurance under this subchapter shall cease” after “section 1965(5) of this title,”.
+Subsec. (a)(4). Pub. L. 107–14, § 4(c)(2)(B), (F) substituted “With respect” for “with respect” and inserted “insurance under this subchapter shall cease” after “section 1965(5) of this title,”.
 
-Subsec. (a)(5). Pub. L. 107–14, § 4(c)(1)(B), added par. (5).
+Subsec. (a)(5). Pub. L. 107–14, § 4(c)(1)(B), added par. (5).
 
-Subsec. (b)(1)(A). Pub. L. 107–14, § 4(c)(3), inserted “(to insure against death of the member only)” after “converted to Veterans’ Group Life Insurance”.
+Subsec. (b)(1)(A). Pub. L. 107–14, § 4(c)(3), inserted “(to insure against death of the member only)” after “converted to Veterans’ Group Life Insurance”.
 
-Subsec. (b)(3). Pub. L. 107–14, § 4(f), added par. (3).
+Subsec. (b)(3). Pub. L. 107–14, § 4(f), added par. (3).
 
 2000—Subsec. (a). Pub. L. 106–419 substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title” in introductory provisions and par. (4).
 
-1999—Subsec. (a). Pub. L. 106–65 made technical amendment to directory language of Pub. L. 104–106, § 647(b). See 1996 Amendment note below.
+1999—Subsec. (a). Pub. L. 106–65 made technical amendment to directory language of Pub. L. 104–106, § 647(b). See 1996 Amendment note below.
 
-1996—Subsec. (a). Pub. L. 104–275, § 402(c)(1)(A), substituted “section 1965(5)(B)” for “subparagraph (B), (C), or (D) of section 1965(5)” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–275, § 402(c)(1)(A), substituted “section 1965(5)(B)” for “subparagraph (B), (C), or (D) of section 1965(5)” in introductory provisions.
 
-Pub. L. 104–106, § 647(b), as amended by Pub. L. 106–65, inserted “(or discontinued pursuant to section 1969(a)(2)(B) of this title)” after “upon the written request of the insured” in introductory provisions.
+Pub. L. 104–106, § 647(b), as amended by Pub. L. 106–65, inserted “(or discontinued pursuant to section 1969(a)(2)(B) of this title)” after “upon the written request of the insured” in introductory provisions.
 
-Subsec. (a)(1) to (3). Pub. L. 104–275, § 402(c)(1)(B), (C), substituted a semicolon for the period at end of pars. (1) and (2) and “; and” for the period at end of par. (3).
+Subsec. (a)(1) to (3). Pub. L. 104–275, § 402(c)(1)(B), (C), substituted a semicolon for the period at end of pars. (1) and (2) and “; and” for the period at end of par. (3).
 
-Subsec. (a)(4). Pub. L. 104–275, § 402(c)(1)(D)(iv), struck out subpars. (B) and (C) which read as follows:
+Subsec. (a)(4). Pub. L. 104–275, § 402(c)(1)(D)(iv), struck out subpars. (B) and (C) which read as follows:
 
 “(B) unless on the date of such separation or release the member has completed at least twenty years of satisfactory service creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act) and would upon application be eligible for assignment to or is assigned to the Retired Reserve, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member’s sixty-first birthday, whichever occurs earlier; or
 
 “(C) unless on the date of such separation or release the member is transferred to the Retired Reserve of a uniformed service under the temporary special retirement authority provided in section 1331a of title 10, in which event the insurance, unless converted to an individual policy under terms and conditions set forth in section 1977(e) of this title, shall, upon timely payment of premiums under terms prescribed by the Secretary directly to the administrative office established under section 1966(b) of this title, continue in force until receipt of the first increment of retirement pay by the member or the member’s sixty-first birthday, whichever occurs earlier.”
 
-Pub. L. 104–275, § 402(c)(1)(D)(i)–(iii), substituted “120 days after separation or release from such assignment, unless on” for “one hundred and twenty days after separation or release from such assignment—
+Pub. L. 104–275, § 402(c)(1)(D)(i)–(iii), substituted “120 days after separation or release from such assignment, unless on” for “one hundred and twenty days after separation or release from such assignment—
 
 “(A) unless on”,
 
 substituted “before the end of 120 days” for “prior to the expiration of one hundred and twenty days”, and substituted “such assignment.” for “such assignment;”.
 
-Subsec. (a)(5), (6). Pub. L. 104–275, § 402(c)(1)(E), struck out pars. (5) and (6) which read as follows:
+Subsec. (a)(5), (6). Pub. L. 104–275, § 402(c)(1)(E), struck out pars. (5) and (6) which read as follows:
 
 “(5) with respect to a member of the Retired Reserve who meets the qualifications of section 1965(5)(C) of this title, and who was assigned to the Retired Reserve prior to the date insurance under the amendment made by section 5(a) of the Veterans’ Insurance Act of 1974 (Public Law 93–289, 88 Stat. 166) is placed in effect for members of the Retired Reserve, at such time as the member receives the first increment of retirement pay, or the member’s sixty-first birthday, whichever occurs earlier, subject to the timely payment of the initial and subsequent premiums, under terms prescribed by the Secretary, directly to the administrative office established under section 1966(b) of this title.
 
 “(6) with respect to a member of the Retired Reserve who meets the qualifications of section 1965(5)(D) of this title, at such time as the member receives the first increment of retirement pay, or the member’s sixty-first birthday, whichever occurs earlier, subject to the timely payment of the initial and subsequent premiums, under terms prescribed by the Secretary, directly to the administrative office established under section 1966(b) of this title.”
 
-Subsec. (b). Pub. L. 104–275, § 403(a)(3), substituted “(2) Automatic conversion to Veterans’ Group Life Insurance under paragraph (1)” for “Such automatic conversion”.
+Subsec. (b). Pub. L. 104–275, § 403(a)(3), substituted “(2) Automatic conversion to Veterans’ Group Life Insurance under paragraph (1)” for “Such automatic conversion”.
 
-Pub. L. 104–275, § 403(a)(2), substituted “would cease—” and subpars. (A) and (B) for “would cease, shall be automatically converted to Veterans’ Group Life Insurance subject to (1) the timely payment of the initial premium under terms prescribed by the Secretary, and (2) the terms and conditions set forth in section 1977 of this title.”
+Pub. L. 104–275, § 403(a)(2), substituted “would cease—” and subpars. (A) and (B) for “would cease, shall be automatically converted to Veterans’ Group Life Insurance subject to (1) the timely payment of the initial premium under terms prescribed by the Secretary, and (2) the terms and conditions set forth in section 1977 of this title.”
 
-Pub. L. 104–275, § 403(a)(1), inserted “(1)” after “(b)” at beginning of subsec.
+Pub. L. 104–275, § 403(a)(1), inserted “(1)” after “(b)” at beginning of subsec.
 
-Pub. L. 104–275, § 402(c)(2), struck out at end “Servicemen’s Group Life Insurance continued in force under section 1968(a)(4)(B) or (5) of this title shall not be converted to Veterans’ Group Life Insurance. However, a member whose insurance could be continued in force under section 1968(a)(4)(B) of this title, but is not so continued, may, effective the day after the insurance otherwise would cease, convert such insurance to an individual policy under the terms and conditions set forth in section 1977(e) of this title.”
+Pub. L. 104–275, § 402(c)(2), struck out at end “Servicemen’s Group Life Insurance continued in force under section 1968(a)(4)(B) or (5) of this title shall not be converted to Veterans’ Group Life Insurance. However, a member whose insurance could be continued in force under section 1968(a)(4)(B) of this title, but is not so continued, may, effective the day after the insurance otherwise would cease, convert such insurance to an individual policy under the terms and conditions set forth in section 1977(e) of this title.”
 
-Subsec. (b)(1). Pub. L. 104–275, § 405(b)(1)(B), substituted “Servicemembers’ Group” for “Servicemen’s Group”.
+Subsec. (b)(1). Pub. L. 104–275, § 405(b)(1)(B), substituted “Servicemembers’ Group” for “Servicemen’s Group”.
 
-1994—Subsec. (a). Pub. L. 103–337, § 651(c)(1), substituted “subparagraph (B), (C), or (D) of section 1965(5)” for “section 1965(5)(B) or (C)” in introductory provisions.
+1994—Subsec. (a). Pub. L. 103–337, § 651(c)(1), substituted “subparagraph (B), (C), or (D) of section 1965(5)” for “section 1965(5)(B) or (C)” in introductory provisions.
 
-Subsec. (a)(4)(B). Pub. L. 103–337, § 1677(d)(1), substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
+Subsec. (a)(4)(B). Pub. L. 103–337, § 1677(d)(1), substituted “chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act)” for “chapter 67 of title 10”.
 
-Subsec. (a)(4)(C). Pub. L. 103–337, § 651(c)(2), added subpar. (C).
+Subsec. (a)(4)(C). Pub. L. 103–337, § 651(c)(2), added subpar. (C).
 
-Subsec. (a)(6). Pub. L. 103–337, § 651(c)(3), added par. (6).
+Subsec. (a)(6). Pub. L. 103–337, § 651(c)(3), added par. (6).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 768 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 768 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1965(5)(B)” for “765(5)(B)” in two places, “1977(e)” for “777(e)”, “1966(b)” for “766(b)” in two places, and “1965(5)(C)” for “765(5)(C)”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1965(5)(B)” for “765(5)(B)” in two places, “1977(e)” for “777(e)”, “1966(b)” for “766(b)” in two places, and “1965(5)(C)” for “765(5)(C)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1967(b) or 1968(a)” for “767(b) or 768(a)”, “1977” for “777” in two places, “1968(a)(4)(B)” for “768(a)(4)(B)” in two places, and “1977(e)” for “777(e)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1967(b) or 1968(a)” for “767(b) or 768(a)”, “1977” for “777” in two places, “1968(a)(4)(B)” for “768(a)(4)(B)” in two places, and “1977(e)” for “777(e)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-1986—Subsec. (a)(2), (3). Pub. L. 99–576, § 701(38)(A), (B), struck out “his” before “death”, and substituted “the member” for “his”.
+1986—Subsec. (a)(2), (3). Pub. L. 99–576, § 701(38)(A), (B), struck out “his” before “death”, and substituted “the member” for “his”.
 
-Subsec. (b). Pub. L. 99–576, § 701(38)(C), substituted “the” for “he” before “insurance otherwise”.
+Subsec. (b). Pub. L. 99–576, § 701(38)(C), substituted “the” for “he” before “insurance otherwise”.
 
 1982—Subsec. (a)(5). Pub. L. 97–295 substituted “the amendment made by section 5(a) of the Veterans’ Insurance Act of 1974 (Public Law 93–289, 88 Stat. 166)” for “this amendment”.
 
-1974—Subsec. (a). Pub. L. 93–289, § 5(a)(1)–(3), inserted in opening provisions “or while the member meets the qualifications set forth in section 765(5)(B) or (C) of this title,”, substituted “one hundred and twenty days” for “ninety days” wherever appearing in pars. (2) and (3), and added pars. (4) and (5).
+1974—Subsec. (a). Pub. L. 93–289, § 5(a)(1)–(3), inserted in opening provisions “or while the member meets the qualifications set forth in section 765(5)(B) or (C) of this title,”, substituted “one hundred and twenty days” for “ninety days” wherever appearing in pars. (2) and (3), and added pars. (4) and (5).
 
-Subsec. (b). Pub. L. 93–289, § 5(a)(4), substituted provisions requiring policies of Servicemen’s Group Life Insurance to contain a provision automatically converting such policy to Veterans’ Group Life Insurance, for provisions which required such policies to contain a provision for conversion to an individual policy of insurance, and inserted sentences providing for the effective date of automatic conversion, prohibiting conversion of Servicemen’s Group Life Insurance continued in force under section 768(a)(4)(B) or (5) of this title, and authorizing conversion by a member whose insurance could be continued in force under section 768(a)(4)(B) of this title, but is not so continued.
+Subsec. (b). Pub. L. 93–289, § 5(a)(4), substituted provisions requiring policies of Servicemen’s Group Life Insurance to contain a provision automatically converting such policy to Veterans’ Group Life Insurance, for provisions which required such policies to contain a provision for conversion to an individual policy of insurance, and inserted sentences providing for the effective date of automatic conversion, prohibiting conversion of Servicemen’s Group Life Insurance continued in force under section 768(a)(4)(B) or (5) of this title, and authorizing conversion by a member whose insurance could be continued in force under section 768(a)(4)(B) of this title, but is not so continued.
 
-Subsec. (c). Pub. L. 93–289, § 5(a)(5), repealed subsec. (c) which related to conversion by eligible insured persons to policies written by companies participating in the program established by this subchapter.
+Subsec. (c). Pub. L. 93–289, § 5(a)(5), repealed subsec. (c) which related to conversion by eligible insured persons to policies written by companies participating in the program established by this subchapter.
 
 1970—Subsec. (a). Pub. L. 91–291 designated existing provisions as subsec. (a) and substituted provisions covering the duration of coverage for provisions covering termination of coverage. For termination and conversion of insurance see subsecs. (b) and (c) of this section.
 
@@ -2571,11 +2571,11 @@ Subsecs. (b), (c). Pub. L. 91–291 added subsecs. (b) and (c).
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title IV, § 402(b), Oct. 13, 2010, 124 Stat. 2879, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a person who is separated or released on or after June 15, 2005.”
+Pub. L. 111–275, title IV, § 402(b), Oct. 13, 2010, 124 Stat. 2879, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a person who is separated or released on or after June 15, 2005.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–389, title IV, § 403(e)(2), Oct. 10, 2008, 122 Stat. 4174, provided that: “The amendment made by subsection (b) [amending this section] shall apply with respect to Servicemembers’ Group Life Insurance coverage for an insurable dependent of a member, as defined in section 1965(10) of title 38, United States Code (as amended by section 402 of this Act), that begins on or after the date of the enactment of this Act [Oct. 10, 2008].”
+Pub. L. 110–389, title IV, § 403(e)(2), Oct. 10, 2008, 122 Stat. 4174, provided that: “The amendment made by subsection (b) [amending this section] shall apply with respect to Servicemembers’ Group Life Insurance coverage for an insurable dependent of a member, as defined in section 1965(10) of title 38, United States Code (as amended by section 402 of this Act), that begins on or after the date of the enactment of this Act [Oct. 10, 2008].”
 
 **Effective Date of 2001 Amendment**
 
@@ -2583,11 +2583,11 @@ Amendment by Pub. L. 107–14 effective on the first day of the first month that
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title X, § 1066(d)(1), Oct. 5, 1999, 113 Stat. 773, provided that the amendment made by section 1066(d)(1) is effective Apr. 1, 1996.
+Pub. L. 106–65, div. A, title X, § 1066(d)(1), Oct. 5, 1999, 113 Stat. 773, provided that the amendment made by section 1066(d)(1) is effective Apr. 1, 1996.
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title VI, § 647(c), Feb. 10, 1996, 110 Stat. 370, provided that: “The amendments made by this section [amending this section and section 1969 of this title] shall take effect on April 1, 1996.”
+Pub. L. 104–106, div. A, title VI, § 647(c), Feb. 10, 1996, 110 Stat. 370, provided that: “The amendments made by this section [amending this section and section 1969 of this title] shall take effect on April 1, 1996.”
 
 **Effective Date of 1994 Amendment**
 
@@ -2595,7 +2595,7 @@ Amendment by section 1677(d)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–289, § 12(4), May 24, 1974, 88 Stat. 173, provided that: “The amendments made by sections 5(a)(4) and (5) of this Act [amending this section], and those enacting a Veterans’ Group Life Insurance program [sections 777, 778, and 779 [now 1977, 1978, and 1979] of this title] shall become effective on the first day of the third calendar month following the month in which this Act is enacted [May 1974].”
+Pub. L. 93–289, § 12(4), May 24, 1974, 88 Stat. 173, provided that: “The amendments made by sections 5(a)(4) and (5) of this Act [amending this section], and those enacting a Veterans’ Group Life Insurance program [sections 777, 778, and 779 [now 1977, 1978, and 1979] of this title] shall become effective on the first day of the third calendar month following the month in which this Act is enacted [May 1974].”
 
 **Effective Date of 1970 Amendment**
 
@@ -2603,13 +2603,13 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 
 **Conversion of SGLI to VGLI**
 
-Pub. L. 104–275, title IV, § 402(e), Oct. 9, 1996, 110 Stat. 3338, provided that: “The Servicemembers’ Group Life Insurance of any member of the Retired Reserve of a uniformed service shall be converted to Veterans’ Group Life Insurance effective 90 days after the date of the enactment of this Act [Oct. 9, 1996].”
+Pub. L. 104–275, title IV, § 402(e), Oct. 9, 1996, 110 Stat. 3338, provided that: “The Servicemembers’ Group Life Insurance of any member of the Retired Reserve of a uniformed service shall be converted to Veterans’ Group Life Insurance effective 90 days after the date of the enactment of this Act [Oct. 9, 1996].”
 
 **Right of Persons Discharged or Released From Uniformed Services To Convert Servicemen’s Group Life Insurance to Individual Policies**
 
-Pub. L. 93–289, § 5(b), May 24, 1974, 88 Stat. 168, provided that the amendments made by Pub. L. 93–289, enacting sections 777, 778, and 779 [now 1977, 1978, and 1979] of this title and section 707 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 723, 765, 767, 768, 769, 770, 771, and 774 [now 1923, 1965, 1967, 1968, 1969, 1970, 1971, and 1974] of this title, not be construed to deprive any person discharged or released from the uniformed services of the United States prior to the date on which the Veterans’ Group Life Insurance program (provided for under section 777 [now 1977] of this title) became effective of the right to convert Servicemen’s Group Life Insurance to an individual policy under the provisions of law in effect prior to such effective date.
+Pub. L. 93–289, § 5(b), May 24, 1974, 88 Stat. 168, provided that the amendments made by Pub. L. 93–289, enacting sections 777, 778, and 779 [now 1977, 1978, and 1979] of this title and section 707 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 723, 765, 767, 768, 769, 770, 771, and 774 [now 1923, 1965, 1967, 1968, 1969, 1970, 1971, and 1974] of this title, not be construed to deprive any person discharged or released from the uniformed services of the United States prior to the date on which the Veterans’ Group Life Insurance program (provided for under section 777 [now 1977] of this title) became effective of the right to convert Servicemen’s Group Life Insurance to an individual policy under the provisions of law in effect prior to such effective date.
 
-### § 1969. Deductions; payment; investment; expenses
+### § 1969. Deductions; payment; investment; expenses
 
 **(a)**
 
@@ -2663,115 +2663,115 @@ Pub. L. 93–289, § 5(b), May 24, 1974, 88 Stat. 168, provided that the amend
 
 **(h)** Any overpayment of a premium for insurance coverage for an insurable dependent of a member that is terminated under section 1968(a)(5) of this title shall be refunded to the member.
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 881, § 769; amended Pub. L. 91–291, § 4, June 25, 1970, 84 Stat. 329; Pub. L. 93–289, §§ 6, 10(2), May 24, 1974, 88 Stat. 168, 172; Pub. L. 97–66, title IV, § 402, Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–576, title VII, § 701(39), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 100–322, title III, § 332(a), May 20, 1988, 102 Stat. 537; renumbered § 1969 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, § 651(d), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 103–446, title XII, § 1201(e)(8), (i)(3), Nov. 2, 1994, 108 Stat. 4685, 4688; Pub. L. 104–106, div. A, title VI, § 647(a), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§ 402(d), 405(b)(1)(C), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, § 313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, § 4(d), June 5, 2001, 115 Stat. 29; Pub. L. 109–13, div. A, title I, § 1012(c)(2), May 11, 2005, 119 Stat. 245; Pub. L. 109–80, § 2, Sept. 30, 2005, 119 Stat. 2045; Pub. L. 110–389, title IV, § 403(a)(2)(B), (c), Oct. 10, 2008, 122 Stat. 4174.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 881, § 769; amended Pub. L. 91–291, § 4, June 25, 1970, 84 Stat. 329; Pub. L. 93–289, §§ 6, 10(2), May 24, 1974, 88 Stat. 168, 172; Pub. L. 97–66, title IV, § 402, Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–576, title VII, § 701(39), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 100–322, title III, § 332(a), May 20, 1988, 102 Stat. 537; renumbered § 1969 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–337, div. A, title VI, § 651(d), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 103–446, title XII, § 1201(e)(8), (i)(3), Nov. 2, 1994, 108 Stat. 4685, 4688; Pub. L. 104–106, div. A, title VI, § 647(a), Feb. 10, 1996, 110 Stat. 370; Pub. L. 104–275, title IV, §§ 402(d), 405(b)(1)(C), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, § 313(b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, § 4(d), June 5, 2001, 115 Stat. 29; Pub. L. 109–13, div. A, title I, § 1012(c)(2), May 11, 2005, 119 Stat. 245; Pub. L. 109–80, § 2, Sept. 30, 2005, 119 Stat. 2045; Pub. L. 110–389, title IV, § 403(a)(2)(B), (c), Oct. 10, 2008, 122 Stat. 4174.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (g)(1)(B). Pub. L. 110–389, § 403(c), struck out “(which shall be the same for all such members)” after “determined by the Secretary”.
+2008—Subsec. (g)(1)(B). Pub. L. 110–389, § 403(c), struck out “(which shall be the same for all such members)” after “determined by the Secretary”.
 
-Pub. L. 110–389, § 403(a)(2)(B), substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title”.
+Pub. L. 110–389, § 403(a)(2)(B), substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title”.
 
-2005—Subsec. (b). Pub. L. 109–13, § 1012(c)(2), which directed designation of existing provisions as par. (1) and addition of par. (2), was repealed by Pub. L. 109–80. See Effective and Termination Dates of 2005 Amendments note below. Par. (2) read as follows: “For each month for which a member insured under this subchapter is serving in an operation or area designated as described by paragraph (1)(A) of section 1967(e) of this title, there may, at the election of the Secretary concerned under paragraph (4)(A) of such section, be contributed from the appropriation made for active duty pay of the uniformed service concerned an amount determined by the Secretary and certified to the Secretary concerned to be the cost of Servicemembers’ Group Life Insurance which is traceable to the cost of providing insurance for the member under section 1967 of this title in the amount of $150,000.”
+2005—Subsec. (b). Pub. L. 109–13, § 1012(c)(2), which directed designation of existing provisions as par. (1) and addition of par. (2), was repealed by Pub. L. 109–80. See Effective and Termination Dates of 2005 Amendments note below. Par. (2) read as follows: “For each month for which a member insured under this subchapter is serving in an operation or area designated as described by paragraph (1)(A) of section 1967(e) of this title, there may, at the election of the Secretary concerned under paragraph (4)(A) of such section, be contributed from the appropriation made for active duty pay of the uniformed service concerned an amount determined by the Secretary and certified to the Secretary concerned to be the cost of Servicemembers’ Group Life Insurance which is traceable to the cost of providing insurance for the member under section 1967 of this title in the amount of $150,000.”
 
 2001—Subsecs. (g), (h). Pub. L. 107–14 added subsecs. (g) and (h).
 
 2000—Subsec. (a)(2)(A). Pub. L. 106–419 substituted “subparagraph (B) or (C) of section 1965(5) of this title” for “section 1965(5)(B) of this title”.
 
-1996—Subsec. (a)(1). Pub. L. 104–275, § 405(b)(1)(C), substituted “Servicemembers’ Group” for “Servicemen’s Group”.
+1996—Subsec. (a)(1). Pub. L. 104–275, § 405(b)(1)(C), substituted “Servicemembers’ Group” for “Servicemen’s Group”.
 
 Subsec. (a)(2). Pub. L. 104–106 designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (a)(2)(A). Pub. L. 104–275, § 402(d)(1), struck out “is assigned to the Reserve (other than the Retired Reserve) and meets the qualifications of section 1965(5)(C) of this title, or is assigned to the Retired Reserve and meets the qualifications of section 1965(5)(D) of this title,” after “qualifications of section 1965(5)(B) of this title,”.
+Subsec. (a)(2)(A). Pub. L. 104–275, § 402(d)(1), struck out “is assigned to the Reserve (other than the Retired Reserve) and meets the qualifications of section 1965(5)(C) of this title, or is assigned to the Retired Reserve and meets the qualifications of section 1965(5)(D) of this title,” after “qualifications of section 1965(5)(B) of this title,”.
 
-Subsec. (a)(3), (4). Pub. L. 104–275, § 405(b)(1)(C), substituted “Servicemembers’ Group” for “Servicemen’s Group” wherever appearing.
+Subsec. (a)(3), (4). Pub. L. 104–275, § 405(b)(1)(C), substituted “Servicemembers’ Group” for “Servicemen’s Group” wherever appearing.
 
-Subsecs. (b) to (d)(1). Pub. L. 104–275, § 405(b)(1)(C), substituted “Servicemembers’ Group” for “Servicemen’s Group” wherever appearing.
+Subsecs. (b) to (d)(1). Pub. L. 104–275, § 405(b)(1)(C), substituted “Servicemembers’ Group” for “Servicemen’s Group” wherever appearing.
 
-Subsecs. (e) to (g). Pub. L. 104–275, § 402(d)(2), (3), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to premiums for Servicemen’s Group Life Insurance for members assigned to the Retired Reserve of a uniformed service.
+Subsecs. (e) to (g). Pub. L. 104–275, § 402(d)(2), (3), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to premiums for Servicemen’s Group Life Insurance for members assigned to the Retired Reserve of a uniformed service.
 
-1994—Subsec. (a)(2). Pub. L. 103–337, § 651(d)(1), substituted “is assigned to the Reserve” for “or is assigned to the Reserve” and inserted “or is assigned to the Retired Reserve and meets the qualifications of section 1965(5)(D) of this title,” after “section 1965(5)(C) of this title,”.
+1994—Subsec. (a)(2). Pub. L. 103–337, § 651(d)(1), substituted “is assigned to the Reserve” for “or is assigned to the Reserve” and inserted “or is assigned to the Retired Reserve and meets the qualifications of section 1965(5)(D) of this title,” after “section 1965(5)(C) of this title,”.
 
-Subsec. (d)(3). Pub. L. 103–446, § 1201(i)(3), substituted “Department of Veterans Affairs” for “Department”.
+Subsec. (d)(3). Pub. L. 103–446, § 1201(i)(3), substituted “Department of Veterans Affairs” for “Department”.
 
-Subsec. (e). Pub. L. 103–446, § 1201(e)(8), substituted “subsections (a) and (c) of section 1971” for “sections 1971(a) and (c)” and “subsections (d) and (e) of section 1971” for “sections 1971(d) and (e)”.
+Subsec. (e). Pub. L. 103–446, § 1201(e)(8), substituted “subsections (a) and (c) of section 1971” for “sections 1971(a) and (c)” and “subsections (d) and (e) of section 1971” for “sections 1971(d) and (e)”.
 
-Pub. L. 103–337, § 651(d)(2), substituted “subparagraph (C) or (D) of section 1965(5)” for “section 1965(5)(C)”.
+Pub. L. 103–337, § 651(d)(2), substituted “subparagraph (C) or (D) of section 1965(5)” for “section 1965(5)(C)”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 769 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 769 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1965(5)(B)” for “765(5)(B)”, “1965(5)(C)” for “765(5)(C)”, and “1966” for “766” in par. (2).
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1965(5)(B)” for “765(5)(B)”, “1965(5)(C)” for “765(5)(C)”, and “1966” for “766” in par. (2).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (d)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (d)(2). Pub. L. 102–83, § 5(c)(1), substituted “1966” for “766”.
+Subsec. (d)(2). Pub. L. 102–83, § 5(c)(1), substituted “1966” for “766”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (d)(3). Pub. L. 102–83, § 5(c)(1), substituted “1982” for “782”.
+Subsec. (d)(3). Pub. L. 102–83, § 5(c)(1), substituted “1982” for “782”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1965(5)(C)” for “765(5)(C)”, “1971(a)” for “771(a)”, “1966(b)” for “766(b)”, and “1971(d)” for “771(d)”.
+Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1965(5)(C)” for “765(5)(C)”, “1971(a)” for “771(a)”, “1966(b)” for “766(b)”, and “1971(d)” for “771(d)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1988—Subsec. (g). Pub. L. 100–322 added subsec. (g).
 
-1986—Subsec. (a)(1). Pub. L. 99–576, § 701(39)(A), substituted “the member’s” for “his”.
+1986—Subsec. (a)(1). Pub. L. 99–576, § 701(39)(A), substituted “the member’s” for “his”.
 
-Subsec. (a)(3). Pub. L. 99–576, § 701(39)(B), substituted “the member” for “him”.
+Subsec. (a)(3). Pub. L. 99–576, § 701(39)(B), substituted “the member” for “him”.
 
-Subsec. (a)(4). Pub. L. 99–576, § 701(39)(C), substituted “the member” for “him” in two places and “the member’s” for “his”.
+Subsec. (a)(4). Pub. L. 99–576, § 701(39)(C), substituted “the member” for “him” in two places and “the member’s” for “his”.
 
-Subsec. (b). Pub. L. 99–576, § 701(39)(D), substituted “the Administrator” for “he” before “shall determine”.
+Subsec. (b). Pub. L. 99–576, § 701(39)(D), substituted “the Administrator” for “he” before “shall determine”.
 
-Subsec. (d)(3). Pub. L. 99–576, § 701(39)(E), substituted “the Administrator’s” for “his”.
+Subsec. (d)(3). Pub. L. 99–576, § 701(39)(E), substituted “the Administrator’s” for “his”.
 
-Subsec. (e). Pub. L. 99–576, § 701(39)(F), substituted “the Administrator” for “he” before “may determine”.
+Subsec. (e). Pub. L. 99–576, § 701(39)(F), substituted “the Administrator” for “he” before “may determine”.
 
 1981—Subsec. (f). Pub. L. 97–66 added subsec. (f).
 
-1974—Subsec. (a)(1). Pub. L. 93–289, § 6(1), substituted “is insured under Servicemen’s Group Life Insurance” for “is insured under a policy of insurance purchased by the Administrator, under section 766 of this title”.
+1974—Subsec. (a)(1). Pub. L. 93–289, § 6(1), substituted “is insured under Servicemen’s Group Life Insurance” for “is insured under a policy of insurance purchased by the Administrator, under section 766 of this title”.
 
-Subsec. (a)(2). Pub. L. 93–289, § 6(2), added par. (2). Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 93–289, § 6(2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 93–289, § 6(1), (2), redesignated former par. (2) as (3), and substituted “is insured under Servicemen’s Group Life Insurance” for “is insured under a policy of insurance purchased by the Administrator, under section 766 of this title.” Former par. (3) redesignated (4).
+Subsec. (a)(3). Pub. L. 93–289, § 6(1), (2), redesignated former par. (2) as (3), and substituted “is insured under Servicemen’s Group Life Insurance” for “is insured under a policy of insurance purchased by the Administrator, under section 766 of this title.” Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 93–289, § 6(2), (3), redesignated former par. (3) as (4), and substituted “paragraph (1) or (2) hereof, or fiscal year amount under paragraph (3) hereof”, for “subsection (1) hereof, or fiscal year amount under subsection (2) hereof”, and “Servicemen’s Group Life Insurance” for “this subchapter” in two places, and for “insurance under this subchapter”.
+Subsec. (a)(4). Pub. L. 93–289, § 6(2), (3), redesignated former par. (3) as (4), and substituted “paragraph (1) or (2) hereof, or fiscal year amount under paragraph (3) hereof”, for “subsection (1) hereof, or fiscal year amount under subsection (2) hereof”, and “Servicemen’s Group Life Insurance” for “this subchapter” in two places, and for “insurance under this subchapter”.
 
-Subsec. (b). Pub. L. 93–289, § 6(4), substituted “Servicemen’s Group Life Insurance” for “such insurance” in first sentence, and “Servicemen’s Group Life Insurance” for “this subchapter” in second sentence.
+Subsec. (b). Pub. L. 93–289, § 6(4), substituted “Servicemen’s Group Life Insurance” for “such insurance” in first sentence, and “Servicemen’s Group Life Insurance” for “this subchapter” in second sentence.
 
-Subsec. (c). Pub. L. 93–289, § 6(5), substituted “Servicemen’s Group Life Insurance” for “any such insurance”.
+Subsec. (c). Pub. L. 93–289, § 6(5), substituted “Servicemen’s Group Life Insurance” for “any such insurance”.
 
-Subsec. (d)(1). Pub. L. 93–289, § 6(6), substituted “Servicemen’s Group Life Insurance” for “any insurance policy or policies purchased under section 766 of this title”.
+Subsec. (d)(1). Pub. L. 93–289, § 6(6), substituted “Servicemen’s Group Life Insurance” for “any insurance policy or policies purchased under section 766 of this title”.
 
-Subsec. (d)(3). Pub. L. 93–289, § 10(2), capitalized “Operating Expenses”.
+Subsec. (d)(3). Pub. L. 93–289, § 10(2), capitalized “Operating Expenses”.
 
-Subsec. (e). Pub. L. 93–289, § 6(7), added subsec. (e).
+Subsec. (e). Pub. L. 93–289, § 6(7), added subsec. (e).
 
-1970—Subsec. (a). Pub. L. 91–291, § 4(1), separated provisions covering deduction of the cost of insurance from the pay of members into provisions covering such deduction in the case of persons on active duty or active duty for training under a call or order to such duty that does not specify a period of not less than thirty-one days and provisions covering such deduction in the case of persons on active duty or active duty for training under a call or order to such duty specifying a period of less than thirty-one days or persons authorized or required to perform inactive duty training scheduled in advance by competent authority and inserted provision for the collection of sums from individuals by the Secretary concerned.
+1970—Subsec. (a). Pub. L. 91–291, § 4(1), separated provisions covering deduction of the cost of insurance from the pay of members into provisions covering such deduction in the case of persons on active duty or active duty for training under a call or order to such duty that does not specify a period of not less than thirty-one days and provisions covering such deduction in the case of persons on active duty or active duty for training under a call or order to such duty specifying a period of less than thirty-one days or persons authorized or required to perform inactive duty training scheduled in advance by competent authority and inserted provision for the collection of sums from individuals by the Secretary concerned.
 
-Subsec. (b). Pub. L. 91–291, § 4(1), substituted the mortality which members and former members of the uniform services concerned would have been under peacetime conditions as determined by the Administrator for the mortality of the male civilian population of the United States of the same age as the median age of members of the uniformed services as shown by the records of the uniformed services, the primary insurer or insurers, and the Department of Health, Education, and Welfare as the standard against which the excess mortality suffered by members of the uniformed services would be measured to determine the extent to which the cost of insurance was traceable to the extra hazard of active duty in the uniformed services.
+Subsec. (b). Pub. L. 91–291, § 4(1), substituted the mortality which members and former members of the uniform services concerned would have been under peacetime conditions as determined by the Administrator for the mortality of the male civilian population of the United States of the same age as the median age of members of the uniformed services as shown by the records of the uniformed services, the primary insurer or insurers, and the Department of Health, Education, and Welfare as the standard against which the excess mortality suffered by members of the uniformed services would be measured to determine the extent to which the cost of insurance was traceable to the extra hazard of active duty in the uniformed services.
 
-Subsec. (d)(1). Pub. L. 91–291, § 4(2), inserted reference to collection of sums by Secretary concerned.
+Subsec. (d)(1). Pub. L. 91–291, § 4(2), inserted reference to collection of sums by Secretary concerned.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–389, title IV, § 403(e)(3), Oct. 10, 2008, 122 Stat. 4175, provided that: “The amendment made by subsection (c) [amending this section] shall take effect as if enacted on June 5, 2001, immediately after the enactment of the Veterans’ Survivor Benefits Improvements Act of 2001 (Public Law 107–14; 115 Stat. 25).”
+Pub. L. 110–389, title IV, § 403(e)(3), Oct. 10, 2008, 122 Stat. 4175, provided that: “The amendment made by subsection (c) [amending this section] shall take effect as if enacted on June 5, 2001, immediately after the enactment of the Veterans’ Survivor Benefits Improvements Act of 2001 (Public Law 107–14; 115 Stat. 25).”
 
 **Effective and Termination Dates of 2005 Amendments**
 
@@ -2789,7 +2789,7 @@ Amendment by Pub. L. 104–106 effective Apr. 1, 1996, see section 647(c) of Pub
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–322, title III, § 332(b), May 20, 1988, 102 Stat. 537, provided that: “The amendment made by subsection (a) [amending this section] shall take effect with respect to premiums paid for periods beginning after June 30, 1988.”
+Pub. L. 100–322, title III, § 332(b), May 20, 1988, 102 Stat. 537, provided that: “The amendment made by subsection (a) [amending this section] shall take effect with respect to premiums paid for periods beginning after June 30, 1988.”
 
 **Effective Date of 1981 Amendment**
 
@@ -2799,7 +2799,7 @@ Amendment by Pub. L. 97–66 effective Oct. 17, 1981, see section 701(b)(1) of P
 
 Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
 
-### § 1970. Beneficiaries; payment of insurance
+### § 1970. Beneficiaries; payment of insurance
 
 **(a)** Any amount of insurance under this subchapter in force on any member or former member on the date of the insured’s death shall be paid, upon the establishment of a valid claim therefor, to the person or persons surviving at the date of the insured’s death, in the following order of prec­edence:
 
@@ -2831,7 +2831,7 @@ Sixth, if none of the above, to other next of kin of such member or former membe
 
 **(i)** Any amount of insurance in force on an insurable dependent of a member under this subchapter on the date of the dependent’s death shall be paid, upon the establishment of a valid claim therefor, to the member or, in the event of the member’s death before payment to the member can be made, then to the person or persons entitled to receive payment of the proceeds of insurance on the member’s life under this subchapter.
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 883, § 770; amended Pub. L. 91–291, § 5, June 25, 1970, 84 Stat. 330; Pub. L. 93–289, § 7, May 24, 1974, 88 Stat. 169; Pub. L. 97–295, § 4(31), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 97–306, title IV, § 401(a), Oct. 14, 1982, 96 Stat. 1442; Pub. L. 99–576, title VII, § 701(40), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, § 14(b)(17), June 13, 1991, 105 Stat. 284; renumbered § 1970 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title IV, § 405(b)(1)(D), Oct. 9, 1996, 110 Stat. 3339; Pub. L. 105–368, title III, § 302(b), Nov. 11, 1998, 112 Stat. 3333; Pub. L. 107–14, § 4(e), June 5, 2001, 115 Stat. 29; Pub. L. 109–13, div. A, title I, § 1012(g), May 11, 2005, 119 Stat. 246; Pub. L. 109–80, § 2, Sept. 30, 2005, 119 Stat. 2045.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 883, § 770; amended Pub. L. 91–291, § 5, June 25, 1970, 84 Stat. 330; Pub. L. 93–289, § 7, May 24, 1974, 88 Stat. 169; Pub. L. 97–295, § 4(31), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 97–306, title IV, § 401(a), Oct. 14, 1982, 96 Stat. 1442; Pub. L. 99–576, title VII, § 701(40), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, § 14(b)(17), June 13, 1991, 105 Stat. 284; renumbered § 1970 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title IV, § 405(b)(1)(D), Oct. 9, 1996, 110 Stat. 3339; Pub. L. 105–368, title III, § 302(b), Nov. 11, 1998, 112 Stat. 3333; Pub. L. 107–14, § 4(e), June 5, 2001, 115 Stat. 29; Pub. L. 109–13, div. A, title I, § 1012(g), May 11, 2005, 119 Stat. 246; Pub. L. 109–80, § 2, Sept. 30, 2005, 119 Stat. 2045.)
 
 **Editorial Notes**
 
@@ -2839,11 +2839,11 @@ Sixth, if none of the above, to other next of kin of such member or former membe
 
 Veterans’ Insurance Act of 1974, referred to in subsec. (e), is Pub. L. 93–289, May 24, 1974, 88 Stat. 165, which enacted sections 777, 778, and 779 [now 1977, 1978, and 1979] of this title, section 707 of Title 37, Pay and Allowances of the Uniformed Services, amended sections 723, 765, 767 to 771, and 774 [now 1923, 1965, 1967 to 1971, and 1974] of this title, and enacted provisions set out as notes under sections 723, 765, 767, and 768 [now 1923, 1965, 1967, and 1968] of this title and section 707 of Title 37. For complete classification of this Act to the Code, see Tables.
 
-Subchapter D of chapter 64 of the Internal Revenue Code of 1986, referred to in subsec. (g)(3), is classified to subchapter D (§ 6331 et seq.) of chapter 64 of Title 26, Internal Revenue Code.
+Subchapter D of chapter 64 of the Internal Revenue Code of 1986, referred to in subsec. (g)(3), is classified to subchapter D (§ 6331 et seq.) of chapter 64 of Title 26, Internal Revenue Code.
 
 **Amendments**
 
-2005—Subsec. (j). Pub. L. 109–13, § 1012(g), which directed addition of subsec. (j), was repealed by Pub. L. 109–80. See Effective and Termination Dates of 2005 Amendments note below. Subsec. (j) read as follows: “A member with a spouse may not modify the beneficiary or beneficiaries designated by the member under subsection (a) without providing written notice of such modification to the spouse.”
+2005—Subsec. (j). Pub. L. 109–13, § 1012(g), which directed addition of subsec. (j), was repealed by Pub. L. 109–80. See Effective and Termination Dates of 2005 Amendments note below. Subsec. (j) read as follows: “A member with a spouse may not modify the beneficiary or beneficiaries designated by the member under subsection (a) without providing written notice of such modification to the spouse.”
 
 2001—Subsec. (i). Pub. L. 107–14 added subsec. (i).
 
@@ -2851,33 +2851,33 @@ Subchapter D of chapter 64 of the Internal Revenue Code of 1986, referred to in 
 
 1996—Subsecs. (a), (f), (g). Pub. L. 104–275 substituted “Servicemembers’ Group” for “Servicemen’s Group” wherever appearing.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 770 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 770 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1966(b)” for “766(b)”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1966(b)” for “766(b)”.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1966(b)” for “766(b)”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1966(b)” for “766(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (g)(1). Pub. L. 102–83, § 5(c)(1), substituted “1969(a)” for “769(a)”.
+Subsec. (g)(1). Pub. L. 102–83, § 5(c)(1), substituted “1969(a)” for “769(a)”.
 
 Subsec. (g)(2). Pub. L. 102–54 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1986—Subsec. (a). Pub. L. 99–576, § 701(40)(A), substituted “the insured’s” for “his” in two places in introductory text and in one place in par. Sixth.
+1986—Subsec. (a). Pub. L. 99–576, § 701(40)(A), substituted “the insured’s” for “his” in two places in introductory text and in one place in par. Sixth.
 
-Subsec. (e). Pub. L. 99–576, § 701(40)(B), substituted “the member’s” for “his”.
+Subsec. (e). Pub. L. 99–576, § 701(40)(B), substituted “the member’s” for “his”.
 
-1982—Subsec. (c). Pub L. 97–306, § 401(a)(1), struck out provision that if, within four years after the death of the member or former member, payment had not been made pursuant to this section and no claim for payment by any person entitled under this section was pending, the amount payable would escheat to the credit of the revolving fund referred to in section 769(d) of this title.
+1982—Subsec. (c). Pub L. 97–306, § 401(a)(1), struck out provision that if, within four years after the death of the member or former member, payment had not been made pursuant to this section and no claim for payment by any person entitled under this section was pending, the amount payable would escheat to the credit of the revolving fund referred to in section 769(d) of this title.
 
 Subsec. (g). Pub. L. 97–295 inserted “(26 U.S.C. 6331 et seq.)” after “Code of 1954”.
 
-Subsec. (h). Pub. L. 97–306, § 401(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 97–306, § 401(a)(2), added subsec. (h).
 
-1974—Subsec. (a). Pub. L. 93–289, § 7(1), included in par. First writings received in the administrative office established under section 766(b) of this title if separated or released from service, or if assigned to the Retired Reserve, and insured under Servicemen’s Group Life Insurance, or if insured under Veterans’ Group Life Insurance.
+1974—Subsec. (a). Pub. L. 93–289, § 7(1), included in par. First writings received in the administrative office established under section 766(b) of this title if separated or released from service, or if assigned to the Retired Reserve, and insured under Servicemen’s Group Life Insurance, or if insured under Veterans’ Group Life Insurance.
 
-Subsec. (e). Pub. L. 93–289, § 7(2), substituted “the Veterans’ Insurance Act of 1974” for “this amendatory Act”.
+Subsec. (e). Pub. L. 93–289, § 7(2), substituted “the Veterans’ Insurance Act of 1974” for “this amendatory Act”.
 
-Subsecs. (f), (g). Pub. L. 93–289, § 7(3), included payment of benefits under Veterans’ Group Life Insurance.
+Subsecs. (f), (g). Pub. L. 93–289, § 7(3), included payment of benefits under Veterans’ Group Life Insurance.
 
 1970—Subsecs. (e) to (g). Pub. L. 91–291 added subsecs. (e) to (g).
 
@@ -2895,17 +2895,17 @@ Amendment by Pub. L. 107–14 effective on the first day of the first month that
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title III, § 302(c), Nov. 11, 1998, 112 Stat. 3333, provided that: “The amendments made by this section [enacting section 1980 of this title and amending this section] shall take effect 90 days after the date of the enactment of this Act [Nov. 11, 1998].”
+Pub. L. 105–368, title III, § 302(c), Nov. 11, 1998, 112 Stat. 3333, provided that: “The amendments made by this section [enacting section 1980 of this title and amending this section] shall take effect 90 days after the date of the enactment of this Act [Nov. 11, 1998].”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–306, title IV, § 401(b), Oct. 14, 1982, 96 Stat. 1442, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1982.”
+Pub. L. 97–306, title IV, § 401(b), Oct. 14, 1982, 96 Stat. 1442, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 1982.”
 
 **Effective Date of 1970 Amendment**
 
 Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under section 1317 of this title.
 
-### § 1971. Basic tables of premiums; readjustment of rates
+### § 1971. Basic tables of premiums; readjustment of rates
 
 **(a)** Each policy or policies purchased under section 1966 of this title shall include for the first policy year a schedule of basic premium rates by age which the Secretary shall have determined on a basis consistent with the lowest schedule of basic premium rates generally charged for new group life insurance policies issued to large employers, this schedule of basic premium rates by age to be applied, except as otherwise provided in this section, to the distribution by age of the amount of group life insurance under the policy at its date of issue to determine an average basic premium per $1,000 of insurance. Each policy so purchased shall also include provisions whereby the basic rates of premium determined for the first policy year shall be continued for subsequent policy years, except that they may be readjusted for any subsequent year, based on the experience under the policy, such readjustment to be made by the insurance company or companies issuing the policy on a basis determined by the Secretary in advance of such year to be consistent with the general practice of life insurance companies under policies of group life insurance issued to large employers.
 
@@ -2917,7 +2917,7 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 
 **(e)** Each such policy shall provide for an accounting to the Secretary not later than ninety days after the end of each policy year, which shall set forth, in a form approved by the Secretary, (1) the amounts of premiums actually accrued under the policy from its date of issue to the end of such policy year, (2) the total of all mortality and other claim charges incurred for that period, and (3) the amounts of the insurers’ expense and risk charge for that period. Any excess of the total of item (1) over the sum of items (2) and (3) shall be held by the insurance company or companies issuing the policy as a special contingency reserve to be used by such insurance company or companies for charges under such policy only, such reserve to bear interest at a rate to be determined in advance of each policy year by the insurance company or companies issuing the policy, which rate shall be approved by the Secretary as being consistent with the rates generally used by such company or companies for similar funds held under other group life insurance policies. If and when the Secretary determines that such special contingency reserve has attained an amount estimated by the Secretary to make satisfactory provision for adverse fluctuations in future charges under the policy, any further excess shall be deposited to the credit of the revolving fund established under section 1969(d)(1) of this title. If and when such policy is discontinued, and if after all charges have been made, there is any positive balance remaining in such special contingency reserve, such balance shall be deposited to the credit of the revolving fund, subject to the right of the insurance company or companies issuing the policy to make such deposit in equal monthly installments over a period of not more than two years.
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 884, § 771; amended Pub. L. 93–289, § 8, May 24, 1974, 88 Stat. 169; renumbered § 1971 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title IV, § 405(b)(1)(E), Oct. 9, 1996, 110 Stat. 3339.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 884, § 771; amended Pub. L. 93–289, § 8, May 24, 1974, 88 Stat. 169; renumbered § 1971 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title IV, § 405(b)(1)(E), Oct. 9, 1996, 110 Stat. 3339.)
 
 **Editorial Notes**
 
@@ -2925,47 +2925,47 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 
 1996—Subsec. (b). Pub. L. 104–275 substituted “Servicemembers’ Group” for “Servicemen’s Group”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 771 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 771 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1966” for “766”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1966” for “766”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1969(b)” for “769(b)”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1969(b)” for “769(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsecs. (c), (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (c), (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1969(d)(1)” for “769(d)(1)”.
+Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1969(d)(1)” for “769(d)(1)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-1974—Subsec. (b). Pub. L. 93–289, § 8(1), substituted “premiums for Servicemen’s Group Life Insurance” for “premiums for the policy or policies”.
+1974—Subsec. (b). Pub. L. 93–289, § 8(1), substituted “premiums for Servicemen’s Group Life Insurance” for “premiums for the policy or policies”.
 
-Subsec. (e). Pub. L. 93–289, § 8(2), substituted “section 769(d)(1) of this title” for “section 766 of this title”.
+Subsec. (e). Pub. L. 93–289, § 8(2), substituted “section 769(d)(1) of this title” for “section 766 of this title”.
 
-### § 1972. Benefit certificates
+### § 1972. Benefit certificates
 
 The Secretary shall arrange to have each member insured under a policy purchased under section 1966 of this title receive a certificate setting forth the benefits to which the member is entitled thereunder, to whom such benefit shall be payable, to whom claims should be submitted, and summarizing the provisions of the policy principally affecting the member. Such certificate shall be in lieu of the certificate which the insurance company or companies would otherwise be required to issue.
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 885, § 772; renumbered § 1972 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 885, § 772; renumbered § 1972 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 772 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 772 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1966” for “766”.
+Pub. L. 102–83, § 5(c)(1), substituted “1966” for “766”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-### § 1973. Forfeiture
+### § 1973. Forfeiture
 
 Any person guilty of mutiny, treason, spying, or desertion, or who, because of conscientious objections, refuses to perform service in the Armed Forces of the United States or refuses to wear the uniform of such force, shall forfeit all rights to Servicemembers’ Group Life Insurance and Veterans’ Group Life Insurance under this subchapter. No such insurance shall be payable for death inflicted as a lawful punishment for crime or for military or naval offense, except when inflicted by an enemy of the United States.
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 885, § 773; renumbered § 1973, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 104–275, title IV, § 405(b)(1)(F), Oct. 9, 1996, 110 Stat. 3339; Pub. L. 110–389, title IV, § 403(d), Oct. 10, 2008, 122 Stat. 4174.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 885, § 773; renumbered § 1973, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; amended Pub. L. 104–275, title IV, § 405(b)(1)(F), Oct. 9, 1996, 110 Stat. 3339; Pub. L. 110–389, title IV, § 403(d), Oct. 10, 2008, 122 Stat. 4174.)
 
 **Editorial Notes**
 
@@ -2981,9 +2981,9 @@ Any person guilty of mutiny, treason, spying, or desertion, or who, because of c
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–389, title IV, § 403(e)(4), Oct. 10, 2008, 122 Stat. 4175, provided that: “The amendment made by subsection (d) [amending this section] shall apply with respect to any act of mutiny, treason, spying, or desertion committed on or after the date of the enactment of this Act [Oct. 10, 2008] for which a person is found guilty, or with respect to refusal because of conscientious objections to perform service in, or to wear the uniform of, the Armed Forces on or after the date of the enactment of this Act.”
+Pub. L. 110–389, title IV, § 403(e)(4), Oct. 10, 2008, 122 Stat. 4175, provided that: “The amendment made by subsection (d) [amending this section] shall apply with respect to any act of mutiny, treason, spying, or desertion committed on or after the date of the enactment of this Act [Oct. 10, 2008] for which a person is found guilty, or with respect to refusal because of conscientious objections to perform service in, or to wear the uniform of, the Armed Forces on or after the date of the enactment of this Act.”
 
-### § 1974. Advisory Council on Servicemembers’ Group Life Insurance
+### § 1974. Advisory Council on Servicemembers’ Group Life Insurance
 
 **(a)** There is an Advisory Council on Servicemembers’ Group Life Insurance. The council consists of—
 
@@ -3003,7 +3003,7 @@ Members of the council shall serve without additional compensation.
 
 **(b)** The council shall meet at least once a year, or more often at the call of the Secretary of Veterans Affairs. The council shall review the operations of the Department under this subchapter and shall advise the Secretary on matters of policy relating to the Secretary’s activities under this subchapter.
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 885, § 774; amended Pub. L. 91–291, § 6, June 25, 1970, 84 Stat. 331; Pub. L. 93–289, § 10(3), May 24, 1974, 88 Stat. 172; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, § 701(41), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, § 14(b)(18), June 13, 1991, 105 Stat. 284; renumbered § 1974, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title IV, § 405(b)(1)(G), (2)(B), Oct. 9, 1996, 110 Stat. 3339; Pub. L. 108–183, title VII, § 708(a)(4), Dec. 16, 2003, 117 Stat. 2673.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 885, § 774; amended Pub. L. 91–291, § 6, June 25, 1970, 84 Stat. 331; Pub. L. 93–289, § 10(3), May 24, 1974, 88 Stat. 172; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, § 701(41), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, § 14(b)(18), June 13, 1991, 105 Stat. 284; renumbered § 1974, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title IV, § 405(b)(1)(G), (2)(B), Oct. 9, 1996, 110 Stat. 3339; Pub. L. 108–183, title VII, § 708(a)(4), Dec. 16, 2003, 117 Stat. 2673.)
 
 **Editorial Notes**
 
@@ -3011,9 +3011,9 @@ Members of the council shall serve without additional compensation.
 
 2003—Subsec. (a)(5). Pub. L. 108–183 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1996—Pub. L. 104–275, § 405(b)(2)(B), substituted “Servicemembers’ Group” for “Servicemen’s Group” in section catchline.
+1996—Pub. L. 104–275, § 405(b)(2)(B), substituted “Servicemembers’ Group” for “Servicemen’s Group” in section catchline.
 
-Subsec. (a). Pub. L. 104–275, § 405(b)(1)(G), substituted “Servicemembers’ Group” for “Servicemen’s Group” in introductory provisions.
+Subsec. (a). Pub. L. 104–275, § 405(b)(1)(G), substituted “Servicemembers’ Group” for “Servicemen’s Group” in introductory provisions.
 
 1991—Pub. L. 102–83 renumbered section 774 of this title as this section.
 
@@ -3037,11 +3037,11 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 
 Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 1975. Jurisdiction of District Courts
+### § 1975. Jurisdiction of District Courts
 
 The district courts of the United States shall have original jurisdiction of any civil action or claim against the United States founded upon this subchapter.
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 885, § 775; renumbered § 1975, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 885, § 775; renumbered § 1975, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -3049,17 +3049,17 @@ The district courts of the United States shall have original jurisdiction of any
 
 1991—Pub. L. 102–83 renumbered section 775 of this title as this section.
 
-### § 1976. Effective date
+### § 1976. Effective date
 
 The insurance provided for in this subchapter and the deductions and contributions for that purpose shall take effect on the date designated by the Secretary and certified by the Secretary to each Secretary concerned.
 
-(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 885, § 776; amended Pub. L. 99–576, title VII, § 701(42), Oct. 28, 1986, 100 Stat. 3294; renumbered § 1976 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 885, § 776; amended Pub. L. 99–576, title VII, § 701(42), Oct. 28, 1986, 100 Stat. 3294; renumbered § 1976 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 776 of this title as this section and substituted “Secretary” for “Administrator” in two places.
+1991—Pub. L. 102–83, § 5(a), renumbered section 776 of this title as this section and substituted “Secretary” for “Administrator” in two places.
 
 1986—Pub. L. 99–576 substituted “the Administrator” for “him” after “certified by”.
 
@@ -3067,15 +3067,15 @@ The insurance provided for in this subchapter and the deductions and contributio
 
 **Interim Coverage Until Effective Date of Group Plan; $5,000 Death Gratuity**
 
-Pub. L. 89–214, § 3, Sept. 29, 1965, 79 Stat. 886, as amended by Pub. L. 89–730, § 6(a)–(d), Nov. 2, 1966, 80 Stat. 1159, provided for payment of a death gratuity of up to $5,000 in certain cases of death of veterans while in active military, naval, or air service during the period from Jan. 1, 1957, to the date immediately preceding the date on which the Servicemen’s Group Life Insurance program was placed in effect under this section, and required that an application for such gratuity had to be made within one year after Sept. 29, 1965.
+Pub. L. 89–214, § 3, Sept. 29, 1965, 79 Stat. 886, as amended by Pub. L. 89–730, § 6(a)–(d), Nov. 2, 1966, 80 Stat. 1159, provided for payment of a death gratuity of up to $5,000 in certain cases of death of veterans while in active military, naval, or air service during the period from Jan. 1, 1957, to the date immediately preceding the date on which the Servicemen’s Group Life Insurance program was placed in effect under this section, and required that an application for such gratuity had to be made within one year after Sept. 29, 1965.
 
-Pub. L. 89–730, § 6(e), Nov. 2, 1966, 80 Stat. 1159, provided that any waiver of future benefits executed by any person under section 3(a) of Pub. L. 89–214 (see above), as in effect prior to Nov. 2, 1966, was to have no effect.
+Pub. L. 89–730, § 6(e), Nov. 2, 1966, 80 Stat. 1159, provided that any waiver of future benefits executed by any person under section 3(a) of Pub. L. 89–214 (see above), as in effect prior to Nov. 2, 1966, was to have no effect.
 
-Pub. L. 89–730, § 6(f), Nov. 2, 1966, 80 Stat. 1159, provided that in any case in which the death gratuity paid to any person under section 3 of Pub. L. 89–214 (see above), was reduced pursuant to clause (B) of subsection (c)(1) of such section, as in effect prior to Nov. 2, 1966, the Administrator of Veterans’ Affairs was to pay to such person an amount equal to the amount by which such death gratuity was reduced.
+Pub. L. 89–730, § 6(f), Nov. 2, 1966, 80 Stat. 1159, provided that in any case in which the death gratuity paid to any person under section 3 of Pub. L. 89–214 (see above), was reduced pursuant to clause (B) of subsection (c)(1) of such section, as in effect prior to Nov. 2, 1966, the Administrator of Veterans’ Affairs was to pay to such person an amount equal to the amount by which such death gratuity was reduced.
 
-Pub. L. 89–730, § 6(g), Nov. 2, 1966, 80 Stat. 1159, provided that notwithstanding the time limitation prescribed in section 3(a) of Pub. L. 89–214 (see above), any application for death gratuity filed under such section shall be valid if filed within one year after Nov. 2, 1966.
+Pub. L. 89–730, § 6(g), Nov. 2, 1966, 80 Stat. 1159, provided that notwithstanding the time limitation prescribed in section 3(a) of Pub. L. 89–214 (see above), any application for death gratuity filed under such section shall be valid if filed within one year after Nov. 2, 1966.
 
-### § 1977. Veterans’ Group Life Insurance
+### § 1977. Veterans’ Group Life Insurance
 
 **(a)**
 
@@ -3109,89 +3109,89 @@ Pub. L. 89–730, § 6(g), Nov. 2, 1966, 80 Stat. 1159, provided that notwiths
 
 **(3)** For the purpose of this subsection, the terms “Individual Ready Reserve” and “Inactive National Guard” shall have the meanings prescribed by the Secretary in consultation with the Secretary of Defense.
 
-(Added Pub. L. 93–289, § 9(a), May 24, 1974, 88 Stat. 169, § 777; amended Pub. L. 97–66, title IV, § 401(b), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–166, title IV, § 401(b), Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title VII, § 701(43), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–25, title III, § 336(b), Apr. 6, 1991, 105 Stat. 90; renumbered § 1977 and amended Pub. L. 102–83, §§ 4(a)(2)(B)(iii), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–568, title II, § 202, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–446, title XII, § 1201(e)(9), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 104–275, title IV, §§ 403(b), 405(b)(1)(H), 406, Oct. 9, 1996, 110 Stat. 3338–3340; Pub. L. 106–419, title III, § 312(b), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 109–13, div. A, title I, § 1012(e), May 11, 2005, 119 Stat. 245; Pub. L. 109–80, §§ 2, 3(b), Sept. 30, 2005, 119 Stat. 2045; Pub. L. 111–275, title IV, § 404(a), Oct. 13, 2010, 124 Stat. 2879.)
+(Added Pub. L. 93–289, § 9(a), May 24, 1974, 88 Stat. 169, § 777; amended Pub. L. 97–66, title IV, § 401(b), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 99–166, title IV, § 401(b), Dec. 3, 1985, 99 Stat. 957; Pub. L. 99–576, title VII, § 701(43), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–25, title III, § 336(b), Apr. 6, 1991, 105 Stat. 90; renumbered § 1977 and amended Pub. L. 102–83, §§ 4(a)(2)(B)(iii), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–568, title II, § 202, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–446, title XII, § 1201(e)(9), Nov. 2, 1994, 108 Stat. 4685; Pub. L. 104–275, title IV, §§ 403(b), 405(b)(1)(H), 406, Oct. 9, 1996, 110 Stat. 3338–3340; Pub. L. 106–419, title III, § 312(b), Nov. 1, 2000, 114 Stat. 1854; Pub. L. 109–13, div. A, title I, § 1012(e), May 11, 2005, 119 Stat. 245; Pub. L. 109–80, §§ 2, 3(b), Sept. 30, 2005, 119 Stat. 2045; Pub. L. 111–275, title IV, § 404(a), Oct. 13, 2010, 124 Stat. 2879.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–275, § 404(a)(1), inserted “Except as provided in paragraph (3),” before “Veterans’ Group Life Insurance shall be”.
+2010—Subsec. (a)(1). Pub. L. 111–275, § 404(a)(1), inserted “Except as provided in paragraph (3),” before “Veterans’ Group Life Insurance shall be”.
 
-Subsec. (a)(3). Pub. L. 111–275, § 404(a)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 111–275, § 404(a)(2), added par. (3).
 
-2005—Subsec. (a)(1). Pub. L. 109–80, § 3(b)(1), substituted “at any one time in excess of the maximum amount for Servicemembers’ Group Life Insurance in effect under section 1967(a)(3)(A)(i) of this title” for “in excess of $250,000 at any one time”.
+2005—Subsec. (a)(1). Pub. L. 109–80, § 3(b)(1), substituted “at any one time in excess of the maximum amount for Servicemembers’ Group Life Insurance in effect under section 1967(a)(3)(A)(i) of this title” for “in excess of $250,000 at any one time”.
 
-Pub. L. 109–13, § 1012(e), which directed substitution of “$400,000” for “$250,000” and insertion of “Any additional amount of insurance provided a member under section 1967(e) of this title may not be treated as an amount for which Veterans’ Group Life Insurance shall be issued under this section.” at end, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
+Pub. L. 109–13, § 1012(e), which directed substitution of “$400,000” for “$250,000” and insertion of “Any additional amount of insurance provided a member under section 1967(e) of this title may not be treated as an amount for which Veterans’ Group Life Insurance shall be issued under this section.” at end, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
 
-Subsec. (a)(2). Pub. L. 109–80, § 3(b)(2), substituted “under Servicemembers’ Group Life Insurance for less than the maximum amount for such insurance in effect under section 1967(a)(3)(A)(i) of this title” for “for less than $250,000 under Servicemembers’ Group Life Insurance” and “does not exceed such maximum amount in effect under such section” for “does not exceed $250,000”.
+Subsec. (a)(2). Pub. L. 109–80, § 3(b)(2), substituted “under Servicemembers’ Group Life Insurance for less than the maximum amount for such insurance in effect under section 1967(a)(3)(A)(i) of this title” for “for less than $250,000 under Servicemembers’ Group Life Insurance” and “does not exceed such maximum amount in effect under such section” for “does not exceed $250,000”.
 
-Pub. L. 109–13, § 1012(e)(1), which directed substitution of “$400,000” for “$250,000” in two places, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
+Pub. L. 109–13, § 1012(e)(1), which directed substitution of “$400,000” for “$250,000” in two places, was repealed by Pub. L. 109–80, § 2. See Effective and Termination Dates of 2005 Amendments note below.
 
 2000—Subsec. (a). Pub. L. 106–419 substituted “$250,000” for “$200,000” in par. (1) and two places in par. (2).
 
-1996—Subsec. (a). Pub. L. 104–275, § 403(b)(1), designated existing provisions as par. (1), struck out at end “Any person insured under Veterans’ Group Life Insurance who again becomes insured under Servicemen’s Group Life Insurance may within 60 days after becoming so insured convert any or all of such person’s Veterans’ Group Life Insurance to an individual policy of insurance under subsection (e). However, if such a person dies within the 60-day period and before converting such person’s Veterans’ Group Life Insurance, Veterans’ Group Life Insurance will be payable only if such person is insured for less than $200,000 under Servicemen’s Group Life Insurance, and then only in an amount which when added to the amount of Servicemen’s Group Life Insurance payable shall not exceed $200,000.”, and added par. (2).
+1996—Subsec. (a). Pub. L. 104–275, § 403(b)(1), designated existing provisions as par. (1), struck out at end “Any person insured under Veterans’ Group Life Insurance who again becomes insured under Servicemen’s Group Life Insurance may within 60 days after becoming so insured convert any or all of such person’s Veterans’ Group Life Insurance to an individual policy of insurance under subsection (e). However, if such a person dies within the 60-day period and before converting such person’s Veterans’ Group Life Insurance, Veterans’ Group Life Insurance will be payable only if such person is insured for less than $200,000 under Servicemen’s Group Life Insurance, and then only in an amount which when added to the amount of Servicemen’s Group Life Insurance payable shall not exceed $200,000.”, and added par. (2).
 
-Subsec. (a)(1). Pub. L. 104–275, § 406, struck out “and (e)” after “section 1967(a)” and after “section 1967(b)”.
+Subsec. (a)(1). Pub. L. 104–275, § 406, struck out “and (e)” after “section 1967(a)” and after “section 1967(b)”.
 
-Pub. L. 104–275, § 405(b)(1)(H), substituted “Servicemembers’ Group” for “Servicemen’s Group” in two places.
+Pub. L. 104–275, § 405(b)(1)(H), substituted “Servicemembers’ Group” for “Servicemen’s Group” in two places.
 
-Subsec. (d). Pub. L. 104–275, § 405(b)(1)(H), substituted “Servicemembers’ Group” for “Servicemen’s Group”.
+Subsec. (d). Pub. L. 104–275, § 405(b)(1)(H), substituted “Servicemembers’ Group” for “Servicemen’s Group”.
 
-Subsec. (e). Pub. L. 104–275, § 403(b)(2), inserted “at any time” after “shall have the right” in first sentence and substituted as third sentence “The Veterans’ Group Life Insurance policy converted to an individual policy under this subsection shall terminate on the day before the date on which the individual policy becomes effective.” for “The individual policy will be effective the day after the insured’s Veterans’ Group Life Insurance terminates by expiration of the five-year term period, except in a case where the insured is eligible to convert at an earlier date by reason of again having become insured under Servicemen’s Group Life Insurance, in which event the effective date of the individual policy may not be later than the sixty-first day after the insured again became so insured.”
+Subsec. (e). Pub. L. 104–275, § 403(b)(2), inserted “at any time” after “shall have the right” in first sentence and substituted as third sentence “The Veterans’ Group Life Insurance policy converted to an individual policy under this subsection shall terminate on the day before the date on which the individual policy becomes effective.” for “The individual policy will be effective the day after the insured’s Veterans’ Group Life Insurance terminates by expiration of the five-year term period, except in a case where the insured is eligible to convert at an earlier date by reason of again having become insured under Servicemen’s Group Life Insurance, in which event the effective date of the individual policy may not be later than the sixty-first day after the insured again became so insured.”
 
-Subsec. (g). Pub. L. 104–275, § 405(b)(1)(H), substituted “Servicemembers’ Group” for “Servicemen’s Group” wherever appearing.
+Subsec. (g). Pub. L. 104–275, § 405(b)(1)(H), substituted “Servicemembers’ Group” for “Servicemen’s Group” wherever appearing.
 
 1994—Subsec. (f). Pub. L. 103–446 substituted “subsections (d) and (e) of section 1971” for “sections 1971(d) and (e)”.
 
-1992—Subsec. (a). Pub. L. 102–568, § 202(1), inserted “and (e)” after “1967(a)” and after “1967(b)”, substituted “$200,000” for “$100,000” wherever appearing, “60 days” for “sixty days”, and “60-day period” for “sixty-day period”, and struck out “of this section” after “subsection (e)”.
+1992—Subsec. (a). Pub. L. 102–568, § 202(1), inserted “and (e)” after “1967(a)” and after “1967(b)”, substituted “$200,000” for “$100,000” wherever appearing, “60 days” for “sixty days”, and “60-day period” for “sixty-day period”, and struck out “of this section” after “subsection (e)”.
 
-Subsec. (b)(2). Pub. L. 102–568, § 202(2), substituted “renewable” for “nonrenewable”.
+Subsec. (b)(2). Pub. L. 102–568, § 202(2), substituted “renewable” for “nonrenewable”.
 
-Subsec. (h)(2). Pub. L. 102–568, § 202(3), substituted “In accordance with subsection (b)” for “Notwithstanding subsection (b)(2) of this section”.
+Subsec. (h)(2). Pub. L. 102–568, § 202(3), substituted “In accordance with subsection (b)” for “Notwithstanding subsection (b)(2) of this section”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 777 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 777 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1967(a)” for “767(a)” and “1967(b) or 1968(a)” for “767(b) or 768(a)”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1967(a)” for “767(a)” and “1967(b) or 1968(a)” for “767(b) or 768(a)”.
 
 Pub. L. 102–25 substituted “$100,000” for “$50,000” wherever appearing.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1971(a)” for “771(a)” and “1966(b)” for “766(b)”.
+Subsec. (c). Pub. L. 102–83, § 5(c)(1), substituted “1971(a)” for “771(a)” and “1966(b)” for “766(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1970” for “770” and “1966(b)” for “766(b)”.
+Subsec. (d). Pub. L. 102–83, § 5(c)(1), substituted “1970” for “770” and “1966(b)” for “766(b)”.
 
-Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1966(b)” for “766(b)”.
+Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “1966(b)” for “766(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “1971(d)” for “771(d)”.
+Subsec. (f). Pub. L. 102–83, § 5(c)(1), substituted “1971(d)” for “771(d)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (g). Pub. L. 102–83, § 5(c)(1), substituted “1977” for “777” and “1966(b)” for “766(b)”.
+Subsec. (g). Pub. L. 102–83, § 5(c)(1), substituted “1977” for “777” and “1966(b)” for “766(b)”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(2)(B)(iii), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(2)(B)(iii), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-Subsec. (h)(1), (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (h)(1), (3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-1986—Subsec. (a). Pub. L. 99–576, § 701(43)(A), substituted “such person’s” for “his” in two places and “such person” for “he”.
+1986—Subsec. (a). Pub. L. 99–576, § 701(43)(A), substituted “such person’s” for “his” in two places and “such person” for “he”.
 
-Subsec. (c). Pub. L. 99–576, § 701(43)(B), substituted “the Administrator” for “he” in first sentence and “such member or former member” for “he” in third sentence.
+Subsec. (c). Pub. L. 99–576, § 701(43)(B), substituted “the Administrator” for “he” in first sentence and “such member or former member” for “he” in third sentence.
 
-Subsec. (d). Pub. L. 99–576, § 701(43)(C), substituted “such person’s” for “his”.
+Subsec. (d). Pub. L. 99–576, § 701(43)(C), substituted “such person’s” for “his”.
 
-Subsec. (e). Pub. L. 99–576, § 701(43)(D), substituted “the insured” for “he” in first and third sentences.
+Subsec. (e). Pub. L. 99–576, § 701(43)(D), substituted “the insured” for “he” in first and third sentences.
 
-Subsec. (g). Pub. L. 99–576, § 701(43)(E), substituted “the insured’s” for “his” and “the Administrator” for “he”.
+Subsec. (g). Pub. L. 99–576, § 701(43)(E), substituted “the insured’s” for “his” and “the Administrator” for “he”.
 
-1985—Subsec. (a). Pub. L. 99–166, § 401(b)(1), substituted “Veterans’ Group Life Insurance shall be issued in the amounts specified in section 767(a) of this title. In the case of any individual, the amount of Veterans’ Group Life Insurance may not exceed the amount of Servicemen’s Group Life Insurance coverage continued in force after the expiration of the period of duty or travel under section 767(b) or 768(a) of this title” for “Veterans’ Group Life Insurance shall be issued in the amount of $5,000, $10,000, $15,000, $20,000, $25,000, $30,000 or $35,000 only” and “$50,000” for “$35,000” in three places.
+1985—Subsec. (a). Pub. L. 99–166, § 401(b)(1), substituted “Veterans’ Group Life Insurance shall be issued in the amounts specified in section 767(a) of this title. In the case of any individual, the amount of Veterans’ Group Life Insurance may not exceed the amount of Servicemen’s Group Life Insurance coverage continued in force after the expiration of the period of duty or travel under section 767(b) or 768(a) of this title” for “Veterans’ Group Life Insurance shall be issued in the amount of $5,000, $10,000, $15,000, $20,000, $25,000, $30,000 or $35,000 only” and “$50,000” for “$35,000” in three places.
 
-Subsec. (h). Pub. L. 99–166, § 401(b)(2), added subsec. (h).
+Subsec. (h). Pub. L. 99–166, § 401(b)(2), added subsec. (h).
 
 1981—Subsec. (a). Pub. L. 97–66 inserted figures of $25,000, $30,000, and $35,000 to the enumeration of allowable amounts in which Veterans’ Group Life Insurance may be issued, and substituted $35,000 for $20,000 as the maximum amount of combined Servicemen’s Group Life Insurance and Veterans’ Group Life Insurance which a person may carry at any one time and as the figure covering situations in which a person insured under Veterans’ Group Life Insurance dies within the sixty-day period after having again become insured under Servicemen’s Group Life Insurance before converting his Veterans’ Group Life Insurance to an individual policy.
 
@@ -3199,7 +3199,7 @@ Subsec. (h). Pub. L. 99–166, § 401(b)(2), added subsec. (h).
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title IV, § 404(b), Oct. 13, 2010, 124 Stat. 2880, provided that: “Paragraph (3) of section 1977(a) of title 38, United States Code, as added by subsection (a), shall take effect on the date that is 180 days after the date of the enactment of this Act [Oct. 13, 2010].”
+Pub. L. 111–275, title IV, § 404(b), Oct. 13, 2010, 124 Stat. 2880, provided that: “Paragraph (3) of section 1977(a) of title 38, United States Code, as added by subsection (a), shall take effect on the date that is 180 days after the date of the enactment of this Act [Oct. 13, 2010].”
 
 **Effective and Termination Dates of 2005 Amendments**
 
@@ -3229,11 +3229,11 @@ Amendment by Pub. L. 97–66 effective Dec. 1, 1981, see section 701(b)(2) of Pu
 
 Section effective first day of third calendar month following May 1974, see section 12(4) of Pub. L. 93–289, set out as an Effective Date of 1974 Amendment note under section 1968 of this title.
 
-### § 1978. Reinstatement
+### § 1978. Reinstatement
 
 Reinstatement of insurance coverage granted under this subchapter but lapsed for nonpayment of premiums shall be under terms and conditions prescribed by the Secretary.
 
-(Added Pub. L. 93–289, § 9(a), May 24, 1974, 88 Stat. 172, § 778; renumbered § 1978 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 93–289, § 9(a), May 24, 1974, 88 Stat. 172, § 778; renumbered § 1978 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -3247,11 +3247,11 @@ Reinstatement of insurance coverage granted under this subchapter but lapsed for
 
 Section effective first day of third calendar month following May 1974, see section 12(4) of Pub. L. 93–289, set out as an Effective Date of 1974 Amendment note under section 1968 of this title.
 
-### § 1979. Incontestability
+### § 1979. Incontestability
 
 Subject to the provision of section 1973 of this title, insurance coverage granted under this subchapter shall be incontestable from the date of issue, reinstatement, or conversion except for fraud or nonpayment of premium.
 
-(Added Pub. L. 93–289, § 9(a), May 24, 1974, 88 Stat. 172, § 779; renumbered § 1979 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 93–289, § 9(a), May 24, 1974, 88 Stat. 172, § 779; renumbered § 1979 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -3265,7 +3265,7 @@ Subject to the provision of section 1973 of this title, insurance coverage grant
 
 Section effective first day of third calendar month following May 1974, see section 12(4) of Pub. L. 93–289, set out as an Effective Date of 1974 Amendment note under section 1968 of this title.
 
-### § 1980. Option to receive accelerated death benefit
+### § 1980. Option to receive accelerated death benefit
 
 **(a)** For the purpose of this section, a person shall be considered to be terminally ill if the person has a medical prognosis such that the life expectancy of the person is less than a period prescribed by the Secretary. The maximum length of such period may not exceed 12 months.
 
@@ -3297,7 +3297,7 @@ Section effective first day of third calendar month following May 1974, see sect
 
 **(h)** Notwithstanding any other provision of law, the amount of the accelerated death benefit received by a person under this section shall not be considered income or resources for purposes of determining eligibility for or the amount of benefits under any Federal or federally-assisted program or for any other purpose.
 
-(Added Pub. L. 105–368, title III, § 302(a)(1), Nov. 11, 1998, 112 Stat. 3332; amended Pub. L. 111–275, title IV, § 405(a), Oct. 13, 2010, 124 Stat. 2880.)
+(Added Pub. L. 105–368, title III, § 302(a)(1), Nov. 11, 1998, 112 Stat. 3332; amended Pub. L. 111–275, title IV, § 405(a), Oct. 13, 2010, 124 Stat. 2880.)
 
 **Editorial Notes**
 
@@ -3309,13 +3309,13 @@ Section effective first day of third calendar month following May 1974, see sect
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title IV, § 405(b), Oct. 13, 2010, 124 Stat. 2880, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a payment of an accelerated death benefit under section 1980 of title 38, United States Code, made on or after the date of the enactment of this Act [Oct. 13, 2010].”
+Pub. L. 111–275, title IV, § 405(b), Oct. 13, 2010, 124 Stat. 2880, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a payment of an accelerated death benefit under section 1980 of title 38, United States Code, made on or after the date of the enactment of this Act [Oct. 13, 2010].”
 
 **Effective Date**
 
 Section effective 90 days after Nov. 11, 1998, see section 302(c) of Pub. L. 105–368, set out as an Effective Date of 1998 Amendment note under section 1970 of this title.
 
-### § 1980A. Traumatic injury protection
+### § 1980A. Traumatic injury protection
 
 **(a)**
 
@@ -3441,7 +3441,7 @@ Section effective 90 days after Nov. 11, 1998, see section 302(c) of Pub. L. 105
 
 **(2)** Any finding favorable to the member as described in paragraph (1)(B) shall be binding on all subsequent reviews or appeals of the denial of the claim, unless clear and convincing evidence is shown to the contrary to rebut such favorable finding.
 
-(Added Pub. L. 109–13, div. A, title I, § 1032(a)(2), May 11, 2005, 119 Stat. 257; amended Pub. L. 109–233, title V, § 501(a), June 15, 2006, 120 Stat. 411; Pub. L. 110–181, div. A, title XVII, § 1711, Jan. 28, 2008, 122 Stat. 495; Pub. L. 111–275, title IV, § 406(a)(1), title X, § 1001(d)(2), Oct. 13, 2010, 124 Stat. 2880, 2896; Pub. L. 116–315, title II, § 2005, Jan. 5, 2021, 134 Stat. 4974.)
+(Added Pub. L. 109–13, div. A, title I, § 1032(a)(2), May 11, 2005, 119 Stat. 257; amended Pub. L. 109–233, title V, § 501(a), June 15, 2006, 120 Stat. 411; Pub. L. 110–181, div. A, title XVII, § 1711, Jan. 28, 2008, 122 Stat. 495; Pub. L. 111–275, title IV, § 406(a)(1), title X, § 1001(d)(2), Oct. 13, 2010, 124 Stat. 2880, 2896; Pub. L. 116–315, title II, § 2005, Jan. 5, 2021, 134 Stat. 4974.)
 
 **Editorial Notes**
 
@@ -3449,23 +3449,23 @@ Section effective 90 days after Nov. 11, 1998, see section 302(c) of Pub. L. 105
 
 2021—Subsec. (*l*). Pub. L. 116–315 added subsec. (*l*).
 
-2010—Subsec. (d). Pub. L. 111–275, § 406(a)(1), designated existing provisions as par. (1) and added par. (2).
+2010—Subsec. (d). Pub. L. 111–275, § 406(a)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (h). Pub. L. 111–275, § 1001(d)(2), inserted “section” before “1968(a)”.
+Subsec. (h). Pub. L. 111–275, § 1001(d)(2), inserted “section” before “1968(a)”.
 
 2008—Subsec. (k). Pub. L. 110–181 added subsec. (k).
 
-2006—Subsec. (a). Pub. L. 109–233, § 501(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member who is insured under subparagraph (A)(i), (B), or (C)(i) of section 1967(a)(1) shall automatically be issued a traumatic injury protection rider that will provide for a payment not to exceed $100,000 if the member, while so insured, sustains a traumatic injury that results in a loss described in subsection (b)(1). The maximum amount payable for all injuries resulting from the same traumatic event shall be limited to $100,000. If a member suffers more than 1 such loss as a result of traumatic injury, payment will be made in accordance with the schedule in subsection (d) for the single loss providing the highest payment.”
+2006—Subsec. (a). Pub. L. 109–233, § 501(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A member who is insured under subparagraph (A)(i), (B), or (C)(i) of section 1967(a)(1) shall automatically be issued a traumatic injury protection rider that will provide for a payment not to exceed $100,000 if the member, while so insured, sustains a traumatic injury that results in a loss described in subsection (b)(1). The maximum amount payable for all injuries resulting from the same traumatic event shall be limited to $100,000. If a member suffers more than 1 such loss as a result of traumatic injury, payment will be made in accordance with the schedule in subsection (d) for the single loss providing the highest payment.”
 
-Subsec. (b)(1). Pub. L. 109–233, § 501(a)(2)(A), substituted “insured against traumatic injury under this section is insured against such losses due to traumatic injury (in this section referred to as ‘qualifying losses’) as are prescribed by the Secretary by regulation. Qualifying losses so prescribed shall include the following:” for “issued a traumatic injury protection rider under subsection (a) is insured against such traumatic injuries, as prescribed by the Secretary, in collaboration with the Secretary of Defense, including, but not limited to—” in introductory provisions, capitalized first letter of first word in subpars. (A) to (H), substituted a period for the semicolon at the end of subpars. (A) to (F), and substituted a period for “; and” at the end of subpar. (G).
+Subsec. (b)(1). Pub. L. 109–233, § 501(a)(2)(A), substituted “insured against traumatic injury under this section is insured against such losses due to traumatic injury (in this section referred to as ‘qualifying losses’) as are prescribed by the Secretary by regulation. Qualifying losses so prescribed shall include the following:” for “issued a traumatic injury protection rider under subsection (a) is insured against such traumatic injuries, as prescribed by the Secretary, in collaboration with the Secretary of Defense, including, but not limited to—” in introductory provisions, capitalized first letter of first word in subpars. (A) to (H), substituted a period for the semicolon at the end of subpars. (A) to (F), and substituted a period for “; and” at the end of subpar. (G).
 
-Subsec. (b)(2). Pub. L. 109–233, § 501(a)(2)(B), substituted “subsection:” for “subsection—” in introductory provisions, “The” for “the” at the beginning of subpars. (A) to (C), “four limbs.” for “4 limbs;” in subpar. (A), a period for “; and” in subpar. (B), and “one side” for “1 side” in subpar. (C), and added subpar. (D).
+Subsec. (b)(2). Pub. L. 109–233, § 501(a)(2)(B), substituted “subsection:” for “subsection—” in introductory provisions, “The” for “the” at the beginning of subpars. (A) to (C), “four limbs.” for “4 limbs;” in subpar. (A), a period for “; and” in subpar. (B), and “one side” for “1 side” in subpar. (C), and added subpar. (D).
 
-Subsec. (b)(3). Pub. L. 109–233, § 501(a)(2)(C), struck out “, in collaboration with the Secretary of Defense,” after “The Secretary” and substituted “may prescribe” for “shall prescribe” and “conditions under which coverage otherwise provided under this section is excluded” for “the conditions under which coverage against loss will not be provided”.
+Subsec. (b)(3). Pub. L. 109–233, § 501(a)(2)(C), struck out “, in collaboration with the Secretary of Defense,” after “The Secretary” and substituted “may prescribe” for “shall prescribe” and “conditions under which coverage otherwise provided under this section is excluded” for “the conditions under which coverage against loss will not be provided”.
 
-Subsec. (b)(4). Pub. L. 109–233, § 501(a)(2)(D), added par. (4).
+Subsec. (b)(4). Pub. L. 109–233, § 501(a)(2)(D), added par. (4).
 
-Subsec. (c). Pub. L. 109–233, § 501(a)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A payment under this section may be made only if—
+Subsec. (c). Pub. L. 109–233, § 501(a)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A payment under this section may be made only if—
 
 “(1) the member is insured under Servicemembers’ Group Life Insurance when the traumatic injury is sustained;
 
@@ -3473,7 +3473,7 @@ Subsec. (c). Pub. L. 109–233, § 501(a)(3), amended subsec. (c) generally. P
 
 “(3) the member suffers the loss before the end of the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date on which the member sustains the traumatic injury, except, if the loss is quadriplegia, paraplegia, or hemiplegia, the member suffers the loss not later than 365 days after sustaining the traumatic injury.”
 
-Subsec. (d). Pub. L. 109–233, § 501(a)(4), substituted “qualifying losses shall be made in accordance with a schedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for each type of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000.” for “losses described in subsection (b)(1) shall be—
+Subsec. (d). Pub. L. 109–233, § 501(a)(4), substituted “qualifying losses shall be made in accordance with a schedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for each type of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000.” for “losses described in subsection (b)(1) shall be—
 
 “(1) made in accordance with a schedule prescribed by the Secretary, in collaboration with the Secretary of Defense;
 
@@ -3481,7 +3481,7 @@ Subsec. (d). Pub. L. 109–233, § 501(a)(4), substituted “qualifying losses
 
 “(3) in an amount that is equal to not less than $25,000 and not more than $100,000.”
 
-Subsec. (e). Pub. L. 109–233, § 501(a)(5), substituted “Secretary concerned” for “Secretary of the concerned service” in par. (2) and “Secretary” for “Secretary of Veterans Affairs” wherever appearing in pars. (1) to (5), struck out “as the premium allocable to the pay period for providing traumatic injury protection under this section” before “(which shall be the same for all such members)” in par. (1), added pars. (6) to (8), and struck out former pars. (6) to (8), which read as follows:
+Subsec. (e). Pub. L. 109–233, § 501(a)(5), substituted “Secretary concerned” for “Secretary of the concerned service” in par. (2) and “Secretary” for “Secretary of Veterans Affairs” wherever appearing in pars. (1) to (5), struck out “as the premium allocable to the pay period for providing traumatic injury protection under this section” before “(which shall be the same for all such members)” in par. (1), added pars. (6) to (8), and struck out former pars. (6) to (8), which read as follows:
 
 “(6) The cost attributable to insuring such member under this section, less the premiums deducted from the pay of the member’s uniformed service, shall be paid by the Secretary of Defense to the Secretary of Veterans Affairs. This amount shall be paid on a monthly basis, and shall be due within 10 days of the notice provided by the Secretary of Veterans Affairs to the Secretary of the concerned uniformed service.
 
@@ -3489,23 +3489,23 @@ Subsec. (e). Pub. L. 109–233, § 501(a)(5), substituted “Secretary concern
 
 “(8) The Secretary of Defense shall forward an amount to the Secretary of Veterans Affairs that is equivalent to half the anticipated cost of claims for the current fiscal year, upon the effective date of this legislation.”
 
-Subsec. (f). Pub. L. 109–233, § 501(a)(6), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary of Defense shall certify whether any member claiming the benefit under this section is eligible.”
+Subsec. (f). Pub. L. 109–233, § 501(a)(6), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary of Defense shall certify whether any member claiming the benefit under this section is eligible.”
 
-Subsec. (g). Pub. L. 109–233, § 501(a)(7), designated first sentence as par. (1), substituted “may not be made under the insurance coverage under this section” for “will not be made” and “a period prescribed by the Secretary, by regulation, for such purpose that begins on the date” for “the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date”, designated second sentence as par. (2), and substituted “If a member eligible for a payment under this section” for “If the member”, “shall be” for “will be”, and “to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under section 1967(a) of this title.” for “according to the member’s most current beneficiary designation under Servicemembers’ Group Life Insurance, or a by law designation, if applicable.”
+Subsec. (g). Pub. L. 109–233, § 501(a)(7), designated first sentence as par. (1), substituted “may not be made under the insurance coverage under this section” for “will not be made” and “a period prescribed by the Secretary, by regulation, for such purpose that begins on the date” for “the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date”, designated second sentence as par. (2), and substituted “If a member eligible for a payment under this section” for “If the member”, “shall be” for “will be”, and “to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under section 1967(a) of this title.” for “according to the member’s most current beneficiary designation under Servicemembers’ Group Life Insurance, or a by law designation, if applicable.”
 
-Subsec. (h). Pub. L. 109–233, § 501(a)(8), substituted “termination of the member’s duty status in the uniformed services that established eligibility for Servicemembers’ Group Life Insurance” for “member’s separation from the uniformed service” in first sentence, added second sentence, and struck out former second sentence which read as follows: “Payment will not be made for any loss resulting from injury incurred after the date a member is separated from the uniformed services.”
+Subsec. (h). Pub. L. 109–233, § 501(a)(8), substituted “termination of the member’s duty status in the uniformed services that established eligibility for Servicemembers’ Group Life Insurance” for “member’s separation from the uniformed service” in first sentence, added second sentence, and struck out former second sentence which read as follows: “Payment will not be made for any loss resulting from injury incurred after the date a member is separated from the uniformed services.”
 
-Subsec. (j). Pub. L. 109–233, § 501(a)(9), added subsec. (j).
+Subsec. (j). Pub. L. 109–233, § 501(a)(9), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title IV, § 406(a)(2), Oct. 13, 2010, 124 Stat. 2880, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on October 1, 2011.”
+Pub. L. 111–275, title IV, § 406(a)(2), Oct. 13, 2010, 124 Stat. 2880, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on October 1, 2011.”
 
 **Effective Date**
 
-Pub. L. 109–13, div. A, title I, § 1032(d), May 11, 2005, 119 Stat. 259, provided that:
+Pub. L. 109–13, div. A, title I, § 1032(d), May 11, 2005, 119 Stat. 259, provided that:
 
 > **“(1) In general.—** The amendments made by this section [enacting this section and amending section 1965 of this title] shall take effect on the first day of the first month beginning more than 180 days after the date of enactment of this Act [May 11, 2005].
 
@@ -3513,7 +3513,7 @@ Pub. L. 109–13, div. A, title I, § 1032(d), May 11, 2005, 119 Stat. 259, pr
 
 **Payments for Qualifying Losses Incurred Before October 13, 2010**
 
-Pub. L. 111–275, title IV, § 406(b), Oct. 13, 2010, 124 Stat. 2880, provided that:
+Pub. L. 111–275, title IV, § 406(b), Oct. 13, 2010, 124 Stat. 2880, provided that:
 
 > **“(1) In general.—** To the extent necessary, the Secretary of Veterans Affairs shall prescribe in regulations mechanisms for payments under section 1980A of title 38, United States Code, for qualifying losses incurred before the date of the enactment of this Act [Oct. 13, 2010], by reason of paragraph (2) of subsection (d) of such section (as added by subsection (a)(1) of this section).
 
@@ -3525,7 +3525,7 @@ Pub. L. 111–275, title IV, § 406(b), Oct. 13, 2010, 124 Stat. 2880, provide
 
 **Retroactive Provision**
 
-Pub. L. 109–233, title V, § 501(b), June 15, 2006, 120 Stat. 414, as amended by Pub. L. 111–275, title IV, § 408(a), Oct. 13, 2010, 124 Stat. 2881, provided that:
+Pub. L. 109–233, title V, § 501(b), June 15, 2006, 120 Stat. 414, as amended by Pub. L. 111–275, title IV, § 408(a), Oct. 13, 2010, 124 Stat. 2881, provided that:
 
 > **“(1) Eligibility.—** A member of the uniformed services who during the period beginning on October 7, 2001, and ending at the close of November 30, 2005, sustains a traumatic injury resulting in a qualifying loss is eligible for coverage for that loss under section 1980A of title 38, United States Code.
 
@@ -3541,11 +3541,11 @@ Pub. L. 109–233, title V, § 501(b), June 15, 2006, 120 Stat. 414, as amende
 
 > **“(5) Secretary concerned.—** For purposes of this subsection, the term ‘Secretary concerned’ has the meaning given that term in paragraph (25) of section 101 of title 38, United States Code.”
 
-[Pub. L. 111–275, title IV, § 408(c), Oct. 13, 2010, 124 Stat. 2881, provided that: “The amendments made by this section [amending section 501(b)(1) of Pub. L. 109–233, set out above] shall take effect on October 1, 2011.” ]
+[Pub. L. 111–275, title IV, § 408(c), Oct. 13, 2010, 124 Stat. 2881, provided that: “The amendments made by this section [amending section 501(b)(1) of Pub. L. 109–233, set out above] shall take effect on October 1, 2011.” ]
 
-Pub. L. 109–13, div. A, title I, § 1032(c), May 11, 2005, 119 Stat. 259, which provided for retroactive traumatic injury benefits, was repealed by Pub. L. 109–233, title V, § 501(c)(2), June 15, 2006, 120 Stat. 415.
+Pub. L. 109–13, div. A, title I, § 1032(c), May 11, 2005, 119 Stat. 259, which provided for retroactive traumatic injury benefits, was repealed by Pub. L. 109–233, title V, § 501(c)(2), June 15, 2006, 120 Stat. 415.
 
-### § 1980B. Periodic review of automatic maximum coverage
+### § 1980B. Periodic review of automatic maximum coverage
 
 **(a) In General.—** On January 1, 2026, and every five years thereafter, the Secretary shall—
 
@@ -3561,7 +3561,7 @@ Pub. L. 109–13, div. A, title I, § 1032(c), May 11, 2005, 119 Stat. 259, wh
 
 **(c) Consumer Price Index Defined.—** In this section, the term “Consumer Price Index” means the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
 
-(Added Pub. L. 119–54, § 2(a), Dec. 12, 2025, 139 Stat. 705.)
+(Added Pub. L. 119–54, § 2(a), Dec. 12, 2025, 139 Stat. 705.)
 
 ## SUBCHAPTER IV—GENERAL
 
@@ -3569,13 +3569,13 @@ Pub. L. 109–13, div. A, title I, § 1032(c), May 11, 2005, 119 Stat. 259, wh
 
 **Amendments**
 
-1965—Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 880, redesignated “SUBCHAPTER III—GENERAL” as “SUBCHAPTER IV—GENERAL”.
+1965—Pub. L. 89–214, § 1(a), Sept. 29, 1965, 79 Stat. 880, redesignated “SUBCHAPTER III—GENERAL” as “SUBCHAPTER IV—GENERAL”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Department of Veterans Affairs Improvement of Treatment of Undisbursed Life Insurance Benefits**
 
-Pub. L. 117–313, § 4, Dec. 27, 2022, 136 Stat. 4400, provided that:
+Pub. L. 117–313, § 4, Dec. 27, 2022, 136 Stat. 4400, provided that:
 
 > **“(a) Improvement of Processes.—** The Secretary of Veterans Affairs shall improve the processes and procedures of the Department of Veterans Affairs with respect to identifying, locating, and paying hard-to-find beneficiaries of life insurance policies issued under chapter 19 of title 38, United States Code, including by—
 
@@ -3601,19 +3601,19 @@ Pub. L. 117–313, § 4, Dec. 27, 2022, 136 Stat. 4400, provided that:
 
 > **“(B)** is in dispute by two or more parties over who is the entitled beneficiary.”
 
-### § 1981. Replacement of surrendered and expired insurance
+### § 1981. Replacement of surrendered and expired insurance
 
 **(a)** Any person who surrendered a policy of National Service Life Insurance or United States Government life insurance on a permanent plan for its cash value while in the active service after April 24, 1951, and before January 1, 1957, who was entitled on December 31, 1958, to reinstate or replace such insurance under section 623 of the National Service Life Insurance Act of 1940, may, upon application in writing made while on continuous active duty which began before January 1, 1959, or within one hundred and twenty days after separation therefrom, be granted, without medical examination, permanent plan insurance on the same plan not in excess of the amount surrendered for cash, or may reinstate such surrendered insurance upon payment of the required reserve and the premium for the current month. Waiver of premiums and total disability income benefits otherwise authorized under this chapter shall not be denied in any case of issue or reinstatement of insurance on a permanent plan under this section or the prior corresponding provision of law in which it is shown to the satisfaction of the Secretary that total disability of the applicant began before the date of application. The cost of the premiums waived and total disability income benefits paid by virtue of the preceding sentence and the excess mortality cost in any case where the insurance matures by death from such total disability shall be borne by the United States and the Secretary shall transfer from time to time from the National Service Life Insurance appropriation to the National Service Life Insurance Fund and from the military and naval insurance appropriation to the United States Government Life Insurance Fund such sums as may be necessary to reimburse the funds for such costs.
 
 **(b)** Any person who had United States Government life insurance or National Service Life Insurance on the five-year level premium term plan, the term of which expired while such person was in the active service after April 25, 1951, or within one hundred and twenty days after separation from such active service, and in either case before January 1, 1957, who was entitled on December 31, 1958, to replace such insurance under section 623 of the National Service Life Insurance Act of 1940, shall, upon application made while on continuous active duty which began before January 1, 1959, or within one hundred and twenty days after separation therefrom, payment of premiums and evidence of good health satisfactory to the Secretary, be granted an equivalent amount of insurance on the five-year level premium term plan at the premium rate for such person’s then attained age.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1164, § 781; Pub. L. 99–576, title VII, § 701(44), Oct. 28, 1986, 100 Stat. 3294; renumbered § 1981 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1164, § 781; Pub. L. 99–576, title VII, § 701(44), Oct. 28, 1986, 100 Stat. 3294; renumbered § 1981 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 623 of the National Service Life Insurance Act of 1940, referred to in subsecs. (a) and (b), is section 623 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Aug. 1, 1956, ch. 837, title V, § 501(a)(4), 70 Stat. 880, which enacted section 824 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+Section 623 of the National Service Life Insurance Act of 1940, referred to in subsecs. (a) and (b), is section 623 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Aug. 1, 1956, ch. 837, title V, § 501(a)(4), 70 Stat. 880, which enacted section 824 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this section by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 **Amendments**
 
@@ -3621,11 +3621,11 @@ Section 623 of the National Service Life Insurance Act of 1940, referred to in s
 
 1986—Subsec. (b). Pub. L. 99–576 substituted “such person” for “he” and “such person’s” for “his”.
 
-### § 1982. Administrative cost
+### § 1982. Administrative cost
 
 Except as provided in sections 1920(c), 1923(d), and 1955(c) of this title, the United States shall bear the cost of administration in connection with this chapter, including expenses for medical examinations, inspections when necessary, printing and binding, and for such other expenditures as are necessary in the discretion of the Secretary.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1165, § 782; renumbered § 1982 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, § 201(b), Jan. 26, 1996, 110 Stat. 36.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1165, § 782; renumbered § 1982 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–99, title II, § 201(b), Jan. 26, 1996, 110 Stat. 36.)
 
 **Editorial Notes**
 
@@ -3639,11 +3639,11 @@ Amendment by Pub. L. 104–99 is based on section 107(4) of H.R. 2099, One Hundr
 
 1991—Pub. L. 102–83 renumbered section 782 of this title as this section and substituted “Secretary” for “Administrator”.
 
-### § 1983. Settlements for minors or incompetents
+### § 1983. Settlements for minors or incompetents
 
 When an optional mode of settlement of National Service Life Insurance or United States Government life insurance heretofore or hereafter matured is available to a beneficiary who is a minor or incompetent, such option may be exercised by such beneficiary’s fiduciary, person qualified under the Act of February 25, 1933 (25 U.S.C. 14), or person recognized by the Secretary as having custody of the person or the estate of such beneficiary, and the obligation of the United States under the insurance contract shall be fully satisfied by payment of benefits in accordance with the mode of settlement so selected.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1165, § 783; Pub. L. 99–576, title VII, § 701(45), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, § 14(b)(19), June 13, 1991, 105 Stat. 284; renumbered § 1983 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1165, § 783; Pub. L. 99–576, title VII, § 701(45), Oct. 28, 1986, 100 Stat. 3294; Pub. L. 102–54, § 14(b)(19), June 13, 1991, 105 Stat. 284; renumbered § 1983 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
@@ -3655,7 +3655,7 @@ Pub. L. 102–54 substituted “the Act of February 25, 1933 (25 U.S.C. 14)” f
 
 1986—Pub. L. 99–576 substituted “such beneficiary’s” for “his”.
 
-### § 1984. Suits on insurance
+### § 1984. Suits on insurance
 
 **(a)** In the event of disagreement as to claim, including claim for refund of premiums, under contract of National Service Life Insurance, United States Government life insurance, or yearly renewable term insurance between the Secretary and any person or persons claiming thereunder an action on the claim may be brought against the United States either in the United States District Court for the District of Columbia or in the district court of the United States in and for the district in which such person or any one of them resides, and jurisdiction is conferred upon such courts to hear and determine all such controversies. All persons having or claiming to have an interest in such insurance may be made parties to such suit, and such as are not inhabitants of or found within the district in which suit is brought may be brought in by order of the court to be served personally or by publication or in such other reasonable manner as the court may direct. In all cases where the Secretary acknowledges the indebtedness of the United States upon any such contract of insurance and there is a dispute as to the person or persons entitled to payment, a suit in the nature of a bill of interpleader may be brought at the request of the Secretary in the name of the United States against all persons having or claiming to have any interest in such insurance in the United States District Court for the District of Columbia or in the district court in and for the district in which any such claimant resides; however, no less than thirty days before instituting such suit the Secretary shall mail a notice of such intention to each of the persons to be made parties to the suit. The courts of appeals for the several circuits, including the District of Columbia, shall respectively exercise appellate jurisdiction and, except as provided in section 1254 of title 28, the decrees of such courts of appeals shall be final.
 
@@ -3675,65 +3675,65 @@ Pub. L. 102–54 substituted “the Act of February 25, 1933 (25 U.S.C. 14)” f
 
 **(i)** The Attorney General of the United States is authorized to agree to a judgment to be rendered by the chief judge of the United States court having jurisdiction of the case, pursuant to compromise approved by the Attorney General upon the recommendation of the United States attorney charged with the defense, upon such terms and for sums within the amount claimed to be payable, in any suit brought under the provisions of this section, on a contract of yearly renewable term insurance, and the Secretary shall make payments in accordance with any such judgment. The Comptroller General of the United States shall allow credit in the accounts of disbursing officers for all payments of insurance made in accordance with any such judgment. All such judgments shall constitute final settlement of the claim and no appeal therefrom shall be authorized.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1165, § 784; Pub. L. 86–507, § 1(32), June 11, 1960, 74 Stat. 202; Pub. L. 97–295, § 4(32), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(46), Oct. 28, 1986, 100 Stat. 3294; renumbered § 1984 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(VII), (VIII), (D)(ii), (3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1165, § 784; Pub. L. 86–507, § 1(32), June 11, 1960, 74 Stat. 202; Pub. L. 97–295, § 4(32), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 99–576, title VII, § 701(46), Oct. 28, 1986, 100 Stat. 3294; renumbered § 1984 and amended Pub. L. 102–83, §§ 4(a)(2)(A)(iii)(VII), (VIII), (D)(ii), (3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 784 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 784 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(a)(2)(A)(iii)(VII), substituted “Secretary” for “Veterans’ Administration” wherever appearing.
+Subsec. (a). Pub. L. 102–83, § 4(a)(2)(A)(iii)(VII), substituted “Secretary” for “Veterans’ Administration” wherever appearing.
 
-Subsec. (b). Pub. L. 102–83, § 4(a)(2)(D)(ii), substituted “with the Secretary” for “in the Veterans’ Administration”.
+Subsec. (b). Pub. L. 102–83, § 4(a)(2)(D)(ii), substituted “with the Secretary” for “in the Veterans’ Administration”.
 
-Pub. L. 102–83, § 4(a)(2)(A)(iii)(VIII), substituted “Secretary” for “Veterans’ Administration” before “shall”.
+Pub. L. 102–83, § 4(a)(2)(A)(iii)(VIII), substituted “Secretary” for “Veterans’ Administration” before “shall”.
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsecs. (f), (g). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Subsecs. (f), (g). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsec. (h). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (h). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (i). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (i). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1986—Subsec. (g). Pub. L. 99–576 substituted “the insured’s” for “his” in two places.
 
-1982—Subsec. (b). Pub. L. 97–295, § 4(32)(A), substituted “the claim. However, if” for “said claim: *Provided*, That in any case in which”.
+1982—Subsec. (b). Pub. L. 97–295, § 4(32)(A), substituted “the claim. However, if” for “said claim: *Provided*, That in any case in which”.
 
-Subsec. (c). Pub. L. 97–295, § 4(32)(B), substituted “district. However,” for “district: *Provided*, That”, and substituted “in this section” for “herein” after “as used”.
+Subsec. (c). Pub. L. 97–295, § 4(32)(B), substituted “district. However,” for “district: *Provided*, That”, and substituted “in this section” for “herein” after “as used”.
 
 1960—Subsec. (b). Pub. L. 86–507 inserted “or by certified mail” after “registered mail”.
 
-### § 1985. Decisions by the Secretary
+### § 1985. Decisions by the Secretary
 
 Except in the event of suit as provided in section 1984 of this title, or other appropriate court proceedings, all decisions rendered by the Secretary under the provisions of this chapter shall be final and conclusive on all questions of law or fact, and no other official of the United States shall have jurisdiction to review any such decisions.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1167, § 785; renumbered § 1985 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1167, § 785; renumbered § 1985 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 785 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 785 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1984” for “784”.
+Pub. L. 102–83, § 5(c)(1), substituted “1984” for “784”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in section catchline and in text.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in section catchline and in text.
 
-### § 1986. Deposits in and disbursements from trust funds
+### § 1986. Deposits in and disbursements from trust funds
 
 All cash balances in the United States Government Life Insurance Fund and the National Service Life Insurance Fund on January 1, 1959, together with all moneys thereafter accruing to such funds, including premiums, appropriated moneys, the proceeds of any sales of investments which may be necessary to meet current expenditures, and interest on investments, shall be available for disbursement for meeting all expenditures and making investments authorized to be made from such funds.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1167, § 786; renumbered § 1986, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1167, § 786; renumbered § 1986, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -3741,13 +3741,13 @@ All cash balances in the United States Government Life Insurance Fund and the Na
 
 1991—Pub. L. 102–83 renumbered section 786 of this title as this section.
 
-### § 1987. Penalties
+### § 1987. Penalties
 
 **(a)** Any person who shall knowingly make or cause to be made, or conspire, combine, aid, or assist in, agree to, arrange for, or in anywise procure the making or presentation of a false or fraudulent affidavit, declaration, certificate, statement, voucher, or paper, or writing purporting to be such, concerning any application for insurance or reinstatement thereof, waiver of premiums or claim for benefits under National Service Life Insurance, United States Government life insurance, or yearly renewable term insurance for any person, shall be fined not more than $1,000, or be imprisoned for not more than one year, or both.
 
 **(b)** Whoever in any claim for National Service Life Insurance, United States Government life insurance, or yearly renewable term insurance makes any sworn statement of a material fact knowing it to be false, shall be guilty of perjury and shall be fined not more than $5,000, or be imprisoned for not more than two years, or both.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1167, § 787; Pub. L. 99–576, title VII, § 701(47), Oct. 28, 1986, 100 Stat. 3294; renumbered § 1987, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1167, § 787; Pub. L. 99–576, title VII, § 701(47), Oct. 28, 1986, 100 Stat. 3294; renumbered § 1987, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -3757,11 +3757,11 @@ All cash balances in the United States Government Life Insurance Fund and the Na
 
 1986—Subsec. (a). Pub. L. 99–576 substituted “any” for “himself or any other”.
 
-### § 1988. Savings provision
+### § 1988. Savings provision
 
 Nothing in this title or any amendment or repeal made by the Act enacting this title shall affect any right, remedy, liability, authorization or requirement pertaining to Government insurance, the respective insurance funds, or the insurance appropriations, authorized or prescribed under the provisions of the War Risk Insurance Act, the World War Veterans’ Act, 1924, the National Service Life Insurance Act of 1940, or any related Act, which was in effect on December 31, 1958.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1167, § 788; renumbered § 1988, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1167, § 788; renumbered § 1988, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -3769,9 +3769,9 @@ Nothing in this title or any amendment or repeal made by the Act enacting this t
 
 The War Risk Insurance Act, referred to in text, is act Sept. 2, 1914, ch. 293, 38 Stat. 711. Sections 600 and 601 of the World War Veterans’ Act, 1924 (act June 7, 1924, ch. 320, 43 Stat. 607, 629) repealed the War Risk Insurance Act subject to certain limitations provided in section 602 thereof.
 
-The World War Veterans’ Act, 1924, referred to in text, is act June 7, 1924, ch. 320, 43 Stat. 607, which was classified generally to chapter 10 (§§ 421 to 574) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by Pub. L. 85–857, § 14(51), Sept. 2, 1958, 72 Stat. 1271. For distribution of sections 421 to 574 of former Title 38 in this title, see Table preceding section 101 of this title.
+The World War Veterans’ Act, 1924, referred to in text, is act June 7, 1924, ch. 320, 43 Stat. 607, which was classified generally to chapter 10 (§§ 421 to 574) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by Pub. L. 85–857, § 14(51), Sept. 2, 1958, 72 Stat. 1271. For distribution of sections 421 to 574 of former Title 38 in this title, see Table preceding section 101 of this title.
 
-The National Service Life Insurance Act of 1940, referred to in text, is act Oct. 8, 1940, ch. 757, title VI, part I, 54 Stat. 1008, which was classified generally to chapter 13 (§ 801 et seq.) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this subchapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+The National Service Life Insurance Act of 1940, referred to in text, is act Oct. 8, 1940, ch. 757, title VI, part I, 54 Stat. 1008, which was classified generally to chapter 13 (§ 801 et seq.) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this subchapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 **Prior Provisions**
 

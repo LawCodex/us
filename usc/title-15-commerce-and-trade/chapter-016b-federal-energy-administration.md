@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FEDERAL ENERGY ADMINISTRATION
 
-### § 761. Congressional declaration of purpose
+### § 761. Congressional declaration of purpose
 
 **(a) Objectives**
 
@@ -31,29 +31,29 @@ The Congress finds that to help achieve these objectives, and to assure a coordi
 
 The sole purpose of this chapter is to create an administration in the executive branch, called the Federal Energy Administration, to vest in the Administration certain functions as provided in this chapter, and to transfer to such Administration certain executive branch functions authorized by other laws, where such transfer is necessary on an interim basis to deal with the Nation’s energy shortages.
 
-(Pub. L. 93–275, § 2, May 7, 1974, 88 Stat. 97.)
+(Pub. L. 93–275, § 2, May 7, 1974, 88 Stat. 97.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates**
 
-Section 30 of Pub. L. 93–275, as amended by Pub. L. 94–332, June 30, 1976, 90 Stat. 784; Pub. L. 94–385, title I, § 112(a), Aug. 14, 1976, 90 Stat. 1132; Pub. L. 95–70, § 6, July 21, 1977, 91 Stat. 277, under which this chapter became effective sixty days after May 7, 1974, and was to terminate Sept. 30, 1978, was repealed by Pub. L. 95–91, title VII, § 709(a)(1), Aug. 4, 1977, 91 Stat. 607.
+Section 30 of Pub. L. 93–275, as amended by Pub. L. 94–332, June 30, 1976, 90 Stat. 784; Pub. L. 94–385, title I, § 112(a), Aug. 14, 1976, 90 Stat. 1132; Pub. L. 95–70, § 6, July 21, 1977, 91 Stat. 277, under which this chapter became effective sixty days after May 7, 1974, and was to terminate Sept. 30, 1978, was repealed by Pub. L. 95–91, title VII, § 709(a)(1), Aug. 4, 1977, 91 Stat. 607.
 
 **Short Title of 1977 Amendment**
 
-Pub. L. 95–70, § 1, July 21, 1977, 91 Stat. 275, provided that: “This Act [enacting sections 788 and 789 of this title and amending sections 766 and 792 of this title, sections 6246, 6309, and 6881 of Title 42, The Public Health and Welfare, and notes under this section] may be cited as the ‘Federal Energy Administration Authorization Act of 1977’.”
+Pub. L. 95–70, § 1, July 21, 1977, 91 Stat. 275, provided that: “This Act [enacting sections 788 and 789 of this title and amending sections 766 and 792 of this title, sections 6246, 6309, and 6881 of Title 42, The Public Health and Welfare, and notes under this section] may be cited as the ‘Federal Energy Administration Authorization Act of 1977’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–385, title I, § 101, Aug. 14, 1976, 90 Stat. 1127, provided that: “This title [enacting sections 787, 790 to 790h of this title, amending sections 757, 764, 766, 772, 774, 777 and 784 of this title and sections 5818, 6211 and 6295 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 753, 757, and 790 of this title] may be cited as the ‘Federal Energy Administration Act Amendments of 1976’.”
+Pub. L. 94–385, title I, § 101, Aug. 14, 1976, 90 Stat. 1127, provided that: “This title [enacting sections 787, 790 to 790h of this title, amending sections 757, 764, 766, 772, 774, 777 and 784 of this title and sections 5818, 6211 and 6295 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 753, 757, and 790 of this title] may be cited as the ‘Federal Energy Administration Act Amendments of 1976’.”
 
 **Short Title**
 
-Pub. L. 93–275, § 1, May 7, 1974, 88 Stat. 96, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Federal Energy Administration Act of 1974’.”
+Pub. L. 93–275, § 1, May 7, 1974, 88 Stat. 96, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Federal Energy Administration Act of 1974’.”
 
 **Separability**
 
-Pub. L. 93–275, § 27, May 7, 1974, 88 Stat. 115, provided that: “If any provision of this Act [this chapter], or the application thereof to any person or circumstance, is held invalid, the remainder of this Act [this chapter], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+Pub. L. 93–275, § 27, May 7, 1974, 88 Stat. 115, provided that: “If any provision of this Act [this chapter], or the application thereof to any person or circumstance, is held invalid, the remainder of this Act [this chapter], and the application of such provision to other persons or circumstances, shall not be affected thereby.”
 
 **Transfer of Functions**
 
@@ -61,7 +61,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 **Authorization of Appropriations**
 
-Pub. L. 93–275, § 29, May 7, 1974, 88 Stat. 115, as amended by Pub. L. 94–385, title I, § 110, Aug. 14, 1976, 90 Stat. 1130; Pub. L. 95–70, § 2, July 21, 1977, 91 Stat. 275, provided that:
+Pub. L. 93–275, § 29, May 7, 1974, 88 Stat. 115, as amended by Pub. L. 94–385, title I, § 110, Aug. 14, 1976, 90 Stat. 1130; Pub. L. 95–70, § 2, July 21, 1977, 91 Stat. 275, provided that:
 
 > **“(a)** There are authorized to be appropriated to the Federal Energy Administration the following sums:
 
@@ -117,7 +117,7 @@ Pub. L. 93–275, § 29, May 7, 1974, 88 Stat. 115, as amended by Pub. L. 94�
 
 **Advice and Consent of Senate Required for Appointment of Director of Energy Policy Office**
 
-Pub. L. 93–153, title IV, § 404, Nov. 16, 1973, 87 Stat. 590, directed that Director of Energy Policy Office be appointed by President, by and with advice and consent of Senate, but that if any individual serving in this office on Nov. 16, 1973, were nominated for such position, he may continue to act unless and until such nomination were disapproved by Senate.
+Pub. L. 93–153, title IV, § 404, Nov. 16, 1973, 87 Stat. 590, directed that Director of Energy Policy Office be appointed by President, by and with advice and consent of Senate, but that if any individual serving in this office on Nov. 16, 1973, were nominated for such position, he may continue to act unless and until such nomination were disapproved by Senate.
 
 **Executive Documents**
 
@@ -147,19 +147,19 @@ Richard Nixon.
 
 **Ex. Ord. No. 11790. Effectuation of Chapter**
 
-Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12919, § 904(c), June 3, 1994, 59 F.R. 29534, provided:
+Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, as amended by Ex. Ord. No. 12038, Feb. 3, 1978, 43 F.R. 4957; Ex. Ord. No. 12919, § 904(c), June 3, 1994, 59 F.R. 29534, provided:
 
 Under and by virtue of the authority vested in me by the Federal Energy Administration Act of 1974 (Public Law 93–275) [this chapter], the Emergency Petroleum Allocation Act of 1973 (Public Law 93–159; 87 Stat. 627) [15 U.S.C. 751 et seq.], the Economic Stabilization Act of 1970, as amended [formerly 12 U.S.C. 1904 note], the Defense Production Act of 1950, as amended (50 U.S.C. App. 2061, et seq.) [now 50 U.S.C. 4501 et seq.], and section 301 of title 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. Pursuant to the authority vested in me by section 30 of the Federal Energy Administration Act of 1974 [set out above], notice is hereby given that that act shall be effective as of June 27, 1974.
 
-Sec. 2. (a) There is hereby delegated to the Secretary of Energy (hereinafter referred to as the “Secretary”), all authority vested in the President by the Emergency Petroleum Allocation Act of 1973 [15 U.S.C. § 751 et seq.].
+Sec. 2. (a) There is hereby delegated to the Secretary of Energy (hereinafter referred to as the “Secretary”), all authority vested in the President by the Emergency Petroleum Allocation Act of 1973 [15 U.S.C. § 751 et seq.].
 
-(b) The Secretary shall submit to the Congress the reports required by section 4(c)(2) of the Emergency Petroleum Allocation Act of 1973 [15 U.S.C. § 753(c)(2)].
+(b) The Secretary shall submit to the Congress the reports required by section 4(c)(2) of the Emergency Petroleum Allocation Act of 1973 [15 U.S.C. § 753(c)(2)].
 
-Sec. 3. (a) There is hereby delegated to the Secretary the authority vested in the President by section 203(a)(3) of the Economic Stabilization Act of 1970, as amended [formerly 12 U.S.C. § 1904 note], to the extent such authority remains available under the provisions of section 218 of that act [formerly 12 U.S.C. § 1904 note].
+Sec. 3. (a) There is hereby delegated to the Secretary the authority vested in the President by section 203(a)(3) of the Economic Stabilization Act of 1970, as amended [formerly 12 U.S.C. § 1904 note], to the extent such authority remains available under the provisions of section 218 of that act [formerly 12 U.S.C. § 1904 note].
 
-(b) The authority under the Economic Stabilization Act of 1970, as amended [formerly 12 U.S.C. § 1904 note], that was delegated to the Administrator of the Federal Energy Office by the Chairman of the Cost of Living Council pursuant to section 4(b) of Executive Order No. 11748 of December 4, 1973 [set out as a note under section 754 of this title], is hereby transferred to the Secretary to the extent such authority remains available under the provisions of section 218 of that act [formerly 12 U.S.C. § 1904 note].
+(b) The authority under the Economic Stabilization Act of 1970, as amended [formerly 12 U.S.C. § 1904 note], that was delegated to the Administrator of the Federal Energy Office by the Chairman of the Cost of Living Council pursuant to section 4(b) of Executive Order No. 11748 of December 4, 1973 [set out as a note under section 754 of this title], is hereby transferred to the Secretary to the extent such authority remains available under the provisions of section 218 of that act [formerly 12 U.S.C. § 1904 note].
 
 Sec. 4. Notwithstanding the provisions of Executive Order No. 12919, as amended [formerly set out as a note under section 2153 of the former Appendix to Title 50, War and National Defense], the Secretary is authorized to exercise the authority vested in the President by the Defense Production Act of 1950, as amended [50 U.S.C. 4501 et seq.], except section 708 thereof [50 U.S.C. 4558], as it relates to the production, conservation, use, control, distribution, and allocation of energy, without approval, ratification, or other action of the President or any other official of the executive branch of the Government.
 
@@ -193,11 +193,11 @@ Sec. 3. All authority and responsibility vested in the Federal Energy Administra
 
 Gerald R. Ford.
 
-### § 762. Establishment
+### § 762. Establishment
 
 There is hereby established an independent agency in the executive branch to be known as the Federal Energy Administration (hereinafter in this chapter referred to as the “Administration”).
 
-(Pub. L. 93–275, § 3, May 7, 1974, 88 Stat. 97.)
+(Pub. L. 93–275, § 3, May 7, 1974, 88 Stat. 97.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -205,11 +205,11 @@ There is hereby established an independent agency in the executive branch to be 
 
 Federal Energy Administration terminated and functions vested by law in Administration or in its Administrator, officers, and components transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 763. Repealed. Pub. L. 95–91, title VII, § 709(a)(1), Aug. 4, 1977, 91 Stat. 607
+### § 763. Repealed. Pub. L. 95–91, title VII, § 709(a)(1), Aug. 4, 1977, 91 Stat. 607
 
-Section, Pub. L. 93–275, § 4, May 7, 1974, 88 Stat. 97, related to officers of Federal Energy Administration.
+Section, Pub. L. 93–275, § 4, May 7, 1974, 88 Stat. 97, related to officers of Federal Energy Administration.
 
-### § 764. Specific functions and purposes
+### § 764. Specific functions and purposes
 
 **(a) Limitation on discretionary powers** Subject to the provisions and procedures set forth in this chapter, the Administrator shall be responsible for such actions as are taken to assure that adequate provision is made to meet the energy needs of the Nation. To that end, he shall make such plans and direct and conduct such programs related to the production, conservation, use, control, distribution, rationing, and allocation of all forms of energy as are appropriate in connection with only those authorities or functions—
 
@@ -247,15 +247,15 @@ Section, Pub. L. 93–275, § 4, May 7, 1974, 88 Stat. 97, related to officers
 
 **(c) Exercise of delegated discretion concerning exemptions**
 
-**(1)** The Administrator shall not exercise the discretion delegated to him by the President, pursuant to section 754(b) 1
+**(1)** The Administrator shall not exercise the discretion delegated to him by the President, pursuant to section 754(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title, to submit to the Congress as one energy action any amendment to the regulation under section 753(a) 1 of this title, pursuant to section 760a 1 of this title, which amendment exempts any oil, refined petroleum product, or refined product category from both the allocation and pricing provisions of the regulation under section 753 1 of this title.
+of this title, to submit to the Congress as one energy action any amendment to the regulation under section 753(a) 1 of this title, pursuant to section 760a 1 of this title, which amendment exempts any oil, refined petroleum product, or refined product category from both the allocation and pricing provisions of the regulation under section 753 1 of this title.
 
 **(2)** Nothing in this subsection shall prevent the Administrator from concurrently submitting an energy action relating to price together with an energy action relating to allocation of the same oil, refined petroleum product, or refined product category.
 
-(Pub. L. 93–275, § 5, May 7, 1974, 88 Stat. 98; Pub. L. 94–385, title I, § 102, Aug. 14, 1976, 90 Stat. 1127.)
+(Pub. L. 93–275, § 5, May 7, 1974, 88 Stat. 98; Pub. L. 94–385, title I, § 102, Aug. 14, 1976, 90 Stat. 1127.)
 
 **Editorial Notes**
 
@@ -273,7 +273,7 @@ Sections 753, 754, and 760a of this title, referred to in subsec. (c)(1), were o
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 765. Transfer of functions
+### § 765. Transfer of functions
 
 **(a) Functions of Secretary and Department of the Interior** There are hereby transferred to and vested in the Administrator all functions of the Secretary of the Interior, the Department of the Interior, and officers and components of that Department—
 
@@ -289,7 +289,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 There are hereby transferred to and vested in the Administrator all functions of the Chairman of the Cost of Living Council, the Executive Director of the Cost of Living Council, and the Cost of Living Council, and officers and components thereof, as relate to or are utilized by the Energy Division of the Cost of Living Council.
 
-(Pub. L. 93–275, § 6, May 7, 1974, 88 Stat. 100.)
+(Pub. L. 93–275, § 6, May 7, 1974, 88 Stat. 100.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -301,9 +301,9 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 **Abolition of Cost of Living Council**
 
-Cost of Living Council abolished July 1, 1974, by Ex. Ord. No. 11788, § 1, June 18, 1974, 39 F.R. 22113.
+Cost of Living Council abolished July 1, 1974, by Ex. Ord. No. 11788, § 1, June 18, 1974, 39 F.R. 22113.
 
-### § 766. Administrative provisions
+### § 766. Administrative provisions
 
 **(a) Rules, regulations, and procedures; Environmental Protection Agency, notification; quality of environment, publication of comments; emergency preclusion of review by Environmental Protection Agency** The Administrator may promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him: *Provided*, That:
 
@@ -321,55 +321,55 @@ Any officer or agency authorized to issue any rule or regulation, or any order h
 
 Judicial review of administrative rulemaking of general and national applicability done under this chapter, except that done pursuant to the Emergency Petroleum Allocation Act of 1973 [15 U.S.C. 751 et seq.],1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 may be obtained only by filing a petition for review in the United States Court of Appeals for the District of Columbia within thirty days from the date of promulgation of any such rule, regulation, or order, and judicial review of administrative rulemaking of general, but less than national, applicability done under this chapter, except that done pursuant to the Emergency Petroleum Allocation Act of 1973,1 may be obtained only by filing a petition for review in the United States Court of Appeals for the appropriate circuit within thirty days from the date of promulgation of any such rule, regulation, or order, the appropriate circuit being defined as the circuit which contains the area or the greater part of the area within which the rule, regulation, or order is to have effect.
 
-**(d) to (k) Repealed or Redesignated. Pub. L. 95–91, title VII, § 709(a)(2)(B), (C), (F), (G), Aug. 4, 1977, 91 Stat. 608**
+**(d) to (k) Repealed or Redesignated. Pub. L. 95–91, title VII, § 709(a)(2)(B), (C), (F), (G), Aug. 4, 1977, 91 Stat. 608**
 
 **(l) Authority and responsibility of General Counsel**
 
 Effective beginning July 1, 1977, amounts authorized to be appropriated under this chapter or any other Act shall not be available for the payment of salaries and other expenses with respect to any office of regional counsel of the Administration unless such office is under the direct supervision and control of the General Counsel of the Administration.
 
-(Pub. L. 93–275, § 7, May 7, 1974, 88 Stat. 100; Pub. L. 94–385, title I, §§ 103–106, Aug. 14, 1976, 90 Stat. 1127–1129; Pub. L. 95–70, § 8, July 21, 1977, 91 Stat. 277; Pub. L. 95–91, title VII, § 709(a)(2), Aug. 4, 1977, 91 Stat. 607.)
+(Pub. L. 93–275, § 7, May 7, 1974, 88 Stat. 100; Pub. L. 94–385, title I, §§ 103–106, Aug. 14, 1976, 90 Stat. 1127–1129; Pub. L. 95–70, § 8, July 21, 1977, 91 Stat. 277; Pub. L. 95–91, title VII, § 709(a)(2), Aug. 4, 1977, 91 Stat. 607.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
 **Amendments**
 
-1977—Subsec. (a). Pub. L. 95–91, § 709(a)(2)(A), struck out subsec. (a) provisions: for appointment, employment, and compensation of officers and employees; for prescription of their authority and duties; for placement of specified number of positions in GS–16, 17, and 18 and making competitive service provisions inapplicable to a limited number of such positions; and making classification standards and procedures applicable to the authority provided for in this section and for duration of such authority; and redesignated subsec. (c) as (a).
+1977—Subsec. (a). Pub. L. 95–91, § 709(a)(2)(A), struck out subsec. (a) provisions: for appointment, employment, and compensation of officers and employees; for prescription of their authority and duties; for placement of specified number of positions in GS–16, 17, and 18 and making competitive service provisions inapplicable to a limited number of such positions; and making classification standards and procedures applicable to the authority provided for in this section and for duration of such authority; and redesignated subsec. (c) as (a).
 
-Subsec. (b). Pub. L. 95–91, § 709(a)(2)(A), (C)–(E), struck out subsec. (b) provisions respecting employment and compensation of experts and consultants, redesignated subsec. (i)(1)(D) as (b), and substituted therein “any rule or regulation, or any order having the applicability and effect of a rule as defined in section 551(4) of title 5 pursuant to this chapter” for “the rules, regulations, or orders described in paragraph (A)” and “subsection (c)” for “paragraph (2) of this subsection”.
+Subsec. (b). Pub. L. 95–91, § 709(a)(2)(A), (C)–(E), struck out subsec. (b) provisions respecting employment and compensation of experts and consultants, redesignated subsec. (i)(1)(D) as (b), and substituted therein “any rule or regulation, or any order having the applicability and effect of a rule as defined in section 551(4) of title 5 pursuant to this chapter” for “the rules, regulations, or orders described in paragraph (A)” and “subsection (c)” for “paragraph (2) of this subsection”.
 
-Subsec. (c). Pub. L. 95–91, § 709(a)(2)(F), redesignated subsec. (i)(2)(A) as (c). Former subsec. (c) redesignated (a).
+Subsec. (c). Pub. L. 95–91, § 709(a)(2)(F), redesignated subsec. (i)(2)(A) as (c). Former subsec. (c) redesignated (a).
 
-Subsecs. (d) to (h). Pub. L. 95–91, § 709(a)(2)(B), struck out subsecs. (d) to (h) relating to: interagency cooperation and reimbursement; seal and judicial notice; acceptance of gifts; contract authority; and performance of other necessary activities.
+Subsecs. (d) to (h). Pub. L. 95–91, § 709(a)(2)(B), struck out subsecs. (d) to (h) relating to: interagency cooperation and reimbursement; seal and judicial notice; acceptance of gifts; contract authority; and performance of other necessary activities.
 
-Subsec. (i)(1)(A) to (C). Pub. L. 95–91, § 709(a)(2)(C), struck out subpar. (A) to (C) provisions relating to: application of subch. II of ch. 5 of title 5 to rules, regulations, or orders issued under this chapter; publication of notice of proposed rules, regulations, or orders in the Federal Register and opportunity for comment and waiver of the requirements when warranted by considerations of public health, safety, or welfare; and opportunity for oral presentation of views, data, and arguments where rules, regulations, or orders are likely to have a substantial impact on the Nation’s economy or large numbers of individuals or businesses.
+Subsec. (i)(1)(A) to (C). Pub. L. 95–91, § 709(a)(2)(C), struck out subpar. (A) to (C) provisions relating to: application of subch. II of ch. 5 of title 5 to rules, regulations, or orders issued under this chapter; publication of notice of proposed rules, regulations, or orders in the Federal Register and opportunity for comment and waiver of the requirements when warranted by considerations of public health, safety, or welfare; and opportunity for oral presentation of views, data, and arguments where rules, regulations, or orders are likely to have a substantial impact on the Nation’s economy or large numbers of individuals or businesses.
 
-Subsec. (i)(1)(D). Pub. L. 95–91, § 709(a)(2)(C), redesignated subpar. (D) as subsec. (b).
+Subsec. (i)(1)(D). Pub. L. 95–91, § 709(a)(2)(C), redesignated subpar. (D) as subsec. (b).
 
-Subsec. (i)(E), (F). Pub. L. 95–91, § 709(a)(2)(C), struck out provisions of subpars. (E) and (F) providing for public availability of internal rules and guidelines of the agency forming a basis for rules, regulations, or orders and agency opinions respecting determinations of requests for exception or exemption from rules or orders; and procedures for holding hearings or oral presentation of views with respect to rules or regulations the effects of which are confined to a single unit of local government or the residents thereof, a single geographic area within a State or the residents thereof, or a single State or the residents thereof.
+Subsec. (i)(E), (F). Pub. L. 95–91, § 709(a)(2)(C), struck out provisions of subpars. (E) and (F) providing for public availability of internal rules and guidelines of the agency forming a basis for rules, regulations, or orders and agency opinions respecting determinations of requests for exception or exemption from rules or orders; and procedures for holding hearings or oral presentation of views with respect to rules or regulations the effects of which are confined to a single unit of local government or the residents thereof, a single geographic area within a State or the residents thereof, or a single State or the residents thereof.
 
-Subsec. (i)(2)(A). Pub. L. 95–91, § 709(a)(2)(F), redesignated subpar. (A) as subsec. (c).
+Subsec. (i)(2)(A). Pub. L. 95–91, § 709(a)(2)(F), redesignated subpar. (A) as subsec. (c).
 
-Subsec. (i)(2)(B), (3). Pub. L. 95–91, § 709(a)(2)(F), (G), struck out par. (2)(B) provisions relating to jurisdiction of federal district courts, power of courts of competent jurisdiction to consider defenses, removal of cases raising constitutional defenses, and concurrent jurisdiction of cases or controversies arising under rules, regulations, or orders of State or local government agencies; and par. (3) provisions relating to procedures for State or local government agencies.
+Subsec. (i)(2)(B), (3). Pub. L. 95–91, § 709(a)(2)(F), (G), struck out par. (2)(B) provisions relating to jurisdiction of federal district courts, power of courts of competent jurisdiction to consider defenses, removal of cases raising constitutional defenses, and concurrent jurisdiction of cases or controversies arising under rules, regulations, or orders of State or local government agencies; and par. (3) provisions relating to procedures for State or local government agencies.
 
-Subsecs. (j), (k). Pub. L. 95–91, § 709(a)(2)(G), struck out subsecs. (j) and (k) relating to information for independent regulatory agencies and limitation on enforcement authority of the Administrator.
+Subsecs. (j), (k). Pub. L. 95–91, § 709(a)(2)(G), struck out subsecs. (j) and (k) relating to information for independent regulatory agencies and limitation on enforcement authority of the Administrator.
 
 Subsec. (*l*). Pub. L. 95–70 added subsec. (*l*).
 
-1976—Subsec. (c). Pub. L. 94–385, § 103, struck out provisions relating to review of rules, regulations and procedures by the Cost of Living Council and redistributed remaining provisions as pars. (1) and (2).
+1976—Subsec. (c). Pub. L. 94–385, § 103, struck out provisions relating to review of rules, regulations and procedures by the Cost of Living Council and redistributed remaining provisions as pars. (1) and (2).
 
-Subsec. (i)(1)(D). Pub. L. 94–385, § 104, inserted provisions which require any officer or agency authorized to issue rules, regulations or orders to establish criteria and guidelines for evaluation of special hardship situations, to include in every decision the standards applied in the disposition of such situations, and requiring the hearing upon request of the aggrieved party to be heard by an officer other than the one denying the adjustment.
+Subsec. (i)(1)(D). Pub. L. 94–385, § 104, inserted provisions which require any officer or agency authorized to issue rules, regulations or orders to establish criteria and guidelines for evaluation of special hardship situations, to include in every decision the standards applied in the disposition of such situations, and requiring the hearing upon request of the aggrieved party to be heard by an officer other than the one denying the adjustment.
 
-Subsec. (i)(1)(F). Pub. L. 94–385, § 105, added subpar. (F).
+Subsec. (i)(1)(F). Pub. L. 94–385, § 105, added subpar. (F).
 
-Subsec. (k). Pub. L. 94–385, § 106, added subsec. (k).
+Subsec. (k). Pub. L. 94–385, § 106, added subsec. (k).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -377,7 +377,7 @@ Subsec. (k). Pub. L. 94–385, § 106, added subsec. (k).
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 767. Transitional and savings provisions
+### § 767. Transitional and savings provisions
 
 **(a) Continuance of effective status** All orders, determinations, rules, regulations, permits, contracts, certificates, licenses, and privileges—
 
@@ -421,7 +421,7 @@ Nothing contained in this chapter shall be construed to limit, curtail, abolish,
 
 Any reference in this chapter to any provision of law shall be deemed to include, as appropriate, references thereto as now or hereafter amended or supplemented.
 
-(Pub. L. 93–275, § 8, May 7, 1974, 88 Stat. 103.)
+(Pub. L. 93–275, § 8, May 7, 1974, 88 Stat. 103.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -429,11 +429,11 @@ Any reference in this chapter to any provision of law shall be deemed to include
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 768. Repealed. Pub. L. 95–91, title VII, § 709(a)(1), Aug. 4, 1977, 91 Stat. 607
+### § 768. Repealed. Pub. L. 95–91, title VII, § 709(a)(1), Aug. 4, 1977, 91 Stat. 607
 
-Section, Pub. L. 93–275, § 9, May 7, 1974, 88 Stat. 105, related to incidental transfers of personnel, assets, liabilities, contracts, etc., by the Director of the Office of Management and Budget necessary and appropriate to accomplish the intent and purpose of this chapter.
+Section, Pub. L. 93–275, § 9, May 7, 1974, 88 Stat. 105, related to incidental transfers of personnel, assets, liabilities, contracts, etc., by the Director of the Office of Management and Budget necessary and appropriate to accomplish the intent and purpose of this chapter.
 
-### § 769. Definitions
+### § 769. Definitions
 
 As used in this chapter—
 
@@ -441,9 +441,9 @@ As used in this chapter—
 
 **(2)** any reference to “perform” or “performance”, when used in relation to functions, shall be deemed to include the exercise of power, authority, rights, and privileges.
 
-(Pub. L. 93–275, § 10, May 7, 1974, 88 Stat. 105.)
+(Pub. L. 93–275, § 10, May 7, 1974, 88 Stat. 105.)
 
-### § 770. Appointments
+### § 770. Appointments
 
 **(a) Interim funds**
 
@@ -461,7 +461,7 @@ Transfer of nontemporary personnel pursuant to this chapter shall not cause any 
 
 Any person who, on the effective date of this chapter, held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, and who, without a break in service, is appointed in the Administration to a position having duties comparable to those performed immediately preceding his appointment, shall continue to be compensated in his new position at not less than the rate provided for his previous position.
 
-(Pub. L. 93–275, § 11, May 7, 1974, 88 Stat. 105.)
+(Pub. L. 93–275, § 11, May 7, 1974, 88 Stat. 105.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -469,7 +469,7 @@ Any person who, on the effective date of this chapter, held a position compensat
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 771. Comptroller General, powers and duties
+### § 771. Comptroller General, powers and duties
 
 **(a) Scope of activities; monitoring activity; data to Comptroller General from Administration; reports and recommendations to Congress**
 
@@ -481,9 +481,9 @@ The Comptroller General or any of his authorized representatives in carrying out
 
 **(c) Access to material and information from recipients of Federal funds or assistance under Federal transactions**
 
-The Comptroller General of the United States, or any of his duly authorized representatives, shall have access to and the right to examine any books, documents, papers, records, or other recorded information of any recipients of Federal funds or assistance under contracts, leases, cooperative agreements, or other transactions entered into pursuant to subsection (d) or (g) of section 766 1
+The Comptroller General of the United States, or any of his duly authorized representatives, shall have access to and the right to examine any books, documents, papers, records, or other recorded information of any recipients of Federal funds or assistance under contracts, leases, cooperative agreements, or other transactions entered into pursuant to subsection (d) or (g) of section 766 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title which in the opinion of the Comptroller General may be related or pertinent to such contracts, leases, cooperative agreements, or similar transactions.
 
@@ -503,13 +503,13 @@ In case of disobedience to a subpena issued under subsection (d) of this section
 
 **(3)** to a court in any judicial proceeding under court order.
 
-(Pub. L. 93–275, § 12, May 7, 1974, 88 Stat. 106.)
+(Pub. L. 93–275, § 12, May 7, 1974, 88 Stat. 106.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsections (d) and (g) of section 766 of this title, referred to in subsec. (c), were repealed by Pub. L. 95–91, title VII, § 709(a)(2)(B), Aug. 4, 1977, 91 Stat. 608.
+Subsections (d) and (g) of section 766 of this title, referred to in subsec. (c), were repealed by Pub. L. 95–91, title VII, § 709(a)(2)(B), Aug. 4, 1977, 91 Stat. 608.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -519,7 +519,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 Functions of Comptroller General of United States under this section made applicable with respect to monitoring and evaluation of all functions and activities of Department of Energy by section 7137 of Title 42.
 
-### § 772. Administrator’s information-gathering power
+### § 772. Administrator’s information-gathering power
 
 **(a) Comprehensive and particular energy information; categorical groupings; monitoring activity and policy guidance**
 
@@ -559,15 +559,15 @@ In exercising his authority under this chapter and any other provision of law re
 
 Any failure to make information available to the Administrator under subsection (b), any failure to comply with any general or special order under subsection (c), or any failure to allow the Administrator to act under subsection (d) shall be subject to the same penalties as any violation of section 796 of this title or any rule, regulation, or order issued under such section.
 
-(Pub. L. 93–275, § 13, May 7, 1974, 88 Stat. 107; Pub. L. 94–385, title I, §§ 107, 108, Aug. 14, 1976, 90 Stat. 1129.)
+(Pub. L. 93–275, § 13, May 7, 1974, 88 Stat. 107; Pub. L. 94–385, title I, §§ 107, 108, Aug. 14, 1976, 90 Stat. 1129.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsecs. (g), (h). Pub. L. 94–385, § 107, added subsecs. (g) and (h).
+1976—Subsecs. (g), (h). Pub. L. 94–385, § 107, added subsecs. (g) and (h).
 
-Subsec. (i). Pub. L. 94–385, § 108, added subsec. (i).
+Subsec. (i). Pub. L. 94–385, § 108, added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -575,7 +575,7 @@ Subsec. (i). Pub. L. 94–385, § 108, added subsec. (i).
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 773. Public disclosure of information
+### § 773. Public disclosure of information
 
 **(a) Analyses, data, information, reports, and summaries; objectives of disclosure**
 
@@ -589,7 +589,7 @@ Subject to the provisions of this chapter, section 552 of title 5 shall apply to
 
 To protect and assure privacy of individuals and confidentiality of personal information, the Administrator is directed to establish guidelines and procedures for handling any information which the Administration obtains pertaining to individuals. He shall provide, to the extent practicable, in such guidelines and procedures a method for allowing any such individual to gain access to such information pertaining to himself.
 
-(Pub. L. 93–275, § 14, May 7, 1974, 88 Stat. 108.)
+(Pub. L. 93–275, § 14, May 7, 1974, 88 Stat. 108.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -597,7 +597,7 @@ To protect and assure privacy of individuals and confidentiality of personal inf
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 774. Reports and recommendations
+### § 774. Reports and recommendations
 
 **(a) Administrator’s initial submittal to President and Congress**
 
@@ -653,7 +653,7 @@ The Administrator shall provide interim reports to the Congress from time to tim
 
 Notwithstanding the termination of this chapter, the President shall designate an appropriate Federal agency to conduct the analysis specified in subsection (b)(6).
 
-(Pub. L. 93–275, § 15, May 7, 1974, 88 Stat. 108; Pub. L. 94–385, title I, § 109(a)–(c), Aug. 14, 1976, 90 Stat. 1130.)
+(Pub. L. 93–275, § 15, May 7, 1974, 88 Stat. 108; Pub. L. 94–385, title I, § 109(a)–(c), Aug. 14, 1976, 90 Stat. 1130.)
 
 **Editorial Notes**
 
@@ -663,11 +663,11 @@ For effective date of this chapter, referred to in subsecs. (a) and (c), see Eff
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–385, § 109(a), redesignated subsec. (b) as (a) and struck out former subsec. (a) relating to submission of a report by the President to Congress with recommendations for disposition, continuation, or reorganization of Energy Administration and organization of the Federal Government for the management of energy and natural resources policies and programs.
+1976—Subsec. (a). Pub. L. 94–385, § 109(a), redesignated subsec. (b) as (a) and struck out former subsec. (a) relating to submission of a report by the President to Congress with recommendations for disposition, continuation, or reorganization of Energy Administration and organization of the Federal Government for the management of energy and natural resources policies and programs.
 
-Subsec. (b). Pub. L. 94–385, § 109(a)(2), (b), redesignated subsec. (c) as (b) and added par. (6) and provisions requiring Administrator to include in report a discussion on benefits of employing a utility and Btu tax as a means for obtaining national energy goals. Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 94–385, § 109(a)(2), (b), redesignated subsec. (c) as (b) and added par. (6) and provisions requiring Administrator to include in report a discussion on benefits of employing a utility and Btu tax as a means for obtaining national energy goals. Former subsec. (b) redesignated (a).
 
-Subsecs. (c) to (e). Pub. L. 94–385, § 109(a)(2), (c), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and added new subsec. (e).
+Subsecs. (c) to (e). Pub. L. 94–385, § 109(a)(2), (c), redesignated subsecs. (c) to (e) as (b) to (d), respectively, and added new subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -675,23 +675,23 @@ Subsecs. (c) to (e). Pub. L. 94–385, § 109(a)(2), (c), redesignated subsecs
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 775. Sex discrimination; enforcement; other legal remedies
+### § 775. Sex discrimination; enforcement; other legal remedies
 
 No individual shall on the grounds of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity carried on or receiving Federal assistance under this chapter. This provision will be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964 [42 U.S.C. 2000d et seq.]. However, this remedy is not exclusive and will not prejudice or remove any other legal remedies available to any individual alleging discrimination.
 
-(Pub. L. 93–275, § 16, May 7, 1974, 88 Stat. 109.)
+(Pub. L. 93–275, § 16, May 7, 1974, 88 Stat. 109.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-### § 776. Repealed. Pub. L. 105–28, § 2(b)(2), July 18, 1997, 111 Stat. 245
+### § 776. Repealed. Pub. L. 105–28, § 2(b)(2), July 18, 1997, 111 Stat. 245
 
-Section, Pub. L. 93–275, § 17, May 7, 1974, 88 Stat. 110, related to composition and manner of meeting of boards, task forces, commissions, committees, or similar groups not composed entirely of full-time Government employees, established or utilized by Administrator.
+Section, Pub. L. 93–275, § 17, May 7, 1974, 88 Stat. 110, related to composition and manner of meeting of boards, task forces, commissions, committees, or similar groups not composed entirely of full-time Government employees, established or utilized by Administrator.
 
-### § 777. Economic analysis of proposed actions
+### § 777. Economic analysis of proposed actions
 
 **(a) Scope of analysis** In carrying out the provisions of this chapter, the Administrator shall, to the greatest extent practicable, insure that the potential economic impacts of proposed regulatory and other actions are evaluated and considered, including but not limited to an analysis of the effect of such actions on—
 
@@ -729,7 +729,7 @@ The Administrator, together with the Secretaries of Labor and Commerce, shall mo
 
 The Administrator shall formulate and implement regulatory and other actions in a manner (1) which does not unduly discriminate against any industry or any region of the United States; and (2) designed to insure that, to the greatest extent possible, the costs and burdens of meeting energy shortages shall be borne equally by every sector and segment of the country and of the economy.
 
-(Pub. L. 93–275, § 18, May 7, 1974, 88 Stat. 110; Pub. L. 94–385, title I, § 109(d), Aug. 14, 1976, 90 Stat. 1130.)
+(Pub. L. 93–275, § 18, May 7, 1974, 88 Stat. 110; Pub. L. 94–385, title I, § 109(d), Aug. 14, 1976, 90 Stat. 1130.)
 
 **Editorial Notes**
 
@@ -747,11 +747,11 @@ For termination, effective May 15, 2000, of provisions in subsec. (d) of this se
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 778. Management oversight review; report to Administrator
+### § 778. Management oversight review; report to Administrator
 
 The Administrator may, for a period not to exceed thirty days in any one calendar year, provide for the exercise or performance of a management oversight review with respect to the conduct of any Federal or State (with consent of the Governor) energy program conducted pursuant to this chapter. Such review may be conducted by contract or by any Federal department or agency. A written report shall be submitted to the Administrator concerning the findings of the review.
 
-(Pub. L. 93–275, § 19, May 7, 1974, 88 Stat. 111.)
+(Pub. L. 93–275, § 19, May 7, 1974, 88 Stat. 111.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -759,7 +759,7 @@ The Administrator may, for a period not to exceed thirty days in any one calenda
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 779. Coordination with, and technical assistance to, State governments
+### § 779. Coordination with, and technical assistance to, State governments
 
 **(a) Report to Congress and State governments: organization of Administration; report to the public, Congress and State governments; scope of nontechnical report; comments of State governments respecting rules, regulations, or policies and programs; energy shortages, status reports; information clearinghouse** The Administrator shall—
 
@@ -793,7 +793,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 **(4)** promote the promulgation of uniform criteria, procedures, and forms for grant or contract applications for energy proposals submitted by State governments.
 
-(Pub. L. 93–275, § 20, May 7, 1974, 88 Stat. 111.)
+(Pub. L. 93–275, § 20, May 7, 1974, 88 Stat. 111.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -801,7 +801,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 780. Office of Private Grievances and Redress
+### § 780. Office of Private Grievances and Redress
 
 **(a) Establishment; director; statement of purpose**
 
@@ -815,7 +815,7 @@ Any person, adversely affected by any order, rule, or regulation issued by the A
 
 The Administrator shall submit to the Secretary for inclusion in the annual report required by section 7267 of title 42 a statement on the nature and number of the grievances which have been filed, and the action taken and relief provided, pursuant to this section; and he shall make recommendations to the Congress from time to time concerning legislative or administrative actions which may be taken to better assist persons adversely affected by the energy shortages and to distribute more equitably the burdens resulting from any measures adopted, or actions taken, by him.
 
-(Pub. L. 93–275, § 21, May 7, 1974, 88 Stat. 112; Pub. L. 96–470, title II, § 203(h), Oct. 19, 1980, 94 Stat. 2244.)
+(Pub. L. 93–275, § 21, May 7, 1974, 88 Stat. 112; Pub. L. 96–470, title II, § 203(h), Oct. 19, 1980, 94 Stat. 2244.)
 
 **Editorial Notes**
 
@@ -829,7 +829,7 @@ The Administrator shall submit to the Secretary for inclusion in the annual repo
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 781. Comprehensive energy plan
+### § 781. Comprehensive energy plan
 
 **(a) Report to President and Congress; analytical justification; scope of analysis** Pursuant and subject to the provisions and procedures set forth in this chapter, the Administrator shall, within six months from May 7, 1974, develop and report to the Congress and the President a comprehensive plan designed to alleviate the energy shortage, for the time period covered by this chapter. Such plan shall be accompanied by full analytical justification for the actions proposed therein. Such analysis shall include, but not be limited to—
 
@@ -849,7 +849,7 @@ The Administrator may, from time to time, modify or otherwise alter any such pla
 
 The Administrator shall be responsible for monitoring any such plans as are implemented with respect to their effectiveness in achieving the anticipated benefits.
 
-(Pub. L. 93–275, § 22, May 7, 1974, 88 Stat. 113.)
+(Pub. L. 93–275, § 22, May 7, 1974, 88 Stat. 113.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -857,7 +857,7 @@ The Administrator shall be responsible for monitoring any such plans as are impl
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 782. Petrochemical report to Congress
+### § 782. Petrochemical report to Congress
 
 **(a) Scope of report** Within ninety days after he has entered upon the office of Administrator or has been designated by the President to act in such office, the Administrator, or acting Administrator, as the case may be, with the assistance of the Department of Commerce, the Cost of Living Council, and the United States International Trade Commission shall, by written report, inform the Congress as to the—
 
@@ -875,7 +875,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 As used in this section, the term “petrochemical” includes organic chemicals, cyclic intermediates, plastics and resins, synthetic fibers, elastomers, organic dyes, organic pigments, detergents, surface active agents, carbon black and ammonia.
 
-(Pub. L. 93–275, § 23, May 7, 1974, 88 Stat. 113; Pub. L. 93–618, title I, § 171(b), Jan. 3, 1975, 88 Stat. 2009.)
+(Pub. L. 93–275, § 23, May 7, 1974, 88 Stat. 113; Pub. L. 93–618, title I, § 171(b), Jan. 3, 1975, 88 Stat. 2009.)
 
 **Editorial Notes**
 
@@ -893,9 +893,9 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 **Abolition of Cost of Living Council**
 
-Cost of Living Council abolished July 1, 1974, by Ex. Ord. No. 11788, § 1, June 18, 1974, 39 FR 22113.
+Cost of Living Council abolished July 1, 1974, by Ex. Ord. No. 11788, § 1, June 18, 1974, 39 FR 22113.
 
-### § 783. Hydroelectric generating facilities; lists, transmittal to Congress; construction schedule and cost estimates for expedited construction program; prospective accomplishments from expedited completion of facilities; statement of appropriated but not obligated funds
+### § 783. Hydroelectric generating facilities; lists, transmittal to Congress; construction schedule and cost estimates for expedited construction program; prospective accomplishments from expedited completion of facilities; statement of appropriated but not obligated funds
 
 Within ninety days of the effective date of this chapter, the Administrator of the Federal Energy Administration, in consultation with the Secretary of the Interior and the Secretary of the Army, shall—
 
@@ -911,7 +911,7 @@ Within ninety days of the effective date of this chapter, the Administrator of t
 
 **(B)** a statement of the accomplishments which could be provided by the expedited completion of each facility and a statement of any funds which have been appropriated but not yet obligated.
 
-(Pub. L. 93–275, § 24, May 7, 1974, 88 Stat. 114.)
+(Pub. L. 93–275, § 24, May 7, 1974, 88 Stat. 114.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -919,7 +919,7 @@ Within ninety days of the effective date of this chapter, the Administrator of t
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 784. Exports of coal and refined petroleum products
+### § 784. Exports of coal and refined petroleum products
 
 **(a) File concerning export transactions, sales, exchanges or shipments: establishment and maintenance; scope of information**
 
@@ -937,7 +937,7 @@ Notwithstanding any other provision of law, any Federal agency which collects or
 
 The Administrator shall not be required to collect independently information described in subsection (a) if he can secure the information described in subsection (a) from other Federal agencies and the information secured from such agencies is available to the Congress pursuant to a request under subsection (b).
 
-(Pub. L. 93–275, § 25, May 7, 1974, 88 Stat. 114; Pub. L. 94–385, title I, § 111, Aug. 14, 1976, 90 Stat. 1132.)
+(Pub. L. 93–275, § 25, May 7, 1974, 88 Stat. 114; Pub. L. 94–385, title I, § 111, Aug. 14, 1976, 90 Stat. 1132.)
 
 **Editorial Notes**
 
@@ -951,11 +951,11 @@ The Administrator shall not be required to collect independently information des
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 785. Foreign ownership; comprehensive review; sources of information; report to Congress; monitoring activity
+### § 785. Foreign ownership; comprehensive review; sources of information; report to Congress; monitoring activity
 
 The Administrator shall conduct a comprehensive review of foreign ownership of, influence on, and control of domestic energy sources and supplies. Such review shall draw upon existing information, where available, and any independent investigation necessary by the Administration. The Administrator shall, on or before the expiration of the one hundred and eighty day period following the effective date of this chapter, report to the Congress in sufficient detail so as to apprise the Congress as to the extent and forms of such foreign ownership of, influence on, and control of domestic energy sources and supplies, and shall thereafter continue to monitor such ownership, influence and control.
 
-(Pub. L. 93–275, § 26, May 7, 1974, 88 Stat. 115.)
+(Pub. L. 93–275, § 26, May 7, 1974, 88 Stat. 115.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -963,11 +963,11 @@ The Administrator shall conduct a comprehensive review of foreign ownership of, 
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 786. Repealed. Pub. L. 95–91, title VII, § 709(a)(1), Aug. 4, 1977, 91 Stat. 607
+### § 786. Repealed. Pub. L. 95–91, title VII, § 709(a)(1), Aug. 4, 1977, 91 Stat. 607
 
-Section, Pub. L. 93–275, § 28, May 7, 1974, 88 Stat. 115, provided that upon termination of this chapter, any functions or personnel transferred by this chapter shall revert to the department, agency, or office from which they were transferred.
+Section, Pub. L. 93–275, § 28, May 7, 1974, 88 Stat. 115, provided that upon termination of this chapter, any functions or personnel transferred by this chapter shall revert to the department, agency, or office from which they were transferred.
 
-### § 787. Project Independence Evaluation System documentation; access to model by Congress and public
+### § 787. Project Independence Evaluation System documentation; access to model by Congress and public
 
 The Administrator of the Federal Energy Administration shall—
 
@@ -977,7 +977,7 @@ The Administrator of the Federal Energy Administration shall—
 
 **(3)** permit the use of such model on the computer system maintained by the Federal Energy Administration by any member of the public upon such reasonable terms and conditions as the Administrator shall, by rule, prescribe. Such rules shall provide that any member of the public who uses such model may be charged a fair and reasonable fee, as determined by the Administrator, for using such model.
 
-(Pub. L. 93–275, § 31, as added Pub. L. 94–385, title I, § 113, Aug. 14, 1976, 90 Stat. 1132.)
+(Pub. L. 93–275, § 31, as added Pub. L. 94–385, title I, § 113, Aug. 14, 1976, 90 Stat. 1132.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -985,7 +985,7 @@ The Administrator of the Federal Energy Administration shall—
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 788. Use of commercial standards
+### § 788. Use of commercial standards
 
 **(a) General notice of proposed rulemaking** If any proposed rule by the Administrator contains any commercial standards, or specifically authorizes or requires the use of any such standards, then any general notice of the proposed rulemaking shall—
 
@@ -1039,7 +1039,7 @@ Not later than 90 days after July 21, 1977, the Administrator shall prescribe, b
 
 which are promulgated by any organization which is not a Federal entity. For purposes of the preceding sentence, any revision by any such organization of any such rule, procedure, requirement, or standard shall be considered to be the same as the promulgation of such standard.
 
-(Pub. L. 93–275, § 32, as added Pub. L. 95–70, § 9, July 21, 1977, 91 Stat. 278.)
+(Pub. L. 93–275, § 32, as added Pub. L. 95–70, § 9, July 21, 1977, 91 Stat. 278.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1047,9 +1047,9 @@ which are promulgated by any organization which is not a Federal entity. For pur
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-### § 789. Repealed. Pub. L. 104–106, div. D, title XLIII, § 4304(b)(2), Feb. 10, 1996, 110 Stat. 664
+### § 789. Repealed. Pub. L. 104–106, div. D, title XLIII, § 4304(b)(2), Feb. 10, 1996, 110 Stat. 664
 
-Section, Pub. L. 93–275, § 33, as added Pub. L. 95–70, § 10, July 21, 1977, 91 Stat. 279, related to organizational conflicts of interest of persons contracting to perform research, development, or evaluation activities or technical and management support services.
+Section, Pub. L. 93–275, § 33, as added Pub. L. 95–70, § 10, July 21, 1977, 91 Stat. 279, related to organizational conflicts of interest of persons contracting to perform research, development, or evaluation activities or technical and management support services.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1059,7 +1059,7 @@ For effective date and applicability of repeal, see section 4401 of Pub. L. 104�
 
 ## SUBCHAPTER II—OFFICE OF ENERGY INFORMATION AND ANALYSIS
 
-### § 790. Establishment of Office of Energy Information and Analysis
+### § 790. Establishment of Office of Energy Information and Analysis
 
 **(a) Director; appointment; qualifications**
 
@@ -1075,13 +1075,13 @@ The Administrator shall delegate (which delegation may be on a nonexclusive basi
 
 As used in this chapter the term “energy information” shall have the meaning described in section 796 of this title.
 
-(Pub. L. 93–275, § 51, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1135.)
+(Pub. L. 93–275, § 51, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1135.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 94–385, title I, § 143, Aug. 14, 1976, 90 Stat. 1140, provided that: “The amendments made by this part C to the Federal Energy Administration Act of 1974 [enacting this subchapter] shall take effect 150 days after the date of enactment of this Act [Aug. 14, 1976], except that section 56(c) of the Federal Energy Administration Act of 1974 (as added by this part) [section 790e(c) of this title] shall take effect on the date of enactment of this Act [Aug. 14, 1976].”
+Pub. L. 94–385, title I, § 143, Aug. 14, 1976, 90 Stat. 1140, provided that: “The amendments made by this part C to the Federal Energy Administration Act of 1974 [enacting this subchapter] shall take effect 150 days after the date of enactment of this Act [Aug. 14, 1976], except that section 56(c) of the Federal Energy Administration Act of 1974 (as added by this part) [section 790e(c) of this title] shall take effect on the date of enactment of this Act [Aug. 14, 1976].”
 
 **Transfer of Functions**
 
@@ -1091,13 +1091,13 @@ Functions assigned to Director of Office of Energy Information and Analysis unde
 
 **Congressional Findings and Purpose**
 
-Pub. L. 94–385, title I, § 141, Aug. 14, 1976, 90 Stat. 1135, provided that:
+Pub. L. 94–385, title I, § 141, Aug. 14, 1976, 90 Stat. 1135, provided that:
 
 > **“(a)** The Congress finds that the public interest requires that decisionmaking, with respect to this Nation’s energy requirements and the sufficiency and availability of energy resources and supplies, be based on adequate, accurate, comparable, coordinated, and credible energy information.
 
 > **“(b)** The purpose of this title [see Short Title note set out under section 761 of this title] is to establish within the Federal Energy Administration an Office of Energy Information and Analysis and a National Energy Information System to assure the availability of adequate, comparable, accurate, and credible energy information to the Federal Energy Administration, to other Government agencies responsible for energy-related policy decisions, to the Congress, and to the public.”
 
-### § 790a. National Energy Information System; information required to be maintained
+### § 790a. National Energy Information System; information required to be maintained
 
 **(a)** It shall be the duty of the Director to establish a National Energy Information System (hereinafter referred to in this chapter as the “System”), which shall be operated and maintained by the Office. The System shall contain such information as is required to provide a description of and facilitate analysis of energy supply and consumption within and affecting the United States on the basis of such geographic areas and economic sectors as may be appropriate to meet adequately the needs of—
 
@@ -1125,15 +1125,15 @@ Pub. L. 94–385, title I, § 141, Aug. 14, 1976, 90 Stat. 1135, provided that
 
 **(7)** long-term relationships between energy supply and consumption in the United States and world communities.
 
-(Pub. L. 93–275, § 52, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1135; amended Pub. L. 95–91, title VII, § 709(a)(3), Aug. 4, 1977, 91 Stat. 608.)
+(Pub. L. 93–275, § 52, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1135; amended Pub. L. 95–91, title VII, § 709(a)(3), Aug. 4, 1977, 91 Stat. 608.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Natural Gas Act, referred to in subsec. (a)(4), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsec. (a)(4), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
-The Federal Power Act, referred to in subsec. (a)(4), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsec. (a)(4), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 **Amendments**
 
@@ -1151,7 +1151,7 @@ Functions assigned to Director of Office of Energy Information and Analysis unde
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
 
-### § 790b. Administrative provisions
+### § 790b. Administrative provisions
 
 **(a) Compensation of Director**
 
@@ -1171,7 +1171,7 @@ The functions and powers of the Office shall be vested in or delegated to the Di
 
 **(2)** Any request for appropriations for the Federal Energy Administration submitted to the Congress shall identify the portion of such request intended for the support of the Office, and a statement of the differences, if any, between the amounts requested and the Director’s assessment of the budgetary needs of the Office.
 
-(Pub. L. 93–275, § 53, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1136.)
+(Pub. L. 93–275, § 53, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1136.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1187,9 +1187,9 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 790c. Analysis and evaluation of energy information; establishment and maintenance by Director of professional, etc., capability; specific capabilities
+### § 790c. Analysis and evaluation of energy information; establishment and maintenance by Director of professional, etc., capability; specific capabilities
 
 **(a)** The Director shall establish and maintain the scientific, engineering, statistical, or other technical capability to perform analysis of energy information to—
 
@@ -1209,7 +1209,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 **(5)** such other capabilities as the Director deems necessary to achieve the purposes of this chapter.
 
-(Pub. L. 93–275, § 54, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1137.)
+(Pub. L. 93–275, § 54, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1137.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1223,11 +1223,11 @@ Functions assigned to Director of Office of Energy Information and Analysis unde
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
 
-### § 790d. Repealed. Pub. L. 104–66, title I, § 1051(k), Dec. 21, 1995, 109 Stat. 717
+### § 790d. Repealed. Pub. L. 104–66, title I, § 1051(k), Dec. 21, 1995, 109 Stat. 717
 
-Section, Pub. L. 93–275, § 55, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1137; amended Pub. L. 95–91, title VII, § 709(a)(4), Aug. 4, 1977, 91 Stat. 608, related to annual performance audit review of Office of Energy Information and Analysis procedures and methodology by Professional Audit Review Team.
+Section, Pub. L. 93–275, § 55, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1137; amended Pub. L. 95–91, title VII, § 709(a)(4), Aug. 4, 1977, 91 Stat. 608, related to annual performance audit review of Office of Energy Information and Analysis procedures and methodology by Professional Audit Review Team.
 
-### § 790e. Coordination by Director of energy information gathering activities of Federal agencies
+### § 790e. Coordination by Director of energy information gathering activities of Federal agencies
 
 **(a) Review**
 
@@ -1255,13 +1255,13 @@ In carrying out the purposes of this chapter the Director shall, as he deems app
 
 Such agencies shall cooperate with the Administrator and provide such other descriptive information with respect to energy information activities as the Administrator may request. The Administrator shall prepare a report on his activities under this subsection, which report shall include recommendations with respect to the coordination of energy information activities of the Federal Government. Such report shall be available to the Congress and shall be transmitted to the President and to the Energy Resources Council for use in preparation of the plan required under subsection (c) of section 5818 of title 42.
 
-(Pub. L. 93–275, § 56, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1138.)
+(Pub. L. 93–275, § 56, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1138.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5818 of title 42, referred to in subsec. (c), was repealed by Pub. L. 95–91, title VII, § 709(b), Aug. 4, 1977, 91 Stat. 608.
+Section 5818 of title 42, referred to in subsec. (c), was repealed by Pub. L. 95–91, title VII, § 709(b), Aug. 4, 1977, 91 Stat. 608.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1275,7 +1275,7 @@ Functions assigned to Director of Office of Energy Information and Analysis unde
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
 
-### § 790f. Reports by Director
+### § 790f. Reports by Director
 
 **(a) Periodic and special reports by Director to Congress and public; contents** The Director shall make periodic reports and may make special reports to the Congress and the public, including but not limited to—
 
@@ -1293,7 +1293,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 Prior to publication, the Director may not be required to obtain the approval of any other officer or employee of the United States with respect to the substance of any statistical or forecasting technical reports which he has prepared in accordance with law.
 
-(Pub. L. 93–275, § 57, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1139.)
+(Pub. L. 93–275, § 57, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1139.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1311,7 +1311,7 @@ Functions assigned to Director of Office of Energy Information and Analysis unde
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
 
-### § 790g. Access by Director to energy information
+### § 790g. Access by Director to energy information
 
 **(a) Access by Director to energy information in possession of other Federal agencies; limitations** In furtherance and not in limitation of any other authority, the Director, on behalf of the Administrator, shall have access to energy information in the possession of any Federal agency except information—
 
@@ -1323,7 +1323,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 
 In the event that energy information in the possession of another Federal agency which is required to achieve the purposes of this chapter is denied the Director or the Administrator pursuant to paragraph (1) or paragraph (2) of subsection (a) of this section, the Administrator, or the Director, on behalf of the Administrator, shall take appropriate action, pursuant to authority granted by law, to obtain said information from the original sources or a suitable alternate source. Such source shall be notified of the reason for this request for information.
 
-(Pub. L. 93–275, § 58, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1139.)
+(Pub. L. 93–275, § 58, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1139.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1337,11 +1337,11 @@ Functions assigned to Director of Office of Energy Information and Analysis unde
 
 Federal Energy Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
 
-### § 790h. Congressional access to energy information; disclosure by Congress
+### § 790h. Congressional access to energy information; disclosure by Congress
 
 The Director shall promptly provide upon request any energy information in the possession of the Office to any duly established committee of the Congress. Such information shall be deemed the property of such committee and may not be disclosed except in accordance with the rules of such committee and the Rules of the House of Representatives or the Senate and as permitted by law.
 
-(Pub. L. 93–275, § 59, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1140.)
+(Pub. L. 93–275, § 59, as added Pub. L. 94–385, title I, § 142, Aug. 14, 1976, 90 Stat. 1140.)
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -17,19 +17,19 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—EXCHANGE RATES AND INTERNATIONAL ECONOMIC POLICY CO­ORDINATION
 
-### § 5301. Short title
+### § 5301. Short title
 
 This subchapter may be cited as the “Exchange Rates and International Economic Policy Coordination Act of 1988”.
 
-(Pub. L. 100–418, title III, § 3001, Aug. 23, 1988, 102 Stat. 1372.)
+(Pub. L. 100–418, title III, § 3001, Aug. 23, 1988, 102 Stat. 1372.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 3001–3006) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1372, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 3001–3006) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1372, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
-### § 5302. Findings
+### § 5302. Findings
 
 The Congress finds that—
 
@@ -51,9 +51,9 @@ The Congress finds that—
 
 **(9)** under appropriate circumstances, intervention by the United States in foreign exchange markets as part of a coordinated international strategic intervention effort could produce more orderly adjustment of foreign exchange markets and, in combination with necessary macroeconomic policy changes, assist adjustment toward a more appropriate and sustainable balance in current accounts.
 
-(Pub. L. 100–418, title III, § 3002, Aug. 23, 1988, 102 Stat. 1372.)
+(Pub. L. 100–418, title III, § 3002, Aug. 23, 1988, 102 Stat. 1372.)
 
-### § 5303. Statement of policy
+### § 5303. Statement of policy
 
 It is the policy of the United States that—
 
@@ -65,9 +65,9 @@ It is the policy of the United States that—
 
 **(4)** the accountability of the President for the impact of economic policies and exchange rates on trade competitiveness should be increased.
 
-(Pub. L. 100–418, title III, § 3003, Aug. 23, 1988, 102 Stat. 1373.)
+(Pub. L. 100–418, title III, § 3003, Aug. 23, 1988, 102 Stat. 1373.)
 
-### § 5304. International negotiations on exchange rate and economic policies
+### § 5304. International negotiations on exchange rate and economic policies
 
 **(a) Multilateral negotiations** The President shall seek to confer and negotiate with other countries—
 
@@ -83,7 +83,7 @@ It is the policy of the United States that—
 
 The Secretary of the Treasury shall analyze on an annual basis the exchange rate policies of foreign countries, in consultation with the International Monetary Fund, and consider whether countries manipulate the rate of exchange between their currency and the United States dollar for purposes of preventing effective balance of payments adjustments or gaining unfair competitive advantage in international trade. If the Secretary considers that such manipulation is occurring with respect to countries that (1) have material global current account surpluses; and (2) have significant bilateral trade surpluses with the United States, the Secretary of the Treasury shall take action to initiate negotiations with such foreign countries on an expedited basis, in the International Monetary Fund or bilaterally, for the purpose of ensuring that such countries regularly and promptly adjust the rate of exchange between their currencies and the United States dollar to permit effective balance of payments adjustments and to eliminate the unfair advantage. The Secretary shall not be required to initiate negotiations in cases where such negotiations would have a serious detrimental impact on vital national economic and security interests; in such cases, the Secretary shall inform the chairman and the ranking minority member of the Committee on Banking, Housing, and Urban Affairs of the Senate and of the Committee on Banking, Finance and Urban Affairs of the House of Representatives of his determination.
 
-(Pub. L. 100–418, title III, § 3004, Aug. 23, 1988, 102 Stat. 1373.)
+(Pub. L. 100–418, title III, § 3004, Aug. 23, 1988, 102 Stat. 1373.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -93,7 +93,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 **Negotiations on Currency Exchange Rates**
 
-Pub. L. 100–418, title I, § 1124, Aug. 23, 1988, 102 Stat. 1146, provided that:
+Pub. L. 100–418, title I, § 1124, Aug. 23, 1988, 102 Stat. 1146, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -101,9 +101,9 @@ Pub. L. 100–418, title I, § 1124, Aug. 23, 1988, 102 Stat. 1146, provided t
 
 > **“(2)** misalignments in currency caused by government policies intended to maintain an unfair trade advantage tend to nullify and impair trade concessions.
 
-> **“(b) Negotiations.—** Whenever, in the course of negotiating a trade agreement under this subtitle [subtitle A (§§ 1101 to 1125) of title I of Pub. L. 100–418, see Tables for classification], the President is advised by the Secretary of the Treasury that a foreign country that is a party to the negotiations satisfies the criteria for initiating bilateral currency negotiations listed in section 3004(b) of this Act [22 U.S.C. 5304(b)], the Secretary of the Treasury shall take action to initiate bilateral currency negotiations on an expedited basis with such foreign country.”
+> **“(b) Negotiations.—** Whenever, in the course of negotiating a trade agreement under this subtitle [subtitle A (§§ 1101 to 1125) of title I of Pub. L. 100–418, see Tables for classification], the President is advised by the Secretary of the Treasury that a foreign country that is a party to the negotiations satisfies the criteria for initiating bilateral currency negotiations listed in section 3004(b) of this Act [22 U.S.C. 5304(b)], the Secretary of the Treasury shall take action to initiate bilateral currency negotiations on an expedited basis with such foreign country.”
 
-### § 5305. Reporting requirements
+### § 5305. Reporting requirements
 
 **(a) Reports required**
 
@@ -133,7 +133,7 @@ In furtherance of the purpose of this chapter, the Secretary, after consultation
 
 **(8)** a report on the size and composition of international capital flows, and the factors contributing to such flows, including, where possible, an assessment of the impact of such flows on exchange rates and trade flows.
 
-(Pub. L. 100–418, title III, § 3005(a), (b), Aug. 23, 1988, 102 Stat. 1374.)
+(Pub. L. 100–418, title III, § 3005(a), (b), Aug. 23, 1988, 102 Stat. 1374.)
 
 **Editorial Notes**
 
@@ -147,7 +147,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-### § 5306. Definitions
+### § 5306. Definitions
 
 As used in this subchapter:
 
@@ -159,31 +159,31 @@ The term “Secretary” means the Secretary of the Treasury.
 
 The term “Board” means the Board of Governors of the Federal Reserve System.
 
-(Pub. L. 100–418, title III, § 3006, Aug. 23, 1988, 102 Stat. 1375.)
+(Pub. L. 100–418, title III, § 3006, Aug. 23, 1988, 102 Stat. 1375.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 3001–3006) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1372, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 3001–3006) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1372, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 ## SUBCHAPTER II—INTERNATIONAL DEBT
 
 ### Part A—Findings, Purposes, and Statement of Policy
 
-#### § 5321. Short title
+#### § 5321. Short title
 
 This subchapter may be cited as the “International Debt Management Act of 1988”.
 
-(Pub. L. 100–418, title III, § 3101, Aug. 23, 1988, 102 Stat. 1375.)
+(Pub. L. 100–418, title III, § 3101, Aug. 23, 1988, 102 Stat. 1375.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 3101–3123) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1375, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 3101–3123) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1375, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
-#### § 5322. Findings
+#### § 5322. Findings
 
 The Congress finds that—
 
@@ -207,9 +207,9 @@ The Congress finds that—
 
 **(10)** industrial countries with strong current account surpluses have a disproportionate share of the world’s capital resources, and bear an additional responsibility for contributing to a viable long-term solution to the debt problem.
 
-(Pub. L. 100–418, title III, § 3102, Aug. 23, 1988, 102 Stat. 1375.)
+(Pub. L. 100–418, title III, § 3102, Aug. 23, 1988, 102 Stat. 1375.)
 
-#### § 5323. Purposes
+#### § 5323. Purposes
 
 The purposes of this subchapter are—
 
@@ -219,15 +219,15 @@ The purposes of this subchapter are—
 
 **(3)** to increase the stability of the world financial system and ensure the safety and soundness of United States depository institutions.
 
-(Pub. L. 100–418, title III, § 3103, Aug. 23, 1988, 102 Stat. 1376.)
+(Pub. L. 100–418, title III, § 3103, Aug. 23, 1988, 102 Stat. 1376.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 3101–3123) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1375, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 3101–3123) of title III of Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1375, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
-#### § 5324. Statement of policy
+#### § 5324. Statement of policy
 
 It is the policy of the United States that—
 
@@ -239,11 +239,11 @@ It is the policy of the United States that—
 
 **(4)** countries with strong current account surpluses bear a major responsibility for providing the financial resources needed for growth in the developing world.
 
-(Pub. L. 100–418, title III, § 3104, Aug. 23, 1988, 102 Stat. 1376.)
+(Pub. L. 100–418, title III, § 3104, Aug. 23, 1988, 102 Stat. 1376.)
 
 ### Part B—International Debt Management Authority
 
-#### § 5331. International initiative
+#### § 5331. International initiative
 
 **(a) Directive**
 
@@ -287,7 +287,7 @@ At the end of the 6-month period beginning on August 23, 1988, and at the end of
 
 On the conclusion of the study or of discussions described in subsection (a), the Secretary shall transmit a report containing a detailed description thereof to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate, together with such recommendations for legislation which the Secretary may determine to be necessary or appropriate for the establishment of the International Debt Management Authority.
 
-(Pub. L. 100–418, title III, § 3111, Aug. 23, 1988, 102 Stat. 1376.)
+(Pub. L. 100–418, title III, § 3111, Aug. 23, 1988, 102 Stat. 1376.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -295,7 +295,7 @@ On the conclusion of the study or of discussions described in subsection (a), th
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-#### § 5332. Actions to facilitate creation of Authority
+#### § 5332. Actions to facilitate creation of Authority
 
 **(a) In general** No funds, appropriations, contributions, callable capital, financial guarantee, or any other financial support or obligation or contingent support or obligation on the part of the United States Government may be used for the creation, operation, or support of the International Debt Management Authority specified in section 5331 of this title, without the express approval of the Congress through subsequent law, nor shall any expenses associated with such authority, either directly or indirectly, accrue to any United States person without the consent of such person. Except as restricted in the preceding sentence, the Secretary of the Treasury shall review all potential resources available to the multilateral financial institutions which could be used to support the creation of the International Debt Management Authority. In the course of this review, the Secretary shall direct—
 
@@ -309,9 +309,9 @@ The Secretary of the Treasury shall include a report on the results of the revie
 
 Subsection (a) shall not be construed to affect any provision of the Articles of Agreement of the International Monetary Fund or of the International Bank for Reconstruction and Development or any agreement entered into under either of such Agreements.
 
-(Pub. L. 100–418, title III, § 3112, Aug. 23, 1988, 102 Stat. 1378.)
+(Pub. L. 100–418, title III, § 3112, Aug. 23, 1988, 102 Stat. 1378.)
 
-#### § 5333. IMF-World Bank review
+#### § 5333. IMF-World Bank review
 
 **(a) IMF review**
 
@@ -321,17 +321,17 @@ The United States Executive Director of the International Monetary Fund shall re
 
 The United States Executive Director to the International Bank for Reconstruction and Development shall request the management of the International Bank for Reconstruction and Development to prepare a review and analysis of the debt burden of the developing countries, with particular attention to alternatives for dealing with the debt problem including new lending instruments, rescheduling and refinancing of existing debt, securitization and debt conversion techniques, discounted debt repurchases, and the International Debt Management Authority described in section 5331 of this title no later than 1 year after August 23, 1988.
 
-(Pub. L. 100–418, title III, § 3113, Aug. 23, 1988, 102 Stat. 1378.)
+(Pub. L. 100–418, title III, § 3113, Aug. 23, 1988, 102 Stat. 1378.)
 
 ## SUBCHAPTER III—PRIMARY DEALERS
 
-### § 5341. Short title
+### § 5341. Short title
 
 This subchapter may be cited as the “Primary Dealers Act of 1988”.
 
-(Pub. L. 100–418, title III, § 3501, Aug. 23, 1988, 102 Stat. 1386.)
+(Pub. L. 100–418, title III, § 3501, Aug. 23, 1988, 102 Stat. 1386.)
 
-### § 5342. Requirement of national treatment in underwriting government debt instruments
+### § 5342. Requirement of national treatment in underwriting government debt instruments
 
 **(a) Findings** The Congress finds that—
 
@@ -387,23 +387,23 @@ For purposes of this section, a person is a “person of a foreign country” if
 
 This section shall take effect 12 months after August 23, 1988.
 
-(Pub. L. 100–418, title III, § 3502, Aug. 23, 1988, 102 Stat. 1386.)
+(Pub. L. 100–418, title III, § 3502, Aug. 23, 1988, 102 Stat. 1386.)
 
 ## SUBCHAPTER IV—FINANCIAL REPORTS
 
-### § 5351. Short title
+### § 5351. Short title
 
 This subchapter may be cited as the “Financial Reports Act of 1988”.
 
-(Pub. L. 100–418, title III, § 3601, Aug. 23, 1988, 102 Stat. 1387.)
+(Pub. L. 100–418, title III, § 3601, Aug. 23, 1988, 102 Stat. 1387.)
 
-### § 5352. Quadrennial reports on foreign treatment of United States financial institutions
+### § 5352. Quadrennial reports on foreign treatment of United States financial institutions
 
 Not less frequently than every 4 years, beginning December 1, 1990, the Secretary of the Treasury, in conjunction with the Secretary of State, the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Securities and Exchange Commission, and the Department of Commerce, shall report to the Congress on (1) the foreign countries from which foreign financial services institutions have entered into the business of providing financial services in the United States, (2) the kinds of financial services which are being offered, (3) the extent to which foreign countries deny national treatment to United States banking organizations and securities companies, and (4) the efforts undertaken by the United States to eliminate such discrimination. The report shall focus on those countries in which there are significant denials of national treatment which impact United States financial firms. The report shall also describe the progress of discussions pursuant to section 5353 of this title.
 
-(Pub. L. 100–418, title III, § 3602, Aug. 23, 1988, 102 Stat. 1387.)
+(Pub. L. 100–418, title III, § 3602, Aug. 23, 1988, 102 Stat. 1387.)
 
-### § 5353. Fair trade in financial services
+### § 5353. Fair trade in financial services
 
 **(a) Discussions** When advantageous the President or his designee shall conduct discussions with the governments of countries that are major financial centers, aimed at:
 
@@ -427,7 +427,7 @@ After completing those discussions and after consultation with the committees of
 
 Nothing in this section may be construed as prior approval of any legislation which may be necessary to implement any recommendations resulting from discussions under this section.
 
-(Pub. L. 100–418, title III, § 3603, Aug. 23, 1988, 102 Stat. 1387.)
+(Pub. L. 100–418, title III, § 3603, Aug. 23, 1988, 102 Stat. 1387.)
 
 **Executive Documents**
 
@@ -435,11 +435,11 @@ Nothing in this section may be construed as prior approval of any legislation wh
 
 Functions of President under this section delegated to Secretary of the Treasury by section 1 of Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, set out as a note under section 301 of Title 3, The President.
 
-### § 5354. Banks loan loss reserves
+### § 5354. Banks loan loss reserves
 
 The Federal Reserve Board shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a report on the issues raised by including loan loss reserves as part of banks’ primary capital for regulatory purposes by March 31, 1989. Such report shall include a review of the treatment of loan loss reserves and the composition of primary capital of banks in other major industrialized countries, and shall include an analysis as to whether loan loss reserves should continue to be counted as primary capital for regulatory purposes.
 
-(Pub. L. 100–418, title III, § 3604, Aug. 23, 1988, 102 Stat. 1388.)
+(Pub. L. 100–418, title III, § 3604, Aug. 23, 1988, 102 Stat. 1388.)
 
 **Statutory Notes and Related Subsidiaries**
 

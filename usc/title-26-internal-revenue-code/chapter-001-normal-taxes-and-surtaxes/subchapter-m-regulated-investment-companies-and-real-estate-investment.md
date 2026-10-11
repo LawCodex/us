@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–357, title VIII, § 835(b)(12), Oct. 22, 2004, 118 Stat. 1594, struck out item for part V “Financial asset securitization investment trusts”.
+2004—Pub. L. 108–357, title VIII, § 835(b)(12), Oct. 22, 2004, 118 Stat. 1594, struck out item for part V “Financial asset securitization investment trusts”.
 
-1996—Pub. L. 104–188, title I, § 1621(c), Aug. 20, 1996, 110 Stat. 1867, added item for part V.
+1996—Pub. L. 104–188, title I, § 1621(c), Aug. 20, 1996, 110 Stat. 1867, added item for part V.
 
-1988—Pub. L. 100–647, title I, § 1018(u)(30), Nov. 10, 1988, 102 Stat. 3591, added item for part IV.
+1988—Pub. L. 100–647, title I, § 1018(u)(30), Nov. 10, 1988, 102 Stat. 3591, added item for part IV.
 
-1978—Pub. L. 95–600, title III, § 362(d)(8), Nov. 6, 1978, 92 Stat. 2852, added item for part III.
+1978—Pub. L. 95–600, title III, § 362(d)(8), Nov. 6, 1978, 92 Stat. 2852, added item for part III.
 
 ## PART I—REGULATED INVESTMENT COMPANIES
 
@@ -33,13 +33,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2009—Pub. L. 111–5, div. B, title I, § 1541(b)(3), Feb. 17, 2009, 123 Stat. 362, added item 853A.
+2009—Pub. L. 111–5, div. B, title I, § 1541(b)(3), Feb. 17, 2009, 123 Stat. 362, added item 853A.
 
-1980—Pub. L. 96–223, title IV, § 404(b)(7), Apr. 2, 1980, 94 Stat. 307, inserted “and taxable interest” after “dividends” in item 854 for taxable years after Dec. 31, 1980, and before Jan. 1, 1982.
+1980—Pub. L. 96–223, title IV, § 404(b)(7), Apr. 2, 1980, 94 Stat. 307, inserted “and taxable interest” after “dividends” in item 854 for taxable years after Dec. 31, 1980, and before Jan. 1, 1982.
 
-1960—Pub. L. 86–779, § 10(b)(1), Sept. 14, 1960, 74 Stat. 1008, inserted “and Real Estate Investment Trusts” in subchapter M heading, part I and part II designations thereunder and part I designation preceding table of sections numbered 851 to 855.
+1960—Pub. L. 86–779, § 10(b)(1), Sept. 14, 1960, 74 Stat. 1008, inserted “and Real Estate Investment Trusts” in subchapter M heading, part I and part II designations thereunder and part I designation preceding table of sections numbered 851 to 855.
 
-### § 851. Definition of regulated investment company
+### § 851. Definition of regulated investment company
 
 **(a) General rule** For purposes of this subtitle, the term “regulated investment company” means any domestic corporation—
 
@@ -215,13 +215,13 @@ For purposes of this section, the term “qualified publicly traded partnership�
 
 **(B)** ⅑ of the gross income of such company which is derived from such sources.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, § 38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, § 908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, § 602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§ 1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, § 2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, § 701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, § 547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, § 1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§ 652(a), (b), 653(a)–(c), 654(a), title XII, § 1235(f)(3), Oct. 22, 1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, § 1006(m), (n)(1), (2)(A), (B), (4), (5), (*o*), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, § 1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, § 331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, § 201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540; Pub. L. 113–295, div. A, title II, § 205(e), Dec. 19, 2014, 128 Stat. 4027; Pub. L. 115–97, title I, § 14212(b)(1)(B), Dec. 22, 2017, 131 Stat. 2217.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 268; Pub. L. 85–866, title I, § 38, Sept. 2, 1958, 72 Stat. 1638; Pub. L. 91–172, title IX, § 908(a), Dec. 30, 1969, 83 Stat. 717; Pub. L. 94–12, title VI, § 602(a)(2), Mar. 29, 1975, 89 Stat. 58; Pub. L. 94–455, title XIX, §§ 1901(a)(109), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1783, 1834; Pub. L. 95–345, § 2(a)(3), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, § 701(s)(1), Nov. 6, 1978, 92 Stat. 2911; Pub. L. 97–424, title V, § 547(b)(1), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title X, § 1071(a)(1), July 18, 1984, 98 Stat. 1049; Pub. L. 99–514, title VI, §§ 652(a), (b), 653(a)–(c), 654(a), title XII, § 1235(f)(3), Oct. 22, 1986, 100 Stat. 2297, 2298, 2575; Pub. L. 100–647, title I, § 1006(m), (n)(1), (2)(A), (B), (4), (5), (*o*), Nov. 10, 1988, 102 Stat. 3415, 3416; Pub. L. 105–34, title XII, § 1271(a)–(b)(7), Aug. 5, 1997, 111 Stat. 1036, 1037; Pub. L. 108–357, title III, § 331(a)–(d), (f), Oct. 22, 2004, 118 Stat. 1476; Pub. L. 111–325, title II, § 201(a), (b), Dec. 22, 2010, 124 Stat. 3539, 3540; Pub. L. 113–295, div. A, title II, § 205(e), Dec. 19, 2014, 128 Stat. 4027; Pub. L. 115–97, title I, § 14212(b)(1)(B), Dec. 22, 2017, 131 Stat. 2217.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2)(A), (c)(6), and (f)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to section 80a–2(a)(36) of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2)(A), (c)(6), and (f)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to section 80a–2(a)(36) of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 **Amendments**
 
@@ -229,25 +229,25 @@ The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), 
 
 2014—Subsec. (d)(2)(A). Pub. L. 113–295 inserted “of this paragraph” after “subparagraph (B)(i)” in introductory provisions.
 
-2010—Subsec. (d). Pub. L. 111–325, § 201(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2010—Subsec. (d). Pub. L. 111–325, § 201(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (i). Pub. L. 111–325, § 201(b), added subsec. (i).
+Subsec. (i). Pub. L. 111–325, § 201(b), added subsec. (i).
 
-2004—Subsec. (b). Pub. L. 108–357, § 331(b), inserted “(other than a qualified publicly traded partnership as defined in subsection (h))” after “derived from a partnership” in concluding provisions.
+2004—Subsec. (b). Pub. L. 108–357, § 331(b), inserted “(other than a qualified publicly traded partnership as defined in subsection (h))” after “derived from a partnership” in concluding provisions.
 
-Subsec. (b)(2). Pub. L. 108–357, § 331(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “at least 90 percent of its gross income is derived from dividends, interest, payments with respect to securities loans (as defined in section 512(a)(5)), and gains from the sale or other disposition of stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies; and”.
+Subsec. (b)(2). Pub. L. 108–357, § 331(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “at least 90 percent of its gross income is derived from dividends, interest, payments with respect to securities loans (as defined in section 512(a)(5)), and gains from the sale or other disposition of stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies; and”.
 
-Subsec. (b)(3)(B). Pub. L. 108–357, § 331(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not more than 25 percent of the value of its total assets is invested in the securities (other than Government securities or the securities of other regulated investment companies) of any one issuer, or of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses.”
+Subsec. (b)(3)(B). Pub. L. 108–357, § 331(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not more than 25 percent of the value of its total assets is invested in the securities (other than Government securities or the securities of other regulated investment companies) of any one issuer, or of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses.”
 
-Subsec. (c)(5), (6). Pub. L. 108–357, § 331(c), added par. (5) and redesignated former par. (5) as (6).
+Subsec. (c)(5), (6). Pub. L. 108–357, § 331(c), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (h). Pub. L. 108–357, § 331(d), added subsec. (h).
+Subsec. (h). Pub. L. 108–357, § 331(d), added subsec. (h).
 
-1997—Subsec. (b). Pub. L. 105–34, § 1271(b)(1), in concluding provisions, substituted “paragraph (2), amounts excludable” for “paragraphs (2) and (3), amounts excludable” and struck out “In the case of the taxable year in which a regulated investment company is completely liquidated, there shall not be taken into account under paragraph (3) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.” at end.
+1997—Subsec. (b). Pub. L. 105–34, § 1271(b)(1), in concluding provisions, substituted “paragraph (2), amounts excludable” for “paragraphs (2) and (3), amounts excludable” and struck out “In the case of the taxable year in which a regulated investment company is completely liquidated, there shall not be taken into account under paragraph (3) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.” at end.
 
-Subsec. (b)(2). Pub. L. 105–34, § 1271(a), inserted “and” at end.
+Subsec. (b)(2). Pub. L. 105–34, § 1271(a), inserted “and” at end.
 
-Subsec. (b)(3), (4). Pub. L. 105–34, § 1271(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “less than 30 percent of its gross income is derived from the sale or disposition of any of the following which was held for less than 3 months:
+Subsec. (b)(3), (4). Pub. L. 105–34, § 1271(a), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “less than 30 percent of its gross income is derived from the sale or disposition of any of the following which was held for less than 3 months:
 
 “(A) stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended),
 
@@ -255,51 +255,51 @@ Subsec. (b)(3), (4). Pub. L. 105–34, § 1271(a), redesignated par. (4) as (3
 
 “(C) foreign currencies (or options, futures, or forward contracts on foreign currencies) but only if such currencies (or options, futures, or forward contracts) are not directly related to the company’s principal business of investing in stock or securities (or options and futures with respect to stocks or securities), and”.
 
-Subsec. (c). Pub. L. 105–34, § 1271(b)(2), substituted “subsection (b)(3)” for “subsection (b)(4)” in heading and introductory provisions.
+Subsec. (c). Pub. L. 105–34, § 1271(b)(2), substituted “subsection (b)(3)” for “subsection (b)(4)” in heading and introductory provisions.
 
-Subsec. (d). Pub. L. 105–34, § 1271(b)(3), substituted “subsections (b)(3)” for “subsections (b)(4)”.
+Subsec. (d). Pub. L. 105–34, § 1271(b)(3), substituted “subsections (b)(3)” for “subsections (b)(4)”.
 
-Subsec. (e)(1). Pub. L. 105–34, § 1271(b)(4), substituted “subsection (b)(3)” for “subsection (b)(4)”.
+Subsec. (e)(1). Pub. L. 105–34, § 1271(b)(4), substituted “subsection (b)(3)” for “subsection (b)(4)”.
 
-Subsec. (e)(4). Pub. L. 105–34, § 1271(b)(5), substituted “subsections (b)(3)” for “subsections (b)(4)”.
+Subsec. (e)(4). Pub. L. 105–34, § 1271(b)(5), substituted “subsections (b)(3)” for “subsections (b)(4)”.
 
-Subsec. (g). Pub. L. 105–34, § 1271(b)(6), redesignated subsec. (h) as (g) and struck out former subsec. (g) which provided for treatment of certain hedging transactions.
+Subsec. (g). Pub. L. 105–34, § 1271(b)(6), redesignated subsec. (h) as (g) and struck out former subsec. (g) which provided for treatment of certain hedging transactions.
 
-Subsec. (g)(3). Pub. L. 105–34, § 1271(b)(7), struck out par. (3) which provided special rule for abnormal redemptions.
+Subsec. (g)(3). Pub. L. 105–34, § 1271(b)(7), struck out par. (3) which provided special rule for abnormal redemptions.
 
-Subsec. (h). Pub. L. 105–34, § 1271(b)(6), redesignated subsec. (h) as (g).
+Subsec. (h). Pub. L. 105–34, § 1271(b)(6), redesignated subsec. (h) as (g).
 
-1988—Subsec. (a)(1). Pub. L. 100–647, § 1006(m)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “which, at all times during the taxable year, is registered under the Investment Company Act of 1940, as amended (15 U.S.C. 80a–1 to 80b–2), as a management company, business development company, or unit investment trust, or”.
+1988—Subsec. (a)(1). Pub. L. 100–647, § 1006(m)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “which, at all times during the taxable year, is registered under the Investment Company Act of 1940, as amended (15 U.S.C. 80a–1 to 80b–2), as a management company, business development company, or unit investment trust, or”.
 
-Subsec. (b). Pub. L. 100–647, § 1006(n)(1), (5), inserted at end “Income derived from a partnership or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust. In the case of the taxable year in which a regulated investment company is completely liquidated, there shall not be taken into account under paragraph (3) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.”
+Subsec. (b). Pub. L. 100–647, § 1006(n)(1), (5), inserted at end “Income derived from a partnership or trust shall be treated as described in paragraph (2) only to the extent such income is attributable to items of income of the partnership or trust (as the case may be) which would be described in paragraph (2) if realized by the regulated investment company in the same manner as realized by the partnership or trust. In the case of the taxable year in which a regulated investment company is completely liquidated, there shall not be taken into account under paragraph (3) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.”
 
-Pub. L. 100–647, § 1006(n)(2)(B), substituted “which are not directly related” for “which are not ancillary” in last sentence.
+Pub. L. 100–647, § 1006(n)(2)(B), substituted “which are not directly related” for “which are not ancillary” in last sentence.
 
-Subsec. (b)(3). Pub. L. 100–647, § 1006(n)(2)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “less than 30 percent of its gross income is derived from the sale or other disposition of stock or securities held for less than 3 months; and”.
+Subsec. (b)(3). Pub. L. 100–647, § 1006(n)(2)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “less than 30 percent of its gross income is derived from the sale or other disposition of stock or securities held for less than 3 months; and”.
 
-Subsec. (e)(1). Pub. L. 100–647, § 1006(m)(2), substituted “a management company or a business development company described in subsection (a)(1)” for “a registered management company or registered business development company”.
+Subsec. (e)(1). Pub. L. 100–647, § 1006(m)(2), substituted “a management company or a business development company described in subsection (a)(1)” for “a registered management company or registered business development company”.
 
-Subsec. (g)(2)(A)(i). Pub. L. 100–647, § 1006(n)(4), substituted “contractual obligation” for “contractual option”.
+Subsec. (g)(2)(A)(i). Pub. L. 100–647, § 1006(n)(4), substituted “contractual obligation” for “contractual option”.
 
-Subsec. (h). Pub. L. 100–647, § 1006(*o*)(1), redesignated subsec. (q) as (h).
+Subsec. (h). Pub. L. 100–647, § 1006(*o*)(1), redesignated subsec. (q) as (h).
 
-Subsec. (h)(3). Pub. L. 100–647, § 1006(*o*)(2), added par. (3).
+Subsec. (h)(3). Pub. L. 100–647, § 1006(*o*)(2), added par. (3).
 
-Subsec. (q). Pub. L. 100–647, § 1006(*o*)(1), redesignated subsec. (q) as (h).
+Subsec. (q). Pub. L. 100–647, § 1006(*o*)(1), redesignated subsec. (q) as (h).
 
-1986—Subsec. (a)(1). Pub. L. 99–514, § 652(a), substituted “as a management company, business development company, or unit investment trust” for “either as a management company or as a unit investment trust”.
+1986—Subsec. (a)(1). Pub. L. 99–514, § 652(a), substituted “as a management company, business development company, or unit investment trust” for “either as a management company or as a unit investment trust”.
 
-Subsec. (b). Pub. L. 99–514, § 1235(f)(3), inserted “or 1293(a)” and “or 1293(c) (as the case may be)”, in concluding provision.
+Subsec. (b). Pub. L. 99–514, § 1235(f)(3), inserted “or 1293(a)” and “or 1293(c) (as the case may be)”, in concluding provision.
 
-Pub. L. 99–514, § 653(c), inserted before last sentence “For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not ancillary to the company’s principal business of investing in stock or securities (or options and futures with respect to stock or securities).”
+Pub. L. 99–514, § 653(c), inserted before last sentence “For purposes of paragraph (2), the Secretary may by regulation exclude from qualifying income foreign currency gains which are not ancillary to the company’s principal business of investing in stock or securities (or options and futures with respect to stock or securities).”
 
-Subsec. (b)(2). Pub. L. 99–514, § 653(b), inserted “(as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies”.
+Subsec. (b)(2). Pub. L. 99–514, § 653(b), inserted “(as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies”.
 
-Subsec. (e)(1). Pub. L. 99–514, § 652(b), substituted “registered management company or registered business development company” for “registered management company”.
+Subsec. (e)(1). Pub. L. 99–514, § 652(b), substituted “registered management company or registered business development company” for “registered management company”.
 
-Subsec. (g). Pub. L. 99–514, § 653(a), added subsec. (g).
+Subsec. (g). Pub. L. 99–514, § 653(a), added subsec. (g).
 
-Subsec. (q). Pub. L. 99–514, § 654(a), added subsec. (q).
+Subsec. (q). Pub. L. 99–514, § 654(a), added subsec. (q).
 
 1984—Subsec. (a). Pub. L. 98–369 struck out “(other than a personal holding company as defined in section 542)” after “any domestic corporation” in introductory provisions.
 
@@ -309,25 +309,25 @@ Subsec. (q). Pub. L. 99–514, § 654(a), added subsec. (q).
 
 Subsec. (b)(2). Pub. L. 95–345 inserted provision relating to payments with respect to securities loans.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, § 1901(a)(109)(A), struck out “54 Stat. 789;” before “15 U.S.C. 80a–1 to 80b–2)”.
+1976—Subsec. (a)(1). Pub. L. 94–455, § 1901(a)(109)(A), struck out “54 Stat. 789;” before “15 U.S.C. 80a–1 to 80b–2)”.
 
-Subsec. (b)(1), (4)(B). Pub. L. 94–455, § 1901(a)(109)(B), struck out “which began after December 31, 1941” after “previous taxable year” in par. (1), and “or his delegate” after “Secretary” in par. (4)(B).
+Subsec. (b)(1), (4)(B). Pub. L. 94–455, § 1901(a)(109)(B), struck out “which began after December 31, 1941” after “previous taxable year” in par. (1), and “or his delegate” after “Secretary” in par. (4)(B).
 
-Subsecs. (c), (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsecs. (c), (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
 
 1975—Subsec. (b). Pub. L. 94–12 inserted provisions directing that, for purposes of par. (2), there shall be treated as dividends amounts included in gross income under section 951(a)(1)(A)(i) for the taxable year to the extent that, under section 959(a)(1), there is a distribution out of earnings and profits of the taxable year which are attributable to the amounts so included.
 
 1969—Subsec. (f). Pub. L. 91–172 added subsec. (f).
 
-1958—Subsec. (e)(1). Pub. L. 85–866, § 38(a), substituted “not earlier than 60 days” for “not less than 60 days” in first sentence.
+1958—Subsec. (e)(1). Pub. L. 85–866, § 38(a), substituted “not earlier than 60 days” for “not less than 60 days” in first sentence.
 
-Subsec. (e)(2). Pub. L. 85–866, § 38(b), substituted “issuer” for “issues”.
+Subsec. (e)(2). Pub. L. 85–866, § 38(b), substituted “issuer” for “issues”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–97, title I, § 14212(c), Dec. 22, 2017, 131 Stat. 2217, provided that: “The amendments made by this section [amending this section and sections 951, 952, 953, 964, and 970 of this title and repealing section 955 of this title] shall apply to taxable years of foreign corporations beginning after December 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end.”
+Pub. L. 115–97, title I, § 14212(c), Dec. 22, 2017, 131 Stat. 2217, provided that: “The amendments made by this section [amending this section and sections 951, 952, 953, 964, and 970 of this title and repealing section 955 of this title] shall apply to taxable years of foreign corporations beginning after December 31, 2017, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end.”
 
 **Effective Date of 2014 Amendment**
 
@@ -335,7 +335,7 @@ Amendment by Pub. L. 113–295 effective as if included in the provision of the 
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–325, title II, § 201(d), Dec. 22, 2010, 124 Stat. 3541, provided that: “The amendments made by this section [amending this section and section 852 of this title] shall apply to taxable years with respect to which the due date (determined with regard to any extensions) of the return of tax for such taxable year is after the date of the enactment of this Act [Dec. 22, 2010].”
+Pub. L. 111–325, title II, § 201(d), Dec. 22, 2010, 124 Stat. 3541, provided that: “The amendments made by this section [amending this section and section 852 of this title] shall apply to taxable years with respect to which the due date (determined with regard to any extensions) of the return of tax for such taxable year is after the date of the enactment of this Act [Dec. 22, 2010].”
 
 **Effective Date of 2004 Amendment**
 
@@ -347,17 +347,17 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1006(n)(2)(C), Nov. 10, 1988, 102 Stat. 3415, provided that: “Subparagraph (C) of section 851(b)(3) of the 1986 Code (as amended by subparagraph (A)), and the amendment made by subparagraph (B) [amending this section], shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title I, § 1006(n)(2)(C), Nov. 10, 1988, 102 Stat. 3415, provided that: “Subparagraph (C) of section 851(b)(3) of the 1986 Code (as amended by subparagraph (A)), and the amendment made by subparagraph (B) [amending this section], shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 10, 1988].”
 
 Amendment by section 1006(m), (n)(1), (2)(A), (4), (5), (*o*) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title VI, § 652(c), Oct. 22, 1986, 100 Stat. 2297, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title VI, § 652(c), Oct. 22, 1986, 100 Stat. 2297, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 1986.”
 
-Pub. L. 99–514, title VI, § 653(d), Oct. 22, 1986, 100 Stat. 2298, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title VI, § 653(d), Oct. 22, 1986, 100 Stat. 2298, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 1986].”
 
-Pub. L. 99–514, title VI, § 654(b), Oct. 22, 1986, 100 Stat. 2298, provided that:
+Pub. L. 99–514, title VI, § 654(b), Oct. 22, 1986, 100 Stat. 2298, provided that:
 
 > **“(1) In general.—** The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 1986].
 
@@ -375,7 +375,7 @@ Amendment by Pub. L. 98–369 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title VII, § 701(s)(3), Nov. 6, 1978, 92 Stat. 2911, provided that: “The amendments made by this section [amending this section and section 852 of this title] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 95–600, title VII, § 701(s)(3), Nov. 6, 1978, 92 Stat. 2911, provided that: “The amendments made by this section [amending this section and section 852 of this title] shall apply to taxable years beginning after December 31, 1975.”
 
 Amendment by Pub. L. 95–345 applicable with respect to amounts received after Dec. 31, 1976, as payments with respect to securities loans (as defined in section 512(a)(5) of this title), and transfers of securities, under agreements described in section 1058 of this title, occurring after such date, see section 2(e) of Pub. L. 95–345, set out as a note under section 509 of this title.
 
@@ -389,13 +389,13 @@ Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IX, § 908(b), Dec. 30, 1969, 83 Stat. 718, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years of unit investment trusts ending after December 31, 1968, and to taxable years of holders of interests in such trusts ending with or within such taxable years of such trusts. The enactment of this section shall not be construed to result in the realization of gain or loss by any unit investment trust or by any holder of an interest in a unit investment trust.”
+Pub. L. 91–172, title IX, § 908(b), Dec. 30, 1969, 83 Stat. 718, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years of unit investment trusts ending after December 31, 1968, and to taxable years of holders of interests in such trusts ending with or within such taxable years of such trusts. The enactment of this section shall not be construed to result in the realization of gain or loss by any unit investment trust or by any holder of an interest in a unit investment trust.”
 
 **Effective Date of 1958 Amendment**
 
 Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
-### § 852. Taxation of regulated investment companies and their shareholders
+### § 852. Taxation of regulated investment companies and their shareholders
 
 **(a) Requirements applicable to regulated investment companies** The provisions of this part (other than subsection (c) of this section) shall not be applicable to a regulated investment company for a taxable year unless—
 
@@ -801,39 +801,39 @@ If the taxpayer acquires stock in a regulated investment company from another pe
 
 For purposes of this subsection, the term “qualified fund of funds” means a regulated investment company if (at the close of each quarter of the taxable year) at least 50 percent of the value of its total assets is represented by interests in other regulated investment companies.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, § 2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§ 39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, § 10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, § 229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, § 511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, § 1402(b)(1)(N), (2), title XIX, §§ 1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, § 2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§ 301(b)(11), 362(c), title VII, § 701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, § 104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, § 547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, § 55(a), title X, §§ 1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, § 311(b)(1), title VI, §§ 631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, § 1173(b)(1)(B), title XV, § 1511(c)(6), title XVIII, §§ 1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§ 1006(*l*)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, § 7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, § 13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, § 1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, § 1122(c)(2), (3), title XII, § 1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033; Pub. L. 106–170, title V, § 566(a)(1), (c), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 109–222, title V, § 505(c)(1), May 17, 2006, 120 Stat. 356; Pub. L. 110–172, § 11(a)(17)(A), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 111–325, title II, § 201(c), title III, §§ 301(a)(1), (b), 302(a), (b)(1), 303(a), 308(a)–(b)(2), 309(a), (b), title V, § 502(a), Dec. 22, 2010, 124 Stat. 3541, 3542, 3547, 3548, 3550–3552, 3554; Pub. L. 113–295, div. A, title II, § 205(a)(2), (c), Dec. 19, 2014, 128 Stat. 4025, 4026; Pub. L. 115–97, title I, § 13001(b)(2)(J), (4), Dec. 22, 2017, 131 Stat. 2096, 2098; Pub. L. 115–141, div. U, title IV, § 401(a)(144), (145), Mar. 23, 2018, 132 Stat. 1191.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 271; July 11, 1956, ch. 573, § 2(a), 70 Stat. 530; Pub. L. 85–866, title I, §§ 39(a), 101(a), (b), Sept. 2, 1958, 72 Stat. 1638, 1674; Pub. L. 86–779, § 10(b)(2), (3), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, § 229(a)(1), (2), (b), Feb. 26, 1964, 78 Stat. 99; Pub. L. 91–172, title V, § 511(c)(2), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIV, § 1402(b)(1)(N), (2), title XIX, §§ 1901(a)(110)(A), (B)(i), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N), 1906(b)(13)(A), title XXI, § 2137(a)–(c), Oct. 4, 1976, 90 Stat. 1732, 1783, 1792, 1794, 1801, 1802, 1834, 1930, 1931; Pub. L. 95–600, title III, §§ 301(b)(11), 362(c), title VII, § 701(s)(2), Nov. 6, 1978, 92 Stat. 2822, 2851, 2911; Pub. L. 96–222, title I, § 104(a)(3)(B), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–424, title V, § 547(b)(2), Jan. 6, 1983, 96 Stat. 2199; Pub. L. 98–369, div. A, title I, § 55(a), title X, §§ 1001(b)(11), (e), 1071(a)(2)–(4), (b)(1), July 18, 1984, 98 Stat. 571, 1011, 1012, 1049, 1050, 1052; Pub. L. 99–514, title III, § 311(b)(1), title VI, §§ 631(e)(11), 651(b)(1)(A), (2), (3), 655(a)(1), (2), title XI, § 1173(b)(1)(B), title XV, § 1511(c)(6), title XVIII, §§ 1804(c)(1)–(5), 1878(j), Oct. 22, 1986, 100 Stat. 2219, 2274, 2296, 2298, 2299, 2515, 2745, 2799, 2800, 2905; Pub. L. 100–647, title I, §§ 1006(*l*)(1)(A), (3), (4), (7)–(10), 1011B(h)(4), 1018(p), Nov. 10, 1988, 102 Stat. 3413–3415, 3491, 3585; Pub. L. 101–239, title VII, § 7204(b)(1), (c)(1), Dec. 19, 1989, 103 Stat. 2334, 2335; Pub. L. 103–66, title XIII, § 13221(c)(1), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, § 1602(b)(3), Aug. 20, 1996, 110 Stat. 1833; Pub. L. 105–34, title XI, § 1122(c)(2), (3), title XII, § 1254(b)(2), Aug. 5, 1997, 111 Stat. 977, 1033; Pub. L. 106–170, title V, § 566(a)(1), (c), Dec. 17, 1999, 113 Stat. 1950; Pub. L. 109–222, title V, § 505(c)(1), May 17, 2006, 120 Stat. 356; Pub. L. 110–172, § 11(a)(17)(A), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 111–325, title II, § 201(c), title III, §§ 301(a)(1), (b), 302(a), (b)(1), 303(a), 308(a)–(b)(2), 309(a), (b), title V, § 502(a), Dec. 22, 2010, 124 Stat. 3541, 3542, 3547, 3548, 3550–3552, 3554; Pub. L. 113–295, div. A, title II, § 205(a)(2), (c), Dec. 19, 2014, 128 Stat. 4025, 4026; Pub. L. 115–97, title I, § 13001(b)(2)(J), (4), Dec. 22, 2017, 131 Stat. 2096, 2098; Pub. L. 115–141, div. U, title IV, § 401(a)(144), (145), Mar. 23, 2018, 132 Stat. 1191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Investment Company Act of 1940, referred to in subsec. (d), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (d), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 **Amendments**
 
-2018—Subsec. (a)(1)(B). Pub. L. 115–141, § 401(a)(144), substituted “265 and” for “265,”.
+2018—Subsec. (a)(1)(B). Pub. L. 115–141, § 401(a)(144), substituted “265 and” for “265,”.
 
-Subsec. (b)(2)(D). Pub. L. 115–141, § 401(a)(145), substituted “The deduction” for “the deduction”.
+Subsec. (b)(2)(D). Pub. L. 115–141, § 401(a)(145), substituted “The deduction” for “the deduction”.
 
-2017—Subsec. (b)(1). Pub. L. 115–97, § 13001(b)(4), struck out “In the case of a regulated investment company which is a personal holding company (as defined in section 542) or which fails to comply for the taxable year with regulations prescribed by the Secretary for the purpose of ascertaining the actual ownership of its stock, such tax shall be computed at the highest rate of tax specified in section 11(b).” at end.
+2017—Subsec. (b)(1). Pub. L. 115–97, § 13001(b)(4), struck out “In the case of a regulated investment company which is a personal holding company (as defined in section 542) or which fails to comply for the taxable year with regulations prescribed by the Secretary for the purpose of ascertaining the actual ownership of its stock, such tax shall be computed at the highest rate of tax specified in section 11(b).” at end.
 
-Subsec. (b)(3)(A). Pub. L. 115–97, § 13001(b)(2)(J), substituted “section 11(b)” for “section 1201(a)”.
+Subsec. (b)(3)(A). Pub. L. 115–97, § 13001(b)(2)(J), substituted “section 11(b)” for “section 1201(a)”.
 
-2014—Subsec. (b)(8)(C) to (G). Pub. L. 113–295, § 205(c)(1), added subpars. (C) to (F), redesignated former subpar. (E) as (G), and struck out former subpars. (C) and (D) which related to post-October capital loss and late-year ordinary loss, respectively.
+2014—Subsec. (b)(8)(C) to (G). Pub. L. 113–295, § 205(c)(1), added subpars. (C) to (F), redesignated former subpar. (E) as (G), and struck out former subpars. (C) and (D) which related to post-October capital loss and late-year ordinary loss, respectively.
 
-Subsec. (b)(8)(G)(i). Pub. L. 113–295, § 205(c)(2), substituted “and (E)” for “, (D)(i)(I), and (D)(ii)(I)”.
+Subsec. (b)(8)(G)(i). Pub. L. 113–295, § 205(c)(2), substituted “and (E)” for “, (D)(i)(I), and (D)(ii)(I)”.
 
-Subsec. (c)(2). Pub. L. 113–295, § 205(c)(3), in introductory provisions, substituted “, without regard to any capital loss” for “, and without regard to any capital loss” and inserted “, and with such other adjustments as the Secretary may prescribe” after “section 1212(a)(3)(A)”.
+Subsec. (c)(2). Pub. L. 113–295, § 205(c)(3), in introductory provisions, substituted “, without regard to any capital loss” for “, and without regard to any capital loss” and inserted “, and with such other adjustments as the Secretary may prescribe” after “section 1212(a)(3)(A)”.
 
-Pub. L. 113–295, § 205(a)(2), in introductory provisions, substituted “October 31, without regard to” for “October 31 and without regard to” and inserted “, and without regard to any capital loss arising on the first day of the taxable year by reason of clauses (ii) and (iii) of section 1212(a)(3)(A)” after “subsection (b)(8)(D))”.
+Pub. L. 113–295, § 205(a)(2), in introductory provisions, substituted “October 31, without regard to” for “October 31 and without regard to” and inserted “, and without regard to any capital loss arising on the first day of the taxable year by reason of clauses (ii) and (iii) of section 1212(a)(3)(A)” after “subsection (b)(8)(D))”.
 
-2010—Subsec. (b)(2)(G). Pub. L. 111–325, § 201(c), added subpar. (G).
+2010—Subsec. (b)(2)(G). Pub. L. 111–325, § 201(c), added subpar. (G).
 
-Subsec. (b)(3)(C). Pub. L. 111–325, § 301(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to definition of capital gain dividend.
+Subsec. (b)(3)(C). Pub. L. 111–325, § 301(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to definition of capital gain dividend.
 
-Subsec. (b)(4)(E). Pub. L. 111–325, § 309(a), (b), substituted “Exception to holding period requirement for certain regularly declared exempt-interest dividends” for “Authority to shorten required holding period” in heading, added cl. (i), inserted cl. (ii) designation and heading before “In the case of”, and inserted “(other than a company described in clause (i))” after “regulated investment company”.
+Subsec. (b)(4)(E). Pub. L. 111–325, § 309(a), (b), substituted “Exception to holding period requirement for certain regularly declared exempt-interest dividends” for “Authority to shorten required holding period” in heading, added cl. (i), inserted cl. (ii) designation and heading before “In the case of”, and inserted “(other than a company described in clause (i))” after “regulated investment company”.
 
-Subsec. (b)(5)(A). Pub. L. 111–325, § 301(b), amended subpar. (A) generally. Prior to amendment, text read as follows: “An exempt-interest dividend means any dividend or part thereof (other than a capital gain dividend) paid by a regulated investment company and designated by it as an exempt-interest dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including exempt-interest dividends paid after the close of the taxable year as described in section 855) is greater than the excess of—
+Subsec. (b)(5)(A). Pub. L. 111–325, § 301(b), amended subpar. (A) generally. Prior to amendment, text read as follows: “An exempt-interest dividend means any dividend or part thereof (other than a capital gain dividend) paid by a regulated investment company and designated by it as an exempt-interest dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including exempt-interest dividends paid after the close of the taxable year as described in section 855) is greater than the excess of—
 
 “(i) the amount of interest excludable from gross income under section 103(a), over
 
@@ -841,33 +841,33 @@ Subsec. (b)(5)(A). Pub. L. 111–325, § 301(b), amended subpar. (A) generally
 
 the portion of such distribution which shall constitute an exempt-interest dividend shall be only that proportion of the amount so designated as the amount of such excess for such taxable year bears to the amount so designated.”
 
-Subsec. (b)(8). Pub. L. 111–325, § 308(a), amended par. (8) generally. Prior to amendment, text read as follows: “To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net foreign currency loss attributable to transactions after October 31 of such year, and any such net foreign currency loss shall be treated as arising on the 1st day of the following taxable year.”
+Subsec. (b)(8). Pub. L. 111–325, § 308(a), amended par. (8) generally. Prior to amendment, text read as follows: “To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net foreign currency loss attributable to transactions after October 31 of such year, and any such net foreign currency loss shall be treated as arising on the 1st day of the following taxable year.”
 
-Subsec. (b)(10). Pub. L. 111–325, § 308(b)(1), struck out par. (10). Text read as follows: “To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net reduction in the value of any stock of a passive foreign investment company with respect to which an election under section 1296(k) is in effect occurring after October 31 of the taxable year, and any such reduction shall be treated as occurring on the first day of the following taxable year.”
+Subsec. (b)(10). Pub. L. 111–325, § 308(b)(1), struck out par. (10). Text read as follows: “To the extent provided in regulations, the taxable income of a regulated investment company (other than a company to which an election under section 4982(e)(4) applies) shall be computed without regard to any net reduction in the value of any stock of a passive foreign investment company with respect to which an election under section 1296(k) is in effect occurring after October 31 of the taxable year, and any such reduction shall be treated as occurring on the first day of the following taxable year.”
 
-Subsec. (c)(1). Pub. L. 111–325, § 302(a), amended par. (1) generally. Prior to amendment, text read as follows: “The earnings and profits of a regulated investment company for any taxable year (but not its accumulated earnings and profits) shall not be reduced by any amount which is not allowable as a deduction in computing its taxable income for such taxable year. For purposes of this subsection, the term ‘regulated investment company’ includes a domestic corporation which is a regulated investment company determined without regard to the requirements of subsection (a).”
+Subsec. (c)(1). Pub. L. 111–325, § 302(a), amended par. (1) generally. Prior to amendment, text read as follows: “The earnings and profits of a regulated investment company for any taxable year (but not its accumulated earnings and profits) shall not be reduced by any amount which is not allowable as a deduction in computing its taxable income for such taxable year. For purposes of this subsection, the term ‘regulated investment company’ includes a domestic corporation which is a regulated investment company determined without regard to the requirements of subsection (a).”
 
-Subsec. (c)(2). Pub. L. 111–325, § 308(b)(2), in introductory provisions, substituted “For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss attributable to the portion of the taxable year after October 31 and without regard to any late-year ordinary loss (as defined in subsection (b)(8)(D)).” for “For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss (or net foreign currency loss) attributable to transactions after October 31 of such year, without regard to any net reduction in the value of any stock of a passive foreign investment company with respect to which an election under section 1296(k) is in effect occurring after October 31 of such year, and with such other adjustments as the Secretary may by regulations prescribe.”
+Subsec. (c)(2). Pub. L. 111–325, § 308(b)(2), in introductory provisions, substituted “For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss attributable to the portion of the taxable year after October 31 and without regard to any late-year ordinary loss (as defined in subsection (b)(8)(D)).” for “For purposes of applying this chapter to distributions made by a regulated investment company with respect to any calendar year, the earnings and profits of such company shall be determined without regard to any net capital loss (or net foreign currency loss) attributable to transactions after October 31 of such year, without regard to any net reduction in the value of any stock of a passive foreign investment company with respect to which an election under section 1296(k) is in effect occurring after October 31 of such year, and with such other adjustments as the Secretary may by regulations prescribe.”
 
-Subsec. (c)(4). Pub. L. 111–325, § 302(b)(1), added par. (4).
+Subsec. (c)(4). Pub. L. 111–325, § 302(b)(1), added par. (4).
 
-Subsec. (f)(1)(C). Pub. L. 111–325, § 502(a), substituted “acquires, during the period beginning on the date of the disposition referred to in subparagraph (B) and ending on January 31 of the calendar year following the calendar year that includes the date of such disposition,” for “subsequently acquires”.
+Subsec. (f)(1)(C). Pub. L. 111–325, § 502(a), substituted “acquires, during the period beginning on the date of the disposition referred to in subparagraph (B) and ending on January 31 of the calendar year following the calendar year that includes the date of such disposition,” for “subsequently acquires”.
 
-Subsec. (g). Pub. L. 111–325, § 303(a), added subsec. (g).
+Subsec. (g). Pub. L. 111–325, § 303(a), added subsec. (g).
 
 2007—Subsec. (b)(4)(C). Pub. L. 110–172 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer has held any share of stock; except that ‘6 months’ shall be substituted for each number of days specified in subparagraph (B) of section 246(c)(3).”
 
 2006—Subsec. (b)(3)(E). Pub. L. 109–222 added subpar. (E).
 
-1999—Subsec. (c)(3). Pub. L. 106–170, § 566(a)(1), added par. (3).
+1999—Subsec. (c)(3). Pub. L. 106–170, § 566(a)(1), added par. (3).
 
-Subsec. (e)(1). Pub. L. 106–170, § 566(c), inserted at end “If the determination under subparagraph (A) is solely as a result of the failure to meet the requirements of subsection (a)(2), the preceding sentence shall also apply for purposes of applying subsection (a)(2) to the non-RIC year and the amount referred to in paragraph (2)(A)(i) shall be the portion of the accumulated earnings and profits which resulted in such failure.”
+Subsec. (e)(1). Pub. L. 106–170, § 566(c), inserted at end “If the determination under subparagraph (A) is solely as a result of the failure to meet the requirements of subsection (a)(2), the preceding sentence shall also apply for purposes of applying subsection (a)(2) to the non-RIC year and the amount referred to in paragraph (2)(A)(i) shall be the portion of the accumulated earnings and profits which resulted in such failure.”
 
-1997—Subsec. (b)(3)(D)(iii). Pub. L. 105–34, § 1254(b)(2), substituted “by the difference between the amount of such includible gains and the tax deemed paid by such shareholder in respect of such shares under clause (ii).” for “by 65 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a).”
+1997—Subsec. (b)(3)(D)(iii). Pub. L. 105–34, § 1254(b)(2), substituted “by the difference between the amount of such includible gains and the tax deemed paid by such shareholder in respect of such shares under clause (ii).” for “by 65 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a).”
 
-Subsec. (b)(10). Pub. L. 105–34, § 1122(c)(2), added par. (10).
+Subsec. (b)(10). Pub. L. 105–34, § 1122(c)(2), added par. (10).
 
-Subsec. (c)(2). Pub. L. 105–34, § 1122(c)(3), inserted “, without regard to any net reduction in the value of any stock of a passive foreign investment company with respect to which an election under section 1296(k) is in effect occurring after October 31 of such year,” after “October 31 of such year”.
+Subsec. (c)(2). Pub. L. 105–34, § 1122(c)(3), inserted “, without regard to any net reduction in the value of any stock of a passive foreign investment company with respect to which an election under section 1296(k) is in effect occurring after October 31 of such year,” after “October 31 of such year”.
 
 1996—Subsec. (b)(5)(C). Pub. L. 104–188 struck out subpar. (C). Prior to amendment, subpar. (C) read as follows:
 
@@ -879,143 +879,143 @@ Subsec. (c)(2). Pub. L. 105–34, § 1122(c)(3), inserted “, without regar
 
 1993—Subsec. (b)(3)(D)(iii). Pub. L. 103–66 substituted “65 percent” for “66 percent”.
 
-1989—Subsec. (b)(9). Pub. L. 101–239, § 7204(c)(1), added par. (9).
+1989—Subsec. (b)(9). Pub. L. 101–239, § 7204(c)(1), added par. (9).
 
-Subsec. (f). Pub. L. 101–239, § 7204(b)(1), added subsec. (f).
+Subsec. (f). Pub. L. 101–239, § 7204(b)(1), added subsec. (f).
 
-1988—Subsec. (a). Pub. L. 100–647, § 1006(*l*)(8), inserted at end “The Secretary may waive the requirements of paragraph (1) for any taxable year if the regulated investment company establishes to the satisfaction of the Secretary that it was unable to meet such requirements by reason of distributions previously made to meet the requirements of section 4982.”
+1988—Subsec. (a). Pub. L. 100–647, § 1006(*l*)(8), inserted at end “The Secretary may waive the requirements of paragraph (1) for any taxable year if the regulated investment company establishes to the satisfaction of the Secretary that it was unable to meet such requirements by reason of distributions previously made to meet the requirements of section 4982.”
 
-Subsec. (b)(3)(C). Pub. L. 100–647, § 1006(*l*)(4), substituted “net capital loss or net long-term capital loss” for “net capital loss” in two places in third sentence, and “computing the taxable income of the regulated investment company” for “computing regulated investment company taxable income” in fourth sentence.
+Subsec. (b)(3)(C). Pub. L. 100–647, § 1006(*l*)(4), substituted “net capital loss or net long-term capital loss” for “net capital loss” in two places in third sentence, and “computing the taxable income of the regulated investment company” for “computing regulated investment company taxable income” in fourth sentence.
 
-Subsec. (b)(5)(C). Pub. L. 100–647, § 1011B(h)(4), substituted “section” for “paragraph”.
+Subsec. (b)(5)(C). Pub. L. 100–647, § 1011B(h)(4), substituted “section” for “paragraph”.
 
-Subsec. (b)(6). Pub. L. 100–647, § 1006(*l*)(1)(A), redesignated par. (6), relating to time certain dividends are taken into account, as (7).
+Subsec. (b)(6). Pub. L. 100–647, § 1006(*l*)(1)(A), redesignated par. (6), relating to time certain dividends are taken into account, as (7).
 
-Subsec. (b)(7). Pub. L. 100–647, § 1006(*l*)(9), substituted “in October, November, or December” for “in December” and “in such a month” for “in such month”, in introductory text, “on December 31 of such calendar year” for “on such date” in subpars. (A) an (B), and “during January” for “before February 1” in last sentence.
+Subsec. (b)(7). Pub. L. 100–647, § 1006(*l*)(9), substituted “in October, November, or December” for “in December” and “in such a month” for “in such month”, in introductory text, “on December 31 of such calendar year” for “on such date” in subpars. (A) an (B), and “during January” for “before February 1” in last sentence.
 
-Pub. L. 100–647, § 1006(*l*)(1)(A), redesignated par. (6), relating to time certain dividends are taken into account, as (7).
+Pub. L. 100–647, § 1006(*l*)(1)(A), redesignated par. (6), relating to time certain dividends are taken into account, as (7).
 
-Subsec. (b)(8). Pub. L. 100–647, § 1006(*l*)(7), added par. (8).
+Subsec. (b)(8). Pub. L. 100–647, § 1006(*l*)(7), added par. (8).
 
-Subsec. (c)(2). Pub. L. 100–647, § 1006(*l*)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A regulated investment company shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividend by such company. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the company exceeds the required distribution for such calendar year (as determined under section 4982).”
+Subsec. (c)(2). Pub. L. 100–647, § 1006(*l*)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A regulated investment company shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividend by such company. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the company exceeds the required distribution for such calendar year (as determined under section 4982).”
 
-Subsec. (e)(1). Pub. L. 100–647, §§ 1006(*l*)(10), 1018(p), amended par. (1) identically, substituting “subsection (a)(2)” for “subsection (a)(3)” in last sentence.
+Subsec. (e)(1). Pub. L. 100–647, §§ 1006(*l*)(10), 1018(p), amended par. (1) identically, substituting “subsection (a)(2)” for “subsection (a)(3)” in last sentence.
 
-1986—Subsec. (a)(2), (3). Pub. L. 99–514, § 1878(j)(1), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the investment company complies for such year with regulations prescribed by the Secretary for the purpose of ascertaining the actual ownership of its outstanding stock, and”.
+1986—Subsec. (a)(2), (3). Pub. L. 99–514, § 1878(j)(1), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the investment company complies for such year with regulations prescribed by the Secretary for the purpose of ascertaining the actual ownership of its outstanding stock, and”.
 
-Subsec. (b)(1). Pub. L. 99–514, § 1878(j)(2), substituted last sentence for former last sentence which read as follows: “In the case of a regulated investment company which is a personal holding company (as defined in section 542), that tax shall be computed at the highest rate of tax specified in section 11(b).”
+Subsec. (b)(1). Pub. L. 99–514, § 1878(j)(2), substituted last sentence for former last sentence which read as follows: “In the case of a regulated investment company which is a personal holding company (as defined in section 542), that tax shall be computed at the highest rate of tax specified in section 11(b).”
 
-Subsec. (b)(3)(C). Pub. L. 99–514, § 655(a)(1), substituted “60 days” for “45 days”.
+Subsec. (b)(3)(C). Pub. L. 99–514, § 655(a)(1), substituted “60 days” for “45 days”.
 
-Pub. L. 99–514, § 651(b)(3), inserted provision for determination of the amount of the net capital gain for a taxable year (to which an election under section 4982(e)(4) does not apply) and made such provision applicable also for purposes of computing regulated investment company taxable income.
+Pub. L. 99–514, § 651(b)(3), inserted provision for determination of the amount of the net capital gain for a taxable year (to which an election under section 4982(e)(4) does not apply) and made such provision applicable also for purposes of computing regulated investment company taxable income.
 
-Subsec. (b)(3)(D)(i). Pub. L. 99–514, § 655(a)(1), substituted “60 days” for “45 days”.
+Subsec. (b)(3)(D)(i). Pub. L. 99–514, § 655(a)(1), substituted “60 days” for “45 days”.
 
-Subsec. (b)(3)(D)(iii). Pub. L. 99–514, § 311(b)(1), substituted “66 percent” for “72 percent”.
+Subsec. (b)(3)(D)(iii). Pub. L. 99–514, § 311(b)(1), substituted “66 percent” for “72 percent”.
 
-Subsec. (b)(4). Pub. L. 99–514, § 1804(c)(5), substituted “6 months or less” for “less than 31 days” in heading.
+Subsec. (b)(4). Pub. L. 99–514, § 1804(c)(5), substituted “6 months or less” for “less than 31 days” in heading.
 
-Subsec. (b)(4)(B)(ii). Pub. L. 99–514, § 1804(c)(1), substituted “6 months or less” for “less than 31 days”.
+Subsec. (b)(4)(B)(ii). Pub. L. 99–514, § 1804(c)(1), substituted “6 months or less” for “less than 31 days”.
 
-Subsec. (b)(4)(C). Pub. L. 99–514, § 1804(c)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer held any share of stock; except that for the number of days specified in subparagraph (B) of section 246(c)(3) there shall be substituted—
+Subsec. (b)(4)(C). Pub. L. 99–514, § 1804(c)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer held any share of stock; except that for the number of days specified in subparagraph (B) of section 246(c)(3) there shall be substituted—
 
 “(i) ‘6 months’ for purposes of subparagraph (A), and
 
 “(ii) ‘30 days’ for purposes of subparagraph (B).”
 
-Subsec. (b)(4)(D). Pub. L. 99–514, § 1804(c)(3), substituted “subparagraphs (A) and (B)” for “subparagraph (A)”.
+Subsec. (b)(4)(D). Pub. L. 99–514, § 1804(c)(3), substituted “subparagraphs (A) and (B)” for “subparagraph (A)”.
 
-Subsec. (b)(4)(E). Pub. L. 99–514, § 1804(c)(4), added subpar. (E).
+Subsec. (b)(4)(E). Pub. L. 99–514, § 1804(c)(4), added subpar. (E).
 
-Subsec. (b)(5)(A). Pub. L. 99–514, § 655(a)(2), substituted “60 days” for “45 days”.
+Subsec. (b)(5)(A). Pub. L. 99–514, § 655(a)(2), substituted “60 days” for “45 days”.
 
-Subsec. (b)(5)(C). Pub. L. 99–514, § 1173(b)(1)(B), added subpar. (C).
+Subsec. (b)(5)(C). Pub. L. 99–514, § 1173(b)(1)(B), added subpar. (C).
 
-Subsec. (b)(6). Pub. L. 99–514, § 651(b)(1)(A), added par. (6) relating to time certain dividends are taken into account.
+Subsec. (b)(6). Pub. L. 99–514, § 651(b)(1)(A), added par. (6) relating to time certain dividends are taken into account.
 
-Pub. L. 99–514, § 631(e)(11), added par. (6) relating to inapplicability of section 311(b) to certain distributions.
+Pub. L. 99–514, § 631(e)(11), added par. (6) relating to inapplicability of section 311(b) to certain distributions.
 
-Subsec. (c). Pub. L. 99–514, § 651(b)(2), amended subsec. (c) generally, designating existing provisions as par. (1), inserting heading, and adding par. (2).
+Subsec. (c). Pub. L. 99–514, § 651(b)(2), amended subsec. (c) generally, designating existing provisions as par. (1), inserting heading, and adding par. (2).
 
-Subsec. (e)(3)(A). Pub. L. 99–514, § 1511(c)(6), substituted “the underpayment rate established under section 6621” for “the annual rate established under section 6621”.
+Subsec. (e)(3)(A). Pub. L. 99–514, § 1511(c)(6), substituted “the underpayment rate established under section 6621” for “the annual rate established under section 6621”.
 
-1984—Subsec. (a)(3). Pub. L. 98–369, § 1071(a)(3), added par. (3).
+1984—Subsec. (a)(3). Pub. L. 98–369, § 1071(a)(3), added par. (3).
 
-Subsec. (b)(1). Pub. L. 98–369, § 1071(a)(2), inserted provision that in the case of a regulated investment company which is a personal holding company (as defined in section 542), that tax shall be computed at the highest rate of tax specified in section 11.
+Subsec. (b)(1). Pub. L. 98–369, § 1071(a)(2), inserted provision that in the case of a regulated investment company which is a personal holding company (as defined in section 542), that tax shall be computed at the highest rate of tax specified in section 11.
 
-Subsec. (b)(2)(F). Pub. L. 98–369, § 1071(b)(1), added subpar. (F).
+Subsec. (b)(2)(F). Pub. L. 98–369, § 1071(b)(1), added subpar. (F).
 
-Subsec. (b)(3)(B). Pub. L. 98–369, § 1001(b)(11), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+Subsec. (b)(3)(B). Pub. L. 98–369, § 1001(b)(11), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-Subsec. (b)(4)(A)(i). Pub. L. 98–369, § 55(a)(1), substituted “subparagraph (B) or (D) of paragraph (3) provides that any amount with respect to any share is to be treated as long-term capital gain” for “under subparagraph (B) or (D) of paragraph (3) a shareholder of a regulated investment company is required, with respect to any share, to treat any amount as a long-term capital gain”.
+Subsec. (b)(4)(A)(i). Pub. L. 98–369, § 55(a)(1), substituted “subparagraph (B) or (D) of paragraph (3) provides that any amount with respect to any share is to be treated as long-term capital gain” for “under subparagraph (B) or (D) of paragraph (3) a shareholder of a regulated investment company is required, with respect to any share, to treat any amount as a long-term capital gain”.
 
-Subsec. (b)(4)(A)(ii). Pub. L. 98–369, § 55(a)(1), substituted “6 months or less” for “less than 31 days”.
+Subsec. (b)(4)(A)(ii). Pub. L. 98–369, § 55(a)(1), substituted “6 months or less” for “less than 31 days”.
 
-Subsec. (b)(4)(C). Pub. L. 98–369, § 55(a)(2), substituted “the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer held any share of stock;” for “the rules of section 246(c)(3) shall apply in determining whether any share of stock has been held for less than 31 days;” and substituted provisions dealing with the applicable number of days for former provisions which set forth different applicable days.
+Subsec. (b)(4)(C). Pub. L. 98–369, § 55(a)(2), substituted “the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer held any share of stock;” for “the rules of section 246(c)(3) shall apply in determining whether any share of stock has been held for less than 31 days;” and substituted provisions dealing with the applicable number of days for former provisions which set forth different applicable days.
 
-Subsec. (b)(4)(D). Pub. L. 98–369, § 55(a)(3), added subpar. (D).
+Subsec. (b)(4)(D). Pub. L. 98–369, § 55(a)(3), added subpar. (D).
 
-Subsec. (e). Pub. L. 98–369, § 1071(a)(4), added subsec. (e).
+Subsec. (e). Pub. L. 98–369, § 1071(a)(4), added subsec. (e).
 
 1983—Subsec. (b)(5). Pub. L. 97–424 substituted “section 103(a)” for “section 103(a)(1)” wherever appearing.
 
 1980—Subsec. (b)(3)(D)(iii). Pub. L. 96–222 substituted “72 percent” for “70 percent”.
 
-1978—Subsec. (b)(1). Pub. L. 95–600, § 301(b)(11), substituted “a tax” for “a normal tax and surtax”.
+1978—Subsec. (b)(1). Pub. L. 95–600, § 301(b)(11), substituted “a tax” for “a normal tax and surtax”.
 
-Subsec. (b)(3)(C). Pub. L. 95–600, § 362(c), inserted “, except that, if there is an increase in the excess described in subparagraph (A) of this paragraph for such year which results from a determination (as defined in section 860(e)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination” after “amount so designated”.
+Subsec. (b)(3)(C). Pub. L. 95–600, § 362(c), inserted “, except that, if there is an increase in the excess described in subparagraph (A) of this paragraph for such year which results from a determination (as defined in section 860(e)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination” after “amount so designated”.
 
-Subsec. (b)(4). Pub. L. 95–600, § 701(s)(2), designated first sentence, including subpars. (A) and (B), as subpar. (A), cls. (i) and (ii); added subpar. (A) heading and substituted “shall, to the extent of the amount described in clause (i), be treated as a long-term capital loss” for “shall, to the extent of the amount described in subparagraph (A) of this paragraph, be treated as loss from the sale or exchange of a capital asset held for more than 1 year”; added subpar. (B); and designated second sentence as subpar. (C).
+Subsec. (b)(4). Pub. L. 95–600, § 701(s)(2), designated first sentence, including subpars. (A) and (B), as subpar. (A), cls. (i) and (ii); added subpar. (A) heading and substituted “shall, to the extent of the amount described in clause (i), be treated as a long-term capital loss” for “shall, to the extent of the amount described in subparagraph (A) of this paragraph, be treated as loss from the sale or exchange of a capital asset held for more than 1 year”; added subpar. (B); and designated second sentence as subpar. (C).
 
-1976—Subsec. (a)(1). Pub. L. 94–455, §§ 1901(b)(6)(B), 2137(a), designated existing provisions as introductory material and subpar. (A) and added subpar. (B).
+1976—Subsec. (a)(1). Pub. L. 94–455, §§ 1901(b)(6)(B), 2137(a), designated existing provisions as introductory material and subpar. (A) and added subpar. (B).
 
-Subsec. (a)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (a)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(1). Pub. L. 94–455, § 1901(b)(1)(V), struck out provision relating to the computation of the normal tax under section 11 of this title.
+Subsec. (b)(1). Pub. L. 94–455, § 1901(b)(1)(V), struck out provision relating to the computation of the normal tax under section 11 of this title.
 
-Subsec. (b)(2)(A). Pub. L. 94–455, § 1901(b)(33)(I), substituted “the amount of the net capital gain, if any” for “the excess, if any, of the net long-term capital gain over the short-term capital loss”.
+Subsec. (b)(2)(A). Pub. L. 94–455, § 1901(b)(33)(I), substituted “the amount of the net capital gain, if any” for “the excess, if any, of the net long-term capital gain over the short-term capital loss”.
 
-Subsec. (b)(2)(D). Pub. L. 94–455, § 2137(b), inserted reference to exempt-interest dividends.
+Subsec. (b)(2)(D). Pub. L. 94–455, § 2137(b), inserted reference to exempt-interest dividends.
 
-Subsec. (b)(3)(A). Pub. L. 94–455, § 1901(b)(33)(J)(i), among other changes, struck out reference to the sum of the net short-term capital loss.
+Subsec. (b)(3)(A). Pub. L. 94–455, § 1901(b)(33)(J)(i), among other changes, struck out reference to the sum of the net short-term capital loss.
 
-Subsec. (b)(3)(B). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
+Subsec. (b)(3)(B). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-Pub. L. 94–455, § 1402(b)(1)(N), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+Pub. L. 94–455, § 1402(b)(1)(N), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (b)(3)(C). Pub. L. 94–455, § 1901(a)(110)(A), (b)(33)(J)(ii), substituted “net capital gain” for “excess of the net long-term capital gain over the net short-term capital loss” in two places and struck out provision requiring for purpose of the deduction for capital gains dividends paid, the deductions shall in the case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
+Subsec. (b)(3)(C). Pub. L. 94–455, § 1901(a)(110)(A), (b)(33)(J)(ii), substituted “net capital gain” for “excess of the net long-term capital gain over the net short-term capital loss” in two places and struck out provision requiring for purpose of the deduction for capital gains dividends paid, the deductions shall in the case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
 
-Subsec. (b)(3)(D)(iii). Pub. L. 94–455, § 1901(a)(110)(B)(i), struck out “by 75 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(A) and” after “his long term capital gains,” and “(72 percent in the case of a taxable year beginning after December 31, 1969, and before January 1, 1971)” after “by 70 percent” and substituted “section 1201(a)” for “section 1201(a)(1)(B) or (2)”.
+Subsec. (b)(3)(D)(iii). Pub. L. 94–455, § 1901(a)(110)(B)(i), struck out “by 75 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(A) and” after “his long term capital gains,” and “(72 percent in the case of a taxable year beginning after December 31, 1969, and before January 1, 1971)” after “by 70 percent” and substituted “section 1201(a)” for “section 1201(a)(1)(B) or (2)”.
 
-Subsec. (b)(3)(D)(v). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(3)(D)(v). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (b)(4). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
+Subsec. (b)(4). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-Pub. L. 94–455, § 1402(b)(1)(N), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+Pub. L. 94–455, § 1402(b)(1)(N), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (b)(5). Pub. L. 94–455, § 2137(c), added par. (5).
+Subsec. (b)(5). Pub. L. 94–455, § 2137(c), added par. (5).
 
-Subsec. (d). Pub. L. 94–455, § 1901(a)(110)(C), (b)(33)(N), inserted in par. (1) “(15 U.S.C. 80a–1 and following)” after “Investment company Act of 1940” and substituted in provision following par. (2) “capital gain net income” for “net capital gain”.
+Subsec. (d). Pub. L. 94–455, § 1901(a)(110)(C), (b)(33)(N), inserted in par. (1) “(15 U.S.C. 80a–1 and following)” after “Investment company Act of 1940” and substituted in provision following par. (2) “capital gain net income” for “net capital gain”.
 
-1969—Subsec. (b)(3)(A). Pub. L. 91–172, § 511(c)(2)(A), substituted “determined as provided in section 1201(a), on” for “of 25 percent of”.
+1969—Subsec. (b)(3)(A). Pub. L. 91–172, § 511(c)(2)(A), substituted “determined as provided in section 1201(a), on” for “of 25 percent of”.
 
-Subsec. (b)(3)(C). Pub. L. 91–172, § 511(c)(2)(B), inserted provision requiring for the purposes of the deduction for capital gains dividends paid the deduction shall, in the case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
+Subsec. (b)(3)(C). Pub. L. 91–172, § 511(c)(2)(B), inserted provision requiring for the purposes of the deduction for capital gains dividends paid the deduction shall, in the case of a taxable year beginning before Jan. 1, 1975, first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
 
-Subsec. (b)(3)(D). Pub. L. 91–172, § 511(c)(2)(C), (D), struck out “of 25 percent” in cl. (ii), substituted reference in cl. (iii) to the increase of the adjusted basis of shares in the hands of the shareholder, with respect to the amounts required by this subpar., by 75 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(A) and by 70 percent (72 percent in the case of a taxable year beginning after Dec. 31, 1969, and before Jan. 1, 1971) of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(B) or (2), for reference to the increase of the adjusted basis of shares in the hand of the shareholder by 75 percent of the amounts required by this subpar. to be included in computing his long-term capital gains.
+Subsec. (b)(3)(D). Pub. L. 91–172, § 511(c)(2)(C), (D), struck out “of 25 percent” in cl. (ii), substituted reference in cl. (iii) to the increase of the adjusted basis of shares in the hands of the shareholder, with respect to the amounts required by this subpar., by 75 percent of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(A) and by 70 percent (72 percent in the case of a taxable year beginning after Dec. 31, 1969, and before Jan. 1, 1971) of so much of such amounts as equals the amount subject to tax in accordance with section 1201(a)(1)(B) or (2), for reference to the increase of the adjusted basis of shares in the hand of the shareholder by 75 percent of the amounts required by this subpar. to be included in computing his long-term capital gains.
 
-1964—Subsec. (b)(3)(C), (D)(i). Pub. L. 88–272, § 229(a)(1), (2), substituted “45 days” for “30 days”.
+1964—Subsec. (b)(3)(C), (D)(i). Pub. L. 88–272, § 229(a)(1), (2), substituted “45 days” for “30 days”.
 
-Subsec. (d). Pub. L. 88–272, § 229(b), added subsec. (d).
+Subsec. (d). Pub. L. 88–272, § 229(b), added subsec. (d).
 
-1960—Subsec. (a). Pub. L. 86–779, § 10(b)(2), substituted “this part” for “this subchapter”.
+1960—Subsec. (a). Pub. L. 86–779, § 10(b)(2), substituted “this part” for “this subchapter”.
 
-Subsec. (b)(3)(C). Pub. L. 86–779, § 10(b)(3), substituted “For purposes of this part, a capital gain dividend is” for “A capital gain dividend means”.
+Subsec. (b)(3)(C). Pub. L. 86–779, § 10(b)(3), substituted “For purposes of this part, a capital gain dividend is” for “A capital gain dividend means”.
 
-1958—Subsec. (a). Pub. L. 85–866, § 101(a), inserted “(other than subsection (c) of this section)”.
+1958—Subsec. (a). Pub. L. 85–866, § 101(a), inserted “(other than subsection (c) of this section)”.
 
-Subsec. (b)(4). Pub. L. 85–866, § 39(a), added par. (4).
+Subsec. (b)(4). Pub. L. 85–866, § 39(a), added par. (4).
 
-Subsec. (c). Pub. L. 85–866, § 101(b), inserted sentence defining regulated investment company.
+Subsec. (c). Pub. L. 85–866, § 101(b), inserted sentence defining regulated investment company.
 
 1956—Subsec. (b)(3)(D). Act July 11, 1956, added subpar. (D).
 
@@ -1027,7 +1027,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–295, div. A, title II, § 205(f), Dec. 19, 2014, 128 Stat. 4027, provided that:
+Pub. L. 113–295, div. A, title II, § 205(f), Dec. 19, 2014, 128 Stat. 4027, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section, sections 851, 855, and 4982 of this title, and provisions set out as a note under section 1212 of this title] shall take effect as if included in the provision of the Regulated Investment Company Modernization Act of 2010 [Pub. L. 111–325] to which they relate.
 
@@ -1037,31 +1037,31 @@ Pub. L. 113–295, div. A, title II, § 205(f), Dec. 19, 2014, 128 Stat. 4027,
 
 Amendment by section 201(c) of Pub. L. 111–325 applicable to taxable years with respect to which the due date (determined with regard to any extensions) of the return of tax for such taxable year is after Dec. 22, 2010, see section 201(d) of Pub. L. 111–325, set out as a note under section 851 of this title.
 
-Pub. L. 111–325, title III, § 301(h), Dec. 22, 2010, 124 Stat. 3547, provided that: “The amendments made by this section [amending this section and sections 853, 853A, 854, 855, 860, and 871 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
+Pub. L. 111–325, title III, § 301(h), Dec. 22, 2010, 124 Stat. 3547, provided that: “The amendments made by this section [amending this section and sections 853, 853A, 854, 855, 860, and 871 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
 
-Pub. L. 111–325, title III, § 302(c), Dec. 22, 2010, 124 Stat. 3548, provided that: “The amendments made by this section [amending this section and section 871 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
+Pub. L. 111–325, title III, § 302(c), Dec. 22, 2010, 124 Stat. 3548, provided that: “The amendments made by this section [amending this section and section 871 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
 
-Pub. L. 111–325, title III, § 303(b), Dec. 22, 2010, 124 Stat. 3548, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
+Pub. L. 111–325, title III, § 303(b), Dec. 22, 2010, 124 Stat. 3548, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
 
-Pub. L. 111–325, title III, § 308(c), Dec. 22, 2010, 124 Stat. 3551, provided that: “The amendments made by this section [amending this section and section 871 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
+Pub. L. 111–325, title III, § 308(c), Dec. 22, 2010, 124 Stat. 3551, provided that: “The amendments made by this section [amending this section and section 871 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
 
-Pub. L. 111–325, title III, § 309(c), Dec. 22, 2010, 124 Stat. 3552, provided that: “The amendments made by this section [amending this section] shall apply to losses incurred on shares of stock for which the taxpayer’s holding period begins after the date of the enactment of this Act [Dec. 22, 2010].”
+Pub. L. 111–325, title III, § 309(c), Dec. 22, 2010, 124 Stat. 3552, provided that: “The amendments made by this section [amending this section] shall apply to losses incurred on shares of stock for which the taxpayer’s holding period begins after the date of the enactment of this Act [Dec. 22, 2010].”
 
-Pub. L. 111–325, title V, § 502(b), Dec. 22, 2010, 124 Stat. 3555, provided that: “The amendment made by this section [amending this section] shall apply to charges incurred in taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
+Pub. L. 111–325, title V, § 502(b), Dec. 22, 2010, 124 Stat. 3555, provided that: “The amendment made by this section [amending this section] shall apply to charges incurred in taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–222, title V, § 505(d), May 17, 2006, 120 Stat. 357, provided that: “The amendments made by this section [amending this section and sections 871, 897, and 1445 of this title] shall apply to taxable years of qualified investment entities beginning after December 31, 2005, except that no amount shall be required to be withheld under section 1441, 1442, or 1445 of the Internal Revenue Code of 1986 with respect to any distribution before the date of the enactment of this Act [May 17, 2006] if such amount was not otherwise required to be withheld under any such section as in effect before such amendments.”
+Pub. L. 109–222, title V, § 505(d), May 17, 2006, 120 Stat. 357, provided that: “The amendments made by this section [amending this section and sections 871, 897, and 1445 of this title] shall apply to taxable years of qualified investment entities beginning after December 31, 2005, except that no amount shall be required to be withheld under section 1441, 1442, or 1445 of the Internal Revenue Code of 1986 with respect to any distribution before the date of the enactment of this Act [May 17, 2006] if such amount was not otherwise required to be withheld under any such section as in effect before such amendments.”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–170, title V, § 566(d), Dec. 17, 1999, 113 Stat. 1950, provided that: “The amendments made by this section [amending this section and section 857 of this title] shall apply to distributions after December 31, 2000.”
+Pub. L. 106–170, title V, § 566(d), Dec. 17, 1999, 113 Stat. 1950, provided that: “The amendments made by this section [amending this section and section 857 of this title] shall apply to distributions after December 31, 2000.”
 
 **Effective Date of 1997 Amendment**
 
 Amendment by section 1122(c)(2), (3) of Pub. L. 105–34 applicable to taxable years of United States persons beginning after Dec. 31, 1997, and to taxable years of foreign corporations ending with or within such taxable years of United States persons, see section 1124 of Pub. L. 105–34, set out as a note under section 532 of this title.
 
-Pub. L. 105–34, title XII, § 1263, Aug. 5, 1997, 111 Stat. 1036, provided that: “The amendments made by this part [probably means subtitle D (§§ 1251–1263) of title XII of Pub. L. 105–34, amending this section and sections 856 and 857 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title XII, § 1263, Aug. 5, 1997, 111 Stat. 1036, provided that: “The amendments made by this part [probably means subtitle D (§§ 1251–1263) of title XII of Pub. L. 105–34, amending this section and sections 856 and 857 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1996 Amendment**
 
@@ -1073,13 +1073,13 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning on or after 
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title VII, § 7204(b)(2), Dec. 19, 1989, 103 Stat. 2335, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to charges incurred after October 3, 1989, in taxable years ending after such date.”
+Pub. L. 101–239, title VII, § 7204(b)(2), Dec. 19, 1989, 103 Stat. 2335, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to charges incurred after October 3, 1989, in taxable years ending after such date.”
 
-Pub. L. 101–239, title VII, § 7204(c)(2), Dec. 19, 1989, 103 Stat. 2335, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to dividends in cases where the stock becomes ex-dividend after the date of the enactment of this Act [Dec. 19, 1989].”
+Pub. L. 101–239, title VII, § 7204(c)(2), Dec. 19, 1989, 103 Stat. 2335, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to dividends in cases where the stock becomes ex-dividend after the date of the enactment of this Act [Dec. 19, 1989].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1006(*l*)(9), Nov. 10, 1988, 102 Stat. 3414, provided that the amendment made by that section is effective with respect to dividends declared in 1988 and subsequent calendar years.
+Pub. L. 100–647, title I, § 1006(*l*)(9), Nov. 10, 1988, 102 Stat. 3414, provided that the amendment made by that section is effective with respect to dividends declared in 1988 and subsequent calendar years.
 
 Amendment by sections 1006(*l*)(1)(A), (3), (4), (7), (8), (10), 1011B(h)(4), and 1018(p) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -1091,23 +1091,23 @@ Amendment by section 631(e)(11) of Pub. L. 99–514 applicable to any distributi
 
 Amendment by section 651(b)(1)(A), (2), (3) of Pub. L. 99–514 applicable to calendar years beginning after Dec. 31, 1986, see section 651(d) of Pub. L. 99–514, set out as an Effective Date note under section 4982 of this title.
 
-Pub. L. 99–514, title VI, § 655(b), Oct. 22, 1986, 100 Stat. 2299, provided that: “The amendments made by subsection (a) [amending this section and sections 853 to 855 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 1986].”
+Pub. L. 99–514, title VI, § 655(b), Oct. 22, 1986, 100 Stat. 2299, provided that: “The amendments made by subsection (a) [amending this section and sections 853 to 855 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 1986].”
 
-Pub. L. 99–514, title XI, § 1173(c)(2)(A), Oct. 22, 1986, 100 Stat. 2516, provided that: “The amendments made by subsection (b)(1) [amending this section and former section 133 of this title] shall apply to loans used to acquire employer securities after the date of the enactment of this Act [Oct. 22, 1986], including loans used to refinance loans used to acquire employer securities before such date if such loans were used to acquire employer securities after May 23, 1984.”
+Pub. L. 99–514, title XI, § 1173(c)(2)(A), Oct. 22, 1986, 100 Stat. 2516, provided that: “The amendments made by subsection (b)(1) [amending this section and former section 133 of this title] shall apply to loans used to acquire employer securities after the date of the enactment of this Act [Oct. 22, 1986], including loans used to refinance loans used to acquire employer securities before such date if such loans were used to acquire employer securities after May 23, 1984.”
 
 Amendment by section 1511(c)(6) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
-Pub. L. 99–514, title XVIII, § 1804(c)(6), Oct. 22, 1986, 100 Stat. 2800, provided that: “The amendments made by this subsection [amending this section] shall apply to stock with respect to which the taxpayer’s holding period begins after March 28, 1985.”
+Pub. L. 99–514, title XVIII, § 1804(c)(6), Oct. 22, 1986, 100 Stat. 2800, provided that: “The amendments made by this subsection [amending this section] shall apply to stock with respect to which the taxpayer’s holding period begins after March 28, 1985.”
 
 Amendment by section 1878(j) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 55(c), July 18, 1984, 98 Stat. 572, provided that: “The amendments made by this section [amending this section and section 857 of this title] shall apply to losses incurred with respect to shares of stock and beneficial interests with respect to which the taxpayer’s holding period begins after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title I, § 55(c), July 18, 1984, 98 Stat. 572, provided that: “The amendments made by this section [amending this section and section 857 of this title] shall apply to losses incurred with respect to shares of stock and beneficial interests with respect to which the taxpayer’s holding period begins after the date of the enactment of this Act [July 18, 1984].”
 
 Amendment by section 1001(b)(11) of Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
-Pub. L. 98–369, div. A, title X, § 1071(a)(5), July 18, 1984, 98 Stat. 1051, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–369, div. A, title X, § 1071(a)(5), July 18, 1984, 98 Stat. 1051, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(A) In general.—** Except as otherwise provided in this paragraph, the amendments made by this subsection [amending this section and section 851 of this title] shall apply to taxable years beginning after December 31, 1982.
 
@@ -1123,13 +1123,13 @@ Pub. L. 98–369, div. A, title X, § 1071(a)(5), July 18, 1984, 98 Stat. 1051
 
 > **“(II)** sold substantially all of its operating assets, and
 
-> **“(III)** registered under the Investment Company Act of 1940 [15 U.S.C. § 80a–1 et seq.] as either a management company or a unit investment trust, and
+> **“(III)** registered under the Investment Company Act of 1940 [15 U.S.C. § 80a–1 et seq.] as either a management company or a unit investment trust, and
 
 > **“(ii)** to which the provisions of part I of subchapter M of chapter 1 of the Internal Revenue Code of 1986 applied for its first taxable year beginning after November 8, 1983,
 
 > for purposes of section 852(a)(3)(A) of such Code (as amended by paragraph (3)), the provisions of part I of subchapter M of chapter 1 of such Code shall be treated as applying to such investment company for its first taxable year ending after November 8, 1983. For purposes of the preceding sentence, all members of an affiliated group (as defined in section 1504(a) of such Code) filing a consolidated return shall be treated as 1 taxpayer.”
 
-Pub. L. 98–369, div. A, title X, § 1071(b)(2), July 18, 1984, 98 Stat. 1052 provided that: “The amendment made by paragraph (1) [amending this section] shall apply to taxable years beginning after December 31, 1978.”
+Pub. L. 98–369, div. A, title X, § 1071(b)(2), July 18, 1984, 98 Stat. 1052 provided that: “The amendment made by paragraph (1) [amending this section] shall apply to taxable years beginning after December 31, 1978.”
 
 **Effective Date of 1980 Amendment**
 
@@ -1145,23 +1145,23 @@ Amendment by section 701(s)(2) of Pub. L. 95–600 applicable to taxable years b
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
 Amendment by section 1901(a)(110)(A), (C), (b)(1)(V), (6)(B), (33)(I), (J), (N) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 2 of this title.
 
-Pub. L. 94–455, title XIX, § 1901(a)(110)(B)(ii), Oct. 4, 1976, 90 Stat. 1783, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by clause (i) [amending this section] shall not be considered to affect the amount of any increase in the basis of stock under the provisions of section 852(b)(3)(D)(iii) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] which is based upon amounts subject to tax under section 1201 of such Code [former section 1201 of this title] in taxable years beginning before January 1, 1975.”
+Pub. L. 94–455, title XIX, § 1901(a)(110)(B)(ii), Oct. 4, 1976, 90 Stat. 1783, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by clause (i) [amending this section] shall not be considered to affect the amount of any increase in the basis of stock under the provisions of section 852(b)(3)(D)(iii) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] which is based upon amounts subject to tax under section 1201 of such Code [former section 1201 of this title] in taxable years beginning before January 1, 1975.”
 
-Pub. L. 94–455, title XXI, § 2137(e), Oct. 4, 1976, 90 Stat. 1931, provided that: “The amendments made by this section [amending this section and sections 103 and 265 of this title] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title XXI, § 2137(e), Oct. 4, 1976, 90 Stat. 1931, provided that: “The amendments made by this section [amending this section and sections 103 and 265 of this title] shall apply to taxable years beginning after December 31, 1975.”
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title V, § 511(d), Dec. 30, 1969, 83 Stat. 638, provided that: “The amendments made by this section [amending this section and sections 802, 857, 1201, 1222, and 1378 of this title] shall apply to taxable years beginning after December 31, 1969.”
+Pub. L. 91–172, title V, § 511(d), Dec. 30, 1969, 83 Stat. 638, provided that: “The amendments made by this section [amending this section and sections 802, 857, 1201, 1222, and 1378 of this title] shall apply to taxable years beginning after December 31, 1969.”
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–272, title II, § 229(c), Feb. 26, 1964, 78 Stat. 99, provided that: “The amendments made by subsection (a) [amending this section and sections 853, 854, and 855 of this title] shall apply to taxable years of regulated investment companies ending on or after the date of the enactment of this Act [Feb. 26, 1964]. The amendment made by subsection (b) [amending this section] shall apply to taxable years of regulated investment companies ending after December 31, 1963.”
+Pub. L. 88–272, title II, § 229(c), Feb. 26, 1964, 78 Stat. 99, provided that: “The amendments made by subsection (a) [amending this section and sections 853, 854, and 855 of this title] shall apply to taxable years of regulated investment companies ending on or after the date of the enactment of this Act [Feb. 26, 1964]. The amendment made by subsection (b) [amending this section] shall apply to taxable years of regulated investment companies ending after December 31, 1963.”
 
 **Effective Date of 1960 Amendment**
 
@@ -1169,19 +1169,19 @@ Amendment of section by Pub. L. 86–779 applicable with respect to taxable year
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–866, title I, § 39(b), Sept. 2, 1958, 72 Stat. 1638, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to taxable years ending after December 31, 1957, but only with respect to shares of stock acquired after December 31, 1957.”
+Pub. L. 85–866, title I, § 39(b), Sept. 2, 1958, 72 Stat. 1638, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to taxable years ending after December 31, 1957, but only with respect to shares of stock acquired after December 31, 1957.”
 
-Pub. L. 85–866, title I, § 101(c), Sept. 2, 1958, 72 Stat. 1674, provided that: “The amendments made by this section [amending this section] shall apply with respect to taxable years of regulated investment companies beginning on or after March 1, 1958.”
+Pub. L. 85–866, title I, § 101(c), Sept. 2, 1958, 72 Stat. 1674, provided that: “The amendments made by this section [amending this section] shall apply with respect to taxable years of regulated investment companies beginning on or after March 1, 1958.”
 
 **Effective Date of 1956 Amendment**
 
-Act July 11, 1956, ch. 573, § 2(b), 70 Stat. 530, provided that: “The amendment made by this section [amending this section] shall apply only with respect to taxable years of regulated investment companies beginning after December 31, 1956.”
+Act July 11, 1956, ch. 573, § 2(b), 70 Stat. 530, provided that: “The amendment made by this section [amending this section] shall apply only with respect to taxable years of regulated investment companies beginning after December 31, 1956.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-### § 853. Foreign tax credit allowed to shareholders
+### § 853. Foreign tax credit allowed to shareholders
 
 **(a) General rule** A regulated investment company—
 
@@ -1227,23 +1227,23 @@ This section shall not apply to any tax with respect to which the regulated inve
 
 **(2)** For definition of foreign corporation, see section 7701(a)(5).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 272; Pub. L. 88–272, title II, § 229(a)(3), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, § 655(a)(3), Oct. 22, 1986, 100 Stat. 2299; Pub. L. 105–34, title X, § 1053(b), Aug. 5, 1997, 111 Stat. 943; Pub. L. 105–206, title VI, § 6010(k)(1), (2), July 22, 1998, 112 Stat. 815; Pub. L. 109–135, title IV, § 403(aa)(1), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 111–325, title III, § 301(c), Dec. 22, 2010, 124 Stat. 3544.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 272; Pub. L. 88–272, title II, § 229(a)(3), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, § 655(a)(3), Oct. 22, 1986, 100 Stat. 2299; Pub. L. 105–34, title X, § 1053(b), Aug. 5, 1997, 111 Stat. 943; Pub. L. 105–206, title VI, § 6010(k)(1), (2), July 22, 1998, 112 Stat. 815; Pub. L. 109–135, title IV, § 403(aa)(1), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 111–325, title III, § 301(c), Dec. 22, 2010, 124 Stat. 3544.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (c). Pub. L. 111–325, § 301(c)(1)(B), substituted “Statements” for “Notice” in heading.
+2010—Subsec. (c). Pub. L. 111–325, § 301(c)(1)(B), substituted “Statements” for “Notice” in heading.
 
-Pub. L. 111–325, § 301(c)(1)(A), which directed amendment by substituting “so reported by the company in a written statement furnished to such shareholder” for “so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of the taxable year”, was executed by making the substitution for “so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year” in concluding provisions to reflect the probable intent of Congress.
+Pub. L. 111–325, § 301(c)(1)(A), which directed amendment by substituting “so reported by the company in a written statement furnished to such shareholder” for “so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of the taxable year”, was executed by making the substitution for “so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year” in concluding provisions to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 111–325, § 301(c)(2), struck out “and notifying shareholders” after “election” in heading and “and the notice to shareholders required by subsection (c)” after “subsection (a)” in text.
+Subsec. (d). Pub. L. 111–325, § 301(c)(2), struck out “and notifying shareholders” after “election” in heading and “and the notice to shareholders required by subsection (c)” after “subsection (a)” in text.
 
 2005—Subsec. (e). Pub. L. 109–135 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “This section shall not apply to any tax with respect to which the regulated investment company is not allowed a credit under section 901 by reason of section 901(k).”
 
-1998—Subsec. (c). Pub. L. 105–206, § 6010(k)(2), struck out at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
+1998—Subsec. (c). Pub. L. 105–206, § 6010(k)(2), struck out at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
 
-Subsecs. (e), (f). Pub. L. 105–206, § 6010(k)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 105–206, § 6010(k)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1997—Subsec. (c). Pub. L. 105–34 inserted at end “Such notice shall also include the amount of such taxes which (without regard to the election under this section) would not be allowable as a credit under section 901(a) to the regulated investment company by reason of section 901(k).”
 
@@ -1269,7 +1269,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–34, title X, § 1053(c), Aug. 5, 1997, 111 Stat. 943, provided that: “The amendments made by this section [amending this section and section 901 of this title] shall apply to dividends paid or accrued more than 30 days after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–34, title X, § 1053(c), Aug. 5, 1997, 111 Stat. 943, provided that: “The amendments made by this section [amending this section and section 901 of this title] shall apply to dividends paid or accrued more than 30 days after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1986 Amendment**
 
@@ -1279,7 +1279,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Oct. 2
 
 Amendment by Pub. L. 88–272 applicable to taxable years of regulated investment companies ending on or after Feb. 26, 1964, see section 229(c) of Pub. L. 88–272, set out as a note under section 852 of this title.
 
-### § 853A. Credits from tax credit bonds allowed to shareholders
+### § 853A. Credits from tax credit bonds allowed to shareholders
 
 **(a) General rule** A regulated investment company—
 
@@ -1287,9 +1287,9 @@ Amendment by Pub. L. 88–272 applicable to taxable years of regulated investmen
 
 **(2)** which meets the requirements of section 852(a) for the taxable year (determined after the application of this section),
 
-may elect the application of this section with respect to some or all of the credits allowable (determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c)) 1
+may elect the application of this section with respect to some or all of the credits allowable (determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to the investment company during such taxable year with respect to such bonds.
 
@@ -1311,7 +1311,7 @@ to the investment company during such taxable year with respect to such bonds.
 
 **(B)** be allowed credits against the tax imposed by this chapter equal to the amount of such distribution, subject to the provisions of this title applicable to the credit involved.
 
-**(c) Statements 2 [footnote: 2 See 2010 Amendment note below.] to shareholders**
+**(c) Statements 2 [footnote: 2 See 2010 Amendment note below.] to shareholders**
 
 The amount treated as a distribution of money received by a shareholder under subsection (b)(2)(A) (and as credits allowed to such shareholder under subsection (b)(2)(B)) shall not exceed the amount so reported by the regulated investment company in a written statement furnished to such shareholder.
 
@@ -1327,7 +1327,7 @@ The election provided in subsection (a) shall be made in such manner as the Secr
 
 **(i)** a qualified tax credit bond (as defined in section 54A(d)),<sup>1</sup>
 
-**(ii)** a build America bond (as defined in section 54AA(d)) <sup>1</sup> other than a qualified bond described in section 54AA(g),<sup>1</sup> and
+**(ii)** a build America bond (as defined in section 54AA(d)) <sup>1</sup> other than a qualified bond described in section 54AA(g),<sup>1</sup> and
 
 **(iii)** any bond for which a credit is allowable under subpart H of part IV of subchapter A of this chapter.<sup>1</sup>
 
@@ -1345,27 +1345,27 @@ If the ownership of a tax credit bond is separated from the credit with respect 
 
 The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including methods for determining a shareholder’s proportionate share of credits.
 
-(Added Pub. L. 111–5, div. B, title I, § 1541(a), Feb. 17, 2009, 123 Stat. 360; amended Pub. L. 111–325, title III, § 301(d), Dec. 22, 2010, 124 Stat. 3544; Pub. L. 113–295, div. A, title II, § 209(h), Dec. 19, 2014, 128 Stat. 4029.)
+(Added Pub. L. 111–5, div. B, title I, § 1541(a), Feb. 17, 2009, 123 Stat. 360; amended Pub. L. 111–325, title III, § 301(d), Dec. 22, 2010, 124 Stat. 3544; Pub. L. 113–295, div. A, title II, § 209(h), Dec. 19, 2014, 128 Stat. 4029.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 54, 54A, and 54AA, referred to in subsecs. (a) and (e)(1), were repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
+Sections 54, 54A, and 54AA, referred to in subsecs. (a) and (e)(1), were repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
-Section 1397E, referred to in subsec. (a), was repealed by Pub. L. 115–97, title I, § 13404(c)(1), Dec. 22, 2017, 131 Stat. 2138.
+Section 1397E, referred to in subsec. (a), was repealed by Pub. L. 115–97, title I, § 13404(c)(1), Dec. 22, 2017, 131 Stat. 2138.
 
-Subpart H of part IV of subchapter A of this chapter, referred to in subsec. (e)(1)(A)(iii), is subpart H (§ 54) of part IV of subchapter A of chapter 1 of this title, which was repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
+Subpart H of part IV of subchapter A of this chapter, referred to in subsec. (e)(1)(A)(iii), is subpart H (§ 54) of part IV of subchapter A of chapter 1 of this title, which was repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–295, § 209(h)(2), in concluding provisions, substituted “with respect to some or all of the credits” for “with respect to credits” and inserted “(determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c))” after “credits allowable”.
+2014—Subsec. (a). Pub. L. 113–295, § 209(h)(2), in concluding provisions, substituted “with respect to some or all of the credits” for “with respect to credits” and inserted “(determined without regard to this section and sections 54(c), 54A(c)(1), 54AA(c)(1), and 1397E(c))” after “credits allowable”.
 
-Subsec. (a)(2). Pub. L. 113–295, § 209(h)(1), inserted “(determined after the application of this section)” before comma at end.
+Subsec. (a)(2). Pub. L. 113–295, § 209(h)(1), inserted “(determined after the application of this section)” before comma at end.
 
-Subsec. (b). Pub. L. 113–295, § 209(h)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to effects of elections under subsec. (a).
+Subsec. (b). Pub. L. 113–295, § 209(h)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to effects of elections under subsec. (a).
 
-Subsec. (c). Pub. L. 113–295, § 209(h)(4), amended subsec. (c) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As enacted by Pub. L. 111–5, § 1541(a), subsec. (c) read as follows: “Notice to Shareholders.—For purposes of subsection (b)(3), the shareholder’s proportionate share of—
+Subsec. (c). Pub. L. 113–295, § 209(h)(4), amended subsec. (c) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As enacted by Pub. L. 111–5, § 1541(a), subsec. (c) read as follows: “Notice to Shareholders.—For purposes of subsection (b)(3), the shareholder’s proportionate share of—
 
 “(1) credits described in subsection (a), and
 
@@ -1373,11 +1373,11 @@ Subsec. (c). Pub. L. 113–295, § 209(h)(4), amended subsec. (c) generally. T
 
 shall not exceed the amounts so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year.”
 
-Subsec. (e)(1)(A)(ii). Pub. L. 113–295, § 209(h)(5), inserted “other than a qualified bond described in section 54AA(g)” after “as defined in section 54AA(d))”.
+Subsec. (e)(1)(A)(ii). Pub. L. 113–295, § 209(h)(5), inserted “other than a qualified bond described in section 54AA(g)” after “as defined in section 54AA(d))”.
 
-2010—Subsec. (c). Pub. L. 111–325, § 301(d)(1), which directed substitution of “Statements” for “Notice” in heading and “so reported by the regulated investment company in a written statement furnished to such shareholder” for “so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year” in text, could not be executed to the text because the words “so reported by the regulated investment company in a written statement furnished to such shareholder” already appeared after the subsequent general amendment of subsec. (c) by Pub. L. 113–295 which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. However, the substitution was executed to the heading to reflect the probable intent of Congress. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
+2010—Subsec. (c). Pub. L. 111–325, § 301(d)(1), which directed substitution of “Statements” for “Notice” in heading and “so reported by the regulated investment company in a written statement furnished to such shareholder” for “so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year” in text, could not be executed to the text because the words “so reported by the regulated investment company in a written statement furnished to such shareholder” already appeared after the subsequent general amendment of subsec. (c) by Pub. L. 113–295 which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. However, the substitution was executed to the heading to reflect the probable intent of Congress. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
-Subsec. (d). Pub. L. 111–325, § 301(d)(2), struck out “and notifying shareholders” after “election” in heading and “and the notice to shareholders required by subsection (c)” after “subsection (a)” in text.
+Subsec. (d). Pub. L. 111–325, § 301(d)(2), struck out “and notifying shareholders” after “election” in heading and “and the notice to shareholders required by subsection (c)” after “subsection (a)” in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1391,9 +1391,9 @@ Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 
 
 **Effective Date**
 
-Pub. L. 111–5, div. B, title I, § 1541(c), Feb. 17, 2009, 123 Stat. 362, provided that: “The amendments made by this section [enacting this section and amending sections 54 and 54A of this title] shall apply to taxable years ending after the date of the enactment of this Act [Feb. 17, 2009].”
+Pub. L. 111–5, div. B, title I, § 1541(c), Feb. 17, 2009, 123 Stat. 362, provided that: “The amendments made by this section [enacting this section and amending sections 54 and 54A of this title] shall apply to taxable years ending after the date of the enactment of this Act [Feb. 17, 2009].”
 
-### § 854. Limitations applicable to dividends received from regulated investment company
+### § 854. Limitations applicable to dividends received from regulated investment company
 
 **(a) Capital gain dividend**
 
@@ -1469,71 +1469,71 @@ In determining the amount of any dividend for purposes of this paragraph, a divi
 
 For purposes of this subsection, the term “qualified dividend income” has the meaning given such term by section 1(h)(11)(B).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 273; Pub. L. 88–272, title II, §§ 201(d)(8)–(10), 229(a)(4), Feb. 26, 1964, 78 Stat. 32, 99; Pub. L. 96–223, title IV, § 404(b)(6), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, § 302(c)(4), (d)(1), Aug. 13, 1981, 95 Stat. 272, 274; Pub. L. 98–369, div. A, title I, §§ 16(a), 52(a)–(c), July 18, 1984, 98 Stat. 505, 564, 565; Pub. L. 99–514, title VI, §§ 612(b)(6), 655(a)(4), Oct. 22, 1986, 100 Stat. 2250, 2299; Pub. L. 100–203, title X, § 10221(d)(3), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, § 1006(b)(2), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 108–27, title III, § 302(c), May 28, 2003, 117 Stat. 762; Pub. L. 108–311, title IV, § 402(a)(5)(A)–(D), Oct. 4, 2004, 118 Stat. 1184; Pub. L. 111–325, title III, § 301(e), Dec. 22, 2010, 124 Stat. 3544.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 273; Pub. L. 88–272, title II, §§ 201(d)(8)–(10), 229(a)(4), Feb. 26, 1964, 78 Stat. 32, 99; Pub. L. 96–223, title IV, § 404(b)(6), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, § 302(c)(4), (d)(1), Aug. 13, 1981, 95 Stat. 272, 274; Pub. L. 98–369, div. A, title I, §§ 16(a), 52(a)–(c), July 18, 1984, 98 Stat. 505, 564, 565; Pub. L. 99–514, title VI, §§ 612(b)(6), 655(a)(4), Oct. 22, 1986, 100 Stat. 2250, 2299; Pub. L. 100–203, title X, § 10221(d)(3), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, § 1006(b)(2), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 108–27, title III, § 302(c), May 28, 2003, 117 Stat. 762; Pub. L. 108–311, title IV, § 402(a)(5)(A)–(D), Oct. 4, 2004, 118 Stat. 1184; Pub. L. 111–325, title III, § 301(e), Dec. 22, 2010, 124 Stat. 3544.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (b)(1)(A). Pub. L. 111–325, § 301(e)(1)(A), in concluding provisions, substituted “reported by the regulated investment company as eligible for such deduction in written statements furnished to its shareholders” for “designated under this subparagraph by the regulated investment company”.
+2010—Subsec. (b)(1)(A). Pub. L. 111–325, § 301(e)(1)(A), in concluding provisions, substituted “reported by the regulated investment company as eligible for such deduction in written statements furnished to its shareholders” for “designated under this subparagraph by the regulated investment company”.
 
-Subsec. (b)(1)(B)(i). Pub. L. 111–325, § 301(e)(1)(B), in concluding provisions, substituted “reported by the regulated investment company as qualified dividend income in written statements furnished to its shareholders” for “designated by the regulated investment company”.
+Subsec. (b)(1)(B)(i). Pub. L. 111–325, § 301(e)(1)(B), in concluding provisions, substituted “reported by the regulated investment company as qualified dividend income in written statements furnished to its shareholders” for “designated by the regulated investment company”.
 
-Subsec. (b)(1)(C)(i). Pub. L. 111–325, § 301(e)(1)(C), substituted “reported” for “designated”.
+Subsec. (b)(1)(C)(i). Pub. L. 111–325, § 301(e)(1)(C), substituted “reported” for “designated”.
 
-Subsec. (b)(1)(C)(ii). Pub. L. 111–325, § 301(e)(1)(D), substituted “reported” for “designated” in introductory provisions.
+Subsec. (b)(1)(C)(ii). Pub. L. 111–325, § 301(e)(1)(D), substituted “reported” for “designated” in introductory provisions.
 
-Subsec. (b)(2) to (5). Pub. L. 111–325, § 301(e)(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2). Prior to amendment, text read as follows: “The amount of any distribution by a regulated investment company which may be taken into account as qualified dividend income for purposes of section 1(h)(11) and as dividends for purposes of the deduction under section 243 shall not exceed the amount so designated by the company in a written notice to its shareholders mailed not later than 60 days after the close of its taxable year.”
+Subsec. (b)(2) to (5). Pub. L. 111–325, § 301(e)(2), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2). Prior to amendment, text read as follows: “The amount of any distribution by a regulated investment company which may be taken into account as qualified dividend income for purposes of section 1(h)(11) and as dividends for purposes of the deduction under section 243 shall not exceed the amount so designated by the company in a written notice to its shareholders mailed not later than 60 days after the close of its taxable year.”
 
-2004—Subsec. (b)(1)(B)(i). Pub. L. 108–311, § 402(a)(5)(A)(ii), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the maximum rate under section 1(h)(11), rules similar to the rules of subparagraph (A) shall apply.”
+2004—Subsec. (b)(1)(B)(i). Pub. L. 108–311, § 402(a)(5)(A)(ii), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the maximum rate under section 1(h)(11), rules similar to the rules of subparagraph (A) shall apply.”
 
-Subsec. (b)(1)(B)(iii), (iv). Pub. L. 108–311, § 402(a)(5)(A)(i), struck out cls. (iii) and (iv) which related to dividends from real estate investment trusts and dividends from qualified foreign corporations, respectively.
+Subsec. (b)(1)(B)(iii), (iv). Pub. L. 108–311, § 402(a)(5)(A)(i), struck out cls. (iii) and (iv) which related to dividends from real estate investment trusts and dividends from qualified foreign corporations, respectively.
 
-Subsec. (b)(1)(C). Pub. L. 108–311, § 402(a)(5)(B), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The aggregate amount which may be designated as dividends under subparagraph (A) or (B) shall not exceed the aggregate dividends received by the company for the taxable year.”
+Subsec. (b)(1)(C). Pub. L. 108–311, § 402(a)(5)(B), amended heading and text of subpar. (C) generally. Prior to amendment, text read as follows: “The aggregate amount which may be designated as dividends under subparagraph (A) or (B) shall not exceed the aggregate dividends received by the company for the taxable year.”
 
-Subsec. (b)(2). Pub. L. 108–311, § 402(a)(5)(C), substituted “as qualified dividend income for purposes of section 1(h)(11) and as dividends for purposes of” for “as a dividend for purposes of the maximum rate under section 1(h)(11) and”.
+Subsec. (b)(2). Pub. L. 108–311, § 402(a)(5)(C), substituted “as qualified dividend income for purposes of section 1(h)(11) and as dividends for purposes of” for “as a dividend for purposes of the maximum rate under section 1(h)(11) and”.
 
-Subsec. (b)(5). Pub. L. 108–311, § 402(a)(5)(D), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “For purposes of paragraph (1)(B), an amount shall be treated as a dividend only if the amount is qualified dividend income (within the meaning of section 1(h)(11)(B)).”
+Subsec. (b)(5). Pub. L. 108–311, § 402(a)(5)(D), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “For purposes of paragraph (1)(B), an amount shall be treated as a dividend only if the amount is qualified dividend income (within the meaning of section 1(h)(11)(B)).”
 
-2003—Subsec. (a). Pub. L. 108–27, § 302(c)(1), inserted “section 1(h)(11) (relating to maximum rate of tax on dividends) and” after “For purposes of”.
+2003—Subsec. (a). Pub. L. 108–27, § 302(c)(1), inserted “section 1(h)(11) (relating to maximum rate of tax on dividends) and” after “For purposes of”.
 
-Subsec. (b)(1)(B). Pub. L. 108–27, § 302(c)(2), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (b)(1)(B). Pub. L. 108–27, § 302(c)(2), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (b)(1)(C). Pub. L. 108–27, § 302(c)(2), (3), redesignated subpar. (B) as (C) and substituted “subparagraph (A) or (B)” for “subparagraph (A)”.
+Subsec. (b)(1)(C). Pub. L. 108–27, § 302(c)(2), (3), redesignated subpar. (B) as (C) and substituted “subparagraph (A) or (B)” for “subparagraph (A)”.
 
-Subsec. (b)(2). Pub. L. 108–27, § 302(c)(4), inserted “the maximum rate under section 1(h)(11) and” after “for purposes of”.
+Subsec. (b)(2). Pub. L. 108–27, § 302(c)(4), inserted “the maximum rate under section 1(h)(11) and” after “for purposes of”.
 
-Subsec. (b)(5). Pub. L. 108–27, § 302(c)(5), added par. (5).
+Subsec. (b)(5). Pub. L. 108–27, § 302(c)(5), added par. (5).
 
 1988—Subsec. (b)(3). Pub. L. 100–647 substituted “Aggregate dividends” for “Definitions” in heading and amended text generally, substituting subpars. (A) to (C) for former subpars. (A) and (B).
 
 1987—Subsec. (b)(1)(A). Pub. L. 100–203 inserted “and such dividend shall be treated as received from a corporation which is not a 20-percent owned corporation” before period at end.
 
-1986—Subsec. (a). Pub. L. 99–514, § 612(b)(6)(A), which directed that “section 116 (relating to an exclusion for dividends received by individuals), and” be struck out, was executed by striking out “section 116 (relating to an exclusion for dividends received by individuals) and” before “section 243” as the probable intent of Congress.
+1986—Subsec. (a). Pub. L. 99–514, § 612(b)(6)(A), which directed that “section 116 (relating to an exclusion for dividends received by individuals), and” be struck out, was executed by striking out “section 116 (relating to an exclusion for dividends received by individuals) and” before “section 243” as the probable intent of Congress.
 
-Subsec. (b)(1)(B), (C). Pub. L. 99–514, § 612(b)(6)(B)(i), (ii), redesignated subpar. (C) as (B), struck out “or (B)” before “shall not exceed”, and struck out former subpar. (B), exclusion under section 116, which read as follows: “If the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the exclusion under section 116, rules similar to the rules of subparagraph (A) shall apply.”
+Subsec. (b)(1)(B), (C). Pub. L. 99–514, § 612(b)(6)(B)(i), (ii), redesignated subpar. (C) as (B), struck out “or (B)” before “shall not exceed”, and struck out former subpar. (B), exclusion under section 116, which read as follows: “If the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the exclusion under section 116, rules similar to the rules of subparagraph (A) shall apply.”
 
-Subsec. (b)(2). Pub. L. 99–514, § 655(a)(4), substituted “60 days” for “45 days”.
+Subsec. (b)(2). Pub. L. 99–514, § 655(a)(4), substituted “60 days” for “45 days”.
 
-Pub. L. 99–514, § 612(b)(6)(B)(iii), struck out “the exclusion under section 116 and” before “the deduction under section 243”.
+Pub. L. 99–514, § 612(b)(6)(B)(iii), struck out “the exclusion under section 116 and” before “the deduction under section 243”.
 
-Subsec. (b)(3)(B). Pub. L. 99–514, § 612(b)(6)(B)(iv), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘aggregate dividends received’ includes only dividends received from domestic corporations other than dividends described in section 116(b) (relating to dividends excluded from gross income). In determining the amount of any dividend for purposes of this subparagraph, the rules provided in section 116(c) (relating to certain distributions) shall apply.”
+Subsec. (b)(3)(B). Pub. L. 99–514, § 612(b)(6)(B)(iv), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘aggregate dividends received’ includes only dividends received from domestic corporations other than dividends described in section 116(b) (relating to dividends excluded from gross income). In determining the amount of any dividend for purposes of this subparagraph, the rules provided in section 116(c) (relating to certain distributions) shall apply.”
 
-1984—Subsec. (b). Pub. L. 98–369, § 16(a), repealed amendments made by Pub. L. 97–34, § 302(c). See 1981 Amendment note below.
+1984—Subsec. (b). Pub. L. 98–369, § 16(a), repealed amendments made by Pub. L. 97–34, § 302(c). See 1981 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 98–369, § 52(a), increased the required amount of dividends by substituting provisions directing that in any case in which (i) a dividend is received from a regulated investment company (other than a dividend to which subsection (a) applies), and (ii) such investment company meets the requirements of section 852(a) for the taxable year during which it paid such dividend, then, in computing any deduction under section 243, there shall be taken into account only that portion of such dividend thus designated by the regulated investment company, that if the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the exclusion under section 116, similar rules applied, and that the aggregate amount which may be designated thus dividends shall not exceed the aggregate dividends received by the company for the taxable year for provisions which had directed that in the case of a dividend received from a regulated investment company (other than a dividend to which subsection (a) applied) (A) if such investment company met the requirements of section 852(a) for the taxable year during which it paid such dividend; and (B) the aggregate dividends received by such company during such taxable year were less than 75 percent of its gross income, then, in computing the exclusion under section 116 and the deduction under section 243, there was taken into account only that portion of the dividend which bore the same ratio to the amount of such dividend as the aggregate dividends received by such company during such taxable year to its gross income for such taxable year.
+Subsec. (b)(1). Pub. L. 98–369, § 52(a), increased the required amount of dividends by substituting provisions directing that in any case in which (i) a dividend is received from a regulated investment company (other than a dividend to which subsection (a) applies), and (ii) such investment company meets the requirements of section 852(a) for the taxable year during which it paid such dividend, then, in computing any deduction under section 243, there shall be taken into account only that portion of such dividend thus designated by the regulated investment company, that if the aggregate dividends received by a regulated investment company during any taxable year are less than 95 percent of its gross income, then, in computing the exclusion under section 116, similar rules applied, and that the aggregate amount which may be designated thus dividends shall not exceed the aggregate dividends received by the company for the taxable year for provisions which had directed that in the case of a dividend received from a regulated investment company (other than a dividend to which subsection (a) applied) (A) if such investment company met the requirements of section 852(a) for the taxable year during which it paid such dividend; and (B) the aggregate dividends received by such company during such taxable year were less than 75 percent of its gross income, then, in computing the exclusion under section 116 and the deduction under section 243, there was taken into account only that portion of the dividend which bore the same ratio to the amount of such dividend as the aggregate dividends received by such company during such taxable year to its gross income for such taxable year.
 
-Subsec. (b)(3)(A). Pub. L. 98–369, § 52(c), substituted provisions directing that in the case of 1 or more sales or other dispositions of stock and securities, the term “gross income” include only the excess of (i) the net short-term capital gain from such sales or dispositions, over (ii) the net long-term capital loss from such sales or dispositions for provisions which had directed that the term “gross income” not include gain from the sale or other disposition of stock or securities.
+Subsec. (b)(3)(A). Pub. L. 98–369, § 52(c), substituted provisions directing that in the case of 1 or more sales or other dispositions of stock and securities, the term “gross income” include only the excess of (i) the net short-term capital gain from such sales or dispositions, over (ii) the net long-term capital loss from such sales or dispositions for provisions which had directed that the term “gross income” not include gain from the sale or other disposition of stock or securities.
 
-Subsec. (b)(4). Pub. L. 98–369, § 52(b), added par. (4).
+Subsec. (b)(4). Pub. L. 98–369, § 52(b), added par. (4).
 
-1981—Subsec. (b). Pub. L. 97–34, § 302(c)(4), (d)(1), provided for general amendment of subsec. (b) so as to include provisions relating to taxable interest described in section 128 of this title, applicable to taxable years beginning after Dec. 31, 1984. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
+1981—Subsec. (b). Pub. L. 97–34, § 302(c)(4), (d)(1), provided for general amendment of subsec. (b) so as to include provisions relating to taxable interest described in section 128 of this title, applicable to taxable years beginning after Dec. 31, 1984. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
 
-1980—Subsec. (b). Pub. L. 96–223, § 404(b)(6), temporarily substituted “Other dividends and taxable interest” for “Other dividends” in heading, substituted “Deduction under section 243” for “General rule” in heading for par. (1), struck out “the exclusion under section 116 and” after “in computing” in text of par. (1) following subpar. (B), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and, in par. (4) as so redesignated, substituted “116(b)(2)” for “116(b)” and “116(c)(2)” for “116(c)” in subpar. (B) and added subpar. (C).
+1980—Subsec. (b). Pub. L. 96–223, § 404(b)(6), temporarily substituted “Other dividends and taxable interest” for “Other dividends” in heading, substituted “Deduction under section 243” for “General rule” in heading for par. (1), struck out “the exclusion under section 116 and” after “in computing” in text of par. (1) following subpar. (B), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and, in par. (4) as so redesignated, substituted “116(b)(2)” for “116(b)” and “116(c)(2)” for “116(c)” in subpar. (B) and added subpar. (C).
 
-1964—Subsec. (a). Pub. L. 88–272, § 201(d)(8), struck out “section 34(a) (relating to credit for dividends received by individuals),” before “section 116” and the comma before “and”.
+1964—Subsec. (a). Pub. L. 88–272, § 201(d)(8), struck out “section 34(a) (relating to credit for dividends received by individuals),” before “section 116” and the comma before “and”.
 
-Subsec. (b). Pub. L. 88–272, §§ 201(d)(9), (10), 229(a)(4), substituted “45 days” for “30 days” in par. (2), and struck out “the credit under section 34(a),” before “the exclusion” in par. (1), and “the credit under section 34,” before “the exclusion” in par. (2).
+Subsec. (b). Pub. L. 88–272, §§ 201(d)(9), (10), 229(a)(4), substituted “45 days” for “30 days” in par. (2), and struck out “the credit under section 34(a),” before “the exclusion” in par. (1), and “the credit under section 34,” before “the exclusion” in par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1541,7 +1541,7 @@ Subsec. (b). Pub. L. 88–272, §§ 201(d)(9), (10), 229(a)(4), substituted �
 
 Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as an Effective Date of 2010 Amendment note under section 852 of this title.
 
-Pub. L. 111–325, title III, § 301(i), Dec. 22, 2010, 124 Stat. 3547, provided that: “Section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 [Pub. L. 108–27, which was repealed by Pub. L. 112–240, title I, § 102(a), Jan. 2, 2013, 126 Stat. 2318, was formerly set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title] shall apply to the amendments made by subparagraphs (B) and (D) of subsection (e)(1) [amending this section] to the same extent and in the same manner as section 303 of such Act applies to the amendments made by section 302 of such Act [amending this section and sections 1, 163, 301, 306, 338, 467, 531, 541, 584, 702, 857, 1255, and 1257 of this title and repealing section 341 of this title].”
+Pub. L. 111–325, title III, § 301(i), Dec. 22, 2010, 124 Stat. 3547, provided that: “Section 303 of the Jobs and Growth Tax Relief Reconciliation Act of 2003 [Pub. L. 108–27, which was repealed by Pub. L. 112–240, title I, § 102(a), Jan. 2, 2013, 126 Stat. 2318, was formerly set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title] shall apply to the amendments made by subparagraphs (B) and (D) of subsection (e)(1) [amending this section] to the same extent and in the same manner as section 303 of such Act applies to the amendments made by section 302 of such Act [amending this section and sections 1, 163, 301, 306, 338, 467, 531, 541, 584, 702, 857, 1255, and 1257 of this title and repealing section 341 of this title].”
 
 **Effective Date of 2004 Amendment**
 
@@ -1569,7 +1569,7 @@ Amendment by section 655(a)(4) of Pub. L. 99–514 applicable to taxable years b
 
 Amendment by section 16(a) of Pub. L. 98–369 applicable to taxable years ending after Dec. 31, 1983, see section 18(a) of Pub. L. 98–369, set out as a note under section 48 of this title.
 
-Pub. L. 98–369, div. A, title I, § 52(d), July 18, 1984, 98 Stat. 565, provided that: “The amendments made by this section [amending this section] shall apply to taxable years of regulated investment companies beginning after the date of the enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title I, § 52(d), July 18, 1984, 98 Stat. 565, provided that: “The amendments made by this section [amending this section] shall apply to taxable years of regulated investment companies beginning after the date of the enactment of this Act [July 18, 1984].”
 
 **Effective and Termination Dates of 1980 Amendment**
 
@@ -1583,9 +1583,9 @@ Amendment by section 229(a)(4) of Pub. L. 88–272 applicable to taxable years o
 
 **Qualified Dividend Notice Period**
 
-Pub. L. 108–311, title IV, § 402(a)(5)(F), Oct. 4, 2004, 118 Stat. 1185, provided that: “With respect to any taxable year of a regulated investment company or real estate investment trust ending on or before November 30, 2003, the period for providing notice of the qualified dividend amount to shareholders under [former, as to 854(b)(2)] sections 854(b)(2) and 857(c)(2)(C) of the Internal Revenue Code of 1986, as amended by this section, shall not expire before the date on which the statement under section 6042(c) of such Code is required to be furnished with respect to the last calendar year beginning in such taxable year.”
+Pub. L. 108–311, title IV, § 402(a)(5)(F), Oct. 4, 2004, 118 Stat. 1185, provided that: “With respect to any taxable year of a regulated investment company or real estate investment trust ending on or before November 30, 2003, the period for providing notice of the qualified dividend amount to shareholders under [former, as to 854(b)(2)] sections 854(b)(2) and 857(c)(2)(C) of the Internal Revenue Code of 1986, as amended by this section, shall not expire before the date on which the statement under section 6042(c) of such Code is required to be furnished with respect to the last calendar year beginning in such taxable year.”
 
-### § 855. Dividends paid by regulated investment company after close of taxable year
+### § 855. Dividends paid by regulated investment company after close of taxable year
 
 **(a) General rule** For purposes of this chapter, if a regulated investment company—
 
@@ -1607,33 +1607,33 @@ Except as provided in section 852(b)(7), amounts to which subsection (a) is appl
 
 If an investment company to which section 853 is applicable for the taxable year makes a distribution as provided in subsection (a) of this section, the shareholders shall consider the amounts described in section 853(b)(2) allocable to such distribution as paid or received, as the case may be, in the taxable year in which the distribution is made.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 274; Pub. L. 86–779, § 10(b)(2), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, § 229(a)(5), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §§ 651(b)(1)(B), 655(a)(5), Oct. 22, 1986, 100 Stat. 2296, 2299; Pub. L. 100–647, title I, § 1006(*l*)(1)(B), Nov. 10, 1988, 102 Stat. 3413; Pub. L. 111–325, title III, §§ 301(g), 304(a)–(c), Dec. 22, 2010, 124 Stat. 3547–3549; Pub. L. 113–295, div. A, title II, § 205(b), Dec. 19, 2014, 128 Stat. 4026.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 274; Pub. L. 86–779, § 10(b)(2), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 88–272, title II, § 229(a)(5), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §§ 651(b)(1)(B), 655(a)(5), Oct. 22, 1986, 100 Stat. 2296, 2299; Pub. L. 100–647, title I, § 1006(*l*)(1)(B), Nov. 10, 1988, 102 Stat. 3413; Pub. L. 111–325, title III, §§ 301(g), 304(a)–(c), Dec. 22, 2010, 124 Stat. 3547–3549; Pub. L. 113–295, div. A, title II, § 205(b), Dec. 19, 2014, 128 Stat. 4026.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Investment Company Act of 1940, referred to in subsec. (a), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 **Amendments**
 
 2014—Subsec. (a)(1). Pub. L. 113–295 inserted “on or” before “before” in introductory provisions.
 
-2010—Subsec. (a). Pub. L. 111–325, § 304(c), in concluding provisions, inserted at end “For purposes of paragraph (2), a dividend attributable to any short-term capital gain with respect to which a notice is required under the Investment Company Act of 1940 shall be treated as the same type of dividend as a capital gain dividend.”
+2010—Subsec. (a). Pub. L. 111–325, § 304(c), in concluding provisions, inserted at end “For purposes of paragraph (2), a dividend attributable to any short-term capital gain with respect to which a notice is required under the Investment Company Act of 1940 shall be treated as the same type of dividend as a capital gain dividend.”
 
-Pub. L. 111–325, § 301(g)(2), substituted “and (c)” for “, (c) and (d)” in concluding provisions.
+Pub. L. 111–325, § 301(g)(2), substituted “and (c)” for “, (c) and (d)” in concluding provisions.
 
-Subsec. (a)(1). Pub. L. 111–325, § 304(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “declares a dividend prior to the time prescribed by law for the filing of its return for a taxable year (including the period of any extension of time granted for filing such return), and”.
+Subsec. (a)(1). Pub. L. 111–325, § 304(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “declares a dividend prior to the time prescribed by law for the filing of its return for a taxable year (including the period of any extension of time granted for filing such return), and”.
 
-Subsec. (a)(2). Pub. L. 111–325, § 304(b), substituted “the first dividend payment of the same type of dividend” for “the first regular dividend payment”.
+Subsec. (a)(2). Pub. L. 111–325, § 304(b), substituted “the first dividend payment of the same type of dividend” for “the first regular dividend payment”.
 
-Subsecs. (c), (d). Pub. L. 111–325, § 301(g)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c). Text of former subsec. (c) read as follows: “In the case of amounts to which subsection (a) is applicable, any notice to shareholders required under this part with respect to such amounts shall be made not later than 60 days after the close of the taxable year in which the distribution is made.”
+Subsecs. (c), (d). Pub. L. 111–325, § 301(g)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c). Text of former subsec. (c) read as follows: “In the case of amounts to which subsection (a) is applicable, any notice to shareholders required under this part with respect to such amounts shall be made not later than 60 days after the close of the taxable year in which the distribution is made.”
 
 1988—Subsec. (b). Pub. L. 100–647 substituted “section 852(b)(7)” for “section 852(b)(6)”.
 
-1986—Subsec. (b). Pub. L. 99–514, § 651(b)(1)(B), substituted “Except as provided in section 852(b)(6), amounts” for “Amounts”.
+1986—Subsec. (b). Pub. L. 99–514, § 651(b)(1)(B), substituted “Except as provided in section 852(b)(6), amounts” for “Amounts”.
 
-Subsec. (c). Pub. L. 99–514, § 655(a)(5), substituted “60 days” for “45 days”.
+Subsec. (c). Pub. L. 99–514, § 655(a)(5), substituted “60 days” for “45 days”.
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
@@ -1651,7 +1651,7 @@ Amendment by Pub. L. 113–295 effective as if included in the provision of the 
 
 Amendment by section 301(g) of Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as a note under section 852 of this title.
 
-Pub. L. 111–325, title III, § 304(d), Dec. 22, 2010, 124 Stat. 3549, provided that: “The amendments made by this section [amending this section] shall apply to distributions in taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
+Pub. L. 111–325, title III, § 304(d), Dec. 22, 2010, 124 Stat. 3549, provided that: “The amendments made by this section [amending this section] shall apply to distributions in taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
 
 **Effective Date of 1988 Amendment**
 
@@ -1677,13 +1677,13 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 
 **Amendments**
 
-1978—Pub. L. 95–600, title III, § 362(d)(7), Nov. 6, 1978, 92 Stat. 2852, substituted in item 859 “Adoption of annual accounting period” for “Deduction of deficiency dividends” and struck out item 860 “Adoption of annual accounting period”.
+1978—Pub. L. 95–600, title III, § 362(d)(7), Nov. 6, 1978, 92 Stat. 2852, substituted in item 859 “Adoption of annual accounting period” for “Deduction of deficiency dividends” and struck out item 860 “Adoption of annual accounting period”.
 
-1976—Pub. L. 94–455, title XVI, §§ 1601(a)(2), 1604(i)(2), Oct. 4, 1976, 90 Stat. 1745, 1752, added items 859 and 860.
+1976—Pub. L. 94–455, title XVI, §§ 1601(a)(2), 1604(i)(2), Oct. 4, 1976, 90 Stat. 1745, 1752, added items 859 and 860.
 
-1960—Pub. L. 86–779, § 10(a), Sept. 14, 1960, 74 Stat. 1003, added part II analysis.
+1960—Pub. L. 86–779, § 10(a), Sept. 14, 1960, 74 Stat. 1003, added part II analysis.
 
-### § 856. Definition of real estate investment trust
+### § 856. Definition of real estate investment trust
 
 **(a) In general** For purposes of this title, the term “real estate investment trust” means a corporation, trust, or association—
 
@@ -2497,7 +2497,7 @@ The Secretary is authorized to provide guidance (including through the issuance 
 
 Notwithstanding this subsection or any other provision of this part, any section 988 gain derived by a corporation, trust, or association from dealing, or engaging in substantial and regular trading, in securities (as defined in section 475(c)(2)) shall constitute gross income which does not qualify under paragraph (2) or (3) of subsection (c). This paragraph shall not apply to income which does not constitute gross income by reason of subsection (c)(5)(G).
 
-(Added Pub. L. 86–779, § 10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, § 225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, § 4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, § 6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, § 1402(b)(1)(O), (2), title XVI, §§ 1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§ 1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, § 363(a), (c), title VII, § 701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, § 1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§ 661(a), 662, 663, 671(b)(1), title IX, § 901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, § 1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, § 13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§ 1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§ 1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§ 532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940–1943, 1948, 1949; Pub. L. 106–554, § 1(a)(7) [title III, § 319(9), (10)], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title II, § 243(a), (b), (d), (f)(1)–(3), title VIII, § 835(b)(4), Oct. 22, 2004, 118 Stat. 1439, 1441–1444, 1593; Pub. L. 109–135, title IV, §§ 403(d)(1), (2), 412(hh), Dec. 21, 2005, 119 Stat. 2620, 2622, 2639; Pub. L. 110–172, §§ 9(b), 11(a)(18), Dec. 29, 2007, 121 Stat. 2484, 2486; Pub. L. 110–234, title XV, §§ 15312(a), (b), 15313(a), (b), 15314(a), May 22, 2008, 122 Stat. 1503, 1504; Pub. L. 110–246, § 4(a), title XV, §§ 15312(a), (b), 15313(a), (b), 15314(a), June 18, 2008, 122 Stat. 1664, 2265, 2266; Pub. L. 110–289, div. C, title II, §§ 3031, 3032, 3041, 3061, July 30, 2008, 122 Stat. 2897, 2899–2901; Pub. L. 114–113, div. Q, title III, §§ 311(b), 312(a), 317(a), (b), 318(a), 319(a), (b), 321(a)(3), Dec. 18, 2015, 129 Stat. 3090, 3091, 3094–3097; Pub. L. 115–141, div. U, title I, § 101(n), title IV, § 401(a)(146), (147), (b)(28), Mar. 23, 2018, 132 Stat. 1165, 1191, 1203; Pub. L. 119–21, title VII, § 70439(a), July 4, 2025, 139 Stat. 250.)
+(Added Pub. L. 86–779, § 10(a), Sept. 14, 1960, 74 Stat. 1004; amended Pub. L. 88–272, title II, § 225(k)(4), Feb. 26, 1964, 78 Stat. 94; Pub. L. 88–554, § 4(b)(4), Aug. 31, 1964, 78 Stat. 763; Pub. L. 93–625, § 6(a), (b), (d)(1), Jan. 3, 1975, 88 Stat. 2112–2114; Pub. L. 94–455, title XIV, § 1402(b)(1)(O), (2), title XVI, §§ 1602(a), 1603(a), (c)(1)–(4), 1604(a)–(c)(1), (d)–(f)(3)(A), (g), (k)(1), (2)(A), title XIX, §§ 1901(a)(111), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746, 1748–1753, 1783, 1834; Pub. L. 95–600, title III, § 363(a), (c), title VII, § 701(t)(2), Nov. 6, 1978, 92 Stat. 2852, 2853, 2912; Pub. L. 98–369, div. A, title X, § 1001(b)(12), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §§ 661(a), 662, 663, 671(b)(1), title IX, § 901(d)(4)(E), Oct. 22, 1986, 100 Stat. 2299, 2300, 2302, 2317, 2380; Pub. L. 100–647, title I, § 1006(p)(1), (3), (4)(A), (5), (q), (t)(11), Nov. 10, 1988, 102 Stat. 3416, 3417, 3422; Pub. L. 103–66, title XIII, § 13149(a), Aug. 10, 1993, 107 Stat. 445; Pub. L. 104–188, title I, §§ 1621(b)(5), 1704(t)(35), Aug. 20, 1996, 110 Stat. 1867, 1889; Pub. L. 105–34, title XII, §§ 1251(b)–1253, 1255(a), (b)(1), 1257, 1258, 1261, 1262, Aug. 5, 1997, 111 Stat. 1031–1036; Pub. L. 106–170, title V, §§ 532(c)(2)(H)–(K), 541–542(b)(3)(A)(i), (B)(i), 543, 551(a), 561(a), Dec. 17, 1999, 113 Stat. 1930, 1940–1943, 1948, 1949; Pub. L. 106–554, § 1(a)(7) [title III, § 319(9), (10)], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 108–357, title II, § 243(a), (b), (d), (f)(1)–(3), title VIII, § 835(b)(4), Oct. 22, 2004, 118 Stat. 1439, 1441–1444, 1593; Pub. L. 109–135, title IV, §§ 403(d)(1), (2), 412(hh), Dec. 21, 2005, 119 Stat. 2620, 2622, 2639; Pub. L. 110–172, §§ 9(b), 11(a)(18), Dec. 29, 2007, 121 Stat. 2484, 2486; Pub. L. 110–234, title XV, §§ 15312(a), (b), 15313(a), (b), 15314(a), May 22, 2008, 122 Stat. 1503, 1504; Pub. L. 110–246, § 4(a), title XV, §§ 15312(a), (b), 15313(a), (b), 15314(a), June 18, 2008, 122 Stat. 1664, 2265, 2266; Pub. L. 110–289, div. C, title II, §§ 3031, 3032, 3041, 3061, July 30, 2008, 122 Stat. 2897, 2899–2901; Pub. L. 114–113, div. Q, title III, §§ 311(b), 312(a), 317(a), (b), 318(a), 319(a), (b), 321(a)(3), Dec. 18, 2015, 129 Stat. 3090, 3091, 3094–3097; Pub. L. 115–141, div. U, title I, § 101(n), title IV, § 401(a)(146), (147), (b)(28), Mar. 23, 2018, 132 Stat. 1165, 1191, 1203; Pub. L. 119–21, title VII, § 70439(a), July 4, 2025, 139 Stat. 250.)
 
 **Editorial Notes**
 
@@ -2505,11 +2505,11 @@ Notwithstanding this subsection or any other provision of this part, any section
 
 The date of the enactment of this subparagraph, referred to in subsec. (c)(2)(I), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Investment Company Act of 1940, referred to in subsec. (c)(5)(F), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (c)(5)(F), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 The date of the enactment of this paragraph and such date of enactment, referred to in subsec. (c)(10), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Social Security Act, referred to in subsec. (e)(6)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e)(6)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of the enactment of this subparagraph, referred to in subsec. (m)(3)(B), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
@@ -2521,141 +2521,141 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2025—Subsec. (c)(4)(B)(ii). Pub. L. 119–21 substituted “25 percent” for “20 percent”.
 
-2018—Subsec. (c)(7)(A), (B). Pub. L. 115–141, § 401(a)(146), in introductory provisions, substituted “paragraph (4)(B)(iv)” for “paragraph (4)(B)(iii)”.
+2018—Subsec. (c)(7)(A), (B). Pub. L. 115–141, § 401(a)(146), in introductory provisions, substituted “paragraph (4)(B)(iv)” for “paragraph (4)(B)(iii)”.
 
-Subsec. (c)(9)(A). Pub. L. 115–141, § 101(n)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+Subsec. (c)(9)(A). Pub. L. 115–141, § 101(n)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-Subsec. (c)(9)(B). Pub. L. 115–141, § 101(n)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to certain personal property mortgaged in connection with real property.
+Subsec. (c)(9)(B). Pub. L. 115–141, § 101(n)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to certain personal property mortgaged in connection with real property.
 
-Subsec. (m)(1), (3)(A), (4). Pub. L. 115–141, § 401(a)(147), in introductory provisions, substituted “subsection (c)(4)(B)(iv)” for “subsection (c)(4)(B)(iii)”.
+Subsec. (m)(1), (3)(A), (4). Pub. L. 115–141, § 401(a)(147), in introductory provisions, substituted “subsection (c)(4)(B)(iv)” for “subsection (c)(4)(B)(iii)”.
 
-Subsec. (m)(5). Pub. L. 115–141, § 401(a)(147), substituted “subsection (c)(4)(B)(iv)” for “subsection (c)(4)(B)(iii)”.
+Subsec. (m)(5). Pub. L. 115–141, § 401(a)(147), substituted “subsection (c)(4)(B)(iv)” for “subsection (c)(4)(B)(iii)”.
 
-Subsec. (m)(6). Pub. L. 115–141, § 401(b)(28), struck out par. (6) which related to transition rule.
+Subsec. (m)(6). Pub. L. 115–141, § 401(b)(28), struck out par. (6) which related to transition rule.
 
-2015—Subsec. (c)(3)(H). Pub. L. 114–113, § 317(a)(2), inserted “(other than a nonqualified publicly offered REIT debt instrument)” after “real estate asset”.
+2015—Subsec. (c)(3)(H). Pub. L. 114–113, § 317(a)(2), inserted “(other than a nonqualified publicly offered REIT debt instrument)” after “real estate asset”.
 
-Subsec. (c)(4)(B)(ii). Pub. L. 114–113, § 312(a), substituted “20 percent” for “25 percent”.
+Subsec. (c)(4)(B)(ii). Pub. L. 114–113, § 312(a), substituted “20 percent” for “25 percent”.
 
-Subsec. (c)(4)(B)(iii), (iv). Pub. L. 114–113, § 317(a)(3), added cl. (iii) and redesignated former cl. (iii) as (iv).
+Subsec. (c)(4)(B)(iii), (iv). Pub. L. 114–113, § 317(a)(3), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-Subsec. (c)(5)(B). Pub. L. 114–113, § 317(a)(1), (b), inserted “or on interests in real property” after “interests in mortgages on real property”, substituted “, shares” for “and shares”, and inserted “, and debt instruments issued by publicly offered REITs” before period at end of first sentence.
+Subsec. (c)(5)(B). Pub. L. 114–113, § 317(a)(1), (b), inserted “or on interests in real property” after “interests in mortgages on real property”, substituted “, shares” for “and shares”, and inserted “, and debt instruments issued by publicly offered REITs” before period at end of first sentence.
 
-Subsec. (c)(5)(G)(i). Pub. L. 114–113, § 319(b)(2)(A), struck out “which is clearly identified pursuant to section 1221(a)(7)” after “of section 1221(b)(2)(A))”.
+Subsec. (c)(5)(G)(i). Pub. L. 114–113, § 319(b)(2)(A), struck out “which is clearly identified pursuant to section 1221(a)(7)” after “of section 1221(b)(2)(A))”.
 
-Subsec. (c)(5)(G)(ii). Pub. L. 114–113, § 319(b)(2)(B), struck out before period at end “, but only if such transaction is clearly identified as such before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may prescribe)”.
+Subsec. (c)(5)(G)(ii). Pub. L. 114–113, § 319(b)(2)(B), struck out before period at end “, but only if such transaction is clearly identified as such before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may prescribe)”.
 
-Subsec. (c)(5)(G)(iii). Pub. L. 114–113, § 319(a), added cl. (iii).
+Subsec. (c)(5)(G)(iii). Pub. L. 114–113, § 319(a), added cl. (iii).
 
-Subsec. (c)(5)(G)(iv). Pub. L. 114–113, § 319(b)(1), added cl. (iv).
+Subsec. (c)(5)(G)(iv). Pub. L. 114–113, § 319(b)(1), added cl. (iv).
 
-Subsec. (c)(5)(L). Pub. L. 114–113, § 317(a)(4), added subpar. (L).
+Subsec. (c)(5)(L). Pub. L. 114–113, § 317(a)(4), added subpar. (L).
 
-Subsec. (c)(8). Pub. L. 114–113, § 311(b), added par. (8). Former par. (8) redesignated (9).
+Subsec. (c)(8). Pub. L. 114–113, § 311(b), added par. (8). Former par. (8) redesignated (9).
 
-Subsec. (c)(9). Pub. L. 114–113, § 318(a), added par. (9). Former par. (9) redesignated (10).
+Subsec. (c)(9). Pub. L. 114–113, § 318(a), added par. (9). Former par. (9) redesignated (10).
 
-Pub. L. 114–113, § 311(b), redesignated par. (8) as (9).
+Pub. L. 114–113, § 311(b), redesignated par. (8) as (9).
 
-Subsec. (c)(10). Pub. L. 114–113, § 318(a), redesignated par. (9) as (10).
+Subsec. (c)(10). Pub. L. 114–113, § 318(a), redesignated par. (9) as (10).
 
-Subsec. (e)(4)(C). Pub. L. 114–113, § 321(a)(3), inserted “or through a taxable REIT subsidiary” after “receive any income”.
+Subsec. (e)(4)(C). Pub. L. 114–113, § 321(a)(3), inserted “or through a taxable REIT subsidiary” after “receive any income”.
 
-2008—Subsec. (c)(2)(I). Pub. L. 110–246, § 15313(a), added subpar. (I).
+2008—Subsec. (c)(2)(I). Pub. L. 110–246, § 15313(a), added subpar. (I).
 
-Subsec. (c)(4). Pub. L. 110–289, § 3032(a), inserted “(including a discrepancy caused solely by the change in the foreign currency exchange rate used to value a foreign asset)” after “such requirements” in first sentence of concluding provisions.
+Subsec. (c)(4). Pub. L. 110–289, § 3032(a), inserted “(including a discrepancy caused solely by the change in the foreign currency exchange rate used to value a foreign asset)” after “such requirements” in first sentence of concluding provisions.
 
-Subsec. (c)(4)(B)(ii). Pub. L. 110–289, § 3041, substituted “than 25 percent” for “than 20 percent” and “REIT subsidiaries,” for “REIT subsidiaries (in the case of a quarter which closes on or before the termination date, 25 percent in the case of a timber real estate investment trust), and”.
+Subsec. (c)(4)(B)(ii). Pub. L. 110–289, § 3041, substituted “than 25 percent” for “than 20 percent” and “REIT subsidiaries,” for “REIT subsidiaries (in the case of a quarter which closes on or before the termination date, 25 percent in the case of a timber real estate investment trust), and”.
 
-Pub. L. 110–246, § 15314(a), inserted “(in the case of a quarter which closes on or before the termination date, 25 percent in the case of a timber real estate investment trust)” after “REIT subsidiaries”.
+Pub. L. 110–246, § 15314(a), inserted “(in the case of a quarter which closes on or before the termination date, 25 percent in the case of a timber real estate investment trust)” after “REIT subsidiaries”.
 
-Subsec. (c)(5)(G). Pub. L. 110–289, § 3031(b), amended subpar. (G) generally. Prior to amendment, text read as follows: “Except to the extent provided by regulations, any income of a real estate investment trust from a hedging transaction (as defined in clause (ii) or (iii) of section 1221(b)(2)(A)) which is clearly identified pursuant to section 1221(a)(7), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraph (2) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets.”
+Subsec. (c)(5)(G). Pub. L. 110–289, § 3031(b), amended subpar. (G) generally. Prior to amendment, text read as follows: “Except to the extent provided by regulations, any income of a real estate investment trust from a hedging transaction (as defined in clause (ii) or (iii) of section 1221(b)(2)(A)) which is clearly identified pursuant to section 1221(a)(7), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraph (2) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets.”
 
-Subsec. (c)(5)(H). Pub. L. 110–246, § 15312(a), added subpar. (H).
+Subsec. (c)(5)(H). Pub. L. 110–246, § 15312(a), added subpar. (H).
 
-Subsec. (c)(5)(I). Pub. L. 110–246, § 15313(b), added subpar. (I).
+Subsec. (c)(5)(I). Pub. L. 110–246, § 15313(b), added subpar. (I).
 
-Subsec. (c)(5)(J). Pub. L. 110–289, § 3031(c), added subpar. (J).
+Subsec. (c)(5)(J). Pub. L. 110–289, § 3031(c), added subpar. (J).
 
-Subsec. (c)(5)(K). Pub. L. 110–289, § 3032(b), added subpar. (K).
+Subsec. (c)(5)(K). Pub. L. 110–289, § 3032(b), added subpar. (K).
 
-Subsec. (c)(8). Pub. L. 110–246, § 15312(b), added par. (8).
+Subsec. (c)(8). Pub. L. 110–246, § 15312(b), added par. (8).
 
-Subsec. (d)(8)(B). Pub. L. 110–289, § 3061(a), amended subpar. (B) generally. Prior to amendment, text read as follows: “The requirements of this subparagraph are met with respect to an interest in real property which is a qualified lodging facility leased by the trust to a taxable REIT subsidiary of the trust if the property is operated on behalf of such subsidiary by a person who is an eligible independent contractor.”
+Subsec. (d)(8)(B). Pub. L. 110–289, § 3061(a), amended subpar. (B) generally. Prior to amendment, text read as follows: “The requirements of this subparagraph are met with respect to an interest in real property which is a qualified lodging facility leased by the trust to a taxable REIT subsidiary of the trust if the property is operated on behalf of such subsidiary by a person who is an eligible independent contractor.”
 
-Subsec. (d)(9)(A), (B). Pub. L. 110–289, § 3061(b), amended subpars. (A) and (B) generally. Prior to amendment, subpar. (A) defined “eligible independent contractor” with respect to any qualified lodging facility and subpar. (B) set forth reasons by which a person would not fail to be treated as an independent contractor with respect to any qualified lodging facility.
+Subsec. (d)(9)(A), (B). Pub. L. 110–289, § 3061(b), amended subpars. (A) and (B) generally. Prior to amendment, subpar. (A) defined “eligible independent contractor” with respect to any qualified lodging facility and subpar. (B) set forth reasons by which a person would not fail to be treated as an independent contractor with respect to any qualified lodging facility.
 
-Subsec. (*l*)(3). Pub. L. 110–289, § 3061(c), inserted “or a health care facility” after “a lodging facility” and “or health care facility” after “such lodging facility” in concluding provisions.
+Subsec. (*l*)(3). Pub. L. 110–289, § 3061(c), inserted “or a health care facility” after “a lodging facility” and “or health care facility” after “such lodging facility” in concluding provisions.
 
-Subsec. (n). Pub. L. 110–289, § 3031(a), added subsec. (n).
+Subsec. (n). Pub. L. 110–289, § 3031(a), added subsec. (n).
 
-2007—Subsec. (d)(9)(D)(ii). Pub. L. 110–172, § 9(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘lodging facility’ means a hotel, motel, or other establishment more than one-half of the dwelling units in which are used on a transient basis.”
+2007—Subsec. (d)(9)(D)(ii). Pub. L. 110–172, § 9(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘lodging facility’ means a hotel, motel, or other establishment more than one-half of the dwelling units in which are used on a transient basis.”
 
-Subsec. (*l*)(2). Pub. L. 110–172, § 11(a)(18), in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: “The rule of section 856(c)(7) shall apply for purposes of subparagraph (B).”
+Subsec. (*l*)(2). Pub. L. 110–172, § 11(a)(18), in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: “The rule of section 856(c)(7) shall apply for purposes of subparagraph (B).”
 
-2005—Subsec. (c)(7). Pub. L. 109–135, § 403(d)(1), reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) to (C) relating to rules of application for a corporation, trust, or association that fails to satisfy the requirements of paragraph (4) of this subsection.
+2005—Subsec. (c)(7). Pub. L. 109–135, § 403(d)(1), reenacted heading without change and amended text generally. Prior to amendment, text consisted of subpars. (A) to (C) relating to rules of application for a corporation, trust, or association that fails to satisfy the requirements of paragraph (4) of this subsection.
 
-Subsec. (g)(5)(A). Pub. L. 109–135, § 412(hh), substituted “paragraph (2), (3), or (4) of subsection (c)” for “subsection (c)(6) or (c)(7) of section 856”.
+Subsec. (g)(5)(A). Pub. L. 109–135, § 412(hh), substituted “paragraph (2), (3), or (4) of subsection (c)” for “subsection (c)(6) or (c)(7) of section 856”.
 
-Subsec. (m)(6). Pub. L. 109–135, § 403(d)(2), added par. (6).
+Subsec. (m)(6). Pub. L. 109–135, § 403(d)(2), added par. (6).
 
-2004—Subsec. (c)(5)(E). Pub. L. 108–357, § 835(b)(4), struck out last sentence which read as follows: “The principles of the preceding provisions of this subparagraph shall apply to regular interests in a FASIT.”
+2004—Subsec. (c)(5)(E). Pub. L. 108–357, § 835(b)(4), struck out last sentence which read as follows: “The principles of the preceding provisions of this subparagraph shall apply to regular interests in a FASIT.”
 
-Subsec. (c)(5)(G). Pub. L. 108–357, § 243(d), reenacted heading without change and amended text of subpar. (G) generally. Prior to amendment, subpar. (G) provided that, except to the extent provided by regulations, payment to a real estate investment trust under an interest rate swap or cap agreement, option, futures contract, forward rate agreement, or any similar financial instrument, entered into by the trust in a transaction to reduce the interest rate risks with respect to any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets, and gain from the sale or other disposition of any such investment, would be treated as income qualifying under par. (2).
+Subsec. (c)(5)(G). Pub. L. 108–357, § 243(d), reenacted heading without change and amended text of subpar. (G) generally. Prior to amendment, subpar. (G) provided that, except to the extent provided by regulations, payment to a real estate investment trust under an interest rate swap or cap agreement, option, futures contract, forward rate agreement, or any similar financial instrument, entered into by the trust in a transaction to reduce the interest rate risks with respect to any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets, and gain from the sale or other disposition of any such investment, would be treated as income qualifying under par. (2).
 
-Subsec. (c)(6)(A). Pub. L. 108–357, § 243(f)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “the nature and amount of each item of its gross income described in such paragraphs is set forth in a schedule attached to its income tax return for such taxable year;”.
+Subsec. (c)(6)(A). Pub. L. 108–357, § 243(f)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “the nature and amount of each item of its gross income described in such paragraphs is set forth in a schedule attached to its income tax return for such taxable year;”.
 
-Subsec. (c)(6)(B), (C). Pub. L. 108–357, § 243(f)(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “the inclusion of any incorrect information in the schedule referred to in subparagraph (A) is not due to fraud with intent to evade tax; and”.
+Subsec. (c)(6)(B), (C). Pub. L. 108–357, § 243(f)(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “the inclusion of any incorrect information in the schedule referred to in subparagraph (A) is not due to fraud with intent to evade tax; and”.
 
-Subsec. (c)(7). Pub. L. 108–357, § 243(f)(1), added par. (7).
+Subsec. (c)(7). Pub. L. 108–357, § 243(f)(1), added par. (7).
 
-Pub. L. 108–357, § 243(a)(1), struck out par. (7) which provided that securities of an issuer which were straight debt would not be taken into account in applying paragraph (4)(B)(iii)(III), if the issuer was an individual, if the only securities of such issuer which were held by the trust or a taxable REIT subsidiary of the trust were straight debt, or if the issuer was a partnership and the trust held at least a 20 percent profits interest in the partnership.
+Pub. L. 108–357, § 243(a)(1), struck out par. (7) which provided that securities of an issuer which were straight debt would not be taken into account in applying paragraph (4)(B)(iii)(III), if the issuer was an individual, if the only securities of such issuer which were held by the trust or a taxable REIT subsidiary of the trust were straight debt, or if the issuer was a partnership and the trust held at least a 20 percent profits interest in the partnership.
 
-Subsec. (d)(8)(A). Pub. L. 108–357, § 243(b), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “The requirements of this subparagraph are met with respect to any property if at least 90 percent of the leased space of the property is rented to persons other than taxable REIT subsidiaries of such trust and other than persons described in section 856(d)(2)(B). The preceding sentence shall apply only to the extent that the amounts paid to the trust as rents from real property (as defined in paragraph (1) without regard to paragraph (2)(B)) from such property are substantially comparable to such rents made by the other tenants of the trust’s property for comparable space.”
+Subsec. (d)(8)(A). Pub. L. 108–357, § 243(b), reenacted heading without change and amended text of subpar. (A) generally. Prior to amendment, text read as follows: “The requirements of this subparagraph are met with respect to any property if at least 90 percent of the leased space of the property is rented to persons other than taxable REIT subsidiaries of such trust and other than persons described in section 856(d)(2)(B). The preceding sentence shall apply only to the extent that the amounts paid to the trust as rents from real property (as defined in paragraph (1) without regard to paragraph (2)(B)) from such property are substantially comparable to such rents made by the other tenants of the trust’s property for comparable space.”
 
-Subsec. (g)(1). Pub. L. 108–357, § 243(f)(3)(A), inserted “unless paragraph (5) applies” before “. Such termination”.
+Subsec. (g)(1). Pub. L. 108–357, § 243(f)(3)(A), inserted “unless paragraph (5) applies” before “. Such termination”.
 
-Subsec. (g)(5). Pub. L. 108–357, § 243(f)(3)(B), added par. (5).
+Subsec. (g)(5). Pub. L. 108–357, § 243(f)(3)(B), added par. (5).
 
-Subsec. (m). Pub. L. 108–357, § 243(a)(2), added subsec. (m).
+Subsec. (m). Pub. L. 108–357, § 243(a)(2), added subsec. (m).
 
-2000—Subsec. (c)(7). Pub. L. 106–554, § 1(a)(7) [title III, § 319(9)], substituted “paragraph (4)(B)(iii)(III)” for “paragraph (4)(B)(ii)(III)” in introductory provisions.
+2000—Subsec. (c)(7). Pub. L. 106–554, § 1(a)(7) [title III, § 319(9)], substituted “paragraph (4)(B)(iii)(III)” for “paragraph (4)(B)(ii)(III)” in introductory provisions.
 
-Subsec. (*l*)(4)(A). Pub. L. 106–554, § 1(a)(7) [title III, § 319(10)], substituted “subsection (d)(9)(D)(ii)” for “paragraph (9)(D)(ii)”.
+Subsec. (*l*)(4)(A). Pub. L. 106–554, § 1(a)(7) [title III, § 319(10)], substituted “subsection (d)(9)(D)(ii)” for “paragraph (9)(D)(ii)”.
 
-1999—Subsec. (c)(2)(D), (3)(C). Pub. L. 106–170, § 532(c)(2)(H), (I), substituted “section 1221(a)(1)” for “section 1221(1)”.
+1999—Subsec. (c)(2)(D), (3)(C). Pub. L. 106–170, § 532(c)(2)(H), (I), substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-Subsec. (c)(4)(B). Pub. L. 106–170, § 541(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)) for purposes of this calculation limited in respect of any one issuer to an amount not greater in value than 5 percent of the value of the total assets of the trust and to not more than 10 percent of the outstanding voting securities of such issuer.”
+Subsec. (c)(4)(B). Pub. L. 106–170, § 541(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “not more than 25 percent of the value of its total assets is represented by securities (other than those includible under subparagraph (A)) for purposes of this calculation limited in respect of any one issuer to an amount not greater in value than 5 percent of the value of the total assets of the trust and to not more than 10 percent of the outstanding voting securities of such issuer.”
 
-Subsec. (c)(7). Pub. L. 106–170, § 541(b), added par. (7).
+Subsec. (c)(7). Pub. L. 106–170, § 541(b), added par. (7).
 
-Subsec. (d)(1). Pub. L. 106–170, § 542(b)(3)(A)(i), substituted “fair market values” for “adjusted bases” in two places in concluding provisions.
+Subsec. (d)(1). Pub. L. 106–170, § 542(b)(3)(A)(i), substituted “fair market values” for “adjusted bases” in two places in concluding provisions.
 
-Subsec. (d)(2)(B). Pub. L. 106–170, § 542(b)(2), inserted “except as provided in paragraph (8),” after “(B)” in introductory provisions.
+Subsec. (d)(2)(B). Pub. L. 106–170, § 542(b)(2), inserted “except as provided in paragraph (8),” after “(B)” in introductory provisions.
 
-Subsec. (d)(2)(B)(i). Pub. L. 106–170, § 542(b)(3)(B)(i), substituted “value” for “number”.
+Subsec. (d)(2)(B)(i). Pub. L. 106–170, § 542(b)(3)(B)(i), substituted “value” for “number”.
 
-Subsec. (d)(3). Pub. L. 106–170, § 561(a), inserted concluding provisions.
+Subsec. (d)(3). Pub. L. 106–170, § 561(a), inserted concluding provisions.
 
-Subsec. (d)(7)(C)(i). Pub. L. 106–170, § 542(a), inserted “or through a taxable REIT subsidiary of such trust” after “income”.
+Subsec. (d)(7)(C)(i). Pub. L. 106–170, § 542(a), inserted “or through a taxable REIT subsidiary of such trust” after “income”.
 
-Subsec. (d)(8), (9). Pub. L. 106–170, § 542(b)(1), added pars. (8) and (9).
+Subsec. (d)(8), (9). Pub. L. 106–170, § 542(b)(1), added pars. (8) and (9).
 
-Subsec. (e)(1). Pub. L. 106–170, § 532(c)(2)(J), substituted “section 1221(a)(1)” for “section 1221(1)”.
+Subsec. (e)(1). Pub. L. 106–170, § 532(c)(2)(J), substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-Subsec. (e)(6). Pub. L. 106–170, § 551(a), added par. (6).
+Subsec. (e)(6). Pub. L. 106–170, § 551(a), added par. (6).
 
-Subsec. (i)(2). Pub. L. 106–170, § 543(b), inserted at end “Such term shall not include a taxable REIT subsidiary.”
+Subsec. (i)(2). Pub. L. 106–170, § 543(b), inserted at end “Such term shall not include a taxable REIT subsidiary.”
 
-Subsec. (j)(2)(B). Pub. L. 106–170, § 532(c)(2)(K), substituted “section 1221(a)(1)” for “section 1221(1)”.
+Subsec. (j)(2)(B). Pub. L. 106–170, § 532(c)(2)(K), substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-Subsec. (*l*). Pub. L. 106–170, § 543(a), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 106–170, § 543(a), added subsec. (*l*).
 
-1997—Subsec. (a)(6). Pub. L. 105–34, § 1251(b)(2), inserted “subject to the provisions of subsection (k),” before “which is not”.
+1997—Subsec. (a)(6). Pub. L. 105–34, § 1251(b)(2), inserted “subject to the provisions of subsection (k),” before “which is not”.
 
-Subsec. (c)(3)(I). Pub. L. 105–34, § 1255(a)(1), inserted “and” at end.
+Subsec. (c)(3)(I). Pub. L. 105–34, § 1255(a)(1), inserted “and” at end.
 
-Subsec. (c)(4). Pub. L. 105–34, § 1255(a)(2), (3), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “less than 30 percent of its gross income is derived from the sale or other disposition of—
+Subsec. (c)(4). Pub. L. 105–34, § 1255(a)(2), (3), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “less than 30 percent of its gross income is derived from the sale or other disposition of—
 
 “(A) stock or securities held for less than 1 year;
 
@@ -2667,9 +2667,9 @@ Subsec. (c)(4). Pub. L. 105–34, § 1255(a)(2), (3), redesignated par. (5) as
 
 “(ii) property which is foreclosure property within the definition of section 856(e); and”.
 
-Subsec. (c)(5). Pub. L. 105–34, § 1255(a)(3), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+Subsec. (c)(5). Pub. L. 105–34, § 1255(a)(3), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-Subsec. (c)(5)(G). Pub. L. 105–34, § 1258, amended heading and text of subpar. (G) generally. Prior to amendment, text read as follows: “Except to the extent provided by regulations, any—
+Subsec. (c)(5)(G). Pub. L. 105–34, § 1258, amended heading and text of subpar. (G) generally. Prior to amendment, text read as follows: “Except to the extent provided by regulations, any—
 
 “(i) payment to a real estate investment trust under a bona fide interest rate swap or cap agreement entered into by the real estate investment trust to hedge any variable rate indebtedness of such trust incurred or to be incurred to acquire or carry real estate assets, and
 
@@ -2677,59 +2677,59 @@ Subsec. (c)(5)(G). Pub. L. 105–34, § 1258, amended heading and text of subp
 
 shall be treated as income qualifying under paragraph (2).”
 
-Pub. L. 105–34, § 1255(b)(1), struck out “and such agreement shall be treated as a security for purposes of paragraph (4)(A)” after “under paragraph (2)” in concluding provisions.
+Pub. L. 105–34, § 1255(b)(1), struck out “and such agreement shall be treated as a security for purposes of paragraph (4)(A)” after “under paragraph (2)” in concluding provisions.
 
-Subsec. (c)(6), (7). Pub. L. 105–34, § 1255(a)(3), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+Subsec. (c)(6), (7). Pub. L. 105–34, § 1255(a)(3), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-Subsec. (c)(8). Pub. L. 105–34, § 1255(a)(2), struck out heading and text of par. (8). Text read as follows: “In the case of the taxable year in which a real estate investment trust is completely liquidated, there shall not be taken into account under paragraph (4) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.”
+Subsec. (c)(8). Pub. L. 105–34, § 1255(a)(2), struck out heading and text of par. (8). Text read as follows: “In the case of the taxable year in which a real estate investment trust is completely liquidated, there shall not be taken into account under paragraph (4) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation.”
 
-Subsec. (d)(2). Pub. L. 105–34, § 1252(a), added subpar. (C) and struck out former subpar. (C) and concluding provisions which read as follows:
+Subsec. (d)(2). Pub. L. 105–34, § 1252(a), added subpar. (C) and struck out former subpar. (C) and concluding provisions which read as follows:
 
 “(C) any amount received or accrued, directly or indirectly, with respect to any real or personal property if the real estate investment trust furnishes or renders services to the tenants of such property, or manages or operates such property, other than through an independent contractor from whom the trust itself does not derive or receive any income.
 
 Subparagraph (C) shall not apply with respect to any amount if such amount would be excluded from unrelated business taxable income under section 512(b)(3) if received by an organization described in section 511(a)(2).”
 
-Subsec. (d)(5). Pub. L. 105–34, § 1253, substituted “except that—” and subpars. (A) and (B) for “except that ‘10 percent’ shall be substituted for ‘50 percent’ in subparagraph (C) of section 318(a)(2) and 318(a)(3).”
+Subsec. (d)(5). Pub. L. 105–34, § 1253, substituted “except that—” and subpars. (A) and (B) for “except that ‘10 percent’ shall be substituted for ‘50 percent’ in subparagraph (C) of section 318(a)(2) and 318(a)(3).”
 
-Subsec. (d)(7). Pub. L. 105–34, § 1252(b), added par. (7).
+Subsec. (d)(7). Pub. L. 105–34, § 1252(b), added par. (7).
 
-Subsec. (e)(2). Pub. L. 105–34, § 1257(a)(1), which directed amendment of par. (2) by substituting “as of the close of the 3d taxable year following the taxable year in which the trust acquired such property” for “on the date which is 2 years after the date the trust acquired such property”, was executed by making the substitution for “on the date which is 2 years after the date such trust acquired such property” to reflect the probable intent of Congress.
+Subsec. (e)(2). Pub. L. 105–34, § 1257(a)(1), which directed amendment of par. (2) by substituting “as of the close of the 3d taxable year following the taxable year in which the trust acquired such property” for “on the date which is 2 years after the date the trust acquired such property”, was executed by making the substitution for “on the date which is 2 years after the date such trust acquired such property” to reflect the probable intent of Congress.
 
-Subsec. (e)(3). Pub. L. 105–34, § 1257(a)(2), substituted “grant one extension” for “grant one or more extensions” and “Any such extension shall not extend the grace period beyond the close of the 3d taxable year following the last taxable year in the period under paragraph (2).” for “Any such extension shall not extend the grace period beyond the date which is 6 years after the date such trust acquired such property.”
+Subsec. (e)(3). Pub. L. 105–34, § 1257(a)(2), substituted “grant one extension” for “grant one or more extensions” and “Any such extension shall not extend the grace period beyond the close of the 3d taxable year following the last taxable year in the period under paragraph (2).” for “Any such extension shall not extend the grace period beyond the date which is 6 years after the date such trust acquired such property.”
 
-Subsec. (e)(4). Pub. L. 105–34, § 1257(c), inserted concluding provisions “For purposes of subparagraph (C), property shall not be treated as used in a trade or business by reason of any activities of the real estate investment trust with respect to such property to the extent that such activities would not result in amounts received or accrued, directly or indirectly, with respect to such property being treated as other than rents from real property.”
+Subsec. (e)(4). Pub. L. 105–34, § 1257(c), inserted concluding provisions “For purposes of subparagraph (C), property shall not be treated as used in a trade or business by reason of any activities of the real estate investment trust with respect to such property to the extent that such activities would not result in amounts received or accrued, directly or indirectly, with respect to such property being treated as other than rents from real property.”
 
-Subsec. (e)(5). Pub. L. 105–34, § 1257(b), substituted “A real estate investment trust may revoke any such election for a taxable year by filing the revocation (in the manner provided by the Secretary) on or before the due date (including any extension of time) for filing its return of tax under this chapter for the taxable year. If a trust revokes an election for any property, no election may be made by the trust under this paragraph with respect to the property for any subsequent taxable year.” for “Any such election shall be irrevocable.”
+Subsec. (e)(5). Pub. L. 105–34, § 1257(b), substituted “A real estate investment trust may revoke any such election for a taxable year by filing the revocation (in the manner provided by the Secretary) on or before the due date (including any extension of time) for filing its return of tax under this chapter for the taxable year. If a trust revokes an election for any property, no election may be made by the trust under this paragraph with respect to the property for any subsequent taxable year.” for “Any such election shall be irrevocable.”
 
-Subsec. (i)(2). Pub. L. 105–34, § 1262, struck out “at all times during the period such corporation was in existence” after “real estate investment trust”.
+Subsec. (i)(2). Pub. L. 105–34, § 1262, struck out “at all times during the period such corporation was in existence” after “real estate investment trust”.
 
-Subsec. (j)(4). Pub. L. 105–34, § 1261(a), added par. (4). Former par. (4) redesignated (5).
+Subsec. (j)(4). Pub. L. 105–34, § 1261(a), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (j)(5). Pub. L. 105–34, § 1261(a), redesignated par. (4) as (5).
+Subsec. (j)(5). Pub. L. 105–34, § 1261(a), redesignated par. (4) as (5).
 
-Subsec. (j)(5)(A)(ii). Pub. L. 105–34, § 1261(b), inserted before period at end “or appreciation in value as of any specified date”.
+Subsec. (j)(5)(A)(ii). Pub. L. 105–34, § 1261(b), inserted before period at end “or appreciation in value as of any specified date”.
 
-Subsec. (k). Pub. L. 105–34, § 1251(b)(1), added subsec. (k).
+Subsec. (k). Pub. L. 105–34, § 1251(b)(1), added subsec. (k).
 
-1996—Subsec. (a)(4). Pub. L. 104–188, § 1704(t)(35), substituted “section 582(c)(2)” for “section 582(c)(5)”.
+1996—Subsec. (a)(4). Pub. L. 104–188, § 1704(t)(35), substituted “section 582(c)(2)” for “section 582(c)(5)”.
 
-Subsec. (c)(6)(E). Pub. L. 104–188, § 1621(b)(5), inserted at end “The principles of the preceding provisions of this subparagraph shall apply to regular interests in a FASIT.”
+Subsec. (c)(6)(E). Pub. L. 104–188, § 1621(b)(5), inserted at end “The principles of the preceding provisions of this subparagraph shall apply to regular interests in a FASIT.”
 
 1993—Subsec. (h)(3). Pub. L. 103–66 added par. (3).
 
-1988—Subsec. (c)(6)(D). Pub. L. 100–647, § 1006(t)(11), struck out subpar. (D), as added by Pub. L. 99–514, § 671(b)(1), which read as follows: “A regular or residual interest in a REMIC shall be treated as an interest in real property, and any amount includible in gross income with respect to such an interest shall be treated as interest; except that, if less than 95 percent of the assets of such REMIC are interests in real property (determined as if the taxpayer held such assets), such interest shall be so treated only in the proportion which the assets of the REMIC consist of such interests.”
+1988—Subsec. (c)(6)(D). Pub. L. 100–647, § 1006(t)(11), struck out subpar. (D), as added by Pub. L. 99–514, § 671(b)(1), which read as follows: “A regular or residual interest in a REMIC shall be treated as an interest in real property, and any amount includible in gross income with respect to such an interest shall be treated as interest; except that, if less than 95 percent of the assets of such REMIC are interests in real property (determined as if the taxpayer held such assets), such interest shall be so treated only in the proportion which the assets of the REMIC consist of such interests.”
 
-Subsec. (c)(6)(D)(i)(I). Pub. L. 100–647, § 1006(p)(1), substituted “debt instrument (within the meaning of section 1275(a)(1))” for “debt instrument”.
+Subsec. (c)(6)(D)(i)(I). Pub. L. 100–647, § 1006(p)(1), substituted “debt instrument (within the meaning of section 1275(a)(1))” for “debt instrument”.
 
-Subsec. (c)(6)(D)(ii)(I). Pub. L. 100–647, § 1006(p)(5), substituted “stock (or certificates of beneficial interests) in such trust” for “stock in such trust”.
+Subsec. (c)(6)(D)(ii)(I). Pub. L. 100–647, § 1006(p)(5), substituted “stock (or certificates of beneficial interests) in such trust” for “stock in such trust”.
 
-Subsec. (c)(6)(E), (F). Pub. L. 100–647, § 1006(t)(11), added subpar. (E) and redesignated former subpar. (E) as (F).
+Subsec. (c)(6)(E), (F). Pub. L. 100–647, § 1006(t)(11), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-Subsec. (c)(6)(G). Pub. L. 100–647, § 1006(p)(4)(A), added subpar. (G).
+Subsec. (c)(6)(G). Pub. L. 100–647, § 1006(p)(4)(A), added subpar. (G).
 
-Subsec. (c)(8). Pub. L. 100–647, § 1006(p)(3), added par. (8).
+Subsec. (c)(8). Pub. L. 100–647, § 1006(p)(3), added par. (8).
 
-Subsec. (d)(6)(A). Pub. L. 100–647, § 1006(q)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If—
+Subsec. (d)(6)(A). Pub. L. 100–647, § 1006(q)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If—
 
 “(i) a real estate investment trust receives or accrues, with respect to real or personal property, amounts from a tenant which derives substantially all of its income with respect to such property from the subleasing of substantially all of such property, and
 
@@ -2737,81 +2737,81 @@ Subsec. (d)(6)(A). Pub. L. 100–647, § 1006(q)(1), amended subpar. (A) gener
 
 then the amounts that the trust receives or accrues from the tenant shall not be excluded from the term ‘rents from real property’ solely by reason of being based on the income or profits of such tenant.”
 
-Subsec. (f). Pub. L. 100–647, § 1006(q)(2), amended subsec. (f) generally, making changes in content and structure.
+Subsec. (f). Pub. L. 100–647, § 1006(q)(2), amended subsec. (f) generally, making changes in content and structure.
 
-1986—Subsec. (a)(4). Pub. L. 99–514, § 901(d)(4)(E), substituted “referred to in section 582(c)(5)” for “to which section 585, 586, or 593 applies”.
+1986—Subsec. (a)(4). Pub. L. 99–514, § 901(d)(4)(E), substituted “referred to in section 582(c)(5)” for “to which section 585, 586, or 593 applies”.
 
-Subsec. (a)(6). Pub. L. 99–514, § 661(a)(1), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “which would not be a personal holding company (as defined in section 542) if all of its adjusted ordinary gross income (as defined in section 543(b)(2)) constituted personal holding company income (as defined in section 543); and”.
+Subsec. (a)(6). Pub. L. 99–514, § 661(a)(1), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “which would not be a personal holding company (as defined in section 542) if all of its adjusted ordinary gross income (as defined in section 543(b)(2)) constituted personal holding company income (as defined in section 543); and”.
 
-Subsec. (c)(3)(I). Pub. L. 99–514, § 662(b)(1), added subpar. (I).
+Subsec. (c)(3)(I). Pub. L. 99–514, § 662(b)(1), added subpar. (I).
 
-Subsec. (c)(6)(B). Pub. L. 99–514, § 662(b)(2), inserted “Such term also includes any property (not otherwise a real estate asset) attributable to the temporary investment of new capital, but only if such property is stock or a debt instrument, and only for the 1-year period beginning on the date the real estate trust receives such capital.”
+Subsec. (c)(6)(B). Pub. L. 99–514, § 662(b)(2), inserted “Such term also includes any property (not otherwise a real estate asset) attributable to the temporary investment of new capital, but only if such property is stock or a debt instrument, and only for the 1-year period beginning on the date the real estate trust receives such capital.”
 
-Subsec. (c)(6)(D). Pub. L. 99–514, § 671(b)(1), added subpar. (D) relating to REMIC interest. Former subpar. (D) redesignated (E).
+Subsec. (c)(6)(D). Pub. L. 99–514, § 671(b)(1), added subpar. (D) relating to REMIC interest. Former subpar. (D) redesignated (E).
 
-Pub. L. 99–514, § 662(b)(3), added subpar. (D) relating to qualified temporary investment income. Former subpar. (D) redesignated (E).
+Pub. L. 99–514, § 662(b)(3), added subpar. (D) relating to qualified temporary investment income. Former subpar. (D) redesignated (E).
 
-Subsec. (c)(6)(E). Pub. L. 99–514, §§ 662(b)(3), 671(b)(1), made identical redesignations of former subpar. (D) as (E).
+Subsec. (c)(6)(E). Pub. L. 99–514, §§ 662(b)(3), 671(b)(1), made identical redesignations of former subpar. (D) as (E).
 
-Subsec. (d)(2). Pub. L. 99–514, § 663(a), (b)(3), inserted reference to par. (6) in subpar. (A) and inserted at end “Subparagraph (C) shall not apply with respect to any amount if such amount would be excluded from unrelated business taxable income under section 512(b)(3) if received by an organization described in section 511(a)(2).”
+Subsec. (d)(2). Pub. L. 99–514, § 663(a), (b)(3), inserted reference to par. (6) in subpar. (A) and inserted at end “Subparagraph (C) shall not apply with respect to any amount if such amount would be excluded from unrelated business taxable income under section 512(b)(3) if received by an organization described in section 511(a)(2).”
 
-Subsec. (d)(6). Pub. L. 99–514, § 663(b)(1), added par. (6).
+Subsec. (d)(6). Pub. L. 99–514, § 663(b)(1), added par. (6).
 
-Subsec. (f). Pub. L. 99–514, § 663(b)(2), amended subsec. (f) generally, restating former introductory provisions and par. (1) as introductory provisions of par. (1) and as subpar. (A), restating provisions of par. (2), adding subpar. (1)(B), and striking out former concluding provisions which read as follows: “The provisions of this subsection shall apply only with respect to amounts received or accrued pursuant to loans made after May 27, 1976. For purposes of the preceding sentence, a loan is considered to be made before May 28, 1976, if such loan is made pursuant to a binding commitment entered into before May 28, 1976.”
+Subsec. (f). Pub. L. 99–514, § 663(b)(2), amended subsec. (f) generally, restating former introductory provisions and par. (1) as introductory provisions of par. (1) and as subpar. (A), restating provisions of par. (2), adding subpar. (1)(B), and striking out former concluding provisions which read as follows: “The provisions of this subsection shall apply only with respect to amounts received or accrued pursuant to loans made after May 27, 1976. For purposes of the preceding sentence, a loan is considered to be made before May 28, 1976, if such loan is made pursuant to a binding commitment entered into before May 28, 1976.”
 
-Subsec. (h). Pub. L. 99–514, § 661(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 99–514, § 661(a)(2), added subsec. (h).
 
-Subsec. (i). Pub. L. 99–514, § 662(a), added subsec. (i).
+Subsec. (i). Pub. L. 99–514, § 662(a), added subsec. (i).
 
-Subsec. (j). Pub. L. 99–514, § 662(c), added subsec. (j).
+Subsec. (j). Pub. L. 99–514, § 662(c), added subsec. (j).
 
 1984—Subsec. (c)(4)(A). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-1978—Subsec. (c)(2)(H). Pub. L. 95–600, § 363(a)(1), added subpar. (H).
+1978—Subsec. (c)(2)(H). Pub. L. 95–600, § 363(a)(1), added subpar. (H).
 
-Subsec. (c)(3)(D). Pub. L. 95–600, § 701(t)(2), inserted “(other than gain from prohibited transactions)” after “on, and gain”.
+Subsec. (c)(3)(D). Pub. L. 95–600, § 701(t)(2), inserted “(other than gain from prohibited transactions)” after “on, and gain”.
 
-Subsec. (c)(3)(H). Pub. L. 95–600, § 363(a)(2), added subpar. (H).
+Subsec. (c)(3)(H). Pub. L. 95–600, § 363(a)(2), added subpar. (H).
 
-Subsec. (c)(4)(B). Pub. L. 95–600, § 363(a)(3), substituted “property in a transaction which is a prohibited transaction” for “section 1221(1) property (other than foreclosure property)”.
+Subsec. (c)(4)(B). Pub. L. 95–600, § 363(a)(3), substituted “property in a transaction which is a prohibited transaction” for “section 1221(1) property (other than foreclosure property)”.
 
-Subsec. (e)(3). Pub. L. 95–600, § 363(c), substituted “the Secretary may grant one or more extensions of the grace period for such property” for “the Secretary may extend the grace period for such property” and “shall not extend the grace period beyond the date which is 6 years after the date such trust acquired such property” for “shall be for a period of not more than one year, and not more than two extensions shall be granted with respect to any property”.
+Subsec. (e)(3). Pub. L. 95–600, § 363(c), substituted “the Secretary may grant one or more extensions of the grace period for such property” for “the Secretary may extend the grace period for such property” and “shall not extend the grace period beyond the date which is 6 years after the date such trust acquired such property” for “shall be for a period of not more than one year, and not more than two extensions shall be granted with respect to any property”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§ 1603(a), 1604(f)(1), (2), in introductory provisions substituted “this title” for “this subtitle” and “a corporation, trust, or association” for “an unincorporated trust or an unincorporated association”, in par. (1) inserted “or directors” after “trustees”, and in par. (4) substituted reference to which is neither (A) a financial institution to which section 585, 586, or 593 applies, nor (B) an insurance company to which subchapter L applies for reference to which does not hold any property primarily for sale to customers in the ordinary course of its trade or business.
+1976—Subsec. (a). Pub. L. 94–455, §§ 1603(a), 1604(f)(1), (2), in introductory provisions substituted “this title” for “this subtitle” and “a corporation, trust, or association” for “an unincorporated trust or an unincorporated association”, in par. (1) inserted “or directors” after “trustees”, and in par. (4) substituted reference to which is neither (A) a financial institution to which section 585, 586, or 593 applies, nor (B) an insurance company to which subchapter L applies for reference to which does not hold any property primarily for sale to customers in the ordinary course of its trade or business.
 
-Subsec. (c). Pub. L. 94–455, § 1604(f)(3)(A), in introductory provision substituted “A corporation, trust, or association” for “A trust or association”.
+Subsec. (c). Pub. L. 94–455, § 1604(f)(3)(A), in introductory provision substituted “A corporation, trust, or association” for “A trust or association”.
 
-Subsec. (c)(1). Pub. L. 94–455, §§ 1604(k)(2)(A), 1901(a)(111)(A), struck out reference to which began after Dec. 31, 1960 and inserted reference to such election has not been terminated or revoked under subsec. (g).
+Subsec. (c)(1). Pub. L. 94–455, §§ 1604(k)(2)(A), 1901(a)(111)(A), struck out reference to which began after Dec. 31, 1960 and inserted reference to such election has not been terminated or revoked under subsec. (g).
 
-Subsec. (c)(2). Pub. L. 94–455, §§ 1603(c)(2), 1604(a), (c)(1), in introductory provision substituted “95 percent (90 percent for taxable years beginning before January 1, 1980) of its gross income (excluding gross income from prohibited transactions)” for “90 percent of its gross income”, in subpar. (D) inserted reference to which is not property not described in section 1221(1), and added subpar. (G).
+Subsec. (c)(2). Pub. L. 94–455, §§ 1603(c)(2), 1604(a), (c)(1), in introductory provision substituted “95 percent (90 percent for taxable years beginning before January 1, 1980) of its gross income (excluding gross income from prohibited transactions)” for “90 percent of its gross income”, in subpar. (D) inserted reference to which is not property not described in section 1221(1), and added subpar. (G).
 
-Subsec. (c)(3). Pub. L. 94–455, §§ 1603(c)(1), (3), 1604(c)(1), in introductory provision inserted “(excluding gross income from prohibited transactions) 75 percent of its gross income”, in subpar. (C) inserted reference to which is not property described in section 1221(1), and added subpar. (G).
+Subsec. (c)(3). Pub. L. 94–455, §§ 1603(c)(1), (3), 1604(c)(1), in introductory provision inserted “(excluding gross income from prohibited transactions) 75 percent of its gross income”, in subpar. (C) inserted reference to which is not property described in section 1221(1), and added subpar. (G).
 
-Subsec. (c)(4). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
+Subsec. (c)(4). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-Pub. L. 94–455, §§ 1402(b)(1)(O), 1604(d), in subpar. (A) provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977, added subpar. (B), and redesignated former subpar. (B) as (C), and in subpar. (C) as so redesignated, substituted “(including interest in real property and interest in mortgages on real property” for “(including interest in real property)” and inserted reference to property which is foreclosure property within the definition of section 856(e).
+Pub. L. 94–455, §§ 1402(b)(1)(O), 1604(d), in subpar. (A) provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977, added subpar. (B), and redesignated former subpar. (B) as (C), and in subpar. (C) as so redesignated, substituted “(including interest in real property and interest in mortgages on real property” for “(including interest in real property)” and inserted reference to property which is foreclosure property within the definition of section 856(e).
 
-Subsec. (c)(6)(C). Pub. L. 94–455, § 1604(e), inserted reference to options to acquire land or improvements thereon, and options to acquire leaseholds of land or improvements thereon.
+Subsec. (c)(6)(C). Pub. L. 94–455, § 1604(e), inserted reference to options to acquire land or improvements thereon, and options to acquire leaseholds of land or improvements thereon.
 
-Subsec. (c)(6)(D). Pub. L. 94–455, § 1901(a)(111)(B), inserted “(15 U.S.C. 80a–1 and following)” after “, as amended”.
+Subsec. (c)(6)(D). Pub. L. 94–455, § 1901(a)(111)(B), inserted “(15 U.S.C. 80a–1 and following)” after “, as amended”.
 
-Subsec. (c)(7). Pub. L. 94–455, § 1602(a), added par. (7).
+Subsec. (c)(7). Pub. L. 94–455, § 1602(a), added par. (7).
 
-Subsec. (d). Pub. L. 94–455, § 1604(b), among other changes, inserted provisions including in definition of rents from real property charges for services customarily furnished or rendered in connection with rental of real property and rent attributable to personal property which is leased under, or in connection with, a lease of real property, provisions relating to the computation of the amount of rent attributable to personal property, and provisions relating to the special rule for certain contingent rents.
+Subsec. (d). Pub. L. 94–455, § 1604(b), among other changes, inserted provisions including in definition of rents from real property charges for services customarily furnished or rendered in connection with rental of real property and rent attributable to personal property which is leased under, or in connection with, a lease of real property, provisions relating to the computation of the amount of rent attributable to personal property, and provisions relating to the special rule for certain contingent rents.
 
-Subsec. (e)(1). Pub. L. 94–455, § 1603(c)(4), inserted provision relating to the exclusion, from definition of foreclosure property, of property acquired by the real estate investment trust or other disposition of property of the trust described in section 1221(1) of this title.
+Subsec. (e)(1). Pub. L. 94–455, § 1603(c)(4), inserted provision relating to the exclusion, from definition of foreclosure property, of property acquired by the real estate investment trust or other disposition of property of the trust described in section 1221(1) of this title.
 
-Subsec. (e)(3), (5). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” each time appearing.
+Subsec. (e)(3), (5). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” each time appearing.
 
-Subsec. (f). Pub. L. 94–455, § 1604(g), added subsec. (f).
+Subsec. (f). Pub. L. 94–455, § 1604(g), added subsec. (f).
 
-Subsec. (g). Pub. L. 94–455, § 1604(k)(1), added subsec. (g).
+Subsec. (g). Pub. L. 94–455, § 1604(k)(1), added subsec. (g).
 
-1975—Subsec. (a)(4). Pub. L. 93–625, § 6(b), inserted “(other than foreclosure property, as defined in subsection (e))” after “property”.
+1975—Subsec. (a)(4). Pub. L. 93–625, § 6(b), inserted “(other than foreclosure property, as defined in subsection (e))” after “property”.
 
-Subsec. (c)(2)(F), (3)(F). Pub. L. 93–625, § 6(d)(1), added subpar. (F) to pars. (2) and (3).
+Subsec. (c)(2)(F), (3)(F). Pub. L. 93–625, § 6(d)(1), added subpar. (F) to pars. (2) and (3).
 
-Subsec. (e). Pub. L. 93–625, § 6(a), added subsec. (e).
+Subsec. (e). Pub. L. 93–625, § 6(a), added subsec. (e).
 
 1964—Subsec. (a)(6). Pub. L. 88–272 substituted “adjusted ordinary gross income (as defined in section 543(b)(2))” for “gross income”.
 
@@ -2821,7 +2821,7 @@ Subsec. (d). Pub. L. 88–554 inserted reference to subparagraph (C) of section 
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–21, title VII, § 70439(b), July 4, 2025, 139 Stat. 250, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2025.”
+Pub. L. 119–21, title VII, § 70439(b), July 4, 2025, 139 Stat. 250, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2025.”
 
 **Effective Date of 2018 Amendment**
 
@@ -2831,19 +2831,19 @@ Amendment by section 101(n) of Pub. L. 115–141 effective as if included in the
 
 Amendment by section 311(b) of Pub. L. 114–113 applicable to distributions on or after December 7, 2015, except distributions pursuant to transactions described in ruling requests pending before the Internal Revenue Service as of such date, see section 311(c) of Pub. L. 114–113, set out as a note under section 355 of this title.
 
-Pub. L. 114–113, div. Q, title III, § 312(b), Dec. 18, 2015, 129 Stat. 3091, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 114–113, div. Q, title III, § 312(b), Dec. 18, 2015, 129 Stat. 3091, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
-Pub. L. 114–113, div. Q, title III, § 317(c), Dec. 18, 2015, 129 Stat. 3094, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2015.”
+Pub. L. 114–113, div. Q, title III, § 317(c), Dec. 18, 2015, 129 Stat. 3094, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2015.”
 
-Pub. L. 114–113, div. Q, title III, § 318(b), Dec. 18, 2015, 129 Stat. 3095, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2015.”
+Pub. L. 114–113, div. Q, title III, § 318(b), Dec. 18, 2015, 129 Stat. 3095, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2015.”
 
-Pub. L. 114–113, div. Q, title III, § 319(c), Dec. 18, 2015, 129 Stat. 3096, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2015.”
+Pub. L. 114–113, div. Q, title III, § 319(c), Dec. 18, 2015, 129 Stat. 3096, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2015.”
 
-Pub. L. 114–113, div. Q, title III, § 321(c), Dec. 18, 2015, 129 Stat. 3098, provided that: “The amendments made by this section [amending this section and section 857 of this title] shall apply to taxable years beginning after December 31, 2015.”
+Pub. L. 114–113, div. Q, title III, § 321(c), Dec. 18, 2015, 129 Stat. 3098, provided that: “The amendments made by this section [amending this section and section 857 of this title] shall apply to taxable years beginning after December 31, 2015.”
 
 **Effective Dates of 2008 Amendment**
 
-Pub. L. 110–289, div. C, title II, § 3071, July 30, 2008, 122 Stat. 2902, provided that:
+Pub. L. 110–289, div. C, title II, § 3071, July 30, 2008, 122 Stat. 2902, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this section, the amendments made by this title [amending this section and section 857 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [July 30, 2008].
 
@@ -2859,19 +2859,19 @@ Pub. L. 110–289, div. C, title II, § 3071, July 30, 2008, 122 Stat. 2902, p
 
 > **“(2)** The amendment made by section 3033(b) [amending section 857 of this title] shall apply to gains and deductions recognized after the date of the enactment of this Act [July 30, 2008].
 
-> **“(d) Dealer Sales.—** The amendments made by subtitle C [subtitle C (§§ 3051, 3052) of title II of div. C of Pub. L. 110–289, amending section 857 of this title] shall apply to sales made after the date of the enactment of this Act [July 30, 2008].”
+> **“(d) Dealer Sales.—** The amendments made by subtitle C [subtitle C (§§ 3051, 3052) of title II of div. C of Pub. L. 110–289, amending section 857 of this title] shall apply to sales made after the date of the enactment of this Act [July 30, 2008].”
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, § 15312(c), May 22, 2008, 122 Stat. 1504, and Pub. L. 110–246, § 4(a), title XV, § 15312(c), June 18, 2008, 122 Stat. 1664, 2266, provided that: “The amendments made by subsection (a) [amending this section] shall apply to dispositions in taxable years beginning after the date of the enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title XV, § 15312(c), May 22, 2008, 122 Stat. 1504, and Pub. L. 110–246, § 4(a), title XV, § 15312(c), June 18, 2008, 122 Stat. 1664, 2266, provided that: “The amendments made by subsection (a) [amending this section] shall apply to dispositions in taxable years beginning after the date of the enactment of this Act [June 18, 2008].”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
-Pub. L. 110–234, title XV, § 15313(c), May 22, 2008, 122 Stat. 1504, and Pub. L. 110–246, § 4(a), title XV, § 15313(c), June 18, 2008, 122 Stat. 1664, 2266, provided that: “The amendments by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title XV, § 15313(c), May 22, 2008, 122 Stat. 1504, and Pub. L. 110–246, § 4(a), title XV, § 15313(c), June 18, 2008, 122 Stat. 1664, 2266, provided that: “The amendments by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [June 18, 2008].”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
-Pub. L. 110–234, title XV, § 15314(b), May 22, 2008, 122 Stat. 1504, and Pub. L. 110–246, § 4(a), title XV, § 15314(b), June 18, 2008, 122 Stat. 1664, 2266, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title XV, § 15314(b), May 22, 2008, 122 Stat. 1504, and Pub. L. 110–246, § 4(a), title XV, § 15314(b), June 18, 2008, 122 Stat. 1664, 2266, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [June 18, 2008].”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
@@ -2885,7 +2885,7 @@ Amendments by section 403(d)(1), (2) of Pub. L. 109–135 effective as if includ
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title II, § 243(g), Oct. 22, 2004, 118 Stat. 1445, as amended by Pub. L. 109–135, title IV, § 403(d)(4), Dec. 21, 2005, 119 Stat. 2622, provided that:
+Pub. L. 108–357, title II, § 243(g), Oct. 22, 2004, 118 Stat. 1445, as amended by Pub. L. 109–135, title IV, § 403(d)(4), Dec. 21, 2005, 119 Stat. 2622, provided that:
 
 > **“(1) Subsections (a) and (b).—** The amendments made by subsections (a) and (b) [amending this section] shall apply to taxable years beginning after December 31, 2000.
 
@@ -2911,13 +2911,13 @@ Amendment by section 835(b)(4) of Pub. L. 108–357 effective Jan. 1, 2005, with
 
 Amendment by section 532(c)(2)(H)–(K) of Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
 
-Pub. L. 106–170, title V, § 542(b)(3)(A)(ii), Dec. 17, 1999, 113 Stat. 1943, provided that: “The amendment made by this subparagraph [amending this section] shall apply to taxable years beginning after December 31, 2000.”
+Pub. L. 106–170, title V, § 542(b)(3)(A)(ii), Dec. 17, 1999, 113 Stat. 1943, provided that: “The amendment made by this subparagraph [amending this section] shall apply to taxable years beginning after December 31, 2000.”
 
-Pub. L. 106–170, title V, § 542(b)(3)(B)(ii), Dec. 17, 1999, 113 Stat. 1943, provided that: “The amendment made by this subparagraph [amending this section] shall apply to amounts received or accrued in taxable years beginning after December 31, 2000, except for amounts paid pursuant to leases in effect on July 12, 1999, or pursuant to a binding contract in effect on such date and at all times thereafter.”
+Pub. L. 106–170, title V, § 542(b)(3)(B)(ii), Dec. 17, 1999, 113 Stat. 1943, provided that: “The amendment made by this subparagraph [amending this section] shall apply to amounts received or accrued in taxable years beginning after December 31, 2000, except for amounts paid pursuant to leases in effect on July 12, 1999, or pursuant to a binding contract in effect on such date and at all times thereafter.”
 
-Pub. L. 106–170, title V, § 546, Dec. 17, 1999, 113 Stat. 1946, provided that:
+Pub. L. 106–170, title V, § 546, Dec. 17, 1999, 113 Stat. 1946, provided that:
 
-> **“(a) In General.—** The amendments made by this subpart [subpart A (§§ 541–547) of part II of subtitle C of title V of Pub. L. 106–170, amending this section and sections 163 and 857 of this title] shall apply to taxable years beginning after December 31, 2000.
+> **“(a) In General.—** The amendments made by this subpart [subpart A (§§ 541–547) of part II of subtitle C of title V of Pub. L. 106–170, amending this section and sections 163 and 857 of this title] shall apply to taxable years beginning after December 31, 2000.
 
 > **“(b) Transitional Rules Related to Section 541.—**
 
@@ -2955,9 +2955,9 @@ Pub. L. 106–170, title V, § 546, Dec. 17, 1999, 113 Stat. 1946, provided th
 
 > such election shall be treated as a reorganization qualifying under section 368(a)(1)(A) of such Code.”
 
-Pub. L. 106–170, title V, § 551(b), Dec. 17, 1999, 113 Stat. 1949, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2000.”
+Pub. L. 106–170, title V, § 551(b), Dec. 17, 1999, 113 Stat. 1949, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2000.”
 
-Pub. L. 106–170, title V, § 561(b), Dec. 17, 1999, 113 Stat. 1950, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2000.”
+Pub. L. 106–170, title V, § 561(b), Dec. 17, 1999, 113 Stat. 1950, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2000.”
 
 **Effective Date of 1997 Amendment**
 
@@ -2969,21 +2969,21 @@ Amendment by section 1621(b)(5) of Pub. L. 104–188 effective Sept. 1, 1997, se
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–66, title XIII, § 13149(b), Aug. 10, 1993, 107 Stat. 446, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1993.”
+Pub. L. 103–66, title XIII, § 13149(b), Aug. 10, 1993, 107 Stat. 446, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 1993.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1006(p)(2), Nov. 10, 1988, 102 Stat. 3416, provided that: “Notwithstanding section 669 of the Reform Act [Pub. L. 99–514, set out below], the amendment made by section 662(c) of the Reform Act [amending this section] shall apply to taxable years beginning after December 31, 1986, but only in the case of obligations acquired after October 22, 1986.”
+Pub. L. 100–647, title I, § 1006(p)(2), Nov. 10, 1988, 102 Stat. 3416, provided that: “Notwithstanding section 669 of the Reform Act [Pub. L. 99–514, set out below], the amendment made by section 662(c) of the Reform Act [amending this section] shall apply to taxable years beginning after December 31, 1986, but only in the case of obligations acquired after October 22, 1986.”
 
-Pub. L. 100–647, title I, § 1006(p)(4)(B), Nov. 10, 1988, 102 Stat. 3417, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title I, § 1006(p)(4)(B), Nov. 10, 1988, 102 Stat. 3417, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to taxable years ending after the date of the enactment of this Act [Nov. 10, 1988].”
 
 Amendment by section 1006(p)(1), (3), (5), (q), (t)(11) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title VI, § 669, Oct. 22, 1986, 100 Stat. 2308, as amended by Pub. L. 100–647, title I, § 1018(u)(29), Nov. 10, 1988, 102 Stat. 3591, provided that:
+Pub. L. 99–514, title VI, § 669, Oct. 22, 1986, 100 Stat. 2308, as amended by Pub. L. 100–647, title I, § 1018(u)(29), Nov. 10, 1988, 102 Stat. 3591, provided that:
 
-> **“(a) General Rule.—** Except as otherwise provided in this section, the amendments made by this subtitle [subtitle G (§§ 661–668) of title VI of Pub. L. 99–514, amending this section and sections 857 to 860, 4981, and 6697 of this title] shall apply to taxable years beginning after December 31, 1986.
+> **“(a) General Rule.—** Except as otherwise provided in this section, the amendments made by this subtitle [subtitle G (§§ 661–668) of title VI of Pub. L. 99–514, amending this section and sections 857 to 860, 4981, and 6697 of this title] shall apply to taxable years beginning after December 31, 1986.
 
 > **“(b) Section 668.—** The amendments made by section 668 [amending sections 857, 858, and 4981 of this title] shall apply to calendar years beginning after December 31, 1986.
 
@@ -2999,17 +2999,17 @@ Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 198
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–600, title II, § 363(d), Nov. 6, 1978, 92 Stat. 2854, provided that: “The amendments made by subsections (a) [amending this section] and (b) [amending section 857 of this title] shall apply to taxable years ending after the date of the enactment of this Act [Nov. 6, 1978]. The amendment made by subsection (c) [amending this section] shall apply to extensions granted after the date of the enactment of this Act with respect to periods beginning after December 31, 1977.”
+Pub. L. 95–600, title II, § 363(d), Nov. 6, 1978, 92 Stat. 2854, provided that: “The amendments made by subsections (a) [amending this section] and (b) [amending section 857 of this title] shall apply to taxable years ending after the date of the enactment of this Act [Nov. 6, 1978]. The amendment made by subsection (c) [amending this section] shall apply to extensions granted after the date of the enactment of this Act with respect to periods beginning after December 31, 1977.”
 
 Amendment by section 701(t)(2) of Pub. L. 95–600 effective Oct. 4, 1976, see section 701(t)(5) of Pub. L. 95–600, set out as a note under section 859 of this title.
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
-Pub. L. 94–455, title XVI, § 1608(d), Oct. 4, 1976, 90 Stat. 1758, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XVI, § 1608(d), Oct. 4, 1976, 90 Stat. 1758, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** Except as provided in paragraphs (2) and (3), the amendments made by sections 1603, 1604, and 1605 [enacting sections 860 and 4981 of this title and amending this section and sections 275, 857, 858, 6161, 6211 to 6214, 6344, 6512, 6601, and 7422 of this title] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act [Oct. 4, 1976].
 
@@ -3027,7 +3027,7 @@ Pub. L. 94–455, title XVI, § 1608(d), Oct. 4, 1976, 90 Stat. 1758, as amend
 
 **Effective Date of 1975 Amendment**
 
-Pub. L. 93–625, § 6(e), Jan. 3, 1975, 88 Stat. 2114, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section and section 857 of this title] apply to foreclosure property acquired after December 31, 1973. Notwithstanding the provisions of section 856(e)(5) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by subsection (a) of this section) any taxpayer required to make an election with respect to foreclosure property sooner than 90 days after the date of enactment of this Act [Jan. 3, 1975], may make that election at any time before the 91st day after the date of enactment of this Act.”
+Pub. L. 93–625, § 6(e), Jan. 3, 1975, 88 Stat. 2114, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [amending this section and section 857 of this title] apply to foreclosure property acquired after December 31, 1973. Notwithstanding the provisions of section 856(e)(5) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by subsection (a) of this section) any taxpayer required to make an election with respect to foreclosure property sooner than 90 days after the date of enactment of this Act [Jan. 3, 1975], may make that election at any time before the 91st day after the date of enactment of this Act.”
 
 **Effective Date of 1964 Amendments**
 
@@ -3037,7 +3037,7 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 **Effective Date**
 
-Pub. L. 86–779, § 10(k), Sept. 14, 1960, 74 Stat. 1009, provided that: “The amendments made by this section [enacting this section and sections 857 and 858 and amending sections 11, 34, 116, 243, 318, 443, 852, 855, and 1504 of this title] shall apply with respect to taxable years of real estate investment trusts beginning after December 31, 1960.”
+Pub. L. 86–779, § 10(k), Sept. 14, 1960, 74 Stat. 1009, provided that: “The amendments made by this section [enacting this section and sections 857 and 858 and amending sections 11, 34, 116, 243, 318, 443, 852, 855, and 1504 of this title] shall apply with respect to taxable years of real estate investment trusts beginning after December 31, 1960.”
 
 **Savings Provision**
 
@@ -3045,13 +3045,13 @@ For provisions that nothing in amendment by section 401(b)(28) of Pub. L. 115–
 
 **Study Relating To Taxable REIT Subsidiaries**
 
-Pub. L. 106–170, title V, § 547, Dec. 17, 1999, 113 Stat. 1947, provided that: “The Secretary of the Treasury shall conduct a study to determine how many taxable REIT subsidiaries are in existence and the aggregate amount of taxes paid by such subsidiaries. The Secretary shall submit a report to the Congress describing the results of such study.”
+Pub. L. 106–170, title V, § 547, Dec. 17, 1999, 113 Stat. 1947, provided that: “The Secretary of the Treasury shall conduct a study to determine how many taxable REIT subsidiaries are in existence and the aggregate amount of taxes paid by such subsidiaries. The Secretary shall submit a report to the Congress describing the results of such study.”
 
 **Trust Not Disqualified in Certain Cases Where Income Tests Not Met**
 
-Pub. L. 94–455, title XVI, § 1608(b), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by section 1602 [amending this section and section 857 of this title] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act [Oct. 4, 1976]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act.”
+Pub. L. 94–455, title XVI, § 1608(b), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by section 1602 [amending this section and section 857 of this title] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act [Oct. 4, 1976]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act.”
 
-### § 857. Taxation of real estate investment trusts and their beneficiaries
+### § 857. Taxation of real estate investment trusts and their beneficiaries
 
 **(a) Requirements applicable to real estate investment trusts** The provisions of this part (other than subsection (d) of this section and subsection (g) of section 856) shall not apply to a real estate investment trust for a taxable year unless—
 
@@ -3485,7 +3485,7 @@ The Secretary may prescribe regulations or other guidance requiring the proporti
 
 For provisions relating to excise tax based on certain real estate investment trust taxable income not distributed during the taxable year, see section 4981.
 
-(Added Pub. L. 86–779, § 10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, § 201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, § 511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, § 6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, § 1402(b)(1)(P), (2), title XVI, §§ 1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§ 1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§ 301(b)(12), 362(d)(3), 363(b), title IV, § 403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, § 103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, § 404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, § 302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§ 16(a), 55(b), title X, § 1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§ 612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§ 1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, § 11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§ 1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, § 6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§ 532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, § 1(a)(7) [title III, § 311(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§ 413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, § 302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, § 402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, § 243(c), (e), (f)(4), title III, § 321(a), title IV, § 418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§ 403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639; Pub. L. 110–172, § 11(a)(17)(B), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 110–234, title XV, §§ 15311(c), 15315(a)–(d), May 22, 2008, 122 Stat. 1503–1505; Pub. L. 110–246, § 4(a), title XV, §§ 15311(c), 15315(a)–(d), June 18, 2008, 122 Stat. 1664, 2265–2267; Pub. L. 110–289, div. C, title II, §§ 3033, 3051, 3052, July 30, 2008, 122 Stat. 2900, 2901; Pub. L. 114–113, div. Q, title III, §§ 313(a), (b), 316(a), 320(a), 321(a)(1), (2), (b), 322(a)(2)(B), Dec. 18, 2015, 129 Stat. 3091–3093, 3096, 3097, 3101; Pub. L. 115–97, title I, § 13001(b)(2)(K), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 115–141, div. U, title IV, § 401(a)(148), Mar. 23, 2018, 132 Stat. 1191.)
+(Added Pub. L. 86–779, § 10(a), Sept. 14, 1960, 74 Stat. 1006; amended Pub. L. 88–272, title II, § 201(d)(11), Feb. 26, 1964, 78 Stat. 32; Pub. L. 91–172, title V, § 511(c)(3), Dec. 30, 1969, 83 Stat. 637; Pub. L. 93–625, § 6(c), (d)(2)–(4), Jan. 3, 1975, 88 Stat. 2113, 2114; Pub. L. 94–455, title XIV, § 1402(b)(1)(P), (2), title XVI, §§ 1601(c), 1602(b), 1603(b), (c)(5), 1604(c)(2), (f)(3)(B), (j), (k)(2)(B), 1605(b)(2), 1606(a), (d), 1607(a), (b)(1)(A), (2), (3), title XIX, §§ 1901(a)(112), (b)(1)(V), (33)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1746–1748, 1750–1757, 1783, 1792, 1801, 1834; Pub. L. 95–600, title III, §§ 301(b)(12), 362(d)(3), 363(b), title IV, § 403(c)(3), Nov. 6, 1978, 92 Stat. 2822, 2851, 2852, 2868; Pub. L. 96–222, title I, § 103(a)(1), Apr. 1, 1980, 94 Stat. 208; Pub. L. 96–223, title IV, § 404(b)(8), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, § 302(c)(5), (d)(1), Aug. 13, 1981, 95 Stat. 273, 274; Pub. L. 98–369, div. A, title I, §§ 16(a), 55(b), title X, § 1001(b)(13), (e), July 18, 1984, 98 Stat. 505, 572, 1011, 1012; Pub. L. 99–514, title VI, §§ 612(b)(7), 661(b), 664, 665(a), (b)(1), 666, 668(b)(1)(A), (2), (3), Oct. 22, 1986, 100 Stat. 2251, 2300, 2303–2305, 2307, 2308; Pub. L. 100–647, title I, §§ 1006(r), (s)(2), (4), (5), 1018(u)(28), Nov. 10, 1988, 102 Stat. 3418, 3419, 3591; Pub. L. 101–508, title XI, § 11704(a)(37), Nov. 5, 1990, 104 Stat. 1388–520; Pub. L. 105–34, title XII, §§ 1251(a), 1254(a), (b)(1), 1255(b)(2), (3), 1256, 1259, 1260, Aug. 5, 1997, 111 Stat. 1030, 1032–1035; Pub. L. 105–206, title VI, § 6012(g), July 22, 1998, 112 Stat. 819; Pub. L. 106–170, title V, §§ 532(c)(2)(L), (M), 545, 556(a), (b), 566(a)(2), (b), Dec. 17, 1999, 113 Stat. 1930, 1944, 1949, 1950; Pub. L. 106–554, § 1(a)(7) [title III, § 311(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 107–147, title IV, §§ 413(a), 417(13), Mar. 9, 2002, 116 Stat. 54, 56; Pub. L. 108–27, title III, § 302(d), May 28, 2003, 117 Stat. 763; Pub. L. 108–311, title IV, § 402(a)(5)(E), Oct. 4, 2004, 118 Stat. 1185; Pub. L. 108–357, title II, § 243(c), (e), (f)(4), title III, § 321(a), title IV, § 418(b), Oct. 22, 2004, 118 Stat. 1442, 1445, 1473, 1512; Pub. L. 109–135, title IV, §§ 403(d)(3), 412(ii), Dec. 21, 2005, 119 Stat. 2622, 2639; Pub. L. 110–172, § 11(a)(17)(B), Dec. 29, 2007, 121 Stat. 2486; Pub. L. 110–234, title XV, §§ 15311(c), 15315(a)–(d), May 22, 2008, 122 Stat. 1503–1505; Pub. L. 110–246, § 4(a), title XV, §§ 15311(c), 15315(a)–(d), June 18, 2008, 122 Stat. 1664, 2265–2267; Pub. L. 110–289, div. C, title II, §§ 3033, 3051, 3052, July 30, 2008, 122 Stat. 2900, 2901; Pub. L. 114–113, div. Q, title III, §§ 313(a), (b), 316(a), 320(a), 321(a)(1), (2), (b), 322(a)(2)(B), Dec. 18, 2015, 129 Stat. 3091–3093, 3096, 3097, 3101; Pub. L. 115–97, title I, § 13001(b)(2)(K), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 115–141, div. U, title IV, § 401(a)(148), Mar. 23, 2018, 132 Stat. 1191.)
 
 **Editorial Notes**
 
@@ -3501,75 +3501,75 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (b)(6)(J). Pub. L. 115–141 substituted “section 856(c)(10)” for “section 856(c)(8)”.
 
-2017—Subsec. (b)(3)(A), (B). Pub. L. 115–97, § 13001(b)(2)(K)(i), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which related to alternative tax in case of capital gains.
+2017—Subsec. (b)(3)(A), (B). Pub. L. 115–97, § 13001(b)(2)(K)(i), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which related to alternative tax in case of capital gains.
 
-Subsec. (b)(3)(C). Pub. L. 115–97, § 13001(b)(2)(K)(i), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
+Subsec. (b)(3)(C). Pub. L. 115–97, § 13001(b)(2)(K)(i), redesignated subpar. (D) as (C). Former subpar. (C) redesignated (B).
 
-Subsec. (b)(3)(C)(i), (ii), (iv). Pub. L. 115–97, § 13001(b)(2)(K)(ii), substituted “paragraph (1)” for “subparagraph (A)(ii)” in cl. (i) and “the tax imposed by paragraph (1) on undistributed capital gain” for “the tax imposed by subparagraph (A)(ii)” in cls. (ii) and (iv).
+Subsec. (b)(3)(C)(i), (ii), (iv). Pub. L. 115–97, § 13001(b)(2)(K)(ii), substituted “paragraph (1)” for “subparagraph (A)(ii)” in cl. (i) and “the tax imposed by paragraph (1) on undistributed capital gain” for “the tax imposed by subparagraph (A)(ii)” in cls. (ii) and (iv).
 
-Subsec. (b)(3)(D). Pub. L. 115–97, § 13001(b)(2)(K)(i), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
+Subsec. (b)(3)(D). Pub. L. 115–97, § 13001(b)(2)(K)(i), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
 
-Subsec. (b)(3)(E). Pub. L. 115–97, § 13001(b)(2)(K)(i), (iii), redesignated subpar. (F) as (E) and substituted “subparagraph (A) or (C)” for “subparagraph (B) or (D)”. Former subpar. (E) redesignated (D).
+Subsec. (b)(3)(E). Pub. L. 115–97, § 13001(b)(2)(K)(i), (iii), redesignated subpar. (F) as (E) and substituted “subparagraph (A) or (C)” for “subparagraph (B) or (D)”. Former subpar. (E) redesignated (D).
 
-Subsec. (b)(3)(F). Pub. L. 115–97, § 13001(b)(2)(K)(iv), added subpar. (F). Former subpar. (F) redesignated (E).
+Subsec. (b)(3)(F). Pub. L. 115–97, § 13001(b)(2)(K)(iv), added subpar. (F). Former subpar. (F) redesignated (E).
 
-2015—Subsec. (b)(3)(F). Pub. L. 114–113, § 322(a)(2)(B), inserted “or subparagraph (A)(ii) or (C) of section 897(k)(2)” after “897(h)(1)”.
+2015—Subsec. (b)(3)(F). Pub. L. 114–113, § 322(a)(2)(B), inserted “or subparagraph (A)(ii) or (C) of section 897(k)(2)” after “897(h)(1)”.
 
-Subsec. (b)(6)(C). Pub. L. 114–113, § 313(b)(1), in introductory provisions, struck out “and which is described in section 1221(a)(1)” after “(as defined in section 856(c)(5)(B))”.
+Subsec. (b)(6)(C). Pub. L. 114–113, § 313(b)(1), in introductory provisions, struck out “and which is described in section 1221(a)(1)” after “(as defined in section 856(c)(5)(B))”.
 
-Subsec. (b)(6)(C)(iii)(IV), (V). Pub. L. 114–113, § 313(a)(1), added subcls. (IV) and (V).
+Subsec. (b)(6)(C)(iii)(IV), (V). Pub. L. 114–113, § 313(a)(1), added subcls. (IV) and (V).
 
-Subsec. (b)(6)(C)(v). Pub. L. 114–113, § 321(a)(1), inserted “or a taxable REIT subsidiary” before period at end.
+Subsec. (b)(6)(C)(v). Pub. L. 114–113, § 321(a)(1), inserted “or a taxable REIT subsidiary” before period at end.
 
-Subsec. (b)(6)(D). Pub. L. 114–113, § 313(b)(1), in introductory provisions, struck out “and which is described in section 1221(a)(1)” after “(as defined in section 856(c)(5)(B))”.
+Subsec. (b)(6)(D). Pub. L. 114–113, § 313(b)(1), in introductory provisions, struck out “and which is described in section 1221(a)(1)” after “(as defined in section 856(c)(5)(B))”.
 
-Subsec. (b)(6)(D)(iv)(IV), (V). Pub. L. 114–113, § 313(a)(3), added subcls. (IV) and (V).
+Subsec. (b)(6)(D)(iv)(IV), (V). Pub. L. 114–113, § 313(a)(3), added subcls. (IV) and (V).
 
-Subsec. (b)(6)(D)(v). Pub. L. 114–113, § 321(a)(2), struck out “, in the case of a sale on or before the termination date,” before “a taxable REIT subsidiary”.
+Subsec. (b)(6)(D)(v). Pub. L. 114–113, § 321(a)(2), struck out “, in the case of a sale on or before the termination date,” before “a taxable REIT subsidiary”.
 
-Subsec. (b)(6)(F). Pub. L. 114–113, § 313(b)(2), amended subpar. (F) generally. Prior to amendment, text read as follows: “In determining whether or not any sale constitutes a ‘prohibited transaction’ for purposes of subparagraph (A), the fact that such sale does not meet the requirements of subparagraph (C) or (D) shall not be taken into account; and such determination, in the case of a sale not meeting such requirements, shall be made as if subparagraphs (C), (D), and (E) had not been enacted.”
+Subsec. (b)(6)(F). Pub. L. 114–113, § 313(b)(2), amended subpar. (F) generally. Prior to amendment, text read as follows: “In determining whether or not any sale constitutes a ‘prohibited transaction’ for purposes of subparagraph (A), the fact that such sale does not meet the requirements of subparagraph (C) or (D) shall not be taken into account; and such determination, in the case of a sale not meeting such requirements, shall be made as if subparagraphs (C), (D), and (E) had not been enacted.”
 
-Subsec. (b)(6)(G) to (J). Pub. L. 114–113, § 313(a)(2), added subpars. (G) and (H) and redesignated former subpars. (G) and (H) as (I) and (J), respectively.
+Subsec. (b)(6)(G) to (J). Pub. L. 114–113, § 313(a)(2), added subpars. (G) and (H) and redesignated former subpars. (G) and (H) as (I) and (J), respectively.
 
-Subsec. (b)(7)(A). Pub. L. 114–113, § 321(b)(1), substituted “excess interest, and redetermined TRS service income” for “and excess interest”.
+Subsec. (b)(7)(A). Pub. L. 114–113, § 321(b)(1), substituted “excess interest, and redetermined TRS service income” for “and excess interest”.
 
-Subsec. (b)(7)(B)(i), (C). Pub. L. 114–113, § 321(b)(3), substituted “subparagraph (F)” for “subparagraph (E)”.
+Subsec. (b)(7)(B)(i), (C). Pub. L. 114–113, § 321(b)(3), substituted “subparagraph (F)” for “subparagraph (E)”.
 
-Subsec. (b)(7)(E) to (G). Pub. L. 114–113, § 321(b)(2), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+Subsec. (b)(7)(E) to (G). Pub. L. 114–113, § 321(b)(2), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-Subsec. (d)(1). Pub. L. 114–113, § 320(a)(1), amended par. (1) generally. Prior to amendment, text read as follows: “The earnings and profits of a real estate investment trust for any taxable year (but not its accumulated earnings) shall not be reduced by any amount which is not allowable in computing its taxable income for such taxable year. For purposes of this subsection, the term ‘real estate investment trust’ includes a domestic corporation, trust, or association which is a real estate investment trust determined without regard to the requirements of subsection (a).”
+Subsec. (d)(1). Pub. L. 114–113, § 320(a)(1), amended par. (1) generally. Prior to amendment, text read as follows: “The earnings and profits of a real estate investment trust for any taxable year (but not its accumulated earnings) shall not be reduced by any amount which is not allowable in computing its taxable income for such taxable year. For purposes of this subsection, the term ‘real estate investment trust’ includes a domestic corporation, trust, or association which is a real estate investment trust determined without regard to the requirements of subsection (a).”
 
-Subsec. (d)(4), (5). Pub. L. 114–113, § 320(a)(2), added pars. (4) and (5).
+Subsec. (d)(4), (5). Pub. L. 114–113, § 320(a)(2), added pars. (4) and (5).
 
-Subsecs. (g), (h). Pub. L. 114–113, § 316(a), added subsec. (g) and redesignated former subsec. (g) as (h).
+Subsecs. (g), (h). Pub. L. 114–113, § 316(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-2008—Subsec. (b)(3)(A)(ii). Pub. L. 110–246, § 15311(c), substituted “rates” for “rate”.
+2008—Subsec. (b)(3)(A)(ii). Pub. L. 110–246, § 15311(c), substituted “rates” for “rate”.
 
-Subsec. (b)(4)(B)(i). Pub. L. 110–289, § 3033(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “gain from the sale or other disposition of foreclosure property described in section 1221(a)(1) and the gross income for the taxable year derived from foreclosure property (as defined in section 856(e)), but only to the extent such gross income is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3), over”.
+Subsec. (b)(4)(B)(i). Pub. L. 110–289, § 3033(a), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “gain from the sale or other disposition of foreclosure property described in section 1221(a)(1) and the gross income for the taxable year derived from foreclosure property (as defined in section 856(e)), but only to the extent such gross income is not described in subparagraph (A), (B), (C), (D), (E), or (G) of section 856(c)(3), over”.
 
-Subsec. (b)(6)(B)(i). Pub. L. 110–289, § 3033(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the term ‘net income derived from prohibited transactions’ means the excess of the gain from prohibited transactions over the deductions allowed by this chapter which are directly connected with prohibited transactions;”.
+Subsec. (b)(6)(B)(i). Pub. L. 110–289, § 3033(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the term ‘net income derived from prohibited transactions’ means the excess of the gain from prohibited transactions over the deductions allowed by this chapter which are directly connected with prohibited transactions;”.
 
-Subsec. (b)(6)(C). Pub. L. 110–289, § 3051(a)(3), substituted “real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1) if” for “real estate asset as defined in section 856(c)(5)(B) if” in introductory provisions.
+Subsec. (b)(6)(C). Pub. L. 110–289, § 3051(a)(3), substituted “real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1) if” for “real estate asset as defined in section 856(c)(5)(B) if” in introductory provisions.
 
-Subsec. (b)(6)(C)(i). Pub. L. 110–289, § 3051(a)(1), substituted “2 years” for “4 years”.
+Subsec. (b)(6)(C)(i). Pub. L. 110–289, § 3051(a)(1), substituted “2 years” for “4 years”.
 
-Subsec. (b)(6)(C)(ii). Pub. L. 110–289, § 3051(a)(2), substituted “2-year period” for “4-year period”.
+Subsec. (b)(6)(C)(ii). Pub. L. 110–289, § 3051(a)(2), substituted “2-year period” for “4-year period”.
 
-Subsec. (b)(6)(C)(iii)(III). Pub. L. 110–289, § 3052(1), added subcl. (III).
+Subsec. (b)(6)(C)(iii)(III). Pub. L. 110–289, § 3052(1), added subcl. (III).
 
-Subsec. (b)(6)(C)(iv). Pub. L. 110–289, § 3051(a)(1), substituted “2 years” for “4 years”.
+Subsec. (b)(6)(C)(iv). Pub. L. 110–289, § 3051(a)(1), substituted “2 years” for “4 years”.
 
-Subsec. (b)(6)(D). Pub. L. 110–289, § 3051(a)(3), substituted “real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1) if” for “real estate asset (as defined in section 856(c)(5)(B)) if” in introductory provisions.
+Subsec. (b)(6)(D). Pub. L. 110–289, § 3051(a)(3), substituted “real estate asset (as defined in section 856(c)(5)(B)) and which is described in section 1221(a)(1) if” for “real estate asset (as defined in section 856(c)(5)(B)) if” in introductory provisions.
 
-Subsec. (b)(6)(D)(i). Pub. L. 110–289, § 3051(a)(1), substituted “2 years” for “4 years”.
+Subsec. (b)(6)(D)(i). Pub. L. 110–289, § 3051(a)(1), substituted “2 years” for “4 years”.
 
-Subsec. (b)(6)(D)(ii), (iii). Pub. L. 110–289, § 3051(a)(2), substituted “2-year period” for “4-year period” in introductory provisions.
+Subsec. (b)(6)(D)(ii), (iii). Pub. L. 110–289, § 3051(a)(2), substituted “2-year period” for “4-year period” in introductory provisions.
 
-Subsec. (b)(6)(D)(iv)(III). Pub. L. 110–289, § 3052(2), added subcl. (III).
+Subsec. (b)(6)(D)(iv)(III). Pub. L. 110–289, § 3052(2), added subcl. (III).
 
-Subsec. (b)(6)(D)(v). Pub. L. 110–246, § 15315(b), inserted “, or, in the case of a sale on or before the termination date, a taxable REIT subsidiary” after “any income”.
+Subsec. (b)(6)(D)(v). Pub. L. 110–246, § 15315(b), inserted “, or, in the case of a sale on or before the termination date, a taxable REIT subsidiary” after “any income”.
 
-Subsec. (b)(6)(G). Pub. L. 110–289, § 3051(b), redesignated subpar. (H) as (G), inserted at end “For purposes of the preceding sentence, the reference to subparagraph (D) shall be a reference to such subparagraph as in effect on the day before the enactment of the Housing Assistance Tax Act of 2008, as modified by subparagraph (G) as so in effect.”, and struck out former subpar. (G). Prior to amendment, text of subpar. (G) read as follows:
+Subsec. (b)(6)(G). Pub. L. 110–289, § 3051(b), redesignated subpar. (H) as (G), inserted at end “For purposes of the preceding sentence, the reference to subparagraph (D) shall be a reference to such subparagraph as in effect on the day before the enactment of the Housing Assistance Tax Act of 2008, as modified by subparagraph (G) as so in effect.”, and struck out former subpar. (G). Prior to amendment, text of subpar. (G) read as follows:
 
 “(i) In general.—In the case of the sale of a real estate asset (as defined in section 856(c)(5)(B)) to a qualified organization (as defined in section 170(h)(3)) exclusively for conservation purposes (within the meaning of section 170(h)(1)(C)), subparagraph (D) shall be applied—
 
@@ -3579,187 +3579,187 @@ Subsec. (b)(6)(G). Pub. L. 110–289, § 3051(b), redesignated subpar. (H) as 
 
 “(ii) Termination.—This subparagraph shall not apply to sales after the termination date.”
 
-Pub. L. 110–246, § 15315(a), added subpar. (G).
+Pub. L. 110–246, § 15315(a), added subpar. (G).
 
-Subsec. (b)(6)(H), (I). Pub. L. 110–289, § 3051(b)(1), redesignated subpar. (I) as (H). Former subpar. (H) redesignated (G).
+Subsec. (b)(6)(H), (I). Pub. L. 110–289, § 3051(b)(1), redesignated subpar. (I) as (H). Former subpar. (H) redesignated (G).
 
-Pub. L. 110–246, § 15315(c), (d), added subpars. (H) and (I).
+Pub. L. 110–246, § 15315(c), (d), added subpars. (H) and (I).
 
 2007—Subsec. (b)(8)(B). Pub. L. 110–172 amended heading and text generally. Prior to amendment, text read as follows: “For purposes of this paragraph, the rules of paragraphs (3) and (4) of section 246(c) shall apply in determining the period for which the taxpayer has held any share of stock or beneficial interest; except that ‘6 months’ shall be substituted for the number of days specified in subparagraph (B) of section 246(c)(3).”
 
-2005—Subsec. (b)(2)(E). Pub. L. 109–135, § 403(d)(3), substituted “section 856(c)(7)(C), and section 856(g)(5)” for “section 856(c)(7)(B)(iii), and section 856(g)(1).”
+2005—Subsec. (b)(2)(E). Pub. L. 109–135, § 403(d)(3), substituted “section 856(c)(7)(C), and section 856(g)(5)” for “section 856(c)(7)(B)(iii), and section 856(g)(1).”
 
-Subsec. (b)(6)(E). Pub. L. 109–135, § 412(ii)(1), substituted “subparagraphs (C) and (D)” for “subparagraph (C)” in introductory provisions.
+Subsec. (b)(6)(E). Pub. L. 109–135, § 412(ii)(1), substituted “subparagraphs (C) and (D)” for “subparagraph (C)” in introductory provisions.
 
-Subsec. (b)(6)(F). Pub. L. 109–135, § 412(ii)(2), substituted “subparagraph (C) or (D)” for “subparagraph (C) of this paragraph” and “subparagraphs (C), (D), and (E)” for “subparagraphs (C) and (D)”.
+Subsec. (b)(6)(F). Pub. L. 109–135, § 412(ii)(2), substituted “subparagraph (C) or (D)” for “subparagraph (C) of this paragraph” and “subparagraphs (C), (D), and (E)” for “subparagraphs (C) and (D)”.
 
-2004—Subsec. (b)(2)(E). Pub. L. 108–357, § 243(f)(4), substituted “(7) of this subsection, section 856(c)(7)(B)(iii), and section 856(g)(1).” for “(7)”.
+2004—Subsec. (b)(2)(E). Pub. L. 108–357, § 243(f)(4), substituted “(7) of this subsection, section 856(c)(7)(B)(iii), and section 856(g)(1).” for “(7)”.
 
-Subsec. (b)(3)(F). Pub. L. 108–357, § 418(b), added subpar. (F).
+Subsec. (b)(3)(F). Pub. L. 108–357, § 418(b), added subpar. (F).
 
-Subsec. (b)(5)(A)(i). Pub. L. 108–357, § 243(e), substituted “95 percent” for “90 percent”.
+Subsec. (b)(5)(A)(i). Pub. L. 108–357, § 243(e), substituted “95 percent” for “90 percent”.
 
-Subsec. (b)(6)(D) to (F). Pub. L. 108–357, § 321(a), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+Subsec. (b)(6)(D) to (F). Pub. L. 108–357, § 321(a), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-Subsec. (b)(7)(B)(ii) to (vii). Pub. L. 108–357, § 243(c), redesignated cls. (iii) to (vii) as (ii) to (vi), respectively, and struck out former cl. (ii), which related to exception for amounts received by a REIT for services furnished or rendered by a taxable REIT subsidiary that were described in section 856(d)(1)(B) of this title, or from a taxable REIT subsidiary that were described in par. (7)(C)(ii) of such section.
+Subsec. (b)(7)(B)(ii) to (vii). Pub. L. 108–357, § 243(c), redesignated cls. (iii) to (vii) as (ii) to (vi), respectively, and struck out former cl. (ii), which related to exception for amounts received by a REIT for services furnished or rendered by a taxable REIT subsidiary that were described in section 856(d)(1)(B) of this title, or from a taxable REIT subsidiary that were described in par. (7)(C)(ii) of such section.
 
-Subsec. (c)(2). Pub. L. 108–311, § 402(a)(5)(E), reenacted heading without change and amended text generally. Prior to amendment, text related to rules applicable to dividends received from real estate investment trusts for purposes of section 1(h)(11) of this title.
+Subsec. (c)(2). Pub. L. 108–311, § 402(a)(5)(E), reenacted heading without change and amended text generally. Prior to amendment, text related to rules applicable to dividends received from real estate investment trusts for purposes of section 1(h)(11) of this title.
 
 2003—Subsec. (c). Pub. L. 108–27 reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “For purposes of section 243 (relating to deductions for dividends received by corporations), a dividend received from a real estate investment trust which meets the requirements of this part shall not be considered as a dividend.”
 
-2002—Subsec. (b)(7)(B)(i). Pub. L. 107–147, § 417(13), substituted “section 856(d)” for “subsection 856(d)”.
+2002—Subsec. (b)(7)(B)(i). Pub. L. 107–147, § 417(13), substituted “section 856(d)” for “subsection 856(d)”.
 
-Pub. L. 107–147, § 413(a)(1), substituted “to the extent the amount of the rents” for “the amount of which”.
+Pub. L. 107–147, § 413(a)(1), substituted “to the extent the amount of the rents” for “the amount of which”.
 
-Subsec. (b)(7)(C). Pub. L. 107–147, § 413(a)(2), substituted “to the extent the amount” for “if the amount”.
+Subsec. (b)(7)(C). Pub. L. 107–147, § 413(a)(2), substituted “to the extent the amount” for “if the amount”.
 
 2000—Subsec. (b)(7)(B)(ii). Pub. L. 106–554 amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “Clause (i) shall not apply to amounts received directly or indirectly by a real estate investment trust for services described in paragraph (1)(B) or (7)(C)(i) of section 856(d).”
 
-1999—Subsec. (a)(1)(A)(i), (ii). Pub. L. 106–170, § 556(a), substituted “90 percent” for “95 percent (90 percent for taxable years beginning before January 1, 1980)”.
+1999—Subsec. (a)(1)(A)(i), (ii). Pub. L. 106–170, § 556(a), substituted “90 percent” for “95 percent (90 percent for taxable years beginning before January 1, 1980)”.
 
-Subsec. (b)(2)(E). Pub. L. 106–170, § 545(b), substituted “paragraphs (5) and (7)” for “paragraph (5)”.
+Subsec. (b)(2)(E). Pub. L. 106–170, § 545(b), substituted “paragraphs (5) and (7)” for “paragraph (5)”.
 
-Subsec. (b)(4)(B)(i). Pub. L. 106–170, § 532(c)(2)(L), substituted “section 1221(a)(1)” for “section 1221(1)”.
+Subsec. (b)(4)(B)(i). Pub. L. 106–170, § 532(c)(2)(L), substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-Subsec. (b)(5)(A)(i). Pub. L. 106–170, § 556(b), substituted “90 percent” for “95 percent (90 percent in the case of taxable years beginning before January 1, 1980)”.
+Subsec. (b)(5)(A)(i). Pub. L. 106–170, § 556(b), substituted “90 percent” for “95 percent (90 percent in the case of taxable years beginning before January 1, 1980)”.
 
-Subsec. (b)(6)(B)(iii). Pub. L. 106–170, § 532(c)(2)(M), substituted “section 1221(a)(1)” for “section 1221(1)”.
+Subsec. (b)(6)(B)(iii). Pub. L. 106–170, § 532(c)(2)(M), substituted “section 1221(a)(1)” for “section 1221(1)”.
 
-Subsec. (b)(7) to (9). Pub. L. 106–170, § 545(a), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
+Subsec. (b)(7) to (9). Pub. L. 106–170, § 545(a), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
-Subsec. (d)(3)(A). Pub. L. 106–170, § 566(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “shall be treated for purposes of this subsection and subsection (a)(2)(B) as made from the earliest earnings and profits accumulated in any taxable year to which the provisions of this part did not apply rather than the most recently accumulated earnings and profits, and”.
+Subsec. (d)(3)(A). Pub. L. 106–170, § 566(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “shall be treated for purposes of this subsection and subsection (a)(2)(B) as made from the earliest earnings and profits accumulated in any taxable year to which the provisions of this part did not apply rather than the most recently accumulated earnings and profits, and”.
 
-Subsec. (d)(3)(B). Pub. L. 106–170, § 566(b), inserted “and section 858” before period at end.
+Subsec. (d)(3)(B). Pub. L. 106–170, § 566(b), inserted “and section 858” before period at end.
 
 1998—Subsec. (d)(3)(A). Pub. L. 105–206 substituted “earliest earnings and profits accumulated in any taxable year to which the provisions of this part did not apply” for “earliest accumulated earnings and profits (other than earnings and profits to which subsection (a)(2)(A) applies)”.
 
-1997—Subsec. (a)(2), (3). Pub. L. 105–34, § 1251(a)(1), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the real estate investment trust complies for such year with regulations prescribed by the Secretary for the purpose of ascertaining the actual ownership of the outstanding shares, or certificates of beneficial interest, of such trust, and”.
+1997—Subsec. (a)(2), (3). Pub. L. 105–34, § 1251(a)(1), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “the real estate investment trust complies for such year with regulations prescribed by the Secretary for the purpose of ascertaining the actual ownership of the outstanding shares, or certificates of beneficial interest, of such trust, and”.
 
-Subsec. (b)(3)(D), (E). Pub. L. 105–34, § 1254(a), added subpar. (D) and redesignated former subpar. (D) as (E).
+Subsec. (b)(3)(D), (E). Pub. L. 105–34, § 1254(a), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (b)(5). Pub. L. 105–34, § 1255(b)(2), substituted “section 856(c)(6)” for “section 856(c)(7)” in introductory provisions.
+Subsec. (b)(5). Pub. L. 105–34, § 1255(b)(2), substituted “section 856(c)(6)” for “section 856(c)(7)” in introductory provisions.
 
-Subsec. (b)(6)(C). Pub. L. 105–34, § 1255(b)(3), substituted “section 856(c)(5)(B)” for “section 856(c)(6)(B)” in introductory provisions.
+Subsec. (b)(6)(C). Pub. L. 105–34, § 1255(b)(3), substituted “section 856(c)(5)(B)” for “section 856(c)(6)(B)” in introductory provisions.
 
-Subsec. (b)(6)(C)(iii). Pub. L. 105–34, § 1260, substituted “(other than sales of foreclosure property or sales to which section 1033 applies)” for “(other than foreclosure property)” in subcls. (I) and (II).
+Subsec. (b)(6)(C)(iii). Pub. L. 105–34, § 1260, substituted “(other than sales of foreclosure property or sales to which section 1033 applies)” for “(other than foreclosure property)” in subcls. (I) and (II).
 
-Subsec. (b)(7)(A)(i). Pub. L. 105–34, § 1254(b)(1), substituted “subparagraph (B) or (D)” for “subparagraph (B)”.
+Subsec. (b)(7)(A)(i). Pub. L. 105–34, § 1254(b)(1), substituted “subparagraph (B) or (D)” for “subparagraph (B)”.
 
-Subsec. (d)(3). Pub. L. 105–34, § 1256, added par. (3).
+Subsec. (d)(3). Pub. L. 105–34, § 1256, added par. (3).
 
-Subsec. (e)(2)(B) to (D). Pub. L. 105–34, § 1259, redesignated subpar. (C) as (B) and substituted a comma for period at end, added subpars. (C) and (D), and struck out former subpar. (B) which read as follows: “in the case of a real estate investment trust using the cash receipts and disbursements method of accounting, the amount (if any) by which—
+Subsec. (e)(2)(B) to (D). Pub. L. 105–34, § 1259, redesignated subpar. (C) as (B) and substituted a comma for period at end, added subpars. (C) and (D), and struck out former subpar. (B) which read as follows: “in the case of a real estate investment trust using the cash receipts and disbursements method of accounting, the amount (if any) by which—
 
 “(i) the amounts includible in gross income with respect to instruments to which section 1274 (relating to certain debt instruments issued for property) applies, exceed
 
 “(ii) the amount of money and the fair market value of other property received during the taxable year under such instruments; plus”.
 
-Subsecs. (f), (g). Pub. L. 105–34, § 1251(a)(2), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 105–34, § 1251(a)(2), added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1990—Subsec. (b)(3)(C). Pub. L. 101–508 amended Pub. L. 100–647, § 1018(u)(28). See 1988 Amendment note below.
+1990—Subsec. (b)(3)(C). Pub. L. 101–508 amended Pub. L. 100–647, § 1018(u)(28). See 1988 Amendment note below.
 
-1988—Subsec. (a). Pub. L. 100–647, § 1006(s)(4), inserted at end “The Secretary may waive the requirements of paragraph (1) for any taxable year if the real estate investment trust establishes to the satisfaction of the Secretary that it was unable to meet such requirements by reason of distributions previously made to meet the requirements of section 4981.”
+1988—Subsec. (a). Pub. L. 100–647, § 1006(s)(4), inserted at end “The Secretary may waive the requirements of paragraph (1) for any taxable year if the real estate investment trust establishes to the satisfaction of the Secretary that it was unable to meet such requirements by reason of distributions previously made to meet the requirements of section 4981.”
 
-Subsec. (b)(3)(C). Pub. L. 100–647, § 1018(u)(28), as amended by Pub. L. 101–508, substituted “such net capital loss shall” for “such net capital loss such”.
+Subsec. (b)(3)(C). Pub. L. 100–647, § 1018(u)(28), as amended by Pub. L. 101–508, substituted “such net capital loss shall” for “such net capital loss such”.
 
-Pub. L. 100–647, § 1006(s)(2), substituted “the taxable income of the real estate investment trust” for “real estate investment trust taxable income”.
+Pub. L. 100–647, § 1006(s)(2), substituted “the taxable income of the real estate investment trust” for “real estate investment trust taxable income”.
 
-Subsec. (b)(8). Pub. L. 100–647, § 1006(s)(5), substituted “in October, November, or December” for “in December” and “in such a month” for “in such month” in introductory text, “on December 31 of such calendar year” for “on such date”, in subpars. (A) and (B), and “during January” for “before February 1” in last sentence.
+Subsec. (b)(8). Pub. L. 100–647, § 1006(s)(5), substituted “in October, November, or December” for “in December” and “in such a month” for “in such month” in introductory text, “on December 31 of such calendar year” for “on such date”, in subpars. (A) and (B), and “during January” for “before February 1” in last sentence.
 
-Subsec. (e)(2)(B)(i). Pub. L. 100–647, § 1006(r), substituted “with respect to instruments” for “as original issue discount on instruments”.
+Subsec. (e)(2)(B)(i). Pub. L. 100–647, § 1006(r), substituted “with respect to instruments” for “as original issue discount on instruments”.
 
-1986—Subsec. (a). Pub. L. 99–514, § 661(b), struck out “and” at end of par. (1), substituted “, and” for the period at end of par. (2), and added par. (3) and last sentence.
+1986—Subsec. (a). Pub. L. 99–514, § 661(b), struck out “and” at end of par. (1), substituted “, and” for the period at end of par. (2), and added par. (3) and last sentence.
 
-Subsec. (a)(1)(B). Pub. L. 99–514, § 664(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the sum of—
+Subsec. (a)(1)(B). Pub. L. 99–514, § 664(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the sum of—
 
 “(i) the amount of any penalty imposed on the real estate investment trust by section 6697 which is paid by such trust during the taxable year; and
 
 “(ii) the net loss derived from prohibited transactions,”.
 
-Subsec. (b)(2)(F). Pub. L. 99–514, § 666(b)(2), struck out “and there shall be included an amount equal to any net loss derived from prohibited transactions” after “prohibited transactions”.
+Subsec. (b)(2)(F). Pub. L. 99–514, § 666(b)(2), struck out “and there shall be included an amount equal to any net loss derived from prohibited transactions” after “prohibited transactions”.
 
-Subsec. (b)(3)(C). Pub. L. 99–514, § 668(b)(3), inserted at end “For purposes of this subparagraph, the amount of the net capital gain for any taxable year which is not a calendar year shall be determined without regard to any net capital loss attributable to transactions after December 31 of such year, and any such net capital loss such be treated as arising on the 1st day of the next taxable year. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing real estate investment trust taxable income.”
+Subsec. (b)(3)(C). Pub. L. 99–514, § 668(b)(3), inserted at end “For purposes of this subparagraph, the amount of the net capital gain for any taxable year which is not a calendar year shall be determined without regard to any net capital loss attributable to transactions after December 31 of such year, and any such net capital loss such be treated as arising on the 1st day of the next taxable year. To the extent provided in regulations, the preceding sentence shall apply also for purposes of computing real estate investment trust taxable income.”
 
-Pub. L. 99–514, § 665(a)(2), (b)(1), inserted “(or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year)”, struck out last sentence which read as follows: “For purposes of this subparagraph, the net capital gain shall be deemed not to exceed the real estate investment trust taxable income (determined without regard to the deduction for dividends paid (as defined in section 561) for the taxable year).”
+Pub. L. 99–514, § 665(a)(2), (b)(1), inserted “(or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year)”, struck out last sentence which read as follows: “For purposes of this subparagraph, the net capital gain shall be deemed not to exceed the real estate investment trust taxable income (determined without regard to the deduction for dividends paid (as defined in section 561) for the taxable year).”
 
-Subsec. (b)(3)(D). Pub. L. 99–514, § 665(a)(1), added subpar. (D).
+Subsec. (b)(3)(D). Pub. L. 99–514, § 665(a)(1), added subpar. (D).
 
-Subsec. (b)(6)(B)(ii). Pub. L. 99–514, § 666(b)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the term ‘net loss derived from prohibited transactions’ means the excess of the deductions allowed by this chapter which are directly connected with prohibited transactions over the gain from prohibited transactions; and”.
+Subsec. (b)(6)(B)(ii). Pub. L. 99–514, § 666(b)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the term ‘net loss derived from prohibited transactions’ means the excess of the deductions allowed by this chapter which are directly connected with prohibited transactions over the gain from prohibited transactions; and”.
 
-Subsec. (b)(6)(C)(ii). Pub. L. 99–514, § 666(a)(2), substituted “30 percent” for “20 percent”.
+Subsec. (b)(6)(C)(ii). Pub. L. 99–514, § 666(a)(2), substituted “30 percent” for “20 percent”.
 
-Subsec. (b)(6)(C)(iii). Pub. L. 99–514, § 666(a)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “during the taxable year the trust does not make more than 5 sales of property (other than foreclosure property); and”.
+Subsec. (b)(6)(C)(iii). Pub. L. 99–514, § 666(a)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “during the taxable year the trust does not make more than 5 sales of property (other than foreclosure property); and”.
 
-Subsec. (b)(6)(C)(v). Pub. L. 99–514, § 666(a)(3), added cl. (v).
+Subsec. (b)(6)(C)(v). Pub. L. 99–514, § 666(a)(3), added cl. (v).
 
-Subsec. (b)(8). Pub. L. 99–514, § 668(b)(1)(A), added par. (8).
+Subsec. (b)(8). Pub. L. 99–514, § 668(b)(1)(A), added par. (8).
 
-Subsec. (c). Pub. L. 99–514, § 612(b)(7), which directed that “section 116 (relating to an exclusion for dividends received by individuals), and” be struck out, was executed by striking out “section 116 (relating to an exclusion for dividends received by individuals) and” before “section 243” as the probable intent of Congress.
+Subsec. (c). Pub. L. 99–514, § 612(b)(7), which directed that “section 116 (relating to an exclusion for dividends received by individuals), and” be struck out, was executed by striking out “section 116 (relating to an exclusion for dividends received by individuals) and” before “section 243” as the probable intent of Congress.
 
-Subsec. (d). Pub. L. 99–514, § 668(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The earnings and profits of a real estate investment trust for any taxable year (but not its accumulated earnings and profits) shall not be reduced by any amount which is not allowable as a deduction in computing its taxable income for such taxable year. For purposes of this subsection, the term ‘real estate investment trust’ includes a domestic corporation, trust, or association which is a real estate investment trust determined without regard to the requirements of subsection (a).”
+Subsec. (d). Pub. L. 99–514, § 668(b)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The earnings and profits of a real estate investment trust for any taxable year (but not its accumulated earnings and profits) shall not be reduced by any amount which is not allowable as a deduction in computing its taxable income for such taxable year. For purposes of this subsection, the term ‘real estate investment trust’ includes a domestic corporation, trust, or association which is a real estate investment trust determined without regard to the requirements of subsection (a).”
 
-Subsecs. (e), (f). Pub. L. 99–514, § 664(b), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 99–514, § 664(b), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1984—Subsec. (b)(3)(B). Pub. L. 98–369, § 1001(b)(13), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+1984—Subsec. (b)(3)(B). Pub. L. 98–369, § 1001(b)(13), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-Subsec. (b)(7). Pub. L. 98–369, § 55(b), substituted provisions relating to loss on sale or exchange of stock held 6 months or less for provisions which related to loss on sale or exchange of stock held 31 days or less.
+Subsec. (b)(7). Pub. L. 98–369, § 55(b), substituted provisions relating to loss on sale or exchange of stock held 6 months or less for provisions which related to loss on sale or exchange of stock held 31 days or less.
 
-Pub. L. 98–369, § 1001(b)(13), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+Pub. L. 98–369, § 1001(b)(13), (e), substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-Subsec. (c). Pub. L. 98–369, § 16(a), repealed amendments made by Pub. L. 97–34, § 302(c). See 1981 Amendment note below.
+Subsec. (c). Pub. L. 98–369, § 16(a), repealed amendments made by Pub. L. 97–34, § 302(c). See 1981 Amendment note below.
 
-1981—Subsec. (c). Pub. L. 97–34, § 302(c)(5), (d)(1), provided for general amendment of subsec. (c) so as to include provisions relating to treatment for section 128 of this title, adjustments to gross income and aggregate interest received, and notice to shareholders, applicable to taxable years beginning after Dec. 31, 1984. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
+1981—Subsec. (c). Pub. L. 97–34, § 302(c)(5), (d)(1), provided for general amendment of subsec. (c) so as to include provisions relating to treatment for section 128 of this title, adjustments to gross income and aggregate interest received, and notice to shareholders, applicable to taxable years beginning after Dec. 31, 1984. Section 16(a) of Pub. L. 98–369, repealed section 302(c) of Pub. L. 97–34, and provided that this title shall be applied and administered as if section 302(c), and the amendments made by section 302(c), had not been enacted.
 
 1980—Subsec. (b)(4)(A). Pub. L. 96–222 substituted provisions computing the tax on the net income from foreclosure property of every real estate investment trust by multiplying the net income from foreclosure property by the highest rate of tax specified in section 11(b) for provisions determining the tax on the net income from foreclosure of property of every real estate investment trust by applying section 11 to such income as if such income constituted the taxable income of a corporation taxable under section 11 and struck out provisions requiring that for purposes of the preceding sentence, the surtax exemption be zero.
 
 Subsec. (c). Pub. L. 96–223 temporarily substituted “Limitations applicable to dividends received from real estate investment trusts” for “Restrictions applicable to dividends received from real estate investment trusts” in heading, designated existing provisions as par. (1), substituted “(1) Capital gain dividend.—For purposes of section 116 (relating to exclusion for dividends and interest received by individuals), a capital gain dividend (as defined in subsection (b)(3)(C)) received from a real estate investment trust shall not be considered a dividend” for “For purposes of section 116 (relating to an exclusion for dividends received by individuals) and section 243 (relating to deductions for dividends received by corporations), a dividend received from a real estate investment trust which meets the requirements of this part shall not be considered as a dividend” in par. (1) as so designated, and added pars. (2) to (6).
 
-1978—Subsec. (b)(1). Pub. L. 95–600, § 301(b)(12), substituted “a tax” for “a normal tax and surtax”.
+1978—Subsec. (b)(1). Pub. L. 95–600, § 301(b)(12), substituted “a tax” for “a normal tax and surtax”.
 
-Subsec. (b)(3)(A)(ii). Pub. L. 95–600, § 403(c)(3), substituted “a tax determined at the rate provided in section 1201(a) on” for “a tax of 30 percent of”.
+Subsec. (b)(3)(A)(ii). Pub. L. 95–600, § 403(c)(3), substituted “a tax determined at the rate provided in section 1201(a) on” for “a tax of 30 percent of”.
 
-Subsec. (b)(3)(C). Pub. L. 95–600, § 362(d)(3), substituted “section 860(e)” for “section 859(c)”.
+Subsec. (b)(3)(C). Pub. L. 95–600, § 362(d)(3), substituted “section 860(e)” for “section 859(c)”.
 
-Subsec. (b)(6)(C) to (E). Pub. L. 95–600, § 363(b), added subpars. (C) to (E).
+Subsec. (b)(6)(C) to (E). Pub. L. 95–600, § 363(b), added subpars. (C) to (E).
 
-1976—Subsec. (a). Pub. L. 94–455, §§ 1604(j), (k)(2)(B), 1906(b)(13)(A), substituted “(other than subsection (d) of this section and subsection (g) of section 856)” for “(other than subsection (d) of this section)” in provisions preceding par. (1), in par. (1) redesignated existing subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), added subpar. (B), in both cls. (i) and (ii) of subpar. (A) as redesignated raised the percentage to 95 percent for taxable years beginning on and after Jan. 1, 1980, and, in cl. (i) of subpar. (A) as redesignated, inserted provision for the exclusion of net capital gain, and struck out “or his delegate” after “Secretary” in par. (2).
+1976—Subsec. (a). Pub. L. 94–455, §§ 1604(j), (k)(2)(B), 1906(b)(13)(A), substituted “(other than subsection (d) of this section and subsection (g) of section 856)” for “(other than subsection (d) of this section)” in provisions preceding par. (1), in par. (1) redesignated existing subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), added subpar. (B), in both cls. (i) and (ii) of subpar. (A) as redesignated raised the percentage to 95 percent for taxable years beginning on and after Jan. 1, 1980, and, in cl. (i) of subpar. (A) as redesignated, inserted provision for the exclusion of net capital gain, and struck out “or his delegate” after “Secretary” in par. (2).
 
-Subsec. (b)(1). Pub. L. 94–455, § 1901(b)(1)(V), struck out provision that, for purposes of computing the normal tax under section 11, the taxable income and the dividends paid deduction of such real estate investment trust for the taxable year (computed without regard to capital gains dividends) would be reduced by the deduction provided by section 22 (relating to partially tax-exempt interest.
+Subsec. (b)(1). Pub. L. 94–455, § 1901(b)(1)(V), struck out provision that, for purposes of computing the normal tax under section 11, the taxable income and the dividends paid deduction of such real estate investment trust for the taxable year (computed without regard to capital gains dividends) would be reduced by the deduction provided by section 22 (relating to partially tax-exempt interest.
 
-Subsec. (b)(2). Pub. L. 94–455, §§ 1602(b)(2), 1603(c)(5), 1606(a), (d), 1607(b)(1)(A), (2), struck out subpar. (A) which provided for the exclusion of the excess, if any, of the net long-term capital gain over the net short-term capital loss, and subpar. (E) which prohibited the allowance of the net operating loss deduction provided in section 172, redesignated subpars. (B), (C), (D), and (F) as subpars. (A), (B), (C), and (D), respectively, added subpars. (E) and (F), and in subpar. (B) as redesignated substituted “subparagraph (D)” for “paragraph (F)” and struck out “shall be computed without regard to capital gains dividends and” after “shall be allowed, but”.
+Subsec. (b)(2). Pub. L. 94–455, §§ 1602(b)(2), 1603(c)(5), 1606(a), (d), 1607(b)(1)(A), (2), struck out subpar. (A) which provided for the exclusion of the excess, if any, of the net long-term capital gain over the net short-term capital loss, and subpar. (E) which prohibited the allowance of the net operating loss deduction provided in section 172, redesignated subpars. (B), (C), (D), and (F) as subpars. (A), (B), (C), and (D), respectively, added subpars. (E) and (F), and in subpar. (B) as redesignated substituted “subparagraph (D)” for “paragraph (F)” and struck out “shall be computed without regard to capital gains dividends and” after “shall be allowed, but”.
 
-Subsec. (b)(3)(A). Pub. L. 94–455, § 1607(a), substituted provisions setting an alternative tax in case of capital gains under which, if for any taxable year, a real estate investment trust has a net capital gain, then, in lieu of the tax imposed by subsection (b)(1), there is imposed a tax (if such tax is less than the tax imposed by such subsection) to consist of the sum of a tax, computed as provided in subsection (b)(1), on the real estate investment trust taxable income (determined by excluding such net capital gain and by computing the deduction for dividends paid without regard to capital gain dividends), and a tax of 30 percent of the excess of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only, for provisions posing a tax for each taxable year determined as provided in section 1201(a), on the excess, if any, of the net long-term capital gain over the sum of the net short-term capital loss and the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only.
+Subsec. (b)(3)(A). Pub. L. 94–455, § 1607(a), substituted provisions setting an alternative tax in case of capital gains under which, if for any taxable year, a real estate investment trust has a net capital gain, then, in lieu of the tax imposed by subsection (b)(1), there is imposed a tax (if such tax is less than the tax imposed by such subsection) to consist of the sum of a tax, computed as provided in subsection (b)(1), on the real estate investment trust taxable income (determined by excluding such net capital gain and by computing the deduction for dividends paid without regard to capital gain dividends), and a tax of 30 percent of the excess of the net capital gain over the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only, for provisions posing a tax for each taxable year determined as provided in section 1201(a), on the excess, if any, of the net long-term capital gain over the sum of the net short-term capital loss and the deduction for dividends paid (as defined in section 561) determined with reference to capital gains dividends only.
 
-Subsec. (b)(3)(B). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
+Subsec. (b)(3)(B). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-Pub. L. 94–455, § 1402(b)(1)(P), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+Pub. L. 94–455, § 1402(b)(1)(P), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (b)(3)(C). Pub. L. 94–455, §§ 1601(c), 1607(b)(3), 1901(a)(112), (b)(33)(K), inserted “; except that, if there is an increase in the excess described in subparagraph (A)(ii) of this paragraph for such year which results from a determination (as defined in section 859(c)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination” after “30 days after the close of its taxable year”, substituted “net capital gain” for “excess of the net long-term capital gain over the net short-term capital loss” in provision covering the portion of distributions which shall be capital gain dividends, inserted provision that the net capital gain be deemed not to exceed the real estate investment trust taxable income, and struck out provision which specified the source of deductions for dividends paid in the case of taxable years beginning before Jan. 1, 1975.
+Subsec. (b)(3)(C). Pub. L. 94–455, §§ 1601(c), 1607(b)(3), 1901(a)(112), (b)(33)(K), inserted “; except that, if there is an increase in the excess described in subparagraph (A)(ii) of this paragraph for such year which results from a determination (as defined in section 859(c)), such designation may be made with respect to such increase at any time before the expiration of 120 days after the date of such determination” after “30 days after the close of its taxable year”, substituted “net capital gain” for “excess of the net long-term capital gain over the net short-term capital loss” in provision covering the portion of distributions which shall be capital gain dividends, inserted provision that the net capital gain be deemed not to exceed the real estate investment trust taxable income, and struck out provision which specified the source of deductions for dividends paid in the case of taxable years beginning before Jan. 1, 1975.
 
-Subsec. (b)(4)(B)(i). Pub. L. 94–455, § 1604(c)(2), inserted reference to subparagraph (G) of section 856(c)(3).
+Subsec. (b)(4)(B)(i). Pub. L. 94–455, § 1604(c)(2), inserted reference to subparagraph (G) of section 856(c)(3).
 
-Subsec. (b)(5). Pub. L. 94–455, § 1602(b)(1), added par. (5). Former par. (5) redesignated (7) and amended.
+Subsec. (b)(5). Pub. L. 94–455, § 1602(b)(1), added par. (5). Former par. (5) redesignated (7) and amended.
 
-Subsec. (b)(6). Pub. L. 94–455, § 1603(b), added par. (6).
+Subsec. (b)(6). Pub. L. 94–455, § 1603(b), added par. (6).
 
-Subsec. (b)(7). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
+Subsec. (b)(7). Pub. L. 94–455, § 1402(b)(2), provided that “9 months” would be changed to “1 year”.
 
-Pub. L. 94–455, §§ 1402(b)(1)(P), 1602(b)(1), redesignated par. (5) as (7) and provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+Pub. L. 94–455, §§ 1402(b)(1)(P), 1602(b)(1), redesignated par. (5) as (7) and provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
 
-Subsec. (d). Pub. L. 94–455, § 1604(f)(3)(B), substituted “a domestic corporation, trust,” for “a domestic unincorporated trust”.
+Subsec. (d). Pub. L. 94–455, § 1604(f)(3)(B), substituted “a domestic corporation, trust,” for “a domestic unincorporated trust”.
 
-Subsec. (e). Pub. L. 94–455, § 1605(b)(2), added subsec. (e).
+Subsec. (e). Pub. L. 94–455, § 1605(b)(2), added subsec. (e).
 
-1975—Subsec. (a)(1). Pub. L. 93–625, § 6(d)(2), incorporated existing par. (1) provisions in par. (1) introductory text and provisions designated as subpar. (A), substituted in subpar. (A) “(determined without regard to the deduction for dividends paid (as defined in section 561))” for “(determined without regard to subsection (b)(2)(C))”, and added subpar. (B).
+1975—Subsec. (a)(1). Pub. L. 93–625, § 6(d)(2), incorporated existing par. (1) provisions in par. (1) introductory text and provisions designated as subpar. (A), substituted in subpar. (A) “(determined without regard to the deduction for dividends paid (as defined in section 561))” for “(determined without regard to subsection (b)(2)(C))”, and added subpar. (B).
 
-Subsec. (b)(2)(C). Pub. L. 93–625, § 6(d)(4), provided for computation of deduction for dividends paid without regard to that portion of such deduction which is attributable to the amount excluded under subparagraph (F).
+Subsec. (b)(2)(C). Pub. L. 93–625, § 6(d)(4), provided for computation of deduction for dividends paid without regard to that portion of such deduction which is attributable to the amount excluded under subparagraph (F).
 
-Subsec. (b)(2)(F). Pub. L. 93–625, § 6(d)(3), added subpar. (F).
+Subsec. (b)(2)(F). Pub. L. 93–625, § 6(d)(3), added subpar. (F).
 
-Subsec. (b)(4), (5). Pub. L. 93–625, § 6(c), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (b)(4), (5). Pub. L. 93–625, § 6(c), added par. (4) and redesignated former par. (4) as (5).
 
-1969—Subsec. (b)(3)(A). Pub. L. 91–172, § 511(c)(3)(A), substituted “determined as provided in section 1201(a), on” for “of 25 percent of.”
+1969—Subsec. (b)(3)(A). Pub. L. 91–172, § 511(c)(3)(A), substituted “determined as provided in section 1201(a), on” for “of 25 percent of.”
 
-Subsec. (b)(3)(C). Pub. L. 91–172, § 511(c)(3)(B), inserted provision requiring for the purposes of the deduction for capital gains dividends paid, in the case of a taxable year beginning before Jan. 1, 1975, the deduction for dividends paid shall first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
+Subsec. (b)(3)(C). Pub. L. 91–172, § 511(c)(3)(B), inserted provision requiring for the purposes of the deduction for capital gains dividends paid, in the case of a taxable year beginning before Jan. 1, 1975, the deduction for dividends paid shall first be made from the amount subject to tax in accordance with section 1201(a)(1)(B), to the extent thereof, and then from the amount subject to tax in accordance with section 1201(a)(1)(A).
 
 1964—Subsec. (c). Pub. L. 88–272 struck out “section 34(a) (relating to credit for dividends received by individuals),” before “section 116” and the comma before “and”.
 
@@ -3771,7 +3771,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title III, § 313(c), Dec. 18, 2015, 129 Stat. 3092, provided that:
+Pub. L. 114–113, div. Q, title III, § 313(c), Dec. 18, 2015, 129 Stat. 3092, provided that:
 
 > **“(1) In general.—** The amendments made by subsection (a) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 18, 2015].
 
@@ -3781,13 +3781,13 @@ Pub. L. 114–113, div. Q, title III, § 313(c), Dec. 18, 2015, 129 Stat. 3092
 
 > **“(B) Retroactive application of no inference not applicable to certain timber property previously treated as not inventory property.—** The amendment made by subsection (b)(2) [amending this section] shall not apply to any sale of property to which section 857(b)(6)(G) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) applies.”
 
-Pub. L. 114–113, div. Q, title III, § 316(b), Dec. 18, 2015, 129 Stat. 3094, provided that: “The amendments made by this section [amending this section] shall apply to distributions in taxable years beginning after December 31, 2015.”
+Pub. L. 114–113, div. Q, title III, § 316(b), Dec. 18, 2015, 129 Stat. 3094, provided that: “The amendments made by this section [amending this section] shall apply to distributions in taxable years beginning after December 31, 2015.”
 
 Amendment by section 320(a) of Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 320(c) of Pub. L. 114–113, set out as a note under section 562 of this title.
 
 Amendment by section 321(a)(1), (2), (b) of Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 321(c) of Pub. L. 114–113, set out as a note under section 856 of this title.
 
-Pub. L. 114–113, div. Q, title III, § 322(c)(1), Dec. 18, 2015, 129 Stat. 3102, provided that:
+Pub. L. 114–113, div. Q, title III, § 322(c)(1), Dec. 18, 2015, 129 Stat. 3102, provided that:
 
 > **“(1) In general.—** The amendments made by subsection (a) [amending this section and section 897 of this title] shall take effect on the date of enactment [Dec. 18, 2015] and shall apply to—
 
@@ -3805,7 +3805,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 15311(c) of Pub. L. 110–246 applicable to taxable years ending after June 18, 2008, see section 15311(d) of Pub. L. 110–246, set out as a note under section 55 of this title.
 
-Pub. L. 110–234, title XV, § 15315(e), May 22, 2008, 122 Stat. 1505, and Pub. L. 110–246, § 4(a), title XV, § 15315(e), June 18, 2008, 122 Stat. 1664, 2267, provided that: “The amendments made by this section [amending this section] shall apply to dispositions in taxable years beginning after the date of the enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title XV, § 15315(e), May 22, 2008, 122 Stat. 1505, and Pub. L. 110–246, § 4(a), title XV, § 15315(e), June 18, 2008, 122 Stat. 1664, 2267, provided that: “The amendments made by this section [amending this section] shall apply to dispositions in taxable years beginning after the date of the enactment of this Act [June 18, 2008].”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
@@ -3817,9 +3817,9 @@ Amendment by section 403(d)(3) of Pub. L. 109–135 effective as if included in 
 
 Amendment by section 243(c), (e) of Pub. L. 108–357 applicable to taxable years beginning after Oct. 22, 2004, and amendment by section 243(f)(4) of Pub. L. 108–357 applicable to taxable years ending after Oct. 22, 2004, see section 243(g)(2), (4)(D) of Pub. L. 108–357, set out as a note under section 856 of this title.
 
-Pub. L. 108–357, title III, § 321(b), Oct. 22, 2004, 118 Stat. 1474, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title III, § 321(b), Oct. 22, 2004, 118 Stat. 1474, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 2004].”
 
-Pub. L. 108–357, title IV, § 418(c), Oct. 22, 2004, 118 Stat. 1513, as amended by Pub. L. 109–135, title IV, § 403(p)(2), Dec. 21, 2005, 119 Stat. 2626, provided that:
+Pub. L. 108–357, title IV, § 418(c), Oct. 22, 2004, 118 Stat. 1513, as amended by Pub. L. 109–135, title IV, § 403(p)(2), Dec. 21, 2005, 119 Stat. 2626, provided that:
 
 > “The amendments made by this section [amending this section and section 897 of this title] shall apply to—
 
@@ -3835,11 +3835,11 @@ Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxab
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–147, title IV, § 413(b), Mar. 9, 2002, 116 Stat. 54, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 545 of the Tax Relief Extension Act of 1999 [Pub. L. 106–170].”
+Pub. L. 107–147, title IV, § 413(b), Mar. 9, 2002, 116 Stat. 54, provided that: “The amendments made by this section [amending this section] shall take effect as if included in section 545 of the Tax Relief Extension Act of 1999 [Pub. L. 106–170].”
 
 **Effective Date of 2000 Amendment**
 
-Amendment by Pub. L. 106–554 effective as if included in the provisions of the Ticket to Work and Work Incentives Improvement Act of 1999, Pub. L. 106–170, to which such amendment relates, see section 1(a)(7) [title III, § 311(d)] of Pub. L. 106–554, set out as a note under section 280C of this title.
+Amendment by Pub. L. 106–554 effective as if included in the provisions of the Ticket to Work and Work Incentives Improvement Act of 1999, Pub. L. 106–170, to which such amendment relates, see section 1(a)(7) [title III, § 311(d)] of Pub. L. 106–554, set out as a note under section 280C of this title.
 
 **Effective Date of 1999 Amendment**
 
@@ -3847,7 +3847,7 @@ Amendment by section 532(c)(2)(L), (M) of Pub. L. 106–170 applicable to any in
 
 Amendment by section 545 of Pub. L. 106–170 applicable to taxable years beginning after Dec. 31, 2000, see section 546(a) of Pub. L. 106–170, set out as a note under section 856 of this title.
 
-Pub. L. 106–170, title V, § 556(c), Dec. 17, 1999, 113 Stat. 1949, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2000.”
+Pub. L. 106–170, title V, § 556(c), Dec. 17, 1999, 113 Stat. 1949, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2000.”
 
 Amendment by section 566(a)(2), (b) of Pub. L. 106–170 applicable to distributions after Dec. 31, 2000, see section 566(d) of Pub. L. 106–170, set out as a note under section 852 of this title.
 
@@ -3861,7 +3861,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1006(s)(5), Nov. 10, 1988, 102 Stat. 3419, provided that the amendment made by that section is effective with respect to dividends declared in 1988 and subsequent calendar years.
+Pub. L. 100–647, title I, § 1006(s)(5), Nov. 10, 1988, 102 Stat. 3419, provided that the amendment made by that section is effective with respect to dividends declared in 1988 and subsequent calendar years.
 
 Amendment by sections 1006(r), (s)(2), (4) and 1018(u)(28) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -3901,11 +3901,11 @@ Amendment by section 403(c)(3) of Pub. L. 95–600 effective on Nov. 6, 1978, se
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
 
-Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
+Pub. L. 94–455, title XIV, § 1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
-Pub. L. 94–455, title XVI, § 1608(a), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XVI, § 1608(a), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “The amendments made by section 1601 [enacting sections 859 and 6697 of this title and amending this section and sections 316, 381, 6422, 6503, and 6515 of this title] shall apply with respect to determinations (as defined in section 859(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) occurring after the date of the enactment of this Act [Oct. 4, 1976]. If the amendments made by section 1601 apply to a taxable year ending on or before the date of enactment of this Act:
 
@@ -3917,7 +3917,7 @@ For effective date of amendment by section 1602(b)(1), (2) of Pub. L. 94–455, 
 
 For effective date of amendment by sections 1603, 1604, and 1605 of Pub. L. 94–455, see section 1608(d) of Pub. L. 94–455, set out as a note under section 856 of this title.
 
-Pub. L. 94–455, title XVI, § 1608(c), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by sections 1606 and 1607 [amending this section and sections 46, 172, and 443 of this title] shall apply to taxable years ending after the date of the enactment of this Act [Oct. 4, 1976]; except that in the case of a taxpayer which has a net operating loss (as defined in section 172(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) for any taxable year ending after the date of enactment of this Act [Oct. 4, 1976] for which the provisions of part II of subchapter M of chapter 1 of subtitle A of such Code apply to such taxpayer, such loss shall not be a net operating loss carryback under section 172 of such Code to any taxable year ending on or before the date of enactment of this Act [Oct. 4, 1976].”
+Pub. L. 94–455, title XVI, § 1608(c), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by sections 1606 and 1607 [amending this section and sections 46, 172, and 443 of this title] shall apply to taxable years ending after the date of the enactment of this Act [Oct. 4, 1976]; except that in the case of a taxpayer which has a net operating loss (as defined in section 172(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) for any taxable year ending after the date of enactment of this Act [Oct. 4, 1976] for which the provisions of part II of subchapter M of chapter 1 of subtitle A of such Code apply to such taxpayer, such loss shall not be a net operating loss carryback under section 172 of such Code to any taxable year ending on or before the date of enactment of this Act [Oct. 4, 1976].”
 
 Amendment by section 1901(a)(112), (b)(1)(V), (33)(K) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -3937,7 +3937,7 @@ Amendment by Pub. L. 88–272 applicable with respect to dividends received afte
 
 Section applicable with respect to taxable years of real estate investment trusts beginning after Dec. 31, 1960, see section 10(k) of Pub. L. 86–779, set out as a note under section 856 of this title.
 
-### § 858. Dividends paid by real estate investment trust after close of taxable year
+### § 858. Dividends paid by real estate investment trust after close of taxable year
 
 **(a) General rule** For purposes of this part, if a real estate investment trust—
 
@@ -3955,7 +3955,7 @@ Except as provided in section 857(b)(9), amounts to which subsection (a) applies
 
 In the case of amounts to which subsection (a) applies, any notice to shareholders or holders of beneficial interests required under this part with respect to such amounts shall be made not later than 30 days after the close of the taxable year in which the distribution is made (or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year).
 
-(Added Pub. L. 86–779, § 10(a), Sept. 14, 1960, 74 Stat. 1008; amended Pub. L. 94–455, title XVI, §§ 1604(h), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1752, 1834; Pub. L. 99–514, title VI, §§ 665(b)(2), 668(b)(1)(B), Oct. 22, 1986, 100 Stat. 2304, 2307; Pub. L. 100–647, title I, § 1018(u)(27), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 113–295, div. A, title II, § 220(m), Dec. 19, 2014, 128 Stat. 4036.)
+(Added Pub. L. 86–779, § 10(a), Sept. 14, 1960, 74 Stat. 1008; amended Pub. L. 94–455, title XVI, §§ 1604(h), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1752, 1834; Pub. L. 99–514, title VI, §§ 665(b)(2), 668(b)(1)(B), Oct. 22, 1986, 100 Stat. 2304, 2307; Pub. L. 100–647, title I, § 1018(u)(27), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 113–295, div. A, title II, § 220(m), Dec. 19, 2014, 128 Stat. 4036.)
 
 **Editorial Notes**
 
@@ -3963,13 +3963,13 @@ In the case of amounts to which subsection (a) applies, any notice to shareholde
 
 2014—Subsec. (b). Pub. L. 113–295 substituted “857(b)(9)” for “857(b)(8)”.
 
-1988—Subsec. (b). Pub. L. 100–647, § 1018(u)(27), made technical correction to directory language of Pub. L. 99–514, see 1986 Amendment note below.
+1988—Subsec. (b). Pub. L. 100–647, § 1018(u)(27), made technical correction to directory language of Pub. L. 99–514, see 1986 Amendment note below.
 
-1986—Subsec. (b). Pub. L. 99–514, § 668(b)(1)(B), as amended by Pub. L. 100–647, § 1018(u)(27), substituted “Except as provided in section 857(b)(8), amounts” for “Amounts”.
+1986—Subsec. (b). Pub. L. 99–514, § 668(b)(1)(B), as amended by Pub. L. 100–647, § 1018(u)(27), substituted “Except as provided in section 857(b)(8), amounts” for “Amounts”.
 
-Subsec. (c). Pub. L. 99–514, § 665(b)(2), inserted “(or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year)”.
+Subsec. (c). Pub. L. 99–514, § 665(b)(2), inserted “(or mailed to its shareholders or holders of beneficial interests with its annual report for the taxable year)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§ 1604(h), 1906(b)(13)(A), inserted “(and specifies in dollar amounts)” after “to the extent the trust elects in such return” and substituted “paid only during such taxable year” for “paid during such taxable year”, and struck out “or his delegate” after “Secretary”.
+1976—Subsec. (a). Pub. L. 94–455, §§ 1604(h), 1906(b)(13)(A), inserted “(and specifies in dollar amounts)” after “to the extent the trust elects in such return” and substituted “paid only during such taxable year” for “paid during such taxable year”, and struck out “or his delegate” after “Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3989,7 +3989,7 @@ For effective date of amendment by section 1604(h) of Pub. L. 94–455, see sect
 
 Section applicable with respect to taxable years of real estate investment trusts beginning after Dec. 31, 1960, see section 10(k) of Pub. L. 86–779, set out as a note under section 856 of this title.
 
-### § 859. Adoption of annual accounting period
+### § 859. Adoption of annual accounting period
 
 **(a) General rule** For purposes of this subtitle—
 
@@ -4003,19 +4003,19 @@ Paragraph (2) shall not apply to a corporation, trust, or association which was 
 
 Notwithstanding section 442, an entity which has not engaged in any active trade or business may change its accounting period to a calendar year without the approval of the Secretary if such change is in connection with an election under section 856(c).
 
-(Added Pub. L. 94–455, title XVI, § 1604(i)(1), Oct. 4, 1976, 90 Stat. 1752, § 860; renumbered § 859 and amended Pub. L. 95–600, title III, § 362(d)(6), title VII, § 701(t)(1), Nov. 6, 1978, 92 Stat. 2852, 2911; Pub. L. 99–514, title VI, § 661(c), Oct. 22, 1986, 100 Stat. 2300.)
+(Added Pub. L. 94–455, title XVI, § 1604(i)(1), Oct. 4, 1976, 90 Stat. 1752, § 860; renumbered § 859 and amended Pub. L. 95–600, title III, § 362(d)(6), title VII, § 701(t)(1), Nov. 6, 1978, 92 Stat. 2852, 2911; Pub. L. 99–514, title VI, § 661(c), Oct. 22, 1986, 100 Stat. 2300.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 859, added Pub. L. 94–455, title XVI, § 1601(a)(1), Oct. 4, 1976, 90 Stat. 1742; amended Pub. L. 95–600, title VII, § 701(t)(4), Nov. 6, 1978, 92 Stat. 2912, related to a deduction for deficiency dividends, prior to repeal by Pub. L. 95–600, title III, § 362(d)(6), Nov. 6, 1978, 92 Stat. 2852. See section 860 of this title.
+A prior section 859, added Pub. L. 94–455, title XVI, § 1601(a)(1), Oct. 4, 1976, 90 Stat. 1742; amended Pub. L. 95–600, title VII, § 701(t)(4), Nov. 6, 1978, 92 Stat. 2912, related to a deduction for deficiency dividends, prior to repeal by Pub. L. 95–600, title III, § 362(d)(6), Nov. 6, 1978, 92 Stat. 2852. See section 860 of this title.
 
 **Amendments**
 
 1986—Pub. L. 99–514 designated existing provisions as subsec. (a) and added subsec. (b).
 
-1978—Pub. L. 95–600, § 701(t)(1), designated existing provisions as par. (1), substituted “change to any accounting period” for “change to or adopt any annual accounting period”, and added par. (2) and provision for nonapplicability of par. (2) to a real estate investment trust for any taxable year beginning on or before Oct. 4, 1976.
+1978—Pub. L. 95–600, § 701(t)(1), designated existing provisions as par. (1), substituted “change to any accounting period” for “change to or adopt any annual accounting period”, and added par. (2) and provision for nonapplicability of par. (2) to a real estate investment trust for any taxable year beginning on or before Oct. 4, 1976.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4027,11 +4027,11 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Repeal of prior section 859 of this title and redesignation of section 860 of this title as this section by section 362(d)(6) of Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 
-Pub. L. 95–600, title VII, § 701(t)(5), Nov. 6, 1978, 92 Stat. 2912, provided that: “The amendments made by this subsection [amending this section and sections 275, 856, 6212, and 6501 of this title] shall take effect on October 4, 1976.”
+Pub. L. 95–600, title VII, § 701(t)(5), Nov. 6, 1978, 92 Stat. 2912, provided that: “The amendments made by this subsection [amending this section and sections 275, 856, 6212, and 6501 of this title] shall take effect on October 4, 1976.”
 
 ## PART III—PROVISIONS WHICH APPLY TO BOTH REGULATED INVESTMENT COMPANIES AND REAL ESTATE INVESTMENT TRUSTS
 
-### § 860. Deduction for deficiency dividends
+### § 860. Deduction for deficiency dividends
 
 **(a) General rule**
 
@@ -4075,9 +4075,9 @@ If the allowance of a deficiency dividend deduction results in an overpayment of
 
 **(ii)** the excess of the net income from foreclosure property (as defined in section 857(b)(4)(B)) over the tax on such income imposed by section 857(b)(4)(A),
 
-**(B)** any increase in the amount of the excess described in section 857(b)(3)(A)(ii) 1
+**(B)** any increase in the amount of the excess described in section 857(b)(3)(A)(ii) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (relating to the excess of the net capital gain over the deduction for capital gains dividends paid), and
 
@@ -4143,13 +4143,13 @@ No distraint or proceeding in court shall be begun for the collection of an amou
 
 No deficiency dividend deduction shall be allowed under subsection (a) if the determination contains a finding that any part of any deficiency attributable to an adjustment with respect to the taxable year is due to fraud with intent to evade tax or to willful failure to file an income tax return within the time prescribed by law or prescribed by the Secretary in pursuance of law.
 
-(Added Pub. L. 95–600, title III, § 362(a), Nov. 6, 1978, 92 Stat. 2848; amended Pub. L. 96–222, title I, § 103(a)(11)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 99–514, title VI, § 667(b)(1), Oct. 22, 1986, 100 Stat. 2306; Pub. L. 108–357, title II, § 243(f)(5), Oct. 22, 2004, 118 Stat. 1445; Pub. L. 111–325, title III, § 301(a)(2), title V, § 501(b), Dec. 22, 2010, 124 Stat. 3542, 3554; Pub. L. 115–141, div. U, title IV, § 401(a)(149), (150), Mar. 23, 2018, 132 Stat. 1191.)
+(Added Pub. L. 95–600, title III, § 362(a), Nov. 6, 1978, 92 Stat. 2848; amended Pub. L. 96–222, title I, § 103(a)(11)(B), (C), Apr. 1, 1980, 94 Stat. 213; Pub. L. 99–514, title VI, § 667(b)(1), Oct. 22, 1986, 100 Stat. 2306; Pub. L. 108–357, title II, § 243(f)(5), Oct. 22, 2004, 118 Stat. 1445; Pub. L. 111–325, title III, § 301(a)(2), title V, § 501(b), Dec. 22, 2010, 124 Stat. 3542, 3554; Pub. L. 115–141, div. U, title IV, § 401(a)(149), (150), Mar. 23, 2018, 132 Stat. 1191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 857(b)(3)(A), referred to in subsec. (d)(2)(B), relating to alternative tax in case of capital gains, was repealed by Pub. L. 115–97, title I, § 13001(b)(2)(K)(i), Dec. 22, 2017, 131 Stat. 2096. Subsec. (b)(3)(B) of section 857, relating to treatment of capital gain dividends by shareholders, was redesignated subsec. (b)(3)(A) of that section.
+Section 857(b)(3)(A), referred to in subsec. (d)(2)(B), relating to alternative tax in case of capital gains, was repealed by Pub. L. 115–97, title I, § 13001(b)(2)(K)(i), Dec. 22, 2017, 131 Stat. 2096. Subsec. (b)(3)(B) of section 857, relating to treatment of capital gain dividends by shareholders, was redesignated subsec. (b)(3)(A) of that section.
 
 **Prior Provisions**
 
@@ -4157,13 +4157,13 @@ A prior section 860 was renumbered section 859 of this title.
 
 **Amendments**
 
-2018—Subsec. (f)(2)(A)(ii). Pub. L. 115–141, § 401(a)(149), substituted “decrease” for “decreased”.
+2018—Subsec. (f)(2)(A)(ii). Pub. L. 115–141, § 401(a)(149), substituted “decrease” for “decreased”.
 
-Subsec. (i). Pub. L. 115–141, § 401(a)(150), substituted “willful” for “willfull”.
+Subsec. (i). Pub. L. 115–141, § 401(a)(150), substituted “willful” for “willfull”.
 
-2010—Subsec. (f)(2)(B). Pub. L. 111–325, § 301(a)(2), inserted “or reported (as the case may be)” after “designated”.
+2010—Subsec. (f)(2)(B). Pub. L. 111–325, § 301(a)(2), inserted “or reported (as the case may be)” after “designated”.
 
-Subsec. (j). Pub. L. 111–325, § 501(b), struck out subsec. (j). Text read as follows: “For assessable penalty with respect to liability for tax of a regulated investment company which is allowed a deduction under subsection (a), see section 6697.”
+Subsec. (j). Pub. L. 111–325, § 501(b), struck out subsec. (j). Text read as follows: “For assessable penalty with respect to liability for tax of a regulated investment company which is allowed a deduction under subsection (a), see section 6697.”
 
 2004—Subsec. (e)(4). Pub. L. 108–357 added par. (4).
 
@@ -4177,7 +4177,7 @@ Subsec. (j). Pub. L. 111–325, § 501(b), struck out subsec. (j). Text read a
 
 Amendment by section 301(a)(2) of Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as a note under section 852 of this title.
 
-Pub. L. 111–325, title V, § 501(c), Dec. 22, 2010, 124 Stat. 3554, provided that: “The amendments made by this section [amending this section and repealing section 6697 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
+Pub. L. 111–325, title V, § 501(c), Dec. 22, 2010, 124 Stat. 3554, provided that: “The amendments made by this section [amending this section and repealing section 6697 of this title] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 22, 2010].”
 
 **Effective Date of 2004 Amendment**
 
@@ -4189,11 +4189,11 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 **Effective Date**
 
-Pub. L. 95–600, title III, § 362(e), Nov. 6, 1978, 92 Stat. 2852, as amended by Pub. L. 96–222, title I, § 103(a)(11)(A), Apr. 1, 1980, 94 Stat. 212; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [enacting this section, amending sections 316, 381, 852, 857, 6422, 6503, 6515, and 6697 of this title, repealing section 859 of this title, and redesignating prior section 860 as 859 of this title] shall apply with respect to determinations (as defined in section 860(e) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) after the date of the enactment of this Act [Nov. 6, 1978].”
+Pub. L. 95–600, title III, § 362(e), Nov. 6, 1978, 92 Stat. 2852, as amended by Pub. L. 96–222, title I, § 103(a)(11)(A), Apr. 1, 1980, 94 Stat. 212; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section [enacting this section, amending sections 316, 381, 852, 857, 6422, 6503, 6515, and 6697 of this title, repealing section 859 of this title, and redesignating prior section 860 as 859 of this title] shall apply with respect to determinations (as defined in section 860(e) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]) after the date of the enactment of this Act [Nov. 6, 1978].”
 
 ## PART IV—REAL ESTATE MORTGAGE INVESTMENT CONDUITS
 
-### § 860A. Taxation of REMIC’s
+### § 860A. Taxation of REMIC’s
 
 **(a) General rule**
 
@@ -4203,7 +4203,7 @@ Except as otherwise provided in this part, a REMIC shall not be subject to taxat
 
 The income of any REMIC shall be taxable to the holders of interests in such REMIC as provided in this part.
 
-(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2309; amended Pub. L. 100–647, title I, § 1006(t)(20), Nov. 10, 1988, 102 Stat. 3426.)
+(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2309; amended Pub. L. 100–647, title I, § 1006(t)(20), Nov. 10, 1988, 102 Stat. 3426.)
 
 **Editorial Notes**
 
@@ -4219,9 +4219,9 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 **Effective Date**
 
-Pub. L. 99–514, title VI, § 675(a)–(c), Oct. 22, 1986, 100 Stat. 2320, as amended by Pub. L. 100–647, title I, § 1006(w)(1), Nov. 10, 1988, 102 Stat. 3427, provided that:
+Pub. L. 99–514, title VI, § 675(a)–(c), Oct. 22, 1986, 100 Stat. 2320, as amended by Pub. L. 100–647, title I, § 1006(w)(1), Nov. 10, 1988, 102 Stat. 3427, provided that:
 
-> **“(a) General Rule.—** Except as otherwise provided in this section, the amendments made by this subtitle [subtitle H (§§ 671–675) of title VI of Pub. L. 99–514, enacting this part and amending sections 582, 593, 856, 1272, 6049, and 7701 of this title] shall take effect on January 1, 1987.
+> **“(a) General Rule.—** Except as otherwise provided in this section, the amendments made by this subtitle [subtitle H (§§ 671–675) of title VI of Pub. L. 99–514, enacting this part and amending sections 582, 593, 856, 1272, 6049, and 7701 of this title] shall take effect on January 1, 1987.
 
 > **“(b) Rules for Accruing Original Issue Discount.—** The amendment made by section 672 [amending section 1272 of this title] shall apply to debt instruments issued after December 31, 1986, in taxable years ending after such date.
 
@@ -4235,9 +4235,9 @@ Pub. L. 99–514, title VI, § 675(a)–(c), Oct. 22, 1986, 100 Stat. 2320, as
 
 **Study of Amendments by Pub. L. 99–514**
 
-Pub. L. 99–514, title VI, § 675(d), as added by Pub. L. 100–647, title I, § 1006(w)(2), Nov. 10, 1988, 102 Stat. 3427, directed Secretary of the Treasury to conduct a study of the operation of the amendments made by this part [this subtitle] and their competitive impact on savings and loan institutions and similar financial institutions and, not later than Jan. 1, 1990, report to Congress, prior to repeal by Pub. L. 101–508, title XI, § 11832(5), Nov. 5, 1990, 104 Stat. 1388–559.
+Pub. L. 99–514, title VI, § 675(d), as added by Pub. L. 100–647, title I, § 1006(w)(2), Nov. 10, 1988, 102 Stat. 3427, directed Secretary of the Treasury to conduct a study of the operation of the amendments made by this part [this subtitle] and their competitive impact on savings and loan institutions and similar financial institutions and, not later than Jan. 1, 1990, report to Congress, prior to repeal by Pub. L. 101–508, title XI, § 11832(5), Nov. 5, 1990, 104 Stat. 1388–559.
 
-### § 860B. Taxation of holders of regular interests
+### § 860B. Taxation of holders of regular interests
 
 **(a) General rule**
 
@@ -4257,9 +4257,9 @@ The amounts includible in gross income with respect to any regular interest in a
 
 For special rules in determining inclusion of original issue discount on regular interests, see section 1272(a)(6).
 
-(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2309.)
+(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2309.)
 
-### § 860C. Taxation of residual interests
+### § 860C. Taxation of residual interests
 
 **(a) Pass-thru of income or loss**
 
@@ -4333,17 +4333,17 @@ Any loss disallowed by reason of subparagraph (A) shall be treated as incurred b
 
 For special treatment of income in excess of daily accruals, see section 860E.
 
-(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2309; amended Pub. L. 100–647, title I, § 1006(t)(1), (8)(C), (21), Nov. 10, 1988, 102 Stat. 3419, 3421, 3426.)
+(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2309; amended Pub. L. 100–647, title I, § 1006(t)(1), (8)(C), (21), Nov. 10, 1988, 102 Stat. 3419, 3421, 3426.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (b)(1). Pub. L. 100–647, § 1006(t)(21), substituted “and, except as provided in regulations, in the same manner” for “and in the same manner” in introductory provisions.
+1988—Subsec. (b)(1). Pub. L. 100–647, § 1006(t)(21), substituted “and, except as provided in regulations, in the same manner” for “and in the same manner” in introductory provisions.
 
-Subsec. (b)(1)(E). Pub. L. 100–647, § 1006(t)(8)(C), added subpar. (E).
+Subsec. (b)(1)(E). Pub. L. 100–647, § 1006(t)(8)(C), added subpar. (E).
 
-Subsec. (e)(1). Pub. L. 100–647, § 1006(t)(1), substituted “ordinary” for “ordinary income” in heading and amended text generally. Prior to amendment, text read as follows: “Any amount included in the gross income of any holder of a residual interest in a REMIC by reason of subsection (a) shall be treated as ordinary income.”
+Subsec. (e)(1). Pub. L. 100–647, § 1006(t)(1), substituted “ordinary” for “ordinary income” in heading and amended text generally. Prior to amendment, text read as follows: “Any amount included in the gross income of any holder of a residual interest in a REMIC by reason of subsection (a) shall be treated as ordinary income.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4351,7 +4351,7 @@ Subsec. (e)(1). Pub. L. 100–647, § 1006(t)(1), substituted “ordinary” f
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-### § 860D. REMIC defined
+### § 860D. REMIC defined
 
 **(a) General rule** For purposes of this title, the terms “real estate mortgage investment conduit” and “REMIC” mean any entity—
 
@@ -4397,7 +4397,7 @@ If any entity ceases to be a REMIC at any time during the taxable year, such ent
 
 then, notwithstanding such terminating event, such entity shall be treated as continuing to be a REMIC (or such cessation shall be disregarded for purposes of subparagraph (A)) whichever the Secretary determines to be appropriate.
 
-(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, § 1006(t)(2)(A), (16)(A), (19), Nov. 10, 1988, 102 Stat. 3419, 3423, 3426; Pub. L. 101–508, title XI, § 11704(a)(8), Nov. 5, 1990, 104 Stat. 1388–518.)
+(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, § 1006(t)(2)(A), (16)(A), (19), Nov. 10, 1988, 102 Stat. 3419, 3423, 3426; Pub. L. 101–508, title XI, § 11704(a)(8), Nov. 5, 1990, 104 Stat. 1388–518.)
 
 **Editorial Notes**
 
@@ -4405,25 +4405,25 @@ then, notwithstanding such terminating event, such entity shall be treated as co
 
 1990—Subsec. (a). Pub. L. 101–508 inserted closing parenthesis before period at end.
 
-1988—Subsec. (a). Pub. L. 100–647, § 1006(t)(19), inserted at end “In the case of a qualified liquidation (as defined in section 860F(a)(4)(A)), paragraph (4) shall not apply during the liquidation period (as defined in section 860F(a)(4)(B).”
+1988—Subsec. (a). Pub. L. 100–647, § 1006(t)(19), inserted at end “In the case of a qualified liquidation (as defined in section 860F(a)(4)(A)), paragraph (4) shall not apply during the liquidation period (as defined in section 860F(a)(4)(B).”
 
-Subsec. (a)(4). Pub. L. 100–647, § 1006(t)(2)(A)(i), substituted “3rd month beginning after” for “4th month ending after”.
+Subsec. (a)(4). Pub. L. 100–647, § 1006(t)(2)(A)(i), substituted “3rd month beginning after” for “4th month ending after”.
 
-Pub. L. 100–647, § 1006(t)(2)(A)(ii), substituted “and at all times thereafter” for “and each quarter ending thereafter”.
+Pub. L. 100–647, § 1006(t)(2)(A)(ii), substituted “and at all times thereafter” for “and each quarter ending thereafter”.
 
-Subsec. (a)(6). Pub. L. 100–647, § 1006(t)(16)(A), added par. (6).
+Subsec. (a)(6). Pub. L. 100–647, § 1006(t)(16)(A), added par. (6).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1006(t)(2)(B), Nov. 10, 1988, 102 Stat. 3419, provided that: “The amendment made by subparagraph (A)(ii) [amending this section] shall take effect on January 1, 1988.”
+Pub. L. 100–647, title I, § 1006(t)(2)(B), Nov. 10, 1988, 102 Stat. 3419, provided that: “The amendment made by subparagraph (A)(ii) [amending this section] shall take effect on January 1, 1988.”
 
-Pub. L. 100–647, title I, § 1006(t)(16)(D)(i), Nov. 10, 1988, 102 Stat. 3425, provided that: “The amendments made by subparagraph (A) [amending this section] shall apply in the case of any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code, as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is after March 31, 1988; except that such amendments shall not apply in the case of a REMIC formed pursuant to a binding written contract in effect on such date.”
+Pub. L. 100–647, title I, § 1006(t)(16)(D)(i), Nov. 10, 1988, 102 Stat. 3425, provided that: “The amendments made by subparagraph (A) [amending this section] shall apply in the case of any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code, as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is after March 31, 1988; except that such amendments shall not apply in the case of a REMIC formed pursuant to a binding written contract in effect on such date.”
 
 Amendment by section 1006(t)(2)(A)(i), (19) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-### § 860E. Treatment of income in excess of daily accruals on residual interests
+### § 860E. Treatment of income in excess of daily accruals on residual interests
 
 **(a) Excess inclusions may not be offset by net operating losses**
 
@@ -4569,7 +4569,7 @@ For purposes of subtitle F, the taxes imposed by this subsection shall be treate
 
 Except as provided in regulations, with respect to any variable contract (as defined in section 817), there shall be no adjustment in the reserve to the extent of any excess inclusion.
 
-(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, § 1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427; Pub. L. 104–188, title I, §§ 1616(b)(10), 1704(h)(1), Aug. 20, 1996, 110 Stat. 1857, 1881; Pub. L. 115–97, title I, § 13001(b)(1)(B), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–136, div. A, title II, § 2303(a)(2)(C), Mar. 27, 2020, 134 Stat. 353; Pub. L. 117–169, title I, § 10101(a)(4)(B)(ii), Aug. 16, 2022, 136 Stat. 1822.)
+(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, § 1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427; Pub. L. 104–188, title I, §§ 1616(b)(10), 1704(h)(1), Aug. 20, 1996, 110 Stat. 1857, 1881; Pub. L. 115–97, title I, § 13001(b)(1)(B), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–136, div. A, title II, § 2303(a)(2)(C), Mar. 27, 2020, 134 Stat. 353; Pub. L. 117–169, title I, § 10101(a)(4)(B)(ii), Aug. 16, 2022, 136 Stat. 1822.)
 
 **Editorial Notes**
 
@@ -4581,31 +4581,31 @@ Except as provided in regulations, with respect to any variable contract (as def
 
 2017—Subsec. (e)(2)(B), (6)(A)(ii). Pub. L. 115–97 substituted “section 11(b)” for “section 11(b)(1)”.
 
-1996—Subsec. (a)(1). Pub. L. 104–188, § 1616(b)(10)(A), substituted “The” for “Except as provided in paragraph (2), the”.
+1996—Subsec. (a)(1). Pub. L. 104–188, § 1616(b)(10)(A), substituted “The” for “Except as provided in paragraph (2), the”.
 
-Subsec. (a)(2). Pub. L. 104–188, § 1616(b)(10)(B), (C), redesignated par. (3) as (2), struck out “, except that paragraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies” after “of this subsection”, and struck out former par. (2) which read as follows: “Exception for certain financial institutions.—Paragraph (1) shall not apply to any organization to which section 593 applies. The Secretary may by regulations provide that the preceding sentence shall not apply where necessary or appropriate to prevent avoidance of tax imposed by this chapter.”
+Subsec. (a)(2). Pub. L. 104–188, § 1616(b)(10)(B), (C), redesignated par. (3) as (2), struck out “, except that paragraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies” after “of this subsection”, and struck out former par. (2) which read as follows: “Exception for certain financial institutions.—Paragraph (1) shall not apply to any organization to which section 593 applies. The Secretary may by regulations provide that the preceding sentence shall not apply where necessary or appropriate to prevent avoidance of tax imposed by this chapter.”
 
-Subsec. (a)(3). Pub. L. 104–188, § 1616(b)(10)(B), redesignated par. (5) as (3). Former par. (3) redesignated (2).
+Subsec. (a)(3). Pub. L. 104–188, § 1616(b)(10)(B), redesignated par. (5) as (3). Former par. (3) redesignated (2).
 
-Subsec. (a)(4). Pub. L. 104–188, § 1616(b)(10)(B), (D), redesignated par. (6) as (4), struck out at end “The preceding sentence shall not apply to any organization to which section 593 applies, except to the extent provided in regulations prescribed by the Secretary under paragraph (2).”, and struck out former par. (4) which related to certain subsidiaries being treated as single corporations to which section 593 applied.
+Subsec. (a)(4). Pub. L. 104–188, § 1616(b)(10)(B), (D), redesignated par. (6) as (4), struck out at end “The preceding sentence shall not apply to any organization to which section 593 applies, except to the extent provided in regulations prescribed by the Secretary under paragraph (2).”, and struck out former par. (4) which related to certain subsidiaries being treated as single corporations to which section 593 applied.
 
-Subsec. (a)(5). Pub. L. 104–188, § 1616(b)(10)(B), redesignated par. (5) as (3).
+Subsec. (a)(5). Pub. L. 104–188, § 1616(b)(10)(B), redesignated par. (5) as (3).
 
-Subsec. (a)(6). Pub. L. 104–188, § 1616(b)(10)(B), redesignated par. (6) as (4).
+Subsec. (a)(6). Pub. L. 104–188, § 1616(b)(10)(B), redesignated par. (6) as (4).
 
-Pub. L. 104–188, § 1704(h)(1), added par. (6).
+Pub. L. 104–188, § 1704(h)(1), added par. (6).
 
-1988—Subsec. (a)(3), (4). Pub. L. 100–647, § 1006(t)(15), added pars. (3) and (4).
+1988—Subsec. (a)(3), (4). Pub. L. 100–647, § 1006(t)(15), added pars. (3) and (4).
 
-Subsec. (a)(5). Pub. L. 100–647, § 1006(t)(27), added par. (5).
+Subsec. (a)(5). Pub. L. 100–647, § 1006(t)(27), added par. (5).
 
-Subsec. (c)(2)(B). Pub. L. 100–647, § 1006(t)(13), (17), substituted “issue price of the residual interest (adjusted for contributions)” for “issue price of residual interest” in introductory text, and in cl. (ii) inserted “(but not below zero)” after “decreased”.
+Subsec. (c)(2)(B). Pub. L. 100–647, § 1006(t)(13), (17), substituted “issue price of the residual interest (adjusted for contributions)” for “issue price of residual interest” in introductory text, and in cl. (ii) inserted “(but not below zero)” after “decreased”.
 
-Subsec. (d). Pub. L. 100–647, § 1006(t)(23), inserted at end “Rules similar to the rules of the preceding sentence shall apply also in the case of regulated investment companies, common trust funds, and organizations to which part I of subchapter T applies.”
+Subsec. (d). Pub. L. 100–647, § 1006(t)(23), inserted at end “Rules similar to the rules of the preceding sentence shall apply also in the case of regulated investment companies, common trust funds, and organizations to which part I of subchapter T applies.”
 
-Subsec. (e). Pub. L. 100–647, § 1006(t)(16)(B), added subsec. (e).
+Subsec. (e). Pub. L. 100–647, § 1006(t)(16)(B), added subsec. (e).
 
-Subsec. (f). Pub. L. 100–647, § 1006(t)(26), added subsec. (f).
+Subsec. (f). Pub. L. 100–647, § 1006(t)(26), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4625,11 +4625,11 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 1616(b)(10) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, but not applicable to any residual interest held by a taxpayer if such interest has been held by such taxpayer at all times since Oct. 31, 1995, see section 1616(c)(1), (4) of Pub. L. 104–188, set out as a note under section 593 of this title.
 
-Pub. L. 104–188, title I, § 1704(h)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 [Pub. L. 99–514] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act [Aug. 20, 1996].”
+Pub. L. 104–188, title I, § 1704(h)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the amendments made by section 671 of the Tax Reform Act of 1986 [Pub. L. 99–514] unless the taxpayer elects to apply such amendment only to taxable years beginning after the date of the enactment of this Act [Aug. 20, 1996].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1006(t)(16)(D)(ii)–(iv), Nov. 10, 1988, 102 Stat. 3425, provided that:
+Pub. L. 100–647, title I, § 1006(t)(16)(D)(ii)–(iv), Nov. 10, 1988, 102 Stat. 3425, provided that:
 
 > **“(ii)** The amendments made by subparagraphs (B) and (C) [amending this section and section 26 of this title] (except to the extent they relate to paragraph (6) of section 860E(e) of the 1986 Code as added by such amendments) shall apply to transfers after March 31, 1988; except that such amendments shall not apply to any transfer pursuant to a binding written contract in effect on such date.
 
@@ -4645,7 +4645,7 @@ Pub. L. 100–647, title I, § 1006(t)(16)(D)(ii)–(iv), Nov. 10, 1988, 102 S
 
 Amendment by section 1006(t)(13), (15), (17), (23), (26), (27) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-### § 860F. Other rules
+### § 860F. Other rules
 
 **(a) 100 percent tax on prohibited transactions**
 
@@ -4751,7 +4751,7 @@ The basis of any property received by a REMIC in a transfer described in paragra
 
 For purposes of subtitle F, a REMIC shall be treated as a partnership (and holders of residual interests in such REMIC shall be treated as partners). Any return required by reason of the preceding sentence shall include the amount of the daily accruals determined under section 860E(c). Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.
 
-(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2313; amended Pub. L. 100–647, title I, § 1006(t)(3), (4), (14), (18)(A), (22)(B)–(E), Nov. 10, 1988, 102 Stat. 3419, 3420, 3423, 3426; Pub. L. 104–188, title I, § 1704(t)(74), Aug. 20, 1996, 110 Stat. 1891.)
+(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2313; amended Pub. L. 100–647, title I, § 1006(t)(3), (4), (14), (18)(A), (22)(B)–(E), Nov. 10, 1988, 102 Stat. 3419, 3420, 3423, 3426; Pub. L. 104–188, title I, § 1704(t)(74), Aug. 20, 1996, 110 Stat. 1891.)
 
 **Editorial Notes**
 
@@ -4759,33 +4759,33 @@ For purposes of subtitle F, a REMIC shall be treated as a partnership (and holde
 
 1996—Subsec. (a)(5). Pub. L. 104–188 substituted “paragraph (2)” for “paragraph (1)” in introductory provisions.
 
-1988—Subsec. (a)(2)(A). Pub. L. 100–647, § 1006(t)(3)(B)(i), struck out at end “Notwithstanding the preceding sentence, the term ‘prohibited transaction’ shall not include any disposition required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.”
+1988—Subsec. (a)(2)(A). Pub. L. 100–647, § 1006(t)(3)(B)(i), struck out at end “Notwithstanding the preceding sentence, the term ‘prohibited transaction’ shall not include any disposition required to prevent default on a regular interest where the threatened default resulted from a default on 1 or more qualified mortgages.”
 
-Subsec. (a)(2)(A)(i). Pub. L. 100–647, § 1006(t)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the substitution of a qualified replacement mortgage for a qualified mortgage,”.
+Subsec. (a)(2)(A)(i). Pub. L. 100–647, § 1006(t)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “the substitution of a qualified replacement mortgage for a qualified mortgage,”.
 
-Subsec. (a)(2)(A)(iii), (C). Pub. L. 100–647, § 1006(t)(22)(B), (C), substituted “REMIC” for “real estate mortgage pool”.
+Subsec. (a)(2)(A)(iii), (C). Pub. L. 100–647, § 1006(t)(22)(B), (C), substituted “REMIC” for “real estate mortgage pool”.
 
-Subsec. (a)(2)(D). Pub. L. 100–647, § 1006(t)(3)(C), struck out “described in subsection (b)” before period at end.
+Subsec. (a)(2)(D). Pub. L. 100–647, § 1006(t)(3)(C), struck out “described in subsection (b)” before period at end.
 
-Subsec. (a)(5). Pub. L. 100–647, § 1006(t)(3)(B)(ii), added par. (5).
+Subsec. (a)(5). Pub. L. 100–647, § 1006(t)(3)(B)(ii), added par. (5).
 
-Subsec. (b)(1)(A). Pub. L. 100–647, § 1006(t)(4), substituted “the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC” for “the transfer of any property to a REMIC”.
+Subsec. (b)(1)(A). Pub. L. 100–647, § 1006(t)(4), substituted “the transfer of any property to a REMIC in exchange for regular or residual interests in such REMIC” for “the transfer of any property to a REMIC”.
 
-Subsec. (b)(1)(C)(ii). Pub. L. 100–647, § 1006(t)(22)(D), substituted “REMIC” for “real estate mortgage pool”.
+Subsec. (b)(1)(C)(ii). Pub. L. 100–647, § 1006(t)(22)(D), substituted “REMIC” for “real estate mortgage pool”.
 
-Subsec. (b)(1)(D)(ii). Pub. L. 100–647, § 1006(t)(14), (22)(E), amended cl. (ii) identically, substituting “REMIC” for “real estate mortgage pool”.
+Subsec. (b)(1)(D)(ii). Pub. L. 100–647, § 1006(t)(14), (22)(E), amended cl. (ii) identically, substituting “REMIC” for “real estate mortgage pool”.
 
-Subsec. (e). Pub. L. 100–647, § 1006(t)(18)(A), inserted at end “Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.”
+Subsec. (e). Pub. L. 100–647, § 1006(t)(18)(A), inserted at end “Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1006(t)(18)(B), Nov. 10, 1988, 102 Stat. 3426, provided that: “Unless the REMIC otherwise elects, the amendment made by subparagraph (A) [amending this section] shall not apply to any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is before the date of the enactment of this Act.”
+Pub. L. 100–647, title I, § 1006(t)(18)(B), Nov. 10, 1988, 102 Stat. 3426, provided that: “Unless the REMIC otherwise elects, the amendment made by subparagraph (A) [amending this section] shall not apply to any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is before the date of the enactment of this Act.”
 
 Amendment by section 1006(t)(3), (4), (14), (22)(B)–(E) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-### § 860G. Other definitions and special rules
+### § 860G. Other definitions and special rules
 
 **(a) Definitions** For purposes of this part—
 
@@ -4931,7 +4931,7 @@ Except as provided in paragraph (2), if any amount is contributed to a REMIC aft
 
 **(5)** providing that a mortgage will be treated as a qualified replacement mortgage only if it is part of a bona fide replacement (and not part of a swap of mortgages).
 
-(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, § 1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, § 7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, § 11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, § 1621(b)(6), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, § 835(b)(5)–(8), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 109–135, title IV, § 403(cc), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 115–141, div. U, title IV, § 401(a)(151), Mar. 23, 2018, 132 Stat. 1191.)
+(Added Pub. L. 99–514, title VI, § 671(a), Oct. 22, 1986, 100 Stat. 2315; amended Pub. L. 100–647, title I, § 1006(t)(5)(A)–(E), (6)–(8)(B), (9)(A), (10), Nov. 10, 1988, 102 Stat. 3420–3422; Pub. L. 101–239, title VII, § 7811(c)(9), Dec. 19, 1989, 103 Stat. 2408; Pub. L. 101–508, title XI, § 11704(a)(9), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, § 1621(b)(6), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, § 835(b)(5)–(8), Oct. 22, 2004, 118 Stat. 1593; Pub. L. 109–135, title IV, § 403(cc), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 115–141, div. U, title IV, § 401(a)(151), Mar. 23, 2018, 132 Stat. 1191.)
 
 **Editorial Notes**
 
@@ -4939,21 +4939,21 @@ Except as provided in paragraph (2), if any amount is contributed to a REMIC aft
 
 2018—Subsec. (a)(3)(A)(iii)(III). Pub. L. 115–141 substituted comma for period at end.
 
-2005—Subsec. (a)(3). Pub. L. 109–135, § 403(cc)(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property. For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property.”
+2005—Subsec. (a)(3). Pub. L. 109–135, § 403(cc)(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “For purposes of subparagraph (A), any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property. For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property.”
 
-Subsec. (a)(3)(A)(iii)(I). Pub. L. 109–135, § 403(cc)(1), substituted “a reverse mortgage loan or other obligation” for “the obligation”.
+Subsec. (a)(3)(A)(iii)(I). Pub. L. 109–135, § 403(cc)(1), substituted “a reverse mortgage loan or other obligation” for “the obligation”.
 
-2004—Subsec. (a)(1). Pub. L. 108–357, § 835(b)(5)(A), inserted at end of concluding provisions “An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.”
+2004—Subsec. (a)(1). Pub. L. 108–357, § 835(b)(5)(A), inserted at end of concluding provisions “An interest shall not fail to qualify as a regular interest solely because the specified principal amount of the regular interest (or the amount of interest accrued on the regular interest) can be reduced as a result of the nonoccurrence of 1 or more contingent payments with respect to any reverse mortgage loan held by the REMIC if, on the startup day for the REMIC, the sponsor reasonably believes that all principal and interest due under the regular interest will be paid at or prior to the liquidation of the REMIC.”
 
-Subsec. (a)(3). Pub. L. 108–357, § 835(b)(7), inserted at end of concluding provisions “For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property.”
+Subsec. (a)(3). Pub. L. 108–357, § 835(b)(7), inserted at end of concluding provisions “For purposes of subparagraph (A), if more than 50 percent of the obligations transferred to, or purchased by, the REMIC are originated by the United States or any State (or any political subdivision, agency, or instrumentality of the United States or any State) and are principally secured by an interest in real property, then each obligation transferred to, or purchased by, the REMIC shall be treated as secured by an interest in real property.”
 
-Pub. L. 108–357, § 835(b)(5)(B), inserted before period at end of concluding provisions “, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property”.
+Pub. L. 108–357, § 835(b)(5)(B), inserted before period at end of concluding provisions “, and any reverse mortgage loan (and each balance increase on such loan meeting the requirements of subparagraph (A)(iii)) shall be treated as an obligation secured by an interest in real property”.
 
-Subsec. (a)(3)(A)(iii). Pub. L. 108–357, § 835(b)(8)(A), added cl. (iii).
+Subsec. (a)(3)(A)(iii). Pub. L. 108–357, § 835(b)(8)(A), added cl. (iii).
 
-Subsec. (a)(3)(B) to (D). Pub. L. 108–357, § 835(b)(6), inserted “and” at end of subpar. (B), substituted period for “, and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “any regular interest in a FASIT which is transferred to, or purchased by, the REMIC as described in clauses (i) and (ii) of subparagraph (A) but only if 95 percent or more of the value of the assets of such FASIT is at all times attributable to obligations described in subparagraph (A) (without regard to such clauses).”
+Subsec. (a)(3)(B) to (D). Pub. L. 108–357, § 835(b)(6), inserted “and” at end of subpar. (B), substituted period for “, and” at end of subpar. (C), and struck out subpar. (D) which read as follows: “any regular interest in a FASIT which is transferred to, or purchased by, the REMIC as described in clauses (i) and (ii) of subparagraph (A) but only if 95 percent or more of the value of the assets of such FASIT is at all times attributable to obligations described in subparagraph (A) (without regard to such clauses).”
 
-Subsec. (a)(7)(B). Pub. L. 108–357, § 835(b)(8)(B), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘qualified reserve fund’ means any reasonably required reserve to provide for full payment of expenses of the REMIC or amounts due on regular interests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments. The amount of any such reserve shall be promptly and appropriately reduced as payments of qualified mortgages are received.”
+Subsec. (a)(7)(B). Pub. L. 108–357, § 835(b)(8)(B), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (A), the term ‘qualified reserve fund’ means any reasonably required reserve to provide for full payment of expenses of the REMIC or amounts due on regular interests in the event of defaults on qualified mortgages or lower than expected returns on cash flow investments. The amount of any such reserve shall be promptly and appropriately reduced as payments of qualified mortgages are received.”
 
 1996—Subsec. (a)(3)(D). Pub. L. 104–188 added subpar. (D).
 
@@ -4961,7 +4961,7 @@ Subsec. (a)(7)(B). Pub. L. 108–357, § 835(b)(8)(B), reenacted heading witho
 
 1989—Subsec. (a)(3). Pub. L. 101–239 substituted “subparagraph (A)” for “this subparagraph” in last sentence.
 
-1988—Subsec. (a)(1). Pub. L. 100–647, § 1006(t)(5)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘regular interest’ means an interest in a REMIC the terms of which are fixed on the startup day, and which—
+1988—Subsec. (a)(1). Pub. L. 100–647, § 1006(t)(5)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘regular interest’ means an interest in a REMIC the terms of which are fixed on the startup day, and which—
 
 “(A) unconditionally entitles the holder to receive a specified principal amount (or other similar amount), and
 
@@ -4969,35 +4969,35 @@ Subsec. (a)(7)(B). Pub. L. 108–357, § 835(b)(8)(B), reenacted heading witho
 
 An interest shall not fail to meet the requirements of subparagraph (A) merely because the timing (but not the amount) of the principal payments (or other similar amounts) may be contingent on the extent of prepayments on qualified mortgages and the amount of income from permitted investments.”
 
-Subsec. (a)(2). Pub. L. 100–647, § 1006(t)(5)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘residual interest’ means an interest in a REMIC which is not a regular interest and is designated as a residual interest.”
+Subsec. (a)(2). Pub. L. 100–647, § 1006(t)(5)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘residual interest’ means an interest in a REMIC which is not a regular interest and is designated as a residual interest.”
 
-Subsec. (a)(3). Pub. L. 100–647, § 1006(t)(6)(B), inserted at end “For purposes of this subparagraph, any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property.”
+Subsec. (a)(3). Pub. L. 100–647, § 1006(t)(6)(B), inserted at end “For purposes of this subparagraph, any obligation secured by stock held by a person as a tenant-stockholder (as defined in section 216) in a cooperative housing corporation (as so defined) shall be treated as secured by an interest in real property.”
 
-Subsec. (a)(3)(A). Pub. L. 100–647, § 1006(t)(6)(A), struck out “directly or indirectly,”.
+Subsec. (a)(3)(A). Pub. L. 100–647, § 1006(t)(6)(A), struck out “directly or indirectly,”.
 
-Subsec. (a)(3)(A)(i). Pub. L. 100–647, § 1006(t)(5)(C)(i), substituted “on the startup day in exchange for regular or residual interests in the REMIC” for “on or before the startup day”.
+Subsec. (a)(3)(A)(i). Pub. L. 100–647, § 1006(t)(5)(C)(i), substituted “on the startup day in exchange for regular or residual interests in the REMIC” for “on or before the startup day”.
 
-Subsec. (a)(3)(A)(ii). Pub. L. 100–647, § 1006(t)(5)(C)(ii), inserted before comma at end “if, except as provided in regulations, such purchase is pursuant to a fixed-price contract in effect on the startup day”.
+Subsec. (a)(3)(A)(ii). Pub. L. 100–647, § 1006(t)(5)(C)(ii), inserted before comma at end “if, except as provided in regulations, such purchase is pursuant to a fixed-price contract in effect on the startup day”.
 
-Subsec. (a)(3)(C). Pub. L. 100–647, § 1006(t)(5)(C)(iii), substituted “on the startup day in exchange for regular or residual interests in the REMIC” for “on or before the startup day”.
+Subsec. (a)(3)(C). Pub. L. 100–647, § 1006(t)(5)(C)(iii), substituted “on the startup day in exchange for regular or residual interests in the REMIC” for “on or before the startup day”.
 
-Subsec. (a)(4)(A). Pub. L. 100–647, § 1006(t)(5)(D), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which would be described in paragraph (3)(A) if it were transferred to the REMIC on or before the startup day, and”.
+Subsec. (a)(4)(A). Pub. L. 100–647, § 1006(t)(5)(D), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which would be described in paragraph (3)(A) if it were transferred to the REMIC on or before the startup day, and”.
 
-Subsec. (a)(7)(B). Pub. L. 100–647, § 1006(t)(7), inserted before period at end of first sentence “or lower than expected returns on cash flow investments”.
+Subsec. (a)(7)(B). Pub. L. 100–647, § 1006(t)(7), inserted before period at end of first sentence “or lower than expected returns on cash flow investments”.
 
-Subsec. (a)(8). Pub. L. 100–647, § 1006(t)(8)(A), substituted “section 856(e) (without regard to paragraph (5) thereof)” for “section 856(e)” in subpar. (A) and amended last sentence generally. Prior to amendment, last sentence read as follows: “Property shall cease to be foreclosure property with respect to the REMIC on the date which is 1 year after the date such real estate mortgage pool acquired such property.”
+Subsec. (a)(8). Pub. L. 100–647, § 1006(t)(8)(A), substituted “section 856(e) (without regard to paragraph (5) thereof)” for “section 856(e)” in subpar. (A) and amended last sentence generally. Prior to amendment, last sentence read as follows: “Property shall cease to be foreclosure property with respect to the REMIC on the date which is 1 year after the date such real estate mortgage pool acquired such property.”
 
-Subsec. (a)(9). Pub. L. 100–647, § 1006(t)(5)(E), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘startup day’ means any day selected by a REMIC which is on or before the 1st day on which interests in such REMIC are issued.”
+Subsec. (a)(9). Pub. L. 100–647, § 1006(t)(5)(E), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “The term ‘startup day’ means any day selected by a REMIC which is on or before the 1st day on which interests in such REMIC are issued.”
 
-Subsec. (c). Pub. L. 100–647, § 1006(t)(8)(B), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 100–647, § 1006(t)(8)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 100–647, § 1006(t)(9)(A), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 100–647, § 1006(t)(9)(A), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 100–647, § 1006(t)(8)(B), redesignated former subsec. (c) as (d).
+Pub. L. 100–647, § 1006(t)(8)(B), redesignated former subsec. (c) as (d).
 
-Subsec. (e). Pub. L. 100–647, § 1006(t)(9)(A), redesignated former subsec. (d) as (e).
+Subsec. (e). Pub. L. 100–647, § 1006(t)(9)(A), redesignated former subsec. (d) as (e).
 
-Subsec. (e)(4), (5). Pub. L. 100–647, § 1006(t)(10), added pars. (4) and (5).
+Subsec. (e)(4), (5). Pub. L. 100–647, § 1006(t)(10), added pars. (4) and (5).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5019,25 +5019,25 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1006(t)(5)(F), Nov. 10, 1988, 102 Stat. 3421, provided that: “The amendments made by this paragraph [amending this section] shall not apply to any REMIC where the startup day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is before July 1, 1987.”
+Pub. L. 100–647, title I, § 1006(t)(5)(F), Nov. 10, 1988, 102 Stat. 3421, provided that: “The amendments made by this paragraph [amending this section] shall not apply to any REMIC where the startup day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is before July 1, 1987.”
 
-Pub. L. 100–647, title I, § 1006(t)(9)(B), Nov. 10, 1988, 102 Stat. 3422, provided that: “The amendment made by subparagraph (A) [amending this section] shall not apply to any REMIC where the startup day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is before July 1, 1987.”
+Pub. L. 100–647, title I, § 1006(t)(9)(B), Nov. 10, 1988, 102 Stat. 3422, provided that: “The amendment made by subparagraph (A) [amending this section] shall not apply to any REMIC where the startup day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act [Nov. 10, 1988]) is before July 1, 1987.”
 
 Amendment by section 1006(t)(6)–(8)(B), (10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 ## [PART V—REPEALED]
 
-### [§§ 860H to 860L. Repealed. Pub. L. 108–357, title VIII, § 835(a), Oct. 22, 2004, 118 Stat. 1593]
+### [§§ 860H to 860L. Repealed. Pub. L. 108–357, title VIII, § 835(a), Oct. 22, 2004, 118 Stat. 1593]
 
-Section 860H, added Pub. L. 104–188, title I, § 1621(a), Aug. 20, 1996, 110 Stat. 1858, set forth general rules relating to taxation of a FASIT.
+Section 860H, added Pub. L. 104–188, title I, § 1621(a), Aug. 20, 1996, 110 Stat. 1858, set forth general rules relating to taxation of a FASIT.
 
-Section 860I, added Pub. L. 104–188, title I, § 1621(a), Aug. 20, 1996, 110 Stat. 1859, related to gain recognition on contributions to a FASIT and in other cases.
+Section 860I, added Pub. L. 104–188, title I, § 1621(a), Aug. 20, 1996, 110 Stat. 1859, related to gain recognition on contributions to a FASIT and in other cases.
 
-Section 860J, added Pub. L. 104–188, title I, § 1621(a), Aug. 20, 1996, 110 Stat. 1860, prohibited offset of certain FASIT inclusions by non-FASIT losses.
+Section 860J, added Pub. L. 104–188, title I, § 1621(a), Aug. 20, 1996, 110 Stat. 1860, prohibited offset of certain FASIT inclusions by non-FASIT losses.
 
-Section 860K, added Pub. L. 104–188, title I, § 1621(a), Aug. 20, 1996, 110 Stat. 1861, related to treatment of transfers of high-yield interests to disqualified holders.
+Section 860K, added Pub. L. 104–188, title I, § 1621(a), Aug. 20, 1996, 110 Stat. 1861, related to treatment of transfers of high-yield interests to disqualified holders.
 
-Section 860L, added Pub. L. 104–188, title I, § 1621(a), Aug. 20, 1996, 110 Stat. 1862; amended Pub. L. 105–34, title XVI, § 1601(f)(6), Aug. 5, 1997, 111 Stat. 1091, defined terms and set forth special rules relating to FASITs.
+Section 860L, added Pub. L. 104–188, title I, § 1621(a), Aug. 20, 1996, 110 Stat. 1862; amended Pub. L. 105–34, title XVI, § 1601(f)(6), Aug. 5, 1997, 111 Stat. 1091, defined terms and set forth special rules relating to FASITs.
 
 **Statutory Notes and Related Subsidiaries**
 

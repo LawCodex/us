@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1998—Pub. L. 105–206, title III, § 3465(a)(2), July 22, 1998, 112 Stat. 768, added items 7123 and 7124 and struck out former item 7123 “Cross references”.
+1998—Pub. L. 105–206, title III, § 3465(a)(2), July 22, 1998, 112 Stat. 768, added items 7123 and 7124 and struck out former item 7123 “Cross references”.
 
-## § 7121. Closing agreements
+## § 7121. Closing agreements
 
 **(a) Authorization**
 
@@ -33,7 +33,7 @@ The Secretary is authorized to enter into an agreement in writing with any perso
 
 **(2)** in any suit, action, or proceeding, such agreement, or any determination, assessment, collection, payment, abatement, refund, or credit made in accordance therewith, shall not be annulled, modified, set aside, or disregarded.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 849; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 849; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -41,7 +41,7 @@ The Secretary is authorized to enter into an agreement in writing with any perso
 
 1976—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-## § 7122. Compromises
+## § 7122. Compromises
 
 **(a) Authorization**
 
@@ -141,33 +141,33 @@ Any offer-in-compromise submitted under this section shall be deemed to be accep
 
 Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 849; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title V, § 503(a), July 30, 1996, 110 Stat. 1461; Pub. L. 105–206, title III, § 3462(a), (c)(1), July 22, 1998, 112 Stat. 764, 766; Pub. L. 109–222, title V, § 509(a), (b), May 17, 2006, 120 Stat. 362, 363; Pub. L. 109–432, div. A, title IV, § 407(d), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 113–295, div. A, title II, § 220(y), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 116–25, title I, §§ 1001(b)(1)(F), 1102(a), July 1, 2019, 133 Stat. 985, 986.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 849; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title V, § 503(a), July 30, 1996, 110 Stat. 1461; Pub. L. 105–206, title III, § 3462(a), (c)(1), July 22, 1998, 112 Stat. 764, 766; Pub. L. 109–222, title V, § 509(a), (b), May 17, 2006, 120 Stat. 362, 363; Pub. L. 109–432, div. A, title IV, § 407(d), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 113–295, div. A, title II, § 220(y), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 116–25, title I, §§ 1001(b)(1)(F), 1102(a), July 1, 2019, 133 Stat. 985, 986.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (c)(3). Pub. L. 116–25, § 1102(a), added par. (3).
+2019—Subsec. (c)(3). Pub. L. 116–25, § 1102(a), added par. (3).
 
-Subsec. (e)(2). Pub. L. 116–25, § 1001(b)(1)(F), substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals”.
+Subsec. (e)(2). Pub. L. 116–25, § 1001(b)(1)(F), substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals”.
 
 2014—Subsecs. (f), (g). Pub. L. 113–295 redesignated subsec. (f) relating to frivolous submissions as (g).
 
-2006—Subsec. (c). Pub. L. 109–222, § 509(a), added subsec. (c). Former subsec. (c) redesignated (d).
+2006—Subsec. (c). Pub. L. 109–222, § 509(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 109–222, § 509(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 109–222, § 509(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(3)(C). Pub. L. 109–222, § 509(b)(1), added subpar. (C).
+Subsec. (d)(3)(C). Pub. L. 109–222, § 509(b)(1), added subpar. (C).
 
-Subsec. (e). Pub. L. 109–222, § 509(a), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 109–222, § 509(a), redesignated subsec. (d) as (e).
 
 Subsec. (f). Pub. L. 109–432 added subsec. (f) relating to frivolous submissions.
 
-Pub. L. 109–222, § 509(b)(2), added subsec. (f) relating to deemed acceptance of offer not rejected within certain period.
+Pub. L. 109–222, § 509(b)(2), added subsec. (f) relating to deemed acceptance of offer not rejected within certain period.
 
-1998—Subsec. (c). Pub. L. 105–206, § 3462(a), added subsec. (c).
+1998—Subsec. (c). Pub. L. 105–206, § 3462(a), added subsec. (c).
 
-Subsec. (d). Pub. L. 105–206, § 3462(c)(1), added subsec. (d).
+Subsec. (d). Pub. L. 105–206, § 3462(c)(1), added subsec. (d).
 
 1996—Subsec. (b). Pub. L. 104–168 substituted “$50,000. However, such compromise shall be subject to continuing quality review by the Secretary.” for “$500.”
 
@@ -177,7 +177,7 @@ Subsec. (d). Pub. L. 105–206, § 3462(c)(1), added subsec. (d).
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–25, title I, § 1102(b), July 1, 2019, 133 Stat. 986, provided that: “The amendment made by this section [amending this section] shall apply to offers-in-compromise submitted after the date of the enactment of this Act [July 1, 2019].”
+Pub. L. 116–25, title I, § 1102(b), July 1, 2019, 133 Stat. 986, provided that: “The amendment made by this section [amending this section] shall apply to offers-in-compromise submitted after the date of the enactment of this Act [July 1, 2019].”
 
 **Effective Date of 2006 Amendment**
 
@@ -191,11 +191,11 @@ Amendment by Pub. L. 105–206 applicable to proposed offers-in-compromise and i
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–168, title V, § 503(b), July 30, 1996, 110 Stat. 1461, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 30, 1996].”
+Pub. L. 104–168, title V, § 503(b), July 30, 1996, 110 Stat. 1461, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 30, 1996].”
 
 **Preparation of Statement Relating to Offers-in-Compromise**
 
-Pub. L. 105–206, title III, § 3462(d), July 22, 1998, 112 Stat. 766, provided that:
+Pub. L. 105–206, title III, § 3462(d), July 22, 1998, 112 Stat. 766, provided that:
 
 > “The Secretary of the Treasury shall prepare a statement which sets forth in simple, nontechnical terms the rights of a taxpayer and the obligations of the Internal Revenue Service relating to offers-in-compromise. Such statement shall—
 
@@ -205,7 +205,7 @@ Pub. L. 105–206, title III, § 3462(d), July 22, 1998, 112 Stat. 766, provid
 
 > **“(3)** provide notice to the taxpayer that the taxpayer may appeal the rejection of an offer-in-compromise to the Internal Revenue Service Office of Appeals [now Internal Revenue Service Independent Office of Appeals].”
 
-## § 7123. Appeals dispute resolution procedures
+## § 7123. Appeals dispute resolution procedures
 
 **(a) Early referral to appeals procedures**
 
@@ -239,7 +239,7 @@ The Secretary shall prescribe procedures under which an organization which claim
 
 **(C)** the initial classification or continuing classification of the organization as a private operating foundation under section 4942(j)(3).
 
-(Added Pub. L. 105–206, title III, § 3465(a)(1), July 22, 1998, 112 Stat. 768; amended Pub. L. 114–113, div. Q, title IV, § 404(a), Dec. 18, 2015, 129 Stat. 3118; Pub. L. 116–25, title I, § 1001(b)(1)(G), July 1, 2019, 133 Stat. 985.)
+(Added Pub. L. 105–206, title III, § 3465(a)(1), July 22, 1998, 112 Stat. 768; amended Pub. L. 114–113, div. Q, title IV, § 404(a), Dec. 18, 2015, 129 Stat. 3118; Pub. L. 116–25, title I, § 1001(b)(1)(G), July 1, 2019, 133 Stat. 985.)
 
 **Editorial Notes**
 
@@ -257,13 +257,13 @@ A prior section 7123 was renumbered section 7124 of this title.
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–113, div. Q, title IV, § 404(b), Dec. 18, 2015, 129 Stat. 3118, provided that: “The amendment made by subsection (a) [amending this section] shall apply to determinations made on or after May 19, 2014.”
+Pub. L. 114–113, div. Q, title IV, § 404(b), Dec. 18, 2015, 129 Stat. 3118, provided that: “The amendment made by subsection (a) [amending this section] shall apply to determinations made on or after May 19, 2014.”
 
-## § 7124. Cross references
+## § 7124. Cross references
 
 For criminal penalties for concealment of property, false statement, or falsifying and destroying records, in connection with any closing agreement, compromise, or offer of compromise, see section 7206.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 850, § 7123; Pub. L. 97–258, § 3(f)(12), Sept. 13, 1982, 96 Stat. 1065; renumbered § 7124, Pub. L. 105–206, title III, § 3465(a)(1), July 22, 1998, 112 Stat. 767.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 850, § 7123; Pub. L. 97–258, § 3(f)(12), Sept. 13, 1982, 96 Stat. 1065; renumbered § 7124, Pub. L. 105–206, title III, § 3465(a)(1), July 22, 1998, 112 Stat. 767.)
 
 **Editorial Notes**
 
@@ -271,6 +271,6 @@ For criminal penalties for concealment of property, false statement, or falsifyi
 
 1998—Pub. L. 105–206 renumbered section 7123 of this title as this section.
 
-1982—Subsec. (a). Pub. L. 97–258, § 3(f)(12)(A), struck out heading “Criminal penalties”.
+1982—Subsec. (a). Pub. L. 97–258, § 3(f)(12)(A), struck out heading “Criminal penalties”.
 
-Subsec. (b). Pub. L. 97–258, § 3(f)(12)(B), struck out subsec. (b) which set forth cross reference to R.S. 3469 (31 U.S.C. 194) relating to compromises after judgment.
+Subsec. (b). Pub. L. 97–258, § 3(f)(12)(B), struck out subsec. (b) which set forth cross reference to R.S. 3469 (31 U.S.C. 194) relating to compromises after judgment.

@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2010—Pub. L. 111–295, § 4(a), (b)(1)(A), Dec. 9, 2010, 124 Stat. 3180, substituted “IMPORTATION AND EXPORTATION” for “MANUFACTURING REQUIREMENTS, IMPORTATION, AND EXPORTATION” in chapter heading and struck out item 601 “Manufacture, importation, and public distribution of certain copies”.
+2010—Pub. L. 111–295, § 4(a), (b)(1)(A), Dec. 9, 2010, 124 Stat. 3180, substituted “IMPORTATION AND EXPORTATION” for “MANUFACTURING REQUIREMENTS, IMPORTATION, AND EXPORTATION” in chapter heading and struck out item 601 “Manufacture, importation, and public distribution of certain copies”.
 
-2008—Pub. L. 110–403, title I, § 105(a), Oct. 13, 2008, 122 Stat. 4259, substituted “MANUFACTURING REQUIREMENTS, IMPORTATION, AND EXPORTATION” for “MANUFACTURING REQUIREMENTS AND IMPORTATION” in chapter heading.
+2008—Pub. L. 110–403, title I, § 105(a), Oct. 13, 2008, 122 Stat. 4259, substituted “MANUFACTURING REQUIREMENTS, IMPORTATION, AND EXPORTATION” for “MANUFACTURING REQUIREMENTS AND IMPORTATION” in chapter heading.
 
-## [§ 601. Repealed. Pub. L. 111–295, § 4(a), Dec. 9, 2010, 124 Stat. 3180]
+## [§ 601. Repealed. Pub. L. 111–295, § 4(a), Dec. 9, 2010, 124 Stat. 3180]
 
-Section, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2588; Pub. L. 97–215, July 13, 1982, 96 Stat. 178; Pub. L. 105–80, § 12(a)(15), (16), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 110–403, title I, § 105(c)(2), Oct. 13, 2008, 122 Stat. 4260, related to manufacture, importation, and public distribution of certain copies of nondramatic English-language literary material protected under this title.
+Section, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2588; Pub. L. 97–215, July 13, 1982, 96 Stat. 178; Pub. L. 105–80, § 12(a)(15), (16), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 110–403, title I, § 105(c)(2), Oct. 13, 2008, 122 Stat. 4260, related to manufacture, importation, and public distribution of certain copies of nondramatic English-language literary material protected under this title.
 
-## § 602. Infringing importation or exportation of copies or phonorecords
+## § 602. Infringing importation or exportation of copies or phonorecords
 
 **(a) Infringing Importation or Exportation.—**
 
@@ -45,7 +45,7 @@ Section, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2588; Pub.
 
 **(b) Import Prohibition.—** In a case where the making of the copies or phonorecords would have constituted an infringement of copyright if this title had been applicable, their importation is prohibited. In a case where the copies or phonorecords were lawfully made, United States Customs and Border Protection has no authority to prevent their importation. In either case, the Secretary of the Treasury is authorized to prescribe, by regulation, a procedure under which any person claiming an interest in the copyright in a particular work may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of articles that appear to be copies or phonorecords of the work.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2589; Pub. L. 110–403, title I, § 105(b), (c)(1), Oct. 13, 2008, 122 Stat. 4259, 4260; Pub. L. 111–295, § 4(c), Dec. 9, 2010, 124 Stat. 3181.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2589; Pub. L. 110–403, title I, § 105(b), (c)(1), Oct. 13, 2008, 122 Stat. 4259, 4260; Pub. L. 111–295, § 4(c), Dec. 9, 2010, 124 Stat. 3181.)
 
 **Historical and Revision Notes**
 
@@ -67,13 +67,13 @@ If none of the three exemptions applies, any unauthorized importer of copies or 
 
 2010—Subsec. (b). Pub. L. 111–295 struck out “unless the provisions of section 601 are applicable” after “prevent their importation” in second sentence.
 
-2008—Pub. L. 110–403, § 105(c)(1)(A), inserted “or exportation” after “importation” in section catchline.
+2008—Pub. L. 110–403, § 105(c)(1)(A), inserted “or exportation” after “importation” in section catchline.
 
-Subsec. (a). Pub. L. 110–403, § 105(b), inserted heading, designated introductory provisions as par. (1), struck out “This subsection does not apply to—” at end in par. (1), added par. (2) and par. (3) designation, heading, and introductory provisions, redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (3), respectively, and realigned margins, inserted “or exportation” after “importation” in par. (3)(A), and substituted “importation or exportation, for the private use of the importer or exporter” for “importation, for the private use of the importer” and inserted “or departing from the United States” after “United States” in par. (3)(B).
+Subsec. (a). Pub. L. 110–403, § 105(b), inserted heading, designated introductory provisions as par. (1), struck out “This subsection does not apply to—” at end in par. (1), added par. (2) and par. (3) designation, heading, and introductory provisions, redesignated former pars. (1) to (3) as subpars. (A) to (C) of par. (3), respectively, and realigned margins, inserted “or exportation” after “importation” in par. (3)(A), and substituted “importation or exportation, for the private use of the importer or exporter” for “importation, for the private use of the importer” and inserted “or departing from the United States” after “United States” in par. (3)(B).
 
-Subsec. (b). Pub. L. 110–403, § 105(c)(1)(B), inserted heading and substituted “United States Customs and Border Protection has” for “the United States Customs Service has” and “United States Customs and Border Protection of” for “the Customs Service of”.
+Subsec. (b). Pub. L. 110–403, § 105(c)(1)(B), inserted heading and substituted “United States Customs and Border Protection has” for “the United States Customs Service has” and “United States Customs and Border Protection of” for “the Customs Service of”.
 
-## § 603. Importation prohibitions: Enforcement and disposition of excluded articles
+## § 603. Importation prohibitions: Enforcement and disposition of excluded articles
 
 **(a)** The Secretary of the Treasury and the United States Postal Service shall separately or jointly make regulations for the enforcement of the provisions of this title prohibiting importation.
 
@@ -85,7 +85,7 @@ Subsec. (b). Pub. L. 110–403, § 105(c)(1)(B), inserted heading and substitu
 
 **(c)** Articles imported in violation of the importation prohibitions of this title are subject to seizure and forfeiture in the same manner as property imported in violation of the customs revenue laws. Forfeited articles shall be destroyed as directed by the Secretary of the Treasury or the court, as the case may be.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2590; Pub. L. 104–153, § 8, July 2, 1996, 110 Stat. 1388.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2590; Pub. L. 104–153, § 8, July 2, 1996, 110 Stat. 1388.)
 
 **Historical and Revision Notes**
 
@@ -99,4 +99,4 @@ Subsection (b) of section 603 deals only with the prohibition against importatio
 
 **Amendments**
 
-1996—Subsec. (c). Pub. L. 104–153 substituted a period at end for “; however, the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of law.”
+1996—Subsec. (c). Pub. L. 104–153 substituted a period at end for “; however, the articles may be returned to the country of export whenever it is shown to the satisfaction of the Secretary of the Treasury that the importer had no reasonable grounds for believing that his or her acts constituted a violation of law.”

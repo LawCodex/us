@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 94—IRAN THREAT REDUCTION AND SYRIA HUMAN RIGHTS
 
-## § 8701. Definitions
+## § 8701. Definitions
 
 Except as otherwise specifically provided, in this Act:
 
@@ -35,7 +35,7 @@ The term “knowingly” has the meaning given that term in section 14 of the Ir
 
 The term “United States person” has the meaning given that term in section 8511 of this title.
 
-(Pub. L. 112–158, § 2, Aug. 10, 2012, 126 Stat. 1216.)
+(Pub. L. 112–158, § 2, Aug. 10, 2012, 126 Stat. 1216.)
 
 **Editorial Notes**
 
@@ -47,13 +47,13 @@ This Act, referred to in text, is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 12
 
 **Short Title**
 
-Pub. L. 112–158, § 1(a), Aug. 10, 2012, 126 Stat. 1214, provided that: “This Act [enacting this chapter and sections 8513b, 8514a, and 8514b of this title, amending sections 8511, 8513, 8513a, 8518, 8532, 8551 of this title, section 78m of Title 15, Commerce and Trade, and section 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and sections 8513 and 8513a of this title, section 78m of Title 15, and section 1701 of Title 50, War and National Defense, and amending provisions set out as notes under section 1610 of Title 28 and section 1701 of Title 50] may be cited as the ‘Iran Threat Reduction and Syria Human Rights Act of 2012’.”
+Pub. L. 112–158, § 1(a), Aug. 10, 2012, 126 Stat. 1214, provided that: “This Act [enacting this chapter and sections 8513b, 8514a, and 8514b of this title, amending sections 8511, 8513, 8513a, 8518, 8532, 8551 of this title, section 78m of Title 15, Commerce and Trade, and section 1610 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as notes under this section and sections 8513 and 8513a of this title, section 78m of Title 15, and section 1701 of Title 50, War and National Defense, and amending provisions set out as notes under section 1610 of Title 28 and section 1701 of Title 50] may be cited as the ‘Iran Threat Reduction and Syria Human Rights Act of 2012’.”
 
-Pub. L. 112–158, title VII, § 701, Aug. 10, 2012, 126 Stat. 1265, provided that: “This title [enacting subchapter VII of this chapter] may be cited as the ‘Syria Human Rights Accountability Act of 2012’.”
+Pub. L. 112–158, title VII, § 701, Aug. 10, 2012, 126 Stat. 1265, provided that: “This title [enacting subchapter VII of this chapter] may be cited as the ‘Syria Human Rights Accountability Act of 2012’.”
 
 **Monitoring Iranian Enrichment of Uranium-235**
 
-Pub. L. 118–31, div. G, title IV, § 7413, Dec. 22, 2023, 137 Stat. 1078, as amended by Pub. L. 119–60, div. F, title LXVII, § 6711, Dec. 18, 2025, 139 Stat. 1648, provided that:
+Pub. L. 118–31, div. G, title IV, § 7413, Dec. 22, 2023, 137 Stat. 1078, as amended by Pub. L. 119–60, div. F, title LXVII, § 6711, Dec. 18, 2025, 139 Stat. 1648, provided that:
 
 > **“(a) Significant Enrichment Activity Defined.—** In this section, the term ‘significant enrichment activity’ means—
 
@@ -79,7 +79,7 @@ Pub. L. 118–31, div. G, title IV, § 7413, Dec. 22, 2023, 137 Stat. 1078, as
 
 **Iran Nuclear Weapons Capability and Terrorism Monitoring**
 
-Pub. L. 117–263, div. E, title LV, § 5593, Dec. 23, 2022, 136 Stat. 3385, provided that:
+Pub. L. 117–263, div. E, title LV, § 5593, Dec. 23, 2022, 136 Stat. 3385, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘Iran Nuclear Weapons Capability and Terrorism Monitoring Act of 2022’.
 
@@ -337,7 +337,7 @@ Pub. L. 117–263, div. E, title LV, § 5593, Dec. 23, 2022, 136 Stat. 3385, p
 
 **Report on Use by Iran of Funds Made Available Through Sanctions Relief**
 
-Pub. L. 114–113, div. M, title V, § 514, Dec. 18, 2015, 129 Stat. 2926, provided that:
+Pub. L. 114–113, div. M, title V, § 514, Dec. 18, 2015, 129 Stat. 2926, provided that:
 
 > **“(a) In General.—** At the times specified in subsection (b), the Director of National Intelligence, in consultation with the Secretary of the Treasury, shall submit to the appropriate congressional committees a report assessing the following:
 
@@ -389,7 +389,7 @@ Pub. L. 114–113, div. M, title V, § 514, Dec. 18, 2015, 129 Stat. 2926, pro
 
 **Reports on Nuclear Program of Iran**
 
-Pub. L. 113–291, div. A, title XII, § 1271, Dec. 19, 2014, 128 Stat. 3588, which required the President to report to Congress on interim agreement related to the nuclear program of Iran, including verification of compliance by Iran and assessment of overall state of Iran’s nuclear program, terminated 10 years after Dec. 19, 2014.
+Pub. L. 113–291, div. A, title XII, § 1271, Dec. 19, 2014, 128 Stat. 3588, which required the President to report to Congress on interim agreement related to the nuclear program of Iran, including verification of compliance by Iran and assessment of overall state of Iran’s nuclear program, terminated 10 years after Dec. 19, 2014.
 
 **Countering Iran in the Western Hemisphere**
 
@@ -485,7 +485,7 @@ Pub. L. 112–220, Dec. 28, 2012, 126 Stat. 1596, provided that:
 
 ## SUBCHAPTER I—EXPANSION OF MULTILATERAL SANCTIONS REGIME WITH RESPECT TO IRAN
 
-### § 8711. Sense of Congress on enforcement of multilateral sanctions regime and expansion and implementation of sanctions laws
+### § 8711. Sense of Congress on enforcement of multilateral sanctions regime and expansion and implementation of sanctions laws
 
 It is the sense of Congress that the goal of compelling Iran to abandon efforts to acquire a nuclear weapons capability and other threatening activities can be effectively achieved through a comprehensive policy that includes economic sanctions, diplomacy, and military planning, capabilities and options, and that this objective is consistent with the one stated by President Barack Obama in the 2012 State of the Union Address: “Let there be no doubt: America is determined to prevent Iran from getting a nuclear weapon, and I will take no options off the table to achieve that goal”. Among the economic measures to be taken are—
 
@@ -519,7 +519,7 @@ It is the sense of Congress that the goal of compelling Iran to abandon efforts 
 
 **(C)** urgent and ongoing evaluation of Iran’s energy, national security, financial, and telecommunications sectors, to gauge the effects of, and possible defects in, particular sanctions, with prompt efforts to correct any gaps in the existing sanctions regime with respect to Iran.
 
-(Pub. L. 112–158, title I, § 101, Aug. 10, 2012, 126 Stat. 1216.)
+(Pub. L. 112–158, title I, § 101, Aug. 10, 2012, 126 Stat. 1216.)
 
 **Termination of Section**
 
@@ -531,9 +531,9 @@ For termination of section, see section 8785(a) of this title.
 
 This Act, referred to in par. (2), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-The International Emergency Economic Powers Act, referred to in par. (2)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in par. (2)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-### § 8712. Diplomatic efforts to expand multilateral sanctions regime
+### § 8712. Diplomatic efforts to expand multilateral sanctions regime
 
 **(a) Multilateral negotiations** Congress urges the President to intensify diplomatic efforts, both in appropriate international fora such as the United Nations and bilaterally with allies of the United States, for the purpose of—
 
@@ -579,7 +579,7 @@ The International Emergency Economic Powers Act, referred to in par. (2)(B), is 
 
 **(6)** the disposition of any decision with respect to sanctions imposed with respect to Iran by the World Trade Organization or its predecessor organization.
 
-(Pub. L. 112–158, title I, § 102, Aug. 10, 2012, 126 Stat. 1218.)
+(Pub. L. 112–158, title I, § 102, Aug. 10, 2012, 126 Stat. 1218.)
 
 **Termination of Section**
 
@@ -593,7 +593,7 @@ Section 8513a(d)(4)(D) of this title, as amended by section 504, referred to in 
 
 ## SUBCHAPTER II—ADDITIONAL MEASURES RELATING TO SANCTIONS AGAINST IRAN
 
-### § 8721. Imposition of sanctions with respect to the provision of vessels or shipping services to transport certain goods related to proliferation or terrorism activities to Iran
+### § 8721. Imposition of sanctions with respect to the provision of vessels or shipping services to transport certain goods related to proliferation or terrorism activities to Iran
 
 **(a) In general**
 
@@ -631,7 +631,7 @@ A report submitted under paragraph (1) shall be submitted in unclassified form b
 
 Nothing in this section shall be construed to limit the authority of the President to designate persons for the imposition of sanctions pursuant to Executive Order No. 13382 (70 Fed. Reg. 38567; relating to the blocking of property of weapons of mass destruction proliferators and their supporters) or Executive Order No. 13224 (66 Fed. Reg. 49079; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism), or otherwise pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
 
-(Pub. L. 112–158, title II, § 211, Aug. 10, 2012, 126 Stat. 1228.)
+(Pub. L. 112–158, title II, § 211, Aug. 10, 2012, 126 Stat. 1228.)
 
 **Termination of Section**
 
@@ -645,9 +645,9 @@ Executive Order No. 13382, referred to in subsecs. (a) and (e), is Ex. Ord. No. 
 
 Executive Order No. 13224, referred to in subsecs. (a) and (e), is Ex. Ord. No. 13224, Sept. 23, 2001, 66 F.R. 49079, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-The International Emergency Economic Powers Act, referred to in subsecs. (a), (d)(1), and (e), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (a), (d)(1), and (e), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-### § 8722. Imposition of sanctions with respect to provision of underwriting services or insurance or reinsurance for the National Iranian Oil Company or the National Iranian Tanker Company
+### § 8722. Imposition of sanctions with respect to provision of underwriting services or insurance or reinsurance for the National Iranian Oil Company or the National Iranian Tanker Company
 
 **(a) In general**
 
@@ -705,7 +705,7 @@ The term “medicine” has the meaning given the term “drug” in section 321
 
 Nothing in this section shall be construed to limit the authority of the President to impose sanctions pursuant to the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note), the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8501 et seq.), the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), section 8513a of this title, or any other provision of this Act.
 
-(Pub. L. 112–158, title II, § 212, Aug. 10, 2012, 126 Stat. 1229.)
+(Pub. L. 112–158, title II, § 212, Aug. 10, 2012, 126 Stat. 1229.)
 
 **Termination of Section**
 
@@ -719,11 +719,11 @@ The Iran Sanctions Act of 1996, referred to in subsecs. (a), (d), and (e), is Pu
 
 This Act, referred to in subsecs. (d) and (e), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (e), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§ 8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
+The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (e), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§ 8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (e), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (e), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-### § 8723. Imposition of sanctions with respect to purchase, subscription to, or facilitation of the issuance of Iranian sovereign debt
+### § 8723. Imposition of sanctions with respect to purchase, subscription to, or facilitation of the issuance of Iranian sovereign debt
 
 **(a) In general** The President shall impose 5 or more of the sanctions described in section 6(a) of the Iran Sanctions Act of 1996, as amended by section 204, with respect to a person if the President determines that the person knowingly, on or after August 10, 2012, purchases, subscribes to, or facilitates the issuance of—
 
@@ -749,7 +749,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (e), is 
 
 **(8)** Section 14.
 
-(Pub. L. 112–158, title II, § 213, Aug. 10, 2012, 126 Stat. 1230.)
+(Pub. L. 112–158, title II, § 213, Aug. 10, 2012, 126 Stat. 1230.)
 
 **Termination of Section**
 
@@ -783,7 +783,7 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 Barack Obama.
 
-### § 8724. Continuation in effect of sanctions with respect to the Government of Iran, the Central Bank of Iran, and sanctions evaders
+### § 8724. Continuation in effect of sanctions with respect to the Government of Iran, the Central Bank of Iran, and sanctions evaders
 
 **(a) Sanctions relating to blocking of property of the Government of Iran and Iranian financial institutions**
 
@@ -833,7 +833,7 @@ The certification described in paragraph (1) shall be submitted in unclassified 
 
 Nothing in this section shall be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8501 et seq.).
 
-(Pub. L. 112–158, title II, § 217, Aug. 10, 2012, 126 Stat. 1233.)
+(Pub. L. 112–158, title II, § 217, Aug. 10, 2012, 126 Stat. 1233.)
 
 **Editorial Notes**
 
@@ -843,11 +843,11 @@ Executive Order No. 13599, referred to in subsec. (a), is Ex. Ord. No. 13599, Fe
 
 Executive Order No. 13608, referred to in subsec. (b), is Ex. Ord. No. 13608, May 1, 2012, 77 F.R. 26409, which is listed in tables under section 1701 of Title 50, War and National Defense.
 
-The International Emergency Economic Powers Act, referred to in subsecs. (c), (d)(1)(B)(ii), and (e), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (c), (d)(1)(B)(ii), and (e), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (e), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§ 8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
+The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (e), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§ 8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
 
-### § 8725. Liability of parent companies for violations of sanctions by foreign subsidiaries
+### § 8725. Liability of parent companies for violations of sanctions by foreign subsidiaries
 
 **(a) Definitions** In this section:
 
@@ -875,7 +875,7 @@ The civil penalties provided for in section 206(b) of the International Emergenc
 
 Subsection (c) shall not apply with respect to a transaction described in subsection (b) by an entity owned or controlled by a United States person and established or maintained outside the United States if the United States person divests or terminates its business with the entity not later than the date that is 180 days after August 10, 2012.
 
-(Pub. L. 112–158, title II, § 218, Aug. 10, 2012, 126 Stat. 1234.)
+(Pub. L. 112–158, title II, § 218, Aug. 10, 2012, 126 Stat. 1234.)
 
 **Termination of Section**
 
@@ -885,9 +885,9 @@ For termination of section, see section 8785(a) of this title.
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-### § 8726. Reports on, and authorization of imposition of sanctions with respect to, the provision of specialized financial messaging services to the Central Bank of Iran and other sanctioned Iranian financial institutions
+### § 8726. Reports on, and authorization of imposition of sanctions with respect to, the provision of specialized financial messaging services to the Central Bank of Iran and other sanctioned Iranian financial institutions
 
 **(a) Sense of Congress** It is the sense of Congress that—
 
@@ -937,7 +937,7 @@ Except as provided in paragraph (2), if, on or after the date that is 90 days af
 
 Nothing in this section shall be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) or the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8501 et seq.).
 
-(Pub. L. 112–158, title II, § 220, Aug. 10, 2012, 126 Stat. 1237.)
+(Pub. L. 112–158, title II, § 220, Aug. 10, 2012, 126 Stat. 1237.)
 
 **Termination of Section**
 
@@ -947,11 +947,11 @@ For termination of section, see section 8785(a) of this title.
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsecs. (c)(1) and (d), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (c)(1) and (d), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (d), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§ 8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
+The Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, referred to in subsec. (d), is Pub. L. 111–195, July 1, 2010, 124 Stat. 1312, which is classified principally to chapter 92 (§ 8501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8501 of this title and Tables.
 
-### § 8727. Identification of, and immigration restrictions on, senior officials of the Government of Iran and their family members
+### § 8727. Identification of, and immigration restrictions on, senior officials of the Government of Iran and their family members
 
 **(a) Identification** Not later than 180 days after August 10, 2012, and annually thereafter, the President shall publish a list of each individual the President determines is—
 
@@ -993,7 +993,7 @@ Subsection (c) shall not apply to an individual if admitting the individual to t
 
 **(2)** not less than 7 days before the waiver takes effect, notifies Congress of the waiver and the reason for the waiver.
 
-(Pub. L. 112–158, title II, § 221, Aug. 10, 2012, 126 Stat. 1238.)
+(Pub. L. 112–158, title II, § 221, Aug. 10, 2012, 126 Stat. 1238.)
 
 **Termination of Section**
 
@@ -1001,7 +1001,7 @@ For termination of section, see section 8785(a) of this title.
 
 ## SUBCHAPTER III—SANCTIONS WITH RESPECT TO IRAN’S REVOLUTIONARY GUARD CORPS
 
-### § 8741. Identification of, and imposition of sanctions with respect to, officials, agents, and affiliates of Iran’s Revolutionary Guard Corps
+### § 8741. Identification of, and imposition of sanctions with respect to, officials, agents, and affiliates of Iran’s Revolutionary Guard Corps
 
 **(a) In general** Not later than 90 days after August 10, 2012, and as appropriate thereafter, the President shall—
 
@@ -1061,7 +1061,7 @@ A report submitted under paragraph (1)(B) shall be submitted in unclassified for
 
 Nothing in this section shall be construed to remove any sanction of the United States in force with respect to Iran’s Revolutionary Guard Corps as of August 10, 2012.
 
-(Pub. L. 112–158, title III, § 301, Aug. 10, 2012, 126 Stat. 1241.)
+(Pub. L. 112–158, title III, § 301, Aug. 10, 2012, 126 Stat. 1241.)
 
 **Termination of Section**
 
@@ -1071,9 +1071,9 @@ For termination of section, see section 8785(a) of this title.
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsecs. (a)(2) and (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (a)(2) and (d)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-### § 8742. Identification of, and imposition of sanctions with respect to, persons that support or conduct certain transactions with Iran’s Revolutionary Guard Corps or other sanctioned persons
+### § 8742. Identification of, and imposition of sanctions with respect to, persons that support or conduct certain transactions with Iran’s Revolutionary Guard Corps or other sanctioned persons
 
 **(a) Identification**
 
@@ -1159,7 +1159,7 @@ A report submitted under paragraph (1)(B) shall be submitted in unclassified for
 
 **(8)** Section 14.
 
-(Pub. L. 112–158, title III, § 302, Aug. 10, 2012, 126 Stat. 1243.)
+(Pub. L. 112–158, title III, § 302, Aug. 10, 2012, 126 Stat. 1243.)
 
 **Termination of Section**
 
@@ -1169,7 +1169,7 @@ For termination of section, see section 8785(a) of this title.
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsecs. (a)(1)(A), (B)(i) and (b)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (a)(1)(A), (B)(i) and (b)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 Section 8513(c) of this title, as added by section 312, referred to in subsec. (a)(1)(B)(ii), means section 8513(c) of this title, as added by section 312 of Pub. L. 112–158.
 
@@ -1177,7 +1177,7 @@ The Iran Sanctions Act of 1996, referred to in subsecs. (b)(1) and (f), is Pub. 
 
 This Act, referred to in subsec. (f), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-### § 8743. Identification of, and imposition of measures with respect to, foreign government agencies carrying out activities or transactions with certain Iran-affiliated persons
+### § 8743. Identification of, and imposition of measures with respect to, foreign government agencies carrying out activities or transactions with certain Iran-affiliated persons
 
 **(a) Identification**
 
@@ -1233,13 +1233,13 @@ Each report submitted under paragraph (1) shall be submitted in unclassified for
 
 **(2) Rule of construction**
 
-Nothing in this subsection shall be construed to impose measures with respect to programs under section 1501 of the National Defense Authorization Act for Fiscal Year 1997 (50 U.S.C. 2632 1
+Nothing in this subsection shall be construed to impose measures with respect to programs under section 1501 of the National Defense Authorization Act for Fiscal Year 1997 (50 U.S.C. 2632 1
 
-<sup>1</sup>  So in original. Probably should be “2362”.
+<sup>1</sup> So in original. Probably should be “2362”.
 
-note) and programs under the Atomic Energy Defense Act (50 U.S.C. 2501 et seq.). 2
+note) and programs under the Atomic Energy Defense Act (50 U.S.C. 2501 et seq.). 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(c) Termination** The President may terminate any measures imposed with respect to an agency pursuant to subsection (b) if the President determines and notifies the appropriate congressional committees that—
 
@@ -1269,7 +1269,7 @@ If the President does not impose one or more measures described in subsection (b
 
 **(2)** the date that is 45 days after a person is designated as described in subparagraph (A) or (B) of subsection (a)(2).
 
-(Pub. L. 112–158, title III, § 303, Aug. 10, 2012, 126 Stat. 1245.)
+(Pub. L. 112–158, title III, § 303, Aug. 10, 2012, 126 Stat. 1245.)
 
 **Termination of Section**
 
@@ -1279,23 +1279,23 @@ For termination of section, see section 8785(a) of this title.
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(A) and (b)(1)(G), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(A) and (b)(1)(G), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (b)(1)(A), (B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(1)(A), (B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The National Security Act of 1947, referred to in subsec. (b)(1)(D), (F)(i), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (b)(1)(D), (F)(i), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§ 401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§ 3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
-Section 1501 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (b)(2), is section 1501 of Pub. L. 104–201, which was formerly set out as a note under section 2362 of Title 50, War and National Defense, and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(5), Dec. 19, 2014, 128 Stat. 3607.
+Section 1501 of the National Defense Authorization Act for Fiscal Year 1997, referred to in subsec. (b)(2), is section 1501 of Pub. L. 104–201, which was formerly set out as a note under section 2362 of Title 50, War and National Defense, and was repealed by Pub. L. 113–291, div. A, title XIII, § 1351(5), Dec. 19, 2014, 128 Stat. 3607.
 
-The Atomic Energy Defense Act, referred to in subsec. (b)(2), is div. D of Pub. L. 107–314, as added Pub. L. 108–136, div. C, title XXXI, § 3141(b), Nov. 24, 2003, 117 Stat. 1753, which was classified generally to chapter 42 (§ 2501 et seq.) of Title 50, War and National Defense, and was repealed and substantially restated in subpart B (§ 6101 et seq.) of Title 10, Armed Forces, by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1336, 1458.
+The Atomic Energy Defense Act, referred to in subsec. (b)(2), is div. D of Pub. L. 107–314, as added Pub. L. 108–136, div. C, title XXXI, § 3141(b), Nov. 24, 2003, 117 Stat. 1753, which was classified generally to chapter 42 (§ 2501 et seq.) of Title 50, War and National Defense, and was repealed and substantially restated in subpart B (§ 6101 et seq.) of Title 10, Armed Forces, by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1336, 1458.
 
-### § 8744. Rule of construction
+### § 8744. Rule of construction
 
 Nothing in this subchapter shall be construed to limit the authority of the President to designate foreign persons for the imposition of sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
 
-(Pub. L. 112–158, title III, § 304, Aug. 10, 2012, 126 Stat. 1247.)
+(Pub. L. 112–158, title III, § 304, Aug. 10, 2012, 126 Stat. 1247.)
 
 **Termination of Section**
 
@@ -1305,11 +1305,11 @@ For termination of section, see section 8785(a) of this title.
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in text, is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in text, is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 ## SUBCHAPTER IV—MEASURES TO PROMOTE HUMAN RIGHTS
 
-### § 8751. Codification of sanctions with respect to grave human rights abuses by the Governments of Iran and Syria using information technology
+### § 8751. Codification of sanctions with respect to grave human rights abuses by the Governments of Iran and Syria using information technology
 
 United States sanctions with respect to Iran and Syria provided for in Executive Order No. 13606 (77 Fed. Reg. 24571), as in effect on the day before August 10, 2012, shall remain in effect—
 
@@ -1317,7 +1317,7 @@ United States sanctions with respect to Iran and Syria provided for in Executive
 
 **(2)** with respect to Syria, until the date on which the provisions of and sanctions imposed pursuant to subchapter VII terminate pursuant to section 8795 of this title.
 
-(Pub. L. 112–158, title IV, § 411, Aug. 10, 2012, 126 Stat. 1255.)
+(Pub. L. 112–158, title IV, § 411, Aug. 10, 2012, 126 Stat. 1255.)
 
 **Editorial Notes**
 
@@ -1327,7 +1327,7 @@ Executive Order No. 13606, referred to in text, is listed in tables under sectio
 
 Subchapter VII, referred to in par. (2), was in the original a reference to title VII of Pub. L. 112–158, which enacted subchapter VII of this chapter and provisions set out as a note under section 8701 of this title.
 
-### § 8752. Clarification of sensitive technologies for purposes of procurement ban under Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010
+### § 8752. Clarification of sensitive technologies for purposes of procurement ban under Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010
 
 The Secretary of State shall—
 
@@ -1337,9 +1337,9 @@ The Secretary of State shall—
 
 **(3)** periodically review, but in no case less than once each year, the guidelines and, if necessary, amend the guidelines on the basis of technological developments and new information regarding transfers of technologies to Iran and the development of Iran’s indigenous capabilities to disrupt and monitor information and communications in Iran.
 
-(Pub. L. 112–158, title IV, § 412, Aug. 10, 2012, 126 Stat. 1255.)
+(Pub. L. 112–158, title IV, § 412, Aug. 10, 2012, 126 Stat. 1255.)
 
-### § 8753. Expedited consideration of requests for authorization of certain human rights-, humanitarian-, and democracy-related activities with respect to Iran
+### § 8753. Expedited consideration of requests for authorization of certain human rights-, humanitarian-, and democracy-related activities with respect to Iran
 
 **(a) Requirement** The Office of Foreign Assets Control, in consultation with the Department of State, shall establish an expedited process for the consideration of complete requests for authorization to engage in human rights-, humanitarian-, or democracy-related activities relating to Iran that are submitted by—
 
@@ -1367,7 +1367,7 @@ The Department of State shall complete a foreign policy review of a request for 
 
 The Secretary of the Treasury may prescribe such regulations as are appropriate to carry out this section.
 
-(Pub. L. 112–158, title IV, § 413, Aug. 10, 2012, 126 Stat. 1256.)
+(Pub. L. 112–158, title IV, § 413, Aug. 10, 2012, 126 Stat. 1256.)
 
 **Editorial Notes**
 
@@ -1381,7 +1381,7 @@ The Iran-Iraq Arms Non-Proliferation Act of 1992, referred to in subsec. (d)(1),
 
 Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
-### § 8754. Comprehensive strategy to promote Internet freedom and access to information in Iran
+### § 8754. Comprehensive strategy to promote Internet freedom and access to information in Iran
 
 Not later than 90 days after August 10, 2012, the Secretary of State, in consultation with the Secretary of the Treasury and the heads of other Federal agencies, as appropriate, shall submit to the appropriate congressional committees a comprehensive strategy to—
 
@@ -1413,9 +1413,9 @@ Not later than 90 days after August 10, 2012, the Secretary of State, in consult
 
 **(12)** discourage telecommunications and software companies from facilitating Internet censorship by the Government of Iran.
 
-(Pub. L. 112–158, title IV, § 414, Aug. 10, 2012, 126 Stat. 1256.)
+(Pub. L. 112–158, title IV, § 414, Aug. 10, 2012, 126 Stat. 1256.)
 
-### § 8754a. Strategy and grant program to promote internet freedom in Iran
+### § 8754a. Strategy and grant program to promote internet freedom in Iran
 
 **(a) Strategy**
 
@@ -1423,9 +1423,9 @@ Not later than 90 days after August 10, 2012, the Secretary of State, in consult
 
 Not later than 90 days after December 23, 2024, the Secretary of State, in consultation with the heads of other Federal agencies, as appropriate, shall develop a strategy to support and enhance access to information by civil society in Iran.
 
-**(2) Elements** The strategy required in subparagraph (A) 1
+**(2) Elements** The strategy required in subparagraph (A) 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph (1)”.
+<sup>1</sup> So in original. Probably should be “paragraph (1)”.
 
 shall include the following elements:
 
@@ -1499,7 +1499,7 @@ There is authorized to be appropriated for the Open Technology Fund established 
 
 Amounts appropriated pursuant to the authorization in subparagraph (A) are authorized remain available until expended.
 
-(Pub. L. 118–159, div. E, title LI, § 5124, Dec. 23, 2024, 138 Stat. 2431.)
+(Pub. L. 118–159, div. E, title LI, § 5124, Dec. 23, 2024, 138 Stat. 2431.)
 
 **Editorial Notes**
 
@@ -1507,7 +1507,7 @@ Amounts appropriated pursuant to the authorization in subparagraph (A) are autho
 
 Section was enacted as part of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025, and not as part of the Iran Threat Reduction and Syria Human Rights Act of 2012 which comprises this chapter.
 
-### § 8755. Statement of policy on political prisoners
+### § 8755. Statement of policy on political prisoners
 
 It shall be the policy of the United States—
 
@@ -1519,9 +1519,9 @@ It shall be the policy of the United States—
 
 **(4)** to publicly call for the release of Iranian dissidents by name and raise awareness with respect to individual cases of Iranian dissidents and prisoners of conscience, as appropriate and if requested by the dissidents or prisoners themselves or their families.
 
-(Pub. L. 112–158, title IV, § 415, Aug. 10, 2012, 126 Stat. 1257.)
+(Pub. L. 112–158, title IV, § 415, Aug. 10, 2012, 126 Stat. 1257.)
 
-### § 8756. Secretary of State assistance for prisoners in Islamic Republic of Iran
+### § 8756. Secretary of State assistance for prisoners in Islamic Republic of Iran
 
 **(a) Statement of policy** It is the policy of the United States that—
 
@@ -1569,13 +1569,13 @@ It shall be the policy of the United States—
 
 **(B)** has not used violence or advocated violence or hatred.
 
-(Pub. L. 117–263, div. E, title LV, § 5592, Dec. 23, 2022, 136 Stat. 3384.)
+(Pub. L. 117–263, div. E, title LV, § 5592, Dec. 23, 2022, 136 Stat. 3384.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Global Magnitsky Human Rights Accountability Act, referred to in subsec. (a)(5), is subtitle F (§§ 1261–1264) of title XII of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2533, which is classified generally to chapter 108 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10101 of this title and Tables.
+The Global Magnitsky Human Rights Accountability Act, referred to in subsec. (a)(5), is subtitle F (§§ 1261–1264) of title XII of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2533, which is classified generally to chapter 108 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10101 of this title and Tables.
 
 **Codification**
 
@@ -1583,7 +1583,7 @@ Section was enacted as part of the James M. Inhofe National Defense Authorizatio
 
 ## SUBCHAPTER V—MISCELLANEOUS
 
-### § 8771. Exclusion of citizens of Iran seeking education relating to the nuclear and energy sectors of Iran
+### § 8771. Exclusion of citizens of Iran seeking education relating to the nuclear and energy sectors of Iran
 
 **(a) In general**
 
@@ -1593,13 +1593,13 @@ The Secretary of State shall deny a visa to, and the Secretary of Homeland Secur
 
 Subsection (a) applies with respect to visa applications filed on or after August 10, 2012.
 
-(Pub. L. 112–158, title V, § 501, Aug. 10, 2012, 126 Stat. 1258.)
+(Pub. L. 112–158, title V, § 501, Aug. 10, 2012, 126 Stat. 1258.)
 
 **Termination of Section**
 
 For termination of section, see section 8785(a) of this title.
 
-### § 8772. Interests in certain financial assets of Iran
+### § 8772. Interests in certain financial assets of Iran
 
 **(a) Interests in blocked assets**
 
@@ -1671,7 +1671,7 @@ The term “terrorist party” has the meaning given that term in section 201(d)
 
 The term “United States” includes all territory and waters, continental, or insular, subject to the jurisdiction of the United States.
 
-(Pub. L. 112–158, title V, § 502, Aug. 10, 2012, 126 Stat. 1258; Pub. L. 116–92, div. A, title XII, § 1226, Dec. 20, 2019, 133 Stat. 1645.)
+(Pub. L. 112–158, title V, § 502, Aug. 10, 2012, 126 Stat. 1258; Pub. L. 116–92, div. A, title XII, § 1226, Dec. 20, 2019, 133 Stat. 1645.)
 
 **Editorial Notes**
 
@@ -1679,9 +1679,9 @@ The term “United States” includes all territory and waters, continental, or 
 
 This Act, referred to in subsec. (a)(2), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (d)(1)(B)(i), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (d)(1)(B)(i), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The United Nations Participation Act of 1945, referred to in subsec. (d)(1)(B)(i), is act of Dec. 20, 1945, ch. 583, 59 Stat. 619, which is classified to subchapter XVI (§ 287 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 287 of this title and Tables.
+The United Nations Participation Act of 1945, referred to in subsec. (d)(1)(B)(i), is act of Dec. 20, 1945, ch. 583, 59 Stat. 619, which is classified to subchapter XVI (§ 287 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 287 of this title and Tables.
 
 Section 201(d) of the Terrorism Risk Insurance Act of 2002, referred to in subsec. (d)(5), is section 201(d) of Pub. L. 107–297, which is set out as a note under section 1610 of Title 28, Judiciary and Judicial Procedure.
 
@@ -1691,33 +1691,33 @@ Section is comprised of section 502 of Pub. L. 112–158. Subsec. (e) of section
 
 **Amendments**
 
-2019—Subsec. (a)(1). Pub. L. 116–92, § 1226(1)(C), inserted “, or to an order directing that the asset be brought to the State in which the court is located and subsequently to execution or attachment in aid of execution,” after “in aid of execution” and “, without regard to concerns relating to international comity” after “resources for such an act” in concluding provisions.
+2019—Subsec. (a)(1). Pub. L. 116–92, § 1226(1)(C), inserted “, or to an order directing that the asset be brought to the State in which the court is located and subsequently to execution or attachment in aid of execution,” after “in aid of execution” and “, without regard to concerns relating to international comity” after “resources for such an act” in concluding provisions.
 
-Subsec. (a)(1)(A). Pub. L. 116–92, § 1226(1)(A), which directed substitution of “by or” for “in the United States” in subpar. (A), was executed by making the substitution for “in the United States” the first time appearing in subpar. (A), to reflect the probable intent of Congress.
+Subsec. (a)(1)(A). Pub. L. 116–92, § 1226(1)(A), which directed substitution of “by or” for “in the United States” in subpar. (A), was executed by making the substitution for “in the United States” the first time appearing in subpar. (A), to reflect the probable intent of Congress.
 
-Subsec. (a)(1)(B). Pub. L. 116–92, § 1226(1)(B), inserted “, or an asset that would be blocked if the asset were located in the United States,” after “unblocked)”.
+Subsec. (a)(1)(B). Pub. L. 116–92, § 1226(1)(B), inserted “, or an asset that would be blocked if the asset were located in the United States,” after “unblocked)”.
 
-Subsec. (b). Pub. L. 116–92, § 1226(2), substituted “that are—” and par. (1) designation for “that are” and “court order; and” for “court order.” and added par. (2).
+Subsec. (b). Pub. L. 116–92, § 1226(2), substituted “that are—” and par. (1) designation for “that are” and “court order; and” for “court order.” and added par. (2).
 
-### § 8773. Report on membership of Iran in international organizations
+### § 8773. Report on membership of Iran in international organizations
 
 Not later than 180 days after August 10, 2012, and not later than September 1 of each year thereafter, the Secretary of State shall submit to the appropriate congressional committees a report listing the international organizations of which Iran is a member and detailing the amount that the United States contributes to each such organization on an annual basis.
 
-(Pub. L. 112–158, title V, § 506, Aug. 10, 2012, 126 Stat. 1263.)
+(Pub. L. 112–158, title V, § 506, Aug. 10, 2012, 126 Stat. 1263.)
 
 ## SUBCHAPTER VI—GENERAL PROVISIONS
 
-### § 8781. Implementation; penalties
+### § 8781. Implementation; penalties
 
 **(a) Implementation** The President may exercise all authorities provided under sections 1702 and 1704 of title 50 to carry out—
 
 **(1)** sections 8721, 8722, 8723, 8724, 8725, 8726 of this title, 312,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 8751 of this title, subchapter III, and subchapter VII;
 
-**(2)** section 8513b of this title, as added by section 312; <sup>1</sup> and
+**(2)** section 8513b of this title, as added by section 312; <sup>1</sup> and
 
 **(3)** sections 8514a and 8514b of this title, as added by subtitle A of title IV.
 
@@ -1733,7 +1733,7 @@ The penalties provided for in subsections (b) and (c) of section 1705 of title 5
 
 **(B)** Sections 8514a and 8514b of this title, as added by subtitle A of title IV.
 
-(Pub. L. 112–158, title VI, § 601, Aug. 10, 2012, 126 Stat. 1263.)
+(Pub. L. 112–158, title VI, § 601, Aug. 10, 2012, 126 Stat. 1263.)
 
 **Editorial Notes**
 
@@ -1743,13 +1743,13 @@ Section 312, referred to in subsec. (a)(1), is section 312 of Pub. L. 112–158,
 
 Section 8513b of this title, as added by section 312, referred to in subsec. (a)(2), was in the original “section 104A of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, as added by section 312” and was translated as meaning section 104A of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010, as added by section 216(a) of Pub. L. 112–158, to reflect the probable intent of Congress. For classification of section 312 of Pub. L. 112–158, see above.
 
-Sections 8514a and 8514b of this title, as added by subtitle A of title IV, referred to in subsecs. (a)(3) and (b)(2)(B), are sections 8514a and 8514b of this title, as added by subtitle A (§§ 401–403) of title IV of Pub. L. 112–158.
+Sections 8514a and 8514b of this title, as added by subtitle A of title IV, referred to in subsecs. (a)(3) and (b)(2)(B), are sections 8514a and 8514b of this title, as added by subtitle A (§§ 401–403) of title IV of Pub. L. 112–158.
 
-### § 8782. Applicability to certain intelligence activities
+### § 8782. Applicability to certain intelligence activities
 
 Nothing in this Act or the amendments made by this Act shall apply to the authorized intelligence activities of the United States.
 
-(Pub. L. 112–158, title VI, § 602, Aug. 10, 2012, 126 Stat. 1264.)
+(Pub. L. 112–158, title VI, § 602, Aug. 10, 2012, 126 Stat. 1264.)
 
 **Editorial Notes**
 
@@ -1757,7 +1757,7 @@ Nothing in this Act or the amendments made by this Act shall apply to the author
 
 This Act, referred to in text, is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-### § 8783. Applicability to certain natural gas projects
+### § 8783. Applicability to certain natural gas projects
 
 **(a) Exception for certain natural gas projects** Nothing in this Act or the amendments made by this Act shall apply to any activity relating to a project—
 
@@ -1787,7 +1787,7 @@ This Act, referred to in text, is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 12
 
 **(C)** a successor entity to an entity described in subparagraph (A).
 
-(Pub. L. 112–158, title VI, § 603, Aug. 10, 2012, 126 Stat. 1264.)
+(Pub. L. 112–158, title VI, § 603, Aug. 10, 2012, 126 Stat. 1264.)
 
 **Editorial Notes**
 
@@ -1795,11 +1795,11 @@ This Act, referred to in text, is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 12
 
 This Act, referred to in subsec. (a), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
-### § 8784. Rule of construction with respect to use of force against Iran and Syria
+### § 8784. Rule of construction with respect to use of force against Iran and Syria
 
 Nothing in this Act or the amendments made by this Act shall be construed as a declaration of war or an authorization of the use of force against Iran or Syria.
 
-(Pub. L. 112–158, title VI, § 604, Aug. 10, 2012, 126 Stat. 1265.)
+(Pub. L. 112–158, title VI, § 604, Aug. 10, 2012, 126 Stat. 1265.)
 
 **Editorial Notes**
 
@@ -1811,19 +1811,19 @@ This Act, referred to in text, is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 12
 
 **Rule of Construction for Specific Acts**
 
-Pub. L. 116–92, div. A, title XII, § 1284, Dec. 20, 2019, 133 Stat. 1708, provided that: “Nothing in this Act [see Tables for classification], or any amendment made by this Act, may be construed to authorize the use of military force, including the use of military force against Iran or any other country.”
+Pub. L. 116–92, div. A, title XII, § 1284, Dec. 20, 2019, 133 Stat. 1708, provided that: “Nothing in this Act [see Tables for classification], or any amendment made by this Act, may be construed to authorize the use of military force, including the use of military force against Iran or any other country.”
 
-Pub. L. 115–232, div. A, title XII, § 1295, Aug. 13, 2018, 132 Stat. 2088, provided that: “Nothing in this Act [see Tables for classification] may be construed to authorize the use of force against Iran or North Korea.”
+Pub. L. 115–232, div. A, title XII, § 1295, Aug. 13, 2018, 132 Stat. 2088, provided that: “Nothing in this Act [see Tables for classification] may be construed to authorize the use of force against Iran or North Korea.”
 
-Pub. L. 114–92, div. A, title XII, § 1235, Nov. 25, 2015, 129 Stat. 1059, provided that: “Nothing in this Act [see Tables for classification] shall be construed as authorizing the use of force against Iran.”
+Pub. L. 114–92, div. A, title XII, § 1235, Nov. 25, 2015, 129 Stat. 1059, provided that: “Nothing in this Act [see Tables for classification] shall be construed as authorizing the use of force against Iran.”
 
-Pub. L. 113–291, div. A, title XII, § 1279, Dec. 19, 2014, 128 Stat. 3593, provided that: “Nothing in this Act [see Tables for classification] shall be construed as authorizing the use of force against Iran.”
+Pub. L. 113–291, div. A, title XII, § 1279, Dec. 19, 2014, 128 Stat. 3593, provided that: “Nothing in this Act [see Tables for classification] shall be construed as authorizing the use of force against Iran.”
 
-Pub. L. 113–66, div. A, title XII, § 1252, Dec. 26, 2013, 127 Stat. 926, provided that: “Nothing in this Act [see Tables for classification] shall be construed as authorizing the use of force against Syria or Iran.”
+Pub. L. 113–66, div. A, title XII, § 1252, Dec. 26, 2013, 127 Stat. 926, provided that: “Nothing in this Act [see Tables for classification] shall be construed as authorizing the use of force against Syria or Iran.”
 
-Pub. L. 112–239, div. A, title XII, § 1234, Jan. 2, 2013, 126 Stat. 2004, provided that: “Nothing in this Act [see Tables for classification] shall be construed as authorizing the use of force against Iran.”
+Pub. L. 112–239, div. A, title XII, § 1234, Jan. 2, 2013, 126 Stat. 2004, provided that: “Nothing in this Act [see Tables for classification] shall be construed as authorizing the use of force against Iran.”
 
-### § 8785. Termination
+### § 8785. Termination
 
 **(a) In general**
 
@@ -1831,7 +1831,7 @@ The provisions of sections 8721, 8722, 8723, 8725, 8726, 8727, and 8771 of this 
 
 **(b) Omitted**
 
-(Pub. L. 112–158, title VI, § 605, Aug. 10, 2012, 126 Stat. 1265.)
+(Pub. L. 112–158, title VI, § 605, Aug. 10, 2012, 126 Stat. 1265.)
 
 **Editorial Notes**
 
@@ -1841,7 +1841,7 @@ Section is comprised of section 605 of Pub. L. 112–158. Subsec. (b) of section
 
 ## SUBCHAPTER VII—SANCTIONS WITH RESPECT TO HUMAN RIGHTS ABUSES IN SYRIA
 
-### § 8791. Imposition of sanctions with respect to certain persons who are responsible for or complicit in human rights abuses committed against citizens of Syria or their family members
+### § 8791. Imposition of sanctions with respect to certain persons who are responsible for or complicit in human rights abuses committed against citizens of Syria or their family members
 
 **(a) In general**
 
@@ -1877,7 +1877,7 @@ In preparing the list required by paragraph (1), the President shall consider cr
 
 The sanctions described in this subsection are sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), including blocking of property and restrictions or prohibitions on financial transactions and the exportation of property, subject to such regulations as the President may prescribe.
 
-(Pub. L. 112–158, title VII, § 702, Aug. 10, 2012, 126 Stat. 1265.)
+(Pub. L. 112–158, title VII, § 702, Aug. 10, 2012, 126 Stat. 1265.)
 
 **Termination of Section**
 
@@ -1887,7 +1887,7 @@ For termination of section, see section 8795 of this title.
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (c), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (c), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1897,7 +1897,7 @@ For short title of this subchapter as the “Syria Human Rights Accountability A
 
 **Report on Syria Civilian Protection**
 
-Pub. L. 119–60, div. H, title LXXXIII, § 8369(b)–(d), Dec. 18, 2025, 139 Stat. 1905, provided that:
+Pub. L. 119–60, div. H, title LXXXIII, § 8369(b)–(d), Dec. 18, 2025, 139 Stat. 1905, provided that:
 
 > **“(b) Report.—** Not later than 90 days after the date of the enactment of this Act [Dec. 18, 2025], and every 180 days thereafter for the following 4 years, the President shall submit to the Committees on Foreign Affairs, Financial Services, and Judiciary of the House of Representatives and the Committees on Foreign Relations and Banking, Housing, and Urban Affairs of the Senate an unclassified report, with a classified annex if necessary, that certifies whether the Government of Syria—
 
@@ -1929,11 +1929,11 @@ Pub. L. 119–60, div. H, title LXXXIII, § 8369(b)–(d), Dec. 18, 2025, 139 
 
 **Caesar Syria Civilian Protection**
 
-Pub. L. 116–92, div. F, title LXXIV, Dec. 20, 2019, 133 Stat. 2291, as amended by Pub. L. 118–159, div. E, title LI, § 5123, Dec. 23, 2024, 138 Stat. 2431, which related to the imposition of sanctions and other methods to protect civilians in Syria and support the transition to a government in Syria that respects the rule of law, human rights, and peaceful co-existence with its neighbors, was repealed by Pub. L. 119–60, div. H, title LXXXIII, § 8369(a), Dec. 18, 2025, 139 Stat. 1905.
+Pub. L. 116–92, div. F, title LXXIV, Dec. 20, 2019, 133 Stat. 2291, as amended by Pub. L. 118–159, div. E, title LI, § 5123, Dec. 23, 2024, 138 Stat. 2431, which related to the imposition of sanctions and other methods to protect civilians in Syria and support the transition to a government in Syria that respects the rule of law, human rights, and peaceful co-existence with its neighbors, was repealed by Pub. L. 119–60, div. H, title LXXXIII, § 8369(a), Dec. 18, 2025, 139 Stat. 1905.
 
 **Syrian War Crimes Accountability**
 
-Pub. L. 115–232, div. A, title XII, § 1232, Aug. 13, 2018, 132 Stat. 2035, provided that:
+Pub. L. 115–232, div. A, title XII, § 1232, Aug. 13, 2018, 132 Stat. 2035, provided that:
 
 > **“(a) Report on Accountability for War Crimes, Crimes Against Humanity, and Genocide in Syria.—**
 
@@ -2027,7 +2027,7 @@ Pub. L. 115–232, div. A, title XII, § 1232, Aug. 13, 2018, 132 Stat. 2035, 
 
 > **“(5) War crime.—** The term ‘war crime’ has the meaning given the term in section 2441(c) of title 18, United States Code.”
 
-### § 8792. Imposition of sanctions with respect to the transfer of goods or technologies to Syria that are likely to be used to commit human rights abuses
+### § 8792. Imposition of sanctions with respect to the transfer of goods or technologies to Syria that are likely to be used to commit human rights abuses
 
 **(a) In general** The President shall impose sanctions described in section 8791(c) of this title with respect to—
 
@@ -2099,13 +2099,13 @@ The list required by paragraph (1) shall be submitted in unclassified form but m
 
 The unclassified portion of the list required by paragraph (1) shall be made available to the public and posted on the websites of the Department of the Treasury and the Department of State.
 
-(Pub. L. 112–158, title VII, § 703, Aug. 10, 2012, 126 Stat. 1266.)
+(Pub. L. 112–158, title VII, § 703, Aug. 10, 2012, 126 Stat. 1266.)
 
 **Termination of Section**
 
 For termination of section, see section 8795 of this title.
 
-### § 8793. Imposition of sanctions with respect to persons who engage in censorship or other forms of repression in Syria
+### § 8793. Imposition of sanctions with respect to persons who engage in censorship or other forms of repression in Syria
 
 **(a) In general**
 
@@ -2133,13 +2133,13 @@ The list required by paragraph (1) shall be submitted in unclassified form but m
 
 The unclassified portion of the list required by paragraph (1) shall be made available to the public and posted on the websites of the Department of the Treasury and the Department of State.
 
-(Pub. L. 112–158, title VII, § 704, Aug. 10, 2012, 126 Stat. 1268.)
+(Pub. L. 112–158, title VII, § 704, Aug. 10, 2012, 126 Stat. 1268.)
 
 **Termination of Section**
 
 For termination of section, see section 8795 of this title.
 
-### § 8794. Waiver
+### § 8794. Waiver
 
 The President may waive the requirement to include a person on a list required by section 8791, 8792, or 8793 of this title or to impose sanctions pursuant to any such section if the President—
 
@@ -2147,13 +2147,13 @@ The President may waive the requirement to include a person on a list required b
 
 **(2)** submits to the appropriate congressional committees a report on the reasons for that determination.
 
-(Pub. L. 112–158, title VII, § 705, Aug. 10, 2012, 126 Stat. 1268.)
+(Pub. L. 112–158, title VII, § 705, Aug. 10, 2012, 126 Stat. 1268.)
 
 **Termination of Section**
 
 For termination of section, see section 8795 of this title.
 
-### § 8795. Termination
+### § 8795. Termination
 
 **(a) In general** The provisions of this subchapter and any sanctions imposed pursuant to this subchapter shall terminate on the date on which the President submits to the appropriate congressional committees—
 
@@ -2185,7 +2185,7 @@ For termination of section, see section 8795 of this title.
 
 If the President submits to the appropriate congressional committees the certification described in subsection (a)(2), the President may suspend the provisions of this subchapter and any sanctions imposed under this subchapter for not more than 180 days to allow time for a certification described in subsection (b) to be submitted.
 
-(Pub. L. 112–158, title VII, § 706, Aug. 10, 2012, 126 Stat. 1268.)
+(Pub. L. 112–158, title VII, § 706, Aug. 10, 2012, 126 Stat. 1268.)
 
 **Editorial Notes**
 

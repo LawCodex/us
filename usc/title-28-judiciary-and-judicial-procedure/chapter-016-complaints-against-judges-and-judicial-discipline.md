@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 16—COMPLAINTS AGAINST JUDGES AND JUDICIAL DISCIPLINE
 
-## § 351. Complaints; judge defined
+## § 351. Complaints; judge defined
 
 **(a) Filing of Complaint by Any Person.—** Any person alleging that a judge has engaged in conduct prejudicial to the effective and expeditious administration of the business of the courts, or alleging that such judge is unable to discharge all the duties of office by reason of mental or physical disability, may file with the clerk of the court of appeals for the circuit a written complaint containing a brief statement of the facts constituting such conduct.
 
@@ -29,15 +29,15 @@ retrieved: 2026-10-11
 
 **(2)** the term “complainant” means the person filing a complaint under subsection (a) of this section.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1848.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1848.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Severability**
 
-Pub. L. 107–273, div. C, title I, § 11044, Nov. 2, 2002, 116 Stat. 1856, provided that: “If any provision of this subtitle [subtitle C (§§ 11041–11044) of title I of div. C of Pub. L. 107–273, enacting this chapter, amending sections 331, 332, 372, 375, and 604 of this title, and section 7253 of Title 38, Veterans’ Benefits, and enacting provisions set out as a note under section 1 of this title], an amendment made by this subtitle, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this subtitle, the amendments made by this subtitle, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+Pub. L. 107–273, div. C, title I, § 11044, Nov. 2, 2002, 116 Stat. 1856, provided that: “If any provision of this subtitle [subtitle C (§§ 11041–11044) of title I of div. C of Pub. L. 107–273, enacting this chapter, amending sections 331, 332, 372, 375, and 604 of this title, and section 7253 of Title 38, Veterans’ Benefits, and enacting provisions set out as a note under section 1 of this title], an amendment made by this subtitle, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this subtitle, the amendments made by this subtitle, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 
-## § 352. Review of complaint by chief judge
+## § 352. Review of complaint by chief judge
 
 **(a) Expeditious Review; Limited Inquiry.—** The chief judge shall expeditiously review any complaint received under section 351(a) or identified under section 351(b). In determining what action to take, the chief judge may conduct a limited inquiry for the purpose of determining—
 
@@ -69,9 +69,9 @@ The chief judge shall transmit copies of the written order to the complainant an
 
 **(d) Referral of Petitions for Review to Panels of the Judicial Council.—** Each judicial council may, pursuant to rules prescribed under section 358, refer a petition for review filed under subsection (c) to a panel of no fewer than 5 members of the council, at least 2 of whom shall be district judges.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1849.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1849.)
 
-## § 353. Special committees
+## § 353. Special committees
 
 **(a) Appointment.—** If the chief judge does not enter an order under section 352(b), the chief judge shall promptly—
 
@@ -85,9 +85,9 @@ The chief judge shall transmit copies of the written order to the complainant an
 
 **(c) Investigation by Special Committee.—** Each committee appointed under subsection (a) shall conduct an investigation as extensive as it considers necessary, and shall expeditiously file a comprehensive written report thereon with the judicial council of the circuit. Such report shall present both the findings of the investigation and the committee’s recommendations for necessary and appropriate action by the judicial council of the circuit.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1850.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1850.)
 
-## § 354. Action by judicial council
+## § 354. Action by judicial council
 
 **(a) Actions Upon Receipt of Report.—**
 
@@ -139,9 +139,9 @@ the judicial council shall promptly certify such determination, together with an
 
 **(3) Notice to complainant and judge.—** A judicial council acting under authority of this subsection shall, unless contrary to the interests of justice, immediately submit written notice to the complainant and to the judge whose conduct is the subject of the action taken under this subsection.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1850.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1850.)
 
-## § 355. Action by Judicial Conference
+## § 355. Action by Judicial Conference
 
 **(a) In General.—** Upon referral or certification of any matter under section 354(b), the Judicial Conference, after consideration of the prior proceedings and such additional investigation as it considers appropriate, shall by majority vote take such action, as described in section 354(a)(1)(C) and (2), as it considers appropriate.
 
@@ -151,17 +151,17 @@ the judicial council shall promptly certify such determination, together with an
 
 **(2) In case of felony conviction.—** If a judge has been convicted of a felony under State or Federal law and has exhausted all means of obtaining direct review of the conviction, or the time for seeking further direct review of the conviction has passed and no such review has been sought, the Judicial Conference may, by majority vote and without referral or certification under section 354(b), transmit to the House of Representatives a determination that consideration of impeachment may be warranted, together with appropriate court records, for whatever action the House of Representatives considers to be necessary.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1852.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1852.)
 
-## § 356. Subpoena power
+## § 356. Subpoena power
 
 **(a) Judicial Councils and Special Committees.—** In conducting any investigation under this chapter, the judicial council, or a special committee appointed under section 353, shall have full subpoena powers as provided in section 332(d).
 
 **(b) Judicial Conference and Standing Committees.—** In conducting any investigation under this chapter, the Judicial Conference, or a standing committee appointed by the Chief Justice under section 331, shall have full subpoena powers as provided in that section.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1852.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1852.)
 
-## § 357. Review of orders and actions
+## § 357. Review of orders and actions
 
 **(a) Review of Action of Judicial Council.—** A complainant or judge aggrieved by an action of the judicial council under section 354 may petition the Judicial Conference of the United States for review thereof.
 
@@ -169,9 +169,9 @@ the judicial council shall promptly certify such determination, together with an
 
 **(c) No Judicial Review.—** Except as expressly provided in this section and section 352(c), all orders and determinations, including denials of petitions for review, shall be final and conclusive and shall not be judicially reviewable on appeal or otherwise.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1853.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1853.)
 
-## § 358. Rules
+## § 358. Rules
 
 **(a) In General.—** Each judicial council and the Judicial Conference may prescribe such rules for the conduct of proceedings under this chapter, including the processing of petitions for review, as each considers to be appropriate.
 
@@ -185,17 +185,17 @@ the judicial council shall promptly certify such determination, together with an
 
 **(c) Procedures.—** Any rule prescribed under this section shall be made or amended only after giving appropriate public notice and an opportunity for comment. Any such rule shall be a matter of public record, and any such rule promulgated by a judicial council may be modified by the Judicial Conference. No rule promulgated under this section may limit the period of time within which a person may file a complaint under this chapter.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1853.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1853.)
 
-## § 359. Restrictions
+## § 359. Restrictions
 
 **(a) Restriction on Individuals Who Are Subject of Investigation.—** No judge whose conduct is the subject of an investigation under this chapter shall serve upon a special committee appointed under section 353, upon a judicial council, upon the Judicial Conference, or upon the standing committee established under section 331, until all proceedings under this chapter relating to such investigation have been finally terminated.
 
 **(b) Amicus Curiae.—** No person shall be granted the right to intervene or to appear as amicus curiae in any proceeding before a judicial council or the Judicial Conference under this chapter.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1853.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1853.)
 
-## § 360. Disclosure of information
+## § 360. Disclosure of information
 
 **(a) Confidentiality of Proceedings.—** Except as provided in section 355, all papers, documents, and records of proceedings related to investigations conducted under this chapter shall be confidential and shall not be disclosed by any person in any proceeding except to the extent that—
 
@@ -207,19 +207,19 @@ the judicial council shall promptly certify such determination, together with an
 
 **(b) Public Availability of Written Orders.—** Each written order to implement any action under section 354(a)(1)(C), which is issued by a judicial council, the Judicial Conference, or the standing committee established under section 331, shall be made available to the public through the appropriate clerk’s office of the court of appeals for the circuit. Unless contrary to the interests of justice, each such order shall be accompanied by written reasons therefor.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1854.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1854.)
 
-## § 361. Reimbursement of expenses
+## § 361. Reimbursement of expenses
 
 Upon the request of a judge whose conduct is the subject of a complaint under this chapter, the judicial council may, if the complaint has been finally dismissed under section 354(a)(1)(B), recommend that the Director of the Administrative Office of the United States Courts award reimbursement, from funds appropriated to the Federal judiciary, for those reasonable expenses, including attorneys’ fees, incurred by that judge during the investigation which would not have been incurred but for the requirements of this chapter.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1854.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1854.)
 
-## § 362. Other provisions and rules not affected
+## § 362. Other provisions and rules not affected
 
 Except as expressly provided in this chapter, nothing in this chapter shall be construed to affect any other provision of this title, the Federal Rules of Civil Procedure, the Federal Rules of Criminal Procedure, the Federal Rules of Appellate Procedure, or the Federal Rules of Evidence.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1854.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1854.)
 
 **Editorial Notes**
 
@@ -229,13 +229,13 @@ The Federal Rules of Civil Procedure, the Federal Rules of Appellate Procedure, 
 
 The Federal Rules of Criminal Procedure, referred to in text, are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-## § 363. Court of Federal Claims, Court of International Trade, Court of Appeals for the Federal Circuit
+## § 363. Court of Federal Claims, Court of International Trade, Court of Appeals for the Federal Circuit
 
 The United States Court of Federal Claims, the Court of International Trade, and the Court of Appeals for the Federal Circuit shall each prescribe rules, consistent with the provisions of this chapter, establishing procedures for the filing of complaints with respect to the conduct of any judge of such court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, each such court shall have the powers granted to a judicial council under this chapter.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1854.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1854.)
 
-## § 364. Effect of felony conviction
+## § 364. Effect of felony conviction
 
 In the case of any judge or judge of a court referred to in section 363 who is convicted of a felony under State or Federal law and has exhausted all means of obtaining direct review of the conviction, or the time for seeking further direct review of the conviction has passed and no such review has been sought, the following shall apply:
 
@@ -243,4 +243,4 @@ In the case of any judge or judge of a court referred to in section 363 who is c
 
 **(2)** Any service as such judge or judge of a court referred to in section 363, after the conviction is final and all time for filing appeals thereof has expired, shall not be included for purposes of determining years of service under section 371(c), 377, or 178 of this title or creditable service under subchapter III of chapter 83, or chapter 84, of title 5.
 
-(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1855.)
+(Added Pub. L. 107–273, div. C, title I, § 11042(a), Nov. 2, 2002, 116 Stat. 1855.)

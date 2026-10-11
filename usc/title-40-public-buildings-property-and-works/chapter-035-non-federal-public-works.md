@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 35—NON-FEDERAL PUBLIC WORKS
 
-## § 3501. Definitions
+## § 3501. Definitions
 
 In this chapter, the following definitions apply:
 
@@ -31,15 +31,15 @@ In this chapter, the following definitions apply:
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3501 | 40:460. | Aug. 2, 1954, ch. 649, title VII, § 703, 68 Stat. 641; Pub. L. 90–19, § 10(d), May 25, 1967, 81 Stat. 22; Pub. L. 93–383, title IV, § 401(c), Aug. 22, 1974, 88 Stat. 691. |
+| 3501 | 40:460. | Aug. 2, 1954, ch. 649, title VII, § 703, 68 Stat. 641; Pub. L. 90–19, § 10(d), May 25, 1967, 81 Stat. 22; Pub. L. 93–383, title IV, § 401(c), Aug. 22, 1974, 88 Stat. 691. |
 
 In this section, the text of 40:460(2) is omitted as unnecessary because the complete name of the Secretary of Housing and Urban Development is used the first time the term appears in a section.
 
-In clause (1), the words “or ‘public agencies’ ” are omitted as unnecessary because of 1:1.
+In clause (1), the words “or ‘public agencies’ ” are omitted as unnecessary because of 1:1.
 
 In clause (3), the words “Guam, the Virgin Islands” are added to clarify that the provisions of the source law apply to those jurisdictions. The words “the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau” are substituted for “the Trust Territory of the Pacific Islands” because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
 
-## § 3502. Planned public works
+## § 3502. Planned public works
 
 **(a) Advances To Ensure Planning.—** Notwithstanding section 3324(a) and (b) of title 31, the Secretary of Housing and Urban Development may make advances to public agencies and Indian tribes—
 
@@ -67,7 +67,7 @@ In clause (3), the words “Guam, the Virgin Islands” are added to clarify tha
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3502 | 40:462(a), (b), (d). | Aug. 2, 1954, ch. 649, title VII, § 702(a), (b), (d), 68 Stat. 641; Aug. 11, 1955, ch. 783, title I, § 112, 69 Stat. 641; Pub. L. 87–70, title V, § 502(1), (2), June 30, 1961, 75 Stat. 175; Pub. L. 88–560, title VI, § 602(a)–(c), (e), (f), Sept. 2, 1964, 78 Stat. 799; Pub. L. 90–19, § 10(a) (related to 40:462), May 25, 1967, 81 Stat. 22; Pub. L. 90–448, title VI, § 607, Aug. 1, 1968, 82 Stat. 534; Pub. L. 100–242, title V, § 524(1), Feb. 5, 1988, 101 Stat. 1939. |
+| 3502 | 40:462(a), (b), (d). | Aug. 2, 1954, ch. 649, title VII, § 702(a), (b), (d), 68 Stat. 641; Aug. 11, 1955, ch. 783, title I, § 112, 69 Stat. 641; Pub. L. 87–70, title V, § 502(1), (2), June 30, 1961, 75 Stat. 175; Pub. L. 88–560, title VI, § 602(a)–(c), (e), (f), Sept. 2, 1964, 78 Stat. 799; Pub. L. 90–19, § 10(a) (related to 40:462), May 25, 1967, 81 Stat. 22; Pub. L. 90–448, title VI, § 607, Aug. 1, 1968, 82 Stat. 534; Pub. L. 100–242, title V, § 524(1), Feb. 5, 1988, 101 Stat. 1939. |
 
 In subsection (a), the words “section 3324(a) and (b) of title 31” are substituted for “section 3648 of the Revised Statutes, as amended” in section 702(a) of the Housing Act of 1954 (ch. 649, 68 Stat. 641) because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code. The words “municipalities and other” are omitted as being included in “public agencies”.
 
@@ -75,7 +75,7 @@ In subsection (c), the words “in any way” are omitted as unnecessary.
 
 In subsection (e), the word “rules” is omitted as being included in “regulations”.
 
-## § 3503. Revolving fund
+## § 3503. Revolving fund
 
 **(a) Establishment.—** There is a revolving fund established by the Secretary of Housing and Urban Development to provide amounts for advances under this chapter. The fund comprises amounts appropriated under this chapter and all repayments and other receipts received in connection with advances made under this chapter.
 
@@ -87,13 +87,13 @@ In subsection (e), the word “rules” is omitted as being included in “regul
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3503 | 40:462(e). | Aug. 2, 1954, ch. 649, title VII, § 702(e), 68 Stat. 641; Aug. 11, 1955, ch. 783, title I, § 112, 69 Stat. 641; Pub. L. 87–70, title V, § 502(3), (4), June 30, 1961, 75 Stat. 175; Pub. L. 88–560, title VI, § 602(a), Sept. 2, 1964, 78 Stat. 799; Pub. L. 89–117, title XI, § 1104, Aug. 10, 1965, 79 Stat. 503; Pub. L. 90–19, § 10(a) (related to 40:462), May 25, 1967, 81 Stat. 22. |
+| 3503 | 40:462(e). | Aug. 2, 1954, ch. 649, title VII, § 702(e), 68 Stat. 641; Aug. 11, 1955, ch. 783, title I, § 112, 69 Stat. 641; Pub. L. 87–70, title V, § 502(3), (4), June 30, 1961, 75 Stat. 175; Pub. L. 88–560, title VI, § 602(a), Sept. 2, 1964, 78 Stat. 799; Pub. L. 89–117, title XI, § 1104, Aug. 10, 1965, 79 Stat. 503; Pub. L. 90–19, § 10(a) (related to 40:462), May 25, 1967, 81 Stat. 22. |
 
 In subsection (a), the words “heretofore or hereafter” are omitted as unnecessary. The text of 40:462(e)(2) is omitted as obsolete. Title V of the War Mobilization and Reconversion Act of 1944 (50 App.:1671) terminated on June 30, 1947. The Act of October 13, 1949 (40:451 et seq.) authorized the Housing and Home Finance Administrator to make certain loans and advances for the 2-year period immediately following October 13, 1951.
 
 In subsection (b), the words “in addition to amounts authorized to be appropriated for the purposes of this section before September 2, 1964” are omitted as executed.
 
-## § 3504. Surveys of public works planning
+## § 3504. Surveys of public works planning
 
 The Secretary of Housing and Urban Development may use during a fiscal year not more than $100,000 of the amount in the revolving fund established under section 3503 of this title to conduct surveys of the status and current volume of state and local public works planning and surveys of estimated requirements for state and local public works. In conducting a survey, the Secretary, may use or act through any department or agency of the Federal Government, with the consent of the department or agency.
 
@@ -103,9 +103,9 @@ The Secretary of Housing and Urban Development may use during a fiscal year not 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3504 | 40:462(f). | Aug. 2, 1954, ch. 649, title VII, § 702(f), as added Pub. L. 86–372, title VIII, § 801, Sept. 23, 1959, 73 Stat. 686; Pub. L. 88–560, title VI, § 602(d), Sept. 2, 1964, 78 Stat. 799; Pub. L. 90–19, § 10(a) (related to 40:462), May 25, 1967, 81 Stat. 22. |
+| 3504 | 40:462(f). | Aug. 2, 1954, ch. 649, title VII, § 702(f), as added Pub. L. 86–372, title VIII, § 801, Sept. 23, 1959, 73 Stat. 686; Pub. L. 88–560, title VI, § 602(d), Sept. 2, 1964, 78 Stat. 799; Pub. L. 90–19, § 10(a) (related to 40:462), May 25, 1967, 81 Stat. 22. |
 
-## § 3505. Forgiveness of outstanding advances
+## § 3505. Forgiveness of outstanding advances
 
 In accordance with accounting and other procedures the Secretary of Housing and Urban Development prescribes, each advance made by the Secretary under this chapter that had any principal amount outstanding on February 5, 1988, was forgiven. The terms and conditions of any contract, or any amendment to a contract, for that advance with respect to any promise to repay the advance were canceled.
 
@@ -115,4 +115,4 @@ In accordance with accounting and other procedures the Secretary of Housing and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3505 | 40:462(g). | Aug. 2, 1954, ch. 649, title VII, § 702(g), as added Pub. L. 87–658, § 6, Sept. 14, 1962, 76 Stat. 544; Pub. L. 100–242, title V, § 524(2), Feb. 5, 1988, 101 Stat. 1939. |
+| 3505 | 40:462(g). | Aug. 2, 1954, ch. 649, title VII, § 702(g), as added Pub. L. 87–658, § 6, Sept. 14, 1962, 76 Stat. 544; Pub. L. 100–242, title V, § 524(2), Feb. 5, 1988, 101 Stat. 1939. |

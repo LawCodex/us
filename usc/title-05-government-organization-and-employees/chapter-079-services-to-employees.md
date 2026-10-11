@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–81, div. A, title XI, § 1106(b), Dec. 31, 2011, 125 Stat. 1614, added item 7906.
+2011—Pub. L. 112–81, div. A, title XI, § 1106(b), Dec. 31, 2011, 125 Stat. 1614, added item 7906.
 
-1993—Pub. L. 103–172, § 2(b), Dec. 2, 1993, 107 Stat. 1996, added item 7905.
+1993—Pub. L. 103–172, § 2(b), Dec. 2, 1993, 107 Stat. 1996, added item 7905.
 
-1986—Pub. L. 99–570, title VI, § 6004(b), Oct. 27, 1986, 100 Stat. 3207–159, added item 7904.
+1986—Pub. L. 99–570, title VI, § 6004(b), Oct. 27, 1986, 100 Stat. 3207–159, added item 7904.
 
 **Statutory Notes and Related Subsidiaries**
 
 **State or Local Government Programs Encouraging Employee Use of Public Transportation; Federal Agency Participation**
 
-Pub. L. 102–241, § 44, Dec. 19, 1991, 105 Stat. 2226, provided that: “The Department of Transportation may include military personnel of the Coast Guard in any program in which the Department participates under section 629 of the Treasury, Postal Service and General Government Appropriations Act, 1991, Public Law 101–509 [set out below], notwithstanding section 629(c)(2) of that Act.”
+Pub. L. 102–241, § 44, Dec. 19, 1991, 105 Stat. 2226, provided that: “The Department of Transportation may include military personnel of the Coast Guard in any program in which the Department participates under section 629 of the Treasury, Postal Service and General Government Appropriations Act, 1991, Public Law 101–509 [set out below], notwithstanding section 629(c)(2) of that Act.”
 
 [For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
 
-Pub. L. 101–509, title VI, § 629, Nov. 5, 1990, 104 Stat. 1478, authorized Federal agencies and employees to participate in State or local government programs encouraging employees to use public transportation, directed General Accounting Office, not later than June 30, 1993, to conduct a study and submit a report on the implementation of such programs, and provided that this section was repealed effective Dec. 31, 1993.
+Pub. L. 101–509, title VI, § 629, Nov. 5, 1990, 104 Stat. 1478, authorized Federal agencies and employees to participate in State or local government programs encouraging employees to use public transportation, directed General Accounting Office, not later than June 30, 1993, to conduct a study and submit a report on the implementation of such programs, and provided that this section was repealed effective Dec. 31, 1993.
 
-## § 7901. Health service programs
+## § 7901. Health service programs
 
 **(a)** The head of each agency of the Government of the United States may establish, within the limits of appropriations available, a health service program to promote and maintain the physical and mental fitness of employees under his jurisdiction.
 
@@ -61,7 +61,7 @@ Pub. L. 101–509, title VI, § 629, Nov. 5, 1990, 104 Stat. 1478, authorized 
 
 **(f)** The health programs conducted by the Tennessee Valley Authority are not affected by this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 90–83, § 1(47), Sept. 11, 1967, 81 Stat. 209; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(9), Sept. 23, 1996, 110 Stat. 2869.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 90–83, § 1(47), Sept. 11, 1967, 81 Stat. 209; Pub. L. 104–201, div. C, title XXXV, § 3548(a)(9), Sept. 23, 1996, 110 Stat. 2869.)
 
 **Historical and Revision Notes**
 
@@ -69,7 +69,7 @@ Pub. L. 101–509, title VI, § 629, Nov. 5, 1990, 104 Stat. 1478, authorized 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 150. | Aug. 8, 1946, ch. 865, 60 Stat. 903. Sept. 23, 1950, ch. 1010, § 8, 64 Stat. 986. |
+|  | 5 U.S.C. 150. | Aug. 8, 1946, ch. 865, 60 Stat. 903. Sept. 23, 1950, ch. 1010, § 8, 64 Stat. 986. |
 
 In subsection (a), the words “agency of the Government of the United States” are coextensive with and substituted for “departments and agencies including Government-owned and controlled corporations” to avoid confusion with the definitions in sections 101–105.
 
@@ -77,7 +77,7 @@ In subsection (d) the word “appropriate” in the phrase “appropriate commen
 
 In subsection (e), the substance of the definition of “physician” in former section 790 is substituted for the reference to that section.
 
-In subsection (f)(2) and (3), the words “Canal Zone Government” and “Panama Canal Company” are substituted for “Panama Canal” and “Panama Railroad”, respectively, on the authority of the Act of Sept. 26, 1950, ch. 1049, § 2(a), 64 Stat. 1038.
+In subsection (f)(2) and (3), the words “Canal Zone Government” and “Panama Canal Company” are substituted for “Panama Canal” and “Panama Railroad”, respectively, on the authority of the Act of Sept. 26, 1950, ch. 1049, § 2(a), 64 Stat. 1038.
 
 The last proviso of the first sentence of the Act of Aug. 8, 1946, is omitted as executed.
 
@@ -107,13 +107,13 @@ Secretary of Health, Education, and Welfare redesignated Secretary of Health and
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–172, § 1(a), Dec. 2, 1993, 107 Stat. 1995, provided that: “This Act [enacting section 7905 of this title and provisions set out as notes under section 7905 of this title] may be cited as the ‘Federal Employees Clean Air Incentives Act’.”
+Pub. L. 103–172, § 1(a), Dec. 2, 1993, 107 Stat. 1995, provided that: “This Act [enacting section 7905 of this title and provisions set out as notes under section 7905 of this title] may be cited as the ‘Federal Employees Clean Air Incentives Act’.”
 
 **Demonstration Project: Health Protection; Health Promotion; Disease Prevention; and Secondary Prevention**
 
-Pub. L. 99–251, title I, § 110, Feb. 27, 1986, 100 Stat. 17, directed Director of Office of Personnel Management to conduct a demonstration project to determine most effective method of furnishing health protection, health promotion, disease prevention, and secondary prevention services to Federal Government employees, with Director to report to Congress no later than 60 days after termination of project on Feb. 27, 1988.
+Pub. L. 99–251, title I, § 110, Feb. 27, 1986, 100 Stat. 17, directed Director of Office of Personnel Management to conduct a demonstration project to determine most effective method of furnishing health protection, health promotion, disease prevention, and secondary prevention services to Federal Government employees, with Director to report to Congress no later than 60 days after termination of project on Feb. 27, 1988.
 
-## § 7902. Safety programs
+## § 7902. Safety programs
 
 **(a)** For the purpose of this section—
 
@@ -137,15 +137,15 @@ Pub. L. 99–251, title I, § 110, Feb. 27, 1986, 100 Stat. 17, directed Direc
 
 **(2)** make such statistical or other reports on such forms as the Secretary may prescribe by regulation.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 91–596, § 19(c), Dec. 29, 1970, 84 Stat. 1610; Pub. L. 105–241, § 2(b)(2), Sept. 28, 1998, 112 Stat. 1572.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 91–596, § 19(c), Dec. 29, 1970, 84 Stat. 1610; Pub. L. 105–241, § 2(b)(2), Sept. 28, 1998, 112 Stat. 1572.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 784 (less (a)). | Sept. 16, 1916, ch. 458, § 33 (less (a)); added |
+|  | 5 U.S.C. 784 (less (a)). | Sept. 16, 1916, ch. 458, § 33 (less (a)); added |
 |  |  | Dec. 22, 1944, ch. 664, 58 Stat. 887. |
-|  |  | Oct. 14, 1949, ch. 691, § 209, 63 Stat. 865. |
+|  |  | Oct. 14, 1949, ch. 691, § 209, 63 Stat. 865. |
 
 Subsection (a) is added on authority of former sections 790(b) and 794 (1st sentence), which are carried into section 8101.
 
@@ -293,7 +293,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 **Executive Order No. 12566**
 
-Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, which related to safety belt use by Federal employees, was revoked by Ex. Ord. No. 13043, § 5, formerly § 6, Apr. 16, 1997, 62 F.R. 19218, as renumbered by Ex. Ord. No. 13652, § 5, Sept. 30, 2013, 78 F.R. 61818, set out as a note under section 402 of Title 23, Highways.
+Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, which related to safety belt use by Federal employees, was revoked by Ex. Ord. No. 13043, § 5, formerly § 6, Apr. 16, 1997, 62 F.R. 19218, as renumbered by Ex. Ord. No. 13652, § 5, Sept. 30, 2013, 78 F.R. 61818, set out as a note under section 402 of Title 23, Highways.
 
 **Extension of Term of Federal Advisory Council on Occupational Safety and Health**
 
@@ -321,7 +321,7 @@ Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, extended term until Sept. 30,
 
 Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30, 2001.
 
-Ex. Ord. No. 13062, § 1(b), Sept. 29, 1997, 62 F.R. 51755, extended term until Sept. 30, 1999.
+Ex. Ord. No. 13062, § 1(b), Sept. 29, 1997, 62 F.R. 51755, extended term until Sept. 30, 1999.
 
 Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, extended term until Sept. 30, 1997.
 
@@ -381,17 +381,17 @@ The Secretary of Labor is authorized and directed to publish this memorandum in 
 
 Barack Obama.
 
-## § 7903. Protective clothing and equipment
+## § 7903. Protective clothing and equipment
 
 Appropriations available for the procurement of supplies and material or equipment are available for the purchase and maintenance of special clothing and equipment for the protection of personnel in the performance of their assigned tasks. For the purpose of this section, “appropriations” includes funds made available by statute under section 9104 of title 31.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 531; Pub. L. 97–258, § 3(a)(16), Sept. 13, 1982, 96 Stat. 1063.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 531; Pub. L. 97–258, § 3(a)(16), Sept. 13, 1982, 96 Stat. 1063.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118g. | Aug. 2, 1946, ch. 744, § 13, 60 Stat. 809. |
+|  | 5 U.S.C. 118g. | Aug. 2, 1946, ch. 744, § 13, 60 Stat. 809. |
 
 The definition of the word “appropriations” is added on authority of section 18 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811.
 
@@ -403,7 +403,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1982—Pub. L. 97–258 substituted “section 9104” for “section 849”.
 
-## § 7904. Employee assistance programs relating to drug abuse and alcohol abuse
+## § 7904. Employee assistance programs relating to drug abuse and alcohol abuse
 
 **(a)** The head of each Executive agency shall, in a manner consistent with guidelines prescribed under subsection (b) of this section and applicable provisions of law, establish appropriate prevention, treatment, and rehabilitation programs and services for drug abuse and alcohol abuse for employees in or under such agency.
 
@@ -411,9 +411,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(c)** The Secretary of Health and Human Services, on request of the head of an Executive agency, shall review any program or service provided under this section and shall submit comments and recommendations to the head of the agency concerned.
 
-(Added Pub. L. 99–570, title VI, § 6004(a), Oct. 27, 1986, 100 Stat. 3207–159.)
+(Added Pub. L. 99–570, title VI, § 6004(a), Oct. 27, 1986, 100 Stat. 3207–159.)
 
-## § 7905. Programs to encourage commuting by means other than single-occupancy motor vehicles
+## § 7905. Programs to encourage commuting by means other than single-occupancy motor vehicles
 
 **(a)** For the purpose of this section—
 
@@ -469,7 +469,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(E)** any other matter which may be appropriate.
 
-(Added Pub. L. 103–172, § 2(a), Dec. 2, 1993, 107 Stat. 1995; amended Pub. L. 107–296, title XIII, § 1314(a), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 103–172, § 2(a), Dec. 2, 1993, 107 Stat. 1995; amended Pub. L. 107–296, title XIII, § 1314(a), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -479,7 +479,7 @@ Section 132(f)(5) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 **Amendments**
 
-2002—Subsec. (a)(1). Pub. L. 107–296 substituted “, a member of a uniformed service, and a student who provides voluntary services under section 3111” for “and a member of a uniformed service”.
+2002—Subsec. (a)(1). Pub. L. 107–296 substituted “, a member of a uniformed service, and a student who provides voluntary services under section 3111” for “and a member of a uniformed service”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -493,17 +493,17 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Effective Date**
 
-Pub. L. 103–172, § 3, Dec. 2, 1993, 107 Stat. 1997, provided that: “This Act [enacting this section and provisions set out as notes under this section and section 7901 of this title] and the amendments made by this Act shall take effect on January 1, 1994.”
+Pub. L. 103–172, § 3, Dec. 2, 1993, 107 Stat. 1997, provided that: “This Act [enacting this section and provisions set out as notes under this section and section 7901 of this title] and the amendments made by this Act shall take effect on January 1, 1994.”
 
 **Transit Subsidy for Department of Labor Employees of National Capital Region**
 
-Pub. L. 111–8, div. F, title I, § 104, Mar. 11, 2009, 123 Stat. 761, provided that: “After September 30, 2008, the Secretary of Labor shall issue a monthly transit subsidy of not less than the full amount (of not less than $115) that each of its employees of the National Capital Region is eligible to receive.”
+Pub. L. 111–8, div. F, title I, § 104, Mar. 11, 2009, 123 Stat. 761, provided that: “After September 30, 2008, the Secretary of Labor shall issue a monthly transit subsidy of not less than the full amount (of not less than $115) that each of its employees of the National Capital Region is eligible to receive.”
 
-Pub. L. 110–161, div. G, title I, § 104, Dec. 26, 2007, 121 Stat. 2167, provided that: “After September 30, 2007, the Secretary of Labor shall issue a monthly transit subsidy of not less than the full amount (of not less than $110) that each of its employees of the National Capital Region is eligible to receive.”
+Pub. L. 110–161, div. G, title I, § 104, Dec. 26, 2007, 121 Stat. 2167, provided that: “After September 30, 2007, the Secretary of Labor shall issue a monthly transit subsidy of not less than the full amount (of not less than $110) that each of its employees of the National Capital Region is eligible to receive.”
 
 **Transit Pass Transportation Fringe Benefits**
 
-Pub. L. 109–59, title III, § 3049(a), Aug. 10, 2005, 119 Stat. 1711, as amended by Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242, provided that:
+Pub. L. 109–59, title III, § 3049(a), Aug. 10, 2005, 119 Stat. 1711, as amended by Pub. L. 109–435, title VI, § 604(f), Dec. 20, 2006, 120 Stat. 3242, provided that:
 
 > **“(1) In general.—** Effective as of the first day of the next fiscal year beginning after the date of the enactment of this Act [Aug. 10, 2005], each covered agency shall implement a program under which all qualified Federal employees serving in or under such agency shall be offered transit pass transportation fringe benefits, as described in paragraph (2).
 
@@ -531,19 +531,19 @@ Pub. L. 109–59, title III, § 3049(a), Aug. 10, 2005, 119 Stat. 1711, as ame
 
 **Transportation Subsidy for Employees of the Senate**
 
-Pub. L. 107–68, title I, § 112, Nov. 12, 2001, 115 Stat. 569, authorized an employing office of an employee of the Senate to provide a monthly transportation subsidy to such employee up to the maximum monthly amount authorized under section 132(f)(2)(A) of Title 26, Internal Revenue Code.
+Pub. L. 107–68, title I, § 112, Nov. 12, 2001, 115 Stat. 569, authorized an employing office of an employee of the Senate to provide a monthly transportation subsidy to such employee up to the maximum monthly amount authorized under section 132(f)(2)(A) of Title 26, Internal Revenue Code.
 
 **Transit Subsidies; Appropriations**
 
-Pub. L. 105–277, div. A, § 101(f) [title II, § 210], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 [see note preceding section 7901 of this title] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
+Pub. L. 105–277, div. A, § 101(f) [title II, § 210], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “Funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, for the National Institutes of Health may be used to provide transit subsidies in amounts consistent with the transportation subsidy programs authorized under section 629 of Public Law 101–509 [see note preceding section 7901 of this title] to non-FTE bearing positions including trainees, visiting fellows and volunteers.”
 
 Similar provisions were contained in the following prior appropriations act:
 
-Pub. L. 105–78, title II, § 210, Nov. 13, 1997, 111 Stat. 1489.
+Pub. L. 105–78, title II, § 210, Nov. 13, 1997, 111 Stat. 1489.
 
 **Purpose of Pub. L. 103–172**
 
-Pub. L. 103–172, § 1(b), Dec. 2, 1993, 107 Stat. 1995, provided that: “The purpose of this Act [enacting this section and provisions set out as notes under this section and section 7901 of this title] is to improve air quality and to reduce traffic congestion by providing for the establishment of programs to encourage Federal employees to commute by means other than single-occupancy motor vehicles.”
+Pub. L. 103–172, § 1(b), Dec. 2, 1993, 107 Stat. 1995, provided that: “The purpose of this Act [enacting this section and provisions set out as notes under this section and section 7901 of this title] is to improve air quality and to reduce traffic congestion by providing for the establishment of programs to encourage Federal employees to commute by means other than single-occupancy motor vehicles.”
 
 **Executive Documents**
 
@@ -567,13 +567,13 @@ Sec. 5. *Judicial Review*. This order is not intended to and does not create any
 
 William J. Clinton.
 
-## § 7906. Services of post-combat case coordinators
+## § 7906. Services of post-combat case coordinators
 
 **(a) Definitions.—** For purposes of this section—
 
 **(1)** the terms “employee”, “agency”,1
 
-<sup>1</sup>  So in original. The definition of “agency” does not appear in section 8101 of this title.
+<sup>1</sup> So in original. The definition of “agency” does not appear in section 8101 of this title.
 
 “injury”, “war-risk hazard”, and “hostile force or individual” have the meanings given those terms in section 8101; and
 
@@ -603,4 +603,4 @@ William J. Clinton.
 
 **(2)** such employee gives written notice, in such manner as the employing agency prescribes, that those services are no longer desired or necessary.
 
-(Added Pub. L. 112–81, div. A, title XI, § 1106(a), Dec. 31, 2011, 125 Stat. 1613.)
+(Added Pub. L. 112–81, div. A, title XI, § 1106(a), Dec. 31, 2011, 125 Stat. 1613.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 32A—REGIONAL MARINE RESEARCH PROGRAMS
 
-## § 1447. Purposes
+## § 1447. Purposes
 
 The purpose of this chapter is to establish regional research programs, under effective Federal oversight, to—
 
@@ -23,15 +23,15 @@ The purpose of this chapter is to establish regional research programs, under ef
 
 **(2)** carry out such research through grants and improved coordination.
 
-(Pub. L. 92–532, title IV, § 401, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2963.)
+(Pub. L. 92–532, title IV, § 401, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2963.)
 
-## § 1447a. Definitions
+## § 1447a. Definitions
 
 As used in this chapter, the term—
 
-**(1)** “Board” means any Regional Marine Research board 1
+**(1)** “Board” means any Regional Marine Research board 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 established pursuant to section 1447b(a) of this title;
 
@@ -47,7 +47,7 @@ established pursuant to section 1447b(a) of this title;
 
 **(7)** “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 92–532, title IV, § 402, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2963.)
+(Pub. L. 92–532, title IV, § 402, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2963.)
 
 **Executive Documents**
 
@@ -55,11 +55,11 @@ established pursuant to section 1447b(a) of this title;
 
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
-## § 1447b. Regional Marine Research Boards
+## § 1447b. Regional Marine Research Boards
 
-**(a) Establishment** A Regional Marine Research board 1
+**(a) Establishment** A Regional Marine Research board 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 shall be established for each of the following regions:
 
@@ -87,7 +87,7 @@ The Great Lakes Research Office authorized under section 1268(d) of title 33 sha
 
 **(1) Composition** Each Board shall be comprised of 11 members of which—
 
-**(A)** 3 members shall be appointed by the Administrator of the National Oceanic and Atmospheric Administration, including 1 member who shall be a Sea Grant Program Director from a State within such region, who shall serve as chairman of the board; <sup>1</sup>
+**(A)** 3 members shall be appointed by the Administrator of the National Oceanic and Atmospheric Administration, including 1 member who shall be a Sea Grant Program Director from a State within such region, who shall serve as chairman of the board; <sup>1</sup>
 
 **(B)** 2 members shall be appointed by the Administrator of the Environmental Protection Agency; and
 
@@ -157,15 +157,15 @@ Each Board is authorized to hire such staff as are necessary to carry out the fu
 
 Each Board shall cease to exist on October 1, 1999, unless extended by Congress.
 
-(Pub. L. 92–532, title IV, § 403, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2964.)
+(Pub. L. 92–532, title IV, § 403, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2964.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (d)(7), means Pub. L. 92–532, which enacted this chapter, chapter 32 (§ 1431 et seq.) of this title, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of Title 33, Navigation and Navigable Waters.
+This Act, referred to in subsec. (d)(7), means Pub. L. 92–532, which enacted this chapter, chapter 32 (§ 1431 et seq.) of this title, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of Title 33, Navigation and Navigable Waters.
 
-## § 1447c. Regional research plans
+## § 1447c. Regional research plans
 
 **(a) Development and amendment of regional plans**
 
@@ -177,7 +177,7 @@ Each Board shall develop a comprehensive 4-year marine research plan for the reg
 
 In the development and amendment of its research plan, the Board shall consider findings and recommendations of the national plan developed pursuant to the National Ocean Pollution Planning Act of 1978 (33 U.S.C. 1701 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(b) Contents of plan** Such marine research plan shall include—
 
@@ -205,15 +205,15 @@ The Administrator of the National Oceanic and Atmospheric Administration and the
 
 In the case of disapproval of such research plan, the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall jointly notify the appropriate Board in writing, stating in detail the revisions necessary to obtain approval of the plan. Such Administrators shall approve or disapprove the revised plan within 90 days after receiving the revised plan from the Board.
 
-(Pub. L. 92–532, title IV, § 404, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2966.)
+(Pub. L. 92–532, title IV, § 404, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2966.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Ocean Pollution Planning Act of 1978, referred to in subsec. (a)(2), is Pub. L. 95–273, May 8, 1978, 92 Stat. 228, which was classified generally to chapter 31 (§ 1701 et seq.) of Title 33, Navigation and Navigable Waters, and was repealed by Pub. L. 102–567, title II, § 204, Oct. 29, 1992, 106 Stat. 4282.
+The National Ocean Pollution Planning Act of 1978, referred to in subsec. (a)(2), is Pub. L. 95–273, May 8, 1978, 92 Stat. 228, which was classified generally to chapter 31 (§ 1701 et seq.) of Title 33, Navigation and Navigable Waters, and was repealed by Pub. L. 102–567, title II, § 204, Oct. 29, 1992, 106 Stat. 4282.
 
-## § 1447d. Research grant program
+## § 1447d. Research grant program
 
 **(a) Program administration**
 
@@ -273,9 +273,9 @@ The Administrator of the National Oceanic and Atmospheric Administration shall a
 
 Any recipient of a grant under this section shall report to the appropriate Board, not later than 18 months after award of the grant, on the activities of such recipient conducted pursuant to this subsection. Such report shall include narrative summaries and technical data in such form as the Administrator of the National Oceanic and Atmospheric Administration may require.
 
-(Pub. L. 92–532, title IV, § 405, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2967.)
+(Pub. L. 92–532, title IV, § 405, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2967.)
 
-## § 1447e. Report on research program
+## § 1447e. Report on research program
 
 **(a) Preparation and submission of report** Each Board receiving a grant under section 1447d of this title shall, not later than 2 years after the approval of its comprehensive plan under section 1447d of this title and at 2-year intervals thereafter, prepare and submit to the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency a report describing—
 
@@ -289,7 +289,7 @@ Any recipient of a grant under this section shall report to the appropriate Boar
 
 Upon receipt of a report prepared by a Board under subsection (a), the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency shall transmit a copy of such report to the Committees on Commerce, Science, and Transportation and on Environment and Public Works of the Senate and to the Committee on Merchant Marine and Fisheries of the House of Representatives.
 
-(Pub. L. 92–532, title IV, § 406, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2969.)
+(Pub. L. 92–532, title IV, § 406, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2969.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -297,7 +297,7 @@ Upon receipt of a report prepared by a Board under subsection (a), the Administr
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Science of House of Representatives in case of provisions relating to marine research by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
-## § 1447f. Authorization of appropriations
+## § 1447f. Authorization of appropriations
 
 **(a) In general**
 
@@ -313,4 +313,4 @@ For purposes of carrying out the provisions of this chapter, there are authorize
 
 **(4)** Twenty-five percent of funds appropriated in a fiscal year available after allocation pursuant to paragraphs (1) and (2), shall be allocated among Boards located in regions submitting research project grant applications pursuant to section 1447d(b) of this title which, in the judgment of the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Administrator of the Environmental Protection Agency, propose the most needed and highest quality research.
 
-(Pub. L. 92–532, title IV, § 407, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2969.)
+(Pub. L. 92–532, title IV, § 407, as added Pub. L. 101–593, title III, § 301, Nov. 16, 1990, 104 Stat. 2969.)

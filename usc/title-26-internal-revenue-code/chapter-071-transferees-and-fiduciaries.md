@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1970—Pub. L. 91–614, title I, § 101(e)(2), Dec. 31, 1970, 84 Stat. 1837, added item 6905.
+1970—Pub. L. 91–614, title I, § 101(e)(2), Dec. 31, 1970, 84 Stat. 1837, added item 6905.
 
-## § 6901. Transferred assets
+## § 6901. Transferred assets
 
 **(a) Method of collection** The amounts of the following liabilities shall, except as hereinafter in this section provided, be assessed, paid, and collected in the same manner and subject to the same provisions and limitations as in the case of the taxes with respect to which the liabilities were incurred:
 
@@ -95,7 +95,7 @@ As used in this section, the term “transferee” includes donee, heir, legatee
 
 For extensions of time by reason of armed service in a combat zone, see section 7508.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 841; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, § 3(f)(10), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 115–141, div. U, title IV, § 401(a)(322), Mar. 23, 2018, 132 Stat. 1199.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 841; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, § 3(f)(10), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 115–141, div. U, title IV, § 401(a)(322), Mar. 23, 2018, 132 Stat. 1199.)
 
 **Editorial Notes**
 
@@ -107,7 +107,7 @@ For extensions of time by reason of armed service in a combat zone, see section 
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-## § 6902. Provisions of special application to transferees
+## § 6902. Provisions of special application to transferees
 
 **(a) Burden of proof**
 
@@ -117,7 +117,7 @@ In proceedings before the Tax Court the burden of proof shall be upon the Secret
 
 Upon application to the Tax Court, a transferee of property of a taxpayer shall be entitled, under rules prescribed by the Tax Court, to a preliminary examination of books, papers, documents, correspondence, and other evidence of the taxpayer or a preceding transferee of the taxpayer’s property, if the transferee making the application is a petitioner before the Tax Court for the redetermination of his liability in respect of the tax (including interest, additional amounts, and additions to the tax provided by law) imposed upon the taxpayer. Upon such application, the Tax Court may require by subpoena, ordered by the Tax Court or any division thereof and signed by a judge, the production of all such books, papers, documents, correspondence, and other evidence within the United States the production of which, in the opinion of the Tax Court or division thereof, is necessary to enable the transferee to ascertain the liability of the taxpayer or preceding transferee and will not result in undue hardship to the taxpayer or preceding transferee. Such examination shall be had at such time and place as may be designated in the subpoena.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 843; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 843; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -125,7 +125,7 @@ Upon application to the Tax Court, a transferee of property of a taxpayer shall 
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
-## § 6903. Notice of fiduciary relationship
+## § 6903. Notice of fiduciary relationship
 
 **(a) Rights and obligations of fiduciary**
 
@@ -135,7 +135,7 @@ Upon notice to the Secretary that any person is acting for another person in a f
 
 Notice under this section shall be given in accordance with regulations prescribed by the Secretary.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 843; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 843; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -143,13 +143,13 @@ Notice under this section shall be given in accordance with regulations prescrib
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-## § 6904. Prohibition of injunctions
+## § 6904. Prohibition of injunctions
 
 For prohibition of suits to restrain enforcement of liability of transferee, or fiduciary, see section 7421(b).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 843.)
 
-## § 6905. Discharge of executor from personal liability for decedent’s income and gift taxes
+## § 6905. Discharge of executor from personal liability for decedent’s income and gift taxes
 
 **(a) Discharge of liability**
 
@@ -163,7 +163,7 @@ For purposes of this section, the term “executor” means the executor or admi
 
 For discharge of executor from personal liability for taxes imposed under chapter 11, see section 2204.
 
-(Added Pub. L. 91–614, title I, § 101(e)(1), Dec. 31, 1970, 84 Stat. 1837; amended Pub. L. 91–614, title I, § 101(f), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Added Pub. L. 91–614, title I, § 101(e)(1), Dec. 31, 1970, 84 Stat. 1837; amended Pub. L. 91–614, title I, § 101(f), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
 **Editorial Notes**
 
@@ -171,13 +171,13 @@ For discharge of executor from personal liability for taxes imposed under chapte
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
 
-1970—Subsec. (a). Pub. L. 91–614, § 101(f), substituted “9 months” for “1 year”.
+1970—Subsec. (a). Pub. L. 91–614, § 101(f), substituted “9 months” for “1 year”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–614, title I, § 101(f), Dec. 31, 1970, 84 Stat. 1838, provided that the amendment made by that section is effective with respect to the estates of decedents dying after Dec. 31, 1973.
+Pub. L. 91–614, title I, § 101(f), Dec. 31, 1970, 84 Stat. 1838, provided that the amendment made by that section is effective with respect to the estates of decedents dying after Dec. 31, 1973.
 
 **Effective Date**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 44—TRUTH IN SAVINGS
 
-## § 4301. Findings and purpose
+## § 4301. Findings and purpose
 
 **(a) Findings**
 
@@ -29,19 +29,19 @@ The Congress hereby finds that economic stability would be enhanced, competition
 
 so that consumers can make a meaningful comparison between the competing claims of depository institutions with regard to deposit accounts.
 
-(Pub. L. 102–242, title II, § 262, Dec. 19, 1991, 105 Stat. 2334.)
+(Pub. L. 102–242, title II, § 262, Dec. 19, 1991, 105 Stat. 2334.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 102–242, title II, § 261, Dec. 19, 1991, 105 Stat. 2334, provided that: “This subtitle [subtitle F (§§ 261–274) of title II of Pub. L. 102–242, enacting this chapter] may be cited as the ‘Truth in Savings Act’.”
+Pub. L. 102–242, title II, § 261, Dec. 19, 1991, 105 Stat. 2334, provided that: “This subtitle [subtitle F (§§ 261–274) of title II of Pub. L. 102–242, enacting this chapter] may be cited as the ‘Truth in Savings Act’.”
 
 **Separability**
 
 If any provision of Pub. L. 102–242 or any application of any provision thereof to any person or circumstance is held invalid, the remainder of Pub. L. 102–242 and the application of any remaining provision of such Act to any other person or circumstance not to be affected by such holding, see section 481 of Pub. L. 102–242, set out as a note under section 1811 of this title.
 
-## § 4302. Disclosure of interest rates and terms of accounts
+## § 4302. Disclosure of interest rates and terms of accounts
 
 **(a) In general** Except as provided in subsections (b) and (c), each advertisement, announcement, or solicitation initiated by any depository institution or deposit broker relating to any demand or interest-bearing account offered by an insured depository institution which includes any reference to a specific rate of interest payable on amounts deposited in such account, or to a specific yield or rate of earnings on amounts so deposited, shall state the following information, to the extent applicable, in a clear and conspicuous manner:
 
@@ -81,7 +81,7 @@ The Bureau may, by regulation, exempt advertisements, announcements, or solicita
 
 No depository institution or deposit broker shall make any advertisement, announcement, or solicitation relating to a deposit account that is inaccurate or misleading or that misrepresents its deposit contracts.
 
-(Pub. L. 102–242, title II, § 263, Dec. 19, 1991, 105 Stat. 2334; Pub. L. 102–550, title IX, § 957(a), Oct. 28, 1992, 106 Stat. 3896; Pub. L. 104–208, div. A, title II, § 2604(b), Sept. 30, 1996, 110 Stat. 3009–471; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
+(Pub. L. 102–242, title II, § 263, Dec. 19, 1991, 105 Stat. 2334; Pub. L. 102–550, title IX, § 957(a), Oct. 28, 1992, 106 Stat. 3896; Pub. L. 104–208, div. A, title II, § 2604(b), Sept. 30, 1996, 110 Stat. 3009–471; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
 
 **Editorial Notes**
 
@@ -91,9 +91,9 @@ No depository institution or deposit broker shall make any advertisement, announ
 
 1996—Subsec. (c). Pub. L. 104–208 redesignated par. (1) as entire subsec. (c) and subpars. (A) and (B) of former par. (1) as pars. (1) and (2), respectively, and struck out former par. (1) heading and heading and text of former par. (2). Text of former par. (2) read as follows: “For purposes of paragraph (1), a sign shall only be considered to be displayed on the premises of a depository institution if the sign is designed to be viewed only from the interior of the premises of the depository institution.”
 
-1992—Subsec. (a). Pub. L. 102–550, § 957(a)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
+1992—Subsec. (a). Pub. L. 102–550, § 957(a)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
 
-Subsecs. (c) to (e). Pub. L. 102–550, § 957(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+Subsecs. (c) to (e). Pub. L. 102–550, § 957(a)(2), (3), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -101,7 +101,7 @@ Subsecs. (c) to (e). Pub. L. 102–550, § 957(a)(2), (3), added subsec. (c) a
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 4303. Account schedule
+## § 4303. Account schedule
 
 **(a) In general**
 
@@ -145,7 +145,7 @@ The schedule required under subsection (a) shall include such other disclosures 
 
 Schedules required under subsection (a) shall be written in clear and plain language and be presented in a format designed to allow consumers to readily understand the terms of the accounts offered.
 
-(Pub. L. 102–242, title II, § 264, Dec. 19, 1991, 105 Stat. 2335; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
+(Pub. L. 102–242, title II, § 264, Dec. 19, 1991, 105 Stat. 2335; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
 
 **Editorial Notes**
 
@@ -159,7 +159,7 @@ Schedules required under subsection (a) shall be written in clear and plain lang
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-## § 4304. Disclosure requirements for certain accounts
+## § 4304. Disclosure requirements for certain accounts
 
 The Bureau shall require, in regulations which the Bureau shall prescribe, such modification in the disclosure requirements under this chapter relating to annual percentage yield as may be necessary to carry out the purposes of this chapter in the case of—
 
@@ -173,7 +173,7 @@ The Bureau shall require, in regulations which the Bureau shall prescribe, such 
 
 **(5)** accounts with respect to which determination of annual percentage yield is based on an annual rate of interest that is guaranteed for a stated term.
 
-(Pub. L. 102–242, title II, § 265, Dec. 19, 1991, 105 Stat. 2336; Pub. L. 102–550, title XVI, § 1604(e)(2)(A), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
+(Pub. L. 102–242, title II, § 265, Dec. 19, 1991, 105 Stat. 2336; Pub. L. 102–550, title XVI, § 1604(e)(2)(A), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
 
 **Editorial Notes**
 
@@ -193,7 +193,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-## § 4305. Distribution of schedules
+## § 4305. Distribution of schedules
 
 **(a) In general** A schedule required under section 4303 of this title for an appropriate account shall be—
 
@@ -201,9 +201,9 @@ Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit I
 
 **(2)** provided to any potential customer before an account is opened or a service is rendered; and
 
-**(3)** provided to the depositor, in the case of any time deposit which has a maturity of more than 30 days 1
+**(3)** provided to the depositor, in the case of any time deposit which has a maturity of more than 30 days 1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
 is renewable at maturity without notice from the depositor, at least 30 days before the date of maturity.
 
@@ -231,7 +231,7 @@ If an account is established by more than 1 individual or for a person other tha
 
 For any account for which the depository institution delivers an account statement on a quarterly or more frequent basis, the depository institution shall include on or with the first regularly scheduled mailing sent after the end of the 6-month period beginning on the date of publication of regulations issued by the Bureau in final form, a statement that the account holder has the right to request an account schedule containing the terms, charges, and interest rates of the account, and that the account holder may wish to request such an account schedule.
 
-(Pub. L. 102–242, title II, § 266, Dec. 19, 1991, 105 Stat. 2337; Pub. L. 102–550, title XVI, § 1604(e)(1), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 104–208, div. A, title II, § 2604(d), Sept. 30, 1996, 110 Stat. 3009–471; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
+(Pub. L. 102–242, title II, § 266, Dec. 19, 1991, 105 Stat. 2337; Pub. L. 102–550, title XVI, § 1604(e)(1), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 104–208, div. A, title II, § 2604(d), Sept. 30, 1996, 110 Stat. 3009–471; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
 
 **Editorial Notes**
 
@@ -253,7 +253,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-## § 4306. Payment of interest
+## § 4306. Payment of interest
 
 **(a) Calculated on full amount of principal**
 
@@ -267,7 +267,7 @@ Subsection (a) shall not be construed as prohibiting or requiring the use of any
 
 Interest on accounts that are subject to this chapter shall begin to accrue not later than the business day specified for interest-bearing accounts in section 4005 of this title, subject to subsections (b) and (c) of such section.
 
-(Pub. L. 102–242, title II, § 267, Dec. 19, 1991, 105 Stat. 2338; Pub. L. 102–550, title XVI, § 1604(e)(2)(B), (C), Oct. 28, 1992, 106 Stat. 4084.)
+(Pub. L. 102–242, title II, § 267, Dec. 19, 1991, 105 Stat. 2338; Pub. L. 102–550, title XVI, § 1604(e)(2)(B), (C), Oct. 28, 1992, 106 Stat. 4084.)
 
 **Editorial Notes**
 
@@ -281,7 +281,7 @@ Interest on accounts that are subject to this chapter shall begin to accrue not 
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-## § 4307. Periodic statements
+## § 4307. Periodic statements
 
 Each depository institution shall include on or with each periodic statement provided to each account holder at such institution a clear and conspicuous disclosure of the following information with respect to such account:
 
@@ -293,9 +293,9 @@ Each depository institution shall include on or with each periodic statement pro
 
 **(4)** The number of days in the reporting period.
 
-(Pub. L. 102–242, title II, § 268, Dec. 19, 1991, 105 Stat. 2338.)
+(Pub. L. 102–242, title II, § 268, Dec. 19, 1991, 105 Stat. 2338.)
 
-## § 4308. Regulations
+## § 4308. Regulations
 
 **(a) In general**
 
@@ -313,13 +313,13 @@ The regulations prescribed under paragraph (1) may contain such classifications,
 
 **(4) Date of applicability**
 
-The provisions of this chapter shall not apply with respect to any depository institution before the effective date of regulations prescribed by the Bureau under this subsection (or by the National Credit Union Administration Bureau 1
+The provisions of this chapter shall not apply with respect to any depository institution before the effective date of regulations prescribed by the Bureau under this subsection (or by the National Credit Union Administration Bureau 1
 
-<sup>1</sup>  So in original. Probably should be “Board”.
+<sup>1</sup> So in original. Probably should be “Board”.
 
-under section 4311(b) 2
+under section 4311(b) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title, in the case of any depository institution described in clause (iv) of section 461(b)(1)(A) of this title).
 
@@ -345,7 +345,7 @@ if in making such deletion or rearranging the format, the depository institution
 
 Model disclosure forms and clauses shall be adopted by the Bureau after duly given notice in the Federal Register and an opportunity for public comment in accordance with section 553 of title 5.
 
-(Pub. L. 102–242, title II, § 269, Dec. 19, 1991, 105 Stat. 2338; Pub. L. 102–550, title IX, § 957(b), title XVI, § 1604(e)(2)(D)–(H), Oct. 28, 1992, 106 Stat. 3897, 4084; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
+(Pub. L. 102–242, title II, § 269, Dec. 19, 1991, 105 Stat. 2338; Pub. L. 102–550, title IX, § 957(b), title XVI, § 1604(e)(2)(D)–(H), Oct. 28, 1992, 106 Stat. 3897, 4084; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
 
 **Editorial Notes**
 
@@ -357,9 +357,9 @@ Section 4311(b) of this title, referred to in subsec. (a)(4), was in the origina
 
 2010—Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
 
-1992—Pub. L. 102–550, § 1604(e)(2)(D)–(H), made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
+1992—Pub. L. 102–550, § 1604(e)(2)(D)–(H), made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
 
-Subsec. (a)(2). Pub. L. 102–550, § 957(b), substituted “9 months” for “6 months”.
+Subsec. (a)(2). Pub. L. 102–550, § 957(b), substituted “9 months” for “6 months”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -371,7 +371,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by section 1604 of Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-## § 4309. Administrative enforcement
+## § 4309. Administrative enforcement
 
 **(a) In general** Subject to subtitle B of the Consumer Financial Protection Act of 2010 [12 U.S.C. 5511 et seq.], compliance with the requirements imposed under this chapter shall be enforced under—
 
@@ -383,9 +383,9 @@ Amendment by section 1604 of Pub. L. 102–550 effective as if included in the F
 
 **(C)** depository institutions described in clause (v) or (vi) of section 19(b)(1)(A) of the Federal Reserve Act [12 U.S.C. 461(b)(1)(A)] which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act [12 U.S.C. 1813(c)(2)]);
 
-**(2)** the Federal Credit Union Act [12 U.S.C. 1751 et seq.], by the National Credit Union Administration Bureau 1
+**(2)** the Federal Credit Union Act [12 U.S.C. 1751 et seq.], by the National Credit Union Administration Bureau 1
 
-<sup>1</sup>  So in original. Probably should be “Board”.
+<sup>1</sup> So in original. Probably should be “Board”.
 
 in the case of depository institutions described in clause (iv) of section 19(b)(1)(A) of the Federal Reserve Act [12 U.S.C. 461(b)(1)(A)]; and
 
@@ -405,21 +405,21 @@ In addition to the powers of any agency referred to in subsection (a) under any 
 
 The authority of the Bureau to issue regulations under this chapter does not impair the authority of any other agency referred to in subsection (a) to make rules regarding its own procedures in enforcing compliance with the requirements imposed under this chapter.
 
-(Pub. L. 102–242, title II, § 270, Dec. 19, 1991, 105 Stat. 2339; Pub. L. 102–550, title XVI, § 1604(e)(2)(I)–(K), (3), (4), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, § 1100B(1), (2), July 21, 2010, 124 Stat. 2109, 2110.)
+(Pub. L. 102–242, title II, § 270, Dec. 19, 1991, 105 Stat. 2339; Pub. L. 102–550, title XVI, § 1604(e)(2)(I)–(K), (3), (4), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, § 1100B(1), (2), July 21, 2010, 124 Stat. 2109, 2110.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Financial Protection Act of 2010, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§ 5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§ 5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§ 5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1100B(1), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1100B(1), substituted “Bureau” for “Board” wherever appearing.
 
-Subsec. (a). Pub. L. 111–203, § 1100B(2)(A), inserted introductory provisions and added par. (1) and struck out former introductory provisions and par. (1) which read as follows: “Compliance with the requirements imposed under this chapter shall be enforced under—
+Subsec. (a). Pub. L. 111–203, § 1100B(2)(A), inserted introductory provisions and added par. (1) and struck out former introductory provisions and par. (1) which read as follows: “Compliance with the requirements imposed under this chapter shall be enforced under—
 
 “(1) section 8 of the Federal Deposit Insurance Act—
 
@@ -429,7 +429,7 @@ Subsec. (a). Pub. L. 111–203, § 1100B(2)(A), inserted introductory provisio
 
 “(C) by the Director of the Office of Thrift Supervision in the case of depository institutions described in clause (v) and or (vi) of section 19(b)(1)(A) of the Federal Reserve Act which are not insured depository institutions (as defined in section 3(c)(2) of the Federal Deposit Insurance Act); and”.
 
-Subsec. (a)(3). Pub. L. 111–203, § 1100B(2)(B), (C), added par. (3).
+Subsec. (a)(3). Pub. L. 111–203, § 1100B(2)(B), (C), added par. (3).
 
 1992—Pub. L. 102–550 made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
 
@@ -443,17 +443,17 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-## § 4310. Repealed. Pub. L. 104–208, div. A, title II, § 2604(a), Sept. 30, 1996, 110 Stat. 3009–470
+## § 4310. Repealed. Pub. L. 104–208, div. A, title II, § 2604(a), Sept. 30, 1996, 110 Stat. 3009–470
 
-Section, Pub. L. 102–242, title II, § 271, Dec. 19, 1991, 105 Stat. 2340; Pub. L. 102–550, title XVI, § 1604(e)(2)(L)–(O), Oct. 28, 1992, 106 Stat. 4084, related to civil liability for depository institutions which failed to comply with any requirements of chapter or regulations with respect to account holders.
+Section, Pub. L. 102–242, title II, § 271, Dec. 19, 1991, 105 Stat. 2340; Pub. L. 102–550, title XVI, § 1604(e)(2)(L)–(O), Oct. 28, 1992, 106 Stat. 4084, related to civil liability for depository institutions which failed to comply with any requirements of chapter or regulations with respect to account holders.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 104–208, div. A, title II, § 2604(a), Sept. 30, 1996, 110 Stat. 3009–470, provided that: “Effective as of the end of the 5-year period beginning on the date of the enactment of this Act [Sept. 30, 1996], section 271 of the Truth in Savings Act (12 U.S.C. 4310) is repealed.”
+Pub. L. 104–208, div. A, title II, § 2604(a), Sept. 30, 1996, 110 Stat. 3009–470, provided that: “Effective as of the end of the 5-year period beginning on the date of the enactment of this Act [Sept. 30, 1996], section 271 of the Truth in Savings Act (12 U.S.C. 4310) is repealed.”
 
-## § 4311. Credit unions
+## § 4311. Credit unions
 
 **(a) In general**
 
@@ -463,15 +463,15 @@ No regulation prescribed by the Bureau under this chapter shall apply directly w
 
 Within 90 days of the effective date of any regulation prescribed by the Bureau under this chapter, the National Credit Union Administration Board shall prescribe a regulation substantially similar to the regulation prescribed by the Bureau taking into account the unique nature of credit unions and the limitations under which they may pay dividends on member accounts.
 
-(Pub. L. 102–242, title II, § 272, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, § 1604(e)(2)(P), (Q), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, § 1100B(1), (3), July 21, 2010, 124 Stat. 2109, 2110.)
+(Pub. L. 102–242, title II, § 272, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, § 1604(e)(2)(P), (Q), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, § 1100B(1), (3), July 21, 2010, 124 Stat. 2109, 2110.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–203, § 1100B(1), substituted “Bureau” for “Board”.
+2010—Subsec. (a). Pub. L. 111–203, § 1100B(1), substituted “Bureau” for “Board”.
 
-Subsec. (b). Pub. L. 111–203, § 1100B(3), substituted “regulation prescribed by the Bureau” for “regulation prescribed by the Board” in two places.
+Subsec. (b). Pub. L. 111–203, § 1100B(3), substituted “regulation prescribed by the Bureau” for “regulation prescribed by the Board” in two places.
 
 1992—Pub. L. 102–550 made technical amendment to references to “this chapter” wherever appearing to reflect correction of corresponding provision of original act.
 
@@ -485,11 +485,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-## § 4312. Effect on State law
+## § 4312. Effect on State law
 
 The provisions of this chapter do not supersede any provisions of the law of any State relating to the disclosure of yields payable or terms for accounts to the extent such State law requires the disclosure of such yields or terms for accounts, except to the extent that those laws are inconsistent with the provisions of this chapter, and then only to the extent of the inconsistency. The Bureau may determine whether such inconsistencies exist.
 
-(Pub. L. 102–242, title II, § 273, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, § 1604(e)(2)(R), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
+(Pub. L. 102–242, title II, § 273, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, § 1604(e)(2)(R), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 111–203, title X, § 1100B(1), July 21, 2010, 124 Stat. 2109.)
 
 **Editorial Notes**
 
@@ -509,7 +509,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-## § 4313. Definitions
+## § 4313. Definitions
 
 For the purposes of this chapter—
 
@@ -533,9 +533,9 @@ The term “Bureau” means the Bureau of Consumer Financial Protection.
 
 **(5) Deposit broker** The term “deposit broker”—
 
-**(A)** has the meaning given to such term in section 1831f(f)(1) 1
+**(A)** has the meaning given to such term in section 1831f(f)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title; and
 
@@ -543,9 +543,9 @@ of this title; and
 
 **(6) Depository institution**
 
-The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 461(b)(1)(A) of this title, but does not include any nonautomated credit union that was not required to comply with the requirements of this chapter <sup>1</sup> as of September 30, 1996, pursuant to the determination of the National Credit Union Administration Bureau.2
+The term “depository institution” has the meaning given such term in clauses (i) through (vi) of section 461(b)(1)(A) of this title, but does not include any nonautomated credit union that was not required to comply with the requirements of this chapter <sup>1</sup> as of September 30, 1996, pursuant to the determination of the National Credit Union Administration Bureau.2
 
-<sup>2</sup>  So in original. Probably should be “Board.”
+<sup>2</sup> So in original. Probably should be “Board.”
 
 **(7) Interest**
 
@@ -555,23 +555,23 @@ The term “interest” includes dividends paid with respect to share draft acco
 
 The term “multiple rate account” means any account that has 2 or more annual rates of simple interest which take effect at the same time or in succeeding periods and which are known at the time of disclosure.
 
-(Pub. L. 102–242, title II, § 274, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, § 1604(e)(2)(S), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, § 332, Sept. 23, 1994, 108 Stat. 2232; Pub. L. 104–208, div. A, title II, § 2604(c), Sept. 30, 1996, 110 Stat. 3009–471; Pub. L. 111–203, title X, § 1100B(1), (4), July 21, 2010, 124 Stat. 2109, 2110.)
+(Pub. L. 102–242, title II, § 274, Dec. 19, 1991, 105 Stat. 2342; Pub. L. 102–550, title XVI, § 1604(e)(2)(S), Oct. 28, 1992, 106 Stat. 4084; Pub. L. 103–325, title III, § 332, Sept. 23, 1994, 108 Stat. 2232; Pub. L. 104–208, div. A, title II, § 2604(c), Sept. 30, 1996, 110 Stat. 3009–471; Pub. L. 111–203, title X, § 1100B(1), (4), July 21, 2010, 124 Stat. 2109, 2110.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1831f(f)(1) of this title, referred to in par. (5)(A), was redesignated section 1831f(g)(1) of this title by Pub. L. 102–242, title III, § 301(a)(4), Dec. 19, 1991, 105 Stat. 2344.
+Section 1831f(f)(1) of this title, referred to in par. (5)(A), was redesignated section 1831f(g)(1) of this title by Pub. L. 102–242, title III, § 301(a)(4), Dec. 19, 1991, 105 Stat. 2344.
 
 This chapter, referred to in par. (6), was in the original “this title”, and was translated as meaning “this subtitle”, which is subtitle F of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2334, which enacted this chapter, to reflect the probable intent of Congress.
 
 **Amendments**
 
-2010—Pub. L. 111–203, § 1100B(1), substituted “Bureau” for “Board” wherever appearing.
+2010—Pub. L. 111–203, § 1100B(1), substituted “Bureau” for “Board” wherever appearing.
 
-Par. (4). Pub. L. 111–203, § 1100B(4), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘Board’ means the Board of Governors of the Federal Reserve System.”
+Par. (4). Pub. L. 111–203, § 1100B(4), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘Board’ means the Board of Governors of the Federal Reserve System.”
 
-1996—Par. (6). Pub. L. 104–208 inserted before period at end “, but does not include any nonautomated credit union that was not required to comply with the requirements of this chapter as of September 30, 1996, pursuant to the determination of the National Credit Union Administration Board”.
+1996—Par. (6). Pub. L. 104–208 inserted before period at end “, but does not include any nonautomated credit union that was not required to comply with the requirements of this chapter as of September 30, 1996, pursuant to the determination of the National Credit Union Administration Board”.
 
 1994—Par. (1). Pub. L. 103–325 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘account’ means any account offered to 1 or more individuals or an unincorporated nonbusiness association of individuals by a depository institution into which a customer deposits funds, including demand accounts, time accounts, negotiable order of withdrawal accounts, and share draft accounts.”
 

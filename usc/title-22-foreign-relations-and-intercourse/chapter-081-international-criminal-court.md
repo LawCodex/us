@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 7401. Restriction relating to United States accession to the International Criminal Court
+### § 7401. Restriction relating to United States accession to the International Criminal Court
 
 **(a) Prohibition**
 
@@ -31,7 +31,7 @@ None of the funds authorized to be appropriated by this or any other Act may be 
 
 In this section, the term “International Criminal Court” means the court established by the Rome Statute of the International Criminal Court, adopted by the United Nations Diplomatic Conference of Plenipotentiaries on the Establishment of an International Criminal Court on July 17, 1998.
 
-(Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 705], Nov. 29, 1999, 113 Stat. 1536, 1501A–460.)
+(Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 705], Nov. 29, 1999, 113 Stat. 1536, 1501A–460.)
 
 **Editorial Notes**
 
@@ -43,9 +43,9 @@ Section was formerly set out as a note under section 262–1 of this title.
 
 **Short Title**
 
-Pub. L. 107–206, title II, § 2001, Aug. 2, 2002, 116 Stat. 899, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘American Servicemembers’ Protection Act of 2002’.”
+Pub. L. 107–206, title II, § 2001, Aug. 2, 2002, 116 Stat. 899, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘American Servicemembers’ Protection Act of 2002’.”
 
-### § 7402. Prohibition on extradition or transfer of United States citizens to the International Criminal Court
+### § 7402. Prohibition on extradition or transfer of United States citizens to the International Criminal Court
 
 **(a) Prohibition on extradition**
 
@@ -59,7 +59,7 @@ None of the funds authorized to be appropriated or otherwise made available by t
 
 In this section, the term “International Criminal Court” has the meaning given the term in section 7401(c) of this title.
 
-(Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 706], Nov. 29, 1999, 113 Stat. 1536, 1501A–461.)
+(Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VII, § 706], Nov. 29, 1999, 113 Stat. 1536, 1501A–461.)
 
 **Editorial Notes**
 
@@ -69,7 +69,7 @@ Section was formerly set out as a note under section 262–1 of this title.
 
 ## SUBCHAPTER II—AMERICAN SERVICEMEMBERS’ PROTECTION
 
-### § 7421. Findings
+### § 7421. Findings
 
 Congress makes the following findings:
 
@@ -91,11 +91,11 @@ Congress makes the following findings:
 
 **(9)** In addition to exposing members of the Armed Forces of the United States to the risk of international criminal prosecution, the Rome Statute creates a risk that the President and other senior elected and appointed officials of the United States Government may be prosecuted by the International Criminal Court. Particularly if the Preparatory Commission agrees on a definition of the Crime of Aggression over United States objections, senior United States officials may be at risk of criminal prosecution for national security decisions involving such matters as responding to acts of terrorism, preventing the proliferation of weapons of mass destruction, and deterring aggression. No less than members of the Armed Forces of the United States, senior officials of the United States Government should be free from the risk of prosecution by the International Criminal Court, especially with respect to official actions taken by them to protect the national interests of the United States.
 
-**(10)** Any agreement within the Preparatory Commission on a definition of the Crime of Aggression that usurps the prerogative of the United Nations Security Council under Article 39 of the charter of the United Nations to “determine the existence of any . … act of aggression” would contravene the charter of the United Nations and undermine deterrence.
+**(10)** Any agreement within the Preparatory Commission on a definition of the Crime of Aggression that usurps the prerogative of the United Nations Security Council under Article 39 of the charter of the United Nations to “determine the existence of any . … act of aggression” would contravene the charter of the United Nations and undermine deterrence.
 
 **(11)** It is a fundamental principle of international law that a treaty is binding upon its parties only and that it does not create obligations for nonparties without their consent to be bound. The United States is not a party to the Rome Statute and will not be bound by any of its terms. The United States will not recognize the jurisdiction of the International Criminal Court over United States nationals.
 
-(Pub. L. 107–206, title II, § 2002, Aug. 2, 2002, 116 Stat. 899.)
+(Pub. L. 107–206, title II, § 2002, Aug. 2, 2002, 116 Stat. 899.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -103,7 +103,7 @@ Congress makes the following findings:
 
 For short title of this subchapter as the “American Servicemembers’ Protection Act of 2002”, see section 2001 of Pub. L. 107–206, set out as a note under section 7401 of this title.
 
-### § 7422. Waiver and termination of prohibitions of this subchapter
+### § 7422. Waiver and termination of prohibitions of this subchapter
 
 **(a) Authority to initially waive section 7424** The President is authorized to waive the prohibitions and requirements of section 7424 of this title for a single period of 1 year. A waiver under this subsection may be issued only if the President at least 15 days in advance of exercising such authority—
 
@@ -169,19 +169,19 @@ Any waiver or waivers exercised pursuant to subsection (c) of the prohibitions a
 
 The prohibitions and requirements of sections 7423, 7424, and 7425 of this title shall cease to apply, and the authority of section 7427 of this title shall terminate, if the United States becomes a party to the International Criminal Court pursuant to a treaty made under article II, section 2, clause 2 of the Constitution of the United States.
 
-(Pub. L. 107–206, title II, § 2003, Aug. 2, 2002, 116 Stat. 901; Pub. L. 110–181, div. A, title XII, § 1212(b)(1), Jan. 28, 2008, 122 Stat. 371.)
+(Pub. L. 107–206, title II, § 2003, Aug. 2, 2002, 116 Stat. 901; Pub. L. 110–181, div. A, title XII, § 1212(b)(1), Jan. 28, 2008, 122 Stat. 371.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsecs. (a), (b). Pub. L. 110–181, § 1212(b)(1)(A), (B), substituted “section 7424” for “sections 7424 and 7426” in heading and text.
+2008—Subsecs. (a), (b). Pub. L. 110–181, § 1212(b)(1)(A), (B), substituted “section 7424” for “sections 7424 and 7426” in heading and text.
 
-Subsecs. (c)(2)(A), (d). Pub. L. 110–181, § 1212(b)(1)(C), (D), substituted “section 7424” for “sections 7424 and 7426”.
+Subsecs. (c)(2)(A), (d). Pub. L. 110–181, § 1212(b)(1)(C), (D), substituted “section 7424” for “sections 7424 and 7426”.
 
-Subsec. (e). Pub. L. 110–181, § 1212(b)(1)(E), substituted “and 7425” for “7425, and 7426”.
+Subsec. (e). Pub. L. 110–181, § 1212(b)(1)(E), substituted “and 7425” for “7425, and 7426”.
 
-### § 7423. Prohibition on cooperation with the International Criminal Court
+### § 7423. Prohibition on cooperation with the International Criminal Court
 
 **(a) Application** The provisions of this section—
 
@@ -229,7 +229,7 @@ No agent of the International Criminal Court may conduct, in the United States o
 
 **(B)** are undertaken in concurrence with the Attorney General.
 
-(Pub. L. 107–206, title II, § 2004, Aug. 2, 2002, 116 Stat. 902; Pub. L. 117–328, div. K, title VII, § 7073(a), Dec. 29, 2022, 136 Stat. 5092.)
+(Pub. L. 107–206, title II, § 2004, Aug. 2, 2002, 116 Stat. 902; Pub. L. 117–328, div. K, title VII, § 7073(a), Dec. 29, 2022, 136 Stat. 5092.)
 
 **Editorial Notes**
 
@@ -241,9 +241,9 @@ No agent of the International Criminal Court may conduct, in the United States o
 
 **Rule of Construction**
 
-Pub. L. 117–328, div. K, title VII, § 7073(c), Dec. 29, 2022, 136 Stat. 5092, provided that: “Nothing in this section [amending this section and section 7433 of this title] may be construed to modify the existing roles or authorities of any Federal agency or official.”
+Pub. L. 117–328, div. K, title VII, § 7073(c), Dec. 29, 2022, 136 Stat. 5092, provided that: “Nothing in this section [amending this section and section 7433 of this title] may be construed to modify the existing roles or authorities of any Federal agency or official.”
 
-### § 7424. Restriction on United States participation in certain United Nations peacekeeping operations
+### § 7424. Restriction on United States participation in certain United Nations peacekeeping operations
 
 **(a) Policy**
 
@@ -261,9 +261,9 @@ Members of the Armed Forces of the United States may not participate in any peac
 
 **(3)** the national interests of the United States justify participation by members of the Armed Forces of the United States in the peacekeeping or peace enforcement operation.
 
-(Pub. L. 107–206, title II, § 2005, Aug. 2, 2002, 116 Stat. 903.)
+(Pub. L. 107–206, title II, § 2005, Aug. 2, 2002, 116 Stat. 903.)
 
-### § 7425. Prohibition on direct or indirect transfer of classified national security information and law enforcement information to the International Criminal Court
+### § 7425. Prohibition on direct or indirect transfer of classified national security information and law enforcement information to the International Criminal Court
 
 **(a) In general**
 
@@ -277,13 +277,13 @@ The procedures adopted pursuant to subsection (a) shall be designed to prevent t
 
 The provisions of this section shall not be construed to prohibit any action permitted under section 7427 of this title.
 
-(Pub. L. 107–206, title II, § 2006, Aug. 2, 2002, 116 Stat. 904.)
+(Pub. L. 107–206, title II, § 2006, Aug. 2, 2002, 116 Stat. 904.)
 
-### § 7426. Repealed. Pub. L. 110–181, div. A, title XII, § 1212(a), Jan. 28, 2008, 122 Stat. 371
+### § 7426. Repealed. Pub. L. 110–181, div. A, title XII, § 1212(a), Jan. 28, 2008, 122 Stat. 371
 
-Section, Pub. L. 107–206, title II, § 2007, Aug. 2, 2002, 116 Stat. 905, prohibited United States military assistance to parties to the International Criminal Court.
+Section, Pub. L. 107–206, title II, § 2007, Aug. 2, 2002, 116 Stat. 905, prohibited United States military assistance to parties to the International Criminal Court.
 
-### § 7427. Authority to free members of the Armed Forces of the United States and certain other persons detained or imprisoned by or on behalf of the International Criminal Court
+### § 7427. Authority to free members of the Armed Forces of the United States and certain other persons detained or imprisoned by or on behalf of the International Criminal Court
 
 **(a) Authority**
 
@@ -309,9 +309,9 @@ The President is authorized to use all means necessary and appropriate to bring 
 
 This section does not authorize the payment of bribes or the provision of other such incentives to induce the release of a person described in subsection (b).
 
-(Pub. L. 107–206, title II, § 2008, Aug. 2, 2002, 116 Stat. 905.)
+(Pub. L. 107–206, title II, § 2008, Aug. 2, 2002, 116 Stat. 905.)
 
-### § 7428. Alliance command arrangements
+### § 7428. Alliance command arrangements
 
 **(a) Report on alliance command arrangements** Not later than 6 months after August 2, 2002, the President should transmit to the appropriate congressional committees a report with respect to each military alliance to which the United States is party—
 
@@ -327,15 +327,15 @@ Not later than 1 year after August 2, 2002, the President should transmit to the
 
 The report under subsection (a), and the description of measures under subsection (b), or appropriate parts thereof, may be submitted in classified form.
 
-(Pub. L. 107–206, title II, § 2009, Aug. 2, 2002, 116 Stat. 906.)
+(Pub. L. 107–206, title II, § 2009, Aug. 2, 2002, 116 Stat. 906.)
 
-### § 7429. Withholdings
+### § 7429. Withholdings
 
 Funds withheld from the United States share of assessments to the United Nations or any other international organization during any fiscal year pursuant to section 7401 of this title are authorized to be transferred to the Embassy Security, Construction and Maintenance Account of the Department of State.
 
-(Pub. L. 107–206, title II, § 2010, Aug. 2, 2002, 116 Stat. 906.)
+(Pub. L. 107–206, title II, § 2010, Aug. 2, 2002, 116 Stat. 906.)
 
-### § 7430. Application of sections 7423 and 7425 to exercise of constitutional authorities
+### § 7430. Application of sections 7423 and 7425 to exercise of constitutional authorities
 
 **(a) In general**
 
@@ -355,15 +355,15 @@ If the President determines that a full notification under paragraph (1) could j
 
 Nothing in this section shall be construed as a grant of statutory authority to the President to take any action.
 
-(Pub. L. 107–206, title II, § 2011, Aug. 2, 2002, 116 Stat. 907.)
+(Pub. L. 107–206, title II, § 2011, Aug. 2, 2002, 116 Stat. 907.)
 
-### § 7431. Nondelegation
+### § 7431. Nondelegation
 
 The authorities vested in the President by sections 7422 and 7430(a) of this title may not be delegated by the President pursuant to section 301 of title 3 or any other provision of law. The authority vested in the President by section 7424(c)(3) of this title may not be delegated by the President pursuant to section 301 of title 3 or any other provision of law to any official other than the Secretary of Defense, and if so delegated may not be subdelegated.
 
-(Pub. L. 107–206, title II, § 2012, Aug. 2, 2002, 116 Stat. 907.)
+(Pub. L. 107–206, title II, § 2012, Aug. 2, 2002, 116 Stat. 907.)
 
-### § 7432. Definitions
+### § 7432. Definitions
 
 As used in this subchapter and in section 7402 of this title:
 
@@ -417,13 +417,13 @@ The term “Rome Statute” means the Rome Statute of the International Criminal
 
 The term “support” means assistance of any kind, including financial support, transfer of property or other material support, services, intelligence sharing, law enforcement cooperation, the training or detail of personnel, and the arrest or detention of individuals.
 
-(Pub. L. 107–206, title II, § 2013, Aug. 2, 2002, 116 Stat. 907; Pub. L. 109–364, div. A, title XII, § 1222, Oct. 17, 2006, 120 Stat. 2423; Pub. L. 110–181, div. A, title XII, § 1212(b)(2), Jan. 28, 2008, 122 Stat. 371.)
+(Pub. L. 107–206, title II, § 2013, Aug. 2, 2002, 116 Stat. 907; Pub. L. 109–364, div. A, title XII, § 1222, Oct. 17, 2006, 120 Stat. 2423; Pub. L. 110–181, div. A, title XII, § 1212(b)(2), Jan. 28, 2008, 122 Stat. 371.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Executive Order 12958, referred to in par. (2), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order 12958, referred to in par. (2), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 **Amendments**
 
@@ -437,13 +437,13 @@ Executive Order 12958, referred to in par. (2), which was formerly set out as a 
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 7433. Assistance to international efforts
+### § 7433. Assistance to international efforts
 
 **(a) Assistance**
 
 Nothing in this subchapter shall prohibit the United States from rendering assistance to international efforts to bring to justice Saddam Hussein, Slobodan Milosovic, Osama bin Laden, other members of Al Queda,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 leaders of Islamic Jihad, and other foreign nationals accused of genocide, war crimes or crimes against humanity, or from rendering assistance to the International Criminal Court to assist with investigations and prosecutions of foreign nationals related to the Situation in Ukraine, including to support victims and witnesses.
 
@@ -455,7 +455,7 @@ Assistance made available pursuant to subsection (a) of this section may be made
 
 The Secretary of State shall notify the Committees on Appropriations, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives, of any amounts obligated pursuant to subsection (b) not later than 15 days before such obligation is made.
 
-(Pub. L. 107–206, title II, § 2015, Aug. 2, 2002, 116 Stat. 909; Pub. L. 117–328, div. K, title VII, § 7073(b), Dec. 29, 2022, 136 Stat. 5092.)
+(Pub. L. 107–206, title II, § 2015, Aug. 2, 2002, 116 Stat. 909; Pub. L. 117–328, div. K, title VII, § 7073(b), Dec. 29, 2022, 136 Stat. 5092.)
 
 **Editorial Notes**
 

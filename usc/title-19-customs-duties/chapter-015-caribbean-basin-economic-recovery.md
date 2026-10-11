@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 15—CARIBBEAN BASIN ECONOMIC RECOVERY
 
-## § 2701. Authority to grant duty-free treatment
+## § 2701. Authority to grant duty-free treatment
 
 The President may proclaim duty-free treatment (or other preferential treatment) for all eligible articles from any beneficiary country in accordance with the provisions of this chapter.
 
-(Pub. L. 98–67, title II, § 211, Aug. 5, 1983, 97 Stat. 384; Pub. L. 106–200, title II, § 211(e)(1)(A), May 18, 2000, 114 Stat. 287.)
+(Pub. L. 98–67, title II, § 211, Aug. 5, 1983, 97 Stat. 384; Pub. L. 106–200, title II, § 211(e)(1)(A), May 18, 2000, 114 Stat. 287.)
 
 **Editorial Notes**
 
@@ -35,37 +35,37 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–164, § 1, Oct. 10, 2020, 134 Stat. 758, provided that: “This Act [amending sections 58c and 2703 of this title and amending provisions set out as a note under section 3805 of this title] may be cited as the ‘Extension of the Caribbean Basin Economic Recovery Act’.”
+Pub. L. 116–164, § 1, Oct. 10, 2020, 134 Stat. 758, provided that: “This Act [amending sections 58c and 2703 of this title and amending provisions set out as a note under section 3805 of this title] may be cited as the ‘Extension of the Caribbean Basin Economic Recovery Act’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–171, § 1, May 24, 2010, 124 Stat. 1194, provided that: “This Act [amending sections 58c, 2703, and 2703a of this title and enacting provisions set out as notes under section 2703a of this title and section 6655 of Title 26, Internal Revenue Code] may be cited as the ‘Haiti Economic Lift Program Act of 2010’.”
+Pub. L. 111–171, § 1, May 24, 2010, 124 Stat. 1194, provided that: “This Act [amending sections 58c, 2703, and 2703a of this title and enacting provisions set out as notes under section 2703a of this title and section 6655 of Title 26, Internal Revenue Code] may be cited as the ‘Haiti Economic Lift Program Act of 2010’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–234, title XV, § 15401, May 22, 2008, 122 Stat. 1527, and Pub. L. 110–246, § 4(a), title XV, § 15401, June 18, 2008, 122 Stat. 1664, 2289, provided that: “This part [part I (§§ 15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending sections 2703 and 2703a of this title and enacting provisions set out as notes under section 2703a of this title] may be cited as the ‘Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008’ or the ‘HOPE II Act’.”
+Pub. L. 110–234, title XV, § 15401, May 22, 2008, 122 Stat. 1527, and Pub. L. 110–246, § 4(a), title XV, § 15401, June 18, 2008, 122 Stat. 1664, 2289, provided that: “This part [part I (§§ 15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending sections 2703 and 2703a of this title and enacting provisions set out as notes under section 2703a of this title] may be cited as the ‘Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008’ or the ‘HOPE II Act’.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–432, div. D, title V, § 5001, Dec. 20, 2006, 120 Stat. 3181, provided that: “This title [enacting section 2703a of this title, amending sections 2703 and 3203 of this title, and enacting provisions set out as a note under section 2703 of this title] may be cited as the ‘Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006’.”
+Pub. L. 109–432, div. D, title V, § 5001, Dec. 20, 2006, 120 Stat. 3181, provided that: “This title [enacting section 2703a of this title, amending sections 2703 and 3203 of this title, and enacting provisions set out as a note under section 2703 of this title] may be cited as the ‘Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–200, title II, § 201, May 18, 2000, 114 Stat. 275, provided that: “This title [amending this section and sections 2702 to 2704, 3202, and 3204 of this title and enacting provisions set out as notes under this section] may be cited as the ‘United States-Caribbean Basin Trade Partnership Act’.”
+Pub. L. 106–200, title II, § 201, May 18, 2000, 114 Stat. 275, provided that: “This title [amending this section and sections 2702 to 2704, 3202, and 3204 of this title and enacting provisions set out as notes under this section] may be cited as the ‘United States-Caribbean Basin Trade Partnership Act’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–382, title II, § 201, Aug. 20, 1990, 104 Stat. 655, provided that: “This title [enacting section 226 of Title 20, Education, amending sections 1677, 2463, 2702, 2703, and 2706 of this title and section 936 of Title 26, Internal Revenue Code, enacting provisions set out as notes under this section and sections 1677, 2071, and 2703 of this title and section 936 of Title 26, and amending provisions set out as notes under section 2703 of this title] may be cited as the ‘Caribbean Basin Economic Recovery Expansion Act of 1990’.”
+Pub. L. 101–382, title II, § 201, Aug. 20, 1990, 104 Stat. 655, provided that: “This title [enacting section 226 of Title 20, Education, amending sections 1677, 2463, 2702, 2703, and 2706 of this title and section 936 of Title 26, Internal Revenue Code, enacting provisions set out as notes under this section and sections 1677, 2071, and 2703 of this title and section 936 of Title 26, and amending provisions set out as notes under section 2703 of this title] may be cited as the ‘Caribbean Basin Economic Recovery Expansion Act of 1990’.”
 
 **Short Title**
 
-Pub. L. 98–67, title II, § 201, Aug. 5, 1983, 97 Stat. 384, provided that: “This title [enacting this chapter, amending section 1202 of this title and sections 274 and 7652 of Title 26, Internal Revenue Code, repealing section 2582 of this title, and enacting provisions set out as notes under sections 1319, 2251, and 2703 of this title, sections 274 and 7652 of Title 26, and section 1311 of Title 33, Navigation and Navigable Waters] may be cited as the ‘Caribbean Basin Economic Recovery Act’.”
+Pub. L. 98–67, title II, § 201, Aug. 5, 1983, 97 Stat. 384, provided that: “This title [enacting this chapter, amending section 1202 of this title and sections 274 and 7652 of Title 26, Internal Revenue Code, repealing section 2582 of this title, and enacting provisions set out as notes under sections 1319, 2251, and 2703 of this title, sections 274 and 7652 of Title 26, and section 1311 of Title 33, Navigation and Navigable Waters] may be cited as the ‘Caribbean Basin Economic Recovery Act’.”
 
 **Findings and Policy**
 
-Pub. L. 106–200, title II, § 202, May 18, 2000, 114 Stat. 275, provided that:
+Pub. L. 106–200, title II, § 202, May 18, 2000, 114 Stat. 275, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -93,7 +93,7 @@ Pub. L. 106–200, title II, § 202, May 18, 2000, 114 Stat. 275, provided tha
 
 **Meetings of Trade Ministers and USTR**
 
-Pub. L. 106–200, title II, § 213, May 18, 2000, 114 Stat. 288, provided that:
+Pub. L. 106–200, title II, § 213, May 18, 2000, 114 Stat. 288, provided that:
 
 > **“(a) Schedule of Meetings.—** The President shall take the necessary steps to convene a meeting with the trade ministers of the CBTPA beneficiary countries in order to establish a schedule of regular meetings, to commence as soon as is practicable, of the trade ministers and the Trade Representative, for the purpose set forth in subsection (b).
 
@@ -103,7 +103,7 @@ Pub. L. 106–200, title II, § 213, May 18, 2000, 114 Stat. 288, provided tha
 
 **Congressional Findings**
 
-Pub. L. 101–382, title II, § 202, Aug. 20, 1990, 104 Stat. 655, provided that:
+Pub. L. 101–382, title II, § 202, Aug. 20, 1990, 104 Stat. 655, provided that:
 
 > “The Congress finds that—
 
@@ -115,7 +115,7 @@ Pub. L. 101–382, title II, § 202, Aug. 20, 1990, 104 Stat. 655, provided th
 
 **Definitions**
 
-Pub. L. 106–200, title II, § 203, May 18, 2000, 114 Stat. 276, provided that:
+Pub. L. 106–200, title II, § 203, May 18, 2000, 114 Stat. 276, provided that:
 
 > “In this title [see Short Title of 2000 Amendment note above]:
 
@@ -125,7 +125,7 @@ Pub. L. 106–200, title II, § 203, May 18, 2000, 114 Stat. 276, provided tha
 
 > **“(3) WTO and wto member.—** The terms ‘WTO’ and ‘WTO member’ have the meanings given those terms in section 2 of the Uruguay Round Agreements Act (19 U.S.C. 3501).”
 
-## § 2702. Beneficiary country
+## § 2702. Beneficiary country
 
 **(a) Definitions; termination of designation**
 
@@ -201,7 +201,7 @@ Paragraphs (1), (2), (3), (5), and (7) shall not prevent the designation of any 
 
 **(8)** whether or not such country has taken or is taking steps to afford to workers in that country (including any designated zone in that country) internationally recognized worker rights.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(9)** the extent to which such country provides under its law adequate and effective means for foreign nationals to secure, exercise, and enforce exclusive rights in intellectual property, including patent, trademark, and copyright rights;
 
@@ -261,7 +261,7 @@ if, after such designation, the President determines that, as a result of change
 
 Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 2703(b)(5)(B) of this title.
 
-(Pub. L. 98–67, title II, § 212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, § 9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§ 1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§ 213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, § 621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, § 1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, § 211(b), (c)(1), (e)(2), May 18, 2000, 114 Stat. 286, 287; Pub. L. 109–53, title IV, § 402(a), (b), Aug. 2, 2005, 119 Stat. 495; Pub. L. 112–43, title IV, § 402(a), Oct. 21, 2011, 125 Stat. 530; Pub. L. 116–260, div. O, title VI, § 602(b)(1), Dec. 27, 2020, 134 Stat. 2152.)
+(Pub. L. 98–67, title II, § 212, Aug. 5, 1983, 97 Stat. 384; Pub. L. 99–570, title IX, § 9002(b), Oct. 27, 1986, 100 Stat. 3207–166; Pub. L. 100–418, title I, §§ 1214(q)(1), 1909(c), Aug. 23, 1988, 102 Stat. 1159, 1318; Pub. L. 101–382, title II, §§ 213, 214, Aug. 20, 1990, 104 Stat. 656; Pub. L. 103–465, title VI, § 621(a)(2), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, § 1954(a)(3), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, § 211(b), (c)(1), (e)(2), May 18, 2000, 114 Stat. 286, 287; Pub. L. 109–53, title IV, § 402(a), (b), Aug. 2, 2005, 119 Stat. 495; Pub. L. 112–43, title IV, § 402(a), Oct. 21, 2011, 125 Stat. 530; Pub. L. 116–260, div. O, title VI, § 602(b)(1), Dec. 27, 2020, 134 Stat. 2152.)
 
 **Amendment of Section**
 
@@ -279,7 +279,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(
 
 This Act, referred to in provisions following subsec. (b)(6), probably should be “this title” meaning title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-This chapter, referred to in subsec. (e)(1)(B), was in the original “this subtitle”, meaning subtitle A (§§ 211–218) of title II of Pub. L. 98–67 which enacted this chapter, amended section 1202 of this title, repealed section 2582 of this title, and enacted provisions set out as notes under sections 1202, 1319, 2251, and 2703 of this title and section 1311 of Title 33, Navigation and Navigable Waters. For complete classification of subtitle A to the Code, see Tables.
+This chapter, referred to in subsec. (e)(1)(B), was in the original “this subtitle”, meaning subtitle A (§§ 211–218) of title II of Pub. L. 98–67 which enacted this chapter, amended section 1202 of this title, repealed section 2582 of this title, and enacted provisions set out as notes under sections 1202, 1319, 2251, and 2703 of this title and section 1311 of Title 33, Navigation and Navigable Waters. For complete classification of subtitle A to the Code, see Tables.
 
 **Codification**
 
@@ -289,33 +289,33 @@ Subsec. (d) of this section amended general headnote 3(a) of the Tariff Schedule
 
 2020—Subsec. (a)(1)(D). Pub. L. 116–260 added subpar. (D) and struck out former subpar. (D) which defined “NAFTA”.
 
-2011—Subsec. (b). Pub. L. 112–43, §§ 107(c), 402(a), temporarily struck out “Panama” from list of countries eligible for designation as beneficiary country. See Effective and Termination Dates of 2011 Amendment note below.
+2011—Subsec. (b). Pub. L. 112–43, §§ 107(c), 402(a), temporarily struck out “Panama” from list of countries eligible for designation as beneficiary country. See Effective and Termination Dates of 2011 Amendment note below.
 
-2005—Subsec. (a)(1)(F). Pub. L. 109–53, §§ 107(d), 402(a), temporarily added subpar. (F). See Effective and Termination Dates of 2005 Amendment note below.
+2005—Subsec. (a)(1)(F). Pub. L. 109–53, §§ 107(d), 402(a), temporarily added subpar. (F). See Effective and Termination Dates of 2005 Amendment note below.
 
-Subsec. (b). Pub. L. 109–53, §§ 107(d), 402(b), temporarily struck out “Costa Rica”, “Dominican Republic”, “El Salvador”, “Guatemala”, “Honduras”, and “Nicaragua” from list of countries eligible for designation as beneficiary country. See Effective and Termination Dates of 2005 Amendment notes below.
+Subsec. (b). Pub. L. 109–53, §§ 107(d), 402(b), temporarily struck out “Costa Rica”, “Dominican Republic”, “El Salvador”, “Guatemala”, “Honduras”, and “Nicaragua” from list of countries eligible for designation as beneficiary country. See Effective and Termination Dates of 2005 Amendment notes below.
 
-2000—Subsec. (a)(1)(D), (E). Pub. L. 106–200, § 211(e)(2), added subpars. (D) and (E).
+2000—Subsec. (a)(1)(D), (E). Pub. L. 106–200, § 211(e)(2), added subpars. (D) and (E).
 
-Subsec. (e)(1). Pub. L. 106–200, §  211(b)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+Subsec. (e)(1). Pub. L. 106–200, § 211(b)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-Subsec. (e)(3). Pub. L. 106–200, § 211(b)(2), added par. (3).
+Subsec. (e)(3). Pub. L. 106–200, § 211(b)(2), added par. (3).
 
-Subsec. (f). Pub. L. 106–200, § 211(c)(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.”
+Subsec. (f). Pub. L. 106–200, § 211(c)(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.”
 
 1996—Subsec. (b)(7). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
 
 1994—Subsec. (c)(4). Pub. L. 103–465 substituted “WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)” for “General Agreement on Tariffs and Trade, as well as applicable trade agreements approved under section 2503(a) of this title”.
 
-1990—Subsec. (b). Pub. L. 101–382, § 213(1)–(4), added par. (7) and in concluding provisions substituted “(5), and (7)” for “and (5)”.
+1990—Subsec. (b). Pub. L. 101–382, § 213(1)–(4), added par. (7) and in concluding provisions substituted “(5), and (7)” for “and (5)”.
 
-Subsec. (c)(8). Pub. L. 101–382, § 213(5), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the degree to which workers in such country are afforded reasonable workplace conditions and enjoy the right to organize and bargain collectively;”.
+Subsec. (c)(8). Pub. L. 101–382, § 213(5), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the degree to which workers in such country are afforded reasonable workplace conditions and enjoy the right to organize and bargain collectively;”.
 
-Subsec. (f). Pub. L. 101–382, § 214, added subsec. (f).
+Subsec. (f). Pub. L. 101–382, § 214, added subsec. (f).
 
-1988—Subsec. (a)(1)(C). Pub. L. 100–418, § 1214(q)(1), substituted “HTS” and “Harmonized Tariff Schedule of the United States” for “TSUS” and “Tariff Schedules of the United States”, respectively.
+1988—Subsec. (a)(1)(C). Pub. L. 100–418, § 1214(q)(1), substituted “HTS” and “Harmonized Tariff Schedule of the United States” for “TSUS” and “Tariff Schedules of the United States”, respectively.
 
-Subsec. (e). Pub. L. 100–418, § 1909(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.”
+Subsec. (e). Pub. L. 100–418, § 1909(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The President shall, after complying with the requirements of subsection (a)(2) of this section, withdraw or suspend the designation of any country as a beneficiary country if, after such designation, he determines that as the result of changed circumstances such country would be barred from designation as a beneficiary country under subsection (b) of this section.”
 
 1986—Subsec. (b)(6), (7). Pub. L. 99–570 redesignated par. (7) as (6) and struck out former par. (6) which provided that the President shall not designate a country as a beneficiary country under this chapter if the country does not take adequate steps to cooperate with the United States to prevent narcotic drugs and other controlled substances produced, processed, or transported in the country from entering the United States unlawfully.
 
@@ -333,7 +333,7 @@ Amendment by Pub. L. 112–43 effective on date President terminates designation
 
 Amendment by Pub. L. 109–53 effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on date Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as an Effective and Termination Dates note under section 4001 of this title.
 
-Pub. L. 109–53, title IV, § 402(b), Aug. 2, 2005, 119 Stat. 495, provided that the amendment made by section 402(b) is effective on date President terminates designation of Costa Rica [Designation terminated Jan. 1, 2009. See Proc. No. 8331, 73 F.R. 79585.], Dominican Republic [Designation terminated Mar. 1, 2007. See Proc. No. 8111, 72 F.R. 10025.], El Salvador [Designation terminated Mar. 1, 2006. See Proc. No. 7987, 71 F.R. 10827.], Guatemala [Designation terminated July 1, 2006. See Proc. No. 8034, 71 F.R. 38509.], Honduras [Designation terminated Apr. 1, 2006. See Proc. No. 7996, 71 F.R. 16971.], or Nicaragua [Designation terminated Apr. 1, 2006. See Proc. No. 7996, 71 F.R. 16971.] as beneficiary country pursuant to section 4031(a)(3) of this title.
+Pub. L. 109–53, title IV, § 402(b), Aug. 2, 2005, 119 Stat. 495, provided that the amendment made by section 402(b) is effective on date President terminates designation of Costa Rica [Designation terminated Jan. 1, 2009. See Proc. No. 8331, 73 F.R. 79585.], Dominican Republic [Designation terminated Mar. 1, 2007. See Proc. No. 8111, 72 F.R. 10025.], El Salvador [Designation terminated Mar. 1, 2006. See Proc. No. 7987, 71 F.R. 10827.], Guatemala [Designation terminated July 1, 2006. See Proc. No. 8034, 71 F.R. 38509.], Honduras [Designation terminated Apr. 1, 2006. See Proc. No. 7996, 71 F.R. 16971.], or Nicaragua [Designation terminated Apr. 1, 2006. See Proc. No. 7996, 71 F.R. 16971.] as beneficiary country pursuant to section 4031(a)(3) of this title.
 
 **Effective Date of 1996 Amendment**
 
@@ -349,7 +349,7 @@ Amendment by section 1214(q)(1) of Pub. L. 100–418 effective Jan. 1, 1989, and
 
 **Caribbean Basin Initiative**
 
-Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318, provided that:
+Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 1318, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -375,7 +375,7 @@ Pub. L. 100–418, title I, § 1909(a), (b), Aug. 23, 1988, 102 Stat. 1317, 13
 
 Functions of President under subsec. (e)(2)(A) of this section, related to publishing notice of proposed actions, delegated to United States Trade Representative, see Proc. No. 7616, Oct. 31, 2002, 67 F.R. 67283, set out as a note under section 3203 of this title.
 
-## § 2703. Eligible articles
+## § 2703. Eligible articles
 
 **(a) Growth, product, or manufacture of beneficiary countries**
 
@@ -711,9 +711,9 @@ The term “CBTPA originating good” means a good that meets the rules of origi
 
 **(i)** September 30, 2030; or
 
-**(ii)** the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in section 108(b)(5) of Public Law 103–182 (19 U.S.C. 3317(b)(5)) 1
+**(ii)** the date on which the FTAA or another free trade agreement that makes substantial progress in achieving the negotiating objectives set forth in section 108(b)(5) of Public Law 103–182 (19 U.S.C. 3317(b)(5)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 enters into force with respect to the United States and the CBTPA beneficiary country.
 
@@ -797,9 +797,9 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 **(2)** In any report by the International Trade Commission to the President under section 202(f) of the Trade Act of 1974 [19 U.S.C. 2252(f)] regarding any article for which duty-free treatment has been proclaimed by the President pursuant to this chapter, the Commission shall state whether and to what extent its findings and recommendations apply to such article when imported from beneficiary countries.
 
-**(3)** For purposes of subsections 2
+**(3)** For purposes of subsections 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 section 203 of the Trade Act of 1974 [19 U.S.C. 2253(a), (c)], the suspension of the duty-free treatment provided by this chapter shall be treated as an increase in duty.
 
@@ -807,7 +807,7 @@ section 203 of the Trade Act of 1974 [19 U.S.C. 2253(a), (c)], the suspension of
 
 **(5)**
 
-**(A)** Any action taken under section 203 of the Trade Act of 1974 [19 U.S.C. 2253] that is in effect when duty-free treatment pursuant to section 2701 <sup>1</sup> of this title is proclaimed shall remain in effect until modified or terminated.
+**(A)** Any action taken under section 203 of the Trade Act of 1974 [19 U.S.C. 2253] that is in effect when duty-free treatment pursuant to section 2701 <sup>1</sup> of this title is proclaimed shall remain in effect until modified or terminated.
 
 **(B)** If any article is subject to any such action at the time duty-free treatment is proclaimed pursuant to section 2701 of this title, the President may reduce or terminate the application of such action to the importation of such article from beneficiary countries prior to the otherwise scheduled date on which such reduction or termination would occur pursuant to the criteria and procedures of section 203 of the Trade Act of 1974 [19 U.S.C. 2253].
 
@@ -827,7 +827,7 @@ section 203 of the Trade Act of 1974 [19 U.S.C. 2253(a), (c)], the suspension of
 
 **(A)** upon the taking of action under section 203 of the Trade Act of 1974 [19 U.S.C. 2253],
 
-**(B)** on the day a determination by the President not to take action <sup>2</sup> under section 203 of such Act [19 U.S.C. 2253] not to take action <sup>2</sup> becomes final,
+**(B)** on the day a determination by the President not to take action <sup>2</sup> under section 203 of such Act [19 U.S.C. 2253] not to take action <sup>2</sup> becomes final,
 
 **(C)** in the event of a report of the United States International Trade Commission containing a negative finding, on the day the Commission’s report is submitted to the President, or
 
@@ -867,7 +867,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 **(B)** is 1.5 percent ad valorem or greater, the aggregate of such proclaimed reduction and the reduction under this subsection may not exceed the proclaimed reduction plus 1 percent ad valorem.
 
-(Pub. L. 98–67, title II, § 213, Aug. 5, 1983, 97 Stat. 387; Pub. L. 98–573, title II, § 235, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–514, title IV, § 423(f)(2), title XVIII, § 1890, Oct. 22, 1986, 100 Stat. 2232, 2926; Pub. L. 100–418, title I, §§ 1214(q)(2), 1401(b)(2), Aug. 23, 1988, 102 Stat. 1159, 1239; Pub. L. 100–647, title IX, § 9001(a)(14), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title II, §§ 212, 215(a), Aug. 20, 1990, 104 Stat. 655, 657; Pub. L. 103–465, title IV, § 404(e)(1), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 106–200, title II, §§ 211(a), (e)(1)(B), 212, May 18, 2000, 114 Stat. 276, 287, 288; Pub. L. 107–206, title III, § 3001[(a)], Aug. 2, 2002, 116 Stat. 909; Pub. L. 107–210, div. C, title XXXI, § 3107(a), Aug. 6, 2002, 116 Stat. 1035; Pub. L. 108–429, title I, § 1558, title II, § 2004(b), Dec. 3, 2004, 118 Stat. 2579, 2592; Pub. L. 109–53, title IV, § 402(c), (d), Aug. 2, 2005, 119 Stat. 496; Pub. L. 109–432, div. D, title V, § 5005(a), Dec. 20, 2006, 120 Stat. 3189; Pub. L. 110–234, title XV, § 15408, May 22, 2008, 122 Stat. 1546; Pub. L. 110–246, § 4(a), title XV, § 15408, June 18, 2008, 122 Stat. 1664, 2308; Pub. L. 111–171, § 3(1), May 24, 2010, 124 Stat. 1195; Pub. L. 116–164, § 2, Oct. 10, 2020, 134 Stat. 758; Pub. L. 116–260, div. O, title VI, § 602(b)(2), Dec. 27, 2020, 134 Stat. 2152.)
+(Pub. L. 98–67, title II, § 213, Aug. 5, 1983, 97 Stat. 387; Pub. L. 98–573, title II, § 235, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–514, title IV, § 423(f)(2), title XVIII, § 1890, Oct. 22, 1986, 100 Stat. 2232, 2926; Pub. L. 100–418, title I, §§ 1214(q)(2), 1401(b)(2), Aug. 23, 1988, 102 Stat. 1159, 1239; Pub. L. 100–647, title IX, § 9001(a)(14), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–382, title II, §§ 212, 215(a), Aug. 20, 1990, 104 Stat. 655, 657; Pub. L. 103–465, title IV, § 404(e)(1), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 106–200, title II, §§ 211(a), (e)(1)(B), 212, May 18, 2000, 114 Stat. 276, 287, 288; Pub. L. 107–206, title III, § 3001[(a)], Aug. 2, 2002, 116 Stat. 909; Pub. L. 107–210, div. C, title XXXI, § 3107(a), Aug. 6, 2002, 116 Stat. 1035; Pub. L. 108–429, title I, § 1558, title II, § 2004(b), Dec. 3, 2004, 118 Stat. 2579, 2592; Pub. L. 109–53, title IV, § 402(c), (d), Aug. 2, 2005, 119 Stat. 496; Pub. L. 109–432, div. D, title V, § 5005(a), Dec. 20, 2006, 120 Stat. 3189; Pub. L. 110–234, title XV, § 15408, May 22, 2008, 122 Stat. 1546; Pub. L. 110–246, § 4(a), title XV, § 15408, June 18, 2008, 122 Stat. 1664, 2308; Pub. L. 111–171, § 3(1), May 24, 2010, 124 Stat. 1195; Pub. L. 116–164, § 2, Oct. 10, 2020, 134 Stat. 758; Pub. L. 116–260, div. O, title VI, § 602(b)(2), Dec. 27, 2020, 134 Stat. 2152.)
 
 **Amendment of Section**
 
@@ -881,9 +881,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Section 423 of the Tax Reform Act of 1986, referred to in subsec. (a)(1), is section 423 of Pub. L. 99–514, title IV, Oct. 22, 1986, 100 Stat. 2230, which amended this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under section 1202 of this title, and enacted provisions set out as a note below.
 
-The Trade Act of 1974, referred to in subsecs. (b)(1)(B), (e)(1), and (h)(1)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Trade Act of 1974 is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsecs. (b)(1)(B), (e)(1), and (h)(1)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Trade Act of 1974 is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Trade Act of 1974 is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
-Section 108(b)(5) of Public Law 103–182, referred to in subsec. (b)(5)(D)(ii), was classified to section 3317(b)(5) of this title prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Section 108(b)(5) of Public Law 103–182, referred to in subsec. (b)(5)(D)(ii), was classified to section 3317(b)(5) of this title prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 The United States-Caribbean Basin Trade Partnership Act, referred to in subsec. (b)(5)(E), is title II of Pub. L. 106–200, May 18, 2000, 114 Stat. 275, which amended this section and sections 2701, 2702, 2704, 3202, and 3204 of this title and enacted provisions set out as notes under section 2701 of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 2701 of this title and Tables.
 
@@ -895,93 +895,93 @@ Section 2701 of this title, referred to in subsec. (e)(5)(A), was in the origina
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
-Amendment of subsec. (b)(2)(A)(i) by Pub. L. 107–210, § 3107(a)(1)(B), as amended by Pub. L. 108–429, § 2004(b)(2), was executed after amendment by Pub. L. 107–206, § 3001[(a)](1), as if the amendment by Pub. L. 108–429, § 2004(b)(2), was included in the enactment of Pub. L. 107–210, § 3107(a)(1)(B), and notwithstanding section 3001(c) of Pub. L. 107–206, set out as an Effective Date of 2002 Amendments note below, to reflect the probable intent of Congress.
+Amendment of subsec. (b)(2)(A)(i) by Pub. L. 107–210, § 3107(a)(1)(B), as amended by Pub. L. 108–429, § 2004(b)(2), was executed after amendment by Pub. L. 107–206, § 3001[(a)](1), as if the amendment by Pub. L. 108–429, § 2004(b)(2), was included in the enactment of Pub. L. 107–210, § 3107(a)(1)(B), and notwithstanding section 3001(c) of Pub. L. 107–206, set out as an Effective Date of 2002 Amendments note below, to reflect the probable intent of Congress.
 
-Amendment of subsec. (b)(2)(A)(ii) by Pub. L. 107–210, § 3107(a)(2), was executed after amendment by Pub. L. 107–206, § 3001[(a)](2), notwithstanding section 3001(c) of Pub. L. 107–206, set out as an Effective Date of 2002 Amendments note below, to reflect the probable intent of Congress.
+Amendment of subsec. (b)(2)(A)(ii) by Pub. L. 107–210, § 3107(a)(2), was executed after amendment by Pub. L. 107–206, § 3001[(a)](2), notwithstanding section 3001(c) of Pub. L. 107–206, set out as an Effective Date of 2002 Amendments note below, to reflect the probable intent of Congress.
 
 **Amendments**
 
-2020—Subsec. (b)(2)(A)(iii)(II)(cc), (IV)(dd). Pub. L. 116–164, § 2(1), substituted “September 30, 2030” for “September 30, 2020”.
+2020—Subsec. (b)(2)(A)(iii)(II)(cc), (IV)(dd). Pub. L. 116–164, § 2(1), substituted “September 30, 2030” for “September 30, 2020”.
 
-Subsec. (b)(2)(A)(iv)(II). Pub. L. 116–164, § 2(2), substituted “28” for “18”.
+Subsec. (b)(2)(A)(iv)(II). Pub. L. 116–164, § 2(2), substituted “28” for “18”.
 
-Subsec. (b)(2)(A)(v)(I). Pub. L. 116–260, § 602(b)(2)(A)(i)(I), substituted “Annex 4–B of the USMCA” for “Annex 401 of the NAFTA”.
+Subsec. (b)(2)(A)(v)(I). Pub. L. 116–260, § 602(b)(2)(A)(i)(I), substituted “Annex 4–B of the USMCA” for “Annex 401 of the NAFTA”.
 
-Subsec. (b)(2)(A)(vii)(IV). Pub. L. 116–260, § 602(b)(2)(A)(i)(II), inserted dash after “duty-free from” and item (aa) designation before “a country”, substituted “1995; or” for “1995.”, and added item (bb).
+Subsec. (b)(2)(A)(vii)(IV). Pub. L. 116–260, § 602(b)(2)(A)(i)(II), inserted dash after “duty-free from” and item (aa) designation before “a country”, substituted “1995; or” for “1995.”, and added item (bb).
 
-Subsec. (b)(2)(C). Pub. L. 116–260, § 602(b)(2)(A)(ii), substituted “article 6.2 of the USMCA” for “section 2.3(a), (b), or (c) of the Annex or Appendix 3.1.B.11 of the Annex”.
+Subsec. (b)(2)(C). Pub. L. 116–260, § 602(b)(2)(A)(ii), substituted “article 6.2 of the USMCA” for “section 2.3(a), (b), or (c) of the Annex or Appendix 3.1.B.11 of the Annex”.
 
-Subsec. (b)(3)(A)(i). Pub. L. 116–260, § 602(b)(2)(B), substituted “Annex 2–B of the USMCA” for “Annex 302.2 of the NAFTA”.
+Subsec. (b)(3)(A)(i). Pub. L. 116–260, § 602(b)(2)(B), substituted “Annex 2–B of the USMCA” for “Annex 302.2 of the NAFTA”.
 
-Subsec. (b)(4)(A)(i). Pub. L. 116–260, § 602(b)(2)(C)(i)(I), substituted “article 5.4.1 of the USMCA” for “Article 502(1) of the NAFTA”.
+Subsec. (b)(4)(A)(i). Pub. L. 116–260, § 602(b)(2)(C)(i)(I), substituted “article 5.4.1 of the USMCA” for “Article 502(1) of the NAFTA”.
 
-Subsec. (b)(4)(A)(ii)(I). Pub. L. 116–260, § 602(b)(2)(C)(i)(II), substituted “chapter 5 of the USMCA” for “chapter 5 of the NAFTA” in concluding provisions.
+Subsec. (b)(4)(A)(ii)(I). Pub. L. 116–260, § 602(b)(2)(C)(i)(II), substituted “chapter 5 of the USMCA” for “chapter 5 of the NAFTA” in concluding provisions.
 
-Subsec. (b)(4)(B). Pub. L. 116–260, § 602(b)(2)(C)(ii), substituted “article 5.5 of the USMCA” for “Article 503 of the NAFTA”.
+Subsec. (b)(4)(B). Pub. L. 116–260, § 602(b)(2)(C)(ii), substituted “article 5.5 of the USMCA” for “Article 503 of the NAFTA”.
 
-Subsec. (b)(5)(A). Pub. L. 116–260, § 602(b)(2)(D)(i), substituted “North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992” for “NAFTA”.
+Subsec. (b)(5)(A). Pub. L. 116–260, § 602(b)(2)(D)(i), substituted “North American Free Trade Agreement entered into between the United States, Mexico, and Canada on December 17, 1992” for “NAFTA”.
 
-Subsec. (b)(5)(C). Pub. L. 116–260, § 602(b)(2)(D)(ii), substituted “USMCA” for “NAFTA” wherever appearing.
+Subsec. (b)(5)(C). Pub. L. 116–260, § 602(b)(2)(D)(ii), substituted “USMCA” for “NAFTA” wherever appearing.
 
-Subsec. (b)(5)(D)(i). Pub. L. 116–164, § 2(3), substituted “September 30, 2030” for “September 30, 2020”.
+Subsec. (b)(5)(D)(i). Pub. L. 116–164, § 2(3), substituted “September 30, 2030” for “September 30, 2020”.
 
-2010—Subsec. (b)(2)(A)(iii)(II)(cc), (IV)(dd). Pub. L. 111–171, § 3(1)(A)(i), substituted “September 30, 2020” for “September 30, 2010”.
+2010—Subsec. (b)(2)(A)(iii)(II)(cc), (IV)(dd). Pub. L. 111–171, § 3(1)(A)(i), substituted “September 30, 2020” for “September 30, 2010”.
 
-Subsec. (b)(2)(A)(iv)(II). Pub. L. 111–171, § 3(1)(A)(ii), substituted “18” for “8”.
+Subsec. (b)(2)(A)(iv)(II). Pub. L. 111–171, § 3(1)(A)(ii), substituted “18” for “8”.
 
-Subsec. (b)(5)(D)(i). Pub. L. 111–171, § 3(1)(B), substituted “September 30, 2020” for “September 30, 2010”.
+Subsec. (b)(5)(D)(i). Pub. L. 111–171, § 3(1)(B), substituted “September 30, 2020” for “September 30, 2010”.
 
-2008—Subsec. (b)(2)(A)(iii)(II)(cc), (IV)(dd). Pub. L. 110–246, § 15408(1)(A), substituted “2010” for “2008”.
+2008—Subsec. (b)(2)(A)(iii)(II)(cc), (IV)(dd). Pub. L. 110–246, § 15408(1)(A), substituted “2010” for “2008”.
 
-Subsec. (b)(2)(A)(iv)(II). Pub. L. 110–246, § 15408(1)(B), substituted “8” for “6”.
+Subsec. (b)(2)(A)(iv)(II). Pub. L. 110–246, § 15408(1)(B), substituted “8” for “6”.
 
-Subsec. (b)(5)(D)(i). Pub. L. 110–246, § 15408(2)(A), substituted “2010” for “2008”.
+Subsec. (b)(5)(D)(i). Pub. L. 110–246, § 15408(2)(A), substituted “2010” for “2008”.
 
-Subsec. (b)(5)(D)(ii). Pub. L. 110–246, § 15408(2)(B), substituted “set forth in section 3317(b)(5)” for “set forth in 3317(b)(5)”.
+Subsec. (b)(5)(D)(ii). Pub. L. 110–246, § 15408(2)(B), substituted “set forth in section 3317(b)(5)” for “set forth in 3317(b)(5)”.
 
 2006—Subsec. (b)(2)(A)(v)(III). Pub. L. 109–432 added subcl. (III).
 
-2005—Subsec. (a)(1). Pub. L. 109–53, §§ 107(d), 402(c), temporarily substituted “the Commonwealth of Puerto Rico, the United States Virgin Islands, and any former beneficiary country” for “the Commonwealth of Puerto Rico and the United States Virgin Islands” in concluding provisions. See Effective and Termination Dates of 2005 Amendment note below.
+2005—Subsec. (a)(1). Pub. L. 109–53, §§ 107(d), 402(c), temporarily substituted “the Commonwealth of Puerto Rico, the United States Virgin Islands, and any former beneficiary country” for “the Commonwealth of Puerto Rico and the United States Virgin Islands” in concluding provisions. See Effective and Termination Dates of 2005 Amendment note below.
 
-Subsec. (b)(5)(G), (H). Pub. L. 109–53, §§ 107(d), 402(d), temporarily added subpars. (G) and (H). See Effective and Termination Dates of 2005 Amendment note below.
+Subsec. (b)(5)(G), (H). Pub. L. 109–53, §§ 107(d), 402(d), temporarily added subpars. (G) and (H). See Effective and Termination Dates of 2005 Amendment note below.
 
-2004—Subsec. (b)(1)(B). Pub. L. 108–429, § 1558(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “footwear not designated at the time of the effective date of this chapter as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974;”.
+2004—Subsec. (b)(1)(B). Pub. L. 108–429, § 1558(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “footwear not designated at the time of the effective date of this chapter as eligible articles for the purpose of the generalized system of preferences under title V of the Trade Act of 1974;”.
 
-Subsec. (b)(2)(A)(i). Pub. L. 108–429, § 2004(b)(2), amended directory language of Pub. L. 107–210, § 3107(a)(1)(B). See Codification note above and 2002 Amendment note below.
+Subsec. (b)(2)(A)(i). Pub. L. 108–429, § 2004(b)(2), amended directory language of Pub. L. 107–210, § 3107(a)(1)(B). See Codification note above and 2002 Amendment note below.
 
-Pub. L. 108–429, § 2004(b)(1)(A), substituted “or both (including” for “(including” in introductory provisions.
+Pub. L. 108–429, § 2004(b)(1)(A), substituted “or both (including” for “(including” in introductory provisions.
 
-Subsec. (b)(2)(A)(v)(I). Pub. L. 108–429, § 2004(b)(1)(B), struck out “, from fabrics or yarn that is not formed in the United States or in one or more CBTPA beneficiary countries” after “countries”.
+Subsec. (b)(2)(A)(v)(I). Pub. L. 108–429, § 2004(b)(1)(B), struck out “, from fabrics or yarn that is not formed in the United States or in one or more CBTPA beneficiary countries” after “countries”.
 
-Subsec. (b)(2)(A)(vii)(IV). Pub. L. 108–429, § 2004(b)(1)(C), substituted “(i), (ii), or (ix)” for “(i) or (ii)”.
+Subsec. (b)(2)(A)(vii)(IV). Pub. L. 108–429, § 2004(b)(1)(C), substituted “(i), (ii), or (ix)” for “(i) or (ii)”.
 
-Subsec. (b)(3)(A)(i). Pub. L. 108–429, § 1558(2)(A), substituted “Subject to clauses (ii) and (iii)” for “Subject to clause (ii)”.
+Subsec. (b)(3)(A)(i). Pub. L. 108–429, § 1558(2)(A), substituted “Subject to clauses (ii) and (iii)” for “Subject to clause (ii)”.
 
-Subsec. (b)(3)(A)(iii). Pub. L. 108–429, § 1558(2)(B), added cl. (iii).
+Subsec. (b)(3)(A)(iii). Pub. L. 108–429, § 1558(2)(B), added cl. (iii).
 
-2002—Subsec. (b)(2)(A)(i). Pub. L. 107–210, § 3107(a)(1)(B), as amended by Pub. L. 108–429, § 2004(b)(2), substituted “Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” for “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
+2002—Subsec. (b)(2)(A)(i). Pub. L. 107–210, § 3107(a)(1)(B), as amended by Pub. L. 108–429, § 2004(b)(2), substituted “Apparel articles entered on or after September 1, 2002, shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles entered on or after September 1, 2002, shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” for “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
-Pub. L. 107–210, § 3107(a)(1)(A), added introductory provisions and struck out former introductory provisions which read as follows: “Apparel articles assembled in one or more CBTPA beneficiary countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed and cut in the United States) that are—”.
+Pub. L. 107–210, § 3107(a)(1)(A), added introductory provisions and struck out former introductory provisions which read as follows: “Apparel articles assembled in one or more CBTPA beneficiary countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed and cut in the United States) that are—”.
 
-Pub. L. 107–206, § 3001[(a)](1), inserted at end “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
+Pub. L. 107–206, § 3001[(a)](1), inserted at end “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
-Subsec. (b)(2)(A)(ii). Pub. L. 107–210, § 3107(a)(2), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more CBTPA beneficiary countries from fabric wholly formed in the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States), if such articles are assembled in one or more such countries with thread formed in the United States. Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
+Subsec. (b)(2)(A)(ii). Pub. L. 107–210, § 3107(a)(2), amended heading and text of cl. (ii) generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more CBTPA beneficiary countries from fabric wholly formed in the United States from yarns wholly formed in the United States (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the HTS and are wholly formed in the United States), if such articles are assembled in one or more such countries with thread formed in the United States. Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
-Pub. L. 107–206, § 3001[(a)](2), inserted at end “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
+Pub. L. 107–206, § 3001[(a)](2), inserted at end “Apparel articles shall qualify under the preceding sentence only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are knit fabrics, is carried out in the United States. Apparel articles shall qualify under the first sentence of this clause only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled, if the fabrics are woven fabrics, is carried out in the United States.” See Codification note above.
 
-Subsec. (b)(2)(A)(iii)(II). Pub. L. 107–210, § 3107(a)(3), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “The amount referred to in subclause (I) is—
+Subsec. (b)(2)(A)(iii)(II). Pub. L. 107–210, § 3107(a)(3), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “The amount referred to in subclause (I) is—
 
 “(aa) 250,000,000 square meter equivalents during the 1-year period beginning on October 1, 2000, increased by 16 percent, compounded annually, in each succeeding 1-year period through September 30, 2004; and
 
 “(bb) in each 1-year period thereafter through September 30, 2008, the amount in effect for the 1-year period ending on September 30, 2004, or such other amount as may be provided by law.”
 
-Subsec. (b)(2)(A)(iii)(IV). Pub. L. 107–210, § 3107(a)(4), amended subcl. (IV) generally. Prior to amendment, subcl. (IV) read as follows: “the amount referred to in subclause (III) is—
+Subsec. (b)(2)(A)(iii)(IV). Pub. L. 107–210, § 3107(a)(4), amended subcl. (IV) generally. Prior to amendment, subcl. (IV) read as follows: “the amount referred to in subclause (III) is—
 
 “(aa) 4,200,000 dozen during the 1-year period beginning on October 1, 2000, increased by 16 percent, compounded annually, in each succeeding 1-year period through September 30, 2004; and
 
 “(bb) in each 1-year period thereafter, the amount in effect for the 1-year period ending on September 30, 2004, or such other amount as may be provided by law.”
 
-Subsec. (b)(2)(A)(iv). Pub. L. 107–210, § 3107(a)(5), amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows:
+Subsec. (b)(2)(A)(iv). Pub. L. 107–210, § 3107(a)(5), amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows:
 
 “(I) Subject to subclause (II), any apparel article classifiable under subheading 6212.10 of the HTS, if the article is both cut and sewn or otherwise assembled in the United States, or one or more of the CBTPA beneficiary countries, or both.
 
@@ -989,17 +989,17 @@ Subsec. (b)(2)(A)(iv). Pub. L. 107–210, § 3107(a)(5), amended heading and t
 
 “(III) The United States Customs Service shall develop and implement methods and procedures to ensure ongoing compliance with the requirement set forth in subclause (II). If the Customs Service finds that a producer or an entity controlling production has not satisfied such requirement in a 1-year period, then apparel articles described in subclause (I) of that producer or entity shall be ineligible for preferential treatment under subparagraph (B) during any succeeding 1-year period until the aggregate cost of fabric components formed in the United States used in the production of such articles of that producer or entity in the preceding 1-year period is at least 85 percent of the aggregate declared customs value of the fabric contained in all such articles of that producer or entity that are entered during the preceding 1-year period.”
 
-Subsec. (b)(2)(A)(vii)(V). Pub. L. 107–210, § 3107(a)(6), added subcl. (V).
+Subsec. (b)(2)(A)(vii)(V). Pub. L. 107–210, § 3107(a)(6), added subcl. (V).
 
-Subsec. (b)(2)(A)(ix). Pub. L. 107–210, § 3107(a)(7), added cl. (ix).
+Subsec. (b)(2)(A)(ix). Pub. L. 107–210, § 3107(a)(7), added cl. (ix).
 
-2000—Subsec. (a)(1). Pub. L. 106–200, § 211(e)(1)(B), inserted “and except as provided in subsection (b)(2) and (3),” after “Tax Reform Act of 1986,” in introductory provisions.
+2000—Subsec. (a)(1). Pub. L. 106–200, § 211(e)(1)(B), inserted “and except as provided in subsection (b)(2) and (3),” after “Tax Reform Act of 1986,” in introductory provisions.
 
-Subsec. (a)(5). Pub. L. 106–200, § 212(1), made technical amendment to reference in original act which appears in text as reference to this chapter.
+Subsec. (a)(5). Pub. L. 106–200, § 212(1), made technical amendment to reference in original act which appears in text as reference to this chapter.
 
-Subsec. (a)(6). Pub. L. 106–200, § 212(2), added par. (6).
+Subsec. (a)(6). Pub. L. 106–200, § 212(2), added par. (6).
 
-Subsec. (b). Pub. L. 106–200, § 211(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “The duty-free treatment provided under this chapter shall not apply to—
+Subsec. (b). Pub. L. 106–200, § 211(a), inserted heading and amended text generally. Prior to amendment, text read as follows: “The duty-free treatment provided under this chapter shall not apply to—
 
 “(1) textile and apparel articles which are subject to textile agreements;
 
@@ -1015,59 +1015,59 @@ Subsec. (b). Pub. L. 106–200, § 211(a), inserted heading and amended text g
 
 1994—Subsec. (d). Pub. L. 103–465 amended subsec. (d) generally, substituting present provisions for provisions which established price support program protection for certain agricultural products from beneficiary countries.
 
-1990—Subsec. (a)(5). Pub. L. 101–382, § 215(a), added par. (5).
+1990—Subsec. (a)(5). Pub. L. 101–382, § 215(a), added par. (5).
 
-Subsec. (b)(2). Pub. L. 101–382, § 212(b)(1), struck out “, handbags, luggage, flat goods, work gloves, and leather wearing apparel” after “footwear”.
+Subsec. (b)(2). Pub. L. 101–382, § 212(b)(1), struck out “, handbags, luggage, flat goods, work gloves, and leather wearing apparel” after “footwear”.
 
-Subsec. (b)(6). Pub. L. 101–382, § 212(b)(2)–(4), added par. (6).
+Subsec. (b)(6). Pub. L. 101–382, § 212(b)(2)–(4), added par. (6).
 
-Subsec. (h). Pub. L. 101–382, § 212(a), added subsec. (h).
+Subsec. (h). Pub. L. 101–382, § 212(a), added subsec. (h).
 
-1988—Subsec. (b)(4). Pub. L. 100–418, § 1214(q)(2)(A)(i), substituted “headings 2709 and 2710 of the Harmonized Tariff Schedule of the United States” for “part 10 of schedule 4 of the TSUS”.
+1988—Subsec. (b)(4). Pub. L. 100–418, § 1214(q)(2)(A)(i), substituted “headings 2709 and 2710 of the Harmonized Tariff Schedule of the United States” for “part 10 of schedule 4 of the TSUS”.
 
-Subsec. (b)(5). Pub. L. 100–418, § 1214(q)(2)(A)(ii), substituted “HTS” for “TSUS”.
+Subsec. (b)(5). Pub. L. 100–418, § 1214(q)(2)(A)(ii), substituted “HTS” for “TSUS”.
 
-Subsec. (c)(1)(A)(i). Pub. L. 100–418, § 1214(q)(2)(B)(i), substituted “subheadings 1701.11.00, 1701.12.00, 1701.91.20, 1701.99.00, 1702.90.30, 1806.10.40, and 2106.90.10 of the Harmonized Tariff Schedule of the United States” for “items 155.20 and 155.30 of the TSUS”.
+Subsec. (c)(1)(A)(i). Pub. L. 100–418, § 1214(q)(2)(B)(i), substituted “subheadings 1701.11.00, 1701.12.00, 1701.91.20, 1701.99.00, 1702.90.30, 1806.10.40, and 2106.90.10 of the Harmonized Tariff Schedule of the United States” for “items 155.20 and 155.30 of the TSUS”.
 
-Subsec. (c)(1)(A)(ii). Pub. L. 100–418, § 1214(q)(2)(B)(ii), substituted “chapters 2 and 16 of the Harmonized Tariff Schedule of the United States” for “subpart B of part 2 of schedule 1 of the TSUS”.
+Subsec. (c)(1)(A)(ii). Pub. L. 100–418, § 1214(q)(2)(B)(ii), substituted “chapters 2 and 16 of the Harmonized Tariff Schedule of the United States” for “subpart B of part 2 of schedule 1 of the TSUS”.
 
-Subsec. (d). Pub. L. 100–418, § 1214(q)(2)(C), substituted “subheadings 1701.11.00, 1701.12.00, 1701.91.20, 1701.99.00, 1702.90.30, 1806.10.40, and 2106.90.10 of the Harmonized Tariff Schedule of the United States” for “items 155.20 and 155.30 of the TSUS”.
+Subsec. (d). Pub. L. 100–418, § 1214(q)(2)(C), substituted “subheadings 1701.11.00, 1701.12.00, 1701.91.20, 1701.99.00, 1702.90.30, 1806.10.40, and 2106.90.10 of the Harmonized Tariff Schedule of the United States” for “items 155.20 and 155.30 of the TSUS”.
 
-Subsec. (e)(1). Pub. L. 100–418, § 1401(b)(2)(A), substituted “provided under chapter 1 of title II” for “proclaimed pursuant to section 203”.
+Subsec. (e)(1). Pub. L. 100–418, § 1401(b)(2)(A), substituted “provided under chapter 1 of title II” for “proclaimed pursuant to section 203”.
 
-Subsec. (e)(2). Pub. L. 100–418, § 1401(b)(2)(B), substituted “section 202(f)” for “section 201(d)(1)”.
+Subsec. (e)(2). Pub. L. 100–418, § 1401(b)(2)(B), substituted “section 202(f)” for “section 201(d)(1)”.
 
-Subsec. (e)(3). Pub. L. 100–418, § 1401(b)(2)(C), substituted “section 203” for “(a) and (c) of section 203”.
+Subsec. (e)(3). Pub. L. 100–418, § 1401(b)(2)(C), substituted “section 203” for “(a) and (c) of section 203”.
 
-Subsec. (e)(4). Pub. L. 100–418, § 1401(b)(2)(D), substituted “taken under section 203” for “made under subsections (a) and (c) of section 203”, “under section 202(b) of the Trade Act of 1974” for “under section 201(b) of the Trade Act of 1974”, and “under such section” for “under section 201(b) of such Act”.
+Subsec. (e)(4). Pub. L. 100–418, § 1401(b)(2)(D), substituted “taken under section 203” for “made under subsections (a) and (c) of section 203”, “under section 202(b) of the Trade Act of 1974” for “under section 201(b) of the Trade Act of 1974”, and “under such section” for “under section 201(b) of such Act”.
 
-Subsec. (e)(5)(A). Pub. L. 100–418, § 1401(b)(2)(E)(i), substituted “action taken under section 203” for “proclamation issued pursuant to section 203”.
+Subsec. (e)(5)(A). Pub. L. 100–418, § 1401(b)(2)(E)(i), substituted “action taken under section 203” for “proclamation issued pursuant to section 203”.
 
-Subsec. (e)(5)(B). Pub. L. 100–418, § 1401(b)(2)(E)(ii), substituted “to any such action” for “to import relief”, “such action” for “such import relief”, and “section 203” for “subsections (h) and (i) of section 203”.
+Subsec. (e)(5)(B). Pub. L. 100–418, § 1401(b)(2)(E)(ii), substituted “to any such action” for “to import relief”, “such action” for “such import relief”, and “section 203” for “subsections (h) and (i) of section 203”.
 
-Subsec. (f)(4)(A). Pub. L. 100–418, § 1401(b)(2)(F)(i), substituted “taking of action under section 203” for “proclamation of import relief pursuant to section 202(a)(1)”.
+Subsec. (f)(4)(A). Pub. L. 100–418, § 1401(b)(2)(F)(i), substituted “taking of action under section 203” for “proclamation of import relief pursuant to section 202(a)(1)”.
 
-Subsec. (f)(4)(B). Pub. L. 100–418, § 1401(b)(2)(F)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “on the day the President makes a determination pursuant to section 203(b)(2) of such Act [19 U.S.C. 2253(b)(2)] not to impose import relief,”.
+Subsec. (f)(4)(B). Pub. L. 100–418, § 1401(b)(2)(F)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “on the day the President makes a determination pursuant to section 203(b)(2) of such Act [19 U.S.C. 2253(b)(2)] not to impose import relief,”.
 
-Subsec. (f)(5)(A). Pub. L. 100–418, § 1214(q)(2)(D)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “live plants provided for in subpart A of part 6 of schedule 1 of the TSUS;”.
+Subsec. (f)(5)(A). Pub. L. 100–418, § 1214(q)(2)(D)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “live plants provided for in subpart A of part 6 of schedule 1 of the TSUS;”.
 
-Subsec. (f)(5)(B). Pub. L. 100–418, § 1214(q)(2)(D)(ii), substituted “headings 0701 through 0709 (except subheading 0709.52.00) and heading 0714 of the HTS” for “items 135.10 through 138.46 of the TSUS”.
+Subsec. (f)(5)(B). Pub. L. 100–418, § 1214(q)(2)(D)(ii), substituted “headings 0701 through 0709 (except subheading 0709.52.00) and heading 0714 of the HTS” for “items 135.10 through 138.46 of the TSUS”.
 
-Subsec. (f)(5)(C). Pub. L. 100–418, § 1214(q)(2)(D)(iv), as amended by Pub. L. 100–647, § 9001(a)(14), redesignated subpar. (D) as (C) and substituted “subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00, tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and” for “items 146.10, 146.20, 146.30, 146.50 through 146.62, 146.90, 146.91, 147.03 through 147.33, 147.50 through 149.21 and 149.50 of the TSUS;”.
+Subsec. (f)(5)(C). Pub. L. 100–418, § 1214(q)(2)(D)(iv), as amended by Pub. L. 100–647, § 9001(a)(14), redesignated subpar. (D) as (C) and substituted “subheadings 0804.20 through 0810.90 (except citrons of subheading 0805.90.00, tamarinds and kiwi fruit of subheading 0810.90.20, and cashew apples, mameyes colorados, sapodillas, soursops and sweetsops of subheading 0810.90.40) of the HTS; and” for “items 146.10, 146.20, 146.30, 146.50 through 146.62, 146.90, 146.91, 147.03 through 147.33, 147.50 through 149.21 and 149.50 of the TSUS;”.
 
-Pub. L. 100–418, § 1214(q)(2)(D)(iii), struck out subpar. (C) “fresh mushrooms provided for in item 144.10 of the TSUS;”.
+Pub. L. 100–418, § 1214(q)(2)(D)(iii), struck out subpar. (C) “fresh mushrooms provided for in item 144.10 of the TSUS;”.
 
-Subsec. (f)(5)(D). Pub. L. 100–418, § 1214(q)(2)(D)(vi), as amended by Pub. L. 100–647, § 9001(a)(14)(C), redesignated subpar. (F) as (D) and substituted “subheading 2009.11.00, 2009.19.40, 2009.30.20, and 2009.30.60 of the HTS” for “item 165.35 of the TSUS”. Former subpar. (D) redesignated (C).
+Subsec. (f)(5)(D). Pub. L. 100–418, § 1214(q)(2)(D)(vi), as amended by Pub. L. 100–647, § 9001(a)(14)(C), redesignated subpar. (F) as (D) and substituted “subheading 2009.11.00, 2009.19.40, 2009.30.20, and 2009.30.60 of the HTS” for “item 165.35 of the TSUS”. Former subpar. (D) redesignated (C).
 
-Subsec. (f)(5)(E). Pub. L. 100–418, § 1214(q)(2)(D)(v), struck out subpar. (E) “fresh cut flowers provided for in items 192.17, 192.18, and 192.21 of the TSUS; and”.
+Subsec. (f)(5)(E). Pub. L. 100–418, § 1214(q)(2)(D)(v), struck out subpar. (E) “fresh cut flowers provided for in items 192.17, 192.18, and 192.21 of the TSUS; and”.
 
-Subsec. (f)(5)(F). Pub. L. 100–418, § 1214(q)(2)(D)(vi), as amended by Pub. L. 100–647, § 9001(a)(14)(C), redesignated subpar. (F) as (D).
+Subsec. (f)(5)(F). Pub. L. 100–418, § 1214(q)(2)(D)(vi), as amended by Pub. L. 100–647, § 9001(a)(14)(C), redesignated subpar. (F) as (D).
 
-1986—Subsec. (a)(1). Pub. L. 99–514, § 423(f)(2), inserted “and subject to section 423 of the Tax Reform Act of 1986,” after “eligibility by this chapter,”.
+1986—Subsec. (a)(1). Pub. L. 99–514, § 423(f)(2), inserted “and subject to section 423 of the Tax Reform Act of 1986,” after “eligibility by this chapter,”.
 
-Subsec. (a)(3), (4). Pub. L. 99–514, § 1890(1), redesignated par. (3) relating to products of a beneficiary country imported directly into Puerto Rico as (4), realigned the margins, and substituted “any beneficiary” for “such”.
+Subsec. (a)(3), (4). Pub. L. 99–514, § 1890(1), redesignated par. (3) relating to products of a beneficiary country imported directly into Puerto Rico as (4), realigned the margins, and substituted “any beneficiary” for “such”.
 
-Subsec. (f)(5)(B). Pub. L. 99–514, § 1890(2), substituted “138.46” for “138.42”.
+Subsec. (f)(5)(B). Pub. L. 99–514, § 1890(2), substituted “138.46” for “138.42”.
 
 1984—Subsec. (a)(3). Pub. L. 98–573 added par. (3) relating to products of a beneficiary country imported directly from such country into Puerto Rico.
 
@@ -1085,7 +1085,7 @@ Amendment by section 15408 of Pub. L. 110–246 effective June 18, 2008, see sec
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–432, div. D, title V, § 5006, Dec. 20, 2006, 120 Stat. 3190, provided that: “This title [enacting section 2703a of this title, amending this section and section 3203 of this title, and enacting provisions set out as a note under section 2701 of this title] and the amendments made by this title apply to articles entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act [Dec. 20, 2006].”
+Pub. L. 109–432, div. D, title V, § 5006, Dec. 20, 2006, 120 Stat. 3190, provided that: “This title [enacting section 2703a of this title, amending this section and section 3203 of this title, and enacting provisions set out as a note under section 2701 of this title] and the amendments made by this title apply to articles entered, or withdrawn from warehouse for consumption, on or after the 15th day after the date of the enactment of this Act [Dec. 20, 2006].”
 
 **Effective and Termination Dates of 2005 Amendment**
 
@@ -1097,9 +1097,9 @@ Except as otherwise provided, amendment by section 1558 of Pub. L. 108–429 app
 
 **Effective Date of 2002 Amendments**
 
-Pub. L. 107–210, div. C, title XXXI, § 3107(b), Aug. 6, 2002, 116 Stat. 1038, provided that: “The amendment made by subsection (a)(3) [amending this section] shall take effect on October 1, 2002.”
+Pub. L. 107–210, div. C, title XXXI, § 3107(b), Aug. 6, 2002, 116 Stat. 1038, provided that: “The amendment made by subsection (a)(3) [amending this section] shall take effect on October 1, 2002.”
 
-Pub. L. 107–206, title III, § 3001(c), Aug. 2, 2002, 116 Stat. 910, provided that:
+Pub. L. 107–206, title III, § 3001(c), Aug. 2, 2002, 116 Stat. 910, provided that:
 
 > “Subsection (b) [enacting provisions set out as a note under section 3203 of this title] and the amendments made by subsection (a) [amending this section] shall take effect—
 
@@ -1115,7 +1115,7 @@ Amendment by Pub. L. 103–465 effective on the date of entry into force of the 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–382, title II, § 215(b), Aug. 20, 1990, 104 Stat. 657, provided that:
+Pub. L. 101–382, title II, § 215(b), Aug. 20, 1990, 104 Stat. 657, provided that:
 
 > **“(1)** The amendment made by subsection (a) [amending this section] shall apply with respect to articles entered, or withdrawn from warehouse for consumption, on or after October 1, 1990.
 
@@ -1133,11 +1133,11 @@ Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Au
 
 Amendment by section 1214(q)(2) of Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
-Amendment by section 1401(b)(2) of Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
+Amendment by section 1401(b)(2) of Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title on or after that date, see section 1401(c) of Pub. L. 100–418, set out as a note under section 2251 of this title.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title IV, § 423(g), Oct. 22, 1986, 100 Stat. 2233, provided that:
+Pub. L. 99–514, title IV, § 423(g), Oct. 22, 1986, 100 Stat. 2233, provided that:
 
 > **“(1)** The provisions of, and the amendments made by, this section (other than subsection (e)) [amending this section and General Headnote 3(a)(i) of the Tariff Schedules of the United States formerly set out under section 1202 of this title and enacting provisions set out as a note below] shall apply to articles entered—
 
@@ -1161,7 +1161,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Entries of Certain Apparel Articles Pursuant to the Caribbean Basin Economic Recovery Act**
 
-Pub. L. 108–429, title II, § 2004(g), Dec. 3, 2004, 118 Stat. 2593, provided that:
+Pub. L. 108–429, title II, § 2004(g), Dec. 3, 2004, 118 Stat. 2593, provided that:
 
 > **“(1) In general.—** Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, the Customs Service [Bureau of Customs and Border Protection] shall liquidate or reliquidate as free of duty and free of any quantitative restrictions, limitations, or consultation levels entries of articles described in paragraph (4) made on or after October 1, 2000.
 
@@ -1173,11 +1173,11 @@ Pub. L. 108–429, title II, § 2004(g), Dec. 3, 2004, 118 Stat. 2593, provide
 
 **Reference to Customs Service Considered Reference to Bureau of Customs and Border Protection in Pub. L. 108–429**
 
-Pub. L. 108–429, title V, § 5001, Dec. 3, 2004, 118 Stat. 2604, provided that: “Except as otherwise expressly provided, any reference in this Act [see Short Title of 2004 Amendment note set out under section 1654 of this title] to the ‘United States Customs Service’ or the ‘Customs Service’ shall be considered to be a reference to the ‘Bureau of Customs and Border Protection’ of the Department of Homeland Security.”
+Pub. L. 108–429, title V, § 5001, Dec. 3, 2004, 118 Stat. 2604, provided that: “Except as otherwise expressly provided, any reference in this Act [see Short Title of 2004 Amendment note set out under section 1654 of this title] to the ‘United States Customs Service’ or the ‘Customs Service’ shall be considered to be a reference to the ‘Bureau of Customs and Border Protection’ of the Department of Homeland Security.”
 
 **Ethyl Alcohol and Mixtures Thereof for Fuel Use**
 
-Pub. L. 99–514, title IV, § 423(a)–(c), (e), Oct. 22, 1986, 100 Stat. 2230–2232, as amended by Pub. L. 100–418, title I, § 1910(a), Aug. 23, 1988, 102 Stat. 1319; Pub. L. 101–221, § 7(a), Dec. 12, 1989, 103 Stat. 1890, provided that:
+Pub. L. 99–514, title IV, § 423(a)–(c), (e), Oct. 22, 1986, 100 Stat. 2230–2232, as amended by Pub. L. 100–418, title I, § 1910(a), Aug. 23, 1988, 102 Stat. 1319; Pub. L. 101–221, § 7(a), Dec. 12, 1989, 103 Stat. 1890, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), no ethyl alcohol or a mixture thereof may be considered—
 
@@ -1285,15 +1285,15 @@ Pub. L. 99–514, title IV, § 423(a)–(c), (e), Oct. 22, 1986, 100 Stat. 223
 
 > **“(B)** any agreement entered into under section 102(b) of the Trade Act of 1974 [19 U.S.C. 2112(b)].”
 
-[Pub. L. 101–221, § 7(b), Dec. 12, 1989, 103 Stat. 1891, as amended by Pub. L. 101–382, title II, § 225, Aug. 20, 1990, 104 Stat. 660, provided that: “The amendments made by subsection (a) [amending section 423(c) of Pub. L. 99–514, set out above] shall apply with respect to calendar years after 1989.” ]
+[Pub. L. 101–221, § 7(b), Dec. 12, 1989, 103 Stat. 1891, as amended by Pub. L. 101–382, title II, § 225, Aug. 20, 1990, 104 Stat. 660, provided that: “The amendments made by subsection (a) [amending section 423(c) of Pub. L. 99–514, set out above] shall apply with respect to calendar years after 1989.” ]
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1801–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 **Duty-Free Treatment of Imported Rum; Compensation Measures; Presidential Authority; Report to Congress**
 
-Pub. L. 98–67, title II, § 214(c), Aug. 5, 1983, 97 Stat. 393, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If the sum of the amounts of taxes covered into the treasuries of Puerto Rico or the United States Virgin Islands pursuant to section 7652(c) of the Internal Revenue Code of 1986 [26 U.S.C. 7652(c)] is reduced below the amount that would have been covered over if the imported rum had been produced in Puerto Rico or the United States Virgin Islands, then the President shall consider compensation measures and, in this regard, may withdraw the duty-free treatment on rum provided by this title [this chapter]. The President shall submit a report to the Congress on the measures he takes.”
+Pub. L. 98–67, title II, § 214(c), Aug. 5, 1983, 97 Stat. 393, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “If the sum of the amounts of taxes covered into the treasuries of Puerto Rico or the United States Virgin Islands pursuant to section 7652(c) of the Internal Revenue Code of 1986 [26 U.S.C. 7652(c)] is reduced below the amount that would have been covered over if the imported rum had been produced in Puerto Rico or the United States Virgin Islands, then the President shall consider compensation measures and, in this regard, may withdraw the duty-free treatment on rum provided by this title [this chapter]. The President shall submit a report to the Congress on the measures he takes.”
 
 **Executive Documents**
 
@@ -1335,7 +1335,7 @@ Sec. 10. *Bilateral Emergency Tariff Actions*. The Committee is authorized to ex
 
 Sec. 11. *Judicial Review*. This order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
 
-## § 2703a. Special rules for Haiti
+## § 2703a. Special rules for Haiti
 
 **(a) Definitions** In this section:
 
@@ -1381,9 +1381,9 @@ The terms “enter” and “entry” refer to the entry, or withdrawal from war
 
 **(6) Knit-to-shape**
 
-A good is “knit-to-shape” if 50 percent or more of the exterior surface area of the good is formed by major parts that have been knitted or crocheted directly to the shape used in the good, with no consideration being given to patch pockets, appliqués, or the like. Minor cutting, trimming, or sewing of those major parts shall not affect the determination of whether a good is “knit-to-shape.” 1
+A good is “knit-to-shape” if 50 percent or more of the exterior surface area of the good is formed by major parts that have been knitted or crocheted directly to the shape used in the good, with no consideration being given to patch pockets, appliqués, or the like. Minor cutting, trimming, or sewing of those major parts shall not affect the determination of whether a good is “knit-to-shape.” 1
 
-<sup>1</sup>  So in original. The closing quotation marks probably should precede the period.
+<sup>1</sup> So in original. The closing quotation marks probably should precede the period.
 
 **(7) TAICNAR Program**
 
@@ -1992,7 +1992,7 @@ The Secretary of Commerce shall establish a program to provide earned import all
 
 **(VI)** The program under this subparagraph shall be established so as to allow, to the extent feasible, the submission, storage, retrieval, and disclosure of information in electronic format, including information with respect to the earned import allowance certificates required under subparagraph (A)(i).2
 
-<sup>2</sup>  So in original. Probably should refer to cl. (i) of this subparagraph.
+<sup>2</sup> So in original. Probably should refer to cl. (i) of this subparagraph.
 
 **(VII)** The Secretary of Commerce may reconcile discrepancies in information provided under subclause (III) or (IV) and verify the accuracy of such information.
 
@@ -2312,7 +2312,7 @@ The President shall issue regulations to carry out this section not later than 1
 
 The duty-free treatment provided under this section shall remain in effect until December 31, 2026.
 
-(Pub. L. 98–67, title II, § 213A, as added Pub. L. 109–432, div. D, title V, § 5002(a), Dec. 20, 2006, 120 Stat. 3181; amended Pub. L. 110–234, title XV, §§ 15402–15405, May 22, 2008, 122 Stat. 1527–1545; Pub. L. 110–246, § 4(a), title XV, §§ 15402–15405, June 18, 2008, 122 Stat. 1664, 2289–2307; Pub. L. 110–436, § 7, Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–171, §§ 3(2)–8, May 24, 2010, 124 Stat. 1195–1205; Pub. L. 112–234, § 2(f), Dec. 28, 2012, 126 Stat. 1625; Pub. L. 114–27, title III, § 301, June 29, 2015, 129 Stat. 373; Pub. L. 116–260, div. O, title VI, § 602(b)(3), Dec. 27, 2020, 134 Stat. 2153; Pub. L. 119–75, div. I, § 5020(a), Feb. 3, 2026, 140 Stat. 633.)
+(Pub. L. 98–67, title II, § 213A, as added Pub. L. 109–432, div. D, title V, § 5002(a), Dec. 20, 2006, 120 Stat. 3181; amended Pub. L. 110–234, title XV, §§ 15402–15405, May 22, 2008, 122 Stat. 1527–1545; Pub. L. 110–246, § 4(a), title XV, §§ 15402–15405, June 18, 2008, 122 Stat. 1664, 2289–2307; Pub. L. 110–436, § 7, Oct. 16, 2008, 122 Stat. 4981; Pub. L. 111–171, §§ 3(2)–8, May 24, 2010, 124 Stat. 1195–1205; Pub. L. 112–234, § 2(f), Dec. 28, 2012, 126 Stat. 1625; Pub. L. 114–27, title III, § 301, June 29, 2015, 129 Stat. 373; Pub. L. 116–260, div. O, title VI, § 602(b)(3), Dec. 27, 2020, 134 Stat. 2153; Pub. L. 119–75, div. I, § 5020(a), Feb. 3, 2026, 140 Stat. 633.)
 
 **Editorial Notes**
 
@@ -2322,7 +2322,7 @@ This chapter, referred to in subsec. (b)(1)(D), (2)(A)(iii), (B)(iv), (6), was i
 
 Proclamation 8213 of the President of December 20, 2007, referred to in subsec. (b)(3)(B), is Proc. No. 8213, Dec. 20, 2007, 72 F.R. 73555. Par. (4) of Proclamation 8213 appears as a paraphrased Delegation of Functions note under section 4033 of this title.
 
-The date of the enactment of the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008, referred to in subsec. (e)(1)(A), (5)(A), is the date of enactment of part I (§§ 15401–15412) of subtitle D of title XV of Pub. L. 110–246, which was approved June 18, 2008.
+The date of the enactment of the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008, referred to in subsec. (e)(1)(A), (5)(A), is the date of enactment of part I (§§ 15401–15412) of subtitle D of title XV of Pub. L. 110–246, which was approved June 18, 2008.
 
 **Codification**
 
@@ -2330,7 +2330,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2026—Subsec. (b)(1)(B)(v)(I). Pub. L. 119–75, § 5020(a)(1)(A)(i), amended subcl. (I) generally. Prior to amendment, text read as follows: “The term ‘applicable percentage’ means—
+2026—Subsec. (b)(1)(B)(v)(I). Pub. L. 119–75, § 5020(a)(1)(A)(i), amended subcl. (I) generally. Prior to amendment, text read as follows: “The term ‘applicable percentage’ means—
 
 “(aa) 50 percent or more during the initial applicable 1-year period and the succeeding 8 1-year periods;
 
@@ -2338,7 +2338,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 “(cc) 60 percent or more during the 1-year period beginning on December 20, 2017, and each of the 7 succeeding 1-year periods.”
 
-Subsec. (b)(1)(C). Pub. L. 119–75, § 5020(a)(1)(A)(ii), amended subpar. (C) generally. Prior to amendment, text read as follows: “The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available:
+Subsec. (b)(1)(C). Pub. L. 119–75, § 5020(a)(1)(A)(ii), amended subpar. (C) generally. Prior to amendment, text read as follows: “The preferential treatment described in subparagraph (A) shall be extended, during each of the 1-year periods set forth in the following table, to not more than the corresponding percentage of the aggregate square meter equivalents of all apparel articles imported into the United States in the most recent 12-month period for which data are available:
 
 | **“During:** | **the corresponding percentage is:** |
 |---|---|
@@ -2347,113 +2347,113 @@ Subsec. (b)(1)(C). Pub. L. 119–75, § 5020(a)(1)(A)(ii), amended subpar. (C)
 
 No preferential treatment shall be provided under subparagraph (A) after December 19, 2025.”
 
-Subsec. (b)(2)(A)(ii), (B)(iii). Pub. L. 119–75, § 5020(a)(1)(B), substituted “in any of the succeeding 1-year periods” for “in each of the 16 succeeding 1-year periods”.
+Subsec. (b)(2)(A)(ii), (B)(iii). Pub. L. 119–75, § 5020(a)(1)(B), substituted “in any of the succeeding 1-year periods” for “in each of the 16 succeeding 1-year periods”.
 
-Subsec. (h). Pub. L. 119–75, § 5020(a)(2), amended subsec. (h) generally. Prior to amendment, text read as follows: “Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2025.”
+Subsec. (h). Pub. L. 119–75, § 5020(a)(2), amended subsec. (h) generally. Prior to amendment, text read as follows: “Except as provided in subsection (b)(1), the duty-free treatment provided under this section shall remain in effect until September 30, 2025.”
 
 2020—Subsec. (b)(1)(B)(vii)(I)(aa), (5)(A)(i). Pub. L. 116–260 substituted “Annex 4–B of the USMCA” for “Annex 401 of the NAFTA”.
 
-2015—Subsec. (b)(1)(B)(v)(I)(cc). Pub. L. 114–27, § 301(1)(A)(i), amended item (cc) generally. Prior to amendment, item (cc) read as follows: “60 percent or more during the 1-year period beginning on December 20, 2017.”
+2015—Subsec. (b)(1)(B)(v)(I)(cc). Pub. L. 114–27, § 301(1)(A)(i), amended item (cc) generally. Prior to amendment, item (cc) read as follows: “60 percent or more during the 1-year period beginning on December 20, 2017.”
 
-Subsec. (b)(1)(C). Pub. L. 114–27, § 301(1)(A)(ii), substituted “16 succeeding 1-year periods” for “succeeding 11 1-year periods” in table and “December 19, 2025” for “December 19, 2018” in concluding provisions.
+Subsec. (b)(1)(C). Pub. L. 114–27, § 301(1)(A)(ii), substituted “16 succeeding 1-year periods” for “succeeding 11 1-year periods” in table and “December 19, 2025” for “December 19, 2018” in concluding provisions.
 
-Subsec. (b)(2)(A)(ii). Pub. L. 114–27, § 301(1)(B)(i), substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
+Subsec. (b)(2)(A)(ii). Pub. L. 114–27, § 301(1)(B)(i), substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
 
-Subsec. (b)(2)(B)(iii). Pub. L. 114–27, § 301(1)(B)(ii), substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
+Subsec. (b)(2)(B)(iii). Pub. L. 114–27, § 301(1)(B)(ii), substituted “16 succeeding 1-year periods” for “11 succeeding 1-year periods”.
 
-Subsec. (h). Pub. L. 114–27, § 301(2), substituted “September 30, 2025” for “September 30, 2020”.
+Subsec. (h). Pub. L. 114–27, § 301(2), substituted “September 30, 2025” for “September 30, 2020”.
 
 2012—Subsec. (b)(4)(C), (D). Pub. L. 112–234, which directed amendment of section 231A(b)(4) of the Caribbean Basin Economic Recovery Act by redesignating subpar. (D) as (C) and striking out former subpar. (C), was executed to this section, which is section 213A of the Caribbean Basin Economic Recovery Act, to reflect the probable intent of Congress. Prior to amendment, text of subpar. (C) read as follows: “The United States Government Accountability Office shall review the program established under subparagraph (B) annually for the purpose of evaluating the effectiveness of, and making recommendations for improvements in, the program.”
 
-2010—Subsec. (a)(1). Pub. L. 111–171, § 7(1), added par. (1) and struck out former par. (1) which defined “applicable 1-year period”, “initial applicable 1-year period”, “second applicable 1-year period”, “third applicable 1-year period”, “fourth applicable 1-year period”, and “fifth applicable 1-year period” in subpars. (A) to (F), respectively.
+2010—Subsec. (a)(1). Pub. L. 111–171, § 7(1), added par. (1) and struck out former par. (1) which defined “applicable 1-year period”, “initial applicable 1-year period”, “second applicable 1-year period”, “third applicable 1-year period”, “fourth applicable 1-year period”, and “fifth applicable 1-year period” in subpars. (A) to (F), respectively.
 
-Subsec. (b)(1)(A). Pub. L. 111–171, § 7(2)(A), substituted “the initial applicable 1-year period and any 1-year period thereafter” for “an applicable 1-year period”.
+Subsec. (b)(1)(A). Pub. L. 111–171, § 7(2)(A), substituted “the initial applicable 1-year period and any 1-year period thereafter” for “an applicable 1-year period”.
 
-Subsec. (b)(1)(B)(i). Pub. L. 111–171, § 7(2)(B)(i), in introductory provisions, substituted “the initial applicable 1-year period and any 1-year period thereafter” for “any applicable 1-year period” and “that 1-year period” for “the applicable 1-year period”.
+Subsec. (b)(1)(B)(i). Pub. L. 111–171, § 7(2)(B)(i), in introductory provisions, substituted “the initial applicable 1-year period and any 1-year period thereafter” for “any applicable 1-year period” and “that 1-year period” for “the applicable 1-year period”.
 
-Subsec. (b)(1)(B)(iv)(II). Pub. L. 111–171, § 7(2)(B)(ii), struck out “applicable” after “Other” in heading and substituted “In any 1-year period after the initial applicable 1-year period” for “In each of the second, third, fourth, and fifth applicable 1-year periods” and “during the 1-year period” for “during the applicable 1-year period” in introductory provisions and “preceding 1-year period” for “preceding applicable 1-year period” in concluding provisions.
+Subsec. (b)(1)(B)(iv)(II). Pub. L. 111–171, § 7(2)(B)(ii), struck out “applicable” after “Other” in heading and substituted “In any 1-year period after the initial applicable 1-year period” for “In each of the second, third, fourth, and fifth applicable 1-year periods” and “during the 1-year period” for “during the applicable 1-year period” in introductory provisions and “preceding 1-year period” for “preceding applicable 1-year period” in concluding provisions.
 
-Subsec. (b)(1)(B)(v)(I)(aa). Pub. L. 111–171, § 7(2)(B)(iii)(I), substituted “and the succeeding 8 1-year periods” for “, the second applicable 1-year period, and the third applicable 1-year period”.
+Subsec. (b)(1)(B)(v)(I)(aa). Pub. L. 111–171, § 7(2)(B)(iii)(I), substituted “and the succeeding 8 1-year periods” for “, the second applicable 1-year period, and the third applicable 1-year period”.
 
-Subsec. (b)(1)(B)(v)(I)(bb). Pub. L. 111–171, § 7(2)(B)(iii)(II), substituted “the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016” for “the fourth applicable 1-year period”.
+Subsec. (b)(1)(B)(v)(I)(bb). Pub. L. 111–171, § 7(2)(B)(iii)(II), substituted “the 1-year period beginning on December 20, 2015, and the 1-year period beginning on December 20, 2016” for “the fourth applicable 1-year period”.
 
-Subsec. (b)(1)(B)(v)(I)(cc). Pub. L. 111–171, § 7(2)(B)(iii)(III), substituted “the 1-year period beginning on December 20, 2017” for “the fifth applicable 1-year period”.
+Subsec. (b)(1)(B)(v)(I)(cc). Pub. L. 111–171, § 7(2)(B)(iii)(III), substituted “the 1-year period beginning on December 20, 2017” for “the fifth applicable 1-year period”.
 
-Subsec. (b)(1)(B)(vi)(II). Pub. L. 111–171, § 7(2)(B)(iv)(I), substituted “the initial applicable 1-year period or any 1-year period thereafter” for “any applicable 1-year period” and “succeeding 1-year period” for “succeeding applicable 1-year period” in introductory provisions and “preceding 1-year period” for “preceding applicable 1-year period” in concluding provisions.
+Subsec. (b)(1)(B)(vi)(II). Pub. L. 111–171, § 7(2)(B)(iv)(I), substituted “the initial applicable 1-year period or any 1-year period thereafter” for “any applicable 1-year period” and “succeeding 1-year period” for “succeeding applicable 1-year period” in introductory provisions and “preceding 1-year period” for “preceding applicable 1-year period” in concluding provisions.
 
-Subsec. (b)(1)(B)(vi)(III)(aa). Pub. L. 111–171, § 7(2)(B)(iv)(II)(aa), substituted “the initial applicable 1-year period or any 1-year period thereafter” for “an applicable 1-year period”.
+Subsec. (b)(1)(B)(vi)(III)(aa). Pub. L. 111–171, § 7(2)(B)(iv)(II)(aa), substituted “the initial applicable 1-year period or any 1-year period thereafter” for “an applicable 1-year period”.
 
-Subsec. (b)(1)(B)(vi)(III)(bb). Pub. L. 111–171, § 7(2)(B)(iv)(II)(bb), substituted “1-year period” for “applicable 1-year period” in item (bb) and subitem (AA).
+Subsec. (b)(1)(B)(vi)(III)(bb). Pub. L. 111–171, § 7(2)(B)(iv)(II)(bb), substituted “1-year period” for “applicable 1-year period” in item (bb) and subitem (AA).
 
-Subsec. (b)(1)(C). Pub. L. 111–171, § 7(2)(C), substituted “1-year periods” for “applicable 1-year periods” in introductory provisions, added table, struck out former table which designated 1 percent for the initial and 1.25 percent for the second through fifth applicable 1-year periods, and substituted “December 19, 2018” for “the last day of the fifth applicable 1-year period” in concluding provisions.
+Subsec. (b)(1)(C). Pub. L. 111–171, § 7(2)(C), substituted “1-year periods” for “applicable 1-year periods” in introductory provisions, added table, struck out former table which designated 1 percent for the initial and 1.25 percent for the second through fifth applicable 1-year periods, and substituted “December 19, 2018” for “the last day of the fifth applicable 1-year period” in concluding provisions.
 
-Subsec. (b)(2)(A)(ii), (B)(iii). Pub. L. 111–171, § 5(1), substituted “Except as provided in paragraph (2A), the preferential treatment” for “The preferential treatment” and “11” for “9”.
+Subsec. (b)(2)(A)(ii), (B)(iii). Pub. L. 111–171, § 5(1), substituted “Except as provided in paragraph (2A), the preferential treatment” for “The preferential treatment” and “11” for “9”.
 
-Subsec. (b)(2A). Pub. L. 111–171, § 5(2), added par. (2A).
+Subsec. (b)(2A). Pub. L. 111–171, § 5(2), added par. (2A).
 
-Subsec. (b)(3)(F). Pub. L. 111–171, § 4(a), added subpar. (F).
+Subsec. (b)(3)(F). Pub. L. 111–171, § 4(a), added subpar. (F).
 
-Subsec. (b)(3)(G). Pub. L. 111–171, § 4(b), added subpar. (G).
+Subsec. (b)(3)(G). Pub. L. 111–171, § 4(b), added subpar. (G).
 
-Subsec. (b)(4)(B)(ii)(I). Pub. L. 111–171, § 6, substituted “two” for “three”.
+Subsec. (b)(4)(B)(ii)(I). Pub. L. 111–171, § 6, substituted “two” for “three”.
 
-Subsec. (c)(1). Pub. L. 111–171, § 8, substituted “10-year period” for “5-year period” in introductory provisions.
+Subsec. (c)(1). Pub. L. 111–171, § 8, substituted “10-year period” for “5-year period” in introductory provisions.
 
-Subsec. (h). Pub. L. 111–171, § 3(2), substituted “September 30, 2020” for “September 30, 2018”.
+Subsec. (h). Pub. L. 111–171, § 3(2), substituted “September 30, 2020” for “September 30, 2018”.
 
-2008—Subsec. (a)(2). Pub. L. 110–246, § 15403(1)(C), added par. (2). Former par. (2) redesignated (4).
+2008—Subsec. (a)(2). Pub. L. 110–246, § 15403(1)(C), added par. (2). Former par. (2) redesignated (4).
 
-Subsec. (a)(3). Pub. L. 110–246, § 15403(1)(C), added par. (3). Former par. (3) redesignated (5).
+Subsec. (a)(3). Pub. L. 110–246, § 15403(1)(C), added par. (3). Former par. (3) redesignated (5).
 
-Pub. L. 110–246, § 15402(f)(2), added par. (3).
+Pub. L. 110–246, § 15402(f)(2), added par. (3).
 
-Subsec. (a)(4). Pub. L. 110–246, § 15403(1)(B), redesignated par. (2) as (4). Former par. (4) redesignated (6).
+Subsec. (a)(4). Pub. L. 110–246, § 15403(1)(B), redesignated par. (2) as (4). Former par. (4) redesignated (6).
 
-Pub. L. 110–246, § 15402(f)(2), added par. (4).
+Pub. L. 110–246, § 15402(f)(2), added par. (4).
 
-Subsec. (a)(5). Pub. L. 110–246, § 15403(1)(B), redesignated par. (3) as (5). Former par. (5) redesignated (8).
+Subsec. (a)(5). Pub. L. 110–246, § 15403(1)(B), redesignated par. (3) as (5). Former par. (5) redesignated (8).
 
-Pub. L. 110–246, § 15402(f)(2), added par. (5).
+Pub. L. 110–246, § 15402(f)(2), added par. (5).
 
-Subsec. (a)(6). Pub. L. 110–246, § 15403(1)(B), redesignated par. (4) as (6).
+Subsec. (a)(6). Pub. L. 110–246, § 15403(1)(B), redesignated par. (4) as (6).
 
-Subsec. (a)(7). Pub. L. 110–246, § 15403(1)(D), added par. (7).
+Subsec. (a)(7). Pub. L. 110–246, § 15403(1)(D), added par. (7).
 
-Subsec. (a)(8). Pub. L. 110–246, § 15403(1)(A), redesignated par. (5) as (8).
+Subsec. (a)(8). Pub. L. 110–246, § 15403(1)(A), redesignated par. (5) as (8).
 
-Subsec. (b). Pub. L. 110–246, § 15402(a)(5), (b), (c), as amended by Pub. L. 110–436, § 7(1), added pars. (1)(D), (2), and (3).
+Subsec. (b). Pub. L. 110–246, § 15402(a)(5), (b), (c), as amended by Pub. L. 110–436, § 7(1), added pars. (1)(D), (2), and (3).
 
-Pub. L. 110–246, § 15402(a)(4), as amended by Pub. L. 110–436, § 7(1), redesignated par. (3) as subpar. (C) of par. (1), realigned margins, substituted “subparagraph (A)” for “paragraph (1)” in two places, in table substituted “1.25 percent” for “1.5 percent” during the third applicable 1-year period, “1.25 percent” for “1.75 percent” during the fourth applicable 1-year period, and “1.25 percent” for “2 percent” during the fifth applicable 1-year period.
+Pub. L. 110–246, § 15402(a)(4), as amended by Pub. L. 110–436, § 7(1), redesignated par. (3) as subpar. (C) of par. (1), realigned margins, substituted “subparagraph (A)” for “paragraph (1)” in two places, in table substituted “1.25 percent” for “1.5 percent” during the third applicable 1-year period, “1.25 percent” for “1.75 percent” during the fourth applicable 1-year period, and “1.25 percent” for “2 percent” during the fifth applicable 1-year period.
 
-Pub. L. 110–246, § 15402(a)(3), as amended by Pub. L. 110–436, § 7(1), redesignated par. (2) as subpar. (B) of par. (1), redesignated former subpars. as cls., former cls. as subcls., former subcls. as items, and former items as subitems, realigned margins, made conforming changes to references in text, in par. (1)(B)(iii)(II) substituted “that enters into force thereafter” for “that enters into force under the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3801 et seq.)”, amended par. (1)(B)(iv)(IV) generally, in par. (1)(B)(vi) substituted “U.S. Customs and Border Protection” for “The Bureau of Customs and Border Protection” in subcl. (I) and for “the Bureau of Customs and Border Protection” in subcl. (II) and in two places in subcl. (III), and in par. (1)(B)(vii)(I)(bb)(DD) substituted “with respect to the United States” for “under the Bipartisan Trade Promotion Authority Act of 2002”.
+Pub. L. 110–246, § 15402(a)(3), as amended by Pub. L. 110–436, § 7(1), redesignated par. (2) as subpar. (B) of par. (1), redesignated former subpars. as cls., former cls. as subcls., former subcls. as items, and former items as subitems, realigned margins, made conforming changes to references in text, in par. (1)(B)(iii)(II) substituted “that enters into force thereafter” for “that enters into force under the Bipartisan Trade Promotion Authority Act of 2002 (19 U.S.C. 3801 et seq.)”, amended par. (1)(B)(iv)(IV) generally, in par. (1)(B)(vi) substituted “U.S. Customs and Border Protection” for “The Bureau of Customs and Border Protection” in subcl. (I) and for “the Bureau of Customs and Border Protection” in subcl. (II) and in two places in subcl. (III), and in par. (1)(B)(vii)(I)(bb)(DD) substituted “with respect to the United States” for “under the Bipartisan Trade Promotion Authority Act of 2002”.
 
-Pub. L. 110–246, § 15402(a)(2), as amended by Pub. L. 110–436, § 7(1), amended par. (1) generally. Prior to amendment, text read as follows: “In addition to any other preferential treatment under this chapter, apparel articles described in paragraph (2) of a producer or entity controlling production that are imported directly from Haiti shall enter the United States free of duty during an applicable 1-year period, subject to the limitations set forth in paragraphs (2) and (3), if Haiti has met the requirements of subsections (d) and (e).”
+Pub. L. 110–246, § 15402(a)(2), as amended by Pub. L. 110–436, § 7(1), amended par. (1) generally. Prior to amendment, text read as follows: “In addition to any other preferential treatment under this chapter, apparel articles described in paragraph (2) of a producer or entity controlling production that are imported directly from Haiti shall enter the United States free of duty during an applicable 1-year period, subject to the limitations set forth in paragraphs (2) and (3), if Haiti has met the requirements of subsections (d) and (e).”
 
-Pub. L. 110–246, § 15402(a)(1), as amended by Pub. L. 110–436, § 7(1), substituted “Apparel and other textile articles” for “Apparel articles” in heading.
+Pub. L. 110–246, § 15402(a)(1), as amended by Pub. L. 110–436, § 7(1), substituted “Apparel and other textile articles” for “Apparel articles” in heading.
 
-Subsec. (b)(4). Pub. L. 110–246, § 15402(d), as amended by Pub. L. 110–436, § 7(2), added par. (4).
+Subsec. (b)(4). Pub. L. 110–246, § 15402(d), as amended by Pub. L. 110–436, § 7(2), added par. (4).
 
-Pub. L. 110–246, § 15402(b), as amended by Pub. L. 110–436, § 7(1), struck out par. (4) which related to special rule for certain woven apparel articles classifiable under chapter 62 of the HTS, as in effect on Dec. 20, 2006.
+Pub. L. 110–246, § 15402(b), as amended by Pub. L. 110–436, § 7(1), struck out par. (4) which related to special rule for certain woven apparel articles classifiable under chapter 62 of the HTS, as in effect on Dec. 20, 2006.
 
-Subsec. (b)(5). Pub. L. 110–246, § 15402(c), (e), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The preferential treatment under paragraph (1) shall, subject to the limitations under paragraph (3), be extended to any article classifiable under heading 6212.10 of the HTS, if the article is both cut and sewn or otherwise assembled in Haiti or the United States, or both, without regard to the source of the fabric or components from which the article is made, and if Haiti has met the requirements of subsections (d) and (e).”
+Subsec. (b)(5). Pub. L. 110–246, § 15402(c), (e), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The preferential treatment under paragraph (1) shall, subject to the limitations under paragraph (3), be extended to any article classifiable under heading 6212.10 of the HTS, if the article is both cut and sewn or otherwise assembled in Haiti or the United States, or both, without regard to the source of the fabric or components from which the article is made, and if Haiti has met the requirements of subsections (d) and (e).”
 
-Subsec. (b)(6). Pub. L. 110–246, § 15402(f)(1), added par. (6).
+Subsec. (b)(6). Pub. L. 110–246, § 15402(f)(1), added par. (6).
 
-Subsec. (d)(4). Pub. L. 110–246, § 15404, added par. (4).
+Subsec. (d)(4). Pub. L. 110–246, § 15404, added par. (4).
 
-Subsec. (e). Pub. L. 110–246, § 15403(3), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 110–246, § 15403(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1). Pub. L. 110–246, § 15402(h), substituted “U.S. Customs and Border Protection” for “the Bureau of Customs and Border Protection” wherever appearing.
+Subsec. (e)(1). Pub. L. 110–246, § 15402(h), substituted “U.S. Customs and Border Protection” for “the Bureau of Customs and Border Protection” wherever appearing.
 
-Subsec. (f). Pub. L. 110–246, § 15403(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 110–246, § 15403(2), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(3). Pub. L. 110–246, § 15405, added par. (3).
+Subsec. (f)(3). Pub. L. 110–246, § 15405, added par. (3).
 
-Subsec. (g). Pub. L. 110–246, § 15403(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 110–246, § 15403(2), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Pub. L. 110–246, § 15402(g), added subsec. (g).
+Pub. L. 110–246, § 15402(g), added subsec. (g).
 
-Subsec. (h). Pub. L. 110–246, § 15403(2), redesignated subsec. (g) as (h).
+Subsec. (h). Pub. L. 110–246, § 15403(2), redesignated subsec. (g) as (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2465,9 +2465,9 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, § 15412, May 22, 2008, 122 Stat. 1547, and Pub. L. 110–246, § 4(a), title XV, § 15412, June 18, 2008, 122 Stat. 1664, 2309, provided that:
+Pub. L. 110–234, title XV, § 15412, May 22, 2008, 122 Stat. 1547, and Pub. L. 110–246, § 4(a), title XV, § 15412, June 18, 2008, 122 Stat. 1664, 2309, provided that:
 
-> **“(a) In General.—** Except as provided in subsection (b), this part [part I (§§ 15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending this section and section 2703 of this title and enacting provisions set out as notes under this section and section 2701 of this title] and the amendments made by this part shall take effect on the date of the enactment of this Act [June 18, 2008].
+> **“(a) In General.—** Except as provided in subsection (b), this part [part I (§§ 15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending this section and section 2703 of this title and enacting provisions set out as notes under this section and section 2701 of this title] and the amendments made by this part shall take effect on the date of the enactment of this Act [June 18, 2008].
 
 > **“(b) Exception.—** The amendments made by section 15402 [amending this section] shall take effect on October 1, 2008, and shall apply to articles entered, or withdrawn from warehouse for consumption, on or after that date.”
 
@@ -2479,13 +2479,13 @@ Section applicable to articles entered, or withdrawn from warehouse for consumpt
 
 **Regulations**
 
-Pub. L. 110–234, title XV, § 15407, May 22, 2008, 122 Stat. 1546, and Pub. L. 110–246, § 4(a), title XV, § 15407, June 18, 2008, 122 Stat. 1664, 2308, provided that: “The President shall issue such regulations as may be necessary to carry out the amendments made by sections 15402, 15403, and 15404 [amending this section]. Regulations to carry out the amendments made by section 15402 shall be issued not later than September 30, 2008. The Secretary of Commerce shall issue such procedures as may be necessary to carry out the amendment made by section 15402(d) not later than September 30, 2008.”
+Pub. L. 110–234, title XV, § 15407, May 22, 2008, 122 Stat. 1546, and Pub. L. 110–246, § 4(a), title XV, § 15407, June 18, 2008, 122 Stat. 1664, 2308, provided that: “The President shall issue such regulations as may be necessary to carry out the amendments made by sections 15402, 15403, and 15404 [amending this section]. Regulations to carry out the amendments made by section 15402 shall be issued not later than September 30, 2008. The Secretary of Commerce shall issue such procedures as may be necessary to carry out the amendment made by section 15402(d) not later than September 30, 2008.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
 **Restoration of Eligibility of Certain Articles for Preferential Treatment; Retroactive Application of 2026 Amendment**
 
-Pub. L. 119–75, div. I, § 5020(b), (c), Feb. 3, 2026, 140 Stat. 634, provided that:
+Pub. L. 119–75, div. I, § 5020(b), (c), Feb. 3, 2026, 140 Stat. 634, provided that:
 
 > **“(b) Restoration of Eligibility of Certain Articles for Preferential Treatment**
 
@@ -2525,7 +2525,7 @@ Pub. L. 119–75, div. I, § 5020(b), (c), Feb. 3, 2026, 140 Stat. 634, provid
 
 **Findings**
 
-Pub. L. 111–171, § 2, May 24, 2010, 124 Stat. 1194, provided that:
+Pub. L. 111–171, § 2, May 24, 2010, 124 Stat. 1194, provided that:
 
 > “Congress finds the following:
 
@@ -2549,7 +2549,7 @@ Pub. L. 111–171, § 2, May 24, 2010, 124 Stat. 1194, provided that:
 
 **Customs Support Services**
 
-Pub. L. 111–171, § 9, May 24, 2010, 124 Stat. 1205, provided that:
+Pub. L. 111–171, § 9, May 24, 2010, 124 Stat. 1205, provided that:
 
 > **“(a) In General.—**
 
@@ -2593,7 +2593,7 @@ Pub. L. 111–171, § 9, May 24, 2010, 124 Stat. 1205, provided that:
 
 **Presidential Proclamation Authority**
 
-Pub. L. 110–234, title XV, § 15406, May 22, 2008, 122 Stat. 1546, and Pub. L. 110–246, § 4(a), title XV, § 15406, June 18, 2008, 122 Stat. 1664, 2308, provided that: “The President may exercise the authority under section 604 of the Trade Act of 1974 [19 U.S.C. 2483] to proclaim such modifications to the Harmonized Tariff Schedule of the United States as may be necessary to carry out this part [part I (§§ 15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending this section and section 2703 of this title and enacting provisions set out as notes under this section and section 2701 of this title] and the amendments made by this part.”
+Pub. L. 110–234, title XV, § 15406, May 22, 2008, 122 Stat. 1546, and Pub. L. 110–246, § 4(a), title XV, § 15406, June 18, 2008, 122 Stat. 1664, 2308, provided that: “The President may exercise the authority under section 604 of the Trade Act of 1974 [19 U.S.C. 2483] to proclaim such modifications to the Harmonized Tariff Schedule of the United States as may be necessary to carry out this part [part I (§§ 15401–15412) of subtitle D of title XV of Pub. L. 110–246, amending this section and section 2703 of this title and enacting provisions set out as notes under this section and section 2701 of this title] and the amendments made by this part.”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
@@ -2605,7 +2605,7 @@ Proc. No. 8296, Sept. 30, 2008, 73 F.R. 57476, provided in par. (3) that the Uni
 
 Proc. No. 8114, Mar. 19, 2007, 72 F.R. 13656, provided in par. (5) that the Secretary of the Treasury is authorized to perform the functions assigned to the President under subsec. (f) of this section.
 
-## § 2704. International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program
+## § 2704. International Trade Commission reports on impact of Caribbean Basin Economic Recovery Program
 
 **(a) Reporting requirement**
 
@@ -2641,7 +2641,7 @@ For purposes of this section, industries in the Commonwealth of Puerto Rico and 
 
 **(2)** The Commission shall provide opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
 
-(Pub. L. 98–67, title II, § 215, Aug. 5, 1983, 97 Stat. 393; Pub. L. 106–200, title II, § 211(d)(1), May 18, 2000, 114 Stat. 287.)
+(Pub. L. 98–67, title II, § 215, Aug. 5, 1983, 97 Stat. 393; Pub. L. 106–200, title II, § 211(d)(1), May 18, 2000, 114 Stat. 287.)
 
 **Editorial Notes**
 
@@ -2661,15 +2661,15 @@ This Act, referred to in subsec. (b), probably should be “this title” meanin
 
 For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.”
 
-## § 2705. Impact study by Secretary of Labor
+## § 2705. Impact study by Secretary of Labor
 
-The Secretary of Labor, in consulation 1
+The Secretary of Labor, in consulation 1
 
-<sup>1</sup>  So in original. Probably should be “consultation”.
+<sup>1</sup> So in original. Probably should be “consultation”.
 
 with other appropriate Federal agencies, shall undertake a continuing review and analysis of the impact which the implementation of the provisions of this chapter have with respect to United States labor; and shall make an annual written report to Congress on the results of such review and analysis.
 
-(Pub. L. 98–67, title II, § 216, Aug. 5, 1983, 97 Stat. 394.)
+(Pub. L. 98–67, title II, § 216, Aug. 5, 1983, 97 Stat. 394.)
 
 **Editorial Notes**
 
@@ -2683,25 +2683,25 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 For termination, effective May 15, 2000, of provisions in this section relating to making an annual written report to Congress, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 123 of House Document No. 103–7.
 
-## § 2706. Effective date
+## § 2706. Effective date
 
 **(a)** This chapter shall take effect on August 5, 1983.
 
-**(b)** Repealed. Pub. L. 101–382, title II, § 211, Aug. 20, 1990, 104 Stat. 655.
+**(b)** Repealed. Pub. L. 101–382, title II, § 211, Aug. 20, 1990, 104 Stat. 655.
 
-(Pub. L. 98–67, title II, § 218, Aug. 5, 1983, 97 Stat. 395; Pub. L. 101–382, title II, § 211, Aug. 20, 1990, 104 Stat. 655.)
+(Pub. L. 98–67, title II, § 218, Aug. 5, 1983, 97 Stat. 395; Pub. L. 101–382, title II, § 211, Aug. 20, 1990, 104 Stat. 655.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a), was in the original “this subtitle” meaning subtitle A (§§ 211–218) of title II of Pub. L. 98–67 which enacted this chapter, amended section 1202 of this title, repealed section 2582 of this title, and enacted provisions set out as notes under sections 1202, 1319, 2251, and 2703 of this title and section 1311 of Title 33, Navigation and Navigable Waters. For complete classification of subtitle A to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original “this subtitle” meaning subtitle A (§§ 211–218) of title II of Pub. L. 98–67 which enacted this chapter, amended section 1202 of this title, repealed section 2582 of this title, and enacted provisions set out as notes under sections 1202, 1319, 2251, and 2703 of this title and section 1311 of Title 33, Navigation and Navigable Waters. For complete classification of subtitle A to the Code, see Tables.
 
 **Amendments**
 
 1990—Subsec. (b). Pub. L. 101–382 struck out subsec. (b) which related to termination of duty-free treatment. Notwithstanding directory language repealing “section 218 of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2706(b))”, amendment was executed by repealing subsec. (b) to reflect the probable intent of Congress in view of catchline for section 211 of Pub. L. 101–382 which read “Repeal of termination date on duty-free treatment under the Act”.
 
-## § 2707. Center for the Study of Western Hemispheric Trade
+## § 2707. Center for the Study of Western Hemispheric Trade
 
 **(a) Establishment**
 
@@ -2763,7 +2763,7 @@ The Commissioner of Customs is directed to make grants to any institution or ins
 
 Each subsequent report shall include information with respect to the operations of the Center, the collaboration of the Center with, and dissemination of information to, Government policymakers and the business community with respect to the study of Western Hemispheric trade by the Center, and the plan and efforts of the Center to continue operations after grants under this section have expired.
 
-(Pub. L. 98–67, title II, § 219, as added Pub. L. 103–182, title V, § 515(a), Dec. 8, 1993, 107 Stat. 2158; amended Pub. L. 104–295, § 21(d), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 106–29, § 2(a), May 21, 1999, 113 Stat. 54.)
+(Pub. L. 98–67, title II, § 219, as added Pub. L. 103–182, title V, § 515(a), Dec. 8, 1993, 107 Stat. 2158; amended Pub. L. 104–295, § 21(d), Oct. 11, 1996, 110 Stat. 3530; Pub. L. 106–29, § 2(a), May 21, 1999, 113 Stat. 54.)
 
 **Editorial Notes**
 
@@ -2771,9 +2771,9 @@ Each subsequent report shall include information with respect to the operations 
 
 1999—Subsec. (d)(6). Pub. L. 106–29 substituted “Dante B. Fascell North-South Center” for “North/South Center”.
 
-1996—Subsec. (b)(1). Pub. L. 104–295, § 21(d)(1), substituted semicolon for comma at end.
+1996—Subsec. (b)(1). Pub. L. 104–295, § 21(d)(1), substituted semicolon for comma at end.
 
-Subsec. (h)(1), (2). Pub. L. 104–295, § 21(d)(2), substituted semicolon for comma after “Center”.
+Subsec. (h)(1), (2). Pub. L. 104–295, § 21(d)(2), substituted semicolon for comma after “Center”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2783,4 +2783,4 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Authorization of Appropriations**
 
-Pub. L. 103–182, title V, § 515(b), Dec. 8, 1993, 107 Stat. 2159, which authorized appropriations for fiscal year 1994 and the 3 succeeding fiscal years to carry out the purposes of this section, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title V, § 515(b), Dec. 8, 1993, 107 Stat. 2159, which authorized appropriations for fiscal year 1994 and the 3 succeeding fiscal years to carry out the purposes of this section, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).

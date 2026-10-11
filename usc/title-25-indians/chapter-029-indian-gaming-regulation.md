@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 29—INDIAN GAMING REGULATION
 
-## § 2701. Findings
+## § 2701. Findings
 
 The Congress finds that—
 
@@ -29,15 +29,15 @@ The Congress finds that—
 
 **(5)** Indian tribes have the exclusive right to regulate gaming activity on Indian lands if the gaming activity is not specifically prohibited by Federal law and is conducted within a State which does not, as a matter of criminal law and public policy, prohibit such gaming activity.
 
-(Pub. L. 100–497, § 2, Oct. 17, 1988, 102 Stat. 2467.)
+(Pub. L. 100–497, § 2, Oct. 17, 1988, 102 Stat. 2467.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 100–497, § 1, Oct. 17, 1988, 102 Stat. 2467, provided: “That this Act [enacting this chapter and sections 1166 to 1168 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Indian Gaming Regulatory Act’.”
+Pub. L. 100–497, § 1, Oct. 17, 1988, 102 Stat. 2467, provided: “That this Act [enacting this chapter and sections 1166 to 1168 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Indian Gaming Regulatory Act’.”
 
-## § 2702. Declaration of policy
+## § 2702. Declaration of policy
 
 The purpose of this chapter is—
 
@@ -47,7 +47,7 @@ The purpose of this chapter is—
 
 **(3)** to declare that the establishment of independent Federal regulatory authority for gaming on Indian lands, the establishment of Federal standards for gaming on Indian lands, and the establishment of a National Indian Gaming Commission are necessary to meet congressional concerns regarding gaming and to protect such gaming as a means of generating tribal revenue.
 
-(Pub. L. 100–497, § 3, Oct. 17, 1988, 102 Stat. 2467.)
+(Pub. L. 100–497, § 3, Oct. 17, 1988, 102 Stat. 2467.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ The purpose of this chapter is—
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-## § 2703. Definitions
+## § 2703. Definitions
 
 For purposes of this chapter—
 
@@ -121,7 +121,7 @@ but only if such card games are played in conformity with those laws and regulat
 
 **(10)** The term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 100–497, § 4, Oct. 17, 1988, 102 Stat. 2467; Pub. L. 102–238, § 2(a), Dec. 17, 1991, 105 Stat. 1908; Pub. L. 102–497, § 16, Oct. 24, 1992, 106 Stat. 3261.)
+(Pub. L. 100–497, § 4, Oct. 17, 1988, 102 Stat. 2467; Pub. L. 102–238, § 2(a), Dec. 17, 1991, 105 Stat. 1908; Pub. L. 102–497, § 16, Oct. 24, 1992, 106 Stat. 3261.)
 
 **Editorial Notes**
 
@@ -139,13 +139,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Class II Gaming With Respect to Indian Tribes in Wisconsin or Montana Engaged in Negotiating Tribal-State Compacts**
 
-Pub. L. 101–301, § 6, May 24, 1990, 104 Stat. 209, provided that: “Notwithstanding any other provision of law, the term ‘class II gaming’ includes, for purposes of applying Public Law 100–497 [25 U.S.C. 2701 et seq.] with respect to any Indian tribe located in the State of Wisconsin or the State of Montana, during the 1-year period beginning on the date of enactment of this Act [May 24, 1990], any gaming described in section 4(7)(B)(ii) of Public Law 100–497 [25 U.S.C. 2703(7)(B)(ii)] that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdiction over the lands on which such gaming was operated made a request, by no later than November 16, 1988, to the State in which such gaming is operated to negotiate a Tribal-State compact under section 11(d)(3) of Public Law 100–497 [25 U.S.C. 2710(d)(3)].”
+Pub. L. 101–301, § 6, May 24, 1990, 104 Stat. 209, provided that: “Notwithstanding any other provision of law, the term ‘class II gaming’ includes, for purposes of applying Public Law 100–497 [25 U.S.C. 2701 et seq.] with respect to any Indian tribe located in the State of Wisconsin or the State of Montana, during the 1-year period beginning on the date of enactment of this Act [May 24, 1990], any gaming described in section 4(7)(B)(ii) of Public Law 100–497 [25 U.S.C. 2703(7)(B)(ii)] that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdiction over the lands on which such gaming was operated made a request, by no later than November 16, 1988, to the State in which such gaming is operated to negotiate a Tribal-State compact under section 11(d)(3) of Public Law 100–497 [25 U.S.C. 2710(d)(3)].”
 
 **Tribal-State Compact Covering Indian Tribes in Minnesota; Operation of Class II Games; Allowance of Additional Year for Negotiations**
 
-Pub. L. 101–121, title I, § 118, Oct. 23, 1989, 103 Stat. 722, provided that: “Notwithstanding any other provision of law, the term ‘Class II gaming’ in Public Law 100–497 [25 U.S.C. 2701 et seq.], for any Indian tribe located in the State of Minnesota, includes, during the period commencing on the date of enactment of this Act [Oct. 23, 1989] and continuing for 365 days from that date, any gaming described in section 4(7)(B)(ii) of Public Law 100–497 [25 U.S.C. 2703(7)(B)(ii)] that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdication [sic] over the lands on which such gaming was operated, requested the State of Minnesota, no later than 30 days after the date of enactment of Public Law 100–497 [Oct. 17, 1988], to negotiate a tribal-state compact pursuant to section 11(d)(3) of Public Law 100–497 [25 U.S.C. 2710(d)(3)].”
+Pub. L. 101–121, title I, § 118, Oct. 23, 1989, 103 Stat. 722, provided that: “Notwithstanding any other provision of law, the term ‘Class II gaming’ in Public Law 100–497 [25 U.S.C. 2701 et seq.], for any Indian tribe located in the State of Minnesota, includes, during the period commencing on the date of enactment of this Act [Oct. 23, 1989] and continuing for 365 days from that date, any gaming described in section 4(7)(B)(ii) of Public Law 100–497 [25 U.S.C. 2703(7)(B)(ii)] that was legally operated on Indian lands on or before May 1, 1988, if the Indian tribe having jurisdication [sic] over the lands on which such gaming was operated, requested the State of Minnesota, no later than 30 days after the date of enactment of Public Law 100–497 [Oct. 17, 1988], to negotiate a tribal-state compact pursuant to section 11(d)(3) of Public Law 100–497 [25 U.S.C. 2710(d)(3)].”
 
-## § 2704. National Indian Gaming Commission
+## § 2704. National Indian Gaming Commission
 
 **(a) Establishment**
 
@@ -211,9 +211,9 @@ The Commission shall meet at the call of the Chairman or a majority of its membe
 
 **(3)** All members of the Commission shall be reimbursed in accordance with title 5 for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties.
 
-(Pub. L. 100–497, § 5, Oct. 17, 1988, 102 Stat. 2469.)
+(Pub. L. 100–497, § 5, Oct. 17, 1988, 102 Stat. 2469.)
 
-## § 2705. Powers of Chairman
+## § 2705. Powers of Chairman
 
 **(a)** The Chairman, on behalf of the Commission, shall have power, subject to an appeal to the Commission, to—
 
@@ -227,9 +227,9 @@ The Commission shall meet at the call of the Chairman or a majority of its membe
 
 **(b)** The Chairman shall have such other powers as may be delegated by the Commission.
 
-(Pub. L. 100–497, § 6, Oct. 17, 1988, 102 Stat. 2470.)
+(Pub. L. 100–497, § 6, Oct. 17, 1988, 102 Stat. 2470.)
 
-## § 2706. Powers of Commission
+## § 2706. Powers of Commission
 
 **(a) Budget approval; civil fines; fees; subpoenas; permanent orders** The Commission shall have the power, not subject to delegation—
 
@@ -277,7 +277,7 @@ In carrying out any action under this chapter, the Commission shall be subject t
 
 In addition to any plan required under the Government Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285), the Commission shall submit a plan to provide technical assistance to tribal gaming operations in accordance with that Act.
 
-(Pub. L. 100–497, § 7, Oct. 17, 1988, 102 Stat. 2470; Pub. L. 109–221, title III, § 301(a), May 12, 2006, 120 Stat. 341.)
+(Pub. L. 100–497, § 7, Oct. 17, 1988, 102 Stat. 2470; Pub. L. 109–221, title III, § 301(a), May 12, 2006, 120 Stat. 341.)
 
 **Editorial Notes**
 
@@ -295,7 +295,7 @@ Subsec. (c) of this section, which required the Commission to submit a report to
 
 2006—Subsec. (d). Pub. L. 109–221 added subsec. (d).
 
-## § 2707. Commission staffing
+## § 2707. Commission staffing
 
 **(a) General Counsel**
 
@@ -317,7 +317,7 @@ Upon the request of the Chairman, the head of any Federal agency is authorized t
 
 The Secretary or Administrator of General Services shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
 
-(Pub. L. 100–497, § 8, Oct. 17, 1988, 102 Stat. 2471.)
+(Pub. L. 100–497, § 8, Oct. 17, 1988, 102 Stat. 2471.)
 
 **Editorial Notes**
 
@@ -329,13 +329,13 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 2708. Commission; access to information
+## § 2708. Commission; access to information
 
 The Commission may secure from any department or agency of the United States information necessary to enable it to carry out this chapter. Upon the request of the Chairman, the head of such department or agency shall furnish such information to the Commission, unless otherwise prohibited by law.
 
-(Pub. L. 100–497, § 9, Oct. 17, 1988, 102 Stat. 2472.)
+(Pub. L. 100–497, § 9, Oct. 17, 1988, 102 Stat. 2472.)
 
 **Editorial Notes**
 
@@ -343,11 +343,11 @@ The Commission may secure from any department or agency of the United States inf
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-## § 2709. Interim authority to regulate gaming
+## § 2709. Interim authority to regulate gaming
 
 Notwithstanding any other provision of this chapter, the Secretary shall continue to exercise those authorities vested in the Secretary on the day before October 17, 1988, relating to supervision of Indian gaming until such time as the Commission is organized and prescribes regulations. The Secretary shall provide staff and support assistance to facilitate an orderly transition to regulation of Indian gaming by the Commission.
 
-(Pub. L. 100–497, § 10, Oct. 17, 1988, 102 Stat. 2472.)
+(Pub. L. 100–497, § 10, Oct. 17, 1988, 102 Stat. 2472.)
 
 **Editorial Notes**
 
@@ -355,7 +355,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall continu
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-## § 2710. Tribal gaming ordinances
+## § 2710. Tribal gaming ordinances
 
 **(a) Jurisdiction over class I and class II gaming activity**
 
@@ -447,9 +447,9 @@ A separate license issued by the Indian tribe shall be required for each place, 
 
 **(A)** has continuously conducted such activity for a period of not less than three years, including at least one year after October 17, 1988; and
 
-**(B)** has otherwise complied with the provisions of this section 1
+**(B)** has otherwise complied with the provisions of this section 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 may petition the Commission for a certificate of self-regulation.
 
@@ -579,9 +579,9 @@ Upon the approval of such an ordinance or resolution, the Chairman shall publish
 
 the burden of proof shall be upon the State to prove that the State has negotiated with the Indian tribe in good faith to conclude a Tribal-State compact governing the conduct of gaming activities.
 
-**(iii)** If, in any action described in subparagraph (A)(i), the court finds that the State has failed to negotiate in good faith with the Indian tribe to conclude a Tribal-State compact governing the conduct of gaming activities, the court shall order the State and the Indian Tribe 2
+**(iii)** If, in any action described in subparagraph (A)(i), the court finds that the State has failed to negotiate in good faith with the Indian tribe to conclude a Tribal-State compact governing the conduct of gaming activities, the court shall order the State and the Indian Tribe 2
 
-<sup>2</sup>  So in original. Probably should not be capitalized.
+<sup>2</sup> So in original. Probably should not be capitalized.
 
 to conclude such a compact within a 60-day period. In determining in such an action whether a State has negotiated in good faith, the court—
 
@@ -623,7 +623,7 @@ to conclude such a compact within a 60-day period. In determining in such an act
 
 For purposes of this section, by not later than the date that is 90 days after the date on which any tribal gaming ordinance or resolution is submitted to the Chairman, the Chairman shall approve such ordinance or resolution if it meets the requirements of this section. Any such ordinance or resolution not acted upon at the end of that 90-day period shall be considered to have been approved by the Chairman, but only to the extent such ordinance or resolution is consistent with the provisions of this chapter.
 
-(Pub. L. 100–497, § 11, Oct. 17, 1988, 102 Stat. 2472.)
+(Pub. L. 100–497, § 11, Oct. 17, 1988, 102 Stat. 2472.)
 
 **Editorial Notes**
 
@@ -635,7 +635,7 @@ This chapter, referred to in subsecs. (a), (d)(7)(B)(iv), (vii)(I), (8)(B)(i), (
 
 For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
-## § 2711. Management contracts
+## § 2711. Management contracts
 
 **(a) Class II gaming activity; information on operators**
 
@@ -709,7 +709,7 @@ The authority of the Secretary under section 81 of this title, relating to manag
 
 The Commission shall require a potential contractor to pay a fee to cover the cost of the investigation necessary to reach a determination required in subsection (e) of this section.
 
-(Pub. L. 100–497, § 12, Oct. 17, 1988, 102 Stat. 2479.)
+(Pub. L. 100–497, § 12, Oct. 17, 1988, 102 Stat. 2479.)
 
 **Editorial Notes**
 
@@ -717,7 +717,7 @@ The Commission shall require a potential contractor to pay a fee to cover the co
 
 This chapter, referred to in subsecs. (a)(3), (e)(1)(C), (3), (g), and (h), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-## § 2712. Review of existing ordinances and contracts
+## § 2712. Review of existing ordinances and contracts
 
 **(a) Notification to submit**
 
@@ -739,7 +739,7 @@ As soon as practicable after the organization of the Commission, the Chairman sh
 
 **(3)** If the Chairman determines that a contract submitted under subsection (a), or the management contractor under a contract submitted under subsection (a), does not meet the requirements of section 2711 of this title, the Chairman shall provide written notification to the parties to such contract of necessary modifications and the parties shall have not more than 120 days to come into compliance. If a management contract has been approved by the Secretary prior to October 17, 1988, the parties shall have not more than 180 days after notification of necessary modifications to come into compliance.
 
-(Pub. L. 100–497, § 13, Oct. 17, 1988, 102 Stat. 2481.)
+(Pub. L. 100–497, § 13, Oct. 17, 1988, 102 Stat. 2481.)
 
 **Editorial Notes**
 
@@ -747,7 +747,7 @@ As soon as practicable after the organization of the Commission, the Chairman sh
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-## § 2713. Civil penalties
+## § 2713. Civil penalties
 
 **(a) Authority; amount; appeal; written complaint**
 
@@ -771,7 +771,7 @@ A decision of the Commission to give final approval of a fine levied by the Chai
 
 Nothing in this chapter precludes an Indian tribe from exercising regulatory authority provided under tribal law over a gaming establishment within the Indian tribe’s jurisdiction if such regulation is not inconsistent with this chapter or with any rules or regulations adopted by the Commission.
 
-(Pub. L. 100–497, § 14, Oct. 17, 1988, 102 Stat. 2482.)
+(Pub. L. 100–497, § 14, Oct. 17, 1988, 102 Stat. 2482.)
 
 **Editorial Notes**
 
@@ -779,13 +779,13 @@ Nothing in this chapter precludes an Indian tribe from exercising regulatory aut
 
 This chapter, referred to in subsecs. (a)(1), (3), (b)(1), and (d), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-## § 2714. Judicial review
+## § 2714. Judicial review
 
 Decisions made by the Commission pursuant to sections 2710, 2711, 2712, and 2713 of this title shall be final agency decisions for purposes of appeal to the appropriate Federal district court pursuant to chapter 7 of title 5.
 
-(Pub. L. 100–497, § 15, Oct. 17, 1988, 102 Stat. 2483.)
+(Pub. L. 100–497, § 15, Oct. 17, 1988, 102 Stat. 2483.)
 
-## § 2715. Subpoena and deposition authority
+## § 2715. Subpoena and deposition authority
 
 **(a) Attendance, testimony, production of papers, etc.**
 
@@ -811,9 +811,9 @@ Every person deposing as herein provided shall be cautioned and shall be require
 
 Witnesses whose depositions are taken as authorized in this section, and the persons taking the same, shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
-(Pub. L. 100–497, § 16, Oct. 17, 1988, 102 Stat. 2483.)
+(Pub. L. 100–497, § 16, Oct. 17, 1988, 102 Stat. 2483.)
 
-## § 2716. Investigative powers
+## § 2716. Investigative powers
 
 **(a) Confidential information**
 
@@ -827,7 +827,7 @@ The Commission shall, when such information indicates a violation of Federal, St
 
 The Attorney General shall investigate activities associated with gaming authorized by this chapter which may be a violation of Federal law.
 
-(Pub. L. 100–497, § 17, Oct. 17, 1988, 102 Stat. 2484.)
+(Pub. L. 100–497, § 17, Oct. 17, 1988, 102 Stat. 2484.)
 
 **Editorial Notes**
 
@@ -835,7 +835,7 @@ The Attorney General shall investigate activities associated with gaming authori
 
 This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-## § 2717. Commission funding
+## § 2717. Commission funding
 
 **(a)**
 
@@ -869,7 +869,7 @@ of the gross revenues from each activity regulated by this chapter.
 
 **(3)** The request for appropriations pursuant to paragraph (2) shall be subject to the approval of the Secretary and shall be included as a part of the budget request of the Department of the Interior.
 
-(Pub. L. 100–497, § 18, Oct. 17, 1988, 102 Stat. 2484; Pub. L. 105–83, title I, § 123(a)(1)–(2)(B), Nov. 14, 1997, 111 Stat. 1566; Pub. L. 109–221, title III, § 301(b), May 12, 2006, 120 Stat. 341.)
+(Pub. L. 100–497, § 18, Oct. 17, 1988, 102 Stat. 2484; Pub. L. 105–83, title I, § 123(a)(1)–(2)(B), Nov. 14, 1997, 111 Stat. 1566; Pub. L. 109–221, title III, § 301(b), May 12, 2006, 120 Stat. 341.)
 
 **Editorial Notes**
 
@@ -881,19 +881,19 @@ This chapter, referred to in subsec. (a)(1), (2), (4), was in the original “th
 
 2006—Subsec. (a)(2)(B). Pub. L. 109–221 added subpar. (B) and struck out former subpar. (B) which read as follows: “The total amount of all fees imposed during any fiscal year under the schedule established under paragraph (1) shall not exceed $8,000,000.”
 
-1997—Subsec. (a)(1). Pub. L. 105–83, § 123(a)(1), substituted “gaming operation that conducts a class II or class III gaming activity” for “class II gaming activity”.
+1997—Subsec. (a)(1). Pub. L. 105–83, § 123(a)(1), substituted “gaming operation that conducts a class II or class III gaming activity” for “class II gaming activity”.
 
-Subsec. (a)(2)(A)(i). Pub. L. 105–83, § 123(a)(2)(A), substituted “no more than 2.5 percent” for “no less than 0.5 percent nor more than 2.5 percent”.
+Subsec. (a)(2)(A)(i). Pub. L. 105–83, § 123(a)(2)(A), substituted “no more than 2.5 percent” for “no less than 0.5 percent nor more than 2.5 percent”.
 
-Subsec. (a)(2)(B). Pub. L. 105–83, § 123(a)(2)(B), substituted “$8,000,000” for “$1,500,000”.
+Subsec. (a)(2)(B). Pub. L. 105–83, § 123(a)(2)(B), substituted “$8,000,000” for “$1,500,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Application to Self-Regulated Tribes**
 
-Pub. L. 105–83, title I, § 123(a)(2)(C), Nov. 14, 1997, 111 Stat. 1566, as amended by Pub. L. 105–277, div. A, § 101(e) [title III, § 338], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295, provided that: “[N]othing in subsection (a) of this section [amending this section] shall apply to the Mississippi Band of Choctaw.”
+Pub. L. 105–83, title I, § 123(a)(2)(C), Nov. 14, 1997, 111 Stat. 1566, as amended by Pub. L. 105–277, div. A, § 101(e) [title III, § 338], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295, provided that: “[N]othing in subsection (a) of this section [amending this section] shall apply to the Mississippi Band of Choctaw.”
 
-## § 2717a. Availability of class II gaming activity fees to carry out duties of Commission
+## § 2717a. Availability of class II gaming activity fees to carry out duties of Commission
 
 In fiscal year 1990 and thereafter, fees collected pursuant to and as limited by section 2717 of this title shall be available to carry out the duties of the Commission, to remain available until expended.
 
@@ -905,13 +905,13 @@ In fiscal year 1990 and thereafter, fees collected pursuant to and as limited by
 
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1990, and not as part of the Indian Gaming Regulatory Act which comprises this chapter.
 
-## § 2718. Authorization of appropriations
+## § 2718. Authorization of appropriations
 
 **(a)** Subject to section 2717 of this title, there are authorized to be appropriated, for fiscal year 1998, and for each fiscal year thereafter, an amount equal to the amount of funds derived from the assessments authorized by section 2717(a) of this title.
 
 **(b)** Notwithstanding section 2717 of this title, there are authorized to be appropriated to fund the operation of the Commission, $2,000,000 for fiscal year 1998, and $2,000,000 for each fiscal year thereafter. The amounts authorized to be appropriated in the preceding sentence shall be in addition to the amounts authorized to be appropriated under subsection (a).
 
-(Pub. L. 100–497, § 19, Oct. 17, 1988, 102 Stat. 2485; Pub. L. 102–238, § 2(b), Dec. 17, 1991, 105 Stat. 1908; Pub. L. 105–83, title I, § 123(b), Nov. 14, 1997, 111 Stat. 1566; Pub. L. 105–119, title VI, § 627, Nov. 26, 1997, 111 Stat. 2522.)
+(Pub. L. 100–497, § 19, Oct. 17, 1988, 102 Stat. 2485; Pub. L. 102–238, § 2(b), Dec. 17, 1991, 105 Stat. 1908; Pub. L. 105–83, title I, § 123(b), Nov. 14, 1997, 111 Stat. 1566; Pub. L. 105–119, title VI, § 627, Nov. 26, 1997, 111 Stat. 2522.)
 
 **Editorial Notes**
 
@@ -919,13 +919,13 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 1997—Subsec. (a). Pub. L. 105–119 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to the provisions of section 2717 of this title, there are hereby authorized to be appropriated for fiscal year 1998, and for each fiscal year thereafter, an amount equal to the amount of funds derived from the assessments authorized by section 2717(a) of this title for the fiscal year immediately preceding the fiscal year involved, for the operation of the Commission.”
 
-Pub. L. 105–83, § 123(b)(1), substituted “for fiscal year 1998, and for each fiscal year thereafter, an amount equal to the amount of funds derived from the assessments authorized by section 2717(a) of this title for the fiscal year immediately preceding the fiscal year involved,” for “such sums as may be necessary”.
+Pub. L. 105–83, § 123(b)(1), substituted “for fiscal year 1998, and for each fiscal year thereafter, an amount equal to the amount of funds derived from the assessments authorized by section 2717(a) of this title for the fiscal year immediately preceding the fiscal year involved,” for “such sums as may be necessary”.
 
-Subsec. (b). Pub. L. 105–83, § 123(b)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “Notwithstanding the provisions of section 2717 of this title, there are hereby authorized to be appropriated not to exceed $2,000,000 to fund the operation of the Commission for each of the fiscal years beginning October 1, 1988, and October 1, 1989. Notwithstanding the provisions of section 2717 of this title, there are authorized to be appropriated such sums as may be necessary to fund the operation of the Commission for each of the fiscal years beginning October 1, 1991, and October 1, 1992.”
+Subsec. (b). Pub. L. 105–83, § 123(b)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “Notwithstanding the provisions of section 2717 of this title, there are hereby authorized to be appropriated not to exceed $2,000,000 to fund the operation of the Commission for each of the fiscal years beginning October 1, 1988, and October 1, 1989. Notwithstanding the provisions of section 2717 of this title, there are authorized to be appropriated such sums as may be necessary to fund the operation of the Commission for each of the fiscal years beginning October 1, 1991, and October 1, 1992.”
 
 1991—Subsec. (b). Pub. L. 102–238 inserted at end “Notwithstanding the provisions of section 2717 of this title, there are authorized to be appropriated such sums as may be necessary to fund the operation of the Commission for each of the fiscal years beginning October 1, 1991, and October 1, 1992.”
 
-## § 2719. Gaming on lands acquired after October 17, 1988
+## § 2719. Gaming on lands acquired after October 17, 1988
 
 **(a) Prohibition on lands acquired in trust by Secretary** Except as provided in subsection (b), gaming regulated by this chapter shall not be conducted on lands acquired by the Secretary in trust for the benefit of an Indian tribe after October 17, 1988, unless—
 
@@ -973,7 +973,7 @@ Nothing in this section shall affect or diminish the authority and responsibilit
 
 **(2)** The provisions of this subsection shall apply notwithstanding any other provision of law enacted before, on, or after October 17, 1988, unless such other provision of law specifically cites this subsection.
 
-(Pub. L. 100–497, § 20, Oct. 17, 1988, 102 Stat. 2485.)
+(Pub. L. 100–497, § 20, Oct. 17, 1988, 102 Stat. 2485.)
 
 **Editorial Notes**
 
@@ -981,11 +981,11 @@ Nothing in this section shall affect or diminish the authority and responsibilit
 
 This chapter, referred to in subsecs. (a) and (d)(1), was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-## § 2720. Dissemination of information
+## § 2720. Dissemination of information
 
 Consistent with the requirements of this chapter, sections 1301, 1302, 1303 and 1304 of title 18 shall not apply to any gaming conducted by an Indian tribe pursuant to this chapter.
 
-(Pub. L. 100–497, § 21, Oct. 17, 1988, 102 Stat. 2486.)
+(Pub. L. 100–497, § 21, Oct. 17, 1988, 102 Stat. 2486.)
 
 **Editorial Notes**
 
@@ -993,11 +993,11 @@ Consistent with the requirements of this chapter, sections 1301, 1302, 1303 and 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
-## § 2721. Severability
+## § 2721. Severability
 
 In the event that any section or provision of this chapter, or amendment made by this chapter, is held invalid, it is the intent of Congress that the remaining sections or provisions of this chapter, and amendments made by this chapter, shall continue in full force and effect.
 
-(Pub. L. 100–497, § 22, Oct. 17, 1988, 102 Stat. 2486.)
+(Pub. L. 100–497, § 22, Oct. 17, 1988, 102 Stat. 2486.)
 
 **Editorial Notes**
 

@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2015—Pub. L. 114–92, div. A, title V, § 555(b), Nov. 25, 2015, 129 Stat. 824, added item 16167.
+2015—Pub. L. 114–92, div. A, title V, § 555(b), Nov. 25, 2015, 129 Stat. 824, added item 16167.
 
-2008—Pub. L. 110–252, title V, § 5006(e)(3), June 30, 2008, 122 Stat. 2386, added item 16163a.
+2008—Pub. L. 110–252, title V, § 5006(e)(3), June 30, 2008, 122 Stat. 2386, added item 16163a.
 
-Pub. L. 110–181, div. A, title V, § 528(b)(2), Jan. 28, 2008, 122 Stat. 109, added item 16162a.
+Pub. L. 110–181, div. A, title V, § 528(b)(2), Jan. 28, 2008, 122 Stat. 109, added item 16162a.
 
-## § 16161. Purpose
+## § 16161. Purpose
 
 The purpose of this chapter is to provide educational assistance to members of the reserve components called or ordered to active service in response to a war or national emergency declared by the President or the Congress, in recognition of the sacrifices that those members make in answering the call to duty.
 
-(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1890.)
+(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1890.)
 
-## § 16162. Educational assistance program
+## § 16162. Educational assistance program
 
 **(a) Program Establishment.—** The Secretary of each military department, under regulations prescribed by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall establish and maintain a program as prescribed in this chapter to provide educational assistance to members of the Ready Reserve of the armed forces under the jurisdiction of the Secretary concerned.
 
@@ -97,15 +97,15 @@ The purpose of this chapter is to provide educational assistance to members of t
 
 **(B)** an appropriately reduced amount based on the amount so contributed as determined under regulations that the Secretary of Veterans Affairs shall prescribe, for an approved program of education pursued on less than a full-time basis.
 
-(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1890; amended Pub. L. 109–163, div. A, title V, § 539(b), Jan. 6, 2006, 119 Stat. 3250; Pub. L. 110–181, div. A, title V, § 528(c), Jan. 28, 2008, 122 Stat. 109.)
+(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1890; amended Pub. L. 109–163, div. A, title V, § 539(b), Jan. 6, 2006, 119 Stat. 3250; Pub. L. 110–181, div. A, title V, § 528(c), Jan. 28, 2008, 122 Stat. 109.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (c)(4)(C). Pub. L. 110–181, § 528(c)(1), substituted “for—” for “for two continuous years or more.” and added cls. (i) and (ii).
+2008—Subsec. (c)(4)(C). Pub. L. 110–181, § 528(c)(1), substituted “for—” for “for two continuous years or more.” and added cls. (i) and (ii).
 
-Subsec. (f). Pub. L. 110–181, § 528(c)(2), added subsec. (f).
+Subsec. (f). Pub. L. 110–181, § 528(c)(2), added subsec. (f).
 
 2006—Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
@@ -115,7 +115,7 @@ Subsec. (f). Pub. L. 110–181, § 528(c)(2), added subsec. (f).
 
 Amendment by Pub. L. 109–163 applicable to a licensing or certification test administered on or after Jan. 6, 2006, see section 539(c) of Pub. L. 109–163, set out as a note under section 16131 of this title.
 
-## § 16162a. Accelerated payment of educational assistance
+## § 16162a. Accelerated payment of educational assistance
 
 **(a) Payment on Accelerated Basis.—** The educational assistance allowance payable under section 16162 of this title with respect to an eligible member described in subsection (b) may, upon the election of such eligible member, be paid on an accelerated basis in accordance with this section.
 
@@ -161,15 +161,15 @@ Amendment by Pub. L. 109–163 applicable to a licensing or certification test a
 
 **(g) Limitation.—** The aggregate amount of educational assistance payable under this section in any fiscal year for enrollments covered by subsection (b)(1) may not exceed $3,000,000.
 
-(Added Pub. L. 110–181, div. A, title V, § 528(b)(1), Jan. 28, 2008, 122 Stat. 107.)
+(Added Pub. L. 110–181, div. A, title V, § 528(b)(1), Jan. 28, 2008, 122 Stat. 107.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 110–181, div. A, title V, § 528(b)(3), Jan. 28, 2008, 122 Stat. 109, provided that: “The amendments made by this subsection [enacting this section] shall take effect on October 1, 2008, and shall only apply to initial enrollments in approved programs of education after such date.”
+Pub. L. 110–181, div. A, title V, § 528(b)(3), Jan. 28, 2008, 122 Stat. 109, provided that: “The amendments made by this subsection [enacting this section] shall take effect on October 1, 2008, and shall only apply to initial enrollments in approved programs of education after such date.”
 
-## § 16163. Eligibility for educational assistance
+## § 16163. Eligibility for educational assistance
 
 **(a) Eligibility.—** On or after September 11, 2001, a member of a reserve component is entitled to educational assistance under this chapter if the member—
 
@@ -193,7 +193,7 @@ Pub. L. 110–181, div. A, title V, § 528(b)(3), Jan. 28, 2008, 122 Stat. 109
 
 **(2)** The restriction on duplication of educational assistance under paragraph (1) does not apply to the entitlement of educational assistance under section 16131(i) of this title.
 
-(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1892; amended Pub. L. 109–163, div. A, title V, § 540(a), Jan. 6, 2006, 119 Stat. 3251; Pub. L. 110–252, title V, § 5003(b)(1)(C), June 30, 2008, 122 Stat. 2375; Pub. L. 111–84, div. A, title X, § 1073(a)(36), Oct. 28, 2009, 123 Stat. 2474.)
+(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1892; amended Pub. L. 109–163, div. A, title V, § 540(a), Jan. 6, 2006, 119 Stat. 3251; Pub. L. 110–252, title V, § 5003(b)(1)(C), June 30, 2008, 122 Stat. 2375; Pub. L. 111–84, div. A, title X, § 1073(a)(36), Oct. 28, 2009, 123 Stat. 2474.)
 
 **Editorial Notes**
 
@@ -213,9 +213,9 @@ The Hostage Relief Act of 1980, referred to in subsec. (e)(1), is Pub. L. 96–4
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–252, title V, § 5003(d), June 30, 2008, 122 Stat. 2378, provided that: “This section [enacting chapter 33 of Title 38, Veterans’ Benefits, amending this section and sections 3033, 3485, 3688 to 3690, 3692, 3695, 3697, and 3697A of Title 38, and enacting provisions set out as a note under section 3301 of Title 38] and the amendments made by this section shall take effect on August 1, 2009.”
+Pub. L. 110–252, title V, § 5003(d), June 30, 2008, 122 Stat. 2378, provided that: “This section [enacting chapter 33 of Title 38, Veterans’ Benefits, amending this section and sections 3033, 3485, 3688 to 3690, 3692, 3695, 3697, and 3697A of Title 38, and enacting provisions set out as a note under section 3301 of Title 38] and the amendments made by this section shall take effect on August 1, 2009.”
 
-## § 16163a. Authority to transfer unused education benefits to family members
+## § 16163a. Authority to transfer unused education benefits to family members
 
 **(a) In General.—** Subject to the provisions of this section, the Secretary concerned may permit, at such Secretary’s sole discretion, a member described in subsection (b) who is entitled to basic educational assistance under this chapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such member’s entitlement to such assistance, subject to the limitation under subsection (d).
 
@@ -315,7 +315,7 @@ Pub. L. 110–252, title V, § 5003(d), June 30, 2008, 122 Stat. 2378, provide
 
 **(k) Secretary Concerned Defined.—** For purposes of this section, the term “Secretary concerned” has the meaning given in section 101(a)(9) in the case of a member of the armed forces.
 
-(Added Pub. L. 110–252, title V, § 5006(c), June 30, 2008, 122 Stat. 2383; amended Pub. L. 111–383, div. A, title X, § 1075(b)(56), Jan. 7, 2011, 124 Stat. 4372.)
+(Added Pub. L. 110–252, title V, § 5006(c), June 30, 2008, 122 Stat. 2383; amended Pub. L. 111–383, div. A, title X, § 1075(b)(56), Jan. 7, 2011, 124 Stat. 4372.)
 
 **Editorial Notes**
 
@@ -323,7 +323,7 @@ Pub. L. 110–252, title V, § 5003(d), June 30, 2008, 122 Stat. 2378, provide
 
 2011—Subsec. (b)(2). Pub. L. 111–383 substituted “subsection (j)” for “section (j)”.
 
-## § 16164. Time limitation for use of entitlement
+## § 16164. Time limitation for use of entitlement
 
 **(a) Duration of Entitlement.—** Except as provided in subsection (b), a member remains entitled to educational assistance under this chapter—
 
@@ -341,7 +341,7 @@ Pub. L. 110–252, title V, § 5003(d), June 30, 2008, 122 Stat. 2378, provide
 
 **(2)** The provisions of subsections (d) and (f) of section 3031 of title 38 shall apply to the period of entitlement prescribed by paragraph (1).
 
-(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1892; amended Pub. L. 110–181, div. A, title V, § 530(a)(1), Jan. 28, 2008, 122 Stat. 110; Pub. L. 110–417, [div. A], title V, § 546(a), Oct. 14, 2008, 122 Stat. 4466.)
+(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1892; amended Pub. L. 110–181, div. A, title V, § 530(a)(1), Jan. 28, 2008, 122 Stat. 110; Pub. L. 110–417, [div. A], title V, § 546(a), Oct. 14, 2008, 122 Stat. 4466.)
 
 **Editorial Notes**
 
@@ -359,7 +359,7 @@ Subsec. (a)(2). Pub. L. 110–417 substituted “honorable conditions” for “
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–417, [div. A], title V, § 546(b), Oct. 14, 2008, 122 Stat. 4466, provided that:
+Pub. L. 110–417, [div. A], title V, § 546(b), Oct. 14, 2008, 122 Stat. 4466, provided that:
 
 > “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 14, 2008] and shall apply to a person described in section 16163 of title 10, United States Code, who—
 
@@ -367,9 +367,9 @@ Pub. L. 110–417, [div. A], title V, § 546(b), Oct. 14, 2008, 122 Stat. 4466
 
 > **“(2)** as of the date of the enactment of this Act, has not used any of the person’s entitlement to educational assistance under chapter 1607 of such title.”
 
-Pub. L. 110–181, div. A, title V, § 530(c), Jan. 28, 2008, 122 Stat. 110, provided that: “The amendments made by this section [amending this section and section 16165 of this title] shall take effect as of October 28, 2004, as if included in the enactment of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375), to which such amendments relate.”
+Pub. L. 110–181, div. A, title V, § 530(c), Jan. 28, 2008, 122 Stat. 110, provided that: “The amendments made by this section [amending this section and section 16165 of this title] shall take effect as of October 28, 2004, as if included in the enactment of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375), to which such amendments relate.”
 
-## § 16165. Termination of assistance
+## § 16165. Termination of assistance
 
 **(a) In General.—** Except as provided in subsection (b), educational assistance may not be provided under this chapter, or if being provided under this chapter, shall be terminated—
 
@@ -379,15 +379,15 @@ Pub. L. 110–181, div. A, title V, § 530(c), Jan. 28, 2008, 122 Stat. 110, p
 
 **(b) Exception.—** Under regulations prescribed by the Secretary of Defense, educational assistance may be provided under this chapter to a member of the Selected Reserve of the Ready Reserve who incurs a break in service in the Selected Reserve if the member continues to serve in the Ready Reserve during and after such break in service.
 
-(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1893; amended Pub. L. 109–163, div. A, title V, § 540(b), Jan. 6, 2006, 119 Stat. 3251; Pub. L. 110–181, div. A, title V, § 530(a)(2), (b), Jan. 28, 2008, 122 Stat. 110.)
+(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1893; amended Pub. L. 109–163, div. A, title V, § 540(b), Jan. 6, 2006, 119 Stat. 3251; Pub. L. 110–181, div. A, title V, § 530(a)(2), (b), Jan. 28, 2008, 122 Stat. 110.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(2). Pub. L. 110–181, § 530(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “when the member separates from the Ready Reserve, as provided for under section 16164(a)(1) or section 16164(a)(2), as applicable, of this title.”
+2008—Subsec. (a)(2). Pub. L. 110–181, § 530(a)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “when the member separates from the Ready Reserve, as provided for under section 16164(a)(1) or section 16164(a)(2), as applicable, of this title.”
 
-Subsec. (b). Pub. L. 110–181, § 530(b), struck out “of not more than 90 days” after “in the Selected Reserve”.
+Subsec. (b). Pub. L. 110–181, § 530(b), struck out “of not more than 90 days” after “in the Selected Reserve”.
 
 2006—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), educational assistance” for “Educational assistance”, and added subsec. (b).
 
@@ -397,7 +397,7 @@ Subsec. (b). Pub. L. 110–181, § 530(b), struck out “of not more than 90 d
 
 Amendment by Pub. L. 110–181 effective as of Oct. 28, 2004, as if included in the enactment of Pub. L. 108–375 to which such amendment related, see section 530(c) of Pub. L. 110–181, set out as a note under section 16164 of this title.
 
-## § 16166. Administration of program
+## § 16166. Administration of program
 
 **(a) Administration.—** Educational assistance under this chapter shall be provided through the Department of Veterans Affairs, under agreements to be entered into by the Secretary of Defense, and by the Secretary of Homeland Security, with the Secretary of Veterans Affairs. Such agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Department of Veterans Affairs for the making of payments under this chapter.
 
@@ -413,9 +413,9 @@ Amendment by Pub. L. 110–181 effective as of Oct. 28, 2004, as if included in 
 
 **(d) Trust Fund.—** Amounts for payments for benefits under this chapter shall be derived from the Department of Defense Education Benefits Fund under section 2006 of this title.
 
-(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1893.)
+(Added Pub. L. 108–375, div. A, title V, § 527(a), Oct. 28, 2004, 118 Stat. 1893.)
 
-## § 16167. Sunset
+## § 16167. Sunset
 
 **(a) Sunset.—** The authority to provide educational assistance under this chapter shall terminate on the date that is four years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016.
 
@@ -423,7 +423,7 @@ Amendment by Pub. L. 110–181 effective as of Oct. 28, 2004, as if included in 
 
 **(c) Eligibility for Post-9/11 Educational Assistance.—** A member who loses eligibility for benefits under this chapter pursuant to subsection (b) shall be allowed to elect (in such form and manner as the Secretary of Veterans Affairs may prescribe) to have such service previously credited toward this chapter credited towards establishing eligibility for educational assistance under chapter 33 of title 38, notwithstanding the provisions of section 16163(e) of this title or section 3322(h)(1) of title 38.
 
-(Added Pub. L. 114–92, div. A, title V, § 555(a), Nov. 25, 2015, 129 Stat. 824; amended Pub. L. 115–48, title I, § 106(a), Aug. 16, 2017, 131 Stat. 977.)
+(Added Pub. L. 114–92, div. A, title V, § 555(a), Nov. 25, 2015, 129 Stat. 824; amended Pub. L. 115–48, title I, § 106(a), Aug. 16, 2017, 131 Stat. 977.)
 
 **Editorial Notes**
 

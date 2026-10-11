@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 21—FOOD AND DRUGS
 
-Current through 119-102not101
+Current through 119-102not101
 
 - [CHAPTER 1—ADULTERATED OR MISBRANDED FOODS OR DRUGS](chapter-001-adulterated-or-misbranded-foods-or-drugs.md)
 

@@ -17,11 +17,11 @@ retrieved: 2026-10-11
 
 **Codification**
 
-The Agricultural Trade Act of 1978, comprising this chapter, was originally enacted as Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, which enacted sections 1707b to 1707d, 1765a to 1765h, 1769, and 2211a of this title, amended sections 1707a, 1761, 1762, 1764, 1765, and 1766b of this title and section 5314 of Title 5, Government Organization and Employees, redesignated sections 1762(d), (f), and 1763 as sections 1766a to 1766c of this title, and enacted provisions set out as notes under sections 612c–3, 1761, and 2211a of this title and section 2431 of Title 19, Customs Duties. The Act is shown herein, however, as having been added by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668, because of the extensive amendments, renumbering, reorganization of subject matter, and expansion of the basic Act’s provisions by Pub. L. 101–624.
+The Agricultural Trade Act of 1978, comprising this chapter, was originally enacted as Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, which enacted sections 1707b to 1707d, 1765a to 1765h, 1769, and 2211a of this title, amended sections 1707a, 1761, 1762, 1764, 1765, and 1766b of this title and section 5314 of Title 5, Government Organization and Employees, redesignated sections 1762(d), (f), and 1763 as sections 1766a to 1766c of this title, and enacted provisions set out as notes under sections 612c–3, 1761, and 2211a of this title and section 2431 of Title 19, Customs Duties. The Act is shown herein, however, as having been added by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668, because of the extensive amendments, renumbering, reorganization of subject matter, and expansion of the basic Act’s provisions by Pub. L. 101–624.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 5601. Purpose
+### § 5601. Purpose
 
 It is the purpose of this chapter to increase the profitability of farming and to increase opportunities for United States farms and agricultural enterprises by—
 
@@ -31,7 +31,7 @@ It is the purpose of this chapter to increase the profitability of farming and t
 
 **(3)** providing for the coordination and efficient implementation of all agricultural export programs.
 
-(Pub. L. 95–501, title I, § 101, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3669.)
+(Pub. L. 95–501, title I, § 101, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3669.)
 
 **Editorial Notes**
 
@@ -43,13 +43,13 @@ A prior section 101 of Pub. L. 95–501 amended section 1707a of this title prio
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–465, title IV, § 411(a)(1), Dec. 8, 1994, 108 Stat. 4962, provided that: “This subsection [amending section 5651 of this title] may be cited as the ‘Export Enhancement Program Amendments of 1994’.”
+Pub. L. 103–465, title IV, § 411(a)(1), Dec. 8, 1994, 108 Stat. 4962, provided that: “This subsection [amending section 5651 of this title] may be cited as the ‘Export Enhancement Program Amendments of 1994’.”
 
 **Short Title**
 
-Pub. L. 95–501, § 1, as added by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3669, provided that: “This Act [enacting this chapter] may be cited as the ‘Agricultural Trade Act of 1978’.”
+Pub. L. 95–501, § 1, as added by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3669, provided that: “This Act [enacting this chapter] may be cited as the ‘Agricultural Trade Act of 1978’.”
 
-### § 5602. Definitions
+### § 5602. Definitions
 
 As used in this chapter—
 
@@ -89,9 +89,9 @@ The term “Service” means the Foreign Agricultural Service of the Department 
 
 **(I)** a trade restriction or commercial requirement (such as a labeling requirement) that adversely affects a new technology (including biotechnology); and
 
-**(II)** an unjustified sanitary or phytosanitary restriction (including any restriction that, in violation of the Uruguay Round Agreements, is not based on scientific principles; 1
+**(II)** an unjustified sanitary or phytosanitary restriction (including any restriction that, in violation of the Uruguay Round Agreements, is not based on scientific principles; 1
 
-<sup>1</sup>  So in original. There probably should be a closing parenthesis.
+<sup>1</sup> So in original. There probably should be a closing parenthesis.
 
 **(v)** imposes a rule that unfairly restricts imports of United States agricultural commodities in the administration of tariff rate quotas; or
 
@@ -121,7 +121,7 @@ For purposes of this paragraph, fish entirely produced in the United States incl
 
 The term “independent states of the former Soviet Union” means the following: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
 
-(Pub. L. 95–501, title I, § 102, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3669; amended Pub. L. 102–511, title VII, § 702, Oct. 24, 1992, 106 Stat. 3349; Pub. L. 104–127, title II, § 243(c), Apr. 4, 1996, 110 Stat. 967; Pub. L. 107–171, title III, § 3104(b), May 13, 2002, 116 Stat. 290.)
+(Pub. L. 95–501, title I, § 102, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3669; amended Pub. L. 102–511, title VII, § 702, Oct. 24, 1992, 106 Stat. 3349; Pub. L. 104–127, title II, § 243(c), Apr. 4, 1996, 110 Stat. 967; Pub. L. 107–171, title III, § 3104(b), May 13, 2002, 116 Stat. 290.)
 
 **Editorial Notes**
 
@@ -145,11 +145,11 @@ The term “independent states of the former Soviet Union” means the following
 
 “(III) there is no acceptable substitute for such component that is commercially produced in the United States.”
 
-1992—Par. (1). Pub. L. 102–511, § 702(a), substituted “feed, fiber, or livestock (including livestock as it is defined in section 1471(2) of this title and insects)” for “feed, or fiber”.
+1992—Par. (1). Pub. L. 102–511, § 702(a), substituted “feed, fiber, or livestock (including livestock as it is defined in section 1471(2) of this title and insects)” for “feed, or fiber”.
 
-Par. (8). Pub. L. 102–511, § 702(b), added par. (8).
+Par. (8). Pub. L. 102–511, § 702(b), added par. (8).
 
-### § 5603. Agricultural export promotion strategy
+### § 5603. Agricultural export promotion strategy
 
 **(a) In general** The Secretary shall develop a strategy for implementing Federal agricultural export promotion programs that takes into account the new market opportunities for agricultural products, including opportunities that result from—
 
@@ -193,7 +193,7 @@ The strategy developed under subsection (a) shall encourage the maintenance, dev
 
 The President shall identify annually in the budget of the United States Government submitted under section 1105 of title 31 each overseas office of the Foreign Agricultural Service that provides assistance to United States exporters in each of the priority markets identified under paragraph (1).
 
-(Pub. L. 95–501, title I, § 103, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3670; amended Pub. L. 102–237, title III, § 308, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 104–127, title II, § 241(a), Apr. 4, 1996, 110 Stat. 963.)
+(Pub. L. 95–501, title I, § 103, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3670; amended Pub. L. 102–237, title III, § 308, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 104–127, title II, § 241(a), Apr. 4, 1996, 110 Stat. 963.)
 
 **Editorial Notes**
 
@@ -207,13 +207,13 @@ The President shall identify annually in the budget of the United States Governm
 
 **Prohibition on Use of Funds for Promotion of Tobacco or Tobacco Products**
 
-Pub. L. 108–199, div. A, title VII, § 770, Jan. 23, 2004, 118 Stat. 40, provided that: “Hereafter, no funds provided in this or any other Act shall be available to the Secretary of Agriculture acting through the Foreign Agricultural Service to promote the sale or export of tobacco or tobacco products.”
+Pub. L. 108–199, div. A, title VII, § 770, Jan. 23, 2004, 118 Stat. 40, provided that: “Hereafter, no funds provided in this or any other Act shall be available to the Secretary of Agriculture acting through the Foreign Agricultural Service to promote the sale or export of tobacco or tobacco products.”
 
 **Use of Department of Agriculture Programs for Promotion of Wood and Processed Wood Products**
 
-Pub. L. 100–418, title IV, § 4404, Aug. 23, 1988, 102 Stat. 1402, provided that: “The Secretary of Agriculture shall actively use Department of Agriculture concessional programs and export credit guarantee programs to promote the export of wood and processed wood products.”
+Pub. L. 100–418, title IV, § 4404, Aug. 23, 1988, 102 Stat. 1402, provided that: “The Secretary of Agriculture shall actively use Department of Agriculture concessional programs and export credit guarantee programs to promote the export of wood and processed wood products.”
 
-### § 5603a. Global market strategy
+### § 5603a. Global market strategy
 
 **(a) In general** Not later than 180 days after May 13, 2002, and biennially thereafter, the Secretary of Agriculture shall consult with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the formulation and implementation of a global market strategy for the Department of Agriculture that, to the maximum extent practicable—
 
@@ -221,9 +221,9 @@ Pub. L. 100–418, title IV, § 4404, Aug. 23, 1988, 102 Stat. 1402, provided 
 
 **(2)** ensures that the resources, programs, and policies of the Department are coordinated with those of other agencies; and
 
-**(3)** remove 1
+**(3)** remove 1
 
-<sup>1</sup>  So in original. Probably should be “removes”.
+<sup>1</sup> So in original. Probably should be “removes”.
 
 barriers to agricultural trade in overseas markets.
 
@@ -233,7 +233,7 @@ barriers to agricultural trade in overseas markets.
 
 **(2)** the progress of the Department in implementing the strategic goals through the global market strategy.
 
-(Pub. L. 107–171, title III, § 3206, May 13, 2002, 116 Stat. 301.)
+(Pub. L. 107–171, title III, § 3206, May 13, 2002, 116 Stat. 301.)
 
 **Editorial Notes**
 
@@ -247,19 +247,19 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 5604. Preservation of traditional markets
+### § 5604. Preservation of traditional markets
 
 The Secretary shall, in implementing programs of the Department of Agriculture intended to encourage or assist exports of agricultural commodities, seek to preserve traditional markets for United States agricultural commodities.
 
-(Pub. L. 95–501, title I, § 104, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3672.)
+(Pub. L. 95–501, title I, § 104, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3672.)
 
-### § 5605. Independence of authorities
+### § 5605. Independence of authorities
 
 Each authority granted under this chapter shall be in addition to, and not in lieu of, any authority granted to the Secretary or the Commodity Credit Corporation under any other provision of law.
 
-(Pub. L. 95–501, title I, § 105, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3672.)
+(Pub. L. 95–501, title I, § 105, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3672.)
 
-### § 5606. Implementation of commitments under Uruguay Round Agreements
+### § 5606. Implementation of commitments under Uruguay Round Agreements
 
 Not later than September 30 of each year, the Secretary shall evaluate whether the obligations undertaken by foreign countries under the Uruguay Round Agreement on Agriculture are being fully implemented. If the Secretary has reason to believe (based on the evaluation) that any foreign country, by not implementing the obligations of the country, may be significantly constraining an opportunity for United States agricultural exports, the Secretary shall—
 
@@ -267,15 +267,15 @@ Not later than September 30 of each year, the Secretary shall evaluate whether t
 
 **(2)** transmit a copy of the evaluation to the Committee on Agriculture, and the Committee on Ways and Means, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, and the Committee on Finance, of the Senate.
 
-(Pub. L. 95–501, title I, § 106, as added Pub. L. 104–127, title II, § 242(a), Apr. 4, 1996, 110 Stat. 964.)
+(Pub. L. 95–501, title I, § 106, as added Pub. L. 104–127, title II, § 242(a), Apr. 4, 1996, 110 Stat. 964.)
 
-### § 5607. Exporter assistance initiative
+### § 5607. Exporter assistance initiative
 
 To provide a comprehensive source of information to facilitate exports of United States agricultural commodities, the Secretary shall maintain on a website on the Internet information to assist exporters and potential exporters of United States agricultural commodities.
 
-(Pub. L. 95–501, title I, § 107, as added Pub. L. 107–171, title III, § 3101, May 13, 2002, 116 Stat. 288.)
+(Pub. L. 95–501, title I, § 107, as added Pub. L. 107–171, title III, § 3101, May 13, 2002, 116 Stat. 288.)
 
-### § 5608. Foreign trade missions
+### § 5608. Foreign trade missions
 
 **(a) Tribal representation on trade missions**
 
@@ -315,7 +315,7 @@ To provide a comprehensive source of information to facilitate exports of United
 
 Not later than 90 days after December 20, 2018, the Secretary shall establish goals for measuring, in an objective and quantifiable format, the extent to which Indian Tribes and Tribal agricultural and food products are included in the trade-related activities of the Department of Agriculture.
 
-(Pub. L. 115–334, title III, § 3312, Dec. 20, 2018, 132 Stat. 4623.)
+(Pub. L. 115–334, title III, § 3312, Dec. 20, 2018, 132 Stat. 4623.)
 
 **Editorial Notes**
 
@@ -333,7 +333,7 @@ Section was enacted as part of the Agriculture Improvement Act of 2018, and not 
 
 ### Part A—Programs
 
-#### § 5621. Direct credit sales program
+#### § 5621. Direct credit sales program
 
 **(a) Short-term program**
 
@@ -383,7 +383,7 @@ Export sales financing authorized under this section shall not be used for forei
 
 The Commodity Credit Corporation may not make export sales financing authorized under this section available in connection with sales of an agricultural commodity to any country that the Secretary determines cannot adequately service the debt associated with such sale.
 
-(Pub. L. 95–501, title II, § 201, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3672; amended Pub. L. 102–511, title VII, § 707(a)–(c), Oct. 24, 1992, 106 Stat. 3350, 3351; Pub. L. 104–127, title II, § 277(c)(2), Apr. 4, 1996, 110 Stat. 979.)
+(Pub. L. 95–501, title II, § 201, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3672; amended Pub. L. 102–511, title VII, § 707(a)–(c), Oct. 24, 1992, 106 Stat. 3350, 3351; Pub. L. 104–127, title II, § 277(c)(2), Apr. 4, 1996, 110 Stat. 979.)
 
 **Editorial Notes**
 
@@ -395,19 +395,19 @@ A prior section 201 of Pub. L. 95–501 enacted section 1707b of this title prio
 
 1996—Subsec. (d)(1)(C)(ii). Pub. L. 104–127 substituted “emerging markets” for “emerging democracies”.
 
-1992—Subsec. (c). Pub. L. 102–511, § 707(a), inserted sentence at end.
+1992—Subsec. (c). Pub. L. 102–511, § 707(a), inserted sentence at end.
 
-Subsec. (d)(1)(C). Pub. L. 102–511, § 707(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to assist countries, particularly developing countries, in meeting their food and fiber needs; and”.
+Subsec. (d)(1)(C). Pub. L. 102–511, § 707(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to assist countries, particularly developing countries, in meeting their food and fiber needs; and”.
 
-Subsec. (f). Pub. L. 102–511, § 707(c), added subsec. (f).
+Subsec. (f). Pub. L. 102–511, § 707(c), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 102–511, title VII, § 707(d), Oct. 24, 1992, 106 Stat. 3351, required Secretary of Agriculture to issue final regulations to implement this section not later than 30 days after Oct. 24, 1992, prior to repeal by Pub. L. 104–127, title II, § 276, Apr. 4, 1996, 110 Stat. 977.
+Pub. L. 102–511, title VII, § 707(d), Oct. 24, 1992, 106 Stat. 3351, required Secretary of Agriculture to issue final regulations to implement this section not later than 30 days after Oct. 24, 1992, prior to repeal by Pub. L. 104–127, title II, § 276, Apr. 4, 1996, 110 Stat. 977.
 
-#### § 5622. Export credit guarantee program
+#### § 5622. Export credit guarantee program
 
 **(a) Short-term credit guarantees**
 
@@ -479,7 +479,7 @@ In this subsection, the term “long term” means a period of 10 or more years.
 
 **(D)** notwithstanding any other provision of this section, administer and carry out (only after consulting with the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate) the program pursuant to such terms as may be agreed between the parties to address the World Trade Organization dispute WTO/DS267 to the extent not superseded by any applicable international undertakings on officially supported export credits to which the United States is a party.
 
-(Pub. L. 95–501, title II, § 202, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, § 334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§ 708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§ 243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, § 3102(a)–(c), May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, § 3101(a), (c), June 18, 2008, 122 Stat. 1831, 1832; Pub. L. 113–79, title III, § 3101(a), Feb. 7, 2014, 128 Stat. 778.)
+(Pub. L. 95–501, title II, § 202, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, § 334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§ 708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§ 243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, § 3102(a)–(c), May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, § 3101(a), (c), June 18, 2008, 122 Stat. 1831, 1832; Pub. L. 113–79, title III, § 3101(a), Feb. 7, 2014, 128 Stat. 778.)
 
 **Editorial Notes**
 
@@ -489,73 +489,73 @@ A prior section 202 of Pub. L. 95–501 enacted section 1707c of this title prio
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–79, § 3101(a)(1), substituted “24-month” for “3-year”.
+2014—Subsec. (a). Pub. L. 113–79, § 3101(a)(1), substituted “24-month” for “3-year”.
 
-Subsec. (d). Pub. L. 113–79, § 3101(a)(2), substituted “obligor” for “country”.
+Subsec. (d). Pub. L. 113–79, § 3101(a)(2), substituted “obligor” for “country”.
 
-Subsecs. (i), (j). Pub. L. 113–79, § 3101(a)(3), (4), redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to percentages of export credit guarantees issued to promote export of processed or high-value agricultural products in fiscal years 1996 through 2007.
+Subsecs. (i), (j). Pub. L. 113–79, § 3101(a)(3), (4), redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to percentages of export credit guarantees issued to promote export of processed or high-value agricultural products in fiscal years 1996 through 2007.
 
-Subsec. (j)(2)(A), (B). Pub. L. 113–79, § 3101(a)(5)(A), (B), redesignated subpars. (C) and (D) as (A) and (B), respectively, and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (j)(2)(A), (B). Pub. L. 113–79, § 3101(a)(5)(A), (B), redesignated subpars. (C) and (D) as (A) and (B), respectively, and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) maximize the export sales of agricultural commodities;
 
 “(B) maximize the export credit guarantees that are made available and used during the course of a fiscal year;”.
 
-Subsec. (j)(2)(C). Pub. L. 113–79, § 3101(a)(5)(B), (D)(i), redesignated subpar. (E) as (C) and struck out “, but do not exceed,” after “cover”. Former subpar. (C) redesignated (A).
+Subsec. (j)(2)(C). Pub. L. 113–79, § 3101(a)(5)(B), (D)(i), redesignated subpar. (E) as (C) and struck out “, but do not exceed,” after “cover”. Former subpar. (C) redesignated (A).
 
-Subsec. (j)(2)(D). Pub. L. 113–79, § 3101(a)(5)(C), (D)(ii), (E), added subpar. (D). Former subpar. (D) redesignated (B).
+Subsec. (j)(2)(D). Pub. L. 113–79, § 3101(a)(5)(C), (D)(ii), (E), added subpar. (D). Former subpar. (D) redesignated (B).
 
-Subsec. (j)(2)(E). Pub. L. 113–79, § 3101(a)(5)(B), redesignated subpar. (E) as (C).
+Subsec. (j)(2)(E). Pub. L. 113–79, § 3101(a)(5)(B), redesignated subpar. (E) as (C).
 
-Subsec. (k). Pub. L. 113–79, § 3101(a)(4), redesignated subsec. (k) as (j).
+Subsec. (k). Pub. L. 113–79, § 3101(a)(4), redesignated subsec. (k) as (j).
 
-2008—Subsec. (a). Pub. L. 110–246, § 3101(a)(1), struck out par. (1) designation and heading before “The Commodity” and struck out pars. (2) and (3) which related to supplier credits and extended supplier credits, respectively.
+2008—Subsec. (a). Pub. L. 110–246, § 3101(a)(1), struck out par. (1) designation and heading before “The Commodity” and struck out pars. (2) and (3) which related to supplier credits and extended supplier credits, respectively.
 
-Subsec. (b). Pub. L. 110–246, § 3101(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Subject to the provisions of subsection (c) of this section, the Commodity Credit Corporation may guarantee the repayment of credit made available by financial institutions in the United States to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that are for not less than a 3-year period nor for more than a 10-year period in a manner that will directly benefit United States agricultural producers.”
+Subsec. (b). Pub. L. 110–246, § 3101(a)(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Subject to the provisions of subsection (c) of this section, the Commodity Credit Corporation may guarantee the repayment of credit made available by financial institutions in the United States to finance commercial export sales of agricultural commodities, including processed agricultural products and high-value agricultural products, from privately owned stocks on credit terms that are for not less than a 3-year period nor for more than a 10-year period in a manner that will directly benefit United States agricultural producers.”
 
-Subsec. (b)(4). Pub. L. 110–246, § 3101(c)(1), struck out “, consistent with the provisions of subsection (c) of this section” after “appropriate”.
+Subsec. (b)(4). Pub. L. 110–246, § 3101(c)(1), struck out “, consistent with the provisions of subsection (c) of this section” after “appropriate”.
 
-Subsec. (c). Pub. L. 110–246, § 3101(a)(2), (3), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to requirements for guarantees under former subsec. (b).
+Subsec. (c). Pub. L. 110–246, § 3101(a)(2), (3), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to requirements for guarantees under former subsec. (b).
 
-Subsec. (d). Pub. L. 110–246, § 3101(c)(2), struck out par. (1) designation and heading before “The Commodity” and struck out par. (2) which related to criteria for the determination required under this subsec. with respect to credit guarantees under former subsec. (b).
+Subsec. (d). Pub. L. 110–246, § 3101(c)(2), struck out par. (1) designation and heading before “The Commodity” and struck out par. (2) which related to criteria for the determination required under this subsec. with respect to credit guarantees under former subsec. (b).
 
-Pub. L. 110–246, § 3101(a)(3), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
+Pub. L. 110–246, § 3101(a)(3), redesignated subsec. (f) as (d). Former subsec. (d) redesignated (b).
 
-Subsecs. (e) to (g). Pub. L. 110–246, § 3101(a)(3), redesignated subsecs. (g) to (i) as (e) to (g), respectively. Former subsecs. (e) and (f) redesignated (c) and (d), respectively.
+Subsecs. (e) to (g). Pub. L. 110–246, § 3101(a)(3), redesignated subsecs. (g) to (i) as (e) to (g), respectively. Former subsecs. (e) and (f) redesignated (c) and (d), respectively.
 
-Subsec. (g)(2). Pub. L. 110–246, § 3101(c)(3), substituted “subsection (a)” for “subsections (a) and (b)”.
+Subsec. (g)(2). Pub. L. 110–246, § 3101(c)(3), substituted “subsection (a)” for “subsections (a) and (b)”.
 
-Subsecs. (h) to (*l*). Pub. L. 110–246, § 3101(a)(3), (4), redesignated subsecs. (j) to (*l*) as (h) to (j), respectively, and added subsec. (k). Former subsecs. (h) and (i) redesignated (f) and (g), respectively.
+Subsecs. (h) to (*l*). Pub. L. 110–246, § 3101(a)(3), (4), redesignated subsecs. (j) to (*l*) as (h) to (j), respectively, and added subsec. (k). Former subsecs. (h) and (i) redesignated (f) and (g), respectively.
 
-2002—Subsec. (a)(3). Pub. L. 107–171, § 3102(a), added par. (3).
+2002—Subsec. (a)(3). Pub. L. 107–171, § 3102(a), added par. (3).
 
-Subsec. (k)(1). Pub. L. 107–171, § 3102(b), substituted “through 2007” for “, 2001, and 2002”.
+Subsec. (k)(1). Pub. L. 107–171, § 3102(b), substituted “through 2007” for “, 2001, and 2002”.
 
-Subsec. (*l*). Pub. L. 107–171, § 3102(c), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 107–171, § 3102(c), added subsec. (*l*).
 
-1996—Subsec. (a). Pub. L. 104–127, § 243(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+1996—Subsec. (a). Pub. L. 104–127, § 243(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (d)(3)(B). Pub. L. 104–127, § 277(c)(3), substituted “emerging markets” for “emerging democracies”.
+Subsec. (d)(3)(B). Pub. L. 104–127, § 277(c)(3), substituted “emerging markets” for “emerging democracies”.
 
-Subsec. (f). Pub. L. 104–127, § 243(a)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (f). Pub. L. 104–127, § 243(a)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (h). Pub. L. 104–127, § 243(a)(3), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “The Commodity Credit Corporation shall finance or guarantee under this section only United States agricultural commodities. The Commodity Credit Corporation shall not finance or guarantee under this section the value of any foreign agricultural component.”
+Subsec. (h). Pub. L. 104–127, § 243(a)(3), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “The Commodity Credit Corporation shall finance or guarantee under this section only United States agricultural commodities. The Commodity Credit Corporation shall not finance or guarantee under this section the value of any foreign agricultural component.”
 
-Subsec. (i). Pub. L. 104–127, § 243(a)(4), designated existing provisions as par. (1), inserted heading, struck out former par. (1) which read as follows: “is not in a sound financial condition;”, redesignated pars. (2) and (3) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+Subsec. (i). Pub. L. 104–127, § 243(a)(4), designated existing provisions as par. (1), inserted heading, struck out former par. (1) which read as follows: “is not in a sound financial condition;”, redesignated pars. (2) and (3) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
-Subsec. (k). Pub. L. 104–127, § 243(a)(5), added subsec. (k) and struck out heading and text of former subsec. (k). Text read as follows:
+Subsec. (k). Pub. L. 104–127, § 243(a)(5), added subsec. (k) and struck out heading and text of former subsec. (k). Text read as follows:
 
 “(1) In general.—In issuing export credit guarantees under this section in connection with sales to the independent states of the former Soviet Union, the Commodity Credit Corporation shall, to the extent practicable and subject to paragraph (2), ensure that no less than 35 percent of the total amount of credit guarantees issued for a fiscal year are issued to promote the export of processed and high-value agricultural products and that the balance are issued to promote the export of bulk or raw agricultural commodities.
 
 “(2) Limitation.—The 35 percent requirement of paragraph (1) shall apply for a fiscal year only to the extent that the percentage of the total amount of credit guarantees issued for that fiscal year under this section to promote the export to all countries of processed and high-value agricultural products is less than 25 percent.”
 
-1992—Subsecs. (a), (b). Pub. L. 102–511, § 709(a)(1), inserted “, including processed agricultural products and high-value agricultural products,” after “agricultural commodities”.
+1992—Subsecs. (a), (b). Pub. L. 102–511, § 709(a)(1), inserted “, including processed agricultural products and high-value agricultural products,” after “agricultural commodities”.
 
-Subsec. (c). Pub. L. 102–511, § 708(a), inserted sentence at end.
+Subsec. (c). Pub. L. 102–511, § 708(a), inserted sentence at end.
 
-Subsec. (d)(3). Pub. L. 102–511, § 708(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to assist countries, particularly developing countries, in meeting their food and fiber needs; and”.
+Subsec. (d)(3). Pub. L. 102–511, § 708(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to assist countries, particularly developing countries, in meeting their food and fiber needs; and”.
 
-Subsec. (k). Pub. L. 102–511, § 709(a)(2), added subsec. (k).
+Subsec. (k). Pub. L. 102–511, § 709(a)(2), added subsec. (k).
 
 1991—Subsec. (i). Pub. L. 102–237 substituted “issued by the Commodity Credit Corporation under this section if it is determined by the Corporation, at the time of the assignment, that” for “or proceeds payable under a credit guarantee issued by the Commodity Credit Corporation under this section if it is determined by the Corporation that”.
 
@@ -571,11 +571,11 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Regulations**
 
-Pub. L. 104–127, title II, § 243(d), Apr. 4, 1996, 110 Stat. 967, provided that: “Not later than 180 days after the date of enactment of this Act [Apr. 4, 1996], the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section [amending this section and sections 5602 and 5641 of this title].”
+Pub. L. 104–127, title II, § 243(d), Apr. 4, 1996, 110 Stat. 967, provided that: “Not later than 180 days after the date of enactment of this Act [Apr. 4, 1996], the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section [amending this section and sections 5602 and 5641 of this title].”
 
 **Promotion of Agricultural Exports to Emerging Markets**
 
-Pub. L. 101–624, title XV, § 1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, § 338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, § 706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, § 321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§ 277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, § 3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, § 3204, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, § 3203, Feb. 7, 2014, 128 Stat. 779; Pub. L. 113–188, title I, § 101(b), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title III, §§ 3201(b)(3)(A), 3304, Dec. 20, 2018, 132 Stat. 4616, 4619, provided that:
+Pub. L. 101–624, title XV, § 1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, § 338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, § 706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, § 321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§ 277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, § 3203, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, § 3204, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, § 3203, Feb. 7, 2014, 128 Stat. 779; Pub. L. 113–188, title I, § 101(b), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title III, §§ 3201(b)(3)(A), 3304, Dec. 20, 2018, 132 Stat. 4616, 4619, provided that:
 
 > **“(a) Funding.—** The Commodity Credit Corporation shall make available for fiscal years 1996 through 2023 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
 
@@ -633,7 +633,7 @@ The Secretary of State is authorized and directed to publish this determination 
 
 William J. Clinton.
 
-#### § 5623. Agricultural trade promotion and facilitation
+#### § 5623. Agricultural trade promotion and facilitation
 
 **(a) Establishment** The Secretary shall carry out activities under this section—
 
@@ -947,7 +947,7 @@ Notwithstanding section 7207 of title 22 or any other provision of law, funds ma
 
 In addition to any other amounts provided under this subsection, there are authorized to be appropriated such sums as are necessary to carry out the programs and authorities under paragraph (3)(A)(v) and subsections (b) through (e).
 
-(Pub. L. 95–501, title II, § 203, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3674; amended Pub. L. 102–237, title III, § 309, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 103–66, title I, § 1302(b)(1), Aug. 10, 1993, 107 Stat. 330; Pub. L. 103–465, title IV, § 411(d), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, § 244(a)(1), (b), Apr. 4, 1996, 110 Stat. 967, 968; Pub. L. 110–246, title III, § 3102(a), June 18, 2008, 122 Stat. 1832; Pub. L. 115–334, title III, § 3201(a), Dec. 20, 2018, 132 Stat. 4608.)
+(Pub. L. 95–501, title II, § 203, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3674; amended Pub. L. 102–237, title III, § 309, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 103–66, title I, § 1302(b)(1), Aug. 10, 1993, 107 Stat. 330; Pub. L. 103–465, title IV, § 411(d), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, § 244(a)(1), (b), Apr. 4, 1996, 110 Stat. 967, 968; Pub. L. 110–246, title III, § 3102(a), June 18, 2008, 122 Stat. 1832; Pub. L. 115–334, title III, § 3201(a), Dec. 20, 2018, 132 Stat. 4608.)
 
 **Editorial Notes**
 
@@ -961,15 +961,15 @@ A prior section 203 of Pub. L. 95–501 enacted section 1707d of this title prio
 
 2008—Subsec. (a). Pub. L. 110–246 inserted “(including commodities that are organically produced (as defined in section 6502 of this title))” after “agricultural commodities”.
 
-1996—Pub. L. 104–127, § 244(a)(1)(A), substituted “access” for “promotion” in section catchline.
+1996—Pub. L. 104–127, § 244(a)(1)(A), substituted “access” for “promotion” in section catchline.
 
-Subsecs. (e)(2)(B), (f)(2)(B), (C). Pub. L. 104–127, § 244(a)(1)(B), substituted “market access program” for “marketing promotion program”.
+Subsecs. (e)(2)(B), (f)(2)(B), (C). Pub. L. 104–127, § 244(a)(1)(B), substituted “market access program” for “marketing promotion program”.
 
-Subsec. (f)(4). Pub. L. 104–127, § 244(b), added par. (4).
+Subsec. (f)(4). Pub. L. 104–127, § 244(b), added par. (4).
 
-1994—Subsec. (c). Pub. L. 103–465, § 411(d)(1), struck out par. (1) designation and heading, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, and realigned margins, and struck out former par. (2) which related to assistance to counter or offset adverse effects of subsidy, import quota, or other unfair trade practice of foreign country, except in the case of activities conducted by small entities operating through regional State-related organizations.
+1994—Subsec. (c). Pub. L. 103–465, § 411(d)(1), struck out par. (1) designation and heading, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, and realigned margins, and struck out former par. (2) which related to assistance to counter or offset adverse effects of subsidy, import quota, or other unfair trade practice of foreign country, except in the case of activities conducted by small entities operating through regional State-related organizations.
 
-Subsec. (f)(2)(C) to (E). Pub. L. 103–465, § 411(d)(2), inserted “or” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “the unfair trade practice that was the basis of the provision of assistance has been discontinued and marketing assistance is no longer required to offset its effects; or”.
+Subsec. (f)(2)(C) to (E). Pub. L. 103–465, § 411(d)(2), inserted “or” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “the unfair trade practice that was the basis of the provision of assistance has been discontinued and marketing assistance is no longer required to offset its effects; or”.
 
 1993—Subsec. (c)(2). Pub. L. 103–66 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall provide export assistance under this section on a priority basis in the case of an unfair trade practice.”
 
@@ -987,13 +987,13 @@ Amendment by Pub. L. 103–465 effective on the date of entry into force of the 
 
 **Prohibition on Assistance to Mink Associations**
 
-Pub. L. 105–277, div. A, § 101(a) [title VII, § 718], Oct. 21, 1998, 112 Stat. 2681, 2681–27, as amended by Pub. L. 106–31, title V, § 5001(b), May 21, 1999, 113 Stat. 109; Pub. L. 115–334, title III, § 3201(b)(1)(D), Dec. 20, 2018, 132 Stat. 4616, provided that: “Hereafter, none of the funds made available in annual appropriations Acts may be used to provide assistance to, or to pay the salaries of personnel to carry out a market promotion/market access program pursuant to section 203(b) of the Agricultural Trade Act of 1978 (7 U.S.C. 5623(b)[)] that provides assistance to the United States Mink Export Development Council or any mink industry trade association.”
+Pub. L. 105–277, div. A, § 101(a) [title VII, § 718], Oct. 21, 1998, 112 Stat. 2681, 2681–27, as amended by Pub. L. 106–31, title V, § 5001(b), May 21, 1999, 113 Stat. 109; Pub. L. 115–334, title III, § 3201(b)(1)(D), Dec. 20, 2018, 132 Stat. 4616, provided that: “Hereafter, none of the funds made available in annual appropriations Acts may be used to provide assistance to, or to pay the salaries of personnel to carry out a market promotion/market access program pursuant to section 203(b) of the Agricultural Trade Act of 1978 (7 U.S.C. 5623(b)[)] that provides assistance to the United States Mink Export Development Council or any mink industry trade association.”
 
 **Secretarial Actions To Achieve Savings in Market Access Program; Regulations**
 
-Pub. L. 103–66, title I, § 1302(b), (c), Aug. 10, 1993, 107 Stat. 330, 331, as amended by Pub. L. 104–127, title II, § 244(a)(2)(A)(ii), Apr. 4, 1996, 110 Stat. 968, which directed the Secretary of Agriculture to implement changes in the market access program beginning with fiscal year 1994 in order to improve the effectiveness of the program and to meet stated objectives, and required issuance of regulations not later than 90 days after Aug. 10, 1993, was repealed by Pub. L. 115–334, title III, § 3201(b)(1)(E), Dec. 20, 2018, 132 Stat. 4616.
+Pub. L. 103–66, title I, § 1302(b), (c), Aug. 10, 1993, 107 Stat. 330, 331, as amended by Pub. L. 104–127, title II, § 244(a)(2)(A)(ii), Apr. 4, 1996, 110 Stat. 968, which directed the Secretary of Agriculture to implement changes in the market access program beginning with fiscal year 1994 in order to improve the effectiveness of the program and to meet stated objectives, and required issuance of regulations not later than 90 days after Aug. 10, 1993, was repealed by Pub. L. 115–334, title III, § 3201(b)(1)(E), Dec. 20, 2018, 132 Stat. 4616.
 
-#### § 5623a. Supplemental agricultural trade promotion program
+#### § 5623a. Supplemental agricultural trade promotion program
 
 **(a) In general**
 
@@ -1003,7 +1003,7 @@ The Secretary of Agriculture shall carry out a program to encourage the accessib
 
 Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture shall make available to carry out this section $285,000,000 for fiscal year 2027 and each fiscal year thereafter.
 
-(Pub. L. 119–21, title I, § 10602, July 4, 2025, 139 Stat. 108.)
+(Pub. L. 119–21, title I, § 10602, July 4, 2025, 139 Stat. 108.)
 
 **Editorial Notes**
 
@@ -1011,7 +1011,7 @@ Of the funds of the Commodity Credit Corporation, the Secretary of Agriculture s
 
 Section was not enacted as part of the Agricultural Trade Act of 1978 which comprises this chapter.
 
-#### § 5624. Barter of agricultural commodities
+#### § 5624. Barter of agricultural commodities
 
 **(a) In general**
 
@@ -1055,7 +1055,7 @@ Nothing contained in this section shall limit the authority of the Commodity Cre
 
 **(3)** permit the resale or transshipment of eligible commodities to countries other than the intended recipient country.
 
-(Pub. L. 95–501, title II, § 204, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3676; amended Pub. L. 102–237, title III, § 320, Dec. 13, 1991, 105 Stat. 1857.)
+(Pub. L. 95–501, title II, § 204, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3676; amended Pub. L. 102–237, title III, § 320, Dec. 13, 1991, 105 Stat. 1857.)
 
 **Editorial Notes**
 
@@ -1063,15 +1063,15 @@ Nothing contained in this section shall limit the authority of the Commodity Cre
 
 1991—Subsec. (d). Pub. L. 102–237 amended heading and substituted “Government” for “government” in text.
 
-#### § 5625. Combination of programs
+#### § 5625. Combination of programs
 
 The Commodity Credit Corporation may carry out a program under which commercial export credit guarantees available under section 5622 of this title are combined with direct credits from the Commodity Credit Corporation under section 5621 of this title to reduce the effective rate of interest on export sales of agricultural commodities.
 
-(Pub. L. 95–501, title II, § 205, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3677.)
+(Pub. L. 95–501, title II, § 205, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3677.)
 
 ### Part B—Implementation
 
-#### § 5641. Funding levels
+#### § 5641. Funding levels
 
 **(a) Direct credit programs**
 
@@ -1081,7 +1081,7 @@ The Commodity Credit Corporation may make available for each fiscal year such fu
 
 The Commodity Credit Corporation shall make available for each fiscal year $5,500,000,000 of credit guarantees under section 5622(a) of this title.
 
-(Pub. L. 95–501, title II, § 211, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3677; amended Pub. L. 103–66, title I, § 1302(a), Aug. 10, 1993, 107 Stat. 330; Pub. L. 104–127, title II, §§ 243(b), 244(a)(2)(B), (c), Apr. 4, 1996, 110 Stat. 967, 968; Pub. L. 107–171, title III, §§ 3102(d), 3103, May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §§ 3101(b), 3102(b), June 18, 2008, 122 Stat. 1831, 1832; Pub. L. 113–79, title III, §§ 3101(b), 3102, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, § 3201(b)(1)(A), Dec. 20, 2018, 132 Stat. 4616.)
+(Pub. L. 95–501, title II, § 211, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3677; amended Pub. L. 103–66, title I, § 1302(a), Aug. 10, 1993, 107 Stat. 330; Pub. L. 104–127, title II, §§ 243(b), 244(a)(2)(B), (c), Apr. 4, 1996, 110 Stat. 967, 968; Pub. L. 107–171, title III, §§ 3102(d), 3103, May 13, 2002, 116 Stat. 289; Pub. L. 110–246, title III, §§ 3101(b), 3102(b), June 18, 2008, 122 Stat. 1831, 1832; Pub. L. 113–79, title III, §§ 3101(b), 3102, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, § 3201(b)(1)(A), Dec. 20, 2018, 132 Stat. 4616.)
 
 **Editorial Notes**
 
@@ -1089,27 +1089,27 @@ The Commodity Credit Corporation shall make available for each fiscal year $5,50
 
 2018—Subsec. (c). Pub. L. 115–334 struck out subsec. (c) which related to funding for market access programs under section 5623 of this title and program priorities.
 
-2014—Subsec. (b). Pub. L. 113–79, § 3101(b), amended subsec. (b) generally. Prior to amendment, subsec (b) related to credit guarantees under section 5622(a) of this title for fiscal years 1996 to 2012.
+2014—Subsec. (b). Pub. L. 113–79, § 3101(b), amended subsec. (b) generally. Prior to amendment, subsec (b) related to credit guarantees under section 5622(a) of this title for fiscal years 1996 to 2012.
 
-Subsec. (c)(1)(A). Pub. L. 113–79, § 3102, substituted “2018” for “2012”.
+Subsec. (c)(1)(A). Pub. L. 113–79, § 3102, substituted “2018” for “2012”.
 
-2008—Subsec. (b). Pub. L. 110–246, § 3101(b), added subsec. (b) and struck out former subsec. (b) which related to amount available for export credit guarantees for each of fiscal years 1996 through 2007 and limitation on amount of any origination fee.
+2008—Subsec. (b). Pub. L. 110–246, § 3101(b), added subsec. (b) and struck out former subsec. (b) which related to amount available for export credit guarantees for each of fiscal years 1996 through 2007 and limitation on amount of any origination fee.
 
-Subsec. (c)(1)(A). Pub. L. 110–246, § 3102(b), substituted “2008 through 2012” for “2006 and 2007”.
+Subsec. (c)(1)(A). Pub. L. 110–246, § 3102(b), substituted “2008 through 2012” for “2006 and 2007”.
 
-2002—Subsec. (b)(1). Pub. L. 107–171, § 3102(d), substituted “2007” for “2002”.
+2002—Subsec. (b)(1). Pub. L. 107–171, § 3102(d), substituted “2007” for “2002”.
 
-Subsec. (c). Pub. L. 107–171, § 3103, designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), added subpar. (A) and struck out former subpar. (A) relating to funds available for market access activities authorized to be carried out by the Commodity Credit Corporation for fiscal years 1991 through 2002, and added par. (2).
+Subsec. (c). Pub. L. 107–171, § 3103, designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), added subpar. (A) and struck out former subpar. (A) relating to funds available for market access activities authorized to be carried out by the Commodity Credit Corporation for fiscal years 1991 through 2002, and added par. (2).
 
-1996—Subsec. (b). Pub. L. 104–127, § 243(b), added subsec. (b) and struck out former subsec. (b) which authorized short and intermediate term export credit guarantees for each of fiscal years 1991 through 1995 and further provided for limitation on origination fees for short-term guarantees.
+1996—Subsec. (b). Pub. L. 104–127, § 243(b), added subsec. (b) and struck out former subsec. (b) which authorized short and intermediate term export credit guarantees for each of fiscal years 1991 through 1995 and further provided for limitation on origination fees for short-term guarantees.
 
-Subsec. (c). Pub. L. 104–127, § 244(a)(2)(B)(i), (ii), substituted “Market access programs” for “Marketing promotion programs” in heading and “market access activities” for “market promotion activities” in introductory provisions.
+Subsec. (c). Pub. L. 104–127, § 244(a)(2)(B)(i), (ii), substituted “Market access programs” for “Marketing promotion programs” in heading and “market access activities” for “market promotion activities” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 104–127, § 244(c), struck out “and” after “1993,” and substituted “through 1995, and not more than $90,000,000 for each of fiscal years 1996 through 2002,” for “through 1997,”.
+Subsec. (c)(1). Pub. L. 104–127, § 244(c), struck out “and” after “1993,” and substituted “through 1995, and not more than $90,000,000 for each of fiscal years 1996 through 2002,” for “through 1997,”.
 
-Pub. L. 104–127, § 244(a)(2)(B)(iii), substituted “market access program” for “market development program”.
+Pub. L. 104–127, § 244(a)(2)(B)(iii), substituted “market access program” for “market development program”.
 
-Subsec. (c)(2). Pub. L. 104–127, § 244(a)(2)(B)(iv), substituted “market access program” for “marketing promotion program”.
+Subsec. (c)(2). Pub. L. 104–127, § 244(a)(2)(B)(iv), substituted “market access program” for “marketing promotion program”.
 
 1993—Subsec. (c)(1). Pub. L. 103–66 substituted “through 1993, and not less than $110,000,000 for each of the fiscal years 1994 through 1997,” for “through 1995”.
 
@@ -1121,13 +1121,13 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–127, title II, § 244(c), Apr. 4, 1996, 110 Stat. 968, provided that the amendment made by section 244(c) is effective Oct. 1, 1995.
+Pub. L. 104–127, title II, § 244(c), Apr. 4, 1996, 110 Stat. 968, provided that the amendment made by section 244(c) is effective Oct. 1, 1995.
 
 ## SUBCHAPTER III—BARRIERS TO EXPORTS
 
-### § 5651. Repealed. Pub. L. 110–246, title III, § 3103(a), June 18, 2008, 122 Stat. 1832
+### § 5651. Repealed. Pub. L. 110–246, title III, § 3103(a), June 18, 2008, 122 Stat. 1832
 
-Section, Pub. L. 95–501, title III, § 301, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3678; amended Pub. L. 102–237, title III, § 311, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 102–511, title VII, § 709(b), Oct. 24, 1992, 106 Stat. 3352; Pub. L. 103–465, title IV, § 411(a)(3), (4), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, § 245, Apr. 4, 1996, 110 Stat. 968; Pub. L. 107–171, title III, § 3104(a), May 13, 2002, 116 Stat. 290, related to an export enhancement program and cash bonuses to exporters, users, and processors.
+Section, Pub. L. 95–501, title III, § 301, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3678; amended Pub. L. 102–237, title III, § 311, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 102–511, title VII, § 709(b), Oct. 24, 1992, 106 Stat. 3352; Pub. L. 103–465, title IV, § 411(a)(3), (4), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title II, § 245, Apr. 4, 1996, 110 Stat. 968; Pub. L. 107–171, title III, § 3104(a), May 13, 2002, 116 Stat. 290, related to an export enhancement program and cash bonuses to exporters, users, and processors.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1135,7 +1135,7 @@ Section, Pub. L. 95–501, title III, § 301, as added Pub. L. 101–624, titl
 
 Repeal effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 5652. Relief from unfair trade practices
+### § 5652. Relief from unfair trade practices
 
 **(a) Use of programs**
 
@@ -1153,7 +1153,7 @@ Paragraph (1) shall apply in the case of articles for which the United States ha
 
 **(2)** ascertain and take into account the industry preference for the practical use of available commercial export promotion programs in implementing subsection (a)(1).
 
-(Pub. L. 95–501, title III, § 301, formerly § 302, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3680; renumbered § 301, Pub. L. 110–246, title III, § 3103(b)(2), June 18, 2008, 122 Stat. 1832.)
+(Pub. L. 95–501, title III, § 301, formerly § 302, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3680; renumbered § 301, Pub. L. 110–246, title III, § 3103(b)(2), June 18, 2008, 122 Stat. 1832.)
 
 **Editorial Notes**
 
@@ -1163,11 +1163,11 @@ A prior section 301 of Pub. L. 95–501 was classified to section 5651 of this t
 
 Another prior section 301 of Pub. L. 95–501 amended sections 1761, 1762, 1764, and 1765 of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
 
-### § 5653. Equitable treatment of high-value and value-added United States agricultural commodities
+### § 5653. Equitable treatment of high-value and value-added United States agricultural commodities
 
 In the case of any program operated by the Secretary or the Commodity Credit Corporation during the fiscal years 1991 through 1995, for the purpose of discouraging unfair trade practices, the Secretary shall establish as an objective to expend annually at least 25 percent of the total funds available (or 25 percent of the value of any commodities employed) for program activities involving the export sales of high-value agricultural commodities and value-added products of United States agricultural commodities.
 
-(Pub. L. 95–501, title III, § 302, formerly § 303, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3680; renumbered § 302 and amended Pub. L. 110–246, title III, § 3103(b)(2), (3), June 18, 2008, 122 Stat. 1832.)
+(Pub. L. 95–501, title III, § 302, formerly § 303, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3680; renumbered § 302 and amended Pub. L. 110–246, title III, § 3103(b)(2), (3), June 18, 2008, 122 Stat. 1832.)
 
 **Editorial Notes**
 
@@ -1177,7 +1177,7 @@ A prior section 302 of Pub. L. 95–501 was renumbered section 301 and is classi
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 3103(b)(3), struck out “, such as that established under section 5651 of this title,” after “any program”.
+2008—Pub. L. 110–246, § 3103(b)(3), struck out “, such as that established under section 5651 of this title,” after “any program”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1189,7 +1189,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 ### Part A—Program Controls
 
-#### § 5661. Program controls for export programs
+#### § 5661. Program controls for export programs
 
 **(a) Arrival certification**
 
@@ -1203,7 +1203,7 @@ The unauthorized diversion of commodities under the programs authorized in secti
 
 The failure of an exporter, seller or other person to comply with the provisions of this section shall not affect the validity of any credit guarantee or other obligation of the Commodity Credit Corporation under the programs under this chapter with respect to any exporter, seller, or person who had no knowledge of such failure to comply at the time such exporter, seller, or person was assigned the credit guarantee or at the time the Corporation entered into such obligation.
 
-(Pub. L. 95–501, title IV, § 401, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3680; amended Pub. L. 104–127, title II, § 246, Apr. 4, 1996, 110 Stat. 969; Pub. L. 110–246, title III, § 3103(b)(4), June 18, 2008, 122 Stat. 1832.)
+(Pub. L. 95–501, title IV, § 401, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3680; amended Pub. L. 104–127, title II, § 246, Apr. 4, 1996, 110 Stat. 969; Pub. L. 110–246, title III, § 3103(b)(4), June 18, 2008, 122 Stat. 1832.)
 
 **Editorial Notes**
 
@@ -1213,9 +1213,9 @@ A prior section 401 of Pub. L. 95–501 enacted sections 1765a to 1765h and 1769
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 3103(b)(4)(A), substituted “section 5621 or 5622” for “section 5621, 5622, or 5651”.
+2008—Subsec. (a). Pub. L. 110–246, § 3103(b)(4)(A), substituted “section 5621 or 5622” for “section 5621, 5622, or 5651”.
 
-Subsec. (b). Pub. L. 110–246, § 3103(b)(4)(B), substituted “sections 5621 and 5622” for “sections 5621, 5622, and 5651”.
+Subsec. (b). Pub. L. 110–246, § 3103(b)(4)(B), substituted “sections 5621 and 5622” for “sections 5621, 5622, and 5651”.
 
 1996—Subsec. (a). Pub. L. 104–127 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “With respect to commodities or other assistance provided, or for which financing or credit guarantees are made available, under the programs authorized in sections 5621, 5622, and 5651 of this title, the Commodity Credit Corporation shall—
 
@@ -1229,7 +1229,7 @@ Subsec. (b). Pub. L. 110–246, § 3103(b)(4)(B), substituted “sections 5621
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-#### § 5662. Compliance provisions
+#### § 5662. Compliance provisions
 
 **(a) Records**
 
@@ -1259,7 +1259,7 @@ The Commodity Credit Corporation may suspend or debar for 1 or more years any ex
 
 The provisions of section 1001 of title 18 shall apply to any false certifications issued under this chapter.
 
-(Pub. L. 95–501, title IV, § 402, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3681; amended Pub. L. 104–127, title II, § 247, Apr. 4, 1996, 110 Stat. 969; Pub. L. 110–246, title III, § 3103(b)(5), June 18, 2008, 122 Stat. 1833; Pub. L. 115–334, title III, § 3201(b)(1)(B), Dec. 20, 2018, 132 Stat. 4616.)
+(Pub. L. 95–501, title IV, § 402, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3681; amended Pub. L. 104–127, title II, § 247, Apr. 4, 1996, 110 Stat. 969; Pub. L. 110–246, title III, § 3103(b)(5), June 18, 2008, 122 Stat. 1833; Pub. L. 115–334, title III, § 3201(b)(1)(B), Dec. 20, 2018, 132 Stat. 4616.)
 
 **Editorial Notes**
 
@@ -1277,7 +1277,7 @@ The provisions of section 1001 of title 18 shall apply to any false certificatio
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-#### § 5663. Departmental administration system
+#### § 5663. Departmental administration system
 
 **(a) In general** With respect to each commercial export promotion program of the Department of Agriculture or the Commodity Credit Corporation, the Secretary shall—
 
@@ -1293,21 +1293,21 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 Information pertaining to the status of a particular proposal shall be retrievable within the central system by appropriate categories, as determined appropriate by the Secretary.
 
-(Pub. L. 95–501, title IV, § 403, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3682.)
+(Pub. L. 95–501, title IV, § 403, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3682.)
 
-#### § 5664. Repealed. Pub. L. 104–127, title II, § 248, Apr. 4, 1996, 110 Stat. 969
+#### § 5664. Repealed. Pub. L. 104–127, title II, § 248, Apr. 4, 1996, 110 Stat. 969
 
-Section, Pub. L. 95–501, title IV, § 404, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3682; amended Pub. L. 102–237, title III, § 312, Dec. 13, 1991, 105 Stat. 1856, related to regulations to implement export promotion provisions.
+Section, Pub. L. 95–501, title IV, § 404, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3682; amended Pub. L. 102–237, title III, § 312, Dec. 13, 1991, 105 Stat. 1856, related to regulations to implement export promotion provisions.
 
 ### Part B—Miscellaneous Provisions
 
-#### § 5671. Agricultural embargo protection
+#### § 5671. Agricultural embargo protection
 
 **(a) Prerequisites; scope of compensation** Notwithstanding any other provision of law, if—
 
-**(1)** the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) 1
+**(1)** the President or other member of the executive branch of the Federal Government causes the export of any agricultural commodity to any country or area of the world to be suspended or restricted for reasons of national security or foreign policy under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or under any other provision of law;
 
@@ -1341,17 +1341,17 @@ The Secretary shall use the Commodity Credit Corporation in carrying out the pro
 
 The Secretary may issue such regulations as are determined necessary to carry out this section.
 
-(Pub. L. 95–501, title IV, § 411, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3682.)
+(Pub. L. 95–501, title IV, § 411, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3682.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in subsec. (a)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in subsec. (a)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
-The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title I of the Act is classified generally to subchapter II (§ 1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title I of the Act is classified generally to subchapter II (§ 1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-#### § 5672. Development of plans to alleviate adverse impact of embargoes
+#### § 5672. Development of plans to alleviate adverse impact of embargoes
 
 To alleviate, to the maximum extent possible, the adverse impact on farmers, elevator operators, common carriers, and exporters of agricultural commodities of the President or other member of the executive branch of the Federal Government causing the export of any agricultural commodity to any country or area of the world to be suspended or restricted, the Secretary of Agriculture shall—
 
@@ -1375,9 +1375,9 @@ To alleviate, to the maximum extent possible, the adverse impact on farmers, ele
 
 **(C)** limit its purchases to only those types and grades of commodities suspended or restricted from shipment and make such purchases at prices at or near the current market prices.
 
-(Pub. L. 95–501, title IV, § 412, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3684.)
+(Pub. L. 95–501, title IV, § 412, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3684.)
 
-#### § 5673. Contracting authority to expand agricultural export markets
+#### § 5673. Contracting authority to expand agricultural export markets
 
 **(a) In general**
 
@@ -1387,9 +1387,9 @@ The Secretary may contract with individuals for services to be performed outside
 
 Individuals referred to in subsection (a) shall not be regarded as officers or employees of the United States.
 
-(Pub. L. 95–501, title IV, § 413, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3685.)
+(Pub. L. 95–501, title IV, § 413, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3685.)
 
-#### § 5674. Trade consultations concerning imports
+#### § 5674. Trade consultations concerning imports
 
 **(a) Consultation between agencies**
 
@@ -1409,7 +1409,7 @@ The Secretary shall consult with the United States Trade Representative prior to
 
 **(B)** any notice given by the Secretary to the United States Trade Representative.
 
-(Pub. L. 95–501, title IV, § 414, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3685; amended Pub. L. 104–127, title II, § 242(b), Apr. 4, 1996, 110 Stat. 965.)
+(Pub. L. 95–501, title IV, § 414, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3685; amended Pub. L. 104–127, title II, § 242(b), Apr. 4, 1996, 110 Stat. 965.)
 
 **Editorial Notes**
 
@@ -1417,13 +1417,13 @@ The Secretary shall consult with the United States Trade Representative prior to
 
 1996—Subsec. (c). Pub. L. 104–127 added subsec. (c).
 
-#### § 5675. Technical assistance in trade negotiations
+#### § 5675. Technical assistance in trade negotiations
 
 The Secretary shall provide technical services to the United States Trade Representative on matters pertaining to agricultural trade and with respect to international negotiations on issues related to agricultural trade.
 
-(Pub. L. 95–501, title IV, § 415, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3685.)
+(Pub. L. 95–501, title IV, § 415, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3685.)
 
-#### § 5676. Limitation on use of certain export promotion programs
+#### § 5676. Limitation on use of certain export promotion programs
 
 **(a) In general**
 
@@ -1445,13 +1445,13 @@ The Secretary shall promulgate regulations to carry out this section.
 
 This section shall not apply to quantities of agricultural commodities and products with respect to which an exporter has entered into a contract, prior to November 28, 1990, for an export sale.
 
-(Pub. L. 95–501, title IV, § 416, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3685; amended Pub. L. 102–237, title III, § 313, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(K), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 95–501, title IV, § 416, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3685; amended Pub. L. 102–237, title III, § 313, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(K), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454. Title I of the Act is classified generally to subchapter II (§ 1701 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454. Title I of the Act is classified generally to subchapter II (§ 1701 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 **Amendments**
 
@@ -1465,7 +1465,7 @@ The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 46
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-#### § 5677. Trade compensation and assistance programs
+#### § 5677. Trade compensation and assistance programs
 
 **(a) In general**
 
@@ -1507,9 +1507,9 @@ If the Secretary makes funds available under subsection (b)(2), regardless of wh
 
 If the President or any other member of the executive branch causes exports to be suspended based on a determination of short supply, the Secretary shall carry out section 1310 of this title.
 
-(Pub. L. 95–501, title IV, § 417, as added Pub. L. 104–127, title II, § 249, Apr. 4, 1996, 110 Stat. 969.)
+(Pub. L. 95–501, title IV, § 417, as added Pub. L. 104–127, title II, § 249, Apr. 4, 1996, 110 Stat. 969.)
 
-#### § 5678. Edward R. Madigan United States Agricultural Export Excellence Award
+#### § 5678. Edward R. Madigan United States Agricultural Export Excellence Award
 
 **(a) Findings** Congress finds that—
 
@@ -1593,7 +1593,7 @@ Each member of the board may serve a term of not to exceed 3 years.
 
 The Secretary may seek and accept gifts from public and private sources to carry out this section.
 
-(Pub. L. 104–127, title II, § 261, Apr. 4, 1996, 110 Stat. 972.)
+(Pub. L. 104–127, title II, § 261, Apr. 4, 1996, 110 Stat. 972.)
 
 **Editorial Notes**
 
@@ -1601,7 +1601,7 @@ The Secretary may seek and accept gifts from public and private sources to carry
 
 Section was enacted as part of the Federal Agriculture Improvement and Reform Act of 1996, and not as part of the Agricultural Trade Act of 1978 which comprises this chapter.
 
-#### § 5679. Biotechnology and agricultural trade program
+#### § 5679. Biotechnology and agricultural trade program
 
 **(a) Establishment**
 
@@ -1625,9 +1625,9 @@ There is established in the Department the biotechnology and agricultural trade 
 
 **(1)** this section;
 
-**(2)** the emerging markets program under section 1542 1
+**(2)** the emerging markets program under section 1542 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and section 5623(d) of this title; or
 
@@ -1637,7 +1637,7 @@ and section 5623(d) of this title; or
 
 There is authorized to be appropriated $2,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 101–624, title XV, § 1543A, as added Pub. L. 107–171, title III, § 3204, May 13, 2002, 116 Stat. 300; amended Pub. L. 115–334, title III, §§ 3201(b)(3)(C), 3301, Dec. 20, 2018, 132 Stat. 4617.)
+(Pub. L. 101–624, title XV, § 1543A, as added Pub. L. 107–171, title III, § 3204, May 13, 2002, 116 Stat. 300; amended Pub. L. 115–334, title III, §§ 3201(b)(3)(C), 3301, Dec. 20, 2018, 132 Stat. 4617.)
 
 **Editorial Notes**
 
@@ -1651,25 +1651,25 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 
 **Amendments**
 
-2018—Subsec. (b)(1)(A). Pub. L. 115–334, § 3301(1), inserted “or new agricultural production technologies” after “biotechnology”.
+2018—Subsec. (b)(1)(A). Pub. L. 115–334, § 3301(1), inserted “or new agricultural production technologies” after “biotechnology”.
 
-Subsec. (c)(2). Pub. L. 115–334, § 3201(b)(3)(C), inserted “and section 5623(d) of this title” after “section 1542”.
+Subsec. (c)(2). Pub. L. 115–334, § 3201(b)(3)(C), inserted “and section 5623(d) of this title” after “section 1542”.
 
-Subsec. (d). Pub. L. 115–334, § 3301(2), substituted “$2,000,000 for each of fiscal years 2019 through 2023” for “$6,000,000 for each of fiscal years 2002 through 2007”.
+Subsec. (d). Pub. L. 115–334, § 3301(2), substituted “$2,000,000 for each of fiscal years 2019 through 2023” for “$6,000,000 for each of fiscal years 2002 through 2007”.
 
-#### § 5680. Repealed. Pub. L. 115–334, title III, § 3201(b)(4), Dec. 20, 2018, 132 Stat. 4617
+#### § 5680. Repealed. Pub. L. 115–334, title III, § 3201(b)(4), Dec. 20, 2018, 132 Stat. 4617
 
-Section, Pub. L. 107–171, title III, § 3205, May 13, 2002, 116 Stat. 301; Pub. L. 110–246, title III, § 3203, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, § 3205(a), (b), Feb. 7, 2014, 128 Stat. 780, related to program to provide direct and technical assistance to remove, resolve, or mitigate sanitary and phytosanitary and technical barriers that prohibit or threaten the export of United States specialty crops.
+Section, Pub. L. 107–171, title III, § 3205, May 13, 2002, 116 Stat. 301; Pub. L. 110–246, title III, § 3203, June 18, 2008, 122 Stat. 1837; Pub. L. 113–79, title III, § 3205(a), (b), Feb. 7, 2014, 128 Stat. 780, related to program to provide direct and technical assistance to remove, resolve, or mitigate sanitary and phytosanitary and technical barriers that prohibit or threaten the export of United States specialty crops.
 
 ## SUBCHAPTER V—FOREIGN AGRICULTURAL SERVICE
 
-### § 5691. Repealed. Pub. L. 103–354, title II, § 225(e)(1), Oct. 13, 1994, 108 Stat. 3214
+### § 5691. Repealed. Pub. L. 103–354, title II, § 225(e)(1), Oct. 13, 1994, 108 Stat. 3214
 
-Section, Pub. L. 95–501, title V, § 501, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3686, established position of Under Secretary of Agriculture for International Affairs and Commodity Programs.
+Section, Pub. L. 95–501, title V, § 501, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3686, established position of Under Secretary of Agriculture for International Affairs and Commodity Programs.
 
 A prior section 501 of Pub. L. 95–501 enacted section 2211a of this title, amended section 5314 of Title 5, Government Organization and Employees, and enacted provisions set out as a note under section 2211a of this title, prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
 
-### § 5692. Administrator of Foreign Agricultural Service
+### § 5692. Administrator of Foreign Agricultural Service
 
 **(a) Establishment**
 
@@ -1683,9 +1683,9 @@ The Administrator of the Foreign Agricultural Service is authorized to exercise 
 
 In carrying out the duties under this section, the Administrator shall oversee the operations of the Foreign Agricultural Service, the General Sales Manager, and the Agricultural Attaché Service.
 
-(Pub. L. 95–501, title V, § 502, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3686.)
+(Pub. L. 95–501, title V, § 502, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3686.)
 
-### § 5693. Duties of Foreign Agricultural Service
+### § 5693. Duties of Foreign Agricultural Service
 
 The Service shall assist the Secretary in carrying out the agricultural trade policy and international cooperation policy of the United States by—
 
@@ -1697,13 +1697,13 @@ The Service shall assist the Secretary in carrying out the agricultural trade po
 
 **(4)** carrying out the programs authorized under this chapter, the Food for Peace Act (7 U.S.C. 1691 et seq.), and other Acts.
 
-(Pub. L. 95–501, title V, § 503, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3686; amended Pub. L. 104–127, title II, § 250, Apr. 4, 1996, 110 Stat. 971; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(K), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 95–501, title V, § 503, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3686; amended Pub. L. 104–127, title II, § 250, Apr. 4, 1996, 110 Stat. 971; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(K), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Peace Act, referred to in par. (4), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in par. (4), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 **Amendments**
 
@@ -1719,7 +1719,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Study on Fee for Services**
 
-Pub. L. 107–171, title III, § 3208, May 13, 2002, 116 Stat. 302, provided that:
+Pub. L. 107–171, title III, § 3208, May 13, 2002, 116 Stat. 302, provided that:
 
 > **“(a) In General.—** Not later than 1 year after the date of enactment of this Act [May 13, 2002], the Secretary of Agriculture shall submit to the Committee on Agriculture, and the Committee on International Relations [now Committee on Foreign Affairs], of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate a report on the feasibility of instituting a program under which the Secretary would charge and retain a fee to cover the costs incurred by the Department of Agriculture, acting through the Foreign Agricultural Service or any successor agency, in providing persons with commercial services provided outside the United States.
 
@@ -1729,7 +1729,7 @@ Pub. L. 107–171, title III, § 3208, May 13, 2002, 116 Stat. 302, provided t
 
 > **“(d) Pilot Program.—** A program under subsection (a) would be established on a pilot basis to ensure that the program does not disadvantage small- and medium-sized companies, including companies that have never engaged in exporting.”
 
-### § 5694. Staff of Foreign Agricultural Service
+### § 5694. Staff of Foreign Agricultural Service
 
 **(a) Personnel of Service**
 
@@ -1739,7 +1739,7 @@ To ensure that the agricultural export programs of the United States are carried
 
 Notwithstanding any other provision of law, the Secretary of State shall, on the request of the Secretary of Agriculture, accord the diplomatic title of Minister-Counselor to the senior Service officer assigned to any United States mission abroad. The number of Service officers holding such diplomatic title at any time may not exceed twelve.
 
-(Pub. L. 95–501, title V, § 504, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3686.)
+(Pub. L. 95–501, title V, § 504, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3686.)
 
 **Editorial Notes**
 
@@ -1749,31 +1749,31 @@ Provisions similar to those in subsec. (b) of this section appear in the followi
 
 Pub. L. 101–506, title IV, Nov. 5, 1990, 104 Stat. 1343.
 
-Pub. L. 100–202, § 101(k) [title IV, § 401], Dec. 22, 1987, 101 Stat. 1329–322, 1329–350.
+Pub. L. 100–202, § 101(k) [title IV, § 401], Dec. 22, 1987, 101 Stat. 1329–322, 1329–350.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Language Proficiency and Evaluation of Foreign Agricultural Service Officers**
 
-Pub. L. 101–624, title XV, § 1556, Nov. 28, 1990, 104 Stat. 3698, as amended by Pub. L. 104–127, title II, § 281(b), Apr. 4, 1996, 110 Stat. 980, provided that:
+Pub. L. 101–624, title XV, § 1556, Nov. 28, 1990, 104 Stat. 3698, as amended by Pub. L. 104–127, title II, § 281(b), Apr. 4, 1996, 110 Stat. 980, provided that:
 
 > **“(a) Assessment of Foreign Language Competence.—** The Foreign Agricultural Service shall revise its evaluation reports for its Foreign Service officers so as to require in a separate entry an assessment of the officer’s effectiveness in using, in his or her work, a foreign language or foreign languages tested at the General Professional Speaking Proficiency level or above, in cases where the supervisor is capable of making such an assessment.
 
 > **“(b) Precedence in Promotion.—** The Director of Personnel of the Foreign Agricultural Service shall instruct promotion panels to take account of language ability and, all criteria for promotion otherwise being equal, to give precedence in promotions to officers who have achieved at least the General Professional Speaking Proficiency level in 1 or more foreign languages over officers who lack that level of proficiency.”
 
-### § 5695. Authorization of appropriations
+### § 5695. Authorization of appropriations
 
 There are hereby authorized to be appropriated for the Service such sums as may be necessary to carry out the provisions of this subchapter.
 
-(Pub. L. 95–501, title V, § 505, formerly § 506, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3687; renumbered § 505, Pub. L. 102–237, title III, § 314, Dec. 13, 1991, 105 Stat. 1856.)
+(Pub. L. 95–501, title V, § 505, formerly § 506, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3687; renumbered § 505, Pub. L. 102–237, title III, § 314, Dec. 13, 1991, 105 Stat. 1856.)
 
 ## SUBCHAPTER VI—REPORTS
 
-### § 5711. Repealed. Pub. L. 104–127, title II, § 241(c)(1), Apr. 4, 1996, 110 Stat. 964
+### § 5711. Repealed. Pub. L. 104–127, title II, § 241(c)(1), Apr. 4, 1996, 110 Stat. 964
 
-Section, Pub. L. 95–501, title VI, § 601, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3687; amended Pub. L. 102–237, title III, § 315, Dec. 13, 1991, 105 Stat. 1856, required Secretary to periodically prepare long-term agricultural trade strategy reports.
+Section, Pub. L. 95–501, title VI, § 601, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3687; amended Pub. L. 102–237, title III, § 315, Dec. 13, 1991, 105 Stat. 1856, required Secretary to periodically prepare long-term agricultural trade strategy reports.
 
-### § 5712. Export reporting and contract sanctity
+### § 5712. Export reporting and contract sanctity
 
 **(a) Export sales reports**
 
@@ -1817,7 +1817,7 @@ Any person who knowingly fails to make any report required under this section sh
 
 except that the President may prohibit or curtail the export of any agricultural commodity during a period for which the President has declared a national emergency or for which the Congress has declared war.
 
-(Pub. L. 95–501, title VI, § 602, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3688; amended Pub. L. 102–237, title III, § 327, Dec. 13, 1991, 105 Stat. 1858; Pub. L. 106–78, title IX, § 921, Oct. 22, 1999, 113 Stat. 1206; Pub. L. 111–239, § 2(c), Sept. 27, 2010, 124 Stat. 2502.)
+(Pub. L. 95–501, title VI, § 602, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3688; amended Pub. L. 102–237, title III, § 327, Dec. 13, 1991, 105 Stat. 1858; Pub. L. 106–78, title IX, § 921, Oct. 22, 1999, 113 Stat. 1206; Pub. L. 111–239, § 2(c), Sept. 27, 2010, 124 Stat. 2502.)
 
 **Amendment of Section**
 
@@ -1833,11 +1833,11 @@ A prior section 602 of Pub. L. 95–501 enacted section 1765b–1 of this title 
 
 2010—Subsec. (a)(1). Pub. L. 111–239 substituted “cotton, pork,” for “cotton,”.
 
-1999—Subsec. (a)(1). Pub. L. 106–78, §§ 921, 942, temporarily inserted “, beef,” after “cotton” in introductory provisions. See Termination Date of 1999 Amendment note below.
+1999—Subsec. (a)(1). Pub. L. 106–78, §§ 921, 942, temporarily inserted “, beef,” after “cotton” in introductory provisions. See Termination Date of 1999 Amendment note below.
 
-1991—Subsec. (a)(1). Pub. L. 102–237, § 327(1), substituted “designate produced” for “designate as produced” in introductory provisions.
+1991—Subsec. (a)(1). Pub. L. 102–237, § 327(1), substituted “designate produced” for “designate as produced” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 102–237, § 327(2), struck out “in accordance with subsection (c)” after “shall remain confidential”.
+Subsec. (a)(2). Pub. L. 102–237, § 327(2), struck out “in accordance with subsection (c)” after “shall remain confidential”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1845,16 +1845,16 @@ Subsec. (a)(2). Pub. L. 102–237, § 327(2), struck out “in accordance with
 
 Amendment by Pub. L. 106–78 to terminate Mar. 14, 2025, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
 
-### § 5713. Repealed. Pub. L. 113–188, title I, § 101(d), Nov. 26, 2014, 128 Stat. 2017
+### § 5713. Repealed. Pub. L. 113–188, title I, § 101(d), Nov. 26, 2014, 128 Stat. 2017
 
-Section, Pub. L. 95–501, title VI, § 603, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3689; amended Pub. L. 104–127, title II, §§ 241(c)(2), 251, Apr. 4, 1996, 110 Stat. 964, 971; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(K), June 18, 2008, 122 Stat. 1820, required quarterly reports specifying the cumulative amount of export assistance provided by the Commodity Credit Corporation and the Secretary under certain programs.
+Section, Pub. L. 95–501, title VI, § 603, as added Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3689; amended Pub. L. 104–127, title II, §§ 241(c)(2), 251, Apr. 4, 1996, 110 Stat. 964, 971; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(K), June 18, 2008, 122 Stat. 1820, required quarterly reports specifying the cumulative amount of export assistance provided by the Commodity Credit Corporation and the Secretary under certain programs.
 
 ## SUBCHAPTER VII—FOREIGN MARKET DEVELOPMENT COOPERATOR PROGRAM
 
-### §§ 5721 to 5723. Repealed. Pub. L. 115–334, title III, § 3201(b)(2), Dec. 20, 2018, 132 Stat. 4616
+### §§ 5721 to 5723. Repealed. Pub. L. 115–334, title III, § 3201(b)(2), Dec. 20, 2018, 132 Stat. 4616
 
-Section 5721, Pub. L. 95–501, title VII, § 701, as added Pub. L. 104–127, title II, § 252, Apr. 4, 1996, 110 Stat. 971, defined “eligible trade organization” for this subchapter.
+Section 5721, Pub. L. 95–501, title VII, § 701, as added Pub. L. 104–127, title II, § 252, Apr. 4, 1996, 110 Stat. 971, defined “eligible trade organization” for this subchapter.
 
-Section 5722, Pub. L. 95–501, title VII, § 702, as added Pub. L. 104–127, title II, § 252, Apr. 4, 1996, 110 Stat. 971; amended Pub. L. 107–171, title III, § 3105(a), May 13, 2002, 116 Stat. 290; Pub. L. 110–246, title III, § 3104(a), June 18, 2008, 122 Stat. 1833; Pub. L. 113–188, title I, § 101(f), Nov. 26, 2014, 128 Stat. 2018, related to foreign market development cooperator program to maintain and develop foreign markets for United States agricultural commodities and products.
+Section 5722, Pub. L. 95–501, title VII, § 702, as added Pub. L. 104–127, title II, § 252, Apr. 4, 1996, 110 Stat. 971; amended Pub. L. 107–171, title III, § 3105(a), May 13, 2002, 116 Stat. 290; Pub. L. 110–246, title III, § 3104(a), June 18, 2008, 122 Stat. 1833; Pub. L. 113–188, title I, § 101(f), Nov. 26, 2014, 128 Stat. 2018, related to foreign market development cooperator program to maintain and develop foreign markets for United States agricultural commodities and products.
 
-Section 5723, Pub. L. 95–501, title VII, § 703, as added Pub. L. 104–127, title II, § 252, Apr. 4, 1996, 110 Stat. 972; amended Pub. L. 107–171, title III, § 3105(b), May 13, 2002, 116 Stat. 291; Pub. L. 110–246, title III, § 3104(b), June 18, 2008, 122 Stat. 1833; Pub. L. 113–79, title III, § 3103, Feb. 7, 2014, 128 Stat. 779, related to funding to carry out this subchapter and program priorities.
+Section 5723, Pub. L. 95–501, title VII, § 703, as added Pub. L. 104–127, title II, § 252, Apr. 4, 1996, 110 Stat. 972; amended Pub. L. 107–171, title III, § 3105(b), May 13, 2002, 116 Stat. 291; Pub. L. 110–246, title III, § 3104(b), June 18, 2008, 122 Stat. 1833; Pub. L. 113–79, title III, § 3103, Feb. 7, 2014, 128 Stat. 779, related to funding to carry out this subchapter and program priorities.

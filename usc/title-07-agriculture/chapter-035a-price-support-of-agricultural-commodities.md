@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 1421. Price support
+### § 1421. Price support
 
 **(a) Source**
 
@@ -51,15 +51,15 @@ The level of price support for any commodity shall be determined upon the basis 
 
 **(C)** The Secretary shall carry out this paragraph through the Commodity Credit Corporation.
 
-(Oct. 31, 1949, ch. 792, title IV, § 401, 63 Stat. 1054; Aug. 28, 1954, ch. 1041, title II, §§ 206, 207, 68 Stat. 901; Pub. L. 88–297, title I, § 103(c), Apr. 11, 1964, 78 Stat. 175; Pub. L. 99–198, title IX, § 903(a), Dec. 23, 1985, 99 Stat. 1444; Pub. L. 100–707, title I, 109(a)(1), Nov. 23, 1988, 102 Stat. 4708.)
+(Oct. 31, 1949, ch. 792, title IV, § 401, 63 Stat. 1054; Aug. 28, 1954, ch. 1041, title II, §§ 206, 207, 68 Stat. 901; Pub. L. 88–297, title I, § 103(c), Apr. 11, 1964, 78 Stat. 175; Pub. L. 99–198, title IX, § 903(a), Dec. 23, 1985, 99 Stat. 1444; Pub. L. 100–707, title I, 109(a)(1), Nov. 23, 1988, 102 Stat. 4708.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (c), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Amendments**
 
@@ -69,19 +69,19 @@ The Disaster Relief and Emergency Assistance Act, referred to in subsec. (c), is
 
 1964—Subsec. (b)(9). Pub. L. 88–297 added cl. (9).
 
-1954—Subsec. (c). Act Aug. 28, 1954, § 206, provided a program for diverted acres.
+1954—Subsec. (c). Act Aug. 28, 1954, § 206, provided a program for diverted acres.
 
-Subsec. (e). Act Aug. 28, 1954, § 207, added subsec. (e).
+Subsec. (e). Act Aug. 28, 1954, § 207, added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–127, title II, § 263(c), Apr. 4, 1996, 110 Stat. 974, provided that: “The amendments made by this section [repealing provisions set out as notes under this section and section 1446 of this title] shall be effective beginning with the 1996 crops of wheat, feed grains, upland cotton, and rice.”
+Pub. L. 104–127, title II, § 263(c), Apr. 4, 1996, 110 Stat. 974, provided that: “The amendments made by this section [repealing provisions set out as notes under this section and section 1446 of this title] shall be effective beginning with the 1996 crops of wheat, feed grains, upland cotton, and rice.”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–237, title XI, § 1101, Dec. 13, 1991, 105 Stat. 1906, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (D), (2)(NN), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (D), (2)(NN), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
+Pub. L. 102–237, title XI, § 1101, Dec. 13, 1991, 105 Stat. 1906, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (D), (2)(NN), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (D), (2)(NN), June 18, 2008, 122 Stat. 1664, 1857, 1859, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this Act, this Act and the amendments made by this Act [see Tables for classification] shall take effect on the date of enactment of this Act [Dec. 13, 1991].
 
@@ -129,7 +129,7 @@ Pub. L. 102–237, title XI, § 1101, Dec. 13, 1991, 105 Stat. 1906, as amende
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–624, title XI, § 1171, Nov. 28, 1990, 104 Stat. 3521, provided that:
+Pub. L. 101–624, title XI, § 1171, Nov. 28, 1990, 104 Stat. 3521, provided that:
 
 > **“(a) In General.—** Except as otherwise specifically provided in title I through this title [see Tables for classification], such titles and the amendments made by such titles shall become effective beginning with the 1991 crop of an agricultural commodity.
 
@@ -137,75 +137,75 @@ Pub. L. 101–624, title XI, § 1171, Nov. 28, 1990, 104 Stat. 3521, provided 
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title IX, § 903(b), Dec. 23, 1985, 99 Stat. 1444, provided that: “The amendments made by this section [amending this section] shall apply to nonpayments occurring after January 1, 1985.”
+Pub. L. 99–198, title IX, § 903(b), Dec. 23, 1985, 99 Stat. 1444, provided that: “The amendments made by this section [amending this section] shall apply to nonpayments occurring after January 1, 1985.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–66, title I, § 1001(a), Aug. 10, 1993, 107 Stat. 312, provided that: “This title [enacting sections 936c and 1314i of this title and section 460*l*–6c of Title 16, Conservation, amending sections 511r, 608b, 1308, 1308–3, 1314c, 1314e, 1358–1, 1359a, 1359bb, 1441–2, 1444–2, 1444f, 1445, 1445–1, 1445–2, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f, 1446g, 1446h, 1463, 1465, 1469, 1506, 1508, 1508a, 1782, 1783, 1785, 5623, and 5641 of this title and sections 3830, 3831, and 3837 of Title 16, enacting provisions set out as notes under sections 936c, 1446e, 1506, and 5623 of this title, and amending provisions set out as notes under this section and sections 608c and 1445b–3a of this title] may be cited as the ‘Agricultural Reconciliation Act of 1993’.”
+Pub. L. 103–66, title I, § 1001(a), Aug. 10, 1993, 107 Stat. 312, provided that: “This title [enacting sections 936c and 1314i of this title and section 460*l*–6c of Title 16, Conservation, amending sections 511r, 608b, 1308, 1308–3, 1314c, 1314e, 1358–1, 1359a, 1359bb, 1441–2, 1444–2, 1444f, 1445, 1445–1, 1445–2, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f, 1446g, 1446h, 1463, 1465, 1469, 1506, 1508, 1508a, 1782, 1783, 1785, 5623, and 5641 of this title and sections 3830, 3831, and 3837 of Title 16, enacting provisions set out as notes under sections 936c, 1446e, 1506, and 5623 of this title, and amending provisions set out as notes under this section and sections 608c and 1445b–3a of this title] may be cited as the ‘Agricultural Reconciliation Act of 1993’.”
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–237, § 1, Dec. 13, 1991, 105 Stat. 1818, provided that: “This Act [see Tables for classification] may be cited as the ‘Food, Agriculture, Conservation, and Trade Act Amendments of 1991’.”
+Pub. L. 102–237, § 1, Dec. 13, 1991, 105 Stat. 1818, provided that: “This Act [see Tables for classification] may be cited as the ‘Food, Agriculture, Conservation, and Trade Act Amendments of 1991’.”
 
 **Short Title of 1990 Amendments**
 
-Pub. L. 101–624, § 1(a), Nov. 28, 1990, 104 Stat. 3359, provided that: “This Act [see Tables for classification] may be cited as the ‘Food, Agriculture, Conservation, and Trade Act of 1990’.”
+Pub. L. 101–624, § 1(a), Nov. 28, 1990, 104 Stat. 3359, provided that: “This Act [see Tables for classification] may be cited as the ‘Food, Agriculture, Conservation, and Trade Act of 1990’.”
 
-Pub. L. 101–508, title I, § 1001(a), Nov. 5, 1990, 104 Stat. 1388, provided that: “This title [enacting section 940d of this title, amending sections 511r, 1441–2, 1444–2, 1444f, 1445, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f to 1446h, 1722, 1736, 1736a, 1783, 1994, 1999, and 5822 of this title and section 136a of Title 21, Food and Drugs, enacting provisions set out as notes under this section and sections 136w, 511r, and 1445b–3a of this title, and amending provisions set out as a note under this section] may be cited as the ‘Agricultural Reconciliation Act of 1990’.”
+Pub. L. 101–508, title I, § 1001(a), Nov. 5, 1990, 104 Stat. 1388, provided that: “This title [enacting section 940d of this title, amending sections 511r, 1441–2, 1444–2, 1444f, 1445, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f to 1446h, 1722, 1736, 1736a, 1783, 1994, 1999, and 5822 of this title and section 136a of Title 21, Food and Drugs, enacting provisions set out as notes under this section and sections 136w, 511r, and 1445b–3a of this title, and amending provisions set out as a note under this section] may be cited as the ‘Agricultural Reconciliation Act of 1990’.”
 
 **Short Title of 1989 Amendments**
 
-Pub. L. 101–239, title I, § 1001(a), Dec. 19, 1989, 103 Stat. 2106, provided that: “This title [enacting section 1433d of this title, amending sections 1444e, 1445b–2, 1446, 1464, and 1736s of this title, enacting provisions set out as notes under sections 1433d, 1444e, 1445b–2, 1446, and 1464 of this title and section 2278b–9 of Title 12, Banks and Banking, and amending provisions set out as a note under this section] may be cited as the ‘Agricultural Reconciliation Act of 1989’.”
+Pub. L. 101–239, title I, § 1001(a), Dec. 19, 1989, 103 Stat. 2106, provided that: “This title [enacting section 1433d of this title, amending sections 1444e, 1445b–2, 1446, 1464, and 1736s of this title, enacting provisions set out as notes under sections 1433d, 1444e, 1445b–2, 1446, and 1464 of this title and section 2278b–9 of Title 12, Banks and Banking, and amending provisions set out as a note under this section] may be cited as the ‘Agricultural Reconciliation Act of 1989’.”
 
-Pub. L. 101–82, § 1(a), Aug. 14, 1989, 103 Stat. 564, provided that: “This Act [enacting sections 1508a and 1926a of this title and section 5142 of Title 25, Indians, amending sections 1359, 1464, 1471d, and 1471e of this title and section 2202 of Title 16, Conservation, enacting provisions set out as notes under this section and sections 1359, 1464, 1926a, 1929a, 1941, and 1961 of this title and sections 2202 and 2203 of Title 16, and amending provisions set out as a note under this section] may be cited as the ‘Disaster Assistance Act of 1989’.”
+Pub. L. 101–82, § 1(a), Aug. 14, 1989, 103 Stat. 564, provided that: “This Act [enacting sections 1508a and 1926a of this title and section 5142 of Title 25, Indians, amending sections 1359, 1464, 1471d, and 1471e of this title and section 2202 of Title 16, Conservation, enacting provisions set out as notes under this section and sections 1359, 1464, 1926a, 1929a, 1941, and 1961 of this title and sections 2202 and 2203 of Title 16, and amending provisions set out as a note under this section] may be cited as the ‘Disaster Assistance Act of 1989’.”
 
 **Short Title of 1988 Amendments**
 
-Pub. L. 100–418, title II, § 2221, Aug. 23, 1988, 102 Stat. 1336, provided that: “This part [part II (§§ 2221–2227) of subtitle B of title II of Pub. L. 100–418, which amended section 1431 of this title and enacted provisions set out as notes under section 1431 of this title] may be cited as the ‘American Aid to Poland Act of 1988’.”
+Pub. L. 100–418, title II, § 2221, Aug. 23, 1988, 102 Stat. 1336, provided that: “This part [part II (§§ 2221–2227) of subtitle B of title II of Pub. L. 100–418, which amended section 1431 of this title and enacted provisions set out as notes under section 1431 of this title] may be cited as the ‘American Aid to Poland Act of 1988’.”
 
-Pub. L. 100–387, § 1, Aug. 11, 1988, 102 Stat. 924, provided: “That this Act [see Tables for classification] may be cited as the ‘Disaster Assistance Act of 1988’.”
+Pub. L. 100–387, § 1, Aug. 11, 1988, 102 Stat. 924, provided: “That this Act [see Tables for classification] may be cited as the ‘Disaster Assistance Act of 1988’.”
 
-Act Oct. 31, 1949, ch. 792, title VI, § 601, as added Aug. 11, 1988, Pub. L. 100–387, title I, § 101(a), 102 Stat. 925, provided that: “This title [enacting sections 1471 to 1471j of this title] may be cited as the ‘Emergency Livestock Feed Assistance Act of 1988’.”
+Act Oct. 31, 1949, ch. 792, title VI, § 601, as added Aug. 11, 1988, Pub. L. 100–387, title I, § 101(a), 102 Stat. 925, provided that: “This title [enacting sections 1471 to 1471j of this title] may be cited as the ‘Emergency Livestock Feed Assistance Act of 1988’.”
 
 **Short Title of 1987 Amendments**
 
-Pub. L. 100–203, title I, § 1001(a), Dec. 22, 1987, 101 Stat. 1330, provided that: “This title [enacting sections 940b, 940c, 944a, 1308–1 to 1308–3, and 2030 of this title, amending sections 608c, 946, 948, 1308, 1308–1, 1314b, 1314c, 1423, 1431, 1441–1, 1444, 1444–1, 1444e, 1445, 1445b–2, 1445b–3, 1445c–2, 1446, 1466, 1782, 1932, and 2371 of this title and section 713a–11 of Title 15, Commerce and Trade, enacting provisions set out as notes under sections 936a, 948, 1308 to 1308–3, 1441–1, 1444, 1444–1, 1444e, 1445, 1445b–2, 1445b–3, 1445c–2, 1446, 1466, and 1508 of this title, sections 713a–11 and 714b of Title 15, and section 7545 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section] may be cited as the ‘Agricultural Reconciliation Act of 1987’.”
+Pub. L. 100–203, title I, § 1001(a), Dec. 22, 1987, 101 Stat. 1330, provided that: “This title [enacting sections 940b, 940c, 944a, 1308–1 to 1308–3, and 2030 of this title, amending sections 608c, 946, 948, 1308, 1308–1, 1314b, 1314c, 1423, 1431, 1441–1, 1444, 1444–1, 1444e, 1445, 1445b–2, 1445b–3, 1445c–2, 1446, 1466, 1782, 1932, and 2371 of this title and section 713a–11 of Title 15, Commerce and Trade, enacting provisions set out as notes under sections 936a, 948, 1308 to 1308–3, 1441–1, 1444, 1444–1, 1444e, 1445, 1445b–2, 1445b–3, 1445c–2, 1446, 1466, and 1508 of this title, sections 713a–11 and 714b of Title 15, and section 7545 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section] may be cited as the ‘Agricultural Reconciliation Act of 1987’.”
 
-Pub. L. 100–45, § 1, May 27, 1987, 101 Stat. 318, provided: “That this Act [amending sections 1441–1, 1444–1, 1444e, 1445b–3, and 1446 of this title and section 701n of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under sections 1441–1, 1444–1, 1444e, 1445b–3, and 1446 of this title and section 3835 of Title 16, Conservation] may be cited as the ‘Farm Disaster Assistance Act of 1987’.”
+Pub. L. 100–45, § 1, May 27, 1987, 101 Stat. 318, provided: “That this Act [amending sections 1441–1, 1444–1, 1444e, 1445b–3, and 1446 of this title and section 701n of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under sections 1441–1, 1444–1, 1444e, 1445b–3, and 1446 of this title and section 3835 of Title 16, Conservation] may be cited as the ‘Farm Disaster Assistance Act of 1987’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–258, § 1, Apr. 10, 1984, 98 Stat. 130, provided: “That this Act [enacting section 1981b of this title, amending sections 1431, 1441, 1444, 1444d, 1445b–1, 1943, 1946, 1961, 1964, 1986, and 1994 of this title, enacting provisions set out as notes under sections 1921, 1961, and 1981 of this title, and amending provisions set out as a note preceding section 1961 of this title] may be cited as the ‘Agricultural Programs Adjustment Act of 1984’.”
+Pub. L. 98–258, § 1, Apr. 10, 1984, 98 Stat. 130, provided: “That this Act [enacting section 1981b of this title, amending sections 1431, 1441, 1444, 1444d, 1445b–1, 1943, 1946, 1961, 1964, 1986, and 1994 of this title, enacting provisions set out as notes under sections 1921, 1961, and 1981 of this title, and amending provisions set out as a note preceding section 1961 of this title] may be cited as the ‘Agricultural Programs Adjustment Act of 1984’.”
 
 **Short Title of 1983 Amendments**
 
-Pub. L. 98–180, § 1, Nov. 29, 1983, 97 Stat. 1128, provided: “That this Act [enacting sections 511r, 4501 to 4514, and 4531 to 4538 of this title, amending section 608c, 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, 1445–2, and 1446 of this title, and enacting provisions set out as notes under this section and sections 1314b, 1314c, 1314e, 1427, 1445, 1446, and 1727g of this title] may be cited as the ‘Dairy and Tobacco Adjustment Act of 1983’.”
+Pub. L. 98–180, § 1, Nov. 29, 1983, 97 Stat. 1128, provided: “That this Act [enacting sections 511r, 4501 to 4514, and 4531 to 4538 of this title, amending section 608c, 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, 1445–2, and 1446 of this title, and enacting provisions set out as notes under this section and sections 1314b, 1314c, 1314e, 1427, 1445, 1446, and 1727g of this title] may be cited as the ‘Dairy and Tobacco Adjustment Act of 1983’.”
 
-Pub. L. 98–180, title I, § 101, Nov. 29, 1983, 97 Stat. 1128, provided that: “This title [enacting sections 4501 to 4513 of this title, amending section 1446 of this title, and enacting provisions set out as notes under section 1446 of this title] may be cited as the ‘Dairy Production Stabilization Act of 1983’.”
+Pub. L. 98–180, title I, § 101, Nov. 29, 1983, 97 Stat. 1128, provided that: “This title [enacting sections 4501 to 4513 of this title, amending section 1446 of this title, and enacting provisions set out as notes under section 1446 of this title] may be cited as the ‘Dairy Production Stabilization Act of 1983’.”
 
-Pub. L. 98–180, title II, § 201, Nov. 29, 1983, 97 Stat. 1143, provided that: “This title [enacting section 511r of this title, amending sections 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314b, 1314c, 1314e, and 1445 of this title] may be cited as the ‘Tobacco Adjustment Act of 1983’.”
+Pub. L. 98–180, title II, § 201, Nov. 29, 1983, 97 Stat. 1143, provided that: “This title [enacting section 511r of this title, amending sections 1314b, 1314b–1, 1314b–2, 1314c, 1314d, 1314e, 1379, 1445, 1445–1, and 1445–2 of this title, and enacting provisions set out as notes under sections 1314b, 1314c, 1314e, and 1445 of this title] may be cited as the ‘Tobacco Adjustment Act of 1983’.”
 
-Pub. L. 98–88, § 1, Aug. 26, 1983, 97 Stat. 494, provided: “That this Act [amending sections 1308, 1427, 1441, and 1444 of this title, repealing section 1347 of this title, and enacting provisions set out as notes under sections 1342, 1347, and 1444 of this title] may be cited as the ‘Extra Long Staple Cotton Act of 1983’.”
+Pub. L. 98–88, § 1, Aug. 26, 1983, 97 Stat. 494, provided: “That this Act [amending sections 1308, 1427, 1441, and 1444 of this title, repealing section 1347 of this title, and enacting provisions set out as notes under sections 1342, 1347, and 1444 of this title] may be cited as the ‘Extra Long Staple Cotton Act of 1983’.”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–358, § 1, Oct. 21, 1982, 96 Stat. 1714, provided: “That this Act [enacting section 1433b of this title] may be cited as the ‘Surplus Agricultural Commodities Disposal Act of 1982’.”
+Pub. L. 97–358, § 1, Oct. 21, 1982, 96 Stat. 1714, provided: “That this Act [enacting section 1433b of this title] may be cited as the ‘Surplus Agricultural Commodities Disposal Act of 1982’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–213, § 1, Mar. 18, 1980, 94 Stat. 119, provided: “That this Act [amending sections 1308, 1309, 1441, 1444, 1444c, and 1445b of this title, and enacting provisions set out as notes under sections 1308 and 1309 of this title] may be cited as the ‘Agricultural Adjustment Act of 1980’.”
+Pub. L. 96–213, § 1, Mar. 18, 1980, 94 Stat. 119, provided: “That this Act [amending sections 1308, 1309, 1441, 1444, 1444c, and 1445b of this title, and enacting provisions set out as notes under sections 1308 and 1309 of this title] may be cited as the ‘Agricultural Adjustment Act of 1980’.”
 
 **Short Title**
 
-Act Oct. 31, 1949, ch. 792, § 1, 63 Stat. 1051, provided: “That this Act [enacting this section and sections 1422 to 1431, 1432, 1433, 1441, 1443 to 1445a, 1446, 1446a, 1446d, 1447 to 1449, and 1461 to 1468 of this title, amending sections 612c, 1301, 1322, 1328, 1343, 1344, 1345, and 1353 to 1356 of this title, and repealing section 1302 of this title; amending sections 1134c and 1134j of Title 12, Banks and Banking, section 713a–4 of Title 15, Commerce and Trade, section 410 of Title 42, The Public Health and Welfare] may be cited as the ‘Agricultural Act of 1949’.”
+Act Oct. 31, 1949, ch. 792, § 1, 63 Stat. 1051, provided: “That this Act [enacting this section and sections 1422 to 1431, 1432, 1433, 1441, 1443 to 1445a, 1446, 1446a, 1446d, 1447 to 1449, and 1461 to 1468 of this title, amending sections 612c, 1301, 1322, 1328, 1343, 1344, 1345, and 1353 to 1356 of this title, and repealing section 1302 of this title; amending sections 1134c and 1134j of Title 12, Banks and Banking, section 713a–4 of Title 15, Commerce and Trade, section 410 of Title 42, The Public Health and Welfare] may be cited as the ‘Agricultural Act of 1949’.”
 
 **Repeals**
 
-Act Oct. 31, 1949, ch. 792, title IV, § 414, 63 Stat. 1057, provided in part that: “any provision of law in conflict with the provisions of this Act [see Short Title note set out above] are [is] hereby repealed.”
+Act Oct. 31, 1949, ch. 792, title IV, § 414, 63 Stat. 1057, provided in part that: “any provision of law in conflict with the provisions of this Act [see Short Title note set out above] are [is] hereby repealed.”
 
 **Regulations**
 
-Pub. L. 106–224, title II, § 263, June 20, 2000, 114 Stat. 427, provided that:
+Pub. L. 106–224, title II, § 263, June 20, 2000, 114 Stat. 427, provided that:
 
 > **“(a) Promulgation.—** As soon as practicable after the date of the enactment of this Act [June 20, 2000], the Secretary and the Commodity Credit Corporation, as appropriate, shall promulgate such regulations as are necessary to implement this title and the amendments made by this title [see Tables for classification]. The promulgation of the regulations and administration of this title shall be made without regard to—
 
@@ -219,11 +219,11 @@ Pub. L. 106–224, title II, § 263, June 20, 2000, 114 Stat. 427, provided th
 
 **Separability Provision for Pub. L. 101–624**
 
-Pub. L. 101–624, title XXV, § 2518, formerly § 2519, Nov. 28, 1990, 104 Stat. 4078; renumbered § 2518 by Pub. L. 104–66, title I, § 1101(h), Dec. 21, 1995, 109 Stat. 710, provided that: “If any provision of this Act [see Short Title of 1990 Amendment note above] or the application thereof to any person or circumstance is held invalid, the invalidity shall not affect other provisions or applications of this Act which can be given effect without regard to the invalid provision or application, and to this end the provisions of this Act are severable.”
+Pub. L. 101–624, title XXV, § 2518, formerly § 2519, Nov. 28, 1990, 104 Stat. 4078; renumbered § 2518 by Pub. L. 104–66, title I, § 1101(h), Dec. 21, 1995, 109 Stat. 710, provided that: “If any provision of this Act [see Short Title of 1990 Amendment note above] or the application thereof to any person or circumstance is held invalid, the invalidity shall not affect other provisions or applications of this Act which can be given effect without regard to the invalid provision or application, and to this end the provisions of this Act are severable.”
 
 **Separability Provision for Pub. L. 98–180**
 
-Pub. L. 98–180, title III, § 305, Nov. 29, 1983, 97 Stat. 1152, provided that: “Except as otherwise provided in this Act [see Short Title of 1983 Amendment note above], if any provision of this Act or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Pub. L. 98–180, title III, § 305, Nov. 29, 1983, 97 Stat. 1152, provided that: “Except as otherwise provided in this Act [see Short Title of 1983 Amendment note above], if any provision of this Act or the application thereof to any person or circumstances is held invalid, the validity of the remainder of this Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
 **Inapplicability of Section**
 
@@ -237,97 +237,97 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **Crop and Pasture Flood Compensation Program**
 
-Pub. L. 106–224, title II, § 257(a)–(d), June 20, 2000, 114 Stat. 424, 425, limited the per-person and total amounts payable from the Commodity Credit Corporation to compensate producers with covered land with respect to losses from long-term flooding during the 2000 crop year.
+Pub. L. 106–224, title II, § 257(a)–(d), June 20, 2000, 114 Stat. 424, 425, limited the per-person and total amounts payable from the Commodity Credit Corporation to compensate producers with covered land with respect to losses from long-term flooding during the 2000 crop year.
 
 **Restoration of Eligibility for Crop Loss Assistance**
 
-Pub. L. 106–224, title II, § 259, June 20, 2000, 114 Stat. 426, as amended by Pub. L. 106–472, title III, § 315, Nov. 9, 2000, 114 Stat. 2081, restored the eligibility of individuals otherwise eligible for disaster assistance under section 1102(c) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (as contained in section 101(a) of division A of Public Law 105–277; formerly 7 U.S.C. 1421 note), but deemed ineligible solely because the individual or entity changed the legal structure of the individual’s or entity’s farming operation.
+Pub. L. 106–224, title II, § 259, June 20, 2000, 114 Stat. 426, as amended by Pub. L. 106–472, title III, § 315, Nov. 9, 2000, 114 Stat. 2081, restored the eligibility of individuals otherwise eligible for disaster assistance under section 1102(c) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (as contained in section 101(a) of division A of Public Law 105–277; formerly 7 U.S.C. 1421 note), but deemed ineligible solely because the individual or entity changed the legal structure of the individual’s or entity’s farming operation.
 
 **Emergency and Disaster Assistance for Producers**
 
-Pub. L. 106–224, title II, subtitle A, June 20, 2000, 114 Stat. 398, as amended by Pub. L. 106–387, § 1(a) [title VIII, § 816], Oct. 28, 2000, 114 Stat. 1549, 1549A–57, provided emergency and disaster assistance to farm owners and producers of various farm products in the 1999 marketing year and the 2000 crop year and provided payments in lieu of loan deficiency payments for producers of certain crops in the 2001 crop year.
+Pub. L. 106–224, title II, subtitle A, June 20, 2000, 114 Stat. 398, as amended by Pub. L. 106–387, § 1(a) [title VIII, § 816], Oct. 28, 2000, 114 Stat. 1549, 1549A–57, provided emergency and disaster assistance to farm owners and producers of various farm products in the 1999 marketing year and the 2000 crop year and provided payments in lieu of loan deficiency payments for producers of certain crops in the 2001 crop year.
 
-Pub. L. 106–113, div. B, § 1000(a)(5) [title I], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, provided for an additional amount for specialty crop assistance authorized by section 803(c)(1) of Public Law 106–78, formerly set out in a note below.
+Pub. L. 106–113, div. B, § 1000(a)(5) [title I], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, provided for an additional amount for specialty crop assistance authorized by section 803(c)(1) of Public Law 106–78, formerly set out in a note below.
 
-Pub. L. 106–113, div. B, § 1000(a)(5) [title I], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, as amended by Pub. L. 106–387, § 1(a) [title VIII, § 802], Oct. 28, 2000, 114 Stat. 1549, 1549A–49, provided for an additional amount for livestock assistance authorized by section 805 of Public Law 106–78, formerly set out in a note below.
+Pub. L. 106–113, div. B, § 1000(a)(5) [title I], Nov. 29, 1999, 113 Stat. 1536, 1501A–290, as amended by Pub. L. 106–387, § 1(a) [title VIII, § 802], Oct. 28, 2000, 114 Stat. 1549, 1549A–49, provided for an additional amount for livestock assistance authorized by section 805 of Public Law 106–78, formerly set out in a note below.
 
-Pub. L. 106–78, title VIII, Oct. 22, 1999, 113 Stat. 1175, as amended by Pub. L. 106–113, div. B, § 1000(a)(5) [title I, § 102], Nov. 29, 1999, 113 Stat. 1536, 1501A–291, provided for emergency market loss payments and other disaster assistance to producers of crops and livestock in 1999.
+Pub. L. 106–78, title VIII, Oct. 22, 1999, 113 Stat. 1175, as amended by Pub. L. 106–113, div. B, § 1000(a)(5) [title I, § 102], Nov. 29, 1999, 113 Stat. 1536, 1501A–291, provided for emergency market loss payments and other disaster assistance to producers of crops and livestock in 1999.
 
-Pub. L. 106–31, title I, § 101, May 21, 1999, 113 Stat. 61, provided for crop loss assistance for multiyear losses due to disasters in two crop years during the five-crop year period beginning with the 1994 crop year.
+Pub. L. 106–31, title I, § 101, May 21, 1999, 113 Stat. 61, provided for crop loss assistance for multiyear losses due to disasters in two crop years during the five-crop year period beginning with the 1994 crop year.
 
-Pub. L. 106–31, title I, § 104, May 21, 1999, 113 Stat. 62, provided an additional amount for the Livestock Assistance Program under Pub. L. 105–277 (see section 101(a) [title XI] of Pub. L. 105–277, formerly set out as a note below).
+Pub. L. 106–31, title I, § 104, May 21, 1999, 113 Stat. 62, provided an additional amount for the Livestock Assistance Program under Pub. L. 105–277 (see section 101(a) [title XI] of Pub. L. 105–277, formerly set out as a note below).
 
-Pub. L. 105–277, div. A, § 101(a) [title XI], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31, title III, § 3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, § 817(a)(2), title IX, § 913(b), Oct. 22, 1999, 113 Stat. 1184, 1205; Pub. L. 106–387, § 1(a) [title VII, § 754], Oct. 28, 2000, 114 Stat. 1549, 1549A–42; Pub. L. 107–25, § 9, Aug. 13, 2001, 115 Stat. 203, provided emergency assistance for crop and livestock feed losses, for market loss assistance, and for other assistance to agricultural producers who incurred losses in the 1998 crop year due to disaster or who incurred multiyear losses in the period including 1998 and preceding crop years.
+Pub. L. 105–277, div. A, § 101(a) [title XI], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31, title III, § 3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, § 817(a)(2), title IX, § 913(b), Oct. 22, 1999, 113 Stat. 1184, 1205; Pub. L. 106–387, § 1(a) [title VII, § 754], Oct. 28, 2000, 114 Stat. 1549, 1549A–42; Pub. L. 107–25, § 9, Aug. 13, 2001, 115 Stat. 203, provided emergency assistance for crop and livestock feed losses, for market loss assistance, and for other assistance to agricultural producers who incurred losses in the 1998 crop year due to disaster or who incurred multiyear losses in the period including 1998 and preceding crop years.
 
 **Programs for Farmers and Ranchers Who Were Activated Reservists During Persian Gulf Conflict**
 
-Pub. L. 102–25, title III, §§ 381–388, Apr. 6, 1991, 105 Stat. 95–98, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (D), (J), (2)(MM), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (D), (J), (2)(MM), June 18, 2008, 122 Stat. 1664, 1857, 1859, established programs for farmers and ranchers who were activated reservists during Persian Gulf conflict to provide for protection of producer’s crop acreage base for any program crop, waiver of minimum planting requirement, temporary waiver of conservation requirements, relief for borrowers under farm credit provisions, and authority of a spouse or close relative to participate in programs administered by Secretary of Agriculture on behalf of activated reservists.
+Pub. L. 102–25, title III, §§ 381–388, Apr. 6, 1991, 105 Stat. 95–98, as amended by Pub. L. 110–234, title IV, § 4002(b)(1)(B), (D), (J), (2)(MM), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(B), (D), (J), (2)(MM), June 18, 2008, 122 Stat. 1664, 1857, 1859, established programs for farmers and ranchers who were activated reservists during Persian Gulf conflict to provide for protection of producer’s crop acreage base for any program crop, waiver of minimum planting requirement, temporary waiver of conservation requirements, relief for borrowers under farm credit provisions, and authority of a spouse or close relative to participate in programs administered by Secretary of Agriculture on behalf of activated reservists.
 
 **Survey of Program Participants**
 
-Pub. L. 101–624, title XI, § 1148, Nov. 28, 1990, 104 Stat. 3517, directed Secretary of Agriculture to require producers, during sign-up period for commodity programs under section 1421 et seq. of this title in the 1992 calendar year, to complete survey regarding preference of producers, either to increase efficiency of their farming operation or to assist in meeting conservation requirements for farm, for redistribution of any crop acreage bases on each producer’s farm, to compile and analyze data collected from survey to determine potential increases and decreases in State, regional, and national acreage that would be planted to various program crops, potential commodity program costs or savings, and potential impact of such redistribution on competitiveness of United States agriculture in world markets, and, not later than Jan. 31, 1993, to submit to Congress results of survey.
+Pub. L. 101–624, title XI, § 1148, Nov. 28, 1990, 104 Stat. 3517, directed Secretary of Agriculture to require producers, during sign-up period for commodity programs under section 1421 et seq. of this title in the 1992 calendar year, to complete survey regarding preference of producers, either to increase efficiency of their farming operation or to assist in meeting conservation requirements for farm, for redistribution of any crop acreage bases on each producer’s farm, to compile and analyze data collected from survey to determine potential increases and decreases in State, regional, and national acreage that would be planted to various program crops, potential commodity program costs or savings, and potential impact of such redistribution on competitiveness of United States agriculture in world markets, and, not later than Jan. 31, 1993, to submit to Congress results of survey.
 
 **Options Pilot Program**
 
-Pub. L. 101–624, title XI, subtitle E, Nov. 28, 1990, 104 Stat. 3518, as amended by Pub. L. 102–237, title I, § 114(a)(2), Dec. 13, 1991, 105 Stat. 1838, known as Options Pilot Program Act of 1990, authorized Secretary of Agriculture to conduct pilot program for each of the 1991 through 1995 crops of corn and for each of the 1993 through 1995 crops of wheat and soybeans, to determine whether regulated agricultural commodity options trading could be used by producers to obtain protection from fluctuations in market prices of commodities produced and impact of such trading on prices of the commodities, authorized terms and conditions for participation in pilot program, provided for consultation with representatives of commodity futures trading industry, and provided that the pilot program was to be carried out by and through the Commodity Credit Corporation, prior to repeal by Pub. L. 104–127, title I, § 191(i), Apr. 4, 1996, 110 Stat. 942.
+Pub. L. 101–624, title XI, subtitle E, Nov. 28, 1990, 104 Stat. 3518, as amended by Pub. L. 102–237, title I, § 114(a)(2), Dec. 13, 1991, 105 Stat. 1838, known as Options Pilot Program Act of 1990, authorized Secretary of Agriculture to conduct pilot program for each of the 1991 through 1995 crops of corn and for each of the 1993 through 1995 crops of wheat and soybeans, to determine whether regulated agricultural commodity options trading could be used by producers to obtain protection from fluctuations in market prices of commodities produced and impact of such trading on prices of the commodities, authorized terms and conditions for participation in pilot program, provided for consultation with representatives of commodity futures trading industry, and provided that the pilot program was to be carried out by and through the Commodity Credit Corporation, prior to repeal by Pub. L. 104–127, title I, § 191(i), Apr. 4, 1996, 110 Stat. 942.
 
 **Hurricane Hugo Forestry Assistance; Cost-Share Assistance**
 
-Pub. L. 101–624, title XXII, § 2235(b), Nov. 28, 1990, 104 Stat. 3960, directed Secretary of Agriculture to develop and implement cost-share program to provide financial assistance to owners of private timber stands that were damaged in 1989 by Hurricane Hugo.
+Pub. L. 101–624, title XXII, § 2235(b), Nov. 28, 1990, 104 Stat. 3960, directed Secretary of Agriculture to develop and implement cost-share program to provide financial assistance to owners of private timber stands that were damaged in 1989 by Hurricane Hugo.
 
 **Appropriations for Forestry Assistance and Double Cropping on Disaster Areas**
 
-Pub. L. 101–624, title XXII, § 2235(c), Nov. 28, 1990, 104 Stat. 3961, provided that benefits or assistance provided under section 2235 of Pub. L. 101–624 or amendments made by such that (enacting provisions set out above and amending provisions set out below) were to be provided only to extent provided for in advance by appropriation acts and authorized appropriations for fiscal years 1991 through 1995.
+Pub. L. 101–624, title XXII, § 2235(c), Nov. 28, 1990, 104 Stat. 3961, provided that benefits or assistance provided under section 2235 of Pub. L. 101–624 or amendments made by such that (enacting provisions set out above and amending provisions set out below) were to be provided only to extent provided for in advance by appropriation acts and authorized appropriations for fiscal years 1991 through 1995.
 
 **Scarce Federal Resources**
 
-Pub. L. 101–624, title XXV, § 2515, Nov. 28, 1990, 104 Stat. 4075, authorized Secretary of Agriculture, after concurrence of certain Members of Congress, to rank by priority studies or reports authorized by Pub. L. 101–624 and determine which of those studies or reports was to be completed, but directed Secretary to complete at least 12 of the studies or reports.
+Pub. L. 101–624, title XXV, § 2515, Nov. 28, 1990, 104 Stat. 4075, authorized Secretary of Agriculture, after concurrence of certain Members of Congress, to rank by priority studies or reports authorized by Pub. L. 101–624 and determine which of those studies or reports was to be completed, but directed Secretary to complete at least 12 of the studies or reports.
 
 **Recordkeeping Improvement**
 
-Pub. L. 101–624, title XXV, § 2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as “Agricultural Program Reporting and Recordkeeping Improvement Act of 1990”, directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate various data bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
+Pub. L. 101–624, title XXV, § 2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as “Agricultural Program Reporting and Recordkeeping Improvement Act of 1990”, directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate various data bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
 
 **Readjustment of Support Levels**
 
-Pub. L. 101–508, title I, § 1302, Nov. 5, 1990, 104 Stat. 1388–12, as amended by Pub. L. 103–66, title I, § 1301(b), Aug. 10, 1993, 107 Stat. 330, provided that, if by June 30, 1992, and by June 30, 1993, the United States had not entered into agricultural trade agreement in Uruguay Round of multilateral trade negotiations under General Agreement on Tariffs and Trade (GATT) the Secretary of Agriculture was to reconsider and adjust agricultural acreage limitation and price support and production adjustment programs and export promotion levels, as appropriate to protect interests of American agricultural producers and ensure international competitiveness of United States agriculture and that such provisions were to cease to be effective if President certified to Congress that failure to enter into such agreement was result in whole or in part of provisions of 19 U.S.C. 2191, or essentially similar provisions, not applying or in effect not applying during period ending May 31, 1991 (or during period June 1, 1991, through May 31, 1993, if condition of 19 U.S.C. 2903(b)(1)(B)(i) was satisfied) to implementing bills submitted with respect to such an agreement entered into during applicable period under 19 U.S.C. 2902(b), prior to repeal by Pub. L. 104–127, title II, § 263(a), Apr. 4, 1996, 110 Stat. 974.
+Pub. L. 101–508, title I, § 1302, Nov. 5, 1990, 104 Stat. 1388–12, as amended by Pub. L. 103–66, title I, § 1301(b), Aug. 10, 1993, 107 Stat. 330, provided that, if by June 30, 1992, and by June 30, 1993, the United States had not entered into agricultural trade agreement in Uruguay Round of multilateral trade negotiations under General Agreement on Tariffs and Trade (GATT) the Secretary of Agriculture was to reconsider and adjust agricultural acreage limitation and price support and production adjustment programs and export promotion levels, as appropriate to protect interests of American agricultural producers and ensure international competitiveness of United States agriculture and that such provisions were to cease to be effective if President certified to Congress that failure to enter into such agreement was result in whole or in part of provisions of 19 U.S.C. 2191, or essentially similar provisions, not applying or in effect not applying during period ending May 31, 1991 (or during period June 1, 1991, through May 31, 1993, if condition of 19 U.S.C. 2903(b)(1)(B)(i) was satisfied) to implementing bills submitted with respect to such an agreement entered into during applicable period under 19 U.S.C. 2902(b), prior to repeal by Pub. L. 104–127, title II, § 263(a), Apr. 4, 1996, 110 Stat. 974.
 
 **Repayment of Advance Deficiency Payments**
 
-Pub. L. 101–220, § 14, Dec. 12, 1989, 103 Stat. 1885, provided that effective only for the 1988 crops of wheat, feed grains, upland cotton, and rice, produced by producers that qualified for assistance under section 201(a) of Pub. L. 100–387 or section 101(a) of Pub. L. 101–82 (set out below), if the Secretary of Agriculture determines that any portion of the advance deficiency payment made to producers for such crop under section 1445b–2 of this title had to be refunded, such refund could not be required to be made prior to July 31, 1990.
+Pub. L. 101–220, § 14, Dec. 12, 1989, 103 Stat. 1885, provided that effective only for the 1988 crops of wheat, feed grains, upland cotton, and rice, produced by producers that qualified for assistance under section 201(a) of Pub. L. 100–387 or section 101(a) of Pub. L. 101–82 (set out below), if the Secretary of Agriculture determines that any portion of the advance deficiency payment made to producers for such crop under section 1445b–2 of this title had to be refunded, such refund could not be required to be made prior to July 31, 1990.
 
 **Pilot Project on Clean Grain Premiums**
 
-Pub. L. 100–518, § 3, Oct. 24, 1988, 102 Stat. 2587, directed Secretary of Agriculture to conduct study of schedule of premiums and discounts applied to loans made in accordance with this chapter to determine how premiums and discounts could be used to encourage production, marketing, and exporting of high quality, clean grain, to submit, not later than May 1, 1989, to Congress report on results of such study, to include recommendations with respect to schedule of premiums and discounts in such report, and to establish pilot project for 1989 crops of wheat, soybeans, and feed grains to test effectiveness of such recommendations, and to submit report describing result of project, not later than 180 days after end of 1989 marketing year for feed grains.
+Pub. L. 100–518, § 3, Oct. 24, 1988, 102 Stat. 2587, directed Secretary of Agriculture to conduct study of schedule of premiums and discounts applied to loans made in accordance with this chapter to determine how premiums and discounts could be used to encourage production, marketing, and exporting of high quality, clean grain, to submit, not later than May 1, 1989, to Congress report on results of such study, to include recommendations with respect to schedule of premiums and discounts in such report, and to establish pilot project for 1989 crops of wheat, soybeans, and feed grains to test effectiveness of such recommendations, and to submit report describing result of project, not later than 180 days after end of 1989 marketing year for feed grains.
 
 **Emergency Crop Loss Assistance**
 
 Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1712, as amended by Pub. L. 102–368, title VI, Sept. 23, 1992, 106 Stat. 1130, appropriated an additional $1,750,000,000, to remain available until expended, for losses associated with 1990 crops as authorized by Pub. L. 101–624, formerly set out below, and for losses associated with 1991 and 1992 crops under same terms and conditions.
 
-Pub. L. 101–624, title XXII, §§ 2241–2272, Nov. 28, 1990, 104 Stat. 3962–3977, as amended by Pub. L. 101–508, title I, § 1204(d), Nov. 5, 1990, 104 Stat. 1388–12; Pub. L. 102–237, title I, § 114(a)(4)–(16), Dec. 13, 1991, 105 Stat. 1838, 1839, related to emergency crop loss assistance for the 1990 crop of wheat, feed grains, upland cotton, extra long staple cotton, and rice, for orchards, and for forest crops, prior to repeal by Pub. L. 103–354, title I, § 119(c), Oct. 13, 1994, 108 Stat. 3208. Similar provisions for prior crop years were contained in:
+Pub. L. 101–624, title XXII, §§ 2241–2272, Nov. 28, 1990, 104 Stat. 3962–3977, as amended by Pub. L. 101–508, title I, § 1204(d), Nov. 5, 1990, 104 Stat. 1388–12; Pub. L. 102–237, title I, § 114(a)(4)–(16), Dec. 13, 1991, 105 Stat. 1838, 1839, related to emergency crop loss assistance for the 1990 crop of wheat, feed grains, upland cotton, extra long staple cotton, and rice, for orchards, and for forest crops, prior to repeal by Pub. L. 103–354, title I, § 119(c), Oct. 13, 1994, 108 Stat. 3208. Similar provisions for prior crop years were contained in:
 
-Pub. L. 101–82, title I, Aug. 14, 1989, 103 Stat. 565, as amended by Pub. L. 101–134, § 1, Oct. 30, 1989, 103 Stat. 780; Pub. L. 101–220, § 9(a)–(c), Dec. 12, 1989, 103 Stat. 1882; Pub. L. 101–624, title XXII, §§ 2231, 2232, 2235(a), Nov. 28, 1990, 104 Stat. 3958, 3959; Pub. L. 102–237, title VI, § 602(a), (c), Dec. 13, 1991, 105 Stat. 1878.
+Pub. L. 101–82, title I, Aug. 14, 1989, 103 Stat. 565, as amended by Pub. L. 101–134, § 1, Oct. 30, 1989, 103 Stat. 780; Pub. L. 101–220, § 9(a)–(c), Dec. 12, 1989, 103 Stat. 1882; Pub. L. 101–624, title XXII, §§ 2231, 2232, 2235(a), Nov. 28, 1990, 104 Stat. 3958, 3959; Pub. L. 102–237, title VI, § 602(a), (c), Dec. 13, 1991, 105 Stat. 1878.
 
-Pub. L. 100–387, title II, Aug. 11, 1988, 102 Stat. 933, as amended by Pub. L. 101–82, title VI, § 602, Aug. 14, 1989, 103 Stat. 587; Pub. L. 101–239, title I, § 1004(a), Dec. 19, 1989, 103 Stat. 2108.
+Pub. L. 100–387, title II, Aug. 11, 1988, 102 Stat. 933, as amended by Pub. L. 101–82, title VI, § 602, Aug. 14, 1989, 103 Stat. 587; Pub. L. 101–239, title I, § 1004(a), Dec. 19, 1989, 103 Stat. 2108.
 
 **Special Study and Pilot Projects on Futures Trading**
 
-Pub. L. 99–198, title XVII, subtitle E, §§ 1741–1743, Dec. 23, 1985, 99 Stat. 1643, 1644, as amended by Pub. L. 100–203, title I, § 1502, Dec. 22, 1987, 101 Stat. 1330–27, directed Secretary of Agriculture to conduct study to determine manner in which commodity futures markets and commodity options markets might be used by producers of commodities traded on such markets to provide price stability and income protection, extent of price stability and income protection producers might reasonably expect to receive from such participation, and Federal budgetary impact of such participation compared with cost of applicable established price support programs, to report results of study to Congress on or before Dec. 31, 1989, and in connection with such study, to conduct pilot program with respect to crops of wheat, feed grains, soybean, and cotton.
+Pub. L. 99–198, title XVII, subtitle E, §§ 1741–1743, Dec. 23, 1985, 99 Stat. 1643, 1644, as amended by Pub. L. 100–203, title I, § 1502, Dec. 22, 1987, 101 Stat. 1330–27, directed Secretary of Agriculture to conduct study to determine manner in which commodity futures markets and commodity options markets might be used by producers of commodities traded on such markets to provide price stability and income protection, extent of price stability and income protection producers might reasonably expect to receive from such participation, and Federal budgetary impact of such participation compared with cost of applicable established price support programs, to report results of study to Congress on or before Dec. 31, 1989, and in connection with such study, to conduct pilot program with respect to crops of wheat, feed grains, soybean, and cotton.
 
 **Farm Income Protection Insurance Program Task Force, Study, and Report**
 
-Pub. L. 97–98, title XI, § 1112, Dec. 22, 1981, 95 Stat. 1267, directed Secretary of Agriculture to appoint a special task force to study and report to Congress, not later than 18 months after Dec. 22, 1981, as to whether farm income protection insurance would provide the basis for an acceptable alternative to the commodity price support, income maintenance, and disaster assistance programs currently administered by the Department of Agriculture for the benefit of farmers.
+Pub. L. 97–98, title XI, § 1112, Dec. 22, 1981, 95 Stat. 1267, directed Secretary of Agriculture to appoint a special task force to study and report to Congress, not later than 18 months after Dec. 22, 1981, as to whether farm income protection insurance would provide the basis for an acceptable alternative to the commodity price support, income maintenance, and disaster assistance programs currently administered by the Department of Agriculture for the benefit of farmers.
 
 **Studies in Rice Price Support; Report to Congress; Termination Date**
 
-Act Aug. 28, 1954, ch. 1041, title III, § 315, 68 Stat. 905, directed Secretary of Agriculture to study various two-price systems of price support and marketing which could be made applicable to rice and to submit to Congress on or before Mar. 1, 1955, a detailed report thereon.
+Act Aug. 28, 1954, ch. 1041, title III, § 315, 68 Stat. 905, directed Secretary of Agriculture to study various two-price systems of price support and marketing which could be made applicable to rice and to submit to Congress on or before Mar. 1, 1955, a detailed report thereon.
 
 **Executive Documents**
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 1421a. Financial impact study
+### § 1421a. Financial impact study
 
 **(a) Study**
 
@@ -341,13 +341,13 @@ The Secretary shall annually prepare a report containing the results of the stud
 
 The study under this section (including the study of the effect of the support levels on the ability of producers to meet their financial obligations) shall be only for informational purposes and for Congressional oversight and shall not give rise to any cause of action, be a basis for, or be used as evidence in support of, any claim or right of any person, including farmers and borrowers, in any administrative or judicial proceeding.
 
-(Pub. L. 101–624, title XI, § 1147, Nov. 28, 1990, 104 Stat. 3516.)
+(Pub. L. 101–624, title XI, § 1147, Nov. 28, 1990, 104 Stat. 3516.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Codification**
 
@@ -359,7 +359,7 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 
 Section effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
 
-### § 1421b. Costs of production
+### § 1421b. Costs of production
 
 Congress finds that, to improve the accuracy of commodity program benefit forecasts, the Secretary of Agriculture should designate a single organization to manage its commodity program forecasting and establish a quality control program to—
 
@@ -371,7 +371,7 @@ Congress finds that, to improve the accuracy of commodity program benefit foreca
 
 **(4)** correct weaknesses in its various forecasting components.
 
-(Pub. L. 101–624, title XXV, § 2512, Nov. 28, 1990, 104 Stat. 4073; Pub. L. 104–66, title I, § 1011(b), Dec. 21, 1995, 109 Stat. 709.)
+(Pub. L. 101–624, title XXV, § 2512, Nov. 28, 1990, 104 Stat. 4073; Pub. L. 104–66, title I, § 1011(b), Dec. 21, 1995, 109 Stat. 709.)
 
 **Editorial Notes**
 
@@ -383,11 +383,11 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 
 1995—Pub. L. 104–66 struck out subsec. (a) designation and heading “Improving accuracy of commodity program budget forecasts” before “Congress finds that”, and struck out subsec. (b) “Return on assets” which read as follows: “The Secretary of Agriculture shall annually publish a report analyzing the return on assets resulting from the production of upland cotton, rice, wheat, corn, oats, barley, grain sorghum, soybeans, peanuts, sugar from sugar beets, and raw sugar from sugar cane. In conducting this analysis, the Secretary shall consider returns from agricultural price support programs, the effects of agricultural price support programs on cost of production, the factors currently used in Department of Agriculture cost of production data, current value of land, and any other information that he considers necessary to reflect accurately return on the production of such crops.”
 
-### § 1421c. Repealed. Pub. L. 104–66, title I, § 1011(c), Dec. 21, 1995, 109 Stat. 709
+### § 1421c. Repealed. Pub. L. 104–66, title I, § 1011(c), Dec. 21, 1995, 109 Stat. 709
 
-Section, Pub. L. 101–624, title XXV, § 2513, Nov. 28, 1990, 104 Stat. 4074, directed Secretary of Agriculture to develop system for informing consumers of farm value of agricultural products and to submit annual reports on such information to Congress.
+Section, Pub. L. 101–624, title XXV, § 2513, Nov. 28, 1990, 104 Stat. 4074, directed Secretary of Agriculture to develop system for informing consumers of farm value of agricultural products and to submit annual reports on such information to Congress.
 
-### § 1421d. Commodity reports
+### § 1421d. Commodity reports
 
 **(a) Crop reports**
 
@@ -423,7 +423,7 @@ The Secretary shall survey producers for information for reports regarding fruit
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 101–624, title XXV, § 2514, Nov. 28, 1990, 104 Stat. 4074.)
+(Pub. L. 101–624, title XXV, § 2514, Nov. 28, 1990, 104 Stat. 4074.)
 
 **Editorial Notes**
 
@@ -433,19 +433,19 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 
 Section is comprised of section 2514 of Pub. L. 101–624. Subsec. (d) of section 2514 of Pub. L. 101–624 repealed section 411a of this title.
 
-### § 1422. Increase of price support levels
+### § 1422. Increase of price support levels
 
 **(a)** Notwithstanding any other provision of this Act, price support at a level in excess of the maximum level of price support otherwise prescribed in this Act may be made available for any agricultural commodity if the Secretary determines, after a public hearing of which reasonable notice has been given, that price support at such increased level is necessary in order to prevent or alleviate a shortage in the supply of any agricultural commodity essential to the national welfare or in order to increase or maintain the production of any agricultural commodity in the interest of national security. The Secretary’s determination and the record of the hearing shall be available to the public.
 
 **(b)** Effective only for the 1991 through 1995 crops of wheat, feed grains, cotton, and rice, the Secretary of Agriculture may provide for annual adjustments in the established prices for such program crops to reflect any change during the last calendar year ending before the beginning of each such crop year in the index of prices paid by farmers for production items, interest, taxes, and wage rates in such calendar year.
 
-(Oct. 31, 1949, ch. 792, title IV, § 402, 63 Stat. 1054; Pub. L. 101–624, title XI, § 1127, Nov. 28, 1990, 104 Stat. 3508.)
+(Oct. 31, 1949, ch. 792, title IV, § 402, 63 Stat. 1054; Pub. L. 101–624, title XI, § 1127, Nov. 28, 1990, 104 Stat. 3508.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Amendments**
 
@@ -471,9 +471,9 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 1423. Adjustments of support prices
+### § 1423. Adjustments of support prices
 
 **(a) In general**
 
@@ -487,19 +487,19 @@ The Secretary may make appropriate adjustments in the support price for cotton f
 
 Notwithstanding any other provision of this section, for each of the 1990 through 1995 crops of wheat and feed grains, no adjustment in the loan rate applicable to a particular region, State, or county for the purpose of reflecting transportation differentials may increase or decrease the regional, State, or county loan rate from the level established for the previous year by more than the percentage change in the national average loan rate plus or minus 3 percent.
 
-(Oct. 31, 1949, ch. 792, title IV, § 403, 63 Stat. 1054; Pub. L. 85–835, title I, §§ 108, 111, Aug. 28, 1958, 72 Stat. 993; Pub. L. 89–321, title VIII, § 802, Nov. 3, 1965, 79 Stat. 1213; Pub. L. 97–98, title V, § 507, Dec. 22, 1981, 95 Stat. 1241; Pub. L. 100–203, title I, § 1105, Dec. 22, 1987, 101 Stat. 1330–5; Pub. L. 101–624, title XI, § 1128, title XX, § 2011, Nov. 28, 1990, 104 Stat. 3508, 3932.)
+(Oct. 31, 1949, ch. 792, title IV, § 403, 63 Stat. 1054; Pub. L. 85–835, title I, §§ 108, 111, Aug. 28, 1958, 72 Stat. 993; Pub. L. 89–321, title VIII, § 802, Nov. 3, 1965, 79 Stat. 1213; Pub. L. 97–98, title V, § 507, Dec. 22, 1981, 95 Stat. 1241; Pub. L. 100–203, title I, § 1105, Dec. 22, 1987, 101 Stat. 1330–5; Pub. L. 101–624, title XI, § 1128, title XX, § 2011, Nov. 28, 1990, 104 Stat. 3508, 3932.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Amendments**
 
-1990—Pub. L. 101–624, § 2011, inserted at end of subsec. (a) “Beginning with the 1991 crops of wheat, feed grains, and soybeans for which price support is provided under this Act, the Secretary shall establish premiums and discounts related to cleanliness factors in addition to any other premiums or discounts related to quality.”
+1990—Pub. L. 101–624, § 2011, inserted at end of subsec. (a) “Beginning with the 1991 crops of wheat, feed grains, and soybeans for which price support is provided under this Act, the Secretary shall establish premiums and discounts related to cleanliness factors in addition to any other premiums or discounts related to quality.”
 
-Pub. L. 101–624, § 1128, in amending section generally, designated part of existing text as subsecs. (a), (b), and (c), and in subsec. (a) inserted provisions excluding cotton, in subsec. (b) substituted reference to 1991 crop for reference to 1982 crop, and substituted reference to quality factors for reference to grade, staple and micronaire, and in subsec. (c) substituted reference to 1990 through 1995 crops for reference to 1988 through 1990 crops, substituted reference to 3 percent for reference to 2 percent, and struck out provisions relating to establishment and duties of a study committee and authority of Secretary to review and revise procedures and criteria for establishing values of premiums and discounts for grade, staple and micronaire for upland cotton program.
+Pub. L. 101–624, § 1128, in amending section generally, designated part of existing text as subsecs. (a), (b), and (c), and in subsec. (a) inserted provisions excluding cotton, in subsec. (b) substituted reference to 1991 crop for reference to 1982 crop, and substituted reference to quality factors for reference to grade, staple and micronaire, and in subsec. (c) substituted reference to 1990 through 1995 crops for reference to 1988 through 1990 crops, substituted reference to 3 percent for reference to 2 percent, and struck out provisions relating to establishment and duties of a study committee and authority of Secretary to review and revise procedures and criteria for establishing values of premiums and discounts for grade, staple and micronaire for upland cotton program.
 
 1987—Pub. L. 100–203 inserted at end “Notwithstanding the preceding provisions of this section, for each of the 1988 through 1990 crops of wheat and feed grains, no adjustment in the loan rate applicable to a particular region, State, or county for the purpose of reflecting transportation differentials may increase or decrease such regional, State, or county loan rate from the level established for the previous year by more than the percentage change in the national average loan rate plus or minus 2 percent.”
 
@@ -533,13 +533,13 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 1424. Utilization of services and facilities of Commodity Credit Corporation
+### § 1424. Utilization of services and facilities of Commodity Credit Corporation
 
 The Secretary, in carrying out programs under section 612c of this title and section 1755 of title 42, may utilize the services and facilities of the Commodity Credit Corporation (including but not limited to procurement by contract), and make advance payments to it.
 
-(Oct. 31, 1949, ch. 792, title IV, § 404, 63 Stat. 1054; Pub. L. 106–78, title VII, § 752(b)(2), Oct. 22, 1999, 113 Stat. 1169.)
+(Oct. 31, 1949, ch. 792, title IV, § 404, 63 Stat. 1054; Pub. L. 106–78, title VII, § 752(b)(2), Oct. 22, 1999, 113 Stat. 1169.)
 
 **Editorial Notes**
 
@@ -551,9 +551,9 @@ The Secretary, in carrying out programs under section 612c of this title and sec
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 1425. Producer rights and liabilities
+### § 1425. Producer rights and liabilities
 
 **(a) Liability for deficiencies**
 
@@ -563,13 +563,13 @@ Except as otherwise provided in section 1425a of this title, no producer shall b
 
 The security interests obtained by the Commodity Credit Corporation as a result of the execution of security agreements by the processors of sugarcane and sugar beets shall be superior to all statutory and common law liens on raw cane sugar and refined beet sugar in favor of the producers of sugarcane and sugar beets and all prior recorded and unrecorded liens on the crops of sugarcane and sugar beets from which the sugar was derived. The preceding sentence shall not affect the application of section 1421(e)(2) of this title.
 
-(Oct. 31, 1949, ch. 792, title IV, § 405, 63 Stat. 1054; Pub. L. 85–835, title V, § 502, Aug. 28, 1958, 72 Stat. 996; Pub. L. 99–198, title X, § 1004, Dec. 23, 1985, 99 Stat. 1447; Pub. L. 100–460, title VI, § 634(a), Oct. 1, 1988, 102 Stat. 2263; Pub. L. 102–237, title I, § 111(b), Dec. 13, 1991, 105 Stat. 1830.)
+(Oct. 31, 1949, ch. 792, title IV, § 405, 63 Stat. 1054; Pub. L. 85–835, title V, § 502, Aug. 28, 1958, 72 Stat. 996; Pub. L. 99–198, title X, § 1004, Dec. 23, 1985, 99 Stat. 1447; Pub. L. 100–460, title VI, § 634(a), Oct. 1, 1988, 102 Stat. 2263; Pub. L. 102–237, title I, § 111(b), Dec. 13, 1991, 105 Stat. 1830.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Amendments**
 
@@ -593,11 +593,11 @@ This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 10
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–460, title VI, § 634(a), Oct. 1, 1988, 102 Stat. 2263, provided that the amendment made by section 634(a) is effective beginning with 1989 crop year for honey.
+Pub. L. 100–460, title VI, § 634(a), Oct. 1, 1988, 102 Stat. 2263, provided that the amendment made by section 634(a) is effective beginning with 1989 crop year for honey.
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title X, § 1004, Dec. 23, 1985, 99 Stat. 1447, provided that the amendment made by section 1004 is effective only for the 1986 through 1990 crops.
+Pub. L. 99–198, title X, § 1004, Dec. 23, 1985, 99 Stat. 1447, provided that the amendment made by section 1004 is effective only for the 1986 through 1990 crops.
 
 **Inapplicability of Section**
 
@@ -613,17 +613,17 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 1425a. Producers of honey; loan obligations and liabilities
+### § 1425a. Producers of honey; loan obligations and liabilities
 
 **(a) Loan forfeiture limitation**
 
-A producer of honey may satisfy the producer’s obligation to repay a loan, or a portion of a loan, made to the producer under section 1446h 1
+A producer of honey may satisfy the producer’s obligation to repay a loan, or a portion of a loan, made to the producer under section 1446h 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title by forfeiting the collateral for the loan, or portion of the loan, only if the value of the collateral forfeited, when taken together with the value of the collateral forfeited on any other loan or loans of the person for such crop of honey under section 1446h 1 of this title, does not exceed $200,000 in the 1991 crop year, $175,000 in the 1992 crop year, $150,000 in the 1993 crop year, and $125,000 in each of the 1994 and subsequent crop years: *Provided, however*, That the loan forfeiture limitation provided by this section shall not be applicable for any crop year for which the Secretary does not permit producers of honey to repay the price support loans at a level determined under section 1446h(b)(2) 1 of this title.
+of this title by forfeiting the collateral for the loan, or portion of the loan, only if the value of the collateral forfeited, when taken together with the value of the collateral forfeited on any other loan or loans of the person for such crop of honey under section 1446h 1 of this title, does not exceed $200,000 in the 1991 crop year, $175,000 in the 1992 crop year, $150,000 in the 1993 crop year, and $125,000 in each of the 1994 and subsequent crop years: *Provided, however*, That the loan forfeiture limitation provided by this section shall not be applicable for any crop year for which the Secretary does not permit producers of honey to repay the price support loans at a level determined under section 1446h(b)(2) 1 of this title.
 
 **(b) Liability for nonforfeitable part of obligation**
 
@@ -637,21 +637,21 @@ The loan contracts of the Commodity Credit Corporation entered into with produce
 
 The Commodity Credit Corporation may issue such regulations as the Corporation deems necessary to carry out this section. The regulations shall provide for the attribution of the value of collateral forfeited on loans described in subsection (a).
 
-(Oct. 31, 1949, ch. 792, title IV, § 405A, as added Pub. L. 100–460, title VI, § 634(b), Oct. 1, 1988, 102 Stat. 2263; amended Pub. L. 101–624, title X, § 1002, title XI, § 1161(d), Nov. 28, 1990, 104 Stat. 3490, 3521.)
+(Oct. 31, 1949, ch. 792, title IV, § 405A, as added Pub. L. 100–460, title VI, § 634(b), Oct. 1, 1988, 102 Stat. 2263; amended Pub. L. 101–624, title X, § 1002, title XI, § 1161(d), Nov. 28, 1990, 104 Stat. 3490, 3521.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1446h of this title, referred to in subsec. (a), was repealed by Pub. L. 104–127, title I, § 171(b)(2)(H), Apr. 4, 1996, 110 Stat. 938.
+Section 1446h of this title, referred to in subsec. (a), was repealed by Pub. L. 104–127, title I, § 171(b)(2)(H), Apr. 4, 1996, 110 Stat. 938.
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–624, § 1161(d), substituted references to sections 1446h and 1446h(b)(2) of this title for references to sections 1446(b) and 1446(b)(2)(B) of this title, respectively.
+1990—Subsec. (a). Pub. L. 101–624, § 1161(d), substituted references to sections 1446h and 1446h(b)(2) of this title for references to sections 1446(b) and 1446(b)(2)(B) of this title, respectively.
 
-Pub. L. 101–624, § 1002(1), substituted “person for such crop of honey under section 1446h of this title, does not exceed $200,000 in the 1991 crop year, $175,000 in the 1992 crop year, $150,000 in the 1993 crop year, and $125,000 in each of the 1994 and subsequent crop years” for “producer for such crop of honey under section 1446(b) of this title, does not exceed $250,000”.
+Pub. L. 101–624, § 1002(1), substituted “person for such crop of honey under section 1446h of this title, does not exceed $200,000 in the 1991 crop year, $175,000 in the 1992 crop year, $150,000 in the 1993 crop year, and $125,000 in each of the 1994 and subsequent crop years” for “producer for such crop of honey under section 1446(b) of this title, does not exceed $250,000”.
 
-Subsec. (d). Pub. L. 101–624, § 1002(2), inserted provisions requiring that the regulations issued pursuant to this subsection provide for the attribution of the value of collateral forfeited on loans described in subsec. (a).
+Subsec. (d). Pub. L. 101–624, § 1002(2), inserted provisions requiring that the regulations issued pursuant to this subsection provide for the attribution of the value of collateral forfeited on loans described in subsec. (a).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -671,19 +671,19 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **Prohibition on Use of Funds for Honey Payments or Loan Forfeitures**
 
-Pub. L. 104–37, title VII, § 718, Oct. 21, 1995, 109 Stat. 331, provided that none of the funds appropriated or otherwise made available by Pub. L. 104–37 were to be used by the Secretary of Agriculture to provide total amount of payments and/or total amount of loan forfeitures to a person to support the price of honey under this section or former section 1446h of this title in excess of zero dollars in the 1994, 1995, and 1996 crop years.
+Pub. L. 104–37, title VII, § 718, Oct. 21, 1995, 109 Stat. 331, provided that none of the funds appropriated or otherwise made available by Pub. L. 104–37 were to be used by the Secretary of Agriculture to provide total amount of payments and/or total amount of loan forfeitures to a person to support the price of honey under this section or former section 1446h of this title in excess of zero dollars in the 1994, 1995, and 1996 crop years.
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 103–330, title VII, § 723, Sept. 30, 1994, 108 Stat. 2469.
+Pub. L. 103–330, title VII, § 723, Sept. 30, 1994, 108 Stat. 2469.
 
-Pub. L. 103–111, title VII, § 728, Oct. 21, 1993, 107 Stat. 1081.
+Pub. L. 103–111, title VII, § 728, Oct. 21, 1993, 107 Stat. 1081.
 
-### § 1426. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(I), Apr. 4, 1996, 110 Stat. 938
+### § 1426. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(I), Apr. 4, 1996, 110 Stat. 938
 
-Section, acts Oct. 31, 1949, ch. 792, title IV, § 406, 63 Stat. 1055; Dec. 23, 1985, Pub. L. 99–198, title X, § 1016, 99 Stat. 1457; Nov. 28, 1990, Pub. L. 101–624, title XI, § 1129, 104 Stat. 3508; Dec. 13, 1991, Pub. L. 102–237, title I, § 113(11), 105 Stat. 1838, provided for advance announcement of price support levels.
+Section, acts Oct. 31, 1949, ch. 792, title IV, § 406, 63 Stat. 1055; Dec. 23, 1985, Pub. L. 99–198, title X, § 1016, 99 Stat. 1457; Nov. 28, 1990, Pub. L. 101–624, title XI, § 1129, 104 Stat. 3508; Dec. 13, 1991, Pub. L. 102–237, title I, § 113(11), 105 Stat. 1838, provided for advance announcement of price support levels.
 
-### § 1427. Commodity Credit Corporation sales price restrictions
+### § 1427. Commodity Credit Corporation sales price restrictions
 
 **(a) In general**
 
@@ -775,17 +775,17 @@ Subject to the sales price restrictions contained in this section, the Corporati
 
 **(2)** sales made on condition that commodities of the same kind and of comparable value or quantity be exported, either in raw or processed form.
 
-(Oct. 31, 1949, ch. 792, title IV, § 407, 63 Stat. 1055; July 10, 1954, ch. 469, title III, § 308, formerly § 301, 68 Stat. 458, renumbered § 308, Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended July 29, 1954, ch. 643, 68 Stat. 583; Jan. 28, 1956, ch. 14, 70 Stat. 6; Pub. L. 85–835, title I, § 109, Aug. 28, 1958, 72 Stat. 993; Pub. L. 87–127, Aug. 7, 1961, 75 Stat. 293; Pub. L. 87–703, title III, § 325(2), title IV, § 404, Sept. 27, 1962, 76 Stat. 631, 632; Pub. L. 88–297, title I, § 104, title II, § 204, Apr. 11, 1964, 78 Stat. 175, 183; Pub. L. 88–585, § 1, Sept. 11, 1964, 78 Stat. 927; Pub. L. 89–321, title IV, § 404, Nov. 3, 1965, 79 Stat. 1197; Pub. L. 89–808, § 3(e), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 90–475, § 7, Aug. 11, 1968, 82 Stat. 703; Pub. L. 90–559, § 1(5), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, § 409, title VI, § 603, Nov. 30, 1970, 84 Stat. 1367, 1377; Pub. L. 95–113, title IV, § 408, title VI, § 603, Sept. 29, 1977, 91 Stat. 927, 939; Pub. L. 97–98, title V, § 503, title XI, §§ 1103, 1111(a), Dec. 22, 1981, 95 Stat. 1240, 1264, 1267; Pub. L. 98–88, § 5, Aug. 26, 1983, 97 Stat. 499; Pub. L. 99–198, title V, § 503, title X, § 1007, title XVII, § 1763(b), Dec. 23, 1985, 99 Stat. 1418, 1451, 1651; Pub. L. 100–387, title I, § 101(b)(2), Aug. 11, 1988, 102 Stat. 931; Pub. L. 100–707, title I, § 109(a)(2), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–624, title XI, § 1130, Nov. 28, 1990, 104 Stat. 3509.)
+(Oct. 31, 1949, ch. 792, title IV, § 407, 63 Stat. 1055; July 10, 1954, ch. 469, title III, § 308, formerly § 301, 68 Stat. 458, renumbered § 308, Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended July 29, 1954, ch. 643, 68 Stat. 583; Jan. 28, 1956, ch. 14, 70 Stat. 6; Pub. L. 85–835, title I, § 109, Aug. 28, 1958, 72 Stat. 993; Pub. L. 87–127, Aug. 7, 1961, 75 Stat. 293; Pub. L. 87–703, title III, § 325(2), title IV, § 404, Sept. 27, 1962, 76 Stat. 631, 632; Pub. L. 88–297, title I, § 104, title II, § 204, Apr. 11, 1964, 78 Stat. 175, 183; Pub. L. 88–585, § 1, Sept. 11, 1964, 78 Stat. 927; Pub. L. 89–321, title IV, § 404, Nov. 3, 1965, 79 Stat. 1197; Pub. L. 89–808, § 3(e), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 90–475, § 7, Aug. 11, 1968, 82 Stat. 703; Pub. L. 90–559, § 1(5), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, § 409, title VI, § 603, Nov. 30, 1970, 84 Stat. 1367, 1377; Pub. L. 95–113, title IV, § 408, title VI, § 603, Sept. 29, 1977, 91 Stat. 927, 939; Pub. L. 97–98, title V, § 503, title XI, §§ 1103, 1111(a), Dec. 22, 1981, 95 Stat. 1240, 1264, 1267; Pub. L. 98–88, § 5, Aug. 26, 1983, 97 Stat. 499; Pub. L. 99–198, title V, § 503, title X, § 1007, title XVII, § 1763(b), Dec. 23, 1985, 99 Stat. 1418, 1451, 1651; Pub. L. 100–387, title I, § 101(b)(2), Aug. 11, 1988, 102 Stat. 931; Pub. L. 100–707, title I, § 109(a)(2), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–624, title XI, § 1130, Nov. 28, 1990, 104 Stat. 3509.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 308 of act July 10, 1954, ch. 469, title III, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 13, 73 Stat. 609; amended Sept. 27, 1962, Pub. L. 87–703, title II, § 203, 76 Stat. 611, cited as a credit to this section, which enacted section 1697 of this title, was repealed by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
+A prior section 308 of act July 10, 1954, ch. 469, title III, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 13, 73 Stat. 609; amended Sept. 27, 1962, Pub. L. 87–703, title II, § 203, 76 Stat. 611, cited as a credit to this section, which enacted section 1697 of this title, was repealed by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
 
 **Amendments**
 
@@ -795,11 +795,11 @@ A prior section 308 of act July 10, 1954, ch. 469, title III, as added Sept. 21,
 
 Pub. L. 100–387 substituted provision authorizing the Commodity Credit Corporation to donate or sell commodities in accordance with subchapter V of this chapter for provision authorizing the Commodity Credit Corporation to make feed for livestock available to certain persons in certain areas during emergencies.
 
-1985—Pub. L. 99–198, § 1007, temporarily reenacted substantially without change the amendments made in 1981 by section 1103 of Pub. L. 97–98, which had established a floor for sales of wheat and feed grains in inventory for unrestricted use at 115 per centum of the current national average loan rate for the commodity adjusted for current market differentials reflecting grade, quality, location, and other value factors, plus reasonable carrying charges; designated such provisions as thus reenacted as cl. (A) of the proviso involved and added cl. (B) relating to the Secretary’s permitting the repayment of loans at a loan rate less than the loan level determined for such crop; and reenacted, also without change, the amendments by Pub. L. 97–98 which had the price at which purchases had to be made to offset sales in the interest of the efficient conduct of the Corporation’s operations to an amount not exceeding the minimum sales price for the commodity for unrestricted use. See Effective and Termination Dates of 1985 Amendment note below.
+1985—Pub. L. 99–198, § 1007, temporarily reenacted substantially without change the amendments made in 1981 by section 1103 of Pub. L. 97–98, which had established a floor for sales of wheat and feed grains in inventory for unrestricted use at 115 per centum of the current national average loan rate for the commodity adjusted for current market differentials reflecting grade, quality, location, and other value factors, plus reasonable carrying charges; designated such provisions as thus reenacted as cl. (A) of the proviso involved and added cl. (B) relating to the Secretary’s permitting the repayment of loans at a loan rate less than the loan level determined for such crop; and reenacted, also without change, the amendments by Pub. L. 97–98 which had the price at which purchases had to be made to offset sales in the interest of the efficient conduct of the Corporation’s operations to an amount not exceeding the minimum sales price for the commodity for unrestricted use. See Effective and Termination Dates of 1985 Amendment note below.
 
-Pub. L. 99–198, § 1763(b), inserted provision giving the Commodity Credit Corporation authority to (1) make available feed for livestock to certain persons during emergencies in areas in which feed grains are normally produced and normally available for feed purposes, but in which they are unavailable because of a catastrophe described in the fourth sentence of this section, (2) make such feed available to such persons through feed dealers in the areas, (3) make such feed available at a price not less than the price prescribed in the fourth sentence of this section, and (4) bear any expenses incurred in connection with making such feed available to such persons under this sentence, including transportation and handling costs.
+Pub. L. 99–198, § 1763(b), inserted provision giving the Commodity Credit Corporation authority to (1) make available feed for livestock to certain persons during emergencies in areas in which feed grains are normally produced and normally available for feed purposes, but in which they are unavailable because of a catastrophe described in the fourth sentence of this section, (2) make such feed available to such persons through feed dealers in the areas, (3) make such feed available at a price not less than the price prescribed in the fourth sentence of this section, and (4) bear any expenses incurred in connection with making such feed available to such persons under this sentence, including transportation and handling costs.
 
-Pub. L. 99–198, § 503, temporarily reenacted substantially without change the amendments made in 1981 by section 503 of Pub. L. 97–98, which provided that the Commodity Credit Corporation sell upland cotton for unrestricted use at the same prices as it sells cotton for export, but in no event at less than 115 per centum of the loan rate for Strict Low Middling one and one-sixteenth inch upland cotton, micronaire 3.5 through 4.9, adjusted for such current market differentials reflecting grade, quality, location, and other value factors as the Secretary determines appropriate plus reasonable carrying charges, and substituted “as it sells upland cotton” for “as it sells cotton” and “percent” for “per centum”; designated such provisions as thus reenacted as cl. (A), and added cl. (B) relating to the Secretary’s permitting the repayment of loans at a loan rate less than the loan level determined for such crop. See Effective and Termination Dates of 1985 Amendment note below.
+Pub. L. 99–198, § 503, temporarily reenacted substantially without change the amendments made in 1981 by section 503 of Pub. L. 97–98, which provided that the Commodity Credit Corporation sell upland cotton for unrestricted use at the same prices as it sells cotton for export, but in no event at less than 115 per centum of the loan rate for Strict Low Middling one and one-sixteenth inch upland cotton, micronaire 3.5 through 4.9, adjusted for such current market differentials reflecting grade, quality, location, and other value factors as the Secretary determines appropriate plus reasonable carrying charges, and substituted “as it sells upland cotton” for “as it sells cotton” and “percent” for “per centum”; designated such provisions as thus reenacted as cl. (A), and added cl. (B) relating to the Secretary’s permitting the repayment of loans at a loan rate less than the loan level determined for such crop. See Effective and Termination Dates of 1985 Amendment note below.
 
 1983—Pub. L. 98–88 inserted provision that, beginning Aug. 26, 1983, the Commodity Credit Corporation may sell extra long staple cotton for unrestricted use at such price levels as the Secretary determines appropriate to maintain and expand export and domestic markets for such cotton.
 
@@ -819,9 +819,9 @@ Pub. L. 90–475 required that notwithstanding any other provision of this secti
 
 1964—Pub. L. 88–585 provided that the Corporation, in providing feed to distressed areas, may charge not less than 75 percent of the current basic county support rate including the value of any applicable price support payment in kind, included the Virgin Islands within those areas where such feed can be made obtainable, authorized the Secretary to provide feed by feed dealers under such arrangement that the feed so furnished would be replaced with feed owned or controlled by the Corporation and sold to such persons, and inserted “or other area” after “one or more central locations in each State”.
 
-Pub. L. 88–297, § 104, inserted proviso that beginning Aug. 1, 1964, the Corporation may sell upland cotton for unrestricted use at not less than 105 per centum of the current loan rate for such cotton under section 1444(a) of this title plus reasonable carrying charges.
+Pub. L. 88–297, § 104, inserted proviso that beginning Aug. 1, 1964, the Corporation may sell upland cotton for unrestricted use at not less than 105 per centum of the current loan rate for such cotton under section 1444(a) of this title plus reasonable carrying charges.
 
-Pub. L. 88–297, § 204, temporarily substituted proviso that if wheat marketing allocation program is in effect, the current price for wheat shall be the support price for wheat not accompanied by marketing certificates for proviso prescribing support price for wheat accompanied by marketing certificate and sale of wheat to be accompanied by marketing certificate, respectively. See Effective and Termination Dates of 1964 Amendment note below.
+Pub. L. 88–297, § 204, temporarily substituted proviso that if wheat marketing allocation program is in effect, the current price for wheat shall be the support price for wheat not accompanied by marketing certificates for proviso prescribing support price for wheat accompanied by marketing certificate and sale of wheat to be accompanied by marketing certificate, respectively. See Effective and Termination Dates of 1964 Amendment note below.
 
 1962—Pub. L. 87–703 prescribed that a marketing certificate accompany the support price for wheat and wheat sold and authorized the Secretary to make Commodity Credit Corporation feed available, prior to Dec. 31, 1963, to milk producers to assure supply free of radioactive fallout contamination, respectively.
 
@@ -843,7 +843,7 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 **Effective and Termination Dates of 1988 Amendment**
 
-Pub. L. 100–387, title I, § 101(c), Aug. 11, 1988, 102 Stat. 932, provided that:
+Pub. L. 100–387, title I, § 101(c), Aug. 11, 1988, 102 Stat. 932, provided that:
 
 > **“(1)** This section and the amendments made by this section [enacting sections 1471 to 1471j of this title, amending this section, repealing sections 1433 and 2267 of this title, enacting provisions set out as a note under section 1421 of this title, and repealing provisions set out as notes under this section] shall become effective 15 days after the date of the enactment of this Act [Aug. 11, 1988].
 
@@ -851,29 +851,29 @@ Pub. L. 100–387, title I, § 101(c), Aug. 11, 1988, 102 Stat. 932, provided 
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title V, § 503, Dec. 23, 1985, 99 Stat. 1418, provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1991.
+Pub. L. 99–198, title V, § 503, Dec. 23, 1985, 99 Stat. 1418, provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1991.
 
-Pub. L. 99–198, title X, § 1007, Dec. 23, 1985, 99 Stat. 1451, provided that the amendment made by section 1007 is effective only for the marketing years for the 1986 through 1990 crops.
+Pub. L. 99–198, title X, § 1007, Dec. 23, 1985, 99 Stat. 1451, provided that the amendment made by section 1007 is effective only for the marketing years for the 1986 through 1990 crops.
 
 **Effective and Termination Dates of 1981 Amendment**
 
-Pub. L. 97–98, title V, § 503, Dec. 22, 1981, 95 Stat. 1240, provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1986.
+Pub. L. 97–98, title V, § 503, Dec. 22, 1981, 95 Stat. 1240, provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1986.
 
-Pub. L. 97–98, title XI, § 1103, Dec. 22, 1981, 95 Stat. 1264, provided that the amendment made by section 1103 is effective only for the marketing years for the 1982 through 1985 crops.
+Pub. L. 97–98, title XI, § 1103, Dec. 22, 1981, 95 Stat. 1264, provided that the amendment made by section 1103 is effective only for the marketing years for the 1982 through 1985 crops.
 
-Amendment by § 1111(a) of Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+Amendment by § 1111(a) of Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
 **Effective and Termination Dates of 1977 Amendment**
 
-Pub. L. 95–113, title IV, § 408, Sept. 29, 1977, 91 Stat. 927, provided that the amendment made by section 408 (which reenacted without change the amendment first made by section 409 of Pub. L. 91–524 establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation’s operations) is effective only with respect to the marketing years for the 1978 through 1981 crops.
+Pub. L. 95–113, title IV, § 408, Sept. 29, 1977, 91 Stat. 927, provided that the amendment made by section 408 (which reenacted without change the amendment first made by section 409 of Pub. L. 91–524 establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation’s operations) is effective only with respect to the marketing years for the 1978 through 1981 crops.
 
-Pub. L. 95–113, title VI, § 603, Sept. 29, 1977, 91 Stat. 939, provided that the amendment made by section 603, which reenacted with some changes (see 1977 Amendment note above) the amendment first made by section 603 of Pub. L. 91–524 relating to sale of upland cotton by Corporation, is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1982.
+Pub. L. 95–113, title VI, § 603, Sept. 29, 1977, 91 Stat. 939, provided that the amendment made by section 603, which reenacted with some changes (see 1977 Amendment note above) the amendment first made by section 603 of Pub. L. 91–524 relating to sale of upland cotton by Corporation, is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1982.
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title IV, § 409, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, § 1(16), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by section 409 (establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation’s operations) is effective only with respect to the marketing years for 1971 through 1977 crops of the commodity.
+Pub. L. 91–524, title IV, § 409, Nov. 30, 1970, 84 Stat. 1367, as amended by Pub. L. 93–86, § 1(16), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by section 409 (establishing a floor for sales of wheat and feed grains and changing price at which purchases must be made to offset sales in interest of efficient conduct of Corporation’s operations) is effective only with respect to the marketing years for 1971 through 1977 crops of the commodity.
 
-Pub. L. 91–524, title VI, § 603, Nov. 30, 1970, 84 Stat. 1377, as amended by Pub. L. 93–86, § 1(21), Aug. 10, 1973, 87 Stat. 235, provided that the amendment made by section 603 (covering sale of upland cotton by Corporation) is effective only with respect to the period beginning Aug. 1, 1971, and ending July 31, 1978.
+Pub. L. 91–524, title VI, § 603, Nov. 30, 1970, 84 Stat. 1377, as amended by Pub. L. 93–86, § 1(21), Aug. 10, 1973, 87 Stat. 235, provided that the amendment made by section 603 (covering sale of upland cotton by Corporation) is effective only with respect to the period beginning Aug. 1, 1971, and ending July 31, 1978.
 
 **Effective Date of 1966 Amendment**
 
@@ -881,7 +881,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 **Effective and Termination Dates of 1964 Amendment**
 
-Pub. L. 88–297, title II, § 204, Apr. 11, 1964, 78 Stat. 183, as amended by Pub. L. 89–321, title V, § 505(3), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 204 is effective only with respect to the marketing years beginning in calendar years 1964 through 1970.
+Pub. L. 88–297, title II, § 204, Apr. 11, 1964, 78 Stat. 183, as amended by Pub. L. 89–321, title V, § 505(3), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 204 is effective only with respect to the marketing years beginning in calendar years 1964 through 1970.
 
 **Inapplicability of Section**
 
@@ -895,7 +895,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **Sale of Corn to Ethanol Producers**
 
-Pub. L. 100–387, title III, § 332, Aug. 11, 1988, 102 Stat. 951, provided that:
+Pub. L. 100–387, title III, § 332, Aug. 11, 1988, 102 Stat. 951, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this section and notwithstanding section 110(f) of the Agricultural Act of 1949 (7 U.S.C. 1445e(f)) or any other provision of law, if, during any month commencing after July 31, 1988, the average corn price (as determined under subsection (d)) exceeds the fuel conversion price (as defined in section 212 of the Agricultural Trade Suspension Adjustment Act of 1980 (7 U.S.C. 4005)), the Secretary of Agriculture may make available for sale to domestic producers of ethanol fuel, for the production of ethanol, not more than 12,000,000 bushels per month of corn owned by the Commodity Credit Corporation.
 
@@ -921,15 +921,15 @@ Pub. L. 100–387, title III, § 332, Aug. 11, 1988, 102 Stat. 951, provided t
 
 **Emergency Feed Assistance**
 
-Pub. L. 98–180, title III, § 303, Nov. 29, 1983, 97 Stat. 1151, which authorized Secretary of Agriculture to make damaged corn available to assist eligible farmers and ranchers in areas adversely affected by drought, hot weather, or related disaster to preserve and maintain foundation herds of livestock and poultry, which corn was to be available until Sept. 30, 1984, or date, as determined by the Secretary, on which emergency no longer exists, was repealed by Pub. L. 100–387, title I, § 101(b)(5), Aug. 11, 1988, 102 Stat. 932, eff. 15 days after Aug. 11, 1988.
+Pub. L. 98–180, title III, § 303, Nov. 29, 1983, 97 Stat. 1151, which authorized Secretary of Agriculture to make damaged corn available to assist eligible farmers and ranchers in areas adversely affected by drought, hot weather, or related disaster to preserve and maintain foundation herds of livestock and poultry, which corn was to be available until Sept. 30, 1984, or date, as determined by the Secretary, on which emergency no longer exists, was repealed by Pub. L. 100–387, title I, § 101(b)(5), Aug. 11, 1988, 102 Stat. 932, eff. 15 days after Aug. 11, 1988.
 
 **Sale of Feed for Livestock in Emergency Areas; Designation of Emergency Area; Conditions; Penalty**
 
-Pub. L. 86–299, Sept. 21, 1959, 73 Stat. 574, as amended by Pub. L. 88–585, § 3, Sept. 11, 1964, 78 Stat. 927, which authorized Secretary of Agriculture to sell feed grains to provide feed for livestock in any area determined by Secretary to be an emergency area, and provided penalty for any person disposing of such feed other than by feeding livestock owned by him, was repealed by Pub. L. 100–387, title I, § 101(b)(4), Aug. 11, 1988, 102 Stat. 931, eff. 15 days after Aug. 11, 1988.
+Pub. L. 86–299, Sept. 21, 1959, 73 Stat. 574, as amended by Pub. L. 88–585, § 3, Sept. 11, 1964, 78 Stat. 927, which authorized Secretary of Agriculture to sell feed grains to provide feed for livestock in any area determined by Secretary to be an emergency area, and provided penalty for any person disposing of such feed other than by feeding livestock owned by him, was repealed by Pub. L. 100–387, title I, § 101(b)(4), Aug. 11, 1988, 102 Stat. 931, eff. 15 days after Aug. 11, 1988.
 
 **Feed Grain; Sale by CCC; Termination Date**
 
-Act Aug. 28, 1954, ch. 1041, title II, § 208, 68 Stat. 901, authorized the Commodity Credit Corporation until March 1, 1955, to sell at the point of storage any feed grain owned by the Corporation at 10 per centum above the current support price for the commodity.
+Act Aug. 28, 1954, ch. 1041, title II, § 208, 68 Stat. 901, authorized the Commodity Credit Corporation until March 1, 1955, to sell at the point of storage any feed grain owned by the Corporation at 10 per centum above the current support price for the commodity.
 
 **Authorization for Commodity Credit Corporation To Sell Wheat and Corn**
 
@@ -943,7 +943,7 @@ Sale of surplus agricultural commodities for foreign currencies, see section 169
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 **Ex. Ord. No. 11336. Delegation of Authority Relating to Emergency Livestock Feed**
 
@@ -963,7 +963,7 @@ Sec. 4. The declaration contained in the letter of the President to the Secretar
 
 Lyndon B. Johnson.
 
-### § 1427–1. Quality requirements for Commodity Credit Corporation owned grain
+### § 1427–1. Quality requirements for Commodity Credit Corporation owned grain
 
 **(a) Establishment of minimum standards**
 
@@ -973,7 +973,7 @@ Notwithstanding any other provision of law, the Secretary shall establish minimu
 
 The Commodity Credit Corporation shall utilize Federal Grain Inspection Service approved procedures to inspect and evaluate the condition of the grain it acquires from producers. In no case shall this section require the use of an official inspection unless the producer so requests.
 
-(Oct. 31, 1949, ch. 792, title IV, § 407A, as added Pub. L. 101–624, title XX, § 2012, Nov. 28, 1990, 104 Stat. 3933.)
+(Oct. 31, 1949, ch. 792, title IV, § 407A, as added Pub. L. 101–624, title XX, § 2012, Nov. 28, 1990, 104 Stat. 3933.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -987,7 +987,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
-### § 1427a. Reserve inventories for alleviation of distress of natural disaster
+### § 1427a. Reserve inventories for alleviation of distress of natural disaster
 
 **(a) Establishment, maintenance and disposal by Secretary; amount and nature of reserve**
 
@@ -1005,13 +1005,13 @@ Except when a state of emergency has been proclaimed by the President or by conc
 
 **(d) Additional authorization for disposition of commodities to relieve distress or for civil defense emergencies**
 
-The Secretary is also authorized to dispose of such commodities only for (1) use in relieving distress (A) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands of the United States, (B) in connection with any major disaster or emergency determined by the President to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act (88 Stat. 143, as amended; 42 U.S.C. 5121), and (C) in connection with any emergency determined by the Secretary to warrant assistance under section 1427 of this title, the Act of September 21, 1959 (73 Stat. 574, as amended; 7 U.S.C. 1427 note), or section 2267 1
+The Secretary is also authorized to dispose of such commodities only for (1) use in relieving distress (A) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands of the United States, (B) in connection with any major disaster or emergency determined by the President to warrant assistance by the Federal Government under the Disaster Relief and Emergency Assistance Act (88 Stat. 143, as amended; 42 U.S.C. 5121), and (C) in connection with any emergency determined by the Secretary to warrant assistance under section 1427 of this title, the Act of September 21, 1959 (73 Stat. 574, as amended; 7 U.S.C. 1427 note), or section 2267 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title; or (2) use in connection with a state of civil defense emergency as proclaimed by the President or by concurrent resolution of the Congress in accordance with title VI of The 2
+of this title; or (2) use in connection with a state of civil defense emergency as proclaimed by the President or by concurrent resolution of the Congress in accordance with title VI of The 2
 
-<sup>2</sup>  So in original. Probably should not be capitalized.
+<sup>2</sup> So in original. Probably should not be capitalized.
 
 Robert T. Stafford Disaster Relief and Emergency Assistance Act [42 U.S.C. 5195 et seq.].
 
@@ -1031,7 +1031,7 @@ The Secretary may issue such rules and regulations as may be necessary to carry 
 
 There is hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
 
-(Pub. L. 91–524, title VIII, § 813, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 239; amended Pub. L. 95–113, title XI, § 1103, Sept. 29, 1977, 91 Stat. 953; Pub. L. 97–98, title X, § 1003, Dec. 22, 1981, 95 Stat. 1260; Pub. L. 100–707, title I, § 109(b), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 103–337, div. C, title XXXIV, § 3412(b)(3), Oct. 5, 1994, 108 Stat. 3111.)
+(Pub. L. 91–524, title VIII, § 813, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 239; amended Pub. L. 95–113, title XI, § 1103, Sept. 29, 1977, 91 Stat. 953; Pub. L. 97–98, title X, § 1003, Dec. 22, 1981, 95 Stat. 1260; Pub. L. 100–707, title I, § 109(b), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 103–337, div. C, title XXXIV, § 3412(b)(3), Oct. 5, 1994, 108 Stat. 3111.)
 
 **Editorial Notes**
 
@@ -1039,11 +1039,11 @@ There is hereby authorized to be appropriated such sums as may be necessary to c
 
 This Act, referred to in subsec. (a), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, known as the Agricultural Act of 1970. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1281 of this title and Tables.
 
-The Disaster Relief and Emergency Assistance Act and the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), are Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. Title VI of the Act is classified generally to subchapter IV–B (§ 5195 et seq.) of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Disaster Relief and Emergency Assistance Act and the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), are Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. Title VI of the Act is classified generally to subchapter IV–B (§ 5195 et seq.) of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 Act of September 21, 1959, referred to in subsec. (d), is Pub. L. 86–299, Sept. 21, 1959, 73 Stat. 574, as amended, which is set out as a note under section 1427 of this title.
 
-Section 2267 of this title, referred to in subsec. (d), was repealed by Pub. L. 100–387, title I, § 101(b)(1), Aug. 11, 1988, 102 Stat. 931.
+Section 2267 of this title, referred to in subsec. (d), was repealed by Pub. L. 100–387, title I, § 101(b)(1), Aug. 11, 1988, 102 Stat. 931.
 
 **Codification**
 
@@ -1059,9 +1059,9 @@ Section was enacted as part of the Agricultural Act of 1970 as added by the Agri
 
 Subsec. (b). Pub. L. 97–98 substituted “Secretary may acquire such commodities” for “Secretary shall acquire such commodities”.
 
-1977—Subsec. (b). Pub. L. 95–113, § 1103(a), inserted provisions authorizing Secretary to act if it is determined that no wheat, feed grains, or soybeans are available through the price support program at locations where they can be economically utilized to alleviate distress caused by a natural disaster.
+1977—Subsec. (b). Pub. L. 95–113, § 1103(a), inserted provisions authorizing Secretary to act if it is determined that no wheat, feed grains, or soybeans are available through the price support program at locations where they can be economically utilized to alleviate distress caused by a natural disaster.
 
-Subsec. (d). Pub. L. 95–113, § 1103(b), substituted “(A) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands of the United States, (B) in connection with any major disaster or emergency determined by the President to warrant assistance by the Federal Government under the Disaster Relief Act of 1974, and (C) in connection with any emergency determined by the Secretary to warrant assistance under section 1427 of this title, the Act of September 21, 1959, or section 2267 of this title” for “(a) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands and (b) in connection with any major disaster determined by the President to warrant assistance by the Federal Government under Public Law 875, Eighty-first Congress, as amended”.
+Subsec. (d). Pub. L. 95–113, § 1103(b), substituted “(A) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands of the United States, (B) in connection with any major disaster or emergency determined by the President to warrant assistance by the Federal Government under the Disaster Relief Act of 1974, and (C) in connection with any emergency determined by the Secretary to warrant assistance under section 1427 of this title, the Act of September 21, 1959, or section 2267 of this title” for “(a) in any State, the District of Columbia, Puerto Rico, Guam, or the Virgin Islands and (b) in connection with any major disaster determined by the President to warrant assistance by the Federal Government under Public Law 875, Eighty-first Congress, as amended”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1077,7 +1077,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Pub. L. 105–18, title II, June 12, 1997, 111 Stat. 170, provided in part: “That notwithstanding any other provision of law, beginning on October 1, 1997, grain in the disaster reserve established in the Agricultural Act of 1970 [see Short Title of 1970 Amendment note set out under section 1281 of this title] shall not exceed 20 million bushels”.
 
-### § 1428. Definitions
+### § 1428. Definitions
 
 For the purposes of this Act—
 
@@ -1111,17 +1111,17 @@ For the purposes of this Act—
 
 **(l)** “Producer” shall include a person growing hybrid seed under contract. In determining the interest of a grower of hybrid seed in a crop, the Secretary shall not take into consideration the existence of a hybrid seed contract.
 
-(Oct. 31, 1949, ch. 792, title IV, § 408, 63 Stat. 1055; Aug. 28, 1954, ch. 1041, title II, § 209, 68 Stat. 901; Pub. L. 89–321, title IV, § 402(b), Nov. 3, 1965, 79 Stat. 1197; Pub. L. 90–559, § 1(4), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, § 408, title VI, §§ 604, 607, Nov. 30, 1970, 84 Stat. 1367, 1378; Pub. L. 93–86, § 1(22), Aug. 10, 1973, 87 Stat. 235; Pub. L. 94–214, title III, §§ 303, 304, Feb. 16, 1976, 90 Stat. 187, 188; Pub. L. 95–113, title IV, § 407, title VI, § 604(a), (b), title VII, §§ 704, 705, Sept. 29, 1977, 91 Stat. 927, 939, 944; Pub. L. 97–98, title XI, § 1104, Dec. 22, 1981, 95 Stat. 1264; Pub. L. 99–198, title X, § 1018, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, § 1131, Nov. 28, 1990, 104 Stat. 3511; Pub. L. 107–171, title I, § 1310(a)(2)(B), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, § 612(c), Oct. 22, 2004, 118 Stat. 1524.)
+(Oct. 31, 1949, ch. 792, title IV, § 408, 63 Stat. 1055; Aug. 28, 1954, ch. 1041, title II, § 209, 68 Stat. 901; Pub. L. 89–321, title IV, § 402(b), Nov. 3, 1965, 79 Stat. 1197; Pub. L. 90–559, § 1(4), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, § 408, title VI, §§ 604, 607, Nov. 30, 1970, 84 Stat. 1367, 1378; Pub. L. 93–86, § 1(22), Aug. 10, 1973, 87 Stat. 235; Pub. L. 94–214, title III, §§ 303, 304, Feb. 16, 1976, 90 Stat. 187, 188; Pub. L. 95–113, title IV, § 407, title VI, § 604(a), (b), title VII, §§ 704, 705, Sept. 29, 1977, 91 Stat. 927, 939, 944; Pub. L. 97–98, title XI, § 1104, Dec. 22, 1981, 95 Stat. 1264; Pub. L. 99–198, title X, § 1018, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 101–624, title XI, § 1131, Nov. 28, 1990, 104 Stat. 3511; Pub. L. 107–171, title I, § 1310(a)(2)(B), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, § 612(c), Oct. 22, 2004, 118 Stat. 1524.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 Section 1441(g) of this title, referred to in subsec. (b), was omitted from the Code.
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (j), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (j), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 **Amendments**
 
@@ -1129,31 +1129,31 @@ The Agricultural Adjustment Act of 1938, referred to in subsec. (j), is act Feb.
 
 2002—Subsec. (c). Pub. L. 107–171 struck out “peanuts,” before “rice,”.
 
-1990—Subsec. (k). Pub. L. 101–624, § 1131(a), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
+1990—Subsec. (k). Pub. L. 101–624, § 1131(a), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows:
 
 “(1) Reference made in sections 1422, 1423, 1426, 1427, and 1431 of this title to the terms ‘support price’, ‘level of support’, and ‘level of price support’ shall be considered to apply as well to the loan and purchase level for wheat, feed grains, upland cotton, and rice under this Act.
 
 “(2) References made to the terms ‘price support’, ‘price support operations’, and ‘price support program’ in such sections and in section 1421(a) of this title shall be considered as applying as well to loan and purchase operations for wheat, feed grains, upland cotton, and rice under this Act.”
 
-Subsecs. (*l*), (m). Pub. L. 101–624, § 1131(b), added subsec. (*l*) and struck out former subsecs. (*l*) and (m). See 1977 Amendment note below.
+Subsecs. (*l*), (m). Pub. L. 101–624, § 1131(b), added subsec. (*l*) and struck out former subsecs. (*l*) and (m). See 1977 Amendment note below.
 
 1985—Subsec. (k). Pub. L. 99–198 temporarily amended subsec. (k) generally, designating provisions before the semicolon as par. (1) and substituting “loan and purchase level” for “level of loans and purchases”, and designating provisions after the semicolon as par. (2). See Effective and Termination Dates of 1985 Amendment note below.
 
 1981—Subsec. (k). Pub. L. 97–98 temporarily substituted “Reference made” for “References made” and inserted reference to section 1427 of this title and to upland cotton and rice. See Effective and Termination Dates of 1981 Amendment note below.
 
-1977—Subsec. (b). Pub. L. 95–113, §§ 604(a), 704, inserted proviso defining cooperator for purposes of the 1978 through 1981 crops of upland cotton as a producer on a farm who has set aside the acreage required under section 1444(f) of this title and substituted “1976 through 1981 crops of rice” for “1976 and 1977 crops of rice” in proviso defining cooperator for purposes of specific crops of rice.
+1977—Subsec. (b). Pub. L. 95–113, §§ 604(a), 704, inserted proviso defining cooperator for purposes of the 1978 through 1981 crops of upland cotton as a producer on a farm who has set aside the acreage required under section 1444(f) of this title and substituted “1976 through 1981 crops of rice” for “1976 and 1977 crops of rice” in proviso defining cooperator for purposes of specific crops of rice.
 
-Subsecs. (k) to (m). Pub. L. 95–113, §§ 407, 604(b), 705, temporarily amended subsecs. (k) to (m) generally. See Effective and Termination Dates of 1977 Amendment note below.
+Subsecs. (k) to (m). Pub. L. 95–113, §§ 407, 604(b), 705, temporarily amended subsecs. (k) to (m) generally. See Effective and Termination Dates of 1977 Amendment note below.
 
-1976—Subsec. (b). Pub. L. 94–214, § 303, inserted proviso defining “cooperator” for 1976 and 1977 crops of rice.
+1976—Subsec. (b). Pub. L. 94–214, § 303, inserted proviso defining “cooperator” for 1976 and 1977 crops of rice.
 
-Subsec. (m). Pub. L. 94–214, § 304, temporarily added subsec. (m). See Effective and Termination Dates of 1976 Amendment note below.
+Subsec. (m). Pub. L. 94–214, § 304, temporarily added subsec. (m). See Effective and Termination Dates of 1976 Amendment note below.
 
 1973—Subsec. (b). Pub. L. 93–86 substituted “1971 through 1977” for “1971, 1972, and 1973” in proviso requiring that for such designated crops of upland cotton a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
 
-1970—Subsec. (b). Pub. L. 91–524, § 604, inserted proviso that, for the 1971, 1972, and 1973 crops of upland cotton, a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
+1970—Subsec. (b). Pub. L. 91–524, § 604, inserted proviso that, for the 1971, 1972, and 1973 crops of upland cotton, a cooperator shall be a producer on a farm on which a farm base acreage allotment has been established who has set aside the acreage required under section 1444(e) of this title.
 
-Subsecs. (k), (*l*). Pub. L. 91–524, §§ 408, 607, temporarily added subsecs. (k) and (*l*). See Effective and Termination Dates of 1970 Amendment note below.
+Subsecs. (k), (*l*). Pub. L. 91–524, §§ 408, 607, temporarily added subsecs. (k) and (*l*). See Effective and Termination Dates of 1970 Amendment note below.
 
 1968—Subsec. (b). Pub. L. 90–559 provided for a one year extension, substituting “1967 through 1970” for “1967, 1968, and 1969”.
 
@@ -1173,27 +1173,27 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title X, § 1018, Dec. 23, 1985, 99 Stat. 1459, provided that the amendment made by section 1018 is effective only for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
+Pub. L. 99–198, title X, § 1018, Dec. 23, 1985, 99 Stat. 1459, provided that the amendment made by section 1018 is effective only for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
 
 **Effective and Termination Dates of 1981 Amendment**
 
-Pub. L. 97–98, title XI, § 1104, Dec. 22, 1981, 95 Stat. 1264, provided that the amendment made by section 1104 is effective only for the 1982 through 1985 crops of wheat, feed grains, upland cotton, and rice.
+Pub. L. 97–98, title XI, § 1104, Dec. 22, 1981, 95 Stat. 1264, provided that the amendment made by section 1104 is effective only for the 1982 through 1985 crops of wheat, feed grains, upland cotton, and rice.
 
 **Effective and Termination Dates of 1977 Amendment**
 
-Pub. L. 95–113, title IV, § 407, title VI, § 604(b), title VII, § 705, Sept. 29, 1977, 91 Stat. 927, 939, 944, provided that the provisions amended by sections 407, 604(b), and 705 were effective for the 1978 through 1981 crops.
+Pub. L. 95–113, title IV, § 407, title VI, § 604(b), title VII, § 705, Sept. 29, 1977, 91 Stat. 927, 939, 944, provided that the provisions amended by sections 407, 604(b), and 705 were effective for the 1978 through 1981 crops.
 
 **Effective and Termination Dates of 1976 Amendment**
 
-Pub. L. 94–214, title III, § 304, Feb. 16, 1976, 90 Stat. 188, provided that the amendment made by section 304 is effective only with respect to the 1976 and 1977 crops of rice.
+Pub. L. 94–214, title III, § 304, Feb. 16, 1976, 90 Stat. 188, provided that the amendment made by section 304 is effective only with respect to the 1976 and 1977 crops of rice.
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title IV, § 408, title VI, § 607, Nov. 30, 1970, 84 Stat. 1367, 1378, as amended by Pub. L. 93–86, § 1(15), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 408 and 607 are effective only with respect to the 1971 through 1977 crops of the commodity.
+Pub. L. 91–524, title IV, § 408, title VI, § 607, Nov. 30, 1970, 84 Stat. 1367, 1378, as amended by Pub. L. 93–86, § 1(15), (22), Aug. 10, 1973, 87 Stat. 229, 235, provided that the amendments made by sections 408 and 607 are effective only with respect to the 1971 through 1977 crops of the commodity.
 
 **Effective and Termination Dates of 1965 Amendment**
 
-Pub. L. 89–321, title IV, § 402(b), Nov. 3, 1965, 79 Stat. 1197, as amended by Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 402(b) is effective only for the 1966 through 1970 crops.
+Pub. L. 89–321, title IV, § 402(b), Nov. 3, 1965, 79 Stat. 1197, as amended by Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 402(b) is effective only for the 1966 through 1970 crops.
 
 **Savings Provision**
 
@@ -1209,31 +1209,31 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
-### § 1429. Determinations of Secretary as final and conclusive
+### § 1429. Determinations of Secretary as final and conclusive
 
 Determinations made by the Secretary under this Act shall be final and conclusive: *Provided*, That the scope and nature of such determinations shall not be inconsistent with the provisions of the Commodity Credit Corporation Charter Act [15 U.S.C. 714 et seq.].
 
-(Oct. 31, 1949, ch. 792, title IV, § 412, 63 Stat. 1057.)
+(Oct. 31, 1949, ch. 792, title IV, § 412, 63 Stat. 1057.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-### § 1430. Retroactive effect
+### § 1430. Retroactive effect
 
 This Act shall not be effective with respect to price support operations for any agricultural commodity for any marketing year or season commencing prior to January 1, 1950, except to the extent that the Secretary of Agriculture shall, without reducing price support theretofore undertaken or announced, elect to apply the provisions of this Act.
 
-(Oct. 31, 1949, ch. 792, title IV, § 413, 63 Stat. 1057.)
+(Oct. 31, 1949, ch. 792, title IV, § 413, 63 Stat. 1057.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1247,7 +1247,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
-### § 1431. Disposition of commodities to prevent waste
+### § 1431. Disposition of commodities to prevent waste
 
 **(a) Eligible recipients; barter; estimates; reprocessing and other charges**
 
@@ -1335,9 +1335,9 @@ In addition, proceeds generated in Poland may also be used by governmental and n
 
 **(E)** Sales and barter to cover expenses incurred under paragraph (5)(a).
 
-**(F)** The provisions of sections 403(i) and 407(c) 1
+**(F)** The provisions of sections 403(i) and 407(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Food for Peace Act [7 U.S.C. 1733(i), 1736a(c)] shall apply to donations, sales and barters of eligible commodities under this subsection.
 
@@ -1383,23 +1383,23 @@ The Secretary may approve the use of proceeds or services realized from the sale
 
 **(C) Consultations.—** Not later than 1 year after May 13, 2002, the Secretary shall consult with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on changes made in regulations and procedures under this paragraph.
 
-(Oct. 31, 1949, ch. 792, title IV, § 416, 63 Stat. 1058; July 10, 1954, ch. 469, title III, § 309, formerly § 302, 68 Stat. 458, renumbered § 309, Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended May 28, 1956, ch. 327, title II, § 212, 70 Stat. 203; Pub. L. 85–483, § 1, July 2, 1958, 72 Stat. 286; Aug. 26, 1954, ch. 937, title IV, § 402, 68 Stat. 843, as amended Pub. L. 86–108, ch. II, § 205(c), July 24, 1959, 73 Stat. 250; Pub. L. 87–703, title II, § 202, Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, § 4, Oct. 8, 1964, 78 Stat. 1038; Pub. L. 89–808, § 3(c), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 91–233, Apr. 17, 1970, 84 Stat. 199; Pub. L. 92–603, title IV, § 411(g), Oct. 30, 1972, 86 Stat. 1492; Pub. L. 95–113, title XIII, § 1302(a)(2), Sept. 29, 1977, 91 Stat. 979; Pub. L. 97–253, title I, § 110, Sept. 8, 1982, 96 Stat. 766; Pub. L. 98–258, title V, § 502, Apr. 10, 1984, 98 Stat. 137; Pub. L. 99–83, title X, § 1007, Aug. 8, 1985, 99 Stat. 271; Pub. L. 99–198, title XI, §§ 1109, 1129, Dec. 23, 1985, 99 Stat. 1467, 1486; Pub. L. 99–260, § 16, Mar. 20, 1986, 100 Stat. 55; Pub. L. 100–203, title I, § 1503, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 100–277, §§ 1–5, Apr. 4, 1988, 102 Stat. 67, 68; Pub. L. 100–418, title II, § 2225, Aug. 23, 1988, 102 Stat. 1337; Pub. L. 101–513, title V, § 562 (part), Nov. 5, 1990, 104 Stat. 2032; Pub. L. 101–624, title XV, §§ 1514, 1575, title XVII, § 1771(b)(2), Nov. 28, 1990, 104 Stat. 3662, 3702, 3807; Pub. L. 102–237, title III, § 333, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–289, § 1, May 20, 1992, 106 Stat. 176; Pub. L. 103–306, title V, § 576(c), Aug. 23, 1994, 108 Stat. 1654; Pub. L. 104–127, title II, § 264, Apr. 4, 1996, 110 Stat. 974; Pub. L. 107–171, title III, §§ 3009(b)(1), 3201, May 13, 2002, 116 Stat. 283, 299; Pub. L. 107–206, title I, § 105, Aug. 2, 2002, 116 Stat. 824; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(B), June 18, 2008, 122 Stat. 1820.)
+(Oct. 31, 1949, ch. 792, title IV, § 416, 63 Stat. 1058; July 10, 1954, ch. 469, title III, § 309, formerly § 302, 68 Stat. 458, renumbered § 309, Pub. L. 95–88, title II, § 211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended May 28, 1956, ch. 327, title II, § 212, 70 Stat. 203; Pub. L. 85–483, § 1, July 2, 1958, 72 Stat. 286; Aug. 26, 1954, ch. 937, title IV, § 402, 68 Stat. 843, as amended Pub. L. 86–108, ch. II, § 205(c), July 24, 1959, 73 Stat. 250; Pub. L. 87–703, title II, § 202, Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, § 4, Oct. 8, 1964, 78 Stat. 1038; Pub. L. 89–808, § 3(c), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 91–233, Apr. 17, 1970, 84 Stat. 199; Pub. L. 92–603, title IV, § 411(g), Oct. 30, 1972, 86 Stat. 1492; Pub. L. 95–113, title XIII, § 1302(a)(2), Sept. 29, 1977, 91 Stat. 979; Pub. L. 97–253, title I, § 110, Sept. 8, 1982, 96 Stat. 766; Pub. L. 98–258, title V, § 502, Apr. 10, 1984, 98 Stat. 137; Pub. L. 99–83, title X, § 1007, Aug. 8, 1985, 99 Stat. 271; Pub. L. 99–198, title XI, §§ 1109, 1129, Dec. 23, 1985, 99 Stat. 1467, 1486; Pub. L. 99–260, § 16, Mar. 20, 1986, 100 Stat. 55; Pub. L. 100–203, title I, § 1503, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 100–277, §§ 1–5, Apr. 4, 1988, 102 Stat. 67, 68; Pub. L. 100–418, title II, § 2225, Aug. 23, 1988, 102 Stat. 1337; Pub. L. 101–513, title V, § 562 (part), Nov. 5, 1990, 104 Stat. 2032; Pub. L. 101–624, title XV, §§ 1514, 1575, title XVII, § 1771(b)(2), Nov. 28, 1990, 104 Stat. 3662, 3702, 3807; Pub. L. 102–237, title III, § 333, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–289, § 1, May 20, 1992, 106 Stat. 176; Pub. L. 103–306, title V, § 576(c), Aug. 23, 1994, 108 Stat. 1654; Pub. L. 104–127, title II, § 264, Apr. 4, 1996, 110 Stat. 974; Pub. L. 107–171, title III, §§ 3009(b)(1), 3201, May 13, 2002, 116 Stat. 283, 299; Pub. L. 107–206, title I, § 105, Aug. 2, 2002, 116 Stat. 824; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(B), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Older Americans Act of 1965, referred to in subsec. (a), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-The Food for Peace Act, referred to in subsec. (b)(1), (6), (7)(D)(iii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of this title. Titles II and III of the Act are classified generally to subchapters III (§ 1721 et seq.) and III–A (§ 1727 et seq.), respectively, of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in subsec. (b)(1), (6), (7)(D)(iii), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of this title. Titles II and III of the Act are classified generally to subchapters III (§ 1721 et seq.) and III–A (§ 1727 et seq.), respectively, of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
-The Food for Progress Act of 1985, referred to in subsec. (b)(1), (7)(D)(iii), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736*o* of this title.
+The Food for Progress Act of 1985, referred to in subsec. (b)(1), (7)(D)(iii), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736*o* of this title.
 
-This Act, referred to in subsec. (b)(3)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (b)(3)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 Section 2226 of the American Aid to Poland Act of 1988, referred to in subsec. (b)(7)(D)(ii), is section 2226 of Pub. L. 100–418, which is set out as a note below.
 
-Section 407(c) of the Food for Peace Act [7 U.S.C. 1736a(c)], referred to in subsec. (b)(7)(F), was redesignated section 407(b) of that Act [7 U.S.C. 1736a(b)] by Pub. L. 104–66, title I, § 1011(e)(2), Dec. 21, 1995, 109 Stat. 709.
+Section 407(c) of the Food for Peace Act [7 U.S.C. 1736a(c)], referred to in subsec. (b)(7)(F), was redesignated section 407(b) of that Act [7 U.S.C. 1736a(b)] by Pub. L. 104–66, title I, § 1011(e)(2), Dec. 21, 1995, 109 Stat. 709.
 
 **Codification**
 
@@ -1409,89 +1409,89 @@ Subsection (b)(9)(B), which required the Secretary to submit an annual report to
 
 2008—Subsec. (b). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” wherever appearing.
 
-2002—Subsec. (b)(7)(D)(i). Pub. L. 107–171, § 3201(a)(1), struck out “foreign currency” before “proceeds generated from such sale”.
+2002—Subsec. (b)(7)(D)(i). Pub. L. 107–171, § 3201(a)(1), struck out “foreign currency” before “proceeds generated from such sale”.
 
-Subsec. (b)(7)(D)(ii). Pub. L. 107–171, § 3201(a)(2), substituted “Proceeds” for “Foreign currencies” in introductory provisions and struck out “foreign currency” before “proceeds generated in Poland” in concluding provisions.
+Subsec. (b)(7)(D)(ii). Pub. L. 107–171, § 3201(a)(2), substituted “Proceeds” for “Foreign currencies” in introductory provisions and struck out “foreign currency” before “proceeds generated in Poland” in concluding provisions.
 
-Subsec. (b)(7)(D)(iii). Pub. L. 107–171, § 3201(a)(1), struck out “foreign currency” before “proceeds in amounts”.
+Subsec. (b)(7)(D)(iii). Pub. L. 107–171, § 3201(a)(1), struck out “foreign currency” before “proceeds in amounts”.
 
 Subsec. (b)(7)(D)(iv). Pub. L. 107–206 substituted “subsection, or to otherwise carry out the purposes of this subsection.” for “subsection.”
 
-Pub. L. 107–171, § 3201(a)(3), substituted “Proceeds generated” for “Foreign currency proceeds generated”, “country of origin as necessary to expedite” for “country of origin—
+Pub. L. 107–171, § 3201(a)(3), substituted “Proceeds generated” for “Foreign currency proceeds generated”, “country of origin as necessary to expedite” for “country of origin—
 
 “(I) as necessary to expedite”,
 
-and a period for “; or” after “this subsection”, and struck out subcl. (II) which read as follows: “if the proceeds are generated in a currency generally accepted in the other country.”
+and a period for “; or” after “this subsection”, and struck out subcl. (II) which read as follows: “if the proceeds are generated in a currency generally accepted in the other country.”
 
-Subsec. (b)(8). Pub. L. 107–171, § 3201(b)(1), inserted heading, added subpars. (A) to (C), redesignated former subpar. (B) as (D) and inserted heading, and struck out former subpar. (A) which read as follows: “To the maximum extent practicable, expedited procedures shall be used in the implementation of this subsection.”
+Subsec. (b)(8). Pub. L. 107–171, § 3201(b)(1), inserted heading, added subpars. (A) to (C), redesignated former subpar. (B) as (D) and inserted heading, and struck out former subpar. (A) which read as follows: “To the maximum extent practicable, expedited procedures shall be used in the implementation of this subsection.”
 
-Subsec. (b)(10). Pub. L. 107–171, § 3009(b)(1), added par. (10).
+Subsec. (b)(10). Pub. L. 107–171, § 3009(b)(1), added par. (10).
 
-Subsec. (b)(11). Pub. L. 107–171, § 3201(b)(2), added par. (11).
+Subsec. (b)(11). Pub. L. 107–171, § 3201(b)(2), added par. (11).
 
-1996—Subsec. (b)(7). Pub. L. 104–127, § 264(1)(A)(ii), inserted concluding provisions and struck out former concluding provisions which read as follows: “No portion of the proceeds or services realized from sales or barter under this paragraph may be used to meet operating and overhead expenses, except as otherwise provided in subparagraph (C) and except for personnel and administrative costs incurred by local cooperatives.”
+1996—Subsec. (b)(7). Pub. L. 104–127, § 264(1)(A)(ii), inserted concluding provisions and struck out former concluding provisions which read as follows: “No portion of the proceeds or services realized from sales or barter under this paragraph may be used to meet operating and overhead expenses, except as otherwise provided in subparagraph (C) and except for personnel and administrative costs incurred by local cooperatives.”
 
-Subsec. (b)(7)(D)(iv). Pub. L. 104–127, § 264(1)(A)(i), substituted “a reasonable length of time, as determined by the Secretary, except that the Secretary may permit the use of proceeds in a country other than the country of origin—” and subcls. (I) and (II) for “one year of acquisition of such currency, except that the Secretary may permit the use of such proceeds (I) in countries other than the country of origin as necessary to expedite the transportation of commodities and products furnished under this subsection, (II) after one year of acquisition as appropriate to achieve the purposes of clause (i), and (III) in a country other than the country of origin, if such proceeds are generated in a currency generally accepted in such other country.”
+Subsec. (b)(7)(D)(iv). Pub. L. 104–127, § 264(1)(A)(i), substituted “a reasonable length of time, as determined by the Secretary, except that the Secretary may permit the use of proceeds in a country other than the country of origin—” and subcls. (I) and (II) for “one year of acquisition of such currency, except that the Secretary may permit the use of such proceeds (I) in countries other than the country of origin as necessary to expedite the transportation of commodities and products furnished under this subsection, (II) after one year of acquisition as appropriate to achieve the purposes of clause (i), and (III) in a country other than the country of origin, if such proceeds are generated in a currency generally accepted in such other country.”
 
-Subsec. (b)(8)(C). Pub. L. 104–127, § 264(1)(B), struck out subpar. (C), which related to proposals by nonprofit and voluntary agencies or cooperatives to make eligible commodities available, notice and comment on issuance of final guidelines, and transmission of orders to Commodity Credit Corporation.
+Subsec. (b)(8)(C). Pub. L. 104–127, § 264(1)(B), struck out subpar. (C), which related to proposals by nonprofit and voluntary agencies or cooperatives to make eligible commodities available, notice and comment on issuance of final guidelines, and transmission of orders to Commodity Credit Corporation.
 
-Subsec. (b)(10) to (12). Pub. L. 104–127, § 264(1)(C), struck out pars. (10) to (12) which, in par. (10), authorized Secretary to make available for disposition in each of fiscal years 1986 through 1990 not less than specified minimum quantities of eligible commodities, in par. (11), authorized Secretary to furnish eligible commodities in connection with concessional sales agreements entered into under title I of the Agricultural Trade Development and Assistance Act of 1954 or other statutes, or agricultural export bonus or promotion programs carried out under the Commodity Credit Corporation Charter Act or other statutes, and, in par. (12), authorized funding for fiscal year 1988 for technical assistance for sale or barter of commodities under paragraph (7) to strengthen nonprofit private organizations and cooperatives in the Philippines.
+Subsec. (b)(10) to (12). Pub. L. 104–127, § 264(1)(C), struck out pars. (10) to (12) which, in par. (10), authorized Secretary to make available for disposition in each of fiscal years 1986 through 1990 not less than specified minimum quantities of eligible commodities, in par. (11), authorized Secretary to furnish eligible commodities in connection with concessional sales agreements entered into under title I of the Agricultural Trade Development and Assistance Act of 1954 or other statutes, or agricultural export bonus or promotion programs carried out under the Commodity Credit Corporation Charter Act or other statutes, and, in par. (12), authorized funding for fiscal year 1988 for technical assistance for sale or barter of commodities under paragraph (7) to strengthen nonprofit private organizations and cooperatives in the Philippines.
 
-Subsec. (c). Pub. L. 104–127, § 264(2), struck out subsec. (c), which established 2 year pilot program relating to barter or exchange of dairy products for ultra-high temperature processed fluid milk, and required reports to Congress.
+Subsec. (c). Pub. L. 104–127, § 264(2), struck out subsec. (c), which established 2 year pilot program relating to barter or exchange of dairy products for ultra-high temperature processed fluid milk, and required reports to Congress.
 
 1994—Subsec. (b)(7)(D)(ii)(IV). Pub. L. 103–306 added subcl. (IV).
 
-1992—Subsec. (b)(7)(D)(iv). Pub. L. 102–289 substituted “(II)” for “and (II)” and inserted before period at end “, and (III) in a country other than the country of origin, if such proceeds are generated in a currency generally accepted in such other country”.
+1992—Subsec. (b)(7)(D)(iv). Pub. L. 102–289 substituted “(II)” for “and (II)” and inserted before period at end “, and (III) in a country other than the country of origin, if such proceeds are generated in a currency generally accepted in such other country”.
 
-1991—Subsec. (b)(7)(F). Pub. L. 102–237 made technical amendment to directory language of Pub. L. 101–624, § 1514(5)(B). See 1990 Amendment note below.
+1991—Subsec. (b)(7)(F). Pub. L. 102–237 made technical amendment to directory language of Pub. L. 101–624, § 1514(5)(B). See 1990 Amendment note below.
 
-1990—Subsec. (a)(3). Pub. L. 101–624, § 1771(b)(2), substituted “hospitals and facilities, to the extent that they serve needy persons (including infants and children)” for “hospitals, to the extent that needy persons are served”.
+1990—Subsec. (a)(3). Pub. L. 101–624, § 1771(b)(2), substituted “hospitals and facilities, to the extent that they serve needy persons (including infants and children)” for “hospitals, to the extent that needy persons are served”.
 
-Subsec. (b)(1). Pub. L. 101–624, § 1514(1), inserted reference to title III of Agricultural Trade Development and Assistance Act of 1954.
+Subsec. (b)(1). Pub. L. 101–624, § 1514(1), inserted reference to title III of Agricultural Trade Development and Assistance Act of 1954.
 
-Subsec. (b)(3)(B)(i). Pub. L. 101–624, § 1514(2), substituted reference to section 403(a) of Agricultural Trade Development and Assistance Act of 1954 for reference to section 401(b) of such Act.
+Subsec. (b)(3)(B)(i). Pub. L. 101–624, § 1514(2), substituted reference to section 403(a) of Agricultural Trade Development and Assistance Act of 1954 for reference to section 401(b) of such Act.
 
-Subsec. (b)(5)(A). Pub. L. 101–624, § 1514(3), substituted reference to section 406 of Agricultural Trade Development and Assistance Act of 1954 for reference to section 203 of such Act.
+Subsec. (b)(5)(A). Pub. L. 101–624, § 1514(3), substituted reference to section 406 of Agricultural Trade Development and Assistance Act of 1954 for reference to section 203 of such Act.
 
-Subsec. (b)(6). Pub. L. 101–624, § 1514(4), substituted reference to section 406 of Agricultural Trade Development and Assistance Act of 1954 for reference to section 203 of such Act.
+Subsec. (b)(6). Pub. L. 101–624, § 1514(4), substituted reference to section 406 of Agricultural Trade Development and Assistance Act of 1954 for reference to section 203 of such Act.
 
 Subsec. (b)(7)(D)(ii). Pub. L. 101–513 substituted “governmental and nongovernmental” for “such” and inserted “governmental or” after “activities of”.
 
-Subsec. (b)(7)(D)(iii). Pub. L. 101–624, § 1514(5)(A), inserted reference to title III of Agricultural Trade Development and Assistance Act of 1954.
+Subsec. (b)(7)(D)(iii). Pub. L. 101–624, § 1514(5)(A), inserted reference to title III of Agricultural Trade Development and Assistance Act of 1954.
 
-Subsec. (b)(7)(F). Pub. L. 101–624, § 1514(5)(B), as amended by Pub. L. 102–237, added subpar. (F).
+Subsec. (b)(7)(F). Pub. L. 101–624, § 1514(5)(B), as amended by Pub. L. 102–237, added subpar. (F).
 
-Subsec. (d). Pub. L. 101–624, § 1575, struck out subsec. (d) which established pilot program for barter of agricultural commodities for strategic materials not produced in sufficient amounts domestically and for which national stockpile or reserve goals are unmet.
+Subsec. (d). Pub. L. 101–624, § 1575, struck out subsec. (d) which established pilot program for barter of agricultural commodities for strategic materials not produced in sufficient amounts domestically and for which national stockpile or reserve goals are unmet.
 
-1988—Subsec. (b)(2)(A). Pub. L. 100–277, § 1(a), substituted “wheat, rice, feed grains” for “grains” and inserted “, and the products thereof,” after “price support operations”.
+1988—Subsec. (b)(2)(A). Pub. L. 100–277, § 1(a), substituted “wheat, rice, feed grains” for “grains” and inserted “, and the products thereof,” after “price support operations”.
 
-Subsec. (b)(3)(D). Pub. L. 100–277, § 2, added subpar. (D).
+Subsec. (b)(3)(D). Pub. L. 100–277, § 2, added subpar. (D).
 
-Subsec. (b)(4). Pub. L. 100–277, § 3, inserted at end “In agreements with recipients of eligible commodities under this subsection (including nonprofit and voluntary agencies or cooperatives), subject to the availability of commodities each fiscal year, the Secretary, on request, shall approve multiyear agreements to make agricultural commodities available for distribution or sale by the recipients if the agreements otherwise meet the requirements of this subsection.”
+Subsec. (b)(4). Pub. L. 100–277, § 3, inserted at end “In agreements with recipients of eligible commodities under this subsection (including nonprofit and voluntary agencies or cooperatives), subject to the availability of commodities each fiscal year, the Secretary, on request, shall approve multiyear agreements to make agricultural commodities available for distribution or sale by the recipients if the agreements otherwise meet the requirements of this subsection.”
 
-Subsec. (b)(7). Pub. L. 100–277, § 1(b)(2), in introductory provisions struck out “, and products thereof,” after “commodities”.
+Subsec. (b)(7). Pub. L. 100–277, § 1(b)(2), in introductory provisions struck out “, and products thereof,” after “commodities”.
 
 Subsec. (b)(7)(D)(ii). Pub. L. 100–418 inserted provisions respecting use of foreign currency proceeds generated in Poland and describing activities eligible for such funds.
 
-Pub. L. 100–277, § 4(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Foreign currency proceeds generated from the sales of commodities and products under this subparagraph shall be used by nonprofit and voluntary agencies, or cooperatives, for activities carried out by the agency or cooperative that will enhance the effectiveness of transportation, distribution, and use of commodities and products donated under this subsection, including food for work programs and cooperative and agricultural projects.”
+Pub. L. 100–277, § 4(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Foreign currency proceeds generated from the sales of commodities and products under this subparagraph shall be used by nonprofit and voluntary agencies, or cooperatives, for activities carried out by the agency or cooperative that will enhance the effectiveness of transportation, distribution, and use of commodities and products donated under this subsection, including food for work programs and cooperative and agricultural projects.”
 
-Subsec. (b)(7)(D)(iii). Pub. L. 100–277, § 4(b), substituted “10 percent” for “5 percent” and inserted “, or the minimum tonnage required, whichever is greater,” after “furnished”.
+Subsec. (b)(7)(D)(iii). Pub. L. 100–277, § 4(b), substituted “10 percent” for “5 percent” and inserted “, or the minimum tonnage required, whichever is greater,” after “furnished”.
 
-Subsec. (b)(8)(C). Pub. L. 100–277, § 5, added subpar. (C).
+Subsec. (b)(8)(C). Pub. L. 100–277, § 5, added subpar. (C).
 
-Subsec. (b)(10)(B)(i). Pub. L. 100–277, § 1(b)(1), substituted “wheat, rice, feed grains,” for “grains” in two places.
+Subsec. (b)(10)(B)(i). Pub. L. 100–277, § 1(b)(1), substituted “wheat, rice, feed grains,” for “grains” in two places.
 
 1987—Subsec. (b)(12). Pub. L. 100–203 added par. (12).
 
 1986—Subsec. (b)(10)(B). Pub. L. 99–260 inserted “or, in the case of fiscal year 1986, prior to March 31, 1986” in two places.
 
-1985—Subsec. (a). Pub. L. 99–198, § 1109(1), struck out provisions that such dairy products could also be donated through foreign governments and public and nonprofit private humanitarian organizations for assistance of needy persons outside the United States, that Commodity Credit Corporation could pay, with respect to commodities so donated, reprocessing, packaging, transporting, handling, and other charges, including cost of overseas delivery, and that in order to assure that any such donations for use outside the United States were coordinated with and would complement other United States foreign assistance, such donations had to be coordinated through mechanism designated by President to coordinate assistance under the Agricultural Trade Development and Assistance Act of 1954 and were to be in addition to level of assistance programmed under that Act.
+1985—Subsec. (a). Pub. L. 99–198, § 1109(1), struck out provisions that such dairy products could also be donated through foreign governments and public and nonprofit private humanitarian organizations for assistance of needy persons outside the United States, that Commodity Credit Corporation could pay, with respect to commodities so donated, reprocessing, packaging, transporting, handling, and other charges, including cost of overseas delivery, and that in order to assure that any such donations for use outside the United States were coordinated with and would complement other United States foreign assistance, such donations had to be coordinated through mechanism designated by President to coordinate assistance under the Agricultural Trade Development and Assistance Act of 1954 and were to be in addition to level of assistance programmed under that Act.
 
-Subsec. (b). Pub. L. 99–198, § 1109(2), in amending subsec. (b) generally, substituted provisions relating to furnishing of eligible commodities for purpose of carrying out programs of assistance in developing and friendly countries under title II of the Agricultural Trade Development and Assistance Act of 1954 and section 1736*o* of this title for provisions relating to furnishing of dairy products, rice and wheat (which had been acquired by Commodity Credit Corporation through price support operations) for purpose of carrying out title II of that Act.
+Subsec. (b). Pub. L. 99–198, § 1109(2), in amending subsec. (b) generally, substituted provisions relating to furnishing of eligible commodities for purpose of carrying out programs of assistance in developing and friendly countries under title II of the Agricultural Trade Development and Assistance Act of 1954 and section 1736*o* of this title for provisions relating to furnishing of dairy products, rice and wheat (which had been acquired by Commodity Credit Corporation through price support operations) for purpose of carrying out title II of that Act.
 
 Pub. L. 99–83 added applicability to rice acquired by the Commodity Credit Corporation through price support operations.
 
-Subsec. (d). Pub. L. 99–198, § 1129, added subsec. (d).
+Subsec. (d). Pub. L. 99–198, § 1129, added subsec. (d).
 
 1984—Pub. L. 98–258 designated existing provisions as subsec. (a), substituted “subsection” for “section” wherever appearing, and added subsecs. (b) and (c).
 
@@ -1529,7 +1529,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–306, title V, § 576(d), Aug. 23, 1994, 108 Stat. 1654, provided that: “The amendments made by this section [amending this section and provisions set out as a note below] shall take effect October 1, 1994.”
+Pub. L. 103–306, title V, § 576(d), Aug. 23, 1994, 108 Stat. 1654, provided that: “The amendments made by this section [amending this section and provisions set out as a note below] shall take effect October 1, 1994.”
 
 **Effective Date of 1985 Amendment**
 
@@ -1541,19 +1541,19 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1302(b) of Pub
 
 **Effective Date of 1972 Amendment**
 
-Pub. L. 92–603, title IV, § 411(g), Oct. 30, 1972, 86 Stat. 1492, provided that the amendment made by section 411(g) is effective Jan. 1, 1974.
+Pub. L. 92–603, title IV, § 411(g), Oct. 30, 1972, 86 Stat. 1492, provided that the amendment made by section 411(g) is effective Jan. 1, 1974.
 
-Pub. L. 93–233, § 8(b)(2), Dec. 31, 1973, 87 Stat. 956, as amended by Pub. L. 93–335, § 1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, § 3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, § 2(2), July 14, 1976, 90 Stat. 990; Pub. L. 95–59, § 3(2), June 30, 1977, 915 Stat. 255, provided that: “The last sentence of section 416 of the Act of October 31, 1949 [this section] (as added by section 411(g) of Public Law 92–603) [see 1972 Amendment Note above] shall not be effective for the period ending September 30, 1978.”
+Pub. L. 93–233, § 8(b)(2), Dec. 31, 1973, 87 Stat. 956, as amended by Pub. L. 93–335, § 1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, § 3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, § 2(2), July 14, 1976, 90 Stat. 990; Pub. L. 95–59, § 3(2), June 30, 1977, 915 Stat. 255, provided that: “The last sentence of section 416 of the Act of October 31, 1949 [this section] (as added by section 411(g) of Public Law 92–603) [see 1972 Amendment Note above] shall not be effective for the period ending September 30, 1978.”
 
 [Amendment by Pub. L. 93–335, effective July 1, 1974, see section 1(c) of Pub. L. 93–335, set out as a note under section 1382 of Title 42, The Public Health and Welfare. Section 3 of Pub. L. 95–59 provided in part that the amendment of section 8 of Pub. L. 93–233 by section 3(2) of Pub. L. 95–59 is effective July 1, 1977.]
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–808, § 3(c), Nov. 11, 1966, 80 Stat. 1538, provided that the amendment made by section 3(c) is effective Jan. 1, 1967.
+Pub. L. 89–808, § 3(c), Nov. 11, 1966, 80 Stat. 1538, provided that the amendment made by section 3(c) is effective Jan. 1, 1967.
 
 **Donation of Surplus Agricultural Commodities**
 
-Pub. L. 100–418, title II, § 2223, Aug. 23, 1988, 102 Stat. 1336, as amended by Pub. L. 101–513, title V, § 562 (part), Nov. 5, 1990, 104 Stat. 2032; Pub. L. 103–306, title V, § 576(a), (b), Aug. 23, 1994, 108 Stat. 1654, provided that:
+Pub. L. 100–418, title II, § 2223, Aug. 23, 1988, 102 Stat. 1336, as amended by Pub. L. 101–513, title V, § 562 (part), Nov. 5, 1990, 104 Stat. 2032; Pub. L. 103–306, title V, § 576(a), (b), Aug. 23, 1994, 108 Stat. 1654, provided that:
 
 > **“(a) Authority to Donate.—** Notwithstanding any other provision of law, if the Secretary of Agriculture determines for each fiscal year that (1) a donation under this section would not limit the Secretary’s ability to meet urgent humanitarian needs for agricultural commodities, and (2) such donation would not cause a reduction in the price of the same or similar agricultural commodities produced in Poland[,] the Secretary of Agriculture shall donate, under the applicable provisions of section 416(b) of the Agricultural Act of 1949 [7 U.S.C. 1431(b)], for each of the fiscal years 1995 through 1999, 8,000 metric tons of uncommitted stocks of eligible commodities of the Commodity Credit Corporation under an agreement with the Government of Poland that the Government of Poland will sell such commodities and that all the proceeds from such sales will be used by governmental and nongovernmental agencies for eligible activities in Poland described in section 416(b)(7)(D)(ii) of that Act (as amended by section 2225 of this Act) that have been approved, upon application, by the joint commission described in section 2226 [of Pub. L. 100–418, set out below] and by the United States chief of diplomatic mission in Poland.
 
@@ -1565,11 +1565,11 @@ Pub. L. 100–418, title II, § 2223, Aug. 23, 1988, 102 Stat. 1336, as amende
 
 **Use of Polish Currencies**
 
-Pub. L. 100–418, title II, § 2224, Aug. 23, 1988, 102 Stat. 1337, provided that nonconvertible Polish currencies held by the United States on Aug. 23, 1988, pursuant to an agreement with the Government of Poland under the Agricultural Trade Development and Assistance Act of 1954 [7 U.S.C. 1691 et seq.] which were not assets of the Commodity Credit Corporation would be made available, to the extent and in such amounts as had been provided in advance in appropriation Acts, for eligible activities in Poland described in section 1431(b)(7)(D)(ii) of this title and approved, upon application, by the joint commission described in section 2226 of Pub. L. 100–418, set out below, and by the United States chief of diplomatic mission in Poland.
+Pub. L. 100–418, title II, § 2224, Aug. 23, 1988, 102 Stat. 1337, provided that nonconvertible Polish currencies held by the United States on Aug. 23, 1988, pursuant to an agreement with the Government of Poland under the Agricultural Trade Development and Assistance Act of 1954 [7 U.S.C. 1691 et seq.] which were not assets of the Commodity Credit Corporation would be made available, to the extent and in such amounts as had been provided in advance in appropriation Acts, for eligible activities in Poland described in section 1431(b)(7)(D)(ii) of this title and approved, upon application, by the joint commission described in section 2226 of Pub. L. 100–418, set out below, and by the United States chief of diplomatic mission in Poland.
 
 **Joint Commission**
 
-Pub. L. 100–418, title II, § 2226, Aug. 23, 1988, 102 Stat. 1337, provided that:
+Pub. L. 100–418, title II, § 2226, Aug. 23, 1988, 102 Stat. 1337, provided that:
 
 > **“(a) Establishment.—** The joint commission referred to in sections 2223 and 2224 [of Pub. L. 100–418, set out above] and in section 416(b)(7)(D)(ii) of the Agricultural Act of 1949 [7 U.S.C. 1431(b)(7)(D)(ii)] (as amended by section 2225 of this Act) shall be established under an agreement between the United States Government, the Government of Poland, and nongovernmental agencies (as defined in section 2223) operating in Poland.
 
@@ -1583,9 +1583,9 @@ Pub. L. 100–418, title II, § 2226, Aug. 23, 1988, 102 Stat. 1337, provided 
 
 **Barter of Agricultural Commodities**
 
-Pub. L. 100–418, title IV, § 4309, Aug. 23, 1988, 102 Stat. 1399, provided that: “In recognition of the importance of barter programs in expanding agricultural trade, it is the sense of Congress that the Secretary of Agriculture should expedite the implementation of section 416(d) of the Agricultural Act of 1949 (7 U.S.C. 1431(d)) and section 1167 of the Food Security Act of 1985 (7 U.S.C. 1727g note and 1736aa), relating to the barter of agricultural commodities.”
+Pub. L. 100–418, title IV, § 4309, Aug. 23, 1988, 102 Stat. 1399, provided that: “In recognition of the importance of barter programs in expanding agricultural trade, it is the sense of Congress that the Secretary of Agriculture should expedite the implementation of section 416(d) of the Agricultural Act of 1949 (7 U.S.C. 1431(d)) and section 1167 of the Food Security Act of 1985 (7 U.S.C. 1727g note and 1736aa), relating to the barter of agricultural commodities.”
 
-Pub. L. 98–180, title III, § 302, Nov. 29, 1983, 97 Stat. 1151, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that:
+Pub. L. 98–180, title III, § 302, Nov. 29, 1983, 97 Stat. 1151, as amended by Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided that:
 
 > **“(a)** It is the sense of Congress that the Secretary of Agriculture should exchange or barter, to the maximum extent practicable under the provisions of law specified in subsection (b), commodities (especially dairy products) owned by the Commodity Credit Corporation for materials, goods, and equipment produced in foreign countries.
 
@@ -1603,7 +1603,7 @@ Annual minimum of food assistance made available to foreign countries to be not 
 
 **Additional Levels of Flour, Cornmeal, Wheat, Soybeans, and Dairy Products for Friendly Countries in Fiscal Years 1987, 1988, and 1989**
 
-Pub. L. 99–500, § 101(a) [title VI, § 646], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, § 101(a) [title VI, § 646], Oct. 30, 1986, 100 Stat. 3341, 3341–36, directed the Secretary of Agriculture, during the three-year period beginning with the fiscal year ending Sept. 30, 1987, through the fiscal year ending Sept. 30, 1989, to make available, in addition to the traditional level of assistance made available to friendly countries, specified additional tonnage of flour, cornmeal, wheat, soybeans, and dairy products, subject to certain conditions.
+Pub. L. 99–500, § 101(a) [title VI, § 646], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, § 101(a) [title VI, § 646], Oct. 30, 1986, 100 Stat. 3341, 3341–36, directed the Secretary of Agriculture, during the three-year period beginning with the fiscal year ending Sept. 30, 1987, through the fiscal year ending Sept. 30, 1989, to make available, in addition to the traditional level of assistance made available to friendly countries, specified additional tonnage of flour, cornmeal, wheat, soybeans, and dairy products, subject to certain conditions.
 
 **Commodity Distribution Program; Purchase of Agricultural Commodities With Unexpected or Available Funds; Prohibition on Furnishing Commodities to Summer Camps; Participation in Program of Individual Receiving Supplemental Security Income Benefits**
 
@@ -1615,11 +1615,11 @@ Pub. L. 86–756, Sept. 13, 1960, 74 Stat. 899, as amended by Pub. L. 87–179, 
 
 **Authorization for Commodity Credit Corporation To Purchase and Donate Flour, Cornmeal and Processed Food Grain Products**
 
-Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as amended by Pub. L. 88–550, Aug. 31, 1964, 78 Stat. 755; Pub. L. 97–98, title XII, § 1209, Dec. 22, 1981, 95 Stat. 1280; Pub. L. 106–387, § 1(a) [title VII, § 758], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided: “That at any time Commodity Credit Corporation has any grain available for donation pursuant to the Food for Progress Act of 1985 [7 U.S.C. 1736*o*], section 416 of the Agricultural Act of 1949, as amended [this section], section 210 of the Agricultural Act of 1956 [section 1859 of this title], or title II of the Food for Peace Act, as amended [sections 1721 to 1726 of this title], the Corporation, in lieu of processing all or any part of such grain into human food products, may purchase such processed food products in quantities not to exceed the equivalent of the respective grain available for donation on the date of such purchase and donate such processed food products pursuant to the Food for Progress Act of 1985, such section 416, and to such section 210, and make such processed food products available pursuant to such title II, and may sell, without regard to the provisions of section 407 of the Agricultural Act of 1949, as amended [section 1427 of this title], a quantity of the grain equivalent to the processed food products so purchased: *Provided*, That no food product purchased pursuant to the authority contained herein shall constitute less than 50 per centum by weight of the grain from which processed (except that this limitation does not apply in the case of the protein byproduct resulting from the production of fuel alcohol from agricultural commodities), or contain any additive other than for normal vitamin enrichment, preservative, and bleaching purposes.”
+Pub. L. 85–683, Aug. 19, 1958, 72 Stat. 635, as amended by Pub. L. 88–550, Aug. 31, 1964, 78 Stat. 755; Pub. L. 97–98, title XII, § 1209, Dec. 22, 1981, 95 Stat. 1280; Pub. L. 106–387, § 1(a) [title VII, § 758], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 110–246, title III, § 3001(c), June 18, 2008, 122 Stat. 1821, provided: “That at any time Commodity Credit Corporation has any grain available for donation pursuant to the Food for Progress Act of 1985 [7 U.S.C. 1736*o*], section 416 of the Agricultural Act of 1949, as amended [this section], section 210 of the Agricultural Act of 1956 [section 1859 of this title], or title II of the Food for Peace Act, as amended [sections 1721 to 1726 of this title], the Corporation, in lieu of processing all or any part of such grain into human food products, may purchase such processed food products in quantities not to exceed the equivalent of the respective grain available for donation on the date of such purchase and donate such processed food products pursuant to the Food for Progress Act of 1985, such section 416, and to such section 210, and make such processed food products available pursuant to such title II, and may sell, without regard to the provisions of section 407 of the Agricultural Act of 1949, as amended [section 1427 of this title], a quantity of the grain equivalent to the processed food products so purchased: *Provided*, That no food product purchased pursuant to the authority contained herein shall constitute less than 50 per centum by weight of the grain from which processed (except that this limitation does not apply in the case of the protein byproduct resulting from the production of fuel alcohol from agricultural commodities), or contain any additive other than for normal vitamin enrichment, preservative, and bleaching purposes.”
 
 **Irish Potatoes Acquired Under 1949 Price Support Program**
 
-Act Mar. 31, 1950, ch. 81, § 3, 64 Stat. 41, made Irish potatoes acquired under the 1949 price support program available to school-lunch programs, the Bureau of Indian Affairs, Federal, State, or local public welfare organizations, private or international nonprofit welfare organizations, penal institutions, and nonprofit hospitals.
+Act Mar. 31, 1950, ch. 81, § 3, 64 Stat. 41, made Irish potatoes acquired under the 1949 price support program available to school-lunch programs, the Bureau of Indian Affairs, Federal, State, or local public welfare organizations, private or international nonprofit welfare organizations, penal institutions, and nonprofit hospitals.
 
 **Bartering Authority of Secretary**
 
@@ -1629,13 +1629,13 @@ Bartering authority of Secretary of Agriculture, exchange of agricultural commod
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 1431a. Cotton donations to educational institutions
+### § 1431a. Cotton donations to educational institutions
 
 Commodity Credit Corporation is authorized, on such terms as the Secretary of Agriculture may approve, to donate cotton acquired through its price support operations to educational institutions for use in the training of students in the processing and manufacture of cotton into textiles.
 
-(Pub. L. 85–835, title V, § 505, Aug. 28, 1958, 72 Stat. 996.)
+(Pub. L. 85–835, title V, § 505, Aug. 28, 1958, 72 Stat. 996.)
 
 **Editorial Notes**
 
@@ -1643,11 +1643,11 @@ Commodity Credit Corporation is authorized, on such terms as the Secretary of Ag
 
 Section was enacted as part of the Agricultural Act of 1958, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-### § 1431b. Distribution of surplus commodities to other United States areas
+### § 1431b. Distribution of surplus commodities to other United States areas
 
 Notwithstanding any other provision of law those areas under the jurisdiction or administration of the United States are authorized to receive from the Department of Agriculture for distribution on the same basis as domestic distribution in any State, Territory, or possession of the United States, without exchange of funds, such surplus commodities as may be available pursuant to clause (2) of section 612c of this title and section 1431 of this title.
 
-(Pub. L. 85–931, § 9, Sept. 6, 1958, 72 Stat. 1792; Pub. L. 87–703, title II, § 204, Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, § 3(a), Nov. 11, 1966, 80 Stat. 1538.)
+(Pub. L. 85–931, § 9, Sept. 6, 1958, 72 Stat. 1792; Pub. L. 87–703, title II, § 204, Sept. 27, 1962, 76 Stat. 611; Pub. L. 89–808, § 3(a), Nov. 11, 1966, 80 Stat. 1538.)
 
 **Editorial Notes**
 
@@ -1665,29 +1665,29 @@ Section was not enacted as part of the Agricultural Act of 1949 which is classif
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–808, § 3(a), Nov. 11, 1966, 80 Stat. 1538, provided that the amendment made by section 3(a) is effective Jan. 1, 1967.
+Pub. L. 89–808, § 3(a), Nov. 11, 1966, 80 Stat. 1538, provided that the amendment made by section 3(a) is effective Jan. 1, 1967.
 
-### § 1431c. Enrichment and packaging of cornmeal, grits, rice, and white flour available for distribution
+### § 1431c. Enrichment and packaging of cornmeal, grits, rice, and white flour available for distribution
 
-**(a)** In order to insure the nutritional value of cornmeal, grits, rice, and white flour when such foods are made available for distribution under section 1431(3) 1
+**(a)** In order to insure the nutritional value of cornmeal, grits, rice, and white flour when such foods are made available for distribution under section 1431(3) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title or for distribution to schools under the Richard B. Russell National School Lunch Act [42 U.S.C. 1751 et seq.] or any other Act, such foods shall be enriched so as to meet the standards for enriched cornmeal, enriched corn grits, enriched rice, or enriched flour, as the case may be, prescribed in regulations promulgated under the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.]; and in order to protect the nutritional value and sanitary quality of such enriched foods during transportation and storage such foods shall be packaged in sanitary containers. For convenience and ease in handling, the weight of any sanitary container when filled shall not exceed fifty pounds unless a larger container is requested by the recipient agency. Nothing in this section shall prohibit the distribution of fortified parboiled rice which is substantially equal in nutritional value to that of enriched rice.
 
 **(b)** The term “sanitary container” means any container of such material and construction as (1) will not permit the infiltration of foreign matter into the contents of such container under ordinary conditions of shipping and handling, and (2) will not, for a period of at least one year, disintegrate so as to contaminate the contents of the container, necessitating the washing of the contents prior to use.
 
-(Pub. L. 86–341, title II, § 201, Sept. 21, 1959, 73 Stat. 610; Pub. L. 87–803, Oct. 11, 1962, 76 Stat. 910; Pub. L. 106–78, title VII, § 752(b)(3), Oct. 22, 1999, 113 Stat. 1169.)
+(Pub. L. 86–341, title II, § 201, Sept. 21, 1959, 73 Stat. 610; Pub. L. 87–803, Oct. 11, 1962, 76 Stat. 910; Pub. L. 106–78, title VII, § 752(b)(3), Oct. 22, 1999, 113 Stat. 1169.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1431(3) of this title, referred to in subsec. (a), was redesignated as section 1431(a)(3) of this title by Pub. L. 98–258, title V, § 502(1), Apr. 10, 1984, 98 Stat. 137.
+Section 1431(3) of this title, referred to in subsec. (a), was redesignated as section 1431(a)(3) of this title by Pub. L. 98–258, title V, § 502(1), Apr. 10, 1984, 98 Stat. 137.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (a), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (a), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 **Codification**
 
@@ -1699,23 +1699,23 @@ Section was not enacted as part of the Agricultural Act of 1949 which is classif
 
 1962—Subsec. (a). Pub. L. 87–803 inserted provisions requiring the enrichment of rice to meet the standards for enriched rice, empowered recipient agencies to request containers larger than 50 pounds, and provided that nothing in this section shall prohibit the distribution of fortified parboiled rice which is substantially equal in nutritional value to that of enriched rice.
 
-### § 1431d. Donations for school feeding programs abroad; student financing; priorities
+### § 1431d. Donations for school feeding programs abroad; student financing; priorities
 
 In any school feeding programs undertaken on and after September 27, 1962 outside the United States pursuant to section 1431 of this title, section 308 of Public Law 480 (83d Congress), as amended, and section 1431b of this title, the Secretary shall receive assurances satisfactory to him that, insofar as practicable, there will be student participation in the financing of such programs on the basis of ability to pay, and such programs shall be undertaken with the understanding that commodities will be available for those programs only in accordance with the provisions of such statutes and that commodities made available under section 1431 of this title will be available only in accordance with the priorities established in such section.
 
-(Pub. L. 87–703, title II, § 205, Sept. 27, 1962, 76 Stat. 611.)
+(Pub. L. 87–703, title II, § 205, Sept. 27, 1962, 76 Stat. 611.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 308 of Public Law 480 (83d Congress), referred to in text, which was classified to section 1697 of this title, was repealed by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
+Section 308 of Public Law 480 (83d Congress), referred to in text, which was classified to section 1697 of this title, was repealed by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
 
 **Codification**
 
 Section was enacted as part of the Food and Agriculture Act of 1962, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-### § 1431e. Distribution of surplus commodities to special nutrition projects; reprocessing agreements with private companies
+### § 1431e. Distribution of surplus commodities to special nutrition projects; reprocessing agreements with private companies
 
 **(1)** Notwithstanding any other provision of law, whenever Government stocks of commodities are acquired under the price support programs and are not likely to be sold by the Commodity Credit Corporation or otherwise used in programs of commodity sale or distribution, such commodities shall be made available without charge or credit to nutrition projects under the authority of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.), to child nutrition programs providing food service, and to food banks participating in the special nutrition projects established under section 4004 of this title. Such distribution may include bulk distribution to congregate nutrition sites and to providers of home delivered meals under the Older Americans Act of 1965. The Commodity Credit Corporation is authorized to use available funds to operate the program under this subsection and to further process products to facilitate bonus commodity use. Commodities made available under this section shall include, but not be limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal.
 
@@ -1725,21 +1725,21 @@ Section was enacted as part of the Food and Agriculture Act of 1962, and not as 
 
 **(B)** To maintain eligibility to enter into, and to continue, any agreement with the Secretary of Agriculture under subparagraph (A), a private company shall annually settle all accounts with the Secretary and any appropriate State agency regarding commodities processed under such agreements.
 
-**(C)** Whenever commodities are made available to agencies pursuant to section 311(a)(4) 1
+**(C)** Whenever commodities are made available to agencies pursuant to section 311(a)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Older Americans Act of 1965, the Secretary shall encourage access to processed end products containing the commodities when in the Secretary’s judgment it is cost effective. The requirements of this subparagraph shall be met in the most efficient and effective way possible. The Secretary may, among other alternatives, use direct purchase, State option contracts authorized under section 3A of the Commodity Distribution Reform Act and WIC Amendments of 1987 (Public Law 100–237; 7 U.S.C. 612c note), State processing programs, and (beginning in fiscal year 1994) agreements with private companies operated as a part of the national commodity processing program.
 
-**(D)** In each of fiscal years 1992, 1993, and 1994, the Secretary shall conduct a pilot project in not more than three States under which any commodity made available to agencies pursuant to section 311(a)(4) <sup>1</sup> of the Older Americans Act of 1965 that the Secretary determines to be appropriate for reprocessing is made available to the agencies as reprocessed end products. The reprocessing shall be performed pursuant to agreements with private companies, at the expense of the agencies, and operated as part of the national commodity processing program established under subparagraph (A). In determining the appropriateness of the commodities to be reprocessed under the pilot project, the Secretary shall consider the common needs of the agencies and the availability of processors.
+**(D)** In each of fiscal years 1992, 1993, and 1994, the Secretary shall conduct a pilot project in not more than three States under which any commodity made available to agencies pursuant to section 311(a)(4) <sup>1</sup> of the Older Americans Act of 1965 that the Secretary determines to be appropriate for reprocessing is made available to the agencies as reprocessed end products. The reprocessing shall be performed pursuant to agreements with private companies, at the expense of the agencies, and operated as part of the national commodity processing program established under subparagraph (A). In determining the appropriateness of the commodities to be reprocessed under the pilot project, the Secretary shall consider the common needs of the agencies and the availability of processors.
 
-(Pub. L. 97–98, title XI, § 1114(a), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 99–198, title XV, § 1567(a), (b), Dec. 23, 1985, 99 Stat. 1591, 1592; Pub. L. 100–237, § 6, Jan. 8, 1988, 101 Stat. 1740; Pub. L. 101–624, title XVII, § 1775, Nov. 28, 1990, 104 Stat. 3813; Pub. L. 102–237, title IX, § 921, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 104–127, title IV, § 405, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 107–171, title IV, § 4203, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, title IV, § 4406(b)(4), May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, § 4(a), title IV, § 4406(b)(4), June 18, 2008, 122 Stat. 1664, 1903; Pub. L. 113–79, title IV, § 4103, Feb. 7, 2014, 128 Stat. 820; Pub. L. 115–334, title IV, § 4103, Dec. 20, 2018, 132 Stat. 4655.)
+(Pub. L. 97–98, title XI, § 1114(a), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 99–198, title XV, § 1567(a), (b), Dec. 23, 1985, 99 Stat. 1591, 1592; Pub. L. 100–237, § 6, Jan. 8, 1988, 101 Stat. 1740; Pub. L. 101–624, title XVII, § 1775, Nov. 28, 1990, 104 Stat. 3813; Pub. L. 102–237, title IX, § 921, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 104–127, title IV, § 405, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 107–171, title IV, § 4203, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, title IV, § 4406(b)(4), May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, § 4(a), title IV, § 4406(b)(4), June 18, 2008, 122 Stat. 1664, 1903; Pub. L. 113–79, title IV, § 4103, Feb. 7, 2014, 128 Stat. 820; Pub. L. 115–334, title IV, § 4103, Dec. 20, 2018, 132 Stat. 4655.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Older Americans Act of 1965, referred to in text, is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Section 311 of the Act, which is classified to section 3030a of Title 42, was amended by Pub. L. 106–501, title III, § 309, Nov. 13, 2000, 114 Stat. 2246, and, as so amended, provisions which formerly appeared in subsec. (a)(4) were struck out. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in text, is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Section 311 of the Act, which is classified to section 3030a of Title 42, was amended by Pub. L. 106–501, title III, § 309, Nov. 13, 2000, 114 Stat. 2246, and, as so amended, provisions which formerly appeared in subsec. (a)(4) were struck out. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 **Codification**
 
@@ -1753,7 +1753,7 @@ Section was enacted as part of the Agriculture and Food Act of 1981, and not as 
 
 2014—Par. (2)(A). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Par. (2)(A). Pub. L. 110–246, § 4406(b)(4), substituted “For each of fiscal years 2008 through 2012” for “Effective through September 30, 2007”.
+2008—Par. (2)(A). Pub. L. 110–246, § 4406(b)(4), substituted “For each of fiscal years 2008 through 2012” for “Effective through September 30, 2007”.
 
 2002—Par. (2)(A). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -1761,9 +1761,9 @@ Section was enacted as part of the Agriculture and Food Act of 1981, and not as 
 
 1991—Par. (2)(D). Pub. L. 102–237 substituted “1992, 1993, and 1994” for “1992 and 1993”.
 
-1990—Par. (2)(A). Pub. L. 101–624, § 1775(a), substituted “1995” for “1990”.
+1990—Par. (2)(A). Pub. L. 101–624, § 1775(a), substituted “1995” for “1990”.
 
-Par. (2)(C), (D). Pub. L. 101–624, § 1775(b), added subpars. (C) and (D).
+Par. (2)(C), (D). Pub. L. 101–624, § 1775(b), added subpars. (C) and (D).
 
 1988—Par. (2)(A). Pub. L. 100–237 substituted “September 30, 1990” for “June 30, 1987”.
 
@@ -1791,9 +1791,9 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 **National Donated Commodity Processing Programs**
 
-Pub. L. 99–500, title III, § 364, Oct. 18, 1986, 100 Stat. 1783–368, and Pub. L. 99–591, title III, § 364, Oct. 30, 1986, 100 Stat. 3341–371; Pub. L. 99–661, div. D, title IV, § 4404, Nov. 14, 1986, 100 Stat. 4079, provided that: “In accordance with the terms and conditions of section 1114(a)(2) of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e(a)(2)), whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary of Agriculture, the Secretary shall encourage consumption of the commodity through agreements with private companies under which the commodity is reprocessed into end-food products for use by eligible recipient agencies.”
+Pub. L. 99–500, title III, § 364, Oct. 18, 1986, 100 Stat. 1783–368, and Pub. L. 99–591, title III, § 364, Oct. 30, 1986, 100 Stat. 3341–371; Pub. L. 99–661, div. D, title IV, § 4404, Nov. 14, 1986, 100 Stat. 4079, provided that: “In accordance with the terms and conditions of section 1114(a)(2) of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e(a)(2)), whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary of Agriculture, the Secretary shall encourage consumption of the commodity through agreements with private companies under which the commodity is reprocessed into end-food products for use by eligible recipient agencies.”
 
-### § 1431f. Assistance to foreign countries to mitigate effects of HIV and AIDS
+### § 1431f. Assistance to foreign countries to mitigate effects of HIV and AIDS
 
 On and after November 10, 2005, of any shipments of commodities made pursuant to section 1431(b) of this title, the Secretary of Agriculture shall, to the extent practicable, direct that tonnage equal in value to not more than $25,000,000 shall be made available to foreign countries to assist in mitigating the effects of the Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome on communities, including the provision of—
 
@@ -1805,7 +1805,7 @@ On and after November 10, 2005, of any shipments of commodities made pursuant to
 
 **(2)** agricultural commodities monetized to provide other assistance (including assistance under microcredit and microenterprise programs) to create or restore sustainable livelihoods among individuals in the communities, particularly individuals caring for orphaned children.
 
-(Pub. L. 109–97, title VII, § 725, Nov. 10, 2005, 119 Stat. 2153.)
+(Pub. L. 109–97, title VII, § 725, Nov. 10, 2005, 119 Stat. 2153.)
 
 **Editorial Notes**
 
@@ -1817,27 +1817,27 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 108–447, div. A, title VII, § 728, Dec. 8, 2004, 118 Stat. 2843.
+Pub. L. 108–447, div. A, title VII, § 728, Dec. 8, 2004, 118 Stat. 2843.
 
-Pub. L. 108–199, div. A, title VII, § 725, Jan. 23, 2004, 118 Stat. 34.
+Pub. L. 108–199, div. A, title VII, § 725, Jan. 23, 2004, 118 Stat. 34.
 
-Pub. L. 108–7, div. A, title VII, § 725, Feb. 20, 2003, 117 Stat. 42.
+Pub. L. 108–7, div. A, title VII, § 725, Feb. 20, 2003, 117 Stat. 42.
 
-Pub. L. 107—76, title VII, § 727, Nov. 28, 2001, 115 Stat. 735.
+Pub. L. 107—76, title VII, § 727, Nov. 28, 2001, 115 Stat. 735.
 
-Pub. L. 106—387, § 1(a) [title VII, § 743], Oct. 28, 2000, 114 Stat. 1549, 1549A–35.
+Pub. L. 106—387, § 1(a) [title VII, § 743], Oct. 28, 2000, 114 Stat. 1549, 1549A–35.
 
-### § 1432. Extension of price support on long staple cotton seeds and products
+### § 1432. Extension of price support on long staple cotton seeds and products
 
 Any price support program in effect on cottonseed or any of its products shall be extended to the same seed and products of the cottons defined under section 1347(a) of this title.
 
-(Oct. 31, 1949, ch. 792, title IV, § 420, as added July 17, 1952, ch. 933, § 3(2), 66 Stat. 759.)
+(Oct. 31, 1949, ch. 792, title IV, § 420, as added July 17, 1952, ch. 933, § 3(2), 66 Stat. 759.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1347 of this title, referred to in text, was repealed by Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494.
+Section 1347 of this title, referred to in text, was repealed by Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1851,9 +1851,9 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
-### § 1433. Repealed. Pub. L. 100–387, title I, § 101(b)(3), Aug. 11, 1988, 102 Stat. 931
+### § 1433. Repealed. Pub. L. 100–387, title I, § 101(b)(3), Aug. 11, 1988, 102 Stat. 931
 
-Section, act Oct. 31, 1949, ch. 792, title IV, § 421, as added Sept. 11, 1964, Pub. L. 88–585, § 2, 78 Stat. 927, related to penalties for misuse of feed intended to relieve distress or preserve foundation herds. See section 1471j of this title.
+Section, act Oct. 31, 1949, ch. 792, title IV, § 421, as added Sept. 11, 1964, Pub. L. 88–585, § 2, 78 Stat. 927, related to penalties for misuse of feed intended to relieve distress or preserve foundation herds. See section 1471j of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1861,11 +1861,11 @@ Section, act Oct. 31, 1949, ch. 792, title IV, § 421, as added Sept. 11, 1964
 
 Repeal effective 15 days after Aug. 11, 1988, see section 101(c)(1) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
 
-### § 1433a. Forgiveness of violations; determinations
+### § 1433a. Forgiveness of violations; determinations
 
 Notwithstanding any other provision of law, whenever a producer samples, turns, moves, or replaces grain or any other commodity which is security for a Commodity Credit Corporation producer loan or is held under a producer reserve program, and does so in violation of law or regulation, the appropriate county committee established under section 590h(b) of title 16 may forgive some or all of the penalties and requirements that would normally be imposed on the producer by reason of the violation, if such committee determines that (1) the violation occurred inadvertently or accidentally, because of lack of knowledge or understanding of the law or regulation, or because the producer or the producer’s agent acted to prevent spoilage of the commodity, and (2) the violation did not result in harm or damage to the rights or interests of any person. The county committee shall furnish a copy of its determination to the Administrator of the Agricultural Stabilization and Conservation Service and the appropriate State committee established under section 590h(b) of title 16. The determination may be disapproved by either the Administrator or the State committee within sixty days after receipt of a copy of the determination. Any determination not disapproved by the Administrator or such State committee within such sixty-day period shall be considered approved.
 
-(Oct. 31, 1949, ch. 792, title IV, § 422, as added Pub. L. 97–98, title X, § 1002, Dec. 22, 1981, 95 Stat. 1260.)
+(Oct. 31, 1949, ch. 792, title IV, § 422, as added Pub. L. 97–98, title X, § 1002, Dec. 22, 1981, 95 Stat. 1260.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1883,13 +1883,13 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
-### § 1433b. Processing of surplus agricultural commodities into liquid fuels and agricultural commodity byproducts
+### § 1433b. Processing of surplus agricultural commodities into liquid fuels and agricultural commodity byproducts
 
 **(a) Authority of Commodity Credit Corporation; terms and conditions established by Secretary; fuel prices**
 
-Notwithstanding any other provision of law, in order to prevent the accumulation of excessive stocks of agricultural commodities through the price support and stabilization operations of the Commodity Credit Corporation 1
+Notwithstanding any other provision of law, in order to prevent the accumulation of excessive stocks of agricultural commodities through the price support and stabilization operations of the Commodity Credit Corporation 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 the Corporation may, under terms and conditions established by the Secretary, make its accumulated stocks of agricultural commodities available, at no cost or reduced cost, to encourage the purchase of such commodities for the production of liquid fuels and agricultural commodity byproducts. In carrying out the program established by this section, the Secretary shall ensure, insofar as possible, that any use of agricultural commodities made available be made in such manner as to encourage increased use and avoid displacing usual marketings of agricultural commodities.
 
@@ -1897,7 +1897,7 @@ the Corporation may, under terms and conditions established by the Secretary, ma
 
 In determining the feasibility of providing for the processing of Commodity Credit Corporation stocks of commodities under subsection (a), the Secretary shall consider the nature of the commodities, and the acquisition, transportation, handling, storage, interest, and other costs associated with acquiring and maintaining such stocks, including the effect of such stocks in depressing commodity prices, as well as the value and utility of such stocks when processed into liquid fuels and agricultural commodity byproducts.
 
-(Oct. 31, 1949, ch. 792, title IV, § 423, as added Pub. L. 97–358, § 2, Oct. 21, 1982, 96 Stat. 1714; amended Pub. L. 99–198, title X, § 1024, Dec. 23, 1985, 99 Stat. 1460.)
+(Oct. 31, 1949, ch. 792, title IV, § 423, as added Pub. L. 97–358, § 2, Oct. 21, 1982, 96 Stat. 1714; amended Pub. L. 99–198, title X, § 1024, Dec. 23, 1985, 99 Stat. 1460.)
 
 **Editorial Notes**
 
@@ -1921,23 +1921,23 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
-### § 1433c. Advance recourse commodity loans
+### § 1433c. Advance recourse commodity loans
 
 Notwithstanding any other provision of this Act, the Secretary may make advance recourse loans available to producers of the commodities of the 1986 through 1990 crops for which nonrecourse loans are made available under this Act if the Secretary finds that such action is necessary to ensure that adequate operating credit is available to producers. Such recourse loans may be made available under such reasonable terms and conditions as the Secretary may prescribe, except that the Secretary shall require that a producer obtain crop insurance for the crop as a condition of eligibility for a loan.
 
-(Oct. 31, 1949, ch. 792, title IV, § 424, as added Pub. L. 99–198, title X, § 1003, Dec. 23, 1985, 99 Stat. 1447.)
+(Oct. 31, 1949, ch. 792, title IV, § 424, as added Pub. L. 99–198, title X, § 1003, Dec. 23, 1985, 99 Stat. 1447.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates**
 
-Pub. L. 99–198, title X, § 1003, Dec. 23, 1985, 99 Stat. 1447, provided that this section is effective for the 1986 through 1990 crops.
+Pub. L. 99–198, title X, § 1003, Dec. 23, 1985, 99 Stat. 1447, provided that this section is effective for the 1986 through 1990 crops.
 
 **Inapplicability of Section**
 
@@ -1949,7 +1949,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
-### § 1433c–1. Advance recourse loans
+### § 1433c–1. Advance recourse loans
 
 **(a) Availability; due date; procedures for repayment; applicability; security; limitation** It is the sense of Congress that the Secretary of Agriculture carry out a program authorized by section 424 of the Agricultural Act of 1949 [7 U.S.C. 1433c]. Such program, if implemented, shall provide for the following:
 
@@ -1993,13 +1993,13 @@ The Secretary shall carry out the program provided for under section 424 [7 U.S.
 
 It is further the sense of Congress that the Secretary of Agriculture issue or, as appropriate, amend regulations to implement any program established under section 424 [7 U.S.C. 1433c] as soon as practicable, but not later than 15 days after March 20, 1986. Loans and other assistance provided under such program shall be made available beginning on the date such regulations are issued or amended.
 
-(Pub. L. 99–260, § 13, Mar. 20, 1986, 100 Stat. 53; Pub. L. 108–357, title VI, § 611(q), Oct. 22, 2004, 118 Stat. 1523.)
+(Pub. L. 99–260, § 13, Mar. 20, 1986, 100 Stat. 53; Pub. L. 108–357, title VI, § 611(q), Oct. 22, 2004, 118 Stat. 1523.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Codification**
 
@@ -2019,33 +2019,33 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 Amendment by sections 611 to 614 of Pub. L. 108–357 not to affect the liability of any person under any provision of law so amended with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
-### § 1433d. Omitted
+### § 1433d. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 31, 1949, ch. 792, title IV, § 425, as added Dec. 19, 1989, Pub. L. 101–239, title I, § 1003(a), 103 Stat. 2108, related to reduction of deficiency payments. See Effective and Termination Dates note below.
+Section, act Oct. 31, 1949, ch. 792, title IV, § 425, as added Dec. 19, 1989, Pub. L. 101–239, title I, § 1003(a), 103 Stat. 2108, related to reduction of deficiency payments. See Effective and Termination Dates note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates**
 
-Pub. L. 101–239, title I, § 1003(a), Dec. 19, 1989, 103 Stat. 2108, provided that this section is effective only for the 1990 crops.
+Pub. L. 101–239, title I, § 1003(a), Dec. 19, 1989, 103 Stat. 2108, provided that this section is effective only for the 1990 crops.
 
-### § 1433e. Repealed. Pub. L. 103–354, title II, § 281(b), Oct. 13, 1994, 108 Stat. 3233
+### § 1433e. Repealed. Pub. L. 103–354, title II, § 281(b), Oct. 13, 1994, 108 Stat. 3233
 
-Section, act Oct. 31, 1949, ch. 792, title IV, § 426, as added Nov. 28, 1990, Pub. L. 101–624, title XI, § 1132(a), 104 Stat. 3512; amended Dec. 13, 1991, Pub. L. 102–237, title I, § 113(12), 105 Stat. 1838, related to appeals from determinations by State and county committees under Agricultural Act of 1949 and other Acts administered by Agricultural Stabilization and Conservation Service. See section 6991 et seq. of this title.
+Section, act Oct. 31, 1949, ch. 792, title IV, § 426, as added Nov. 28, 1990, Pub. L. 101–624, title XI, § 1132(a), 104 Stat. 3512; amended Dec. 13, 1991, Pub. L. 102–237, title I, § 113(12), 105 Stat. 1838, related to appeals from determinations by State and county committees under Agricultural Act of 1949 and other Acts administered by Agricultural Stabilization and Conservation Service. See section 6991 et seq. of this title.
 
-### § 1433f. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(I), Apr. 4, 1996, 110 Stat. 938
+### § 1433f. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(I), Apr. 4, 1996, 110 Stat. 938
 
-Section, act Oct. 31, 1949, ch. 792, title IV, § 427, as added Oct. 13, 1994, Pub. L. 103–354, title I, § 119(a)(1), 108 Stat. 3207, required producer to obtain at least catastrophic risk protection insurance coverage as condition of receiving any benefit (including payments) for each of 1995 and subsequent crops of tobacco, rice, extra long staple cotton, upland cotton, feed grains, wheat, peanuts, oilseeds, and sugar.
+Section, act Oct. 31, 1949, ch. 792, title IV, § 427, as added Oct. 13, 1994, Pub. L. 103–354, title I, § 119(a)(1), 108 Stat. 3207, required producer to obtain at least catastrophic risk protection insurance coverage as condition of receiving any benefit (including payments) for each of 1995 and subsequent crops of tobacco, rice, extra long staple cotton, upland cotton, feed grains, wheat, peanuts, oilseeds, and sugar.
 
-### § 1434. Encouragement of production of crops of which United States is a net importer and for which price support programs are not in effect; authority to plant on set-aside acreage with no reduction in payment rate
+### § 1434. Encouragement of production of crops of which United States is a net importer and for which price support programs are not in effect; authority to plant on set-aside acreage with no reduction in payment rate
 
 Notwithstanding any other provisions of this Act, the Secretary shall encourage the production of any crop of which the United States is a net importer and for which a price support program is not in effect by permitting the planting of such crop on set-aside acreage and with no reduction in the rate of payment for the commodity.
 
-(Pub. L. 91–524, title VIII, § 814, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 240.)
+(Pub. L. 91–524, title VIII, § 814, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 240.)
 
 **Editorial Notes**
 
@@ -2057,7 +2057,7 @@ This Act, referred to in text, is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358
 
 Section was enacted as part of the Agricultural Act of 1970 as added by the Agriculture and Consumer Protection Act of 1973, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-### § 1435. Production of commodities for conversion into alcohol or hydrocarbons for use as motor fuels or other fuels; terms and conditions; determinations; payments, etc., for program
+### § 1435. Production of commodities for conversion into alcohol or hydrocarbons for use as motor fuels or other fuels; terms and conditions; determinations; payments, etc., for program
 
 **(a)** The Secretary of Agriculture shall permit, subject to such terms and conditions as the Secretary shall prescribe, all or any part of the acreage set aside or diverted under the Agricultural Act of 1949 [7 U.S.C. 1421 et seq.] from the production of a commodity for any crop year to be devoted to the production of any commodity for conversion into alcohol or hydrocarbons for use as motor fuel or other fuel, if the Secretary of Agriculture determines that such production is desirable in order to provide an adequate supply of commodities for such conversion, is not likely to increase the cost of price support programs, and will not adversely affect farm income.
 
@@ -2071,19 +2071,19 @@ Section was enacted as part of the Agricultural Act of 1970 as added by the Agri
 
 **(4)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subsection.
 
-(Pub. L. 95–113, title XX, § 2001, as added Pub. L. 96–294, title II, § 260(a), June 30, 1980, 94 Stat. 709.)
+(Pub. L. 95–113, title XX, § 2001, as added Pub. L. 96–294, title II, § 260(a), June 30, 1980, 94 Stat. 709.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in subsecs. (a) and (b)(1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsecs. (a) and (b)(1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Food and Agriculture Act of 1977 as added by the Biomass Energy and Alcohol Fuels Act of 1980 which is title II of the Energy and Security Act, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-### § 1436. Reimbursement of appropriations available for classing or grading agriculture commodities without charge
+### § 1436. Reimbursement of appropriations available for classing or grading agriculture commodities without charge
 
 On and after June 29, 1949, appropriations available for classing or grading any agricultural commodity without charge to the producers thereof may be reimbursed from nonadministrative funds of the Commodity Credit Corporation for the cost of classing or grading any such commodity for producers who obtain Commodity Credit Corporation price support.
 
@@ -2101,9 +2101,9 @@ Section was enacted as part of the Department of Agriculture Appropriation Act, 
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of the said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of the said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 1436a. Transfer of nonadministrative funds of Commodity Credit Corporation for classing and grading purposes
+### § 1436a. Transfer of nonadministrative funds of Commodity Credit Corporation for classing and grading purposes
 
 On and after August 31, 1951, there may be transferred to appropriations available for classing or grading any agricultural commodity without charge to the producers thereof such sums from nonadministrative funds of the Commodity Credit Corporation as may be necessary in addition to other funds available for these purposes, such transfers to be reimbursed from subsequent appropriations therefor.
 
@@ -2119,7 +2119,7 @@ Section was enacted as part of the Department of Agriculture Appropriation Act, 
 
 ## SUBCHAPTER II—BASIC AGRICULTURAL COMMODITIES
 
-### § 1441. Price support levels
+### § 1441. Price support levels
 
 The Secretary of Agriculture (hereinafter called the “Secretary”) is authorized and directed to make available through loans, purchases, or other operations, price support to cooperators for any crop of any basic agricultural commodity, if producers have not disapproved marketing quotas for such crop, at a level not in excess of 90 per centum of the parity price of the commodity nor less than the level provided in subsections (a), (b), and (c) as follows:
 
@@ -2171,43 +2171,43 @@ For rice of the 1959 and 1960 crops, the level of support shall be not less than
 
 **(3)** the level of price support to cooperators for any crop of a basic agricultural commodity for which marketing quotas have been disapproved by producers shall be 50 per centum of the parity price of such commodity;
 
-**(4)** Repealed. Oct. 31, 1949, ch. 792, title I, § 104(b)(3), as added Aug. 28, 1958, Pub. L. 85–835, title II, § 201, 72 Stat. 994;
+**(4)** Repealed. Oct. 31, 1949, ch. 792, title I, § 104(b)(3), as added Aug. 28, 1958, Pub. L. 85–835, title II, § 201, 72 Stat. 994;
 
 **(5)** price support may be made available to noncooperators at such levels, not in excess of the level of price support to cooperators, as the Secretary determines will facilitate the effective operation of the program.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
-**(6)** Except 2
+**(6)** Except 2
 
-<sup>2</sup>  So in original. Probably should not be capitalized.
+<sup>2</sup> So in original. Probably should not be capitalized.
 
 as provided in subsection (c) and section 1422 of this title, the level of support to cooperators shall be not more than 90 per centum and not less than 82½ per centum of the parity price for the 1955 crop of any basic agricultural commodity with respect to which producers have not disapproved marketing quotas; within such limits, the minimum level of support shall be fixed as provided in subsections (a) and (b) of this section.<sup>1</sup>
 
-**(7)** Where <sup>2</sup> a State is designated under section 1335(e) of this title, as outside the commercial wheat-producing area for any crop of wheat, the level of price support for wheat to cooperators in such State for such crop of wheat shall be 75 per centum of the level of price support to cooperators in the commercial wheat-producing area.
+**(7)** Where <sup>2</sup> a State is designated under section 1335(e) of this title, as outside the commercial wheat-producing area for any crop of wheat, the level of price support for wheat to cooperators in such State for such crop of wheat shall be 75 per centum of the level of price support to cooperators in the commercial wheat-producing area.
 
 **(d) Rice.—** The Secretary shall make available to producers of each crop of rice on a farm price support at a level that is not less than 50 percent, or more than 90 percent of the parity price for rice as the Secretary determines will not result in increasing stocks of rice to the Commodity Credit Corporation.
 
-(Oct. 31, 1949, ch. 792, title I, §§ 101, 104(b)(3), 63 Stat. 1051; July 17, 1952, ch. 933, §§ 2, 3(1), 66 Stat. 759; Aug. 28, 1954, ch. 1041, title II, §§ 201, 202, 68 Stat. 899; Pub. L. 85–28, Apr. 25, 1957, 71 Stat. 27; Pub. L. 85–497, July 2, 1958, 72 Stat. 296; Pub. L. 85–835, title II, § 201, title III, § 302(a), Aug. 28, 1958, 72 Stat. 993, 994; Pub. L. 86–389, § 2, Feb. 20, 1960, 74 Stat. 7; Pub. L. 90–475, § 5, Aug. 11, 1968, 82 Stat. 702; Pub. L. 94–214, title I, § 102, Feb. 16, 1976, 90 Stat. 183; Pub. L. 95–113, title VI, § 607, title VII, § 702, Sept. 29, 1977, 91 Stat. 940; Pub. L. 96–176, Dec. 31, 1979, 93 Stat. 1290; Pub. L. 96–213, § 4(a), Mar. 18, 1980, 94 Stat. 119; Pub. L. 96–365, title II, § 201(a), Sept. 26, 1980, 94 Stat. 1319; Pub. L. 97–98, title V, § 508, title VI, § 602, Dec. 22, 1981, 95 Stat. 1242; Pub. L. 97–253, title I, § 125, Sept. 8, 1982, 96 Stat. 771; Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494; Pub. L. 98–258, title IV, §§ 401, 402, Apr. 10, 1984, 98 Stat. 135; Pub. L. 99–198, title VI, § 602, Dec. 23, 1985, 99 Stat. 1427; Pub. L. 104–127, title I, § 171(b)(3), Apr. 4, 1996, 110 Stat. 938; Pub. L. 107–171, title I, § 1310(a)(2)(A), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, § 612(b), Oct. 22, 2004, 118 Stat. 1523.)
+(Oct. 31, 1949, ch. 792, title I, §§ 101, 104(b)(3), 63 Stat. 1051; July 17, 1952, ch. 933, §§ 2, 3(1), 66 Stat. 759; Aug. 28, 1954, ch. 1041, title II, §§ 201, 202, 68 Stat. 899; Pub. L. 85–28, Apr. 25, 1957, 71 Stat. 27; Pub. L. 85–497, July 2, 1958, 72 Stat. 296; Pub. L. 85–835, title II, § 201, title III, § 302(a), Aug. 28, 1958, 72 Stat. 993, 994; Pub. L. 86–389, § 2, Feb. 20, 1960, 74 Stat. 7; Pub. L. 90–475, § 5, Aug. 11, 1968, 82 Stat. 702; Pub. L. 94–214, title I, § 102, Feb. 16, 1976, 90 Stat. 183; Pub. L. 95–113, title VI, § 607, title VII, § 702, Sept. 29, 1977, 91 Stat. 940; Pub. L. 96–176, Dec. 31, 1979, 93 Stat. 1290; Pub. L. 96–213, § 4(a), Mar. 18, 1980, 94 Stat. 119; Pub. L. 96–365, title II, § 201(a), Sept. 26, 1980, 94 Stat. 1319; Pub. L. 97–98, title V, § 508, title VI, § 602, Dec. 22, 1981, 95 Stat. 1242; Pub. L. 97–253, title I, § 125, Sept. 8, 1982, 96 Stat. 771; Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494; Pub. L. 98–258, title IV, §§ 401, 402, Apr. 10, 1984, 98 Stat. 135; Pub. L. 99–198, title VI, § 602, Dec. 23, 1985, 99 Stat. 1427; Pub. L. 104–127, title I, § 171(b)(3), Apr. 4, 1996, 110 Stat. 938; Pub. L. 107–171, title I, § 1310(a)(2)(A), May 13, 2002, 116 Stat. 182; Pub. L. 108–357, title VI, § 612(b), Oct. 22, 2004, 118 Stat. 1523.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsec. (e) of section 1335 of this title, referred to in subsec. (c)(7), was eliminated and other provisions substituted by Pub. L. 87–703, title III, § 315, Sept. 27, 1962, 76 Stat. 621.
+Subsec. (e) of section 1335 of this title, referred to in subsec. (c)(7), was eliminated and other provisions substituted by Pub. L. 87–703, title III, § 315, Sept. 27, 1962, 76 Stat. 621.
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–357, § 612(b)(1), substituted “corn” for “tobacco (except as otherwise provided herein), corn,” in first sentence.
+2004—Subsec. (a). Pub. L. 108–357, § 612(b)(1), substituted “corn” for “tobacco (except as otherwise provided herein), corn,” in first sentence.
 
-Subsec. (c). Pub. L. 108–357, § 612(b)(2), (4), redesignated subsec. (d) as (c) and struck out former subsec. (c), which related to level of support for tobacco if marketing quotas are in effect.
+Subsec. (c). Pub. L. 108–357, § 612(b)(2), (4), redesignated subsec. (d) as (c) and struck out former subsec. (c), which related to level of support for tobacco if marketing quotas are in effect.
 
-Subsec. (d). Pub. L. 108–357, § 612(b)(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 108–357, § 612(b)(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(3). Pub. L. 108–357, § 612(b)(3), struck out “, except tobacco,” after “agricultural commodity” and “and no price support shall be made available for any crop of tobacco for which marketing quotas have been disapproved by producers;” at end.
+Subsec. (d)(3). Pub. L. 108–357, § 612(b)(3), struck out “, except tobacco,” after “agricultural commodity” and “and no price support shall be made available for any crop of tobacco for which marketing quotas have been disapproved by producers;” at end.
 
-Subsec. (e). Pub. L. 108–357, § 612(b)(4), redesignated subsec. (e) as (d).
+Subsec. (e). Pub. L. 108–357, § 612(b)(4), redesignated subsec. (e) as (d).
 
-Subsecs. (g) to (i). Pub. L. 108–357, § 612(b)(2), directed the repeal of subsecs. (g) to (i), which related to temporary programs for 1976 and 1977 crops of rice, 1978 through 1981 crops of rice, and 1982 through 1985 crops of rice, respectively. See 1976, 1977, and 1981 Amendment notes below.
+Subsecs. (g) to (i). Pub. L. 108–357, § 612(b)(2), directed the repeal of subsecs. (g) to (i), which related to temporary programs for 1976 and 1977 crops of rice, 1978 through 1981 crops of rice, and 1982 through 1985 crops of rice, respectively. See 1976, 1977, and 1981 Amendment notes below.
 
 2002—Subsec. (b). Pub. L. 107–171 struck out “and peanuts” after “cotton”.
 
@@ -2215,47 +2215,47 @@ Subsecs. (g) to (i). Pub. L. 108–357, § 612(b)(2), directed the repeal of s
 
 1985—Subsec. (i)(1). Pub. L. 99–198 temporarily redesignated existing provisions as subpar. (A) and added subpars. (B) to (D). See Effective and Termination Dates of 1985 Amendment note below.
 
-1984—Subsec. (i)(2)(C). Pub. L. 98–258, § 401, substituted “and $11.90 per hundredweight for the 1984 and 1985 crops” for “$11.90 per hundredweight for the 1984 crop, and $12.40 per hundredweight for the 1985 crop”.
+1984—Subsec. (i)(2)(C). Pub. L. 98–258, § 401, substituted “and $11.90 per hundredweight for the 1984 and 1985 crops” for “$11.90 per hundredweight for the 1984 crop, and $12.40 per hundredweight for the 1985 crop”.
 
-Subsec. (i)(5)(A). Pub. L. 98–258, § 402(1), substituted “third, fourth, and fifth” for “third and fourth” after “Notwithstanding any other provision of law, except as provided in the”.
+Subsec. (i)(5)(A). Pub. L. 98–258, § 402(1), substituted “third, fourth, and fifth” for “third and fourth” after “Notwithstanding any other provision of law, except as provided in the”.
 
-Pub. L. 98–258, § 402(2), inserted sentence providing: “For the 1985 crop of rice, if the Secretary estimates that the quantity of rice on hand in the United States on July 31, 1985 (not including any quantity of rice produced in the United States during calendar year 1985), will exceed twenty-five million hundredweight, the Secretary shall provide for a combination of an acreage limitation program as described under this subparagraph and a land diversion program as described under subparagraph (B) under which the acreage planted to rice for harvest on the farm would be limited to the acreage base for the farm reduced by a total of not less than 25 per centum, consisting of a reduction of 20 per centum under the acreage limitation program and a reduction under the land diversion program equal to the difference between the total reduction for the farm and the 20 per centum reduction under the acreage limitation program.”
+Pub. L. 98–258, § 402(2), inserted sentence providing: “For the 1985 crop of rice, if the Secretary estimates that the quantity of rice on hand in the United States on July 31, 1985 (not including any quantity of rice produced in the United States during calendar year 1985), will exceed twenty-five million hundredweight, the Secretary shall provide for a combination of an acreage limitation program as described under this subparagraph and a land diversion program as described under subparagraph (B) under which the acreage planted to rice for harvest on the farm would be limited to the acreage base for the farm reduced by a total of not less than 25 per centum, consisting of a reduction of 20 per centum under the acreage limitation program and a reduction under the land diversion program equal to the difference between the total reduction for the farm and the 20 per centum reduction under the acreage limitation program.”
 
-Pub. L. 98–258, § 402(3), substituted “1983 and 1985 crops of rice” for “1983 crop of rice” after “As a condition of eligibility for loans, purchases, and payments on the”.
+Pub. L. 98–258, § 402(3), substituted “1983 and 1985 crops of rice” for “1983 crop of rice” after “As a condition of eligibility for loans, purchases, and payments on the”.
 
-Subsec. (i)(5)(B). Pub. L. 98–258, § 402(4), inserted sentence providing that if the Secretary implements a land diversion program for the 1985 crop of rice under the provisions of subparagraph (A), the Secretary shall make crop retirement and conservation payments to any producer of the 1985 crop of rice whose acreage planted to rice for harvest on the farm is reduced so that it does not exceed the rice acreage base for the farm less an amount equivalent to the percentage of the acreage base specified by the Secretary, but not less than 5 per centum, in addition to the reduction required under the acreage limitation program under subparagraph (A), and who devotes to approved conservation uses an acreage of cropland equivalent to the reduction required from the rice acreage base under this subparagraph.
+Subsec. (i)(5)(B). Pub. L. 98–258, § 402(4), inserted sentence providing that if the Secretary implements a land diversion program for the 1985 crop of rice under the provisions of subparagraph (A), the Secretary shall make crop retirement and conservation payments to any producer of the 1985 crop of rice whose acreage planted to rice for harvest on the farm is reduced so that it does not exceed the rice acreage base for the farm less an amount equivalent to the percentage of the acreage base specified by the Secretary, but not less than 5 per centum, in addition to the reduction required under the acreage limitation program under subparagraph (A), and who devotes to approved conservation uses an acreage of cropland equivalent to the reduction required from the rice acreage base under this subparagraph.
 
-Pub. L. 98–258, § 402(5), substituted “Diversion payments made to producers under this subparagraph shall be made in an amount computed by multiplying” for “Such payments shall be made in an amount computed by multiplying”.
+Pub. L. 98–258, § 402(5), substituted “Diversion payments made to producers under this subparagraph shall be made in an amount computed by multiplying” for “Such payments shall be made in an amount computed by multiplying”.
 
-Pub. L. 98–258, § 402(6), substituted “$3.00 per hundredweight for the 1983 crop of rice, except that the rate may be reduced up to 10 per centum if the Secretary determines that the same program objective could be achieved with the lower rate, and at not less than $2.70 per hundredweight for the 1985 crop of rice” for “$3.00 per hundredweight, except that the rate may be reduced up to 10 per centum if the Secretary determines that the same program objective could be achieved with the lower rate” after “The diversion payment rate shall be established by the Secretary at not less than” and inserted a proviso that if the Secretary estimates that the quantity of rice on hand in the United States on July 31, 1985 (not including any quantity of rice produced in the United States during calendar year 1985), will exceed (I) thirty-five million hundredweight, such rate shall be established by the Secretary at not less than $3.25 per hundredweight, and (II) forty-two million five hundred thousand hundredweight, such rate shall be established by the Secretary at not less than $3.50 per hundredweight.
+Pub. L. 98–258, § 402(6), substituted “$3.00 per hundredweight for the 1983 crop of rice, except that the rate may be reduced up to 10 per centum if the Secretary determines that the same program objective could be achieved with the lower rate, and at not less than $2.70 per hundredweight for the 1985 crop of rice” for “$3.00 per hundredweight, except that the rate may be reduced up to 10 per centum if the Secretary determines that the same program objective could be achieved with the lower rate” after “The diversion payment rate shall be established by the Secretary at not less than” and inserted a proviso that if the Secretary estimates that the quantity of rice on hand in the United States on July 31, 1985 (not including any quantity of rice produced in the United States during calendar year 1985), will exceed (I) thirty-five million hundredweight, such rate shall be established by the Secretary at not less than $3.25 per hundredweight, and (II) forty-two million five hundred thousand hundredweight, such rate shall be established by the Secretary at not less than $3.50 per hundredweight.
 
-Pub. L. 98–258, § 402(7), substituted “1983 and 1985 crops” for “1983 crop” after “The Secretary shall make not less than 50 per centum of any payments under this subparagraph to producers of the”.
+Pub. L. 98–258, § 402(7), substituted “1983 and 1985 crops” for “1983 crop” after “The Secretary shall make not less than 50 per centum of any payments under this subparagraph to producers of the”.
 
 1983—Subsec. (f). Pub. L. 98–88 struck out subsec. (f) which read as follows: “The provisions of this Act relating to price support for cotton shall apply severally to (1) American upland cotton and (2) extra long staple cotton described in subsection (a) of this section and ginned as required by subsection (e) of section 1347 of this title, except that, notwithstanding any other provision of this Act, price support shall be made available for the 1982 and each subsequent crop of extra long staple cotton through nonrecourse loans as provided in this subsection. If producers have not disapproved marketing quotas for any crop of extra long staple cotton, price support loans shall be made available to cooperators for such crop at a level which is not less than 75 per centum or more than 125 per centum in excess of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton (micronaire 3.5 through 4.9) of such crop at average location in the United States. If producers have disapproved marketing quotas for any crop of extra long staple cotton, price support loans shall be made available to cooperators for such crop at a level which shall be 50 per centum in excess of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton (micronaire 3.5 through 4.9) of such crop at average location in the United States. Nothing contained herein shall affect the authority of the Secretary to make price support available for extra long staple cotton in accordance with section 1422 of this title.” See section 1444(h) of this title.
 
-1982—Subsec. (i)(5)(A). Pub. L. 97–253, § 125(1)–(3), substituted “Notwithstanding any other provision of law, except as provided in the third and fourth sentences of this paragraph, the” for “Notwithstanding any other provision of this subsection, the”, following second sentence, inserted provision that for the 1983 crop of rice, the Secretary shall provide for a combination of (i) an acreage limitation program as described under this subparagraph and (ii) a diversion program as described under subpar. (B) under which the acreage planted to rice for harvest on the farm would be limited to the acreage base for the farm reduced by a total of 20 per centum, consisting of a reduction of 15 per centum under the acreage limitation program and a reduction of 5 per centum under the diversion program, and that as a condition of eligibility for loans, purchases, and payments on the 1983 crop of rice, the producers on a farm must comply with the terms and conditions of the combined acreage limitation and diversion program, and, following ninth sentence, inserted provision that notwithstanding the other provisions of this subparagraph, the acreage base to be used for the farm under the program for the 1983 crop of rice shall be the same as the acreage base applicable to the farm under the acreage limitation program for the 1982 crop, adjusted to reflect established crop-rotation practices and to reflect such other factors as the Secretary determines should be considered in determining a fair and equitable base.
+1982—Subsec. (i)(5)(A). Pub. L. 97–253, § 125(1)–(3), substituted “Notwithstanding any other provision of law, except as provided in the third and fourth sentences of this paragraph, the” for “Notwithstanding any other provision of this subsection, the”, following second sentence, inserted provision that for the 1983 crop of rice, the Secretary shall provide for a combination of (i) an acreage limitation program as described under this subparagraph and (ii) a diversion program as described under subpar. (B) under which the acreage planted to rice for harvest on the farm would be limited to the acreage base for the farm reduced by a total of 20 per centum, consisting of a reduction of 15 per centum under the acreage limitation program and a reduction of 5 per centum under the diversion program, and that as a condition of eligibility for loans, purchases, and payments on the 1983 crop of rice, the producers on a farm must comply with the terms and conditions of the combined acreage limitation and diversion program, and, following ninth sentence, inserted provision that notwithstanding the other provisions of this subparagraph, the acreage base to be used for the farm under the program for the 1983 crop of rice shall be the same as the acreage base applicable to the farm under the acreage limitation program for the 1982 crop, adjusted to reflect established crop-rotation practices and to reflect such other factors as the Secretary determines should be considered in determining a fair and equitable base.
 
-Subsec. (i)(5)(B). Pub. L. 97–253, § 125(4), inserted provision requiring the Secretary to implement a land diversion program for the 1983 crop of rice under which the Secretary shall make crop retirement and conservation payments to producers making a reduction additional to that required under subpar. (A) and devoting an equivalent acreage of cropland to conservation purposes, and provisions for the computation of payments, and establishment of payment rates by the Secretary, as well as payment by the Secretary of not less than 50 per centum of any payments under this subparagraph to 1983 crop producers as soon as practicable after any such producer enters into a land diversion contract with the Secretary and in advance of any determination of performance, but in no case prior to Oct. 1, 1982, and repayment of advances, with interest, in the event of noncompliance by such producer with such contract.
+Subsec. (i)(5)(B). Pub. L. 97–253, § 125(4), inserted provision requiring the Secretary to implement a land diversion program for the 1983 crop of rice under which the Secretary shall make crop retirement and conservation payments to producers making a reduction additional to that required under subpar. (A) and devoting an equivalent acreage of cropland to conservation purposes, and provisions for the computation of payments, and establishment of payment rates by the Secretary, as well as payment by the Secretary of not less than 50 per centum of any payments under this subparagraph to 1983 crop producers as soon as practicable after any such producer enters into a land diversion contract with the Secretary and in advance of any determination of performance, but in no case prior to Oct. 1, 1982, and repayment of advances, with interest, in the event of noncompliance by such producer with such contract.
 
-1981—Subsec. (f). Pub. L. 97–98, § 508, substituted provisions authorizing price support for extra long staple cotton for the 1982 crop and each subsequent crop through nonrecourse loans as provided in this subsection and prescribing the level of price support loans available to cooperators if producers have not, or have, disapproved marketing quotas for any crop of extra long staple cotton as specified percentages of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton, micronaire 3.5 through 4.9, of such crop at average location in the United States for provisions authorizing price support for extra long staple cotton to cooperators for the 1980 crop and each subsequent crop based on the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton and adjusted by the specified factors, provisions determining the computation of acreage allotments of extra long staple cotton, provisions authorizing the Secretary to establish the price-support payment factor, provisions authorizing the manner and mode of payments authorized under this section, and provisions making operative subsec. (d)(3) of this section upon the disapproval by producers of the national marketing quota established pursuant to section 1347 of this title.
+1981—Subsec. (f). Pub. L. 97–98, § 508, substituted provisions authorizing price support for extra long staple cotton for the 1982 crop and each subsequent crop through nonrecourse loans as provided in this subsection and prescribing the level of price support loans available to cooperators if producers have not, or have, disapproved marketing quotas for any crop of extra long staple cotton as specified percentages of the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton, micronaire 3.5 through 4.9, of such crop at average location in the United States for provisions authorizing price support for extra long staple cotton to cooperators for the 1980 crop and each subsequent crop based on the loan level established for Strict Low Middling one and one-sixteenth inch upland cotton and adjusted by the specified factors, provisions determining the computation of acreage allotments of extra long staple cotton, provisions authorizing the Secretary to establish the price-support payment factor, provisions authorizing the manner and mode of payments authorized under this section, and provisions making operative subsec. (d)(3) of this section upon the disapproval by producers of the national marketing quota established pursuant to section 1347 of this title.
 
-Subsec. (i). Pub. L. 97–98, § 602, temporarily added subsec. (i). See Effective and Termination Dates of 1981 Amendment note below.
+Subsec. (i). Pub. L. 97–98, § 602, temporarily added subsec. (i). See Effective and Termination Dates of 1981 Amendment note below.
 
-1980—Subsec. (h)(4)(B). Pub. L. 96–365, § 201(a)(1), substituted “Except as otherwise provided in subparagraph (D) of this paragraph, effective with respect to the 1978 through 1981 crops of rice” for “Effective only with respect to the 1978, 1979, and 1980 crops of rice”.
+1980—Subsec. (h)(4)(B). Pub. L. 96–365, § 201(a)(1), substituted “Except as otherwise provided in subparagraph (D) of this paragraph, effective with respect to the 1978 through 1981 crops of rice” for “Effective only with respect to the 1978, 1979, and 1980 crops of rice”.
 
-Pub. L. 96–213, § 4(a)(1), substituted “1978, 1979, and 1980 crops of rice” for “1978 and 1979 crops of rice”.
+Pub. L. 96–213, § 4(a)(1), substituted “1978, 1979, and 1980 crops of rice” for “1978 and 1979 crops of rice”.
 
-Subsec. (h)(4)(C). Pub. L. 96–365, § 201(a)(2), substituted “Except as otherwise provided in subparagraph (D) of this paragraph, effective with respect to the 1978 through 1981 crops of rice” for “Effective only with respect to the 1978, 1979, and 1980 crops of rice”.
+Subsec. (h)(4)(C). Pub. L. 96–365, § 201(a)(2), substituted “Except as otherwise provided in subparagraph (D) of this paragraph, effective with respect to the 1978 through 1981 crops of rice” for “Effective only with respect to the 1978, 1979, and 1980 crops of rice”.
 
-Pub. L. 96–213, § 4(a)(2), substituted “1978, 1979, and 1980 crops of rice” for “1978 and 1979 crops of rice”.
+Pub. L. 96–213, § 4(a)(2), substituted “1978, 1979, and 1980 crops of rice” for “1978 and 1979 crops of rice”.
 
-Subsec. (h)(4)(D), (E). Pub. L. 96–365, § 201(a)(3), added subpar. (D) and redesignated former subpar. (D) as (E).
+Subsec. (h)(4)(D), (E). Pub. L. 96–365, § 201(a)(3), added subpar. (D) and redesignated former subpar. (D) as (E).
 
 1979—Subsec. (f). Pub. L. 96–176 substituted “1980” for “1968”, “85” for “50”, “135” for “100”, and “55” for “65”.
 
-1977—Subsec. (f). Pub. L. 95–113, § 607, substituted “Strict Low Middling one and one-sixteenth inch” for “Middling one-inch”.
+1977—Subsec. (f). Pub. L. 95–113, § 607, substituted “Strict Low Middling one and one-sixteenth inch” for “Middling one-inch”.
 
-Subsec. (h). Pub. L. 95–113, § 702, temporarily added subsec. (h). See Effective and Termination Dates of 1977 Amendment note below.
+Subsec. (h). Pub. L. 95–113, § 702, temporarily added subsec. (h). See Effective and Termination Dates of 1977 Amendment note below.
 
 1976—Subsec. (g). Pub. L. 94–214 temporarily added subsec. (g). See Effective and Termination Dates of 1976 Amendment note below.
 
@@ -2263,23 +2263,23 @@ Subsec. (h). Pub. L. 95–113, § 702, temporarily added subsec. (h). See Effe
 
 1960—Subsec. (e). Pub. L. 86–389 repealed subsec. (e) which provided that: “Notwithstanding any of the provisions of this Act, section 2 of the Act of July 28, 1945 (59 Stat. 506) shall continue in effect.”
 
-1958—Subsec. (a). Pub. L. 85–835, § 302(a), substituted “and wheat” for “wheat, and rice” and added par. requiring rice price support levels to be not less than 75, 70, and 65 per centum of parity for 1959 and 1960, 1961, and 1962 and subsequent crop years, respectively.
+1958—Subsec. (a). Pub. L. 85–835, § 302(a), substituted “and wheat” for “wheat, and rice” and added par. requiring rice price support levels to be not less than 75, 70, and 65 per centum of parity for 1959 and 1960, 1961, and 1962 and subsequent crop years, respectively.
 
-Subsec. (d)(4). Act Oct. 31, 1949, § 104(b)(3), as added Pub. L. 85–835, § 201, repealed par. (4) which provided for price support level for corn to cooperators outside the commercial corn-producing area at 75 per centum of the level of price support to cooperators in the commercial corn-producing area.
+Subsec. (d)(4). Act Oct. 31, 1949, § 104(b)(3), as added Pub. L. 85–835, § 201, repealed par. (4) which provided for price support level for corn to cooperators outside the commercial corn-producing area at 75 per centum of the level of price support to cooperators in the commercial corn-producing area.
 
 Subsec. (f). Pub. L. 85–497 provided that the level of support for crops of extra long staple cotton shall not exceed the same per centum of the parity price as for the 1956 crop, required such level to be determined after consideration of the factors specified in section 1421(b) of this title and the price levels for similar qualities of cotton produced outside the United States, and established a minimum of not less than 60 per centum of the parity price as the level for extra long staple cotton.
 
 1957—Subsec. (f). Pub. L. 85–28 set the price support for extra long staple cotton for 1957 and each subsequent crop at same per centum of parity price as for 1956 crop.
 
-1954—Subsec. (d)(6). Act Aug. 28, 1954, § 201(a), provided for flexible price supports.
+1954—Subsec. (d)(6). Act Aug. 28, 1954, § 201(a), provided for flexible price supports.
 
-Subsec. (d)(7). Act Aug. 28, 1954, § 201(b), added par. (7).
+Subsec. (d)(7). Act Aug. 28, 1954, § 201(b), added par. (7).
 
-Subsec. (f). Act Aug. 28, 1954, § 202, set the price support for long staple cotton at the minimum determined in accordance with the schedule in subsec. (b) of this section.
+Subsec. (f). Act Aug. 28, 1954, § 202, set the price support for long staple cotton at the minimum determined in accordance with the schedule in subsec. (b) of this section.
 
-1952—Subsec. (d)(6). Act July 17, 1952, § 2, added par. (6).
+1952—Subsec. (d)(6). Act July 17, 1952, § 2, added par. (6).
 
-Subsec. (f). Act July 17, 1952, § 3(1), added subsec. (f).
+Subsec. (f). Act July 17, 1952, § 3(1), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2289,17 +2289,17 @@ Amendment by Pub. L. 108–357 applicable to the 2005 and subsequent crops of to
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title VI, § 602, Dec. 23, 1985, 99 Stat. 1427, provided that the amendment made by section 602 is effective for the 1985 crop of rice.
+Pub. L. 99–198, title VI, § 602, Dec. 23, 1985, 99 Stat. 1427, provided that the amendment made by section 602 is effective for the 1985 crop of rice.
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494, provided that the amendment made by section 2 is effective beginning with the 1984 crop of extra long staple cotton.
+Pub. L. 98–88, § 2, Aug. 26, 1983, 97 Stat. 494, provided that the amendment made by section 2 is effective beginning with the 1984 crop of extra long staple cotton.
 
 **Effective and Termination Dates of 1981 Amendment**
 
-Pub. L. 97–98, title V, § 508, Dec. 22, 1981, 95 Stat. 1242, provided that the amendment made by section 508 is effective beginning with the 1982 crop of extra long staple cotton.
+Pub. L. 97–98, title V, § 508, Dec. 22, 1981, 95 Stat. 1242, provided that the amendment made by section 508 is effective beginning with the 1982 crop of extra long staple cotton.
 
-Pub. L. 97–98, title VI, § 602, Dec. 22, 1981, 95 Stat. 1242, provided that the amendment made by section 602 is effective only for the 1982 through 1985 crops of rice.
+Pub. L. 97–98, title VI, § 602, Dec. 22, 1981, 95 Stat. 1242, provided that the amendment made by section 602 is effective only for the 1982 through 1985 crops of rice.
 
 **Effective Date of 1979 Amendment**
 
@@ -2307,19 +2307,19 @@ Pub. L. 96–176 provided that the amendment made by that section is effective w
 
 **Effective and Termination Dates of 1977 Amendment**
 
-Pub. L. 95–113, title VII, § 702, Sept. 29, 1977, 91 Stat. 940, provided that the amendment made by section 702 is effective only for the 1978 through 1981 crops of rice.
+Pub. L. 95–113, title VII, § 702, Sept. 29, 1977, 91 Stat. 940, provided that the amendment made by section 702 is effective only for the 1978 through 1981 crops of rice.
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, except as otherwise provided, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
 **Effective and Termination Dates of 1976 Amendment**
 
-Pub. L. 94–214, title I, § 102, Feb. 16, 1976, 90 Stat. 183, provided that the amendment made by section 102 is effective for the 1976 and 1977 crops of rice.
+Pub. L. 94–214, title I, § 102, Feb. 16, 1976, 90 Stat. 183, provided that the amendment made by section 102 is effective for the 1976 and 1977 crops of rice.
 
 **Effective Date of 1958 Amendment**
 
-Act Oct. 31, 1949, ch. 792, title I, § 104(b)(3), as added by Pub. L. 85–835, title II, § 201, Aug. 28, 1958, 72 Stat. 994, provided for repeal of subsec. (d)(4) of this section effective with the 1959 crop, to be operative as provided in section 1444a(b) of this title. See 1958 Referendum for Selection of Alternative Corn Program and Operative Status of Certain Provisions note set out under section 1444a of this title.
+Act Oct. 31, 1949, ch. 792, title I, § 104(b)(3), as added by Pub. L. 85–835, title II, § 201, Aug. 28, 1958, 72 Stat. 994, provided for repeal of subsec. (d)(4) of this section effective with the 1959 crop, to be operative as provided in section 1444a(b) of this title. See 1958 Referendum for Selection of Alternative Corn Program and Operative Status of Certain Provisions note set out under section 1444a of this title.
 
-Pub. L. 85–835, title III, § 302(a), Aug. 28, 1958, 72 Stat. 994, provided that the amendment made by section 302(a) is effective beginning with the 1959 crop.
+Pub. L. 85–835, title III, § 302(a), Aug. 28, 1958, 72 Stat. 994, provided that the amendment made by section 302(a) is effective beginning with the 1959 crop.
 
 **Savings Provision**
 
@@ -2335,15 +2335,15 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(A) of this title.
 
-Pub. L. 101–624, title VIII, § 808, Nov. 28, 1990, 104 Stat. 3478, provided that: “Section 101 of the Agricultural Act of 1949 (7 U.S.C. 1441) shall not be applicable to the 1991 through 1995 crops of peanuts.”
+Pub. L. 101–624, title VIII, § 808, Nov. 28, 1990, 104 Stat. 3478, provided that: “Section 101 of the Agricultural Act of 1949 (7 U.S.C. 1441) shall not be applicable to the 1991 through 1995 crops of peanuts.”
 
-Pub. L. 99–198, title VII, § 707, Dec. 23, 1985, 99 Stat. 1441, provided that: “Section 101 of the Agricultural Act of 1949 (7 U.S.C. 1441) shall not be applicable to the 1986 through 1990 crops of peanuts.”
+Pub. L. 99–198, title VII, § 707, Dec. 23, 1985, 99 Stat. 1441, provided that: “Section 101 of the Agricultural Act of 1949 (7 U.S.C. 1441) shall not be applicable to the 1986 through 1990 crops of peanuts.”
 
-Pub. L. 97–98, title VII, § 707, Dec. 22, 1981, 95 Stat. 1256, provided that: “Section 101 of the Agricultural Act of 1949 [7 U.S.C. 1441] shall not be applicable to the 1982 through 1985 crops of peanuts.”
+Pub. L. 97–98, title VII, § 707, Dec. 22, 1981, 95 Stat. 1256, provided that: “Section 101 of the Agricultural Act of 1949 [7 U.S.C. 1441] shall not be applicable to the 1982 through 1985 crops of peanuts.”
 
 **Report on Trading of Rice Futures**
 
-Pub. L. 97–98, title VI, § 603, Dec. 22, 1981, 95 Stat. 1248, required Secretary of Agriculture to submit a report to Congress evaluating the trading of rice futures on commodity exchanges by July 31, 1983.
+Pub. L. 97–98, title VI, § 603, Dec. 22, 1981, 95 Stat. 1248, required Secretary of Agriculture to submit a report to Congress evaluating the trading of rice futures on commodity exchanges by July 31, 1983.
 
 **Exemption of Disaster Payment Limitations Respecting 1977 Crops of Wheat, Feed Grains, Upland Cotton, and Rice**
 
@@ -2351,27 +2351,27 @@ Term “payments” as used in subsec. (g)(13) of this section shall not include
 
 **1963 Wheat Crop**
 
-Pub. L. 87–703, title III, § 306, Sept. 27, 1962, 76 Stat. 615, required that price support for 1963 crop of wheat be made available as provided in section 1441 of this title with certain exceptions.
+Pub. L. 87–703, title III, § 306, Sept. 27, 1962, 76 Stat. 615, required that price support for 1963 crop of wheat be made available as provided in section 1441 of this title with certain exceptions.
 
 **1962 Wheat Crop**
 
-Pub. L. 87–128, title I, § 123, Aug. 8, 1961, 75 Stat. 297, required that price support for 1962 crop of wheat be made available as provided in section 1441 of this title with certain exceptions.
+Pub. L. 87–128, title I, § 123, Aug. 8, 1961, 75 Stat. 297, required that price support for 1962 crop of wheat be made available as provided in section 1441 of this title with certain exceptions.
 
-### § 1441–1. Omitted
+### § 1441–1. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 101A, as added Dec. 23, 1985, Pub. L. 99–198, title VI, § 601, 99 Stat. 1419; amended Mar. 20, 1986, Pub. L. 99–260, § 2(d), 100 Stat. 47; May 27, 1987, Pub. L. 100–45, § 5, 101 Stat. 320; Dec. 22, 1987, Pub. L. 100–203, title I, §§ 1101(e), 1102(d), 1113(d), 101 Stat. 1330–2, 1330–3, 1330–10, related to loan rates, target prices, disaster payments, acreage limitation program, and land diversion. See Effective and Termination Dates note below.
+Section, act Oct. 31, 1949, ch. 792, title I, § 101A, as added Dec. 23, 1985, Pub. L. 99–198, title VI, § 601, 99 Stat. 1419; amended Mar. 20, 1986, Pub. L. 99–260, § 2(d), 100 Stat. 47; May 27, 1987, Pub. L. 100–45, § 5, 101 Stat. 320; Dec. 22, 1987, Pub. L. 100–203, title I, §§ 1101(e), 1102(d), 1113(d), 101 Stat. 1330–2, 1330–3, 1330–10, related to loan rates, target prices, disaster payments, acreage limitation program, and land diversion. See Effective and Termination Dates note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates**
 
-Pub. L. 99–198, title VI, § 601, Dec. 23, 1985, 99 Stat. 1419, provided that this section is effective only for the 1986 through 1990 crops of rice.
+Pub. L. 99–198, title VI, § 601, Dec. 23, 1985, 99 Stat. 1419, provided that this section is effective only for the 1986 through 1990 crops of rice.
 
-### § 1441–1a. Marketing certificates for rice
+### § 1441–1a. Marketing certificates for rice
 
 **(a) Authority of Commodity Credit Corporation to issue negotiable marketing certificates**
 
@@ -2399,7 +2399,7 @@ The Secretary of Agriculture shall take such measures as may be necessary to pre
 
 Under regulations prescribed by the Secretary of Agriculture, certificates issued to rice exporters under this section may be transferred to other exporters and persons approved by the Secretary.
 
-(Pub. L. 99–198, title VI, § 603, Dec. 23, 1985, 99 Stat. 1429.)
+(Pub. L. 99–198, title VI, § 603, Dec. 23, 1985, 99 Stat. 1429.)
 
 **Editorial Notes**
 
@@ -2407,15 +2407,15 @@ Under regulations prescribed by the Secretary of Agriculture, certificates issue
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-### § 1441–2. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(A), Apr. 4, 1996, 110 Stat. 938
+### § 1441–2. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(A), Apr. 4, 1996, 110 Stat. 938
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 101B, as added Nov. 28, 1990, Pub. L. 101–624, title VI, § 601, 104 Stat. 3443; amended Nov. 5, 1990, Pub. L. 101–508, title I, §§ 1101(d), 1102(c), 104 Stat. 1388–1, 1388–2; Dec. 13, 1991, Pub. L. 102–237, title I, §§ 102(a), 104, 106(a), 113(1), 105 Stat. 1821, 1823, 1824, 1837; Aug. 10, 1993, Pub. L. 103–66, title I, § 1104, 107 Stat. 316; May 6, 1994, Pub. L. 103–247, § 1(a), 108 Stat. 618; Oct. 13, 1994, Pub. L. 103–354, title I, § 119(a)(2), 108 Stat. 3207, related to loans, payments, and acreage reduction programs for 1991 through 1995 crops of rice.
+Section, act Oct. 31, 1949, ch. 792, title I, § 101B, as added Nov. 28, 1990, Pub. L. 101–624, title VI, § 601, 104 Stat. 3443; amended Nov. 5, 1990, Pub. L. 101–508, title I, §§ 1101(d), 1102(c), 104 Stat. 1388–1, 1388–2; Dec. 13, 1991, Pub. L. 102–237, title I, §§ 102(a), 104, 106(a), 113(1), 105 Stat. 1821, 1823, 1824, 1837; Aug. 10, 1993, Pub. L. 103–66, title I, § 1104, 107 Stat. 316; May 6, 1994, Pub. L. 103–247, § 1(a), 108 Stat. 618; Oct. 13, 1994, Pub. L. 103–354, title I, § 119(a)(2), 108 Stat. 3207, related to loans, payments, and acreage reduction programs for 1991 through 1995 crops of rice.
 
-### § 1441a. Cost of production study and establishment of current national weighted average cost of production
+### § 1441a. Cost of production study and establishment of current national weighted average cost of production
 
 The Secretary of Agriculture, in cooperation with the land grant colleges, commodity organizations, general farm organizations, and individual farmers, shall conduct a cost of production study of the wheat, feed grain, cotton, and dairy commodities under the various production practices and establish a current national weighted average cost of production. This study shall be updated annually and shall include all typical variable costs, including interest costs, a return on fixed costs, and a return for management.
 
-(Pub. L. 91–524, title VIII, § 808, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 237; amended Pub. L. 97–98, title XI, § 1117, Dec. 22, 1981, 95 Stat. 1271.)
+(Pub. L. 91–524, title VIII, § 808, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 237; amended Pub. L. 97–98, title XI, § 1117, Dec. 22, 1981, 95 Stat. 1271.)
 
 **Editorial Notes**
 
@@ -2425,7 +2425,7 @@ Section was enacted as part of the Agricultural Act of 1970 as added by the Agri
 
 **Amendments**
 
-1981—Pub. L. 97–98 inserted “including interest costs,” after “variable costs,”, substituted “, and a return for management” for “equal to the existing interest rates charged by the Federal Land Bank, and return for management comparable to the normal management fees charged by other comparable industries”, and struck out provision that these studies be based upon the size unit that requires one man to farm on a full-time basis.
+1981—Pub. L. 97–98 inserted “including interest costs,” after “variable costs,”, substituted “, and a return for management” for “equal to the existing interest rates charged by the Federal Land Bank, and return for management comparable to the normal management fees charged by other comparable industries”, and struck out provision that these studies be based upon the size unit that requires one man to farm on a full-time basis.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2433,7 +2433,7 @@ Section was enacted as part of the Agricultural Act of 1970 as added by the Agri
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
-### § 1442. Price support and acreage requirements for corn and other feed grains
+### § 1442. Price support and acreage requirements for corn and other feed grains
 
 **(a) Conditions of eligibility**
 
@@ -2451,13 +2451,13 @@ Notwithstanding any other provision of law, if two-thirds or more of the produce
 
 Notwithstanding any other provision of law, (1) the level of price support for the 1956 crop of grain sorghums, barley, rye, and oats, respectively, shall be 76 per centum of the parity price for the commodity as of May 1, 1956, (2) the level of price support for corn produced outside the commercial corn-producing area, for any crop for which base acreages are in effect (except as provided in (3) below), shall be 82½ per centum of the level of price support for corn in the commercial corn-producing area to producers complying with acreage limitations, and (3) if price support is made available for the 1957 crop of corn in the commercial corn-producing area to producers not complying with acreage limitations, price support shall be made available for the 1957 crop of grain sorghums, barley, rye, oats, and corn produced outside the commercial corn-producing area, respectively, at a level, not less than 70 per centum of the parity price as of the beginning of the marketing year, determined by the Secretary to be fair and reasonable in relation to the level at which price support is made available for corn in the commercial corn-producing area to producers not complying with acreage limitations, taking into consideration the normal price relationships between such commodity and corn in the commercial area, the feed value of such commodity in relation to corn, the supply of such commodity in relation to the demand therefor, and the ability to dispose of stocks of such commodity acquired through price support programs.
 
-(May 28, 1956, ch. 327, title III, § 308, 70 Stat. 206.)
+(May 28, 1956, ch. 327, title III, § 308, 70 Stat. 206.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (b), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (b), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 **Codification**
 
@@ -2469,21 +2469,21 @@ Section was enacted as part of the Agricultural Act of 1956, and not as part of 
 
 The referendum provided for in subsec. (b) of this section was held on Dec. 11, 1956, and the required two-thirds vote was not obtained in favor of the price support program provided for in subsec. (c) of this section. See 22 F.R. 480.
 
-### § 1443. Omitted
+### § 1443. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 102, as added Aug. 28, 1958, Pub. L. 85–835, title I, § 101, 72 Stat. 988, related to acreage allotment and price support levels for the 1959 and 1960 crops of upland cotton.
+Section, act Oct. 31, 1949, ch. 792, title I, § 102, as added Aug. 28, 1958, Pub. L. 85–835, title I, § 101, 72 Stat. 988, related to acreage allotment and price support levels for the 1959 and 1960 crops of upland cotton.
 
-### § 1444. Cotton price support levels
+### § 1444. Cotton price support levels
 
 **(a) Basic support levels for 1961 and subsequent years**
 
-Notwithstanding the provisions of section 1441 of this title, price support to cooperators for each crop of upland cotton, beginning with the 1961 crop, for which producers have not disapproved marketing quotas shall be at such level not more than 90 per centum of the parity price therefor nor less than the minimum level prescribed below as the Secretary determines appropriate after consideration of the factors specified in section 1421(b) of this title. For the 1961 crop the minimum level shall be 70 per centum of the parity price therefor, and for each subsequent crop the minimum level shall be 65 per centum of the parity price therefor: *Provided*, That the price support for the 1965 crop shall be a national average support price which reflects 30 cents per pound for Middling one-inch cotton. Price support in the case of noncooperators and in case marketing quotas are disapproved shall be as provided in section 1441(d)(3) and (5) 1
+Notwithstanding the provisions of section 1441 of this title, price support to cooperators for each crop of upland cotton, beginning with the 1961 crop, for which producers have not disapproved marketing quotas shall be at such level not more than 90 per centum of the parity price therefor nor less than the minimum level prescribed below as the Secretary determines appropriate after consideration of the factors specified in section 1421(b) of this title. For the 1961 crop the minimum level shall be 70 per centum of the parity price therefor, and for each subsequent crop the minimum level shall be 65 per centum of the parity price therefor: *Provided*, That the price support for the 1965 crop shall be a national average support price which reflects 30 cents per pound for Middling one-inch cotton. Price support in the case of noncooperators and in case marketing quotas are disapproved shall be as provided in section 1441(d)(3) and (5) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -2579,7 +2579,7 @@ is less than the established price of 38 cents per pound in the case of the 1974
 
 **(2)** The Secretary shall, upon presentation of warehouse receipts reflecting accrued storage charges of not more than sixty days, make available to producers nonrecourse loans for a term of ten months from the first day of the month in which the loan is made at a level which is not less than 85 percent of the simple average price received by producers of extra long staple cotton, as determined by the Secretary, during 3 years of the 5-year period ending July 31 in the year in which the loan level is announced, excluding the year in which the average price was the highest and the year in which the average price was the lowest in such period..2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 If authorized by the Secretary, nonrecourse loans provided for in this subsection may, upon request of the producer during the tenth month of the loan period for the cotton, be made available for an additional term of eight months. The loan level for any crop of extra long staple cotton shall be determined and announced by the Secretary not later than December 1 of the calendar year preceding the marketing year for which such loan is to be effective and such level shall not thereafter be changed.
 
@@ -2635,25 +2635,25 @@ is less than the established price per pound times, in each case, the farm progr
 
 **(15)** References made in sections 1422, 1423, 1426,3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 1427, and 1431 of this title to the terms “support price”, “level of support”, and “level of price support” shall be considered to apply as well to the level of loans for extra long staple cotton under this subsection; and references to the terms “price support”, “price support operations”, and “price support program” in such sections and in section 1421(a) of this title shall be considered as applying as well to the loan operations for extra long staple cotton under this subsection.
 
 **(16)** Notwithstanding any other provision of law, this subsection shall not be applicable to the 1996 and subsequent crops of extra long staple cotton.
 
-(Oct. 31, 1949, ch. 792, title I, § 103, as added Pub. L. 85–835, title I, § 102, Aug. 28, 1958, 72 Stat. 989; amended Pub. L. 88–297, title I, § 103(b), Apr. 11, 1964, 78 Stat. 174; Pub. L. 89–112, § 2, Aug. 6, 1965, 79 Stat. 447; Pub. L. 89–321, title IV, § 402(a), Nov. 3, 1965, 79 Stat. 1194; Pub. L. 89–451, § 1, June 17, 1966, 80 Stat. 202; Pub. L. 90–559, § 1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, § 602, Nov. 30, 1970, 84 Stat. 1374; Pub. L. 93–86, § 1(20), Aug. 10, 1973, 87 Stat. 233; Pub. L. 93–125, § 1(b), Oct. 18, 1973, 87 Stat. 450; Pub. L. 95–113, title VI, § 602, Sept. 29, 1977, 91 Stat. 934; Pub. L. 95–279, title I, § 102, May 15, 1978, 92 Stat. 240; Pub. L. 95–402, Sept. 30, 1978, 92 Stat. 862; Pub. L. 96–213, § 4(b), Mar. 18, 1980, 94 Stat. 119; Pub. L. 96–365, title II, § 201(b), Sept. 26, 1980, 94 Stat. 1320; Pub. L. 97–98, title V, § 502, Dec. 22, 1981, 95 Stat. 1234; Pub. L. 97–446, title I, § 155, Jan. 12, 1983, 96 Stat. 2345; Pub. L. 98–88, § 4, Aug. 26, 1983, 97 Stat. 494; Pub. L. 98–258, title III, §§ 301, 302, Apr. 10, 1984, 98 Stat. 133; Pub. L. 99–114, § 3, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–198, title V, § 507, Dec. 23, 1985, 99 Stat. 1419; Pub. L. 99–500, § 101(a) [title VI, § 644], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, § 101(a) [title VI, § 644], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, § 201, Nov. 10, 1986, 100 Stat. 3562; Pub. L. 100–203, title I, § 1101(d), Dec. 22, 1987, 101 Stat. 1330–2; Pub. L. 100–331, June 14, 1988, 102 Stat. 602; Pub. L. 100–418, title I, § 1214(w), Aug. 23, 1988, 102 Stat. 1163; Pub. L. 101–624, title V, § 506, Nov. 28, 1990, 104 Stat. 3440.)
+(Oct. 31, 1949, ch. 792, title I, § 103, as added Pub. L. 85–835, title I, § 102, Aug. 28, 1958, 72 Stat. 989; amended Pub. L. 88–297, title I, § 103(b), Apr. 11, 1964, 78 Stat. 174; Pub. L. 89–112, § 2, Aug. 6, 1965, 79 Stat. 447; Pub. L. 89–321, title IV, § 402(a), Nov. 3, 1965, 79 Stat. 1194; Pub. L. 89–451, § 1, June 17, 1966, 80 Stat. 202; Pub. L. 90–559, § 1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, § 602, Nov. 30, 1970, 84 Stat. 1374; Pub. L. 93–86, § 1(20), Aug. 10, 1973, 87 Stat. 233; Pub. L. 93–125, § 1(b), Oct. 18, 1973, 87 Stat. 450; Pub. L. 95–113, title VI, § 602, Sept. 29, 1977, 91 Stat. 934; Pub. L. 95–279, title I, § 102, May 15, 1978, 92 Stat. 240; Pub. L. 95–402, Sept. 30, 1978, 92 Stat. 862; Pub. L. 96–213, § 4(b), Mar. 18, 1980, 94 Stat. 119; Pub. L. 96–365, title II, § 201(b), Sept. 26, 1980, 94 Stat. 1320; Pub. L. 97–98, title V, § 502, Dec. 22, 1981, 95 Stat. 1234; Pub. L. 97–446, title I, § 155, Jan. 12, 1983, 96 Stat. 2345; Pub. L. 98–88, § 4, Aug. 26, 1983, 97 Stat. 494; Pub. L. 98–258, title III, §§ 301, 302, Apr. 10, 1984, 98 Stat. 133; Pub. L. 99–114, § 3, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–198, title V, § 507, Dec. 23, 1985, 99 Stat. 1419; Pub. L. 99–500, § 101(a) [title VI, § 644], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, § 101(a) [title VI, § 644], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, § 201, Nov. 10, 1986, 100 Stat. 3562; Pub. L. 100–203, title I, § 1101(d), Dec. 22, 1987, 101 Stat. 1330–2; Pub. L. 100–331, June 14, 1988, 102 Stat. 602; Pub. L. 100–418, title I, § 1214(w), Aug. 23, 1988, 102 Stat. 1163; Pub. L. 101–624, title V, § 506, Nov. 28, 1990, 104 Stat. 3440.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1441(d) of this title, referred to in subsec. (a), was redesignated section 1441(c) of this title by Pub. L. 108–357, title VI, § 612(b)(4), Oct. 22, 2004, 118 Stat. 1524.
+Section 1441(d) of this title, referred to in subsec. (a), was redesignated section 1441(c) of this title by Pub. L. 108–357, title VI, § 612(b)(4), Oct. 22, 2004, 118 Stat. 1524.
 
-This Act, referred to in subsecs. (d)(1), (11), (12) and (h)(5)(A)(ii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsecs. (d)(1), (11), (12) and (h)(5)(A)(ii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(14), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(14), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-Section 1426 of this title, referred to in subsec. (h)(15), was repealed by Pub. L. 104–127, title I, § 171(b)(2)(I), Apr. 4, 1996, 110 Stat. 938.
+Section 1426 of this title, referred to in subsec. (h)(15), was repealed by Pub. L. 104–127, title I, § 171(b)(2)(I), Apr. 4, 1996, 110 Stat. 938.
 
 **Codification**
 
@@ -2661,25 +2661,25 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 **Amendments**
 
-1990—Subsec. (h)(3)(A). Pub. L. 101–624, § 506(b)(1), substituted “paragraph (5)(A)” for “paragraph (6) or paragraph (8)(A) of this subsection” and “paragraph (4)” for “paragraph (7) of this subsection”.
+1990—Subsec. (h)(3)(A). Pub. L. 101–624, § 506(b)(1), substituted “paragraph (5)(A)” for “paragraph (6) or paragraph (8)(A) of this subsection” and “paragraph (4)” for “paragraph (7) of this subsection”.
 
-Subsec. (h)(3)(C). Pub. L. 101–624, § 506(b)(2), substituted “paragraph (5)(A)” for “paragraph (8)(A) of this subsection”.
+Subsec. (h)(3)(C). Pub. L. 101–624, § 506(b)(2), substituted “paragraph (5)(A)” for “paragraph (8)(A) of this subsection”.
 
-Subsec. (h)(4). Pub. L. 101–624, § 506(a)(1), (2), redesignated par. (7) as (4) and struck out former par. (4) which related to establishment of a national program acreage for extra long staple cotton by Secretary.
+Subsec. (h)(4). Pub. L. 101–624, § 506(a)(1), (2), redesignated par. (7) as (4) and struck out former par. (4) which related to establishment of a national program acreage for extra long staple cotton by Secretary.
 
-Subsec. (h)(5). Pub. L. 101–624, § 506(a)(1)–(3), redesignated par. (8) as (5), inserted “(including a zero percentage reduction)” after “reduction” in subpar. (A)(i), and struck out former par. (5) which required Secretary to determine a program allocation factor, not to exceed 100 per centum for each crop of extra long staple cotton.
+Subsec. (h)(5). Pub. L. 101–624, § 506(a)(1)–(3), redesignated par. (8) as (5), inserted “(including a zero percentage reduction)” after “reduction” in subpar. (A)(i), and struck out former par. (5) which required Secretary to determine a program allocation factor, not to exceed 100 per centum for each crop of extra long staple cotton.
 
-Pub. L. 101–624, § 506(b)(3), struck out before last sentence in subpar. (A)(i) the following: “If an acreage limitation program is announced under this paragraph for a crop of extra long staple cotton, paragraphs (4), (5), and (6) of this subsection shall not be applicable to such crop, including any prior announcement which may have been made under such paragraphs with respect to such crop.”
+Pub. L. 101–624, § 506(b)(3), struck out before last sentence in subpar. (A)(i) the following: “If an acreage limitation program is announced under this paragraph for a crop of extra long staple cotton, paragraphs (4), (5), and (6) of this subsection shall not be applicable to such crop, including any prior announcement which may have been made under such paragraphs with respect to such crop.”
 
-Pub. L. 101–624, § 506(b)(4), substituted “paragraph (13)(C)” for “paragraph (16)(C)” in subpar. (A)(ii).
+Pub. L. 101–624, § 506(b)(4), substituted “paragraph (13)(C)” for “paragraph (16)(C)” in subpar. (A)(ii).
 
-Subsec. (h)(6). Pub. L. 101–624, § 506(b)(5), substituted “paragraph (5)” for “paragraph (8) of this subsection”.
+Subsec. (h)(6). Pub. L. 101–624, § 506(b)(5), substituted “paragraph (5)” for “paragraph (8) of this subsection”.
 
-Pub. L. 101–624, § 506(a)(1), (2), redesignated par. (9) as (6) and struck out former par. (6) which provided a formula for determining individual farm program acreage for each crop of extra long staple cotton by multiplying allocation factor by acreage of extra long staple cotton planted for harvest on each farm for which individual farm program acreages are required to be determined.
+Pub. L. 101–624, § 506(a)(1), (2), redesignated par. (9) as (6) and struck out former par. (6) which provided a formula for determining individual farm program acreage for each crop of extra long staple cotton by multiplying allocation factor by acreage of extra long staple cotton planted for harvest on each farm for which individual farm program acreages are required to be determined.
 
-Subsec. (h)(7) to (12). Pub. L. 101–624, § 506(a)(2), redesignated pars. (10) to (15) as (7) to (12), respectively. Former pars. (7) to (9) redesignated (4) to (6), respectively.
+Subsec. (h)(7) to (12). Pub. L. 101–624, § 506(a)(2), redesignated pars. (10) to (15) as (7) to (12), respectively. Former pars. (7) to (9) redesignated (4) to (6), respectively.
 
-Subsec. (h)(13). Pub. L. 101–624, § 506(a)(2), (4), redesignated par. (16) as (13), struck out par. (13) as so redesignated, and added new par. (13). Former par. (13) redesignated (10). Prior to being struck out, par. (13) read as follows:
+Subsec. (h)(13). Pub. L. 101–624, § 506(a)(2), (4), redesignated par. (16) as (13), struck out par. (13) as so redesignated, and added new par. (13). Former par. (13) redesignated (10). Prior to being struck out, par. (13) read as follows:
 
 “(A) Notwithstanding any other provision of law, except as provided in subparagraph (B), compliance on a farm with the terms and conditions of any other commodity program may not be required as a condition of eligibility for loans or payments under this subsection.
 
@@ -2687,37 +2687,37 @@ Subsec. (h)(13). Pub. L. 101–624, § 506(a)(2), (4), redesignated par. (16) 
 
 “(C) Notwithstanding any other provision of law, in the case of each of the 1987 through 1990 crops of extra long staple cotton, compliance with the terms and conditions of the program authorized by this subsection may not be required as a condition of eligibility for loans, purchases, or payments under any other commodity program.”
 
-Subsec. (h)(14), (15). Pub. L. 101–624, § 506(a)(2), redesignated pars. (17) and (18) as (14) and (15), respectively. Former pars. (14) and (15) redesignated (11) and (12), respectively.
+Subsec. (h)(14), (15). Pub. L. 101–624, § 506(a)(2), redesignated pars. (17) and (18) as (14) and (15), respectively. Former pars. (14) and (15) redesignated (11) and (12), respectively.
 
-Subsec. (h)(16). Pub. L. 101–624, § 506(a)(2), (5), redesignated par. (19) as (16) and substituted “1996” for “1991”. Former par. (16) redesignated (13).
+Subsec. (h)(16). Pub. L. 101–624, § 506(a)(2), (5), redesignated par. (19) as (16) and substituted “1996” for “1991”. Former par. (16) redesignated (13).
 
-Subsec. (h)(17) to (19). Pub. L. 101–624, § 506(a)(2), redesignated pars. (17) to (19) as (14) to (16), respectively.
+Subsec. (h)(17) to (19). Pub. L. 101–624, § 506(a)(2), redesignated pars. (17) to (19) as (14) to (16), respectively.
 
 1988—Subsec. (f)(3). Pub. L. 100–418 substituted “subheadings 9904.30.10 through 9904.30.30 of chapter 99 of the Harmonized Tariff Schedule of the United States” for “items 955.01 through 955.03 of the Appendix to the Tariff Schedules of the United States”.
 
-Subsec. (h)(8)(A). Pub. L. 100–331, § 2, designated existing provisions as cl. (i) and added cl. (ii).
+Subsec. (h)(8)(A). Pub. L. 100–331, § 2, designated existing provisions as cl. (i) and added cl. (ii).
 
-Subsec. (h)(16)(C). Pub. L. 100–331, § 1, substituted “through 1990” for “and 1988”.
+Subsec. (h)(16)(C). Pub. L. 100–331, § 1, substituted “through 1990” for “and 1988”.
 
 1987—Subsec. (h)(3)(B). Pub. L. 100–203 temporarily (see Effective and Termination Dates of 1987 Amendment note below) substituted “Except as provided in clause (ii), the” for “The” and added cl. (ii) which read as follows: “In the case of each of the 1988 and 1989 crops of extra long staple cotton, the established price for each such crop shall be 118.3 percent of the loan level determined for such crop under paragraph (2).”
 
 1986—Subsec. (h)(16). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–641, in generally amending par. (16) identically, designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),” and added subpars. (B) and (C).
 
-1985—Subsec. (h)(2). Pub. L. 99–198, § 507(1), in first sentence substituted “85 percent or the simple average price received by producers of extra long staple cotton, as determined by the Secretary, during 3 years of the 5-year period ending July 31 in the year in which the loan level is announced, excluding the year in which the average price was the highest and the year in which the average price was the lowest in such period.” for “50 per centum in excess of the loan level established for each crop of Strict Low Middling one and one-sixteenth inch upland cotton (micronaire 3.5 through 4.9) at average location in the United States”, and, in last sentence substituted “December 1” for “November 1” and struck out “, or within 10 days after the loan level for the related crop of upland cotton is announced, whichever is later,”.
+1985—Subsec. (h)(2). Pub. L. 99–198, § 507(1), in first sentence substituted “85 percent or the simple average price received by producers of extra long staple cotton, as determined by the Secretary, during 3 years of the 5-year period ending July 31 in the year in which the loan level is announced, excluding the year in which the average price was the highest and the year in which the average price was the lowest in such period.” for “50 per centum in excess of the loan level established for each crop of Strict Low Middling one and one-sixteenth inch upland cotton (micronaire 3.5 through 4.9) at average location in the United States”, and, in last sentence substituted “December 1” for “November 1” and struck out “, or within 10 days after the loan level for the related crop of upland cotton is announced, whichever is later,”.
 
-Pub. L. 99–114, § 3(1), inserted “, or within 10 days after the loan level for the related crop of upland cotton is announced, whichever is later,”.
+Pub. L. 99–114, § 3(1), inserted “, or within 10 days after the loan level for the related crop of upland cotton is announced, whichever is later,”.
 
-Subsec. (h)(4). Pub. L. 99–114, § 3(2), inserted “and announce” after “The Secretary shall establish” and struck out sentence which had provided that national program acreage for extra long staple cotton had to be announced by the Secretary not later than November 1 of the calendar year preceding the year for which such acreage was established.
+Subsec. (h)(4). Pub. L. 99–114, § 3(2), inserted “and announce” after “The Secretary shall establish” and struck out sentence which had provided that national program acreage for extra long staple cotton had to be announced by the Secretary not later than November 1 of the calendar year preceding the year for which such acreage was established.
 
-Subsec. (h)(19). Pub. L. 99–198, § 507(2), added par. (19).
+Subsec. (h)(19). Pub. L. 99–198, § 507(2), added par. (19).
 
-1984—Subsec. (g)(3)(B). Pub. L. 98–258, § 301, substituted “and $0.81 per pound for the 1984 and 1985 crops” for “$0.81 per pound for the 1984 crop, and $0.86 per pound for the 1985 crop”.
+1984—Subsec. (g)(3)(B). Pub. L. 98–258, § 301, substituted “and $0.81 per pound for the 1984 and 1985 crops” for “$0.81 per pound for the 1984 crop, and $0.86 per pound for the 1985 crop”.
 
-Subsec. (g)(9)(A). Pub. L. 98–258, § 302(1), inserted “except as provided in the second and third sentences of this subparagraph,” after “Notwithstanding any other provision of this subsection,”.
+Subsec. (g)(9)(A). Pub. L. 98–258, § 302(1), inserted “except as provided in the second and third sentences of this subparagraph,” after “Notwithstanding any other provision of this subsection,”.
 
-Pub. L. 98–258, § 302(2), inserted sentences providing that for the 1985 crop of upland cotton, if the Secretary estimates that the quantity of upland cotton on hand in the United States on July 31, 1985 (not including any quantity of upland cotton produced in the United States during calendar year 1985), will exceed three million seven hundred thousand bales, the Secretary (i) shall provide for a land division [diversion] program as described under subparagraph (B) under which the acreage planted to upland cotton for harvest on the farm would be limited to the acreage base for the farm reduced by not less than 5 per centum and (ii) may provide for an acreage limitation program as described under this subparagraph under which the acreage planted to upland cotton for harvest on the farm would be limited to the acreage base for the farm reduced by not more than 20 per centum in addition to the reduction required under clause (i), that if the Secretary implements a combined acreage limitation program and land division [diversion] program, any reduction required by the Secretary in excess of 25 per centum of the acreage base for the farm shall be made under the land diversion program, and that, as a condition of eligibility for loans, purchases, and payments on the 1985 crop of upland cotton, if the Secretary implements a land diversion program or a combined acreage limitation and land diversion program, the producers on a farm must comply with the terms and conditions of such program.
+Pub. L. 98–258, § 302(2), inserted sentences providing that for the 1985 crop of upland cotton, if the Secretary estimates that the quantity of upland cotton on hand in the United States on July 31, 1985 (not including any quantity of upland cotton produced in the United States during calendar year 1985), will exceed three million seven hundred thousand bales, the Secretary (i) shall provide for a land division [diversion] program as described under subparagraph (B) under which the acreage planted to upland cotton for harvest on the farm would be limited to the acreage base for the farm reduced by not less than 5 per centum and (ii) may provide for an acreage limitation program as described under this subparagraph under which the acreage planted to upland cotton for harvest on the farm would be limited to the acreage base for the farm reduced by not more than 20 per centum in addition to the reduction required under clause (i), that if the Secretary implements a combined acreage limitation program and land division [diversion] program, any reduction required by the Secretary in excess of 25 per centum of the acreage base for the farm shall be made under the land diversion program, and that, as a condition of eligibility for loans, purchases, and payments on the 1985 crop of upland cotton, if the Secretary implements a land diversion program or a combined acreage limitation and land diversion program, the producers on a farm must comply with the terms and conditions of such program.
 
-Subsec. (g)(9)(B). Pub. L. 98–258, § 302(3), inserted sentences providing that if the Secretary implements a land diversion program for the 1985 crop of upland cotton under the provisions of subparagraph (A), the Secretary shall make crop retirement and conservation payments to any producer of the 1985 crop of upland cotton whose acreage planted to upland cotton for harvest on the farm is reduced so that it does not exceed the upland cotton acreage base for the farm less an amount equivalent to the percentage of the acreage base specified by the Secretary, but not less than 5 per centum, in addition to the reduction required under the acreage limitation program under subparagraph (A), if any, and who devotes to approved conservation uses an acreage of cropland equivalent to the reduction required from the upland cotton acreage base under this subparagraph, that such payments shall be made in an amount computed by multiplying (i) the diversion payment rate, by (ii) the farm program payment yield for the crop, by (iii) the acreage diverted under this subparagraph, that the diversion payment rate shall be established by the Secretary at not less than $0.275 per pound: *Provided*, That if the Secretary estimates that the quantity of upland cotton on hand in the United States on July 31, 1985 (not including any quantity of upland cotton produced in the United States during calendar year 1985), will exceed (I) four million one hundred thousand bales, such rate shall be established by the Secretary at not less than $0.30 per pound, and (II) four million seven hundred thousand bales such rate shall be established by the Secretary at not less than $0.35 per pound, that the Secretary shall make not less than 50 per centum of any payments under this subparagraph to producers of the 1985 crop as soon as practicable after a producer enters into a land diversion contract with the Secretary and in advance of any determination of performance, and that if a producer fails to comply with a land diversion contract after obtaining an advance payment under this subparagraph, the producer shall repay the advance immediately and, in accordance with regulations issued by the Secretary, pay interest on the advance.
+Subsec. (g)(9)(B). Pub. L. 98–258, § 302(3), inserted sentences providing that if the Secretary implements a land diversion program for the 1985 crop of upland cotton under the provisions of subparagraph (A), the Secretary shall make crop retirement and conservation payments to any producer of the 1985 crop of upland cotton whose acreage planted to upland cotton for harvest on the farm is reduced so that it does not exceed the upland cotton acreage base for the farm less an amount equivalent to the percentage of the acreage base specified by the Secretary, but not less than 5 per centum, in addition to the reduction required under the acreage limitation program under subparagraph (A), if any, and who devotes to approved conservation uses an acreage of cropland equivalent to the reduction required from the upland cotton acreage base under this subparagraph, that such payments shall be made in an amount computed by multiplying (i) the diversion payment rate, by (ii) the farm program payment yield for the crop, by (iii) the acreage diverted under this subparagraph, that the diversion payment rate shall be established by the Secretary at not less than $0.275 per pound: *Provided*, That if the Secretary estimates that the quantity of upland cotton on hand in the United States on July 31, 1985 (not including any quantity of upland cotton produced in the United States during calendar year 1985), will exceed (I) four million one hundred thousand bales, such rate shall be established by the Secretary at not less than $0.30 per pound, and (II) four million seven hundred thousand bales such rate shall be established by the Secretary at not less than $0.35 per pound, that the Secretary shall make not less than 50 per centum of any payments under this subparagraph to producers of the 1985 crop as soon as practicable after a producer enters into a land diversion contract with the Secretary and in advance of any determination of performance, and that if a producer fails to comply with a land diversion contract after obtaining an advance payment under this subparagraph, the producer shall repay the advance immediately and, in accordance with regulations issued by the Secretary, pay interest on the advance.
 
 1983—Subsec. (h). Pub. L. 98–88 added subsec. (h).
 
@@ -2725,15 +2725,15 @@ Subsec. (f)(3). Pub. L. 97–446 temporarily substituted provision relating to t
 
 1981—Subsec. (g). Pub. L. 97–98 temporarily added subsec. (g). See Effective and Termination Dates of 1981 Amendment note below.
 
-1980—Subsec. (f)(5)(A). Pub. L. 96–365, § 201(b)(1), substituted “Except as otherwise provided in subparagraph (C) of this paragraph, effective with respect to the 1978 through 1981 crops of upland cotton” for “Effective only with respect to the 1978, 1979, and 1980 crops of upland cotton”.
+1980—Subsec. (f)(5)(A). Pub. L. 96–365, § 201(b)(1), substituted “Except as otherwise provided in subparagraph (C) of this paragraph, effective with respect to the 1978 through 1981 crops of upland cotton” for “Effective only with respect to the 1978, 1979, and 1980 crops of upland cotton”.
 
-Pub. L. 96–213, § 4(b)(1), substituted “1978, 1979, and 1980 crops of upland cotton” for “1978 and 1979 crops of upland cotton”.
+Pub. L. 96–213, § 4(b)(1), substituted “1978, 1979, and 1980 crops of upland cotton” for “1978 and 1979 crops of upland cotton”.
 
-Subsec. (f)(5)(B). Pub. L. 96–365, § 201(b)(2), substituted “Except as otherwise provided in subparagraph (C) of this paragraph, effective with respect to the 1978 through 1981 crops of upland cotton” for “Effective only with respect to the 1978, 1979, and 1980 crops of upland cotton”.
+Subsec. (f)(5)(B). Pub. L. 96–365, § 201(b)(2), substituted “Except as otherwise provided in subparagraph (C) of this paragraph, effective with respect to the 1978 through 1981 crops of upland cotton” for “Effective only with respect to the 1978, 1979, and 1980 crops of upland cotton”.
 
-Pub. L. 96–213, § 4(b)(2), substituted “1978, 1979, and 1980 crops of upland cotton” for “1978 and 1979 crops of upland cotton”.
+Pub. L. 96–213, § 4(b)(2), substituted “1978, 1979, and 1980 crops of upland cotton” for “1978 and 1979 crops of upland cotton”.
 
-Subsec. (f)(5)(C). Pub. L. 96–365, § 201(b)(3), added subpar. (C).
+Subsec. (f)(5)(C). Pub. L. 96–365, § 201(b)(3), added subpar. (C).
 
 1978—Subsec. (f)(1). Pub. L. 95–402 purported to strike out the fourth sentence of subsec. (f)(1). The enacting clause, however, stated that Pub. L. 95–402 was enacted to amend subsec. (f)(1) “… to ensure that the interest rates on price support loans for upland cotton are not less favorable to producers than the interest rates for such loans on other commodities”. Accordingly, the third sentence of subsec. (f)(1) was struck out as the probable intent of Congress because it related to interest rates while the fourth sentence related to extension of the loan period and establishment of a special limited global import quota.
 
@@ -2741,15 +2741,15 @@ Pub. L. 95–279 temporarily substituted “during three years of the five-year 
 
 1977—Subsec. (f). Pub. L. 95–113 temporarily added subsec. (f). See Effective and Termination Dates of 1977 Amendment note below.
 
-1973—Subsec. (e)(1). Pub. L. 93–86, § 1(20)(A), (B), substituted “1971 through 1977 crops of upland cotton” for “1971, 1972, and 1973 crops of upland cotton”, “three-year period” for “two-year period” in two places, “except that if the loan rate so calculated is higher than the then current level of average world prices for American cotton of such quality, the Secretary is authorized to adjust the current calculated loan rate for cotton to 90 per centum of the then current average world price” for “except that to prevent the establishment of such a loan level as would adversely affect the competitive position of United States upland cotton, following one or more years of excessively high prices the Secretary shall make such adjustments as are necessary to keep United States upland cotton competitive and to retain an adequate share of the world market for such cotton”, “average price of American cotton in world markets” for “acreage world price”, and “any of the 1972 through 1977 crops” for “the 1972 or 1973 crop”.
+1973—Subsec. (e)(1). Pub. L. 93–86, § 1(20)(A), (B), substituted “1971 through 1977 crops of upland cotton” for “1971, 1972, and 1973 crops of upland cotton”, “three-year period” for “two-year period” in two places, “except that if the loan rate so calculated is higher than the then current level of average world prices for American cotton of such quality, the Secretary is authorized to adjust the current calculated loan rate for cotton to 90 per centum of the then current average world price” for “except that to prevent the establishment of such a loan level as would adversely affect the competitive position of United States upland cotton, following one or more years of excessively high prices the Secretary shall make such adjustments as are necessary to keep United States upland cotton competitive and to retain an adequate share of the world market for such cotton”, “average price of American cotton in world markets” for “acreage world price”, and “any of the 1972 through 1977 crops” for “the 1972 or 1973 crop”.
 
-Subsec. (e)(2). Pub. L. 93–86, § 1(20)(C), substituted provisions setting out the formula for determining payments for each crop of cotton to the producers on each farm using, as elements of such formula, the average market price received by farmers for upland cotton during the calendar year which includes the first five months of the marketing year for such crop, as determined by the Secretary, the loan level determined under paragraph (1) for such crop, an established price of 38 cents per pound in the case of the 1974 and 1975 crops, adjusted prices in the case of the 1976 and 1977 crops, adjustment of increases to reflect changes in the national average yield per acre of cotton for the three calendar years preceding the year for which the determination is made over the national average yield per acre of cotton for the three calendar years preceding the year previous to the one for which the determination is made, and covering prevention of planting due to natural disasters and conditions for provisions authorizing payments by the Secretary to cooperators on the 1971, 1972, and 1973 crops of upland cotton, and struck out provisions directing preliminary payments to producers as soon as practicable after July 1 of the year in which the crop is harvested at a rate equal to 15 cents per pound.
+Subsec. (e)(2). Pub. L. 93–86, § 1(20)(C), substituted provisions setting out the formula for determining payments for each crop of cotton to the producers on each farm using, as elements of such formula, the average market price received by farmers for upland cotton during the calendar year which includes the first five months of the marketing year for such crop, as determined by the Secretary, the loan level determined under paragraph (1) for such crop, an established price of 38 cents per pound in the case of the 1974 and 1975 crops, adjusted prices in the case of the 1976 and 1977 crops, adjustment of increases to reflect changes in the national average yield per acre of cotton for the three calendar years preceding the year for which the determination is made over the national average yield per acre of cotton for the three calendar years preceding the year previous to the one for which the determination is made, and covering prevention of planting due to natural disasters and conditions for provisions authorizing payments by the Secretary to cooperators on the 1971, 1972, and 1973 crops of upland cotton, and struck out provisions directing preliminary payments to producers as soon as practicable after July 1 of the year in which the crop is harvested at a rate equal to 15 cents per pound.
 
 Pub. L. 93–125 substituted “prevented from planting any portion” for “prevented from planting, any portion”.
 
-Subsec. (e)(4)(A). Pub. L. 93–86, § 1(20)(D)–(F), inserted “, if required by the Secretary,” before “(ii) the acreage of cropland on the farm devoted in preceding years to soil conserving uses, as determined by the Secretary”, substituted “The Secretary is authorized for the 1974 through 1977 crops to limit the acreage planted to upland cotton on the farm in excess of the farm base acreage allotment to a percentage of the farm base acreage allotment” for “If the Secretary determines prior to the planting season for such crop that the carryover of upland cotton as of the beginning of the marketing year for the 1972 or 1973 crop will exceed 7.2 million bales, the Secretary is authorized for such crop to limit the acreage planted to upland cotton on the farm in excess of the farm base acreage allotment to such percentage of the farm base acreage allotment as he determines necessary to reduce the total supply to a reasonable level”, deleted provision prohibiting grazing during any of the five principal months of the normal growing season as determined by the county committee established pursuant to section 590h(b) of Title 16, and inserted provisions authorizing the raising of hay on set-aside acreage and the production of triticale, oats, and rye.
+Subsec. (e)(4)(A). Pub. L. 93–86, § 1(20)(D)–(F), inserted “, if required by the Secretary,” before “(ii) the acreage of cropland on the farm devoted in preceding years to soil conserving uses, as determined by the Secretary”, substituted “The Secretary is authorized for the 1974 through 1977 crops to limit the acreage planted to upland cotton on the farm in excess of the farm base acreage allotment to a percentage of the farm base acreage allotment” for “If the Secretary determines prior to the planting season for such crop that the carryover of upland cotton as of the beginning of the marketing year for the 1972 or 1973 crop will exceed 7.2 million bales, the Secretary is authorized for such crop to limit the acreage planted to upland cotton on the farm in excess of the farm base acreage allotment to such percentage of the farm base acreage allotment as he determines necessary to reduce the total supply to a reasonable level”, deleted provision prohibiting grazing during any of the five principal months of the normal growing season as determined by the county committee established pursuant to section 590h(b) of Title 16, and inserted provisions authorizing the raising of hay on set-aside acreage and the production of triticale, oats, and rye.
 
-Subsec. (e)(5). Pub. L. 93–86, § 1(20)(G), authorized Secretary in case of programs for 1974 through 1977 crops to pay an appropriate share of cost of practices designed to protect set-aside acreage from erosion, insects, weeds, and rodents and to provide wildlife food plots or wildlife habitat.
+Subsec. (e)(5). Pub. L. 93–86, § 1(20)(G), authorized Secretary in case of programs for 1974 through 1977 crops to pay an appropriate share of cost of practices designed to protect set-aside acreage from erosion, insects, weeds, and rodents and to provide wildlife food plots or wildlife habitat.
 
 1970—Subsec. (e). Pub. L. 91–524 added subsec. (e).
 
@@ -2761,9 +2761,9 @@ Subsec. (e)(5). Pub. L. 93–86, § 1(20)(G), authorized Secretary in case of 
 
 Subsec. (d). Pub. L. 89–321 added subsec. (d).
 
-1964—Subsec. (a). Pub. L. 88–297, § 103(b)(1), (2), designated existing provisions as subsec. (a) and provided that the price support for the 1964 cotton crop shall be a national average support price which reflects 30 cents per pound for Middling one-inch cotton.
+1964—Subsec. (a). Pub. L. 88–297, § 103(b)(1), (2), designated existing provisions as subsec. (a) and provided that the price support for the 1964 cotton crop shall be a national average support price which reflects 30 cents per pound for Middling one-inch cotton.
 
-Subsecs. (b), (c). Pub. L. 88–297, § 103(b)(3), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 88–297, § 103(b)(3), added subsecs. (b) and (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2777,37 +2777,37 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 **Effective and Termination Dates of 1987 Amendment**
 
-Pub. L. 100–203, title I, § 1101(d), Dec. 22, 1987, 101 Stat. 1330–2, provided that the amendment made by section 1101(d) is effective only for the 1988 and 1989 crops of extra long staple cotton.
+Pub. L. 100–203, title I, § 1101(d), Dec. 22, 1987, 101 Stat. 1330–2, provided that the amendment made by section 1101(d) is effective only for the 1988 and 1989 crops of extra long staple cotton.
 
 **Effective and Termination Dates of 1983 Amendments**
 
-Pub. L. 98–88, § 4, Aug. 26, 1983, 97 Stat. 494, provided that the amendment made by section 4 is effective beginning with the 1984 crop of extra long staple cotton.
+Pub. L. 98–88, § 4, Aug. 26, 1983, 97 Stat. 494, provided that the amendment made by section 4 is effective beginning with the 1984 crop of extra long staple cotton.
 
-Pub. L. 97–446, title I, § 155, Jan. 12, 1983, 96 Stat. 2345, provided that the amendment made by section 155 is effective for the 1982 through 1985 crops of upland cotton.
+Pub. L. 97–446, title I, § 155, Jan. 12, 1983, 96 Stat. 2345, provided that the amendment made by section 155 is effective for the 1982 through 1985 crops of upland cotton.
 
 **Effective and Termination Dates of 1981 Amendment**
 
-Pub. L. 97–98, title V, § 502, Dec. 22, 1981, 95 Stat. 1234, provided that the amendment made by section 502 is effective only for the 1982 through 1985 crops of upland cotton.
+Pub. L. 97–98, title V, § 502, Dec. 22, 1981, 95 Stat. 1234, provided that the amendment made by section 502 is effective only for the 1982 through 1985 crops of upland cotton.
 
 **Effective and Termination Dates of 1978 Amendment**
 
-Pub. L. 95–279, title I, § 102, May 15, 1978, 92 Stat. 240, provided that the amendment made by section 102 is effective only with respect to the 1978 through 1981 crops of upland cotton.
+Pub. L. 95–279, title I, § 102, May 15, 1978, 92 Stat. 240, provided that the amendment made by section 102 is effective only with respect to the 1978 through 1981 crops of upland cotton.
 
 Amendment by Pub. L. 95–279 effective Oct. 1, 1978, and applicability to elections by producers receiving loans and payments prior to such date, see section 103 of Pub. L. 95–279, set out as a note under section 1309 of this title.
 
 **Effective and Termination Dates of 1977 Amendment**
 
-Pub. L. 95–113, title VI, § 602, Sept. 29, 1977, 91 Stat. 934, provided that the amendment made by section 602 is effective only with respect to the 1978 through 1981 crops of upland cotton, except as otherwise provided therein.
+Pub. L. 95–113, title VI, § 602, Sept. 29, 1977, 91 Stat. 934, provided that the amendment made by section 602 is effective only with respect to the 1978 through 1981 crops of upland cotton, except as otherwise provided therein.
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–86, § 1(20)(C), Aug. 10, 1973, 87 Stat. 233, provided that the amendment made by section 1(20)(C) is effective beginning with the 1974 crop.
+Pub. L. 93–86, § 1(20)(C), Aug. 10, 1973, 87 Stat. 233, provided that the amendment made by section 1(20)(C) is effective beginning with the 1974 crop.
 
-Pub. L. 93–86, § 1(20)(D), Aug. 10, 1973, 87 Stat. 234, provided that the amendment made by section 1(20)(D), authorizing Secretary for the 1974 through 1977 crops to limit acreage planted in upland cotton on farm in excess of farm base acreage allotment to a percentage of farm base acreage allotment, is effective beginning with the 1974 crop.
+Pub. L. 93–86, § 1(20)(D), Aug. 10, 1973, 87 Stat. 234, provided that the amendment made by section 1(20)(D), authorizing Secretary for the 1974 through 1977 crops to limit acreage planted in upland cotton on farm in excess of farm base acreage allotment to a percentage of farm base acreage allotment, is effective beginning with the 1974 crop.
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–524, title VI, § 602, Nov. 30, 1970, 84 Stat. 1374, provided that the amendment made by section 602 is effective beginning with the 1971 crop of upland cotton.
+Pub. L. 91–524, title VI, § 602, Nov. 30, 1970, 84 Stat. 1374, provided that the amendment made by section 602 is effective beginning with the 1971 crop of upland cotton.
 
 **Inapplicability of Section**
 
@@ -2819,33 +2819,33 @@ Subsec. (a) of this section inapplicable to 2002 through 2007 crops of covered c
 
 Subsec. (a) of this section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(B) of this title.
 
-Pub. L. 101–624, title V, § 503, Nov. 28, 1990, 104 Stat. 3440, provided that: “Section 103(a) of the Agricultural Act of 1949 (7 U.S.C. 1444(a)) shall not be applicable to the 1991 through 1995 crops.”
+Pub. L. 101–624, title V, § 503, Nov. 28, 1990, 104 Stat. 3440, provided that: “Section 103(a) of the Agricultural Act of 1949 (7 U.S.C. 1444(a)) shall not be applicable to the 1991 through 1995 crops.”
 
-Pub. L. 99–198, title V, § 504, Dec. 23, 1985, 99 Stat. 1418, provided that: “Sections 103(a) and 203 of the Agricultural Act of 1949 (7 U.S.C. 1444(a) and 1446d) shall not be applicable to the 1986 through 1990 crops.”
+Pub. L. 99–198, title V, § 504, Dec. 23, 1985, 99 Stat. 1418, provided that: “Sections 103(a) and 203 of the Agricultural Act of 1949 (7 U.S.C. 1444(a) and 1446d) shall not be applicable to the 1986 through 1990 crops.”
 
-Pub. L. 97–98, title V, § 504, Dec. 22, 1981, 95 Stat. 1241, provided that: “Sections 103(a) and 203 of the Agricultural Act of 1949 [sections 1444(a) and 1446d of this title] shall not be applicable to the 1982 through 1985 crops.”
+Pub. L. 97–98, title V, § 504, Dec. 22, 1981, 95 Stat. 1241, provided that: “Sections 103(a) and 203 of the Agricultural Act of 1949 [sections 1444(a) and 1446d of this title] shall not be applicable to the 1982 through 1985 crops.”
 
-Pub. L. 95–113, title VI, § 604(c), Sept. 29, 1977, 91 Stat. 939, provided that: “Sections 103(a) and 203 of the Agricultural Act of 1949, as amended [sections 1444(a) and 1446d of this title] shall not be applicable to the 1978 through 1981 crops.”
+Pub. L. 95–113, title VI, § 604(c), Sept. 29, 1977, 91 Stat. 939, provided that: “Sections 103(a) and 203 of the Agricultural Act of 1949, as amended [sections 1444(a) and 1446d of this title] shall not be applicable to the 1978 through 1981 crops.”
 
-### § 1444–1. Omitted
+### § 1444–1. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 103A, as added Dec. 23, 1985, Pub. L. 99–198, title V, § 501, 99 Stat. 1407; amended Mar. 20, 1986, Pub. L. 99–260, § 2(c), 100 Stat. 46; May 27, 1987, Pub. L. 100–45, § 4, 101 Stat. 319; Dec. 22, 1987, Pub. L. 100–203, title I, §§ 1101(c), 1102(c), 1113(c), 101 Stat. 1330–1, 1330–3, 1330–9, related to loan rates, target prices, disaster payments, acreage limitation program, and land diversion. See Effective and Termination Dates note below.
+Section, act Oct. 31, 1949, ch. 792, title I, § 103A, as added Dec. 23, 1985, Pub. L. 99–198, title V, § 501, 99 Stat. 1407; amended Mar. 20, 1986, Pub. L. 99–260, § 2(c), 100 Stat. 46; May 27, 1987, Pub. L. 100–45, § 4, 101 Stat. 319; Dec. 22, 1987, Pub. L. 100–203, title I, §§ 1101(c), 1102(c), 1113(c), 101 Stat. 1330–1, 1330–3, 1330–9, related to loan rates, target prices, disaster payments, acreage limitation program, and land diversion. See Effective and Termination Dates note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates**
 
-Pub. L. 99–198, title V, § 501, Dec. 23, 1985, 99 Stat. 1407, provided that this section is effective only for the 1986 through 1990 crops of upland cotton.
+Pub. L. 99–198, title V, § 501, Dec. 23, 1985, 99 Stat. 1407, provided that this section is effective only for the 1986 through 1990 crops of upland cotton.
 
-### § 1444–2. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(B), Apr. 4, 1996, 110 Stat. 938
+### § 1444–2. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(B), Apr. 4, 1996, 110 Stat. 938
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 103B, as added Nov. 28, 1990, Pub. L. 101–624, title V, § 501, 104 Stat. 3421; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1101(c), 104 Stat. 1388–1; Dec. 13, 1991, Pub. L. 102–237, title I, §§ 102(b), 106(b), 107, 113(2), (3), 125, 126, 105 Stat. 1821, 1825, 1827, 1837, 1845; Aug. 10, 1993, Pub. L. 103–66, title I, § 1101(a), 107 Stat. 313; May 6, 1994, Pub. L. 103–247, § 1(a), 108 Stat. 618; Oct. 13, 1994, Pub. L. 103–354, title I, § 119(a)(3), 108 Stat. 3207; Dec. 8, 1994, Pub. L. 103–465, title IV, § 401(b)(2), 108 Stat. 4957; Aug. 20, 1996, Pub. L. 104–188, title I, § 1954(b)(5), 110 Stat. 1928, related to loans, payments, and acreage reduction programs for 1991 through 1997 crops of upland cotton.
+Section, act Oct. 31, 1949, ch. 792, title I, § 103B, as added Nov. 28, 1990, Pub. L. 101–624, title V, § 501, 104 Stat. 3421; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1101(c), 104 Stat. 1388–1; Dec. 13, 1991, Pub. L. 102–237, title I, §§ 102(b), 106(b), 107, 113(2), (3), 125, 126, 105 Stat. 1821, 1825, 1827, 1837, 1845; Aug. 10, 1993, Pub. L. 103–66, title I, § 1101(a), 107 Stat. 313; May 6, 1994, Pub. L. 103–247, § 1(a), 108 Stat. 618; Oct. 13, 1994, Pub. L. 103–354, title I, § 119(a)(3), 108 Stat. 3207; Dec. 8, 1994, Pub. L. 103–465, title IV, § 401(b)(2), 108 Stat. 4957; Aug. 20, 1996, Pub. L. 104–188, title I, § 1954(b)(5), 110 Stat. 1928, related to loans, payments, and acreage reduction programs for 1991 through 1997 crops of upland cotton.
 
-### § 1444a. Corn and feed grains and cotton programs
+### § 1444a. Corn and feed grains and cotton programs
 
 **(a) Referendum of 1958 corn producers**
 
@@ -2871,15 +2871,15 @@ The Secretary may issue such regulations as he deems necessary to enforce the pr
 
 The Secretary is authorized to cooperate with the Government of Mexico in carrying out operations or measures in Mexico which he deems necessary and feasible to prevent the movement into the United States from Mexico of any insects eradicated under the provisions of this subsection. The measure and character of cooperation carried out under this subsection on the part of the United States and on the part of the Government of Mexico, including the expenditure or use of funds made available by the Secretary under this subsection, shall be such as may be prescribed by the Secretary. Arrangements for the cooperations authorized by this subsection shall be made through and in consultation with the Secretary of State. The Commodity Credit Corporation shall not make any expenditures for carrying out the purposes of this subsection unless the Corporation has received funds to cover such expenditures from appropriations made to carry out the purposes of this subsection. There are hereby authorized to be appropriated to the Commodity Credit Corporation such sums as the Congress may from time to time determine to be necessary to carry out the purposes of this subsection.
 
-(Oct. 31, 1949, ch. 792, title I, § 104, as added Pub. L. 85–835, title II, § 201, Aug. 28, 1958, 72 Stat. 993; amended Pub. L. 88–297, title I, § 103(a), Apr. 11, 1964, 78 Stat. 174; Pub. L. 91–524, title VI, § 611, Nov. 30, 1970, as added Pub. L. 93–86, § 1(24), Aug. 10, 1973, 87 Stat. 235; Pub. L. 103–437, § 4(a)(6), Nov. 2, 1994, 108 Stat. 4581.)
+(Oct. 31, 1949, ch. 792, title I, § 104, as added Pub. L. 85–835, title II, § 201, Aug. 28, 1958, 72 Stat. 993; amended Pub. L. 88–297, title I, § 103(a), Apr. 11, 1964, 78 Stat. 174; Pub. L. 91–524, title VI, § 611, Nov. 30, 1970, as added Pub. L. 93–86, § 1(24), Aug. 10, 1973, 87 Stat. 235; Pub. L. 103–437, § 4(a)(6), Nov. 2, 1994, 108 Stat. 4581.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act of 1938, as amended, referred to in subsec. (a), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, as amended, referred to in subsec. (a), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-This Act, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Codification**
 
@@ -2893,7 +2893,7 @@ Subsec. (b)(3) of this section, as added by section 201 of Pub. L. 85–835, rep
 
 1994—Subsec. (c). Pub. L. 103–437 substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
-1973—Subsec. (d). Pub. L. 91–524, § 611, as added Pub. L. 93–86, § 1(24), added subsec. (d).
+1973—Subsec. (d). Pub. L. 91–524, § 611, as added Pub. L. 93–86, § 1(24), added subsec. (d).
 
 1964—Subsec. (c). Pub. L. 88–297 added subsec. (c).
 
@@ -2903,13 +2903,13 @@ Subsec. (b)(3) of this section, as added by section 201 of Pub. L. 85–835, rep
 
 Corn producers voted for adoption of price support program as provided in subsec. (b) of this section (254,262) rather than alternative corn acreage allotment and price support program (102,907), the ballot making operative sections 1329a and 1444b and repeal of section 1441(d)(4) of this title.
 
-### § 1444b. Feed grains; price support program
+### § 1444b. Feed grains; price support program
 
 **(a)** Notwithstanding the provisions of section 1441 of this title, beginning with the 1964 crop, price support shall be made available to producers for each crop of corn at such level, not less than 50 per centum or more than 90 per centum of the parity price therefor, as the Secretary determines will not result in increasing Commodity Credit Corporation stocks of corn: *Provided*, That in the case of any crop for which an acreage diversion program is in effect for feed grains, the level of price support for corn of such crop shall be at such level not less than 65 per centum or more than 90 per centum of the parity price therefor as the Secretary determines necessary to achieve the acreage reduction goal established by him for the crop.
 
 **(b)** Beginning with the 1959 crop, price support shall be made available to producers for each crop of oats, rye, barley, and grain sorghums at such level of the parity price therefor as the Secretary of Agriculture determines is fair and reasonable in relation to the level at which price support is made available for corn, taking into consideration the feeding value of such commodity in relation to corn, and the other factors set forth in section 1421(b) of this title.
 
-(Oct. 31, 1949, ch. 792, title I, § 105, as added Oct. 31, 1949, ch. 792, title I, § 104(b)(2), as added Pub. L. 85–835, title II, § 201, Aug. 28, 1958, 72 Stat. 994; amended Pub. L. 87–5, § 1, Mar. 22, 1961, 75 Stat. 6; Pub. L. 87–128, title I, § 131, Aug. 8, 1961, 75 Stat. 301; Pub. L. 87–425, § 1, Mar. 30, 1962, 76 Stat. 50; Pub. L. 87–703, title III, §§ 301, 305, Sept. 27, 1962, 76 Stat. 612, 614; Pub. L. 88–26, § 2, May 20, 1963, 77 Stat. 44; Pub. L. 89–112, § 1, Aug. 6, 1965, 79 Stat. 446; Pub. L. 89–321, title III, § 301, Nov. 3, 1965, 79 Stat. 1188; Pub. L. 89–451, § 2, June 17, 1966, 80 Stat. 202; Pub. L. 89–321, title III, § 301, Nov. 3, 1965, as amended Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title V, § 501, Nov. 30, 1970, 84 Stat. 1368; Pub. L. 91–524, title V, § 501, Nov. 30, 1970, as amended Pub. L. 93–86, § 1(18), Aug. 10, 1973, 87 Stat. 230; Pub. L. 93–86, § 1(18), Aug. 10, 1973, 87 Stat. 230; Pub. L. 93–86, § 1(18), Aug. 10, 1973, as amended Pub. L. 93–125, § 1(d), Oct. 18, 1973, 87 Stat. 450; Pub. L. 93–228, § 1(b), Dec. 29, 1973, 87 Stat. 944.)
+(Oct. 31, 1949, ch. 792, title I, § 105, as added Oct. 31, 1949, ch. 792, title I, § 104(b)(2), as added Pub. L. 85–835, title II, § 201, Aug. 28, 1958, 72 Stat. 994; amended Pub. L. 87–5, § 1, Mar. 22, 1961, 75 Stat. 6; Pub. L. 87–128, title I, § 131, Aug. 8, 1961, 75 Stat. 301; Pub. L. 87–425, § 1, Mar. 30, 1962, 76 Stat. 50; Pub. L. 87–703, title III, §§ 301, 305, Sept. 27, 1962, 76 Stat. 612, 614; Pub. L. 88–26, § 2, May 20, 1963, 77 Stat. 44; Pub. L. 89–112, § 1, Aug. 6, 1965, 79 Stat. 446; Pub. L. 89–321, title III, § 301, Nov. 3, 1965, 79 Stat. 1188; Pub. L. 89–451, § 2, June 17, 1966, 80 Stat. 202; Pub. L. 89–321, title III, § 301, Nov. 3, 1965, as amended Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title V, § 501, Nov. 30, 1970, 84 Stat. 1368; Pub. L. 91–524, title V, § 501, Nov. 30, 1970, as amended Pub. L. 93–86, § 1(18), Aug. 10, 1973, 87 Stat. 230; Pub. L. 93–86, § 1(18), Aug. 10, 1973, 87 Stat. 230; Pub. L. 93–86, § 1(18), Aug. 10, 1973, as amended Pub. L. 93–125, § 1(d), Oct. 18, 1973, 87 Stat. 450; Pub. L. 93–228, § 1(b), Dec. 29, 1973, 87 Stat. 944.)
 
 **Editorial Notes**
 
@@ -2925,37 +2925,37 @@ Pub. L. 93–125 amended feed grain loan and purchases price support program for
 
 Pub. L. 93–86 temporarily enacted feed grain loans and purchases price support program for 1974 through 1977, as described below. See Effective and Termination Dates of 1973 Amendment note below.
 
-Pub. L. 91–524, § 501, as amended Pub. L. 93–86, § 1(18)(A), reenacted introductory text without change.
+Pub. L. 91–524, § 501, as amended Pub. L. 93–86, § 1(18)(A), reenacted introductory text without change.
 
-Subsec. (a)(1). Pub. L. 91–524, § 501, as amended Pub. L. 93–86, § 1(18)(A), increased minimum corn crop support level from $1.00 to $1.10 per bushel.
+Subsec. (a)(1). Pub. L. 91–524, § 501, as amended Pub. L. 93–86, § 1(18)(A), increased minimum corn crop support level from $1.00 to $1.10 per bushel.
 
-Subsec. (a)(2). Pub. L. 91–524, § 501, as amended Pub. L. 93–36, § 1(18)(A), reenacted par. (2) provisions without change.
+Subsec. (a)(2). Pub. L. 91–524, § 501, as amended Pub. L. 93–36, § 1(18)(A), reenacted par. (2) provisions without change.
 
-Subsec. (b)(1). Pub. L. 91–524, § 501, as amended Pub. L. 93–86, § 1(18)(B), added par. (1). Former par. (1) related to subject matter as described in 1970 Amendment note for subsec. (b)(1) of this section.
+Subsec. (b)(1). Pub. L. 91–524, § 501, as amended Pub. L. 93–86, § 1(18)(B), added par. (1). Former par. (1) related to subject matter as described in 1970 Amendment note for subsec. (b)(1) of this section.
 
 Subsec. (b)(1) last sentence. Pub. L. 93–228 substituted “(or of wheat, or cotton planted in lieu of the allotted crop)” for “(or other nonconserving crop planted instead of feed grains)”.
 
-Subsec. (b)(2). Pub. L. 91–524, § 501, as amended Pub. L. 93–86, § 1(18)(B), added par. (2). Former par. (2) made payments with respect to a farm available on 50 per centum of the feed grain base for the farm and for computation of the payments on the basis of the yield established for the farm for the preceding crop with such adjustments as the Secretary determines necessary to provide a fair and equitable yield.
+Subsec. (b)(2). Pub. L. 91–524, § 501, as amended Pub. L. 93–86, § 1(18)(B), added par. (2). Former par. (2) made payments with respect to a farm available on 50 per centum of the feed grain base for the farm and for computation of the payments on the basis of the yield established for the farm for the preceding crop with such adjustments as the Secretary determines necessary to provide a fair and equitable yield.
 
-Subsec. (b)(3). Pub. L. 91–524, § 501, as amended Pub. L. 93–86, § 1(18)(B), substituted in: first sentence, “the feed grain allotment for the farm, the feed grain allotment for the farm for the succeeding crops shall be reduced by the percentage by which the planted acreage is less than the feed grain allotment for the farm, but such reduction shall not exceed 20 per centum of the feed grain allotment” for “the portion of the feed grain base for the farm on which payments are available under this subsection, the feed grain base for the farm for the succeeding crops shall be reduced by the percentage by which the planted acreage is less than such portion of the feed grain base for the farm, but such reduction shall not exceed 20 per centum of the feed grain base”; second sentence, including proviso, “feed grain allotment” for “feed grain base”; third sentence, “feed grain allotments” for “feed grain bases”; fourth sentence, “90 per centum of the feed grain allotment” for “90 per centum of the portion of the feed grain base on which payments are made available” and “100 per centum of such allotment” for “100 per centum of such portion”; and sixth sentence “effective operation of the program” for “effective operation of the feed grain or soybean program”; and authorized acreage devoted to guar, castor beans, cotton, triticale, oats, rye, or such other crops as the Secretary may deem appropriate, to be considered as feed grain acreage.
+Subsec. (b)(3). Pub. L. 91–524, § 501, as amended Pub. L. 93–86, § 1(18)(B), substituted in: first sentence, “the feed grain allotment for the farm, the feed grain allotment for the farm for the succeeding crops shall be reduced by the percentage by which the planted acreage is less than the feed grain allotment for the farm, but such reduction shall not exceed 20 per centum of the feed grain allotment” for “the portion of the feed grain base for the farm on which payments are available under this subsection, the feed grain base for the farm for the succeeding crops shall be reduced by the percentage by which the planted acreage is less than such portion of the feed grain base for the farm, but such reduction shall not exceed 20 per centum of the feed grain base”; second sentence, including proviso, “feed grain allotment” for “feed grain base”; third sentence, “feed grain allotments” for “feed grain bases”; fourth sentence, “90 per centum of the feed grain allotment” for “90 per centum of the portion of the feed grain base on which payments are made available” and “100 per centum of such allotment” for “100 per centum of such portion”; and sixth sentence “effective operation of the program” for “effective operation of the feed grain or soybean program”; and authorized acreage devoted to guar, castor beans, cotton, triticale, oats, rye, or such other crops as the Secretary may deem appropriate, to be considered as feed grain acreage.
 
-Subsec. (c)(1) second sentence. Pub. L. 93–86, § 1(18)(D), formerly § 1(18)(C [second]), renumbered by Pub. L. 93–125, § 1(d)(ii), substituted in item (i) “feed grain allotment” for “feed grain base”, inserted preceding item (ii) “, if required by the Secretary”, and substituted in item (ii) “soil conserving uses” for “soil-conserving uses”.
+Subsec. (c)(1) second sentence. Pub. L. 93–86, § 1(18)(D), formerly § 1(18)(C [second]), renumbered by Pub. L. 93–125, § 1(d)(ii), substituted in item (i) “feed grain allotment” for “feed grain base”, inserted preceding item (ii) “, if required by the Secretary”, and substituted in item (ii) “soil conserving uses” for “soil-conserving uses”.
 
-Subsec. (c)(1) third sentence. Pub. L. 93–86, § 1(18)(E), formerly § 1(18)(D), renumbered by Pub. L. 93–125, § 1(d)(ii), substituted “The Secretary is authorized for the 1974 through 1977 crops to limit the acreage planted to feed grains on the farm to a percentage of the farm acreage allotment.” for “The Secretary is authorized for the 1971, 1972, and 1973 crops to limit the acreage planted to feed grains on the farm to such percentage of the feed grain base as he determines necessary to provide an orderly transition to the program provided for under this section.”
+Subsec. (c)(1) third sentence. Pub. L. 93–86, § 1(18)(E), formerly § 1(18)(D), renumbered by Pub. L. 93–125, § 1(d)(ii), substituted “The Secretary is authorized for the 1974 through 1977 crops to limit the acreage planted to feed grains on the farm to a percentage of the farm acreage allotment.” for “The Secretary is authorized for the 1971, 1972, and 1973 crops to limit the acreage planted to feed grains on the farm to such percentage of the feed grain base as he determines necessary to provide an orderly transition to the program provided for under this section.”
 
-Subsec. (c)(1) fifth sentence. Pub. L. 93–86, § 1(18)(D), formerly § 1(18)(C [second]), renumbered by Pub. L. 93–125, § 1(d)(ii), substituted “1971 through 1977” for “1971, 1972, 1973”.
+Subsec. (c)(1) fifth sentence. Pub. L. 93–86, § 1(18)(D), formerly § 1(18)(C [second]), renumbered by Pub. L. 93–125, § 1(d)(ii), substituted “1971 through 1977” for “1971, 1972, 1973”.
 
-Subsec. (c)(1) last sentence. Pub. L. 93–86, § 1(18)(C), as amended Pub. L. 93–125, § 1(d)(i), authorized set-aside acreage to be devoted to hay and production of triticale, oats, and rye, and deleted item (1) and (2) designation of existing provisions, and former introductory text reading “Grazing shall not be permitted during any of the five principal months of the normal growing season as determined by the county committee established pursuant to section 590h(b) of title 16, and subject to this limitation”, and provided for such provisions as run-in rather than new-paragraph text.
+Subsec. (c)(1) last sentence. Pub. L. 93–86, § 1(18)(C), as amended Pub. L. 93–125, § 1(d)(i), authorized set-aside acreage to be devoted to hay and production of triticale, oats, and rye, and deleted item (1) and (2) designation of existing provisions, and former introductory text reading “Grazing shall not be permitted during any of the five principal months of the normal growing season as determined by the county committee established pursuant to section 590h(b) of title 16, and subject to this limitation”, and provided for such provisions as run-in rather than new-paragraph text.
 
-Subsec. (c)(3). Pub. L. 93–86, § 1(18)(G), formerly § 1(18)(F), renumbered by Pub. L. 93–125, § 1(d)(ii), inserted after provision for devotion of set-aside acreage and diverted acreage to wildlife food plots or wildlife habitat the sentence “The Secretary may, in the case of programs for the 1974 through 1977 crops, pay an appropriate share of the cost of practices designed to carry out the purposes of the foregoing sentences.”
+Subsec. (c)(3). Pub. L. 93–86, § 1(18)(G), formerly § 1(18)(F), renumbered by Pub. L. 93–125, § 1(d)(ii), inserted after provision for devotion of set-aside acreage and diverted acreage to wildlife food plots or wildlife habitat the sentence “The Secretary may, in the case of programs for the 1974 through 1977 crops, pay an appropriate share of the cost of practices designed to carry out the purposes of the foregoing sentences.”
 
-Subsec. (e)(1). Pub. L. 93–86, § 1(18)(F), formerly § 1(18)(E), renumbered by Pub. L. 93–125, § 1(d)(ii), struck out provision reading “For the purpose of this section, the feed grain base shall be the average acreage devoted on the farm to corn, grain sorghums and, if designated by the Secretary, barley in 1959 and 1960.”
+Subsec. (e)(1). Pub. L. 93–86, § 1(18)(F), formerly § 1(18)(E), renumbered by Pub. L. 93–125, § 1(d)(ii), struck out provision reading “For the purpose of this section, the feed grain base shall be the average acreage devoted on the farm to corn, grain sorghums and, if designated by the Secretary, barley in 1959 and 1960.”
 
-Subsec. (e)(2). Pub. L. 93–86, § 1(18)(F), formerly § 1(18)(E), renumbered by Pub. L. 93–125, § 1(d)(ii), substituted “farm grain allotments” for “farm grain bases” wherever appearing.
+Subsec. (e)(2). Pub. L. 93–86, § 1(18)(F), formerly § 1(18)(E), renumbered by Pub. L. 93–125, § 1(d)(ii), substituted “farm grain allotments” for “farm grain bases” wherever appearing.
 
-Subsec. (e)(3). Pub. L. 93–86, § 1(18)(F), formerly § 1(18)(E), renumbered by Pub. L. 93–125, § 1(d)(ii), struck out provisions respecting reservation for farms in a State for any year for apportionment to farms without 1959 and 1960 acreage, apportionment factors, prohibition against reflection of new cropland by such reserved allocation, and consideration of farm feed grain base as farm feed grain acreage for 1959 and 1960 crop years.
+Subsec. (e)(3). Pub. L. 93–86, § 1(18)(F), formerly § 1(18)(E), renumbered by Pub. L. 93–125, § 1(d)(ii), struck out provisions respecting reservation for farms in a State for any year for apportionment to farms without 1959 and 1960 acreage, apportionment factors, prohibition against reflection of new cropland by such reserved allocation, and consideration of farm feed grain base as farm feed grain acreage for 1959 and 1960 crop years.
 
-Subsec. (g). Pub. L. 93–86, § 1(18)(F), formerly § 1(18)(E), renumbered by Pub. L. 93–125, § 1(d)(ii), struck out provisions for preliminary payments, time and rate of payment, and reduction of preliminary payment rate.
+Subsec. (g). Pub. L. 93–86, § 1(18)(F), formerly § 1(18)(E), renumbered by Pub. L. 93–125, § 1(d)(ii), struck out provisions for preliminary payments, time and rate of payment, and reduction of preliminary payment rate.
 
 1970—Pub. L. 91–524 temporarily enacted feed grains loans and purchases price support program for 1971, 1972, and 1973, as described below. See Effective and Termination Dates of 1970 Amendment note below.
 
@@ -3025,49 +3025,49 @@ Subsec. (e) eighth sentence. Pub. L. 89–321 incorporated seventh sentence of f
 
 Subsec. (e) ninth sentence. Pub. L. 89–321 incorporated ninth sentence of former subsec. (d) as ninth sentence of subsec. (e) and substituted “basis of their respective shares in the feed grain crop produced on the farm, or the proceeds therefrom, except that in any case in which the Secretary determines that such basis would not be fair and equitable, the Secretary shall provide for such sharing on such other basis as he may determine to be fair and equitable” for “basis of their respective shares in the crop produced on the farm with respect to which such certificates are issued, or the proceeds therefrom”.
 
-Subsec. (e) tenth sentence. Pub. L. 89–321 incorporated tenth sentence of former subsec. (d) as tenth sentence of subsec. (e) and substituted “, in accordance with the provisions of such program,” for “in accordance with the provisions of such program”.
+Subsec. (e) tenth sentence. Pub. L. 89–321 incorporated tenth sentence of former subsec. (d) as tenth sentence of subsec. (e) and substituted “, in accordance with the provisions of such program,” for “in accordance with the provisions of such program”.
 
 Subsec. (e) eleventh sentence. Pub. L. 89–321 authorized the Secretary, where the failure of a producer to comply with the terms and conditions of the programs formulated under subsecs. (d) and (e) of this section precluded making payments-in-kind, to make such payments-in-kind in such amounts as he determined to be equitable in relation to the seriousness of the default.
 
 1963—Pub. L. 88–26 amended feed grains support program for 1962, and enacted feed grains support program for 1964 and 1965, as described hereunder.
 
-Subsec. (a). Pub. L. 88–26, § 2(1), inserted proviso for such corn price support level, in the case of any crop for which an acreage diversion program is in effect for feed grains, not less than 65 per centum or more than 90 per centum of the parity price therefor as the Secretary determines necessary to achieve the acreage reduction goal established by him for the crop.
+Subsec. (a). Pub. L. 88–26, § 2(1), inserted proviso for such corn price support level, in the case of any crop for which an acreage diversion program is in effect for feed grains, not less than 65 per centum or more than 90 per centum of the parity price therefor as the Secretary determines necessary to achieve the acreage reduction goal established by him for the crop.
 
-Subsec. (d). Pub. L. 88–26, § 2(2), in adding subsec. (d), enacted feed grains support program for 1964 and 1965.
+Subsec. (d). Pub. L. 88–26, § 2(2), in adding subsec. (d), enacted feed grains support program for 1964 and 1965.
 
-Subsec. (d) first sentence. Pub. L. 88–26, § 2(2), made subsec. (d) applicable to 1964 and 1965 feed grains crops if an acreage diversion program was in effect under section 590p(h) of title 16.
+Subsec. (d) first sentence. Pub. L. 88–26, § 2(2), made subsec. (d) applicable to 1964 and 1965 feed grains crops if an acreage diversion program was in effect under section 590p(h) of title 16.
 
-Subsec. (d) second sentence. Pub. L. 88–26, § 2(2), required as a condition of eligibility for price support on crop of feed grain included in the acreage diversion program, participation of producer in the diversion program to the extent prescribed by the Secretary, and as a condition of eligibility for such price support if a diversion program was not in effect for 1964 or 1965 crop, that feed grain base be not exceeded by producer and excepted producer of malting barley from requirement of participation in the acreage diversion program for feed grains if such producer had previously produced a malting variety of barley, planted barley only of an acceptable malting variety for harvest, did not devote barley farm acreage in excess of 110 per centum of average acreage devoted to barley in 1959 and 1960, did not devote corn and grain sorghums farm acreage in excess of average acreage devoted to corn and grain sorghums in 1959 and 1960, and did not devote oats and rye acreage in 1959 and 1960 to production of wheat pursuant to section 1339c of this title.
+Subsec. (d) second sentence. Pub. L. 88–26, § 2(2), required as a condition of eligibility for price support on crop of feed grain included in the acreage diversion program, participation of producer in the diversion program to the extent prescribed by the Secretary, and as a condition of eligibility for such price support if a diversion program was not in effect for 1964 or 1965 crop, that feed grain base be not exceeded by producer and excepted producer of malting barley from requirement of participation in the acreage diversion program for feed grains if such producer had previously produced a malting variety of barley, planted barley only of an acceptable malting variety for harvest, did not devote barley farm acreage in excess of 110 per centum of average acreage devoted to barley in 1959 and 1960, did not devote corn and grain sorghums farm acreage in excess of average acreage devoted to corn and grain sorghums in 1959 and 1960, and did not devote oats and rye acreage in 1959 and 1960 to production of wheat pursuant to section 1339c of this title.
 
-Subsec. (d) third sentence. Pub. L. 88–26, § 2(2), authorized payments in kind for such portion of support price for any feed grain included in the acreage diversion program to assure that benefits of price support and diversion programs inure primarily to those producers who cooperate in feed grains acreage reductions.
+Subsec. (d) third sentence. Pub. L. 88–26, § 2(2), authorized payments in kind for such portion of support price for any feed grain included in the acreage diversion program to assure that benefits of price support and diversion programs inure primarily to those producers who cooperate in feed grains acreage reductions.
 
-Subsec. (d) fourth sentence. Pub. L. 88–26, § 2(2), provided for payments in kind on number of bushels of feed grain determined by multiplying actual acreage of feed grain planted on the farm for harvest by adjusted average yield per acre.
+Subsec. (d) fourth sentence. Pub. L. 88–26, § 2(2), provided for payments in kind on number of bushels of feed grain determined by multiplying actual acreage of feed grain planted on the farm for harvest by adjusted average yield per acre.
 
-Subsec. (d) fifth sentence. Pub. L. 88–26, § 2(2), made base period used in determining adjusted average yield the same as used for purposes of acreage diversion program under section 590p(h) of title 16.
+Subsec. (d) fifth sentence. Pub. L. 88–26, § 2(2), made base period used in determining adjusted average yield the same as used for purposes of acreage diversion program under section 590p(h) of title 16.
 
-Subsec. (d) sixth sentence. Pub. L. 88–26, § 2(2), authorized 50 per centum payments to producers in advance of determination of performance.
+Subsec. (d) sixth sentence. Pub. L. 88–26, § 2(2), authorized 50 per centum payments to producers in advance of determination of performance.
 
-Subsec. (d) seventh sentence. Pub. L. 88–26, § 2(2), provided for payments in kind through issuance of negotiable certificates, redemption for feed grains by the CCC (such feed grains to be valued by the Secretary at not less than the current support price minus that part of the current support price made available through payments in kind, plus reasonable carrying charges), and for assistance of CCC in marketing of the certificates.
+Subsec. (d) seventh sentence. Pub. L. 88–26, § 2(2), provided for payments in kind through issuance of negotiable certificates, redemption for feed grains by the CCC (such feed grains to be valued by the Secretary at not less than the current support price minus that part of the current support price made available through payments in kind, plus reasonable carrying charges), and for assistance of CCC in marketing of the certificates.
 
-Subsec. (d) eighth sentence. Pub. L. 88–26, § 2(2), provided for deduction from value of negotiable certificates, not presented for redemption within thirty days of date of issuance, or reasonable costs of storage and other carrying charges, for the period beginning thirty days after issuance and ending with date of presentation for redemption.
+Subsec. (d) eighth sentence. Pub. L. 88–26, § 2(2), provided for deduction from value of negotiable certificates, not presented for redemption within thirty days of date of issuance, or reasonable costs of storage and other carrying charges, for the period beginning thirty days after issuance and ending with date of presentation for redemption.
 
-Subsec. (d) ninth sentence. Pub. L. 88–26, § 2(2), required the Secretary to provide for sharing of negotiable certificates among producers on the farm on basis of respective shares in the crop produced on the farm with respect to which such certificates were issued, or the proceeds therefrom.
+Subsec. (d) ninth sentence. Pub. L. 88–26, § 2(2), required the Secretary to provide for sharing of negotiable certificates among producers on the farm on basis of respective shares in the crop produced on the farm with respect to which such certificates were issued, or the proceeds therefrom.
 
-Subsec. (d) tenth sentence. Pub. L. 88–26, § 2(2), conditioned availability of price support for feed grains included in acreage diversion program, where operator of farm elected to participate in the acreage diversion program, to producers on farm diverting from feed grain production under the program an acreage on the farm equal to number of acres which operator agreed to divert, and agreement so provided.
+Subsec. (d) tenth sentence. Pub. L. 88–26, § 2(2), conditioned availability of price support for feed grains included in acreage diversion program, where operator of farm elected to participate in the acreage diversion program, to producers on farm diverting from feed grain production under the program an acreage on the farm equal to number of acres which operator agreed to divert, and agreement so provided.
 
 1962—Pub. L. 87–703 enacted feed grains price support program for 1963.
 
 Pub. L. 87–425 amended feed grains support program for 1962.
 
-Subsec. (a). Pub. L. 87–703, § 305, substituted provisions for such corn price support level, beginning with 1964 crop, not less than 50 per centum or more than 90 per centum of the parity price therefor, as the Secretary determines will not result in increasing Commodity Credit Corporation stocks of corn for former corn price support, beginning with 1959 crop, at 90 per centum of the average price received by farmers during the three calendar years immediately preceding the calendar year in which the marketing year for such crops began, adjusted to offset the effect on such price of any abnormal quantities of low-grade corn marketed during any of such year, provided the level of price support for any crop of corn be not less than 65 per centum of the parity price therefor.
+Subsec. (a). Pub. L. 87–703, § 305, substituted provisions for such corn price support level, beginning with 1964 crop, not less than 50 per centum or more than 90 per centum of the parity price therefor, as the Secretary determines will not result in increasing Commodity Credit Corporation stocks of corn for former corn price support, beginning with 1959 crop, at 90 per centum of the average price received by farmers during the three calendar years immediately preceding the calendar year in which the marketing year for such crops began, adjusted to offset the effect on such price of any abnormal quantities of low-grade corn marketed during any of such year, provided the level of price support for any crop of corn be not less than 65 per centum of the parity price therefor.
 
-Subsec. (c). Pub. L. 87–703, § 301, in adding pars. (5) and (6), enacted feed grains price support program for 1963, as described hereunder.
+Subsec. (c). Pub. L. 87–703, § 301, in adding pars. (5) and (6), enacted feed grains price support program for 1963, as described hereunder.
 
 Subsec. (c)(4). Pub. L. 87–425 excepted producer of barley on a summer-fallow farm from requirement of participation in special agricultural conservation program for 1962 for barley if such producer did not devote barley farm acreage in excess of average acreage devoted to barley in 1959 and 1960 plus the acreage devoted to summer fallow in 1961 which was diverted from the production of wheat under the special 1962 wheat program and did not devote corn, grain sorghums, and barley farm acreage in excess of 80 per centum of average acreage devoted to corn, grain sorghums, and barley in 1959 and 1960.
 
-Subsec. (c)(5). Pub. L. 87–703, § 301, required establishment of 1963 corn crop price support at such level not less than 65 per centum of parity price as Secretary might determine; provided for: payments in kind in amount of 18 cents per bushel of support price for corn, and comparable portion of support price for grain sorghums and barley; such payments on number of bushels of such feed grain determined by multiplying actual acreage of such feed grain planted on the farm for harvest in 1963 by the adjusted average yield per acre for 1959 and 1960 crop acreage of such feed grain; such payments through issuance of negotiable certificates redeemable by CCC for corn, grain sorghums, and barley (such feed grains to be valued by the Secretary at not less than support price minus that part of support price made available through payments in kind) and for CCC assistance to producer in marketing of such certificates; deduction from value of the certificate, in the case of any certificate not presented for redemption within 30 days of date of its issuance, reasonable costs of storage and other carrying charges for period beginning 30 days after its issuance and ending with the date of its presentation for redemption; and basis for sharing of such certificate among producers on the farm; and conditioned availability of price support to inclusion of prescribed acreage diversion where operator of farm elected to participate in the special agricultural conservation program for 1963, for corn, grain sorghums, and barley.
+Subsec. (c)(5). Pub. L. 87–703, § 301, required establishment of 1963 corn crop price support at such level not less than 65 per centum of parity price as Secretary might determine; provided for: payments in kind in amount of 18 cents per bushel of support price for corn, and comparable portion of support price for grain sorghums and barley; such payments on number of bushels of such feed grain determined by multiplying actual acreage of such feed grain planted on the farm for harvest in 1963 by the adjusted average yield per acre for 1959 and 1960 crop acreage of such feed grain; such payments through issuance of negotiable certificates redeemable by CCC for corn, grain sorghums, and barley (such feed grains to be valued by the Secretary at not less than support price minus that part of support price made available through payments in kind) and for CCC assistance to producer in marketing of such certificates; deduction from value of the certificate, in the case of any certificate not presented for redemption within 30 days of date of its issuance, reasonable costs of storage and other carrying charges for period beginning 30 days after its issuance and ending with the date of its presentation for redemption; and basis for sharing of such certificate among producers on the farm; and conditioned availability of price support to inclusion of prescribed acreage diversion where operator of farm elected to participate in the special agricultural conservation program for 1963, for corn, grain sorghums, and barley.
 
-Subsec. (c)(6). Pub. L. 87–703, § 301, required as a condition of eligibility for price support on 1963 crop of corn, grain sorghums, and barley participation of producer in special agricultural conservation program for 1963 for corn, grain sorghums, and barley to the extent prescribed by the Secretary and excepted producer of malting barley from requirement of participation in special agricultural conservation program for 1963 if such producer had previously produced a malting variety of barley, planted barley only of an acceptable malting variety for harvest in 1963, and did not devote barley farm acreage in excess of 110 per centum of average acreage devoted to barley in 1959 and 1960, and did not devote corn and grain sorghums farm acreage in excess of average acreage devoted to corn and grain sorghums in 1959 and 1960.
+Subsec. (c)(6). Pub. L. 87–703, § 301, required as a condition of eligibility for price support on 1963 crop of corn, grain sorghums, and barley participation of producer in special agricultural conservation program for 1963 for corn, grain sorghums, and barley to the extent prescribed by the Secretary and excepted producer of malting barley from requirement of participation in special agricultural conservation program for 1963 if such producer had previously produced a malting variety of barley, planted barley only of an acceptable malting variety for harvest in 1963, and did not devote barley farm acreage in excess of 110 per centum of average acreage devoted to barley in 1959 and 1960, and did not devote corn and grain sorghums farm acreage in excess of average acreage devoted to corn and grain sorghums in 1959 and 1960.
 
 1961—Pub. L. 87–128 enacted feed grains price support program for 1962.
 
@@ -3095,15 +3095,15 @@ Subsec. (b). Pub. L. 85–835 made price support available, beginning with 1959 
 
 **Effective and Termination Dates of 1973 Amendment**
 
-Pub. L. 91–524, title V, § 501, as amended by Pub. L. 93–86, § 1(18), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by section 501 is effective only with respect to the 1974 through 1977 crops of feed grains.
+Pub. L. 91–524, title V, § 501, as amended by Pub. L. 93–86, § 1(18), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by section 501 is effective only with respect to the 1974 through 1977 crops of feed grains.
 
-Pub. L. 91–524, title V, § 501(a), formerly § 501, as renumbered and amended by Pub. L. 93–86, § 1(18)(A), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by section 501(a) is effective only with respect to the 1971 through 1977 crops of feed grains.
+Pub. L. 91–524, title V, § 501(a), formerly § 501, as renumbered and amended by Pub. L. 93–86, § 1(18)(A), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by section 501(a) is effective only with respect to the 1971 through 1977 crops of feed grains.
 
-Pub. L. 91–524, title V, § 501(b), as added by Pub. L. 93–86, § 1(18)(B), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by section 501(b) is effective only with respect to the 1974 through 1977 crops of feed grains.
+Pub. L. 91–524, title V, § 501(b), as added by Pub. L. 93–86, § 1(18)(B), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by section 501(b) is effective only with respect to the 1974 through 1977 crops of feed grains.
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title V, § 501, Nov. 30, 1970, 84 Stat. 1368, provided that the amendment made by section 501 is effective only with respect to the 1971, 1972, and 1973 crops of feed grains.
+Pub. L. 91–524, title V, § 501, Nov. 30, 1970, 84 Stat. 1368, provided that the amendment made by section 501 is effective only with respect to the 1971, 1972, and 1973 crops of feed grains.
 
 **Inapplicability of Section**
 
@@ -3115,25 +3115,25 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(C) of this title.
 
-Pub. L. 101–624, title IV, § 402, Nov. 28, 1990, 104 Stat. 3419, provided that: “Section 105 of the Agricultural Act of 1949 (7 U.S.C. 1444b) shall not be applicable to the 1991 through 1995 crops of feed grains.”
+Pub. L. 101–624, title IV, § 402, Nov. 28, 1990, 104 Stat. 3419, provided that: “Section 105 of the Agricultural Act of 1949 (7 U.S.C. 1444b) shall not be applicable to the 1991 through 1995 crops of feed grains.”
 
-Pub. L. 99–198, title IV, § 402, Dec. 23, 1985, 99 Stat. 1406, provided that: “Section 105 of the Agricultural Act of 1949 (7 U.S.C. 1444b) shall not be applicable to the 1986 through 1990 crops of feed grains.”
+Pub. L. 99–198, title IV, § 402, Dec. 23, 1985, 99 Stat. 1406, provided that: “Section 105 of the Agricultural Act of 1949 (7 U.S.C. 1444b) shall not be applicable to the 1986 through 1990 crops of feed grains.”
 
-Pub. L. 97–98, title IV, § 402, Dec. 22, 1981, 95 Stat. 1234, provided that: “Section 105 of the Agricultural Act of 1949 [this section] shall not be applicable to the 1982 through 1985 crops of feed grains.”
+Pub. L. 97–98, title IV, § 402, Dec. 22, 1981, 95 Stat. 1234, provided that: “Section 105 of the Agricultural Act of 1949 [this section] shall not be applicable to the 1982 through 1985 crops of feed grains.”
 
-Pub. L. 95–113, title V, § 503, Sept. 29, 1977, 91 Stat. 933, provided that: “Section 105 of the Agricultural Act of 1949, as amended [this section], shall not be applicable to the 1977 through 1981 crops of feed grains.”
+Pub. L. 95–113, title V, § 503, Sept. 29, 1977, 91 Stat. 933, provided that: “Section 105 of the Agricultural Act of 1949, as amended [this section], shall not be applicable to the 1977 through 1981 crops of feed grains.”
 
-Pub. L. 95–113, title V, § 504, Sept. 29, 1977, 91 Stat. 933, provided that: “Except as otherwise provided in section 501 of this Act [enacting section 1444c(a)–(c) of this title effective only for the 1977 through 1981 crops of feed grains], section 105(a) and (b)(1) of the Agricultural Act of 1949, as added by the Agricultural Act of 1970, as amended [subsecs. (a) and (b)(1) of this section as amended by Pub. L. 91–524, as amended], to be effective only for the 1974 through 1977 crops of feed grains, shall not be applicable to the 1977 crop of feed grains.”
+Pub. L. 95–113, title V, § 504, Sept. 29, 1977, 91 Stat. 933, provided that: “Except as otherwise provided in section 501 of this Act [enacting section 1444c(a)–(c) of this title effective only for the 1977 through 1981 crops of feed grains], section 105(a) and (b)(1) of the Agricultural Act of 1949, as added by the Agricultural Act of 1970, as amended [subsecs. (a) and (b)(1) of this section as amended by Pub. L. 91–524, as amended], to be effective only for the 1974 through 1977 crops of feed grains, shall not be applicable to the 1977 crop of feed grains.”
 
 **1958 Referendum for Selection of Alternative Corn Program; Operative Status of Certain Provisions**
 
 Corn producers voted for adoption of price support program as provided in section 1444a(b) of this title (254,262) rather than alternative corn acreage allotments and price support program (102,907), the ballot making operative sections 1329a and 1444b and repeal of section 1441(d)(4) of this title.
 
-### §§ 1444c, 1444d. Repealed. Pub. L. 101–624, title IV, § 401(1), Nov. 28, 1990, 104 Stat. 3400
+### §§ 1444c, 1444d. Repealed. Pub. L. 101–624, title IV, § 401(1), Nov. 28, 1990, 104 Stat. 3400
 
-Section 1444c, act Oct. 31, 1949, ch. 792, title I, § 105A, as added Sept. 29, 1977, Pub. L. 95–113, title V, §§ 501, 502, 91 Stat. 928, 930; amended Mar. 18, 1980, Pub. L. 96–213, §§ 2, 4(c), 94 Stat. 119, 120; Sept. 26, 1980, Pub. L. 96–365, title II, § 201(c), 94 Stat. 1320, Dec. 3, 1980, Pub. L. 96–494, title II, § 202(a), 94 Stat. 2570, related to loan rates and target prices for 1977 through 1981 feed grain crops.
+Section 1444c, act Oct. 31, 1949, ch. 792, title I, § 105A, as added Sept. 29, 1977, Pub. L. 95–113, title V, §§ 501, 502, 91 Stat. 928, 930; amended Mar. 18, 1980, Pub. L. 96–213, §§ 2, 4(c), 94 Stat. 119, 120; Sept. 26, 1980, Pub. L. 96–365, title II, § 201(c), 94 Stat. 1320, Dec. 3, 1980, Pub. L. 96–494, title II, § 202(a), 94 Stat. 2570, related to loan rates and target prices for 1977 through 1981 feed grain crops.
 
-Section 1444d, act Oct. 31, 1949, ch. 792, title I, § 105B, as added Dec. 22, 1981, Pub. L. 97–98, title IV, § 401, 95 Stat. 1227; amended Sept. 8, 1982, Pub. L. 97–253, title I, §§ 123, 124, 96 Stat. 769; Sept. 29, 1983, Pub. L. 98–100, § 1(a), 97 Stat. 718; Apr. 10, 1984, Pub. L. 98–258, title II, §§ 201–203, 98 Stat. 132, 133, related to loan rates and target prices for 1982 through 1985 feed grain crops.
+Section 1444d, act Oct. 31, 1949, ch. 792, title I, § 105B, as added Dec. 22, 1981, Pub. L. 97–98, title IV, § 401, 95 Stat. 1227; amended Sept. 8, 1982, Pub. L. 97–253, title I, §§ 123, 124, 96 Stat. 769; Sept. 29, 1983, Pub. L. 98–100, § 1(a), 97 Stat. 718; Apr. 10, 1984, Pub. L. 98–258, title II, §§ 201–203, 98 Stat. 132, 133, related to loan rates and target prices for 1982 through 1985 feed grain crops.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3141,21 +3141,21 @@ Section 1444d, act Oct. 31, 1949, ch. 792, title I, § 105B, as added Dec. 22,
 
 Repeal effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
 
-### § 1444e. Omitted
+### § 1444e. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 105A, formerly § 105C, as added Dec. 23, 1985, Pub. L. 99–198, title IV, § 401, 99 Stat. 1395; amended Feb. 28, 1986, Pub. L. 99–253, § 2, 100 Stat. 36; Mar. 20, 1986, Pub. L. 99–260, §§ 2(b), 7(b), 100 Stat. 46, 50; May 27, 1987, Pub. L. 100–45, § 3, 101 Stat. 319; Dec. 22, 1987, Pub. L. 100–203, title I, §§ 1101(b), 1102(b), 1103, 1107, 1113(b), 1202, 101 Stat. 1330–1 to 1330–3, 1330–5, 1330–9, 1330–11; Dec. 12, 1989, Pub. L. 101–220, § 1, 103 Stat. 1876; Dec. 19, 1989, Pub. L. 101–239, title I, §§ 1002(b), 1003(b)(2), 103 Stat. 2107, 2108; renumbered § 105A, Nov. 28, 1990, Pub. L. 101–624, title IV, § 401(2), 104 Stat. 3400, related to loan rates, target prices, disaster payments, acreage limitation and set-aside programs, and land diversion. See Effective and Termination Dates note below.
+Section, act Oct. 31, 1949, ch. 792, title I, § 105A, formerly § 105C, as added Dec. 23, 1985, Pub. L. 99–198, title IV, § 401, 99 Stat. 1395; amended Feb. 28, 1986, Pub. L. 99–253, § 2, 100 Stat. 36; Mar. 20, 1986, Pub. L. 99–260, §§ 2(b), 7(b), 100 Stat. 46, 50; May 27, 1987, Pub. L. 100–45, § 3, 101 Stat. 319; Dec. 22, 1987, Pub. L. 100–203, title I, §§ 1101(b), 1102(b), 1103, 1107, 1113(b), 1202, 101 Stat. 1330–1 to 1330–3, 1330–5, 1330–9, 1330–11; Dec. 12, 1989, Pub. L. 101–220, § 1, 103 Stat. 1876; Dec. 19, 1989, Pub. L. 101–239, title I, §§ 1002(b), 1003(b)(2), 103 Stat. 2107, 2108; renumbered § 105A, Nov. 28, 1990, Pub. L. 101–624, title IV, § 401(2), 104 Stat. 3400, related to loan rates, target prices, disaster payments, acreage limitation and set-aside programs, and land diversion. See Effective and Termination Dates note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates**
 
-Pub. L. 99–198, title IV, § 401, Dec. 23, 1985, 99 Stat. 1395, provided that this section is effective only for the 1986 through 1990 crops of feed grains.
+Pub. L. 99–198, title IV, § 401, Dec. 23, 1985, 99 Stat. 1395, provided that this section is effective only for the 1986 through 1990 crops of feed grains.
 
-### § 1444e–1. Loans and purchases for 1986 through 1996 crops of corn
+### § 1444e–1. Loans and purchases for 1986 through 1996 crops of corn
 
 **(a)** Notwithstanding any other provision of law, effective only for each of the 1986 through 1996 crops of feed grains, the Secretary of Agriculture may make available loans and purchases, as provided in this section, to producers on a farm who—
 
@@ -3173,7 +3173,7 @@ Pub. L. 99–198, title IV, § 401, Dec. 23, 1985, 99 Stat. 1395, provided tha
 
 **(2)** the lower of the farm program payment yield or the actual yield on a field, as determined by the Secretary, that is similar to the field from which such silage was obtained.
 
-(Pub. L. 99–198, title IV, § 403, Dec. 23, 1985, 99 Stat. 1406; Pub. L. 101–624, title IV, § 403, Nov. 28, 1990, 104 Stat. 3419.)
+(Pub. L. 99–198, title IV, § 403, Dec. 23, 1985, 99 Stat. 1406; Pub. L. 101–624, title IV, § 403, Nov. 28, 1990, 104 Stat. 3419.)
 
 **Editorial Notes**
 
@@ -3191,21 +3191,21 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as a note under section 1421 of this title.
 
-### § 1444f. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(C), Apr. 4, 1996, 110 Stat. 938
+### § 1444f. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(C), Apr. 4, 1996, 110 Stat. 938
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 105B, as added Nov. 28, 1990, Pub. L. 101–624, title IV, § 401(3), 104 Stat. 3401; amended Nov. 5, 1990, Pub. L. 101–508, title I, §§ 1101(b), 1102(b), 1103(b), 104 Stat. 1388–1, 1388–2; Dec. 13, 1991, Pub. L. 102–237, title I, §§ 102(c), 103(a), 105, 106(c), 108, 113(4), (5), 114(b)(1), 105 Stat. 1822, 1823, 1825, 1828, 1837, 1839; Aug. 10, 1993, Pub. L. 103–66, title I, § 1103, 107 Stat. 315; May 6, 1994, Pub. L. 103–247, § 1(b), 108 Stat. 618; Oct. 13, 1994, Pub. L. 103–354, title I, § 119(a)(4), 108 Stat. 3207, related to loans, payments, and acreage reduction programs for 1991 through 1995 crops of feed grains.
+Section, act Oct. 31, 1949, ch. 792, title I, § 105B, as added Nov. 28, 1990, Pub. L. 101–624, title IV, § 401(3), 104 Stat. 3401; amended Nov. 5, 1990, Pub. L. 101–508, title I, §§ 1101(b), 1102(b), 1103(b), 104 Stat. 1388–1, 1388–2; Dec. 13, 1991, Pub. L. 102–237, title I, §§ 102(c), 103(a), 105, 106(c), 108, 113(4), (5), 114(b)(1), 105 Stat. 1822, 1823, 1825, 1828, 1837, 1839; Aug. 10, 1993, Pub. L. 103–66, title I, § 1103, 107 Stat. 315; May 6, 1994, Pub. L. 103–247, § 1(b), 108 Stat. 618; Oct. 13, 1994, Pub. L. 103–354, title I, § 119(a)(4), 108 Stat. 3207, related to loans, payments, and acreage reduction programs for 1991 through 1995 crops of feed grains.
 
-### § 1444f–1. Repealed. Pub. L. 102–237, title I, § 114(b)(2), Dec. 13, 1991, 105 Stat. 1840
+### § 1444f–1. Repealed. Pub. L. 102–237, title I, § 114(b)(2), Dec. 13, 1991, 105 Stat. 1840
 
-Section, Pub. L. 101–624, title IV, § 404, Nov. 28, 1990, 104 Stat. 3419, related to price support for high moisture feed grains. See section 1444f(q) of this title.
+Section, Pub. L. 101–624, title IV, § 404, Nov. 28, 1990, 104 Stat. 3419, related to price support for high moisture feed grains. See section 1444f(q) of this title.
 
-### §§ 1445 to 1445–2. Repealed. Pub. L. 108–357, title VI, § 612(a), Oct. 22, 2004, 118 Stat. 1523
+### §§ 1445 to 1445–2. Repealed. Pub. L. 108–357, title VI, § 612(a), Oct. 22, 2004, 118 Stat. 1523
 
-Section 1445, act Oct. 31, 1949, ch. 792, title I, § 106, as added Pub. L. 86–389, § 1, Feb. 20, 1960, 74 Stat. 6; amended Pub. L. 89–12, § 3, Apr. 16, 1965, 79 Stat. 72; Pub. L. 92–10, § 3, Apr. 14, 1971, 85 Stat. 27; Pub. L. 97–218, title I, § 102, July 20, 1982, 96 Stat. 201; Pub. L. 98–59, § 1, July 25, 1983, 97 Stat. 296; Pub. L. 98–180, title II, § 202, Nov. 29, 1983, 97 Stat. 1144; Pub. L. 99–157, § 6(a), Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–272, title I, §§ 1102, 1105(b), Apr. 7, 1986, 100 Stat. 84, 90; Pub. L. 100–203, title I, § 1104(a), Dec. 22, 1987, 101 Stat. 1330–4; Pub. L. 101–508, title I, § 1105(f), Nov. 5, 1990, 104 Stat. 1388–6; Pub. L. 103–66, title I, § 1106(b)(1), Aug. 10, 1993, 107 Stat. 321; Pub. L. 103–465, title IV, § 422(b), Dec. 8, 1994, 108 Stat. 4964, related to tobacco price support levels for 1960 and subsequent years.
+Section 1445, act Oct. 31, 1949, ch. 792, title I, § 106, as added Pub. L. 86–389, § 1, Feb. 20, 1960, 74 Stat. 6; amended Pub. L. 89–12, § 3, Apr. 16, 1965, 79 Stat. 72; Pub. L. 92–10, § 3, Apr. 14, 1971, 85 Stat. 27; Pub. L. 97–218, title I, § 102, July 20, 1982, 96 Stat. 201; Pub. L. 98–59, § 1, July 25, 1983, 97 Stat. 296; Pub. L. 98–180, title II, § 202, Nov. 29, 1983, 97 Stat. 1144; Pub. L. 99–157, § 6(a), Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–272, title I, §§ 1102, 1105(b), Apr. 7, 1986, 100 Stat. 84, 90; Pub. L. 100–203, title I, § 1104(a), Dec. 22, 1987, 101 Stat. 1330–4; Pub. L. 101–508, title I, § 1105(f), Nov. 5, 1990, 104 Stat. 1388–6; Pub. L. 103–66, title I, § 1106(b)(1), Aug. 10, 1993, 107 Stat. 321; Pub. L. 103–465, title IV, § 422(b), Dec. 8, 1994, 108 Stat. 4964, related to tobacco price support levels for 1960 and subsequent years.
 
-Section 1445–1, act Oct. 31, 1949, ch. 792, title I, § 106A, as added Pub. L. 97–218, title I, § 101, July 20, 1982, 96 Stat. 197; amended Pub. L. 98–180, title II, § 203, Nov. 29, 1983, 97 Stat. 1145; Pub. L. 99–272, title I, § 1108(a), (d), Apr. 7, 1986, 100 Stat. 92, 95; Pub. L. 99–500, § 101(a) [title VI, § 637], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, § 101(a) [title VI, § 637], Oct. 30, 1986, 100 Stat. 3341, 3341–34; Pub. L. 103–66, title I, § 1106(b)(2), Aug. 10, 1993, 107 Stat. 321, related to producer contributions and purchaser assessments for the No Net Cost Tobacco Fund.
+Section 1445–1, act Oct. 31, 1949, ch. 792, title I, § 106A, as added Pub. L. 97–218, title I, § 101, July 20, 1982, 96 Stat. 197; amended Pub. L. 98–180, title II, § 203, Nov. 29, 1983, 97 Stat. 1145; Pub. L. 99–272, title I, § 1108(a), (d), Apr. 7, 1986, 100 Stat. 92, 95; Pub. L. 99–500, § 101(a) [title VI, § 637], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, § 101(a) [title VI, § 637], Oct. 30, 1986, 100 Stat. 3341, 3341–34; Pub. L. 103–66, title I, § 1106(b)(2), Aug. 10, 1993, 107 Stat. 321, related to producer contributions and purchaser assessments for the No Net Cost Tobacco Fund.
 
-Section 1445–2, act Oct. 31, 1949, ch. 792, title I, § 106B, as added Pub. L. 97–218, title III, § 301, July 20, 1982, 96 Stat. 207; amended Pub. L. 98–180, title II, § 204, Nov. 29, 1983, 97 Stat. 1145; Pub. L. 99–157, § 6(b), Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–272, title I, § 1108(b), Apr. 7, 1986, 100 Stat. 94; Pub. L. 103–66, title I, § 1106(b)(3), Aug. 10, 1993, 107 Stat. 322, related to marketing assessments to No Net Cost Tobacco Account.
+Section 1445–2, act Oct. 31, 1949, ch. 792, title I, § 106B, as added Pub. L. 97–218, title III, § 301, July 20, 1982, 96 Stat. 207; amended Pub. L. 98–180, title II, § 204, Nov. 29, 1983, 97 Stat. 1145; Pub. L. 99–157, § 6(b), Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–272, title I, § 1108(b), Apr. 7, 1986, 100 Stat. 94; Pub. L. 103–66, title I, § 1106(b)(3), Aug. 10, 1993, 107 Stat. 322, related to marketing assessments to No Net Cost Tobacco Account.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3217,7 +3217,7 @@ Repeal applicable to the 2005 and subsequent crops of tobacco, see section 643 o
 
 Repeal not to affect the liability of any person under sections 1445 to 1445–2 of this title with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
-### § 1445–3. Purchase of inventory stock
+### § 1445–3. Purchase of inventory stock
 
 Notwithstanding any other provision of law, in order to reduce or eliminate the excessive inventories of Flue-cured and Burley tobacco held by associations from the 1976 through 1984 crops, and in order to provide for the orderly disposition of such excessive inventories of tobacco in a manner that will not disrupt the orderly marketing of new tobacco crops and will minimize any losses to the Federal Government:
 
@@ -3341,7 +3341,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 **(3)** In carrying out this section, manufacturers may confer with one another and, separately or collectively, with associations, the Secretary of Agriculture, and the Commodity Credit Corporation, as may be necessary or appropriate to carry out this section and the purposes of this subtitle.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(d) Approval of agreements**
 
@@ -3359,23 +3359,23 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 **(i)** will not unduly impair or disrupt the orderly marketing of current and future tobacco crops during the term of the agreement; and
 
-**(ii)** is otherwise consistent with the purposes of this subtitle; <sup>1</sup> and
+**(ii)** is otherwise consistent with the purposes of this subtitle; <sup>1</sup> and
 
 **(B)** the price and other terms of sale are uniform and nondiscriminatory among various purchasers.
 
 **(e) Disclosure**
 
-The limitations on disclosure set forth in subsections (c) and (d) of section 1314g <sup>1</sup> of this title shall apply to information submitted by domestic manufacturers of cigarettes under this section with respect to net cigarettes manufactured for use, including information provided on ATF Form 3068. Any officer or employee of the Department of Agriculture who violates such limitations on disclosure shall be subject to the penalties set forth in section 1314g(c)(4) <sup>1</sup> of this title.
+The limitations on disclosure set forth in subsections (c) and (d) of section 1314g <sup>1</sup> of this title shall apply to information submitted by domestic manufacturers of cigarettes under this section with respect to net cigarettes manufactured for use, including information provided on ATF Form 3068. Any officer or employee of the Department of Agriculture who violates such limitations on disclosure shall be subject to the penalties set forth in section 1314g(c)(4) <sup>1</sup> of this title.
 
-(Pub. L. 99–272, title I, § 1109, Apr. 7, 1986, 100 Stat. 95; Pub. L. 107–296, title XI, § 1112(b), Nov. 25, 2002, 116 Stat. 2276.)
+(Pub. L. 99–272, title I, § 1109, Apr. 7, 1986, 100 Stat. 95; Pub. L. 107–296, title XI, § 1112(b), Nov. 25, 2002, 116 Stat. 2276.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subtitle, referred to in subsecs. (c)(3) and (d)(2)(A)(ii), is subtitle B (§§ 1101–1112) of title I of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 83, which enacted sections 1314g, 1314h, and 1445–3 of this title, amended sections 511d, 1301, 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacted provisions set out as notes under sections 1301, 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title. For complete classification of this subtitle to the Code, see Tables.
+This subtitle, referred to in subsecs. (c)(3) and (d)(2)(A)(ii), is subtitle B (§§ 1101–1112) of title I of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 83, which enacted sections 1314g, 1314h, and 1445–3 of this title, amended sections 511d, 1301, 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacted provisions set out as notes under sections 1301, 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title. For complete classification of this subtitle to the Code, see Tables.
 
-Section 1314g of this title, referred to in subsec. (e), was repealed by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522.
+Section 1314g of this title, referred to in subsec. (e), was repealed by Pub. L. 108–357, title VI, § 611(a), Oct. 22, 2004, 118 Stat. 1522.
 
 **Codification**
 
@@ -3395,7 +3395,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 For implementation of this section by the Secretary of Agriculture without regard to provisions requiring notice and other procedures for public participation in rulemaking contained in section 553 of Title 5, Government Organization and Employees, or in any other directive of the Secretary, see section 1108(c) of Pub. L. 99–272, set out as a note under section 1301 of this title.
 
-### § 1445a. Wheat price support levels; “cooperator” defined
+### § 1445a. Wheat price support levels; “cooperator” defined
 
 Notwithstanding the provisions of section 1441 of this title, beginning with the 1964 crop—
 
@@ -3411,21 +3411,21 @@ Notwithstanding the provisions of section 1441 of this title, beginning with the
 
 **(6)** A “cooperator” with respect to any crop of wheat produced on a farm shall be a producer who (i) does not knowingly exceed (A) the farm acreage allotment for wheat on the farm or (B) except as the Secretary may by regulation prescribe, the farm acreage allotment for wheat on any other farm on which the producer shares in the production of wheat, and (ii) complies with the land-use requirements of section 1339 of this title, to the extent prescribed by the Secretary. Effective with respect to crops planted for harvest in the calendar year 1966 and any subsequent year, if marketing quotas are not in effect for the crop of wheat, a “cooperator” with respect to any crop of wheat produced on a farm shall be a producer who does not knowingly exceed the farm acreage allotment for wheat. No producer shall be deemed to have exceeded a farm acreage allotment for wheat if the entire amount of the farm marketing excess is delivered to the Secretary or stored in accordance with applicable regulations to avoid or postpone payment of the penalty, but the producer shall not be eligible to receive price support on such marketing excess. No producer shall be deemed to have exceeded the farm acreage allotment for wheat on any other farm, if such farm is exempt from the farm marketing quota for such crop under section 1335 of this title. No producer shall be deemed to have exceeded a farm acreage allotment for wheat if the production on the acreage in excess of the farm acreage allotment is stored pursuant to the provisions of section 1379c(b) of this title, but the producer shall not be eligible to receive price support on the wheat so stored.
 
-(Oct. 31, 1949, ch. 792, title I, § 107, as added Pub. L. 87–703, title III, § 325(1), Sept. 27, 1962, 76 Stat. 630; amended Pub. L. 88–297, title II, § 203, Apr. 11, 1964, 78 Stat. 182; Pub. L. 89–321, title V, § 506, Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, § 401, Nov. 30, 1970, 84 Stat. 1362; Pub. L. 93–86, § 1(8), Aug. 10, 1973, 87 Stat. 224; Pub. L. 93–125, § 1(b), Oct. 18, 1973, 87 Stat. 450; Pub. L. 93–228, § 1(a), Dec. 29, 1973, 87 Stat. 944.)
+(Oct. 31, 1949, ch. 792, title I, § 107, as added Pub. L. 87–703, title III, § 325(1), Sept. 27, 1962, 76 Stat. 630; amended Pub. L. 88–297, title II, § 203, Apr. 11, 1964, 78 Stat. 182; Pub. L. 89–321, title V, § 506, Nov. 3, 1965, 79 Stat. 1203; Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, § 401, Nov. 30, 1970, 84 Stat. 1362; Pub. L. 93–86, § 1(8), Aug. 10, 1973, 87 Stat. 224; Pub. L. 93–125, § 1(b), Oct. 18, 1973, 87 Stat. 450; Pub. L. 93–228, § 1(a), Dec. 29, 1973, 87 Stat. 944.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1973—Subsec. (a). Pub. L. 93–86, § 1(8)(A), temporarily amended subsec. (a) generally, substituting “$1.37 per bushel” for “$1.25 per bushel”. See Effective and Termination Dates of 1970 and 1973 Amendment notes below.
+1973—Subsec. (a). Pub. L. 93–86, § 1(8)(A), temporarily amended subsec. (a) generally, substituting “$1.37 per bushel” for “$1.25 per bushel”. See Effective and Termination Dates of 1970 and 1973 Amendment notes below.
 
-Subsec. (b). Pub. L. 93–86, § 1(8)(B), temporarily substituted “payments” for “certificates”. See Effective and Termination Dates of 1970 and 1973 Amendment notes below.
+Subsec. (b). Pub. L. 93–86, § 1(8)(B), temporarily substituted “payments” for “certificates”. See Effective and Termination Dates of 1970 and 1973 Amendment notes below.
 
 Subsec. (c). Pub. L. 93–228 substituted “(or of cotton, corn, grain sorghums, or barley planted in lieu of wheat)” for “(or other nonconserving crop planted instead of wheat)”, in two places.
 
 Pub. L. 93–125 substituted “prevented from planting any portion” for “prevented from planting, any portion”.
 
-Pub. L. 93–86, § 1(8)(C), (D), temporarily added subsec. (c). See Effective and Termination Dates of 1970 and 1973 Amendment notes below.
+Pub. L. 93–86, § 1(8)(C), (D), temporarily added subsec. (c). See Effective and Termination Dates of 1970 and 1973 Amendment notes below.
 
 1970—Pub. L. 91–524 temporarily revised section into subsecs. (a) and (b) which provided for loans on wheat at such levels not in excess of the parity price as the Secretary determines appropriate, taking into consideration competitive world prices of wheat, the feeding value of wheat in relation to feed grains, and the level at which price support is made available for feed grains, provided that, if a set-aside program is in effect, program benefits would be made available only to producers who comply with such set-aside program, and placed a floor on the loan of $1.25 per bushel. See Effective and Termination Dates of 1970 Amendment note below.
 
@@ -3449,15 +3449,15 @@ Subsec. (6). Pub. L. 88–297 redesignated former subsec. (5) as (6), struck out
 
 **Effective and Termination Dates of 1973 Amendment**
 
-Pub. L. 93–86, § 1(8), Aug. 10, 1973, 87 Stat. 224, provided that the amendment made by section 1(8) is effective beginning with the 1974 crop.
+Pub. L. 93–86, § 1(8), Aug. 10, 1973, 87 Stat. 224, provided that the amendment made by section 1(8) is effective beginning with the 1974 crop.
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title IV, § 401, Nov. 30, 1970, 84 Stat. 1362, as amended by Pub. L. 93–86, § 1(8), Aug. 10, 1973, 87 Stat. 224, provided that the amendment made by section 401 is effective only with respect to the 1971 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, § 401, Nov. 30, 1970, 84 Stat. 1362, as amended by Pub. L. 93–86, § 1(8), Aug. 10, 1973, 87 Stat. 224, provided that the amendment made by section 401 is effective only with respect to the 1971 through 1977 crops of wheat.
 
 **Effective and Termination Dates of 1965 Amendment**
 
-Pub. L. 89–321, title V, § 506, Nov. 3, 1965, 79 Stat. 1203, as amended by Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 506 is effective only with respect to the 1966 through 1970 crops.
+Pub. L. 89–321, title V, § 506, Nov. 3, 1965, 79 Stat. 1203, as amended by Pub. L. 90–559, § 1(1), Oct. 11, 1968, 82 Stat. 996, provided that the amendment made by section 506 is effective only with respect to the 1966 through 1970 crops.
 
 **Inapplicability of Section**
 
@@ -3469,21 +3469,21 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(D) of this title.
 
-Pub. L. 101–624, title III, § 305, Nov. 28, 1990, 104 Stat. 3400, provided that: “Section 107 of the Agricultural Act of 1949 (7 U.S.C. 1445a) shall not be applicable to the 1991 through 1995 crops of wheat.”
+Pub. L. 101–624, title III, § 305, Nov. 28, 1990, 104 Stat. 3400, provided that: “Section 107 of the Agricultural Act of 1949 (7 U.S.C. 1445a) shall not be applicable to the 1991 through 1995 crops of wheat.”
 
-Pub. L. 99–198, title III, § 312, Dec. 23, 1985, 99 Stat. 1395, provided that: “Section 107 of the Agricultural Act of 1949 (7 U.S.C. 1445a) shall not be applicable to the 1986 through 1990 crops of wheat.”
+Pub. L. 99–198, title III, § 312, Dec. 23, 1985, 99 Stat. 1395, provided that: “Section 107 of the Agricultural Act of 1949 (7 U.S.C. 1445a) shall not be applicable to the 1986 through 1990 crops of wheat.”
 
-Pub. L. 97–98, title III, § 305, Dec. 22, 1981, 95 Stat. 1227, provided that: “Section 107 of the Agricultural Act of 1949 [this section] shall not be applicable to the 1982 through 1985 crops of wheat.”
+Pub. L. 97–98, title III, § 305, Dec. 22, 1981, 95 Stat. 1227, provided that: “Section 107 of the Agricultural Act of 1949 [this section] shall not be applicable to the 1982 through 1985 crops of wheat.”
 
-Pub. L. 95–113, title IV, § 409, Sept. 29, 1977, 91 Stat. 928, provided that: “Section 107 of the Agricultural Act of 1949, as amended [this section], shall not be applicable to the 1977 through 1981 crops of wheat.”
+Pub. L. 95–113, title IV, § 409, Sept. 29, 1977, 91 Stat. 928, provided that: “Section 107 of the Agricultural Act of 1949, as amended [this section], shall not be applicable to the 1977 through 1981 crops of wheat.”
 
-Pub. L. 95–113, title IV, § 410, Sept. 29, 1977, 91 Stat. 928, provided that: “Except as otherwise provided in section 401 of this Act [enacting section 1445b(a)–(c) of this title effective only for the 1977 through 1981 crops of wheat], section 107 of the Agricultural Act of 1949, as added by the Agricultural Act of 1970, as amended [this section as amended by Pub. L. 91–524, as amended], to be effective only for the 1974 through 1977 crops of wheat, shall not be applicable to the 1977 crop of wheat.”
+Pub. L. 95–113, title IV, § 410, Sept. 29, 1977, 91 Stat. 928, provided that: “Except as otherwise provided in section 401 of this Act [enacting section 1445b(a)–(c) of this title effective only for the 1977 through 1981 crops of wheat], section 107 of the Agricultural Act of 1949, as added by the Agricultural Act of 1970, as amended [this section as amended by Pub. L. 91–524, as amended], to be effective only for the 1974 through 1977 crops of wheat, shall not be applicable to the 1977 crop of wheat.”
 
-### §§ 1445b, 1445b–1. Repealed. Pub. L. 101–624, title III, § 301(1), Nov. 28, 1990, 104 Stat. 3382
+### §§ 1445b, 1445b–1. Repealed. Pub. L. 101–624, title III, § 301(1), Nov. 28, 1990, 104 Stat. 3382
 
-Section 1445b, act Oct. 31, 1949, ch. 792, title I, § 107A, as added Sept. 29, 1977, Pub. L. 95–113, title IV, §§ 401, 402, 91 Stat. 921, 924; amended Mar. 18, 1980, Pub. L. 96–213, §§ 3, 4(d), 94 Stat. 119, 120; Sept. 26, 1980, Pub. L. 96–365, title II, § 201(d), 94 Stat. 1320; Dec. 3, 1980, Pub. L. 96–494, title II, § 202(b), 94 Stat. 2570, related to loan rates and target prices for the 1977 through 1981 crops of wheat.
+Section 1445b, act Oct. 31, 1949, ch. 792, title I, § 107A, as added Sept. 29, 1977, Pub. L. 95–113, title IV, §§ 401, 402, 91 Stat. 921, 924; amended Mar. 18, 1980, Pub. L. 96–213, §§ 3, 4(d), 94 Stat. 119, 120; Sept. 26, 1980, Pub. L. 96–365, title II, § 201(d), 94 Stat. 1320; Dec. 3, 1980, Pub. L. 96–494, title II, § 202(b), 94 Stat. 2570, related to loan rates and target prices for the 1977 through 1981 crops of wheat.
 
-Section 1445b–1, act Oct. 31, 1949, ch. 792, title I, § 107B, as added Dec. 22, 1981, Pub. L. 97–98, title III, § 301, 95 Stat. 1221; Sept. 8, 1982, Pub. L. 97–253, title I, §§ 121, 122, 96 Stat. 768; amended Sept. 29, 1983, Pub. L. 98–100, § 1(b), 97 Stat. 718; Apr. 10, 1984, Pub. L. 98–258, title I, §§ 101–103, 98 Stat. 130, 131, related to loan rates and target prices for 1982 through 1985 wheat crops.
+Section 1445b–1, act Oct. 31, 1949, ch. 792, title I, § 107B, as added Dec. 22, 1981, Pub. L. 97–98, title III, § 301, 95 Stat. 1221; Sept. 8, 1982, Pub. L. 97–253, title I, §§ 121, 122, 96 Stat. 768; amended Sept. 29, 1983, Pub. L. 98–100, § 1(b), 97 Stat. 718; Apr. 10, 1984, Pub. L. 98–258, title I, §§ 101–103, 98 Stat. 130, 131, related to loan rates and target prices for 1982 through 1985 wheat crops.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3491,45 +3491,45 @@ Section 1445b–1, act Oct. 31, 1949, ch. 792, title I, § 107B, as added Dec.
 
 Repeal effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
 
-### § 1445b–2. Transferred
+### § 1445b–2. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 107C, as added Sept. 8, 1982, Pub. L. 97–253, title I, § 120, 96 Stat. 766, and amended, which related to advance deficiency and diversion payments, was renumbered section 114 of act Oct. 31, 1949, by Pub. L. 101–624, title XI, § 1161(a)(1), Nov. 28, 1990, 104 Stat. 3520, and transferred to section 1445j of this title.
+Section, act Oct. 31, 1949, ch. 792, title I, § 107C, as added Sept. 8, 1982, Pub. L. 97–253, title I, § 120, 96 Stat. 766, and amended, which related to advance deficiency and diversion payments, was renumbered section 114 of act Oct. 31, 1949, by Pub. L. 101–624, title XI, § 1161(a)(1), Nov. 28, 1990, 104 Stat. 3520, and transferred to section 1445j of this title.
 
-### § 1445b–3. Omitted
+### § 1445b–3. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 107A, formerly § 107D, as added Dec. 23, 1985, Pub. L. 99–198, title III, § 308, 99 Stat. 1383; amended Feb. 28, 1986, Pub. L. 99–253, § 1, 100 Stat. 36; Mar. 20, 1986, Pub. L. 99–260, §§ 2(a), 7(a), 100 Stat. 45, 50; Oct. 18, 1986, Pub. L. 99–500, § 152, 100 Stat. 1783–352, and Oct. 30, 1986, Pub. L. 99–591, § 152, 100 Stat. 3341–355; Nov. 10, 1986, Pub. L. 99–641, title II, § 202, 100 Stat. 3563; May 27, 1987, Pub. L. 100–45, § 2, 101 Stat. 318; Dec. 22, 1987, Pub. L. 100–203, title I, §§ 1101(a), 1102(a), 1111, 1113(a), 1201, 101 Stat. 1330–1, 1330–2, 1330–7, 1330–8, 1330–10; renumbered § 107A, Nov. 28, 1990, Pub. L. 101–624, title III, § 301(2), 104 Stat. 3382, related to loan rates and target prices. See Effective and Termination Dates note below.
+Section, act Oct. 31, 1949, ch. 792, title I, § 107A, formerly § 107D, as added Dec. 23, 1985, Pub. L. 99–198, title III, § 308, 99 Stat. 1383; amended Feb. 28, 1986, Pub. L. 99–253, § 1, 100 Stat. 36; Mar. 20, 1986, Pub. L. 99–260, §§ 2(a), 7(a), 100 Stat. 45, 50; Oct. 18, 1986, Pub. L. 99–500, § 152, 100 Stat. 1783–352, and Oct. 30, 1986, Pub. L. 99–591, § 152, 100 Stat. 3341–355; Nov. 10, 1986, Pub. L. 99–641, title II, § 202, 100 Stat. 3563; May 27, 1987, Pub. L. 100–45, § 2, 101 Stat. 318; Dec. 22, 1987, Pub. L. 100–203, title I, §§ 1101(a), 1102(a), 1111, 1113(a), 1201, 101 Stat. 1330–1, 1330–2, 1330–7, 1330–8, 1330–10; renumbered § 107A, Nov. 28, 1990, Pub. L. 101–624, title III, § 301(2), 104 Stat. 3382, related to loan rates and target prices. See Effective and Termination Dates note below.
 
-A prior section 107A of act Oct. 31, 1949, ch. 792, title I, as added Sept. 29, 1977, Pub. L. 95–113, title IV, §§ 401, 402, 91 Stat. 921, 924, was classified to section 1445b of this title, prior to repeal by section 301(1) of Pub. L. 101–624.
+A prior section 107A of act Oct. 31, 1949, ch. 792, title I, as added Sept. 29, 1977, Pub. L. 95–113, title IV, §§ 401, 402, 91 Stat. 921, 924, was classified to section 1445b of this title, prior to repeal by section 301(1) of Pub. L. 101–624.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates**
 
-Pub. L. 99–198, title III, § 308, Dec. 23, 1985, 99 Stat. 1383, provided that this section is effective only for the 1986 through 1990 crops of wheat.
+Pub. L. 99–198, title III, § 308, Dec. 23, 1985, 99 Stat. 1383, provided that this section is effective only for the 1986 through 1990 crops of wheat.
 
-### § 1445b–3a. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(D), Apr. 4, 1996, 110 Stat. 938
+### § 1445b–3a. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(D), Apr. 4, 1996, 110 Stat. 938
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 107B, as added Nov. 28, 1990, Pub. L. 101–624, title III, § 301(3), 104 Stat. 3382; amended Nov. 5, 1990, Pub. L. 101–508, title I, §§ 1101(a), 1102(a), 104 Stat. 1388–1; Dec. 13, 1991, Pub. L. 102–237, title I, §§ 102(d), 103(b), 106(d), 113(6), 105 Stat. 1822, 1823, 1826, 1837; Aug. 10, 1993, Pub. L. 103–66, title I, § 1102, 107 Stat. 314; Oct. 13, 1994, Pub. L. 103–354, title I, § 119(a)(5), 108 Stat. 3207, related to loans, payments, and acreage reduction programs for 1991 through 1995 crops of wheat.
+Section, act Oct. 31, 1949, ch. 792, title I, § 107B, as added Nov. 28, 1990, Pub. L. 101–624, title III, § 301(3), 104 Stat. 3382; amended Nov. 5, 1990, Pub. L. 101–508, title I, §§ 1101(a), 1102(a), 104 Stat. 1388–1; Dec. 13, 1991, Pub. L. 102–237, title I, §§ 102(d), 103(b), 106(d), 113(6), 105 Stat. 1822, 1823, 1826, 1837; Aug. 10, 1993, Pub. L. 103–66, title I, § 1102, 107 Stat. 314; Oct. 13, 1994, Pub. L. 103–354, title I, § 119(a)(5), 108 Stat. 3207, related to loans, payments, and acreage reduction programs for 1991 through 1995 crops of wheat.
 
-### § 1445b–4. Transferred
+### § 1445b–4. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 107E, as added Dec. 23, 1985, Pub. L. 99–198, title X, § 1005, 99 Stat. 1448, and amended, which related to payments in commodities, was renumbered section 115 of act Oct. 31, 1949, by Pub. L. 101–624, title XI, § 1161(a)(1), Nov. 28, 1990, 104 Stat. 3520, and transferred to section 1445k of this title.
+Section, act Oct. 31, 1949, ch. 792, title I, § 107E, as added Dec. 23, 1985, Pub. L. 99–198, title X, § 1005, 99 Stat. 1448, and amended, which related to payments in commodities, was renumbered section 115 of act Oct. 31, 1949, by Pub. L. 101–624, title XI, § 1161(a)(1), Nov. 28, 1990, 104 Stat. 3520, and transferred to section 1445k of this title.
 
-### § 1445b–5. Repealed. Pub. L. 101–624, title XI, § 1161(a)(2), Nov. 28, 1990, 104 Stat. 3520
+### § 1445b–5. Repealed. Pub. L. 101–624, title XI, § 1161(a)(2), Nov. 28, 1990, 104 Stat. 3520
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 107F, as added Dec. 23, 1985, Pub. L. 99–198, title X, § 1006, 99 Stat. 1448, related to export certificate programs for 1986 through 1990 crops of wheat and feed grains.
+Section, act Oct. 31, 1949, ch. 792, title I, § 107F, as added Dec. 23, 1985, Pub. L. 99–198, title X, § 1006, 99 Stat. 1448, related to export certificate programs for 1986 through 1990 crops of wheat and feed grains.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3537,11 +3537,11 @@ Section, act Oct. 31, 1949, ch. 792, title I, § 107F, as added Dec. 23, 1985,
 
 Repeal effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
 
-### §§ 1445c, 1445c–1. Repealed. Pub. L. 101–624, title VIII, § 806(1), Nov. 28, 1990, 104 Stat. 3475
+### §§ 1445c, 1445c–1. Repealed. Pub. L. 101–624, title VIII, § 806(1), Nov. 28, 1990, 104 Stat. 3475
 
-Section 1445c, act Oct. 31, 1949, ch. 792, title I, § 108, as added Sept. 29, 1977, Pub. L. 95–113, title VIII, § 807, 91 Stat. 947, related to price support program for 1978 through 1981 crops of peanuts.
+Section 1445c, act Oct. 31, 1949, ch. 792, title I, § 108, as added Sept. 29, 1977, Pub. L. 95–113, title VIII, § 807, 91 Stat. 947, related to price support program for 1978 through 1981 crops of peanuts.
 
-Section 1445c–1, act Oct. 31, 1949, ch. 792, title I, § 108A, as added Dec. 22, 1981, Pub. L. 97–98, title VII, § 705, 95 Stat. 1254, related to price support program for 1982 through 1985 crops of peanuts.
+Section 1445c–1, act Oct. 31, 1949, ch. 792, title I, § 108A, as added Dec. 22, 1981, Pub. L. 97–98, title VII, § 705, 95 Stat. 1254, related to price support program for 1982 through 1985 crops of peanuts.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3549,25 +3549,25 @@ Section 1445c–1, act Oct. 31, 1949, ch. 792, title I, § 108A, as added Dec.
 
 Repeal effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
 
-### § 1445c–2. Omitted
+### § 1445c–2. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 108A, formerly § 108B, as added Dec. 23, 1985, Pub. L. 99–198, title VII, § 705, 99 Stat. 1439; amended Oct. 18, 1986, Pub. L. 99–500, § 101(a) [title VI, § 639], 100 Stat. 1783, 1783–35, and Oct. 30, 1986, Pub. L. 99–591, § 101(a) [title VI, § 639], 100 Stat. 3341, 3341–35; Nov. 10, 1986, Pub. L. 99–641, title II, § 203, 100 Stat. 3563; Dec. 22, 1987, Pub. L. 100–203, title I, § 1104(b), 101 Stat. 1330–4; renumbered § 108A, Nov. 28, 1990, Pub. L. 101–624, title VIII, § 806(2), 104 Stat. 3475; Dec. 13, 1991, Pub. L. 102–237, title I, § 117(b)(1)(A), 105 Stat. 1841, related to price support, loans, purchases, and other operations, and national average quota support rate. See Effective and Termination Dates note below.
+Section, act Oct. 31, 1949, ch. 792, title I, § 108A, formerly § 108B, as added Dec. 23, 1985, Pub. L. 99–198, title VII, § 705, 99 Stat. 1439; amended Oct. 18, 1986, Pub. L. 99–500, § 101(a) [title VI, § 639], 100 Stat. 1783, 1783–35, and Oct. 30, 1986, Pub. L. 99–591, § 101(a) [title VI, § 639], 100 Stat. 3341, 3341–35; Nov. 10, 1986, Pub. L. 99–641, title II, § 203, 100 Stat. 3563; Dec. 22, 1987, Pub. L. 100–203, title I, § 1104(b), 101 Stat. 1330–4; renumbered § 108A, Nov. 28, 1990, Pub. L. 101–624, title VIII, § 806(2), 104 Stat. 3475; Dec. 13, 1991, Pub. L. 102–237, title I, § 117(b)(1)(A), 105 Stat. 1841, related to price support, loans, purchases, and other operations, and national average quota support rate. See Effective and Termination Dates note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective and Termination Dates**
 
-Pub. L. 99–198, title VII, § 705, Dec. 23, 1985, 99 Stat. 1439, provided that this section is effective only for the 1986 through 1990 crops of peanuts.
+Pub. L. 99–198, title VII, § 705, Dec. 23, 1985, 99 Stat. 1439, provided that this section is effective only for the 1986 through 1990 crops of peanuts.
 
-### § 1445c–3. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(E), Apr. 4, 1996, 110 Stat. 938
+### § 1445c–3. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(E), Apr. 4, 1996, 110 Stat. 938
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 108B, as added Nov. 28, 1990, Pub. L. 101–624, title VIII, § 806(3), 104 Stat. 3475; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1105(b), 104 Stat. 1388–3; Dec. 13, 1991, Pub. L. 102–237, title I, § 117(b)(1)(B), 105 Stat. 1841; Aug. 10, 1993, Pub. L. 103–66, title I, § 1109(a), 107 Stat. 325, related to price support program for 1991 through 1997 crops of peanuts.
+Section, act Oct. 31, 1949, ch. 792, title I, § 108B, as added Nov. 28, 1990, Pub. L. 101–624, title VIII, § 806(3), 104 Stat. 3475; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1105(b), 104 Stat. 1388–3; Dec. 13, 1991, Pub. L. 102–237, title I, § 117(b)(1)(B), 105 Stat. 1841; Aug. 10, 1993, Pub. L. 103–66, title I, § 1109(a), 107 Stat. 325, related to price support program for 1991 through 1997 crops of peanuts.
 
-### § 1445d. Special wheat acreage grazing and hay program for 1978 through 1990 crop years
+### § 1445d. Special wheat acreage grazing and hay program for 1978 through 1990 crop years
 
 Notwithstanding any other provision of law—
 
@@ -3595,7 +3595,7 @@ The Secretary is authorized to issue such regulations as the Secretary determine
 
 The Secretary shall carry out the special program through the Commodity Credit Corporation.
 
-(Oct. 31, 1949, ch. 792, title I, § 109, as added Pub. L. 95–113, title X, § 1004, Sept. 29, 1977, 91 Stat. 950; amended Pub. L. 97–98, title XI, § 1110, Dec. 22, 1981, 95 Stat. 1267; Pub. L. 99–198, title X, § 1015, Dec. 23, 1985, 99 Stat. 1457.)
+(Oct. 31, 1949, ch. 792, title I, § 109, as added Pub. L. 95–113, title X, § 1004, Sept. 29, 1977, 91 Stat. 950; amended Pub. L. 97–98, title XI, § 1110, Dec. 22, 1981, 95 Stat. 1267; Pub. L. 99–198, title X, § 1015, Dec. 23, 1985, 99 Stat. 1457.)
 
 **Editorial Notes**
 
@@ -3603,9 +3603,9 @@ The Secretary shall carry out the special program through the Commodity Credit C
 
 1985—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985”.
 
-1981—Subsec. (a). Pub. L. 97–98, § 1110(1), (2), substituted “1985” for “1981” and “If a special program is implemented” for “Under the special program”.
+1981—Subsec. (a). Pub. L. 97–98, § 1110(1), (2), substituted “1985” for “1981” and “If a special program is implemented” for “Under the special program”.
 
-Subsec. (d). Pub. L. 97–98, § 1110(3), inserted “, reduced acreage, or land diversion”.
+Subsec. (d). Pub. L. 97–98, § 1110(3), inserted “, reduced acreage, or land diversion”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3617,7 +3617,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 1445e. Farmer owned reserve program
+### § 1445e. Farmer owned reserve program
 
 **(a) In general**
 
@@ -3745,37 +3745,37 @@ In announcing the terms and conditions of the producer storage program under thi
 
 Notwithstanding any other provision of law, this section shall become effective December 1, 1990.
 
-(Oct. 31, 1949, ch. 792, title I, § 110, as added Pub. L. 95–113, title XI, § 1101, Sept. 29, 1977, 91 Stat. 951; amended Pub. L. 96–234, §§ 1, 2, Apr. 11, 1980, 94 Stat. 333; Pub. L. 96–494, title II, §§ 203(a), 204, 205, Dec. 3, 1980, 94 Stat. 2571, 2572; Pub. L. 97–24, § 2, July 23, 1981, 95 Stat. 143; Pub. L. 97–98, title X, § 1001, Dec. 22, 1981, 95 Stat. 1257; Pub. L. 99–198, title X, § 1012(a), Dec. 23, 1985, 99 Stat. 1455; Pub. L. 100–203, title I, § 1108, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 100–387, title III, § 303(b), Aug. 11, 1988, 102 Stat. 947; Pub. L. 101–624, title XI, § 1123, title XX, § 2010, Nov. 28, 1990, 104 Stat. 3503, 3932; Pub. L. 102–237, title I, § 113(7), Dec. 13, 1991, 105 Stat. 1837.)
+(Oct. 31, 1949, ch. 792, title I, § 110, as added Pub. L. 95–113, title XI, § 1101, Sept. 29, 1977, 91 Stat. 951; amended Pub. L. 96–234, §§ 1, 2, Apr. 11, 1980, 94 Stat. 333; Pub. L. 96–494, title II, §§ 203(a), 204, 205, Dec. 3, 1980, 94 Stat. 2571, 2572; Pub. L. 97–24, § 2, July 23, 1981, 95 Stat. 143; Pub. L. 97–98, title X, § 1001, Dec. 22, 1981, 95 Stat. 1257; Pub. L. 99–198, title X, § 1012(a), Dec. 23, 1985, 99 Stat. 1455; Pub. L. 100–203, title I, § 1108, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 100–387, title III, § 303(b), Aug. 11, 1988, 102 Stat. 947; Pub. L. 101–624, title XI, § 1123, title XX, § 2010, Nov. 28, 1990, 104 Stat. 3503, 3932; Pub. L. 102–237, title I, § 113(7), Dec. 13, 1991, 105 Stat. 1837.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (k). Pub. L. 102–237, § 113(7)(C)(i), redesignated subsec. (k), relating to review, as (*o*).
+1991—Subsec. (k). Pub. L. 102–237, § 113(7)(C)(i), redesignated subsec. (k), relating to review, as (*o*).
 
-Subsec. (n). Pub. L. 102–237, § 113(7)(A), substituted “November 28, 1990” for “the date of enactment of this section”.
+Subsec. (n). Pub. L. 102–237, § 113(7)(A), substituted “November 28, 1990” for “the date of enactment of this section”.
 
-Subsec. (*o*). Pub. L. 102–237, § 113(7)(C), redesignated subsec. (k), relating to review, as (*o*), inserted heading, and substituted “this section” for “subsection (e)(1)”.
+Subsec. (*o*). Pub. L. 102–237, § 113(7)(C), redesignated subsec. (k), relating to review, as (*o*), inserted heading, and substituted “this section” for “subsection (e)(1)”.
 
-Pub. L. 102–237, § 113(7)(B), redesignated subsec. (*o*) as (p).
+Pub. L. 102–237, § 113(7)(B), redesignated subsec. (*o*) as (p).
 
-Subsec. (p). Pub. L. 102–237, § 113(7)(B), redesignated subsec. (*o*) as (p).
+Subsec. (p). Pub. L. 102–237, § 113(7)(B), redesignated subsec. (*o*) as (p).
 
-1990—Pub. L. 101–624, § 1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to the establishment and maintenance of the producer reserve program for wheat and feed grains.
+1990—Pub. L. 101–624, § 1123, amended section generally, substituting provisions relating to the farmer owned reserve program for provisions relating to the establishment and maintenance of the producer reserve program for wheat and feed grains.
 
-Subsec. (k). Pub. L. 101–624, § 2010, added subsec. (k) relating to review.
+Subsec. (k). Pub. L. 101–624, § 2010, added subsec. (k) relating to review.
 
 1988—Subsec. (j). Pub. L. 100–387 temporarily added subsec. (j). See Effective and Termination Dates of 1988 Amendment note.
 
-1987—Subsec. (b)(A)(i). Pub. L. 100–203, § 1108(1), substituted “300 million bushels” for “17 percent of the estimated total domestic and export usage of wheat during the then current marketing year for wheat, as determined by the Secretary”.
+1987—Subsec. (b)(A)(i). Pub. L. 100–203, § 1108(1), substituted “300 million bushels” for “17 percent of the estimated total domestic and export usage of wheat during the then current marketing year for wheat, as determined by the Secretary”.
 
-Subsec. (b)(A)(ii). Pub. L. 100–203, § 1108(2), substituted “450 million bushels” for “7 percent of the estimated total domestic and export usage of feed grains during the then current marketing year for feed grains, as determined by the Secretary”.
+Subsec. (b)(A)(ii). Pub. L. 100–203, § 1108(2), substituted “450 million bushels” for “7 percent of the estimated total domestic and export usage of feed grains during the then current marketing year for feed grains, as determined by the Secretary”.
 
-1985—Subsec. (a). Pub. L. 99–198 in first sentence substituted “abundant supply, extend” for “abundant supply and extend” and inserted “, and provide for adequate, but not excessive, carryover stocks to ensure a reliable supply of the commodities” after “for their orderly marketing”.
+1985—Subsec. (a). Pub. L. 99–198 in first sentence substituted “abundant supply, extend” for “abundant supply and extend” and inserted “, and provide for adequate, but not excessive, carryover stocks to ensure a reliable supply of the commodities” after “for their orderly marketing”.
 
-Subsec. (b). Pub. L. 99–198 in third sentence substituted “, with extensions as warranted by market conditions” for “nor more than five years” in cl. (1), substituted “when the total amount of wheat or feed grains in storage under programs under this section is below the upper limits for such storage as set forth in clauses (A) and (B) of subsection (e)(2) of this section and the market price for wheat or feed grains is below” for “before the market price for wheat or feed grains has reached” in cl. (4), substituted “the higher of 140 percent of the nonrecourse loan rate for the commodity or the established price for such commodity, as determined under this subchapter” for “a specified level, as determined by the Secretary” in cl. (5), and at end inserted provisions requiring Secretary to encourage participation in the programs authorized under this section by offering producers increased storage payments and loan levels, interest waivers, or such other incentives as the Secretary determines necessary to maintain total amount of storage at specified levels, whenever the total quantity of wheat and feed grains stored under this section is less than 17 and 7 percent, respectively, of the estimated total usage thereof during the then current marketing year, and the marketing price does not exceed 140 percent of the nonrecourse loan rate for the commodity, and inserted provision requiring Secretary to ensure than producers are afforded a fair and equitable opportunity to participate in each producer storage program.
+Subsec. (b). Pub. L. 99–198 in third sentence substituted “, with extensions as warranted by market conditions” for “nor more than five years” in cl. (1), substituted “when the total amount of wheat or feed grains in storage under programs under this section is below the upper limits for such storage as set forth in clauses (A) and (B) of subsection (e)(2) of this section and the market price for wheat or feed grains is below” for “before the market price for wheat or feed grains has reached” in cl. (4), substituted “the higher of 140 percent of the nonrecourse loan rate for the commodity or the established price for such commodity, as determined under this subchapter” for “a specified level, as determined by the Secretary” in cl. (5), and at end inserted provisions requiring Secretary to encourage participation in the programs authorized under this section by offering producers increased storage payments and loan levels, interest waivers, or such other incentives as the Secretary determines necessary to maintain total amount of storage at specified levels, whenever the total quantity of wheat and feed grains stored under this section is less than 17 and 7 percent, respectively, of the estimated total usage thereof during the then current marketing year, and the marketing price does not exceed 140 percent of the nonrecourse loan rate for the commodity, and inserted provision requiring Secretary to ensure than producers are afforded a fair and equitable opportunity to participate in each producer storage program.
 
-Subsec. (e). Pub. L. 99–198 designated existing provisions as par. (1), inserted “, subject to the upper limits on the total quantity of wheat and feed grains that may be stored under storage programs established under this section set out in paragraph (2)” in second sentence, struck out third sentence which authorized the Secretary to place an upper limit of not less than seven hundred million bushels for wheat and one billion bushels for feed grains placed in the reserve, and added par. (2).
+Subsec. (e). Pub. L. 99–198 designated existing provisions as par. (1), inserted “, subject to the upper limits on the total quantity of wheat and feed grains that may be stored under storage programs established under this section set out in paragraph (2)” in second sentence, struck out third sentence which authorized the Secretary to place an upper limit of not less than seven hundred million bushels for wheat and one billion bushels for feed grains placed in the reserve, and added par. (2).
 
 1981—Subsec. (a). Pub. L. 97–98 struck out discretionary authority of Secretary with regard to permitting producers of feed grains to store wheat and feed grains.
 
@@ -3785,7 +3785,7 @@ Subsec. (b)(2). Pub. L. 97–98 substituted “for storage in such amounts and u
 
 Subsec. (b)(3). Pub. L. 97–98 substituted “as determined under subsection (c) of this section” for “determined by the Secretary based upon the rate of interest charged the Commodity Credit Corporation by the United States Treasury, except that the Secretary may waive or adjust such interest”.
 
-Pub. L. 97–24 struck out “, and the Secretary shall waive such interest on loans made on the 1980 and 1981 crops of wheat and feed grains” after “a rate of interest determined by the Secretary based upon the rate of interest charged the Commodity Credit Corporation by the United States Treasury, except that the Secretary may waive or adjust such interest”.
+Pub. L. 97–24 struck out “, and the Secretary shall waive such interest on loans made on the 1980 and 1981 crops of wheat and feed grains” after “a rate of interest determined by the Secretary based upon the rate of interest charged the Commodity Credit Corporation by the United States Treasury, except that the Secretary may waive or adjust such interest”.
 
 Subsec. (b)(4). Pub. L. 97–98 substituted “if such loans” for “in the event such loans” and “determined under clause (5) of this sentence” for “specified in clause (5) of this subsection”.
 
@@ -3805,23 +3805,23 @@ Subsec. (h). Pub. L. 97–98 redesignated former subsec. (g) as (h). Former subs
 
 Subsec. (i). Pub. L. 97–98 redesignated former subsec. (h) as (i) and substituted “To the maximum extent” for “In addition, to the maximum extent”.
 
-1980—Subsec. (b). Pub. L. 96–494, § 203(a)(1), inserted two provisos in provisions permitting Secretary to provide original or extended price support loans for wheat and feed grains at the same level of support as provided by this Act, in carrying out the producer storage program, under terms and conditions designed to encourage producers to store wheat and feed grains for extended periods of time to promote orderly marketing when wheat or feed grains are in abundant supply.
+1980—Subsec. (b). Pub. L. 96–494, § 203(a)(1), inserted two provisos in provisions permitting Secretary to provide original or extended price support loans for wheat and feed grains at the same level of support as provided by this Act, in carrying out the producer storage program, under terms and conditions designed to encourage producers to store wheat and feed grains for extended periods of time to promote orderly marketing when wheat or feed grains are in abundant supply.
 
-Subsec. (b)(3). Pub. L. 96–494, § 203(a)(2), inserted provisions requiring Secretary to waive interest on loans made on the 1980 and 1981 crops of wheat and feed grains.
+Subsec. (b)(3). Pub. L. 96–494, § 203(a)(2), inserted provisions requiring Secretary to waive interest on loans made on the 1980 and 1981 crops of wheat and feed grains.
 
-Subsec. (b)(5). Pub. L. 96–494, § 204, substituted “for the commodity has attained a specified level” for “of wheat has attained a specified level which is not less than 140 per centum nor more than 160 per centum of the then current level of price support for wheat or such appropriate level for feed grains”.
+Subsec. (b)(5). Pub. L. 96–494, § 204, substituted “for the commodity has attained a specified level” for “of wheat has attained a specified level which is not less than 140 per centum nor more than 160 per centum of the then current level of price support for wheat or such appropriate level for feed grains”.
 
-Subsec. (b)(6). Pub. L. 96–494, § 204, substituted “such appropriate level, as determined by the Secretary” for “175 per centum of the then current level of the price support for wheat or such appropriate level for feed grains as determined by the Secretary under this Act”.
+Subsec. (b)(6). Pub. L. 96–494, § 204, substituted “such appropriate level, as determined by the Secretary” for “175 per centum of the then current level of the price support for wheat or such appropriate level for feed grains as determined by the Secretary under this Act”.
 
-Subsecs. (c), (d). Pub. L. 96–234, § 1, added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+Subsecs. (c), (d). Pub. L. 96–234, § 1, added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-Subsec. (e). Pub. L. 96–494, § 205(1), (2), substituted “except as otherwise provided under section 1736f–1 of this title and section 4001 of this title, whenever the extended loan program authorized by this section is in effect, the Commodity Credit Corporation may not sell any of its stocks of wheat or feed grains at less than 105 per centum of the then current level at which the Secretary may call for repayment of producer storage loans on the commodity prior to the maturity dates of the loans, as determined under clause (6) of the second sentence of subsection (b) of this section” for “whenever the extended loan program authorized by this section is in effect, the Commodity Credit Corporation may not sell any of its stocks of wheat or feed grains at less than 150 percentum of the then current level of price support for such commodity”.
+Subsec. (e). Pub. L. 96–494, § 205(1), (2), substituted “except as otherwise provided under section 1736f–1 of this title and section 4001 of this title, whenever the extended loan program authorized by this section is in effect, the Commodity Credit Corporation may not sell any of its stocks of wheat or feed grains at less than 105 per centum of the then current level at which the Secretary may call for repayment of producer storage loans on the commodity prior to the maturity dates of the loans, as determined under clause (6) of the second sentence of subsection (b) of this section” for “whenever the extended loan program authorized by this section is in effect, the Commodity Credit Corporation may not sell any of its stocks of wheat or feed grains at less than 150 percentum of the then current level of price support for such commodity”.
 
-Pub. L. 96–234, § 1(1), (2), redesignated former subsec. (d) as (e) and added cl. (3). Former subsec. (e) redesignated (f).
+Pub. L. 96–234, § 1(1), (2), redesignated former subsec. (d) as (e) and added cl. (3). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(3). Pub. L. 96–494, § 205(3), in provisions preceding subpar. (A), substituted “sales of corn” for “sales of corn when sold at not less than the release level under the extended loan program”, and inserted “when sold at not less than the price at which producers may repay producer storage loans and redeem corn prior to the maturity dates of loans, as determined under clause (5) of the second sentence of subsection (b) of this section, or, whenever the fuel conversion price (as defined in section 4005 of this title) for corn exceeds such price, at not less than the fuel conversion price”.
+Subsec. (e)(3). Pub. L. 96–494, § 205(3), in provisions preceding subpar. (A), substituted “sales of corn” for “sales of corn when sold at not less than the release level under the extended loan program”, and inserted “when sold at not less than the price at which producers may repay producer storage loans and redeem corn prior to the maturity dates of loans, as determined under clause (5) of the second sentence of subsection (b) of this section, or, whenever the fuel conversion price (as defined in section 4005 of this title) for corn exceeds such price, at not less than the fuel conversion price”.
 
-Subsecs. (f) to (h). Pub. L. 96–234, § 1(1), redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
+Subsecs. (f) to (h). Pub. L. 96–234, § 1(1), redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3831,21 +3831,21 @@ Amendment by section 1123 of Pub. L. 101–624 effective beginning with 1991 cro
 
 **Effective and Termination Dates of 1988 Amendment**
 
-Pub. L. 100–387, title III, § 303(b), Aug. 11, 1988, 102 Stat. 947, provided that the amendment made by section 303(b) is effective only for the 1988 marketing year for wheat and feed grains.
+Pub. L. 100–387, title III, § 303(b), Aug. 11, 1988, 102 Stat. 947, provided that the amendment made by section 303(b) is effective only for the 1988 marketing year for wheat and feed grains.
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title X, § 1012(a), Dec. 23, 1985, 99 Stat. 1455, provided that, except as provided in section 1012(b) of Pub. L. 99–198 (set out below), the amendments by section 1012(a) are effective beginning with the 1986 crops.
+Pub. L. 99–198, title X, § 1012(a), Dec. 23, 1985, 99 Stat. 1455, provided that, except as provided in section 1012(b) of Pub. L. 99–198 (set out below), the amendments by section 1012(a) are effective beginning with the 1986 crops.
 
-Pub. L. 99–198, title X, § 1012(b), Dec. 23, 1985, 99 Stat. 1456, provided that: “The amendment made by subsection (a)(2)(B) of this section [amending this section] shall take effect with respect to any loan made under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) the date for repayment of which occurs after the date of enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–198, title X, § 1012(b), Dec. 23, 1985, 99 Stat. 1456, provided that: “The amendment made by subsection (a)(2)(B) of this section [amending this section] shall take effect with respect to any loan made under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) the date for repayment of which occurs after the date of enactment of this Act [Dec. 23, 1985].”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–98, title X, § 1001, Dec. 22, 1981, 95 Stat. 1257, provided that the amendment made by section 1001 is effective beginning with the 1982 crops.
+Pub. L. 97–98, title X, § 1001, Dec. 22, 1981, 95 Stat. 1257, provided that the amendment made by section 1001 is effective beginning with the 1982 crops.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–494, title II, § 203(b), Dec. 3, 1980, 94 Stat. 2571, provided that: “Subsection (a) of this section [amending this section] shall become effective October 1, 1980, and any producers who, prior to such date, receive loans on the 1980 crop of the commodity as computed under the Agricultural Act of 1949 [see Short Title note set out under section 1421 of this title], as amended prior to the enactment of this Act [Dec. 3, 1980], may elect after September 30, 1980, to receive loans as authorized under subsection (a) of this section.”
+Pub. L. 96–494, title II, § 203(b), Dec. 3, 1980, 94 Stat. 2571, provided that: “Subsection (a) of this section [amending this section] shall become effective October 1, 1980, and any producers who, prior to such date, receive loans on the 1980 crop of the commodity as computed under the Agricultural Act of 1949 [see Short Title note set out under section 1421 of this title], as amended prior to the enactment of this Act [Dec. 3, 1980], may elect after September 30, 1980, to receive loans as authorized under subsection (a) of this section.”
 
 Amendment by sections 204 and 205 of Pub. L. 96–494 effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as an Effective Date note under section 4001 of this title.
 
@@ -3865,17 +3865,17 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **Comparability of Storage Payments**
 
-Pub. L. 101–624, title XI, § 1124, Nov. 28, 1990, 104 Stat. 3506, as amended by Pub. L. 102–237, title I, § 114(a)(1), Dec. 13, 1991, 105 Stat. 1838, provided that: “In making storage payments to producers under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) and to commercial warehousemen in accordance with the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), the Commodity Credit Corporation and the Secretary of Agriculture shall, to the extent practicable, ensure that the rates of the storage payments made to producers are equivalent to average rates paid for commercial storage, taking into account the current demand for storage for commodities, efficiency, location, regulatory compliance costs, bonding requirements, and impact of user fees as determined by the Secretary, except that the rates paid to producers and commercial warehousemen shall be established at rates that will result in no increase in current or projected combined outlays of the Commodity Credit Corporation for the storage payments made to producers and commercial warehousemen as a result of the adjustment of storage rates under this section.”
+Pub. L. 101–624, title XI, § 1124, Nov. 28, 1990, 104 Stat. 3506, as amended by Pub. L. 102–237, title I, § 114(a)(1), Dec. 13, 1991, 105 Stat. 1838, provided that: “In making storage payments to producers under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) and to commercial warehousemen in accordance with the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), the Commodity Credit Corporation and the Secretary of Agriculture shall, to the extent practicable, ensure that the rates of the storage payments made to producers are equivalent to average rates paid for commercial storage, taking into account the current demand for storage for commodities, efficiency, location, regulatory compliance costs, bonding requirements, and impact of user fees as determined by the Secretary, except that the rates paid to producers and commercial warehousemen shall be established at rates that will result in no increase in current or projected combined outlays of the Commodity Credit Corporation for the storage payments made to producers and commercial warehousemen as a result of the adjustment of storage rates under this section.”
 
 **Repayment of Loans Without Penalty**
 
-Pub. L. 100–387, title III, § 303(a), Aug. 11, 1988, 102 Stat. 947, provided that effective for the 1988 marketing year for wheat or feed grains, once the market price described in former clause (5) of the third sentence of subsection (b) of this section had been reached at any time during such marketing year with respect to such commodity, producers could repay loans made under this section for such commodity during the remainder of that marketing year without the payment of a penalty.
+Pub. L. 100–387, title III, § 303(a), Aug. 11, 1988, 102 Stat. 947, provided that effective for the 1988 marketing year for wheat or feed grains, once the market price described in former clause (5) of the third sentence of subsection (b) of this section had been reached at any time during such marketing year with respect to such commodity, producers could repay loans made under this section for such commodity during the remainder of that marketing year without the payment of a penalty.
 
-### § 1445f. International Emergency Food Reserve
+### § 1445f. International Emergency Food Reserve
 
 The President is encouraged to enter into negotiations with other nations to develop an international system of food reserves to provide for humanitarian food relief needs and to establish and maintain a food reserve, as a contribution of the United States toward the development of such a system, to be made available in the event of food emergencies in foreign countries. The reserves shall be known as the International Emergency Food Reserve.
 
-(Oct. 31, 1949, ch. 792, title I, § 111, as added Pub. L. 95–113, title XI, § 1102, Sept. 29, 1977, 91 Stat. 953.)
+(Oct. 31, 1949, ch. 792, title I, § 111, as added Pub. L. 95–113, title XI, § 1102, Sept. 29, 1977, 91 Stat. 953.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3883,7 +3883,7 @@ The President is encouraged to enter into negotiations with other nations to dev
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-### § 1445g. Production of commodities for conversion into industrial hydrocarbons; terms and conditions; incentive payments; regulations; appropriations; effective date
+### § 1445g. Production of commodities for conversion into industrial hydrocarbons; terms and conditions; incentive payments; regulations; appropriations; effective date
 
 Notwithstanding any other provision of this Act—
 
@@ -3901,13 +3901,13 @@ Notwithstanding any other provision of this Act—
 
 **(5)** The provisions of this subsection shall become effective October 1, 1978.
 
-(Oct. 31, 1949, ch. 792, title I, § 112, as added Pub. L. 95–279, title II, § 201, May 15, 1978, 92 Stat. 241.)
+(Oct. 31, 1949, ch. 792, title I, § 112, as added Pub. L. 95–279, title II, § 201, May 15, 1978, 92 Stat. 241.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in provision preceding subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in provision preceding subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3921,11 +3921,11 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(F) of this title.
 
-### § 1445h. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(F), Apr. 4, 1996, 110 Stat. 938
+### § 1445h. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(F), Apr. 4, 1996, 110 Stat. 938
 
-Section, act Oct. 31, 1949, ch. 792, title I, § 113, as added Dec. 3, 1980, Pub. L. 96–494, title II, § 207, 94 Stat. 2572; amended Dec. 22, 1981, Pub. L. 97–98, title XI, § 1105, 95 Stat. 1264; Dec. 23, 1985, Pub. L. 99–198, title X, § 1011, 99 Stat. 1454; Nov. 28, 1990, Pub. L. 101–624, title XI, § 1125, 104 Stat. 3506, authorized Secretary to announce and provide for supplemental set-aside and acreage limitation program.
+Section, act Oct. 31, 1949, ch. 792, title I, § 113, as added Dec. 3, 1980, Pub. L. 96–494, title II, § 207, 94 Stat. 2572; amended Dec. 22, 1981, Pub. L. 97–98, title XI, § 1105, 95 Stat. 1264; Dec. 23, 1985, Pub. L. 99–198, title X, § 1011, 99 Stat. 1454; Nov. 28, 1990, Pub. L. 101–624, title XI, § 1125, 104 Stat. 3506, authorized Secretary to announce and provide for supplemental set-aside and acreage limitation program.
 
-### § 1445i. Multiyear set-aside contracts for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice
+### § 1445i. Multiyear set-aside contracts for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice
 
 Notwithstanding any other provision of law:
 
@@ -3937,7 +3937,7 @@ Notwithstanding any other provision of law:
 
 **(4)** The Secretary shall carry out the program authorized by this section through the Commodity Credit Corporation.
 
-(Pub. L. 99–198, title X, § 1010, Dec. 23, 1985, 99 Stat. 1454.)
+(Pub. L. 99–198, title X, § 1010, Dec. 23, 1985, 99 Stat. 1454.)
 
 **Editorial Notes**
 
@@ -3945,7 +3945,7 @@ Notwithstanding any other provision of law:
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-### § 1445j. Deficiency and land diversion payments
+### § 1445j. Deficiency and land diversion payments
 
 **(a) Deficiency payments**
 
@@ -4023,15 +4023,15 @@ The Secretary shall carry out the program authorized by this section through the
 
 The authority provided in this section shall be in addition to, and not in place of, any authority granted to the Secretary or the Commodity Credit Corporation under any other provision of law.
 
-**(b) , (c) Repealed. Pub. L. 104–127, title I, § 171(b)(2)(G), Apr. 4, 1996, 110 Stat. 938**
+**(b) , (c) Repealed. Pub. L. 104–127, title I, § 171(b)(2)(G), Apr. 4, 1996, 110 Stat. 938**
 
-(Oct. 31, 1949, ch. 792, title I, § 114, formerly § 107C, as added Pub. L. 97–253, title I, § 120, Sept. 8, 1982, 96 Stat. 766; amended Pub. L. 99–198, title X, § 1002, Dec. 23, 1985, 99 Stat. 1446; Pub. L. 100–203, title I, § 1110, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 101–239, title I, § 1003(b)(1), Dec. 19, 1989, 103 Stat. 2108; Pub. L. 101–508, title I, § 1102(d), Nov. 5, 1990, 104 Stat. 1388–2; renumbered § 114 and amended Pub. L. 101–624, title XI, §§ 1121(a), (c), 1161(a)(1), Nov. 28, 1990, 104 Stat. 3500, 3503, 3520; Pub. L. 102–237, title I, § 109, Dec. 13, 1991, 105 Stat. 1828; Pub. L. 103–66, title I, § 1101(b)(1), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, § 171(b)(2)(G), Apr. 4, 1996, 110 Stat. 938.)
+(Oct. 31, 1949, ch. 792, title I, § 114, formerly § 107C, as added Pub. L. 97–253, title I, § 120, Sept. 8, 1982, 96 Stat. 766; amended Pub. L. 99–198, title X, § 1002, Dec. 23, 1985, 99 Stat. 1446; Pub. L. 100–203, title I, § 1110, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 101–239, title I, § 1003(b)(1), Dec. 19, 1989, 103 Stat. 2108; Pub. L. 101–508, title I, § 1102(d), Nov. 5, 1990, 104 Stat. 1388–2; renumbered § 114 and amended Pub. L. 101–624, title XI, §§ 1121(a), (c), 1161(a)(1), Nov. 28, 1990, 104 Stat. 3500, 3503, 3520; Pub. L. 102–237, title I, § 109, Dec. 13, 1991, 105 Stat. 1828; Pub. L. 103–66, title I, § 1101(b)(1), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, § 171(b)(2)(G), Apr. 4, 1996, 110 Stat. 938.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Codification**
 
@@ -4043,21 +4043,21 @@ Section was classified to section 1445b–2 of this title prior to its renumberi
 
 1993—Subsecs. (a)(1), (c). Pub. L. 103–66 substituted “1997” for “1995”.
 
-1991—Subsec. (c). Pub. L. 102–237, § 109(1), substituted “section” for “sections” in introductory provisions.
+1991—Subsec. (c). Pub. L. 102–237, § 109(1), substituted “section” for “sections” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 102–237, § 109(3), added par. (2) and struck out former par. (2) which read as follows: “Seventy-five percent of the final projected deficiency payment for the crop, reduced by the amount of the advance, shall be made available as soon as practicable after the end of the first 5 months of the applicable marketing year.”
+Subsec. (c)(2). Pub. L. 102–237, § 109(3), added par. (2) and struck out former par. (2) which read as follows: “Seventy-five percent of the final projected deficiency payment for the crop, reduced by the amount of the advance, shall be made available as soon as practicable after the end of the first 5 months of the applicable marketing year.”
 
-Subsec. (c)(3), (4). Pub. L. 102–237, § 109(2), (3), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (c)(3), (4). Pub. L. 102–237, § 109(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-1990—Pub. L. 101–624, § 1121(a), amended section generally, substituting provisions relating to deficiency and land diversion payments for the 1991 through 1995 crops of wheat, feed grains, upland cotton, and rice for provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
+1990—Pub. L. 101–624, § 1121(a), amended section generally, substituting provisions relating to deficiency and land diversion payments for the 1991 through 1995 crops of wheat, feed grains, upland cotton, and rice for provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice.
 
-Pub. L. 101–624, § 1121(c), amended Pub. L. 99–198. See 1985 Amendment note below.
+Pub. L. 101–624, § 1121(c), amended Pub. L. 99–198. See 1985 Amendment note below.
 
 Subsec. (c). Pub. L. 101–508 substituted “wheat and feed grains which payments are calculated as provided in sections 1445b–3a(c)(1)(B)(ii), 1445b–3a(p), or 1444f(c)(1)(B)(ii) of this title” for “wheat, feed grains, and rice which payments are calculated on the basis of the national weighted average market price (or, in the case of rice, the national average market price) for the marketing year for the crop”.
 
 1989—Subsec. (a)(2)(G). Pub. L. 101–239 temporarily inserted “(taking into consideration any reduction in the payment made under section 1433d of this title)” and substituted “amount finally” for “amount finallly”. See Effective and Termination Dates of 1989 Amendment note below.
 
-1987—Subsec. (a)(1). Pub. L. 100–203, § 1110(1), temporarily added par. (1) and struck out former par. (1) which read as follows: “If the Secretary establishes an acreage limitation or set-aside program for any of the 1986 through 1990 crops of wheat, feed grains, upland cotton, or rice under this Act and determines that deficiency payments will likely be made for such commodity for such crop, the Secretary—
+1987—Subsec. (a)(1). Pub. L. 100–203, § 1110(1), temporarily added par. (1) and struck out former par. (1) which read as follows: “If the Secretary establishes an acreage limitation or set-aside program for any of the 1986 through 1990 crops of wheat, feed grains, upland cotton, or rice under this Act and determines that deficiency payments will likely be made for such commodity for such crop, the Secretary—
 
 “(A) shall make advance deficiency payments available to producres [sic] who agree to participate in such program for the 1986 crop; and
 
@@ -4065,9 +4065,9 @@ Subsec. (c). Pub. L. 101–508 substituted “wheat and feed grains which paymen
 
 See Effective and Termination Dates of 1987 Amendment note below.
 
-Subsec. (a)(2)(F)(iii). Pub. L. 100–203, § 1110(2), temporarily added cl. (iii) and struck out former cl. (iii) which read as follows: “50 percent of the projected payment rate,”. See Effective and Termination Dates of 1987 Amendment note below.
+Subsec. (a)(2)(F)(iii). Pub. L. 100–203, § 1110(2), temporarily added cl. (iii) and struck out former cl. (iii) which read as follows: “50 percent of the projected payment rate,”. See Effective and Termination Dates of 1987 Amendment note below.
 
-1985—Pub. L. 99–198, as amended by Pub. L. 101–624, § 1121(c), amended section generally, substituting provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton and rice for provisions relating to advance deficiency payments for the 1982 through 1985 crops of wheat, feed grains, upland cotton and rice.
+1985—Pub. L. 99–198, as amended by Pub. L. 101–624, § 1121(c), amended section generally, substituting provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton and rice for provisions relating to advance deficiency payments for the 1982 through 1985 crops of wheat, feed grains, upland cotton and rice.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4079,11 +4079,11 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 **Effective and Termination Dates of 1989 Amendment**
 
-Pub. L. 101–239, title I, § 1003(b)(1), Dec. 19, 1989, 103 Stat. 2108, provided that the amendment made by section 1003(b)(1) is effective only for the 1990 crops of wheat, feed grains, upland cotton, and rice.
+Pub. L. 101–239, title I, § 1003(b)(1), Dec. 19, 1989, 103 Stat. 2108, provided that the amendment made by section 1003(b)(1) is effective only for the 1990 crops of wheat, feed grains, upland cotton, and rice.
 
 **Effective and Termination Dates of 1987 Amendment**
 
-Pub. L. 100–203, title I, § 1110, Dec. 22, 1987, 101 Stat. 1330–6, provided that the amendment made by section 1110 is effective only for the 1988 through 1990 crops of wheat, feed grains, upland cotton, and rice.
+Pub. L. 100–203, title I, § 1110, Dec. 22, 1987, 101 Stat. 1330–6, provided that the amendment made by section 1110 is effective only for the 1988 through 1990 crops of wheat, feed grains, upland cotton, and rice.
 
 **Effective and Termination Dates of 1985 Amendment**
 
@@ -4091,11 +4091,11 @@ That portion of section 1002 of Pub. L. 99–198 which provided that the amendme
 
 **Effective and Termination Dates**
 
-Pub. L. 97–253, title I, § 120, Sept. 8, 1982, 96 Stat. 766, provided that this section is effective only for the 1982 through 1985 crops of wheat, feed grains, upland cotton, and rice.
+Pub. L. 97–253, title I, § 120, Sept. 8, 1982, 96 Stat. 766, provided that this section is effective only for the 1982 through 1985 crops of wheat, feed grains, upland cotton, and rice.
 
 **Calculation of Refunds of Advance Established Price Payments by Producers of 1988 or 1989 Crops of Feed Barley**
 
-Pub. L. 101–624, title IV, § 405, Nov. 28, 1990, 104 Stat. 3420, provided that:
+Pub. L. 101–624, title IV, § 405, Nov. 28, 1990, 104 Stat. 3420, provided that:
 
 > **“(a) Mandatory Calculation of Refund.—**
 
@@ -4143,7 +4143,7 @@ Pub. L. 101–624, title IV, § 405, Nov. 28, 1990, 104 Stat. 3420, provided t
 
 **Repayment Requirements**
 
-Pub. L. 101–624, title XI, § 1121(b), Nov. 28, 1990, 104 Stat. 3502, provided that:
+Pub. L. 101–624, title XI, § 1121(b), Nov. 28, 1990, 104 Stat. 3502, provided that:
 
 > **“(1) In general.—** Notwithstanding any other provision of law, effective only for producers who are suffering financial hardship, as determined by the Secretary, on a farm who received an advance deficiency payment for the 1988 or 1989 crop of a commodity and are otherwise described in paragraph (2), the Secretary of Agriculture—
 
@@ -4151,7 +4151,7 @@ Pub. L. 101–624, title XI, § 1121(b), Nov. 28, 1990, 104 Stat. 3502, provid
 
 > **“(B)** shall not withhold, in each of the 3 succeeding crop years, more than ⅓ of the farm program payments otherwise due to the producers, as a result of any delinquency in providing the refund; and
 
-> **“(C)** shall permit the producers to make the refund in three equal installments during each of the crop years 1990, 1991, and 1992, if the producers enter into an agreement to obtain multiperil crop insurance for each of the crop years, to the extent that the Secretary determines is similar to section 107 of the Disaster Assistance Act of 1989 (7 U.S.C. 1421 et seq.) [§ 107 of Pub. L. 101–82, 7 U.S.C. 1421 note].
+> **“(C)** shall permit the producers to make the refund in three equal installments during each of the crop years 1990, 1991, and 1992, if the producers enter into an agreement to obtain multiperil crop insurance for each of the crop years, to the extent that the Secretary determines is similar to section 107 of the Disaster Assistance Act of 1989 (7 U.S.C. 1421 et seq.) [§ 107 of Pub. L. 101–82, 7 U.S.C. 1421 note].
 
 > **“(2) Application.—** This subparagraph shall apply if—
 
@@ -4165,9 +4165,9 @@ Pub. L. 101–624, title XI, § 1121(b), Nov. 28, 1990, 104 Stat. 3502, provid
 
 **Advance Deficiency Payments**
 
-Pub. L. 99–509, title I, § 1021, Oct. 21, 1986, 100 Stat. 1877, required Secretary of Agriculture to make advance deficiency payments available for 1987 crops of wheat, feed grains, upland cotton, and rice, and provided that percentage of projected payment rate used in computing such payments shall not be less than (1) 40 percent in the case of wheat and feed grains, and (2) 30 percent in the case of rice and upland cotton.
+Pub. L. 99–509, title I, § 1021, Oct. 21, 1986, 100 Stat. 1877, required Secretary of Agriculture to make advance deficiency payments available for 1987 crops of wheat, feed grains, upland cotton, and rice, and provided that percentage of projected payment rate used in computing such payments shall not be less than (1) 40 percent in the case of wheat and feed grains, and (2) 30 percent in the case of rice and upland cotton.
 
-### § 1445k. Payments in commodities
+### § 1445k. Payments in commodities
 
 **(a) In-kind payments by Secretary** In making in-kind payments under any of the annual programs for wheat, feed grains, upland cotton, or rice (other than negotiable marketing certificates for upland cotton or rice), the Secretary may—
 
@@ -4189,13 +4189,13 @@ Pub. L. 99–509, title I, § 1021, Oct. 21, 1986, 100 Stat. 1877, required Se
 
 The Secretary shall pay interest on the cash redemption of a commodity certificate issued by the Secretary to a producer who holds the certificate for at least 150 days. This subsection shall not apply with respect to commodity certificates issued in connection with the export enhancement program or the marketing promotion program established under the Agricultural Trade Act of 1978.
 
-(Oct. 31, 1949, ch. 792, title I, § 115, formerly § 107E, as added Pub. L. 99–198, title X, § 1005, Dec. 23, 1985, 99 Stat. 1448; renumbered § 115 and amended Pub. L. 101–624, title XI, §§ 1122(a), 1161(a)(1), Nov. 28, 1990, 104 Stat. 3503, 3520.)
+(Oct. 31, 1949, ch. 792, title I, § 115, formerly § 107E, as added Pub. L. 99–198, title X, § 1005, Dec. 23, 1985, 99 Stat. 1448; renumbered § 115 and amended Pub. L. 101–624, title XI, §§ 1122(a), 1161(a)(1), Nov. 28, 1990, 104 Stat. 3503, 3520.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Trade Act of 1978, referred to in subsec. (c), is Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, as amended generally by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668, which is classified generally to chapter 87 (§ 5601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+The Agricultural Trade Act of 1978, referred to in subsec. (c), is Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, as amended generally by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668, which is classified generally to chapter 87 (§ 5601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 **Codification**
 
@@ -4203,7 +4203,7 @@ Section was classified to section 1445b–4 of this title prior to its renumberi
 
 **Amendments**
 
-1990—Subsec. (c). Pub. L. 101–624, § 1122(a), added subsec. (c).
+1990—Subsec. (c). Pub. L. 101–624, § 1122(a), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4223,7 +4223,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **Redemption of Commodity Certificates**
 
-Pub. L. 101–624, title XI, § 1122(b), Nov. 28, 1990, 104 Stat. 3503, provided that:
+Pub. L. 101–624, title XI, § 1122(b), Nov. 28, 1990, 104 Stat. 3503, provided that:
 
 > **“(1) In general.—** A subsequent holder of a commodity certificate issued by the Commodity Credit Corporation shall be allowed to exchange the expired commodity certificate under the same rules that apply to an original holder of the certificate.
 
@@ -4233,15 +4233,15 @@ Pub. L. 101–624, title XI, § 1122(b), Nov. 28, 1990, 104 Stat. 3503, provid
 
 ## SUBCHAPTER III—NONBASIC AGRICULTURAL COMMODITIES
 
-### § 1446. Price support levels for designated nonbasic agricultural commodities
+### § 1446. Price support levels for designated nonbasic agricultural commodities
 
 **(a)** The Secretary is authorized and directed to make available (without regard to the provisions of sections 1447 to 1449 of this title) price support to producers for oilseeds (including soybeans, sunflower seed, canola, rapeseed, safflower, flaxseed, mustard seed, and such other oilseeds as the Secretary may determine), sunflower seeds, honey, milk, sugar beets, and sugarcane in accordance with this subchapter.
 
 **(b)** The price of honey shall be supported through loans, purchases, or other operations at a level not in excess of 90 per centum nor less than 60 per centum of the parity price thereof; and the price of tung nuts for each crop of tung nuts through the 1976 crop shall be supported through loans, purchases, or other operations at a level not in excess of 90 per centum nor less than 60 per centum of the parity price therefor: *Provided*, That in any crop year through the 1976 crop year in which the Secretary determines that the domestic production of tung oil will be less than the anticipated domestic demand for such oil, the price of tung nuts shall be supported at not less than 65 per centum of the parity price therefor.
 
-**(c)** Except as provided in section 1446e 1
+**(c)** Except as provided in section 1446e 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the price of milk shall be supported at such level not in excess of 90 per centum nor less than 75 per centum of the parity price therefor as the Secretary determines necessary in order to assure an adequate supply of pure and wholesome milk to meet current needs, reflect changes in the cost of production, and assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs. Such price support shall be provided through the purchase of milk and the products of milk.
 
@@ -4289,7 +4289,7 @@ of this title, the price of milk shall be supported at such level not in excess 
 
 **(E)**
 
-**(i)** In lieu of any reductions in payments made by the Secretary for the purchase of milk and the products of milk under this subsection during the period beginning March 1, 1986, and ending September 30, 1986, required under the order issued by the President on February 1, 1986, under section 252 <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) [2 U.S.C. 902], the Secretary shall increase the amount of the reduction required under subparagraph (A) during the period beginning April 1, 1986, and ending September 30, 1986, as the sole means of meeting any reductions required under the order in payments made by the Secretary for the purchase of milk and the products of milk under this subsection.
+**(i)** In lieu of any reductions in payments made by the Secretary for the purchase of milk and the products of milk under this subsection during the period beginning March 1, 1986, and ending September 30, 1986, required under the order issued by the President on February 1, 1986, under section 252 <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) [2 U.S.C. 902], the Secretary shall increase the amount of the reduction required under subparagraph (A) during the period beginning April 1, 1986, and ending September 30, 1986, as the sole means of meeting any reductions required under the order in payments made by the Secretary for the purchase of milk and the products of milk under this subsection.
 
 **(ii)** The aggregate amount of any increased reduction under clause (i) shall be equal, to the extent practicable, to the aggregate amount of the reduction that would otherwise be required under the order referred to in clause (i) in payments made by the Secretary for the purchase of milk and the products of milk under this subsection during the period beginning March 1, 1986, and ending September 30, 1986, except that the amount of any increased reduction under clause (i) may not exceed 12 cents per hundredweight of milk marketed.
 
@@ -4297,7 +4297,7 @@ of this title, the price of milk shall be supported at such level not in excess 
 
 **(i)** The Secretary—
 
-**(I)** notwithstanding the Balanced Budget and Emergency Deficit Control Act of 1985 and any order issued by the President under section 252 <sup>1</sup> of such Act [2 U.S.C. 902] for a fiscal year; and
+**(I)** notwithstanding the Balanced Budget and Emergency Deficit Control Act of 1985 and any order issued by the President under section 252 <sup>1</sup> of such Act [2 U.S.C. 902] for a fiscal year; and
 
 **(II)** in lieu of making any reduction in payments for the purchase of milk or the products of milk under this subsection during such fiscal year under any such order;
 
@@ -4305,9 +4305,9 @@ shall provide for the reduction (measured in cents per hundredweight of milk mar
 
 **(ii)** The aggregate amount of any reduction under subparagraph (A) resulting from the operation of clause (i) may not exceed the aggregate amount of the reduction in budget outlays under the milk price-support program, as estimated by the Secretary, that otherwise would have been achieved under either such order by reducing payments made by the Secretary for the purchase of milk or the products of milk under this subsection during such fiscal year.
 
-**(F)**  2
+**(F)** 2
 
-<sup>2</sup>  So in original. Probably should be “(G)”.
+<sup>2</sup> So in original. Probably should be “(G)”.
 
 During calendar year 1988, the Secretary shall provide for a reduction of 2½ cents per hundredweight to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use.
 
@@ -4347,11 +4347,11 @@ During calendar year 1988, the Secretary shall provide for a reduction of 2½ ce
 
 **(E)** Application for payment shall be made by producers through the county committees established under section 590h(b) of title 16.
 
-**(F)** to (J) Repealed. Pub. L. 99–198, title I, § 101(b)(1), (2), Dec. 23, 1985, 99 Stat. 1363, 1365.
+**(F)** to (J) Repealed. Pub. L. 99–198, title I, § 101(b)(1), (2), Dec. 23, 1985, 99 Stat. 1363, 1365.
 
 **(K)** Redesignated (E).
 
-**(L)** Repealed. Pub. L. 99–198, title I, § 101(b)(2), Dec. 23, 1985, 99 Stat. 1365.
+**(L)** Repealed. Pub. L. 99–198, title I, § 101(b)(2), Dec. 23, 1985, 99 Stat. 1365.
 
 **(M)** A contract entered into under this paragraph by a producer who by reason of death cannot perform or assign such contract may be performed or assigned, in accordance with subparagraph (L), by the estate of such producer.
 
@@ -4391,67 +4391,67 @@ During calendar year 1988, the Secretary shall provide for a reduction of 2½ ce
 
 **(7)** The Secretary shall carry out this subsection through the Commodity Credit Corporation.
 
-(Oct. 31, 1949, ch. 792, title II, § 201, 63 Stat. 1052; Aug. 28, 1954, ch. 1041, title II, §§ 203(a), 204(b), title VII, § 709, 68 Stat. 899, 912; Apr. 2, 1956, ch. 159, § 1, 70 Stat. 86; July 20, 1956, ch. 661, 70 Stat. 596; Pub. L. 85–835, title V, § 503, Aug. 28, 1958, 72 Stat. 996; Pub. L. 86–799, Sept. 16, 1960, 74 Stat. 1054; Pub. L. 91–524, title II, § 202, Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, § 1(3)(B), (C), Aug. 10, 1973, 87 Stat. 222, 223; Pub. L. 93–225, Dec. 29, 1973, 87 Stat. 942; Pub. L. 95–113, title II, § 203, title IX, §§ 901, 902, Sept. 29, 1977, 91 Stat. 920, 949; Pub. L. 96–127, § 1, Nov. 28, 1979, 93 Stat. 981; Pub. L. 96–494, title II, § 202(c), Dec. 3, 1980, 94 Stat. 2570; Pub. L. 97–6, Mar. 31, 1981, 95 Stat. 8; Pub. L. 97–35, title I, § 150, Aug. 13, 1981, 95 Stat. 369; Pub. L. 97–98, title I, § 103, title VIII, § 801, title IX, § 901, Dec. 22, 1981, 95 Stat. 1219, 1256, 1257; Pub. L. 97–253, title I, § 101, Sept. 8, 1982, 96 Stat. 763; Pub. L. 98–180, title I, § 102(a), Nov. 29, 1983, 97 Stat. 1128; Pub. L. 99–114, § 1, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, § 1, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, § 1, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title I, § 101(a)–(e), title VIII, § 801, title IX, § 901, title X, §§ 1008, 1041, Dec. 23, 1985, 99 Stat. 1362–1365, 1441, 1443, 1452, 1464; Pub. L. 99–260, § 10, Mar. 20, 1986, 100 Stat. 52; Pub. L. 100–45, § 15(a), May 27, 1987, 101 Stat. 325; Pub. L. 100–202, § 101(k) [title VI, § 638], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357; Pub. L. 100–203, title I, § 1104(c)–(e), Dec. 22, 1987, 101 Stat. 1330–4; Pub. L. 100–387, title I, § 102(a), Aug. 11, 1988, 102 Stat. 932; Pub. L. 101–239, title I, § 1007, Dec. 19, 1989, 103 Stat. 2110; Pub. L. 101–624, title VII, § 701(1), title IX, § 901(1), title XI, § 1161(b), title XXII, § 2236(a), Nov. 28, 1990, 104 Stat. 3457, 3478, 3520, 3961; Pub. L. 102–237, title I, § 113(8), Dec. 13, 1991, 105 Stat. 1838.)
+(Oct. 31, 1949, ch. 792, title II, § 201, 63 Stat. 1052; Aug. 28, 1954, ch. 1041, title II, §§ 203(a), 204(b), title VII, § 709, 68 Stat. 899, 912; Apr. 2, 1956, ch. 159, § 1, 70 Stat. 86; July 20, 1956, ch. 661, 70 Stat. 596; Pub. L. 85–835, title V, § 503, Aug. 28, 1958, 72 Stat. 996; Pub. L. 86–799, Sept. 16, 1960, 74 Stat. 1054; Pub. L. 91–524, title II, § 202, Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, § 1(3)(B), (C), Aug. 10, 1973, 87 Stat. 222, 223; Pub. L. 93–225, Dec. 29, 1973, 87 Stat. 942; Pub. L. 95–113, title II, § 203, title IX, §§ 901, 902, Sept. 29, 1977, 91 Stat. 920, 949; Pub. L. 96–127, § 1, Nov. 28, 1979, 93 Stat. 981; Pub. L. 96–494, title II, § 202(c), Dec. 3, 1980, 94 Stat. 2570; Pub. L. 97–6, Mar. 31, 1981, 95 Stat. 8; Pub. L. 97–35, title I, § 150, Aug. 13, 1981, 95 Stat. 369; Pub. L. 97–98, title I, § 103, title VIII, § 801, title IX, § 901, Dec. 22, 1981, 95 Stat. 1219, 1256, 1257; Pub. L. 97–253, title I, § 101, Sept. 8, 1982, 96 Stat. 763; Pub. L. 98–180, title I, § 102(a), Nov. 29, 1983, 97 Stat. 1128; Pub. L. 99–114, § 1, Oct. 1, 1985, 99 Stat. 488; Pub. L. 99–157, § 1, Nov. 15, 1985, 99 Stat. 818; Pub. L. 99–182, § 1, Dec. 13, 1985, 99 Stat. 1173; Pub. L. 99–198, title I, § 101(a)–(e), title VIII, § 801, title IX, § 901, title X, §§ 1008, 1041, Dec. 23, 1985, 99 Stat. 1362–1365, 1441, 1443, 1452, 1464; Pub. L. 99–260, § 10, Mar. 20, 1986, 100 Stat. 52; Pub. L. 100–45, § 15(a), May 27, 1987, 101 Stat. 325; Pub. L. 100–202, § 101(k) [title VI, § 638], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357; Pub. L. 100–203, title I, § 1104(c)–(e), Dec. 22, 1987, 101 Stat. 1330–4; Pub. L. 100–387, title I, § 102(a), Aug. 11, 1988, 102 Stat. 932; Pub. L. 101–239, title I, § 1007, Dec. 19, 1989, 103 Stat. 2110; Pub. L. 101–624, title VII, § 701(1), title IX, § 901(1), title XI, § 1161(b), title XXII, § 2236(a), Nov. 28, 1990, 104 Stat. 3457, 3478, 3520, 3961; Pub. L. 102–237, title I, § 113(8), Dec. 13, 1991, 105 Stat. 1838.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1446e of this title, referred to in subsec. (c), was repealed by Pub. L. 104–127, title I, § 141(g), Apr. 4, 1996, 110 Stat. 915.
+Section 1446e of this title, referred to in subsec. (c), was repealed by Pub. L. 104–127, title I, § 141(g), Apr. 4, 1996, 110 Stat. 915.
 
-The Agricultural Adjustment Act, as reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, referred to in subsec. (d)(2)(D), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Agricultural Adjustment Act, as reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, referred to in subsec. (d)(2)(D), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 The order issued by the President on February 1, 1986, referred to in subsec. (d)(2)(E)(i), is set out as a note under section 902 of Title 2, The Congress.
 
-Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d)(2)(E)(i), (F)(i)(I), is classified to section 902 of Title 2, The Congress, and was amended generally by Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–581. Provisions relating to Presidential orders are contained in section 904(f)(5) of Title 2.
+Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d)(2)(E)(i), (F)(i)(I), is classified to section 902 of Title 2, The Congress, and was amended generally by Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–581. Provisions relating to Presidential orders are contained in section 904(f)(5) of Title 2.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d)(2)(F)(i)(I), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d)(2)(F)(i)(I), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 **Amendments**
 
 1991—Subsecs. (b), (c). Pub. L. 102–237 redesignated subsec. (b), relating to price supports for milk, as (c).
 
-1990—Subsec. (a). Pub. L. 101–624, §§ 701(1), 901(1), 1161(b)(1), designated opening paragraph as subsec. (a) and substituted “oilseeds (including soybeans, sunflower seed, canola, rapeseed, safflower, flaxseed, mustard seed, and such other oilseeds as the Secretary may determine),” for “tung nuts,”, “honey, milk, sugar beets, and sugarcane” for “honey, and milk”, and “in accordance with this subchapter.” for “as follows:”.
+1990—Subsec. (a). Pub. L. 101–624, §§ 701(1), 901(1), 1161(b)(1), designated opening paragraph as subsec. (a) and substituted “oilseeds (including soybeans, sunflower seed, canola, rapeseed, safflower, flaxseed, mustard seed, and such other oilseeds as the Secretary may determine),” for “tung nuts,”, “honey, milk, sugar beets, and sugarcane” for “honey, and milk”, and “in accordance with this subchapter.” for “as follows:”.
 
-Subsecs. (b), (c). Pub. L. 101–624, § 1161(b)(2), (3), redesignated subsec. (c) as (b) and substituted reference to section 1446e of this title for reference to subsection (d) of this section.
+Subsecs. (b), (c). Pub. L. 101–624, § 1161(b)(2), (3), redesignated subsec. (c) as (b) and substituted reference to section 1446e of this title for reference to subsection (d) of this section.
 
-Subsec. (k)(2). Pub. L. 101–624, § 2236(a), temporarily designated existing text as subpar. (A) and added subpar. (B). See Effective and Termination Dates of 1990 Amendment note below.
+Subsec. (k)(2). Pub. L. 101–624, § 2236(a), temporarily designated existing text as subpar. (A) and added subpar. (B). See Effective and Termination Dates of 1990 Amendment note below.
 
-1989—Subsec. (d)(1)(C)(ii), (iii). Pub. L. 101–239, § 1007(1), temporarily inserted in cl. (ii) “clause (iii) and” after “Except as provided in” and added cl. (iii). See Effective and Termination Dates of 1989 Amendment note below.
+1989—Subsec. (d)(1)(C)(ii), (iii). Pub. L. 101–239, § 1007(1), temporarily inserted in cl. (ii) “clause (iii) and” after “Except as provided in” and added cl. (iii). See Effective and Termination Dates of 1989 Amendment note below.
 
-Subsec. (d)(1)(D)(i). Pub. L. 101–239, § 1007(2), temporarily substituted “calendar year 1990” for “each of the calendar years 1988 and 1990” and “may reduce by not more than” for “shall reduce by”. See Effective and Termination Dates of 1989 Amendment note below.
+Subsec. (d)(1)(D)(i). Pub. L. 101–239, § 1007(2), temporarily substituted “calendar year 1990” for “each of the calendar years 1988 and 1990” and “may reduce by not more than” for “shall reduce by”. See Effective and Termination Dates of 1989 Amendment note below.
 
 1988—Subsec. (d)(1)(D). Pub. L. 100–387 substituted “if for each of the calendar years 1988 and 1990” for “if for any of the calendar years 1988, 1989, and 1990”.
 
-1987—Pub. L. 100–45, § 15(a)(1), temporarily inserted “sunflower seeds,” after “soybeans,” in first sentence. See Effective and Termination Dates of 1987 Amendments note below.
+1987—Pub. L. 100–45, § 15(a)(1), temporarily inserted “sunflower seeds,” after “soybeans,” in first sentence. See Effective and Termination Dates of 1987 Amendments note below.
 
-Subsec. (b)(1)(D). Pub. L. 100–203, § 1104(c), temporarily added subpar. (D). See Effective and Termination Dates of 1987 Amendments note below.
+Subsec. (b)(1)(D). Pub. L. 100–203, § 1104(c), temporarily added subpar. (D). See Effective and Termination Dates of 1987 Amendments note below.
 
-Subsec. (d)(2)(A). Pub. L. 100–202, § 101(k) [title VI, § 638(1)], substituted “Beginning after March 31, 1986,” for “During the period beginning on April 1, 1986, and ending on September 30, 1987,”.
+Subsec. (d)(2)(A). Pub. L. 100–202, § 101(k) [title VI, § 638(1)], substituted “Beginning after March 31, 1986,” for “During the period beginning on April 1, 1986, and ending on September 30, 1987,”.
 
-Subsec. (d)(2)(B). Pub. L. 100–202, § 101(k) [title VI, § 638(2)], substituted “subparagraphs (E) and (F)” for “subparagraph (E)”.
+Subsec. (d)(2)(B). Pub. L. 100–202, § 101(k) [title VI, § 638(2)], substituted “subparagraphs (E) and (F)” for “subparagraph (E)”.
 
-Subsec. (d)(2)(C). Pub. L. 100–203, § 1104(d)(1), substituted “this paragraph” for “subparagraph (A)”.
+Subsec. (d)(2)(C). Pub. L. 100–203, § 1104(d)(1), substituted “this paragraph” for “subparagraph (A)”.
 
-Subsec. (d)(2)(F). Pub. L. 100–203, § 1104(d)(2), added subpar. (F) directing Secretary to provide for reduction of 2½ cents per hundredweight in price received by producers during calendar year 1988.
+Subsec. (d)(2)(F). Pub. L. 100–203, § 1104(d)(2), added subpar. (F) directing Secretary to provide for reduction of 2½ cents per hundredweight in price received by producers during calendar year 1988.
 
-Pub. L. 100–202, § 101(k) [title VI, § 638(3)], added subpar. (F) directing Secretary to provide for reduction under subpar. (A) as the sole means of achieving any reduction in budget outlays in milk price-support system under Presidential budget-cutting orders.
+Pub. L. 100–202, § 101(k) [title VI, § 638(3)], added subpar. (F) directing Secretary to provide for reduction under subpar. (A) as the sole means of achieving any reduction in budget outlays in milk price-support system under Presidential budget-cutting orders.
 
-Subsec. (j)(7). Pub. L. 100–203, § 1104(e), added par. (7).
+Subsec. (j)(7). Pub. L. 100–203, § 1104(e), added par. (7).
 
-Subsec. (*l*). Pub. L. 100–45, § 15(a)(2), temporarily added subsec. (*l*). See Effective and Termination Dates of 1987 Amendments note below.
+Subsec. (*l*). Pub. L. 100–45, § 15(a)(2), temporarily added subsec. (*l*). See Effective and Termination Dates of 1987 Amendments note below.
 
-1986—Subsec. (d)(2)(B). Pub. L. 99–260, § 10(1), substituted “Except as provided in subparagraph (E), the” for “The”.
+1986—Subsec. (d)(2)(B). Pub. L. 99–260, § 10(1), substituted “Except as provided in subparagraph (E), the” for “The”.
 
-Subsec. (d)(2)(E). Pub. L. 99–260, § 10(2), added subpar. (E).
+Subsec. (d)(2)(E). Pub. L. 99–260, § 10(2), added subpar. (E).
 
-1985—Pub. L. 99–198, §§ 801(1), 901(1), in provisions preceding subsec. (a), temporarily reenacted without change the amendments made in 1977 by sections 901(1) and 902(1) of Pub. L. 95–113 and in 1981 by sections 801(1) and 901(1) of Pub. L. 97–98, which inserted references to soybeans, sugar beets, and sugar cane. See Effective and Termination Dates of Amendments notes for 1985, 1981, and 1977, respectively, set out below.
+1985—Pub. L. 99–198, §§ 801(1), 901(1), in provisions preceding subsec. (a), temporarily reenacted without change the amendments made in 1977 by sections 901(1) and 902(1) of Pub. L. 95–113 and in 1981 by sections 801(1) and 901(1) of Pub. L. 97–98, which inserted references to soybeans, sugar beets, and sugar cane. See Effective and Termination Dates of Amendments notes for 1985, 1981, and 1977, respectively, set out below.
 
-Subsec. (b). Pub. L. 99–198, § 1041, amended subsec. (b) generally, temporarily substituting provisions for loans, purchases and other price supports for the 1986 through 1990 crops of honey, and repayment of loans under this subsection, as well as penalties for pledging adulterated or imported honey as collateral to secure such loans, for provisions for support of the price of honey through loans, purchases or other operations, without any crop year restrictions, at a level not in excess of 90 per centum nor less than 60 per centum of the parity price thereof, and struck out provisions for price support for tung nuts through the 1976 crop year. See Effective and Termination Dates of 1985 Amendments note below.
+Subsec. (b). Pub. L. 99–198, § 1041, amended subsec. (b) generally, temporarily substituting provisions for loans, purchases and other price supports for the 1986 through 1990 crops of honey, and repayment of loans under this subsection, as well as penalties for pledging adulterated or imported honey as collateral to secure such loans, for provisions for support of the price of honey through loans, purchases or other operations, without any crop year restrictions, at a level not in excess of 90 per centum nor less than 60 per centum of the parity price thereof, and struck out provisions for price support for tung nuts through the 1976 crop year. See Effective and Termination Dates of 1985 Amendments note below.
 
-Subsec. (c). Pub. L. 99–198, § 101(d), substituted “Except as provided in subsection (d) of this section, the price” for “The price”.
+Subsec. (c). Pub. L. 99–198, § 101(d), substituted “Except as provided in subsection (d) of this section, the price” for “The price”.
 
-Subsec. (d)(1). Pub. L. 99–198, § 101(a), in amending par. (1) generally, substituted provisions adjusting milk price support levels for calendar years 1986 through 1990 by gradually reducing the price support from $11.60 per hundredweight to $11.10 per hundredweight, providing for adjustments of 50 cents per hundredweight in the support level for calendar years 1988 through 1990 depending on projected sales levels for provisions setting price support levels for calendar years 1983 through 1985 by gradually reducing the price support from $13.10 per hundredweight to $12.60 per hundredweight, and providing for adjustments of 50 cents per hundredweight in the support level for twelve month periods beginning on April 1, 1985 and/or July 1, 1985, depending on projected sales levels.
+Subsec. (d)(1). Pub. L. 99–198, § 101(a), in amending par. (1) generally, substituted provisions adjusting milk price support levels for calendar years 1986 through 1990 by gradually reducing the price support from $11.60 per hundredweight to $11.10 per hundredweight, providing for adjustments of 50 cents per hundredweight in the support level for calendar years 1988 through 1990 depending on projected sales levels for provisions setting price support levels for calendar years 1983 through 1985 by gradually reducing the price support from $13.10 per hundredweight to $12.60 per hundredweight, and providing for adjustments of 50 cents per hundredweight in the support level for twelve month periods beginning on April 1, 1985 and/or July 1, 1985, depending on projected sales levels.
 
 Subsec. (d)(1)(B). Pub. L. 99–182 substituted “December 31, 1985” for “December 13, 1985”.
 
@@ -4459,73 +4459,73 @@ Pub. L. 99–157 substituted “December 13, 1985” for “November 15, 1985”
 
 Pub. L. 99–114 substituted “November 15, 1985” for “September 30, 1985”.
 
-Subsec. (d)(2). Pub. L. 99–198, § 101(a), in amending par. (2) generally, substituted provisions for a reduction in the price received by producers for all milk produced in the United States and marketed for commercial use in an amount of 40 cents per hundredweight for the period between Apr. 1, 1986, and Dec. 31, 1986, and 25 cents per hundredweight during the first 9 months of 1987 for provisions for a reduction of 50 cents per hundredweight in such price effective for the period beginning with the first day of the first calendar month following Nov. 29, 1983, and ending on Mar. 31, 1985, and struck out provisions relating to the continued applicability of pars. (2) to (7) of this subsection between Nov. 29, 1983, and the last day of November, 1983, and the inapplicability of sections 4501 to 4513 of this title to prior deductions or collections under this subsection, and provisions that to the extent that funds collected under this paragraph were inadequate to make payments to producers under par. (3), such payments had to be made using otherwise available funds.
+Subsec. (d)(2). Pub. L. 99–198, § 101(a), in amending par. (2) generally, substituted provisions for a reduction in the price received by producers for all milk produced in the United States and marketed for commercial use in an amount of 40 cents per hundredweight for the period between Apr. 1, 1986, and Dec. 31, 1986, and 25 cents per hundredweight during the first 9 months of 1987 for provisions for a reduction of 50 cents per hundredweight in such price effective for the period beginning with the first day of the first calendar month following Nov. 29, 1983, and ending on Mar. 31, 1985, and struck out provisions relating to the continued applicability of pars. (2) to (7) of this subsection between Nov. 29, 1983, and the last day of November, 1983, and the inapplicability of sections 4501 to 4513 of this title to prior deductions or collections under this subsection, and provisions that to the extent that funds collected under this paragraph were inadequate to make payments to producers under par. (3), such payments had to be made using otherwise available funds.
 
-Subsec. (d)(3)(A). Pub. L. 99–198, § 101(b)(1), in amending subpar. (A) generally, substituted provisions for a milk production termination program for the 18-month period beginning Apr. 1, 1986, for provisions for a milk diversion program under which Secretary had to offer to enter into a contract, at any time up to Feb. 1, 1984, with any producer of milk in the United States to reduce the quantity of commercially marketed milk during the 15-month period beginning Jan. 1, 1984.
+Subsec. (d)(3)(A). Pub. L. 99–198, § 101(b)(1), in amending subpar. (A) generally, substituted provisions for a milk production termination program for the 18-month period beginning Apr. 1, 1986, for provisions for a milk diversion program under which Secretary had to offer to enter into a contract, at any time up to Feb. 1, 1984, with any producer of milk in the United States to reduce the quantity of commercially marketed milk during the 15-month period beginning Jan. 1, 1984.
 
-Subsec. (d)(3)(B). Pub. L. 99–198, § 101(b)(1), in amending subpar. (B) generally, substituted provisions authorizing Secretary to establish and carry out a milk diversion or milk production termination program for any of the calendar years 1988, 1989 and 1990 for provisions which had enumerated the requirements for contracts between Secretary and any domestic producer of milk to reduce the quantity of commercially marketed milk during the 15-month period beginning Jan. 1, 1984.
+Subsec. (d)(3)(B). Pub. L. 99–198, § 101(b)(1), in amending subpar. (B) generally, substituted provisions authorizing Secretary to establish and carry out a milk diversion or milk production termination program for any of the calendar years 1988, 1989 and 1990 for provisions which had enumerated the requirements for contracts between Secretary and any domestic producer of milk to reduce the quantity of commercially marketed milk during the 15-month period beginning Jan. 1, 1984.
 
-Subsec. (d)(3)(C). Pub. L. 99–198, § 101(b)(1), in amending subpar. (C) generally, substituted provisions requiring Secretary to take into account any adverse effect of any milk diversion or milk production program or contracts on beef, pork and poultry producers in the United States and to take all feasible steps to minimize such effect for provisions requiring Secretary to pay to producers complying with such contracts an amount equal to the product of $10 per hundredweight and the amount, measured in hundredweights, by which the quantity of milk marketed by such producer for commercial use during the period specified in such contract was less than the quantity of milk marketed by such producer for commercial use during the marketing history period.
+Subsec. (d)(3)(C). Pub. L. 99–198, § 101(b)(1), in amending subpar. (C) generally, substituted provisions requiring Secretary to take into account any adverse effect of any milk diversion or milk production program or contracts on beef, pork and poultry producers in the United States and to take all feasible steps to minimize such effect for provisions requiring Secretary to pay to producers complying with such contracts an amount equal to the product of $10 per hundredweight and the amount, measured in hundredweights, by which the quantity of milk marketed by such producer for commercial use during the period specified in such contract was less than the quantity of milk marketed by such producer for commercial use during the marketing history period.
 
-Subsec. (d)(3)(D). Pub. L. 99–198, § 101(b)(1), in amending subpar. (D) generally, substituted provisions establishing eligibility of producers who have acquired their entire milk production facility and dairy herd by gift or inheritance from family member or members for provisions prohibiting payments to producers with respect to whom any reduction in the quantity of milk did not meet specified percentage guidelines.
+Subsec. (d)(3)(D). Pub. L. 99–198, § 101(b)(1), in amending subpar. (D) generally, substituted provisions establishing eligibility of producers who have acquired their entire milk production facility and dairy herd by gift or inheritance from family member or members for provisions prohibiting payments to producers with respect to whom any reduction in the quantity of milk did not meet specified percentage guidelines.
 
-Subsec. (d)(3)(E). Pub. L. 99–198, § 101(b)(1), (3), struck out subpar. (E) which specified conditions under which Secretary could modify contracts entered into under this paragraph, and redesignated subpar. (K) as (E).
+Subsec. (d)(3)(E). Pub. L. 99–198, § 101(b)(1), (3), struck out subpar. (E) which specified conditions under which Secretary could modify contracts entered into under this paragraph, and redesignated subpar. (K) as (E).
 
-Subsec. (d)(3)(F). Pub. L. 99–198, § 101(b)(1), struck out subpar. (F) which required domestic producers of milk seeking to enter into contracts for diversion payments to provide Secretary with evidence of such producer’s marketing history, as defined by this subparagraph, which Secretary could adjust to take into account natural disasters or other conditions and factors where necessary.
+Subsec. (d)(3)(F). Pub. L. 99–198, § 101(b)(1), struck out subpar. (F) which required domestic producers of milk seeking to enter into contracts for diversion payments to provide Secretary with evidence of such producer’s marketing history, as defined by this subparagraph, which Secretary could adjust to take into account natural disasters or other conditions and factors where necessary.
 
-Subsec. (d)(3)(G). Pub. L. 99–198, § 101(b)(1), struck out subpar. (G) which provided that no marketing history could be assigned to any producer who commenced marketing milk after Dec. 31, 1982, except as provided in subpar. (H).
+Subsec. (d)(3)(G). Pub. L. 99–198, § 101(b)(1), struck out subpar. (G) which provided that no marketing history could be assigned to any producer who commenced marketing milk after Dec. 31, 1982, except as provided in subpar. (H).
 
-Subsec. (d)(3)(H). Pub. L. 99–198, § 101(b)(2), struck out subpar. (H) which provided that a producer’s marketing history could not be transferred to another person unless the producer’s entire milk production facility and dairy herd were transferred by reason of the death of the producer, a gift by the producer, or to a member or members of the family of the producer.
+Subsec. (d)(3)(H). Pub. L. 99–198, § 101(b)(2), struck out subpar. (H) which provided that a producer’s marketing history could not be transferred to another person unless the producer’s entire milk production facility and dairy herd were transferred by reason of the death of the producer, a gift by the producer, or to a member or members of the family of the producer.
 
-Subsec. (d)(3)(I). Pub. L. 99–198, § 101(b)(2), struck out subpar. (I) which provided that eligibility for diversion payments would be determined on the basis of the marketing history provided for under subpar. (F).
+Subsec. (d)(3)(I). Pub. L. 99–198, § 101(b)(2), struck out subpar. (I) which provided that eligibility for diversion payments would be determined on the basis of the marketing history provided for under subpar. (F).
 
-Subsec. (d)(3)(J). Pub. L. 99–198, § 101(b)(2), struck out subpar. (J) which provided for quarterly diversion payments to eligible producers who were able to demonstrate compliance with terms of contract with Secretary for reduction in commercial marketing of milk.
+Subsec. (d)(3)(J). Pub. L. 99–198, § 101(b)(2), struck out subpar. (J) which provided for quarterly diversion payments to eligible producers who were able to demonstrate compliance with terms of contract with Secretary for reduction in commercial marketing of milk.
 
-Subsec. (d)(3)(K). Pub. L. 99–198, § 101(b)(3), redesignated subpar. (K) as (E).
+Subsec. (d)(3)(K). Pub. L. 99–198, § 101(b)(3), redesignated subpar. (K) as (E).
 
-Subsec. (d)(3)(L). Pub. L. 99–198, § 101(b)(2), struck out subpar. (L) which provided conditions under which a producer could assign a contract entered into under this paragraph.
+Subsec. (d)(3)(L). Pub. L. 99–198, § 101(b)(2), struck out subpar. (L) which provided conditions under which a producer could assign a contract entered into under this paragraph.
 
-Subsec. (d)(3)(O). Pub. L. 99–198, § 101(b)(2), struck out subpar. (O) which authorized Secretary to adjust the producer’s diversion payments to reflect the composition of milk marketed during the marketing history period, in the event of substantial deviation in the composition of milk marketed after that period.
+Subsec. (d)(3)(O). Pub. L. 99–198, § 101(b)(2), struck out subpar. (O) which authorized Secretary to adjust the producer’s diversion payments to reflect the composition of milk marketed during the marketing history period, in the event of substantial deviation in the composition of milk marketed after that period.
 
-Subsec. (d)(5)(B)(i). Pub. L. 99–198, § 101(c), designated existing provisions as cl. (i), struck out “(i)” after “Each person”, substituted “or who fails to remit” for “, (ii) who fails to remit”, struck out “, or (iii) who fails to make the reduction in marketings required by a contract under paragraph (3)” before “shall be liable”, and added cls. (ii) to (v).
+Subsec. (d)(5)(B)(i). Pub. L. 99–198, § 101(c), designated existing provisions as cl. (i), struck out “(i)” after “Each person”, substituted “or who fails to remit” for “, (ii) who fails to remit”, struck out “, or (iii) who fails to make the reduction in marketings required by a contract under paragraph (3)” before “shall be liable”, and added cls. (ii) to (v).
 
-Subsec. (d)(7). Pub. L. 99–198, § 101(e), added par. (7).
+Subsec. (d)(7). Pub. L. 99–198, § 101(e), added par. (7).
 
-Subsecs. (i) to (k). Pub. L. 99–198, §§ 801(2), 901(2), 1008, temporarily added subsecs. (i) to (k). See Effective and Termination Dates of 1985 Amendment note below.
+Subsecs. (i) to (k). Pub. L. 99–198, §§ 801(2), 901(2), 1008, temporarily added subsecs. (i) to (k). See Effective and Termination Dates of 1985 Amendment note below.
 
 1983—Subsec. (d). Pub. L. 98–180 amended subsec. (d) generally, substituting provision designed to adjust milk production to levels consistent with the national demand for milk and milk products by reducing the price support to $12.60 per hundredweight, with provision for further increase or decrease depending on volume, providing a 50 cents reduction per hundredweight in the price on all milk produced in the United States and marketed by producers for commercial use, and establishing a milk diversion program to reduce milk production for provision which kept the price support at $13.10 per hundredweight and authorized Secretary to collect $1.00 from farmers for every hundredweight of production sold, with the first 50 cents, payable beginning Oct. 1, 1982, to be nonrefundable, and the second 50 cents, payable beginning Apr. 1, 1983, refundable if the farmer could demonstrate reduced commercial marketings from such marketings during a defined base period.
 
-1982—Subsec. (c). Pub. L. 97–253, § 101(1), struck out provision specifying milk price supports for the period beginning Dec. 22, 1981, and ending Sept. 30, 1982, and for fiscal years ending Sept. 30, 1983, 1984, and 1985, with authority for Secretary to set milk price supports if he estimated that for such a fiscal year the net cost of Government price support purchases would be less than $1,000,000,000 for that fiscal year or if he estimated that the net Government price support purchases would be less than a specified poundage per fiscal year.
+1982—Subsec. (c). Pub. L. 97–253, § 101(1), struck out provision specifying milk price supports for the period beginning Dec. 22, 1981, and ending Sept. 30, 1982, and for fiscal years ending Sept. 30, 1983, 1984, and 1985, with authority for Secretary to set milk price supports if he estimated that for such a fiscal year the net cost of Government price support purchases would be less than $1,000,000,000 for that fiscal year or if he estimated that the net Government price support purchases would be less than a specified poundage per fiscal year.
 
-Subsec. (d). Pub. L. 97–253, § 101(2), added subsec. (d).
+Subsec. (d). Pub. L. 97–253, § 101(2), added subsec. (d).
 
-1981—Pub. L. 97–98, §§ 801(1), 901(1), temporarily inserted reference in provision preceding subsec. (a) to soybeans, sugar beets, and sugarcane. See Effective and Termination Dates of 1981 Amendment note below.
+1981—Pub. L. 97–98, §§ 801(1), 901(1), temporarily inserted reference in provision preceding subsec. (a) to soybeans, sugar beets, and sugarcane. See Effective and Termination Dates of 1981 Amendment note below.
 
-Subsec. (c). Pub. L. 97–98, § 103(1), substituted provision specifying milk price supports for the period beginning Dec. 22, 1981, and ending Sept. 30, 1982, and for fiscal years ending Sept. 30, 1983, 1984, and 1985, with authority for Secretary to set milk price supports if he estimates that for such a fiscal year the net cost of Government price support purchases will be less than $1,000,000,000 for that fiscal year or if he estimates that the net Government price support purchases will be less than a specified poundage per fiscal year for provision specifying the procedure and setting a schedule to be used to determine milk price supports for the period beginning Oct. 1, 1981, and ending Sept. 30, 1985.
+Subsec. (c). Pub. L. 97–98, § 103(1), substituted provision specifying milk price supports for the period beginning Dec. 22, 1981, and ending Sept. 30, 1982, and for fiscal years ending Sept. 30, 1983, 1984, and 1985, with authority for Secretary to set milk price supports if he estimates that for such a fiscal year the net cost of Government price support purchases will be less than $1,000,000,000 for that fiscal year or if he estimates that the net Government price support purchases will be less than a specified poundage per fiscal year for provision specifying the procedure and setting a schedule to be used to determine milk price supports for the period beginning Oct. 1, 1981, and ending Sept. 30, 1985.
 
-Pub. L. 97–35, § 150(1), substituted provisions setting forth price support levels for the period beginning Oct. 1, 1981, and ending Sept. 30, 1985, for provisions setting forth price support levels for the period beginning Oct. 1, 1977, and ending Sept. 30, 1981.
+Pub. L. 97–35, § 150(1), substituted provisions setting forth price support levels for the period beginning Oct. 1, 1981, and ending Sept. 30, 1985, for provisions setting forth price support levels for the period beginning Oct. 1, 1977, and ending Sept. 30, 1981.
 
-Subsec. (d). Pub. L. 97–98, § 103(2), struck out subsec. (d) which provided that, effective for the period beginning Oct. 1, 1982, and ending Sept. 30, 1985, the support price of milk be adjusted by the Secretary at the beginning of each semiannual period to reflect the estimated change in the parity index during such semiannual period.
+Subsec. (d). Pub. L. 97–98, § 103(2), struck out subsec. (d) which provided that, effective for the period beginning Oct. 1, 1982, and ending Sept. 30, 1985, the support price of milk be adjusted by the Secretary at the beginning of each semiannual period to reflect the estimated change in the parity index during such semiannual period.
 
-Pub. L. 97–35, § 150(2), added subsec. (d).
+Pub. L. 97–35, § 150(2), added subsec. (d).
 
 Pub. L. 97–6 struck out subsec. (d) which required that, for the period Oct. 1, 1977, to Sept. 30, 1981, the support price of milk be adjusted semiannually.
 
-Subsecs. (g), (h). Pub. L. 97–98, §§ 801(2), 901(2), temporarily added subsecs. (g) and (h). See Effective and Termination Dates of 1981 Amendments note below.
+Subsecs. (g), (h). Pub. L. 97–98, §§ 801(2), 901(2), temporarily added subsecs. (g) and (h). See Effective and Termination Dates of 1981 Amendments note below.
 
 1980—Subsec. (e). Pub. L. 96–494 inserted proviso that 1981 crop of soybeans shall be supported through loans and purchases at not less than $5.02 per bushel.
 
-1979—Subsec. (c). Pub. L. 96–127, § 1(a), substituted Sept. 30, 1981, for Mar. 31, 1979.
+1979—Subsec. (c). Pub. L. 96–127, § 1(a), substituted Sept. 30, 1981, for Mar. 31, 1979.
 
-Subsec. (d). Pub. L. 96–127, § 1(b), substituted Sept. 30, 1981, for Mar. 31, 1981.
+Subsec. (d). Pub. L. 96–127, § 1(b), substituted Sept. 30, 1981, for Mar. 31, 1981.
 
-1977—Pub. L. 95–113, §§ 901(1), 902(1), temporarily inserted references to soybeans, sugar beets, and sugar cane in provisions preceding subsec. (a). See Effective and Termination Dates of 1977 Amendment note below.
+1977—Pub. L. 95–113, §§ 901(1), 902(1), temporarily inserted references to soybeans, sugar beets, and sugar cane in provisions preceding subsec. (a). See Effective and Termination Dates of 1977 Amendment note below.
 
-Subsec. (c). Pub. L. 95–113, § 203(1), substituted the period Oct. 1, 1977, through Mar. 31, 1979, for the period Aug. 10, 1973, through Mar. 31, 1975, as the period during which the price of milk shall be supported at not less than 80 per centum of parity.
+Subsec. (c). Pub. L. 95–113, § 203(1), substituted the period Oct. 1, 1977, through Mar. 31, 1979, for the period Aug. 10, 1973, through Mar. 31, 1975, as the period during which the price of milk shall be supported at not less than 80 per centum of parity.
 
-Subsec. (d). Pub. L. 95–113, § 203(2), added subsec. (d).
+Subsec. (d). Pub. L. 95–113, § 203(2), added subsec. (d).
 
-Subsecs. (e), (f). Pub. L. 95–113, §§ 901(2), 902(2), temporarily added subsecs. (e) and (f). See Effective and Termination Dates of 1977 Amendment note below.
+Subsecs. (e), (f). Pub. L. 95–113, §§ 901(2), 902(2), temporarily added subsecs. (e) and (f). See Effective and Termination Dates of 1977 Amendment note below.
 
 1973—Subsec. (b). Pub. L. 93–225 limited tung nuts price support level provisions to tung nuts through the 1976 crop year. Prior provisions were applicable to tung nuts without any crop year restriction.
 
@@ -4541,13 +4541,13 @@ Subsec. (c). Pub. L. 93–86 inserted “of pure and wholesome milk to meet curr
 
 Act Apr. 2, 1956 increased amount authorized for fiscal year 1956 from $50,000,000 to $60,000,000, to authorize $75,000,000 for each of fiscal years 1957 and 1958, and permitted certain institutions devoted to care and training of underprivileged children on a public welfare or charitable basis to share in the program.
 
-1954—Act Aug. 28, 1954, §§ 203(a), 709, removed Irish potatoes and wool (including mohair) from price support list in provisions preceding subsec. (a).
+1954—Act Aug. 28, 1954, §§ 203(a), 709, removed Irish potatoes and wool (including mohair) from price support list in provisions preceding subsec. (a).
 
-Subsec. (a). Act Aug. 28, 1954, § 709, struck out subsec. (a) relating to support of wool and mohair.
+Subsec. (a). Act Aug. 28, 1954, § 709, struck out subsec. (a) relating to support of wool and mohair.
 
-Subsec. (b). Act Aug. 28, 1954, § 203(a), struck out reference to Irish potatoes.
+Subsec. (b). Act Aug. 28, 1954, § 203(a), struck out reference to Irish potatoes.
 
-Subsec. (c). Act Aug. 28, 1954, § 204(b), provided for disposal of surplus dairy stocks owned by CCC.
+Subsec. (c). Act Aug. 28, 1954, § 204(b), provided for disposal of surplus dairy stocks owned by CCC.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4555,47 +4555,47 @@ Subsec. (c). Act Aug. 28, 1954, § 204(b), provided for disposal of surplus da
 
 Amendment by sections 701(1), 901(1), and 1161(b) of Pub. L. 101–624 effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
 
-Pub. L. 101–624, title XXII, § 2236(a), Nov. 28, 1990, 104 Stat. 3961, provided that the amendment made by section 2236(a) is effective only for the 1990 crop of sugarcane.
+Pub. L. 101–624, title XXII, § 2236(a), Nov. 28, 1990, 104 Stat. 3961, provided that the amendment made by section 2236(a) is effective only for the 1990 crop of sugarcane.
 
 **Effective and Termination Dates of 1989 Amendment**
 
-Pub. L. 101–239, title I, § 1007, Dec. 19, 1989, 103 Stat. 2110, provided that the amendment made by section 1007 is effective only for calendar year 1990.
+Pub. L. 101–239, title I, § 1007, Dec. 19, 1989, 103 Stat. 2110, provided that the amendment made by section 1007 is effective only for calendar year 1990.
 
 **Effective and Termination Dates of 1987 Amendments**
 
-Pub. L. 100–203, title I, § 1104(c), Dec. 22, 1987, 101 Stat. 1330–4, provided that the amendment made by section 1104(c) is effective only for the 1987 through 1990 crops of honey.
+Pub. L. 100–203, title I, § 1104(c), Dec. 22, 1987, 101 Stat. 1330–4, provided that the amendment made by section 1104(c) is effective only for the 1987 through 1990 crops of honey.
 
-Pub. L. 100–45, § 15(a), May 27, 1987, 101 Stat. 325, provided that the amendment made by section 15(a) is effective for the 1987 through 1990 crops of sunflowers.
+Pub. L. 100–45, § 15(a), May 27, 1987, 101 Stat. 325, provided that the amendment made by section 15(a) is effective for the 1987 through 1990 crops of sunflowers.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–260, § 10, Mar. 20, 1986, 100 Stat. 52, provided that the amendment made by section 10 is effective Mar. 1, 1986.
+Pub. L. 99–260, § 10, Mar. 20, 1986, 100 Stat. 52, provided that the amendment made by section 10 is effective Mar. 1, 1986.
 
 **Effective and Termination Dates of 1985 Amendment**
 
-Pub. L. 99–198, title I, § 101(f), Dec. 23, 1985, 99 Stat. 1366, provided that: “The provisions of this section [amending this section] shall become effective January 1, 1986.”
+Pub. L. 99–198, title I, § 101(f), Dec. 23, 1985, 99 Stat. 1366, provided that: “The provisions of this section [amending this section] shall become effective January 1, 1986.”
 
-Pub. L. 99–198, title VIII, § 801, Dec. 23, 1985, 99 Stat. 1441, provided that the amendment made by section 801 is effective only for the 1986 through 1990 crops of soybeans.
+Pub. L. 99–198, title VIII, § 801, Dec. 23, 1985, 99 Stat. 1441, provided that the amendment made by section 801 is effective only for the 1986 through 1990 crops of soybeans.
 
-Pub. L. 99–198, title IX, § 901, Dec. 23, 1985, 99 Stat. 1443, provided that the amendment made by section 901 is effective only for the 1986 through 1990 crops of sugar beets and sugarcane.
+Pub. L. 99–198, title IX, § 901, Dec. 23, 1985, 99 Stat. 1443, provided that the amendment made by section 901 is effective only for the 1986 through 1990 crops of sugar beets and sugarcane.
 
-Pub. L. 99–198, title X, § 1008, Dec. 23, 1985, 99 Stat. 1452, provided that the amendment made by section 1008 is effective only for the 1985 through 1990 crops of peanuts, soybeans, sugar beets, and sugarcane.
+Pub. L. 99–198, title X, § 1008, Dec. 23, 1985, 99 Stat. 1452, provided that the amendment made by section 1008 is effective only for the 1985 through 1990 crops of peanuts, soybeans, sugar beets, and sugarcane.
 
-Pub. L. 99–198, title X, § 1041, Dec. 23, 1985, 99 Stat. 1464, provided that the amendment made by section 1041 is effective only for the 1986 through 1990 crops of honey.
+Pub. L. 99–198, title X, § 1041, Dec. 23, 1985, 99 Stat. 1464, provided that the amendment made by section 1041 is effective only for the 1986 through 1990 crops of honey.
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–253, title I, § 101(1), Sept. 8, 1982, 96 Stat. 763, provided that the amendment made by section 101(1) is effective Oct. 1, 1982.
+Pub. L. 97–253, title I, § 101(1), Sept. 8, 1982, 96 Stat. 763, provided that the amendment made by section 101(1) is effective Oct. 1, 1982.
 
 **Effective and Termination Dates of 1981 Amendments**
 
-Pub. L. 97–98, title VIII, § 801, Dec. 22, 1981, 95 Stat. 1256, provided that the amendment made by section 801 is effective only for the 1982 through 1985 crop of soybeans.
+Pub. L. 97–98, title VIII, § 801, Dec. 22, 1981, 95 Stat. 1256, provided that the amendment made by section 801 is effective only for the 1982 through 1985 crop of soybeans.
 
-Pub. L. 97–98, title IX, § 901, Dec. 22, 1981, 95 Stat. 1257, provided that the amendment made by section 901 is effective only for the 1982 through 1985 crop of sugar beets and sugarcane.
+Pub. L. 97–98, title IX, § 901, Dec. 22, 1981, 95 Stat. 1257, provided that the amendment made by section 901 is effective only for the 1982 through 1985 crop of sugar beets and sugarcane.
 
 Amendment by section 103 of Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
-Pub. L. 97–35, title I, § 150, Aug. 13, 1981, 95 Stat. 369, provided that the amendment made by section 150 is effective Oct. 1, 1981.
+Pub. L. 97–35, title I, § 150, Aug. 13, 1981, 95 Stat. 369, provided that the amendment made by section 150 is effective Oct. 1, 1981.
 
 **Effective Date of 1980 Amendment**
 
@@ -4603,23 +4603,23 @@ Amendment by Pub. L. 96–494 effective Dec. 3, 1980, see section 213 of Pub. L.
 
 **Effective and Termination Dates of 1977 Amendment**
 
-Pub. L. 95–113, title IX, § 901, Sept. 29, 1977, 91 Stat. 949, provided that the amendment made by section 901 is effective only with respect to the 1978 through 1981 crops of soybeans.
+Pub. L. 95–113, title IX, § 901, Sept. 29, 1977, 91 Stat. 949, provided that the amendment made by section 901 is effective only with respect to the 1978 through 1981 crops of soybeans.
 
-Pub. L. 95–113, title IX, § 902, Sept. 29, 1977, 91 Stat. 949, provided that the amendment made by section 902 is effective only with respect to the 1977 and 1978 crops of sugar beets and sugar cane.
+Pub. L. 95–113, title IX, § 902, Sept. 29, 1977, 91 Stat. 949, provided that the amendment made by section 902 is effective only with respect to the 1977 and 1978 crops of sugar beets and sugar cane.
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, except as otherwise specifically provided, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–86, § 1(3)(B), Aug. 10, 1973, 87 Stat. 222, provided that the amendment made by section 1(3)(B) is effective Apr. 1, 1974.
+Pub. L. 93–86, § 1(3)(B), Aug. 10, 1973, 87 Stat. 222, provided that the amendment made by section 1(3)(B) is effective Apr. 1, 1974.
 
 **Effective and Termination Dates of 1970 Amendment**
 
-Pub. L. 91–524, title II, § 202, Nov. 30, 1970, 84 Stat. 1361, in introductory provisions, provided that the amendment made by section 202 is effective only with respect to the period beginning Apr. 1, 1971, and ending Mar. 31, 1974. Pub. L. 93–86, § 1(3)(A), Aug. 10, 1973, 87 Stat. 222, struck out such introductory provisions.
+Pub. L. 91–524, title II, § 202, Nov. 30, 1970, 84 Stat. 1361, in introductory provisions, provided that the amendment made by section 202 is effective only with respect to the period beginning Apr. 1, 1971, and ending Mar. 31, 1974. Pub. L. 93–86, § 1(3)(A), Aug. 10, 1973, 87 Stat. 222, struck out such introductory provisions.
 
 **Effective Date of 1954 Amendment**
 
-Act Aug. 28, 1954, ch. 1041, title VII, § 709, 68 Stat. 912, which provided that the amendment made by section 709 was effective Apr. 1, 1955, was repealed by Pub. L. 103–130, § 3(a), Nov. 1, 1993, 107 Stat. 1369, eff. Dec. 31, 1995.
+Act Aug. 28, 1954, ch. 1041, title VII, § 709, 68 Stat. 912, which provided that the amendment made by section 709 was effective Apr. 1, 1955, was repealed by Pub. L. 103–130, § 3(a), Nov. 1, 1993, 107 Stat. 1369, eff. Dec. 31, 1995.
 
 **Inapplicability of Section**
 
@@ -4633,81 +4633,81 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **Application of 1990 Amendments**
 
-Pub. L. 101–624, title I, § 107, Nov. 28, 1990, 104 Stat. 3380, provided that: “The amendments made by this title [enacting section 1446e of this title, amending sections 608c, 1446a, and 4553 of this title and section 713a–14 of Title 15, Commerce and Trade, and amending provisions set out as notes under sections 608c and 1731 of this title] shall not affect any liability of any person under section 201 of the Agricultural Act of 1949 (7 U.S.C. 1446) as in effect before the date of the enactment of this Act [Nov. 28, 1990].”
+Pub. L. 101–624, title I, § 107, Nov. 28, 1990, 104 Stat. 3380, provided that: “The amendments made by this title [enacting section 1446e of this title, amending sections 608c, 1446a, and 4553 of this title and section 713a–14 of Title 15, Commerce and Trade, and amending provisions set out as notes under sections 608c and 1731 of this title] shall not affect any liability of any person under section 201 of the Agricultural Act of 1949 (7 U.S.C. 1446) as in effect before the date of the enactment of this Act [Nov. 28, 1990].”
 
 **Modification of Milk Production Termination Program**
 
-Pub. L. 102–237, title I, § 128, Dec. 13, 1991, 105 Stat. 1846, provided that if, with respect to any natural disaster occurring during period beginning on Oct. 1, 1990, and ending on Feb. 1, 1991, the Secretary of Agriculture determines that natural disaster renders unusable land or milk production facilities of producers on a farm, the Secretary shall allow the producers to transfer the production unit (including dairy animals and equipment) to farm idled under milk production termination program established under subsec. (d)(3) of this section, without penalty, if the producers on the farm agree to comply with all terms and conditions of program contract for remainder of contract period.
+Pub. L. 102–237, title I, § 128, Dec. 13, 1991, 105 Stat. 1846, provided that if, with respect to any natural disaster occurring during period beginning on Oct. 1, 1990, and ending on Feb. 1, 1991, the Secretary of Agriculture determines that natural disaster renders unusable land or milk production facilities of producers on a farm, the Secretary shall allow the producers to transfer the production unit (including dairy animals and equipment) to farm idled under milk production termination program established under subsec. (d)(3) of this section, without penalty, if the producers on the farm agree to comply with all terms and conditions of program contract for remainder of contract period.
 
 **Triggered Marketing Loans and Export Enhancement**
 
-Pub. L. 100–418, title IV, § 4301, Aug. 23, 1988, 102 Stat. 1395, directed President, if, before Jan. 1, 1990, law had not been enacted in accordance with 19 U.S.C. 2191 implementing agreement negotiated under Uruguay round of multilateral trade negotiations conducted under General Agreement on Tariffs and Trade concerning agricultural trade, to submit, not later than 45 days after such date, report to Congress describing status of GATT negotiations concerning agricultural trade, and to certify to Congress whether significant progress had been made in negotiations, and provided authority for a marketing loan program if President did not so certify, and authority for an export enhancement program, if President waived or discontinued marketing loan program, prior to repeal by Pub. L. 104–127, title II, § 263(b), (c), Apr. 4, 1996, 110 Stat. 974, effective beginning with 1996 crops of wheat, feed grains, upland cotton, and rice.
+Pub. L. 100–418, title IV, § 4301, Aug. 23, 1988, 102 Stat. 1395, directed President, if, before Jan. 1, 1990, law had not been enacted in accordance with 19 U.S.C. 2191 implementing agreement negotiated under Uruguay round of multilateral trade negotiations conducted under General Agreement on Tariffs and Trade concerning agricultural trade, to submit, not later than 45 days after such date, report to Congress describing status of GATT negotiations concerning agricultural trade, and to certify to Congress whether significant progress had been made in negotiations, and provided authority for a marketing loan program if President did not so certify, and authority for an export enhancement program, if President waived or discontinued marketing loan program, prior to repeal by Pub. L. 104–127, title II, § 263(b), (c), Apr. 4, 1996, 110 Stat. 974, effective beginning with 1996 crops of wheat, feed grains, upland cotton, and rice.
 
 **Price Support Programs for Sunflower Seeds and Cottonseed**
 
-Pub. L. 100–418, title IV, § 4302, Aug. 23, 1988, 102 Stat. 1397, directed Secretary to support price of 1990 crop of sunflower seeds and cottonseed if producers were permitted to repay loans for 1990 crop of soybeans under subsec. (i) of this section at level that was less than full amount of loan pursuant to section 4301 of Pub. L. 100–418 (formerly set out as a note above), and provided that, if marketing loan program for 1990 crop of soybeans was discontinued under section 4301(b)(3) of Pub. L. 100–418, Secretary was to discontinue such price support programs for sunflower seeds and cottonseed.
+Pub. L. 100–418, title IV, § 4302, Aug. 23, 1988, 102 Stat. 1397, directed Secretary to support price of 1990 crop of sunflower seeds and cottonseed if producers were permitted to repay loans for 1990 crop of soybeans under subsec. (i) of this section at level that was less than full amount of loan pursuant to section 4301 of Pub. L. 100–418 (formerly set out as a note above), and provided that, if marketing loan program for 1990 crop of soybeans was discontinued under section 4301(b)(3) of Pub. L. 100–418, Secretary was to discontinue such price support programs for sunflower seeds and cottonseed.
 
 **Temporary Increase in Price Support for Milk; Implementation**
 
-Pub. L. 101–7, § 1, Mar. 29, 1989, 103 Stat. 9, provided for allocation of price support increases and decreases between non-fat dry milk and butter with respect to purchases of butter and non-fat dry milk made under subsec. (d) of this section, in carrying out temporary $0.50 per hundredweight increase in rate of price support for milk provided for in section 102(b) of Pub. L. 100–387 (formerly set out below) and in implementing $0.50 per hundredweight decrease in rate of price support for milk scheduled to occur on July 1, 1989, as provided in such section 102(b).
+Pub. L. 101–7, § 1, Mar. 29, 1989, 103 Stat. 9, provided for allocation of price support increases and decreases between non-fat dry milk and butter with respect to purchases of butter and non-fat dry milk made under subsec. (d) of this section, in carrying out temporary $0.50 per hundredweight increase in rate of price support for milk provided for in section 102(b) of Pub. L. 100–387 (formerly set out below) and in implementing $0.50 per hundredweight decrease in rate of price support for milk scheduled to occur on July 1, 1989, as provided in such section 102(b).
 
-Pub. L. 100–387, title I, § 102(b), Aug. 11, 1988, 102 Stat. 932, provided that notwithstanding subsec. (d)(1) of this section, the rate of price support for milk in effect under such subsec. immediately before Apr. 1, 1989, shall be increased by 50 cents throughout the period beginning on Apr. 1, 1989, and ending on June 30, 1989.
+Pub. L. 100–387, title I, § 102(b), Aug. 11, 1988, 102 Stat. 932, provided that notwithstanding subsec. (d)(1) of this section, the rate of price support for milk in effect under such subsec. immediately before Apr. 1, 1989, shall be increased by 50 cents throughout the period beginning on Apr. 1, 1989, and ending on June 30, 1989.
 
 **Report to Committees of Congress**
 
-Pub. L. 100–387, title III, § 301(a)(2), Aug. 11, 1988, 102 Stat. 946, directed Secretary of Agriculture, not earlier than Feb. 1, 1989, and not later than Mar. 1, 1989, with respect to 1989 crop of soybeans, and not later than Sept. 1, 1989, with respect to 1990 crop of soybeans, to submit to Congress statement setting forth reasons for implementing or not implementing soybean marketing loan program authorized under subsec. (i)(3) of this section.
+Pub. L. 100–387, title III, § 301(a)(2), Aug. 11, 1988, 102 Stat. 946, directed Secretary of Agriculture, not earlier than Feb. 1, 1989, and not later than Mar. 1, 1989, with respect to 1989 crop of soybeans, and not later than Sept. 1, 1989, with respect to 1990 crop of soybeans, to submit to Congress statement setting forth reasons for implementing or not implementing soybean marketing loan program authorized under subsec. (i)(3) of this section.
 
 **Sense of Congress**
 
-Pub. L. 100–45, § 15(b), May 27, 1987, 101 Stat. 326, stated sense of Congress that, if producers were permitted to repay loans for a crop of soybeans under subsec. (i) of this section at a level that is less than the full amount of the loan, the Secretary should make loans and purchases available for such crop of sunflowers in accordance with subsec. (*l*)(1) of this section and permit producers to repay such loans in accordance with subsec. (*l*)(2) of this section.
+Pub. L. 100–45, § 15(b), May 27, 1987, 101 Stat. 326, stated sense of Congress that, if producers were permitted to repay loans for a crop of soybeans under subsec. (i) of this section at a level that is less than the full amount of the loan, the Secretary should make loans and purchases available for such crop of sunflowers in accordance with subsec. (*l*)(1) of this section and permit producers to repay such loans in accordance with subsec. (*l*)(2) of this section.
 
 **Application of Support Price for Milk**
 
-Pub. L. 99–198, title I, § 103, Dec. 23, 1985, 99 Stat. 1366, provided that for purposes of supporting price of milk under subsec. (d) of this section, the Secretary of Agriculture was not to take into consideration any market value of whey.
+Pub. L. 99–198, title I, § 103, Dec. 23, 1985, 99 Stat. 1366, provided that for purposes of supporting price of milk under subsec. (d) of this section, the Secretary of Agriculture was not to take into consideration any market value of whey.
 
 **Avoidance of Adverse Effect of Milk Production Termination Program on Beef, Pork, and Lamb Producers**
 
-Pub. L. 99–198, title I, § 104, Dec. 23, 1985, 99 Stat. 1366, directed Secretary of Agriculture, in order to minimize adverse effect of milk production termination program on beef, pork, and lamb producers during 18-month period for which such program was in effect under subsec. (d) of this section, to use funds available under specific programs of Department of Agriculture to purchase and distribute quantities of red meat in addition to those quantities normally purchased and distributed by Secretary, directed Secretary of Defense and other Federal agencies to use increased quantities of red meat to meet food needs of programs they administered, encouraged State agencies to cooperate in such effort, and directed Secretary of Agriculture to encourage consumption of red meat by the public.
+Pub. L. 99–198, title I, § 104, Dec. 23, 1985, 99 Stat. 1366, directed Secretary of Agriculture, in order to minimize adverse effect of milk production termination program on beef, pork, and lamb producers during 18-month period for which such program was in effect under subsec. (d) of this section, to use funds available under specific programs of Department of Agriculture to purchase and distribute quantities of red meat in addition to those quantities normally purchased and distributed by Secretary, directed Secretary of Defense and other Federal agencies to use increased quantities of red meat to meet food needs of programs they administered, encouraged State agencies to cooperate in such effort, and directed Secretary of Agriculture to encourage consumption of red meat by the public.
 
 **Circumvention of Historical Distribution of Milk**
 
-Pub. L. 99–198, title I, § 107, Dec. 23, 1985, 99 Stat. 1367, directed Secretary of Agriculture to monitor Commodity Credit Corporation purchases of milk products during 1986 and 1987 and report to Congress, on a quarterly basis, on disruptions of, or attempts by handlers or cooperative marketing associations to circumvent, historical distribution of milk among processors during the milk production termination program.
+Pub. L. 99–198, title I, § 107, Dec. 23, 1985, 99 Stat. 1367, directed Secretary of Agriculture to monitor Commodity Credit Corporation purchases of milk products during 1986 and 1987 and report to Congress, on a quarterly basis, on disruptions of, or attempts by handlers or cooperative marketing associations to circumvent, historical distribution of milk among processors during the milk production termination program.
 
 **Application of 1985 Amendments**
 
-Pub. L. 99–198, title I, § 108, Dec. 23, 1985, 99 Stat. 1367, provided that: “The amendments made by this subtitle [subtitle A (§§ 101–108) of title I of Pub. L. 99–198, enacting section 1446c–2 of this title, amending this section, and enacting provisions set out as notes under this section] shall not affect any liability of any person under section 201 of the Agricultural Act of 1949 (7 U.S.C. 1446) as in effect before the date of the enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–198, title I, § 108, Dec. 23, 1985, 99 Stat. 1367, provided that: “The amendments made by this subtitle [subtitle A (§§ 101–108) of title I of Pub. L. 99–198, enacting section 1446c–2 of this title, amending this section, and enacting provisions set out as notes under this section] shall not affect any liability of any person under section 201 of the Agricultural Act of 1949 (7 U.S.C. 1446) as in effect before the date of the enactment of this Act [Dec. 23, 1985].”
 
 **National Commission on Dairy Policy**
 
-Pub. L. 99–198, title I, subtitle D (§§ 141–146), Dec. 23, 1985, 99 Stat. 1374, as amended by Pub. L. 100–28, § 1, Apr. 24, 1987, 101 Stat. 291, established a National Commission on Dairy Policy to study and make recommendations concerning future operation of the Federal program established to support price of milk marketed by producers in the United States, directed Commission to submit to Secretary of Agriculture and Congress, not later than Mar. 31, 1988, a report containing results of its study and its recommendations, and provided for termination of Commission 30 days after submitting its report.
+Pub. L. 99–198, title I, subtitle D (§§ 141–146), Dec. 23, 1985, 99 Stat. 1374, as amended by Pub. L. 100–28, § 1, Apr. 24, 1987, 101 Stat. 291, established a National Commission on Dairy Policy to study and make recommendations concerning future operation of the Federal program established to support price of milk marketed by producers in the United States, directed Commission to submit to Secretary of Agriculture and Congress, not later than Mar. 31, 1988, a report containing results of its study and its recommendations, and provided for termination of Commission 30 days after submitting its report.
 
 **Applicability of Subsection (d)(2), (3) to 48 Contiguous States, December 1983, Through May 1984**
 
-Pub. L. 98–213, § 14, Dec. 8, 1983, 97 Stat. 1462, provided that effective with respect to milk marketed for commercial use during period beginning on Dec. 1, 1983 and ending on May 31, 1984, subsec. (d)(2) and (3) of this section was to apply only to milk produced in the forty-eight contiguous States.
+Pub. L. 98–213, § 14, Dec. 8, 1983, 97 Stat. 1462, provided that effective with respect to milk marketed for commercial use during period beginning on Dec. 1, 1983 and ending on May 31, 1984, subsec. (d)(2) and (3) of this section was to apply only to milk produced in the forty-eight contiguous States.
 
 **Implementation of Subsection (d) Without Regard to Public Participation in Rulemaking**
 
-Pub. L. 99–198, title I, § 102, Dec. 23, 1985, 99 Stat. 1366, provided that 5 U.S.C. 553 was not to apply with respect to implementation of subsec. (d) of this section by the Secretary of Agriculture.
+Pub. L. 99–198, title I, § 102, Dec. 23, 1985, 99 Stat. 1366, provided that 5 U.S.C. 553 was not to apply with respect to implementation of subsec. (d) of this section by the Secretary of Agriculture.
 
-Pub. L. 98–180, title I, § 102(b), Nov. 29, 1983, 97 Stat. 1135, directed Secretary of Agriculture to implement provisions of subsec. (d) of this section, as amended by section 102(a) of Pub. L. 98–180, without regard to the provisions requiring notice and other procedures for public participation in rulemaking contained in 5 U.S.C. 553.
+Pub. L. 98–180, title I, § 102(b), Nov. 29, 1983, 97 Stat. 1135, directed Secretary of Agriculture to implement provisions of subsec. (d) of this section, as amended by section 102(a) of Pub. L. 98–180, without regard to the provisions requiring notice and other procedures for public participation in rulemaking contained in 5 U.S.C. 553.
 
 **Avoidance of Adverse Impact of Dairy Diversion Program on Beef and Pork Producers**
 
-Pub. L. 98–180, title I, § 103, Nov. 29, 1983, 97 Stat. 1135, provided that in order to minimize adverse impact of the dairy diversion program on beef and pork producers, Secretary of Agriculture was to use funds available for purposes of 7 U.S.C. 612c(2) and other funds available under commodity distribution and other nutrition programs of Department of Agriculture to increase use of beef and pork for such purposes, Secretary of Defense and other Federal and State agencies were encouraged to use increased quantities of beef and pork to meet food needs of programs which they administered, and Secretary of Agriculture was to take appropriate action to encourage consumption of beef and pork by members of public.
+Pub. L. 98–180, title I, § 103, Nov. 29, 1983, 97 Stat. 1135, provided that in order to minimize adverse impact of the dairy diversion program on beef and pork producers, Secretary of Agriculture was to use funds available for purposes of 7 U.S.C. 612c(2) and other funds available under commodity distribution and other nutrition programs of Department of Agriculture to increase use of beef and pork for such purposes, Secretary of Defense and other Federal and State agencies were encouraged to use increased quantities of beef and pork to meet food needs of programs which they administered, and Secretary of Agriculture was to take appropriate action to encourage consumption of beef and pork by members of public.
 
 **Price Support of Milk for Period Beginning October 1, 1981, and Ending No Later Than December 31, 1981**
 
-Pub. L. 97–67, § 1, Oct. 20, 1981, 95 Stat. 1039, as amended by Pub. L. 97–77, § 2(a), Nov. 13, 1981, 95 Stat. 1069, provided that notwithstanding provisions of subsec. (c) of this section, the price of milk was to be supported at the level of $13.10 per hundredweight for milk containing 3.67 per centum butterfat for the period beginning Oct. 1, 1981, and ending Dec. 22, 1981.
+Pub. L. 97–67, § 1, Oct. 20, 1981, 95 Stat. 1039, as amended by Pub. L. 97–77, § 2(a), Nov. 13, 1981, 95 Stat. 1069, provided that notwithstanding provisions of subsec. (c) of this section, the price of milk was to be supported at the level of $13.10 per hundredweight for milk containing 3.67 per centum butterfat for the period beginning Oct. 1, 1981, and ending Dec. 22, 1981.
 
 **Continuation of Special Milk Program for Children**
 
-Pub. L. 85–478, July 1, 1958, 72 Stat. 276, as amended by Pub. L. 86–10, Apr. 3, 1959, 73 Stat. 15; Pub. L. 86–163, Aug. 18, 1959, 73 Stat. 363; Pub. L. 86–446, §§ 1, 2, Apr. 29, 1960, 74 Stat. 84; Pub. L. 87–67, June 30, 1961, 75 Stat. 147; Pub. L. 87–128, title IV, § 402, Aug. 8, 1961, 75 Stat. 319, authorized, for the fiscal years 1960–1962, the use of the funds of the Commodity Credit Corporation to increase the consumption of fluid milk by children (1) in nonprofit schools of high-school grade and under; and (2) in nonprofit nursery schools, child-care centers, settlement houses, summer camps, and similar nonprofit institutions devoted to the care and training of children. Appropriations were further authorized for fiscal years 1963–1967 for the same purposes.
+Pub. L. 85–478, July 1, 1958, 72 Stat. 276, as amended by Pub. L. 86–10, Apr. 3, 1959, 73 Stat. 15; Pub. L. 86–163, Aug. 18, 1959, 73 Stat. 363; Pub. L. 86–446, §§ 1, 2, Apr. 29, 1960, 74 Stat. 84; Pub. L. 87–67, June 30, 1961, 75 Stat. 147; Pub. L. 87–128, title IV, § 402, Aug. 8, 1961, 75 Stat. 319, authorized, for the fiscal years 1960–1962, the use of the funds of the Commodity Credit Corporation to increase the consumption of fluid milk by children (1) in nonprofit schools of high-school grade and under; and (2) in nonprofit nursery schools, child-care centers, settlement houses, summer camps, and similar nonprofit institutions devoted to the care and training of children. Appropriations were further authorized for fiscal years 1963–1967 for the same purposes.
 
 **Study of Production Control and Price Supports; Report to Congress**
 
-Act Aug. 28, 1954, ch. 1041, title II, § 204(f), 68 Stat. 901, directed Secretary of Agriculture to make a study of various methods of production control and of various methods of price support which could be made applicable to milk and butterfat and their products, including programs to be operated and financed by dairymen; and to submit to Congress on or before the 3d day of January, 1955, a detailed report thereof showing among other things the probable costs and effects of each type of operation studied and the legislation, if any, needed to put it into effect.
+Act Aug. 28, 1954, ch. 1041, title II, § 204(f), 68 Stat. 901, directed Secretary of Agriculture to make a study of various methods of production control and of various methods of price support which could be made applicable to milk and butterfat and their products, including programs to be operated and financed by dairymen; and to submit to Congress on or before the 3d day of January, 1955, a detailed report thereof showing among other things the probable costs and effects of each type of operation studied and the legislation, if any, needed to put it into effect.
 
-### § 1446a. Dairy products; availability through Commodity Credit Corporation
+### § 1446a. Dairy products; availability through Commodity Credit Corporation
 
 As a means of increasing the utilization of dairy products (including for purposes of this section, milk) upon the certification by the Secretary of Veterans Affairs or by the Secretary of the Army, acting for the military departments under the Department of Defense’s Single Service Purchase Assignment for Subsistence, or their duly authorized representatives that the usual quantities of dairy products have been purchased in the normal channels of trade—
 
@@ -4725,33 +4725,33 @@ Dairy products made available under this section shall be made available without
 
 **(d) Dairy products available**
 
-The obligation of the Commodity Credit Corporation to make dairy products available pursuant to the above shall be limited to dairy products acquired by the Corporation through price-support operations and not disposed of under provisions (1) and (2) of section 1431 1
+The obligation of the Commodity Credit Corporation to make dairy products available pursuant to the above shall be limited to dairy products acquired by the Corporation through price-support operations and not disposed of under provisions (1) and (2) of section 1431 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Oct. 31, 1949, ch. 792, title II, § 202, as added Aug. 28, 1954, ch. 1041, title II, § 204(d), 68 Stat. 900; amended Apr. 2, 1956, ch. 159, § 3, 70 Stat. 87; Pub. L. 85–835, title V, § 504, Aug. 28, 1958, 72 Stat. 996; Pub. L. 87–128, title IV, § 403, Aug. 8, 1961, 75 Stat. 319; Pub. L. 87–495, June 25, 1962, 76 Stat. 109; Pub. L. 88–529, Aug. 31, 1964, 78 Stat. 736; Pub. L. 90–140, Nov. 16, 1967, 81 Stat. 464; Pub. L. 91–524, title II, § 203, Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, § 1(4), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, § 204, Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–98, title I, § 104, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 99–198, title I, § 151, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 101–624, title I, § 109, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 102–54, § 13(c), June 13, 1991, 105 Stat. 274; Pub. L. 102–237, title I, § 113(9), Dec. 13, 1991, 105 Stat. 1838; Pub. L. 103–437, § 4(b), Nov. 2, 1994, 108 Stat. 4582.)
+(Oct. 31, 1949, ch. 792, title II, § 202, as added Aug. 28, 1954, ch. 1041, title II, § 204(d), 68 Stat. 900; amended Apr. 2, 1956, ch. 159, § 3, 70 Stat. 87; Pub. L. 85–835, title V, § 504, Aug. 28, 1958, 72 Stat. 996; Pub. L. 87–128, title IV, § 403, Aug. 8, 1961, 75 Stat. 319; Pub. L. 87–495, June 25, 1962, 76 Stat. 109; Pub. L. 88–529, Aug. 31, 1964, 78 Stat. 736; Pub. L. 90–140, Nov. 16, 1967, 81 Stat. 464; Pub. L. 91–524, title II, § 203, Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, § 1(4), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, § 204, Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–98, title I, § 104, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 99–198, title I, § 151, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 101–624, title I, § 109, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 102–54, § 13(c), June 13, 1991, 105 Stat. 274; Pub. L. 102–237, title I, § 113(9), Dec. 13, 1991, 105 Stat. 1838; Pub. L. 103–437, § 4(b), Nov. 2, 1994, 108 Stat. 4582.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Provisions (1) and (2) of section 1431 of this title, referred to in subsec. (d), were redesignated as subsec. (a)(1) and (2) of section 1431 of this title by Pub. L. 98–258, title V, § 502(1), Apr. 10, 1984, 98 Stat. 137.
+Provisions (1) and (2) of section 1431 of this title, referred to in subsec. (d), were redesignated as subsec. (a)(1) and (2) of section 1431 of this title by Pub. L. 98–258, title V, § 502(1), Apr. 10, 1984, 98 Stat. 137.
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–437, § 4(b)(1), substituted “Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House” for “Committees on Agriculture of the Senate and House”.
+1994—Subsec. (a). Pub. L. 103–437, § 4(b)(1), substituted “Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House” for “Committees on Agriculture of the Senate and House”.
 
-Subsec. (b). Pub. L. 103–437, § 4(b)(2), substituted “Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House” for “Committees on Agriculture of the Senate and the House”.
+Subsec. (b). Pub. L. 103–437, § 4(b)(2), substituted “Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House” for “Committees on Agriculture of the Senate and the House”.
 
-1991—Pub. L. 102–54 and Pub. L. 102–237, § 113(9)(A), amended introductory provisions identically, substituting “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+1991—Pub. L. 102–54 and Pub. L. 102–237, § 113(9)(A), amended introductory provisions identically, substituting “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-Subsec. (a). Pub. L. 102–237, § 113(9)(B), substituted “Secretary of Veterans Affairs” for “Administrator” before “certifies” and “shall report”.
+Subsec. (a). Pub. L. 102–237, § 113(9)(B), substituted “Secretary of Veterans Affairs” for “Administrator” before “certifies” and “shall report”.
 
-Pub. L. 102–54 and Pub. L. 102–237, § 113(9)(A), amended subsec. (a) identically, substituting “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” before “at warehouses”.
+Pub. L. 102–54 and Pub. L. 102–237, § 113(9)(A), amended subsec. (a) identically, substituting “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” before “at warehouses”.
 
-Subsec. (c). Pub. L. 102–54 and Pub. L. 102–237, § 113(9)(A), amended subsec. (c) identically, substituting “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+Subsec. (c). Pub. L. 102–54 and Pub. L. 102–237, § 113(9)(A), amended subsec. (c) identically, substituting “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
 1990—Subsecs. (a), (b). Pub. L. 101–624 substituted “1995” for “1990”.
 
@@ -4795,11 +4795,11 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1446a–1. Use of Commodity Credit Corporation funds for purchases of dairy products requirements for school and other programs
+### § 1446a–1. Use of Commodity Credit Corporation funds for purchases of dairy products requirements for school and other programs
 
 The Secretary of Agriculture is hereby authorized to use funds of the Commodity Credit Corporation to purchase sufficient supplies of dairy products at market prices to meet the requirements of any programs for the schools (other than fluid milk in the case of schools), domestic relief distribution, community action, and such other programs as are authorized by law, when there are insufficient stocks of dairy products in the hands of Commodity Credit Corporation available for these purposes.
 
-(Pub. L. 89–321, title VII, § 709, Nov. 3, 1965, 79 Stat. 1212; Pub. L. 89–808, § 3(b), Nov. 11, 1966, 80 Stat. 1538.)
+(Pub. L. 89–321, title VII, § 709, Nov. 3, 1965, 79 Stat. 1212; Pub. L. 89–808, § 3(b), Nov. 11, 1966, 80 Stat. 1538.)
 
 **Editorial Notes**
 
@@ -4815,17 +4815,17 @@ Section was enacted as part of the Food and Agriculture Act of 1965, and not as 
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–808, § 3(b), Nov. 11, 1966, 80 Stat. 1538, provided that the amendment made by section 3(b) is effective Jan. 1, 1967.
+Pub. L. 89–808, § 3(b), Nov. 11, 1966, 80 Stat. 1538, provided that the amendment made by section 3(b) is effective Jan. 1, 1967.
 
 **Commodity Distribution Program; Prohibition on Furnishing Commodities to Summer Camps**
 
 Prohibition on furnishing commodities under authority of this section to summer camps where number of adults participating in activities of camp exceeds one for each five children under 18 years of age participating in such activities, see section 4(b) of Pub. L. 93–86, Aug. 10, 1973, 87 Stat. 249, set out as a note under section 612c of this title.
 
-### § 1446b. Policy with regard to dairy products
+### § 1446b. Policy with regard to dairy products
 
 The production and use of abundant supplies of high quality milk and dairy products are essential to the health and general welfare of the Nation: a dependable domestic source of supply of these foods in the form of high grade dairy herds and modern, sanitary dairy equipment is important to the national defense; and an economically sound dairy industry affects beneficially the economy of the country as a whole. It is the policy of Congress to assure a stabilized annual production of adequate supplies of milk and dairy products; to promote the increased use of these essential foods; to improve the domestic source of supply of milk and butterfat by encouraging dairy farmers to develop efficient production units consisting of high-grade, disease-free cattle and modern sanitary equipment; and to stabilize the economy of dairy farmers at a level which will provide a fair return for their labor and investment when compared with the cost of things that farmers buy.
 
-(Aug. 28, 1954, ch. 1041, title II, § 204(a), 68 Stat. 899.)
+(Aug. 28, 1954, ch. 1041, title II, § 204(a), 68 Stat. 899.)
 
 **Editorial Notes**
 
@@ -4833,19 +4833,19 @@ The production and use of abundant supplies of high quality milk and dairy produ
 
 Section was enacted as part of the Agricultural Act of 1954, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-### § 1446c. Domestic disposal programs for dairy products
+### § 1446c. Domestic disposal programs for dairy products
 
 In order to prevent the accumulation of excessive inventories of dairy products the Secretary of Agriculture shall undertake domestic disposal programs under authorities granted in the Agricultural Adjustment Act of 1938 [7 U.S.C. 1281 et seq.] and the Agricultural Act of 1949, as amended [7 U.S.C. 1421 et seq.], or as otherwise authorized by law.
 
-(Aug. 28, 1954, ch. 1041, title II, § 204(c), 68 Stat. 900.)
+(Aug. 28, 1954, ch. 1041, title II, § 204(c), 68 Stat. 900.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Codification**
 
@@ -4855,21 +4855,21 @@ Section was enacted as part of the Agricultural Act of 1954, and not as part of 
 
 **Report of Dairy Product Purchases**
 
-Pub. L. 101–624, title I, § 105, Nov. 28, 1990, 104 Stat. 3379, provided that: “The Secretary of Agriculture shall make available to the public quarterly evaluations of the acquisition and disposal of Commodity Credit Corporation purchases of dairy products.”
+Pub. L. 101–624, title I, § 105, Nov. 28, 1990, 104 Stat. 3379, provided that: “The Secretary of Agriculture shall make available to the public quarterly evaluations of the acquisition and disposal of Commodity Credit Corporation purchases of dairy products.”
 
-### § 1446c–1. Reduction of dairy product inventories
+### § 1446c–1. Reduction of dairy product inventories
 
 The Secretary of Agriculture shall utilize, to the fullest extent practicable, the authorities under the Commodity Credit Corporation Charter Act [15 U.S.C. 714 et seq.] (including exportation of dairy products at not less than prevailing world market prices), the Food for Peace Act [7 U.S.C. 1691 et seq.], and other authorities available to the Secretary to reduce inventories of dairy products held by the Commodity Credit Corporation so as to reduce net Commodity Credit Corporation expenditures to the estimated outlays for the milk price support program used in developing budget outlays under the Congressional Budget Act of 1974 for the appropriate fiscal year.
 
-(Pub. L. 97–98, title I, § 106, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(A), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 97–98, title I, § 106, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(A), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Food for Peace Act, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
+The Food for Peace Act, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of this title and Tables.
 
 The Congressional Budget Act of 1974, referred to in text, is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 298. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
@@ -4893,9 +4893,9 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 **Dairy Program Operation Report**
 
-Pub. L. 97–98, title I, § 107, Dec. 22, 1981, 95 Stat. 1220, provided that, not later than Dec. 31, 1982, the Secretary of Agriculture shall submit to Congress a report describing the strengths and weaknesses of existing Federal programs, and the consequences of possible new programs, for controlling or minimizing surpluses of fluid milk and the products thereof.
+Pub. L. 97–98, title I, § 107, Dec. 22, 1981, 95 Stat. 1220, provided that, not later than Dec. 31, 1982, the Secretary of Agriculture shall submit to Congress a report describing the strengths and weaknesses of existing Federal programs, and the consequences of possible new programs, for controlling or minimizing surpluses of fluid milk and the products thereof.
 
-### § 1446c–2. Domestic casein industry
+### § 1446c–2. Domestic casein industry
 
 **(a) Annual availability of surplus stocks of nonfat dry milk; bid basis**
 
@@ -4909,7 +4909,7 @@ The Commodity Credit Corporation may accept bids at lower than the resale price 
 
 The Commodity Credit Corporation shall take appropriate action to ensure that the nonfat dry milk sold by the Corporation under this section is used only for the manufacture of casein.
 
-(Pub. L. 99–198, title I, § 105, Dec. 23, 1985, 99 Stat. 1367.)
+(Pub. L. 99–198, title I, § 105, Dec. 23, 1985, 99 Stat. 1367.)
 
 **Editorial Notes**
 
@@ -4923,45 +4923,45 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 This section not to affect any liability of any person under section 1446 of this title as in effect before Dec. 23, 1985, see section 108 of Pub. L. 99–198, set out as an Application of 1985 Amendments note under section 1446 of this title.
 
-### § 1446d. Omitted
+### § 1446d. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Oct. 31, 1949, ch. 792, title II, § 203, as added May 28, 1956, ch. 327, title VI, § 601(a), 70 Stat. 212; amended Nov. 28, 1990, Pub. L. 101–624, title V, § 507, 104 Stat. 3441, related to cottonseed and cottonseed oil price support program for 1991 through 1995 crops of upland cotton.
+Section, act Oct. 31, 1949, ch. 792, title II, § 203, as added May 28, 1956, ch. 327, title VI, § 601(a), 70 Stat. 212; amended Nov. 28, 1990, Pub. L. 101–624, title V, § 507, 104 Stat. 3441, related to cottonseed and cottonseed oil price support program for 1991 through 1995 crops of upland cotton.
 
-### § 1446e. Repealed. Pub. L. 104–127, title I, § 141(g), Apr. 4, 1996, 110 Stat. 915
+### § 1446e. Repealed. Pub. L. 104–127, title I, § 141(g), Apr. 4, 1996, 110 Stat. 915
 
-Section, act Oct. 31, 1949, ch. 792, title II, § 204, as added Nov. 28, 1990, Pub. L. 101–624, title I, § 101(a), 104 Stat. 3374; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1105(g), 104 Stat. 1388–6; Dec. 13, 1991, Pub. L. 102–237, title I, §§ 113(10), 127(a), 105 Stat. 1838, 1846; Aug. 10, 1993, Pub. L. 103–66, title I, § 1105(a), 107 Stat. 316; May 6, 1994, Pub. L. 103–247, § 1(c), 108 Stat. 618, related to milk price support and milk inventory management program for calendar years 1991 through 1996.
-
-**Statutory Notes and Related Subsidiaries**
-
-**Effective Date of Repeal**
-
-Pub. L. 104–127, title I, § 141(g), Apr. 4, 1996, 110 Stat. 915, provided that the repeal of this section is effective on the first day of the first month beginning after Apr. 4, 1996.
-
-### § 1446e–1. Repealed. Pub. L. 104–127, title I, § 145(e), Apr. 4, 1996, 110 Stat. 918
-
-Section, Pub. L. 101–624, title I, § 102, Nov. 28, 1990, 104 Stat. 3378; Pub. L. 102–237, title I, § 118(e), Dec. 13, 1991, 105 Stat. 1842, related to milk manufacturing marketing adjustment.
+Section, act Oct. 31, 1949, ch. 792, title II, § 204, as added Nov. 28, 1990, Pub. L. 101–624, title I, § 101(a), 104 Stat. 3374; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1105(g), 104 Stat. 1388–6; Dec. 13, 1991, Pub. L. 102–237, title I, §§ 113(10), 127(a), 105 Stat. 1838, 1846; Aug. 10, 1993, Pub. L. 103–66, title I, § 1105(a), 107 Stat. 316; May 6, 1994, Pub. L. 103–247, § 1(c), 108 Stat. 618, related to milk price support and milk inventory management program for calendar years 1991 through 1996.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 104–127, title I, § 145(e), Apr. 4, 1996, 110 Stat. 918, provided that the repeal of this section is effective on the first day of the first month beginning after Apr. 4, 1996.
+Pub. L. 104–127, title I, § 141(g), Apr. 4, 1996, 110 Stat. 915, provided that the repeal of this section is effective on the first day of the first month beginning after Apr. 4, 1996.
 
-### §§ 1446f to 1446h. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(H), Apr. 4, 1996, 110 Stat. 938
+### § 1446e–1. Repealed. Pub. L. 104–127, title I, § 145(e), Apr. 4, 1996, 110 Stat. 918
 
-Section 1446f, act Oct. 31, 1949, ch. 792, title II, § 205, as added Nov. 28, 1990, Pub. L. 101–624, title VII, § 701(2), 104 Stat. 3457; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1105(a), 104 Stat. 1388–3; Dec. 13, 1991, Pub. L. 102–237, title I, § 110, 105 Stat. 1829; Aug. 10, 1993, Pub. L. 103–66, title I, § 1108, 107 Stat. 325, related to loans and payments for oilseeds for 1991 through 1995 marketing years.
+Section, Pub. L. 101–624, title I, § 102, Nov. 28, 1990, 104 Stat. 3378; Pub. L. 102–237, title I, § 118(e), Dec. 13, 1991, 105 Stat. 1842, related to milk manufacturing marketing adjustment.
 
-Section 1446g, act Oct. 31, 1949, ch. 792, title II, § 206, as added Nov. 28, 1990, Pub. L. 101–624, title IX, § 901(2), 104 Stat. 3478; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1105(c), 104 Stat. 1388–5; Dec. 13, 1991, Pub. L. 102–237, title I, § 111(a), 105 Stat. 1829; Aug. 10, 1993, Pub. L. 103–66, title I, § 1107(a), 107 Stat. 324, related to sugar price support for 1991 through 1997 crops.
+**Statutory Notes and Related Subsidiaries**
 
-Section 1446h, act Oct. 31, 1949, ch. 792, title II, § 207, as added Nov. 28, 1990, Pub. L. 101–624, title X, § 1001, 104 Stat. 3488; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1105(d), 104 Stat. 1388–5; Aug. 10, 1993, Pub. L. 103–66, title I, § 1110, 107 Stat. 326, related to honey price support for the 1991 through 1998 crops of honey.
+**Effective Date of Repeal**
 
-### § 1446i. Repealed. Pub. L. 103–354, title I, § 119(a)(6), Oct. 13, 1994, 108 Stat. 3208
+Pub. L. 104–127, title I, § 145(e), Apr. 4, 1996, 110 Stat. 918, provided that the repeal of this section is effective on the first day of the first month beginning after Apr. 4, 1996.
 
-Section, act Oct. 31, 1949, ch. 792, title II, § 208, as added Nov. 28, 1990, Pub. L. 101–624, title XI, § 1126, 104 Stat. 3507, related to disaster payments for 1991 through 1995 crops of peanuts, soybeans, sugar beets, and sugarcane.
+### §§ 1446f to 1446h. Repealed. Pub. L. 104–127, title I, § 171(b)(2)(H), Apr. 4, 1996, 110 Stat. 938
+
+Section 1446f, act Oct. 31, 1949, ch. 792, title II, § 205, as added Nov. 28, 1990, Pub. L. 101–624, title VII, § 701(2), 104 Stat. 3457; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1105(a), 104 Stat. 1388–3; Dec. 13, 1991, Pub. L. 102–237, title I, § 110, 105 Stat. 1829; Aug. 10, 1993, Pub. L. 103–66, title I, § 1108, 107 Stat. 325, related to loans and payments for oilseeds for 1991 through 1995 marketing years.
+
+Section 1446g, act Oct. 31, 1949, ch. 792, title II, § 206, as added Nov. 28, 1990, Pub. L. 101–624, title IX, § 901(2), 104 Stat. 3478; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1105(c), 104 Stat. 1388–5; Dec. 13, 1991, Pub. L. 102–237, title I, § 111(a), 105 Stat. 1829; Aug. 10, 1993, Pub. L. 103–66, title I, § 1107(a), 107 Stat. 324, related to sugar price support for 1991 through 1997 crops.
+
+Section 1446h, act Oct. 31, 1949, ch. 792, title II, § 207, as added Nov. 28, 1990, Pub. L. 101–624, title X, § 1001, 104 Stat. 3488; amended Nov. 5, 1990, Pub. L. 101–508, title I, § 1105(d), 104 Stat. 1388–5; Aug. 10, 1993, Pub. L. 103–66, title I, § 1110, 107 Stat. 326, related to honey price support for the 1991 through 1998 crops of honey.
+
+### § 1446i. Repealed. Pub. L. 103–354, title I, § 119(a)(6), Oct. 13, 1994, 108 Stat. 3208
+
+Section, act Oct. 31, 1949, ch. 792, title II, § 208, as added Nov. 28, 1990, Pub. L. 101–624, title XI, § 1126, 104 Stat. 3507, related to disaster payments for 1991 through 1995 crops of peanuts, soybeans, sugar beets, and sugarcane.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4969,15 +4969,15 @@ Section, act Oct. 31, 1949, ch. 792, title II, § 208, as added Nov. 28, 1990,
 
 Repeal effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as an Effective Date of 1994 Amendment note under section 1502 of this title.
 
-### § 1447. Price support levels for other nonbasic agricultural commodities
+### § 1447. Price support levels for other nonbasic agricultural commodities
 
-The Secretary is authorized to make available through loans, purchases, or other operations price support to producers for any nonbasic agricultural commodity not designated in sections 1446, 1446a, and 1446d 1
+The Secretary is authorized to make available through loans, purchases, or other operations price support to producers for any nonbasic agricultural commodity not designated in sections 1446, 1446a, and 1446d 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title at a level not in excess of 90 per centum of the parity price for the commodity.
 
-(Oct. 31, 1949, ch. 792, title III, § 301, 63 Stat. 1053; Pub. L. 95–113, title X, § 1003(a), Sept. 29, 1977, 91 Stat. 950.)
+(Oct. 31, 1949, ch. 792, title III, § 301, 63 Stat. 1053; Pub. L. 95–113, title X, § 1003(a), Sept. 29, 1977, 91 Stat. 950.)
 
 **Editorial Notes**
 
@@ -4993,7 +4993,7 @@ Section 1446d of this title, referred to in text, was omitted from the Code.
 
 **Effective and Termination Dates of 1977 Amendment**
 
-Pub. L. 95–113, title X, § 1003(a), Sept. 29, 1977, 91 Stat. 950, provided that the amendment made by section 1003(a) is effective only with respect to the 1978 through 1981 crops.
+Pub. L. 95–113, title X, § 1003(a), Sept. 29, 1977, 91 Stat. 950, provided that the amendment made by section 1003(a) is effective only with respect to the 1978 through 1981 crops.
 
 **Inapplicability of Section**
 
@@ -5007,13 +5007,13 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **Elimination of Wool and Mohair Programs**
 
-Pub. L. 103–130, § 3(c), Nov. 1, 1993, 107 Stat. 1369, provided that: “Effective beginning December 31, 1995, the Secretary of Agriculture may not provide loans or payments for wool or mohair by using the funds of the Commodity Credit Corporation or under the authority of any law.”
+Pub. L. 103–130, § 3(c), Nov. 1, 1993, 107 Stat. 1369, provided that: “Effective beginning December 31, 1995, the Secretary of Agriculture may not provide loans or payments for wool or mohair by using the funds of the Commodity Credit Corporation or under the authority of any law.”
 
 **Other Price Support Programs in Effect on September 29, 1977**
 
-Pub. L. 95–113, title X, § 1003(b), Sept. 29, 1977, 91 Stat. 950, provided that: “The amendment made by this section [amending this section] to the Agricultural Act of 1949 shall not be operative in any manner with respect to any price support program in effect on the date of enactment of this Act [Sept. 29, 1977].”
+Pub. L. 95–113, title X, § 1003(b), Sept. 29, 1977, 91 Stat. 950, provided that: “The amendment made by this section [amending this section] to the Agricultural Act of 1949 shall not be operative in any manner with respect to any price support program in effect on the date of enactment of this Act [Sept. 29, 1977].”
 
-### § 1448. Price support levels for storable nonbasic agricultural commodities
+### § 1448. Price support levels for storable nonbasic agricultural commodities
 
 Without restricting price support to those commodities for which a marketing quota or marketing agreement or order program is in effect, price support shall, insofar as feasible, be made available to producers of any storable nonbasic agricultural commodity for which such a program is in effect and who are complying with such program. The level of such support shall not be in excess of 90 per centum of the parity price of such commodity nor less than the level provided in the following table:
 
@@ -5040,7 +5040,7 @@ Without restricting price support to those commodities for which a marketing quo
 
 *Provided*, That the level of price support may be less than the minimum level provided in the foregoing table if the Secretary, after examination of the availability of funds for mandatory price support programs and consideration of the other factors specified in section 1421(b) of this title, determines that such lower level is desirable and proper.
 
-(Oct. 31, 1949, ch. 792, title III, § 302, 63 Stat. 1053.)
+(Oct. 31, 1949, ch. 792, title III, § 302, 63 Stat. 1053.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5054,11 +5054,11 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(I) of this title.
 
-### § 1449. Determination of price support level
+### § 1449. Determination of price support level
 
 In determining the level of price support for any nonbasic agricultural commodity under sections 1447 to 1449 of this title, particular consideration shall be given to the levels at which the prices of competing agricultural commodities are being supported.
 
-(Oct. 31, 1949, ch. 792, title III, § 303, 63 Stat. 1053.)
+(Oct. 31, 1949, ch. 792, title III, § 303, 63 Stat. 1053.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5072,13 +5072,13 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(I) of this title.
 
-### § 1450. Repealed. Aug. 28, 1954, ch. 1041, title II, § 203(b), 68 Stat. 899
+### § 1450. Repealed. Aug. 28, 1954, ch. 1041, title II, § 203(b), 68 Stat. 899
 
-Section, acts Mar. 31, 1950, ch. 81, § 5, 64 Stat. 42; Jan. 30, 1954, ch. 2, § 5(a), 68 Stat. 7, provided that for the crop year of 1951 and thereafter, no price support would be available for Irish potatoes unless marketing quotas were in effect.
+Section, acts Mar. 31, 1950, ch. 81, § 5, 64 Stat. 42; Jan. 30, 1954, ch. 2, § 5(a), 68 Stat. 7, provided that for the crop year of 1951 and thereafter, no price support would be available for Irish potatoes unless marketing quotas were in effect.
 
 ## SUBCHAPTER IV—ACREAGE BASE AND YIELD SYSTEM
 
-### §§ 1461 to 1469. Omitted
+### §§ 1461 to 1469. Omitted
 
 **Editorial Notes**
 
@@ -5086,49 +5086,49 @@ Section, acts Mar. 31, 1950, ch. 81, § 5, 64 Stat. 42; Jan. 30, 1954, ch. 2, 
 
 Sections 1461 to 1469 were omitted pursuant to section 1469 which provided that this subchapter was to be effective only for the 1991 through 1997 program crops.
 
-Section 1461, act Oct. 31, 1949, ch. 792, title V, § 501, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1460; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3491, related to purpose of subchapter to prescribe system for establishing crop acreage bases and program payment yields for wheat, feed grains, upland cotton, and rice programs.
+Section 1461, act Oct. 31, 1949, ch. 792, title V, § 501, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1460; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3491, related to purpose of subchapter to prescribe system for establishing crop acreage bases and program payment yields for wheat, feed grains, upland cotton, and rice programs.
 
-A prior section 1461, act Oct. 31, 1949, ch. 792, title V, § 501, as added July 12, 1951, ch. 223, 65 Stat. 119; amended Mar. 16, 1954, ch. 98, 68 Stat. 28, provided for powers, duties, and guaranties of Secretary of Labor as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1461, act Oct. 31, 1949, ch. 792, title V, § 501, as added July 12, 1951, ch. 223, 65 Stat. 119; amended Mar. 16, 1954, ch. 98, 68 Stat. 28, provided for powers, duties, and guaranties of Secretary of Labor as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
-Section 1462, act Oct. 31, 1949, ch. 792, title V, § 502, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1461; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3491, defined terms for this subchapter.
+Section 1462, act Oct. 31, 1949, ch. 792, title V, § 502, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1461; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3491, defined terms for this subchapter.
 
-A prior section 1462, act Oct. 31, 1949, ch. 792, title V, § 502, as added July 12, 1951, ch. 223, 65 Stat. 119; amended Aug. 9, 1955, ch. 679, § 2, 69 Stat. 615; Oct. 3, 1961, Pub. L. 87–345, § 1, 75 Stat. 761, related to liabilities and guaranties of employers as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1462, act Oct. 31, 1949, ch. 792, title V, § 502, as added July 12, 1951, ch. 223, 65 Stat. 119; amended Aug. 9, 1955, ch. 679, § 2, 69 Stat. 615; Oct. 3, 1961, Pub. L. 87–345, § 1, 75 Stat. 761, related to liabilities and guaranties of employers as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
-Section 1463, act Oct. 31, 1949, ch. 792, title V, § 503, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1461; amended Pub. L. 100–387, title III, § 302(a), Aug. 11, 1988, 102 Stat. 947; Pub. L. 101–81, § 2, Aug. 14, 1989, 103 Stat. 563; Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3491; Pub. L. 102–237, title I, § 112(a), (b), Dec. 13, 1991, 105 Stat. 1836; Pub. L. 103–66, title I, § 1101(b)(2)(A), Aug. 10, 1993, 107 Stat. 314, established crop acreage bases for each program crop.
+Section 1463, act Oct. 31, 1949, ch. 792, title V, § 503, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1461; amended Pub. L. 100–387, title III, § 302(a), Aug. 11, 1988, 102 Stat. 947; Pub. L. 101–81, § 2, Aug. 14, 1989, 103 Stat. 563; Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3491; Pub. L. 102–237, title I, § 112(a), (b), Dec. 13, 1991, 105 Stat. 1836; Pub. L. 103–66, title I, § 1101(b)(2)(A), Aug. 10, 1993, 107 Stat. 314, established crop acreage bases for each program crop.
 
-A prior section 1463, act Oct. 31, 1949, ch. 792, title V, § 503, as added July 12, 1951, ch. 223, 65 Stat. 120; amended Aug. 9, 1955, ch. 679, § 3, 69 Stat. 615; Oct. 3, 1961, Pub. L. 87–345, § 2, 75 Stat. 761, related to certification of need for workers, consultation with employers and workers, and posting of information as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1463, act Oct. 31, 1949, ch. 792, title V, § 503, as added July 12, 1951, ch. 223, 65 Stat. 120; amended Aug. 9, 1955, ch. 679, § 3, 69 Stat. 615; Oct. 3, 1961, Pub. L. 87–345, § 2, 75 Stat. 761, related to certification of need for workers, consultation with employers and workers, and posting of information as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
-A prior section 1463a, act Oct. 31, 1949, ch. 792, title V, § 504, as added Oct. 3, 1961, Pub. L. 87–345, § 3, 75 Stat. 761, restricted duration and nature of employment as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1463a, act Oct. 31, 1949, ch. 792, title V, § 504, as added Oct. 3, 1961, Pub. L. 87–345, § 3, 75 Stat. 761, restricted duration and nature of employment as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
-Section 1464, act Oct. 31, 1949, ch. 792, title V, § 504, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1461; amended Pub. L. 99–253, § 4, Feb. 28, 1986, 100 Stat. 37; Pub. L. 99–260, § 8, Mar. 20, 1986, 100 Stat. 51; Pub. L. 100–387, title III, § 301(a)(1), Aug. 11, 1988, 102 Stat. 945; Pub. L. 101–81, § 1, Aug. 14, 1989, 103 Stat. 563; Pub. L. 101–82, title VI, § 603(a), Aug. 14, 1989, 103 Stat. 587; Pub. L. 101–239, title I, § 1002(a), Dec. 19, 1989, 103 Stat. 2106; Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3494; Pub. L. 102–237, title I, § 112(c), Dec. 13, 1991, 105 Stat. 1837, provided for planting flexibility.
+Section 1464, act Oct. 31, 1949, ch. 792, title V, § 504, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1461; amended Pub. L. 99–253, § 4, Feb. 28, 1986, 100 Stat. 37; Pub. L. 99–260, § 8, Mar. 20, 1986, 100 Stat. 51; Pub. L. 100–387, title III, § 301(a)(1), Aug. 11, 1988, 102 Stat. 945; Pub. L. 101–81, § 1, Aug. 14, 1989, 103 Stat. 563; Pub. L. 101–82, title VI, § 603(a), Aug. 14, 1989, 103 Stat. 587; Pub. L. 101–239, title I, § 1002(a), Dec. 19, 1989, 103 Stat. 2106; Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3494; Pub. L. 102–237, title I, § 112(c), Dec. 13, 1991, 105 Stat. 1837, provided for planting flexibility.
 
-A prior section 1464, act Oct. 31, 1949, ch. 792, title V, § 505, formerly § 504, as added July 12, 1951, ch. 223, 65 Stat. 120, and renumbered Oct. 3, 1961, Pub. L. 87–345, § 3, 75 Stat. 761, related to workers subject to immigration laws, dispensed with need of penalty bond, and provided for effect of use of “wetback” labor as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1464, act Oct. 31, 1949, ch. 792, title V, § 505, formerly § 504, as added July 12, 1951, ch. 223, 65 Stat. 120, and renumbered Oct. 3, 1961, Pub. L. 87–345, § 3, 75 Stat. 761, related to workers subject to immigration laws, dispensed with need of penalty bond, and provided for effect of use of “wetback” labor as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
-Section 1465, act Oct. 31, 1949, ch. 792, title V, § 505, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1462; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3495; Pub. L. 103–66, title I, § 1101(b)(2)(B), Aug. 10, 1993, 107 Stat. 314, provided for farm program payment yields.
+Section 1465, act Oct. 31, 1949, ch. 792, title V, § 505, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1462; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3495; Pub. L. 103–66, title I, § 1101(b)(2)(B), Aug. 10, 1993, 107 Stat. 314, provided for farm program payment yields.
 
-A prior section 1465, act Oct. 31, 1949, ch. 792, title V, § 506(c), formerly § 505(c), as added July 12, 1951, ch. 223, 65 Stat. 121, and renumbered Oct. 3, 1961, Pub. L. 87–345, § 3, 75 Stat. 761, provided for an exemption from a head tax as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1465, act Oct. 31, 1949, ch. 792, title V, § 506(c), formerly § 505(c), as added July 12, 1951, ch. 223, 65 Stat. 121, and renumbered Oct. 3, 1961, Pub. L. 87–345, § 3, 75 Stat. 761, provided for an exemption from a head tax as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
-A prior section 1465a, act Oct. 31, 1949, ch. 792, title V, § 506(d), as added Oct. 3, 1961, Pub. L. 87–345, § 4, 75 Stat. 761, provided for illness or disability tax as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1465a, act Oct. 31, 1949, ch. 792, title V, § 506(d), as added Oct. 3, 1961, Pub. L. 87–345, § 4, 75 Stat. 761, provided for illness or disability tax as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
-Section 1466, act Oct. 31, 1949, ch. 792, title V, § 506, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1463; amended Pub. L. 99–260, § 3, Mar. 20, 1986, 100 Stat. 48; Pub. L. 100–203, title I, § 1109, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 101–220, § 11(a), Dec. 12, 1989, 103 Stat. 1882; Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3497, provided for planting and production history of farms.
+Section 1466, act Oct. 31, 1949, ch. 792, title V, § 506, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1463; amended Pub. L. 99–260, § 3, Mar. 20, 1986, 100 Stat. 48; Pub. L. 100–203, title I, § 1109, Dec. 22, 1987, 101 Stat. 1330–6; Pub. L. 101–220, § 11(a), Dec. 12, 1989, 103 Stat. 1882; Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3497, provided for planting and production history of farms.
 
-A prior section 1466, act Oct. 31, 1949, ch. 792, title V, § 507, formerly § 506, as added July 12, 1951, ch. 223, 65 Stat. 121; renumbered § 507, Oct. 3, 1961, Pub. L. 87–345, § 3, 75 Stat. 761, related to utilization of Federal and State agencies by Secretary of Labor as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1466, act Oct. 31, 1949, ch. 792, title V, § 507, formerly § 506, as added July 12, 1951, ch. 223, 65 Stat. 121; renumbered § 507, Oct. 3, 1961, Pub. L. 87–345, § 3, 75 Stat. 761, related to utilization of Federal and State agencies by Secretary of Labor as part of a program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
-Section 1467, act Oct. 31, 1949, ch. 792, title V, § 507, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1463; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3497, provided for establishment of bases and yields by county committees.
+Section 1467, act Oct. 31, 1949, ch. 792, title V, § 507, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1463; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3497, provided for establishment of bases and yields by county committees.
 
-A prior section 1467, act Oct. 31, 1949, ch. 792, title V, § 508, formerly § 507, as added July 12, 1951, ch. 223, 65 Stat. 121; renumbered § 508 and amended Oct. 3, 1961, Pub. L. 87–345, §§ 3, 5, 75 Stat. 761, defined “agricultural employment” and “employer” for purposes of the program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1467, act Oct. 31, 1949, ch. 792, title V, § 508, formerly § 507, as added July 12, 1951, ch. 223, 65 Stat. 121; renumbered § 508 and amended Oct. 3, 1961, Pub. L. 87–345, §§ 3, 5, 75 Stat. 761, defined “agricultural employment” and “employer” for purposes of the program for recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
-Section 1468, act Oct. 31, 1949, ch. 792, title V, § 508, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1464; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3497, provided for administrative appeals procedure.
+Section 1468, act Oct. 31, 1949, ch. 792, title V, § 508, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1464; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3497, provided for administrative appeals procedure.
 
-A prior section 1468, act Oct. 31, 1949, ch. 792, title V, § 509, formerly § 508, as added July 12, 1951, ch. 223, 65 Stat. 121; renumbered § 509, Oct. 3, 1961, Pub. L. 87–345, § 3, 75 Stat. 761, related to importation of workers from other foreign countries with regard to a program of recruiting agricultural workers from Mexico for employment up to December 31, 1964.
+A prior section 1468, act Oct. 31, 1949, ch. 792, title V, § 509, formerly § 508, as added July 12, 1951, ch. 223, 65 Stat. 121; renumbered § 509, Oct. 3, 1961, Pub. L. 87–345, § 3, 75 Stat. 761, related to importation of workers from other foreign countries with regard to a program of recruiting agricultural workers from Mexico for employment up to December 31, 1964.
 
-Section 1469, act Oct. 31, 1949, ch. 792, title V, § 509, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1464; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3497; Pub. L. 103–66, title I, § 1101(b)(2)(C), Aug. 10, 1993, 107 Stat. 314, provided that subchapter was to be effective only for the 1991 through 1997 program crops.
+Section 1469, act Oct. 31, 1949, ch. 792, title V, § 509, as added Pub. L. 99–198, title X, § 1031, Dec. 23, 1985, 99 Stat. 1464; amended Pub. L. 101–624, title XI, § 1101, Nov. 28, 1990, 104 Stat. 3497; Pub. L. 103–66, title I, § 1101(b)(2)(C), Aug. 10, 1993, 107 Stat. 314, provided that subchapter was to be effective only for the 1991 through 1997 program crops.
 
 A prior section 509, formerly 508, of act Oct. 31, 1949, was formerly classified to section 1468 of this title. See note set out above.
 
 ## SUBCHAPTER V—EMERGENCY LIVESTOCK FEED ASSISTANCE ACT OF 1988
 
-### § 1471. Definitions
+### § 1471. Definitions
 
 As used in this subchapter:
 
@@ -5140,19 +5140,19 @@ As used in this subchapter:
 
 **(ii)** a farm cooperative, private domestic corporation, partnership, or joint operation in which a majority interest is held by members, stockholders, or partners who are citizens of, or legal resident aliens in, the United States, if such cooperative, corporation, partnership, or joint operation is engaged in livestock production or husbandry, or dairy production; or
 
-**(B)** Any 1
+**(B)** Any 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 of the following entities that is actively engaged in livestock production or husbandry, or dairy production—
 
-**(i)** any Indian tribe (as defined in section 5304(b) of title 25); 2
+**(i)** any Indian tribe (as defined in section 5304(b) of title 25); 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(ii)** any Indian organization or entity chartered under the Act of June 18, 1934 (48 Stat. 984, chapter 576; 25 U.S.C. 461 et seq.),<sup>2</sup> commonly known as the “Indian Reorganization Act”;
 
-**(iii)** any tribal organization (as defined in section 5304(c) of title 25); <sup>2</sup> or
+**(iii)** any tribal organization (as defined in section 5304(c) of title 25); <sup>2</sup> or
 
 **(iv)** any economic enterprise (as defined in section 1452(e) of title 25);
 
@@ -5170,9 +5170,9 @@ of the following entities that is actively engaged in livestock production or hu
 
 **(B)** is consistent with acceptable feed practices.
 
-**(5)** The term “area” includes any Indian reservation (as defined in section 1985(e)(1)(D)(ii) <sup>2</sup> of this title).
+**(5)** The term “area” includes any Indian reservation (as defined in section 1985(e)(1)(D)(ii) <sup>2</sup> of this title).
 
-(Oct. 31, 1949, ch. 792, title VI, § 602, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 926; amended Pub. L. 108–447, div. A, title VII, § 785(b)(1), Dec. 8, 2004, 118 Stat. 2850; Pub. L. 109–97, title VII, § 784(b)(1), Nov. 10, 2005, 119 Stat. 2162; Pub. L. 115–334, title XII, § 12104, Dec. 20, 2018, 132 Stat. 4942.)
+(Oct. 31, 1949, ch. 792, title VI, § 602, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 926; amended Pub. L. 108–447, div. A, title VII, § 785(b)(1), Dec. 8, 2004, 118 Stat. 2850; Pub. L. 109–97, title VII, § 784(b)(1), Nov. 10, 2005, 119 Stat. 2162; Pub. L. 115–334, title XII, § 12104, Dec. 20, 2018, 132 Stat. 4942.)
 
 **Editorial Notes**
 
@@ -5180,9 +5180,9 @@ of the following entities that is actively engaged in livestock production or hu
 
 Section 5304 of title 25, referred to in par. (1)(B)(i), (iii), has been amended, and subsecs. (b) and (c) of section 5304 no longer define the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
 
-Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which was classified generally to subchapter V (§ 461 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 45 (§ 5101 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 25 and Tables.
+Act of June 18, 1934, referred to in par. (1)(B)(ii), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which was classified generally to subchapter V (§ 461 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 45 (§ 5101 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 25 and Tables.
 
-Section 1985(e)(1)(D)(ii) of this title, referred to in par. (5), was redesignated section 1985(e)(1)(A)(ii) of this title by Pub. L. 104–127, title VI, § 638(3)(A)(ii), Apr. 4, 1996, 110 Stat. 1096.
+Section 1985(e)(1)(D)(ii) of this title, referred to in par. (5), was redesignated section 1985(e)(1)(A)(ii) of this title by Pub. L. 104–127, title VI, § 638(3)(A)(ii), Apr. 4, 1996, 110 Stat. 1096.
 
 **Amendments**
 
@@ -5196,7 +5196,7 @@ Section 1985(e)(1)(D)(ii) of this title, referred to in par. (5), was redesignat
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–97, title VII, § 784(c), Nov. 10, 2005, 119 Stat. 2163, provided that:
+Pub. L. 109–97, title VII, § 784(c), Nov. 10, 2005, 119 Stat. 2163, provided that:
 
 > **“(1) In general.—** This section [amending this section and section 1472 of this title and enacting provisions set out as a note under this section] and the amendments made by this section apply to losses resulting from a disaster that occurs on or after July 28, 2005.
 
@@ -5212,7 +5212,7 @@ For short title of title VI of act Oct. 31, 1949, ch. 792, which enacted this su
 
 **Inclusion of Horses and Deer Within Definition of “Livestock”**
 
-Pub. L. 109–97, title VII, § 784(a), Nov. 10, 2005, 119 Stat. 2162, provided that: “In carrying out a livestock assistance, compensation, or feed program, the Secretary of Agriculture shall include horses and deer within the definition of ‘livestock’ covered by the program.”
+Pub. L. 109–97, title VII, § 784(a), Nov. 10, 2005, 119 Stat. 2162, provided that: “In carrying out a livestock assistance, compensation, or feed program, the Secretary of Agriculture shall include horses and deer within the definition of ‘livestock’ covered by the program.”
 
 **Inapplicability of Section**
 
@@ -5224,7 +5224,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
-### § 1471a. Emergency livestock assistance
+### § 1471a. Emergency livestock assistance
 
 **(a)** The Secretary shall provide emergency feed assistance under this subchapter for the preservation and maintenance of livestock in any State or area of a State where, because of disease, insect infestation, flood, drought, fire, hurricane, earthquake, storm, hot weather, or other natural disaster, the Secretary determines that a livestock emergency exists.
 
@@ -5238,7 +5238,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **(2)** The Secretary shall accept applications for assistance under this subsection from producers that are affected by the livestock emergency at any time during the eight-month period beginning on the date on which the Secretary determines that such emergency exists in the other county.
 
-(Oct. 31, 1949, ch. 792, title VI, § 603, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 927.)
+(Oct. 31, 1949, ch. 792, title VI, § 603, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 927.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5256,7 +5256,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
-### § 1471b. Determination of need for assistance
+### § 1471b. Determination of need for assistance
 
 **(a) Determination and request by Governor or county committee**
 
@@ -5276,7 +5276,7 @@ The Secretary shall act on requests for determinations under subsection (a) and 
 
 Notwithstanding the preceding provisions of this section, any State, county, or area determined eligible, due to drought or related conditions in 1988, for the emergency feed program or emergency feed assistance program conducted prior to the effective date of this subchapter shall continue to be eligible for such programs and may be eligible for other programs under this subchapter for such drought or related condition. As soon as practicable after the effective date of this subchapter, the Secretary shall determine whether any of the programs described in section 1471d of this title, other than the emergency feed program under section 1471d(a)(4) of this title and the emergency feed assistance program under section 1471d(a)(2) of this title, or in section 1471e of this title should be made available in such State, county, or area. If the Secretary makes such determination, the Secretary shall make such programs immediately available to livestock producers in the State, county, or area.
 
-(Oct. 31, 1949, ch. 792, title VI, § 604, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 927.)
+(Oct. 31, 1949, ch. 792, title VI, § 604, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 927.)
 
 **Editorial Notes**
 
@@ -5300,7 +5300,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
-### § 1471c. Eligible producers
+### § 1471c. Eligible producers
 
 **(a) Qualifying livestock producers**
 
@@ -5318,7 +5318,7 @@ Each livestock producer in such State, county, or area, or in a contiguous count
 
 Any livestock producer, located in a county or area in which benefits under the emergency feed program or the emergency feed assistance program were made available due to the drought or related condition in 1988 prior to the effective date of this subchapter, who qualifies for assistance under such pre-existing programs shall be eligible for assistance for such drought or related conditions as prescribed in subsection (a) or, at the producer’s option, for assistance under such pre-existing programs.
 
-(Oct. 31, 1949, ch. 792, title VI, § 605, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 928.)
+(Oct. 31, 1949, ch. 792, title VI, § 605, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 928.)
 
 **Editorial Notes**
 
@@ -5342,7 +5342,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
-### § 1471d. Assistance programs
+### § 1471d. Assistance programs
 
 **(a) Available programs** In accordance with section 1471c(a) of this title, the Secretary shall make one or more of the following assistance programs available to qualifying livestock producers in a State, county or area, if the Secretary determines that the livestock emergency in such State, county or area requires the implementation of such program:
 
@@ -5396,19 +5396,19 @@ A person eligible to receive a payment or benefit under this section with respec
 
 The Secretary may make available at least $25,000,000 to provide livestock transportation assistance under subsection (a)(6) for livestock emergencies in 1989.
 
-(Oct. 31, 1949, ch. 792, title VI, § 606, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 928; amended Pub. L. 101–82, title II, §§ 201, 202, Aug. 14, 1989, 103 Stat. 581.)
+(Oct. 31, 1949, ch. 792, title VI, § 606, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 928; amended Pub. L. 101–82, title II, §§ 201, 202, Aug. 14, 1989, 103 Stat. 581.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsecs. (a)(2)(A) and (b)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsecs. (a)(2)(A) and (b)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 **Amendments**
 
-1989—Subsec. (b). Pub. L. 101–82, § 201, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a) of this section, the Secretary may provide for the furnishing of the feed grain through a dealer or manufacturer and the replacing of the feed grain so furnished from feed grain owned by the Commodity Credit Corporation.”
+1989—Subsec. (b). Pub. L. 101–82, § 201, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a) of this section, the Secretary may provide for the furnishing of the feed grain through a dealer or manufacturer and the replacing of the feed grain so furnished from feed grain owned by the Commodity Credit Corporation.”
 
-Subsec. (f). Pub. L. 101–82, § 202, added subsec. (f).
+Subsec. (f). Pub. L. 101–82, § 202, added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5428,9 +5428,9 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **Emergency Forage Program**
 
-Pub. L. 100–387, title I, § 103, Aug. 11, 1988, 102 Stat. 932, directed the Secretary of Agriculture to implement an emergency forage program to reseed pasture damaged by the drought or related condition in 1988 and provided for 50 percent cost-sharing, a $3,500 limit on payments to any one producer and a $50,000,000 limit on Commodity Credit Corporation funds available for such program.
+Pub. L. 100–387, title I, § 103, Aug. 11, 1988, 102 Stat. 932, directed the Secretary of Agriculture to implement an emergency forage program to reseed pasture damaged by the drought or related condition in 1988 and provided for 50 percent cost-sharing, a $3,500 limit on payments to any one producer and a $50,000,000 limit on Commodity Credit Corporation funds available for such program.
 
-### § 1471e. Additional assistance
+### § 1471e. Additional assistance
 
 **(a) Determination by Secretary**
 
@@ -5458,15 +5458,15 @@ as appropriate in drought areas to facilitate more efficient and better-distribu
 
 The Secretary may make available at least $25,000,000 to provide special assistance under subsection (b)(2) for livestock emergencies in 1988 and 1989.
 
-(Oct. 31, 1949, ch. 792, title VI, § 607, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 930; amended Pub. L. 101–82, title I, § 142, title II, § 203, Aug. 14, 1989, 103 Stat. 579, 581.)
+(Oct. 31, 1949, ch. 792, title VI, § 607, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 930; amended Pub. L. 101–82, title I, § 142, title II, § 203, Aug. 14, 1989, 103 Stat. 579, 581.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1989—Subsec. (b)(2)(B). Pub. L. 101–82, § 142, inserted “or ponds”.
+1989—Subsec. (b)(2)(B). Pub. L. 101–82, § 142, inserted “or ponds”.
 
-Subsec. (c). Pub. L. 101–82, § 203, added subsec. (c).
+Subsec. (c). Pub. L. 101–82, § 203, added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5484,11 +5484,11 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
-### § 1471f. Use of Commodity Credit Corporation
+### § 1471f. Use of Commodity Credit Corporation
 
 The Secretary shall carry out this subchapter through the use of the funds, facilities, and authorities of the Commodity Credit Corporation.
 
-(Oct. 31, 1949, ch. 792, title VI, § 608, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 930.)
+(Oct. 31, 1949, ch. 792, title VI, § 608, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 930.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5506,7 +5506,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
-### § 1471g. Benefits limitation
+### § 1471g. Benefits limitation
 
 **(a) Total amount of benefits**
 
@@ -5514,9 +5514,9 @@ The total amount of benefits that a person shall be entitled to receive annually
 
 **(b) Issuance of regulations** The Secretary shall issue regulations—
 
-**(1)** defining the term “person”, which shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308 of this title (before the amendment made by section 1603(a) 1
+**(1)** defining the term “person”, which shall conform, to the extent practicable, to the regulations defining the term “person” issued under section 1308 of this title (before the amendment made by section 1603(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Food, Conservation, and Energy Act of 2008), or successor statute;
 
@@ -5532,7 +5532,7 @@ No person may receive benefits under this subchapter attributable to lost produc
 
 Each person otherwise eligible for a livestock emergency benefit under this subchapter in 1988 shall be subject to the combined payment and benefits limitation established under section 211(c) of the Disaster Assistance Act of 1988.
 
-(Oct. 31, 1949, ch. 792, title VI, § 609, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 930; amended Pub. L. 110–234, title I, § 1603(g)(2), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, § 4(a), title I, § 1603(g)(2), June 18, 2008, 122 Stat. 1664, 1739; Pub. L. 113–79, title I, § 1609(b)(1), Feb. 7, 2014, 128 Stat. 709.)
+(Oct. 31, 1949, ch. 792, title VI, § 609, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 930; amended Pub. L. 110–234, title I, § 1603(g)(2), May 22, 2008, 122 Stat. 1011; Pub. L. 110–246, § 4(a), title I, § 1603(g)(2), June 18, 2008, 122 Stat. 1664, 1739; Pub. L. 113–79, title I, § 1609(b)(1), Feb. 7, 2014, 128 Stat. 709.)
 
 **Editorial Notes**
 
@@ -5548,15 +5548,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2014—Subsec. (b)(1). Pub. L. 113–79, § 1609(b)(1), amended language inserted by Pub. L. 110–246, § 1603(g)(2). See 2008 Amendment note below.
+2014—Subsec. (b)(1). Pub. L. 113–79, § 1609(b)(1), amended language inserted by Pub. L. 110–246, § 1603(g)(2). See 2008 Amendment note below.
 
-2008—Subsec. (b)(1). Pub. L. 110–246, § 1603(g)(2), as amended by Pub. L. 113–79, § 1609(b)(1), inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of this title”.
+2008—Subsec. (b)(1). Pub. L. 110–246, § 1603(g)(2), as amended by Pub. L. 113–79, § 1609(b)(1), inserted “(before the amendment made by section 1603(a) of the Food, Conservation, and Energy Act of 2008)” after “section 1308 of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–79, title I, § 1609(b)(2), Feb. 7, 2014, 128 Stat. 709, provided that: “This subsection [amending this section, sections 1524 and 8204 of this title, section 2106a of Title 16, Conservation, and section 2401 of Title 19, Customs Duties] and the amendments made by this subsection take effect as if included in the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 1651 [see Effective Date of 2008 Amendment note below]).”
+Pub. L. 113–79, title I, § 1609(b)(2), Feb. 7, 2014, 128 Stat. 709, provided that: “This subsection [amending this section, sections 1524 and 8204 of this title, section 2106a of Title 16, Conservation, and section 2401 of Title 19, Customs Duties] and the amendments made by this subsection take effect as if included in the Food, Conservation, and Energy Act of 2008 (Public Law 110–246; 122 Stat. 1651 [see Effective Date of 2008 Amendment note below]).”
 
 **Effective Date of 2008 Amendment**
 
@@ -5576,7 +5576,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
-### § 1471h. Ineligibility
+### § 1471h. Ineligibility
 
 **(a)** Any person that has qualifying gross revenues in excess of $2,500,000 annually, as determined by the Secretary, shall not be eligible to receive any livestock emergency benefits under this subchapter.
 
@@ -5586,7 +5586,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 **(2)** if less than a majority of the person’s annual income is received from farming and ranching operations, the person’s gross revenue from all sources.
 
-(Oct. 31, 1949, ch. 792, title VI, § 610, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 931.)
+(Oct. 31, 1949, ch. 792, title VI, § 610, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 931.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5604,7 +5604,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
-### § 1471i. Administration
+### § 1471i. Administration
 
 **(a) Regulations**
 
@@ -5618,7 +5618,7 @@ Such regulations shall establish procedures to ensure that the request for assis
 
 For purposes of this subchapter, indigenous plants available to a livestock producer but not normally consumed by livestock as feed, such as cactus, may not be considered as feed on hand for such producers.
 
-(Oct. 31, 1949, ch. 792, title VI, § 611, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 931.)
+(Oct. 31, 1949, ch. 792, title VI, § 611, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 931.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5636,11 +5636,11 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
-### § 1471j. Penalties
+### § 1471j. Penalties
 
 A person that disposes of any feed made available to a livestock producer under this subchapter other than as authorized by the Secretary shall be (1) subject to a civil penalty equal to the market value of the feed involved, to be recovered by the Secretary in a civil suit brought for that purpose, and (2) guilty of a misdemeanor and, on conviction thereof, subject to a fine of not more than $1,000, or imprisonment for not more than one year, or both.
 
-(Oct. 31, 1949, ch. 792, title VI, § 612, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 931.)
+(Oct. 31, 1949, ch. 792, title VI, § 612, as added Pub. L. 100–387, title I, § 101(a), Aug. 11, 1988, 102 Stat. 931.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5658,7 +5658,7 @@ Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts,
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
-### § 1472. Assistance for livestock producers
+### § 1472. Assistance for livestock producers
 
 **(a) Definition of livestock**
 
@@ -5686,7 +5686,7 @@ The Secretary may not use the funds of the Commodity Credit Corporation to provi
 
 There is authorized to be appropriated to the Secretary such sums as may be necessary to carry out this section.
 
-(Pub. L. 107–171, title X, § 10104, May 13, 2002, 116 Stat. 488; Pub. L. 108–447, div. A, title VII, § 785(b)(2), Dec. 8, 2004, 118 Stat. 2850; Pub. L. 109–97, title VII, § 784(b)(3), Nov. 10, 2005, 119 Stat. 2162.)
+(Pub. L. 107–171, title X, § 10104, May 13, 2002, 116 Stat. 488; Pub. L. 108–447, div. A, title VII, § 785(b)(2), Dec. 8, 2004, 118 Stat. 2850; Pub. L. 109–97, title VII, § 784(b)(3), Nov. 10, 2005, 119 Stat. 2162.)
 
 **Editorial Notes**
 

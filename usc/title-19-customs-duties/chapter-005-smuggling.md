@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 5—SMUGGLING
 
-## § 1701. Customs-enforcement area
+## § 1701. Customs-enforcement area
 
 **(a) Establishment; extent and duration; enforcement of laws applicable to waters adjacent to customs waters**
 
@@ -25,7 +25,7 @@ Whenever the President finds and declares that at any place or within any area o
 
 At any place within a customs-enforcement area the several officers of the customs may go on board of any vessel and examine the vessel and any merchandise or person on board, and bring the same into port, and, subject to regulations of the Secretary of the Treasury, it shall be their duty to pursue and seize or arrest and otherwise enforce upon such vessel, merchandise, or person, the provisions of law which are made effective thereto in pursuance of subsection (a) in the same manner as such officers are or may be authorized or required to do in like case at any place in the United States by virtue of any law respecting the revenue: *Provided,* That nothing contained in this section or in any other provision of law respecting the revenue shall be construed to authorize or to require any officer of the United States to enforce any law thereof upon the high seas upon a foreign vessel in contravention of any treaty with a foreign government enabling or permitting the authorities of the United States to board, examine, search, seize, or otherwise to enforce upon such vessel upon the high seas the laws of the United States except as such authorities are or may otherwise be enabled or permitted under special arrangement with such foreign government: *Provided further,* That none of the provisions of this Act shall be construed to relieve the Secretary of Commerce of any authority, responsibility, or jurisdiction now vested in or imposed on that officer.
 
-(Aug. 5, 1935, ch. 438, title I, § 1, 49 Stat. 517.)
+(Aug. 5, 1935, ch. 438, title I, § 1, 49 Stat. 517.)
 
 **Editorial Notes**
 
@@ -37,13 +37,13 @@ This Act, referred to in text, means act Aug. 5, 1935, which enacted this chapte
 
 **Delegation of Functions**
 
-For delegation to Secretary of the Treasury of authority vested in President by this section, see Ex. Ord. No. 10289, § 1(b), Sept. 17, 1951, 16 F.R. 9499, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of the Treasury of authority vested in President by this section, see Ex. Ord. No. 10289, § 1(b), Sept. 17, 1951, 16 F.R. 9499, set out as a note under section 301 of Title 3, The President.
 
-## § 1702. Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948
+## § 1702. Repealed. June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948
 
-Section, act Aug. 5, 1935, ch. 438, title I, § 2, 49 Stat. 518, related to smuggling into territory of a foreign government. See section 546 of Title 18, Crimes and Criminal Procedure.
+Section, act Aug. 5, 1935, ch. 438, title I, § 2, 49 Stat. 518, related to smuggling into territory of a foreign government. See section 546 of Title 18, Crimes and Criminal Procedure.
 
-## § 1703. Seizure and forfeiture of vessels
+## § 1703. Seizure and forfeiture of vessels
 
 **(a) Vessels subject to seizure and forfeiture**
 
@@ -57,27 +57,27 @@ Every vessel which is documented, owned, or controlled in the United States, and
 
 For the purposes of this section, the fact that a vessel has become subject to pursuit as provided in section 1581 of this title, or is a hovering vessel, or that a vessel fails, at any place within the customs waters of the United States or within a customs-enforcement area, to display lights as required by law, shall be prima facie evidence that such vessel is being, or has been, or is attempted to be employed to defraud the revenue of the United States.
 
-(Aug. 5, 1935, ch. 438, title I, § 3, 49 Stat. 518.)
+(Aug. 5, 1935, ch. 438, title I, § 3, 49 Stat. 518.)
 
-## § 1704. Refusal or revocation of registry, enrollment, license or number on evidence that vessel engaging in smuggling; appeal; immunity from liability
+## § 1704. Refusal or revocation of registry, enrollment, license or number on evidence that vessel engaging in smuggling; appeal; immunity from liability
 
-Subject to appeal to the Secretary of the Treasury and under such regulations as he may prescribe, when the Secretary of Transportation is shown upon evidence which he deems sufficient that such vessel is being, or is intended to be, employed to smuggle, transport, or otherwise assist in the unlawful introduction or importation into the United States of any merchandise or person, or to smuggle any merchandise into the territory of any foreign government in violation of the laws there in force, if under the laws of such foreign government any penalty or forfeiture is provided for violation of the laws of the United States respecting the customs revenue, or whenever, from the design or fittings of any vessel or the nature of any repairs made thereon, it is apparent to the Secretary of Transportation that such vessel has been built or adapted for the purpose of smuggling merchandise, the the 1
+Subject to appeal to the Secretary of the Treasury and under such regulations as he may prescribe, when the Secretary of Transportation is shown upon evidence which he deems sufficient that such vessel is being, or is intended to be, employed to smuggle, transport, or otherwise assist in the unlawful introduction or importation into the United States of any merchandise or person, or to smuggle any merchandise into the territory of any foreign government in violation of the laws there in force, if under the laws of such foreign government any penalty or forfeiture is provided for violation of the laws of the United States respecting the customs revenue, or whenever, from the design or fittings of any vessel or the nature of any repairs made thereon, it is apparent to the Secretary of Transportation that such vessel has been built or adapted for the purpose of smuggling merchandise, the the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Secretary of Transportation shall revoke any endorsement on the vessel’s certificate of documentation or number (when the Secretary is the authority issuing the number under chapter 123 of title 46) or refuse the same if application be made therefor, as the case may be. The Secretary of Transportation and all persons acting by or under his direction shall be indemnified from any penalties or actions for damages for carrying out the provisions of this section.
 
-(Aug. 5, 1935, ch. 438, title I, § 4, 49 Stat. 519; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 103–182, title VI, § 689(b), Dec. 8, 1993, 107 Stat. 2222.)
+(Aug. 5, 1935, ch. 438, title I, § 4, 49 Stat. 519; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 103–182, title VI, § 689(b), Dec. 8, 1993, 107 Stat. 2222.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Pub. L. 103–182, § 689(b)(4), substituted “The Secretary of Transportation and all persons” for “Such collector and all persons”.
+1993—Pub. L. 103–182, § 689(b)(4), substituted “The Secretary of Transportation and all persons” for “Such collector and all persons”.
 
-Pub. L. 103–182, § 689(b)(3), which directed the substitution of “the Secretary of Transportation shall revoke any endorsement on the vessel’s certificate of documentation or number (when the Secretary is the authority issuing the number under chapter 123 of title 46)” for “said collector shall revoke the registry, enrollment, license, or number of such vessel”, was executed by making the substitution in text which read “said vessel” rather than “such vessel”, to reflect the probable intent of Congress.
+Pub. L. 103–182, § 689(b)(3), which directed the substitution of “the Secretary of Transportation shall revoke any endorsement on the vessel’s certificate of documentation or number (when the Secretary is the authority issuing the number under chapter 123 of title 46)” for “said collector shall revoke the registry, enrollment, license, or number of such vessel”, was executed by making the substitution in text which read “said vessel” rather than “such vessel”, to reflect the probable intent of Congress.
 
-Pub. L. 103–182, § 689(b)(1), (2), substituted “when the Secretary of Transportation” for “whenever the collector of customs of the district in which any vessel is, or is sought to be, registered, enrolled, licensed, or numbered,” and “is apparent to the Secretary of Transportation” for “is apparent to such collector”.
+Pub. L. 103–182, § 689(b)(1), (2), substituted “when the Secretary of Transportation” for “whenever the collector of customs of the district in which any vessel is, or is sought to be, registered, enrolled, licensed, or numbered,” and “is apparent to the Secretary of Transportation” for “is apparent to such collector”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -91,27 +91,27 @@ Coast Guard transferred to Department of Transportation and functions, powers, a
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1, of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under section 1 of this title.
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Under the Plan, collectors of customs and Commandant of Coast Guard were officers of Department of the Treasury, but, in case of Coast Guard, and Commandant thereof, the Plan provided that, notwithstanding transfer of functions, Coast Guard should continue to operate as a part of Navy, subject to orders of Secretary of the Navy, in time of war or when President directed, as provided in former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Under the Plan, collectors of customs and Commandant of Coast Guard were officers of Department of the Treasury, but, in case of Coast Guard, and Commandant thereof, the Plan provided that, notwithstanding transfer of functions, Coast Guard should continue to operate as a part of Navy, subject to orders of Secretary of the Navy, in time of war or when President directed, as provided in former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
 “Secretary of the Treasury” substituted in text for “Secretary of Commerce” and functions under this section relating to the numbering of vessels vested in Commandant of Coast Guard instead of collectors of customs on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 
-## § 1705. Destruction of forfeited vessel or vehicle
+## § 1705. Destruction of forfeited vessel or vehicle
 
 Any vessel or vehicle forfeited to the United States, whether summarily or by a decree of any court, for violation of any law respecting the revenue, may, in the discretion of the Secretary of the Treasury, if he deems it necessary to protect the revenue of the United States, be destroyed in lieu of the sale thereof under existing law.
 
-(Aug. 5, 1935, ch. 438, title I, § 5, 49 Stat. 519.)
+(Aug. 5, 1935, ch. 438, title I, § 5, 49 Stat. 519.)
 
-## § 1706. Importation in vessels under thirty tons and aircraft; licenses; labels as prima facie evidence of foreign origin of merchandise
+## § 1706. Importation in vessels under thirty tons and aircraft; licenses; labels as prima facie evidence of foreign origin of merchandise
 
 Except into the districts adjoining to the Dominion of Canada, or into the districts adjacent to Mexico, no merchandise of foreign growth or manufacture subject to the payment of duties shall be brought into the United States from any foreign port or place, or from any hovering vessel, in any vessel of less than thirty net tons burden without special license granted by the Secretary of the Treasury under such conditions as he may prescribe, nor in any other manner than by sea, except by aircraft duly licensed in accordance with law, or landed or unladen at any other port than is directed by law, under the penalty of seizure and forfeiture of all such unlicensed vessels or aircraft and of the merchandise imported therein, landed or unladen in any manner. Marks, labels, brands, or stamps, indicative of foreign origin, upon or accompanying merchandise or containers of merchandise found upon any such vessel or aircraft, shall be prima facie evidence of the foreign origin of such merchandise.
 
-(Aug. 5, 1935, ch. 438, title I, § 6, 49 Stat. 519.)
+(Aug. 5, 1935, ch. 438, title I, § 6, 49 Stat. 519.)
 
-## § 1706a. Civil penalties for trading without required certificate of documentation
+## § 1706a. Civil penalties for trading without required certificate of documentation
 
 Whenever a vessel, entitled to be documented and not so documented, is employed in a trade for which certificates of documentation are issued under the vessel documentation laws, other than a trade covered by a registry, the vessel is liable to a civil penalty of $500 for each port at which it arrives without the proper certificate of documentation, and if it has on board any merchandise of foreign growth or manufacture (sea stores excepted), or any taxable domestic spirits, wines, or other alcoholic liquors, on which the duties or taxes have not been paid or secured to be paid, the vessel, together with its equipment and cargo, is liable to seizure and forfeiture. Marks, labels, brands, or stamps, indicative of foreign origin, upon or accompanying merchandise or containers of merchandise found on board such vessel, shall be prima facie evidence of the foreign origin of such merchandise.
 
-(June 19, 1886, ch. 421, § 7, 24 Stat. 81; Aug. 5, 1935, ch. 438, title III, § 314, 49 Stat. 529; Pub. L. 96–594, title I, § 126(e), Dec. 24, 1980, 94 Stat. 3459.)
+(June 19, 1886, ch. 421, § 7, 24 Stat. 81; Aug. 5, 1935, ch. 438, title III, § 314, 49 Stat. 529; Pub. L. 96–594, title I, § 126(e), Dec. 24, 1980, 94 Stat. 3459.)
 
 **Editorial Notes**
 
@@ -131,11 +131,11 @@ Section was classified to section 319 of the former Appendix to Title 46, Shippi
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–594, title I, § 128, Dec. 24, 1980, 94 Stat. 3461, provided in part that the amendment made by Pub. L. 96–594 is effective on first day of eighteenth month following December 1980.
+Pub. L. 96–594, title I, § 128, Dec. 24, 1980, 94 Stat. 3461, provided in part that the amendment made by Pub. L. 96–594 is effective on first day of eighteenth month following December 1980.
 
-## § 1707. Repealed. Pub. L. 104–295, § 3(a)(2), Oct. 11, 1996, 110 Stat. 3515
+## § 1707. Repealed. Pub. L. 104–295, § 3(a)(2), Oct. 11, 1996, 110 Stat. 3515
 
-Section, act Aug. 5, 1935, ch. 438, title I, § 7, 49 Stat. 520, required certificate for importation of alcoholic liquors in small vessels, provided for issuance of bond where liquor was destined for foreign port, and authorized penalties for failure to carry certificate unless lost, mislaid without fraud, defaced by accident, or incorrect by reason of clerical error or other mistake.
+Section, act Aug. 5, 1935, ch. 438, title I, § 7, 49 Stat. 520, required certificate for importation of alcoholic liquors in small vessels, provided for issuance of bond where liquor was destined for foreign port, and authorized penalties for failure to carry certificate unless lost, mislaid without fraud, defaced by accident, or incorrect by reason of clerical error or other mistake.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -143,11 +143,11 @@ Section, act Aug. 5, 1935, ch. 438, title I, § 7, 49 Stat. 520, required cert
 
 Repeal of section applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as an Effective Date of 1996 Amendment note under section 1321 of this title.
 
-## § 1708. Repealed. Pub. L. 106–36, title I, § 1001(b)(6), June 25, 1999, 113 Stat. 132
+## § 1708. Repealed. Pub. L. 106–36, title I, § 1001(b)(6), June 25, 1999, 113 Stat. 132
 
-Section, act Aug. 5, 1935, ch. 438, title I, § 8, 49 Stat. 520, related to lading vessel in foreign port with liquor for importation.
+Section, act Aug. 5, 1935, ch. 438, title I, § 8, 49 Stat. 520, related to lading vessel in foreign port with liquor for importation.
 
-## § 1709. Definitions
+## § 1709. Definitions
 
 When used in this Act:
 
@@ -159,7 +159,7 @@ When used in this Act:
 
 **(d)** The term “hovering vessel” means any vessel which is found or kept off the coast of the United States within or without the customs waters, if, from the history, conduct, character, or location of the vessel, it is reasonable to believe that such vessel is being used or may be used to introduce or promote or facilitate the introduction or attempted introduction of merchandise into the United States in violation of the laws respecting the revenue.
 
-(Aug. 5, 1935, ch. 438, title IV, § 401, 49 Stat. 529; June 25, 1938, ch. 679, § 2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, § 2(b), 69 Stat. 242.)
+(Aug. 5, 1935, ch. 438, title IV, § 401, 49 Stat. 529; June 25, 1938, ch. 679, § 2, 52 Stat. 1077; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1955, ch. 258, § 2(b), 69 Stat. 242.)
 
 **Editorial Notes**
 
@@ -203,13 +203,13 @@ Coast Guard transferred to Department of Transportation and functions, powers, a
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1, of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out as a note under section 1, of this title.
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Under the Plan, collectors of customs and Commandant of Coast Guard were officers of Department of the Treasury, but, in case of Coast Guard and Commandant thereof, the Plan provided that, notwithstanding transfer of functions, Coast Guard should continue to operate as a part of Navy, subject to orders of Secretary of the Navy, in time of war or when President directed, as provided in former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Under the Plan, collectors of customs and Commandant of Coast Guard were officers of Department of the Treasury, but, in case of Coast Guard and Commandant thereof, the Plan provided that, notwithstanding transfer of functions, Coast Guard should continue to operate as a part of Navy, subject to orders of Secretary of the Navy, in time of war or when President directed, as provided in former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-## § 1710. Separability
+## § 1710. Separability
 
 If any clause, sentence, paragraph, or part of this Act, or the application thereof to any person, or circumstances, is held invalid, the application thereof to other persons, or circumstances, and the remainder of the Act, shall not be affected thereby.
 
-(Aug. 5, 1935, ch. 438, title IV, § 402, 49 Stat. 529.)
+(Aug. 5, 1935, ch. 438, title IV, § 402, 49 Stat. 529.)
 
 **Editorial Notes**
 
@@ -217,11 +217,11 @@ If any clause, sentence, paragraph, or part of this Act, or the application ther
 
 This Act, referred to in text, means act Aug. 5, 1935, which enacted this chapter and sections 1432a and 1601a of this title and amended sections 70, 483, 1401, 1434, 1436, 1441, 1581, 1584, 1585, 1586, 1587, 1591, 1592, 1615, 1619, 1621 of this title, sections 60, 106, and 288 of former Title 46, Shipping, and sections 91, 277, 319, 325 of former Title 46, Appendix. For complete classification of this Act to the Code, see Tables.
 
-## § 1711. Citation of chapter
+## § 1711. Citation of chapter
 
 This Act may be cited as the “Anti-Smuggling Act”.
 
-(Aug. 5, 1935, ch. 438, title IV, § 403, 49 Stat. 529.)
+(Aug. 5, 1935, ch. 438, title IV, § 403, 49 Stat. 529.)
 
 **Editorial Notes**
 

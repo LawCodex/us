@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title V, § 513(a)(2), Jan. 1, 2021, 134 Stat. 3588, added item 2036.
+2021—Pub. L. 116–283, div. A, title V, § 513(a)(2), Jan. 1, 2021, 134 Stat. 3588, added item 2036.
 
-2018—Pub. L. 115–232, div. A, title V, § 557(a)(2), Aug. 13, 2018, 132 Stat. 1774, added item 2035.
+2018—Pub. L. 115–232, div. A, title V, § 557(a)(2), Aug. 13, 2018, 132 Stat. 1774, added item 2035.
 
-2013—Pub. L. 112–239, div. A, title V, § 552(c)(1), Jan. 2, 2013, 126 Stat. 1741, added item 2034.
+2013—Pub. L. 112–239, div. A, title V, § 552(c)(1), Jan. 2, 2013, 126 Stat. 1741, added item 2034.
 
-2006—Pub. L. 109–364, div. A, title V, § 539(b), Oct. 17, 2006, 120 Stat. 2211, added item 2033.
+2006—Pub. L. 109–364, div. A, title V, § 539(b), Oct. 17, 2006, 120 Stat. 2211, added item 2033.
 
-2001—Pub. L. 107–107, div. A, title V, § 596(c)(2), Dec. 28, 2001, 115 Stat. 1127, struck out item 2033 “Contingent funding increase”.
+2001—Pub. L. 107–107, div. A, title V, § 596(c)(2), Dec. 28, 2001, 115 Stat. 1127, struck out item 2033 “Contingent funding increase”.
 
-1999—Pub. L. 106–65, div. A, title V, § 547(a)(2), Oct. 5, 1999, 113 Stat. 609, added item 2033.
+1999—Pub. L. 106–65, div. A, title V, § 547(a)(2), Oct. 5, 1999, 113 Stat. 609, added item 2033.
 
-1997—Pub. L. 105–85, div. A, title V, § 546(b), Nov. 18, 1997, 111 Stat. 1747, added item 2032.
+1997—Pub. L. 105–85, div. A, title V, § 546(b), Nov. 18, 1997, 111 Stat. 1747, added item 2032.
 
-1964—Pub. L. 88–647, title I, § 101(1), Oct. 13, 1964, 78 Stat. 1063, added item 2031 and chapter heading.
+1964—Pub. L. 88–647, title I, § 101(1), Oct. 13, 1964, 78 Stat. 1063, added item 2031 and chapter heading.
 
-## § 2031. Junior Reserve Officers’ Training Corps
+## § 2031. Junior Reserve Officers’ Training Corps
 
 **(a)**
 
@@ -213,99 +213,99 @@ retrieved: 2026-10-11
 
 **(4)** The Secretary shall annually report to the Committees on Armed Services of the Senate and the House of Representatives regarding compliance with this subsection by the Junior Reserve Officers’ Training Corps programs, including an up-to-date report on the Secretary’s monitoring of such compliance.
 
-(Added Pub. L. 88–647, title I, § 101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, § 16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, § 3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, § 807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, § 422, title XIV, § 1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, § 7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, § 533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, § 1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, § 537, Dec. 28, 2001, 115 Stat. 1107; Pub. L. 109–364, div. A, title V, § 540, Oct. 17, 2006, 120 Stat. 2211; Pub. L. 110–181, div. A, title VI, § 635, Jan. 28, 2008, 122 Stat. 155; Pub. L. 116–92, div. A, title V, §§ 511, 512(a), 513, Dec. 20, 2019, 133 Stat. 1348; Pub. L. 116–283, div. A, title V, § 512, Jan. 1, 2021, 134 Stat. 3587; Pub. L. 117–263, div. A, title V, § 512(a), Dec. 23, 2022, 136 Stat. 2564; Pub. L. 118–31, div. A, title V, §§ 551–553(a), 554, 555(a), 556, Dec. 22, 2023, 137 Stat. 269–272; Pub. L. 118–159, div. A, title V, §§ 542–545(a), title XVII, § 1701(a)(25), Dec. 23, 2024, 138 Stat. 1892, 1893, 2204; Pub. L. 119–60, div. A, title V, §§ 541, 542(a), (c), Dec. 18, 2025, 139 Stat. 872, 873.)
+(Added Pub. L. 88–647, title I, § 101(1), Oct. 13, 1964, 78 Stat. 1063; amended Pub. L. 89–718, § 16, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 90–83, § 3(4), Sept. 11, 1967, 81 Stat. 220; Pub. L. 93–165, Nov. 29, 1973, 87 Stat. 660; Pub. L. 94–361, title VIII, § 807, July 14, 1976, 90 Stat. 933; Pub. L. 95–358, Sept. 8, 1978, 92 Stat. 592; Pub. L. 98–525, title IV, § 422, title XIV, § 1405(32), Oct. 19, 1984, 98 Stat. 2520, 2624; Pub. L. 100–26, § 7(i)(3), Apr. 21, 1987, 101 Stat. 282; Pub. L. 102–484, div. A, title V, § 533(a)–(e)(1), Oct. 23, 1992, 106 Stat. 2411, 2412; Pub. L. 103–160, div. A, title XI, § 1182(g)(1), Nov. 30, 1993, 107 Stat. 1774; Pub. L. 107–107, div. A, title V, § 537, Dec. 28, 2001, 115 Stat. 1107; Pub. L. 109–364, div. A, title V, § 540, Oct. 17, 2006, 120 Stat. 2211; Pub. L. 110–181, div. A, title VI, § 635, Jan. 28, 2008, 122 Stat. 155; Pub. L. 116–92, div. A, title V, §§ 511, 512(a), 513, Dec. 20, 2019, 133 Stat. 1348; Pub. L. 116–283, div. A, title V, § 512, Jan. 1, 2021, 134 Stat. 3587; Pub. L. 117–263, div. A, title V, § 512(a), Dec. 23, 2022, 136 Stat. 2564; Pub. L. 118–31, div. A, title V, §§ 551–553(a), 554, 555(a), 556, Dec. 22, 2023, 137 Stat. 269–272; Pub. L. 118–159, div. A, title V, §§ 542–545(a), title XVII, § 1701(a)(25), Dec. 23, 2024, 138 Stat. 1892, 1893, 2204; Pub. L. 119–60, div. A, title V, §§ 541, 542(a), (c), Dec. 18, 2025, 139 Stat. 872, 873.)
 
 **Amendment of Subsection (i)**
 
-Pub. L. 119–60, div. A, title V, § 542(a), (b), Dec. 18, 2025, 139 Stat. 873, provided that, effective on Oct. 1, 2027, subsection (i) of this section is amended by striking “support not fewer than 3,400, and not more than 4,000, units” and inserting “support not fewer than 3,600, and not more than 4,200, units”. See 2025 Amendment note below.
+Pub. L. 119–60, div. A, title V, § 542(a), (b), Dec. 18, 2025, 139 Stat. 873, provided that, effective on Oct. 1, 2027, subsection (i) of this section is amended by striking “support not fewer than 3,400, and not more than 4,000, units” and inserting “support not fewer than 3,600, and not more than 4,200, units”. See 2025 Amendment note below.
 
 **Editorial Notes**
 
 **References in Text**
 
-The Education Amendments of 1972, referred to in subsecs. (b)(2)(E)(i) and (j)(2)(A), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsecs. (b)(2)(E)(i) and (j)(2)(A), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(2)(E)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(2)(E)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 Section 1260H(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (g)(4), is section 1260H(a) of Pub. L. 116–283, which is set out as a note under section 113 of this title.
 
 **Amendments**
 
-2025—Subsec. (d)(3). Pub. L. 119–60, § 541, added par. (3).
+2025—Subsec. (d)(3). Pub. L. 119–60, § 541, added par. (3).
 
-Subsec. (i). Pub. L. 119–60, § 542(c), repealed Pub. L. 118–159, § 545(a). See 2024 Amendment note below.
+Subsec. (i). Pub. L. 119–60, § 542(c), repealed Pub. L. 118–159, § 545(a). See 2024 Amendment note below.
 
-Pub. L. 119–60, § 542(a), substituted “support not fewer than 3,600, and not more than 4,200, units” for “support not fewer than 3,400, and not more than 4,000, units”.
+Pub. L. 119–60, § 542(a), substituted “support not fewer than 3,600, and not more than 4,200, units” for “support not fewer than 3,400, and not more than 4,000, units”.
 
-2024—Subsec. (a)(1). Pub. L. 118–159, § 542(1), inserted “, including Job Corps centers as defined in section 147 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3197),” after “secondary educational institutions”.
+2024—Subsec. (a)(1). Pub. L. 118–159, § 542(1), inserted “, including Job Corps centers as defined in section 147 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3197),” after “secondary educational institutions”.
 
-Subsec. (b)(1)(A). Pub. L. 118–159, § 543, substituted “is—” for “is not less than (i) 10 percent of the number of students enrolled in the institution who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit, or (ii) 100, whichever is less;” and added cls. (i) and (ii).
+Subsec. (b)(1)(A). Pub. L. 118–159, § 543, substituted “is—” for “is not less than (i) 10 percent of the number of students enrolled in the institution who are in a grade above the 7th grade and physically co-located with the 9th grade participating unit, or (ii) 100, whichever is less;” and added cls. (i) and (ii).
 
-Subsec. (b)(1)(C). Pub. L. 118–159, § 542(2), inserted “, or is a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3197)” after “military department concerned”.
+Subsec. (b)(1)(C). Pub. L. 118–159, § 542(2), inserted “, or is a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3197)” after “military department concerned”.
 
-Subsec. (b)(1)(E). Pub. L. 118–159, § 1701(a)(25)(A)(i), struck out second period at end.
+Subsec. (b)(1)(E). Pub. L. 118–159, § 1701(a)(25)(A)(i), struck out second period at end.
 
-Subsec. (b)(2)(E)(vi). Pub. L. 118–159, § 1701(a)(25)(A)(ii), which directed substitution of “report under subsection (j)” for “report under subsection (i)”, was executed by making the substitution for “report required under subsection (i)”, to reflect the probable intent of Congress.
+Subsec. (b)(2)(E)(vi). Pub. L. 118–159, § 1701(a)(25)(A)(ii), which directed substitution of “report under subsection (j)” for “report under subsection (i)”, was executed by making the substitution for “report required under subsection (i)”, to reflect the probable intent of Congress.
 
-Subsec. (c)(4). Pub. L. 118–159, § 544, added par. (4).
+Subsec. (c)(4). Pub. L. 118–159, § 544, added par. (4).
 
-Subsec. (i). Pub. L. 118–159, § 545(a), which directed the substitution of “support not fewer than 3,500, and not more than 4,100, units” for “support not fewer than 3,400, and not more than 4,000, units”, was repealed by Pub. L. 119–60, § 542(c).
+Subsec. (i). Pub. L. 118–159, § 545(a), which directed the substitution of “support not fewer than 3,500, and not more than 4,100, units” for “support not fewer than 3,400, and not more than 4,000, units”, was repealed by Pub. L. 119–60, § 542(c).
 
-Subsec. (j). Pub. L. 118–159, § 1701(a)(25)(B), redesignated second subsec. (i), relating to Junior Reserve Officers’ Training Corps programs, as (j).
+Subsec. (j). Pub. L. 118–159, § 1701(a)(25)(B), redesignated second subsec. (i), relating to Junior Reserve Officers’ Training Corps programs, as (j).
 
-2023—Subsec. (a)(1). Pub. L. 118–31, § 551(1)(B), which directed substitution of “maintained.” for “ ‘maintained, and shall provide’ and all that follows through the period at the end”, was executed by making the substitution for “maintained and shall provide for the fair and equitable distribution of such units throughout the Nation, except that more than one such unit may be established and maintained at any military institute.”, to reflect the probable intent of Congress.
+2023—Subsec. (a)(1). Pub. L. 118–31, § 551(1)(B), which directed substitution of “maintained.” for “ ‘maintained, and shall provide’ and all that follows through the period at the end”, was executed by making the substitution for “maintained and shall provide for the fair and equitable distribution of such units throughout the Nation, except that more than one such unit may be established and maintained at any military institute.”, to reflect the probable intent of Congress.
 
-Pub. L. 118–31, § 551(1)(A), substituted “The Secretary of Defense shall promulgate” for “The President shall promulgate”.
+Pub. L. 118–31, § 551(1)(A), substituted “The Secretary of Defense shall promulgate” for “The President shall promulgate”.
 
-Subsec. (b). Pub. L. 118–31, § 552, designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), redesignated subpars. (A) and (B) of former par. (1) as cls. (i) and (ii) respectively, of subpar. (A), in subpar. (E), substituted “as the Secretary of the military department concerned prescribes in the memorandum of understanding required under paragraph (2).” for “as may be established by the Secretary of the military department concerned”, and added par. (2).
+Subsec. (b). Pub. L. 118–31, § 552, designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), redesignated subpars. (A) and (B) of former par. (1) as cls. (i) and (ii) respectively, of subpar. (A), in subpar. (E), substituted “as the Secretary of the military department concerned prescribes in the memorandum of understanding required under paragraph (2).” for “as may be established by the Secretary of the military department concerned”, and added par. (2).
 
-Subsec. (d). Pub. L. 118–31, § 553(a)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) authorized employment of retired officers and noncommissioned officers who are in receipt of retired pay and members of the Fleet Reserve and Fleet Marine Corps Reserve as administrators and instructors.
+Subsec. (d). Pub. L. 118–31, § 553(a)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) authorized employment of retired officers and noncommissioned officers who are in receipt of retired pay and members of the Fleet Reserve and Fleet Marine Corps Reserve as administrators and instructors.
 
-Subsecs. (e), (f). Pub. L. 118–31, § 553(a)(2), (3), redesignated subsecs. (g) and (h) as (e) and (f), respectively, and struck out former subsecs. (e) and (f) which authorized employment as administrators and instructors officers or noncommissioned officers who are under 60 years of age and who, but for age, would be eligible for retired pay for non-regular service and officers or noncommissioned officers who receive certain honorable discharges and are in active status.
+Subsecs. (e), (f). Pub. L. 118–31, § 553(a)(2), (3), redesignated subsecs. (g) and (h) as (e) and (f), respectively, and struck out former subsecs. (e) and (f) which authorized employment as administrators and instructors officers or noncommissioned officers who are under 60 years of age and who, but for age, would be eligible for retired pay for non-regular service and officers or noncommissioned officers who receive certain honorable discharges and are in active status.
 
-Subsec. (g). Pub. L. 118–31, § 554, which directed the addition of subsec. (g) at the end of this section, was executed by adding subsec. (g) after subsec. (f) to reflect the probable intent of Congress and the addition of subsec. (i), relating to number of units of the Junior Reserve Officers’ Training Corps required to be established and supported, by section 551(2) of Pub. L. 118–31. Former subsec. (g) redesignated (e).
+Subsec. (g). Pub. L. 118–31, § 554, which directed the addition of subsec. (g) at the end of this section, was executed by adding subsec. (g) after subsec. (f) to reflect the probable intent of Congress and the addition of subsec. (i), relating to number of units of the Junior Reserve Officers’ Training Corps required to be established and supported, by section 551(2) of Pub. L. 118–31. Former subsec. (g) redesignated (e).
 
-Subsec. (h). Pub. L. 118–31, § 555(a), which directed the addition of subsec. (h) at the end of this section, was executed by adding subsec. (h) after subsec. (g) to reflect the probable intent of Congress and the addition of subsec. (i), relating to number of units of the Junior Reserve Officers’ Training Corps required to be established and supported, by section 551(2) of Pub. L. 118–31. Former subsec. (h) redesignated (f).
+Subsec. (h). Pub. L. 118–31, § 555(a), which directed the addition of subsec. (h) at the end of this section, was executed by adding subsec. (h) after subsec. (g) to reflect the probable intent of Congress and the addition of subsec. (i), relating to number of units of the Junior Reserve Officers’ Training Corps required to be established and supported, by section 551(2) of Pub. L. 118–31. Former subsec. (h) redesignated (f).
 
-Subsec. (i). Pub. L. 118–31, § 556, added subsec. (i) relating to annual report on allegations of sexual misconduct, sexual harassment, and sex discrimination in Junior Reserve Officers’ Training Corps programs.
+Subsec. (i). Pub. L. 118–31, § 556, added subsec. (i) relating to annual report on allegations of sexual misconduct, sexual harassment, and sex discrimination in Junior Reserve Officers’ Training Corps programs.
 
-Pub. L. 118–31, § 551(2), added subsec. (i) relating to number of units of the Junior Reserve Officers’ Training Corps required to be established and supported.
+Pub. L. 118–31, § 551(2), added subsec. (i) relating to number of units of the Junior Reserve Officers’ Training Corps required to be established and supported.
 
 2022—Subsecs. (f) to (h). Pub. L. 117–263 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 2021—Subsec. (a)(2). Pub. L. 116–283 inserted “(including an introduction to service opportunities in military, national, and public service)” after “service to the United States”.
 
-2019—Subsec. (b)(1). Pub. L. 116–92, § 511, substituted “above the 7th grade and physically co-located with the 9th grade participating unit” for “above the 8th grade” in two places.
+2019—Subsec. (b)(1). Pub. L. 116–92, § 511, substituted “above the 7th grade and physically co-located with the 9th grade participating unit” for “above the 8th grade” in two places.
 
-Subsec. (b)(3). Pub. L. 116–92, § 512(a), inserted “and which may include instruction or activities in the fields of science, technology, engineering, and mathematics” after “duration”.
+Subsec. (b)(3). Pub. L. 116–92, § 512(a), inserted “and which may include instruction or activities in the fields of science, technology, engineering, and mathematics” after “duration”.
 
-Subsec. (g). Pub. L. 116–92, § 513, added subsec. (g).
+Subsec. (g). Pub. L. 116–92, § 513, added subsec. (g).
 
 2008—Subsec. (f). Pub. L. 110–181 added subsec. (f).
 
-2006—Subsec. (d). Pub. L. 109–364, § 540(b), inserted “who are in receipt of retired pay” after “retired officers and noncommissioned officers” in introductory provisions.
+2006—Subsec. (d). Pub. L. 109–364, § 540(b), inserted “who are in receipt of retired pay” after “retired officers and noncommissioned officers” in introductory provisions.
 
-Subsec. (e). Pub. L. 109–364, § 540(a), added subsec. (e).
+Subsec. (e). Pub. L. 109–364, § 540(a), added subsec. (e).
 
 2001—Subsec. (a)(1). Pub. L. 107–107 struck out after first sentence “The total number of units which may be established and maintained by all of the military departments under authority of this section, including those units already established on October 13, 1964, may not exceed 3,500.”
 
 1993—Subsec. (a)(1). Pub. L. 103–160 substituted “The” for “Not more than 200 units may be established by all of the military departments each year, and the” in second sentence.
 
-1992—Subsec. (a). Pub. L. 102–484, § 533(a), (b), designated existing provisions as par. (1), substituted “3,500” for “1,600”, and added par. (2).
+1992—Subsec. (a). Pub. L. 102–484, § 533(a), (b), designated existing provisions as par. (1), substituted “3,500” for “1,600”, and added par. (2).
 
-Subsec. (b)(1). Pub. L. 102–484, § 533(c), substituted “in a grade above the 8th grade” for “at least 14 years of age” in two places and inserted “, or aliens lawfully admitted to the United States for permanent residence,” after “of the United States”.
+Subsec. (b)(1). Pub. L. 102–484, § 533(c), substituted “in a grade above the 8th grade” for “at least 14 years of age” in two places and inserted “, or aliens lawfully admitted to the United States for permanent residence,” after “of the United States”.
 
-Subsec. (c)(2). Pub. L. 102–484, § 533(d), inserted before semicolon “and, to the extent considered appropriate by the Secretary concerned, such additional resources (including transportation and billeting) as may be available to support activities of the program”.
+Subsec. (c)(2). Pub. L. 102–484, § 533(d), inserted before semicolon “and, to the extent considered appropriate by the Secretary concerned, such additional resources (including transportation and billeting) as may be available to support activities of the program”.
 
-Subsec. (d)(1). Pub. L. 102–484, § 533(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Retired members so employed are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between their retired pay and the active duty pay and allowances which they would receive if ordered to active duty, and one-half of that additional amount shall be paid to the institution concerned by the Secretary of the military department concerned from funds appropriated for that purpose.”
+Subsec. (d)(1). Pub. L. 102–484, § 533(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Retired members so employed are entitled to receive their retired or retainer pay and an additional amount of not more than the difference between their retired pay and the active duty pay and allowances which they would receive if ordered to active duty, and one-half of that additional amount shall be paid to the institution concerned by the Secretary of the military department concerned from funds appropriated for that purpose.”
 
 1987—Subsec. (a). Pub. L. 100–26 struck out “beginning with the calendar year 1966” after “each year” in second sentence.
 
-1984—Subsec. (a). Pub. L. 98–525, § 1405(32), substituted “October 13, 1964” for “the date of enactment of this section”.
+1984—Subsec. (a). Pub. L. 98–525, § 1405(32), substituted “October 13, 1964” for “the date of enactment of this section”.
 
-Subsec. (b)(1). Pub. L. 98–525, § 422(1), substituted “the number of physically fit students in such unit who are at least 14 years of age and are citizens or nationals of the United States is not less than (A) 10 percent of the number of students enrolled in the institution who are at least 14 years of age, or (B) 100, whichever is less” for “the unit contains at least 100 physically fit students who are at least 14 years of age and are citizens or nationals of the United States”.
+Subsec. (b)(1). Pub. L. 98–525, § 422(1), substituted “the number of physically fit students in such unit who are at least 14 years of age and are citizens or nationals of the United States is not less than (A) 10 percent of the number of students enrolled in the institution who are at least 14 years of age, or (B) 100, whichever is less” for “the unit contains at least 100 physically fit students who are at least 14 years of age and are citizens or nationals of the United States”.
 
-Subsec. (b)(5). Pub. L. 98–525, § 422(2)–(4), added par. (5).
+Subsec. (b)(5). Pub. L. 98–525, § 422(2)–(4), added par. (5).
 
 1978—Subsec. (b)(1). Pub. L. 95–358 inserted “or nationals” after “citizens”.
 
@@ -321,35 +321,35 @@ Subsec. (b)(5). Pub. L. 98–525, § 422(2)–(4), added par. (5).
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–60, div. A, title V, § 542(b), Dec. 18, 2025, 139 Stat. 873, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2027.”
+Pub. L. 119–60, div. A, title V, § 542(b), Dec. 18, 2025, 139 Stat. 873, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2027.”
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. A, title V, § 545(b), Dec. 23, 2024, 138 Stat. 1893, which provided that the amendment made by subsection (a) (amending this section) shall take effect on Oct. 1, 2026, was repealed by Pub. L. 119–60, div. A, title V, § 542(c), Dec. 18, 2025, 139 Stat. 873.
+Pub. L. 118–159, div. A, title V, § 545(b), Dec. 23, 2024, 138 Stat. 1893, which provided that the amendment made by subsection (a) (amending this section) shall take effect on Oct. 1, 2026, was repealed by Pub. L. 119–60, div. A, title V, § 542(c), Dec. 18, 2025, 139 Stat. 873.
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title V, § 512(b), Dec. 20, 2019, 133 Stat. 1348, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 180 days after the date of the enactment of this Act [Dec. 20, 2019].”
+Pub. L. 116–92, div. A, title V, § 512(b), Dec. 20, 2019, 133 Stat. 1348, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 180 days after the date of the enactment of this Act [Dec. 20, 2019].”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title V, § 533(e)(2), Oct. 23, 1992, 106 Stat. 2412, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to payments for periods of instructor service performed after September 30, 1992.”
+Pub. L. 102–484, div. A, title V, § 533(e)(2), Oct. 23, 1992, 106 Stat. 2412, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to payments for periods of instructor service performed after September 30, 1992.”
 
 **Short Title**
 
-Pub. L. 88–647, § 1, Oct. 13, 1964, 78 Stat. 1063, provided: “That the Act [enacting this chapter, and chapter 103 of this title, amending section 802 of former Title 5, sections 1475, 1478, 1481, 3201, 4348, 5404, 5504, 5652b, 6023, 6387, 6959, 8201, and 9348 of this title, and sections 205, 209, 415, 416 and 422 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 3355, 3540, 4381 to 4387, 6901 to 6906, 6908, 6910, 8355, 8540, and 9381 to 9387 of this title, and enacting provisions set out as notes under this section and section 2107 and former section 9385 of this title, may be cited as the ‘Reserve Officers’ Training Corps Vitalization Act of 1964’.”
+Pub. L. 88–647, § 1, Oct. 13, 1964, 78 Stat. 1063, provided: “That the Act [enacting this chapter, and chapter 103 of this title, amending section 802 of former Title 5, sections 1475, 1478, 1481, 3201, 4348, 5404, 5504, 5652b, 6023, 6387, 6959, 8201, and 9348 of this title, and sections 205, 209, 415, 416 and 422 of Title 37, Pay and Allowances of the Uniformed Services, repealing sections 3355, 3540, 4381 to 4387, 6901 to 6906, 6908, 6910, 8355, 8540, and 9381 to 9387 of this title, and enacting provisions set out as notes under this section and section 2107 and former section 9385 of this title, may be cited as the ‘Reserve Officers’ Training Corps Vitalization Act of 1964’.”
 
 **Issuance of Regulations**
 
-Pub. L. 88–647, title I, § 102, Oct. 13, 1964, 78 Stat. 1064, directed that regulations implementing subsec. (a) of this section be issued by President and by Secretary of each military department not later than Jan. 1, 1966.
+Pub. L. 88–647, title I, § 102, Oct. 13, 1964, 78 Stat. 1064, directed that regulations implementing subsec. (a) of this section be issued by President and by Secretary of each military department not later than Jan. 1, 1966.
 
 **Savings Clause**
 
-Pub. L. 88–647, title IV, § 402, Oct. 13, 1964, 78 Stat. 1074, provided that: “If a part of this Act [see Short Title note above] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.”
+Pub. L. 88–647, title IV, § 402, Oct. 13, 1964, 78 Stat. 1074, provided that: “If a part of this Act [see Short Title note above] is invalid, all valid parts that are severable from the invalid part remains in effect. If a part of this Act is invalid in one or more of its applications, the part remains in effect in all valid applications that are severable from the invalid applications.”
 
 **Temporary Authority To Provide Bonuses to Junior Reserve Officers’ Training Corps Instructors**
 
-Pub. L. 119–60, div. A, title V, § 546, Dec. 18, 2025, 139 Stat. 874, provided that:
+Pub. L. 119–60, div. A, title V, § 546, Dec. 18, 2025, 139 Stat. 874, provided that:
 
 > **“(a) In General.—** The Secretary concerned may pay to a member or former member of the Armed Forces under the jurisdiction of the Secretary a one-time bonus of not more than $10,000 if the member or former member—
 
@@ -369,11 +369,11 @@ Pub. L. 119–60, div. A, title V, § 546, Dec. 18, 2025, 139 Stat. 874, provi
 
 **Treatment of Current Administrators and Instructors**
 
-Pub. L. 118–31, div. A, title V, § 553(b), Dec. 22, 2023, 137 Stat. 271, provided that: “An administrator or instructor employed under section 2031 of title 10, United States Code, on the date of enactment of this section [Dec. 22, 2023] shall not be subject to a reduction in total compensation as a result of such enactment.”
+Pub. L. 118–31, div. A, title V, § 553(b), Dec. 22, 2023, 137 Stat. 271, provided that: “An administrator or instructor employed under section 2031 of title 10, United States Code, on the date of enactment of this section [Dec. 22, 2023] shall not be subject to a reduction in total compensation as a result of such enactment.”
 
 **Increase in Number of Units of Junior Reserve Officers’ Training Corps**
 
-Pub. L. 110–417, [div. A], title V, § 548, Oct. 14, 2008, 122 Stat. 4466, as amended by Pub. L. 112–239, div. A, title V, § 553, Jan. 2, 2013, 126 Stat. 1742; Pub. L. 114–92, div. A, title X, § 1072(c), Nov. 25, 2015, 129 Stat. 995, provided that:
+Pub. L. 110–417, [div. A], title V, § 548, Oct. 14, 2008, 122 Stat. 4466, as amended by Pub. L. 112–239, div. A, title V, § 553, Jan. 2, 2013, 126 Stat. 1742; Pub. L. 114–92, div. A, title X, § 1072(c), Nov. 25, 2015, 129 Stat. 995, provided that:
 
 > **“(a) Plan for Increase.—** The Secretary of Defense, in consultation with the Secretaries of the military departments, shall develop and implement a plan to establish and support, not later than September 30, 2020, not less than 3,000, and not more than 3,700, units of the Junior Reserve Officers’ Training Corps.
 
@@ -403,7 +403,7 @@ Pub. L. 110–417, [div. A], title V, § 548, Oct. 14, 2008, 122 Stat. 4466, a
 
 **Expansion of Junior Reserve Officers’ Training Corps Program**
 
-Pub. L. 109–364, div. A, title V, § 541, Oct. 17, 2006, 120 Stat. 2212, provided that:
+Pub. L. 109–364, div. A, title V, § 541, Oct. 17, 2006, 120 Stat. 2212, provided that:
 
 > **“(a) In General.—** The Secretaries of the military departments shall take appropriate actions to increase the number of secondary educational institutions at which a unit of the Junior Reserve Officers’ Training Corps is organized under chapter 102 of title 10, United States Code.
 
@@ -419,9 +419,9 @@ Pub. L. 109–364, div. A, title V, § 541, Oct. 17, 2006, 120 Stat. 2212, pro
 
 **Reduction in Number of Students Required To Be in Junior Reserve Officers’ Training Corps Units for Period of September 1, 1980, to August 31, 1984**
 
-Pub. L. 96–342, title VI, § 602, Sept. 8, 1980, 94 Stat. 1087, as amended by Pub. L. 97–86, title VII, § 702(a), Dec. 1, 1981, 95 Stat. 1111; Pub. L. 97–252, title VII, § 702, Sept. 8, 1982, 96 Stat. 728; Pub. L. 98–94, title VII, § 702, Sept. 24, 1983, 97 Stat. 634, authorized the Secretary of any military department, during the period beginning on Sept. 1, 1980, and ending on Aug. 31, 1984, to maintain a unit of the Junior Reserve Officers’ Training Corps at any public or private secondary educational institution.
+Pub. L. 96–342, title VI, § 602, Sept. 8, 1980, 94 Stat. 1087, as amended by Pub. L. 97–86, title VII, § 702(a), Dec. 1, 1981, 95 Stat. 1111; Pub. L. 97–252, title VII, § 702, Sept. 8, 1982, 96 Stat. 728; Pub. L. 98–94, title VII, § 702, Sept. 24, 1983, 97 Stat. 634, authorized the Secretary of any military department, during the period beginning on Sept. 1, 1980, and ending on Aug. 31, 1984, to maintain a unit of the Junior Reserve Officers’ Training Corps at any public or private secondary educational institution.
 
-## § 2032. Responsibility of the Secretaries of the military departments to maximize enrollment and enhance efficiency
+## § 2032. Responsibility of the Secretaries of the military departments to maximize enrollment and enhance efficiency
 
 **(a) Coordination.—** The Secretary of each military department, in establishing, maintaining, transferring, and terminating Junior Reserve Officers’ Training Corps units under section 2031 of this title, shall do so in a coordinated manner that is designed to maximize enrollment in the Corps and to enhance administrative efficiency in the management of the Corps.
 
@@ -433,9 +433,9 @@ Pub. L. 96–342, title VI, § 602, Sept. 8, 1980, 94 Stat. 1087, as amended b
 
 **(3)** the desirability of continuing the opportunity for participation in the Corps by participants whose continued participation would otherwise be adversely affected by new school openings and consolidations of schools.
 
-(Added Pub. L. 105–85, div. A, title V, § 546(a), Nov. 18, 1997, 111 Stat. 1746.)
+(Added Pub. L. 105–85, div. A, title V, § 546(a), Nov. 18, 1997, 111 Stat. 1746.)
 
-## § 2033. Instructor qualifications
+## § 2033. Instructor qualifications
 
 **(a) In General.—** In order for a retired officer or noncommissioned officer to be employed as an instructor in the program, the officer must be certified by the Secretary of the military department concerned as a qualified instructor in leadership, wellness and fitness, civics, and other courses related to the content of the program, according to the qualifications set forth in subsection (b)(2) or (c)(2), as appropriate.
 
@@ -479,15 +479,15 @@ Pub. L. 96–342, title VI, § 602, Sept. 8, 1980, 94 Stat. 1087, as amended b
 
 **(iii)** performance evaluation of competencies and standards within the program through site visits and inspections.
 
-(Added Pub. L. 109–364, div. A, title V, § 539(a), Oct. 17, 2006, 120 Stat. 2210.)
+(Added Pub. L. 109–364, div. A, title V, § 539(a), Oct. 17, 2006, 120 Stat. 2210.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2033, added Pub. L. 106–65, div. A, title V, § 547(a)(1), Oct. 5, 1999, 113 Stat. 608; amended Pub. L. 106–398, § 1 [[div. A], title V, § 577(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–140, provided that certain excess amounts appropriated for the National Guard Challenge Program were to be made available for the Junior Reserve Officers’ Training Corps program, prior to repeal by Pub. L. 107–107, div. A, title V, § 596(c)(1), (3), Dec. 28, 2001, 115 Stat. 1127, effective Oct. 1, 2002.
+A prior section 2033, added Pub. L. 106–65, div. A, title V, § 547(a)(1), Oct. 5, 1999, 113 Stat. 608; amended Pub. L. 106–398, § 1 [[div. A], title V, § 577(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–140, provided that certain excess amounts appropriated for the National Guard Challenge Program were to be made available for the Junior Reserve Officers’ Training Corps program, prior to repeal by Pub. L. 107–107, div. A, title V, § 596(c)(1), (3), Dec. 28, 2001, 115 Stat. 1127, effective Oct. 1, 2002.
 
-## § 2034. Educational institutions not maintaining units of Junior Reserve Officers’ Training Corps: issuance of arms, tentage, and equipment
+## § 2034. Educational institutions not maintaining units of Junior Reserve Officers’ Training Corps: issuance of arms, tentage, and equipment
 
 The Secretary of a military department may issue arms, tentage, and equipment to an educational institution at which no unit of the Junior Reserve Officers’ Training Corps is maintained if the educational institution—
 
@@ -495,9 +495,9 @@ The Secretary of a military department may issue arms, tentage, and equipment to
 
 **(2)** has a student body of at least 50 students who are in a grade above the eighth grade.
 
-(Added Pub. L. 112–239, div. A, title V, § 552(a), Jan. 2, 2013, 126 Stat. 1741.)
+(Added Pub. L. 112–239, div. A, title V, § 552(a), Jan. 2, 2013, 126 Stat. 1741.)
 
-## § 2035. Flexibility in authorities for management of programs and units
+## § 2035. Flexibility in authorities for management of programs and units
 
 **(a) Authority To Convert Otherwise Closing Units to National Defense Cadet Corps Program Units.—** If the Secretary of a military department is notified by a local educational agency of the intent of the agency to close its Junior Reserve Officers’ Training Corps, the Secretary shall offer the agency the option of converting the unit to a National Defense Cadet Corps (NDCC) program unit in lieu of closing the unit.
 
@@ -521,9 +521,9 @@ The Secretary of a military department may issue arms, tentage, and equipment to
 
 **(d) Standardization of Program Data.—** The Secretary of Defense shall take appropriate actions to standardize the data collected and maintained on the Junior Reserve Officers’ Training Corps programs in order to facilitate and enhance the collection and analysis of such data. Such actions shall include a requirement for the use of the National Center for Education Statistics (NCES) identification code for each school with a unit under a Junior Reserve Officers’ Training Corps program in order to facilitate identification of such schools and their units under the Junior Reserve Officers’ Training Corps programs.
 
-(Added Pub. L. 115–232, div. A, title V, § 557(a)(1), Aug. 13, 2018, 132 Stat. 1773.)
+(Added Pub. L. 115–232, div. A, title V, § 557(a)(1), Aug. 13, 2018, 132 Stat. 1773.)
 
-## § 2036. Grants to support science, technology, engineering, and mathematics education
+## § 2036. Grants to support science, technology, engineering, and mathematics education
 
 **(a) Authority.—** The Secretary, in consultation with the Secretary of Education, may carry out a program to make grants to eligible entities to assist such entities in providing education in covered subjects to students in the Junior Reserve Officers’ Training Corps.
 
@@ -587,13 +587,13 @@ The Secretary of a military department may issue arms, tentage, and equipment to
 
 **(N)** other subjects determined by the Secretary of Defense to be related to science, technology, engineering, and mathematics.
 
-(Added Pub. L. 116–283, div. A, title V, § 513(a)(1), Jan. 1, 2021, 134 Stat. 3587; amended Pub. L. 117–81, div. A, title V, § 511, Dec. 27, 2021, 135 Stat. 1682.)
+(Added Pub. L. 116–283, div. A, title V, § 513(a)(1), Jan. 1, 2021, 134 Stat. 3587; amended Pub. L. 117–81, div. A, title V, § 511, Dec. 27, 2021, 135 Stat. 1682.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 **Amendments**
 

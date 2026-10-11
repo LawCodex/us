@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 23—FOREIGN AGRICULTURAL SERVICE
 
-## §§ 541 to 545. Repealed. Aug. 13, 1946, ch. 957, title XI, § 1131(56), 60 Stat. 1039
+## §§ 541 to 545. Repealed. Aug. 13, 1946, ch. 957, title XI, § 1131(56), 60 Stat. 1039
 
 Sections 541 to 545, act June 5, 1930, ch. 399, 46 Stat. 497–499, related to Foreign Agricultural Service.
 

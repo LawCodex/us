@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 75—EARLY LEARNING OPPORTUNITIES
 
-## § 9401. Purposes
+## § 9401. Purposes
 
 The purposes of this chapter are—
 
@@ -29,13 +29,13 @@ The purposes of this chapter are—
 
 **(5)** to facilitate the development of community-based systems of collaborative service delivery models characterized by resource sharing, linkages between appropriate supports, and local planning for services.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 802], Dec. 21, 2000, 114 Stat. 2763, 2763A–80.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 802], Dec. 21, 2000, 114 Stat. 2763, 2763A–80.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title; Findings**
 
-Pub. L. 106–554, § 1(a)(1) [title VIII, § 801], Dec. 21, 2000, 114 Stat. 2763, 2763A–79, provided that:
+Pub. L. 106–554, § 1(a)(1) [title VIII, § 801], Dec. 21, 2000, 114 Stat. 2763, 2763A–79, provided that:
 
 > **“(a) Short Title.—** This title [enacting this chapter] may be cited as the ‘Early Learning Opportunities Act’.
 
@@ -73,7 +73,7 @@ Pub. L. 106–554, § 1(a)(1) [title VIII, § 801], Dec. 21, 2000, 114 Stat.
 
 > **“(13)** by helping communities increase, expand, and better coordinate early learning opportunities for children and their families, the productivity and creativity of future generations will be improved, and the Nation will be prepared for continued leadership in the 21st century.”
 
-## § 9402. Definitions
+## § 9402. Definitions
 
 In this chapter:
 
@@ -141,9 +141,9 @@ The term “State” means each of the several States of the United States, the 
 
 The term “young child” means any child from birth to the age of mandatory school attendance in the State where the child resides.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 803], Dec. 21, 2000, 114 Stat. 2763, 2763A–81.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 803], Dec. 21, 2000, 114 Stat. 2763, 2763A–81.)
 
-## § 9403. Prohibitions
+## § 9403. Prohibitions
 
 **(a) Participation not required**
 
@@ -161,9 +161,9 @@ No entity that receives funds under this chapter shall be required to provide se
 
 No funds provided under this chapter shall be used to carry out an activity funded under another provision of law providing for Federal child care or early learning programs, unless an expansion of such activity is identified in the local needs assessment and performance goals under this chapter.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 804], Dec. 21, 2000, 114 Stat. 2763, 2763A–82.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 804], Dec. 21, 2000, 114 Stat. 2763, 2763A–82.)
 
-## § 9404. Authorization and appropriation of funds
+## § 9404. Authorization and appropriation of funds
 
 There are authorized to be appropriated to the Department of Health and Human Services to carry out this chapter—
 
@@ -175,9 +175,9 @@ There are authorized to be appropriated to the Department of Health and Human Se
 
 **(4)** such sums as may be necessary for each of the fiscal years 2004 and 2005.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 805], Dec. 21, 2000, 114 Stat. 2763, 2763A–82.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 805], Dec. 21, 2000, 114 Stat. 2763, 2763A–82.)
 
-## § 9405. Coordination of Federal programs
+## § 9405. Coordination of Federal programs
 
 **(a) Coordination**
 
@@ -187,9 +187,9 @@ The Secretary and the Secretary of Education shall develop mechanisms to resolve
 
 In the case of a collaborative activity funded under this chapter and another provision of law providing for Federal child care or early learning programs, the use of equipment and nonconsumable supplies purchased with funds made available under this chapter or such provision shall not be restricted to children enrolled or otherwise participating in the program carried out under this chapter or such provision, during a period in which the activity is predominately funded under this chapter or such provision.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 806], Dec. 21, 2000, 114 Stat. 2763, 2763A–82.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 806], Dec. 21, 2000, 114 Stat. 2763, 2763A–82.)
 
-## § 9406. Program authorized
+## § 9406. Program authorized
 
 **(a) Grants**
 
@@ -223,9 +223,9 @@ Amounts received under this chapter shall be used to supplement and not supplant
 
 **(4)** subject to paragraph (1), the Secretary shall assume the responsibilities of the Lead State Agency under this chapter, as appropriate.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 807], Dec. 21, 2000, 114 Stat. 2763, 2763A–82.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 807], Dec. 21, 2000, 114 Stat. 2763, 2763A–82.)
 
-## § 9407. Uses of funds
+## § 9407. Uses of funds
 
 **(a) In general**
 
@@ -261,9 +261,9 @@ Subject to section 9409 of this title, grant funds under this chapter shall be u
 
 States and Local Councils receiving assistance under this chapter shall ensure that programs, services, and activities assisted under this chapter which customarily require a payment for such programs, services, or activities, adjust the cost of such programs, services, and activities provided to the individual or the individual’s child based on the individual’s ability to pay.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 808], Dec. 21, 2000, 114 Stat. 2763, 2763A–83.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 808], Dec. 21, 2000, 114 Stat. 2763, 2763A–83.)
 
-## § 9408. Reservations and allotments
+## § 9408. Reservations and allotments
 
 **(a) Reservation for Indian tribes, Alaska Natives, and Native Hawaiians** The Secretary shall reserve 1 percent of the total amount appropriated under section 9404 of this title for each fiscal year, to be allotted to Indian tribes, Regional Corporations, and Native Hawaiian entities, of which—
 
@@ -289,9 +289,9 @@ Any portion of the allotment to a State that is not expended for activities unde
 
 The Secretary shall make allotments under this chapter on the basis of the most recent data available to the Secretary.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 809], Dec. 21, 2000, 114 Stat. 2763, 2763A–84.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 809], Dec. 21, 2000, 114 Stat. 2763, 2763A–84.)
 
-## § 9409. Grant administration
+## § 9409. Grant administration
 
 **(a) Federal administrative costs**
 
@@ -351,7 +351,7 @@ The Lead State Agency described in paragraph (1) shall allocate funds to Local C
 
 **(vi)** ensure that training and research is made available to Local Councils and that such training and research reflects the latest available brain development and early childhood development research related to early learning.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 810], Dec. 21, 2000, 114 Stat. 2763, 2763A–85; Pub. L. 110–134, § 29(b), Dec. 12, 2007, 121 Stat. 1449.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 810], Dec. 21, 2000, 114 Stat. 2763, 2763A–85; Pub. L. 110–134, § 29(b), Dec. 12, 2007, 121 Stat. 1449.)
 
 **Editorial Notes**
 
@@ -359,7 +359,7 @@ The Lead State Agency described in paragraph (1) shall allocate funds to Local C
 
 2007—Subsec. (b)(1). Pub. L. 110–134 substituted “entities funded under section 9835(a)(2)(B)(vi) of title 42” for “entities funded under section 9835(a)(5) of title 42”.
 
-## § 9410. State requirements
+## § 9410. State requirements
 
 **(a) Eligibility** To be eligible for a grant under this chapter, a State shall—
 
@@ -409,9 +409,9 @@ The State shall report to the Secretary annually regarding the State’s progres
 
 If the Secretary determines, based on the State report submitted under paragraph (4), that the State is not making progress toward achieving the performance goals described in paragraph (2), then the State shall submit a performance improvement plan to the Secretary, and demonstrate reasonable progress in implementing such plan, in order to remain eligible for funding under this chapter.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 811], Dec. 21, 2000, 114 Stat. 2763, 2763A–86.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 811], Dec. 21, 2000, 114 Stat. 2763, 2763A–86.)
 
-## § 9411. Local allocations
+## § 9411. Local allocations
 
 **(a) In general**
 
@@ -421,9 +421,9 @@ The Lead State Agency shall allocate to Local Councils in the State not less tha
 
 The Lead State Agency shall allocate funds provided under this chapter on the basis of the population of the locality served by the Local Council.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 812], Dec. 21, 2000, 114 Stat. 2763, 2763A–88.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 812], Dec. 21, 2000, 114 Stat. 2763, 2763A–88.)
 
-## § 9412. Local applications
+## § 9412. Local applications
 
 **(a) In general**
 
@@ -437,9 +437,9 @@ To be eligible to receive assistance under this chapter, the Local Council shall
 
 **(3)** a description of how the Local Council will form collaboratives among local youth, social service, and educational providers to maximize resources and concentrate efforts on areas of greatest need.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 813], Dec. 21, 2000, 114 Stat. 2763, 2763A–88.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 813], Dec. 21, 2000, 114 Stat. 2763, 2763A–88.)
 
-## § 9413. Local administration
+## § 9413. Local administration
 
 **(a) Local Council**
 
@@ -471,4 +471,4 @@ Not more than 3 percent of the funds received by a Local Council under this chap
 
 A Local Council may designate any entity, with a demonstrated capacity for administering grants, that is affected by, or concerned with, early learning issues, including the State, to serve as fiscal agent for the administration of grant funds received by the Local Council under this chapter.
 
-(Pub. L. 106–554, § 1(a)(1) [title VIII, § 814], Dec. 21, 2000, 114 Stat. 2763, 2763A–88.)
+(Pub. L. 106–554, § 1(a)(1) [title VIII, § 814], Dec. 21, 2000, 114 Stat. 2763, 2763A–88.)

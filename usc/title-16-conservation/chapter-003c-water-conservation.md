@@ -17,29 +17,29 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FACILITIES FOR WATER STORAGE AND UTILIZATION
 
-### §§ 590r to 590x–4. Repealed. Pub. L. 87–128, title III, § 341(a), Aug. 8, 1961, 75 Stat. 318
+### §§ 590r to 590x–4. Repealed. Pub. L. 87–128, title III, § 341(a), Aug. 8, 1961, 75 Stat. 318
 
-Section 590r, acts Aug. 28, 1937, ch. 870, § 1, 50 Stat. 869; Aug. 17, 1954, ch. 751, § 1(1), (2), 68 Stat. 734; July 12, 1960, Pub. L. 86–624, § 9, 74 Stat. 412, related to Congressional declaration of policy.
+Section 590r, acts Aug. 28, 1937, ch. 870, § 1, 50 Stat. 869; Aug. 17, 1954, ch. 751, § 1(1), (2), 68 Stat. 734; July 12, 1960, Pub. L. 86–624, § 9, 74 Stat. 412, related to Congressional declaration of policy.
 
-Section 590s, acts Aug. 28, 1937, ch. 870, § 2, 50 Stat. 869; Aug. 17, 1954, ch. 751, § 1(3), 68 Stat. 735, related to powers and duties of Secretary of Agriculture.
+Section 590s, acts Aug. 28, 1937, ch. 870, § 2, 50 Stat. 869; Aug. 17, 1954, ch. 751, § 1(3), 68 Stat. 735, related to powers and duties of Secretary of Agriculture.
 
-Section 590t, act Aug. 28, 1937, ch. 870, § 3, 50 Stat. 869, related to location of projects.
+Section 590t, act Aug. 28, 1937, ch. 870, § 3, 50 Stat. 869, related to location of projects.
 
-Section 590u, act Aug. 28, 1937, ch. 870, § 4, 50 Stat. 870, related to State aid and certain requirements.
+Section 590u, act Aug. 28, 1937, ch. 870, § 4, 50 Stat. 870, related to State aid and certain requirements.
 
-Section 590v, act Aug. 28, 1937, ch. 870, § 5, 50 Stat. 870, related to use of employees and agencies within Department of Agriculture.
+Section 590v, act Aug. 28, 1937, ch. 870, § 5, 50 Stat. 870, related to use of employees and agencies within Department of Agriculture.
 
-Section 590w, act Aug. 28, 1937, ch. 870, § 6, 50 Stat. 870, related to cooperation of governmental agencies, expenditures and rules and regulations.
+Section 590w, act Aug. 28, 1937, ch. 870, § 6, 50 Stat. 870, related to cooperation of governmental agencies, expenditures and rules and regulations.
 
-Section 590x, act Aug. 28, 1937, ch. 870, § 7, 50 Stat. 870, authorized appropriations.
+Section 590x, act Aug. 28, 1937, ch. 870, § 7, 50 Stat. 870, authorized appropriations.
 
-Section 590x–1, act Aug. 28, 1937, ch. 870, § 8, as added Aug. 17, 1954, ch. 751, § 1(4), 68 Stat. 735, prescribed limitations on aid.
+Section 590x–1, act Aug. 28, 1937, ch. 870, § 8, as added Aug. 17, 1954, ch. 751, § 1(4), 68 Stat. 735, prescribed limitations on aid.
 
-Section 590x–2, act Aug. 28, 1937, ch. 870, § 9, as added Aug. 17, 1954, ch. 751, § 1(4), 68 Stat. 735, authorized loans for farm land improvement.
+Section 590x–2, act Aug. 28, 1937, ch. 870, § 9, as added Aug. 17, 1954, ch. 751, § 1(4), 68 Stat. 735, authorized loans for farm land improvement.
 
-Section 590x–3, act Aug. 28, 1937, ch. 870, § 10(a)–(e), as added Aug. 17, 1954, ch. 751, § 1(4), 68 Stat. 735, provided for an insurance program for loans by other than United States, an insurance fund, contents of fund, selling and reinsuring of notes, disposition of insurance charges, insurance contract as United States obligation, incontestability, discharge of obligations, and limitation on aggregate amount of obligations.
+Section 590x–3, act Aug. 28, 1937, ch. 870, § 10(a)–(e), as added Aug. 17, 1954, ch. 751, § 1(4), 68 Stat. 735, provided for an insurance program for loans by other than United States, an insurance fund, contents of fund, selling and reinsuring of notes, disposition of insurance charges, insurance contract as United States obligation, incontestability, discharge of obligations, and limitation on aggregate amount of obligations.
 
-Section 590x–4, act Aug. 28, 1937, ch. 870, § 11, as added Aug. 25, 1958, Pub. L. 85–748, § 2, 72 Stat. 841, related to authorization of Secretary for execution, insurance and sale of loans, insurance, appraisal and delinquency charges, use of proceeds for expenses; computation of aggregate amount of principal obligations which may be insured, insurance of loans from funds advanced by lenders other than United States, provisions applicable to loans, conversion of loans to insured loans, expense funds, sale of loans on noninsured basis and assignment of loans.
+Section 590x–4, act Aug. 28, 1937, ch. 870, § 11, as added Aug. 25, 1958, Pub. L. 85–748, § 2, 72 Stat. 841, related to authorization of Secretary for execution, insurance and sale of loans, insurance, appraisal and delinquency charges, use of proceeds for expenses; computation of aggregate amount of principal obligations which may be insured, insurance of loans from funds advanced by lenders other than United States, provisions applicable to loans, conversion of loans to insured loans, expense funds, sale of loans on noninsured basis and assignment of loans.
 
 The subject matter of former sections 590r to 590x–4 of this title is covered by section 1921 et seq. of Title 7, Agriculture.
 
@@ -53,11 +53,11 @@ Sections repealed effective Oct. 15, 1961, by section 300.1 of former Title 6, C
 
 ## SUBCHAPTER II—CONSERVATION AND UTILIZATION PROJECTS
 
-### § 590y. Authorization and purpose of investigation, construction, and maintenance of projects; title to projects; limitation on costs
+### § 590y. Authorization and purpose of investigation, construction, and maintenance of projects; title to projects; limitation on costs
 
 For the purpose of stabilizing water supply and thereby rehabilitating farmers on the land and providing opportunities for permanent settlement of farm families, the Secretary of the Interior (hereinafter referred to as “the Secretary”) is authorized to investigate and, upon compliance with the provisions of this subchapter, to construct water conservation and utilization projects in the Great Plains and arid and semiarid areas of the United States, and to operate and maintain each such project in accordance with the provisions of this subchapter; *Provided*, That the United States shall retain title to the dams, reservoirs, irrigation, and other project works until Congress otherwise provides: *And provided further*, That expenditures from appropriations made directly pursuant to the authority contained in section 590z–10(1) of this title to meet reimbursable construction costs allocated to irrigation as defined in section 590z–2(b) of this title shall not exceed $2,000,000 for dams and reservoirs in any one project, and that expenditures from appropriations made directly pursuant to the authority contained in section 590z–10(1) of this title to meet costs allocated to flood control by the Secretary after consultation with the Chief of Engineers, Department of the Army, shall not exceed $500,000 on any one project.
 
-(Aug. 11, 1939, ch. 717, § 1, 53 Stat. 1418; Oct. 14, 1940, ch. 861, 54 Stat. 1119; Mar. 7, 1942, ch. 164, 56 Stat. 142; July 16, 1943, ch. 242, § 1, 57 Stat. 566; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 11, 1939, ch. 717, § 1, 53 Stat. 1418; Oct. 14, 1940, ch. 861, 54 Stat. 1119; Mar. 7, 1942, ch. 164, 56 Stat. 142; July 16, 1943, ch. 242, § 1, 57 Stat. 566; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -79,11 +79,11 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Act Aug. 9, 1955, ch. 630, 69 Stat. 552, provided: “That the provisions of sections 41(g), 43, and 51 of the Bankhead-Jones Farm Tenant Act, as amended [sections 1015(g), 1017, and 1025 of Title 7, Agriculture], are hereby extended to apply on the obligations of settlers on the Angostura project in South Dakota developed under the Act of August 11, 1939, as amended [this section].”
 
-### § 590z. Utilization of services, materials, funds, etc., of Federal, State, or municipal agencies, or of individuals
+### § 590z. Utilization of services, materials, funds, etc., of Federal, State, or municipal agencies, or of individuals
 
 In connection with the investigation, construction, or operation and maintenance of a project, pursuant to the authority of this subchapter, the Secretary is authorized to utilize (1) in such manner as the President may direct, services, labor, materials, or other property, including money, supplied by the Work Projects Administration, the Civilian Conservation Corps, the Office of Indian Affairs, the Department of Agriculture, or any other Federal agency, for which the United States shall be reimbursed in such amounts as the President may fix for each project, within the limits of the water users’ ability to repay costs as found by the Secretary under section 590z–1(a)(iv) of this title; and (2) such services, labor, materials, easements or property, including money, as may be contributed by any State or political subdivision thereof, State agency, municipal corporation, or other organization, or individuals, if, in the judgment of the Secretary, the acceptance thereof will not impair the title of the United States to the project works and will not reduce the probability that the project water users can meet the obligations to the United States entered into pursuant to this subchapter. Moneys received and accepted under (2) of this section shall be and remain available for expenditure for the purposes for which contributed in like manner as if said sums had been specifically appropriated for said purposes.
 
-(Aug. 11, 1939, ch. 717, § 2, 53 Stat. 1419; Oct. 14, 1940, ch. 861, 54 Stat. 1120.)
+(Aug. 11, 1939, ch. 717, § 2, 53 Stat. 1419; Oct. 14, 1940, ch. 861, 54 Stat. 1120.)
 
 **Editorial Notes**
 
@@ -95,7 +95,7 @@ In connection with the investigation, construction, or operation and maintenance
 
 **Transfer of Functions**
 
-Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
+Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 
 Department of Health, Education, and Welfare was redesignated Department of Health and Human Services by section 3508(b) of Title 20, Education.
 
@@ -107,15 +107,15 @@ Contracts with repayment organizations for construction of drainage facilities a
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5.
+Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5.
 
-Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. 1 of 1939, §§ 201, 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5.
+Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. 1 of 1939, §§ 201, 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5.
 
 Federal Security Agency was abolished by section 8 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, and its functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953.
 
-### § 590z–1. Prerequisites for construction of project
+### § 590z–1. Prerequisites for construction of project
 
 **(a) Investigation and report to President** No construction of a project may be undertaken pursuant to the authority of this subchapter unless and until the Secretary has made an investigation thereof and has submitted to the President his report and findings on—
 
@@ -143,7 +143,7 @@ No actual construction of the physical features of a project shall be undertaken
 
 Any part of a project hereunder may be designated as a division of the project by the Secretary if he, after consultation with the Secretary of Agriculture, deems this desirable for orderly and efficient construction or administration. The term “project”, as used in subsection (b) and section 590z–2 of this title, shall be deemed to mean also “division of a project”, designated as provided in this subsection. Any project authorized for construction from appropriations under the head “Water Conservation and Utility Projects” in the Interior Department Appropriation Act, 1940 [ch. 119] (53 Stat. 685), hereinafter called the 1940 water conservation appropriation, may be designated by the Secretary, upon agreement with the Secretary of Agriculture, a project under this subchapter, and shall thereupon be subject to all the provisions and requirements thereof, except those of subsections (a) and (b).
 
-(Aug. 11, 1939, ch. 717, § 3, 53 Stat. 1419; Oct. 14, 1940, ch. 861, 54 Stat. 1120; July 16, 1943, ch. 242, §§ 2–4, 57 Stat. 567; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(Aug. 11, 1939, ch. 717, § 3, 53 Stat. 1419; Oct. 14, 1940, ch. 861, 54 Stat. 1120; July 16, 1943, ch. 242, §§ 2–4, 57 Stat. 567; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -153,11 +153,11 @@ The head “Water Conservation Utility Projects” in the Interior Department Ap
 
 **Amendments**
 
-1943—Subsec. (a)(vii). Act July 16, 1943, § 2, inserted “Secretary after consultation with the” after “as recommended”.
+1943—Subsec. (a)(vii). Act July 16, 1943, § 2, inserted “Secretary after consultation with the” after “as recommended”.
 
-Subsec. (b). Act July 16, 1943, § 3, amended subsec. (b) generally.
+Subsec. (b). Act July 16, 1943, § 3, amended subsec. (b) generally.
 
-Subsec. (c). Act July 16, 1943, § 4, added subsec. (c).
+Subsec. (c). Act July 16, 1943, § 4, added subsec. (c).
 
 1940—Act Oct. 14, 1940, reenacted section.
 
@@ -169,19 +169,19 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Construction With Section 701–1 of Title 33**
 
-Section as amended and modified by act Dec. 22, 1944, ch. 665, § 1(c), 58 Stat. 665, see section 701–1(c) of Title 33, Navigation and Navigable Waters.
+Section as amended and modified by act Dec. 22, 1944, ch. 665, § 1(c), 58 Stat. 665, see section 701–1(c) of Title 33, Navigation and Navigable Waters.
 
 **Transfer of Functions**
 
-Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
+Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
+Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 590z–2. Repayment contracts
+### § 590z–2. Repayment contracts
 
 **(a) Necessity**
 
@@ -203,7 +203,7 @@ The term “reimbursable construction costs” as used in this subchapter means 
 
 **(5)** The Secretary shall establish the size of farm units of irrigable lands on each project in accordance with his findings of the area sufficient in size for the support of a family on the lands to be irrigated. No water may be delivered to or for more than the farm unit area of irrigable lands in the project owned by a single landowner: *Provided*, That this subsection shall not apply to the United States or any agency or instrumentality thereof, corporate or otherwise. No water shall be delivered to or for any land, in a project area, transferred or disposed of subsequent to approval of the project by the President, and within three years from the time water becomes available, unless and until it has been shown to the satisfaction of the Secretary or his duly authorized representative that the land has been transferred or disposed of at a price not exceeding the appraised value as determined by the Secretary or his duly authorized representatives, and upon proof of fraudulent representation as to the true consideration involved the Secretary is authorized to cancel the water right attaching to the land involved: *Provided further*, That nothing herein shall be construed to create authority to interfere with the delivery of water under prior rights.
 
-(Aug. 11, 1939, ch. 717, § 4, as added Oct. 14, 1940, ch. 861, 54 Stat. 1121; amended July 16, 1943, ch. 242, § 5, 57 Stat. 567.)
+(Aug. 11, 1939, ch. 717, § 4, as added Oct. 14, 1940, ch. 861, 54 Stat. 1121; amended July 16, 1943, ch. 242, § 5, 57 Stat. 567.)
 
 **Editorial Notes**
 
@@ -231,7 +231,7 @@ Authority of Secretary to extend benefits of variable payment plan to organizati
 
 Subsection (d) of this section, by the terms thereof, ceased to be of force and effect, except as to certain projects, six months after cessation of hostilities of World War II, which was proclaimed at 12 o’clock noon of December 31, 1946, by Proc. No. 2714, 12 F.R. 1, set out as a note preceding section 1 of Title 50, War and National Defense.
 
-### § 590z–3. Settlement of projects on agricultural basis
+### § 590z–3. Settlement of projects on agricultural basis
 
 **(a) Rehabilitation; stabilization of agricultural economy; maximum utilization of funds**
 
@@ -245,7 +245,7 @@ For the purposes of this section, the Secretary of Agriculture may utilize (1) i
 
 Where the aggregate amount involved does not exceed $300, the provisions of section 6101 of title 41 shall not apply to any purchase or service authorized for the Department of Agriculture under this subchapter or under the 1940 water conservation appropriation.
 
-(Aug. 11, 1939, ch. 717, § 5, as added Oct. 14, 1940, ch. 861, 54 Stat. 1122; amended July 16, 1943, ch. 242, § 6, 57 Stat. 568.)
+(Aug. 11, 1939, ch. 717, § 5, as added Oct. 14, 1940, ch. 861, 54 Stat. 1122; amended July 16, 1943, ch. 242, § 6, 57 Stat. 568.)
 
 **Editorial Notes**
 
@@ -255,7 +255,7 @@ For 1940 water conservation appropriation citation, referred to in subsec. (c), 
 
 **Codification**
 
-In subsec. (c), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -265,7 +265,7 @@ In subsec. (c), “section 6101 of title 41” substituted for “section 3709 o
 
 **Transfer of Functions**
 
-Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
+Functions of Federal Works Agency transferred to General Services Administration by act June 30, 1949, ch. 288, title I, § 103, 63 Stat. 380. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 
 Department of Health, Education, and Welfare redesignated Department of Health and Human Services by section 3508(b) of Title 20, Education.
 
@@ -273,29 +273,29 @@ Department of Health, Education, and Welfare redesignated Department of Health a
 
 **Transfer of Functions**
 
-Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
+Works Projects Administration and its functions transferred to Federal Works Agency by Reorg. Plan No. 1 of 1939, §§ 301, 306, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. 1 of 1939, §§ 201, 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
+Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. 1 of 1939, §§ 201, 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, set out in the Appendix to Title 5, and its functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan. No. 1 of 1953.
 
-### § 590z–4. Cooperative agreements with other agencies
+### § 590z–4. Cooperative agreements with other agencies
 
 The Secretary, by cooperative agreements, may arrange with the Department of Agriculture or with such other Federal or State agencies, as the President may deem desirable, for cooperation in the investigations and surveys of projects proposed under the authority of this subchapter; and in connection with any such project which is undertaken the Secretary by such cooperative agreements may arrange for such cooperation in the construction or operation and maintenance of the project as he deems desirable. Any such cooperative agreement with the Department of Agriculture may provide, among other things (1) that the Secretary of Agriculture shall enter into the repayment contracts, required by section 590z–2 of this title and shall handle the collections of repayments and shall take over the other administrative duties connected with the project, after the Secretary of the Interior announces that the project is ready for operation; (2) if such agreement be entered into after construction of the project has been undertaken by the Secretary of the Interior and after he has entered into the repayment contracts required by section 590z–2 of this title, that the Secretary of Agriculture shall take over the collection of repayments and other administrative duties connected with the project; (3) that no water shall be delivered to or for any land or party while the owner of said land or said party is in arrears for more than twelve months in the payment to the United States of money due and payable under a land contract entered into pursuant to section 590z–3(a) of this title; and (4) that any repayment contract with a water user or water users’ organization entered into pursuant to section 590z–2 of this title and any land contract with the same water user or organization entered into pursuant to section 590z–3(a) of this title, if said contracts involve the same land, may be combined in a single instrument. The Secretary of Agriculture is authorized to carry out the provision of any such cooperative agreements.
 
-(Aug. 11, 1939, ch. 717, § 6, as added Oct. 14, 1940, ch. 861, 54 Stat. 1123.)
+(Aug. 11, 1939, ch. 717, § 6, as added Oct. 14, 1940, ch. 861, 54 Stat. 1123.)
 
-### § 590z–5. Repealed. Aug. 17, 1954, ch. 751, § 2, 68 Stat. 736
+### § 590z–5. Repealed. Aug. 17, 1954, ch. 751, § 2, 68 Stat. 736
 
-Section, act Aug. 11, 1939, ch. 717, § 7, as added Oct. 14, 1940, ch. 861, 54 Stat. 1124; amended June 10, 1949, ch. 195, 63 Stat. 171, related to limitations on expenditures under former sections 590r to 590x of this title.
+Section, act Aug. 11, 1939, ch. 717, § 7, as added Oct. 14, 1940, ch. 861, 54 Stat. 1124; amended June 10, 1949, ch. 195, 63 Stat. 171, related to limitations on expenditures under former sections 590r to 590x of this title.
 
-### § 590z–6. Disposition of receipts from repayment contracts and project operations
+### § 590z–6. Disposition of receipts from repayment contracts and project operations
 
 All payments made to the United States under repayment contracts on account of reimbursable construction costs, including penalties collected for delinquencies in such payments, and all other receipts from project operations pursuant to sections 590z–2 and 590z–7 of this title shall be covered into the Treasury to the credit of miscellaneous receipts. Charges collected during the development period of a project under section 590z–2(c)(1) of this title, excepting such amounts thereof as may be credited to reimbursable construction costs, and charges collected for the operation and maintenance of a project under section 590z–2(c)(2) of this title shall be available for expenditure for operation and maintenance of said project in like manner as if said funds had been specifically appropriated for said purposes.
 
-(Aug. 11, 1939, ch. 717, § 8, as added Oct. 14, 1940, ch. 861, 54 Stat. 1124.)
+(Aug. 11, 1939, ch. 717, § 8, as added Oct. 14, 1940, ch. 861, 54 Stat. 1124.)
 
-### § 590z–7. Provisions for furnishing surplus power and municipal or miscellaneous water supplies
+### § 590z–7. Provisions for furnishing surplus power and municipal or miscellaneous water supplies
 
 **(a) In general**
 
@@ -329,19 +329,19 @@ Notwithstanding section 590z–6 of this title, lease charges shall be credited 
 
 Nothing in this section alters or affects any agreement in effect on December 19, 2014, for the development of hydropower projects or disposition of revenues.
 
-(Aug. 11, 1939, ch. 717, § 9, as added Oct. 14, 1940, ch. 861, 54 Stat. 1124; Pub. L. 113–291, div. B, title XXX, § 3087, Dec. 19, 2014, 128 Stat. 3857.)
+(Aug. 11, 1939, ch. 717, § 9, as added Oct. 14, 1940, ch. 861, 54 Stat. 1124; Pub. L. 113–291, div. B, title XXX, § 3087, Dec. 19, 2014, 128 Stat. 3857.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rural Electrification Act of 1936, referred to in subsec. (a), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (a), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
 **Amendments**
 
 2014—Pub. L. 113–291 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-### § 590z–8. Authority of Secretary of the Interior over lands, contracts, water rights, etc.
+### § 590z–8. Authority of Secretary of the Interior over lands, contracts, water rights, etc.
 
 **(a) Utilization of lands**
 
@@ -351,37 +351,37 @@ In connection with any project constructed pursuant to the provisions of this su
 
 In connection with the construction or operation and maintenance of a project undertaken pursuant to the authority of this subchapter, the Secretary shall have with respect to construction and supply contracts, and with respect to the acquisition, exchange, and disposition of lands, interest in lands, water rights, and other property and the relocation thereof, the same authority, including authority to acquire lands and interests in land and water rights with titles and at prices satisfactory to him, which he has in connection with projects under the Federal reclamation laws.
 
-(Aug. 11, 1939, ch. 717, § 10, as added Oct. 14, 1940, ch. 861, 54 Stat. 1125.)
+(Aug. 11, 1939, ch. 717, § 10, as added Oct. 14, 1940, ch. 861, 54 Stat. 1125.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of June 17, 1902, referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June 17, 1902, referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
-### § 590z–9. Powers and duties of Secretaries of the Interior and Agriculture; rules and regulations
+### § 590z–9. Powers and duties of Secretaries of the Interior and Agriculture; rules and regulations
 
-The Secretary of the Interior and the Secretary of Agriculture are authorized to perform any and all Acts 1
+The Secretary of the Interior and the Secretary of Agriculture are authorized to perform any and all Acts 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and to make such rules and regulations as may be necessary and proper for the purpose of carrying out their respective functions under this subchapter and for the purpose of carrying the provisions of this subchapter into full force and effect.
 
-(Aug. 11, 1939, ch. 717, § 11, as added Oct. 14, 1940, ch. 861, 54 Stat. 1125.)
+(Aug. 11, 1939, ch. 717, § 11, as added Oct. 14, 1940, ch. 861, 54 Stat. 1125.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 590z–10. Authorization of appropriations
+### § 590z–10. Authorization of appropriations
 
 To carry out the purposes of this subchapter there is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated (1) for the Department of the Interior such sums as may be necessary to carry out its functions under this subchapter, and (2) for the Department of Agriculture such sums as may be necessary to carry out its functions under this subchapter.
 
-(Aug. 11, 1939, ch. 717, § 12, as added Oct. 14, 1940, ch. 861, 54 Stat. 1125.)
+(Aug. 11, 1939, ch. 717, § 12, as added Oct. 14, 1940, ch. 861, 54 Stat. 1125.)
 
-### § 590z–11. Delegation of powers and duties by Secretary of the Interior
+### § 590z–11. Delegation of powers and duties by Secretary of the Interior
 
 For the purpose of facilitating and simplifying the administration of the Federal reclamation laws (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto) and the Act of August 11, 1939 (53 Stat. 1418), as amended [16 U.S.C. 590y et seq.], the Secretary of the Interior is authorized to delegate, from time to time and to the extent and under such regulations as he deems proper, his powers and duties under said laws to the Commissioner of Reclamation, an Assistant Commissioner, or the officer in charge of any office, division, district, or project of the Bureau of Reclamation.
 
@@ -391,7 +391,7 @@ For the purpose of facilitating and simplifying the administration of the Federa
 
 **References in Text**
 
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
 Act of August 11, 1939, referred to in text, is act Aug. 11, 1939, ch. 717, 53 Stat. 1418, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
@@ -403,4 +403,4 @@ This section was not enacted as part of act Aug. 11, 1939, ch. 717, 53 Stat. 141
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 60—FISH AND SEAFOOD PROMOTION
 
-## § 4001. Congressional findings
+## § 4001. Congressional findings
 
 The Congress finds that—
 
@@ -33,19 +33,19 @@ The Congress finds that—
 
 **(7)** the United States fishing industry has the potential to expand greatly its contribution to interstate and foreign commerce, favorably affecting the balance of trade.
 
-(Pub. L. 99–659, title II, § 202, Nov. 14, 1986, 100 Stat. 3715.)
+(Pub. L. 99–659, title II, § 202, Nov. 14, 1986, 100 Stat. 3715.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 99–659, title II, § 201, Nov. 14, 1986, 100 Stat. 3715, provided that: “This title [enacting this chapter and amending section 713c–3 of Title 15, Commerce and Trade] may be cited as the ‘Fish and Seafood Promotion Act of 1986’.”
+Pub. L. 99–659, title II, § 201, Nov. 14, 1986, 100 Stat. 3715, provided that: “This title [enacting this chapter and amending section 713c–3 of Title 15, Commerce and Trade] may be cited as the ‘Fish and Seafood Promotion Act of 1986’.”
 
 **Report to Congress on Fish and Seafood Promotion**
 
-Pub. L. 99–659, title II, § 219, Nov. 14, 1986, 100 Stat. 3731, provided that: “The Secretary shall, not later than March 1, 1989, submit to the Congress a report on the effectiveness of the implementation of this title [enacting this chapter and amending section 713c–3 of Title 15, Commerce and Trade] in achieving the purposes of this title.”
+Pub. L. 99–659, title II, § 219, Nov. 14, 1986, 100 Stat. 3731, provided that: “The Secretary shall, not later than March 1, 1989, submit to the Congress a report on the effectiveness of the implementation of this title [enacting this chapter and amending section 713c–3 of Title 15, Commerce and Trade] in achieving the purposes of this title.”
 
-## § 4002. Congressional statement of purpose
+## § 4002. Congressional statement of purpose
 
 The purpose of this chapter is to—
 
@@ -63,7 +63,7 @@ The purpose of this chapter is to—
 
 **(7)** educate and inform the public about the nutritional value of fish in the diet.
 
-(Pub. L. 99–659, title II, § 203, Nov. 14, 1986, 100 Stat. 3716.)
+(Pub. L. 99–659, title II, § 203, Nov. 14, 1986, 100 Stat. 3716.)
 
 **Editorial Notes**
 
@@ -71,7 +71,7 @@ The purpose of this chapter is to—
 
 This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3715, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-## § 4003. Definitions
+## § 4003. Definitions
 
 As used in this chapter, the term—
 
@@ -121,9 +121,9 @@ As used in this chapter, the term—
 
 **(17)** “United States” means the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands and any other territory, possession, or commonwealth of the United States.
 
-(Pub. L. 99–659, title II, § 204, Nov. 14, 1986, 100 Stat. 3716.)
+(Pub. L. 99–659, title II, § 204, Nov. 14, 1986, 100 Stat. 3716.)
 
-## § 4004. Establishment of National Council
+## § 4004. Establishment of National Council
 
 **(a) Establishment**
 
@@ -173,25 +173,25 @@ The National Council shall first meet within one hundred and eighty days after N
 
 Members of the National Council shall serve without compensation, but shall be reimbursed in accordance with section 5703 of title 5 for reasonable travel costs and expenses incurred in performing their duties as members of the National Council.
 
-(Pub. L. 99–659, title II, § 205, Nov. 14, 1986, 100 Stat. 3717; Pub. L. 100–350, § 3, June 27, 1988, 102 Stat. 660.)
+(Pub. L. 99–659, title II, § 205, Nov. 14, 1986, 100 Stat. 3717; Pub. L. 100–350, § 3, June 27, 1988, 102 Stat. 660.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (d)(1)(E). Pub. L. 100–350 which directed the substitution of “, at least one of whom is not a resident of the States of the Alaska, Pacific, Southeast, and Northeast regions” for “and who are not residents of the States of the Alaska, Pacific, Southeast, or Northeast regions” was executed by substituting that phrase for “and who are not residents of the states of the Alaska, Pacific, Southeast, or Northeast regions”.
+1988—Subsec. (d)(1)(E). Pub. L. 100–350 which directed the substitution of “, at least one of whom is not a resident of the States of the Alaska, Pacific, Southeast, and Northeast regions” for “and who are not residents of the States of the Alaska, Pacific, Southeast, or Northeast regions” was executed by substituting that phrase for “and who are not residents of the states of the Alaska, Pacific, Southeast, or Northeast regions”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Continuity of National Council Membership**
 
-Pub. L. 101–627, title VII, § 704(a), (b), Nov. 28, 1990, 104 Stat. 4464, provided that:
+Pub. L. 101–627, title VII, § 704(a), (b), Nov. 28, 1990, 104 Stat. 4464, provided that:
 
 > **“(a) Uninterrupted Service.—** Individuals serving on September 30, 1990, as members of the National Fish and Seafood Promotional Council shall be deemed to continue as members in uninterrupted service since the date of their initial appointment.
 
 > **“(b) Filling of Vacancies.—** Notwithstanding section 206(e) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(e)), any vacancy on the National Fish and Seafood Promotion Act [Promotional Council] not filled as of September 30, 1990, shall be filled within 60 days after the date of enactment of this Act [Nov. 28, 1990].”
 
-## § 4005. Functions and duties of National Council
+## § 4005. Functions and duties of National Council
 
 **(a) Functions and duties** The National Council shall—
 
@@ -233,7 +233,7 @@ The National Council may enter into agreements to develop and carry out activiti
 
 The National Council shall cease to exist on December 31, 1991.
 
-(Pub. L. 99–659, title II, § 206, Nov. 14, 1986, 100 Stat. 3718; Pub. L. 101–627, title VII, § 701, Nov. 28, 1990, 104 Stat. 4463.)
+(Pub. L. 99–659, title II, § 206, Nov. 14, 1986, 100 Stat. 3718; Pub. L. 101–627, title VII, § 701, Nov. 28, 1990, 104 Stat. 4463.)
 
 **Editorial Notes**
 
@@ -249,9 +249,9 @@ Senior Executive Service, referred to in subsec. (d), see section 5382 of Title 
 
 **Continuity of Council Functions, Contracts, and Personnel**
 
-Pub. L. 101–627, title VII, § 705, Nov. 28, 1990, 104 Stat. 4464, provided that: “All current functions, contracts in force, and existing personnel of the National Fish and Seafood Promotional Council as of September 30, 1990, are reauthorized and extended, and shall continue as if uninterrupted, notwithstanding section 206(g) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(g)) as in effect on September 30, 1990.”
+Pub. L. 101–627, title VII, § 705, Nov. 28, 1990, 104 Stat. 4464, provided that: “All current functions, contracts in force, and existing personnel of the National Fish and Seafood Promotional Council as of September 30, 1990, are reauthorized and extended, and shall continue as if uninterrupted, notwithstanding section 206(g) of the Fish and Seafood Promotion Act of 1986 (16 U.S.C. 4005(g)) as in effect on September 30, 1990.”
 
-## § 4006. Duties of Secretary with regard to National Council
+## § 4006. Duties of Secretary with regard to National Council
 
 **(a) Duties of Secretary** The Secretary shall—
 
@@ -269,7 +269,7 @@ Pub. L. 101–627, title VII, § 705, Nov. 28, 1990, 104 Stat. 4464, provided 
 
 The Secretary shall make withdrawals of sums from the Fund under this section at the request of the National Council, unless the Secretary determines that the purposes for which such sums are requested are not reasonably likely to further the purposes and policies of this chapter.
 
-(Pub. L. 99–659, title II, § 207, Nov. 14, 1986, 100 Stat. 3719; Pub. L. 101–627, title VII, § 704(c), Nov. 28, 1990, 104 Stat. 4464.)
+(Pub. L. 99–659, title II, § 207, Nov. 14, 1986, 100 Stat. 3719; Pub. L. 101–627, title VII, § 704(c), Nov. 28, 1990, 104 Stat. 4464.)
 
 **Editorial Notes**
 
@@ -277,13 +277,13 @@ The Secretary shall make withdrawals of sums from the Fund under this section at
 
 1990—Subsec. (a)(5). Pub. L. 101–627 inserted “initial” before “appointments”.
 
-## § 4007. Voluntary payments
+## § 4007. Voluntary payments
 
 Any person may make voluntary payments to assist the National Council to carry out its annual marketing and promotion plan and annual budget. The Secretary shall deposit such payments into the Fund.
 
-(Pub. L. 99–659, title II, § 208, Nov. 14, 1986, 100 Stat. 3720.)
+(Pub. L. 99–659, title II, § 208, Nov. 14, 1986, 100 Stat. 3720.)
 
-## § 4008. Establishment of Fisheries Promotional Fund
+## § 4008. Establishment of Fisheries Promotional Fund
 
 **(a) Establishment of Fund**
 
@@ -305,7 +305,7 @@ Sums in the Fund that are not currently needed for the purposes of the Fund shal
 
 There are authorized to be appropriated from the Fund, for the purposes of carrying out the annual marketing and promotion plan and annual budget of the National Council under this chapter, such sums as are deposited in the Fund under subsection (b) of this section in each fiscal year beginning in fiscal year 1987 through fiscal year 1991.
 
-(Pub. L. 99–659, title II, § 209, Nov. 14, 1986, 100 Stat. 3720; Pub. L. 101–627, title VII, § 702, Nov. 28, 1990, 104 Stat. 4463.)
+(Pub. L. 99–659, title II, § 209, Nov. 14, 1986, 100 Stat. 3720; Pub. L. 101–627, title VII, § 702, Nov. 28, 1990, 104 Stat. 4463.)
 
 **Editorial Notes**
 
@@ -317,7 +317,7 @@ Section is comprised of section 209 of Pub. L. 99–659. Subsec. (e) of section 
 
 1990—Subsec. (d). Pub. L. 101–627 substituted “1991” for “1990”.
 
-## § 4009. Establishment of seafood marketing councils
+## § 4009. Establishment of seafood marketing councils
 
 **(a) Application**
 
@@ -405,17 +405,17 @@ The text of a proposed charter shall be accompanied by a document identifying, t
 
 A council is not an instrumentality of the United States Government.
 
-(Pub. L. 99–659, title II, § 210, Nov. 14, 1986, 100 Stat. 3721.)
+(Pub. L. 99–659, title II, § 210, Nov. 14, 1986, 100 Stat. 3721.)
 
-## § 4010. Functions and powers of councils
+## § 4010. Functions and powers of councils
 
 **(a) Activities of a council**
 
 **(1)** Each council shall—
 
-**(A)** Adopt 1
+**(A)** Adopt 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 a seal which shall be judicially noticed;
 
@@ -497,9 +497,9 @@ a seal which shall be judicially noticed;
 
 A council may submit to the Secretary amendments to the text of the council’s charter. Any proposed amendments to a charter shall be approved or disapproved in the same manner as the original charter was approved under section 4009(d) and (e) of this title, with the exception of section 4009(d)(1)(B) of this title.
 
-(Pub. L. 99–659, title II, § 211, Nov. 14, 1986, 100 Stat. 3724.)
+(Pub. L. 99–659, title II, § 211, Nov. 14, 1986, 100 Stat. 3724.)
 
-## § 4011. Functions and powers of Secretary
+## § 4011. Functions and powers of Secretary
 
 **(a) Duties of the Secretary** In addition to the duties prescribed under section 4009 of this title, the Secretary shall—
 
@@ -519,9 +519,9 @@ A council may submit to the Secretary amendments to the text of the council’s 
 
 The Secretary may provide, on a reimbursable or other basis, such administrative or technical assistance as a council may request for purposes of the initial organization and subsequent operation of the council.
 
-(Pub. L. 99–659, title II, § 212, Nov. 14, 1986, 100 Stat. 3726.)
+(Pub. L. 99–659, title II, § 212, Nov. 14, 1986, 100 Stat. 3726.)
 
-## § 4012. Assessments
+## § 4012. Assessments
 
 **(a) Authority**
 
@@ -569,9 +569,9 @@ All funds collected or received by a council under this section shall be deposit
 
 **(B)** removed from office if an officer or employee of a council or the Department of Commerce.
 
-(Pub. L. 99–659, title II, § 213, Nov. 14, 1986, 100 Stat. 3727.)
+(Pub. L. 99–659, title II, § 213, Nov. 14, 1986, 100 Stat. 3727.)
 
-## § 4013. Petitions
+## § 4013. Petitions
 
 **(a) Filing of petition** Any person subject to assessment under section 4012 of this title may file a written petition with the Secretary alleging that—
 
@@ -587,15 +587,15 @@ is not in accordance with law and requesting the Secretary to modify or take oth
 
 Any such petition shall be in writing and filed within the period prescribed by the Secretary. A person who files a petition under this section shall be given an opportunity for a hearing regarding the petition in accordance with regulations issued by the Secretary. After such a hearing, or if no hearing is requested, after consideration of all documentation and other evidence, the Secretary shall make a ruling upon such petition.
 
-(Pub. L. 99–659, title II, § 214, Nov. 14, 1986, 100 Stat. 3728.)
+(Pub. L. 99–659, title II, § 214, Nov. 14, 1986, 100 Stat. 3728.)
 
-## § 4014. Refunds
+## § 4014. Refunds
 
 Notwithstanding any other provision of this chapter, any person who pays an assessment under this chapter may demand and shall promptly receive from the council a refund of such assessment. A demand for refund must be made in accordance with the procedures, and within such time, as shall be prescribed by the council and approved by the Secretary. Procedures to provide such a refund shall be established before any such assessment may be collected. Such procedures shall allow any person to request a refund for not less than ninety days from such collection, and provide that any such refund shall be made within sixty days after demand for such refund is made.
 
-(Pub. L. 99–659, title II, § 215, Nov. 14, 1986, 100 Stat. 3728.)
+(Pub. L. 99–659, title II, § 215, Nov. 14, 1986, 100 Stat. 3728.)
 
-## § 4015. Termination of a council
+## § 4015. Termination of a council
 
 **(a) Petition for termination**
 
@@ -619,9 +619,9 @@ Notwithstanding any other provision of this chapter, any person who pays an asse
 
 If a council is terminated under subsection (a) of this section, the Secretary, after recovering all expenses incurred for the conduct of the referendum under subsection (a) of this section, shall take such action as is necessary and practicable to ensure that moneys remaining in the account established by the council under section 4012(e) of this title are paid on a prorated basis to the sector participants from whom those moneys were collected under section 4012 of this title.
 
-(Pub. L. 99–659, title II, § 216, Nov. 14, 1986, 100 Stat. 3728.)
+(Pub. L. 99–659, title II, § 216, Nov. 14, 1986, 100 Stat. 3728.)
 
-## § 4016. Enforcement
+## § 4016. Enforcement
 
 **(a) Authority**
 
@@ -665,9 +665,9 @@ If a council is terminated under subsection (a) of this section, the Secretary, 
 
 **(C)** If, within sixty days after such referral, the Attorney General fails to institute such appropriate action, the council to whose programs the assessment, order or regulation relates may institute an action in its own name.
 
-(Pub. L. 99–659, title II, § 217, Nov. 14, 1986, 100 Stat. 3730.)
+(Pub. L. 99–659, title II, § 217, Nov. 14, 1986, 100 Stat. 3730.)
 
-## § 4017. Investigations
+## § 4017. Investigations
 
 **(a) Authority to make investigations** The Secretary may make such investigations as the Secretary determines necessary to—
 
@@ -683,4 +683,4 @@ For the purpose of investigations under subsection (a) of this section, the Secr
 
 In case of contumacy or refusal to obey a subpoena issued under this section by any person, the Secretary may invoke the aid of any court of the United States within the jurisdiction of which such investigation or proceeding is carried on, or where such person resides or has his business, to require the attendance and testimony of witnesses and the production of books, papers, and documents. Such court may issue an order requiring such person to appear before the Secretary to produce records or to give testimony relating to the matter under investigation.
 
-(Pub. L. 99–659, title II, § 218, Nov. 14, 1986, 100 Stat. 3731.)
+(Pub. L. 99–659, title II, § 218, Nov. 14, 1986, 100 Stat. 3731.)

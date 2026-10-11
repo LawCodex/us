@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1999—Pub. L. 106–65, div. A, title VII, § 721(a), Oct. 5, 1999, 113 Stat. 692, substituted “DECEASED PERSONNEL” for “DEATH BENEFITS” as chapter heading and added subchapter analysis.
+1999—Pub. L. 106–65, div. A, title VII, § 721(a), Oct. 5, 1999, 113 Stat. 692, substituted “DECEASED PERSONNEL” for “DEATH BENEFITS” as chapter heading and added subchapter analysis.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Notification to Next of Kin Upon the Death of a Member of the Armed Forces: Study; Update; Training; Report**
 
-Pub. L. 117–263, div. A, title V, § 527, Dec. 23, 2022, 136 Stat. 2572, provided that:
+Pub. L. 117–263, div. A, title V, § 527, Dec. 23, 2022, 136 Stat. 2572, provided that:
 
 > **“(a) Study.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall conduct a study on the notification processes of the next of kin upon the death of a member of the Armed Forces. In conducting the study, the Secretary shall identify the following elements:
 
@@ -55,9 +55,9 @@ Pub. L. 117–263, div. A, title V, § 527, Dec. 23, 2022, 136 Stat. 2572, pro
 
 **Amendments**
 
-1999—Pub. L. 106–65, div. A, title VII, § 721(a), Oct. 5, 1999, 113 Stat. 692, added subchapter I heading and item 1471.
+1999—Pub. L. 106–65, div. A, title VII, § 721(a), Oct. 5, 1999, 113 Stat. 692, added subchapter I heading and item 1471.
 
-### § 1471. Forensic pathology investigations
+### § 1471. Forensic pathology investigations
 
 **(a) Authority.—** Under regulations prescribed by the Secretary of Defense, the Armed Forces Medical Examiner may conduct a forensic pathology investigation to determine the cause or manner of death of a deceased person if such an investigation is determined to be justified under circumstances described in subsection (b). The investigation may include an autopsy of the decedent’s remains.
 
@@ -127,7 +127,7 @@ Pub. L. 117–263, div. A, title V, § 527, Dec. 23, 2022, 136 Stat. 2572, pro
 
 **(f) Definition of State.—** In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and Guam.
 
-(Added Pub. L. 106–65, div. A, title VII, § 721(a), Oct. 5, 1999, 113 Stat. 692.)
+(Added Pub. L. 106–65, div. A, title VII, § 721(a), Oct. 5, 1999, 113 Stat. 692.)
 
 ## SUBCHAPTER II—DEATH BENEFITS
 
@@ -135,35 +135,35 @@ Pub. L. 117–263, div. A, title V, § 527, Dec. 23, 2022, 136 Stat. 2572, pro
 
 **Amendments**
 
-2021—Pub. L. 116–283, div. A, title XI, § 1104(a)(2), Jan. 1, 2021, 134 Stat. 3890, added item 1492.
+2021—Pub. L. 116–283, div. A, title XI, § 1104(a)(2), Jan. 1, 2021, 134 Stat. 3890, added item 1492.
 
-2001—Pub. L. 107–107, div. A, title X, § 1048(a)(14), Dec. 28, 2001, 115 Stat. 1223, transferred subchapter II heading so as to appear before the table of sections for that subchapter.
+2001—Pub. L. 107–107, div. A, title X, § 1048(a)(14), Dec. 28, 2001, 115 Stat. 1223, transferred subchapter II heading so as to appear before the table of sections for that subchapter.
 
-1999—Pub. L. 106–65, div. A, title VII, § 721(c)(1), Oct. 5, 1999, 113 Stat. 694, inserted “SUBCHAPTER II—DEATH BENEFITS” before section 1475 of this title.
+1999—Pub. L. 106–65, div. A, title VII, § 721(c)(1), Oct. 5, 1999, 113 Stat. 694, inserted “SUBCHAPTER II—DEATH BENEFITS” before section 1475 of this title.
 
-Pub. L. 106–65, div. A, title V, § 578(k)(2)(A), Oct. 5, 1999, 113 Stat. 631, substituted “Funeral honors functions at funerals for veterans” for “Honor guard details at funerals of veterans” in item 1491.
+Pub. L. 106–65, div. A, title V, § 578(k)(2)(A), Oct. 5, 1999, 113 Stat. 631, substituted “Funeral honors functions at funerals for veterans” for “Honor guard details at funerals of veterans” in item 1491.
 
-1998—Pub. L. 105–261, div. A, title V, § 567(b)(2), Oct. 17, 1998, 112 Stat. 2031, added item 1491.
+1998—Pub. L. 105–261, div. A, title V, § 567(b)(2), Oct. 17, 1998, 112 Stat. 2031, added item 1491.
 
-1994—Pub. L. 103–337, div. A, title X, § 1070(a)(8)(B), Oct. 5, 1994, 108 Stat. 2855, substituted “civilian” for “Civilian” in item 1482a.
+1994—Pub. L. 103–337, div. A, title X, § 1070(a)(8)(B), Oct. 5, 1994, 108 Stat. 2855, substituted “civilian” for “Civilian” in item 1482a.
 
-1993—Pub. L. 103–160, div. A, title III, § 368(b), Nov. 30, 1993, 107 Stat. 1634, added item 1482a.
+1993—Pub. L. 103–160, div. A, title III, § 368(b), Nov. 30, 1993, 107 Stat. 1634, added item 1482a.
 
-1991—Pub. L. 102–190, div. A, title VI, § 626(b)(2), Dec. 5, 1991, 105 Stat. 1380, substituted “Transportation of remains: certain retired members and dependents who die in military medical facilities” for “Transportation of remains of members entitled to retired or retainer pay who die in a military medical facility” in item 1490.
+1991—Pub. L. 102–190, div. A, title VI, § 626(b)(2), Dec. 5, 1991, 105 Stat. 1380, substituted “Transportation of remains: certain retired members and dependents who die in military medical facilities” for “Transportation of remains of members entitled to retired or retainer pay who die in a military medical facility” in item 1490.
 
-1983—Pub. L. 98–94, title X, § 1032(a)(2), Sept. 24, 1983, 97 Stat. 672, added item 1490.
+1983—Pub. L. 98–94, title X, § 1032(a)(2), Sept. 24, 1983, 97 Stat. 672, added item 1490.
 
-1980—Pub. L. 96–450, title IV, § 403(b)(2), Oct. 14, 1980, 94 Stat. 1979, added item 1489.
+1980—Pub. L. 96–450, title IV, § 403(b)(2), Oct. 14, 1980, 94 Stat. 1979, added item 1489.
 
-1965—Pub. L. 89–150, § 1(2), Aug. 28, 1965, 79 Stat. 585, struck out “; death while outside United States” from item 1485.
+1965—Pub. L. 89–150, § 1(2), Aug. 28, 1965, 79 Stat. 585, struck out “; death while outside United States” from item 1485.
 
-1958—Pub. L. 85–861, § 1(32)(B), (C), Sept. 2, 1958, 72 Stat. 1455, struck out “CARE OF THE DEAD” from chapter heading, and added items 1475 to 1480.
+1958—Pub. L. 85–861, § 1(32)(B), (C), Sept. 2, 1958, 72 Stat. 1455, struck out “CARE OF THE DEAD” from chapter heading, and added items 1475 to 1480.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Meetings of Officials of the Department of Defense With Representative Groups of Survivors of Deceased Members of the Armed Forces**
 
-Pub. L. 116–92, div. A, title V, § 580B, Dec. 20, 2019, 133 Stat. 1408, provided that:
+Pub. L. 116–92, div. A, title V, § 580B, Dec. 20, 2019, 133 Stat. 1408, provided that:
 
 > **“(a) Chiefs of the Armed Forces.—** The Secretary of Defense shall direct the chiefs of the Armed Forces to meet periodically with representative groups of survivors of deceased members of the Armed Forces to receive feedback from those survivors regarding issues affecting such survivors. The Chief of the National Guard Bureau shall meet with representative groups of survivors of deceased members of the Air National Guard and the Army National Guard.
 
@@ -171,7 +171,7 @@ Pub. L. 116–92, div. A, title V, § 580B, Dec. 20, 2019, 133 Stat. 1408, pro
 
 > **“(c) Briefing.—** Not later than April 1, 2020, the Under Secretary of Defense for Personnel and Readiness shall brief the Committee on Armed Services of the House of Representatives regarding policies established and the results of the meetings under subsection (b).”
 
-### § 1475. Death gratuity: death of members on active duty or inactive duty training and of certain other persons
+### § 1475. Death gratuity: death of members on active duty or inactive duty training and of certain other persons
 
 **(a)** Except as provided in section 1480 of this title, the Secretary concerned shall have a death gratuity paid to or for the survivor prescribed by section 1477 of this title, immediately upon receiving official notification of the death of—
 
@@ -191,13 +191,13 @@ Pub. L. 116–92, div. A, title V, § 580B, Dec. 20, 2019, 133 Stat. 1408, pro
 
 **(b)** This section does not apply to the survivors of persons who were temporary members of the Coast Guard Reserve at the time of their death.
 
-(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1452; amended Pub. L. 88–647, title III, § 301(1), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 96–513, title V, § 511(59), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–661, div. A, title VI, § 604(e)(1), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 112–81, div. A, title VI, § 651(a)(1), Dec. 31, 2011, 125 Stat. 1466; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(vi), Dec. 23, 2016, 130 Stat. 2418; Pub. L. 116–92, div. A, title VI, § 623(a), Dec. 20, 2019, 133 Stat. 1428; Pub. L. 116–283, div. A, title X, § 1081(a)(27), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 118–159, div. A, title VI, § 631(a), Dec. 23, 2024, 138 Stat. 1936.)
+(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1452; amended Pub. L. 88–647, title III, § 301(1), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 96–513, title V, § 511(59), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 99–661, div. A, title VI, § 604(e)(1), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 112–81, div. A, title VI, § 651(a)(1), Dec. 31, 2011, 125 Stat. 1466; Pub. L. 114–328, div. A, title X, § 1081(b)(1)(A)(vi), Dec. 23, 2016, 130 Stat. 2418; Pub. L. 116–92, div. A, title VI, § 623(a), Dec. 20, 2019, 133 Stat. 1428; Pub. L. 116–283, div. A, title X, § 1081(a)(27), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 118–159, div. A, title VI, § 631(a), Dec. 23, 2024, 138 Stat. 1936.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1475(a) | 38:1101(2) (less last sentence, as applicable to death gratuity). 38:1101(4) (as applicable to death gratuity, less (D) (as applicable to 38:1133(a))). 38:1101(5) (as applicable to death gratuity, less (D) (as applicable to 38:1133(a))). 38:1101(6)(A) (less clause (3) of 2d sentence, as applicable to death gratuity). 38:1001(6)(B) (1st sentence, less last 32 words, as applicable to death gratuity, and less (ii)) (as applicable to 38: 1133 (a))). 38:1101(11)(E) (less last 27 words, as applicable to death gratuity). 38:1131(a). | Aug. 1, 1956, ch. 837, §§ 102(2) (less last sentence, as applicable to death gratuity), 102(2) (last sentence, as applicable to death gratuity), (4) (as applicable to death gratuity, less (D) (as applicable to § 303(a))), (5) (as applicable to death gratuity, less (D) (as applicable to § 303(a))), (6)(A) (as applicable to death gratuity), (B) (1st sentence, less last 32 words, as applicable to death gratuity, and less (ii) (as applicable to § 303(a))), (11)(E) (less last 27 words, as applicable to death gratuity), 301(a), 70 Stat. 858–861, 868. |
+| 1475(a) | 38:1101(2) (less last sentence, as applicable to death gratuity). 38:1101(4) (as applicable to death gratuity, less (D) (as applicable to 38:1133(a))). 38:1101(5) (as applicable to death gratuity, less (D) (as applicable to 38:1133(a))). 38:1101(6)(A) (less clause (3) of 2d sentence, as applicable to death gratuity). 38:1001(6)(B) (1st sentence, less last 32 words, as applicable to death gratuity, and less (ii)) (as applicable to 38: 1133 (a))). 38:1101(11)(E) (less last 27 words, as applicable to death gratuity). 38:1131(a). | Aug. 1, 1956, ch. 837, §§ 102(2) (less last sentence, as applicable to death gratuity), 102(2) (last sentence, as applicable to death gratuity), (4) (as applicable to death gratuity, less (D) (as applicable to § 303(a))), (5) (as applicable to death gratuity, less (D) (as applicable to § 303(a))), (6)(A) (as applicable to death gratuity), (B) (1st sentence, less last 32 words, as applicable to death gratuity, and less (ii) (as applicable to § 303(a))), (11)(E) (less last 27 words, as applicable to death gratuity), 301(a), 70 Stat. 858–861, 868. |
 | 1475(b) | 38:1101(2) (last sentence, as applicable to death gratuity under 38: 1131(a)). |  |
 |  | 38:1101(6)(A) (clause (3) of 2d sentence, as applicable to death gratuity under 38:1131 (a)). |  |
 
@@ -207,7 +207,7 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 
 **References in Text**
 
-The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
+The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
 
 **Amendments**
 
@@ -215,7 +215,7 @@ The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I
 
 2021—Subsec. (a)(4). Pub. L. 116–283 substituted “or a graduate” for “or; or a graduate”.
 
-2019—Subsec. (a)(4). Pub. L. 116–92 inserted at end “; or a graduate of a reserve officers’ training corps who has received a commission but has yet to receive a first duty assignment; or”.
+2019—Subsec. (a)(4). Pub. L. 116–92 inserted at end “; or a graduate of a reserve officers’ training corps who has received a commission but has yet to receive a first duty assignment; or”.
 
 2016—Subsec. (a)(5)(B). Pub. L. 114–328 substituted “(50 U.S.C. 3801 et seq.)” for “(50 U.S.C. App. 451 et seq.)”.
 
@@ -231,15 +231,15 @@ The Military Selective Service Act, referred to in subsec. (a)(5)(B), is title I
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. A, title VI, § 631(d), Dec. 23, 2024, 138 Stat. 1937, provided that: “The amendments made by this section [amending this section, section 1481 of this title and provisions set out as a note under this section] shall apply to a death that occurs on or after the date of the enactment of this Act [Dec. 23, 2024].”
+Pub. L. 118–159, div. A, title VI, § 631(d), Dec. 23, 2024, 138 Stat. 1937, provided that: “The amendments made by this section [amending this section, section 1481 of this title and provisions set out as a note under this section] shall apply to a death that occurs on or after the date of the enactment of this Act [Dec. 23, 2024].”
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title VI, § 623(b), Dec. 20, 2019, 133 Stat. 1428, as amended by Pub. L. 116–283, div. A, title VI, § 623, Jan. 1, 2021, 134 Stat. 3677, provided that: “The amendment under subsection (a) [amending this section] applies to deaths that occur on or after May 1, 2017.”
+Pub. L. 116–92, div. A, title VI, § 623(b), Dec. 20, 2019, 133 Stat. 1428, as amended by Pub. L. 116–283, div. A, title VI, § 623, Jan. 1, 2021, 134 Stat. 3677, provided that: “The amendment under subsection (a) [amending this section] applies to deaths that occur on or after May 1, 2017.”
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–81, div. A, title VI, § 651(c), Dec. 31, 2011, 125 Stat. 1467, provided that: “The amendments made by this section [amending this section and sections 1478 and 1481 of this title] shall take effect on the date of the enactment of this Act [Dec. 31, 2011], and shall apply with respect to deaths that occur on or after that date.”
+Pub. L. 112–81, div. A, title VI, § 651(c), Dec. 31, 2011, 125 Stat. 1467, provided that: “The amendments made by this section [amending this section and sections 1478 and 1481 of this title] shall take effect on the date of the enactment of this Act [Dec. 31, 2011], and shall apply with respect to deaths that occur on or after that date.”
 
 **Effective Date of 1986 Amendment**
 
@@ -263,17 +263,17 @@ Authority vested by this chapter in “military departments”, “the Secretary
 
 **Obligation of Defense Health Program Appropriations for Death Gratuity Payments**
 
-Pub. L. 116–260, div. C, title VIII, § 8123, Dec. 27, 2020, 134 Stat. 1333, provided that: “Amounts appropriated for ‘Defense Health Program’ in this Act [div. C of Pub. L. 116–260] and hereafter may be obligated to make death gratuity payments, as authorized in subchapter II of chapter 75 of title 10, United States Code, if no appropriation for ‘Military Personnel’ is available for obligation for such payments: *Provided*, That such obligations may subsequently be recorded against appropriations available for ‘Military Personnel’.”
+Pub. L. 116–260, div. C, title VIII, § 8123, Dec. 27, 2020, 134 Stat. 1333, provided that: “Amounts appropriated for ‘Defense Health Program’ in this Act [div. C of Pub. L. 116–260] and hereafter may be obligated to make death gratuity payments, as authorized in subchapter II of chapter 75 of title 10, United States Code, if no appropriation for ‘Military Personnel’ is available for obligation for such payments: *Provided*, That such obligations may subsequently be recorded against appropriations available for ‘Military Personnel’.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 116–93, div. A, title VIII, § 8127, Dec. 20, 2019, 133 Stat. 2366.
+Pub. L. 116–93, div. A, title VIII, § 8127, Dec. 20, 2019, 133 Stat. 2366.
 
-Pub. L. 115–245, div. A, title VIII, § 8136, Sept. 28, 2018, 132 Stat. 3030.
+Pub. L. 115–245, div. A, title VIII, § 8136, Sept. 28, 2018, 132 Stat. 3030.
 
 **Obligation of Department of Homeland Security Appropriations for Death Gratuity Payments**
 
-Pub. L. 116–93, div. D, title II, § 231, Dec. 20, 2019, 133 Stat. 2517, provided that:
+Pub. L. 116–93, div. D, title II, § 231, Dec. 20, 2019, 133 Stat. 2517, provided that:
 
 > **“(a)** Any discretionary amounts appropriated in this Act [div. D of Pub. L. 116–93] in the current fiscal year and any fiscal year thereafter may be obligated for death gratuity payments, as authorized in subchapter II of chapter 75 of title 10, United States Code.
 
@@ -283,7 +283,7 @@ Pub. L. 116–93, div. D, title II, § 231, Dec. 20, 2019, 133 Stat. 2517, pro
 
 **Improved Assistance for Gold Star Spouses and Other Dependents**
 
-Pub. L. 113–66, div. A, title VI, § 633, Dec. 26, 2013, 127 Stat. 786, as amended by Pub. L. 116–92, div. A, title VI, § 625, Dec. 20, 2019, 133 Stat. 1428; Pub. L. 116–283, div. A, title VI, § 624, Jan. 1, 2021, 134 Stat. 3677; Pub. L. 118–159, div. A, title VI, § 631(c), Dec. 23, 2024, 138 Stat. 1936, provided that:
+Pub. L. 113–66, div. A, title VI, § 633, Dec. 26, 2013, 127 Stat. 786, as amended by Pub. L. 116–92, div. A, title VI, § 625, Dec. 20, 2019, 133 Stat. 1428; Pub. L. 116–283, div. A, title VI, § 624, Jan. 1, 2021, 134 Stat. 3677; Pub. L. 118–159, div. A, title VI, § 631(c), Dec. 23, 2024, 138 Stat. 1936, provided that:
 
 > **“(a) Advocates for Gold Star Spouses and Other Dependents.—**
 
@@ -329,7 +329,7 @@ Pub. L. 113–66, div. A, title VI, § 633, Dec. 26, 2013, 127 Stat. 786, as a
 
 **Policy and Procedures on Casualty Assistance to Survivors of Military Decedents**
 
-Pub. L. 109–163, div. A, title V, § 562, Jan. 6, 2006, 119 Stat. 3267, as amended by Pub. L. 109–364, div. A, title V, § 566, Oct. 17, 2006, 120 Stat. 2223, provided that:
+Pub. L. 109–163, div. A, title V, § 562, Jan. 6, 2006, 119 Stat. 3267, as amended by Pub. L. 109–364, div. A, title V, § 566, Oct. 17, 2006, 120 Stat. 2223, provided that:
 
 > **“(a) Comprehensive Policy on Casualty Assistance.—**
 
@@ -401,7 +401,7 @@ Pub. L. 109–163, div. A, title V, § 562, Jan. 6, 2006, 119 Stat. 3267, as a
 
 > **“(2) Assessment.—** The report shall include the assessment of the Comptroller General of the adequacy of the current policies and procedures of, and funding for, the casualty assistance programs covered by the report to achieve their intended purposes.”
 
-### § 1476. Death gratuity: death after discharge or release from duty or training
+### § 1476. Death gratuity: death after discharge or release from duty or training
 
 **(a)**
 
@@ -421,13 +421,13 @@ Pub. L. 109–163, div. A, title V, § 562, Jan. 6, 2006, 119 Stat. 3267, as a
 
 **(c)** This section does not apply to the survivors of persons who were temporary members of the Coast Guard Reserve at the time of their death.
 
-(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1452; amended Pub. L. 99–661, div. A, title VI, § 604(e)(2), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), (2), Nov. 29, 1989, 103 Stat. 1602, 1603.)
+(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1452; amended Pub. L. 99–661, div. A, title VI, § 604(e)(2), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), (2), Nov. 29, 1989, 103 Stat. 1602, 1603.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1476(a) 1476(b)           1476(c) 1476(d) | 38:1133(a). 38:1101(4)(D) (as applicable to 38:1133(a)). 38:1101(5)(D) (as applicable to 38:1133(a)). 38:1101(6)(B)(ii) (as applicable to 38:1133(a)). 38:1133(c). 38:1101(2) (last sentence, as applicable to death gratuity under 38:1133(a)). 38:1101(6)(A) (clause (3) of 2d sentence, as applicable to death gratuity under 38:1133(a)). | Aug. 1, 1956, ch. 837, §§ 102(2) (last sentence, as applicable to death gratuity under § 303(a)), 102(4)(D) (as applicable to § 303(a)), 102(5)(D) (as applicable to § 303(a)), 102(6)(A) (clause (3) of 2d sentence, as applicable to death gratuity under § 303(a)), 102(6)(B)(ii) (as applicable to § 303(a)), 303(a), (c), 70 Stat. 858, 859, 868, 869. |
+| 1476(a) 1476(b) 1476(c) 1476(d) | 38:1133(a). 38:1101(4)(D) (as applicable to 38:1133(a)). 38:1101(5)(D) (as applicable to 38:1133(a)). 38:1101(6)(B)(ii) (as applicable to 38:1133(a)). 38:1133(c). 38:1101(2) (last sentence, as applicable to death gratuity under 38:1133(a)). 38:1101(6)(A) (clause (3) of 2d sentence, as applicable to death gratuity under 38:1133(a)). | Aug. 1, 1956, ch. 837, §§ 102(2) (last sentence, as applicable to death gratuity under § 303(a)), 102(4)(D) (as applicable to § 303(a)), 102(5)(D) (as applicable to § 303(a)), 102(6)(A) (clause (3) of 2d sentence, as applicable to death gratuity under § 303(a)), 102(6)(B)(ii) (as applicable to § 303(a)), 303(a), (c), 70 Stat. 858, 859, 868, 869. |
 
 In subsection (a), the words “Except as provided in section 1480 of this title” are inserted to reflect 38:1134(a). The words “to the survivor prescribed by section 1477 of this title” are inserted for clarity. The words “on or after January 1, 1957” are omitted as executed. The words in parentheses in clause (2) are inserted to reflect 38:1101(6)(A) (2d sentence). The words “active duty for training” are omitted as covered by the definition of “active duty” in section 101(22) of this title.
 
@@ -437,9 +437,9 @@ In subsection (c), the word “criteria” is omitted as covered by the word “
 
 **Amendments**
 
-1989—Subsec. (a)(2). Pub. L. 101–189, § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+1989—Subsec. (a)(2). Pub. L. 101–189, § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-Subsec. (b). Pub. L. 101–189, § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+Subsec. (b). Pub. L. 101–189, § 1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
 1986—Pub. L. 99–661 added subsec. (a), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsecs. (a) and (b) which read as follows:
 
@@ -467,7 +467,7 @@ Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov.
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1477. Death gratuity: eligible survivors
+### § 1477. Death gratuity: eligible survivors
 
 **(a) Designation of Recipients.—**
 
@@ -511,13 +511,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(e) Effect of Death Before Receipt of Gratuity.—** If a person entitled to all or a portion of a death gratuity under subsection (a) or (b) dies before the person receives the death gratuity, it shall be paid to the living survivor next in the order prescribed by subsection (b).
 
-(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1453; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 110–28, title III, § 3306, May 25, 2007, 121 Stat. 136; Pub. L. 110–181, div. A, title VI, § 645(a), (b), Jan. 28, 2008, 122 Stat. 158, 159; Pub. L. 110–417, [div. A], title X, § 1061(a)(4), Oct. 14, 2008, 122 Stat. 4612.)
+(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1453; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 110–28, title III, § 3306, May 25, 2007, 121 Stat. 136; Pub. L. 110–181, div. A, title VI, § 645(a), (b), Jan. 28, 2008, 122 Stat. 158, 159; Pub. L. 110–417, [div. A], title X, § 1061(a)(4), Oct. 14, 2008, 122 Stat. 4612.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1477(a)       1477(b) | 38:1131(c) (less words in parentheses in clause (2)). 38:1134(d). 38:1101(7) (as applicable to children and as applicable to death gratuity). | Aug. 1, 1956, ch. 837, §§ 102(7) (as applicable to death gratuity), 301(c), (d), 304(d), 70 Stat. 860, 868, 869. |
+| 1477(a) 1477(b) | 38:1131(c) (less words in parentheses in clause (2)). 38:1134(d). 38:1101(7) (as applicable to children and as applicable to death gratuity). | Aug. 1, 1956, ch. 837, §§ 102(7) (as applicable to death gratuity), 301(c), (d), 304(d), 70 Stat. 860, 868, 869. |
 |  | 38:1131(c) (words in parentheses in clause (2)). |  |
 | 1477(c) | 38:1101(7) (less applicability to children, as applicable to death gratuity). |  |
 | 1477(d) | 38:1131(d). |  |
@@ -530,27 +530,27 @@ In subsection (d), the words “the death gratuity” are substituted for the wo
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–181, § 645(a)(3), added subsec. (a) and struck out former subsec. (a) which required a death gratuity payable upon the death of a person covered by section 1475 or 1476 of this title to be paid to or for the living survivor highest on a specified list.
+2008—Subsec. (a). Pub. L. 110–181, § 645(a)(3), added subsec. (a) and struck out former subsec. (a) which required a death gratuity payable upon the death of a person covered by section 1475 or 1476 of this title to be paid to or for the living survivor highest on a specified list.
 
-Subsec. (b). Pub. L. 110–181, § 645(a)(3), added subsec. (b). Former subsec. (b) redesignated (d).
+Subsec. (b). Pub. L. 110–181, § 645(a)(3), added subsec. (b). Former subsec. (b) redesignated (d).
 
-Subsec. (c). Pub. L. 110–181, § 645(a)(3), added subsec. (c).
+Subsec. (c). Pub. L. 110–181, § 645(a)(3), added subsec. (c).
 
-Pub. L. 110–181, § 645(a)(1), struck out subsec. (c) which read as follows: “Clauses (3) and (4) of subsection (a), so far as they apply to parents and persons in loco parentis, include fathers and mothers through adoption, and persons who stood in loco parentis to the decedent for a period of not less than one year at any time before he acquired a status described in section 1475 or 1476 of this title. However, only one father and one mother, or their counterparts in loco parentis, may be recognized in any case, and preference shall be given to those who exercised a parental relationship on the date, or most nearly before the date, on which the decedent entered that status.”
+Pub. L. 110–181, § 645(a)(1), struck out subsec. (c) which read as follows: “Clauses (3) and (4) of subsection (a), so far as they apply to parents and persons in loco parentis, include fathers and mothers through adoption, and persons who stood in loco parentis to the decedent for a period of not less than one year at any time before he acquired a status described in section 1475 or 1476 of this title. However, only one father and one mother, or their counterparts in loco parentis, may be recognized in any case, and preference shall be given to those who exercised a parental relationship on the date, or most nearly before the date, on which the decedent entered that status.”
 
-Subsec. (d). Pub. L. 110–181, § 645(a)(2), redesignated subsec. (b) as (d) and substituted “Treatment of Children.—Subsection (b)(2)” for “Subsection (a)(2)” in introductory provisions.
+Subsec. (d). Pub. L. 110–181, § 645(a)(2), redesignated subsec. (b) as (d) and substituted “Treatment of Children.—Subsection (b)(2)” for “Subsection (a)(2)” in introductory provisions.
 
-Pub. L. 110–181, § 645(a)(1), struck out subsec. (d) which read as follows: “During the period beginning on the date of the enactment of this subsection and ending on September 30, 2007, a person covered by section 1475 or 1476 of this title may designate another person to receive not more than 50 percent of the amount payable under section 1478 of this title. The designation shall indicate the percentage of the amount, to be specified only in 10 percent increments up to the maximum of 50 percent, that the designated person may receive. The balance of the amount of the death gratuity shall be paid to or for the living survivors of the person concerned in accordance with paragraphs (1) through (5) of subsection (a).”
+Pub. L. 110–181, § 645(a)(1), struck out subsec. (d) which read as follows: “During the period beginning on the date of the enactment of this subsection and ending on September 30, 2007, a person covered by section 1475 or 1476 of this title may designate another person to receive not more than 50 percent of the amount payable under section 1478 of this title. The designation shall indicate the percentage of the amount, to be specified only in 10 percent increments up to the maximum of 50 percent, that the designated person may receive. The balance of the amount of the death gratuity shall be paid to or for the living survivors of the person concerned in accordance with paragraphs (1) through (5) of subsection (a).”
 
 Subsec. (e). Pub. L. 110–417 inserted period at end.
 
-Pub. L. 110–181, § 645(b), inserted heading and substituted “subsection (a) or (b)” for “subsection (a) or (d)” and “subsection (b)” for “subsection (a).”.
+Pub. L. 110–181, § 645(b), inserted heading and substituted “subsection (a) or (b)” for “subsection (a) or (d)” and “subsection (b)” for “subsection (a).”.
 
-2007—Subsec. (a). Pub. L. 110–28, § 3306(1), substituted “Subject to subsection (d), a death gratuity” for “A death gratuity”.
+2007—Subsec. (a). Pub. L. 110–28, § 3306(1), substituted “Subject to subsection (d), a death gratuity” for “A death gratuity”.
 
-Subsec. (d). Pub. L. 110–28, § 3306(3), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 110–28, § 3306(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 110–28, § 3306(2), redesignated subsec. (d) as (e) and substituted “If a person entitled to all or a portion of a death gratuity under subsection (a) or (d) dies before the person” for “If an eligible survivor dies before he”.
+Subsec. (e). Pub. L. 110–28, § 3306(2), redesignated subsec. (d) as (e) and substituted “If a person entitled to all or a portion of a death gratuity under subsection (a) or (d) dies before the person” for “If an eligible survivor dies before he”.
 
 1989—Subsec. (b)(5)(C). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
@@ -558,7 +558,7 @@ Subsec. (e). Pub. L. 110–28, § 3306(2), redesignated subsec. (d) as (e) and
 
 **Regulations**
 
-Pub. L. 110–181, div. A, title VI, § 645(d), Jan. 28, 2008, 122 Stat. 160, provided that:
+Pub. L. 110–181, div. A, title VI, § 645(d), Jan. 28, 2008, 122 Stat. 160, provided that:
 
 > **“(1) In general.—** Not later than April 1, 2008, the Secretary of Defense shall prescribe regulations to implement the amendments to section 1477 of title 10, United States Code, made by subsection (a).
 
@@ -566,9 +566,9 @@ Pub. L. 110–181, div. A, title VI, § 645(d), Jan. 28, 2008, 122 Stat. 160, 
 
 **Existing Designation Authority**
 
-Pub. L. 110–181, div. A, title VI, § 645(c), Jan. 28, 2008, 122 Stat. 159, provided that: “The authority provided by subsection (d) of section 1477 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act [Jan. 28, 2008], shall remain available to persons covered by section 1475 or 1476 of such title until July 1, 2008, or such earlier date as the Secretary of Defense may prescribe, and any designation under such subsection made before July 1, 2008, or the earlier date prescribed by the Secretary, shall continue in effect until such time as the person who made the designation makes a new designation under such section 1477, as amended by subsection (a) of this section.”
+Pub. L. 110–181, div. A, title VI, § 645(c), Jan. 28, 2008, 122 Stat. 159, provided that: “The authority provided by subsection (d) of section 1477 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act [Jan. 28, 2008], shall remain available to persons covered by section 1475 or 1476 of such title until July 1, 2008, or such earlier date as the Secretary of Defense may prescribe, and any designation under such subsection made before July 1, 2008, or the earlier date prescribed by the Secretary, shall continue in effect until such time as the person who made the designation makes a new designation under such section 1477, as amended by subsection (a) of this section.”
 
-### § 1478. Death gratuity: amount
+### § 1478. Death gratuity: amount
 
 **(a)** The death gratuity payable under sections 1475 through 1477 of this title shall be $100,000. For this purpose:
 
@@ -592,7 +592,7 @@ Pub. L. 110–181, div. A, title VI, § 645(c), Jan. 28, 2008, 122 Stat. 159, 
 
 **(b)** A person who is discharged, or released from active duty (other than for training), is considered to continue on that duty during the period following the date of his discharge or release that, as determined by the Secretary concerned, is necessary for that person to go to his home by the most direct route. That period may not end before midnight of the day on which the member is discharged or released.
 
-**[(c)** Repealed. Pub. L. 109–163, div. A, title VI, § 664(a)(2)(B), Jan. 6, 2006, 119 Stat. 3316.]
+**[(c)** Repealed. Pub. L. 109–163, div. A, title VI, § 664(a)(2)(B), Jan. 6, 2006, 119 Stat. 3316.]
 
 **(d)**
 
@@ -604,13 +604,13 @@ Pub. L. 110–181, div. A, title VI, § 645(c), Jan. 28, 2008, 122 Stat. 159, 
 
 **(4)** A payment pursuant to this subsection shall be paid in the same manner as provided under paragraph (4) of the prior subsection (e) of this section (as added by section 1013(b) of Public Law 109–13; 119 Stat. 247), for payments pursuant to paragraph (3)(A) of that prior subsection.
 
-(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1454; amended Pub. L. 88–647, title III, § 301(2), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 89–718, § 11, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 102–190, div. A, title VI, § 652(a), Dec. 5, 1991, 105 Stat. 1387; Pub. L. 108–121, title I, § 102(a)(1), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–136, div. A, title VI, § 646(a), Nov. 24, 2003, 117 Stat. 1520; Pub. L. 108–375, div. A, title VI, § 643(b), Oct. 28, 2004, 118 Stat. 1958; Pub. L. 109–13, div. A, title I, § 1013(a)–(c), May 11, 2005, 119 Stat. 246–248; Pub. L. 109–163, div. A, title VI, § 664(a)(1), (2), (b), Jan. 6, 2006, 119 Stat. 3316; Pub. L. 109–234, title I, § 1210, June 15, 2006, 120 Stat. 430; Pub. L. 112–81, div. A, title VI, § 651(a)(2), Dec. 31, 2011, 125 Stat. 1466.)
+(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1454; amended Pub. L. 88–647, title III, § 301(2), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 89–718, § 11, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 102–190, div. A, title VI, § 652(a), Dec. 5, 1991, 105 Stat. 1387; Pub. L. 108–121, title I, § 102(a)(1), Nov. 11, 2003, 117 Stat. 1337; Pub. L. 108–136, div. A, title VI, § 646(a), Nov. 24, 2003, 117 Stat. 1520; Pub. L. 108–375, div. A, title VI, § 643(b), Oct. 28, 2004, 118 Stat. 1958; Pub. L. 109–13, div. A, title I, § 1013(a)–(c), May 11, 2005, 119 Stat. 246–248; Pub. L. 109–163, div. A, title VI, § 664(a)(1), (2), (b), Jan. 6, 2006, 119 Stat. 3316; Pub. L. 109–234, title I, § 1210, June 15, 2006, 120 Stat. 430; Pub. L. 112–81, div. A, title VI, § 651(a)(2), Dec. 31, 2011, 125 Stat. 1466.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1478(a) | 38:1101(6)(B) (last 32 words of 1st sentence, as applicable to death gratuity). 38:1101(10)(B) (as applicable to death gratuity). 38:1101(11)(E) (last 27 words, as applicable to death gratuity). 38:1131(b). 38:1133(d). 38:1134(c). | Aug. 1, 1956, ch. 837, §§ 102(6)(B) (last 32 words of 1st sentence, as applicable to death gratuity), (10)(B) (as applicable to death gratuity), (11)(E) (last 27 words, as applicable to death gratuity), (12) (as applicable to death gratuity), 301(b), 303(d), 304(c), 70 Stat. 859–861, 868, 869. |
+| 1478(a) | 38:1101(6)(B) (last 32 words of 1st sentence, as applicable to death gratuity). 38:1101(10)(B) (as applicable to death gratuity). 38:1101(11)(E) (last 27 words, as applicable to death gratuity). 38:1131(b). 38:1133(d). 38:1134(c). | Aug. 1, 1956, ch. 837, §§ 102(6)(B) (last 32 words of 1st sentence, as applicable to death gratuity), (10)(B) (as applicable to death gratuity), (11)(E) (last 27 words, as applicable to death gratuity), (12) (as applicable to death gratuity), 301(b), 303(d), 304(c), 70 Stat. 859–861, 868, 869. |
 | 1478(b) | 38:1101(12) (as applicable to death gratuity). |  |
 
 In subsection (a), the word “pay” is substituted for the words “basic pay (plus special and incentive pays)”, since the word “pay”, as defined in section 101(27) of this title, includes those types of pay. Clause (1) is inserted to reflect section 1475(a)(1) of this title. Clauses (2) and (3) are substituted for 38:1101(6)(B) (last 32 words of 1st sentence). Clause 4 is substituted for 38:1101(10)(B). The words “to the pay prescribed by section 4385(c) or 9385(c) of this title” are inserted to reflect those sections, which prescribe the training pay of members of reserve officers’ training corps units. Clause (5) is substituted for 38:1101(11)(E) (last 27 words). Clause (6) is substituted for 38:1133(d). In clause (6), the word “pay” is substituted for the words “basic pay (plus special and incentive pays)”, since the word “pay”, as defined in section 101(27) of this title, includes those kinds of pay. Clauses (7) and (8) are substituted for 38:1134(c). In those clauses, the words “active duty for training” are omitted as covered by the definition of “active duty” in section 101(22) of this title. In clause (8), the words “and who became entitled to basic pay” are substituted for the words “and is placed in a pay status” and the words “is entitled to that pay” are substituted for the words “remains in a pay status”.
@@ -627,19 +627,19 @@ Section 664(c) of the National Defense Authorization Act for Fiscal Year 2006, r
 
 2011—Subsec. (a)(4) to (9). Pub. L. 112–81 added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 
-2006—Subsec. (a). Pub. L. 109–163, § 664(a)(1), (2)(A), in introductory provisions, substituted “$100,000” for “$12,000” and struck out “(as adjusted under subsection (c))” before period at end of first sentence.
+2006—Subsec. (a). Pub. L. 109–163, § 664(a)(1), (2)(A), in introductory provisions, substituted “$100,000” for “$12,000” and struck out “(as adjusted under subsection (c))” before period at end of first sentence.
 
-Subsec. (c). Pub. L. 109–163, § 664(a)(2)(B), struck out subsec. (c) which read as follows: “Effective on the date on which rates of basic pay under section 204 of title 37 are increased under section 1009 of that title or any other provision of law, the amount of the death gratuity in effect under subsection (a) shall be increased by the same overall average percentage of the increase in the rates of basic pay taking effect on that date.”
+Subsec. (c). Pub. L. 109–163, § 664(a)(2)(B), struck out subsec. (c) which read as follows: “Effective on the date on which rates of basic pay under section 204 of title 37 are increased under section 1009 of that title or any other provision of law, the amount of the death gratuity in effect under subsection (a) shall be increased by the same overall average percentage of the increase in the rates of basic pay taking effect on that date.”
 
-Subsec. (d). Pub. L. 109–163, § 664(b), added subsec. (d).
+Subsec. (d). Pub. L. 109–163, § 664(b), added subsec. (d).
 
 Subsec. (d)(2). Pub. L. 109–234 substituted “August 31, 2005” for “May 11, 2005”.
 
-2005—Subsec. (a). Pub. L. 109–13, § 1013(a)(2), (e), temporarily substituted “(as adjusted under subsection (d))” for “(as adjusted under subsection (c))” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
+2005—Subsec. (a). Pub. L. 109–13, § 1013(a)(2), (e), temporarily substituted “(as adjusted under subsection (d))” for “(as adjusted under subsection (c))” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
 
-Pub. L. 109–13, § 1013(a)(1)(A), (e), temporarily inserted “, except as provided in subsections (c), (e), and (f)” after “$12,000” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
+Pub. L. 109–13, § 1013(a)(1)(A), (e), temporarily inserted “, except as provided in subsections (c), (e), and (f)” after “$12,000” in introductory provisions. See Effective and Termination Dates of 2005 Amendments notes below.
 
-Subsec. (c). Pub. L. 109–13, § 1013(a)(1)(C), (e), temporarily added subsec. (c) which read as follows: “The death gratuity payable under sections 1475 through 1477 of this title is $100,000 in the case of a death resulting from wounds, injuries, or illnesses that are—
+Subsec. (c). Pub. L. 109–13, § 1013(a)(1)(C), (e), temporarily added subsec. (c) which read as follows: “The death gratuity payable under sections 1475 through 1477 of this title is $100,000 in the case of a death resulting from wounds, injuries, or illnesses that are—
 
 “(1) incurred as described in section 1413a(e)(2) of this title; or
 
@@ -647,9 +647,9 @@ Subsec. (c). Pub. L. 109–13, § 1013(a)(1)(C), (e), temporarily added subsec
 
 Former subsec. (c) temporarily redesignated (d). See Effective and Termination Dates of 2005 Amendments notes below.
 
-Subsec. (d). Pub. L. 109–13, § 1013(a)(1)(B), (e), temporarily redesignated subsec. (c) as (d). See Effective and Termination Dates of 2005 Amendments notes below.
+Subsec. (d). Pub. L. 109–13, § 1013(a)(1)(B), (e), temporarily redesignated subsec. (c) as (d). See Effective and Termination Dates of 2005 Amendments notes below.
 
-Subsec. (e). Pub. L. 109–13, § 1013(b), (e), temporarily added subsec. (e) which read as follows:
+Subsec. (e). Pub. L. 109–13, § 1013(b), (e), temporarily added subsec. (e) which read as follows:
 
 “(e)(1) In the case of a person described in paragraph (2), a death gratuity shall be payable in accordance with this subsection for the death of such person that is in addition to the death gratuity payable in the case of such death under subsection (a).
 
@@ -673,7 +673,7 @@ Subsec. (e). Pub. L. 109–13, § 1013(b), (e), temporarily added subsec. (e) 
 
 “(5) A payment pursuant to paragraph (3)(B) by reason of a death covered by this subsection shall be paid equal shares to the beneficiaries who were paid the death gratuity that was paid with respect to that death under this section.” See Effective and Termination Dates of 2005 Amendments notes below.
 
-Subsec. (f). Pub. L. 109–13, § 1013(c), (e), temporarily added subsec. (f) which read as follows:
+Subsec. (f). Pub. L. 109–13, § 1013(c), (e), temporarily added subsec. (f) which read as follows:
 
 “(f)(1) In the case of a person described in paragraph (2), a death gratuity shall be payable in accordance with this subsection for the death of such person that is in addition to the death gratuity payable in the case of such death under subsection (e).
 
@@ -693,15 +693,15 @@ Subsec. (f). Pub. L. 109–13, § 1013(c), (e), temporarily added subsec. (f) 
 
 See Effective and Termination Dates of 2005 Amendments notes below.
 
-2004—Subsec. (a). Pub. L. 108–375, § 643(b)(1), inserted “(as adjusted under subsection (c))” before period in introductory provisions.
+2004—Subsec. (a). Pub. L. 108–375, § 643(b)(1), inserted “(as adjusted under subsection (c))” before period in introductory provisions.
 
-Subsec. (c). Pub. L. 108–375, § 643(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 108–375, § 643(b)(2), added subsec. (c).
 
 2003—Subsec. (a). Pub. L. 108–121 and Pub. L. 108–136 amended subsec. (a) identically, substituting “$12,000” for “$6,000” in introductory provisions.
 
 1991—Subsec. (a). Pub. L. 102–190, in first sentence, substituted “1475 through 1477” for “1475–1477” and “$6,000” for “equal to six months’ pay at the rate to which the decedent was entitled on the date of his death, except that the gratuity may not be less than $800 of more than $3,000.”
 
-1966—Subsec. (a)(4). Pub. L. 89–718 struck out “, United States Code” after “title 37” in two places.
+1966—Subsec. (a)(4). Pub. L. 89–718 struck out “, United States Code” after “title 37” in two places.
 
 1964—Subsec. (a)(4). Pub. L. 88–647 substituted “the first sentence of section 209(c) of title 37, United States Code” for “section 4385(c) or 9385(c) of this title”, and provided that a person covered by section 1475(a)(4) of this title who dies in field training or on a practice cruise, or in travel to or from such training or cruise, is considered entitled on the day of his death to the pay prescribed by the second sentence of section 209(c) of Title 37.
 
@@ -713,15 +713,15 @@ Amendment by Pub. L. 112–81 effective on Dec. 31, 2011, and applicable with re
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–234, title I, § 1210, June 15, 2006, 120 Stat. 430, provided that the amendment made by section 1210 is effective as of Jan. 6, 2006, and as if included in the enactment of Pub. L. 109–163.
+Pub. L. 109–234, title I, § 1210, June 15, 2006, 120 Stat. 430, provided that the amendment made by section 1210 is effective as of Jan. 6, 2006, and as if included in the enactment of Pub. L. 109–163.
 
-Pub. L. 109–163, div. A, title VI, § 664(a)(3), Jan. 6, 2006, 119 Stat. 3316, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of October 7, 2001, and shall apply to deaths occurring on or after the date of the enactment of this Act [Jan. 6, 2006] and, subject to subsection (c) [119 Stat. 3317], to deaths occurring during the period beginning on October 7, 2001, and ending on the day before the date of the enactment of this Act.”
+Pub. L. 109–163, div. A, title VI, § 664(a)(3), Jan. 6, 2006, 119 Stat. 3316, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of October 7, 2001, and shall apply to deaths occurring on or after the date of the enactment of this Act [Jan. 6, 2006] and, subject to subsection (c) [119 Stat. 3317], to deaths occurring during the period beginning on October 7, 2001, and ending on the day before the date of the enactment of this Act.”
 
 **Effective and Termination Dates of 2005 Amendments**
 
-Pub. L. 109–77, § 115, Sept. 30, 2005, 119 Stat. 2040, provided that: “The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 [amending this section, section 411h of Title 37, Pay and Allowances of the Uniformed Services, and sections 1967, 1969, 1970, and 1977 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under this section, section 411h of Title 37, and section 1967 of Title 38] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 [119 Stat. 244] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law [enacting provisions set out as notes under this section, section 411h of Title 37, and section 1967 of Title 38], through the earlier of: (1) the date specified in section 106(3) of this joint resolution [Dec. 31, 2005]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section.”
+Pub. L. 109–77, § 115, Sept. 30, 2005, 119 Stat. 2040, provided that: “The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 [amending this section, section 411h of Title 37, Pay and Allowances of the Uniformed Services, and sections 1967, 1969, 1970, and 1977 of Title 38, Veterans’ Benefits, and enacting provisions set out as notes under this section, section 411h of Title 37, and section 1967 of Title 38] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 [119 Stat. 244] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law [enacting provisions set out as notes under this section, section 411h of Title 37, and section 1967 of Title 38], through the earlier of: (1) the date specified in section 106(3) of this joint resolution [Dec. 31, 2005]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section.”
 
-Pub. L. 109–13, div. A, title I, § 1013(d), (e), May 11, 2005, 119 Stat. 248, provided that:
+Pub. L. 109–13, div. A, title I, § 1013(d), (e), May 11, 2005, 119 Stat. 248, provided that:
 
 > **“(d) Effective Date.—** This section [amending this section] and the amendments made by this section shall take effect on the date of the enactment of this Act [May 11, 2005].
 
@@ -733,13 +733,13 @@ Pub. L. 109–13, div. A, title I, § 1013(d), (e), May 11, 2005, 119 Stat. 24
 
 **Effective Date of 2003 Amendments**
 
-Pub. L. 108–136, div. A, title VI, § 646(b), Nov. 24, 2003, 117 Stat. 1520, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of September 11, 2001, and shall apply with respect to deaths occurring on or after that date.”
+Pub. L. 108–136, div. A, title VI, § 646(b), Nov. 24, 2003, 117 Stat. 1520, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of September 11, 2001, and shall apply with respect to deaths occurring on or after that date.”
 
-Pub. L. 108–121, title I, § 102(a)(2), Nov. 11, 2003, 117 Stat. 1337, provided that: “The amendment made by this subsection [amending this section] shall take effect as of September 11, 2001, and shall apply with respect to deaths occurring on or after that date.”
+Pub. L. 108–121, title I, § 102(a)(2), Nov. 11, 2003, 117 Stat. 1337, provided that: “The amendment made by this subsection [amending this section] shall take effect as of September 11, 2001, and shall apply with respect to deaths occurring on or after that date.”
 
 **Effective Date of 1991 Amendment; Transition Provision**
 
-Pub. L. 102–190, div. A, title VI, § 652(b), Dec. 5, 1991, 105 Stat. 1388, provided that:
+Pub. L. 102–190, div. A, title VI, § 652(b), Dec. 5, 1991, 105 Stat. 1388, provided that:
 
 > **“(1)** The amendments made by subsection (a) [amending this section] shall take effect as of August 2, 1990.
 
@@ -747,13 +747,13 @@ Pub. L. 102–190, div. A, title VI, § 652(b), Dec. 5, 1991, 105 Stat. 1388, 
 
 **Temporary Increase in Amount of Death Gratuity; Persian Gulf Conflict**
 
-Pub. L. 102–25, title III, § 307, Apr. 6, 1991, 105 Stat. 82, provided that: “In lieu of the amount of the death gratuity specified in section 1478(a) of title 10, United States Code, the amount of the death gratuity payable under that section shall be $6,000 for a death resulting from any injury or illness incurred during the Persian Gulf conflict or during the 180-day period beginning at the end of the Persian Gulf conflict.”
+Pub. L. 102–25, title III, § 307, Apr. 6, 1991, 105 Stat. 82, provided that: “In lieu of the amount of the death gratuity specified in section 1478(a) of title 10, United States Code, the amount of the death gratuity payable under that section shall be $6,000 for a death resulting from any injury or illness incurred during the Persian Gulf conflict or during the 180-day period beginning at the end of the Persian Gulf conflict.”
 
 **Death Gratuity for Certain Participants Who Died Between August 1, 1990, and April 6, 1991**
 
-Pub. L. 102–25, title III, § 308, Apr. 6, 1991, 105 Stat. 83, required Secretary of Defense to pay death gratuity to each SGLI beneficiary of each deceased member of uniformed services who died after Aug. 1, 1990, and before Apr. 6, 1991, and whose death was in conjunction with or in support of Operation Desert Storm, or attributable to hostile action in regions other than Persian Gulf, as prescribed in regulations set forth by Secretary of Defense.
+Pub. L. 102–25, title III, § 308, Apr. 6, 1991, 105 Stat. 83, required Secretary of Defense to pay death gratuity to each SGLI beneficiary of each deceased member of uniformed services who died after Aug. 1, 1990, and before Apr. 6, 1991, and whose death was in conjunction with or in support of Operation Desert Storm, or attributable to hostile action in regions other than Persian Gulf, as prescribed in regulations set forth by Secretary of Defense.
 
-### § 1479. Death gratuity: delegation of determinations, payments
+### § 1479. Death gratuity: delegation of determinations, payments
 
 For the purpose of making immediate payments under section 1475 of this title, the Secretary concerned shall—
 
@@ -761,13 +761,13 @@ For the purpose of making immediate payments under section 1475 of this title, t
 
 **(2)** authorize a disbursing or certifying official of each of those commands, installations, or districts to make the payments to the beneficiary, or certify the payments due them, as the case may be.
 
-(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1455; amended Pub. L. 97–258, § 2(b)(1)(A), Sept. 13, 1982, 96 Stat. 1052.)
+(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1455; amended Pub. L. 97–258, § 2(b)(1)(A), Sept. 13, 1982, 96 Stat. 1052.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1479 | 38:1132. | Aug. 1, 1956, ch. 837, § 302, 70 Stat. 868. |
+| 1479 | 38:1132. | Aug. 1, 1956, ch. 837, § 302, 70 Stat. 868. |
 
 The word “territorial” is substituted for the words “military or naval”, since the subsection could only apply to that type of command, installation, or district. Clause (2) is substituted for 38:1132(2).
 
@@ -777,7 +777,7 @@ The word “territorial” is substituted for the words “military or naval”,
 
 1982—Par. (2). Pub. L. 97–258 substituted “official” for “officer”.
 
-### § 1480. Death gratuity: miscellaneous provisions
+### § 1480. Death gratuity: miscellaneous provisions
 
 **(a)** A payment may not be made under sections 1475–1477 of this title if the decedent was put to death as lawful punishment for a crime or a military offense, unless he was put to death by a hostile force with which the armed forces of the United States were engaged in armed conflict.
 
@@ -807,17 +807,17 @@ In cases covered by this subsection, the burden of proof is on the claimant.
 
 **(2)** the date that is six years after the date of the death with respect to which the claim is made.
 
-(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1455; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), (5), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 118–159, div. A, title VI, § 632(a), Dec. 23, 2024, 138 Stat. 1937.)
+(Added Pub. L. 85–861, § 1(32)(A), Sept. 2, 1958, 72 Stat. 1455; amended Pub. L. 101–189, div. A, title XVI, § 1621(a)(2), (5), Nov. 29, 1989, 103 Stat. 1603; Pub. L. 118–159, div. A, title VI, § 632(a), Dec. 23, 2024, 138 Stat. 1937.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1480(a) 1480(b) 1480(c)     1480(d) | 38:1134(a). 38:1133(e). 38:1101(6)(B) (less 1st sentence, as applicable to death gratuity). 38:1134(b). | Aug. 1, 1956, ch. 837, §§ 102(6)(B) (less 1st sentence, as applicable to death gratuity) 303(e), 304(a), (b), 70 Stat. 859, 869. |
+| 1480(a) 1480(b) 1480(c) 1480(d) | 38:1134(a). 38:1133(e). 38:1101(6)(B) (less 1st sentence, as applicable to death gratuity). 38:1134(b). | Aug. 1, 1956, ch. 837, §§ 102(6)(B) (less 1st sentence, as applicable to death gratuity) 303(e), 304(a), (b), 70 Stat. 859, 869. |
 
 In subsection (a), the words “was put to death” are substituted for the words “suffered death”. The words “or naval” are omitted as covered by the word “military”.
 
-In subsection (b), the words “last period \* \* \* that he performed” are substituted for the words “such period”.
+In subsection (b), the words “last period \* \* \* that he performed” are substituted for the words “such period”.
 
 **Editorial Notes**
 
@@ -825,17 +825,17 @@ In subsection (b), the words “last period \* \* \* that he performed” ar
 
 2024—Subsec. (e). Pub. L. 118–159 added subsec. (e).
 
-1989—Subsec. (b). Pub. L. 101–189, § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+1989—Subsec. (b). Pub. L. 101–189, § 1621(a)(2), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-Subsec. (c). Pub. L. 101–189, § 1621(a)(2), (5), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” after “section 1476 of this title, the” and “the Secretary concerned or the Secretary of Veterans Affairs” for “the Secretary or the Administrator”.
+Subsec. (c). Pub. L. 101–189, § 1621(a)(2), (5), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” after “section 1476 of this title, the” and “the Secretary concerned or the Secretary of Veterans Affairs” for “the Secretary or the Administrator”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–159, div. A, title VI, § 632(b), Dec. 23, 2024, 138 Stat. 1937, provided that: “The amendment made by subsection (a) [amending this section] applies to claims filed with respect to deaths occurring on or after on [sic] January 1, 2025.”
+Pub. L. 118–159, div. A, title VI, § 632(b), Dec. 23, 2024, 138 Stat. 1937, provided that: “The amendment made by subsection (a) [amending this section] applies to claims filed with respect to deaths occurring on or after on [sic] January 1, 2025.”
 
-### § 1481. Recovery, care, and disposition of remains: decedents covered
+### § 1481. Recovery, care, and disposition of remains: decedents covered
 
 **(a)** The Secretary concerned may provide for the recovery, care, and disposition of the remains of the following persons:
 
@@ -863,7 +863,7 @@ Pub. L. 118–159, div. A, title VI, § 632(b), Dec. 23, 2024, 138 Stat. 1937,
 
 **(iii)** remaining overnight at or in the vicinity of that place before so serving, if the place is outside reasonable commuting distance from the member’s residence.
 
-**[(3)** Repealed. Pub. L. 99–661, div. A, title VI, § 604(e)(3)(B), Nov. 14, 1986, 100 Stat. 3877.]
+**[(3)** Repealed. Pub. L. 99–661, div. A, title VI, § 604(e)(3)(B), Nov. 14, 1986, 100 Stat. 3877.]
 
 **(4)** Any member of, or applicant for membership in, a reserve officers’ training corps who dies while (A) attending a training camp, (B) on an authorized practice cruise, (C) performing authorized travel to or from such a camp or cruise, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while attending such a camp, while on such a cruise, or while performing that travel.
 
@@ -889,18 +889,18 @@ Pub. L. 118–159, div. A, title VI, § 632(b), Dec. 23, 2024, 138 Stat. 1937,
 
 **(c)** In this section, the term “dependent” has the meaning given such term in section 1072(2) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Pub. L. 88–647, title III, § 301(3), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 99–661, div. A, title VI, § 604(e)(3), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 103–337, div. A, title VI, § 652(a)(1), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 104–106, div. A, title VII, § 702(b), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, § 513(e), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 105–261, div. A, title VI, § 645(a), (b), Oct. 17, 1998, 112 Stat. 2049, 2050; Pub. L. 106–65, div. A, title V, § 578(i)(5), Oct. 5, 1999, 113 Stat. 630; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title V, § 513(c), title VI, § 638(b)(2), Dec. 28, 2001, 115 Stat. 1093, 1147; Pub. L. 112–81, div. A, title VI, § 651(b), Dec. 31, 2011, 125 Stat. 1467; Pub. L. 113–66, div. A, title VI, § 651(a)(1), Dec. 26, 2013, 127 Stat. 787; Pub. L. 118–159, div. A, title VI, § 631(b), Dec. 23, 2024, 138 Stat. 1936.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 112; Pub. L. 88–647, title III, § 301(3), Oct. 13, 1964, 78 Stat. 1071; Pub. L. 99–661, div. A, title VI, § 604(e)(3), Nov. 14, 1986, 100 Stat. 3877; Pub. L. 103–337, div. A, title VI, § 652(a)(1), Oct. 5, 1994, 108 Stat. 2793; Pub. L. 104–106, div. A, title VII, § 702(b), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, § 513(e), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 105–261, div. A, title VI, § 645(a), (b), Oct. 17, 1998, 112 Stat. 2049, 2050; Pub. L. 106–65, div. A, title V, § 578(i)(5), Oct. 5, 1999, 113 Stat. 630; Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title V, § 513(c), title VI, § 638(b)(2), Dec. 28, 2001, 115 Stat. 1093, 1147; Pub. L. 112–81, div. A, title VI, § 651(b), Dec. 31, 2011, 125 Stat. 1467; Pub. L. 113–66, div. A, title VI, § 651(a)(1), Dec. 26, 2013, 127 Stat. 787; Pub. L. 118–159, div. A, title VI, § 631(b), Dec. 23, 2024, 138 Stat. 1936.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1481(a) | 5:2151 (as applicable to armed forces). 5:2152 (1st 27 words, as applicable to armed forces). 5:2153 (less 1st 18 words, as applicable to armed forces). | July 15, 1954, ch. 507, §§ 1, 2 (1st 25 words, as applicable to armed forces), 3 (less 1st 16 words, as applicable to armed forces), 4 (as applicable to armed forces), 68 Stat. 478. |
+| 1481(a) | 5:2151 (as applicable to armed forces). 5:2152 (1st 27 words, as applicable to armed forces). 5:2153 (less 1st 18 words, as applicable to armed forces). | July 15, 1954, ch. 507, §§ 1, 2 (1st 25 words, as applicable to armed forces), 3 (less 1st 16 words, as applicable to armed forces), 4 (as applicable to armed forces), 68 Stat. 478. |
 | 1481(b) | 5:2154 (as applicable to armed forces). |  |
 
 In subsection (a), 5:2151 is omitted as covered by the revised sections of this chapter. In clauses (1), (2), (5)–(7), the words “under his jurisdiction” are inserted for clarity. In clause (1) the words “regular member of an armed force, or member of an armed force without component” are substituted for the words “military personnel”, since all other members of the military services are covered by more specific rules set forth in clauses (2) and (7). In clauses (2) and (3), the words “active duty for training” are omitted as covered by the words “active duty”. The words “injury incurred, or disease contracted” are substituted for the words “injuries, illness, or disease contracted or incurred”. The words “by law”, “authorized”, “proper authority”, and “as authorized by law” are omitted as surplusage. In clause (3), the words “while entitled to” are substituted for the words “in respect of duty for which they are entitled by law to receive”. In clause (4), the words “injury incurred, or disease contracted” are substituted for the words “injury, disease or illness contracted or incurred”. The words “as authorized by law” are omitted as surplusage. In clause (6), the word “person” is substituted for the words “former enlisted members”. In clause (7), the words “active duty for a period of more than 30 days” are substituted for the words “extended active duty”.
 
-In subsection (b), the words “This section applies to each person \* \* \* even though” are substituted for the words “The benefits of this Act shall not be denied in respect of a person \* \* \* on the ground”.
+In subsection (b), the words “This section applies to each person \* \* \* even though” are substituted for the words “The benefits of this Act shall not be denied in respect of a person \* \* \* on the ground”.
 
 **Editorial Notes**
 
@@ -912,25 +912,25 @@ In subsection (b), the words “This section applies to each person \* \* \*
 
 2011—Subsec. (a)(2)(E) to (G). Pub. L. 112–81 added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-2001—Subsec. (a)(2)(D). Pub. L. 107–107, § 513(c), struck out “, if the site is outside reasonable commuting distance from the member’s residence” before semicolon at end.
+2001—Subsec. (a)(2)(D). Pub. L. 107–107, § 513(c), struck out “, if the site is outside reasonable commuting distance from the member’s residence” before semicolon at end.
 
-Subsec. (a)(9). Pub. L. 107–107, § 638(b)(2), substituted “section 1482(f)” for “section 1482(g)”.
+Subsec. (a)(9). Pub. L. 107–107, § 638(b)(2), substituted “section 1482(f)” for “section 1482(g)”.
 
-2000—Subsec. (a)(1). Pub. L. 106–398 amended directory language of Pub. L. 105–261, § 645(b). See 1998 Amendment note below.
+2000—Subsec. (a)(1). Pub. L. 106–398 amended directory language of Pub. L. 105–261, § 645(b). See 1998 Amendment note below.
 
 1999—Subsec. (a)(2)(F). Pub. L. 106–65 added subpar. (F).
 
-1998—Subsec. (a)(1). Pub. L. 105–261, § 645(b), as amended by Pub. L. 106–398, struck out “, or member of an armed force without component,” after “Regular of an armed force”.
+1998—Subsec. (a)(1). Pub. L. 105–261, § 645(b), as amended by Pub. L. 106–398, struck out “, or member of an armed force without component,” after “Regular of an armed force”.
 
-Subsec. (a)(7). Pub. L. 105–261, § 645(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Any retired member of an armed force under his jurisdiction who becomes a patient in a United States hospital while he is on active duty for a period of more than 30 days, and who continues to be such a patient until the date of his death.”
+Subsec. (a)(7). Pub. L. 105–261, § 645(a), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “Any retired member of an armed force under his jurisdiction who becomes a patient in a United States hospital while he is on active duty for a period of more than 30 days, and who continues to be such a patient until the date of his death.”
 
 1997—Subsec. (a)(2)(D). Pub. L. 105–85 inserted “remaining overnight immediately before the commencement of inactive-duty training, or” after “(D)”.
 
 1996—Subsec. (a)(2)(C) to (E). Pub. L. 104–106 struck out “or” at end of subpar. (C), added subpar. (D), and redesignated former subpar. (D) as (E).
 
-1994—Subsec. (a). Pub. L. 103–337, § 652(a)(1)(A), substituted “the remains of the following persons:” for “the remains of—”, capitalized the first letter of the first word in pars. (1) to (8), substituted a period for the last semicolon in pars. (1) to (6), substituted a period for “; and” in par. (7), and added par. (9).
+1994—Subsec. (a). Pub. L. 103–337, § 652(a)(1)(A), substituted “the remains of the following persons:” for “the remains of—”, capitalized the first letter of the first word in pars. (1) to (8), substituted a period for the last semicolon in pars. (1) to (6), substituted a period for “; and” in par. (7), and added par. (9).
 
-Subsec. (c). Pub. L. 103–337, § 652(a)(1)(B), added subsec. (c).
+Subsec. (c). Pub. L. 103–337, § 652(a)(1)(B), added subsec. (c).
 
 1986—Subsec. (a)(2), (3). Pub. L. 99–661 added par. (2) and struck out former pars. (2) and (3) which read as follows:
 
@@ -938,7 +938,7 @@ Subsec. (c). Pub. L. 103–337, § 652(a)(1)(B), added subsec. (c).
 
 “(3) any member of the Army National Guard or Air National Guard who dies while entitled to pay from the United States and while (A) on active duty, (B) performing authorized travel to or from that duty, (C) on authorized inactive-duty training, or (D) hospitalized or undergoing treatment at the expense of the United States for injury incurred, or disease contracted, while on that duty or training or while performing that travel;”.
 
-1964—Subsec. (a)(4). Pub. L. 88–647 substituted “, or applicant for membership in, a reserve officers’ training corps” for “the Army Reserve Officers’ Training Corps, Naval Reserve Officers’ Training Corps, or Air Force Reserve Officers’ Training Corps”.
+1964—Subsec. (a)(4). Pub. L. 88–647 substituted “, or applicant for membership in, a reserve officers’ training corps” for “the Army Reserve Officers’ Training Corps, Naval Reserve Officers’ Training Corps, or Air Force Reserve Officers’ Training Corps”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -952,15 +952,15 @@ Amendment by Pub. L. 112–81 effective on Dec. 31, 2011, and applicable with re
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 [[div. A], title X, § 1087(d)(3)] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
+Pub. L. 106–398, § 1 [[div. A], title X, § 1087(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–292, provided that the amendment made by section 1 [[div. A], title X, § 1087(d)(3)] is effective Oct. 17, 1998, and as if included in the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, Pub. L. 105–261, as enacted.
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title VI, § 645(c), Oct. 17, 1998, 112 Stat. 2050, provided that: “The amendment made by subsection (a) [amending this section] applies with respect to deaths occurring on or after the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title VI, § 645(c), Oct. 17, 1998, 112 Stat. 2050, provided that: “The amendment made by subsection (a) [amending this section] applies with respect to deaths occurring on or after the date of the enactment of this Act [Oct. 17, 1998].”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–337, div. A, title VI, § 652(a)(3), Oct. 5, 1994, 108 Stat. 2794, provided that: “The amendments made by this subsection [amending this section and section 1482 of this title] shall apply with respect to the remains of, and incidental expenses incident to the recovery, care, and disposition of, an individual who dies after the date of the enactment of this Act [Oct. 5, 1994].”
+Pub. L. 103–337, div. A, title VI, § 652(a)(3), Oct. 5, 1994, 108 Stat. 2794, provided that: “The amendments made by this subsection [amending this section and section 1482 of this title] shall apply with respect to the remains of, and incidental expenses incident to the recovery, care, and disposition of, an individual who dies after the date of the enactment of this Act [Oct. 5, 1994].”
 
 **Effective Date of 1986 Amendment**
 
@@ -968,7 +968,7 @@ Amendment by Pub. L. 99–661 applicable with respect to persons who, after Nov.
 
 **Requirement for Deploying Military Medical Personnel To Be Trained in Preservation of Remains Under Combat or Combat-Related Conditions**
 
-Pub. L. 109–364, div. A, title V, § 567, Oct. 17, 2006, 120 Stat. 2224, provided that:
+Pub. L. 109–364, div. A, title V, § 567, Oct. 17, 2006, 120 Stat. 2224, provided that:
 
 > **“(a) Requirement.—** The Secretary of each military department shall ensure that each military health care professional under that Secretary’s jurisdiction who is deployed to a theater of combat operations is trained, before such deployment, in the preservation of remains under combat or combat-related conditions.
 
@@ -986,7 +986,7 @@ Pub. L. 109–364, div. A, title V, § 567, Oct. 17, 2006, 120 Stat. 2224, pro
 
 > **“(d) Effective Date.—** Subsection (a) shall apply with respect to any military health care professional who is deployed to a theater of combat operations after the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 17, 2006].”
 
-### § 1482. Expenses incident to death
+### § 1482. Expenses incident to death
 
 **(a)** Incident to the recovery, care, and disposition of the remains of any decedent covered by section 1481 of this title, the Secretary concerned may pay the necessary expenses of the following:
 
@@ -1086,13 +1086,13 @@ However, the amount of the reimbursement shall be determined in the manner presc
 
 **(4)** The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available at the time of reimbursement for the payment of such expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§ 652(a)(3), 653(a)(6), title XVI, § 1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, § 652(a)(2), title XVI, § 1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, § 1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, § 638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, § 591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, [div. A], title V, § 581, Oct. 14, 2008, 122 Stat. 4472; Pub. L. 112–81, div. A, title V, § 528, Dec. 31, 2011, 125 Stat. 1402; Pub. L. 113–66, div. A, title VI, §§ 621(e), 651(a)(2)–(c), Dec. 26, 2013, 127 Stat. 784, 787, 788; Pub. L. 115–91, div. A, title VI, § 632, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–92, div. A, title V, § 573(a), Dec. 20, 2019, 133 Stat. 1404; Pub. L. 117–263, div. A, title VI, § 641, Dec. 23, 2022, 136 Stat. 2633.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§ 652(a)(3), 653(a)(6), title XVI, § 1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, § 652(a)(2), title XVI, § 1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, § 1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, § 638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, § 591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, [div. A], title V, § 581, Oct. 14, 2008, 122 Stat. 4472; Pub. L. 112–81, div. A, title V, § 528, Dec. 31, 2011, 125 Stat. 1402; Pub. L. 113–66, div. A, title VI, §§ 621(e), 651(a)(2)–(c), Dec. 26, 2013, 127 Stat. 784, 787, 788; Pub. L. 115–91, div. A, title VI, § 632, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–92, div. A, title V, § 573(a), Dec. 20, 2019, 133 Stat. 1404; Pub. L. 117–263, div. A, title VI, § 641, Dec. 23, 2022, 136 Stat. 2633.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1482(a)           1482(b)   1482(c) | 5:2152 (less 1st 27 words, as applicable to armed forces). 5:2153 (1st 18 words, as applicable to armed forces). 5:2161 (as applicable to armed forces). 5:2162 (as applicable to armed forces). | July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forces), 3 (1st 16 words, as applicable to armed forces), 11 (as applicable to armed forces), 12 (as applicable to armed forces), 68 Stat. 478, 480, 481. |
+| 1482(a) 1482(b) 1482(c) | 5:2152 (less 1st 27 words, as applicable to armed forces). 5:2153 (1st 18 words, as applicable to armed forces). 5:2161 (as applicable to armed forces). 5:2162 (as applicable to armed forces). | July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forces), 3 (1st 16 words, as applicable to armed forces), 11 (as applicable to armed forces), 12 (as applicable to armed forces), 68 Stat. 478, 480, 481. |
 
 In subsection (a), the list of payable expenses has been rearranged to produce a generally chronological result. The words “person designated” are substituted for the words “person recognized as the person.”
 
@@ -1102,7 +1102,7 @@ In subsection (a)(8), the word “place” is substituted for the words “town 
 
 In subsection (a)(10), the words “other than honorable” are omitted, since a person cannot be sentenced to an honorable discharge.
 
-In subsection (b), the words “If an individual pays” are substituted for the words “In any case where expenses \* \* \* are borne by individuals”. The second sentence of 5:2161 is omitted as executed. The last sentence is substituted for the last sentence of 5:2161.
+In subsection (b), the words “If an individual pays” are substituted for the words “In any case where expenses \* \* \* are borne by individuals”. The second sentence of 5:2161 is omitted as executed. The last sentence is substituted for the last sentence of 5:2161.
 
 In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The introductory language is substituted for 5:2162 (1st 22 words of 2d sentence). The words “ascertained and” are omitted as surplusage.
 
@@ -1116,43 +1116,43 @@ In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inhe
 
 2017—Subsec. (a)(10). Pub. L. 115–91 added par. (10).
 
-2013—Subsec. (a)(8). Pub. L. 113–66, § 621(e), substituted “and travel and transportation allowances as specified in regulations prescribed under section 464 of title 37” for “and roundtrip transportation and prescribed allowances”.
+2013—Subsec. (a)(8). Pub. L. 113–66, § 621(e), substituted “and travel and transportation allowances as specified in regulations prescribed under section 464 of title 37” for “and roundtrip transportation and prescribed allowances”.
 
-Subsec. (a)(9). Pub. L. 113–66, § 651(b), inserted “or inurnment” after “Interment”.
+Subsec. (a)(9). Pub. L. 113–66, § 651(b), inserted “or inurnment” after “Interment”.
 
-Subsec. (f). Pub. L. 113–66, § 651(c), substituted “The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis.” for “The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis.”
+Subsec. (f). Pub. L. 113–66, § 651(c), substituted “The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis.” for “The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis.”
 
-Subsec. (g). Pub. L. 113–66, § 651(a)(2), added subsec. (g).
+Subsec. (g). Pub. L. 113–66, § 651(a)(2), added subsec. (g).
 
 2011—Subsec. (c). Pub. L. 112–81 substituted “The” for “Only the” in introductory provisions, added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and substituted “paragraphs (1) through (4)” for “clauses (1)–(3)” in par. (5).
 
 2008—Subsec. (a)(8). Pub. L. 110–181 inserted at end “When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.”
 
-Subsec. (a)(10), (11). Pub. L. 110–417, § 581(b), struck out pars. (10) and (11) which read as follows:
+Subsec. (a)(10), (11). Pub. L. 110–417, § 581(b), struck out pars. (10) and (11) which read as follows:
 
 “(10) Presentation of a flag of the United States to the person designated to direct disposition of the remains, except in the case of a military prisoner who dies while in the custody of the Secretary and while under a sentence that includes a discharge.
 
 “(11) Presentation of a flag of equal size to the flag presented under paragraph (10) to the parents or parent, if the person to be presented a flag under paragraph (10) is other than the parent of the decedent. For the purpose of this paragraph, the term ‘parent’ includes a natural parent, a stepparent, a parent by adoption or a person who for a period of not less than one year before the death of the decedent stood in loco parentis to him, and preference under this paragraph shall be given to the persons who exercised a parental relationship at the time of, or most nearly before, the death of the decedent.”
 
-Subsec. (e). Pub. L. 110–417, § 581(a), designated existing provisions as par. (2), redesignated former pars. (1) and (2) of subsec. (e) as subpars. (A) and (B), respectively, of par. (2), inserted subsec. (e) heading, and added pars. (1) and (3) to (5).
+Subsec. (e). Pub. L. 110–417, § 581(a), designated existing provisions as par. (2), redesignated former pars. (1) and (2) of subsec. (e) as subpars. (A) and (B), respectively, of par. (2), inserted subsec. (e) heading, and added pars. (1) and (3) to (5).
 
 2001—Subsecs. (d) to (g). Pub. L. 107–107 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “When, as a result of a disaster involving the multiple deaths of persons covered by section 1481 of this title, the Secretary concerned has possession of commingled remains that cannot be individually identified, and burial of those remains in a common grave in a national cemetery is considered necessary, he may, for the interment services of each known decedent, pay the expenses of round-trip transportation to the cemetery of (1) the person who would have been designated under subsection (c) to direct disposition of the remains if individual identification had been made, and (2) two additional persons selected by that person who are closely related to the decedent. The transportation expenses authorized to be paid under this subsection may not exceed the transportation allowances authorized for members of the armed forces for travel on official business, but no per diem allowance may be paid.”
 
 1996—Subsec. (f)(2). Pub. L. 104–106 inserted “section” before “12731”.
 
-1994—Subsec. (f)(2). Pub. L. 103–337, § 1671(c)(8), substituted “section 12732” for “section 1332” and “12731” for “section 1331”.
+1994—Subsec. (f)(2). Pub. L. 103–337, § 1671(c)(8), substituted “section 12732” for “section 1332” and “12731” for “section 1331”.
 
-Subsec. (g). Pub. L. 103–337, § 652(a)(2), added subsec. (g).
+Subsec. (g). Pub. L. 103–337, § 652(a)(2), added subsec. (g).
 
-1989—Subsec. (a). Pub. L. 101–189, § 653(a)(6)(A), substituted  “expenses  of  the  following:”  for  “expenses of—” in introductory provisions.
+1989—Subsec. (a). Pub. L. 101–189, § 653(a)(6)(A), substituted “expenses of the following:” for “expenses of—” in introductory provisions.
 
-Subsec. (a)(1) to (9). Pub. L. 101–189, § 653(a)(6)(B), (C), in each of pars. (1) to (9), capitalized first letter of first word and substituted period for semicolon at the end.
+Subsec. (a)(1) to (9). Pub. L. 101–189, § 653(a)(6)(B), (C), in each of pars. (1) to (9), capitalized first letter of first word and substituted period for semicolon at the end.
 
-Subsec. (a)(10). Pub. L. 101–189, § 653(a)(6)(B), (D), capitalized first letter of first word and substituted period for “; and”.
+Subsec. (a)(10). Pub. L. 101–189, § 653(a)(6)(B), (D), capitalized first letter of first word and substituted period for “; and”.
 
-Subsec. (a)(11). Pub. L. 101–189, § 653(a)(6)(B), (E), capitalized first letter of first word, substituted “paragraph” for “clause” in four places, and substituted “decedent. For the” for “decedent; for the”.
+Subsec. (a)(11). Pub. L. 101–189, § 653(a)(6)(B), (E), capitalized first letter of first word, substituted “paragraph” for “clause” in four places, and substituted “decedent. For the” for “decedent; for the”.
 
-Subsec. (e). Pub. L. 101–189, §§ 652(a)(3), 1622(c)(4), substituted “the date of death” for “the effective date of this subsection, or the date of death,” and “chapter 10 of title 37” for “chapter 10, title 37” in last sentence.
+Subsec. (e). Pub. L. 101–189, §§ 652(a)(3), 1622(c)(4), substituted “the date of death” for “the effective date of this subsection, or the date of death,” and “chapter 10 of title 37” for “chapter 10, title 37” in last sentence.
 
 1975—Subsec. (e). Pub. L. 93–649 inserted provision relating to date of notification of death under authority of chapter 10, title 37, to that person who would have been designated under subsection (c) to direct disposition of the remains, had they been recovered.
 
@@ -1168,7 +1168,7 @@ Subsec. (e). Pub. L. 91–487 added subsec. (e).
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
+Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 **Effective Date of 1994 Amendment**
 
@@ -1178,7 +1178,7 @@ Amendment by section 1671(c)(8) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 
 **Department of Defense Policy and Procedures on Media Access at Ceremonies for Dignified Transfer of Remains of Members of the Armed Forces Who Die Overseas**
 
-Pub. L. 111–84, div. A, title V, § 542(a), Oct. 28, 2009, 123 Stat. 2299, provided that:
+Pub. L. 111–84, div. A, title V, § 542(a), Oct. 28, 2009, 123 Stat. 2299, provided that:
 
 > **“(1) Policy required.—** Not later than April 1, 2010, the Secretary of Defense shall prescribe a policy guaranteeing media access at ceremonies for the dignified transfer of remains of members of the Armed Forces who die while located or serving overseas (in this section referred to as ‘military decedents’) when approved by the primary next of kin of such military decedents.
 
@@ -1196,7 +1196,7 @@ Pub. L. 111–84, div. A, title V, § 542(a), Oct. 28, 2009, 123 Stat. 2299, p
 
 **Transportation of Remains of Casualties**
 
-Pub. L. 116–92, div. A, title V, § 580A(b), (c), Dec. 20, 2019, 133 Stat. 1408, as amended by Pub. L. 117–263, div. A, title V, § 573, Dec. 23, 2022, 136 Stat. 2601, provided that:
+Pub. L. 116–92, div. A, title V, § 580A(b), (c), Dec. 20, 2019, 133 Stat. 1408, as amended by Pub. L. 117–263, div. A, title V, § 573, Dec. 23, 2022, 136 Stat. 2601, provided that:
 
 > **“(b) Transportation for Family.—** The Secretary of Defense shall extend travel privileges via Invitational Travel Authorization to family members of members of the Armed Forces who die outside of the United States and whose remains are returned to the United States through the mortuary facility at Dover Air Force Base, Delaware.
 
@@ -1210,7 +1210,7 @@ Pub. L. 116–92, div. A, title V, § 580A(b), (c), Dec. 20, 2019, 133 Stat. 1
 
 > **“(2)** may provide the next of kin or other appropriate person a commercial air travel use waiver for the transportation of deceased remains of military member who dies inside a theater of combat operations.”
 
-Pub. L. 109–364, div. A, title V, § 562, Oct. 17, 2006, 120 Stat. 2220, as amended by Pub. L. 116–92, div. A, title V, §§ 573(b), 580A(a), Dec. 20, 2019, 133 Stat. 1404, 1408, Pub. L. 119–60, div. A, title VI, § 642, Dec. 18, 2025, 139 Stat. 912, provided that:
+Pub. L. 109–364, div. A, title V, § 562, Oct. 17, 2006, 120 Stat. 2220, as amended by Pub. L. 116–92, div. A, title V, §§ 573(b), 580A(a), Dec. 20, 2019, 133 Stat. 1404, 1408, Pub. L. 119–60, div. A, title VI, § 642, Dec. 18, 2025, 139 Stat. 912, provided that:
 
 > **“(a) Required Transportation.—** In the case of a member of the Armed Forces who dies outside of the United States and whose remains are returned to the United States through the mortuary facility at Dover Air Force Base, Delaware, the Secretary concerned, under regulations prescribed by the Secretary of Defense, shall provide transportation of the remains of that member from Dover Air Force Base to the applicable escorted remains destination in accordance with section 1482(a)(8) of title 10, United States Code, and this section.
 
@@ -1262,7 +1262,7 @@ Pub. L. 109–364, div. A, title V, § 562, Oct. 17, 2006, 120 Stat. 2220, as 
 
 > **“(g) Effective Date.—** This section shall take effect at such time as may be prescribed by the Secretary of Defense, but not later than January 1, 2007.”
 
-### § 1482a. Expenses incident to death: civilian employees serving with an armed force
+### § 1482a. Expenses incident to death: civilian employees serving with an armed force
 
 **(a) Payment of Expenses.—** The Secretary concerned may pay the expenses incident to the death of a civilian employee who dies of injuries incurred in connection with the employee’s service with an armed force in a contingency operation, or who dies of injuries incurred in connection with a terrorist incident occurring during the employee’s service with an armed force, as follows:
 
@@ -1284,7 +1284,7 @@ Pub. L. 109–364, div. A, title V, § 562, Oct. 17, 2006, 120 Stat. 2220, as 
 
 **(4)** The term “Secretary concerned” includes the Secretary of Defense with respect to employees of the Department of Defense who are not employees of a military department.
 
-(Added Pub. L. 103–160, div. A, title III, § 368(a), Nov. 30, 1993, 107 Stat. 1633; amended Pub. L. 103–337, div. A, title X, § 1070(a)(8)(A), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. A, title X, § 1075(b)(20), Jan. 7, 2011, 124 Stat. 4370.)
+(Added Pub. L. 103–160, div. A, title III, § 368(a), Nov. 30, 1993, 107 Stat. 1633; amended Pub. L. 103–337, div. A, title X, § 1070(a)(8)(A), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. A, title X, § 1075(b)(20), Jan. 7, 2011, 124 Stat. 4370.)
 
 **Editorial Notes**
 
@@ -1304,9 +1304,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Effective Date**
 
-Pub. L. 103–160, div. A, title III, § 368(c), Nov. 30, 1993, 107 Stat. 1634, provided that: “The amendments made by this section [enacting this section] shall apply with respect to the payment of incidental expenses for civilian employees who die while serving in a contingency operation that occurs after the date of the enactment of this Act [Nov. 30, 1993].”
+Pub. L. 103–160, div. A, title III, § 368(c), Nov. 30, 1993, 107 Stat. 1634, provided that: “The amendments made by this section [enacting this section] shall apply with respect to the payment of incidental expenses for civilian employees who die while serving in a contingency operation that occurs after the date of the enactment of this Act [Nov. 30, 1993].”
 
-### § 1483. Prisoners of war and interned enemy aliens
+### § 1483. Prisoners of war and interned enemy aliens
 
 The Secretary concerned may provide for the care and disposition of the remains of prisoners of war and interned enemy aliens who die while in his custody and, incident thereto, pay the necessary expenses of—
 
@@ -1328,11 +1328,11 @@ The Secretary concerned may provide for the care and disposition of the remains 
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1483 | 5:2155 (as applicable to armed forces). | July 15, 1954, ch. 507, § 5 (as applicable to armed forces), 68 Stat. 479. |
+| 1483 | 5:2155 (as applicable to armed forces). | July 15, 1954, ch. 507, § 5 (as applicable to armed forces), 68 Stat. 479. |
 
 The list of payable expenses has been rearranged to produce a generally chronological result. The words “incurred for”, and the words “articles of” in clause (3), are omitted as surplusage. In clause (5), the words “cemetery or other place” are substituted for the words “town, city, or cemetery”.
 
-### § 1484. Pensioners, indigent patients, and persons who die on military reservations
+### § 1484. Pensioners, indigent patients, and persons who die on military reservations
 
 If proper disposition of the remains cannot otherwise be made, the Secretary concerned may provide for the care and disposition of the remains of pensioners and indigent patients who die in hospitals operated by his department and of persons who die on the military reservations of that department and, incident thereto, pay the necessary expenses of—
 
@@ -1354,11 +1354,11 @@ If proper disposition of the remains cannot otherwise be made, the Secretary con
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1484 | 5:2156 (as applicable to armed forces). | July 15, 1954, ch. 507, § 6 (as applicable to armed forces), 68 Stat. 479. |
+| 1484 | 5:2156 (as applicable to armed forces). | July 15, 1954, ch. 507, § 6 (as applicable to armed forces), 68 Stat. 479. |
 
 The words “If proper disposition of the remains cannot otherwise be made” are substituted for 5:2156 (last sentence). The words “maintained and” and “incurred for”, and the words “articles of” in clause (3), are omitted as surplusage. The words “of that department” are inserted for clarity.
 
-### § 1485. Dependents of members of armed forces
+### § 1485. Dependents of members of armed forces
 
 **(a)** The Secretary concerned may, if a dependent of a member of an armed force dies while the member is on active duty (other than for training), provide for, and pay the necessary expenses of, transporting the remains of the deceased dependent to the home of the decedent or to any other place that the Secretary determines to be the appropriate place of interment.
 
@@ -1366,16 +1366,16 @@ The words “If proper disposition of the remains cannot otherwise be made” ar
 
 **(c)** Reimbursement for mortuary services and supplies furnished under this section shall be collected and credited to appropriations available, at the time of reimbursement, for those services and supplies.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 114; Pub. L. 89–150, § 1(1), Aug. 28, 1965, 79 Stat. 585.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 114; Pub. L. 89–150, § 1(1), Aug. 28, 1965, 79 Stat. 585.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1485(a)     1485(b) | 5:2157 (1st sentence, as applicable to armed forces). 5:2157 (2d sentence, as applicable to armed forces). | July 15, 1954, ch. 507, § 7(a) (as applicable to armed forces), 68 Stat. 479. |
+| 1485(a) 1485(b) | 5:2157 (1st sentence, as applicable to armed forces). 5:2157 (2d sentence, as applicable to armed forces). | July 15, 1954, ch. 507, § 7(a) (as applicable to armed forces), 68 Stat. 479. |
 | 1485(c) | 5:2157 (less 1st and 2d sentences, as applicable to armed forces). |  |
 
-In subsection (a), the words “a member of an armed force” are substituted for the words “military personnel”. The words “the continental limits \* \* \* or in Alaska” are omitted as covered by the definition of “United States” in section 101(1) of this title. The words “while traveling” are substituted for the words “while in transit”.
+In subsection (a), the words “a member of an armed force” are substituted for the words “military personnel”. The words “the continental limits \* \* \* or in Alaska” are omitted as covered by the definition of “United States” in section 101(1) of this title. The words “while traveling” are substituted for the words “while in transit”.
 
 In subsection (b), the word “services” is substituted for the word “facilities”.
 
@@ -1385,11 +1385,11 @@ In subsection (c), the words “the authority of” and “the payments of” ar
 
 **Amendments**
 
-1965—Pub. L. 89–150 struck out “; death while outside United States” in section catchline.
+1965—Pub. L. 89–150 struck out “; death while outside United States” in section catchline.
 
 Subsec. (a). Pub. L. 89–150 substituted provision for payment of transportation expenses of remains of deceased dependent of a member of an armed force while the member is on active duty (other than for training), for former provision for payment of the expenses where the member of the armed force is on active duty at a place outside the United States and the dependent dies while residing with that member or while traveling to or from that place.
 
-### § 1486. Other citizens of United States
+### § 1486. Other citizens of United States
 
 **(a)** If local commercial mortuary services and supplies are not available, or if he believes that their cost is prohibitive, the Secretary concerned may furnish those services and supplies on a reimbursable basis in the case of any of the following citizens of the United States who die outside the United States:
 
@@ -1415,16 +1415,16 @@ Subsec. (a). Pub. L. 89–150 substituted provision for payment of transportatio
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1486(a)     1486(b) | 5:2158 (1st sentence as applicable to armed forces). 5:2158 (2d sentence, as applicable to armed forces). | July 15, 1954, ch. 507, § 8 (as applicable to armed forces), 68 Stat. 480. |
+| 1486(a) 1486(b) | 5:2158 (1st sentence as applicable to armed forces). 5:2158 (2d sentence, as applicable to armed forces). | July 15, 1954, ch. 507, § 8 (as applicable to armed forces), 68 Stat. 480. |
 | 1486(c) | 5:2158 (less 1st and 2d sentences, as applicable to armed forces). |  |
 
-In subsection (a), the word “services” is substituted for the word “facilities”. The words “the continental limits \* \* \* or in Alaska” are omitted as covered by definition of “United States” in section 101(1) of this title. In clause (3), the word “masters” is omitted as covered by the word “officer”. In clause (4), the words “under the jurisdiction of the Secretary” are inserted for clarity. In clause (5), the words “otherwise covered” are substituted for the words “specifically enumerated”. In clause (6), the words “who is covered” are substituted for the words “within the classes enumerated”. The words “outside the United States” are substituted for the word “abroad”. The words “that person” are substituted for the words “the supporting citizen concerned”.
+In subsection (a), the word “services” is substituted for the word “facilities”. The words “the continental limits \* \* \* or in Alaska” are omitted as covered by definition of “United States” in section 101(1) of this title. In clause (3), the word “masters” is omitted as covered by the word “officer”. In clause (4), the words “under the jurisdiction of the Secretary” are inserted for clarity. In clause (5), the words “otherwise covered” are substituted for the words “specifically enumerated”. In clause (6), the words “who is covered” are substituted for the words “within the classes enumerated”. The words “outside the United States” are substituted for the word “abroad”. The words “that person” are substituted for the words “the supporting citizen concerned”.
 
 In subsection (b), the word “Government” is omitted as surplusage.
 
 In subsection (c), the words “the authority of” are omitted as surplusage. The words “at the time of reimbursement” are substituted for the word “current”.
 
-### § 1487. Temporary interment
+### § 1487. Temporary interment
 
 Whenever necessary for the temporary interment of remains pending transportation under this chapter to a designated cemetery, the Secretary concerned may acquire, and provide for the maintenance of, grave sites in commercial cemeteries, or he may acquire the right to use such grave sites for burial purposes. If the death occurs outside the United States and a temporary commercial grave site is not available on a reasonable basis, the Secretary may acquire land, or the right to use land, necessary for the temporary interment of the remains under this chapter.
 
@@ -1434,11 +1434,11 @@ Whenever necessary for the temporary interment of remains pending transportation
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1487 | 5:2159 (as applicable to armed forces). | July 15, 1954, ch. 507, § 9 (as applicable to armed forces), 68 Stat. 480. |
+| 1487 | 5:2159 (as applicable to armed forces). | July 15, 1954, ch. 507, § 9 (as applicable to armed forces), 68 Stat. 480. |
 
 The words “as authorized by this chapter, section 103a(c) of this Title, and section 224 of Title 42”, “by purchase or otherwise”, “care and”, and “single or multiple” are omitted as surplusage. The word “continental” is omitted as covered by the definition of “United States” in section 101(1) of this title.
 
-### § 1488. Removal of remains
+### § 1488. Removal of remains
 
 **(a) Removal Upon Discontinuance of Installation Cemetery.—** If a cemetery on a military reservation, including an installation cemetery, has been or is to be discontinued, the Secretary concerned may provide for the removal of remains from that cemetery to any other cemetery.
 
@@ -1466,13 +1466,13 @@ The words “as authorized by this chapter, section 103a(c) of this Title, and s
 
 **(ii)** has no known next of kin.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 115; Pub. L. 113–291, div. A, title V, § 594, Dec. 19, 2014, 128 Stat. 3395; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 115; Pub. L. 113–291, div. A, title V, § 594, Dec. 19, 2014, 128 Stat. 3395; Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 1488 | 5:2160 (as applicable to armed forces). | July 15, 1954, ch. 507, § 10 (as applicable to armed forces), 68 Stat. 480. |
+| 1488 | 5:2160 (as applicable to armed forces). | July 15, 1954, ch. 507, § 10 (as applicable to armed forces), 68 Stat. 480. |
 
 The words “national cemeteries, other installation cemeteries, or” are omitted as surplusage.
 
@@ -1490,7 +1490,7 @@ The words “national cemeteries, other installation cemeteries, or” are omitt
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-### § 1489. Death gratuity: members and employees dying outside the United States while assigned to intelligence duties
+### § 1489. Death gratuity: members and employees dying outside the United States while assigned to intelligence duties
 
 **(a)** The Secretary of Defense may pay a gratuity to the surviving dependents of any member of the armed forces or of any employee of the Department of Defense—
 
@@ -1514,7 +1514,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** shall be made under the same conditions as apply to payments authorized by section 413 of the Foreign Service Act of 1980 (22 U.S.C. 3973).
 
-(Added Pub. L. 96–450, title IV, § 403(b)(1), Oct. 14, 1980, 94 Stat. 1979; amended Pub. L. 97–22, § 11(a)(6), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title XII, § 1268(9), Sept. 24, 1983, 97 Stat. 706; Pub. L. 99–145, title XIII, § 1303(a)(12), Nov. 8, 1985, 99 Stat. 739.)
+(Added Pub. L. 96–450, title IV, § 403(b)(1), Oct. 14, 1980, 94 Stat. 1979; amended Pub. L. 97–22, § 11(a)(6), July 10, 1981, 95 Stat. 138; Pub. L. 98–94, title XII, § 1268(9), Sept. 24, 1983, 97 Stat. 706; Pub. L. 99–145, title XIII, § 1303(a)(12), Nov. 8, 1985, 99 Stat. 739.)
 
 **Editorial Notes**
 
@@ -1526,7 +1526,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 1981—Subsec. (b)(3). Pub. L. 97–22 substituted “section 413 of the Foreign Service Act of 1980 (22 U.S.C. 3973)” for “section 14 of the Act of August 1, 1956 (22 U.S.C. 2679a)”.
 
-### § 1490. Transportation of remains: certain retired members and dependents who die in military medical facilities
+### § 1490. Transportation of remains: certain retired members and dependents who die in military medical facilities
 
 **(a)** Subject to subsection (b), when a member entitled to retired or retainer pay or equivalent pay, or a dependent of such a member, dies while properly admitted under chapter 55 of this title to a medical facility of the armed forces, the Secretary concerned may transport the remains, or pay the cost of transporting the remains, of the decedent to the place of burial of the decedent.
 
@@ -1538,27 +1538,27 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c) Definition of Dependent.—** In this section, the term “dependent” has the meaning given such term in section 1072(2) of this title.
 
-(Added Pub. L. 98–94, title X, § 1032(a)(1), Sept. 24, 1983, 97 Stat. 671; amended Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 102–190, div. A, title VI, § 626(a), (b)(1), Dec. 5, 1991, 105 Stat. 1379, 1380; Pub. L. 108–136, div. A, title V, § 562(a), (b), Nov. 24, 2003, 117 Stat. 1483.)
+(Added Pub. L. 98–94, title X, § 1032(a)(1), Sept. 24, 1983, 97 Stat. 671; amended Pub. L. 100–26, § 7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 102–190, div. A, title VI, § 626(a), (b)(1), Dec. 5, 1991, 105 Stat. 1379, 1380; Pub. L. 108–136, div. A, title V, § 562(a), (b), Nov. 24, 2003, 117 Stat. 1483.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Subsec. (a). Pub. L. 108–136, § 562(a)(1), struck out “located in the United States” after “armed forces”.
+2003—Subsec. (a). Pub. L. 108–136, § 562(a)(1), struck out “located in the United States” after “armed forces”.
 
-Subsec. (b)(1). Pub. L. 108–136, § 562(a)(2), struck out “outside the United States or to a place” before “further”.
+Subsec. (b)(1). Pub. L. 108–136, § 562(a)(2), struck out “outside the United States or to a place” before “further”.
 
-Subsec. (c). Pub. L. 108–136, § 562(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In this section:
+Subsec. (c). Pub. L. 108–136, § 562(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In this section:
 
 “(1) The term ‘United States’ includes the Commonwealth of Puerto Rico and the territories and possessions of the United States.
 
 “(2) The term ‘dependent’ has the meaning given such term in section 1072(2) of this title.”
 
-1991—Pub. L. 102–190, § 626(b)(1), amended section catchline generally. Prior to amendment, section catchline read as follows: “Transportation of remains of members entitled to retired or retainer pay who die in a military medical facility”.
+1991—Pub. L. 102–190, § 626(b)(1), amended section catchline generally. Prior to amendment, section catchline read as follows: “Transportation of remains of members entitled to retired or retainer pay who die in a military medical facility”.
 
-Subsec. (a). Pub. L. 102–190, § 626(a)(1), inserted “, or a dependent of such a member,” after “equivalent pay”.
+Subsec. (a). Pub. L. 102–190, § 626(a)(1), inserted “, or a dependent of such a member,” after “equivalent pay”.
 
-Subsec. (c). Pub. L. 102–190, § 626(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “In this section, the term ‘United States’ includes the Commonwealth of Puerto Rico and the territories and possessions of the United States.”
+Subsec. (c). Pub. L. 102–190, § 626(a)(2), added subsec. (c) and struck out former subsec. (c) which read as follows: “In this section, the term ‘United States’ includes the Commonwealth of Puerto Rico and the territories and possessions of the United States.”
 
 1987—Subsec. (c). Pub. L. 100–26 inserted “the term” after “In this section,”.
 
@@ -1566,13 +1566,13 @@ Subsec. (c). Pub. L. 102–190, § 626(a)(2), added subsec. (c) and struck out
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title V, § 562(c), Nov. 24, 2003, 117 Stat. 1483, provided that: “The amendments made by this section [amending this section] shall apply only with respect to persons dying on or after the date of the enactment of this Act [Nov. 24, 2003].”
+Pub. L. 108–136, div. A, title V, § 562(c), Nov. 24, 2003, 117 Stat. 1483, provided that: “The amendments made by this section [amending this section] shall apply only with respect to persons dying on or after the date of the enactment of this Act [Nov. 24, 2003].”
 
 **Effective Date**
 
-Pub. L. 98–94, title X, § 1032(b), Sept. 24, 1983, 97 Stat. 672, provided that: “Section 1490 of title 10, United States Code, as added by subsection (a), shall apply with respect to the transportation of the remains of persons dying after September 30, 1983.”
+Pub. L. 98–94, title X, § 1032(b), Sept. 24, 1983, 97 Stat. 672, provided that: “Section 1490 of title 10, United States Code, as added by subsection (a), shall apply with respect to the transportation of the remains of persons dying after September 30, 1983.”
 
-### § 1491. Funeral honors functions at funerals for veterans
+### § 1491. Funeral honors functions at funerals for veterans
 
 **(a) Availability of Funeral Honors Detail Ensured.—** The Secretary of Defense shall ensure that, upon request, a funeral honors detail is provided for the funeral of any veteran, except when military honors are prohibited under section 985(a) of this title.
 
@@ -1630,7 +1630,7 @@ Pub. L. 98–94, title X, § 1032(b), Sept. 24, 1983, 97 Stat. 672, provided t
 
 **(2)** was a member or former member of the Selected Reserve described in section 2301(f) of title 38.
 
-(Added Pub. L. 105–261, div. A, title V, § 567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, § 578(a)(1), (b)–(e), (k)(1), title X, § 1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774; Pub. L. 107–107, div. A, title V, §§ 561(a), 564, Dec. 28, 2001, 115 Stat. 1119, 1120; Pub. L. 107–314, div. A, title V, § 571, Dec. 2, 2002, 116 Stat. 2556; Pub. L. 109–163, div. A, title VI, § 662(b)(4), Jan. 6, 2006, 119 Stat. 3315; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–66, div. A, title VI, § 621(f), Dec. 26, 2013, 127 Stat. 784; Pub. L. 116–92, div. A, title V, § 574(a), Dec. 20, 2019, 133 Stat. 1404; Pub. L. 116–283, div. A, title V, § 596(a)(2), Jan. 1, 2021, 134 Stat. 3667; Pub. L. 117–263, div. A, title VI, § 626(c)(5), Dec. 23, 2022, 136 Stat. 2628; Pub. L. 118–31, div. A, title XVII, § 1741(b)(5), Dec. 22, 2023, 137 Stat. 681.)
+(Added Pub. L. 105–261, div. A, title V, § 567(b)(1), Oct. 17, 1998, 112 Stat. 2030; amended Pub. L. 106–65, div. A, title V, § 578(a)(1), (b)–(e), (k)(1), title X, § 1067(1), Oct. 5, 1999, 113 Stat. 625–627, 630, 774; Pub. L. 107–107, div. A, title V, §§ 561(a), 564, Dec. 28, 2001, 115 Stat. 1119, 1120; Pub. L. 107–314, div. A, title V, § 571, Dec. 2, 2002, 116 Stat. 2556; Pub. L. 109–163, div. A, title VI, § 662(b)(4), Jan. 6, 2006, 119 Stat. 3315; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–66, div. A, title VI, § 621(f), Dec. 26, 2013, 127 Stat. 784; Pub. L. 116–92, div. A, title V, § 574(a), Dec. 20, 2019, 133 Stat. 1404; Pub. L. 116–283, div. A, title V, § 596(a)(2), Jan. 1, 2021, 134 Stat. 3667; Pub. L. 117–263, div. A, title VI, § 626(c)(5), Dec. 23, 2022, 136 Stat. 2628; Pub. L. 118–31, div. A, title XVII, § 1741(b)(5), Dec. 22, 2023, 137 Stat. 681.)
 
 **Editorial Notes**
 
@@ -1644,59 +1644,59 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 2022—Subsec. (d)(3). Pub. L. 117–263 substituted “section 435(a)(2)” for “section 495(a)(2)”.
 
-2021—Subsec. (b)(2). Pub. L. 116–283 struck out “, at least one of whom shall be a member of the armed force of which the veteran was a member” after “retired status)”.
+2021—Subsec. (b)(2). Pub. L. 116–283 struck out “, at least one of whom shall be a member of the armed force of which the veteran was a member” after “retired status)”.
 
 2019—Subsec. (b)(3). Pub. L. 116–92 added par. (3).
 
 2013—Subsec. (d)(1)(A). Pub. L. 113–66 substituted “travel and transportation allowances as specified in regulations prescribed under section 464 of title 37” for “transportation (or reimbursement for transportation) and expenses”.
 
-Subsec. (d)(3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
+Subsec. (d)(3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
-2011—Subsec. (d)(3). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “495(a)(2)” for “435(a)(2)”.
+2011—Subsec. (d)(3). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “495(a)(2)” for “435(a)(2)”.
 
-2006—Subsec. (a). Pub. L. 109–163 inserted “, except when military honors are prohibited under section 985(a) of this title” before period at end.
+2006—Subsec. (a). Pub. L. 109–163 inserted “, except when military honors are prohibited under section 985(a) of this title” before period at end.
 
-2002—Subsec. (d)(1). Pub. L. 107–314, § 571(1), designated existing provisions as par. (1) and substituted “ To support a” for “To provide a”. Former par. (1) redesignated (1)(A).
+2002—Subsec. (d)(1). Pub. L. 107–314, § 571(1), designated existing provisions as par. (1) and substituted “ To support a” for “To provide a”. Former par. (1) redesignated (1)(A).
 
-Subsec. (d)(1)(A). Pub. L. 107–314, § 571(2), redesignated par. (1) as subpar. (A) of par. (1) and amended it generally. Prior to amendment, text read as follows: “Transportation, or reimbursement for transportation, and expenses for a person who participates in the funeral honors detail and is not a member of the armed forces or an employee of the United States.”
+Subsec. (d)(1)(A). Pub. L. 107–314, § 571(2), redesignated par. (1) as subpar. (A) of par. (1) and amended it generally. Prior to amendment, text read as follows: “Transportation, or reimbursement for transportation, and expenses for a person who participates in the funeral honors detail and is not a member of the armed forces or an employee of the United States.”
 
-Subsec. (d)(1)(B). Pub. L. 107–314, § 571(3), redesignated par. (2) as subpar. (B) of par. (1), substituted “For” for “Materiel, equipment, and training for”, and inserted “and for members of the armed forces in a retired status, materiel, equipment, and training” before period at end.
+Subsec. (d)(1)(B). Pub. L. 107–314, § 571(3), redesignated par. (2) as subpar. (B) of par. (1), substituted “For” for “Materiel, equipment, and training for”, and inserted “and for members of the armed forces in a retired status, materiel, equipment, and training” before period at end.
 
-Subsec. (d)(1)(C). Pub. L. 107–314, § 571(4), redesignated par. (3) as subpar. (C) of par. (1), substituted “For” for “Articles of clothing for”, and inserted “, articles of clothing” after “subsection (b)(2)”.
+Subsec. (d)(1)(C). Pub. L. 107–314, § 571(4), redesignated par. (3) as subpar. (C) of par. (1), substituted “For” for “Articles of clothing for”, and inserted “, articles of clothing” after “subsection (b)(2)”.
 
-Subsec. (d)(2), (3). Pub. L. 107–314, § 571(5), added pars. (2) and (3). Former pars. (2) and (3) redesignated subpars. (B) and (C), respectively, of par. (1).
+Subsec. (d)(2), (3). Pub. L. 107–314, § 571(5), added pars. (2) and (3). Former pars. (2) and (3) redesignated subpars. (B) and (C), respectively, of par. (1).
 
-2001—Subsec. (b)(2). Pub. L. 107–107, § 561(a), inserted “(other than members in a retired status)” after “members of the armed forces” in first sentence and inserted “(including members in a retired status),” after “members of the armed forces” in second sentence.
+2001—Subsec. (b)(2). Pub. L. 107–107, § 561(a), inserted “(other than members in a retired status)” after “members of the armed forces” in first sentence and inserted “(including members in a retired status),” after “members of the armed forces” in second sentence.
 
-Subsec. (d)(3). Pub. L. 107–107, § 564, added par. (3).
+Subsec. (d)(3). Pub. L. 107–107, § 564, added par. (3).
 
-1999—Pub. L. 106–65, § 578(k)(1), substituted “Funeral honors functions at funerals for veterans” for “Honor guard details at funerals of veterans” as section catchline.
+1999—Pub. L. 106–65, § 578(k)(1), substituted “Funeral honors functions at funerals for veterans” for “Honor guard details at funerals of veterans” as section catchline.
 
-Subsec. (a). Pub. L. 106–65, § 578(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of a military department shall, upon request, provide an honor guard detail (or ensure that an honor guard detail is provided) for the funeral of any veteran that occurs after December 31, 1999.”
+Subsec. (a). Pub. L. 106–65, § 578(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of a military department shall, upon request, provide an honor guard detail (or ensure that an honor guard detail is provided) for the funeral of any veteran that occurs after December 31, 1999.”
 
-Subsec. (b). Pub. L. 106–65, § 578(b), substituted “Funeral Honors Details” for “Honor Guard Details” in subsec. (b) heading, designated existing provisions as par. (1), substituted “a funeral honors detail” for “an honor guard detail” and “two or more persons.” for “not less than three persons and (unless a bugler is part of the detail) has the capability to play a recorded version of Taps.”, redesignated subsec. (c) as subsec. (b)(2), struck out former subsec. (c) heading “Persons Forming Honor Guards”, and substituted “At least two members of the funeral honors detail for a veteran’s funeral shall be members of the armed forces, at least one of whom shall be a member of the armed force of which the veteran was a member. The remainder of the detail” for “An honor guard detail” and “Each member of the armed forces in the detail shall wear the uniform of the member’s armed force while serving in the detail.” for “The Secretary of a military department may provide transportation, or reimbursement for transportation, and expenses for a person who participates in an honor guard detail under this section and is not a member of the armed forces or an employee of the United States.”
+Subsec. (b). Pub. L. 106–65, § 578(b), substituted “Funeral Honors Details” for “Honor Guard Details” in subsec. (b) heading, designated existing provisions as par. (1), substituted “a funeral honors detail” for “an honor guard detail” and “two or more persons.” for “not less than three persons and (unless a bugler is part of the detail) has the capability to play a recorded version of Taps.”, redesignated subsec. (c) as subsec. (b)(2), struck out former subsec. (c) heading “Persons Forming Honor Guards”, and substituted “At least two members of the funeral honors detail for a veteran’s funeral shall be members of the armed forces, at least one of whom shall be a member of the armed force of which the veteran was a member. The remainder of the detail” for “An honor guard detail” and “Each member of the armed forces in the detail shall wear the uniform of the member’s armed force while serving in the detail.” for “The Secretary of a military department may provide transportation, or reimbursement for transportation, and expenses for a person who participates in an honor guard detail under this section and is not a member of the armed forces or an employee of the United States.”
 
-Subsec. (c). Pub. L. 106–65, § 578(c)(2), added subsec. (c). Former subsec. (c) redesignated subsec. (b)(2).
+Subsec. (c). Pub. L. 106–65, § 578(c)(2), added subsec. (c). Former subsec. (c) redesignated subsec. (b)(2).
 
-Subsecs. (d), (e). Pub. L. 106–65, § 578(c)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
+Subsecs. (d), (e). Pub. L. 106–65, § 578(c)(2), added subsecs. (d) and (e). Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 
-Subsec. (f). Pub. L. 106–65, § 578(d), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall by regulation establish a system for selection of units of the armed forces and other organizations to provide honor guard details. The system shall place an emphasis on balancing the funeral detail workload among the units and organizations providing honor guard details in an equitable manner as they are able to respond to requests for such details in terms of geographic proximity and available resources. The Secretary shall provide in such regulations that the armed force in which a veteran served shall not be considered to be a factor when selecting the military unit or other organization to provide an honor guard detail for the funeral of the veteran.”
+Subsec. (f). Pub. L. 106–65, § 578(d), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall by regulation establish a system for selection of units of the armed forces and other organizations to provide honor guard details. The system shall place an emphasis on balancing the funeral detail workload among the units and organizations providing honor guard details in an equitable manner as they are able to respond to requests for such details in terms of geographic proximity and available resources. The Secretary shall provide in such regulations that the armed force in which a veteran served shall not be considered to be a factor when selecting the military unit or other organization to provide an honor guard detail for the funeral of the veteran.”
 
-Pub. L. 106–65, § 578(c)(1), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
+Pub. L. 106–65, § 578(c)(1), redesignated subsec. (d) as (f). Former subsec. (f) redesignated (h).
 
-Subsec. (g). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+Subsec. (g). Pub. L. 106–65, § 1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
-Pub. L. 106–65, § 578(c)(1), redesignated subsec. (e) as (g).
+Pub. L. 106–65, § 578(c)(1), redesignated subsec. (e) as (g).
 
-Subsec. (h). Pub. L. 106–65, § 578(e), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “In this section, the term ‘veteran’ has the meaning given that term in section 101(2) of title 38.”
+Subsec. (h). Pub. L. 106–65, § 578(e), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “In this section, the term ‘veteran’ has the meaning given that term in section 101(2) of title 38.”
 
-Pub. L. 106–65, § 578(c)(1), redesignated subsec. (f) as (h).
+Pub. L. 106–65, § 578(c)(1), redesignated subsec. (f) as (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 **Effective Date of 2006 Amendment**
 
@@ -1704,11 +1704,11 @@ Amendment by Pub. L. 109–163 applicable with respect to funerals and burials t
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–65, div. A, title V, § 578(a)(2), Oct. 5, 1999, 113 Stat. 625, provided that: “Section 1491(a) of title 10, United States Code, as amended by paragraph (1), shall apply with respect to funerals that occur after December 31, 1999.”
+Pub. L. 106–65, div. A, title V, § 578(a)(2), Oct. 5, 1999, 113 Stat. 625, provided that: “Section 1491(a) of title 10, United States Code, as amended by paragraph (1), shall apply with respect to funerals that occur after December 31, 1999.”
 
 **Full Military Funeral Honors for Veterans at Military Installations**
 
-Pub. L. 116–92, div. A, title V, § 574(b), Dec. 20, 2019, 133 Stat. 1404, provided that:
+Pub. L. 116–92, div. A, title V, § 574(b), Dec. 20, 2019, 133 Stat. 1404, provided that:
 
 > **“(1) Installation plans for honors required.—** The commander of each military installation at or through which a funeral honors detail for a veteran is provided pursuant to section 1491 of title 10, United States Code (as amended by subsection (a)), shall maintain and carry out a plan for the provision, upon request, of full military funeral honors at funerals of veterans for whom a funeral honors detail is authorized in that section.
 
@@ -1730,11 +1730,11 @@ Pub. L. 116–92, div. A, title V, § 574(b), Dec. 20, 2019, 133 Stat. 1404, p
 
 > **“(B)** The term ‘veteran’ has the meaning given that term in section 1491(h) of title 10, United States Code.”
 
-### § 1492. Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die overseas
+### § 1492. Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die overseas
 
-**(a) Authority.—** A covered official may treat a covered relative of a covered employee under the jurisdiction of that covered official in the same manner the Secretary of a military department treats, under section 481f(d) 1
+**(a) Authority.—** A covered official may treat a covered relative of a covered employee under the jurisdiction of that covered official in the same manner the Secretary of a military department treats, under section 481f(d) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 37, next of kin and family members of a member of the armed forces who dies while located or serving overseas.
 
@@ -1760,10 +1760,10 @@ of title 37, next of kin and family members of a member of the armed forces who 
 
 **(C)** one or more additional family members of the covered employee, at the discretion of the Secretary a sibling of the covered employee.
 
-(Added Pub. L. 116–283, div. A, title XI, § 1104(a)(1), Jan. 1, 2021, 134 Stat. 3889.)
+(Added Pub. L. 116–283, div. A, title XI, § 1104(a)(1), Jan. 1, 2021, 134 Stat. 3889.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 481f of title 37, referred to in subsec. (a), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+Section 481f of title 37, referred to in subsec. (a), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.

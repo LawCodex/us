@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 601—PRISONS
 
-## § 60101. Findings
+## § 60101. Findings
 
 Congress finds the following:
 
@@ -29,7 +29,7 @@ Congress finds the following:
 
 **(5)** While most governmental entities may prefer to use, and will continue to use, fully trained and sworn law enforcement officers when transporting violent prisoners, fiscal or logistical concerns may make the use of highly specialized private prisoner transport companies an option. Nothing in sections 60101 to 60104 of this title should be construed to mean that governmental entities should contract with private prisoner transport companies to move violent prisoners; however when a government entity opts to use a private prisoner transport company to move violent prisoners, then the company should be subject to regulation in order to enhance public safety.
 
-(Pub. L. 106–560, § 2, Dec. 21, 2000, 114 Stat. 2784.)
+(Pub. L. 106–560, § 2, Dec. 21, 2000, 114 Stat. 2784.)
 
 **Editorial Notes**
 
@@ -45,9 +45,9 @@ For short title of Pub. L. 106–560, which is classified to sections 60101 to 6
 
 **Guidelines for States Regarding Infectious Diseases in Correctional Institutions**
 
-Pub. L. 105–370, § 2(c), Nov. 12, 1998, 112 Stat. 3375, provided that: “Not later than 1 year after the date of the enactment of this Act [Nov. 12, 1998], the Attorney General, in consultation with the Secretary of Health and Human Services, shall provide to the several States proposed guidelines for the prevention, detection, and treatment of incarcerated persons and correctional employees who have, or may be exposed to, infectious diseases in correctional institutions.”
+Pub. L. 105–370, § 2(c), Nov. 12, 1998, 112 Stat. 3375, provided that: “Not later than 1 year after the date of the enactment of this Act [Nov. 12, 1998], the Attorney General, in consultation with the Secretary of Health and Human Services, shall provide to the several States proposed guidelines for the prevention, detection, and treatment of incarcerated persons and correctional employees who have, or may be exposed to, infectious diseases in correctional institutions.”
 
-## § 60102. Definitions
+## § 60102. Definitions
 
 In sections 60101 to 60104 of this title:
 
@@ -63,7 +63,7 @@ The term “private prisoner transport company” means any entity, other than t
 
 The term “violent prisoner” means any individual in the custody of a State or an inferior political subdivision of a State who has previously been convicted of or is currently charged with a crime of violence or any similar statute of a State or the inferior political subdivisions of a State, or any attempt thereof.
 
-(Pub. L. 106–560, § 3, Dec. 21, 2000, 114 Stat. 2784.)
+(Pub. L. 106–560, § 3, Dec. 21, 2000, 114 Stat. 2784.)
 
 **Editorial Notes**
 
@@ -71,7 +71,7 @@ The term “violent prisoner” means any individual in the custody of a State o
 
 Section was formerly classified to section 13726a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 60103. Federal regulation of prisoner transport companies
+## § 60103. Federal regulation of prisoner transport companies
 
 **(a) In general**
 
@@ -85,7 +85,7 @@ Not later than 180 days after December 21, 2000, the Attorney General, in consul
 
 **(3)** Restrictions on the number of hours that employees can be on duty during a given time period. Such restriction shall not be more stringent than current applicable rules and regulations concerning hours of service promulgated under the Federal Motor Vehicle Safety Act.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(4)** Minimum standards for the number of personnel that must supervise violent prisoners. Such standards shall provide the transport entity with appropriate discretion, and, absent more restrictive requirements contracted for by the procuring government entity, shall not exceed a requirement of 1 agent for every 6 violent prisoners.
 
@@ -105,13 +105,13 @@ Not later than 180 days after December 21, 2000, the Attorney General, in consul
 
 Except for the requirements of subsection (b)(6), the regulations promulgated under sections 60101 to 60104 of this title shall not provide stricter standards with respect to private prisoner transport companies than are applicable, without exception, to the United States Marshals Service, Federal Bureau of Prisons, and the Immigration and Naturalization Service when transporting violent prisoners under comparable circumstances.
 
-(Pub. L. 106–560, § 4, Dec. 21, 2000, 114 Stat. 2785.)
+(Pub. L. 106–560, § 4, Dec. 21, 2000, 114 Stat. 2785.)
 
 **Editorial Notes**
 
 **References in Text**
 
-No act with the title Federal Motor Vehicle Safety Act, referred to in subsec. (b)(3), has been enacted. Provisions authorizing the Secretary of Transportation to prescribe requirements relating to hours of service of employees of a motor carrier are contained in chapter 315 (§ 31501 et seq.) of Title 49, Transportation.
+No act with the title Federal Motor Vehicle Safety Act, referred to in subsec. (b)(3), has been enacted. Provisions authorizing the Secretary of Transportation to prescribe requirements relating to hours of service of employees of a motor carrier are contained in chapter 315 (§ 31501 et seq.) of Title 49, Transportation.
 
 **Codification**
 
@@ -123,7 +123,7 @@ Section was formerly classified to section 13726b of Title 42, The Public Health
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-## § 60104. Enforcement
+## § 60104. Enforcement
 
 Any person who is found in violation of the regulations established by sections 60101 to 60104 of this title shall—
 
@@ -131,7 +131,7 @@ Any person who is found in violation of the regulations established by sections 
 
 **(2)** make restitution to any entity of the United States, of a State, or of an inferior political subdivision of a State, which expends funds for the purpose of apprehending any violent prisoner who escapes from a prisoner transport company as the result, in whole or in part, of a violation of regulations promulgated pursuant to section 60103(a) of this title.
 
-(Pub. L. 106–560, § 5, Dec. 21, 2000, 114 Stat. 2786.)
+(Pub. L. 106–560, § 5, Dec. 21, 2000, 114 Stat. 2786.)
 
 **Editorial Notes**
 
@@ -139,7 +139,7 @@ Any person who is found in violation of the regulations established by sections 
 
 Section was formerly classified to section 13726c of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 60105. State information regarding individuals who die in the custody of law enforcement
+## § 60105. State information regarding individuals who die in the custody of law enforcement
 
 **(a) In general**
 
@@ -167,7 +167,7 @@ For each fiscal year after the expiration of the period specified in subsection 
 
 For any fiscal year after the expiration of the period specified in paragraph (1), a State that fails to comply with subsection (a), shall, at the discretion of the Attorney General, be subject to not more than a 10-percent reduction of the funds that would otherwise be allocated for that fiscal year to the State under subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 whether characterized as the Edward Byrne Memorial State and Local Law Enforcement Assistance Programs, the Local Government Law Enforcement Block Grants Program, the Edward Byrne Memorial Justice Assistance Grant Program, or otherwise.
 
@@ -181,7 +181,7 @@ In this section the terms “boot camp prison” and “State” have the meanin
 
 **(f) Study and report of information relating to deaths in custody**
 
-**(1) Study required** The Attorney General shall carry out a study of the information reported under subsection (b) and section 3(a) <sup>1</sup> to—
+**(1) Study required** The Attorney General shall carry out a study of the information reported under subsection (b) and section 3(a) <sup>1</sup> to—
 
 **(A)** determine means by which such information can be used to reduce the number of such deaths; and
 
@@ -191,13 +191,13 @@ In this section the terms “boot camp prison” and “State” have the meanin
 
 Not later than 2 years after December 18, 2014, the Attorney General shall prepare and submit to Congress a report that contains the findings of the study required by paragraph (1).
 
-(Pub. L. 113–242, § 2, Dec. 18, 2014, 128 Stat. 2860.)
+(Pub. L. 113–242, § 2, Dec. 18, 2014, 128 Stat. 2860.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 1 of part E of title I of the Act was classified generally to part A (§ 3750 et seq.) of subchapter V of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as part A (§ 10151 et seq.) of subchapter V of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 1 of part E of title I of the Act was classified generally to part A (§ 3750 et seq.) of subchapter V of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as part A (§ 10151 et seq.) of subchapter V of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 Section 3(a), referred to in subsec. (f)(1), is section 3(a) of Pub. L. 113–242, Dec. 18, 2014, 128 Stat. 2861. Section 3 of Pub. L. 113–242 was editorially reclassified as a note under section 4001 of Title 18, Crimes and Criminal Procedure.
 
@@ -205,7 +205,7 @@ Section 3(a), referred to in subsec. (f)(1), is section 3(a) of Pub. L. 113–24
 
 Section was formerly classified to section 13727 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 60106. Incentives for States
+## § 60106. Incentives for States
 
 **(a) Authority to make grants** The Attorney General is authorized to make grants to States that have in effect a law that—
 
@@ -257,13 +257,13 @@ There are authorized to be appropriated to carry out this section $5,000,000 for
 
 For purposes of this section, the term “State” means each of the several States and the District of Columbia, Indian Tribes, and the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
 
-(Pub. L. 117–103, div. W, title XII, § 1203, Mar. 15, 2022, 136 Stat. 925.)
+(Pub. L. 117–103, div. W, title XII, § 1203, Mar. 15, 2022, 136 Stat. 925.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (d)(1), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part T of title I of the Act is classified principally to subchapter XIX (§ 10441 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (d)(1), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part T of title I of the Act is classified principally to subchapter XIX (§ 10441 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -273,7 +273,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 **Reports to Congress**
 
-Pub. L. 117–103, div. W, title XII, § 1204, Mar. 15, 2022, 136 Stat. 926, provided that:
+Pub. L. 117–103, div. W, title XII, § 1204, Mar. 15, 2022, 136 Stat. 926, provided that:
 
 > **“(a) Report by Attorney General.—** Not later than 1 year after the date of enactment of this Act [Mar. 15, 2022], and each year thereafter, the Attorney General shall submit to Congress and make publicly available on the Department of Justice website a report containing—
 
@@ -297,6 +297,6 @@ Pub. L. 117–103, div. W, title XII, § 1204, Mar. 15, 2022, 136 Stat. 926, p
 
 **Definition**
 
-Pub. L. 117–103, div. W, title XII, § 1205, Mar. 15, 2022, 136 Stat. 927, provided that: “In this title [see Short Title of 2022 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure], the term ‘sexual act’ has the meaning given the term in section 2246 of title 18, United States Code.”
+Pub. L. 117–103, div. W, title XII, § 1205, Mar. 15, 2022, 136 Stat. 927, provided that: “In this title [see Short Title of 2022 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure], the term ‘sexual act’ has the meaning given the term in section 2246 of title 18, United States Code.”
 
 For definitions of other terms used in this section, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 89—PACIFIC WHITING
 
-## § 7001. Definitions
+## § 7001. Definitions
 
 In this chapter:
 
@@ -55,15 +55,15 @@ The term “Secretary” means the Secretary of Commerce.
 
 The term “United States Section” means the United States representatives on the joint management committee.
 
-(Pub. L. 109–479, title VI, § 602, Jan. 12, 2007, 120 Stat. 3644.)
+(Pub. L. 109–479, title VI, § 602, Jan. 12, 2007, 120 Stat. 3644.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 109–479, title VI, § 601, Jan. 12, 2007, 120 Stat. 3644, provided that: “This title [enacting this chapter] may be cited as the ‘Pacific Whiting Act of 2006’.”
+Pub. L. 109–479, title VI, § 601, Jan. 12, 2007, 120 Stat. 3644, provided that: “This title [enacting this chapter] may be cited as the ‘Pacific Whiting Act of 2006’.”
 
-## § 7002. United States representation on joint management committee
+## § 7002. United States representation on joint management committee
 
 **(a) Representatives**
 
@@ -89,9 +89,9 @@ Unless otherwise agreed by all of the 4 representatives, the chair shall rotate 
 
 The Secretary, in consultation with the Secretary of State, may designate alternate representatives of the United States to serve on the joint management committee. An alternative representative may exercise, at any meeting of the committee, all the powers and duties of a representative in the absence of a duly designated representative for whatever reason.
 
-(Pub. L. 109–479, title VI, § 603, Jan. 12, 2007, 120 Stat. 3645.)
+(Pub. L. 109–479, title VI, § 603, Jan. 12, 2007, 120 Stat. 3645.)
 
-## § 7003. United States representation on the scientific review group
+## § 7003. United States representation on the scientific review group
 
 **(a) In general**
 
@@ -107,9 +107,9 @@ An individual appointed under subsection (a) shall be appointed for a term of no
 
 **(2)** 2 public advisors.
 
-(Pub. L. 109–479, title VI, § 604, Jan. 12, 2007, 120 Stat. 3645.)
+(Pub. L. 109–479, title VI, § 604, Jan. 12, 2007, 120 Stat. 3645.)
 
-## § 7004. United States representation on joint technical committee
+## § 7004. United States representation on joint technical committee
 
 **(a) Scientific experts**
 
@@ -125,7 +125,7 @@ An individual appointed under paragraph (1) shall be appointed for a term of not
 
 In addition to individuals appointed under subsection (a), the Secretary, jointly with the Government of Canada, shall appoint 1 independent member to the joint technical committee selected from a list of names provided by the advisory panel.
 
-(Pub. L. 109–479, title VI, § 605, Jan. 12, 2007, 120 Stat. 3646; Pub. L. 111–348, title III, § 302(a), Jan. 4, 2011, 124 Stat. 3672.)
+(Pub. L. 109–479, title VI, § 605, Jan. 12, 2007, 120 Stat. 3646; Pub. L. 111–348, title III, § 302(a), Jan. 4, 2011, 124 Stat. 3672.)
 
 **Editorial Notes**
 
@@ -133,7 +133,7 @@ In addition to individuals appointed under subsection (a), the Secretary, jointl
 
 2011—Subsec. (a)(1). Pub. L. 111–348 substituted “no more than 2” for “at least 6 but not more than 12”.
 
-## § 7005. United States representation on advisory panel
+## § 7005. United States representation on advisory panel
 
 **(a) In general**
 
@@ -147,9 +147,9 @@ In addition to individuals appointed under subsection (a), the Secretary, jointl
 
 An individual appointed under paragraph (1) shall be appointed for a term of not to exceed 4 years, but shall be eligible for reappointment. An individual appointed to fill a vacancy occurring prior to the expiration of the term of office of that individual’s predecessor shall be appointed for the remainder of that term.
 
-(Pub. L. 109–479, title VI, § 606, Jan. 12, 2007, 120 Stat. 3646.)
+(Pub. L. 109–479, title VI, § 606, Jan. 12, 2007, 120 Stat. 3646.)
 
-## § 7006. Responsibilities of the Secretary
+## § 7006. Responsibilities of the Secretary
 
 **(a) In general**
 
@@ -161,9 +161,9 @@ The Secretary is responsible for carrying out the Agreement and this chapter, in
 
 **(2)** with the concurrence of the Secretary of State, may cooperate with officials of the Canadian Government duly authorized to carry out the Agreement.
 
-(Pub. L. 109–479, title VI, § 607, Jan. 12, 2007, 120 Stat. 3646.)
+(Pub. L. 109–479, title VI, § 607, Jan. 12, 2007, 120 Stat. 3646.)
 
-## § 7007. Rulemaking
+## § 7007. Rulemaking
 
 **(a) Application with Magnuson-Stevens Act** The Secretary shall establish the United States catch level for Pacific whiting according to the standards and procedures of the Agreement and this chapter rather than under the standards and procedures of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), except to the extent necessary to address the rebuilding needs of other species. Except for establishing the catch level, all other aspects of Pacific whiting management shall be—
 
@@ -183,21 +183,21 @@ For any year in which both parties to the Agreement approve recommendations made
 
 **(3)** use the default harvest rate set out in paragraph 1 of Article III of the Agreement unless the Secretary determines that the scientific evidence demonstrates that a different rate is necessary to sustain the offshore whiting resource; and
 
-**(4)** establish the United State’s 1
+**(4)** establish the United State’s 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 share of the total allowable catch based on paragraph 2 of Article III of the Agreement and make any adjustments necessary under section 5 of Article II of the Agreement.
 
-(Pub. L. 109–479, title VI, § 608, Jan. 12, 2007, 120 Stat. 3647.)
+(Pub. L. 109–479, title VI, § 608, Jan. 12, 2007, 120 Stat. 3647.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-## § 7008. Administrative matters
+## § 7008. Administrative matters
 
 **(a) Employment status**
 
@@ -223,7 +223,7 @@ Except as provided in subsection (d), the Secretary shall pay the necessary trav
 
 **(2)** the necessary travel expenses of such individuals.
 
-(Pub. L. 109–479, title VI, § 609, Jan. 12, 2007, 120 Stat. 3647; Pub. L. 111–348, title III, § 302(b), Jan. 4, 2011, 124 Stat. 3672.)
+(Pub. L. 109–479, title VI, § 609, Jan. 12, 2007, 120 Stat. 3647; Pub. L. 111–348, title III, § 302(b), Jan. 4, 2011, 124 Stat. 3672.)
 
 **Editorial Notes**
 
@@ -237,7 +237,7 @@ Except as provided in subsection (d), the Secretary shall pay the necessary trav
 
 “(3) any other criminal or civil statute or regulation governing the conduct of Federal employees.”
 
-## § 7009. Enforcement
+## § 7009. Enforcement
 
 **(a) In general** The Secretary may—
 
@@ -259,16 +259,16 @@ The Secretary shall prevent any person from violating this chapter in the same m
 
 This chapter shall be enforced by the Secretary as if a violation of this chapter or of any regulation promulgated by the Secretary under this chapter were a violation of section 307 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857).
 
-(Pub. L. 109–479, title VI, § 610, Jan. 12, 2007, 120 Stat. 3648.)
+(Pub. L. 109–479, title VI, § 610, Jan. 12, 2007, 120 Stat. 3648.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-## § 7010. Authorization of appropriations
+## § 7010. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out the obligations of the United States under the Agreement and this chapter.
 
-(Pub. L. 109–479, title VI, § 611, Jan. 12, 2007, 120 Stat. 3649.)
+(Pub. L. 109–479, title VI, § 611, Jan. 12, 2007, 120 Stat. 3649.)

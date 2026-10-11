@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 37—SEEDS
 
-## § 1551. Short title
+## § 1551. Short title
 
 This chapter may be cited as the “Federal Seed Act.”
 
-(Aug. 9, 1939, ch. 615, § 1, 53 Stat. 1275.)
+(Aug. 9, 1939, ch. 615, § 1, 53 Stat. 1275.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -29,11 +29,11 @@ See section 1610 of this title.
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 97–439, § 1, Jan. 8, 1983, 96 Stat. 2287, provided that: “This Act [amending sections 1561, 1571, 1581, 1582, 1585, and 1586 of this title and repealing sections 1583 and 1584 of this title] may be cited as the ‘Federal Seed Act Amendments of 1982’.”
+Pub. L. 97–439, § 1, Jan. 8, 1983, 96 Stat. 2287, provided that: “This Act [amending sections 1561, 1571, 1581, 1582, 1585, and 1586 of this title and repealing sections 1583 and 1584 of this title] may be cited as the ‘Federal Seed Act Amendments of 1982’.”
 
 ## SUBCHAPTER I—DEFINITIONS
 
-### § 1561. Definition of terms
+### § 1561. Definition of terms
 
 **(a)** When used in this chapter—
 
@@ -121,7 +121,7 @@ Omitted
 
 **(24)** The term “seed certifying agency” means (A) an agency authorized under the laws of a State, Territory, or possession, to officially certify seed and which has standards and procedures approved by the Secretary (after due notice, hearings, and full consideration of the views of farmer users of certified seed and other interested parties) to assure the genetic purity and identity of the seed certified, or (B) an agency of a foreign country determined by the Secretary of Agriculture to adhere to procedures and standards for seed certification comparable to those adhered to generally by seed certifying agencies under (A).
 
-(Aug. 9, 1939, ch. 615, title I, § 101, 53 Stat. 1275; June 25, 1948, ch. 646, § 1, 62 Stat. 870; Aug. 1, 1956, ch. 852, § 1, 70 Stat. 908; Pub. L. 85–581, §§ 1–3, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§ 1–3, 19, Oct. 15, 1966, 80 Stat. 975, 979; Pub. L. 91–89, § 1, Oct. 17, 1969, 83 Stat. 134; Pub. L. 97–439, § 5(a), Jan. 8, 1983, 96 Stat. 2288.)
+(Aug. 9, 1939, ch. 615, title I, § 101, 53 Stat. 1275; June 25, 1948, ch. 646, § 1, 62 Stat. 870; Aug. 1, 1956, ch. 852, § 1, 70 Stat. 908; Pub. L. 85–581, §§ 1–3, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§ 1–3, 19, Oct. 15, 1966, 80 Stat. 975, 979; Pub. L. 91–89, § 1, Oct. 17, 1969, 83 Stat. 134; Pub. L. 97–439, § 5(a), Jan. 8, 1983, 96 Stat. 2288.)
 
 **Editorial Notes**
 
@@ -133,45 +133,45 @@ Former subsec. (a)(6)(b), which extended the former term “circuit court of app
 
 **Amendments**
 
-1983—Subsec. (a)(8). Pub. L. 97–439, § 5(a)(1)(B), struck out “(A)” before “For the purpose of subchapter II of this chapter”.
+1983—Subsec. (a)(8). Pub. L. 97–439, § 5(a)(1)(B), struck out “(A)” before “For the purpose of subchapter II of this chapter”.
 
-Subsec. (a)(8)(A). Pub. L. 97–439, § 5(a)(1)(C), substituted “(A)” for “(i)” before “The State into which”.
+Subsec. (a)(8)(A). Pub. L. 97–439, § 5(a)(1)(C), substituted “(A)” for “(i)” before “The State into which”.
 
-Subsec. (a)(8)(B). Pub. L. 97–439, § 5(a)(1)(A), (D), substituted “(B)” for “(ii)” before “Puerto Rico, Guam, or District of Columbia” and struck out a former subpar. (B) which had, for purposes of subchapter III, defined “weed seeds” to mean seeds or bulblets of plants found by Secretary to be detrimental to agricultural interests of the United States or any part thereof.
+Subsec. (a)(8)(B). Pub. L. 97–439, § 5(a)(1)(A), (D), substituted “(B)” for “(ii)” before “Puerto Rico, Guam, or District of Columbia” and struck out a former subpar. (B) which had, for purposes of subchapter III, defined “weed seeds” to mean seeds or bulblets of plants found by Secretary to be detrimental to agricultural interests of the United States or any part thereof.
 
-Subsec. (a)(17). Pub. L. 97–439, § 5(a)(2), redesignated par. (18) as (17). Former par. (17), which, for purposes of subchapter III, had defined “pure live seed” as the portion of any lot of seed subject to this chapter consisting of live agricultural or vegetable seed determined by methods prescribed under section 1593 of this title, was struck out.
+Subsec. (a)(17). Pub. L. 97–439, § 5(a)(2), redesignated par. (18) as (17). Former par. (17), which, for purposes of subchapter III, had defined “pure live seed” as the portion of any lot of seed subject to this chapter consisting of live agricultural or vegetable seed determined by methods prescribed under section 1593 of this title, was struck out.
 
-Subsec. (a)(18) to (25). Pub. L. 97–439, § 5(a)(2), redesignated pars. (18) through (25) as (17) through (24), respectively.
+Subsec. (a)(18) to (25). Pub. L. 97–439, § 5(a)(2), redesignated pars. (18) through (25) as (17) through (24), respectively.
 
 1969—Subsec. (a)(25). Pub. L. 91–89 inserted provision authorizing Secretary (after due notice, hearing, and full consideration of the views of interested parties) to approve of the standards and procedures of seed certifying agencies authorized under the laws of a State, Territory, or possession.
 
-1966—Subsec. (a)(1). Pub. L. 89–686, § 1, struck out references to “Alaska,” and “Hawaii,” before and after “District of Columbia,”.
+1966—Subsec. (a)(1). Pub. L. 89–686, § 1, struck out references to “Alaska,” and “Hawaii,” before and after “District of Columbia,”.
 
-Subsec. (a)(4). Pub. L. 89–686, § 19, inserted “treatment” before “variety”.
+Subsec. (a)(4). Pub. L. 89–686, § 19, inserted “treatment” before “variety”.
 
-Subsec. (a)(7)(A). Pub. L. 89–686, § 2, redefined “agricultural seeds” to be such as are listed in rules and regulations rather than in statutory text as added to or taken therefrom pursuant to rules and regulations.
+Subsec. (a)(7)(A). Pub. L. 89–686, § 2, redefined “agricultural seeds” to be such as are listed in rules and regulations rather than in statutory text as added to or taken therefrom pursuant to rules and regulations.
 
-Subsec. (a)(8)(A)(ii), (9)(A)(ii). Pub. L. 89–686, § 1, struck out reference to “Alaska, Hawaii,” before “Puerto Rico”.
+Subsec. (a)(8)(A)(ii), (9)(A)(ii). Pub. L. 89–686, § 1, struck out reference to “Alaska, Hawaii,” before “Puerto Rico”.
 
-Subsec. (a)(10). Pub. L. 89–686, § 1, struck out references to “Alaska,” and “Hawaii,” before and after “District of Columbia,”.
+Subsec. (a)(10). Pub. L. 89–686, § 1, struck out references to “Alaska,” and “Hawaii,” before and after “District of Columbia,”.
 
-Subsec. (a)(11). Pub. L. 89–686, § 3, substituted “soybean, flax, carrot, radish” for “wheat, oat, vetch, sweetclover”.
+Subsec. (a)(11). Pub. L. 89–686, § 3, substituted “soybean, flax, carrot, radish” for “wheat, oat, vetch, sweetclover”.
 
-1958—Subsec. (a)(7)(A). Pub. L. 85–581, § 1, included sugar beets in list of seeds subject to this chapter by striking out “excluding sugar beet” after “Beta vulgaris L.—Field beet”.
+1958—Subsec. (a)(7)(A). Pub. L. 85–581, § 1, included sugar beets in list of seeds subject to this chapter by striking out “excluding sugar beet” after “Beta vulgaris L.—Field beet”.
 
-Subsec. (a)(24). Pub. L. 85–581, § 2, added par. (24).
+Subsec. (a)(24). Pub. L. 85–581, § 2, added par. (24).
 
-Subsec. (a)(25). Pub. L. 85–581, § 3, added par. (25).
+Subsec. (a)(25). Pub. L. 85–581, § 3, added par. (25).
 
-1956—Subsec. (a)(8)(A)(ii). Act Aug. 1, 1956, § 1(a), inserted “Guam” after “Puerto Rico”.
+1956—Subsec. (a)(8)(A)(ii). Act Aug. 1, 1956, § 1(a), inserted “Guam” after “Puerto Rico”.
 
-Subsec. (a)(9)(A)(ii). Act Aug. 1, 1956, § 1(b), inserted “Guam” after “Puerto Rico”.
+Subsec. (a)(9)(A)(ii). Act Aug. 1, 1956, § 1(b), inserted “Guam” after “Puerto Rico”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–581, § 16, provided that: “This Act, and the amendments [amending sections 1561, 1562, 1571 to 1574, 1581, 1582, and 1586 of this title] made hereby, shall take effect upon the date of enactment [Aug. 1, 1958].”
+Pub. L. 85–581, § 16, provided that: “This Act, and the amendments [amending sections 1561, 1562, 1571 to 1574, 1581, 1582, and 1586 of this title] made hereby, shall take effect upon the date of enactment [Aug. 1, 1958].”
 
 **Effective Date**
 
@@ -183,7 +183,7 @@ See section 1610 of this title.
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
 
-### § 1562. False representations as certified seed; required provisions
+### § 1562. False representations as certified seed; required provisions
 
 Any labeling, advertisement, or other representation subject to this chapter which represents that any seed is certified seed or any class thereof shall be deemed to be false in this respect unless (a) it has been determined by a seed certifying agency that such seed conformed to standards of genetic purity and identity as to kind or variety, and is in compliance with the rules and regulations of such agency pertaining to such seed; and (b) the seed bears an official label issued for such seed by a seed certifying agency certifying that the seed is of a specified class and a specified kind or variety. Seed of a variety for which a certificate of plant variety protection under the Plant Variety Protection Act [7 U.S.C. 2321 et seq.] specifies sale only as a class of certified seed shall be certified only when
 
@@ -191,13 +191,13 @@ Any labeling, advertisement, or other representation subject to this chapter whi
 
 **(2)** it conforms to the number of generations designated by the certificate, if the certificate contains such a designation.
 
-(Aug. 9, 1939, ch. 615, title I, § 102, as added Pub. L. 85–581, § 4, Aug. 1, 1958, 72 Stat. 476; amended Pub. L. 91–89, § 2, Oct. 17, 1969, 83 Stat. 134; Pub. L. 91–577, title III, § 142(b), Dec. 24, 1970, 84 Stat. 1558.)
+(Aug. 9, 1939, ch. 615, title I, § 102, as added Pub. L. 85–581, § 4, Aug. 1, 1958, 72 Stat. 476; amended Pub. L. 91–89, § 2, Oct. 17, 1969, 83 Stat. 134; Pub. L. 91–577, title III, § 142(b), Dec. 24, 1970, 84 Stat. 1558.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Plant Variety Protection Act, referred to in text, is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of this title and Tables.
+The Plant Variety Protection Act, referred to in text, is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of this title and Tables.
 
 **Amendments**
 
@@ -213,7 +213,7 @@ Amendment by Pub. L. 91–577 effective Dec. 24, 1970, see section 141 of Pub. L
 
 ## SUBCHAPTER II—INTERSTATE COMMERCE
 
-### § 1571. Prohibitions relating to interstate commerce in certain seeds
+### § 1571. Prohibitions relating to interstate commerce in certain seeds
 
 It shall be unlawful for any person to transport or deliver for transportation in interstate commerce—
 
@@ -313,57 +313,57 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 **(4)** A description, approved by the Secretary of Agriculture as adequate for the protection of the public, of any process used in such treatment.
 
-(Aug. 9, 1939, ch. 615, title II, § 201, 53 Stat. 1279; Pub. L. 85–581, §§ 5–8, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§ 4–10, Oct. 15, 1966, 80 Stat. 975–977; Pub. L. 97–439, §§ 2–4, Jan. 8, 1983, 96 Stat. 2287.)
+(Aug. 9, 1939, ch. 615, title II, § 201, 53 Stat. 1279; Pub. L. 85–581, §§ 5–8, Aug. 1, 1958, 72 Stat. 476; Pub. L. 89–686, §§ 4–10, Oct. 15, 1966, 80 Stat. 975–977; Pub. L. 97–439, §§ 2–4, Jan. 8, 1983, 96 Stat. 2287.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1983—Subsec. (a). Pub. L. 97–439, § 2(a), struck out “, except as provided in paragraph (j) of this section for seed mixtures intended for lawn and turf purposes,” after “following information” in provisions preceding par. (1).
+1983—Subsec. (a). Pub. L. 97–439, § 2(a), struck out “, except as provided in paragraph (j) of this section for seed mixtures intended for lawn and turf purposes,” after “following information” in provisions preceding par. (1).
 
-Subsec. (a)(1)(A). Pub. L. 97–439, § 2(b)(1), inserted “(A), except with respect to seed mixtures intended for lawn and turf purposes,” after “*Provided*, That”.
+Subsec. (a)(1)(A). Pub. L. 97–439, § 2(b)(1), inserted “(A), except with respect to seed mixtures intended for lawn and turf purposes,” after “*Provided*, That”.
 
-Subsec. (a)(1)(B). Pub. L. 97–439, § 2(b)(2), substituted “, (B)” for “: *And provided further*, That”.
+Subsec. (a)(1)(B). Pub. L. 97–439, § 2(b)(2), substituted “, (B)” for “: *And provided further*, That”.
 
-Subsec. (a)(1)(C). Pub. L. 97–439, § 2(b)(3), added cl. (C).
+Subsec. (a)(1)(C). Pub. L. 97–439, § 2(b)(3), added cl. (C).
 
-Subsec. (a)(8). Pub. L. 97–439, § 3, inserted exception relating to the case of a seed mixture.
+Subsec. (a)(8). Pub. L. 97–439, § 3, inserted exception relating to the case of a seed mixture.
 
-Subsec. (c)(1). Pub. L. 97–439, § 4(1), substituted “(1)” for “(a)”.
+Subsec. (c)(1). Pub. L. 97–439, § 4(1), substituted “(1)” for “(a)”.
 
-Subsec. (c)(2). Pub. L. 97–439, § 4(2), substituted “(2)” for “(b)”.
+Subsec. (c)(2). Pub. L. 97–439, § 4(2), substituted “(2)” for “(b)”.
 
-Subsec. (c)(2)(A). Pub. L. 97–439, § 4(3), inserted “(A)” after “vegetable seed which”.
+Subsec. (c)(2)(A). Pub. L. 97–439, § 4(3), inserted “(A)” after “vegetable seed which”.
 
-Subsec. (c)(2)(B). Pub. L. 97–439, § 4(4), added cl. (B).
+Subsec. (c)(2)(B). Pub. L. 97–439, § 4(4), added cl. (B).
 
-Subsec. (j). Pub. L. 97–439, § 2(c), struck out subsec. (j) which directed that seed mixtures intended for lawn and turf purposes be transported or delivered for transport in interstate commerce in containers of fifty pounds or less, and specified the information to be placed on the label.
+Subsec. (j). Pub. L. 97–439, § 2(c), struck out subsec. (j) which directed that seed mixtures intended for lawn and turf purposes be transported or delivered for transport in interstate commerce in containers of fifty pounds or less, and specified the information to be placed on the label.
 
-1966—Subsec. (a). Pub. L. 89–686, § 4, inserted in introductory text, “, except as provided in subsection (j) of this section for seed mixtures intended for lawn and turf purposes,”.
+1966—Subsec. (a). Pub. L. 89–686, § 4, inserted in introductory text, “, except as provided in subsection (j) of this section for seed mixtures intended for lawn and turf purposes,”.
 
-Subsec. (a)(1). Pub. L. 89–686, § 5, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The name of (A) kind, or (B) kind and variety, or (C) kind and type, for each agricultural seed component present in excess of 5 per centum of the whole and the percentage by weight of each: *Provided*, That such components are expressed in accordance with the category designated under (A), (B), or (C);”.
+Subsec. (a)(1). Pub. L. 89–686, § 5, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The name of (A) kind, or (B) kind and variety, or (C) kind and type, for each agricultural seed component present in excess of 5 per centum of the whole and the percentage by weight of each: *Provided*, That such components are expressed in accordance with the category designated under (A), (B), or (C);”.
 
-Subsec. (a)(10). Pub. L. 89–686, § 6, added par. (10).
+Subsec. (a)(10). Pub. L. 89–686, § 6, added par. (10).
 
-Subsec. (b). Pub. L. 89–686, § 7, substituted provisions respecting labeling requirements for containers of one pound or less of seed that germinates equal to or above the standard last established by the Secretary of Agriculture in par. (1), containers of one pound or less of seed that germinates less than the standard last established by the Secretary in par. (2), and containers of more than one pound of seed in par. (3), for former labeling requirements which prescribed in par. (1) name of each kind and variety of seed and if two or more kinds or varieties are present, the percentage of each, in par. (2) for each variety of vegetable seed which germinates less than the standard last established by the Secretary of Agriculture, as provided under section 1593(c) of this title, the percentage of germination, exclusive of hard seed; (ii) percentage of hard seed, if present; (iii) the calendar month and year the test was completed to determine such percentages; (iv) the words “Below Standard”; and in par. (3), name and address of—
+Subsec. (b). Pub. L. 89–686, § 7, substituted provisions respecting labeling requirements for containers of one pound or less of seed that germinates equal to or above the standard last established by the Secretary of Agriculture in par. (1), containers of one pound or less of seed that germinates less than the standard last established by the Secretary in par. (2), and containers of more than one pound of seed in par. (3), for former labeling requirements which prescribed in par. (1) name of each kind and variety of seed and if two or more kinds or varieties are present, the percentage of each, in par. (2) for each variety of vegetable seed which germinates less than the standard last established by the Secretary of Agriculture, as provided under section 1593(c) of this title, the percentage of germination, exclusive of hard seed; (ii) percentage of hard seed, if present; (iii) the calendar month and year the test was completed to determine such percentages; (iv) the words “Below Standard”; and in par. (3), name and address of—
 
 (A) the person who transports, or delivers for transportation, said seed in interstate commerce; or
 
 (B) the person to whom the seed is sold or shipped for resale, together with a code designation approved by the Secretary of Agriculture under rules and regulations prescribed under section 1592 of this title, indicating the person who transports or delivers for transportation said seed in interstate commerce.
 
-Subsec. (c). Pub. L. 89–686, § 8, substituted in cl. (b) “a longer period for any kind of agricultural or vegetable seed which is packaged in such container materials and under such other conditions prescribed by the Secretary of Agriculture as he finds will, during such longer period, maintain the viability of said seed under ordinary conditions of handling” for “a longer period not to exceed nine months, exclusive of the calendar month in which the test was completed, for kinds of agricultural or vegetable seed which he finds under ordinary conditions of handling will maintain during such longer period a germination within the established limits of tolerance”.
+Subsec. (c). Pub. L. 89–686, § 8, substituted in cl. (b) “a longer period for any kind of agricultural or vegetable seed which is packaged in such container materials and under such other conditions prescribed by the Secretary of Agriculture as he finds will, during such longer period, maintain the viability of said seed under ordinary conditions of handling” for “a longer period not to exceed nine months, exclusive of the calendar month in which the test was completed, for kinds of agricultural or vegetable seed which he finds under ordinary conditions of handling will maintain during such longer period a germination within the established limits of tolerance”.
 
-Subsec. (i)(4). Pub. L. 89–686, § 9, transposed “of any process used in such treatment” which followed “description” to end of sentence, inserting a comma preceding such phrase.
+Subsec. (i)(4). Pub. L. 89–686, § 9, transposed “of any process used in such treatment” which followed “description” to end of sentence, inserting a comma preceding such phrase.
 
-Subsec. (j). Pub. L. 89–686, § 10, added subsec. (j).
+Subsec. (j). Pub. L. 89–686, § 10, added subsec. (j).
 
-1958—Subsec. (a)(8). Pub. L. 85–581, § 5, inserted “and each kind or variety or type of agricultural seed shown in the labeling to be present in a proportion of 5 per centum or less of the whole”.
+1958—Subsec. (a)(8). Pub. L. 85–581, § 5, inserted “and each kind or variety or type of agricultural seed shown in the labeling to be present in a proportion of 5 per centum or less of the whole”.
 
-Subsec. (b)(1). Pub. L. 85–581, § 6, required label on container to show percentage where two or more varieties of seed are present.
+Subsec. (b)(1). Pub. L. 85–581, § 6, required label on container to show percentage where two or more varieties of seed are present.
 
-Subsec. (b)(2). Pub. L. 85–581, § 7, substituted “For each variety of vegetable seed” for “For seeds”.
+Subsec. (b)(2). Pub. L. 85–581, § 7, substituted “For each variety of vegetable seed” for “For seeds”.
 
-Subsec. (i). Pub. L. 85–581, § 8, added subsec. (i).
+Subsec. (i). Pub. L. 85–581, § 8, added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -371,11 +371,11 @@ Subsec. (i). Pub. L. 85–581, § 8, added subsec. (i).
 
 See section 1610 of this title.
 
-### § 1572. Records
+### § 1572. Records
 
 All persons transporting, or delivering for transportation, in interstate commerce, agricultural seeds shall keep for a period of three years a complete record of origin, treatment, germination, and purity of each lot of such agricultural seeds, and all persons transporting, or delivering for transportation, in interstate commerce, vegetable seeds shall keep for a period of three years a complete record of treatment, germination and variety of such vegetable seeds. The Secretary of Agriculture, or his duly authorized agents, shall have the right to inspect such records for the purpose of the effective administration of this chapter.
 
-(Aug. 9, 1939, ch. 615, title II, § 202, 53 Stat. 1281; Pub. L. 85–581, § 9, Aug. 1, 1958, 72 Stat. 477; Pub. L. 89–686, § 11, Oct. 15, 1966, 80 Stat. 978.)
+(Aug. 9, 1939, ch. 615, title II, § 202, 53 Stat. 1281; Pub. L. 85–581, § 9, Aug. 1, 1958, 72 Stat. 477; Pub. L. 89–686, § 11, Oct. 15, 1966, 80 Stat. 978.)
 
 **Editorial Notes**
 
@@ -391,7 +391,7 @@ All persons transporting, or delivering for transportation, in interstate commer
 
 See section 1610 of this title.
 
-### § 1573. Exemptions
+### § 1573. Exemptions
 
 **(a) Carrier transporting seeds**
 
@@ -415,9 +415,9 @@ When the Secretary of Agriculture finds that, because of the time interval betwe
 
 **(d) Intermixture of unidentified seeds; percentages of kind or kind and variety of seeds**
 
-The provisions of sections 1
+The provisions of sections 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 1571(a) and (b) of this title relative to the labeling of agricultural and vegetable seeds with the percentages of the kind or kind and variety of seeds shall not be deemed violated if there are seeds in the container or bulk which could not be, or were not, identified because of their indistinguishability in appearance from the seeds intended to be transported or delivered for transportation in interstate commerce: *Provided*, That the rec­ords of the person charged with the duty under said section of labeling or invoicing the seeds, kept in accordance with the rules and regulations of the Secretary of Agriculture, together with other pertinent facts, disclose that said person has taken reasonable precautions to insure the identity of the seeds to be that stated.
 
@@ -425,15 +425,15 @@ The provisions of sections 1
 
 The provisions of section 1571(i) of this title relative to the labeling of agricultural and vegetable seeds with the name of any substance used in the treatment of seeds shall not be deemed violated if the substance or substances used in such treatment could not be or were not identified because of their indistinguishability from the substance or substances intended to be used in the treatment of the seeds: *Provided*, That the records of the person charged with the duty under said section of labeling or invoicing the seeds, kept in accordance with the rules and regulations of the Secretary of Agriculture, together with other pertinent facts, disclosed that said person has taken reasonable precautions to insure the identity of the substance or substances to be as stated.
 
-(Aug. 9, 1939, ch. 615, title II, § 203, 53 Stat. 1281; Pub. L. 85–581, § 10, Aug. 1, 1958, 72 Stat. 477; Pub. L. 89–686, § 12, Oct. 15, 1966, 80 Stat. 978.)
+(Aug. 9, 1939, ch. 615, title II, § 203, 53 Stat. 1281; Pub. L. 85–581, § 10, Aug. 1, 1958, 72 Stat. 477; Pub. L. 89–686, § 12, Oct. 15, 1966, 80 Stat. 978.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1966—Subsec. (d). Pub. L. 89–686, § 12(a), substituted “the kind or kind and variety of seeds”, “if there are seeds”, “: *Provided*, That”, and “reasonable precautions to insure the identity of the seed to be that stated” for “the kind or variety or type of seeds”, “if there be other seeds”, “, provided that”, and “proper precautions to insure the identity to be that stated”, respectively.
+1966—Subsec. (d). Pub. L. 89–686, § 12(a), substituted “the kind or kind and variety of seeds”, “if there are seeds”, “: *Provided*, That”, and “reasonable precautions to insure the identity of the seed to be that stated” for “the kind or variety or type of seeds”, “if there be other seeds”, “, provided that”, and “proper precautions to insure the identity to be that stated”, respectively.
 
-Subsec. (e). Pub. L. 89–686, § 12(b), added subsec. (e).
+Subsec. (e). Pub. L. 89–686, § 12(b), added subsec. (e).
 
 1958—Subsec. (b). Pub. L. 85–581 inserted references to section 1571(i) of this title and eased labeling requirements with respect to shipment of seed in containers and in quantities of twenty thousand pounds or more.
 
@@ -443,11 +443,11 @@ Subsec. (e). Pub. L. 89–686, § 12(b), added subsec. (e).
 
 See section 1610 of this title.
 
-### § 1574. Disclaimers, limited warranties and nonwarranties
+### § 1574. Disclaimers, limited warranties and nonwarranties
 
 The use of a disclaimer, limited warranty, or nonwarranty clause in any invoice, advertising, labeling, or written, printed, or graphic matter, pertaining to any seed shall not constitute a defense, or be used as a defense in any way, in any prosecution or other proceeding brought under the provisions of this chapter, or the rules and regulations made and promulgated thereunder. Nothing in this section is intended to preclude the use of a disclaimer, limited warranty, or nonwarranty clause as a defense in any proceeding not brought under this chapter.
 
-(Aug. 9, 1939, ch. 615, title II, § 204, 53 Stat. 1282; July 9, 1956, ch. 520, § 2, 70 Stat. 508; Pub. L. 85–581, § 11, Aug. 1, 1958, 72 Stat. 478.)
+(Aug. 9, 1939, ch. 615, title II, § 204, 53 Stat. 1282; July 9, 1956, ch. 520, § 2, 70 Stat. 508; Pub. L. 85–581, § 11, Aug. 1, 1958, 72 Stat. 478.)
 
 **Editorial Notes**
 
@@ -467,11 +467,11 @@ Amendments made by act July 9, 1956, applicable only with respect to violations 
 
 See section 1610 of this title.
 
-### § 1575. False advertising
+### § 1575. False advertising
 
 It shall be unlawful for any person to disseminate, or cause to be disseminated, any false advertisement concerning seed, by the United States mails, or in interstate or foreign commerce, in any manner or by any means, including radio broadcasts: *Provided, however*, That no person, advertising agency, or medium for the dissemination of advertising, except the person who transported, delivered for transportation, sold, or offered for sale seed to which the false advertisement relates, shall be liable under this section by reason of disseminating or causing to be disseminated any false advertisement, unless he or it has refused, on the request of the Secretary of Agriculture, to furnish the Secretary the name and post-office address of the person, or advertising agency, residing in the United States, who caused, directly or indirectly, the dissemination of such advertisement.
 
-(Aug. 9, 1939, ch. 615, title II, § 205, 53 Stat. 1282.)
+(Aug. 9, 1939, ch. 615, title II, § 205, 53 Stat. 1282.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -481,7 +481,7 @@ See section 1610 of this title.
 
 ## SUBCHAPTER III—FOREIGN COMMERCE
 
-### § 1581. Prohibitions relating to importations
+### § 1581. Prohibitions relating to importations
 
 The importation into the United States is prohibited of—
 
@@ -491,7 +491,7 @@ The importation into the United States is prohibited of—
 
 **(3)** any seed containing 10 per centum or more of any agricultural or vegetable seeds, unless the invoice pertaining to such seed and any other labeling of such seed bear a lot identification and the name of each kind and variety of vegetable seed present in any amount and each kind or kind and variety of agricultural seed present in excess of 5 per centum of the whole, and unless in the case of hybrid seed present in excess of 5 per centum of the whole it is designated as hybrid.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(4)** any agricultural seeds or any mixture thereof, or any vegetable seeds or any mixture thereof, for seeding purposes, that have been treated, unless each container thereof bears a label giving the following information and statements in accordance with rules and regulations prescribed under section 1592 of this title:
 
@@ -503,19 +503,19 @@ The importation into the United States is prohibited of—
 
 **(D)** A description, approved by the Secretary of Agriculture as adequate for the protection of the public, of any process used in such treatment.
 
-(Aug. 9, 1939, ch. 615, title III, § 301, 53 Stat. 1282; Pub. L. 85–581, § 12, Aug. 1, 1958, 72 Stat. 478; Pub. L. 89–686, §§ 13, 14, Oct. 15, 1966, 80 Stat. 978; Pub. L. 97–439, § 5(b)(1), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 103–465, title IV, § 441(1), Dec. 8, 1994, 108 Stat. 4973.)
+(Aug. 9, 1939, ch. 615, title III, § 301, 53 Stat. 1282; Pub. L. 85–581, § 12, Aug. 1, 1958, 72 Stat. 478; Pub. L. 89–686, §§ 13, 14, Oct. 15, 1966, 80 Stat. 978; Pub. L. 97–439, § 5(b)(1), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 103–465, title IV, § 441(1), Dec. 8, 1994, 108 Stat. 4973.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Pub. L. 103–465 struck out “(a)” before “The importation” in introductory provisions, struck out “, or is required to be stained and is not so stained, under the terms of this subchapter,” after “noxious-weed seeds” in par. (1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “any seed containing 10 per centum or more of the seeds of alfalfa or red clover, which has been stained prior to being offered for entry in a manner that does not permit compliance with the provisions of this subchapter and the regulations made and promulgated thereunder.”
+1994—Pub. L. 103–465 struck out “(a)” before “The importation” in introductory provisions, struck out “, or is required to be stained and is not so stained, under the terms of this subchapter,” after “noxious-weed seeds” in par. (1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “any seed containing 10 per centum or more of the seeds of alfalfa or red clover, which has been stained prior to being offered for entry in a manner that does not permit compliance with the provisions of this subchapter and the regulations made and promulgated thereunder.”
 
 1983—Subsec. (a)(1). Pub. L. 97–439 substituted “any agricultural or vegetable seeds if any such seed contains noxious weed seeds” for “any seed containing 10 per centum or more of any agricultural or vegetable seeds if any such seed is adulterated or unfit for seeding purposes”.
 
-1966—Subsec. (a)(4). Pub. L. 89–686, § 13, prohibited importation of any seed containing 10 per centum or more of any agricultural seeds and prescribed as additional prerequisites to importation a lot identification for the invoice and any other labeling, the kind and variety of seed present in any amount, each kind or kind and variety of seed present in excess of 5 per centum of the whole, and hybrid designation in case of hybrid seed present in excess of 5 per centum of the whole.
+1966—Subsec. (a)(4). Pub. L. 89–686, § 13, prohibited importation of any seed containing 10 per centum or more of any agricultural seeds and prescribed as additional prerequisites to importation a lot identification for the invoice and any other labeling, the kind and variety of seed present in any amount, each kind or kind and variety of seed present in excess of 5 per centum of the whole, and hybrid designation in case of hybrid seed present in excess of 5 per centum of the whole.
 
-Subsec. (a)(5). Pub. L. 89–686, § 14, added par. (5).
+Subsec. (a)(5). Pub. L. 89–686, § 14, added par. (5).
 
 1958—Subsec. (a)(4). Pub. L. 85–581 added par. (4).
 
@@ -533,7 +533,7 @@ See section 1610 of this title.
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this subchapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1582. Procedure relating to importations; disposal of refuse; exceptions
+### § 1582. Procedure relating to importations; disposal of refuse; exceptions
 
 **(a)** The Secretary of the Treasury shall deliver to the Secretary of Agriculture, subject to joint rules and regulations prescribed under section 1592 of this title, samples of seed and screenings which are being imported into the United States, or offered for import, giving notice thereof to the owner or consignee, and if it appears from the examination of such samples that any seed or screenings offered to be imported into the United States are subject to the provisions of this subchapter and do not comply with the provisions of this subchapter, or if the labeling of such seed is false or misleading in any respect, such seed or screenings shall be refused admission, and the Secretary of the Treasury shall refuse delivery to the owner or consignee, who may appear, however, before the Secretary of Agriculture and show cause why the seed or screenings should be admitted. Seed or screenings refused admission and not exported by the owner or consignee within twelve months from the date of notice of such refusal shall be destroyed in accordance with joint rules and regulations prescribed under section 1592 of this title: *Provided*, That the Secretary of the Treasury may authorize the delivery of seed or screenings which are being imported or offered for import to the owner or consignee thereof, pending decision as to the admission of such seed or screenings and for cleaning, labeling, or other reconditioning if required to bring such seed or screenings into compliance with the provisions of this chapter, upon the execution by such owner or consignee of a good and sufficient bond conditioned upon redelivery of the seed or screenings upon demand unless redelivery is waived because the seed is reconditioned to bring it into compliance with this chapter or is destroyed under Government supervision under this chapter, and providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Secretary of the Treasury: *And provided further*, That all expenses incurred by the United States (including travel, per diem or subsistence, and salaries of officers or employees of the United States) in connection with the supervision of cleaning, labeling, other reconditioning, or destruction, of seed or screenings under this subchapter shall be reimbursed to the United States by the owner or consignee of the seed or screenings, and such reimbursements shall be recredited to the appropriation from which the expenses were paid, the amount of such expenses to be determined in accordance with joint regulations under section 1592 of this title, and all expenses in connection with the storage, cartage, and labor on the seed or screenings which are refused admission or delivery, shall be paid by the owner or consignee, and in default of such payment shall constitute a lien against future importations made by such owner or consignee.
 
@@ -551,7 +551,7 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 **(2)** when seed is imported for sowing for experimental or breeding purposes and not for sale: *Provided*, That declarations are filed, and importations are limited in quantity, as provided for in the rules and regulations prescribed under section 1592 of this title, to assure that the importations are for experimental or breeding purposes.
 
-(Aug. 9, 1939, ch. 615, title III, § 302, 53 Stat. 1283; Pub. L. 85–581, §§ 13, 14, Aug. 1, 1958, 72 Stat. 478, 479; Pub. L. 89–686, §§ 15–17, Oct. 15, 1966, 80 Stat. 979; Pub. L. 97–439, § 5(b)(2), (3), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 100–449, title III, § 301(e), Sept. 28, 1988, 102 Stat. 1868; Pub. L. 103–182, title III, § 361(a), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title IV, § 441(2), Dec. 8, 1994, 108 Stat. 4973.)
+(Aug. 9, 1939, ch. 615, title III, § 302, 53 Stat. 1283; Pub. L. 85–581, §§ 13, 14, Aug. 1, 1958, 72 Stat. 478, 479; Pub. L. 89–686, §§ 15–17, Oct. 15, 1966, 80 Stat. 979; Pub. L. 97–439, § 5(b)(2), (3), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 100–449, title III, § 301(e), Sept. 28, 1988, 102 Stat. 1868; Pub. L. 103–182, title III, § 361(a), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title IV, § 441(2), Dec. 8, 1994, 108 Stat. 4973.)
 
 **Amendment of Section**
 
@@ -561,9 +561,9 @@ For termination of amendment by section 501(c) of Pub. L. 100–449, see Effecti
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–465, § 441(2)(A), struck out “staining,” before “cleaning, labeling,” in two places.
+1994—Subsec. (a). Pub. L. 103–465, § 441(2)(A), struck out “staining,” before “cleaning, labeling,” in two places.
 
-Subsec. (e). Pub. L. 103–465, § 441(2)(B), struck out subsec. (e) which read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply—
+Subsec. (e). Pub. L. 103–465, § 441(2)(B), struck out subsec. (e) which read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply—
 
 “(1) to alfalfa or clover seed originating in Canada or Mexico, or
 
@@ -573,21 +573,21 @@ Subsec. (e). Pub. L. 103–465, § 441(2)(B), struck out subsec. (e) which rea
 
 1988—Pub. L. 100–449 temporarily amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply when such seed will not be sold within the United States and will be used for seed production only by or for the importer or consignee: *Provided*, That the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seed will be used only for seed production by or for the importer or consignee.” See Effective and Termination Dates of 1988 Amendment note below.
 
-1983—Subsec. (a). Pub. L. 97–439, § 5(b)(2), struck out provision that Secretary may apply statistical sampling and inspection techniques to samples and screenings to determine whether pure-live seed requirement of any kind of seed was being met, in event of which he was to advise importer of each lot of seed not examined for pure-live seed percentage.
+1983—Subsec. (a). Pub. L. 97–439, § 5(b)(2), struck out provision that Secretary may apply statistical sampling and inspection techniques to samples and screenings to determine whether pure-live seed requirement of any kind of seed was being met, in event of which he was to advise importer of each lot of seed not examined for pure-live seed percentage.
 
-Subsec. (d). Pub. L. 97–439, § 5(b)(3)(A), struck out “that is adulterated or unfit for seeding purposes” after “importation of seed” in provisions preceding par. (1).
+Subsec. (d). Pub. L. 97–439, § 5(b)(3)(A), struck out “that is adulterated or unfit for seeding purposes” after “importation of seed” in provisions preceding par. (1).
 
-Subsec. (d)(3). Pub. L. 97–439, § 5(b)(3)(B), struck out cl. (3) which described the situation when seed not meeting the pure-live seed requirements of section 1584 of this title would not be sold within the United States and would be used for seed production only by or for the importer or consignee, providing that the importer of record or consignee filed a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seed would be used only for seed production by or for the importer or consignee.
+Subsec. (d)(3). Pub. L. 97–439, § 5(b)(3)(B), struck out cl. (3) which described the situation when seed not meeting the pure-live seed requirements of section 1584 of this title would not be sold within the United States and would be used for seed production only by or for the importer or consignee, providing that the importer of record or consignee filed a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seed would be used only for seed production by or for the importer or consignee.
 
-1966—Subsec. (a). Pub. L. 89–686, § 15, authorized Secretary of Agriculture to apply statistical sampling and inspection techniques to samples and screenings to determine whether the pure-live seed requirement of any kind of seed is being met and to advise importer of each lot of seed not examined for pure-live seed percentage.
+1966—Subsec. (a). Pub. L. 89–686, § 15, authorized Secretary of Agriculture to apply statistical sampling and inspection techniques to samples and screenings to determine whether the pure-live seed requirement of any kind of seed is being met and to advise importer of each lot of seed not examined for pure-live seed percentage.
 
-Subsec. (d)(3). Pub. L. 89–686, § 16, added par. (3).
+Subsec. (d)(3). Pub. L. 89–686, § 16, added par. (3).
 
-Subsec. (e). Pub. L. 89–686, § 17, added subsec. (e).
+Subsec. (e). Pub. L. 89–686, § 17, added subsec. (e).
 
-1958—Subsec. (a). Pub. L. 85–851, § 13, inserted “owner or” before “consignee” wherever appearing, except in the two provisos, changed first proviso to bring its wording in line with practices generally followed with other commodities illegally placed into consumption, and provided in second proviso for reimbursement of all costs to the Federal Government incident to supervision required under this chapter.
+1958—Subsec. (a). Pub. L. 85–851, § 13, inserted “owner or” before “consignee” wherever appearing, except in the two provisos, changed first proviso to bring its wording in line with practices generally followed with other commodities illegally placed into consumption, and provided in second proviso for reimbursement of all costs to the Federal Government incident to supervision required under this chapter.
 
-Subsec. (d). Pub. L. 85–581, § 14, added subsec. (d).
+Subsec. (d). Pub. L. 85–581, § 14, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -607,23 +607,23 @@ See section 1610 of this title.
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this subchapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### §§ 1583, 1584. Repealed. Pub. L. 97–439, § 5(b)(4), Jan. 8, 1983, 96 Stat. 2288
+### §§ 1583, 1584. Repealed. Pub. L. 97–439, § 5(b)(4), Jan. 8, 1983, 96 Stat. 2288
 
-Section 1583, act Aug. 9, 1939, ch. 615, title III, § 303, 53 Stat. 1283, related to adulterated seed.
+Section 1583, act Aug. 9, 1939, ch. 615, title III, § 303, 53 Stat. 1283, related to adulterated seed.
 
-Section 1584, acts Aug. 9, 1939, ch. 615, title III, § 304, 53 Stat. 1284; Oct. 15, 1966, Pub. L. 89–686, § 18, 80 Stat. 979, related to seed unfit for seeding purposes.
+Section 1584, acts Aug. 9, 1939, ch. 615, title III, § 304, 53 Stat. 1284; Oct. 15, 1966, Pub. L. 89–686, § 18, 80 Stat. 979, related to seed unfit for seeding purposes.
 
-### § 1585. Certain seeds not adapted for general agricultural use
+### § 1585. Certain seeds not adapted for general agricultural use
 
 Whenever the Secretary of Agriculture, after a public hearing, determines that seed of alfalfa or red clover from any foreign country is not adapted for general agricultural use in the United States, the Secretary shall publish the determination and the reasons for the determination.
 
-(Aug. 9, 1939, ch. 615, title III, § 303, as added Pub. L. 103–465, title IV, § 441(3), Dec. 8, 1994, 108 Stat. 4973.)
+(Aug. 9, 1939, ch. 615, title III, § 303, as added Pub. L. 103–465, title IV, § 441(3), Dec. 8, 1994, 108 Stat. 4973.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1585, act Aug. 9, 1939, ch. 615, title III, § 303, formerly § 305, 53 Stat. 1284; renumbered § 303, Jan. 8, 1983, Pub. L. 97–439, § 5(b)(4), 96 Stat. 2288, related to requirement that certain seeds containing alfalfa and/or red clover be stained, prior to repeal by Pub. L. 103–465, title IV, § 441(3), Dec. 8, 1994, 108 Stat. 4973.
+A prior section 1585, act Aug. 9, 1939, ch. 615, title III, § 303, formerly § 305, 53 Stat. 1284; renumbered § 303, Jan. 8, 1983, Pub. L. 97–439, § 5(b)(4), 96 Stat. 2288, related to requirement that certain seeds containing alfalfa and/or red clover be stained, prior to repeal by Pub. L. 103–465, title IV, § 441(3), Dec. 8, 1994, 108 Stat. 4973.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -635,7 +635,7 @@ Section effective on the date of entry into force of the WTO Agreement with resp
 
 For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this subchapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1586. Certain acts prohibited
+### § 1586. Certain acts prohibited
 
 It shall be unlawful for any person—
 
@@ -649,13 +649,13 @@ It shall be unlawful for any person—
 
 **(b)** To make any false or misleading representation with respect to any seed subject to this subchapter being imported into the United States or offered for import: *Provided*, That this subsection shall not be deemed violated by any person if the false or misleading representation is the name of a variety indistinguishable in appearance from the seed being imported or offered for import and the records and other pertinent facts reveal that such person relied in good faith upon representations with respect to the name of the indistinguishable variety made by the shipper of the seed.
 
-(Aug. 9, 1939, ch. 615, title III, § 304, formerly § 306, 53 Stat. 1285; Pub. L. 85–581, § 15, Aug. 1, 1958, 72 Stat. 479; renumbered § 304, Pub. L. 97–439, § 5(b)(4), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 103–465, title IV, § 441(4), Dec. 8, 1994, 108 Stat. 4973.)
+(Aug. 9, 1939, ch. 615, title III, § 304, formerly § 306, 53 Stat. 1285; Pub. L. 85–581, § 15, Aug. 1, 1958, 72 Stat. 479; renumbered § 304, Pub. L. 97–439, § 5(b)(4), Jan. 8, 1983, 96 Stat. 2288; Pub. L. 103–465, title IV, § 441(4), Dec. 8, 1994, 108 Stat. 4973.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (a)(4) to (7). Pub. L. 103–465, § 441(4)(A), struck out pars. (4) to (7) which read as follows:
+1994—Subsec. (a)(4) to (7). Pub. L. 103–465, § 441(4)(A), struck out pars. (4) to (7) which read as follows:
 
 “(4) any seed which has been stained to resemble seed stained in accordance with the provisions of this chapter and the rules and regulations made and promulgated thereunder;
 
@@ -665,7 +665,7 @@ It shall be unlawful for any person—
 
 “(7) any seed stained under the provisions of this chapter, the labeling of which states that such seed is adapted.”
 
-Subsecs. (b), (c). Pub. L. 103–465, § 441(4)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “To change the proportion of seeds stained under the provisions of this chapter and the rules and regulations made and promulgated thereunder or to alter, modify, conceal, or remove in any manner or by any means the color of such stained seeds.”
+Subsecs. (b), (c). Pub. L. 103–465, § 441(4)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “To change the proportion of seeds stained under the provisions of this chapter and the rules and regulations made and promulgated thereunder or to alter, modify, conceal, or remove in any manner or by any means the color of such stained seeds.”
 
 1958—Subsec. (c). Pub. L. 85–581 added subsec. (c).
 
@@ -681,11 +681,11 @@ See section 1610 of this title.
 
 ## SUBCHAPTER IV—GENERAL PROVISIONS
 
-### § 1591. Delegation of duties
+### § 1591. Delegation of duties
 
 Any duties devolving upon the Secretary of Agriculture by virtue of the provisions of this chapter may with like force and effect be executed by such officer or officers, agent or agents, of the Department of Agriculture as the Secretary may designate for the purpose.
 
-(Aug. 9, 1939, ch. 615, title IV, § 401, 53 Stat. 1285.)
+(Aug. 9, 1939, ch. 615, title IV, § 401, 53 Stat. 1285.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -693,7 +693,7 @@ Any duties devolving upon the Secretary of Agriculture by virtue of the provisio
 
 See section 1610 of this title.
 
-### § 1592. Rules and regulations
+### § 1592. Rules and regulations
 
 **(a)** The Secretary of Agriculture shall make such rules and regulations as he may deem necessary for the effective enforcement of this chapter, except as otherwise provided in this section.
 
@@ -701,7 +701,7 @@ See section 1610 of this title.
 
 **(c)** Prior to the promulgation of any rule or regulation under this chapter, due notice shall be given by publication in the Federal Register of intention to promulgate and the time and place of a public hearing to be held with reference thereto, and no rule or regulation may be promulgated until after such hearing. Any rule or regulation shall become effective on the date fixed in the promulgation, which date shall be not less than thirty days after publication in the Federal Register and may be amended or revoked in the manner provided for its promulgation.
 
-(Aug. 9, 1939, ch. 615, title IV, § 402, 53 Stat. 1285.)
+(Aug. 9, 1939, ch. 615, title IV, § 402, 53 Stat. 1285.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -709,7 +709,7 @@ See section 1610 of this title.
 
 See section 1610 of this title.
 
-### § 1593. Standards, tests, tolerances
+### § 1593. Standards, tests, tolerances
 
 **(a)** The samplings, analyses, tests, or examinations of seeds made in connection with the administration of this chapter shall be made by methods set forth by rules and regulations prescribed under section 1592 of this title.
 
@@ -717,7 +717,7 @@ See section 1610 of this title.
 
 **(c)** For the purpose of section 1571(b) of this title, the Secretary of Agriculture is authorized and directed to investigate, determine, establish, and promulgate from time to time such reasonable standards of germination for each kind of vegetable seed as will in his judgment best protect crop production.
 
-(Aug. 9, 1939, ch. 615, title IV, § 403, 53 Stat. 1285.)
+(Aug. 9, 1939, ch. 615, title IV, § 403, 53 Stat. 1285.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -725,7 +725,7 @@ See section 1610 of this title.
 
 See section 1610 of this title.
 
-### § 1593a. Seed variety information and survey
+### § 1593a. Seed variety information and survey
 
 **(a) Information**
 
@@ -745,7 +745,7 @@ The Secretary shall periodically conduct, compile, and publish a survey of grain
 
 The Secretary shall analyze the variety surveys conducted under subsection (b) in conjunction with available applied research information on intrinsic quality characteristics of the varieties, to evaluate general intrinsic crop quality characteristics and trends in production related to intrinsic quality characteristics. This information shall be disseminated as required by subsection (a)(2).
 
-(Pub. L. 101–624, title XX, § 2013, Nov. 28, 1990, 104 Stat. 3933.)
+(Pub. L. 101–624, title XX, § 2013, Nov. 28, 1990, 104 Stat. 3933.)
 
 **Editorial Notes**
 
@@ -753,11 +753,11 @@ The Secretary shall analyze the variety surveys conducted under subsection (b) i
 
 Section was enacted as part of the Grain Quality Incentives Act of 1990, and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Federal Seed Act which comprises this chapter.
 
-### § 1594. Prohibition against alterations
+### § 1594. Prohibition against alterations
 
 No person shall detach, alter, deface, or destroy any label provided for in this chapter or the rules and regulations made and promulgated thereunder by the Secretary of Agriculture, or alter or substitute seed in a manner that may defeat the purpose of this chapter.
 
-(Aug. 9, 1939, ch. 615, title IV, § 404, 53 Stat. 1286.)
+(Aug. 9, 1939, ch. 615, title IV, § 404, 53 Stat. 1286.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -765,7 +765,7 @@ No person shall detach, alter, deface, or destroy any label provided for in this
 
 See section 1610 of this title.
 
-### § 1595. Seizure
+### § 1595. Seizure
 
 **(a)** Any seed sold, delivered for transportation in interstate commerce, or transported in interstate or foreign commerce in violation of any of the provisions of this chapter shall, at the time of such violation or at any time thereafter, be liable to be proceeded against on libel of information and condemned in any district court of the United States within the jurisdiction of which the seed is found.
 
@@ -781,7 +781,7 @@ See section 1610 of this title.
 
 **(d)** The proceedings in such libel cases shall conform, as nearly as may be, to the proceedings in admiralty, except that either party may demand trial by jury of any issue of fact joined in any such case; and such proceedings shall be at the suit of and in the name of the United States.
 
-(Aug. 9, 1939, ch. 615, title IV, § 405, 53 Stat. 1286.)
+(Aug. 9, 1939, ch. 615, title IV, § 405, 53 Stat. 1286.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -789,13 +789,13 @@ See section 1610 of this title.
 
 See section 1610 of this title
 
-### § 1596. Penalties
+### § 1596. Penalties
 
 **(a)** Any person who knowingly, or as a result either of gross negligence or of a failure to make a reasonable effort to inform himself of the pertinent facts, violates any provision of this chapter or the rules and regulations made and promulgated thereunder shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall pay a fine of not more than $1,000, for the first offense, and upon conviction for each subsequent offense not more than $2,000.
 
 **(b)** Any person who violates any provision of this chapter or the rules and regulations made and promulgated thereunder shall forfeit to the United States a sum, not less than $25 or more than $500, for each such violation, which forfeiture shall be recoverable in a civil suit brought in the name of the United States.
 
-(Aug. 9, 1939, ch. 615, title IV, § 406, 53 Stat. 1286; July 9, 1956, ch. 520, § 1, 70 Stat. 508.)
+(Aug. 9, 1939, ch. 615, title IV, § 406, 53 Stat. 1286; July 9, 1956, ch. 520, § 1, 70 Stat. 508.)
 
 **Editorial Notes**
 
@@ -807,17 +807,17 @@ See section 1610 of this title
 
 **Effective Date of 1956 Amendment**
 
-Act July 9, 1956, ch. 520, § 4, 70 Stat. 508, provided that: “The amendments made by this Act [amending sections 1574, 1596, and 1602 of this title] shall be applicable only with respect to violations occurring after the enactment of this Act [July 9, 1956].”
+Act July 9, 1956, ch. 520, § 4, 70 Stat. 508, provided that: “The amendments made by this Act [amending sections 1574, 1596, and 1602 of this title] shall be applicable only with respect to violations occurring after the enactment of this Act [July 9, 1956].”
 
 **Effective Date**
 
 See section 1610 of this title.
 
-### § 1597. Agent’s acts as binding principal
+### § 1597. Agent’s acts as binding principal
 
 When construing and enforcing the provisions of this chapter, the act, omission, or failure of any officer, agent, or other person acting for or employed by any person, partnership, corporation, company, society, or association, shall in every case be also deemed to be the act, omission, or failure of such person, partnership, corporation, company, society, or association, as well as that of the person employed.
 
-(Aug. 9, 1939, ch. 615, title IV, § 407, 53 Stat. 1286.)
+(Aug. 9, 1939, ch. 615, title IV, § 407, 53 Stat. 1286.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -825,15 +825,15 @@ When construing and enforcing the provisions of this chapter, the act, omission,
 
 See section 1610 of this title.
 
-### § 1598. Notice of intention to prosecute
+### § 1598. Notice of intention to prosecute
 
-Before any violation of this chapter is reported by the Secretary of Agriculture to any United States attorney for institution of a criminal proceeding, the person against whom such proceeding is contemplated shall be given appropriate notice and an opportunity to prevent 1
+Before any violation of this chapter is reported by the Secretary of Agriculture to any United States attorney for institution of a criminal proceeding, the person against whom such proceeding is contemplated shall be given appropriate notice and an opportunity to prevent 1
 
-<sup>1</sup>  So in original. Probably should be “present”.
+<sup>1</sup> So in original. Probably should be “present”.
 
 his views, either orally or in writing, with regard to such contemplated proceeding.
 
-(Aug. 9, 1939, ch. 615, title IV, § 408, 53 Stat. 1286.)
+(Aug. 9, 1939, ch. 615, title IV, § 408, 53 Stat. 1286.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -841,7 +841,7 @@ his views, either orally or in writing, with regard to such contemplated proceed
 
 See section 1610 of this title.
 
-### § 1599. Cease and desist proceedings
+### § 1599. Cease and desist proceedings
 
 **(a) Hearing**
 
@@ -859,7 +859,7 @@ Until the record in such hearing has been filed in a court of appeals as provide
 
 Complaints, orders, and other processes of the Secretary of Agriculture under this section may be served by anyone duly authorized by the Secretary of Agriculture, either (1) by delivering a copy thereof to the person to be served, or to a member of the partnership to be served, or to the president, secretary, or other executive officer or a director of the corporation to be served; or (2) by leaving a copy thereof at the principal office or place of business of such person, partnership, or corporation; or (3) by mailing a copy thereof by registered mail or by certified mail addressed to such person, partnership, or corporation at his or its last known principal office or place of business. The verified return by the person so serving said complaint, order, or other process setting forth the manner of said order shall be proof of the same, and the return postoffice receipt for said complaint, order, or other process mailed by registered mail or by certified mail as aforesaid shall be proof of the service of the same.
 
-(Aug. 9, 1939, ch. 615, title IV, § 409, 53 Stat. 1287; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 24(a), Aug. 28, 1958, 72 Stat. 949; Pub. L. 86–507, § 1(7), June 11, 1960, 74 Stat. 200.)
+(Aug. 9, 1939, ch. 615, title IV, § 409, 53 Stat. 1287; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 24(a), Aug. 28, 1958, 72 Stat. 949; Pub. L. 86–507, § 1(7), June 11, 1960, 74 Stat. 200.)
 
 **Editorial Notes**
 
@@ -879,7 +879,7 @@ Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appea
 
 See section 1610 of this title.
 
-### § 1600. Appeal to court of appeals
+### § 1600. Appeal to court of appeals
 
 An order made under section 1599 of this title shall be final and conclusive unless within thirty days after the service the person appeals to the court of appeals for the circuit in which such person resides or has his principal place of business by filing with the clerk of such court a written petition praying that the Secretary’s order be set aside or modified in the manner stated in the petition, together with a bond in such sum as the court may determine, conditioned that such person will pay the costs of the proceedings if the court so directs.
 
@@ -895,7 +895,7 @@ If the court determines that the just and proper disposition of the case require
 
 If the court of appeals affirms or modifies the order of the Secretary, its decree shall operate as an injunction to restrain the person and his officers, directors, agents, and employees from violating the provisions of such order or such order as modified.
 
-(Aug. 9, 1939, ch. 615, title IV, § 410, 53 Stat. 1287; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 24(b), Aug. 28, 1958, 72 Stat. 949; Pub. L. 98–620, title IV, § 402(7)(A), Nov. 8, 1984, 98 Stat. 3357.)
+(Aug. 9, 1939, ch. 615, title IV, § 410, 53 Stat. 1287; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 24(b), Aug. 28, 1958, 72 Stat. 949; Pub. L. 98–620, title IV, § 402(7)(A), Nov. 8, 1984, 98 Stat. 3357.)
 
 **Editorial Notes**
 
@@ -903,7 +903,7 @@ If the court of appeals affirms or modifies the order of the Secretary, its decr
 
 1984—Pub. L. 98–620 in fourth par., struck out provisions requiring proceedings in such cases in the court of appeals to be made a preferred cause and expedited in every way.
 
-1958—Pub. L. 85–791 substituted, in first sentence of second par., “thereupon file in the court the record in such proceedings as provided in section 2112 of title 28” for “forthwith prepare, certify, and file in the court a full and accurate transcript of the record in such proceedings, including the complaint, the evidence, and the report and order”, substituted, in second sentence of second par., “record” for “transcript”, substituted in third par., “petition” for “transcript”, and struck out, in fourth par., “, duly certified” after “admitted”.
+1958—Pub. L. 85–791 substituted, in first sentence of second par., “thereupon file in the court the record in such proceedings as provided in section 2112 of title 28” for “forthwith prepare, certify, and file in the court a full and accurate transcript of the record in such proceedings, including the complaint, the evidence, and the report and order”, substituted, in second sentence of second par., “record” for “transcript”, substituted in third par., “petition” for “transcript”, and struck out, in fourth par., “, duly certified” after “admitted”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -919,11 +919,11 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 See section 1610 of this title.
 
-### § 1601. Enforcement of order
+### § 1601. Enforcement of order
 
 If any person against whom an order is issued under section 1599 of this title fails to obey the order, the Secretary of Agriculture, or the United States, by its Attorney General, may apply to the court of appeals of the United States, within the circuit where the person against whom the order was issued resides or has his principal place of business, for the enforcement of the order, and shall file the record in such proceedings, as provided in section 2112 of title 28. Upon such filing of the application the court shall cause notice thereof to be served upon the person against whom the order was issued. The evidence to be considered, the procedure to be followed, and the jurisdiction of the court shall be the same as provided in section 1600 of this title for applications to set aside or modify orders.
 
-(Aug. 9, 1939, ch. 615, title IV, § 411, 53 Stat. 1288; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 24(c), Aug. 28, 1958, 72 Stat. 949; Pub. L. 98–620, title IV, § 402(7)(B), Nov. 8, 1984, 98 Stat. 3357.)
+(Aug. 9, 1939, ch. 615, title IV, § 411, 53 Stat. 1288; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Pub. L. 85–791, § 24(c), Aug. 28, 1958, 72 Stat. 949; Pub. L. 98–620, title IV, § 402(7)(B), Nov. 8, 1984, 98 Stat. 3357.)
 
 **Editorial Notes**
 
@@ -947,11 +947,11 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 See section 1610 of this title.
 
-### § 1602. Separability
+### § 1602. Separability
 
 The institution of any one of the proceedings provided for in sections 1595, 1596, 1599 to 1601 of this title shall not bar institution of any of the others, except that action shall not be instituted under both subsections 1596(a) and (b) of this title for the same cause of action. Nothing in this chapter shall be construed as requiring the Secretary of Agriculture to recommend prosecution, or institution of civil penalty proceedings, libel proceedings, cease-and-desist proceedings, or proceedings for the enforcement of a cease-and-desist order, for minor violations of this chapter or the rules and regulations made and promulgated thereunder whenever he believes that the public interest will be adequately served by suitable written notice or warning.
 
-(Aug. 9, 1939, ch. 615, title IV, § 412, 53 Stat. 1288; July 9, 1956, ch. 520, § 3, 70 Stat. 508.)
+(Aug. 9, 1939, ch. 615, title IV, § 412, 53 Stat. 1288; July 9, 1956, ch. 520, § 3, 70 Stat. 508.)
 
 **Editorial Notes**
 
@@ -969,13 +969,13 @@ Amendments made by act July 9, 1956, applicable only with respect to violations 
 
 See section 1610 of this title.
 
-### § 1603. Procedural powers; witness fees and mileage
+### § 1603. Procedural powers; witness fees and mileage
 
 **(a)** In carrying on the work herein authorized, the Secretary of Agriculture, or any officer or employee designated by him for such purpose, shall have power to hold hearings, administer oaths, sign and issue subpenas, examine witnesses, take depositions, and require the production of books, records, accounts, memoranda, and papers, and have access to office and warehouse premises. Upon refusal by any person to appear, testify, or produce pertinent books, records, accounts, memoranda, and papers in response to a subpena, or to permit access to premises, the proper United States district court shall have power to compel obedience thereto.
 
 **(b)** Witnesses summoned before the Secretary or any officer or employee designated by him shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like service in the courts of the United States.
 
-(Aug. 9, 1939, ch. 615, title IV, § 413, 53 Stat. 1289.)
+(Aug. 9, 1939, ch. 615, title IV, § 413, 53 Stat. 1289.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -983,11 +983,11 @@ See section 1610 of this title.
 
 See section 1610 of this title.
 
-### § 1604. Publication
+### § 1604. Publication
 
 After judgment by the court, or the issuance of a cease and desist order, in any case arising under this chapter, notice thereof shall be given by publication in such manner as may be prescribed in the rules and regulations made and promulgated under this chapter.
 
-(Aug. 9, 1939, ch. 615, title IV, § 414, 53 Stat. 1289.)
+(Aug. 9, 1939, ch. 615, title IV, § 414, 53 Stat. 1289.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -995,7 +995,7 @@ After judgment by the court, or the issuance of a cease and desist order, in any
 
 See section 1610 of this title.
 
-### § 1605. Authorization of appropriations
+### § 1605. Authorization of appropriations
 
 **(a)** There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for administering this chapter.
 
@@ -1003,7 +1003,7 @@ See section 1610 of this title.
 
 Appropriations made under this authorization, within the limit prescribed in such appropriations, may be expended for the share of the United States in the expense of the International Seed Testing Congress in carrying out plans for correlating the work of the various adhering governments on problems relating to seed analyses or other subjects which the Congress may determine to be necessary in the interest of international seed trade.
 
-(Aug. 9, 1939, ch. 615, title IV, § 415, 53 Stat. 1289; Sept. 21, 1944, ch. 412, title VII, § 701(b), 58 Stat. 741.)
+(Aug. 9, 1939, ch. 615, title IV, § 415, 53 Stat. 1289; Sept. 21, 1944, ch. 412, title VII, § 701(b), 58 Stat. 741.)
 
 **Editorial Notes**
 
@@ -1017,11 +1017,11 @@ Appropriations made under this authorization, within the limit prescribed in suc
 
 See section 1610 of this title.
 
-### § 1606. Authorization of expenditures
+### § 1606. Authorization of expenditures
 
 The Secretary of Agriculture is authorized to make such expenditures for rent, outside of the District of Columbia, printing, binding, telegrams, telephones, books of reference, publications, furniture, stationery, office and laboratory equipment, travel, and other supplies, including reporting services, such research necessary to develop methods of processing, bulking, blending, sampling, testing, and merchandising seeds necessary to the administration of this chapter and other necessary expenses in the District of Columbia and elsewhere, and as may be appropriated for by the Congress.
 
-(Aug. 9, 1939, ch. 615, title IV, § 416, 53 Stat. 1289.)
+(Aug. 9, 1939, ch. 615, title IV, § 416, 53 Stat. 1289.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1029,11 +1029,11 @@ The Secretary of Agriculture is authorized to make such expenditures for rent, o
 
 See section 1610 of this title.
 
-### § 1607. Cooperation with other governmental agencies
+### § 1607. Cooperation with other governmental agencies
 
 The Secretary of Agriculture is authorized to cooperate with any other department or agency of the Federal Government; or with any State, Territory, District, or possession, or department, agency, or political subdivision thereof; or with any producing, trading, or consuming organization, whether operating in one or more jurisdictions, in carrying out the provisions of this chapter.
 
-(Aug. 9, 1939, ch. 615, title IV, § 417, 53 Stat. 1289.)
+(Aug. 9, 1939, ch. 615, title IV, § 417, 53 Stat. 1289.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1041,11 +1041,11 @@ The Secretary of Agriculture is authorized to cooperate with any other departmen
 
 See section 1610 of this title.
 
-### § 1608. Separability
+### § 1608. Separability
 
 If any provision of this chapter, or the application thereof to any person or circumstance, is held invalid, the remainder of the chapter, and the application of such provisions to other persons or circumstances, shall not be affected thereby.
 
-(Aug. 9, 1939, ch. 615, title IV, § 418, 53 Stat. 1290.)
+(Aug. 9, 1939, ch. 615, title IV, § 418, 53 Stat. 1290.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1053,11 +1053,11 @@ If any provision of this chapter, or the application thereof to any person or ci
 
 See section 1610 of this title.
 
-### § 1609. Repeals
+### § 1609. Repeals
 
 Sections 111 to 116 of this title are repealed on the one hundred and eightieth day after August 9, 1939: *Provided, however*, That the notices with respect to imported alfalfa and red clover seed promulgated by the Secretary of Agriculture under the authority of sections 111 to 116 of this title, and in effect on August 9, 1939, shall remain with the same full force and effect as if promulgated under this chapter.
 
-(Aug. 9, 1939, ch. 615, title IV, § 419, 53 Stat. 1290.)
+(Aug. 9, 1939, ch. 615, title IV, § 419, 53 Stat. 1290.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1065,25 +1065,25 @@ Sections 111 to 116 of this title are repealed on the one hundred and eightieth 
 
 See section 1610 of this title.
 
-### § 1610. Effective date
+### § 1610. Effective date
 
 This chapter shall take effect as follows: As to agricultural seeds, and the importation of vegetable seeds, on the one hundred and eightieth day after August 9, 1939; as to vegetable seeds in interstate commerce, one year after August 9, 1939; and as to sections 1591 to 1593 of this title, on August 9, 1939.
 
-(Aug. 9, 1939, ch. 615, title IV, § 420, 53 Stat. 1290.)
+(Aug. 9, 1939, ch. 615, title IV, § 420, 53 Stat. 1290.)
 
 ## SUBCHAPTER V—SALE OF UNCERTIFIED SEED OF PROTECTED VARIETY
 
-### § 1611. Illegal sales of uncertified seed
+### § 1611. Illegal sales of uncertified seed
 
 It shall be unlawful in the United States or in interstate or foreign commerce to sell or offer for sale or advertise, by variety name, seed not certified by an official seed certifying agency, when it is a variety for which a certificate of plant variety protection under the Plant Variety Protection Act [7 U.S.C. 2321 et seq.] specifies sale only as a class of certified seed: *Provided*, That seed from a certified lot may be labeled as to variety name when used in a mixture by, or with the approval of, the owners of the variety.
 
-(Aug. 9, 1939, ch. 615, title V, § 501, as added Pub. L. 91–577, title III, § 142(a), Dec. 24, 1970, 84 Stat. 1558; amended Pub. L. 97–98, title XI, § 1118, Dec. 22, 1981, 95 Stat. 1272.)
+(Aug. 9, 1939, ch. 615, title V, § 501, as added Pub. L. 91–577, title III, § 142(a), Dec. 24, 1970, 84 Stat. 1558; amended Pub. L. 97–98, title XI, § 1118, Dec. 22, 1981, 95 Stat. 1272.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Plant Variety Protection Act, referred to in text, is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of this title and Tables.
+The Plant Variety Protection Act, referred to in text, is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of this title and Tables.
 
 **Amendments**
 

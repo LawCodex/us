@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–261, § 2(b), Oct. 9, 2018, 132 Stat. 3669, added item 121A.
+2018—Pub. L. 115–261, § 2(b), Oct. 9, 2018, 132 Stat. 3669, added item 121A.
 
-2010—Pub. L. 111–175, title I, §§ 102(a)(2), 103(a)(2), 104(a)(2), May 27, 2010, 124 Stat. 1219, 1227, 1231, added items 111, 119, and 122 and struck out former items 111 “Limitations on exclusive rights: Secondary transmissions”, 119 “Limitations on exclusive rights: Secondary transmissions of superstations and network stations for private home viewing”, and 122 “Limitations on exclusive rights: Secondary transmissions by satellite carriers within local markets”.
+2010—Pub. L. 111–175, title I, §§ 102(a)(2), 103(a)(2), 104(a)(2), May 27, 2010, 124 Stat. 1219, 1227, 1231, added items 111, 119, and 122 and struck out former items 111 “Limitations on exclusive rights: Secondary transmissions”, 119 “Limitations on exclusive rights: Secondary transmissions of superstations and network stations for private home viewing”, and 122 “Limitations on exclusive rights: Secondary transmissions by satellite carriers within local markets”.
 
-2002—Pub. L. 107–273, div. C, title III, § 13210(2)(B), (3)(B), Nov. 2, 2002, 116 Stat. 1909, substituted “Reproduction” for “reproduction” in item 121 and “Limitations on exclusive rights: Secondary transmissions by satellite carriers within local markets” for “Limitations on exclusive rights; secondary transmissions by satellite carriers within local market” in item 122.
+2002—Pub. L. 107–273, div. C, title III, § 13210(2)(B), (3)(B), Nov. 2, 2002, 116 Stat. 1909, substituted “Reproduction” for “reproduction” in item 121 and “Limitations on exclusive rights: Secondary transmissions by satellite carriers within local markets” for “Limitations on exclusive rights; secondary transmissions by satellite carriers within local market” in item 122.
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1002(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–527, added item 122.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1002(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–527, added item 122.
 
-1997—Pub. L. 105–80, § 12(a)(2), Nov. 13, 1997, 111 Stat. 1534, substituted “Limitations on exclusive rights: Computer programs” for “Scope of exclusive rights: Use in conjunction with computers and similar information systems” in item 117.
+1997—Pub. L. 105–80, § 12(a)(2), Nov. 13, 1997, 111 Stat. 1534, substituted “Limitations on exclusive rights: Computer programs” for “Scope of exclusive rights: Use in conjunction with computers and similar information systems” in item 117.
 
-1996—Pub. L. 104–197, title III, § 316(b), Sept. 16, 1996, 110 Stat. 2417, added item 121.
+1996—Pub. L. 104–197, title III, § 316(b), Sept. 16, 1996, 110 Stat. 2417, added item 121.
 
-1994—Pub. L. 103–465, title V, § 514(c), Dec. 8, 1994, 108 Stat. 4981, substituted “Copyright in restored works” for “Copyright in certain motion pictures” in item 104A.
+1994—Pub. L. 103–465, title V, § 514(c), Dec. 8, 1994, 108 Stat. 4981, substituted “Copyright in restored works” for “Copyright in certain motion pictures” in item 104A.
 
-1993—Pub. L. 103–198, § 3(a), (b)(2), Dec. 17, 1993, 107 Stat. 2309, renumbered item 116A as 116 and struck out former item 116 “Scope of exclusive rights in nondramatic musical works: Compulsory licenses for public performances by means of coin-operated phonorecord players.”
+1993—Pub. L. 103–198, § 3(a), (b)(2), Dec. 17, 1993, 107 Stat. 2309, renumbered item 116A as 116 and struck out former item 116 “Scope of exclusive rights in nondramatic musical works: Compulsory licenses for public performances by means of coin-operated phonorecord players.”
 
-Pub. L. 103–182, title III, § 334(b), Dec. 8, 1993, 107 Stat. 2115, added item 104A.
+Pub. L. 103–182, title III, § 334(b), Dec. 8, 1993, 107 Stat. 2115, added item 104A.
 
-1990—Pub. L. 101–650, title VI, § 603(b), title VII, § 704(b)(1), Dec. 1, 1990, 104 Stat. 5130, 5134, added items 106A and 120.
+1990—Pub. L. 101–650, title VI, § 603(b), title VII, § 704(b)(1), Dec. 1, 1990, 104 Stat. 5130, 5134, added items 106A and 120.
 
-1988—Pub. L. 100–667, title II, § 202(6), Nov. 16, 1988, 102 Stat. 3958, added item 119.
+1988—Pub. L. 100–667, title II, § 202(6), Nov. 16, 1988, 102 Stat. 3958, added item 119.
 
-Pub. L. 100–568, § 4(b)(2), Oct. 31, 1988, 102 Stat. 2857, substituted “Compulsory licenses for public performances” for “Public performances” in item 116 and added item 116A.
+Pub. L. 100–568, § 4(b)(2), Oct. 31, 1988, 102 Stat. 2857, substituted “Compulsory licenses for public performances” for “Public performances” in item 116 and added item 116A.
 
-## § 101. Definitions
+## § 101. Definitions
 
 Except as otherwise provided in this title, as used in this title, the following terms and their variant forms mean the following:
 
@@ -215,7 +215,7 @@ by the courts or the Copyright Office. Paragraph (2) shall be interpreted as if 
 
 The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, § 10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, § 4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, § 602, title VII, § 702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, § 102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, § 3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, § 5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, § 12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, § 2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, § 205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, § 102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, § 1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1011(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–544; Pub. L. 106–379, § 2(a), Oct. 27, 2000, 114 Stat. 1444; Pub. L. 107–273, div. C, title III, § 13210(5), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–419, § 4, Nov. 30, 2004, 118 Stat. 2361; Pub. L. 109–9, title I, § 102(c), Apr. 27, 2005, 119 Stat. 220; Pub. L. 111–295, § 6(a), Dec. 9, 2010, 124 Stat. 3181.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, § 10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, § 4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, § 602, title VII, § 702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, § 102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, § 3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, § 5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, § 12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, § 2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, § 205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, § 102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, § 1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1011(d)], Nov. 29, 1999, 113 Stat. 1536, 1501A–544; Pub. L. 106–379, § 2(a), Oct. 27, 2000, 114 Stat. 1444; Pub. L. 107–273, div. C, title III, § 13210(5), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–419, § 4, Nov. 30, 2004, 118 Stat. 2361; Pub. L. 109–9, title I, § 102(c), Apr. 27, 2005, 119 Stat. 220; Pub. L. 111–295, § 6(a), Dec. 9, 2010, 124 Stat. 3181.)
 
 **Historical and Revision Notes**
 
@@ -227,7 +227,7 @@ The significant definitions in this section will be mentioned or summarized in c
 
 **References in Text**
 
-Section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, referred to in definition of “work made for hire”, is section 1000(a)(9) [title I, § 1011(d)] of Pub. L. 106–113, which amended par. (2) of that definition. See 1999 Amendment note below.
+Section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, referred to in definition of “work made for hire”, is section 1000(a)(9) [title I, § 1011(d)] of Pub. L. 106–113, which amended par. (2) of that definition. See 1999 Amendment note below.
 
 Section 2(a)(1) of the Work Made For Hire and Copyright Corrections Act of 2000, referred to in definition of “work made for hire”, is section 2(a)(1) of Pub. L. 106—379, which amended par. (2) of that definition. See 2000 Amendment note below.
 
@@ -235,51 +235,51 @@ Section 2 of the Uruguay Round Agreements Act, referred to in definitions of “
 
 **Amendments**
 
-2010—Pub. L. 111–295, § 6(a)(3), transferred the definition of “food service or drinking establishment” to appear after the definition of “fixed”.
+2010—Pub. L. 111–295, § 6(a)(3), transferred the definition of “food service or drinking establishment” to appear after the definition of “fixed”.
 
-Pub. L. 111–295, § 6(a)(2), transferred the definition of “motion picture exhibition facility” to appear after the definition of “Literary works”.
+Pub. L. 111–295, § 6(a)(2), transferred the definition of “motion picture exhibition facility” to appear after the definition of “Literary works”.
 
-Pub. L. 111–295, § 6(a)(1), which directed transfer of the definition of “Copyright Royalty Judges” to appear after the definition of “Copyright owner”, was executed by so transferring the definition of “Copyright Royalty Judge”, to reflect the probable intent of Congress.
+Pub. L. 111–295, § 6(a)(1), which directed transfer of the definition of “Copyright Royalty Judges” to appear after the definition of “Copyright owner”, was executed by so transferring the definition of “Copyright Royalty Judge”, to reflect the probable intent of Congress.
 
 2005—Pub. L. 109–9 inserted definition of “motion picture exhibition facility” after definition of “Motion pictures”.
 
 2004—Pub. L. 108–419 inserted definition of “Copyright Royalty Judge” after definition of “Copies”.
 
-2002—Pub. L. 107–273, § 13210(5)(B), transferred definition of “Registration” to appear after definition of “publicly”.
+2002—Pub. L. 107–273, § 13210(5)(B), transferred definition of “Registration” to appear after definition of “publicly”.
 
-Pub. L. 107–273, § 13210(5)(A), transferred definition of “computer program” to appear after definition of “compilation”.
+Pub. L. 107–273, § 13210(5)(A), transferred definition of “computer program” to appear after definition of “compilation”.
 
-2000—Pub. L. 106–379, § 2(a)(2), in definition of “work made for hire”, inserted after par. (2) provisions relating to considerations and interpretations to be used in determining whether any work is eligible to be considered a work made for hire under par. (2).
+2000—Pub. L. 106–379, § 2(a)(2), in definition of “work made for hire”, inserted after par. (2) provisions relating to considerations and interpretations to be used in determining whether any work is eligible to be considered a work made for hire under par. (2).
 
-Pub. L. 106–379, § 2(a)(1), in definition of “work made for hire”, struck out “as a sound recording,” after “motion picture or other audiovisual work,” in par. (2).
+Pub. L. 106–379, § 2(a)(1), in definition of “work made for hire”, struck out “as a sound recording,” after “motion picture or other audiovisual work,” in par. (2).
 
 1999—Pub. L. 106–113, which directed the insertion of “as a sound recording,” after “audiovisual work” in par. (2) of definition relating to work made for hire, was executed by making the insertion after “audiovisual work,” to reflect the probable intent of Congress.
 
-Pub. L. 106–44, § 1(g)(1)(B), in definition of “proprietor”, substituted “For purposes of section 513, a ‘proprietor’ ” for “A ‘proprietor’ ”.
+Pub. L. 106–44, § 1(g)(1)(B), in definition of “proprietor”, substituted “For purposes of section 513, a ‘proprietor’ ” for “A ‘proprietor’ ”.
 
-Pub. L. 106–44, § 1(g)(1)(A), transferred definition of “United States work” to appear after definition of “United States”.
+Pub. L. 106–44, § 1(g)(1)(A), transferred definition of “United States work” to appear after definition of “United States”.
 
-1998—Pub. L. 105–304, § 102(a)(1), struck out definition of “Berne Convention work”.
+1998—Pub. L. 105–304, § 102(a)(1), struck out definition of “Berne Convention work”.
 
-Pub. L. 105–304, § 102(a)(2), in definition of “country of origin”, substituted “For purposes of section 411, a work is a ‘United States work’ only if” for “The ‘country of origin’ of a Berne Convention work, for purposes of section 411, is the United States if” in introductory provisions, substituted “treaty party or parties” for “nation or nations adhering to the Berne Convention” in par. (1)(B) and “is not a treaty party” for “does not adhere to the Berne Convention” in par. (1)(C), (D), and struck out at end “For the purposes of section 411, the ‘country of origin’ of any other Berne Convention work is not the United States.”
+Pub. L. 105–304, § 102(a)(2), in definition of “country of origin”, substituted “For purposes of section 411, a work is a ‘United States work’ only if” for “The ‘country of origin’ of a Berne Convention work, for purposes of section 411, is the United States if” in introductory provisions, substituted “treaty party or parties” for “nation or nations adhering to the Berne Convention” in par. (1)(B) and “is not a treaty party” for “does not adhere to the Berne Convention” in par. (1)(C), (D), and struck out at end “For the purposes of section 411, the ‘country of origin’ of any other Berne Convention work is not the United States.”
 
-Pub. L. 105–298, § 205(1), inserted definitions of “establishment” and “food service or drinking establishment”.
+Pub. L. 105–298, § 205(1), inserted definitions of “establishment” and “food service or drinking establishment”.
 
-Pub. L. 105–304, § 102(a)(3), inserted definition of “Geneva Phonograms Convention”.
+Pub. L. 105–304, § 102(a)(3), inserted definition of “Geneva Phonograms Convention”.
 
-Pub. L. 105–298, § 205(2), inserted definition of “gross square feet of space”.
+Pub. L. 105–298, § 205(2), inserted definition of “gross square feet of space”.
 
-Pub. L. 105–304, § 102(a)(4), inserted definition of “international agreement”.
+Pub. L. 105–304, § 102(a)(4), inserted definition of “international agreement”.
 
-Pub. L. 105–298, § 205(3), (4), inserted definitions of “performing rights society” and “proprietor”.
+Pub. L. 105–298, § 205(3), (4), inserted definitions of “performing rights society” and “proprietor”.
 
-Pub. L. 105–304, § 102(a)(5), inserted definition of term “treaty party”.
+Pub. L. 105–304, § 102(a)(5), inserted definition of term “treaty party”.
 
-Pub. L. 105–304, § 102(a)(6), inserted definition of term “WIPO Copyright Treaty”.
+Pub. L. 105–304, § 102(a)(6), inserted definition of term “WIPO Copyright Treaty”.
 
-Pub. L. 105–304, § 102(a)(7), inserted definition of term “WIPO Performances and Phonograms Treaty”.
+Pub. L. 105–304, § 102(a)(7), inserted definition of term “WIPO Performances and Phonograms Treaty”.
 
-Pub. L. 105–304, § 102(a)(8), inserted definitions of terms “WTO Agreement” and “WTO member country”.
+Pub. L. 105–304, § 102(a)(8), inserted definitions of terms “WTO Agreement” and “WTO member country”.
 
 1997—Pub. L. 105–147 inserted definition of “financial gain”.
 
@@ -291,17 +291,17 @@ Pub. L. 105–80, in definition of to perform or to display a work “publicly�
 
 Pub. L. 102–307 inserted definition of “registration”.
 
-1990—Pub. L. 101–650, § 702(a), inserted definition of “architectural work”.
+1990—Pub. L. 101–650, § 702(a), inserted definition of “architectural work”.
 
-Pub. L. 101–650, § 702(b), in definition of “Berne Convention work” added par. (5).
+Pub. L. 101–650, § 702(b), in definition of “Berne Convention work” added par. (5).
 
-Pub. L. 101–650, § 602, inserted definition of “work of visual art”.
+Pub. L. 101–650, § 602, inserted definition of “work of visual art”.
 
-1988—Pub. L. 100–568, § 4(a)(1)(B), inserted definitions of “The Berne Convention” and “Berne Convention work”.
+1988—Pub. L. 100–568, § 4(a)(1)(B), inserted definitions of “The Berne Convention” and “Berne Convention work”.
 
-Pub. L. 100–568, § 4(a)(1)(C), inserted definition of “country of origin”.
+Pub. L. 100–568, § 4(a)(1)(C), inserted definition of “country of origin”.
 
-Pub. L. 100–568, § 4(a)(1)(A), in definition of “Pictorial, graphic, and sculptural works” substituted “diagrams, models, and technical drawings, including architectural plans” for “technical drawings, diagrams, and models”.
+Pub. L. 100–568, § 4(a)(1)(A), in definition of “Pictorial, graphic, and sculptural works” substituted “diagrams, models, and technical drawings, including architectural plans” for “technical drawings, diagrams, and models”.
 
 1980—Pub. L. 96–517 inserted definition of “computer program”.
 
@@ -313,15 +313,15 @@ Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject t
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–379, § 2(b)(1), Oct. 27, 2000, 114 Stat. 1444, provided that: “The amendments made by this section [amending this section] shall be effective as of November 29, 1999.”
+Pub. L. 106–379, § 2(b)(1), Oct. 27, 2000, 114 Stat. 1444, provided that: “The amendments made by this section [amending this section] shall be effective as of November 29, 1999.”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1012], Nov. 29, 1999, 113 Stat. 1536, 1501A–544, provided that: “Sections 1001, 1003, 1005, 1007, 1008, 1009, 1010, and 1011 [enacting sections 338 and 339 of Title 47, Telecommunications, amending this section, sections 111, 119, 501, and 510 of this title, and section 325 of Title 47, enacting provisions set out as a note under this section and section 325 of Title 47, and amending provisions set out as a note under section 119 of this title] (and the amendments made by such sections) shall take effect on the date of the enactment of this Act [Nov. 29, 1999]. The amendments made by sections 1002, 1004, and 1006 [enacting section 122 of this title and amending sections 119 and 501 of this title] shall be effective as of July 1, 1999.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1012], Nov. 29, 1999, 113 Stat. 1536, 1501A–544, provided that: “Sections 1001, 1003, 1005, 1007, 1008, 1009, 1010, and 1011 [enacting sections 338 and 339 of Title 47, Telecommunications, amending this section, sections 111, 119, 501, and 510 of this title, and section 325 of Title 47, enacting provisions set out as a note under this section and section 325 of Title 47, and amending provisions set out as a note under section 119 of this title] (and the amendments made by such sections) shall take effect on the date of the enactment of this Act [Nov. 29, 1999]. The amendments made by sections 1002, 1004, and 1006 [enacting section 122 of this title and amending sections 119 and 501 of this title] shall be effective as of July 1, 1999.”
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–304, title I, § 105, Oct. 28, 1998, 112 Stat. 2877, provided that:
+Pub. L. 105–304, title I, § 105, Oct. 28, 1998, 112 Stat. 2877, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this title [see section 101 of Pub. L. 105–304, set out as a Short Title of 1998 Amendment note below], this title and the amendments made by this title shall take effect on the date of the enactment of this Act [Oct. 28, 1998].
 
@@ -351,15 +351,15 @@ Pub. L. 105–304, title I, § 105, Oct. 28, 1998, 112 Stat. 2877, provided th
 
 > **“(F)** The amendments made by section 102(c)(3) of this Act [amending section 104A of this title].”
 
-Pub. L. 105–298, title II, § 207, Oct. 27, 1998, 112 Stat. 2834, provided that: “This title [enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section] and the amendments made by this title shall take effect 90 days after the date of the enactment of this Act [Oct. 27, 1998].”
+Pub. L. 105–298, title II, § 207, Oct. 27, 1998, 112 Stat. 2834, provided that: “This title [enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section] and the amendments made by this title shall take effect 90 days after the date of the enactment of this Act [Oct. 27, 1998].”
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–39, § 6, Nov. 1, 1995, 109 Stat. 349, provided that: “This Act [see Short Title of 1995 Amendment note below] and the amendments made by this Act shall take effect 3 months after the date of enactment of this Act [Nov. 1, 1995], except that the provisions of sections 114(e) and 114(f) of title 17, United States Code (as added by section 3 of this Act) shall take effect immediately upon the date of enactment of this Act.”
+Pub. L. 104–39, § 6, Nov. 1, 1995, 109 Stat. 349, provided that: “This Act [see Short Title of 1995 Amendment note below] and the amendments made by this Act shall take effect 3 months after the date of enactment of this Act [Nov. 1, 1995], except that the provisions of sections 114(e) and 114(f) of title 17, United States Code (as added by section 3 of this Act) shall take effect immediately upon the date of enactment of this Act.”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–307, title I, § 102(g), June 26, 1992, 106 Stat. 266, as amended by Pub. L. 105–298, title I, § 102(d)(2)(B), Oct. 27, 1998, 112 Stat. 2828, provided that:
+Pub. L. 102–307, title I, § 102(g), June 26, 1992, 106 Stat. 266, as amended by Pub. L. 105–298, title I, § 102(d)(2)(B), Oct. 27, 1998, 112 Stat. 2828, provided that:
 
 > **“(1)** Subject to paragraphs (2) and (3), this section [amending this section and sections 304, 408, 409, and 708 of this title and enacting provisions set out as a note under section 304 of this title] and the amendments made by this section shall take effect on the date of the enactment of this Act [June 26, 1992].
 
@@ -371,7 +371,7 @@ Pub. L. 102–307, title I, § 102(g), June 26, 1992, 106 Stat. 266, as amende
 
 Amendment by section 602 of Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
-Pub. L. 101–650, title VII, § 706, Dec. 1, 1990, 104 Stat. 5134, provided that:
+Pub. L. 101–650, title VII, § 706, Dec. 1, 1990, 104 Stat. 5134, provided that:
 
 > “The amendments made by this title [enacting section 120 of this title and amending this section and sections 102, 106, and 301 of this title], apply to—
 
@@ -381,7 +381,7 @@ Pub. L. 101–650, title VII, § 706, Dec. 1, 1990, 104 Stat. 5134, provided t
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–568, § 13, Oct. 31, 1988, 102 Stat. 2861, provided that:
+Pub. L. 100–568, § 13, Oct. 31, 1988, 102 Stat. 2861, provided that:
 
 > **“(a) Effective Date.—** This Act and the amendments made by this Act [enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section] take effect on the date on which the Berne Convention (as defined in section 101 of title 17, United States Code) enters into force with respect to the United States [Mar. 1, 1989]. [The Berne Convention entered into force with respect to the United States on Mar. 1, 1989.]
 
@@ -389,147 +389,147 @@ Pub. L. 100–568, § 13, Oct. 31, 1988, 102 Stat. 2861, provided that:
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–201, § 1, Oct. 17, 2022, 136 Stat. 2222, provided that: “This Act [amending section 708 of this title] may be cited as the ‘Artistic Recognition for Talented Students Act’ or the ‘ARTS Act’.”
+Pub. L. 117–201, § 1, Oct. 17, 2022, 136 Stat. 2222, provided that: “This Act [amending section 708 of this title] may be cited as the ‘Artistic Recognition for Talented Students Act’ or the ‘ARTS Act’.”
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–260, div. Q, title II, § 212(a), Dec. 27, 2020, 134 Stat. 2176, provided that: “This section [enacting chapter 15 of this title and enacting provisions set out as notes under sections 1501 and 1502 of this title] may be cited as the ‘Copyright Alternative in Small-Claims Enforcement Act of 2020’ or the ‘CASE Act of 2020’.”
+Pub. L. 116–260, div. Q, title II, § 212(a), Dec. 27, 2020, 134 Stat. 2176, provided that: “This section [enacting chapter 15 of this title and enacting provisions set out as notes under sections 1501 and 1502 of this title] may be cited as the ‘Copyright Alternative in Small-Claims Enforcement Act of 2020’ or the ‘CASE Act of 2020’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–94, div. P, title XI, § 1101, Dec. 20, 2019, 133 Stat. 3201, provided that: “This title [amending sections 119 and 501 of this title and enacting provisions set out as a note under section 119 of this title] may be cited as the ‘Satellite Television Community Protection and Promotion Act of 2019’.”
+Pub. L. 116–94, div. P, title XI, § 1101, Dec. 20, 2019, 133 Stat. 3201, provided that: “This title [amending sections 119 and 501 of this title and enacting provisions set out as a note under section 119 of this title] may be cited as the ‘Satellite Television Community Protection and Promotion Act of 2019’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–264, § 1(a), Oct. 11, 2018, 132 Stat. 3676, provided that: “This Act [enacting chapter 14 of this title, amending sections 114, 115, 301, 801, 803, and 804 of this title, section 58c of Title 19, Customs Duties, and section 137 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 106, 114, and 115 of this title] may be cited as the ‘Orrin G. Hatch–Bob Goodlatte Music Modernization Act’.”
+Pub. L. 115–264, § 1(a), Oct. 11, 2018, 132 Stat. 3676, provided that: “This Act [enacting chapter 14 of this title, amending sections 114, 115, 301, 801, 803, and 804 of this title, section 58c of Title 19, Customs Duties, and section 137 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 106, 114, and 115 of this title] may be cited as the ‘Orrin G. Hatch–Bob Goodlatte Music Modernization Act’.”
 
-Pub. L. 115–264, title I, § 101, Oct. 11, 2018, 132 Stat. 3676, provided that: “This title [amending sections 114, 115, 801, 803, and 804 of this title and section 137 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 106, 114, and 115 of this title] may be cited as the ‘Musical Works Modernization Act’.”
+Pub. L. 115–264, title I, § 101, Oct. 11, 2018, 132 Stat. 3676, provided that: “This title [amending sections 114, 115, 801, 803, and 804 of this title and section 137 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 106, 114, and 115 of this title] may be cited as the ‘Musical Works Modernization Act’.”
 
-Pub. L. 115–264, title II, § 201, Oct. 11, 2018, 132 Stat. 3728, provided that: “This title [enacting chapter 14 of this title and amending section 301 of this title] may be cited as the ‘Classics Protection and Access Act’.”
+Pub. L. 115–264, title II, § 201, Oct. 11, 2018, 132 Stat. 3728, provided that: “This title [enacting chapter 14 of this title and amending section 301 of this title] may be cited as the ‘Classics Protection and Access Act’.”
 
-Pub. L. 115–264, title III, § 301, Oct. 11, 2018, 132 Stat. 3737, provided that: “This title [amending section 114 of this title and enacting provisions set out as a note under section 114 of this title] may be cited as the ‘Allocation for Music Producers Act’ or the ‘AMP Act’.”
+Pub. L. 115–264, title III, § 301, Oct. 11, 2018, 132 Stat. 3737, provided that: “This title [amending section 114 of this title and enacting provisions set out as a note under section 114 of this title] may be cited as the ‘Allocation for Music Producers Act’ or the ‘AMP Act’.”
 
-Pub. L. 115–261, § 1, Oct. 9, 2018, 132 Stat. 3667, provided that: “This Act [enacting section 121A of this title and amending section 121 of this title] may be cited as the ‘Marrakesh Treaty Implementation Act’.”
+Pub. L. 115–261, § 1, Oct. 9, 2018, 132 Stat. 3667, provided that: “This Act [enacting section 121A of this title and amending section 121 of this title] may be cited as the ‘Marrakesh Treaty Implementation Act’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–295, § 1, Dec. 9, 2010, 124 Stat. 3180, provided that: “This Act [amending this section and sections 114, 115, 119, 205, 303, 409, 503, 504, 512, 602, 704, 803, 1203, and 1204 of this title and section 2318 of Title 18, Crimes and Criminal Procedure, and repealing section 601 of this title] may be cited as the ‘Copyright Cleanup, Clarification, and Corrections Act of 2010’.”
+Pub. L. 111–295, § 1, Dec. 9, 2010, 124 Stat. 3180, provided that: “This Act [amending this section and sections 114, 115, 119, 205, 303, 409, 503, 504, 512, 602, 704, 803, 1203, and 1204 of this title and section 2318 of Title 18, Crimes and Criminal Procedure, and repealing section 601 of this title] may be cited as the ‘Copyright Cleanup, Clarification, and Corrections Act of 2010’.”
 
-Pub. L. 111–175, § 1(a), May 27, 2010, 124 Stat. 1218, provided that: “This Act [enacting section 342 of Title 47, Telecommunications, amending sections 111, 119, 122, 708, and 804 of this title and sections 325, 335, and 338 to 340 of Title 47, enacting provisions set out as notes under sections 111 and 119 of this title and sections 325, 338, and 340 of Title 47, and repealing provisions set out as a note under section 119 of this title] may be cited as the ‘Satellite Television Extension and Localism Act of 2010’.”
+Pub. L. 111–175, § 1(a), May 27, 2010, 124 Stat. 1218, provided that: “This Act [enacting section 342 of Title 47, Telecommunications, amending sections 111, 119, 122, 708, and 804 of this title and sections 325, 335, and 338 to 340 of Title 47, enacting provisions set out as notes under sections 111 and 119 of this title and sections 325, 338, and 340 of Title 47, and repealing provisions set out as a note under section 119 of this title] may be cited as the ‘Satellite Television Extension and Localism Act of 2010’.”
 
-Pub. L. 111–151, § 1, Mar. 26, 2010, 124 Stat. 1027, provided that: “This Act [amending section 119 of this title and section 325 of Title 47, Telecommunications, and amending provisions set out as a note under section 119 of this title] may be cited as the ‘Satellite Televison [sic] Extension Act of 2010’.”
+Pub. L. 111–151, § 1, Mar. 26, 2010, 124 Stat. 1027, provided that: “This Act [amending section 119 of this title and section 325 of Title 47, Telecommunications, and amending provisions set out as a note under section 119 of this title] may be cited as the ‘Satellite Televison [sic] Extension Act of 2010’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–36, § 1, June 30, 2009, 123 Stat. 1926, provided that: “This Act [amending section 114 of this title] may be cited as the ‘Webcaster Settlement Act of 2009’.”
+Pub. L. 111–36, § 1, June 30, 2009, 123 Stat. 1926, provided that: “This Act [amending section 114 of this title] may be cited as the ‘Webcaster Settlement Act of 2009’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–435, § 1, Oct. 16, 2008, 122 Stat. 4974, provided that: “This Act [amending section 114 of this title] may be cited as the ‘Webcaster Settlement Act of 2008’.”
+Pub. L. 110–435, § 1, Oct. 16, 2008, 122 Stat. 4974, provided that: “This Act [amending section 114 of this title] may be cited as the ‘Webcaster Settlement Act of 2008’.”
 
-Pub. L. 110–434, § 1(a), Oct. 16, 2008, 122 Stat. 4972, provided that: “This Act [amending section 1301 of this title] may be cited as the ‘Vessel Hull Design Protection Amendments of 2008’.”
+Pub. L. 110–434, § 1(a), Oct. 16, 2008, 122 Stat. 4972, provided that: “This Act [amending section 1301 of this title] may be cited as the ‘Vessel Hull Design Protection Amendments of 2008’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–303, § 1, Oct. 6, 2006, 120 Stat. 1478, provided that: “This Act [amending sections 111, 114, 115, 118, 119, 801 to 804, and 1007 of this title, enacting provisions set out as notes under sections 111 and 119 of this title, and amending provisions set out as a note under section 801 of this title] may be cited as the ‘Copyright Royalty Judges Program Technical Corrections Act’.”
+Pub. L. 109–303, § 1, Oct. 6, 2006, 120 Stat. 1478, provided that: “This Act [amending sections 111, 114, 115, 118, 119, 801 to 804, and 1007 of this title, enacting provisions set out as notes under sections 111 and 119 of this title, and amending provisions set out as a note under section 801 of this title] may be cited as the ‘Copyright Royalty Judges Program Technical Corrections Act’.”
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–9, § 1, Apr. 27, 2005, 119 Stat. 218, provided that: “This Act [enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section and sections 108, 110, 408, 411, 412, and 506 of this title, sections 179m, 179n, 179p, 179q, and 179w of Title 2, The Congress, section 1114 of Title 15, Commerce and Trade, section 2319 of Title 18, and sections 151703, 151705, 151706, and 151711 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, enacting provisions set out as notes under this section, section 179*l* of Title 2, and section 101 of Title 36, and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Family Entertainment and Copyright Act of 2005’.”
+Pub. L. 109–9, § 1, Apr. 27, 2005, 119 Stat. 218, provided that: “This Act [enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section and sections 108, 110, 408, 411, 412, and 506 of this title, sections 179m, 179n, 179p, 179q, and 179w of Title 2, The Congress, section 1114 of Title 15, Commerce and Trade, section 2319 of Title 18, and sections 151703, 151705, 151706, and 151711 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, enacting provisions set out as notes under this section, section 179*l* of Title 2, and section 101 of Title 36, and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Family Entertainment and Copyright Act of 2005’.”
 
-Pub. L. 109–9, title I, § 101, Apr. 27, 2005, 119 Stat. 218, provided that: “This title [enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section, sections 408, 411, 412, and 506 of this title, and section 2319 of Title 18, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Artists’ Rights and Theft Prevention Act of 2005’ or the ‘ART Act’.”
+Pub. L. 109–9, title I, § 101, Apr. 27, 2005, 119 Stat. 218, provided that: “This title [enacting section 2319B of Title 18, Crimes and Criminal Procedure, amending this section, sections 408, 411, 412, and 506 of this title, and section 2319 of Title 18, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Artists’ Rights and Theft Prevention Act of 2005’ or the ‘ART Act’.”
 
-Pub. L. 109–9, title II, § 201, Apr. 27, 2005, 119 Stat. 223, provided that: “This title [amending section 110 of this title and section 1114 of Title 15, Commerce and Trade] may be cited as the ‘Family Movie Act of 2005’.”
+Pub. L. 109–9, title II, § 201, Apr. 27, 2005, 119 Stat. 223, provided that: “This title [amending section 110 of this title and section 1114 of Title 15, Commerce and Trade] may be cited as the ‘Family Movie Act of 2005’.”
 
-Pub. L. 109–9, title IV, § 401, Apr. 27, 2005, 119 Stat. 226, provided that: “This title [amending section 108 of this title] may be cited as the ‘Preservation of Orphan Works Act’.”
+Pub. L. 109–9, title IV, § 401, Apr. 27, 2005, 119 Stat. 226, provided that: “This title [amending section 108 of this title] may be cited as the ‘Preservation of Orphan Works Act’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–447, div. J, title IX, § 1(a), Dec. 8, 2004, 118 Stat. 3393, provided that: “This title [enacting sections 340 and 341 of Title 47, Telecommunications, amending sections 111, 119, 122, and 803 of this title and sections 307, 312, 325, 338, and 339 of Title 47, enacting provisions set out as notes under section 119 of this title and sections 325 and 338 of Title 47, and amending provisions set out as a note under section 119 of this title] may be cited as the ‘Satellite Home Viewer Extension and Reauthorization Act of 2004’ or the ‘W. J. (Billy) Tauzin Satellite Television Act of 2004’.”
+Pub. L. 108–447, div. J, title IX, § 1(a), Dec. 8, 2004, 118 Stat. 3393, provided that: “This title [enacting sections 340 and 341 of Title 47, Telecommunications, amending sections 111, 119, 122, and 803 of this title and sections 307, 312, 325, 338, and 339 of Title 47, enacting provisions set out as notes under section 119 of this title and sections 325 and 338 of Title 47, and amending provisions set out as a note under section 119 of this title] may be cited as the ‘Satellite Home Viewer Extension and Reauthorization Act of 2004’ or the ‘W. J. (Billy) Tauzin Satellite Television Act of 2004’.”
 
-Pub. L. 108–419, § 1, Nov. 30, 2004, 118 Stat. 2341, provided that: “This Act [enacting chapter 8 of this title, amending this section and sections 111, 112, 114 to 116, 118, 119, 1004, 1006, 1007, and 1010 of this title, and enacting provisions set out as a note under section 801 of this title] may be cited as the ‘Copyright Royalty and Distribution Reform Act of 2004’.”
+Pub. L. 108–419, § 1, Nov. 30, 2004, 118 Stat. 2341, provided that: “This Act [enacting chapter 8 of this title, amending this section and sections 111, 112, 114 to 116, 118, 119, 1004, 1006, 1007, and 1010 of this title, and enacting provisions set out as a note under section 801 of this title] may be cited as the ‘Copyright Royalty and Distribution Reform Act of 2004’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–321, § 1, Dec. 4, 2002, 116 Stat. 2780, provided that: “This Act [amending section 114 of this title and enacting provisions set out as notes under section 114 of this title] may be cited as the ‘Small Webcaster Settlement Act of 2002’.”
+Pub. L. 107–321, § 1, Dec. 4, 2002, 116 Stat. 2780, provided that: “This Act [amending section 114 of this title and enacting provisions set out as notes under section 114 of this title] may be cited as the ‘Small Webcaster Settlement Act of 2002’.”
 
-Pub. L. 107–273, div. C, title III, § 13301(a), Nov. 2, 2002, 116 Stat. 1910, provided that: “This subtitle [subtitle C (§ 13301) of title III of div. C of Pub. L. 107–273, amending sections 110, 112, and 802 of this title] may be cited as the ‘Technology, Education, and Copyright Harmonization Act of 2002’.”
+Pub. L. 107–273, div. C, title III, § 13301(a), Nov. 2, 2002, 116 Stat. 1910, provided that: “This subtitle [subtitle C (§ 13301) of title III of div. C of Pub. L. 107–273, amending sections 110, 112, and 802 of this title] may be cited as the ‘Technology, Education, and Copyright Harmonization Act of 2002’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–379, § 1, Oct. 27, 2000, 114 Stat. 1444, provided that: “This Act [amending this section and sections 121, 705, and 708 of this title, repealing section 710 of this title, and enacting provisions set out as notes under this section and section 708 of this title] may be cited as the ‘Work Made For Hire and Copyright Corrections Act of 2000’.”
+Pub. L. 106–379, § 1, Oct. 27, 2000, 114 Stat. 1444, provided that: “This Act [amending this section and sections 121, 705, and 708 of this title, repealing section 710 of this title, and enacting provisions set out as notes under this section and section 708 of this title] may be cited as the ‘Work Made For Hire and Copyright Corrections Act of 2000’.”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–160, § 1, Dec. 9, 1999, 113 Stat. 1774, provided that: “This Act [amending section 504 of this title and enacting provisions set out as notes under section 504 of this title and section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Digital Theft Deterrence and Copyright Damages Improvement Act of 1999’.”
+Pub. L. 106–160, § 1, Dec. 9, 1999, 113 Stat. 1774, provided that: “This Act [amending section 504 of this title and enacting provisions set out as notes under section 504 of this title and section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Digital Theft Deterrence and Copyright Damages Improvement Act of 1999’.”
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1001], Nov. 29, 1999, 113 Stat. 1536, 1501A–523, provided that: “This title [enacting section 122 of this title and sections 338 and 339 of Title 47, Telecommunications, amending this section, sections 111, 119, 501, and 510 of this title, and section 325 of Title 47, enacting provisions set out as notes under this section and section 325 of Title 47, and amending provisions set out as a note under section 119 of this title] may be cited as the ‘Satellite Home Viewer Improvement Act of 1999’.”
+Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1001], Nov. 29, 1999, 113 Stat. 1536, 1501A–523, provided that: “This title [enacting section 122 of this title and sections 338 and 339 of Title 47, Telecommunications, amending this section, sections 111, 119, 501, and 510 of this title, and section 325 of Title 47, enacting provisions set out as notes under this section and section 325 of Title 47, and amending provisions set out as a note under section 119 of this title] may be cited as the ‘Satellite Home Viewer Improvement Act of 1999’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–304, § 1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Act [enacting section 512 and chapters 12 and 13 of this title and section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 104, 104A, 108, 112, 114, 117, 411, 507, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, sections 1338, 1400, and 1498 of Title 28, and section 3 of Title 35, Patents, and enacting provisions set out as notes under this section and sections 108, 109, 112, 114, 512, and 1301 of this title] may be cited as the ‘Digital Millennium Copyright Act’.”
+Pub. L. 105–304, § 1, Oct. 28, 1998, 112 Stat. 2860, provided that: “This Act [enacting section 512 and chapters 12 and 13 of this title and section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 104, 104A, 108, 112, 114, 117, 411, 507, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, sections 1338, 1400, and 1498 of Title 28, and section 3 of Title 35, Patents, and enacting provisions set out as notes under this section and sections 108, 109, 112, 114, 512, and 1301 of this title] may be cited as the ‘Digital Millennium Copyright Act’.”
 
-Pub. L. 105–304, title I, § 101, Oct. 28, 1998, 112 Stat. 2861, provided that: “This title [enacting chapter 12 of this title, amending this section and sections 104, 104A, 411, and 507 of this title, and enacting provisions set out as notes under this section and section 109 of this title] may be cited as the ‘WIPO Copyright and Performances and Phonograms Treaties Implementation Act of 1998’.”
+Pub. L. 105–304, title I, § 101, Oct. 28, 1998, 112 Stat. 2861, provided that: “This title [enacting chapter 12 of this title, amending this section and sections 104, 104A, 411, and 507 of this title, and enacting provisions set out as notes under this section and section 109 of this title] may be cited as the ‘WIPO Copyright and Performances and Phonograms Treaties Implementation Act of 1998’.”
 
-Pub. L. 105–304, title II, § 201, Oct. 28, 1998, 112 Stat. 2877, provided that: “This title [enacting section 512 of this title and provisions set out as a note under section 512 of this title] may be cited as the ‘Online Copyright Infringement Liability Limitation Act’.”
+Pub. L. 105–304, title II, § 201, Oct. 28, 1998, 112 Stat. 2877, provided that: “This title [enacting section 512 of this title and provisions set out as a note under section 512 of this title] may be cited as the ‘Online Copyright Infringement Liability Limitation Act’.”
 
-Pub. L. 105–304, title III, § 301, Oct. 28, 1998, 112 Stat. 2886, provided that: “This title [amending section 117 of this title] may be cited as the ‘Computer Maintenance Competition Assurance Act’.”
+Pub. L. 105–304, title III, § 301, Oct. 28, 1998, 112 Stat. 2886, provided that: “This title [amending section 117 of this title] may be cited as the ‘Computer Maintenance Competition Assurance Act’.”
 
-Pub. L. 105–304, title V, § 501, Oct. 28, 1998, 112 Stat. 2905, provided that: “This Act [probably means “this title”, enacting chapter 13 of this title and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure] may be referred to as the ‘Vessel Hull Design Protection Act’.”
+Pub. L. 105–304, title V, § 501, Oct. 28, 1998, 112 Stat. 2905, provided that: “This Act [probably means “this title”, enacting chapter 13 of this title and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure] may be referred to as the ‘Vessel Hull Design Protection Act’.”
 
-Pub. L. 105–298, title I, § 101, Oct. 27, 1998, 112 Stat. 2827, provided that: “This title [amending sections 108, 203, and 301 to 304 of this title, enacting provisions set out as a note under section 108 of this title, and amending provisions set out as notes under this section and section 304 of this title] may be referred to as the ‘Sonny Bono Copyright Term Extension Act’.”
+Pub. L. 105–298, title I, § 101, Oct. 27, 1998, 112 Stat. 2827, provided that: “This title [amending sections 108, 203, and 301 to 304 of this title, enacting provisions set out as a note under section 108 of this title, and amending provisions set out as notes under this section and section 304 of this title] may be referred to as the ‘Sonny Bono Copyright Term Extension Act’.”
 
-Pub. L. 105–298, title II, § 201, Oct. 27, 1998, 112 Stat. 2830, provided that: “This title [enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Fairness In Music Licensing Act of 1998’.”
+Pub. L. 105–298, title II, § 201, Oct. 27, 1998, 112 Stat. 2830, provided that: “This title [enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Fairness In Music Licensing Act of 1998’.”
 
 **Short Title of 1995 Amendment**
 
-Pub. L. 104–39, § 1, Nov. 1, 1995, 109 Stat. 336, provided that: “This Act [amending this section and sections 106, 111, 114, 115, 119, and 801 to 803 of this title and enacting provisions set out as a note above] may be cited as the ‘Digital Performance Right in Sound Recordings Act of 1995’.”
+Pub. L. 104–39, § 1, Nov. 1, 1995, 109 Stat. 336, provided that: “This Act [amending this section and sections 106, 111, 114, 115, 119, and 801 to 803 of this title and enacting provisions set out as a note above] may be cited as the ‘Digital Performance Right in Sound Recordings Act of 1995’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–369, § 1, Oct. 18, 1994, 108 Stat. 3477, provided that: “This Act [amending sections 111 and 119 of this title and enacting and repealing provisions set out as notes under section 119 of this title] may be cited as the ‘Satellite Home Viewer Act of 1994’.”
+Pub. L. 103–369, § 1, Oct. 18, 1994, 108 Stat. 3477, provided that: “This Act [amending sections 111 and 119 of this title and enacting and repealing provisions set out as notes under section 119 of this title] may be cited as the ‘Satellite Home Viewer Act of 1994’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–198, § 1, Dec. 17, 1993, 107 Stat. 2304, provided that: “This Act [amending sections 111, 116, 118, 119, 801 to 803, 1004 to 1007, and 1010 of this title and section 1288 of Title 8, Aliens and Nationality, renumbering sections 116A and 804 of this title as sections 116 and 803, respectively, of this title, repealing sections 116, 803, and 805 to 810 of this title, and enacting provisions set out as notes under section 801 of this title and section 1288 of Title 8] may be cited as the ‘Copyright Royalty Tribunal Reform Act of 1993’.”
+Pub. L. 103–198, § 1, Dec. 17, 1993, 107 Stat. 2304, provided that: “This Act [amending sections 111, 116, 118, 119, 801 to 803, 1004 to 1007, and 1010 of this title and section 1288 of Title 8, Aliens and Nationality, renumbering sections 116A and 804 of this title as sections 116 and 803, respectively, of this title, repealing sections 116, 803, and 805 to 810 of this title, and enacting provisions set out as notes under section 801 of this title and section 1288 of Title 8] may be cited as the ‘Copyright Royalty Tribunal Reform Act of 1993’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–563, § 1, Oct. 28, 1992, 106 Stat. 4237, provided that: “This Act [enacting chapter 10 of this title, amending this section, sections 801, 804, and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note under section 1001 of this title] may be cited as the ‘Audio Home Recording Act of 1992’.”
+Pub. L. 102–563, § 1, Oct. 28, 1992, 106 Stat. 4237, provided that: “This Act [enacting chapter 10 of this title, amending this section, sections 801, 804, and 912 of this title, and section 1337 of Title 19, Customs Duties, and enacting provisions set out as a note under section 1001 of this title] may be cited as the ‘Audio Home Recording Act of 1992’.”
 
-Pub. L. 102–307, § 1, June 26, 1992, 106 Stat. 264, provided that: “This Act [enacting sections 179 to 179k of Title 2, The Congress, amending this section and sections 108, 304, 408, 409, and 708 of this title, repealing sections 178 to 178*l* of Title 2, enacting provisions set out as notes under this section, section 304 of this title, and section 179 of Title 2, and repealing provisions set out as a note under section 178 of Title 2] may be cited as the ‘Copyright Amendments Act of 1992’.”
+Pub. L. 102–307, § 1, June 26, 1992, 106 Stat. 264, provided that: “This Act [enacting sections 179 to 179k of Title 2, The Congress, amending this section and sections 108, 304, 408, 409, and 708 of this title, repealing sections 178 to 178*l* of Title 2, enacting provisions set out as notes under this section, section 304 of this title, and section 179 of Title 2, and repealing provisions set out as a note under section 178 of Title 2] may be cited as the ‘Copyright Amendments Act of 1992’.”
 
-Pub. L. 102–307, title I, § 101, June 26, 1992, 106 Stat. 264, provided that: “This title [amending this section and sections 304, 408, 409, and 708 of this title and enacting provisions set out as notes under this section and section 304 of this title] may be referred to as the ‘Copyright Renewal Act of 1992’.”
+Pub. L. 102–307, title I, § 101, June 26, 1992, 106 Stat. 264, provided that: “This title [amending this section and sections 304, 408, 409, and 708 of this title and enacting provisions set out as notes under this section and section 304 of this title] may be referred to as the ‘Copyright Renewal Act of 1992’.”
 
 **Short Title of 1991 Amendment**
 
-Pub. L. 102–64, § 1, June 28, 1991, 105 Stat. 320, provided that: “This Act [amending section 914 of this title and enacting provisions set out as a note under section 914 of this title] may be cited as the ‘Semiconductor International Protection Extension Act of 1991’.”
+Pub. L. 102–64, § 1, June 28, 1991, 105 Stat. 320, provided that: “This Act [amending section 914 of this title and enacting provisions set out as a note under section 914 of this title] may be cited as the ‘Semiconductor International Protection Extension Act of 1991’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–650, title VI, § 601, Dec. 1, 1990, 104 Stat. 5128, provided that: “This title [enacting section 106A of this title, amending this section and sections 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and section 106A of this title] may be cited as the ‘Visual Artists Rights Act of 1990’.”
+Pub. L. 101–650, title VI, § 601, Dec. 1, 1990, 104 Stat. 5128, provided that: “This title [enacting section 106A of this title, amending this section and sections 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and section 106A of this title] may be cited as the ‘Visual Artists Rights Act of 1990’.”
 
-Pub. L. 101–650, title VII, § 701, Dec. 1, 1990, 104 Stat. 5133, provided that: “This title [enacting section 120 of this title, amending this section and sections 102, 106, and 301 of this title, and enacting provisions set out as a note above] may be cited as the ‘Architectural Works Copyright Protection Act’.”
+Pub. L. 101–650, title VII, § 701, Dec. 1, 1990, 104 Stat. 5133, provided that: “This title [enacting section 120 of this title, amending this section and sections 102, 106, and 301 of this title, and enacting provisions set out as a note above] may be cited as the ‘Architectural Works Copyright Protection Act’.”
 
-Pub. L. 101–650, title VIII, § 801, Dec. 1, 1990, 104 Stat. 5134, provided that: “This title [amending section 109 of this title and enacting provisions set out as notes under sections 109 and 205 of this title] may be cited as the ‘Computer Software Rental Amendments Act of 1990’.”
+Pub. L. 101–650, title VIII, § 801, Dec. 1, 1990, 104 Stat. 5134, provided that: “This title [amending section 109 of this title and enacting provisions set out as notes under sections 109 and 205 of this title] may be cited as the ‘Computer Software Rental Amendments Act of 1990’.”
 
-Pub. L. 101–553, § 1, Nov. 15, 1990, 104 Stat. 2749, provided that: “This Act [enacting section 511 of this title, amending sections 501, 910, and 911 of this title, and enacting provisions set out as a note under section 501 of this title] may be cited as the ‘Copyright Remedy Clarification Act’.”
+Pub. L. 101–553, § 1, Nov. 15, 1990, 104 Stat. 2749, provided that: “This Act [enacting section 511 of this title, amending sections 501, 910, and 911 of this title, and enacting provisions set out as a note under section 501 of this title] may be cited as the ‘Copyright Remedy Clarification Act’.”
 
-Pub. L. 101–319, § 1, July 3, 1990, 104 Stat. 290, provided that: “This Act [amending sections 701 and 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 701 of this title] may be cited as the ‘Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989’.”
+Pub. L. 101–319, § 1, July 3, 1990, 104 Stat. 290, provided that: “This Act [amending sections 701 and 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 701 of this title] may be cited as the ‘Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989’.”
 
-Pub. L. 101–318, § 1, July 3, 1990, 104 Stat. 287, provided that: “This Act [amending sections 106, 111, 704, 708, 801, and 804 of this title and enacting provisions set out as notes under sections 106, 111, 708, and 804 of this title] may be cited as the ‘Copyright Fees and Technical Amendments Act of 1989’.”
+Pub. L. 101–318, § 1, July 3, 1990, 104 Stat. 287, provided that: “This Act [amending sections 106, 111, 704, 708, 801, and 804 of this title and enacting provisions set out as notes under sections 106, 111, 708, and 804 of this title] may be cited as the ‘Copyright Fees and Technical Amendments Act of 1989’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–667, title II, § 201, Nov. 16, 1988, 102 Stat. 3949, provided that: “This title [enacting section 119 of this title and sections 612 and 613 of Title 47, Telecommunications, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notes under section 119 of this title] may be cited as the ‘Satellite Home Viewer Act of 1988’.” [Section ceases to be effective Dec. 31, 1994, see section 207 of Pub. L. 100–667, set out as an Effective and Termination Dates note under section 119 of this title.]
+Pub. L. 100–667, title II, § 201, Nov. 16, 1988, 102 Stat. 3949, provided that: “This title [enacting section 119 of this title and sections 612 and 613 of Title 47, Telecommunications, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notes under section 119 of this title] may be cited as the ‘Satellite Home Viewer Act of 1988’.” [Section ceases to be effective Dec. 31, 1994, see section 207 of Pub. L. 100–667, set out as an Effective and Termination Dates note under section 119 of this title.]
 
-Pub. L. 100–568, § 1(a), Oct. 31, 1988, 102 Stat. 2853, provided that: “This Act [enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Berne Convention Implementation Act of 1988’.”
+Pub. L. 100–568, § 1(a), Oct. 31, 1988, 102 Stat. 2853, provided that: “This Act [enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Berne Convention Implementation Act of 1988’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–620, title III, § 301, Nov. 8, 1984, 98 Stat. 3347, provided that: “This title [enacting chapter 9 of this title] may be cited as the ‘Semiconductor Chip Protection Act of 1984’.”
+Pub. L. 98–620, title III, § 301, Nov. 8, 1984, 98 Stat. 3347, provided that: “This title [enacting chapter 9 of this title] may be cited as the ‘Semiconductor Chip Protection Act of 1984’.”
 
-Pub. L. 98–450, § 1, Oct. 4, 1984, 98 Stat. 1727, provided that: “This Act [amending sections 109 and 115 of this title and enacting provisions set out as a note under section 109 of this title] may be cited as the ‘Record Rental Amendment of 1984’.”
+Pub. L. 98–450, § 1, Oct. 4, 1984, 98 Stat. 1727, provided that: “This Act [amending sections 109 and 115 of this title and enacting provisions set out as a note under section 109 of this title] may be cited as the ‘Record Rental Amendment of 1984’.”
 
 **Short Title of 1976 Act**
 
@@ -537,19 +537,19 @@ Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2541, which enacted this title and sec
 
 **Severability**
 
-Pub. L. 106–379, § 2(b)(2), Oct. 27, 2000, 114 Stat. 1444, provided that: “If the provisions of paragraph (1) [see Effective Date of 2000 Amendment note above], or any application of such provisions to any person or circumstance, is held to be invalid, the remainder of this section [amending this section and enacting provisions set out as a note above], the amendments made by this section, and the application of this section to any other person or circumstance shall not be affected by such invalidation.”
+Pub. L. 106–379, § 2(b)(2), Oct. 27, 2000, 114 Stat. 1444, provided that: “If the provisions of paragraph (1) [see Effective Date of 2000 Amendment note above], or any application of such provisions to any person or circumstance, is held to be invalid, the remainder of this section [amending this section and enacting provisions set out as a note above], the amendments made by this section, and the application of this section to any other person or circumstance shall not be affected by such invalidation.”
 
 **Construction of 1998 Amendment**
 
-Pub. L. 105–298, title II, § 206, Oct. 27, 1998, 112 Stat. 2834, provided that: “Except as otherwise provided in this title [enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section], nothing in this title shall be construed to relieve any performing rights society of any obligation under any State or local statute, ordinance, or law, or consent decree or other court order governing its operation, as such statute, ordinance, law, decree, or order is in effect on the date of the enactment of this Act [Oct. 27, 1998], as it may be amended after such date, or as it may be issued or agreed to after such date.”
+Pub. L. 105–298, title II, § 206, Oct. 27, 1998, 112 Stat. 2834, provided that: “Except as otherwise provided in this title [enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section], nothing in this title shall be construed to relieve any performing rights society of any obligation under any State or local statute, ordinance, or law, or consent decree or other court order governing its operation, as such statute, ordinance, law, decree, or order is in effect on the date of the enactment of this Act [Oct. 27, 1998], as it may be amended after such date, or as it may be issued or agreed to after such date.”
 
 **First Amendment Application**
 
-Pub. L. 101–650, title VI, § 609, Dec. 1, 1990, 104 Stat. 5132, provided that: “This title [see Short Title of 1990 Amendment note above] does not authorize any governmental entity to take any action or enforce restrictions prohibited by the First Amendment to the United States Constitution.”
+Pub. L. 101–650, title VI, § 609, Dec. 1, 1990, 104 Stat. 5132, provided that: “This title [see Short Title of 1990 Amendment note above] does not authorize any governmental entity to take any action or enforce restrictions prohibited by the First Amendment to the United States Constitution.”
 
 **Berne Convention; Congressional Declarations**
 
-Pub. L. 100–568, § 2, Oct. 31, 1988, 102 Stat. 2853, provided that:
+Pub. L. 100–568, § 2, Oct. 31, 1988, 102 Stat. 2853, provided that:
 
 > “The Congress makes the following declarations:
 
@@ -561,7 +561,7 @@ Pub. L. 100–568, § 2, Oct. 31, 1988, 102 Stat. 2853, provided that:
 
 **Berne Convention; Construction**
 
-Pub. L. 100–568, § 3, Oct. 31, 1988, 102 Stat. 2853, provided that:
+Pub. L. 100–568, § 3, Oct. 31, 1988, 102 Stat. 2853, provided that:
 
 > **“(a) Relationship With Domestic Law.—** The provisions of the Berne Convention—
 
@@ -577,11 +577,11 @@ Pub. L. 100–568, § 3, Oct. 31, 1988, 102 Stat. 2853, provided that:
 
 **Works in Public Domain Without Copyright Protection**
 
-Pub. L. 100–568, § 12, Oct. 31, 1988, 102 Stat. 2860, provided that: “Title 17, United States Code, as amended by this Act [see Short Title of 1988 Amendment note above], does not provide copyright protection for any work that is in the public domain in the United States.”
+Pub. L. 100–568, § 12, Oct. 31, 1988, 102 Stat. 2860, provided that: “Title 17, United States Code, as amended by this Act [see Short Title of 1988 Amendment note above], does not provide copyright protection for any work that is in the public domain in the United States.”
 
 **Definitions**
 
-Pub. L. 103–465, title V, § 501, Dec. 8, 1994, 108 Stat. 4973, provided that:
+Pub. L. 103–465, title V, § 501, Dec. 8, 1994, 108 Stat. 4973, provided that:
 
 > “For purposes of this title [enacting section 1101 of this title and section 2319A of Title 18, Crimes and Criminal Procedure, amending sections 104A and 109 of this title, sections 1052 and 1127 of Title 15, Commerce and Trade, and sections 41, 104, 111, 119, 154, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of Title 35, Patents, enacting provisions set out as notes under section 1052 of Title 15 and sections 104 and 154 of Title 35, and amending provisions set out as a note under section 109 of this title]—
 
@@ -589,7 +589,7 @@ Pub. L. 103–465, title V, § 501, Dec. 8, 1994, 108 Stat. 4973, provided tha
 
 > **“(2)** the term ‘WTO member country’ has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act.”
 
-## § 102. Subject matter of copyright: In general
+## § 102. Subject matter of copyright: In general
 
 **(a)** Copyright protection subsists, in accordance with this title, in original works of authorship fixed in any tangible medium of expression, now known or later developed, from which they can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. Works of authorship include the following categories:
 
@@ -611,7 +611,7 @@ Pub. L. 103–465, title V, § 501, Dec. 8, 1994, 108 Stat. 4973, provided tha
 
 **(b)** In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2544; Pub. L. 101–650, title VII, § 703, Dec. 1, 1990, 104 Stat. 5133.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2544; Pub. L. 101–650, title VII, § 703, Dec. 1, 1990, 104 Stat. 5133.)
 
 **Historical and Revision Notes**
 
@@ -619,7 +619,7 @@ Pub. L. 103–465, title V, § 501, Dec. 8, 1994, 108 Stat. 4973, provided tha
 
 **Original Works of Authorship.** The two fundamental criteria of copyright protection—originality and fixation in tangible form are restated in the first sentence of this cornerstone provision. The phrase “original works or authorship,” which is purposely left undefined, is intended to incorporate without change the standard of originality established by the courts under the present copyright statute. This standard does not include requirements of novelty, ingenuity, or esthetic merit, and there is no intention to enlarge the standard of copyright protection to require them.
 
-In using the phrase “original works of authorship,” rather than “all the writings of an author” now in section 4 of the statute [section 4 of former title 17], the committee’s purpose is to avoid exhausting the constitutional power of Congress to legislate in this field, and to eliminate the uncertainties arising from the latter phrase. Since the present statutory language is substantially the same as the empowering language of the Constitution [Const. Art. I, § 8, cl. 8], a recurring question has been whether the statutory and the constitutional provisions are coextensive. If so, the courts would be faced with the alternative of holding copy­rightable something that Congress clearly did not intend to protect, or of holding constitutionally incapable of copyright something that Congress might one day want to protect. To avoid these equally undesirable results, the courts have indicated that “all the writings of an author” under the present statute is narrower in scope than the “writings” of “authors” referred to in the Constitution. The bill avoids this dilemma by using a different phrase—“original works of authorship”—in characterizing the general subject matter of statutory copyright protection.
+In using the phrase “original works of authorship,” rather than “all the writings of an author” now in section 4 of the statute [section 4 of former title 17], the committee’s purpose is to avoid exhausting the constitutional power of Congress to legislate in this field, and to eliminate the uncertainties arising from the latter phrase. Since the present statutory language is substantially the same as the empowering language of the Constitution [Const. Art. I, § 8, cl. 8], a recurring question has been whether the statutory and the constitutional provisions are coextensive. If so, the courts would be faced with the alternative of holding copy­rightable something that Congress clearly did not intend to protect, or of holding constitutionally incapable of copyright something that Congress might one day want to protect. To avoid these equally undesirable results, the courts have indicated that “all the writings of an author” under the present statute is narrower in scope than the “writings” of “authors” referred to in the Constitution. The bill avoids this dilemma by using a different phrase—“original works of authorship”—in characterizing the general subject matter of statutory copyright protection.
 
 The history of copyright law has been one of gradual expansion in the types of works accorded protection, and the subject matter affected by this expansion has fallen into two general categories. In the first, scientific discoveries and technological developments have made possible new forms of creative expression that never existed before. In some of these cases the new expressive forms—electronic music, filmstrips, and computer programs, for example—could be regarded as an extension of copyrightable subject matter Congress had already intended to protect, and were thus considered copyrightable from the outset without the need of new legislation. In other cases, such as photographs, sound recordings, and motion pictures, statutory enactment was deemed necessary to give them full recognition as copyrightable works.
 
@@ -651,7 +651,7 @@ In accordance with the Supreme Court’s decision in *Mazer v. Stein*, 347 U.S. 
 
 The Committee has added language to the definition of “pictorial, graphic, and sculptural works” in an effort to make clearer the distinction between works of applied art protectable under the bill and industrial designs not subject to copyright protection. The declaration that “pictorial, graphic, and sculptural works” include “works of artistic craftsmanship insofar as their form but not their mechanical or utilitarian aspects are concerned” is classic language; it is drawn from Copyright Office regulations promulgated in the 1940’s and expressly endorsed by the Supreme Court in the *Mazer* case.
 
-The second part of the amendment states that “the design of a useful article \* \* \* shall be considered a pictorial, graphic, or sculptural work only if, and only to the extent that, such design incorporates pictorial, graphic, or sculptural features that can be identified separately from, and are capable of existing independ­ently of, the utilitarian aspects of the article.” A “useful article” is defined as “an article having an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information.” This part of the amendment is an adaptation of language added to the Copyright Office Regulations in the mid-1950’s in an effort to implement the Supreme Court’s decision in the *Mazer* case.
+The second part of the amendment states that “the design of a useful article \* \* \* shall be considered a pictorial, graphic, or sculptural work only if, and only to the extent that, such design incorporates pictorial, graphic, or sculptural features that can be identified separately from, and are capable of existing independ­ently of, the utilitarian aspects of the article.” A “useful article” is defined as “an article having an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information.” This part of the amendment is an adaptation of language added to the Copyright Office Regulations in the mid-1950’s in an effort to implement the Supreme Court’s decision in the *Mazer* case.
 
 In adopting this amendatory language, the Committee is seeking to draw as clear a line as possible between copyrightable works of applied art and uncopy­righted works of industrial design. A two-dimensional painting, drawing, or graphic work is still capable of being identified as such when it is printed on or applied to utilitarian articles such as textile fabrics, wallpaper, containers, and the like. The same is true when a statue or carving is used to embellish an industrial product or, as in the *Mazer* case, is incorporated into a product without losing its ability to exist independently as a work of art. On the other hand, although the shape of an industrial product may be aesthetically satisfying and valuable, the Committee’s intention is not to offer it copyright protection under the bill. Unless the shape of an automobile, airplane, ladies’ dress, food processor, television set, or any other industrial product contains some element that, physically or conceptually, can be identified as separable from the utilitarian aspects of that article, the design would not be copyrighted under the bill. The test of separability and independence from “the utilitarian aspects of the article” does not depend upon the nature of the design—that is, even if the appearance of an article is determined by aesthetic (as opposed to functional) considerations, only elements, if any, which can be identified separately from the useful article as such are copyrightable. And, even if the three-dimensional design contains some such element (for example, a carving on the back of a chair or a floral relief design on silver flatware), copyright protection would extend only to that element, and would not cover the over-all configuration of the utilitarian article as such.
 
@@ -661,7 +661,7 @@ The Committee has considered, but chosen to defer, the possibility of protecting
 
 Enactment of Public Law 92–140 in 1971 [Pub. L. 92–140, Oct. 15, 1971, 85 Stat. 391, which amended sections 1, 5, 19, 20, 26, and 101 of former title 17, and enacted provisions set out as a note under section 1 of former title 17] marked the first recognition in American copyright law of sound recordings as copy­rightable works. As defined in section 101, copyrightable “sound recordings” are original works of authorship comprising an aggregate of musical, spoken, or other sounds that have been fixed in tangible form. The copyrightable work comprises the aggregation of sounds and not the tangible medium of fixation. Thus, “sound recordings” as copyrightable subject matter are distinguished from “phonorecords,” the latter being physical objects in which sounds are fixed. They are also distinguished from any copyrighted literary, dramatic, or musical works that may be reproduced on a “phonorecord.”
 
-As a class of subject matter, sound recordings are clearly within the scope of the “writings of an author” capable of protection under the Constitution [Const. Art. I, § 8, cl. 8], and the extension of limited statutory protection to them was too long delayed. Aside from cases in which sounds are fixed by some purely mechanical means without originality of any kind, the copyright protection that would prevent the reproduction and distribution of unauthorized phonorecords of sound recordings is clearly justified.
+As a class of subject matter, sound recordings are clearly within the scope of the “writings of an author” capable of protection under the Constitution [Const. Art. I, § 8, cl. 8], and the extension of limited statutory protection to them was too long delayed. Aside from cases in which sounds are fixed by some purely mechanical means without originality of any kind, the copyright protection that would prevent the reproduction and distribution of unauthorized phonorecords of sound recordings is clearly justified.
 
 The copyrightable elements in a sound recording will usually, though not always, involve “authorship” both on the part of the performers whose performance is captured and on the part of the record pro­ducer responsible for setting up the recording session, capturing and electronically processing the sounds, and compiling and editing them to make the final sound recording. There may, however, be cases where the record producer’s contribution is so minimal that the performance is the only copyrightable element in the work, and there may be cases (for example, recordings of birdcalls, sounds of racing cars, et cetera) where only the record producer’s contribution is copy­rightable.
 
@@ -687,13 +687,13 @@ Section 102(b) in no way enlarges or contracts the scope of copyright protection
 
 Amendment by Pub. L. 101–650 applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see section 706 of Pub. L. 101–650, set out as a note under section 101 of this title.
 
-## § 103. Subject matter of copyright: Compilations and derivative works
+## § 103. Subject matter of copyright: Compilations and derivative works
 
 **(a)** The subject matter of copyright as specified by section 102 includes compilations and derivative works, but protection for a work employing preexisting material in which copyright subsists does not extend to any part of the work in which such material has been used unlawfully.
 
 **(b)** The copyright in a compilation or derivative work extends only to the material contributed by the author of such work, as distinguished from the preexisting material employed in the work, and does not imply any exclusive right in the preexisting material. The copyright in such work is independent of, and does not affect or enlarge the scope, duration, ownership, or subsistence of, any copyright protection in the preexisting material.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2545.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2545.)
 
 **Historical and Revision Notes**
 
@@ -705,7 +705,7 @@ Between them the terms “compilations” and “derivative works” which are d
 
 The second part of the sentence that makes up section 103(a) deals with the status of a compilation or derivative work unlawfully employing preexisting copyrighted material. In providing that protection does not extend to “any part of the work in which such material has been used unlawfully,” the bill prevents an infringer from benefiting, through copyright protection, from committing an unlawful act, but preserves protection for those parts of the work that do not employ the preexisting work. Thus, an unauthorized translation of a novel could not be copyrighted at all, but the owner of copyright in an anthology of poetry could sue someone who infringed the whole anthology, even though the infringer proves that publication of one of the poems was unauthorized. Under this provision, copyright could be obtained as long as the use of the preexisting work was not “unlawful,” even though the consent of the copyright owner had not been obtained. For instance, the unauthorized reproduction of a work might be “lawful” under the doctrine of fair use or an applicable foreign law, and if so the work incorporating it could be copyrighted.
 
-## § 104. Subject matter of copyright: National origin
+## § 104. Subject matter of copyright: National origin
 
 **(a) Unpublished Works.—** The works specified by sections 102 and 103, while unpublished, are subject to protection under this title without regard to the nationality or domicile of the author.
 
@@ -729,7 +729,7 @@ For purposes of paragraph (2), a work that is published in the United States or 
 
 **(d) Effect of Phonograms Treaties.—** Notwithstanding the provisions of subsection (b), no works other than sound recordings shall be eligible for protection under this title solely by virtue of the adherence of the United States to the Geneva Phonograms Convention or the WIPO Performances and Phonograms Treaty.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2545; Pub. L. 100–568, § 4(a)(2), (3), Oct. 31, 1988, 102 Stat. 2855; Pub. L. 105–304, title I, § 102(b), Oct. 28, 1998, 112 Stat. 2862.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2545; Pub. L. 100–568, § 4(a)(2), (3), Oct. 31, 1988, 102 Stat. 2855; Pub. L. 105–304, title I, § 102(b), Oct. 28, 1998, 112 Stat. 2862.)
 
 **Historical and Revision Notes**
 
@@ -751,23 +751,23 @@ The third of these conditions represents a treaty obligation of the United State
 
 **Amendments**
 
-1998—Subsec. (b). Pub. L. 105–304, § 102(b)(1)(G), inserted concluding provisions.
+1998—Subsec. (b). Pub. L. 105–304, § 102(b)(1)(G), inserted concluding provisions.
 
-Subsec. (b)(1). Pub. L. 105–304, § 102(b)(1)(A), substituted “treaty party” for “foreign nation that is a party to a copyright treaty to which the United States is also a party”.
+Subsec. (b)(1). Pub. L. 105–304, § 102(b)(1)(A), substituted “treaty party” for “foreign nation that is a party to a copyright treaty to which the United States is also a party”.
 
-Subsec. (b)(2). Pub. L. 105–304, § 102(b)(1)(B), substituted “treaty party” for “party to the Universal Copyright Convention”.
+Subsec. (b)(2). Pub. L. 105–304, § 102(b)(1)(B), substituted “treaty party” for “party to the Universal Copyright Convention”.
 
-Subsec. (b)(3). Pub. L. 105–304, § 102(b)(1)(E), added par. (3). Former par. (3) redesignated (5).
+Subsec. (b)(3). Pub. L. 105–304, § 102(b)(1)(E), added par. (3). Former par. (3) redesignated (5).
 
-Subsec. (b)(4). Pub. L. 105–304, § 102(b)(1)(F), substituted “pictorial, graphic, or sculptural work that is incorporated in a building or other structure, or an architectural work that is embodied in a building and the building or structure is located in the United States or a treaty party” for “Berne Convention work”.
+Subsec. (b)(4). Pub. L. 105–304, § 102(b)(1)(F), substituted “pictorial, graphic, or sculptural work that is incorporated in a building or other structure, or an architectural work that is embodied in a building and the building or structure is located in the United States or a treaty party” for “Berne Convention work”.
 
-Subsec. (b)(5), (6). Pub. L. 105–304, § 102(b)(1)(C), (D), redesignated par. (3) as (5) and transferred it to appear after par. (4) and redesignated former par. (5) as (6).
+Subsec. (b)(5), (6). Pub. L. 105–304, § 102(b)(1)(C), (D), redesignated par. (3) as (5) and transferred it to appear after par. (4) and redesignated former par. (5) as (6).
 
-Subsec. (d). Pub. L. 105–304, § 102(b)(2), added subsec. (d).
+Subsec. (d). Pub. L. 105–304, § 102(b)(2), added subsec. (d).
 
-1988—Subsec. (b)(4), (5). Pub. L. 100–568, § 4(a)(2), added par. (4) and redesignated former par. (4) as (5).
+1988—Subsec. (b)(4), (5). Pub. L. 100–568, § 4(a)(2), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (c). Pub. L. 100–568, § 4(a)(3), added subsec. (c).
+Subsec. (c). Pub. L. 100–568, § 4(a)(3), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -811,9 +811,9 @@ Lyndon B. Johnson.
 
 **Presidential Proclamations Issued Under Predecessor Provisions**
 
-Pub. L. 94–553, title I, § 104, Oct. 19, 1976, 90 Stat. 2599, provided that: “All proclamations issued by the President under section 1(e) or 9(b) of title 17 as it existed on December 31, 1977, or under previous copyright statutes of the United States, shall continue in force until terminated, suspended, or revised by the President.”
+Pub. L. 94–553, title I, § 104, Oct. 19, 1976, 90 Stat. 2599, provided that: “All proclamations issued by the President under section 1(e) or 9(b) of title 17 as it existed on December 31, 1977, or under previous copyright statutes of the United States, shall continue in force until terminated, suspended, or revised by the President.”
 
-## § 104A. Copyright in restored works
+## § 104A. Copyright in restored works
 
 **(a) Automatic Protection and Term.—**
 
@@ -1005,7 +1005,7 @@ The President may revise, suspend, or revoke any such proclamation or impose any
 
 **(ii)** if the restored work is published on the same day in 2 or more eligible countries, the eligible country which has the most significant contacts with the work.
 
-(Added Pub. L. 103–182, title III, § 334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, § 514(a), Dec. 8, 1994, 108 Stat. 4976; Pub. L. 104–295, § 20(e)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–80, § 2, Nov. 13, 1997, 111 Stat. 1530; Pub. L. 105–304, title I, § 102(c), Oct. 28, 1998, 112 Stat. 2862.)
+(Added Pub. L. 103–182, title III, § 334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, § 514(a), Dec. 8, 1994, 108 Stat. 4976; Pub. L. 104–295, § 20(e)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–80, § 2, Nov. 13, 1997, 111 Stat. 1530; Pub. L. 105–304, title I, § 102(c), Oct. 28, 1998, 112 Stat. 2862.)
 
 **Editorial Notes**
 
@@ -1017,13 +1017,13 @@ Section 101(d)(15) of the Uruguay Round Agreements Act, referred to in subsec. (
 
 **Amendments**
 
-1998—Subsec. (h)(1)(A) to (E). Pub. L. 105–304, § 102(c)(1), added subpars. (A) to (E) and struck out former subpars. (A) and (B) which read as follows:
+1998—Subsec. (h)(1)(A) to (E). Pub. L. 105–304, § 102(c)(1), added subpars. (A) to (E) and struck out former subpars. (A) and (B) which read as follows:
 
 “(A) a nation adhering to the Berne Convention or a WTO member country; or
 
 “(B) subject to a Presidential proclamation under subsection (g).”
 
-Subsec. (h)(3). Pub. L. 105–304, § 102(c)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘eligible country’ means a nation, other than the United States, that—
+Subsec. (h)(3). Pub. L. 105–304, § 102(c)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘eligible country’ means a nation, other than the United States, that—
 
 “(A) becomes a WTO member country after the date of the enactment of the Uruguay Round Agreements Act;
 
@@ -1033,13 +1033,13 @@ Subsec. (h)(3). Pub. L. 105–304, § 102(c)(2), amended par. (3) generally. P
 
 For purposes of this section, a nation that is a member of the Berne Convention on the date of the enactment of the Uruguay Round Agreements Act shall be construed to become an eligible country on such date of enactment.”
 
-Subsec. (h)(6)(E). Pub. L. 105–304, § 102(c)(3), added subpar. (E).
+Subsec. (h)(6)(E). Pub. L. 105–304, § 102(c)(3), added subpar. (E).
 
-Subsec. (h)(8)(B)(i). Pub. L. 105–304, § 102(c)(4), inserted “of which” before “the majority” and struck out “of eligible countries” after “domiciliaries”.
+Subsec. (h)(8)(B)(i). Pub. L. 105–304, § 102(c)(4), inserted “of which” before “the majority” and struck out “of eligible countries” after “domiciliaries”.
 
-Subsec. (h)(9). Pub. L. 105–304, § 102(c)(5), struck out par. (9) which read as follows: “The terms ‘WTO Agreement’ and ‘WTO member country’ have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.”
+Subsec. (h)(9). Pub. L. 105–304, § 102(c)(5), struck out par. (9) which read as follows: “The terms ‘WTO Agreement’ and ‘WTO member country’ have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.”
 
-1997—Subsec. (d)(3)(A). Pub. L. 105–80, § 2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a derivative work that is based upon a restored work and is created—
+1997—Subsec. (d)(3)(A). Pub. L. 105–80, § 2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a derivative work that is based upon a restored work and is created—
 
 “(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the derivative work is an eligible country on such date, or
 
@@ -1047,9 +1047,9 @@ Subsec. (h)(9). Pub. L. 105–304, § 102(c)(5), struck out par. (9) which rea
 
 a reliance party may continue to exploit that work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.”
 
-Subsec. (e)(1)(B)(ii). Pub. L. 105–80, § 2(2), struck out at end “Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration.”
+Subsec. (e)(1)(B)(ii). Pub. L. 105–80, § 2(2), struck out at end “Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration.”
 
-Subsec. (h)(2), (3). Pub. L. 105–80, § 2(3), (4), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
+Subsec. (h)(2), (3). Pub. L. 105–80, § 2(3), (4), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
 “(2) The ‘date of restoration’ of a restored copyright is the later of—
 
@@ -1079,7 +1079,7 @@ Section effective on the date the North American Free Trade Agreement enters int
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of Title 19, Customs Duties, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of Title 19.
 
-## § 105. Subject matter of copyright: United States Government works
+## § 105. Subject matter of copyright: United States Government works
 
 **(a) In General.—** Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
 
@@ -1133,7 +1133,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 **(3) Covered work.—** The term “covered work” means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 116–92, div. A, title V, § 544, Dec. 20, 2019, 133 Stat. 1376; Pub. L. 117–263, div. C, title XXXV, § 3514, div. F, title LXIII, § 6306, Dec. 23, 2022, 136 Stat. 3068, 3504; Pub. L. 118–159, div. F, title LXIX, § 6902(e), Dec. 23, 2024, 138 Stat. 2518; Pub. L. 119–60, div. A, title XVII, § 1702, Dec. 18, 2025, 139 Stat. 1210.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 116–92, div. A, title V, § 544, Dec. 20, 2019, 133 Stat. 1376; Pub. L. 117–263, div. C, title XXXV, § 3514, div. F, title LXIII, § 6306, Dec. 23, 2022, 136 Stat. 3068, 3504; Pub. L. 118–159, div. F, title LXIX, § 6902(e), Dec. 23, 2024, 138 Stat. 2518; Pub. L. 119–60, div. A, title XVII, § 1702, Dec. 18, 2025, 139 Stat. 1210.)
 
 **Historical and Revision Notes**
 
@@ -1153,9 +1153,9 @@ The effect of section 105 is intended to place all works of the United States Go
 
 **limited exception for national technical information service**
 
-At the House hearings in 1975 the U.S. Department of Commerce called attention to its National Technical Information Service (NTIS), which has a statutory mandate, under Chapter 23 [§ 1151 et seq.] of Title 15 of the U.S. Code, to operate a clearinghouse for the collection and dissemination of scientific, technical and engineering information. Under its statute, NTIS is required to be as self-sustaining as possible, and not to force the general public to bear publishing costs that are for private benefit. The Department urged an amendment to section 105 that would allow it to secure copyright in NTIS publications both in the United States and abroad, noting that a precedent exists in the Standard Reference Data Act (15 U.S.C. § 290(e) [§ 290e]).
+At the House hearings in 1975 the U.S. Department of Commerce called attention to its National Technical Information Service (NTIS), which has a statutory mandate, under Chapter 23 [§ 1151 et seq.] of Title 15 of the U.S. Code, to operate a clearinghouse for the collection and dissemination of scientific, technical and engineering information. Under its statute, NTIS is required to be as self-sustaining as possible, and not to force the general public to bear publishing costs that are for private benefit. The Department urged an amendment to section 105 that would allow it to secure copyright in NTIS publications both in the United States and abroad, noting that a precedent exists in the Standard Reference Data Act (15 U.S.C. § 290(e) [§ 290e]).
 
-In response to this request the Committee adopted a limited exception to the general prohibition in section 105, permitting the Secretary of Commerce to “secure copyright for a limited term not to exceed five years, on behalf of the United States as author or copyright owner” in any NTIS publication disseminated pursuant to 15 U.S.C. Chapter 23 [§ 1151 et seq.]. In order to “secure copyright” in a work under this amendment the Secretary would be required to publish the work with a copyright notice, and the five-year term would begin upon the date of first publication.
+In response to this request the Committee adopted a limited exception to the general prohibition in section 105, permitting the Secretary of Commerce to “secure copyright for a limited term not to exceed five years, on behalf of the United States as author or copyright owner” in any NTIS publication disseminated pursuant to 15 U.S.C. Chapter 23 [§ 1151 et seq.]. In order to “secure copyright” in a work under this amendment the Secretary would be required to publish the work with a copyright notice, and the five-year term would begin upon the date of first publication.
 
 **Proposed Saving Clause.** Section 8 of the statute now in effect [section 8 of former title 17] includes a saving clause intended to make clear that the copyright protection of a private work is not affected if the work is published by the Government. This provision serves a real purpose in the present law because of the ambiguity of the undefined term “any publication of the United States Government.” Section 105 of the bill, however, uses the operative term “work of the United States Government” and defines it in such a way that privately written works are clearly excluded from the prohibition; accordingly, a saving clause becomes superfluous.
 
@@ -1167,31 +1167,31 @@ Retention of a saving clause has been urged on the ground that the present statu
 
 **Amendments**
 
-2025—Subsec. (c)(1). Pub. L. 119–60, § 1702(b)(1), substituted “subparagraphs (A) through (L) of subsection (d)(2) and subparagraph (M)” for “subparagraphs (A) through (K) of subsection (d)(2) and subparagraph (L)”.
+2025—Subsec. (c)(1). Pub. L. 119–60, § 1702(b)(1), substituted “subparagraphs (A) through (L) of subsection (d)(2) and subparagraph (M)” for “subparagraphs (A) through (K) of subsection (d)(2) and subparagraph (L)”.
 
-Subsec. (c)(2). Pub. L. 119–60, § 1702(b)(2), substituted “subsection (d)(2)(M)” for “subsection (d)(2)(L)”.
+Subsec. (c)(2). Pub. L. 119–60, § 1702(b)(2), substituted “subsection (d)(2)(M)” for “subsection (d)(2)(L)”.
 
-Subsec. (c)(3). Pub. L. 119–60, § 1702(b)(3), substituted “subsection (d)(2)(N)” for “subsection (d)(2)(M)”.
+Subsec. (c)(3). Pub. L. 119–60, § 1702(b)(3), substituted “subsection (d)(2)(N)” for “subsection (d)(2)(M)”.
 
-Subsec. (c)(4). Pub. L. 119–60, § 1702(b)(4), substituted “subsection (d)(2)(O)” for “subsection (d)(2)(N)”.
+Subsec. (c)(4). Pub. L. 119–60, § 1702(b)(4), substituted “subsection (d)(2)(O)” for “subsection (d)(2)(N)”.
 
-Subsec. (d)(2)(L) to (O). Pub. L. 119–60, § 1702(a), added subpar. (L) and redesignated former subpars. (L) to (N) as (M) to (O), respectively.
+Subsec. (d)(2)(L) to (O). Pub. L. 119–60, § 1702(a), added subpar. (L) and redesignated former subpars. (L) to (N) as (M) to (O), respectively.
 
 2024—Pub. L. 118–159 amended section generally. Prior to amendment, section related to copyright protection for United States Government works.
 
-2022—Subsec. (b). Pub. L. 117–263, § 3514(1), substituted “Certain Works” for “Certain of Works” in heading.
+2022—Subsec. (b). Pub. L. 117–263, § 3514(1), substituted “Certain Works” for “Certain of Works” in heading.
 
-Subsec. (c). Pub. L. 117–263, § 6306(2), added subsec. (c) and struck out former subsec. (c). Text read as follows: “A covered Secretary may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.”
+Subsec. (c). Pub. L. 117–263, § 6306(2), added subsec. (c) and struck out former subsec. (c). Text read as follows: “A covered Secretary may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.”
 
-Pub. L. 117–263, § 3514(2), substituted “A covered Secretary” for “The Secretary of Defense”.
+Pub. L. 117–263, § 3514(2), substituted “A covered Secretary” for “The Secretary of Defense”.
 
-Subsec. (d). Pub. L. 117–263, §§ 3514(3), 6306(1), made identical amendments, redesignating subsec. (c) relating to definitions as (d).
+Subsec. (d). Pub. L. 117–263, §§ 3514(3), 6306(1), made identical amendments, redesignating subsec. (c) relating to definitions as (d).
 
-Subsec. (d)(2)(M). Pub. L. 117–263, § 6306(3), added subpar. (M) relating to National Intelligence University.
+Subsec. (d)(2)(M). Pub. L. 117–263, § 6306(3), added subpar. (M) relating to National Intelligence University.
 
-Pub. L. 117–263, § 3514(4)(A), added subpar. (M) relating to United States Merchant Marine Academy.
+Pub. L. 117–263, § 3514(4)(A), added subpar. (M) relating to United States Merchant Marine Academy.
 
-Subsec. (d)(3), (4). Pub. L. 117–263, § 3514(4)(B), (C), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (d)(3), (4). Pub. L. 117–263, § 3514(4)(B), (C), added par. (3) and redesignated former par. (3) as (4).
 
 2019—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b) and two subsecs. (c). Heading of subsec. (a) was conformed to the style used in this title.
 
@@ -1199,9 +1199,9 @@ Subsec. (d)(3), (4). Pub. L. 117–263, § 3514(4)(B), (C), added par. (3) and
 
 **Coordination With Other Amendments Made by Division F of Pub. L. 118–159**
 
-Pub. L. 118–159, div. F, title LXIX, § 6902(f), Dec. 23, 2024, 138 Stat. 2519, provided that: “For purposes of applying amendments made by provisions of this division [div. F of Pub. L. 118–159, see Tables for classification] other than this section, the amendments made by this section [amending this section and sections 3024, 3033, 3232a, 3234, 3244, 3304, and 3614 of Title 50, War and National Defense] shall be treated as having been enacted immediately before any such amendments by other provisions of this division.”
+Pub. L. 118–159, div. F, title LXIX, § 6902(f), Dec. 23, 2024, 138 Stat. 2519, provided that: “For purposes of applying amendments made by provisions of this division [div. F of Pub. L. 118–159, see Tables for classification] other than this section, the amendments made by this section [amending this section and sections 3024, 3033, 3232a, 3234, 3244, 3304, and 3614 of Title 50, War and National Defense] shall be treated as having been enacted immediately before any such amendments by other provisions of this division.”
 
-## § 106. Exclusive rights in copyrighted works
+## § 106. Exclusive rights in copyrighted works
 
 Subject to sections 107 through 122, the owner of copyright under this title has the exclusive rights to do and to authorize any of the following:
 
@@ -1217,7 +1217,7 @@ Subject to sections 107 through 122, the owner of copyright under this title has
 
 **(6)** in the case of sound recordings, to perform the copyrighted work publicly by means of a digital audio transmission.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–318, § 3(d), July 3, 1990, 104 Stat. 288; Pub. L. 101–650, title VII, § 704(b)(2), Dec. 1, 1990, 104 Stat. 5134; Pub. L. 104–39, § 2, Nov. 1, 1995, 109 Stat. 336; Pub. L. 106–44, § 1(g)(2), Aug. 5, 1999, 113 Stat. 222; Pub. L. 107–273, div. C, title III, § 13210(4)(A), Nov. 2, 2002, 116 Stat. 1909.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–318, § 3(d), July 3, 1990, 104 Stat. 288; Pub. L. 101–650, title VII, § 704(b)(2), Dec. 1, 1990, 104 Stat. 5134; Pub. L. 104–39, § 2, Nov. 1, 1995, 109 Stat. 336; Pub. L. 106–44, § 1(g)(2), Aug. 5, 1999, 113 Stat. 222; Pub. L. 107–273, div. C, title III, § 13210(4)(A), Nov. 2, 2002, 116 Stat. 1909.)
 
 **Historical and Revision Notes**
 
@@ -1229,7 +1229,7 @@ The approach of the bill is to set forth the copyright owner’s exclusive right
 
 The exclusive rights accorded to a copyright owner under section 106 are “to do and to authorize” any of the activities specified in the five numbered clauses. Use of the phrase “to authorize” is intended to avoid any questions as to the liability of contributory infringers. For example, a person who lawfully acquires an authorized copy of a motion picture would be an infringer if he or she engages in the business of renting it to others for purposes of unauthorized public performance.
 
-**Rights of Reproduction, Adaptation, and Publication.** The first three clauses of section 106, which cover all rights under a copyright except those of performance and display, extend to every kind of copyrighted work. The exclusive rights encompassed by these clauses, though closely related, are independent; they can generally be characterized as rights of copying, recording, adaptation, and publishing. A single act of infringement may violate all of these rights at once, as where a publisher reproduces, adapts, and sells copies of a person’s copyrighted work as part of a publishing venture. Infringement takes place when any one of the rights is violated: where, for example, a printer reproduces copies without selling them or a retailer sells copies without having anything to do with their reproduction. The references to “copies or phonorecords,” although in the plural, are intended here and throughout the bill to include the singular (1 U.S.C. § 1).
+**Rights of Reproduction, Adaptation, and Publication.** The first three clauses of section 106, which cover all rights under a copyright except those of performance and display, extend to every kind of copyrighted work. The exclusive rights encompassed by these clauses, though closely related, are independent; they can generally be characterized as rights of copying, recording, adaptation, and publishing. A single act of infringement may violate all of these rights at once, as where a publisher reproduces, adapts, and sells copies of a person’s copyrighted work as part of a publishing venture. Infringement takes place when any one of the rights is violated: where, for example, a printer reproduces copies without selling them or a retailer sells copies without having anything to do with their reproduction. The references to “copies or phonorecords,” although in the plural, are intended here and throughout the bill to include the singular (1 U.S.C. § 1).
 
 *Reproduction*.—Read together with the relevant definitions in section 101, the right “to reproduce the copyrighted work in copies or phonorecords” means the right to produce a material object in which the work is duplicated, transcribed, imitated, or simulated in a fixed form from which it can be “perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device.” As under the present law, a copyrighted work would be infringed by reproducing it in whole or in any substantial part, and by duplicating it exactly or by imitation or simulation. Wide departures or variations from the copyrighted work would still be an infringement as long as the author’s “expression” rather than merely the author’s “ideas” are taken. An exception to this general principle, applicable to the reproduction of copyrighted sound recordings, is specified in section 114.
 
@@ -1289,11 +1289,11 @@ Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, see section
 
 Amendment by Pub. L. 101–650 applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see section 706 of Pub. L. 101–650, set out as a note under section 101 of this title.
 
-Pub. L. 101–318, § 3(e)(3), July 3, 1990, 104 Stat. 289, provided that: “The amendment made by subsection (d) [amending this section] shall be effective as of November 16, 1988.”
+Pub. L. 101–318, § 3(e)(3), July 3, 1990, 104 Stat. 289, provided that: “The amendment made by subsection (d) [amending this section] shall be effective as of November 16, 1988.”
 
 **Performing Rights Society Consent Decrees**
 
-Pub. L. 115–264, title I, § 105, Oct. 11, 2018, 132 Stat. 3726, provided that:
+Pub. L. 115–264, title I, § 105, Oct. 11, 2018, 132 Stat. 3726, provided that:
 
 > **“(a) Definition.—** In this section, the term ‘performing rights society’ has the meaning given the term in section 101 of title 17, United States Code.
 
@@ -1325,7 +1325,7 @@ Pub. L. 115–264, title I, § 105, Oct. 11, 2018, 132 Stat. 3726, provided th
 
 > **“(d) Scope.—** This section applies only to a consent decree between the United States and a performing rights society.”
 
-## § 106A. Rights of certain authors to attribution and integrity
+## § 106A. Rights of certain authors to attribution and integrity
 
 **(a) Rights of Attribution and Integrity.—** Subject to section 107 and independent of the exclusive rights provided in section 106, the author of a work of visual art—
 
@@ -1369,7 +1369,7 @@ Pub. L. 115–264, title I, § 105, Oct. 11, 2018, 132 Stat. 3726, provided th
 
 **(2)** Ownership of the rights conferred by subsection (a) with respect to a work of visual art is distinct from ownership of any copy of that work, or of a copyright or any exclusive right under a copyright in that work. Transfer of ownership of any copy of a work of visual art, or of a copyright or any exclusive right under a copyright, shall not constitute a waiver of the rights conferred by subsection (a). Except as may otherwise be agreed by the author in a written instrument signed by the author, a waiver of the rights conferred by subsection (a) with respect to a work of visual art shall not constitute a transfer of ownership of any copy of that work, or of ownership of a copyright or of any exclusive right under a copyright in that work.
 
-(Added Pub. L. 101–650, title VI, § 603(a), Dec. 1, 1990, 104 Stat. 5128.)
+(Added Pub. L. 101–650, title VI, § 603(a), Dec. 1, 1990, 104 Stat. 5128.)
 
 **Editorial Notes**
 
@@ -1381,7 +1381,7 @@ Section 610(a) of the Visual Artists Rights Act of 1990 [Pub. L. 101–650], ref
 
 **Effective Date**
 
-Pub. L. 101–650, title VI, § 610, Dec. 1, 1990, 104 Stat. 5132, provided that:
+Pub. L. 101–650, title VI, § 610, Dec. 1, 1990, 104 Stat. 5132, provided that:
 
 > **“(a) In General.—** Subject to subsection (b) and except as provided in subsection (c), this title [enacting this section, amending sections 101, 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and section 101 of this title] and the amendments made by this title take effect 6 months after the date of the enactment of this Act [Dec. 1, 1990].
 
@@ -1395,9 +1395,9 @@ Pub. L. 101–650, title VI, § 610, Dec. 1, 1990, 104 Stat. 5132, provided th
 
 **Studies by Copyright Office**
 
-Pub. L. 101–650, title VI, § 608, Dec. 1, 1990, 104 Stat. 5132, directed the Register of Copyrights to study the extent to which authorship rights have been waived by visual artists under this section and to submit a final report to Congress not later than 5 years after Dec. 1, 1990, and also directed the Register of Copyrights to study the feasibility of implementing a requirement that, after the first sale of a work of art, would enable authors of visual art to share monetarily in the resale and enhanced value of that work, with a report to Congress due not later than 18 months after Dec. 1, 1990.
+Pub. L. 101–650, title VI, § 608, Dec. 1, 1990, 104 Stat. 5132, directed the Register of Copyrights to study the extent to which authorship rights have been waived by visual artists under this section and to submit a final report to Congress not later than 5 years after Dec. 1, 1990, and also directed the Register of Copyrights to study the feasibility of implementing a requirement that, after the first sale of a work of art, would enable authors of visual art to share monetarily in the resale and enhanced value of that work, with a report to Congress due not later than 18 months after Dec. 1, 1990.
 
-## § 107. Limitations on exclusive rights: Fair use
+## § 107. Limitations on exclusive rights: Fair use
 
 Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include—
 
@@ -1411,7 +1411,7 @@ Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyr
 
 The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–650, title VI, § 607, Dec. 1, 1990, 104 Stat. 5132; Pub. L. 102–492, Oct. 24, 1992, 106 Stat. 3145.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 101–650, title VI, § 607, Dec. 1, 1990, 104 Stat. 5132; Pub. L. 102–492, Oct. 24, 1992, 106 Stat. 3145.)
 
 **Historical and Revision Notes**
 
@@ -1431,7 +1431,7 @@ The Committee has amended the first of the criteria to be considered—“the pu
 
 **Intention as to Classroom Reproduction.** Although the works and uses to which the doctrine of fair use is applicable are as broad as the copyright law itself, most of the discussion of section 107 has centered around questions of classroom reproduction, particularly photocopying. The arguments on the question are summarized at pp. 30–31 of this Committee’s 1967 report (H.R. Rep. No. 83, 90th Cong., 1st Sess.), and have not changed materially in the intervening years.
 
-The Committee also adheres to its earlier conclusion, that “a specific exemption freeing certain reproductions of copyrighted works for educational and scholarly purposes from copyright control is not justified.” At the same time the Committee recognizes, as it did in 1967, that there is a “need for greater certainty and protection for teachers.” In an effort to meet this need the Committee has not only adopted further amendments to section 107, but has also amended section 504(c) to provide innocent teachers and other non-profit users of copyrighted material with broad insulation against unwarranted liability for infringement. The latter amendments are discussed below in connection with Chapter 5 of the bill [§ 501 et seq. of this title].
+The Committee also adheres to its earlier conclusion, that “a specific exemption freeing certain reproductions of copyrighted works for educational and scholarly purposes from copyright control is not justified.” At the same time the Committee recognizes, as it did in 1967, that there is a “need for greater certainty and protection for teachers.” In an effort to meet this need the Committee has not only adopted further amendments to section 107, but has also amended section 504(c) to provide innocent teachers and other non-profit users of copyrighted material with broad insulation against unwarranted liability for infringement. The latter amendments are discussed below in connection with Chapter 5 of the bill [§ 501 et seq. of this title].
 
 In 1967 the Committee also sought to approach this problem by including, in its report, a very thorough discussion of “the considerations lying behind the four criteria listed in the amended section 107, in the context of typical classroom situations arising today.” This discussion appeared on pp. 32–35 of the 1967 report, and with some changes has been retained in the Senate report on S. 22 (S. Rep. No. 94–473, pp. 63–65). The Committee has reviewed this discussion, and considers that it still has value as an analysis of various aspects of the problem.
 
@@ -1591,7 +1591,7 @@ B. *Prohibitions*
 
 The problem of off-the-air taping for nonprofit classroom use of copyrighted audiovisual works incorporated in radio and television broadcasts has proved to be difficult to resolve. The Committee believes that the fair use doctrine has some limited application in this area, but it appears that the development of detailed guidelines will require a more thorough exploration than has so far been possible of the needs and problems of a number of different interests affected, and of the various legal problems presented. Nothing in section 107 or elsewhere in the bill is intended to change or prejudge the law on the point. On the other hand, the Committee is sensitive to the importance of the problem, and urges the representatives of the various interests, if possible under the leadership of the Register of Copyrights, to continue their discussions actively and in a constructive spirit. If it would be helpful to a solution, the Committee is receptive to undertaking further consideration of the problem in a future Congress.
 
-The Committee appreciates and commends the efforts and the cooperative and reasonable spirit of the parties who achieved the agreed guidelines on books and periodicals and on music. Representatives of the American Association of University Professors and of the Association of American Law Schools have written to the Committee strongly criticizing the guidelines, particularly with respect to multiple copying, as being too restrictive with respect to classroom situations at the university and graduate level. However, the Committee notes that the Ad Hoc group did include representatives of higher education, that the stated “purpose of the \* \* \* guidelines is to state the minimum and not the maximum standards of educational fair use” and that the agreement acknowledges “there may be instances in which copying which does not fall within the guidelines \* \* \* may nonetheless be permitted under the criteria of fair use.”
+The Committee appreciates and commends the efforts and the cooperative and reasonable spirit of the parties who achieved the agreed guidelines on books and periodicals and on music. Representatives of the American Association of University Professors and of the Association of American Law Schools have written to the Committee strongly criticizing the guidelines, particularly with respect to multiple copying, as being too restrictive with respect to classroom situations at the university and graduate level. However, the Committee notes that the Ad Hoc group did include representatives of higher education, that the stated “purpose of the \* \* \* guidelines is to state the minimum and not the maximum standards of educational fair use” and that the agreement acknowledges “there may be instances in which copying which does not fall within the guidelines \* \* \* may nonetheless be permitted under the criteria of fair use.”
 
 The Committee believes the guidelines are a reasonable interpretation of the minimum standards of fair use. Teachers will know that copying within the guidelines is fair use. Thus, the guidelines serve the purpose of fulfilling the need for greater certainty and protection for teachers. The Committee expresses the hope that if there are areas where standards other than these guidelines may be appropriate, the parties will continue their efforts to provide additional specific guidelines in the same spirit of good will and give and take that has marked the discussion of this subject in recent months.
 
@@ -1629,7 +1629,7 @@ The criteria of fair use are necessarily set forth in general terms. In the appl
 
 Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
-## § 108. Limitations on exclusive rights: Reproduction by libraries and archives
+## § 108. Limitations on exclusive rights: Reproduction by libraries and archives
 
 **(a)** Except as otherwise provided in this title and notwithstanding the provisions of section 106, it is not an infringement of copyright for a library or archives, or any of its employees acting within the scope of their employment, to reproduce no more than one copy or phonorecord of a work, except as provided in subsections (b) and (c), or to distribute such copy or phonorecord, under the conditions specified by this section, if—
 
@@ -1697,7 +1697,7 @@ For purposes of this subsection, a format shall be considered obsolete if the ma
 
 **(i)** The rights of reproduction and distribution under this section do not apply to a musical work, a pictorial, graphic or sculptural work, or a motion picture or other audiovisual work other than an audiovisual work dealing with news, except that no such limitation shall apply with respect to rights granted by subsections (b), (c), and (h), or with respect to pictorial or graphic works published as illustrations, diagrams, or similar adjuncts to works of which copies are reproduced or distributed in accordance with subsections (d) and (e).
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 102–307, title III, § 301, June 26, 1992, 106 Stat. 272; Pub. L. 105–80, § 12(a)(4), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title I, § 104, Oct. 27, 1998, 112 Stat. 2829; Pub. L. 105–304, title IV, § 404, Oct. 28, 1998, 112 Stat. 2889; Pub. L. 109–9, title IV, § 402, Apr. 27, 2005, 119 Stat. 227.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 102–307, title III, § 301, June 26, 1992, 106 Stat. 272; Pub. L. 105–80, § 12(a)(4), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title I, § 104, Oct. 27, 1998, 112 Stat. 2829; Pub. L. 105–304, title IV, § 404, Oct. 28, 1998, 112 Stat. 2889; Pub. L. 109–9, title IV, § 402, Apr. 27, 2005, 119 Stat. 227.)
 
 **Historical and Revision Notes**
 
@@ -1763,11 +1763,11 @@ Although subsection (h) generally removes musical, graphic, and audiovisual work
 
 2005—Subsec. (i). Pub. L. 109–9 substituted “(b), (c), and (h)” for “(b) and (c)”.
 
-1998—Subsec. (a). Pub. L. 105–304, § 404(1)(A), (B), in introductory provisions, substituted “Except as otherwise provided in this title and notwithstanding” for “Notwithstanding” and inserted “, except as provided in subsections (b) and (c)” after “of a work”.
+1998—Subsec. (a). Pub. L. 105–304, § 404(1)(A), (B), in introductory provisions, substituted “Except as otherwise provided in this title and notwithstanding” for “Notwithstanding” and inserted “, except as provided in subsections (b) and (c)” after “of a work”.
 
-Subsec. (a)(3). Pub. L. 105–304, § 404(1)(C), inserted before period at end “that appears on the copy or phonorecord that is reproduced under the provisions of this section, or includes a legend stating that the work may be protected by copyright if no such notice can be found on the copy or phonorecord that is reproduced under the provisions of this section”.
+Subsec. (a)(3). Pub. L. 105–304, § 404(1)(C), inserted before period at end “that appears on the copy or phonorecord that is reproduced under the provisions of this section, or includes a legend stating that the work may be protected by copyright if no such notice can be found on the copy or phonorecord that is reproduced under the provisions of this section”.
 
-Subsec. (b). Pub. L. 105–304, § 404(2), substituted “three copies or phonorecords” for “a copy or phonorecord”, struck out “in facsimile form” after “duplicated”, and substituted “if—
+Subsec. (b). Pub. L. 105–304, § 404(2), substituted “three copies or phonorecords” for “a copy or phonorecord”, struck out “in facsimile form” after “duplicated”, and substituted “if—
 
 “(1) the copy or phonorecord reproduced is currently in the collections of the library or archives; and
 
@@ -1775,7 +1775,7 @@ Subsec. (b). Pub. L. 105–304, § 404(2), substituted “three copies or phon
 
 for “if the copy or phonorecord reproduced is currently in the collections of the library or archives.”
 
-Subsec. (c). Pub. L. 105–304, § 404(3), substituted “three copies or phonorecords” for “a copy or phonorecord”, struck out “in facsimile form” after “duplicated”, inserted “or if the existing format in which the work is stored has become obsolete,” after “stolen,”, substituted “if—
+Subsec. (c). Pub. L. 105–304, § 404(3), substituted “three copies or phonorecords” for “a copy or phonorecord”, struck out “in facsimile form” after “duplicated”, inserted “or if the existing format in which the work is stored has become obsolete,” after “stolen,”, substituted “if—
 
 “(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price; and
 
@@ -1793,11 +1793,11 @@ Subsecs. (h), (i). Pub. L. 105–298 added subsec. (h) and redesignated former s
 
 **Effective Date of 1998 Amendments**
 
-Pub. L. 105–304, title IV, § 407, Oct. 28, 1998, 112 Stat. 2905, provided that: “Except as otherwise provided in this title [enacting section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 112, 114, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, and section 3 of Title 35, Patents, and enacting provisions set out as notes under sections 112 and 114 of this title], this title and the amendments made by this title shall take effect on the date of the enactment of this Act [Oct. 28, 1998].”
+Pub. L. 105–304, title IV, § 407, Oct. 28, 1998, 112 Stat. 2905, provided that: “Except as otherwise provided in this title [enacting section 4001 of Title 28, Judiciary and Judicial Procedure, amending this section, sections 112, 114, 701, and 801 to 803 of this title, section 5314 of Title 5, Government Organization and Employees, and section 3 of Title 35, Patents, and enacting provisions set out as notes under sections 112 and 114 of this title], this title and the amendments made by this title shall take effect on the date of the enactment of this Act [Oct. 28, 1998].”
 
-Pub. L. 105–298, title I, § 106, Oct. 27, 1998, 112 Stat. 2829, provided that: “This title [amending this section and sections 203 and 301 to 304 of this title, enacting provisions set out as a note under section 101 of this title, and amending provisions set out as notes under sections 101 and 304 of this title] and the amendments made by this title shall take effect on the date of the enactment of this Act [Oct. 27, 1998].”
+Pub. L. 105–298, title I, § 106, Oct. 27, 1998, 112 Stat. 2829, provided that: “This title [amending this section and sections 203 and 301 to 304 of this title, enacting provisions set out as a note under section 101 of this title, and amending provisions set out as notes under sections 101 and 304 of this title] and the amendments made by this title shall take effect on the date of the enactment of this Act [Oct. 27, 1998].”
 
-## § 109. Limitations on exclusive rights: Effect of transfer of particular copy or phonorecord
+## § 109. Limitations on exclusive rights: Effect of transfer of particular copy or phonorecord
 
 **(a)** Notwithstanding the provisions of section 106(3), the owner of a particular copy or phonorecord lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to sell or otherwise dispose of the possession of that copy or phonorecord. Notwithstanding the preceding sentence, copies or phonorecords of works subject to restored copyright under section 104A that are manufactured before the date of restoration of copyright or, with respect to reliance parties, before publication or service of notice under section 104A(e), may be sold or otherwise disposed of without the authorization of the owner of the restored copyright for purposes of direct or indirect commercial advantage only during the 12-month period beginning on—
 
@@ -1837,7 +1837,7 @@ whichever occurs first.
 
 **(e)** Notwithstanding the provisions of sections 106(4) and 106(5), in the case of an electronic audiovisual game intended for use in coin-operated equipment, the owner of a particular copy of such a game lawfully made under this title, is entitled, without the authority of the copyright owner of the game, to publicly perform or display that game in coin-operated equipment, except that this subsection shall not apply to any work of authorship embodied in the audiovisual game if the copyright owner of the electronic audiovisual game is not also the copyright owner of the work of authorship.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2548; Pub. L. 98–450, § 2, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 100–617, § 2, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 101–650, title VIII, §§ 802, 803, Dec. 1, 1990, 104 Stat. 5134, 5135; Pub. L. 103–465, title V, § 514(b), Dec. 8, 1994, 108 Stat. 4981; Pub. L. 105–80, § 12(a)(5), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 110–403, title II, § 209(a)(1), Oct. 13, 2008, 122 Stat. 4264.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2548; Pub. L. 98–450, § 2, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 100–617, § 2, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 101–650, title VIII, §§ 802, 803, Dec. 1, 1990, 104 Stat. 5134, 5135; Pub. L. 103–465, title V, § 514(b), Dec. 8, 1994, 108 Stat. 4981; Pub. L. 105–80, § 12(a)(5), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 110–403, title II, § 209(a)(1), Oct. 13, 2008, 122 Stat. 4264.)
 
 **Historical and Revision Notes**
 
@@ -1889,15 +1889,15 @@ Section 5 of the Federal Trade Commission Act, referred to in subsec. (b)(3), is
 
 whichever occurs first.”
 
-1990—Subsec. (b)(1). Pub. L. 101–650, § 802(2), added par. (1) and struck out former par. (1) which read as follows: “Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording and in the musical works embodied therein, the owner of a particular phonorecord may not, for purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution.”
+1990—Subsec. (b)(1). Pub. L. 101–650, § 802(2), added par. (1) and struck out former par. (1) which read as follows: “Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording and in the musical works embodied therein, the owner of a particular phonorecord may not, for purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution.”
 
-Subsec. (b)(2), (3). Pub. L. 101–650, § 802(1), (2), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (b)(2), (3). Pub. L. 101–650, § 802(1), (2), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (b)(4). Pub. L. 101–650, § 802(3), added par. (4) and struck out former par. (4) which read as follows: “Any person who distributes a phonorecord in violation of clause (1) is an infringer of copyright under section 501 of this title and is subject to the remedies set forth in sections 502, 503, 504, 505, and 509. Such violation shall not be a criminal offense under section 506 or cause such person to be subject to the criminal penalties set forth in section 2319 of title 18.”
+Subsec. (b)(4). Pub. L. 101–650, § 802(3), added par. (4) and struck out former par. (4) which read as follows: “Any person who distributes a phonorecord in violation of clause (1) is an infringer of copyright under section 501 of this title and is subject to the remedies set forth in sections 502, 503, 504, 505, and 509. Such violation shall not be a criminal offense under section 506 or cause such person to be subject to the criminal penalties set forth in section 2319 of title 18.”
 
-Pub. L. 101–650, § 802(1), redesignated par. (3) as (4).
+Pub. L. 101–650, § 802(1), redesignated par. (3) as (4).
 
-Subsec. (e). Pub. L. 101–650, § 803, added subsec. (e).
+Subsec. (e). Pub. L. 101–650, § 803, added subsec. (e).
 
 1988—Subsec. (d). Pub. L. 100–617 substituted “(a) and (c)” for “(a) and (b)” and “copyright” for “coyright”.
 
@@ -1907,7 +1907,7 @@ Subsec. (e). Pub. L. 101–650, § 803, added subsec. (e).
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–650, title VIII, § 804, Dec. 1, 1990, 104 Stat. 5136, as amended by Pub. L. 103–465, title V, § 511, Dec. 8, 1994, 108 Stat. 4974, provided that:
+Pub. L. 101–650, title VIII, § 804, Dec. 1, 1990, 104 Stat. 5136, as amended by Pub. L. 103–465, title V, § 511, Dec. 8, 1994, 108 Stat. 4974, provided that:
 
 > **“(a) In General.—** Subject to subsection (b), this title [amending this section and enacting provisions set out as notes under sections 101 and 205 of this title] and the amendments made in section 802 [amending this section] shall take effect on the date of the enactment of this Act [Dec. 1, 1990]. The amendment made by section 803 [amending this section] shall take effect one year after such date of enactment.
 
@@ -1917,7 +1917,7 @@ Pub. L. 101–650, title VIII, § 804, Dec. 1, 1990, 104 Stat. 5136, as amende
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–450, § 4, Oct. 4, 1984, 98 Stat. 1728, as amended by Pub. L. 100–617, § 1, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 103–182, title III, § 332, Dec. 8, 1993, 107 Stat. 2114, provided that:
+Pub. L. 98–450, § 4, Oct. 4, 1984, 98 Stat. 1728, as amended by Pub. L. 100–617, § 1, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 103–182, title III, § 332, Dec. 8, 1993, 107 Stat. 2114, provided that:
 
 > **“(a)** The amendments made by this Act [amending this section and section 115 of this title and enacting provisions set out as a note under section 101 of this title] shall take effect on the date of the enactment of this Act [Oct. 4, 1984].
 
@@ -1927,7 +1927,7 @@ Pub. L. 98–450, § 4, Oct. 4, 1984, 98 Stat. 1728, as amended by Pub. L. 100
 
 **Evaluation of Impact of Copyright Law and Amendments on Electronic Commerce and Technological Development**
 
-Pub. L. 105–304, title I, § 104, Oct. 28, 1998, 112 Stat. 2876, provided that:
+Pub. L. 105–304, title I, § 104, Oct. 28, 1998, 112 Stat. 2876, provided that:
 
 > **“(a) Evaluation by the Register of Copyrights and the Assistant Secretary for Communications and Information.—** The Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall jointly evaluate—
 
@@ -1937,7 +1937,7 @@ Pub. L. 105–304, title I, § 104, Oct. 28, 1998, 112 Stat. 2876, provided th
 
 > **“(b) Report to Congress.—** The Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall, not later than 24 months after the date of the enactment of this Act [Oct. 28, 1998], submit to the Congress a joint report on the evaluation conducted under subsection (a), including any legislative recommendations the Register and the Assistant Secretary may have.”
 
-## § 110. Limitations on exclusive rights: Exemption of certain performances and displays
+## § 110. Limitations on exclusive rights: Exemption of certain performances and displays
 
 Notwithstanding the provisions of section 106, the following are not infringements of copyright:
 
@@ -2013,7 +2013,7 @@ Notwithstanding the provisions of section 106, the following are not infringemen
 
 **(6)** performance of a nondramatic musical work by a governmental body or a nonprofit agricultural or horticultural organization, in the course of an annual agricultural or horticultural fair or exhibition conducted by such body or organization; the exemption provided by this clause shall extend to any liability for copyright infringement that would otherwise be imposed on such body or organization, under doctrines of vicarious liability or related infringement, for a performance by a concessionnaire,1
 
-<sup>1</sup>  So in original. Probably should be “concessionaire”.
+<sup>1</sup> So in original. Probably should be “concessionaire”.
 
 business establishment, or other person at such fair or exhibition, but shall not excuse any such person from liability for the performance;
 
@@ -2043,7 +2043,7 @@ For purposes of paragraph (11), the term “making imperceptible” does not inc
 
 Nothing in paragraph (11) shall be construed to imply further rights under section 106 of this title, or to have any effect on defenses or limitations on rights granted under any other section of this title or under any other paragraph of this section.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2549; Pub. L. 97–366, § 3, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 105–80, § 12(a)(6), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title II, § 202, Oct. 27, 1998, 112 Stat. 2830; Pub. L. 106–44, § 1(a), Aug. 5, 1999, 113 Stat. 221; Pub. L. 107–273, div. C, title III, §§ 13210(6), 13301(b), Nov. 2, 2002, 116 Stat. 1909, 1910; Pub. L. 109–9, title II, § 202(a), Apr. 27, 2005, 119 Stat. 223.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2549; Pub. L. 97–366, § 3, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 105–80, § 12(a)(6), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–298, title II, § 202, Oct. 27, 1998, 112 Stat. 2830; Pub. L. 106–44, § 1(a), Aug. 5, 1999, 113 Stat. 221; Pub. L. 107–273, div. C, title III, §§ 13210(6), 13301(b), Nov. 2, 2002, 116 Stat. 1909, 1910; Pub. L. 109–9, title II, § 202(a), Apr. 27, 2005, 119 Stat. 223.)
 
 **Historical and Revision Notes**
 
@@ -2131,13 +2131,13 @@ Under the particular fact situation in the *Aiken* case, assuming a small commer
 
 **Amendments**
 
-2005—Pub. L. 109–9, § 202(a)(4), inserted two pars. relating to par. (11) at end of concluding provisions.
+2005—Pub. L. 109–9, § 202(a)(4), inserted two pars. relating to par. (11) at end of concluding provisions.
 
-Par. (11). Pub. L. 109–9, § 202(a)(1)–(3), added par. (11).
+Par. (11). Pub. L. 109–9, § 202(a)(1)–(3), added par. (11).
 
-2002—Pub. L. 107–273, § 13301(b)(2), inserted concluding provisions relating to par. (2).
+2002—Pub. L. 107–273, § 13301(b)(2), inserted concluding provisions relating to par. (2).
 
-Par. (2). Pub. L. 107–273, § 13301(b)(1), added par. (2) and struck out former par. (2) which read as follows: “performance of a nondramatic literary or musical work or display of a work, by or in the course of a transmission, if—
+Par. (2). Pub. L. 107–273, § 13301(b)(1), added par. (2) and struck out former par. (2) which read as follows: “performance of a nondramatic literary or musical work or display of a work, by or in the course of a transmission, if—
 
 “(A) the performance or display is a regular part of the systematic instructional activities of a governmental body or a nonprofit educational institution; and
 
@@ -2151,21 +2151,21 @@ Par. (2). Pub. L. 107–273, § 13301(b)(1), added par. (2) and struck out for
 
 “(iii) reception by officers or employees of governmental bodies as a part of their official duties or employment;”.
 
-Par. (4)(B). Pub. L. 107–273, § 13210(6), substituted colon for semicolon at end of introductory provisions.
+Par. (4)(B). Pub. L. 107–273, § 13210(6), substituted colon for semicolon at end of introductory provisions.
 
 1999—Par. (5)(A). Pub. L. 106–44 redesignated cls. (A) and (B) as (i) and (ii), respectively.
 
-1998—Pub. L. 105–298, § 202(a)(2), inserted concluding provisions relating to par. (5).
+1998—Pub. L. 105–298, § 202(a)(2), inserted concluding provisions relating to par. (5).
 
-Par. (5). Pub. L. 105–298, § 202(a)(1), designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),” after “(A)”, and added subpar. (B).
+Par. (5). Pub. L. 105–298, § 202(a)(1), designated existing provisions as subpar. (A), inserted “except as provided in subparagraph (B),” after “(A)”, and added subpar. (B).
 
-Par. (7). Pub. L. 105–298, § 202(b), inserted “or of the audiovisual or other devices utilized in such performance,” after “phonorecords of the work,”.
+Par. (7). Pub. L. 105–298, § 202(b), inserted “or of the audiovisual or other devices utilized in such performance,” after “phonorecords of the work,”.
 
-1997—Par. (8). Pub. L. 105–80, § 12(a)(6)(A), substituted semicolon for period at end.
+1997—Par. (8). Pub. L. 105–80, § 12(a)(6)(A), substituted semicolon for period at end.
 
-Par. (9). Pub. L. 105–80, § 12(a)(6)(B), substituted “; and” for period at end.
+Par. (9). Pub. L. 105–80, § 12(a)(6)(B), substituted “; and” for period at end.
 
-Par. (10). Pub. L. 105–80, § 12(a)(6)(C), substituted “paragraph (4)” for “paragraph 4 above”.
+Par. (10). Pub. L. 105–80, § 12(a)(6)(C), substituted “paragraph (4)” for “paragraph 4 above”.
 
 1982—Par. (10). Pub. L. 97–366 added par. (10).
 
@@ -2179,7 +2179,7 @@ Amendment by Pub. L. 105–298 effective 90 days after Oct. 27, 1998, see sectio
 
 Amendment by Pub. L. 97–366 effective 30 days after Oct. 25, 1982, see section 2 of Pub. L. 97–366, set out as a note under section 708 of this title.
 
-## § 111. Limitations on exclusive rights: Secondary transmissions of broadcast programming by cable
+## § 111. Limitations on exclusive rights: Secondary transmissions of broadcast programming by cable
 
 **(a) Certain Secondary Transmissions Exempted.—** The secondary transmission of a performance or display of a work embodied in a primary transmission is not an infringement of copyright if—
 
@@ -2305,9 +2305,9 @@ Amendment by Pub. L. 97–366 effective 30 days after Oct. 25, 1982, see section
 
 **(e) Nonsimultaneous Secondary Transmissions by Cable Systems.—**
 
-**(1)** Notwithstanding those provisions of the 1
+**(1)** Notwithstanding those provisions of the 1
 
-<sup>1</sup>  So in original. The word “the” probably should not appear.
+<sup>1</sup> So in original. The word “the” probably should not appear.
 
 subsection (f)(2) relating to nonsimultaneous secondary transmissions by a cable system, any such transmissions are actionable as an act of infringement under section 501, and are fully subject to the remedies provided by sections 502 through 506 and section 510, unless—
 
@@ -2355,13 +2355,13 @@ subsection (f)(2) relating to nonsimultaneous secondary transmissions by a cable
 
 **(B) Exceptions.—** The values for independent, network, and noncommercial educational stations specified in subparagraph (A) are subject to the following:
 
-**(i)** Where the rules and regulations of the Federal Communications Commission require a cable system to omit the further transmission of a particular program and such rules and regulations also permit the substitution of another program embodying a performance or display of a work in place of the omitted transmission, or where such rules and regulations in effect on the date of the enactment of the Copyright Act of 1976 2
+**(i)** Where the rules and regulations of the Federal Communications Commission require a cable system to omit the further transmission of a particular program and such rules and regulations also permit the substitution of another program embodying a performance or display of a work in place of the omitted transmission, or where such rules and regulations in effect on the date of the enactment of the Copyright Act of 1976 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 permit a cable system, at its election, to effect such omission and substitution of a nonlive program or to carry additional programs not transmitted by primary transmitters within whose local service area the cable system is located, no value shall be assigned for the substituted or additional program.
 
-**(ii)** Where the rules, regulations, or authorizations of the Federal Communications Commission in effect on the date of the enactment of the Copyright Act of 1976 <sup>2</sup> permit a cable system, at its election, to omit the further transmission of a particular program and such rules, regulations, or authorizations also permit the substitution of another program embodying a performance or display of a work in place of the omitted transmission, the value assigned for the substituted or additional program shall be, in the case of a live program, the value of one full distant signal equivalent multiplied by a fraction that has as its numerator the number of days in the year in which such substitution occurs and as its denominator the number of days in the year.
+**(ii)** Where the rules, regulations, or authorizations of the Federal Communications Commission in effect on the date of the enactment of the Copyright Act of 1976 <sup>2</sup> permit a cable system, at its election, to omit the further transmission of a particular program and such rules, regulations, or authorizations also permit the substitution of another program embodying a performance or display of a work in place of the omitted transmission, the value assigned for the substituted or additional program shall be, in the case of a live program, the value of one full distant signal equivalent multiplied by a fraction that has as its numerator the number of days in the year in which such substitution occurs and as its denominator the number of days in the year.
 
 **(iii)** In the case of the secondary transmission of a primary transmitter that is a television broadcast station pursuant to the late-night or specialty programming rules of the Federal Communications Commission, or the secondary transmission of a primary transmitter that is a television broadcast station on a part-time basis where full-time carriage is not possible because the cable system lacks the activated channel capacity to retransmit on a full-time basis all signals that it is authorized to carry, the values for independent, network, and noncommercial educational stations set forth in subparagraph (A), as the case may be, shall be multiplied by a fraction that is equal to the ratio of the broadcast hours of such primary transmitter retransmitted by the cable system to the total broadcast hours of the primary transmitter.
 
@@ -2399,7 +2399,7 @@ permit a cable system, at its election, to effect such omission and substitution
 
 **(B) Subscribe.—** The term “subscribe” means to elect to become a subscriber.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2550; Pub. L. 99–397, §§ 1, 2(a), (b), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–667, title II, § 202(1), Nov. 16, 1988, 102 Stat. 3949; Pub. L. 101–318, § 3(a), July 3, 1990, 104 Stat. 288; Pub. L. 103–198, § 6(a), Dec. 17, 1993, 107 Stat. 2311; Pub. L. 103–369, § 3, Oct. 18, 1994, 108 Stat. 3480; Pub. L. 104–39, § 5(b), Nov. 1, 1995, 109 Stat. 348; Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1011(a)(1), (2), (b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–543; Pub. L. 108–419, § 5(a), Nov. 30, 2004, 118 Stat. 2361; Pub. L. 108–447, div. J, title IX [title I, § 107(b)], Dec. 8, 2004, 118 Stat. 3406; Pub. L. 109–303, § 4(a), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 110–229, title VIII, § 807, May 8, 2008, 122 Stat. 874; Pub. L. 110–403, title II, § 209(a)(2), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–175, title I, § 104(a)(1), (b), (c), (e), (g), May 27, 2010, 124 Stat. 1231, 1235, 1238; Pub. L. 113–200, title II, §§ 201(1), 203, Dec. 4, 2014, 128 Stat. 2066, 2067.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2550; Pub. L. 99–397, §§ 1, 2(a), (b), Aug. 27, 1986, 100 Stat. 848; Pub. L. 100–667, title II, § 202(1), Nov. 16, 1988, 102 Stat. 3949; Pub. L. 101–318, § 3(a), July 3, 1990, 104 Stat. 288; Pub. L. 103–198, § 6(a), Dec. 17, 1993, 107 Stat. 2311; Pub. L. 103–369, § 3, Oct. 18, 1994, 108 Stat. 3480; Pub. L. 104–39, § 5(b), Nov. 1, 1995, 109 Stat. 348; Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1011(a)(1), (2), (b)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–543; Pub. L. 108–419, § 5(a), Nov. 30, 2004, 118 Stat. 2361; Pub. L. 108–447, div. J, title IX [title I, § 107(b)], Dec. 8, 2004, 118 Stat. 3406; Pub. L. 109–303, § 4(a), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 110–229, title VIII, § 807, May 8, 2008, 122 Stat. 874; Pub. L. 110–403, title II, § 209(a)(2), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–175, title I, § 104(a)(1), (b), (c), (e), (g), May 27, 2010, 124 Stat. 1231, 1235, 1238; Pub. L. 113–200, title II, §§ 201(1), 203, Dec. 4, 2014, 128 Stat. 2066, 2067.)
 
 **Historical and Revision Notes**
 
@@ -2425,7 +2425,7 @@ In general, the Committee believes that cable systems are commercial enterprises
 
 The compulsory license is conditioned, however, on certain requirements and limitations. These include compliance with reporting requirements, payment of the royalty fees established in the bill, a ban on the substitution or deletion of commercial advertising, and geographic limits on the compulsory license for copyrighted programs broadcast by Canadian or Mexican stations. Failure to comply with these requirements and limitations subjects a cable system to a suit for copyright infringement and the remedies provided under the bill for such actions.
 
-In setting a royalty fee schedule for the compulsory license, the Committee determined that the initial schedule should be established in the bill. It recognized, however, that adjustments to the schedule would be required from time to time. Accordingly, the Copyright Royalty Commission, established in chapter 8 [§ 801 et seq. of this title], is empowered to make the adjustments in the initial rates, at specified times, based on standards and conditions set forth in the bill.
+In setting a royalty fee schedule for the compulsory license, the Committee determined that the initial schedule should be established in the bill. It recognized, however, that adjustments to the schedule would be required from time to time. Accordingly, the Copyright Royalty Commission, established in chapter 8 [§ 801 et seq. of this title], is empowered to make the adjustments in the initial rates, at specified times, based on standards and conditions set forth in the bill.
 
 In setting an initial fee schedule, the Senate bill based the royalty fee on a sliding scale related to the gross receipts of a cable system for providing the basic retransmission service and rejected a statutory scheme that would distinguish between “local” and “distant” signals. The Committee determined, however, that there was no evidence that the retransmission of “local” broadcast signals by a cable operator threatens the existing market for copyright program owners. Similarly, the retransmission of network programing, including network programing which is broadcast in “distant” markets, does not injure the copyright owner. The copyright owner contracts with the network on the basis of his programing reaching all markets served by the network and is compensated accordingly.
 
@@ -2497,7 +2497,7 @@ In lieu of the payments required in subclause (B), systems earning less than $80
 
 Under subclause (D), cable systems with semi-annual gross subscriber receipts of between $80,000 and $160,000 are to pay royalty fees of .5 of 1 percent of such actual gross receipts up to $80,000, and 1 percent of any actual gross receipts in excess of $80,000. The royalty fee payments under both subclauses (C) and (D) are to be determined without regard to the number of distant signal equivalents, if any, carried by the subject cable systems.
 
-**Copyright Royalty Distribution.** Section 111(d)(3) provides that the royalty fees paid by cable systems under the compulsory license shall be received by the Register of Copyrights and, after deducting the reasonable costs incurred by the Copyright Office, deposited in the Treasury of the United States. The fees are distributed subsequently, pursuant to the determination of the Copyright Royalty Commission under chapter 8 [§ 801 et seq. of this title].
+**Copyright Royalty Distribution.** Section 111(d)(3) provides that the royalty fees paid by cable systems under the compulsory license shall be received by the Register of Copyrights and, after deducting the reasonable costs incurred by the Copyright Office, deposited in the Treasury of the United States. The fees are distributed subsequently, pursuant to the determination of the Copyright Royalty Commission under chapter 8 [§ 801 et seq. of this title].
 
 The copyright owners entitled to participate in the distribution of the royalty fees paid by cable systems under the compulsory license are specified in section 111(d)(4). Consistent with the Committee’s view that copyright royalty fees should be made only for the retransmission of distant non-network programming, the claimants are limited to (1) copyright owners whose works were included in a secondary transmission made by a cable system of a distant non-network television program; (2) any copyright owner whose work is included in a secondary transmission identified in a special statement of account deposited under section 111(d)(2)(A); and (3) any copyright owner whose work was included in distant non-network programming consisting exclusively of aural signals. Thus, no royalty fees may be claimed or distributed to copyright owners for the retransmission of either “local” or “network” programs.
 
@@ -2505,7 +2505,7 @@ The Committee recognizes that the bill does not include specific provisions to g
 
 Should disputes arise, however, between the different classes of copyright claimants, the Committee believes that the Copyright Royalty Commission should consider that with respect to the copyright owners of “live” programs identified by the special statement of account deposited under Section 111(d)(2)(A), a special payment is provided in Section 111(f).
 
-Section 111(d)(5) sets forth the procedure for the distribution of the royalty fees paid by cable systems. During the month of July of each year, every person claiming to be entitled to compulsory license fees must file a claim with the Copyright Royalty Commission, in accordance with such provisions as the Commission shall establish. In particular, the Commission may establish the relevant period covered by such claims after giving adequate time for copyright owners to review and consider the statements of account filed by cable systems. Notwithstanding any provisions of the antitrust laws, the claimants may agree among themselves as to the division and distribution of such fees. After the first day of August of each year, the Copyright Royalty Commission shall determine whether a controversy exists concerning the distribution of royalty fees. If no controversy exists, the Commission, after deducting its reasonable administrative costs, shall distribute the fees to the copyright owners entitled or their agents. If the Commission finds the existence of a controversy, it shall, pursuant to the provisions of chapter 8 [§ 801 et seq. of this title], conduct a proceeding to determine the distribution of royalty fees.
+Section 111(d)(5) sets forth the procedure for the distribution of the royalty fees paid by cable systems. During the month of July of each year, every person claiming to be entitled to compulsory license fees must file a claim with the Copyright Royalty Commission, in accordance with such provisions as the Commission shall establish. In particular, the Commission may establish the relevant period covered by such claims after giving adequate time for copyright owners to review and consider the statements of account filed by cable systems. Notwithstanding any provisions of the antitrust laws, the claimants may agree among themselves as to the division and distribution of such fees. After the first day of August of each year, the Copyright Royalty Commission shall determine whether a controversy exists concerning the distribution of royalty fees. If no controversy exists, the Commission, after deducting its reasonable administrative costs, shall distribute the fees to the copyright owners entitled or their agents. If the Commission finds the existence of a controversy, it shall, pursuant to the provisions of chapter 8 [§ 801 et seq. of this title], conduct a proceeding to determine the distribution of royalty fees.
 
 **Off-Shore Taping by Cable Systems.** Section 111(e) establishes the conditions and limitation upon which certain cable systems located outside the continental United States, and specified in subsection (f), may make tapes of copyrighted programs and retransmit the taped programs to their subscribers upon payment of the compulsory license fee. These conditions and limitations include compliance with detailed transmission, record keeping, and other requirements. Their purpose is to control carefully the use of any tapes made pursuant to the limited recording and retransmission authority established in subsection (f), and to insure that the limited objective of assimilating offshore cable systems to systems within the United States for purposes of the compulsory license is not exceeded. Any secondary transmission by a cable system entitled to the benefits of the taping authorization that does not comply with the requirements of section 111(e) is an act of infringement and is fully subject to all the remedies provided in the legislation for such actions.
 
@@ -2517,7 +2517,7 @@ The effect of this definition is to permit certain cable systems in offshore are
 
 *Cable System*. The definition of a “cable system” establishes that it is a facility that in whole or in part receives signals of one or more television broadcast stations licensed by the FCC and makes secondary transmissions of such signals to subscribing members of the public who pay for such service. A closed circuit wire system that only originates programs and does not carry television broadcast signals would not come within the definition. Further, the definition provides that, in determining the applicable royalty fee and system classification under subsection (d)(2)(B), (C), or (D) cable systems in contiguous communities under common ownership or control or operating from one headend are considered as one system.
 
-*Local Service Area of a Primary Transmitter*. The definition of “local service area of a primary transmitter” establishes the difference between “local” and “distant” signals and therefore the line between signals which are subject to payment under the compulsory license and those that are not. It provides that the local service area of a television broadcast station is the area in which the station is entitled to insist upon its signal being retransmitted by a cable system pursuant to FCC rules and regulations. Under FCC rules and regulations this so-called “must carry” area is defined based on the market size and position of cable systems in 47 C.F.R. §§ 76.57, 76.59, 76.61 and 76.63. The definition is limited, however, to the FCC rules in effect on April 15, 1976. The purpose of this limitation is to insure that any subsequent rule amendments by the FCC that either increase or decrease the size of the local service area for its purposes do not change the definition for copyright purposes. The Committee believes that any such change for copyright purposes, which would materially affect the royalty fee payments provided in the legislation, should only be made by an amendment to the statute.
+*Local Service Area of a Primary Transmitter*. The definition of “local service area of a primary transmitter” establishes the difference between “local” and “distant” signals and therefore the line between signals which are subject to payment under the compulsory license and those that are not. It provides that the local service area of a television broadcast station is the area in which the station is entitled to insist upon its signal being retransmitted by a cable system pursuant to FCC rules and regulations. Under FCC rules and regulations this so-called “must carry” area is defined based on the market size and position of cable systems in 47 C.F.R. §§ 76.57, 76.59, 76.61 and 76.63. The definition is limited, however, to the FCC rules in effect on April 15, 1976. The purpose of this limitation is to insure that any subsequent rule amendments by the FCC that either increase or decrease the size of the local service area for its purposes do not change the definition for copyright purposes. The Committee believes that any such change for copyright purposes, which would materially affect the royalty fee payments provided in the legislation, should only be made by an amendment to the statute.
 
 The “local service area of a primary transmitter” of a Canadian or Mexican television station is defined as the area in which such station would be entitled to insist upon its signals being retransmitted if it were a television broadcast station subject to FCC rules and regulations. Since the FCC does not permit a television station licensed in a foreign country to assert a claim to carriage by a U.S. cable system, the local service area of such foreign station is considered to be the same area as if it were a U.S. station.
 
@@ -2547,163 +2547,163 @@ Section 397 of the Communications Act of 1934, referred to in subsec. (f)(8), is
 
 **Amendments**
 
-2014—Subsec. (d)(3). Pub. L. 113–200, § 201(1), substituted “paragraph” for “clause” in introductory provisions and in subpar. (B).
+2014—Subsec. (d)(3). Pub. L. 113–200, § 201(1), substituted “paragraph” for “clause” in introductory provisions and in subpar. (B).
 
-Subsec. (f)(4). Pub. L. 113–200, § 203, in second sentence, inserted “as defined by the rules and regulations of the Federal Communications Commission,” after “television station,” and substituted “comprises the designated market area, as defined in section 122(j)(2)(C), that encompasses the community of license of such station and any community that is located outside such designated market area that is either wholly or partially within 35 miles of the transmitter site or,” for “comprises the area within 35 miles of the transmitter site, except that” and “wholly or partially within 20 miles of such transmitter site” for “the number of miles shall be 20 miles”.
+Subsec. (f)(4). Pub. L. 113–200, § 203, in second sentence, inserted “as defined by the rules and regulations of the Federal Communications Commission,” after “television station,” and substituted “comprises the designated market area, as defined in section 122(j)(2)(C), that encompasses the community of license of such station and any community that is located outside such designated market area that is either wholly or partially within 35 miles of the transmitter site or,” for “comprises the area within 35 miles of the transmitter site, except that” and “wholly or partially within 20 miles of such transmitter site” for “the number of miles shall be 20 miles”.
 
-2010—Pub. L. 111–175, § 104(a)(1), inserted “of broadcast programming by cable” after “transmissions” in section catchline.
+2010—Pub. L. 111–175, § 104(a)(1), inserted “of broadcast programming by cable” after “transmissions” in section catchline.
 
-Subsec. (a)(2), (3). Pub. L. 111–175, § 104(g)(1)(A), substituted “paragraph” for “clause”.
+Subsec. (a)(2), (3). Pub. L. 111–175, § 104(g)(1)(A), substituted “paragraph” for “clause”.
 
-Subsec. (a)(4). Pub. L. 111–175, § 104(b), substituted “or section 122;” for “; or”.
+Subsec. (a)(4). Pub. L. 111–175, § 104(b), substituted “or section 122;” for “; or”.
 
-Subsec. (c)(1). Pub. L. 111–175, § 104(g)(1)(B), substituted “paragraphs” for “clauses”.
+Subsec. (c)(1). Pub. L. 111–175, § 104(g)(1)(B), substituted “paragraphs” for “clauses”.
 
-Subsec. (c)(2) to (4). Pub. L. 111–175, § 104(g)(1)(A), substituted “paragraph” for “clause”.
+Subsec. (c)(2) to (4). Pub. L. 111–175, § 104(g)(1)(A), substituted “paragraph” for “clause”.
 
-Subsec. (d)(1). Pub. L. 111–175, § 104(c)(1)(A), inserted heading and, in introductory provisions, substituted “Subject to paragraph (5), a cable system whose secondary” for “A cable system whose secondary” and “by regulation the following:” for “by regulation—”.
+Subsec. (d)(1). Pub. L. 111–175, § 104(c)(1)(A), inserted heading and, in introductory provisions, substituted “Subject to paragraph (5), a cable system whose secondary” for “A cable system whose secondary” and “by regulation the following:” for “by regulation—”.
 
-Subsec. (d)(1)(A). Pub. L. 111–175, § 104(c)(1)(B), (g)(2), substituted “A statement of account” for “a statement of account”, “non-network” for “nonnetwork”, and “carriage.” for “carriage; and” at end.
+Subsec. (d)(1)(A). Pub. L. 111–175, § 104(c)(1)(B), (g)(2), substituted “A statement of account” for “a statement of account”, “non-network” for “nonnetwork”, and “carriage.” for “carriage; and” at end.
 
-Subsec. (d)(1)(B) to (G). Pub. L. 111–175, § 104(c)(1)(C), added subpars. (B) to (G) and struck out former subpars. (B) to (D) which established fee schedules for certain royalty fees to be paid by cable systems based upon the gross receipts received from subscribers.
+Subsec. (d)(1)(B) to (G). Pub. L. 111–175, § 104(c)(1)(C), added subpars. (B) to (G) and struck out former subpars. (B) to (D) which established fee schedules for certain royalty fees to be paid by cable systems based upon the gross receipts received from subscribers.
 
-Subsec. (d)(2). Pub. L. 111–175, § 104(c)(2), inserted heading and inserted “(including the filing fee specified in paragraph (1)(G))” after “shall receive all fees”.
+Subsec. (d)(2). Pub. L. 111–175, § 104(c)(2), inserted heading and inserted “(including the filing fee specified in paragraph (1)(G))” after “shall receive all fees”.
 
-Subsec. (d)(3). Pub. L. 111–175, § 104(c)(3)(A), inserted heading.
+Subsec. (d)(3). Pub. L. 111–175, § 104(c)(3)(A), inserted heading.
 
-Subsec. (d)(3)(A). Pub. L. 111–175, § 104(c)(3)(B), (g)(2), substituted “Any such” for “any such”, “non-network” for “nonnetwork”, and a period for “; and”.
+Subsec. (d)(3)(A). Pub. L. 111–175, § 104(c)(3)(B), (g)(2), substituted “Any such” for “any such”, “non-network” for “nonnetwork”, and a period for “; and”.
 
-Subsec. (d)(3)(B). Pub. L. 111–175, § 104(c)(3)(C), substituted “Any such” for “any such” and a period for the semicolon at end.
+Subsec. (d)(3)(B). Pub. L. 111–175, § 104(c)(3)(C), substituted “Any such” for “any such” and a period for the semicolon at end.
 
-Subsec. (d)(3)(C). Pub. L. 111–175, § 104(c)(3)(D), (g)(2), substituted “Any such” for “any such” and “non-network” for “nonnetwork”.
+Subsec. (d)(3)(C). Pub. L. 111–175, § 104(c)(3)(D), (g)(2), substituted “Any such” for “any such” and “non-network” for “nonnetwork”.
 
-Subsec. (d)(4). Pub. L. 111–175, § 104(c)(4), inserted heading.
+Subsec. (d)(4). Pub. L. 111–175, § 104(c)(4), inserted heading.
 
-Subsec. (d)(5) to (7). Pub. L. 111–175, § 104(c)(5), added pars. (5) to (7).
+Subsec. (d)(5) to (7). Pub. L. 111–175, § 104(c)(5), added pars. (5) to (7).
 
-Subsec. (e)(1). Pub. L. 111–175, § 104(g)(3), substituted “subsection (f)(2)” for “second paragraph of subsection (f)” in introductory provisions.
+Subsec. (e)(1). Pub. L. 111–175, § 104(g)(3), substituted “subsection (f)(2)” for “second paragraph of subsection (f)” in introductory provisions.
 
-Subsec. (e)(1)(A) to (C). Pub. L. 111–175, § 104(g)(4)(A)–(C), struck out “and” at end.
+Subsec. (e)(1)(A) to (C). Pub. L. 111–175, § 104(g)(4)(A)–(C), struck out “and” at end.
 
-Subsec. (e)(1)(C)(iv). Pub. L. 111–175, § 104(g)(1)(A), substituted “paragraph” for “clause”.
+Subsec. (e)(1)(C)(iv). Pub. L. 111–175, § 104(g)(1)(A), substituted “paragraph” for “clause”.
 
-Subsec. (e)(1)(D). Pub. L. 111–175, § 104(g)(4)(D), struck out “and” at end.
+Subsec. (e)(1)(D). Pub. L. 111–175, § 104(g)(4)(D), struck out “and” at end.
 
-Subsec. (e)(1)(D)(ii), (E). Pub. L. 111–175, § 104(g)(1)(A), substituted “paragraph” for “clause”.
+Subsec. (e)(1)(D)(ii), (E). Pub. L. 111–175, § 104(g)(1)(A), substituted “paragraph” for “clause”.
 
-Subsec. (e)(1)(F). Pub. L. 111–175, § 104(g)(1)(C), substituted “subparagraph” for “subclause”.
+Subsec. (e)(1)(F). Pub. L. 111–175, § 104(g)(1)(C), substituted “subparagraph” for “subclause”.
 
-Subsec. (e)(2). Pub. L. 111–175, § 104(g)(1)(A), (6), in introductory provisions, substituted “paragraph” for “clause” and “five entities” for “three territories”.
+Subsec. (e)(2). Pub. L. 111–175, § 104(g)(1)(A), (6), in introductory provisions, substituted “paragraph” for “clause” and “five entities” for “three territories”.
 
-Subsec. (e)(2)(A). Pub. L. 111–175, § 104(g)(4)(E), struck out “and” at end.
+Subsec. (e)(2)(A). Pub. L. 111–175, § 104(g)(4)(E), struck out “and” at end.
 
-Subsec. (e)(2)(B), (C). Pub. L. 111–175, § 104(g)(1)(A), substituted “paragraph” for “clause”.
+Subsec. (e)(2)(B), (C). Pub. L. 111–175, § 104(g)(1)(A), substituted “paragraph” for “clause”.
 
-Subsec. (e)(4). Pub. L. 111–175, § 104(g)(5)(A), struck out “, and each of its variant forms,” before “means the reproduction”.
+Subsec. (e)(4). Pub. L. 111–175, § 104(g)(5)(A), struck out “, and each of its variant forms,” before “means the reproduction”.
 
-Subsec. (f). Pub. L. 111–175, § 104(g)(5)(B), struck out “and their variant forms” after “terms” in introductory provisions.
+Subsec. (f). Pub. L. 111–175, § 104(g)(5)(B), struck out “and their variant forms” after “terms” in introductory provisions.
 
-Pub. L. 111–175, § 104(e)(5) to (8), designated undesignated par. which defined “distant signal equivalent” as par. (5), inserted par. (5) heading, and amended text generally, added pars. (6) to (8), and struck out last three undesignated pars. which defined “network station”, “independent station”, and “noncommercial educational station”, respectively.
+Pub. L. 111–175, § 104(e)(5) to (8), designated undesignated par. which defined “distant signal equivalent” as par. (5), inserted par. (5) heading, and amended text generally, added pars. (6) to (8), and struck out last three undesignated pars. which defined “network station”, “independent station”, and “noncommercial educational station”, respectively.
 
-Pub. L. 111–175, § 104(e)(4)(C), which directed amendment of “the fourth undesignated paragraph, in the first sentence” by striking out “as defined by the rules and regulations of the Federal Communications Commission,”, was executed by striking out such phrase after “television station,” in the second sentence of par. (4), to reflect the probable intent of Congress.
+Pub. L. 111–175, § 104(e)(4)(C), which directed amendment of “the fourth undesignated paragraph, in the first sentence” by striking out “as defined by the rules and regulations of the Federal Communications Commission,”, was executed by striking out such phrase after “television station,” in the second sentence of par. (4), to reflect the probable intent of Congress.
 
-Pub. L. 111–175, § 104(e)(1) to (4)(B), added par. (1) and struck out first undesignated par. which defined “primary transmission”, designated second undesignated par. as par. (2), inserted par. (2) heading, and substituted “a cable system” for “a ‘cable system’ ”, designated third undesignated par. as par. (3), inserted par. (3) heading, and substituted “territory, trust territory, or possession of the United States” for “Territory, Trust Territory, or Possession”, and designated fourth undesignated par. as par. (4), inserted par. (4) heading, and substituted “The ‘local service area of a primary transmitter’, in the case of both the primary stream and any multicast streams transmitted by a primary transmitter that is a television broadcast station, comprises the area where such primary transmitter could have insisted” for “The ‘local service area of a primary transmitter’, in the case of a television broadcast station, comprises the area in which such station is entitled to insist” and “76.59 of title 47, Code of Federal Regulations, or within the noise-limited contour as defined in 73.622(e)(1) of title 47, Code of Federal Regulations” for “76.59 of title 47 of the Code of Federal Regulations”.
+Pub. L. 111–175, § 104(e)(1) to (4)(B), added par. (1) and struck out first undesignated par. which defined “primary transmission”, designated second undesignated par. as par. (2), inserted par. (2) heading, and substituted “a cable system” for “a ‘cable system’ ”, designated third undesignated par. as par. (3), inserted par. (3) heading, and substituted “territory, trust territory, or possession of the United States” for “Territory, Trust Territory, or Possession”, and designated fourth undesignated par. as par. (4), inserted par. (4) heading, and substituted “The ‘local service area of a primary transmitter’, in the case of both the primary stream and any multicast streams transmitted by a primary transmitter that is a television broadcast station, comprises the area where such primary transmitter could have insisted” for “The ‘local service area of a primary transmitter’, in the case of a television broadcast station, comprises the area in which such station is entitled to insist” and “76.59 of title 47, Code of Federal Regulations, or within the noise-limited contour as defined in 73.622(e)(1) of title 47, Code of Federal Regulations” for “76.59 of title 47 of the Code of Federal Regulations”.
 
-Subsec. (f)(9) to (13). Pub. L. 111–175, § 104(e)(9), added pars. (9) to (13).
+Subsec. (f)(9) to (13). Pub. L. 111–175, § 104(e)(9), added pars. (9) to (13).
 
-2008—Subsec. (b). Pub. L. 110–403, § 209(a)(2)(A), struck out “and 509” after “506” in introductory provisions.
+2008—Subsec. (b). Pub. L. 110–403, § 209(a)(2)(A), struck out “and 509” after “506” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 110–403, § 209(a)(2)(B)(i), struck out “and 509” after “506” in introductory provisions.
+Subsec. (c)(2). Pub. L. 110–403, § 209(a)(2)(B)(i), struck out “and 509” after “506” in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 110–403, § 209(a)(2)(B)(ii), substituted “section 510” for “sections 509 and 510”.
+Subsec. (c)(3). Pub. L. 110–403, § 209(a)(2)(B)(ii), substituted “section 510” for “sections 509 and 510”.
 
-Subsec. (c)(4). Pub. L. 110–403, § 209(a)(2)(B)(iii), struck out “and section 509” after “506”.
+Subsec. (c)(4). Pub. L. 110–403, § 209(a)(2)(B)(iii), struck out “and section 509” after “506”.
 
-Subsec. (e)(1). Pub. L. 110–403, § 209(a)(2)(C)(i), substituted “section 510” for “sections 509 and 510” in introductory provisions.
+Subsec. (e)(1). Pub. L. 110–403, § 209(a)(2)(C)(i), substituted “section 510” for “sections 509 and 510” in introductory provisions.
 
-Subsec. (e)(2). Pub. L. 110–403, § 209(a)(2)(C)(ii), struck out “and 509” after “506” in introductory provisions.
+Subsec. (e)(2). Pub. L. 110–403, § 209(a)(2)(C)(ii), struck out “and 509” after “506” in introductory provisions.
 
 Pub. L. 110–229 substituted “the Federated States of Micronesia, the Republic of Palau, or the Republic of the Marshall Islands” for “or the Trust Territory of the Pacific Islands” in introductory provisions.
 
-2006—Subsec. (d)(2). Pub. L. 109–303, § 4(a)(1), substituted “upon authorization by the Copyright Royalty Judges.” for “in the event no controversy over distribution exists, or by the Copyright Royalty Judges. in the event a controversy over such distribution exists.”
+2006—Subsec. (d)(2). Pub. L. 109–303, § 4(a)(1), substituted “upon authorization by the Copyright Royalty Judges.” for “in the event no controversy over distribution exists, or by the Copyright Royalty Judges. in the event a controversy over such distribution exists.”
 
-Subsec. (d)(4)(B). Pub. L. 109–303, § 4(a)(2)(A), substituted second sentence for former second sentence which read as follows: “If the Copyright Royalty Judges determine that no such controversy exists, the Librarian shall, after deducting reasonable administrative costs under this section, distribute such fees to the copyright owners entitled to such fees, or to their designated agents.” and “find” for “finds” in last sentence.
+Subsec. (d)(4)(B). Pub. L. 109–303, § 4(a)(2)(A), substituted second sentence for former second sentence which read as follows: “If the Copyright Royalty Judges determine that no such controversy exists, the Librarian shall, after deducting reasonable administrative costs under this section, distribute such fees to the copyright owners entitled to such fees, or to their designated agents.” and “find” for “finds” in last sentence.
 
-Subsec. (d)(4)(C). Pub. L. 109–303, § 4(a)(2)(B), added subpar. (C) and struck out former subpar. (C) which read as follows: “During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall have discretion to proceed to distribute any amounts that are not in controversy.”
+Subsec. (d)(4)(C). Pub. L. 109–303, § 4(a)(2)(B), added subpar. (C) and struck out former subpar. (C) which read as follows: “During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall have discretion to proceed to distribute any amounts that are not in controversy.”
 
 2004—Subsec. (a)(4). Pub. L. 108–447 struck out “for private home viewing” after “satellite carrier”.
 
 Subsec. (d)(1)(A). Pub. L. 108–447 struck out “for private home viewing” after “secondary transmissions”.
 
-Subsec. (d)(2). Pub. L. 108–419, § 5(a)(1), substituted “the Copyright Royalty Judges.” for “a copyright arbitration royalty panel”.
+Subsec. (d)(2). Pub. L. 108–419, § 5(a)(1), substituted “the Copyright Royalty Judges.” for “a copyright arbitration royalty panel”.
 
-Subsec. (d)(4)(A). Pub. L. 108–419, § 5(a)(2)(A), substituted “Copyright Royalty Judges” for “Librarian of Congress” in two places.
+Subsec. (d)(4)(A). Pub. L. 108–419, § 5(a)(2)(A), substituted “Copyright Royalty Judges” for “Librarian of Congress” in two places.
 
-Subsec. (d)(4)(B). Pub. L. 108–419, § 5(a)(2)(B), substituted, in first sentence, “Copyright Royalty Judges shall” for “Librarian of Congress shall, upon the recommendation of the Register of Copyrights,”, in second sentence, “Copyright Royalty Judges determine” for “Librarian determines”, and, in third sentence, “Copyright Royalty Judges” for “Librarian” in two places and “conduct a proceeding” for “convene a copyright arbitration royalty panel”.
+Subsec. (d)(4)(B). Pub. L. 108–419, § 5(a)(2)(B), substituted, in first sentence, “Copyright Royalty Judges shall” for “Librarian of Congress shall, upon the recommendation of the Register of Copyrights,”, in second sentence, “Copyright Royalty Judges determine” for “Librarian determines”, and, in third sentence, “Copyright Royalty Judges” for “Librarian” in two places and “conduct a proceeding” for “convene a copyright arbitration royalty panel”.
 
-Subsec. (d)(4)(C). Pub. L. 108–419, § 5(a)(2)(C), substituted “Copyright Royalty Judges” for “Librarian of Congress”.
+Subsec. (d)(4)(C). Pub. L. 108–419, § 5(a)(2)(C), substituted “Copyright Royalty Judges” for “Librarian of Congress”.
 
-1999—Subsecs. (a), (b). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(1)(A), (B)], substituted “performance or display of a work embodied in a primary transmission” for “primary transmission embodying a performance or display of a work” in introductory provisions.
+1999—Subsecs. (a), (b). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(1)(A), (B)], substituted “performance or display of a work embodied in a primary transmission” for “primary transmission embodying a performance or display of a work” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(2), (b)(1)(C)(i)], inserted “a performance or display of a work embodied in” after “by a cable system of”, struck out “and embodying a performance or display of a work” after “governmental authority of Canada or Mexico”, and substituted “statutory” for “compulsory”.
+Subsec. (c)(1). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(2), (b)(1)(C)(i)], inserted “a performance or display of a work embodied in” after “by a cable system of”, struck out “and embodying a performance or display of a work” after “governmental authority of Canada or Mexico”, and substituted “statutory” for “compulsory”.
 
-Subsec. (c)(3), (4). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(1)(C)(ii)], substituted “a performance or display of a work embodied in a primary transmission” for “a primary transmission” and struck out “and embodying a performance or display of a work” after “governmental authority of Canada or Mexico”.
+Subsec. (c)(3), (4). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(1)(C)(ii)], substituted “a performance or display of a work embodied in a primary transmission” for “a primary transmission” and struck out “and embodying a performance or display of a work” after “governmental authority of Canada or Mexico”.
 
-Subsec. (d). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(2)], which directed substitution of “statutory” for “compulsory”, was executed by substituting “Statutory” for “Compulsory” in heading to reflect probable intent of Congress.
+Subsec. (d). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(2)], which directed substitution of “statutory” for “compulsory”, was executed by substituting “Statutory” for “Compulsory” in heading to reflect probable intent of Congress.
 
-Subsec. (d)(1). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(2)], substituted “statutory” for “compulsory” in introductory provisions.
+Subsec. (d)(1). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(2)], substituted “statutory” for “compulsory” in introductory provisions.
 
-Subsec. (d)(1)(B)(i), (3)(C). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(1)], substituted “programming” for “programing”.
+Subsec. (d)(1)(B)(i), (3)(C). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(1)], substituted “programming” for “programing”.
 
-Subsec. (d)(4)(A). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(2)], substituted “statutory” for “compulsory” in two places.
+Subsec. (d)(4)(A). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(2)], substituted “statutory” for “compulsory” in two places.
 
-Subsec. (f). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(1)], substituted “programming” for “programing” wherever appearing.
+Subsec. (f). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(1)], substituted “programming” for “programing” wherever appearing.
 
 1995—Subsec. (c)(1). Pub. L. 104–39 inserted “and section 114(d)” after “of this subsection”.
 
-1994—Subsec. (f). Pub. L. 103–369, § 3(b), in fourth undesignated par. defining local service area of a primary transmitter, inserted “or such station’s television market as defined in section 76.55(e) of title 47, Code of Federal Regulations (as in effect on September 18, 1993), or any modifications to such television market made, on or after September 18, 1993, pursuant to section 76.55(e) or 76.59 of title 47 of the Code of Federal Regulations,” after “April 15, 1976,”.
+1994—Subsec. (f). Pub. L. 103–369, § 3(b), in fourth undesignated par. defining local service area of a primary transmitter, inserted “or such station’s television market as defined in section 76.55(e) of title 47, Code of Federal Regulations (as in effect on September 18, 1993), or any modifications to such television market made, on or after September 18, 1993, pursuant to section 76.55(e) or 76.59 of title 47 of the Code of Federal Regulations,” after “April 15, 1976,”.
 
-Pub. L. 103–369, § 3(a), inserted “microwave,” after “wires, cables,” in third undesignated par., defining cable system.
+Pub. L. 103–369, § 3(a), inserted “microwave,” after “wires, cables,” in third undesignated par., defining cable system.
 
-1993—Subsec. (d)(1). Pub. L. 103–198, § 6(a)(1), struck out “, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted),” after “Register shall” in introductory provisions.
+1993—Subsec. (d)(1). Pub. L. 103–198, § 6(a)(1), struck out “, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted),” after “Register shall” in introductory provisions.
 
-Subsec. (d)(1)(A). Pub. L. 103–198, § 6(a)(2), struck out “, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted),” after “Register of Copyrights may”.
+Subsec. (d)(1)(A). Pub. L. 103–198, § 6(a)(2), struck out “, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted),” after “Register of Copyrights may”.
 
-Subsec. (d)(2). Pub. L. 103–198, § 6(a)(3), substituted “All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Librarian of Congress in the event no controversy over distribution exists, or by a copyright arbitration royalty panel in the event a controversy over such distribution exists.” for “All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Copyright Royalty Tribunal as provided by this title. The Register shall submit to the Copyright Royalty Tribunal, on a semiannual basis, a compilation of all statements of account covering the relevant six-month period provided by clause (1) of this subsection.”
+Subsec. (d)(2). Pub. L. 103–198, § 6(a)(3), substituted “All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Librarian of Congress in the event no controversy over distribution exists, or by a copyright arbitration royalty panel in the event a controversy over such distribution exists.” for “All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Copyright Royalty Tribunal as provided by this title. The Register shall submit to the Copyright Royalty Tribunal, on a semiannual basis, a compilation of all statements of account covering the relevant six-month period provided by clause (1) of this subsection.”
 
-Subsec. (d)(4)(A). Pub. L. 103–198, § 6(a)(4), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “claim with the” and for “Tribunal” before “requirements that the”.
+Subsec. (d)(4)(A). Pub. L. 103–198, § 6(a)(4), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “claim with the” and for “Tribunal” before “requirements that the”.
 
-Subsec. (d)(4)(B). Pub. L. 103–198, § 6(a)(5), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “After the first day of August of each year, the Copyright Royalty Tribunal shall determine whether there exists a controversy concerning the distribution of royalty fees. If the Tribunal determines that no such controversy exists, it shall, after deducting its reasonable administrative costs under this section, distribute such fees to the copyright owners entitled, or to their designated agents. If the Tribunal finds the existence of a controversy, it shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty fees.”
+Subsec. (d)(4)(B). Pub. L. 103–198, § 6(a)(5), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “After the first day of August of each year, the Copyright Royalty Tribunal shall determine whether there exists a controversy concerning the distribution of royalty fees. If the Tribunal determines that no such controversy exists, it shall, after deducting its reasonable administrative costs under this section, distribute such fees to the copyright owners entitled, or to their designated agents. If the Tribunal finds the existence of a controversy, it shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty fees.”
 
-Subsec. (d)(4)(C). Pub. L. 103–198, § 6(a)(6), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
+Subsec. (d)(4)(C). Pub. L. 103–198, § 6(a)(6), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
-1990—Subsec. (c)(2)(B). Pub. L. 101–318, § 3(a)(1), struck out “recorded the notice specified by subsection (d) and” after “where the cable system has not”.
+1990—Subsec. (c)(2)(B). Pub. L. 101–318, § 3(a)(1), struck out “recorded the notice specified by subsection (d) and” after “where the cable system has not”.
 
-Subsec. (d)(2). Pub. L. 101–318, § 3(a)(2)(A), substituted “clause (1)” for “paragraph (1)”.
+Subsec. (d)(2). Pub. L. 101–318, § 3(a)(2)(A), substituted “clause (1)” for “paragraph (1)”.
 
-Subsec. (d)(3). Pub. L. 101–318, § 3(a)(2)(B), substituted “clause (4)” for “clause (5)” in introductory provisions.
+Subsec. (d)(3). Pub. L. 101–318, § 3(a)(2)(B), substituted “clause (4)” for “clause (5)” in introductory provisions.
 
-Subsec. (d)(3)(B). Pub. L. 101–318, § 3(a)(2)(C), substituted “clause (1)(A)” for “clause (2)(A)”.
+Subsec. (d)(3)(B). Pub. L. 101–318, § 3(a)(2)(C), substituted “clause (1)(A)” for “clause (2)(A)”.
 
-1988—Subsec. (a)(4), (5). Pub. L. 100–667, § 202(1)(A), added par. (4) and redesignated former par. (4) as (5).
+1988—Subsec. (a)(4), (5). Pub. L. 100–667, § 202(1)(A), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (d)(1)(A). Pub. L. 100–667, § 202(1)(B), inserted provision that determination of total number of subscribers and gross amounts paid to cable system for basic service of providing secondary transmissions of primary broadcast transmitters not include subscribers and amounts collected from subscribers receiving secondary transmissions for private home viewing under section 119.
+Subsec. (d)(1)(A). Pub. L. 100–667, § 202(1)(B), inserted provision that determination of total number of subscribers and gross amounts paid to cable system for basic service of providing secondary transmissions of primary broadcast transmitters not include subscribers and amounts collected from subscribers receiving secondary transmissions for private home viewing under section 119.
 
-1986—Subsec. (d). Pub. L. 99–397, § 2(a)(1), (4), (5), substituted “paragraph (1)” for “clause (2)” in par. (3), struck out par. (1) which related to recordation of notice with Copyright Office by cable systems in order for secondary transmissions to be subject to compulsory licensing, and redesignated pars. (2) to (5) as (1) to (4), respectively.
+1986—Subsec. (d). Pub. L. 99–397, § 2(a)(1), (4), (5), substituted “paragraph (1)” for “clause (2)” in par. (3), struck out par. (1) which related to recordation of notice with Copyright Office by cable systems in order for secondary transmissions to be subject to compulsory licensing, and redesignated pars. (2) to (5) as (1) to (4), respectively.
 
-Pub. L. 99–397, § 2(a)(2), (3), which directed the amendment of subsec. (d) by substituting “paragraph (4)” for “clause (5)” in pars. (2) and (2)(B) could not be executed because pars. (2) and (2)(B) did not contain references to “clause (5)”. See 1990 Amendment note above.
+Pub. L. 99–397, § 2(a)(2), (3), which directed the amendment of subsec. (d) by substituting “paragraph (4)” for “clause (5)” in pars. (2) and (2)(B) could not be executed because pars. (2) and (2)(B) did not contain references to “clause (5)”. See 1990 Amendment note above.
 
-Subsec. (f). Pub. L. 99–397, § 2(b), substituted “subsection (d)(1)” for “subsection (d)(2)” in third undesignated par., defining a cable system.
+Subsec. (f). Pub. L. 99–397, § 2(b), substituted “subsection (d)(1)” for “subsection (d)(2)” in third undesignated par., defining a cable system.
 
-Pub. L. 99–397, § 1, inserted provision in fourth undesignated par., defining “local service area of a primary transmitter”, to cover that term in relation to low power television stations.
+Pub. L. 99–397, § 1, inserted provision in fourth undesignated par., defining “local service area of a primary transmitter”, to cover that term in relation to low power television stations.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–175, title I, § 104(d), May 27, 2010, 124 Stat. 1235, provided that: “The royalty fee rates established in section 111(d)(1)(B) of title 17, United States Code, as amended by subsection (c)(1)(C) of this section, shall take effect commencing with the first accounting period occurring in 2010.”
+Pub. L. 111–175, title I, § 104(d), May 27, 2010, 124 Stat. 1235, provided that: “The royalty fee rates established in section 111(d)(1)(B) of title 17, United States Code, as amended by subsection (c)(1)(C) of this section, shall take effect commencing with the first accounting period occurring in 2010.”
 
-Pub. L. 111–175, title I, § 104(h), May 27, 2010, 124 Stat. 1238, provided that:
+Pub. L. 111–175, title I, § 104(h), May 27, 2010, 124 Stat. 1238, provided that:
 
 > **“(1) In general.—** Subject to paragraphs (2) and (3), the amendments made by this section [amending this section and section 804 of this title], to the extent such amendments assign a distant signal equivalent value to the secondary transmission of the multicast stream of a primary transmitter, shall take effect on the date of the enactment of this Act [deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as a note below].
 
@@ -2717,7 +2717,7 @@ Pub. L. 111–175, title I, § 104(h), May 27, 2010, 124 Stat. 1238, provided 
 
 > **“(3) Definitions.—** In this subsection, the terms ‘cable system’, ‘secondary transmission’, ‘multicast stream’, and ‘local service area of a primary transmitter’ have the meanings given those terms in section 111(f) of title 17, United States Code, as amended by this section.”
 
-Pub. L. 111–175, title III, § 307, May 27, 2010, 124 Stat. 1257, provided that:
+Pub. L. 111–175, title III, § 307, May 27, 2010, 124 Stat. 1257, provided that:
 
 > **“(a) Effective Date.—** Unless specifically provided otherwise, this Act [see Short Title of 2010 Amendment note set out under section 101 of this title], and the amendments made by this Act, shall take effect on February 27, 2010, and with the exception of the reference in subsection (b), all references to the date of enactment of this Act shall be deemed to refer to February 27, 2010, unless otherwise specified.
 
@@ -2725,7 +2725,7 @@ Pub. L. 111–175, title III, § 307, May 27, 2010, 124 Stat. 1257, provided t
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–303, § 6, Oct. 6, 2006, 120 Stat. 1483, provided that:
+Pub. L. 109–303, § 6, Oct. 6, 2006, 120 Stat. 1483, provided that:
 
 > **“(a) In General.—** Except as provided under subsection (b), this Act [see Short Title of 2006 Amendment note set out under section 101 of this title] and the amendments made by this Act shall be effective as if included in the Copyright Royalty and Distribution Reform Act of 2004 [Pub. L. 108–419].
 
@@ -2745,7 +2745,7 @@ Amendment by section 3(b) of Pub. L. 103–369 effective July 1, 1994, see secti
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–198, § 7, Dec. 17, 1993, 107 Stat. 2313, provided that:
+Pub. L. 103–198, § 7, Dec. 17, 1993, 107 Stat. 2313, provided that:
 
 > **“(a) In General.—** This Act [see Short Title of 1993 Amendment note set out under section 101 of this title] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Dec. 17, 1993].
 
@@ -2755,7 +2755,7 @@ Pub. L. 103–198, § 7, Dec. 17, 1993, 107 Stat. 2313, provided that:
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–318, § 3(e)(1), July 3, 1990, 104 Stat. 289, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 801 of this title] shall be effective as of August 27, 1986.”
+Pub. L. 101–318, § 3(e)(1), July 3, 1990, 104 Stat. 289, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 801 of this title] shall be effective as of August 27, 1986.”
 
 **Effective Date of 1988 Amendment**
 
@@ -2763,7 +2763,7 @@ Amendment by Pub. L. 100–667 effective Jan. 1, 1989, see section 206 of Pub. L
 
 **Savings Provision**
 
-Pub. L. 111–175, title III, § 306, May 27, 2010, 124 Stat. 1257, provided that:
+Pub. L. 111–175, title III, § 306, May 27, 2010, 124 Stat. 1257, provided that:
 
 > **“(a) In General.—** Nothing in this Act [see Short Title of 2010 Amendment note set out under section 101 of this title], title 17, United States Code, the Communications Act of 1934 [47 U.S.C. 151 et seq.], regulations promulgated by the Register of Copyrights under this title or title 17, United States Code, or regulations promulgated by the Federal Communications Commission under this Act or the Communications Act of 1934 shall be construed to prevent a multichannel video programming distributor from retransmitting a performance or display of a work pursuant to an authorization granted by the copyright owner or, if within the scope of its authorization, its licensee.
 
@@ -2771,15 +2771,15 @@ Pub. L. 111–175, title III, § 306, May 27, 2010, 124 Stat. 1257, provided t
 
 **Severability**
 
-Pub. L. 113–200, title III, § 301, Dec. 4, 2014, 128 Stat. 2067, provided that: “If any provision of this Act [see Short Title of 2014 Amendment note set out under section 609 of Title 47, Telecommunications], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.”
+Pub. L. 113–200, title III, § 301, Dec. 4, 2014, 128 Stat. 2067, provided that: “If any provision of this Act [see Short Title of 2014 Amendment note set out under section 609 of Title 47, Telecommunications], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.”
 
-Pub. L. 111–175, title IV, § 401, May 27, 2010, 124 Stat. 1258, provided that: “If any provision of this Act [see Short Title of 2010 Amendment note set out under section 101 of this title], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.”
+Pub. L. 111–175, title IV, § 401, May 27, 2010, 124 Stat. 1258, provided that: “If any provision of this Act [see Short Title of 2010 Amendment note set out under section 101 of this title], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of such provision or amendment to any person or circumstance shall not be affected thereby.”
 
 **Construction**
 
-Pub. L. 111–175, title I, § 108, May 27, 2010, 124 Stat. 1245, provided that: “Nothing in section 111, 119, or 122 of title 17, United States Code, including the amendments made to such sections by this title, shall be construed to affect the meaning of any terms under the Communications Act of 1934 [47 U.S.C. 151 et seq.], except to the extent that such sections are specifically cross-referenced in such Act or the regulations issued thereunder.”
+Pub. L. 111–175, title I, § 108, May 27, 2010, 124 Stat. 1245, provided that: “Nothing in section 111, 119, or 122 of title 17, United States Code, including the amendments made to such sections by this title, shall be construed to affect the meaning of any terms under the Communications Act of 1934 [47 U.S.C. 151 et seq.], except to the extent that such sections are specifically cross-referenced in such Act or the regulations issued thereunder.”
 
-## § 112. Limitations on exclusive rights: Ephemeral recordings
+## § 112. Limitations on exclusive rights: Ephemeral recordings
 
 **(a)**
 
@@ -2871,7 +2871,7 @@ In establishing such rates and terms, the Copyright Royalty Judges may consider 
 
 **(g)** The transmission program embodied in a copy or phonorecord made under this section is not subject to protection as a derivative work under this title except with the express consent of the owners of copyright in the preexisting works employed in the program.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2558; Pub. L. 105–304, title IV, §§ 402, 405(b), Oct. 28, 1998, 112 Stat. 2888, 2899; Pub. L. 106–44, § 1(b), Aug. 5, 1999, 113 Stat. 221; Pub. L. 107–273, div. C, title III, § 13301(c)(1), Nov. 2, 2002, 116 Stat. 1912; Pub. L. 108–419, § 5(b), Nov. 30, 2004, 118 Stat. 2361.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2558; Pub. L. 105–304, title IV, §§ 402, 405(b), Oct. 28, 1998, 112 Stat. 2888, 2899; Pub. L. 106–44, § 1(b), Aug. 5, 1999, 113 Stat. 221; Pub. L. 107–273, div. C, title III, § 13301(c)(1), Nov. 2, 2002, 116 Stat. 1912; Pub. L. 108–419, § 5(b), Nov. 30, 2004, 118 Stat. 2361.)
 
 **Historical and Revision Notes**
 
@@ -2919,35 +2919,35 @@ Despite objections by music copyright owners, the Committee found this exemption
 
 **Amendments**
 
-2004—Subsec. (e)(3). Pub. L. 108–419, § 5(b)(1), substituted first sentence for former first sentence which read: “No later than 30 days after the date of the enactment of the Digital Millennium Copyright Act, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by paragraph (1) of this subsection during the period beginning on the date of the enactment of such Act and ending on December 31, 2000, or such other date as the parties may agree.”, substituted “Copyright Royalty Judges licenses” for “Librarian of Congress licenses” in third sentence, and struck out “negotiation” before “proceeding” in last sentence.
+2004—Subsec. (e)(3). Pub. L. 108–419, § 5(b)(1), substituted first sentence for former first sentence which read: “No later than 30 days after the date of the enactment of the Digital Millennium Copyright Act, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by paragraph (1) of this subsection during the period beginning on the date of the enactment of such Act and ending on December 31, 2000, or such other date as the parties may agree.”, substituted “Copyright Royalty Judges licenses” for “Librarian of Congress licenses” in third sentence, and struck out “negotiation” before “proceeding” in last sentence.
 
-Subsec. (e)(4). Pub. L. 108–419, § 5(b)(2), substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under paragraph (2), during the 60-day period commencing 6 months after publication of the notice specified in paragraph (3), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of reasonable rates and terms which, subject to paragraph (5), shall be binding on all copyright owners of sound recordings and transmitting organizations entitled to a statutory license under this subsection during the period beginning on the date of the enactment of the Digital Millennium Copyright Act and ending on December 31, 2000, or such other date as the parties may agree.”, and substituted “Copyright Royalty Judges” for “copyright arbitration royalty panel” in third and fourth sentences and in concluding provisions, “their decision” for “its decision”, “described” for “negotiated as provided”, and “Copyright Royalty Judges shall also establish” for “Librarian of Congress shall also establish”.
+Subsec. (e)(4). Pub. L. 108–419, § 5(b)(2), substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under paragraph (2), during the 60-day period commencing 6 months after publication of the notice specified in paragraph (3), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of reasonable rates and terms which, subject to paragraph (5), shall be binding on all copyright owners of sound recordings and transmitting organizations entitled to a statutory license under this subsection during the period beginning on the date of the enactment of the Digital Millennium Copyright Act and ending on December 31, 2000, or such other date as the parties may agree.”, and substituted “Copyright Royalty Judges” for “copyright arbitration royalty panel” in third and fourth sentences and in concluding provisions, “their decision” for “its decision”, “described” for “negotiated as provided”, and “Copyright Royalty Judges shall also establish” for “Librarian of Congress shall also establish”.
 
-Subsec. (e)(5). Pub. L. 108–419, § 5(b)(3), substituted “decision by the Librarian of Congress or determination by the Copyright Royalty Judges” for “determination by a copyright arbitration royalty panel or decision by the Librarian of Congress”.
+Subsec. (e)(5). Pub. L. 108–419, § 5(b)(3), substituted “decision by the Librarian of Congress or determination by the Copyright Royalty Judges” for “determination by a copyright arbitration royalty panel or decision by the Librarian of Congress”.
 
-Subsec. (e)(6). Pub. L. 108–419, § 5(b)(4), redesignated par. (7) as (6) and struck out former par. (6) which related to publication of notice of the initiation of voluntary negotiation proceedings as specified in par. (3).
+Subsec. (e)(6). Pub. L. 108–419, § 5(b)(4), redesignated par. (7) as (6) and struck out former par. (6) which related to publication of notice of the initiation of voluntary negotiation proceedings as specified in par. (3).
 
-Subsec. (e)(6)(A)(i). Pub. L. 108–419, § 5(b)(5), substituted “Copyright Royalty Judges” for “Librarian of Congress”.
+Subsec. (e)(6)(A)(i). Pub. L. 108–419, § 5(b)(5), substituted “Copyright Royalty Judges” for “Librarian of Congress”.
 
-Subsec. (e)(7) to (9). Pub. L. 108–419, § 5(b)(4), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6).
+Subsec. (e)(7) to (9). Pub. L. 108–419, § 5(b)(4), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6).
 
 2002—Subsecs. (f), (g). Pub. L. 107–273 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-1999—Subsec. (e)(2). Pub. L. 106–44, § 1(b)(1), redesignated par. (3) as (2).
+1999—Subsec. (e)(2). Pub. L. 106–44, § 1(b)(1), redesignated par. (3) as (2).
 
-Subsec. (e)(3). Pub. L. 106–44, § 1(b)(1), (2), redesignated par. (4) as (3) and substituted “(1)” for “(2)” in first sentence. Former par. (3) redesignated (2).
+Subsec. (e)(3). Pub. L. 106–44, § 1(b)(1), (2), redesignated par. (4) as (3) and substituted “(1)” for “(2)” in first sentence. Former par. (3) redesignated (2).
 
-Subsec. (e)(4). Pub. L. 106–44, § 1(b)(1), (3), redesignated par. (5) as (4), substituted “(2)” for “(3)”, “(3)” for “(4)”, and “(5)” for “(6)” in first sentence, and substituted “(2) and (3)” for “(3) and (4)” in penultimate sentence of concluding provisions. Former par. (4) redesignated (3).
+Subsec. (e)(4). Pub. L. 106–44, § 1(b)(1), (3), redesignated par. (5) as (4), substituted “(2)” for “(3)”, “(3)” for “(4)”, and “(5)” for “(6)” in first sentence, and substituted “(2) and (3)” for “(3) and (4)” in penultimate sentence of concluding provisions. Former par. (4) redesignated (3).
 
-Subsec. (e)(5). Pub. L. 106–44, § 1(b)(1), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+Subsec. (e)(5). Pub. L. 106–44, § 1(b)(1), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-Subsec. (e)(6). Pub. L. 106–44, § 1(b)(1), (4), redesignated par. (7) as (6), substituted “(3)” for “(4)” wherever appearing, and substituted “(4)” for “(5)” in two places. Former par. (6) redesignated (5).
+Subsec. (e)(6). Pub. L. 106–44, § 1(b)(1), (4), redesignated par. (7) as (6), substituted “(3)” for “(4)” wherever appearing, and substituted “(4)” for “(5)” in two places. Former par. (6) redesignated (5).
 
-Subsec. (e)(7) to (10). Pub. L. 106–44, § 1(b)(1), redesignated pars. (8) to (10) as (7) to (9), respectively. Former par. (7) redesignated (6).
+Subsec. (e)(7) to (10). Pub. L. 106–44, § 1(b)(1), redesignated pars. (8) to (10) as (7) to (9), respectively. Former par. (7) redesignated (6).
 
-1998—Subsec. (a). Pub. L. 105–304, § 402, designated existing provisions as par. (1), in introductory provisions inserted “, including a statutory license under section 114(f),” after “under a license” and “or for a transmitting organization that is a broadcast radio or television station licensed as such by the Federal Communications Commission and that makes a broadcast transmission of a performance of a sound recording in a digital format on a nonsubscription basis,” after “114(a),”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
+1998—Subsec. (a). Pub. L. 105–304, § 402, designated existing provisions as par. (1), in introductory provisions inserted “, including a statutory license under section 114(f),” after “under a license” and “or for a transmitting organization that is a broadcast radio or television station licensed as such by the Federal Communications Commission and that makes a broadcast transmission of a performance of a sound recording in a digital format on a nonsubscription basis,” after “114(a),”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
-Subsecs. (e), (f). Pub. L. 105–304, § 405(b), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 105–304, § 405(b), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2957,9 +2957,9 @@ Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject t
 
 **Construction of 1998 Amendment**
 
-Pub. L. 105–304, title IV, § 405(c), Oct. 28, 1998, 112 Stat. 2902, provided that: “Nothing in this section [amending this section and sections 114 and 801 to 803 of this title and enacting provisions set out as notes under section 114 of this title] or the amendments made by this section shall affect the scope of section 112(a) of title 17, United States Code, or the entitlement of any person to an exemption thereunder.”
+Pub. L. 105–304, title IV, § 405(c), Oct. 28, 1998, 112 Stat. 2902, provided that: “Nothing in this section [amending this section and sections 114 and 801 to 803 of this title and enacting provisions set out as notes under section 114 of this title] or the amendments made by this section shall affect the scope of section 112(a) of title 17, United States Code, or the entitlement of any person to an exemption thereunder.”
 
-## § 113. Scope of exclusive rights in pictorial, graphic, and sculptural works
+## § 113. Scope of exclusive rights in pictorial, graphic, and sculptural works
 
 **(a)** Subject to the provisions of subsections (b) and (c) of this section, the exclusive right to reproduce a copyrighted pictorial, graphic, or sculptural work in copies under section 106 includes the right to reproduce the work in or on any kind of article, whether useful or otherwise.
 
@@ -2987,7 +2987,7 @@ For purposes of subparagraph (A), an owner shall be presumed to have made a dili
 
 **(3)** The Register of Copyrights shall establish a system of records whereby any author of a work of visual art that has been incorporated in or made part of a building, may record his or her identity and address with the Copyright Office. The Register shall also establish procedures under which any such author may update the information so recorded, and procedures under which owners of buildings may record with the Copyright Office evidence of their efforts to comply with this subsection.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 101–650, title VI, § 604, Dec. 1, 1990, 104 Stat. 5130.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 101–650, title VI, § 604, Dec. 1, 1990, 104 Stat. 5130.)
 
 **Historical and Revision Notes**
 
@@ -3019,7 +3019,7 @@ Section 610(a) of the Visual Artists Rights Act of 1990 [Pub. L. 101–650], ref
 
 Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
-## § 114. Scope of exclusive rights in sound recordings
+## § 114. Scope of exclusive rights in sound recordings
 
 **(a)** The exclusive rights of the owner of copyright in a sound recording are limited to the rights specified by clauses (1), (2), (3) and (6) of section 106, and do not include any right of performance under section 106(4).
 
@@ -3059,9 +3059,9 @@ Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see sectio
 
 **(ii)** a transmission within a business establishment, confined to its premises or the immediately surrounding vicinity;
 
-**(iii)** a retransmission by any retransmitter, including a multichannel video programming distributor as defined in section 602(12) 1
+**(iii)** a retransmission by any retransmitter, including a multichannel video programming distributor as defined in section 602(12) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Communications Act of 1934 (47 U.S.C. 522(12)), of a transmission by a transmitter licensed to publicly perform the sound recording as a part of that transmission, if the retransmission is simultaneous with the licensed transmission and authorized by the transmitter; or
 
@@ -3315,7 +3315,7 @@ except that the requirement of this subclause shall not apply in the case of a r
 
 **(B)** an entity to perform publicly up to 45 seconds of the sound recording and the sole purpose of the performance is to promote the distribution or performance of that sound recording.
 
-**[(i)** Repealed. Pub. L. 115–264, title I, § 103(b), Oct. 11, 2018, 132 Stat. 3724.]
+**[(i)** Repealed. Pub. L. 115–264, title I, § 103(b), Oct. 11, 2018, 132 Stat. 3724.]
 
 **(j) Definitions.—** As used in this section, the following terms have the following meanings:
 
@@ -3361,19 +3361,19 @@ if no more than three such selections are transmitted consecutively:
 
 **(15)** A “transmission” is either an initial transmission or a retransmission.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 104–39, § 3, Nov. 1, 1995, 109 Stat. 336; Pub. L. 105–80, § 3, Nov. 13, 1997, 111 Stat. 1531; Pub. L. 105–304, title IV, § 405(a)(1)–(4), Oct. 28, 1998, 112 Stat. 2890–2897; Pub. L. 107–321, §§ 4, 5(b), (c), Dec. 4, 2002, 116 Stat. 2781, 2784; Pub. L. 108–419, § 5(c), Nov. 30, 2004, 118 Stat. 2362; Pub. L. 109–303, § 4(b), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 110–435, § 2, Oct. 16, 2008, 122 Stat. 4974; Pub. L. 111–36, § 2, June 30, 2009, 123 Stat. 1926; Pub. L. 111–295, §§ 5(c), 6(b), (f)(1), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 115–264, title I, § 103(a), (b), (g)(1), title III, § 302, Oct. 11, 2018, 132 Stat. 3723–3725, 3737.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2560; Pub. L. 104–39, § 3, Nov. 1, 1995, 109 Stat. 336; Pub. L. 105–80, § 3, Nov. 13, 1997, 111 Stat. 1531; Pub. L. 105–304, title IV, § 405(a)(1)–(4), Oct. 28, 1998, 112 Stat. 2890–2897; Pub. L. 107–321, §§ 4, 5(b), (c), Dec. 4, 2002, 116 Stat. 2781, 2784; Pub. L. 108–419, § 5(c), Nov. 30, 2004, 118 Stat. 2362; Pub. L. 109–303, § 4(b), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 110–435, § 2, Oct. 16, 2008, 122 Stat. 4974; Pub. L. 111–36, § 2, June 30, 2009, 123 Stat. 1926; Pub. L. 111–295, §§ 5(c), 6(b), (f)(1), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 115–264, title I, § 103(a), (b), (g)(1), title III, § 302, Oct. 11, 2018, 132 Stat. 3723–3725, 3737.)
 
 **Historical and Revision Notes**
 
 **house report no. 94–1476**
 
-Subsection (a) of Section 114 specified that the exclusive rights of the owner of copyright in a sound recording are limited to the rights to reproduce the sound recording in copies or phonorecords, to prepare derivative works based on the copyrighted sound recording, and to distribute copies or phonorecords of the sound recording to the public. Subsection (a) states explicitly that the owner’s rights “do not include any right of performance under section 106(4).” The Committee considered at length the arguments in favor of establishing a limited performance right, in the form of a compulsory license, for copyrighted sound recordings, but concluded that the problem requires further study. It therefore added a new subsection (d) to the bill requiring the Register of Copyrights to submit to Congress, on January 3, 1978, “a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners \* \* \* any performance rights” in copyrighted sound recordings. Under the new subsection, the report “should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.”
+Subsection (a) of Section 114 specified that the exclusive rights of the owner of copyright in a sound recording are limited to the rights to reproduce the sound recording in copies or phonorecords, to prepare derivative works based on the copyrighted sound recording, and to distribute copies or phonorecords of the sound recording to the public. Subsection (a) states explicitly that the owner’s rights “do not include any right of performance under section 106(4).” The Committee considered at length the arguments in favor of establishing a limited performance right, in the form of a compulsory license, for copyrighted sound recordings, but concluded that the problem requires further study. It therefore added a new subsection (d) to the bill requiring the Register of Copyrights to submit to Congress, on January 3, 1978, “a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners \* \* \* any performance rights” in copyrighted sound recordings. Under the new subsection, the report “should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.”
 
 Subsection (b) of section 114 makes clear that statutory protection for sound recordings extends only to the particular sounds of which the recording consists, and would not prevent a separate recording of another performance in which those sounds are imitated. Thus, infringement takes place whenever all or any substantial portion of the actual sounds that go to make up a copyrighted sound recording are reproduced in phonorecords by repressing, transcribing, recapturing off the air, or any other method, or by reproducing them in the soundtrack or audio portion of a motion picture or other audiovisual work. Mere imitation of a recorded performance would not constitute a copyright infringement even where one performer deliberately sets out to simulate another’s performance as exactly as possible.
 
 Under section 114, the exclusive right of owner of copyright in a sound recording to prepare derivative works based on the copyrighted sound recording is recognized. However, in view of the expressed intention not to give exclusive rights against imitative or simulated performances and recordings, the Committee adopted an amendment to make clear the scope of rights under section 106(2) in this context. Section 114(b) provides that the “exclusive right of the owner of copyright in a sound recording under clause (2) of section 106 is limited to the right to prepare a derivative work in which the actual sounds fixed in the sound recording are rearranged, remixed, or otherwise altered in sequence or quality.”
 
-Another amendment deals with the use of copyrighted sound recordings “included in educational television and radio programs \* \* \* distributed or transmitted by or through public broadcasting entities.” This use of recordings is permissible without authorization from the owner of copyright in the sound recording, as long as “copies or phonorecords of said programs are not commercially distributed by or through public broadcasting entities to the general public.”
+Another amendment deals with the use of copyrighted sound recordings “included in educational television and radio programs \* \* \* distributed or transmitted by or through public broadcasting entities.” This use of recordings is permissible without authorization from the owner of copyright in the sound recording, as long as “copies or phonorecords of said programs are not commercially distributed by or through public broadcasting entities to the general public.”
 
 During the 1975 hearings, the Register of Copyrights expressed some concern that an invaluable segment of this country’s musical heritage—in the form of sound recordings—had become inaccessible to musicologists and to others for scholarly purposes. Several of the major recording companies have responded to the Register’s concern by granting blanket licenses to the Library of Congress to permit it to make single copy duplications of sound recordings maintained in the Library’s archives for research purposes. Moreover, steps are being taken to determine the feasibility of additional licensing arrangements as a means of satisfying the needs of key regional music libraries across the country. The Register has agreed to report to Congress if further legislative consideration should be undertaken.
 
@@ -3399,81 +3399,81 @@ The date of the enactment of the Webcaster Settlement Act of 2009, referred to i
 
 **Amendments**
 
-2018—Subsec. (f)(1). Pub. L. 115–264, § 103(a)(1), added par. (1) and struck out former par. (1) which related to the determination of reasonable rates and terms of royalty payments for certain subscription and satellite digital audio transmissions.
+2018—Subsec. (f)(1). Pub. L. 115–264, § 103(a)(1), added par. (1) and struck out former par. (1) which related to the determination of reasonable rates and terms of royalty payments for certain subscription and satellite digital audio transmissions.
 
-Subsec. (f)(2) to (5). Pub. L. 115–264, § 103(a), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which related to the determination of reasonable rates and terms of royalty payments for certain types of public performances of sound recordings.
+Subsec. (f)(2) to (5). Pub. L. 115–264, § 103(a), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which related to the determination of reasonable rates and terms of royalty payments for certain types of public performances of sound recordings.
 
-Subsec. (f)(4)(C). Pub. L. 115–264, § 103(g)(1), substituted “under paragraph (3)” for “under paragraph (4)”.
+Subsec. (f)(4)(C). Pub. L. 115–264, § 103(g)(1), substituted “under paragraph (3)” for “under paragraph (4)”.
 
-Subsec. (g)(2). Pub. L. 115–264, § 302(c)(1), substituted “Except as provided for in paragraph (6), a nonprofit collective designated by the Copyright Royalty Judges” for “An agent designated” in introductory provisions.
+Subsec. (g)(2). Pub. L. 115–264, § 302(c)(1), substituted “Except as provided for in paragraph (6), a nonprofit collective designated by the Copyright Royalty Judges” for “An agent designated” in introductory provisions.
 
-Subsec. (g)(3). Pub. L. 115–264, § 302(c)(2), in introductory provisions, substituted “nonprofit collective designated by the Copyright Royalty Judges” for “nonprofit agent designated”, “another designated nonprofit collective” for “another designated agent”, “such nonprofit collective” for “such nonprofit agent”, and “of such collective” for “of such agent”.
+Subsec. (g)(3). Pub. L. 115–264, § 302(c)(2), in introductory provisions, substituted “nonprofit collective designated by the Copyright Royalty Judges” for “nonprofit agent designated”, “another designated nonprofit collective” for “another designated agent”, “such nonprofit collective” for “such nonprofit agent”, and “of such collective” for “of such agent”.
 
-Subsec. (g)(4). Pub. L. 115–264, § 302(c)(3), substituted “nonprofit collective” for “designated agent” and substituted “such collective” for “such agent” in two places.
+Subsec. (g)(4). Pub. L. 115–264, § 302(c)(3), substituted “nonprofit collective” for “designated agent” and substituted “such collective” for “such agent” in two places.
 
-Subsec. (g)(5). Pub. L. 115–264, § 302(a), added par. (5).
+Subsec. (g)(5). Pub. L. 115–264, § 302(a), added par. (5).
 
-Subsec. (g)(6). Pub. L. 115–264, § 302(b), added par. (6).
+Subsec. (g)(6). Pub. L. 115–264, § 302(b), added par. (6).
 
-Subsec. (g)(7). Pub. L. 115–264, § 302(c)(4), added par. (7).
+Subsec. (g)(7). Pub. L. 115–264, § 302(c)(4), added par. (7).
 
-Subsec. (i). Pub. L. 115–264, § 103(b), struck out subsec. (i). Text read as follows: “License fees payable for the public performance of sound recordings under section 106(6) shall not be taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to copyright owners of musical works for the public performance of their works. It is the intent of Congress that royalties payable to copyright owners of musical works for the public performance of their works shall not be diminished in any respect as a result of the rights granted by section 106(6).”
+Subsec. (i). Pub. L. 115–264, § 103(b), struck out subsec. (i). Text read as follows: “License fees payable for the public performance of sound recordings under section 106(6) shall not be taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to copyright owners of musical works for the public performance of their works. It is the intent of Congress that royalties payable to copyright owners of musical works for the public performance of their works shall not be diminished in any respect as a result of the rights granted by section 106(6).”
 
-2010—Subsec. (b). Pub. L. 111–295, § 6(f)(1), substituted “118(f)” for “118(g)”.
+2010—Subsec. (b). Pub. L. 111–295, § 6(f)(1), substituted “118(f)” for “118(g)”.
 
-Subsec. (f)(2)(B). Pub. L. 111–295, § 6(b), substituted “Judges shall base their decision” for “Judges shall base its decision” in introductory provisions.
+Subsec. (f)(2)(B). Pub. L. 111–295, § 6(b), substituted “Judges shall base their decision” for “Judges shall base its decision” in introductory provisions.
 
-Subsec. (f)(2)(C). Pub. L. 111–295, § 5(c), substituted “eligible nonsubscription services and new subscription services” for “preexisting subscription digital audio transmission services or preexisting satellite digital radio audio services”.
+Subsec. (f)(2)(C). Pub. L. 111–295, § 5(c), substituted “eligible nonsubscription services and new subscription services” for “preexisting subscription digital audio transmission services or preexisting satellite digital radio audio services”.
 
-2009—Subsec. (f)(5)(D). Pub. L. 111–36, § 2(1), substituted “2008, the Webcaster Settlement Act of 2009,” for “2008”.
+2009—Subsec. (f)(5)(D). Pub. L. 111–36, § 2(1), substituted “2008, the Webcaster Settlement Act of 2009,” for “2008”.
 
-Subsec. (f)(5)(E)(iii). Pub. L. 111–36, § 2(2), struck out “to make eligible nonsubscription transmissions and ephemeral recordings” after “therefor”.
+Subsec. (f)(5)(E)(iii). Pub. L. 111–36, § 2(2), struck out “to make eligible nonsubscription transmissions and ephemeral recordings” after “therefor”.
 
-Subsec. (f)(5)(F). Pub. L. 111–36, § 2(3), substituted “at 11:59 p.m. Eastern time on the 30th day after the date of the enactment of the Webcaster Settlement Act of 2009” for “February 15, 2009”.
+Subsec. (f)(5)(F). Pub. L. 111–36, § 2(3), substituted “at 11:59 p.m. Eastern time on the 30th day after the date of the enactment of the Webcaster Settlement Act of 2009” for “February 15, 2009”.
 
-2008—Subsec. (f)(5)(A). Pub. L. 110–435, § 2(1), substituted “commercial” for “small commercial” wherever appearing, in first sentence substituted “for a period of not more than 11 years beginning on January 1, 2005” for “during the period beginning on October 28, 1998, and ending on December 31, 2004” and “the Copyright Royalty Judges” for “a copyright arbitration royalty panel or decision by the Librarian of Congress”, and in second sentence substituted “webcasters may include” for “webcasters shall include”.
+2008—Subsec. (f)(5)(A). Pub. L. 110–435, § 2(1), substituted “commercial” for “small commercial” wherever appearing, in first sentence substituted “for a period of not more than 11 years beginning on January 1, 2005” for “during the period beginning on October 28, 1998, and ending on December 31, 2004” and “the Copyright Royalty Judges” for “a copyright arbitration royalty panel or decision by the Librarian of Congress”, and in second sentence substituted “webcasters may include” for “webcasters shall include”.
 
-Subsec. (f)(5)(B). Pub. L. 110–435, § 2(2), substituted “commercial” for “small commercial”.
+Subsec. (f)(5)(B). Pub. L. 110–435, § 2(2), substituted “commercial” for “small commercial”.
 
-Subsec. (f)(5)(C). Pub. L. 110–435, § 2(3), substituted “Copyright Royalty Judges” for “Librarian of Congress” and “webcasters” for “small webcasters” and inserted at end “This subparagraph shall not apply to the extent that the receiving agent and a webcaster that is party to an agreement entered into pursuant to subparagraph (A) expressly authorize the submission of the agreement in a proceeding under this subsection.”
+Subsec. (f)(5)(C). Pub. L. 110–435, § 2(3), substituted “Copyright Royalty Judges” for “Librarian of Congress” and “webcasters” for “small webcasters” and inserted at end “This subparagraph shall not apply to the extent that the receiving agent and a webcaster that is party to an agreement entered into pursuant to subparagraph (A) expressly authorize the submission of the agreement in a proceeding under this subsection.”
 
-Subsec. (f)(5)(D). Pub. L. 110–435, § 2(4)(B), substituted “Copyright Royalty Judges of May 1, 2007” for “Librarian of Congress of July 8, 2002”.
+Subsec. (f)(5)(D). Pub. L. 110–435, § 2(4)(B), substituted “Copyright Royalty Judges of May 1, 2007” for “Librarian of Congress of July 8, 2002”.
 
-Pub. L. 110–435, § 2(4)(A), which directed substitution of “the Webcaster Settlement Act of 2008” for “the Small Webcasters Settlement Act of 2002”, was executed by making the substitution for “the Small Webcaster Settlement Act of 2002”, to reflect the probable intent of Congress.
+Pub. L. 110–435, § 2(4)(A), which directed substitution of “the Webcaster Settlement Act of 2008” for “the Small Webcasters Settlement Act of 2002”, was executed by making the substitution for “the Small Webcaster Settlement Act of 2002”, to reflect the probable intent of Congress.
 
-Subsec. (f)(5)(F). Pub. L. 110–435, § 2(5), substituted “February 15, 2009” for “December 15, 2002, except with respect to noncommercial webcasters for whom the authority shall expire May 31, 2003”.
+Subsec. (f)(5)(F). Pub. L. 110–435, § 2(5), substituted “February 15, 2009” for “December 15, 2002, except with respect to noncommercial webcasters for whom the authority shall expire May 31, 2003”.
 
-2006—Subsec. (f)(1)(A). Pub. L. 109–303, § 4(b)(1), substituted “except in the case of a different transitional period provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004, or such other period as the parties may agree.” for “except where a different transitional period is provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004 or such other period.”
+2006—Subsec. (f)(1)(A). Pub. L. 109–303, § 4(b)(1), substituted “except in the case of a different transitional period provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004, or such other period as the parties may agree.” for “except where a different transitional period is provided under section 6(b)(3) of the Copyright Royalty and Distribution Reform Act of 2004 or such other period.”
 
-Subsec. (f)(2)(A). Pub. L. 109–303, § 4(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to rates and terms of royalty payments for subscription transmissions by eligible nonsubscription transmission services and new subscription services.
+Subsec. (f)(2)(A). Pub. L. 109–303, § 4(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to rates and terms of royalty payments for subscription transmissions by eligible nonsubscription transmission services and new subscription services.
 
-Subsec. (f)(2)(B). Pub. L. 109–303, § 4(b)(3), substituted “described in” for “negotiated under” in concluding provisions.
+Subsec. (f)(2)(B). Pub. L. 109–303, § 4(b)(3), substituted “described in” for “negotiated under” in concluding provisions.
 
-2004—Subsec. (f)(1)(A). Pub. L. 108–419, § 5(c)(1)(A), substituted first sentence for former first sentence which read: “No later than 30 days after the enactment of the Digital Performance Right in Sound Recordings Act of 1995, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for subscription transmissions by preexisting subscription services and transmissions by preexisting satellite digital audio radio services specified by subsection (d)(2) of this section during the period beginning on the effective date of such Act and ending on December 31, 2001, or, if a copyright arbitration royalty panel is convened, ending 30 days after the Librarian issues and publishes in the Federal Register an order adopting the determination of the copyright arbitration royalty panel or an order setting the terms and rates (if the Librarian rejects the panel’s determination).”, substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence, and struck out “negotiation” before “proceeding” in fourth sentence.
+2004—Subsec. (f)(1)(A). Pub. L. 108–419, § 5(c)(1)(A), substituted first sentence for former first sentence which read: “No later than 30 days after the enactment of the Digital Performance Right in Sound Recordings Act of 1995, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for subscription transmissions by preexisting subscription services and transmissions by preexisting satellite digital audio radio services specified by subsection (d)(2) of this section during the period beginning on the effective date of such Act and ending on December 31, 2001, or, if a copyright arbitration royalty panel is convened, ending 30 days after the Librarian issues and publishes in the Federal Register an order adopting the determination of the copyright arbitration royalty panel or an order setting the terms and rates (if the Librarian rejects the panel’s determination).”, substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence, and struck out “negotiation” before “proceeding” in fourth sentence.
 
-Subsec. (f)(1)(B). Pub. L. 108–419, § 5(c)(1)(B), substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraph (A), during the 60-day period commencing 6 months after publication of the notice specified in subparagraph (A), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph.” and, in second sentence, substituted “Copyright Royalty Judges may consider” for “copyright arbitration royalty panel may consider” and “described” for “negotiated as provided”.
+Subsec. (f)(1)(B). Pub. L. 108–419, § 5(c)(1)(B), substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraph (A), during the 60-day period commencing 6 months after publication of the notice specified in subparagraph (A), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph.” and, in second sentence, substituted “Copyright Royalty Judges may consider” for “copyright arbitration royalty panel may consider” and “described” for “negotiated as provided”.
 
-Subsec. (f)(1)(C). Pub. L. 108–419, § 5(c)(1)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to repetition of publication of notices of the initiation of voluntary negotiation proceedings as specified in subpar. (A) and repetition of the procedures specified in subpar. (B).
+Subsec. (f)(1)(C). Pub. L. 108–419, § 5(c)(1)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to repetition of publication of notices of the initiation of voluntary negotiation proceedings as specified in subpar. (A) and repetition of the procedures specified in subpar. (B).
 
-Subsec. (f)(2)(A). Pub. L. 108–419, § 5(c)(2)(A)(ii), (iii), substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence and struck out “negotiation” after “parties to each” in fourth sentence.
+Subsec. (f)(2)(A). Pub. L. 108–419, § 5(c)(2)(A)(ii), (iii), substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence and struck out “negotiation” after “parties to each” in fourth sentence.
 
-Pub. L. 108–419, § 5(c)(2)(A)(i), which directed the general amendment of the first paragraph, was executed by making the amendment to first sentence of subpar. (A) to reflect the probable intent of Congress. Prior to amendment, first sentence read as follows: “No later than 30 days after the date of the enactment of the Digital Millennium Copyright Act, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for public performances of sound recordings by means of eligible nonsubscription transmissions and transmissions by new subscription services specified by subsection (d)(2) during the period beginning on the date of the enactment of such Act and ending on December 31, 2000, or such other date as the parties may agree.”
+Pub. L. 108–419, § 5(c)(2)(A)(i), which directed the general amendment of the first paragraph, was executed by making the amendment to first sentence of subpar. (A) to reflect the probable intent of Congress. Prior to amendment, first sentence read as follows: “No later than 30 days after the date of the enactment of the Digital Millennium Copyright Act, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for public performances of sound recordings by means of eligible nonsubscription transmissions and transmissions by new subscription services specified by subsection (d)(2) during the period beginning on the date of the enactment of such Act and ending on December 31, 2000, or such other date as the parties may agree.”
 
-Subsec. (f)(2)(B). Pub. L. 108–419, § 5(c)(2)(B)(iii), which directed substitution of “described in” for “negotiated as provided” in last sentence, could not be executed because “negotiated as provided” does not appear in text.
+Subsec. (f)(2)(B). Pub. L. 108–419, § 5(c)(2)(B)(iii), which directed substitution of “described in” for “negotiated as provided” in last sentence, could not be executed because “negotiated as provided” does not appear in text.
 
-Pub. L. 108–419, § 5(c)(2)(B)(ii), substituted “Copyright Royalty Judges” for “copyright arbitration royalty panel” wherever appearing after first sentence.
+Pub. L. 108–419, § 5(c)(2)(B)(ii), substituted “Copyright Royalty Judges” for “copyright arbitration royalty panel” wherever appearing after first sentence.
 
-Pub. L. 108–419, § 5(c)(2)(B)(i), substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraph (A), during the 60-day period commencing 6 months after publication of the notice specified in subparagraph (A), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph during the period beginning on the date of the enactment of the Digital Millennium Copyright Act and ending on December 31, 2000, or such other date as the parties may agree.”
+Pub. L. 108–419, § 5(c)(2)(B)(i), substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraph (A), during the 60-day period commencing 6 months after publication of the notice specified in subparagraph (A), and upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (3), shall be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph during the period beginning on the date of the enactment of the Digital Millennium Copyright Act and ending on December 31, 2000, or such other date as the parties may agree.”
 
-Subsec. (f)(2)(C). Pub. L. 108–419, § 5(c)(2)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to repetition of publication of notices of the initiation of voluntary negotiation proceedings as specified in subpar. (A) and repetition of the procedures specified in subpar. (B).
+Subsec. (f)(2)(C). Pub. L. 108–419, § 5(c)(2)(C), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to repetition of publication of notices of the initiation of voluntary negotiation proceedings as specified in subpar. (A) and repetition of the procedures specified in subpar. (B).
 
-Subsec. (f)(3). Pub. L. 108–419, § 5(c)(3), substituted “decision by the Librarian of Congress or determination by the Copyright Royalty Judges” for “determination by a copyright arbitration royalty panel or decision by the Librarian of Congress”.
+Subsec. (f)(3). Pub. L. 108–419, § 5(c)(3), substituted “decision by the Librarian of Congress or determination by the Copyright Royalty Judges” for “determination by a copyright arbitration royalty panel or decision by the Librarian of Congress”.
 
-Subsec. (f)(4). Pub. L. 108–419, § 5(c)(4), substituted “Copyright Royalty Judges” for “Librarian of Congress” in two places and inserted after first sentence in subpar. (A) “The notice and recordkeeping rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 shall remain in effect unless and until new regulations are promulgated by the Copyright Royalty Judges. If new regulations are promulgated under this subparagraph, the Copyright Royalty Judges shall take into account the substance and effect of the rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 and shall, to the extent practicable, avoid significant disruption of the functions of any designated agent authorized to collect and distribute royalty fees.”
+Subsec. (f)(4). Pub. L. 108–419, § 5(c)(4), substituted “Copyright Royalty Judges” for “Librarian of Congress” in two places and inserted after first sentence in subpar. (A) “The notice and recordkeeping rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 shall remain in effect unless and until new regulations are promulgated by the Copyright Royalty Judges. If new regulations are promulgated under this subparagraph, the Copyright Royalty Judges shall take into account the substance and effect of the rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 and shall, to the extent practicable, avoid significant disruption of the functions of any designated agent authorized to collect and distribute royalty fees.”
 
-2002—Subsec. (f)(5). Pub. L. 107–321, § 4, added par. (5).
+2002—Subsec. (f)(5). Pub. L. 107–321, § 4, added par. (5).
 
-Subsec. (g)(2). Pub. L. 107–321, § 5(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The copyright owner of the exclusive right under section 106(6) of this title to publicly perform a sound recording by means of a digital audio transmission shall allocate to recording artists in the following manner its receipts from the statutory licensing of transmission performances of the sound recording in accordance with subsection (f) of this section:
+Subsec. (g)(2). Pub. L. 107–321, § 5(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The copyright owner of the exclusive right under section 106(6) of this title to publicly perform a sound recording by means of a digital audio transmission shall allocate to recording artists in the following manner its receipts from the statutory licensing of transmission performances of the sound recording in accordance with subsection (f) of this section:
 
 “(A) 2½ percent of the receipts shall be deposited in an escrow account managed by an independent administrator jointly appointed by copyright owners of sound recordings and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians) who have performed on sound recordings.
 
@@ -3481,9 +3481,9 @@ Subsec. (g)(2). Pub. L. 107–321, § 5(c), amended par. (2) generally. Prior 
 
 “(C) 45 percent of the receipts shall be allocated, on a per sound recording basis, to the recording artist or artists featured on such sound recording (or the persons conveying rights in the artists’ performance in the sound recordings).”
 
-Subsec. (g)(3), (4). Pub. L. 107–321, § 5(b), added pars. (3) and (4).
+Subsec. (g)(3), (4). Pub. L. 107–321, § 5(b), added pars. (3) and (4).
 
-1998—Subsec. (d)(1)(A). Pub. L. 105–304, § 405(a)(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows:
+1998—Subsec. (d)(1)(A). Pub. L. 105–304, § 405(a)(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows:
 
 “(A)(i) a nonsubscription transmission other than a retransmission;
 
@@ -3491,7 +3491,7 @@ Subsec. (g)(3), (4). Pub. L. 107–321, § 5(b), added pars. (3) and (4).
 
 “(iii) a nonsubscription broadcast transmission;”.
 
-Subsec. (d)(2). Pub. L. 105–304, § 405(a)(1)(B), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of a subscription transmission not exempt under subsection (d)(1), the performance of a sound recording publicly by means of a digital audio transmission shall be subject to statutory licensing, in accordance with subsection (f) of this section, if—
+Subsec. (d)(2). Pub. L. 105–304, § 405(a)(1)(B), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “In the case of a subscription transmission not exempt under subsection (d)(1), the performance of a sound recording publicly by means of a digital audio transmission shall be subject to statutory licensing, in accordance with subsection (f) of this section, if—
 
 “(A) the transmission is not part of an interactive service;
 
@@ -3503,59 +3503,59 @@ Subsec. (d)(2). Pub. L. 105–304, § 405(a)(1)(B), amended heading and text o
 
 “(E) except as provided in section 1002(e) of this title, the transmission of the sound recording is accompanied by the information encoded in that sound recording, if any, by or under the authority of the copyright owner of that sound recording, that identifies the title of the sound recording, the featured recording artist who performs on the sound recording, and related information, including information concerning the underlying musical work and its writer.”
 
-Subsec. (f). Pub. L. 105–304, § 405(a)(2)(A), substituted “Certain Nonexempt” for “Nonexempt Subscription” in heading.
+Subsec. (f). Pub. L. 105–304, § 405(a)(2)(A), substituted “Certain Nonexempt” for “Nonexempt Subscription” in heading.
 
-Subsec. (f)(1)(A). Pub. L. 105–304, § 405(a)(2)(B), designated existing provisions as subpar. (A), in first sentence, substituted “subscription transmissions by preexisting subscription services and transmissions by preexisting satellite digital audio radio services” for “the activities” and “2001” for “2000”, and amended third sentence generally. Prior to amendment, third sentence read as follows: “Any copyright owners of sound recordings or any entities performing sound recordings affected by this section may submit to the Librarian of Congress licenses covering such activities with respect to such sound recordings.”
+Subsec. (f)(1)(A). Pub. L. 105–304, § 405(a)(2)(B), designated existing provisions as subpar. (A), in first sentence, substituted “subscription transmissions by preexisting subscription services and transmissions by preexisting satellite digital audio radio services” for “the activities” and “2001” for “2000”, and amended third sentence generally. Prior to amendment, third sentence read as follows: “Any copyright owners of sound recordings or any entities performing sound recordings affected by this section may submit to the Librarian of Congress licenses covering such activities with respect to such sound recordings.”
 
-Subsec. (f)(1)(B), (C). Pub. L. 105–304, § 405(a)(2)(C), added subpars. (B) and (C).
+Subsec. (f)(1)(B), (C). Pub. L. 105–304, § 405(a)(2)(C), added subpars. (B) and (C).
 
-Subsec. (f)(2) to (5). Pub. L. 105–304, § 405(a)(2)(C), added pars. (2) to (4) and struck out former pars. (2) to (5), which provided: in par. (2) that Librarian of Congress would convene a copyright arbitration royalty panel to determine schedule of rates and terms, that panel could consider rates and terms for comparable types of services under voluntary license agreements, and that requirements would be established by which copyright owners would receive notice of use of their recordings; in par. (3) that voluntarily negotiated license agreements would be given effect in lieu of determination by panel or decision by Librarian; in par. (4) that publication of notice of negotiations would be repeated no later than 30 days after petition was filed, in the first week of January, 2000, and at 5-year intervals thereafter, and that par. (2) procedures would be repeated upon filing of petition during a 60-day period commencing six months after publication of notice or on July 1, 2000 and at 5-year intervals thereafter; and in par. (5) that performance by non-exempt subscription transmission without infringing copyright was permissible by compliance with notice requirements and payment of royalty fees or agreement to pay such fees.
+Subsec. (f)(2) to (5). Pub. L. 105–304, § 405(a)(2)(C), added pars. (2) to (4) and struck out former pars. (2) to (5), which provided: in par. (2) that Librarian of Congress would convene a copyright arbitration royalty panel to determine schedule of rates and terms, that panel could consider rates and terms for comparable types of services under voluntary license agreements, and that requirements would be established by which copyright owners would receive notice of use of their recordings; in par. (3) that voluntarily negotiated license agreements would be given effect in lieu of determination by panel or decision by Librarian; in par. (4) that publication of notice of negotiations would be repeated no later than 30 days after petition was filed, in the first week of January, 2000, and at 5-year intervals thereafter, and that par. (2) procedures would be repeated upon filing of petition during a 60-day period commencing six months after publication of notice or on July 1, 2000 and at 5-year intervals thereafter; and in par. (5) that performance by non-exempt subscription transmission without infringing copyright was permissible by compliance with notice requirements and payment of royalty fees or agreement to pay such fees.
 
-Subsec. (g). Pub. L. 105–304, § 405(a)(3)(A), struck out “Subscription” before “Transmissions” in heading.
+Subsec. (g). Pub. L. 105–304, § 405(a)(3)(A), struck out “Subscription” before “Transmissions” in heading.
 
-Subsec. (g)(1). Pub. L. 105–304, § 405(a)(3)(B), substituted “transmission licensed under a statutory license” for “subscription transmission licensed” in introductory provisions.
+Subsec. (g)(1). Pub. L. 105–304, § 405(a)(3)(B), substituted “transmission licensed under a statutory license” for “subscription transmission licensed” in introductory provisions.
 
-Subsec. (g)(1)(A), (B). Pub. L. 105–304, § 405(a)(3)(C), struck out “subscription” before “transmission”.
+Subsec. (g)(1)(A), (B). Pub. L. 105–304, § 405(a)(3)(C), struck out “subscription” before “transmission”.
 
-Subsec. (g)(2). Pub. L. 105–304, § 405(a)(3)(D), struck out “subscription” before “transmission performances” in introductory provisions.
+Subsec. (g)(2). Pub. L. 105–304, § 405(a)(3)(D), struck out “subscription” before “transmission performances” in introductory provisions.
 
-Subsec. (j)(2), (3). Pub. L. 105–304, § 405(a)(4)(A), (B), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (5).
+Subsec. (j)(2), (3). Pub. L. 105–304, § 405(a)(4)(A), (B), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (5).
 
-Subsec. (j)(4). Pub. L. 105–304, § 405(a)(4)(A), (C), added par. (4) and struck out former par. (4) which read as follows: “An ‘interactive service’ is one that enables a member of the public to receive, on request, a transmission of a particular sound recording chosen by or on behalf of the recipient. The ability of individuals to request that particular sound recordings be performed for reception by the public at large does not make a service interactive. If an entity offers both interactive and non-interactive services (either concurrently or at different times), the non-interactive component shall not be treated as part of an interactive service.”
+Subsec. (j)(4). Pub. L. 105–304, § 405(a)(4)(A), (C), added par. (4) and struck out former par. (4) which read as follows: “An ‘interactive service’ is one that enables a member of the public to receive, on request, a transmission of a particular sound recording chosen by or on behalf of the recipient. The ability of individuals to request that particular sound recordings be performed for reception by the public at large does not make a service interactive. If an entity offers both interactive and non-interactive services (either concurrently or at different times), the non-interactive component shall not be treated as part of an interactive service.”
 
-Subsec. (j)(5). Pub. L. 105–304, § 405(a)(4)(A), redesignated par. (3) as (5). Former par. (5) redesignated (9).
+Subsec. (j)(5). Pub. L. 105–304, § 405(a)(4)(A), redesignated par. (3) as (5). Former par. (5) redesignated (9).
 
-Subsec. (j)(6) to (8). Pub. L. 105–304, § 405(a)(4)(A), (D), added pars. (6) to (8). Former pars. (6) to (8) redesignated (12) to (14), respectively.
+Subsec. (j)(6) to (8). Pub. L. 105–304, § 405(a)(4)(A), (D), added pars. (6) to (8). Former pars. (6) to (8) redesignated (12) to (14), respectively.
 
-Subsec. (j)(9). Pub. L. 105–304, § 405(a)(4)(A), redesignated par. (5) as (9) and struck out former par. (9) which read as follows: “A ‘transmission’ includes both an initial transmission and a retransmission.”
+Subsec. (j)(9). Pub. L. 105–304, § 405(a)(4)(A), redesignated par. (5) as (9) and struck out former par. (9) which read as follows: “A ‘transmission’ includes both an initial transmission and a retransmission.”
 
-Subsec. (j)(10), (11). Pub. L. 105–304, § 405(a)(4)(E), added pars. (10) and (11).
+Subsec. (j)(10), (11). Pub. L. 105–304, § 405(a)(4)(E), added pars. (10) and (11).
 
-Subsec. (j)(12) to (14). Pub. L. 105–304, § 405(a)(4)(A), redesignated pars. (6) to (8) as (12) to (14), respectively.
+Subsec. (j)(12) to (14). Pub. L. 105–304, § 405(a)(4)(A), redesignated pars. (6) to (8) as (12) to (14), respectively.
 
-Subsec. (j)(15). Pub. L. 105–304, § 405(a)(4)(F), added par. (15).
+Subsec. (j)(15). Pub. L. 105–304, § 405(a)(4)(F), added par. (15).
 
-1997—Subsec. (f)(1). Pub. L. 105–80, § 3(1), inserted “, or, if a copyright arbitration royalty panel is convened, ending 30 days after the Librarian issues and publishes in the Federal Register an order adopting the determination of the copyright arbitration royalty panel or an order setting the terms and rates (if the Librarian rejects the panel’s determination)” after “December 31, 2000”.
+1997—Subsec. (f)(1). Pub. L. 105–80, § 3(1), inserted “, or, if a copyright arbitration royalty panel is convened, ending 30 days after the Librarian issues and publishes in the Federal Register an order adopting the determination of the copyright arbitration royalty panel or an order setting the terms and rates (if the Librarian rejects the panel’s determination)” after “December 31, 2000”.
 
-Subsec. (f)(2). Pub. L. 105–80, § 3(2), struck out “and publish in the Federal Register” before “a schedule of rates and terms”.
+Subsec. (f)(2). Pub. L. 105–80, § 3(2), struck out “and publish in the Federal Register” before “a schedule of rates and terms”.
 
-1995—Subsec. (a). Pub. L. 104–39, § 3(1), substituted “(3) and (6) of section 106” for “and (3) of section 106”.
+1995—Subsec. (a). Pub. L. 104–39, § 3(1), substituted “(3) and (6) of section 106” for “and (3) of section 106”.
 
-Subsec. (b). Pub. L. 104–39, § 3(2), substituted “phonorecords or copies” for “phonorecords, or of copies of motion pictures and other audiovisual works,” in first sentence.
+Subsec. (b). Pub. L. 104–39, § 3(2), substituted “phonorecords or copies” for “phonorecords, or of copies of motion pictures and other audiovisual works,” in first sentence.
 
-Subsec. (d). Pub. L. 104–39, § 3(3), added subsec. (d) and struck out former subsec. (d), which read as follows: “On January 3, 1978, the Register of Copyrights, after consulting with representatives of owners of copyrighted materials, representatives of the broadcasting, recording, motion picture, entertainment industries, and arts organizations, representatives of organized labor and performers of copyrighted materials, shall submit to the Congress a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners of copyrighted material any performance rights in such material. The report should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.”
+Subsec. (d). Pub. L. 104–39, § 3(3), added subsec. (d) and struck out former subsec. (d), which read as follows: “On January 3, 1978, the Register of Copyrights, after consulting with representatives of owners of copyrighted materials, representatives of the broadcasting, recording, motion picture, entertainment industries, and arts organizations, representatives of organized labor and performers of copyrighted materials, shall submit to the Congress a report setting forth recommendations as to whether this section should be amended to provide for performers and copyright owners of copyrighted material any performance rights in such material. The report should describe the status of such rights in foreign countries, the views of major interested parties, and specific legislative or other recommendations, if any.”
 
-Subsecs. (e) to (j). Pub. L. 104–39, § 3(4), added subsecs. (e) to (j).
+Subsecs. (e) to (j). Pub. L. 104–39, § 3(4), added subsecs. (e) to (j).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–264, title I, § 103(h), Oct. 11, 2018, 132 Stat. 3725, provided that: “The amendments made by subsection (a)(1) [amending this section] shall apply to any proceeding before the Copyright Royalty Judges that is commenced on or after the date of the enactment of this Act [Oct. 11, 2018].”
+Pub. L. 115–264, title I, § 103(h), Oct. 11, 2018, 132 Stat. 3725, provided that: “The amendments made by subsection (a)(1) [amending this section] shall apply to any proceeding before the Copyright Royalty Judges that is commenced on or after the date of the enactment of this Act [Oct. 11, 2018].”
 
-Pub. L. 115–264, title I, § 106, Oct. 11, 2018, 132 Stat. 3727, provided that: “This title [amending this section and sections 115, 801, 803, and 804 of this title and section 137 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 101, 106, and 115 of this title], and the amendments made by this title, shall take effect on the date of enactment of this Act [Oct. 11, 2018].”
+Pub. L. 115–264, title I, § 106, Oct. 11, 2018, 132 Stat. 3727, provided that: “This title [amending this section and sections 115, 801, 803, and 804 of this title and section 137 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 101, 106, and 115 of this title], and the amendments made by this title, shall take effect on the date of enactment of this Act [Oct. 11, 2018].”
 
-Pub. L. 115–264, title III, § 303, Oct. 11, 2018, 132 Stat. 3741, provided that:
+Pub. L. 115–264, title III, § 303, Oct. 11, 2018, 132 Stat. 3741, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this title [amending this section and enacting provisions set out as a note under section 101 of this title] and the amendments made by this title shall take effect on the date of enactment of this Act [Oct. 11, 2018].
 
@@ -3573,7 +3573,7 @@ Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject t
 
 Amendment by section 405(a)(1), (2)(A), (B)(i)(I), (II), (ii), (3), (4) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, see section 407 of Pub. L. 105–304, set out as a note under section 108 of this title.
 
-Pub. L. 105–304, title IV, § 405(a)(5), Oct. 28, 1998, 112 Stat. 2899, provided that: “The amendment made by paragraph (2)(B)(i)(III) of this subsection [amending this section] shall be deemed to have been enacted as part of the Digital Performance Right in Sound Recordings Act of 1995 [Pub. L. 104–39], and the publication of notice of proceedings under [former] section 114(f)(1) of title 17, United States Code, as in effect upon the effective date of that Act [see Effective Date of 1995 Amendment note set out under section 101 of this title], for the determination of royalty payments shall be deemed to have been made for the period beginning on the effective date of that Act and ending on December 1, 2001.”
+Pub. L. 105–304, title IV, § 405(a)(5), Oct. 28, 1998, 112 Stat. 2899, provided that: “The amendment made by paragraph (2)(B)(i)(III) of this subsection [amending this section] shall be deemed to have been enacted as part of the Digital Performance Right in Sound Recordings Act of 1995 [Pub. L. 104–39], and the publication of notice of proceedings under [former] section 114(f)(1) of title 17, United States Code, as in effect upon the effective date of that Act [see Effective Date of 1995 Amendment note set out under section 101 of this title], for the determination of royalty payments shall be deemed to have been made for the period beginning on the effective date of that Act and ending on December 1, 2001.”
 
 **Effective Date of 1995 Amendment**
 
@@ -3581,21 +3581,21 @@ Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, except that
 
 **Severability**
 
-Pub. L. 115–264, title IV, § 401, Oct. 11, 2018, 132 Stat. 3741, provided that: “If any provision of this Act [see Short Title of 2018 Amendment note set out under section 101 of this title] or any amendment made by this Act, or any application of such provision or amendment to any person or circumstance, is held to be unconstitutional, the remainder of the provisions of this Act and the amendments made by this Act, and the application of the provision or amendment to any other person or circumstance, shall not be affected.”
+Pub. L. 115–264, title IV, § 401, Oct. 11, 2018, 132 Stat. 3741, provided that: “If any provision of this Act [see Short Title of 2018 Amendment note set out under section 101 of this title] or any amendment made by this Act, or any application of such provision or amendment to any person or circumstance, is held to be unconstitutional, the remainder of the provisions of this Act and the amendments made by this Act, and the application of the provision or amendment to any other person or circumstance, shall not be affected.”
 
 **Construction of 2018 Amendment**
 
-Pub. L. 115–264, title I, § 103(e), Oct. 11, 2018, 132 Stat. 3724, provided that: “The repeal of section 114(i) of title 17, United States Code, by subsection (b) shall not be taken into account in any proceeding to set or adjust the rates and fees payable for the use of sound recordings under section 112(e) or 114(f) of such title that is pending on, or commenced on or after, the date of enactment of this Act [Oct. 11, 2018].”
+Pub. L. 115–264, title I, § 103(e), Oct. 11, 2018, 132 Stat. 3724, provided that: “The repeal of section 114(i) of title 17, United States Code, by subsection (b) shall not be taken into account in any proceeding to set or adjust the rates and fees payable for the use of sound recordings under section 112(e) or 114(f) of such title that is pending on, or commenced on or after, the date of enactment of this Act [Oct. 11, 2018].”
 
-Pub. L. 115–264, title I, § 103(f), Oct. 11, 2018, 132 Stat. 3725, provided that: “The repeal of section 114(i) of title 17, United States Code, by subsection (b) shall not have any effect upon the decisions, or the precedents established or relied upon, in any proceeding to set or adjust the rates and fees payable for the use of sound recordings under section 112(e) or 114(f) of such title before the date of enactment of this Act [Oct. 11, 2018].”
+Pub. L. 115–264, title I, § 103(f), Oct. 11, 2018, 132 Stat. 3725, provided that: “The repeal of section 114(i) of title 17, United States Code, by subsection (b) shall not have any effect upon the decisions, or the precedents established or relied upon, in any proceeding to set or adjust the rates and fees payable for the use of sound recordings under section 112(e) or 114(f) of such title before the date of enactment of this Act [Oct. 11, 2018].”
 
 **Construction of 1998 Amendment**
 
-Pub. L. 105–304, title IV, § 405(a)(6), Oct. 28, 1998, 112 Stat. 2899, provided that: “The amendments made by this subsection [amending this section] do not annul, limit, or otherwise impair the rights that are preserved by section 114 of title 17, United States Code, including the rights preserved by subsections (c), (d)(4), and (i) of such section.”
+Pub. L. 105–304, title IV, § 405(a)(6), Oct. 28, 1998, 112 Stat. 2899, provided that: “The amendments made by this subsection [amending this section] do not annul, limit, or otherwise impair the rights that are preserved by section 114 of title 17, United States Code, including the rights preserved by subsections (c), (d)(4), and (i) of such section.”
 
 **Use in Musical Work Proceedings; No Effect on Interpretation**
 
-Pub. L. 115–264, title I, § 103(c), (d), Oct. 11, 2018, 132 Stat. 3724, provided that:
+Pub. L. 115–264, title I, § 103(c), (d), Oct. 11, 2018, 132 Stat. 3724, provided that:
 
 > **“(c) Use in Musical Work Proceedings.—**
 
@@ -3611,7 +3611,7 @@ Pub. L. 115–264, title I, § 103(c), (d), Oct. 11, 2018, 132 Stat. 3724, pro
 
 **Findings Relating to Pub. L. 107–321**
 
-Pub. L. 107–321, § 2, Dec. 4, 2002, 116 Stat. 2780, provided that:
+Pub. L. 107–321, § 2, Dec. 4, 2002, 116 Stat. 2780, provided that:
 
 > “Congress finds the following:
 
@@ -3629,7 +3629,7 @@ Pub. L. 107–321, § 2, Dec. 4, 2002, 116 Stat. 2780, provided that:
 
 > **“(7)** It is, nevertheless, in the public interest for the parties to be able to enter into such an agreement without fear of liability for deviating from the fees and terms of the July 8 order, if it is clear that the agreement will not be admissible as evidence or otherwise taken into account in any government proceeding involving the setting or adjustment of the royalties payable to copyright owners of sound recordings for the public performance or reproduction in ephemeral phonorecords or copies of such works, the determination of terms or conditions related thereto, or the establishment of notice or recordkeeping requirements.”
 
-Pub. L. 107–321, § 5(a), Dec. 4, 2002, 116 Stat. 2783, provided that:
+Pub. L. 107–321, § 5(a), Dec. 4, 2002, 116 Stat. 2783, provided that:
 
 > “Congress finds that—
 
@@ -3643,7 +3643,7 @@ Pub. L. 107–321, § 5(a), Dec. 4, 2002, 116 Stat. 2783, provided that:
 
 **Suspension of Certain Payments**
 
-Pub. L. 107–321, § 3, Dec. 4, 2002, 116 Stat. 2781, provided that:
+Pub. L. 107–321, § 3, Dec. 4, 2002, 116 Stat. 2781, provided that:
 
 > **“(a) Noncommercial Webcasters.—**
 
@@ -3663,9 +3663,9 @@ Pub. L. 107–321, § 3, Dec. 4, 2002, 116 Stat. 2781, provided that:
 
 **Report to Congress**
 
-Pub. L. 107–321, § 6, Dec. 4, 2002, 116 Stat. 2785, required that, by not later than June 1, 2004, the Comptroller General, in consultation with the Register of Copyrights, was to conduct and submit to Congress a study concerning the economic arrangements among small commercial webcasters covered by agreements entered into pursuant to subsec. (f) of this section and third parties, and the effect of those arrangements on royalty fees payable on a percentage of revenue or expense basis.
+Pub. L. 107–321, § 6, Dec. 4, 2002, 116 Stat. 2785, required that, by not later than June 1, 2004, the Comptroller General, in consultation with the Register of Copyrights, was to conduct and submit to Congress a study concerning the economic arrangements among small commercial webcasters covered by agreements entered into pursuant to subsec. (f) of this section and third parties, and the effect of those arrangements on royalty fees payable on a percentage of revenue or expense basis.
 
-## § 115. Scope of exclusive rights in nondramatic musical works: Compulsory license for making and distributing phonorecords
+## § 115. Scope of exclusive rights in nondramatic musical works: Compulsory license for making and distributing phonorecords
 
 In the case of nondramatic musical works, the exclusive rights provided by clauses (1) and (3) of section 106, to make and to distribute phonorecords of such works, are subject to compulsory licensing under the conditions specified by this section.
 
@@ -4629,7 +4629,7 @@ In the case of nondramatic musical works, the exclusive rights provided by claus
 
 **(36) Voluntary license.—** The term “voluntary license” means a license for use of a musical work (or share thereof) other than a compulsory license obtained under this section.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2561; Pub. L. 98–450, § 3, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 104–39, § 4, Nov. 1, 1995, 109 Stat. 344; Pub. L. 105–80, §§ 4, 10, 12(a)(7), Nov. 13, 1997, 111 Stat. 1531, 1534; Pub. L. 108–419, § 5(d), Nov. 30, 2004, 118 Stat. 2364; Pub. L. 109–303, § 4(c), Oct. 6, 2006, 120 Stat. 1482; Pub. L. 110–403, title II, § 209(a)(3), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–295, § 6(g), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 115–264, title I, § 102(a), Oct. 11, 2018, 132 Stat. 3677.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2561; Pub. L. 98–450, § 3, Oct. 4, 1984, 98 Stat. 1727; Pub. L. 104–39, § 4, Nov. 1, 1995, 109 Stat. 344; Pub. L. 105–80, §§ 4, 10, 12(a)(7), Nov. 13, 1997, 111 Stat. 1531, 1534; Pub. L. 108–419, § 5(d), Nov. 30, 2004, 118 Stat. 2364; Pub. L. 109–303, § 4(c), Oct. 6, 2006, 120 Stat. 1482; Pub. L. 110–403, title II, § 209(a)(3), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–295, § 6(g), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 115–264, title I, § 102(a), Oct. 11, 2018, 132 Stat. 3677.)
 
 **Historical and Revision Notes**
 
@@ -4655,7 +4655,7 @@ The second clause of subsection (a) is intended to recognize the practical need 
 
 The Committee deleted clause (2) of section 115(b) of S. 22 as adopted by the Senate. The provision was a vestige of jukebox provisions in earlier bills, and its requirements no longer served any useful purpose.
 
-Clause (2) [formerly clause (3)] of section 115(b) [cl. (2) of subsec. (b) of this section] provides that “failure to serve or file the notice required by clause (1) \* \* \* forecloses the possibility of a compulsory license and, in the absence of a negotiated license, renders the making and distribution of phonorecords actionable as acts of infringement under section 501 and fully subject to the remedies provided by sections 502 through 506.” The remedies provided in section 501 are those applicable to infringements generally.
+Clause (2) [formerly clause (3)] of section 115(b) [cl. (2) of subsec. (b) of this section] provides that “failure to serve or file the notice required by clause (1) \* \* \* forecloses the possibility of a compulsory license and, in the absence of a negotiated license, renders the making and distribution of phonorecords actionable as acts of infringement under section 501 and fully subject to the remedies provided by sections 502 through 506.” The remedies provided in section 501 are those applicable to infringements generally.
 
 **Royalty Payable Under Compulsory License.** *Identification of Copyright Owner*.—Under the present law a copyright owner is obliged to file a “notice of use” in the Copyright Office, stating that the initial recording of the copyrighted work has been made or licensed, in order to recover against an unauthorized record manufacturer. This requirement has resulted in a technical loss of rights in some cases, and serves little or no purpose where the registration and assignment records of the Copyright Office already show the facts of ownership. Section 115(c)(1) therefore drops any formal “notice of use” requirements and merely provides that, “to be entitled to receive royalties under a compulsory license, the copyright owner must be identified in the registration or other public records of the Copyright Office.” On the other hand, since proper identification is an important precondition of recovery, the bill further provides that “the owner is entitled to royalties for phonorecords manufactured and distributed after being so identified, but is not entitled to recover for any phonorecords previously made and distributed.”
 
@@ -4685,67 +4685,67 @@ The date of the enactment of the Musical Works Modernization Act, referred to in
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–264, § 102(a)(1)(A), inserted “in General” after “Availability and Scope of Compulsory License” in heading.
+2018—Subsec. (a). Pub. L. 115–264, § 102(a)(1)(A), inserted “in General” after “Availability and Scope of Compulsory License” in heading.
 
-Subsec. (a)(1). Pub. L. 115–264, § 102(a)(1)(B), added par. (1) and struck out former par. (1) which read as follows: “When phonorecords of a nondramatic musical work have been distributed to the public in the United States under the authority of the copyright owner, any other person, including those who make phonorecords or digital phonorecord deliveries, may, by complying with the provisions of this section, obtain a compulsory license to make and distribute phonorecords of the work. A person may obtain a compulsory license only if his or her primary purpose in making phonorecords is to distribute them to the public for private use, including by means of a digital phonorecord delivery. A person may not obtain a compulsory license for use of the work in the making of phonorecords duplicating a sound recording fixed by another, unless: (i) such sound recording was fixed lawfully; and (ii) the making of the phonorecords was authorized by the owner of copyright in the sound recording or, if the sound recording was fixed before February 15, 1972, by any person who fixed the sound recording pursuant to an express license from the owner of the copyright in the musical work or pursuant to a valid compulsory license for use of such work in a sound recording.”
+Subsec. (a)(1). Pub. L. 115–264, § 102(a)(1)(B), added par. (1) and struck out former par. (1) which read as follows: “When phonorecords of a nondramatic musical work have been distributed to the public in the United States under the authority of the copyright owner, any other person, including those who make phonorecords or digital phonorecord deliveries, may, by complying with the provisions of this section, obtain a compulsory license to make and distribute phonorecords of the work. A person may obtain a compulsory license only if his or her primary purpose in making phonorecords is to distribute them to the public for private use, including by means of a digital phonorecord delivery. A person may not obtain a compulsory license for use of the work in the making of phonorecords duplicating a sound recording fixed by another, unless: (i) such sound recording was fixed lawfully; and (ii) the making of the phonorecords was authorized by the owner of copyright in the sound recording or, if the sound recording was fixed before February 15, 1972, by any person who fixed the sound recording pursuant to an express license from the owner of the copyright in the musical work or pursuant to a valid compulsory license for use of such work in a sound recording.”
 
-Subsec. (a)(2). Pub. L. 115–264, § 102(a)(1)(C), inserted heading.
+Subsec. (a)(2). Pub. L. 115–264, § 102(a)(1)(C), inserted heading.
 
-Subsec. (b). Pub. L. 115–264, § 102(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows:
+Subsec. (b). Pub. L. 115–264, § 102(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows:
 
 “(1) Any person who wishes to obtain a compulsory license under this section shall, before or within thirty days after making, and before distributing any phonorecords of the work, serve notice of intention to do so on the copyright owner. If the registration or other public records of the Copyright Office do not identify the copyright owner and include an address at which notice can be served, it shall be sufficient to file the notice of intention in the Copyright Office. The notice shall comply, in form, content, and manner of service, with requirements that the Register of Copyrights shall prescribe by regulation.
 
 “(2) Failure to serve or file the notice required by clause (1) forecloses the possibility of a compulsory license and, in the absence of a negotiated license, renders the making and distribution of phonorecords actionable as acts of infringement under section 501 and fully subject to the remedies provided by sections 502 through 506 and 509.”
 
-Subsec. (c). Pub. L. 115–264, § 102(a)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to royalty payable under compulsory license.
+Subsec. (c). Pub. L. 115–264, § 102(a)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to royalty payable under compulsory license.
 
-Subsec. (d). Pub. L. 115–264, § 102(a)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: “As used in this section, the following term has the following meaning: A ‘digital phonorecord delivery’ is each individual delivery of a phonorecord by digital transmission of a sound recording which results in a specifically identifiable reproduction by or for any transmission recipient of a phonorecord of that sound recording, regardless of whether the digital transmission is also a public performance of the sound recording or any nondramatic musical work embodied therein. A digital phonorecord delivery does not result from a real-time, non-interactive subscription transmission of a sound recording where no reproduction of the sound recording or the musical work embodied therein is made from the inception of the transmission through to its receipt by the transmission recipient in order to make the sound recording audible.”
+Subsec. (d). Pub. L. 115–264, § 102(a)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: “As used in this section, the following term has the following meaning: A ‘digital phonorecord delivery’ is each individual delivery of a phonorecord by digital transmission of a sound recording which results in a specifically identifiable reproduction by or for any transmission recipient of a phonorecord of that sound recording, regardless of whether the digital transmission is also a public performance of the sound recording or any nondramatic musical work embodied therein. A digital phonorecord delivery does not result from a real-time, non-interactive subscription transmission of a sound recording where no reproduction of the sound recording or the musical work embodied therein is made from the inception of the transmission through to its receipt by the transmission recipient in order to make the sound recording audible.”
 
-Subsec. (e). Pub. L. 115–264, § 102(a)(5), added subsec. (e).
+Subsec. (e). Pub. L. 115–264, § 102(a)(5), added subsec. (e).
 
-2010—Subsec. (c)(3)(G)(i). Pub. L. 111–295 made technical correction to directory language of Pub. L. 110–403, § 209(a)(3)(A). See 2008 Amendment note below.
+2010—Subsec. (c)(3)(G)(i). Pub. L. 111–295 made technical correction to directory language of Pub. L. 110–403, § 209(a)(3)(A). See 2008 Amendment note below.
 
-2008—Subsec. (c)(3)(G)(i). Pub. L. 110–403, § 209(a)(3)(A), as amended by Pub. L. 111–295 struck out “and section 509” after “506” in introductory provisions.
+2008—Subsec. (c)(3)(G)(i). Pub. L. 110–403, § 209(a)(3)(A), as amended by Pub. L. 111–295 struck out “and section 509” after “506” in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 110–403, § 209(a)(3)(B), struck out “and 509” before period at end.
+Subsec. (c)(6). Pub. L. 110–403, § 209(a)(3)(B), struck out “and 509” before period at end.
 
-2006—Subsec. (c)(3)(B). Pub. L. 109–303, § 4(c)(1), substituted “this subparagraph and subparagraphs (C) through (E)” for “subparagraphs (B) through (F)”.
+2006—Subsec. (c)(3)(B). Pub. L. 109–303, § 4(c)(1), substituted “this subparagraph and subparagraphs (C) through (E)” for “subparagraphs (B) through (F)”.
 
-Subsec. (c)(3)(D). Pub. L. 109–303, § 4(c)(2), inserted “in subparagraphs (B) and (C)” after “described” in third sentence.
+Subsec. (c)(3)(D). Pub. L. 109–303, § 4(c)(2), inserted “in subparagraphs (B) and (C)” after “described” in third sentence.
 
-Subsec. (c)(3)(E)(i), (ii)(I). Pub. L. 109–303, § 4(c)(3), substituted “(C) and (D)” for “(C) or (D)” wherever appearing.
+Subsec. (c)(3)(E)(i), (ii)(I). Pub. L. 109–303, § 4(c)(3), substituted “(C) and (D)” for “(C) or (D)” wherever appearing.
 
-2004—Subsec. (c)(3)(A)(ii). Pub. L. 108–419, § 5(d)(1), substituted “(E)” for “(F)”.
+2004—Subsec. (c)(3)(A)(ii). Pub. L. 108–419, § 5(d)(1), substituted “(E)” for “(F)”.
 
-Subsec. (c)(3)(B). Pub. L. 108–419, § 5(d)(2)(C), which directed substitution of “this subparagraph and subparagraphs (C) through (E)” for “subparagraphs (C) through (F)”, could not be executed because “subparagraphs (C) through (F)” does not appear in text.
+Subsec. (c)(3)(B). Pub. L. 108–419, § 5(d)(2)(C), which directed substitution of “this subparagraph and subparagraphs (C) through (E)” for “subparagraphs (C) through (F)”, could not be executed because “subparagraphs (C) through (F)” does not appear in text.
 
-Pub. L. 108–419, § 5(d)(2)(A), (B), substituted “under this section” for “under this paragraph” and inserted “on a nonexclusive basis” after “common agents”.
+Pub. L. 108–419, § 5(d)(2)(A), (B), substituted “under this section” for “under this paragraph” and inserted “on a nonexclusive basis” after “common agents”.
 
-Subsec. (c)(3)(C). Pub. L. 108–419, § 5(d)(3), substituted first sentence for former first sentence which read: “During the period of June 30, 1996, through December 31, 1996, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subparagraph (A) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as the parties may agree.”, substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence, and struck out “negotiation” before “proceeding” in last sentence.
+Subsec. (c)(3)(C). Pub. L. 108–419, § 5(d)(3), substituted first sentence for former first sentence which read: “During the period of June 30, 1996, through December 31, 1996, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subparagraph (A) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as the parties may agree.”, substituted “Copyright Royalty Judges” for “Librarian of Congress” in third sentence, and struck out “negotiation” before “proceeding” in last sentence.
 
-Subsec. (c)(3)(D). Pub. L. 108–419, § 5(d)(4), substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraphs (B) and (C), upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine a schedule of rates and terms which, subject to subparagraph (E), shall be binding on all copyright owners of nondramatic musical works and persons entitled to obtain a compulsory license under subsection (a)(1) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as may be determined pursuant to subparagraphs (B) and (C).”, substituted “Copyright Royalty Judges may consider” for “copyright arbitration royalty panel may consider” and “described” for “negotiated as provided in subparagraphs (B) and (C)” in third sentence, and “Copyright Royalty Judges shall also establish” for “Librarian of Congress shall also establish” in last sentence.
+Subsec. (c)(3)(D). Pub. L. 108–419, § 5(d)(4), substituted first sentence for former first sentence which read: “In the absence of license agreements negotiated under subparagraphs (B) and (C), upon the filing of a petition in accordance with section 803(a)(1), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine a schedule of rates and terms which, subject to subparagraph (E), shall be binding on all copyright owners of nondramatic musical works and persons entitled to obtain a compulsory license under subsection (a)(1) during the period beginning January 1, 1998, and ending on the effective date of any new terms and rates established pursuant to subparagraph (C), (D) or (F), or such other date (regarding digital phonorecord deliveries) as may be determined pursuant to subparagraphs (B) and (C).”, substituted “Copyright Royalty Judges may consider” for “copyright arbitration royalty panel may consider” and “described” for “negotiated as provided in subparagraphs (B) and (C)” in third sentence, and “Copyright Royalty Judges shall also establish” for “Librarian of Congress shall also establish” in last sentence.
 
-Subsec. (c)(3)(E)(i). Pub. L. 108–419, § 5(d)(5)(A), substituted “Librarian of Congress and Copyright Royalty Judges” for “Librarian of Congress” in first sentence and “(C) or (D) shall be given effect as to digital phonorecord deliveries” for “(C), (D) or (F) shall be given effect” in second sentence.
+Subsec. (c)(3)(E)(i). Pub. L. 108–419, § 5(d)(5)(A), substituted “Librarian of Congress and Copyright Royalty Judges” for “Librarian of Congress” in first sentence and “(C) or (D) shall be given effect as to digital phonorecord deliveries” for “(C), (D) or (F) shall be given effect” in second sentence.
 
-Subsec. (c)(3)(E)(ii)(I). Pub. L. 108–419, § 5(d)(5)(B), substituted “(C) or (D)” for “(C), (D) or (F)” in two places.
+Subsec. (c)(3)(E)(ii)(I). Pub. L. 108–419, § 5(d)(5)(B), substituted “(C) or (D)” for “(C), (D) or (F)” in two places.
 
-Subsec. (c)(3)(F) to (L). Pub. L. 108–419, § 5(d)(6), redesignated subpars. (G) to (L) as (F) to (K), respectively, and struck out former subpar. (F), which read as follows: “The procedures specified in subparagraphs (C) and (D) shall be repeated and concluded, in accordance with regulations that the Librarian of Congress shall prescribe, in each fifth calendar year after 1997, except to the extent that different years for the repeating and concluding of such proceedings may be determined in accordance with subparagraphs (B) and (C).”
+Subsec. (c)(3)(F) to (L). Pub. L. 108–419, § 5(d)(6), redesignated subpars. (G) to (L) as (F) to (K), respectively, and struck out former subpar. (F), which read as follows: “The procedures specified in subparagraphs (C) and (D) shall be repeated and concluded, in accordance with regulations that the Librarian of Congress shall prescribe, in each fifth calendar year after 1997, except to the extent that different years for the repeating and concluding of such proceedings may be determined in accordance with subparagraphs (B) and (C).”
 
-1997—Subsec. (c)(3)(D). Pub. L. 105–80, § 4, struck out “and publish in the Federal Register” before “a schedule of rates and terms”.
+1997—Subsec. (c)(3)(D). Pub. L. 105–80, § 4, struck out “and publish in the Federal Register” before “a schedule of rates and terms”.
 
-Subsec. (c)(3)(E)(i). Pub. L. 105–80, § 12(a)(7)(A), substituted “paragraphs (1) and (3) of section 106” for “sections 106(1) and (3)” in two places.
+Subsec. (c)(3)(E)(i). Pub. L. 105–80, § 12(a)(7)(A), substituted “paragraphs (1) and (3) of section 106” for “sections 106(1) and (3)” in two places.
 
-Subsec. (c)(3)(E)(ii)(II). Pub. L. 105–80, § 12(a)(7)(A), substituted “paragraphs (1) and (3) of section 106” for “sections 106(1) and 106(3)”.
+Subsec. (c)(3)(E)(ii)(II). Pub. L. 105–80, § 12(a)(7)(A), substituted “paragraphs (1) and (3) of section 106” for “sections 106(1) and 106(3)”.
 
-Subsec. (d). Pub. L. 105–80, § 10, amended directory language of Pub. L. 104–39, § 4. See 1995 Amendment note below.
+Subsec. (d). Pub. L. 105–80, § 10, amended directory language of Pub. L. 104–39, § 4. See 1995 Amendment note below.
 
-1995—Subsec. (a)(1). Pub. L. 104–39, § 4(1), substituted “any other person, including those who make phonorecords or digital phonorecord deliveries,” for “any other person” in first sentence and inserted before period at end of second sentence “, including by means of a digital phonorecord delivery”.
+1995—Subsec. (a)(1). Pub. L. 104–39, § 4(1), substituted “any other person, including those who make phonorecords or digital phonorecord deliveries,” for “any other person” in first sentence and inserted before period at end of second sentence “, including by means of a digital phonorecord delivery”.
 
-Subsec. (c)(2). Pub. L. 104–39, § 4(2), inserted “and other than as provided in paragraph (3),” after “For this purpose,” in second sentence.
+Subsec. (c)(2). Pub. L. 104–39, § 4(2), inserted “and other than as provided in paragraph (3),” after “For this purpose,” in second sentence.
 
-Subsec. (c)(3) to (6). Pub. L. 104–39, § 4(3), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
+Subsec. (c)(3) to (6). Pub. L. 104–39, § 4(3), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
 
-Subsec. (d). Pub. L. 104–39, § 4(4), as renumbered by Pub. L. 105–80, § 10, added subsec. (d).
+Subsec. (d). Pub. L. 104–39, § 4(4), as renumbered by Pub. L. 105–80, § 10, added subsec. (d).
 
 1984—Subsec. (c)(3) to (5). Pub. L. 98–450 added par. (3) and redesignated existing pars. (3) and (4) as (4) and (5), respectively.
 
@@ -4753,7 +4753,7 @@ Subsec. (d). Pub. L. 104–39, § 4(4), as renumbered by Pub. L. 105–80, §�
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–264, title I, § 102(c), Oct. 11, 2018, 132 Stat. 3722, provided that: “The amendments made by subsection (a)(3) [amending this section] and section 103(g)(2) [amending section 801 of this title] shall apply to any proceeding before the Copyright Royalty Judges that is commenced on or after the date of the enactment of this Act [Oct. 11, 2018].”
+Pub. L. 115–264, title I, § 102(c), Oct. 11, 2018, 132 Stat. 3722, provided that: “The amendments made by subsection (a)(3) [amending this section] and section 103(g)(2) [amending section 801 of this title] shall apply to any proceeding before the Copyright Royalty Judges that is commenced on or after the date of the enactment of this Act [Oct. 11, 2018].”
 
 **Effective Date of 2006 Amendment**
 
@@ -4769,11 +4769,11 @@ Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, see section
 
 **Technical and Conforming Amendments to Title 37, Part 385 of the Code of Federal Regulations**
 
-Pub. L. 115–264, title I, § 102(d), Oct. 11, 2018, 132 Stat. 3722, provided that: “Not later than 270 days after the date of enactment of this Act [Oct. 11, 2018], the Copyright Royalty Judges shall amend the regulations for section 115 of title 17, United States Code, in part 385 of title 37, Code of Federal Regulations, to conform the definitions used in such part to the definitions of the same terms described in section 115(e) of title 17, United States Code, as added by subsection (a). In so doing, the Copyright Royalty Judges shall make adjustments to the language of the regulations as necessary to achieve the same purpose and effect as the original regulations with respect to the rates and terms previously adopted by the Copyright Royalty Judges.”
+Pub. L. 115–264, title I, § 102(d), Oct. 11, 2018, 132 Stat. 3722, provided that: “Not later than 270 days after the date of enactment of this Act [Oct. 11, 2018], the Copyright Royalty Judges shall amend the regulations for section 115 of title 17, United States Code, in part 385 of title 37, Code of Federal Regulations, to conform the definitions used in such part to the definitions of the same terms described in section 115(e) of title 17, United States Code, as added by subsection (a). In so doing, the Copyright Royalty Judges shall make adjustments to the language of the regulations as necessary to achieve the same purpose and effect as the original regulations with respect to the rates and terms previously adopted by the Copyright Royalty Judges.”
 
 **Copyright Office Public Outreach and Educational Activities**
 
-Pub. L. 115–264, title I, § 102(e), Oct. 11, 2018, 132 Stat. 3722, provided that:
+Pub. L. 115–264, title I, § 102(e), Oct. 11, 2018, 132 Stat. 3722, provided that:
 
 > “The Register of Copyrights shall engage in public outreach and educational activities—
 
@@ -4789,7 +4789,7 @@ Pub. L. 115–264, title I, § 102(e), Oct. 11, 2018, 132 Stat. 3722, provided
 
 **Unclaimed Royalties Study and Recommendations**
 
-Pub. L. 115–264, title I, § 102(f), Oct. 11, 2018, 132 Stat. 3722, provided that:
+Pub. L. 115–264, title I, § 102(f), Oct. 11, 2018, 132 Stat. 3722, provided that:
 
 > **“(1) In general.—** Not later than 2 years after the date on which the Register of Copyrights initially designates the mechanical licensing collective under section 115(d)(3)(B)(i) of title 17, United States Code, as added by subsection (a)(4), the Register, in consultation with the Comptroller General of the United States, and after soliciting and reviewing comments and relevant information from music industry participants and other interested parties, shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that recommends best practices that the collective may implement in order to—
 
@@ -4807,9 +4807,9 @@ Pub. L. 115–264, title I, § 102(f), Oct. 11, 2018, 132 Stat. 3722, provided
 
 **Persons Operating Under Predecessor Compulsory Licensing Provisions**
 
-Pub. L. 94–553, title I, § 106, Oct. 19, 1976, 90 Stat. 2599, provided that: “In any case where, before January 1, 1978, a person has lawfully made parts of instruments serving to reproduce mechanically a copyrighted work under the compulsory license provisions of section 1(e) of title 17 as it existed on December 31, 1977, such person may continue to make and distribute such parts embodying the same mechanical reproduction without obtaining a new compulsory license under the terms of section 115 of title 17 as amended by the first section of this Act [this section]. However, such parts made on or after January 1, 1978, constitute phonorecords and are otherwise subject to the provisions of said section 115 [this section].”
+Pub. L. 94–553, title I, § 106, Oct. 19, 1976, 90 Stat. 2599, provided that: “In any case where, before January 1, 1978, a person has lawfully made parts of instruments serving to reproduce mechanically a copyrighted work under the compulsory license provisions of section 1(e) of title 17 as it existed on December 31, 1977, such person may continue to make and distribute such parts embodying the same mechanical reproduction without obtaining a new compulsory license under the terms of section 115 of title 17 as amended by the first section of this Act [this section]. However, such parts made on or after January 1, 1978, constitute phonorecords and are otherwise subject to the provisions of said section 115 [this section].”
 
-## § 116. Negotiated licenses for public performances by means of coin-operated phonorecord players
+## § 116. Negotiated licenses for public performances by means of coin-operated phonorecord players
 
 **(a) Applicability of Section.—** This section applies to any nondramatic musical work embodied in a phonorecord.
 
@@ -4841,33 +4841,33 @@ Pub. L. 94–553, title I, § 106, Oct. 19, 1976, 90 Stat. 2599, provided that
 
 **(C)** has the power to exercise primary control over the selection of the musical works made available for public performance on a coin-operated phonorecord player.
 
-(Added Pub. L. 100–568, § 4(a)(4), Oct. 31, 1988, 102 Stat. 2855, § 116A; renumbered § 116 and amended Pub. L. 103–198, § 3(b)(1), Dec. 17, 1993, 107 Stat. 2309; Pub. L. 105–80, § 5, Nov. 13, 1997, 111 Stat. 1531; Pub. L. 108–419, § 5(e), Nov. 30, 2004, 118 Stat. 2365.)
+(Added Pub. L. 100–568, § 4(a)(4), Oct. 31, 1988, 102 Stat. 2855, § 116A; renumbered § 116 and amended Pub. L. 103–198, § 3(b)(1), Dec. 17, 1993, 107 Stat. 2309; Pub. L. 105–80, § 5, Nov. 13, 1997, 111 Stat. 1531; Pub. L. 108–419, § 5(e), Nov. 30, 2004, 118 Stat. 2365.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 116, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2562; Pub. L. 100–568, § 4(b)(1), Oct. 31, 1988, 102 Stat. 2857, related to scope of exclusive rights in nondramatic musical works and compulsory licenses for public performances by means of coin-operated phonorecord players, prior to repeal by Pub. L. 103–198, § 3(a), Dec. 17, 1993, 107 Stat. 2309.
+A prior section 116, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2562; Pub. L. 100–568, § 4(b)(1), Oct. 31, 1988, 102 Stat. 2857, related to scope of exclusive rights in nondramatic musical works and compulsory licenses for public performances by means of coin-operated phonorecord players, prior to repeal by Pub. L. 103–198, § 3(a), Dec. 17, 1993, 107 Stat. 2309.
 
 **Amendments**
 
-2004—Subsec. (b)(2). Pub. L. 108–419, § 5(e)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Parties not subject to such a negotiation may determine, by arbitration in accordance with the provisions of chapter 8, the terms and rates and the division of fees described in paragraph (1).”
+2004—Subsec. (b)(2). Pub. L. 108–419, § 5(e)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Parties not subject to such a negotiation may determine, by arbitration in accordance with the provisions of chapter 8, the terms and rates and the division of fees described in paragraph (1).”
 
-Subsec. (c). Pub. L. 108–419, § 5(e)(2), substituted “Determinations by Copyright Royalty Judges” for “Copyright Arbitration Royalty Panel Determinations” in heading and “the Copyright Royalty Judges” for “a copyright arbitration royalty panel” in text.
+Subsec. (c). Pub. L. 108–419, § 5(e)(2), substituted “Determinations by Copyright Royalty Judges” for “Copyright Arbitration Royalty Panel Determinations” in heading and “the Copyright Royalty Judges” for “a copyright arbitration royalty panel” in text.
 
-1997—Subsec. (b)(2). Pub. L. 105–80, § 5(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+1997—Subsec. (b)(2). Pub. L. 105–80, § 5(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(2) Arbitration.—Parties to such a negotiation, within such time as may be specified by the Librarian of Congress by regulation, may determine the result of the negotiation by arbitration. Such arbitration shall be governed by the provisions of title 9, to the extent such title is not inconsistent with this section. The parties shall give notice to the Librarian of Congress of any determination reached by arbitration and any such determination shall, as between the parties to the arbitration, be dispositive of the issues to which it relates.”
 
-Subsec. (d). Pub. L. 105–80, § 5(2), added subsec. (d).
+Subsec. (d). Pub. L. 105–80, § 5(2), added subsec. (d).
 
-1993—Pub. L. 103–198, § 3(b)(1)(A), renumbered section 116A of this title as this section.
+1993—Pub. L. 103–198, § 3(b)(1)(A), renumbered section 116A of this title as this section.
 
-Subsec. (b). Pub. L. 103–198, § 3(b)(1)(B), (C), redesignated subsec. (c) as (b), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in two places in par. (2), and struck out former subsec. (b) which related to limitation on exclusive right if licenses not negotiated.
+Subsec. (b). Pub. L. 103–198, § 3(b)(1)(B), (C), redesignated subsec. (c) as (b), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in two places in par. (2), and struck out former subsec. (b) which related to limitation on exclusive right if licenses not negotiated.
 
-Subsec. (c). Pub. L. 103–198, § 3(b)(1)(B), (D), redesignated subsec. (d) as (c), in heading substituted “Arbitration Royalty Panel” for “Royalty Tribunal”, and in text substituted “subsection (b)” for “subsection (c)” and “a copyright arbitration royalty panel” for “the Copyright Royalty Tribunal”.
+Subsec. (c). Pub. L. 103–198, § 3(b)(1)(B), (D), redesignated subsec. (d) as (c), in heading substituted “Arbitration Royalty Panel” for “Royalty Tribunal”, and in text substituted “subsection (b)” for “subsection (c)” and “a copyright arbitration royalty panel” for “the Copyright Royalty Tribunal”.
 
-Subsecs. (d) to (g). Pub. L. 103–198, § 3(b)(1)(B), (E), redesignated subsec. (d) as (c) and struck out subsecs. (e) to (g) which provided, in subsec. (e), for a schedule for negotiation of licenses, in subsec. (f), for a suspension of various ratemaking activities by the Copyright Royalty Tribunal, and in subsec. (g), for transition provisions and retention of Copyright Royalty Tribunal jurisdiction.
+Subsecs. (d) to (g). Pub. L. 103–198, § 3(b)(1)(B), (E), redesignated subsec. (d) as (c) and struck out subsecs. (e) to (g) which provided, in subsec. (e), for a schedule for negotiation of licenses, in subsec. (f), for a suspension of various ratemaking activities by the Copyright Royalty Tribunal, and in subsec. (g), for transition provisions and retention of Copyright Royalty Tribunal jurisdiction.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4879,9 +4879,9 @@ Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject t
 
 Section effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions as in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as an Effective Date of 1988 Amendment note under section 101 of this title.
 
-## [§ 116A. Renumbered § 116]
+## [§ 116A. Renumbered § 116]
 
-## § 117. Limitations on exclusive rights: Computer programs
+## § 117. Limitations on exclusive rights: Computer programs
 
 **(a) Making of Additional Copy or Adaptation by Owner of Copy.—** Notwithstanding the provisions of section 106, it is not an infringement for the owner of a copy of a computer program to make or authorize the making of another copy or adaptation of that computer program provided:
 
@@ -4903,7 +4903,7 @@ Section effective Mar. 1, 1989, with any cause of action arising under this titl
 
 **(2)** the “repair” of a machine is the restoring of the machine to the state of working in accordance with its original specifications and any changes to those specifications authorized for that machine.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2565; Pub. L. 96–517, § 10(b), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 105–304, title III, § 302, Oct. 28, 1998, 112 Stat. 2887.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2565; Pub. L. 96–517, § 10(b), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 105–304, title III, § 302, Oct. 28, 1998, 112 Stat. 2887.)
 
 **Historical and Revision Notes**
 
@@ -4925,11 +4925,11 @@ Under section 117, an action for infringement of a copyrighted work by means of 
 
 1980—Pub. L. 96–517 substituted provision respecting limitations on exclusive rights in connection with computer programs for prior provision enunciating scope of exclusive rights and use of the work in conjunction with computers and similar information systems and declaring owner of copyright in a work without any greater or lesser rights with respect to the use of the work in conjunction with automatic systems capable of storing, processing, retrieving, or transferring information, or in conjunction with any similar device, machine, or process, than those afforded to works under the law, whether this title or the common law or statutes of a State, in effect on Dec. 31, 1977, as held applicable and construed by the court in an action brought under this title.
 
-## § 118. Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting
+## § 118. Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting
 
 **(a)** The exclusive rights provided by section 106 shall, with respect to the works specified by subsection (b) and the activities specified by subsection (d),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 be subject to the conditions and limitations prescribed by this section.
 
@@ -4957,7 +4957,7 @@ be subject to the conditions and limitations prescribed by this section.
 
 **(f)** As used in this section, the term “public broadcasting entity” means a noncommercial educational broadcast station as defined in section 397 of title 47 and any nonprofit institution or organization engaged in the activities described in paragraph (2) of subsection (c).
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2565; Pub. L. 103–198, § 4, Dec. 17, 1993, 107 Stat. 2309; Pub. L. 106–44, § 1(g)(3), Aug. 5, 1999, 113 Stat. 222; Pub. L. 107–273, div. C, title III, § 13210(7), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–419, § 5(f), Nov. 30, 2004, 118 Stat. 2365; Pub. L. 109–303, § 4(d), Oct. 6, 2006, 120 Stat. 1482.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2565; Pub. L. 103–198, § 4, Dec. 17, 1993, 107 Stat. 2309; Pub. L. 106–44, § 1(g)(3), Aug. 5, 1999, 113 Stat. 222; Pub. L. 107–273, div. C, title III, § 13210(7), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–419, § 5(f), Nov. 30, 2004, 118 Stat. 2365; Pub. L. 109–303, § 4(d), Oct. 6, 2006, 120 Stat. 1482.)
 
 **Historical and Revision Notes**
 
@@ -4971,7 +4971,7 @@ On July 10, 1975, the House Subcommittee heard testimony on the Mathias amendmen
 
 In general, the Committee amended the public broadcasting provisions of the Senate bill toward attainment of the objective clearly stated in the Report of the Senate Judiciary Committee, namely, that copyright owners and public broadcasters be encouraged to reach voluntary private agreements.
 
-**Procedures.** Not later than thirty days following the publication by the President of the notice announcing the initial appointments to the Copyright Royalty Commission (specified in Chapter 8 [§ 801 et seq. of this title]), the Chairman of the Commission is to publish notice in the Federal Register of the initiation of proceedings to determine “reasonable terms and rates” for certain uses of published nondramatic musical works and published pictorial, graphic and sculptural works, during a period ending on December 31, 1982.
+**Procedures.** Not later than thirty days following the publication by the President of the notice announcing the initial appointments to the Copyright Royalty Commission (specified in Chapter 8 [§ 801 et seq. of this title]), the Chairman of the Commission is to publish notice in the Federal Register of the initiation of proceedings to determine “reasonable terms and rates” for certain uses of published nondramatic musical works and published pictorial, graphic and sculptural works, during a period ending on December 31, 1982.
 
 Copyright owners and public broadcasting entities that do not reach voluntary agreement are bound by the terms and rates established by the Commission, which are to be published in the Federal Register within six months of the notice of initiation of proceedings. During the period between the effective date of the Act [Jan. 1, 1978] and the publication of the rates and terms, the Committee has preserved the status quo by providing, in section 118(b)(4), that the Act does not afford to copyright owners or public broadcasting entities any greater or lesser rights with respect to the relevant uses of nondramatic musical works and pictorial, graphic, and sculptural works than those afforded under the law in effect on December 31, 1977.
 
@@ -5003,7 +5003,7 @@ Paragraph (3) of clause (d) also includes the reproduction, simultaneously with 
 
 This limited provision for unauthorized simultaneous or off-the-air reproduction is limited to nondramatic musical works and pictorial, graphic and sculptural works included in public broadcasting transmissions. It does not extend to other works included in the transmissions, or to the entire transmission program.
 
-It is the intent of the Committee that schools be permitted to engage in off-the-air reproduction to the extent and under the conditions provided in [section] 118(d)(3); however, in the event a public broadcasting station or producer makes the reproduction and distributes a copy to the school, the station or producer will not be held liable for the school’s failure to destroy the reproduction, provided it has given notice of the requirement of destruction. In such a case the school itself, although it did not engage in the act of reproduction, is deemed an infringer fully subject to the remedies provided in Chapter 5 of the Act [§ 501 et seq. of this title]. The establishment of standards for adequate notice under this provision should be considered by the Commission.
+It is the intent of the Committee that schools be permitted to engage in off-the-air reproduction to the extent and under the conditions provided in [section] 118(d)(3); however, in the event a public broadcasting station or producer makes the reproduction and distributes a copy to the school, the station or producer will not be held liable for the school’s failure to destroy the reproduction, provided it has given notice of the requirement of destruction. In such a case the school itself, although it did not engage in the act of reproduction, is deemed an infringer fully subject to the remedies provided in Chapter 5 of the Act [§ 501 et seq. of this title]. The establishment of standards for adequate notice under this provision should be considered by the Commission.
 
 Section 118(f) makes it clear that the rights of performance and other activities specified in subsection (d) do not extend to the unauthorized dramatization of a nondramatic musical work.
 
@@ -5011,57 +5011,57 @@ Section 118(f) makes it clear that the rights of performance and other activitie
 
 **References in Text**
 
-Subsection (d), referred to in subsec. (a), was redesignated as subsection (c) of this section by Pub. L. 108–419, § 5(f)(2), Nov. 30, 2004, 118 Stat. 2366.
+Subsection (d), referred to in subsec. (a), was redesignated as subsection (c) of this section by Pub. L. 108–419, § 5(f)(2), Nov. 30, 2004, 118 Stat. 2366.
 
 **Amendments**
 
-2006—Subsec. (b)(3). Pub. L. 109–303, § 4(d)(1), substituted “owners of copyright in works” for “copyright owners in works”.
+2006—Subsec. (b)(3). Pub. L. 109–303, § 4(d)(1), substituted “owners of copyright in works” for “copyright owners in works”.
 
-Subsec. (c). Pub. L. 109–303, § 4(d)(2), substituted “established by the Copyright Royalty Judges under subsection (b)(4), engage” for “established by the Copyright Royalty Judges under subsection (b)(4), to the extent that they were accepted by the Librarian of Congress, engage” in introductory provisions and “(f)” for “(g)” in par. (1).
+Subsec. (c). Pub. L. 109–303, § 4(d)(2), substituted “established by the Copyright Royalty Judges under subsection (b)(4), engage” for “established by the Copyright Royalty Judges under subsection (b)(4), to the extent that they were accepted by the Librarian of Congress, engage” in introductory provisions and “(f)” for “(g)” in par. (1).
 
-2004—Subsec. (b)(1). Pub. L. 108–419, § 5(f)(1)(A), substituted “Copyright Royalty Judges” for “Librarian of Congress” in first sentence and struck out at end “The Librarian of Congress shall proceed on the basis of the proposals submitted as well as any other relevant information. The Librarian of Congress shall permit any interested party to submit information relevant to such proceedings.”
+2004—Subsec. (b)(1). Pub. L. 108–419, § 5(f)(1)(A), substituted “Copyright Royalty Judges” for “Librarian of Congress” in first sentence and struck out at end “The Librarian of Congress shall proceed on the basis of the proposals submitted as well as any other relevant information. The Librarian of Congress shall permit any interested party to submit information relevant to such proceedings.”
 
-Subsec. (b)(2). Pub. L. 108–419, § 5(f)(1)(B), substituted “Librarian of Congress or the Copyright Royalty Judges, if copies of such agreements are filed with the Copyright Royalty Judges within 30 days of execution in accordance with regulations that the Copyright Royalty Judges shall issue” for “Librarian of Congress: *Provided*, That copies of such agreements are filed in the Copyright Office within thirty days of execution in accordance with regulations that the Register of Copyrights shall prescribe”.
+Subsec. (b)(2). Pub. L. 108–419, § 5(f)(1)(B), substituted “Librarian of Congress or the Copyright Royalty Judges, if copies of such agreements are filed with the Copyright Royalty Judges within 30 days of execution in accordance with regulations that the Copyright Royalty Judges shall issue” for “Librarian of Congress: *Provided*, That copies of such agreements are filed in the Copyright Office within thirty days of execution in accordance with regulations that the Register of Copyrights shall prescribe”.
 
-Subsec. (b)(3), (4). Pub. L. 108–419, § 5(f)(1)(C), added pars. (3) and (4), redesignated second and third sentences of former par. (3) as second and third sentences of par. (4), substituted “Copyright Royalty Judges” for “copyright arbitration royalty panel” and “paragraph (2) or (3)” for “paragraph (2)” in second sentence of par. (4), substituted “Copyright Royalty Judges” for “Librarian of Congress” in last sentence of par. (4), and struck out “(3) In the absence of license agreements negotiated under paragraph (2), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (2), shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether such copyright owners have submitted proposals to the Librarian of Congress.”
+Subsec. (b)(3), (4). Pub. L. 108–419, § 5(f)(1)(C), added pars. (3) and (4), redesignated second and third sentences of former par. (3) as second and third sentences of par. (4), substituted “Copyright Royalty Judges” for “copyright arbitration royalty panel” and “paragraph (2) or (3)” for “paragraph (2)” in second sentence of par. (4), substituted “Copyright Royalty Judges” for “Librarian of Congress” in last sentence of par. (4), and struck out “(3) In the absence of license agreements negotiated under paragraph (2), the Librarian of Congress shall, pursuant to chapter 8, convene a copyright arbitration royalty panel to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (2), shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether such copyright owners have submitted proposals to the Librarian of Congress.”
 
-Subsec. (c). Pub. L. 108–419, § 5(f)(3)(C), which directed substitution of “the Copyright Royalty Judges under subsection (b)(3), to the extent that they were accepted by the Librarian of Congress” for “a copyright arbitration royalty panel under subsection (b)(3)” in introductory provisions, was executed before the amendment by Pub. L. 108–419, § 5(f)(3)(B), to reflect the probable intent of Congress. See below.
+Subsec. (c). Pub. L. 108–419, § 5(f)(3)(C), which directed substitution of “the Copyright Royalty Judges under subsection (b)(3), to the extent that they were accepted by the Librarian of Congress” for “a copyright arbitration royalty panel under subsection (b)(3)” in introductory provisions, was executed before the amendment by Pub. L. 108–419, § 5(f)(3)(B), to reflect the probable intent of Congress. See below.
 
-Pub. L. 108–419, § 5(f)(3)(B), substituted “(b)(4)” for “(b)(3)” in introductory provisions. See above.
+Pub. L. 108–419, § 5(f)(3)(B), substituted “(b)(4)” for “(b)(3)” in introductory provisions. See above.
 
-Pub. L. 108–419, § 5(f)(3)(A), substituted “(b)(2) or (3)” for “(b)(2)” in introductory provisions.
+Pub. L. 108–419, § 5(f)(3)(A), substituted “(b)(2) or (3)” for “(b)(2)” in introductory provisions.
 
-Pub. L. 108–419, § 5(f)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The initial procedure specified in subsection (b) shall be repeated and concluded between June 30 and December 31, 1997, and at five-year intervals thereafter, in accordance with regulations that the Librarian of Congress shall prescribe.”
+Pub. L. 108–419, § 5(f)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The initial procedure specified in subsection (b) shall be repeated and concluded between June 30 and December 31, 1997, and at five-year intervals thereafter, in accordance with regulations that the Librarian of Congress shall prescribe.”
 
-Subsec. (d). Pub. L. 108–419, § 5(f)(2), (4), redesignated subsec. (e) as (d) and substituted “with the Copyright Royalty Judges” for “in the Copyright Office” and “Copyright Royalty Judges shall prescribe as provided in section 803(b)(6)” for “Register of Copyrights shall prescribe”. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 108–419, § 5(f)(2), (4), redesignated subsec. (e) as (d) and substituted “with the Copyright Royalty Judges” for “in the Copyright Office” and “Copyright Royalty Judges shall prescribe as provided in section 803(b)(6)” for “Register of Copyrights shall prescribe”. Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 108–419, § 5(f)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 108–419, § 5(f)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 108–419, § 5(f)(2), (5), redesignated subsec. (g) as (f) and substituted “(c)” for “(d)”. Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 108–419, § 5(f)(2), (5), redesignated subsec. (g) as (f) and substituted “(c)” for “(d)”. Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 108–419, § 5(f)(2), redesignated subsec. (g) as (f).
+Subsec. (g). Pub. L. 108–419, § 5(f)(2), redesignated subsec. (g) as (f).
 
 2002—Subsec. (b)(1). Pub. L. 107–273 struck out “to it” after “proposals submitted” in second sentence.
 
 1999—Subsec. (e). Pub. L. 106–44 struck out “(1)” before “Owners of” and struck out par. (2) which read as follows: “On January 3, 1980, the Register of Copyrights, after consulting with authors and other owners of copyright in nondramatic literary works and their representatives, and with public broadcasting entities and their representatives, shall submit to the Congress a report setting forth the extent to which voluntary licensing arrangements have been reached with respect to the use of nondramatic literary works by such broadcast stations. The report should also describe any problems that may have arisen, and present legislative or other recommendations, if warranted.”
 
-1993—Subsec. (b). Pub. L. 103–198, § 4(1)(A), (B), struck out first two sentences which read as follows: “Not later than thirty days after the Copyright Royalty Tribunal has been constituted in accordance with section 802, the Chairman of the Tribunal shall cause notice to be published in the Federal Register of the initiation of proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subsection (d) with respect to published nondramatic musical works and published pictorial, graphic, and sculptural works during a period beginning as provided in clause (3) of this subsection and ending on December 31, 1982. Copyright owners and public broadcasting entities shall negotiate in good faith and cooperate fully with the Tribunal in an effort to reach reasonable and expeditious results.”, and in third sentence substituted “published nondramatic musical works and published pictorial, graphic, and sculptural works” for “works specified by this subsection”.
+1993—Subsec. (b). Pub. L. 103–198, § 4(1)(A), (B), struck out first two sentences which read as follows: “Not later than thirty days after the Copyright Royalty Tribunal has been constituted in accordance with section 802, the Chairman of the Tribunal shall cause notice to be published in the Federal Register of the initiation of proceedings for the purpose of determining reasonable terms and rates of royalty payments for the activities specified by subsection (d) with respect to published nondramatic musical works and published pictorial, graphic, and sculptural works during a period beginning as provided in clause (3) of this subsection and ending on December 31, 1982. Copyright owners and public broadcasting entities shall negotiate in good faith and cooperate fully with the Tribunal in an effort to reach reasonable and expeditious results.”, and in third sentence substituted “published nondramatic musical works and published pictorial, graphic, and sculptural works” for “works specified by this subsection”.
 
-Subsec. (b)(1). Pub. L. 103–198, § 4(1)(C), struck out “, within one hundred and twenty days after publication of the notice specified in this subsection,” after “broadcasting entity may” and substituted “Librarian of Congress” for “Copyright Royalty Tribunal” wherever appearing.
+Subsec. (b)(1). Pub. L. 103–198, § 4(1)(C), struck out “, within one hundred and twenty days after publication of the notice specified in this subsection,” after “broadcasting entity may” and substituted “Librarian of Congress” for “Copyright Royalty Tribunal” wherever appearing.
 
-Subsec. (b)(2). Pub. L. 103–198, § 4(1)(D), substituted “Librarian of Congress” for “Tribunal”.
+Subsec. (b)(2). Pub. L. 103–198, § 4(1)(D), substituted “Librarian of Congress” for “Tribunal”.
 
-Subsec. (b)(3). Pub. L. 103–198, § 4(1)(E)(ii), (iii), in second sentence, substituted “copyright arbitration royalty panel” for “Copyright Royalty Tribunal” and “paragraph (2)” for “clause (2) of this subsection”, and in last sentence, substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
+Subsec. (b)(3). Pub. L. 103–198, § 4(1)(E)(ii), (iii), in second sentence, substituted “copyright arbitration royalty panel” for “Copyright Royalty Tribunal” and “paragraph (2)” for “clause (2) of this subsection”, and in last sentence, substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
-Pub. L. 103–198, § 4(1)(E)(i), substituted first sentence for former first sentence which read as follows: “Within six months, but not earlier than one hundred and twenty days, from the date of publication of the notice specified in this subsection the Copyright Royalty Tribunal shall make a determination and publish in the Federal Register a schedule of rates and terms which, subject to clause (2) of this subsection, shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether or not such copyright owners and public broadcasting entities have submitted proposals to the Tribunal.”
+Pub. L. 103–198, § 4(1)(E)(i), substituted first sentence for former first sentence which read as follows: “Within six months, but not earlier than one hundred and twenty days, from the date of publication of the notice specified in this subsection the Copyright Royalty Tribunal shall make a determination and publish in the Federal Register a schedule of rates and terms which, subject to clause (2) of this subsection, shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether or not such copyright owners and public broadcasting entities have submitted proposals to the Tribunal.”
 
-Subsec. (b)(4). Pub. L. 103–198, § 4(1)(F), struck out par. (4) which read as follows: “With respect to the period beginning on the effective date of this title and ending on the date of publication of such rates and terms, this title shall not afford to owners of copyright or public broadcasting entities any greater or lesser rights with respect to the activities specified in subsection (d) as applied to works specified in this subsection than those afforded under the law in effect on December 31, 1977, as held applicable and construed by a court in an action brought under this title.”
+Subsec. (b)(4). Pub. L. 103–198, § 4(1)(F), struck out par. (4) which read as follows: “With respect to the period beginning on the effective date of this title and ending on the date of publication of such rates and terms, this title shall not afford to owners of copyright or public broadcasting entities any greater or lesser rights with respect to the activities specified in subsection (d) as applied to works specified in this subsection than those afforded under the law in effect on December 31, 1977, as held applicable and construed by a court in an action brought under this title.”
 
-Subsec. (c). Pub. L. 103–198, § 4(2), substituted “1997” for “1982” and “Librarian of Congress” for “Copyright Royalty Tribunal”.
+Subsec. (c). Pub. L. 103–198, § 4(2), substituted “1997” for “1982” and “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
-Subsec. (d). Pub. L. 103–198, § 4(3), in introductory provisions, struck out “to the transitional provisions of subsection (b)(4), and” after “Subject” and substituted “a copyright arbitration royalty panel” for “the Copyright Royalty Tribunal”, and in pars. (2) and (3), substituted “paragraph” for “clause” wherever appearing.
+Subsec. (d). Pub. L. 103–198, § 4(3), in introductory provisions, struck out “to the transitional provisions of subsection (b)(4), and” after “Subject” and substituted “a copyright arbitration royalty panel” for “the Copyright Royalty Tribunal”, and in pars. (2) and (3), substituted “paragraph” for “clause” wherever appearing.
 
-Subsec. (g). Pub. L. 103–198, § 4(4), substituted “paragraph” for “clause”.
+Subsec. (g). Pub. L. 103–198, § 4(4), substituted “paragraph” for “clause”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5077,7 +5077,7 @@ Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject t
 
 Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as a note preceding section 101 of this title.
 
-## § 119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite
+## § 119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite
 
 **(a) Secondary Transmissions by Satellite Carriers.—**
 
@@ -5125,9 +5125,9 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 
 **(D) Burden of proof.—** In any action brought under this paragraph, the satellite carrier shall have the burden of proving that its secondary transmission of a primary transmission by a network station is to a subscriber who is eligible to receive the secondary transmission under this section.
 
-The court shall direct one half of any statutory damages ordered under clause (i) 1
+The court shall direct one half of any statutory damages ordered under clause (i) 1
 
-<sup>1</sup>  So in original. Probably means subpar. (B)(i).
+<sup>1</sup> So in original. Probably means subpar. (B)(i).
 
 to be deposited with the Register of Copyrights for distribution to copyright owners pursuant to subsection (b). The Copyright Royalty Judges shall issue regulations establishing procedures for distributing such funds, on a proportional basis, to copyright owners whose works were included in the secondary transmissions that were the subject of the statutory damages.
 
@@ -5301,9 +5301,9 @@ except that the term does not include the signal of the Alaska Rural Communicati
 
 **(15) Local-into-local service to all dmas.—** The term “local-into-local service to all DMAs” has the meaning given such term in subsection (f)(7).
 
-**(16) Short market.—** The term “short market” means a local market in which programming of one or more of the four most widely viewed television networks nationwide is not offered on either the primary stream or multicast stream transmitted by any network station in that market or is temporarily or permanently unavailable as a result of an act of god 2
+**(16) Short market.—** The term “short market” means a local market in which programming of one or more of the four most widely viewed television networks nationwide is not offered on either the primary stream or multicast stream transmitted by any network station in that market or is temporarily or permanently unavailable as a result of an act of god 2
 
-<sup>2</sup>  So in original. Probably should be capitalized.
+<sup>2</sup> So in original. Probably should be capitalized.
 
 or other force majeure event beyond the control of the carrier.
 
@@ -5331,9 +5331,9 @@ or other force majeure event beyond the control of the carrier.
 
 **(i) Failure to act reasonably and in good faith.—** If the court issuing a temporary waiver under subparagraph (A) determines that the satellite carrier that made the request for such waiver has failed to act reasonably or has failed to make a good faith effort to provide local-into-local service to all DMAs, such failure—
 
-**(I)** is actionable as an act of infringement under section 501 and the court may in its discretion impose the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; 3
+**(I)** is actionable as an act of infringement under section 501 and the court may in its discretion impose the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 and
 
@@ -5411,7 +5411,7 @@ and
 
 **(A) Penalties.—** If the court recognizing an entity as a qualified carrier finds that such entity has willfully failed to provide local-into-local service to all DMAs, such finding shall result in the loss of recognition of the entity as a qualified carrier and the termination of the waiver provided under paragraph (1), and the court may, in its discretion—
 
-**(i)** treat such failure as an act of infringement under section 501, and subject such infringement to the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; <sup>3</sup> and
+**(i)** treat such failure as an act of infringement under section 501, and subject such infringement to the remedies provided for in sections 502 through 506 and subsection (a)(6)(B) of this section; <sup>3</sup> and
 
 **(ii)** impose a fine of not less than $250,000 and not more than $5,000,000.
 
@@ -5427,45 +5427,45 @@ and
 
 **(7) Local-into-local service to all dmas defined.—** For purposes of this subsection:
 
-**(A) In general.—** An entity provides “local-into-local service to all DMAs” if the entity provides local service in all designated market areas (as such term is defined in section 122(j)(2)(C)) pursuant to the license under section 122, except for designated market areas where the entity is temporarily or permanently unable to provide local service as a result of an act of god <sup>2</sup> or other force majeure event beyond the control of the entity.
+**(A) In general.—** An entity provides “local-into-local service to all DMAs” if the entity provides local service in all designated market areas (as such term is defined in section 122(j)(2)(C)) pursuant to the license under section 122, except for designated market areas where the entity is temporarily or permanently unable to provide local service as a result of an act of god <sup>2</sup> or other force majeure event beyond the control of the entity.
 
 **(B) Household coverage.—** For purposes of subparagraph (A), an entity that makes available local-into-local service with a good quality satellite signal to at least 90 percent of the households in a designated market area based on the most recent census data released by the United States Census Bureau shall be considered to be providing local service to such designated market area.
 
-**(C) Good quality satellite signal defined.—** The term “good quality satellite signal” has the meaning given such term under section 342(e)(2) of Communications 4
+**(C) Good quality satellite signal defined.—** The term “good quality satellite signal” has the meaning given such term under section 342(e)(2) of Communications 4
 
-<sup>4</sup>  So in original. Probably should be preceded by “the”.
+<sup>4</sup> So in original. Probably should be preceded by “the”.
 
 Act of 1934.
 
-(Added Pub. L. 100–667, title II, § 202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, § 5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, § 2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, § 5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§ 1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535; Pub. L. 106–44, § 1(g)(4), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, § 1000(a)(9) [title I, §§ 1004–1007, 1008(b), 1011(b)(2), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; Pub. L. 107–273, div. C, title III, §§ 13209, 13210(1), (8), Nov. 2, 2002, 116 Stat. 1908, 1909; Pub. L. 108–419, § 5(g), (h), Nov. 30, 2004, 118 Stat. 2367; Pub. L. 108–447, div. J, title IX [title I, §§ 101(b)–105, 107(a), 108, 111(a)], Dec. 8, 2004, 118 Stat. 3394–3408; Pub. L. 109–303, § 4(e), (g), Oct. 6, 2006, 120 Stat. 1482, 1483; Pub. L. 110–403, title II, § 209(a)(4), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–118, div. B, § 1003(a)(1), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, § 10(a)(1), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, § 2(a)(1), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, § 9(a)(1), Apr. 15, 2010, 124 Stat. 1118; Pub. L. 111–175, title I, §§ 102(a)(1), (b)–(k), 105, May 27, 2010, 124 Stat. 1219–1226, 1239; Pub. L. 111–295, § 6(c), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 113–200, title II, §§ 201(2), 202(a), Dec. 4, 2014, 128 Stat. 2066; Pub. L. 116–94, div. P, title XI, § 1102(a), (c)(1), Dec. 20, 2019, 133 Stat. 3201, 3203.)
+(Added Pub. L. 100–667, title II, § 202(2), Nov. 16, 1988, 102 Stat. 3949; amended Pub. L. 103–198, § 5, Dec. 17, 1993, 107 Stat. 2310; Pub. L. 103–369, § 2, Oct. 18, 1994, 108 Stat. 3477; Pub. L. 104–39, § 5(c), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §§ 1, 12(a)(8), Nov. 13, 1997, 111 Stat. 1529, 1535; Pub. L. 106–44, § 1(g)(4), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, § 1000(a)(9) [title I, §§ 1004–1007, 1008(b), 1011(b)(2), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–527 to 1501A–531, 1501A–537, 1501A–543, 1501A–544; Pub. L. 107–273, div. C, title III, §§ 13209, 13210(1), (8), Nov. 2, 2002, 116 Stat. 1908, 1909; Pub. L. 108–419, § 5(g), (h), Nov. 30, 2004, 118 Stat. 2367; Pub. L. 108–447, div. J, title IX [title I, §§ 101(b)–105, 107(a), 108, 111(a)], Dec. 8, 2004, 118 Stat. 3394–3408; Pub. L. 109–303, § 4(e), (g), Oct. 6, 2006, 120 Stat. 1482, 1483; Pub. L. 110–403, title II, § 209(a)(4), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–118, div. B, § 1003(a)(1), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, § 10(a)(1), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, § 2(a)(1), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, § 9(a)(1), Apr. 15, 2010, 124 Stat. 1118; Pub. L. 111–175, title I, §§ 102(a)(1), (b)–(k), 105, May 27, 2010, 124 Stat. 1219–1226, 1239; Pub. L. 111–295, § 6(c), Dec. 9, 2010, 124 Stat. 3181; Pub. L. 113–200, title II, §§ 201(2), 202(a), Dec. 4, 2014, 128 Stat. 2066; Pub. L. 116–94, div. P, title XI, § 1102(a), (c)(1), Dec. 20, 2019, 133 Stat. 3201, 3203.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. Sections 342 and 397 of the Act are classified to sections 342 and 397, respectively, of Title 47. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. Sections 342 and 397 of the Act are classified to sections 342 and 397, respectively, of Title 47. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 The date of the enactment of this subsection, referred to in subsec. (f)(1), (2)(A), (E), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010. See section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of this title.
 
-Subsection (a)(6) of this section, referred to in subsec. (f)(2)(C)(i)(I), (5)(A)(i), (6), was redesignated subsec. (a)(5) of this section by Pub. L. 116–94, div. P, title XI, § 1102(a)(1)(C), Dec. 20, 2019, 133 Stat. 3202.
+Subsection (a)(6) of this section, referred to in subsec. (f)(2)(C)(i)(I), (5)(A)(i), (6), was redesignated subsec. (a)(5) of this section by Pub. L. 116–94, div. P, title XI, § 1102(a)(1)(C), Dec. 20, 2019, 133 Stat. 3202.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(3)(A)(iii), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 **Amendments**
 
-2019—Subsec. (a)(1). Pub. L. 116–94, § 1102(c)(1)(A)(i), substituted “paragraphs (3), (4), and (6)” for “paragraphs (4), (5), and (7)”.
+2019—Subsec. (a)(1). Pub. L. 116–94, § 1102(c)(1)(A)(i), substituted “paragraphs (3), (4), and (6)” for “paragraphs (4), (5), and (7)”.
 
-Subsec. (a)(2)(A). Pub. L. 116–94, § 1102(a)(1)(A)(i), (c)(1)(A)(ii), substituted “paragraphs (3), (4), (5), and (6)” for “paragraphs (4), (5), (6), and (7)” and “signals,” for “signals, and”, inserted “, and the carrier provides local-into-local service to all DMAs” after “receiving the secondary transmission”, and inserted at end “Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached.”
+Subsec. (a)(2)(A). Pub. L. 116–94, § 1102(a)(1)(A)(i), (c)(1)(A)(ii), substituted “paragraphs (3), (4), (5), and (6)” for “paragraphs (4), (5), (6), and (7)” and “signals,” for “signals, and”, inserted “, and the carrier provides local-into-local service to all DMAs” after “receiving the secondary transmission”, and inserted at end “Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached.”
 
-Subsec. (a)(2)(B)(ii), (iii). Pub. L. 116–94, § 1102(a)(1)(A)(ii), added cl. (ii) and struck out former cls. (ii) and (iii) which related to accurate determinations of eligibility and C-band exemption to unserved households, respectively.
+Subsec. (a)(2)(B)(ii), (iii). Pub. L. 116–94, § 1102(a)(1)(A)(ii), added cl. (ii) and struck out former cls. (ii) and (iii) which related to accurate determinations of eligibility and C-band exemption to unserved households, respectively.
 
-Subsec. (a)(3). Pub. L. 116–94, § 1102(a)(1)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which related to statutory license where retransmissions into local market available.
+Subsec. (a)(3). Pub. L. 116–94, § 1102(a)(1)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which related to statutory license where retransmissions into local market available.
 
-Subsec. (a)(4), (5). Pub. L. 116–94, § 1102(a)(1)(C), redesignated pars. (5) and (6) as (4) and (5), respectively. Former par. (4) redesignated (3).
+Subsec. (a)(4), (5). Pub. L. 116–94, § 1102(a)(1)(C), redesignated pars. (5) and (6) as (4) and (5), respectively. Former par. (4) redesignated (3).
 
-Subsec. (a)(6). Pub. L. 116–94, § 1102(a)(1)(C), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+Subsec. (a)(6). Pub. L. 116–94, § 1102(a)(1)(C), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-Subsec. (a)(6)(E). Pub. L. 116–94, § 1102(a)(1)(B), struck out subpar. (E). Text read as follows: “The secondary transmission by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a network station to subscribers who do not reside in unserved households shall not be an act of infringement if—
+Subsec. (a)(6)(E). Pub. L. 116–94, § 1102(a)(1)(B), struck out subpar. (E). Text read as follows: “The secondary transmission by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a network station to subscribers who do not reside in unserved households shall not be an act of infringement if—
 
 “(i) the station on May 1, 1991, was retransmitted by a satellite carrier and was not on that date owned or operated by or affiliated with a television network that offered interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated television licensees in 10 or more States;
 
@@ -5473,25 +5473,25 @@ Subsec. (a)(6)(E). Pub. L. 116–94, § 1102(a)(1)(B), struck out subpar. (E).
 
 “(iii) the station is not owned or operated by or affiliated with a television network that, as of January 1, 1995, offered interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated television licensees in 10 or more States.”
 
-Subsec. (a)(7), (8). Pub. L. 116–94, § 1102(a)(1)(C), redesignated pars. (8) and (11) as (7) and (8), respectively. Former par. (7) redesignated (6).
+Subsec. (a)(7), (8). Pub. L. 116–94, § 1102(a)(1)(C), redesignated pars. (8) and (11) as (7) and (8), respectively. Former par. (7) redesignated (6).
 
-Subsec. (a)(9). Pub. L. 116–94, § 1102(a)(1)(B), (C), redesignated par. (12) as (9) and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: “In any civil action filed relating to the eligibility of subscribing households as unserved households—
+Subsec. (a)(9). Pub. L. 116–94, § 1102(a)(1)(B), (C), redesignated par. (12) as (9) and struck out former par. (9). Prior to amendment, text of par. (9) read as follows: “In any civil action filed relating to the eligibility of subscribing households as unserved households—
 
 “(A) a network station challenging such eligibility shall, within 60 days after receipt of the measurement results and a statement of such costs, reimburse the satellite carrier for any signal intensity measurement that is conducted by that carrier in response to a challenge by the network station and that establishes the household is an unserved household; and
 
 “(B) a satellite carrier shall, within 60 days after receipt of the measurement results and a statement of such costs, reimburse the network station challenging such eligibility for any signal intensity measurement that is conducted by that station and that establishes the household is not an unserved household.”
 
-Subsec. (a)(10). Pub. L. 116–94, § 1102(a)(1)(B), (C), redesignated par. (14) as (10) and struck out former par. (10). Prior to amendment, text of par. (10) read as follows: “If a network station makes a reasonable attempt to conduct a site measurement of its signal at a subscriber’s household and is denied access for the purpose of conducting the measurement, and is otherwise unable to conduct a measurement, the satellite carrier shall within 60 days notice thereof, terminate service of the station’s network to that household.”
+Subsec. (a)(10). Pub. L. 116–94, § 1102(a)(1)(B), (C), redesignated par. (14) as (10) and struck out former par. (10). Prior to amendment, text of par. (10) read as follows: “If a network station makes a reasonable attempt to conduct a site measurement of its signal at a subscriber’s household and is denied access for the purpose of conducting the measurement, and is otherwise unable to conduct a measurement, the satellite carrier shall within 60 days notice thereof, terminate service of the station’s network to that household.”
 
-Subsec. (a)(11), (12). Pub. L. 116–94, § 1102(a)(1)(C), redesignated pars. (11) and (12) as (8) and (9), respectively.
+Subsec. (a)(11), (12). Pub. L. 116–94, § 1102(a)(1)(C), redesignated pars. (11) and (12) as (8) and (9), respectively.
 
-Subsec. (a)(13). Pub. L. 116–94, § 1102(a)(1)(B), struck out par. (13). Text read as follows: “A subscriber who is denied the secondary transmission of a signal of a network station under subsection (a)(2)(B) may request a waiver from such denial by submitting a request, through the subscriber’s satellite carrier, to the network station asserting that the secondary transmission is prohibited. The network station shall accept or reject a subscriber’s request for a waiver within 30 days after receipt of the request. If a television network station fails to accept or reject a subscriber’s request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver. Unless specifically stated by the network station, a waiver that was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004 under section 339(c)(2) of the Communications Act of 1934, and that was in effect on such date of enactment, shall constitute a waiver for purposes of this paragraph.”
+Subsec. (a)(13). Pub. L. 116–94, § 1102(a)(1)(B), struck out par. (13). Text read as follows: “A subscriber who is denied the secondary transmission of a signal of a network station under subsection (a)(2)(B) may request a waiver from such denial by submitting a request, through the subscriber’s satellite carrier, to the network station asserting that the secondary transmission is prohibited. The network station shall accept or reject a subscriber’s request for a waiver within 30 days after receipt of the request. If a television network station fails to accept or reject a subscriber’s request for a waiver within the 30-day period after receipt of the request, that station shall be deemed to agree to the waiver request and have filed such written waiver. Unless specifically stated by the network station, a waiver that was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004 under section 339(c)(2) of the Communications Act of 1934, and that was in effect on such date of enactment, shall constitute a waiver for purposes of this paragraph.”
 
-Subsec. (a)(14). Pub. L. 116–94, § 1102(a)(1)(C), redesignated par. (14) as (10).
+Subsec. (a)(14). Pub. L. 116–94, § 1102(a)(1)(C), redesignated par. (14) as (10).
 
-Subsec. (c)(1)(E). Pub. L. 116–94, § 1102(a)(2), substituted “in the agreement and shall remain in effect in accordance with the terms of the agreement until the subscriber for which the royalty is payable is no longer eligible to receive a secondary transmission pursuant to the license under this section.” for “in the agreement, and shall remain in effect until December 31, 2019, or in accordance with the terms of the agreement, whichever is later.”
+Subsec. (c)(1)(E). Pub. L. 116–94, § 1102(a)(2), substituted “in the agreement and shall remain in effect in accordance with the terms of the agreement until the subscriber for which the royalty is payable is no longer eligible to receive a secondary transmission pursuant to the license under this section.” for “in the agreement, and shall remain in effect until December 31, 2019, or in accordance with the terms of the agreement, whichever is later.”
 
-Subsec. (d)(10). Pub. L. 116–94, § 1102(a)(3)(A), redesignated subpar. (D) as (A) and substituted “subsection (a)(8)” for “subsection (a)(11)”, added subpar. (B), and struck out former subpars. (A) to (C) and (E) which read as follows:
+Subsec. (d)(10). Pub. L. 116–94, § 1102(a)(3)(A), redesignated subpar. (D) as (A) and substituted “subsection (a)(8)” for “subsection (a)(11)”, added subpar. (B), and struck out former subpars. (A) to (C) and (E) which read as follows:
 
 “(A) cannot receive, through the use of an antenna, an over-the-air signal containing the primary stream, or, on or after the qualifying date, the multicast stream, originating in that household’s local market and affiliated with that network of—
 
@@ -5505,233 +5505,233 @@ Subsec. (d)(10). Pub. L. 116–94, § 1102(a)(3)(A), redesignated subpar. (D) 
 
 “(E) is a subscriber to whom the exemption under subsection (a)(2)(B)(iii) applies.”
 
-Subsec. (d)(13) to (16). Pub. L. 116–94, § 1102(a)(3)(B)–(D), redesignated pars. (14) and (15) as (13) and (14), respectively, added pars. (15) and (16), and struck out former par. (13) which defined the term “qualifying date” for purposes of former subsec. (d)(10)(A).
+Subsec. (d)(13) to (16). Pub. L. 116–94, § 1102(a)(3)(B)–(D), redesignated pars. (14) and (15) as (13) and (14), respectively, added pars. (15) and (16), and struck out former par. (13) which defined the term “qualifying date” for purposes of former subsec. (d)(10)(A).
 
-Subsec. (e). Pub. L. 116–94, § 1102(a)(4), (6), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Until December 31, 2019, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.”
+Subsec. (e). Pub. L. 116–94, § 1102(a)(4), (6), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “Until December 31, 2019, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999.”
 
-Subsec. (f). Pub. L. 116–94, § 1102(a)(6), (c)(1)(B), redesignated subsec. (g) as (f) and substituted “subsection (a)(5)(B)” for “subsection (a)(7)(B)” in pars. (1) and (2)(A). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 116–94, § 1102(a)(6), (c)(1)(B), redesignated subsec. (g) as (f) and substituted “subsection (a)(5)(B)” for “subsection (a)(7)(B)” in pars. (1) and (2)(A). Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 116–94, § 1102(a)(6), redesignated subsec. (g) as (f).
+Subsec. (g). Pub. L. 116–94, § 1102(a)(6), redesignated subsec. (g) as (f).
 
-Subsec. (g)(7)(A). Pub. L. 116–94, § 1102(a)(5), inserted “, except for designated market areas where the entity is temporarily or permanently unable to provide local service as a result of an act of god or other force majeure event beyond the control of the entity” after “section 122”.
+Subsec. (g)(7)(A). Pub. L. 116–94, § 1102(a)(5), inserted “, except for designated market areas where the entity is temporarily or permanently unable to provide local service as a result of an act of god or other force majeure event beyond the control of the entity” after “section 122”.
 
-Subsec. (h). Pub. L. 116–94, § 1102(a)(4), struck out subsec. (h). Text read as follows: “This section shall cease to be effective on December 31, 2019.”
+Subsec. (h). Pub. L. 116–94, § 1102(a)(4), struck out subsec. (h). Text read as follows: “This section shall cease to be effective on December 31, 2019.”
 
-2014—Subsec. (c)(1)(E). Pub. L. 113–200, § 201(2)(A), substituted “2019” for “2014”.
+2014—Subsec. (c)(1)(E). Pub. L. 113–200, § 201(2)(A), substituted “2019” for “2014”.
 
-Subsec. (e). Pub. L. 113–200, § 201(2)(B), substituted “2019” for “2014”.
+Subsec. (e). Pub. L. 113–200, § 201(2)(B), substituted “2019” for “2014”.
 
-Subsec. (h). Pub. L. 113–200, § 202(a), added subsec. (h).
+Subsec. (h). Pub. L. 113–200, § 202(a), added subsec. (h).
 
-2010—Pub. L. 111–175, § 102(a)(1), substituted “distant television programming by satellite” for “superstations and network stations for private home viewing” in section catchline.
+2010—Pub. L. 111–175, § 102(a)(1), substituted “distant television programming by satellite” for “superstations and network stations for private home viewing” in section catchline.
 
-Subsec. (a). Pub. L. 111–175, § 102(h)(1)(B), (C), redesignated pars. (4) to (14) and (16) as (3) to (13) and (14), respectively, and struck out former pars. (3) and (15) which related to secondary transmissions of significantly viewed signals and carriage of low power television stations, respectively.
+Subsec. (a). Pub. L. 111–175, § 102(h)(1)(B), (C), redesignated pars. (4) to (14) and (16) as (3) to (13) and (14), respectively, and struck out former pars. (3) and (15) which related to secondary transmissions of significantly viewed signals and carriage of low power television stations, respectively.
 
-Subsec. (a)(1). Pub. L. 111–175, § 102(h)(2)(A)(i), substituted “(4), (5), and (7)” for “(5), (6), and (8)”.
+Subsec. (a)(1). Pub. L. 111–175, § 102(h)(2)(A)(i), substituted “(4), (5), and (7)” for “(5), (6), and (8)”.
 
-Pub. L. 111–175, § 102(g)(2), which directed amendment of section by substituting “non-network stations” for “superstations” wherever appearing in headings, was executed by substituting “Non-network stations” for “Superstations” in par. (1) heading, to reflect the probable intent of Congress.
+Pub. L. 111–175, § 102(g)(2), which directed amendment of section by substituting “non-network stations” for “superstations” wherever appearing in headings, was executed by substituting “Non-network stations” for “Superstations” in par. (1) heading, to reflect the probable intent of Congress.
 
-Pub. L. 111–175, § 102(g)(1), substituted “non-network station” for “superstation”.
+Pub. L. 111–175, § 102(g)(1), substituted “non-network station” for “superstation”.
 
-Subsec. (a)(2)(A). Pub. L. 111–175, § 102(h)(2)(A)(ii)(I), substituted “subparagraph (B) of this paragraph and paragraphs (4), (5), (6), and (7)” for “subparagraphs (B) and (C) of this paragraph and paragraphs (5), (6), (7), and (8)”.
+Subsec. (a)(2)(A). Pub. L. 111–175, § 102(h)(2)(A)(ii)(I), substituted “subparagraph (B) of this paragraph and paragraphs (4), (5), (6), and (7)” for “subparagraphs (B) and (C) of this paragraph and paragraphs (5), (6), (7), and (8)”.
 
-Subsec. (a)(2)(B)(i). Pub. L. 111–175, § 102(h)(2)(A)(ii)(II), struck out “The limitation in this clause shall not apply to secondary transmissions under paragraph (3).” at end.
+Subsec. (a)(2)(B)(i). Pub. L. 111–175, § 102(h)(2)(A)(ii)(II), struck out “The limitation in this clause shall not apply to secondary transmissions under paragraph (3).” at end.
 
-Subsec. (a)(2)(B)(ii)(III). Pub. L. 111–175, § 102(i)(1), added subcl. (III).
+Subsec. (a)(2)(B)(ii)(III). Pub. L. 111–175, § 102(i)(1), added subcl. (III).
 
-Subsec. (a)(2)(B)(iii)(II). Pub. L. 111–175, § 102(i)(5), (k)(1), substituted “In this clause,” for “In this clause” and “, Code of Federal Regulations” for “of the Code of Federal Regulations”.
+Subsec. (a)(2)(B)(iii)(II). Pub. L. 111–175, § 102(i)(5), (k)(1), substituted “In this clause,” for “In this clause” and “, Code of Federal Regulations” for “of the Code of Federal Regulations”.
 
-Subsec. (a)(2)(C). Pub. L. 111–175, § 102(h)(1)(A), redesignated subpar. (D) as (C) and struck out former subpar. (C), which related to exceptions.
+Subsec. (a)(2)(C). Pub. L. 111–175, § 102(h)(1)(A), redesignated subpar. (D) as (C) and struck out former subpar. (C), which related to exceptions.
 
-Subsec. (a)(2)(C)(i), (ii). Pub. L. 111–175, § 102(h)(2)(A)(ii)(III), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which related to initial lists and monthly lists, respectively.
+Subsec. (a)(2)(C)(i), (ii). Pub. L. 111–175, § 102(h)(2)(A)(ii)(III), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which related to initial lists and monthly lists, respectively.
 
-Subsec. (a)(2)(D). Pub. L. 111–175, § 102(h)(1)(A), redesignated subpar. (D) as (C).
+Subsec. (a)(2)(D). Pub. L. 111–175, § 102(h)(1)(A), redesignated subpar. (D) as (C).
 
-Subsec. (a)(3)(A). Pub. L. 111–175, § 102(i)(2)(A), struck out “analog” after “subscribers to” in subpar. heading, substituted “distant” for “distant analog” and “primary” for “primary analog” wherever appearing in headings and text, and struck out “analog” after “receive such local” in cl. (i)(I)(bb).
+Subsec. (a)(3)(A). Pub. L. 111–175, § 102(i)(2)(A), struck out “analog” after “subscribers to” in subpar. heading, substituted “distant” for “distant analog” and “primary” for “primary analog” wherever appearing in headings and text, and struck out “analog” after “receive such local” in cl. (i)(I)(bb).
 
-Subsec. (a)(3)(B), (C). Pub. L. 111–175, § 102(i)(2)(B), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which related to rules for other subscribers and future applicability, respectively.
+Subsec. (a)(3)(B), (C). Pub. L. 111–175, § 102(i)(2)(B), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which related to rules for other subscribers and future applicability, respectively.
 
-Subsec. (a)(3)(D). Pub. L. 111–175, § 102(i)(2)(B), (C), redesignated subpar. (E) as (D) and struck out former subpar. (D) which related to special rules for distant digital signals.
+Subsec. (a)(3)(D). Pub. L. 111–175, § 102(i)(2)(B), (C), redesignated subpar. (E) as (D) and struck out former subpar. (D) which related to special rules for distant digital signals.
 
-Subsec. (a)(3)(E). Pub. L. 111–175, § 102(i)(2)(C), (D), redesignated subpar. (F) as (E) and substituted “(B) or (C)” for “(C) or (D)”. Former subpar. (E) redesignated (D).
+Subsec. (a)(3)(E). Pub. L. 111–175, § 102(i)(2)(C), (D), redesignated subpar. (F) as (E) and substituted “(B) or (C)” for “(C) or (D)”. Former subpar. (E) redesignated (D).
 
-Pub. L. 111–175, § 102(h)(2)(A)(iii), struck out “under paragraph (3) or” after “transmissions” and substituted “paragraph (11)” for “paragraph (12)”.
+Pub. L. 111–175, § 102(h)(2)(A)(iii), struck out “under paragraph (3) or” after “transmissions” and substituted “paragraph (11)” for “paragraph (12)”.
 
-Subsec. (a)(3)(F), (G). Pub. L. 111–175, § 102(i)(2)(C), (E), redesignated subpar. (G) as (F) and inserted “9-digit” before “zip code”. Former subpar. (F) redesignated (E).
+Subsec. (a)(3)(F), (G). Pub. L. 111–175, § 102(i)(2)(C), (E), redesignated subpar. (G) as (F) and inserted “9-digit” before “zip code”. Former subpar. (F) redesignated (E).
 
-Subsec. (a)(4). Pub. L. 111–175, § 102(i)(4), struck out “and 509” after “506”.
+Subsec. (a)(4). Pub. L. 111–175, § 102(i)(4), struck out “and 509” after “506”.
 
-Subsec. (a)(5). Pub. L. 111–175, § 102(g)(1), substituted “non-network station” for “superstation”.
+Subsec. (a)(5). Pub. L. 111–175, § 102(g)(1), substituted “non-network station” for “superstation”.
 
-Subsec. (a)(6). Pub. L. 111–175, § 102(i)(3)(C), inserted concluding provisions.
+Subsec. (a)(6). Pub. L. 111–175, § 102(i)(3)(C), inserted concluding provisions.
 
-Pub. L. 111–175, § 102(g)(1), substituted “non-network station” for “superstation”.
+Pub. L. 111–175, § 102(g)(1), substituted “non-network station” for “superstation”.
 
-Subsec. (a)(6)(A)(ii). Pub. L. 111–175, § 102(i)(3)(A), substituted “$250” for “$5”.
+Subsec. (a)(6)(A)(ii). Pub. L. 111–175, § 102(i)(3)(A), substituted “$250” for “$5”.
 
-Subsec. (a)(6)(B)(i). Pub. L. 111–175, § 102(i)(3)(B)(i), substituted “$2,500,000 for each 3-month period” for “$250,000 for each 6-month period”.
+Subsec. (a)(6)(B)(i). Pub. L. 111–175, § 102(i)(3)(B)(i), substituted “$2,500,000 for each 3-month period” for “$250,000 for each 6-month period”.
 
-Subsec. (a)(6)(B)(ii). Pub. L. 111–175, § 102(i)(3)(B)(ii), substituted “$2,500,000” for “$250,000”.
+Subsec. (a)(6)(B)(ii). Pub. L. 111–175, § 102(i)(3)(B)(ii), substituted “$2,500,000” for “$250,000”.
 
-Subsec. (a)(8). Pub. L. 111–175, § 102(g)(1), substituted “non-network station” for “superstation”.
+Subsec. (a)(8). Pub. L. 111–175, § 102(g)(1), substituted “non-network station” for “superstation”.
 
-Subsec. (a)(11)(A)(i)(I), (II), (B)(iii)(II). Pub. L. 111–175, § 102(k)(1), substituted “, Code of Federal Regulations” for “of the Code of Federal Regulations”.
+Subsec. (a)(11)(A)(i)(I), (II), (B)(iii)(II). Pub. L. 111–175, § 102(k)(1), substituted “, Code of Federal Regulations” for “of the Code of Federal Regulations”.
 
-Subsec. (b). Pub. L. 111–175, § 102(d)(1), amended heading generally. Prior to amendment, heading read as follows: “Statutory License for Secondary Transmissions for Private Home Viewing.—”.
+Subsec. (b). Pub. L. 111–175, § 102(d)(1), amended heading generally. Prior to amendment, heading read as follows: “Statutory License for Secondary Transmissions for Private Home Viewing.—”.
 
-Subsec. (b)(1). Pub. L. 111–175, § 102(h)(2)(B), struck out concluding provisions which read as follows: “Notwithstanding the provisions of subparagraph (B), a satellite carrier whose secondary transmissions are subject to statutory licensing under paragraph (1) or (2) of subsection (a) shall have no royalty obligation for secondary transmissions to a subscriber under paragraph (3) of such subsection.”
+Subsec. (b)(1). Pub. L. 111–175, § 102(h)(2)(B), struck out concluding provisions which read as follows: “Notwithstanding the provisions of subparagraph (B), a satellite carrier whose secondary transmissions are subject to statutory licensing under paragraph (1) or (2) of subsection (a) shall have no royalty obligation for secondary transmissions to a subscriber under paragraph (3) of such subsection.”
 
-Subsec. (b)(1)(A). Pub. L. 111–175, § 102(g)(2), substituted “non-network stations” for “superstations”.
+Subsec. (b)(1)(A). Pub. L. 111–175, § 102(g)(2), substituted “non-network stations” for “superstations”.
 
-Subsec. (b)(1)(B). Pub. L. 111–175, § 102(d)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “a royalty fee for that 6-month period, computed by multiplying the total number of subscribers receiving each secondary transmission of each superstation or network station during each calendar month by the appropriate rate in effect under this section; and”.
+Subsec. (b)(1)(B). Pub. L. 111–175, § 102(d)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “a royalty fee for that 6-month period, computed by multiplying the total number of subscribers receiving each secondary transmission of each superstation or network station during each calendar month by the appropriate rate in effect under this section; and”.
 
-Subsec. (b)(1)(C). Pub. L. 111–175, § 102(c), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 111–175, § 102(c), added subpar. (C).
 
-Subsec. (b)(2). Pub. L. 111–175, § 102(d)(4), added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 111–175, § 102(d)(4), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 111–175, § 102(d)(3), (5), redesignated par. (2) as (3), inserted “(including the filing fee specified in paragraph (1)(C))” after “shall receive all fees”, and substituted “paragraph (5)” for “paragraph (4)”. Former par. (3) redesignated (4).
+Subsec. (b)(3). Pub. L. 111–175, § 102(d)(3), (5), redesignated par. (2) as (3), inserted “(including the filing fee specified in paragraph (1)(C))” after “shall receive all fees”, and substituted “paragraph (5)” for “paragraph (4)”. Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 111–175, § 102(d)(3), (6), redesignated par. (3) as (4), substituted “paragraph (3)” for “paragraph (2)”, and substituted “paragraph (5)” for “paragraph (4)” in two places. Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 111–175, § 102(d)(3), (6), redesignated par. (3) as (4), substituted “paragraph (3)” for “paragraph (2)”, and substituted “paragraph (5)” for “paragraph (4)” in two places. Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 111–175, § 102(d)(3), (7), redesignated par. (4) as (5) and substituted “paragraph (3)” for “paragraph (2)” in introductory provisions.
+Subsec. (b)(5). Pub. L. 111–175, § 102(d)(3), (7), redesignated par. (4) as (5) and substituted “paragraph (3)” for “paragraph (2)” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 111–175, § 102(e)(1)(A), struck out “analog” after “fees for” in heading.
+Subsec. (c)(1). Pub. L. 111–175, § 102(e)(1)(A), struck out “analog” after “fees for” in heading.
 
-Subsec. (c)(1)(A). Pub. L. 111–175, § 102(e)(1)(B), (g)(2), substituted “primary transmissions” for “primary analog transmissions”, “non-network stations” for “superstations”, and “July 1, 2009” for “July 1, 2004”.
+Subsec. (c)(1)(A). Pub. L. 111–175, § 102(e)(1)(B), (g)(2), substituted “primary transmissions” for “primary analog transmissions”, “non-network stations” for “superstations”, and “July 1, 2009” for “July 1, 2004”.
 
-Subsec. (c)(1)(B). Pub. L. 111–175, § 102(e)(1)(C), (g)(2), substituted “June 1, 2010, the Copyright Royalty Judges” for “January 2, 2005, the Librarian of Congress”, “primary transmissions” for “primary analog transmission”, and “non-network stations” for “superstations”.
+Subsec. (c)(1)(B). Pub. L. 111–175, § 102(e)(1)(C), (g)(2), substituted “June 1, 2010, the Copyright Royalty Judges” for “January 2, 2005, the Librarian of Congress”, “primary transmissions” for “primary analog transmission”, and “non-network stations” for “superstations”.
 
-Subsec. (c)(1)(C). Pub. L. 111–175, § 102(e)(1)(D), substituted “Copyright Royalty Judges” for “Librarian of Congress”.
+Subsec. (c)(1)(C). Pub. L. 111–175, § 102(e)(1)(D), substituted “Copyright Royalty Judges” for “Librarian of Congress”.
 
-Subsec. (c)(1)(D)(i). Pub. L. 111–175, § 102(e)(1)(E)(i), inserted heading and substituted “that are parties” for “that a parties”.
+Subsec. (c)(1)(D)(i). Pub. L. 111–175, § 102(e)(1)(E)(i), inserted heading and substituted “that are parties” for “that a parties”.
 
-Subsec. (c)(1)(D)(ii). Pub. L. 111–175, § 102(e)(1)(E)(ii)(I), inserted heading.
+Subsec. (c)(1)(D)(ii). Pub. L. 111–175, § 102(e)(1)(E)(ii)(I), inserted heading.
 
-Subsec. (c)(1)(D)(ii)(I). Pub. L. 111–175, § 102(e)(1)(E)(ii)(I), (II), inserted heading and substituted “a proceeding under subparagraph (F)” for “an arbitration proceeding pursuant to subparagraph (E)”.
+Subsec. (c)(1)(D)(ii)(I). Pub. L. 111–175, § 102(e)(1)(E)(ii)(I), (II), inserted heading and substituted “a proceeding under subparagraph (F)” for “an arbitration proceeding pursuant to subparagraph (E)”.
 
-Subsec. (c)(1)(D)(ii)(II). Pub. L. 111–175, § 102(e)(1)(E)(ii)(III), inserted heading and substituted “Upon receiving a request under subclause (I), the Copyright Royalty Judges” for “Upon receiving a request under subclause (I), the Librarian of Congress”.
+Subsec. (c)(1)(D)(ii)(II). Pub. L. 111–175, § 102(e)(1)(E)(ii)(III), inserted heading and substituted “Upon receiving a request under subclause (I), the Copyright Royalty Judges” for “Upon receiving a request under subclause (I), the Librarian of Congress”.
 
-Subsec. (c)(1)(D)(ii)(III). Pub. L. 111–175, § 102(e)(1)(E)(ii)(IV), inserted heading and substituted “The Copyright Royalty Judges” for “The Librarian”, “the proceeding under subparagraph (F)” for “an arbitration proceeding”, and “that proceeding” for “the arbitration proceeding”.
+Subsec. (c)(1)(D)(ii)(III). Pub. L. 111–175, § 102(e)(1)(E)(ii)(IV), inserted heading and substituted “The Copyright Royalty Judges” for “The Librarian”, “the proceeding under subparagraph (F)” for “an arbitration proceeding”, and “that proceeding” for “the arbitration proceeding”.
 
-Subsec. (c)(1)(E). Pub. L. 111–175, § 102(e)(1)(F), substituted “Copyright Royalty Judges” for “Copyright Office” and “December 31, 2014” for “May 31, 2010”.
+Subsec. (c)(1)(E). Pub. L. 111–175, § 102(e)(1)(F), substituted “Copyright Royalty Judges” for “Copyright Office” and “December 31, 2014” for “May 31, 2010”.
 
-Pub. L. 111–157, § 9(a)(1)(A), substituted “May 31, 2010” for “April 30, 2010”.
+Pub. L. 111–157, § 9(a)(1)(A), substituted “May 31, 2010” for “April 30, 2010”.
 
-Pub. L. 111–151, § 2(a)(1)(A), substituted “April 30, 2010” for “March 28, 2010”.
+Pub. L. 111–151, § 2(a)(1)(A), substituted “April 30, 2010” for “March 28, 2010”.
 
-Pub. L. 111–144, § 10(a)(1)(A), substituted “March 28, 2010” for “February 28, 2010”.
+Pub. L. 111–144, § 10(a)(1)(A), substituted “March 28, 2010” for “February 28, 2010”.
 
-Subsec. (c)(1)(F). Pub. L. 111–175, § 102(e)(1)(G)(i), substituted “copyright royalty judges proceeding” for “compulsory arbitration” in heading.
+Subsec. (c)(1)(F). Pub. L. 111–175, § 102(e)(1)(G)(i), substituted “copyright royalty judges proceeding” for “compulsory arbitration” in heading.
 
-Subsec. (c)(1)(F)(i). Pub. L. 111–175, § 102(e)(1)(G)(ii)(I), (II), (IV), (g)(2), in heading, substituted “the proceeding” for “proceedings”, in introductory provisions, substituted “September 1, 2010, the Copyright Royalty Judges” for “May 1, 2005, the Librarian of Congress”, “a proceeding” for “arbitration proceedings”, “fees to be paid” for “fee to be paid”, “the primary transmissions” for “primary analog transmission”, “non-network stations” for “superstations”, and “distributors—” for “distributors”, and amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “Such arbitration proceeding shall be conducted under chapter 8 as in effect on the day before the date of the enactment of the Copyright Royalty and Distribution Act of 2004.”
+Subsec. (c)(1)(F)(i). Pub. L. 111–175, § 102(e)(1)(G)(ii)(I), (II), (IV), (g)(2), in heading, substituted “the proceeding” for “proceedings”, in introductory provisions, substituted “September 1, 2010, the Copyright Royalty Judges” for “May 1, 2005, the Librarian of Congress”, “a proceeding” for “arbitration proceedings”, “fees to be paid” for “fee to be paid”, “the primary transmissions” for “primary analog transmission”, “non-network stations” for “superstations”, and “distributors—” for “distributors”, and amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “Such arbitration proceeding shall be conducted under chapter 8 as in effect on the day before the date of the enactment of the Copyright Royalty and Distribution Act of 2004.”
 
-Subsec. (c)(1)(F)(i)(II). Pub. L. 111–175, § 102(e)(1)(G)(ii)(III), substituted “Copyright Royalty Judges” for “Librarian of Congress” and struck out “arbitration” after “participate in the”.
+Subsec. (c)(1)(F)(i)(II). Pub. L. 111–175, § 102(e)(1)(G)(ii)(III), substituted “Copyright Royalty Judges” for “Librarian of Congress” and struck out “arbitration” after “participate in the”.
 
-Subsec. (c)(1)(F)(ii). Pub. L. 111–175, § 102(e)(1)(G)(iii), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “In determining royalty fees under this subparagraph, the copyright arbitration royalty panel appointed under chapter 8, as in effect on the day before the date of the enactment of the Copyright Royalty and Distribution Act of 2004 shall establish fees for the secondary transmissions of the primary analog transmission of network stations and superstations that most clearly represent the fair market value of secondary transmissions, except that the Librarian of Congress and any copyright arbitration royalty panel shall adjust those fees to account for the obligations of the parties under any applicable voluntary agreement filed with the Copyright Office pursuant to subparagraph (D). In determining the fair market value, the panel shall base its decision on economic, competitive, and programming information presented by the parties, including—”.
+Subsec. (c)(1)(F)(ii). Pub. L. 111–175, § 102(e)(1)(G)(iii), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “In determining royalty fees under this subparagraph, the copyright arbitration royalty panel appointed under chapter 8, as in effect on the day before the date of the enactment of the Copyright Royalty and Distribution Act of 2004 shall establish fees for the secondary transmissions of the primary analog transmission of network stations and superstations that most clearly represent the fair market value of secondary transmissions, except that the Librarian of Congress and any copyright arbitration royalty panel shall adjust those fees to account for the obligations of the parties under any applicable voluntary agreement filed with the Copyright Office pursuant to subparagraph (D). In determining the fair market value, the panel shall base its decision on economic, competitive, and programming information presented by the parties, including—”.
 
-Subsec. (c)(1)(F)(iii). Pub. L. 111–175, § 102(e)(1)(G)(iv), amended cl. (iii) generally. Prior to amendment, text read as follows: “The obligation to pay the royalty fee established under a determination which—
+Subsec. (c)(1)(F)(iii). Pub. L. 111–175, § 102(e)(1)(G)(iv), amended cl. (iii) generally. Prior to amendment, text read as follows: “The obligation to pay the royalty fee established under a determination which—
 
 “(I) is made by a copyright arbitration royalty panel in an arbitration proceeding under this paragraph and is adopted by the Librarian of Congress under section 802(f), as in effect on the day before the date of the enactment of the Copyright Royalty and Distribution Act of 2004; or
 
 “(II) is established by the Librarian under section 802(f) as in effect on the day before such date of enactment shall be effective as of January 1, 2005.”
 
-Subsec. (c)(1)(F)(iv). Pub. L. 111–175, § 102(e)(1)(G)(v), substituted “fees” for “fee” in heading and substituted “fees referred to in clause (iii)” for “fee referred to in (iii)” in text.
+Subsec. (c)(1)(F)(iv). Pub. L. 111–175, § 102(e)(1)(G)(v), substituted “fees” for “fee” in heading and substituted “fees referred to in clause (iii)” for “fee referred to in (iii)” in text.
 
-Subsec. (c)(2). Pub. L. 111–175, § 102(e)(2), amended par. (2) generally. Prior to amendment, par. (2) related to applicability and determination of royalty fees for digital signals.
+Subsec. (c)(2). Pub. L. 111–175, § 102(e)(2), amended par. (2) generally. Prior to amendment, par. (2) related to applicability and determination of royalty fees for digital signals.
 
-Subsec. (d)(1). Pub. L. 111–175, § 102(f)(6), substituted “that contracts” for “which contracts”.
+Subsec. (d)(1). Pub. L. 111–175, § 102(f)(6), substituted “that contracts” for “which contracts”.
 
-Subsec. (d)(2)(A). Pub. L. 111–175, § 102(f)(6), substituted “that offer” for “which offer”.
+Subsec. (d)(2)(A). Pub. L. 111–175, § 102(f)(6), substituted “that offer” for “which offer”.
 
-Subsec. (d)(5). Pub. L. 111–175, § 102(f)(6), substituted “that is operated” for “which is operated” and “that serves” for “which serves”.
+Subsec. (d)(5). Pub. L. 111–175, § 102(f)(6), substituted “that is operated” for “which is operated” and “that serves” for “which serves”.
 
-Subsec. (d)(6). Pub. L. 111–175, § 102(k), substituted “, Code of Federal Regulations, or the Direct Broadcast Satellite Service under part 100 of title 47, Code of Federal Regulations” for “of the Code of Federal Regulations or the Direct Broadcast Satellite Service under part 100 of title 47 of the Code of Federal Regulations”.
+Subsec. (d)(6). Pub. L. 111–175, § 102(k), substituted “, Code of Federal Regulations, or the Direct Broadcast Satellite Service under part 100 of title 47, Code of Federal Regulations” for “of the Code of Federal Regulations or the Direct Broadcast Satellite Service under part 100 of title 47 of the Code of Federal Regulations”.
 
-Subsec. (d)(8). Pub. L. 111–175, § 102(f)(1), amended par. (8) generally. Prior to amendment, text read as follows: “The term ‘subscriber’ means an individual or entity that receives a secondary transmission service by means of a secondary transmission from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor in accordance with the provisions of this section.”
+Subsec. (d)(8). Pub. L. 111–175, § 102(f)(1), amended par. (8) generally. Prior to amendment, text read as follows: “The term ‘subscriber’ means an individual or entity that receives a secondary transmission service by means of a secondary transmission from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor in accordance with the provisions of this section.”
 
-Subsec. (d)(9). Pub. L. 111–175, § 102(g)(1), which directed amendment of section by substituting “non-network station” for “superstation” wherever appearing in headings, was executed by substituting “Non-network station” for “Superstation” in par. (9) heading, to reflect the probable intent of Congress.
+Subsec. (d)(9). Pub. L. 111–175, § 102(g)(1), which directed amendment of section by substituting “non-network station” for “superstation” wherever appearing in headings, was executed by substituting “Non-network station” for “Superstation” in par. (9) heading, to reflect the probable intent of Congress.
 
-Pub. L. 111–175, § 102(g)(1), substituted “non-network station” for “superstation”.
+Pub. L. 111–175, § 102(g)(1), substituted “non-network station” for “superstation”.
 
-Subsec. (d)(10)(A). Pub. L. 111–175, § 102(b)(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “cannot receive, through the use of a conventional, stationary, outdoor rooftop receiving antenna, an over-the-air signal of a primary network station affiliated with that network of Grade B intensity as defined by the Federal Communications Commission under section 73.683(a) of title 47 of the Code of Federal Regulations, as in effect on January 1, 1999;”.
+Subsec. (d)(10)(A). Pub. L. 111–175, § 102(b)(1)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “cannot receive, through the use of a conventional, stationary, outdoor rooftop receiving antenna, an over-the-air signal of a primary network station affiliated with that network of Grade B intensity as defined by the Federal Communications Commission under section 73.683(a) of title 47 of the Code of Federal Regulations, as in effect on January 1, 1999;”.
 
-Subsec. (d)(10)(B). Pub. L. 111–175, § 102(b)(1)(B), substituted “subsection (a)(13),” for “subsection (a)(14)” and “Satellite Television Extension and Localism Act of 2010” for “Satellite Home Viewer Extension and Reauthorization Act of 2004”.
+Subsec. (d)(10)(B). Pub. L. 111–175, § 102(b)(1)(B), substituted “subsection (a)(13),” for “subsection (a)(14)” and “Satellite Television Extension and Localism Act of 2010” for “Satellite Home Viewer Extension and Reauthorization Act of 2004”.
 
-Subsec. (d)(10)(D). Pub. L. 111–175, § 102(b)(1)(C), substituted “(a)(11)” for “(a)(12)”.
+Subsec. (d)(10)(D). Pub. L. 111–175, § 102(b)(1)(C), substituted “(a)(11)” for “(a)(12)”.
 
-Subsec. (d)(11). Pub. L. 111–175, § 102(f)(2), amended par. (11) generally. Prior to amendment, text read as follows: “The term ‘local market’ has the meaning given such term under section 122(j), except that with respect to a low power television station, the term ‘local market’ means the designated market area in which the station is located.”
+Subsec. (d)(11). Pub. L. 111–175, § 102(f)(2), amended par. (11) generally. Prior to amendment, text read as follows: “The term ‘local market’ has the meaning given such term under section 122(j), except that with respect to a low power television station, the term ‘local market’ means the designated market area in which the station is located.”
 
-Subsec. (d)(12), (13). Pub. L. 111–175, § 102(f)(3), redesignated pars. (13) and (14) as (12) and (13), respectively, and struck out former par. (12). Text read as follows: “The term ‘low power television station’ means a low power television as defined under section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term ‘low power television station’ includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.”
+Subsec. (d)(12), (13). Pub. L. 111–175, § 102(f)(3), redesignated pars. (13) and (14) as (12) and (13), respectively, and struck out former par. (12). Text read as follows: “The term ‘low power television station’ means a low power television as defined under section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term ‘low power television station’ includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.”
 
-Subsec. (d)(14). Pub. L. 111–175, § 102(f)(4), added par. (14). Former par. (14) redesignated (13).
+Subsec. (d)(14). Pub. L. 111–175, § 102(f)(4), added par. (14). Former par. (14) redesignated (13).
 
-Pub. L. 111–175, § 102(b)(2), added par. (14).
+Pub. L. 111–175, § 102(b)(2), added par. (14).
 
-Subsec. (d)(15). Pub. L. 111–175, § 102(f)(5), added par. (15).
+Subsec. (d)(15). Pub. L. 111–175, § 102(f)(5), added par. (15).
 
-Subsec. (e). Pub. L. 111–175, § 102(j), (k)(1), substituted “December 31, 2014” for “May 31, 2010” and “, Code of Federal Regulations” for “of the Code of Federal Regulations”.
+Subsec. (e). Pub. L. 111–175, § 102(j), (k)(1), substituted “December 31, 2014” for “May 31, 2010” and “, Code of Federal Regulations” for “of the Code of Federal Regulations”.
 
-Pub. L. 111–157, § 9(a)(1)(B), substituted “May 31, 2010” for “April 30, 2010”.
+Pub. L. 111–157, § 9(a)(1)(B), substituted “May 31, 2010” for “April 30, 2010”.
 
-Pub. L. 111–151, § 2(a)(1)(B), substituted “April 30, 2010” for “March 28, 2010”.
+Pub. L. 111–151, § 2(a)(1)(B), substituted “April 30, 2010” for “March 28, 2010”.
 
-Pub. L. 111–144, § 10(a)(1)(B), substituted “March 28, 2010” for “February 28, 2010”.
+Pub. L. 111–144, § 10(a)(1)(B), substituted “March 28, 2010” for “February 28, 2010”.
 
-Subsec. (g). Pub. L. 111–175, § 105, added subsec. (g).
+Subsec. (g). Pub. L. 111–175, § 105, added subsec. (g).
 
 Subsec. (g)(4)(B)(vi). Pub. L. 111–295 substituted “an examination” for “the examinations”.
 
 2009—Subsecs. (c)(1)(E), (e). Pub. L. 111–118 substituted “February 28, 2010” for “December 31, 2009”.
 
-2008—Subsec. (a)(6). Pub. L. 110–403, § 209(a)(4)(A), substituted “section 510” for “sections 509 and 510”.
+2008—Subsec. (a)(6). Pub. L. 110–403, § 209(a)(4)(A), substituted “section 510” for “sections 509 and 510”.
 
-Subsec. (a)(7)(A). Pub. L. 110–403, § 209(a)(4)(B), struck out “and 509” after “506” in introductory provisions.
+Subsec. (a)(7)(A). Pub. L. 110–403, § 209(a)(4)(B), struck out “and 509” after “506” in introductory provisions.
 
-Subsec. (a)(8), (13). Pub. L. 110–403, § 209(a)(4)(C), (D), struck out “and 509” after “506”.
+Subsec. (a)(8), (13). Pub. L. 110–403, § 209(a)(4)(C), (D), struck out “and 509” after “506”.
 
-2006—Subsec. (b)(4)(B). Pub. L. 109–303, § 4(e)(1)(A), substituted second sentence for former second sentence which read as follows: “If the Copyright Royalty Judges determine that no such controversy exists, the Librarian of Congress shall, after deducting reasonable administrative costs under this paragraph, distribute such fees to the copyright owners entitled to receive them, or to their designated agents.”
+2006—Subsec. (b)(4)(B). Pub. L. 109–303, § 4(e)(1)(A), substituted second sentence for former second sentence which read as follows: “If the Copyright Royalty Judges determine that no such controversy exists, the Librarian of Congress shall, after deducting reasonable administrative costs under this paragraph, distribute such fees to the copyright owners entitled to receive them, or to their designated agents.”
 
-Subsec. (b)(4)(C). Pub. L. 109–303, § 4(e)(1)(B), amended subpar. (C) generally. Prior to amendment, text of subpar. (C) read as follows: “During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall have the discretion to proceed to distribute any amounts that are not in controversy.”
+Subsec. (b)(4)(C). Pub. L. 109–303, § 4(e)(1)(B), amended subpar. (C) generally. Prior to amendment, text of subpar. (C) read as follows: “During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall have the discretion to proceed to distribute any amounts that are not in controversy.”
 
-Subsec. (c). Pub. L. 109–303, § 4(g), deemed amendment by Pub. L. 108–419, § 5(h), never to have been enacted. See 2004 Amendment note below.
+Subsec. (c). Pub. L. 109–303, § 4(g), deemed amendment by Pub. L. 108–419, § 5(h), never to have been enacted. See 2004 Amendment note below.
 
-Subsec. (c)(1)(F)(i). Pub. L. 109–303, § 4(e)(2), substituted “arbitration” for “arbitrary” in concluding provisions.
+Subsec. (c)(1)(F)(i). Pub. L. 109–303, § 4(e)(2), substituted “arbitration” for “arbitrary” in concluding provisions.
 
-2004—Subsec. (a)(1). Pub. L. 108–447, § 107(a)(1), inserted “or for viewing in a commercial establishment” after “for private home viewing” in two places and substituted “subscriber” for “household”.
+2004—Subsec. (a)(1). Pub. L. 108–447, § 107(a)(1), inserted “or for viewing in a commercial establishment” after “for private home viewing” in two places and substituted “subscriber” for “household”.
 
-Pub. L. 108–447, § 102(1), struck out “and pbs satellite feed” after “Superstations” in heading, substituted “paragraphs (5), (6), and (8)” for “paragraphs (3), (4), and (6)” and struck out “or by the Public Broadcasting Service satellite feed” after “primary transmission made by a superstation” in first sentence, and struck out at end “In the case of the Public Broadcasting Service satellite feed, the statutory license shall be effective until January 1, 2002.”
+Pub. L. 108–447, § 102(1), struck out “and pbs satellite feed” after “Superstations” in heading, substituted “paragraphs (5), (6), and (8)” for “paragraphs (3), (4), and (6)” and struck out “or by the Public Broadcasting Service satellite feed” after “primary transmission made by a superstation” in first sentence, and struck out at end “In the case of the Public Broadcasting Service satellite feed, the statutory license shall be effective until January 1, 2002.”
 
-Subsec. (a)(2)(A). Pub. L. 108–447, § 102(2)(A), substituted “paragraphs (5), (6), (7), and (8)” for “paragraphs (3), (4), (5), and (6)”.
+Subsec. (a)(2)(A). Pub. L. 108–447, § 102(2)(A), substituted “paragraphs (5), (6), (7), and (8)” for “paragraphs (3), (4), (5), and (6)”.
 
-Subsec. (a)(2)(B)(i). Pub. L. 108–447, § 102(7), inserted at end “The limitation in this clause shall not apply to secondary transmissions under paragraph (3).”
+Subsec. (a)(2)(B)(i). Pub. L. 108–447, § 102(7), inserted at end “The limitation in this clause shall not apply to secondary transmissions under paragraph (3).”
 
-Subsec. (a)(2)(C), (D). Pub. L. 108–447, § 102(2)(B), added subpars. (C) and (D) and struck out heading and text of former subpar. (C). Text read as follows: “A satellite carrier that makes secondary transmissions of a primary transmission made by a network station pursuant to subparagraph (A) shall, 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission. Thereafter, on the 15th of each month, the satellite carrier shall submit to the network a list identifying (by name and street address, including county and zip code) any persons who have been added or dropped as such subscribers since the last submission under this subparagraph. Such subscriber information submitted by a satellite carrier may be used only for purposes of monitoring compliance by the satellite carrier with this subsection. The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to whom the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents.”
+Subsec. (a)(2)(C), (D). Pub. L. 108–447, § 102(2)(B), added subpars. (C) and (D) and struck out heading and text of former subpar. (C). Text read as follows: “A satellite carrier that makes secondary transmissions of a primary transmission made by a network station pursuant to subparagraph (A) shall, 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission. Thereafter, on the 15th of each month, the satellite carrier shall submit to the network a list identifying (by name and street address, including county and zip code) any persons who have been added or dropped as such subscribers since the last submission under this subparagraph. Such subscriber information submitted by a satellite carrier may be used only for purposes of monitoring compliance by the satellite carrier with this subsection. The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to whom the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents.”
 
-Subsec. (a)(3) to (6). Pub. L. 108–447, §§ 102(5), (6), 103(1), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+Subsec. (a)(3) to (6). Pub. L. 108–447, §§ 102(5), (6), 103(1), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
-Subsec. (a)(7). Pub. L. 108–447, § 102(5), redesignated par. (5) as (7). Former par. (7) redesignated (9).
+Subsec. (a)(7). Pub. L. 108–447, § 102(5), redesignated par. (5) as (7). Former par. (7) redesignated (9).
 
-Subsec. (a)(7)(A). Pub. L. 108–447, § 103(6)(A), substituted “who is not eligible to receive the transmission under this section” for “who does not reside in an unserved household” in introductory provisions.
+Subsec. (a)(7)(A). Pub. L. 108–447, § 103(6)(A), substituted “who is not eligible to receive the transmission under this section” for “who does not reside in an unserved household” in introductory provisions.
 
-Subsec. (a)(7)(B). Pub. L. 108–447, § 103(6)(B), substituted “who are not eligible to receive the transmission under this section” for “who do not reside in unserved households” in introductory provisions.
+Subsec. (a)(7)(B). Pub. L. 108–447, § 103(6)(B), substituted “who are not eligible to receive the transmission under this section” for “who do not reside in unserved households” in introductory provisions.
 
-Subsec. (a)(7)(D). Pub. L. 108–447, § 103(6)(C), substituted “is to a subscriber who is eligible to receive the secondary transmission under this section” for “is for private home viewing to an unserved household”.
+Subsec. (a)(7)(D). Pub. L. 108–447, § 103(6)(C), substituted “is to a subscriber who is eligible to receive the secondary transmission under this section” for “is for private home viewing to an unserved household”.
 
-Subsec. (a)(8). Pub. L. 108–447, § 102(3), (5), redesignated par. (6) as (8) and struck out former par. (8) which related to transitional signal intensity measurement procedures.
+Subsec. (a)(8). Pub. L. 108–447, § 102(3), (5), redesignated par. (6) as (8) and struck out former par. (8) which related to transitional signal intensity measurement procedures.
 
-Subsec. (a)(9) to (13). Pub. L. 108–447, § 102(4), (5), redesignated pars. (7) and (9) to (12) as (9) and (10) to (13), respectively.
+Subsec. (a)(9) to (13). Pub. L. 108–447, § 102(4), (5), redesignated pars. (7) and (9) to (12) as (9) and (10) to (13), respectively.
 
-Subsec. (a)(14). Pub. L. 108–447, § 103(2), added par. (14).
+Subsec. (a)(14). Pub. L. 108–447, § 103(2), added par. (14).
 
-Subsec. (a)(15). Pub. L. 108–447, § 104, added par. (15).
+Subsec. (a)(15). Pub. L. 108–447, § 104, added par. (15).
 
-Subsec. (a)(16). Pub. L. 108–447, § 111(a), added par. (16).
+Subsec. (a)(16). Pub. L. 108–447, § 111(a), added par. (16).
 
-Subsec. (b)(1). Pub. L. 108–447, § 103(4), inserted at end: “Notwithstanding the provisions of subparagraph (B), a satellite carrier whose secondary transmissions are subject to statutory licensing under paragraph (1) or (2) of subsection (a) shall have no royalty obligation for secondary transmissions to a subscriber under paragraph (3) of such subsection.”
+Subsec. (b)(1). Pub. L. 108–447, § 103(4), inserted at end: “Notwithstanding the provisions of subparagraph (B), a satellite carrier whose secondary transmissions are subject to statutory licensing under paragraph (1) or (2) of subsection (a) shall have no royalty obligation for secondary transmissions to a subscriber under paragraph (3) of such subsection.”
 
-Subsec. (b)(1)(A). Pub. L. 108–447, § 107(a)(2), struck out “for private home viewing” after “to subscribers”.
+Subsec. (b)(1)(A). Pub. L. 108–447, § 107(a)(2), struck out “for private home viewing” after “to subscribers”.
 
-Subsec. (b)(1)(B). Pub. L. 108–447, § 103(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “a royalty fee for that 6-month period, computed by—
+Subsec. (b)(1)(B). Pub. L. 108–447, § 103(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “a royalty fee for that 6-month period, computed by—
 
 “(i) multiplying the total number of subscribers receiving each secondary transmission of a superstation during each calendar month by 17.5 cents per subscriber in the case of superstations that as retransmitted by the satellite carrier include any program which, if delivered by any cable system in the United States, would be subject to the syndicated exclusivity rules of the Federal Communications Commission, and 14 cents per subscriber in the case of superstations that are syndex-proof as defined in section 258.2 of title 37, Code of Federal Regulations;
 
@@ -5739,141 +5739,141 @@ Subsec. (b)(1)(B). Pub. L. 108–447, § 103(3), added subpar. (B) and struck 
 
 “(iii) adding together the totals computed under clauses (i) and (ii).”
 
-Subsec. (b)(3). Pub. L. 108–447, § 107(a)(2), struck out “for private home viewing” after “secondary transmission”.
+Subsec. (b)(3). Pub. L. 108–447, § 107(a)(2), struck out “for private home viewing” after “secondary transmission”.
 
-Pub. L. 108–419, § 5(g)(1), substituted “Copyright Royalty Judges” for “Librarian of Congress”.
+Pub. L. 108–419, § 5(g)(1), substituted “Copyright Royalty Judges” for “Librarian of Congress”.
 
-Subsec. (b)(4)(A). Pub. L. 108–447, § 107(a)(2), struck out “for private home viewing” after “secondary transmissions”.
+Subsec. (b)(4)(A). Pub. L. 108–447, § 107(a)(2), struck out “for private home viewing” after “secondary transmissions”.
 
-Pub. L. 108–419, § 5(g)(2)(A), substituted “Copyright Royalty Judges” for “Librarian of Congress” in two places.
+Pub. L. 108–419, § 5(g)(2)(A), substituted “Copyright Royalty Judges” for “Librarian of Congress” in two places.
 
-Subsec. (b)(4)(B), (C). Pub. L. 108–419, § 5(g)(2)(B), reenacted headings without change and amended text generally, substituting provisions relating to duties of Copyright Royalty Judges concerning determination of royalty fee controversies and distribution of royalty fees for provisions relating to duties of Librarian of Congress relating to such determination and distribution.
+Subsec. (b)(4)(B), (C). Pub. L. 108–419, § 5(g)(2)(B), reenacted headings without change and amended text generally, substituting provisions relating to duties of Copyright Royalty Judges concerning determination of royalty fee controversies and distribution of royalty fees for provisions relating to duties of Librarian of Congress relating to such determination and distribution.
 
-Subsec. (c). Pub. L. 108–447, § 103(5), amended heading and text of subsec. (c) generally. Prior to amendment, text related to adjustment, determination, arbitration, and reduction of royalty fees.
+Subsec. (c). Pub. L. 108–447, § 103(5), amended heading and text of subsec. (c) generally. Prior to amendment, text related to adjustment, determination, arbitration, and reduction of royalty fees.
 
-Pub. L. 108–419, § 5(h), which directed amendment of subsec. (c) by substituting “Copyright Royalty Judges” for “Librarian of Congress” in par. (2)(B), “Copyright Royalty Judges shall prescribe as provided in section 803(b)(6)” for “Register of Copyrights shall prescribe” in par. (2)(C), “proceedings” for “arbitration proceedings” and for “arbitration proceeding” in par. (3)(A), “Copyright Royalty Judges” for “copyright arbitration royalty panel appointed under chapter 8” and “Copyright Royalty Judges shall base their determination” for “panel shall base its decision” in par. (3)(B), “determination under chapter 8” for “decision of arbitration panel or order of librarian” in heading of par. (3)(C), and “(i) is made by the Copyright Royalty Judges pursuant to this paragraph and becomes final, or” and “(ii) is made by the court on appeal under section 803(d)(3),” for cls. (i) and (ii), respectively, of par. (3)(C), was deemed never to have been enacted by Pub L. 109–303, § 4(g). See Removal of Inconsistent Provisions note below.
+Pub. L. 108–419, § 5(h), which directed amendment of subsec. (c) by substituting “Copyright Royalty Judges” for “Librarian of Congress” in par. (2)(B), “Copyright Royalty Judges shall prescribe as provided in section 803(b)(6)” for “Register of Copyrights shall prescribe” in par. (2)(C), “proceedings” for “arbitration proceedings” and for “arbitration proceeding” in par. (3)(A), “Copyright Royalty Judges” for “copyright arbitration royalty panel appointed under chapter 8” and “Copyright Royalty Judges shall base their determination” for “panel shall base its decision” in par. (3)(B), “determination under chapter 8” for “decision of arbitration panel or order of librarian” in heading of par. (3)(C), and “(i) is made by the Copyright Royalty Judges pursuant to this paragraph and becomes final, or” and “(ii) is made by the court on appeal under section 803(d)(3),” for cls. (i) and (ii), respectively, of par. (3)(C), was deemed never to have been enacted by Pub L. 109–303, § 4(g). See Removal of Inconsistent Provisions note below.
 
-Subsec. (d)(1). Pub. L. 108–447, § 107(a)(3), struck out “for private home viewing” after “individual subscribers” and inserted “in accordance with the provisions of this section” before the period at end.
+Subsec. (d)(1). Pub. L. 108–447, § 107(a)(3), struck out “for private home viewing” after “individual subscribers” and inserted “in accordance with the provisions of this section” before the period at end.
 
-Subsec. (d)(2)(A). Pub. L. 108–447, § 105(1), substituted “a television station licensed by the Federal Communications Commission” for “a television broadcast station”.
+Subsec. (d)(2)(A). Pub. L. 108–447, § 105(1), substituted “a television station licensed by the Federal Communications Commission” for “a television broadcast station”.
 
-Subsec. (d)(6). Pub. L. 108–447, § 107(a)(4), inserted “pursuant to this section” before period at end.
+Subsec. (d)(6). Pub. L. 108–447, § 107(a)(4), inserted “pursuant to this section” before period at end.
 
-Subsec. (d)(8). Pub. L. 108–447, § 107(a)(5), substituted “or entity that” for “who”, struck out “for private home viewing” after “transmission service”, and inserted “in accordance with the provisions of this section” before period at end.
+Subsec. (d)(8). Pub. L. 108–447, § 107(a)(5), substituted “or entity that” for “who”, struck out “for private home viewing” after “transmission service”, and inserted “in accordance with the provisions of this section” before period at end.
 
-Subsec. (d)(9). Pub. L. 108–447, § 105(2), amended heading and text of par. (9) generally. Prior to amendment, text read as follows: “The term ‘superstation’—
+Subsec. (d)(9). Pub. L. 108–447, § 105(2), amended heading and text of par. (9) generally. Prior to amendment, text read as follows: “The term ‘superstation’—
 
 “(A) means a television broadcast station, other than a network station, licensed by the Federal Communications Commission that is secondarily transmitted by a satellite carrier; and
 
 “(B) except for purposes of computing the royalty fee, includes the Public Broadcasting Service satellite feed.”
 
-Subsec. (d)(10)(B). Pub. L. 108–447, § 105(3)(A), substituted “that meets the standards of subsection (a)(14) whether or not the waiver was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004” for “granted under regulations established under section 339(c)(2) of the Communications Act of 1934”.
+Subsec. (d)(10)(B). Pub. L. 108–447, § 105(3)(A), substituted “that meets the standards of subsection (a)(14) whether or not the waiver was granted before the date of the enactment of the Satellite Home Viewer Extension and Reauthorization Act of 2004” for “granted under regulations established under section 339(c)(2) of the Communications Act of 1934”.
 
-Subsec. (d)(10)(D). Pub. L. 108–447, § 105(3)(B), substituted “(a)(12)” for “(a)(11)”.
+Subsec. (d)(10)(D). Pub. L. 108–447, § 105(3)(B), substituted “(a)(12)” for “(a)(11)”.
 
-Subsec. (d)(11) to (13). Pub. L. 108–447, § 105(4), added pars. (11) to (13) and struck out former pars. (11) and (12) which read as follows:
+Subsec. (d)(11) to (13). Pub. L. 108–447, § 105(4), added pars. (11) to (13) and struck out former pars. (11) and (12) which read as follows:
 
 “(11) Local market.—The term ‘local market’ has the meaning given such term under section 122(j).
 
 “(12) Public broadcasting service satellite feed.—The term ‘Public Broadcasting Service satellite feed’ means the national satellite feed distributed and designated for purposes of this section by the Public Broadcasting Service consisting of educational and informational programming intended for private home viewing, to which the Public Broadcasting Service holds national terrestrial broadcast rights.”
 
-Subsec. (e). Pub. L. 108–447, § 101(b), substituted “December 31, 2009” for “December 31, 2004”.
+Subsec. (e). Pub. L. 108–447, § 101(b), substituted “December 31, 2009” for “December 31, 2004”.
 
-Subsec. (f). Pub. L. 108–447, § 108, added subsec. (f).
+Subsec. (f). Pub. L. 108–447, § 108, added subsec. (f).
 
-2002—Subsec. (a)(1). Pub. L. 107–273, § 13209(3)(B), amended Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(2)(A)]. See 1999 Amendment note below.
+2002—Subsec. (a)(1). Pub. L. 107–273, § 13209(3)(B), amended Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(2)(A)]. See 1999 Amendment note below.
 
-Pub. L. 107–273, § 13209(3)(A), amended Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(a)]. See 1999 Amendment note below.
+Pub. L. 107–273, § 13209(3)(A), amended Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(a)]. See 1999 Amendment note below.
 
-Subsec. (a)(2)(A). Pub. L. 107–273, § 13209(1)(A), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title I, § 1007(2)]. See 1999 Amendment note below.
+Subsec. (a)(2)(A). Pub. L. 107–273, § 13209(1)(A), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title I, § 1007(2)]. See 1999 Amendment note below.
 
-Subsec. (a)(6). Pub. L. 107–273, § 13210(1), substituted “of a performance” for “of performance”.
+Subsec. (a)(6). Pub. L. 107–273, § 13210(1), substituted “of a performance” for “of performance”.
 
-Subsec. (a)(12). Pub. L. 107–273, § 13209(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title I, § 1007(3)]. See 1999 Amendment note below.
+Subsec. (a)(12). Pub. L. 107–273, § 13209(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title I, § 1007(3)]. See 1999 Amendment note below.
 
-Subsec. (b)(1)(A). Pub. L. 107–273, § 13210(8), substituted “retransmitted” for “transmitted” and “retransmissions” for “transmissions”.
+Subsec. (b)(1)(A). Pub. L. 107–273, § 13210(8), substituted “retransmitted” for “transmitted” and “retransmissions” for “transmissions”.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 107–273, § 13209(2), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(b)]. See 1999 Amendment note below.
+Subsec. (b)(1)(B)(ii). Pub. L. 107–273, § 13209(2), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(b)]. See 1999 Amendment note below.
 
-1999—Subsec. (a)(1). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(2)(A)], as amended by Pub. L. 107–273, § 13209(3)(B), substituted “performance or display of a work embodied in a primary transmission made by a superstation or by the Public Broadcasting Service satellite feed” for “primary transmission made by a superstation and embodying a performance or display of a work”.
+1999—Subsec. (a)(1). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(2)(A)], as amended by Pub. L. 107–273, § 13209(3)(B), substituted “performance or display of a work embodied in a primary transmission made by a superstation or by the Public Broadcasting Service satellite feed” for “primary transmission made by a superstation and embodying a performance or display of a work”.
 
-Pub. L. 106–113, § 1000(a)(9) [title I, § 1007(1)], inserted “with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals,” after “satellite carrier to the public for private home viewing,”.
+Pub. L. 106–113, § 1000(a)(9) [title I, § 1007(1)], inserted “with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals,” after “satellite carrier to the public for private home viewing,”.
 
-Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(a)], as amended by Pub. L. 107–273, § 13209(3)(A), in heading substituted “Superstations and pbs satellite feed” for “Superstations” and in text inserted “In the case of the Public Broadcasting Service satellite feed, the statutory license shall be effective until January 1, 2002.” at end. Pub. L. 107–273, § 13209(3)(A)(ii), which repealed Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(a)(2)], was executed by striking out “or by the Public Broadcasting Service satellite feed” which had been inserted by section 1006(a)(2) after “of a primary transmission made by a superstation”, to reflect the probable intent of Congress.
+Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(a)], as amended by Pub. L. 107–273, § 13209(3)(A), in heading substituted “Superstations and pbs satellite feed” for “Superstations” and in text inserted “In the case of the Public Broadcasting Service satellite feed, the statutory license shall be effective until January 1, 2002.” at end. Pub. L. 107–273, § 13209(3)(A)(ii), which repealed Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(a)(2)], was executed by striking out “or by the Public Broadcasting Service satellite feed” which had been inserted by section 1006(a)(2) after “of a primary transmission made by a superstation”, to reflect the probable intent of Congress.
 
-Subsec. (a)(2)(A). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(2)(A)], substituted “a performance or display of a work embodied in a primary transmission made by a network station” for “programming contained in a primary transmission made by a network station and embodying a performance or display of a work”.
+Subsec. (a)(2)(A). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(2)(A)], substituted “a performance or display of a work embodied in a primary transmission made by a network station” for “programming contained in a primary transmission made by a network station and embodying a performance or display of a work”.
 
-Pub. L. 106–113, § 1000(a)(9) [title I, § 1007(2)], as amended by Pub. L. 107–273, § 13209(1)(A), inserted “with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals,” after “satellite carrier to the public for private home viewing,”.
+Pub. L. 106–113, § 1000(a)(9) [title I, § 1007(2)], as amended by Pub. L. 107–273, § 13209(1)(A), inserted “with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals,” after “satellite carrier to the public for private home viewing,”.
 
-Subsec. (a)(2)(B). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(a)(2)], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The statutory license provided for in subparagraph (A) shall be limited to secondary transmissions to persons who reside in unserved households.”
+Subsec. (a)(2)(B). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(a)(2)], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The statutory license provided for in subparagraph (A) shall be limited to secondary transmissions to persons who reside in unserved households.”
 
-Subsec. (a)(2)(C). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(c)], struck out “currently” after “all subscribers to which the satellite carrier” in first sentence.
+Subsec. (a)(2)(C). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(c)], struck out “currently” after “all subscribers to which the satellite carrier” in first sentence.
 
-Subsec. (a)(4). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(2)(C)], inserted “a performance or display of a work embodied in” after “by a satellite carrier of” and struck out “and embodying a performance or display of a work” after “network station”.
+Subsec. (a)(4). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(2)(C)], inserted “a performance or display of a work embodied in” after “by a satellite carrier of” and struck out “and embodying a performance or display of a work” after “network station”.
 
-Subsec. (a)(5)(E). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(b)], added subpar. (E).
+Subsec. (a)(5)(E). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(b)], added subpar. (E).
 
-Subsec. (a)(6). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(2)(D)], inserted “performance or display of a work embodied in” after “by a satellite carrier of” and struck out “and embodying a performance or display of a work” after “network station”.
+Subsec. (a)(6). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(2)(D)], inserted “performance or display of a work embodied in” after “by a satellite carrier of” and struck out “and embodying a performance or display of a work” after “network station”.
 
 Subsec. (a)(8)(C)(ii). Pub. L. 106–44 substituted “within the network station’s” for “within the network’s station” in first sentence.
 
-Subsec. (a)(11). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(d)], added par. (11).
+Subsec. (a)(11). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(d)], added par. (11).
 
-Subsec. (a)(12). Pub. L. 106–113, § 1000(a)(9) [title I, § 1007(3)], as amended by Pub. L. 107–273, § 13209(1)(B), added par. (12).
+Subsec. (a)(12). Pub. L. 106–113, § 1000(a)(9) [title I, § 1007(3)], as amended by Pub. L. 107–273, § 13209(1)(B), added par. (12).
 
-Subsec. (b)(1)(B)(ii). Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(b)], as amended by Pub. L. 107–273, § 13209(2), inserted “or the Public Broadcasting Service satellite feed” after “network station”.
+Subsec. (b)(1)(B)(ii). Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(b)], as amended by Pub. L. 107–273, § 13209(2), inserted “or the Public Broadcasting Service satellite feed” after “network station”.
 
-Subsec. (c)(4), (5). Pub. L. 106–113, § 1000(a)(9) [title I, § 1004], added pars. (4) and (5).
+Subsec. (c)(4), (5). Pub. L. 106–113, § 1000(a)(9) [title I, § 1004], added pars. (4) and (5).
 
-Subsec. (d)(2). Pub. L. 106–113, § 1000(a)(9) [title I, § 1008(b)], substituted a semicolon for the period at end of subpar. (B) and inserted concluding provisions.
+Subsec. (d)(2). Pub. L. 106–113, § 1000(a)(9) [title I, § 1008(b)], substituted a semicolon for the period at end of subpar. (B) and inserted concluding provisions.
 
-Subsec. (d)(9). Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(c)(1)], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘superstation’ means a television broadcast station, other than a network station, licensed by the Federal Communications Commission that is secondarily transmitted by a satellite carrier.”
+Subsec. (d)(9). Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(c)(1)], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘superstation’ means a television broadcast station, other than a network station, licensed by the Federal Communications Commission that is secondarily transmitted by a satellite carrier.”
 
-Subsec. (d)(10). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(a)(1)], added par. (10) and struck out heading and text of former par. (10). Text read as follows: “The term ‘unserved household’, with respect to a particular television network, means a household that—
+Subsec. (d)(10). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(a)(1)], added par. (10) and struck out heading and text of former par. (10). Text read as follows: “The term ‘unserved household’, with respect to a particular television network, means a household that—
 
 “(A) cannot receive, through the use of a conventional outdoor rooftop receiving antenna, an over-the-air signal of grade B intensity (as defined by the Federal Communications Commission) of a primary network station affiliated with that network, and
 
 “(B) has not, within 90 days before the date on which that household subscribes, either initially or on renewal, to receive secondary transmissions by a satellite carrier of a network station affiliated with that network, subscribed to a cable system that provides the signal of a primary network station affiliated with that network.”
 
-Subsec. (d)(11). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(e)], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘local market’ means the area encompassed within a network station’s predicted Grade B contour as that contour is defined by the Federal Communications Commission.”
+Subsec. (d)(11). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(e)], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘local market’ means the area encompassed within a network station’s predicted Grade B contour as that contour is defined by the Federal Communications Commission.”
 
-Subsec. (d)(12). Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(c)(2)], added par. (12).
+Subsec. (d)(12). Pub. L. 106–113, § 1000(a)(9) [title I, § 1006(c)(2)], added par. (12).
 
-Subsec. (e). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(c)], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “No provision of section 111 of this title or any other law (other than this section) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carrier for private home viewing of programming contained in a primary transmission made by a superstation or a network station may be made without obtaining the consent of the copyright owner.”
+Subsec. (e). Pub. L. 106–113, § 1000(a)(9) [title I, § 1005(c)], amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “No provision of section 111 of this title or any other law (other than this section) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carrier for private home viewing of programming contained in a primary transmission made by a superstation or a network station may be made without obtaining the consent of the copyright owner.”
 
-1997—Subsec. (a)(5)(C). Pub. L. 105–80, § 1(3), amended Pub. L. 103–369, § 2(5)(A). See 1994 Amendment note below.
+1997—Subsec. (a)(5)(C). Pub. L. 105–80, § 1(3), amended Pub. L. 103–369, § 2(5)(A). See 1994 Amendment note below.
 
-Subsec. (b)(1)(B)(i). Pub. L. 105–80, § 1(1), amended Pub. L. 103–369, § 2(3)(A). See 1994 Amendment note below.
+Subsec. (b)(1)(B)(i). Pub. L. 105–80, § 1(1), amended Pub. L. 103–369, § 2(3)(A). See 1994 Amendment note below.
 
-Subsec. (c)(1). Pub. L. 105–80, § 12(a)(8), which directed substitution of “unless” for “until unless” before “a royalty fee”, could not be executed because “until” did not appear subsequent to amendment by Pub. L. 103–369, § 2(4)(A), as amended by Pub. L. 105–80, § 1(2). See 1994 Amendment note below.
+Subsec. (c)(1). Pub. L. 105–80, § 12(a)(8), which directed substitution of “unless” for “until unless” before “a royalty fee”, could not be executed because “until” did not appear subsequent to amendment by Pub. L. 103–369, § 2(4)(A), as amended by Pub. L. 105–80, § 1(2). See 1994 Amendment note below.
 
-Pub. L. 105–80, § 1(2), amended Pub. L. 103–369, § 2(4)(A). See 1994 Amendment note below.
+Pub. L. 105–80, § 1(2), amended Pub. L. 103–369, § 2(4)(A). See 1994 Amendment note below.
 
-Subsec. (c)(2)(A), (D), (3)(A)–(C). Pub. L. 105–80, § 1(2), amended Pub. L. 103–369, § 2(4). See 1994 Amendment notes below.
+Subsec. (c)(2)(A), (D), (3)(A)–(C). Pub. L. 105–80, § 1(2), amended Pub. L. 103–369, § 2(4). See 1994 Amendment notes below.
 
 1995—Subsec. (a)(1), (2)(A). Pub. L. 104–39 inserted “and section 114(d)” after “of this subsection”.
 
-1994—Subsec. (a)(2)(C). Pub. L. 103–369, § 2(1), struck out “90 days after the effective date of the Satellite Home Viewer Act of 1988, or” before “90 days after commencing”, “whichever is later,” before “submit to the network that owns”, and “, on or after the effective date of the Satellite Home Viewer Act of 1988,” after “Register of Copyrights”, and inserted “name and” after “identifying (by” in two places.
+1994—Subsec. (a)(2)(C). Pub. L. 103–369, § 2(1), struck out “90 days after the effective date of the Satellite Home Viewer Act of 1988, or” before “90 days after commencing”, “whichever is later,” before “submit to the network that owns”, and “, on or after the effective date of the Satellite Home Viewer Act of 1988,” after “Register of Copyrights”, and inserted “name and” after “identifying (by” in two places.
 
-Subsec. (a)(5)(C). Pub. L. 103–369, § 2(5)(A), as amended by Pub. L. 105–80, § 1(3), substituted “November 16, 1988” for “the date of the enactment of the Satellite Home Viewer Act of 1988”.
+Subsec. (a)(5)(C). Pub. L. 103–369, § 2(5)(A), as amended by Pub. L. 105–80, § 1(3), substituted “November 16, 1988” for “the date of the enactment of the Satellite Home Viewer Act of 1988”.
 
-Subsec. (a)(5)(D). Pub. L. 103–369, § 2(2), added subpar. (D).
+Subsec. (a)(5)(D). Pub. L. 103–369, § 2(2), added subpar. (D).
 
-Subsec. (a)(8) to (10). Pub. L. 103–369, § 2(5)(B), added pars. (8) to (10).
+Subsec. (a)(8) to (10). Pub. L. 103–369, § 2(5)(B), added pars. (8) to (10).
 
-Subsec. (b)(1)(B)(i). Pub. L. 103–369, § 2(3)(A), as amended by Pub. L. 105–80, § 1(1), substituted “17.5 cents per subscriber in the case of superstations that as retransmitted by the satellite carrier include any program which, if delivered by any cable system in the United States, would be subject to the syndicated exclusivity rules of the Federal Communications Commission, and 14 cents per subscriber in the case of superstations that are syndex-proof as defined in section 258.2 of title 37, Code of Federal Regulations” for “12 cents”.
+Subsec. (b)(1)(B)(i). Pub. L. 103–369, § 2(3)(A), as amended by Pub. L. 105–80, § 1(1), substituted “17.5 cents per subscriber in the case of superstations that as retransmitted by the satellite carrier include any program which, if delivered by any cable system in the United States, would be subject to the syndicated exclusivity rules of the Federal Communications Commission, and 14 cents per subscriber in the case of superstations that are syndex-proof as defined in section 258.2 of title 37, Code of Federal Regulations” for “12 cents”.
 
-Subsec. (b)(1)(B)(ii). Pub. L. 103–369, § 2(3)(B), substituted “6 cents” for “3 cents”.
+Subsec. (b)(1)(B)(ii). Pub. L. 103–369, § 2(3)(B), substituted “6 cents” for “3 cents”.
 
-Subsec. (c)(1). Pub. L. 103–369, § 2(4)(A), as amended by Pub. L. 105–80, § 1(2), struck out “until December 31, 1992,” before “unless a royalty fee”, substituted “paragraph (2) or (3) of this subsection” for “paragraph (2), (3), or (4) of this subsection”, and struck out at end “After that date, the fee shall be determined either in accordance with the voluntary negotiation procedure specified in paragraph (2) or in accordance with the compulsory arbitration procedure specified in paragraphs (3) and (4).”
+Subsec. (c)(1). Pub. L. 103–369, § 2(4)(A), as amended by Pub. L. 105–80, § 1(2), struck out “until December 31, 1992,” before “unless a royalty fee”, substituted “paragraph (2) or (3) of this subsection” for “paragraph (2), (3), or (4) of this subsection”, and struck out at end “After that date, the fee shall be determined either in accordance with the voluntary negotiation procedure specified in paragraph (2) or in accordance with the compulsory arbitration procedure specified in paragraphs (3) and (4).”
 
-Subsec. (c)(2)(A). Pub. L. 103–369, § 2(4)(B)(i), as amended by Pub. L. 105–80, § 1(2), substituted “July 1, 1996” for “July 1, 1991”.
+Subsec. (c)(2)(A). Pub. L. 103–369, § 2(4)(B)(i), as amended by Pub. L. 105–80, § 1(2), substituted “July 1, 1996” for “July 1, 1991”.
 
-Subsec. (c)(2)(D). Pub. L. 103–369, § 2(4)(B)(ii), as amended by Pub. L. 105–80, § 1(2), substituted “December 31, 1999, or in accordance with the terms of the agreement, whichever is later” for “December 31, 1994”.
+Subsec. (c)(2)(D). Pub. L. 103–369, § 2(4)(B)(ii), as amended by Pub. L. 105–80, § 1(2), substituted “December 31, 1999, or in accordance with the terms of the agreement, whichever is later” for “December 31, 1994”.
 
-Subsec. (c)(3)(A). Pub. L. 103–369, § 2(4)(C)(i), as amended by Pub. L. 105–80, § 1(2), substituted “January 1, 1997” for “December 31, 1991”.
+Subsec. (c)(3)(A). Pub. L. 103–369, § 2(4)(C)(i), as amended by Pub. L. 105–80, § 1(2), substituted “January 1, 1997” for “December 31, 1991”.
 
-Subsec. (c)(3)(B). Pub. L. 103–369, § 2(4)(C)(ii), as amended by Pub. L. 105–80, § 1(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+Subsec. (c)(3)(B). Pub. L. 103–369, § 2(4)(C)(ii), as amended by Pub. L. 105–80, § 1(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
 “(B) Factors for determining royalty fees.—In determining royalty fees under this paragraph, the copyright arbitration royalty panel appointed under chapter 8 shall consider the approximate average cost to a cable system for the right to secondarily transmit to the public a primary transmission made by a broadcast station, the fee established under any voluntary agreement filed with the Copyright Office in accordance with paragraph (2), and the last fee proposed by the parties, before proceedings under this paragraph, for the secondary transmission of superstations or network stations for private home viewing. The fee shall also be calculated to achieve the following objectives:
 
@@ -5885,37 +5885,37 @@ Subsec. (c)(3)(B). Pub. L. 103–369, § 2(4)(C)(ii), as amended by Pub. L. 10
 
 “(iv) To minimize any disruptive impact on the structure of the industries involved and on generally prevailing industry practices.”
 
-Subsec. (c)(3)(C). Pub. L. 103–369, § 2(4)(C)(iii), as amended by Pub. L. 105–80, § 1(2), inserted before period at end “or July 1, 1997, whichever is later”.
+Subsec. (c)(3)(C). Pub. L. 103–369, § 2(4)(C)(iii), as amended by Pub. L. 105–80, § 1(2), inserted before period at end “or July 1, 1997, whichever is later”.
 
-Subsec. (d)(2). Pub. L. 103–369, § 2(6)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+Subsec. (d)(2). Pub. L. 103–369, § 2(6)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(2) Network station.—The term ‘network station’ has the meaning given that term in section 111(f) of this title, and includes any translator station or terrestrial satellite station that rebroadcasts all or substantially all of the programming broadcast by a network station.”
 
-Subsec. (d)(6). Pub. L. 103–369, § 2(6)(B), inserted “and operates in the Fixed-Satellite Service under part 25 of title 47 of the Code of Federal Regulations or the Direct Broadcast Satellite Service under part 100 of title 47 of the Code of Federal Regulations” after “Federal Communications Commission”.
+Subsec. (d)(6). Pub. L. 103–369, § 2(6)(B), inserted “and operates in the Fixed-Satellite Service under part 25 of title 47 of the Code of Federal Regulations or the Direct Broadcast Satellite Service under part 100 of title 47 of the Code of Federal Regulations” after “Federal Communications Commission”.
 
-Subsec. (d)(11). Pub. L. 103–369, § 2(6)(C), added par. (11).
+Subsec. (d)(11). Pub. L. 103–369, § 2(6)(C), added par. (11).
 
-1993—Subsec. (b)(1). Pub. L. 103–198, § 5(1)(A), struck out “, after consultation with the Copyright Royalty Tribunal,” in introductory provisions after “Register shall” and in subpar. (A) after “Copyrights may”.
+1993—Subsec. (b)(1). Pub. L. 103–198, § 5(1)(A), struck out “, after consultation with the Copyright Royalty Tribunal,” in introductory provisions after “Register shall” and in subpar. (A) after “Copyrights may”.
 
-Subsec. (b)(2), (3). Pub. L. 103–198, § 5(1)(B), (C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
+Subsec. (b)(2), (3). Pub. L. 103–198, § 5(1)(B), (C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
-Subsec. (b)(4). Pub. L. 103–198, § 5(1)(D), in subpar. (A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” after “claim with the” and for “Tribunal” after “requirements that the”, in subpar. (B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “shall determine” and for “Tribunal” wherever else appearing, and substituted “convene a copyright arbitration royalty panel” for “conduct a proceeding”, and in subpar. (C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
+Subsec. (b)(4). Pub. L. 103–198, § 5(1)(D), in subpar. (A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” after “claim with the” and for “Tribunal” after “requirements that the”, in subpar. (B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “shall determine” and for “Tribunal” wherever else appearing, and substituted “convene a copyright arbitration royalty panel” for “conduct a proceeding”, and in subpar. (C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal”.
 
-Subsec. (c). Pub. L. 103–198, § 5(2)(A), substituted “Adjustment” for “Determination” in heading.
+Subsec. (c). Pub. L. 103–198, § 5(2)(A), substituted “Adjustment” for “Determination” in heading.
 
-Subsec. (c)(2). Pub. L. 103–198, § 5(2)(B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in subpars. (A) and (B).
+Subsec. (c)(2). Pub. L. 103–198, § 5(2)(B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in subpars. (A) and (B).
 
-Subsec. (c)(3)(A). Pub. L. 103–198, § 5(2)(C)(i), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” and substituted last sentence for former last sentence which read as follows: “Such notice shall include the names and qualifications of potential arbitrators chosen by the Tribunal from a list of available arbitrators obtained from the American Arbitration Association or such similar organization as the Tribunal shall select.”
+Subsec. (c)(3)(A). Pub. L. 103–198, § 5(2)(C)(i), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” and substituted last sentence for former last sentence which read as follows: “Such notice shall include the names and qualifications of potential arbitrators chosen by the Tribunal from a list of available arbitrators obtained from the American Arbitration Association or such similar organization as the Tribunal shall select.”
 
-Subsec. (c)(3)(B). Pub. L. 103–198, § 5(2)(C)(ii), (iii), redesignated subpar. (D) as (B), substituted “copyright arbitration royalty panel appointed under chapter 8” for “Arbitration Panel” in introductory provisions, and struck out former subpar. (B) which provided for the selection of an Arbitration Panel.
+Subsec. (c)(3)(B). Pub. L. 103–198, § 5(2)(C)(ii), (iii), redesignated subpar. (D) as (B), substituted “copyright arbitration royalty panel appointed under chapter 8” for “Arbitration Panel” in introductory provisions, and struck out former subpar. (B) which provided for the selection of an Arbitration Panel.
 
-Subsec. (c)(3)(C). Pub. L. 103–198, § 5(2)(C)(ii), (v), redesignated subpar. (G) as (C), amended subpar. generally, substituting provisions relating to period during which decision of arbitration panel or order of Librarian of Congress becomes effective for provisions relating to period during which decision of Arbitration Panel or order of Copyright Royalty Tribunal became effective, and struck out former subpar. (C) which related to proceedings in arbitration.
+Subsec. (c)(3)(C). Pub. L. 103–198, § 5(2)(C)(ii), (v), redesignated subpar. (G) as (C), amended subpar. generally, substituting provisions relating to period during which decision of arbitration panel or order of Librarian of Congress becomes effective for provisions relating to period during which decision of Arbitration Panel or order of Copyright Royalty Tribunal became effective, and struck out former subpar. (C) which related to proceedings in arbitration.
 
-Subsec. (c)(3)(D). Pub. L. 103–198, § 5(2)(C)(vi), redesignated subpar. (H) as (D) and substituted “referred to in subparagraph (C)” for “adopted or ordered under subparagraph (F)”. Former subpar. (D) redesignated (B).
+Subsec. (c)(3)(D). Pub. L. 103–198, § 5(2)(C)(vi), redesignated subpar. (H) as (D) and substituted “referred to in subparagraph (C)” for “adopted or ordered under subparagraph (F)”. Former subpar. (D) redesignated (B).
 
-Subsec. (c)(3)(E) to (H). Pub. L. 103–198, § 5(2)(C)(iv)–(vi)(I), struck out subpar. (E) which required the Arbitration Panel to report to the Copyright Royalty Tribunal not later than 60 days after publication of notice initiating an arbitration proceeding, struck out subpar. (F) which required action by the Tribunal within 60 days after receiving the report by the Panel, and redesignated subpars. (G) and (H) as (C) and (D), respectively.
+Subsec. (c)(3)(E) to (H). Pub. L. 103–198, § 5(2)(C)(iv)–(vi)(I), struck out subpar. (E) which required the Arbitration Panel to report to the Copyright Royalty Tribunal not later than 60 days after publication of notice initiating an arbitration proceeding, struck out subpar. (F) which required action by the Tribunal within 60 days after receiving the report by the Panel, and redesignated subpars. (G) and (H) as (C) and (D), respectively.
 
-Subsec. (c)(4). Pub. L. 103–198, § 5(2)(D), struck out par. (4) which established procedures for judicial review of decisions of the Copyright Royalty Tribunal.
+Subsec. (c)(4). Pub. L. 103–198, § 5(2)(D), struck out par. (4) which established procedures for judicial review of decisions of the Copyright Royalty Tribunal.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5933,11 +5933,11 @@ Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject t
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title I, §§ 1004, 1006] of Pub. L. 106–113 effective July 1, 1999, and amendment by section 1000(a)(9) [title I, §§ 1005, 1007, 1008(b), 1011(b)(2), (c)] of Pub. L. 106–113 effective Nov. 29, 1999, see section 1000(a)(9) [title I, § 1012] of Pub. L. 106–113, set out as a note under section 101 of this title.
+Amendment by section 1000(a)(9) [title I, §§ 1004, 1006] of Pub. L. 106–113 effective July 1, 1999, and amendment by section 1000(a)(9) [title I, §§ 1005, 1007, 1008(b), 1011(b)(2), (c)] of Pub. L. 106–113 effective Nov. 29, 1999, see section 1000(a)(9) [title I, § 1012] of Pub. L. 106–113, set out as a note under section 101 of this title.
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–80, § 13, Nov. 13, 1997, 111 Stat. 1536, provided that:
+Pub. L. 105–80, § 13, Nov. 13, 1997, 111 Stat. 1536, provided that:
 
 > **“(a) In General.—** Except as provided in subsections (b) and (c), the amendments made by this Act [amending this section, sections 101, 104A, 108 to 110, 114 to 116, 303, 304, 405, 407, 411, 504, 509, 601, 708, 801 to 803, 909, 910, 1006, and 1007 of this title, and section 2319 of Title 18, Crimes and Criminal Procedure, and amending provisions set out as a note under section 914 of this title] shall take effect on the date of the enactment of this Act [Nov. 13, 1997].
 
@@ -5951,7 +5951,7 @@ Amendment by Pub. L. 104–39 effective 3 months after Nov. 1, 1995, see section
 
 **Effective and Termination Dates of 1994 Amendment**
 
-Pub. L. 103–369, § 6, Oct. 18, 1994, 108 Stat. 3481, provided that:
+Pub. L. 103–369, § 6, Oct. 18, 1994, 108 Stat. 3481, provided that:
 
 > **“(a) In General.—** Except as provided in subsections (b) and (d), this Act [amending this section and section 111 of this title, enacting provisions set out as notes under this section and section 101 of this title, and repealing provisions set out as a note under this section] and the amendments made by this Act take effect on the date of the enactment of this Act [Oct. 18, 1994].
 
@@ -5963,21 +5963,21 @@ Pub. L. 103–369, § 6, Oct. 18, 1994, 108 Stat. 3481, provided that:
 
 **Effective Date**
 
-Pub. L. 100–667, title II, § 206, Nov. 16, 1988, 102 Stat. 3960, provided that: “This title and the amendments made by this title [enacting this section and sections 612 and 613 of Title 47, Telecommunications, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notes under this section and section 101 of this title] take effect on January 1, 1989, except that the authority of the Register of Copyrights to issue regulations pursuant to section 119(b)(1) of title 17, United States Code, as added by section 202 of this Act, takes effect on the date of the enactment of this Act [Nov. 16, 1988].”
+Pub. L. 100–667, title II, § 206, Nov. 16, 1988, 102 Stat. 3960, provided that: “This title and the amendments made by this title [enacting this section and sections 612 and 613 of Title 47, Telecommunications, amending sections 111, 501, 801, and 804 of this title and section 605 of Title 47, and enacting provisions set out as notes under this section and section 101 of this title] take effect on January 1, 1989, except that the authority of the Register of Copyrights to issue regulations pursuant to section 119(b)(1) of title 17, United States Code, as added by section 202 of this Act, takes effect on the date of the enactment of this Act [Nov. 16, 1988].”
 
-Pub. L. 100–667, title II, § 207, Nov. 16, 1988, 102 Stat. 3960, provided that this title and the amendments made by this title (other than the amendments made by section 205 [amending section 605 of Title 47]) cease to be effective on Dec. 31, 1994, prior to repeal by Pub. L. 103–369, § 4(b), Oct. 18, 1994, 108 Stat. 3481.
+Pub. L. 100–667, title II, § 207, Nov. 16, 1988, 102 Stat. 3960, provided that this title and the amendments made by this title (other than the amendments made by section 205 [amending section 605 of Title 47]) cease to be effective on Dec. 31, 1994, prior to repeal by Pub. L. 103–369, § 4(b), Oct. 18, 1994, 108 Stat. 3481.
 
 **Termination of Section**
 
-Pub. L. 111–175, title I, § 107(a), May 27, 2010, 124 Stat. 1245, which provided that this section would cease to be effective on Dec. 31, 2014, was repealed by Pub. L. 113–200, title II, § 202(b), Dec. 4, 2014, 128 Stat. 2066.
+Pub. L. 111–175, title I, § 107(a), May 27, 2010, 124 Stat. 1245, which provided that this section would cease to be effective on Dec. 31, 2014, was repealed by Pub. L. 113–200, title II, § 202(b), Dec. 4, 2014, 128 Stat. 2066.
 
-Pub. L. 111–118, div. B, § 1003(a)(2)(A), Dec. 19, 2009, 123 Stat. 3469, as amended by Pub. L. 111–144, § 10(a)(2), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, § 2(a)(2), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, § 9(a)(2), Apr. 15, 2010, 124 Stat. 1119, which provided that this section would cease to be effective on May 31, 2010, was repealed by Pub. L. 111–175, title I, § 107(b), May 27, 2010, 124 Stat. 1245.
+Pub. L. 111–118, div. B, § 1003(a)(2)(A), Dec. 19, 2009, 123 Stat. 3469, as amended by Pub. L. 111–144, § 10(a)(2), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, § 2(a)(2), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, § 9(a)(2), Apr. 15, 2010, 124 Stat. 1119, which provided that this section would cease to be effective on May 31, 2010, was repealed by Pub. L. 111–175, title I, § 107(b), May 27, 2010, 124 Stat. 1245.
 
-Pub. L. 103–369, § 4(a), Oct. 18, 1994, 108 Stat. 3481, as amended by Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1003], Nov. 29, 1999, 113 Stat. 1536, 1501A–527; Pub. L. 108–447, div. J, title IX [title I, § 101(a)], Dec. 8, 2004, 118 Stat. 3394, which provided that this section would cease to be effective on Dec. 31, 2009, was repealed by Pub. L. 111–118, div. B, § 1003(a)(2)(B), Dec. 19, 2009, 123 Stat. 3469.
+Pub. L. 103–369, § 4(a), Oct. 18, 1994, 108 Stat. 3481, as amended by Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1003], Nov. 29, 1999, 113 Stat. 1536, 1501A–527; Pub. L. 108–447, div. J, title IX [title I, § 101(a)], Dec. 8, 2004, 118 Stat. 3394, which provided that this section would cease to be effective on Dec. 31, 2009, was repealed by Pub. L. 111–118, div. B, § 1003(a)(2)(B), Dec. 19, 2009, 123 Stat. 3469.
 
 **Previously Covered Subscribers Under the STELA Reauthorization Act of 2014**
 
-Pub. L. 116–94, div. P, title XI, § 1102(b), Dec. 20, 2019, 133 Stat. 3203, provided that:
+Pub. L. 116–94, div. P, title XI, § 1102(b), Dec. 20, 2019, 133 Stat. 3203, provided that:
 
 > **“(1) In general.—** A subscriber of a satellite carrier who receives the secondary transmission of a network station under the statutory license in section 119 of title 17, United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 20, 2019], and to whom subsection (a)(2)(B) of such section, as amended by subsection (a), does not apply, shall continue to be eligible to receive that secondary transmission from such carrier under such license, and at the royalty rate established for such license by the Copyright Royalty Board or voluntary agreement, as applicable, until the date that is the earlier of—
 
@@ -5989,23 +5989,23 @@ Pub. L. 116–94, div. P, title XI, § 1102(b), Dec. 20, 2019, 133 Stat. 3203,
 
 **Removal of Inconsistent Provisions**
 
-Pub. L. 109–303, § 4(g), Oct. 6, 2006, 120 Stat. 1483, provided that: “The amendments contained in subsection (h) of section 5 of the Copyright Royalty and Distribution Reform Act of 2004 [Pub. L. 108–419, amending this section] shall be deemed never to have been enacted.”
+Pub. L. 109–303, § 4(g), Oct. 6, 2006, 120 Stat. 1483, provided that: “The amendments contained in subsection (h) of section 5 of the Copyright Royalty and Distribution Reform Act of 2004 [Pub. L. 108–419, amending this section] shall be deemed never to have been enacted.”
 
 **Effect on Certain Proceedings**
 
-Pub. L. 108–447, div. J, title IX [title I, § 106], Dec. 8, 2004, 118 Stat. 3406, provided that: “Nothing in this title [see Short Title of 2004 Amendment note set out under section 101 of this title] shall modify any remedy imposed on a party that is required by the judgment of a court in any action that was brought before May 1, 2004, against that party for a violation of section 119 of title 17, United States Code.”
+Pub. L. 108–447, div. J, title IX [title I, § 106], Dec. 8, 2004, 118 Stat. 3406, provided that: “Nothing in this title [see Short Title of 2004 Amendment note set out under section 101 of this title] shall modify any remedy imposed on a party that is required by the judgment of a court in any action that was brought before May 1, 2004, against that party for a violation of section 119 of title 17, United States Code.”
 
 **Applicability of 1994 Amendment**
 
-Pub. L. 103–369, § 5, Oct. 14, 1994, 108 Stat. 3481, provided that: “The amendments made by this section apply only to section 119 of title 17, United States Code.”
+Pub. L. 103–369, § 5, Oct. 14, 1994, 108 Stat. 3481, provided that: “The amendments made by this section apply only to section 119 of title 17, United States Code.”
 
-## § 120. Scope of exclusive rights in architectural works
+## § 120. Scope of exclusive rights in architectural works
 
 **(a) Pictorial Representations Permitted.—** The copyright in an architectural work that has been constructed does not include the right to prevent the making, distributing, or public display of pictures, paintings, photographs, or other pictorial representations of the work, if the building in which the work is embodied is located in or ordinarily visible from a public place.
 
 **(b) Alterations to and Destruction of Buildings.—** Notwithstanding the provisions of section 106(2), the owners of a building embodying an architectural work may, without the consent of the author or copyright owner of the architectural work, make or authorize the making of alterations to such building, and destroy or authorize the destruction of such building.
 
-(Added Pub. L. 101–650, title VII, § 704(a), Dec. 1, 1990, 104 Stat. 5133.)
+(Added Pub. L. 101–650, title VII, § 704(a), Dec. 1, 1990, 104 Stat. 5133.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6013,7 +6013,7 @@ Pub. L. 103–369, § 5, Oct. 14, 1994, 108 Stat. 3481, provided that: “The 
 
 Section applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see section 706 of Pub. L. 101–650, set out as an Effective Date of 1990 Amendment note under section 101 of this title.
 
-## § 121. Limitations on exclusive rights: Reproduction for blind or other people with disabilities
+## § 121. Limitations on exclusive rights: Reproduction for blind or other people with disabilities
 
 **(a)** Notwithstanding the provisions of section 106, it is not an infringement of copyright for an authorized entity to reproduce or to distribute in the United States copies or phonorecords of a previously published literary work or of a previously published musical work that has been fixed in the form of text or notation if such copies or phonorecords are reproduced or distributed in accessible formats exclusively for use by eligible persons.
 
@@ -6053,7 +6053,7 @@ Section applicable to any architectural work created on or after Dec. 1, 1990, a
 
 **(4)** “print instructional materials” has the meaning given under section 674(e)(3)(C) of the Individuals with Disabilities Education Act.
 
-(Added Pub. L. 104–197, title III, § 316(a), Sept. 16, 1996, 110 Stat. 2416; amended Pub. L. 106–379, § 3(b), Oct. 27, 2000, 114 Stat. 1445; Pub. L. 107–273, div. C, title III, § 13210(3)(A), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–446, title III, § 306, Dec. 3, 2004, 118 Stat. 2807; Pub. L. 115–261, § 2(a)(1), Oct. 9, 2018, 132 Stat. 3667.)
+(Added Pub. L. 104–197, title III, § 316(a), Sept. 16, 1996, 110 Stat. 2416; amended Pub. L. 106–379, § 3(b), Oct. 27, 2000, 114 Stat. 1445; Pub. L. 107–273, div. C, title III, § 13210(3)(A), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–446, title III, § 306, Dec. 3, 2004, 118 Stat. 2807; Pub. L. 115–261, § 2(a)(1), Oct. 9, 2018, 132 Stat. 3667.)
 
 **Editorial Notes**
 
@@ -6063,27 +6063,27 @@ Sections 612, 613, and 674 of the Individuals with Disabilities Education Act, r
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–261, § 2(a)(1)(A), inserted “in the United States” after “distribute” and “or of a previously published musical work that has been fixed in the form of text or notation” after “literary work”, struck out “, nondramatic” after “previously published”, and substituted “accessible formats” for “specialized formats” and “eligible persons” for “blind or other persons with disabilities”.
+2018—Subsec. (a). Pub. L. 115–261, § 2(a)(1)(A), inserted “in the United States” after “distribute” and “or of a previously published musical work that has been fixed in the form of text or notation” after “literary work”, struck out “, nondramatic” after “previously published”, and substituted “accessible formats” for “specialized formats” and “eligible persons” for “blind or other persons with disabilities”.
 
-Subsec. (b)(1)(A). Pub. L. 115–261, § 2(a)(1)(B)(i), inserted “in the United States” after “distributed” and substituted “an accessible format” for “a specialized format” and “eligible persons” for “blind or other persons with disabilities”.
+Subsec. (b)(1)(A). Pub. L. 115–261, § 2(a)(1)(B)(i), inserted “in the United States” after “distributed” and substituted “an accessible format” for “a specialized format” and “eligible persons” for “blind or other persons with disabilities”.
 
-Subsec. (b)(1)(B). Pub. L. 115–261, § 2(a)(1)(B)(ii), substituted “an accessible format” for “a specialized format”.
+Subsec. (b)(1)(B). Pub. L. 115–261, § 2(a)(1)(B)(ii), substituted “an accessible format” for “a specialized format”.
 
-Subsec. (c)(3). Pub. L. 115–261, § 2(a)(1)(C), substituted “accessible formats” for “specialized formats”.
+Subsec. (c)(3). Pub. L. 115–261, § 2(a)(1)(C), substituted “accessible formats” for “specialized formats”.
 
-Subsec. (d). Pub. L. 115–261, § 2(a)(1)(D), added pars. (1) and (3), redesignated former pars. (1) and (3) as (2) and (4), respectively, substituted a period for “; and” at end of par. (4), and struck out former pars. (2) and (4) which defined “blind or other persons with disabilities” and “specialized formats”, respectively.
+Subsec. (d). Pub. L. 115–261, § 2(a)(1)(D), added pars. (1) and (3), redesignated former pars. (1) and (3) as (2) and (4), respectively, substituted a period for “; and” at end of par. (4), and struck out former pars. (2) and (4) which defined “blind or other persons with disabilities” and “specialized formats”, respectively.
 
-2004—Subsec. (c). Pub. L. 108–446, § 306(2), added subsec. (c). Former subsec. (c) redesignated (d).
+2004—Subsec. (c). Pub. L. 108–446, § 306(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 108–446, § 306(1), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 108–446, § 306(1), redesignated subsec. (c) as (d).
 
-Subsec. (d)(3), (4). Pub. L. 108–446, § 306(3), added pars. (3) and (4) and struck out former par. (3) which read as follows: “ ‘specialized formats’ means braille, audio, or digital text which is exclusively for use by blind or other persons with disabilities.”
+Subsec. (d)(3), (4). Pub. L. 108–446, § 306(3), added pars. (3) and (4) and struck out former par. (3) which read as follows: “ ‘specialized formats’ means braille, audio, or digital text which is exclusively for use by blind or other persons with disabilities.”
 
 2002—Pub. L. 107–273 substituted “Reproduction” for “reproduction” in section catchline.
 
 2000—Subsec. (a). Pub. L. 106–379 substituted “section 106” for “sections 106 and 710”.
 
-## § 121A. Limitations on exclusive rights: reproduction for blind or other people with disabilities in Marrakesh Treaty countries
+## § 121A. Limitations on exclusive rights: reproduction for blind or other people with disabilities in Marrakesh Treaty countries
 
 **(a)** Notwithstanding the provisions of sections 106 and 602, it is not an infringement of copyright for an authorized entity, acting pursuant to this section, to export copies or phonorecords of a previously published literary work or of a previously published musical work that has been fixed in the form of text or notation in accessible formats to another country when the exportation is made either to—
 
@@ -6125,9 +6125,9 @@ if prior to the exportation of such copies or phonorecords, the authorized entit
 
 **(2)** the term “Marrakesh Treaty” means the Marrakesh Treaty to Facilitate Access to Published Works by Visually Impaired Persons and Persons with Print Disabilities concluded at Marrakesh, Morocco, on June 28, 2013.
 
-(Added Pub. L. 115–261, § 2(a)(2), Oct. 9, 2018, 132 Stat. 3668.)
+(Added Pub. L. 115–261, § 2(a)(2), Oct. 9, 2018, 132 Stat. 3668.)
 
-## § 122. Limitations on exclusive rights: Secondary transmissions of local television programming by satellite
+## § 122. Limitations on exclusive rights: Secondary transmissions of local television programming by satellite
 
 **(a) Secondary Transmissions Into Local Markets.—**
 
@@ -6267,7 +6267,7 @@ the statutory license provided under this paragraph shall apply to secondary tra
 
 **(B)** includes a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico if the station broadcasts primarily in the English language and is a network station as defined in section 119(d)(2)(A).
 
-(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1002(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–523; amended Pub. L. 107–273, div. C, title III, § 13210(2)(A), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–447, div. J, title IX [title I, § 111(b)], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 110–403, title II, § 209(a)(5), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–175, title I, § 103(a)(1), (b)–(f), May 27, 2010, 124 Stat. 1227–1230; Pub. L. 113–200, title II, § 204, Dec. 4, 2014, 128 Stat. 2067.)
+(Added Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1002(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–523; amended Pub. L. 107–273, div. C, title III, § 13210(2)(A), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 108–447, div. J, title IX [title I, § 111(b)], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 110–403, title II, § 209(a)(5), Oct. 13, 2008, 122 Stat. 4264; Pub. L. 111–175, title I, § 103(a)(1), (b)–(f), May 27, 2010, 124 Stat. 1227–1230; Pub. L. 113–200, title II, § 204, Dec. 4, 2014, 128 Stat. 2067.)
 
 **Editorial Notes**
 
@@ -6279,49 +6279,49 @@ The date of the enactment of the Satellite Television Extension and Localism Act
 
 **Amendments**
 
-2014—Subsec. (j)(2)(B) to (D). Pub. L. 113–200, § 204(1), realigned margins.
+2014—Subsec. (j)(2)(B) to (D). Pub. L. 113–200, § 204(1), realigned margins.
 
-Subsec. (j)(2)(E). Pub. L. 113–200, § 204(2), added subpar. (E).
+Subsec. (j)(2)(E). Pub. L. 113–200, § 204(2), added subpar. (E).
 
-2010—Pub. L. 111–175, § 103(a)(1), substituted “of local television programming by satellite” for “by satellite carriers within local markets” in section catchline.
+2010—Pub. L. 111–175, § 103(a)(1), substituted “of local television programming by satellite” for “by satellite carriers within local markets” in section catchline.
 
-Subsec. (a). Pub. L. 111–175, § 103(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to secondary transmissions of television broadcast stations by satellite carriers.
+Subsec. (a). Pub. L. 111–175, § 103(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to secondary transmissions of television broadcast stations by satellite carriers.
 
-Subsec. (b)(1). Pub. L. 111–175, § 103(c)(1), substituted “station—” for “station a list identifying (by name in alphabetical order and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission under subsection (a).” and added subpars. (A) and (B).
+Subsec. (b)(1). Pub. L. 111–175, § 103(c)(1), substituted “station—” for “station a list identifying (by name in alphabetical order and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission under subsection (a).” and added subpars. (A) and (B).
 
-Subsec. (b)(2). Pub. L. 111–175, § 103(c)(2), substituted “network—” for “network a list identifying (by name in alphabetical order and street address, including county and zip code) any subscribers who have been added or dropped as subscribers since the last submission under this subsection.” and added subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 111–175, § 103(c)(2), substituted “network—” for “network a list identifying (by name in alphabetical order and street address, including county and zip code) any subscribers who have been added or dropped as subscribers since the last submission under this subsection.” and added subpars. (A) and (B).
 
-Subsec. (c). Pub. L. 111–175, § 103(d), inserted “for Certain Secondary Transmissions” after “Required” in heading and substituted “paragraphs (1), (2), and (3) of subsection (a)” for “subsection (a)” in text.
+Subsec. (c). Pub. L. 111–175, § 103(d), inserted “for Certain Secondary Transmissions” after “Required” in heading and substituted “paragraphs (1), (2), and (3) of subsection (a)” for “subsection (a)” in text.
 
-Subsec. (f)(1). Pub. L. 111–175, § 103(e)(2)(A), substituted “section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to” for “section 119 or” in introductory provisions.
+Subsec. (f)(1). Pub. L. 111–175, § 103(e)(2)(A), substituted “section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to” for “section 119 or” in introductory provisions.
 
-Subsec. (f)(1)(B). Pub. L. 111–175, § 103(e)(1)(A), substituted “$250” for “$5”.
+Subsec. (f)(1)(B). Pub. L. 111–175, § 103(e)(1)(A), substituted “$250” for “$5”.
 
-Subsec. (f)(2). Pub. L. 111–175, § 103(e)(2)(A), substituted “section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to” for “section 119 or” in introductory provisions.
+Subsec. (f)(2). Pub. L. 111–175, § 103(e)(2)(A), substituted “section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to” for “section 119 or” in introductory provisions.
 
-Subsec. (f)(2)(A)(ii), (B)(ii). Pub. L. 111–175, § 103(e)(1)(B), substituted “$2,500,000” for “$250,000”.
+Subsec. (f)(2)(A)(ii), (B)(ii). Pub. L. 111–175, § 103(e)(1)(B), substituted “$2,500,000” for “$250,000”.
 
-Subsec. (g). Pub. L. 111–175, § 103(e)(2)(B), substituted “section 119, paragraph (2)(A), (3), or (4) of subsection (a), or” for “section 119 or”.
+Subsec. (g). Pub. L. 111–175, § 103(e)(2)(B), substituted “section 119, paragraph (2)(A), (3), or (4) of subsection (a), or” for “section 119 or”.
 
-Subsec. (j)(1). Pub. L. 111–175, § 103(f)(1), substituted “that contracts” for “which contracts”.
+Subsec. (j)(1). Pub. L. 111–175, § 103(f)(1), substituted “that contracts” for “which contracts”.
 
-Subsec. (j)(3). Pub. L. 111–175, § 103(f)(4), added par. (3). Former par. (3) redesignated (4).
+Subsec. (j)(3). Pub. L. 111–175, § 103(f)(4), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (j)(4). Pub. L. 111–175, § 103(f)(3), redesignated par. (3) as (4) and inserted “non-network station;” after “Network station;” in heading and “ ‘non-network station’,” after “ ‘network station’,” in text. Former par. (4) redesignated (6).
+Subsec. (j)(4). Pub. L. 111–175, § 103(f)(3), redesignated par. (3) as (4) and inserted “non-network station;” after “Network station;” in heading and “ ‘non-network station’,” after “ ‘network station’,” in text. Former par. (4) redesignated (6).
 
-Subsec. (j)(5). Pub. L. 111–175, § 103(f)(5), added par. (5). Former par. (5) redesignated (7).
+Subsec. (j)(5). Pub. L. 111–175, § 103(f)(5), added par. (5). Former par. (5) redesignated (7).
 
-Subsec. (j)(6). Pub. L. 111–175, § 103(f)(6), amended par. (6) generally. Prior to amendment, text read as follows: “The term ‘subscriber’ means a person who receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.”
+Subsec. (j)(6). Pub. L. 111–175, § 103(f)(6), amended par. (6) generally. Prior to amendment, text read as follows: “The term ‘subscriber’ means a person who receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.”
 
-Pub. L. 111–175, § 103(f)(2), redesignated par. (4) as (6).
+Pub. L. 111–175, § 103(f)(2), redesignated par. (4) as (6).
 
-Subsec. (j)(7). Pub. L. 111–175, § 103(f)(2), redesignated par. (5) as (7).
+Subsec. (j)(7). Pub. L. 111–175, § 103(f)(2), redesignated par. (5) as (7).
 
-2008—Subsec. (d). Pub. L. 110–403, § 209(a)(5)(A), struck out “and 509” after “506”.
+2008—Subsec. (d). Pub. L. 110–403, § 209(a)(5)(A), struck out “and 509” after “506”.
 
-Subsec. (e). Pub. L. 110–403, § 209(a)(5)(B), substituted “section 510” for “sections 509 and 510”.
+Subsec. (e). Pub. L. 110–403, § 209(a)(5)(B), substituted “section 510” for “sections 509 and 510”.
 
-Subsec. (f)(1). Pub. L. 110–403, § 209(a)(5)(C), struck out “and 509” after “506” in introductory provisions.
+Subsec. (f)(1). Pub. L. 110–403, § 209(a)(5)(C), struck out “and 509” after “506” in introductory provisions.
 
 2004—Subsec. (j)(2)(D). Pub. L. 108–447 added subpar. (D).
 
@@ -6335,4 +6335,4 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 
 **Effective Date**
 
-Section effective July 1, 1999, see section 1000(a)(9) [title I, § 1012] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 101 of this title.
+Section effective July 1, 1999, see section 1000(a)(9) [title I, § 1012] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 101 of this title.

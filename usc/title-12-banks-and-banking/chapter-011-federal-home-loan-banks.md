@@ -15,31 +15,31 @@ retrieved: 2026-10-11
 
 # CHAPTER 11—FEDERAL HOME LOAN BANKS
 
-## § 1421. Short title
+## § 1421. Short title
 
 This chapter may be cited as the “Federal Home Loan Bank Act.”
 
-(July 22, 1932, ch. 522, § 1, 47 Stat. 725.)
+(July 22, 1932, ch. 522, § 1, 47 Stat. 725.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–102, title VI, § 601, Nov. 12, 1999, 113 Stat. 1450, provided that: “This title [amending sections 250, 1422, 1422b, 1424, 1426, 1427, 1429, 1430, 1432, 1436, 1438, 1441b, 1464, and 1467a of this title, repealing sections 1442a and 1447 of this title, and enacting provisions set out as a note under section 1441b of this title] may be cited as the ‘Federal Home Loan Bank System Modernization Act of 1999’.”
+Pub. L. 106–102, title VI, § 601, Nov. 12, 1999, 113 Stat. 1450, provided that: “This title [amending sections 250, 1422, 1422b, 1424, 1426, 1427, 1429, 1430, 1432, 1436, 1438, 1441b, 1464, and 1467a of this title, repealing sections 1442a and 1447 of this title, and enacting provisions set out as a note under section 1441b of this title] may be cited as the ‘Federal Home Loan Bank System Modernization Act of 1999’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–204, § 1(a), Dec. 17, 1993, 107 Stat. 2369, provided that: “This Act [enacting section 1447 of this title and section 8C of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 1441a, 1811, 1813, 1815, 1817, 1818, 1821, 1822, 1824, 1831j, and 1831q of this title, sections 5314 and 5315 of Title 5, and sections 8D to 8G and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under sections 1441a, 1811, 1817, 1821, 1822, 1827, and 1831q of this title and section 3 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and amending provisions set out as notes under section 396f of Title 16, Conservation, and section 1611 of Title 43, Public Lands] may be cited as the ‘Resolution Trust Corporation Completion Act’.”
+Pub. L. 103–204, § 1(a), Dec. 17, 1993, 107 Stat. 2369, provided that: “This Act [enacting section 1447 of this title and section 8C of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 1441a, 1811, 1813, 1815, 1817, 1818, 1821, 1822, 1824, 1831j, and 1831q of this title, sections 5314 and 5315 of Title 5, and sections 8D to 8G and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under sections 1441a, 1811, 1817, 1821, 1822, 1827, and 1831q of this title and section 3 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and amending provisions set out as notes under section 396f of Title 16, Conservation, and section 1611 of Title 43, Public Lands] may be cited as the ‘Resolution Trust Corporation Completion Act’.”
 
 **Short Title of 1991 Amendments**
 
-Pub. L. 102–233, § 1, Dec. 12, 1991, 105 Stat. 1761, provided that: “This Act [enacting section 2907 of this title, amending sections 1441, 1441a, 1441b, 1786, 1818, 1821, 1821a, 1833b, 1833e, 3345, and 3348 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under this section and sections 1441, 1441a, and 1831n of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title] may be cited as the ‘Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991’.”
+Pub. L. 102–233, § 1, Dec. 12, 1991, 105 Stat. 1761, provided that: “This Act [enacting section 2907 of this title, amending sections 1441, 1441a, 1441b, 1786, 1818, 1821, 1821a, 1833b, 1833e, 3345, and 3348 of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under this section and sections 1441, 1441a, and 1831n of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title] may be cited as the ‘Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991’.”
 
-Pub. L. 102–233, title III, § 301, Dec. 12, 1991, 105 Stat. 1767, provided that: “This title [amending sections 1441, 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under sections 1441 and 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title] may be cited as the ‘Resolution Trust Corporation Thrift Depositor Protection Reform Act of 1991’.”
+Pub. L. 102–233, title III, § 301, Dec. 12, 1991, 105 Stat. 1767, provided that: “This title [amending sections 1441, 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under sections 1441 and 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title] may be cited as the ‘Resolution Trust Corporation Thrift Depositor Protection Reform Act of 1991’.”
 
-Pub. L. 102–18, § 1, Mar. 23, 1991, 105 Stat. 58, provided that: “This Act [amending sections 1441a and 1812 of this title and enacting provisions set out as notes under section 1441a of this title] may be cited as the ‘Resolution Trust Corporation Funding Act of 1991’.”
+Pub. L. 102–18, § 1, Mar. 23, 1991, 105 Stat. 58, provided that: “This Act [amending sections 1441a and 1812 of this title and enacting provisions set out as notes under section 1441a of this title] may be cited as the ‘Resolution Trust Corporation Funding Act of 1991’.”
 
-## § 1422. Definitions
+## § 1422. Definitions
 
 As used in this chapter—
 
@@ -67,9 +67,9 @@ As used in this chapter—
 
 **(A)** an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813]), and
 
-**(B)** except as used in sections 1441a 1
+**(B)** except as used in sections 1441a 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 1441b of this title, an insured credit union (as defined in section 1752 of this title).
 
@@ -87,53 +87,53 @@ and 1441b of this title, an insured credit union (as defined in section 1752 of 
 
 **(12) Agency.—** The term “Agency” means the Federal Housing Finance Agency, established under section 4511 of this title.
 
-(July 22, 1932, ch. 522, § 2, 47 Stat. 725; June 27, 1934, ch. 847, § 507, 48 Stat. 1264; May 28, 1935, ch. 150, § 1, 49 Stat. 293; July 14, 1952, ch. 723, § 10(c), 66 Stat. 604; Pub. L. 86–70, § 9(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, § 5(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–779, § 2(a), Oct. 9, 1962, 76 Stat. 779; Pub. L. 101–73, title VII, §§ 701(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 411, 418; Pub. L. 106–102, title VI, § 602, Nov. 12, 1999, 113 Stat. 1450; Pub. L. 110–289, div. A, title II, §§ 1203, 1204(8), (10), 1211(a), July 30, 2008, 122 Stat. 2785, 2786, 2790.)
+(July 22, 1932, ch. 522, § 2, 47 Stat. 725; June 27, 1934, ch. 847, § 507, 48 Stat. 1264; May 28, 1935, ch. 150, § 1, 49 Stat. 293; July 14, 1952, ch. 723, § 10(c), 66 Stat. 604; Pub. L. 86–70, § 9(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, § 5(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–779, § 2(a), Oct. 9, 1962, 76 Stat. 779; Pub. L. 101–73, title VII, §§ 701(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 411, 418; Pub. L. 106–102, title VI, § 602, Nov. 12, 1999, 113 Stat. 1450; Pub. L. 110–289, div. A, title II, §§ 1203, 1204(8), (10), 1211(a), July 30, 2008, 122 Stat. 2785, 2786, 2790.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1441a of this title, referred to in par. (9)(B), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
+Section 1441a of this title, referred to in par. (9)(B), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
 
-The Federal Deposit Insurance Act, referred to in par. (10)(A)(i), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in par. (10)(A)(i), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Amendments**
 
-2008—Par. (1). Pub. L. 110–289, § 1203(1), (2), redesignated par. (2) as (1) and struck out former par. (1). Prior to amendment, text read as follows: “The terms ‘Finance Board’ and ‘Board’ mean the Federal Housing Finance Board established under section 1422a of this title.”
+2008—Par. (1). Pub. L. 110–289, § 1203(1), (2), redesignated par. (2) as (1) and struck out former par. (1). Prior to amendment, text read as follows: “The terms ‘Finance Board’ and ‘Board’ mean the Federal Housing Finance Board established under section 1422a of this title.”
 
-Par. (1)(B). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board”.
+Par. (1)(B). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board”.
 
-Pars. (2) to (4). Pub. L. 110–289, § 1203(2), redesignated pars. (3) to (5) as (2) to (4), respectively. Former par. (2) redesignated (1).
+Pars. (2) to (4). Pub. L. 110–289, § 1203(2), redesignated pars. (3) to (5) as (2) to (4), respectively. Former par. (2) redesignated (1).
 
-Par. (5). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board”.
+Par. (5). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board”.
 
-Pub. L. 110–289, § 1203(2), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+Pub. L. 110–289, § 1203(2), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-Pars. (6) to (9). Pub. L. 110–289, § 1203(2), (3), redesignated pars. (7) to (9) and (12) as (6) to (9), respectively. Former par. (6) redesignated (5).
+Pars. (6) to (9). Pub. L. 110–289, § 1203(2), (3), redesignated pars. (7) to (9) and (12) as (6) to (9), respectively. Former par. (6) redesignated (5).
 
-Par. (10). Pub. L. 110–289, § 1203(1), (3), redesignated par. (13) as (10) and struck out former par. (10). Prior to amendment, text read as follows: “The term ‘Chairperson’ means the Chairperson of the Board.”
+Par. (10). Pub. L. 110–289, § 1203(1), (3), redesignated par. (13) as (10) and struck out former par. (10). Prior to amendment, text read as follows: “The term ‘Chairperson’ means the Chairperson of the Board.”
 
-Par. (10)(A)(ii). Pub. L. 110–289, § 1211(a), substituted “$1,000,000,000” for “$500,000,000”.
+Par. (10)(A)(ii). Pub. L. 110–289, § 1211(a), substituted “$1,000,000,000” for “$500,000,000”.
 
-Par. (10)(B). Pub. L. 110–289, § 1211(a), substituted “$1,000,000,000” for “$500,000,000”.
+Par. (10)(B). Pub. L. 110–289, § 1211(a), substituted “$1,000,000,000” for “$500,000,000”.
 
-Pub. L. 110–289, § 1204(10), substituted “the Director” for “the Finance Board”.
+Pub. L. 110–289, § 1204(10), substituted “the Director” for “the Finance Board”.
 
-Pars. (11) to (13). Pub. L. 110–289, § 1203(1), (3), (4), added pars. (11) and (12), redesignated former pars. (12) and (13) as (9) and (10), respectively, and struck out former par. (11). Prior to amendment, text read as follows: “The term ‘Secretary’ means the Secretary of Housing and Urban Development.”
+Pars. (11) to (13). Pub. L. 110–289, § 1203(1), (3), (4), added pars. (11) and (12), redesignated former pars. (12) and (13) as (9) and (10), respectively, and struck out former par. (11). Prior to amendment, text read as follows: “The term ‘Secretary’ means the Secretary of Housing and Urban Development.”
 
-1999—Par. (1). Pub. L. 106–102, § 602(1), substituted “terms ‘Finance Board’ and ‘Board’ mean” for “term ‘Board’ means”.
+1999—Par. (1). Pub. L. 106–102, § 602(1), substituted “terms ‘Finance Board’ and ‘Board’ mean” for “term ‘Board’ means”.
 
-Par. (3). Pub. L. 106–102, § 602(2), added par. (3) and struck out former par. (3) which read as follows: “The term ‘State’ includes the District of Columbia, Guam, Puerto Rico, and the Virgin Islands of the United States.”
+Par. (3). Pub. L. 106–102, § 602(2), added par. (3) and struck out former par. (3) which read as follows: “The term ‘State’ includes the District of Columbia, Guam, Puerto Rico, and the Virgin Islands of the United States.”
 
-Par. (13). Pub. L. 106–102, § 602(3), added par. (13).
+Par. (13). Pub. L. 106–102, § 602(3), added par. (13).
 
-1989—Pars. (1), (2). Pub. L. 101–73, § 701(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which defined “board” and “Federal Home Loan Bank”.
+1989—Pars. (1), (2). Pub. L. 101–73, § 701(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which defined “board” and “Federal Home Loan Bank”.
 
-Par. (4). Pub. L. 101–73, § 701(a)(2), which directed amendment of par. (4) by striking out “(except when used in reference to the member of the Board)” after “ ‘member’ ”, was executed by striking out “(except when used in reference to a member of the board)” as the probable intent of Congress.
+Par. (4). Pub. L. 101–73, § 701(a)(2), which directed amendment of par. (4) by striking out “(except when used in reference to the member of the Board)” after “ ‘member’ ”, was executed by striking out “(except when used in reference to a member of the board)” as the probable intent of Congress.
 
-Par. (5). Pub. L. 101–73, § 710(b)(1), struck out “or a nonmember borrower” after “member”.
+Par. (5). Pub. L. 101–73, § 710(b)(1), struck out “or a nonmember borrower” after “member”.
 
-Pars. (9) to (12). Pub. L. 101–73, § 701(a)(3), added pars. (9) to (12) and struck out former par. (9) which read as follows: “The term ‘nonmember borrower’ includes an institution authorized to secure advances from a Federal Home Loan Bank under the provisions of subsection (e) of section 1426 of this title.”
+Pars. (9) to (12). Pub. L. 101–73, § 701(a)(3), added pars. (9) to (12) and struck out former par. (9) which read as follows: “The term ‘nonmember borrower’ includes an institution authorized to secure advances from a Federal Home Loan Bank under the provisions of subsection (e) of section 1426 of this title.”
 
 1962—Subsec. (6). Pub. L. 87–779 substituted “upon which is located, or which comprises or includes, one or more homes or other dwelling units, all of which may be defined by the Board” for “upon which there is located a dwelling for not more than four families”.
 
@@ -147,13 +147,13 @@ Pars. (9) to (12). Pub. L. 101–73, § 701(a)(3), added pars. (9) to (12) and
 
 1934—Subsec. (6). Act June 27, 1934, struck out “first” before “mortgage” and inserted “or (2) under a lease having a period of not less than fifty years to run from the date the mortgage was executed”.
 
-## §§ 1422a, 1422b. Repealed. Pub. L. 110–289, div. A, title II, § 1204(1), July 30, 2008, 122 Stat. 2785
+## §§ 1422a, 1422b. Repealed. Pub. L. 110–289, div. A, title II, § 1204(1), July 30, 2008, 122 Stat. 2785
 
-Section 1422a, act July 22, 1932, ch. 522, § 2A, as added Pub. L. 101–73, title VII, § 702(a), Aug. 9, 1989, 103 Stat. 413; amended Pub. L. 102–550, title XIII, § 1391, title XVI, § 1608, Oct. 28, 1992, 106 Stat. 4009, 4089, established the Federal Housing Finance Board.
+Section 1422a, act July 22, 1932, ch. 522, § 2A, as added Pub. L. 101–73, title VII, § 702(a), Aug. 9, 1989, 103 Stat. 413; amended Pub. L. 102–550, title XIII, § 1391, title XVI, § 1608, Oct. 28, 1992, 106 Stat. 4009, 4089, established the Federal Housing Finance Board.
 
-Section 1422b, act July 22, 1932, ch. 522, § 2B, as added Pub. L. 101–73, title VII, § 702(a), Aug. 9, 1989, 103 Stat. 414; amended Pub. L. 106–102, title VI, § 606(e)(1), Nov. 12, 1999, 113 Stat. 1454, related to powers and duties of the Federal Housing Finance Board.
+Section 1422b, act July 22, 1932, ch. 522, § 2B, as added Pub. L. 101–73, title VII, § 702(a), Aug. 9, 1989, 103 Stat. 414; amended Pub. L. 106–102, title VI, § 606(e)(1), Nov. 12, 1999, 113 Stat. 1454, related to powers and duties of the Federal Housing Finance Board.
 
-## § 1423. Federal Home Loan Bank districts; number and boundaries; establishment of Federal Home Loan Banks; names
+## § 1423. Federal Home Loan Bank districts; number and boundaries; establishment of Federal Home Loan Banks; names
 
 **(a) In general**
 
@@ -165,15 +165,15 @@ As soon as practicable the Director shall divide the continental United States, 
 
 **(2)** pursuant to a decision by the Director to liquidate a Bank pursuant to section 4617 of this title.
 
-(July 22, 1932, ch. 522, § 3, 47 Stat. 726; July 14, 1952, ch. 723, § 10(c), 66 Stat. 604; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, §§ 1204(8), 1210, July 30, 2008, 122 Stat. 2786, 2790.)
+(July 22, 1932, ch. 522, § 3, 47 Stat. 726; July 14, 1952, ch. 723, § 10(c), 66 Stat. 604; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, §§ 1204(8), 1210, July 30, 2008, 122 Stat. 2786, 2790.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1210, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2008—Pub. L. 110–289, § 1210, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” wherever appearing.
+Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” wherever appearing.
 
 1989—Pub. L. 101–73 substituted “Board” for “board” wherever appearing.
 
@@ -185,7 +185,7 @@ Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48.
 
-## § 1424. Eligibility for membership
+## § 1424. Eligibility for membership
 
 **(a) Criteria for eligibility**
 
@@ -193,9 +193,9 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 
 **(A)** is duly organized under the laws of any State or of the United States;
 
-**(B)** is subject to inspection and regulation under the banking laws, or under similar laws, of the State or of the United States or, in the case of a community development financial institution, is certified as a community development financial institution under the Community Development Banking and Financial Institutions Act of 1994 [12 U.S.C. 4701 et seq.].; 1
+**(B)** is subject to inspection and regulation under the banking laws, or under similar laws, of the State or of the United States or, in the case of a community development financial institution, is certified as a community development financial institution under the Community Development Banking and Financial Institutions Act of 1994 [12 U.S.C. 4701 et seq.].; 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and
 
@@ -211,9 +211,9 @@ and
 
 **(3) Certain institutions**
 
-An insured depository institution commencing its initial business operations after January 1, 1989, may become a member of a Federal Home Loan Bank if it complies with regulations and orders prescribed by the Director for the 10 percent asset requirement (described in the 2
+An insured depository institution commencing its initial business operations after January 1, 1989, may become a member of a Federal Home Loan Bank if it complies with regulations and orders prescribed by the Director for the 10 percent asset requirement (described in the 2
 
-<sup>2</sup>  So in original. The word “the” probably should not appear.
+<sup>2</sup> So in original. The word “the” probably should not appear.
 
 paragraph (2)) within one year after the commencement of its operations.
 
@@ -257,13 +257,13 @@ An institution eligible to become a member under this section may become a membe
 
 Notwithstanding the provisions of clause (2) of subsection (a) of this section requiring inspection and regulation under law as a condition with respect to eligibility for membership, any building and loan association which would be eligible to become a member of a Federal Home Loan Bank except for the fact that it is not subject to inspection and regulation under the banking laws or similar laws of the State in which such association is organized shall, upon subjecting itself to such inspection and regulation as the Director shall prescribe, be eligible to become a member.
 
-(July 22, 1932, ch. 522, § 4, 47 Stat. 726; June 13, 1933, ch. 64, § 3, 48 Stat. 129; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 704(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 412, 415, 418; Pub. L. 106–102, title VI, § 605, Nov. 12, 1999, 113 Stat. 1452; Pub. L. 110–289, div. A, title II, §§ 1204(8), 1206, July 30, 2008, 122 Stat. 2786, 2787; Pub. L. 114–94, div. G, title LXXXII, § 82001(a), Dec. 4, 2015, 129 Stat. 1795.)
+(July 22, 1932, ch. 522, § 4, 47 Stat. 726; June 13, 1933, ch. 64, § 3, 48 Stat. 129; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 704(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 412, 415, 418; Pub. L. 106–102, title VI, § 605, Nov. 12, 1999, 113 Stat. 1452; Pub. L. 110–289, div. A, title II, §§ 1204(8), 1206, July 30, 2008, 122 Stat. 2786, 2787; Pub. L. 114–94, div. G, title LXXXII, § 82001(a), Dec. 4, 2015, 129 Stat. 1795.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Community Development Banking and Financial Institutions Act of 1994, referred to in subsec. (a)(1)(B), is subtitle A (§§ 101–121) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2163, which is classified principally to subchapter I (§ 4701 et seq.) of chapter 47 of this title. For complete classification of subtitle A to the Code, see Short Title note set out under section 4701 of this title and Tables.
+The Community Development Banking and Financial Institutions Act of 1994, referred to in subsec. (a)(1)(B), is subtitle A (§§ 101–121) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2163, which is classified principally to subchapter I (§ 4701 et seq.) of chapter 47 of this title. For complete classification of subtitle A to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 Section 461 of this title, referred to in subsec. (a)(1)(C), was in the original “section 19 of the Federal Reserve Act”. Definition provisions of section 19 are classified to section 461 of this title. Other provisions of section 19 are classified to sections 142, 371b, 371b–1, 374, 374a, 463 to 466, 505, and 506 of this title.
 
@@ -271,33 +271,33 @@ Section 461 of this title, referred to in subsec. (a)(1)(C), was in the original
 
 2015—Subsec. (a)(5). Pub. L. 114–94 added par. (5).
 
-2008—Subsec. (a)(1). Pub. L. 110–289, § 1206(1), which directed insertion of “community development financial institution,” after “savings bank,”, was executed by making the insertion after “savings bank,” the first time appearing.
+2008—Subsec. (a)(1). Pub. L. 110–289, § 1206(1), which directed insertion of “community development financial institution,” after “savings bank,”, was executed by making the insertion after “savings bank,” the first time appearing.
 
-Subsec. (a)(1)(B). Pub. L. 110–289, § 1206(2), which directed insertion of “or, in the case of a community development financial institution, is certified as a community development financial institution under the Community Development Banking and Financial Institutions Act of 1994.” after “United States,”, was executed by making the insertion after “United States” to reflect the probable intent of Congress.
+Subsec. (a)(1)(B). Pub. L. 110–289, § 1206(2), which directed insertion of “or, in the case of a community development financial institution, is certified as a community development financial institution under the Community Development Banking and Financial Institutions Act of 1994.” after “United States,”, was executed by making the insertion after “United States” to reflect the probable intent of Congress.
 
-Subsecs. (a)(1)(C), (3), (b), (c). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” wherever appearing.
+Subsecs. (a)(1)(C), (3), (b), (c). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” wherever appearing.
 
 1999—Subsec. (a)(2) to (4). Pub. L. 106–102 inserted “(other than a community financial institution)” after “institution” in par. (2)(A), designated concluding provisions of par. (2) as par. (3), inserted heading and substituted “paragraph (2)” for “preceding sentence”, and added par. (4).
 
-1989—Subsec. (a). Pub. L. 101–73, § 704(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any building and loan association, savings and loan association, cooperative bank, homestead association, insurance company, or savings bank shall be eligible to become a member of, or a nonmember borrower of, a Federal Home Loan Bank if such institution (1) is duly organized under the laws of any State or of the United States; (2) is subject to inspection and regulation under the banking laws, or under similar laws, of the State or of the United States; and (3) makes such home mortgage loans as in the judgment of the board, are long-term loans (and in the case of a savings bank if, in the judgment of the board, its time deposits, as defined in section 461 of this title, warrant its making such loans). No institution shall be eligible to become a member of, or a nonmember borrower of, a Federal Home Loan Bank if, in the judgment of the board, its financial condition is such that advances may not safely be made to such institution or the character of its management or its home-financing policy is inconsistent with sound and economical home financing, or with the purposes of this chapter.”
+1989—Subsec. (a). Pub. L. 101–73, § 704(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any building and loan association, savings and loan association, cooperative bank, homestead association, insurance company, or savings bank shall be eligible to become a member of, or a nonmember borrower of, a Federal Home Loan Bank if such institution (1) is duly organized under the laws of any State or of the United States; (2) is subject to inspection and regulation under the banking laws, or under similar laws, of the State or of the United States; and (3) makes such home mortgage loans as in the judgment of the board, are long-term loans (and in the case of a savings bank if, in the judgment of the board, its time deposits, as defined in section 461 of this title, warrant its making such loans). No institution shall be eligible to become a member of, or a nonmember borrower of, a Federal Home Loan Bank if, in the judgment of the board, its financial condition is such that advances may not safely be made to such institution or the character of its management or its home-financing policy is inconsistent with sound and economical home financing, or with the purposes of this chapter.”
 
-Subsec. (b). Pub. L. 101–73, § 710(b)(1), struck out “or a nonmember borrower” after “eligible to become a member”.
+Subsec. (b). Pub. L. 101–73, § 710(b)(1), struck out “or a nonmember borrower” after “eligible to become a member”.
 
-Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
+Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
 
-Subsec. (c). Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
+Subsec. (c). Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
 
-1933—Subsec. (d). Act June 13, 1933, struck out subsec. (d) which provided for direct loans to homeowners. See chapter 12 (§ 1461 et seq.) of this title.
+1933—Subsec. (d). Act June 13, 1933, struck out subsec. (d) which provided for direct loans to homeowners. See chapter 12 (§ 1461 et seq.) of this title.
 
-## §§ 1425 to 1425b. Repealed. Pub. L. 101–73, title VII, §§ 705, 716, 720, Aug. 9, 1989, 103 Stat. 416, 421, 423
+## §§ 1425 to 1425b. Repealed. Pub. L. 101–73, title VII, §§ 705, 716, 720, Aug. 9, 1989, 103 Stat. 416, 421, 423
 
-Section 1425, acts July 22, 1932, ch. 522, § 5, 47 Stat. 727; Dec. 24, 1969, Pub. L. 91–152, title IV, § 416(a), 83 Stat. 401, related to limitation on lawful contract rate of interest receivable by members and nonmember borrowers, and applicability to home mortgage loans on single-family dwellings.
+Section 1425, acts July 22, 1932, ch. 522, § 5, 47 Stat. 727; Dec. 24, 1969, Pub. L. 91–152, title IV, § 416(a), 83 Stat. 401, related to limitation on lawful contract rate of interest receivable by members and nonmember borrowers, and applicability to home mortgage loans on single-family dwellings.
 
-Section 1425a, act July 22, 1932, ch. 522, § 5A, as added June 27, 1950, ch. 369, § 1, 64 Stat. 256; amended Aug. 11, 1955, ch. 783, title I, § 109(a)(3), 69 Stat. 640; Sept. 21, 1968, Pub. L. 90–505, § 4, 82 Stat. 856; Mar. 31, 1980, Pub. L. 96–221, title I, § 104(b), title IV, § 405, 94 Stat. 139, 158; Oct. 8, 1980, Pub. L. 96–399, title III, § 325(a), 94 Stat. 1648; Oct. 15, 1982, Pub. L. 97–320, title III, § 332, 96 Stat. 1504; Oct. 17, 1984, Pub. L. 98–479, title II, § 207, 98 Stat. 2235, related to liquidity requirements for savings and loan associations and other members.
+Section 1425a, act July 22, 1932, ch. 522, § 5A, as added June 27, 1950, ch. 369, § 1, 64 Stat. 256; amended Aug. 11, 1955, ch. 783, title I, § 109(a)(3), 69 Stat. 640; Sept. 21, 1968, Pub. L. 90–505, § 4, 82 Stat. 856; Mar. 31, 1980, Pub. L. 96–221, title I, § 104(b), title IV, § 405, 94 Stat. 139, 158; Oct. 8, 1980, Pub. L. 96–399, title III, § 325(a), 94 Stat. 1648; Oct. 15, 1982, Pub. L. 97–320, title III, § 332, 96 Stat. 1504; Oct. 17, 1984, Pub. L. 98–479, title II, § 207, 98 Stat. 2235, related to liquidity requirements for savings and loan associations and other members.
 
-Section 1425b, act July 22, 1932, ch. 522, § 5B, as added Sept. 21, 1966, Pub. L. 89–597, § 4, 80 Stat. 824; amended Sept. 21, 1968, Pub. L. 90–505, § 2(c), 82 Stat. 856; Dec. 23, 1969, Pub. L. 91–151, § 2(b), 83 Stat. 372; Oct. 29, 1974, Pub. L. 93–501, title I, § 103, title III, § 303, 88 Stat. 1558, 1560; Nov. 5, 1979, Pub. L. 96–104, title II, § 203, 93 Stat. 793; Dec. 28, 1979, Pub. L. 96–161, title II, § 210, 93 Stat. 1239; Mar. 31, 1980, Pub. L. 96–221, title II, § 207(b)(7)–(9), title V, § 529, 94 Stat. 144, 168, related to rate of interest payable on deposits, shares or withdrawable accounts by members, insured institutions and other nonmember financial institutions.
+Section 1425b, act July 22, 1932, ch. 522, § 5B, as added Sept. 21, 1966, Pub. L. 89–597, § 4, 80 Stat. 824; amended Sept. 21, 1968, Pub. L. 90–505, § 2(c), 82 Stat. 856; Dec. 23, 1969, Pub. L. 91–151, § 2(b), 83 Stat. 372; Oct. 29, 1974, Pub. L. 93–501, title I, § 103, title III, § 303, 88 Stat. 1558, 1560; Nov. 5, 1979, Pub. L. 96–104, title II, § 203, 93 Stat. 793; Dec. 28, 1979, Pub. L. 96–161, title II, § 210, 93 Stat. 1239; Mar. 31, 1980, Pub. L. 96–221, title II, § 207(b)(7)–(9), title V, § 529, 94 Stat. 144, 168, related to rate of interest payable on deposits, shares or withdrawable accounts by members, insured institutions and other nonmember financial institutions.
 
-## § 1426. Capital structure of Federal home loan banks
+## § 1426. Capital structure of Federal home loan banks
 
 **(a) Regulations**
 
@@ -431,9 +431,9 @@ A Federal home loan bank shall include in its capital structure plan provisions 
 
 **(C) Reduced minimum investment**
 
-The capital structure plan of a Federal home loan bank may provide for a reduced minimum stock investment for any member of that bank that elects to purchase Class B 1
+The capital structure plan of a Federal home loan bank may provide for a reduced minimum stock investment for any member of that bank that elects to purchase Class B 1
 
-<sup>1</sup>  So in original. Probably should be “Class B stock”.
+<sup>1</sup> So in original. Probably should be “Class B stock”.
 
 in a manner that is consistent with meeting the minimum capital requirements of the bank, as established by the Director.
 
@@ -527,75 +527,75 @@ Except as specifically provided in this section or through the declaration of a 
 
 A Federal home loan bank may not make any distribution of its retained earnings unless, following such distribution, the bank would continue to meet all applicable capital requirements.
 
-(July 22, 1932, ch. 522, § 6, 47 Stat. 727; June 27, 1934, ch. 847, § 509, 48 Stat. 1264; May 28, 1935, ch. 150, § 2, 49 Stat. 293; June 27, 1950, ch. 369, § 2, 64 Stat. 257; Aug. 11, 1955, ch. 783, title I, § 109(a)(1), 69 Stat. 640; Pub. L. 87–210, §§ 1, 2, Sept. 8, 1961, 75 Stat. 482, 483; Pub. L. 96–153, title III, § 327, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 97–320, title III, §§ 353, 355, Oct. 15, 1982, 96 Stat. 1507, 1508; Pub. L. 97–457, § 16, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 706, 710(b)(2), (3), 715, Aug. 9, 1989, 103 Stat. 412, 416, 418, 421; Pub. L. 106–102, title VI, § 608, Nov. 12, 1999, 113 Stat. 1456; Pub. L. 106–569, title XII, § 1224, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 110–289, div. A, title I, § 1110(b), title II, § 1204(4), (10), July 30, 2008, 122 Stat. 2676, 2786.)
+(July 22, 1932, ch. 522, § 6, 47 Stat. 727; June 27, 1934, ch. 847, § 509, 48 Stat. 1264; May 28, 1935, ch. 150, § 2, 49 Stat. 293; June 27, 1950, ch. 369, § 2, 64 Stat. 257; Aug. 11, 1955, ch. 783, title I, § 109(a)(1), 69 Stat. 640; Pub. L. 87–210, §§ 1, 2, Sept. 8, 1961, 75 Stat. 482, 483; Pub. L. 96–153, title III, § 327, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 97–320, title III, §§ 353, 355, Oct. 15, 1982, 96 Stat. 1507, 1508; Pub. L. 97–457, § 16, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 706, 710(b)(2), (3), 715, Aug. 9, 1989, 103 Stat. 412, 416, 418, 421; Pub. L. 106–102, title VI, § 608, Nov. 12, 1999, 113 Stat. 1456; Pub. L. 106–569, title XII, § 1224, Dec. 27, 2000, 114 Stat. 3036; Pub. L. 110–289, div. A, title I, § 1110(b), title II, § 1204(4), (10), July 30, 2008, 122 Stat. 2676, 2786.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (a)(3)(B), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to chapter 46 (§ 4501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
+The Federal Housing Enterprises Financial Safety and Soundness Act of 1992, referred to in subsec. (a)(3)(B), is title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to chapter 46 (§ 4501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 4501 of this title and Tables.
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1204(10), substituted “the Director” for “the Finance Board” wherever appearing in subsecs. (a)(1), (3)(B), (4) to (6), (b)(1)(C), (2), (c)(1), (4)(A), (C), (6), (d)(1), (f), and (g).
+2008—Pub. L. 110–289, § 1204(10), substituted “the Director” for “the Finance Board” wherever appearing in subsecs. (a)(1), (3)(B), (4) to (6), (b)(1)(C), (2), (c)(1), (4)(A), (C), (6), (d)(1), (f), and (g).
 
-Subsec. (a)(3)(A). Pub. L. 110–289, § 1110(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Each Federal home loan bank shall maintain permanent capital in an amount that is sufficient, as determined in accordance with the regulations of the Finance Board, to meet—
+Subsec. (a)(3)(A). Pub. L. 110–289, § 1110(b)(1), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “Each Federal home loan bank shall maintain permanent capital in an amount that is sufficient, as determined in accordance with the regulations of the Finance Board, to meet—
 
 “(i) the credit risk to which the Federal home loan bank is subject; and
 
 “(ii) the market risk, including interest rate risk, to which the Federal home loan bank is subject, based on a stress test established by the Finance Board that rigorously tests for changes in market variables, including changes in interest rates, rate volatility, and changes in the shape of the yield curve.”
 
-Subsec. (a)(3)(B). Pub. L. 110–289, § 1110(b)(2), substituted “(A)” for “(A)(ii)”.
+Subsec. (a)(3)(B). Pub. L. 110–289, § 1110(b)(2), substituted “(A)” for “(A)(ii)”.
 
-Subsec. (b)(1). Pub. L. 110–289, § 1204(4)(A), (10), substituted “the Director” for “the Finance Board” and “approval by the Director” for “Finance Board approval” in introductory provisions.
+Subsec. (b)(1). Pub. L. 110–289, § 1204(4)(A), (10), substituted “the Director” for “the Finance Board” and “approval by the Director” for “Finance Board approval” in introductory provisions.
 
-Subsecs. (c)(4)(B), (d)(2)(A). Pub. L. 110–289, § 1204(4)(B), substituted “regulations of the Director” for “Finance Board regulations”.
+Subsecs. (c)(4)(B), (d)(2)(A). Pub. L. 110–289, § 1204(4)(B), substituted “regulations of the Director” for “Finance Board regulations”.
 
 2000—Subsec. (a)(1). Pub. L. 106–569 substituted “18 months” for “1 year” in introductory provisions.
 
 1999—Pub. L. 106–102 amended section generally, substituting present provisions for provisions authorizing banks to issue capital stock and providing for minimum subscriptions, retirement of oversubscriptions, cancellation of oversubscriptions, aggregate unpaid loan principal, reports and information, payments for stock, transfer or hypothecation of stock, withdrawal or removal of members, surrender and cancellation of stock, prepayment penalties, disposal of stock, dividends, and acquisition of membership after expiration of period of withdrawal.
 
-1989—Subsec. (a). Pub. L. 101–73, §§ 701(b)(1), (3)(A), 706(1), redesignated subsec. (b) as (a), substituted “Board” for “board”, and struck out former subsec. (a) which related to minimum amount of capital stock and subscription books.
+1989—Subsec. (a). Pub. L. 101–73, §§ 701(b)(1), (3)(A), 706(1), redesignated subsec. (b) as (a), substituted “Board” for “board”, and struck out former subsec. (a) which related to minimum amount of capital stock and subscription books.
 
-Subsec. (b). Pub. L. 101–73, §§ 701(b)(1), (3)(A), 706(1), redesignated subsec. (c) as (b) and substituted “Board may” for “Federal Home Loan Bank Board may” in par. (1), and “The Board” for “The Federal Home Loan Bank Board” in par. (5). Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 101–73, §§ 701(b)(1), (3)(A), 706(1), redesignated subsec. (c) as (b) and substituted “Board may” for “Federal Home Loan Bank Board may” in par. (1), and “The Board” for “The Federal Home Loan Bank Board” in par. (5). Former subsec. (b) redesignated (a).
 
-Subsecs. (c), (d). Pub. L. 101–73, § 706(1), redesignated subsecs. (d) and (h) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
+Subsecs. (c), (d). Pub. L. 101–73, § 706(1), redesignated subsecs. (d) and (h) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
 
-Subsec. (e). Pub. L. 101–73, § 710(b)(3), which directed amendment of subsec. (e) by striking out “or deprive any nonmember borrower of the privilege of further advances,” after “remove any member from membership,” was executed by striking “or deprive any nonmember borrower of the privilege of obtaining further advances,” as the probable intent of Congress.
+Subsec. (e). Pub. L. 101–73, § 710(b)(3), which directed amendment of subsec. (e) by striking out “or deprive any nonmember borrower of the privilege of further advances,” after “remove any member from membership,” was executed by striking “or deprive any nonmember borrower of the privilege of obtaining further advances,” as the probable intent of Congress.
 
-Pub. L. 101–73, § 710(b)(2), struck out “or nonmember borrower” after “such member” wherever appearing.
+Pub. L. 101–73, § 710(b)(2), struck out “or nonmember borrower” after “such member” wherever appearing.
 
-Pub. L. 101–73, § 706(2), substituted “If any member’s membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the Federal Home Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank), and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment.” for “In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment.”
+Pub. L. 101–73, § 706(2), substituted “If any member’s membership in a Federal Home Loan Bank is terminated, the indebtedness of such member to the Federal Home Loan Bank shall be liquidated in an orderly manner (as determined by the Federal Home Loan Bank), and upon completion of such liquidation, the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled. Any such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties or other fees applicable to such prepayment.” for “In any such case, the indebtedness of such member or nonmember borrower to the Federal Home Loan Bank shall be liquidated, and the capital stock in the Federal Home Loan Bank owned by such member shall be surrendered and canceled, except that in the case of a voluntary withdrawal, such liquidation shall be deemed a prepayment of any such indebtedness, and shall be subject to any penalties applicable to such prepayment.”
 
-Pub. L. 101–73, §§ 701(b)(1), (3)(A), 706(1), redesignated subsec. (i) as (e), substituted “Board” for “board” wherever appearing, and struck out former subsec. (e) which related to loans to institutions not authorized to subscribe to stock.
+Pub. L. 101–73, §§ 701(b)(1), (3)(A), 706(1), redesignated subsec. (i) as (e), substituted “Board” for “board” wherever appearing, and struck out former subsec. (e) which related to loans to institutions not authorized to subscribe to stock.
 
-Subsec. (f). Pub. L. 101–73, §§ 701(b)(1), (3)(A), 706(1), redesignated subsec. (j) as (f), substituted “Board” for “board”, and struck out former subsec. (f) which related to subscription by United States, maximum amounts, and payments.
+Subsec. (f). Pub. L. 101–73, §§ 701(b)(1), (3)(A), 706(1), redesignated subsec. (j) as (f), substituted “Board” for “board”, and struck out former subsec. (f) which related to subscription by United States, maximum amounts, and payments.
 
-Subsec. (g). Pub. L. 101–73, § 706(1), redesignated subsec. (k) as (g) and struck out former subsec. (g) which related to retirement of stock of United States.
+Subsec. (g). Pub. L. 101–73, § 706(1), redesignated subsec. (k) as (g) and struck out former subsec. (g) which related to retirement of stock of United States.
 
-Subsec. (h). Pub. L. 101–73, § 715, substituted “10” for “five”.
+Subsec. (h). Pub. L. 101–73, § 715, substituted “10” for “five”.
 
-Pub. L. 101–73, § 706(3), substituted “charter as a Federal savings association (as defined in section 1813 of this title)” for “charter from the Federal Home Loan Bank Board”.
+Pub. L. 101–73, § 706(3), substituted “charter as a Federal savings association (as defined in section 1813 of this title)” for “charter from the Federal Home Loan Bank Board”.
 
-Pub. L. 101–73, § 706(1), redesignated subsec. (m) as (h). Former subsec. (h) redesignated (d).
+Pub. L. 101–73, § 706(1), redesignated subsec. (m) as (h). Former subsec. (h) redesignated (d).
 
-Subsecs. (i) to (k). Pub. L. 101–73, § 706(1), redesignated former subsecs. (i) to (k) as (e) to (g), respectively.
+Subsecs. (i) to (k). Pub. L. 101–73, § 706(1), redesignated former subsecs. (i) to (k) as (e) to (g), respectively.
 
-Subsec. (m). Pub. L. 101–73, § 706(1), redesignated former subsec. (m) as (h).
+Subsec. (m). Pub. L. 101–73, § 706(1), redesignated former subsec. (m) as (h).
 
 1983—Subsec. (m). Pub. L. 97–457 substituted “banks or in connection with obtaining a charter from the Federal Home Loan Bank Board” for “Banks” after “between”.
 
-1982—Subsec. (c)(2). Pub. L. 97–320, § 353, struck out cl. (i) limitations which had prohibited members from reducing stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction was made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board; and reenacted cl. (ii) limitations as par. (2), substituting “the Board defining such term” for “said Board defining said term”.
+1982—Subsec. (c)(2). Pub. L. 97–320, § 353, struck out cl. (i) limitations which had prohibited members from reducing stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction was made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board; and reenacted cl. (ii) limitations as par. (2), substituting “the Board defining such term” for “said Board defining said term”.
 
-Subsec. (i). Pub. L. 97–320, § 355(a), provided for treatment of a liquidation of indebtedness, in the case of a voluntary withdrawal of an institution from membership, as a prepayment of the indebtedness, subject to applicable prepayment penalties.
+Subsec. (i). Pub. L. 97–320, § 355(a), provided for treatment of a liquidation of indebtedness, in the case of a voluntary withdrawal of an institution from membership, as a prepayment of the indebtedness, subject to applicable prepayment penalties.
 
-Subsec. (m). Pub. L. 97–320, § 355(b), added subsec. (m).
+Subsec. (m). Pub. L. 97–320, § 355(b), added subsec. (m).
 
 1979—Subsec. (c)(2)(ii). Pub. L. 96–153 substituted “twenty” for “twelve”.
 
-1961—Subsec. (c). Pub. L. 87–210, § 1, amended subsection generally, and among other changes, authorized the bank to adjust at the end of each calendar year, under Board regulations, the stock held by each member, to retire stock of members in excess of required amounts, prohibited members to reduce stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction is made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board, provided that no bank shall act so as to cause the aggregate outstanding advances, within the meaning of regulations of the Board defining said term, to exceed 12 times the amounts paid in by members for outstanding capital stock held by such members, defined term “aggregate unpaid loan principal” and authorized the board to require members to submit reports and information for purposes of this subsection.
+1961—Subsec. (c). Pub. L. 87–210, § 1, amended subsection generally, and among other changes, authorized the bank to adjust at the end of each calendar year, under Board regulations, the stock held by each member, to retire stock of members in excess of required amounts, prohibited members to reduce stock to less than the amount held on Sept. 8, 1961, except for a reduction at any time to not less than 2 percent of its aggregate unpaid loan principal as of the beginning of the calendar year in which reduction is made, but not less than $500, or if reduced to less than 2 percent, such reduction to be in the discretion of the Board, provided that no bank shall act so as to cause the aggregate outstanding advances, within the meaning of regulations of the Board defining said term, to exceed 12 times the amounts paid in by members for outstanding capital stock held by such members, defined term “aggregate unpaid loan principal” and authorized the board to require members to submit reports and information for purposes of this subsection.
 
-Subsec. (*l*). Pub. L. 87–210, § 2, repealed subsec. (*l*) which required members to acquire, hold and maintain their stock holding in an amount equal to at least 2 per centum of the aggregate of the unpaid principal of such member’s home mortgage loans, home-purchase contracts, and similar obligations, but not less than $500, and provided for the retirement of Government-owned stock.
+Subsec. (*l*). Pub. L. 87–210, § 2, repealed subsec. (*l*) which required members to acquire, hold and maintain their stock holding in an amount equal to at least 2 per centum of the aggregate of the unpaid principal of such member’s home mortgage loans, home-purchase contracts, and similar obligations, but not less than $500, and provided for the retirement of Government-owned stock.
 
 1955—Subsec. (i). Act Aug. 11, 1955, provided that a Federal savings and loan association may not withdraw voluntarily, inserted proviso clause in item (ii), and inserted provisions authorizing removal of a member institution which has a management or home-financing policy of a character inconsistent with sound and economical home financing or with the purposes of this chapter.
 
@@ -609,9 +609,9 @@ Subsec. (*l*). Pub. L. 87–210, § 2, repealed subsec. (*l*) which required m
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–210, § 7, Sept. 8, 1961, 75 Stat. 485, provided that: “This Act [amending this section and section 1727 of this title and enacting provisions set out as a note under section 1727 of this title] shall become effective on January 1 next following the date of its enactment [Sept. 8, 1961].”
+Pub. L. 87–210, § 7, Sept. 8, 1961, 75 Stat. 485, provided that: “This Act [amending this section and section 1727 of this title and enacting provisions set out as a note under section 1727 of this title] shall become effective on January 1 next following the date of its enactment [Sept. 8, 1961].”
 
-## § 1426a. Exclusion from certain requirements
+## § 1426a. Exclusion from certain requirements
 
 **(a) In general** The Federal Home Loan Banks shall be exempt from compliance with—
 
@@ -683,19 +683,19 @@ The Commission shall promulgate such rules and regulations as may be necessary o
 
 **(3)** the term “securities laws” has the same meaning as in section 78c(a)(47) of title 15.
 
-(Pub. L. 110–289, div. A, title II, § 1208, July 30, 2008, 122 Stat. 2788.)
+(Pub. L. 110–289, div. A, title II, § 1208, July 30, 2008, 122 Stat. 2788.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trust Indenture Act of 1939, referred to in subsec. (a)(4), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
+The Trust Indenture Act of 1939, referred to in subsec. (a)(4), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
 
 **Codification**
 
 Section was enacted as part of the Housing and Economic Recovery Act of 2008, and also as part of the Federal Housing Finance Regulatory Reform Act of 2008, and not as part of the Federal Home Loan Bank Act which comprises this chapter.
 
-## § 1427. Directors
+## § 1427. Directors
 
 **(a) Number; election; qualifications; conflicts of interest**
 
@@ -773,9 +773,9 @@ The term of each director shall be 4 years. The board of directors of each Feder
 
 **(e) Continuation of existing terms; directorship for the Commonwealth of Puerto Rico**
 
-Each term, outstanding on the effective date of the amendment to this section abolishing the division of elective directors into classes, of an elective or appointive directorship then existing shall continue until its original date of expiration, and any elective or appointive directorship in existence on said date shall continue to exist to the same extent as if it had been established by or under this section on or after said date. The Director in its 1
+Each term, outstanding on the effective date of the amendment to this section abolishing the division of elective directors into classes, of an elective or appointive directorship then existing shall continue until its original date of expiration, and any elective or appointive directorship in existence on said date shall continue to exist to the same extent as if it had been established by or under this section on or after said date. The Director in its 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 discretion may shorten the next succeeding term of any such elective directorship to one year, and may fill such term by appointment. The term “States” or “State” as used in this section shall mean the States of the Union, the District of Columbia, and the Commonwealth of Puerto Rico. The Director, by regulation or otherwise, may add an additional elective directorship to the board of directors of the bank of any district in which the Commonwealth of Puerto Rico is included at the time such directorship is added and which does not then include five or more States, may fix the commencement and the duration, which shall not exceed two years, of the initial term of any directorship so added, and may fill any such initial term by appointment: *Provided*, That (1) any directorship added pursuant to the foregoing provisions of this sentence shall be designated by the Director, pursuant to subsection (b) of this section, as representing the members located in the Commonwealth of Puerto Rico, (2) such designation of such directorship shall not be changed, and (3) such directorship shall automatically cease to exist if and when the Commonwealth of Puerto Rico ceases to be included in such district.
 
@@ -829,7 +829,7 @@ Such board of directors shall administer the affairs of the bank fairly and impa
 
 The board of directors of each Bank shall determine the terms and conditions under which such Bank may indemnify its directors, officers, employees or agents.
 
-**(l) 2 [footnote: 2 So in original. Two subsecs. (*l*) have been enacted.] Withholding of compensation**
+**(l) 2 [footnote: 2 So in original. Two subsecs. (*l*) have been enacted.] Withholding of compensation**
 
 Notwithstanding any other provision of this section, a Federal Home Loan Bank shall not transfer, disburse, or pay compensation to any executive officer, or enter into an agreement with such executive officer, without the approval of the Director, for matters being reviewed under section 4518 of this title.
 
@@ -837,7 +837,7 @@ Notwithstanding any other provision of this section, a Federal Home Loan Bank sh
 
 Any member of the board of directors of a Bank elected or appointed in accordance with this section prior to July 30, 2008, may continue to serve as a member of that board of directors for the remainder of the existing term of service.
 
-(July 22, 1932, ch. 522, § 7, 47 Stat. 730; May 28, 1935, ch. 150, § 3, 49 Stat. 294; Aug. 11, 1955, ch. 783, title I, § 109(a)(2), 69 Stat. 640; Pub. L. 86–349, §§ 1, 2, Sept. 22, 1959, 73 Stat. 625; Pub. L. 87–211, § 1, Sept. 8, 1961, 75 Stat. 486; Pub. L. 87–676, Sept. 19, 1962, 76 Stat. 559; Pub. L. 93–541, § 3, Dec. 26, 1974, 88 Stat. 1739; Pub. L. 101–73, title VII, §§ 707, 710(b)(4), Aug. 9, 1989, 103 Stat. 417, 418; Pub. L. 106–102, title VI, § 606(a), (b), Nov. 12, 1999, 113 Stat. 1452, 1453; Pub. L. 110–289, div. A, title I, § 1113(b)(3), title II, §§ 1202, 1204(8)–(10), July 30, 2008, 122 Stat. 2678, 2783, 2786.)
+(July 22, 1932, ch. 522, § 7, 47 Stat. 730; May 28, 1935, ch. 150, § 3, 49 Stat. 294; Aug. 11, 1955, ch. 783, title I, § 109(a)(2), 69 Stat. 640; Pub. L. 86–349, §§ 1, 2, Sept. 22, 1959, 73 Stat. 625; Pub. L. 87–211, § 1, Sept. 8, 1961, 75 Stat. 486; Pub. L. 87–676, Sept. 19, 1962, 76 Stat. 559; Pub. L. 93–541, § 3, Dec. 26, 1974, 88 Stat. 1739; Pub. L. 101–73, title VII, §§ 707, 710(b)(4), Aug. 9, 1989, 103 Stat. 417, 418; Pub. L. 106–102, title VI, § 606(a), (b), Nov. 12, 1999, 113 Stat. 1452, 1453; Pub. L. 110–289, div. A, title I, § 1113(b)(3), title II, §§ 1202, 1204(8)–(10), July 30, 2008, 122 Stat. 2678, 2783, 2786.)
 
 **Editorial Notes**
 
@@ -847,63 +847,63 @@ The effective date of the amendment to this section, referred to in subsec. (e),
 
 **Codification**
 
-Section 1202(2) of Pub. L. 110–289, which directed amendment of this section by substituting “member” for “elective” wherever appearing other than in subsecs. (d), (e), and (f), was executed by making the substitution in subsec. (h) but not in subsecs. (b) and (c) to reflect the probable intent of Congress and subsequent amendment by Pub. L. 110–289, § 1202(3)(A), (4)(A). See 2008 Amendment notes below.
+Section 1202(2) of Pub. L. 110–289, which directed amendment of this section by substituting “member” for “elective” wherever appearing other than in subsecs. (d), (e), and (f), was executed by making the substitution in subsec. (h) but not in subsecs. (b) and (c) to reflect the probable intent of Congress and subsequent amendment by Pub. L. 110–289, § 1202(3)(A), (4)(A). See 2008 Amendment notes below.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1202(1), added subsec. (a) and struck out former subsec. (a) which related to number, appointment and election, qualifications, and conflicts of interest of Federal Home Loan Bank directors.
+2008—Subsec. (a). Pub. L. 110–289, § 1202(1), added subsec. (a) and struck out former subsec. (a) which related to number, appointment and election, qualifications, and conflicts of interest of Federal Home Loan Bank directors.
 
-Subsec. (b). Pub. L. 110–289, § 1202(3), designated existing provisions as par. (1), inserted subsec. (b) and par. (1) headings, substituted “Each member directorship” for “Each elective directorship”, and added par. (2).
+Subsec. (b). Pub. L. 110–289, § 1202(3), designated existing provisions as par. (1), inserted subsec. (b) and par. (1) headings, substituted “Each member directorship” for “Each elective directorship”, and added par. (2).
 
-Pub. L. 110–289, § 1202(2), which directed substitution of “member” for “elective” wherever appearing, was not executed in subsec. (b) because of subsequent amendment by Pub. L. 110–289, § 1202(3)(A). See Amendment and Codification notes above.
+Pub. L. 110–289, § 1202(2), which directed substitution of “member” for “elective” wherever appearing, was not executed in subsec. (b) because of subsequent amendment by Pub. L. 110–289, § 1202(3)(A). See Amendment and Codification notes above.
 
-Subsec. (b)(1). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” in two places.
+Subsec. (b)(1). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” in two places.
 
-Subsec. (c). Pub. L. 110–289, § 1204(8), (9), substituted “the Director” for “the Board” wherever appearing and “The Director” for “The Board”.
+Subsec. (c). Pub. L. 110–289, § 1204(8), (9), substituted “the Director” for “the Board” wherever appearing and “The Director” for “The Board”.
 
-Pub. L. 110–289, § 1202(4)(B), in second sentence, inserted “(A) except as provided in clause (B) of this sentence,” before “if at any time” and “, and (B) clause (A) of this sentence shall not apply to the directorships of any Federal Home Loan Bank resulting from the merger of any 2 or more such Banks” before period at end.
+Pub. L. 110–289, § 1202(4)(B), in second sentence, inserted “(A) except as provided in clause (B) of this sentence,” before “if at any time” and “, and (B) clause (A) of this sentence shall not apply to the directorships of any Federal Home Loan Bank resulting from the merger of any 2 or more such Banks” before period at end.
 
-Pub. L. 110–289, § 1202(4)(A), substituted “member” for “elective” wherever appearing before “directorship” or “directorships”, except second place appearing in second sentence and each place appearing in fifth sentence.
+Pub. L. 110–289, § 1202(4)(A), substituted “member” for “elective” wherever appearing before “directorship” or “directorships”, except second place appearing in second sentence and each place appearing in fifth sentence.
 
-Pub. L. 110–289, § 1202(2), which directed substitution of “member” for “elective” wherever appearing, was not executed in subsec. (c) because of subsequent amendment by Pub. L. 110–289, § 1202(4)(A). See Amendment and Codification notes above.
+Pub. L. 110–289, § 1202(2), which directed substitution of “member” for “elective” wherever appearing, was not executed in subsec. (c) because of subsequent amendment by Pub. L. 110–289, § 1202(4)(A). See Amendment and Codification notes above.
 
-Subsec. (d). Pub. L. 110–289, § 1204(9), (10), substituted “the Director” for “the Finance Board” and “The Director” for “The Board’.
+Subsec. (d). Pub. L. 110–289, § 1204(9), (10), substituted “the Director” for “the Finance Board” and “The Director” for “The Board’.
 
-Pub. L. 110–289, § 1202(5), in first sentence, struck out “, whether elected or appointed,” after “each director” and substituted “4 years” for “3 years”, in second sentence, struck out “or appointed” after “first elected” and substituted “July 30, 2008” for “November 12, 1999” and “¼” for “⅓”, and in third sentence, substituted “a” for “an elective” after “full terms as” and after “for election to” and struck out “in any elective directorship or elective directorships” after “Federal home loan bank”.
+Pub. L. 110–289, § 1202(5), in first sentence, struck out “, whether elected or appointed,” after “each director” and substituted “4 years” for “3 years”, in second sentence, struck out “or appointed” after “first elected” and substituted “July 30, 2008” for “November 12, 1999” and “¼” for “⅓”, and in third sentence, substituted “a” for “an elective” after “full terms as” and after “for election to” and struck out “in any elective directorship or elective directorships” after “Federal home loan bank”.
 
-Subsec. (e). Pub. L. 110–289, § 1204(8), (9), substituted “The Director” for “The Board” in two places and “the Director” for “the Board”.
+Subsec. (e). Pub. L. 110–289, § 1204(8), (9), substituted “The Director” for “The Board” in two places and “the Director” for “the Board”.
 
-Subsec. (f)(1). Pub. L. 110–289, § 1202(6)(B), struck out “appointed or” before “elected” in two places.
+Subsec. (f)(1). Pub. L. 110–289, § 1202(6)(B), struck out “appointed or” before “elected” in two places.
 
-Subsec. (f)(2), (3). Pub. L. 110–289, § 1202(6)(A), (C), redesignated par. (3) as (2), substituted “Election process” for “Elected bank directors” in heading, struck out “elective” after “in any” and after “If any” in text, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “In the event of a vacancy in any appointive Bank directorship, such vacancy shall be filled through appointment by the Board for the unexpired term. If any appointive Bank director shall cease to have the qualifications set forth in subsection (a) of this section, the office held by such person shall immediately become vacant, but such person may continue to act as a Bank director until his or her successor assumes the vacated office or the term of such office expires, whichever occurs first.”
+Subsec. (f)(2), (3). Pub. L. 110–289, § 1202(6)(A), (C), redesignated par. (3) as (2), substituted “Election process” for “Elected bank directors” in heading, struck out “elective” after “in any” and after “If any” in text, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “In the event of a vacancy in any appointive Bank directorship, such vacancy shall be filled through appointment by the Board for the unexpired term. If any appointive Bank director shall cease to have the qualifications set forth in subsection (a) of this section, the office held by such person shall immediately become vacant, but such person may continue to act as a Bank director until his or her successor assumes the vacated office or the term of such office expires, whichever occurs first.”
 
-Subsec. (h). Pub. L. 110–290, § 1204(8), substituted “the Director” for “the Board” in two places.
+Subsec. (h). Pub. L. 110–290, § 1204(8), substituted “the Director” for “the Board” in two places.
 
-Pub. L. 110–289, § 1202(2), substituted “member” for “elective”.
+Pub. L. 110–289, § 1202(2), substituted “member” for “elective”.
 
-Subsec. (i). Pub. L. 110–289, § 1202(7), substituted “Each” for “Subject to paragraph (2), each” in par. (1), added par. (2), and struck out former par. (2) which related to limitations on compensation of members of the board of directors of a Federal home loan bank.
+Subsec. (i). Pub. L. 110–289, § 1202(7), substituted “Each” for “Subject to paragraph (2), each” in par. (1), added par. (2), and struck out former par. (2) which related to limitations on compensation of members of the board of directors of a Federal home loan bank.
 
-Subsec. (*l*). Pub. L. 110–289, § 1202(8), added subsec. (*l*) relating to transition rule.
+Subsec. (*l*). Pub. L. 110–289, § 1202(8), added subsec. (*l*) relating to transition rule.
 
-Pub. L. 110–289, § 1113(b), added subsec. (*l*) relating to withholding of compensation.
+Pub. L. 110–289, § 1113(b), added subsec. (*l*) relating to withholding of compensation.
 
-1999—Subsec. (a). Pub. L. 106–102, § 606(a)(1), substituted “, and each of whom shall be either a bona fide resident of the district in which such bank is located or an officer or director of a member of such bank located in that district” for “and bona fide residents of the district in which such bank is located”.
+1999—Subsec. (a). Pub. L. 106–102, § 606(a)(1), substituted “, and each of whom shall be either a bona fide resident of the district in which such bank is located or an officer or director of a member of such bank located in that district” for “and bona fide residents of the district in which such bank is located”.
 
-Subsec. (d). Pub. L. 106–102, § 606(a)(2), substituted “The term of each director, whether elected or appointed, shall be 3 years. The board of directors of each Federal home loan bank and the Finance Board shall adjust the terms of members first elected or appointed after November 12, 1999, to ensure that the terms of the members of the board of directors are staggered with approximately ⅓ of the terms expiring each year.” for “The term of each elective directorship shall be two years and the term of each appointive directorship shall be four years.”
+Subsec. (d). Pub. L. 106–102, § 606(a)(2), substituted “The term of each director, whether elected or appointed, shall be 3 years. The board of directors of each Federal home loan bank and the Finance Board shall adjust the terms of members first elected or appointed after November 12, 1999, to ensure that the terms of the members of the board of directors are staggered with approximately ⅓ of the terms expiring each year.” for “The term of each elective directorship shall be two years and the term of each appointive directorship shall be four years.”
 
-Subsec. (g). Pub. L. 106–102, § 606(a)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “The Board shall designate one of the directors of each bank to be chairman, and one to be vice chairman, of the board of directors of such bank.”
+Subsec. (g). Pub. L. 106–102, § 606(a)(3), added subsec. (g) and struck out former subsec. (g) which read as follows: “The Board shall designate one of the directors of each bank to be chairman, and one to be vice chairman, of the board of directors of such bank.”
 
-Subsec. (i). Pub. L. 106–102, § 606(b), inserted heading, designated existing provisions as par. (1), inserted heading, substituted “Subject to paragraph (2), each bank may pay its directors” for “Each bank may pay its directors”, and added par. (2).
+Subsec. (i). Pub. L. 106–102, § 606(b), inserted heading, designated existing provisions as par. (1), inserted heading, substituted “Subject to paragraph (2), each bank may pay its directors” for “Each bank may pay its directors”, and added par. (2).
 
-1989—Subsec. (a). Pub. L. 101–73, § 707(1), inserted provisions relating to requirements for at least 2 of the directors and provisions respecting conflicts of interests, and substituted provisions relating to appointment under section 1422a of this title for provisions relating to appointment under section 1437(b) of this title.
+1989—Subsec. (a). Pub. L. 101–73, § 707(1), inserted provisions relating to requirements for at least 2 of the directors and provisions respecting conflicts of interests, and substituted provisions relating to appointment under section 1422a of this title for provisions relating to appointment under section 1437(b) of this title.
 
-Subsec. (b). Pub. L. 101–73, § 707(2), inserted after first sentence “No person who is an officer or director of a member that fails to meet any applicable capital requirement is eligible to hold the office of Federal Home Loan Bank director.”
+Subsec. (b). Pub. L. 101–73, § 707(2), inserted after first sentence “No person who is an officer or director of a member that fails to meet any applicable capital requirement is eligible to hold the office of Federal Home Loan Bank director.”
 
-Subsec. (f). Pub. L. 101–73, § 707(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In the event of a vacancy in any appointive or elective directorship, such vacancy shall be filled through appointment by the Board for the unexpired term: *Provided*, That if any director shall cease to have the qualifications set forth in subsection (a) of this section, or if any elective director shall cease to have any qualification set forth in this section, the office held by such director shall immediately become vacant, but such director may continue to act as such director until his successor assumes the vacated office or the term of such office expires, whichever shall first occur.”
+Subsec. (f). Pub. L. 101–73, § 707(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In the event of a vacancy in any appointive or elective directorship, such vacancy shall be filled through appointment by the Board for the unexpired term: *Provided*, That if any director shall cease to have the qualifications set forth in subsection (a) of this section, or if any elective director shall cease to have any qualification set forth in this section, the office held by such director shall immediately become vacant, but such director may continue to act as such director until his successor assumes the vacated office or the term of such office expires, whichever shall first occur.”
 
-Subsec. (j). Pub. L. 101–73, § 710(b)(4), struck out “or nonmember borrower” after “against any member”.
+Subsec. (j). Pub. L. 101–73, § 710(b)(4), struck out “or nonmember borrower” after “against any member”.
 
-Subsec. (k). Pub. L. 101–73, § 707(4), added subsec. (k).
+Subsec. (k). Pub. L. 101–73, § 707(4), added subsec. (k).
 
 1974—Subsec. (a). Pub. L. 93–541 increased number of directors from twelve to fourteen, increased number of appointive directors from four to six, and in proviso relating to districts including five or more States, substituted provisions authorizing increase of appointive directors to a number not exceeding three-fourths the number of elective directors for provisions authorizing increase of appointive directors to a number not exceeding one-half the number of elective directors.
 
@@ -925,9 +925,9 @@ Subsec. (g). Pub. L. 87–211 reenacted subsec. (g) without change.
 
 Subsec. (h). Pub. L. 87–211 authorized Board, prior to filing of the certificate mentioned in section 1432 of this title, to appoint directors and required Board to designate appointees as either appointive or elective directors, and struck out provisions which permitted directors appointed under this subsection to serve until expiration of the calendar year during which they took office.
 
-1959—Subsec. (a). Pub. L. 86–349, § 1, authorized increase of up to 13 in number of elective directors of bank having district which includes five or more States.
+1959—Subsec. (a). Pub. L. 86–349, § 1, authorized increase of up to 13 in number of elective directors of bank having district which includes five or more States.
 
-Subsec. (b). Pub. L. 86–349, § 2, authorized increase in number of appointive directors of up to one-half number of elective directors in district in which number of elective directors were increased pursuant to subsec. (a), and provided for expiration of term of initial incumbent of any office so established.
+Subsec. (b). Pub. L. 86–349, § 2, authorized increase in number of appointive directors of up to one-half number of elective directors in district in which number of elective directors were increased pursuant to subsec. (a), and provided for expiration of term of initial incumbent of any office so established.
 
 1955—Subsec. (a). Act Aug. 11, 1955, authorized an increase in number of elective directors of any Federal Home Loan Bank having a district which includes five or more States.
 
@@ -937,17 +937,17 @@ Subsec. (b). Pub. L. 86–349, § 2, authorized increase in number of appointi
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–211, § 2, Sept. 8, 1961, 75 Stat. 488, provided that: “The amendment made by this Act [amending this section] shall take effect on the second day of the first calendar year which begins after the date of enactment of this Act [Sept. 8, 1961].”
+Pub. L. 87–211, § 2, Sept. 8, 1961, 75 Stat. 488, provided that: “The amendment made by this Act [amending this section] shall take effect on the second day of the first calendar year which begins after the date of enactment of this Act [Sept. 8, 1961].”
 
 **Effective Date of 1935 Amendment**
 
-Act May 28, 1935, ch. 150, § 3, 49 Stat. 294, provided that the amendment made by that section is effective Jan. 1, 1936.
+Act May 28, 1935, ch. 150, § 3, 49 Stat. 294, provided that the amendment made by that section is effective Jan. 1, 1936.
 
-## § 1428. Examination of State laws, regulations, and procedures; studies of values, etc.
+## § 1428. Examination of State laws, regulations, and procedures; studies of values, etc.
 
 The Director shall cause to be made from time to time examinations of the laws of the various States of the United States and the regulations and procedure thereunder governing conditions under which institutions of the kinds which may become members or nonmember borrowers under this chapter are permitted to be formed or to do business, or relating to the conveying or recording of land titles, or to homestead and other rights, or to the enforcement of the rights of holders of mortgages on lands securing loans, or otherwise. If any such examination shall indicate, in the opinion of the Director, that under the laws of any such State or the regulations or procedure thereunder there would be inadequate protection to a Federal Home Loan Bank in making or collecting advances under this chapter, the Director may withhold or limit the operation of any Federal Home Loan Bank in such State until satisfactory conditions of law, regulation, or procedure shall be established. In any State where State examination of members or nonmember borrowers is deemed inadequate for the purposes of the Federal Home Loan Banks, the Director shall establish such examination, all or part of the cost of which may be considered as part of the cost of making advances in such State. The banks and/or the Director may make studies of trends of home and other property values, methods of appraisals, and other subjects such as they may deem useful for the general guidance of their policies and operations and those of institutions authorized to secure advances.
 
-(July 22, 1932, ch. 522, § 8, 47 Stat. 731; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, § 1204(8), (9), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 8, 47 Stat. 731; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, § 1204(8), (9), July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
@@ -957,27 +957,27 @@ The Director shall cause to be made from time to time examinations of the laws o
 
 1989—Pub. L. 101–73 substituted “Board” for “board” wherever appearing.
 
-## § 1428a. Repealed. Pub. L. 101–73, title VII, § 718, Aug. 9, 1989, 103 Stat. 422
+## § 1428a. Repealed. Pub. L. 101–73, title VII, § 718, Aug. 9, 1989, 103 Stat. 422
 
-Section, act July 22, 1932, ch. 522, § 8a, as added May 28, 1935, ch. 150, § 4, 49 Stat. 294; amended 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Dec. 26, 1974, Pub. L. 93–541, § 6, 88 Stat. 1739; Oct. 15, 1982, Pub. L. 97–320, title III, § 354, 96 Stat. 1508, established Federal Savings and Loan Advisory Council.
+Section, act July 22, 1932, ch. 522, § 8a, as added May 28, 1935, ch. 150, § 4, 49 Stat. 294; amended 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Dec. 26, 1974, Pub. L. 93–541, § 6, 88 Stat. 1739; Oct. 15, 1982, Pub. L. 97–320, title III, § 354, 96 Stat. 1508, established Federal Savings and Loan Advisory Council.
 
-## § 1429. Eligibility to secure advances
+## § 1429. Eligibility to secure advances
 
 Any member of a Federal Home Loan Bank shall be entitled to apply in writing for advances. Such application shall be in such form as shall be required by the Federal Home Loan Bank. Such Federal Home Loan Bank may at its discretion deny any such application, or may grant it on such conditions as the Federal Home Loan Bank may prescribe.
 
-(July 22, 1932, ch. 522, § 9, 47 Stat. 731; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 710(a), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 106–102, title VI, § 606(f)(1), Nov. 12, 1999, 113 Stat. 1455.)
+(July 22, 1932, ch. 522, § 9, 47 Stat. 731; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 710(a), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 106–102, title VI, § 606(f)(1), Nov. 12, 1999, 113 Stat. 1455.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1999—Pub. L. 106–102 struck out “with the approval of the Board” after “Federal Home Loan Bank” in second sentence and struck out “, subject to the approval of the Board,” after “deny any such application, or” in third sentence.
+1999—Pub. L. 106–102 struck out “with the approval of the Board” after “Federal Home Loan Bank” in second sentence and struck out “, subject to the approval of the Board,” after “deny any such application, or” in third sentence.
 
-1989—Pub. L. 101–73, § 710(a), struck out “or nonmember borrower” after “Any member”.
+1989—Pub. L. 101–73, § 710(a), struck out “or nonmember borrower” after “Any member”.
 
-Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
-## § 1430. Advances to members
+## § 1430. Advances to members
 
 **(a) In general**
 
@@ -1033,7 +1033,7 @@ The institution applying for an advance shall enter into a primary and unconditi
 
 **(2)** are held by actual bona fide purchasers for value or by actual secured parties that are secured by actual perfected security interests.
 
-**(g) 1 [footnote: 1 So in original. No subsec. (f) has been enacted.] Community support requirements**
+**(g) 1 [footnote: 1 So in original. No subsec. (f) has been enacted.] Community support requirements**
 
 **(1) In general**
 
@@ -1077,9 +1077,9 @@ Each Bank shall establish a program to provide funding for members to undertake 
 
 Pursuant to regulations promulgated by the Director, each Bank shall establish an Affordable Housing Program to subsidize the interest rate on advances to members engaged in lending for long term, low- and moderate-income, owner-occupied and affordable rental housing at subsidized interest rates.
 
-**(2) Standards** The Board’s 2
+**(2) Standards** The Board’s 2
 
-<sup>2</sup>  So in original. Probably should be “The Director’s”.
+<sup>2</sup> So in original. Probably should be “The Director’s”.
 
 regulations shall permit Bank members to use subsidized advances received from the Banks to—
 
@@ -1121,7 +1121,7 @@ In determining the financial instability of a Bank, the Director shall consider 
 
 **(C) Review**
 
-The Director shall review the application and any supporting financial data and issue a written decision approving or disapproving such application. The Board’s <sup>2</sup> decision shall be accompanied by specific findings and reasons for its action.
+The Director shall review the application and any supporting financial data and issue a written decision approving or disapproving such application. The Board’s <sup>2</sup> decision shall be accompanied by specific findings and reasons for its action.
 
 **(D) Monitoring suspension**
 
@@ -1217,89 +1217,89 @@ The Director shall make available to the public, in a form that is useful to the
 
 Not withstanding subparagraph (A), the Director may not provide public access to, or disclose to the public, any information required to be submitted under this subsection that the Director determines is proprietary or that would provide personally identifiable information and that is not otherwise publicly accessible through other forms, unless the Director determines that it is in the public interest to provide such information.
 
-(July 22, 1932, ch. 522, § 10, 47 Stat. 731; Apr. 27, 1934, ch. 168, § 10, 48 Stat. 646; June 27, 1934, ch. 847, § 501, 48 Stat. 1261; May 28, 1935, ch. 150, §§ 5, 6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, § 7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, § 501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, § 208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, § 502, 68 Stat. 634; Pub. L. 85–857, § 13(e), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 87–779, § 2(b), Oct. 9, 1962, 76 Stat. 779; Pub. L. 88–560, title IX, § 906, Sept. 2, 1964, 78 Stat. 805; Pub. L. 93–449, § 4(c), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title IV, § 406, Oct. 12, 1977, 91 Stat. 1137; Pub. L. 97–320, title III, § 352, Oct. 15, 1982, 96 Stat. 1507; Pub. L. 97–457, § 15, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 100–86, title I, § 105, title III, § 306(d), Aug. 10, 1987, 101 Stat. 575, 601; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, 103 Stat. 412, 418, 419, 423; Pub. L. 102–550, title XIII, § 1392(a), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 106–102, title VI, §§ 604(a)–(c), 606(f)(2), Nov. 12, 1999, 113 Stat. 1451, 1452, 1455; Pub. L. 110–289, div. A, title II, §§ 1204(5), (8)–(10), (12), 1211(b), 1212, 1218, July 30, 2008, 122 Stat. 2786, 2790, 2793.)
+(July 22, 1932, ch. 522, § 10, 47 Stat. 731; Apr. 27, 1934, ch. 168, § 10, 48 Stat. 646; June 27, 1934, ch. 847, § 501, 48 Stat. 1261; May 28, 1935, ch. 150, §§ 5, 6, 49 Stat. 294, 295; Mar. 28, 1941, ch. 31, § 7, 55 Stat. 62; Aug. 1, 1947, ch. 431, 61 Stat. 714; Apr. 20, 1950, ch. 94, title V, § 501, 64 Stat. 80; Sept. 1, 1951, ch. 378, title II, § 208, 65 Stat. 303; Aug. 2, 1954, ch. 649, title V, § 502, 68 Stat. 634; Pub. L. 85–857, § 13(e), Sept. 2, 1958, 72 Stat. 1264; Pub. L. 87–779, § 2(b), Oct. 9, 1962, 76 Stat. 779; Pub. L. 88–560, title IX, § 906, Sept. 2, 1964, 78 Stat. 805; Pub. L. 93–449, § 4(c), Oct. 18, 1974, 88 Stat. 1367; Pub. L. 95–128, title IV, § 406, Oct. 12, 1977, 91 Stat. 1137; Pub. L. 97–320, title III, § 352, Oct. 15, 1982, 96 Stat. 1507; Pub. L. 97–457, § 15, Jan. 12, 1983, 96 Stat. 2509; Pub. L. 100–86, title I, § 105, title III, § 306(d), Aug. 10, 1987, 101 Stat. 575, 601; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 710(b)(4), (5), (c), 714, 721, Aug. 9, 1989, 103 Stat. 412, 418, 419, 423; Pub. L. 102–550, title XIII, § 1392(a), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 106–102, title VI, §§ 604(a)–(c), 606(f)(2), Nov. 12, 1999, 113 Stat. 1451, 1452, 1455; Pub. L. 110–289, div. A, title II, §§ 1204(5), (8)–(10), (12), 1211(b), 1212, 1218, July 30, 2008, 122 Stat. 2786, 2790, 2793.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Community Reinvestment Act of 1977, referred to in subsec. (g)(2), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Community Reinvestment Act of 1977, referred to in subsec. (g)(2), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
-The Home Mortgage Disclosure Act of 1975, referred to in subsec. (k)(1)(B), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified generally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
+The Home Mortgage Disclosure Act of 1975, referred to in subsec. (k)(1)(B), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified generally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
 **Amendments**
 
-2008—Subsec. (a)(2)(B). Pub. L. 110–289, § 1211(b)(1), struck out “and” before “small agri-businesses” and inserted “, and community development activities” before period at end.
+2008—Subsec. (a)(2)(B). Pub. L. 110–289, § 1211(b)(1), struck out “and” before “small agri-businesses” and inserted “, and community development activities” before period at end.
 
-Subsec. (a)(3)(E). Pub. L. 110–289, § 1211(b)(2), inserted “or community development activities” after “agriculture,”.
+Subsec. (a)(3)(E). Pub. L. 110–289, § 1211(b)(2), inserted “or community development activities” after “agriculture,”.
 
-Subsec. (a)(5). Pub. L. 110–289, § 1204(9), substituted “The Director” for “The Board”.
+Subsec. (a)(5). Pub. L. 110–289, § 1204(9), substituted “The Director” for “The Board”.
 
-Subsec. (a)(6). Pub. L. 110–289, § 1211(b)(3), struck out “and” before “ ‘small agri-business’ ” and inserted “, and ‘community development activities’ ” before “shall”.
+Subsec. (a)(6). Pub. L. 110–289, § 1211(b)(3), struck out “and” before “ ‘small agri-business’ ” and inserted “, and ‘community development activities’ ” before “shall”.
 
-Pub. L. 110–289, § 1204(10), substituted “the Director” for “the Finance Board”.
+Pub. L. 110–289, § 1204(10), substituted “the Director” for “the Finance Board”.
 
-Subsec. (b). Pub. L. 110–289, § 1204(5), (8), substituted “approval of Director” for “formal Board resolution” in heading and substituted “the Director” for “the Board” and struck out “by formal resolution” before “such acceptance” in text.
+Subsec. (b). Pub. L. 110–289, § 1204(5), (8), substituted “approval of Director” for “formal Board resolution” in heading and substituted “the Director” for “the Board” and struck out “by formal resolution” before “such acceptance” in text.
 
-Subsecs. (g)(1), (j)(1). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board”.
+Subsecs. (g)(1), (j)(1). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board”.
 
-Subsec. (j)(2)(C). Pub. L. 110–289, § 1218, added subpar. (C).
+Subsec. (j)(2)(C). Pub. L. 110–289, § 1218, added subpar. (C).
 
-Subsec. (j)(6)(A), (B). Pub. L. 110–289, § 1204(12), substituted “Director” for “Federal Housing Finance Board”.
+Subsec. (j)(6)(A), (B). Pub. L. 110–289, § 1204(12), substituted “Director” for “Federal Housing Finance Board”.
 
-Subsec. (j)(6)(C). Pub. L. 110–289, § 1204(9), substituted “The Director” for “The Board”.
+Subsec. (j)(6)(C). Pub. L. 110–289, § 1204(9), substituted “The Director” for “The Board”.
 
-Subsec. (j)(6)(D). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board”.
+Subsec. (j)(6)(D). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board”.
 
-Subsec. (j)(6)(E). Pub. L. 110–289, § 1204(9), substituted “The Director” for “The Board”.
+Subsec. (j)(6)(E). Pub. L. 110–289, § 1204(9), substituted “The Director” for “The Board”.
 
-Subsec. (j)(6)(F). Pub. L. 110–289, § 1204(12), substituted “Director” for “Federal Housing Finance Board”.
+Subsec. (j)(6)(F). Pub. L. 110–289, § 1204(12), substituted “Director” for “Federal Housing Finance Board”.
 
-Subsec. (j)(7). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” in two places.
+Subsec. (j)(7). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” in two places.
 
-Subsec. (j)(9). Pub. L. 110–289, § 1204(12), substituted “Director” for “Federal Housing Finance Board” in introductory provisions.
+Subsec. (j)(9). Pub. L. 110–289, § 1204(12), substituted “Director” for “Federal Housing Finance Board” in introductory provisions.
 
-Subsec. (j)(11) to (12)(B). Pub. L. 110–289, § 1204(8), (9), substituted “the Director” for “the Board” and “The Director” for “The Board” wherever appearing.
+Subsec. (j)(11) to (12)(B). Pub. L. 110–289, § 1204(8), (9), substituted “the Director” for “the Board” and “The Director” for “The Board” wherever appearing.
 
-Subsec. (j)(12)(C), (D). Pub. L. 110–289, § 1212(1), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The Comptroller General of the United States shall audit and evaluate the Affordable Housing Program established by this subsection after such program has been operating for 2 years. The Comptroller General shall report to Congress on the conclusions of the audit and recommend improvements or modifications to the program.”
+Subsec. (j)(12)(C), (D). Pub. L. 110–289, § 1212(1), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: “The Comptroller General of the United States shall audit and evaluate the Affordable Housing Program established by this subsection after such program has been operating for 2 years. The Comptroller General shall report to Congress on the conclusions of the audit and recommend improvements or modifications to the program.”
 
-Subsec. (k). Pub. L. 110–289, § 1212(2), added subsec. (k).
+Subsec. (k). Pub. L. 110–289, § 1212(2), added subsec. (k).
 
-1999—Pub. L. 106–102, § 604(b), amended section catchline generally.
+1999—Pub. L. 106–102, § 604(b), amended section catchline generally.
 
-Subsec. (a). Pub. L. 106–102, § 604(a), inserted heading, designated first sentence of introductory provisions as par. (1) and inserted heading, substituted par. (2) for former second sentence of introductory provisions which read as follows: “All long-term advances shall only be made for the purpose of providing funds for residential housing finance.”, designated third sentence of introductory provisions as par. (3), inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (3) and realigned margins, in subpar. (C), substituted “Cash or deposits” for “Deposits”, in subpar. (D), struck out at end “The aggregate amount of outstanding advances secured by such other real estate related collateral shall not exceed 30 percent of such member’s capital.”, and added subpar. (E), redesignated former par. (5) as (4), inserted heading, substituted “Subparagraphs (A) through (E) of paragraph (3)” for “Paragraphs (1) through (4)”, struck out “and the Board” after “such collateral as the Bank” and substituted “determined by the Federal home loan bank” for “determined by the Board”, and added pars. (5) and (6).
+Subsec. (a). Pub. L. 106–102, § 604(a), inserted heading, designated first sentence of introductory provisions as par. (1) and inserted heading, substituted par. (2) for former second sentence of introductory provisions which read as follows: “All long-term advances shall only be made for the purpose of providing funds for residential housing finance.”, designated third sentence of introductory provisions as par. (3), inserted heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (3) and realigned margins, in subpar. (C), substituted “Cash or deposits” for “Deposits”, in subpar. (D), struck out at end “The aggregate amount of outstanding advances secured by such other real estate related collateral shall not exceed 30 percent of such member’s capital.”, and added subpar. (E), redesignated former par. (5) as (4), inserted heading, substituted “Subparagraphs (A) through (E) of paragraph (3)” for “Paragraphs (1) through (4)”, struck out “and the Board” after “such collateral as the Bank” and substituted “determined by the Federal home loan bank” for “determined by the Board”, and added pars. (5) and (6).
 
-Subsec. (c). Pub. L. 106–102, § 606(f)(2)(A), substituted “Federal home loan bank” for “Board” before “may approve or determine” and struck out at end “At no time shall the aggregate outstanding advances made by any Federal Home Loan Bank to any member exceed twenty times the amounts paid in by such member for outstanding capital stock held by it exceed twenty times the value of the security required to be deposited under subsection (e) of section 1426 of this title.”
+Subsec. (c). Pub. L. 106–102, § 606(f)(2)(A), substituted “Federal home loan bank” for “Board” before “may approve or determine” and struck out at end “At no time shall the aggregate outstanding advances made by any Federal Home Loan Bank to any member exceed twenty times the amounts paid in by such member for outstanding capital stock held by it exceed twenty times the value of the security required to be deposited under subsection (e) of section 1426 of this title.”
 
-Subsec. (d). Pub. L. 106–102, § 606(f)(2)(B), struck out “and the approval of the Board” after “requirements of the bank” in first sentence and substituted “Any” for “Subject to the approval of the Board, any” in third sentence.
+Subsec. (d). Pub. L. 106–102, § 606(f)(2)(B), struck out “and the approval of the Board” after “requirements of the bank” in first sentence and substituted “Any” for “Subject to the approval of the Board, any” in third sentence.
 
-Subsec. (e). Pub. L. 106–102, § 604(c), struck out subsec. (e) relating to qualified thrift lender status.
+Subsec. (e). Pub. L. 106–102, § 604(c), struck out subsec. (e) relating to qualified thrift lender status.
 
 1992—Subsec. (e)(2). Pub. L. 102–550 added sentence at end and struck out former second sentence which read as follows: “The aggregate amount of any Bank’s advances to members that are not qualified thrift lenders shall not exceed 30 percent of a Bank’s total advances.”
 
-1989—Subsec. (a). Pub. L. 101–73, § 714(a), substituted “upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:” and pars. (1) to (5) for “upon such security as the Board may prescribe.”
+1989—Subsec. (a). Pub. L. 101–73, § 714(a), substituted “upon collateral sufficient, in the judgment of the Bank, to fully secure advances obtained from the Bank under this section or section 1431(g) of this title. All long-term advances shall only be made for the purpose of providing funds for residential housing finance. A Bank, at the time of origination or renewal of a loan or advance, shall obtain and maintain a security interest in collateral eligible pursuant to one or more of the following categories:” and pars. (1) to (5) for “upon such security as the Board may prescribe.”
 
-Subsec. (b). Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
+Subsec. (b). Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
 
-Subsec. (c). Pub. L. 101–73, § 710(b)(4), (5), struck out “or nonmember borrower” after “obligation of the member”, and “, or made to a nonmember borrower” after “stock held by it”.
+Subsec. (c). Pub. L. 101–73, § 710(b)(4), (5), struck out “or nonmember borrower” after “obligation of the member”, and “, or made to a nonmember borrower” after “stock held by it”.
 
-Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
+Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
 
-Subsec. (d). Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+Subsec. (d). Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
-Subsec. (e). Pub. L. 101–73, § 714(b), which directed the general amendment of subsec. (e), was executed to the subsec. (e) added by section 105 of Pub. L. 100–86, as the probable intent of Congress. As thus executed, the amendment substituted provisions relating to qualified thrift lender status for provisions relating to reduced eligibility for advances for certain members which were not qualified thrift lenders.
+Subsec. (e). Pub. L. 101–73, § 714(b), which directed the general amendment of subsec. (e), was executed to the subsec. (e) added by section 105 of Pub. L. 100–86, as the probable intent of Congress. As thus executed, the amendment substituted provisions relating to qualified thrift lender status for provisions relating to reduced eligibility for advances for certain members which were not qualified thrift lenders.
 
-Subsec. (g). Pub. L. 101–73, § 710(c), added subsec. (g).
+Subsec. (g). Pub. L. 101–73, § 710(c), added subsec. (g).
 
-Subsec. (h). Pub. L. 101–73, § 714(c), added subsec. (h).
+Subsec. (h). Pub. L. 101–73, § 714(c), added subsec. (h).
 
-Subsecs. (i), (j). Pub. L. 101–73, § 721, added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 101–73, § 721, added subsecs. (i) and (j).
 
-1987—Subsec. (e). Pub. L. 100–86, § 306(d), added subsec. (e) relating to priority of certain secured interests.
+1987—Subsec. (e). Pub. L. 100–86, § 306(d), added subsec. (e) relating to priority of certain secured interests.
 
-Pub. L. 100–86, § 105, added subsec. (e) relating to reduced eligibility for advances for certain members which are not qualified thrift lenders.
+Pub. L. 100–86, § 105, added subsec. (e) relating to reduced eligibility for advances for certain members which are not qualified thrift lenders.
 
-1982—Subsec. (a). Pub. L. 97–320, § 352(1), as amended by Pub. L. 97–457, amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “Each Federal Home Loan Bank is authorized to make advances to its members upon the security of home mortgages, or obligations of the United States, or obligations fully guaranteed by the United States, subject to such regulations, restrictions, and limitations as the Board may prescribe. Any such advance shall be subject to the following limitations as to amount:
+1982—Subsec. (a). Pub. L. 97–320, § 352(1), as amended by Pub. L. 97–457, amended subsec. (a) generally. Prior to amendment subsec. (a) read as follows: “Each Federal Home Loan Bank is authorized to make advances to its members upon the security of home mortgages, or obligations of the United States, or obligations fully guaranteed by the United States, subject to such regulations, restrictions, and limitations as the Board may prescribe. Any such advance shall be subject to the following limitations as to amount:
 
 “(1) If secured by a mortgage insured under the provisions of title I, title II, title VI, title VIII, or title IX of the National Housing Act [12 U.S.C. 1702 et seq., 1707 et seq., 1736 et seq., 1748 et seq., and 1750 et seq., respectively], the advance may be for an amount not in excess of 90 per centum of the unpaid principal of the mortgage loan.
 
@@ -1309,9 +1309,9 @@ Pub. L. 100–86, § 105, added subsec. (e) relating to reduced eligibility fo
 
 “(4) If secured by obligations of the United States, or obligations fully guaranteed by the United States, the advance shall not be for an amount in excess of the face value of such obligations.”
 
-Subsec. (b). Pub. L. 97–320, § 352(2), struck out provisions relating to acceptance of home mortgages as collateral security for advances by a Home Loan Bank.
+Subsec. (b). Pub. L. 97–320, § 352(2), struck out provisions relating to acceptance of home mortgages as collateral security for advances by a Home Loan Bank.
 
-Subsec. (c). Pub. L. 97–320, § 352(3), substituted “twenty” for “twelve” wherever appearing.
+Subsec. (c). Pub. L. 97–320, § 352(3), substituted “twenty” for “twelve” wherever appearing.
 
 1977—Subsec. (b). Pub. L. 95–128 substituted prohibition against acceptance of a home mortgage as collateral security for an advance by a Federal Home Loan Bank if, at the time the advance is made, the home mortgage exceeds a sum equal to the dollar limitation under the first proviso of the first sentence of section 1464(c) of this title for each home or other dwelling unit covered by such mortgage for prior prohibition where the home mortgage exceeded a sum equal to $55,000 (except that with respect to dwellings in Alaska, Guam, and Hawaii the foregoing limitation, might, by regulation of the Board, be increased by not to exceed 50 per centum) for each home or other dwelling unit covered by the mortgage.
 
@@ -1327,17 +1327,17 @@ Subsec. (c). Pub. L. 97–320, § 352(3), substituted “twenty” for “twel
 
 1951—Subsec. (a)(1). Act Sept. 1, 1951, inserted a reference to subchapter X of chapter 13 of this title.
 
-1950—Subsec. (a) (1). Act Apr. 20, 1950, § 501(1), substituted “subchapters I, II, VI, and VIII of chapter 13 of this title” for “sections 1707–1715b and 1736–1742 of this title”.
+1950—Subsec. (a) (1). Act Apr. 20, 1950, § 501(1), substituted “subchapters I, II, VI, and VIII of chapter 13 of this title” for “sections 1707–1715b and 1736–1742 of this title”.
 
-Subsec. (b). Act Apr. 20, 1950, § 501(2), inserted “unless such home mortgage is insured under the National Housing Act, as amended, or insured or guaranteed under the Servicemen’s Readjustment Act of 1944, as amended” after “Maturity” in first sentence.
+Subsec. (b). Act Apr. 20, 1950, § 501(2), inserted “unless such home mortgage is insured under the National Housing Act, as amended, or insured or guaranteed under the Servicemen’s Readjustment Act of 1944, as amended” after “Maturity” in first sentence.
 
 1947—Subsec. (b). Act Aug. 1, 1947, increased period collateral security can run from twenty years to twenty-five years.
 
 1941—Subsec. (a)(1). Act Mar. 28, 1941, inserted reference to sections 1736–1742 of this title.
 
-1935—Subsec. (a). Act May 28, 1935, § 5, added cl. (4).
+1935—Subsec. (a). Act May 28, 1935, § 5, added cl. (4).
 
-Subsec. (b)(1). Act May 28, 1935, § 6, substituted “twenty” for “fifteen” and omitted reference to value of real estate in cl. 2.
+Subsec. (b)(1). Act May 28, 1935, § 6, substituted “twenty” for “fifteen” and omitted reference to value of real estate in cl. 2.
 
 1934—Subsec. (a). Act June 27, 1934, amended subsec. (a) generally.
 
@@ -1359,7 +1359,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (j)(12)(A) of 
 
 **Authorization of Appropriations for Disbursement to Federal Home Loan Banks for Adjustment of Interest Charges**
 
-Pub. L. 91–351, title I, § 101, July 24, 1970, 84 Stat. 450, provided that:
+Pub. L. 91–351, title I, § 101, July 24, 1970, 84 Stat. 450, provided that:
 
 > **“(a)** There is authorized to be appropriated not to exceed $250,000,000, without fiscal year limitation, to be used by the Federal Home Loan Bank Board for disbursement to Federal home loan banks for the purpose of adjusting the effective interest charged by such banks on short-term and long-term borrowing to promote an orderly flow of funds into residential construction. The disbursement of sums appropriated hereunder shall be made under such terms and conditions as may be prescribed by the Board to assure that such sums are used to assist in the provision of housing for low- and middle-income families, and that such families share fully in the benefits resulting from the disbursement of such sums. No member of a Federal home loan bank shall use funds the interest charges on which have been adjusted pursuant to the provisions of this section to make any loan, if—
 
@@ -1369,15 +1369,15 @@ Pub. L. 91–351, title I, § 101, July 24, 1970, 84 Stat. 450, provided that:
 
 > **“(b)** Not more than 20 per centum of the sums appropriated pursuant to subsection (a) shall be disbursed in any one Federal home loan bank district.”
 
-## § 1430a. Omitted
+## § 1430a. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act July 22, 1932, ch. 522, § 10a, as added June 27, 1934, ch. 847, § 502, 48 Stat. 1261, provided for advances by Federal Home Loan Banks to finance home repairs, improvements, and alterations until July 1, 1936.
+Section, act July 22, 1932, ch. 522, § 10a, as added June 27, 1934, ch. 847, § 502, 48 Stat. 1261, provided for advances by Federal Home Loan Banks to finance home repairs, improvements, and alterations until July 1, 1936.
 
-## § 1430b. Advances to nonmember mortgagee; terms and conditions
+## § 1430b. Advances to nonmember mortgagee; terms and conditions
 
 **(a) In general**
 
@@ -1389,13 +1389,13 @@ Each Federal Home Loan Bank is authorized to make advances to nonmember mortgage
 
 **(2)** such advance meets the requirements of section 1430(a) of this title, and any real estate collateral for such loan comprises single family or multifamily residential mortgages.
 
-(July 22, 1932, ch. 522, § 10b, as added May 25, 1935, ch. 150, § 7, 49 Stat. 295; amended Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 102–550, title XIII, § 1392(b), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 110–289, div. A, title II, § 1204(8), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 10b, as added May 25, 1935, ch. 150, § 7, 49 Stat. 295; amended Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 102–550, title XIII, § 1392(b), Oct. 28, 1992, 106 Stat. 4009; Pub. L. 110–289, div. A, title II, § 1204(8), July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 **Amendments**
 
@@ -1405,7 +1405,7 @@ The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48
 
 1989—Pub. L. 101–73 substituted “Board” for “Federal Home Loan Bank Board”.
 
-## § 1430c. Housing goals
+## § 1430c. Housing goals
 
 **(a) In general**
 
@@ -1421,9 +1421,9 @@ To facilitate an orderly transition, the Director shall establish interim target
 
 **(d) Monitoring and enforcement of goals**
 
-The requirements of section 4566 1
+The requirements of section 4566 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, shall apply to this section, in the same manner and to the same extent as that section applies to the Federal housing enterprises.
 
@@ -1431,7 +1431,7 @@ of this title, shall apply to this section, in the same manner and to the same e
 
 The Director shall annually report to Congress on the performance of the Banks in meeting the goals established under this section.
 
-(July 22, 1932, ch. 522, § 10C, as added Pub. L. 110–289, div. A, title II, § 1205, July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 10C, as added Pub. L. 110–289, div. A, title II, § 1205, July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
@@ -1439,7 +1439,7 @@ The Director shall annually report to Congress on the performance of the Banks i
 
 Section 4566 of this title, referred to in subsec. (d), was in the original “section 1336 of the Federal Housing Enterprises Safety and Soundness Act of 1992”, which was translated as meaning section 1336 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, to reflect the probable intent of Congress.
 
-## § 1431. Powers and duties of banks
+## § 1431. Powers and duties of banks
 
 **(a) Borrowing money; issuing bonds and debentures; general powers**
 
@@ -1487,17 +1487,17 @@ The Secretary of the Treasury is authorized in his discretion to purchase any ob
 
 In addition to obligations authorized to be purchased by the preceding paragraph, the Secretary of the Treasury is authorized to purchase any obligations issued pursuant to this section in amounts not to exceed $2,000,000,000. The authority provided in this paragraph shall expire August 10, 1975.
 
-Notwithstanding the foregoing, the authority provided in this subsection may be exercised during any calendar quarter beginning after October 28, 1974, only if the Secretary of the Treasury and the Chairperson of the Director 1
+Notwithstanding the foregoing, the authority provided in this subsection may be exercised during any calendar quarter beginning after October 28, 1974, only if the Secretary of the Treasury and the Chairperson of the Director 1
 
-<sup>1</sup>  So in original. See 2008 Amendment note below.
+<sup>1</sup> So in original. See 2008 Amendment note below.
 
 certify to the Congress that (1) alternative means cannot be effectively employed to permit members of the Federal Home Loan Bank System to continue to supply reasonable amounts of funds to the mortgage market, and (2) the ability to supply such funds is substantially impaired because of monetary stringency and a high level of interest rates. Any funds borrowed under this subsection shall be repaid by the Home Loan Banks at the earliest practicable date.
 
 **(j) Audits**
 
-Notwithstanding the provisions of section 9105(a)(1)(B) 2
+Notwithstanding the provisions of section 9105(a)(1)(B) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 31, audits by the Government Accountability Office of the financial transactions of a Federal Home Loan Bank shall not be limited to periods during which Government capital has been invested therein. The provisions of sections 9107(c)(2) and 9108(d)(1) of title 31 shall not apply to any Federal Home Loan Bank.
 
@@ -1583,67 +1583,67 @@ The authority under this subsection (*l*), with the exception of paragraphs (2) 
 
 The Director shall have the power to approve, disapprove, or modify the executive compensation of the Federal Home Loan Bank, as defined under Regulation S-K, 17 C.F.R. 229.
 
-(July 22, 1932, ch. 522, § 11, 47 Stat. 733; June 27, 1934, ch. 847, § 503, 48 Stat. 1261; June 27, 1950, ch. 369, §§ 3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, § 204(a), 68 Stat. 622; Pub. L. 88–560, title VII, § 701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, § 807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, § 3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, § 914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, § 805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, § 112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, § 324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, § 311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, § 125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§ 701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, § 2704(d)(11)(A), div. D, title II, § 208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(d)(1), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title I, § 1117(c), title II, § 1204(3), (8), (9), July 30, 2008, 122 Stat. 2686, 2786; Pub. L. 111–203, title XIII, § 1304(c), July 21, 2010, 124 Stat. 2134.)
+(July 22, 1932, ch. 522, § 11, 47 Stat. 733; June 27, 1934, ch. 847, § 503, 48 Stat. 1261; June 27, 1950, ch. 369, §§ 3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, § 204(a), 68 Stat. 622; Pub. L. 88–560, title VII, § 701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, § 807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, § 3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, § 914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, § 805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, § 112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, § 324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, § 311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, § 125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§ 701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, § 2704(d)(11)(A), div. D, title II, § 208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(d)(1), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title I, § 1117(c), title II, § 1204(3), (8), (9), July 30, 2008, 122 Stat. 2686, 2786; Pub. L. 111–203, title XIII, § 1304(c), July 21, 2010, 124 Stat. 2134.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 9105 of title 31, referred to in subsec. (j), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, subsec. (a) does not contain a par. (1)(B). Prior to the general amendment, subsec. (a)(1)(B) related to audits of mixed-ownership Government corporations during periods in which capital of the United States Government was invested therein.
+Section 9105 of title 31, referred to in subsec. (j), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, subsec. (a) does not contain a par. (1)(B). Prior to the general amendment, subsec. (a)(1)(B) related to audits of mixed-ownership Government corporations during periods in which capital of the United States Government was invested therein.
 
 **Codification**
 
-In subsecs. (i) (first par.) and (j), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act”, and “section 9105(a)(1)(B) of title 31” and “sections 9107(c)(2) and 9108(d)(1) of title 31” substituted for “the first sentence of section 202 of the Government Corporation Control Act [31 U.S.C. 857]” and “the first sentence of subsection (d) of section 303 of the Government Corporation Control Act [31 U.S.C. 868(d)]”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsecs. (i) (first par.) and (j), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act”, and “section 9105(a)(1)(B) of title 31” and “sections 9107(c)(2) and 9108(d)(1) of title 31” substituted for “the first sentence of section 202 of the Government Corporation Control Act [31 U.S.C. 857]” and “the first sentence of subsection (d) of section 303 of the Government Corporation Control Act [31 U.S.C. 868(d)]”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
 2010—Subsec. (*l*)(2)(C), (D). Pub. L. 111–203 added subpar. (C) and redesignated former subpar. (C) as (D).
 
-2008—Pub. L. 110–289, § 1204(9), substituted “The Director” for “The Board” wherever appearing in subsecs. (d) to (f).
+2008—Pub. L. 110–289, § 1204(9), substituted “The Director” for “The Board” wherever appearing in subsecs. (d) to (f).
 
-Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” wherever appearing in subsecs. (a) and (e) to (i).
+Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” wherever appearing in subsecs. (a) and (e) to (i).
 
-Subsec. (b). Pub. L. 110–289, § 1204(3)(A), substituted “The Office of Finance, as agent for the Banks,” for “The Board” and “such Office” for “the Board” in first sentence and “the Office of Finance” for “the Board” in second and fourth sentences.
+Subsec. (b). Pub. L. 110–289, § 1204(3)(A), substituted “The Office of Finance, as agent for the Banks,” for “The Board” and “such Office” for “the Board” in first sentence and “the Office of Finance” for “the Board” in second and fourth sentences.
 
-Subsec. (c). Pub. L. 110–289, § 1204(3)(B), substituted “the Office of Finance, as agent for the Banks,” for “the Board” before “may issue” and “such Office” for “the Board” before “may prescribe”.
+Subsec. (c). Pub. L. 110–289, § 1204(3)(B), substituted “the Office of Finance, as agent for the Banks,” for “the Board” before “may issue” and “such Office” for “the Board” before “may prescribe”.
 
-Subsec. (f). Pub. L. 110–289, § 1204(3)(C), struck out the two commas after “permit” and inserted “or” and struck out the comma after “require”.
+Subsec. (f). Pub. L. 110–289, § 1204(3)(C), struck out the two commas after “permit” and inserted “or” and struck out the comma after “require”.
 
-Subsec. (*l*). Pub. L. 110–289, § 1117(c), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 110–289, § 1117(c), added subsec. (*l*).
 
 2006—Subsec. (k). Pub. L. 109–173 substituted “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2).
 
-Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(11)(A). See 1996 Amendment note below.
+Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(11)(A). See 1996 Amendment note below.
 
 2004—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1996—Subsec. (h). Pub. L. 104–208, § 208(h)(2), substituted “section 681 of title 15” for “section 681(d) of title 15”.
+1996—Subsec. (h). Pub. L. 104–208, § 208(h)(2), substituted “section 681 of title 15” for “section 681(d) of title 15”.
 
-Subsec. (k). Pub. L. 104–208, § 2704(d)(11)(A), which directed the amendment of subsec. (k) by substituting “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (k). Pub. L. 104–208, § 2704(d)(11)(A), which directed the amendment of subsec. (k) by substituting “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1989—Subsecs. (a) to (d). Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+1989—Subsecs. (a) to (d). Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
-Subsec. (e)(1). Pub. L. 101–73, § 709(1), inserted “incidental to activities” after “other business not”.
+Subsec. (e)(1). Pub. L. 101–73, § 709(1), inserted “incidental to activities” after “other business not”.
 
-Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
+Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
 
-Subsec. (e)(2)(C). Pub. L. 101–73, § 701(c)(1), which directed insertion of “Federal Home Loan” before “Banks,” was executed the second time that term appeared, because “Federal Home Loan” already preceded the term “Banks,” the first place it appeared.
+Subsec. (e)(2)(C). Pub. L. 101–73, § 701(c)(1), which directed insertion of “Federal Home Loan” before “Banks,” was executed the second time that term appeared, because “Federal Home Loan” already preceded the term “Banks,” the first place it appeared.
 
-Subsec. (f). Pub. L. 101–73, § 709(2), which directed amendment of subsec. (f) by striking out “or whenever in the judgment of at least 4 members of the board an emergency exists requiring such action” after “empowered to permit,”, was executed by striking out “or whenever in the judgment of at least four members of the board an emergency exists requiring such action”, as the probable intent of Congress. The amendment probably should also have struck out the comma after “empowered to permit” and the words “, to require,” after “such action”.
+Subsec. (f). Pub. L. 101–73, § 709(2), which directed amendment of subsec. (f) by striking out “or whenever in the judgment of at least 4 members of the board an emergency exists requiring such action” after “empowered to permit,”, was executed by striking out “or whenever in the judgment of at least four members of the board an emergency exists requiring such action”, as the probable intent of Congress. The amendment probably should also have struck out the comma after “empowered to permit” and the words “, to require,” after “such action”.
 
-Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
-Subsec. (g). Pub. L. 101–73, § 710(b)(6), struck out “or nonmember borrowers” after “made to members” wherever appearing.
+Subsec. (g). Pub. L. 101–73, § 710(b)(6), struck out “or nonmember borrowers” after “made to members” wherever appearing.
 
-Subsec. (h). Pub. L. 101–73, § 710(b)(6), struck out “or nonmember borrowers” after “advances to members”.
+Subsec. (h). Pub. L. 101–73, § 710(b)(6), struck out “or nonmember borrowers” after “advances to members”.
 
-Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
+Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board”.
 
-Subsec. (i). Pub. L. 101–73, § 701(c)(2), inserted “Federal” before “Home Loan Bank System”.
+Subsec. (i). Pub. L. 101–73, § 701(c)(2), inserted “Federal” before “Home Loan Bank System”.
 
-Pub. L. 101–73, § 701(b)(1), (2), substituted “Chairperson of the Board” for “Chairman of the Federal Home Loan Bank Board”.
+Pub. L. 101–73, § 701(b)(1), (2), substituted “Chairperson of the Board” for “Chairman of the Federal Home Loan Bank Board”.
 
-Subsec. (k). Pub. L. 101–73, § 709(3), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Federal Home Loan Banks are hereby authorized, as directed by the Board, to make loans to the Federal Savings and Loan Insurance Corporation. All such loans shall be made in accordance with the provisions of section 1725(d) of this title.”
+Subsec. (k). Pub. L. 101–73, § 709(3), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Federal Home Loan Banks are hereby authorized, as directed by the Board, to make loans to the Federal Savings and Loan Insurance Corporation. All such loans shall be made in accordance with the provisions of section 1725(d) of this title.”
 
 1982—Subsec. (k). Pub. L. 97–320 added subsec. (k).
 
@@ -1665,9 +1665,9 @@ Subsec. (i). Pub. L. 93–495 substituted “obligations under this paragraph”
 
 1954—Subsec. (h). Act Aug. 2, 1954, inserted reference to obligations of the Federal National Mortgage Association.
 
-1950—Subsec. (g). Act June 27, 1950, § 3, struck out requirement that sums paid in on outstanding capital subscriptions of members from the base for determining the amount of money which the Federal Home Loan Banks shall at all times have invested.
+1950—Subsec. (g). Act June 27, 1950, § 3, struck out requirement that sums paid in on outstanding capital subscriptions of members from the base for determining the amount of money which the Federal Home Loan Banks shall at all times have invested.
 
-Subsecs. (i), (j). Act June 27, 1950, § 4, added subsecs. (i) and (j).
+Subsecs. (i), (j). Act June 27, 1950, § 4, added subsecs. (i) and (j).
 
 1934—Subsecs. (i), (j). Act June 27, 1934, among other changes, struck out subsecs. (i) and (j).
 
@@ -1691,17 +1691,17 @@ Amendment by section 2704(d)(11)(A) of Pub. L. 104–208 effective Jan. 1, 1999,
 
 For effective date of amendment by title VIII of Pub. L. 90–448, see section 808 of Pub. L. 90–448, set out as an Effective Date note under section 1716b of this title.
 
-## § 1432. Incorporation of banks; corporate powers; housing project loans
+## § 1432. Incorporation of banks; corporate powers; housing project loans
 
-**(a)** The directors of each Federal Home Loan Bank shall, in accordance with such rules and regulations as the Director may prescribe, make and file with the Director at the earliest practicable date after the establishment of such bank, an organization certificate which shall contain such information as the Director may require. Upon the making and filing of such organization certificate with the Director, such bank shall become, as of the date of the execution of its organization certificate, a body corporate, and as such and in its name as designated by the Director it shall have power to adopt, alter, and use a corporate seal; to make contracts; to purchase or lease and hold or dispose of such real estate as may be necessary or convenient for the transaction of its business; to sue and be sued, to complain and to defend, in any court of competent jurisdiction, State or Federal; to select, employ, and fix the compensation of such officers, employees, attorneys, and agents as shall be necessary for the transaction of its business,; 1
+**(a)** The directors of each Federal Home Loan Bank shall, in accordance with such rules and regulations as the Director may prescribe, make and file with the Director at the earliest practicable date after the establishment of such bank, an organization certificate which shall contain such information as the Director may require. Upon the making and filing of such organization certificate with the Director, such bank shall become, as of the date of the execution of its organization certificate, a body corporate, and as such and in its name as designated by the Director it shall have power to adopt, alter, and use a corporate seal; to make contracts; to purchase or lease and hold or dispose of such real estate as may be necessary or convenient for the transaction of its business; to sue and be sued, to complain and to defend, in any court of competent jurisdiction, State or Federal; to select, employ, and fix the compensation of such officers, employees, attorneys, and agents as shall be necessary for the transaction of its business,; 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 to define their duties, require bonds of them and fix the penalties thereof, and to dismiss at pleasure such officers, employees, attorneys, and agents; and, by the board of directors of the bank, to prescribe, amend, and repeal by-laws governing the manner in which its affairs may be administered, consistent with applicable laws and regulations, as administered by the Director. No officer, employee, attorney, or agent of a Federal home loan bank who receives compensation, may be a member of the board of directors. Each such bank shall have all such incidental powers, not inconsistent with the provisions of this chapter, as are customary and usual in corporations generally.
 
 **(b)** Subject to such regulations as may be prescribed by the Director, one or more Federal home loan banks may acquire, hold, or dispose of, in whole or in part, or facilitate such acquisition, holding, or disposition by members of any such bank of, housing project loans, or interests therein, having the benefit of any guaranty under section 2181 of title 22, as now or hereafter in effect, or loans, or interests therein, having the benefit of any guaranty under section 2184 of title 22 or any commitment or agreement with respect to such loans, or interests therein, made pursuant to either of such sections. This authority extends to the acquisition, holding, and disposition of loans, or interests therein, having the benefit of any guaranty under section 2181 or 2182 of title 22 or such sections as hereafter amended or extended, or of any commitment or agreement for any such guaranty.
 
-(July 22, 1932, ch. 522, § 12, 47 Stat. 735; Pub. L. 89–754, title X, § 1016(a), Nov. 3, 1966, 80 Stat. 1293; Pub. L. 90–448, title XVII, § 1717, Aug. 1, 1968, 82 Stat. 609; Pub. L. 91–609, title IX, § 907(a), Dec. 31, 1970, 84 Stat. 1811; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 106–102, title VI, § 606(d), Nov. 12, 1999, 113 Stat. 1454; Pub. L. 110–289, div. A, title II, § 1204(8), (10), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 12, 47 Stat. 735; Pub. L. 89–754, title X, § 1016(a), Nov. 3, 1966, 80 Stat. 1293; Pub. L. 90–448, title XVII, § 1717, Aug. 1, 1968, 82 Stat. 609; Pub. L. 91–609, title IX, § 907(a), Dec. 31, 1970, 84 Stat. 1811; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 106–102, title VI, § 606(d), Nov. 12, 1999, 113 Stat. 1454; Pub. L. 110–289, div. A, title II, § 1204(8), (10), July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
@@ -1713,11 +1713,11 @@ Section 2184 of title 22, referred to in subsec. (b), which related to housing p
 
 2008—Subsec. (a). Pub. L. 110–289 substituted “administered by the Director” for “administered by the Finance Board” and “the Director” for “the Board” wherever appearing.
 
-Subsec. (b). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board”.
+Subsec. (b). Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board”.
 
-1999—Subsec. (a). Pub. L. 106–102, § 606(d)(1), struck out “, but, except with the prior approval of the Board, no bank building shall be bought or erected to house any such bank, or leased by such bank under any lease for such purpose which has a term of more than ten years” after “convenient for the transaction of its business”, struck out “subject to the approval of the Board” after “necessary for the transaction of its business”, substituted “and, by the board of directors of the bank, to prescribe, amend, and repeal by-laws governing the manner in which its affairs may be administered, consistent with applicable laws and regulations, as administered by the Finance Board. No officer, employee, attorney, or agent of a Federal home loan bank” for “and, by its Board of directors, to prescribe, amend, and repeal bylaws, rules, and regulations governing the manner in which its affairs may be administered; and the powers granted to it by law may be exercised and enjoyed subject to the approval of the Board. The president of a Federal Home Loan Bank may also be a member of the Board of directors thereof, but no other officer, employee, attorney, or agent of such bank,”, and, in penultimate sentence, substituted “board of directors” for “Board of directors” after “may be a member of the”.
+1999—Subsec. (a). Pub. L. 106–102, § 606(d)(1), struck out “, but, except with the prior approval of the Board, no bank building shall be bought or erected to house any such bank, or leased by such bank under any lease for such purpose which has a term of more than ten years” after “convenient for the transaction of its business”, struck out “subject to the approval of the Board” after “necessary for the transaction of its business”, substituted “and, by the board of directors of the bank, to prescribe, amend, and repeal by-laws governing the manner in which its affairs may be administered, consistent with applicable laws and regulations, as administered by the Finance Board. No officer, employee, attorney, or agent of a Federal home loan bank” for “and, by its Board of directors, to prescribe, amend, and repeal bylaws, rules, and regulations governing the manner in which its affairs may be administered; and the powers granted to it by law may be exercised and enjoyed subject to the approval of the Board. The president of a Federal Home Loan Bank may also be a member of the Board of directors thereof, but no other officer, employee, attorney, or agent of such bank,”, and, in penultimate sentence, substituted “board of directors” for “Board of directors” after “may be a member of the”.
 
-Subsec. (b). Pub. L. 106–102, § 606(d)(2), substituted “Federal home loan banks” for “Federal home loans banks”.
+Subsec. (b). Pub. L. 106–102, § 606(d)(2), substituted “Federal home loan banks” for “Federal home loans banks”.
 
 1989—Subsec. (a). Pub. L. 101–73 substituted “Board” for “board” wherever appearing.
 
@@ -1727,15 +1727,15 @@ Subsec. (b). Pub. L. 106–102, § 606(d)(2), substituted “Federal home loan
 
 1966—Pub. L. 89–754 substituted “but, except with the prior approval of the board, no bank building shall be bought or erected to house any such bank, or leased by such bank under any lease” for “but no bank building shall be bought or erected to house any such bank, nor shall any such bank make any lease” in second sentence.
 
-## § 1433. Exemption from taxation; obligations acceptable as credit on debt of home owner
+## § 1433. Exemption from taxation; obligations acceptable as credit on debt of home owner
 
-Any and all notes, debentures, bonds, and other such obligations issued by any bank, and consolidated Federal Home Loan Bank bonds and debentures, shall be exempt both as to principal and interest from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority. The bank, including its franchise, its capital, reserves, and surplus, its advances, and its income, shall be exempt from all taxation now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority; except that in 1
+Any and all notes, debentures, bonds, and other such obligations issued by any bank, and consolidated Federal Home Loan Bank bonds and debentures, shall be exempt both as to principal and interest from all taxation (except surtaxes, estate, inheritance, and gift taxes) now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority. The bank, including its franchise, its capital, reserves, and surplus, its advances, and its income, shall be exempt from all taxation now or hereafter imposed by the United States, by any Territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority; except that in 1
 
-<sup>1</sup>  So in original. Word “in” probably should not appear.
+<sup>1</sup> So in original. Word “in” probably should not appear.
 
 any real property of the bank shall be subject to State, Territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed. The notes, debentures, and bonds issued by any bank, with unearned coupons attached, shall be accepted at par by such bank in payment of or as a credit against the obligation of any home-owner debtor of such bank.
 
-(July 22, 1932, ch. 522, § 13, 47 Stat. 735; May 28, 1935, ch. 150, § 8, 49 Stat. 295.)
+(July 22, 1932, ch. 522, § 13, 47 Stat. 735; May 28, 1935, ch. 150, § 8, 49 Stat. 295.)
 
 **Editorial Notes**
 
@@ -1743,17 +1743,17 @@ any real property of the bank shall be subject to State, Territorial, county, mu
 
 1935—Act May 28, 1935, inserted “and consolidated Federal Home Loan Bank bonds and debentures” in first sentence.
 
-## § 1434. Depositaries of public money; financial agents
+## § 1434. Depositaries of public money; financial agents
 
 When designated for that purpose by the Secretary of the Treasury, each Federal Home Loan Bank shall be a depositary of public money, except receipts from customs, under such regulations as may be prescribed by said Secretary; and it may also be employed as a financial agent of the Government; and it shall perform all such reasonable duties as depositary of public money and financial agent of the Government as may be required of it.
 
-(July 22, 1932, ch. 522, § 14, 47 Stat. 736.)
+(July 22, 1932, ch. 522, § 14, 47 Stat. 736.)
 
-## § 1435. Obligations as lawful investments; liability of United States for debentures, etc., issued by banks
+## § 1435. Obligations as lawful investments; liability of United States for debentures, etc., issued by banks
 
 Obligations of the Federal Home Loan Banks issued with the approval of the Board or the Director under this chapter shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer or officers thereof. The Federal reserve banks are authorized to act as depositaries, custodians, and/or fiscal agents for Federal Home Loan Banks in the general performance of their powers under this chapter. All obligations of Federal Home Loan Banks shall plainly state that such obligations are not obligations of the United States and are not guaranteed by the United States.
 
-(July 22, 1932, ch. 522, § 15, 47 Stat. 736; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, § 1204(7), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 15, 47 Stat. 736; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, § 1204(7), July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
@@ -1763,7 +1763,7 @@ Obligations of the Federal Home Loan Banks issued with the approval of the Board
 
 1989—Pub. L. 101–73 substituted “Board” for “board”.
 
-## § 1436. Reserves and dividends; emergency suspensions of requirements
+## § 1436. Reserves and dividends; emergency suspensions of requirements
 
 **(a) Accumulation and maintenance of reserves; payment of dividends**
 
@@ -1789,7 +1789,7 @@ the Director may authorize such bank to declare and pay dividends out of undivid
 
 Notwithstanding any payment of dividends by any Federal Home Loan Bank pursuant to an authorization by the Director under paragraph (1), the applicable provisions of section 1441 of this title shall continue to apply with respect to such bank, and to such bank’s investment in the Financing Corporation, in the same manner and to the same extent as if such payment had not been made.
 
-(July 22, 1932, ch. 522, § 16, 47 Stat. 736; Aug. 2, 1954, ch. 649, title II, § 204(a), 68 Stat. 622; Pub. L. 88–560, title VII, § 701(d)(2), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, § 807(*l*), Aug. 1, 1968, 82 Stat. 545; Pub. L. 93–383, title VIII, § 805(c)(3), Aug. 22, 1974, 88 Stat. 727; Pub. L. 97–320, title I, § 124, Oct. 15, 1982, 96 Stat. 1485; Pub. L. 100–86, title III, § 306(a), Aug. 10, 1987, 101 Stat. 600; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 724(a), Aug. 9, 1989, 103 Stat. 412, 428; Pub. L. 106–102, title VI, § 606(g), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 110–289, div. A, title II, § 1204(8), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 16, 47 Stat. 736; Aug. 2, 1954, ch. 649, title II, § 204(a), 68 Stat. 622; Pub. L. 88–560, title VII, § 701(d)(2), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, § 807(*l*), Aug. 1, 1968, 82 Stat. 545; Pub. L. 93–383, title VIII, § 805(c)(3), Aug. 22, 1974, 88 Stat. 727; Pub. L. 97–320, title I, § 124, Oct. 15, 1982, 96 Stat. 1485; Pub. L. 100–86, title III, § 306(a), Aug. 10, 1987, 101 Stat. 600; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 724(a), Aug. 9, 1989, 103 Stat. 412, 428; Pub. L. 106–102, title VI, § 606(g), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 110–289, div. A, title II, § 1204(8), July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
@@ -1797,13 +1797,13 @@ Notwithstanding any payment of dividends by any Federal Home Loan Bank pursuant 
 
 2008—Pub. L. 110–289 substituted “the Director” for “the Board” wherever appearing.
 
-1999—Subsec. (a). Pub. L. 106–102, in third sentence substituted “previously retained earnings or current net earnings” for “net earnings” and struck out “, and then only with the approval of the Federal Housing Finance Board” after “section 1441b(e) of this title” and struck out fourth sentence which read as follows: “Beginning on January 1, 1992, the preceding sentence shall be applied by substituting ‘previously retained earnings or current net earnings’ for ‘net earnings’.”
+1999—Subsec. (a). Pub. L. 106–102, in third sentence substituted “previously retained earnings or current net earnings” for “net earnings” and struck out “, and then only with the approval of the Federal Housing Finance Board” after “section 1441b(e) of this title” and struck out fourth sentence which read as follows: “Beginning on January 1, 1992, the preceding sentence shall be applied by substituting ‘previously retained earnings or current net earnings’ for ‘net earnings’.”
 
-1989—Subsec. (a). Pub. L. 101–73, § 724(a)(1), substituted “Each Federal Home Loan Bank may carry to a reserve account from time-to-time such portion of its net earnings as may be determined by its board of directors.” for “Each Federal Home Loan Bank shall carry to a reserve account semiannually 20 per centum of its net earnings until said reserve account shall show a credit balance equal to 100 per centum of the paid-in capital of such bank. After said reserve has reached 100 per centum of the paid-in capital of said bank, 5 per centum of its net earnings shall be added thereto semiannually. Whenever said reserve shall have been impaired below 100 per centum of the paid-in capital it shall be restored before any dividends are paid.”
+1989—Subsec. (a). Pub. L. 101–73, § 724(a)(1), substituted “Each Federal Home Loan Bank may carry to a reserve account from time-to-time such portion of its net earnings as may be determined by its board of directors.” for “Each Federal Home Loan Bank shall carry to a reserve account semiannually 20 per centum of its net earnings until said reserve account shall show a credit balance equal to 100 per centum of the paid-in capital of such bank. After said reserve has reached 100 per centum of the paid-in capital of said bank, 5 per centum of its net earnings shall be added thereto semiannually. Whenever said reserve shall have been impaired below 100 per centum of the paid-in capital it shall be restored before any dividends are paid.”
 
-Pub. L. 101–73, § 724(a)(2), substituted “No dividends shall be paid except out of net earnings remaining after reductions for all reserves, chargeoffs, purchases of capital certificates of the Financing Corporation, and payments relating to the Funding Corporation required under this chapter have been provided for, other than chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation under section 1441 of this title or payments relating to the Funding Corporation Principal Fund under section 1441b(e) of this title, and then only with the approval of the Federal Housing Finance Board. Beginning on January 1, 1992, the preceding sentence shall be applied by substituting ‘previously retained earnings or current net earnings’ for ‘net earnings’.” for “No dividends shall be paid except out of net earnings remaining after all reserves and charge-offs required under this chapter have been provided for, and then only with the approval of the board.”
+Pub. L. 101–73, § 724(a)(2), substituted “No dividends shall be paid except out of net earnings remaining after reductions for all reserves, chargeoffs, purchases of capital certificates of the Financing Corporation, and payments relating to the Funding Corporation required under this chapter have been provided for, other than chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation under section 1441 of this title or payments relating to the Funding Corporation Principal Fund under section 1441b(e) of this title, and then only with the approval of the Federal Housing Finance Board. Beginning on January 1, 1992, the preceding sentence shall be applied by substituting ‘previously retained earnings or current net earnings’ for ‘net earnings’.” for “No dividends shall be paid except out of net earnings remaining after all reserves and charge-offs required under this chapter have been provided for, and then only with the approval of the board.”
 
-Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
 1987—Subsec. (c). Pub. L. 100–86 added subsec. (c).
 
@@ -1821,21 +1821,21 @@ Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board�
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–73, title VII, § 724(b), Aug. 9, 1989, 103 Stat. 429, provided that: “The amendment made by subsection (a)(1) [amending this section] shall take effect on January 1, 1992.”
+Pub. L. 101–73, title VII, § 724(b), Aug. 9, 1989, 103 Stat. 429, provided that: “The amendment made by subsection (a)(1) [amending this section] shall take effect on January 1, 1992.”
 
 **Effective Date of 1968 Amendment**
 
 For effective date of amendment by title VIII of Pub. L. 90–448, see section 808 of Pub. L. 90–448, set out as an Effective Date note under section 1716b of this title.
 
-## § 1437. Repealed. Pub. L. 101–73, title VII, § 703(a), Aug. 9, 1989, 103 Stat. 415
+## § 1437. Repealed. Pub. L. 101–73, title VII, § 703(a), Aug. 9, 1989, 103 Stat. 415
 
-Section, acts July 22, 1932, ch. 522, § 17, 47 Stat. 736; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, § 109(a)(3), 69 Stat. 640; June 29, 1977, Pub. L. 95–56, 91 Stat. 252; Aug. 4, 1977, Pub. L. 95–90, §§ 1, 2, 91 Stat. 564; Oct. 15, 1982, Pub. L. 97–320, title I, § 127, 96 Stat. 1486; Jan. 12, 1983, Pub. L. 97–457, § 8, 96 Stat. 2507; Nov. 30, 1983, Pub. L. 98–181, title I [title VII, § 702(b)], 97 Stat. 1267, set forth powers and duties, etc., of Federal Home Loan Bank Board.
+Section, acts July 22, 1932, ch. 522, § 17, 47 Stat. 736; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, § 109(a)(3), 69 Stat. 640; June 29, 1977, Pub. L. 95–56, 91 Stat. 252; Aug. 4, 1977, Pub. L. 95–90, §§ 1, 2, 91 Stat. 564; Oct. 15, 1982, Pub. L. 97–320, title I, § 127, 96 Stat. 1486; Jan. 12, 1983, Pub. L. 97–457, § 8, 96 Stat. 2507; Nov. 30, 1983, Pub. L. 98–181, title I [title VII, § 702(b)], 97 Stat. 1267, set forth powers and duties, etc., of Federal Home Loan Bank Board.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions, Personnel, and Property of Federal Savings and Loan Insurance Corporation and Federal Home Loan Bank Board**
 
-Pub. L. 101–73, title IV, §§ 401–406, Aug. 9, 1989, 103 Stat. 354–363, as amended by Pub. L. 102–233, title III, § 313, Dec. 12, 1991, 105 Stat. 1770; Pub. L. 111–203, title III, § 367(5), July 21, 2010, 124 Stat. 1556, provided that:
+Pub. L. 101–73, title IV, §§ 401–406, Aug. 9, 1989, 103 Stat. 354–363, as amended by Pub. L. 102–233, title III, § 313, Dec. 12, 1991, 105 Stat. 1770; Pub. L. 111–203, title III, § 367(5), July 21, 2010, 124 Stat. 1556, provided that:
 
 > **“SEC. 401. FSLIC AND FEDERAL HOME LOAN BANK BOARD ABOLISHED.**
 
@@ -1943,7 +1943,7 @@ Pub. L. 101–73, title IV, §§ 401–406, Aug. 9, 1989, 103 Stat. 354–363,
 
 > shall remain in effect according to the terms of such regulations and orders and shall be enforceable by the Federal Deposit Insurance Corporation unless determined otherwise by such Corporation after consultation with the Comptroller of the Currency and, with respect to regulations and orders relating to the scope of deposit insurance coverage, pursuant to subsection (c).
 
-> **“[(b)** Repealed. Pub. L. 111–203, title III, § 367(5)(B), July 21, 2010, 124 Stat. 1556.]
+> **“[(b)** Repealed. Pub. L. 111–203, title III, § 367(5)(B), July 21, 2010, 124 Stat. 1556.]
 
 > **“(c) Procedure for Differences in Deposit Insurance Coverage Between FSLIC and FDIC.—**
 
@@ -2057,7 +2057,7 @@ Pub. L. 101–73, title IV, §§ 401–406, Aug. 9, 1989, 103 Stat. 354–363,
 
 **Transferred Employees of Federal Home Loan Banks and Joint Offices**
 
-Pub. L. 101–73, title VII, § 722, Aug. 9, 1989, 103 Stat. 426, provided that:
+Pub. L. 101–73, title VII, § 722, Aug. 9, 1989, 103 Stat. 426, provided that:
 
 > **“(a) In General.—** Each employee of the Federal Home Loan Banks or joint offices of such Banks performing a function identified for transfer under section 403 of this Act [set out above], including employees who otherwise would be ineligible for employment by the United States because of their citizenship, shall be transferred for employment not later than 60 days after the date of the enactment of this Act [Aug. 9, 1989].
 
@@ -2075,7 +2075,7 @@ Pub. L. 101–73, title VII, § 722, Aug. 9, 1989, 103 Stat. 426, provided tha
 
 **Transitional Provisions**
 
-Pub. L. 101–73, title VII, § 723, Aug. 9, 1989, 103 Stat. 427, provided that:
+Pub. L. 101–73, title VII, § 723, Aug. 9, 1989, 103 Stat. 427, provided that:
 
 > **“(a) Federal Home Loan Banks’ Share of Administrative Expenses.—** The Federal Home Loan Banks shall pay to the Director of the Office of Thrift Supervision the amount obtained by multiplying the administrative expenses of the Office of Thrift Supervision incurred in connection with functions of the Banks that are transferred to the Office (less any fees or assessments collected by the Office) by a fraction—
 
@@ -2099,11 +2099,11 @@ Pub. L. 101–73, title VII, § 723, Aug. 9, 1989, 103 Stat. 427, provided tha
 
 **Special Account**
 
-Pub. L. 101–73, title VII, § 725, Aug. 9, 1989, 103 Stat. 429, provided that: “At the time of dissolution of the Federal Home Loan Bank Board, all such moneys and funds as shall remain in the special deposit account of the Federal Home Loan Bank Board, or other such accounts, shall become the property of the Federal Housing Finance Board.”
+Pub. L. 101–73, title VII, § 725, Aug. 9, 1989, 103 Stat. 429, provided that: “At the time of dissolution of the Federal Home Loan Bank Board, all such moneys and funds as shall remain in the special deposit account of the Federal Home Loan Bank Board, or other such accounts, shall become the property of the Federal Housing Finance Board.”
 
 **Improvements in Supervisory Process**
 
-Pub. L. 100–86, title IV, § 407(a)–(c), Aug. 10, 1987, 101 Stat. 616, 617, provided that:
+Pub. L. 100–86, title IV, § 407(a)–(c), Aug. 10, 1987, 101 Stat. 616, 617, provided that:
 
 > **“(a) Enhanced Flexibility in the Supervisory Process.—** The Federal Home Loan Bank Board (acting as such under the Federal Home Loan Bank Act [12 U.S.C. 1421 et seq.] and in the Board’s capacity as the board of trustees of the Federal Savings and Loan Insurance Corporation under section 402(a) of the National Housing Act [12 U.S.C. 1725(a)]) shall issue guidelines which provide greater flexibility for supervisory agents, examiners, and other employees and agents of the Board, the Federal Savings and Loan Insurance Corporation, and the Federal home loan banks in applying regulations, standards, and other requirements of the Board or such Corporation with regard to particular situations or particular thrift institutions.
 
@@ -2133,7 +2133,7 @@ Pub. L. 100–86, title IV, § 407(a)–(c), Aug. 10, 1987, 101 Stat. 616, 617
 
 **Guidelines Respecting Action on Applications to Bank Board or Federal Savings and Loan Insurance Corporation**
 
-Pub. L. 100–86, title IV, § 410(a), (c), (d), Aug. 10, 1987, 101 Stat. 620, provided that:
+Pub. L. 100–86, title IV, § 410(a), (c), (d), Aug. 10, 1987, 101 Stat. 620, provided that:
 
 > **“(a) In General.—** The Federal Home Loan Bank Board shall promulgate guidelines which provide that with respect to each type of completed application (other than an application under section 408(g) of the National Housing Act [12 U.S.C. 1730a(g)]) by any person for approval by the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation, the application shall be deemed to be approved as of the end of the period prescribed under such guidelines unless the Board or the Federal Savings and Loan Insurance Corporation, as the case may be, approves or disapproves such application before the end of such period.
 
@@ -2143,11 +2143,11 @@ Pub. L. 100–86, title IV, § 410(a), (c), (d), Aug. 10, 1987, 101 Stat. 620,
 
 **Guidelines for Asset Disposition**
 
-Pub. L. 100–86, title IV, § 411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board to submit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
+Pub. L. 100–86, title IV, § 411, Aug. 10, 1987, 101 Stat. 620, which directed Federal Home Loan Bank Board to submit, not later than 6 months after Aug. 10, 1987, to congressional committees a report containing appropriate new guidelines to prevent dumping of assets over which it had direct or indirect control and which the Board was to promulgate at end of such period, ceased to be effective on date that notice of completion of all net new borrowing by Financing Corporation is published in Federal Register (Mar. 30, 1992). See section 416 of Pub. L. 100–86, set out as a Sunset and Savings Provision note under section 1441 of this title.
 
 **Expansion of Use of Underutilized Minority Thrift Institutions**
 
-Pub. L. 100–86, title IV, § 412, Aug. 10, 1987, 101 Stat. 620, provided that:
+Pub. L. 100–86, title IV, § 412, Aug. 10, 1987, 101 Stat. 620, provided that:
 
 > **“(a) Consultation on Expanded Use.—** The Secretary of the Treasury shall consult with the Federal Home Loan Bank Board and the Federal Savings and Loan Insurance Corporation on methods for increasing the use of underutilized minority thrift institutions as depositaries or financial agents of Federal agencies.
 
@@ -2159,7 +2159,7 @@ Pub. L. 100–86, title IV, § 412, Aug. 10, 1987, 101 Stat. 620, provided tha
 
 **Congressional Oversight**
 
-Pub. L. 100–86, title IV, § 415, Aug. 10, 1987, 101 Stat. 622, provided that:
+Pub. L. 100–86, title IV, § 415, Aug. 10, 1987, 101 Stat. 622, provided that:
 
 > **“(a) Banking Committee Review of Panel Actions.—** The Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate shall monitor and review the actions taken by each review panel established pursuant to the amendment made by section 407(d) of this Act [enacting former section 1442a of this title].
 
@@ -2181,7 +2181,7 @@ Pub. L. 100–86, title IV, § 415, Aug. 10, 1987, 101 Stat. 622, provided tha
 
 **Study and Reports Concerning Direct Investments**
 
-Pub. L. 100–86, title XII, § 1203, Aug. 10, 1987, 101 Stat. 661, provided that:
+Pub. L. 100–86, title XII, § 1203, Aug. 10, 1987, 101 Stat. 661, provided that:
 
 > **“(a) Study Required.—** The Federal Home Loan Bank Board shall conduct a study of the effect of direct investment activities on insured institutions, including comparative analyses of the effect of direct investment activities on—
 
@@ -2207,25 +2207,25 @@ Pub. L. 100–86, title XII, § 1203, Aug. 10, 1987, 101 Stat. 661, provided t
 
 > **“(d) Direct Investment Activity Defined.—** For purposes of this section, the term ‘direct investment activities’ means activities which are limited under Board Resolution Numbered 87–215 and Board Resolution Numbered 87–215A.”
 
-## § 1438. Omitted
+## § 1438. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act July 22, 1932, ch. 522, § 18, 47 Stat. 737; Pub. L. 89–754, title X, § 1016(b), Nov. 3, 1966, 80 Stat. 1293; Pub. L. 101–73, title VII, §§ 701(b)(2), (b)(3)(B), 711, 712, Aug. 9, 1989, 103 Stat. 412, 419; Pub. L. 104–66, title II, § 2191, Dec. 21, 1995, 109 Stat. 732; Pub. L. 106–102, title VI, § 606(h), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title II, § 1204(2), July 30, 2008, 122 Stat. 2786; Pub. L. 111–203, title III, § 364(a), July 21, 2010, 124 Stat. 1555, was omitted in view of the repeal of subsecs. (a) to (c) which comprised this section. Subsec. (a), which related to authorization of appropriations for certain expenses of the Federal Home Loan Bank Board, was repealed by Pub. L. 101–73, title VII, § 712, Aug. 9, 1989, 103 Stat. 419. Subsec. (b), which related to assessments for administrative expenses of the Federal Housing Finance Board, was repealed by Pub. L. 110–289, div. A, title II, § 1204(2), July 30, 2008, 122 Stat. 2786. Subsec. (c), which related to acquisition of property by the Director of the Office of Thrift Supervision, was repealed by Pub. L. 111–203, title III, § 364(a), July 21, 2010, 124 Stat. 1555.
+Section, act July 22, 1932, ch. 522, § 18, 47 Stat. 737; Pub. L. 89–754, title X, § 1016(b), Nov. 3, 1966, 80 Stat. 1293; Pub. L. 101–73, title VII, §§ 701(b)(2), (b)(3)(B), 711, 712, Aug. 9, 1989, 103 Stat. 412, 419; Pub. L. 104–66, title II, § 2191, Dec. 21, 1995, 109 Stat. 732; Pub. L. 106–102, title VI, § 606(h), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title II, § 1204(2), July 30, 2008, 122 Stat. 2786; Pub. L. 111–203, title III, § 364(a), July 21, 2010, 124 Stat. 1555, was omitted in view of the repeal of subsecs. (a) to (c) which comprised this section. Subsec. (a), which related to authorization of appropriations for certain expenses of the Federal Home Loan Bank Board, was repealed by Pub. L. 101–73, title VII, § 712, Aug. 9, 1989, 103 Stat. 419. Subsec. (b), which related to assessments for administrative expenses of the Federal Housing Finance Board, was repealed by Pub. L. 110–289, div. A, title II, § 1204(2), July 30, 2008, 122 Stat. 2786. Subsec. (c), which related to acquisition of property by the Director of the Office of Thrift Supervision, was repealed by Pub. L. 111–203, title III, § 364(a), July 21, 2010, 124 Stat. 1555.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–203, title III, § 364(a), July 21, 2010, 124 Stat. 1555, provided that, effective 90 days after the transfer date, subsection (c) of this section is repealed. For definition of “transfer date”, see section 5301 of this title.
+Pub. L. 111–203, title III, § 364(a), July 21, 2010, 124 Stat. 1555, provided that, effective 90 days after the transfer date, subsection (c) of this section is repealed. For definition of “transfer date”, see section 5301 of this title.
 
-## § 1438a. Nonadministrative expenses; expenses of studies and investigations
+## § 1438a. Nonadministrative expenses; expenses of studies and investigations
 
 On and after July 12, 1960, expenses of the Board in making studies or investigations specifically directed by law, or requested by the Congress or either House thereof or by a committee of either House, including services authorized by section 3109 of title 5, shall be considered as nonadministrative expenses.
 
-(Pub. L. 86–626, title II, § 201, July 12, 1960, 74 Stat. 441.)
+(Pub. L. 86–626, title II, § 201, July 12, 1960, 74 Stat. 441.)
 
 **Editorial Notes**
 
@@ -2233,27 +2233,27 @@ On and after July 12, 1960, expenses of the Board in making studies or investiga
 
 “Section 3109 of title 5” substituted in text for “section 15 of the Act of August 2, 1946 (5 U.S.C. 55a)” on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5, Government Organization and Employees.
 
-## §§ 1439, 1439–1. Repealed. Pub. L. 101–73, title VII, §§ 708, 712, Aug. 9, 1989, 103 Stat. 418, 419
+## §§ 1439, 1439–1. Repealed. Pub. L. 101–73, title VII, §§ 708, 712, Aug. 9, 1989, 103 Stat. 418, 419
 
-Section 1439, acts July 22, 1932, ch. 522, § 19, 47 Stat. 737; May 28, 1935, ch. 150, § 9, 49 Stat. 295; July 3, 1948, ch. 825, § 2, 62 Stat. 1240, related to appointment, compensation, etc., of officers and employees of Board.
+Section 1439, acts July 22, 1932, ch. 522, § 19, 47 Stat. 737; May 28, 1935, ch. 150, § 9, 49 Stat. 295; July 3, 1948, ch. 825, § 2, 62 Stat. 1240, related to appointment, compensation, etc., of officers and employees of Board.
 
-Section 1439–1, act July 22, 1932, ch. 522, § 19A, as added Aug. 10, 1987, Pub. L. 100–86, title V, § 505(d), 101 Stat. 633, related to apportionment of monies received by Board.
+Section 1439–1, act July 22, 1932, ch. 522, § 19A, as added Aug. 10, 1987, Pub. L. 100–86, title V, § 505(d), 101 Stat. 633, related to apportionment of monies received by Board.
 
-## § 1439a. Deposits in special fund; availability for all purposes of Federal Home Loan Bank Board and Federal Home Loan Bank Administration
+## § 1439a. Deposits in special fund; availability for all purposes of Federal Home Loan Bank Board and Federal Home Loan Bank Administration
 
-All moneys and funds heretofore deposited in the Treasury of the United States under the last sentence of section 1439 1
+All moneys and funds heretofore deposited in the Treasury of the United States under the last sentence of section 1439 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title (including unexpended balances of moneys appropriated therefrom for administrative expenses), and hereafter all moneys and funds which would, except for this provision, be so depositable thereunder, shall be deposited with the Treasurer of the United States in a special deposit account and shall be available, retroactively as well as prospectively, for expenditure for all purposes of the Federal Home Loan Bank Board and the Federal Home Loan Bank Administration, subject to subsections (a) and (b) of section 712a of title 15.
 
-(June 26, 1943, ch. 145, title I, § 101, 57 Stat. 186; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, § 109(a)(3), 69 Stat. 640.)
+(June 26, 1943, ch. 145, title I, § 101, 57 Stat. 186; 1947 Reorg. Plan No. 3, eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954; Aug. 11, 1955, ch. 783, title I, § 109(a)(3), 69 Stat. 640.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1439 of this title, referred to in text, was repealed by Pub. L. 101–73, title VII, § 708, Aug. 9, 1989, 103 Stat. 418.
+Section 1439 of this title, referred to in text, was repealed by Pub. L. 101–73, title VII, § 708, Aug. 9, 1989, 103 Stat. 418.
 
 **Codification**
 
@@ -2263,7 +2263,7 @@ Section was enacted as part of the Independent Offices Appropriation Act, 1944, 
 
 **Change of Name**
 
-“Home Loan Bank Board” changed to “Federal Home Loan Bank Board” by act Aug. 11, 1955, ch. 783, § 109(a)(3), which was classified to section 1437(b) of this title prior to the repeal of section 1437 by Pub. L. 101–73, title VII, § 703(a), Aug. 9, 1989, 103 Stat. 415. Previously, “Home Loan Bank Board” had been substituted for “Federal Home Loan Bank Board” by Reorg. Plan No. 3 of 1947.
+“Home Loan Bank Board” changed to “Federal Home Loan Bank Board” by act Aug. 11, 1955, ch. 783, § 109(a)(3), which was classified to section 1437(b) of this title prior to the repeal of section 1437 by Pub. L. 101–73, title VII, § 703(a), Aug. 9, 1989, 103 Stat. 415. Previously, “Home Loan Bank Board” had been substituted for “Federal Home Loan Bank Board” by Reorg. Plan No. 3 of 1947.
 
 **Transfer of Functions**
 
@@ -2275,33 +2275,33 @@ Federal Home Loan Bank Board abolished and functions transferred, see sections 4
 
 For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 
-## § 1440. Examinations and audits
+## § 1440. Examinations and audits
 
 The Director shall from time to time, at least annually, require examinations and reports of condition of all Federal Home Loan Banks in such form as the Director shall prescribe and shall furnish periodically statements based upon the reports of the banks to the Director. For the purposes of this chapter, examiners appointed by the Director shall be subject to the same requirements, responsibilities, and penalties as are applicable to examiners under the National Bank Act [12 U.S.C. 21 et seq.] and the Federal Reserve Act [12 U.S.C. 221 et seq.], and shall have, in the exercise of functions under this chapter, the same powers and privileges as are vested in such examiners by law. In addition to such examinations, the Comptroller General may audit or examine the Director and the Banks, to determine the extent to which the Director and the Banks are fairly and effectively fulfilling the purposes of this chapter.
 
-(July 22, 1932, ch. 522, § 20, 47 Stat. 738; June 27, 1950, ch. 369, § 10, 64 Stat. 259; Aug. 2, 1954, ch. 649, title VIII, § 802(f), 68 Stat. 643; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 702(b), Aug. 9, 1989, 103 Stat. 412, 415; Pub. L. 110–289, div. A, title II, § 1204(8), (9), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 20, 47 Stat. 738; June 27, 1950, ch. 369, § 10, 64 Stat. 259; Aug. 2, 1954, ch. 649, title VIII, § 802(f), 68 Stat. 643; Pub. L. 101–73, title VII, §§ 701(b)(1), (3)(A), 702(b), Aug. 9, 1989, 103 Stat. 412, 415; Pub. L. 110–289, div. A, title II, § 1204(8), (9), July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
+The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
-The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 **Amendments**
 
 2008—Pub. L. 110–289 substituted “The Director” for “The Board” and “the Director” for “the Board” wherever appearing.
 
-1989—Pub. L. 101–73, § 702(b), inserted provisions relating to audit or examination by the Comptroller General.
+1989—Pub. L. 101–73, § 702(b), inserted provisions relating to audit or examination by the Comptroller General.
 
-Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
 
 1954—Act Aug. 2, 1954, struck out second sentence relating to annual report of the board to Congress. See section 1437(b) of this title.
 
 1950—Act June 27, 1950, struck out “twice” before “annually”.
 
-## § 1440a. Sharing of information among Federal Home Loan Banks
+## § 1440a. Sharing of information among Federal Home Loan Banks
 
 **(a) Information on financial condition**
 
@@ -2325,15 +2325,15 @@ Nothing in this section shall affect the obligations of any Federal Home Loan Ba
 
 The Director shall not be deemed to have waived any privilege applicable to any information concerning a Federal Home Loan Bank by transferring, or permitting the transfer of, that information to any other Federal Home Loan Bank for the purposes set out in subsection (a).
 
-(July 22, 1932, ch. 522, § 20A, as added Pub. L. 110–289, div. A, title II, § 1207, July 30, 2008, 122 Stat. 2787.)
+(July 22, 1932, ch. 522, § 20A, as added Pub. L. 110–289, div. A, title II, § 1207, July 30, 2008, 122 Stat. 2787.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Exchange Act of 1934, referred to in subsecs. (a) and (c), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsecs. (a) and (c), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-## § 1441. Financing Corporation
+## § 1441. Financing Corporation
 
 **(a) Establishment**
 
@@ -2575,15 +2575,15 @@ The Financing Corporation, like the Federal Home Loan Banks, shall be treated as
 
 Notwithstanding paragraph (7),1
 
-<sup>1</sup>  So in original. Probably should refer to paragraph (6) in view of the renumbering of paragraph (7) as (6) by Pub. L. 101–73.
+<sup>1</sup> So in original. Probably should refer to paragraph (6) in view of the renumbering of paragraph (7) as (6) by Pub. L. 101–73.
 
 obligations of the Financing Corporation shall be deemed to be exempt securities (within the meaning of laws administered by the Securities and Exchange Commission) to the same extent as securities which are direct obligations of the United States or are guaranteed as to principal or interest by the United States.
 
 **(9) Minority participation in public offerings**
 
-The Chairperson of the Director 2
+The Chairperson of the Director 2
 
-<sup>2</sup>  So in original. See 2008 Amendment note below.
+<sup>2</sup> So in original. See 2008 Amendment note below.
 
 and the Directorate shall ensure that minority owned or controlled commercial banks, investment banking firms, underwriters, and bond counsels throughout the United States have an opportunity to participate to a significant degree in any public offering of obligations issued under this section.
 
@@ -2595,9 +2595,9 @@ The Financing Corporation assessments which were assessed on insured institution
 
 **(2) New assessment authority**
 
-In addition to the amounts obtained pursuant to paragraph (1), the Financing Corporation, with the approval of the Board 3
+In addition to the amounts obtained pursuant to paragraph (1), the Financing Corporation, with the approval of the Board 3
 
-<sup>3</sup>  See 2008 Amendment note below.
+<sup>3</sup> See 2008 Amendment note below.
 
 of Directors of the Federal Deposit Insurance Corporation, shall assess against each insured depository institution an assessment (in the same manner as assessments are assessed against such institutions by the Federal Deposit Insurance Corporation under section 1817 of this title).
 
@@ -2665,7 +2665,7 @@ The Federal Reserve banks are authorized to act as depositaries for or fiscal ag
 
 Notwithstanding the fact that no Government funds may be invested in the Financing Corporation, the Financing Corporation shall be treated, for purposes of sections 9105,4
 
-<sup>4</sup>  See References in Text note below.
+<sup>4</sup> See References in Text note below.
 
 9107, and 9108 of title 31, as a mixed-ownership Government corporation which has capital of the Government.
 
@@ -2697,47 +2697,47 @@ The term “net earnings” means net earnings without reduction for any chargeo
 
 **(3) Insured depository institution**
 
-The term “insured depository institution” has the same meaning as in section 1813 of this title 5
+The term “insured depository institution” has the same meaning as in section 1813 of this title 5
 
-<sup>5</sup>  So in original. Probably should be followed by a period.
+<sup>5</sup> So in original. Probably should be followed by a period.
 
-(July 22, 1932, ch. 522, § 21, as added Pub. L. 100–86, title III, § 302, Aug. 10, 1987, 101 Stat. 585; amended Pub. L. 101–73, title V, § 512, title VII, §§ 701(b)(2), 713, Aug. 9, 1989, 103 Stat. 406, 412, 419; Pub. L. 102–233, title I, § 104, title III, § 302(b), Dec. 12, 1991, 105 Stat. 1762, 1767; Pub. L. 102–550, title XVI, § 1611(c), Oct. 28, 1992, 106 Stat. 4090; Pub. L. 104–208, div. A, title II, § 2703(a), Sept. 30, 1996, 110 Stat. 3009–485; Pub. L. 109–173, § 9(d)(2), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title II, § 1204(6), (8), (12), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 21, as added Pub. L. 100–86, title III, § 302, Aug. 10, 1987, 101 Stat. 585; amended Pub. L. 101–73, title V, § 512, title VII, §§ 701(b)(2), 713, Aug. 9, 1989, 103 Stat. 406, 412, 419; Pub. L. 102–233, title I, § 104, title III, § 302(b), Dec. 12, 1991, 105 Stat. 1762, 1767; Pub. L. 102–550, title XVI, § 1611(c), Oct. 28, 1992, 106 Stat. 4090; Pub. L. 104–208, div. A, title II, § 2703(a), Sept. 30, 1996, 110 Stat. 3009–485; Pub. L. 109–173, § 9(d)(2), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title II, § 1204(6), (8), (12), July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1725 of this title, referred to in subsecs. (c)(2), (e)(2)(A), and (g)(1), was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
+Section 1725 of this title, referred to in subsecs. (c)(2), (e)(2)(A), and (g)(1), was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
 
-Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
+Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
 
 **Prior Provisions**
 
-A prior section 1441, act July 22, 1932, ch. 522, § 21, 47 Stat. 738, related to unlawful acts and penalties, prior to repeal by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948. See sections 433, 493, 657, 659, 660, 709, 1006, 1014, and 2117 of Title 18, Crimes and Criminal Procedure.
+A prior section 1441, act July 22, 1932, ch. 522, § 21, 47 Stat. 738, related to unlawful acts and penalties, prior to repeal by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948. See sections 433, 493, 657, 659, 660, 709, 1006, 1014, and 2117 of Title 18, Crimes and Criminal Procedure.
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1204(12), substituted “Director” for “Federal Housing Finance Board” wherever appearing in subsecs. (a), (b)(1)(B), (6)(B), (7)(B), (8), (c), (d), (e)(1), (4), (9), (g), (i), and (j).
+2008—Pub. L. 110–289, § 1204(12), substituted “Director” for “Federal Housing Finance Board” wherever appearing in subsecs. (a), (b)(1)(B), (6)(B), (7)(B), (8), (c), (d), (e)(1), (4), (9), (g), (i), and (j).
 
-Subsec. (b)(5). Pub. L. 110–289, § 1204(6), substituted “Director” for “Chairperson of the Federal Housing Finance Board”.
+Subsec. (b)(5). Pub. L. 110–289, § 1204(6), substituted “Director” for “Chairperson of the Federal Housing Finance Board”.
 
-Subsec. (f)(2). Pub. L. 110–289, § 1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting “the Director” for “the Board” wherever appearing, was not executed to subsec. (f)(2) to reflect the probable intent of Congress.
+Subsec. (f)(2). Pub. L. 110–289, § 1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting “the Director” for “the Board” wherever appearing, was not executed to subsec. (f)(2) to reflect the probable intent of Congress.
 
-2006—Subsec. (f)(2). Pub. L. 109–173, § 9(d)(2)(A), struck out before period at end “, except that—
+2006—Subsec. (f)(2). Pub. L. 109–173, § 9(d)(2)(A), struck out before period at end “, except that—
 
 “(A) the assessments imposed on insured depository institutions with respect to any BIF-assessable deposit shall be assessed at a rate equal to ⅕ of the rate of the assessments imposed on insured depository institutions with respect to any SAIF-assessable deposit; and
 
 “(B) no limitation under clause (i) or (iii) of section 7(b)(2)(A) of the Federal Deposit Insurance Act shall apply for purposes of this paragraph.”
 
-Subsec. (k)(4). Pub. L. 109–173, § 9(d)(2)(B), struck out heading and text of par. (4). Text read as follows:
+Subsec. (k)(4). Pub. L. 109–173, § 9(d)(2)(B), struck out heading and text of par. (4). Text read as follows:
 
 “(A) BIF-assessable deposits.—The term ‘BIF-assessable deposit’ means a deposit that is subject to assessment for purposes of the Bank Insurance Fund under the Federal Deposit Insurance Act (including a deposit that is treated as a deposit insured by the Bank Insurance Fund under section 5(d)(3) of the Federal Deposit Insurance Act).
 
 “(B) SAIF-assessable deposit.—The term ‘SAIF-assessable deposit’ has the meaning given to such term in section 2710 of the Deposit Insurance Funds Act of 1996.”
 
-1996—Subsec. (f)(2). Pub. L. 104–208, § 2703(a)(1)(A), in introductory provisions, substituted “In addition to the amounts obtained pursuant to paragraph (1),” for “To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees,”, “insured depository institution” for “Savings Association Insurance Fund member”, and “against such institutions” for “against such members”.
+1996—Subsec. (f)(2). Pub. L. 104–208, § 2703(a)(1)(A), in introductory provisions, substituted “In addition to the amounts obtained pursuant to paragraph (1),” for “To the extent the amounts available pursuant to paragraph (1) are insufficient to cover the amount of interest payments, issuance costs, and custodial fees,”, “insured depository institution” for “Savings Association Insurance Fund member”, and “against such institutions” for “against such members”.
 
-Subsec. (f)(2)(A) to (C). Pub. L. 104–208, § 2703(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
+Subsec. (f)(2)(A) to (C). Pub. L. 104–208, § 2703(a)(1)(B), added subpars. (A) and (B) and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) the sum of—
 
@@ -2751,105 +2751,105 @@ shall not exceed the amount authorized to be assessed against Savings Associatio
 
 “(C) the amount of the applicable assessment determined under such section 1817 of this title shall be reduced by the sum described in subparagraph (A) of this paragraph.”
 
-Subsec. (k). Pub. L. 104–208, § 2703(a)(2)(A), substituted “section, the following definitions shall apply:” for “section—” in introductory provisions.
+Subsec. (k). Pub. L. 104–208, § 2703(a)(2)(A), substituted “section, the following definitions shall apply:” for “section—” in introductory provisions.
 
-Subsec. (k)(1). Pub. L. 104–208, § 2703(a)(2)(B), (C), redesignated par. (2) as (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘Savings Association Insurance Fund member’ means a savings association which is a Savings Association Insurance Fund member as defined by section 7(*l*) of the Federal Deposit Insurance Act.”
+Subsec. (k)(1). Pub. L. 104–208, § 2703(a)(2)(B), (C), redesignated par. (2) as (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘Savings Association Insurance Fund member’ means a savings association which is a Savings Association Insurance Fund member as defined by section 7(*l*) of the Federal Deposit Insurance Act.”
 
-Subsec. (k)(2) to (4). Pub. L. 104–208, § 2703(a)(2)(C), (D), added pars. (3) and (4) and redesignated former pars. (2) and (3) as (1) and (2), respectively.
+Subsec. (k)(2) to (4). Pub. L. 104–208, § 2703(a)(2)(C), (D), added pars. (3) and (4) and redesignated former pars. (2) and (3) as (1) and (2), respectively.
 
 1992—Subsec. (e)(2). Pub. L. 102–550 made technical amendment to reference to December 12, 1991, to correct reference to corresponding provisions of original act.
 
-1991—Subsec. (d)(4). Pub. L. 102–233, § 302(b), substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” in two places.
+1991—Subsec. (d)(4). Pub. L. 102–233, § 302(b), substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” in two places.
 
-Subsec. (e)(2). Pub. L. 102–233, § 104, amended par. (2) generally, substituting provisions setting forth termination date of Financing Corporation borrowing authority for provisions relating to investment of proceeds of obligations of such Corporation.
+Subsec. (e)(2). Pub. L. 102–233, § 104, amended par. (2) generally, substituting provisions setting forth termination date of Financing Corporation borrowing authority for provisions relating to investment of proceeds of obligations of such Corporation.
 
-Subsec. (k)(3). Pub. L. 102–233, § 302(b), substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board”.
+Subsec. (k)(3). Pub. L. 102–233, § 302(b), substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board”.
 
-1989—Subsec. (a). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
+1989—Subsec. (a). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
 
-Subsec. (b)(1)(B). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Federal Home Loan Bank Board”.
+Subsec. (b)(1)(B). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Federal Home Loan Bank Board”.
 
-Subsec. (b)(5). Pub. L. 101–73, § 701(b)(2), substituted “Chairperson” for “Chairman”.
+Subsec. (b)(5). Pub. L. 101–73, § 701(b)(2), substituted “Chairperson” for “Chairman”.
 
-Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Federal Home Loan Bank Board”.
+Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Federal Home Loan Bank Board”.
 
-Subsecs. (b)(6)(B), (7)(B), (8), (c). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
+Subsecs. (b)(6)(B), (7)(B), (8), (c). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
 
-Subsec. (c)(2). Pub. L. 101–73, § 512(3), inserted “prior to August 9, 1989, and thereafter to transfer the proceeds of any obligation issued by the Financing Corporation to the FSLIC Resolution Fund”.
+Subsec. (c)(2). Pub. L. 101–73, § 512(3), inserted “prior to August 9, 1989, and thereafter to transfer the proceeds of any obligation issued by the Financing Corporation to the FSLIC Resolution Fund”.
 
-Subsec. (c)(9). Pub. L. 101–73, § 512(4), struck out “or section 1725(b) of this title” after “with the provisions of this section”.
+Subsec. (c)(9). Pub. L. 101–73, § 512(4), struck out “or section 1725(b) of this title” after “with the provisions of this section”.
 
-Subsec. (d)(1). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
+Subsec. (d)(1). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
 
-Subsec. (d)(4). Pub. L. 101–73, § 512(5), amended generally the portion of par. (4) appearing before the table. Prior to amendment, such portion read as follows: “With respect to the first $1,000,000,000 which the Board may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal Home Loan Bank (or any successor to such bank) shall invest shall be determined by the Board by applying to the total amount of such investment by all such banks the percentage appearing in the following table for each such bank:”.
+Subsec. (d)(4). Pub. L. 101–73, § 512(5), amended generally the portion of par. (4) appearing before the table. Prior to amendment, such portion read as follows: “With respect to the first $1,000,000,000 which the Board may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal Home Loan Bank (or any successor to such bank) shall invest shall be determined by the Board by applying to the total amount of such investment by all such banks the percentage appearing in the following table for each such bank:”.
 
-Subsec. (d)(5). Pub. L. 101–73, § 512(6), substituted “the $1,000,000,000 amount referred to in paragraph (4) which the Federal Housing Finance Board” for “$1,000,000,000 which the Board”.
+Subsec. (d)(5). Pub. L. 101–73, § 512(6), substituted “the $1,000,000,000 amount referred to in paragraph (4) which the Federal Housing Finance Board” for “$1,000,000,000 which the Board”.
 
-Pub. L. 101–73, § 512(2), substituted “by the Federal Housing Finance Board” for “by the Board”.
+Pub. L. 101–73, § 512(2), substituted “by the Federal Housing Finance Board” for “by the Board”.
 
-Subsec. (d)(5)(A), (B). Pub. L. 101–73, § 512(1), which directed the amendment of this section by substituting “Savings Association Insurance Fund member” for “insured institution” wherever appearing, was executed by substituting “Savings Association Insurance Fund members” for “insured institutions”, as the probable intent of Congress.
+Subsec. (d)(5)(A), (B). Pub. L. 101–73, § 512(1), which directed the amendment of this section by substituting “Savings Association Insurance Fund member” for “insured institution” wherever appearing, was executed by substituting “Savings Association Insurance Fund members” for “insured institutions”, as the probable intent of Congress.
 
-Subsec. (d)(6)(A). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board” in introductory provisions and in cls. (i) and (ii).
+Subsec. (d)(6)(A). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board” in introductory provisions and in cls. (i) and (ii).
 
-Subsec. (d)(6)(A)(iii). Pub. L. 101–73, § 512(7), struck out “available for dividends” after “use of net earnings”.
+Subsec. (d)(6)(A)(iii). Pub. L. 101–73, § 512(7), struck out “available for dividends” after “use of net earnings”.
 
-Subsec. (d)(6)(B), (C). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
+Subsec. (d)(6)(B), (C). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
 
-Subsec. (d)(6)(D). Pub. L. 101–73, § 512(8), struck out “available for dividends” after “net earnings”.
+Subsec. (d)(6)(D). Pub. L. 101–73, § 512(8), struck out “available for dividends” after “net earnings”.
 
-Subsec. (d)(6)(E). Pub. L. 101–73, § 512(9), struck out “available for dividends” after “Of the net earnings”.
+Subsec. (d)(6)(E). Pub. L. 101–73, § 512(9), struck out “available for dividends” after “Of the net earnings”.
 
-Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
+Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
 
-Subsec. (d)(6)(F). Pub. L. 101–73, § 512(10), struck out subpar. (F) which defined “net earnings available for dividends”.
+Subsec. (d)(6)(F). Pub. L. 101–73, § 512(10), struck out subpar. (F) which defined “net earnings available for dividends”.
 
-Subsec. (e)(1). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
+Subsec. (e)(1). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
 
-Subsec. (e)(2). Pub. L. 101–73, § 512(12)(A), redesignated par. (3) as (2) and struck out former par. (2) which set an annual limit on net new borrowing by the Financing Corporation.
+Subsec. (e)(2). Pub. L. 101–73, § 512(12)(A), redesignated par. (3) as (2) and struck out former par. (2) which set an annual limit on net new borrowing by the Financing Corporation.
 
-Pub. L. 101–73, § 512(11), which directed amendment of par. (2)(A), was executed, as the probable intent of Congress, to the introductory text of par. (2), to par. (2)(A), and to par. (2)(B), as follows: striking out “used to” after “issued by the Financing Corporation” in the introductory text, inserting “used to” before “purchase” and inserting “prior to August 9, 1989, and thereafter transferred to the FSLIC Resolution Fund” before “; or” in subpar. (A), and by inserting “used to” before “refund” in subpar. (B).
+Pub. L. 101–73, § 512(11), which directed amendment of par. (2)(A), was executed, as the probable intent of Congress, to the introductory text of par. (2), to par. (2)(A), and to par. (2)(B), as follows: striking out “used to” after “issued by the Financing Corporation” in the introductory text, inserting “used to” before “purchase” and inserting “prior to August 9, 1989, and thereafter transferred to the FSLIC Resolution Fund” before “; or” in subpar. (A), and by inserting “used to” before “refund” in subpar. (B).
 
-Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
+Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
 
-Subsec. (e)(3). Pub. L. 101–73, § 512(12)(A), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+Subsec. (e)(3). Pub. L. 101–73, § 512(12)(A), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Subsec. (e)(4). Pub. L. 101–73, § 512(2), (12)(A), redesignated par. (5) as (4) and substituted “Federal Housing Finance Board” for “Board”. Former par. (4) redesignated (3).
+Subsec. (e)(4). Pub. L. 101–73, § 512(2), (12)(A), redesignated par. (5) as (4) and substituted “Federal Housing Finance Board” for “Board”. Former par. (4) redesignated (3).
 
-Subsec. (e)(5). Pub. L. 101–73, § 512(12)(A), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+Subsec. (e)(5). Pub. L. 101–73, § 512(12)(A), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-Subsec. (e)(6). Pub. L. 101–73, § 512(12), redesignated par. (7) as (6) and substituted “FSLIC Resolution Fund” for “Federal Savings and Loan Insurance Corporation”. Former par. (6) redesignated (5).
+Subsec. (e)(6). Pub. L. 101–73, § 512(12), redesignated par. (7) as (6) and substituted “FSLIC Resolution Fund” for “Federal Savings and Loan Insurance Corporation”. Former par. (6) redesignated (5).
 
-Subsec. (e)(7), (8). Pub. L. 101–73, § 512(12)(A), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6).
+Subsec. (e)(7), (8). Pub. L. 101–73, § 512(12)(A), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6).
 
-Subsec. (e)(9), (10). Pub. L. 101–73, §§ 512(2), (12)(A), 701(b)(2), redesignated par. (10) as (9) and substituted “Chairperson” for “Chairman” and “Federal Housing Finance Board” for “Board”. Former par. (9) redesignated (8).
+Subsec. (e)(9), (10). Pub. L. 101–73, §§ 512(2), (12)(A), 701(b)(2), redesignated par. (10) as (9) and substituted “Chairperson” for “Chairman” and “Federal Housing Finance Board” for “Board”. Former par. (9) redesignated (8).
 
-Subsec. (f). Pub. L. 101–73, § 512(13), amended subsec. (f) generally, substituting provisions enumerating various sources from which Financing Corporation shall obtain funds for anticipated interest payments, issuance costs, and custodial fees on obligations issued from preenactment assessments, new assessment authority, and receivership proceeds, for former provisions which had outlined assessment authority of Financing Corporation, setting up supplementary assessment authority, setting limits on total amount assessed, and providing for termination assessments.
+Subsec. (f). Pub. L. 101–73, § 512(13), amended subsec. (f) generally, substituting provisions enumerating various sources from which Financing Corporation shall obtain funds for anticipated interest payments, issuance costs, and custodial fees on obligations issued from preenactment assessments, new assessment authority, and receivership proceeds, for former provisions which had outlined assessment authority of Financing Corporation, setting up supplementary assessment authority, setting limits on total amount assessed, and providing for termination assessments.
 
-Subsec. (g)(1). Pub. L. 101–73, § 512(14), inserted reference to before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund.
+Subsec. (g)(1). Pub. L. 101–73, § 512(14), inserted reference to before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund.
 
-Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
+Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
 
-Subsec. (g)(2). Pub. L. 101–73, § 512(15), inserted at end “For purposes of the foregoing, the Financing Corporation shall be deemed to hold noninterest bearing instruments that it lends temporarily to primary United States Treasury dealers in order to enhance market liquidity and facilitate deliveries, provided that United States Treasury securities of equal or greater value have been delivered as collateral.”
+Subsec. (g)(2). Pub. L. 101–73, § 512(15), inserted at end “For purposes of the foregoing, the Financing Corporation shall be deemed to hold noninterest bearing instruments that it lends temporarily to primary United States Treasury dealers in order to enhance market liquidity and facilitate deliveries, provided that United States Treasury securities of equal or greater value have been delivered as collateral.”
 
-Subsec. (i). Pub. L. 101–73, § 713, redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to Federal Savings and Loan Insurance Corporation Industry Advisory Committee.
+Subsec. (i). Pub. L. 101–73, § 713, redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to Federal Savings and Loan Insurance Corporation Industry Advisory Committee.
 
-Subsec. (i)(1)(A). Pub. L. 101–73, § 512(16), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date by which all stock purchased by the Financing Corporation in the Federal Savings and Loan Insurance Corporation has been retired; or”.
+Subsec. (i)(1)(A). Pub. L. 101–73, § 512(16), added subpar. (A) and struck out former subpar. (A) which read as follows: “the date by which all stock purchased by the Financing Corporation in the Federal Savings and Loan Insurance Corporation has been retired; or”.
 
-Subsec. (i)(2). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
+Subsec. (i)(2). Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
 
-Subsec. (j). Pub. L. 101–73, § 713, redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+Subsec. (j). Pub. L. 101–73, § 713, redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
 
-Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
+Pub. L. 101–73, § 512(2), substituted “Federal Housing Finance Board” for “Board”.
 
-Subsec. (k). Pub. L. 101–73, § 713, redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
+Subsec. (k). Pub. L. 101–73, § 713, redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
 
-Subsec. (k)(1). Pub. L. 101–73, § 512(17)(A), substituted definition of “Savings Association Insurance Fund member” for definition of “insured institution”.
+Subsec. (k)(1). Pub. L. 101–73, § 512(17)(A), substituted definition of “Savings Association Insurance Fund member” for definition of “insured institution”.
 
-Subsec. (k)(2). Pub. L. 101–73, § 512(17)(B), redesignated par. (3) as (2) and struck out former par. (2) which defined “insured member”.
+Subsec. (k)(2). Pub. L. 101–73, § 512(17)(B), redesignated par. (3) as (2) and struck out former par. (2) which defined “insured member”.
 
-Subsec. (k)(3), (4). Pub. L. 101–73, § 512(10), (17)(B), added par. (4) and redesignated pars. (3) and (4) as (2) and (3), respectively.
+Subsec. (k)(3), (4). Pub. L. 101–73, § 512(10), (17)(B), added par. (4) and redesignated pars. (3) and (4) as (2) and (3), respectively.
 
-Subsec. (*l*). Pub. L. 101–73, § 713, redesignated subsec. (*l*) as (k).
+Subsec. (*l*). Pub. L. 101–73, § 713, redesignated subsec. (*l*) as (k).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2859,7 +2859,7 @@ Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub.
 
 **Effective and Termination Dates of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title II, § 2703(c), Sept. 30, 1996, 110 Stat. 3009–485, provided that:
+Pub. L. 104–208, div. A, title II, § 2703(c), Sept. 30, 1996, 110 Stat. 3009–485, provided that:
 
 > **“(1) In general.—** Subsections (a) [amending this section] and (c) [probably should be (b), amending section 1817 of this title] and the amendments made by such subsections shall apply with respect to semiannual periods which begin after December 31, 1996.
 
@@ -2871,11 +2871,11 @@ Pub. L. 104–208, div. A, title II, § 2703(c), Sept. 30, 1996, 110 Stat. 300
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–550, title XVI, § 1618, Oct. 28, 1992, 106 Stat. 4097, provided that: “Except as otherwise provided by a specific provision of this subtitle [subtitle B (§§ 1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 [Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title] and the Federal Home Loan Bank Act [12 U.S.C. 1421 et seq.] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 [Pub. L. 102–233] as of the date of the enactment of such Act [Dec. 12, 1991].”
+Pub. L. 102–550, title XVI, § 1618, Oct. 28, 1992, 106 Stat. 4097, provided that: “Except as otherwise provided by a specific provision of this subtitle [subtitle B (§§ 1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 [Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title] and the Federal Home Loan Bank Act [12 U.S.C. 1421 et seq.] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 [Pub. L. 102–233] as of the date of the enactment of such Act [Dec. 12, 1991].”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–233, title III, § 318, Dec. 12, 1991, 105 Stat. 1773, provided that: “The effective date of the Resolution Trust Corporation Thrift Depositor Protection Reform Act of 1991 [title III of Pub. L. 102–233, amending this section, sections 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under section 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title] shall be February 1, 1992.”
+Pub. L. 102–233, title III, § 318, Dec. 12, 1991, 105 Stat. 1773, provided that: “The effective date of the Resolution Trust Corporation Thrift Depositor Protection Reform Act of 1991 [title III of Pub. L. 102–233, amending this section, sections 1441a, 1441b, 1786, 1818, 1821, 1833b, and 1833e of this title, sections 5313 and 5314 of Title 5, Government Organization and Employees, and section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, enacting provisions set out as notes under section 1441a of this title, and amending provisions set out as notes under sections 1437 and 1441a of this title] shall be February 1, 1992.”
 
 **Transfer of Functions**
 
@@ -2887,7 +2887,7 @@ Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) o
 
 **Prohibition on Deposit Shifting**
 
-Pub. L. 104–208, div. A, title II, § 2703(d), Sept. 30, 1996, 110 Stat. 3009–486, provided that:
+Pub. L. 104–208, div. A, title II, § 2703(d), Sept. 30, 1996, 110 Stat. 3009–486, provided that:
 
 > **“(1) In general.—** Effective as of the date of the enactment of this Act [Sept. 30, 1996] and ending on the date provided in subsection (c)(2) of this section [set out as a note above], the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Board of Governors of the Federal Reserve System, and the Director of the Office of Thrift Supervision shall take appropriate actions, including enforcement actions, denial of applications, or imposition of entrance and exit fees as if such transactions qualified as conversion transactions pursuant to section 5(d) of the Federal Deposit Insurance Act [12 U.S.C. 1815(d)], to prevent insured depository institutions and depository institution holding companies from facilitating or encouraging the shifting of deposits from SAIF-assessable deposits to BIF-assessable deposits (as defined in section 21(k) of the Federal Home Loan Bank Act [12 U.S.C. 1441(k)]) for the purpose of evading the assessments imposed on insured depository institutions with respect to SAIF-assessable deposits under section 7(b) of the Federal Deposit Insurance Act [12 U.S.C. 1817(b)] and section 21(f)(2) of the Federal Home Loan Bank Act [12 U.S.C. 1441(f)(2)].
 
@@ -2901,11 +2901,11 @@ Pub. L. 104–208, div. A, title II, § 2703(d), Sept. 30, 1996, 110 Stat. 300
 
 **State Cooperative Banks Deemed Insured Institutions Under Subsection (f)(4)(F)**
 
-Pub. L. 100–202, § 101(f) [title III, § 301], Dec. 22, 1987, 101 Stat. 1329–187, 1329–211, provided that any cooperative bank established under the law of any State which was directed by the State banking authority to obtain Federal deposit insurance between Jan. 1, 1985, and Jan. 1, 1987, would be deemed to be an insured institution described in 12 U.S.C. 1441(f)(4)(F).
+Pub. L. 100–202, § 101(f) [title III, § 301], Dec. 22, 1987, 101 Stat. 1329–187, 1329–211, provided that any cooperative bank established under the law of any State which was directed by the State banking authority to obtain Federal deposit insurance between Jan. 1, 1985, and Jan. 1, 1987, would be deemed to be an insured institution described in 12 U.S.C. 1441(f)(4)(F).
 
 **Sunset and Savings Provision**
 
-Pub. L. 100–86, title IV, § 416, Aug. 10, 1987, 101 Stat. 623, provided that:
+Pub. L. 100–86, title IV, § 416, Aug. 10, 1987, 101 Stat. 623, provided that:
 
 > **“(a) In General.—** The following provisions shall cease to be effective on the date that a notice is published in the Federal Register by the Financing Corporation pursuant to subsection (b):
 
@@ -2929,15 +2929,15 @@ Pub. L. 100–86, title IV, § 416, Aug. 10, 1987, 101 Stat. 623, provided tha
 
 “(c) Savings Provision.—The termination by subsection (a) of the effectiveness of any provision described in such subsection shall not be construed to affect or limit any authority of the Federal Home Loan Bank Board or the Federal Savings and Loan Insurance Corporation to prescribe any regulation or engage in any activity with respect to any association or insured institution under any other provision of law.”
 
-## § 1441a. Repealed. Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555
+## § 1441a. Repealed. Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555
 
-Section, act July 22, 1932, ch. 522, § 21A, as added Pub. L. 101–73, title V, § 501(a), Aug. 9, 1989, 103 Stat. 363; amended Pub. L. 101–625, title VIII, § 804(d), title IX, § 914(c), Nov. 28, 1990, 104 Stat. 4323, 4395; Pub. L. 101–647, title XXV, §§ 2526(c), 2540, Nov. 29, 1990, 104 Stat. 4876, 4885; Pub. L. 102–18, title I, §§ 101, 102(a), 103(a), 104, 105, title II, §§ 201, 202, title III, § 301, title IV, § 401, Mar. 23, 1991, 105 Stat. 58, 60–63, 65; Pub. L. 102–139, title V, § 523(a), Oct. 28, 1991, 105 Stat. 781; Pub. L. 102–233, title I, §§ 101, 103, 105, 106(a)–(e)(1), title II, § 201, title III, §§ 302(b), (c), 303–312, 314, 316, title IV, §§ 401, 402(a), 403–405, title V, § 501, title VI, §§ 601–611, 613–617, Dec. 12, 1991, 105 Stat. 1761–1765, 1767–1770, 1772–1774, 1776–1789; Pub. L. 102–242, title I, § 141(a)(3), title II, § 251(c)(1), title IV, § 471, Dec. 19, 1991, 105 Stat. 2276, 2333, 2385; Pub. L. 102–378, § 5(e), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 102–550, title V, §§ 503(c)(3), 509(i), title XVI, §§ 1611(a), (d)(1)–(3), 1612, 1613(a)(1)–(6), (8), (b)–(h), 1614(a)(1)–(5), (7), (b), 1615(a)(2), 1616, Oct. 28, 1992, 106 Stat. 3780, 3783, 4090–4096; Pub. L. 103–204, §§ 2–3(b), 4(a), 5(a), (b)(2), 7, 12, 14(a)(1), (c)(2), (d)(1), (e)(1), (f)(1), 15(a), 16(a), 17(a), 21(b), 24, 27(a), 29–31, 36, Dec. 17, 1993, 107 Stat. 2370–2380, 2382, 2383, 2390, 2391, 2395–2400, 2406, 2408, 2410–2413, 2415; Pub. L. 103–211, title IV, § 406, Feb. 12, 1994, 108 Stat. 41; Pub. L. 103–325, title VI, § 602(b), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 103–328, title II, § 201(b), Sept. 29, 1994, 108 Stat. 2368; Pub. L. 104–66, title II, § 2231, Dec. 21, 1995, 109 Stat. 733; Pub. L. 104–208, div. A, title II, § 2704(d)(11)(B)–(D), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–135, title VI, § 604(b), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(d)(3)–(6), Feb. 15, 2006, 119 Stat. 3616, 3617; Pub. L. 110–289, div. A, title II, § 1204(8), (12), July 30, 2008, 122 Stat. 2786, related to establishment of Thrift Depositor Protection Oversight Board and Resolution Trust Corporation.
+Section, act July 22, 1932, ch. 522, § 21A, as added Pub. L. 101–73, title V, § 501(a), Aug. 9, 1989, 103 Stat. 363; amended Pub. L. 101–625, title VIII, § 804(d), title IX, § 914(c), Nov. 28, 1990, 104 Stat. 4323, 4395; Pub. L. 101–647, title XXV, §§ 2526(c), 2540, Nov. 29, 1990, 104 Stat. 4876, 4885; Pub. L. 102–18, title I, §§ 101, 102(a), 103(a), 104, 105, title II, §§ 201, 202, title III, § 301, title IV, § 401, Mar. 23, 1991, 105 Stat. 58, 60–63, 65; Pub. L. 102–139, title V, § 523(a), Oct. 28, 1991, 105 Stat. 781; Pub. L. 102–233, title I, §§ 101, 103, 105, 106(a)–(e)(1), title II, § 201, title III, §§ 302(b), (c), 303–312, 314, 316, title IV, §§ 401, 402(a), 403–405, title V, § 501, title VI, §§ 601–611, 613–617, Dec. 12, 1991, 105 Stat. 1761–1765, 1767–1770, 1772–1774, 1776–1789; Pub. L. 102–242, title I, § 141(a)(3), title II, § 251(c)(1), title IV, § 471, Dec. 19, 1991, 105 Stat. 2276, 2333, 2385; Pub. L. 102–378, § 5(e), Oct. 2, 1992, 106 Stat. 1358; Pub. L. 102–550, title V, §§ 503(c)(3), 509(i), title XVI, §§ 1611(a), (d)(1)–(3), 1612, 1613(a)(1)–(6), (8), (b)–(h), 1614(a)(1)–(5), (7), (b), 1615(a)(2), 1616, Oct. 28, 1992, 106 Stat. 3780, 3783, 4090–4096; Pub. L. 103–204, §§ 2–3(b), 4(a), 5(a), (b)(2), 7, 12, 14(a)(1), (c)(2), (d)(1), (e)(1), (f)(1), 15(a), 16(a), 17(a), 21(b), 24, 27(a), 29–31, 36, Dec. 17, 1993, 107 Stat. 2370–2380, 2382, 2383, 2390, 2391, 2395–2400, 2406, 2408, 2410–2413, 2415; Pub. L. 103–211, title IV, § 406, Feb. 12, 1994, 108 Stat. 41; Pub. L. 103–325, title VI, § 602(b), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 103–328, title II, § 201(b), Sept. 29, 1994, 108 Stat. 2368; Pub. L. 104–66, title II, § 2231, Dec. 21, 1995, 109 Stat. 733; Pub. L. 104–208, div. A, title II, § 2704(d)(11)(B)–(D), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–135, title VI, § 604(b), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(d)(3)–(6), Feb. 15, 2006, 119 Stat. 3616, 3617; Pub. L. 110–289, div. A, title II, § 1204(8), (12), July 30, 2008, 122 Stat. 2786, related to establishment of Thrift Depositor Protection Oversight Board and Resolution Trust Corporation.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Pub. L. 102–233, title III, § 302(a), Dec. 12, 1991, 105 Stat. 1767, redesignated the Oversight Board, as established by former subsec. (a)(1) of this section, as the Thrift Depositor Protection Oversight Board.
+Pub. L. 102–233, title III, § 302(a), Dec. 12, 1991, 105 Stat. 1767, redesignated the Oversight Board, as established by former subsec. (a)(1) of this section, as the Thrift Depositor Protection Oversight Board.
 
 **Effective Date of Repeal**
 
@@ -2945,17 +2945,17 @@ Repeal effective on the transfer date, see section 351 of Pub. L. 111–203, set
 
 **Savings Provision**
 
-Pub. L. 102–233, title III, § 317, Dec. 12, 1991, 105 Stat. 1773, provided that the rights and duties, actions and proceedings, and orders and regulations that had attached to the Oversight Board as of Feb. 1, 1992, would not be affected by title III of Pub. L. 102–233 and that the Thrift Depositor Protection Oversight Board would assume the role of the Oversight Board where applicable.
+Pub. L. 102–233, title III, § 317, Dec. 12, 1991, 105 Stat. 1773, provided that the rights and duties, actions and proceedings, and orders and regulations that had attached to the Oversight Board as of Feb. 1, 1992, would not be affected by title III of Pub. L. 102–233 and that the Thrift Depositor Protection Oversight Board would assume the role of the Oversight Board where applicable.
 
 **Abolition of Thrift Depositor Protection Oversight Board**
 
-Pub. L. 105–216, § 14(a)–(d), July 29, 1998, 112 Stat. 908–910, abolished the Thrift Depositor Protection Oversight Board established under former section 1441a of this title, effective at the end of the 3-month period beginning July 29, 1998, provided that, effective July 29, 1998, the Chairperson of the Oversight Board (or the designee of the Chairperson) may exercise on behalf of the Oversight Board any power of the Oversight Board necessary to settle and conclude the affairs of the Oversight Board, included savings provisions, and transferred authority and duties of the Oversight Board under former section 1441a(a)(6)(I) and section 1441b of this title to the Secretary of the Treasury (or the designee of the Secretary).
+Pub. L. 105–216, § 14(a)–(d), July 29, 1998, 112 Stat. 908–910, abolished the Thrift Depositor Protection Oversight Board established under former section 1441a of this title, effective at the end of the 3-month period beginning July 29, 1998, provided that, effective July 29, 1998, the Chairperson of the Oversight Board (or the designee of the Chairperson) may exercise on behalf of the Oversight Board any power of the Oversight Board necessary to settle and conclude the affairs of the Oversight Board, included savings provisions, and transferred authority and duties of the Oversight Board under former section 1441a(a)(6)(I) and section 1441b of this title to the Secretary of the Treasury (or the designee of the Secretary).
 
 **FDIC–RTC Transition Task Force**
 
-Pub. L. 103–204, § 6, Dec. 17, 1993, 107 Stat. 2382, required the Federal Deposit Insurance Corporation (FDIC) and the Resolution Trust Corporation (RTC) to establish an interagency transition task force to facilitate the transfer of the assets, personnel, and operations of the RTC to the FDIC or the FSLIC Resolution Fund, as the case may be, in a coordinated manner; prescribed the composition, appointment, and duties of the task force; required the task force to submit certain reports to certain congressional committees; and required the FDIC to submit a follow up report to certain congressional committees.
+Pub. L. 103–204, § 6, Dec. 17, 1993, 107 Stat. 2382, required the Federal Deposit Insurance Corporation (FDIC) and the Resolution Trust Corporation (RTC) to establish an interagency transition task force to facilitate the transfer of the assets, personnel, and operations of the RTC to the FDIC or the FSLIC Resolution Fund, as the case may be, in a coordinated manner; prescribed the composition, appointment, and duties of the task force; required the task force to submit certain reports to certain congressional committees; and required the FDIC to submit a follow up report to certain congressional committees.
 
-## § 1441a–1. Definitions
+## § 1441a–1. Definitions
 
 For purposes of section 1441a–2 of this title:
 
@@ -2981,19 +2981,19 @@ which are located within the jurisdiction of the applicable State housing financ
 
 The term “net income” means income after deduction of all associated expenses calculated in accordance with generally accepted accounting principles.
 
-(Pub. L. 101–73, title XIII, § 1301, Aug. 9, 1989, 103 Stat. 547.)
+(Pub. L. 101–73, title XIII, § 1301, Aug. 9, 1989, 103 Stat. 547.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Housing and Urban Development Act of 1968, referred to in par. (2), is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476. Title IX of the Housing and Urban Development Act of 1968 is classified principally to chapter 49 (§ 3931 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1701 of this title and Tables.
+The Housing and Urban Development Act of 1968, referred to in par. (2), is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476. Title IX of the Housing and Urban Development Act of 1968 is classified principally to chapter 49 (§ 3931 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under section 1701 of this title and Tables.
 
 **Codification**
 
 Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Home Loan Bank Act which comprises this chapter.
 
-## § 1441a–2. Authorization for State housing finance agencies and nonprofit entities to purchase mortgage-related assets
+## § 1441a–2. Authorization for State housing finance agencies and nonprofit entities to purchase mortgage-related assets
 
 **(a) Authorization**
 
@@ -3003,7 +3003,7 @@ Notwithstanding any other provision of Federal or State law, a State housing fin
 
 Any State housing finance authority or nonprofit entity which purchases mortgage-related assets pursuant to subsection (a) shall invest any net income attributable to the ownership of those assets in financing, refinancing, or rehabilitating low- and moderate-income housing within the jurisdiction of the State housing finance authority or within the geographical area served by the nonprofit entity.
 
-(Pub. L. 101–73, title XIII, § 1302, Aug. 9, 1989, 103 Stat. 548.)
+(Pub. L. 101–73, title XIII, § 1302, Aug. 9, 1989, 103 Stat. 548.)
 
 **Editorial Notes**
 
@@ -3017,7 +3017,7 @@ Section was enacted as part of the Financial Institutions Reform, Recovery, and 
 
 The definitions in section 1441a–1 of this title apply to this section.
 
-## § 1441a–3. RTC and FDIC properties
+## § 1441a–3. RTC and FDIC properties
 
 **(a) Reports**
 
@@ -3079,7 +3079,7 @@ The term “governmental agency” means any agency or entity of the Federal Gov
 
 **(B)** having natural, cultural, recreational, or scientific value of special significance.
 
-(Pub. L. 101–591, § 10, Nov. 16, 1990, 104 Stat. 2939; Pub. L. 106–167, § 3(c)(5), Dec. 9, 1999, 113 Stat. 1804.)
+(Pub. L. 101–591, § 10, Nov. 16, 1990, 104 Stat. 2939; Pub. L. 106–167, § 3(c)(5), Dec. 9, 1999, 113 Stat. 1804.)
 
 **Editorial Notes**
 
@@ -3097,7 +3097,7 @@ Section was enacted as part of the Coastal Barrier Improvement Act of 1990, and 
 
 For termination, effective May 15, 2000, of provisions in subsec. (a)(1) of this section requiring submittal of an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and pages 168 and 190 of House Document No. 103–7.
 
-## § 1441b. Resolution Funding Corporation established
+## § 1441b. Resolution Funding Corporation established
 
 **(a) Purpose**
 
@@ -3446,7 +3446,7 @@ The Federal Reserve banks are authorized to act as depositaries for or fiscal ag
 
 The Funding Corporation shall be treated, for purposes of sections 9105,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 9107, and 9108 of title 31, as a mixed-ownership Government corporation which has capital of the Government.
 
@@ -3528,9 +3528,9 @@ The term “net earnings” means net earnings without reduction for chargeoffs 
 
 **(i)** the Secretary of the Treasury;
 
-**(ii)** the Chairman of the Board 2
+**(ii)** the Chairman of the Board 2
 
-<sup>2</sup>  See 2008 Amendment note below.
+<sup>2</sup> See 2008 Amendment note below.
 
 of Governors of the Federal Reserve System; and
 
@@ -3550,51 +3550,51 @@ The term “Secretary” means the Secretary of the Treasury.
 
 The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
 
-(July 22, 1932, ch. 522, § 21B, as added Pub. L. 101–73, title V, § 511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, § 302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, § 1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, § 2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, § 607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§ 1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
+(July 22, 1932, ch. 522, § 21B, as added Pub. L. 101–73, title V, § 511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, § 302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, § 1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, § 2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, § 607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, § 2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, § 9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§ 1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in subsec. (f)(8)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (f)(8)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
+Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
 
 **Amendments**
 
-2008—Subsecs. (c)(6)(B), (e)(4). Pub. L. 110–289, § 1204(12), substituted “Director” for “Federal Housing Finance Board” wherever appearing.
+2008—Subsecs. (c)(6)(B), (e)(4). Pub. L. 110–289, § 1204(12), substituted “Director” for “Federal Housing Finance Board” wherever appearing.
 
-Subsec. (f)(2)(C)(ii) to (iv). Pub. L. 110–289, § 1204(8)–(10), substituted, in cls. (ii) and (iii), “The Director” for “The Board” and, in cl. (iv), “the Director” for “the Board” before “extends” and “the Director” for “the Finance Board” before “shall reduce”.
+Subsec. (f)(2)(C)(ii) to (iv). Pub. L. 110–289, § 1204(8)–(10), substituted, in cls. (ii) and (iii), “The Director” for “The Board” and, in cl. (iv), “the Director” for “the Board” before “extends” and “the Director” for “the Finance Board” before “shall reduce”.
 
-Subsec. (f)(2)(C)(v). Pub. L. 110–289, § 1213, added cl. (v).
+Subsec. (f)(2)(C)(v). Pub. L. 110–289, § 1213, added cl. (v).
 
-Subsec. (k)(7)(B)(ii). Pub. L. 110–289, § 1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting “the Director” for “the Board” wherever appearing, was not executed to subsec. (k)(7)(B)(ii), to reflect the probable intent of Congress.
+Subsec. (k)(7)(B)(ii). Pub. L. 110–289, § 1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting “the Director” for “the Board” wherever appearing, was not executed to subsec. (k)(7)(B)(ii), to reflect the probable intent of Congress.
 
-2006—Subsec. (e). Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(11)(E). See 1996 Amendment note below.
+2006—Subsec. (e). Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(11)(E). See 1996 Amendment note below.
 
-Subsec. (e)(5). Pub. L. 109–173, § 9(d)(7)(A), inserted “as of the date of funding” after “Savings Association Insurance Fund members” in subpars. (A) and (B).
+Subsec. (e)(5). Pub. L. 109–173, § 9(d)(7)(A), inserted “as of the date of funding” after “Savings Association Insurance Fund members” in subpars. (A) and (B).
 
-Subsec. (e)(7), (8). Pub. L. 109–173, § 9(d)(7)(B), struck out pars. (7) and (8) which related to additional sources to fund the Funding Corporation Principal Fund and a transfer of funds to the Resolution Trust Corporation in fiscal year 1989, respectively.
+Subsec. (e)(7), (8). Pub. L. 109–173, § 9(d)(7)(B), struck out pars. (7) and (8) which related to additional sources to fund the Funding Corporation Principal Fund and a transfer of funds to the Resolution Trust Corporation in fiscal year 1989, respectively.
 
-Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(5). See 1996 Amendment note below.
+Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(5). See 1996 Amendment note below.
 
-Subsec. (k). Pub. L. 109–173, § 9(d)(8)(A), in introductory provisions, inserted before colon “, the following definitions shall apply”.
+Subsec. (k). Pub. L. 109–173, § 9(d)(8)(A), in introductory provisions, inserted before colon “, the following definitions shall apply”.
 
-Subsec. (k)(8) to (10). Pub. L. 109–173, § 9(d)(8)(B), (C), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out heading and text of former par. (8). Text read as follows: “The term ‘Savings Association Insurance Fund member’ means a Savings Association Insurance member as such term is defined by section 1817(*l*) of this title.”
+Subsec. (k)(8) to (10). Pub. L. 109–173, § 9(d)(8)(B), (C), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out heading and text of former par. (8). Text read as follows: “The term ‘Savings Association Insurance Fund member’ means a Savings Association Insurance member as such term is defined by section 1817(*l*) of this title.”
 
-Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(11)(F). See 1996 Amendment note below.
+Pub. L. 109–171 repealed Pub. L. 104–208, § 2704(d)(11)(F). See 1996 Amendment note below.
 
 1999—Subsec. (f)(2)(C). Pub. L. 106–102 amended subpar. (C) generally, substituting present provisions for provisions requiring Federal Home Loan Banks to pay to the Funding Corporation each calendar year an amount sufficient to cover amount of interest payments made by the Corporation in that year, and provisions relating to determination of each Bank’s individual share of such annual amount.
 
-1996—Subsec. (e). Pub. L. 104–208, § 2704(d)(11)(E), which directed the amendment of subsec. (e) by inserting, in par. (5), “as of the date of funding” after “Savings Association Insurance Fund members” in two places and by striking par. (7) and redesignating par. (8) as (7), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+1996—Subsec. (e). Pub. L. 104–208, § 2704(d)(11)(E), which directed the amendment of subsec. (e) by inserting, in par. (5), “as of the date of funding” after “Savings Association Insurance Fund members” in two places and by striking par. (7) and redesignating par. (8) as (7), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 104–208, § 2704(d)(5), which directed the amendment of subcls. (I) and (II) by substituting “to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995” for “to Savings Associations Insurance Fund members”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
+Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 104–208, § 2704(d)(5), which directed the amendment of subcls. (I) and (II) by substituting “to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995” for “to Savings Associations Insurance Fund members”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
-Subsec. (k)(8) to (10). Pub. L. 104–208, § 2704(d)(11)(F), which directed the amendment of subsec. (k) by striking par. (8) and redesignating pars. (9) and (10) as (8) and (9), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (k)(8) to (10). Pub. L. 104–208, § 2704(d)(11)(F), which directed the amendment of subsec. (k) by striking par. (8) and redesignating pars. (9) and (10) as (8) and (9), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-1992—Subsecs. (c)(8), (j)(2). Pub. L. 102–550, § 1613(a)(7), inserted “Thrift Depositor Protection” before “Oversight” in headings.
+1992—Subsecs. (c)(8), (j)(2). Pub. L. 102–550, § 1613(a)(7), inserted “Thrift Depositor Protection” before “Oversight” in headings.
 
-Subsec. (k)(7). Pub. L. 102–550, § 1613(a)(9), substituted “Thrift Depositor Protection Oversight” for “Oversight” in heading.
+Subsec. (k)(7). Pub. L. 102–550, § 1613(a)(9), substituted “Thrift Depositor Protection Oversight” for “Oversight” in heading.
 
 1991—Pub. L. 102–233 substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” wherever appearing in text.
 
@@ -3608,7 +3608,7 @@ Amendment by Pub. L. 109–171 effective no later than the first day of the firs
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–102, title VI, § 607(b), Nov. 12, 1999, 113 Stat. 1456, provided that: “The amendment made by subsection (a) [amending this section] shall become effective on January 1, 2000. Payments made by a Federal home loan bank before that effective date shall be counted toward the total obligation of that Bank under section 21B(f)(2)(C) of the Federal Home Loan Bank Act [12 U.S.C. 1441b(f)(2)(C)], as amended by this section.”
+Pub. L. 106–102, title VI, § 607(b), Nov. 12, 1999, 113 Stat. 1456, provided that: “The amendment made by subsection (a) [amending this section] shall become effective on January 1, 2000. Payments made by a Federal home loan bank before that effective date shall be counted toward the total obligation of that Bank under section 21B(f)(2)(C) of the Federal Home Loan Bank Act [12 U.S.C. 1441b(f)(2)(C)], as amended by this section.”
 
 **Effective Date of 1996 Amendment**
 
@@ -3626,11 +3626,11 @@ Amendment by Pub. L. 102–233 effective Feb. 1, 1992, see section 318 of Pub. L
 
 Thrift Depositor Protection Oversight Board abolished, see section 14(a)–(d) of Pub. L. 105–216, formerly set out as a note under section 1441a of this title.
 
-## § 1442. Member financial information
+## § 1442. Member financial information
 
-**(a) In general** In order to enable the Federal Home Loan Banks to carry out the provisions of this chapter, the Secretary of the Treasury, the Comptroller of the Currency, the Chairman of the Board 1
+**(a) In general** In order to enable the Federal Home Loan Banks to carry out the provisions of this chapter, the Secretary of the Treasury, the Comptroller of the Currency, the Chairman of the Board 1
 
-<sup>1</sup>  See 2008 Amendment note below.
+<sup>1</sup> See 2008 Amendment note below.
 
 of Governors of the Federal Reserve System, the Chairperson of the Federal Deposit Insurance Corporation, the Chairperson of the National Credit Union Administration, and the Director of the Office of Thrift Supervision, upon request by any Federal Home Loan Bank—
 
@@ -3638,7 +3638,7 @@ of Governors of the Federal Reserve System, the Chairperson of the Federal Depos
 
 **(2)** may perform through their examiners or other employees or agents, for the confidential use of the Federal Home Loan Bank, examinations of institutions for which such agency is the appropriate Federal banking regulatory agency.
 
-In addition, the Comptroller of the Currency, the Chairman of the Board <sup>1</sup> of Governors of the Federal Reserve System, the Chairperson of the National Credit Union Administration, and the Director of the Office of Thrift Supervision shall make available to the Director or any Federal Home Loan Bank the financial reports filed by members of any Bank to enable the Director or a Bank to compile and publish cost of funds indices or other financial or statistical reports.
+In addition, the Comptroller of the Currency, the Chairman of the Board <sup>1</sup> of Governors of the Federal Reserve System, the Chairperson of the National Credit Union Administration, and the Director of the Office of Thrift Supervision shall make available to the Director or any Federal Home Loan Bank the financial reports filed by members of any Bank to enable the Director or a Bank to compile and publish cost of funds indices or other financial or statistical reports.
 
 **(b) Consent by members** Every member of a Federal Home Loan Bank shall, as a condition precedent thereto, be deemed—
 
@@ -3648,7 +3648,7 @@ In addition, the Comptroller of the Currency, the Chairman of the Board <sup>1
 
 **(3)** to agree to give the Bank or the Federal agency, upon request, such information as they may need to compile and publish cost of funds indices and to publish other reports or statistical summaries pertaining to the activities of Bank members.
 
-(July 22, 1932, ch. 522, § 22, 47 Stat. 739; Pub. L. 101–73, title VII, § 719, Aug. 9, 1989, 103 Stat. 422; Pub. L. 110–289, div. A, title II, § 1204(8), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 22, 47 Stat. 739; Pub. L. 101–73, title VII, § 719, Aug. 9, 1989, 103 Stat. 422; Pub. L. 110–289, div. A, title II, § 1204(8), July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
@@ -3664,19 +3664,19 @@ Subsec. (a). Pub. L. 110–289, which directed amendment of the Federal Home Loa
 
 “(b) Every institution which shall apply for advances under this chapter shall, as a condition precedent thereto, consent to such examination as the bank or the board may require for the purposes of this chapter and/or that reports of examinations by constituted authorities may be furnished by such authorities to the bank or the board upon request therefor.”
 
-## § 1442a. Repealed. Pub. L. 106–102, title VI, § 606(c), Nov. 12, 1999, 113 Stat. 1454
+## § 1442a. Repealed. Pub. L. 106–102, title VI, § 606(c), Nov. 12, 1999, 113 Stat. 1454
 
-Section, act July 22, 1932, ch. 522, § 22A, as added Aug. 10, 1987, Pub. L. 100–86, title IV, § 407(d), 101 Stat. 617, related to informal review of certain supervisory decisions.
+Section, act July 22, 1932, ch. 522, § 22A, as added Aug. 10, 1987, Pub. L. 100–86, title IV, § 407(d), 101 Stat. 617, related to informal review of certain supervisory decisions.
 
-## § 1443. Forms of bank stock and obligations
+## § 1443. Forms of bank stock and obligations
 
-Any stock, debentures, bonds, notes, or other obligations issued under the authority of this chapter may be issued in uncertificated form, utilizing a book entry method, or in certificated form under such rules, regulations, or guidelines as the Director 1
+Any stock, debentures, bonds, notes, or other obligations issued under the authority of this chapter may be issued in uncertificated form, utilizing a book entry method, or in certificated form under such rules, regulations, or guidelines as the Director 1
 
-<sup>1</sup>  See 2008 Amendment note below.
+<sup>1</sup> See 2008 Amendment note below.
 
 may provide.
 
-(July 22, 1932, ch. 522, § 23, 47 Stat. 739; Pub. L. 101–73, title VII, § 717, Aug. 9, 1989, 103 Stat. 422; Pub. L. 110–289, div. A, title II, § 1204(8), (12), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 23, 47 Stat. 739; Pub. L. 101–73, title VII, § 717, Aug. 9, 1989, 103 Stat. 422; Pub. L. 110–289, div. A, title II, § 1204(8), (12), July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
@@ -3686,7 +3686,7 @@ may provide.
 
 1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “In order that the Federal Home Loan Banks may be supplied with such forms of stock, debentures, and bonds as may be necessary under this chapter, the Secretary of the Treasury is authorized to prepare such forms thereof as shall be suitable and approved by the board, which shall be held in the Treasury subject to delivery, upon order of the board. The engraved plates, dies, and bed pieces executed in connection therewith shall remain in the custody of the Secretary of the Treasury. The board shall reimburse the Secretary of the Treasury for any expense incurred in the preparation, custody, and delivery of such stock, debentures, and bonds.”
 
-## § 1444. Eligibility to membership in banks
+## § 1444. Eligibility to membership in banks
 
 **(a)** Any organization organized under the laws of any State and subject to inspection and regulation under the banking or similar laws of such State shall be eligible to become a member under this chapter if—
 
@@ -3698,7 +3698,7 @@ may provide.
 
 **(b)** In all respects, but subject to such additional rules and regulations as the Director may provide, any such organization shall be a member for the purposes of this chapter.
 
-(July 22, 1932, ch. 522, § 24, 47 Stat. 739; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, § 1204(8), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 24, 47 Stat. 739; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, § 1204(8), July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
@@ -3708,11 +3708,11 @@ may provide.
 
 1989—Subsec. (b). Pub. L. 101–73 substituted “Board” for “board”.
 
-## § 1445. Succession of Federal Home Loan Banks
+## § 1445. Succession of Federal Home Loan Banks
 
 Each Federal Home Loan Bank shall have succession until dissolved by the Director under this chapter or by further act of Congress.
 
-(July 22, 1932, ch. 522, § 25, 47 Stat. 740; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, § 1204(8), July 30, 2008, 122 Stat. 2786.)
+(July 22, 1932, ch. 522, § 25, 47 Stat. 740; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, § 1204(8), July 30, 2008, 122 Stat. 2786.)
 
 **Editorial Notes**
 
@@ -3722,7 +3722,7 @@ Each Federal Home Loan Bank shall have succession until dissolved by the Directo
 
 1989—Pub. L. 101–73 substituted “Board” for “board”.
 
-## § 1446. Liquidation or reorganization; acquisition of assets by other banks; assumption of liabilities
+## § 1446. Liquidation or reorganization; acquisition of assets by other banks; assumption of liabilities
 
 **(a) In general**
 
@@ -3738,34 +3738,34 @@ Any Federal Home Loan Bank may, with the approval of the Director and of the boa
 
 The Director shall promulgate regulations establishing the conditions and procedures for the consideration and approval of any voluntary merger described in paragraph (1), including the procedures for Bank member approval.
 
-(July 22, 1932, ch. 522, § 26, 47 Stat. 740; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, §§ 1204(8), 1209, 1214, July 30, 2008, 122 Stat. 2786, 2789, 2791.)
+(July 22, 1932, ch. 522, § 26, 47 Stat. 740; Pub. L. 101–73, title VII, § 701(b)(1), (3)(A), Aug. 9, 1989, 103 Stat. 412; Pub. L. 110–289, div. A, title II, §§ 1204(8), 1209, 1214, July 30, 2008, 122 Stat. 2786, 2789, 2791.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1209, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2008—Pub. L. 110–289, § 1209, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” wherever appearing.
+Pub. L. 110–289, § 1204(8), substituted “the Director” for “the Board” wherever appearing.
 
-Subsec. (a). Pub. L. 110–289, § 1214, which directed insertion of “At least 30 days prior to liquidating or reorganizing any Bank under this section, the Director shall notify the Bank of its determination and the facts and circumstances upon which such determination is based. The Bank may contest that determination in a hearing before the Director, in which all issues shall be determined on the record pursuant to section 554 of title 5.” at the end of this section, was executed by making the insertion at the end of subsec. (a), to reflect the probable intent of Congress and the amendment by Pub. L. 110–289, § 1209. See above.
+Subsec. (a). Pub. L. 110–289, § 1214, which directed insertion of “At least 30 days prior to liquidating or reorganizing any Bank under this section, the Director shall notify the Bank of its determination and the facts and circumstances upon which such determination is based. The Bank may contest that determination in a hearing before the Director, in which all issues shall be determined on the record pursuant to section 554 of title 5.” at the end of this section, was executed by making the insertion at the end of subsec. (a), to reflect the probable intent of Congress and the amendment by Pub. L. 110–289, § 1209. See above.
 
 1989—Pub. L. 101–73 substituted “Board” for “board” wherever appearing.
 
-## § 1447. Repealed. Pub. L. 106–102, title VI, § 606(c), Nov. 12, 1999, 113 Stat. 1454
+## § 1447. Repealed. Pub. L. 106–102, title VI, § 606(c), Nov. 12, 1999, 113 Stat. 1454
 
-Section, act July 22, 1932, ch. 522, § 27, as added Pub. L. 103–204, § 18, Dec. 17, 1993, 107 Stat. 2401, related to Housing Opportunity Hotline program.
+Section, act July 22, 1932, ch. 522, § 27, as added Pub. L. 103–204, § 18, Dec. 17, 1993, 107 Stat. 2401, related to Housing Opportunity Hotline program.
 
-A prior section 1447, act July 22, 1932, ch. 522, § 27, 47 Stat. 740, related to institutions authorized to subscribe for stock of banks, prior to repeal by Pub. L. 101–73, title VII, § 704(c), Aug. 9, 1989, 103 Stat. 416.
+A prior section 1447, act July 22, 1932, ch. 522, § 27, 47 Stat. 740, related to institutions authorized to subscribe for stock of banks, prior to repeal by Pub. L. 101–73, title VII, § 704(c), Aug. 9, 1989, 103 Stat. 416.
 
-## § 1448. Effect of partial invalidity of chapter
+## § 1448. Effect of partial invalidity of chapter
 
 If any provision of this chapter, or the application thereof to any person or circumstances, is held invalid, the remainder of the chapter, and the application of such provision to other persons or circumstances, shall not be affected thereby.
 
-(July 22, 1932, ch. 522, § 28, 47 Stat. 740.)
+(July 22, 1932, ch. 522, § 28, 47 Stat. 740.)
 
-## § 1449. Reservation of right to amend or repeal chapter
+## § 1449. Reservation of right to amend or repeal chapter
 
 The right to alter, amend, or repeal this chapter is expressly reserved.
 
-(July 22, 1932, ch. 522, § 30, 47 Stat. 741.)
+(July 22, 1932, ch. 522, § 30, 47 Stat. 741.)

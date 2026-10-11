@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 70—COMPREHENSIVE SMOKELESS TOBACCO HEALTH EDUCATION
 
-## § 4401. Public education
+## § 4401. Public education
 
 **(a) Development**
 
@@ -39,13 +39,13 @@ retrieved: 2026-10-11
 
 **(3)** to establish 18 as the minimum age for the purchase of smokeless tobacco.
 
-(Pub. L. 99–252, § 2, Feb. 27, 1986, 100 Stat. 30.)
+(Pub. L. 99–252, § 2, Feb. 27, 1986, 100 Stat. 30.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 99–252, § 11, Feb. 27, 1986, 100 Stat. 35, provided that:
+Pub. L. 99–252, § 11, Feb. 27, 1986, 100 Stat. 35, provided that:
 
 > **“(a) In General.—** Except as provided in sections 3(f) and 5(b) [sections 4402(f) and 4404(b) of this title] and subsection (b), this Act [enacting this chapter and amending section 342 of Title 21, Food and Drugs] shall take effect one year after the date of enactment of this Act [Feb. 27, 1986].
 
@@ -53,9 +53,9 @@ Pub. L. 99–252, § 11, Feb. 27, 1986, 100 Stat. 35, provided that:
 
 **Short Title**
 
-Pub. L. 99–252, § 1, Feb. 27, 1986, 100 Stat. 30, provided that: “This Act [enacting this chapter and amending section 342 of Title 21, Food and Drugs] may be cited as the ‘Comprehensive Smokeless Tobacco Health Education Act of 1986’.”
+Pub. L. 99–252, § 1, Feb. 27, 1986, 100 Stat. 30, provided that: “This Act [enacting this chapter and amending section 342 of Title 21, Food and Drugs] may be cited as the ‘Comprehensive Smokeless Tobacco Health Education Act of 1986’.”
 
-## § 4402. Smokeless tobacco warning
+## § 4402. Smokeless tobacco warning
 
 **(a) General rule**
 
@@ -135,31 +135,31 @@ It is unlawful to advertise smokeless tobacco on any medium of electronic commun
 
 The Secretary may, by a rulemaking conducted under section 553 of title 5, adjust the format, type size, and text of any of the label requirements, require color graphics to accompany the text, increase the required label area from 30 percent up to 50 percent of the front and rear panels of the package, or establish the format, type size, and text of any other disclosures required under the Federal Food, Drug, and Cosmetic Act, if the Secretary finds that such a change would promote greater public understanding of the risks associated with the use of smokeless tobacco products.
 
-(Pub. L. 99–252, § 3, Feb. 27, 1986, 100 Stat. 30; Pub. L. 111–31, div. A, title II, §§ 204(a), 205(a), June 22, 2009, 123 Stat. 1846, 1848.)
+(Pub. L. 99–252, § 3, Feb. 27, 1986, 100 Stat. 30; Pub. L. 111–31, div. A, title II, §§ 204(a), 205(a), June 22, 2009, 123 Stat. 1846, 1848.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(4) and (d), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(4) and (d), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 **Amendments**
 
-2009—Pub. L. 111–31, § 204(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to smokeless tobacco warning labels and television and radio advertising.
+2009—Pub. L. 111–31, § 204(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to smokeless tobacco warning labels and television and radio advertising.
 
-Subsec. (d). Pub. L. 111–31, § 205(a), amended section as amended by Pub. L. 111–31, § 204, by adding subsec. (d).
+Subsec. (d). Pub. L. 111–31, § 205(a), amended section as amended by Pub. L. 111–31, § 204, by adding subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–31, div. A, title II, § 204(b), June 22, 2009, 123 Stat. 1848, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 12 months after the date of enactment of this Act [June 22, 2009]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 3 of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4402), as amended by subsection (a).”
+Pub. L. 111–31, div. A, title II, § 204(b), June 22, 2009, 123 Stat. 1848, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 12 months after the date of enactment of this Act [June 22, 2009]. Such effective date shall be with respect to the date of manufacture, provided that, in any case, beginning 30 days after such effective date, a manufacturer shall not introduce into the domestic commerce of the United States any product, irrespective of the date of manufacture, that is not in conformance with section 3 of the Comprehensive Smokeless Tobacco Health Education Act of 1986 (15 U.S.C. 4402), as amended by subsection (a).”
 
 **Effective Date**
 
 Subsec. (a) effective one year after Feb. 27, 1986, and subsecs. (b) to (e) effective Feb. 27, 1986, see section 11 of Pub. L. 99–252, set out as a note under section 4401 of this title.
 
-## § 4403. Ingredient reporting
+## § 4403. Ingredient reporting
 
 **(a) In general**
 
@@ -195,7 +195,7 @@ Subsec. (a) effective one year after Feb. 27, 1986, and subsecs. (b) to (e) effe
 
 Such procedures shall require that any person permitted access to the information shall be instructed in writing not to disclose the information to anyone who is not entitled to have access to the information.
 
-(Pub. L. 99–252, § 4, Feb. 27, 1986, 100 Stat. 32.)
+(Pub. L. 99–252, § 4, Feb. 27, 1986, 100 Stat. 32.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -203,7 +203,7 @@ Such procedures shall require that any person permitted access to the informatio
 
 Subsec. (a) effective one year after Feb. 27, 1986, and subsec. (b) effective Feb. 27, 1986, see section 11 of Pub. L. 99–252, set out as a note under section 4401 of this title.
 
-## § 4404. Enforcement, regulations, and construction
+## § 4404. Enforcement, regulations, and construction
 
 **(a) Enforcement**
 
@@ -221,7 +221,7 @@ Subsec. (a) effective one year after Feb. 27, 1986, and subsec. (b) effective Fe
 
 Nothing in this chapter (other than the requirements of sections 4402 and 4403 of this title) shall be construed to limit, restrict, or expand the authority of the Federal Trade Commission with respect to unfair or deceptive acts or practices in the advertising of smokeless tobacco products.
 
-(Pub. L. 99–252, § 5, Feb. 27, 1986, 100 Stat. 33.)
+(Pub. L. 99–252, § 5, Feb. 27, 1986, 100 Stat. 33.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -229,11 +229,11 @@ Nothing in this chapter (other than the requirements of sections 4402 and 4403 o
 
 Subsecs. (a) and (c) effective one year after Feb. 27, 1986, see section 11(a) of Pub. L. 99–252, set out as a note under section 4401 of this title.
 
-## § 4405. Injunctions
+## § 4405. Injunctions
 
 The several district courts of the United States are vested with jurisdiction, for cause shown, to prevent and restrain violations of sections 4402 and 4403 of this title upon application of the Federal Trade Commission in the case of a violation of section 4402 of this title or upon application of the Attorney General of the United States acting through the several United States attorneys in their several districts in the case of a violation of section 4402 or 4403 of this title.
 
-(Pub. L. 99–252, § 6, Feb. 27, 1986, 100 Stat. 33.)
+(Pub. L. 99–252, § 6, Feb. 27, 1986, 100 Stat. 33.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -241,7 +241,7 @@ The several district courts of the United States are vested with jurisdiction, f
 
 Section effective one year after Feb. 27, 1986, see section 11(a) of Pub. L. 99–252, set out as a note under section 4401 of this title.
 
-## § 4406. Preemption
+## § 4406. Preemption
 
 **(a) Federal action**
 
@@ -255,7 +255,7 @@ No statement relating to the use of smokeless tobacco products and health, other
 
 Nothing in this chapter shall relieve any person from liability at common law or under State statutory law to any other person.
 
-(Pub. L. 99–252, § 7, Feb. 27, 1986, 100 Stat. 34; Pub. L. 111–31, div. A, title II, § 205(b), June 22, 2009, 123 Stat. 1849.)
+(Pub. L. 99–252, § 7, Feb. 27, 1986, 100 Stat. 34; Pub. L. 111–31, div. A, title II, § 205(b), June 22, 2009, 123 Stat. 1849.)
 
 **Editorial Notes**
 
@@ -267,15 +267,15 @@ The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (a
 
 2009—Subsec. (a). Pub. L. 111–31 substituted “Except as provided in the Family Smoking Prevention and Tobacco Control Act (and the amendments made by that Act), no” for “No”.
 
-## § 4407. Omitted
+## § 4407. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 99–252, § 8, Feb. 27, 1986, 100 Stat. 34, which required the Secretary of Health and Human Services and the Federal Trade Commission to transmit biennial reports to Congress on smokeless tobacco products, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, pages 95 and 173 of House Document No. 103–7.
+Section, Pub. L. 99–252, § 8, Feb. 27, 1986, 100 Stat. 34, which required the Secretary of Health and Human Services and the Federal Trade Commission to transmit biennial reports to Congress on smokeless tobacco products, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, pages 95 and 173 of House Document No. 103–7.
 
-## § 4408. Definitions
+## § 4408. Definitions
 
 For purposes of this chapter:
 
@@ -291,7 +291,7 @@ For purposes of this chapter:
 
 **(6)** The term “Secretary” means the Secretary of Health and Human Services.
 
-(Pub. L. 99–252, § 9, Feb. 27, 1986, 100 Stat. 34; Pub. L. 111–31, div. A, title I, § 101(c), June 22, 2009, 123 Stat. 1830.)
+(Pub. L. 99–252, § 9, Feb. 27, 1986, 100 Stat. 34; Pub. L. 111–31, div. A, title I, § 101(c), June 22, 2009, 123 Stat. 1830.)
 
 **Editorial Notes**
 

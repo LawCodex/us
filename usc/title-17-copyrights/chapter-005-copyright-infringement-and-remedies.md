@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2008—Pub. L. 110–403, title II, § 201(b)(2), Oct. 13, 2008, 122 Stat. 4260, struck out item 509 “Seizure and forfeiture.”
+2008—Pub. L. 110–403, title II, § 201(b)(2), Oct. 13, 2008, 122 Stat. 4260, struck out item 509 “Seizure and forfeiture.”
 
-1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1011(a)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–543, substituted “programming” for “programing” in item 510.
+1999—Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1011(a)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–543, substituted “programming” for “programing” in item 510.
 
-Pub. L. 106–44, § 1(c)(2), Aug. 5, 1999, 113 Stat. 222, renumbered item 512 “Determination of reasonable license fees for individual proprietors” as 513.
+Pub. L. 106–44, § 1(c)(2), Aug. 5, 1999, 113 Stat. 222, renumbered item 512 “Determination of reasonable license fees for individual proprietors” as 513.
 
-1998—Pub. L. 105–304, title II, § 202(b), Oct. 28, 1998, 112 Stat. 2886, added item 512 “Limitations on liability relating to material online”.
+1998—Pub. L. 105–304, title II, § 202(b), Oct. 28, 1998, 112 Stat. 2886, added item 512 “Limitations on liability relating to material online”.
 
-Pub. L. 105–298, title II, § 203(b), Oct. 27, 1998, 112 Stat. 2833, added item 512 “Determination of reasonable license fees for individual proprietors”.
+Pub. L. 105–298, title II, § 203(b), Oct. 27, 1998, 112 Stat. 2833, added item 512 “Determination of reasonable license fees for individual proprietors”.
 
-1997—Pub. L. 105–80, § 12(a)(12), Nov. 13, 1997, 105 Stat. 1535, substituted “Damages” for “Damage” in item 504.
+1997—Pub. L. 105–80, § 12(a)(12), Nov. 13, 1997, 105 Stat. 1535, substituted “Damages” for “Damage” in item 504.
 
-1990—Pub. L. 101–553, § 2(a)(3), Nov. 15, 1990, 104 Stat. 2750, added item 511.
+1990—Pub. L. 101–553, § 2(a)(3), Nov. 15, 1990, 104 Stat. 2750, added item 511.
 
-## § 501. Infringement of copyright
+## § 501. Infringement of copyright
 
 **(a)** Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 122 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a). As used in this subsection, the term “anyone” includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity.
 
@@ -51,7 +51,7 @@ Pub. L. 105–298, title II, § 203(b), Oct. 27, 1998, 112 Stat. 2833, added i
 
 **(2)** A television broadcast station may file a civil action against any satellite carrier that has refused to carry television broadcast signals, as required under section 122(a)(2), to enforce that television broadcast station’s rights under section 338(a) of the Communications Act of 1934.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2584; Pub. L. 100–568, § 10(a), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, § 202(3), Nov. 16, 1988, 102 Stat. 3957; Pub. L. 101–553, § 2(a)(1), Nov. 15, 1990, 104 Stat. 2749; Pub. L. 101–650, title VI, § 606(a), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 106–44, § 1(g)(5), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, § 1000(a)(9) [title I, §§ 1002(b), 1011(b)(3)], Nov. 29, 1999, 113 Stat. 1536, 1501A–527, 1501A–544; Pub. L. 107–273, div. C, title III, § 13210(4)(B), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 116–94, div. P, title XI, § 1102(c)(2), Dec. 20, 2019, 133 Stat. 3203.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2584; Pub. L. 100–568, § 10(a), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 100–667, title II, § 202(3), Nov. 16, 1988, 102 Stat. 3957; Pub. L. 101–553, § 2(a)(1), Nov. 15, 1990, 104 Stat. 2749; Pub. L. 101–650, title VI, § 606(a), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 106–44, § 1(g)(5), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, § 1000(a)(9) [title I, §§ 1002(b), 1011(b)(3)], Nov. 29, 1999, 113 Stat. 1536, 1501A–527, 1501A–544; Pub. L. 107–273, div. C, title III, § 13210(4)(B), Nov. 2, 2002, 116 Stat. 1909; Pub. L. 116–94, div. P, title XI, § 1102(c)(2), Dec. 20, 2019, 133 Stat. 3203.)
 
 **Historical and Revision Notes**
 
@@ -85,9 +85,9 @@ Section 338(a) of the Communications Act of 1934, referred to in subsec. (f)(2),
 
 1999—Subsec. (a). Pub. L. 106–44 substituted “121” for “118”.
 
-Subsec. (e). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(3)], substituted “performance or display of a work embodied in a primary transmission” for “primary transmission embodying the performance or display of a work”.
+Subsec. (e). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(b)(3)], substituted “performance or display of a work embodied in a primary transmission” for “primary transmission embodying the performance or display of a work”.
 
-Subsec. (f). Pub. L. 106–113, § 1000(a)(9) [title I, § 1002(b)], added subsec. (f).
+Subsec. (f). Pub. L. 106–113, § 1000(a)(9) [title I, § 1002(b)], added subsec. (f).
 
 1990—Subsec. (a). Pub. L. 101–650 inserted “or of the author as provided in section 106A(a)” after “118” and substituted “copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a).” for “copyright.”
 
@@ -101,13 +101,13 @@ Subsec. (e). Pub. L. 100–667 added subsec. (e).
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title I, § 1002(b)] of Pub. L. 106–113 effective July 1, 1999, and amendment by section 1000(a)(9) [title I, § 1011(b)(3)] of Pub. L. 106–113 effective Nov. 29, 1999, see section 1000(a)(9) [title I, § 1012] of Pub. L. 106–113, set out as a note under section 101 of this title.
+Amendment by section 1000(a)(9) [title I, § 1002(b)] of Pub. L. 106–113 effective July 1, 1999, and amendment by section 1000(a)(9) [title I, § 1011(b)(3)] of Pub. L. 106–113 effective Nov. 29, 1999, see section 1000(a)(9) [title I, § 1012] of Pub. L. 106–113, set out as a note under section 101 of this title.
 
 **Effective Date of 1990 Amendments**
 
 Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
-Pub. L. 101–553, § 3, Nov. 15, 1990, 104 Stat. 2750, provided that: “The amendments made by this Act [enacting section 511 of this title and amending this section and sections 910 and 911 of this title] shall take effect with respect to violations that occur on or after the date of the enactment of this Act [Nov. 15, 1990].”
+Pub. L. 101–553, § 3, Nov. 15, 1990, 104 Stat. 2750, provided that: “The amendments made by this Act [enacting section 511 of this title and amending this section and sections 910 and 911 of this title] shall take effect with respect to violations that occur on or after the date of the enactment of this Act [Nov. 15, 1990].”
 
 **Effective Date of 1988 Amendments**
 
@@ -117,15 +117,15 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 
 **Causes of Action Arising Under Predecessor Provisions**
 
-Pub. L. 94–553, title I, § 112, Oct. 19, 1976, 90 Stat. 2600, provided that: “All causes of action that arose under title 17 before January 1, 1978, shall be governed by title 17 as it existed when the cause of action arose.”
+Pub. L. 94–553, title I, § 112, Oct. 19, 1976, 90 Stat. 2600, provided that: “All causes of action that arose under title 17 before January 1, 1978, shall be governed by title 17 as it existed when the cause of action arose.”
 
-## § 502. Remedies for infringement: Injunctions
+## § 502. Remedies for infringement: Injunctions
 
 **(a)** Any court having jurisdiction of a civil action arising under this title may, subject to the provisions of section 1498 of title 28, grant temporary and final injunctions on such terms as it may deem reasonable to prevent or restrain infringement of a copyright.
 
 **(b)** Any such injunction may be served anywhere in the United States on the person enjoined; it shall be operative throughout the United States and shall be enforceable, by proceedings in contempt or otherwise, by any United States court having jurisdiction of that person. The clerk of the court granting the injunction shall, when requested by any other court in which enforcement of the injunction is sought, transmit promptly to the other court a certified copy of all the papers in the case on file in such clerk’s office.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2584.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2584.)
 
 **Historical and Revision Notes**
 
@@ -135,7 +135,7 @@ Section 502(a) [subsec. (a) of this section] reasserts the discretionary power o
 
 Under subsection (b), which is the counterpart of provisions in sections 112 and 113 of the present statute [sections 112 and 113 of former title 17], a copyright owner who has obtained an injunction in one State will be able to enforce it against a defendant located anywhere else in the United States.
 
-## § 503. Remedies for infringement: Impounding and disposition of infringing articles
+## § 503. Remedies for infringement: Impounding and disposition of infringing articles
 
 **(a)**
 
@@ -153,7 +153,7 @@ Under subsection (b), which is the counterpart of provisions in sections 112 and
 
 **(b)** As part of a final judgment or decree, the court may order the destruction or other reasonable disposition of all copies or phonorecords found to have been made or used in violation of the copyright owner’s exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 110–403, title I, § 102(a), Oct. 13, 2008, 122 Stat. 4258; Pub. L. 111–295, § 6(d), Dec. 9, 2010, 124 Stat. 3181.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 110–403, title I, § 102(a), Oct. 13, 2008, 122 Stat. 4258; Pub. L. 111–295, § 6(d), Dec. 9, 2010, 124 Stat. 3181.)
 
 **Historical and Revision Notes**
 
@@ -179,7 +179,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(3), are set out
 
 2008—Subsec. (a). Pub. L. 110–403 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “At any time while an action under this title is pending, the court may order the impounding, on such terms as it may deem reasonable, of all copies or phonorecords claimed to have been made or used in violation of the copyright owner’s exclusive rights, and of all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced.”
 
-## § 504. Remedies for infringement: Damages and profits
+## § 504. Remedies for infringement: Damages and profits
 
 **(a) In General.—** Except as otherwise provided by this title, an infringer of copyright is liable for either—
 
@@ -205,7 +205,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(3), are set out
 
 **(d) Additional Damages in Certain Cases.—** In any case in which the court finds that a defendant proprietor of an establishment who claims as a defense that its activities were exempt under section 110(5) did not have reasonable grounds to believe that its use of a copyrighted work was exempt under such section, the plaintiff shall be entitled to, in addition to any award of damages under this section, an additional award of two times the amount of the license fee that the proprietor of the establishment concerned should have paid the plaintiff for such use during the preceding period of up to 3 years.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 100–568, § 10(b), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 105–80, § 12(a)(13), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–298, title II, § 204, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 106–160, § 2, Dec. 9, 1999, 113 Stat. 1774; Pub. L. 108–482, title II, § 203, Dec. 23, 2004, 118 Stat. 3916; Pub. L. 111–295, § 6(f)(2), Dec. 9, 2010, 124 Stat. 3181.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2585; Pub. L. 100–568, § 10(b), Oct. 31, 1988, 102 Stat. 2860; Pub. L. 105–80, § 12(a)(13), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 105–298, title II, § 204, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 106–160, § 2, Dec. 9, 1999, 113 Stat. 1774; Pub. L. 108–482, title II, § 203, Dec. 23, 2004, 118 Stat. 3916; Pub. L. 111–295, § 6(f)(2), Dec. 9, 2010, 124 Stat. 3181.)
 
 **Historical and Revision Notes**
 
@@ -243,23 +243,23 @@ In addition to the general “innocent infringer” provision clause (2) deals w
 
 2004—Subsec. (c)(3). Pub. L. 108–482 added par. (3).
 
-1999—Subsec. (c)(1). Pub. L. 106–160, § 2(1), substituted “$750” for “$500” and “$30,000” for “$20,000”.
+1999—Subsec. (c)(1). Pub. L. 106–160, § 2(1), substituted “$750” for “$500” and “$30,000” for “$20,000”.
 
-Subsec. (c)(2). Pub. L. 106–160, § 2(2), substituted “$150,000” for “$100,000”.
+Subsec. (c)(2). Pub. L. 106–160, § 2(2), substituted “$150,000” for “$100,000”.
 
 1998—Subsec. (d). Pub. L. 105–298 added subsec. (d).
 
 1997—Subsec. (c)(2). Pub. L. 105–80 substituted “the court in its discretion” for “the court it its discretion”.
 
-1988—Subsec. (c)(1). Pub. L. 100–568, § 10(b)(1), substituted “$500” for “$250” and “$20,000” for “$10,000”.
+1988—Subsec. (c)(1). Pub. L. 100–568, § 10(b)(1), substituted “$500” for “$250” and “$20,000” for “$10,000”.
 
-Subsec. (c)(2). Pub. L. 100–568, § 10(b)(2), substituted “$100,000” for “$50,000” and “$200” for “$100”.
+Subsec. (c)(2). Pub. L. 100–568, § 10(b)(2), substituted “$100,000” for “$50,000” and “$200” for “$100”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–160, § 4, Dec. 9, 1999, 113 Stat. 1774, provided that: “The amendments made by section 2 [amending this section] shall apply to any action brought on or after the date of the enactment of this Act [Dec. 9, 1999], regardless of the date on which the alleged activity that is the basis of the action occurred.”
+Pub. L. 106–160, § 4, Dec. 9, 1999, 113 Stat. 1774, provided that: “The amendments made by section 2 [amending this section] shall apply to any action brought on or after the date of the enactment of this Act [Dec. 9, 1999], regardless of the date on which the alleged activity that is the basis of the action occurred.”
 
 **Effective Date of 1998 Amendment**
 
@@ -269,11 +269,11 @@ Amendment by Pub. L. 105–298 effective 90 days after Oct. 27, 1998, see sectio
 
 Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of Pub. L. 100–568, set out as a note under section 101 of this title.
 
-## § 505. Remedies for infringement: Costs and attorney’s fees
+## § 505. Remedies for infringement: Costs and attorney’s fees
 
 In any civil action under this title, the court in its discretion may allow the recovery of full costs by or against any party other than the United States or an officer thereof. Except as otherwise provided by this title, the court may also award a reasonable attorney’s fee to the prevailing party as part of the costs.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2586.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2586.)
 
 **Historical and Revision Notes**
 
@@ -281,7 +281,7 @@ In any civil action under this title, the court in its discretion may allow the 
 
 Under section 505 the awarding of costs and attorney’s fees are left to the court’s discretion, and the section also makes clear that neither costs nor attorney’s fees can be awarded to or against “the United States or an officer thereof.”
 
-## § 506. Criminal offenses
+## § 506. Criminal offenses
 
 **(a) Criminal Infringement.—**
 
@@ -319,7 +319,7 @@ Under section 505 the awarding of costs and attorney’s fees are left to the co
 
 **(f) Rights of Attribution and Integrity.—** Nothing in this section applies to infringement of the rights conferred by section 106A(a).
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, § 5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, § 606(b), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–147, § 2(b), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 109–9, title I, § 103(a), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, § 201(a), Oct. 13, 2008, 122 Stat. 4260.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, § 5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, § 606(b), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–147, § 2(b), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 109–9, title I, § 103(a), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, § 201(a), Oct. 13, 2008, 122 Stat. 4260.)
 
 **Historical and Revision Notes**
 
@@ -357,19 +357,19 @@ shall be punished as provided under section 2319 of title 18, United States Code
 
 Amendment by Pub. L. 101–650 effective 6 months after Dec. 1, 1990, see section 610 of Pub. L. 101–650, set out as an Effective Date note under section 106A of this title.
 
-## § 507. Limitations on actions
+## § 507. Limitations on actions
 
 **(a) Criminal Proceedings.—** Except as expressly provided otherwise in this title, no criminal proceeding shall be maintained under the provisions of this title unless it is commenced within 5 years after the cause of action arose.
 
 **(b) Civil Actions.—** No civil action shall be maintained under the provisions of this title unless it is commenced within three years after the claim accrued.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 105–147, § 2(c), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–304, title I, § 102(e), Oct. 28, 1998, 112 Stat. 2863.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 105–147, § 2(c), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–304, title I, § 102(e), Oct. 28, 1998, 112 Stat. 2863.)
 
 **Historical and Revision Notes**
 
 **house report no. 94–1476**
 
-Section 507, which is substantially identical with section 115 of the present law [section 115 of former title 17], establishes a three-year statute of limitations for both criminal proceedings and civil actions. The language of this section, which was adopted by the act of September 7, 1957 (71 Stat. 633) [Pub. L. 85–313, § 1, Sept. 7, 1957, 71 Stat. 633], represents a reconciliation of views, and has therefore been left unaltered.
+Section 507, which is substantially identical with section 115 of the present law [section 115 of former title 17], establishes a three-year statute of limitations for both criminal proceedings and civil actions. The language of this section, which was adopted by the act of September 7, 1957 (71 Stat. 633) [Pub. L. 85–313, § 1, Sept. 7, 1957, 71 Stat. 633], represents a reconciliation of views, and has therefore been left unaltered.
 
 **Editorial Notes**
 
@@ -379,7 +379,7 @@ Section 507, which is substantially identical with section 115 of the present la
 
 1997—Subsec. (a). Pub. L. 105–147 substituted “5” for “three”.
 
-## § 508. Notification of filing and determination of actions
+## § 508. Notification of filing and determination of actions
 
 **(a)** Within one month after the filing of any action under this title, the clerks of the courts of the United States shall send written notification to the Register of Copyrights setting forth, as far as is shown by the papers filed in the court, the names and addresses of the parties and the title, author, and registration number of each work involved in the action. If any other copyrighted work is later included in the action by amendment, answer, or other pleading, the clerk shall also send a notification concerning it to the Register within one month after the pleading is filed.
 
@@ -387,7 +387,7 @@ Section 507, which is substantially identical with section 115 of the present la
 
 **(c)** Upon receiving the notifications specified in this section, the Register shall make them a part of the public records of the Copyright Office.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2586.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2586.)
 
 **Historical and Revision Notes**
 
@@ -395,11 +395,11 @@ Section 507, which is substantially identical with section 115 of the present la
 
 Section 508, which corresponds to some extent with a provision in the patent law (35 U.S.C. 290), is intended to establish a method for notifying the Copyright Office and the public of the filing and disposition of copyright cases. The clerks of the Federal courts are to notify the Copyright Office of the filing of any copyright actions and of their final disposition, and the Copyright Office is to make these notifications a part of its public records.
 
-## [§ 509. Repealed. Pub. L. 110–403, title II, § 201(b)(1), Oct. 13, 2008, 122 Stat. 4260]
+## [§ 509. Repealed. Pub. L. 110–403, title II, § 201(b)(1), Oct. 13, 2008, 122 Stat. 4260]
 
-Section, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2587; Pub. L. 105–80, § 12(a)(14), Nov. 13, 1997, 111 Stat. 1535, related to seizure and forfeiture.
+Section, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2587; Pub. L. 105–80, § 12(a)(14), Nov. 13, 1997, 111 Stat. 1535, related to seizure and forfeiture.
 
-## § 510. Remedies for alteration of programming by cable systems
+## § 510. Remedies for alteration of programming by cable systems
 
 **(a)** In any action filed pursuant to section 111(c)(3), the following remedies shall be available:
 
@@ -409,7 +409,7 @@ Section, Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2587; Pub.
 
 **(b)** In any action filed pursuant to section 111(c)(3), the court may decree that, for a period not to exceed thirty days, the cable system shall be deprived of the benefit of a statutory license for one or more distant signals carried by such cable system.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2587; Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1011(a)(1), (3)], Nov. 29, 1999, 113 Stat. 1536, 1501A–543.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2587; Pub. L. 106–113, div. B, § 1000(a)(9) [title I, § 1011(a)(1), (3)], Nov. 29, 1999, 113 Stat. 1536, 1501A–543.)
 
 **Historical and Revision Notes**
 
@@ -423,17 +423,17 @@ Under section 509(a), four types of plaintiffs are entitled to bring an action i
 
 **Amendments**
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(1)], substituted “programming” for “programing” in section catchline.
+1999—Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(1)], substituted “programming” for “programing” in section catchline.
 
-Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(3)], substituted “statutory” for “compulsory”.
+Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(3)], substituted “statutory” for “compulsory”.
 
-## § 511. Liability of States, instrumentalities of States, and State officials for infringement of copyright
+## § 511. Liability of States, instrumentalities of States, and State officials for infringement of copyright
 
 **(a) In General.—** Any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity, shall not be immune, under the Eleventh Amendment of the Constitution of the United States or under any other doctrine of sovereign immunity, from suit in Federal court by any person, including any governmental or nongovernmental entity, for a violation of any of the exclusive rights of a copyright owner provided by sections 106 through 122, for importing copies of phonorecords in violation of section 602, or for any other violation under this title.
 
 **(b) Remedies.—** In a suit described in subsection (a) for a violation described in that subsection, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any public or private entity other than a State, instrumentality of a State, or officer or employee of a State acting in his or her official capacity. Such remedies include impounding and disposition of infringing articles under section 503, actual damages and profits and statutory damages under section 504, costs and attorney’s fees under section 505, and the remedies provided in section 510.
 
-(Added Pub. L. 101–553, § 2(a)(2), Nov. 15, 1990, 104 Stat. 2749; amended Pub. L. 106–44, § 1(g)(6), Aug. 5, 1999, 113 Stat. 222; Pub. L. 107–273, div. C, title III, § 13210(4)(C), Nov. 2, 2002, 116 Stat. 1909.)
+(Added Pub. L. 101–553, § 2(a)(2), Nov. 15, 1990, 104 Stat. 2749; amended Pub. L. 106–44, § 1(g)(6), Aug. 5, 1999, 113 Stat. 222; Pub. L. 107–273, div. C, title III, § 13210(4)(C), Nov. 2, 2002, 116 Stat. 1909.)
 
 **Editorial Notes**
 
@@ -453,7 +453,7 @@ For information regarding the constitutionality of certain provisions of subsect
 
 Section effective with respect to violations that occur on or after Nov. 15, 1990, see section 3 of Pub. L. 101–553, set out as an Effective Date of 1990 Amendment note under section 501 of this title.
 
-## § 512. Limitations on liability relating to material online
+## § 512. Limitations on liability relating to material online
 
 **(a) Transitory Digital Network Communications.—** A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the provider’s transmitting, routing, or providing connections for, material through a system or network controlled or operated by or for the service provider, or by reason of the intermediate and transient storage of that material in the course of such transmitting, routing, or providing connections, if—
 
@@ -691,7 +691,7 @@ shall be liable for any damages, including costs and attorneys’ fees, incurred
 
 **(n) Construction.—** Subsections (a), (b), (c), and (d) describe separate and distinct functions for purposes of applying this section. Whether a service provider qualifies for the limitation on liability in any one of those subsections shall be based solely on the criteria in that subsection, and shall not affect a determination of whether that service provider qualifies for the limitations on liability under any other such subsection.
 
-(Added Pub. L. 105–304, title II, § 202(a), Oct. 28, 1998, 112 Stat. 2877; amended Pub. L. 106–44, § 1(d), Aug. 5, 1999, 113 Stat. 222; Pub. L. 111–295, § 3(a), Dec. 9, 2010, 124 Stat. 3180.)
+(Added Pub. L. 105–304, title II, § 202(a), Oct. 28, 1998, 112 Stat. 2877; amended Pub. L. 106–44, § 1(d), Aug. 5, 1999, 113 Stat. 222; Pub. L. 111–295, § 3(a), Dec. 9, 2010, 124 Stat. 3180.)
 
 **Editorial Notes**
 
@@ -705,21 +705,21 @@ Another section 512 was renumbered section 513 of this title.
 
 **Amendments**
 
-2010—Subsec. (c)(2). Pub. L. 111–295 struck out “, in both electronic and hard copy formats” after “Internet” in concluding provisions.
+2010—Subsec. (c)(2). Pub. L. 111–295 struck out “, in both electronic and hard copy formats” after “Internet” in concluding provisions.
 
-1999—Subsec. (e). Pub. L. 106–44, § 1(d)(1)(A), substituted “Limitation on Liability of Nonprofit Educational Institutions” for “Limitation on liability of nonprofit educational institutions” in heading.
+1999—Subsec. (e). Pub. L. 106–44, § 1(d)(1)(A), substituted “Limitation on Liability of Nonprofit Educational Institutions” for “Limitation on liability of nonprofit educational institutions” in heading.
 
-Subsec. (e)(2). Pub. L. 106–44, § 1(d)(1)(B), struck out par. heading “Injunctions”.
+Subsec. (e)(2). Pub. L. 106–44, § 1(d)(1)(B), struck out par. heading “Injunctions”.
 
-Subsec. (j)(3). Pub. L. 106–44, § 1(d)(2), substituted “Notice and ex parte orders” for “Notice and Ex Parte Orders” in heading.
+Subsec. (j)(3). Pub. L. 106–44, § 1(d)(2), substituted “Notice and ex parte orders” for “Notice and Ex Parte Orders” in heading.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–304, title II, § 203, Oct. 28, 1998, 112 Stat. 2886, provided that: “This title [enacting this section and provisions set out as a note under section 101 of this title] and the amendments made by this title shall take effect on the date of the enactment of this Act [Oct. 28, 1998].”
+Pub. L. 105–304, title II, § 203, Oct. 28, 1998, 112 Stat. 2886, provided that: “This title [enacting this section and provisions set out as a note under section 101 of this title] and the amendments made by this title shall take effect on the date of the enactment of this Act [Oct. 28, 1998].”
 
-## § 513. Determination of reasonable license fees for individual proprietors
+## § 513. Determination of reasonable license fees for individual proprietors
 
 In the case of any performing rights society subject to a consent decree which provides for the determination of reasonable license rates or fees to be charged by the performing rights society, notwithstanding the provisions of that consent decree, an individual proprietor who owns or operates fewer than 7 non-publicly traded establishments in which nondramatic musical works are performed publicly and who claims that any license agreement offered by that performing rights society is unreasonable in its license rate or fee as to that individual proprietor, shall be entitled to determination of a reasonable license rate or fee as follows:
 
@@ -741,7 +741,7 @@ In the case of any performing rights society subject to a consent decree which p
 
 **(9)** For purposes of this section, the term “industry rate” means the license fee a performing rights society has agreed to with, or which has been determined by the court for, a significant segment of the music user industry to which the individual proprietor belongs.
 
-(Added Pub. L. 105–298, title II, § 203(a), Oct. 27, 1998, 112 Stat. 2831, § 512; renumbered § 513, Pub. L. 106–44, § 1(c)(1), Aug. 5, 1999, 113 Stat. 221.)
+(Added Pub. L. 105–298, title II, § 203(a), Oct. 27, 1998, 112 Stat. 2831, § 512; renumbered § 513, Pub. L. 106–44, § 1(c)(1), Aug. 5, 1999, 113 Stat. 221.)
 
 **Editorial Notes**
 

@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERALLY
 
-### § 1801. Findings, purposes and policy
+### § 1801. Findings, purposes and policy
 
 **(a) Findings** The Congress finds and declares the following:
 
@@ -79,11 +79,11 @@ retrieved: 2026-10-11
 
 **(7)** to ensure that the fishery resources adjacent to a Pacific Insular Area, including resident or migratory stocks within the exclusive economic zone adjacent to such areas, be explored, developed, conserved, and managed for the benefit of the people of such area and of the United States.
 
-(Pub. L. 94–265, § 2, Apr. 13, 1976, 90 Stat. 331; Pub. L. 95–354, § 2, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–561, title II, § 233, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 99–659, title I, § 101(c)(1), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, § 101, Nov. 28, 1990, 104 Stat. 4437; Pub. L. 102–251, title III, § 301(a), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, § 101, Oct. 11, 1996, 110 Stat. 3560; Pub. L. 109–479, § 3(a), title IV, § 402, Jan. 12, 2007, 120 Stat. 3577, 3626; Pub. L. 115–405, § 2, Dec. 31, 2018, 132 Stat. 5355.)
+(Pub. L. 94–265, § 2, Apr. 13, 1976, 90 Stat. 331; Pub. L. 95–354, § 2, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–561, title II, § 233, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 99–659, title I, § 101(c)(1), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, § 101, Nov. 28, 1990, 104 Stat. 4437; Pub. L. 102–251, title III, § 301(a), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, § 101, Oct. 11, 1996, 110 Stat. 3560; Pub. L. 109–479, § 3(a), title IV, § 402, Jan. 12, 2007, 120 Stat. 3577, 3626; Pub. L. 115–405, § 2, Dec. 31, 2018, 132 Stat. 5355.)
 
 **Amendment of Subsection (b)(1)**
 
-Pub. L. 102–251, title III, §§ 301(a), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1) is amended by inserting “, and fishery resources in the special areas” before the semicolon at the end.
+Pub. L. 102–251, title III, §§ 301(a), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1) is amended by inserting “, and fishery resources in the special areas” before the semicolon at the end.
 
 **Editorial Notes**
 
@@ -97,49 +97,49 @@ Presidential Proclamation 5030, referred to in subsec. (b)(1), is set out under 
 
 2018—Subsec. (a)(13). Pub. L. 115–405 added par. (13).
 
-2007—Subsec. (a)(11). Pub. L. 109–479, § 3(a), added par. (11).
+2007—Subsec. (a)(11). Pub. L. 109–479, § 3(a), added par. (11).
 
-Subsec. (a)(12). Pub. L. 109–479, § 402, added par. (12).
+Subsec. (a)(12). Pub. L. 109–479, § 402, added par. (12).
 
-1996—Subsec. (a)(2). Pub. L. 104–297, § 101(1), added par. (2) and struck out former par. (2) which read as follows: “As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point where their survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened.”
+1996—Subsec. (a)(2). Pub. L. 104–297, § 101(1), added par. (2) and struck out former par. (2) which read as follows: “As a consequence of increased fishing pressure and because of the inadequacy of fishery conservation and management practices and controls (A) certain stocks of such fish have been overfished to the point where their survival is threatened, and (B) other such stocks have been so substantially reduced in number that they could become similarly threatened.”
 
-Subsec. (a)(6). Pub. L. 104–297, § 101(2), inserted “to facilitate long-term protection of essential fish habitats,” after “to insure conservation,”.
+Subsec. (a)(6). Pub. L. 104–297, § 101(2), inserted “to facilitate long-term protection of essential fish habitats,” after “to insure conservation,”.
 
-Subsec. (a)(9), (10). Pub. L. 104–297, § 101(3), added pars. (9) and (10).
+Subsec. (a)(9), (10). Pub. L. 104–297, § 101(3), added pars. (9) and (10).
 
-Subsec. (b)(3). Pub. L. 104–297, § 101(4), substituted “principles, including the promotion of catch and release programs in recreational fishing” for “principles”.
+Subsec. (b)(3). Pub. L. 104–297, § 101(4), substituted “principles, including the promotion of catch and release programs in recreational fishing” for “principles”.
 
-Subsec. (b)(5). Pub. L. 104–297, § 101(5), struck out “and” after semicolon at end.
+Subsec. (b)(5). Pub. L. 104–297, § 101(5), struck out “and” after semicolon at end.
 
-Subsec. (b)(6). Pub. L. 104–297, § 101(6), substituted “development in a non-wasteful manner; and” for “development.”
+Subsec. (b)(6). Pub. L. 104–297, § 101(6), substituted “development in a non-wasteful manner; and” for “development.”
 
-Subsec. (b)(7). Pub. L. 104–297, § 101(7), added par. (7).
+Subsec. (b)(7). Pub. L. 104–297, § 101(7), added par. (7).
 
-Subsec. (c)(3). Pub. L. 104–297, § 101(8), substituted “considers efficiency” for “promotes efficiency” and inserted “minimize bycatch and” after “practical measures that”.
+Subsec. (c)(3). Pub. L. 104–297, § 101(8), substituted “considers efficiency” for “promotes efficiency” and inserted “minimize bycatch and” after “practical measures that”.
 
-Subsec. (c)(7). Pub. L. 104–297, § 101(9)–(11), added par. (7).
+Subsec. (c)(7). Pub. L. 104–297, § 101(9)–(11), added par. (7).
 
-1990—Subsec. (a)(8). Pub. L. 101–627, § 101(a), added par. (8).
+1990—Subsec. (a)(8). Pub. L. 101–627, § 101(a), added par. (8).
 
-Subsec. (b)(1)(A). Pub. L. 101–627, § 101(b)(1), struck out “except highly migratory species” after “fish”.
+Subsec. (b)(1)(A). Pub. L. 101–627, § 101(b)(1), struck out “except highly migratory species” after “fish”.
 
-Subsec. (b)(5). Pub. L. 101–627, § 101(b)(2), substituted “exercise sound judgment in the stewardship of fishery resources through the preparation, monitoring, and revision of” for “prepare, monitor, and revise”.
+Subsec. (b)(5). Pub. L. 101–627, § 101(b)(2), substituted “exercise sound judgment in the stewardship of fishery resources through the preparation, monitoring, and revision of” for “prepare, monitor, and revise”.
 
-Subsec. (c)(3). Pub. L. 101–627, § 101(c)(1), inserted “considers the effects of fishing on immature fish and encourages development of practical measures that avoid unnecessary waste of fish;” after “and enforcement;”.
+Subsec. (c)(3). Pub. L. 101–627, § 101(c)(1), inserted “considers the effects of fishing on immature fish and encourages development of practical measures that avoid unnecessary waste of fish;” after “and enforcement;”.
 
-Subsec. (c)(5). Pub. L. 101–627, § 101(c)(3), substituted “, and to secure agreements to regulate fishing by vessels or persons beyond the exclusive economic zones of any nation; and” for period at end.
+Subsec. (c)(5). Pub. L. 101–627, § 101(c)(3), substituted “, and to secure agreements to regulate fishing by vessels or persons beyond the exclusive economic zones of any nation; and” for period at end.
 
-Subsec. (c)(6). Pub. L. 101–627, § 101(c)(4), added par. (6).
+Subsec. (c)(6). Pub. L. 101–627, § 101(c)(4), added par. (6).
 
-1986—Subsec. (b)(1). Pub. L. 99–659, § 101(c)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by establishing (A) a fishery conservation zone within which the United States will assume exclusive fishery management authority over all fish, except highly migratory species, and (B) exclusive fishery management authority beyond such zone over such anadromous species and Continental Shelf fishery resources;”.
+1986—Subsec. (b)(1). Pub. L. 99–659, § 101(c)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to take immediate action to conserve and manage the fishery resources found off the coasts of the United States, and the anadromous species and Continental Shelf fishery resources of the United States, by establishing (A) a fishery conservation zone within which the United States will assume exclusive fishery management authority over all fish, except highly migratory species, and (B) exclusive fishery management authority beyond such zone over such anadromous species and Continental Shelf fishery resources;”.
 
-Subsec. (c)(5). Pub. L. 99–659, § 101(c)(1)(B), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to support and encourage continued active United States efforts to obtain an internationally acceptable treaty, at the Third United Nations Conference on the Law of the Sea, which provides for effective conservation and management of fishery resources.”
+Subsec. (c)(5). Pub. L. 99–659, § 101(c)(1)(B), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to support and encourage continued active United States efforts to obtain an internationally acceptable treaty, at the Third United Nations Conference on the Law of the Sea, which provides for effective conservation and management of fishery resources.”
 
-1980—Subsec. (b)(6). Pub. L. 96–561 inserted “, and to that end, to ensure that optimum yield determinations promote such development” after “fish off Alaska”.
+1980—Subsec. (b)(6). Pub. L. 96–561 inserted “, and to that end, to ensure that optimum yield determinations promote such development” after “fish off Alaska”.
 
-1978—Subsec. (a)(7). Pub. L. 95–354, § 2(a), substituted “the United States fishing industry” for “United States fishermen”.
+1978—Subsec. (a)(7). Pub. L. 95–354, § 2(a), substituted “the United States fishing industry” for “United States fishermen”.
 
-Subsec. (b)(6). Pub. L. 95–354, § 2(b), inserted requirement for development by the United States fishing industry.
+Subsec. (b)(6). Pub. L. 95–354, § 2(b), inserted requirement for development by the United States fishing industry.
 
 **References to Magnuson-Stevens Fishery Conservation and Management Act Considered To Include Section 401(a) of Pub. L. 108–219**
 
@@ -147,11 +147,11 @@ References to the Magnuson-Stevens Fishery Conservation and Management Act or an
 
 **References to Magnuson Fishery Conservation and Management Act Redesignated as References to Magnuson-Stevens Fishery Conservation and Management Act**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Effective 15 days after the enactment of the Sustainable Fisheries Act [Pub. L. 104–297, enacted Oct. 11, 1996], all references to the Magnuson Fishery Conservation and Management Act [see Short Title note below] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Effective 15 days after the enactment of the Sustainable Fisheries Act [Pub. L. 104–297, enacted Oct. 11, 1996], all references to the Magnuson Fishery Conservation and Management Act [see Short Title note below] shall be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.”
 
 **References to Fishery Conservation and Management Act of 1976 Redesignated as References to Magnuson Fishery Conservation and Management Act**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that: “Effective 15 days after the date of enactment of this title [Dec. 22, 1980], all references to the Fishery Conservation and Management Act of 1976 [see Short title note below] shall be redesignated as references to the Magnuson Fishery Conservation and Management Act.”
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that: “Effective 15 days after the date of enactment of this title [Dec. 22, 1980], all references to the Fishery Conservation and Management Act of 1976 [see Short title note below] shall be redesignated as references to the Magnuson Fishery Conservation and Management Act.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -161,83 +161,83 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 118–229, § 1, Jan. 4, 2025, 138 Stat. 2824, provided that: “This Act [amending section 1861a of this title] may be cited as the ‘Fishery Improvement to Streamline untimely regulatory Hurdles post Emergency Situation Act’ or the ‘FISHES Act’.”
+Pub. L. 118–229, § 1, Jan. 4, 2025, 138 Stat. 2824, provided that: “This Act [amending section 1861a of this title] may be cited as the ‘Fishery Improvement to Streamline untimely regulatory Hurdles post Emergency Situation Act’ or the ‘FISHES Act’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–328, div. S, title I, § 101, Dec. 29, 2022, 136 Stat. 5259, provided that: “This title [amending sections 1802, 1826, and 1857 of this title and enacting provisions set out as a note under section 1862 of this title] may be cited as the ‘Driftnet Modernization and Bycatch Reduction Act’.”
+Pub. L. 117–328, div. S, title I, § 101, Dec. 29, 2022, 136 Stat. 5259, provided that: “This title [amending sections 1802, 1826, and 1857 of this title and enacting provisions set out as a note under section 1862 of this title] may be cited as the ‘Driftnet Modernization and Bycatch Reduction Act’.”
 
-Pub. L. 117–328, div. S, title II, § 201, Dec. 29, 2022, 136 Stat. 5261, provided that: “This title [amending sections 1822, 1826, 1826h, and 1861a of this title and section 632 of Title 15, Commerce and Trade, repealing sections 1864 and 4107 of this title, enacting provisions set out as a note under section 1861a of this title, and amending provisions set out as a note under section 460ss of this title] may be cited as the ‘Fishery Resource Disasters Improvement Act’.”
+Pub. L. 117–328, div. S, title II, § 201, Dec. 29, 2022, 136 Stat. 5261, provided that: “This title [amending sections 1822, 1826, 1826h, and 1861a of this title and section 632 of Title 15, Commerce and Trade, repealing sections 1864 and 4107 of this title, enacting provisions set out as a note under section 1861a of this title, and amending provisions set out as a note under section 460ss of this title] may be cited as the ‘Fishery Resource Disasters Improvement Act’.”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 116–340, § 1, Jan. 13, 2021, 134 Stat. 5128, provided that: “This Act [enacting section 1870 of this title, amending section 1858 of this title, repealing section 1870 of this title, and enacting provisions set out as notes under sections 1858 and 1865 of this title] may be cited as the ‘Direct Enhancement of Snapper Conservation and the Economy through Novel Devices Act of 2020’ or the ‘DESCEND Act of 2020’.”
+Pub. L. 116–340, § 1, Jan. 13, 2021, 134 Stat. 5128, provided that: “This Act [enacting section 1870 of this title, amending section 1858 of this title, repealing section 1870 of this title, and enacting provisions set out as notes under sections 1858 and 1865 of this title] may be cited as the ‘Direct Enhancement of Snapper Conservation and the Economy through Novel Devices Act of 2020’ or the ‘DESCEND Act of 2020’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–405, § 1(a), Dec. 31, 2018, 132 Stat. 5355, provided that: “This Act [amending this section and sections 1852, 1881, and 1881c of this title, and enacting provisions set out as notes under this section and sections 1852 and 1881 of this title] may be cited as the ‘Modernizing Recreational Fisheries Management Act of 2018’.”
+Pub. L. 115–405, § 1(a), Dec. 31, 2018, 132 Stat. 5355, provided that: “This Act [amending this section and sections 1852, 1881, and 1881c of this title, and enacting provisions set out as notes under this section and sections 1852 and 1881 of this title] may be cited as the ‘Modernizing Recreational Fisheries Management Act of 2018’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–81, § 1, Nov. 5, 2015, 129 Stat. 649, provided that: “This Act [see Tables for classification] may be cited as the ‘Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015’.”
+Pub. L. 114–81, § 1, Nov. 5, 2015, 129 Stat. 649, provided that: “This Act [see Tables for classification] may be cited as the ‘Illegal, Unreported, and Unregulated Fishing Enforcement Act of 2015’.”
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–183, § 1, Oct. 5, 2012, 126 Stat. 1422, provided that: “This Act [enacting section 1827a of this title and provisions set out as a note under section 1827a of this title] may be cited as the ‘Billfish Conservation Act of 2012’.”
+Pub. L. 112–183, § 1, Oct. 5, 2012, 126 Stat. 1422, provided that: “This Act [enacting section 1827a of this title and provisions set out as a note under section 1827a of this title] may be cited as the ‘Billfish Conservation Act of 2012’.”
 
 **Short Title of 2011 Amendment**
 
-Pub. L. 111–348, title I, § 101, Jan. 4, 2011, 124 Stat. 3668, provided that: “This title [amending sections 1826i to 1826k, 1857, and 4107 of this title and enacting provisions set out as notes under sections 1826k and 1857 of this title] may be cited as the ‘Shark Conservation Act of 2010’.”
+Pub. L. 111–348, title I, § 101, Jan. 4, 2011, 124 Stat. 3668, provided that: “This title [amending sections 1826i to 1826k, 1857, and 4107 of this title and enacting provisions set out as notes under sections 1826k and 1857 of this title] may be cited as the ‘Shark Conservation Act of 2010’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 109–479, § 1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: “This Act [enacting chapters 88 and 89 of this title, chapter 45 of Title 33, Navigation and Navigable Waters, subchapters VI of chapter 31 and of chapter 38 of this title, sections 1826h to 1826k, 1829, 1853a, 1864 to 1869, and 1884 of this title, amending this section, sections 757d, 773f, 773g, 971a, 971h, 971i, 1377, 1802, 1803, 1812, 1821, 1824, 1826a, 1826b, 1851 to 1853, 1854, 1855, 1857, 1861, 1861a, 1862, 1881, 1881a, 1881c, 1882, 1883, 3645, 4107, 5156, 5610, and 5727 of this title, and section 53706 of Title 46, Shipping, enacting provisions set out as notes under sections 460ss, 1361, 1853 to 1855, 1861a, 1864, 6901, and 7001 of this title and section 3201 of Title 33, and amending provisions set out as notes under sections 1822, 1851, 1855, and 1856 of this title] may be cited as the ‘Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006’.”
+Pub. L. 109–479, § 1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: “This Act [enacting chapters 88 and 89 of this title, chapter 45 of Title 33, Navigation and Navigable Waters, subchapters VI of chapter 31 and of chapter 38 of this title, sections 1826h to 1826k, 1829, 1853a, 1864 to 1869, and 1884 of this title, amending this section, sections 757d, 773f, 773g, 971a, 971h, 971i, 1377, 1802, 1803, 1812, 1821, 1824, 1826a, 1826b, 1851 to 1853, 1854, 1855, 1857, 1861, 1861a, 1862, 1881, 1881a, 1881c, 1882, 1883, 3645, 4107, 5156, 5610, and 5727 of this title, and section 53706 of Title 46, Shipping, enacting provisions set out as notes under sections 460ss, 1361, 1853 to 1855, 1861a, 1864, 6901, and 7001 of this title and section 3201 of Title 33, and amending provisions set out as notes under sections 1822, 1851, 1855, and 1856 of this title] may be cited as the ‘Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–297, § 1(a), Oct. 11, 1996, 110 Stat. 3559, provided that: “This Act [enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title] may be cited as the ‘Sustainable Fisheries Act’.”
+Pub. L. 104–297, § 1(a), Oct. 11, 1996, 110 Stat. 3559, provided that: “This Act [enacting sections 1803, 1861a, 1881 to 1881d, 1883, 5107a, and 5107b of this title and sections 1279f and 1279g of Title 46, Appendix, Shipping, amending this section, sections 757d, 1362, 1802, 1812, 1821 to 1824, 1826, 1851 to 1858, 1860, 1861, 1862, 1863, 1882, 1883, 4107, 5102, 5103, and 5108 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1274 of Title 46, Appendix, enacting provisions set out as notes under sections 1802, 1853 to 1856, 1861a, and 1881c of this title and section 1245 of Title 46, Appendix, amending provisions set out as a note under section 971c of this title, and repealing provisions set out as a note under section 1851 of this title] may be cited as the ‘Sustainable Fisheries Act’.”
 
 **Short Title of 1995 Amendment**
 
-Pub. L. 104–43, title VI, § 601, Nov. 3, 1995, 109 Stat. 391, provided that: “This title [enacting sections 1826d to 1826g of this title and provisions set out as a note under section 1826d of this title] may be cited as the ‘High Seas Driftnet Fishing Moratorium Protection Act’.”
+Pub. L. 104–43, title VI, § 601, Nov. 3, 1995, 109 Stat. 391, provided that: “This title [enacting sections 1826d to 1826g of this title and provisions set out as a note under section 1826d of this title] may be cited as the ‘High Seas Driftnet Fishing Moratorium Protection Act’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–582, § 1, Nov. 2, 1992, 106 Stat. 4900, provided that: “This Act [enacting sections 1826a to 1826c of this title and section 1707a of Title 46, Appendix, Shipping, amending sections 1362, 1371, 1852, and 1862 of this title, section 1978 of Title 22, Foreign Relations and Intercourse, and section 2110 of Title 46, repealing section 1111c of Title 46, Appendix, and enacting provisions set out as notes under sections 1823, 1826a, and 1861 of this title and section 2110 of Title 46] may be cited as the ‘High Seas Driftnet Fisheries Enforcement Act’.”
+Pub. L. 102–582, § 1, Nov. 2, 1992, 106 Stat. 4900, provided that: “This Act [enacting sections 1826a to 1826c of this title and section 1707a of Title 46, Appendix, Shipping, amending sections 1362, 1371, 1852, and 1862 of this title, section 1978 of Title 22, Foreign Relations and Intercourse, and section 2110 of Title 46, repealing section 1111c of Title 46, Appendix, and enacting provisions set out as notes under sections 1823, 1826a, and 1861 of this title and section 2110 of Title 46] may be cited as the ‘High Seas Driftnet Fisheries Enforcement Act’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–627, § 1(a), Nov. 28, 1990, 104 Stat. 4436, provided that: “The Act [enacting sections 971b–1, 1385, and 1862 of this title, amending this section, sections 757d, 758e–5, 971a, 971b, 971d, 971h, 1371, 1802, 1811, 1812, 1821, 1822, 1824 to 1826, 1852 to 1861, 1882, 4005, 4006, 4008, 4103, and 4107 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1977 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 971a, 1373, 1802, 1812, 1822, 1825, 1854, 4004, and 4005 of this title] may be cited as the ‘Fishery Conservation Amendments of 1990’.”
+Pub. L. 101–627, § 1(a), Nov. 28, 1990, 104 Stat. 4436, provided that: “The Act [enacting sections 971b–1, 1385, and 1862 of this title, amending this section, sections 757d, 758e–5, 971a, 971b, 971d, 971h, 1371, 1802, 1811, 1812, 1821, 1822, 1824 to 1826, 1852 to 1861, 1882, 4005, 4006, 4008, 4103, and 4107 of this title, section 713c–3 of Title 15, Commerce and Trade, and section 1977 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under sections 971a, 1373, 1802, 1812, 1822, 1825, 1854, 4004, and 4005 of this title] may be cited as the ‘Fishery Conservation Amendments of 1990’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–220, § 1, Dec. 29, 1987, 101 Stat. 1458, provided that: “This Act [enacting section 1912 of Title 33, Navigation and Navigable Waters, amending sections 1121 to 1131, 1901 to 1903, 1905, and 1907 to 1909 of Title 33, and enacting provisions set out as notes under this section, sections 1822 and 1823 of this title, sections 883a, 1121, 1125, 1901, 1902, and 2267 of Title 33, and section 6981 of Title 42, The Public Health and Welfare] may be cited as the ‘United States-Japan Fishery Agreement Approval Act of 1987’.”
+Pub. L. 100–220, § 1, Dec. 29, 1987, 101 Stat. 1458, provided that: “This Act [enacting section 1912 of Title 33, Navigation and Navigable Waters, amending sections 1121 to 1131, 1901 to 1903, 1905, and 1907 to 1909 of Title 33, and enacting provisions set out as notes under this section, sections 1822 and 1823 of this title, sections 883a, 1121, 1125, 1901, 1902, and 2267 of Title 33, and section 6981 of Title 42, The Public Health and Welfare] may be cited as the ‘United States-Japan Fishery Agreement Approval Act of 1987’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 201, Dec. 22, 1980, 94 Stat. 3287, provided that: “This title [enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22] may be cited as the ‘American Fisheries Promotion Act’.”
+Pub. L. 96–561, title II, § 201, Dec. 22, 1980, 94 Stat. 3287, provided that: “This title [enacting section 1511b of Title 15, Commerce and Trade, amending sections 917, 1801, 1821, 1824, 1852, and 1855 of this title, section 713c–3 of Title 15, sections 1972 and 1980 of Title 22, Foreign Relations and Intercourse, section 1321 of Title 33, Navigation and Navigable Waters, section 1843 of Title 43, Public Lands, and sections 1271, 1273, 1274, and 1275 of Title 46, Appendix, Shipping, and enacting provisions set out as notes under this section, sections 742c, 1821, and 1824 of this title, and section 1980 of Title 22] may be cited as the ‘American Fisheries Promotion Act’.”
 
 **Short Title of 1977 Amendment**
 
-Pub. L. 95–6, § 1, Feb. 21, 1977, 91 Stat. 14, provided: “That this joint resolution [enacting section 1826 of this title, repealing sections 981 to 991 of this title, and enacting provisions set out as notes under sections 981 and 1823 of this title] may be cited as the ‘Fishery Conservation Zone Transition Act’.”
+Pub. L. 95–6, § 1, Feb. 21, 1977, 91 Stat. 14, provided: “That this joint resolution [enacting section 1826 of this title, repealing sections 981 to 991 of this title, and enacting provisions set out as notes under sections 981 and 1823 of this title] may be cited as the ‘Fishery Conservation Zone Transition Act’.”
 
 **Short Title**
 
-Pub. L. 94–265, § 1, Apr. 13, 1976, 90 Stat. 331, as amended by Pub. L. 96–561, title II, § 238(a), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(a)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided: “That this Act [enacting this chapter, amending section 971 of this title and sections 1972 and 1973 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and sections 971, 1362, 1857 of this title, and sections 1972 and 1973 of Title 22, and repealing chapters 21 and 21A of this title] may be cited as the ‘Magnuson-Stevens Fishery Conservation and Management Act’.”
+Pub. L. 94–265, § 1, Apr. 13, 1976, 90 Stat. 331, as amended by Pub. L. 96–561, title II, § 238(a), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(a)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided: “That this Act [enacting this chapter, amending section 971 of this title and sections 1972 and 1973 of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section and sections 971, 1362, 1857 of this title, and sections 1972 and 1973 of Title 22, and repealing chapters 21 and 21A of this title] may be cited as the ‘Magnuson-Stevens Fishery Conservation and Management Act’.”
 
-[Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(a)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by section 101(a) [§ 211(a)] to section 1 of Pub. L. 94–265, set out above, is effective 15 days after Oct. 11, 1996.]
+[Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(a)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by section 101(a) [§ 211(a)] to section 1 of Pub. L. 94–265, set out above, is effective 15 days after Oct. 11, 1996.]
 
-[Pub. L. 96–561, title II, § 238(a), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by section 238(a) to section 1 of Pub. L. 94–265, set out above, is effective 15 days after Dec. 22, 1980.]
+[Pub. L. 96–561, title II, § 238(a), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by section 238(a) to section 1 of Pub. L. 94–265, set out above, is effective 15 days after Dec. 22, 1980.]
 
 **Construction**
 
-Pub. L. 115–405, § 301, Dec. 31, 2018, 132 Stat. 5360, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note above] shall be construed as modifying the requirements of sections [sic] 301(a), 302(h)(6), 303(a)(15), or 304(e) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851(a), 1852(h)(6), 1853(a)(15), and 1854(e)), or the equal application of such requirements and other standards and requirements under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) to commercial, charter, and recreational fisheries, including each component of mixed-use fisheries.”
+Pub. L. 115–405, § 301, Dec. 31, 2018, 132 Stat. 5360, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note above] shall be construed as modifying the requirements of sections [sic] 301(a), 302(h)(6), 303(a)(15), or 304(e) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1851(a), 1852(h)(6), 1853(a)(15), and 1854(e)), or the equal application of such requirements and other standards and requirements under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) to commercial, charter, and recreational fisheries, including each component of mixed-use fisheries.”
 
 [For definition of “mixed-use fishery” as used in section 301 of Pub. L. 115–405, set out above, see section 3 of Pub. L. 115–405, set out below].
 
 **Sport Fishing and Boating Partnership Council**
 
-Pub. L. 117–58, div. B, title VIII, § 28001(d), Nov. 15, 2021, 135 Stat. 889, provided that:
+Pub. L. 117–58, div. B, title VIII, § 28001(d), Nov. 15, 2021, 135 Stat. 889, provided that:
 
 > **“(1) In general.—** The Sport Fishing and Boating Partnership Council established by the Secretary of the Interior shall be an advisory committee of the Department of the Interior and the Department of Commerce subject to the Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see 5 U.S.C. 1001 et seq.].
 
@@ -247,7 +247,7 @@ Pub. L. 117–58, div. B, title VIII, § 28001(d), Nov. 15, 2021, 135 Stat. 88
 
 **Definitions**
 
-Pub. L. 115–405, § 3, Dec. 31, 2018, 132 Stat. 5355, provided that:
+Pub. L. 115–405, § 3, Dec. 31, 2018, 132 Stat. 5355, provided that:
 
 > “In this Act [see Short Title of 2018 Amendment note above]:
 
@@ -539,7 +539,7 @@ Sec. 5. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 1802. Definitions
+### § 1802. Definitions
 
 As used in this chapter, unless the context otherwise requires—
 
@@ -745,9 +745,9 @@ Such term does not include any scientific research activity which is conducted b
 
 **(40)** The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, Guam, and any other Commonwealth, territory, or possession of the United States.
 
-**(41)**  1
+**(41)** 1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 The term “special areas” means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990. In particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
 
@@ -787,7 +787,7 @@ Yellowfin Tuna—Thunnus albacares.
 
 **(50)** The term “waters of a foreign nation” means any part of the territorial sea or exclusive economic zone (or the equivalent) of a foreign nation, to the extent such territorial sea or exclusive economic zone is recognized by the United States.
 
-(Pub. L. 94–265, § 3, Apr. 13, 1976, 90 Stat. 333; Pub. L. 95–354, § 3, Aug. 28, 1978, 92 Stat. 519; Pub. L. 97–453, § 15(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§ 101(a), 112, Nov. 14, 1986, 100 Stat. 3706, 3715; Pub. L. 100–239, § 2, Jan. 11, 1988, 101 Stat. 1778; Pub. L. 101–627, title I, § 102(a), title X, § 1001(c), Nov. 28, 1990, 104 Stat. 4438, 4468; Pub. L. 102–251, title III, § 301(b), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, § 102, Oct. 11, 1996, 110 Stat. 3561; Pub. L. 109–479, § 3(b), (c), Jan. 12, 2007, 120 Stat. 3577, 3578; Pub. L. 115–232, div. C, title XXXV, § 3541(b)(2), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 117–328, div. S, title I, § 102, Dec. 29, 2022, 136 Stat. 5259; Pub. L. 119–60, div. G, title LXXIII, § 7301(k)(2)(A), Dec. 18, 2025, 139 Stat. 1759.)
+(Pub. L. 94–265, § 3, Apr. 13, 1976, 90 Stat. 333; Pub. L. 95–354, § 3, Aug. 28, 1978, 92 Stat. 519; Pub. L. 97–453, § 15(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§ 101(a), 112, Nov. 14, 1986, 100 Stat. 3706, 3715; Pub. L. 100–239, § 2, Jan. 11, 1988, 101 Stat. 1778; Pub. L. 101–627, title I, § 102(a), title X, § 1001(c), Nov. 28, 1990, 104 Stat. 4438, 4468; Pub. L. 102–251, title III, § 301(b), Mar. 9, 1992, 106 Stat. 62; Pub. L. 104–297, title I, § 102, Oct. 11, 1996, 110 Stat. 3561; Pub. L. 109–479, § 3(b), (c), Jan. 12, 2007, 120 Stat. 3577, 3578; Pub. L. 115–232, div. C, title XXXV, § 3541(b)(2), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 117–328, div. S, title I, § 102, Dec. 29, 2022, 136 Stat. 5259; Pub. L. 119–60, div. G, title LXXIII, § 7301(k)(2)(A), Dec. 18, 2025, 139 Stat. 1759.)
 
 **Editorial Notes**
 
@@ -799,231 +799,231 @@ Proclamation Numbered 5030, referred to in par. (11), is set out under section 1
 
 **Codification**
 
-In par. (49), “section 70502(c) of title 46” substituted for “section 3(c) of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903(c))” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
+In par. (49), “section 70502(c) of title 46” substituted for “section 3(c) of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903(c))” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 70502 of Title 46, Shipping.
 
-Pub. L. 102–251, § 301(b), which directed amendment of this section by adding a new par. (24) defining “special areas” and redesignating former pars. (24) to (32) as (25) to (33), respectively, was to be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, but will not be executed, to reflect the probable intent of Congress, because the amendments would be inconsistent with the amendments by Pub. L. 104–297 which added par. (36) (now par. (41)) which is substantially identical to the par. (24) added by Pub. L. 102–251, made successive redesignations of pars. (2) to (44), and added and amended various other pars. See 1996 Amendment notes below and section 308 of Pub. L. 102–251, set out as an Effective Date of 1992 Amendment note under section 773 of this title.
+Pub. L. 102–251, § 301(b), which directed amendment of this section by adding a new par. (24) defining “special areas” and redesignating former pars. (24) to (32) as (25) to (33), respectively, was to be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, but will not be executed, to reflect the probable intent of Congress, because the amendments would be inconsistent with the amendments by Pub. L. 104–297 which added par. (36) (now par. (41)) which is substantially identical to the par. (24) added by Pub. L. 102–251, made successive redesignations of pars. (2) to (44), and added and amended various other pars. See 1996 Amendment notes below and section 308 of Pub. L. 102–251, set out as an Effective Date of 1992 Amendment note under section 773 of this title.
 
 **Amendments**
 
 2025—Par. (3). Pub. L. 119–60 substituted “2101 of title 46” for “2101(30) of title 46”.
 
-2022—Par. (25). Pub. L. 117–328 inserted “, or with a mesh size of 14 inches or greater,” after “kilometers or more”.
+2022—Par. (25). Pub. L. 117–328 inserted “, or with a mesh size of 14 inches or greater,” after “kilometers or more”.
 
 2018—Par. (3). Pub. L. 115–232 substituted “section 2101(30)” for “section 2101(21a)”.
 
 2007—Pub. L. 109–479 added pars. (13A) defining “regional fishery association”, (20A) defining “import”, (23A) defining “limited access privilege”, (23B) defining “limited access system”, and (27A) defining “observer information” and redesignated pars. (1) to (45) as (1) to (50), respectively.
 
-1996—Pars. (2) to (6). Pub. L. 104–297, § 102(1), added pars. (2) to (4) and redesignated former pars. (2) and (3) as (5) and (6), respectively. Former pars. (4) to (6) redesignated (7) to (9), respectively.
+1996—Pars. (2) to (6). Pub. L. 104–297, § 102(1), added pars. (2) to (4) and redesignated former pars. (2) and (3) as (5) and (6), respectively. Former pars. (4) to (6) redesignated (7) to (9), respectively.
 
-Par. (7). Pub. L. 104–297, § 102(2)(B), substituted “Deep-sea Red Crab—Chaceon quinquedens” for “Deep-sea Red Crab—Geryon quinquedens” in list under heading “Crustacea”.
+Par. (7). Pub. L. 104–297, § 102(2)(B), substituted “Deep-sea Red Crab—Chaceon quinquedens” for “Deep-sea Red Crab—Geryon quinquedens” in list under heading “Crustacea”.
 
-Pub. L. 104–297, § 102(2)(A), which directed substitution of “Cnidaria” for “Coelenterata” in heading of list of corals, was executed by making the substitution for “Colenterata” in that heading to reflect the probable intent of Congress.
+Pub. L. 104–297, § 102(2)(A), which directed substitution of “Cnidaria” for “Coelenterata” in heading of list of corals, was executed by making the substitution for “Colenterata” in that heading to reflect the probable intent of Congress.
 
-Pub. L. 104–297, § 102(1), redesignated par. (4) as (7). Former par. (7) redesignated (10).
+Pub. L. 104–297, § 102(1), redesignated par. (4) as (7). Former par. (7) redesignated (10).
 
-Par. (8). Pub. L. 104–297, § 102(1), redesignated par. (5) as (8). Former par. (8) redesignated (11).
+Par. (8). Pub. L. 104–297, § 102(1), redesignated par. (5) as (8). Former par. (8) redesignated (11).
 
-Par. (9). Pub. L. 104–297, § 102(3), added par. (9). Former par. (9) redesignated (11).
+Par. (9). Pub. L. 104–297, § 102(3), added par. (9). Former par. (9) redesignated (11).
 
-Pub. L. 104–297, § 102(1), redesignated par. (6) as (9). Former par. (9) redesignated (12).
+Pub. L. 104–297, § 102(1), redesignated par. (6) as (9). Former par. (9) redesignated (12).
 
-Par. (10). Pub. L. 104–297, § 102(3), added par. (10). Former par. (10) redesignated (12).
+Par. (10). Pub. L. 104–297, § 102(3), added par. (10). Former par. (10) redesignated (12).
 
-Pub. L. 104–297, § 102(1), redesignated par. (7) as (10). Former par. (10) redesignated (13).
+Pub. L. 104–297, § 102(1), redesignated par. (7) as (10). Former par. (10) redesignated (13).
 
-Pars. (11) to (15). Pub. L. 104–297, § 102(3), redesignated pars. (9) to (13) as (11) to (15), respectively. Former pars. (14) and (15) redesignated (16) and (17), respectively.
+Pars. (11) to (15). Pub. L. 104–297, § 102(3), redesignated pars. (9) to (13) as (11) to (15), respectively. Former pars. (14) and (15) redesignated (16) and (17), respectively.
 
-Pub. L. 104–297, § 102(1), redesignated pars. (8) to (12) as (11) to (15), respectively. Former pars. (13) to (15) redesignated (16) to (18), respectively.
+Pub. L. 104–297, § 102(1), redesignated pars. (8) to (12) as (11) to (15), respectively. Former pars. (13) to (15) redesignated (16) to (18), respectively.
 
-Par. (16). Pub. L. 104–297, § 102(4), added par. (16). Former par. (16) redesignated (17).
+Par. (16). Pub. L. 104–297, § 102(4), added par. (16). Former par. (16) redesignated (17).
 
-Pub. L. 104–297, § 102(3), redesignated par. (14) as (16). Former par. (16) redesignated (18).
+Pub. L. 104–297, § 102(3), redesignated par. (14) as (16). Former par. (16) redesignated (18).
 
-Pub. L. 104–297, § 102(1), redesignated par. (13) as (16). Former par. (16) redesignated (19).
+Pub. L. 104–297, § 102(1), redesignated par. (13) as (16). Former par. (16) redesignated (19).
 
-Pars. (17) to (20). Pub. L. 104–297, § 102(4), redesignated pars. (16) to (19) as (17) to (20), respectively. Former par. (20) redesignated (21).
+Pars. (17) to (20). Pub. L. 104–297, § 102(4), redesignated pars. (16) to (19) as (17) to (20), respectively. Former par. (20) redesignated (21).
 
-Pub. L. 104–297, § 102(3), redesignated pars. (15) to (18) as (17) to (20), respectively. Former pars. (19) and (20) redesignated (21) and (22), respectively.
+Pub. L. 104–297, § 102(3), redesignated pars. (15) to (18) as (17) to (20), respectively. Former pars. (19) and (20) redesignated (21) and (22), respectively.
 
-Pub. L. 104–297, § 102(1), redesignated pars. (14) to (17) as (17) to (20), respectively. Former pars. (18) to (20) redesignated (21) to (23), respectively.
+Pub. L. 104–297, § 102(1), redesignated pars. (14) to (17) as (17) to (20), respectively. Former pars. (18) to (20) redesignated (21) to (23), respectively.
 
-Par. (21). Pub. L. 104–297, § 102(5), added par. (21). Former par. (21) redesignated (22).
+Par. (21). Pub. L. 104–297, § 102(5), added par. (21). Former par. (21) redesignated (22).
 
-Pub. L. 104–297, § 102(4), redesignated par. (20) as (21). Former par. (21) redesignated (22).
+Pub. L. 104–297, § 102(4), redesignated par. (20) as (21). Former par. (21) redesignated (22).
 
-Pub. L. 104–297, § 102(3), redesignated par. (19) as (21). Former par. (21) redesignated (23).
+Pub. L. 104–297, § 102(3), redesignated par. (19) as (21). Former par. (21) redesignated (23).
 
-Pub. L. 104–297, § 102(1), redesignated par. (18) as (21). Former par. (21) redesignated (24).
+Pub. L. 104–297, § 102(1), redesignated par. (18) as (21). Former par. (21) redesignated (24).
 
-Par. (22). Pub. L. 104–297, § 102(5), redesignated par. (21) as (22). Former par. (22) redesignated (23).
+Par. (22). Pub. L. 104–297, § 102(5), redesignated par. (21) as (22). Former par. (22) redesignated (23).
 
-Pub. L. 104–297, § 102(4), redesignated par. (21) as (22). Former par. (22) redesignated (23).
+Pub. L. 104–297, § 102(4), redesignated par. (21) as (22). Former par. (22) redesignated (23).
 
-Pub. L. 104–297, § 102(3), redesignated par. (20) as (22). Former par. (22) redesignated (24).
+Pub. L. 104–297, § 102(3), redesignated par. (20) as (22). Former par. (22) redesignated (24).
 
-Pub. L. 104–297, § 102(1), redesignated par. (19) as (22). Former par. (22) redesignated (25).
+Pub. L. 104–297, § 102(1), redesignated par. (19) as (22). Former par. (22) redesignated (25).
 
-Par. (23). Pub. L. 104–297, § 102(6), substituted “of two and one-half kilometers” for “of one and one-half miles”.
+Par. (23). Pub. L. 104–297, § 102(6), substituted “of two and one-half kilometers” for “of one and one-half miles”.
 
-Pub. L. 104–297, § 102(5), redesignated par. (22) as (23). Former par. (23) redesignated (24).
+Pub. L. 104–297, § 102(5), redesignated par. (22) as (23). Former par. (23) redesignated (24).
 
-Pub. L. 104–297, § 102(4), redesignated par. (22) as (23). Former par. (23) redesignated (24).
+Pub. L. 104–297, § 102(4), redesignated par. (22) as (23). Former par. (23) redesignated (24).
 
-Pub. L. 104–297, § 102(3), redesignated par. (21) as (23). Former par. (23) redesignated (25).
+Pub. L. 104–297, § 102(3), redesignated par. (21) as (23). Former par. (23) redesignated (25).
 
-Pub. L. 104–297, § 102(1), redesignated par. (20) as (23). Former par. (23) redesignated (26).
+Pub. L. 104–297, § 102(1), redesignated par. (20) as (23). Former par. (23) redesignated (26).
 
-Pars. (24) to (27). Pub. L. 104–297, § 102(5), redesignated pars. (23) to (26) as (24) to (27), respectively. Former par. (27) redesignated (28).
+Pars. (24) to (27). Pub. L. 104–297, § 102(5), redesignated pars. (23) to (26) as (24) to (27), respectively. Former par. (27) redesignated (28).
 
-Pub. L. 104–297, § 102(4), redesignated pars. (23) to (26) as (24) to (27), respectively. Former par. (27) redesignated (28).
+Pub. L. 104–297, § 102(4), redesignated pars. (23) to (26) as (24) to (27), respectively. Former par. (27) redesignated (28).
 
-Pub. L. 104–297, § 102(3), redesignated pars. (22) to (25) as (24) to (27), respectively. Former pars. (26) and (27) redesignated (28) and (29), respectively.
+Pub. L. 104–297, § 102(3), redesignated pars. (22) to (25) as (24) to (27), respectively. Former pars. (26) and (27) redesignated (28) and (29), respectively.
 
-Pub. L. 104–297, § 102(1), redesignated pars. (21) to (24) as (24) to (27), respectively. Former pars. (25) to (27) redesignated (28) to (30), respectively.
+Pub. L. 104–297, § 102(1), redesignated pars. (21) to (24) as (24) to (27), respectively. Former pars. (25) to (27) redesignated (28) to (30), respectively.
 
-Par. (28). Pub. L. 104–297, § 102(7), added par. (28) and struck out former par. (28) which read as follows: “The term ‘optimum’, with respect to the yield from a fishery, means the amount of fish—
+Par. (28). Pub. L. 104–297, § 102(7), added par. (28) and struck out former par. (28) which read as follows: “The term ‘optimum’, with respect to the yield from a fishery, means the amount of fish—
 
 “(A) which will provide the greatest overall benefit to the Nation, with particular reference to food production and recreational opportunities; and
 
 “(B) which is prescribed as such on the basis of the maximum sustainable yield from such fishery, as modified by any relevant economic, social, or ecological factor.”
 
-Pub. L. 104–297, § 102(5), redesignated par. (27) as (28). Former par. (28) redesignated (29).
+Pub. L. 104–297, § 102(5), redesignated par. (27) as (28). Former par. (28) redesignated (29).
 
-Pub. L. 104–297, § 102(4), redesignated par. (27) as (28). Former par. (28) redesignated (29).
+Pub. L. 104–297, § 102(4), redesignated par. (27) as (28). Former par. (28) redesignated (29).
 
-Pub. L. 104–297, § 102(3), redesignated par. (26) as (28). Former par. (28) redesignated (30).
+Pub. L. 104–297, § 102(3), redesignated par. (26) as (28). Former par. (28) redesignated (30).
 
-Pub. L. 104–297, § 102(1), redesignated par. (25) as (28). Former par. (28) redesignated (31).
+Pub. L. 104–297, § 102(1), redesignated par. (25) as (28). Former par. (28) redesignated (31).
 
-Pars. (29), (30). Pub. L. 104–297, § 102(8), added pars. (29) and (30). Former pars. (29) and (30) redesignated (31) and (32), respectively.
+Pars. (29), (30). Pub. L. 104–297, § 102(8), added pars. (29) and (30). Former pars. (29) and (30) redesignated (31) and (32), respectively.
 
-Pub. L. 104–297, § 102(5), redesignated pars. (28) and (29) as (29) and (30), respectively. Former par. (30) redesignated (31).
+Pub. L. 104–297, § 102(5), redesignated pars. (28) and (29) as (29) and (30), respectively. Former par. (30) redesignated (31).
 
-Pub. L. 104–297, § 102(4), redesignated pars. (28) and (29) as (29) and (30), respectively. Former par. (30) redesignated (31).
+Pub. L. 104–297, § 102(4), redesignated pars. (28) and (29) as (29) and (30), respectively. Former par. (30) redesignated (31).
 
-Pub. L. 104–297, § 102(3), redesignated pars. (27) and (28) as (29) and (30), respectively. Former pars. (29) and (30) redesignated (31) and (32), respectively.
+Pub. L. 104–297, § 102(3), redesignated pars. (27) and (28) as (29) and (30), respectively. Former pars. (29) and (30) redesignated (31) and (32), respectively.
 
-Pub. L. 104–297, § 102(1), redesignated pars. (26) and (27) as (29) and (30), respectively. Former pars. (29) and (30) redesignated (32) and (33), respectively.
+Pub. L. 104–297, § 102(1), redesignated pars. (26) and (27) as (29) and (30), respectively. Former pars. (29) and (30) redesignated (32) and (33), respectively.
 
-Par. (31). Pub. L. 104–297, § 102(8), redesignated par. (29) as (31). Former par. (31) redesignated (33).
+Par. (31). Pub. L. 104–297, § 102(8), redesignated par. (29) as (31). Former par. (31) redesignated (33).
 
-Pub. L. 104–297, § 102(5), redesignated par. (30) as (31). Former par. (31) redesignated (32).
+Pub. L. 104–297, § 102(5), redesignated par. (30) as (31). Former par. (31) redesignated (32).
 
-Pub. L. 104–297, § 102(4), redesignated par. (30) as (31). Former par. (31) redesignated (32).
+Pub. L. 104–297, § 102(4), redesignated par. (30) as (31). Former par. (31) redesignated (32).
 
-Pub. L. 104–297, § 102(3), redesignated par. (29) as (31). Former par. (31) redesignated (33).
+Pub. L. 104–297, § 102(3), redesignated par. (29) as (31). Former par. (31) redesignated (33).
 
-Pub. L. 104–297, § 102(1), redesignated par. (28) as (31). Former par. (31) redesignated (34).
+Pub. L. 104–297, § 102(1), redesignated par. (28) as (31). Former par. (31) redesignated (34).
 
-Pars. (32), (33). Pub. L. 104–297, § 102(9), added pars. (32) and (33). Former pars. (32) and (33) redesignated (34) and (35), respectively.
+Pars. (32), (33). Pub. L. 104–297, § 102(9), added pars. (32) and (33). Former pars. (32) and (33) redesignated (34) and (35), respectively.
 
-Pub. L. 104–297, § 102(8), redesignated pars. (30) and (31) as (32) and (33), respectively. Former pars. (32) and (33) redesignated (34) and (35), respectively.
+Pub. L. 104–297, § 102(8), redesignated pars. (30) and (31) as (32) and (33), respectively. Former pars. (32) and (33) redesignated (34) and (35), respectively.
 
-Pub. L. 104–297, § 102(5), redesignated pars. (31) and (32) as (32) and (33), respectively. Former par. (33) redesignated (34).
+Pub. L. 104–297, § 102(5), redesignated pars. (31) and (32) as (32) and (33), respectively. Former par. (33) redesignated (34).
 
-Pub. L. 104–297, § 102(4), redesignated pars. (31) and (32) as (32) and (33), respectively. Former par. (33) redesignated (34).
+Pub. L. 104–297, § 102(4), redesignated pars. (31) and (32) as (32) and (33), respectively. Former par. (33) redesignated (34).
 
-Pub. L. 104–297, § 102(3), redesignated pars. (30) and (31) as (32) and (33), respectively. Former pars. (32) and (33) redesignated (34) and (35), respectively.
+Pub. L. 104–297, § 102(3), redesignated pars. (30) and (31) as (32) and (33), respectively. Former pars. (32) and (33) redesignated (34) and (35), respectively.
 
-Pub. L. 104–297, § 102(1), redesignated pars. (29) and (30) as (32) and (33), respectively. Former par. (32) redesignated (35).
+Pub. L. 104–297, § 102(1), redesignated pars. (29) and (30) as (32) and (33), respectively. Former par. (32) redesignated (35).
 
-Pars. (34), (35). Pub. L. 104–297, § 102(9), redesignated pars. (32) and (33) as (34) and (35), respectively. Former pars. (34) and (35) redesignated (36) and (37), respectively.
+Pars. (34), (35). Pub. L. 104–297, § 102(9), redesignated pars. (32) and (33) as (34) and (35), respectively. Former pars. (34) and (35) redesignated (36) and (37), respectively.
 
-Pub. L. 104–297, § 102(8), redesignated pars. (32) and (33) as (34) and (35), respectively. Former pars. (34) and (35) redesignated (36) and (37), respectively.
+Pub. L. 104–297, § 102(8), redesignated pars. (32) and (33) as (34) and (35), respectively. Former pars. (34) and (35) redesignated (36) and (37), respectively.
 
-Pub. L. 104–297, § 102(5), redesignated pars. (33) and (34) as (34) and (35), respectively. Former par. (35) redesignated (36).
+Pub. L. 104–297, § 102(5), redesignated pars. (33) and (34) as (34) and (35), respectively. Former par. (35) redesignated (36).
 
-Pub. L. 104–297, § 102(4), redesignated pars. (33) and (34) as (34) and (35), respectively. Former par. (35) redesignated (36).
+Pub. L. 104–297, § 102(4), redesignated pars. (33) and (34) as (34) and (35), respectively. Former par. (35) redesignated (36).
 
-Pub. L. 104–297, § 102(3), redesignated pars. (32) and (33) as (34) and (35), respectively. Former pars. (34) and (35) redesignated (36) and (37), respectively.
+Pub. L. 104–297, § 102(3), redesignated pars. (32) and (33) as (34) and (35), respectively. Former pars. (34) and (35) redesignated (36) and (37), respectively.
 
-Pub. L. 104–297, § 102(1), redesignated pars. (31) and (32) as (34) and (35), respectively.
+Pub. L. 104–297, § 102(1), redesignated pars. (31) and (32) as (34) and (35), respectively.
 
-Par. (36). Pub. L. 104–297, § 102(10), added par. (36). Former par. (36) redesignated (37).
+Par. (36). Pub. L. 104–297, § 102(10), added par. (36). Former par. (36) redesignated (37).
 
-Pub. L. 104–297, § 102(9), redesignated par. (34) as (36). Former par. (36) redesignated (38).
+Pub. L. 104–297, § 102(9), redesignated par. (34) as (36). Former par. (36) redesignated (38).
 
-Pub. L. 104–297, § 102(8), redesignated par. (34) as (36). Former par. (36) redesignated (38).
+Pub. L. 104–297, § 102(8), redesignated par. (34) as (36). Former par. (36) redesignated (38).
 
-Pub. L. 104–297, § 102(5), redesignated par. (35) as (36). Former par. (36) redesignated (37).
+Pub. L. 104–297, § 102(5), redesignated par. (35) as (36). Former par. (36) redesignated (37).
 
-Pub. L. 104–297, § 102(4), redesignated par. (35) as (36). Former par. (36) redesignated (37).
+Pub. L. 104–297, § 102(4), redesignated par. (35) as (36). Former par. (36) redesignated (37).
 
-Pub. L. 104–297, § 102(3), redesignated par. (34) as (36).
+Pub. L. 104–297, § 102(3), redesignated par. (34) as (36).
 
-Par. (37). Pub. L. 104–297, § 102(10), redesignated par. (36) as (37). Former par. (37) redesignated (38).
+Par. (37). Pub. L. 104–297, § 102(10), redesignated par. (36) as (37). Former par. (37) redesignated (38).
 
-Pub. L. 104–297, § 102(9), redesignated par. (35) as (37). Former par. (37) redesignated (39).
+Pub. L. 104–297, § 102(9), redesignated par. (35) as (37). Former par. (37) redesignated (39).
 
-Pub. L. 104–297, § 102(8), redesignated par. (35) as (37). Former par. (37) redesignated (39).
+Pub. L. 104–297, § 102(8), redesignated par. (35) as (37). Former par. (37) redesignated (39).
 
-Pub. L. 104–297, § 102(5), redesignated par. (36) as (37). Former par. (37) redesignated (38).
+Pub. L. 104–297, § 102(5), redesignated par. (36) as (37). Former par. (37) redesignated (38).
 
-Pub. L. 104–297, § 102(4), redesignated par. (36) as (37). Former par. (37) redesignated (38).
+Pub. L. 104–297, § 102(4), redesignated par. (36) as (37). Former par. (37) redesignated (38).
 
-Pub. L. 104–297, § 102(3), redesignated par. (35) as (37).
+Pub. L. 104–297, § 102(3), redesignated par. (35) as (37).
 
-Par. (38). Pub. L. 104–297, § 102(10), redesignated par. (37) as (38). Former par. (38) redesignated (39).
+Par. (38). Pub. L. 104–297, § 102(10), redesignated par. (37) as (38). Former par. (38) redesignated (39).
 
-Pub. L. 104–297, § 102(9), redesignated par. (36) as (38). Former par. (38) redesignated (40).
+Pub. L. 104–297, § 102(9), redesignated par. (36) as (38). Former par. (38) redesignated (40).
 
-Pub. L. 104–297, § 102(8), redesignated par. (36) as (38). Former par. (38) redesignated (40).
+Pub. L. 104–297, § 102(8), redesignated par. (36) as (38). Former par. (38) redesignated (40).
 
-Pub. L. 104–297, § 102(5), redesignated par. (37) as (38). Former par. (38) redesignated (39).
+Pub. L. 104–297, § 102(5), redesignated par. (37) as (38). Former par. (38) redesignated (39).
 
-Pub. L. 104–297, § 102(4), redesignated par. (37) as (38).
+Pub. L. 104–297, § 102(4), redesignated par. (37) as (38).
 
-Par. (39). Pub. L. 104–297, § 102(10), redesignated par. (38) as (39). Former par. (39) redesignated (40).
+Par. (39). Pub. L. 104–297, § 102(10), redesignated par. (38) as (39). Former par. (39) redesignated (40).
 
-Pub. L. 104–297, § 102(9), redesignated par. (37) as (39). Former par. (39) redesignated (41).
+Pub. L. 104–297, § 102(9), redesignated par. (37) as (39). Former par. (39) redesignated (41).
 
-Pub. L. 104–297, § 102(8), redesignated par. (37) as (39). Former par. (39) redesignated (41).
+Pub. L. 104–297, § 102(8), redesignated par. (37) as (39). Former par. (39) redesignated (41).
 
-Pub. L. 104–297, § 102(5), redesignated par. (38) as (39).
+Pub. L. 104–297, § 102(5), redesignated par. (38) as (39).
 
-Pars. (40), (41). Pub. L. 104–297, § 102(10), redesignated pars. (39) and (40) as (40) and (41), respectively. Former par. (41) redesignated (42).
+Pars. (40), (41). Pub. L. 104–297, § 102(10), redesignated pars. (39) and (40) as (40) and (41), respectively. Former par. (41) redesignated (42).
 
-Pub. L. 104–297, § 102(9), redesignated pars. (38) and (39) as (40) and (41), respectively. Former pars. (40) and (41) redesignated (42) and (43), respectively.
+Pub. L. 104–297, § 102(9), redesignated pars. (38) and (39) as (40) and (41), respectively. Former pars. (40) and (41) redesignated (42) and (43), respectively.
 
-Pub. L. 104–297, § 102(8), redesignated pars. (38) and (39) as (40) and (41), respectively.
+Pub. L. 104–297, § 102(8), redesignated pars. (38) and (39) as (40) and (41), respectively.
 
-Par. (42). Pub. L. 104–297, § 102(11), which directed the substitution of “regulated under this chapter” for “for which a fishery management plan prepared under subchapter IV of this chapter or a preliminary fishery management plan prepared under section 1821(g) of this title has been implemented”, was executed by making substitution for language which referred to “section 1821(h)”, notwithstanding directory language directing substitution for language which referred to “section 1821(g)” to reflect the probable intent of Congress.
+Par. (42). Pub. L. 104–297, § 102(11), which directed the substitution of “regulated under this chapter” for “for which a fishery management plan prepared under subchapter IV of this chapter or a preliminary fishery management plan prepared under section 1821(g) of this title has been implemented”, was executed by making substitution for language which referred to “section 1821(h)”, notwithstanding directory language directing substitution for language which referred to “section 1821(g)” to reflect the probable intent of Congress.
 
-Pub. L. 104–297, § 102(10), redesignated par. (41) as (42). Former par. (42) redesignated (43).
+Pub. L. 104–297, § 102(10), redesignated par. (41) as (42). Former par. (42) redesignated (43).
 
-Pub. L. 104–297, § 102(9), redesignated par. (40) as (42).
+Pub. L. 104–297, § 102(9), redesignated par. (40) as (42).
 
-Par. (43). Pub. L. 104–297, § 102(10), redesignated par. (42) as (43). Former par. (43) redesignated (44).
+Par. (43). Pub. L. 104–297, § 102(10), redesignated par. (42) as (43). Former par. (43) redesignated (44).
 
-Pub. L. 104–297, § 102(9), redesignated par. (41) as (43).
+Pub. L. 104–297, § 102(9), redesignated par. (41) as (43).
 
-Par. (44). Pub. L. 104–297, § 102(12), added par. (44). Former par. (44) redesignated (45).
+Par. (44). Pub. L. 104–297, § 102(12), added par. (44). Former par. (44) redesignated (45).
 
-Pub. L. 104–297, § 102(10), redesignated par. (43) as (44).
+Pub. L. 104–297, § 102(10), redesignated par. (43) as (44).
 
-Par. (45). Pub. L. 104–297, § 102(12), redesignated par. (44) as (45).
+Par. (45). Pub. L. 104–297, § 102(12), redesignated par. (44) as (45).
 
-1990—Par. (7). Pub. L. 101–627, § 102(a)(2), substituted “and birds” for “, birds, and highly migratory species”.
+1990—Par. (7). Pub. L. 101–627, § 102(a)(2), substituted “and birds” for “, birds, and highly migratory species”.
 
-Par. (14). Pub. L. 101–627, § 102(a)(3), amended par. (14) generally. Prior to amendment, par. (14) read as follows: “The term ‘highly migratory species’ means species of tuna which, in the course of their life cycle, spawn and migrate over great distances in waters of the ocean.”
+Par. (14). Pub. L. 101–627, § 102(a)(3), amended par. (14) generally. Prior to amendment, par. (14) read as follows: “The term ‘highly migratory species’ means species of tuna which, in the course of their life cycle, spawn and migrate over great distances in waters of the ocean.”
 
-Par. (16). Pub. L. 101–627, § 102(a)(4), added par. (16). Former par. (16) redesignated (17).
+Par. (16). Pub. L. 101–627, § 102(a)(4), added par. (16). Former par. (16) redesignated (17).
 
-Par. (17). Pub. L. 101–627, § 102(a)(1), redesignated par. (16) as (17). Former par. (17) redesignated (19).
+Par. (17). Pub. L. 101–627, § 102(a)(1), redesignated par. (16) as (17). Former par. (17) redesignated (19).
 
-Par. (18). Pub. L. 101–627, § 102(a)(5), added par. (18). Former par. (18) redesignated (21).
+Par. (18). Pub. L. 101–627, § 102(a)(5), added par. (18). Former par. (18) redesignated (21).
 
-Par. (19). Pub. L. 101–627, § 102(a)(1), redesignated par. (17) as (19). Former par. (19) redesignated (22).
+Par. (19). Pub. L. 101–627, § 102(a)(1), redesignated par. (17) as (19). Former par. (19) redesignated (22).
 
-Par. (20). Pub. L. 101–627, § 102(a)(6), added par. (20). Former par. (20) redesignated (23).
+Par. (20). Pub. L. 101–627, § 102(a)(6), added par. (20). Former par. (20) redesignated (23).
 
-Pars. (21) to (26). Pub. L. 101–627, § 102(a)(1), redesignated pars. (18) to (23) as (21) to (26), respectively. Former pars. (24) to (26) redesignated (28) to (30), respectively.
+Pars. (21) to (26). Pub. L. 101–627, § 102(a)(1), redesignated pars. (18) to (23) as (21) to (26), respectively. Former pars. (24) to (26) redesignated (28) to (30), respectively.
 
-Par. (27). Pub. L. 101–627, § 102(a)(7), added par. (27). Former par. (27) redesignated (31).
+Par. (27). Pub. L. 101–627, § 102(a)(7), added par. (27). Former par. (27) redesignated (31).
 
-Pars. (28) to (31). Pub. L. 101–627, § 102(a)(1), redesignated pars. (24) to (27) as (28) to (31), respectively.
+Pars. (28) to (31). Pub. L. 101–627, § 102(a)(1), redesignated pars. (24) to (27) as (28) to (31), respectively.
 
-Par. (32). Pub. L. 101–627, § 102(a)(8), added par. (32).
+Par. (32). Pub. L. 101–627, § 102(a)(8), added par. (32).
 
 1988—Par. (27). Pub. L. 100–239 amended par. (27) generally. Prior to amendment, par. (27) read as follows: “The term ‘vessel of the United States’ means—
 
@@ -1033,9 +1033,9 @@ Par. (32). Pub. L. 101–627, § 102(a)(8), added par. (32).
 
 “(C) any vessel numbered under the Federal Boat Safety Act of 1971 and used exclusively for pleasure.”
 
-1986—Par. (4). Pub. L. 99–659, § 112, in provisions under heading “Mollusks” substituted “Arctica islandica” for “Artica islandica” and under heading “Sponges” substituted “Spongia cheiris” for “Hippiospongia canaliculata”.
+1986—Par. (4). Pub. L. 99–659, § 112, in provisions under heading “Mollusks” substituted “Arctica islandica” for “Artica islandica” and under heading “Sponges” substituted “Spongia cheiris” for “Hippiospongia canaliculata”.
 
-Pars. (6) to (8). Pub. L. 99–659, § 101(a), added par. (6), redesignated former pars. (6) and (7) as (7) and (8), respectively, and struck out former par. (8) which defined “fishery conservation zone” as the fishery conservation zone established by section 1811 of this title.
+Pars. (6) to (8). Pub. L. 99–659, § 101(a), added par. (6), redesignated former pars. (6) and (7) as (7) and (8), respectively, and struck out former par. (8) which defined “fishery conservation zone” as the fishery conservation zone established by section 1811 of this title.
 
 1983—Par. (27). Pub. L. 97–453 designated existing provisions as subpar. (A), struck out “or registered under the laws of any State” after “United States”, and added subpars. (B) and (C).
 
@@ -1049,11 +1049,11 @@ Pars. (6) to (8). Pub. L. 99–659, § 101(a), added par. (6), redesignated fo
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 104–297, title IV, § 405(a), Oct. 11, 1996, 110 Stat. 3620, provided that: “Notwithstanding section 308 of the Act entitled ‘An Act to provide for the designation of the Flower Garden Banks National Marine Sanctuary’, approved March 9, 1992 (Public Law 102–251; 106 Stat. 66) [set out as a note under section 773 of this title] hereinafter referred to as the ‘FGB Act’, section 301(b) of that Act [amending this section, see Codification note above] (adding a definition of the term ‘special areas’) shall take effect on the date of enactment of this Act [Oct. 11, 1996].”
+Pub. L. 104–297, title IV, § 405(a), Oct. 11, 1996, 110 Stat. 3620, provided that: “Notwithstanding section 308 of the Act entitled ‘An Act to provide for the designation of the Flower Garden Banks National Marine Sanctuary’, approved March 9, 1992 (Public Law 102–251; 106 Stat. 66) [set out as a note under section 773 of this title] hereinafter referred to as the ‘FGB Act’, section 301(b) of that Act [amending this section, see Codification note above] (adding a definition of the term ‘special areas’) shall take effect on the date of enactment of this Act [Oct. 11, 1996].”
 
 **Redesignation of Pacific Marine Fisheries Commission as Pacific States Marine Fisheries Commission**
 
-Pub. L. 101–627, title X, § 1001, Nov. 28, 1990, 104 Stat. 4467, provided that:
+Pub. L. 101–627, title X, § 1001, Nov. 28, 1990, 104 Stat. 4467, provided that:
 
 > **“(a) In General.—** The Congress consents to and approves of the amendments described in subsection (b) to the interstate compact which constituted the Pacific Marine Fisheries Commission, approved by the Act of July 24, 1947 (61 Stat. 419; hereinafter in this section referred to as the ‘compact’).
 
@@ -1071,7 +1071,7 @@ Pub. L. 101–627, title X, § 1001, Nov. 28, 1990, 104 Stat. 4467, provided t
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-### § 1803. Authorization of appropriations
+### § 1803. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary to carry out the provisions of this chapter—
 
@@ -1089,7 +1089,7 @@ There are authorized to be appropriated to the Secretary to carry out the provis
 
 **(7)** $396,875,000 for fiscal year 2013.
 
-(Pub. L. 94–265, § 4, as added Pub. L. 104–297, title I, § 103, Oct. 11, 1996, 110 Stat. 3563; amended Pub. L. 109–479, § 7, Jan. 12, 2007, 120 Stat. 3579.)
+(Pub. L. 94–265, § 4, as added Pub. L. 104–297, title I, § 103, Oct. 11, 1996, 110 Stat. 3563; amended Pub. L. 109–479, § 7, Jan. 12, 2007, 120 Stat. 3579.)
 
 **Editorial Notes**
 
@@ -1103,7 +1103,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 ## SUBCHAPTER II—UNITED STATES RIGHTS AND AUTHORITY REGARDING FISH AND FISHERY RESOURCES
 
-### § 1811. United States sovereign rights to fish and fishery management authority
+### § 1811. United States sovereign rights to fish and fishery management authority
 
 **(a) In the exclusive economic zone**
 
@@ -1115,11 +1115,11 @@ Except as provided in section 1812 of this title, the United States claims, and 
 
 **(2)** All Continental Shelf fishery resources beyond the exclusive economic zone.
 
-(Pub. L. 94–265, title I, § 101, Apr. 13, 1976, 90 Stat. 336; Pub. L. 99–659, title I, § 101(b), Nov. 14, 1986, 100 Stat. 3706; Pub. L. 101–627, title I, § 102(b), Nov. 28, 1990, 104 Stat. 4438; Pub. L. 102–251, title III, § 301(c), Mar. 9, 1992, 106 Stat. 62.)
+(Pub. L. 94–265, title I, § 101, Apr. 13, 1976, 90 Stat. 336; Pub. L. 99–659, title I, § 101(b), Nov. 14, 1986, 100 Stat. 3706; Pub. L. 101–627, title I, § 102(b), Nov. 28, 1990, 104 Stat. 4438; Pub. L. 102–251, title III, § 301(c), Mar. 9, 1992, 106 Stat. 62.)
 
 **Amendment of Section**
 
-Pub. L. 102–251, title III, §§ 301(c), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “and special areas” before the period at the end and subsection (b) is amended by inserting after paragraph (2) the following new paragraph:
+Pub. L. 102–251, title III, §§ 301(c), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “and special areas” before the period at the end and subsection (b) is amended by inserting after paragraph (2) the following new paragraph:
 
 *(3) All fishery resources in the special areas.*
 
@@ -1141,7 +1141,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
 
-### § 1812. Highly migratory species
+### § 1812. Highly migratory species
 
 **(a) In general**
 
@@ -1155,7 +1155,7 @@ In managing any fisheries under an international fisheries agreement to which th
 
 If a relevant international fisheries organization does not have a process for developing a formal plan to rebuild a depleted stock, an overfished stock, or a stock that is approaching a condition of being overfished, the provisions of this chapter in this regard shall be communicated to and promoted by the United States in the international or regional fisheries organization.
 
-(Pub. L. 94–265, title I, § 102, Apr. 13, 1976, 90 Stat. 336; Pub. L. 99–659, title I, § 101(b), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, § 103(a), Nov. 28, 1990, 104 Stat. 4439; Pub. L. 104–297, title I, § 104, Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, § 4, Jan. 12, 2007, 120 Stat. 3578.)
+(Pub. L. 94–265, title I, § 102, Apr. 13, 1976, 90 Stat. 336; Pub. L. 99–659, title I, § 101(b), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, § 103(a), Nov. 28, 1990, 104 Stat. 4439; Pub. L. 104–297, title I, § 104, Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, § 4, Jan. 12, 2007, 120 Stat. 3578.)
 
 **Editorial Notes**
 
@@ -1183,19 +1183,19 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–627, title I, § 103(c), Nov. 28, 1990, 104 Stat. 4439, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 1992.”
+Pub. L. 101–627, title I, § 103(c), Nov. 28, 1990, 104 Stat. 4439, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 1992.”
 
-### § 1813. Omitted
+### § 1813. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 94–265, title I, § 103, Apr. 13, 1976, 90 Stat. 336, which related to exclusion of highly migratory species of fish from exclusive fishery management authority, was omitted in the general revision of this subchapter by section 101(b) of Pub. L. 99–659. See section 1812 of this title.
+Section, Pub. L. 94–265, title I, § 103, Apr. 13, 1976, 90 Stat. 336, which related to exclusion of highly migratory species of fish from exclusive fishery management authority, was omitted in the general revision of this subchapter by section 101(b) of Pub. L. 99–659. See section 1812 of this title.
 
 ## SUBCHAPTER III—FOREIGN FISHING AND INTERNATIONAL FISHERY AGREEMENTS
 
-### § 1821. Foreign fishing
+### § 1821. Foreign fishing
 
 **(a) In general** After February 28, 1977, no foreign fishing is authorized within the exclusive economic zone, or for anadromous species or Continental Shelf fishery resources beyond the exclusive economic zone, unless such foreign fishing—
 
@@ -1389,11 +1389,11 @@ Each preliminary fishery management plan shall be in effect with respect to fore
 
 Notwithstanding any other provision of this subchapter, foreign fishing vessels which are not operated for profit may engage in recreational fishing within the exclusive economic zone and the waters within the boundaries of a State subject to obtaining such permits, paying such reasonable fees, and complying with such conditions and restrictions as the Secretary and the Governor of the State (or his designee) shall impose as being necessary or appropriate to insure that the fishing activity of such foreign vessels within such zone or waters, respectively, is consistent with all applicable Federal and State laws and any applicable fishery management plan implemented under section 1854 of this title. The Secretary shall consult with the Secretary of State and the Secretary of the Department in which the Coast Guard is operating in formulating the conditions and restrictions to be applied by the Secretary under the authority of this subsection.
 
-(Pub. L. 94–265, title II, § 201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, § 4(1)–(4), Aug. 28, 1978, 92 Stat. 519, 520; Pub. L. 96–61, § 3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, § 5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§ 230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L. 97–453, § 2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, § 404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, § 206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§ 101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, § 104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, § 301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, § 139(24), Apr. 30, 1994, 108 Stat. 399; Pub. L. 104–297, title I, § 105(a), Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, § 5, title IV, § 404(a), Jan. 12, 2007, 120 Stat. 3578, 3632.)
+(Pub. L. 94–265, title II, § 201, Apr. 13, 1976, 90 Stat. 337; Pub. L. 95–354, § 4(1)–(4), Aug. 28, 1978, 92 Stat. 519, 520; Pub. L. 96–61, § 3(a), Aug. 15, 1979, 93 Stat. 407; Pub. L. 96–118, § 5, Nov. 16, 1979, 93 Stat. 860; Pub. L 96–561, title II, §§ 230, 231(a), 236, Dec. 22, 1980, 94 Stat. 3296, 3297, 3299; Pub. L. 97–453, § 2(a), Jan. 12, 1983, 96 Stat. 2481; Pub. L. 98–623, title IV, § 404(1), (2), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–386, title II, § 206(a), Aug. 22, 1986, 100 Stat. 823; Pub. L. 99–659, title I, §§ 101(c)(2), 103(a), Nov. 14, 1986, 100 Stat. 3707, 3708; Pub. L. 101–627, title I, § 104, Nov. 28, 1990, 104 Stat. 4439; Pub. L. 102–251, title III, § 301(d), Mar. 9, 1992, 106 Stat. 63; Pub. L. 103–236, title I, § 139(24), Apr. 30, 1994, 108 Stat. 399; Pub. L. 104–297, title I, § 105(a), Oct. 11, 1996, 110 Stat. 3563; Pub. L. 109–479, § 5, title IV, § 404(a), Jan. 12, 2007, 120 Stat. 3578, 3632.)
 
 **Amendment of Section**
 
-Pub. L. 102–251, title III, §§ 301(d), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
+Pub. L. 102–251, title III, §§ 301(d), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
 
 (1) in subsection (a), (A) by inserting “within the special areas,” immediately before “or for anadromous species” and (B) by striking “beyond the exclusive economic zone” and inserting in lieu thereof “beyond such zone or areas”;
 
@@ -1401,7 +1401,7 @@ Pub. L. 102–251, title III, §§ 301(d), 308, Mar. 9, 1992, 106 Stat. 63, 66
 
 (3) in subsection (i), (A) by inserting “or special areas” immediately before the period at the end of paragraph (1)(A), (B) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(A), and (C) by inserting “or special areas” immediately after “exclusive economic zone” in paragraph (2)(B); and
 
-(4) in subsection (j), (A) by inserting “, special areas,” immediately after “exclusive economic zone”, and (B) by inserting “, areas,” immediately after “such zone”.
+(4) in subsection (j), (A) by inserting “, special areas,” immediately after “exclusive economic zone”, and (B) by inserting “, areas,” immediately after “such zone”.
 
 **Editorial Notes**
 
@@ -1411,29 +1411,29 @@ This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3),
 
 **Amendments**
 
-2007—Subsec. (d). Pub. L. 109–479, § 5, substituted “is” for “shall be” and “cannot, or will not,” for “will not” and inserted at end “Allocations of the total allowable level of foreign fishing are discretionary, except that the total allowable level shall be zero for fisheries determined by the Secretary to have adequate or excess domestic harvest capacity.”
+2007—Subsec. (d). Pub. L. 109–479, § 5, substituted “is” for “shall be” and “cannot, or will not,” for “will not” and inserted at end “Allocations of the total allowable level of foreign fishing are discretionary, except that the total allowable level shall be zero for fisheries determined by the Secretary to have adequate or excess domestic harvest capacity.”
 
-Subsec. (h)(2)(B). Pub. L. 109–479, § 404(a), substituted “or other monitoring program that the Secretary, in consultation with the Western Pacific Management Council, determines is adequate to monitor harvest, bycatch, and compliance with the laws of the United States by vessels fishing under the agreement;” for “that is at least equal in effectiveness to the program established by the Secretary;”.
+Subsec. (h)(2)(B). Pub. L. 109–479, § 404(a), substituted “or other monitoring program that the Secretary, in consultation with the Western Pacific Management Council, determines is adequate to monitor harvest, bycatch, and compliance with the laws of the United States by vessels fishing under the agreement;” for “that is at least equal in effectiveness to the program established by the Secretary;”.
 
-1996—Subsec. (a)(1), (2). Pub. L. 104–297, § 105(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+1996—Subsec. (a)(1), (2). Pub. L. 104–297, § 105(a)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) is authorized under subsection (b) or (c) of this section;
 
 “(2) is not prohibited by subsection (g) of this section; and”.
 
-Subsec. (c)(2)(D). Pub. L. 104–297, § 105(a)(2), substituted “subsection (h)” for “subsection (i)”.
+Subsec. (c)(2)(D). Pub. L. 104–297, § 105(a)(2), substituted “subsection (h)” for “subsection (i)”.
 
-Subsec. (f). Pub. L. 104–297, § 105(a)(3), (4), repealed subsec. (f) and redesignated subsec. (g) as (f). See 1994 Amendment note below.
+Subsec. (f). Pub. L. 104–297, § 105(a)(3), (4), repealed subsec. (f) and redesignated subsec. (g) as (f). See 1994 Amendment note below.
 
-Subsec. (g). Pub. L. 104–297, § 105(a)(4), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 104–297, § 105(a)(4), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
-Subsec. (h). Pub. L. 104–297, § 105(a)(4), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 104–297, § 105(a)(4), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Subsec. (h)(2)(B) to (D). Pub. L. 104–297, § 105(a)(5), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+Subsec. (h)(2)(B) to (D). Pub. L. 104–297, § 105(a)(5), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-Subsec. (i). Pub. L. 104–297, § 105(a)(4), (6), redesignated subsec. (j) as (i) and substituted “section 1854” for “section 1855”. Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 104–297, § 105(a)(4), (6), redesignated subsec. (j) as (i) and substituted “section 1854” for “section 1855”. Former subsec. (i) redesignated (h).
 
-Subsec. (j). Pub. L. 104–297, § 105(a)(4), redesignated subsec. (j) as (i).
+Subsec. (j). Pub. L. 104–297, § 105(a)(4), redesignated subsec. (j) as (i).
 
 1994—Subsec. (f). Pub. L. 103–236 directed the repeal of section 201(f) of the Fishery Conservation and Management Act, 1976, which was executed by repealing subsec. (f) of this section which was section 201(f) of the Magnuson Fishery Conservation and Management Act. Prior to repeal, subsec. (f) read as follows: “The Secretary and the Secretary of State shall prepare and submit a report to the Congress and the President, not later than July 1 of each year, setting forth—
 
@@ -1443,59 +1443,59 @@ Subsec. (j). Pub. L. 104–297, § 105(a)(4), redesignated subsec. (j) as (i).
 
 1990—Subsec. (d). Pub. L. 101–627 amended subsec. (d) generally, limiting the total allowable level of foreign fishing, with respect to any fishery subject to the exclusive management authority of the United States, to only that part of the potential fishery yield which is not harvested by United States fishermen and deleting the alternative method of determining the total allowable level of foreign fishing based on the annual fishing level for each harvesting season after the 1980 harvesting season.
 
-1986—Subsecs. (a), (e)(1)(E)(iv). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone” in two places.
+1986—Subsecs. (a), (e)(1)(E)(iv). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone” in two places.
 
 Subsec. (f). Pub. L. 99–386 substituted “The Secretary and the Secretary of State shall” for “The Secretary of the Treasury, in cooperation with the Secretary and the Secretary of State, shall”.
 
-Subsec. (i)(1). Pub. L. 99–659, §§ 101(c)(2), 103(a)(1), (2), designated existing provisions as subpar. (A), substituted “exclusive economic zone” for “fishery conservation zone”, and added subpar. (B).
+Subsec. (i)(1). Pub. L. 99–659, §§ 101(c)(2), 103(a)(1), (2), designated existing provisions as subpar. (A), substituted “exclusive economic zone” for “fishery conservation zone”, and added subpar. (B).
 
-Subsec. (i)(2)(A). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
+Subsec. (i)(2)(A). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-Subsec. (i)(2)(B). Pub. L. 99–659, § 103(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “with respect to any foreign fishing vessel while it is engaged in fishing within the fishery conservation zone—
+Subsec. (i)(2)(B). Pub. L. 99–659, § 103(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “with respect to any foreign fishing vessel while it is engaged in fishing within the fishery conservation zone—
 
 “(i) the time during which the vessel engages in such fishing will be of such short duration that the placing of a United States observer aboard the vessel would be impractical, or
 
 “(ii) the facilities of the vessel for the quartering of a United States observer, or for the carrying out of observer functions, are so inadequate or unsafe that the health or safety of an observer would be jeopardized; or”
 
-Subsec. (j). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
+Subsec. (j). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-1984—Subsec. (d)(4). Pub. L. 98–623, § 404(1), substituted “may allocate” for “shall allocate” in provisions preceding subpar. (A).
+1984—Subsec. (d)(4). Pub. L. 98–623, § 404(1), substituted “may allocate” for “shall allocate” in provisions preceding subpar. (A).
 
-Subsec. (e)(1)(A). Pub. L. 98–623, § 404(2)(A), substituted “may make allocations to foreign nations from” for “shall determine the allocation among foreign nations of”.
+Subsec. (e)(1)(A). Pub. L. 98–623, § 404(2)(A), substituted “may make allocations to foreign nations from” for “shall determine the allocation among foreign nations of”.
 
-Subsec. (e)(1)(E)(i). Pub. L. 98–623, § 404(2)(B), substituted “both United States fish and fishery products” for “United States fish or fishery products” and inserted “, particularly fish and fishery products for which the foreign nation has requested an allocation”.
+Subsec. (e)(1)(E)(i). Pub. L. 98–623, § 404(2)(B), substituted “both United States fish and fishery products” for “United States fish or fishery products” and inserted “, particularly fish and fishery products for which the foreign nation has requested an allocation”.
 
-Subsec. (e)(1)(E)(ii). Pub. L. 98–623, § 404(2)(C), amended provisions generally, thereby substituting “in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation” for “in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen”.
+Subsec. (e)(1)(E)(ii). Pub. L. 98–623, § 404(2)(C), amended provisions generally, thereby substituting “in both the advancement of existing and new opportunities for fisheries exports from the United States through the purchase of fishery products from United States processors, and the advancement of fisheries trade through the purchase of fish and fishery products from United States fishermen, particularly fish and fishery products for which the foreign nation has requested an allocation” for “in the advancement of existing and new opportunities for fisheries trade, particularly through the purchase of fish or fishery products from United States processors or from United States fishermen”.
 
-1983—Subsec. (c)(2)(D). Pub. L. 97–453, § 2(a)(1), amended par. (D) generally, substituting “United States observers required under subsection (i) be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel” for “duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers”.
+1983—Subsec. (c)(2)(D). Pub. L. 97–453, § 2(a)(1), amended par. (D) generally, substituting “United States observers required under subsection (i) be permitted to be stationed aboard any such vessel and that all of the costs incurred incident to such stationing, including the costs of data editing and entry and observer monitoring, be paid for, in accordance with such subsection, by the owner or operator of the vessel” for “duly authorized United States observers be permitted on board any such vessel and that the United States be reimbursed for the cost of such observers”.
 
-Subsec. (c)(4)(D). Pub. L. 97–453, § 2(a)(2), added subpar. (D).
+Subsec. (c)(4)(D). Pub. L. 97–453, § 2(a)(2), added subpar. (D).
 
-Subsec. (d)(4). Pub. L. 97–453, § 2(a)(3), substituted “may be allocated” for “shall be allocated” after “then such portion or part”.
+Subsec. (d)(4). Pub. L. 97–453, § 2(a)(3), substituted “may be allocated” for “shall be allocated” after “then such portion or part”.
 
-Subsec. (e)(1). Pub. L. 97–453, § 2(a)(4), designated first sentence of existing provisions as subpar. (A), added subpars. (B), (C), and (D), and redesignated former subpars. (A) through (H) as cls. (i) through (viii) of subpar. (E), respectively.
+Subsec. (e)(1). Pub. L. 97–453, § 2(a)(4), designated first sentence of existing provisions as subpar. (A), added subpars. (B), (C), and (D), and redesignated former subpars. (A) through (H) as cls. (i) through (viii) of subpar. (E), respectively.
 
-Subsec. (i)(3). Pub. L. 97–453, § 2(a)(5)(A)(i), substituted provision that observers, while stationed aboard foreign fishing vessels, shall carry out such scientific, compliance monitoring, and other functions as the Secretary deems necessary or appropriate to carry out the purposes of this chapter and shall cooperate in carrying out such other scientific programs relating to the conservation and management of living resources as the Secretary deems appropriate, for provision that United States observers, while aboard foreign fishing vessels, were to carry out such scientific and other functions as the Secretary deemed necessary or appropriate to carry out the purposes of this chapter.
+Subsec. (i)(3). Pub. L. 97–453, § 2(a)(5)(A)(i), substituted provision that observers, while stationed aboard foreign fishing vessels, shall carry out such scientific, compliance monitoring, and other functions as the Secretary deems necessary or appropriate to carry out the purposes of this chapter and shall cooperate in carrying out such other scientific programs relating to the conservation and management of living resources as the Secretary deems appropriate, for provision that United States observers, while aboard foreign fishing vessels, were to carry out such scientific and other functions as the Secretary deemed necessary or appropriate to carry out the purposes of this chapter.
 
-Subsec. (i)(6). Pub. L. 97–453, § 2(a)(5)(A)(ii), added par. (6).
+Subsec. (i)(6). Pub. L. 97–453, § 2(a)(5)(A)(ii), added par. (6).
 
-Subsec. (j). Pub. L. 97–453, § 2(a)(6), added subsec. (j).
+Subsec. (j). Pub. L. 97–453, § 2(a)(6), added subsec. (j).
 
-1980—Subsec. (d). Pub. L. 96–561, § 230, designated existing provision as par. (2), substituted provision prescribing the total allowable level of foreign fishing with respect to any United States fishery for each harvesting season after the 1980 harvesting season as the level representing that portion of the optimum yield of such fishery that will not be harvested by vessels of the United States as determined in accordance with provisions of this chapter, other than those relating to the determination of annual fishing levels, or the annual fishing levels determined pursuant to par. (3) of this section for the harvesting season for provision prescribing the total allowable level of foreign fishing with respect to any fishery subject to the exclusive fishery management authority of the United States as that portion of the optimum yield of such fishery which will not be harvested by vessels of the United States, as determined in accordance with provisions of this chapter, and added pars. (1), (3), and (4).
+1980—Subsec. (d). Pub. L. 96–561, § 230, designated existing provision as par. (2), substituted provision prescribing the total allowable level of foreign fishing with respect to any United States fishery for each harvesting season after the 1980 harvesting season as the level representing that portion of the optimum yield of such fishery that will not be harvested by vessels of the United States as determined in accordance with provisions of this chapter, other than those relating to the determination of annual fishing levels, or the annual fishing levels determined pursuant to par. (3) of this section for the harvesting season for provision prescribing the total allowable level of foreign fishing with respect to any fishery subject to the exclusive fishery management authority of the United States as that portion of the optimum yield of such fishery which will not be harvested by vessels of the United States, as determined in accordance with provisions of this chapter, and added pars. (1), (3), and (4).
 
-Subsec. (e). Pub. L. 96–561, § 231(a), substituted “All such determinations shall be made by the Secretary of State and the Secretary on the basis of” for “In making any such determination, the Secretary of State and the Secretary shall consider”, added subpars. (A), (B), (D), and (E), redesignated former subpars. (A), (B), and (D) as (F), (G), and (H), respectively, and in subpar. (C) substituted determination where such nations and the fishing fleets of such nations have cooperated with the United States in enforcement of United States fishing regulations for determination where such nations have cooperated with the United States in enforcement and with respect to conservation and management of fishery resources.
+Subsec. (e). Pub. L. 96–561, § 231(a), substituted “All such determinations shall be made by the Secretary of State and the Secretary on the basis of” for “In making any such determination, the Secretary of State and the Secretary shall consider”, added subpars. (A), (B), (D), and (E), redesignated former subpars. (A), (B), and (D) as (F), (G), and (H), respectively, and in subpar. (C) substituted determination where such nations and the fishing fleets of such nations have cooperated with the United States in enforcement of United States fishing regulations for determination where such nations have cooperated with the United States in enforcement and with respect to conservation and management of fishery resources.
 
-Subsec. (i). Pub. L. 96–561, § 236, added subsec. (i).
+Subsec. (i). Pub. L. 96–561, § 236, added subsec. (i).
 
 1979—Subsec. (e). Pub. L. 96–61 designated existing provisions as par. (1), redesignated pars. (1) through (4) as subpars. (A) to (D), and added par. (2).
 
 Subsec. (e)(2)(D)(i). Pub. L. 96–118 substituted “unharvested” for “harvested”.
 
-1978—Subsec. (a)(2). Pub. L. 95–354, § 4(1), substituted “(g)” for “(f)”.
+1978—Subsec. (a)(2). Pub. L. 95–354, § 4(1), substituted “(g)” for “(f)”.
 
-Subsec. (c)(3). Pub. L. 95–354, § 4(2), substituted “harvest an amount of fish which exceeds” for “exceed”.
+Subsec. (c)(3). Pub. L. 95–354, § 4(2), substituted “harvest an amount of fish which exceeds” for “exceed”.
 
-Subsecs. (f) to (h). Pub. L. 95–354, § 4(3), (4), added subsec. (f), redesignated former subsecs. (f) and (g) as (g) and (h), and in subsec. (h)(1), as so redesignated, set out existing provisions as cls. (A) and (C) and added cl. (B).
+Subsecs. (f) to (h). Pub. L. 95–354, § 4(3), (4), added subsec. (f), redesignated former subsecs. (f) and (g) as (g) and (h), and in subsec. (h)(1), as so redesignated, set out existing provisions as cls. (A) and (C) and added cl. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1505,13 +1505,13 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–453, § 2(b), Jan. 12, 1983, 96 Stat. 2483, provided that: “The amendments made by subsection (a)(1) and (5)(A)(ii) [amending this section] shall take effect January 1, 1984.”
+Pub. L. 97–453, § 2(b), Jan. 12, 1983, 96 Stat. 2483, provided that: “The amendments made by subsection (a)(1) and (5)(A)(ii) [amending this section] shall take effect January 1, 1984.”
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, §§ 231(b), 238(b), Dec. 22, 1980, 94 Stat. 3298, 3300, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to the 1981 harvesting season and harvesting seasons thereafter (as defined in section 201(d)(1) of the Magnuson-Stevens Fishery Conservation and Management Act, as amended by section 301) [subsec. (d)(1) of this section].”
+Pub. L. 96–561, title II, §§ 231(b), 238(b), Dec. 22, 1980, 94 Stat. 3298, 3300, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to the 1981 harvesting season and harvesting seasons thereafter (as defined in section 201(d)(1) of the Magnuson-Stevens Fishery Conservation and Management Act, as amended by section 301) [subsec. (d)(1) of this section].”
 
-Pub. L. 96–561, title II, §§ 237, 238(b), Dec. 22, 1980, 94 Stat. 3300, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The amendment made by section 236 [amending this section] shall take effect October 1, 1981, and shall apply with respect to permits issued under section 204 of the Magnuson-Stevens Fishery Conservation and Management Act [section 1824 of this title] after December 31, 1981.”
+Pub. L. 96–561, title II, §§ 237, 238(b), Dec. 22, 1980, 94 Stat. 3300, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The amendment made by section 236 [amending this section] shall take effect October 1, 1981, and shall apply with respect to permits issued under section 204 of the Magnuson-Stevens Fishery Conservation and Management Act [section 1824 of this title] after December 31, 1981.”
 
 **Transfer of Functions**
 
@@ -1519,7 +1519,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Implementation of Pacific Albacore Tuna Treaty**
 
-Pub. L. 108–219, title IV, § 401, Apr. 13, 2004, 118 Stat. 616, provided that:
+Pub. L. 108–219, title IV, § 401, Apr. 13, 2004, 118 Stat. 616, provided that:
 
 > **“(a) In General.—** Notwithstanding anything to the contrary in section 201, 204, or 307(2) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1821, 1824, and 1857(2)), foreign fishing may be conducted pursuant to the Treaty between the Government of the United States of America and the Government of Canada on Pacific Coast Albacore Tuna Vessels and Port Privileges, signed at Washington May 26, 1981, including its Annexes and any amendments thereto.
 
@@ -1541,7 +1541,7 @@ Pub. L. 108–219, title IV, § 401, Apr. 13, 2004, 118 Stat. 616, provided th
 
 **Foreign Fishing for Atlantic Herring and Mackerel**
 
-Pub. L. 104–43, title VIII, § 802, Nov. 3, 1995, 109 Stat. 396, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 104–43, title VIII, § 802, Nov. 3, 1995, 109 Stat. 396, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 > “Notwithstanding any other provision of law—
 
@@ -1555,13 +1555,13 @@ Pub. L. 104–43, title VIII, § 802, Nov. 3, 1995, 109 Stat. 396, as amended 
 
 **Use of Vessel Identification Equipment**
 
-Pub. L. 100–629, § 6, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 100–629, § 6, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 > **“(a)** The Secretary of State, the Secretary of Commerce, and the Secretary of the department in which the Coast Guard is operating, as appropriate, shall exercise their authority under section 201(c)(2)(C) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1821) to require the use of transponders or other such appropriate position-fixing and identification equipment on any vessel other than a vessel of the United States engaged in fishing in the United States Exclusive Economic Zone.
 
 > **“(b)** The Secretary of Commerce, after consultation with the Secretary of Defense, the Secretary of State, and the Secretary of the department in which the Coast Guard is operating shall report to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science and Transportation of the Senate within 180 days after the date of enactment of this Act [Nov. 7, 1988] on the results of their compliance with subsection (a).”
 
-### § 1822. International fishery agreements
+### § 1822. International fishery agreements
 
 **(a) Negotiations** The Secretary of State—
 
@@ -1625,9 +1625,9 @@ The Secretary of State, in consultation with the Secretary, shall undertake such
 
 **(5) South Pacific tuna treaty**
 
-It is the sense of the Congress that the United States Government shall, at the earliest opportunity, begin negotiations for the purpose of extending the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America, signed at Port Moresby, Papua New Guinea, April 2, 1987, and it 1
+It is the sense of the Congress that the United States Government shall, at the earliest opportunity, begin negotiations for the purpose of extending the Treaty on Fisheries Between the Governments of Certain Pacific Island States and the Government of the United States of America, signed at Port Moresby, Papua New Guinea, April 2, 1987, and it 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Annexes, Schedules, and implementing agreements for an additional term of 10 years on terms and conditions at least as favorable to vessels of the United States and the United States Government.
 
@@ -1665,11 +1665,11 @@ Annexes, Schedules, and implementing agreements for an additional term of 10 yea
 
 **(B)** subject to approval by Congress under section 1823 of this title.
 
-(Pub. L. 94–265, title II, § 202, Apr. 13, 1976, 90 Stat. 339; Pub. L. 99–659, title I, § 101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §§ 105(a), 120(a), Nov. 28, 1990, 104 Stat. 4439, 4459; Pub. L. 102–251, title III, § 301(e), Mar. 9, 1992, 106 Stat. 63; Pub. L. 104–297, title I, § 105(b), Oct. 11, 1996, 110 Stat. 3564; Pub. L. 117–328, div. S, title II, § 205(b)(1)(A), Dec. 29, 2022, 136 Stat. 5270.)
+(Pub. L. 94–265, title II, § 202, Apr. 13, 1976, 90 Stat. 339; Pub. L. 99–659, title I, § 101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §§ 105(a), 120(a), Nov. 28, 1990, 104 Stat. 4439, 4459; Pub. L. 102–251, title III, § 301(e), Mar. 9, 1992, 106 Stat. 63; Pub. L. 104–297, title I, § 105(b), Oct. 11, 1996, 110 Stat. 3564; Pub. L. 117–328, div. S, title II, § 205(b)(1)(A), Dec. 29, 2022, 136 Stat. 5270.)
 
 **Amendment of Section**
 
-Pub. L. 102–251, title III, §§ 301(e)(1), (2), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
+Pub. L. 102–251, title III, §§ 301(e)(1), (2), 308, Mar. 9, 1992, 106 Stat. 63, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
 
 (1) in subsection (b), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”; and
 
@@ -1685,17 +1685,17 @@ This chapter, referred to in subsecs. (a)(5), (b), and (h)(1), (2)(A), was in th
 
 2022—Subsec. (h)(3). Pub. L. 117–328 struck out par. (3) which read as follows: “Not later than January 1, 1997, and annually thereafter, the Secretary, in consultation with the Secretary of State, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report describing actions taken under this subsection.”
 
-1996—Subsec. (c). Pub. L. 104–297, § 105(b)(1), inserted before period at end “or section 1824(e) of this title”.
+1996—Subsec. (c). Pub. L. 104–297, § 105(b)(1), inserted before period at end “or section 1824(e) of this title”.
 
-Subsec. (h). Pub. L. 104–297, § 105(b)(2), added subsec. (h).
+Subsec. (h). Pub. L. 104–297, § 105(b)(2), added subsec. (h).
 
-1992—Subsec. (g). Pub. L. 102–251, § 301(e)(3), added subsec. (g).
+1992—Subsec. (g). Pub. L. 102–251, § 301(e)(3), added subsec. (g).
 
-1990—Subsec. (e). Pub. L. 101–627, § 105(a), added subsec. (e). Former subsec. (e) redesignated (f).
+1990—Subsec. (e). Pub. L. 101–627, § 105(a), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 101–627, § 120(a), substituted “an exclusive economic” for “a exclusive economic”.
+Subsec. (f). Pub. L. 101–627, § 120(a), substituted “an exclusive economic” for “a exclusive economic”.
 
-Pub. L. 101–627, § 105(a), redesignated former subsec. (e) as (f).
+Pub. L. 101–627, § 105(a), redesignated former subsec. (e) as (f).
 
 1986—Subsecs. (b) to (e). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone” wherever appearing.
 
@@ -1711,7 +1711,7 @@ Amendment by section 301(e)(3) of Pub. L. 102–251 effective Mar. 9, 1992, and 
 
 **Shark Finning Prohibition**
 
-Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, as amended by Pub. L. 109–479, title III, § 302(c), Jan. 12, 2007, 120 Stat. 3623, provided that:
+Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, as amended by Pub. L. 109–479, title III, § 302(c), Jan. 12, 2007, 120 Stat. 3623, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -1791,7 +1791,7 @@ Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, as amended by Pub. L. 109–47
 
 **Certificate of Legal Origin for Anadromous Fish Products**
 
-Pub. L. 101–627, title VIII, § 801, Nov. 28, 1990, 104 Stat. 4464, provided that:
+Pub. L. 101–627, title VIII, § 801, Nov. 28, 1990, 104 Stat. 4464, provided that:
 
 > **“(a) Negotiations.—** Within 60 days after the date of enactment of this Act [Nov. 28, 1990], the Secretary of State shall commence negotiations with nations which import or export anadromous fish or anadromous fish products for the purpose of securing general agreement among such nations to implement effective measures to prohibit international trade in anadromous fish or anadromous fish products unless such fish or fish products are accompanied by a valid certificate of legal origin attesting that the fish or fish product was lawfully harvested—
 
@@ -1825,7 +1825,7 @@ Pub. L. 101–627, title VIII, § 801, Nov. 28, 1990, 104 Stat. 4464, provided
 
 **Driftnet Impact Monitoring, Assessment, and Control**
 
-Pub. L. 100–220, title IV, Dec. 29, 1987, 101 Stat. 1477, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 100–220, title IV, Dec. 29, 1987, 101 Stat. 1477, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 > **“SEC. 4001. SHORT TITLE.**
 
@@ -1937,7 +1937,7 @@ Pub. L. 100–220, title IV, Dec. 29, 1987, 101 Stat. 1477, as amended by Pub. L
 
 [For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.]
 
-### § 1823. Congressional oversight of international fishery agreements
+### § 1823. Congressional oversight of international fishery agreements
 
 **(a) In general**
 
@@ -1987,35 +1987,35 @@ Any fishery agreement resolution upon being reported shall immediately be placed
 
 **(D)** A motion in the Senate to further limit debate is not debatable. A motion to recommit any fishery agreement resolution is not in order.
 
-(Pub. L. 94–265, title II, § 203, Apr. 13, 1976, 90 Stat. 340; Pub. L. 103–437, § 6(x), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–297, title I, § 105(c), Oct. 11, 1996, 110 Stat. 3564.)
+(Pub. L. 94–265, title II, § 203, Apr. 13, 1976, 90 Stat. 340; Pub. L. 103–437, § 6(x), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–297, title I, § 105(c), Oct. 11, 1996, 110 Stat. 3564.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–297, § 105(c)(1), substituted “international” for “governing international” in section catchline.
+1996—Pub. L. 104–297, § 105(c)(1), substituted “international” for “governing international” in section catchline.
 
-Subsec. (a). Pub. L. 104–297, § 105(c)(2), (3), inserted “, bycatch reduction agreement, or Pacific Insular Area fishery agreement” after “international fishery agreement” in two places and substituted “120 days (excluding any days in a period for which the Congress is adjourned sine die)” for “60 calendar days of continuous session of the Congress”.
+Subsec. (a). Pub. L. 104–297, § 105(c)(2), (3), inserted “, bycatch reduction agreement, or Pacific Insular Area fishery agreement” after “international fishery agreement” in two places and substituted “120 days (excluding any days in a period for which the Congress is adjourned sine die)” for “60 calendar days of continuous session of the Congress”.
 
-Subsec. (c). Pub. L. 104–297, § 105(c)(4), (5), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of subsection (a) of this section—
+Subsec. (c). Pub. L. 104–297, § 105(c)(4), (5), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “For purposes of subsection (a) of this section—
 
 “(1) continuity of session is broken only by an adjournment of Congress sine die; and
 
 “(2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the 60-day period.”
 
-Subsec. (c)(2)(A). Pub. L. 104–297, § 105(c)(6), substituted “agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement” for “agreement”.
+Subsec. (c)(2)(A). Pub. L. 104–297, § 105(c)(6), substituted “agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement” for “agreement”.
 
-Subsec. (d). Pub. L. 104–297, § 105(c)(5), redesignated subsec. (d) as (c).
+Subsec. (d). Pub. L. 104–297, § 105(c)(5), redesignated subsec. (d) as (c).
 
-1994—Subsec. (b). Pub. L. 103–437, § 6(x)(1), substituted “Commerce, Science, and Transportation and on” for “Commerce and”.
+1994—Subsec. (b). Pub. L. 103–437, § 6(x)(1), substituted “Commerce, Science, and Transportation and on” for “Commerce and”.
 
-Subsec. (d)(2)(B). Pub. L. 103–437, § 6(x)(2), substituted “Commerce, Science, and Transportation” for “Commerce”.
+Subsec. (d)(2)(B). Pub. L. 103–437, § 6(x)(2), substituted “Commerce, Science, and Transportation” for “Commerce”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1995 Amendment**
 
-Pub. L. 104–43, title V, § 501, Nov. 3, 1995, 109 Stat. 391, provided that: “This title [amending provisions set out below] may be cited as the ‘Sea of Okhotsk Fisheries Enforcement Act of 1995’.”
+Pub. L. 104–43, title V, § 501, Nov. 3, 1995, 109 Stat. 391, provided that: “This title [amending provisions set out below] may be cited as the ‘Sea of Okhotsk Fisheries Enforcement Act of 1995’.”
 
 **Abolition of House Committee on Merchant Marine and Fisheries**
 
@@ -2023,19 +2023,19 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 **Governing International Fishery Agreement With Poland**
 
-Pub. L. 105–384, title I, § 101, Nov. 13, 1998, 112 Stat. 3451, provided that: “Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823), the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Poland, as contained in the message to Congress from the President of the United States dated February 5, 1998, is approved as a governing international fishery agreement for the purposes of such Act [16 U.S.C. 1801 et seq.] and shall enter into force and effect with respect to the United States on the date of the enactment of this Act [Nov. 13, 1998].”
+Pub. L. 105–384, title I, § 101, Nov. 13, 1998, 112 Stat. 3451, provided that: “Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823), the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Poland, as contained in the message to Congress from the President of the United States dated February 5, 1998, is approved as a governing international fishery agreement for the purposes of such Act [16 U.S.C. 1801 et seq.] and shall enter into force and effect with respect to the United States on the date of the enactment of this Act [Nov. 13, 1998].”
 
 **Governing International Fishery Agreement With Republic of Estonia**
 
-Pub. L. 102–587, title I, § 1001, Nov. 4, 1992, 106 Stat. 5039, provided that the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Estonia, was approved by Congress as a governing international fishery agreement for purposes of this chapter and was to enter into force and effect with respect to the United States on Nov. 4, 1992.
+Pub. L. 102–587, title I, § 1001, Nov. 4, 1992, 106 Stat. 5039, provided that the governing international fishery agreement between the Government of the United States of America and the Government of the Republic of Estonia, was approved by Congress as a governing international fishery agreement for purposes of this chapter and was to enter into force and effect with respect to the United States on Nov. 4, 1992.
 
 **Fisheries Enforcement in Central Bering Sea and Central Sea of Okhotsk**
 
-Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L. 104–43, title V, § 502, Nov. 3, 1995, 109 Stat. 391; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that this title was to be cited as the “Central Bering Sea Fisheries Enforcement Act of 1992”, prohibited vessels and nationals of United States from conducting fishing operations in Central Bering Sea and Central Sea of Okhotsk, except where such fishing operations were conducted in accordance with international fishery agreement to which United States and Russian Federation were parties, further provided for civil penalties and permit sanctions for violations of these provisions as well as authority to deny port privileges for fishing in Central Bering Sea, further authorized Secretary of Commerce to issue regulations restricting fishing in United States exclusive economic zone, and further provided for definition of terms and that this title would cease to have force and effect after the date that is seven years after Nov. 2, 1992, except that any proceeding with respect to violations occurring prior to such date was to be conducted as if these provisions were still in effect.
+Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L. 104–43, title V, § 502, Nov. 3, 1995, 109 Stat. 391; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that this title was to be cited as the “Central Bering Sea Fisheries Enforcement Act of 1992”, prohibited vessels and nationals of United States from conducting fishing operations in Central Bering Sea and Central Sea of Okhotsk, except where such fishing operations were conducted in accordance with international fishery agreement to which United States and Russian Federation were parties, further provided for civil penalties and permit sanctions for violations of these provisions as well as authority to deny port privileges for fishing in Central Bering Sea, further authorized Secretary of Commerce to issue regulations restricting fishing in United States exclusive economic zone, and further provided for definition of terms and that this title would cease to have force and effect after the date that is seven years after Nov. 2, 1992, except that any proceeding with respect to violations occurring prior to such date was to be conducted as if these provisions were still in effect.
 
 **North Pacific and Bering Sea Fisheries Advisory Body**
 
-Pub. L. 100–629, § 5, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 114–327, title I, § 121(a), Dec. 16, 2016, 130 Stat. 1984; Pub. L. 117–286, § 4(a)(115), Dec. 27, 2022, 136 Stat. 4318, provided that:
+Pub. L. 100–629, § 5, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 114–327, title I, § 121(a), Dec. 16, 2016, 130 Stat. 1984; Pub. L. 117–286, § 4(a)(115), Dec. 27, 2022, 136 Stat. 4318, provided that:
 
 > **“(a) In General.—** The Secretary of State shall establish an advisory body on the fisheries of the North Pacific and the Bering Sea, which shall advise the United States representative to the International Consultative Committee created in accordance with Article XIV of the governing international fishery agreement entered into between the United States and the Union of Soviet Socialist Republics, as contained in the message to Congress from the President of the United States dated June 22, 1988.
 
@@ -2065,17 +2065,17 @@ Pub. L. 100–629, § 5, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 1
 
 **Governing International Fishery Agreement With Russian Federation**
 
-Pub. L. 103–206, title VII, § 701, Dec. 20, 1993, 107 Stat. 2446, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The Agreement between the Government of the United States of America and the Government of the Russian Federation on Mutual Fisheries Relations which was entered into on May 31, 1988, and which expired by its terms on October 28, 1993, may be brought into force again for the United States through an exchange of notes between the United States of America and the Russian Federation and may remain in force and effect on the part of the United States until May 1, 1994, and may be amended or extended by a subsequent agreement to which section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823) applies.”
+Pub. L. 103–206, title VII, § 701, Dec. 20, 1993, 107 Stat. 2446, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The Agreement between the Government of the United States of America and the Government of the Russian Federation on Mutual Fisheries Relations which was entered into on May 31, 1988, and which expired by its terms on October 28, 1993, may be brought into force again for the United States through an exchange of notes between the United States of America and the Russian Federation and may remain in force and effect on the part of the United States until May 1, 1994, and may be amended or extended by a subsequent agreement to which section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823) applies.”
 
-Pub. L. 100–629, § 1, Nov. 7, 1988, 102 Stat. 3286, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Union of Soviet Socialist Republics was approved by Congress and was to enter into force and effect with respect to the United States on Nov. 7, 1988.
+Pub. L. 100–629, § 1, Nov. 7, 1988, 102 Stat. 3286, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Union of Soviet Socialist Republics was approved by Congress and was to enter into force and effect with respect to the United States on Nov. 7, 1988.
 
 **Governing International Fishery Agreement With German Democratic Republic**
 
-Pub. L. 100–350, § 1, June 27, 1988, 102 Stat. 660, provided that extension of governing international fishery agreement between the Government of the United States of America and the Government of the German Democratic Republic was approved by Congress as a governing international fishery agreement for purposes of this chapter, and was to enter into force and effect with respect to the United States on June 27, 1988.
+Pub. L. 100–350, § 1, June 27, 1988, 102 Stat. 660, provided that extension of governing international fishery agreement between the Government of the United States of America and the Government of the German Democratic Republic was approved by Congress as a governing international fishery agreement for purposes of this chapter, and was to enter into force and effect with respect to the United States on June 27, 1988.
 
 **Governing International Fishery Agreements With Iceland and the European Economic Community**
 
-Pub. L. 98–623, title I, Nov. 8, 1984, 98 Stat. 3394, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 98–623, title I, Nov. 8, 1984, 98 Stat. 3394, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 > “Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1823) [this section]—
 
@@ -2085,7 +2085,7 @@ Pub. L. 98–623, title I, Nov. 8, 1984, 98 Stat. 3394, as amended by Pub. L. 10
 
 **Governing International Fishery Agreement With Faroe Islands and Denmark**
 
-Pub. L. 98–498, title IV, § 440, Oct. 19, 1984, 98 Stat. 2310, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 98–498, title IV, § 440, Oct. 19, 1984, 98 Stat. 2310, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 > “Notwithstanding section 203 of the Magnuson-Stevens Fishery Conservation and Management Act of 1976 [this section], the Governing International Fishery Agreement between the Government of the United States of America of the One Part and the Home Government of the Faroe Islands and the Government of Denmark of the Other Part Concerning Faroese Fishing in Fisheries Off the Coasts of the United States, as contained in the message to Congress from the President of the United States dated July 13, 1984—
 
@@ -2095,31 +2095,31 @@ Pub. L. 98–498, title IV, § 440, Oct. 19, 1984, 98 Stat. 2310, as amended b
 
 **Governing International Fishery Agreement With Japan**
 
-Pub. L. 101–224, § 7, Dec. 12, 1989, 103 Stat. 1907, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan was approved by Congress and was to enter into force and effect with respect to the United States on Dec. 12, 1989.
+Pub. L. 101–224, § 7, Dec. 12, 1989, 103 Stat. 1907, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan was approved by Congress and was to enter into force and effect with respect to the United States on Dec. 12, 1989.
 
-Pub. L. 100–220, title I, § 1001, Dec. 29, 1987, 101 Stat. 1459, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 29, 1987.
+Pub. L. 100–220, title I, § 1001, Dec. 29, 1987, 101 Stat. 1459, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 29, 1987.
 
-Pub. L. 97–389, title IV, § 401, Dec. 29, 1982, 96 Stat. 1954, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan pursuant to this chapter, signed at Washington on Sept. 10, 1982, was approved, and was effective on Jan. 1, 1983.
+Pub. L. 97–389, title IV, § 401, Dec. 29, 1982, 96 Stat. 1954, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan pursuant to this chapter, signed at Washington on Sept. 10, 1982, was approved, and was effective on Jan. 1, 1983.
 
 **Governing International Fishery Agreement With Spain**
 
-Pub. L. 97–389, title IV, § 402, Dec. 29, 1982, 96 Stat. 1954, provided for approval of the governing international fishery agreement entered into between the Government of the United States and the Government of Spain pursuant to this chapter.
+Pub. L. 97–389, title IV, § 402, Dec. 29, 1982, 96 Stat. 1954, provided for approval of the governing international fishery agreement entered into between the Government of the United States and the Government of Spain pursuant to this chapter.
 
 **Governing International Fishery Agreement With Portugal**
 
-Pub. L. 96–561, title I, § 145, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3287, 3300, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Portugal Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 22, 1980.
+Pub. L. 96–561, title I, § 145, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3287, 3300, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Portugal Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 22, 1980.
 
 **Extension of International Fishery Agreements**
 
-Pub. L. 100–66, § 1, July 10, 1987, 101 Stat. 384, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Republic of Korea on July 26, 1982, was to remain in force and effect with respect to the United States until the closing date of the sixty-day period referred to in subsec. (a) of this section that applied with respect to any new governing international fishery agreement between the United States and the Republic of Korea that was transmitted to the Congress under subsec. (a) of this section after May 1, 1987, or Nov. 1, 1987, whichever was earlier.
+Pub. L. 100–66, § 1, July 10, 1987, 101 Stat. 384, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Republic of Korea on July 26, 1982, was to remain in force and effect with respect to the United States until the closing date of the sixty-day period referred to in subsec. (a) of this section that applied with respect to any new governing international fishery agreement between the United States and the Republic of Korea that was transmitted to the Congress under subsec. (a) of this section after May 1, 1987, or Nov. 1, 1987, whichever was earlier.
 
-Pub. L. 98–364, title I, § 106, July 17, 1984, 98 Stat. 442, provided that upon certification by Secretary of State to President of the Senate and Speaker of the House of Representatives that a new governing international fishery agreement in conformity with this chapter had been negotiated by the United States and the European Economic Community, the existing governing international fishery agreement referred to in section 2(a)(7) of Pub. L. 95–6, formerly set out below, could be extended or reinstated and could be in force and effect with respect to the United States, for the period of time ending on the earlier of (1) the effective date of the new governing international fishery agreement, or (2) Sept. 30, 1984.
+Pub. L. 98–364, title I, § 106, July 17, 1984, 98 Stat. 442, provided that upon certification by Secretary of State to President of the Senate and Speaker of the House of Representatives that a new governing international fishery agreement in conformity with this chapter had been negotiated by the United States and the European Economic Community, the existing governing international fishery agreement referred to in section 2(a)(7) of Pub. L. 95–6, formerly set out below, could be extended or reinstated and could be in force and effect with respect to the United States, for the period of time ending on the earlier of (1) the effective date of the new governing international fishery agreement, or (2) Sept. 30, 1984.
 
-Pub. L. 97–212, § 10(b), June 30, 1982, 96 Stat. 148, provided that the governing international fishery agreements referred to in section 2(a)(9) and (10) of Pub. L. 95–6, formerly set out below, were to be extended, and were to be in force and effect with respect to the United States, for the period of time ending on the deadline for completion of congressional review, pursuant to subsec. (a) of this section, of any new governing international fishery agreement signed, on or before July 31, 1982, by the United States and the respective foreign government that was a party to the agreement in question, or July 31, 1982, if the United States and the respective foreign government that was a party to the agreement in question failed to sign a new governing international fishery agreement on or before that date.
+Pub. L. 97–212, § 10(b), June 30, 1982, 96 Stat. 148, provided that the governing international fishery agreements referred to in section 2(a)(9) and (10) of Pub. L. 95–6, formerly set out below, were to be extended, and were to be in force and effect with respect to the United States, for the period of time ending on the deadline for completion of congressional review, pursuant to subsec. (a) of this section, of any new governing international fishery agreement signed, on or before July 31, 1982, by the United States and the respective foreign government that was a party to the agreement in question, or July 31, 1982, if the United States and the respective foreign government that was a party to the agreement in question failed to sign a new governing international fishery agreement on or before that date.
 
 **Congressional Approval of Certain Governing International Fishery Agreements**
 
-Pub. L. 95–6, § 2, Feb. 21, 1977, 91 Stat. 15, as amended by Pub. L. 95–8, § 1, Mar. 3, 1977, 91 Stat. 18; Pub. L. 95–219, § 1, Dec. 28, 1977, 91 Stat. 1613; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–212, § 10(a), June 30, 1982, 96 Stat. 148; Pub. L. 98–44, title I, § 105, July 12, 1983, 97 Stat. 217; Pub. L. 98–364, title I, § 105, July 17, 1984, 98 Stat. 442, provided for the approval by Congress, as a governing international fishery agreement for purposes of this chapter, of the governing international fishery agreement between—
+Pub. L. 95–6, § 2, Feb. 21, 1977, 91 Stat. 15, as amended by Pub. L. 95–8, § 1, Mar. 3, 1977, 91 Stat. 18; Pub. L. 95–219, § 1, Dec. 28, 1977, 91 Stat. 1613; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–212, § 10(a), June 30, 1982, 96 Stat. 148; Pub. L. 98–44, title I, § 105, July 12, 1983, 97 Stat. 217; Pub. L. 98–364, title I, § 105, July 17, 1984, 98 Stat. 442, provided for the approval by Congress, as a governing international fishery agreement for purposes of this chapter, of the governing international fishery agreement between—
 
 (1) the Government of the United States and the Government of the People’s Republic of Bulgaria Concerning Fisheries Off the Coasts of the United States;
 
@@ -2159,9 +2159,9 @@ and provided further that the agreements referred to in pars. (1) to (6) were to
 
 **Reciprocal Fisheries Agreement Between United States and Canada**
 
-Pub. L. 95–6, § 5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; amended Pub. L. 95–314, July 1, 1978, 92 Stat. 376; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided for congressional approval of the Reciprocal Fisheries Agreement for 1978 between the Government of the United States and the Government of Canada, and that the Agreement was to be in force and effect with respect to the United States from Jan. 1, 1978, until such later date in 1978 as was to be determined pursuant to the terms of the Agreement.
+Pub. L. 95–6, § 5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; amended Pub. L. 95–314, July 1, 1978, 92 Stat. 376; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided for congressional approval of the Reciprocal Fisheries Agreement for 1978 between the Government of the United States and the Government of Canada, and that the Agreement was to be in force and effect with respect to the United States from Jan. 1, 1978, until such later date in 1978 as was to be determined pursuant to the terms of the Agreement.
 
-### § 1824. Permits for foreign fishing
+### § 1824. Permits for foreign fishing
 
 **(a) In general**
 
@@ -2369,11 +2369,11 @@ Amounts deposited in such fund shall not diminish funding received by the Wester
 
 In the case of violations occurring within the exclusive economic zone off American Samoa, Guam, or the Northern Mariana Islands, amounts received by the Secretary which are attributable to fines or penalties imposed under this chapter, including such sums collected from the forfeiture and disposition or sale of property seized subject to its authority, after payment of direct costs of the enforcement action to all entities involved in such action, shall be deposited into the Treasury of the Pacific Insular Area adjacent to the exclusive economic zone in which the violation occurred, to be used for fisheries enforcement and for implementation of a marine conservation plan under paragraph (4). In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.
 
-(Pub. L. 94–265, title II, § 204, Apr. 13, 1976, 90 Stat. 342; Pub. L. 95–354, § 4(5)–(8), Aug. 28, 1978, 92 Stat. 520, 521; Pub. L. 96–470, title I, § 111(b), title II, § 208, Oct. 19, 1980, 94 Stat. 2239, 2245; Pub. L. 96–561, title II, § 232, Dec. 22, 1980, 94 Stat. 3298; Pub. L. 97–453, § 3, Jan. 12, 1983, 96 Stat. 2483; Pub. L. 99–272, title VI, § 6021, Apr. 7, 1986, 100 Stat. 123; Pub. L. 99–659, title I, §§ 101(c)(2), 102, 103(b), Nov. 14, 1986, 100 Stat. 3707, 3709; Pub. L. 101–627, title I, §§ 106, 120(b), Nov. 28, 1990, 104 Stat. 4440, 4459; Pub. L. 102–251, title III, § 301(f), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, § 105(d), Oct. 11, 1996, 110 Stat. 3564; Pub. L. 109–479, § 6, title IV, § 404(b), Jan. 12, 2007, 120 Stat. 3579, 3632.)
+(Pub. L. 94–265, title II, § 204, Apr. 13, 1976, 90 Stat. 342; Pub. L. 95–354, § 4(5)–(8), Aug. 28, 1978, 92 Stat. 520, 521; Pub. L. 96–470, title I, § 111(b), title II, § 208, Oct. 19, 1980, 94 Stat. 2239, 2245; Pub. L. 96–561, title II, § 232, Dec. 22, 1980, 94 Stat. 3298; Pub. L. 97–453, § 3, Jan. 12, 1983, 96 Stat. 2483; Pub. L. 99–272, title VI, § 6021, Apr. 7, 1986, 100 Stat. 123; Pub. L. 99–659, title I, §§ 101(c)(2), 102, 103(b), Nov. 14, 1986, 100 Stat. 3707, 3709; Pub. L. 101–627, title I, §§ 106, 120(b), Nov. 28, 1990, 104 Stat. 4440, 4459; Pub. L. 102–251, title III, § 301(f), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, § 105(d), Oct. 11, 1996, 110 Stat. 3564; Pub. L. 109–479, § 6, title IV, § 404(b), Jan. 12, 2007, 120 Stat. 3579, 3632.)
 
 **Amendment of Subsection (a)**
 
-Pub. L. 102–251, title III, §§ 301(f), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “within the special areas,” before “or for anadromous species” and “or areas” after “such zone”.
+Pub. L. 102–251, title III, §§ 301(f), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “within the special areas,” before “or for anadromous species” and “or areas” after “such zone”.
 
 **Editorial Notes**
 
@@ -2385,41 +2385,41 @@ Section 112(b) of the Sustainable Fisheries Act, referred to in subsec. (e)(4)(A
 
 **Amendments**
 
-2007—Subsec. (e)(4)(A)(i). Pub. L. 109–479, § 404(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “establishment of Pacific Insular Area observer programs, approved by the Secretary in consultation with the Western Pacific Council, that provide observer coverage for foreign fishing under Pacific Insular Area fishery agreements that is at least equal in effectiveness to the program established by the Secretary under section 1821(h) of this title;”.
+2007—Subsec. (e)(4)(A)(i). Pub. L. 109–479, § 404(b), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “establishment of Pacific Insular Area observer programs, approved by the Secretary in consultation with the Western Pacific Council, that provide observer coverage for foreign fishing under Pacific Insular Area fishery agreements that is at least equal in effectiveness to the program established by the Secretary under section 1821(h) of this title;”.
 
-Subsec. (e)(7). Pub. L. 109–479, § 6(1), inserted “and any funds or contributions received in support of conservation and management objectives under a marine conservation plan” after “agreement” in introductory provisions.
+Subsec. (e)(7). Pub. L. 109–479, § 6(1), inserted “and any funds or contributions received in support of conservation and management objectives under a marine conservation plan” after “agreement” in introductory provisions.
 
-Subsec. (e)(8). Pub. L. 109–479, § 6(2), inserted at end “In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.”
+Subsec. (e)(8). Pub. L. 109–479, § 6(2), inserted at end “In the case of violations by foreign vessels occurring within the exclusive economic zones off Midway Atoll, Johnston Atoll, Kingman Reef, Palmyra Atoll, Jarvis, Howland, Baker, and Wake Islands, amounts received by the Secretary attributable to fines and penalties imposed under this chapter, shall be deposited into the Western Pacific Sustainable Fisheries Fund established under paragraph (7) of this subsection.”
 
-1996—Subsec. (b)(7). Pub. L. 104–297, § 105(d)(1), inserted “or subsection (d)” after “under paragraph (6)” in introductory provisions.
+1996—Subsec. (b)(7). Pub. L. 104–297, § 105(d)(1), inserted “or subsection (d)” after “under paragraph (6)” in introductory provisions.
 
-Subsec. (b)(7)(A). Pub. L. 104–297, § 105(d)(2), substituted “any applicable Federal or State fishing regulations” for “the regulations promulgated to implement any such plan”.
+Subsec. (b)(7)(A). Pub. L. 104–297, § 105(d)(2), substituted “any applicable Federal or State fishing regulations” for “the regulations promulgated to implement any such plan”.
 
-Subsec. (b)(7)(D). Pub. L. 104–297, § 105(d)(3), inserted “or subsection (d)” after “under paragraph (6)(B)”.
+Subsec. (b)(7)(D). Pub. L. 104–297, § 105(d)(3), inserted “or subsection (d)” after “under paragraph (6)(B)”.
 
-Subsecs. (d), (e). Pub. L. 104–297, § 105(d)(4), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 104–297, § 105(d)(4), added subsecs. (d) and (e).
 
-1990—Subsec. (b)(4)(C). Pub. L. 101–627, § 120(b), substituted “Council” for “council”.
+1990—Subsec. (b)(4)(C). Pub. L. 101–627, § 120(b), substituted “Council” for “council”.
 
-Subsec. (b)(10). Pub. L. 101–627, § 106(a), amended par. (10) generally. Prior to amendment, par. (10) consisted of subpars. (A) to (F) relating to schedule of fees to be paid for permits for foreign fishing vessels, ratios for determining minimum fees, review and notice to Congress of performance by nations receiving allocations, factors included and excluded in cost of carrying out this chapter, use of amounts collected in fees, and deposit into general fund of United States Treasury of a determined amount.
+Subsec. (b)(10). Pub. L. 101–627, § 106(a), amended par. (10) generally. Prior to amendment, par. (10) consisted of subpars. (A) to (F) relating to schedule of fees to be paid for permits for foreign fishing vessels, ratios for determining minimum fees, review and notice to Congress of performance by nations receiving allocations, factors included and excluded in cost of carrying out this chapter, use of amounts collected in fees, and deposit into general fund of United States Treasury of a determined amount.
 
-Subsec. (b)(12). Pub. L. 101–627, § 106(b), struck out par. (12) which related to sanctions for violation of section 1857 of this title or for failure to pay civil penalty under section 1858 of this title or criminal fine under section 1859 of this title. See section 1858(g) of this title.
+Subsec. (b)(12). Pub. L. 101–627, § 106(b), struck out par. (12) which related to sanctions for violation of section 1857 of this title or for failure to pay civil penalty under section 1858 of this title or criminal fine under section 1859 of this title. See section 1858(g) of this title.
 
-1986—Subsec. (a). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
+1986—Subsec. (a). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-Subsec. (b)(1). Pub. L. 99–659, § 102(1), inserted provision that no permit issued under this section may be valid for longer than a year, with section 558(c) of title 5 inapplicable to the renewal of any such permit.
+Subsec. (b)(1). Pub. L. 99–659, § 102(1), inserted provision that no permit issued under this section may be valid for longer than a year, with section 558(c) of title 5 inapplicable to the renewal of any such permit.
 
-Subsec. (b)(3)(G). Pub. L. 99–659, § 103(b), added subpar. (G).
+Subsec. (b)(3)(G). Pub. L. 99–659, § 103(b), added subpar. (G).
 
-Subsec. (b)(4)(C). Pub. L. 99–659, § 102(2), struck out “, upon its request” before period at end.
+Subsec. (b)(4)(C). Pub. L. 99–659, § 102(2), struck out “, upon its request” before period at end.
 
-Subsec. (b)(6)(A). Pub. L. 99–659, § 102(3), inserted “, or he may disapprove all or any portion of the application”.
+Subsec. (b)(6)(A). Pub. L. 99–659, § 102(3), inserted “, or he may disapprove all or any portion of the application”.
 
 Subsec. (b)(10). Pub. L. 99–272 amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Fees shall be paid to the Secretary by the owner or operator of any foreign fishing vessel for which a permit is issued pursuant to this subsection. The Secretary, in consultation with the Secretary of State, shall establish a schedule of such fees which shall apply nondiscriminatorily to each foreign nation. The fees imposed under this paragraph shall be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter (including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers covered by surcharges under section 1821(i)(4) of this title) during each fiscal year the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vessels within such zone and the territorial waters of the United States during such preceding year. The amount collected by the Secretary under this paragraph shall be transferred to the fisheries loan fund established under section 742c of this title for so long as such fund exists and used of the purpose of making loans therefrom, but only to the extent and in amounts provided for in advance in appropriation Acts.”
 
-Subsec. (b)(10)(B), (C). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
+Subsec. (b)(10)(B), (C). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-Subsec. (b)(12). Pub. L. 99–659, § 102(4), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If any foreign fishing vessel for which a permit has been issued pursuant to this subsection has been used in the commission of any act prohibited by section 1857 of this title the Secretary may, or if any civil penalty imposed under section 1858 of this title or any criminal fine imposed under section 1859 of this title has not been paid and is overdue the Secretary shall—
+Subsec. (b)(12). Pub. L. 99–659, § 102(4), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If any foreign fishing vessel for which a permit has been issued pursuant to this subsection has been used in the commission of any act prohibited by section 1857 of this title the Secretary may, or if any civil penalty imposed under section 1858 of this title or any criminal fine imposed under section 1859 of this title has not been paid and is overdue the Secretary shall—
 
 “(A) revoke such permit, with or without prejudice to the right of the foreign nation involved to obtain a permit for such vessel in any subsequent year;
 
@@ -2429,31 +2429,31 @@ Subsec. (b)(12). Pub. L. 99–659, § 102(4), amended par. (12) generally. Pri
 
 Any permit which is suspended under this paragraph for nonpayment of a civil penalty shall be reinstated by the Secretary upon the payment of such civil penalty together with interest thereon at the prevailing rate.”
 
-1983—Subsec. (b)(3)(B). Pub. L. 97–453, § 3(1), inserted “hold” before “capacity”.
+1983—Subsec. (b)(3)(B). Pub. L. 97–453, § 3(1), inserted “hold” before “capacity”.
 
-Subsec. (b)(4). Pub. L. 97–453, § 3(2), struck out “and shall be set forth under the name of each Council to which it will be transmitted for comment” after “in paragraph (3)”.
+Subsec. (b)(4). Pub. L. 97–453, § 3(2), struck out “and shall be set forth under the name of each Council to which it will be transmitted for comment” after “in paragraph (3)”.
 
-Subsec. (b)(4)(B). Pub. L. 97–453, § 3(3), struck out “to each appropriate Council and” after “application”.
+Subsec. (b)(4)(B). Pub. L. 97–453, § 3(3), struck out “to each appropriate Council and” after “application”.
 
-Subsec. (b)(4)(C). Pub. L. 97–453, § 3(3), substituted “a copy or a summary of the application to the appropriate council, upon its request” for “a monthly summary of foreign fishing applications including a report on approved applications as described in paragraphs (6) and (7) to the Committee on Merchant Marine and Fisheries of the House of Representatives and to the Committees on Commerce and Foreign Relations of the Senate”.
+Subsec. (b)(4)(C). Pub. L. 97–453, § 3(3), substituted “a copy or a summary of the application to the appropriate council, upon its request” for “a monthly summary of foreign fishing applications including a report on approved applications as described in paragraphs (6) and (7) to the Committee on Merchant Marine and Fisheries of the House of Representatives and to the Committees on Commerce and Foreign Relations of the Senate”.
 
-Subsec. (b)(5). Pub. L. 97–453, § 3(4), substituted “After receiving a copy or summary of an application under paragraph (4)(C), the Council may” for “After receipt of an application transmitted under paragraph (4)(B), each appropriate Council shall”.
+Subsec. (b)(5). Pub. L. 97–453, § 3(4), substituted “After receiving a copy or summary of an application under paragraph (4)(C), the Council may” for “After receipt of an application transmitted under paragraph (4)(B), each appropriate Council shall”.
 
-1980—Subsec. (b)(4)(C). Pub. L. 96–470, § 208, substituted “a monthly summary of foreign fishing applications including a report on approval applications as described in paragraph (6) and (7)” for “a copy of such material”.
+1980—Subsec. (b)(4)(C). Pub. L. 96–470, § 208, substituted “a monthly summary of foreign fishing applications including a report on approval applications as described in paragraph (6) and (7)” for “a copy of such material”.
 
-Subsec. (b)(8)(D). Pub. L. 96–470, § 111(b), struck out subpar. (D) which required the Secretary to promptly transmit a copy of each application to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committees on Commerce and Foreign Relations of the Senate.
+Subsec. (b)(8)(D). Pub. L. 96–470, § 111(b), struck out subpar. (D) which required the Secretary to promptly transmit a copy of each application to the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committees on Commerce and Foreign Relations of the Senate.
 
-Subsec. (b)(10). Pub. L. 96–561, § 232(b), substituted provision directing that fees imposed under this paragraph be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter, including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers covered by surcharges under section 1821(i)(4) of this title, during each fiscal year, the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vessels within such zone and the territorial waters of the United States during such preceding year and that the fees collected for permits issued after 1981 be transferred to the fisheries loan fund for provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund.
+Subsec. (b)(10). Pub. L. 96–561, § 232(b), substituted provision directing that fees imposed under this paragraph be at least in an amount sufficient to return to the United States an amount which bears to the total cost of carrying out the provisions of this chapter, including, but not limited to, fishery conservation and management, fisheries research, administration, and enforcement, but excluding costs for observers covered by surcharges under section 1821(i)(4) of this title, during each fiscal year, the same ratio as the aggregate quantity of fish harvested by foreign fishing vessels within the fishery conservation zone during the preceding year bears to the aggregate quantity of fish harvested by both foreign and domestic fishing vessels within such zone and the territorial waters of the United States during such preceding year and that the fees collected for permits issued after 1981 be transferred to the fisheries loan fund for provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund.
 
-Pub. L. 96–561, § 232(a), substituted provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund for provision permitting the Secretary, in determining the level of fees, to take into account the cost of carrying out the provisions of this chapter with respect to foreign fishing, including, but not limited to, the cost of fishery conservation and management, fisheries research, administration, and enforcement.
+Pub. L. 96–561, § 232(a), substituted provision directing that fees be formulated so as to ensure that receipts resulting from payments for fees issued for 1981 are not less than an amount equal to 7 percent of the ex vessel value of the total harvest by foreign fishing vessels in the fishery conservation zone during 1979 and that the fees collected for permits issued for 1981 be transferred to the fisheries loan fund for provision permitting the Secretary, in determining the level of fees, to take into account the cost of carrying out the provisions of this chapter with respect to foreign fishing, including, but not limited to, the cost of fishery conservation and management, fisheries research, administration, and enforcement.
 
-1978—Subsec. (b)(3)(D) to (F). Pub. L. 95–354, § 4(5), in subpar. (D) substituted provisions relating to estimation of amount of tonnage which will be caught, taken, or harvested, for provisions relating to the amount of fish or tonnage of catch contemplated for each vessel, added subpar. (E), and redesignated former subpar. (E) as (F).
+1978—Subsec. (b)(3)(D) to (F). Pub. L. 95–354, § 4(5), in subpar. (D) substituted provisions relating to estimation of amount of tonnage which will be caught, taken, or harvested, for provisions relating to the amount of fish or tonnage of catch contemplated for each vessel, added subpar. (E), and redesignated former subpar. (E) as (F).
 
-Subsec. (b)(4). Pub. L. 95–354, § 4(6), substituted provisions relating to publication of the notice of receipt of the application in the Federal Register, for provisions relating to publication of the application in the Federal Register.
+Subsec. (b)(4). Pub. L. 95–354, § 4(6), substituted provisions relating to publication of the notice of receipt of the application in the Federal Register, for provisions relating to publication of the application in the Federal Register.
 
-Subsec. (b)(6). Pub. L. 95–354, § 4(7), redesignated existing provisions as subpar. (A) inserted reference to subpar. (B), and added subpar. (B).
+Subsec. (b)(6). Pub. L. 95–354, § 4(7), redesignated existing provisions as subpar. (A) inserted reference to subpar. (B), and added subpar. (B).
 
-Subsec. (b)(7)(D) to (F). Pub. L. 95–354, § 4(8), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
+Subsec. (b)(7)(D) to (F). Pub. L. 95–354, § 4(8), added subpars. (D) and (E) and redesignated former subpar. (D) as (F).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2463,15 +2463,15 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 232(a), Dec. 22, 1980, 94 Stat. 3298, provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section for 1981.
+Pub. L. 96–561, title II, § 232(a), Dec. 22, 1980, 94 Stat. 3298, provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section for 1981.
 
-Pub. L. 96–561, title II, § 232(b), Dec. 22, 1980, 94 Stat. 3298, provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section after 1981.
+Pub. L. 96–561, title II, § 232(b), Dec. 22, 1980, 94 Stat. 3298, provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section after 1981.
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1825. Import prohibitions
+### § 1825. Import prohibitions
 
 **(a) Determinations by Secretary of State** If the Secretary of State determines that—
 
@@ -2507,23 +2507,23 @@ If the Secretary of State finds that the reasons for the imposition of any impor
 
 **(2)** The term “fish products” means any article which is produced from or composed of (in whole or in part) any fish.
 
-(Pub. L. 94–265, title II, § 205, Apr. 13, 1976, 90 Stat. 345; Pub. L. 101–627, title I, § 105(b)(1), Nov. 28, 1990, 104 Stat. 4440.)
+(Pub. L. 94–265, title II, § 205, Apr. 13, 1976, 90 Stat. 345; Pub. L. 101–627, title I, § 105(b)(1), Nov. 28, 1990, 104 Stat. 4440.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a)(1). Pub. L. 101–627, § 105(b)(1)(A), inserted “including fisheries for tuna species,” after “authority,” and struck out “traditional” after “in accordance with”.
+1990—Subsec. (a)(1). Pub. L. 101–627, § 105(b)(1)(A), inserted “including fisheries for tuna species,” after “authority,” and struck out “traditional” after “in accordance with”.
 
-Subsec. (a)(2). Pub. L. 101–627, § 105(b)(1)(B), substituted “tuna” for “highly migratory”.
+Subsec. (a)(2). Pub. L. 101–627, § 105(b)(1)(B), substituted “tuna” for “highly migratory”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–627, title I, § 105(b)(2), Nov. 28, 1990, 104 Stat. 4440, provided that: “The amendments made by this subsection [amending this section] shall take effect on January 1, 1992.”
+Pub. L. 101–627, title I, § 105(b)(2), Nov. 28, 1990, 104 Stat. 4440, provided that: “The amendments made by this subsection [amending this section] shall take effect on January 1, 1992.”
 
-### § 1826. Large-scale driftnet fishing
+### § 1826. Large-scale driftnet fishing
 
 **(a) Short title**
 
@@ -2587,7 +2587,7 @@ This section shall not serve or be construed to expand or diminish the sovereign
 
 As used in this section, the term “living marine resources” includes fish, marine mammals, sea turtles, and seabirds and other waterfowl.
 
-**(i) 1 [footnote: 1 So in original. See Codification note below.] Fishing gear transition program**
+**(i) 1 [footnote: 1 So in original. See Codification note below.] Fishing gear transition program**
 
 **(1) In general**
 
@@ -2605,7 +2605,7 @@ During the 5-year period beginning on December 29, 2022, the Secretary shall con
 
 The Secretary shall certify that, with respect to each participant in the program under this subsection, any permit authorizing participation in a large-scale driftnet fishery has been permanently revoked and that no new permits will be issued to authorize such fishing.
 
-(Pub. L. 94–265, title II, § 206, as added Pub. L. 95–6, § 3(1), Feb. 21, 1977, 91 Stat. 15; amended Pub. L. 99–659, title I, § 101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, § 107(a), Nov. 28, 1990, 104 Stat. 4441; Pub. L. 104–297, title I, § 105(f), Oct. 11, 1996, 110 Stat. 3569; Pub. L. 117–328, div. S, title I, §§ 103, 104, title II, § 205(b)(1)(B), Dec. 29, 2022, 136 Stat. 5259, 5270.)
+(Pub. L. 94–265, title II, § 206, as added Pub. L. 95–6, § 3(1), Feb. 21, 1977, 91 Stat. 15; amended Pub. L. 99–659, title I, § 101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, § 107(a), Nov. 28, 1990, 104 Stat. 4441; Pub. L. 104–297, title I, § 105(f), Oct. 11, 1996, 110 Stat. 3569; Pub. L. 117–328, div. S, title I, §§ 103, 104, title II, § 205(b)(1)(B), Dec. 29, 2022, 136 Stat. 5259, 5270.)
 
 **Editorial Notes**
 
@@ -2619,25 +2619,25 @@ This chapter, referred to in subsec. (e), was in the original “this Act”, me
 
 **Codification**
 
-Former subsecs. (g) and (h) were redesignated (e) and (f), respectively, by Pub. L. 117–328, § 205(b)(1)(B). See 2022 Amendment note below.
+Former subsecs. (g) and (h) were redesignated (e) and (f), respectively, by Pub. L. 117–328, § 205(b)(1)(B). See 2022 Amendment note below.
 
 **Amendments**
 
-2022—Subsec. (b)(8). Pub. L. 117–328, § 103(a), added par. (8).
+2022—Subsec. (b)(8). Pub. L. 117–328, § 103(a), added par. (8).
 
-Subsec. (c)(4). Pub. L. 117–328, § 103(b), added par. (4).
+Subsec. (c)(4). Pub. L. 117–328, § 103(b), added par. (4).
 
-Subsecs. (e) to (h). Pub. L. 117–328, § 205(b)(1)(B), redesignated subsecs. (g) and (h) as (e) and (f), respectively, and struck out former subsecs. (e) and (f), which related, respectively, to reports and certification.
+Subsecs. (e) to (h). Pub. L. 117–328, § 205(b)(1)(B), redesignated subsecs. (g) and (h) as (e) and (f), respectively, and struck out former subsecs. (e) and (f), which related, respectively, to reports and certification.
 
-Subsec. (i). Pub. L. 117–328, § 104, added subsec. (i).
+Subsec. (i). Pub. L. 117–328, § 104, added subsec. (i).
 
-1996—Subsec. (e). Pub. L. 104–297, § 105(f)(1), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which read as follows:
+1996—Subsec. (e). Pub. L. 104–297, § 105(f)(1), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which read as follows:
 
 “(3) identifying and evaluating the effectiveness of unilateral measures and multilateral measures, including sanctions, that are available to encourage nations to agree to and comply with this section, and recommendations for legislation to authorize any additional measures that are needed if those are considered ineffective;
 
 “(4) identifying, evaluating, and making any recommendations considered necessary to improve the effectiveness of the law, policy, and procedures governing enforcement of the exclusive management authority of the United States over anadromous species against fishing vessels engaged in fishing beyond the exclusive economic zone of any nation;”.
 
-Subsec. (f). Pub. L. 104–297, § 105(f)(2), substituted “subsection (e)(4)” for “subsection (e)(6)”.
+Subsec. (f). Pub. L. 104–297, § 105(f)(2), substituted “subsection (e)(4)” for “subsection (e)(6)”.
 
 1990—Pub. L. 101–627 amended section generally, substituting provisions relating to large-scale driftnet fishing for provisions relating to transitional provisions.
 
@@ -2653,7 +2653,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 1826a. Denial of port privileges and sanctions for high seas large-scale driftnet fishing
+### § 1826a. Denial of port privileges and sanctions for high seas large-scale driftnet fishing
 
 **(a) Denial of port privileges**
 
@@ -2727,7 +2727,7 @@ The Secretary of Commerce shall certify to the President each affirmative determ
 
 Certification by the Secretary of Commerce under subparagraph (B) is deemed to be a certification under section 1978(a) of title 22.
 
-(Pub. L. 102–582, title I, § 101, Nov. 2, 1992, 106 Stat. 4901; Pub. L. 109–479, title IV, § 403(b)(1), Jan. 12, 2007, 120 Stat. 3632; Pub. L. 114–81, title I, § 102(a), Nov. 5, 2015, 129 Stat. 656; Pub. L. 117–263, div. K, title CXIII, § 11336, Dec. 23, 2022, 136 Stat. 4101.)
+(Pub. L. 102–582, title I, § 101, Nov. 2, 1992, 106 Stat. 4901; Pub. L. 109–479, title IV, § 403(b)(1), Jan. 12, 2007, 120 Stat. 3632; Pub. L. 114–81, title I, § 102(a), Nov. 5, 2015, 129 Stat. 656; Pub. L. 117–263, div. K, title CXIII, § 11336, Dec. 23, 2022, 136 Stat. 4101.)
 
 **Editorial Notes**
 
@@ -2747,21 +2747,21 @@ Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act,
 
 “(B) deny entry of that vessel to any place in the United States and to the navigable waters of the United States, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action.”
 
-2015—Subsec. (a)(2). Pub. L. 114–81, § 102(a)(1), struck out “recognized principles of” after “in accordance with” in introductory provisions.
+2015—Subsec. (a)(2). Pub. L. 114–81, § 102(a)(1), struck out “recognized principles of” after “in accordance with” in introductory provisions.
 
-Subsec. (a)(2)(A). Pub. L. 114–81, § 102(a)(2), inserted “or, as appropriate, for fishing vessels of a nation that receives a negative certification under section 1826j(d) of this title or section 1826k(c) of this title” after “paragraph (1)”.
+Subsec. (a)(2)(A). Pub. L. 114–81, § 102(a)(2), inserted “or, as appropriate, for fishing vessels of a nation that receives a negative certification under section 1826j(d) of this title or section 1826k(c) of this title” after “paragraph (1)”.
 
-Subsec. (a)(2)(B). Pub. L. 114–81, § 102(a)(3), inserted before period at end “, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action”.
+Subsec. (a)(2)(B). Pub. L. 114–81, § 102(a)(3), inserted before period at end “, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action”.
 
-Subsec. (b)(1)(A)(i). Pub. L. 114–81, § 102(a)(4), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+Subsec. (b)(1)(A)(i). Pub. L. 114–81, § 102(a)(4), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
-Subsec. (b)(1)(B), (2). Pub. L. 114–81, § 102(a)(5), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+Subsec. (b)(1)(B), (2). Pub. L. 114–81, § 102(a)(5), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
-Subsec. (b)(3)(A)(i). Pub. L. 114–81, § 102(a)(6), inserted “or a negative certification under section 1826j(d) of this title or section 1826k(c) of this title” after “paragraph (1)(A)”.
+Subsec. (b)(3)(A)(i). Pub. L. 114–81, § 102(a)(6), inserted “or a negative certification under section 1826j(d) of this title or section 1826k(c) of this title” after “paragraph (1)(A)”.
 
-Subsec. (b)(4)(A). Pub. L. 114–81, § 102(a)(7), inserted “or issues a negative certification under section 1826j(d) of this title or section 1826k(c) of this title” after “paragraph (1)” in introductory provisions.
+Subsec. (b)(4)(A). Pub. L. 114–81, § 102(a)(7), inserted “or issues a negative certification under section 1826j(d) of this title or section 1826k(c) of this title” after “paragraph (1)” in introductory provisions.
 
-Subsec. (b)(4)(A)(i). Pub. L. 114–81, § 102(a)(8), (9), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “, or to address the offending activities for which a nation received a negative certification under section 1826j(d) or 1826k(c) of this title” after “beyond the exclusive economic zone of any nation”.
+Subsec. (b)(4)(A)(i). Pub. L. 114–81, § 102(a)(8), (9), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “, or to address the offending activities for which a nation received a negative certification under section 1826j(d) or 1826k(c) of this title” after “beyond the exclusive economic zone of any nation”.
 
 2007—Subsec. (b)(1)(A)(i), (B), (2), (4)(A)(i). Pub. L. 109–479 inserted “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
@@ -2769,13 +2769,13 @@ Subsec. (b)(4)(A)(i). Pub. L. 114–81, § 102(a)(8), (9), struck out “or il
 
 **Regulations**
 
-Pub. L. 117–263, div. K, title CXIII, § 11341, Dec. 23, 2022, 136 Stat. 4105, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], the Secretary shall promulgate such regulations as may be necessary to carry out this subtitle [subtitle E (§§ 11329–11341) of title CXIII of div. K of Pub. L. 117–263, see Tables for classification] and the amendments made by this subtitle.”
+Pub. L. 117–263, div. K, title CXIII, § 11341, Dec. 23, 2022, 136 Stat. 4105, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], the Secretary shall promulgate such regulations as may be necessary to carry out this subtitle [subtitle E (§§ 11329–11341) of title CXIII of div. K of Pub. L. 117–263, see Tables for classification] and the amendments made by this subtitle.”
 
 [For definition of “Secretary” as used in section 11341 of Pub. L. 117–263, set out above, see section 11329 of Pub. L. 117–263, set out as a note under section 1885a of this title.]
 
 **High Seas Driftnet Fisheries Enforcement; Congressional Statement of Findings and Policy**
 
-Pub. L. 102–582, § 2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 102–582, § 2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -2807,15 +2807,15 @@ Pub. L. 102–582, § 2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 1
 
 > **“(3)** secure a permanent ban on the use of destructive fishing practices, and in particular large-scale driftnets, by persons or vessels fishing beyond the exclusive economic zone of any nation.”
 
-### § 1826b. Duration of denial of port privileges and sanctions
+### § 1826b. Duration of denial of port privileges and sanctions
 
-Any denial of port privileges or sanction under section 1826a of this title with respect to a nation shall remain in effect until such time as the Secretary of Commerce certifies to the President and the Congress that such nation has terminated large-scale driftnet fishing by its nationals and vessels beyond the exclusive economic zone of any nation or effectively addressed the offending activities for which the nation received a negative certification under 1826j(d) 1
+Any denial of port privileges or sanction under section 1826a of this title with respect to a nation shall remain in effect until such time as the Secretary of Commerce certifies to the President and the Congress that such nation has terminated large-scale driftnet fishing by its nationals and vessels beyond the exclusive economic zone of any nation or effectively addressed the offending activities for which the nation received a negative certification under 1826j(d) 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “section”.
+<sup>1</sup> So in original. Probably should be preceded by “section”.
 
 or 1826k(c) of this title.
 
-(Pub. L. 102–582, title I, § 102, Nov. 2, 1992, 106 Stat. 4903; Pub. L. 109–479, title IV, § 403(b)(2), Jan. 12, 2007, 120 Stat. 3632; Pub. L. 114–81, title I, § 102(b), Nov. 5, 2015, 129 Stat. 656.)
+(Pub. L. 102–582, title I, § 102, Nov. 2, 1992, 106 Stat. 4903; Pub. L. 109–479, title IV, § 403(b)(2), Jan. 12, 2007, 120 Stat. 3632; Pub. L. 114–81, title I, § 102(b), Nov. 5, 2015, 129 Stat. 656.)
 
 **Editorial Notes**
 
@@ -2829,7 +2829,7 @@ Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act,
 
 2007—Pub. L. 109–479 inserted “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
 
-### § 1826c. Definitions
+### § 1826c. Definitions
 
 In sections 1826a to 1826c of this title, the following definitions apply:
 
@@ -2853,7 +2853,7 @@ Until January 1, 1994, the term “large-scale driftnet fishing” does not incl
 
 **(B)** used for aiding or assisting one or more vessels at sea in the performance of large-scale driftnet fishing, including preparation, supply, storage, refrigeration, transportation, or processing.
 
-(Pub. L. 102–582, title I, § 104, Nov. 2, 1992, 106 Stat. 4903.)
+(Pub. L. 102–582, title I, § 104, Nov. 2, 1992, 106 Stat. 4903.)
 
 **Editorial Notes**
 
@@ -2865,11 +2865,11 @@ Sections 1826a to 1826c of this title, referred to in text, was in the original 
 
 Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
-### § 1826d. Prohibition
+### § 1826d. Prohibition
 
 The United States, or any agency or official acting on behalf of the United States, may not enter into any international agreement with respect to the conservation and management of living marine resources or the use of the high seas by fishing vessels that would prevent full implementation of the global moratorium on large-scale driftnet fishing on the high seas, as such moratorium is expressed in Resolution 46/215 of the United Nations General Assembly.
 
-(Pub. L. 104–43, title VI, § 603, Nov. 3, 1995, 109 Stat. 392.)
+(Pub. L. 104–43, title VI, § 603, Nov. 3, 1995, 109 Stat. 392.)
 
 **Editorial Notes**
 
@@ -2881,7 +2881,7 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 **Congressional Findings**
 
-Pub. L. 104–43, title VI, § 602, Nov. 3, 1995, 109 Stat. 391, provided that:
+Pub. L. 104–43, title VI, § 602, Nov. 3, 1995, 109 Stat. 391, provided that:
 
 > “The Congress finds that—
 
@@ -2897,11 +2897,11 @@ Pub. L. 104–43, title VI, § 602, Nov. 3, 1995, 109 Stat. 391, provided that
 
 > **“(6)** Resolution 46/215 of the United Nations General Assembly calls on all nations, both individually and collectively, to prevent large-scale driftnet fishing on the high seas.”
 
-### § 1826e. Negotiations
+### § 1826e. Negotiations
 
 The Secretary of State, on behalf of the United States, shall seek to enhance the implementation and effectiveness of the United Nations General Assembly resolutions and decisions regarding the moratorium on large-scale driftnet fishing on the high seas through appropriate international agreements and organizations.
 
-(Pub. L. 104–43, title VI, § 604, Nov. 3, 1995, 109 Stat. 392.)
+(Pub. L. 104–43, title VI, § 604, Nov. 3, 1995, 109 Stat. 392.)
 
 **Editorial Notes**
 
@@ -2909,11 +2909,11 @@ The Secretary of State, on behalf of the United States, shall seek to enhance th
 
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
-### § 1826f. Certification
+### § 1826f. Certification
 
 The Secretary of State shall determine in writing prior to the signing or provisional application by the United States of any international agreement with respect to the conservation and management of living marine resources or the use of the high seas by fishing vessels that the prohibition contained in section 1826d of this title will not be violated if such agreement is signed or provisionally applied.
 
-(Pub. L. 104–43, title VI, § 605, Nov. 3, 1995, 109 Stat. 392.)
+(Pub. L. 104–43, title VI, § 605, Nov. 3, 1995, 109 Stat. 392.)
 
 **Editorial Notes**
 
@@ -2921,7 +2921,7 @@ The Secretary of State shall determine in writing prior to the signing or provis
 
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
-### § 1826g. Enforcement
+### § 1826g. Enforcement
 
 **(a) In general**
 
@@ -2979,15 +2979,15 @@ In addition to the powers of officers authorized pursuant to subsection (c), any
 
 **(IV)** to assist in any investigative, judicial, or administrative enforcement proceeding in the United States; or
 
-**(V)** to assist in any law enforcement action undertaken by a law enforcement agency of a foreign government, or in relation to a legal proceeding undertaken by a foreign government to the extent the enforcement action is consistent with rules and regulations of a regional fisheries management organization (as that term is defined by the United Nation’s 1
+**(V)** to assist in any law enforcement action undertaken by a law enforcement agency of a foreign government, or in relation to a legal proceeding undertaken by a foreign government to the extent the enforcement action is consistent with rules and regulations of a regional fisheries management organization (as that term is defined by the United Nation’s 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member, or the Secretary has determined that the enforcement action is consistent with the requirements under Federal law for enforcement actions with respect to illegal, unreported, and unregulated fishing.
 
 **(B) Data confidentiality provisions not applicable** The data confidentiality provisions of section 402 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881a) shall not apply with respect to this Act with respect to—
 
-**(i)** any obligation of the United States to share information under a regional fisheries management organization (as that term is defined by the United Nation’s <sup>1</sup> Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member; or
+**(i)** any obligation of the United States to share information under a regional fisheries management organization (as that term is defined by the United Nation’s <sup>1</sup> Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member; or
 
 **(ii)** any information collected by the Secretary regarding foreign vessels.
 
@@ -3021,7 +3021,7 @@ Any person who commits an act that is unlawful under subsection (e)(2), (e)(3), 
 
 The President shall utilize appropriate assets of the Department of Defense, the United States Coast Guard, and other Federal agencies to detect, monitor, and prevent violations of the United Nations moratorium on large-scale driftnet fishing on the high seas for all fisheries under the jurisdiction of the United States and, in the case of fisheries not under the jurisdiction of the United States, to the fullest extent permitted under international law.
 
-(Pub. L. 104–43, title VI, § 606, Nov. 3, 1995, 109 Stat. 392; Pub. L. 114–81, title I, § 101(a)(1), Nov. 5, 2015, 129 Stat. 650; Pub. L. 114–327, title IV, § 401(a), Dec. 16, 2016, 130 Stat. 1994.)
+(Pub. L. 104–43, title VI, § 606, Nov. 3, 1995, 109 Stat. 392; Pub. L. 114–81, title I, § 101(a)(1), Nov. 5, 2015, 129 Stat. 650; Pub. L. 114–327, title IV, § 401(a), Dec. 16, 2016, 130 Stat. 1994.)
 
 **Editorial Notes**
 
@@ -3029,25 +3029,25 @@ The President shall utilize appropriate assets of the Department of Defense, the
 
 This Act, referred to in subsecs. (a), (c)(1), (d)(2)(B), and (e)(1), (2), and (6), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
 
-The Pacific Salmon Treaty Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–5, Mar. 15, 1985, 99 Stat. 7, which is classified generally to chapter 56A (§ 3631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3631 of this title and Tables.
+The Pacific Salmon Treaty Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–5, Mar. 15, 1985, 99 Stat. 7, which is classified generally to chapter 56A (§ 3631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3631 of this title and Tables.
 
-The Dolphin Protection Consumer Information Act, referred to in subsec. (b)(2), is Pub. L. 101–627, title IX, § 901, Nov. 28, 1990, 104 Stat. 4465, which is classified to section 1385 of this title. For complete classification of this Act to the Code, see Tables.
+The Dolphin Protection Consumer Information Act, referred to in subsec. (b)(2), is Pub. L. 101–627, title IX, § 901, Nov. 28, 1990, 104 Stat. 4465, which is classified to section 1385 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Tuna Conventions Act of 1950, referred to in subsec. (b)(3), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
+The Tuna Conventions Act of 1950, referred to in subsec. (b)(3), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
-The North Pacific Anadromous Stocks Act of 1992, referred to in subsec. (b)(4), is Pub. L. 102–567, title VIII, Oct. 29, 1992, 106 Stat. 4309, which is classified generally to chapter 70 (§ 5001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
+The North Pacific Anadromous Stocks Act of 1992, referred to in subsec. (b)(4), is Pub. L. 102–567, title VIII, Oct. 29, 1992, 106 Stat. 4309, which is classified generally to chapter 70 (§ 5001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
 
-The Atlantic Tunas Convention Act of 1975, referred to in subsecs. (b)(5) and (d)(2)(A), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+The Atlantic Tunas Convention Act of 1975, referred to in subsecs. (b)(5) and (d)(2)(A), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
-The Northwest Atlantic Fisheries Convention Act of 1995, referred to in subsec. (b)(6), is Pub. L. 104–43, title II, Nov. 3, 1995, 109 Stat. 377, which is classified generally to chapter 76 (§ 5601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+The Northwest Atlantic Fisheries Convention Act of 1995, referred to in subsec. (b)(6), is Pub. L. 104–43, title II, Nov. 3, 1995, 109 Stat. 377, which is classified generally to chapter 76 (§ 5601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
-The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsecs. (b)(7) and (d)(2)(A), is Pub. L. 109–479, title V, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsecs. (b)(7) and (d)(2)(A), is Pub. L. 109–479, title V, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The Antigua Convention Implementing Act of 2015, referred to in subsec. (b)(8), is Pub. L. 114–81, title II, Nov. 5, 2015, 129 Stat. 660. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 951 of this title and Tables.
 
 The Ensuring Access to Pacific Fisheries Act, referred to in subsec. (b)(9), is Pub. L. 114–327, Dec. 16, 2016, 130 Stat. 1974. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(2)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(2)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Codification**
 
@@ -3065,7 +3065,7 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1826h. Biennial report on international compliance
+### § 1826h. Biennial report on international compliance
 
 **(a) In general** The Secretary, in consultation with the Secretary of State, shall provide to Congress, by not later than 2 years after January 12, 2007, and every 2 years thereafter, on June 1 of that year a report that includes—
 
@@ -3095,7 +3095,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 If, at any time, the Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, identifies any nation that warrants inclusion in the list described under subsection (b)(1)(C), due to large scale drift net fishing, the Secretary shall certify that fact to the President. Such certification shall be deemed to be a certification for the purposes of section 1978(a) of title 22.
 
-(Pub. L. 104–43, title VI, § 607, as added Pub. L. 109–479, title IV, § 403(a), Jan. 12, 2007, 120 Stat. 3626; amended Pub. L. 114–81, title I, § 101(i)(1), Nov. 5, 2015, 129 Stat. 655; Pub. L. 114–327, title IV, § 401(b), Dec. 16, 2016, 130 Stat. 1994; Pub. L. 117–328, div. S, title II, § 205(b)(2), Dec. 29, 2022, 136 Stat. 5270.)
+(Pub. L. 104–43, title VI, § 607, as added Pub. L. 109–479, title IV, § 403(a), Jan. 12, 2007, 120 Stat. 3626; amended Pub. L. 114–81, title I, § 101(i)(1), Nov. 5, 2015, 129 Stat. 655; Pub. L. 114–327, title IV, § 401(b), Dec. 16, 2016, 130 Stat. 1994; Pub. L. 117–328, div. S, title II, § 205(b)(2), Dec. 29, 2022, 136 Stat. 5270.)
 
 **Editorial Notes**
 
@@ -3105,13 +3105,13 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 **Amendments**
 
-2022—Pub. L. 117–328, § 205(b)(2), designated existing provisions as subsec. (a), inserted heading, added subsecs. (b) and (c), and realigned margins.
+2022—Pub. L. 117–328, § 205(b)(2), designated existing provisions as subsec. (a), inserted heading, added subsecs. (b) and (c), and realigned margins.
 
 2016—Pub. L. 114–327, in introductory provisions, inserted “on June 1 of that year” after “every 2 years thereafter,”.
 
 2015—Par. (2). Pub. L. 114–81 substituted “that” for “whose vessels”.
 
-### § 1826i. Action to strengthen international fishery management organizations
+### § 1826i. Action to strengthen international fishery management organizations
 
 **(a) In general** The Secretary, in consultation with the Secretary of State, and in cooperation with relevant fishery management councils and any relevant advisory committees, shall take actions to improve the effectiveness of international fishery management organizations, or arrangements made pursuant to an international fishery agreement, in conserving and managing fish stocks under their jurisdiction. These actions shall include—
 
@@ -3149,9 +3149,9 @@ The Secretary, subject to the data confidentiality provisions in section 402 of 
 
 **(2) Exceptions** The data confidentiality provisions in section 402 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881a) shall not apply with respect to this Act—
 
-**(A)** for obligations of the United States to share information under a regional fisheries management organization (as that term is defined by the United Nation’s 1
+**(A)** for obligations of the United States to share information under a regional fisheries management organization (as that term is defined by the United Nation’s 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 Food and Agriculture Organization Agreement on Port State Measures to Prevent, Deter and Eliminate Illegal, Unreported and Unregulated Fishing) of which the United States is a member; or
 
@@ -3171,17 +3171,17 @@ Food and Agriculture Organization Agreement on Port State Measures to Prevent, D
 
 The Secretary may promulgate regulations to implement this section.
 
-(Pub. L. 104–43, title VI, § 608, as added Pub. L. 109–479, title IV, § 403(a), Jan. 12, 2007, 120 Stat. 3627; amended Pub. L. 111–348, title I, § 102(a), Jan. 4, 2011, 124 Stat. 3668; Pub. L. 114–81, title I, § 101(b), Nov. 5, 2015, 129 Stat. 653.)
+(Pub. L. 104–43, title VI, § 608, as added Pub. L. 109–479, title IV, § 403(a), Jan. 12, 2007, 120 Stat. 3627; amended Pub. L. 111–348, title I, § 102(a), Jan. 4, 2011, 124 Stat. 3668; Pub. L. 114–81, title I, § 101(b), Nov. 5, 2015, 129 Stat. 653.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(1), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(1), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
-The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (b)(1), is Pub. L. 109–479, title V, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (b)(1), is Pub. L. 109–479, title V, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 This Act, referred to in subsec. (b)(2), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
 
@@ -3191,25 +3191,25 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 **Amendments**
 
-2015—Pub. L. 114–81 designated existing provisions as subsec. (a), inserted heading and “, or arrangements made pursuant to an international fishery agreement,” after “organizations” in introductory provisions, and added subsecs. (b) to (d).
+2015—Pub. L. 114–81 designated existing provisions as subsec. (a), inserted heading and “, or arrangements made pursuant to an international fishery agreement,” after “organizations” in introductory provisions, and added subsecs. (b) to (d).
 
-2011—Par. (1)(F). Pub. L. 111–348, § 102(a)(1), added subpar. (F).
+2011—Par. (1)(F). Pub. L. 111–348, § 102(a)(1), added subpar. (F).
 
-Par. (2)(C). Pub. L. 111–348, § 102(a)(2), struck out “and” at end.
+Par. (2)(C). Pub. L. 111–348, § 102(a)(2), struck out “and” at end.
 
-Par. (3). Pub. L. 111–348, § 102(a)(4), added par. (3). Former par. (3) redesignated (4).
+Par. (3). Pub. L. 111–348, § 102(a)(4), added par. (3). Former par. (3) redesignated (4).
 
-Par. (4). Pub. L. 111–348, § 102(a)(3), redesignated par. (3) as (4).
+Par. (4). Pub. L. 111–348, § 102(a)(3), redesignated par. (3) as (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Construction**
 
-Pub. L. 111–348, title I, § 104, as added by Pub. L. 115–228, § 2(1), Aug. 2, 2018, 132 Stat. 1628, provided that: “Nothing in this title [see Short Title of 2011 Amendment note set out under section 1801 of this title] or the amendments made by this title shall be construed as affecting, altering, or diminishing in any way the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 302(a)(3) and 304(g) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(3), 1854(g)).”
+Pub. L. 111–348, title I, § 104, as added by Pub. L. 115–228, § 2(1), Aug. 2, 2018, 132 Stat. 1628, provided that: “Nothing in this title [see Short Title of 2011 Amendment note set out under section 1801 of this title] or the amendments made by this title shall be construed as affecting, altering, or diminishing in any way the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 302(a)(3) and 304(g) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(3), 1854(g)).”
 
-[Another section 104 of Pub. L. 111–348 amended section 4107 of this title, prior to repeal by Pub. L. 115–228, § 2(1), Aug. 2, 2018, 132 Stat. 1628.]
+[Another section 104 of Pub. L. 111–348 amended section 4107 of this title, prior to repeal by Pub. L. 115–228, § 2(1), Aug. 2, 2018, 132 Stat. 1628.]
 
-### § 1826j. Illegal, unreported, or unregulated fishing
+### § 1826j. Illegal, unreported, or unregulated fishing
 
 **(a) Identification**
 
@@ -3295,7 +3295,7 @@ Within 3 months after January 12, 2007, the Secretary shall publish a definition
 
 There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
 
-(Pub. L. 104–43, title VI, § 609, as added Pub. L. 109–479, title IV, § 403(a), Jan. 12, 2007, 120 Stat. 3628; amended Pub. L. 111–348, title I, § 102(b), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, § 101(c), (e), (g)(1), (2), (i)(2)–(4), Nov. 5, 2015, 129 Stat. 654, 655; Pub. L. 114–327, title IV, § 401(c), Dec. 16, 2016, 130 Stat. 1995; Pub. L. 117–263, div. K, title CXIII, § 11337, Dec. 23, 2022, 136 Stat. 4102; Pub. L. 117–328, div. S, title IV, § 401(1), Dec. 29, 2022, 136 Stat. 5274.)
+(Pub. L. 104–43, title VI, § 609, as added Pub. L. 109–479, title IV, § 403(a), Jan. 12, 2007, 120 Stat. 3628; amended Pub. L. 111–348, title I, § 102(b), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, § 101(c), (e), (g)(1), (2), (i)(2)–(4), Nov. 5, 2015, 129 Stat. 654, 655; Pub. L. 114–327, title IV, § 401(c), Dec. 16, 2016, 130 Stat. 1995; Pub. L. 117–263, div. K, title CXIII, § 11337, Dec. 23, 2022, 136 Stat. 4102; Pub. L. 117–328, div. S, title IV, § 401(1), Dec. 29, 2022, 136 Stat. 5274.)
 
 **Editorial Notes**
 
@@ -3303,7 +3303,7 @@ There are authorized to be appropriated to the Secretary for fiscal years 2007 t
 
 Section 11329 of the Don Young Coast Guard Authorization Act of 2022, referred to in subsec. (a)(2)(D), is section 11329 of div. K of Pub. L. 117–263, which is set out as a note under section 1885a of this title.
 
-The Trafficking Victims Protection Act of 2000, referred to in subsec. (a)(2)(D), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 22 and Tables.
+The Trafficking Victims Protection Act of 2000, referred to in subsec. (a)(2)(D), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 22 and Tables.
 
 This Act, referred to in subsecs. (a)(3) and (e)(1), (2), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
 
@@ -3313,33 +3313,33 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 **Amendments**
 
-2022—Subsec. (a)(2). Pub. L. 117–263, § 11337(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Taking into account the factors described under subsection (a)(1), the Secretary shall also identify, and list in such report, a nation—
+2022—Subsec. (a)(2). Pub. L. 117–263, § 11337(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Taking into account the factors described under subsection (a)(1), the Secretary shall also identify, and list in such report, a nation—
 
 “(A) if it is violating, or has violated at any point during the preceding 3 years, conservation and management measures required under an international fishery management agreement to which the United States is a party and the violations undermine the effectiveness of such measures; or
 
 “(B) if it is failing, or has failed in the preceding 3-year period, to effectively address or regulate illegal, unreported, or unregulated fishing in areas described under paragraph (1)(B).”
 
-Subsec. (a)(4). Pub. L. 117–263, § 11337(a)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 117–263, § 11337(a)(2), added par. (4).
 
-Subsec. (d)(3). Pub. L. 117–263, § 11337(b)(1), added par. (3) and struck out former par. (3) which related to effect of certification.
+Subsec. (d)(3). Pub. L. 117–263, § 11337(b)(1), added par. (3) and struck out former par. (3) which related to effect of certification.
 
-Subsecs. (e) to (g). Pub. L. 117–328, § 401(1), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to recordkeeping requirements.
+Subsecs. (e) to (g). Pub. L. 117–328, § 401(1), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to recordkeeping requirements.
 
-Pub. L. 117–263, § 11337(b)(2), (3), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+Pub. L. 117–263, § 11337(b)(2), (3), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 2016—Subsec. (a)(1). Pub. L. 114–327 substituted “any fishing vessel of that nation is engaged, or has” for “fishing vessels of that nation are engaged, or have” in introductory provisions.
 
-2015—Subsec. (a). Pub. L. 114–81, § 101(g)(1), (2), designated existing provisions as par. (1), inserted heading, and, in introductory provisions, inserted “, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations,” after “shall” and substituted “3 years” for “2 years”; redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and, in subpar. (A), inserted “that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether” before “the relevant” and struck out “vessels of” after “activity by”; and added pars. (2) and (3).
+2015—Subsec. (a). Pub. L. 114–81, § 101(g)(1), (2), designated existing provisions as par. (1), inserted heading, and, in introductory provisions, inserted “, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations,” after “shall” and substituted “3 years” for “2 years”; redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and, in subpar. (A), inserted “that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether” before “the relevant” and struck out “vessels of” after “activity by”; and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 114–81, § 101(c), amended subsec. (b) generally. Prior to amendment, text read as follows: “An identification under subsection (a) or section 1826k(a) of this title is deemed to be an identification under section 1826a(b)(1)(A) of this title, and the Secretary shall notify the President and that nation of such identification.”
+Subsec. (b). Pub. L. 114–81, § 101(c), amended subsec. (b) generally. Prior to amendment, text read as follows: “An identification under subsection (a) or section 1826k(a) of this title is deemed to be an identification under section 1826a(b)(1)(A) of this title, and the Secretary shall notify the President and that nation of such identification.”
 
-Subsec. (d)(1). Pub. L. 114–81, § 101(i)(2), struck out “of its fishing vessels” after “offending activities” in introductory provisions.
+Subsec. (d)(1). Pub. L. 114–81, § 101(i)(2), struck out “of its fishing vessels” after “offending activities” in introductory provisions.
 
-Subsec. (d)(1)(A). Pub. L. 114–81, § 101(i)(3), struck out “of its fishing vessels” after “offending activities”.
+Subsec. (d)(1)(A). Pub. L. 114–81, § 101(i)(3), struck out “of its fishing vessels” after “offending activities”.
 
-Subsec. (d)(2). Pub. L. 114–81, § 101(i)(4), in introductory provisions, substituted “to authorize” for “for certification”, inserted “the importation” after “or other basis”, struck out “harvesting” before “nation”, and substituted “issued a negative certification under paragraph (1)” for “not certified under paragraph (1)”.
+Subsec. (d)(2). Pub. L. 114–81, § 101(i)(4), in introductory provisions, substituted “to authorize” for “for certification”, inserted “the importation” after “or other basis”, struck out “harvesting” before “nation”, and substituted “issued a negative certification under paragraph (1)” for “not certified under paragraph (1)”.
 
-Subsec. (d)(3)(A)(i). Pub. L. 114–81, § 101(e), struck out “that has not been certified by the Secretary under this subsection, or” after “subsection (a)”.
+Subsec. (d)(3)(A)(i). Pub. L. 114–81, § 101(e), struck out “that has not been certified by the Secretary under this subsection, or” after “subsection (a)”.
 
 2011—Subsec. (e)(3)(A). Pub. L. 111–348 substituted “bycatch reduction requirements, and shark conservation measures;” for “and bycatch reduction requirements;”.
 
@@ -3349,7 +3349,7 @@ Subsec. (d)(3)(A)(i). Pub. L. 114–81, § 101(e), struck out “that has not 
 
 Nothing in amendment by Pub. L. 111–348 to be construed as affecting, altering, or diminishing the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 1852(a)(3) and 1854(g) of this title, see section 104 of Pub. L. 111–348, set out as a note under section 1826i of this title.
 
-### § 1826k. Equivalent conservation measures
+### § 1826k. Equivalent conservation measures
 
 **(a) Identification**
 
@@ -3433,7 +3433,7 @@ The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title
 
 There are authorized to be appropriated to the Secretary for fiscal years 2007 through 2013 such sums as are necessary to carry out this section.
 
-(Pub. L. 104–43, title VI, § 610, as added Pub. L. 109–479, title IV, § 403(a), Jan. 12, 2007, 120 Stat. 3630; amended Pub. L. 111–348, title I, § 102(c)(1), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, § 101(d), (f), (g)(3), (i)(5), Nov. 5, 2015, 129 Stat. 654, 655; Pub. L. 114–327, title IV, § 401(d), Dec. 16, 2016, 130 Stat. 1995; Pub. L. 117–263, div. K, title CXIII, § 11338, Dec. 23, 2022, 136 Stat. 4103; Pub. L. 117–328, div. S, title IV, § 401(2), Dec. 29, 2022, 136 Stat. 5274.)
+(Pub. L. 104–43, title VI, § 610, as added Pub. L. 109–479, title IV, § 403(a), Jan. 12, 2007, 120 Stat. 3630; amended Pub. L. 111–348, title I, § 102(c)(1), Jan. 4, 2011, 124 Stat. 3669; Pub. L. 114–81, title I, § 101(d), (f), (g)(3), (i)(5), Nov. 5, 2015, 129 Stat. 654, 655; Pub. L. 114–327, title IV, § 401(d), Dec. 16, 2016, 130 Stat. 1995; Pub. L. 117–263, div. K, title CXIII, § 11338, Dec. 23, 2022, 136 Stat. 4103; Pub. L. 117–328, div. S, title IV, § 401(2), Dec. 29, 2022, 136 Stat. 5274.)
 
 **Editorial Notes**
 
@@ -3443,15 +3443,15 @@ This Act, referred to in subsec. (b)(1), (2), probably means title VI of Pub. L.
 
 Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (c)(5), was in the original “section 101(a) and section 101(b)(3) and (4) of this Act (16 U.S.C. 1826a(a), (b)(3), and (b)(4))” and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (e)(1)(A), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (e)(1)(A), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (e)(1)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (e)(1)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 The Shark Finning Prohibition Act, referred to in subsec. (e)(1)(C), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under section 1822 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Atlantic Tunas Convention Act, referred to in subsec. (e)(2), probably means the Atlantic Tunas Convention Act of 1975, Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+The Atlantic Tunas Convention Act, referred to in subsec. (e)(2), probably means the Atlantic Tunas Convention Act of 1975, Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
 **Codification**
 
@@ -3459,35 +3459,35 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 11338(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to identification of nations with certain fishing activities that resulted in bycatch of protected living marine resources and that targeted or incidentally caught sharks.
+2022—Subsec. (a). Pub. L. 117–263, § 11338(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to identification of nations with certain fishing activities that resulted in bycatch of protected living marine resources and that targeted or incidentally caught sharks.
 
-Subsec. (b). Pub. L. 117–263, § 11338(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to consultation and negotiation with foreign governments regarding bilateral and multilateral treaties and agreements to protect certain species.
+Subsec. (b). Pub. L. 117–263, § 11338(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to consultation and negotiation with foreign governments regarding bilateral and multilateral treaties and agreements to protect certain species.
 
-Subsec. (b)(3), (4). Pub. L. 117–328, § 401(2)(A), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “seek agreements calling for international restrictions on fishing activities or practices described in subsection (a) through the United Nations, the Committee on Fisheries of the Food and Agriculture Organization of the United Nations, and appropriate international fishery management bodies; and”.
+Subsec. (b)(3), (4). Pub. L. 117–328, § 401(2)(A), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “seek agreements calling for international restrictions on fishing activities or practices described in subsection (a) through the United Nations, the Committee on Fisheries of the Food and Agriculture Organization of the United Nations, and appropriate international fishery management bodies; and”.
 
-Subsec. (c)(2). Pub. L. 117–263, § 11338(c)(1), inserted “the public and” after “comment by”.
+Subsec. (c)(2). Pub. L. 117–263, § 11338(c)(1), inserted “the public and” after “comment by”.
 
-Subsec. (c)(4)(C). Pub. L. 117–328, § 401(2)(B), struck out subpar. (C) which read as follows: “ensure that any such fish or fish products authorized for entry under this section are imported consistent with the reporting and the recordkeeping requirements of the Seafood Import Monitoring Program established in subpart Q of part 300 of title 50, Code of Federal Regulations (or any successor regulation).”
+Subsec. (c)(4)(C). Pub. L. 117–328, § 401(2)(B), struck out subpar. (C) which read as follows: “ensure that any such fish or fish products authorized for entry under this section are imported consistent with the reporting and the recordkeeping requirements of the Seafood Import Monitoring Program established in subpart Q of part 300 of title 50, Code of Federal Regulations (or any successor regulation).”
 
-Pub. L. 117–263, § 11338(c)(2), added subpar. (C).
+Pub. L. 117–263, § 11338(c)(2), added subpar. (C).
 
-Subsec. (c)(5). Pub. L. 117–263, § 11338(c)(3), struck out “(except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing)” after “section 1826a(b)(3) and (4) of this title”.
+Subsec. (c)(5). Pub. L. 117–263, § 11338(c)(3), struck out “(except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing)” after “section 1826a(b)(3) and (4) of this title”.
 
-Subsec. (e)(1). Pub. L. 117–263, § 11338(d), added par. (1) and struck out former par. (1) which read as follows: “means non-target fish, sea turtles, or marine mammals that are protected under United States law or international agreement, including the Marine Mammal Protection Act, the Endangered Species Act, the Shark Finning Prohibition Act, and the Convention on International Trade in Endangered Species of Wild Flora and Fauna; but”.
+Subsec. (e)(1). Pub. L. 117–263, § 11338(d), added par. (1) and struck out former par. (1) which read as follows: “means non-target fish, sea turtles, or marine mammals that are protected under United States law or international agreement, including the Marine Mammal Protection Act, the Endangered Species Act, the Shark Finning Prohibition Act, and the Convention on International Trade in Endangered Species of Wild Flora and Fauna; but”.
 
 2016—Subsec. (a)(2)(A). Pub. L. 114–327 substituted “3 years” for “calendar year”.
 
-2015—Subsec. (a)(1)(A). Pub. L. 114–81, § 101(g)(3), (i)(5)(A), substituted “3 years” for “calendar year” and “practices—” for “practices;” in introductory provisions.
+2015—Subsec. (a)(1)(A). Pub. L. 114–81, § 101(g)(3), (i)(5)(A), substituted “3 years” for “calendar year” and “practices—” for “practices;” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 114–81, § 101(d), amended par. (1) generally. Prior to amendment, text read as follows: “notify, as soon as possible, other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of sections 1826d to 1826k of this title;”.
+Subsec. (b)(1). Pub. L. 114–81, § 101(d), amended par. (1) generally. Prior to amendment, text read as follows: “notify, as soon as possible, other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of sections 1826d to 1826k of this title;”.
 
-Subsec. (c)(4). Pub. L. 114–81, § 101(i)(5)(B), added introductory provisions and subpar. (A) and struck out former introductory provisions and subpar. (A) which related to alternative procedure for certification of fish or fish products from a vessel of a harvesting nation not certified under paragraph (3).
+Subsec. (c)(4). Pub. L. 114–81, § 101(i)(5)(B), added introductory provisions and subpar. (A) and struck out former introductory provisions and subpar. (A) which related to alternative procedure for certification of fish or fish products from a vessel of a harvesting nation not certified under paragraph (3).
 
-Subsec. (c)(5). Pub. L. 114–81, § 101(f), struck out “that has not been certified by the Secretary under this subsection, or” after “subsection (a)”.
+Subsec. (c)(5). Pub. L. 114–81, § 101(f), struck out “that has not been certified by the Secretary under this subsection, or” after “subsection (a)”.
 
-2011—Subsec. (a). Pub. L. 111–348, § 102(c)(1)(A), struck out “, a nation if” after “section 1826h of this title” in introductory provisions.
+2011—Subsec. (a). Pub. L. 111–348, § 102(c)(1)(A), struck out “, a nation if” after “section 1826h of this title” in introductory provisions.
 
-Pub. L. 111–348, § 102(c)(1)(B)–(G), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, inserted “(1) a nation if—” before subpar. (A), as so redesignated, redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, realigned margins, and added par. (2).
+Pub. L. 111–348, § 102(c)(1)(B)–(G), redesignated pars. (1) to (3) as subpars. (A) to (C), respectively, realigned margins, inserted “(1) a nation if—” before subpar. (A), as so redesignated, redesignated former subpars. (A) and (B) of par. (1) as cls. (i) and (ii) of subpar. (A), respectively, realigned margins, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3497,9 +3497,9 @@ Nothing in section 102(c) of Pub. L. 111–348 (amending this section and enacti
 
 **Initial Identifications**
 
-Pub. L. 111–348, title I, § 102(c)(2), Jan. 4, 2011, 124 Stat. 3669, provided that: “The Secretary of Commerce shall begin making identifications under paragraph (2) of section 610(a) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826k(a)), as added by paragraph (1)(G), not later than 1 year after the date of the enactment of this Act [Jan. 4, 2011].”
+Pub. L. 111–348, title I, § 102(c)(2), Jan. 4, 2011, 124 Stat. 3669, provided that: “The Secretary of Commerce shall begin making identifications under paragraph (2) of section 610(a) of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826k(a)), as added by paragraph (1)(G), not later than 1 year after the date of the enactment of this Act [Jan. 4, 2011].”
 
-### § 1827. Observer program regarding certain foreign fishing
+### § 1827. Observer program regarding certain foreign fishing
 
 **(a) Definitions** As used in this section—
 
@@ -3515,7 +3515,7 @@ Pub. L. 111–348, title I, § 102(c)(2), Jan. 4, 2011, 124 Stat. 3669, provid
 
 **(A)** the fishery conservation zone established under section 101 of the Act of 1976 [16 U.S.C. 1811],1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -3553,7 +3553,7 @@ There is established in the Treasury of the United States the Foreign Fishing Ob
 
 The Secretary shall issue such regulations as are necessary or appropriate to carry out this section.
 
-(Pub. L. 96–339, § 2, Sept. 4, 1980, 94 Stat. 1069; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 96–339, § 2, Sept. 4, 1980, 94 Stat. 1069; Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 **Editorial Notes**
 
@@ -3561,7 +3561,7 @@ The Secretary shall issue such regulations as are necessary or appropriate to ca
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Section 101 of the Act of 1976 [16 U.S.C. 1811], referred to in subsec. (b)(1)(A), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, § 101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
+Section 101 of the Act of 1976 [16 U.S.C. 1811], referred to in subsec. (b)(1)(A), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, § 101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
 
 **Codification**
 
@@ -3577,13 +3577,13 @@ Section was not enacted as part of the Magnuson-Stevens Fishery Conservation and
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
+Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided that the amendment made by that section is effective 15 days after Dec. 22, 1980.
 
-### § 1827a. Prohibition on sale of billfish
+### § 1827a. Prohibition on sale of billfish
 
 **(a) Prohibition**
 
@@ -3623,7 +3623,7 @@ For purposes of section 1858(a) of this title, a violation of this section shall
 
 **(2)** does not include the species Xiphias gladius (swordfish).
 
-(Pub. L. 112–183, § 4, Oct. 5, 2012, 126 Stat. 1422; Pub. L. 115–228, § 1, Aug. 2, 2018, 132 Stat. 1628.)
+(Pub. L. 112–183, § 4, Oct. 5, 2012, 126 Stat. 1422; Pub. L. 115–228, § 1, Aug. 2, 2018, 132 Stat. 1628.)
 
 **Editorial Notes**
 
@@ -3639,7 +3639,7 @@ Section was enacted as part of the Billfish Conservation Act of 2012 and not as 
 
 **Findings**
 
-Pub. L. 112–183, § 2, Oct. 5, 2012, 126 Stat. 1422, provided that:
+Pub. L. 112–183, § 2, Oct. 5, 2012, 126 Stat. 1422, provided that:
 
 > “Congress finds the following:
 
@@ -3649,7 +3649,7 @@ Pub. L. 112–183, § 2, Oct. 5, 2012, 126 Stat. 1422, provided that:
 
 > **“(3)** Ending the importation of foreign-caught billfish for sale in the United States aligns with U.S. management measures of billfish and protects the significant economic benefits to the U.S. economy of recreational fishing and marine commerce and the traditional cultural fisheries.”
 
-### § 1828. Foreign fishing incursions
+### § 1828. Foreign fishing incursions
 
 **(a) In general**
 
@@ -3665,7 +3665,7 @@ Not later than 180 days after July 11, 2006, the Secretary of the department in 
 
 The Secretary shall provide biannual reports updating the Coast Guard’s progress in detecting or interdicting such incursions to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-(Pub. L. 109–241, title VIII, § 804, July 11, 2006, 120 Stat. 563.)
+(Pub. L. 109–241, title VIII, § 804, July 11, 2006, 120 Stat. 563.)
 
 **Editorial Notes**
 
@@ -3677,9 +3677,9 @@ Section was enacted as part of the Coast Guard and Maritime Transportation Act o
 
 **Combination of Fisheries Enforcement Plans and Foreign Fishing Incursion Reports**
 
-Pub. L. 111–207, § 4(b), July 27, 2010, 124 Stat. 2251, as amended by Pub. L. 113–281, title II, § 221(a)(5), Dec. 18, 2014, 128 Stat. 3037, provided that: “The Secretary of the department in which the Coast Guard is operating shall combine the reports required under section 224 of the Coast Guard and Maritime Transportation Act of 2004 (16 U.S.C. 1861b) and section 804 of the Coast Guard and Maritime Transportation Act of 2006 (16 U.S.C. 1828) into a single annual report for fiscal years beginning after fiscal year 2010. No report shall be required under this subsection, including that no report shall be required under section 224 of the Coast Guard and Maritime Transportation Act of 2004 or section 804 of the Coast Guard and Maritime Transportation Act of 2006, for fiscal years beginning after fiscal year 2014.”
+Pub. L. 111–207, § 4(b), July 27, 2010, 124 Stat. 2251, as amended by Pub. L. 113–281, title II, § 221(a)(5), Dec. 18, 2014, 128 Stat. 3037, provided that: “The Secretary of the department in which the Coast Guard is operating shall combine the reports required under section 224 of the Coast Guard and Maritime Transportation Act of 2004 (16 U.S.C. 1861b) and section 804 of the Coast Guard and Maritime Transportation Act of 2006 (16 U.S.C. 1828) into a single annual report for fiscal years beginning after fiscal year 2010. No report shall be required under this subsection, including that no report shall be required under section 224 of the Coast Guard and Maritime Transportation Act of 2004 or section 804 of the Coast Guard and Maritime Transportation Act of 2006, for fiscal years beginning after fiscal year 2014.”
 
-### § 1829. International monitoring and compliance
+### § 1829. International monitoring and compliance
 
 **(a) In general**
 
@@ -3701,11 +3701,11 @@ The Secretary may undertake activities to promote improved monitoring and compli
 
 **(7)** support coordinated international efforts to ensure that all large-scale fishing vessels operating on the high seas are required by their flag State to be fitted with vessel monitoring systems no later than December 31, 2008, or earlier if so decided by the relevant flag State or any relevant international fishery management organization.
 
-(Pub. L. 94–265, title II, § 207, as added Pub. L. 109–479, title IV, § 401, Jan. 12, 2007, 120 Stat. 3625.)
+(Pub. L. 94–265, title II, § 207, as added Pub. L. 109–479, title IV, § 401, Jan. 12, 2007, 120 Stat. 3625.)
 
 ## SUBCHAPTER IV—NATIONAL FISHERY MANAGEMENT PROGRAM
 
-### § 1851. National standards for fishery conservation and management
+### § 1851. National standards for fishery conservation and management
 
 **(a) In general** Any fishery management plan prepared, and any regulation promulgated to implement any such plan, pursuant to this subchapter shall be consistent with the following national standards for fishery conservation and management:
 
@@ -3733,7 +3733,7 @@ The Secretary may undertake activities to promote improved monitoring and compli
 
 The Secretary shall establish advisory guidelines (which shall not have the force and effect of law), based on the national standards, to assist in the development of fishery management plans.
 
-(Pub. L. 94–265, title III, § 301, Apr. 13, 1976, 90 Stat. 346; Pub. L. 97–453, § 4, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 98–623, title IV, § 404(3), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 104–297, title I, § 106, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 109–479, title I, § 101(a), Jan. 12, 2007, 120 Stat. 3579.)
+(Pub. L. 94–265, title III, § 301, Apr. 13, 1976, 90 Stat. 346; Pub. L. 97–453, § 4, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 98–623, title IV, § 404(3), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 104–297, title I, § 106, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 109–479, title I, § 101(a), Jan. 12, 2007, 120 Stat. 3579.)
 
 **Editorial Notes**
 
@@ -3745,9 +3745,9 @@ This chapter, referred to in subsec. (a)(8), was in the original “this Act”,
 
 2007—Subsec. (a)(8). Pub. L. 109–479 inserted “by utilizing economic and social data that meet the requirements of paragraph (2),” after “fishing communities”.
 
-1996—Subsec. (a)(5). Pub. L. 104–297, § 106(a), substituted “consider efficiency” for “promote efficiency”.
+1996—Subsec. (a)(5). Pub. L. 104–297, § 106(a), substituted “consider efficiency” for “promote efficiency”.
 
-Subsec. (a)(8) to (10). Pub. L. 104–297, § 106(b), added pars. (8) to (10).
+Subsec. (a)(8) to (10). Pub. L. 104–297, § 106(b), added pars. (8) to (10).
 
 1984—Subsec. (a)(1). Pub. L. 98–623 inserted “for the United States fishing industry”.
 
@@ -3757,11 +3757,11 @@ Subsec. (a)(8) to (10). Pub. L. 104–297, § 106(b), added pars. (8) to (10).
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–146, § 1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act [repealing section 757g of this title, amending provisions set out as notes under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under this section] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
+Pub. L. 105–146, § 1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act [repealing section 757g of this title, amending provisions set out as notes under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under this section] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
 
 **Limitation on Funding for Fishery Management Plan for the Reef Fish Resources of the Gulf of Mexico**
 
-Pub. L. 115–31, div. B, title I, § 110, May 5, 2017, 131 Stat. 191, provided that: “None of the funds appropriated or otherwise made available in this or any other Act, with respect to any fiscal year, may be used in contravention of section 110 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2016 (Public Law 114–113) [129 Stat. 2295].”
+Pub. L. 115–31, div. B, title I, § 110, May 5, 2017, 131 Stat. 191, provided that: “None of the funds appropriated or otherwise made available in this or any other Act, with respect to any fiscal year, may be used in contravention of section 110 of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2016 (Public Law 114–113) [129 Stat. 2295].”
 
 **Longline Catcher Processor Subsector Single Fishery Cooperative**
 
@@ -3861,11 +3861,11 @@ Pub. L. 111–335, Dec. 22, 2010, 124 Stat. 3583, provided that:
 
 **Gulf of Alaska Rockfish Demonstration Program**
 
-Pub. L. 108–199, div. B, title VIII, § 802, Jan. 23, 2004, 118 Stat. 110, as amended by Pub. L. 109–479, title II, § 218, Jan. 12, 2007, 120 Stat. 3621, which directed the Secretary of Commerce to establish a pilot program for management of pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in the Central Gulf of Alaska, expired Dec. 31, 2011. See 76 F.R. 81248.
+Pub. L. 108–199, div. B, title VIII, § 802, Jan. 23, 2004, 118 Stat. 110, as amended by Pub. L. 109–479, title II, § 218, Jan. 12, 2007, 120 Stat. 3621, which directed the Secretary of Commerce to establish a pilot program for management of pacific ocean perch, northern rockfish, and pelagic shelf rockfish harvested in the Central Gulf of Alaska, expired Dec. 31, 2011. See 76 F.R. 81248.
 
 **Implementation of Steller Sea Lion Protective Measures**
 
-Pub. L. 106–554, § 1(a)(4) [div. A, § 209], Dec. 21, 2000, 114 Stat. 2763, 2763A–176, provided that:
+Pub. L. 106–554, § 1(a)(4) [div. A, § 209], Dec. 21, 2000, 114 Stat. 2763, 2763A–176, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -3943,7 +3943,7 @@ Pub. L. 106–554, § 1(a)(4) [div. A, § 209], Dec. 21, 2000, 114 Stat. 276
 
 **Limitation on Fishing Permits**
 
-Pub. L. 105–277, div. A, § 101(b) [title VI, § 617], Oct. 21, 1998, 112 Stat. 2681–50, 2681–115, as amended by Pub. L. 106–31, title III, § 3025, May 21, 1999, 113 Stat. 100, provided that:
+Pub. L. 105–277, div. A, § 101(b) [title VI, § 617], Oct. 21, 1998, 112 Stat. 2681–50, 2681–115, as amended by Pub. L. 106–31, title III, § 3025, May 21, 1999, 113 Stat. 100, provided that:
 
 > **“(a)** None of the funds made available in this Act or any other Act hereafter enacted may be used to issue or renew a fishing permit or authorization for any fishing vessel of the United States greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower as specified in the permit application required under part 648.4(a)(5) of title 50, Code of Federal Regulations, part 648.12 of title 50, Code of Federal Regulations, and the authorization required under part 648.80(d)(2) of title 50, Code of Federal Regulations, to engage in fishing for Atlantic mackerel or herring (or both) under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), unless the regional fishery management council of jurisdiction recommends after October 21, 1998, and the Secretary of Commerce approves, conservation and management measures in accordance with such Act to allow such vessel to engage in fishing for Atlantic mackerel or herring (or both).
 
@@ -3951,9 +3951,9 @@ Pub. L. 105–277, div. A, § 101(b) [title VI, § 617], Oct. 21, 1998, 112 
 
 **Bering Sea Pollock Fishery**
 
-Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8434, Jan. 1, 2021, 134 Stat. 4735, provided that: “Notwithstanding section 208(g)(5) of the American Fisheries Act (Public Law 105–277; 16 U.S.C. 1851 note), a vessel eligible under section 208(e)(21) of such Act that is replaced under section 208(g) of such Act shall be subject to a sideboard restriction catch limit of zero metric tons in the Bering Sea and Aleutian Islands and in the Gulf of Alaska unless that vessel is also a replacement vessel under section 679.4(*o*)(4) of title 50, Code of Federal Regulations, in which case such vessel shall not be eligible to be a catcher/processor under section 206(b)(2) of such Act.”
+Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8434, Jan. 1, 2021, 134 Stat. 4735, provided that: “Notwithstanding section 208(g)(5) of the American Fisheries Act (Public Law 105–277; 16 U.S.C. 1851 note), a vessel eligible under section 208(e)(21) of such Act that is replaced under section 208(g) of such Act shall be subject to a sideboard restriction catch limit of zero metric tons in the Bering Sea and Aleutian Islands and in the Gulf of Alaska unless that vessel is also a replacement vessel under section 679.4(*o*)(4) of title 50, Code of Federal Regulations, in which case such vessel shall not be eligible to be a catcher/processor under section 206(b)(2) of such Act.”
 
-Pub. L. 108–199, div. B, title VIII, § 803, Jan. 23, 2004, 118 Stat. 110, provided that:
+Pub. L. 108–199, div. B, title VIII, § 803, Jan. 23, 2004, 118 Stat. 110, provided that:
 
 > **“(a) Aleutian Islands Pollock Allocation.—** Effective January 1, 2004 and thereafter, the directed pollock fishery in the Aleutian Islands Subarea [AI] of the BSAI (as defined in 50 CFR 679.2) shall be allocated to the Aleut Corporation (incorporated pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)). Except with the permission of the Aleut Corporation or its authorized agent, the fishing or processing of any part of such allocation shall be prohibited by section 307 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857), subject to the penalties and sanctions under section 308 of such Act (16 U.S.C. 1858), and subject to the forfeiture of any fish harvested or processed.
 
@@ -3963,7 +3963,7 @@ Pub. L. 108–199, div. B, title VIII, § 803, Jan. 23, 2004, 118 Stat. 110, p
 
 > **“(d) Management and Allocation.—** For the purposes of this section, the North Pacific Fishery Management Council shall recommend and the Secretary shall approve an allocation under subsection (a) to the Aleut Corporation for the purposes of economic development in Adak, Alaska pursuant to the requirements of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).”
 
-Pub. L. 105–277, div. C, title II, subtitle II, Oct. 21, 1998, 112 Stat. 2681–621, as amended by Pub. L. 106–31, title III, § 3027(a)(2)–(7), May 21, 1999, 113 Stat. 101; Pub. L. 107–20, title II, § 2202(e)(1), July 24, 2001, 115 Stat. 170; Pub. L. 107–77, title II, § 211, Nov. 28, 2001, 115 Stat. 779; Pub. L. 107–206, title I, § 1103, Aug. 2, 2002, 116 Stat. 884; Pub. L. 111–281, title VI, § 602(b)(1), (3), Oct. 15, 2010, 124 Stat. 2960, 2961, provided that:
+Pub. L. 105–277, div. C, title II, subtitle II, Oct. 21, 1998, 112 Stat. 2681–621, as amended by Pub. L. 106–31, title III, § 3027(a)(2)–(7), May 21, 1999, 113 Stat. 101; Pub. L. 107–20, title II, § 2202(e)(1), July 24, 2001, 115 Stat. 170; Pub. L. 107–77, title II, § 211, Nov. 28, 2001, 115 Stat. 779; Pub. L. 107–206, title I, § 1103, Aug. 2, 2002, 116 Stat. 884; Pub. L. 111–281, title VI, § 602(b)(1), (3), Oct. 15, 2010, 124 Stat. 2960, 2961, provided that:
 
 > **“SEC. 205. DEFINITIONS.**
 
@@ -4427,29 +4427,29 @@ Pub. L. 105–277, div. C, title II, subtitle II, Oct. 21, 1998, 112 Stat. 2681�
 
 > **“(g) International Agreements.—** In the event that any provision of section 12102(c) [now 12113(b)(2) to (d)] or section 31322(a) of title 46, United States Code, as amended by this Act, is determined to be inconsistent with an existing international agreement relating to foreign investment to which the United States is a party with respect to the owner or mortgagee on [sic] of a vessel with a fishery endorsement, such provision shall not apply to that owner or mortgagee with respect to their ownership or mortgage interest in such vessel on that date to the extent of any such inconsistency. The provisions of section 12102(c) [now 12113(b)(2) to (d)] and section 31322(a) of title 46, United States Code, as amended by this Act, shall apply to all subsequent owners and mortgagees of such vessel, and shall apply, notwithstanding the preceding sentence, to the owner on [sic] of such vessel if any ownership interest in that owner is transferred to or otherwise acquired by a foreign individual or entity after or if the percentage of foreign ownership in the vessel is increased after the effective date of this subsection [July 24, 2001].”
 
-[Pub. L. 107–20, title II, § 2202(e)(2), July 24, 2001, 115 Stat. 170, provided that: “Section 213(g) of the American Fisheries Act (Public Law 105–277, division C, title II) [set out above] shall take effect on the date of enactment of this Act [July 24, 2001].” ]
+[Pub. L. 107–20, title II, § 2202(e)(2), July 24, 2001, 115 Stat. 170, provided that: “Section 213(g) of the American Fisheries Act (Public Law 105–277, division C, title II) [set out above] shall take effect on the date of enactment of this Act [July 24, 2001].” ]
 
 **Restriction on Funding Certain New Fishery Management Plans, Amendments or Regulations**
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II, §§ 208, 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–40, 3009–41, provided that: “None of the funds appropriated under this Act or any other Act henceforth may be used to develop new fishery management plans, amendments, or regulations which create new individual fishing quota programs (whether such quotas are transferable or not) or to implement any such plans, amendments or regulations approved by a Regional Fishery Management Council or the Secretary after January 4, 1995, until offsetting fees to pay for the cost of administering such plans, amendments, or regulations are expressly authorized under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.). This restriction shall also apply to any program relating to the Gulf of Mexico commercial red snapper fishery that authorizes the consolidation of licenses, permits or endorsements that result in different trip limits for vessels in the same class. This restriction shall not apply in any way to the North Pacific halibut and sablefish, South Atlantic wreckfish, or the Mid-Atlantic surfclam and ocean (including mahogany) quohog individual fishing quota programs. The term ‘individual fishing quota’ does not include a community development quota.”
+Pub. L. 104–208, div. A, title I, § 101(a) [title II, §§ 208, 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–40, 3009–41, provided that: “None of the funds appropriated under this Act or any other Act henceforth may be used to develop new fishery management plans, amendments, or regulations which create new individual fishing quota programs (whether such quotas are transferable or not) or to implement any such plans, amendments or regulations approved by a Regional Fishery Management Council or the Secretary after January 4, 1995, until offsetting fees to pay for the cost of administering such plans, amendments, or regulations are expressly authorized under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.). This restriction shall also apply to any program relating to the Gulf of Mexico commercial red snapper fishery that authorizes the consolidation of licenses, permits or endorsements that result in different trip limits for vessels in the same class. This restriction shall not apply in any way to the North Pacific halibut and sablefish, South Atlantic wreckfish, or the Mid-Atlantic surfclam and ocean (including mahogany) quohog individual fishing quota programs. The term ‘individual fishing quota’ does not include a community development quota.”
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 104–134, title I, § 101[(a)] [title II, § 210], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; repealed by Pub. L. 104–297, title I, § 108(f)(6), Oct. 11, 1996, 110 Stat. 3579.
+Pub. L. 104–134, title I, § 101[(a)] [title II, § 210], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; repealed by Pub. L. 104–297, title I, § 108(f)(6), Oct. 11, 1996, 110 Stat. 3579.
 
 **Albemarle Sound-Roanoke River Basin: Striped Bass Study**
 
-Pub. L. 100–589, § 5, Nov. 3, 1988, 102 Stat. 2984, related to requirement of biological study of striped bass fishery resources and habitats of Albemarle Sound-Roanoke River basin area and development of short-term and long-term recommendations for restoring and conserving these resources and habitats, prior to repeal by Pub. L. 105–146, § 3(b), Dec. 16, 1997, 111 Stat. 2677.
+Pub. L. 100–589, § 5, Nov. 3, 1988, 102 Stat. 2984, related to requirement of biological study of striped bass fishery resources and habitats of Albemarle Sound-Roanoke River basin area and development of short-term and long-term recommendations for restoring and conserving these resources and habitats, prior to repeal by Pub. L. 105–146, § 3(b), Dec. 16, 1997, 111 Stat. 2677.
 
 **Exclusive Economic Zone: Atlantic Striped Bass Protection**
 
-Pub. L. 100–589, § 6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, § 4, Oct. 17, 1991, 105 Stat. 627; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, directed Secretary of Commerce to regulate fishing for Atlantic striped bass in exclusive economic zone determined to be consistent with national standards set forth in this section, prior to repeal by Pub. L. 105–146, § 3(c), Dec. 16, 1997, 111 Stat. 2677.
+Pub. L. 100–589, § 6(a)–(f), Nov. 3, 1988, 102 Stat. 2986, as amended by Pub. L. 102–130, § 4, Oct. 17, 1991, 105 Stat. 627; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, directed Secretary of Commerce to regulate fishing for Atlantic striped bass in exclusive economic zone determined to be consistent with national standards set forth in this section, prior to repeal by Pub. L. 105–146, § 3(c), Dec. 16, 1997, 111 Stat. 2677.
 
 **Atlantic Striped Bass Conservation**
 
-Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, formerly set out as a note under this section, was transferred to chapter 71A (§ 5151 et seq.) of this title.
+Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, formerly set out as a note under this section, was transferred to chapter 71A (§ 5151 et seq.) of this title.
 
-### § 1852. Regional Fishery Management Councils
+### § 1852. Regional Fishery Management Councils
 
 **(a) Establishment**
 
@@ -4477,9 +4477,9 @@ The Gulf of Mexico Fishery Management Council shall consist of the States of Tex
 
 **(F) Pacific Council**
 
-The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 14 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State), and including one appointed from an Indian tribe with Federally 1
+The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 14 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) (at least one of whom shall be appointed from each such State), and including one appointed from an Indian tribe with Federally 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 recognized fishing rights from California, Oregon, Washington, or Idaho in accordance with subsection (b)(5).
 
@@ -4519,7 +4519,7 @@ The Western Pacific Fishery Management Council shall consist of the States of Ha
 
 **(C)** The Secretary shall appoint the members of each Council from a list of individuals submitted by the Governor of each applicable constituent State. A Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has determined that each such individual is qualified under the requirements of subparagraph (A) and unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the State regarding those individuals. Each such list shall include the names and pertinent biographical data of not less than three individuals for each applicable vacancy and shall be accompanied by a statement by the Governor explaining how each such individual meets the requirements of subparagraph (A). The Secretary shall review each list submitted by a Governor to ascertain if the individuals on the list are qualified for the vacancy on the basis of such requirements. If the Secretary determines that any individual is not qualified, the Secretary shall notify the appropriate Governor of that determination. The Governor shall then submit a revised list or resubmit the original list with an additional explanation of the qualifications of the individual in question. An individual is not eligible for appointment by the Secretary until that individual complies with the applicable financial disclosure requirements under subsection (k).2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(D)**
 
@@ -4547,7 +4547,7 @@ The Western Pacific Fishery Management Council shall consist of the States of Ha
 
 **(5)**
 
-**(A)** The Secretary shall appoint to the Pacific Council one representative of an Indian tribe with Federally <sup>1</sup> recognized fishing rights from California, Oregon, Washington, or Idaho from a list of not less than 3 individuals submitted by the tribal governments. The Secretary, in consultation with the Secretary of the Interior and tribal governments, shall establish by regulation the procedure for submitting a list under this subparagraph.
+**(A)** The Secretary shall appoint to the Pacific Council one representative of an Indian tribe with Federally <sup>1</sup> recognized fishing rights from California, Oregon, Washington, or Idaho from a list of not less than 3 individuals submitted by the tribal governments. The Secretary, in consultation with the Secretary of the Interior and tribal governments, shall establish by regulation the procedure for submitting a list under this subparagraph.
 
 **(B)** Representation shall be rotated among the tribes taking into consideration—
 
@@ -4561,9 +4561,9 @@ The Western Pacific Fishery Management Council shall consist of the States of Ha
 
 **(D)** The tribal representative appointed under subparagraph (A) may designate as an alternate, during the period of the representative’s term, an individual knowledgeable concerning tribal rights, tribal law, and the fishery resources of the geographical area concerned.
 
-**(6)** The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with paragraphs 3
+**(6)** The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with paragraphs 3
 
-<sup>3</sup>  So in original. Probably should be “paragraph”.
+<sup>3</sup> So in original. Probably should be “paragraph”.
 
 (2) or (5) if—
 
@@ -4671,9 +4671,9 @@ The voting members of each Council who are required to be appointed by the Secre
 
 **(4)** submit to the Secretary such periodic reports as the Council deems appropriate, and any other relevant report which may be requested by the Secretary;
 
-**(5)** review on a continuing basis, and revise as appropriate, the assessments and specifications made pursuant to section 1853(a)(3) and (4) of this title with respect to the optimum yield from, the capacity and extent to which United States fish processors will process United States harvested fish from, and the total allowable level of foreign fishing in, each fishery (except as provided in section 4
+**(5)** review on a continuing basis, and revise as appropriate, the assessments and specifications made pursuant to section 1853(a)(3) and (4) of this title with respect to the optimum yield from, the capacity and extent to which United States fish processors will process United States harvested fish from, and the total allowable level of foreign fishing in, each fishery (except as provided in section 4
 
-<sup>4</sup>  So in original. The word “section” probably should not appear.
+<sup>4</sup> So in original. The word “section” probably should not appear.
 
 subsection (a)(3)) within its geographical area of authority;
 
@@ -4719,9 +4719,9 @@ subsection (a)(3)) within its geographical area of authority;
 
 Subparagraphs (D) and (F) of paragraph (2) shall not apply to any meeting or portion thereof that is so closed.
 
-**(B)** If any meeting or portion is closed, the Council concerned shall provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient, including in that notification the time and place of the meeting. This subpararaph 5
+**(B)** If any meeting or portion is closed, the Council concerned shall provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient, including in that notification the time and place of the meeting. This subpararaph 5
 
-<sup>5</sup>  So in original. Probably should be “subparagraph”.
+<sup>5</sup> So in original. Probably should be “subparagraph”.
 
 does not require notification regarding any brief closure of a portion of a meeting in order to discuss employment or other internal administrative matters.
 
@@ -4827,21 +4827,21 @@ Council members appointed after January 12, 2007, shall complete a training cour
 
 The Councils may establish a Council coordination committee consisting of the chairs, vice chairs, and executive directors of each of the 8 Councils described in subsection (a)(1), or other Council members or staff, in order to discuss issues of relevance to all Councils, including issues related to the implementation of this chapter.
 
-(Pub. L. 94–265, title III, § 302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, § 5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, § 234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, § 5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, § 104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§ 108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, § 403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, § 107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, § 1000(a)(1) [title II, § 210], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§ 102, 103, Jan. 12, 2007, 120 Stat. 3579; Pub. L. 115–405, § 102(a), Dec. 31, 2018, 132 Stat. 5357; Pub. L. 117–286, § 4(a)(116), Dec. 27, 2022, 136 Stat. 4318.)
+(Pub. L. 94–265, title III, § 302, Apr. 13, 1976, 90 Stat. 347; Pub. L. 95–354, § 5(1), Aug. 28, 1978, 92 Stat. 521; Pub. L. 96–561, title II, § 234, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, § 5, Jan. 12, 1983, 96 Stat. 2484; Pub. L. 99–659, title I, § 104(a)(1), (b)–(e)(1), Nov. 14, 1986, 100 Stat. 3709, 3710; Pub. L. 101–627, title I, §§ 108(a)–(j), 120(c), Nov. 28, 1990, 104 Stat. 4444–4446, 4459; Pub. L. 102–582, title IV, § 403, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, § 107, Oct. 11, 1996, 110 Stat. 3570; Pub. L. 106–113, div. B, § 1000(a)(1) [title II, § 210], Nov. 29, 1999, 113 Stat. 1535, 1501A–33; Pub. L. 109–479, title I, §§ 102, 103, Jan. 12, 2007, 120 Stat. 3579; Pub. L. 115–405, § 102(a), Dec. 31, 2018, 132 Stat. 5357; Pub. L. 117–286, § 4(a)(116), Dec. 27, 2022, 136 Stat. 4318.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subsection (k), referred to in subsec. (b)(2)(C), was redesignated subsec. (j) of this section by Pub. L. 104–297, title I, § 107(g), Oct. 11, 1996, 110 Stat. 3572.
+Subsection (k), referred to in subsec. (b)(2)(C), was redesignated subsec. (j) of this section by Pub. L. 104–297, title I, § 107(g), Oct. 11, 1996, 110 Stat. 3572.
 
 The General Schedule, referred to in subsec. (d), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 This chapter, referred to in subsecs. (f)(2), (6), (g)(2), (h), (k)(1)(E), and (*l*), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Section 515 of the Treasury and General Government Appropriations Act for Fiscal year 2001, referred to in subsec. (g)(1)(E), is section 1(a)(3) [title V, § 515] of Pub. L. 106–554, which is set out as a note under section 3516 of Title 44, Public Printing and Documents.
+Section 515 of the Treasury and General Government Appropriations Act for Fiscal year 2001, referred to in subsec. (g)(1)(E), is section 1(a)(3) [title V, § 515] of Pub. L. 106–554, which is set out as a note under section 3516 of Title 44, Public Printing and Documents.
 
-The National Environmental Policy Act, referred to in subsec. (k)(1)(F), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act, referred to in subsec. (k)(1)(F), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
@@ -4849,81 +4849,81 @@ The National Environmental Policy Act, referred to in subsec. (k)(1)(F), probabl
 
 2018—Subsec. (h)(8), (9). Pub. L. 115–405 added par. (8) and redesignated former par. (8) as (9).
 
-2007—Subsec. (a)(1)(D). Pub. L. 109–479, § 102, inserted “and of commonwealths, territories, and possessions of the United States in the Caribbean Sea” after “seaward of such States”.
+2007—Subsec. (a)(1)(D). Pub. L. 109–479, § 102, inserted “and of commonwealths, territories, and possessions of the United States in the Caribbean Sea” after “seaward of such States”.
 
-Subsec. (b)(2)(D), (E). Pub. L. 109–479, § 103(j), added subpar. (D) and redesignated former subpar. (D) as (E).
+Subsec. (b)(2)(D), (E). Pub. L. 109–479, § 103(j), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (b)(5)(D). Pub. L. 109–479, § 103(a), added subpar. (D).
+Subsec. (b)(5)(D). Pub. L. 109–479, § 103(a), added subpar. (D).
 
-Subsec. (g). Pub. L. 109–479, § 103(b)(1), substituted “Committees and advisory panels” for “Committees and panels” in heading.
+Subsec. (g). Pub. L. 109–479, § 103(b)(1), substituted “Committees and advisory panels” for “Committees and panels” in heading.
 
-Subsec. (g)(1). Pub. L. 109–479, § 103(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Each Council shall establish and maintain, and appoint the members of, a scientific and statistical committee to assist it in the development, collection, and evaluation of such statistical, biological, economic, social, and other scientific information as is relevant to such Council’s development and amendment of any fishery management plan.”
+Subsec. (g)(1). Pub. L. 109–479, § 103(b)(1), added par. (1) and struck out former par. (1) which read as follows: “Each Council shall establish and maintain, and appoint the members of, a scientific and statistical committee to assist it in the development, collection, and evaluation of such statistical, biological, economic, social, and other scientific information as is relevant to such Council’s development and amendment of any fishery management plan.”
 
-Subsec. (g)(2). Pub. L. 109–479, § 103(b)(2), (3), struck out “other” before “advisory panels” and realigned margins.
+Subsec. (g)(2). Pub. L. 109–479, § 103(b)(2), (3), struck out “other” before “advisory panels” and realigned margins.
 
-Subsec. (g)(3) to (5). Pub. L. 109–479, § 103(b)(3), realigned margins.
+Subsec. (g)(3) to (5). Pub. L. 109–479, § 103(b)(3), realigned margins.
 
-Subsec. (h)(5). Pub. L. 109–479, § 103(c)(1), which directed substitution of “authority;” for “authority, and”, was executed by making the substitution for “authority; and” to reflect the probable intent of Congress.
+Subsec. (h)(5). Pub. L. 109–479, § 103(c)(1), which directed substitution of “authority;” for “authority, and”, was executed by making the substitution for “authority; and” to reflect the probable intent of Congress.
 
-Subsec. (h)(6). Pub. L. 109–479, § 103(c)(3), added par. (6). Former par. (6) redesignated (7).
+Subsec. (h)(6). Pub. L. 109–479, § 103(c)(3), added par. (6). Former par. (6) redesignated (7).
 
-Subsec. (h)(7). Pub. L. 109–479, § 103(d)(1), (3), added par. (7). Former par. (7) redesignated (8).
+Subsec. (h)(7). Pub. L. 109–479, § 103(d)(1), (3), added par. (7). Former par. (7) redesignated (8).
 
-Pub. L. 109–479, § 103(c)(2), redesignated par. (6) as (7).
+Pub. L. 109–479, § 103(c)(2), redesignated par. (6) as (7).
 
-Subsec. (h)(8). Pub. L. 109–479, § 103(d)(2), redesignated par. (7) as (8).
+Subsec. (h)(8). Pub. L. 109–479, § 103(d)(2), redesignated par. (7) as (8).
 
-Subsec. (i)(1). Pub. L. 109–479, § 103(h)(1), substituted “to the Councils, the Council coordination committee established under subsection (*l*), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).” for “to the Councils or to the scientific and statistical committees or advisory panels established under subsection (g) of this section.”
+Subsec. (i)(1). Pub. L. 109–479, § 103(h)(1), substituted “to the Councils, the Council coordination committee established under subsection (*l*), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).” for “to the Councils or to the scientific and statistical committees or advisory panels established under subsection (g) of this section.”
 
-Subsec. (i)(2). Pub. L. 109–479, § 103(h)(2), in introductory provisions, substituted “of a Council, of the Council coordination committee established under subsection (*l*), and of the scientific and statistical committees or other committees or advisory panels established under subsection (g):” for “of a Council, and of the scientific and statistical committee and advisory panels established under subsection (g) of this section:”.
+Subsec. (i)(2). Pub. L. 109–479, § 103(h)(2), in introductory provisions, substituted “of a Council, of the Council coordination committee established under subsection (*l*), and of the scientific and statistical committees or other committees or advisory panels established under subsection (g):” for “of a Council, and of the scientific and statistical committee and advisory panels established under subsection (g) of this section:”.
 
-Subsec. (i)(2)(C). Pub. L. 109–479, § 103(e), substituted “provided by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient.” for “published in local newspapers in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery) and such notice may be given by such other means as will result in wide publicity.”
+Subsec. (i)(2)(C). Pub. L. 109–479, § 103(e), substituted “provided by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient.” for “published in local newspapers in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery) and such notice may be given by such other means as will result in wide publicity.”
 
-Subsec. (i)(3)(A). Pub. L. 109–479, § 103(h)(3), (4), in introductory provisions, inserted “the Council Coordination Committee established under subsection (*l*),” after “Council,” and “other committees,” after “committee,”.
+Subsec. (i)(3)(A). Pub. L. 109–479, § 103(h)(3), (4), in introductory provisions, inserted “the Council Coordination Committee established under subsection (*l*),” after “Council,” and “other committees,” after “committee,”.
 
-Subsec. (i)(3)(B). Pub. L. 109–479, § 103(f), which directed substitution of “provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient,” for “notify local newspapers in the major fishing ports within its region (and in other major, affected fishing ports,”, was executed by making the substitution for text which ended with “ports),” to reflect the probable intent of Congress.
+Subsec. (i)(3)(B). Pub. L. 109–479, § 103(f), which directed substitution of “provide notice by any means that will result in wide publicity in the major fishing ports of the region (and in other major fishing ports having a direct interest in the affected fishery), except that e-mail notification and website postings alone are not sufficient,” for “notify local newspapers in the major fishing ports within its region (and in other major, affected fishing ports,”, was executed by making the substitution for text which ended with “ports),” to reflect the probable intent of Congress.
 
-Subsec. (j)(2). Pub. L. 109–479, § 103(i)(1), (2), in concluding provisions, inserted “lobbying, advocacy,” after “processing,” and substituted “jurisdiction, or with respect to an individual or organization with a financial interest in such activity.” for “jurisdiction.”
+Subsec. (j)(2). Pub. L. 109–479, § 103(i)(1), (2), in concluding provisions, inserted “lobbying, advocacy,” after “processing,” and substituted “jurisdiction, or with respect to an individual or organization with a financial interest in such activity.” for “jurisdiction.”
 
-Subsec. (j)(5)(B). Pub. L. 109–479, § 103(i)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “be kept on file, and made available for public inspection at reasonable hours, at the Council offices; and”.
+Subsec. (j)(5)(B). Pub. L. 109–479, § 103(i)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “be kept on file, and made available for public inspection at reasonable hours, at the Council offices; and”.
 
-Subsec. (j)(9). Pub. L. 109–479, § 103(i)(4), added par. (9).
+Subsec. (j)(9). Pub. L. 109–479, § 103(i)(4), added par. (9).
 
-Subsecs. (k), (*l*). Pub. L. 109–479, § 103(g), added subsecs. (k) and (*l*).
+Subsecs. (k), (*l*). Pub. L. 109–479, § 103(g), added subsecs. (k) and (*l*).
 
 1999—Subsec. (a)(1)(A). Pub. L. 106–113 substituted “18” for “17” and “12” for “11”.
 
-1996—Subsec. (a). Pub. L. 104–297, § 107(a)(1), (2), (6), inserted “(1)” before “There shall be established”, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, adjusted margin of last sentence, and inserted “(2)” before “Each Council”.
+1996—Subsec. (a). Pub. L. 104–297, § 107(a)(1), (2), (6), inserted “(1)” before “There shall be established”, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, adjusted margin of last sentence, and inserted “(2)” before “Each Council”.
 
-Subsec. (a)(1)(A). Pub. L. 104–297, § 107(a)(3), substituted “paragraph (3)” for “section 1854(f)(3) of this title”.
+Subsec. (a)(1)(A). Pub. L. 104–297, § 107(a)(3), substituted “paragraph (3)” for “section 1854(f)(3) of this title”.
 
-Subsec. (a)(1)(B). Pub. L. 104–297, § 107(a)(3), (4), substituted “Virginia, and North Carolina” for “and Virginia”, inserted “North Carolina, and” after “except”, and substituted “paragraph (3)” for “section 1854(f)(3) of this title”, “21 voting” for “19 voting”, and “13 appointed” for “12 appointed”.
+Subsec. (a)(1)(B). Pub. L. 104–297, § 107(a)(3), (4), substituted “Virginia, and North Carolina” for “and Virginia”, inserted “North Carolina, and” after “except”, and substituted “paragraph (3)” for “section 1854(f)(3) of this title”, “21 voting” for “19 voting”, and “13 appointed” for “12 appointed”.
 
-Subsec. (a)(1)(C) to (E). Pub. L. 104–297, § 107(a)(3), substituted “paragraph (3)” for “section 1854(f)(3) of this title”.
+Subsec. (a)(1)(C) to (E). Pub. L. 104–297, § 107(a)(3), substituted “paragraph (3)” for “section 1854(f)(3) of this title”.
 
-Subsec. (a)(1)(F). Pub. L. 104–297, § 107(a)(5), amended heading and text of subpar. (F) generally. Prior to amendment, text read as follows: “The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).”
+Subsec. (a)(1)(F). Pub. L. 104–297, § 107(a)(5), amended heading and text of subpar. (F) generally. Prior to amendment, text read as follows: “The Pacific Fishery Management Council shall consist of the States of California, Oregon, Washington, and Idaho and shall have authority over the fisheries in the Pacific Ocean seaward of such States. The Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section (at least one of whom shall be appointed from each such State).”
 
-Subsec. (a)(3). Pub. L. 104–297, § 107(a)(7), added par. (3).
+Subsec. (a)(3). Pub. L. 104–297, § 107(a)(7), added par. (3).
 
-Subsec. (b)(1)(C). Pub. L. 104–297, § 107(b)(1), substituted “paragraphs (2) and (5)” for “subsection (b)(2) of this section”.
+Subsec. (b)(1)(C). Pub. L. 104–297, § 107(b)(1), substituted “paragraphs (2) and (5)” for “subsection (b)(2) of this section”.
 
-Subsec. (b)(3). Pub. L. 104–297, § 107(b)(1), (2), substituted “paragraphs (2) and (5)” for “subsection (b)(2) of this section” and “Any term in which an individual was appointed to replace a member who left office during the term shall not be counted in determining the number of consecutive terms served by that Council member.” for “Any term completed prior to December 31, 1987, shall not be counted in determining the number of consecutive terms served by any Council member.”
+Subsec. (b)(3). Pub. L. 104–297, § 107(b)(1), (2), substituted “paragraphs (2) and (5)” for “subsection (b)(2) of this section” and “Any term in which an individual was appointed to replace a member who left office during the term shall not be counted in determining the number of consecutive terms served by that Council member.” for “Any term completed prior to December 31, 1987, shall not be counted in determining the number of consecutive terms served by any Council member.”
 
-Subsec. (b)(5), (6). Pub. L. 104–297, § 107(b)(3), added pars. (5) and (6) and struck out former par. (5) which read as follows: “The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with subsection (b)(2) of this section if the Council concerned first recommends removal by not less than two-thirds of the members who are voting members. A removal recommendation of a Council must be in writing and accompanied by a statement of the reasons upon which the recommendation is based.”
+Subsec. (b)(5), (6). Pub. L. 104–297, § 107(b)(3), added pars. (5) and (6) and struck out former par. (5) which read as follows: “The Secretary may remove for cause any member of a Council required to be appointed by the Secretary in accordance with subsection (b)(2) of this section if the Council concerned first recommends removal by not less than two-thirds of the members who are voting members. A removal recommendation of a Council must be in writing and accompanied by a statement of the reasons upon which the recommendation is based.”
 
-Subsec. (d). Pub. L. 104–297, § 107(c), substituted “each Council who are required to be appointed by the Secretary and” for “each Council,” and “shall receive compensation at the daily rate for GS–15, step 7” for “shall, until January 1, 1992, receive compensation at the daily rate for GS–18 of the General Schedule, and after December 31, 1991, at the daily rate for GS–16”.
+Subsec. (d). Pub. L. 104–297, § 107(c), substituted “each Council who are required to be appointed by the Secretary and” for “each Council,” and “shall receive compensation at the daily rate for GS–15, step 7” for “shall, until January 1, 1992, receive compensation at the daily rate for GS–18 of the General Schedule, and after December 31, 1991, at the daily rate for GS–16”.
 
-Subsec. (e)(5). Pub. L. 104–297, § 107(d), added par. (5).
+Subsec. (e)(5). Pub. L. 104–297, § 107(d), added par. (5).
 
-Subsec. (g)(4), (5). Pub. L. 104–297, § 107(e), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (g)(4), (5). Pub. L. 104–297, § 107(e), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (h)(1). Pub. L. 104–297, § 107(f)(1), added par. (1) and struck out former par. (1) which read as follows: “prepare and submit to the Secretary a fishery management plan with respect to each fishery (except as provided in section 1854(f)(3) of this title) within its geographical area of authority that requires conservation and management and, from time to time, such amendments to each such plan as are necessary;”.
+Subsec. (h)(1). Pub. L. 104–297, § 107(f)(1), added par. (1) and struck out former par. (1) which read as follows: “prepare and submit to the Secretary a fishery management plan with respect to each fishery (except as provided in section 1854(f)(3) of this title) within its geographical area of authority that requires conservation and management and, from time to time, such amendments to each such plan as are necessary;”.
 
-Subsec. (h)(2). Pub. L. 104–297, § 107(f)(2), substituted “section 1824(b)(4)(C) of this title or section 1824(d) of this title” for “section 1824(b)(4)(C) of this title” and “section 1854(c)(4)” for “section 1854(c)(2)”.
+Subsec. (h)(2). Pub. L. 104–297, § 107(f)(2), substituted “section 1824(b)(4)(C) of this title or section 1824(d) of this title” for “section 1824(b)(4)(C) of this title” and “section 1854(c)(4)” for “section 1854(c)(2)”.
 
-Subsec. (h)(5). Pub. L. 104–297, § 107(f)(3), substituted “subsection (a)(3)” for “1854(f)(3) of this title”.
+Subsec. (h)(5). Pub. L. 104–297, § 107(f)(3), substituted “subsection (a)(3)” for “1854(f)(3) of this title”.
 
-Subsec. (i). Pub. L. 104–297, § 107(g), redesignated subsec. (j) as (i) and struck out heading and text of former subsec. (i). Text read as follows:
+Subsec. (i). Pub. L. 104–297, § 107(g), redesignated subsec. (j) as (i) and struck out heading and text of former subsec. (i). Text read as follows:
 
 “(1) Each Council—
 
@@ -4933,23 +4933,23 @@ Subsec. (i). Pub. L. 104–297, § 107(g), redesignated subsec. (j) as (i) and
 
 “(2) Within 45 days after receiving a comment or recommendation under paragraph (1) from a Council, a Federal agency shall provide a detailed response, in writing, to the Council regarding the matter. In the case of a comment or recommendation under paragraph (1)(B), the response shall include a description of measures being considered by the agency for mitigating or offsetting the impact of the activity on such habitat.”
 
-Subsec. (i)(1). Pub. L. 104–297, § 107(h)(1), substituted “established under subsection (g) of this section” for “of the Councils”.
+Subsec. (i)(1). Pub. L. 104–297, § 107(h)(1), substituted “established under subsection (g) of this section” for “of the Councils”.
 
-Subsec. (i)(2). Pub. L. 104–297, § 107(h)(2), substituted “established under subsection (g) of this section” for “of a Council” in introductory provisions.
+Subsec. (i)(2). Pub. L. 104–297, § 107(h)(2), substituted “established under subsection (g) of this section” for “of a Council” in introductory provisions.
 
-Subsec. (i)(2)(C). Pub. L. 104–297, § 107(h)(3), (4), struck out “Council’s” after “fishing ports of the” and inserted at end “The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification is to address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.”
+Subsec. (i)(2)(C). Pub. L. 104–297, § 107(h)(3), (4), struck out “Council’s” after “fishing ports of the” and inserted at end “The published agenda of the meeting may not be modified to include additional matters for Council action without public notice or within 14 days prior to the meeting date, unless such modification is to address an emergency action under section 1855(c) of this title, in which case public notice shall be given immediately.”
 
-Subsec. (i)(2)(D). Pub. L. 104–297, § 107(h)(5), inserted at end “All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.”
+Subsec. (i)(2)(D). Pub. L. 104–297, § 107(h)(5), inserted at end “All written information submitted to a Council by an interested person shall include a statement of the source and date of such information. Any oral or written statement shall include a brief description of the background and interests of the person in the subject of the oral or written statement.”
 
-Subsec. (i)(2)(E). Pub. L. 104–297, § 107(h)(6), added subpar. (E) and struck out former subpar. (E) which read as follows: “Minutes of each meeting shall be kept and shall contain a record of the persons present, an accurate description of matters discussed and conclusions reached, and copies of all statements filed.”
+Subsec. (i)(2)(E). Pub. L. 104–297, § 107(h)(6), added subpar. (E) and struck out former subpar. (E) which read as follows: “Minutes of each meeting shall be kept and shall contain a record of the persons present, an accurate description of matters discussed and conclusions reached, and copies of all statements filed.”
 
-Subsec. (i)(2)(F). Pub. L. 104–297, § 107(h)(7)–(9), struck out “by the Council” after “procedures established”, substituted “section 1881a(b)” for “section 1853(d)”, and inserted “or the Secretary, as appropriate” after “of the Council”.
+Subsec. (i)(2)(F). Pub. L. 104–297, § 107(h)(7)–(9), struck out “by the Council” after “procedures established”, substituted “section 1881a(b)” for “section 1853(d)”, and inserted “or the Secretary, as appropriate” after “of the Council”.
 
-Subsec. (i)(4). Pub. L. 104–297, § 107(h)(10), substituted “section 1881a(b)” for “section 1853(d)”.
+Subsec. (i)(4). Pub. L. 104–297, § 107(h)(10), substituted “section 1881a(b)” for “section 1853(d)”.
 
-Subsec. (j). Pub. L. 104–297, § 107(g), (i)(1), redesignated subsec. (k) as (j) and inserted “and recusal” at the end of subsection heading. Former subsec. (j) redesignated (i).
+Subsec. (j). Pub. L. 104–297, § 107(g), (i)(1), redesignated subsec. (k) as (j) and inserted “and recusal” at the end of subsection heading. Former subsec. (j) redesignated (i).
 
-Subsec. (j)(1). Pub. L. 104–297, § 107(i)(2), added par. (1) and struck out former par. (1) which read as follows: “For purposes of this subsection, the term ‘affected individual’ means an individual who—
+Subsec. (j)(1). Pub. L. 104–297, § 107(i)(2), added par. (1) and struck out former par. (1) which read as follows: “For purposes of this subsection, the term ‘affected individual’ means an individual who—
 
 “(A) is nominated by the Governor of a State for appointment as a voting member of a Council in accordance with subsection (b)(2) of this section;
 
@@ -4957,27 +4957,27 @@ Subsec. (j)(1). Pub. L. 104–297, § 107(i)(2), added par. (1) and struck out
 
 “(C) is the executive director of a Council.”
 
-Subsec. (j)(3)(A). Pub. L. 104–297, § 107(i)(3), substituted “(1)(A)(i)” for “(1)(A)”.
+Subsec. (j)(3)(A). Pub. L. 104–297, § 107(i)(3), substituted “(1)(A)(i)” for “(1)(A)”.
 
-Subsec. (j)(3)(B), (4). Pub. L. 104–297, § 107(i)(4), (5), substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
+Subsec. (j)(3)(B), (4). Pub. L. 104–297, § 107(i)(4), (5), substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
 
-Subsec. (j)(5)(C). Pub. L. 104–297, § 107(i)(6), added subpar. (C).
+Subsec. (j)(5)(C). Pub. L. 104–297, § 107(i)(6), added subpar. (C).
 
-Subsec. (j)(6). Pub. L. 104–297, § 107(i)(7), substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
+Subsec. (j)(6). Pub. L. 104–297, § 107(i)(7), substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
 
-Subsec. (j)(7). Pub. L. 104–297, § 107(i)(8), added par. (7). Former par. (7) redesignated (8).
+Subsec. (j)(7). Pub. L. 104–297, § 107(i)(8), added par. (7). Former par. (7) redesignated (8).
 
-Subsec. (j)(8). Pub. L. 104–297, § 107(i)(9), substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
+Subsec. (j)(8). Pub. L. 104–297, § 107(i)(9), substituted “(1)(A)(ii)” for “(1)(B) or (C)”.
 
-Pub. L. 104–297, § 107(i)(8), redesignated par. (7) as (8).
+Pub. L. 104–297, § 107(i)(8), redesignated par. (7) as (8).
 
-Subsec. (k). Pub. L. 104–297, § 107(g), redesignated subsec. (k) as (j).
+Subsec. (k). Pub. L. 104–297, § 107(g), redesignated subsec. (k) as (j).
 
 1992—Subsec. (b)(3). Pub. L. 102–582 substituted “December 31, 1987” for “January 1, 1986”.
 
-1990—Subsec. (a). Pub. L. 101–627, § 108(a), inserted “(except as provided in section 1854(f)(3) of this title)” before period at end of first sentence in pars. (1) to (5).
+1990—Subsec. (a). Pub. L. 101–627, § 108(a), inserted “(except as provided in section 1854(f)(3) of this title)” before period at end of first sentence in pars. (1) to (5).
 
-Subsec. (b)(2). Pub. L. 101–627, § 108(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+Subsec. (b)(2). Pub. L. 101–627, § 108(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(A) The members of each Council required to be appointed by the Secretary must be individuals who are knowledgeable and experienced with regard to the conservation and management, or the recreational or commercial harvest, of the fishery resources of the geographical area concerned. The Secretary, in making appointments under this section, shall, to the extent practicable, ensure a fair apportionment, on a rotating or other basis, of the active participants (or their representatives) involved in the fisheries under Council jurisdiction.
 
@@ -4985,63 +4985,63 @@ Subsec. (b)(2). Pub. L. 101–627, § 108(b), amended par. (2) generally. Prio
 
 “(C) Whenever the Secretary makes an appointment to a Council, he shall make a public announcement of such appointment not less than 45 days before the first day on which the individual is to take office as a member of the Council.”
 
-Subsec. (b)(3). Pub. L. 101–627, § 108(c), inserted at end “No member appointed after January 1, 1986, may serve more than three consecutive terms. Any term completed prior to January 1, 1986, shall not be counted in determining the number of consecutive terms served by any Council member.”
+Subsec. (b)(3). Pub. L. 101–627, § 108(c), inserted at end “No member appointed after January 1, 1986, may serve more than three consecutive terms. Any term completed prior to January 1, 1986, shall not be counted in determining the number of consecutive terms served by any Council member.”
 
-Subsec. (d). Pub. L. 101–627, § 108(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The voting members of each Council, who are not employed by the Federal Government or any State or local government, shall receive compensation at the daily rate for GS–18 of the General Schedule when engaged in the actual performance of duties for such Council. The voting members of each Council, any nonvoting member described in subsection (c)(1)(C) of this section, and the nonvoting member appointed pursuant to subsection (c)(2) of this section shall be reimbursed for actual expenses incurred in the performance of such duties, and other nonvoting members may be reimbursed for actual expenses.”
+Subsec. (d). Pub. L. 101–627, § 108(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The voting members of each Council, who are not employed by the Federal Government or any State or local government, shall receive compensation at the daily rate for GS–18 of the General Schedule when engaged in the actual performance of duties for such Council. The voting members of each Council, any nonvoting member described in subsection (c)(1)(C) of this section, and the nonvoting member appointed pursuant to subsection (c)(2) of this section shall be reimbursed for actual expenses incurred in the performance of such duties, and other nonvoting members may be reimbursed for actual expenses.”
 
-Subsec. (e)(3). Pub. L. 101–627, § 108(e)(1), substituted “at appropriate times and places in any of the constituent States of the Council” for “in the geographical area concerned”.
+Subsec. (e)(3). Pub. L. 101–627, § 108(e)(1), substituted “at appropriate times and places in any of the constituent States of the Council” for “in the geographical area concerned”.
 
-Subsec. (e)(4). Pub. L. 101–627, § 108(e)(2), inserted at end “The regional director of the National Marine Fisheries Service serving on the Council, or the regional director’s designee, shall submit such a statement, which shall be made available to the public upon request, if the regional director disagrees with any such matter.”
+Subsec. (e)(4). Pub. L. 101–627, § 108(e)(2), inserted at end “The regional director of the National Marine Fisheries Service serving on the Council, or the regional director’s designee, shall submit such a statement, which shall be made available to the public upon request, if the regional director disagrees with any such matter.”
 
-Subsec. (g)(3), (4). Pub. L. 101–627, § 108(f), added pars. (3) and (4).
+Subsec. (g)(3), (4). Pub. L. 101–627, § 108(f), added pars. (3) and (4).
 
-Subsec. (h). Pub. L. 101–627, § 108(g), inserted “(except as provided in section 1854(f)(3) of this title)” before “within its geographical” in pars. (1) and (5).
+Subsec. (h). Pub. L. 101–627, § 108(g), inserted “(except as provided in section 1854(f)(3) of this title)” before “within its geographical” in pars. (1) and (5).
 
-Subsec. (i). Pub. L. 101–627, § 108(h), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Each Council may comment on, or make recommendations concerning, any activity undertaken, or proposed to be undertaken, by any State or Federal agency that, in the view of the Council, may affect the habitat of a fishery resource under its jurisdiction. Within 45 days after receiving such a comment or recommendation from a Council, a Federal agency must provide a detailed response, in writing, to the Council regarding the matter.”
+Subsec. (i). Pub. L. 101–627, § 108(h), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “Each Council may comment on, or make recommendations concerning, any activity undertaken, or proposed to be undertaken, by any State or Federal agency that, in the view of the Council, may affect the habitat of a fishery resource under its jurisdiction. Within 45 days after receiving such a comment or recommendation from a Council, a Federal agency must provide a detailed response, in writing, to the Council regarding the matter.”
 
-Subsec. (j)(3)(A). Pub. L. 101–627, § 108(i)(1), substituted period for semicolon in cl. (ii), and in concluding provisions struck out “and if any meeting or portion is closed, the Council, committee, or panel concerned shall publish notice of the closure in local newspapers in the major fishing ports within its region (and in other major, affected fishing ports), including the time and place of the meeting.” before “Subparagraphs (D) and (F)” and inserted “of paragraph (2)” after “Subparagraphs (D) and (F)”.
+Subsec. (j)(3)(A). Pub. L. 101–627, § 108(i)(1), substituted period for semicolon in cl. (ii), and in concluding provisions struck out “and if any meeting or portion is closed, the Council, committee, or panel concerned shall publish notice of the closure in local newspapers in the major fishing ports within its region (and in other major, affected fishing ports), including the time and place of the meeting.” before “Subparagraphs (D) and (F)” and inserted “of paragraph (2)” after “Subparagraphs (D) and (F)”.
 
-Subsec. (j)(3)(B). Pub. L. 101–627, § 108(i)(2), added subpar. (B).
+Subsec. (j)(3)(B). Pub. L. 101–627, § 108(i)(2), added subpar. (B).
 
-Subsec. (j)(4). Pub. L. 101–627, § 120(c), substituted “Council employee” for “council employee”.
+Subsec. (j)(4). Pub. L. 101–627, § 120(c), substituted “Council employee” for “council employee”.
 
-Subsec. (j)(6). Pub. L. 101–627, § 108(j), added par. (6).
+Subsec. (j)(6). Pub. L. 101–627, § 108(j), added par. (6).
 
-1986—Subsec. (b)(2)(A). Pub. L. 99–659, § 104(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The members of each Council required to be appointed by the Secretary must be individuals who are knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest of the fishery resources of the geographical area concerned.”
+1986—Subsec. (b)(2)(A). Pub. L. 99–659, § 104(a)(1)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The members of each Council required to be appointed by the Secretary must be individuals who are knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest of the fishery resources of the geographical area concerned.”
 
-Subsec. (b)(2)(B). Pub. L. 99–659, § 104(a)(1)(B), inserted provision that a Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the state regarding those individuals, substituted “knowledge and experience” for “knowledge or experience”, and inserted provision that an individual is not eligible for appointment by the Secretary until that individual complies with applicable financial disclosure requirements under subsec. (k) of this section.
+Subsec. (b)(2)(B). Pub. L. 99–659, § 104(a)(1)(B), inserted provision that a Governor may not submit the names of individuals to the Secretary for appointment unless the Governor has, to the extent practicable, first consulted with representatives of the commercial and recreational fishing interests of the state regarding those individuals, substituted “knowledge and experience” for “knowledge or experience”, and inserted provision that an individual is not eligible for appointment by the Secretary until that individual complies with applicable financial disclosure requirements under subsec. (k) of this section.
 
-Subsec. (b)(3). Pub. L. 99–659, § 104(a)(1)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Each voting member appointed to a Council by the Secretary in accordance with subsection (b)(2) of this section shall serve for a term of 3 years; except that, with respect to the members initially so appointed, the Secretary shall designate up to one-third thereof to serve for a term of 1 year, up to one-third thereof to serve for a term of 2 years, and the remaining such members to serve for a term of 3 years.”
+Subsec. (b)(3). Pub. L. 99–659, § 104(a)(1)(C), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Each voting member appointed to a Council by the Secretary in accordance with subsection (b)(2) of this section shall serve for a term of 3 years; except that, with respect to the members initially so appointed, the Secretary shall designate up to one-third thereof to serve for a term of 1 year, up to one-third thereof to serve for a term of 2 years, and the remaining such members to serve for a term of 3 years.”
 
-Subsec. (i). Pub. L. 99–659, § 104(b), added subsec. (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 99–659, § 104(b), added subsec. (i). Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 99–659, § 104(b)(1), redesignated former subsec. (i) as (j).
+Subsec. (j). Pub. L. 99–659, § 104(b)(1), redesignated former subsec. (i) as (j).
 
-Subsec. (j)(4). Pub. L. 99–659, § 104(c), substituted “; except that such procedures, in the case of statistics submitted to the Council by a State or by the Secretary under section 1853(d) of this title, must be consistent with the laws and regulations of that State, or with the procedures of the Secretary, as the case may be, concerning the confidentiality of the statistics” for “; except that such procedures must, in the case of statistics submitted to the Council by a State, be consistent with the laws and regulations of that State concerning the confidentiality of such statistics”.
+Subsec. (j)(4). Pub. L. 99–659, § 104(c), substituted “; except that such procedures, in the case of statistics submitted to the Council by a State or by the Secretary under section 1853(d) of this title, must be consistent with the laws and regulations of that State, or with the procedures of the Secretary, as the case may be, concerning the confidentiality of the statistics” for “; except that such procedures must, in the case of statistics submitted to the Council by a State, be consistent with the laws and regulations of that State concerning the confidentiality of such statistics”.
 
-Subsec. (j)(5). Pub. L. 99–659, § 104(d), added par. (5).
+Subsec. (j)(5). Pub. L. 99–659, § 104(d), added par. (5).
 
-Subsec. (k). Pub. L. 99–659, § 104(e)(1), added subsec. (k).
+Subsec. (k). Pub. L. 99–659, § 104(e)(1), added subsec. (k).
 
-1983—Subsec. (a)(1) to (7). Pub. L. 97–453, § 5(1)(A), substituted “in accordance with subsection (b)(2)” for “pursuant to subsection (b)(1)(C)” wherever appearing.
+1983—Subsec. (a)(1) to (7). Pub. L. 97–453, § 5(1)(A), substituted “in accordance with subsection (b)(2)” for “pursuant to subsection (b)(1)(C)” wherever appearing.
 
-Subsec. (a)(8). Pub. L. 97–453, § 5(1)(B), substituted provision that the Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area, for provision that the Western Pacific Fishery Management Council would consist of the State of Hawaii, American Samoa, and Guam and have authority over the fisheries in the Pacific Ocean seaward of such States, and provision that the Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section at least one of whom shall be appointed from each of Hawaii, American Samoa, Guam, and the Northern Mariana Islands, for provision that the Western Pacific Council would have 11 voting members, including 7 appointed by the Secretary pursuant to former subsection (b)(1)(C) of this section (at least one of whom would be appointed from each such State).
+Subsec. (a)(8). Pub. L. 97–453, § 5(1)(B), substituted provision that the Western Pacific Fishery Management Council shall consist of the States of Hawaii, American Samoa, Guam, and the Northern Mariana Islands and shall have authority over the fisheries in the Pacific Ocean seaward of such States and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean area, for provision that the Western Pacific Fishery Management Council would consist of the State of Hawaii, American Samoa, and Guam and have authority over the fisheries in the Pacific Ocean seaward of such States, and provision that the Western Pacific Council shall have 13 voting members, including 8 appointed by the Secretary in accordance with subsection (b)(2) of this section at least one of whom shall be appointed from each of Hawaii, American Samoa, Guam, and the Northern Mariana Islands, for provision that the Western Pacific Council would have 11 voting members, including 7 appointed by the Secretary pursuant to former subsection (b)(1)(C) of this section (at least one of whom would be appointed from each such State).
 
-Subsec. (b)(1)(C). Pub. L. 97–453, § 5(2)(A), substituted reference to subsec. (b)(2) of this section for characterization of the members to be appointed as members of a list of qualified individuals submitted by the Governor of each applicable constituent State, that with respect to initial appointments, such Governors submit such lists to the Secretary as soon as practicable, not later than 45 days after April 13, 1976, that “list of qualified individuals” included the names (including pertinent biographical data) of not less than three such individuals for each applicable vacancy, and that “qualified individual” meant an individual knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest, of the fishery resources of the geographical area concerned.
+Subsec. (b)(1)(C). Pub. L. 97–453, § 5(2)(A), substituted reference to subsec. (b)(2) of this section for characterization of the members to be appointed as members of a list of qualified individuals submitted by the Governor of each applicable constituent State, that with respect to initial appointments, such Governors submit such lists to the Secretary as soon as practicable, not later than 45 days after April 13, 1976, that “list of qualified individuals” included the names (including pertinent biographical data) of not less than three such individuals for each applicable vacancy, and that “qualified individual” meant an individual knowledgeable or experienced with regard to the management, conservation, or recreational or commercial harvest, of the fishery resources of the geographical area concerned.
 
-Subsec. (b)(2) to (5). Pub. L. 97–453, § 5(2)(B)–(E), added pars. (2) and (5), redesignated existing pars. (2) and (3) as (3) and (4), respectively, and in par. (3), as redesignated, substituted “by the Secretary in accordance with subsection (b)(2) of this section” for “pursuant to paragraph (1)(C)” after “appointed to a Council”.
+Subsec. (b)(2) to (5). Pub. L. 97–453, § 5(2)(B)–(E), added pars. (2) and (5), redesignated existing pars. (2) and (3) as (3) and (4), respectively, and in par. (3), as redesignated, substituted “by the Secretary in accordance with subsection (b)(2) of this section” for “pursuant to paragraph (1)(C)” after “appointed to a Council”.
 
-Subsec. (f)(6). Pub. L. 97–453, § 5(3), inserted requirement that the procedures of a Council and associated committees and panels be consistent with the procedural guidelines set forth in subsec. (i)(2).
+Subsec. (f)(6). Pub. L. 97–453, § 5(3), inserted requirement that the procedures of a Council and associated committees and panels be consistent with the procedural guidelines set forth in subsec. (i)(2).
 
-Subsec. (h)(1). Pub. L. 97–453, § 5(4)(A), inserted “that requires conservation and management” after “authority”.
+Subsec. (h)(1). Pub. L. 97–453, § 5(4)(A), inserted “that requires conservation and management” after “authority”.
 
-Subsec. (h)(2). Pub. L. 97–453, § 5(4)(B), substituted “section 1824(b)(4)(C)” for “section 1824(b)(4)(B)”.
+Subsec. (h)(2). Pub. L. 97–453, § 5(4)(B), substituted “section 1824(b)(4)(C)” for “section 1824(b)(4)(B)”.
 
-Subsec. (h)(3). Pub. L. 97–453, § 5(4)(C), inserted parenthetical definition of “geographical area concerned”.
+Subsec. (h)(3). Pub. L. 97–453, § 5(4)(C), inserted parenthetical definition of “geographical area concerned”.
 
-Subsec. (h)(4). Pub. L. 97–453, § 5(4)(D), struck out subpar. (A) which provided for a report, before Feb. 1 of each year, on the Council’s activities during the immediately preceding calendar year, and struck out the subparagraph designators before subpars. (B) and (C).
+Subsec. (h)(4). Pub. L. 97–453, § 5(4)(D), struck out subpar. (A) which provided for a report, before Feb. 1 of each year, on the Council’s activities during the immediately preceding calendar year, and struck out the subparagraph designators before subpars. (B) and (C).
 
-Subsec. (i). Pub. L. 97–453, § 5(5), added subsec. (i).
+Subsec. (i). Pub. L. 97–453, § 5(5), added subsec. (i).
 
 1980—Subsec. (d). Pub. L. 96–561 inserted provision that other nonvoting members may be reimbursed for actual expenses.
 
@@ -5055,7 +5055,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–659, title I, § 104(a)(2), Nov. 14, 1986, 100 Stat. 3709, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to voting members of regional fishery management councils who are appointed, and to individuals who are nominated for appointment as voting members, on or after the date of the enactment of this Act [Nov. 14, 1986].”
+Pub. L. 99–659, title I, § 104(a)(2), Nov. 14, 1986, 100 Stat. 3709, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to voting members of regional fishery management councils who are appointed, and to individuals who are nominated for appointment as voting members, on or after the date of the enactment of this Act [Nov. 14, 1986].”
 
 **Transfer of Functions**
 
@@ -5067,17 +5067,17 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 **Other Fisheries**
 
-Pub. L. 115–405, § 102(c), Dec. 31, 2018, 132 Stat. 5357, provided that: “Nothing in paragraph (8) of section 302(h) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(h)), as added by subsection (a), shall be construed to affect management of any fishery not described in such paragraph (8).”
+Pub. L. 115–405, § 102(c), Dec. 31, 2018, 132 Stat. 5357, provided that: “Nothing in paragraph (8) of section 302(h) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(h)), as added by subsection (a), shall be construed to affect management of any fishery not described in such paragraph (8).”
 
 **Disclosure of Financial Interest by Incumbent Voting Members and Executive Directors**
 
-Pub. L. 99–659, title I, § 104(e)(2), Nov. 14, 1986, 100 Stat. 3711, provided that for purposes of applying subsec. (k) of this section to voting members and executive directors of regional fishery management councils who were serving in those capacities on date on which regulations prescribed to carry out subsec. (k) first took effect, each such member or director must file a disclosure form under subsec. (k) within 45 days after that date.
+Pub. L. 99–659, title I, § 104(e)(2), Nov. 14, 1986, 100 Stat. 3711, provided that for purposes of applying subsec. (k) of this section to voting members and executive directors of regional fishery management councils who were serving in those capacities on date on which regulations prescribed to carry out subsec. (k) first took effect, each such member or director must file a disclosure form under subsec. (k) within 45 days after that date.
 
 **Directions Regarding Fishery Management Council Membership**
 
-Pub. L. 99–659, title I, § 113, Nov. 14, 1986, 100 Stat. 3715, provided that: “Notwithstanding section 302 of the Act (16 U.S.C. 1852) and effective on and after the date of the enactment of this Act [Nov. 14, 1986], the Secretary shall take action to ensure, to the extent practicable, that those persons dependent for their livelihood upon the fisheries within the respective jurisdictions of the Regional Fishery Management Councils are fairly represented as voting members of the Councils.”
+Pub. L. 99–659, title I, § 113, Nov. 14, 1986, 100 Stat. 3715, provided that: “Notwithstanding section 302 of the Act (16 U.S.C. 1852) and effective on and after the date of the enactment of this Act [Nov. 14, 1986], the Secretary shall take action to ensure, to the extent practicable, that those persons dependent for their livelihood upon the fisheries within the respective jurisdictions of the Regional Fishery Management Councils are fairly represented as voting members of the Councils.”
 
-### § 1853. Contents of fishery management plans
+### § 1853. Contents of fishery management plans
 
 **(a) Required provisions** Any fishery management plan which is prepared by any Council, or by the Secretary, with respect to any fishery, shall—
 
@@ -5103,11 +5103,11 @@ Pub. L. 99–659, title I, § 113, Nov. 14, 1986, 100 Stat. 3715, provided tha
 
 **(5)** specify the pertinent data which shall be submitted to the Secretary with respect to commercial, recreational,1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
 charter fishing, and fish processing in the fishery, including, but not limited to, information regarding the type and quantity of fishing gear used, catch by species in numbers of fish or weight thereof, areas in which fishing was engaged in, time of fishing, number of hauls, economic information necessary to meet the requirements of this chapter, and the estimated processing capacity of, and the actual processing capacity utilized by, United States fish processors,2
 
-<sup>2</sup>  So in original. The comma probably should be a semicolon.
+<sup>2</sup> So in original. The comma probably should be a semicolon.
 
 **(6)** consider and provide for temporary adjustments, after consultation with the Coast Guard and persons utilizing the fishery, regarding access to the fishery for vessels otherwise prevented from harvesting because of weather or other ocean conditions affecting the safe conduct of the fishery; except that the adjustment shall not adversely affect conservation efforts in other fisheries or discriminate among participants in the affected fishery;
 
@@ -5135,9 +5135,9 @@ charter fishing, and fish processing in the fishery, including, but not limited 
 
 **(13)** include a description of the commercial, recreational, and charter fishing sectors which participate in the fishery, including its economic impact, and, to the extent practicable, quantify trends in landings of the managed fishery resource by the commercial, recreational, and charter fishing sectors;
 
-**(14)** to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate, taking into consideration the economic impact of the harvest restrictions or recovery benefits on the fishery participants in each sector, any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery and; 3
+**(14)** to the extent that rebuilding plans or other conservation and management measures which reduce the overall harvest in a fishery are necessary, allocate, taking into consideration the economic impact of the harvest restrictions or recovery benefits on the fishery participants in each sector, any harvest restrictions or recovery benefits fairly and equitably among the commercial, recreational, and charter fishing sectors in the fishery and; 3
 
-<sup>3</sup>  So in original. Probably should be “fishery; and”.
+<sup>3</sup> So in original. Probably should be “fishery; and”.
 
 **(15)** establish a mechanism for specifying annual catch limits in the plan (including a multiyear plan), implementing regulations, or annual specifications, at a level such that overfishing does not occur in the fishery, including measures to ensure accountability.
 
@@ -5207,9 +5207,9 @@ charter fishing, and fish processing in the fishery, including, but not limited 
 
 **(12)** include management measures in the plan to conserve target and non-target species and habitats, considering the variety of ecological factors affecting fishery populations; and
 
-**(14)**  4
+**(14)** 4
 
-<sup>4</sup>  So in original. No par. (13) has been enacted.
+<sup>4</sup> So in original. No par. (13) has been enacted.
 
 prescribe such other measures, requirements, or conditions and restrictions as are determined to be necessary and appropriate for the conservation and management of the fishery.
 
@@ -5219,11 +5219,11 @@ prescribe such other measures, requirements, or conditions and restrictions as a
 
 **(2)** making modifications to regulations implementing a fishery management plan or plan amendment may be submitted to the Secretary at any time after the plan or amendment is approved under section 1854 of this title.
 
-(Pub. L. 94–265, title III, § 303, Apr. 13, 1976, 90 Stat. 351; Pub. L. 95–354, § 5(2), (3), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–453, § 6, Jan. 12, 1983, 96 Stat. 2486; Pub. L. 99–659, title I, §§ 101(c)(2), 105(a)(1), (b), Nov. 14, 1986, 100 Stat. 3707, 3711; Pub. L. 101–627, title I, § 109, Nov. 28, 1990, 104 Stat. 4447; Pub. L. 102–251, title III, § 301(g), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, § 108(a), (c)–(e), Oct. 11, 1996, 110 Stat. 3574–3576; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(a)(1), (2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–238; Pub. L. 109–479, title I, §§ 101(b), 104(a), 105, 106(a)(1), Jan. 12, 2007, 120 Stat. 3579, 3584–3586.)
+(Pub. L. 94–265, title III, § 303, Apr. 13, 1976, 90 Stat. 351; Pub. L. 95–354, § 5(2), (3), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–453, § 6, Jan. 12, 1983, 96 Stat. 2486; Pub. L. 99–659, title I, §§ 101(c)(2), 105(a)(1), (b), Nov. 14, 1986, 100 Stat. 3707, 3711; Pub. L. 101–627, title I, § 109, Nov. 28, 1990, 104 Stat. 4447; Pub. L. 102–251, title III, § 301(g), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, § 108(a), (c)–(e), Oct. 11, 1996, 110 Stat. 3574–3576; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(a)(1), (2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–238; Pub. L. 109–479, title I, §§ 101(b), 104(a), 105, 106(a)(1), Jan. 12, 2007, 120 Stat. 3579, 3584–3586.)
 
 **Amendment of Subsection (b)(1)(A)**
 
-Pub. L. 102–251, title III, §§ 301(g), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1)(A) is amended by inserting “or special areas,” after “exclusive economic zone” and “or areas” after “such zone”.
+Pub. L. 102–251, title III, §§ 301(g), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1)(A) is amended by inserting “or special areas,” after “exclusive economic zone” and “or areas” after “such zone”.
 
 **Editorial Notes**
 
@@ -5233,23 +5233,23 @@ This chapter, referred to in subsecs. (a)(1)(C), (5) and (b)(2)(C), (4), (5), (1
 
 **Amendments**
 
-2007—Subsec. (a)(5). Pub. L. 109–479, § 104(a)(1), (2), substituted “charter fishing, and fish processing” for “and charter fishing” and inserted “economic information necessary to meet the requirements of this chapter,” after “number of hauls,”.
+2007—Subsec. (a)(5). Pub. L. 109–479, § 104(a)(1), (2), substituted “charter fishing, and fish processing” for “and charter fishing” and inserted “economic information necessary to meet the requirements of this chapter,” after “number of hauls,”.
 
-Subsec. (a)(9). Pub. L. 109–479, § 101(b), in introductory provisions, substituted “analyze the likely effects, if any, including the cumulative conservation, economic, and social impacts, of the conservation and management measures on, and possible mitigation measures for—” for “describe the likely effects, if any, of the conservation and management measures on—”.
+Subsec. (a)(9). Pub. L. 109–479, § 101(b), in introductory provisions, substituted “analyze the likely effects, if any, including the cumulative conservation, economic, and social impacts, of the conservation and management measures on, and possible mitigation measures for—” for “describe the likely effects, if any, of the conservation and management measures on—”.
 
-Subsec. (a)(9)(C). Pub. L. 109–479, § 104(a)(3)–(5), added subpar. (C).
+Subsec. (a)(9)(C). Pub. L. 109–479, § 104(a)(3)–(5), added subpar. (C).
 
-Subsec. (a)(13). Pub. L. 109–479, § 104(a)(6), (7), substituted “in the fishery, including its economic impact,” for “in the fishery” and struck out “and” after semicolon at end.
+Subsec. (a)(13). Pub. L. 109–479, § 104(a)(6), (7), substituted “in the fishery, including its economic impact,” for “in the fishery” and struck out “and” after semicolon at end.
 
-Subsec. (a)(14). Pub. L. 109–479, § 104(a)(8), (9), substituted “allocate, taking into consideration the economic impact of the harvest restrictions or recovery benefits on the fishery participants in each sector,” for “allocate” and “fishery and;” for “fishery.”
+Subsec. (a)(14). Pub. L. 109–479, § 104(a)(8), (9), substituted “allocate, taking into consideration the economic impact of the harvest restrictions or recovery benefits on the fishery participants in each sector,” for “allocate” and “fishery and;” for “fishery.”
 
-Subsec. (a)(15). Pub. L. 109–479, § 104(a)(10), added par. (15).
+Subsec. (a)(15). Pub. L. 109–479, § 104(a)(10), added par. (15).
 
-Subsec. (b)(2). Pub. L. 109–479, § 105(1), (2), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+Subsec. (b)(2). Pub. L. 109–479, § 105(1), (2), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Subsec. (b)(5). Pub. L. 109–479, § 105(3), substituted “fishery and take into account the different circumstances affecting fisheries from different States and ports, including distances to fishing grounds and proximity to time and area closures;” for “fishery;”.
+Subsec. (b)(5). Pub. L. 109–479, § 105(3), substituted “fishery and take into account the different circumstances affecting fisheries from different States and ports, including distances to fishing grounds and proximity to time and area closures;” for “fishery;”.
 
-Subsec. (b)(6). Pub. L. 109–479, § 105(4), added par. (6) and struck out former par. (6) which read as follows: “establish a limited access system for the fishery in order to achieve optimum yield if, in developing such system, the Council and the Secretary take into account—
+Subsec. (b)(6). Pub. L. 109–479, § 105(4), added par. (6) and struck out former par. (6) which read as follows: “establish a limited access system for the fishery in order to achieve optimum yield if, in developing such system, the Council and the Secretary take into account—
 
 “(A) present participation in the fishery,
 
@@ -5263,75 +5263,75 @@ Subsec. (b)(6). Pub. L. 109–479, § 105(4), added par. (6) and struck out fo
 
 “(F) any other relevant considerations;”.
 
-Subsec. (b)(7). Pub. L. 109–479, § 105(5), struck out “(other than economic data)” after “submit data”.
+Subsec. (b)(7). Pub. L. 109–479, § 105(5), struck out “(other than economic data)” after “submit data”.
 
-Subsec. (b)(12), (14). Pub. L. 109–479, § 105(6), (7), added par. (12) and redesignated former par. (12) as (14).
+Subsec. (b)(12), (14). Pub. L. 109–479, § 105(6), (7), added par. (12) and redesignated former par. (12) as (14).
 
-Subsec. (d). Pub. L. 109–479, § 106(a)(1), struck out subsec. (d) which related to individual fishing quotas.
+Subsec. (d). Pub. L. 109–479, § 106(a)(1), struck out subsec. (d) which related to individual fishing quotas.
 
 2000—Subsec. (d)(1)(A), (5). Pub. L. 106–554 substituted “October 1, 2002,” for “October 1, 2000,”.
 
-1996—Subsec. (a)(1)(A). Pub. L. 104–297, § 108(a)(1), inserted “and rebuild overfished stocks” after “overfishing”.
+1996—Subsec. (a)(1)(A). Pub. L. 104–297, § 108(a)(1), inserted “and rebuild overfished stocks” after “overfishing”.
 
-Subsec. (a)(5). Pub. L. 104–297, § 108(a)(2), inserted “commercial, recreational, and charter fishing in” after “with respect to”.
+Subsec. (a)(5). Pub. L. 104–297, § 108(a)(2), inserted “commercial, recreational, and charter fishing in” after “with respect to”.
 
-Subsec. (a)(7). Pub. L. 104–297, § 108(a)(3), added par. (7) and struck out former par. (7) which read as follows: “include readily available information regarding the significance of habitat to the fishery and assessment as to the effects which changes to that habitat may have upon the fishery;”.
+Subsec. (a)(7). Pub. L. 104–297, § 108(a)(3), added par. (7) and struck out former par. (7) which read as follows: “include readily available information regarding the significance of habitat to the fishery and assessment as to the effects which changes to that habitat may have upon the fishery;”.
 
-Subsec. (a)(9)(A). Pub. L. 104–297, § 108(a)(5), inserted “and fishing communities” after “fisheries”.
+Subsec. (a)(9)(A). Pub. L. 104–297, § 108(a)(5), inserted “and fishing communities” after “fisheries”.
 
-Subsec. (a)(10) to (14). Pub. L. 104–297, § 108(a)(4), (6), (7), added pars. (10) to (14).
+Subsec. (a)(10) to (14). Pub. L. 104–297, § 108(a)(4), (6), (7), added pars. (10) to (14).
 
-Subsec. (b)(3). Pub. L. 104–297, § 108(c)(1), added par. (3) and struck out former par. (3) which read as follows: “establish specified limitations on the catch of fish (based on area, species, size, number, weight, sex, incidental catch, total biomass, or other factors), which are necessary and appropriate for the conservation and management of the fishery;”.
+Subsec. (b)(3). Pub. L. 104–297, § 108(c)(1), added par. (3) and struck out former par. (3) which read as follows: “establish specified limitations on the catch of fish (based on area, species, size, number, weight, sex, incidental catch, total biomass, or other factors), which are necessary and appropriate for the conservation and management of the fishery;”.
 
-Subsec. (b)(6). Pub. L. 104–297, § 108(c)(2), substituted “limited access system for” for “system for limiting access to” in introductory provisions.
+Subsec. (b)(6). Pub. L. 104–297, § 108(c)(2), substituted “limited access system for” for “system for limiting access to” in introductory provisions.
 
-Subsec. (b)(6)(E). Pub. L. 104–297, § 108(c)(3), inserted “and any affected fishing communities” after “fishery”.
+Subsec. (b)(6)(E). Pub. L. 104–297, § 108(c)(3), inserted “and any affected fishing communities” after “fishery”.
 
-Subsec. (b)(8). Pub. L. 104–297, § 108(c)(4), substituted “require that one or more” for “require that”.
+Subsec. (b)(8). Pub. L. 104–297, § 108(c)(4), substituted “require that one or more” for “require that”.
 
-Subsec. (b)(10) to (12). Pub. L. 104–297, § 108(c)(5)–(7), added pars. (10) and (11) and redesignated former par. (10) as (12).
+Subsec. (b)(10) to (12). Pub. L. 104–297, § 108(c)(5)–(7), added pars. (10) and (11) and redesignated former par. (10) as (12).
 
-Subsec. (c). Pub. L. 104–297, § 108(d), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “The proposed regulations which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to the Secretary simultaneously with the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title.”
+Subsec. (c). Pub. L. 104–297, § 108(d), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “The proposed regulations which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to the Secretary simultaneously with the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title.”
 
-Subsecs. (d) to (f). Pub. L. 104–297, § 108(e), added subsec. (d) and struck out former subsecs. (d) relating to confidentiality of statistics, (e) relating to data collection programs, and (f) relating to restriction on use of certain data.
+Subsecs. (d) to (f). Pub. L. 104–297, § 108(e), added subsec. (d) and struck out former subsecs. (d) relating to confidentiality of statistics, (e) relating to data collection programs, and (f) relating to restriction on use of certain data.
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–627, § 109(a)(1), inserted before semicolon at end “, to prevent overfishing, and to protect, restore, and promote the long-term health and stability of the fishery”.
+1990—Subsec. (a)(1)(A). Pub. L. 101–627, § 109(a)(1), inserted before semicolon at end “, to prevent overfishing, and to protect, restore, and promote the long-term health and stability of the fishery”.
 
-Subsec. (a)(1)(C). Pub. L. 101–627, § 109(a)(2), inserted “regulations implementing recommendations by international organizations in which the United States participates (including but not limited to closed areas, quotas, and size limits),” after “this chapter,”.
+Subsec. (a)(1)(C). Pub. L. 101–627, § 109(a)(2), inserted “regulations implementing recommendations by international organizations in which the United States participates (including but not limited to closed areas, quotas, and size limits),” after “this chapter,”.
 
-Subsec. (a)(6). Pub. L. 101–627, § 109(a)(3), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “consider, and may provide for, temporary adjustments, after consultation with the Coast Guard and persons utilizing the fishery, regarding access to the fishery for vessels otherwise prevented from harvesting because of weather or other ocean conditions affecting the safety of the vessels; and”.
+Subsec. (a)(6). Pub. L. 101–627, § 109(a)(3), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “consider, and may provide for, temporary adjustments, after consultation with the Coast Guard and persons utilizing the fishery, regarding access to the fishery for vessels otherwise prevented from harvesting because of weather or other ocean conditions affecting the safety of the vessels; and”.
 
-Subsec. (a)(8), (9). Pub. L. 101–627, § 109(a)(4), (5), added pars. (8) and (9).
+Subsec. (a)(8), (9). Pub. L. 101–627, § 109(a)(4), (5), added pars. (8) and (9).
 
-Subsec. (b)(1). Pub. L. 101–627, § 109(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “require a permit to be obtained from, and fees to be paid to, the Secretary with respect to any fishing vessel of the United States fishing, or wishing to fish, in the exclusive economic zone, or for anadromous species or Continental Shelf fishery resources beyond such zone;”.
+Subsec. (b)(1). Pub. L. 101–627, § 109(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “require a permit to be obtained from, and fees to be paid to, the Secretary with respect to any fishing vessel of the United States fishing, or wishing to fish, in the exclusive economic zone, or for anadromous species or Continental Shelf fishery resources beyond such zone;”.
 
-Subsec. (b)(7) to (10). Pub. L. 101–627, § 109(b)(2), added pars. (7) and (8) and redesignated former pars. (7) and (8) as (9) and (10), respectively.
+Subsec. (b)(7) to (10). Pub. L. 101–627, § 109(b)(2), added pars. (7) and (8) and redesignated former pars. (7) and (8) as (9) and (10), respectively.
 
-Subsec. (d). Pub. L. 101–627, § 109(c), in introductory provisions substituted “subsections (a) and (b)” for “subsection (a)(5)”, added par. (2), redesignated former par. (2) as (3), and inserted at end “Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary, or with the approval of the Secretary, the Council, of any statistic submitted in compliance with a requirement under subsection (a) or (b) of this section.”
+Subsec. (d). Pub. L. 101–627, § 109(c), in introductory provisions substituted “subsections (a) and (b)” for “subsection (a)(5)”, added par. (2), redesignated former par. (2) as (3), and inserted at end “Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary, or with the approval of the Secretary, the Council, of any statistic submitted in compliance with a requirement under subsection (a) or (b) of this section.”
 
-Subsec. (f). Pub. L. 101–627, § 109(d), added subsec. (f).
+Subsec. (f). Pub. L. 101–627, § 109(d), added subsec. (f).
 
-1986—Subsec. (a)(6), (7). Pub. L. 99–659, § 105(a)(1), added pars. (6) and (7).
+1986—Subsec. (a)(6), (7). Pub. L. 99–659, § 105(a)(1), added pars. (6) and (7).
 
-Subsec. (b)(1). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
+Subsec. (b)(1). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-Subsec. (d). Pub. L. 99–659, § 105(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any statistics submitted to the Secretary by any person in compliance with any requirement under subsection (a)(5) of this section shall be confidential and shall not be disclosed except when required under court order.”
+Subsec. (d). Pub. L. 99–659, § 105(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any statistics submitted to the Secretary by any person in compliance with any requirement under subsection (a)(5) of this section shall be confidential and shall not be disclosed except when required under court order.”
 
-1983—Subsec. (b)(7), (8). Pub. L. 97–453, § 6(1), added par. (7) and redesignated former par. (7) as (8).
+1983—Subsec. (b)(7), (8). Pub. L. 97–453, § 6(1), added par. (7) and redesignated former par. (7) as (8).
 
-Subsec. (c). Pub. L. 97–453, § 6(2), substituted provision that the proposed regulation which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to the Secretary simultaneously with the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title, for provision that any Council could prepare any proposed regulations which it deemed necessary and appropriate to carry out any fishery management plan, or any amendment to any fishery management plan, which was prepared by it, and that such proposed regulations would be submitted to the Secretary, together with such plan or amendment, for action by the Secretary pursuant to sections 1854 and 1855 of this title.
+Subsec. (c). Pub. L. 97–453, § 6(2), substituted provision that the proposed regulation which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to the Secretary simultaneously with the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title, for provision that any Council could prepare any proposed regulations which it deemed necessary and appropriate to carry out any fishery management plan, or any amendment to any fishery management plan, which was prepared by it, and that such proposed regulations would be submitted to the Secretary, together with such plan or amendment, for action by the Secretary pursuant to sections 1854 and 1855 of this title.
 
-Subsec. (e). Pub. L. 97–453, § 6(3), added subsec. (e).
+Subsec. (e). Pub. L. 97–453, § 6(3), added subsec. (e).
 
-1978—Subsec. (a)(4)(C). Pub. L. 95–354, § 5(2), added subpar. (C).
+1978—Subsec. (a)(4)(C). Pub. L. 95–354, § 5(2), added subpar. (C).
 
-Subsec. (a)(5). Pub. L. 95–354, § 5(3), inserted provisions relating to estimated processing capacity of, and the actual processing utilized by, United States fish processors.
+Subsec. (a)(5). Pub. L. 95–354, § 5(3), inserted provisions relating to estimated processing capacity of, and the actual processing utilized by, United States fish processors.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2007 Amendment; Applicability**
 
-Pub. L. 109–479, title I, § 104(b), Jan. 12, 2007, 120 Stat. 3584, provided that:
+Pub. L. 109–479, title I, § 104(b), Jan. 12, 2007, 120 Stat. 3584, provided that:
 
 > “The amendment made by subsection (a)(10) [amending this section]—
 
@@ -5351,7 +5351,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–659, title I, § 105(a)(2), Nov. 14, 1986, 100 Stat. 3711, provided that:
+Pub. L. 99–659, title I, § 105(a)(2), Nov. 14, 1986, 100 Stat. 3711, provided that:
 
 > “The amendments made by paragraph (1) [amending this section] apply to each fishery management plan that—
 
@@ -5365,7 +5365,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Exceptions to Subsection (d)(1) and Section 1883 Plan Restrictions**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that:
+Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that:
 
 > “Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act [16 U.S.C. 1853(d)(1)(A), (B)], as amended by this section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that—
 
@@ -5377,11 +5377,11 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(b)], Dec. 21, 2000, 1
 
 **Implementation of Amendments to Plans Required by Section 108(a) of Pub. L. 104–297**
 
-Pub. L. 104–297, title I, § 108(b), Oct. 11, 1996, 110 Stat. 3575, provided that: “Not later than 24 months after the date of enactment of this Act [Oct. 11, 1996], each Regional Fishery Management Council shall submit to the Secretary of Commerce amendments to each fishery management plan under its authority to comply with the amendments made in subsection (a) of this section [amending this section].”
+Pub. L. 104–297, title I, § 108(b), Oct. 11, 1996, 110 Stat. 3575, provided that: “Not later than 24 months after the date of enactment of this Act [Oct. 11, 1996], each Regional Fishery Management Council shall submit to the Secretary of Commerce amendments to each fishery management plan under its authority to comply with the amendments made in subsection (a) of this section [amending this section].”
 
 **Individual Fishing Quota Report**
 
-Pub. L. 104–297, title I, § 108(f)(1)–(5), Oct. 11, 1996, 110 Stat. 3577–3579, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 104–297, title I, § 108(f)(1)–(5), Oct. 11, 1996, 110 Stat. 3577–3579, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 > **“(1)** Not later than October 1, 1998, the National Academy of Sciences, in consultation with the Secretary of Commerce and the Regional Fishery Management Councils, shall submit to the Congress a comprehensive final report on individual fishing quotas, which shall include recommendations to implement a national policy with respect to individual fishing quotas. The report shall address all aspects of such quotas, including an analysis of—
 
@@ -5417,9 +5417,9 @@ Pub. L. 104–297, title I, § 108(f)(1)–(5), Oct. 11, 1996, 110 Stat. 3577�
 
 **Existing Quota Plans**
 
-Pub. L. 104–297, title I, § 108(i), Oct. 11, 1996, 110 Stat. 3581, provided that: “Nothing in this Act [see Short Title of 1996 Amendment note under section 1801 of this title] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995.”
+Pub. L. 104–297, title I, § 108(i), Oct. 11, 1996, 110 Stat. 3581, provided that: “Nothing in this Act [see Short Title of 1996 Amendment note under section 1801 of this title] or the amendments made by this Act shall be construed to require a reallocation of individual fishing quotas under any individual fishing quota program approved by the Secretary before January 4, 1995.”
 
-### § 1853a. Limited access privilege programs
+### § 1853a. Limited access privilege programs
 
 **(a) In general**
 
@@ -5519,9 +5519,9 @@ The Secretary shall deny or revoke limited access privileges granted under this 
 
 **(iv)** consist of participants in the fishery who hold quota share that are designated for use in the specific region or subregion covered by the regional fishery association, including commercial or recreational fishing, processing, fishery-dependent support businesses, or fishing communities;
 
-**(v)** not be eligible to receive an initial allocation of a limited access privilege but may acquire such privileges after the initial allocation, and may hold the annual fishing privileges of any limited access privileges it holds or the annual fishing privileges that is 1
+**(v)** not be eligible to receive an initial allocation of a limited access privilege but may acquire such privileges after the initial allocation, and may hold the annual fishing privileges of any limited access privileges it holds or the annual fishing privileges that is 1
 
-<sup>1</sup>  So in original. Probably should be “its”.
+<sup>1</sup> So in original. Probably should be “its”.
 
 members contribute; and
 
@@ -5661,7 +5661,7 @@ Nothing in this chapter, or the amendments made by the Magnuson-Stevens Fishery 
 
 **(3)** nothing in this subsection precludes a Council from incorporating criteria contained in this section into any such plans.
 
-(Pub. L. 94–265, title III, § 303A, as added Pub. L. 109–479, title I, § 106(a)(2), Jan. 12, 2007, 120 Stat. 3586; amended Pub. L. 110–161, div. B, title V, § 529, Dec. 26, 2007, 121 Stat. 1930.)
+(Pub. L. 94–265, title III, § 303A, as added Pub. L. 109–479, title I, § 106(a)(2), Jan. 12, 2007, 120 Stat. 3586; amended Pub. L. 110–161, div. B, title V, § 529, Dec. 26, 2007, 121 Stat. 1930.)
 
 **Editorial Notes**
 
@@ -5673,21 +5673,21 @@ The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 
 
 **Amendments**
 
-2007—Subsec. (c)(4)(A)(iii). Pub. L. 110–161, § 529(1), substituted “association, among willing parties” for “association”.
+2007—Subsec. (c)(4)(A)(iii). Pub. L. 110–161, § 529(1), substituted “association, among willing parties” for “association”.
 
-Subsec. (i). Pub. L. 110–161, § 529(2)–(4), struck out designation and heading of par. (1), redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out heading and text of former par. (2). Text of former par. (2) read as follows: “The requirements of this section, other than subparagraphs (A) and (B) of subsection (c)(1) and subparagraphs (A), (B), and (C) of paragraph (1) of this subsection, shall not apply to any proposal authorized under section 302(f) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 that is submitted within the timeframe prescribed by that section.”
+Subsec. (i). Pub. L. 110–161, § 529(2)–(4), struck out designation and heading of par. (1), redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, realigned margins, and struck out heading and text of former par. (2). Text of former par. (2) read as follows: “The requirements of this section, other than subparagraphs (A) and (B) of subsection (c)(1) and subparagraphs (A), (B), and (C) of paragraph (1) of this subsection, shall not apply to any proposal authorized under section 302(f) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 that is submitted within the timeframe prescribed by that section.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–161, div. B, title V, § 529, Dec. 26, 2007, 121 Stat. 1930, provided that the amendment made by section 529 is effective Jan. 13, 2007.
+Pub. L. 110–161, div. B, title V, § 529, Dec. 26, 2007, 121 Stat. 1930, provided that the amendment made by section 529 is effective Jan. 13, 2007.
 
 **Application With American Fisheries Act**
 
-Pub. L. 109–479, title I, § 106(e), Jan. 12, 2007, 120 Stat. 3594, provided that: “Nothing in section 303A of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) [16 U.S.C. 1853a], as added by subsection (a), shall be construed to modify or supersede any provision of the American Fisheries Act [title II of div. C of Pub. L. 105–277, see Tables for classification] ([former] 46 U.S.C. 12102 note [see 46 U.S.C. 12113(e), (f), (h), (i)]; 16 U.S.C. 1851 note; et alia).”
+Pub. L. 109–479, title I, § 106(e), Jan. 12, 2007, 120 Stat. 3594, provided that: “Nothing in section 303A of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) [16 U.S.C. 1853a], as added by subsection (a), shall be construed to modify or supersede any provision of the American Fisheries Act [title II of div. C of Pub. L. 105–277, see Tables for classification] ([former] 46 U.S.C. 12102 note [see 46 U.S.C. 12113(e), (f), (h), (i)]; 16 U.S.C. 1851 note; et alia).”
 
-### § 1854. Action by Secretary
+### § 1854. Action by Secretary
 
 **(a) Review of plans**
 
@@ -5819,7 +5819,7 @@ If the Secretary does not notify a Council within 30 days of the end of the comm
 
 **(1)** Except as provided in paragraph (3),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 if any fishery extends beyond the geographical area of authority of any one Council, the Secretary may—
 
@@ -5865,7 +5865,7 @@ Notwithstanding section 1802(2) of this title, fish harvested in a commercial fi
 
 The Secretary may repeal or revoke a fishery management plan for a fishery under the authority of a Council only if the Council approves the repeal or revocation by a three-quarters majority of the voting members of the Council.
 
-**(i) 2 [footnote: 2 So in original. Two subsecs. (i) have been enacted.] Environmental review process**
+**(i) 2 [footnote: 2 So in original. Two subsecs. (i) have been enacted.] Environmental review process**
 
 **(1) Procedures** The Secretary shall, in consultation with the Councils and the Council on Environmental Quality, revise and update agency procedures for compliance with the National Environmental Policy Act (42 U.S.C. 4231 et seq.). The procedures shall—
 
@@ -5893,7 +5893,7 @@ The Secretary is authorized and directed, in cooperation with the Council on Env
 
 **(1)** the Secretary, in cooperation with the Secretary of State,3
 
-<sup>3</sup>  So in original. Probably should be followed by “shall”.
+<sup>3</sup> So in original. Probably should be followed by “shall”.
 
 immediately take appropriate action at the international level to end the overfishing; and
 
@@ -5903,7 +5903,7 @@ immediately take appropriate action at the international level to end the overfi
 
 **(B)** develop and submit recommendations to the Secretary of State, and to the Congress, for international actions that will end overfishing in the fishery and rebuild the affected stocks, taking into account the relative impact of vessels of other nations and vessels of the United States on the relevant stock.
 
-(Pub. L. 94–265, title III, § 304, Apr. 13, 1976, 90 Stat. 352; Pub. L. 97–453, § 7(a), Jan. 12, 1983, 96 Stat. 2487; Pub. L. 99–659, title I, § 106, Nov. 14, 1986, 100 Stat. 3712; Pub. L. 101–627, title I, §§ 110(a), (b)(1), (c), 111(a)(2), 120(d), Nov. 28, 1990, 104 Stat. 4449–4452, 4459; Pub. L. 102–567, title III, § 303, Oct. 29, 1992, 106 Stat. 4283; Pub. L. 103–206, title VII, § 702, Dec. 20, 1993, 107 Stat. 2446; Pub. L. 104–297, title I, § 109(a)–(c), (e)–(g), (i), Oct. 11, 1996, 110 Stat. 3581–3585, 3587; Pub. L. 109–479, § 3(d)(2), title I, §§ 104(c), 106(b), (d), 107, title IV, § 406, Jan. 12, 2007, 120 Stat. 3578, 3584, 3593, 3594, 3633.)
+(Pub. L. 94–265, title III, § 304, Apr. 13, 1976, 90 Stat. 352; Pub. L. 97–453, § 7(a), Jan. 12, 1983, 96 Stat. 2487; Pub. L. 99–659, title I, § 106, Nov. 14, 1986, 100 Stat. 3712; Pub. L. 101–627, title I, §§ 110(a), (b)(1), (c), 111(a)(2), 120(d), Nov. 28, 1990, 104 Stat. 4449–4452, 4459; Pub. L. 102–567, title III, § 303, Oct. 29, 1992, 106 Stat. 4283; Pub. L. 103–206, title VII, § 702, Dec. 20, 1993, 107 Stat. 2446; Pub. L. 104–297, title I, § 109(a)–(c), (e)–(g), (i), Oct. 11, 1996, 110 Stat. 3581–3585, 3587; Pub. L. 109–479, § 3(d)(2), title I, §§ 104(c), 106(b), (d), 107, title IV, § 406, Jan. 12, 2007, 120 Stat. 3578, 3584, 3593, 3594, 3633.)
 
 **Editorial Notes**
 
@@ -5911,59 +5911,59 @@ immediately take appropriate action at the international level to end the overfi
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-Paragraph (3), referred to in subsec. (f)(1), was repealed by Pub. L. 104–297, title I, § 109(f), Oct. 11, 1996, 110 Stat. 3585.
+Paragraph (3), referred to in subsec. (f)(1), was repealed by Pub. L. 104–297, title I, § 109(f), Oct. 11, 1996, 110 Stat. 3585.
 
-The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
+The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 971 of this title and Tables.
 
-The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (g)(2), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (g)(2), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-The National Environmental Policy Act, referred to in subsec. (i)(1), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act, referred to in subsec. (i)(1), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
-2007—Subsec. (c)(3). Pub. L. 109–479, § 3(d)(2)(A), substituted “limited access privilege” for “individual fishing quota”.
+2007—Subsec. (c)(3). Pub. L. 109–479, § 3(d)(2)(A), substituted “limited access privilege” for “individual fishing quota”.
 
-Subsec. (d)(2)(A). Pub. L. 109–479, § 106(b), substituted “management, data collection, and enforcement” for “management and enforcement” in introductory provisions.
+Subsec. (d)(2)(A). Pub. L. 109–479, § 106(b), substituted “management, data collection, and enforcement” for “management and enforcement” in introductory provisions.
 
-Subsec. (d)(2)(A)(i). Pub. L. 109–479, § 3(d)(2)(B), substituted “limited access privilege” for “individual fishing quota”.
+Subsec. (d)(2)(A)(i). Pub. L. 109–479, § 3(d)(2)(B), substituted “limited access privilege” for “individual fishing quota”.
 
-Subsec. (d)(2)(C)(i). Pub. L. 109–479, § 106(d), substituted “section 1855(h)(5)(B) of this title.” for “section 1855(h)(5)(B) of this title, except that the portion of any such fees reserved under section 1853(d)(4)(A) of this title shall be deposited in the Treasury and available, subject to annual appropriations, to cover the costs of new direct loan obligations and new loan guarantee commitments as required by section 661c(b)(1) of title 2.”
+Subsec. (d)(2)(C)(i). Pub. L. 109–479, § 106(d), substituted “section 1855(h)(5)(B) of this title.” for “section 1855(h)(5)(B) of this title, except that the portion of any such fees reserved under section 1853(d)(4)(A) of this title shall be deposited in the Treasury and available, subject to annual appropriations, to cover the costs of new direct loan obligations and new loan guarantee commitments as required by section 661c(b)(1) of title 2.”
 
-Subsec. (e)(3). Pub. L. 109–479, § 104(c)(1), (2), substituted “2 years after” for “one year of” and inserted “and implement” after “prepare” in introductory provisions.
+Subsec. (e)(3). Pub. L. 109–479, § 104(c)(1), (2), substituted “2 years after” for “one year of” and inserted “and implement” after “prepare” in introductory provisions.
 
-Subsec. (e)(3)(A). Pub. L. 109–479, § 104(c)(3), inserted “immediately” after “overfishing”.
+Subsec. (e)(3)(A). Pub. L. 109–479, § 104(c)(3), inserted “immediately” after “overfishing”.
 
-Subsec. (e)(4)(A). Pub. L. 109–479, § 104(c)(4), struck out “ending overfishing and” before “rebuilding” in introductory provisions.
+Subsec. (e)(4)(A). Pub. L. 109–479, § 104(c)(4), struck out “ending overfishing and” before “rebuilding” in introductory provisions.
 
-Subsec. (e)(5). Pub. L. 109–479, § 104(c)(5), substituted “2-year” for “one-year”.
+Subsec. (e)(5). Pub. L. 109–479, § 104(c)(5), substituted “2-year” for “one-year”.
 
-Subsec. (g)(2). Pub. L. 109–479, § 406(b), substituted “(16 U.S.C. 971d), or highly migratory species harvested in a commercial fishery managed by a Council under this Act or the Western and Central Pacific Fisheries Convention Implementation Act,” for “(16 U.S.C. 971d)”.
+Subsec. (g)(2). Pub. L. 109–479, § 406(b), substituted “(16 U.S.C. 971d), or highly migratory species harvested in a commercial fishery managed by a Council under this Act or the Western and Central Pacific Fisheries Convention Implementation Act,” for “(16 U.S.C. 971d)”.
 
-Subsec. (i). Pub. L. 109–479, § 406(a), added subsec. (i) relating to international overfishing.
+Subsec. (i). Pub. L. 109–479, § 406(a), added subsec. (i) relating to international overfishing.
 
-Pub. L. 109–479, § 107, added subsec. (i) relating to environmental review process.
+Pub. L. 109–479, § 107, added subsec. (i) relating to environmental review process.
 
-1996—Subsecs. (a), (b). Pub. L. 104–297, § 109(a), added subsecs. (a) and (b) and struck out former subsecs. (a) which related to actions by Secretary after receipt of a fishery management plan or amendment to a plan and (b) which related to implementation of approved plans and amendments and submission and review of revised plans and amendments.
+1996—Subsecs. (a), (b). Pub. L. 104–297, § 109(a), added subsecs. (a) and (b) and struck out former subsecs. (a) which related to actions by Secretary after receipt of a fishery management plan or amendment to a plan and (b) which related to implementation of approved plans and amendments and submission and review of revised plans and amendments.
 
-Subsec. (c). Pub. L. 104–297, § 109(b)(1), amended heading to read “Preparation and review of Secretarial plans”.
+Subsec. (c). Pub. L. 104–297, § 109(b)(1), amended heading to read “Preparation and review of Secretarial plans”.
 
-Subsec. (c)(1). Pub. L. 104–297, § 109(b)(2)–(4), struck out “or” at end of subpar. (A), substituted “or amendment; or” for “or amendment, as the case may be.” in subpar. (B), added subpar. (C), and struck out concluding provisions which read as follows: “In preparing any such plan or amendment, the Secretary shall consult with the Secretary of State with respect to foreign fishing and with the Secretary of the department in which the Coast Guard is operating with respect to enforcement at sea. The Secretary shall also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.”
+Subsec. (c)(1). Pub. L. 104–297, § 109(b)(2)–(4), struck out “or” at end of subpar. (A), substituted “or amendment; or” for “or amendment, as the case may be.” in subpar. (B), added subpar. (C), and struck out concluding provisions which read as follows: “In preparing any such plan or amendment, the Secretary shall consult with the Secretary of State with respect to foreign fishing and with the Secretary of the department in which the Coast Guard is operating with respect to enforcement at sea. The Secretary shall also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.”
 
-Subsec. (c)(2). Pub. L. 104–297, § 109(b)(5), added par. (2) and struck out former par. (2) which related to procedures for making fishery management plans and amendments available for review and comment.
+Subsec. (c)(2). Pub. L. 104–297, § 109(b)(5), added par. (2) and struck out former par. (2) which related to procedures for making fishery management plans and amendments available for review and comment.
 
-Subsec. (c)(3). Pub. L. 104–297, § 109(b)(6), (7), inserted “for a fishery under the authority of a Council” after “paragraph (1)” and substituted “system, including any individual fishing quota program” for “system described in section 1853(b)(6) of this title”.
+Subsec. (c)(3). Pub. L. 104–297, § 109(b)(6), (7), inserted “for a fishery under the authority of a Council” after “paragraph (1)” and substituted “system, including any individual fishing quota program” for “system described in section 1853(b)(6) of this title”.
 
-Subsec. (c)(4) to (7). Pub. L. 104–297, § 109(b)(8), added pars. (4) to (7).
+Subsec. (c)(4) to (7). Pub. L. 104–297, § 109(b)(8), added pars. (4) to (7).
 
-Subsec. (d). Pub. L. 104–297, § 109(c), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 104–297, § 109(c), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 104–297, § 109(e), amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) required Secretary to initiate and maintain a comprehensive program of fishery research.
+Subsec. (e). Pub. L. 104–297, § 109(e), amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) required Secretary to initiate and maintain a comprehensive program of fishery research.
 
-Subsec. (f)(3). Pub. L. 104–297, § 109(f), struck out par. (3) which related to authority of Secretary over any highly migratory species fishery that is within the area of authority of more than one of certain Councils and to the preparation and amendment of fishery management plans with respect to such fishery.
+Subsec. (f)(3). Pub. L. 104–297, § 109(f), struck out par. (3) which related to authority of Secretary over any highly migratory species fishery that is within the area of authority of more than one of certain Councils and to the preparation and amendment of fishery management plans with respect to such fishery.
 
-Subsec. (g). Pub. L. 104–297, § 109(g), added subsec. (g) and struck out former subsec. (g) which required the Secretary to establish a 3-year program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of the Gulf of Mexico Fishery Management Council and the South Atlantic Fishery Management Council.
+Subsec. (g). Pub. L. 104–297, § 109(g), added subsec. (g) and struck out former subsec. (g) which required the Secretary to establish a 3-year program to assess the impact on fishery resources of incidental harvest by the shrimp trawl fishery within the authority of the Gulf of Mexico Fishery Management Council and the South Atlantic Fishery Management Council.
 
-Subsec. (h). Pub. L. 104–297, § 109(i), added subsec. (h).
+Subsec. (h). Pub. L. 104–297, § 109(i), added subsec. (h).
 
 1993—Subsec. (g)(6)(B). Pub. L. 103–206 substituted “April 1, 1994” for “January 1, 1994”.
 
@@ -5975,67 +5975,67 @@ Subsec. (e)(3). Pub. L. 102–567 redesignated par. (2) as (3) and substituted �
 
 Subsec. (e)(4). Pub. L. 102–567 redesignated par. (3) as (4) and substituted “(2)” for “(1)”.
 
-1990—Subsec. (b)(1), (3)(D). Pub. L. 101–627, § 111(a)(2)(A), (B), substituted “section 1855(a)” for “section 1855(c)”.
+1990—Subsec. (b)(1), (3)(D). Pub. L. 101–627, § 111(a)(2)(A), (B), substituted “section 1855(a)” for “section 1855(c)”.
 
-Subsec. (c)(2)(B). Pub. L. 101–627, § 120(d), substituted “appropriate Council” for “appropriate council”.
+Subsec. (c)(2)(B). Pub. L. 101–627, § 120(d), substituted “appropriate Council” for “appropriate council”.
 
-Pub. L. 101–627, § 111(a)(2)(C), substituted “section 1855(a)” for “section 1855(c)”.
+Pub. L. 101–627, § 111(a)(2)(C), substituted “section 1855(a)” for “section 1855(c)”.
 
-Subsec. (e). Pub. L. 101–627, § 110(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics of the fisheries, including, but not limited to, biological research concerning the interdependence of fisheries or stocks of fish, the impact of pollution on fish, the impact of wetland and estuarine degradation, and other matters bearing upon the abundance and availability of fish. The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
+Subsec. (e). Pub. L. 101–627, § 110(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary shall initiate and maintain, in cooperation with the Councils, a comprehensive program of fishery research to carry out and further the purposes, policy, and provisions of this chapter. Such program shall be designed to acquire knowledge and information, including statistics, on fishery conservation and management and on the economics of the fisheries, including, but not limited to, biological research concerning the interdependence of fisheries or stocks of fish, the impact of pollution on fish, the impact of wetland and estuarine degradation, and other matters bearing upon the abundance and availability of fish. The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
-Subsec. (f). Pub. L. 101–627, § 110(b)(1), in heading substituted “Fisheries under authority of more than one Council” for “Miscellaneous duties”, in par. (1) substituted “Except as provided in paragraph (3), if” for “If”, and added par. (3).
+Subsec. (f). Pub. L. 101–627, § 110(b)(1), in heading substituted “Fisheries under authority of more than one Council” for “Miscellaneous duties”, in par. (1) substituted “Except as provided in paragraph (3), if” for “If”, and added par. (3).
 
-Subsec. (g). Pub. L. 101–627, § 110(c), added subsec. (g).
+Subsec. (g). Pub. L. 101–627, § 110(c), added subsec. (g).
 
-1986—Subsec. (a)(1). Pub. L. 99–659, § 106(1)(A), struck out “(the date of receipt of which is hereafter in this section referred to as the ‘receipt date’)” after “by a Council” in introductory provisions.
+1986—Subsec. (a)(1). Pub. L. 99–659, § 106(1)(A), struck out “(the date of receipt of which is hereafter in this section referred to as the ‘receipt date’)” after “by a Council” in introductory provisions.
 
-Subsec. (a)(1)(A), (B). Pub. L. 99–659, § 106(1)(B), (C), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+Subsec. (a)(1)(A), (B). Pub. L. 99–659, § 106(1)(B), (C), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
 
-Subsec. (a)(1)(C). Pub. L. 99–659, § 106(1)(B), (D), redesignated former subpar. (B) as (C) and substituted “60-day” for “75-day”. Former subpar. (C) redesignated (D).
+Subsec. (a)(1)(C). Pub. L. 99–659, § 106(1)(B), (D), redesignated former subpar. (B) as (C) and substituted “60-day” for “75-day”. Former subpar. (C) redesignated (D).
 
-Subsec. (a)(1)(D). Pub. L. 99–659, § 106(1)(B), (E), redesignated former subpar. (C) as (D) and substituted “15th day” for “30th day”.
+Subsec. (a)(1)(D). Pub. L. 99–659, § 106(1)(B), (E), redesignated former subpar. (C) as (D) and substituted “15th day” for “30th day”.
 
-Subsec. (a)(2). Pub. L. 99–659, § 106(1)(F), substituted “paragraph (1)(B)” for “paragraph (1)(A)” in introductory provisions and inserted “and to fishery access adjustments referred to in section 1853(a)(6) of this title” in subpar. (C).
+Subsec. (a)(2). Pub. L. 99–659, § 106(1)(F), substituted “paragraph (1)(B)” for “paragraph (1)(A)” in introductory provisions and inserted “and to fishery access adjustments referred to in section 1853(a)(6) of this title” in subpar. (C).
 
-Subsec. (a)(3). Pub. L. 99–659, § 106(1)(G), added par. (3).
+Subsec. (a)(3). Pub. L. 99–659, § 106(1)(G), added par. (3).
 
-Subsec. (b)(1)(A). Pub. L. 99–659, § 106(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary does not notify the Council in writing of his disapproval, or partial disapproval, under paragraph (2), of the plan or amendment before the close of the 95th day after the receipt date; or”.
+Subsec. (b)(1)(A). Pub. L. 99–659, § 106(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary does not notify the Council in writing of his disapproval, or partial disapproval, under paragraph (2), of the plan or amendment before the close of the 95th day after the receipt date; or”.
 
-Subsec. (b)(1)(B). Pub. L. 99–659, § 106(2)(B), substituted “60th day” for “75th day”.
+Subsec. (b)(1)(B). Pub. L. 99–659, § 106(2)(B), substituted “60th day” for “75th day”.
 
-Subsec. (b)(2). Pub. L. 99–659, § 106(2)(C), substituted “paragraph (1)(B)” for “paragraph (1)(A)” in introductory provisions.
+Subsec. (b)(2). Pub. L. 99–659, § 106(2)(C), substituted “paragraph (1)(B)” for “paragraph (1)(A)” in introductory provisions.
 
-Subsec. (b)(3)(A). Pub. L. 99–659, § 106(2)(D)(i), inserted “disapproves a proposed plan or amendment under subsection (a)(1)(A)(ii) of this section, or”.
+Subsec. (b)(3)(A). Pub. L. 99–659, § 106(2)(D)(i), inserted “disapproves a proposed plan or amendment under subsection (a)(1)(A)(ii) of this section, or”.
 
-Subsec. (b)(3)(B)(i), (C)(i). Pub. L. 99–659, § 106(2)(D)(ii), substituted “subsection (a)(1)(B)” for “subsection (a)(1)(A)”.
+Subsec. (b)(3)(B)(i), (C)(i). Pub. L. 99–659, § 106(2)(D)(ii), substituted “subsection (a)(1)(B)” for “subsection (a)(1)(A)”.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 99–659, § 106(3)(A), substituted “60-day” for “75-day”.
+Subsec. (c)(2)(A)(ii). Pub. L. 99–659, § 106(3)(A), substituted “60-day” for “75-day”.
 
-Subsec. (c)(2)(A)(iii). Pub. L. 99–659, § 106(3)(B), substituted “15th day” for “30th day”.
+Subsec. (c)(2)(A)(iii). Pub. L. 99–659, § 106(3)(B), substituted “15th day” for “30th day”.
 
-Subsec. (c)(2)(B). Pub. L. 99–659, § 106(3)(C), substituted “60-day” for “75-day” in two places.
+Subsec. (c)(2)(B). Pub. L. 99–659, § 106(3)(C), substituted “60-day” for “75-day” in two places.
 
-Subsec. (e). Pub. L. 99–659, § 106(4), inserted “, in cooperation with the Councils,”, “and on the economics of the fisheries”, and “The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
+Subsec. (e). Pub. L. 99–659, § 106(4), inserted “, in cooperation with the Councils,”, “and on the economics of the fisheries”, and “The Secretary shall annually review and update the comprehensive program and make the results of the review and update available to the Councils.”
 
-1983—Subsec. (a). Pub. L. 97–453, § 7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary’s objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
+1983—Subsec. (a). Pub. L. 97–453, § 7(a)(1), amended subsec. (a) generally, which had provided that within 60 days after the Secretary received any fishery management plan, or any amendment to any such plan, which was prepared by any Council, the Secretary was to review such plan or amendment pursuant to subsection (b) of this section, notify such Council in writing of his approval, disapproval, or partial disapproval of such plan or amendment, and that in the case of disapproval or partial disapproval, the Secretary was to include in such notification a statement and explanation of the Secretary’s objections and the reasons therefor, suggestions for improvement, a request to such Council to change such plan or amendment to satisfy the objections, and a request to resubmit the plan or amendment, as so modified, to the Secretary within 45 days after the date on which the Council received such notification.
 
-Subsec. (b). Pub. L. 97–453, § 7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
+Subsec. (b). Pub. L. 97–453, § 7(a)(1), amended subsec. (b) generally, which had provided that the Secretary was to review any fishery management plan, and any amendment to any such plan, prepared by any Council and submitted to him to determine whether it was consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that in carrying out such review, the Secretary was to consult with the Secretary of State with respect to foreign fishing, and the Secretary of the department in which the Coast Guard was operating with respect to enforcement at sea.
 
-Subsec. (c)(1). Pub. L. 97–453, § 7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B) a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
+Subsec. (c)(1). Pub. L. 97–453, § 7(a)(2)(A), in subpar. (B) substituted “or disapproves a revised plan or amendment, and the Council involved fails to submit a revised or further revised plan or amendment, as the case may be” for “and the Council involved fails to change such plan or amendment in accordance with the notification made under subsection (a)(2) of this section”, and added to the provisions following subpar. (B) a requirement that the Secretary also prepare such proposed regulations as he deems necessary or appropriate to carry out each plan or amendment prepared by him under this paragraph.
 
-Subsec. (c)(2). Pub. L. 97–453, § 7(a)(2)(B), amended par. (2) generally, which had provided that whenever, pursuant to paragraph (1), the Secretary prepared a fishery management plan or amendment, the Secretary was to promptly transmit such plan or amendment to the appropriate Council for consideration and comment, that within 45 days after the date of receipt of such plan or amendment, the appropriate Council could recommend, to the Secretary, changes in such plan or amendment, consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that after the expiration of such 45-day period, the Secretary could implement such plan or amendment pursuant to section 1855 of this title.
+Subsec. (c)(2). Pub. L. 97–453, § 7(a)(2)(B), amended par. (2) generally, which had provided that whenever, pursuant to paragraph (1), the Secretary prepared a fishery management plan or amendment, the Secretary was to promptly transmit such plan or amendment to the appropriate Council for consideration and comment, that within 45 days after the date of receipt of such plan or amendment, the appropriate Council could recommend, to the Secretary, changes in such plan or amendment, consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that after the expiration of such 45-day period, the Secretary could implement such plan or amendment pursuant to section 1855 of this title.
 
-Subsec. (d). Pub. L. 97–453, § 7(a)(3), inserted provisions relating to agreements with the States for the administration of the permit system and the permissible accrual to the States of fees collected under the system.
+Subsec. (d). Pub. L. 97–453, § 7(a)(3), inserted provisions relating to agreements with the States for the administration of the permit system and the permissible accrual to the States of fees collected under the system.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 109–479, title I, § 104(d), Jan. 12, 2007, 120 Stat. 3585, provided that: “The amendments made by subsection (c) [amending this section] shall take effect 30 months after the date of enactment of this Act [Jan. 12, 2007].”
+Pub. L. 109–479, title I, § 104(d), Jan. 12, 2007, 120 Stat. 3585, provided that: “The amendments made by subsection (c) [amending this section] shall take effect 30 months after the date of enactment of this Act [Jan. 12, 2007].”
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–453, § 7(b), Jan. 12, 1983, 96 Stat. 2489, provided that: “The amendments made by subsection (a) [amending this section] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act [Jan. 12, 1983] for action under section 304 [this section].”
+Pub. L. 97–453, § 7(b), Jan. 12, 1983, 96 Stat. 2489, provided that: “The amendments made by subsection (a) [amending this section] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act [Jan. 12, 1983] for action under section 304 [this section].”
 
 **Transfer of Functions**
 
@@ -6081,11 +6081,11 @@ Pub. L. 111–348, title II, Jan. 4, 2011, 124 Stat. 3671, provided that:
 
 **Delay of Collection of Fees in Quahog and Wreckfish Fisheries**
 
-Pub. L. 104–297, title I, § 109(d), Oct. 11, 1996, 110 Stat. 3584, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law, the Secretary shall not begin the collection of fees under section 304(d)(2) of the Magnuson-Stevens Fishery Conservation and Management Act [16 U.S.C. 1854(d)(2)], as amended by this Act, in the surf clam and ocean (including mahogany) quahog fishery or in the wreckfish fishery until after January 1, 2000.”
+Pub. L. 104–297, title I, § 109(d), Oct. 11, 1996, 110 Stat. 3584, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Notwithstanding any other provision of law, the Secretary shall not begin the collection of fees under section 304(d)(2) of the Magnuson-Stevens Fishery Conservation and Management Act [16 U.S.C. 1854(d)(2)], as amended by this Act, in the surf clam and ocean (including mahogany) quahog fishery or in the wreckfish fishery until after January 1, 2000.”
 
 **Comprehensive Management System for Atlantic Pelagic Longline Fishery**
 
-Pub. L. 104–297, title I, § 109(h), Oct. 11, 1996, 110 Stat. 3586, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 104–297, title I, § 109(h), Oct. 11, 1996, 110 Stat. 3586, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 > **“(1)** The Secretary of Commerce shall—
 
@@ -6101,11 +6101,11 @@ Pub. L. 104–297, title I, § 109(h), Oct. 11, 1996, 110 Stat. 3586, as amend
 
 **Inapplicability of Subsection (h) to American Lobster Fishery Management Plan**
 
-Pub. L. 104–297, title I, § 109(j), Oct. 11, 1996, 110 Stat. 3587, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Section 304(h) of the Magnuson-Stevens Fishery Conservation and Management Act [16 U.S.C. 1854(h)], as amended by this Act, shall not apply to the American Lobster Fishery Management Plan.”
+Pub. L. 104–297, title I, § 109(j), Oct. 11, 1996, 110 Stat. 3587, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Section 304(h) of the Magnuson-Stevens Fishery Conservation and Management Act [16 U.S.C. 1854(h)], as amended by this Act, shall not apply to the American Lobster Fishery Management Plan.”
 
 **Interim Management of Highly Migratory Species Fisheries**
 
-Pub. L. 101–627, title I, § 108(k), Nov. 28, 1990, 104 Stat. 4447, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
+Pub. L. 101–627, title I, § 108(k), Nov. 28, 1990, 104 Stat. 4447, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
 > “Notwithstanding the amendments made by subsections (a) and (g) [amending section 1852 of this title], any fishery management plan or amendment which—
 
@@ -6117,7 +6117,7 @@ Pub. L. 101–627, title I, § 108(k), Nov. 28, 1990, 104 Stat. 4447, as amend
 
 > shall remain in force and effect until superseded by a fishery management plan prepared by the Secretary, and regulations implementing that plan.”
 
-### § 1855. Other requirements and authority
+### § 1855. Other requirements and authority
 
 **(a) Gear evaluation and notification of entry**
 
@@ -6191,7 +6191,7 @@ The Secretary shall have general responsibility to carry out any fishery managem
 
 The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the Regulatory Flexibility Act (5 U.S.C. 601 et seq.), and Executive Order Numbered 12866, dated September 30, 1993, shall be complied with within the time limitations specified in subsections (a), (b), and (c) of section 1854 of this title as they apply to the functions of the Secretary under such provisions.
 
@@ -6461,7 +6461,7 @@ The Secretary shall establish a pilot program for regionally-based marine educat
 
 If the Secretary makes a determination that such actions are not consistent with the plan, the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
 
-(Pub. L. 94–265, title III, § 305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, § 235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, § 8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§ 110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§ 110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241, title IV, § 416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, § 3(d)(3), title I, §§ 108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606; Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8423, Jan. 1, 2021, 134 Stat. 4729.)
+(Pub. L. 94–265, title III, § 305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, § 235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, § 8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§ 110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§ 110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241, title IV, § 416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, § 3(d)(3), title I, §§ 108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606; Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8423, Jan. 1, 2021, 134 Stat. 4729.)
 
 **Editorial Notes**
 
@@ -6469,9 +6469,9 @@ If the Secretary makes a determination that such actions are not consistent with
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (e), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (e), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
-The Regulatory Flexibility Act (5 U.S.C. 601 et seq.), referred to in subsec. (e), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§ 601 et seq.) of Title 5, Government Organization and Employees. For complete classification of the Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
+The Regulatory Flexibility Act (5 U.S.C. 601 et seq.), referred to in subsec. (e), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§ 601 et seq.) of Title 5, Government Organization and Employees. For complete classification of the Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 
 Executive Order Numbered 12866, referred to in subsec. (e), is set out as a note under section 601 of Title 5, Government Organization and Employees.
 
@@ -6481,29 +6481,29 @@ The Internal Revenue Code of 1986, referred to in subsec. (h)(3), is classified 
 
 2021—Subsec. (i)(1)(G)(iv). Pub. L. 116–283 amended cl. (iv) generally. Prior to amendment, text read as follows: “The panel may act only by unanimous vote of all 6 members of the panel and may not act if there is a vacancy in the membership of the panel.”
 
-2007—Subsec. (c)(3)(B). Pub. L. 109–479, § 108(a), which directed substitution of “186 days,” for “180 days,” the second time appearing, was executed by making the substitution the only place that phrase appeared, to reflect the probable intent of Congress.
+2007—Subsec. (c)(3)(B). Pub. L. 109–479, § 108(a), which directed substitution of “186 days,” for “180 days,” the second time appearing, was executed by making the substitution the only place that phrase appeared, to reflect the probable intent of Congress.
 
-Subsec. (c)(3)(D). Pub. L. 109–479, § 108(b), inserted “or interim measures” after “emergency regulations”.
+Subsec. (c)(3)(D). Pub. L. 109–479, § 108(b), inserted “or interim measures” after “emergency regulations”.
 
-Subsec. (h)(1). Pub. L. 109–479, § 3(d)(3), substituted “limited access privileges,” for “individual fishing quotas,” in introductory provisions.
+Subsec. (h)(1). Pub. L. 109–479, § 3(d)(3), substituted “limited access privileges,” for “individual fishing quotas,” in introductory provisions.
 
-Subsec. (i)(1)(B)(ii). Pub. L. 109–479, § 116(b)(1)(C), which directed insertion of “The total allocation (directed and nontarget combined) for a fishery to which subclause (I) or (II) applies may not be exceeded.” after cl. (ii), was executed by making the insertion as concluding provisions of cl. (ii), to reflect the probable intent of Congress.
+Subsec. (i)(1)(B)(ii). Pub. L. 109–479, § 116(b)(1)(C), which directed insertion of “The total allocation (directed and nontarget combined) for a fishery to which subclause (I) or (II) applies may not be exceeded.” after cl. (ii), was executed by making the insertion as concluding provisions of cl. (ii), to reflect the probable intent of Congress.
 
-Subsec. (i)(1)(B)(ii)(I). Pub. L. 109–479, § 116(b)(1)(A), substituted “total allocation (directed and nontarget combined) of 10.7 percent effective January 1, 2008; and” for “directed fishing allocation of 10 percent upon the establishment of a quota program, fishing cooperative, sector allocation, or other rationalization program in any sector of the fishery; and”.
+Subsec. (i)(1)(B)(ii)(I). Pub. L. 109–479, § 116(b)(1)(A), substituted “total allocation (directed and nontarget combined) of 10.7 percent effective January 1, 2008; and” for “directed fishing allocation of 10 percent upon the establishment of a quota program, fishing cooperative, sector allocation, or other rationalization program in any sector of the fishery; and”.
 
-Subsec. (i)(1)(B)(ii)(II). Pub. L. 109–479, § 116(b)(1)(B), substituted “total allocation (directed and nontarget combined) of 10.7 percent.” for “directed fishing allocation of 10 percent.”
+Subsec. (i)(1)(B)(ii)(II). Pub. L. 109–479, § 116(b)(1)(B), substituted “total allocation (directed and nontarget combined) of 10.7 percent.” for “directed fishing allocation of 10 percent.”
 
-Subsec. (i)(1)(C). Pub. L. 109–479, § 116(b)(1)(D), inserted at end “Voluntary transfers by and among eligible entities shall be allowed, whether before or after harvesting. Notwithstanding the first sentence of this subparagraph, seven-tenths of one percent of the total allowable catch, guideline harvest level, or other annual catch limit, within the amount allocated to the program by subclause (I) or subclause (II) of subparagraph (B)(ii), shall be allocated among the eligible entities by the panel established in subparagraph (G), or allocated by the Secretary based on the nontarget needs of eligible entities in the absence of a panel decision.”
+Subsec. (i)(1)(C). Pub. L. 109–479, § 116(b)(1)(D), inserted at end “Voluntary transfers by and among eligible entities shall be allowed, whether before or after harvesting. Notwithstanding the first sentence of this subparagraph, seven-tenths of one percent of the total allowable catch, guideline harvest level, or other annual catch limit, within the amount allocated to the program by subclause (I) or subclause (II) of subparagraph (B)(ii), shall be allocated among the eligible entities by the panel established in subparagraph (G), or allocated by the Secretary based on the nontarget needs of eligible entities in the absence of a panel decision.”
 
-Subsec. (j). Pub. L. 109–479, § 109, added subsec. (j).
+Subsec. (j). Pub. L. 109–479, § 109, added subsec. (j).
 
-Subsec. (k). Pub. L. 109–479, § 110, added subsec. (k).
+Subsec. (k). Pub. L. 109–479, § 110, added subsec. (k).
 
 2006—Subsec. (i)(1). Pub. L. 109–241 added par. (1) and struck out former par. (1) which related to the western Alaska community development quota program.
 
-1996—Pub. L. 104–297, § 110(a)(1), (3), substituted “Other requirements and authority” for “Implementation of fishery management plans” as section catchline.
+1996—Pub. L. 104–297, § 110(a)(1), (3), substituted “Other requirements and authority” for “Implementation of fishery management plans” as section catchline.
 
-Subsec. (a). Pub. L. 104–297, § 110(a)(1), (3), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary shall promulgate each regulation that is necessary to carry out a plan or amendment—
+Subsec. (a). Pub. L. 104–297, § 110(a)(1), (3), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary shall promulgate each regulation that is necessary to carry out a plan or amendment—
 
 “(1) within 110 days after the plan or amendment was received by him for action under section 1854(a) of this title, if such plan or amendment takes effect under section 1854(b)(1) of this title;
 
@@ -6511,51 +6511,51 @@ Subsec. (a). Pub. L. 104–297, § 110(a)(1), (3), added subsec. (a) and struc
 
 “(3) within such time as he deems appropriate in the case of a plan or amendment prepared by him under section 1854(c) or (f)(3) of this title.”
 
-Subsec. (b). Pub. L. 104–297, § 110(a)(3), added subsec. (b). Former subsec. (b) redesignated (f).
+Subsec. (b). Pub. L. 104–297, § 110(a)(3), added subsec. (b). Former subsec. (b) redesignated (f).
 
-Subsec. (c). Pub. L. 104–297, § 110(b)(1), inserted “and interim measures” after “actions” in heading.
+Subsec. (c). Pub. L. 104–297, § 110(b)(1), inserted “and interim measures” after “actions” in heading.
 
-Subsec. (c)(1). Pub. L. 104–297, § 110(b)(2)(C), which directed insertion of “or overfishing” after “emergency”, was executed by making the insertion after “the emergency” to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 104–297, § 110(b)(2)(C), which directed insertion of “or overfishing” after “emergency”, was executed by making the insertion after “the emergency” to reflect the probable intent of Congress.
 
-Pub. L. 104–297, § 110(b)(2)(A), (B), substituted “or that interim measures are needed to reduce overfishing for” for “involving” and inserted “or interim measures” after “emergency regulations”.
+Pub. L. 104–297, § 110(b)(2)(A), (B), substituted “or that interim measures are needed to reduce overfishing for” for “involving” and inserted “or interim measures” after “emergency regulations”.
 
-Subsec. (c)(2). Pub. L. 104–297, § 110(b)(2)(C), which directed insertion of “or overfishing” after “emergency”, was executed by making the insertion after “the emergency” in subpars. (A) and (B) to reflect the probable intent of Congress.
+Subsec. (c)(2). Pub. L. 104–297, § 110(b)(2)(C), which directed insertion of “or overfishing” after “emergency”, was executed by making the insertion after “the emergency” in subpars. (A) and (B) to reflect the probable intent of Congress.
 
-Pub. L. 104–297, § 110(b)(2)(A), (B), substituted “or that interim measures are needed to reduce overfishing for” for “involving” in introductory provisions and inserted “or interim measures” after “emergency regulations” in subpars. (A) and (B).
+Pub. L. 104–297, § 110(b)(2)(A), (B), substituted “or that interim measures are needed to reduce overfishing for” for “involving” in introductory provisions and inserted “or interim measures” after “emergency regulations” in subpars. (A) and (B).
 
-Subsec. (c)(3). Pub. L. 104–297, § 110(b)(3)(A), inserted “or interim measure” after “emergency regulation” in two places in introductory provisions.
+Subsec. (c)(3). Pub. L. 104–297, § 110(b)(3)(A), inserted “or interim measure” after “emergency regulation” in two places in introductory provisions.
 
-Subsec. (c)(3)(B). Pub. L. 104–297, § 110(b)(3)(B), (D), added subpar. (B) and struck out former subpar. (B) which read as follows: “shall remain in effect for not more than 90 days after the date of such publication, except that any such regulation may, by agreement of the Secretary and the Council, be promulgated for one additional period of not more than 90 days; and”.
+Subsec. (c)(3)(B). Pub. L. 104–297, § 110(b)(3)(B), (D), added subpar. (B) and struck out former subpar. (B) which read as follows: “shall remain in effect for not more than 90 days after the date of such publication, except that any such regulation may, by agreement of the Secretary and the Council, be promulgated for one additional period of not more than 90 days; and”.
 
-Subsec. (c)(3)(C). Pub. L. 104–297, § 110(b)(3)(D), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (c)(3)(C). Pub. L. 104–297, § 110(b)(3)(D), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (c)(3)(D). Pub. L. 104–297, § 110(b)(3)(C), redesignated subpar. (C) as (D).
+Subsec. (c)(3)(D). Pub. L. 104–297, § 110(b)(3)(C), redesignated subpar. (C) as (D).
 
-Subsec. (e). Pub. L. 104–297, § 110(c), substituted “12866, dated September 30, 1993,” for “12291, dated February 17, 1981,” and “subsections (a), (b), and (c) of section 1854 of this title” for “subsection (c) of this section or section 1854(a) and (b) of this title”.
+Subsec. (e). Pub. L. 104–297, § 110(c), substituted “12866, dated September 30, 1993,” for “12291, dated February 17, 1981,” and “subsections (a), (b), and (c) of section 1854 of this title” for “subsection (c) of this section or section 1854(a) and (b) of this title”.
 
-Subsec. (f). Pub. L. 104–297, § 110(a)(2), redesignated subsec. (b) as (f).
+Subsec. (f). Pub. L. 104–297, § 110(a)(2), redesignated subsec. (b) as (f).
 
-Subsecs. (g), (h). Pub. L. 104–297, § 110(d), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 104–297, § 110(d), added subsecs. (g) and (h).
 
-Subsec. (i). Pub. L. 104–297, § 111(a), added subsec. (i).
+Subsec. (i). Pub. L. 104–297, § 111(a), added subsec. (i).
 
-1990—Subsec. (a). Pub. L. 101–627, §§ 110(b)(2), 111(a)(1)(A), redesignated subsec. (c) as (a) and substituted “section 1854(c) or (f)(3)” for “section 1854(c)”.
+1990—Subsec. (a). Pub. L. 101–627, §§ 110(b)(2), 111(a)(1)(A), redesignated subsec. (c) as (a) and substituted “section 1854(c) or (f)(3)” for “section 1854(c)”.
 
-Subsec. (b). Pub. L. 101–627, § 111(a)(1)(A), (b), redesignated subsec. (d) as (b) and amended it generally. Prior to amendment, subsec. (b) read as follows: “Regulations promulgated by the Secretary under this chapter shall be subject to judicial review to the extent authorized by, and in accordance with, chapter 7 of title 5, if a petition for such review is filed within 30 days after the date on which the regulations are promulgated; except that (1) section 705 of such title is not applicable, and (2) the appropriate court shall only set aside any such regulation on a ground specified in section 706(2)(A), (B), (C), or (D) of such title.”
+Subsec. (b). Pub. L. 101–627, § 111(a)(1)(A), (b), redesignated subsec. (d) as (b) and amended it generally. Prior to amendment, subsec. (b) read as follows: “Regulations promulgated by the Secretary under this chapter shall be subject to judicial review to the extent authorized by, and in accordance with, chapter 7 of title 5, if a petition for such review is filed within 30 days after the date on which the regulations are promulgated; except that (1) section 705 of such title is not applicable, and (2) the appropriate court shall only set aside any such regulation on a ground specified in section 706(2)(A), (B), (C), or (D) of such title.”
 
-Subsecs. (c) to (e), (g), (h). Pub. L. 101–627, § 111(a)(1), redesignated subsecs. (e), (g), and (h) as (c), (d), and (e), respectively.
+Subsecs. (c) to (e), (g), (h). Pub. L. 101–627, § 111(a)(1), redesignated subsecs. (e), (g), and (h) as (c), (d), and (e), respectively.
 
-1983—Subsec. (a). Pub. L. 97–453, § 8(1), struck out subsec. (a) which had provided that, as soon as practicable after the Secretary approved pursuant to section 1854(a) and (b) of this title any fishery management plan or amendment or prepared pursuant to section 1854(c) of this title any fishery management plan or amendment, the Secretary was to publish a notice of availability of such plan or amendment and any regulations which he proposed to promulgate to implement such plan or amendment in the Federal Register, and that interested persons were to be afforded a period of not less than 45 days after such publication within which to submit in writing data, views, or comments on the plan or amendment, and on the proposed regulations.
+1983—Subsec. (a). Pub. L. 97–453, § 8(1), struck out subsec. (a) which had provided that, as soon as practicable after the Secretary approved pursuant to section 1854(a) and (b) of this title any fishery management plan or amendment or prepared pursuant to section 1854(c) of this title any fishery management plan or amendment, the Secretary was to publish a notice of availability of such plan or amendment and any regulations which he proposed to promulgate to implement such plan or amendment in the Federal Register, and that interested persons were to be afforded a period of not less than 45 days after such publication within which to submit in writing data, views, or comments on the plan or amendment, and on the proposed regulations.
 
-Subsec. (b). Pub. L. 97–453, § 8(1), struck out subsec. (b) which had provided that the Secretary might schedule a hearing, in accordance with section 553 of title 5, on any fishery management plan, any amendment to any such plan, any regulations to implement any such plan or amendment and that if any such hearing was scheduled, the Secretary could postpone the effective date of the regulations proposed to implement such plan or amendment, or take such other action as he deemed appropriate to preserve the rights or status of any person, pending its outcome.
+Subsec. (b). Pub. L. 97–453, § 8(1), struck out subsec. (b) which had provided that the Secretary might schedule a hearing, in accordance with section 553 of title 5, on any fishery management plan, any amendment to any such plan, any regulations to implement any such plan or amendment and that if any such hearing was scheduled, the Secretary could postpone the effective date of the regulations proposed to implement such plan or amendment, or take such other action as he deemed appropriate to preserve the rights or status of any person, pending its outcome.
 
-Subsec. (c). Pub. L. 97–453, § 8(2), substituted provision that the Secretary shall promulgate each regulation that is necessary to carry out a plan or amendment within 110 days after the plan or amendment was received by him for action under section 1854(a) of this title if such plan or amendment takes effect under section 1854(b)(1) of this title, within 75 days after a revised plan or amendment was received by him under section 1854(b) of this title if such plan or amendment takes effect under paragraph (3)(D) of such section, or within such time as he deems appropriate in the case of a plan or amendment prepared by him under section 1854(c) of this title, for provision that the Secretary promulgate regulations to implement any fishery management plan or any amendment to any such plan after consideration of all relevant matters presented to him during the 45-day period referred to in former subsection (a) of this section and produced in any hearing held under former subsection (b) of this section if he found the plan or amendment consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that to the extent practicable, such regulation be put into effect in a manner not disruptive of the regular fishing season for any fishery.
+Subsec. (c). Pub. L. 97–453, § 8(2), substituted provision that the Secretary shall promulgate each regulation that is necessary to carry out a plan or amendment within 110 days after the plan or amendment was received by him for action under section 1854(a) of this title if such plan or amendment takes effect under section 1854(b)(1) of this title, within 75 days after a revised plan or amendment was received by him under section 1854(b) of this title if such plan or amendment takes effect under paragraph (3)(D) of such section, or within such time as he deems appropriate in the case of a plan or amendment prepared by him under section 1854(c) of this title, for provision that the Secretary promulgate regulations to implement any fishery management plan or any amendment to any such plan after consideration of all relevant matters presented to him during the 45-day period referred to in former subsection (a) of this section and produced in any hearing held under former subsection (b) of this section if he found the plan or amendment consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that to the extent practicable, such regulation be put into effect in a manner not disruptive of the regular fishing season for any fishery.
 
-Subsec. (e). Pub. L. 97–453, § 8(3), substituted provision that if the Secretary finds that an emergency exists involving any fishery, he may promulgate emergency regulations necessary to address the emergency, without regard to whether a fishery management plan exists for such fishery, that if a Council finds that an emergency exists involving any fishery within its jurisdiction, whether or not a fishery management plan exists for such fishery, the Secretary shall promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by unanimous vote of the members who are voting members, requests the taking of such action, and the Secretary may promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by less than a unanimous vote, requests the taking of such action, for provision that if the Secretary found that an emergency involving any fishery resources existed, he could promulgate emergency regulations, without regard to former subsections (a) and (c) of this section, to implement any fishery management plan, if required, or promulgate emergency regulations to amend any regulation implementing any existing fishery management plan, to the extent required by such emergency, lengthened from 45 days to 90 days the maximum period that emergency regulations may remain in effect after publication in the Federal Register and the maximum additional period for which such regulations may be promulgated, and inserted a provision that emergency regulations promulgated under par. (2) may only be terminated early upon the agreement of the Secretary and the Council concerned.
+Subsec. (e). Pub. L. 97–453, § 8(3), substituted provision that if the Secretary finds that an emergency exists involving any fishery, he may promulgate emergency regulations necessary to address the emergency, without regard to whether a fishery management plan exists for such fishery, that if a Council finds that an emergency exists involving any fishery within its jurisdiction, whether or not a fishery management plan exists for such fishery, the Secretary shall promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by unanimous vote of the members who are voting members, requests the taking of such action, and the Secretary may promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by less than a unanimous vote, requests the taking of such action, for provision that if the Secretary found that an emergency involving any fishery resources existed, he could promulgate emergency regulations, without regard to former subsections (a) and (c) of this section, to implement any fishery management plan, if required, or promulgate emergency regulations to amend any regulation implementing any existing fishery management plan, to the extent required by such emergency, lengthened from 45 days to 90 days the maximum period that emergency regulations may remain in effect after publication in the Federal Register and the maximum additional period for which such regulations may be promulgated, and inserted a provision that emergency regulations promulgated under par. (2) may only be terminated early upon the agreement of the Secretary and the Council concerned.
 
-Subsec. (f). Pub. L. 97–453, § 8(4), struck out subsec. (f) which had directed the Secretary to report to the Congress and the President, not later than March 1 of each year, on all activities of the Councils and the Secretary with respect to fishery management plans, regulations to implement such plans, and all other activities relating to the conservation and management of fishery resources undertaken under this chapter during the preceding calendar year.
+Subsec. (f). Pub. L. 97–453, § 8(4), struck out subsec. (f) which had directed the Secretary to report to the Congress and the President, not later than March 1 of each year, on all activities of the Councils and the Secretary with respect to fishery management plans, regulations to implement such plans, and all other activities relating to the conservation and management of fishery resources undertaken under this chapter during the preceding calendar year.
 
-Subsec. (h). Pub. L. 97–453, § 8(5), added subsec. (h).
+Subsec. (h). Pub. L. 97–453, § 8(5), added subsec. (h).
 
 1980—Subsec. (a). Pub. L. 96–561 inserted “a notice of availability of” after “Federal Register (A)”.
 
@@ -6563,7 +6563,7 @@ Subsec. (h). Pub. L. 97–453, § 8(5), added subsec. (h).
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 109–479, title I, § 116(b)(2), Jan. 12, 2007, 120 Stat. 3606, provided that: “The allocation percentage in subclause (I) of section 305(i)(1)(B)(ii) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1855(i)(1)(B)(ii)), as amended by paragraph (1) of this subsection, shall be in effect in 2007 with respect to any sector of a fishery to which such subclause applies and in which a fishing cooperative is established in 2007, and such sector’s 2007 allocation shall be reduced by a pro rata amount to accomplish such increased allocation to the program. For purposes of section 305(i)(1) of that Act [16 U.S.C. 1855(i)(1)] and of this subsection [amending this section], the term ‘fishing cooperative’ means a fishing cooperative whether or not authorized by a fishery management council or Federal agency, if a majority of the participants in the sector are participants in the fishing cooperative.”
+Pub. L. 109–479, title I, § 116(b)(2), Jan. 12, 2007, 120 Stat. 3606, provided that: “The allocation percentage in subclause (I) of section 305(i)(1)(B)(ii) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1855(i)(1)(B)(ii)), as amended by paragraph (1) of this subsection, shall be in effect in 2007 with respect to any sector of a fishery to which such subclause applies and in which a fishing cooperative is established in 2007, and such sector’s 2007 allocation shall be reduced by a pro rata amount to accomplish such increased allocation to the program. For purposes of section 305(i)(1) of that Act [16 U.S.C. 1855(i)(1)] and of this subsection [amending this section], the term ‘fishing cooperative’ means a fishing cooperative whether or not authorized by a fishery management council or Federal agency, if a majority of the participants in the sector are participants in the fishing cooperative.”
 
 **Termination of Administrative Conference of United States**
 
@@ -6571,11 +6571,11 @@ For termination of Administrative Conference of United States, see provision of 
 
 **No Interruption of Existing Allocations**
 
-Pub. L. 109–241, title IV, § 416(b), July 11, 2006, 120 Stat. 545, provided that: “The amendment made by subsection (a) [amending this section] shall not be construed or implemented in a way that causes any interruption in the allocations of fishery resources to the western Alaska community development quota program or in the opportunity of an entity participating in that program to harvest its share of such allocations.”
+Pub. L. 109–241, title IV, § 416(b), July 11, 2006, 120 Stat. 545, provided that: “The amendment made by subsection (a) [amending this section] shall not be construed or implemented in a way that causes any interruption in the allocations of fishery resources to the western Alaska community development quota program or in the opportunity of an entity participating in that program to harvest its share of such allocations.”
 
 **Eligibility To Participate in Western Alaska Community Development Quota Program**
 
-Pub. L. 109–59, title X, § 10206, Aug. 10, 2005, 119 Stat. 1934, provided that:
+Pub. L. 109–59, title X, § 10206, Aug. 10, 2005, 119 Stat. 1934, provided that:
 
 > “A community shall be eligible to participate in the western Alaska community development quota program established under section 305(i) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1855(i)) if the community—
 
@@ -6585,15 +6585,15 @@ Pub. L. 109–59, title X, § 10206, Aug. 10, 2005, 119 Stat. 1934, provided t
 
 **Community Development Quota Report**
 
-Pub. L. 104–297, title I, § 108(h), Oct. 11, 1996, 110 Stat. 3580, provided that not later than Oct. 1, 1998, the National Academy of Sciences would submit to the Secretary of Commerce and Congress a comprehensive report on the performance and effectiveness of the community development quota programs under the authority of the North Pacific and Western Pacific Councils, with specified evaluations and recommendations.
+Pub. L. 104–297, title I, § 108(h), Oct. 11, 1996, 110 Stat. 3580, provided that not later than Oct. 1, 1998, the National Academy of Sciences would submit to the Secretary of Commerce and Congress a comprehensive report on the performance and effectiveness of the community development quota programs under the authority of the North Pacific and Western Pacific Councils, with specified evaluations and recommendations.
 
 **Registry Transition for Limited Access System Permits**
 
-Pub. L. 104–297, title I, § 110(e), Oct. 11, 1996, 110 Stat. 3592, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Security interests on permits described under section 305(h)(1) of the Magnuson-Stevens Fishery Conservation and Management Act [16 U.S.C. 1855(h)(1)], as amended by this Act, that are effective and perfected by otherwise applicable law on the date of the final regulations implementing section 305(h) shall remain effective and perfected if, within 120 days after such date, the secured party submits evidence satisfactory to the Secretary of Commerce and in compliance with such regulations of the perfection of such security.”
+Pub. L. 104–297, title I, § 110(e), Oct. 11, 1996, 110 Stat. 3592, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “Security interests on permits described under section 305(h)(1) of the Magnuson-Stevens Fishery Conservation and Management Act [16 U.S.C. 1855(h)(1)], as amended by this Act, that are effective and perfected by otherwise applicable law on the date of the final regulations implementing section 305(h) shall remain effective and perfected if, within 120 days after such date, the secured party submits evidence satisfactory to the Secretary of Commerce and in compliance with such regulations of the perfection of such security.”
 
 **Western Pacific Demonstration Projects**
 
-Pub. L. 104–297, title I, § 111(b), Oct. 11, 1996, 110 Stat. 3594, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–250; Pub. L. 106–555, title II, § 206, Dec. 21, 2000, 114 Stat. 2770; Pub. L. 109–479, title II, § 207, Jan. 12, 2007, 120 Stat. 3615, provided that:
+Pub. L. 104–297, title I, § 111(b), Oct. 11, 1996, 110 Stat. 3594, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(g)], Dec. 21, 2000, 114 Stat. 2763, 2763A–250; Pub. L. 106–555, title II, § 206, Dec. 21, 2000, 114 Stat. 2770; Pub. L. 109–479, title II, § 207, Jan. 12, 2007, 120 Stat. 3615, provided that:
 
 > **“(1)** The Secretary of Commerce is authorized to make direct grants to eligible western Pacific communities, as recommended by the Western Pacific Fishery Management Council, for the purpose of establishing fishery demonstration projects to foster and promote traditional indigenous fishing practices. There are authorized to be appropriated to carry out this section [amending this section and enacting this note] $500,000 for each fiscal year.
 
@@ -6617,7 +6617,7 @@ Pub. L. 104–297, title I, § 111(b), Oct. 11, 1996, 110 Stat. 3594, as amend
 
 > **“(6)** In this subsection the term ‘Western Pacific community’ means a community eligible to participate under section 305(i)(2)(B)(i) through (iv) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1855(i)(2)(B)(i) through (iv)).”
 
-### § 1856. State jurisdiction
+### § 1856. State jurisdiction
 
 **(a) In general**
 
@@ -6687,7 +6687,7 @@ the Secretary shall promptly notify such State and the appropriate Council of su
 
 **(C)** A foreign fishing vessel shall be treated as qualified for purposes of paragraph (1) if the foreign nation under which it is flagged will be a party to (i) a governing international fishery agreement or (ii) a treaty described in section 1821(b) of this title during the time the vessel will engage in the fish processing for which permission is sought under paragraph (1)(B).
 
-(Pub. L. 94–265, title III, § 306, Apr. 13, 1976, 90 Stat. 355; Pub. L. 97–191, § 1, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, § 9, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 98–623, title IV, § 404(4), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–659, title I, § 101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, § 112, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 104–297, title I, § 112(a)–(c), Oct. 11, 1996, 110 Stat. 3595, 3596.)
+(Pub. L. 94–265, title III, § 306, Apr. 13, 1976, 90 Stat. 355; Pub. L. 97–191, § 1, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, § 9, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 98–623, title IV, § 404(4), Nov. 8, 1984, 98 Stat. 3408; Pub. L. 99–659, title I, § 101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, § 112, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 104–297, title I, § 112(a)–(c), Oct. 11, 1996, 110 Stat. 3595, 3596.)
 
 **Editorial Notes**
 
@@ -6697,17 +6697,17 @@ This chapter, referred to in subsecs. (a)(1), (2), (3)(C) and (b)(1)(A), was in 
 
 **Amendments**
 
-1996—Subsec. (a)(3). Pub. L. 104–297, § 112(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State.”
+1996—Subsec. (a)(3). Pub. L. 104–297, § 112(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State.”
 
-Subsec. (b)(3). Pub. L. 104–297, § 112(b), added par. (3).
+Subsec. (b)(3). Pub. L. 104–297, § 112(b), added par. (3).
 
-Subsec. (c)(1)(A). Pub. L. 104–297, § 112(c)(1), substituted “(4)(C) or has received a permit under section 1824(d) of this title;” for “(4)(C); and”.
+Subsec. (c)(1)(A). Pub. L. 104–297, § 112(c)(1), substituted “(4)(C) or has received a permit under section 1824(d) of this title;” for “(4)(C); and”.
 
-Subsec. (c)(1)(C). Pub. L. 104–297, § 112(c)(2), (3), added subpar. (C).
+Subsec. (c)(1)(C). Pub. L. 104–297, § 112(c)(2), (3), added subpar. (C).
 
-1990—Subsec. (c)(1)(B). Pub. L. 101–627, § 112(1), inserted before period at end “and the application specifies the species to be processed”.
+1990—Subsec. (c)(1)(B). Pub. L. 101–627, § 112(1), inserted before period at end “and the application specifies the species to be processed”.
 
-Subsec. (c)(2). Pub. L. 101–627, § 112(2), added par. (2) and struck out former par. (2) which read as follows: “The Governor of a State may not grant permission for a foreign fishing vessel to engage in fish processing under paragraph (1)(B) if he determines that fish processors within the State have adequate capacity, and will utilize such capacity, to process all of the United States harvested fish from the fishery concerned that are landed in the State.”
+Subsec. (c)(2). Pub. L. 101–627, § 112(2), added par. (2) and struck out former par. (2) which read as follows: “The Governor of a State may not grant permission for a foreign fishing vessel to engage in fish processing under paragraph (1)(B) if he determines that fish processors within the State have adequate capacity, and will utilize such capacity, to process all of the United States harvested fish from the fishery concerned that are landed in the State.”
 
 1986—Subsec. (b)(1)(A). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone”.
 
@@ -6721,11 +6721,11 @@ Subsec. (c)(2). Pub. L. 101–627, § 112(2), added par. (2) and struck out fo
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–191, § 3, June 1, 1982, 96 Stat. 108, provided that: “This Act [amending this section and section 1857 of this title] shall take effect on June 1, 1982.”
+Pub. L. 97–191, § 3, June 1, 1982, 96 Stat. 108, provided that: “This Act [amending this section and section 1857 of this title] shall take effect on June 1, 1982.”
 
 **Authority of States of Washington, Oregon, and California To Manage Dungeness Crab Fishery**
 
-Pub. L. 105–384, title II, § 203, Nov. 13, 1998, 112 Stat. 3453, as amended by Pub. L. 107–77, title VI, § 624, Nov. 28, 2001, 115 Stat. 803; Pub. L. 109–479, title III, § 302(e), Jan. 12, 2007, 120 Stat. 3624; Pub. L. 115–49, § 1, Aug. 18, 2017, 131 Stat. 1000, provided that:
+Pub. L. 105–384, title II, § 203, Nov. 13, 1998, 112 Stat. 3453, as amended by Pub. L. 107–77, title VI, § 624, Nov. 28, 2001, 115 Stat. 803; Pub. L. 109–479, title III, § 302(e), Jan. 12, 2007, 120 Stat. 3624; Pub. L. 115–49, § 1, Aug. 18, 2017, 131 Stat. 1000, provided that:
 
 > **“(a) In General.—** Subject to the provisions of this section and notwithstanding section 306(a) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1856(a)), each of the States of Washington, Oregon, and California may adopt and enforce State laws and regulations governing fishing and processing in the exclusive economic zone adjacent to that State in any Dungeness crab (Cancer magister) fishery for which there is no fishery management plan in effect under that Act [16 U.S.C. 1801 et seq.].
 
@@ -6759,11 +6759,11 @@ Pub. L. 105–384, title II, § 203, Nov. 13, 1998, 112 Stat. 3453, as amended
 
 > **“(3)** measures implemented or planned that are designed to prevent or end overfishing in the fishery.”
 
-Pub. L. 104–297, title I, § 112(d), Oct. 11, 1996, 110 Stat. 3596, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided interim authority to the States of Washington, Oregon, and California to enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by Pub. L. 105–384, title II, § 203(g), Nov. 13, 1998, 112 Stat. 3454.
+Pub. L. 104–297, title I, § 112(d), Oct. 11, 1996, 110 Stat. 3596, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided interim authority to the States of Washington, Oregon, and California to enforce State laws and regulations governing fish harvesting and processing against any vessel operating in the exclusive economic zone off each respective State in a fishery for Dungeness crab (Cancer magister) for which there is no fishery management plan implemented under this chapter, was repealed by Pub. L. 105–384, title II, § 203(g), Nov. 13, 1998, 112 Stat. 3454.
 
 **Foreign Fish Processing in Norton Sound**
 
-Pub. L. 99–509, title V, § 5004, Oct. 21, 1986, 100 Stat. 1912, provided that for purposes of processing pink salmon within the internal waters of the State of Alaska, the geographic area bounded on the north by a parallel of latitude of 64 degrees, 23 minutes, on the south by a parallel of latitude of 63 degrees, 51 minutes, on the east by the baseline from which the territorial sea was measured, and on the west by the outer limit of the territorial sea, was to be considered to be internal waters of the State of Alaska for the purposes of subsec. (c)(4)(B) of this section until Sept. 30, 1993.
+Pub. L. 99–509, title V, § 5004, Oct. 21, 1986, 100 Stat. 1912, provided that for purposes of processing pink salmon within the internal waters of the State of Alaska, the geographic area bounded on the north by a parallel of latitude of 64 degrees, 23 minutes, on the south by a parallel of latitude of 63 degrees, 51 minutes, on the east by the baseline from which the territorial sea was measured, and on the west by the outer limit of the territorial sea, was to be considered to be internal waters of the State of Alaska for the purposes of subsec. (c)(4)(B) of this section until Sept. 30, 1993.
 
 **Executive Documents**
 
@@ -6771,7 +6771,7 @@ Pub. L. 99–509, title V, § 5004, Oct. 21, 1986, 100 Stat. 1912, provided th
 
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
-### § 1857. Prohibited acts
+### § 1857. Prohibited acts
 
 It is unlawful—
 
@@ -6803,9 +6803,9 @@ It is unlawful—
 
 **(iii)** bears evidence of the forcible removal of extruded eggs from its abdominal appendages;
 
-**(K)** to to 1
+**(K)** to to 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 steal or attempt to steal or to negligently and without authorization remove, damage, or tamper with—
 
@@ -6867,11 +6867,11 @@ unless such vessel is authorized to engage in fishing in the area in which the v
 
 **(5)** for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
 
-(Pub. L. 94–265, title III, § 307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, § 5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, § 2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, § 15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§ 101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, § 4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, § 8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, § 113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, § 301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, § 113, title IV, § 405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, § 3, Dec. 21, 2000, 114 Stat. 2772; Pub. L. 109–479, title I, § 118, Jan. 12, 2007, 120 Stat. 3607; Pub. L. 111–348, title I, § 103(a), Jan. 4, 2011, 124 Stat. 3670; Pub. L. 114–81, title I, § 112, Nov. 5, 2015, 129 Stat. 659; Pub. L. 117–328, div. S, title I, § 105, Dec. 29, 2022, 136 Stat. 5260.)
+(Pub. L. 94–265, title III, § 307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, § 5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, § 2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, § 15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§ 101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, § 4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, § 8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, § 113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, § 301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, § 113, title IV, § 405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, § 3, Dec. 21, 2000, 114 Stat. 2772; Pub. L. 109–479, title I, § 118, Jan. 12, 2007, 120 Stat. 3607; Pub. L. 111–348, title I, § 103(a), Jan. 4, 2011, 124 Stat. 3670; Pub. L. 114–81, title I, § 112, Nov. 5, 2015, 129 Stat. 659; Pub. L. 117–328, div. S, title I, § 105, Dec. 29, 2022, 136 Stat. 5260.)
 
 **Amendment of Section**
 
-Pub. L. 102–251, title III, §§ 301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, as amended by Pub. L. 104–297, title IV, § 405(b)(1), Oct. 11, 1996, 110 Stat. 3621, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
+Pub. L. 102–251, title III, §§ 301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, as amended by Pub. L. 104–297, title IV, § 405(b)(1), Oct. 11, 1996, 110 Stat. 3621, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:
 
 (1) in paragraph (1)(K), by inserting “or special areas” immediately after “exclusive economic zone”;
 
@@ -6887,11 +6887,11 @@ Pub. L. 102–251, title III, §§ 301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66
 
 This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to chapter 71 (§ 5101 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to chapter 71 (§ 5101 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 **Amendments**
 
-2022—Par. (1)(M). Pub. L. 117–328 inserted before semicolon at end “, unless such large-scale driftnet fishing—
+2022—Par. (1)(M). Pub. L. 117–328 inserted before semicolon at end “, unless such large-scale driftnet fishing—
 
 “(i) deploys, within the exclusive economic zone, a net with a total length of less than two and one-half kilometers and a mesh size of 14 inches or greater; and
 
@@ -6899,9 +6899,9 @@ The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (
 
 2015—Par. (1)(Q). Pub. L. 114–81 inserted before the semicolon “or any treaty or in contravention of any binding conservation measure adopted by an international agreement or organization to which the United States is a party”.
 
-2011—Par. (1). Pub. L. 111–348, § 103(a)(2), substituted “For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term ‘naturally attached’, with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin.” for “For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed in violation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board.” in concluding provisions.
+2011—Par. (1). Pub. L. 111–348, § 103(a)(2), substituted “For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term ‘naturally attached’, with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin.” for “For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed in violation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board.” in concluding provisions.
 
-Par. (1)(P). Pub. L. 111–348, § 103(a)(1), amended subpar. (P) generally. Prior to amendment, subpar. (P) read as follows:
+Par. (1)(P). Pub. L. 111–348, § 103(a)(1), amended subpar. (P) generally. Prior to amendment, subpar. (P) read as follows:
 
 “(i) to remove any of the fins of a shark (including the tail) and discard the carcass of the shark at sea;
 
@@ -6913,47 +6913,47 @@ Par. (1)(P). Pub. L. 111–348, § 103(a)(1), amended subpar. (P) generally. P
 
 2000—Par. (1). Pub. L. 106–557 added subpar. (P) and concluding provisions.
 
-1996—Par. (1)(J)(i). Pub. L. 104–297, § 113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
+1996—Par. (1)(J)(i). Pub. L. 104–297, § 113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
 
-Par. (1)(K). Pub. L. 104–297, § 113(b)(2), substituted “gear;” for “gear,” at end of cl. (ii) and struck out concluding provisions which read as follows: “or to attempt to do so;”.
+Par. (1)(K). Pub. L. 104–297, § 113(b)(2), substituted “gear;” for “gear,” at end of cl. (ii) and struck out concluding provisions which read as follows: “or to attempt to do so;”.
 
-Pub. L. 104–297, § 113(b)(1), which directed substitution of “to steal or attempt to steal or to negligently and without authorization” for “knowingly steal or without authorization, to”, was executed by making the substitution for “knowingly steal, or without authorization, to” to reflect the probable intent of Congress.
+Pub. L. 104–297, § 113(b)(1), which directed substitution of “to steal or attempt to steal or to negligently and without authorization” for “knowingly steal or without authorization, to”, was executed by making the substitution for “knowingly steal, or without authorization, to” to reflect the probable intent of Congress.
 
-Par. (1)(L). Pub. L. 104–297, § 113(c), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “to forcibly assault, resist, oppose, impede, intimidate, or interfere with any observer on a vessel under this chapter;”.
+Par. (1)(L). Pub. L. 104–297, § 113(c), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “to forcibly assault, resist, oppose, impede, intimidate, or interfere with any observer on a vessel under this chapter;”.
 
-Par. (1)(O). Pub. L. 104–297, § 113(d), added subpar. (O).
+Par. (1)(O). Pub. L. 104–297, § 113(d), added subpar. (O).
 
-Par. (2)(A). Pub. L. 104–297, § 113(e), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title;”.
+Par. (2)(A). Pub. L. 104–297, § 113(e), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title;”.
 
-Par. (2)(B). Pub. L. 104–297, § 113(f), substituted “1821(i)” for “1821(j)” and “1824(b), (c), or (d)” for “1824(b) or (c)”.
+Par. (2)(B). Pub. L. 104–297, § 113(f), substituted “1821(i)” for “1821(j)” and “1824(b), (c), or (d)” for “1824(b) or (c)”.
 
-Par. (3). Pub. L. 104–297, § 113(g), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer directly or indirectly, or attempt to so transfer, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone, unless the foreign fishing vessel has been issued a permit under section 1824 of this title which authorizes the receipt by such vessel of United States harvested fish of the species concerned;”.
+Par. (3). Pub. L. 104–297, § 113(g), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer directly or indirectly, or attempt to so transfer, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone, unless the foreign fishing vessel has been issued a permit under section 1824 of this title which authorizes the receipt by such vessel of United States harvested fish of the species concerned;”.
 
-Par. (4). Pub. L. 104–297, § 113(h), inserted “or within the boundaries of any State” after “zone” in introductory provisions.
+Par. (4). Pub. L. 104–297, § 113(h), inserted “or within the boundaries of any State” after “zone” in introductory provisions.
 
-1990—Par. (1)(K) to (N). Pub. L. 101–627, § 113(a), added subpars. (K) to (N).
+1990—Par. (1)(K) to (N). Pub. L. 101–627, § 113(a), added subpars. (K) to (N).
 
-Par. (5). Pub. L. 101–627, § 113(b), added par. (5).
+Par. (5). Pub. L. 101–627, § 113(b), added par. (5).
 
 1989—Par. (1)(J). Pub. L. 101–224 added subpar. (J).
 
 1988—Par. (4). Pub. L. 100–629 added par. (4).
 
-1986—Par. (1)(I). Pub. L. 99–659, § 107(a), added subpar. (I).
+1986—Par. (1)(I). Pub. L. 99–659, § 107(a), added subpar. (I).
 
-Pars. (2)(B), (3). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
+Pars. (2)(B), (3). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-1983—Par. (2)(A). Pub. L. 97–453, § 15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title” for “in fishing within the boundaries of any State”.
+1983—Par. (2)(A). Pub. L. 97–453, § 15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title” for “in fishing within the boundaries of any State”.
 
-Par. (2)(B). Pub. L. 97–453, § 15(b)(B), inserted “, except recreational fishing permitted under section 1821(j) of this title,” after “in fishing”.
+Par. (2)(B). Pub. L. 97–453, § 15(b)(B), inserted “, except recreational fishing permitted under section 1821(j) of this title,” after “in fishing”.
 
-1982—Par. (2). Pub. L. 97–191, § 2(1), struck out “in fishing” in provisions preceding subpar. (A).
+1982—Par. (2). Pub. L. 97–191, § 2(1), struck out “in fishing” in provisions preceding subpar. (A).
 
-Par. (2)(A). Pub. L. 97–191, § 2(2), inserted “in fishing” at beginning and struck out “or” at end.
+Par. (2)(A). Pub. L. 97–191, § 2(2), inserted “in fishing” at beginning and struck out “or” at end.
 
-Par. (2)(B). Pub. L. 97–191, § 2(3), inserted “in fishing” at beginning and substituted “or” for “and” at end.
+Par. (2)(B). Pub. L. 97–191, § 2(3), inserted “in fishing” at beginning and substituted “or” for “and” at end.
 
-Par. (2)(C). Pub. L. 97–191, § 2(4), added subpar. (C).
+Par. (2)(C). Pub. L. 97–191, § 2(4), added subpar. (C).
 
 1978—Par. (3). Pub. L. 95–354 added par. (3).
 
@@ -6969,11 +6969,11 @@ Amendment by Pub. L. 97–191 effective June 1, 1982, see section 3 of Pub. L. 9
 
 **Effective Date**
 
-Pub. L. 94–265, title III, § 312, Apr. 13, 1976, 90 Stat. 359, provided that this section and sections 1858 to 1861 of this title were to take effect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, § 116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
+Pub. L. 94–265, title III, § 312, Apr. 13, 1976, 90 Stat. 359, provided that this section and sections 1858 to 1861 of this title were to take effect Mar. 1, 1977, prior to the general amendment of section 312 by Pub. L. 104–297, title I, § 116(a), Oct. 11, 1996, 110 Stat. 3600. See section 1861a of this title.
 
 **Savings Clause**
 
-Pub. L. 111–348, title I, § 103(b), Jan. 4, 2011, 124 Stat. 3670, provided that:
+Pub. L. 111–348, title I, § 103(b), Jan. 4, 2011, 124 Stat. 3670, provided that:
 
 > **“(1) In general.—** The amendments made by subsection (a) [amending this section] do not apply to an individual engaged in commercial fishing for smooth dogfish (*Mustelus canis*) in that area of the waters of the United States located shoreward of a line drawn in such a manner that each point on it is 50 nautical miles from the baseline of a State from which the territorial sea is measured, if the individual holds a valid State commercial fishing license, unless the total weight of smooth dogfish fins landed or found on board a vessel to which this subsection applies exceeds 12 percent of the total weight of smooth dogfish carcasses landed or found on board.
 
@@ -6989,7 +6989,7 @@ Nothing in section 103 of Pub. L. 111–348 (amending this section and enacting 
 
 **Prohibition on Sale of Shark Fins**
 
-Pub. L. 117–263, div. E, title LIX, § 5946(b), Dec. 23, 2022, 136 Stat. 3475, provided that:
+Pub. L. 117–263, div. E, title LIX, § 5946(b), Dec. 23, 2022, 136 Stat. 3475, provided that:
 
 > **“(1) Prohibition.—** Except as provided in paragraph (3), no person shall possess, acquire, receive, transport, offer for sale, sell, or purchase a shark fin or a product containing a shark fin.
 
@@ -7029,7 +7029,7 @@ Pub. L. 117–263, div. E, title LIX, § 5946(b), Dec. 23, 2022, 136 Stat. 347
 
 > **“(8) Shark fin defined.—** In this subsection, the term ‘shark fin’ means the unprocessed, dried, or otherwise processed detached fin or tail of a shark.”
 
-### § 1858. Civil penalties and permit sanctions
+### § 1858. Civil penalties and permit sanctions
 
 **(a) Assessment of penalty**
 
@@ -7079,11 +7079,11 @@ For the purposes of conducting any hearing under this section, the Secretary may
 
 **(5)** No sanctions shall be imposed under this subsection unless there has been a prior opportunity for a hearing on the facts underlying the violation for which the sanction is imposed, either in conjunction with a civil penalty proceeding under this section or otherwise.
 
-(Pub. L. 94–265, title III, § 308, Apr. 13, 1976, 90 Stat. 356; Pub. L. 97–453, § 10, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, § 108, Nov. 14, 1986, 100 Stat. 3713; Pub. L. 101–627, title I, § 114(a), Nov. 28, 1990, 104 Stat. 4454; Pub. L. 104–297, title I, § 114(a)–(c), Oct. 11, 1996, 110 Stat. 3598, 3599; Pub. L. 116–340, § 3(b), (e)(2), Jan. 13, 2021, 134 Stat. 5129.)
+(Pub. L. 94–265, title III, § 308, Apr. 13, 1976, 90 Stat. 356; Pub. L. 97–453, § 10, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, § 108, Nov. 14, 1986, 100 Stat. 3713; Pub. L. 101–627, title I, § 114(a), Nov. 28, 1990, 104 Stat. 4454; Pub. L. 104–297, title I, § 114(a)–(c), Oct. 11, 1996, 110 Stat. 3598, 3599; Pub. L. 116–340, § 3(b), (e)(2), Jan. 13, 2021, 134 Stat. 5129.)
 
 **Amendment of Subsection (a)**
 
-Pub. L. 116–340, § 3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that, effective five years after Jan. 13, 2021, subsection (a) of this section is amended by striking “or section 1870” after “section 1857”.
+Pub. L. 116–340, § 3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that, effective five years after Jan. 13, 2021, subsection (a) of this section is amended by striking “or section 1870” after “section 1857”.
 
 **Editorial Notes**
 
@@ -7093,25 +7093,25 @@ This chapter, referred to in subsec. (g)(1), was in the original “this Act”,
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–340, § 3(e)(2), struck out “or section 1870” after “section 1857”.
+2021—Subsec. (a). Pub. L. 116–340, § 3(e)(2), struck out “or section 1870” after “section 1857”.
 
-Pub. L. 116–340, § 3(b), inserted “or section 1870” after “section 1857”.
+Pub. L. 116–340, § 3(b), inserted “or section 1870” after “section 1857”.
 
-1996—Subsec. (a). Pub. L. 104–297, § 114(a), struck out “ability to pay,” after “history of prior offenses,” and inserted at end “In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing.”
+1996—Subsec. (a). Pub. L. 104–297, § 114(a), struck out “ability to pay,” after “history of prior offenses,” and inserted at end “In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing.”
 
-Subsec. (b). Pub. L. 104–297, § 114(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney.”
+Subsec. (b). Pub. L. 104–297, § 114(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the United States district court for the appropriate district by filing a complaint in such court within 30 days from the date of such order and by simultaneously serving a copy of such complaint by certified mail on the Secretary, the Attorney General and the appropriate United States Attorney.”
 
-Subsec. (g)(1). Pub. L. 104–297, § 114(c), substituted “(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue,” for “or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,”.
+Subsec. (g)(1). Pub. L. 104–297, § 114(c), substituted “(C) any amount in settlement of a civil forfeiture imposed on a vessel or other property, or any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any marine resource law enforced by the Secretary has not been paid and is overdue, or (D) any payment required for observer services provided to or contracted by an owner or operator who has been issued a permit or applied for a permit under any marine resource law administered by the Secretary has not been paid and is overdue,” for “or (C) any civil penalty or criminal fine imposed on a vessel or owner or operator of a vessel or any other person who has been issued or has applied for a permit under any fishery resource law statute enforced by the Secretary has not been paid and is overdue,”.
 
-1990—Pub. L. 101–627, § 114(a)(1), inserted “and permit sanctions” after “penalties” in section catchline.
+1990—Pub. L. 101–627, § 114(a)(1), inserted “and permit sanctions” after “penalties” in section catchline.
 
-Subsec. (a). Pub. L. 101–627, § 114(a)(2), substituted “$100,000” for “$25,000”.
+Subsec. (a). Pub. L. 101–627, § 114(a)(2), substituted “$100,000” for “$25,000”.
 
-Subsec. (g). Pub. L. 101–627, § 114(a)(3), added subsec. (g).
+Subsec. (g). Pub. L. 101–627, § 114(a)(3), added subsec. (g).
 
-1986—Subsec. (b). Pub. L. 99–659, § 108(1), amended first sentence generally. Prior to amendment, the sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the appropriate court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary”.
+1986—Subsec. (b). Pub. L. 99–659, § 108(1), amended first sentence generally. Prior to amendment, the sentence read as follows: “Any person against whom a civil penalty is assessed under subsection (a) of this section may obtain review thereof in the appropriate court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary”.
 
-Subsecs. (d) to (f). Pub. L. 99–659, § 108(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 99–659, § 108(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 1983—Subsec. (e). Pub. L. 97–453 added subsec. (e).
 
@@ -7119,15 +7119,15 @@ Subsecs. (d) to (f). Pub. L. 99–659, § 108(2), (3), added subsec. (d) and r
 
 **Effective and Termination Dates of 2021 Amendment**
 
-Pub. L. 116–340, § 3(c), Jan. 13, 2021, 134 Stat. 5129, provided that: “The amendments made by this Act [enacting section 1870 of this title and amending this section] shall take effect 1 year after the date of the enactment of this Act [Jan. 13, 2021].”
+Pub. L. 116–340, § 3(c), Jan. 13, 2021, 134 Stat. 5129, provided that: “The amendments made by this Act [enacting section 1870 of this title and amending this section] shall take effect 1 year after the date of the enactment of this Act [Jan. 13, 2021].”
 
-Pub. L. 116–340, § 3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that the amendment made by section 3(e)(2) is effective five years after Jan. 13, 2021.
+Pub. L. 116–340, § 3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that the amendment made by section 3(e)(2) is effective five years after Jan. 13, 2021.
 
 **Effective Date**
 
 Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly set out as a note under section 1857 of this title.
 
-### § 1859. Criminal offenses
+### § 1859. Criminal offenses
 
 **(a) Offenses** A person is guilty of an offense if he commits any act prohibited by—
 
@@ -7143,7 +7143,7 @@ Any offense described in subsection (a)(1) is punishable by a fine of not more t
 
 There is Federal jurisdiction over any offense described in this section.
 
-(Pub. L. 94–265, title III, § 309, Apr. 13, 1976, 90 Stat. 357; Pub. L. 97–453, § 11(a), Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, § 107(b), Nov. 14, 1986, 100 Stat. 3713; Pub. L. 100–66, § 2, July 10, 1987, 101 Stat. 384; Pub. L. 101–627, title I, § 115, Nov. 28, 1990, 104 Stat. 4455.)
+(Pub. L. 94–265, title III, § 309, Apr. 13, 1976, 90 Stat. 357; Pub. L. 97–453, § 11(a), Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, § 107(b), Nov. 14, 1986, 100 Stat. 3713; Pub. L. 100–66, § 2, July 10, 1987, 101 Stat. 384; Pub. L. 101–627, title I, § 115, Nov. 28, 1990, 104 Stat. 4455.)
 
 **Editorial Notes**
 
@@ -7153,27 +7153,27 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **Amendments**
 
-1990—Subsec. (a)(1). Pub. L. 101–627, § 115(a), amended par. (1) generally, substituting “(I), or (L)” for “or (I)”.
+1990—Subsec. (a)(1). Pub. L. 101–627, § 115(a), amended par. (1) generally, substituting “(I), or (L)” for “or (I)”.
 
-Subsec. (b). Pub. L. 101–627, § 115(b), substituted “$100,000” for “$50,000”, substituted “$200,000” for “$100,000” in two places, and inserted “any observer described in section 1857(1)(L) of this title or” after “injury to” and “observer or” before “officer in fear”.
+Subsec. (b). Pub. L. 101–627, § 115(b), substituted “$100,000” for “$50,000”, substituted “$200,000” for “$100,000” in two places, and inserted “any observer described in section 1857(1)(L) of this title or” after “injury to” and “observer or” before “officer in fear”.
 
 1987—Subsec. (a)(1). Pub. L. 100–66 substituted “(I)” for “(J)”.
 
 1986—Subsec. (a)(1). Pub. L. 99–659 substituted “(H), or (J)” for “or (H)”.
 
-1983—Subsec. (b). Pub. L. 97–453 struck out “, or imprisonment for not more than 1 year, or both” after “subsection (a)(2) is punishable by a fine of not more than $100,000”.
+1983—Subsec. (b). Pub. L. 97–453 struck out “, or imprisonment for not more than 1 year, or both” after “subsection (a)(2) is punishable by a fine of not more than $100,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–453, § 11(b), Jan. 12, 1983, 96 Stat. 2491, provided that: “The amendment made by subsection (a) [amending this section] applies with respect to offenses committed under section 309 [this section] on or after the date of the enactment of this Act [Jan. 12, 1983].”
+Pub. L. 97–453, § 11(b), Jan. 12, 1983, 96 Stat. 2491, provided that: “The amendment made by subsection (a) [amending this section] applies with respect to offenses committed under section 309 [this section] on or after the date of the enactment of this Act [Jan. 12, 1983].”
 
 **Effective Date**
 
 Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly set out as a note under section 1857 of this title.
 
-### § 1860. Civil forfeitures
+### § 1860. Civil forfeitures
 
 **(a) In general**
 
@@ -7213,7 +7213,7 @@ upon the receipt of a satisfactory bond or other security from any person claimi
 
 **(3)** For purposes of this chapter, it shall be a rebuttable presumption that any vessel that is shoreward of the outer boundary of the exclusive economic zone of the United States or beyond the exclusive economic zone of any nation, and that has gear on board that is capable of use for large-scale driftnet fishing, is engaged in such fishing.
 
-(Pub. L. 94–265, title III, § 310, Apr. 13, 1976, 90 Stat. 357; Pub. L. 97–453, § 12, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, § 109(a), Nov. 14, 1986, 100 Stat. 3714; Pub. L. 101–627, title I, § 116, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 104–297, title I, § 114(d), Oct. 11, 1996, 110 Stat. 3599; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Pub. L. 94–265, title III, § 310, Apr. 13, 1976, 90 Stat. 357; Pub. L. 97–453, § 12, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, § 109(a), Nov. 14, 1986, 100 Stat. 3714; Pub. L. 101–627, title I, § 116, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 104–297, title I, § 114(d), Oct. 11, 1996, 110 Stat. 3599; Pub. L. 114–125, title VIII, § 802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
 **Editorial Notes**
 
@@ -7227,7 +7227,7 @@ This chapter, referred to in subsecs. (c), (d)(2), and (e), was in the original 
 
 1990—Subsec. (e). Pub. L. 101–627 designated existing provisions as par. (1) and added par. (2).
 
-1986—Subsec. (c). Pub. L. 99–659, § 109(a)(1), amended second sentence generally. Prior to amendment, second sentence of subsec. (c) read as follows: “The provisions of the customs laws relating to—
+1986—Subsec. (c). Pub. L. 99–659, § 109(a)(1), amended second sentence generally. Prior to amendment, second sentence of subsec. (c) read as follows: “The provisions of the customs laws relating to—
 
 “(1) the disposition of forfeited property,
 
@@ -7239,7 +7239,7 @@ This chapter, referred to in subsecs. (c), (d)(2), and (e), was in the original 
 
 shall apply to any forfeiture ordered, and to any case in which forfeiture is alleged to be authorized, under this section, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter.”
 
-Subsec. (d)(1). Pub. L. 99–659, § 109(a)(2), inserted provision that nothing in this paragraph may be construed to require the Secretary, except in the Secretary’s discretion or pursuant to the order of a court under section 1861(d) of this title, to release on bond any seized fish or other property or the proceeds from the sale thereof.
+Subsec. (d)(1). Pub. L. 99–659, § 109(a)(2), inserted provision that nothing in this paragraph may be construed to require the Secretary, except in the Secretary’s discretion or pursuant to the order of a court under section 1861(d) of this title, to release on bond any seized fish or other property or the proceeds from the sale thereof.
 
 1983—Subsec. (a). Pub. L. 97–453 inserted “(or the fair market value thereof)” after “fish” wherever appearing.
 
@@ -7257,7 +7257,7 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-### § 1861. Enforcement
+### § 1861. Enforcement
 
 **(a) Responsibility**
 
@@ -7401,11 +7401,11 @@ The Secretary shall include in each joint enforcement agreement an allocation of
 
 **(2)** The term “violation of any provision of this chapter” includes (A) the commission of any act prohibited by section 1857 of this title, and (B) the violation of any regulation, permit, or agreement referred to in paragraph (1).
 
-(Pub. L. 94–265, title III, § 311, Apr. 13, 1976, 90 Stat. 358; Pub. L. 96–470, title II, § 209(e), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–453, §§ 13, 15(c), Jan. 12, 1983, 96 Stat. 2491, 2493; Pub. L. 99–659, title I, §§ 101(c)(2), 109(b), Nov. 14, 1986, 100 Stat. 3707, 3714; Pub. L. 101–627, title I, § 117, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 102–251, title III, § 301(i), Mar. 9, 1992, 106 Stat. 64; Pub. L. 102–567, title IX, § 901, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 104–297, title I, § 115, Oct. 11, 1996, 110 Stat. 3599; Pub. L. 109–479, title I, § 111(a), Jan. 12, 2007, 120 Stat. 3596; Pub. L. 114–120, title VI, § 609, Feb. 8, 2016, 130 Stat. 83.)
+(Pub. L. 94–265, title III, § 311, Apr. 13, 1976, 90 Stat. 358; Pub. L. 96–470, title II, § 209(e), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 97–453, §§ 13, 15(c), Jan. 12, 1983, 96 Stat. 2491, 2493; Pub. L. 99–659, title I, §§ 101(c)(2), 109(b), Nov. 14, 1986, 100 Stat. 3707, 3714; Pub. L. 101–627, title I, § 117, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 102–251, title III, § 301(i), Mar. 9, 1992, 106 Stat. 64; Pub. L. 102–567, title IX, § 901, Oct. 29, 1992, 106 Stat. 4316; Pub. L. 104–297, title I, § 115, Oct. 11, 1996, 110 Stat. 3599; Pub. L. 109–479, title I, § 111(a), Jan. 12, 2007, 120 Stat. 3596; Pub. L. 114–120, title VI, § 609, Feb. 8, 2016, 130 Stat. 83.)
 
 **Amendment of Subsection (b)(2)**
 
-Pub. L. 102–251, title III, §§ 301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting “and special areas,” after “exclusive economic zone”.
+Pub. L. 102–251, title III, §§ 301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting “and special areas,” after “exclusive economic zone”.
 
 **Editorial Notes**
 
@@ -7413,33 +7413,33 @@ Pub. L. 102–251, title III, §§ 301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
+The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 **Amendments**
 
 2016—Subsec. (d). Pub. L. 114–120, in introductory provisions, substituted “In the case of Hawaii or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Hawaii, except that in the case of Guam and Wake Island, the appropriate court is the United States District Court for the District of Guam, and in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands.” for “In the case of Guam or any possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands.”
 
-2007—Subsec. (b)(1)(A)(vi). Pub. L. 109–479, § 111(a)(1)–(3), added cl. (vi).
+2007—Subsec. (b)(1)(A)(vi). Pub. L. 109–479, § 111(a)(1)–(3), added cl. (vi).
 
-Subsecs. (h) to (j). Pub. L. 109–479, § 111(a)(4), (5), added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
+Subsecs. (h) to (j). Pub. L. 109–479, § 111(a)(4), (5), added subsecs. (h) and (i) and redesignated former subsec. (h) as (j).
 
-1996—Subsec. (d). Pub. L. 104–297, § 115(a)(2), inserted “, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands” after “District of Hawaii”.
+1996—Subsec. (d). Pub. L. 104–297, § 115(a)(2), inserted “, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands” after “District of Hawaii”.
 
-Pub. L. 104–297, § 115(a)(1), which directed substitution of “Guam or any” for “Guam, any Commonwealth, territory, or”, was executed by making the substitution for “Guam, and any Commonwealth, territory, or”, to reflect the probable intent of Congress.
+Pub. L. 104–297, § 115(a)(1), which directed substitution of “Guam or any” for “Guam, any Commonwealth, territory, or”, was executed by making the substitution for “Guam, and any Commonwealth, territory, or”, to reflect the probable intent of Congress.
 
-Subsec. (e)(1). Pub. L. 104–297, § 115(b)(1), substituted “marine resource law” for “fishery resource law” in introductory provisions and in subpars. (A) and (B).
+Subsec. (e)(1). Pub. L. 104–297, § 115(b)(1), substituted “marine resource law” for “fishery resource law” in introductory provisions and in subpars. (A) and (B).
 
-Subsec. (e)(1)(B). Pub. L. 104–297, § 115(b)(2), inserted “of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount,” after “reward”.
+Subsec. (e)(1)(B). Pub. L. 104–297, § 115(b)(2), inserted “of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount,” after “reward”.
 
-Subsec. (e)(1)(E). Pub. L. 104–297, § 115(b)(3), added subpar. (E) and struck out former subpar. (E) which read as follows: “claims of parties in interest to property disposed of under section 1612(b) of title 19 or under other provisions of the customs laws, as made applicable by section 1860(c) of this title to seizures made by the Secretary under this chapter, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and”.
+Subsec. (e)(1)(E). Pub. L. 104–297, § 115(b)(3), added subpar. (E) and struck out former subpar. (E) which read as follows: “claims of parties in interest to property disposed of under section 1612(b) of title 19 or under other provisions of the customs laws, as made applicable by section 1860(c) of this title to seizures made by the Secretary under this chapter, in amounts determined by the Secretary to be applicable to such claims at the time of seizure; and”.
 
-Subsec. (e)(2). Pub. L. 104–297, § 115(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any person assessed a civil penalty for, or convicted of, any violation of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation.”
+Subsec. (e)(2). Pub. L. 104–297, § 115(c), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any person assessed a civil penalty for, or convicted of, any violation of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation.”
 
-Subsec. (g). Pub. L. 104–297, § 115(d), added subsec. (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 104–297, § 115(d), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 104–297, § 115(d), redesignated subsec. (g) as (h).
+Subsec. (h). Pub. L. 104–297, § 115(d), redesignated subsec. (g) as (h).
 
-Subsec. (h)(1). Pub. L. 104–297, § 115(e), which directed amendment of subsec. (i)(1) by substituting “1821(b) or (c) of this title, or section 1824(d) of this title,” for “1821(b), (c) of this title,”, was executed by making the substitution for “1821(b) or (c) of this title” in subsec. (h)(1) to reflect the probable intent of Congress because this section does not contain a subsec. (i).
+Subsec. (h)(1). Pub. L. 104–297, § 115(e), which directed amendment of subsec. (i)(1) by substituting “1821(b) or (c) of this title, or section 1824(d) of this title,” for “1821(b), (c) of this title,”, was executed by making the substitution for “1821(b) or (c) of this title” in subsec. (h)(1) to reflect the probable intent of Congress because this section does not contain a subsec. (i).
 
 1992—Subsecs. (f), (g). Pub. L. 102–567 added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -7451,19 +7451,19 @@ Subsec. (h)(1). Pub. L. 104–297, § 115(e), which directed amendment of subs
 
 Any person assessed a civil penalty for, or convicted of, any violation of any provision of this chapter shall be liable for the cost incurred in storage, care, and maintenance of any fish or other property seized in connection with the violation concerned.”
 
-1986—Subsec. (b)(2). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
+1986—Subsec. (b)(2). Pub. L. 99–659, § 101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-Subsecs. (e), (f). Pub. L. 99–659, § 109(b), added subsec. (e) and redesignated former subsec. (e) as (f).
+Subsecs. (e), (f). Pub. L. 99–659, § 109(b), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-1983—Subsec. (a). Pub. L. 97–453, § 15(c), struck out provision that the Secretaries were to report annually on June 30, to each committee of the Congress listed in section 1823(b) of this title and to the Councils, on the degree and extent of known and estimated compliance with the provisions of this chapter during the preceding calendar year.
+1983—Subsec. (a). Pub. L. 97–453, § 15(c), struck out provision that the Secretaries were to report annually on June 30, to each committee of the Congress listed in section 1823(b) of this title and to the Councils, on the degree and extent of known and estimated compliance with the provisions of this chapter during the preceding calendar year.
 
-Subsec. (b)(1). Pub. L. 97–453, § 13(1), designated existing provisions as par. (1).
+Subsec. (b)(1). Pub. L. 97–453, § 13(1), designated existing provisions as par. (1).
 
-Subsec. (b)(1)(A). Pub. L. 97–453, § 13(2), (3), redesignated former par. (1) as subpar. (A) and, in subpar. (A) as redesignated, redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively.
+Subsec. (b)(1)(A). Pub. L. 97–453, § 13(2), (3), redesignated former par. (1) as subpar. (A) and, in subpar. (A) as redesignated, redesignated former subpars. (A) to (E) as cls. (i) to (v), respectively.
 
-Subsec. (b)(1)(B), (C). Pub. L. 97–453, § 13(2), redesignated former pars. (2) and (3) as subpars. (B) and (C), respectively.
+Subsec. (b)(1)(B), (C). Pub. L. 97–453, § 13(2), redesignated former pars. (2) and (3) as subpars. (B) and (C), respectively.
 
-Subsec. (b)(2). Pub. L. 97–453, § 13(4), added par. (2).
+Subsec. (b)(2). Pub. L. 97–453, § 13(4), added par. (2).
 
 1980—Subsec. (a). Pub. L. 96–470 substituted “annually on June 30” for “semiannually” and inserted “during the preceding calendar year” after “with the provisions of this chapter”.
 
@@ -7483,7 +7483,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Fisheries Enforcement Asset Forfeiture Fund and Sanctuaries Enforcement Asset Forfeiture Fund**
 
-Pub. L. 112–55, div. B, title I, §§ 110, 111, Nov. 18, 2011, 125 Stat. 602, provided that:
+Pub. L. 112–55, div. B, title I, §§ 110, 111, Nov. 18, 2011, 125 Stat. 602, provided that:
 
 > **“Sec. 110.**
 
@@ -7495,7 +7495,7 @@ Pub. L. 112–55, div. B, title I, §§ 110, 111, Nov. 18, 2011, 125 Stat. 602
 
 **Action Against Vessels and Vessel Owners Engaged in Illegal, Unreported, or Unregulated Fishing**
 
-Pub. L. 110–161, div. B, title I, § 113, Dec. 26, 2007, 121 Stat. 1896, provided that:
+Pub. L. 110–161, div. B, title I, § 113, Dec. 26, 2007, 121 Stat. 1896, provided that:
 
 > **“(a)** The Secretary of Commerce may—
 
@@ -7509,13 +7509,13 @@ Pub. L. 110–161, div. B, title I, § 113, Dec. 26, 2007, 121 Stat. 1896, pro
 
 **Integration of Vessel Monitoring System Data**
 
-Pub. L. 109–241, title VIII, § 803, July 11, 2006, 120 Stat. 563, provided that: “The Secretary of the department in which the Coast Guard is operating shall integrate vessel monitoring system data into its maritime operations databases for the purpose of improving monitoring and enforcement of Federal fisheries laws and work with the Under Secretary of Commerce for Oceans and Atmosphere to ensure effective use of such data for monitoring and enforcement.”
+Pub. L. 109–241, title VIII, § 803, July 11, 2006, 120 Stat. 563, provided that: “The Secretary of the department in which the Coast Guard is operating shall integrate vessel monitoring system data into its maritime operations databases for the purpose of improving monitoring and enforcement of Federal fisheries laws and work with the Under Secretary of Commerce for Oceans and Atmosphere to ensure effective use of such data for monitoring and enforcement.”
 
 **Agreement To Make More Effective Enforcement of Domestic Laws and International Agreements**
 
-Pub. L. 102–582, title II, § 202, Nov. 2, 1992, 106 Stat. 4905, provided that not later than six months after Nov. 2, 1992, the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and the Secretary of Defense were to enter into an agreement under subsec. (a) of this section to make more effective the enforcement of domestic laws and international agreements that conserve and manage living marine resources of the United States.
+Pub. L. 102–582, title II, § 202, Nov. 2, 1992, 106 Stat. 4905, provided that not later than six months after Nov. 2, 1992, the Secretary of the department in which the Coast Guard is operating, the Secretary of Commerce, and the Secretary of Defense were to enter into an agreement under subsec. (a) of this section to make more effective the enforcement of domestic laws and international agreements that conserve and manage living marine resources of the United States.
 
-### § 1861a. Transition to sustainable fisheries
+### § 1861a. Transition to sustainable fisheries
 
 **(a) Fishery resource disaster relief**
 
@@ -7943,11 +7943,11 @@ There are authorized to be appropriated to carry out this subsection $377,000,00
 
 **(2)** The objective of the program shall be to obtain the maximum sustained reduction in fishing capacity at the least cost and in a minimum period of time. To achieve that objective, the Secretary is authorized to pay—
 
-**(A)** the owner of a fishing vessel, if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the vessel owner and permit holder relinquish any claim associated with the vessel or permit that could qualify such owner or holder for any present or future limited access system permit in the fishery for which the program is established or in any other fishery and such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions (including loss of the vessel’s fisheries endorsement) that permanently prohibit and effectively prevent its use in fishing in federal 1
+**(A)** the owner of a fishing vessel, if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the vessel owner and permit holder relinquish any claim associated with the vessel or permit that could qualify such owner or holder for any present or future limited access system permit in the fishery for which the program is established or in any other fishery and such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions (including loss of the vessel’s fisheries endorsement) that permanently prohibit and effectively prevent its use in fishing in federal 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
-or state 1 waters, or fishing on the high seas or in the waters of a foreign nation; or
+or state 1 waters, or fishing on the high seas or in the waters of a foreign nation; or
 
 **(B)** the holder of a permit authorizing participation in the fishery, if such permit is surrendered for permanent revocation, and such holder relinquishes any claim associated with the permit and vessel used to harvest fishery resources under the permit that could qualify such holder for any present or future limited access system permit in the fishery for which the program was established.
 
@@ -8051,7 +8051,7 @@ Each program not involving fair market assessment shall involve a reduction auct
 
 Each program shall proceed by the Secretary issuing invitations to bid setting out the terms and conditions for participation consistent with the framework and implementing regulations. Each bid that the Secretary receives in response to the invitation to bid shall constitute an irrevocable offer from the bidder.
 
-(Pub. L. 94–265, title III, § 312, as added Pub. L. 104–297, title I, § 116(a), Oct. 11, 1996, 110 Stat. 3600; amended Pub. L. 109–479, title I, § 112(a), Jan. 12, 2007, 120 Stat. 3598; Pub. L. 117–328, div. S, title II, § 202, Dec. 29, 2022, 136 Stat. 5261; Pub. L. 118–229, § 2, Jan. 4, 2025, 138 Stat. 2824.)
+(Pub. L. 94–265, title III, § 312, as added Pub. L. 104–297, title I, § 116(a), Oct. 11, 1996, 110 Stat. 3600; amended Pub. L. 109–479, title I, § 112(a), Jan. 12, 2007, 120 Stat. 3598; Pub. L. 117–328, div. S, title II, § 202, Dec. 29, 2022, 136 Stat. 5261; Pub. L. 118–229, § 2, Jan. 4, 2025, 138 Stat. 2824.)
 
 **Editorial Notes**
 
@@ -8061,7 +8061,7 @@ This chapter, referred to in subsec. (a)(1)(C)(ii)(II), was in the original “t
 
 **Codification**
 
-In subsecs. (b)(1)(C), (c)(1)(C), (2), and (d)(2), “section 53735 of title 46” substituted for “section 1111 of title XI of the Merchant Marine Act, 1936” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 53735 of Title 46, Shipping.
+In subsecs. (b)(1)(C), (c)(1)(C), (2), and (d)(2), “section 53735 of title 46” substituted for “section 1111 of title XI of the Merchant Marine Act, 1936” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 53735 of Title 46, Shipping.
 
 **Prior Provisions**
 
@@ -8069,51 +8069,51 @@ A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359,
 
 **Amendments**
 
-2025—Subsec. (a)(6)(D). Pub. L. 118–229, § 2(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) related to spend plans.
+2025—Subsec. (a)(6)(D). Pub. L. 118–229, § 2(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) related to spend plans.
 
-Subsec. (a)(6)(F)(i). Pub. L. 118–229, § 2(2), amended cl. (i) generally. Prior to amendment, text read as follows: “Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.”
+Subsec. (a)(6)(F)(i). Pub. L. 118–229, § 2(2), amended cl. (i) generally. Prior to amendment, text read as follows: “Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.”
 
 2022—Subsec. (a). Pub. L. 117–328 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to fisheries disaster relief.
 
-2007—Subsec. (a)(1)(B). Pub. L. 109–479, § 112(a)(1), substituted “measures, including regulatory restrictions (including those imposed as a result of judicial action) imposed to protect human health or the marine environment;” for “measures;”.
+2007—Subsec. (a)(1)(B). Pub. L. 109–479, § 112(a)(1), substituted “measures, including regulatory restrictions (including those imposed as a result of judicial action) imposed to protect human health or the marine environment;” for “measures;”.
 
-Subsec. (a)(4). Pub. L. 109–479, § 112(a)(2), substituted “2007 through 2013.” for “1996, 1997, 1998, and 1999.”
+Subsec. (a)(4). Pub. L. 109–479, § 112(a)(2), substituted “2007 through 2013.” for “1996, 1997, 1998, and 1999.”
 
-Subsec. (b)(1). Pub. L. 109–479, § 112(a)(3), in introductory provisions, substituted “the Governor of a State for fisheries under State authority, or a majority of permit holders in the fishery, may conduct a voluntary fishing” for “or the Governor of a State for fisheries under State authority, may conduct a fishing”.
+Subsec. (b)(1). Pub. L. 109–479, § 112(a)(3), in introductory provisions, substituted “the Governor of a State for fisheries under State authority, or a majority of permit holders in the fishery, may conduct a voluntary fishing” for “or the Governor of a State for fisheries under State authority, may conduct a fishing”.
 
-Subsec. (b)(1)(B)(i). Pub. L. 109–479, § 112(a)(4), inserted “practicable” after “entrants,”.
+Subsec. (b)(1)(B)(i). Pub. L. 109–479, § 112(a)(4), inserted “practicable” after “entrants,”.
 
-Subsec. (b)(1)(C). Pub. L. 109–479, § 112(a)(5), substituted “cost-effective and, in the instance of a program involving an industry fee system, prospectively” for “cost-effective and”.
+Subsec. (b)(1)(C). Pub. L. 109–479, § 112(a)(5), substituted “cost-effective and, in the instance of a program involving an industry fee system, prospectively” for “cost-effective and”.
 
-Subsec. (b)(2)(A). Pub. L. 109–479, § 112(a)(6), added subpar. (A) and struck out former subpar. (A) which read as follows: “the owner of a fishing vessel, if such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions that permanently prohibit and effectively prevent its use in fishing, and if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the owner relinquishes any claim associated with the vessel and permit that could qualify such owner for any present or future limited access system permit in the fishery for which the program is established; or”.
+Subsec. (b)(2)(A). Pub. L. 109–479, § 112(a)(6), added subpar. (A) and struck out former subpar. (A) which read as follows: “the owner of a fishing vessel, if such vessel is (i) scrapped, or (ii) through the Secretary of the department in which the Coast Guard is operating, subjected to title restrictions that permanently prohibit and effectively prevent its use in fishing, and if the permit authorizing the participation of the vessel in the fishery is surrendered for permanent revocation and the owner relinquishes any claim associated with the vessel and permit that could qualify such owner for any present or future limited access system permit in the fishery for which the program is established; or”.
 
-Subsec. (b)(4). Pub. L. 109–479, § 112(a)(7), substituted “The harvester proponents of each program and the Secretary shall consult, as appropriate and practicable, with Councils,” for “The Secretary shall consult, as appropriate, with Councils,”.
+Subsec. (b)(4). Pub. L. 109–479, § 112(a)(7), substituted “The harvester proponents of each program and the Secretary shall consult, as appropriate and practicable, with Councils,” for “The Secretary shall consult, as appropriate, with Councils,”.
 
-Subsec. (b)(5), (6). Pub. L. 109–479, § 112(a)(8), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 109–479, § 112(a)(8), added pars. (5) and (6).
 
-Subsec. (d)(1)(A). Pub. L. 109–479, § 112(a)(9), (10), in introductory provisions, substituted “Secretary” for “Secretary, at the request of the appropriate Council,” before “may conduct” and “Secretary” for “Secretary, in consultation with the Council,” before “shall—”.
+Subsec. (d)(1)(A). Pub. L. 109–479, § 112(a)(9), (10), in introductory provisions, substituted “Secretary” for “Secretary, at the request of the appropriate Council,” before “may conduct” and “Secretary” for “Secretary, in consultation with the Council,” before “shall—”.
 
-Subsec. (d)(1)(B). Pub. L. 109–479, § 112(a)(11), substituted “at least a majority of the permit holders in the fishery, or 50 percent of the permitted allocation of the fishery, who participated in the fishery.” for “a two-thirds majority of the participants voting.”
+Subsec. (d)(1)(B). Pub. L. 109–479, § 112(a)(11), substituted “at least a majority of the permit holders in the fishery, or 50 percent of the permitted allocation of the fishery, who participated in the fishery.” for “a two-thirds majority of the participants voting.”
 
-Subsec. (d)(2)(C). Pub. L. 109–479, § 112(a)(12), substituted “establish, unless the Secretary determines that such fees should be collected from the seller;” for “establish;”.
+Subsec. (d)(2)(C). Pub. L. 109–479, § 112(a)(12), substituted “establish, unless the Secretary determines that such fees should be collected from the seller;” for “establish;”.
 
-Subsec. (e). Pub. L. 109–479, § 112(a)(13), added subsec. (e) and struck out former subsec. (e) which related to implementation plan.
+Subsec. (e). Pub. L. 109–479, § 112(a)(13), added subsec. (e) and struck out former subsec. (e) which related to implementation plan.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 109–479, title I, § 112(b), Jan. 12, 2007, 120 Stat. 3601, provided that: “Sections 116, 203, 204, 205, and 206 of the Sustainable Fisheries Act [Pub. L. 104–297, see Tables for classification] are deemed to have added sections 312, 402, 403, 404, and 405 [16 U.S.C. 1861a, 1881a to 1881d], respectively to the Act [Pub. L. 94–265] as of the date of enactment of the Sustainable Fisheries Act [Oct. 11, 1996].”
+Pub. L. 109–479, title I, § 112(b), Jan. 12, 2007, 120 Stat. 3601, provided that: “Sections 116, 203, 204, 205, and 206 of the Sustainable Fisheries Act [Pub. L. 104–297, see Tables for classification] are deemed to have added sections 312, 402, 403, 404, and 405 [16 U.S.C. 1861a, 1881a to 1881d], respectively to the Act [Pub. L. 94–265] as of the date of enactment of the Sustainable Fisheries Act [Oct. 11, 1996].”
 
 **Budget Request for Department of Commerce**
 
-Pub. L. 117–328, div. S, title II, § 205(a), Dec. 29, 2022, 136 Stat. 5270, provided that: “In the budget justification materials submitted to Congress in support of the budget of the Department of Commerce for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), the Secretary of Commerce shall include a separate statement of the amount for each outstanding unfunded fishery resource disasters.”
+Pub. L. 117–328, div. S, title II, § 205(a), Dec. 29, 2022, 136 Stat. 5270, provided that: “In the budget justification materials submitted to Congress in support of the budget of the Department of Commerce for each fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code), the Secretary of Commerce shall include a separate statement of the amount for each outstanding unfunded fishery resource disasters.”
 
 **Study of Federal Investment in Fisheries**
 
-Pub. L. 104–297, title I, § 116(b), Oct. 11, 1996, 110 Stat. 3603, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, required the Secretary of Commerce to establish a task force comprised of interested parties to study and report to Congress within 2 years of Oct. 11, 1996, on the role of the Federal Government in subsidizing the expansion and contraction of fishing capacity in fishing fleets managed under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) and otherwise influencing the aggregate capital investments in fisheries.
+Pub. L. 104–297, title I, § 116(b), Oct. 11, 1996, 110 Stat. 3603, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, required the Secretary of Commerce to establish a task force comprised of interested parties to study and report to Congress within 2 years of Oct. 11, 1996, on the role of the Federal Government in subsidizing the expansion and contraction of fishing capacity in fishing fleets managed under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) and otherwise influencing the aggregate capital investments in fisheries.
 
-### § 1861b. Fisheries enforcement plans and reporting
+### § 1861b. Fisheries enforcement plans and reporting
 
 **(a) Fisheries enforcement plans**
 
@@ -8127,7 +8127,7 @@ Prior to undertaking fisheries patrols, the Commandant of the Coast Guard shall 
 
 The Commandant of the Coast Guard shall prepare and make available to the Under Secretary of Commerce for Oceans and Atmosphere, State and local enforcement entities, and other relevant stakeholders, an annual summary report of fisheries enforcement activities for the preceding year, including a summary of the number of patrols, law enforcement actions taken, and resource hours expended.
 
-(Pub. L. 108–293, title II, § 224, Aug. 9, 2004, 118 Stat. 1040.)
+(Pub. L. 108–293, title II, § 224, Aug. 9, 2004, 118 Stat. 1040.)
 
 **Editorial Notes**
 
@@ -8141,7 +8141,7 @@ Section was enacted as part of the Coast Guard and Maritime Transportation Act o
 
 For provision terminating reporting requirement under this section, see section 4(b) of Pub. L. 111–207, set out as a Combination of Fisheries Enforcement Plans and Foreign Fishing Incursion Reports note under section 1828 of this title.
 
-### § 1862. North Pacific fisheries conservation
+### § 1862. North Pacific fisheries conservation
 
 **(a) In general** The North Pacific Council may prepare, in consultation with the Secretary, a fisheries research plan for any fishery under the Council’s jurisdiction except a salmon fishery which—
 
@@ -8149,7 +8149,7 @@ For provision terminating reporting requirement under this section, see section 
 
 **(2)** establishes a system, or system,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 of fees, which may vary by fishery, management area, or observer coverage level, to pay for the cost of implementing the plan.
 
@@ -8247,9 +8247,9 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 **(j) Bering Sea and Aleutian Islands crab rationalization**
 
-**(1)** By not later than January 1, 2005, the Secretary shall approve and hereafter 2
+**(1)** By not later than January 1, 2005, the Secretary shall approve and hereafter 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 implement by regulation the Voluntary Three-Pie Cooperative Program for crab fisheries of the Bering Sea and Aleutian Islands approved by the North Pacific Fishery Management Council between June 2002 and April 2003, and all trailing amendments including those reported to Congress on May 6, 2003. This section shall not preclude the Secretary from approving by January 1, 2005, and implementing any subsequent program amendments approved by the Council.
 
@@ -8267,13 +8267,13 @@ implement by regulation the Voluntary Three-Pie Cooperative Program for crab fis
 
 **(8)** The restriction on the collection of economic data in section 1853 of this title shall not apply with respect to any fish processor who is eligible for, or who has received, individual processing quota under the Program. The restriction on the disclosure of information in section 1881a(b)(1) of this title shall not apply when the information is used to determine eligibility for or compliance with an individual processing quota program.
 
-**(9)** The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisions of subparagraphs (D), (E), and (L) of section 1857(*l*) 3
+**(9)** The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisions of subparagraphs (D), (E), and (L) of section 1857(*l*) 3
 
-<sup>3</sup>  So in original. Probably should be section “1857(1)”.
+<sup>3</sup> So in original. Probably should be section “1857(1)”.
 
 of this title shall apply to any facility owned or controlled by a person holding individual processing quota.
 
-(Pub. L. 94–265, title III, § 313, as added Pub. L. 101–627, title I, § 118(a), Nov. 28, 1990, 104 Stat. 4457; amended Pub. L. 102–582, title IV, § 404, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, § 117(a), Oct. 11, 1996, 110 Stat. 3603; Pub. L. 108–199, div. B, title VIII, § 801, Jan. 23, 2004, 118 Stat. 108; Pub. L. 109–479, title II, § 214, Jan. 12, 2007, 120 Stat. 3619.)
+(Pub. L. 94–265, title III, § 313, as added Pub. L. 101–627, title I, § 118(a), Nov. 28, 1990, 104 Stat. 4457; amended Pub. L. 102–582, title IV, § 404, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, § 117(a), Oct. 11, 1996, 110 Stat. 3603; Pub. L. 108–199, div. B, title VIII, § 801, Jan. 23, 2004, 118 Stat. 108; Pub. L. 109–479, title II, § 214, Jan. 12, 2007, 120 Stat. 3619.)
 
 **Editorial Notes**
 
@@ -8285,29 +8285,29 @@ Hereafter, referred to in subsec. (j)(1), probably means on and after the date o
 
 **Codification**
 
-In subsec. (j)(4), “sections 53735 and 53702(b) of title 46” substituted for “sections 1111 and 1112 of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f, 1279g)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 53702 and 53735 of Title 46, Shipping.
+In subsec. (j)(4), “sections 53735 and 53702(b) of title 46” substituted for “sections 1111 and 1112 of title XI of the Merchant Marine Act, 1936 (46 U.S.C. App. 1279f, 1279g)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 53702 and 53735 of Title 46, Shipping.
 
 **Amendments**
 
-2007—Subsec. (a). Pub. L. 109–479, § 214(1), substituted “any fishery under the Council’s jurisdiction except a salmon fishery” for “all fisheries under the Council’s jurisdiction except salmon fisheries” in introductory provisions.
+2007—Subsec. (a). Pub. L. 109–479, § 214(1), substituted “any fishery under the Council’s jurisdiction except a salmon fishery” for “all fisheries under the Council’s jurisdiction except salmon fisheries” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 109–479, § 214(2), added par. (2) and struck out former par. (2) which read as follows: “establishes a system of fees to pay for the costs of implementing the plan.”
+Subsec. (a)(2). Pub. L. 109–479, § 214(2), added par. (2) and struck out former par. (2) which read as follows: “establishes a system of fees to pay for the costs of implementing the plan.”
 
-Subsec. (b)(2)(A). Pub. L. 109–479, § 214(3), substituted “observers, or electronic monitoring systems,” for “observers”.
+Subsec. (b)(2)(A). Pub. L. 109–479, § 214(3), substituted “observers, or electronic monitoring systems,” for “observers”.
 
-Subsec. (b)(2)(E). Pub. L. 109–479, § 214(4), inserted “a fixed amount reflecting actual observer costs as described in subparagraph (A) or” after “expressed as”.
+Subsec. (b)(2)(E). Pub. L. 109–479, § 214(4), inserted “a fixed amount reflecting actual observer costs as described in subparagraph (A) or” after “expressed as”.
 
-Subsec. (b)(2)(F). Pub. L. 109–479, § 214(5), (6), inserted “some or” after “against” and “or an electronic monitoring system” after “observer”.
+Subsec. (b)(2)(F). Pub. L. 109–479, § 214(5), (6), inserted “some or” after “against” and “or an electronic monitoring system” after “observer”.
 
-Subsec. (b)(2)(I), (J). Pub. L. 109–479, § 214(7), (8), added subpar. (I) and redesignated former subpar. (I) as (J).
+Subsec. (b)(2)(I), (J). Pub. L. 109–479, § 214(7), (8), added subpar. (I) and redesignated former subpar. (I) as (J).
 
 2004—Subsec. (j). Pub. L. 108–199 added subsec. (j).
 
-1996—Pub. L. 104–297, § 117(a)(1), substituted “conservation” for “research plan” in section catchline.
+1996—Pub. L. 104–297, § 117(a)(1), substituted “conservation” for “research plan” in section catchline.
 
-Subsec. (a). Pub. L. 104–297, § 117(a)(2), substituted “North Pacific Council” for “North Pacific Fishery Management Council” in introductory provisions.
+Subsec. (a). Pub. L. 104–297, § 117(a)(2), substituted “North Pacific Council” for “North Pacific Fishery Management Council” in introductory provisions.
 
-Subsecs. (f) to (i). Pub. L. 104–297, § 117(a)(3), added subsecs. (f) to (i).
+Subsecs. (f) to (i). Pub. L. 104–297, § 117(a)(3), added subsecs. (f) to (i).
 
 1992—Subsec. (b)(2)(E). Pub. L. 102–582 substituted “2 percent, of the unprocessed ex-vessel” for “one percentum, of the”.
 
@@ -8315,7 +8315,7 @@ Subsecs. (f) to (i). Pub. L. 104–297, § 117(a)(3), added subsecs. (f) to (i
 
 **Fees**
 
-Pub. L. 117–328, div. S, title I, § 106, Dec. 29, 2022, 136 Stat. 5260, provided that:
+Pub. L. 117–328, div. S, title I, § 106, Dec. 29, 2022, 136 Stat. 5260, provided that:
 
 > **“(a) In General.—** The North Pacific Fishery Management Council may recommend, and the Secretary of Commerce may approve, regulations necessary for the collection of fees from charter vessel operators who guide recreational anglers who harvest Pacific halibut in International Pacific Halibut Commission regulatory areas 2C and 3A as those terms are defined in part 300 of title 50, Code of Federal Regulations (or any successor regulations).
 
@@ -8333,7 +8333,7 @@ Pub. L. 117–328, div. S, title I, § 106, Dec. 29, 2022, 136 Stat. 5260, pro
 
 > **“(d) Fee Collected During Start-up Period.—** Notwithstanding subsection (c), fees may be collected through the date of enactment of an Act making appropriations for the activities authorized under this Act [div. S of Pub. L. 117–328] through September 30, 2023, and shall be available for obligation and remain available until expended.”
 
-### § 1863. Northwest Atlantic Ocean Fisheries Reinvestment Program
+### § 1863. Northwest Atlantic Ocean Fisheries Reinvestment Program
 
 **(a) Program**
 
@@ -8351,9 +8351,9 @@ Pub. L. 117–328, div. S, title I, § 106, Dec. 29, 2022, 136 Stat. 5260, pro
 
 **(2) Consultation.—** In establishing and implementing the Northwest Fisheries Reinvestment Program, the Secretary shall consult with representatives of the commercial fishing industry, the seafood processing industry, and the academic community (including the National Sea Grant Program).
 
-**(3) Activities Under Program.—** Subject to the availability of appropriations, the Secretary shall award contracts, grants and other financial assistance to United States citizens to carry out the purposes of subsection 1
+**(3) Activities Under Program.—** Subject to the availability of appropriations, the Secretary shall award contracts, grants and other financial assistance to United States citizens to carry out the purposes of subsection 1
 
-<sup>1</sup>  So in original. Probably should be “paragraph”.
+<sup>1</sup> So in original. Probably should be “paragraph”.
 
 (1), under the terms and conditions provided in section 713c–3(c) of title 15, except that, in making awards under this section for projects involving participation in fisheries for underutilized species, the Secretary shall give the highest priority to a person who owns or operates a fishing vessel permitted under this chapter to participate in the New England groundfish fishery who agrees to surrender that permit to the Secretary during the duration of the contract, grant or other assistance.
 
@@ -8371,7 +8371,7 @@ The New England Fishery Management Council, in consultation with other appropria
 
 For purposes of this section, the term “underutilized species of the northwest Atlantic Ocean” means any fish species of the northwest Atlantic Ocean that is identified, by the Director of the Northeast Fisheries Center of the National Marine Fisheries Service, as an underutilized species.
 
-(Pub. L. 94–265, title III, § 314, as added Pub. L. 102–567, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4317; amended Pub. L. 104–297, title I, § 117(b), Oct. 11, 1996, 110 Stat. 3604.)
+(Pub. L. 94–265, title III, § 314, as added Pub. L. 102–567, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4317; amended Pub. L. 104–297, title I, § 117(b), Oct. 11, 1996, 110 Stat. 3604.)
 
 **Editorial Notes**
 
@@ -8385,17 +8385,17 @@ The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subse
 
 1996—Subsec. (a)(4). Pub. L. 104–297 substituted “1999” for “1997”.
 
-### § 1864. Repealed. Pub. L. 117–328, div. S, title II, § 203(a), Dec. 29, 2022, 136 Stat. 5269
+### § 1864. Repealed. Pub. L. 117–328, div. S, title II, § 203(a), Dec. 29, 2022, 136 Stat. 5269
 
-Section, Pub. L. 94–265, title III, § 315, as added Pub. L. 109–479, title I, § 113(a), Jan. 12, 2007, 120 Stat. 3601, related to regional coastal disaster assistance, transition, and recovery program.
+Section, Pub. L. 94–265, title III, § 315, as added Pub. L. 109–479, title I, § 113(a), Jan. 12, 2007, 120 Stat. 3601, related to regional coastal disaster assistance, transition, and recovery program.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Fisheries Hurricane Assistance Program**
 
-Pub. L. 109–479, title I, § 115, Jan. 12, 2007, 120 Stat. 3604, provided that the Secretary of Commerce would establish an assistance program for the Gulf of Mexico commercial and recreational fishing industry and provided for allocation and use of funds for the program, with $17,500,000 appropriated for each of fiscal years 2007 through 2012 to carry out this section.
+Pub. L. 109–479, title I, § 115, Jan. 12, 2007, 120 Stat. 3604, provided that the Secretary of Commerce would establish an assistance program for the Gulf of Mexico commercial and recreational fishing industry and provided for allocation and use of funds for the program, with $17,500,000 appropriated for each of fiscal years 2007 through 2012 to carry out this section.
 
-### § 1865. Bycatch reduction engineering program
+### § 1865. Bycatch reduction engineering program
 
 **(a) Bycatch reduction engineering program** Not later than 1 year after January 12, 2007, the Secretary, in cooperation with the Councils and other affected interests, and based upon the best scientific information available, shall establish a bycatch reduction program, including grants, to develop technological devices and other conservation engineering changes designed to minimize bycatch, seabird interactions, bycatch mortality, and post-release mortality in Federally managed fisheries. The program shall—
 
@@ -8415,9 +8415,9 @@ Pub. L. 109–479, title I, § 115, Jan. 12, 2007, 120 Stat. 3604, provided th
 
 **(3)** measures that, based on the best scientific information available, will reduce bycatch and seabird interactions, bycatch mortality, post-release mortality, or regulatory discards in the fishery.
 
-**(c) Coordination on seabird interactions** The Secretary, in coordination with the Secretary of 1
+**(c) Coordination on seabird interactions** The Secretary, in coordination with the Secretary of 1
 
-<sup>1</sup>  So in original. Probably should be “of the”.
+<sup>1</sup> So in original. Probably should be “of the”.
 
 Interior, is authorized to undertake projects in cooperation with industry to improve information and technology to reduce seabird bycatch, including—
 
@@ -8435,7 +8435,7 @@ Interior, is authorized to undertake projects in cooperation with industry to im
 
 **(3)** describes improvements and reduction in bycatch and seabird interactions associated with implementing this section, as well as proposals to address remaining bycatch or seabird interaction problems.
 
-(Pub. L. 94–265, title III, § 316, as added Pub. L. 109–479, title I, § 116(a), Jan. 12, 2007, 120 Stat. 3605.)
+(Pub. L. 94–265, title III, § 316, as added Pub. L. 109–479, title I, § 116(a), Jan. 12, 2007, 120 Stat. 3605.)
 
 **Editorial Notes**
 
@@ -8451,7 +8451,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **Improving Discard Mortality Data**
 
-Pub. L. 116–340, § 4, Jan. 13, 2021, 134 Stat. 5129, provided that:
+Pub. L. 116–340, § 4, Jan. 13, 2021, 134 Stat. 5129, provided that:
 
 > **“(a) Agreement.—** Not later than 60 days after the date of the enactment of this Act [Jan. 13, 2021], the Secretary shall enter into an agreement with the National Academy of Sciences to conduct a study and produce a report on discard mortality in the Gulf of Mexico reef fish fisheries. The study shall include—
 
@@ -8475,13 +8475,13 @@ Pub. L. 116–340, § 4, Jan. 13, 2021, 134 Stat. 5129, provided that:
 
 > **“(d) Follow-Up Report.—** Not later than 3 years after developing minimum standards and developing the assessment and monitoring plan under subsection (c), the Secretary shall provide a detailed report on implementation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives.”
 
-### § 1866. Shark feeding
+### § 1866. Shark feeding
 
 Except to the extent determined by the Secretary, or under State law, as presenting no public health hazard or safety risk, or when conducted as part of a research program funded in whole or in part by appropriated funds, it is unlawful to introduce, or attempt to introduce, food or any other substance into the water to attract sharks for any purpose other than to harvest sharks within the Exclusive Economic Zone seaward of the State of Hawaii and of the Commonwealths, territories, and possessions of the United States in the Pacific Ocean Area.
 
-(Pub. L. 94–265, title III, § 317, as added Pub. L. 109–479, title I, § 119, Jan. 12, 2007, 120 Stat. 3607.)
+(Pub. L. 94–265, title III, § 317, as added Pub. L. 109–479, title I, § 119, Jan. 12, 2007, 120 Stat. 3607.)
 
-### § 1867. Cooperative research and management program
+### § 1867. Cooperative research and management program
 
 **(a) In general**
 
@@ -8515,7 +8515,7 @@ The Secretary, in consultation with the Councils, shall establish guidelines to 
 
 The procedures of this section shall not apply to research funded by quota set-asides in a fishery.
 
-(Pub. L. 94–265, title III, § 318, as added Pub. L. 109–479, title II, § 204, Jan. 12, 2007, 120 Stat. 3614.)
+(Pub. L. 94–265, title III, § 318, as added Pub. L. 109–479, title II, § 204, Jan. 12, 2007, 120 Stat. 3614.)
 
 **Editorial Notes**
 
@@ -8523,7 +8523,7 @@ The procedures of this section shall not apply to research funded by quota set-a
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-### § 1868. Herring study
+### § 1868. Herring study
 
 **(a) In general**
 
@@ -8537,9 +8537,9 @@ The Secretary shall present the final results of this study to Congress within 3
 
 There are authorized to be appropriated $2,000,000 for fiscal year 2007 through fiscal year 2009 to conduct this study.
 
-(Pub. L. 94–265, title III, § 319, as added Pub. L. 109–479, title II, § 205, Jan. 12, 2007, 120 Stat. 3615.)
+(Pub. L. 94–265, title III, § 319, as added Pub. L. 109–479, title II, § 205, Jan. 12, 2007, 120 Stat. 3615.)
 
-### § 1869. Restoration study
+### § 1869. Restoration study
 
 **(a) In general**
 
@@ -8549,9 +8549,9 @@ The Secretary may conduct a study to update scientific information and protocols
 
 There are authorized to be appropriated $500,000 for fiscal year 2007 to conduct this study.
 
-(Pub. L. 94–265, title III, § 320, as added Pub. L. 109–479, title II, § 206, Jan. 12, 2007, 120 Stat. 3615.)
+(Pub. L. 94–265, title III, § 320, as added Pub. L. 109–479, title II, § 206, Jan. 12, 2007, 120 Stat. 3615.)
 
-### § 1870. Required possession of descending devices
+### § 1870. Required possession of descending devices
 
 **(a) Require gear in the Gulf reef fish fishery**
 
@@ -8585,7 +8585,7 @@ The term “venting tool” has the meaning given to it by the Gulf of Mexico Fi
 
 The term “Gulf reef fish” means any fish chosen by the Gulf of Mexico Fishery Management Council that is in the reef Fishery Management Plan for the purposes of this chapter.
 
-(Pub. L. 94–265, title III, § 321, as added Pub. L. 116–340, § 3(a), Jan. 13, 2021, 134 Stat. 5128.)
+(Pub. L. 94–265, title III, § 321, as added Pub. L. 116–340, § 3(a), Jan. 13, 2021, 134 Stat. 5128.)
 
 **Termination of Section**
 
@@ -8595,7 +8595,7 @@ For termination of section five years after Jan. 13, 2021, see Effective and Ter
 
 **References in Text**
 
-The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012, referred to in subsec. (b), is subtitle F (§ 1601 et seq.) of Pub. L. 112–141, div. A, title I, July 6, 2012, 126 Stat. 588, which is set out as a note under section 1321 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
+The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012, referred to in subsec. (b), is subtitle F (§ 1601 et seq.) of Pub. L. 112–141, div. A, title I, July 6, 2012, 126 Stat. 588, which is set out as a note under section 1321 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
 
 This chapter, referred to in subsec. (c)(3), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
@@ -8605,11 +8605,11 @@ This chapter, referred to in subsec. (c)(3), was in the original “this Act”,
 
 Section effective 1 year after Jan. 13, 2021, see section 3(c) of Pub. L. 116–340, set out as an Effective and Termination Dates of 2021 Amendment note under section 1858 of this title.
 
-Pub. L. 116–340, § 3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that the termination of this section by section 3(e)(3) is effective five years after Jan. 13, 2021.
+Pub. L. 116–340, § 3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that the termination of this section by section 3(e)(3) is effective five years after Jan. 13, 2021.
 
 ## SUBCHAPTER V—FISHERY MONITORING AND RESEARCH
 
-### § 1881. Registration and information management
+### § 1881. Registration and information management
 
 **(a) Standardized fishing vessel registration and information management system** The Secretary shall, in cooperation with the Secretary of the department in which the Coast Guard is operating, the States, the Councils, and Marine Fisheries Commissions, develop recommendations for implementation of a standardized fishing vessel registration and information management system on a regional basis. The recommendations shall be developed after consultation with interested governmental and nongovernmental parties and shall—
 
@@ -8655,9 +8655,9 @@ Pub. L. 116–340, § 3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part th
 
 **(4)** a description of fishing gear used in the fishery, including the amount and type of such gear and the appropriate unit of fishing effort; and
 
-**(5)** other information required under subsection 1
+**(5)** other information required under subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 1853(a)(5) of this title or requested by the Council under section 1881a of this title.
 
@@ -8777,7 +8777,7 @@ Within 24 months after establishment of the program, the Secretary shall submit 
 
 **(B)** alternative management approaches that could be applied to recreational fisheries for which the Marine Recreational Information Program is not meeting the needs of in-season management of annual catch limits, consistent with other requirements of this chapter, until such time as the changes in subparagraph (A) are implemented.
 
-(Pub. L. 94–265, title IV, § 401, as added Pub. L. 104–297, title II, § 202, Oct. 11, 1996, 110 Stat. 3605; amended Pub. L. 109–479, title II, § 201, Jan. 12, 2007, 120 Stat. 3611; Pub. L. 115–405, § 202, Dec. 31, 2018, 132 Stat. 5359.)
+(Pub. L. 94–265, title IV, § 401, as added Pub. L. 104–297, title II, § 202, Oct. 11, 1996, 110 Stat. 3605; amended Pub. L. 109–479, title II, § 201, Jan. 12, 2007, 120 Stat. 3611; Pub. L. 115–405, § 202, Dec. 31, 2018, 132 Stat. 5359.)
 
 **Editorial Notes**
 
@@ -8785,17 +8785,17 @@ Within 24 months after establishment of the program, the Secretary shall submit 
 
 This chapter, referred to in subsecs. (a)(1), (d) and (h)(2)(B), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Marine Mammal Protection Act, referred to in subsec. (a)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act, referred to in subsec. (a)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 1881, Pub. L. 94–265, title IV, § 401, Apr. 13, 1976, 90 Stat. 359, related to authority to amend regulations to conform to Law of the Sea Treaty, prior to repeal by Pub. L. 99–659, title I, § 110, Nov. 14, 1986, 100 Stat. 3715.
+A prior section 1881, Pub. L. 94–265, title IV, § 401, Apr. 13, 1976, 90 Stat. 359, related to authority to amend regulations to conform to Law of the Sea Treaty, prior to repeal by Pub. L. 99–659, title I, § 110, Nov. 14, 1986, 100 Stat. 3715.
 
 **Amendments**
 
-2018—Subsec. (g)(4), (5). Pub. L. 115–405, § 202(1), added par. (4) and redesignated former par. (4) as (5).
+2018—Subsec. (g)(4), (5). Pub. L. 115–405, § 202(1), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (h). Pub. L. 115–405, § 202(2), added subsec. (h).
+Subsec. (h). Pub. L. 115–405, § 202(2), added subsec. (h).
 
 2007—Subsec. (g). Pub. L. 109–479 added subsec. (g) and struck out former subsec. (g) which required a report to Congress.
 
@@ -8811,7 +8811,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **NAS Report Recommendations**
 
-Pub. L. 115–405, § 201(b), Dec. 31, 2018, 132 Stat. 5358, provided that:
+Pub. L. 115–405, § 201(b), Dec. 31, 2018, 132 Stat. 5358, provided that:
 
 > “The Secretary of Commerce shall take into consideration and, to the extent feasible, implement the recommendations of the National Academy of Sciences in the report entitled ‘Review of the Marine Recreational Information Program (2017)’, and shall submit, every 2 years following the date of enactment of this Act [Dec. 31, 2018], a report to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives] detailing progress made implementing those recommendations. Recommendations considered shall include—
 
@@ -8821,7 +8821,7 @@ Pub. L. 115–405, § 201(b), Dec. 31, 2018, 132 Stat. 5358, provided that:
 
 > **“(3)** if the Marine Recreational Information Program is incompatible with the needs of in-season management of annual catch limits, determining an alternative method for in-season management.”
 
-### § 1881a. Information collection
+### § 1881a. Information collection
 
 **(a) Collection programs**
 
@@ -8895,7 +8895,7 @@ If the Secretary determines that additional information is necessary for develop
 
 **(3)** The Secretary shall undertake efforts to expand annual fishery resource assessments in all regions of the Nation.
 
-(Pub. L. 94–265, title IV, § 402, as added Pub. L. 104–297, title II, § 203, Oct. 11, 1996, 110 Stat. 3607; amended Pub. L. 109–479, § 3(d)(1)(A), title II, §§ 202, 203(a), Jan. 12, 2007, 120 Stat. 3578, 3612, 3613; Pub. L. 117–263, div. K, title CXIII, § 11333, Dec. 23, 2022, 136 Stat. 4100.)
+(Pub. L. 94–265, title IV, § 402, as added Pub. L. 104–297, title II, § 203, Oct. 11, 1996, 110 Stat. 3607; amended Pub. L. 109–479, § 3(d)(1)(A), title II, §§ 202, 203(a), Jan. 12, 2007, 120 Stat. 3578, 3612, 3613; Pub. L. 117–263, div. K, title CXIII, § 11333, Dec. 23, 2022, 136 Stat. 4100.)
 
 **Editorial Notes**
 
@@ -8905,9 +8905,9 @@ This chapter, referred to in subsecs. (b)(1), (3) and (c)(1), was in the origina
 
 Section 11329 of the Don Young Coast Guard Authorization Act of 2022, referred to in subsec. (b)(1)(I), is section 11329 of div. K of Pub. L. 117–263, which is set out as a note under section 1885a of this title.
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (c)(1), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (c)(1), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The Endangered Species Act, referred to in subsec. (c)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act, referred to in subsec. (c)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Prior Provisions**
 
@@ -8917,15 +8917,15 @@ A prior section 402 of Pub. L. 94–265 repealed former sections 1081 to 1086 an
 
 2022—Subsec. (b)(1)(I). Pub. L. 117–263 added subpar. (I).
 
-2007—Subsec. (a). Pub. L. 109–479, § 202, substituted “Collection programs” for “Council requests” in heading, designated existing provisions as par. (1), inserted heading, realigned margins, in first sentence, struck out “(other than information that would disclose proprietary or confidential commercial or financial information regarding fishing operations or fish processing operations)” after “additional information” and “types of information”, in last sentence, substituted “paragraph” for “subsection”, and added par. (2).
+2007—Subsec. (a). Pub. L. 109–479, § 202, substituted “Collection programs” for “Council requests” in heading, designated existing provisions as par. (1), inserted heading, realigned margins, in first sentence, struck out “(other than information that would disclose proprietary or confidential commercial or financial information regarding fishing operations or fish processing operations)” after “additional information” and “types of information”, in last sentence, substituted “paragraph” for “subsection”, and added par. (2).
 
-Subsec. (b). Pub. L. 109–479, § 203(a)(1), (2), added pars. (1) and (2), redesignated former par. (2) as (3) and realigned margins, and struck out former par. (1) which related to confidentiality of information submitted to the Secretary and exceptions.
+Subsec. (b). Pub. L. 109–479, § 203(a)(1), (2), added pars. (1) and (2), redesignated former par. (2) as (3) and realigned margins, and struck out former par. (1) which related to confidentiality of information submitted to the Secretary and exceptions.
 
-Subsec. (b)(1)(D). Pub. L. 109–479, § 3(d)(1)(A), substituted “a limited access privilege” for “an individual fishing quota”.
+Subsec. (b)(1)(D). Pub. L. 109–479, § 3(d)(1)(A), substituted “a limited access privilege” for “an individual fishing quota”.
 
-Subsec. (b)(3). Pub. L. 109–479, § 203(a)(3), substituted “(2)(A).” for “(1)(E).”
+Subsec. (b)(3). Pub. L. 109–479, § 203(a)(3), substituted “(2)(A).” for “(1)(E).”
 
-### § 1881b. Observers
+### § 1881b. Observers
 
 **(a) Guidelines for carrying observers** Within one year after October 11, 1996, the Secretary shall promulgate regulations, after notice and opportunity for public comment, for fishing vessels that carry observers. The regulations shall include guidelines for determining—
 
@@ -8949,7 +8949,7 @@ Subsec. (b)(3). Pub. L. 109–479, § 203(a)(3), substituted “(2)(A).” for
 
 An observer on a vessel and under contract to carry out responsibilities under this chapter or the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 et seq.) shall be deemed to be a Federal employee for the purpose of compensation under the Federal Employee Compensation Act (5 U.S.C. 8101 et seq.).
 
-(Pub. L. 94–265, title IV, § 403, as added Pub. L. 104–297, title II, § 204, Oct. 11, 1996, 110 Stat. 3609; amended Pub. L. 117–263, div. K, title CXIII, § 11340, Dec. 23, 2022, 136 Stat. 4105.)
+(Pub. L. 94–265, title IV, § 403, as added Pub. L. 104–297, title II, § 204, Oct. 11, 1996, 110 Stat. 3609; amended Pub. L. 117–263, div. K, title CXIII, § 11340, Dec. 23, 2022, 136 Stat. 4105.)
 
 **Editorial Notes**
 
@@ -8959,9 +8959,9 @@ Section 11329 of the Don Young Coast Guard Authorization Act of 2022, referred t
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (c), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (c), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
-The Federal Employee Compensation Act, referred to in subsec. (c), is act Sept. 7, 1916, ch. 458, 39 Stat. 742, which was repealed and the provisions thereof were reenacted as subchapter I (§ 8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+The Federal Employee Compensation Act, referred to in subsec. (c), is act Sept. 7, 1916, ch. 458, 39 Stat. 742, which was repealed and the provisions thereof were reenacted as subchapter I (§ 8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 **Prior Provisions**
 
@@ -8971,7 +8971,7 @@ A prior section 403 of Pub. L. 94–265 amended sections 1972 and 1973 of Title 
 
 2022—Subsec. (b)(4), (5). Pub. L. 117–263 added par. (4) and redesignated former par. (4) as (5).
 
-### § 1881c. Fisheries research
+### § 1881c. Fisheries research
 
 **(a) In general**
 
@@ -9017,7 +9017,7 @@ Not later than 1 year after December 31, 2018, the Secretary shall develop, in c
 
 **(C)** consider the extent to which the acceptance and use of data and analyses identified in the report in fishery management decisions is practicable and compatible with the requirements of section 1851(a)(2) of this title.
 
-(Pub. L. 94–265, title IV, § 404, as added Pub. L. 104–297, title II, § 205, Oct. 11, 1996, 110 Stat. 3609; amended Pub. L. 109–479, title II, § 203(b), Jan. 12, 2007, 120 Stat. 3614; Pub. L. 115–405, § 201(a), Dec. 31, 2018, 132 Stat. 5358.)
+(Pub. L. 94–265, title IV, § 404, as added Pub. L. 104–297, title II, § 205, Oct. 11, 1996, 110 Stat. 3609; amended Pub. L. 109–479, title II, § 203(b), Jan. 12, 2007, 120 Stat. 3614; Pub. L. 115–405, § 201(a), Dec. 31, 2018, 132 Stat. 5358.)
 
 **Editorial Notes**
 
@@ -9043,9 +9043,9 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **Study of Contribution of Bycatch to Charitable Organizations**
 
-Pub. L. 104–297, title II, § 208, Oct. 11, 1996, 110 Stat. 3614, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the Secretary of Commerce was to conduct a study, to be submitted to Congress by 1 year after Oct. 11, 1996, of the contribution of bycatch to charitable organizations by commercial fishermen, including determinations of the amount contributed each year, the economic benefits to commercial fishermen from those contributions, and the impact on fisheries of the availability of those benefits.
+Pub. L. 104–297, title II, § 208, Oct. 11, 1996, 110 Stat. 3614, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that the Secretary of Commerce was to conduct a study, to be submitted to Congress by 1 year after Oct. 11, 1996, of the contribution of bycatch to charitable organizations by commercial fishermen, including determinations of the amount contributed each year, the economic benefits to commercial fishermen from those contributions, and the impact on fisheries of the availability of those benefits.
 
-### § 1881d. Incidental harvest research
+### § 1881d. Incidental harvest research
 
 **(a) Collection of information**
 
@@ -9081,7 +9081,7 @@ The Secretary shall, within one year of completing the programs required by this
 
 **(2)** the need to avoid any serious adverse environmental impacts on such bycatch species or the ecology of the affected area.
 
-(Pub. L. 94–265, title IV, § 405, as added Pub. L. 104–297, title II, § 206, Oct. 11, 1996, 110 Stat. 3611.)
+(Pub. L. 94–265, title IV, § 405, as added Pub. L. 104–297, title II, § 206, Oct. 11, 1996, 110 Stat. 3611.)
 
 **Editorial Notes**
 
@@ -9099,7 +9099,7 @@ A prior section 405 of Pub. L. 94–265, amended section 971 of this title and e
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 1882. Fisheries systems research
+### § 1882. Fisheries systems research
 
 **(a) Establishment of panel**
 
@@ -9133,7 +9133,7 @@ The advisory panel established under this section shall be deemed an advisory pa
 
 **(A)** recommendations for scientific data, information and technology requirements for understanding ecosystem processes, and methods for integrating such information from a variety of federal,1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 state,1 and regional sources;
 
@@ -9147,7 +9147,7 @@ state,1 and regional sources;
 
 The Secretary is authorized to provide necessary technical advice and assistance, including grants, to the Councils for the development and design of regional pilot programs that build upon the recommendations of the advisory panel and, when completed, the study.
 
-(Pub. L. 94–265, title IV, § 406, Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–354, § 1, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–61, § 1, Aug. 15, 1979, 93 Stat. 407; Pub. L. 97–453, § 14(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, § 111(a), Nov. 14, 1986, 100 Stat. 3715; Pub. L. 101–627, title I, § 119, Nov. 28, 1990, 104 Stat. 4459; Pub. L. 104–297, title II, § 207(a), Oct. 11, 1996, 110 Stat. 3612; Pub. L. 109–479, title II, § 210, Jan. 12, 2007, 120 Stat. 3617.)
+(Pub. L. 94–265, title IV, § 406, Apr. 13, 1976, 90 Stat. 361; Pub. L. 95–354, § 1, Aug. 28, 1978, 92 Stat. 519; Pub. L. 96–61, § 1, Aug. 15, 1979, 93 Stat. 407; Pub. L. 97–453, § 14(a), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, § 111(a), Nov. 14, 1986, 100 Stat. 3715; Pub. L. 101–627, title I, § 119, Nov. 28, 1990, 104 Stat. 4459; Pub. L. 104–297, title II, § 207(a), Oct. 11, 1996, 110 Stat. 3612; Pub. L. 109–479, title II, § 210, Jan. 12, 2007, 120 Stat. 3617.)
 
 **Editorial Notes**
 
@@ -9175,7 +9175,7 @@ October 11, 1996, referred to in subsec. (d), was in the original “the date of
 
 1978—Par. (5). Pub. L. 95–354 added par. (5).
 
-### § 1883. Gulf of Mexico red snapper research
+### § 1883. Gulf of Mexico red snapper research
 
 **(a) Independent peer review**
 
@@ -9217,7 +9217,7 @@ In addition to the restrictions under section 1853(d)(1)(A) of this title, the G
 
 **(2)** ensure that such quotas reflect allocations among such sectors and do not reflect any harvests in excess of such allocations.
 
-(Pub. L. 94–265, title IV, § 407, as added Pub. L. 104–297, title II, § 207(b), Oct. 11, 1996, 110 Stat. 3612; amended Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(a)(3), (4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–238; Pub. L. 109–479, § 3(d)(1)(B), Jan. 12, 2007, 120 Stat. 3578.)
+(Pub. L. 94–265, title IV, § 407, as added Pub. L. 104–297, title II, § 207(b), Oct. 11, 1996, 110 Stat. 3612; amended Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(a)(3), (4)], Dec. 21, 2000, 114 Stat. 2763, 2763A–238; Pub. L. 109–479, § 3(d)(1)(B), Jan. 12, 2007, 120 Stat. 3578.)
 
 **Editorial Notes**
 
@@ -9231,11 +9231,11 @@ This chapter, referred to in subsecs. (a)(1)(C), (2)(B) and (b), was in the orig
 
 2000—Subsecs. (b), (c)(1). Pub. L. 106–554 substituted “October 1, 2002,” for “October 1, 2000,”.
 
-### § 1884. Deep sea coral research and technology program
+### § 1884. Deep sea coral research and technology program
 
-**(a) In general** The Secretary, in consultation with appropriate regional fishery management councils and in coordination with other federal 1
+**(a) In general** The Secretary, in consultation with appropriate regional fishery management councils and in coordination with other federal 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 agencies and educational institutions, shall, subject to the availability of appropriations, establish a program—
 
@@ -9255,13 +9255,13 @@ agencies and educational institutions, shall, subject to the availability of app
 
 Beginning 1 year after January 12, 2007, the Secretary, in consultation with the Councils, shall submit biennial reports to Congress and the public on steps taken by the Secretary to identify, monitor, and protect deep sea coral areas, including summaries of the results of mapping, research, and data collection performed under the program.
 
-(Pub. L. 94–265, title IV, § 408, as added Pub. L. 109–479, title II, § 211, Jan. 12, 2007, 120 Stat. 3618.)
+(Pub. L. 94–265, title IV, § 408, as added Pub. L. 109–479, title II, § 211, Jan. 12, 2007, 120 Stat. 3618.)
 
-### § 1885. Seafood import monitoring program
+### § 1885. Seafood import monitoring program
 
 Not later than 30 days after March 23, 2018, the Secretary of Commerce (Secretary) shall lift the stay on the effective date of the final rule for the seafood import monitoring program published by the Secretary on December 9, 2016, (81 Fed. Reg. 88975 et seq.) for the species described in section 300.324(a)(3) of title 50, Code of Federal Regulations: *Provided*, That the compliance date for the species described in section 300.324(a)(3) of title 50, Code of Federal Regulations, shall occur not later than December 31, 2018: *Provided further*, That not later than December 31, 2018, the Secretary shall establish a traceability program for United States inland, coastal, and marine aquaculture of shrimp and abalone from point of production to entry into United States commerce: *Provided further*, That the Secretary shall promulgate such regulations as are necessary and appropriate to establish and implement the program: *Provided further*, That information collected pursuant to a regulation promulgated under this section shall be confidential and not be disclosed except for the information disclosed under section 401(b)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1881a(b)(1)): *Provided further*, That any regulations promulgated under this section shall be enforced as if this section were a provision of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) and the regulations were promulgated under such Act.
 
-(Pub. L. 115–141, div. B, title V, § 539, Mar. 23, 2018, 132 Stat. 445.)
+(Pub. L. 115–141, div. B, title V, § 539, Mar. 23, 2018, 132 Stat. 445.)
 
 **Editorial Notes**
 
@@ -9277,7 +9277,7 @@ Section was enacted as part of the Commerce, Justice, Science, and Related Agenc
 
 **Import Audits**
 
-Pub. L. 117–263, div. K, title CXIII, § 11332, Dec. 23, 2022, 136 Stat. 4099, provided that:
+Pub. L. 117–263, div. K, title CXIII, § 11332, Dec. 23, 2022, 136 Stat. 4099, provided that:
 
 > **“(a) Audit Procedures.—** The Secretary shall, not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], implement procedures to audit information and supporting records of sufficient numbers of imports of seafood and seafood products subject to the Seafood Import Monitoring Program to support statistically robust conclusions that the samples audited are representative of all seafood imports covered by the Seafood Import Monitoring Program with respect to a given year.
 
@@ -9297,7 +9297,7 @@ Pub. L. 117–263, div. K, title CXIII, § 11332, Dec. 23, 2022, 136 Stat. 409
 
 [For definition of terms as used in section 11332 of Pub. L. 117–263, set out above, see section 11329 of div. K of Pub. L. 117–263, set out as a note under section 1885a of this title.]
 
-### § 1885a. Report on Seafood Import Monitoring Program
+### § 1885a. Report on Seafood Import Monitoring Program
 
 **(a) Report to Congress and public availability of reports**
 
@@ -9323,7 +9323,7 @@ The Secretary shall, not later than 120 days after the end of each fiscal year, 
 
 **(9)** such other information as the Secretary considers appropriate with respect to monitoring and enforcing compliance with the Seafood Import Monitoring Program.
 
-(Pub. L. 117–263, div. K, title CXIII, § 11334, Dec. 23, 2022, 136 Stat. 4100.)
+(Pub. L. 117–263, div. K, title CXIII, § 11334, Dec. 23, 2022, 136 Stat. 4100.)
 
 **Editorial Notes**
 
@@ -9339,9 +9339,9 @@ Section was enacted as part of the Don Young Coast Guard Authorization Act of 20
 
 **Definitions**
 
-Pub. L. 117–263, div. K, title CXIII, § 11329, Dec. 23, 2022, 136 Stat. 4098, provided that:
+Pub. L. 117–263, div. K, title CXIII, § 11329, Dec. 23, 2022, 136 Stat. 4098, provided that:
 
-> “In this subtitle [subtitle E (§§ 11329–11341) of title CXIII of div. K of Pub. L. 117–263, see Tables for classification]:
+> “In this subtitle [subtitle E (§§ 11329–11341) of title CXIII of div. K of Pub. L. 117–263, see Tables for classification]:
 
 > **“(1) Forced labor.—** The term ‘forced labor’ means any labor or service provided for or obtained by any means described in section 1589(a) of title 18, United States Code.
 
@@ -9365,11 +9365,11 @@ Pub. L. 117–263, div. K, title CXIII, § 11329, Dec. 23, 2022, 136 Stat. 409
 
 This subchapter was enacted as part of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
-### § 1891. Investment in United States seafood processing facilities
+### § 1891. Investment in United States seafood processing facilities
 
 The Secretary of Commerce shall work with the Small Business Administration and other Federal agencies to develop financial and other mechanisms to encourage United States investment in seafood processing facilities in the United States for fisheries that lack capacity needed to process fish harvested by United States vessels in compliance with the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
-(Pub. L. 109–479, title I, § 106(c), Jan. 12, 2007, 120 Stat. 3593.)
+(Pub. L. 109–479, title I, § 106(c), Jan. 12, 2007, 120 Stat. 3593.)
 
 **Editorial Notes**
 
@@ -9381,7 +9381,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in tex
 
 Section was enacted as part of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
-### § 1891a. Community-based restoration program for fishery and coastal habitats
+### § 1891a. Community-based restoration program for fishery and coastal habitats
 
 **(a) In general**
 
@@ -9403,7 +9403,7 @@ The Secretary of Commerce shall establish a community-based fishery and coastal 
 
 **(7)** leverage resources through national, regional, and local public-private partnerships.
 
-(Pub. L. 109–479, title I, § 117, Jan. 12, 2007, 120 Stat. 3606.)
+(Pub. L. 109–479, title I, § 117, Jan. 12, 2007, 120 Stat. 3606.)
 
 **Editorial Notes**
 
@@ -9411,7 +9411,7 @@ The Secretary of Commerce shall establish a community-based fishery and coastal 
 
 Section was enacted as part of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
-### § 1891b. Fisheries Conservation and Management Fund
+### § 1891b. Fisheries Conservation and Management Fund
 
 **(a) In general**
 
@@ -9457,7 +9457,7 @@ The Secretary shall, every 2 years, apportion monies from the Fund among the eig
 
 No amount made available from the Fund may be used to defray the costs of carrying out requirements of this Act or the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) other than those uses identified in this section.
 
-(Pub. L. 109–479, title II, § 208, Jan. 12, 2007, 120 Stat. 3616.)
+(Pub. L. 109–479, title II, § 208, Jan. 12, 2007, 120 Stat. 3616.)
 
 **Editorial Notes**
 
@@ -9471,11 +9471,11 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 Section was enacted as part of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
-### § 1891c. United States catch history
+### § 1891c. United States catch history
 
 In establishing catch allocations under international fisheries agreements, the Secretary, in consultation with the Secretary of the Department in which the Coast Guard is operating, and the Secretary of State, shall ensure that all catch history associated with a vessel of the United States remains with the United States and is not transferred or credited to any other nation or vessel of such nation, including when a vessel of the United States is sold or transferred to a citizen of another nation or to an entity controlled by citizens of another nation.
 
-(Pub. L. 109–479, title IV, § 407, Jan. 12, 2007, 120 Stat. 3634.)
+(Pub. L. 109–479, title IV, § 407, Jan. 12, 2007, 120 Stat. 3634.)
 
 **Editorial Notes**
 
@@ -9483,7 +9483,7 @@ In establishing catch allocations under international fisheries agreements, the 
 
 Section was enacted as part of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
-### § 1891d. Secretarial representative for international fisheries
+### § 1891d. Secretarial representative for international fisheries
 
 **(a) In general**
 
@@ -9505,7 +9505,7 @@ The designated official may delegate and authorize successive re-delegation of s
 
 This section shall take effect on January 1, 2009.
 
-(Pub. L. 109–479, title IV, § 408, Jan. 12, 2007, 120 Stat. 3634.)
+(Pub. L. 109–479, title IV, § 408, Jan. 12, 2007, 120 Stat. 3634.)
 
 **Editorial Notes**
 

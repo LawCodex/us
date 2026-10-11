@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2003—Pub. L. 108–21, title V, § 504(b), Apr. 30, 2003, 117 Stat. 682, added item 1466A.
+2003—Pub. L. 108–21, title V, § 504(b), Apr. 30, 2003, 117 Stat. 682, added item 1466A.
 
-1998—Pub. L. 105–314, title IV, § 401(b), Oct. 30, 1998, 112 Stat. 2979, added item 1470.
+1998—Pub. L. 105–314, title IV, § 401(b), Oct. 30, 1998, 112 Stat. 2979, added item 1470.
 
-1988—Pub. L. 100–690, title VII, §§ 7521(b), (f)[(e)], 7523(b), 7526(b), Nov. 18, 1988, 102 Stat. 4489, 4490, 4502, 4503, added items 1460 and 1466 to 1469.
+1988—Pub. L. 100–690, title VII, §§ 7521(b), (f)[(e)], 7523(b), 7526(b), Nov. 18, 1988, 102 Stat. 4489, 4490, 4502, 4503, added items 1460 and 1466 to 1469.
 
-1955—Act June 28, 1955, ch. 190, § 4, 69 Stat. 184, added item 1465.
+1955—Act June 28, 1955, ch. 190, § 4, 69 Stat. 184, added item 1465.
 
-1950—Act May 27, 1950, ch. 214, § 2, 64 Stat. 194, substituted “matters” for “literature” in item 1462.
+1950—Act May 27, 1950, ch. 214, § 2, 64 Stat. 194, substituted “matters” for “literature” in item 1462.
 
-## § 1460. Possession with intent to sell, and sale, of obscene matter on Federal property
+## § 1460. Possession with intent to sell, and sale, of obscene matter on Federal property
 
 **(a)** Whoever, either—
 
@@ -41,21 +41,21 @@ knowingly sells or possesses with intent to sell an obscene visual depiction sha
 
 **(b)** For the purposes of this section, the term “visual depiction” includes undeveloped film and videotape but does not include mere words.
 
-(Added Pub. L. 100–690, title VII, § 7526(a), Nov. 18, 1988, 102 Stat. 4503; amended Pub. L. 101–647, title III, § 323(c), Nov. 29, 1990, 104 Stat. 4819.)
+(Added Pub. L. 100–690, title VII, § 7526(a), Nov. 18, 1988, 102 Stat. 4503; amended Pub. L. 101–647, title III, § 323(c), Nov. 29, 1990, 104 Stat. 4819.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–647, § 323(c)(1), struck out “or a visual depiction of a minor engaging in or assisting another person to engage in sexually explicit conduct,” after “visual depiction” in concluding provisions.
+1990—Subsec. (a). Pub. L. 101–647, § 323(c)(1), struck out “or a visual depiction of a minor engaging in or assisting another person to engage in sexually explicit conduct,” after “visual depiction” in concluding provisions.
 
-Subsec. (b). Pub. L. 101–647, § 323(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section—
+Subsec. (b). Pub. L. 101–647, § 323(c)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “For the purposes of this section—
 
 “(1) the term ‘visual depiction’ includes undeveloped film and videotape but does not include mere words; and
 
 “(2) the terms ‘minor’ and ‘sexually explicit conduct’ have the meaning given those terms in chapter 110 of this title.”
 
-## § 1461. Mailing obscene or crime-inciting matter
+## § 1461. Mailing obscene or crime-inciting matter
 
 Every obscene, lewd, lascivious, indecent, filthy or vile article, matter, thing, device, or substance; and—
 
@@ -75,11 +75,11 @@ Whoever knowingly uses the mails for the mailing, carriage in the mails, or deli
 
 The term “indecent”, as used in this section includes matter of a character tending to incite arson, murder, or assassination.
 
-(June 25, 1948, ch. 645, 62 Stat. 768; June 28, 1955, ch. 190, §§ 1, 2, 69 Stat. 183; Pub. L. 85–796, § 1, Aug. 28, 1958, 72 Stat. 962; Pub. L. 91–662, §§ 3, 5(b), 6(3), Jan. 8, 1971, 84 Stat. 1973, 1974; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 768; June 28, 1955, ch. 190, §§ 1, 2, 69 Stat. 183; Pub. L. 85–796, § 1, Aug. 28, 1958, 72 Stat. 962; Pub. L. 91–662, §§ 3, 5(b), 6(3), Jan. 8, 1971, 84 Stat. 1973, 1974; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 334 (Mar. 4, 1909, ch. 321, § 211, 35 Stat. 1429 [1129]; Mar. 4, 1911, ch. 241, § 2, 36 Stat. 1339).
+Based on title 18, U.S.C., 1940 ed., § 334 (Mar. 4, 1909, ch. 321, § 211, 35 Stat. 1429 [1129]; Mar. 4, 1911, ch. 241, § 2, 36 Stat. 1339).
 
 The attention of Congress is invited to the following decisions of the Federal courts construing this section and section 1462 of this title.
 
@@ -95,21 +95,21 @@ Minor changes in phraseology were made.
 
 1994—Pub. L. 103–322, in eighth par., substituted “fined under this title” for “fined not more than $5,000” after “thereof, shall be” and for “fined not more than $10,000” after “offense, and shall be”.
 
-1971—Pub. L. 91–662, § 3(1), in second par., struck out “preventing conception or” before “producing abortion”.
+1971—Pub. L. 91–662, § 3(1), in second par., struck out “preventing conception or” before “producing abortion”.
 
-Pub. L. 91–662, § 3(1), in third par., struck out “preventing conception or” after “apply it for”.
+Pub. L. 91–662, § 3(1), in third par., struck out “preventing conception or” after “apply it for”.
 
-Pub. L. 91–662, § 3(2), (3), in fourth par., substituted “means abortion may be produced” for “means conception may be prevented or abortion produced”.
+Pub. L. 91–662, § 3(2), (3), in fourth par., substituted “means abortion may be produced” for “means conception may be prevented or abortion produced”.
 
-Pub. L. 91–662, § 3(1), in fifth par., struck out “preventing conception or” after “applied for”.
+Pub. L. 91–662, § 3(1), in fifth par., struck out “preventing conception or” after “applied for”.
 
-Pub. L. 91–662, § 6(3), in eighth par., inserted “or section 3001(e) of title 39” after “this section”. Section 5(b) of Pub. L. 91–662 inserted reference to section 4001(d) of Title 39, The Postal Service, which reflected provisions of Title 39 prior to the effective date of Title 39, Postal Service, as enacted by the Postal Reorganization Act. Said section 4001(d) was repealed by section 6(2) of Pub. L. 91–662, effective on the date that the Board of Governors of the Postal Service establish as the effective date for section 3001 of Title 39, Postal Service.
+Pub. L. 91–662, § 6(3), in eighth par., inserted “or section 3001(e) of title 39” after “this section”. Section 5(b) of Pub. L. 91–662 inserted reference to section 4001(d) of Title 39, The Postal Service, which reflected provisions of Title 39 prior to the effective date of Title 39, Postal Service, as enacted by the Postal Reorganization Act. Said section 4001(d) was repealed by section 6(2) of Pub. L. 91–662, effective on the date that the Board of Governors of the Postal Service establish as the effective date for section 3001 of Title 39, Postal Service.
 
 1958—Pub. L. 85–796 provided in eighth par. for continuing offenses by use of the mails instead of by deposits for mailing and for punishment for subsequent offenses.
 
-1955—Act June 28, 1955, § 1, in first par., substituted “indecent, filthy or vile article, matter, thing, device or substance” for “or filthy book, pamphlet, picture paper, letter, writing, print, or other publication of an indecent character”.
+1955—Act June 28, 1955, § 1, in first par., substituted “indecent, filthy or vile article, matter, thing, device or substance” for “or filthy book, pamphlet, picture paper, letter, writing, print, or other publication of an indecent character”.
 
-Act June 28, 1955, § 2, struck out fifth par., which read as follows: “Every letter, packet, or package, or other mail matter containing any filthy, vile, or indecent thing, device or substance; and”.
+Act June 28, 1955, § 2, struck out fifth par., which read as follows: “Every letter, packet, or package, or other mail matter containing any filthy, vile, or indecent thing, device or substance; and”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -117,17 +117,17 @@ Act June 28, 1955, § 2, struck out fifth par., which read as follows: “Ever
 
 Amendment by sections 3 and 5(b) of Pub. L. 91–662 effective Jan. 9, 1971, see section 7 of Pub. L. 91–662, set out as a note under section 552 of this title.
 
-Pub. L. 91–662, § 6, Jan. 8, 1971, 84 Stat. 1974, provided that the amendment made by that section is effective on date that Board of Governors of United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
+Pub. L. 91–662, § 6, Jan. 8, 1971, 84 Stat. 1974, provided that the amendment made by that section is effective on date that Board of Governors of United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
 
 **Commission on Obscenity and Pornography**
 
-Pub. L. 90–100, Oct. 3, 1967, 81 Stat. 253, as amended by Pub. L. 90–350, title V, § 502, June 19, 1968, 82 Stat. 197; Pub. L. 91–74, title V, § 503, Sept. 29, 1969, 83 Stat. 123, provided for establishment of Commission on Obscenity and Pornography, its membership, compensation of members, powers, functions, and duties of Commission, required Commission to report to President and to Congress its findings and recommendations no later than Sept. 30, 1970, and provided for its termination ten days following submission of report.
+Pub. L. 90–100, Oct. 3, 1967, 81 Stat. 253, as amended by Pub. L. 90–350, title V, § 502, June 19, 1968, 82 Stat. 197; Pub. L. 91–74, title V, § 503, Sept. 29, 1969, 83 Stat. 123, provided for establishment of Commission on Obscenity and Pornography, its membership, compensation of members, powers, functions, and duties of Commission, required Commission to report to President and to Congress its findings and recommendations no later than Sept. 30, 1970, and provided for its termination ten days following submission of report.
 
-## § 1462. Importation or transportation of obscene matters
+## § 1462. Importation or transportation of obscene matters
 
-Whoever brings into the United States, or any place subject to the jurisdiction thereof, or knowingly uses any express company or other common carrier or interactive computer service (as defined in section 230(e)(2) 1
+Whoever brings into the United States, or any place subject to the jurisdiction thereof, or knowingly uses any express company or other common carrier or interactive computer service (as defined in section 230(e)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Communications Act of 1934), for carriage in interstate or foreign commerce—
 
@@ -137,15 +137,15 @@ of the Communications Act of 1934), for carriage in interstate or foreign commer
 
 **(c)** any drug, medicine, article, or thing designed, adapted, or intended for producing abortion, or for any indecent or immoral use; or any written or printed card, letter, circular, book, pamphlet, advertisement, or notice of any kind giving information, directly or indirectly, where, how, or of whom, or by what means any of such mentioned articles, matters, or things may be obtained or made; or
 
-Whoever knowingly takes or receives, from such express company or other common carrier or interactive computer service (as defined in section 230(e)(2) <sup>1</sup> of the Communications Act of 1934) any matter or thing the carriage or importation of which is herein made unlawful—
+Whoever knowingly takes or receives, from such express company or other common carrier or interactive computer service (as defined in section 230(e)(2) <sup>1</sup> of the Communications Act of 1934) any matter or thing the carriage or importation of which is herein made unlawful—
 
 Shall be fined under this title or imprisoned not more than five years, or both, for the first such offense and shall be fined under this title or imprisoned not more than ten years, or both, for each such offense thereafter.
 
-(June 25, 1948, ch. 645, 62 Stat. 768; May 27, 1950, ch. 214, § 1, 64 Stat. 194; Pub. L. 85–796, § 2, Aug. 28, 1958, 72 Stat. 962; Pub. L. 91–662, § 4, Jan. 8, 1971, 84 Stat. 1973; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–104, title V, § 507(a), Feb. 8, 1996, 110 Stat. 137.)
+(June 25, 1948, ch. 645, 62 Stat. 768; May 27, 1950, ch. 214, § 1, 64 Stat. 194; Pub. L. 85–796, § 2, Aug. 28, 1958, 72 Stat. 962; Pub. L. 91–662, § 4, Jan. 8, 1971, 84 Stat. 1973; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–104, title V, § 507(a), Feb. 8, 1996, 110 Stat. 137.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 396 (Mar. 4, 1909, ch. 321, § 245, 35 Stat. 1138; June 5, 1920, ch. 268, 41 Stat. 1060).
+Based on title 18, U.S.C., 1940 ed., § 396 (Mar. 4, 1909, ch. 321, § 245, 35 Stat. 1138; June 5, 1920, ch. 268, 41 Stat. 1060).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -159,13 +159,13 @@ Minor changes in phraseology were made.
 
 **References in Text**
 
-Section 230(e)(2) of the Communications Act of 1934, referred to in text, was redesignated section 230(f)(2) of the Communications Act of 1934 by Pub. L. 105–277, div. C, title XIV, § 1404(a)(2), Oct. 21, 1998, 112 Stat. 2681–739, and is classified to section 230(f)(2) of Title 47, Telecommunications.
+Section 230(e)(2) of the Communications Act of 1934, referred to in text, was redesignated section 230(f)(2) of the Communications Act of 1934 by Pub. L. 105–277, div. C, title XIV, § 1404(a)(2), Oct. 21, 1998, 112 Stat. 2681–739, and is classified to section 230(f)(2) of Title 47, Telecommunications.
 
 **Amendments**
 
-1996—Pub. L. 104–104, § 507(a)(1), inserted “or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934)” after “carrier” in first par.
+1996—Pub. L. 104–104, § 507(a)(1), inserted “or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934)” after “carrier” in first par.
 
-Pub. L. 104–104, § 507(a)(2), in second par., inserted “or receives,” after “takes”, “or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934)” after “common carrier”, and “or importation” after “carriage”.
+Pub. L. 104–104, § 507(a)(2), in second par., inserted “or receives,” after “takes”, “or interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934)” after “common carrier”, and “or importation” after “carriage”.
 
 1994—Pub. L. 103–322, in last par., substituted “fined under this title” for “fined not more than $5,000” after “Shall be” and for “fined not more than $10,000” after “and shall be”.
 
@@ -183,19 +183,19 @@ Amendment by Pub. L. 91–662 effective Jan. 9, 1971, see section 7 of Pub. L. 9
 
 **Construction of 1996 Amendment**
 
-Pub. L. 104–104, title V, § 507(c), Feb. 8, 1996, 110 Stat. 137, provided that: “The amendments made by this section [amending this section and section 1465 of this title] are clarifying and shall not be interpreted to limit or repeal any prohibition contained in sections 1462 and 1465 of title 18, United States Code, before such amendment, under the rule established in United States v. Alpers, 338 U.S. 680 (1950).”
+Pub. L. 104–104, title V, § 507(c), Feb. 8, 1996, 110 Stat. 137, provided that: “The amendments made by this section [amending this section and section 1465 of this title] are clarifying and shall not be interpreted to limit or repeal any prohibition contained in sections 1462 and 1465 of title 18, United States Code, before such amendment, under the rule established in United States v. Alpers, 338 U.S. 680 (1950).”
 
-## § 1463. Mailing indecent matter on wrappers or envelopes
+## § 1463. Mailing indecent matter on wrappers or envelopes
 
 All matter otherwise mailable by law, upon the envelope or outside cover or wrapper of which, and all postal cards upon which, any delineations, epithets, terms, or language of an indecent, lewd, lascivious, or obscene character are written or printed or otherwise impressed or apparent, are nonmailable matter, and shall not be conveyed in the mails nor delivered from any post office nor by any letter carrier, and shall be withdrawn from the mails under such regulations as the Postal Service shall prescribe.
 
 Whoever knowingly deposits for mailing or delivery, anything declared by this section to be nonmailable matter, or knowingly takes the same from the mails for the purpose of circulating or disposing of or aiding in the circulation or disposition of the same, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 769; Pub. L. 91–375, § 6(j)(13), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 769; Pub. L. 91–375, § 6(j)(13), Aug. 12, 1970, 84 Stat. 778; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed. § 335 (Mar. 4, 1909, ch. 321, § 212, 35 Stat. 1129).
+Based on title 18, U.S.C., 1940 ed. § 335 (Mar. 4, 1909, ch. 321, § 212, 35 Stat. 1129).
 
 Said section 335 of title 18, U.S.C., 1940 ed., was incorporated in this section and section 1718 of this title.
 
@@ -217,15 +217,15 @@ Minor changes were made in phraseology.
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 1464. Broadcasting obscene language
+## § 1464. Broadcasting obscene language
 
 Whoever utters any obscene, indecent, or profane language by means of radio communication shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 769; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 769; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on sections 326 and 501 of title 47, U.S.C., 1940 ed., Telegraphs, Telephones, and Radio-telegraphs (June 19, 1934, ch. 652, §§ 326, 501, 48 Stat. 1091, 1100).
+Based on sections 326 and 501 of title 47, U.S.C., 1940 ed., Telegraphs, Telephones, and Radio-telegraphs (June 19, 1934, ch. 652, §§ 326, 501, 48 Stat. 1091, 1100).
 
 Section consolidates last sentence of section 326 with penalty provision of section 501 both of title 47, U.S.C., 1940 ed., with changes in phraseology necessary to effect the consolidation.
 
@@ -243,39 +243,39 @@ Section 501 of title 47, U.S.C., 1940 ed., is to remain, also, in said title 47,
 
 Federal Communications Commission to promulgate regulations by Jan. 31, 1989, in accordance with this section to enforce this section on a 24 hour per day basis, see section 608 of Pub. L. 100–459, set out as a note under section 303 of Title 47, Telecommunications.
 
-## § 1465. Production and transportation of obscene matters for sale or distribution
+## § 1465. Production and transportation of obscene matters for sale or distribution
 
-Whoever knowingly produces with the intent to transport, distribute, or transmit in interstate or foreign commerce, or whoever knowingly transports or travels in, or uses a facility or means of, interstate or foreign commerce or an interactive computer service (as defined in section 230(e)(2) 1
+Whoever knowingly produces with the intent to transport, distribute, or transmit in interstate or foreign commerce, or whoever knowingly transports or travels in, or uses a facility or means of, interstate or foreign commerce or an interactive computer service (as defined in section 230(e)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Communications Act of 1934) in or affecting such commerce, for the purpose of sale or distribution of any obscene, lewd, lascivious, or filthy book, pamphlet, picture, film, paper, letter, writing, print, silhouette, drawing, figure, image, cast, phonograph recording, electrical transcription or other article capable of producing sound or any other matter of indecent or immoral character, shall be fined under this title or imprisoned not more than five years, or both.
 
 The transportation as aforesaid of two or more copies of any publication or two or more of any article of the character described above, or a combined total of five such publications and articles, shall create a presumption that such publications or articles are intended for sale or distribution, but such presumption shall be rebuttable.
 
-(Added June 28, 1955, ch. 190, § 3, 69 Stat. 183; amended Pub. L. 100–690, title VII, §§ 7521(c), 7522(b), Nov. 18, 1988, 102 Stat. 4489, 4494; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–104, title V, § 507(b), Feb. 8, 1996, 110 Stat. 137; Pub. L. 109–248, title V, § 506(a), July 27, 2006, 120 Stat. 630.)
+(Added June 28, 1955, ch. 190, § 3, 69 Stat. 183; amended Pub. L. 100–690, title VII, §§ 7521(c), 7522(b), Nov. 18, 1988, 102 Stat. 4489, 4494; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–104, title V, § 507(b), Feb. 8, 1996, 110 Stat. 137; Pub. L. 109–248, title V, § 506(a), July 27, 2006, 120 Stat. 630.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 230(e)(2) of the Communications Act of 1934, referred to in text, was redesignated section 230(f)(2) of the Communications Act of 1934 by Pub. L. 105–277, div. C, title XIV, § 1404(a)(2), Oct. 21, 1998, 112 Stat. 2681–739, and is classified to section 230(f)(2) of Title 47, Telecommunications.
+Section 230(e)(2) of the Communications Act of 1934, referred to in text, was redesignated section 230(f)(2) of the Communications Act of 1934 by Pub. L. 105–277, div. C, title XIV, § 1404(a)(2), Oct. 21, 1998, 112 Stat. 2681–739, and is classified to section 230(f)(2) of Title 47, Telecommunications.
 
 **Amendments**
 
-2006—Pub. L. 109–248, § 506(a)(3), inserted comma after “in or affecting such commerce” in first par.
+2006—Pub. L. 109–248, § 506(a)(3), inserted comma after “in or affecting such commerce” in first par.
 
-Pub. L. 109–248, § 506(a)(2), which directed amendment of this section by inserting “produces with the intent to transport, distribute, or transmit in interstate or foreign commerce, or whoever knowingly” after “whoever knowingly” and before “transports or travels in”, was executed by making the insertion after “Whoever knowingly” and before “transports or travels in” in first par., to reflect the probable intent of Congress.
+Pub. L. 109–248, § 506(a)(2), which directed amendment of this section by inserting “produces with the intent to transport, distribute, or transmit in interstate or foreign commerce, or whoever knowingly” after “whoever knowingly” and before “transports or travels in”, was executed by making the insertion after “Whoever knowingly” and before “transports or travels in” in first par., to reflect the probable intent of Congress.
 
-Pub. L. 109–248, § 506(a)(1), inserted “Production and” before “transportation” in section catchline.
+Pub. L. 109–248, § 506(a)(1), inserted “Production and” before “transportation” in section catchline.
 
-1996—Pub. L. 104–104, in first par., substituted “transports or travels in, or uses a facility or means of,” for “transports in”, inserted “or an interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) in or affecting such commerce” before “for the purpose of sale”, and substituted “of” for “, or knowingly travels in interstate commerce, or uses a facility or means of interstate commerce for the purpose of transporting obscene material in interstate or foreign commerce,” before “any obscene, lewd, lascivious, or filthy book”.
+1996—Pub. L. 104–104, in first par., substituted “transports or travels in, or uses a facility or means of,” for “transports in”, inserted “or an interactive computer service (as defined in section 230(e)(2) of the Communications Act of 1934) in or affecting such commerce” before “for the purpose of sale”, and substituted “of” for “, or knowingly travels in interstate commerce, or uses a facility or means of interstate commerce for the purpose of transporting obscene material in interstate or foreign commerce,” before “any obscene, lewd, lascivious, or filthy book”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
 
-1988—Pub. L. 100–690, § 7521(c), inserted “, or knowingly travels in interstate commerce, or uses a facility or means of interstate commerce for the purpose of transporting obscene material in interstate or foreign commerce,” after “distribution” in first par.
+1988—Pub. L. 100–690, § 7521(c), inserted “, or knowingly travels in interstate commerce, or uses a facility or means of interstate commerce for the purpose of transporting obscene material in interstate or foreign commerce,” after “distribution” in first par.
 
-Pub. L. 100–690, § 7522(b), struck out last par. which read as follows: “When any person is convicted of a violation of this Act, the court in its judgment of conviction may, in addition to the penalty prescribed, order the confiscation and disposal of such items described herein which were found in the possession or under the immediate control of such person at the time of his arrest.”
+Pub. L. 100–690, § 7522(b), struck out last par. which read as follows: “When any person is convicted of a violation of this Act, the court in its judgment of conviction may, in addition to the penalty prescribed, order the confiscation and disposal of such items described herein which were found in the possession or under the immediate control of such person at the time of his arrest.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -283,31 +283,31 @@ Pub. L. 100–690, § 7522(b), struck out last par. which read as follows: “
 
 Amendment by Pub. L. 104–104 not to be interpreted as limiting or repealing any prohibition contained in sections 1462 and 1465 of this title, before such amendment, see section 507(c) of Pub. L. 104–104, set out as a note under section 1462 of this title.
 
-## § 1466. Engaging in the business of selling or transferring obscene matter
+## § 1466. Engaging in the business of selling or transferring obscene matter
 
 **(a)** Whoever is engaged in the business of producing with intent to distribute or sell, or selling or transferring obscene matter, who knowingly receives or possesses with intent to distribute any obscene book, magazine, picture, paper, film, videotape, or phonograph or other audio recording, which has been shipped or transported in interstate or foreign commerce, shall be punished by imprisonment for not more than 5 years or by a fine under this title, or both.
 
-**(b)** As used in this section, the term “engaged in the business” means that the person who produces 1
+**(b)** As used in this section, the term “engaged in the business” means that the person who produces 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 sells or transfers or offers to sell or transfer obscene matter devotes time, attention, or labor to such activities, as a regular course of trade or business, with the objective of earning a profit, although it is not necessary that the person make a profit or that the production, selling or transferring or offering to sell or transfer such material be the person’s sole or principal business or source of income. The offering for sale of or to transfer, at one time, two or more copies of any obscene publication, or two or more of any obscene article, or a combined total of five or more such publications and articles, shall create a rebuttable presumption that the person so offering them is “engaged in the business” as defined in this subsection.
 
-(Added Pub. L. 100–690, title VII, § 7521(a), Nov. 18, 1988, 102 Stat. 4489; amended Pub. L. 101–647, title XXXV, § 3548, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 109–248, title V, § 506(b), July 27, 2006, 120 Stat. 630.)
+(Added Pub. L. 100–690, title VII, § 7521(a), Nov. 18, 1988, 102 Stat. 4489; amended Pub. L. 101–647, title XXXV, § 3548, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 109–248, title V, § 506(b), July 27, 2006, 120 Stat. 630.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–248, § 506(b)(1), inserted “producing with intent to distribute or sell, or” before “selling or transferring obscene matter,”.
+2006—Subsec. (a). Pub. L. 109–248, § 506(b)(1), inserted “producing with intent to distribute or sell, or” before “selling or transferring obscene matter,”.
 
-Subsec. (b). Pub. L. 109–248, § 506(b)(3), which directed amendment of subsec. (b) by inserting “production,” before “selling or transferring or offering to sell or transfer such material.”, was executed by making the insertion before “selling or transferring or offering to sell or transfer such material be”, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 109–248, § 506(b)(3), which directed amendment of subsec. (b) by inserting “production,” before “selling or transferring or offering to sell or transfer such material.”, was executed by making the insertion before “selling or transferring or offering to sell or transfer such material be”, to reflect the probable intent of Congress.
 
-Pub. L. 109–248, § 506(b)(2), inserted “produces” before “sells or transfers or offers to sell or transfer obscene matter”.
+Pub. L. 109–248, § 506(b)(2), inserted “produces” before “sells or transfers or offers to sell or transfer obscene matter”.
 
 1990—Subsec. (b). Pub. L. 101–647 substituted “this section” for “this subsection” and “this subsection” for “subsection (b)”.
 
-## § 1466A. Obscene visual representations of the sexual abuse of children
+## § 1466A. Obscene visual representations of the sexual abuse of children
 
 **(a) In General.—** Any person who, in a circumstance described in subsection (d), knowingly produces, distributes, receives, or possesses with intent to distribute, a visual depiction of any kind, including a drawing, cartoon, sculpture, or painting, that—
 
@@ -373,13 +373,13 @@ or attempts or conspires to do so, shall be subject to the penalties provided in
 
 **(3)** the term “graphic”, when used with respect to a depiction of sexually explicit conduct, means that a viewer can observe any part of the genitals or pubic area of any depicted person or animal during any part of the time that the sexually explicit conduct is being depicted.
 
-(Added Pub. L. 108–21, title V, § 504(a), Apr. 30, 2003, 117 Stat. 680.)
+(Added Pub. L. 108–21, title V, § 504(a), Apr. 30, 2003, 117 Stat. 680.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Sentencing Guidelines**
 
-Pub. L. 108–21, title V, § 504(c), Apr. 30, 2003, 117 Stat. 682, provided that:
+Pub. L. 108–21, title V, § 504(c), Apr. 30, 2003, 117 Stat. 682, provided that:
 
 > **“(1) Category.—** Except as provided in paragraph (2), the applicable category of offense to be used in determining the sentencing range referred to in section 3553(a)(4) of title 18, United States Code, with respect to any person convicted under section 1466A of such title, shall be the category of offenses described in section 2G2.2 of the Sentencing Guidelines.
 
@@ -387,7 +387,7 @@ Pub. L. 108–21, title V, § 504(c), Apr. 30, 2003, 117 Stat. 682, provided t
 
 **Report to Congressional Committees**
 
-Pub. L. 108–21, title V, § 513(b), Apr. 30, 2003, 117 Stat. 685, provided that:
+Pub. L. 108–21, title V, § 513(b), Apr. 30, 2003, 117 Stat. 685, provided that:
 
 > **“(1) In general.—** Not later than 9 months after the date of enactment of this Act [Apr. 30, 2003], and every 2 years thereafter, the Attorney General shall report to the Chairpersons and Ranking Members of the Committees on the Judiciary of the Senate and the House of Representatives on the Federal enforcement actions under chapter 110 or section 1466A of title 18, United States Code.
 
@@ -399,7 +399,7 @@ Pub. L. 108–21, title V, § 513(b), Apr. 30, 2003, 117 Stat. 685, provided t
 
 > **“(C)** an analysis of the technology being used by the child pornography industry.”
 
-## § 1467. Criminal forfeiture
+## § 1467. Criminal forfeiture
 
 **(a) Property Subject to Criminal Forfeiture.—** A person who is convicted of an offense involving obscene material under this chapter shall forfeit to the United States such person’s interest in—
 
@@ -413,19 +413,19 @@ Pub. L. 108–21, title V, § 513(b), Apr. 30, 2003, 117 Stat. 685, provided t
 
 **(c)** Any property subject to forfeiture pursuant to subsection (a) may be forfeited to the United States in a civil case in accordance with the procedures set forth in chapter 46 of this title.
 
-(Added Pub. L. 100–690, title VII, § 7522(a), Nov. 18, 1988, 102 Stat. 4490; amended Pub. L. 101–647, title XXXV, § 3549, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 109–248, title V, § 505(a), July 27, 2006, 120 Stat. 629.)
+(Added Pub. L. 100–690, title VII, § 7522(a), Nov. 18, 1988, 102 Stat. 4490; amended Pub. L. 101–647, title XXXV, § 3549, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 109–248, title V, § 505(a), July 27, 2006, 120 Stat. 629.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a)(3). Pub. L. 109–248, § 505(a)(1), substituted period at end for “, if the court in its discretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property in the offense.”
+2006—Subsec. (a)(3). Pub. L. 109–248, § 505(a)(1), substituted period at end for “, if the court in its discretion so determines, taking into consideration the nature, scope, and proportionality of the use of the property in the offense.”
 
-Subsecs. (b) to (n). Pub. L. 109–248, § 505(a)(2), added subsecs. (b) and (c) and struck out former subsecs. (b) to (n) which related, respectively, to third party transfers, protective orders, warrant of seizure, order of forfeiture, execution of order, disposition of property, authority of Attorney General, bar on intervention, jurisdiction to enter orders, depositions, third party interests, construction of section, and substitute assets.
+Subsecs. (b) to (n). Pub. L. 109–248, § 505(a)(2), added subsecs. (b) and (c) and struck out former subsecs. (b) to (n) which related, respectively, to third party transfers, protective orders, warrant of seizure, order of forfeiture, execution of order, disposition of property, authority of Attorney General, bar on intervention, jurisdiction to enter orders, depositions, third party interests, construction of section, and substitute assets.
 
 1990—Subsec. (h)(4). Pub. L. 101–647 substituted “under section 616 of the Tariff Act of 1930” for “in accordance with the provisions of section 1616, title 19, United States Code”.
 
-## § 1468. Distributing obscene material by cable or subscription television
+## § 1468. Distributing obscene material by cable or subscription television
 
 **(a)** Whoever knowingly utters any obscene language or distributes any obscene matter by means of cable television or subscription services on television, shall be punished by imprisonment for not more than 2 years or by a fine in accordance with this title, or both.
 
@@ -433,30 +433,30 @@ Subsecs. (b) to (n). Pub. L. 109–248, § 505(a)(2), added subsecs. (b) and (
 
 **(c)** Nothing in this chapter, or the Cable Communications Policy Act of 1984, or any other provision of Federal law, is intended to interfere with or preempt the power of the States, including political subdivisions thereof, to regulate the uttering of language that is obscene or otherwise unprotected by the Constitution or the distribution of matter that is obscene or otherwise unprotected by the Constitution, of any sort, by means of cable television or subscription services on television.
 
-(Added Pub. L. 100–690, title VII, § 7523(a), Nov. 18, 1988, 102 Stat. 4501.)
+(Added Pub. L. 100–690, title VII, § 7523(a), Nov. 18, 1988, 102 Stat. 4501.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Cable Communications Policy Act of 1984, referred to in subsec. (c), is Pub. L. 98–549, Oct. 30, 1984, 98 Stat. 2779, which is classified principally to subchapter V–A (§ 521 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 609 of Title 47 and Tables.
+The Cable Communications Policy Act of 1984, referred to in subsec. (c), is Pub. L. 98–549, Oct. 30, 1984, 98 Stat. 2779, which is classified principally to subchapter V–A (§ 521 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 609 of Title 47 and Tables.
 
-## § 1469. Presumptions
+## § 1469. Presumptions
 
 **(a)** In any prosecution under this chapter in which an element of the offense is that the matter in question was transported, shipped, or carried in interstate commerce, proof, by either circumstantial or direct evidence, that such matter was produced or manufactured in one State and is subsequently located in another State shall raise a rebuttable presumption that such matter was transported, shipped, or carried in interstate commerce.
 
 **(b)** In any prosecution under this chapter in which an element of the offense is that the matter in question was transported, shipped, or carried in foreign commerce, proof, by either circumstantial or direct evidence, that such matter was produced or manufactured outside of the United States and is subsequently located in the United States shall raise a rebuttable presumption that such matter was transported, shipped, or carried in foreign commerce.
 
-(Added Pub. L. 100–690, title VII, § 7521(d), Nov. 18, 1988, 102 Stat. 4489.)
+(Added Pub. L. 100–690, title VII, § 7521(d), Nov. 18, 1988, 102 Stat. 4489.)
 
-## § 1470. Transfer of obscene material to minors
+## § 1470. Transfer of obscene material to minors
 
 Whoever, using the mail or any facility or means of interstate or foreign commerce, knowingly transfers obscene matter to another individual who has not attained the age of 16 years, knowing that such other individual has not attained the age of 16 years, or attempts to do so, shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(Added Pub. L. 105–314, title IV, § 401(a), Oct. 30, 1998, 112 Stat. 2979.)
+(Added Pub. L. 105–314, title IV, § 401(a), Oct. 30, 1998, 112 Stat. 2979.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Study on Limiting Availability of Pornography on Internet**
 
-Pub. L. 105–314, title IX, § 901, Oct. 30, 1998, 112 Stat. 2991, provided for a study of computer-based technologies and other approaches to the problem of the availability of pornographic material to children on the Internet, in order to develop possible amendments to Federal criminal law and other law enforcement techniques to respond to the problem, and directed the Attorney General to submit to Congress a final report of the study not later than 2 years after Oct. 30, 1998.
+Pub. L. 105–314, title IX, § 901, Oct. 30, 1998, 112 Stat. 2991, provided for a study of computer-based technologies and other approaches to the problem of the availability of pornographic material to children on the Internet, in order to develop possible amendments to Federal criminal law and other law enforcement techniques to respond to the problem, and directed the Attorney General to submit to Congress a final report of the study not later than 2 years after Oct. 30, 1998.

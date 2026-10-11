@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## GENERAL PROVISIONS
 
-### § 1601. Congressional findings
+### § 1601. Congressional findings
 
 The Congress finds the following:
 
@@ -31,7 +31,7 @@ The Congress finds the following:
 
 **(5)** Despite such services, the unmet health needs of the American Indian people are severe and the health status of the Indians is far below that of the general population of the United States.
 
-(Pub. L. 94–437, § 2, Sept. 30, 1976, 90 Stat. 1400; Pub. L. 102–573, § 3(a), Oct. 29, 1992, 106 Stat. 4526; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, § 2, Sept. 30, 1976, 90 Stat. 1400; Pub. L. 102–573, § 3(a), Oct. 29, 1992, 106 Stat. 4526; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -49,49 +49,49 @@ Amendment by Pub. L. 111–148 is based on section 102 of title I of S. 1790, On
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 116–311, § 1, Jan. 5, 2021, 134 Stat. 4927, provided that: “This Act [amending section 1645 of this title] may be cited as the ‘Proper and Reimbursed Care for Native Veterans Act’ or the ‘PRC for Native Veterans Act’.”
+Pub. L. 116–311, § 1, Jan. 5, 2021, 134 Stat. 4927, provided that: “This Act [amending section 1645 of this title] may be cited as the ‘Proper and Reimbursed Care for Native Veterans Act’ or the ‘PRC for Native Veterans Act’.”
 
 **Short Title of 2010 Amendment**
 
-Section 1(a) of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, provided that: “This Act [probably means S. 1790 as enacted into law by Pub. L. 111–148, enacting subchapter V–A of this chapter, sections 1616p to 1616r, 1621y, 1638a, 1638e to 1638g, 1647 to 1647d, 1660d to 1660h, 1663, 1663a, 1675, 1678, 1678a, 1679, and 1680p to 1680v of this title, amending sections 1601 to 1603, 1615, 1616*l*, 1621, 1621a, 1621c to 1621f, 1621h, 1621j to 1621m, 1621*o* to 1621q, 1621t to 1621v, 1631, 1637, 1638b, 1641, 1642, 1644, 1645, 1652, 1659, 1660b, 1661, 1680b, 1680c, 1680*l*, and 1680*o* of this title and sections 1395*l*, 1395qq, 11705, 11706, 11709, and 11711 of Title 42, The Public Health and Welfare, repealing sections 1616p, 1621w, 1638a, 1647, 1660d, 1663, 1675, 1678, 1679, and 1680k of this title, and enacting provisions set out as a note under section 11705 of Title 42] may be cited as the ‘Indian Health Care Improvement Reauthorization and Extension Act of 2009’.”
+Section 1(a) of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, provided that: “This Act [probably means S. 1790 as enacted into law by Pub. L. 111–148, enacting subchapter V–A of this chapter, sections 1616p to 1616r, 1621y, 1638a, 1638e to 1638g, 1647 to 1647d, 1660d to 1660h, 1663, 1663a, 1675, 1678, 1678a, 1679, and 1680p to 1680v of this title, amending sections 1601 to 1603, 1615, 1616*l*, 1621, 1621a, 1621c to 1621f, 1621h, 1621j to 1621m, 1621*o* to 1621q, 1621t to 1621v, 1631, 1637, 1638b, 1641, 1642, 1644, 1645, 1652, 1659, 1660b, 1661, 1680b, 1680c, 1680*l*, and 1680*o* of this title and sections 1395*l*, 1395qq, 11705, 11706, 11709, and 11711 of Title 42, The Public Health and Welfare, repealing sections 1616p, 1621w, 1638a, 1647, 1660d, 1663, 1675, 1678, 1679, and 1680k of this title, and enacting provisions set out as a note under section 11705 of Title 42] may be cited as the ‘Indian Health Care Improvement Reauthorization and Extension Act of 2009’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–417, § 1, Nov. 1, 2000, 114 Stat. 1812, provided that: “This Act [enacting and amending section 1645 of this title, amending sections 1395qq and 1396j of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 1645 of this title] may be cited as the ‘Alaska Native and American Indian Direct Reimbursement Act of 2000’.”
+Pub. L. 106–417, § 1, Nov. 1, 2000, 114 Stat. 1812, provided that: “This Act [enacting and amending section 1645 of this title, amending sections 1395qq and 1396j of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under section 1645 of this title] may be cited as the ‘Alaska Native and American Indian Direct Reimbursement Act of 2000’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–313, § 1(a), Oct. 19, 1996, 110 Stat. 3820, provided that: “This Act [amending sections 1603, 1613a, 1621j, 1645, 1665e, 1665j, and 1680k of this title] may be cited as the ‘Indian Health Care Improvement Technical Corrections Act of 1996’.”
+Pub. L. 104–313, § 1(a), Oct. 19, 1996, 110 Stat. 3820, provided that: “This Act [amending sections 1603, 1613a, 1621j, 1645, 1665e, 1665j, and 1680k of this title] may be cited as the ‘Indian Health Care Improvement Technical Corrections Act of 1996’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–573, § 1, Oct. 29, 1992, 106 Stat. 4526, provided that: “This Act [see Tables for classification] may be cited as the ‘Indian Health Amendments of 1992’.”
+Pub. L. 102–573, § 1, Oct. 29, 1992, 106 Stat. 4526, provided that: “This Act [see Tables for classification] may be cited as the ‘Indian Health Amendments of 1992’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–630, title V, § 501, Nov. 28, 1990, 104 Stat. 4556, provided that: “This title [enacting sections 1621h, 1637, 1659, and 1660 of this title, amending sections 1653, 1657, and 2474 of this title, and enacting provisions set out as notes under sections 1621h, 1653, and 2415 of this title] may be cited as the ‘Indian Health Care Amendments of 1990’.”
+Pub. L. 101–630, title V, § 501, Nov. 28, 1990, 104 Stat. 4556, provided that: “This title [enacting sections 1621h, 1637, 1659, and 1660 of this title, amending sections 1653, 1657, and 2474 of this title, and enacting provisions set out as notes under sections 1621h, 1653, and 2415 of this title] may be cited as the ‘Indian Health Care Amendments of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–713, § 1, Nov. 23, 1988, 102 Stat. 4784, provided that: “This Act [enacting sections 1616 to 1616j, 1621a to 1621g, 1636, 1651 to 1658, 1661, 1662, and 1680a to 1680j of this title and sections 254s and 295j of Title 42, The Public Health and Welfare, amending sections 1603, 1612 to 1613a, 1614, 1615, 1621, 1631, 1632, 1634, 1674, 1676, and 1678 to 1680 of this title and section 5316 of Title 5, Government Organization and Employees, repealing section 1635 of this title and section 254r of Title 42, enacting provisions set out as notes under this section and sections 1611, 1621b, 1661, and 1677 of this title and sections 254r, 1395qq, and 1396j of Title 42, amending provisions set out as a note under section 1396j of Title 42, and repealing provisions set out as a note under section 1396j of Title 42] may be cited as the ‘Indian Health Care Amendments of 1988’.”
+Pub. L. 100–713, § 1, Nov. 23, 1988, 102 Stat. 4784, provided that: “This Act [enacting sections 1616 to 1616j, 1621a to 1621g, 1636, 1651 to 1658, 1661, 1662, and 1680a to 1680j of this title and sections 254s and 295j of Title 42, The Public Health and Welfare, amending sections 1603, 1612 to 1613a, 1614, 1615, 1621, 1631, 1632, 1634, 1674, 1676, and 1678 to 1680 of this title and section 5316 of Title 5, Government Organization and Employees, repealing section 1635 of this title and section 254r of Title 42, enacting provisions set out as notes under this section and sections 1611, 1621b, 1661, and 1677 of this title and sections 254r, 1395qq, and 1396j of Title 42, amending provisions set out as a note under section 1396j of Title 42, and repealing provisions set out as a note under section 1396j of Title 42] may be cited as the ‘Indian Health Care Amendments of 1988’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–537, § 1(a), Dec. 17, 1980, 94 Stat. 3173, provided that: “this Act [enacting sections 1622, 1634, and 1676 to 1680 of this title, amending sections 1603, 1612 to 1614, 1621, 1651 to 1657, and 1674 of this title and section 294y–1 of Title 42, The Public Health and Welfare, and repealing section 1658 of this title] may be cited as the ‘Indian Health Care Amendments of 1980’.”
+Pub. L. 96–537, § 1(a), Dec. 17, 1980, 94 Stat. 3173, provided that: “this Act [enacting sections 1622, 1634, and 1676 to 1680 of this title, amending sections 1603, 1612 to 1614, 1621, 1651 to 1657, and 1674 of this title and section 294y–1 of Title 42, The Public Health and Welfare, and repealing section 1658 of this title] may be cited as the ‘Indian Health Care Amendments of 1980’.”
 
 **Short Title**
 
-Pub. L. 94–437, § 1, Sept. 30, 1976, 90 Stat. 1400, provided: “That this Act [enacting this chapter and sections 1395qq and 1396j of Title 42, The Public Health and Welfare, amending sections 234, 1395f, 1395n, and 1396d of Title 42, and enacting provisions set out as notes under section 1671 of this title and sections 1395qq and 1396j of Title 42] may be cited as the ‘Indian Health Care Improvement Act’.”
+Pub. L. 94–437, § 1, Sept. 30, 1976, 90 Stat. 1400, provided: “That this Act [enacting this chapter and sections 1395qq and 1396j of Title 42, The Public Health and Welfare, amending sections 234, 1395f, 1395n, and 1396d of Title 42, and enacting provisions set out as notes under section 1671 of this title and sections 1395qq and 1396j of Title 42] may be cited as the ‘Indian Health Care Improvement Act’.”
 
 **Separability**
 
-Pub. L. 100–713, title VIII, § 801, Nov. 23, 1988, 102 Stat. 4839, provided that: “If any provision of this Act, any amendment made by this Act [see Short Title of 1988 Amendment note above], or the application of such provision or amendment to any person or circumstances is held to be invalid, the remainder of this Act, the remaining amendments made by this Act, and the application of such provision or amendment to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
+Pub. L. 100–713, title VIII, § 801, Nov. 23, 1988, 102 Stat. 4839, provided that: “If any provision of this Act, any amendment made by this Act [see Short Title of 1988 Amendment note above], or the application of such provision or amendment to any person or circumstances is held to be invalid, the remainder of this Act, the remaining amendments made by this Act, and the application of such provision or amendment to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.”
 
 **Availability of Appropriations**
 
-Pub. L. 100–713, § 4, Nov. 23, 1988, 102 Stat. 4785, provided that: “Any new spending authority (described in subsection (c)(2)(A) or (B) of section 401 of the Congressional Budget Act of 1974 [2 U.S.C. 651(c)(2)(A), (B)]) which is provided under this Act [see Short Title of 1988 Amendment note above] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
+Pub. L. 100–713, § 4, Nov. 23, 1988, 102 Stat. 4785, provided that: “Any new spending authority (described in subsection (c)(2)(A) or (B) of section 401 of the Congressional Budget Act of 1974 [2 U.S.C. 651(c)(2)(A), (B)]) which is provided under this Act [see Short Title of 1988 Amendment note above] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
 
-### § 1602. Declaration of national Indian health policy
+### § 1602. Declaration of national Indian health policy
 
 Congress declares that it is the policy of this Nation, in fulfillment of its special trust responsibilities and legal obligations to Indians—
 
@@ -109,7 +109,7 @@ Congress declares that it is the policy of this Nation, in fulfillment of its sp
 
 **(7)** to provide funding for programs and facilities operated by Indian tribes and tribal organizations in amounts that are not less than the amounts provided to programs and facilities operated directly by the Service.
 
-(Pub. L. 94–437, § 3, Sept. 30, 1976, 90 Stat. 1401; Pub. L. 102–573, § 3(b), Oct. 29, 1992, 106 Stat. 4526; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, § 3, Sept. 30, 1976, 90 Stat. 1401; Pub. L. 102–573, § 3(b), Oct. 29, 1992, 106 Stat. 4526; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -127,7 +127,7 @@ Amendment by Pub. L. 111–148 is based on section 103 of title I of S. 1790, On
 
 1992—Pub. L. 102–573 amended section generally. Prior to amendment, section read as follows: “The Congress hereby declares that it is the policy of this Nation, in fulfillment of its special responsibilities and legal obligation to the American Indian people, to meet the national goal of providing the highest possible health status to Indians and to provide existing Indian health services with all resources necessary to effect that policy.”
 
-### § 1603. Definitions
+### § 1603. Definitions
 
 In this chapter:
 
@@ -301,15 +301,15 @@ The term “Health profession” means allopathic medicine, family medicine, int
 
 **(13) Indians or Indian** The term “Indians” or “Indian”, unless otherwise designated, means any person who is a member of an Indian tribe, as defined in subsection (d) hereof,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-except that, for the purpose of sections 1612 and 1613 of this title, such terms shall mean any individual who 2
+except that, for the purpose of sections 1612 and 1613 of this title, such terms shall mean any individual who 2
 
-<sup>2</sup>  So in original. Probably should be followed by a dash.
+<sup>2</sup> So in original. Probably should be followed by a dash.
 
 **(A)** ,3
 
-<sup>3</sup>  So in original. The comma probably should not appear.
+<sup>3</sup> So in original. The comma probably should not appear.
 
 irrespective of whether he or she lives on or near a reservation, is a member of a tribe, band, or other organized group of Indians, including those tribes, bands, or groups terminated since 1940 and those recognized now or in the future by the State in which they reside, or who is a descendant, in the first or second degree, of any such member, or
 
@@ -325,7 +325,7 @@ The term “Indian tribe” means any Indian tribe, band, nation, or other organ
 
 **(15) Junior or community college**
 
-The term “junior or community college” has the meaning given the term in section 1058(e) <sup>1</sup> of title 20.
+The term “junior or community college” has the meaning given the term in section 1058(e) <sup>1</sup> of title 20.
 
 **(16) Reservation**
 
@@ -393,7 +393,7 @@ The term “Urban Indian” means any individual who resides in an urban center,
 
 The term “Urban Indian organization” means a nonprofit corporate body situated in an urban center, governed by an urban Indian controlled board of directors, and providing for the maximum participation of all interested Indian groups and individuals, which body is capable of legally cooperating with other public and private entities for the purpose of performing the activities described in section 1653(a) of this title.
 
-(Pub. L. 94–437, § 4, Sept. 30, 1976, 90 Stat. 1401; Pub. L. 96–537, § 2, Dec. 17, 1980, 94 Stat. 3173; Pub. L. 100–713, title II, §§ 201(b), 203(b), title V, § 502, Nov. 23, 1988, 102 Stat. 4803, 4804, 4824; Pub. L. 102–573, § 3(c), title IX, § 902(1), Oct. 29, 1992, 106 Stat. 4529, 4591; Pub. L. 104–313, § 2(a), Oct. 19, 1996, 110 Stat. 3820; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, § 4, Sept. 30, 1976, 90 Stat. 1401; Pub. L. 96–537, § 2, Dec. 17, 1980, 94 Stat. 3173; Pub. L. 100–713, title II, §§ 201(b), 203(b), title V, § 502, Nov. 23, 1988, 102 Stat. 4803, 4804, 4824; Pub. L. 102–573, § 3(c), title IX, § 902(1), Oct. 29, 1992, 106 Stat. 4529, 4591; Pub. L. 104–313, § 2(a), Oct. 19, 1996, 110 Stat. 3820; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -403,11 +403,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Subsection (d) hereof, referred to in par. (13), was redesignated par. (14) of this section by section 10221(a) of Pub. L. 111–148.
 
-The Alaska Native Claims Settlement Act, referred to in pars. (14) and (16)(B)(iii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43, and Tables.
+The Alaska Native Claims Settlement Act, referred to in pars. (14) and (16)(B)(iii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43, and Tables.
 
-Section 1058(e) of title 20, referred to in par. (15), probably means section 1058(f) of title 20, which defines “junior or community college”. Section 1058(e) of title 20 was redesignated section 1058(f) of title 20 by Pub. L. 105–244, title III, § 303(b)(1), Oct. 7, 1998, 112 Stat. 1639.
+Section 1058(e) of title 20, referred to in par. (15), probably means section 1058(f) of title 20, which defines “junior or community college”. Section 1058(e) of title 20 was redesignated section 1058(f) of title 20 by Pub. L. 105–244, title III, § 303(b)(1), Oct. 7, 1998, 112 Stat. 1639.
 
-The Indian Self-Determination and Education Assistance Act, referred to in pars. (25) and (26), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4 of the Act was classified to section 450b of this title prior to editorial reclassification as section 5304 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in pars. (25) and (26), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4 of the Act was classified to section 450b of this title prior to editorial reclassification as section 5304 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Subsection (g) hereof, referred to in par. (28), was redesignated par. (27) of this section by section 10221(a) of Pub. L. 111–148.
 
@@ -423,33 +423,33 @@ Amendment by Pub. L. 111–148 is based on section 104 of title I of S. 1790, On
 
 1996—Subsec. (n). Pub. L. 104–313 inserted “allopathic medicine,” before “family medicine” and substituted “an allied health profession, or any other health profession” for “and allied health professions”.
 
-1992—Subsec. (c). Pub. L. 102–573, § 902(1), substituted “sections 1612 and 1613 of this title” for “sections 1612, 1613, and 1621(c)(5) of this title”.
+1992—Subsec. (c). Pub. L. 102–573, § 902(1), substituted “sections 1612 and 1613 of this title” for “sections 1612, 1613, and 1621(c)(5) of this title”.
 
-Subsecs. (m) to (q). Pub. L. 102–573, § 3(c), added subsecs. (m) to (q).
+Subsecs. (m) to (q). Pub. L. 102–573, § 3(c), added subsecs. (m) to (q).
 
-1988—Subsec. (h). Pub. L. 100–713, § 502, inserted “urban” after “governed by an”.
+1988—Subsec. (h). Pub. L. 100–713, § 502, inserted “urban” after “governed by an”.
 
-Subsec. (i). Pub. L. 100–713, § 201(b), added subsec. (i) and struck out former subsec. (i) which defined “rural Indian”.
+Subsec. (i). Pub. L. 100–713, § 201(b), added subsec. (i) and struck out former subsec. (i) which defined “rural Indian”.
 
-Subsec. (j). Pub. L. 100–713, § 201(b), added subsec. (j) and struck out former subsec. (j) which defined “rural community”.
+Subsec. (j). Pub. L. 100–713, § 201(b), added subsec. (j) and struck out former subsec. (j) which defined “rural community”.
 
-Subsec. (k). Pub. L. 100–713, §§ 201(b), 203(b), added subsec. (k) and struck out former subsec. (k) which defined “rural Indian organization”.
+Subsec. (k). Pub. L. 100–713, §§ 201(b), 203(b), added subsec. (k) and struck out former subsec. (k) which defined “rural Indian organization”.
 
-Subsec. (*l*). Pub. L. 100–713, § 203(b), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 100–713, § 203(b), added subsec. (*l*).
 
-1980—Subsec. (a). Pub. L. 96–537, § 2(a), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+1980—Subsec. (a). Pub. L. 96–537, § 2(a), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-Subsec. (h). Pub. L. 96–537, § 2(b), substituted “governed by an Indian controlled board of directors” for “composed of urban Indians”.
+Subsec. (h). Pub. L. 96–537, § 2(b), substituted “governed by an Indian controlled board of directors” for “composed of urban Indians”.
 
-Subsecs. (i) to (k). Pub. L. 96–537, § 2(c), added subsecs. (i) to (k).
+Subsecs. (i) to (k). Pub. L. 96–537, § 2(c), added subsecs. (i) to (k).
 
 ## SUBCHAPTER I—INDIAN HEALTH PROFESSIONAL PERSONNEL
 
-### § 1611. Congressional statement of purpose
+### § 1611. Congressional statement of purpose
 
 The purpose of this subchapter is to increase the number of Indians entering the health professions and to assure an adequate supply of health professionals to the Service, Indian tribes, tribal organizations, and urban Indian organizations involved in the provision of health care to Indian people.
 
-(Pub. L. 94–437, title I, § 101, Sept. 30, 1976, 90 Stat. 1402; Pub. L. 102–573, title I, § 101, Oct. 29, 1992, 106 Stat. 4530.)
+(Pub. L. 94–437, title I, § 101, Sept. 30, 1976, 90 Stat. 1402; Pub. L. 102–573, title I, § 101, Oct. 29, 1992, 106 Stat. 4530.)
 
 **Editorial Notes**
 
@@ -461,9 +461,9 @@ The purpose of this subchapter is to increase the number of Indians entering the
 
 **Advisory Panel and Report on Recruitment and Retention**
 
-Pub. L. 100–713, title I, § 110, Nov. 23, 1988, 102 Stat. 4800, directed Secretary of Health and Human Services to establish an advisory panel composed of 10 physicians or other health professionals who are employees of, or assigned to, the Indian Health Service, 3 representatives of tribal health boards, and 1 representative of an urban health care organization, such advisory panel to conduct an investigation of (1) administrative policies and regulatory procedures which impede recruitment or retention of physicians and other health professionals by Indian Health Service, and (2) regulatory changes necessary to establish pay grades for health professionals employed by, or assigned to, the Service that correspond to the pay grades established for positions provided under 38 U.S.C. 4103 and 4104 and costs associated with establishing such pay grades, and, no later than the date that is 18 months after Nov. 23, 1988, to submit to Congress a report on the investigation, together with any recommendations for administrative or legislative changes in existing law, practices, or procedures.
+Pub. L. 100–713, title I, § 110, Nov. 23, 1988, 102 Stat. 4800, directed Secretary of Health and Human Services to establish an advisory panel composed of 10 physicians or other health professionals who are employees of, or assigned to, the Indian Health Service, 3 representatives of tribal health boards, and 1 representative of an urban health care organization, such advisory panel to conduct an investigation of (1) administrative policies and regulatory procedures which impede recruitment or retention of physicians and other health professionals by Indian Health Service, and (2) regulatory changes necessary to establish pay grades for health professionals employed by, or assigned to, the Service that correspond to the pay grades established for positions provided under 38 U.S.C. 4103 and 4104 and costs associated with establishing such pay grades, and, no later than the date that is 18 months after Nov. 23, 1988, to submit to Congress a report on the investigation, together with any recommendations for administrative or legislative changes in existing law, practices, or procedures.
 
-### § 1612. Health professions recruitment program for Indians
+### § 1612. Health professions recruitment program for Indians
 
 **(a) Grants for education and training** The Secretary, acting through the Service, shall make grants to public or nonprofit private health or educational entities or Indian tribes or tribal organizations to assist such entities in meeting the costs of—
 
@@ -483,27 +483,27 @@ Pub. L. 100–713, title I, § 110, Nov. 23, 1988, 102 Stat. 4800, directed Se
 
 **(2)** The amount of any grant under this section shall be determined by the Secretary. Payments pursuant to grants under this section may be made in advance or by way of reimbursement, and at such intervals and on such conditions as the Secretary finds necessary.
 
-(Pub. L. 94–437, title I, § 102, Sept. 30, 1976, 90 Stat. 1402; Pub. L. 96–537, § 3(a), Dec. 17, 1980, 94 Stat. 3173; Pub. L. 100–713, title I, § 101, Nov. 23, 1988, 102 Stat. 4785; Pub. L. 102–573, title I, §§ 102(a), 117(b)(1), title IX, § 902(2)(A), Oct. 29, 1992, 106 Stat. 4530, 4544, 4591.)
+(Pub. L. 94–437, title I, § 102, Sept. 30, 1976, 90 Stat. 1402; Pub. L. 96–537, § 3(a), Dec. 17, 1980, 94 Stat. 3173; Pub. L. 100–713, title I, § 101, Nov. 23, 1988, 102 Stat. 4785; Pub. L. 102–573, title I, §§ 102(a), 117(b)(1), title IX, § 902(2)(A), Oct. 29, 1992, 106 Stat. 4530, 4544, 4591.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (a)(1). Pub. L. 102–573, § 102(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “identifying Indians with a potential for education or training in the health professions and encouraging and assisting them (A) to enroll in schools of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions; or (B), if they are not qualified to enroll in any such school, to undertake such post-secondary education or training as may be required to qualify them for enrollment;”.
+1992—Subsec. (a)(1). Pub. L. 102–573, § 102(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “identifying Indians with a potential for education or training in the health professions and encouraging and assisting them (A) to enroll in schools of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions; or (B), if they are not qualified to enroll in any such school, to undertake such post-secondary education or training as may be required to qualify them for enrollment;”.
 
-Subsec. (a)(2). Pub. L. 102–573, § 102(a)(2), substituted “course of study” for “school” in two places and “paragraph (1)” for “clause (1)(A)”.
+Subsec. (a)(2). Pub. L. 102–573, § 102(a)(2), substituted “course of study” for “school” in two places and “paragraph (1)” for “clause (1)(A)”.
 
-Subsec. (a)(3). Pub. L. 102–573, § 102(a)(3), substituted “enrollment of Indians in, and the subsequent pursuit and completion by them of, courses of study referred to in paragraph (1) of this subsection” for “enrollment of Indians, and the subsequent pursuit and completion by them of courses of study, in any school referred to in clause (1)(A) of this subsection”.
+Subsec. (a)(3). Pub. L. 102–573, § 102(a)(3), substituted “enrollment of Indians in, and the subsequent pursuit and completion by them of, courses of study referred to in paragraph (1) of this subsection” for “enrollment of Indians, and the subsequent pursuit and completion by them of courses of study, in any school referred to in clause (1)(A) of this subsection”.
 
-Subsec. (b)(1). Pub. L. 102–573, § 902(2)(A), substituted “prescribe. The Secretary shall” for “: *Provided*, That the Secretary shall”.
+Subsec. (b)(1). Pub. L. 102–573, § 902(2)(A), substituted “prescribe. The Secretary shall” for “: *Provided*, That the Secretary shall”.
 
-Subsec. (c). Pub. L. 102–573, § 117(b)(1), struck out subsec. (c) which authorized appropriations for fiscal years 1989 to 1992.
+Subsec. (c). Pub. L. 102–573, § 117(b)(1), struck out subsec. (c) which authorized appropriations for fiscal years 1989 to 1992.
 
 1988—Subsec. (c). Pub. L. 100–713 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purpose of making payments pursuant to grants under this section, there are authorized to be appropriated $900,000 for fiscal year 1978, $1,500,000 for fiscal year 1979, and $1,800,000 for fiscal year 1980. There are authorized to be appropriated to carry out this section $2,300,000 for the fiscal year ending September 30, 1981, $2,600,000 for the fiscal year ending September 30, 1982, $3,000,000 for the fiscal year ending September 30, 1983, and $3,500,000 for the fiscal year ending September 30, 1984.”
 
 1980—Subsec. (c). Pub. L. 96–537 substituted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions authorizing appropriation of such amounts as may be specifically authorized by an act enacted after Sept. 30, 1976.
 
-### § 1613. Health professions preparatory scholarship program for Indians
+### § 1613. Health professions preparatory scholarship program for Indians
 
 **(a) Requirements** The Secretary, acting through the Service, shall make scholarship grants to Indians who—
 
@@ -529,21 +529,21 @@ The Secretary shall not deny scholarship assistance to an eligible applicant und
 
 The Secretary shall not deny scholarship assistance to an eligible applicant under this section solely by reason of such applicant’s eligibility for assistance or benefits under any other Federal program.
 
-(Pub. L. 94–437, title I, § 103, Sept. 30, 1976, 90 Stat. 1403; Pub. L. 96–537, § 3(b), Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title I, § 102, Nov. 23, 1988, 102 Stat. 4785; Pub. L. 102–573, title I, § 102(b), Oct. 29, 1992, 106 Stat. 4530.)
+(Pub. L. 94–437, title I, § 103, Sept. 30, 1976, 90 Stat. 1403; Pub. L. 96–537, § 3(b), Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title I, § 102, Nov. 23, 1988, 102 Stat. 4785; Pub. L. 102–573, title I, § 102(b), Oct. 29, 1992, 106 Stat. 4530.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (a)(2). Pub. L. 102–573, § 102(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “have demonstrated the capability to successfully complete courses of study in schools of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions.”
+1992—Subsec. (a)(2). Pub. L. 102–573, § 102(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “have demonstrated the capability to successfully complete courses of study in schools of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions.”
 
-Subsec. (b)(1). Pub. L. 102–573, § 102(b)(2), inserted before period at end “on a full-time basis (or the part-time equivalent thereof, as determined by the Secretary)”.
+Subsec. (b)(1). Pub. L. 102–573, § 102(b)(2), inserted before period at end “on a full-time basis (or the part-time equivalent thereof, as determined by the Secretary)”.
 
-Subsec. (b)(2). Pub. L. 102–573, § 102(b)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Pregraduate education of any grantee leading to a baccalaureate degree in an approved premedicine, predentistry, preoste­opathy, preveterinary medicine, preoptom­etry, or prepodiatry curriculum, such scholarship not to exceed four years.”
+Subsec. (b)(2). Pub. L. 102–573, § 102(b)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Pregraduate education of any grantee leading to a baccalaureate degree in an approved premedicine, predentistry, preoste­opathy, preveterinary medicine, preoptom­etry, or prepodiatry curriculum, such scholarship not to exceed four years.”
 
-Subsec. (c). Pub. L. 102–573, § 102(b)(4), struck out “full time” after “while attending school”.
+Subsec. (c). Pub. L. 102–573, § 102(b)(4), struck out “full time” after “while attending school”.
 
-Subsec. (e). Pub. L. 102–573, § 102(b)(5), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “There are authorized to be appropriated for the purpose of carrying out the provisions of this section—
+Subsec. (e). Pub. L. 102–573, § 102(b)(5), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “There are authorized to be appropriated for the purpose of carrying out the provisions of this section—
 
 “(1) $3,000,000 for fiscal year 1989,
 
@@ -553,15 +553,15 @@ Subsec. (e). Pub. L. 102–573, § 102(b)(5), amended subsec. (e) generally. P
 
 “(4) $5,100,000 for fiscal year 1992.”
 
-1988—Subsec. (c). Pub. L. 100–713, § 102(b), inserted “of a grantee while attending school full time” after “expenses”.
+1988—Subsec. (c). Pub. L. 100–713, § 102(b), inserted “of a grantee while attending school full time” after “expenses”.
 
-Subsecs. (d), (e). Pub. L. 100–713, § 102(a), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “There are authorized to be appropriated for the purpose of this section: $800,000 for fiscal year 1978, $1,000,000 for fiscal year 1979, and $1,300,000 for fiscal year 1980. There are authorized to be appropriated to carry out this section $3,510,000 for the fiscal year ending September 30, 1981, $4,000,000 for the fiscal year ending September 30, 1982, $4,620,000 for the fiscal year ending September 30, 1983, and $5,300,000 for the fiscal year ending September 30, 1984.”
+Subsecs. (d), (e). Pub. L. 100–713, § 102(a), added subsecs. (d) and (e) and struck out former subsec. (d) which read as follows: “There are authorized to be appropriated for the purpose of this section: $800,000 for fiscal year 1978, $1,000,000 for fiscal year 1979, and $1,300,000 for fiscal year 1980. There are authorized to be appropriated to carry out this section $3,510,000 for the fiscal year ending September 30, 1981, $4,000,000 for the fiscal year ending September 30, 1982, $4,620,000 for the fiscal year ending September 30, 1983, and $5,300,000 for the fiscal year ending September 30, 1984.”
 
-1980—Subsec. (b). Pub. L. 96–537, § 3(b)(1), substituted provisions specifying in pars. (1) and (2), purposes for which scholarship grants could be made, for provisions that the scholarship grant shall be for a period not to exceed two academic years, which years shall be for compensatory preprofessional education of the grantee.
+1980—Subsec. (b). Pub. L. 96–537, § 3(b)(1), substituted provisions specifying in pars. (1) and (2), purposes for which scholarship grants could be made, for provisions that the scholarship grant shall be for a period not to exceed two academic years, which years shall be for compensatory preprofessional education of the grantee.
 
-Subsec. (d). Pub. L. 96–537, § 3(b)(2), substituted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions authorizing appropriations of such amounts as may be specifically authorized by an act enacted after Sept. 30, 1976.
+Subsec. (d). Pub. L. 96–537, § 3(b)(2), substituted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, for provisions authorizing appropriations of such amounts as may be specifically authorized by an act enacted after Sept. 30, 1976.
 
-### § 1613a. Indian health professions scholarships
+### § 1613a. Indian health professions scholarships
 
 **(a) General authority**
 
@@ -581,13 +581,13 @@ In order to provide health professionals to Indians, Indian tribes, tribal organ
 
 **(ii)** in a program conducted under a contract entered into under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.];
 
-**(iii)** in a program assisted under subchapter IV of this chapter; 1
+**(iii)** in a program assisted under subchapter IV of this chapter; 1
 
-<sup>1</sup>  So in original. Probably should be followed by “or”.
+<sup>1</sup> So in original. Probably should be followed by “or”.
 
-**(iv)** in the private practice of the applicable profession if, as determined by the Secretary, in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians; or 2
+**(iv)** in the private practice of the applicable profession if, as determined by the Secretary, in accordance with guidelines promulgated by the Secretary, such practice is situated in a physician or other health professional shortage area and addresses the health care needs of a substantial number of Indians; or 2
 
-<sup>2</sup>  So in original. The “; or” probably should be a period.
+<sup>2</sup> So in original. The “; or” probably should be a period.
 
 **(B)** At the request of any individual who has entered into a contract referred to in subparagraph (A) and who receives a degree in medicine (including osteopathic or allopathic medicine), dentistry, optometry, podiatry, or pharmacy, the Secretary shall defer the active duty service obligation of that individual under that contract, in order that such individual may complete any internship, residency, or other advanced clinical training that is required for the practice of that health profession, for an appropriate period (in years, as determined by the Secretary), subject to the following conditions:
 
@@ -651,13 +651,13 @@ in lieu of any service obligation arising under such contract, shall be liable t
 
 The Secretary shall, acting through the Service, establish a Placement Office to develop and implement a national policy for the placement, to available vacancies within the Service, of Indian Health Scholarship recipients required to meet the active duty service obligation prescribed under section 254m of title 42 without regard to any competitive personnel system, agency personnel limitation, or Indian preference policy.
 
-(Pub. L. 94–437, title I, § 104, as added Pub. L. 100–713, title I, § 104(a), Nov. 23, 1988, 102 Stat. 4786; amended Pub. L. 102–573, title I, §§ 102(c), 103, Oct. 29, 1992, 106 Stat. 4531, 4532; Pub. L. 104–313, § 2(b), Oct. 19, 1996, 110 Stat. 3820.)
+(Pub. L. 94–437, title I, § 104, as added Pub. L. 100–713, title I, § 104(a), Nov. 23, 1988, 102 Stat. 4786; amended Pub. L. 102–573, title I, §§ 102(c), 103, Oct. 29, 1992, 106 Stat. 4531, 4532; Pub. L. 104–313, § 2(b), Oct. 19, 1996, 110 Stat. 3820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (b)(3)(A)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(3)(A)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Prior Provisions**
 
@@ -665,47 +665,47 @@ A prior section 104 of Pub. L. 94–437, title I, Sept. 30, 1976, 90 Stat. 1403,
 
 **Amendments**
 
-1996—Subsec. (b)(3)(A). Pub. L. 104–313, § 2(b)(1)(A), substituted “The active duty service obligation under a written contract with the Secretary under section 254*l* of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—” for “The active duty service obligation prescribed under section 254m of title 42 shall be met by a  recipient  of  an  Indian  Health  Scholarship  by service—” in introductory provisions, struck out “or” at end of cl. (iii), and substituted “; or” for period at end of cl. (iv).
+1996—Subsec. (b)(3)(A). Pub. L. 104–313, § 2(b)(1)(A), substituted “The active duty service obligation under a written contract with the Secretary under section 254*l* of title 42 that an individual has entered into under that section shall, if that individual is a recipient of an Indian Health Scholarship, be met in full-time practice, by service—” for “The active duty service obligation prescribed under section 254m of title 42 shall be met by a recipient of an Indian Health Scholarship by service—” in introductory provisions, struck out “or” at end of cl. (iii), and substituted “; or” for period at end of cl. (iv).
 
-Subsec. (b)(3)(B). Pub. L. 104–313, § 2(b)(1)(C), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (b)(3)(B). Pub. L. 104–313, § 2(b)(1)(C), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (b)(3)(C). Pub. L. 104–313, § 2(b)(1)(D), substituted “described in subparagraph (A) by service in a program specified in that subparagraph” for “prescribed under section 254m of title 42 by service in a program specified in subparagraph (A)”.
+Subsec. (b)(3)(C). Pub. L. 104–313, § 2(b)(1)(D), substituted “described in subparagraph (A) by service in a program specified in that subparagraph” for “prescribed under section 254m of title 42 by service in a program specified in subparagraph (A)”.
 
-Pub. L. 104–313, § 2(b)(1)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+Pub. L. 104–313, § 2(b)(1)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(3)(D). Pub. L. 104–313, § 2(b)(1)(E), substituted “Subject to subparagraph (C),” for “Subject to subparagraph (B),” and “described in subparagraph (A)” for “prescribed under section 254m of title 42”.
+Subsec. (b)(3)(D). Pub. L. 104–313, § 2(b)(1)(E), substituted “Subject to subparagraph (C),” for “Subject to subparagraph (B),” and “described in subparagraph (A)” for “prescribed under section 254m of title 42”.
 
-Pub. L. 104–313, § 2(b)(1)(B), redesignated subpar. (C) as (D).
+Pub. L. 104–313, § 2(b)(1)(B), redesignated subpar. (C) as (D).
 
-Subsec. (b)(4)(B). Pub. L. 104–313, § 2(b)(2)(A), substituted “the period of obligated service described in paragraph (3)(A) shall be equal to the greater of—” for “the period of obligated service specified in section 254*l*(f)(1)(B)(iv) of title 42 shall be equal to the greater of—” in introductory provisions.
+Subsec. (b)(4)(B). Pub. L. 104–313, § 2(b)(2)(A), substituted “the period of obligated service described in paragraph (3)(A) shall be equal to the greater of—” for “the period of obligated service specified in section 254*l*(f)(1)(B)(iv) of title 42 shall be equal to the greater of—” in introductory provisions.
 
-Subsec. (b)(4)(C). Pub. L. 104–313, § 2(b)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 254*l*(g)(1)(B) of title 42.
+Subsec. (b)(4)(C). Pub. L. 104–313, § 2(b)(2)(B), made technical amendment to reference in original act which appears in text as reference to section 254*l*(g)(1)(B) of title 42.
 
-Subsec. (b)(5)(C) to (F). Pub. L. 104–313, § 2(b)(3), added subpars. (C) to (F).
+Subsec. (b)(5)(C) to (F). Pub. L. 104–313, § 2(b)(3), added subpars. (C) to (F).
 
-1992—Subsec. (a). Pub. L. 102–573, § 102(c)(1)(C), substituted “accredited schools and pursuing courses of study in the health professions” for “accredited schools of medicine, osteopathy, podiatry, psychology, dentistry, environmental health and engineering, nursing, optometry, public health, allied health professions, and social work”.
+1992—Subsec. (a). Pub. L. 102–573, § 102(c)(1)(C), substituted “accredited schools and pursuing courses of study in the health professions” for “accredited schools of medicine, osteopathy, podiatry, psychology, dentistry, environmental health and engineering, nursing, optometry, public health, allied health professions, and social work”.
 
-Pub. L. 102–573, § 102(c)(1)(A), (B), substituted “Indians, Indian tribes, tribal organizations, and urban Indian organizations” for “Indian communities” and “full or part time” for “full time”.
+Pub. L. 102–573, § 102(c)(1)(A), (B), substituted “Indians, Indian tribes, tribal organizations, and urban Indian organizations” for “Indian communities” and “full or part time” for “full time”.
 
-Subsec. (b)(2). Pub. L. 102–573, § 102(c)(2)(A), substituted “full or part time” for “full time” and “course of study” for “health profession school”.
+Subsec. (b)(2). Pub. L. 102–573, § 102(c)(2)(A), substituted “full or part time” for “full time” and “course of study” for “health profession school”.
 
-Subsec. (b)(3). Pub. L. 102–573, § 102(c)(2)(B), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, and added subpars. (B) and (C).
+Subsec. (b)(3). Pub. L. 102–573, § 102(c)(2)(B), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, and added subpars. (B) and (C).
 
-Subsec. (b)(4). Pub. L. 102–573, § 102(c)(2)(C), added par. (4).
+Subsec. (b)(4). Pub. L. 102–573, § 102(c)(2)(C), added par. (4).
 
-Subsec. (b)(5). Pub. L. 102–573, § 103, added par. (5).
+Subsec. (b)(5). Pub. L. 102–573, § 103, added par. (5).
 
-Subsec. (c). Pub. L. 102–573, § 102(c)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section, the term ‘Indian’ has the same meaning given that term by subsection (c) of section 1603 of this title, including all individuals described in clauses (1) through (4) of that subsection.”
+Subsec. (c). Pub. L. 102–573, § 102(c)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For purposes of this section, the term ‘Indian’ has the same meaning given that term by subsection (c) of section 1603 of this title, including all individuals described in clauses (1) through (4) of that subsection.”
 
-Subsec. (d). Pub. L. 102–573, § 102(c)(4), struck out subsec. (d) which authorized appropriations for fiscal years 1989 to 1992.
+Subsec. (d). Pub. L. 102–573, § 102(c)(4), struck out subsec. (d) which authorized appropriations for fiscal years 1989 to 1992.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–573, title I, § 102(d), Oct. 29, 1992, 106 Stat. 4532, provided that: “The amendments made by subsection (c)(1)(C) and subsection (c)(2)(B) [amending this section] shall apply with respect to scholarships granted under section 104 of the Indian Health Care Improvement Act [this section] after the date of the enactment of this Act [Oct. 29, 1992].”
+Pub. L. 102–573, title I, § 102(d), Oct. 29, 1992, 106 Stat. 4532, provided that: “The amendments made by subsection (c)(1)(C) and subsection (c)(2)(B) [amending this section] shall apply with respect to scholarships granted under section 104 of the Indian Health Care Improvement Act [this section] after the date of the enactment of this Act [Oct. 29, 1992].”
 
-### § 1614. Indian health service extern programs
+### § 1614. Indian health service extern programs
 
 **(a) Employment of scholarship grantees during non­academic periods**
 
@@ -719,19 +719,19 @@ Any individual enrolled in a course of study in the health professions may be em
 
 Any employment pursuant to this section shall be made without regard to any competitive personnel system or agency personnel limitation and to a position which will enable the individual so employed to receive practical experience in the health profession in which he or she is engaged in study. Any individual so employed shall receive payment for his or her services comparable to the salary he or she would receive if he or she were employed in the competitive system. Any individual so employed shall not be counted against any employment ceiling affecting the Service or the Department of Health and Human Services.
 
-(Pub. L. 94–437, title I, § 105, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 95–83, title III, § 307(n)(2), Aug. 1, 1977, 91 Stat. 393; Pub. L. 96–537, § 3(c), Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title I, § 103, Nov. 23, 1988, 102 Stat. 4786; Pub. L. 102–573, title I, §§ 102(e), 117(b)(2), title IX, § 902(2)(B), Oct. 29, 1992, 106 Stat. 4532, 4544, 4591.)
+(Pub. L. 94–437, title I, § 105, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 95–83, title III, § 307(n)(2), Aug. 1, 1977, 91 Stat. 393; Pub. L. 96–537, § 3(c), Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title I, § 103, Nov. 23, 1988, 102 Stat. 4786; Pub. L. 102–573, title I, §§ 102(e), 117(b)(2), title IX, § 902(2)(B), Oct. 29, 1992, 106 Stat. 4532, 4544, 4591.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–573, § 102(e)(1), substituted “section 1613a of this title” for “section 254r of title 42”.
+1992—Subsec. (a). Pub. L. 102–573, § 102(e)(1), substituted “section 1613a of this title” for “section 254r of title 42”.
 
-Subsec. (b). Pub. L. 102–573, § 102(e)(2), substituted “course of study in the health professions” for “school of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions”.
+Subsec. (b). Pub. L. 102–573, § 102(e)(2), substituted “course of study in the health professions” for “school of medicine, osteopathy, dentistry, veterinary medicine, optometry, podiatry, pharmacy, public health, nursing, or allied health professions”.
 
-Subsec. (c). Pub. L. 102–573, § 902(2)(B), substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
+Subsec. (c). Pub. L. 102–573, § 902(2)(B), substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
 
-Subsec. (d). Pub. L. 102–573, § 117(b)(2), struck out subsec. (d) which authorized appropriations for fiscal years 1989 to 1992.
+Subsec. (d). Pub. L. 102–573, § 117(b)(2), struck out subsec. (d) which authorized appropriations for fiscal years 1989 to 1992.
 
 1988—Subsec. (d). Pub. L. 100–713 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated for the purpose of this section: $600,000 for fiscal year 1978, $800,000 for fiscal year 1979, and $1,000,000 for fiscal year 1980. There are authorized to be appropriated to carry out this section $990,000 for the fiscal year ending September 30, 1981, $1,140,000 for the fiscal year ending September 30, 1982, $1,310,000 for the fiscal year ending September 30, 1983, and $1,510,000 for the fiscal year ending September 30, 1984.”
 
@@ -739,7 +739,7 @@ Subsec. (d). Pub. L. 102–573, § 117(b)(2), struck out subsec. (d) which aut
 
 1977—Subsec. (a). Pub. L. 95–83 substituted reference to “section 294y–1 of title 42” for reference to “section 104” meaning section 104 of Pub. L. 94–437, which added section 234(i)(2) of Title 42, The Public Health and Welfare.
 
-### § 1615. Continuing education allowances
+### § 1615. Continuing education allowances
 
 In order to encourage scholarship and stipend recipients under sections 1613a, 1614, and 1616h of this title and health professionals, including community health representatives and emergency medical technicians, to join or continue in an Indian health program and to provide services in the rural and remote areas in which a significant portion of Indians reside, the Secretary, acting through the Service, may—
 
@@ -747,7 +747,7 @@ In order to encourage scholarship and stipend recipients under sections 1613a, 1
 
 **(2)** provide programs or allowances to health professionals employed in an Indian health program to enable those professionals, for a period of time each year prescribed by regulation of the Secretary, to take leave of the duty stations of the professionals for professional consultation, management, leadership, and refresher training courses.
 
-(Pub. L. 94–437, title I, § 106, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 100–713, title I, § 105, Nov. 23, 1988, 102 Stat. 4787; Pub. L. 102–573, title I, §§ 104(a), 115, Oct. 29, 1992, 106 Stat. 4533, 4543; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title I, § 106, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 100–713, title I, § 105, Nov. 23, 1988, 102 Stat. 4787; Pub. L. 102–573, title I, §§ 104(a), 115, Oct. 29, 1992, 106 Stat. 4533, 4543; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -759,9 +759,9 @@ Amendment by Pub. L. 111–148 is based on section 134(c) of title I of S. 1790,
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to discretionary allowances to health professionals employed in the Service to take leave for professional consultation and refresher training courses and included a limitation on use of appropriations to establish postdoctoral training programs for health professionals.
 
-1992—Subsec. (a). Pub. L. 102–573, § 104(a), inserted “nurses,” after “physicians, dentists,”.
+1992—Subsec. (a). Pub. L. 102–573, § 104(a), inserted “nurses,” after “physicians, dentists,”.
 
-Subsec. (b). Pub. L. 102–573, § 115, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated for the purpose of carrying out the provisions of this section—
+Subsec. (b). Pub. L. 102–573, § 115, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated for the purpose of carrying out the provisions of this section—
 
 “(1) $500,000 for fiscal year 1989,
 
@@ -773,7 +773,7 @@ Subsec. (b). Pub. L. 102–573, § 115, amended subsec. (b) generally. Prior t
 
 1988—Subsec. (b). Pub. L. 100–713 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated for the purpose of this section: $100,000 for fiscal year 1978, $200,000 for fiscal year 1979, and $250,000 for fiscal year 1980. For fiscal years 1981, 1982, 1983, and 1984 there are authorized to be appropriated for the purpose of this section such sums as may be specifically authorized by an Act enacted after this chapter.”
 
-### § 1616. Community Health Representative Program
+### § 1616. Community Health Representative Program
 
 **(a)** Under the authority of section 13 of this title, the Secretary shall maintain a Community Health Representative Program under which the Service—
 
@@ -799,23 +799,23 @@ Subsec. (b). Pub. L. 102–573, § 115, amended subsec. (b) generally. Prior t
 
 **(6)** promote traditional health care practices of the Indian tribes served consistent with the Service standards for the provision of health care, health promotion, and disease prevention.
 
-(Pub. L. 94–437, title I, § 107, as added Pub. L. 100–713, title I, § 107, Nov. 23, 1988, 102 Stat. 4788; amended Pub. L. 102–573, title I, § 105, Oct. 29, 1992, 106 Stat. 4535.)
+(Pub. L. 94–437, title I, § 107, as added Pub. L. 100–713, title I, § 107, Nov. 23, 1988, 102 Stat. 4788; amended Pub. L. 102–573, title I, § 105, Oct. 29, 1992, 106 Stat. 4535.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (b)(2). Pub. L. 102–573, § 105(1), inserted “and maintain” in introductory provisions.
+1992—Subsec. (b)(2). Pub. L. 102–573, § 105(1), inserted “and maintain” in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 102–573, § 105(2), inserted at end “with appropriate consideration given to lifestyle factors that have an impact on Indian health status, such as alcoholism, family dysfunction, and poverty,”.
+Subsec. (b)(2)(B). Pub. L. 102–573, § 105(2), inserted at end “with appropriate consideration given to lifestyle factors that have an impact on Indian health status, such as alcoholism, family dysfunction, and poverty,”.
 
-Subsec. (b)(3). Pub. L. 102–573, § 105(3), substituted “maintain” for “develop” in two places.
+Subsec. (b)(3). Pub. L. 102–573, § 105(3), substituted “maintain” for “develop” in two places.
 
-Subsec. (b)(4). Pub. L. 102–573, § 105(4), struck out “develop and” before “maintain”.
+Subsec. (b)(4). Pub. L. 102–573, § 105(4), struck out “develop and” before “maintain”.
 
-Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “develop”.
+Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for “develop”.
 
-### § 1616a. Indian Health Service Loan Repayment Program
+### § 1616a. Indian Health Service Loan Repayment Program
 
 **(a) Establishment**
 
@@ -831,15 +831,15 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for �
 
 **(I)** the Indian Self-Determination Act [25 U.S.C. 5321 et seq.], or
 
-**(II)** section 23 of the Act of April 30, 1908 1
+**(II)** section 23 of the Act of April 30, 1908 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (25 U.S.C. 47), popularly known as the “Buy-Indian” Act; or
 
 **(iii)** by an urban Indian organization pursuant to subchapter IV of this chapter; and
 
-**(B)** the term “State” has the same meaning given such term in section 254d(i)(4) <sup>1</sup> of title 42.
+**(B)** the term “State” has the same meaning given such term in section 254d(i)(4) <sup>1</sup> of title 42.
 
 **(b) Eligibility** To be eligible to participate in the Loan Repayment Program, an individual must—
 
@@ -859,13 +859,13 @@ Subsec. (b)(5). Pub. L. 102–573, § 105(3), substituted “maintain” for �
 
 **(2)**
 
-**(A)** be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps 2
+**(A)** be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps 2
 
-<sup>2</sup>  See Change of Name note below.
+<sup>2</sup> See Change of Name note below.
 
 of the Public Health Service;
 
-**(B)** be eligible for selection for civilian service in the Regular or Reserve Corps <sup>2</sup> of the Public Health Service;
+**(B)** be eligible for selection for civilian service in the Regular or Reserve Corps <sup>2</sup> of the Public Health Service;
 
 **(C)** meet the professional standards for civil service employment in the Indian Health Service; or
 
@@ -875,7 +875,7 @@ of the Public Health Service;
 
 **(c) Application and contract forms**
 
-**(1)** In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (*l*) in the case of the individual’s breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps <sup>2</sup> of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
+**(1)** In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (*l*) in the case of the individual’s breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps <sup>2</sup> of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
 
 **(2)** The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a manner calculated to be understood by the average individual applying to participate in the Loan Repayment Program.
 
@@ -1065,57 +1065,57 @@ Amounts not paid within such period shall be subject to collection through deduc
 
 **(8)** the measures the Secretary plans to take to fill the health professional positions maintained by the Service or by tribes or tribal or Indian organizations for which recruitment or retention is difficult.
 
-(Pub. L. 94–437, title I, § 108, as added Pub. L. 100–713, title I, § 108, Nov. 23, 1988, 102 Stat. 4789; amended Pub. L. 102–573, title I, §§ 106(a)–(g)(1), (h), (i), 117(b)(3), title IX, § 902(2)(C), (D), Oct. 29, 1992, 106 Stat. 4535–4537, 4544, 4591.)
+(Pub. L. 94–437, title I, § 108, as added Pub. L. 100–713, title I, § 108, Nov. 23, 1988, 102 Stat. 4789; amended Pub. L. 102–573, title I, §§ 106(a)–(g)(1), (h), (i), 117(b)(3), title IX, § 902(2)(C), (D), Oct. 29, 1992, 106 Stat. 4535–4537, 4544, 4591.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (a)(2)(A)(ii)(I), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a)(2)(A)(ii)(I), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 23 of the Act of April 30, 1908, referred to in subsec. (a)(2)(A)(ii)(II), probably should be a reference to section 23 of act June 25, 1910, ch. 431, 36 Stat. 861, which is popularly known as the “Buy Indian Act”, and is classified to section 47 of this title. Act Apr. 30, 1908, ch. 153, 35 Stat. 70, does not contain a section 23 but does have provisions (at 35 Stat. 71) similar to those in section 23 of act June 25, 1910, ch. 431, 36 Stat. 861.
 
-Section 254d(i)(4) of title 42, referred to in subsec. (a)(2)(B), was redesignated section 254d(j)(4) of title 42 by Pub. L. 107–251, title III, § 310(b)(1), Oct. 26, 2002, 116 Stat. 1643.
+Section 254d(i)(4) of title 42, referred to in subsec. (a)(2)(B), was redesignated section 254d(j)(4) of title 42 by Pub. L. 107–251, title III, § 310(b)(1), Oct. 26, 2002, 116 Stat. 1643.
 
 **Amendments**
 
-1992—Subsec. (a)(1). Pub. L. 102–573, § 106(a)(1), substituted “health professionals” for “physicians, dentists, nurses, nurse practitioners, physician assistants, clinical and counseling psychologists, graduates of schools of public health, graduates of schools of social work, and other health professionals”.
+1992—Subsec. (a)(1). Pub. L. 102–573, § 106(a)(1), substituted “health professionals” for “physicians, dentists, nurses, nurse practitioners, physician assistants, clinical and counseling psychologists, graduates of schools of public health, graduates of schools of social work, and other health professionals”.
 
-Subsec. (b)(1)(A)(i). Pub. L. 102–573, § 106(a)(2)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “as a full-time student in the final year of a course of study or program in an accredited institution, as determined by the Secretary, within any State; or”.
+Subsec. (b)(1)(A)(i). Pub. L. 102–573, § 106(a)(2)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “as a full-time student in the final year of a course of study or program in an accredited institution, as determined by the Secretary, within any State; or”.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 102–573, § 106(a)(2)(A)(ii), substituted “a health profession” for “medicine, osteopathy, dentistry, or other health profession”.
+Subsec. (b)(1)(A)(ii). Pub. L. 102–573, § 106(a)(2)(A)(ii), substituted “a health profession” for “medicine, osteopathy, dentistry, or other health profession”.
 
-Subsec. (b)(1)(B). Pub. L. 102–573, § 106(a)(2)(B), in cl. (i), substituted “a degree in a health profession; and” for “a degree in medicine, osteopathy, dentistry, or other health profession;”, redesignated cl. (iii) as (ii) and substituted “a health profession” for “medicine, osteopathy, dentistry, or other health profession”, and struck out former cl. (ii) which read as follows: “completed an approved graduate training program in medicine, osteopathy, dentistry, or other health profession in a State, except that the Secretary may waive the completion requirement of this clause for good cause; and”.
+Subsec. (b)(1)(B). Pub. L. 102–573, § 106(a)(2)(B), in cl. (i), substituted “a degree in a health profession; and” for “a degree in medicine, osteopathy, dentistry, or other health profession;”, redesignated cl. (iii) as (ii) and substituted “a health profession” for “medicine, osteopathy, dentistry, or other health profession”, and struck out former cl. (ii) which read as follows: “completed an approved graduate training program in medicine, osteopathy, dentistry, or other health profession in a State, except that the Secretary may waive the completion requirement of this clause for good cause; and”.
 
-Subsec. (b)(2) to (4). Pub. L. 102–573, § 106(a)(2)(C), inserted “and” at end of par. (2)(D), added par. (3), and struck out former pars. (3) and (4) which read as follows:
+Subsec. (b)(2) to (4). Pub. L. 102–573, § 106(a)(2)(C), inserted “and” at end of par. (2)(D), added par. (3), and struck out former pars. (3) and (4) which read as follows:
 
 “(3) submit an application to participate in the Loan Repayment Program; and
 
 “(4) sign and submit to the Secretary, at the time of submission of such application, a written contract (described in subsection (f) of this section) to accept repayment of educational loans and to serve (in accordance with this section) for the applicable period of obligated service in an Indian health program.”
 
-Subsec. (d)(1). Pub. L. 102–573, § 106(b)(1), substituted “Consistent with paragraph (3), the” for “The”.
+Subsec. (d)(1). Pub. L. 102–573, § 106(b)(1), substituted “Consistent with paragraph (3), the” for “The”.
 
-Subsec. (d)(1)(A). Pub. L. 102–573, § 902(2)(C), substituted “Indian health” for “Indian Health”.
+Subsec. (d)(1)(A). Pub. L. 102–573, § 902(2)(C), substituted “Indian health” for “Indian Health”.
 
-Subsec. (d)(3). Pub. L. 102–573, § 106(b)(2), added par. (3).
+Subsec. (d)(3). Pub. L. 102–573, § 106(b)(2), added par. (3).
 
-Subsec. (e)(1). Pub. L. 102–573, § 106(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An individual becomes a participant in the Loan Repayment Program only on the Secretary’s approval of the individual’s application submitted under subsection (b)(3) of this section and the Secretary’s acceptance of the contract submitted by the individual under subsection (b)(4) of this section.”
+Subsec. (e)(1). Pub. L. 102–573, § 106(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “An individual becomes a participant in the Loan Repayment Program only on the Secretary’s approval of the individual’s application submitted under subsection (b)(3) of this section and the Secretary’s acceptance of the contract submitted by the individual under subsection (b)(4) of this section.”
 
-Subsec. (e)(2)(A). Pub. L. 102–573, § 106(d), inserted “, including extensions resulting in an aggregate period of obligated service in excess of 4 years” before “; or”.
+Subsec. (e)(2)(A). Pub. L. 102–573, § 106(d), inserted “, including extensions resulting in an aggregate period of obligated service in excess of 4 years” before “; or”.
 
-Subsec. (g)(1). Pub. L. 102–573, § 106(e), in introductory provisions, substituted “loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for” for “loans received by the individual for”.
+Subsec. (g)(1). Pub. L. 102–573, § 106(e), in introductory provisions, substituted “loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for” for “loans received by the individual for”.
 
-Subsec. (g)(2)(A). Pub. L. 102–573, § 106(f), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1).”
+Subsec. (g)(2)(A). Pub. L. 102–573, § 106(f), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1).”
 
-Subsec. (g)(3). Pub. L. 102–573, § 106(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individual in a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
+Subsec. (g)(3). Pub. L. 102–573, § 106(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individual in a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
 
-Subsec. (i). Pub. L. 102–573, § 902(2)(D), substituted “health professional programs of the Service” for “Service manpower programs”.
+Subsec. (i). Pub. L. 102–573, § 902(2)(D), substituted “health professional programs of the Service” for “Service manpower programs”.
 
-Subsec. (k). Pub. L. 102–573, § 106(h), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Secretary shall ensure that the staffing needs of Indian health programs administered by any Indian tribe or tribal or Indian organization receive consideration on an equal basis with programs that are administered directly by the Service.”
+Subsec. (k). Pub. L. 102–573, § 106(h), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Secretary shall ensure that the staffing needs of Indian health programs administered by any Indian tribe or tribal or Indian organization receive consideration on an equal basis with programs that are administered directly by the Service.”
 
-Subsec. (n). Pub. L. 102–573, § 106(i), amended subsec. (n) generally. Prior to amendment, subsec. (n) consisted of pars. (1) and (2) requiring submission of annual reports to Congress by the first of March and the first of July of each year.
+Subsec. (n). Pub. L. 102–573, § 106(i), amended subsec. (n) generally. Prior to amendment, subsec. (n) consisted of pars. (1) and (2) requiring submission of annual reports to Congress by the first of March and the first of July of each year.
 
-Subsec. (*o*). Pub. L. 102–573, § 117(b)(3), struck out subsec. (*o*) which read as follows: “There are authorized to be appropriated such sums as may be necessary for each fiscal year to carry out the provisions of this section.”
+Subsec. (*o*). Pub. L. 102–573, § 117(b)(3), struck out subsec. (*o*) which read as follows: “There are authorized to be appropriated such sums as may be necessary for each fiscal year to carry out the provisions of this section.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1125,9 +1125,9 @@ Reference to Reserve Corps of the Public Health Service deemed to be a reference
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–573, title I, § 106(g)(2), Oct. 29, 1992, 106 Stat. 4537, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to contracts under section 108 of the Indian Health Care Improvement Act [this section] entered into on or after the date of enactment of this Act [Oct. 29, 1992].”
+Pub. L. 102–573, title I, § 106(g)(2), Oct. 29, 1992, 106 Stat. 4537, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to contracts under section 108 of the Indian Health Care Improvement Act [this section] entered into on or after the date of enactment of this Act [Oct. 29, 1992].”
 
-### § 1616a–1. Scholarship and Loan Repayment Recovery Fund
+### § 1616a–1. Scholarship and Loan Repayment Recovery Fund
 
 **(a) Establishment**
 
@@ -1147,9 +1147,9 @@ There is established in the Treasury of the United States a fund to be known as 
 
 **(1)** Amounts in the Fund and available pursuant to appropriation Acts may be expended by the Secretary, acting through the Service, to make payments to an Indian tribe or tribal organization administering a health care program pursuant to a contract entered into under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.]—
 
-**(A)** to which a scholarship recipient under section 1613a of this title or a loan repayment program participant under section 1616a of this title has been assigned to meet the obligated service requirements pursuant to 1
+**(A)** to which a scholarship recipient under section 1613a of this title or a loan repayment program participant under section 1616a of this title has been assigned to meet the obligated service requirements pursuant to 1
 
-<sup>1</sup>  So in original. Probably should be “to such”.
+<sup>1</sup> So in original. Probably should be “to such”.
 
 sections; and
 
@@ -1163,31 +1163,31 @@ sections; and
 
 **(2)** Any obligation acquired by the Fund may be sold by the Secretary of the Treasury at the market price.
 
-(Pub. L. 94–437, title I, § 108A, as added Pub. L. 102–573, title I, § 110, Oct. 29, 1992, 106 Stat. 4538.)
+(Pub. L. 94–437, title I, § 108A, as added Pub. L. 102–573, title I, § 110, Oct. 29, 1992, 106 Stat. 4538.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (c)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 1616b. Recruitment activities
+### § 1616b. Recruitment activities
 
 **(a)** The Secretary may reimburse health professionals seeking positions in the Service, including individuals considering entering into a contract under section 1616a of this title, and their spouses, for actual and reasonable expenses incurred in traveling to and from their places of residence to an area in which they may be assigned for the purpose of evaluating such area with respect to such assignment.
 
 **(b)** The Secretary, acting through the Service, shall assign one individual in each area office to be responsible on a full-time basis for recruitment activities.
 
-(Pub. L. 94–437, title I, § 109, as added Pub. L. 100–713, title I, § 108, Nov. 23, 1988, 102 Stat. 4794; amended Pub. L. 102–573, title I, § 107, Oct. 29, 1992, 106 Stat. 4538.)
+(Pub. L. 94–437, title I, § 109, as added Pub. L. 100–713, title I, § 108, Nov. 23, 1988, 102 Stat. 4794; amended Pub. L. 102–573, title I, § 107, Oct. 29, 1992, 106 Stat. 4538.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Pub. L. 102–573, § 107(1), substituted “Recruitment activities” for “Travel expenses for recruitment” in section catchline.
+1992—Pub. L. 102–573, § 107(1), substituted “Recruitment activities” for “Travel expenses for recruitment” in section catchline.
 
-Subsec. (b). Pub. L. 102–573, § 107(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated $100,000 for each of the fiscal years 1990, 1991, and 1992, for the purpose of carrying out the provisions of this section.”
+Subsec. (b). Pub. L. 102–573, § 107(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated $100,000 for each of the fiscal years 1990, 1991, and 1992, for the purpose of carrying out the provisions of this section.”
 
-### § 1616c. Tribal recruitment and retention program
+### § 1616c. Tribal recruitment and retention program
 
 **(a) Projects funded on competitive basis**
 
@@ -1199,19 +1199,19 @@ The Secretary, acting through the Service, shall fund, on a competitive basis, p
 
 **(2)** Indian tribes and tribal and Indian organizations under the authority of the Indian Self-Determination Act [25 U.S.C. 5321 et seq.] shall be given an equal opportunity with programs that are administered directly by the Service to compete for, and receive, grants under subsection (a) for such projects.
 
-(Pub. L. 94–437, title I, § 110, as added Pub. L. 100–713, title I, § 108, Nov. 23, 1988, 102 Stat. 4794; amended Pub. L. 102–573, title I, § 117(b)(4), Oct. 29, 1992, 106 Stat. 4544.)
+(Pub. L. 94–437, title I, § 110, as added Pub. L. 100–713, title I, § 108, Nov. 23, 1988, 102 Stat. 4794; amended Pub. L. 102–573, title I, § 117(b)(4), Oct. 29, 1992, 106 Stat. 4544.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
 1992—Subsec. (c). Pub. L. 102–573 struck out subsec. (c) which authorized appropriations for fiscal years 1990 to 1992.
 
-### § 1616d. Advanced training and research
+### § 1616d. Advanced training and research
 
 **(a) Establishment of program**
 
@@ -1225,33 +1225,33 @@ An individual who participates in a program under subsection (a), where the educ
 
 Health professionals from Indian tribes and tribal and Indian organizations under the authority of the Indian Self-Determination Act [25 U.S.C. 5321 et seq.] shall be given an equal opportunity to participate in the program under subsection (a).
 
-(Pub. L. 94–437, title I, § 111, as added Pub. L. 100–713, title I, § 108, Nov. 23, 1988, 102 Stat. 4795; amended Pub. L. 102–573, title I, § 108, Oct. 29, 1992, 106 Stat. 4538; Pub. L. 103–435, § 16(a), Nov. 2, 1994, 108 Stat. 4573.)
+(Pub. L. 94–437, title I, § 111, as added Pub. L. 100–713, title I, § 108, Nov. 23, 1988, 102 Stat. 4795; amended Pub. L. 102–573, title I, § 108, Oct. 29, 1992, 106 Stat. 4538; Pub. L. 103–435, § 16(a), Nov. 2, 1994, 108 Stat. 4573.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (c), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (c), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–435, § 16(a)(1), struck out “who have worked in an Indian health program (as defined in section 1616a(a)(2) of this title) for a substantial period of time” after “health professionals” and inserted at end “In selecting participants for a program established under this subsection, the Secretary, acting through the Service, shall give priority to applicants who are employed by the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations, at the time of the submission of the applications.”
+1994—Subsec. (a). Pub. L. 103–435, § 16(a)(1), struck out “who have worked in an Indian health program (as defined in section 1616a(a)(2) of this title) for a substantial period of time” after “health professionals” and inserted at end “In selecting participants for a program established under this subsection, the Secretary, acting through the Service, shall give priority to applicants who are employed by the Indian Health Service, Indian tribes, tribal organizations, and urban Indian organizations, at the time of the submission of the applications.”
 
-Subsec. (b). Pub. L. 103–435, § 16(a)(2), inserted “(as defined in section 1616a(a)(2) of this title)” after “Indian health program”.
+Subsec. (b). Pub. L. 103–435, § 16(a)(2), inserted “(as defined in section 1616a(a)(2) of this title)” after “Indian health program”.
 
-1992—Subsec. (b). Pub. L. 102–573, § 108(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “The Secretary shall develop standards for appropriate recoupment for such remaining service.”
+1992—Subsec. (b). Pub. L. 102–573, § 108(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “The Secretary shall develop standards for appropriate recoupment for such remaining service.”
 
-Subsec. (d). Pub. L. 102–573, § 108(2), struck out subsec. (d) which directed Secretary to prescribe regulations to carry out this section.
+Subsec. (d). Pub. L. 102–573, § 108(2), struck out subsec. (d) which directed Secretary to prescribe regulations to carry out this section.
 
-### § 1616e. Nursing program
+### § 1616e. Nursing program
 
 **(a) Grants** The Secretary, acting through the Service, shall provide grants to—
 
 **(1)** public or private schools of nursing,
 
-**(2)** tribally controlled community colleges and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) 1
+**(2)** tribally controlled community colleges and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 20), and
 
@@ -1283,7 +1283,7 @@ Each application for a grant under subsection (a) shall include such information
 
 **(3)** programs that are interdisciplinary, and
 
-**(4)** programs that are conducted in cooperation with a center for gifted and talented Indian students established under section 2624(a) <sup>1</sup> of this title.
+**(4)** programs that are conducted in cooperation with a center for gifted and talented Indian students established under section 2624(a) <sup>1</sup> of this title.
 
 **(e) Quentin N. Burdick American Indians Into Nursing Program**
 
@@ -1303,33 +1303,33 @@ The Secretary shall provide one of the grants authorized under subsection (a) to
 
 Beginning with fiscal year 1993, of the amounts appropriated under the authority of this subchapter for each fiscal year to be used to carry out this section, not less than $1,000,000 shall be used to provide grants under subsection (a) for the training of nurse midwives, nurse anesthetists, and nurse practitioners.
 
-(Pub. L. 94–437, title I, § 112, as added Pub. L. 100–713, title I, § 108, Nov. 23, 1988, 102 Stat. 4795; amended Pub. L. 102–573, title I, §§ 104(b), (c), 114(a), Oct. 29, 1992, 106 Stat. 4533, 4543.)
+(Pub. L. 94–437, title I, § 112, as added Pub. L. 100–713, title I, § 108, Nov. 23, 1988, 102 Stat. 4795; amended Pub. L. 102–573, title I, §§ 104(b), (c), 114(a), Oct. 29, 1992, 106 Stat. 4533, 4543.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2397h of title 20, referred to in subsec. (a)(2), was omitted in the general amendment of chapter 44 (§ 2301 et seq.) of Title 20, Education, by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076.
+Section 2397h of title 20, referred to in subsec. (a)(2), was omitted in the general amendment of chapter 44 (§ 2301 et seq.) of Title 20, Education, by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076.
 
-Section 2624 of this title, referred to in subsec. (d)(4), was repealed by Pub. L. 103–382, title III, § 367, Oct. 20, 1994, 108 Stat. 3976.
+Section 2624 of this title, referred to in subsec. (d)(4), was repealed by Pub. L. 103–382, title III, § 367, Oct. 20, 1994, 108 Stat. 3976.
 
-The Indian Self-Determination Act, referred to in subsec. (f)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (f)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-1992—Subsec. (a)(2). Pub. L. 102–573, § 114(a), inserted “and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) of title 20)” after “community colleges”.
+1992—Subsec. (a)(2). Pub. L. 102–573, § 114(a), inserted “and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) of title 20)” after “community colleges”.
 
-Subsecs. (e), (f). Pub. L. 102–573, § 104(b), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsecs. (e), (f). Pub. L. 102–573, § 104(b), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 102–573, § 104(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
+Subsec. (g). Pub. L. 102–573, § 104(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
 
 “(1) There are authorized to be appropriated for each of the fiscal years 1990, 1991, and 1992, $5,000,000 for the purpose of carrying out the provisions of this section.
 
 “(2) Of the amounts appropriated under the authority of paragraph (1) for each fiscal year, the Secretary shall use at least $1,000,000 to provide grants under subsection (a) for the training of nurse midwives.”
 
-Pub. L. 102–573, § 104(b)(1), redesignated subsec. (f) as (g).
+Pub. L. 102–573, § 104(b)(1), redesignated subsec. (f) as (g).
 
-### § 1616e–1. Nursing school clinics
+### § 1616e–1. Nursing school clinics
 
 **(a) Grants**
 
@@ -1359,9 +1359,9 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 Out of amounts appropriated to carry out this subchapter for each of the fiscal years 1993 through 2000 not more than $5,000,000 may be used to carry out this section.
 
-(Pub. L. 94–437, title I, § 112A, as added Pub. L. 102–573, title I, § 104(f), Oct. 29, 1992, 106 Stat. 4534.)
+(Pub. L. 94–437, title I, § 112A, as added Pub. L. 102–573, title I, § 104(f), Oct. 29, 1992, 106 Stat. 4534.)
 
-### § 1616f. Tribal culture and history
+### § 1616f. Tribal culture and history
 
 **(a) Program established**
 
@@ -1369,9 +1369,9 @@ The Secretary, acting through the Service, shall establish a program under which
 
 **(b) Tribally controlled institutions** To the extent feasible, the program established under subsection (a) shall—
 
-**(1)** be carried out through tribally controlled colleges or universities (within the meaning of section 1801(a)(4) of this title) and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) 1
+**(1)** be carried out through tribally controlled colleges or universities (within the meaning of section 1801(a)(4) of this title) and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 20),
 
@@ -1379,13 +1379,13 @@ of title 20),
 
 **(3)** include instruction in Native American studies.
 
-(Pub. L. 94–437, title I, § 113, as added Pub. L. 100–713, title I, § 109, Nov. 23, 1988, 102 Stat. 4796; amended Pub. L. 102–573, title I, §§ 114(b), 117(b)(5), Oct. 29, 1992, 106 Stat. 4543, 4544; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(k)(2)(I)(i), Aug. 14, 2008, 122 Stat. 3467.)
+(Pub. L. 94–437, title I, § 113, as added Pub. L. 100–713, title I, § 109, Nov. 23, 1988, 102 Stat. 4796; amended Pub. L. 102–573, title I, §§ 114(b), 117(b)(5), Oct. 29, 1992, 106 Stat. 4543, 4544; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(k)(2)(I)(i), Aug. 14, 2008, 122 Stat. 3467.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2397h of title 20, referred to in subsec. (b)(1), was omitted in the general amendment of chapter 44 (§ 2301 et seq.) of Title 20, Education, by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076.
+Section 2397h of title 20, referred to in subsec. (b)(1), was omitted in the general amendment of chapter 44 (§ 2301 et seq.) of Title 20, Education, by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076.
 
 **Amendments**
 
@@ -1393,9 +1393,9 @@ Section 2397h of title 20, referred to in subsec. (b)(1), was omitted in the gen
 
 1998—Subsec. (b)(1). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801(4) of this title.
 
-1992—Subsec. (b)(1). Pub. L. 102–573, § 114(b), inserted before comma at end “and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) of title 20)”.
+1992—Subsec. (b)(1). Pub. L. 102–573, § 114(b), inserted before comma at end “and tribally controlled postsecondary vocational institutions (as defined in section 2397h(2) of title 20)”.
 
-Subsec. (c). Pub. L. 102–573, § 117(b)(5), struck out subsec. (c) which authorized appropriations for fiscal years 1990 to 1992.
+Subsec. (c). Pub. L. 102–573, § 117(b)(5), struck out subsec. (c) which authorized appropriations for fiscal years 1990 to 1992.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1403,7 +1403,7 @@ Subsec. (c). Pub. L. 102–573, § 117(b)(5), struck out subsec. (c) which aut
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1616g. INMED program
+### § 1616g. INMED program
 
 **(a) Grants**
 
@@ -1433,17 +1433,17 @@ The Secretary shall provide one of the grants authorized under subsection (a) to
 
 By no later than the date that is 3 years after November 23, 1988, the Secretary shall submit a report to the Congress on the program established under this section including recommendations for expansion or changes to the program.
 
-(Pub. L. 94–437, title I, § 114, as added Pub. L. 100–713, title I, § 109, Nov. 23, 1988, 102 Stat. 4796; amended Pub. L. 102–573, title I, §§ 109, 117(b)(6), Oct. 29, 1992, 106 Stat. 4538, 4544.)
+(Pub. L. 94–437, title I, § 114, as added Pub. L. 100–713, title I, § 109, Nov. 23, 1988, 102 Stat. 4796; amended Pub. L. 102–573, title I, §§ 109, 117(b)(6), Oct. 29, 1992, 106 Stat. 4538, 4544.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (b). Pub. L. 102–573, § 109, inserted “to be known as the ‘Quentin N. Burdick Indian Health Programs’,” after “North Dakota,” and “Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title and the Quentin N. Burdick American Indians Into Nursing Program established under section 1616e(e) of this title.” at end.
+1992—Subsec. (b). Pub. L. 102–573, § 109, inserted “to be known as the ‘Quentin N. Burdick Indian Health Programs’,” after “North Dakota,” and “Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick American Indians Into Psychology Program established under section 1621p(b) of this title and the Quentin N. Burdick American Indians Into Nursing Program established under section 1616e(e) of this title.” at end.
 
-Subsec. (e). Pub. L. 102–573, § 117(b)(6), struck out subsec. (e) which authorized appropriations for fiscal years 1990 to 1992.
+Subsec. (e). Pub. L. 102–573, § 117(b)(6), struck out subsec. (e) which authorized appropriations for fiscal years 1990 to 1992.
 
-### § 1616h. Health training programs of community colleges
+### § 1616h. Health training programs of community colleges
 
 **(a) Grants**
 
@@ -1495,25 +1495,25 @@ Such courses of study may be offered in conjunction with the college or universi
 
 **(2)** The term “tribally controlled college or university” has the meaning given to such term by section 1801(a)(4) of this title.
 
-**(3)** The term “junior or community college” has the meaning given to such term by section 1058(e) 1
+**(3)** The term “junior or community college” has the meaning given to such term by section 1058(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 20.
 
-(Pub. L. 94–437, title I, § 115, as added Pub. L. 100–713, title I, § 109, Nov. 23, 1988, 102 Stat. 4797; amended Pub. L. 102–573, title I, § 117(b)(7), Oct. 29, 1992, 106 Stat. 4544; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(k)(2)(I)(ii), Aug. 14, 2008, 122 Stat. 3467.)
+(Pub. L. 94–437, title I, § 115, as added Pub. L. 100–713, title I, § 109, Nov. 23, 1988, 102 Stat. 4797; amended Pub. L. 102–573, title I, § 117(b)(7), Oct. 29, 1992, 106 Stat. 4544; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, § 941(k)(2)(I)(ii), Aug. 14, 2008, 122 Stat. 3467.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1058 of title 20, referred to in subsec. (e)(3), was amended by Pub. L. 105–244, title III, § 303(b)(1), Oct. 7, 1998, 112 Stat. 1639, which redesignated subsecs. (d) and (e) as (e) and (f), respectively.
+Section 1058 of title 20, referred to in subsec. (e)(3), was amended by Pub. L. 105–244, title III, § 303(b)(1), Oct. 7, 1998, 112 Stat. 1639, which redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
 **Amendments**
 
-2008—Subsec. (e)(1)(A). Pub. L. 110–315, § 941(k)(2)(I)(ii)(I), substituted “a junior or community college that is a tribally controlled college or university” for “a tribally controlled community college”.
+2008—Subsec. (e)(1)(A). Pub. L. 110–315, § 941(k)(2)(I)(ii)(I), substituted “a junior or community college that is a tribally controlled college or university” for “a tribally controlled community college”.
 
-Subsec. (e)(2). Pub. L. 110–315, § 941(k)(2)(I)(ii)(II), added par. (2) and struck out former par. (2) which read as follows: “The term ‘tribally controlled community college’ has the meaning given to such term by section 1801(4) of this title.”
+Subsec. (e)(2). Pub. L. 110–315, § 941(k)(2)(I)(ii)(II), added par. (2) and struck out former par. (2) which read as follows: “The term ‘tribally controlled community college’ has the meaning given to such term by section 1801(4) of this title.”
 
 1998—Subsec. (e)(2). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801(4) of this title.
 
@@ -1525,7 +1525,7 @@ Subsec. (e)(2). Pub. L. 110–315, § 941(k)(2)(I)(ii)(II), added par. (2) and
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-### § 1616i. Additional incentives for health professionals
+### § 1616i. Additional incentives for health professionals
 
 **(a) Incentive special pay**
 
@@ -1545,7 +1545,7 @@ The Secretary may provide the incentive special pay authorized under section 302
 
 The Secretary may establish programs to allow the use of flexible work schedules, and compressed work schedules, in accordance with the provisions of subchapter II of chapter 61 of title 5, for health professionals employed by, or assigned to, the Service.
 
-(Pub. L. 94–437, title I, § 116, as added Pub. L. 100–713, title I, § 109, Nov. 23, 1988, 102 Stat. 4798; amended Pub. L. 102–573, title I, § 117(b)(8), title IX, § 901(1), Oct. 29, 1992, 106 Stat. 4544, 4590; Pub. L. 115–91, div. A, title VI, § 618(f), Dec. 12, 2017, 131 Stat. 1427.)
+(Pub. L. 94–437, title I, § 116, as added Pub. L. 100–713, title I, § 109, Nov. 23, 1988, 102 Stat. 4798; amended Pub. L. 102–573, title I, § 117(b)(8), title IX, § 901(1), Oct. 29, 1992, 106 Stat. 4544, 4590; Pub. L. 115–91, div. A, title VI, § 618(f), Dec. 12, 2017, 131 Stat. 1427.)
 
 **Editorial Notes**
 
@@ -1553,15 +1553,15 @@ The Secretary may establish programs to allow the use of flexible work schedules
 
 2017—Subsec. (a). Pub. L. 115–91 inserted “or 335(b)” after “section 302(b)”.
 
-1992—Subsec. (d). Pub. L. 102–573, § 901(1), struck out subsec. (d) which required a report to Congress by the Secretary no later than 6 months after Nov. 23, 1988, relating to overtime pay for individuals employed by the Service.
+1992—Subsec. (d). Pub. L. 102–573, § 901(1), struck out subsec. (d) which required a report to Congress by the Secretary no later than 6 months after Nov. 23, 1988, relating to overtime pay for individuals employed by the Service.
 
-Subsec. (e). Pub. L. 102–573, § 117(b)(8), struck out subsec. (e) which authorized appropriations for fiscal years 1990 to 1992.
+Subsec. (e). Pub. L. 102–573, § 117(b)(8), struck out subsec. (e) which authorized appropriations for fiscal years 1990 to 1992.
 
-### § 1616j. Retention bonus
+### § 1616j. Retention bonus
 
-**(a) Eligibility** The Secretary may pay a retention bonus to any physician or nurse employed by, or assigned to, and serving in, the Service either as a civilian employee or as a commissioned officer in the Regular or Reserve Corps 1
+**(a) Eligibility** The Secretary may pay a retention bonus to any physician or nurse employed by, or assigned to, and serving in, the Service either as a civilian employee or as a commissioned officer in the Regular or Reserve Corps 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 of the Public Health Service who—
 
@@ -1603,13 +1603,13 @@ Any physician or nurse failing to complete the agreed upon term of service, exce
 
 **(2)** necessary for providing health care services to Indians.
 
-(Pub. L. 94–437, title I, § 117, as added Pub. L. 100–713, title I, § 109, Nov. 23, 1988, 102 Stat. 4799; amended Pub. L. 102–573, title I, § 104(d), Oct. 29, 1992, 106 Stat. 4533.)
+(Pub. L. 94–437, title I, § 117, as added Pub. L. 100–713, title I, § 109, Nov. 23, 1988, 102 Stat. 4799; amended Pub. L. 102–573, title I, § 104(d), Oct. 29, 1992, 106 Stat. 4533.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
@@ -1621,7 +1621,7 @@ The Indian Self-Determination Act, referred to in subsec. (f), is title I of Pub
 
 Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
 
-### § 1616k. Nursing residency program
+### § 1616k. Nursing residency program
 
 **(a) Establishment**
 
@@ -1635,7 +1635,7 @@ Such program shall include a combination of education and work study in an India
 
 An individual who participates in a program under subsection (a), where the educational costs are paid by the Service, shall incur an obligation to serve in an Indian health program for a period of obligated service equal to at least three times the period of time during which the individual participates in such program. In the event that the individual fails to complete such obligated service, the United States shall be entitled to recover from such individual an amount determined in accordance with the formula specified in subsection (*l*) of section 1616a of this title in the manner provided for in such subsection.
 
-(Pub. L. 94–437, title I, § 118, as added Pub. L. 102–573, title I, § 104(e), Oct. 29, 1992, 106 Stat. 4534; amended Pub. L. 103–435, § 16(b), Nov. 2, 1994, 108 Stat. 4573.)
+(Pub. L. 94–437, title I, § 118, as added Pub. L. 102–573, title I, § 104(e), Oct. 29, 1992, 106 Stat. 4534; amended Pub. L. 103–435, § 16(b), Nov. 2, 1994, 108 Stat. 4573.)
 
 **Editorial Notes**
 
@@ -1643,7 +1643,7 @@ An individual who participates in a program under subsection (a), where the educ
 
 1994—Subsec. (b). Pub. L. 103–435 inserted before period at end “or a Master’s degree”.
 
-### § 1616l. Community health aide program
+### § 1616l. Community health aide program
 
 **(a) General purposes of program** Pursuant to section 13 of this title, the Secretary, acting through the Service, shall develop and operate a Community Health Aide Program in the State of Alaska under which the Service—
 
@@ -1749,7 +1749,7 @@ The Secretary shall not fill any vacancy for a certified dentist in a program op
 
 Nothing in this section shall restrict the ability of the Service, an Indian tribe, or a tribal organization to participate in any program or to provide any service authorized by any other Federal law.
 
-(Pub. L. 94–437, title I, § 119, as added Pub. L. 102–573, title I, § 111, Oct. 29, 1992, 106 Stat. 4539; amended Pub. L. 111–148, title X, § 10221(a), (b)(1), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title I, § 119, as added Pub. L. 102–573, title I, § 111, Oct. 29, 1992, 106 Stat. 4539; amended Pub. L. 111–148, title X, § 10221(a), (b)(1), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -1759,15 +1759,15 @@ Amendment by section 10221(a) of Pub. L. 111–148 is based on section 111 of ti
 
 **Amendments**
 
-2010—Pub. L. 111–148, § 10221(a), amended section generally. Prior to amendment, section related to maintenance of Community Health Aide Program for Alaska and related training, curriculum, and establishment and maintenance of Certification Board.
+2010—Pub. L. 111–148, § 10221(a), amended section generally. Prior to amendment, section related to maintenance of Community Health Aide Program for Alaska and related training, curriculum, and establishment and maintenance of Certification Board.
 
-Subsec. (d)(2). Pub. L. 111–148, § 10221(b)(1)(A)(i), substituted “Subject to paragraphs (3) and (4), in establishing” for “In establishing” in introductory provisions.
+Subsec. (d)(2). Pub. L. 111–148, § 10221(b)(1)(A)(i), substituted “Subject to paragraphs (3) and (4), in establishing” for “In establishing” in introductory provisions.
 
-Subsec. (d)(3), (4). Pub. L. 111–148, § 10221(b)(1)(A)(ii), added pars. (3) and (4).
+Subsec. (d)(3), (4). Pub. L. 111–148, § 10221(b)(1)(A)(ii), added pars. (3) and (4).
 
-Subsec. (e). Pub. L. 111–148, § 10221(b)(1)(B), added subsec. (e).
+Subsec. (e). Pub. L. 111–148, § 10221(b)(1)(B), added subsec. (e).
 
-### § 1616m. Matching grants to tribes for scholarship programs
+### § 1616m. Matching grants to tribes for scholarship programs
 
 **(a) In general**
 
@@ -1845,21 +1845,21 @@ in lieu of any service obligation arising under such contract, shall be liable t
 
 The Secretary may not make any payments under subsection (a) to an Indian tribe or tribal organization for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the Indian tribe or tribal organization has complied with requirements of this section.
 
-(Pub. L. 94–437, title I, § 120, as added Pub. L. 102–573, title I, § 112, Oct. 29, 1992, 106 Stat. 4540.)
+(Pub. L. 94–437, title I, § 120, as added Pub. L. 102–573, title I, § 112, Oct. 29, 1992, 106 Stat. 4540.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare, respectively. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare, respectively. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-### § 1616n. Tribal health program administration
+### § 1616n. Tribal health program administration
 
 The Secretary shall, by contract or otherwise, provide training for individuals in the administration and planning of tribal health programs.
 
-(Pub. L. 94–437, title I, § 121, as added Pub. L. 102–573, title I, § 113, Oct. 29, 1992, 106 Stat. 4542.)
+(Pub. L. 94–437, title I, § 121, as added Pub. L. 102–573, title I, § 113, Oct. 29, 1992, 106 Stat. 4542.)
 
-### § 1616o. University of South Dakota pilot program
+### § 1616o. University of South Dakota pilot program
 
 **(a) Establishment**
 
@@ -1887,9 +1887,9 @@ The USDSM shall coordinate the program established pursuant to a grant provided 
 
 The USDSM, in cooperation with the Service, shall develop additional professional opportunities for program participants on Indian reservations in order to improve the recruitment and retention of qualified health professionals in the Aberdeen Area of the Service.
 
-(Pub. L. 94–437, title I, § 122, as added Pub. L. 102–573, title I, § 116, Oct. 29, 1992, 106 Stat. 4543.)
+(Pub. L. 94–437, title I, § 122, as added Pub. L. 102–573, title I, § 116, Oct. 29, 1992, 106 Stat. 4543.)
 
-### § 1616p. Health professional chronic shortage demonstration programs
+### § 1616p. Health professional chronic shortage demonstration programs
 
 **(a) Demonstration programs**
 
@@ -1909,7 +1909,7 @@ The Secretary, acting through the Service, may fund demonstration programs for I
 
 The demonstration programs established pursuant to subsection (a) shall incorporate a program advisory board, which may be composed of representatives of tribal governments, Indian health programs, and Indian communities in the areas to be served by the demonstration programs.
 
-(Pub. L. 94–437, title I, § 123, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title I, § 123, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -1919,13 +1919,13 @@ Section 123 of Pub. L. 94–437 is based on section 112 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1616p, Pub. L. 94–437, title I, § 123, as added Pub. L. 102–573, title I, § 117(a), Oct. 29, 1992, 106 Stat. 4544, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 101(b)(1) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+A prior section 1616p, Pub. L. 94–437, title I, § 123, as added Pub. L. 102–573, title I, § 117(a), Oct. 29, 1992, 106 Stat. 4544, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 101(b)(1) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1616q. Exemption from payment of certain fees
+### § 1616q. Exemption from payment of certain fees
 
 Employees of a tribal health program or urban Indian organization shall be exempt from payment of licensing, registration, and any other fees imposed by a Federal agency to the same extent that officers of the commissioned corps of the Public Health Service and other employees of the Service are exempt from those fees.
 
-(Pub. L. 94–437, title I, § 124, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title I, § 124, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -1933,17 +1933,17 @@ Employees of a tribal health program or urban Indian organization shall be exemp
 
 Section 124 of Pub. L. 94–437 is based on section 113 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1616r. Repealed. Pub. L. 111–148, title X, § 10221(b)(2), Mar. 23, 2010, 124 Stat. 936
+### § 1616r. Repealed. Pub. L. 111–148, title X, § 10221(b)(2), Mar. 23, 2010, 124 Stat. 936
 
-Section, Pub. L. 94–437, title I, § 125, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, was based on section 134(b) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009 which was enacted into law by section 10221(a) of Pub. L. 111–148 and related to treatment of a scholarship provided to an individual under this subchapter as a qualified scholarship for purposes of section 117 of Title 26, Internal Revenue Code.
+Section, Pub. L. 94–437, title I, § 125, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, was based on section 134(b) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009 which was enacted into law by section 10221(a) of Pub. L. 111–148 and related to treatment of a scholarship provided to an individual under this subchapter as a qualified scholarship for purposes of section 117 of Title 26, Internal Revenue Code.
 
 ## SUBCHAPTER II—HEALTH SERVICES
 
-### § 1621. Indian Health Care Improvement Fund
+### § 1621. Indian Health Care Improvement Fund
 
 **(a) Use of funds** The Secretary, acting through the Service, is authorized to expend funds, directly or under the authority of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 which are appropriated under the authority of this section, for the purposes of—
 
@@ -2039,13 +2039,13 @@ Nothing in this section is intended to diminish the primary responsibility of th
 
 Any funds appropriated under the authority of this section shall be designated as the “Indian Health Care Improvement Fund”.
 
-(Pub. L. 94–437, title II, § 201, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 96–537, § 4, Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title II, § 201(a), Nov. 23, 1988, 102 Stat. 4800; Pub. L. 102–573, title II, § 201(a), (c), 207(b), 217(b)(1), Oct. 29, 1992, 106 Stat. 4544, 4546, 4551, 4559; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 201, Sept. 30, 1976, 90 Stat. 1404; Pub. L. 96–537, § 4, Dec. 17, 1980, 94 Stat. 3174; Pub. L. 100–713, title II, § 201(a), Nov. 23, 1988, 102 Stat. 4800; Pub. L. 102–573, title II, § 201(a), (c), 207(b), 217(b)(1), Oct. 29, 1992, 106 Stat. 4544, 4546, 4551, 4559; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This chapter, referred to in subsecs. (b) and (f)(4)(A), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
@@ -2057,91 +2057,91 @@ Amendment by Pub. L. 111–148 is based on section 121 of title I of S. 1790, On
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to the Indian Health Care Improvement Fund.
 
-1992—Pub. L. 102–573, § 201(c), amended section catchline generally.
+1992—Pub. L. 102–573, § 201(c), amended section catchline generally.
 
-Subsec. (a). Pub. L. 102–573, § 201(a)(1)(A), substituted “this section” for “subsection (h) of this section” in introductory provisions.
+Subsec. (a). Pub. L. 102–573, § 201(a)(1)(A), substituted “this section” for “subsection (h) of this section” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 102–573, § 201(a)(1)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “raising the health status of Indians to zero deficiency,”.
+Subsec. (a)(1). Pub. L. 102–573, § 201(a)(1)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “raising the health status of Indians to zero deficiency,”.
 
-Subsec. (a)(4). Pub. L. 102–573, § 201(a)(1)(C), in introductory provisions inserted “, either through direct or contract care or through contracts entered into pursuant to the Indian Self-Determination Act,” after “responsibilities” and substituted “status and resource deficiencies” for “resources deficiency”.
+Subsec. (a)(4). Pub. L. 102–573, § 201(a)(1)(C), in introductory provisions inserted “, either through direct or contract care or through contracts entered into pursuant to the Indian Self-Determination Act,” after “responsibilities” and substituted “status and resource deficiencies” for “resources deficiency”.
 
-Subsec. (a)(4)(B). Pub. L. 102–573, § 207(b), substituted “preventive health, including screening mam­mography in accordance with section 1621k of this title” for “preventive health”.
+Subsec. (a)(4)(B). Pub. L. 102–573, § 207(b), substituted “preventive health, including screening mam­mography in accordance with section 1621k of this title” for “preventive health”.
 
-Subsec. (b)(1). Pub. L. 102–573, § 201(a)(2)(A), substituted “this section” for “subsection (h) of this section”.
+Subsec. (b)(1). Pub. L. 102–573, § 201(a)(2)(A), substituted “this section” for “subsection (h) of this section”.
 
-Subsec. (b)(2). Pub. L. 102–573, § 201(a)(2)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Funds which are appropriated under the authority of subsection (h) of this section may be allocated to, or used for the benefit of, any Indian tribe which has a health resources deficiency level at level I or II only if a sufficient amount of funds have been appropriated under the authority of subsection (h) of this section to raise all Indian tribes to health resources deficiency level II.”
+Subsec. (b)(2). Pub. L. 102–573, § 201(a)(2)(B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Funds which are appropriated under the authority of subsection (h) of this section may be allocated to, or used for the benefit of, any Indian tribe which has a health resources deficiency level at level I or II only if a sufficient amount of funds have been appropriated under the authority of subsection (h) of this section to raise all Indian tribes to health resources deficiency level II.”
 
-Subsec. (b)(2)(A). Pub. L. 102–573, § 201(a)(2)(C), in first sentence, substituted “this section” for “subsection (h) of this section” and struck out “but such allocation shall be made in a manner which ensures that the requirement of paragraph (2) is met” after “service unit basis” and, in second sentence, struck out “(in accordance with paragraph (2))” after “the service unit” and substituted “reduce the health status and resource deficiency” for “raise the deficiency level”.
+Subsec. (b)(2)(A). Pub. L. 102–573, § 201(a)(2)(C), in first sentence, substituted “this section” for “subsection (h) of this section” and struck out “but such allocation shall be made in a manner which ensures that the requirement of paragraph (2) is met” after “service unit basis” and, in second sentence, struck out “(in accordance with paragraph (2))” after “the service unit” and substituted “reduce the health status and resource deficiency” for “raise the deficiency level”.
 
-Subsec. (b)(2)(B). Pub. L. 102–573, § 201(a)(2)(D), inserted “, and with the active participation of,” after “in consultation with”.
+Subsec. (b)(2)(B). Pub. L. 102–573, § 201(a)(2)(D), inserted “, and with the active participation of,” after “in consultation with”.
 
-Subsec. (b)(3). Pub. L. 102–573, § 201(a)(2)(B), redesignated par. (3) as (2).
+Subsec. (b)(3). Pub. L. 102–573, § 201(a)(2)(B), redesignated par. (3) as (2).
 
-Subsec. (c)(1). Pub. L. 102–573, § 201(a)(3)(B), amended par. (1) generally, substituting provisions defining “health status and resource deficiency” for former provisions defining “health resources deficiency”.
+Subsec. (c)(1). Pub. L. 102–573, § 201(a)(3)(B), amended par. (1) generally, substituting provisions defining “health status and resource deficiency” for former provisions defining “health resources deficiency”.
 
-Pub. L. 102–573, § 201(a)(3)(A), redesignated par. (2) as (1) and struck out former par. (1) which specified the health resource deficiency levels of an Indian tribe.
+Pub. L. 102–573, § 201(a)(3)(A), redesignated par. (2) as (1) and struck out former par. (1) which specified the health resource deficiency levels of an Indian tribe.
 
-Subsec. (c)(2). Pub. L. 102–573, § 201(a)(3)(A), redesignated par. (3) as (2). Former par. (2) redesignated (1).
+Subsec. (c)(2). Pub. L. 102–573, § 201(a)(3)(A), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Subsec. (c)(3). Pub. L. 102–573, § 201(a)(3)(A), (C), redesignated par. (4) as (3) and substituted “The” for “Under regulations, the” and “extent of the health status and resource deficiency” for “health resources deficiency level”. Former par. (3) redesignated (2).
+Subsec. (c)(3). Pub. L. 102–573, § 201(a)(3)(A), (C), redesignated par. (4) as (3) and substituted “The” for “Under regulations, the” and “extent of the health status and resource deficiency” for “health resources deficiency level”. Former par. (3) redesignated (2).
 
-Subsec. (c)(4). Pub. L. 102–573, § 201(a)(3)(A), redesignated par. (4) as (3).
+Subsec. (c)(4). Pub. L. 102–573, § 201(a)(3)(A), redesignated par. (4) as (3).
 
-Subsec. (d)(1). Pub. L. 102–573, § 201(a)(4), substituted “this section” for “subsection (h) of this section”.
+Subsec. (d)(1). Pub. L. 102–573, § 201(a)(4), substituted “this section” for “subsection (h) of this section”.
 
-Subsec. (e). Pub. L. 102–573, § 201(a)(5)(A), in introductory provisions, substituted “3 years after October 29, 1992, the Secretary shall submit to the Congress the current health status and resource deficiency report” for “60 days after November 23, 1988, the Secretary shall submit to the Congress the current health services priority system report”.
+Subsec. (e). Pub. L. 102–573, § 201(a)(5)(A), in introductory provisions, substituted “3 years after October 29, 1992, the Secretary shall submit to the Congress the current health status and resource deficiency report” for “60 days after November 23, 1988, the Secretary shall submit to the Congress the current health services priority system report”.
 
-Subsec. (e)(1). Pub. L. 102–573, § 201(a)(5)(B), substituted “health status and resource deficiencies” for “health resources deficiencies”.
+Subsec. (e)(1). Pub. L. 102–573, § 201(a)(5)(B), substituted “health status and resource deficiencies” for “health resources deficiencies”.
 
-Subsec. (e)(2). Pub. L. 102–573, § 201(a)(5)(C), substituted “the extent of the health status and resource deficiency of” for “the level of health resources deficiency for”.
+Subsec. (e)(2). Pub. L. 102–573, § 201(a)(5)(C), substituted “the extent of the health status and resource deficiency of” for “the level of health resources deficiency for”.
 
-Subsec. (e)(3). Pub. L. 102–573, § 201(a)(5)(D), substituted “eliminate the health status and resource deficiencies of all Indian tribes served by the Service; and” for “raise all Indian tribes served by the Service below health resources deficiency level II to health resources deficiency level II;”.
+Subsec. (e)(3). Pub. L. 102–573, § 201(a)(5)(D), substituted “eliminate the health status and resource deficiencies of all Indian tribes served by the Service; and” for “raise all Indian tribes served by the Service below health resources deficiency level II to health resources deficiency level II;”.
 
-Subsec. (e)(4) to (6). Pub. L. 102–573, § 201(a)(5)(E), redesignated par. (6) as (4) and struck out former pars. (4) and (5) which read as follows:
+Subsec. (e)(4) to (6). Pub. L. 102–573, § 201(a)(5)(E), redesignated par. (6) as (4) and struck out former pars. (4) and (5) which read as follows:
 
 “(4) the amount of funds necessary to raise all tribes served by the Service below health resources deficiency level I to health resources deficiency level I;
 
 “(5) the amount of funds necessary to raise all tribes served by the Service to zero health resources deficiency; and”.
 
-Subsec. (f). Pub. L. 102–573, § 201(a)(6), redesignated par. (2) as entire subsec. and struck out former par. (1) which read as follows: “The President shall include with the budget submitted to the Congress under section 1105 of title 31 for each fiscal year a separate statement which specifies the amount of funds requested to carry out the provisions of this section for such fiscal year.”
+Subsec. (f). Pub. L. 102–573, § 201(a)(6), redesignated par. (2) as entire subsec. and struck out former par. (1) which read as follows: “The President shall include with the budget submitted to the Congress under section 1105 of title 31 for each fiscal year a separate statement which specifies the amount of funds requested to carry out the provisions of this section for such fiscal year.”
 
-Subsec. (h). Pub. L. 102–573, § 217(b)(1), substituted “this section” for “this subsection” and struck out former first sentence which authorized appropriations for fiscal years 1990 to 1992.
+Subsec. (h). Pub. L. 102–573, § 217(b)(1), substituted “this section” for “this subsection” and struck out former first sentence which authorized appropriations for fiscal years 1990 to 1992.
 
 1988—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (h) relating to improvement of Indian health status for former subsecs. (a) to (e) relating to direct patient care program.
 
-1980—Subsec. (c)(1). Pub. L. 96–537, § 4(a)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+1980—Subsec. (c)(1). Pub. L. 96–537, § 4(a)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
-Subsec. (c)(2). Pub. L. 96–537, § 4(a)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+Subsec. (c)(2). Pub. L. 96–537, § 4(a)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
-Subsec. (c)(3). Pub. L. 96–537, § 4(a)(3), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+Subsec. (c)(3). Pub. L. 96–537, § 4(a)(3), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
-Subsec. (c)(4)(A). Pub. L. 96–537, § 4(b)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+Subsec. (c)(4)(A). Pub. L. 96–537, § 4(b)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
-Subsec. (c)(4)(B). Pub. L. 96–537, § 4(b)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+Subsec. (c)(4)(B). Pub. L. 96–537, § 4(b)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
-Subsec. (c)(4)(C). Pub. L. 96–537, § 4(b)(3), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+Subsec. (c)(4)(C). Pub. L. 96–537, § 4(b)(3), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
-Subsec. (c)(4)(D). Pub. L. 96–537, § 4(b)(4), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+Subsec. (c)(4)(D). Pub. L. 96–537, § 4(b)(4), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
-Subsec. (c)(4)(E). Pub. L. 96–537, § 4(b)(5), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984.
+Subsec. (c)(4)(E). Pub. L. 96–537, § 4(b)(5), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984.
 
-Subsec. (c)(5). Pub. L. 96–537, § 4(c)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984.
+Subsec. (c)(5). Pub. L. 96–537, § 4(c)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984.
 
-Subsec. (c)(6). Pub. L. 96–537, § 4(c)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+Subsec. (c)(6). Pub. L. 96–537, § 4(c)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
-Subsec. (c)(7). Pub. L. 96–537, § 4(c)(3), struck out par. (7) which authorized appropriation for the items referred to in subsecs. (c)(1) to (c)(6) of such sums as may be specifically authorized by an act enacted after Sept. 30, 1976, for fiscal years 1981, 1982, 1983, and 1984, and which further authorized positions for items referred to in subsecs. (c)(1) to (c)(6) other than subsecs. (c)(4)(E) and (c)(5), as may be specified in an act enacted after Sept. 30, 1976.
+Subsec. (c)(7). Pub. L. 96–537, § 4(c)(3), struck out par. (7) which authorized appropriation for the items referred to in subsecs. (c)(1) to (c)(6) of such sums as may be specifically authorized by an act enacted after Sept. 30, 1976, for fiscal years 1981, 1982, 1983, and 1984, and which further authorized positions for items referred to in subsecs. (c)(1) to (c)(6) other than subsecs. (c)(4)(E) and (c)(5), as may be specified in an act enacted after Sept. 30, 1976.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendments**
 
-Pub. L. 102–573, title II, § 201(b), Oct. 29, 1992, 106 Stat. 4546, provided that: “Except with respect to the amendments made by subsection (a)(5) [amending this section], the amendments made by subsection (a) [amending this section] shall take effect three years after the date of the enactment of this Act [Oct. 29, 1992]. The amendments made by subsection (a)(5) shall take effect upon the date of the enactment of this Act.”
+Pub. L. 102–573, title II, § 201(b), Oct. 29, 1992, 106 Stat. 4546, provided that: “Except with respect to the amendments made by subsection (a)(5) [amending this section], the amendments made by subsection (a) [amending this section] shall take effect three years after the date of the enactment of this Act [Oct. 29, 1992]. The amendments made by subsection (a)(5) shall take effect upon the date of the enactment of this Act.”
 
 **Contract Medical Care Funds**
 
 Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: “That contract medical care funds appropriated heretofore and hereafter for tribes recognized after January 1, 1995, may be used to provide medical services directly or through contract medical care”.
 
-### § 1621a. Catastrophic Health Emergency Fund
+### § 1621a. Catastrophic Health Emergency Fund
 
 **(a) Establishment** There is established an Indian Catastrophic Health Emergency Fund (hereafter in this section referred to as the “CHEF”) consisting of—
 
@@ -2157,7 +2157,7 @@ CHEF shall be administered by the Secretary, acting through the headquarters of 
 
 No part of CHEF or its administration shall be subject to contract or grant under any law, including the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 nor shall CHEF funds be allocated, apportioned, or delegated on an Area Office, Service Unit, or other similar basis.
 
@@ -2189,13 +2189,13 @@ Amounts appropriated to CHEF under this section shall not be used to offset or l
 
 There shall be deposited into CHEF all reimbursements to which the Service is entitled from any Federal, State, local, or private source (including third party insurance) by reason of treatment rendered to any victim of a disaster or catastrophic illness the cost of which was paid from CHEF.
 
-(Pub. L. 94–437, title II, § 202, as added Pub. L. 100–713, title II, § 202, Nov. 23, 1988, 102 Stat. 4803; amended Pub. L. 102–573, title II, §§ 202(a), 217(b)(2), Oct. 29, 1992, 106 Stat. 4546, 4559; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 202, as added Pub. L. 100–713, title II, § 202, Nov. 23, 1988, 102 Stat. 4803; amended Pub. L. 102–573, title II, §§ 202(a), 217(b)(2), Oct. 29, 1992, 106 Stat. 4546, 4559; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -2205,27 +2205,27 @@ Amendment by Pub. L. 111–148 is based on section 122 of title I of S. 1790, On
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to establishment of Indian Catastrophic Health Emergency Fund with provisions for its administration, promulgation of regulations, procedures for payment, effect of appropriated funds on other appropriations, and deposit of reimbursements.
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–573, § 202(a)(1), substituted “to the Fund under this section” for “under subsection (e) of this section”.
+1992—Subsec. (a)(1)(B). Pub. L. 102–573, § 202(a)(1), substituted “to the Fund under this section” for “under subsection (e) of this section”.
 
-Subsec. (b)(2). Pub. L. 102–573, § 202(a)(2), substituted “shall establish at—” and subpars. (A) and (B) for “shall establish at not less than $10,000 or not more than $20,000;”.
+Subsec. (b)(2). Pub. L. 102–573, § 202(a)(2), substituted “shall establish at—” and subpars. (A) and (B) for “shall establish at not less than $10,000 or not more than $20,000;”.
 
-Subsec. (c). Pub. L. 102–573, § 202(a)(3), substituted “Amounts appropriated to the Fund under this section” for “Funds appropriated under subsection (e) of this section”.
+Subsec. (c). Pub. L. 102–573, § 202(a)(3), substituted “Amounts appropriated to the Fund under this section” for “Funds appropriated under subsection (e) of this section”.
 
-Subsec. (e). Pub. L. 102–573, § 217(b)(2), struck out subsec. (e) which authorized appropriations for fiscal years 1989 to 1992.
+Subsec. (e). Pub. L. 102–573, § 217(b)(2), struck out subsec. (e) which authorized appropriations for fiscal years 1989 to 1992.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–573, title II, § 202(b), Oct. 29, 1992, 106 Stat. 4546, provided that: “The amendment made by subsection (a)(2) [amending this section] shall take effect January 1, 1993.”
+Pub. L. 102–573, title II, § 202(b), Oct. 29, 1992, 106 Stat. 4546, provided that: “The amendment made by subsection (a)(2) [amending this section] shall take effect January 1, 1993.”
 
-### § 1621b. Health promotion and disease prevention services
+### § 1621b. Health promotion and disease prevention services
 
 **(a) Authorization**
 
-The Secretary, acting through the Service, shall provide health promotion and disease prevention services to Indians so as to achieve the health status objectives set forth in section 1602(b) 1
+The Secretary, acting through the Service, shall provide health promotion and disease prevention services to Indians so as to achieve the health status objectives set forth in section 1602(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -2239,27 +2239,27 @@ of this title.
 
 **(4)** the resources which would be required to enable the Service to undertake the health promotion and disease prevention activities necessary to meet such needs.
 
-(Pub. L. 94–437, title II, § 203, as added Pub. L. 100–713, title II, § 203(c), Nov. 23, 1988, 102 Stat. 4805; amended Pub. L. 102–573, title II, § 203, Oct. 29, 1992, 106 Stat. 4546.)
+(Pub. L. 94–437, title II, § 203, as added Pub. L. 100–713, title II, § 203(c), Nov. 23, 1988, 102 Stat. 4805; amended Pub. L. 102–573, title II, § 203, Oct. 29, 1992, 106 Stat. 4546.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602 of this title, referred to in subsec. (a), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (b).
+Section 1602 of this title, referred to in subsec. (a), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (b).
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–573, § 203(1), inserted before period at end “so as to achieve the health status objectives set forth in section 1602(b) of this title”.
+1992—Subsec. (a). Pub. L. 102–573, § 203(1), inserted before period at end “so as to achieve the health status objectives set forth in section 1602(b) of this title”.
 
-Subsec. (b). Pub. L. 102–573, § 203(2), in introductory provisions, substituted “section 1671” for “section 1621(f)”.
+Subsec. (b). Pub. L. 102–573, § 203(2), in introductory provisions, substituted “section 1671” for “section 1621(f)”.
 
-Subsec. (c). Pub. L. 102–573, § 203(3), struck out subsec. (c) which directed establishment of between 1 and 4 health-related demonstration projects to terminate 30 months after Nov. 23, 1988.
+Subsec. (c). Pub. L. 102–573, § 203(3), struck out subsec. (c) which directed establishment of between 1 and 4 health-related demonstration projects to terminate 30 months after Nov. 23, 1988.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Congressional Findings on Health Promotion and Disease Prevention**
 
-Pub. L. 100–713, title II, § 203(a), Nov. 23, 1988, 102 Stat. 4804, provided that:
+Pub. L. 100–713, title II, § 203(a), Nov. 23, 1988, 102 Stat. 4804, provided that:
 
 > “The Congress finds that health promotion and disease prevention activities will—
 
@@ -2267,7 +2267,7 @@ Pub. L. 100–713, title II, § 203(a), Nov. 23, 1988, 102 Stat. 4804, provide
 
 > **“(2)** reduce the expenses for medical care of Indians.”
 
-### § 1621c. Diabetes prevention, treatment, and control
+### § 1621c. Diabetes prevention, treatment, and control
 
 **(a) Determinations regarding diabetes** The Secretary, acting through the Service, and in consultation with Indian tribes and tribal organizations, shall determine—
 
@@ -2281,9 +2281,9 @@ To the extent medically indicated and with informed consent, the Secretary shall
 
 **(c) Diabetes projects**
 
-The Secretary shall continue to maintain each model diabetes project in existence on March 23, 2010, any such other diabetes programs operated by the Service or tribal health programs, and any additional diabetes projects, such as the Medical Vanguard program provided for in title IV of Public Law 108–87, as implemented to serve Indian tribes. tribal 1
+The Secretary shall continue to maintain each model diabetes project in existence on March 23, 2010, any such other diabetes programs operated by the Service or tribal health programs, and any additional diabetes projects, such as the Medical Vanguard program provided for in title IV of Public Law 108–87, as implemented to serve Indian tribes. tribal 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 health programs shall receive recurring funding for the diabetes projects that they operate pursuant to this section, both at March 23, 2010, and for projects which are added and funded thereafter.
 
@@ -2311,11 +2311,11 @@ The Secretary may establish and maintain in each area office a position of diabe
 
 Any activity carried out by a diabetes control officer under subparagraph (A) that is the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 and any funds made available to carry out such an activity, shall not be divisible for purposes of that Act.
 
-(Pub. L. 94–437, title II, § 204, as added Pub. L. 100–713, title II, § 203(c), Nov. 23, 1988, 102 Stat. 4806; amended Pub. L. 102–573, title II, §§ 204, 217(b)(3), title IX, § 901(2), Oct. 29, 1992, 106 Stat. 4546, 4559, 4590; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 204, as added Pub. L. 100–713, title II, § 203(c), Nov. 23, 1988, 102 Stat. 4806; amended Pub. L. 102–573, title II, §§ 204, 217(b)(3), title IX, § 901(2), Oct. 29, 1992, 106 Stat. 4546, 4559, 4590; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -2323,7 +2323,7 @@ and any funds made available to carry out such an activity, shall not be divisib
 
 Public Law 108–87, referred to in subsec. (c), is Pub. L. 108–87, Sept. 30, 2003, 117 Stat. 1054, known as the Department of Defense Appropriations Act, 2004. Title IV of the Act (117 Stat. 1067) is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (e)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (e)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -2335,9 +2335,9 @@ Amendment by Pub. L. 111–148 is based on sections 101(c)(1) and 123 of title I
 
 Subsec. (c)(1). Pub. L. 111–148 struck out “through fiscal year 2000” before “each model diabetes project” in introductory provisions prior to general amendment of section. See above.
 
-1992—Subsec. (a). Pub. L. 102–573, § 901(2), redesignated par. (1) as entire subsec., redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, substituted “paragraph (1)” for “subparagraph (A)” in par. (2), and struck out former par. (2) which read as follows: “Within 18 months after November 23, 1988, the Secretary shall prepare and transmit to the President and the Congress a report describing the determinations made and measures taken under paragraph (1) and making recommendations for additional funding to prevent, treat, and control diabetes among Indians.”
+1992—Subsec. (a). Pub. L. 102–573, § 901(2), redesignated par. (1) as entire subsec., redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, substituted “paragraph (1)” for “subparagraph (A)” in par. (2), and struck out former par. (2) which read as follows: “Within 18 months after November 23, 1988, the Secretary shall prepare and transmit to the President and the Congress a report describing the determinations made and measures taken under paragraph (1) and making recommendations for additional funding to prevent, treat, and control diabetes among Indians.”
 
-Subsec. (c). Pub. L. 102–573, § 204(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+Subsec. (c). Pub. L. 102–573, § 204(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(1) The Secretary shall continue to maintain during fiscal years 1988 through 1991 each of the following model diabetes projects which are in existence on November 23, 1988:
 
@@ -2367,11 +2367,11 @@ Subsec. (c). Pub. L. 102–573, § 204(1), amended subsec. (c) generally. Prio
 
 “(E) the States of Alaska, California, Minnesota, Montana, Oregon, and Utah.”
 
-Subsec. (d)(4). Pub. L. 102–573, § 204(2), added par. (4).
+Subsec. (d)(4). Pub. L. 102–573, § 204(2), added par. (4).
 
-Subsec. (e). Pub. L. 102–573, § 217(b)(3), substituted “this section” for “subsection (c) of this section” and struck out at beginning “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.”
+Subsec. (e). Pub. L. 102–573, § 217(b)(3), substituted “this section” for “subsection (c) of this section” and struck out at beginning “There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.”
 
-### § 1621d. Other authority for provision of services
+### § 1621d. Other authority for provision of services
 
 **(a) Definitions** In this section:
 
@@ -2383,9 +2383,9 @@ Subsec. (e). Pub. L. 102–573, § 217(b)(3), substituted “this section” f
 
 **(2) Home- and community-based service**
 
-The term “home- and community-based service” means 1 or more of the services specified in paragraphs (1) through (9) of section 1396t(a) of title 42 (whether provided by the Service or by an Indian tribe or tribal organization pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) 1
+The term “home- and community-based service” means 1 or more of the services specified in paragraphs (1) through (9) of section 1396t(a) of title 42 (whether provided by the Service or by an Indian tribe or tribal organization pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 that are or will be provided in accordance with applicable standards.
 
@@ -2421,13 +2421,13 @@ The term “long-term care services” has the meaning given the term “qualifi
 
 The Secretary, acting through the Service, Indian tribes, and tribal organizations, may also provide funding under this chapter to meet the objectives set forth in section 1602 of this title for convenient care services programs pursuant to section 1637(c)(2)(A) of this title.
 
-(Pub. L. 94–437, title II, § 205, as added Pub. L. 102–573, title II, § 206(a), Oct. 29, 1992, 106 Stat. 4548; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 205, as added Pub. L. 102–573, title II, § 206(a), Oct. 29, 1992, 106 Stat. 4548; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This chapter, referred to in subsecs. (b) and (d), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
@@ -2437,13 +2437,13 @@ Amendment by Pub. L. 111–148 is based on section 124(a)(1) of title I of S. 17
 
 **Prior Provisions**
 
-A prior section 1621d, Pub. L. 94–437, title II, § 205, as added Pub. L. 100–713, title II, § 203(c), Nov. 23, 1988, 102 Stat. 4807, related to Native Hawaiian health promotion and disease prevention, prior to repeal by Pub. L. 100–579, § 14, formerly § 10, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, § 2310, Nov. 18, 1988, 102 Stat. 4229; renumbered § 14, Pub. L. 102–396, title IX, § 9168, Oct. 6, 1992, 106 Stat. 1948. See section 11701 et seq. of Title 42, The Public Health and Welfare.
+A prior section 1621d, Pub. L. 94–437, title II, § 205, as added Pub. L. 100–713, title II, § 203(c), Nov. 23, 1988, 102 Stat. 4807, related to Native Hawaiian health promotion and disease prevention, prior to repeal by Pub. L. 100–579, § 14, formerly § 10, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, § 2310, Nov. 18, 1988, 102 Stat. 4229; renumbered § 14, Pub. L. 102–396, title IX, § 9168, Oct. 6, 1992, 106 Stat. 1948. See section 11701 et seq. of Title 42, The Public Health and Welfare.
 
 **Amendments**
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to hospice care feasibility study.
 
-### § 1621e. Reimbursement from certain third parties of costs of health services
+### § 1621e. Reimbursement from certain third parties of costs of health services
 
 **(a) Right of recovery** Except as provided in subsection (f), the United States, an Indian tribe, or tribal organization shall have the right to recover from an insurance company, health maintenance organization, employee benefit plan, third-party tortfeasor, or any other responsible or liable third party (including a political subdivision or local governmental entity of a State) the reasonable charges billed by the Secretary, an Indian tribe, or tribal organization in providing health services through the Service, an Indian tribe, or tribal organization, or, if higher, the highest amount the third party would pay for care and services furnished by providers other than governmental entities, to any individual to the same extent that such individual, or any nongovernmental provider of such services, would be eligible to receive damages, reimbursement, or indemnification for such charges or expenses if—
 
@@ -2485,9 +2485,9 @@ All reasonable efforts shall be made to provide notice of action instituted unde
 
 **(A) In general**
 
-In any case in which an Indian tribe or tribal organization that is authorized or required under a compact or contract issued pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+In any case in which an Indian tribe or tribal organization that is authorized or required under a compact or contract issued pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to furnish or pay for health services to a person who is injured or suffers a disease on or after March 23, 2010, under circumstances that establish grounds for a claim of liability against the tortfeasor with respect to the injury or disease, the Indian tribe or tribal organization shall have a right to recover from the tortfeasor (or an insurer of the tortfeasor) the reasonable value of the health services so furnished, paid for, or to be paid for, in accordance with the Federal Medical Care Recovery Act (42 U.S.C. 2651 et seq.), to the same extent and under the same circumstances as the United States may recover under that Act.
 
@@ -2509,9 +2509,9 @@ An insurance company, health maintenance organization, self-insurance plan, mana
 
 **(i) Application to urban Indian organizations**
 
-The previous provisions of this section shall apply to urban Indian organizations with respect to populations served by such Organizations 1
+The previous provisions of this section shall apply to urban Indian organizations with respect to populations served by such Organizations 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 in the same manner they apply to Indian tribes and tribal organizations with respect to populations served by such Indian tribes and tribal organizations.
 
@@ -2523,17 +2523,17 @@ The provisions of section 2415 of title 28 shall apply to all actions commenced 
 
 Nothing in this section shall be construed to limit any right of recovery available to the United States, an Indian tribe, or tribal organization under the provisions of any applicable, Federal, State, or tribal law, including medical lien laws.
 
-(Pub. L. 94–437, title II, § 206, as added Pub. L. 100–713, title II, § 204, Nov. 23, 1988, 102 Stat. 4811; amended Pub. L. 102–573, title II, § 209, Oct. 29, 1992, 106 Stat. 4551; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 206, as added Pub. L. 100–713, title II, § 204, Nov. 23, 1988, 102 Stat. 4811; amended Pub. L. 102–573, title II, § 209, Oct. 29, 1992, 106 Stat. 4551; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (e)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (e)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Federal Medical Care Recovery Act, referred to in subsec. (e)(3)(A), probably means Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+The Federal Medical Care Recovery Act, referred to in subsec. (e)(3)(A), probably means Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -2543,19 +2543,19 @@ Amendment by Pub. L. 111–148 is based on section 125 of title I of S. 1790, On
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to right of recovery of costs of health services by the United States, an Indian tribe, or a tribal organization from certain third parties.
 
-1992—Subsec. (a). Pub. L. 102–573, § 209(b)(1), substituted “Except as provided in subsection (f) of this section, the” for “The”.
+1992—Subsec. (a). Pub. L. 102–573, § 209(b)(1), substituted “Except as provided in subsection (f) of this section, the” for “The”.
 
-Pub. L. 102–573, § 209(a)(1)–(3), inserted “, an Indian tribe, or a tribal organization” after “United States”, after “Service”, and after “Secretary”.
+Pub. L. 102–573, § 209(a)(1)–(3), inserted “, an Indian tribe, or a tribal organization” after “United States”, after “Service”, and after “Secretary”.
 
-Subsec. (b). Pub. L. 102–573, § 209(a)(4), struck out “, or any political subdivision of a State,” after “against any State”.
+Subsec. (b). Pub. L. 102–573, § 209(a)(4), struck out “, or any political subdivision of a State,” after “against any State”.
 
-Subsecs. (c), (d). Pub. L. 102–573, § 209(a)(1), inserted “, an Indian tribe, or a tribal organization” after “United States”.
+Subsecs. (c), (d). Pub. L. 102–573, § 209(a)(1), inserted “, an Indian tribe, or a tribal organization” after “United States”.
 
-Subsec. (e). Pub. L. 102–573, § 209(a)(1), (3), inserted “, an Indian tribe, or a tribal organization” after “United States” in two places and after “Secretary”.
+Subsec. (e). Pub. L. 102–573, § 209(a)(1), (3), inserted “, an Indian tribe, or a tribal organization” after “United States” in two places and after “Secretary”.
 
-Subsec. (f). Pub. L. 102–573, § 209(b)(2), added subsec. (f).
+Subsec. (f). Pub. L. 102–573, § 209(b)(2), added subsec. (f).
 
-### § 1621f. Crediting of reimbursements
+### § 1621f. Crediting of reimbursements
 
 **(a) Use of amounts**
 
@@ -2577,17 +2577,17 @@ Except as provided in sections 1621a(a)(2) and 1680c of this title, all reimburs
 
 The Service may not offset or limit any amount obligated to any Service Unit or entity receiving funding from the Service because of the receipt of reimbursements under subsection (a).
 
-(Pub. L. 94–437, title II, § 207, as added Pub. L. 100–713, title II, § 204, Nov. 23, 1988, 102 Stat. 4812; amended Pub. L. 102–573, title VII, § 701(c)(1), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 207, as added Pub. L. 100–713, title II, § 204, Nov. 23, 1988, 102 Stat. 4812; amended Pub. L. 102–573, title VII, § 701(c)(1), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (a)(2)(B), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-Public Law 87–693, referred to in subsec. (a)(2)(C), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, popularly known as the Federal Medical Care Recovery Act, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Public Law 87–693, referred to in subsec. (a)(2)(C), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, popularly known as the Federal Medical Care Recovery Act, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
@@ -2599,19 +2599,19 @@ Amendment by Pub. L. 111–148 is based on section 126 of title I of S. 1790, On
 
 1992—Subsec. (a). Pub. L. 102–573 made technical amendment to reference to section 1680c of this title to reflect renumbering of corresponding section of original act.
 
-### § 1621g. Health services research
+### § 1621g. Health services research
 
 Of the amounts appropriated for the Service in any fiscal year, other than amounts made available for the Indian Health Care Improvement Fund, not less than $200,000 shall be available only for research to further the performance of the health service responsibilities of the Service. Indian tribes and tribal organizations contracting with the Service under the authority of the Indian Self-Determination Act [25 U.S.C. 5321 et seq.] shall be given an equal opportunity to compete for, and receive, research funds under this section.
 
-(Pub. L. 94–437, title II, § 208, as added Pub. L. 100–713, title II, § 204, Nov. 23, 1988, 102 Stat. 4812.)
+(Pub. L. 94–437, title II, § 208, as added Pub. L. 100–713, title II, § 204, Nov. 23, 1988, 102 Stat. 4812.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 1621h. Mental health prevention and treatment services
+### § 1621h. Mental health prevention and treatment services
 
 **(a) National plan for Indian Mental Health Services**
 
@@ -2695,7 +2695,7 @@ The Secretary, acting through the Service, and the Secretary of the Interior, in
 
 The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
 
@@ -2823,19 +2823,19 @@ The Service shall develop methods for analyzing and evaluating the overall statu
 
 **(5)** The Secretary shall establish criteria for the review and approval of applications for grants made pursuant to this subsection.
 
-(Pub. L. 94–437, title II, § 209, as added Pub. L. 101–630, title V, § 503(b), Nov. 28, 1990, 104 Stat. 4557; amended Pub. L. 102–573, title II, §§ 205, 217(b)(4), title IX, § 902(3), Oct. 29, 1992, 106 Stat. 4547, 4559, 4591; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 209, as added Pub. L. 101–630, title V, § 503(b), Nov. 28, 1990, 104 Stat. 4557; amended Pub. L. 102–573, title II, §§ 205, 217(b)(4), title IX, § 902(3), Oct. 29, 1992, 106 Stat. 4547, 4559, 4591; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§ 2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§ 2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
 This chapter, referred to in subsecs. (b)(6)(A) and (*l*), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (*l*), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (k)(3) and (*l*), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -2847,35 +2847,35 @@ Amendment by Pub. L. 111–148 is based on sections 101(b)(2) and 127 of title I
 
 Subsec. (m)(6). Pub. L. 111–148 struck out par. (6) which authorized appropriations for fiscal years 1993 to 2000.
 
-1992—Pub. L. 102–573, § 902(3)(A), made technical amendment to section catchline.
+1992—Pub. L. 102–573, § 902(3)(A), made technical amendment to section catchline.
 
-Subsec. (b). Pub. L. 102–573, § 902(3)(B), redesignated subsec. (c) as (b). Prior to amendment, no subsec. (b) had been enacted.
+Subsec. (b). Pub. L. 102–573, § 902(3)(B), redesignated subsec. (c) as (b). Prior to amendment, no subsec. (b) had been enacted.
 
-Subsec. (c). Pub. L. 102–573, §§ 217(b)(4)(A), 902(3)(B), redesignated subsec. (d) as (c) and struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $1,000,000 for fiscal year 1992 to carry out this subsec. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 102–573, §§ 217(b)(4)(A), 902(3)(B), redesignated subsec. (d) as (c) and struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $1,000,000 for fiscal year 1992 to carry out this subsec. Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 102–573, §§ 217(b)(4)(A), (D), 902(3)(B), redesignated subsec. (e) as (d), substituted “this section” for “this subsection” in par. (3)(B), and struck out par. (6) which authorized appropriations of $500,000 for fiscal year 1991 and $5,000,000 for fiscal year 1992 to carry out this subsec., with certain amounts to be allocated for community education. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 102–573, §§ 217(b)(4)(A), (D), 902(3)(B), redesignated subsec. (e) as (d), substituted “this section” for “this subsection” in par. (3)(B), and struck out par. (6) which authorized appropriations of $500,000 for fiscal year 1991 and $5,000,000 for fiscal year 1992 to carry out this subsec., with certain amounts to be allocated for community education. Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 102–573, § 902(3)(B), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 102–573, § 902(3)(B), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 102–573, §§ 217(b)(4)(A), 902(3)(B), redesignated subsec. (g) as (f) and struck out par. (4) which appropriated $1,200,000 for fiscal year 1992 to carry out this subsec. Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 102–573, §§ 217(b)(4)(A), 902(3)(B), redesignated subsec. (g) as (f) and struck out par. (4) which appropriated $1,200,000 for fiscal year 1992 to carry out this subsec. Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 102–573, §§ 217(b)(4)(A), 902(3)(B), redesignated subsec. (h) as (g) and struck out par. (5) which authorized appropriation of $1,000,000 for fiscal year 1992 for purposes of providing training required under this subsec. Former subsec. (g) redesignated (f).
+Subsec. (g). Pub. L. 102–573, §§ 217(b)(4)(A), 902(3)(B), redesignated subsec. (h) as (g) and struck out par. (5) which authorized appropriation of $1,000,000 for fiscal year 1992 for purposes of providing training required under this subsec. Former subsec. (g) redesignated (f).
 
-Subsec. (h). Pub. L. 102–573, §§ 217(b)(4)(B), 902(3)(B), redesignated subsec. (i) as (h), struck out par. (1) designation before “The Secretary, acting”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, substituted “paragraph (1)” and “paragraph (2)” for “subparagraph (A)” and “subparagraph (B)”, respectively, in closing provisions, and struck out former par. (2) which authorized appropriation of $2,000,000 for fiscal year 1992 to carry out this subsec., to remain available until expended. Former subsec. (h) redesignated (g).
+Subsec. (h). Pub. L. 102–573, §§ 217(b)(4)(B), 902(3)(B), redesignated subsec. (i) as (h), struck out par. (1) designation before “The Secretary, acting”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, substituted “paragraph (1)” and “paragraph (2)” for “subparagraph (A)” and “subparagraph (B)”, respectively, in closing provisions, and struck out former par. (2) which authorized appropriation of $2,000,000 for fiscal year 1992 to carry out this subsec., to remain available until expended. Former subsec. (h) redesignated (g).
 
-Subsec. (i). Pub. L. 102–573, §§ 217(b)(4)(C), 902(3)(B), redesignated subsec. (j) as (i), struck out par. (1) designation before “Within one year”, and struck out par. (2) which authorized appropriation of $500,000 for fiscal year 1992 to make the assessment required by this subsec. Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 102–573, §§ 217(b)(4)(C), 902(3)(B), redesignated subsec. (j) as (i), struck out par. (1) designation before “Within one year”, and struck out par. (2) which authorized appropriation of $500,000 for fiscal year 1992 to make the assessment required by this subsec. Former subsec. (i) redesignated (h).
 
-Subsec. (j). Pub. L. 102–573, §§ 205(1), 902(3)(B), redesignated subsec. (k) as (j) and substituted “submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report” for “submit to the Congress an annual report”. Former subsec. (j) redesignated (i).
+Subsec. (j). Pub. L. 102–573, §§ 205(1), 902(3)(B), redesignated subsec. (k) as (j) and substituted “submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report” for “submit to the Congress an annual report”. Former subsec. (j) redesignated (i).
 
-Subsec. (k). Pub. L. 102–573, §§ 217(b)(4)(E), 902(3)(B), redesignated subsec. (*l*) as (k), and in par. (6) substituted “section” for “subsection” in second sentence and struck out first sentence which authorized appropriations of $2,000,000 for fiscal year 1991 and $3,000,000 for fiscal year 1992 to carry out purposes of this subsec. Former subsec. (k) redesignated (j).
+Subsec. (k). Pub. L. 102–573, §§ 217(b)(4)(E), 902(3)(B), redesignated subsec. (*l*) as (k), and in par. (6) substituted “section” for “subsection” in second sentence and struck out first sentence which authorized appropriations of $2,000,000 for fiscal year 1991 and $3,000,000 for fiscal year 1992 to carry out purposes of this subsec. Former subsec. (k) redesignated (j).
 
-Subsecs. (*l*), (m). Pub. L. 102–573, § 205(2), added subsecs. (*l*) and (m). Former subsec. (*l*) redesignated (k).
+Subsecs. (*l*), (m). Pub. L. 102–573, § 205(2), added subsecs. (*l*) and (m). Former subsec. (*l*) redesignated (k).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Statement of Purposes**
 
-Pub. L. 101–630, title V, § 503(a), Nov. 28, 1990, 104 Stat. 4556, provided that:
+Pub. L. 101–630, title V, § 503(a), Nov. 28, 1990, 104 Stat. 4556, provided that:
 
 > “The purposes of this section [enacting this section] are to—
 
@@ -2891,7 +2891,7 @@ Pub. L. 101–630, title V, § 503(a), Nov. 28, 1990, 104 Stat. 4556, provided
 
 > **“(6)** modify or supplement existing programs and authorities in the areas identified in paragraph (2).”
 
-### § 1621i. Managed care feasibility study
+### § 1621i. Managed care feasibility study
 
 **(a)** The Secretary, acting through the Service, shall conduct a study to assess the feasibility of allowing an Indian tribe to purchase, directly or through the Service, managed care coverage for all members of the tribe from—
 
@@ -2905,9 +2905,9 @@ Pub. L. 101–630, title V, § 503(a), Nov. 28, 1990, 104 Stat. 4556, provided
 
 **(2)** a discussion of the findings and conclusions of such study.
 
-(Pub. L. 94–437, title II, § 210, as added Pub. L. 102–573, title II, § 206(b), Oct. 29, 1992, 106 Stat. 4549.)
+(Pub. L. 94–437, title II, § 210, as added Pub. L. 102–573, title II, § 206(b), Oct. 29, 1992, 106 Stat. 4549.)
 
-### § 1621j. California contract health services demonstration program
+### § 1621j. California contract health services demonstration program
 
 **(a) Establishment**
 
@@ -2915,9 +2915,9 @@ The Secretary shall establish a demonstration program to evaluate the use of a c
 
 **(b) Agreement with California Rural Indian Health Board**
 
-**(1)** In establishing such program, the Secretary shall enter into an agreement with the California Rural Indian Health Board to reimburse the Board for costs (including reasonable administrative costs) incurred, during the period of the demonstration program, in providing medical treatment under contract to California Indians described in section 1679(b) 1
+**(1)** In establishing such program, the Secretary shall enter into an agreement with the California Rural Indian Health Board to reimburse the Board for costs (including reasonable administrative costs) incurred, during the period of the demonstration program, in providing medical treatment under contract to California Indians described in section 1679(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title throughout the California contract health services delivery area described in section 1680 of this title with respect to high-cost contract care cases.
 
@@ -2943,19 +2943,19 @@ The demonstration program described in this section shall begin on January 1, 19
 
 **(f) “High-cost contract care cases” defined** For the purposes of this section, the term “high-cost contract care cases” means those cases in which the cost of the medical treatment provided to an individual—
 
-**(1)** would otherwise be eligible for reimbursement from the Catastrophic Health Emergency Fund established under section 1621a of this title, except that the cost of such treatment does not meet the threshold cost requirement established pursuant to section 1621a(b)(2) <sup>1</sup> of this title; and
+**(1)** would otherwise be eligible for reimbursement from the Catastrophic Health Emergency Fund established under section 1621a of this title, except that the cost of such treatment does not meet the threshold cost requirement established pursuant to section 1621a(b)(2) <sup>1</sup> of this title; and
 
 **(2)** exceeds $1,000.
 
-(Pub. L. 94–437, title II, § 211, as added Pub. L. 102–573, title II, § 206(c), Oct. 29, 1992, 106 Stat. 4549; amended Pub. L. 104–313, § 2(c), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 211, as added Pub. L. 102–573, title II, § 206(c), Oct. 29, 1992, 106 Stat. 4549; amended Pub. L. 104–313, § 2(c), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1679 of this title, referred to in subsec. (b)(1), was repealed and a new section 1679 was enacted by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. Provisions describing California Indians, similar to those that appeared in former section 1679(b) are now contained in new section 1679(a).
+Section 1679 of this title, referred to in subsec. (b)(1), was repealed and a new section 1679 was enacted by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. Provisions describing California Indians, similar to those that appeared in former section 1679(b) are now contained in new section 1679(a).
 
-Section 1621a of this title, referred to in subsec. (f)(1), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (b)(2).
+Section 1621a of this title, referred to in subsec. (f)(1), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (b)(2).
 
 **Codification**
 
@@ -2973,17 +2973,17 @@ Amendment by Pub. L. 111–148 is based on section 101(b)(3) of title I of S. 17
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 1621k. Coverage of screening mammography
+### § 1621k. Coverage of screening mammography
 
 The Secretary, through the Service, shall provide for screening mammography (as defined in section 1861(jj) of the Social Security Act [42 U.S.C. 1395x(jj)]) for Indian and urban Indian women 35 years of age or older at a frequency, determined by the Secretary (in consultation with the Director of the National Cancer Institute), appropriate to such women, and under such terms and conditions as are consistent with standards established by the Secretary to assure the safety and accuracy of screening mammography under part B of title XVIII of the Social Security Act [42 U.S.C. 1395j et seq.] and other cancer screenings.
 
-(Pub. L. 94–437, title II, § 212, as added Pub. L. 102–573, title II, § 207(a), Oct. 29, 1992, 106 Stat. 4550; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 212, as added Pub. L. 102–573, title II, § 207(a), Oct. 29, 1992, 106 Stat. 4550; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -2993,7 +2993,7 @@ Amendment by Pub. L. 111–148 is based on section 128 of title I of S. 1790, On
 
 2010—Pub. L. 111–148 inserted “and other cancer screenings” before period at end.
 
-### § 1621l. Patient travel costs
+### § 1621l. Patient travel costs
 
 **(a) Definition of qualified escort** In this section, the term “qualified escort” means—
 
@@ -3003,9 +3003,9 @@ Amendment by Pub. L. 111–148 is based on section 128 of title I of S. 1790, On
 
 **(3)** other escorts, as the Secretary or applicable Indian Health Program determines to be appropriate.
 
-**(b) Provision of funds** The Secretary, acting through the Service and Tribal Health Programs, is authorized to provide funds for the following patient travel costs, including qualified escorts, associated with receiving health care services provided (either through direct or contract care or through a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) 1
+**(b) Provision of funds** The Secretary, acting through the Service and Tribal Health Programs, is authorized to provide funds for the following patient travel costs, including qualified escorts, associated with receiving health care services provided (either through direct or contract care or through a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 under this chapter—
 
@@ -3015,13 +3015,13 @@ under this chapter—
 
 **(3)** transportation by such other means as may be available and required when air or motor vehicle transportation is not available.
 
-(Pub. L. 94–437, title II, § 213, as added Pub. L. 102–573, title II, § 208, Oct. 29, 1992, 106 Stat. 4551; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 213, as added Pub. L. 102–573, title II, § 208, Oct. 29, 1992, 106 Stat. 4551; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
@@ -3035,7 +3035,7 @@ Amendment by Pub. L. 111–148 is based on sections 101(c)(2) and 129 of title I
 
 Pub. L. 111–148 substituted “The Secretary” for “(a) The Secretary” prior to general amendment of section. See above.
 
-### § 1621m. Epidemiology centers
+### § 1621m. Epidemiology centers
 
 **(a) Establishment of centers**
 
@@ -3057,7 +3057,7 @@ Funding provided in a grant described in subparagraph (A) shall not be divisible
 
 An epidemiology center established under this subsection shall be subject to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 but the funds for the center shall not be divisible.
 
@@ -3127,13 +3127,13 @@ The Secretary shall grant to each epidemiology center described in paragraph (1)
 
 The activities of an epidemiology center described in paragraph (1) shall be for the purposes of research and for preventing and controlling disease, injury, or disability (as those activities are described in section 164.512 of title 45, Code of Federal Regulations (or a successor regulation)), for purposes of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 1936).
 
-(Pub. L. 94–437, title II, § 214, as added Pub. L. 102–573, title II, § 210, Oct. 29, 1992, 106 Stat. 4551; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 214, as added Pub. L. 102–573, title II, § 210, Oct. 29, 1992, 106 Stat. 4551; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(1), (3), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
 
@@ -3145,7 +3145,7 @@ Amendment by Pub. L. 111–148 is based on section 130 of title I of S. 1790, On
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to establishment and functions of epidemiology centers.
 
-### § 1621n. Comprehensive school health education programs
+### § 1621n. Comprehensive school health education programs
 
 **(a) Award of grants**
 
@@ -3227,9 +3227,9 @@ The Secretary shall establish criteria for the review and approval of applicatio
 
 There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
-(Pub. L. 94–437, title II, § 215, as added Pub. L. 102–573, title II, § 211, Oct. 29, 1992, 106 Stat. 4553.)
+(Pub. L. 94–437, title II, § 215, as added Pub. L. 102–573, title II, § 211, Oct. 29, 1992, 106 Stat. 4553.)
 
-### § 1621o. Indian youth grant program
+### § 1621o. Indian youth grant program
 
 **(a) Grants**
 
@@ -3257,7 +3257,7 @@ The Secretary, acting through the Service, is authorized to make grants to India
 
 The Secretary shall establish criteria for the review and approval of applications under this section.
 
-(Pub. L. 94–437, title II, § 216, as added Pub. L. 102–573, title II, § 212, Oct. 29, 1992, 106 Stat. 4554; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 216, as added Pub. L. 102–573, title II, § 212, Oct. 29, 1992, 106 Stat. 4554; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -3271,7 +3271,7 @@ Amendment by Pub. L. 111–148 is based on sections 101(b)(4) and 131 of title I
 
 Subsec. (e). Pub. L. 111–148 struck out subsec. (e) which authorized appropriations for fiscal years 1993 to 2000.
 
-### § 1621p. American Indians Into Psychology Program
+### § 1621p. American Indians Into Psychology Program
 
 **(a) Grants authorized**
 
@@ -3279,11 +3279,11 @@ The Secretary, acting through the Service, shall make grants of not more than $3
 
 **(b) Quentin N. Burdick program grant**
 
-The Secretary shall provide a grant authorized under subsection (a) to develop and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Psychology Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian health programs authorized under section 1616j(b) 1
+The Secretary shall provide a grant authorized under subsection (a) to develop and maintain a program at the University of North Dakota to be known as the “Quentin N. Burdick American Indians Into Psychology Program”. Such program shall, to the maximum extent feasible, coordinate with the Quentin N. Burdick Indian health programs authorized under section 1616j(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title, the Quentin N. Burdick American Indians Into Nursing Program authorized under section 1616h(e) 1 of this title, and existing university research and communications networks.
+of this title, the Quentin N. Burdick American Indians Into Nursing Program authorized under section 1616h(e) 1 of this title, and existing university research and communications networks.
 
 **(c) Regulations**
 
@@ -3317,7 +3317,7 @@ The Secretary shall issue regulations pursuant to this chapter for the competiti
 
 There is authorized to be appropriated to carry out this section $2,700,000 for fiscal year 2010 and each fiscal year thereafter.
 
-(Pub. L. 94–437, title II, § 217, as added Pub. L. 102–573, title II, § 213, Oct. 29, 1992, 106 Stat. 4555; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 217, as added Pub. L. 102–573, title II, § 213, Oct. 29, 1992, 106 Stat. 4555; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -3337,7 +3337,7 @@ Amendment by Pub. L. 111–148 is based on section 132 of title I of S. 1790, On
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section authorized Secretary to provide grants to at least 3 colleges and universities for purpose of developing and maintaining American Indian psychology career recruitment programs to encourage Indians to enter mental health field.
 
-### § 1621q. Prevention, control, and elimination of communicable and infectious diseases
+### § 1621q. Prevention, control, and elimination of communicable and infectious diseases
 
 **(a) Grants authorized** The Secretary, acting through the Service, and after consultation with the Centers for Disease Control and Prevention, may make grants available to Indian tribes and tribal organizations for the following:
 
@@ -3363,7 +3363,7 @@ Indian tribes and tribal organizations receiving funding under this section are 
 
 **(2)** shall prepare and submit a report to Congress biennially on the use of funds under this section and on the progress made toward the prevention, control, and elimination of communicable and infectious diseases among Indians and urban Indians.
 
-(Pub. L. 94–437, title II, § 218, as added Pub. L. 102–573, title II, § 214, Oct. 29, 1992, 106 Stat. 4556; amended Pub. L. 103–437, § 10(e)(1), (2)(B), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 218, as added Pub. L. 102–573, title II, § 214, Oct. 29, 1992, 106 Stat. 4556; amended Pub. L. 103–437, § 10(e)(1), (2)(B), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -3381,13 +3381,13 @@ Amendment by Pub. L. 111–148 is based on section 133 of title I of S. 1790, On
 
 **Coverage of Testing for COVID–19 at No Cost Sharing for Indians Receiving Purchased/Referred Care**
 
-Pub. L. 116–127, div. F, § 6007, Mar. 18, 2020, 134 Stat. 208, provided that: “The Secretary of Health and Human Services shall cover, without the imposition of any cost sharing requirements, the cost of providing any COVID–19 related items and services as described in paragraph (1) of section 6001(a) [of Pub. L. 116–127, 42 U.S.C. 1320b–5 note] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 320b–5(g) [1320b–5(g)]) beginning on or after the date of the enactment of this Act [Mar. 18, 2020] to Indians (as defined in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603)) receiving health services through the Indian Health Service, including through an Urban Indian Organization, regardless of whether such items or services have been authorized under the purchased/referred care system funded by the Indian Health Service or is covered as a health service of the Indian Health Service.”
+Pub. L. 116–127, div. F, § 6007, Mar. 18, 2020, 134 Stat. 208, provided that: “The Secretary of Health and Human Services shall cover, without the imposition of any cost sharing requirements, the cost of providing any COVID–19 related items and services as described in paragraph (1) of section 6001(a) [of Pub. L. 116–127, 42 U.S.C. 1320b–5 note] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 320b–5(g) [1320b–5(g)]) beginning on or after the date of the enactment of this Act [Mar. 18, 2020] to Indians (as defined in section 4 of the Indian Health Care Improvement Act (25 U.S.C. 1603)) receiving health services through the Indian Health Service, including through an Urban Indian Organization, regardless of whether such items or services have been authorized under the purchased/referred care system funded by the Indian Health Service or is covered as a health service of the Indian Health Service.”
 
-### § 1621r. Contract health services payment study
+### § 1621r. Contract health services payment study
 
-**(a) Duty of Secretary** The Secretary, acting through the Service and in consultation with representatives of Indian tribes and tribal organizations operating contract health care programs under the Indian Self-Determination Act (25 U.S.C. 450f et seq.) 1
+**(a) Duty of Secretary** The Secretary, acting through the Service and in consultation with representatives of Indian tribes and tribal organizations operating contract health care programs under the Indian Self-Determination Act (25 U.S.C. 450f et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or under self-governance compacts, Service personnel, private contract health services providers, the Indian Health Service Fiscal Intermediary, and other appropriate experts, shall conduct a study—
 
@@ -3415,15 +3415,15 @@ or under self-governance compacts, Service personnel, private contract health se
 
 **(2)** a discussion of the findings and conclusions of such study.
 
-(Pub. L. 94–437, title II, § 219, as added Pub. L. 102–573, title II, § 215, Oct. 29, 1992, 106 Stat. 4557.)
+(Pub. L. 94–437, title II, § 219, as added Pub. L. 102–573, title II, § 215, Oct. 29, 1992, 106 Stat. 4557.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act (25 U.S.C. 450f et seq.), referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act (25 U.S.C. 450f et seq.), referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§ 450f et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 1621s. Prompt action on payment of claims
+### § 1621s. Prompt action on payment of claims
 
 **(a) Time of response**
 
@@ -3437,21 +3437,21 @@ If the Service fails to respond to a notification of a claim in accordance with 
 
 The Service shall pay a completed contract care service claim within 30 days after completion of the claim.
 
-(Pub. L. 94–437, title II, § 220, as added Pub. L. 102–573, title II, § 215, Oct. 29, 1992, 106 Stat. 4558.)
+(Pub. L. 94–437, title II, § 220, as added Pub. L. 102–573, title II, § 215, Oct. 29, 1992, 106 Stat. 4558.)
 
-### § 1621t. Licensing
+### § 1621t. Licensing
 
 Licensed health professionals employed by a tribal health program shall be exempt, if licensed in any State, from the licensing requirements of the State in which the tribal health program performs the services described in the contract or compact of the tribal health program under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 94–437, title II, § 221, as added Pub. L. 102–573, title II, § 215, Oct. 29, 1992, 106 Stat. 4559; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 221, as added Pub. L. 102–573, title II, § 215, Oct. 29, 1992, 106 Stat. 4559; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -3461,7 +3461,7 @@ Amendment by Pub. L. 111–148 is based on section 134(a) of title I of S. 1790,
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to demonstration of electronic claims processing.
 
-### § 1621u. Liability for payment
+### § 1621u. Liability for payment
 
 **(a) No patient liability**
 
@@ -3475,7 +3475,7 @@ The Secretary shall notify a contract care provider and any patient who receives
 
 Following receipt of the notice provided under subsection (b), or, if a claim has been deemed accepted under section 1621s(b) of this title, the provider shall have no further recourse against the patient who received the services.
 
-(Pub. L. 94–437, title II, § 222, as added Pub. L. 102–573, title II, § 215, Oct. 29, 1992, 106 Stat. 4559; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 222, as added Pub. L. 102–573, title II, § 215, Oct. 29, 1992, 106 Stat. 4559; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -3491,7 +3491,7 @@ Amendment by Pub. L. 111–148 is based on section 135 of title I of S. 1790, On
 
 **Rule of Construction**
 
-Pub. L. 116–260, div. BB, title I, § 102(d)(3), Dec. 27, 2020, 134 Stat. 2797, provided that:
+Pub. L. 116–260, div. BB, title I, § 102(d)(3), Dec. 27, 2020, 134 Stat. 2797, provided that:
 
 > “Nothing in this title [probably means “this section”, enacting sections 9816 and 9822 of Title 26, Internal Revenue Code, sections 1185e and 1185k of Title 29, Labor, and sections 300gg–111 and 300gg–117 of Title 42, The Public Health and Welfare, amending section 8902 of Title 5, Government Organization and Employees, section 223 of Title 26, and sections 300gg–19a, 300gg–21, 300gg–22, 300gg–23, and 18011 of Title 42, and enacting provisions set out as notes under section 8902 of Title 5 and section 223 of Title 26], including the amendments made by this title [probably means “this section”] may be construed as modifying, reducing, or eliminating—
 
@@ -3499,7 +3499,7 @@ Pub. L. 116–260, div. BB, title I, § 102(d)(3), Dec. 27, 2020, 134 Stat. 27
 
 > **“(B)** the requirements under section 1866(a)(1)(U) of the Social Security Act (42 U.S.C. 1395cc(a)(1)(U)).”
 
-### § 1621v. Offices of Indian Men’s Health and Indian Women’s Health
+### § 1621v. Offices of Indian Men’s Health and Indian Women’s Health
 
 **(a) Office of Indian Men’s Health**
 
@@ -3527,7 +3527,7 @@ The director shall coordinate and promote the health status of Indian men in the
 
 The Secretary, acting through the Service, shall establish an office, to be known as the “Office of Indian Women’s Health”, to monitor and improve the quality of health care for Indian women (including urban Indian women) of all ages through the planning and delivery of programs administered by the Service, in order to improve and enhance the treatment models of care for Indian women.
 
-(Pub. L. 94–437, title II, § 223, as added Pub. L. 102–573, title II, § 216, Oct. 29, 1992, 106 Stat. 4559; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 223, as added Pub. L. 102–573, title II, § 216, Oct. 29, 1992, 106 Stat. 4559; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -3539,23 +3539,23 @@ Amendment by Pub. L. 111–148 is based on section 136 of title I of S. 1790, On
 
 2010—Pub. L. 111–148 substituted “Offices of Indian Men’s Health and Indian Women’s Health” for “Office of Indian Women’s Health Care” in section catchline, added subsec. (a), designated existing provisions as subsec. (b), inserted subsec. (b) heading, substituted “The Secretary, acting through the Service, shall establish an office, to be known as the ‘Office of Indian Women’s Health’, to” for “There is established within the Service an Office of Indian Women’s Health Care to oversee efforts of the Service to”, and inserted “(including urban Indian women)” before “of all ages”.
 
-### § 1621w. Repealed. Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935
+### § 1621w. Repealed. Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935
 
-Section, Pub. L. 94–437, title II, § 224, as added Pub. L. 102–573, title II, § 217(a), Oct. 29, 1992, 106 Stat. 4559, authorized appropriations to carry out this subchapter through fiscal year 2000.
+Section, Pub. L. 94–437, title II, § 224, as added Pub. L. 102–573, title II, § 217(a), Oct. 29, 1992, 106 Stat. 4559, authorized appropriations to carry out this subchapter through fiscal year 2000.
 
 The repeal is based on section 101(b)(5) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1621x. Limitation on use of funds
+### § 1621x. Limitation on use of funds
 
 Amounts appropriated to carry out this subchapter may not be used in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 [42 U.S.C. 14401 et seq.].
 
-(Pub. L. 94–437, title II, § 225, as added Pub. L. 105–12, § 9(f), Apr. 30, 1997, 111 Stat. 27.)
+(Pub. L. 94–437, title II, § 225, as added Pub. L. 105–12, § 9(f), Apr. 30, 1997, 111 Stat. 27.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in text, is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in text, is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3563,7 +3563,7 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in text, is Pu
 
 Section effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as a note under section 14401 of Title 42, The Public Health and Welfare.
 
-### § 1621y. Contract health service administration and disbursement formula
+### § 1621y. Contract health service administration and disbursement formula
 
 **(a) Submission of report**
 
@@ -3583,7 +3583,7 @@ As soon as practicable after March 23, 2010, the Comptroller General of the Unit
 
 If, after consultation with Indian tribes under subsection (b), the Secretary determines that any issue described in subsection (b)(2) exists, the Secretary may initiate procedures under subchapter III of chapter 5 of title 5 to negotiate or promulgate regulations to establish a disbursement formula for the contract health service program funding.
 
-(Pub. L. 94–437, title II, § 226, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, § 226, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -3591,15 +3591,15 @@ If, after consultation with Indian tribes under subsection (b), the Secretary de
 
 Section 226 of Pub. L. 94–437 is based on section 137 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1622. Transferred
+### § 1622. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 94–437, title IV, § 404, as added Pub. L. 96–537, § 6, Dec. 17, 1980, 94 Stat. 3176, which related to grants to and contracts with tribal organizations, was transferred to section 1644 of this title.
+Section, Pub. L. 94–437, title IV, § 404, as added Pub. L. 96–537, § 6, Dec. 17, 1980, 94 Stat. 3176, which related to grants to and contracts with tribal organizations, was transferred to section 1644 of this title.
 
-### § 1623. Special rules relating to Indians
+### § 1623. Special rules relating to Indians
 
 **(a) No Cost-sharing for Indians with income at or below 300 percent of poverty enrolled in coverage through a State Exchange**
 
@@ -3609,7 +3609,7 @@ For provisions prohibiting cost sharing for Indians enrolled in any qualified he
 
 Health programs operated by the Indian Health Service, Indian tribes, tribal organizations, and Urban Indian organizations (as those terms are defined in section 1603 of this title) shall be the payer of last resort for services provided by such Service, tribes, or organizations to individuals eligible for services through such programs, notwithstanding any Federal, State, or local law to the contrary.
 
-(Pub. L. 111–148, title II, § 2901(a), (b), Mar. 23, 2010, 124 Stat. 333.)
+(Pub. L. 111–148, title II, § 2901(a), (b), Mar. 23, 2010, 124 Stat. 333.)
 
 **Editorial Notes**
 
@@ -3621,7 +3621,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 ## SUBCHAPTER III—HEALTH FACILITIES
 
-### § 1631. Consultation; closure of facilities; reports
+### § 1631. Consultation; closure of facilities; reports
 
 **(a) Consultation; standards for accreditation** Prior to the expenditure of, or the making of any firm commitment to expend, any funds appropriated for the planning, design, construction, or renovation of facilities pursuant to section 13 of this title, the Secretary, acting through the Service, shall—
 
@@ -3671,9 +3671,9 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 **(B) Needs of facilities under ISDEAA agreements**
 
-The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities operated under contracts or compacts in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities operated under contracts or compacts in accordance with the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 are fully and equitably integrated into the health care facility priority system.
 
@@ -3781,7 +3781,7 @@ Not later than 1 year after March 23, 2010, the Secretary shall submit to the Co
 
 **(e) Funding condition**
 
-All funds appropriated under section 13 of this title, for the planning, design, construction, or renovation of health facilities for the benefit of 1 or more Indian Tribes shall be subject to the provisions of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f) <sup>1</sup> or sections 504 and 505 of that Act (25 U.S.C. 458aaa–3, 458aaa–4).<sup>1</sup>
+All funds appropriated under section 13 of this title, for the planning, design, construction, or renovation of health facilities for the benefit of 1 or more Indian Tribes shall be subject to the provisions of section 102 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f) <sup>1</sup> or sections 504 and 505 of that Act (25 U.S.C. 458aaa–3, 458aaa–4).<sup>1</sup>
 
 **(f) Development of innovative approaches** The Secretary shall consult and cooperate with Indian tribes and tribal organizations, and confer with urban Indian organizations, in developing innovative approaches to address all or part of the total unmet need for construction of health facilities, that may include—
 
@@ -3791,11 +3791,11 @@ All funds appropriated under section 13 of this title, for the planning, design,
 
 **(3)** other approaches, as the Secretary determines to be appropriate.
 
-**(h) 2 [footnote: 2 So in original. Subsec. (g) is set out below.] Funds appropriated subject to section 5321 of this title**
+**(h) 2 [footnote: 2 So in original. Subsec. (g) is set out below.] Funds appropriated subject to section 5321 of this title**
 
 All funds appropriated under section 13 of this title for the planning, design, construction, or renovation of health facilities for the benefit of an Indian tribe or tribes shall be subject to the provisions of section 102 of the Indian Self-Determination Act [25 U.S.C. 5321].
 
-**(g) 3 [footnote: 3 So in original. Subsec. (h) is set out above.] Priority of certain projects protected** The priority of any project established under the construction priority system in effect on March 23, 2010, shall not be affected by any change in the construction priority system taking place after that date if the project—
+**(g) 3 [footnote: 3 So in original. Subsec. (h) is set out above.] Priority of certain projects protected** The priority of any project established under the construction priority system in effect on March 23, 2010, shall not be affected by any change in the construction priority system taking place after that date if the project—
 
 **(1)** was identified in the fiscal year 2008 Service budget justification as—
 
@@ -3809,9 +3809,9 @@ All funds appropriated under section 13 of this title for the planning, design, 
 
 **(2)** had completed both Phase I and Phase II of the construction priority system in effect on March 23, 2010; or
 
-**(3)** is not included in clause (i) or (ii) 4
+**(3)** is not included in clause (i) or (ii) 4
 
-<sup>4</sup>  So in original. Probably should be “paragraph (1) or (2)”.
+<sup>4</sup> So in original. Probably should be “paragraph (1) or (2)”.
 
 and is selected, as determined by the Secretary—
 
@@ -3819,13 +3819,13 @@ and is selected, as determined by the Secretary—
 
 **(B)** pursuant to a request of an Indian tribe or tribal organization.
 
-(Pub. L. 94–437, title III, § 301, Sept. 30, 1976, 90 Stat. 1406; Pub. L. 100–713, title III, § 301, Nov. 23, 1988, 102 Stat. 4812; Pub. L. 102–573, title III, § 301, title IX, § 902(4)(B), Oct. 29, 1992, 106 Stat. 4560, 4591; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title III, § 301, Sept. 30, 1976, 90 Stat. 1406; Pub. L. 100–713, title III, § 301, Nov. 23, 1988, 102 Stat. 4812; Pub. L. 102–573, title III, § 301, title IX, § 902(4)(B), Oct. 29, 1992, 106 Stat. 4560, 4591; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (c)(1)(B), (C), (e), and (h), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Sections 102, 504, and 505 of the Act were classified to sections 450f, 458aaa–3, and 458aaa–4 of this title prior to editorial reclassification as sections 5321, 5384, and 5385, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (c)(1)(B), (C), (e), and (h), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Sections 102, 504, and 505 of the Act were classified to sections 450f, 458aaa–3, and 458aaa–4 of this title prior to editorial reclassification as sections 5321, 5384, and 5385, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -3835,25 +3835,25 @@ Amendment by Pub. L. 111–148 is based on sections 141 and 142 of title I of S.
 
 2010—Pub. L. 111–148 added subsecs. (c) to (f), redesignated former subsec. (d) as (h), added subsec. (g) at end, and struck out former subsec. (c) which related to annual report on health facility priority system.
 
-1992—Subsec. (a)(2). Pub. L. 102–573, § 301(1), substituted “Health Care Organizations” for “Hospitals”.
+1992—Subsec. (a)(2). Pub. L. 102–573, § 301(1), substituted “Health Care Organizations” for “Hospitals”.
 
-Subsec. (b)(1). Pub. L. 102–573, § 301(2), struck out “other” before “outpatient health care facility” in introductory provisions and added subpars. (F) and (G).
+Subsec. (b)(1). Pub. L. 102–573, § 301(2), struck out “other” before “outpatient health care facility” in introductory provisions and added subpars. (F) and (G).
 
-Subsec. (c). Pub. L. 102–573, § 301(3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The President shall include with the budget submitted under section 1105 of title 31, for each of the fiscal years 1990, 1991, and 1992, program information documents for the construction of 10 Indian health facilities which—
+Subsec. (c). Pub. L. 102–573, § 301(3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The President shall include with the budget submitted under section 1105 of title 31, for each of the fiscal years 1990, 1991, and 1992, program information documents for the construction of 10 Indian health facilities which—
 
 “(1) comply with applicable construction standards, and
 
 “(2) have been approved by the Secretary.”
 
-Subsec. (c)(1). Pub. L. 102–573, § 301(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall submit to the Congress an annual report which sets forth—”.
+Subsec. (c)(1). Pub. L. 102–573, § 301(4), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall submit to the Congress an annual report which sets forth—”.
 
-Subsec. (c)(2) to (5). Pub. L. 102–573, § 301(5), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
+Subsec. (c)(2) to (5). Pub. L. 102–573, § 301(5), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
 
-Subsecs. (d), (e). Pub. L. 102–573, §§ 301(3), 902(4)(B), redesignated subsec. (e) as (d) and substituted “section 102 of the Indian Self-Determination Act” for “sections 102 and 103(b) of the Indian Self-Determination Act”. Former subsec. (d) redesignated (c).
+Subsecs. (d), (e). Pub. L. 102–573, §§ 301(3), 902(4)(B), redesignated subsec. (e) as (d) and substituted “section 102 of the Indian Self-Determination Act” for “sections 102 and 103(b) of the Indian Self-Determination Act”. Former subsec. (d) redesignated (c).
 
 1988—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (e) relating to consultation, closure of facilities, and reports for former subsecs. (a) to (c) relating to construction and renovation of Service facilities.
 
-### § 1632. Safe water and sanitary waste disposal facilities
+### § 1632. Safe water and sanitary waste disposal facilities
 
 **(a) Congressional findings** The Congress hereby finds and declares that—
 
@@ -3953,7 +3953,7 @@ on an equal basis with programs that are administered directly by the Service.
 
 **(5)** For purposes of this subsection, any Indian tribe or community that lacks the operation and maintenance capability to enable its sanitation system to meet pollution control laws may not be treated as having a level I or II sanitation deficiency.
 
-(Pub. L. 94–437, title III, § 302, Sept. 30, 1976, 90 Stat. 1407; Pub. L. 100–713, title III, § 302, Nov. 23, 1988, 102 Stat. 4814; Pub. L. 102–573, title III, §§ 302, 307(b)(1), Oct. 29, 1992, 106 Stat. 4560, 4564.)
+(Pub. L. 94–437, title III, § 302, Sept. 30, 1976, 90 Stat. 1407; Pub. L. 100–713, title III, § 302, Nov. 23, 1988, 102 Stat. 4814; Pub. L. 102–573, title III, §§ 302, 307(b)(1), Oct. 29, 1992, 106 Stat. 4560, 4564.)
 
 **Editorial Notes**
 
@@ -3961,23 +3961,23 @@ on an equal basis with programs that are administered directly by the Service.
 
 The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
-The Indian Self-Determination Act, referred to in subsecs. (f) and (g)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (f) and (g)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-1992—Subsec. (e). Pub. L. 102–573, § 302(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this section shall not diminish the primary responsibility of the Indian family, community, or tribe to establish, collect, and utilize reasonable user fees, or otherwise set aside funding, for the purpose of operating and maintaining sanitation facilities.”
+1992—Subsec. (e). Pub. L. 102–573, § 302(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this section shall not diminish the primary responsibility of the Indian family, community, or tribe to establish, collect, and utilize reasonable user fees, or otherwise set aside funding, for the purpose of operating and maintaining sanitation facilities.”
 
-Subsec. (f)(1). Pub. L. 102–573, § 302(2), substituted “this section” for “subsection (h)”.
+Subsec. (f)(1). Pub. L. 102–573, § 302(2), substituted “this section” for “subsection (h)”.
 
-Subsec. (g)(1). Pub. L. 102–573, § 302(3)(A), substituted “The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report” for “The Secretary shall submit to the Congress an annual report”.
+Subsec. (g)(1). Pub. L. 102–573, § 302(3)(A), substituted “The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report” for “The Secretary shall submit to the Congress an annual report”.
 
-Subsec. (g)(2) to (6). Pub. L. 102–573, § 302(3)(B), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
+Subsec. (g)(2) to (6). Pub. L. 102–573, § 302(3)(B), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
 
-Subsec. (h). Pub. L. 102–573, § 307(b)(1), struck out subsec. (h) which authorized appropriations to carry out subsec. (b)(2) for fiscal years 1990 to 1992.
+Subsec. (h). Pub. L. 102–573, § 307(b)(1), struck out subsec. (h) which authorized appropriations to carry out subsec. (b)(2) for fiscal years 1990 to 1992.
 
 1988—Pub. L. 100–713 amended section generally, substituting subsecs. (a) to (h) relating to safe water and sanitary waste disposal facilities for former subsecs. (a) to (c) relating to construction of safe water and sanitary waste disposal facilities.
 
-### § 1633. Preferences to Indians and Indian firms
+### § 1633. Preferences to Indians and Indian firms
 
 **(a) Discretionary authority; covered activities**
 
@@ -3987,15 +3987,15 @@ The Secretary, acting through the Service, may utilize the negotiating authority
 
 For the purpose of implementing the provisions of this subchapter, the Secretary shall assure that the rates of pay for personnel engaged in the construction or renovation of facilities constructed or renovated in whole or in part by funds made available pursuant to this subchapter are not less than the prevailing local wage rates for similar work as determined in accordance with sections 3141–3144, 3146, and 3147 of title 40.
 
-(Pub. L. 94–437, title III, § 303, Sept. 30, 1976, 90 Stat. 1407.)
+(Pub. L. 94–437, title III, § 303, Sept. 30, 1976, 90 Stat. 1407.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b) for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b) for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-### § 1634. Expenditure of non-Service funds for renovation
+### § 1634. Expenditure of non-Service funds for renovation
 
 **(a) Authority of Secretary**
 
@@ -4029,13 +4029,13 @@ but only if the requirements of subsection (b) are met.
 
 If any Service facility which has been renovated or modernized by an Indian tribe under this section ceases to be used as a Service facility during the 20-year period beginning on the date such renovation or modernization is completed, such Indian tribe shall be entitled to recover from the United States an amount which bears the same ratio to the value of such facility at the time of such cessation as the value of such renovation or modernization (less the total amount of any funds provided specifically for such facility under any Federal program that were expended for such renovation or modernization) bore to the value of such facility at the time of the completion of such renovation or modernization.
 
-(Pub. L. 94–437, title III, § 305, as added Pub. L. 96–537, § 5, Dec. 17, 1980, 94 Stat. 3175; amended Pub. L. 100–713, title III, § 303(a), Nov. 23, 1988, 102 Stat. 4816; Pub. L. 102–573, title III, § 305, Oct. 29, 1992, 106 Stat. 4563.)
+(Pub. L. 94–437, title III, § 305, as added Pub. L. 96–537, § 5, Dec. 17, 1980, 94 Stat. 3175; amended Pub. L. 100–713, title III, § 303(a), Nov. 23, 1988, 102 Stat. 4816; Pub. L. 102–573, title III, § 305, Oct. 29, 1992, 106 Stat. 4563.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (a)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
@@ -4043,11 +4043,11 @@ The Indian Self-Determination Act, referred to in subsec. (a)(1), is title I of 
 
 1988—Pub. L. 100–713 amended section generally, substituting “Expenditure of non-Service funds for renovation” for “Authorization of appropriations” in section catchline and subsecs. (a) to (d) for former single unlettered par.
 
-### § 1635. Repealed. Pub. L. 100–713, title III, § 303(b), Nov. 23, 1988, 102 Stat. 4817
+### § 1635. Repealed. Pub. L. 100–713, title III, § 303(b), Nov. 23, 1988, 102 Stat. 4817
 
-Section, Pub. L. 98–473, title I, § 101(c) [title II, § 201], Oct. 12, 1984, 98 Stat. 1837, 1865, related to renovation and modernization of facilities.
+Section, Pub. L. 98–473, title I, § 101(c) [title II, § 201], Oct. 12, 1984, 98 Stat. 1837, 1865, related to renovation and modernization of facilities.
 
-### § 1636. Grant program for construction, expansion, and modernization of small ambulatory care facilities
+### § 1636. Grant program for construction, expansion, and modernization of small ambulatory care facilities
 
 **(a) Authorization**
 
@@ -4093,35 +4093,35 @@ Section, Pub. L. 98–473, title I, § 101(c) [title II, § 201], Oct. 12, 1
 
 If any facility (or portion thereof) with respect to which funds have been paid under this section, ceases, at any time after completion of the construction, expansion, or modernization carried out with such funds, to be utilized for the purposes of providing ambulatory care services to eligible Indians, all of the right, title, and interest in and to such facility (or portion thereof) shall transfer to the United States.
 
-(Pub. L. 94–437, title III, § 306, as added Pub. L. 100–713, title III, § 304, Nov. 23, 1988, 102 Stat. 4817; amended Pub. L. 102–573, title III, § 303, Oct. 29, 1992, 106 Stat. 4561.)
+(Pub. L. 94–437, title III, § 306, as added Pub. L. 100–713, title III, § 304, Nov. 23, 1988, 102 Stat. 4817; amended Pub. L. 102–573, title III, § 303, Oct. 29, 1992, 106 Stat. 4561.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsecs. (a)(2) and (b)(1)(C)(iii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsecs. (a)(2) and (b)(1)(C)(iii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
 1992—Pub. L. 102–573 amended section generally, substituting provisions relating to grant program for construction, expansion, and modernization of small ambulatory care facilities for provisions relating to conveyance of certain real property under Alaska Native Claims Settlement Act.
 
-### § 1637. Indian health care delivery demonstration projects
+### § 1637. Indian health care delivery demonstration projects
 
 **(a) Purpose and general authority**
 
-**(1) Purpose** The purpose of this section is to encourage the establishment of demonstration projects that meet the applicable criteria of this section to be carried out by the Secretary, acting through the Service, or Indian tribes or tribal organizations acting pursuant to contracts or compacts under the Indian Self Determination 1
+**(1) Purpose** The purpose of this section is to encourage the establishment of demonstration projects that meet the applicable criteria of this section to be carried out by the Secretary, acting through the Service, or Indian tribes or tribal organizations acting pursuant to contracts or compacts under the Indian Self Determination 1
 
-<sup>1</sup>  So in original. Probably should be “Self-Determination”.
+<sup>1</sup> So in original. Probably should be “Self-Determination”.
 
-and Education Assistance Act (25 U.S.C. 450 et seq.)— 2
+and Education Assistance Act (25 U.S.C. 450 et seq.)— 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(A)** to test alternative means of delivering health care and services to Indians through facilities; or
 
 **(B)** to use alternative or innovative methods or models of delivering health care services to Indians (including primary care services, contract health services, or any other program or service authorized by this chapter) through convenient care services (as defined in subsection (c)), community health centers, or cooperative agreements or arrangements with other health care providers that share or coordinate the use of facilities, funding, or other resources, or otherwise coordinate or improve the coordination of activities of the Service, Indian tribes, or tribal organizations, with those of the other health care providers.
 
-**(2) Authority** The Secretary, acting through the Service, is authorized to carry out, or to enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>2</sup> with Indian tribes or tribal organizations to carry out, health care delivery demonstration projects that—
+**(2) Authority** The Secretary, acting through the Service, is authorized to carry out, or to enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>2</sup> with Indian tribes or tribal organizations to carry out, health care delivery demonstration projects that—
 
 **(A)** test alternative means of delivering health care and services to Indians through facilities; or
 
@@ -4185,9 +4185,9 @@ and Education Assistance Act (25 U.S.C. 450 et seq.)— 2
 
 **(A) Application or request**
 
-On receipt of an application or request from an Indian tribe, a consortium of Indian tribes, or a tribal organization within a Service area, the Secretary shall take into consideration alternative or innovated 3
+On receipt of an application or request from an Indian tribe, a consortium of Indian tribes, or a tribal organization within a Service area, the Secretary shall take into consideration alternative or innovated 3
 
-<sup>3</sup>  So in original. Probably should be “innovative”.
+<sup>3</sup> So in original. Probably should be “innovative”.
 
 methods to deliver health care services within the Service area (or a portion of, or facility within, the Service area) as described in the application or request, including medical, dental, pharmaceutical, nursing, clinical laboratory, contract health services, convenient care services, community health centers, or any other health care services delivery models designed to improve access to, or efficiency or quality of, the health care, health promotion, or disease prevention services and programs under this chapter.
 
@@ -4225,9 +4225,9 @@ For purposes of subsection (c), the Secretary, in evaluating facilities operated
 
 **(g) Equitable integration of facilities**
 
-The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities that are the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>2</sup> for health services are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
+The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities that are the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>2</sup> for health services are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
 
-(Pub. L. 94–437, title III, § 307, as added Pub. L. 101–630, title V, § 504, Nov. 28, 1990, 104 Stat. 4562; amended Pub. L. 102–573, title III, §§ 304, 307(b)(2), title VII, § 701(c)(2), title IX, § 902(4)(A), Oct. 29, 1992, 106 Stat. 4562, 4564, 4572, 4591; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title III, § 307, as added Pub. L. 101–630, title V, § 504, Nov. 28, 1990, 104 Stat. 4562; amended Pub. L. 102–573, title III, §§ 304, 307(b)(2), title VII, § 701(c)(2), title IX, § 902(4)(A), Oct. 29, 1992, 106 Stat. 4562, 4564, 4572, 4591; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -4235,7 +4235,7 @@ The Secretary shall ensure that the planning, design, construction, renovation, 
 
 This chapter, referred to in subsecs. (a)(1)(B), (b)(2)(B), (c)(3)(A), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (a), (f), and (g), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (a), (f), and (g), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -4245,35 +4245,35 @@ Amendment by Pub. L. 111–148 is based on section 143 of title I of S. 1790, On
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section authorized contracts and grants to carry out an Indian health care delivery demonstration project and related to use of funds, criteria, technical assistance, service to ineligible persons, equitable treatment, equitable integration of facilities, and report to Congress.
 
-1992—Pub. L. 102–573, § 902(4)(A), made technical amendment to section catchline.
+1992—Pub. L. 102–573, § 902(4)(A), made technical amendment to section catchline.
 
-Subsec. (c)(1)(A). Pub. L. 102–573, § 304(a)(1), inserted “or program” after “facility” in two places.
+Subsec. (c)(1)(A). Pub. L. 102–573, § 304(a)(1), inserted “or program” after “facility” in two places.
 
-Subsec. (c)(3)(A). Pub. L. 102–573, § 304(a)(2), substituted “On or before September 30, 1995, the” for “The” and inserted “and for which a completed application has been received by the Secretary” after “paragraph (1)”.
+Subsec. (c)(3)(A). Pub. L. 102–573, § 304(a)(2), substituted “On or before September 30, 1995, the” for “The” and inserted “and for which a completed application has been received by the Secretary” after “paragraph (1)”.
 
-Subsec. (c)(3)(B). Pub. L. 102–573, § 304(a)(3), which directed amendment of subsec. (c) by striking subpar. (B) and inserting a new subpar. (B), was executed by making the amendment in par. (3) of subsec. (c) to reflect the probable intent of Congress. Prior to amendment, subpar. (B) read as follows: “After entering into contracts or awarding grants in accordance with subparagraph (A), and taking into account contracts entered into and grants awarded under such subparagraph, the Secretary may only enter into one contract or award one grant under this subsection with respect to a service area until the Secretary has entered into contracts or awarded grants for all service areas with respect to which the Secretary receives applications during the application period, as determined by the Secretary, which meet the criteria developed under paragraph (1).”
+Subsec. (c)(3)(B). Pub. L. 102–573, § 304(a)(3), which directed amendment of subsec. (c) by striking subpar. (B) and inserting a new subpar. (B), was executed by making the amendment in par. (3) of subsec. (c) to reflect the probable intent of Congress. Prior to amendment, subpar. (B) read as follows: “After entering into contracts or awarding grants in accordance with subparagraph (A), and taking into account contracts entered into and grants awarded under such subparagraph, the Secretary may only enter into one contract or award one grant under this subsection with respect to a service area until the Secretary has entered into contracts or awarded grants for all service areas with respect to which the Secretary receives applications during the application period, as determined by the Secretary, which meet the criteria developed under paragraph (1).”
 
-Subsec. (e). Pub. L. 102–573, § 701(c)(2), made technical amendment to the reference to section 1680c of this title to reflect renumbering of corresponding section of original act.
+Subsec. (e). Pub. L. 102–573, § 701(c)(2), made technical amendment to the reference to section 1680c of this title to reflect renumbering of corresponding section of original act.
 
-Subsec. (h). Pub. L. 102–573, § 304(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Within 90 days after the end of the period set out in subsection (a) of this section, the Secretary shall prepare and submit to Congress a report, together with legislative recommendations, on the findings and conclusions derived from the demonstration projects.”
+Subsec. (h). Pub. L. 102–573, § 304(b), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Within 90 days after the end of the period set out in subsection (a) of this section, the Secretary shall prepare and submit to Congress a report, together with legislative recommendations, on the findings and conclusions derived from the demonstration projects.”
 
-Subsec. (i). Pub. L. 102–573, § 307(b)(2), struck out subsec. (i) which authorized appropriation of such sums as necessary for fiscal years 1991 and 1992 for purpose of carrying out this section.
+Subsec. (i). Pub. L. 102–573, § 307(b)(2), struck out subsec. (i) which authorized appropriation of such sums as necessary for fiscal years 1991 and 1992 for purpose of carrying out this section.
 
-### § 1638. Land transfer
+### § 1638. Land transfer
 
 The Bureau of Indian Affairs is authorized to transfer, at no cost, up to 5 acres of land at the Chemawa Indian School, Salem, Oregon, to the Service for the provision of health care services. The land authorized to be transferred by this section is that land adjacent to land under the jurisdiction of the Service and occupied by the Chemawa Indian Health Center.
 
-(Pub. L. 94–437, title III, § 308, as added Pub. L. 102–573, title III, § 306, Oct. 29, 1992, 106 Stat. 4564.)
+(Pub. L. 94–437, title III, § 308, as added Pub. L. 102–573, title III, § 306, Oct. 29, 1992, 106 Stat. 4564.)
 
-### § 1638a. Tribal management of federally owned quarters
+### § 1638a. Tribal management of federally owned quarters
 
 **(a) Rental rates**
 
 **(1) Establishment**
 
-Notwithstanding any other provision of law, a tribal health program that operates a hospital or other health facility and the federally owned quarters associated with such a facility pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+Notwithstanding any other provision of law, a tribal health program that operates a hospital or other health facility and the federally owned quarters associated with such a facility pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 may establish the rental rates charged to the occupants of those quarters, on providing notice to the Secretary.
 
@@ -4319,13 +4319,13 @@ Notwithstanding any other provision of law, and subject to paragraph (2), a trib
 
 **(B)** such other date as may be mutually agreed on by the Secretary and the tribal health program.
 
-(Pub. L. 94–437, title III, § 309, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title III, § 309, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a)(1), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -4333,9 +4333,9 @@ Section 309 of Pub. L. 94–437 is based on section 144 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1638a, Pub. L. 94–437, title III, § 309, as added Pub. L. 102–573, title III, § 307(a), Oct. 29, 1992, 106 Stat. 4564, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 101(b)(6) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+A prior section 1638a, Pub. L. 94–437, title III, § 309, as added Pub. L. 102–573, title III, § 307(a), Oct. 29, 1992, 106 Stat. 4564, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 101(b)(6) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1638b. Applicability of Buy American requirement
+### § 1638b. Applicability of Buy American requirement
 
 **(a) Duty of Secretary**
 
@@ -4351,13 +4351,13 @@ If it has been finally determined by a court or Federal agency that any person i
 
 **(d) “Buy American Act” defined**
 
-For purposes of this section, the term “Buy American Act” means title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933 (41 U.S.C. 10a et seq.) 1
+For purposes of this section, the term “Buy American Act” means title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933 (41 U.S.C. 10a et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 .
 
-(Pub. L. 94–437, title III, § 310, as added Pub. L. 102–573, title III, § 308, Oct. 29, 1992, 106 Stat. 4564; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title III, § 310, as added Pub. L. 102–573, title III, § 308, Oct. 29, 1992, 106 Stat. 4564; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -4365,7 +4365,7 @@ For purposes of this section, the term “Buy American Act” means title III of
 
 The Trade Agreement Act of 1979, referred to in subsec. (b), probably means the Trade Agreements Act of 1979, Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of Title 19, Customs Duties, and Tables.
 
-Title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933, referred to in subsec. (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§ 8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of title III to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933, referred to in subsec. (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§ 8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of title III to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 **Codification**
 
@@ -4375,7 +4375,7 @@ Amendment by Pub. L. 111–148 is based on section 101(c)(3) of title I of S. 17
 
 2010—Subsecs. (a) to (c). Pub. L. 111–148 substituted “funds made available to carry out this subchapter” for “funds provided pursuant to the authorization contained in section 1638a of this title”.
 
-### § 1638c. Contracts for personal services in Indian Health Service facilities
+### § 1638c. Contracts for personal services in Indian Health Service facilities
 
 In fiscal year 1995 and thereafter (a) the Secretary may enter into personal services contracts with entities, either individuals or organizations, for the provision of services in facilities owned, operated or constructed under the jurisdiction of the Indian Health Service; (b) the Secretary may exempt such a contract from competitive contracting requirements upon adequate notice of contracting opportunities to individuals and organizations residing in the geographic vicinity of the health facility; (c) consideration of individuals and organizations shall be based solely on the qualifications established for the contract and the proposed contract price; and (d) individuals providing health care services pursuant to these contracts are covered by the Federal Tort Claims Act.
 
@@ -4385,13 +4385,13 @@ In fiscal year 1995 and thereafter (a) the Secretary may enter into personal ser
 
 **References in Text**
 
-The Federal Tort Claims Act, referred to in text, is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in text, is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 **Codification**
 
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1995, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
 
-### § 1638d. Credit to appropriations of money collected for meals at Indian Health Service facilities
+### § 1638d. Credit to appropriations of money collected for meals at Indian Health Service facilities
 
 Money before, on, and after September 30, 1994, collected for meals served at Indian Health Service facilities will be credited to the appropriations from which the services were furnished and shall be credited to the appropriation when received.
 
@@ -4403,7 +4403,7 @@ Money before, on, and after September 30, 1994, collected for meals served at In
 
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1995, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
 
-### § 1638e. Other funding, equipment, and supplies for facilities
+### § 1638e. Other funding, equipment, and supplies for facilities
 
 **(a) Authorization**
 
@@ -4419,11 +4419,11 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 **(B)** use those funds, equipment, and supplies to plan, design,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 construct, and operate health care or sanitation facilities for Indians, including pursuant to a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(3) Effect of receipt**
 
@@ -4449,7 +4449,7 @@ Notwithstanding any other provision of law, any other applicable regulations of 
 
 In this section, the term “sanitation facility” means a safe and adequate water supply system, sanitary sewage disposal system, or sanitary solid waste system (including all related equipment and support infrastructure).
 
-(Pub. L. 94–437, title III, § 311, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title III, § 311, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -4457,25 +4457,25 @@ In this section, the term “sanitation facility” means a safe and adequate wa
 
 This chapter, referred to in subsecs. (a)(1)(A), (b)(1), and (c)(1), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a)(2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
 Section 311 of Pub. L. 94–437 is based on section 145 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1638f. Indian country modular component facilities demonstration program
+### § 1638f. Indian country modular component facilities demonstration program
 
 **(a) Definition of modular component health care facility** In this section, the term “modular component health care facility” means a health care facility that is constructed—
 
 **(1)** off-site using prefabricated component units for subsequent transport to the destination location; and
 
-**(2)** represents 1
+**(2)** represents 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
-a more economical method for provision of health care facility 2
+a more economical method for provision of health care facility 2
 
-<sup>2</sup>  So in original. Probably should be “provision of a health care facility”.
+<sup>2</sup> So in original. Probably should be “provision of a health care facility”.
 
 than a traditionally constructed health care building.
 
@@ -4513,7 +4513,7 @@ A modular component health care facility project selected for participation in t
 
 An Indian tribe may submit a petition under subsection (c)(1)(B) regardless of whether the Indian tribe is a party to any contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 **(2) Administration**
 
@@ -4529,19 +4529,19 @@ At the election of an Indian tribe or tribal organization selected for participa
 
 There are authorized to be appropriated $50,000,000 to carry out the demonstration program under this section for the first 5 fiscal years, and such sums as may be necessary to carry out the program in subsequent fiscal years.
 
-(Pub. L. 94–437, title III, § 312, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title III, § 312, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (d), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (d), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
 Section 312 of Pub. L. 94–437 is based on section 146 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1638g. Mobile health stations demonstration program
+### § 1638g. Mobile health stations demonstration program
 
 **(a) Definitions** In this section:
 
@@ -4581,7 +4581,7 @@ The Secretary, acting through the Service, shall establish a demonstration progr
 
 **(c) Petition** To be eligible to receive a mobile health station under the demonstration program, an eligible tribal consortium shall submit to the Secretary,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 a petition at such time, in such manner, and containing—
 
@@ -4613,7 +4613,7 @@ a petition at such time, in such manner, and containing—
 
 There are authorized to be appropriated $5,000,000 per year to carry out the demonstration program under this section for the first 5 fiscal years, and such sums as may be needed to carry out the program in subsequent fiscal years.
 
-(Pub. L. 94–437, title III, § 313, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title III, § 313, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -4629,7 +4629,7 @@ Section 313 of Pub. L. 94–437 is based on section 147 of title I of S. 1790, O
 
 This subchapter was in the original title IV of Pub. L. 94–437, as amended. Prior to amendment by Pub. L. 102–573, title IV enacted section 1622 of this title and sections 1395qq and 1396j of Title 42, The Public Health and Welfare, amended sections 1395f, 1395n, and 1396d of Title 42, and enacted provisions set out as notes under section 1671 of this title and sections 1395qq and 1396j of Title 42.
 
-### § 1641. Treatment of payments under Social Security Act health benefits programs
+### § 1641. Treatment of payments under Social Security Act health benefits programs
 
 **(a) Disregard of Medicare, Medicaid, and CHIP payments in determining appropriations**
 
@@ -4637,9 +4637,9 @@ Any payments received by an Indian health program or by an urban Indian organiza
 
 **(b) Nonpreferential treatment**
 
-Nothing in this chapter authorizes the Secretary to provide services to an Indian with coverage under title XVIII, XIX, or XI 1
+Nothing in this chapter authorizes the Secretary to provide services to an Indian with coverage under title XVIII, XIX, or XI 1
 
-<sup>1</sup>  So in original. Probably should be “XXI”.
+<sup>1</sup> So in original. Probably should be “XXI”.
 
 of the Social Security Act in preference to an Indian without such coverage.
 
@@ -4693,33 +4693,33 @@ The Service shall provide the Administrator of the Centers for Medicare & Medica
 
 A tribal health program that bills directly under the program established under this subsection may withdraw from participation in the same manner and under the same conditions that an Indian tribe or tribal organization may retrocede a contracted program to the Secretary under the authority of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 All cost accounting and billing authority under the program established under this subsection shall be returned to the Secretary upon the Secretary’s acceptance of the withdrawal of participation in this program.
 
 **(5) Termination for failure to comply with requirements**
 
-The Secretary may terminate the participation of a tribal health program or 3
+The Secretary may terminate the participation of a tribal health program or 3
 
-<sup>3</sup>  So in original. The word “or” probably should not appear.
+<sup>3</sup> So in original. The word “or” probably should not appear.
 
 in the direct billing program established under this subsection if the Secretary determines that the program has failed to comply with the requirements of paragraph (2). The Secretary shall provide a tribal health program with notice of a determination that the program has failed to comply with any such requirement and a reasonable opportunity to correct such noncompliance prior to terminating the program’s participation in the direct billing program established under this subsection.
 
 **(e) Related provisions under the Social Security Act**
 
-For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) <sup>2</sup> of the Social Security Act [42 U.S.C. 1395qq, 1396j, 1397gg(e)(1)(D)].
+For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) <sup>2</sup> of the Social Security Act [42 U.S.C. 1395qq, 1396j, 1397gg(e)(1)(D)].
 
-(Pub. L. 94–437, title IV, § 401, Sept. 30, 1976, 90 Stat. 1408; Pub. L. 102–573, title IV, § 401(a), Oct. 29, 1992, 106 Stat. 4565; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title IV, § 401, Sept. 30, 1976, 90 Stat. 1408; Pub. L. 102–573, title IV, § 401(a), Oct. 29, 1992, 106 Stat. 4565; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a) to (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Section 2107(e)(1)(D) of the Social Security Act, referred to in subsec. (e), is section 2107(e)(1)(D) of act Aug. 14, 1935, ch. 531, as added by Pub. L. 111–148, which was redesignated section 2107(e)(1)(F) of act Aug. 14, 1935, ch. 531, by Pub. L. 114–255, div. A, title V, § 5005(c)(1)(A), Dec. 13, 2016, 130 Stat. 1194, and which was redesignated section 2107(e)(1)(G) of act Aug. 14, 1935, ch. 531, by Pub. L. 115–123, div. E, title XII, § 53102(d)(1)(A), Feb. 9, 2018, 132 Stat. 299. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a) to (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42. Section 2107(e)(1)(D) of the Social Security Act, referred to in subsec. (e), is section 2107(e)(1)(D) of act Aug. 14, 1935, ch. 531, as added by Pub. L. 111–148, which was redesignated section 2107(e)(1)(F) of act Aug. 14, 1935, ch. 531, by Pub. L. 114–255, div. A, title V, § 5005(c)(1)(A), Dec. 13, 2016, 130 Stat. 1194, and which was redesignated section 2107(e)(1)(G) of act Aug. 14, 1935, ch. 531, by Pub. L. 115–123, div. E, title XII, § 53102(d)(1)(A), Feb. 9, 2018, 132 Stat. 299. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (d)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (d)(4), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -4733,11 +4733,11 @@ Prior to general amendment by Pub. L. 102–573, section 401 of Pub. L. 94–437
 
 1992—Pub. L. 102–573 amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (d). See Codification note above.
 
-### § 1642. Purchasing health care coverage
+### § 1642. Purchasing health care coverage
 
 **(a) In general** Insofar as amounts are made available under law (including a provision of the Social Security Act [42 U.S.C. 301 et seq.], the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or other law, other than under section 1644 of this title) to Indian tribes, tribal organizations, and urban Indian organizations for health benefits for Service beneficiaries, Indian tribes, tribal organizations, and urban Indian organizations may use such amounts to purchase health benefits coverage (including coverage for a service, or service within a contract health service delivery area, or any portion of a contract health service delivery area that would otherwise be provided as a contract health service) for such beneficiaries in any manner, including through—
 
@@ -4753,9 +4753,9 @@ or other law, other than under section 1644 of this title) to Indian tribes, tri
 
 **(b) Financial need**
 
-The purchase of coverage under subsection (a) by an Indian tribe, tribal organization, or urban Indian organization may be based on the financial needs of such beneficiaries (as determined by the 1 or more Indian tribes being served based on a schedule of income levels developed or implemented by such 1 ore 2
+The purchase of coverage under subsection (a) by an Indian tribe, tribal organization, or urban Indian organization may be based on the financial needs of such beneficiaries (as determined by the 1 or more Indian tribes being served based on a schedule of income levels developed or implemented by such 1 ore 2
 
-<sup>2</sup>  So in original. Probably should be “or”.
+<sup>2</sup> So in original. Probably should be “or”.
 
 more Indian tribes).
 
@@ -4767,15 +4767,15 @@ In the case of a self-insured plan under subsection (a)(4), the amounts may be u
 
 Nothing in this section shall be construed as affecting the use of any amounts not referred to in subsection (a).
 
-(Pub. L. 94–437, title IV, § 402, Sept. 30, 1976, 90 Stat. 1409; Pub. L. 100–713, title IV, § 401(a), (b), Nov. 23, 1988, 102 Stat. 4818; Pub. L. 102–573, title IV, § 401(b)(1), Oct. 29, 1992, 106 Stat. 4565; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title IV, § 402, Sept. 30, 1976, 90 Stat. 1409; Pub. L. 100–713, title IV, § 401(a), (b), Nov. 23, 1988, 102 Stat. 4818; Pub. L. 102–573, title IV, § 401(b)(1), Oct. 29, 1992, 106 Stat. 4565; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -4789,31 +4789,31 @@ Prior to general amendment by Pub. L. 102–573, section 402 of Pub. L. 94–437
 
 1992—Pub. L. 102–573 amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (e). See Codification note above.
 
-1988—Subsec. (b). Pub. L. 100–713, § 401(b), struck out subsec. (b) which authorized Secretary of Health and Human Services to enter into agreements to reimburse State agencies for health care and services provided in Indian Health Service facilities to Indians eligible for medical assistance under title XIX of the Social Security Act.
+1988—Subsec. (b). Pub. L. 100–713, § 401(b), struck out subsec. (b) which authorized Secretary of Health and Human Services to enter into agreements to reimburse State agencies for health care and services provided in Indian Health Service facilities to Indians eligible for medical assistance under title XIX of the Social Security Act.
 
-Subsec. (c). Pub. L. 100–713, § 401(a), substituted “skilled nursing facility, or any other type of facility which provides services of a type otherwise covered under a State plan for medical assistance approved under title XIX of the Social Security Act” for “or skilled nursing facility”, “such a State plan” for “a State plan approved under title XIX of the Social Security Act”, and “In making payments from such fund, the Secretary shall ensure that each service unit of the Indian Health Service receives at least 50 percent of the amounts to which the facilities of the Indian Health Service, for which such service unit makes collections, are entitled by reason of section 1911 of the Social Security Act, if such amount is necessary for the purpose of making improvements in such facilities in order to achieve compliance with the conditions and requirements of title XIX of the Social Security Act. This subsection shall” for “The preceding sentence shall”.
+Subsec. (c). Pub. L. 100–713, § 401(a), substituted “skilled nursing facility, or any other type of facility which provides services of a type otherwise covered under a State plan for medical assistance approved under title XIX of the Social Security Act” for “or skilled nursing facility”, “such a State plan” for “a State plan approved under title XIX of the Social Security Act”, and “In making payments from such fund, the Secretary shall ensure that each service unit of the Indian Health Service receives at least 50 percent of the amounts to which the facilities of the Indian Health Service, for which such service unit makes collections, are entitled by reason of section 1911 of the Social Security Act, if such amount is necessary for the purpose of making improvements in such facilities in order to achieve compliance with the conditions and requirements of title XIX of the Social Security Act. This subsection shall” for “The preceding sentence shall”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–573, title IV, § 401(b)(2), Oct. 29, 1992, 106 Stat. 4565, provided that: “The increase (from 50 percent) in the percentage of the payments from the fund to be made to each service unit of the Service specified in the amendment made by paragraph (1) [amending this section] shall take effect beginning with payments made on January 1, 1993.”
+Pub. L. 102–573, title IV, § 401(b)(2), Oct. 29, 1992, 106 Stat. 4565, provided that: “The increase (from 50 percent) in the percentage of the payments from the fund to be made to each service unit of the Service specified in the amendment made by paragraph (1) [amending this section] shall take effect beginning with payments made on January 1, 1993.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–713, title IV, § 401(c), Nov. 23, 1988, 102 Stat. 4818, provided that: “The amendments made by this section [amending this section] shall apply to services performed on or after the date of the enactment of this Act [Nov. 23, 1988].”
+Pub. L. 100–713, title IV, § 401(c), Nov. 23, 1988, 102 Stat. 4818, provided that: “The amendments made by this section [amending this section] shall apply to services performed on or after the date of the enactment of this Act [Nov. 23, 1988].”
 
-### § 1643. Amount and use of funds reimbursed through medicare and medicaid available to Indian Health Service
+### § 1643. Amount and use of funds reimbursed through medicare and medicaid available to Indian Health Service
 
 The Secretary shall submit to the President, for inclusion in the report required to be transmitted to the Congress under section 1671 of this title, an accounting on the amount and use of funds made available to the Service pursuant to this subchapter as a result of reimbursements through titles XVIII and XIX of the Social Security Act, as amended [42 U.S.C. 1395 et seq., 1396 et seq.].
 
-(Pub. L. 94–437, title IV, § 403, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 102–573, title IV, § 402, Oct. 29, 1992, 106 Stat. 4566.)
+(Pub. L. 94–437, title IV, § 403, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 102–573, title IV, § 402, Oct. 29, 1992, 106 Stat. 4566.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -4823,7 +4823,7 @@ Section was formerly set out as a note under section 1671 of this title.
 
 1992—Pub. L. 102–573 substituted “The Secretary shall submit to the President, for inclusion in the report required to be transmitted to the Congress under section 1671 of this title,” for “The Secretary shall include in his annual report required by section 1671 of this title”.
 
-### § 1644. Grants to and contracts with the Service, Indian tribes, tribal organizations, and urban Indian organizations to facilitate outreach, enrollment, and coverage of Indians under Social Security Act health benefit programs and other health benefits programs
+### § 1644. Grants to and contracts with the Service, Indian tribes, tribal organizations, and urban Indian organizations to facilitate outreach, enrollment, and coverage of Indians under Social Security Act health benefit programs and other health benefits programs
 
 **(a) Indian tribes and tribal organizations** The Secretary, acting through the Service, shall make grants to or enter into contracts with Indian tribes and tribal organizations to assist such tribes and tribal organizations in establishing and administering programs on or near reservations and trust lands, including programs to provide outreach and enrollment through video, electronic delivery methods, or telecommunication devices that allow real-time or time-delayed communication between individual Indians and the benefit program, to assist individual Indians—
 
@@ -4873,13 +4873,13 @@ The term “premium” includes any enrollment fee or similar charge.
 
 The term “cost sharing” includes any deduction, deductible, copayment, coinsurance, or similar charge.
 
-(Pub. L. 94–437, title IV, § 404, as added Pub. L. 96–537, § 6, Dec. 17, 1980, 94 Stat. 3176; amended Pub. L. 102–573, title IV, § 403, Oct. 29, 1992, 106 Stat. 4566; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title IV, § 404, as added Pub. L. 96–537, § 6, Dec. 17, 1980, 94 Stat. 3176; amended Pub. L. 102–573, title IV, § 403, Oct. 29, 1992, 106 Stat. 4566; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a)(1), (d), and (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(1), (d), and (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -4891,11 +4891,11 @@ Section was formerly classified to section 1622 of this title.
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to grants to and contracts with tribal organizations.
 
-1992—Subsec. (b)(4). Pub. L. 102–573, § 403(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “develop and implement a schedule of income levels to determine the extent of payment of premiums by such organization for coverage of needy individuals; and methods of improving the participation of Indians in receiving the benefits provided pursuant to titles XVIII and XIX of the Social Security Act.”
+1992—Subsec. (b)(4). Pub. L. 102–573, § 403(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “develop and implement a schedule of income levels to determine the extent of payment of premiums by such organization for coverage of needy individuals; and methods of improving the participation of Indians in receiving the benefits provided pursuant to titles XVIII and XIX of the Social Security Act.”
 
-Subsec. (c). Pub. L. 102–573, § 403(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “There are authorized to be appropriated $5,000,000 for the fiscal year ending September 30, 1981, $5,750,000 for the fiscal year ending September 30, 1982, $6,615,000 for the fiscal year ending September 30, 1983, and $7,610,000 for the fiscal year ending September 30, 1984.”
+Subsec. (c). Pub. L. 102–573, § 403(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “There are authorized to be appropriated $5,000,000 for the fiscal year ending September 30, 1981, $5,750,000 for the fiscal year ending September 30, 1982, $6,615,000 for the fiscal year ending September 30, 1983, and $7,610,000 for the fiscal year ending September 30, 1984.”
 
-### § 1645. Sharing arrangements with Federal agencies
+### § 1645. Sharing arrangements with Federal agencies
 
 **(a) Authority**
 
@@ -4927,7 +4927,7 @@ The Service, Indian tribe, urban Indian organization, or tribal organization sha
 
 Nothing in this section may be construed as creating any right of a non-Indian veteran to obtain health services from the Service.
 
-(Pub. L. 94–437, title IV, § 405, as added Pub. L. 100–713, title IV, § 402, Nov. 23, 1988, 102 Stat. 4818; amended Pub. L. 102–573, title IV, § 404, title VII, § 701(c)(3), Oct. 29, 1992, 106 Stat. 4566, 4572; Pub. L. 104–313, § 2(d), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 105–277, div. A, § 101(e) [title III, § 336], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295; Pub. L. 105–362, title VI, § 601(a)(2)(B), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 106–417, §§ 3(a), 4, Nov. 1, 2000, 114 Stat. 1813, 1816; Pub. L. 108–173, title IX, § 900(e)(6)(B), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935; Pub. L. 116–260, div. FF, title XI, § 1113, Dec. 27, 2020, 134 Stat. 3251; Pub. L. 116–311, § 2, Jan. 5, 2021, 134 Stat. 4927.)
+(Pub. L. 94–437, title IV, § 405, as added Pub. L. 100–713, title IV, § 402, Nov. 23, 1988, 102 Stat. 4818; amended Pub. L. 102–573, title IV, § 404, title VII, § 701(c)(3), Oct. 29, 1992, 106 Stat. 4566, 4572; Pub. L. 104–313, § 2(d), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 105–277, div. A, § 101(e) [title III, § 336], Oct. 21, 1998, 112 Stat. 2681–231, 2681–295; Pub. L. 105–362, title VI, § 601(a)(2)(B), Nov. 10, 1998, 112 Stat. 3285; Pub. L. 106–417, §§ 3(a), 4, Nov. 1, 2000, 114 Stat. 1813, 1816; Pub. L. 108–173, title IX, § 900(e)(6)(B), Dec. 8, 2003, 117 Stat. 2373; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935; Pub. L. 116–260, div. FF, title XI, § 1113, Dec. 27, 2020, 134 Stat. 3251; Pub. L. 116–311, § 2, Jan. 5, 2021, 134 Stat. 4927.)
 
 **Editorial Notes**
 
@@ -4939,25 +4939,25 @@ Section was formerly set out as a note under section 1395qq of Title 42, The Pub
 
 **Amendments**
 
-2021—Subsec. (c). Pub. L. 116–311 inserted “, regardless of whether such services are provided directly by the Service, an Indian tribe, or tribal organization, through purchased/referred care, or through a contract for travel described in section 1621*l*(b) of this title” before period at end.
+2021—Subsec. (c). Pub. L. 116–311 inserted “, regardless of whether such services are provided directly by the Service, an Indian tribe, or tribal organization, through purchased/referred care, or through a contract for travel described in section 1621*l*(b) of this title” before period at end.
 
-2020—Subsec. (a)(1). Pub. L. 116–260, § 1113(1), inserted “urban Indian organizations,” before “and tribal organizations”.
+2020—Subsec. (a)(1). Pub. L. 116–260, § 1113(1), inserted “urban Indian organizations,” before “and tribal organizations”.
 
-Subsec. (c). Pub. L. 116–260, § 1113(2), inserted “urban Indian organization,” before “or tribal organization” and “an urban Indian organization,” before “or a tribal organization”.
+Subsec. (c). Pub. L. 116–260, § 1113(2), inserted “urban Indian organization,” before “or tribal organization” and “an urban Indian organization,” before “or a tribal organization”.
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to establishment of program for direct billing of medicare, medicaid, and other third party payors by Indian tribes, tribal organizations, and Alaska Native health organizations.
 
 2003—Subsec. (d)(1). Pub. L. 108–173 substituted “Centers for Medicare & Medicaid Services” for “Health Care Financing Administration” in introductory provisions.
 
-2000—Pub. L. 106–417, § 4(a), reenacted section as in effect on Nov. 9, 1998. For text of section as reenacted, see 1998 Amendment note below.
+2000—Pub. L. 106–417, § 4(a), reenacted section as in effect on Nov. 9, 1998. For text of section as reenacted, see 1998 Amendment note below.
 
-Pub. L. 106–417, § 3(a), amended section generally. For text of section prior to amendment, see subsecs. (a) to (d) of section as set out in 1998 Amendment note below.
+Pub. L. 106–417, § 3(a), amended section generally. For text of section prior to amendment, see subsecs. (a) to (d) of section as set out in 1998 Amendment note below.
 
-Subsec. (e). Pub. L. 106–417, § 4(b), struck out subsec. (e). For text of subsec. (e) prior to amendment, see subsec. (e) of section as set out in 1998 Amendment note below.
+Subsec. (e). Pub. L. 106–417, § 4(b), struck out subsec. (e). For text of subsec. (e) prior to amendment, see subsec. (e) of section as set out in 1998 Amendment note below.
 
 1998—Pub. L. 105–362 repealed section. Prior to repeal, section read as follows:
 
-“§ 1645. Demonstration program for direct billing of medicare, medicaid, and other third party payors
+“§ 1645. Demonstration program for direct billing of medicare, medicaid, and other third party payors
 
 “(a) The Secretary shall establish a demonstration program under which Indian tribes, tribal organizations, and Alaska Native health organizations, which are contracting the entire operation of an entire hospital or clinic of the Service under the authority of the Indian Self-Determination Act, shall directly bill for, and receive payment for, health care services provided by such hospital or clinic for which payment is made under title XVIII of the Social Security Act (medicare), under a State plan for medical assistance approved under title XIX of the Social Security Act (medicaid), or from any other third-party payor. The last sentence of section 1905(b) of the Social Security Act shall apply for purposes of the demonstration program.
 
@@ -5003,33 +5003,33 @@ Subsec. (c)(2). Pub. L. 105–277 substituted “2000” for “1998”.
 
 1996—Subsec. (c)(2). Pub. L. 104–313 substituted “1998” for “1996”.
 
-1992—Subsec. (b)(1). Pub. L. 102–573, § 701(c)(3)(A), substituted “sections 1642(a)” for “sections 402(c)” and made technical amendment to reference to section 1680c(b)(2)(A) to reflect renumbering of corresponding section of original act.
+1992—Subsec. (b)(1). Pub. L. 102–573, § 701(c)(3)(A), substituted “sections 1642(a)” for “sections 402(c)” and made technical amendment to reference to section 1680c(b)(2)(A) to reflect renumbering of corresponding section of original act.
 
-Subsec. (b)(4). Pub. L. 102–573, § 701(c)(3)(B), substituted “section 1642(a)” for “section 402(c)” in two places.
+Subsec. (b)(4). Pub. L. 102–573, § 701(c)(3)(B), substituted “section 1642(a)” for “section 402(c)” in two places.
 
-Subsec. (c)(2). Pub. L. 102–573, § 404(1), substituted “1996” for “1995”.
+Subsec. (c)(2). Pub. L. 102–573, § 404(1), substituted “1996” for “1995”.
 
-Subsec. (e). Pub. L. 102–573, § 404(2), substituted “1996” for “1995”.
+Subsec. (e). Pub. L. 102–573, § 404(2), substituted “1996” for “1995”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–417, § 3(c), Nov. 1, 2000, 114 Stat. 1816, provided that: “The amendments made by this section [amending this section and sections 1395qq and 1396j of Title 42, The Public Health and Welfare] shall take effect on October 1, 2000.”
+Pub. L. 106–417, § 3(c), Nov. 1, 2000, 114 Stat. 1816, provided that: “The amendments made by this section [amending this section and sections 1395qq and 1396j of Title 42, The Public Health and Welfare] shall take effect on October 1, 2000.”
 
-Pub. L. 106–417, § 4(a), Nov. 1, 2000, 114 Stat. 1816, provided that the reenactment of this section by section 4(a) is effective Nov. 9, 1998.
+Pub. L. 106–417, § 4(a), Nov. 1, 2000, 114 Stat. 1816, provided that the reenactment of this section by section 4(a) is effective Nov. 9, 1998.
 
-Pub. L. 106–417, § 4(b), Nov. 1, 2000, 114 Stat. 1816, provided that the amendment made by section 4(b) is effective Nov. 10, 1998.
+Pub. L. 106–417, § 4(b), Nov. 1, 2000, 114 Stat. 1816, provided that the amendment made by section 4(b) is effective Nov. 10, 1998.
 
 **Findings**
 
-Pub. L. 106–417, § 2, Nov. 1, 2000, 114 Stat. 1812, provided findings of Congress relating to amendment of this section by Pub. L. 106–417.
+Pub. L. 106–417, § 2, Nov. 1, 2000, 114 Stat. 1812, provided findings of Congress relating to amendment of this section by Pub. L. 106–417.
 
-### § 1646. Authorization for emergency contract health services
+### § 1646. Authorization for emergency contract health services
 
 With respect to an elderly or disabled Indian receiving emergency medical care or services from a non-Service provider or in a non-Service facility under the authority of this chapter, the time limitation (as a condition of payment) for notifying the Service of such treatment or admission shall be 30 days.
 
-(Pub. L. 94–437, title IV, § 406, as added Pub. L. 102–573, title IV, § 405, Oct. 29, 1992, 106 Stat. 4566.)
+(Pub. L. 94–437, title IV, § 406, as added Pub. L. 102–573, title IV, § 405, Oct. 29, 1992, 106 Stat. 4566.)
 
 **Editorial Notes**
 
@@ -5037,7 +5037,7 @@ With respect to an elderly or disabled Indian receiving emergency medical care o
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-### § 1647. Eligible Indian veteran services
+### § 1647. Eligible Indian veteran services
 
 **(a) Findings; purpose**
 
@@ -5057,9 +5057,9 @@ The purpose of this section is to reaffirm the goals stated in the document enti
 
 **(A)** authorized under the laws administered by the Secretary of Veterans Affairs; and
 
-**(B)** administered at a facility of the Service (including a facility operated by an Indian tribe or tribal organization through a contract or compact with the Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) 1
+**(B)** administered at a facility of the Service (including a facility operated by an Indian tribe or tribal organization through a contract or compact with the Service under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 pursuant to a local memorandum of understanding.
 
@@ -5091,13 +5091,13 @@ Expenses incurred by the Secretary in carrying out subsection (c)(1) shall not b
 
 Of funds made available to the Secretary in appropriations Acts for the Service (excluding funds made available for facilities, Contract Health Services, or contract support costs), the Secretary shall use such sums as are necessary to carry out this section.
 
-(Pub. L. 94–437, title IV, § 407, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title IV, § 407, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (b)(1)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (b)(1)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -5105,9 +5105,9 @@ Section 407 of Pub. L. 94–437 is based on section 155 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1647, Pub. L. 94–437, title IV, § 407, as added Pub. L. 102–573, title IV, § 406, Oct. 29, 1992, 106 Stat. 4566, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 101(b)(7) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+A prior section 1647, Pub. L. 94–437, title IV, § 407, as added Pub. L. 102–573, title IV, § 406, Oct. 29, 1992, 106 Stat. 4566, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 101(b)(7) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1647a. Nondiscrimination under Federal health care programs in qualifications for reimbursement for services
+### § 1647a. Nondiscrimination under Federal health care programs in qualifications for reimbursement for services
 
 **(a) Requirement to satisfy generally applicable participation requirements**
 
@@ -5133,19 +5133,19 @@ No individual who has been excluded from participation in any Federal health car
 
 In this subsection, the term,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 “Federal health care program” has the meaning given that term in section 1320a–7b(f) of title 42, except that, for purposes of this subsection, such term shall include the health insurance program under chapter 89 of title 5.
 
 **(c) Related provisions**
 
-For provisions related to nondiscrimination against providers operated by the Service, an Indian tribe, tribal organization, or urban Indian organization, see section 1320b–9(c) 2
+For provisions related to nondiscrimination against providers operated by the Service, an Indian tribe, tribal organization, or urban Indian organization, see section 1320b–9(c) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 42.
 
-(Pub. L. 94–437, title IV, § 408, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title IV, § 408, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -5157,19 +5157,19 @@ Section 1320b–9 of title 42, referred to in subsec. (c), relates to improved a
 
 Section 408 of Pub. L. 94–437 is based on section 156 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1647b. Access to Federal insurance
+### § 1647b. Access to Federal insurance
 
 Notwithstanding the provisions of title 5, Executive order, or administrative regulation, an Indian tribe or tribal organization carrying out programs under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.) or the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2501 et seq.) or an urban Indian organization carrying out programs under subchapter IV of this chapter shall be entitled to purchase coverage, rights, and benefits for the employees of such Indian tribe or tribal organization, or urban Indian organization, under chapter 89 of title 5 and chapter 87 of such title if necessary employee deductions and agency contributions in payment for the coverage, rights, and benefits for the period of employment with such Indian tribe or tribal organization, or urban Indian organization, are currently deposited in the applicable Employee’s Fund under such title.
 
-(Pub. L. 94–437, title IV, § 409, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935; amended Pub. L. 116–260, div. FF, title XI, § 1114, Dec. 27, 2020, 134 Stat. 3251.)
+(Pub. L. 94–437, title IV, § 409, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935; amended Pub. L. 116–260, div. FF, title XI, § 1114, Dec. 27, 2020, 134 Stat. 3251.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
 
-The Tribally Controlled Schools Act of 1988, referred to in text, is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in text, is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 **Codification**
 
@@ -5179,11 +5179,11 @@ Section 409 of Pub. L. 94–437 is based on section 157 of title I of S. 1790, O
 
 2020—Pub. L. 116–260 substituted “(25 U.S.C. 5301 et seq.) or the Tribally Controlled Schools Act of 1988 (25 U.S.C. 2501 et seq.)” for “(25 U.S.C. 450 et seq.)”.
 
-### § 1647c. General exceptions
+### § 1647c. General exceptions
 
 The requirements of this subchapter shall not apply to any excepted benefits described in paragraph (1)(A) or (3) of section 300gg–91(c) of title 42.
 
-(Pub. L. 94–437, title IV, § 410, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title IV, § 410, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -5191,7 +5191,7 @@ The requirements of this subchapter shall not apply to any excepted benefits des
 
 Section 410 of Pub. L. 94–437 is based on section 158 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1647d. Navajo Nation medicaid agency feasibility study
+### § 1647d. Navajo Nation medicaid agency feasibility study
 
 **(a) Study**
 
@@ -5205,13 +5205,13 @@ The Secretary shall conduct a study to determine the feasibility of treating the
 
 **(3)** providing an appropriate level of matching funds for Federal medical assistance with respect to amounts such entity expends for medical assistance for services and related administrative costs; and
 
-**(4)** authorizing the Secretary, at the option of the Navajo Nation, to treat the Navajo Nation as a State for the purposes of title XIX 1
+**(4)** authorizing the Secretary, at the option of the Navajo Nation, to treat the Navajo Nation as a State for the purposes of title XIX 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Social Security Act (relating to the State children’s health insurance program) under terms equivalent to those described in paragraphs (2) through (4).2
 
-<sup>2</sup>  So in original. Probably should be paragraphs “(1) through (3).”.
+<sup>2</sup> So in original. Probably should be paragraphs “(1) through (3).”.
 
 **(c) Report** Not later then 3 years after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs and Committee on Finance of the Senate and the Committee on Natural Resources and Committee on Energy and Commerce of the House of Representatives a report that includes—
 
@@ -5223,13 +5223,13 @@ of the Social Security Act (relating to the State children’s health insurance 
 
 **(4)** legislative actions that would be required to authorize the establishment of such entity if such entity is determined by the Secretary to be feasible.
 
-(Pub. L. 94–437, title IV, § 411, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title IV, § 411, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Social Security Act (relating to the State children’s health insurance program), referred to in subsec. (b)(4), probably means title XXI of the Act, which is classified generally to subchapter XXI (§ 1397aa et seq.) of chapter 7 of Title 42 and relates to the State Children’s Health Insurance Program. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Social Security Act (relating to the State children’s health insurance program), referred to in subsec. (b)(4), probably means title XXI of the Act, which is classified generally to subchapter XXI (§ 1397aa et seq.) of chapter 7 of Title 42 and relates to the State Children’s Health Insurance Program. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -5243,19 +5243,19 @@ Section 411 of Pub. L. 94–437 is based on section 159 of title I of S. 1790, O
 
 This subchapter was in the original title V of Pub. L. 94–437. Title IV of Pub. L. 94–437 is classified to subchapter III–A of this chapter.
 
-### § 1651. Purpose
+### § 1651. Purpose
 
 The purpose of this subchapter is to establish programs in urban centers to make health services more accessible to urban Indians.
 
-(Pub. L. 94–437, title V, § 501, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4820.)
+(Pub. L. 94–437, title V, § 501, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4820.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1651, Pub. L. 94–437, title V, § 501, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3176, related to Congressional statement of purpose, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1651, Pub. L. 94–437, title V, § 501, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3176, related to Congressional statement of purpose, prior to the general revision of this subchapter by Pub. L. 100–713.
 
-### § 1652. Contracts with, and grants to, urban Indian organizations
+### § 1652. Contracts with, and grants to, urban Indian organizations
 
 **(a) In general**
 
@@ -5265,7 +5265,7 @@ Pursuant to section 13 of this title, the Secretary, acting through the Service,
 
 Subject to section 1656 of this title, the Secretary, acting through the Service, shall include such conditions as the Secretary considers necessary to effect the purpose of this subchapter in any contract into which the Secretary enters with, or in any grant the Secretary makes to, any urban Indian organization pursuant to this subchapter.
 
-(Pub. L. 94–437, title V, § 502, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4820; amended Pub. L. 102–573, title V, § 501(a), Oct. 29, 1992, 106 Stat. 4567; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title V, § 502, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4820; amended Pub. L. 102–573, title V, § 501(a), Oct. 29, 1992, 106 Stat. 4567; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -5275,15 +5275,15 @@ Amendment by Pub. L. 111–148 is based on section 163(b) of title I of S. 1790,
 
 **Prior Provisions**
 
-A prior section 1652, Pub. L. 94–437, title V, § 502, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3177, related to contracts with urban and rural Indian organizations, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1652, Pub. L. 94–437, title V, § 502, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3177, related to contracts with urban and rural Indian organizations, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 **Amendments**
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, text read as follows: “Under authority of section 13 of this title, the Secretary, through the Service, shall enter into contracts with, or make grants to, urban Indian organizations to assist such organizations in the establishment and administration, within the urban centers in which such organizations are situated, of programs which meet the requirements set forth in this subchapter. The Secretary, through the Service, shall include such conditions as the Secretary considers necessary to effect the purpose of this subchapter in any contract which the Secretary enters into with, or in any grant the Secretary makes to, any urban Indian organization pursuant to this subchapter.”
 
-1992—Pub. L. 102–573 substituted “Contracts with, and grants to, urban Indian organizations” for “Contracts with urban Indian organizations” in section catchline, and in text substituted “contracts with, or make grants to,” for “contracts with” and inserted “, or in any grant the Secretary makes to,” after “enters into with”.
+1992—Pub. L. 102–573 substituted “Contracts with, and grants to, urban Indian organizations” for “Contracts with urban Indian organizations” in section catchline, and in text substituted “contracts with, or make grants to,” for “contracts with” and inserted “, or in any grant the Secretary makes to,” after “enters into with”.
 
-### § 1653. Contracts and grants for provision of health care and referral services
+### § 1653. Contracts and grants for provision of health care and referral services
 
 **(a) Requirements** Under authority of section 13 of this title, the Secretary, through the Service, shall enter into contracts with, or make grants to, urban Indian organizations for the provision of health care and referral services for urban Indians residing in the urban centers in which such organizations are situated. Any such contract or grant shall include requirements that the urban Indian organization successfully undertake to—
 
@@ -5391,41 +5391,41 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 **(C)** the assessment required under paragraph (2).
 
-(Pub. L. 94–437, title V, § 503, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4821; amended Pub. L. 101–630, title V, § 505, Nov. 28, 1990, 104 Stat. 4564; Pub. L. 102–573, title V, §§ 501(b)(1), 505(b)(1), Oct. 29, 1992, 106 Stat. 4567, 4570.)
+(Pub. L. 94–437, title V, § 503, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4821; amended Pub. L. 101–630, title V, § 505, Nov. 28, 1990, 104 Stat. 4564; Pub. L. 102–573, title V, §§ 501(b)(1), 505(b)(1), Oct. 29, 1992, 106 Stat. 4567, 4570.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Child Welfare Act of 1978, referred to in subsec. (f)(4)(A), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, which is classified principally to chapter 21 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The Indian Child Welfare Act of 1978, referred to in subsec. (f)(4)(A), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, which is classified principally to chapter 21 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 1653, Pub. L. 94–437, title V, § 503, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3177, related to contract eligibility, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1653, Pub. L. 94–437, title V, § 503, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3177, related to contract eligibility, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 **Amendments**
 
-1992—Pub. L. 102–573, § 501(b)(1)(G), inserted “and grants” in section catchline.
+1992—Pub. L. 102–573, § 501(b)(1)(G), inserted “and grants” in section catchline.
 
-Subsec. (a). Pub. L. 102–573, § 501(b)(1)(A), inserted “, or make grants to,” after “contracts with” and “or grant” after “such contract”.
+Subsec. (a). Pub. L. 102–573, § 501(b)(1)(A), inserted “, or make grants to,” after “contracts with” and “or grant” after “such contract”.
 
-Subsec. (b). Pub. L. 102–573, § 501(b)(1)(B), inserted “or receive grants” after “enter into contracts” in introductory provisions and “or to meet the requirements for receiving a grant” after “Secretary” in par. (5).
+Subsec. (b). Pub. L. 102–573, § 501(b)(1)(B), inserted “or receive grants” after “enter into contracts” in introductory provisions and “or to meet the requirements for receiving a grant” after “Secretary” in par. (5).
 
-Subsec. (c). Pub. L. 102–573, § 505(b)(1)(A), struck out par. (1) designation before “The Secretary, acting” and struck out par. (2) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
+Subsec. (c). Pub. L. 102–573, § 505(b)(1)(A), struck out par. (1) designation before “The Secretary, acting” and struck out par. (2) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
 
-Subsec. (c)(1). Pub. L. 102–573, § 501(b)(1)(C), inserted before period at end “or receiving grants under subsection (a)”.
+Subsec. (c)(1). Pub. L. 102–573, § 501(b)(1)(C), inserted before period at end “or receiving grants under subsection (a)”.
 
-Subsec. (d)(1). Pub. L. 102–573, § 501(b)(1)(D), inserted before period at end “or receiving grants under subsection (a)”.
+Subsec. (d)(1). Pub. L. 102–573, § 501(b)(1)(D), inserted before period at end “or receiving grants under subsection (a)”.
 
-Subsec. (d)(4). Pub. L. 102–573, § 505(b)(1)(B), struck out par. (4) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
+Subsec. (d)(4). Pub. L. 102–573, § 505(b)(1)(B), struck out par. (4) which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this subsec.
 
-Subsec. (e)(1). Pub. L. 102–573, § 501(b)(1)(E), inserted before period at end “or receiving grants under subsection (a)”.
+Subsec. (e)(1). Pub. L. 102–573, § 501(b)(1)(E), inserted before period at end “or receiving grants under subsection (a)”.
 
-Subsec. (e)(4). Pub. L. 102–573, § 505(b)(1)(C), struck out par. (4) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
+Subsec. (e)(4). Pub. L. 102–573, § 505(b)(1)(C), struck out par. (4) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
 
-Subsec. (f)(1). Pub. L. 102–573, § 501(b)(1)(F), inserted “or receiving grants under subsection (a)” after “pursuant to this section”.
+Subsec. (f)(1). Pub. L. 102–573, § 501(b)(1)(F), inserted “or receiving grants under subsection (a)” after “pursuant to this section”.
 
-Subsec. (f)(5). Pub. L. 102–573, § 505(b)(1)(D), struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
+Subsec. (f)(5). Pub. L. 102–573, § 505(b)(1)(D), struck out par. (5) which authorized appropriations of $500,000 for fiscal year 1991 and $2,000,000 for fiscal year 1992 to carry out this subsec.
 
 1990—Subsecs. (c) to (f). Pub. L. 101–630 added subsecs. (c) to (f).
 
@@ -5433,9 +5433,9 @@ Subsec. (f)(5). Pub. L. 102–573, § 505(b)(1)(D), struck out par. (5) which 
 
 **Facilities Assessment**
 
-Pub. L. 101–630, title V, § 506(a), (b), Nov. 28, 1990, 104 Stat. 4566, directed the Secretary to conduct a survey of all facilities used by contractors under title V of the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.) and submit a report to Congress on the survey not later than one year after Nov. 28, 1990, containing information for each location on safety and building codes, lease restrictions and requirements, and an assessment of any building deficiencies and recommendations for improvements.
+Pub. L. 101–630, title V, § 506(a), (b), Nov. 28, 1990, 104 Stat. 4566, directed the Secretary to conduct a survey of all facilities used by contractors under title V of the Indian Health Care Improvement Act (25 U.S.C. 1651 et seq.) and submit a report to Congress on the survey not later than one year after Nov. 28, 1990, containing information for each location on safety and building codes, lease restrictions and requirements, and an assessment of any building deficiencies and recommendations for improvements.
 
-### § 1654. Contracts and grants for determination of unmet health care needs
+### § 1654. Contracts and grants for determination of unmet health care needs
 
 **(a) Authority**
 
@@ -5455,25 +5455,25 @@ Under authority of section 13 of this title, the Secretary, through the Service,
 
 The Secretary may not renew any contract entered into, or grant made, under this section.
 
-(Pub. L. 94–437, title V, § 504, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4822; amended Pub. L. 102–573, title V, § 501(b)(2), Oct. 29, 1992, 106 Stat. 4567.)
+(Pub. L. 94–437, title V, § 504, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4822; amended Pub. L. 102–573, title V, § 501(b)(2), Oct. 29, 1992, 106 Stat. 4567.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1654, Pub. L. 94–437, title V, § 504, Sept. 30, 1976, 90 Stat. 1411; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3178, related to other contract requirements, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1654, Pub. L. 94–437, title V, § 504, Sept. 30, 1976, 90 Stat. 1411; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3178, related to other contract requirements, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 **Amendments**
 
-1992—Pub. L. 102–573, § 501(b)(2)(D), inserted “and grants” in section catchline.
+1992—Pub. L. 102–573, § 501(b)(2)(D), inserted “and grants” in section catchline.
 
-Subsec. (a). Pub. L. 102–573, § 501(b)(2)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Under authority of section 13 of this title, the Secretary, through the Service, may enter into contracts with urban Indian organizations situated in urban centers for which contracts have not been entered into under section 1653 of this title. The purpose of a contract under this section shall be the determination of the matters described in subsection (b)(1) of this section in order to assist the Secretary in assessing the health status and health care needs of urban Indians in the urban center involved and determining whether the Secretary should enter into a contract under section 1653 of this title with the urban Indian organization with which the Secretary has entered into a contract under this section.”
+Subsec. (a). Pub. L. 102–573, § 501(b)(2)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Under authority of section 13 of this title, the Secretary, through the Service, may enter into contracts with urban Indian organizations situated in urban centers for which contracts have not been entered into under section 1653 of this title. The purpose of a contract under this section shall be the determination of the matters described in subsection (b)(1) of this section in order to assist the Secretary in assessing the health status and health care needs of urban Indians in the urban center involved and determining whether the Secretary should enter into a contract under section 1653 of this title with the urban Indian organization with which the Secretary has entered into a contract under this section.”
 
-Subsec. (b). Pub. L. 102–573, § 501(b)(2)(B), inserted “, or grant made,” after “contract entered into” in introductory provisions and substituted “, or carry out the requirements of the grant, within one year after the date on which the Secretary and such organization enter into such contract, or within one year after such organization receives such grant, whichever is applicable.” for “within one year after the date on which the Secretary and such organization enter into such contract.” in par. (2).
+Subsec. (b). Pub. L. 102–573, § 501(b)(2)(B), inserted “, or grant made,” after “contract entered into” in introductory provisions and substituted “, or carry out the requirements of the grant, within one year after the date on which the Secretary and such organization enter into such contract, or within one year after such organization receives such grant, whichever is applicable.” for “within one year after the date on which the Secretary and such organization enter into such contract.” in par. (2).
 
-Subsec. (c). Pub. L. 102–573, § 501(b)(2)(C), inserted “, or grant made,” after “entered into”.
+Subsec. (c). Pub. L. 102–573, § 501(b)(2)(C), inserted “, or grant made,” after “entered into”.
 
-### § 1655. Evaluations; renewals
+### § 1655. Evaluations; renewals
 
 **(a) Contract compliance and performance**
 
@@ -5491,27 +5491,27 @@ If, as a result of the evaluations conducted under this section, the Secretary d
 
 In determining whether to renew a contract or grant with an urban Indian organization under section 1653 of this title which has completed performance of a contract or grant under section 1654 of this title, the Secretary shall review the records of the urban Indian organization, the reports submitted under section 1657 of this title, and, in the case of a renewal of a contract or grant under section 1653 of this title, shall consider the results of the onsite evaluations conducted under subsection (b).
 
-(Pub. L. 94–437, title V, § 505, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4822; amended Pub. L. 102–573, title V, § 501(b)(3), Oct. 29, 1992, 106 Stat. 4568.)
+(Pub. L. 94–437, title V, § 505, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4822; amended Pub. L. 102–573, title V, § 501(b)(3), Oct. 29, 1992, 106 Stat. 4568.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1655, Pub. L. 94–437, title V, § 505, Sept. 30, 1976, 90 Stat. 1412; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3179, related to reports by urban Indian organizations and rural Indian organizations to Secretary, contents, audit of reports and records, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1655, Pub. L. 94–437, title V, § 505, Sept. 30, 1976, 90 Stat. 1412; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3179, related to reports by urban Indian organizations and rural Indian organizations to Secretary, contents, audit of reports and records, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 **Amendments**
 
-1992—Pub. L. 102–573, § 501(b)(3)(E), substituted “renewals” for “contract renewals” in section catchline.
+1992—Pub. L. 102–573, § 501(b)(3)(E), substituted “renewals” for “contract renewals” in section catchline.
 
-Subsec. (a). Pub. L. 102–573, § 501(b)(3)(A), inserted “compliance with grant requirements under this subchapter and” before “compliance with, and”.
+Subsec. (a). Pub. L. 102–573, § 501(b)(3)(A), inserted “compliance with grant requirements under this subchapter and” before “compliance with, and”.
 
-Subsec. (b). Pub. L. 102–573, § 501(b)(3)(B), inserted “or received a grant” after “entered into a contract” and “or the terms of such grant” before period at end.
+Subsec. (b). Pub. L. 102–573, § 501(b)(3)(B), inserted “or received a grant” after “entered into a contract” and “or the terms of such grant” before period at end.
 
-Subsec. (c). Pub. L. 102–573, § 501(b)(3)(C), inserted “the requirements of a grant or complied with” after “has not complied with”, “or grant” after “such contract” wherever appearing, “or make a grant” after “enter into a contract”, and “or grant” after “whose contract”.
+Subsec. (c). Pub. L. 102–573, § 501(b)(3)(C), inserted “the requirements of a grant or complied with” after “has not complied with”, “or grant” after “such contract” wherever appearing, “or make a grant” after “enter into a contract”, and “or grant” after “whose contract”.
 
-Subsec. (d). Pub. L. 102–573, § 501(b)(3)(D), inserted “or grant” after “a contract” wherever appearing.
+Subsec. (d). Pub. L. 102–573, § 501(b)(3)(D), inserted “or grant” after “a contract” wherever appearing.
 
-### § 1656. Other contract and grant requirements
+### § 1656. Other contract and grant requirements
 
 **(a) Federal regulations; exceptions**
 
@@ -5535,39 +5535,39 @@ Contracts with, or grants to, urban Indian organizations and regulations adopted
 
 **(f) Eligibility for health care or referral services**
 
-Urban Indians, as defined in section 1603(f) 1
+Urban Indians, as defined in section 1603(f) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, shall be eligible for health care or referral services provided pursuant to this subchapter.
 
-(Pub. L. 94–437, title V, § 506, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4823; amended Pub. L. 102–573, title V, § 501(b)(4), Oct. 29, 1992, 106 Stat. 4568.)
+(Pub. L. 94–437, title V, § 506, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4823; amended Pub. L. 102–573, title V, § 501(b)(4), Oct. 29, 1992, 106 Stat. 4568.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1603(f) of this title, referred to in subsec. (f), was redesignated section 1603(28) of this title by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.
+Section 1603(f) of this title, referred to in subsec. (f), was redesignated section 1603(28) of this title by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.
 
 **Codification**
 
-“Sections 3131 and 3133 of title 40” substituted in subsec. (a) for “the Act of August 24, 1935 (40 U.S.C. 270a, et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3131 and 3133 of title 40” substituted in subsec. (a) for “the Act of August 24, 1935 (40 U.S.C. 270a, et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 **Prior Provisions**
 
-A prior section 1656, Pub. L. 94–437, title V, § 506, Sept. 30, 1976, 90 Stat. 1412; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3179, authorized appropriations, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1656, Pub. L. 94–437, title V, § 506, Sept. 30, 1976, 90 Stat. 1412; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3179, authorized appropriations, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 **Amendments**
 
-1992—Pub. L. 102–573, § 501(b)(4)(D), inserted “and grant” in section catchline.
+1992—Pub. L. 102–573, § 501(b)(4)(D), inserted “and grant” in section catchline.
 
-Subsec. (b). Pub. L. 102–573, § 501(b)(4)(A), inserted “or grants” after “any contracts”.
+Subsec. (b). Pub. L. 102–573, § 501(b)(4)(A), inserted “or grants” after “any contracts”.
 
-Subsec. (d). Pub. L. 102–573, § 501(b)(4)(B), inserted “or grant” after “contract” in two places.
+Subsec. (d). Pub. L. 102–573, § 501(b)(4)(B), inserted “or grant” after “contract” in two places.
 
-Subsec. (e). Pub. L. 102–573, § 501(b)(4)(C), inserted “, or grants to,” after “Contracts with” and “or grants” after “such contracts”.
+Subsec. (e). Pub. L. 102–573, § 501(b)(4)(C), inserted “, or grants to,” after “Contracts with” and “or grants” after “such contracts”.
 
-### § 1657. Reports and records
+### § 1657. Reports and records
 
 **(a) Quarterly reports** For each fiscal year during which an urban Indian organization receives or expends funds pursuant to a contract entered into, or a grant received, pursuant to this subchapter, such organization shall submit to the Secretary a quarterly report including—
 
@@ -5607,39 +5607,39 @@ The Secretary shall allow as a cost of any contract or grant entered into under 
 
 **(B)** submit a report on the assessment required under subparagraph (A), together with recommended legislation to improve Indian child protection in urban Indian populations, to the Congress no later than March 31, 1992.
 
-(Pub. L. 94–437, title V, § 507, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4823; amended Pub. L. 101–630, title V, § 507, Nov. 28, 1990, 104 Stat. 4566; Pub. L. 102–573, title V, § 501(b)(5), Oct. 29, 1992, 106 Stat. 4568.)
+(Pub. L. 94–437, title V, § 507, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4823; amended Pub. L. 101–630, title V, § 507, Nov. 28, 1990, 104 Stat. 4566; Pub. L. 102–573, title V, § 501(b)(5), Oct. 29, 1992, 106 Stat. 4568.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1657, Pub. L. 94–437, title V, § 507, Sept. 30, 1976, 90 Stat. 1412; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3179, related to review of program by Secretary and report to Congress, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1657, Pub. L. 94–437, title V, § 507, Sept. 30, 1976, 90 Stat. 1412; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3179, related to review of program by Secretary and report to Congress, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–573, § 501(b)(5)(A), inserted “, or a grant received,” after “entered into” in introductory provisions and “or grant” after “contract” in pars. (1) and (2).
+1992—Subsec. (a). Pub. L. 102–573, § 501(b)(5)(A), inserted “, or a grant received,” after “entered into” in introductory provisions and “or grant” after “contract” in pars. (1) and (2).
 
-Subsecs. (b), (c). Pub. L. 102–573, § 501(b)(5)(B), inserted “or grant” after “contract”.
+Subsecs. (b), (c). Pub. L. 102–573, § 501(b)(5)(B), inserted “or grant” after “contract”.
 
 1990—Subsec. (d). Pub. L. 101–630 added subsec. (d).
 
-### § 1658. Limitation on contract authority
+### § 1658. Limitation on contract authority
 
 The authority of the Secretary to enter into contracts under this subchapter shall be to the extent, and in an amount, provided for in appropriation Acts.
 
-(Pub. L. 94–437, title V, § 508, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4824.)
+(Pub. L. 94–437, title V, § 508, as added Pub. L. 100–713, title V, § 501, Nov. 23, 1988, 102 Stat. 4824.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1658, Pub. L. 94–437, title V, § 508, Sept. 30, 1976, 90 Stat. 1412, provided that not to exceed 1 per centum of the amounts authorized by section 1656 of this title be available for not to exceed two pilot projects providing outreach services to eligible Indians residing in rural communities near Indian reservations, prior to the general revision of this subchapter by Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3176.
+A prior section 1658, Pub. L. 94–437, title V, § 508, Sept. 30, 1976, 90 Stat. 1412, provided that not to exceed 1 per centum of the amounts authorized by section 1656 of this title be available for not to exceed two pilot projects providing outreach services to eligible Indians residing in rural communities near Indian reservations, prior to the general revision of this subchapter by Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3176.
 
-### § 1659. Facilities renovation
+### § 1659. Facilities renovation
 
 The Secretary may make funds available to contractors or grant recipients under this subchapter for renovations to facilities or construction or expansion of facilities, including leased facilities.
 
-(Pub. L. 94–437, title V, § 509, formerly § 409, as added Pub. L. 101–630, title V, § 506(c), Nov. 28, 1990, 104 Stat. 4566; renumbered § 509 and amended Pub. L. 102–573, title V, §§ 501(b)(6), 505(b)(2), title IX, § 902(5)(A), Oct. 29, 1992, 106 Stat. 4569, 4571, 4591; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935; Pub. L. 117–58, div. G, title XI, § 71104, Nov. 15, 2021, 135 Stat. 1326.)
+(Pub. L. 94–437, title V, § 509, formerly § 409, as added Pub. L. 101–630, title V, § 506(c), Nov. 28, 1990, 104 Stat. 4566; renumbered § 509 and amended Pub. L. 102–573, title V, §§ 501(b)(6), 505(b)(2), title IX, § 902(5)(A), Oct. 29, 1992, 106 Stat. 4569, 4571, 4591; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935; Pub. L. 117–58, div. G, title XI, § 71104, Nov. 15, 2021, 135 Stat. 1326.)
 
 **Editorial Notes**
 
@@ -5649,17 +5649,17 @@ Amendment by Pub. L. 111–148 is based on section 161 of title I of S. 1790, On
 
 **Amendments**
 
-2021—Pub. L. 117–58 struck out “minor” before “renovations” and “, to assist such contractors or grant recipients in meeting or maintaining the Joint Commission for Accreditation of Health Care Organizations (JCAHO) standards” before period at end.
+2021—Pub. L. 117–58 struck out “minor” before “renovations” and “, to assist such contractors or grant recipients in meeting or maintaining the Joint Commission for Accreditation of Health Care Organizations (JCAHO) standards” before period at end.
 
 2010—Pub. L. 111–148 inserted “or construction or expansion of facilities” after “renovations to facilities”.
 
-1992—Pub. L. 102–573, § 902(5)(A), made technical amendment to section catchline.
+1992—Pub. L. 102–573, § 902(5)(A), made technical amendment to section catchline.
 
-Pub. L. 102–573, § 505(b)(2), struck out last sentence which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this section.
+Pub. L. 102–573, § 505(b)(2), struck out last sentence which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this section.
 
-Pub. L. 102–573, § 501(b)(6), inserted “or grant recipients” after “contractors” in two places.
+Pub. L. 102–573, § 501(b)(6), inserted “or grant recipients” after “contractors” in two places.
 
-### § 1660. Urban Health Programs Branch
+### § 1660. Urban Health Programs Branch
 
 **(a) Establishment**
 
@@ -5669,17 +5669,17 @@ There is hereby established within the Service a Branch of Urban Health Programs
 
 The Secretary shall appoint such employees to work in the branch, including a program director, and shall provide such services and equipment, as may be necessary for it to carry out its responsibilities. The Secretary shall also analyze the need to provide at least one urban health program analyst for each area office of the Indian Health Service and shall submit his findings to the Congress as a part of the Department’s fiscal year 1993 budget request.
 
-(Pub. L. 94–437, title V, § 510, formerly § 511, as added Pub. L. 101–630, title V, § 508, Nov. 28, 1990, 104 Stat. 4567; renumbered § 510 and amended Pub. L. 102–573, title V, § 501(b)(7), title IX, § 902(5)(B), Oct. 29, 1992, 106 Stat. 4569, 4591.)
+(Pub. L. 94–437, title V, § 510, formerly § 511, as added Pub. L. 101–630, title V, § 508, Nov. 28, 1990, 104 Stat. 4567; renumbered § 510 and amended Pub. L. 102–573, title V, § 501(b)(7), title IX, § 902(5)(B), Oct. 29, 1992, 106 Stat. 4569, 4591.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Pub. L. 102–573, § 902(5)(B), made technical amendment to section catchline.
+1992—Pub. L. 102–573, § 902(5)(B), made technical amendment to section catchline.
 
-Subsec. (a). Pub. L. 102–573, § 501(b)(7), inserted “and for providing central oversight of the programs and services authorized under this subchapter” before period at end.
+Subsec. (a). Pub. L. 102–573, § 501(b)(7), inserted “and for providing central oversight of the programs and services authorized under this subchapter” before period at end.
 
-### § 1660a. Grants for alcohol and substance abuse related services
+### § 1660a. Grants for alcohol and substance abuse related services
 
 **(a) Grants**
 
@@ -5709,7 +5709,7 @@ The Secretary shall develop a methodology for allocating grants made pursuant to
 
 Any funds received by an urban Indian organization under this chapter for substance abuse prevention, treatment, and rehabilitation shall be subject to the criteria set forth in subsection (c).
 
-(Pub. L. 94–437, title V, § 511, as added Pub. L. 102–573, title V, § 502, Oct. 29, 1992, 106 Stat. 4569.)
+(Pub. L. 94–437, title V, § 511, as added Pub. L. 102–573, title V, § 502, Oct. 29, 1992, 106 Stat. 4569.)
 
 **Editorial Notes**
 
@@ -5721,7 +5721,7 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 A prior section 511 of Pub. L. 94–437 was renumbered section 510 and is classified to section 1660 of this title.
 
-### § 1660b. Treatment of certain demonstration projects
+### § 1660b. Treatment of certain demonstration projects
 
 Notwithstanding any other provision of law, the Tulsa Clinic and Oklahoma City Clinic demonstration projects shall—
 
@@ -5731,9 +5731,9 @@ Notwithstanding any other provision of law, the Tulsa Clinic and Oklahoma City C
 
 **(3)** continue to meet the requirements and definitions of an urban Indian organization in this chapter, and shall not be subject to the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 94–437, title V, § 512, as added Pub. L. 102–573, title V, § 503, Oct. 29, 1992, 106 Stat. 4569; amended Pub. L. 105–256, § 4(b), Oct. 14, 1998, 112 Stat. 1897; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title V, § 512, as added Pub. L. 102–573, title V, § 503, Oct. 29, 1992, 106 Stat. 4569; amended Pub. L. 105–256, § 4(b), Oct. 14, 1998, 112 Stat. 1897; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -5741,7 +5741,7 @@ Notwithstanding any other provision of law, the Tulsa Clinic and Oklahoma City C
 
 This chapter, referred to in par. (3), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in par. (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -5763,9 +5763,9 @@ Pub. L. 108–447, div. E, title II, Dec. 8, 2004, 118 Stat. 3087, provided in p
 
 **Extension of Terms of Projects**
 
-Pub. L. 105–256, § 4(a), Oct. 14, 1998, 112 Stat. 1897, provided for extension of terms of projects referred to in section 1660b of this title to Oct. 1, 2002.
+Pub. L. 105–256, § 4(a), Oct. 14, 1998, 112 Stat. 1897, provided for extension of terms of projects referred to in section 1660b of this title to Oct. 1, 2002.
 
-### § 1660c. Urban NIAAA transferred programs
+### § 1660c. Urban NIAAA transferred programs
 
 **(a) Duty of Secretary**
 
@@ -5787,7 +5787,7 @@ For the purpose of carrying out this section, the Secretary may combine NIAAA al
 
 The Secretary shall evaluate and report to the Congress on the activities of programs funded under this section at least every 5 years.
 
-(Pub. L. 94–437, title V, § 513, as added Pub. L. 102–573, title V, § 504, Oct. 29, 1992, 106 Stat. 4570; amended Pub. L. 105–362, title VI, § 602(a), Nov. 10, 1998, 112 Stat. 3286.)
+(Pub. L. 94–437, title V, § 513, as added Pub. L. 102–573, title V, § 504, Oct. 29, 1992, 106 Stat. 4570; amended Pub. L. 105–362, title VI, § 602(a), Nov. 10, 1998, 112 Stat. 3286.)
 
 **Editorial Notes**
 
@@ -5801,7 +5801,7 @@ The Secretary shall evaluate and report to the Congress on the activities of pro
 
 For termination, effective May 15, 2000, of provisions in subsec. (e) of this section relating to reporting to Congress on the activities of programs funded under this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 97 of House Document No. 103–7.
 
-### § 1660d. Conferring with urban Indian organizations
+### § 1660d. Conferring with urban Indian organizations
 
 **(a) Definition of confer** In this section, the term “confer” means to engage in an open and free exchange of information and opinions that—
 
@@ -5813,7 +5813,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (e) of this se
 
 The Secretary shall ensure that the Service confers, to the maximum extent practicable, with urban Indian organizations in carrying out this chapter.
 
-(Pub. L. 94–437, title V, § 514, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title V, § 514, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -5827,13 +5827,13 @@ Section 514 of Pub. L. 94–437 is based on section 163(a) of title I of S. 1790
 
 **Prior Provisions**
 
-A prior section 1660d, Pub. L. 94–437, title V, § 514, as added Pub. L. 102–573, title V, § 505(a), Oct. 29, 1992, 106 Stat. 4570, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal by Pub. L. 111–148 is based on section 101(b)(9) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+A prior section 1660d, Pub. L. 94–437, title V, § 514, as added Pub. L. 102–573, title V, § 505(a), Oct. 29, 1992, 106 Stat. 4570, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal by Pub. L. 111–148 is based on section 101(b)(9) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1660e. Expanded program authority for urban Indian organizations
+### § 1660e. Expanded program authority for urban Indian organizations
 
 Notwithstanding any other provision of this chapter, the Secretary, acting through the Service, is authorized to establish programs, including programs for awarding grants, for urban Indian organizations that are identical to any programs established pursuant to sections 1621q, 1665a, and 1665g(g) of this title.
 
-(Pub. L. 94–437, title V, § 515, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title V, § 515, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -5845,11 +5845,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section 515 of Pub. L. 94–437 is based on section 164 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1660f. Community Health Representatives
+### § 1660f. Community Health Representatives
 
 The Secretary, acting through the Service, may enter into contracts with, and make grants to, urban Indian organizations for the employment of Indians trained as health service providers through the Community Health Representative Program under section 1616 of this title in the provision of health care, health promotion, and disease prevention services to urban Indians.
 
-(Pub. L. 94–437, title V, § 516, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title V, § 516, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -5857,7 +5857,7 @@ The Secretary, acting through the Service, may enter into contracts with, and ma
 
 Section 516 of Pub. L. 94–437 is based on section 165 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1660g. Use of Federal Government facilities and sources of supply
+### § 1660g. Use of Federal Government facilities and sources of supply
 
 **(a) In general** The Secretary may permit an urban Indian organization that has entered into a contract or received a grant pursuant to this subchapter, in carrying out the contract or grant, to use, in accordance with such terms and conditions for use and maintenance as are agreed on by the Secretary and the urban Indian organizations—
 
@@ -5885,7 +5885,7 @@ The Secretary may acquire excess or surplus personal or real property of the Fed
 
 For purposes of section 501(a) of title 40, an urban Indian organization that has entered into a contract or received a grant pursuant to this subchapter may be considered to be an Executive agency in carrying out the contract or grant.
 
-(Pub. L. 94–437, title V, § 517, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title V, § 517, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -5893,11 +5893,11 @@ For purposes of section 501(a) of title 40, an urban Indian organization that ha
 
 Section 517 of Pub. L. 94–437 is based on section 166 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1660h. Health information technology
+### § 1660h. Health information technology
 
 The Secretary, acting through the Service, may make grants to urban Indian organizations under this subchapter for the development, adoption, and implementation of health information technology (as defined in section 300jj of title 42), telemedicine services development, and related infrastructure.
 
-(Pub. L. 94–437, title V, § 518, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title V, § 518, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -5905,7 +5905,7 @@ The Secretary, acting through the Service, may make grants to urban Indian organ
 
 Section 518 of Pub. L. 94–437 is based on section 166 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1660i. Deeming an Urban Indian organization and employees thereof to be a part of the public health service for the purposes of certain claims for personal injury
+### § 1660i. Deeming an Urban Indian organization and employees thereof to be a part of the public health service for the purposes of certain claims for personal injury
 
 Section 5321(d) of this title shall apply—
 
@@ -5913,7 +5913,7 @@ Section 5321(d) of this title shall apply—
 
 **(2)** to the employees of an Urban Indian organization to the same extent and in the same manner as such section applies to employees of an Indian tribe, a tribal organization, or an Indian contractor.
 
-(Pub. L. 94–437, title V, § 519, as added Pub. L. 116–313, § 1, Jan. 5, 2021, 134 Stat. 4929.)
+(Pub. L. 94–437, title V, § 519, as added Pub. L. 116–313, § 1, Jan. 5, 2021, 134 Stat. 4929.)
 
 ## SUBCHAPTER V—ORGANIZATIONAL IMPROVEMENTS
 
@@ -5923,7 +5923,7 @@ Section 5321(d) of this title shall apply—
 
 This subchapter was in the original title VI of Pub. L. 94–437. Titles IV and V of Pub. L. 94–437 are classified to subchapters III–A and IV of this chapter, respectively.
 
-### § 1661. Establishment of the Indian Health Service as an agency of the Public Health Service
+### § 1661. Establishment of the Indian Health Service as an agency of the Public Health Service
 
 **(a) Establishment**
 
@@ -5965,9 +5965,9 @@ The Service shall be an agency within the Public Health Service of the Departmen
 
 **(D)** the Act of August 16, 1957 (42 U.S.C. 2005 et seq.); and
 
-**(E)** the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.); 1
+**(E)** the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(4)** administer all scholarship and loan functions carried out under subchapter I;
 
@@ -5997,11 +5997,11 @@ The Service shall be an agency within the Public Health Service of the Departmen
 
 Notwithstanding any other provision of law, the provisions of section 5116 of this title,2
 
-<sup>2</sup>  So in original. The comma probably should not appear.
+<sup>2</sup> So in original. The comma probably should not appear.
 
 shall apply to all personnel actions taken with respect to new positions created within the Service as a result of its establishment under subsection (a).
 
-(Pub. L. 94–437, title VI, § 601, as added Pub. L. 100–713, title VI, § 601(a), Nov. 23, 1988, 102 Stat. 4824; amended Pub. L. 102–573, title VI, §§ 601, 602(a)(1), (c), title IX, § 902(6), (7), Oct. 29, 1992, 106 Stat. 4571, 4592; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VI, § 601, as added Pub. L. 100–713, title VI, § 601(a), Nov. 23, 1988, 102 Stat. 4824; amended Pub. L. 102–573, title VI, §§ 601, 602(a)(1), (c), title IX, § 902(6), (7), Oct. 29, 1992, 106 Stat. 4571, 4592; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6009,11 +6009,11 @@ shall apply to all personnel actions taken with respect to new positions created
 
 This chapter, referred to in subsec. (c)(3)(A), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-Act of August 5, 1954, referred to in subsec. (c)(3)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Act of August 5, 1954, referred to in subsec. (c)(3)(C), is act Aug. 5, 1954, ch. 658, 68 Stat. 674, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-Act of August 16, 1957, referred to in subsec. (c)(3)(D), is Pub. L. 85–151, Aug. 16, 1957, 71 Stat. 370, which is classified generally to subchapter II (§ 2005 et seq.) of chapter 22 of Title 42. For complete classification of this Act to the Code, see Tables.
+Act of August 16, 1957, referred to in subsec. (c)(3)(D), is Pub. L. 85–151, Aug. 16, 1957, 71 Stat. 370, which is classified generally to subchapter II (§ 2005 et seq.) of chapter 22 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (c)(3)(E), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (c)(3)(E), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -6023,31 +6023,31 @@ Amendment by Pub. L. 111–148 is based on section 171 of title I of S. 1790, On
 
 **Prior Provisions**
 
-A prior section 1661, Pub. L. 94–437, title VI, § 601, Sept. 30, 1976, 90 Stat. 1412, related to feasibility study and report to Congress, prior to the general revision of this subchapter by Pub. L. 100–713.
+A prior section 1661, Pub. L. 94–437, title VI, § 601, Sept. 30, 1976, 90 Stat. 1412, related to feasibility study and report to Congress, prior to the general revision of this subchapter by Pub. L. 100–713.
 
 **Amendments**
 
 2010—Pub. L. 111–148 amended section generally, revising and restating provisions relating to establishment of the Indian Health Service as an agency of the Public Health Service and inserting additional provisions relating to responsibilities of the Director.
 
-1992—Subsec. (a). Pub. L. 102–573, § 602(c), inserted at end “Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term.”
+1992—Subsec. (a). Pub. L. 102–573, § 602(c), inserted at end “Effective with respect to an individual appointed by the President, by and with the advice and consent of the Senate, after January 1, 1993, the term of service of the Director shall be 4 years. A Director may serve more than 1 term.”
 
-Pub. L. 102–573, § 602(a)(1), substituted “President, by and with the advice and consent of the Senate” for “Secretary” in second sentence.
+Pub. L. 102–573, § 602(a)(1), substituted “President, by and with the advice and consent of the Senate” for “Secretary” in second sentence.
 
-Subsec. (c)(3)(D). Pub. L. 102–573, § 902(6), substituted “(42 U.S.C. 2005 et seq.)” for “(25 U.S.C. 2005, et seq.)”.
+Subsec. (c)(3)(D). Pub. L. 102–573, § 902(6), substituted “(42 U.S.C. 2005 et seq.)” for “(25 U.S.C. 2005, et seq.)”.
 
-Subsec. (c)(4). Pub. L. 102–573, § 601, added par. (4).
+Subsec. (c)(4). Pub. L. 102–573, § 601, added par. (4).
 
-Subsec. (d)(1)(C). Pub. L. 102–573, § 902(7), substituted “appropriated” for “appropriate”.
+Subsec. (d)(1)(C). Pub. L. 102–573, § 902(7), substituted “appropriated” for “appropriate”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–573, title VI, § 602(a)(2), Oct. 29, 1992, 106 Stat. 4571, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect January 1, 1993.”
+Pub. L. 102–573, title VI, § 602(a)(2), Oct. 29, 1992, 106 Stat. 4571, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect January 1, 1993.”
 
 **Effective Date**
 
-Pub. L. 100–713, title VI, § 601(c), Nov. 23, 1988, 102 Stat. 4826, provided that:
+Pub. L. 100–713, title VI, § 601(c), Nov. 23, 1988, 102 Stat. 4826, provided that:
 
 > **“(1)** Except as provided in paragraph (2), section 601 of the Indian Health Care Improvement Act [this section] added by subsection (a) of this section shall take effect 9 months from the date of the enactment of this section [Nov. 23, 1988].
 
@@ -6055,13 +6055,13 @@ Pub. L. 100–713, title VI, § 601(c), Nov. 23, 1988, 102 Stat. 4826, provide
 
 **Interim Appointment**
 
-Pub. L. 102–573, title VI, § 602(b), Oct. 29, 1992, 106 Stat. 4571, authorized the President to appoint an individual to serve as Interim Director of the Service from Jan. 1, 1993, until confirmation of a Director.
+Pub. L. 102–573, title VI, § 602(b), Oct. 29, 1992, 106 Stat. 4571, authorized the President to appoint an individual to serve as Interim Director of the Service from Jan. 1, 1993, until confirmation of a Director.
 
 **Transfer of Personnel, Records, Equipment, Etc., to Indian Health Service**
 
-Pub. L. 100–713, title VI, § 601(b), Nov. 23, 1988, 102 Stat. 4826, provided for the transfer within 9 months of Nov. 23, 1988, of personnel, records, equipment, facilities, and interests in property of the Indian Health Service to the Indian Health Service established by Pub. L. 100–713.
+Pub. L. 100–713, title VI, § 601(b), Nov. 23, 1988, 102 Stat. 4826, provided for the transfer within 9 months of Nov. 23, 1988, of personnel, records, equipment, facilities, and interests in property of the Indian Health Service to the Indian Health Service established by Pub. L. 100–713.
 
-### § 1662. Automated management information system
+### § 1662. Automated management information system
 
 **(a) Establishment**
 
@@ -6093,19 +6093,19 @@ Pub. L. 100–713, title VI, § 601(b), Nov. 23, 1988, 102 Stat. 4826, provide
 
 Notwithstanding any other provision of law, each patient shall have reasonable access to the medical or health records of such patient which are held by, or on behalf of, the Service.
 
-(Pub. L. 94–437, title VI, § 602, as added Pub. L. 100–713, title VI, § 601(a), Nov. 23, 1988, 102 Stat. 4825; amended Pub. L. 102–573, title IX, § 901(3), Oct. 29, 1992, 106 Stat. 4591.)
+(Pub. L. 94–437, title VI, § 602, as added Pub. L. 100–713, title VI, § 601(a), Nov. 23, 1988, 102 Stat. 4825; amended Pub. L. 102–573, title IX, § 901(3), Oct. 29, 1992, 106 Stat. 4591.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in subsec. (b)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (b)(1), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
 1992—Subsec. (a)(3). Pub. L. 102–573 struck out par. (3) which directed Secretary to submit report to Congress no later than Sept. 30, 1989.
 
-### § 1663. Office of Direct Service Tribes
+### § 1663. Office of Direct Service Tribes
 
 **(a) Establishment**
 
@@ -6127,7 +6127,7 @@ The Office of Direct Service Tribes shall be located in the Office of the Direct
 
 **(5)** directing a national program and providing leadership and advocacy in the development of health policy, program management, budget formulation, resource allocation, and delegation support for direct service tribes.
 
-(Pub. L. 94–437, title VI, § 603, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VI, § 603, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6137,9 +6137,9 @@ Section 603 of Pub. L. 94–437 is based on section 172 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1663, Pub. L. 94–437, title VI, § 603, as added Pub. L. 102–573, title VI, § 603, Oct. 29, 1992, 106 Stat. 4571, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 101(b)(10) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+A prior section 1663, Pub. L. 94–437, title VI, § 603, as added Pub. L. 102–573, title VI, § 603, Oct. 29, 1992, 106 Stat. 4571, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 101(b)(10) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1663a. Nevada Area Office
+### § 1663a. Nevada Area Office
 
 **(a) In general**
 
@@ -6161,7 +6161,7 @@ If the Secretary fails to submit a plan in accordance with subsection (a), the S
 
 The operations funds withheld pursuant to paragraph (2) may be restored, at the discretion of the Secretary, to the Office of the Director on achievement by that Office of compliance with this section.
 
-(Pub. L. 94–437, title VI, § 604, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VI, § 604, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6175,11 +6175,11 @@ Section 604 of Pub. L. 94–437 is based on section 173 of title I of S. 1790, O
 
 **Codification**
 
-Title VII of the Indian Health Care Improvement Act, comprising this subchapter, was originally enacted by Pub. L. 94–437, title VII, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4572, and amended by Pub. L. 104–313, Oct. 19, 1996, 110 Stat. 3820; Pub. L. 105–244, Oct. 7, 1998, 112 Stat. 1581; Pub. L. 105–256, Oct. 14, 1998, 112 Stat. 1896; Pub. L. 110–315, Aug. 14, 2008, 122 Stat. 3078. Such title is shown herein, however, as having been added by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 111–148. A prior title VII was renumbered VIII by Pub. L. 102–573 and is classified to subchapter VI of this chapter.
+Title VII of the Indian Health Care Improvement Act, comprising this subchapter, was originally enacted by Pub. L. 94–437, title VII, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4572, and amended by Pub. L. 104–313, Oct. 19, 1996, 110 Stat. 3820; Pub. L. 105–244, Oct. 7, 1998, 112 Stat. 1581; Pub. L. 105–256, Oct. 14, 1998, 112 Stat. 1896; Pub. L. 110–315, Aug. 14, 2008, 122 Stat. 3078. Such title is shown herein, however, as having been added by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, without reference to such intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 111–148. A prior title VII was renumbered VIII by Pub. L. 102–573 and is classified to subchapter VI of this chapter.
 
 ### Part A—General Programs
 
-#### § 1665. Definitions
+#### § 1665. Definitions
 
 In this part:
 
@@ -6253,7 +6253,7 @@ The term “fetal alcohol spectrum disorders” includes a range of effects that
 
 The term “substance abuse” includes inhalant abuse.
 
-(Pub. L. 94–437, title VII, § 701, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 701, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6263,9 +6263,9 @@ Section 701 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665, Pub. L. 94–437, title VII, § 701, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4572, related to responsibilities of Indian Health Service for alcohol and substance abuse prevention and treatment, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665, Pub. L. 94–437, title VII, § 701, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4572, related to responsibilities of Indian Health Service for alcohol and substance abuse prevention and treatment, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665a. Behavioral health prevention and treatment services
+#### § 1665a. Behavioral health prevention and treatment services
 
 **(a) Purposes** The purposes of this section are as follows:
 
@@ -6401,7 +6401,7 @@ The Secretary, acting through the Service, shall coordinate behavioral health pl
 
 Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, shall make an assessment of the need for inpatient mental health care among Indians and the availability and cost of inpatient mental health facilities which can meet such need. In making such assessment, the Secretary shall consider the possible conversion of existing, underused Service hospital beds into psychiatric units to meet such need.
 
-(Pub. L. 94–437, title VII, § 702, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 702, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6411,13 +6411,13 @@ Section 702 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665a, Pub. L. 94–437, title VII, § 702, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4573, provided for Indian Health Service program, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665a, Pub. L. 94–437, title VII, § 702, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4573, provided for Indian Health Service program, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665b. Memoranda of agreement with the Department of the Interior
+#### § 1665b. Memoranda of agreement with the Department of the Interior
 
-**(a) Contents** Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, and the Secretary of the Interior shall develop and enter into a memoranda 1
+**(a) Contents** Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, and the Secretary of the Interior shall develop and enter into a memoranda 1
 
-<sup>1</sup>  So in original. Probably should be “memorandum”.
+<sup>1</sup> So in original. Probably should be “memorandum”.
 
 of agreement, or review and update any existing memoranda of agreement, as required by section 4205 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2411) under which the Secretaries address the following:
 
@@ -6459,13 +6459,13 @@ of agreement, or review and update any existing memoranda of agreement, as requi
 
 Each memorandum of agreement entered into or renewed (and amendments or modifications thereto) under subsection (a) shall be published in the Federal Register. At the same time as publication in the Federal Register, the Secretary shall provide a copy of such memoranda, amendment, or modification to each Indian tribe, tribal organization, and urban Indian organization.
 
-(Pub. L. 94–437, title VII, § 703, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 703, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (a)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§ 2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (a)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§ 2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
 This chapter, referred to in subsec. (a)(6)(A), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
@@ -6475,9 +6475,9 @@ Section 703 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665b, Pub. L. 94–437, title VII, § 703, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4573, related to Indian women treatment programs, prior to the general amendment of this subchapter by Pub. L. 111–148. See section 1665f of this title.
+A prior section 1665b, Pub. L. 94–437, title VII, § 703, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4573, related to Indian women treatment programs, prior to the general amendment of this subchapter by Pub. L. 111–148. See section 1665f of this title.
 
-#### § 1665c. Comprehensive behavioral health prevention and treatment program
+#### § 1665c. Comprehensive behavioral health prevention and treatment program
 
 **(a) Establishment**
 
@@ -6509,7 +6509,7 @@ The Secretary, acting through the Service, may enter into contracts with public 
 
 In carrying out this subsection, the Secretary shall provide assistance to Indian tribes and tribal organizations to develop criteria for the certification of behavioral health service providers and accreditation of service facilities which meet minimum standards for such services and facilities.
 
-(Pub. L. 94–437, title VII, § 704, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 704, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6519,9 +6519,9 @@ Section 704 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665c, Pub. L. 94–437, title VII, § 704, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4574, provided for Indian Health Service program of alcohol and substance abuse detoxification and rehabilitation for Indian youth, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665c, Pub. L. 94–437, title VII, § 704, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4574, provided for Indian Health Service program of alcohol and substance abuse detoxification and rehabilitation for Indian youth, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665d. Mental health technician program
+#### § 1665d. Mental health technician program
 
 **(a) In general** Pursuant to section 13 of this title, the Secretary shall establish and maintain a mental health technician program within the Service which—
 
@@ -6541,7 +6541,7 @@ The Secretary, acting through the Service, shall supervise and evaluate the ment
 
 The Secretary, acting through the Service, shall ensure that the program established pursuant to this section involves the use and promotion of the traditional health care practices of the Indian tribes to be served.
 
-(Pub. L. 94–437, title VII, § 705, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 705, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6551,9 +6551,9 @@ Section 705 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665d, Pub. L. 94–437, title VII, § 705, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4576, provided for program of training and community education about alcohol and substance abuse, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665d, Pub. L. 94–437, title VII, § 705, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4576, provided for program of training and community education about alcohol and substance abuse, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665e. Licensing requirement for mental health care workers
+#### § 1665e. Licensing requirement for mental health care workers
 
 **(a) In general**
 
@@ -6567,7 +6567,7 @@ Subject to section 1621t of this title, and except as provided in subsection (b)
 
 **(3)** meets such other training, supervision, and quality review requirements as the Secretary may establish.
 
-(Pub. L. 94–437, title VII, § 706, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 706, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6581,9 +6581,9 @@ Section 706 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665e, Pub. L. 94–437, title VII, § 706, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4576; amended Pub. L. 104–313, § 2(e), Oct. 19, 1996, 110 Stat. 3822, provided for establishment of an alcohol and substance abuse residential treatment center in Gallup, New Mexico, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665e, Pub. L. 94–437, title VII, § 706, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4576; amended Pub. L. 104–313, § 2(e), Oct. 19, 1996, 110 Stat. 3822, provided for establishment of an alcohol and substance abuse residential treatment center in Gallup, New Mexico, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665f. Indian women treatment programs
+#### § 1665f. Indian women treatment programs
 
 **(a) Grants**
 
@@ -6605,7 +6605,7 @@ The Secretary, in consultation with Indian tribes and tribal organizations, shal
 
 20 percent of the funds appropriated pursuant to this section shall be used to make grants to urban Indian organizations.
 
-(Pub. L. 94–437, title VII, § 707, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 707, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6615,15 +6615,15 @@ Section 707 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665f, Pub. L. 94–437, title VII, § 707, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4577, related to compilation of data and preparation of reports on cases of alcohol or substance abuse in which Indian Health Service personnel or services were involved, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665f, Pub. L. 94–437, title VII, § 707, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4577, related to compilation of data and preparation of reports on cases of alcohol or substance abuse in which Indian Health Service personnel or services were involved, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665g. Indian youth program
+#### § 1665g. Indian youth program
 
 **(a) Detoxification and rehabilitation**
 
 The Secretary, acting through the Service, consistent with section 1665a of this title, shall develop and implement a program for acute detoxification and treatment for Indian youths, including behavioral health services. The program shall include regional treatment centers designed to include detoxification and rehabilitation for both sexes on a referral basis and programs developed and implemented by Indian tribes or tribal organizations at the local level under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 Regional centers shall be integrated with the intake and rehabilitation programs based in the referring Indian community.
 
@@ -6731,13 +6731,13 @@ The Secretary, acting through the Service, shall provide, consistent with sectio
 
 **(5)** the costs of the services described in paragraph (4).
 
-(Pub. L. 94–437, title VII, § 708, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 708, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (a) and (b)(4)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4(*l*) of the Act was classified to section 450b(*l*) of this title prior to editorial reclassification as section 5304(*l*) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (a) and (b)(4)(A)(ii), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4(*l*) of the Act was classified to section 450b(*l*) of this title prior to editorial reclassification as section 5304(*l*) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -6745,17 +6745,17 @@ Section 708 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665g, Pub. L. 94–437, title VII, § 708, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4578, provided for grants to Indian tribes and tribal organizations to establish fetal alcohol syndrome and fetal alcohol effect programs, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665g, Pub. L. 94–437, title VII, § 708, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4578, provided for grants to Indian tribes and tribal organizations to establish fetal alcohol syndrome and fetal alcohol effect programs, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665h. Inpatient and community-based mental health facilities design, construction, and staffing
+#### § 1665h. Inpatient and community-based mental health facilities design, construction, and staffing
 
 Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, may provide, in each area of the Service, not less than 1 inpatient mental health care facility, or the equivalent, for Indians with behavioral health problems. For the purposes of this subsection,1
 
-<sup>1</sup>  So in original. Probably should be “section,”.
+<sup>1</sup> So in original. Probably should be “section,”.
 
 California shall be considered to be 2 area offices, 1 office whose location shall be considered to encompass the northern area of the State of California and 1 office whose jurisdiction shall be considered to encompass the remainder of the State of California. The Secretary shall consider the possible conversion of existing, underused Service hospital beds into psychiatric units to meet such need.
 
-(Pub. L. 94–437, title VII, § 709, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 709, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6765,9 +6765,9 @@ Section 709 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665h, Pub. L. 94–437, title VII, § 709, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4579, related to the Pueblo substance abuse treatment project for San Juan Pueblo, New Mexico, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665h, Pub. L. 94–437, title VII, § 709, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4579, related to the Pueblo substance abuse treatment project for San Juan Pueblo, New Mexico, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665i. Training and community education
+#### § 1665i. Training and community education
 
 **(a) Program**
 
@@ -6785,7 +6785,7 @@ The Secretary, acting through the Service, shall provide instruction in the area
 
 **(3)** community-based and multidisciplinary strategies for preventing and treating behavioral health problems.
 
-(Pub. L. 94–437, title VII, § 710, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 710, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6795,9 +6795,9 @@ Section 710 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665i, Pub. L. 94–437, title VII, § 710, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4580, provided for the completion of construction of the Thunder Child Treatment Center, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665i, Pub. L. 94–437, title VII, § 710, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4580, provided for the completion of construction of the Thunder Child Treatment Center, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665j. Behavioral health program
+#### § 1665j. Behavioral health program
 
 **(a) Innovative programs**
 
@@ -6821,11 +6821,11 @@ The Secretary, acting through the Service, consistent with section 1665a of this
 
 For purposes of this subsection,1
 
-<sup>1</sup>  So in original. Probably should be “section,”.
+<sup>1</sup> So in original. Probably should be “section,”.
 
 the Secretary shall, in evaluating project applications or proposals, use the same criteria that the Secretary uses in evaluating any other application or proposal for such funding.
 
-(Pub. L. 94–437, title VII, § 711, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 711, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6835,9 +6835,9 @@ Section 711 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665j, Pub. L. 94–437, title VII, § 711, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4580; amended Pub. L. 104–313, § 2(f), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 105–256, § 13(a), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 110–315, title IX, § 941(k)(2)(I)(iii), Aug. 14, 2008, 122 Stat. 3467, authorized substance abuse counselor education demonstration projects, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665j, Pub. L. 94–437, title VII, § 711, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4580; amended Pub. L. 104–313, § 2(f), Oct. 19, 1996, 110 Stat. 3822; Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 105–256, § 13(a), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 110–315, title IX, § 941(k)(2)(I)(iii), Aug. 14, 2008, 122 Stat. 3467, authorized substance abuse counselor education demonstration projects, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665k. Fetal alcohol spectrum disorders programs
+#### § 1665k. Fetal alcohol spectrum disorders programs
 
 **(a) Programs**
 
@@ -6891,7 +6891,7 @@ The Secretary, acting through the Substance Abuse and Mental Health Services Adm
 
 Ten percent of the funds appropriated pursuant to this section shall be used to make grants to urban Indian Organizations funded under subchapter IV.
 
-(Pub. L. 94–437, title VII, § 712, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 712, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6901,9 +6901,9 @@ Section 712 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665k, Pub. L. 94–437, title VII, § 712, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4581, provided for establishment of the Gila River alcohol and substance abuse treatment facility, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665k, Pub. L. 94–437, title VII, § 712, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4581, provided for establishment of the Gila River alcohol and substance abuse treatment facility, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665l. Child sexual abuse prevention and treatment programs
+#### § 1665l. Child sexual abuse prevention and treatment programs
 
 **(a) Establishment** The Secretary, acting through the Service, shall establish, consistent with section 1665a of this title, in every Service area, programs involving treatment for—
 
@@ -6925,13 +6925,13 @@ A prior section 1665k, Pub. L. 94–437, title VII, § 712, as added Pub. L. 1
 
 The programs established under subsection (a) shall be carried out in coordination with programs and services authorized under the Indian Child Protection and Family Violence Prevention Act (25 U.S.C. 3201 et seq.).
 
-(Pub. L. 94–437, title VII, § 713, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 713, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Child Protection and Family Violence Prevention Act, referred to in subsec. (c), is title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, which is classified principally to chapter 34 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
+The Indian Child Protection and Family Violence Prevention Act, referred to in subsec. (c), is title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, which is classified principally to chapter 34 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 **Codification**
 
@@ -6939,9 +6939,9 @@ Section 713 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665*l*, Pub. L. 94–437, title VII, § 713, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4581, provided for the conduct of the Alaska Native drug and alcohol abuse demonstration project, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665*l*, Pub. L. 94–437, title VII, § 713, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4581, provided for the conduct of the Alaska Native drug and alcohol abuse demonstration project, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665m. Domestic and sexual violence prevention and treatment
+#### § 1665m. Domestic and sexual violence prevention and treatment
 
 **(a) In general** The Secretary, in accordance with section 1665a of this title, is authorized to establish in each Service area programs involving the prevention and treatment of—
 
@@ -6985,7 +6985,7 @@ Not later than 18 months after March 23, 2010, the Secretary shall submit to the
 
 Not later than 2 years after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes, with respect to the matters described in paragraph (1), the improvements made and needed, problems or obstacles identified, and costs necessary to address the problems or obstacles, and any other recommendations that the Secretary determines to be appropriate.
 
-(Pub. L. 94–437, title VII, § 714, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 714, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -6995,9 +6995,9 @@ Section 714 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1665m, Pub. L. 94–437, title VII, § 714, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4581, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665m, Pub. L. 94–437, title VII, § 714, as added Pub. L. 102–573, title VII, § 702(a), Oct. 29, 1992, 106 Stat. 4581, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to the general amendment of this subchapter by Pub. L. 111–148.
 
-#### § 1665n. Behavioral health research
+#### § 1665n. Behavioral health research
 
 **(a) In general** The Secretary, in consultation with appropriate Federal agencies, shall make grants to, or enter into contracts with, Indian tribes, tribal organizations, and urban Indian organizations or enter into contracts with, or make grants to appropriate institutions for, the conduct of research on the incidence and prevalence of behavioral health problems among Indians served by the Service, Indian tribes, or tribal organizations and among Indians in urban areas. Research priorities under this section shall include—
 
@@ -7015,7 +7015,7 @@ A prior section 1665m, Pub. L. 94–437, title VII, § 714, as added Pub. L. 1
 
 The effect of the interrelationships and interdependencies referred to in subsection (a)(2) on children, and the development of prevention techniques under subsection (a)(3) applicable to children, shall be emphasized.
 
-(Pub. L. 94–437, title VII, § 715, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 715, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -7025,7 +7025,7 @@ Section 715 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 ### Part B—Indian Youth Suicide Prevention
 
-#### § 1667. Findings and purpose
+#### § 1667. Findings and purpose
 
 **(a) Findings** Congress finds that—
 
@@ -7127,7 +7127,7 @@ Section 715 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 **(3)** to enhance the provision of mental health care services to Indian youth through existing grant programs of the Substance Abuse and Mental Health Services Administration.
 
-(Pub. L. 94–437, title VII, § 721, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 721, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -7135,7 +7135,7 @@ Section 715 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 Section 721 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-#### § 1667a. Definitions
+#### § 1667a. Definitions
 
 In this part:
 
@@ -7151,7 +7151,7 @@ The term “demonstration project” means the Indian youth telemental health de
 
 The term “telemental health” means the use of electronic information and telecommunications technologies to support long-distance mental health care, patient and professional-related education, public health, and health administration.
 
-(Pub. L. 94–437, title VII, § 722, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 722, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -7159,7 +7159,7 @@ The term “telemental health” means the use of electronic information and tel
 
 Section 722 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-#### § 1667b. Indian youth telemental health demonstration project
+#### § 1667b. Indian youth telemental health demonstration project
 
 **(a) Authorization**
 
@@ -7297,7 +7297,7 @@ On a determination by the Secretary under clause (ii) of subparagraph (A) that t
 
 There is authorized to be appropriated to carry out this section $1,500,000 for each of fiscal years 2010 through 2013.
 
-(Pub. L. 94–437, title VII, § 723, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 723, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -7305,7 +7305,7 @@ There is authorized to be appropriated to carry out this section $1,500,000 for 
 
 Section 723 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-#### § 1667c. Substance abuse and mental health services Administration grants
+#### § 1667c. Substance abuse and mental health services Administration grants
 
 **(a) Grant applications**
 
@@ -7411,7 +7411,7 @@ There are authorized to be appropriated to the Secretary such sums as the Secret
 
 The Secretary, acting through the Administration, shall ensure that each affected entity carrying out a youth suicide early intervention and prevention strategy described in section 290bb–36(c)(1) of title 42, or any other youth suicide-related early intervention and assessment activity, provides training or education to individuals who interact frequently with the Indian youth to be served by the affected entity (including parents, teachers, coaches, and mentors) on identifying warning signs of Indian youth who are at risk of committing suicide.
 
-(Pub. L. 94–437, title VII, § 724, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 724, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -7419,7 +7419,7 @@ The Secretary, acting through the Administration, shall ensure that each affecte
 
 Section 724 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-#### § 1667d. Use of predoctoral psychology and psychiatry interns
+#### § 1667d. Use of predoctoral psychology and psychiatry interns
 
 The Secretary shall carry out such activities as the Secretary determines to be necessary to encourage Indian tribes, tribal organizations, and other mental health care providers to obtain the services of predoctoral psychology and psychiatry interns—
 
@@ -7427,7 +7427,7 @@ The Secretary shall carry out such activities as the Secretary determines to be 
 
 **(2)** for purposes of recruitment and retention.
 
-(Pub. L. 94–437, title VII, § 725, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VII, § 725, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -7435,7 +7435,7 @@ The Secretary shall carry out such activities as the Secretary determines to be 
 
 Section 725 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-#### § 1667e. Indian youth life skills development demonstration program
+#### § 1667e. Indian youth life skills development demonstration program
 
 **(a) Purpose** The purpose of this section is to authorize the Secretary, acting through the Administration, to carry out a demonstration program to test the effectiveness of a culturally compatible, school-based, life skills curriculum for the prevention of Indian and Alaska Native adolescent suicide, including through—
 
@@ -7515,9 +7515,9 @@ The grants provided under this section shall be of equal amounts.
 
 **(i)** a school operated by the Bureau of Indian Education;
 
-**(ii)** a Tribal 1
+**(ii)** a Tribal 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 school; and
 
@@ -7611,7 +7611,7 @@ The Secretary shall provide a notice of the report under paragraph (1) and an op
 
 There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2010 through 2014.
 
-(Pub. L. 94–437, title VII, § 726, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935; amended Pub. L. 114–95, title IX, § 9215(qq), Dec. 10, 2015, 129 Stat. 2181.)
+(Pub. L. 94–437, title VII, § 726, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935; amended Pub. L. 114–95, title IX, § 9215(qq), Dec. 10, 2015, 129 Stat. 2181.)
 
 **Editorial Notes**
 
@@ -7641,7 +7641,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 This subchapter was in the original title VIII, formerly VII, of Pub. L. 94–437, as renumbered by Pub. L. 102–573. Titles IV, V, VI, and VII of Pub. L. 94–437 are classified to subchapters III–A, IV, V, and V–A of this chapter, respectively.
 
-### § 1671. Reports
+### § 1671. Reports
 
 The President shall, at the time the budget is submitted under section 1105 of title 31, for each fiscal year transmit to the Congress a report containing—
 
@@ -7659,7 +7659,7 @@ The President shall, at the time the budget is submitted under section 1105 of t
 
 **(D)** comparing such rates of use with rates of use among comparable non-Indian populations.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(4)** a separate statement which specifies the amount of funds requested to carry out the provisions of section 1621 of this title;
 
@@ -7667,49 +7667,49 @@ The President shall, at the time the budget is submitted under section 1105 of t
 
 **(6)** the reports required by sections 1602(d),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
-1616a(n), 1621b(b), 1621h(j), 1631(c), 1632(g), 1634(a)(3), 1643, 1665g(e),2 and 1680g(a), and 1680*l*(f) 2 of this title;
+1616a(n), 1621b(b), 1621h(j), 1631(c), 1632(g), 1634(a)(3), 1643, 1665g(e),2 and 1680g(a), and 1680*l*(f) 2 of this title;
 
-**(7)** for fiscal year 1995, the report required by sections 1665a(c)(3) <sup>2</sup> and 1665*l*(b) <sup>2</sup> of this title;
+**(7)** for fiscal year 1995, the report required by sections 1665a(c)(3) <sup>2</sup> and 1665*l*(b) <sup>2</sup> of this title;
 
-**(8)** for fiscal year 1997, the interim report required by section 1637(h)(1) <sup>2</sup> of this title; and
+**(8)** for fiscal year 1997, the interim report required by section 1637(h)(1) <sup>2</sup> of this title; and
 
-**(9)** for fiscal year 1999, the reports required by sections 1637(h)(2),<sup>2</sup> 1660b(b),<sup>2</sup> 1665j(f),<sup>2</sup> and 1680k(g) <sup>2</sup> of this title.
+**(9)** for fiscal year 1999, the reports required by sections 1637(h)(2),<sup>2</sup> 1660b(b),<sup>2</sup> 1665j(f),<sup>2</sup> and 1680k(g) <sup>2</sup> of this title.
 
-(Pub. L. 94–437, title VIII, § 801, formerly title VII, § 701, Sept. 30, 1976, 90 Stat. 1413; renumbered title VIII, § 801, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 801, Oct. 29, 1992, 106 Stat. 4572, 4584.)
+(Pub. L. 94–437, title VIII, § 801, formerly title VII, § 701, Sept. 30, 1976, 90 Stat. 1413; renumbered title VIII, § 801, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 801, Oct. 29, 1992, 106 Stat. 4572, 4584.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1602 of this title, referred to in par. (6), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (d).
+Section 1602 of this title, referred to in par. (6), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (d).
 
-Section 1665g of this title, referred to in par. (6), was omitted and a new section 1665g was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. Subsec. (e) of the new section 1665g does not relate to reporting requirements.
+Section 1665g of this title, referred to in par. (6), was omitted and a new section 1665g was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. Subsec. (e) of the new section 1665g does not relate to reporting requirements.
 
-Section 1680*l* of this title, referred to in par. (6), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (f).
+Section 1680*l* of this title, referred to in par. (6), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (f).
 
-Section 1665a of this title, referred to in par. (7), was omitted and a new section 1665a was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. Subsec. (c)(3) of the new section 1665a does not relate to reporting requirements.
+Section 1665a of this title, referred to in par. (7), was omitted and a new section 1665a was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. Subsec. (c)(3) of the new section 1665a does not relate to reporting requirements.
 
-Section 1665*l* of this title, referred to in par. (7), was omitted and a new section 1665*l* was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The new section 1665*l* does not contain provisions relating to reporting requirements.
+Section 1665*l* of this title, referred to in par. (7), was omitted and a new section 1665*l* was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The new section 1665*l* does not contain provisions relating to reporting requirements.
 
-Section 1637 of this title, referred to in pars. (8) and (9), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (h).
+Section 1637 of this title, referred to in pars. (8) and (9), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (h).
 
-Section 1660b of this title, referred to in par. (9), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (b).
+Section 1660b of this title, referred to in par. (9), was amended generally by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935, and, as so amended, no longer contains a subsec. (b).
 
-Section 1665j of this title, referred to in par. (9), was omitted and a new section 1665j was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The new section 1665j does not contain a subsec. (f).
+Section 1665j of this title, referred to in par. (9), was omitted and a new section 1665j was enacted in the general amendment of subchapter V–A by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The new section 1665j does not contain a subsec. (f).
 
-Section 1680k of this title, referred to in par. (9), was repealed by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.
+Section 1680k of this title, referred to in par. (9), was repealed by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.
 
 **Amendments**
 
-1992—Pub. L. 102–573, § 801, amended section generally. Prior to amendment, section read as follows: “The Secretary shall report annually to the President and the Congress on progress made in effecting the purposes of this chapter. Within three months after the end of fiscal year 1979, the Secretary shall review expenditures and progress made under this chapter and make recommendations to the Congress concerning any additional authorizations for fiscal years 1981 through 1984 for programs authorized under this chapter which he deems appropriate. In the event the Congress enacts legislation authorizing appropriations for programs under this chapter for fiscal years 1981 through 1984, within three months after the end of fiscal year 1983, the Secretary shall review programs established or assisted pursuant to this chapter and shall submit to the Congress his assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and insure a health status for Indians, which are at a parity with the health services available to, and the health status, of the general population.”
+1992—Pub. L. 102–573, § 801, amended section generally. Prior to amendment, section read as follows: “The Secretary shall report annually to the President and the Congress on progress made in effecting the purposes of this chapter. Within three months after the end of fiscal year 1979, the Secretary shall review expenditures and progress made under this chapter and make recommendations to the Congress concerning any additional authorizations for fiscal years 1981 through 1984 for programs authorized under this chapter which he deems appropriate. In the event the Congress enacts legislation authorizing appropriations for programs under this chapter for fiscal years 1981 through 1984, within three months after the end of fiscal year 1983, the Secretary shall review programs established or assisted pursuant to this chapter and shall submit to the Congress his assessment and recommendations of additional programs or additional assistance necessary to, at a minimum, provide health services to Indians, and insure a health status for Indians, which are at a parity with the health services available to, and the health status, of the general population.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Commission on Indian and Native Alaskan Health Care**
 
-Pub. L. 106–310, div. B, title XXXIII, § 3307, Oct. 17, 2000, 114 Stat. 1216, as amended by Pub. L. 117–286, § 4(a)(181), Dec. 27, 2022, 136 Stat. 4325, provided that:
+Pub. L. 106–310, div. B, title XXXIII, § 3307, Oct. 17, 2000, 114 Stat. 1216, as amended by Pub. L. 117–286, § 4(a)(181), Dec. 27, 2022, 136 Stat. 4325, provided that:
 
 > **“(a) In General.—** There is established a commission to be known as the Commission on Indian and Native Alaskan Health Care that shall examine the health concerns of Indians and Native Alaskans who reside on reservations and tribal lands (hereafter in this section referred to as the ‘Commission’).
 
@@ -7797,13 +7797,13 @@ Pub. L. 106–310, div. B, title XXXIII, § 3307, Oct. 17, 2000, 114 Stat. 121
 
 **References to Sections 701 to 720 of Public Law 94–437**
 
-Pub. L. 102–573, title VII, § 701(d), Oct. 29, 1992, 106 Stat. 4572, provided that: “Any reference in a provision of law other than the Indian Health Care Improvement Act [25 U.S.C. 1601 et seq.] to sections redesignated by subsection (b) [renumbering sections 701 to 720 of Pub. L. 94–437 as sections 801 to 820 of Pub. L. 94–437, which are classified to sections 1671 to 1680j of this title] shall be deemed to refer to the section as so redesignated.”
+Pub. L. 102–573, title VII, § 701(d), Oct. 29, 1992, 106 Stat. 4572, provided that: “Any reference in a provision of law other than the Indian Health Care Improvement Act [25 U.S.C. 1601 et seq.] to sections redesignated by subsection (b) [renumbering sections 701 to 720 of Pub. L. 94–437 as sections 801 to 820 of Pub. L. 94–437, which are classified to sections 1671 to 1680j of this title] shall be deemed to refer to the section as so redesignated.”
 
-### § 1672. Regulations
+### § 1672. Regulations
 
 Prior to any revision of or amendment to rules or regulations promulgated pursuant to this chapter, the Secretary shall consult with Indian tribes and appropriate national or regional Indian organizations and shall publish any proposed revision or amendment in the Federal Register not less than sixty days prior to the effective date of such revision or amendment in order to provide adequate notice to, and receive comments from, other interested parties.
 
-(Pub. L. 94–437, title VIII, § 802, formerly title VII, § 702, Sept. 30, 1976, 90 Stat. 1413; renumbered title VIII, § 802, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 802, Oct. 29, 1992, 106 Stat. 4572, 4585.)
+(Pub. L. 94–437, title VIII, § 802, formerly title VII, § 702, Sept. 30, 1976, 90 Stat. 1413; renumbered title VIII, § 802, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 802, Oct. 29, 1992, 106 Stat. 4572, 4585.)
 
 **Editorial Notes**
 
@@ -7813,13 +7813,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Amendments**
 
-1992—Pub. L. 102–573, § 802, amended section generally, substituting present provisions for former provisions relating in subsec. (a) to consideration, formulation, proposal, and promulgation of regulations and in subsec. (b) to revision and amendment of regulations.
+1992—Pub. L. 102–573, § 802, amended section generally, substituting present provisions for former provisions relating in subsec. (a) to consideration, formulation, proposal, and promulgation of regulations and in subsec. (b) to revision and amendment of regulations.
 
-### § 1673. Repealed. Pub. L. 102–573, title IX, § 901(4), Oct. 29, 1992, 106 Stat. 4591
+### § 1673. Repealed. Pub. L. 102–573, title IX, § 901(4), Oct. 29, 1992, 106 Stat. 4591
 
-Section, Pub. L. 94–437, title VIII, § 803, formerly title VII, § 703, Sept. 30, 1976, 90 Stat. 1413; renumbered title VIII, § 803, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572, related to submission by Secretary to Congress of plan to implement provisions of this chapter.
+Section, Pub. L. 94–437, title VIII, § 803, formerly title VII, § 703, Sept. 30, 1976, 90 Stat. 1413; renumbered title VIII, § 803, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572, related to submission by Secretary to Congress of plan to implement provisions of this chapter.
 
-### § 1674. Leases with Indian tribes
+### § 1674. Leases with Indian tribes
 
 **(a)** Notwithstanding any other provision of law, the Secretary is authorized, in carrying out the purposes of this chapter, to enter into leases with Indian tribes for periods not in excess of twenty years. Property leased by the Secretary from an Indian tribe may be reconstructed or renovated by the Secretary pursuant to an agreement with such Indian tribe.
 
@@ -7833,7 +7833,7 @@ Section, Pub. L. 94–437, title VIII, § 803, formerly title VII, § 703, S
 
 facilities used for the administration and delivery of health services by the Service or by programs operated by Indian tribes or tribal organizations to compensate such Indian tribes or tribal organizations for costs associated with the use of such facilities for such purposes. Such costs include rent, depreciation based on the useful life of the building, principal and interest paid or accrued, operation and maintenance expenses, and other expenses determined by regulation to be allowable.
 
-(Pub. L. 94–437, title VIII, § 804, formerly title VII, § 704, Sept. 30, 1976, 90 Stat. 1414; Pub. L. 96–537, § 8(a), Dec. 17, 1980, 94 Stat. 3179; Pub. L. 100–713, title VII, § 701, Nov. 23, 1988, 102 Stat. 4826; renumbered title VIII, § 804, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
+(Pub. L. 94–437, title VIII, § 804, formerly title VII, § 704, Sept. 30, 1976, 90 Stat. 1414; Pub. L. 96–537, § 8(a), Dec. 17, 1980, 94 Stat. 3179; Pub. L. 100–713, title VII, § 701, Nov. 23, 1988, 102 Stat. 4826; renumbered title VIII, § 804, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
 
 **Editorial Notes**
 
@@ -7847,7 +7847,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 1980—Pub. L. 96–537 inserted provision that property leased by the Secretary from an Indian tribe may be reconstructed or renovated by the Secretary pursuant to an agreement with such Indian tribe.
 
-### § 1675. Confidentiality of medical quality assurance records; qualified immunity for participants
+### § 1675. Confidentiality of medical quality assurance records; qualified immunity for participants
 
 **(a) Definitions** In this section:
 
@@ -7897,9 +7897,9 @@ An individual who reviews or creates medical quality assurance records for any I
 
 **(D)** To a hospital, medical center, or other institution that provides health care services, if such medical quality assurance record or testimony is needed by such institution to assess the professional qualifications of any health care provider who is or was an employee of any Indian health program or urban Indian organization and who has applied for or been granted authority or employment to provide health care services in or on behalf of such program or organization.
 
-**(E)** To an officer, employee, or contractor of the Indian health program or urban Indian organization that created the records or for which the records were created. If 1
+**(E)** To an officer, employee, or contractor of the Indian health program or urban Indian organization that created the records or for which the records were created. If 1
 
-<sup>1</sup>  So in original. Probably should be “were created, if”.
+<sup>1</sup> So in original. Probably should be “were created, if”.
 
 that officer, employee, or contractor has a need for such record or testimony to perform official duties.
 
@@ -7953,13 +7953,13 @@ To the extent that the protections under part C of title IX of the Public Health
 
 This section shall continue in force and effect, except as otherwise specifically provided in any Federal law enacted after March 23, 2010.
 
-(Pub. L. 94–437, title VIII, § 805, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 805, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Public Health Service Act, referred to in subsec. (*l*), is act July 1, 1944, ch. 373, 58 Stat. 682. Part C of title IX of the Act is classified generally to part C (§ 299b–21 et seq.) of subchapter VII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (*l*), is act July 1, 1944, ch. 373, 58 Stat. 682. Part C of title IX of the Act is classified generally to part C (§ 299b–21 et seq.) of subchapter VII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 **Codification**
 
@@ -7967,9 +7967,9 @@ Section 805 of Pub. L. 94–437 is based on section 191 of title I of S. 1790, O
 
 **Prior Provisions**
 
-A prior section 1675, Pub. L. 94–437, title VIII, § 805, formerly title VII, § 705, Sept. 30, 1976, 90 Stat. 1414; renumbered title VIII, § 805, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572, provided that funds appropriated pursuant to this chapter were to remain available until expended, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 101(b)(11) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+A prior section 1675, Pub. L. 94–437, title VIII, § 805, formerly title VII, § 705, Sept. 30, 1976, 90 Stat. 1414; renumbered title VIII, § 805, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572, provided that funds appropriated pursuant to this chapter were to remain available until expended, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 101(b)(11) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1676. Limitation on use of funds appropriated to Indian Health Service
+### § 1676. Limitation on use of funds appropriated to Indian Health Service
 
 **(a) HHS appropriations**
 
@@ -7979,7 +7979,7 @@ Any limitation on the use of funds contained in an Act providing appropriations 
 
 Any limitation pursuant to other Federal laws on the use of Federal funds appropriated to the Service shall apply with respect to the performance or coverage of abortions.
 
-(Pub. L. 94–437, title VIII, § 806, formerly title VII, § 706, as added Pub. L. 96–537, § 8(b), Dec. 17, 1980, 94 Stat. 3179; amended Pub. L. 100–713, title VII, § 718, Nov. 23, 1988, 102 Stat. 4837; renumbered title VIII, § 806, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 111–148, title X, § 10221(b)(3), Mar. 23, 2010, 124 Stat. 936.)
+(Pub. L. 94–437, title VIII, § 806, formerly title VII, § 706, as added Pub. L. 96–537, § 8(b), Dec. 17, 1980, 94 Stat. 3179; amended Pub. L. 100–713, title VII, § 718, Nov. 23, 1988, 102 Stat. 4837; renumbered title VIII, § 806, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572; Pub. L. 111–148, title X, § 10221(b)(3), Mar. 23, 2010, 124 Stat. 936.)
 
 **Editorial Notes**
 
@@ -7989,7 +7989,7 @@ Any limitation pursuant to other Federal laws on the use of Federal funds approp
 
 1988—Pub. L. 100–713 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “Within one year from December 17, 1980, the Secretary shall submit to the Congress a resource allocation plan. Such plan shall explain the future allocation of services and funds among the service population of the Service and shall provide a schedule for reducing deficiencies in resources of tribes and nontribal specific entities.”
 
-### § 1677. Nuclear resource development health hazards
+### § 1677. Nuclear resource development health hazards
 
 **(a) Study** The Secretary and the Service shall conduct, in conjunction with other appropriate Federal agencies and in consultation with concerned Indian tribes and organizations, a study of the health hazards to Indian miners and Indians on or near Indian reservations and in Indian communities as a result of nuclear resource development. Such study shall include—
 
@@ -8033,13 +8033,13 @@ The Secretary and the Service shall submit to Congress the study prepared under 
 
 the Service shall, at the request of such Indian, render appropriate medical care to such Indian for such illness or condition and may recover the costs of any medical care so rendered to which such Indian is entitled at the expense of such operator from such operator. Nothing in this subsection shall affect the rights of such Indian to recover damages other than such costs paid to the Service from the employer for such illness or condition.
 
-(Pub. L. 94–437, title VIII, § 807, formerly title VII, § 707, as added Pub. L. 96–537, § 8(b), Dec. 17, 1980, 94 Stat. 3179; amended Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172; renumbered title VIII, § 807, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 813(b), Oct. 29, 1992, 106 Stat. 4572, 4590.)
+(Pub. L. 94–437, title VIII, § 807, formerly title VII, § 707, as added Pub. L. 96–537, § 8(b), Dec. 17, 1980, 94 Stat. 3179; amended Pub. L. 102–285, § 10(b), May 18, 1992, 106 Stat. 172; renumbered title VIII, § 807, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 813(b), Oct. 29, 1992, 106 Stat. 4572, 4590.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (f). Pub. L. 102–573, § 813(b), struck out subsec. (f) which authorized appropriation of $300,000 to carry out the study as provided in subsec. (a), such amount to be expended by the date eighteen months after Dec. 17, 1980.
+1992—Subsec. (f). Pub. L. 102–573, § 813(b), struck out subsec. (f) which authorized appropriation of $300,000 to carry out the study as provided in subsec. (a), such amount to be expended by the date eighteen months after Dec. 17, 1980.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8049,9 +8049,9 @@ the Service shall, at the request of such Indian, render appropriate medical car
 
 **Nuclear Resource Development Health Hazards; Study and Report**
 
-Pub. L. 100–713, title VII, § 717, Nov. 23, 1988, 102 Stat. 4837, provided for a study to determine the number of active nuclear resource development sites on Indian lands in the United States and the health hazards that exist as a result of such sites and required a report to Congress describing the findings and conclusions of the study by no later than 2 years after Nov. 23, 1988.
+Pub. L. 100–713, title VII, § 717, Nov. 23, 1988, 102 Stat. 4837, provided for a study to determine the number of active nuclear resource development sites on Indian lands in the United States and the health hazards that exist as a result of such sites and required a report to Congress describing the findings and conclusions of the study by no later than 2 years after Nov. 23, 1988.
 
-### § 1678. Arizona as contract health service delivery area
+### § 1678. Arizona as contract health service delivery area
 
 **(a) In general**
 
@@ -8061,7 +8061,7 @@ The State of Arizona shall be designated as a contract health service delivery a
 
 The Service shall not curtail any health care services provided to Indians residing on reservations in the State of Arizona if the curtailment is due to the provision of contract services in that State pursuant to the designation of the State as a contract health service delivery area by subsection (a).
 
-(Pub. L. 94–437, title VIII, § 808, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 808, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -8071,9 +8071,9 @@ Section 808 of Pub. L. 94–437 is based on section 192(1) of title I of S. 1790
 
 **Prior Provisions**
 
-A prior section 1678, Pub. L. 94–437, title VIII, § 808, formerly title VII, § 708, as added Pub. L. 96–537, § 8(b), Dec. 17, 1980, 94 Stat. 3181; amended Pub. L. 100–713, title VII, § 702, Nov. 23, 1988, 102 Stat. 4827; renumbered title VIII, § 808, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 803, Oct. 29, 1992, 106 Stat. 4572, 4585, temporarily designated Arizona as a contract health service delivery area, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 192(1) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+A prior section 1678, Pub. L. 94–437, title VIII, § 808, formerly title VII, § 708, as added Pub. L. 96–537, § 8(b), Dec. 17, 1980, 94 Stat. 3181; amended Pub. L. 100–713, title VII, § 702, Nov. 23, 1988, 102 Stat. 4827; renumbered title VIII, § 808, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 803, Oct. 29, 1992, 106 Stat. 4572, 4585, temporarily designated Arizona as a contract health service delivery area, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 192(1) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1678a. North Dakota and South Dakota as contract health service delivery area
+### § 1678a. North Dakota and South Dakota as contract health service delivery area
 
 **(a) In general**
 
@@ -8083,7 +8083,7 @@ The States of North Dakota and South Dakota shall be designated as a contract he
 
 The Service shall not curtail any health care services provided to Indians residing on any reservation, or in any county that has a common boundary with any reservation, in the State of North Dakota or South Dakota if the curtailment is due to the provision of contract services in those States pursuant to the designation of the States as a contract health service delivery area by subsection (a).
 
-(Pub. L. 94–437, title VIII, § 808A, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 808A, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -8091,7 +8091,7 @@ The Service shall not curtail any health care services provided to Indians resid
 
 Section 808A of Pub. L. 94–437 is based on section 192(2) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1679. Eligibility of California Indians
+### § 1679. Eligibility of California Indians
 
 **(a) In general** The following California Indians shall be eligible for health services provided by the Service:
 
@@ -8111,7 +8111,7 @@ Section 808A of Pub. L. 94–437 is based on section 192(2) of title I of S. 179
 
 Nothing in this section may be construed as expanding the eligibility of California Indians for health services provided by the Service beyond the scope of eligibility for such health services that applied on May 1, 1986.
 
-(Pub. L. 94–437, title VIII, § 809, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 809, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -8125,13 +8125,13 @@ Section 809 of Pub. L. 94–437 is based on section 192(3) of title I of S. 1790
 
 **Prior Provisions**
 
-A prior section 1679, Pub. L. 94–437, title VIII, § 809, formerly title VII, § 709, as added Pub. L. 96–537, § 8(b), Dec. 17, 1980, 94 Stat. 3181; amended Pub. L. 100–713, title VII, § 703, Nov. 23, 1988, 102 Stat. 4827; renumbered title VIII, § 809, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572, related to report to Congress containing sufficient data to determine eligibility of California Indians for health services provided by the Service and preliminary eligibility criteria, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 192(3) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+A prior section 1679, Pub. L. 94–437, title VIII, § 809, formerly title VII, § 709, as added Pub. L. 96–537, § 8(b), Dec. 17, 1980, 94 Stat. 3181; amended Pub. L. 100–713, title VII, § 703, Nov. 23, 1988, 102 Stat. 4827; renumbered title VIII, § 809, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572, related to report to Congress containing sufficient data to determine eligibility of California Indians for health services provided by the Service and preliminary eligibility criteria, prior to repeal by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935. The repeal is based on section 192(3) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1680. California as a contract health service delivery area
+### § 1680. California as a contract health service delivery area
 
 The State of California, excluding the counties of Alameda, Contra Costa, Los Angeles, Marin, Orange, Sacramento, San Francisco, San Mateo, Santa Clara, Kern, Merced, Monterey, Napa, San Benito, San Joaquin, San Luis Obispo, Santa Cruz, Solano, Stanislaus, and Ventura shall be designated as a contract health service delivery area by the Service for the purpose of providing contract health services to Indians in such State.
 
-(Pub. L. 94–437, title VIII, § 810, formerly title VII, § 710, as added Pub. L. 96–537, § 8(b), Dec. 17, 1980, 94 Stat. 3181; amended Pub. L. 100–713, title VII, § 704, Nov. 23, 1988, 102 Stat. 4828; renumbered title VIII, § 810, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
+(Pub. L. 94–437, title VIII, § 810, formerly title VII, § 710, as added Pub. L. 96–537, § 8(b), Dec. 17, 1980, 94 Stat. 3181; amended Pub. L. 100–713, title VII, § 704, Nov. 23, 1988, 102 Stat. 4828; renumbered title VIII, § 810, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
 
 **Editorial Notes**
 
@@ -8139,7 +8139,7 @@ The State of California, excluding the counties of Alameda, Contra Costa, Los An
 
 1988—Pub. L. 100–713 inserted section catchline and amended text generally, substituting provisions designating parts of California as a contract health service delivery area for former provisions which authorized a demonstration project for lifting personnel ceilings for the Indian Health Service.
 
-### § 1680a. Contract health facilities
+### § 1680a. Contract health facilities
 
 The Service shall provide funds for health care programs and facilities operated by tribes and tribal organizations under contracts with the Service entered into under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.]—
 
@@ -8153,15 +8153,15 @@ The Service shall provide funds for health care programs and facilities operated
 
 on the same basis as such funds are provided to programs and facilities operated directly by the Service.
 
-(Pub. L. 94–437, title VIII, § 811, formerly title VII, § 711, as added Pub. L. 100–713, title VII, § 705, Nov. 23, 1988, 102 Stat. 4828; renumbered title VIII, § 811, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
+(Pub. L. 94–437, title VIII, § 811, formerly title VII, § 711, as added Pub. L. 100–713, title VII, § 705, Nov. 23, 1988, 102 Stat. 4828; renumbered title VIII, § 811, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-### § 1680b. National Health Service Corps
+### § 1680b. National Health Service Corps
 
 **(a) No reduction in services**
 
@@ -8171,7 +8171,7 @@ The Secretary shall not remove a member of the National Health Service Corps fro
 
 At the request of an Indian health program, the services of a member of the National Health Service Corps assigned to the Indian health program may be limited to the individuals who are eligible for services from that Indian health program.
 
-(Pub. L. 94–437, title VIII, § 812, formerly title VII, § 712, as added Pub. L. 100–713, title VII, § 706, Nov. 23, 1988, 102 Stat. 4828; renumbered title VIII, § 812, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 812, formerly title VII, § 712, as added Pub. L. 100–713, title VII, § 706, Nov. 23, 1988, 102 Stat. 4828; renumbered title VIII, § 812, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -8183,7 +8183,7 @@ Amendment by Pub. L. 111–148 is based on section 193 of title I of S. 1790, On
 
 2010—Pub. L. 111–148 amended section generally, revising and restating former provisions as subsec. (a) and adding subsec. (b).
 
-### § 1680c. Health services for ineligible persons
+### § 1680c. Health services for ineligible persons
 
 **(a) Children** Any individual who—
 
@@ -8211,7 +8211,7 @@ Any spouse of an eligible Indian who is not an Indian, or who is of Indian desce
 
 In the case of health facilities operated under a contract or compact entered into under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the governing body of the Indian tribe or tribal organization providing health services under such contract or compact is authorized to determine whether health services should be provided under such contract or compact to individuals who are not eligible for such health services under any other subsection of this section or under any other provision of law. In making such determinations, the governing body of the Indian tribe or tribal organization shall take into account the consideration described in paragraph (1)(B). Any services provided by the Indian tribe or tribal organization pursuant to a determination made under this subparagraph shall be deemed to be provided under the agreement entered into by the Indian tribe or tribal organization under the Indian Self-Determination and Education Assistance Act. The provisions of section 314 of Public Law 101–512 (104 Stat. 1959), as amended by section 308 of Public Law 103–138 (107 Stat. 1416), shall apply to any services provided by the Indian tribe or tribal organization pursuant to a determination made under this subparagraph.
 
@@ -8249,29 +8249,29 @@ In the case of a multitribal Service Area, the authority of the Secretary to pro
 
 **(1) In general**
 
-Hospital privileges in health facilities operated and maintained by the Service or operated under a contract or compact pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> may be extended to non-Service health care practitioners who provide services to individuals described in subsection (a), (b), (c), or (d). Such non-Service health care practitioners may, as part of the privileging process, be designated as employees of the Federal Government for purposes of section 1346(b) and chapter 171 of title 28 (relating to Federal tort claims) only with respect to acts or omissions which occur in the course of providing services to eligible individuals as a part of the conditions under which such hospital privileges are extended.
+Hospital privileges in health facilities operated and maintained by the Service or operated under a contract or compact pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> may be extended to non-Service health care practitioners who provide services to individuals described in subsection (a), (b), (c), or (d). Such non-Service health care practitioners may, as part of the privileging process, be designated as employees of the Federal Government for purposes of section 1346(b) and chapter 171 of title 28 (relating to Federal tort claims) only with respect to acts or omissions which occur in the course of providing services to eligible individuals as a part of the conditions under which such hospital privileges are extended.
 
 **(2) Definition** For purposes of this subsection, the term “non-Service health care practitioner” means a practitioner who is not—
 
 **(A)** an employee of the Service; or
 
-**(B)** an employee of an Indian tribe or tribal organization operating a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> or an individual who provides health care services pursuant to a personal services contract with such Indian tribe or tribal organization.
+**(B)** an employee of an Indian tribe or tribal organization operating a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> or an individual who provides health care services pursuant to a personal services contract with such Indian tribe or tribal organization.
 
 **(f) Eligible Indian**
 
 For purposes of this section, the term “eligible Indian” means any Indian who is eligible for health services provided by the Service without regard to the provisions of this section.
 
-(Pub. L. 94–437, title VIII, § 813, formerly title VII, § 713, as added Pub. L. 100–713, title VII, § 707(a), Nov. 23, 1988, 102 Stat. 4829; renumbered title VIII, § 813, and amended Pub. L. 102–573, title VII, § 701(a), (b), title IX, § 902(8), Oct. 29, 1992, 106 Stat. 4572, 4592; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 813, formerly title VII, § 713, as added Pub. L. 100–713, title VII, § 707(a), Nov. 23, 1988, 102 Stat. 4829; renumbered title VIII, § 813, and amended Pub. L. 102–573, title VII, § 701(a), (b), title IX, § 902(8), Oct. 29, 1992, 106 Stat. 4572, 4592; Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (c)(2) and (e), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsecs. (c)(2) and (e), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 314 of Public Law 101–512, referred to in subsec. (c)(2), is set out as a note under section 5321 of this title.
 
-The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Codification**
 
@@ -8281,9 +8281,9 @@ Amendment by Pub. L. 111–148 is based on section 194 of title I of S. 1790, On
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to health services for ineligible persons and consisted of subsecs. (a) to (e).
 
-1992—Subsec. (b)(2)(A). Pub. L. 102–573, § 902(8), substituted “section 1642(a) of this title” for “section 402(c) of this Act”.
+1992—Subsec. (b)(2)(A). Pub. L. 102–573, § 902(8), substituted “section 1642(a) of this title” for “section 402(c) of this Act”.
 
-### § 1680d. Infant and maternal mortality; fetal alcohol syndrome
+### § 1680d. Infant and maternal mortality; fetal alcohol syndrome
 
 By no later than January 1, 1990, the Secretary shall develop and begin implementation of a plan to achieve the following objectives by January 1, 1994:
 
@@ -8301,15 +8301,15 @@ By no later than January 1, 1990, the Secretary shall develop and begin implemen
 
 **(3)** reduction of the rate of fetal alcohol syndrome among Indians served by, or on behalf of, the Service to one per one thousand live births.
 
-(Pub. L. 94–437, title VIII, § 814, formerly title VII, § 714, as added Pub. L. 100–713, title VII, § 708, Nov. 23, 1988, 102 Stat. 4831; renumbered title VIII, § 814, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 804, Oct. 29, 1992, 106 Stat. 4572, 4585.)
+(Pub. L. 94–437, title VIII, § 814, formerly title VII, § 714, as added Pub. L. 100–713, title VII, § 708, Nov. 23, 1988, 102 Stat. 4831; renumbered title VIII, § 814, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 804, Oct. 29, 1992, 106 Stat. 4572, 4585.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Pub. L. 102–573, § 804, struck out subsec. (a) designation before “By no later” and struck out subsec. (b) which read as follows: “The President shall include with the budget submitted under section 1105 of title 31 for each fiscal year a separate statement which specifies the total amount obligated or expended in the most recently completed fiscal year to achieve each of the objectives described in subsection (a) of this section.”
+1992—Pub. L. 102–573, § 804, struck out subsec. (a) designation before “By no later” and struck out subsec. (b) which read as follows: “The President shall include with the budget submitted under section 1105 of title 31 for each fiscal year a separate statement which specifies the total amount obligated or expended in the most recently completed fiscal year to achieve each of the objectives described in subsection (a) of this section.”
 
-### § 1680e. Contract health services for the Trenton Service Area
+### § 1680e. Contract health services for the Trenton Service Area
 
 **(a) Service to Turtle Mountain Band**
 
@@ -8319,9 +8319,9 @@ The Secretary, acting through the Service, is directed to provide contract healt
 
 Nothing in this section may be construed as expanding the eligibility of members of the Turtle Mountain Band of Chippewa Indians for health services provided by the Service beyond the scope of eligibility for such health services that applied on May 1, 1986.
 
-(Pub. L. 94–437, title VIII, § 815, formerly title VII, § 715, as added Pub. L. 100–713, title VII, § 709, Nov. 23, 1988, 102 Stat. 4831; renumbered title VIII, § 815, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
+(Pub. L. 94–437, title VIII, § 815, formerly title VII, § 715, as added Pub. L. 100–713, title VII, § 709, Nov. 23, 1988, 102 Stat. 4831; renumbered title VIII, § 815, Pub. L. 102–573, title VII, § 701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
 
-### § 1680f. Indian Health Service and Department of Veterans Affairs health facilities and services sharing
+### § 1680f. Indian Health Service and Department of Veterans Affairs health facilities and services sharing
 
 **(a) Feasibility study and report**
 
@@ -8355,7 +8355,7 @@ The Secretary shall examine the feasibility of entering into an arrangement for 
 
 Nothing in this section may be construed as creating any right of a veteran to obtain health services from the Indian Health Service except as provided in an agreement under subsection (c).
 
-(Pub. L. 94–437, title VIII, § 816, formerly title VII, § 716, as added Pub. L. 100–713, title VII, § 710, Nov. 23, 1988, 102 Stat. 4832; amended Pub. L. 102–54, § 13(j)(2), June 13, 1991, 105 Stat. 276; renumbered title VIII, § 816, and amended Pub. L. 102–573, title VII, § 701(a), (b), title IX, § 902(9), Oct. 29, 1992, 106 Stat. 4572, 4592; Pub. L. 108–170, title II, § 244, Dec. 6, 2003, 117 Stat. 2054.)
+(Pub. L. 94–437, title VIII, § 816, formerly title VII, § 716, as added Pub. L. 100–713, title VII, § 710, Nov. 23, 1988, 102 Stat. 4832; amended Pub. L. 102–54, § 13(j)(2), June 13, 1991, 105 Stat. 276; renumbered title VIII, § 816, and amended Pub. L. 102–573, title VII, § 701(a), (b), title IX, § 902(9), Oct. 29, 1992, 106 Stat. 4572, 4592; Pub. L. 108–170, title II, § 244, Dec. 6, 2003, 117 Stat. 2054.)
 
 **Editorial Notes**
 
@@ -8363,23 +8363,23 @@ Nothing in this section may be construed as creating any right of a veteran to o
 
 2003—Subsec. (c)(1)(B). Pub. L. 108–170 substituted “George E. Wahlen Department of Veterans Affairs Medical Center” for “Department of Veterans Affairs medical center”.
 
-1992—Pub. L. 102–573, § 902(9), amended section catchline.
+1992—Pub. L. 102–573, § 902(9), amended section catchline.
 
-1991—Subsecs. (a), (b)(3), (4), (6). Pub. L. 102–54, § 13(j)(2)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+1991—Subsecs. (a), (b)(3), (4), (6). Pub. L. 102–54, § 13(j)(2)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-Subsec. (c)(1). Pub. L. 102–54, § 13(j)(2)(B), substituted “Not later than December 23, 1988, the Director of the Indian Health Service and the Secretary of Veterans Affairs shall” for “Within 30 days after November 23, 1988, the Director of the Indian Health Service and the Administrator of Veterans’ Affairs are authorized and directed to”.
+Subsec. (c)(1). Pub. L. 102–54, § 13(j)(2)(B), substituted “Not later than December 23, 1988, the Director of the Indian Health Service and the Secretary of Veterans Affairs shall” for “Within 30 days after November 23, 1988, the Director of the Indian Health Service and the Administrator of Veterans’ Affairs are authorized and directed to”.
 
-Subsec. (c)(1)(A), (B). Pub. L. 102–54, § 13(j)(2)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+Subsec. (c)(1)(A), (B). Pub. L. 102–54, § 13(j)(2)(A), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
-Subsec. (c)(2). Pub. L. 102–54, § 13(j)(2)(C), substituted “Not later than November 23, 1990, the Secretary and the Secretary of Veterans Affairs shall” for “Not later than 2 years after November 23, 1988, the Secretary and the Administrator of Veterans’ Affairs shall”.
+Subsec. (c)(2). Pub. L. 102–54, § 13(j)(2)(C), substituted “Not later than November 23, 1990, the Secretary and the Secretary of Veterans Affairs shall” for “Not later than 2 years after November 23, 1988, the Secretary and the Administrator of Veterans’ Affairs shall”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Designation of George E. Wahlen Department of Veterans Affairs Medical Center**
 
-Pub. L. 108–170, title II, § 244, Dec. 6, 2003, 117 Stat. 2054, provided that: “The Department of Veterans Affairs Medical Center in Salt Lake City, Utah, shall after the date of the enactment of this Act [Dec. 6, 2003] be known and designated as the ‘George E. Wahlen Department of Veterans Affairs Medical Center’. Any references to such facility in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the George E. Wahlen Department of Veterans Affairs Medical Center.”
+Pub. L. 108–170, title II, § 244, Dec. 6, 2003, 117 Stat. 2054, provided that: “The Department of Veterans Affairs Medical Center in Salt Lake City, Utah, shall after the date of the enactment of this Act [Dec. 6, 2003] be known and designated as the ‘George E. Wahlen Department of Veterans Affairs Medical Center’. Any references to such facility in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the George E. Wahlen Department of Veterans Affairs Medical Center.”
 
-### § 1680g. Reallocation of base resources
+### § 1680g. Reallocation of base resources
 
 **(a) Report to Congress**
 
@@ -8389,15 +8389,15 @@ Notwithstanding any other provision of law, any allocation of Service funds for 
 
 Subsection (a) shall not apply if the total amount appropriated to the Service for a fiscal year is less than the amount appropriated to the Service for previous fiscal year.
 
-(Pub. L. 94–437, title VIII, § 817, formerly title VII, § 717, as added Pub. L. 100–713, title VII, § 711, Nov. 23, 1988, 102 Stat. 4833; renumbered title VIII, § 817, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 805, Oct. 29, 1992, 106 Stat. 4572, 4585.)
+(Pub. L. 94–437, title VIII, § 817, formerly title VII, § 717, as added Pub. L. 100–713, title VII, § 711, Nov. 23, 1988, 102 Stat. 4833; renumbered title VIII, § 817, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 805, Oct. 29, 1992, 106 Stat. 4572, 4585.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–573, § 805, substituted “Secretary has submitted to the President, for inclusion in the report required to be transmitted to the Congress under section 1671 of this title,” for “Secretary has submitted to the Congress”.
+1992—Subsec. (a). Pub. L. 102–573, § 805, substituted “Secretary has submitted to the President, for inclusion in the report required to be transmitted to the Congress under section 1671 of this title,” for “Secretary has submitted to the Congress”.
 
-### § 1680h. Demonstration projects for tribal management of health care services
+### § 1680h. Demonstration projects for tribal management of health care services
 
 **(a) Establishment; grants**
 
@@ -8427,25 +8427,25 @@ The Secretary may waive such provisions of Federal procurement law as are necess
 
 **(3)** An Indian tribe or tribal organization that has entered into a written agreement with the Secretary under this subsection, and that breaches or terminates without cause such agreement, shall be liable to the United States for the amount that has been paid to the tribe, or paid to a third party on the tribe’s behalf, under the agreement. The Secretary has the right to recover tangible property (including supplies), and equipment, less depreciation, and any funds expended for operations and maintenance under this section. The preceding sentence does not apply to any funds expended for the delivery of health care services, or for personnel or staffing, shall be recoverable.1
 
-<sup>1</sup>  So in original. The words “, shall be recoverable” probably should not appear.
+<sup>1</sup> So in original. The words “, shall be recoverable” probably should not appear.
 
-(Pub. L. 94–437, title VIII, § 818, formerly title VII, § 718, as added Pub. L. 100–713, title VII, § 713, Nov. 23, 1988, 102 Stat. 4833; renumbered title VIII, § 818, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 808, Oct. 29, 1992, 106 Stat. 4572, 4586.)
+(Pub. L. 94–437, title VIII, § 818, formerly title VII, § 718, as added Pub. L. 100–713, title VII, § 713, Nov. 23, 1988, 102 Stat. 4833; renumbered title VIII, § 818, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 808, Oct. 29, 1992, 106 Stat. 4572, 4586.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XIX of the Public Health Service Act is classified generally to part A (§ 300w et seq.) of subchapter XVII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XIX of the Public Health Service Act is classified generally to part A (§ 300w et seq.) of subchapter XVII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 **Amendments**
 
-1992—Subsec. (d)(1). Pub. L. 102–573, § 808(1)(A), inserted before period at end “, or, in the case of a demonstration project for which a grant is made after September 30, 1990, three years after the date on which such grant is made”.
+1992—Subsec. (d)(1). Pub. L. 102–573, § 808(1)(A), inserted before period at end “, or, in the case of a demonstration project for which a grant is made after September 30, 1990, three years after the date on which such grant is made”.
 
-Subsec. (d)(2). Pub. L. 102–573, § 808(1)(B), substituted “1996” for “1994”.
+Subsec. (d)(2). Pub. L. 102–573, § 808(1)(B), substituted “1996” for “1994”.
 
-Subsec. (e). Pub. L. 102–573, § 808(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.”
+Subsec. (e). Pub. L. 102–573, § 808(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.”
 
-### § 1680i. Child sexual abuse treatment programs
+### § 1680i. Child sexual abuse treatment programs
 
 **(a) Continuation of existing demonstration programs**
 
@@ -8455,59 +8455,59 @@ The Secretary and the Secretary of the Interior shall, for each fiscal year thro
 
 Beginning October 1, 1995, the Secretary and the Secretary of the Interior may establish, in any service area, demonstration programs involving treatment for child sexual abuse, except that the Secretaries may not establish a greater number of such programs in one service area than in any other service area until there is an equal number of such programs established with respect to all service areas from which the Secretary receives qualified applications during the application period (as determined by the Secretary).
 
-(Pub. L. 94–437, title VIII, § 819, formerly title VII, § 719, as added Pub. L. 100–713, title VII, § 715, Nov. 23, 1988, 102 Stat. 4836; renumbered title VIII, § 819, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 806, Oct. 29, 1992, 106 Stat. 4572, 4586.)
+(Pub. L. 94–437, title VIII, § 819, formerly title VII, § 719, as added Pub. L. 100–713, title VII, § 715, Nov. 23, 1988, 102 Stat. 4836; renumbered title VIII, § 819, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 806, Oct. 29, 1992, 106 Stat. 4572, 4586.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Pub. L. 102–573, § 806, amended section generally. Prior to amendment, section read as follows:
+1992—Pub. L. 102–573, § 806, amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Secretary and the Secretary of the Interior shall, for each of the fiscal years 1989, 1990, and 1991, continue to provide through the Hopi Tribe and the Asiniboine and Sioux Tribes of the Fort Peck Reservation the demonstration programs involving treatment for child sexual abuse that were conducted during fiscal year 1988 through such tribes.
 
 “(b) There are authorized to be appropriated for each of the fiscal years 1989, 1990, and 1991 such sums as may be necessary to carry out the provisions of this section.”
 
-### § 1680j. Tribal leasing
+### § 1680j. Tribal leasing
 
 Indian tribes providing health care services pursuant to a contract entered into under the Indian Self-Determination Act [25 U.S.C. 5321 et seq.] may lease permanent structures for the purpose of providing such health care services without obtaining advance approval in appropriation Acts.
 
-(Pub. L. 94–437, title VIII, § 820, formerly title VII, § 720, as added Pub. L. 100–713, title VII, § 716, Nov. 23, 1988, 102 Stat. 4837; renumbered title VIII, § 820, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 807, Oct. 29, 1992, 106 Stat. 4572, 4586.)
+(Pub. L. 94–437, title VIII, § 820, formerly title VII, § 720, as added Pub. L. 100–713, title VII, § 716, Nov. 23, 1988, 102 Stat. 4837; renumbered title VIII, § 820, and amended Pub. L. 102–573, title VII, § 701(a), (b), title VIII, § 807, Oct. 29, 1992, 106 Stat. 4572, 4586.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Amendments**
 
-1992—Pub. L. 102–573, § 807, amended section generally. Prior to amendment, section read as follows:
+1992—Pub. L. 102–573, § 807, amended section generally. Prior to amendment, section read as follows:
 
 “(a) The Secretary, through the Service, shall make grants to the Eight Northern Indian Pueblos Council, San Juan Pueblo, New Mexico, for the purpose of providing substance abuse treatment services to Indians in need of such services.
 
 “(b) There are authorized to be appropriated to carry out this section $250,000 for each of the fiscal years 1990 and 1991.”
 
-### § 1680k. Repealed. Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935
+### § 1680k. Repealed. Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935
 
-Section, Pub. L. 94–437, title VIII, § 821, as added Pub. L. 102–573, title VIII, § 809, Oct. 29, 1992, 106 Stat. 4587; amended Pub. L. 104–313, § 2(g), Oct. 19, 1996, 110 Stat. 3822, related to establishment of demonstration projects for the delivery of home- and community-based services to functionally disabled Indians.
+Section, Pub. L. 94–437, title VIII, § 821, as added Pub. L. 102–573, title VIII, § 809, Oct. 29, 1992, 106 Stat. 4587; amended Pub. L. 104–313, § 2(g), Oct. 19, 1996, 110 Stat. 3822, related to establishment of demonstration projects for the delivery of home- and community-based services to functionally disabled Indians.
 
 The repeal is based on section 124(a)(2) of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1680l. Shared services for long-term care
+### § 1680l. Shared services for long-term care
 
 **(a) Long-term care**
 
 **(1) In general**
 
-Notwithstanding any other provision of law, the Secretary, acting through the Service, is authorized to provide directly, or enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+Notwithstanding any other provision of law, the Secretary, acting through the Service, is authorized to provide directly, or enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 with Indian tribes or tribal organizations for, the delivery of long-term care (including health care services associated with long-term care) provided in a facility to Indians.
 
 **(2) Inclusions**
 
-Each agreement under paragraph (1) shall provide for the sharing of staff or other services between the Service or a tribal health program and a long-term care or related facility owned and operated (directly or through a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) <sup>1</sup> by the Indian tribe or tribal organization.
+Each agreement under paragraph (1) shall provide for the sharing of staff or other services between the Service or a tribal health program and a long-term care or related facility owned and operated (directly or through a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) <sup>1</sup> by the Indian tribe or tribal organization.
 
 **(b) Contents of agreements** An agreement entered into pursuant to subsection (a)—
 
@@ -8529,13 +8529,13 @@ The Secretary shall provide such technical and other assistance as may be necess
 
 The Secretary shall encourage the use of existing facilities that are underused, or allow the use of swing beds, for long-term or similar care.
 
-(Pub. L. 94–437, title VIII, § 822, as added Pub. L. 102–573, title VIII, § 810, Oct. 29, 1992, 106 Stat. 4588; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 822, as added Pub. L. 102–573, title VIII, § 810, Oct. 29, 1992, 106 Stat. 4588; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -8545,11 +8545,11 @@ Amendment by Pub. L. 111–148 is based on section 124(b) of title I of S. 1790,
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section related to shared services demonstration project.
 
-### § 1680m. Results of demonstration projects
+### § 1680m. Results of demonstration projects
 
 The Secretary shall provide for the dissemination to Indian tribes of the findings and results of demonstration projects conducted under this chapter.
 
-(Pub. L. 94–437, title VIII, § 823, as added Pub. L. 102–573, title VIII, § 811, Oct. 29, 1992, 106 Stat. 4589.)
+(Pub. L. 94–437, title VIII, § 823, as added Pub. L. 102–573, title VIII, § 811, Oct. 29, 1992, 106 Stat. 4589.)
 
 **Editorial Notes**
 
@@ -8557,7 +8557,7 @@ The Secretary shall provide for the dissemination to Indian tribes of the findin
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-### § 1680n. Priority for Indian reservations
+### § 1680n. Priority for Indian reservations
 
 **(a) Facilities and projects**
 
@@ -8569,13 +8569,13 @@ Beginning on October 29, 1992, the Bureau of Indian Affairs and the Service shal
 
 **(2)** any lands title which is held in trust by the United States for the benefit of any Indian tribe or individual Indian, or held by any Indian tribe or individual Indian subject to restriction by the United States against alienation and over which an Indian tribe exercises governmental power.
 
-(Pub. L. 94–437, title VIII, § 824, as added Pub. L. 102–573, title VIII, § 812, Oct. 29, 1992, 106 Stat. 4589.)
+(Pub. L. 94–437, title VIII, § 824, as added Pub. L. 102–573, title VIII, § 812, Oct. 29, 1992, 106 Stat. 4589.)
 
-### § 1680o. Authorization of appropriations
+### § 1680o. Authorization of appropriations
 
 There are authorized to be appropriated such sums as are necessary to carry out this chapter for fiscal year 2010 and each fiscal year thereafter, to remain available until expended.
 
-(Pub. L. 94–437, title VIII, § 825, as added Pub. L. 102–573, title VIII, § 813(a), Oct. 29, 1992, 106 Stat. 4590; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 825, as added Pub. L. 102–573, title VIII, § 813(a), Oct. 29, 1992, 106 Stat. 4590; amended Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -8591,7 +8591,7 @@ Amendment by Pub. L. 111–148 is based on section 101(a) of title I of S. 1790,
 
 2010—Pub. L. 111–148 amended section generally. Prior to amendment, section authorized appropriations through fiscal year 2000 to carry out this subchapter.
 
-### § 1680p. Annual budget submission
+### § 1680p. Annual budget submission
 
 Effective beginning with the submission of the annual budget request to Congress for fiscal year 2011, the President shall include, in the amount requested and the budget justification, amounts that reflect any changes in—
 
@@ -8599,7 +8599,7 @@ Effective beginning with the submission of the annual budget request to Congress
 
 **(2)** the size of the population served by the Service.
 
-(Pub. L. 94–437, title VIII, § 826, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 826, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -8607,7 +8607,7 @@ Effective beginning with the submission of the annual budget request to Congress
 
 Section 826 of Pub. L. 94–437 is based on section 195 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1680q. Prescription drug monitoring
+### § 1680q. Prescription drug monitoring
 
 **(a) Monitoring**
 
@@ -8645,7 +8645,7 @@ The Secretary, in coordination with the Secretary of the Interior and the Attorn
 
 **(D)** any statutory or administrative barriers to carrying out those activities.
 
-(Pub. L. 94–437, title VIII, § 827, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 827, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -8653,13 +8653,13 @@ The Secretary, in coordination with the Secretary of the Interior and the Attorn
 
 Section 827 of Pub. L. 94–437 is based on section 196 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1680r. Tribal health program option for cost sharing
+### § 1680r. Tribal health program option for cost sharing
 
 **(a) In general**
 
-Nothing in this chapter limits the ability of a tribal health program operating any health program, service, function, activity, or facility funded, in whole or part, by the Service through, or provided for in, a compact with the Service pursuant to title V of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 458aaa et seq.) 1
+Nothing in this chapter limits the ability of a tribal health program operating any health program, service, function, activity, or facility funded, in whole or part, by the Service through, or provided for in, a compact with the Service pursuant to title V of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 458aaa et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 to charge an Indian for services provided by the tribal health program.
 
@@ -8669,7 +8669,7 @@ to charge an Indian for services provided by the tribal health program.
 
 **(2)** to require any tribal health program to charge an Indian for services.
 
-(Pub. L. 94–437, title VIII, § 828, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 828, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -8677,17 +8677,17 @@ to charge an Indian for services provided by the tribal health program.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Title V of the Act was classified principally to part E (§ 458aaa et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter V (§ 5381 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Title V of the Act was classified principally to part E (§ 458aaa et seq.) of subchapter II of chapter 14 of this title prior to editorial reclassification as subchapter V (§ 5381 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
 Section 828 of Pub. L. 94–437 is based on section 197 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1680s. Disease and injury prevention report
+### § 1680s. Disease and injury prevention report
 
-Not later than 18 months after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committees on Natural Resources and Energy and Commerce of the House of Representatives 1
+Not later than 18 months after March 23, 2010, the Secretary shall submit to the Committee on Indian Affairs of the Senate and the Committees on Natural Resources and Energy and Commerce of the House of Representatives 1
 
-<sup>1</sup>  So in original. Probably should be followed by “a report”.
+<sup>1</sup> So in original. Probably should be followed by “a report”.
 
 describing—
 
@@ -8695,7 +8695,7 @@ describing—
 
 **(2)** the effectiveness of those activities, including the reductions of injury or disease conditions achieved by the activities.
 
-(Pub. L. 94–437, title VIII, § 829, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 829, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -8703,7 +8703,7 @@ describing—
 
 Section 829 of Pub. L. 94–437 is based on section 198 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1680t. Other GAO reports
+### § 1680t. Other GAO reports
 
 **(a) Coordination of services**
 
@@ -8755,7 +8755,7 @@ The Comptroller General shall conduct a study on the use of health care furnishe
 
 In conducting the study under paragraph (1) and preparing the report under paragraph (3), the Comptroller General shall consult with the Service, Indian tribes, and tribal organizations.
 
-(Pub. L. 94–437, title VIII, § 830, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 830, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -8763,15 +8763,15 @@ In conducting the study under paragraph (1) and preparing the report under parag
 
 Section 830 of Pub. L. 94–437 is based on section 199 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1680u. Traditional health care practices
+### § 1680u. Traditional health care practices
 
-Although the Secretary may promote traditional health care practices, consistent with the Service standards for the provision of health care, health promotion, and disease prevention under this chapter, the United States is not liable for any provision of traditional health care practices pursuant to this chapter that results in damage, injury, or death to a patient. Nothing in this subsection shall be construed to alter any liability or other obligation that the United States may otherwise have under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+Although the Secretary may promote traditional health care practices, consistent with the Service standards for the provision of health care, health promotion, and disease prevention under this chapter, the United States is not liable for any provision of traditional health care practices pursuant to this chapter that results in damage, injury, or death to a patient. Nothing in this subsection shall be construed to alter any liability or other obligation that the United States may otherwise have under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or this chapter.
 
-(Pub. L. 94–437, title VIII, § 831, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 831, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
@@ -8779,13 +8779,13 @@ or this chapter.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
 Section 831 of Pub. L. 94–437 is based on section 199A of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1680v. Director of HIV/AIDS Prevention and Treatment
+### § 1680v. Director of HIV/AIDS Prevention and Treatment
 
 **(a) Establishment**
 
@@ -8797,9 +8797,9 @@ The Secretary, acting through the Service, shall establish within the Service th
 
 **(2)** provide technical assistance to Indian tribes, tribal organizations, and urban Indian organizations regarding existing HIV/AIDS prevention and treatment programs; and
 
-**(3)** ensure interagency coordination to facilitate the inclusion of Indians in Federal HIV/AIDS research and grant opportunities, with emphasis on the programs operated under the Ryan White Comprehensive Aids 1
+**(3)** ensure interagency coordination to facilitate the inclusion of Indians in Federal HIV/AIDS research and grant opportunities, with emphasis on the programs operated under the Ryan White Comprehensive Aids 1
 
-<sup>1</sup>  So in original. Probably should be “AIDS”.
+<sup>1</sup> So in original. Probably should be “AIDS”.
 
 Resources Emergency Act of 1990 (Public Law 101–381; 104 Stat. 576) and the amendments made by that Act.
 
@@ -8809,25 +8809,25 @@ Resources Emergency Act of 1990 (Public Law 101–381; 104 Stat. 576) and the am
 
 **(2)** any findings of the Director with respect to HIV/AIDS prevention and treatment activities specific to Indians.
 
-(Pub. L. 94–437, title VIII, § 832, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title VIII, § 832, as added Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Ryan White Comprehensive AIDS Resources Emergency Act of 1990, referred to in subsec. (b)(3), is Pub. L. 101–381, Aug. 18, 1990, 104 Stat. 576, which enacted subchapter XXIV (§ 300ff et seq.) of chapter 6A of Title 42, The Public Health and Welfare, transferred section 300ee–6 of Title 42 to section 300ff–48 of Title 42, amended sections 284a, 286, 287a, 287c–2 (now 285q–2), 289f, 290aa–3a (now 290aa–1), 299c–5, 300ff–48, and 300aaa to 300aaa–13 (now 238 to 238m) of Title 42, and enacted provisions set out as notes under sections 201, 300x–4, 300ff–11, 300ff–46, and 300ff–80 of Title 42. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of Title 42 and Tables.
+The Ryan White Comprehensive AIDS Resources Emergency Act of 1990, referred to in subsec. (b)(3), is Pub. L. 101–381, Aug. 18, 1990, 104 Stat. 576, which enacted subchapter XXIV (§ 300ff et seq.) of chapter 6A of Title 42, The Public Health and Welfare, transferred section 300ee–6 of Title 42 to section 300ff–48 of Title 42, amended sections 284a, 286, 287a, 287c–2 (now 285q–2), 289f, 290aa–3a (now 290aa–1), 299c–5, 300ff–48, and 300aaa to 300aaa–13 (now 238 to 238m) of Title 42, and enacted provisions set out as notes under sections 201, 300x–4, 300ff–11, 300ff–46, and 300ff–80 of Title 42. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of Title 42 and Tables.
 
 **Codification**
 
 Section 832 of Pub. L. 94–437 is based on section 199B of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-### § 1681. Omitted
+### § 1681. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–190; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, which provided that the Indian Health Service was to neither bill nor charge those Indians who may have economic means to pay unless and until Congress directs Service to implement policy to do so, was from the Department of the Interior and Related Agencies Appropriations Act, 1996, and was not repeated in subsequent appropriations acts. Provisions similar to those in this section were contained in the following prior appropriation acts:
+Section, Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–190; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, which provided that the Indian Health Service was to neither bill nor charge those Indians who may have economic means to pay unless and until Congress directs Service to implement policy to do so, was from the Department of the Interior and Related Agencies Appropriations Act, 1996, and was not repeated in subsequent appropriations acts. Provisions similar to those in this section were contained in the following prior appropriation acts:
 
 Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2529.
 
@@ -8843,23 +8843,23 @@ Pub. L. 101–121, title II, Oct. 23, 1989, 103 Stat. 734.
 
 Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1816.
 
-Pub. L. 100–202, § 101(g) [title II], Dec. 22, 1987, 101 Stat. 1329–213, 1329–245.
+Pub. L. 100–202, § 101(g) [title II], Dec. 22, 1987, 101 Stat. 1329–213, 1329–245.
 
-Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–277, and Pub. L. 99–591, § 101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–277.
+Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–277, and Pub. L. 99–591, § 101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–277.
 
-Pub. L. 99–190, § 101(d) [title II], Dec. 19, 1985, 99 Stat. 1224, 1256.
+Pub. L. 99–190, § 101(d) [title II], Dec. 19, 1985, 99 Stat. 1224, 1256.
 
-Pub. L. 98–473, title I, § 101(c) [title II], Oct. 12, 1984, 98 Stat. 1837, 1865.
+Pub. L. 98–473, title I, § 101(c) [title II], Oct. 12, 1984, 98 Stat. 1837, 1865.
 
-### § 1682. Subrogation of claims by Indian Health Service
+### § 1682. Subrogation of claims by Indian Health Service
 
-On and after October 18, 1986, the Indian Health Service may seek subrogation of claims including but not limited to auto accident claims, including no-fault claims, personal injury, disease, or disability claims, and worker’s compensation claims, the proceeds of which shall be credited to the funds established by sections 401 and 402 1
+On and after October 18, 1986, the Indian Health Service may seek subrogation of claims including but not limited to auto accident claims, including no-fault claims, personal injury, disease, or disability claims, and worker’s compensation claims, the proceeds of which shall be credited to the funds established by sections 401 and 402 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Indian Health Care Improvement Act.
 
-(Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–277, and Pub. L. 99–591, § 101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–277.)
+(Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–277, and Pub. L. 99–591, § 101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–277.)
 
 **Editorial Notes**
 
@@ -8875,21 +8875,21 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 **Prior Provisions**
 
-A prior section 1682, Pub. L. 98–473, title I, § 101(c) [title II], Oct. 12, 1984, 98 Stat. 1837, 1865, which related to subrogation of claims by Indian Health Service, was omitted as superseded by section 101(h) [title II] of Pub. L. 99–500 and Pub. L. 99–591.
+A prior section 1682, Pub. L. 98–473, title I, § 101(c) [title II], Oct. 12, 1984, 98 Stat. 1837, 1865, which related to subrogation of claims by Indian Health Service, was omitted as superseded by section 101(h) [title II] of Pub. L. 99–500 and Pub. L. 99–591.
 
-### § 1683. Indian Catastrophic Health Emergency Fund
+### § 1683. Indian Catastrophic Health Emergency Fund
 
 $10,000,000 shall remain available until expended, for the establishment of an Indian Catastrophic Health Emergency Fund (hereinafter referred to as the “Fund”). On and after October 18, 1986, the Fund is to cover the Indian Health Service portion of the medical expenses of catastrophic illness falling within the responsibility of the Service and shall be administered by the Secretary of Health and Human Services, acting through the central office of the Indian Health Service. No part of the Fund or its administration shall be subject to contract or grant under the Indian Self-Determination and Education Assistance Act (Public Law 93–638) [25 U.S.C. 5301 et seq.]. There shall be deposited into the Fund all amounts recovered under the authority of the Federal Medical Care Recovery Act (42 U.S.C. 2651 et seq.), which shall become available for obligation upon receipt and which shall remain available for obligation until expended. The Fund shall not be used to pay for health services provided to eligible Indians to the extent that alternate Federal, State, local, or private insurance resources for payment: (1) are available and accessible to the beneficiary; or (2) would be available and accessible if the beneficiary were to apply for them; or (3) would be available and accessible to other citizens similarly situated under Federal, State, or local law or regulation or private insurance program notwithstanding Indian Health Service eligibility or residency on or off a Federal Indian reservation.
 
-(Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–276, and Pub. L. 99–591, § 101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–276.)
+(Pub. L. 99–500, § 101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–276, and Pub. L. 99–591, § 101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–276.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act (Public Law 93–638), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act (Public Law 93–638), referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Federal Medical Care Recovery Act (42 U.S.C. 2651 et seq.), referred to in text, probably means Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+The Federal Medical Care Recovery Act (42 U.S.C. 2651 et seq.), referred to in text, probably means Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
@@ -8897,7 +8897,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1987, as enacted by Pub. L. 99–500 and Pub. L. 99–591, and not as part of the Indian Health Care Improvement Act which comprises this chapter.
 
-### § 1684. Emergency plan for Indian safety and health
+### § 1684. Emergency plan for Indian safety and health
 
 **(a) Establishment of Fund**
 
@@ -8937,7 +8937,7 @@ Any amounts remaining in the Fund on September 30 of an applicable fiscal year m
 
 **(f) Emergency plan** Not later than 1 year after July 30, 2008, the Attorney General, the Secretary of the Interior, and the Secretary of Health and Human Services, in consultation with Indian tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall jointly establish an emergency plan that addresses law enforcement, water, and health care needs of Indian tribes under which, for each of fiscal years 2010 through 2019, of amounts in the Fund—
 
@@ -8957,25 +8957,25 @@ shall jointly establish an emergency plan that addresses law enforcement, water,
 
 **(2)** the Secretary of the Interior shall—
 
-**(A)** deposit 15.5 percent in the public safety and justice account of the Bureau of Indian Affairs for use by the Office of Justice Services of the Bureau in providing law enforcement or detention services, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.); <sup>1</sup> and
+**(A)** deposit 15.5 percent in the public safety and justice account of the Bureau of Indian Affairs for use by the Office of Justice Services of the Bureau in providing law enforcement or detention services, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.); <sup>1</sup> and
 
-**(B)** use not more than $602,619,000 to implement requirements of Indian water settlement agreements that are approved by Congress (or the legislation to implement such an agreement) under which the United States shall plan, design, rehabilitate, or construct, or provide financial assistance for the planning, design, rehabilitation, or construction of, water supply or delivery infrastructure that will serve an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)); <sup>1</sup> and
+**(B)** use not more than $602,619,000 to implement requirements of Indian water settlement agreements that are approved by Congress (or the legislation to implement such an agreement) under which the United States shall plan, design, rehabilitate, or construct, or provide financial assistance for the planning, design, rehabilitation, or construction of, water supply or delivery infrastructure that will serve an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)); <sup>1</sup> and
 
-**(3)** the Secretary of Health and Human Services, acting through the Director of the Indian Health Service, shall use 12.5 percent to provide, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)— <sup>1</sup>
+**(3)** the Secretary of Health and Human Services, acting through the Director of the Indian Health Service, shall use 12.5 percent to provide, directly or through contracts or compacts with Indian tribes under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)— <sup>1</sup>
 
 **(A)** contract health services;
 
 **(B)** construction, rehabilitation, and replacement of Indian health facilities; and
 
-**(C)** domestic and community sanitation facilities serving members of Indian tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)) <sup>1</sup> pursuant to section 2004a of title 42.
+**(C)** domestic and community sanitation facilities serving members of Indian tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b)) <sup>1</sup> pursuant to section 2004a of title 42.
 
-(Pub. L. 110–293, title VI, § 601, July 30, 2008, 122 Stat. 2968; Pub. L. 111–291, title VIII, § 831, Dec. 8, 2010, 124 Stat. 3163.)
+(Pub. L. 110–293, title VI, § 601, July 30, 2008, 122 Stat. 2968; Pub. L. 111–291, title VIII, § 831, Dec. 8, 2010, 124 Stat. 3163.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4 of the Act was classified to section 450b of this title prior to editorial reclassification as section 5304 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4 of the Act was classified to section 450b of this title prior to editorial reclassification as section 5304 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 
@@ -8985,11 +8985,11 @@ Section was formerly classified to section 443c of this title prior to editorial
 
 **Amendments**
 
-2010—Subsec. (b)(1). Pub. L. 111–291, § 831(1), substituted “$1,602,619,000” for “$2,000,000,000”.
+2010—Subsec. (b)(1). Pub. L. 111–291, § 831(1), substituted “$1,602,619,000” for “$2,000,000,000”.
 
-Subsec. (f)(2)(B). Pub. L. 111–291, § 831(2), substituted “not more than $602,619,000” for “50 percent”.
+Subsec. (f)(2)(B). Pub. L. 111–291, § 831(2), substituted “not more than $602,619,000” for “50 percent”.
 
-### § 1685. Service of traditional foods in public facilities
+### § 1685. Service of traditional foods in public facilities
 
 **(a) Purposes** The purposes of this section are—
 
@@ -9023,7 +9023,7 @@ The term “Commissioner” means the Commissioner of Food and Drugs.
 
 The terms “Indian” and “Indian tribe” have the meanings given those terms in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(5) Traditional food**
 
@@ -9083,13 +9083,13 @@ The United States, an Indian tribe, a tribal organization, a State, a county or 
 
 Nothing in paragraph (1) alters any liability or other obligation of the United States under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 1450 et seq.).<sup>1</sup>
 
-(Pub. L. 113–79, title IV, § 4033, Feb. 7, 2014, 128 Stat. 818; Pub. L. 115–334, title IV, § 4203, Dec. 20, 2018, 132 Stat. 4656.)
+(Pub. L. 113–79, title IV, § 4033, Feb. 7, 2014, 128 Stat. 818; Pub. L. 115–334, title IV, § 4203, Dec. 20, 2018, 132 Stat. 4656.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b)(4), (6) and (d)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4 of the Act was classified to section 450b of this title prior to editorial reclassification as section 5304 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (b)(4), (6) and (d)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. Section 4 of the Act was classified to section 450b of this title prior to editorial reclassification as section 5304 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 **Codification**
 

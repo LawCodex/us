@@ -19,37 +19,37 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2019—Pub. L. 116–92, div. A, title V, § 553(a)(2), Dec. 20, 2019, 133 Stat. 1387, added item 7422.
+2019—Pub. L. 116–92, div. A, title V, § 553(a)(2), Dec. 20, 2019, 133 Stat. 1387, added item 7422.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 401 of this title as this chapter and items 4301 to 4321 as 7401 to 7421, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 401 of this title as this chapter and items 4301 to 4321 as 7401 to 7421, respectively.
 
-2017—Pub. L. 115–91, div. A, title X, § 1051(a)(27)(B), Dec. 12, 2017, 131 Stat. 1562, struck out item 4316 “Reporting requirements”.
+2017—Pub. L. 115–91, div. A, title X, § 1051(a)(27)(B), Dec. 12, 2017, 131 Stat. 1562, struck out item 4316 “Reporting requirements”.
 
-2008—Pub. L. 110–417, [div. A], title V, § 543(c)(2), (d)(2), Oct. 14, 2008, 122 Stat. 4459, 4460, added items 4314 and 4321 and struck out former items 4314 “United States Army Command and General Staff College degree” and 4321 “United States Army War College: master of strategic studies degree”.
+2008—Pub. L. 110–417, [div. A], title V, § 543(c)(2), (d)(2), Oct. 14, 2008, 122 Stat. 4459, 4460, added items 4314 and 4321 and struck out former items 4314 “United States Army Command and General Staff College degree” and 4321 “United States Army War College: master of strategic studies degree”.
 
-1999—Pub. L. 106–65, div. A, title V, § 542(b), Oct. 5, 1999, 113 Stat. 607, added item 4321.
+1999—Pub. L. 106–65, div. A, title V, § 542(b), Oct. 5, 1999, 113 Stat. 607, added item 4321.
 
-1998—Pub. L. 105–261, div. A, title V, §§ 521(a)(2), 522(a)(2), Oct. 17, 1998, 112 Stat. 2010, 2012, added items 4319 and 4320.
+1998—Pub. L. 105–261, div. A, title V, §§ 521(a)(2), 522(a)(2), Oct. 17, 1998, 112 Stat. 2010, 2012, added items 4319 and 4320.
 
-Pub. L. 105–225, § 6(b), Aug. 12, 1998, 112 Stat. 1499, repealed items 4312 “National rifle and pistol matches: small-arms firing school” and 4313 “National Matches and small-arms school: expenses”.
+Pub. L. 105–225, § 6(b), Aug. 12, 1998, 112 Stat. 1499, repealed items 4312 “National rifle and pistol matches: small-arms firing school” and 4313 “National Matches and small-arms school: expenses”.
 
-1997—Pub. L. 105–85, div. A, title V, § 557(a)(2), Nov. 18, 1997, 111 Stat. 1750, added item 4318.
+1997—Pub. L. 105–85, div. A, title V, § 557(a)(2), Nov. 18, 1997, 111 Stat. 1750, added item 4318.
 
-1996—Pub. L. 104–106, div. A, title V, § 562(a)(2), title XVI, § 1624(a)(2), Feb. 10, 1996, 110 Stat. 324, 522, added item 4303 and struck out items 4307 “Director of civilian marksmanship: detail”, 4308 “Promotion of civilian marksmanship: authority of the Secretary of the Army”, 4310 “Rifle instruction: detail of members of Army”, and 4311 “Rifle instruction: issue of rifles and ammunition”.
+1996—Pub. L. 104–106, div. A, title V, § 562(a)(2), title XVI, § 1624(a)(2), Feb. 10, 1996, 110 Stat. 324, 522, added item 4303 and struck out items 4307 “Director of civilian marksmanship: detail”, 4308 “Promotion of civilian marksmanship: authority of the Secretary of the Army”, 4310 “Rifle instruction: detail of members of Army”, and 4311 “Rifle instruction: issue of rifles and ammunition”.
 
-1993—Pub. L. 103–35, title II, § 201(b)(2)(B), (g)(10)(B), May 31, 1993, 107 Stat. 98, 100, substituted “National Matches and small-arms school” for “Promotion of civilian marksmanship” in item 4313, struck out item 4316 “Military history fellowships”, and added item 4317.
+1993—Pub. L. 103–35, title II, § 201(b)(2)(B), (g)(10)(B), May 31, 1993, 107 Stat. 98, 100, substituted “National Matches and small-arms school” for “Promotion of civilian marksmanship” in item 4313, struck out item 4316 “Military history fellowships”, and added item 4317.
 
-1992—Pub. L. 102–484, div. A, title III, § 380(a)(2), (b)(2), (d)(2), title X, § 1076(b), Oct. 23, 1992, 106 Stat. 2390, 2391, 2512, added items 4308 and 4309 and struck out former items 4308 and 4309, resulting in no change in item 4308 and in substituting “availability” for “available” in item 4309, and added two items 4316.
+1992—Pub. L. 102–484, div. A, title III, § 380(a)(2), (b)(2), (d)(2), title X, § 1076(b), Oct. 23, 1992, 106 Stat. 2390, 2391, 2512, added items 4308 and 4309 and struck out former items 4308 and 4309, resulting in no change in item 4308 and in substituting “availability” for “available” in item 4309, and added two items 4316.
 
-Pub. L. 102–484, div. A, title III, § 380(c)(2), Oct. 23, 1992, 106 Stat. 2391, which directed amendment of item 4313 by striking out “rifle”, could not be executed because the word did not appear subsequent to amendment by Pub. L. 101–510. See 1990 Amendment note below.
+Pub. L. 102–484, div. A, title III, § 380(c)(2), Oct. 23, 1992, 106 Stat. 2391, which directed amendment of item 4313 by striking out “rifle”, could not be executed because the word did not appear subsequent to amendment by Pub. L. 101–510. See 1990 Amendment note below.
 
-1990—Pub. L. 101–510, div. A, title III, § 328(g)(2), Nov. 5, 1990, 104 Stat. 1534, added items 4308, 4309, and 4313 and struck out former items 4308 “Civilian rifle ranges: establishment; instruction”, 4309 “Rifle ranges: recommendations to Congress; regulations”, and 4313 “National rifle matches and small-arms school: expenses”.
+1990—Pub. L. 101–510, div. A, title III, § 328(g)(2), Nov. 5, 1990, 104 Stat. 1534, added items 4308, 4309, and 4313 and struck out former items 4308 “Civilian rifle ranges: establishment; instruction”, 4309 “Rifle ranges: recommendations to Congress; regulations”, and 4313 “National rifle matches and small-arms school: expenses”.
 
-1987—Pub. L. 100–180, div. A, title V, § 504(b), Dec. 4, 1987, 101 Stat. 1086, added item 4315.
+1987—Pub. L. 100–180, div. A, title V, § 504(b), Dec. 4, 1987, 101 Stat. 1086, added item 4315.
 
-1974—Pub. L. 93–365, title VII, § 708(a)(2), Aug. 5, 1974, 88 Stat. 407, added item 4314.
+1974—Pub. L. 93–365, title VII, § 708(a)(2), Aug. 5, 1974, 88 Stat. 407, added item 4314.
 
-## § 7401. Members of Army: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals
+## § 7401. Members of Army: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals
 
 **(a)** The Secretary of the Army may detail members of the Army as students at such technical, professional, and other civilian educational institutions, or as students, observers, or investigators at such industrial plants, hospitals, and other places, as are best suited to enable them to acquire knowledge or experience in the specialties in which it is considered necessary that they perfect themselves.
 
@@ -65,18 +65,18 @@ Pub. L. 102–484, div. A, title III, § 380(c)(2), Oct. 23, 1992, 106 Stat. 2
 
 **(g)** Expenses incident to the detail of members under this section shall be paid from any funds appropriated for the Department of the Army.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 234, § 4301; Pub. L. 93–169, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, § 502(23), Dec. 12, 1980, 94 Stat. 2910; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(a)(9), Jan. 6, 2006, 119 Stat. 3441; renumbered § 7401, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 234, § 4301; Pub. L. 93–169, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, § 502(23), Dec. 12, 1980, 94 Stat. 2910; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(a)(9), Jan. 6, 2006, 119 Stat. 3441; renumbered § 7401, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4301(a) 4301(b)   4301(c) 4301(d)   4301(e)   4301(f) 4301(g) | 10:535 (1st 75 words). 10:535 (less 1st 75 words, and less provisos). 10:535 (1st proviso). 10:535 (words of 2d proviso before semicolon). 10:535 (words of 2d proviso after semicolon). 10:535 (last proviso). 10:535a. | June 3, 1916, ch. 134, § 127a (13th par.); added June 4, 1920, ch. 227, subch. I, § 51 (13th par.); restated June 8, 1926, ch. 495; May 13, 1941, ch. 113; June 30, 1941, ch. 262 (4th proviso under “Finance Department”); restated June 19, 1948, ch. 501, § 1, 62 Stat. 477. |
-|  |  | June 19, 1948, ch. 501, § 2, 62 Stat. 478. |
+| 4301(a) 4301(b) 4301(c) 4301(d) 4301(e) 4301(f) 4301(g) | 10:535 (1st 75 words). 10:535 (less 1st 75 words, and less provisos). 10:535 (1st proviso). 10:535 (words of 2d proviso before semicolon). 10:535 (words of 2d proviso after semicolon). 10:535 (last proviso). 10:535a. | June 3, 1916, ch. 134, § 127a (13th par.); added June 4, 1920, ch. 227, subch. I, § 51 (13th par.); restated June 8, 1926, ch. 495; May 13, 1941, ch. 113; June 30, 1941, ch. 262 (4th proviso under “Finance Department”); restated June 19, 1948, ch. 501, § 1, 62 Stat. 477. |
+|  |  | June 19, 1948, ch. 501, § 2, 62 Stat. 478. |
 
 In subsection (a), the words “members of the Army” are substituted for the words “personnel of the Army of the United States, without regard to component”.
 
-In subsection (b), the words “is detailed under subsection (a)” are substituted for the words “receives such instruction”. The words “as long as the detail” are substituted for the words “equal to the duration of his period of instruction”. The words “However, if the detail is for” are substituted for the words “except that where the duration of such training is”. The words “other than one of the Regular Army on the active list” are inserted, since members of the Regular Army on the active list are on continuous active duty. The word “additional” is inserted, since the detail under this section is active duty. The words “the officer may be ordered to that additional duty” are substituted for the words “such subsequent active duty may \* \* \* the officer concerned”.
+In subsection (b), the words “is detailed under subsection (a)” are substituted for the words “receives such instruction”. The words “as long as the detail” are substituted for the words “equal to the duration of his period of instruction”. The words “However, if the detail is for” are substituted for the words “except that where the duration of such training is”. The words “other than one of the Regular Army on the active list” are inserted, since members of the Regular Army on the active list are on continuous active duty. The word “additional” is inserted, since the detail under this section is active duty. The words “the officer may be ordered to that additional duty” are substituted for the words “such subsequent active duty may \* \* \* the officer concerned”.
 
 In subsection (c), the words “of whose Army National Guard he is a member” are substituted for the words “whichever is concerned”.
 
@@ -112,23 +112,23 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 7402. Enlisted members of Army: schools
+## § 7402. Enlisted members of Army: schools
 
 **(a)** So far as consistent with the requirements of military training and service, and under regulations to be prescribed by the Secretary of the Army with the approval of the President, enlisted members of the Army shall be permitted to study and receive instruction to increase their military efficiency and to enable them to return to civilian life better equipped for industrial, commercial, and business occupations. Part of this instruction may be vocational education in agriculture or the mechanic arts. Civilian teachers may be employed to aid Army officers in this instruction.
 
 **(b)** Schools for the instruction of enlisted members of the Army in the common branches of education, including United States history shall be maintained at all posts at which members of the Army are stationed. The Secretary may detail members of the Army to carry out this subsection. The commander of each post where schools are maintained under this subsection shall provide a suitable room or building for school and religious purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 235, § 4302; renumbered § 7402, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 235, § 4302; renumbered § 7402, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4302(a) 4302(b) | 10:1176. 10:1172. | June 3, 1916, ch. 134, § 27 (last par.), 39 Stat. 186. R.S. 1231. |
+| 4302(a) 4302(b) | 10:1176. 10:1172. | June 3, 1916, ch. 134, § 27 (last par.), 39 Stat. 186. R.S. 1231. |
 
 In subsection (a), the first 12 words are substituted for 10:1176 (1st 5, and last 18, words). The words “and the Secretary of the Army shall have the power at all times to suspend, increase, or decrease the amount of such instruction offered” are omitted as surplusage.
 
-In subsection (b), the words “garrisons, and permanent camps” are omitted as covered by the word “posts”. The word “including” is substituted for the words “and especially in”. The word “members” is substituted for the words “officers and enlisted men”. The words “as may be necessary”, “It \* \* \* be the duty”, and “or garrison” are omitted as surplusage.
+In subsection (b), the words “garrisons, and permanent camps” are omitted as covered by the word “posts”. The word “including” is substituted for the words “and especially in”. The word “members” is substituted for the words “officers and enlisted men”. The words “as may be necessary”, “It \* \* \* be the duty”, and “or garrison” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Function of the President under subsec. (a) of this section delegated to the Secretary of Defense, see section 1(6) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 
-## § 7403. Army Ranger training: instructor staffing; safety
+## § 7403. Army Ranger training: instructor staffing; safety
 
 **(a) Levels of Personnel Assigned.—**
 
@@ -162,7 +162,7 @@ Function of the President under subsec. (a) of this section delegated to the Sec
 
 **(2)** Members of each safety cell shall be assigned in sufficient numbers to serve as advisers to the officers in charge of the major phase of Ranger training and shall assist those officers in making informed daily “go” and “no-go” decisions regarding training in light of all relevant conditions, including conditions of terrain, weather, water, and climate and other conditions.
 
-(Added Pub. L. 104–106, div. A, title V, § 562(a)(1), Feb. 10, 1996, 110 Stat. 323, § 4303; renumbered § 7403, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 104–106, div. A, title V, § 562(a)(1), Feb. 10, 1996, 110 Stat. 323, § 4303; renumbered § 7403, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -178,13 +178,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Accomplishment of Required Manning Levels; GAO Assessment**
 
-Pub. L. 104–106, div. A, title V, § 562(b), (c), Feb. 10, 1996, 110 Stat. 324, provided that if on Feb. 10, 1996, the number of officers, and the number of enlisted members, permanently assigned to the Army Ranger Training Brigade were not each at (or above) the requirement specified in this section, the Secretary of the Army was to take such steps as necessary to accomplish that requirement within 12 months and submit to Congress within 90 days a plan to achieve and maintain that requirement, and the Comptroller General was to submit to Congress by one year after Feb. 10, 1996, a preliminary assessment of the implementation and effectiveness of all corrective actions taken by the Army as a result of the February 1995 accident at the Florida Ranger Training Camp, including an evaluation of the implementation of the required manning levels established by this section, with a final assessment due 2 years after the required manning levels referred to in paragraph (1) are first attained.
+Pub. L. 104–106, div. A, title V, § 562(b), (c), Feb. 10, 1996, 110 Stat. 324, provided that if on Feb. 10, 1996, the number of officers, and the number of enlisted members, permanently assigned to the Army Ranger Training Brigade were not each at (or above) the requirement specified in this section, the Secretary of the Army was to take such steps as necessary to accomplish that requirement within 12 months and submit to Congress within 90 days a plan to achieve and maintain that requirement, and the Comptroller General was to submit to Congress by one year after Feb. 10, 1996, a preliminary assessment of the implementation and effectiveness of all corrective actions taken by the Army as a result of the February 1995 accident at the Florida Ranger Training Camp, including an evaluation of the implementation of the required manning levels established by this section, with a final assessment due 2 years after the required manning levels referred to in paragraph (1) are first attained.
 
-## § 7406. Service schools: leaves of absence for instructors
+## § 7406. Service schools: leaves of absence for instructors
 
 The officer in charge of an Army service school may grant a leave of absence for the period of the suspension of the ordinary academic studies, without reduction of pay or allowances, to any officer on duty exclusively as an instructor at the school.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 235, § 4306; renumbered § 7406, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 235, § 4306; renumbered § 7406, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -192,7 +192,7 @@ The officer in charge of an Army service school may grant a leave of absence for
 |---|---|---|
 | 4306 | 10:843. | Mar. 23, 1910, ch. 115 (proviso under “United States Service Schools”), 36 Stat. 244. |
 
-The words “The provisions of section 1144 of this title, authorizing leaves of absence to certain officers of the Military Academy \* \* \* are hereby, extended to include” are omitted as surplusage.
+The words “The provisions of section 1144 of this title, authorizing leaves of absence to certain officers of the Military Academy \* \* \* are hereby, extended to include” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -206,7 +206,7 @@ The words “The provisions of section 1144 of this title, authorizing leaves of
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7409. Rifle ranges: availability for use by members and civilians
+## § 7409. Rifle ranges: availability for use by members and civilians
 
 **(a) Ranges Available.—** All rifle ranges constructed in whole or in part with funds provided by the United States may be used by members of the armed forces and by persons capable of bearing arms.
 
@@ -220,15 +220,15 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c) Regulations.—** Regulations to carry out this section with respect to a rifle range shall be prescribed, subject to the approval of the Secretary concerned, by the authorities controlling the rifle range.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 236, § 4309; Pub. L. 99–145, title XIII, § 1301(b)(3)(A), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–510, div. A, title III, § 328(e), Nov. 5, 1990, 104 Stat. 1533; Pub. L. 102–484, div. A, title III, § 380(b)(1), Oct. 23, 1992, 106 Stat. 2390; renumbered § 7409, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 236, § 4309; Pub. L. 99–145, title XIII, § 1301(b)(3)(A), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–510, div. A, title III, § 328(e), Nov. 5, 1990, 104 Stat. 1533; Pub. L. 102–484, div. A, title III, § 380(b)(1), Oct. 23, 1992, 106 Stat. 2390; renumbered § 7409, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4309(a) 4309(b) | 32:186 (1st sentence). 32:186 (less 1st sentence). | June 3, 1916, ch. 134, § 113 (1st 2 sentences), 39 Stat. 211. |
+| 4309(a) 4309(b) | 32:186 (1st sentence). 32:186 (less 1st sentence). | June 3, 1916, ch. 134, § 113 (1st 2 sentences), 39 Stat. 211. |
 
-In subsection (a), the words “such a comprehensive \* \* \* as will ultimately result in” are omitted as surplusage.
+In subsection (a), the words “such a comprehensive \* \* \* as will ultimately result in” are omitted as surplusage.
 
 In subsection (b), the words “United States” are substituted for the word “Congress”. The words “members of the armed forces” are substituted for the words “those in any branch of the military or naval service”. The words “of the United States” are omitted as surplusage.
 
@@ -264,7 +264,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–484, div. A, title III, § 380(e), Oct. 23, 1992, 106 Stat. 2391, provided that:
+Pub. L. 102–484, div. A, title III, § 380(e), Oct. 23, 1992, 106 Stat. 2391, provided that:
 
 > **“(1)** This section [enacting section 4316 of this title and amending this section and sections 4308 and 4313 of this title] and the amendments made by this section shall take effect on the earlier of—
 
@@ -278,9 +278,9 @@ Pub. L. 102–484, div. A, title III, § 380(e), Oct. 23, 1992, 106 Stat. 2391
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–510, div. A, title III, § 328(h), Nov. 5, 1990, 104 Stat. 1534, provided that: “The amendments made by this section [amending this section and sections 4308, 4311, and 4313 of this title] shall take effect on October 1, 1992.”
+Pub. L. 101–510, div. A, title III, § 328(h), Nov. 5, 1990, 104 Stat. 1534, provided that: “The amendments made by this section [amending this section and sections 4308, 4311, and 4313 of this title] shall take effect on October 1, 1992.”
 
-## § 7414. Degree granting authority for United States Army Command and General Staff College
+## § 7414. Degree granting authority for United States Army Command and General Staff College
 
 **(a) Authority.—** Under regulations prescribed by the Secretary of the Army, the Commandant of the United States Army Command and General Staff College may, upon the recommendation of the faculty and dean of the college, confer appropriate degrees upon graduates who meet the degree requirements.
 
@@ -302,7 +302,7 @@ Pub. L. 101–510, div. A, title III, § 328(h), Nov. 5, 1990, 104 Stat. 1534,
 
 **(3)** The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army Command and General Staff College to award any new or existing degree.
 
-(Added Pub. L. 93–365, title VII, § 708(a)(1), Aug. 5, 1974, 88 Stat. 407, § 4314; amended Pub. L. 96–513, title V, § 512(11), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 101–510, div. A, title XIII, § 1322(a)(13), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 110–417, [div. A], title V, § 543(c)(1), Oct. 14, 2008, 122 Stat. 4458; renumbered § 7414, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 93–365, title VII, § 708(a)(1), Aug. 5, 1974, 88 Stat. 407, § 4314; amended Pub. L. 96–513, title V, § 512(11), Dec. 12, 1980, 94 Stat. 2929; Pub. L. 101–510, div. A, title XIII, § 1322(a)(13), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 110–417, [div. A], title V, § 543(c)(1), Oct. 14, 2008, 122 Stat. 4458; renumbered § 7414, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -332,13 +332,13 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **Retroactive Degree Conferral; Maximum Amount**
 
-Pub. L. 93–365, title VII, § 708(b), Aug. 5, 1974, 88 Stat. 407, provided that: “The Commandant of the United States Army Command and General Staff College may confer the degree of master of military art and science upon graduates of the college who have completed the requirements for that degree since 1964 but prior to the enactment of this Act [Aug. 5, 1974]; but the number of such degrees awarded for such period may not exceed two hundred.”
+Pub. L. 93–365, title VII, § 708(b), Aug. 5, 1974, 88 Stat. 407, provided that: “The Commandant of the United States Army Command and General Staff College may confer the degree of master of military art and science upon graduates of the college who have completed the requirements for that degree since 1964 but prior to the enactment of this Act [Aug. 5, 1974]; but the number of such degrees awarded for such period may not exceed two hundred.”
 
-## § 7415. The Judge Advocate General’s School: master of laws in military law
+## § 7415. The Judge Advocate General’s School: master of laws in military law
 
 Under regulations prescribed by the Secretary of the Army, the Commandant of the Judge Advocate General’s School of the Army may, upon recommendation by the faculty of such school, confer the degree of master of laws (LL.M.) in military law upon graduates of the school who have fulfilled the requirements for that degree.
 
-(Added Pub. L. 100–180, div. A, title V, § 504(a), Dec. 4, 1987, 101 Stat. 1086, § 4315; renumbered § 7415, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 100–180, div. A, title V, § 504(a), Dec. 4, 1987, 101 Stat. 1086, § 4315; renumbered § 7415, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -352,7 +352,7 @@ Under regulations prescribed by the Secretary of the Army, the Commandant of the
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7417. Military history fellowships
+## § 7417. Military history fellowships
 
 **(a) Fellowships.—** The Secretary of the Army shall prescribe regulations under which the Secretary may award fellowships in military history of the Army to the persons described in subsection (b).
 
@@ -374,7 +374,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(4)** the total amount that may be awarded as fellowships during an academic year.
 
-(Added Pub. L. 102–484, div. A, title X, § 1076(a), Oct. 23, 1992, 106 Stat. 2511, § 4316; renumbered § 4317, Pub. L. 103–35, title II, § 201(b)(2)(A), May 31, 1993, 107 Stat. 98; renumbered § 7417, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 102–484, div. A, title X, § 1076(a), Oct. 23, 1992, 106 Stat. 2511, § 4316; renumbered § 4317, Pub. L. 103–35, title II, § 201(b)(2)(A), May 31, 1993, 107 Stat. 98; renumbered § 7417, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -390,13 +390,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7418. Drill sergeant trainees: human relations training
+## § 7418. Drill sergeant trainees: human relations training
 
 **(a) Human Relations Training Required.—** The Secretary of the Army shall include as part of the training program for drill sergeants a course in human relations. The course shall be a minimum of two days in duration.
 
 **(b) Resources.—** In developing a human relations course under this section, the Secretary shall use the capabilities and expertise of the Defense Equal Opportunity Management Institute (DEOMI).
 
-(Added Pub. L. 105–85, div. A, title V, § 557(a)(1), Nov. 18, 1997, 111 Stat. 1750, § 4318; renumbered § 7418, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 105–85, div. A, title V, § 557(a)(1), Nov. 18, 1997, 111 Stat. 1750, § 4318; renumbered § 7418, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -412,11 +412,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date**
 
-Pub. L. 105–85, div. A, title V, § 557(b), Nov. 18, 1997, 111 Stat. 1750, as amended by Pub. L. 106–65, div. A, title X, § 1066(c)(1), Oct. 5, 1999, 113 Stat. 773, provided that: “Section 4318 [now 7418] of title 10, United States Code, as added by subsection (a), shall apply with respect to drill sergeant trainee classes that begin after the end of the 90-day period beginning on the date of the enactment of this Act [Nov. 18, 1997].”
+Pub. L. 105–85, div. A, title V, § 557(b), Nov. 18, 1997, 111 Stat. 1750, as amended by Pub. L. 106–65, div. A, title X, § 1066(c)(1), Oct. 5, 1999, 113 Stat. 773, provided that: “Section 4318 [now 7418] of title 10, United States Code, as added by subsection (a), shall apply with respect to drill sergeant trainee classes that begin after the end of the 90-day period beginning on the date of the enactment of this Act [Nov. 18, 1997].”
 
 **Reform of Army Drill Sergeant Selection and Training Process**
 
-Pub. L. 105–85, div. A, title V, § 556, Nov. 18, 1997, 111 Stat. 1749, provided that:
+Pub. L. 105–85, div. A, title V, § 556, Nov. 18, 1997, 111 Stat. 1749, provided that:
 
 > **“(a) In General.—** The Secretary of the Army shall reform the process for selection and training of drill sergeants for the Army.
 
@@ -442,7 +442,7 @@ Pub. L. 105–85, div. A, title V, § 556, Nov. 18, 1997, 111 Stat. 1749, prov
 
 > **“(c) Report.—** Not later than March 31, 1998, the Secretary shall submit to the Committee on National Security of the House of Representatives and the Committee on Armed Services of the Senate a report of the reforms adopted pursuant to this section or, in the case of any measure specified in any of paragraphs (1) through (7) of subsection (b) that was not adopted, the rationale why that measure was not adopted.”
 
-## § 7419. Recruit basic training: separate housing for male and female recruits
+## § 7419. Recruit basic training: separate housing for male and female recruits
 
 **(a) Physically Separate Housing.—**
 
@@ -458,7 +458,7 @@ Pub. L. 105–85, div. A, title V, § 556, Nov. 18, 1997, 111 Stat. 1749, prov
 
 **(d) Basic Training Defined.—** In this section, the term ‘basic training’ means the initial entry training program of the Army that constitutes the basic training of new recruits.
 
-(Added Pub. L. 105–261, div. A, title V, § 521(a)(1), Oct. 17, 1998, 112 Stat. 2009, § 4319; renumbered § 7419, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 105–261, div. A, title V, § 521(a)(1), Oct. 17, 1998, 112 Stat. 2009, § 4319; renumbered § 7419, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -474,13 +474,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Implementation**
 
-Pub. L. 105–261, div. A, title V, § 521(a)(3), Oct. 17, 1998, 112 Stat. 2010, provided that: “The Secretary of the Army shall implement section 4319 [now 7419] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
+Pub. L. 105–261, div. A, title V, § 521(a)(3), Oct. 17, 1998, 112 Stat. 2010, provided that: “The Secretary of the Army shall implement section 4319 [now 7419] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
 
-## § 7420. Recruit basic training: privacy
+## § 7420. Recruit basic training: privacy
 
 The Secretary of the Army shall require that access by drill sergeants and other training personnel to a living area in which recruits are housed during basic training shall be limited after the end of the training day, other than in the case of an emergency or other exigent circumstance, to drill sergeants and other training personnel who are of the same sex as the recruits housed in that living area or to superiors in the chain of command of those recruits who, if not of the same sex as the recruits housed in that living area, are accompanied by a member (other than a recruit) who is of the same sex as the recruits housed in that living area.
 
-(Added Pub. L. 105–261, div. A, title V, § 522(a)(1), Oct. 17, 1998, 112 Stat. 2012, § 4320; renumbered § 7420, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 105–261, div. A, title V, § 522(a)(1), Oct. 17, 1998, 112 Stat. 2012, § 4320; renumbered § 7420, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -500,9 +500,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Implementation**
 
-Pub. L. 105–261, div. A, title V, § 522(a)(3), Oct. 17, 1998, 112 Stat. 2012, provided that: “The Secretary of the Army shall implement section 4320 [now 7420] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
+Pub. L. 105–261, div. A, title V, § 522(a)(3), Oct. 17, 1998, 112 Stat. 2012, provided that: “The Secretary of the Army shall implement section 4320 [now 7420] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
 
-## § 7421. Degree granting authority for United States Army War College
+## § 7421. Degree granting authority for United States Army War College
 
 **(a) Authority.—** Under regulations prescribed by the Secretary of the Army, the Commandant of the United States Army War College may, upon the recommendation of the faculty and dean of the college, confer appropriate degrees upon graduates who meet the degree requirements.
 
@@ -524,7 +524,7 @@ Pub. L. 105–261, div. A, title V, § 522(a)(3), Oct. 17, 1998, 112 Stat. 201
 
 **(3)** The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army War College to award any new or existing degree.
 
-(Added Pub. L. 106–65, div. A, title V, § 542(a), Oct. 5, 1999, 113 Stat. 607, § 4321; amended Pub. L. 110–417, [div. A], title V, § 543(d)(1), Oct. 14, 2008, 122 Stat. 4459; renumbered § 7421, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 106–65, div. A, title V, § 542(a), Oct. 5, 1999, 113 Stat. 607, § 4321; amended Pub. L. 110–417, [div. A], title V, § 543(d)(1), Oct. 14, 2008, 122 Stat. 4459; renumbered § 7421, Pub. L. 115–232, div. A, title VIII, § 808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Editorial Notes**
 
@@ -532,7 +532,7 @@ Pub. L. 105–261, div. A, title V, § 522(a)(3), Oct. 17, 1998, 112 Stat. 201
 
 A prior section 7421 was renumbered section 8721 of this title.
 
-A prior section 7426, acts Aug. 10, 1956, ch. 1041, 70A Stat. 459; Pub. L. 94–258, title II, § 201(7), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(32)(A), (B), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, § 1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774, related to cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1, prior to repeal by Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484. Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, provided that the repeal of section 7426 would not affect the validity of contracts in effect under that section on the day before Oct. 30, 2000, and that no such contracts could be extended or renewed on or after Oct. 30, 2000.
+A prior section 7426, acts Aug. 10, 1956, ch. 1041, 70A Stat. 459; Pub. L. 94–258, title II, § 201(7), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(32)(A), (B), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, § 1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774, related to cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1, prior to repeal by Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484. Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, provided that the repeal of section 7426 would not affect the validity of contracts in effect under that section on the day before Oct. 30, 2000, and that no such contracts could be extended or renewed on or after Oct. 30, 2000.
 
 Prior sections 7427 to 7430 were renumbered sections 8727 to 8730 of this title, respectively.
 
@@ -554,7 +554,7 @@ Amendment by Pub. L. 110–417 applicable to any degree granting authority estab
 
 **Organization of Army War College**
 
-Pub. L. 119–60, div. A, title V, § 559B, Dec. 18, 2025, 139 Stat. 881, provided that:
+Pub. L. 119–60, div. A, title V, § 559B, Dec. 18, 2025, 139 Stat. 881, provided that:
 
 > “The Secretary of the Army shall—
 
@@ -562,7 +562,7 @@ Pub. L. 119–60, div. A, title V, § 559B, Dec. 18, 2025, 139 Stat. 881, prov
 
 > **“(2)** direct the head of the Army War College to report to the head of the Army University.”
 
-## § 7422. Degree granting authority for United States Army Armament Graduate School
+## § 7422. Degree granting authority for United States Army Armament Graduate School
 
 **(a) Authority.—** Under regulations prescribed by the Secretary of the Army, the Chancellor of the United States Army Armament Graduate School may, upon the recommendation of the faculty and provost of the school, confer appropriate degrees upon graduates who meet the degree requirements.
 
@@ -584,7 +584,7 @@ Pub. L. 119–60, div. A, title V, § 559B, Dec. 18, 2025, 139 Stat. 881, prov
 
 **(3)** The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Army Armament Graduate School to award any new or existing degree.
 
-(Added Pub. L. 116–92, div. A, title V, § 553(a)(1), Dec. 20, 2019, 133 Stat. 1386.)
+(Added Pub. L. 116–92, div. A, title V, § 553(a)(1), Dec. 20, 2019, 133 Stat. 1386.)
 
 **Editorial Notes**
 
@@ -592,6 +592,6 @@ Pub. L. 119–60, div. A, title V, § 559B, Dec. 18, 2025, 139 Stat. 881, prov
 
 Prior sections 7422 to 7425 were renumbered sections 8722 to 8725 of this title, respectively.
 
-A prior section 7426, acts Aug. 10, 1956, ch. 1041, 70A Stat. 459; Pub. L. 94–258, title II, § 201(7), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(32)(A), (B), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, § 1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774, related to cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1, prior to repeal by Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484. Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, provided that the repeal of section 7426 would not affect the validity of contracts in effect under that section on the day before Oct. 30, 2000, and that no such contracts could be extended or renewed on or after Oct. 30, 2000.
+A prior section 7426, acts Aug. 10, 1956, ch. 1041, 70A Stat. 459; Pub. L. 94–258, title II, § 201(7), Apr. 5, 1976, 90 Stat. 309; Pub. L. 96–513, title V, § 513(32)(A), (B), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 98–525, title XIV, § 1405(52), Oct. 19, 1984, 98 Stat. 2625; Pub. L. 104–106, div. A, title XV, § 1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774, related to cooperative or unit plans affecting Naval Petroleum Reserve Numbered 1, prior to repeal by Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484. Pub. L. 106–398, § 1 [div. C, title XXXIV, § 3402(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–484, provided that the repeal of section 7426 would not affect the validity of contracts in effect under that section on the day before Oct. 30, 2000, and that no such contracts could be extended or renewed on or after Oct. 30, 2000.
 
 Prior sections 7427 to 7430 were renumbered sections 8727 to 8730 of this title, respectively.

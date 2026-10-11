@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 15B—GREAT LAKES FISH AND WILDLIFE RESTORATION
 
-## § 941. Findings
+## § 941. Findings
 
 Congress finds that—
 
@@ -27,43 +27,43 @@ Congress finds that—
 
 **(4)** this chapter allows Federal agencies, States, and Indian tribes to work in an effective partnership by providing the funding for restoration work.
 
-(Pub. L. 101–537, title I, § 1002, as added Pub. L. 114–322, title III, § 3901(b), Dec. 16, 2016, 130 Stat. 1848.)
+(Pub. L. 101–537, title I, § 1002, as added Pub. L. 114–322, title III, § 3901(b), Dec. 16, 2016, 130 Stat. 1848.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 941, Pub. L. 101–537, title I, § 1002, Nov. 8, 1990, 104 Stat. 2370; Pub. L. 101–646, title II, § 2002, Nov. 29, 1990, 104 Stat. 4773; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358, related to Congressional findings, prior to repeal by Pub. L. 114–322, title III, § 3901(b), Dec. 16, 2016, 130 Stat. 1848.
+A prior section 941, Pub. L. 101–537, title I, § 1002, Nov. 8, 1990, 104 Stat. 2370; Pub. L. 101–646, title II, § 2002, Nov. 29, 1990, 104 Stat. 4773; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358, related to Congressional findings, prior to repeal by Pub. L. 114–322, title III, § 3901(b), Dec. 16, 2016, 130 Stat. 1848.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 119–67, § 1, Dec. 26, 2025, 139 Stat. 1993, provided that: “This Act [amending section 941h of this title] may be cited as the ‘Great Lakes Fishery Research Reauthorization Act’.”
+Pub. L. 119–67, § 1, Dec. 26, 2025, 139 Stat. 1993, provided that: “This Act [amending section 941h of this title] may be cited as the ‘Great Lakes Fishery Research Reauthorization Act’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–287, § 1, Dec. 27, 2022, 136 Stat. 4363, provided that: “This Act [amending sections 941f and 941g of this title] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022’.”
+Pub. L. 117–287, § 1, Dec. 27, 2022, 136 Stat. 4363, provided that: “This Act [amending sections 941f and 941g of this title] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–326, § 1, Oct. 11, 2006, 120 Stat. 1761, provided that: “This Act [amending sections 941b to 941g of this title and enacting provisions set out as notes under this section] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 2006’.”
+Pub. L. 109–326, § 1, Oct. 11, 2006, 120 Stat. 1761, provided that: “This Act [amending sections 941b to 941g of this title and enacting provisions set out as notes under this section] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 2006’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–265, § 1, Oct. 19, 1998, 112 Stat. 2358, provided that: “This Act [amending this section and sections 941 to 941g of this title and enacting provisions set out as a note under this section] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1998’.”
+Pub. L. 105–265, § 1, Oct. 19, 1998, 112 Stat. 2358, provided that: “This Act [amending this section and sections 941 to 941g of this title and enacting provisions set out as a note under this section] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1998’.”
 
 **Short Title**
 
-Pub. L. 101–537, title I, § 1001, Nov. 8, 1990, 104 Stat. 2370, and Pub. L. 101–646, title II, § 2001, Nov. 29, 1990, 104 Stat. 4773, as amended by Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title [enacting this chapter] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1990’.” Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358.
+Pub. L. 101–537, title I, § 1001, Nov. 8, 1990, 104 Stat. 2370, and Pub. L. 101–646, title II, § 2001, Nov. 29, 1990, 104 Stat. 4773, as amended by Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title [enacting this chapter] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 1990’.” Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358.
 
 **Continued Monitoring and Assessment of Study Findings and Recommendations**
 
-Pub. L. 109–326, § 8, Oct. 11, 2006, 120 Stat. 1766, which required the Director of the United States Fish and Wildlife Service to monitor fish and wildlife resources of the Great Lakes Basin and to update findings and recommendations of the Great Lakes Fishery Resources Restoration Study, was repealed by Pub. L. 114–322, title III, § 3901(h), Dec. 16, 2016, 130 Stat. 1851.
+Pub. L. 109–326, § 8, Oct. 11, 2006, 120 Stat. 1766, which required the Director of the United States Fish and Wildlife Service to monitor fish and wildlife resources of the Great Lakes Basin and to update findings and recommendations of the Great Lakes Fishery Resources Restoration Study, was repealed by Pub. L. 114–322, title III, § 3901(h), Dec. 16, 2016, 130 Stat. 1851.
 
 **Congressional Findings**
 
-Pub. L. 109–326, § 2, Oct. 11, 2006, 120 Stat. 1761, provided that:
+Pub. L. 109–326, § 2, Oct. 11, 2006, 120 Stat. 1761, provided that:
 
 > “Congress finds that—
 
@@ -79,7 +79,7 @@ Pub. L. 109–326, § 2, Oct. 11, 2006, 120 Stat. 1761, provided that:
 
 > **“(6)** the Great Lakes Fish and Wildlife Restoration Act [of 1990] (16 U.S.C. 941 et seq.) allows Federal agencies, States, and tribes to work in an effective partnership by providing the funding for restoration work.”
 
-Pub. L. 105–265, § 2, Oct. 19, 1998, 112 Stat. 2358, provided that:
+Pub. L. 105–265, § 2, Oct. 19, 1998, 112 Stat. 2358, provided that:
 
 > “Congress finds that—
 
@@ -91,7 +91,7 @@ Pub. L. 105–265, § 2, Oct. 19, 1998, 112 Stat. 2358, provided that:
 
 > **“(B)** recommended actions that are not currently funded but are considered essential to meet goals and objectives in managing the resources of the Great Lakes Basin.”
 
-## § 941a. Purpose
+## § 941a. Purpose
 
 The purposes of this chapter are—
 
@@ -99,27 +99,27 @@ The purposes of this chapter are—
 
 **(2)** to provide assistance to the Great Lakes Fisheries Commission, States, Indian Tribes, and other interested entities to encourage cooperative conservation, restoration and management of the fish and wildlife resources and their habitat in the Great Lakes Basin.
 
-(Pub. L. 101–537, title I, § 1003, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, § 2003, Nov. 29, 1990, 104 Stat. 4774; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§ 3(b), 4, Oct. 19, 1998, 112 Stat. 2358.)
+(Pub. L. 101–537, title I, § 1003, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, § 2003, Nov. 29, 1990, 104 Stat. 4774; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§ 3(b), 4, Oct. 19, 1998, 112 Stat. 2358.)
 
 **Editorial Notes**
 
 **Codification**
 
-Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
+Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
 
 **Amendments**
 
-1998—Pub. L. 105–265, § 4(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter.
+1998—Pub. L. 105–265, § 4(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter.
 
-Par. (1). Pub. L. 105–265, § 4(4), added par. (1) and struck out former par. (1) which read as follows: “to develop proposals to implement recommendations resulting from that study; and”.
+Par. (1). Pub. L. 105–265, § 4(4), added par. (1) and struck out former par. (1) which read as follows: “to develop proposals to implement recommendations resulting from that study; and”.
 
-Pub. L. 105–265, § 4(2), (3), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “to carry out a comprehensive study of the status, and the assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin;”.
+Pub. L. 105–265, § 4(2), (3), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “to carry out a comprehensive study of the status, and the assessment, management, and restoration needs, of the fishery resources of the Great Lakes Basin;”.
 
-Pars. (2), (3). Pub. L. 105–265, § 4(3), (5), redesignated par. (3) as (2) and substituted “habitat in” for “habitat of”. Former par. (2) redesignated (1).
+Pars. (2), (3). Pub. L. 105–265, § 4(3), (5), redesignated par. (3) as (2) and substituted “habitat in” for “habitat of”. Former par. (2) redesignated (1).
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2003, which enacted this section.
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2003, which enacted this section.
 
-## § 941b. Definitions
+## § 941b. Definitions
 
 In this chapter—
 
@@ -147,47 +147,47 @@ In this chapter—
 
 **(12)** the term “upper Great Lakes” means that portion of the Great Lakes Basin which is upstream from the confluence of the Saint Clair River and Lake Huron near Port Huron, Michigan.
 
-(Pub. L. 101–537, title I, § 1004, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, § 2004, Nov. 29, 1990, 104 Stat. 4774; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§ 3(b), 5, Oct. 19, 1998, 112 Stat. 2358, 2359; Pub. L. 109–326, § 3, Oct. 11, 2006, 120 Stat. 1761.)
+(Pub. L. 101–537, title I, § 1004, Nov. 8, 1990, 104 Stat. 2371; Pub. L. 101–646, title II, § 2004, Nov. 29, 1990, 104 Stat. 4774; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§ 3(b), 5, Oct. 19, 1998, 112 Stat. 2358, 2359; Pub. L. 109–326, § 3, Oct. 11, 2006, 120 Stat. 1761.)
 
 **Editorial Notes**
 
 **Codification**
 
-Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
+Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
 
 **Amendments**
 
-2006—Pars. (1) to (3). Pub. L. 109–326, § 3(1), (2), redesignated pars. (2), (3), and (5) as (1) to (3), respectively, and struck out former par. (1) which defined the term “Administrator”.
+2006—Pars. (1) to (3). Pub. L. 109–326, § 3(1), (2), redesignated pars. (2), (3), and (5) as (1) to (3), respectively, and struck out former par. (1) which defined the term “Administrator”.
 
-Par. (4). Pub. L. 109–326, § 3(3), inserted before semicolon at end “, and that has Great Lakes fish and wildlife management authority in the Great Lakes Basin”.
+Par. (4). Pub. L. 109–326, § 3(3), inserted before semicolon at end “, and that has Great Lakes fish and wildlife management authority in the Great Lakes Basin”.
 
-Pub. L. 109–326, § 3(1), (2), redesignated par. (6) as (4) and struck out former par. (4) which defined the term “fish stock”.
+Pub. L. 109–326, § 3(1), (2), redesignated par. (6) as (4) and struck out former par. (4) which defined the term “fish stock”.
 
-Pars. (5) to (7). Pub. L. 109–326, § 3(2), redesignated pars. (7) to (9) as (5) to (7), respectively.
+Pars. (5) to (7). Pub. L. 109–326, § 3(2), redesignated pars. (7) to (9) as (5) to (7), respectively.
 
-Par. (8). Pub. L. 109–326, § 3(2), (4), added par. (8) and redesignated former par. (8) as (6).
+Par. (8). Pub. L. 109–326, § 3(2), (4), added par. (8) and redesignated former par. (8) as (6).
 
-Pars. (9) to (14). Pub. L. 109–326, § 3(1), (2), redesignated pars. (10), (11), (13), and (14) as (9) to (12), respectively, and struck out former par. (12) which defined the term “Secretary”.
+Pars. (9) to (14). Pub. L. 109–326, § 3(1), (2), redesignated pars. (10), (11), (13), and (14) as (9) to (12), respectively, and struck out former par. (12) which defined the term “Secretary”.
 
-1998—Pub. L. 105–265, § 5(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter.
+1998—Pub. L. 105–265, § 5(1), made technical amendment to reference in original act which appears in introductory provisions as reference to this chapter.
 
-Pars. (2) to (7). Pub. L. 105–265, § 5(2), (5), added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively. Former par. (7) redesignated (14).
+Pars. (2) to (7). Pub. L. 105–265, § 5(2), (5), added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively. Former par. (7) redesignated (14).
 
-Par. (8). Pub. L. 105–265, § 5(6), added par. (8). Former par. (8) redesignated (9).
+Par. (8). Pub. L. 105–265, § 5(6), added par. (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 105–265, § 5(2), (4), redesignated par. (8) as (9) and substituted “plant, animal, or other organism” for “plant or animal”. Former par. (9) redesignated (12).
+Par. (9). Pub. L. 105–265, § 5(2), (4), redesignated par. (8) as (9) and substituted “plant, animal, or other organism” for “plant or animal”. Former par. (9) redesignated (12).
 
-Pars. (10), (11). Pub. L. 105–265, § 5(7), added pars. (10) and (11). Former par. (10) redesignated (13).
+Pars. (10), (11). Pub. L. 105–265, § 5(7), added pars. (10) and (11). Former par. (10) redesignated (13).
 
-Par. (12). Pub. L. 105–265, § 5(2), (8), redesignated par. (9) as (12) and struck out “and” at end.
+Par. (12). Pub. L. 105–265, § 5(2), (8), redesignated par. (9) as (12) and struck out “and” at end.
 
-Par. (13). Pub. L. 105–265, § 5(2), (9), redesignated par. (10) as (13) and substituted “; and” for period at end.
+Par. (13). Pub. L. 105–265, § 5(2), (9), redesignated par. (10) as (13) and substituted “; and” for period at end.
 
-Par. (14). Pub. L. 105–265, § 5(2), (3), redesignated par. (7) as (14).
+Par. (14). Pub. L. 105–265, § 5(2), (3), redesignated par. (7) as (14).
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2004, which enacted this section.
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2004, which enacted this section.
 
-## § 941c. Identification, review, and implementation of proposals and regional projects
+## § 941c. Identification, review, and implementation of proposals and regional projects
 
 **(a) In general** Subject to subsection (b)(2), the Director—
 
@@ -347,41 +347,41 @@ The Director may not consider the expenditure, directly or indirectly, of Federa
 
 Nothing in this subsection affects an Indian tribe affected by an alternative applicable cost sharing requirement under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 101–537, title I, § 1005, Nov. 8, 1990, 104 Stat. 2372; Pub. L. 101–646, title II, § 2005, Nov. 29, 1990, 104 Stat. 4775; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§ 3(b), 6, Oct. 19, 1998, 112 Stat. 2358, 2359; Pub. L. 109–326, § 4, Oct. 11, 2006, 120 Stat. 1762; Pub. L. 114–322, title III, § 3901(c), Dec. 16, 2016, 130 Stat. 1848.)
+(Pub. L. 101–537, title I, § 1005, Nov. 8, 1990, 104 Stat. 2372; Pub. L. 101–646, title II, § 2005, Nov. 29, 1990, 104 Stat. 4775; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§ 3(b), 6, Oct. 19, 1998, 112 Stat. 2358, 2359; Pub. L. 109–326, § 4, Oct. 11, 2006, 120 Stat. 1762; Pub. L. 114–322, title III, § 3901(c), Dec. 16, 2016, 130 Stat. 1848.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (b)(2)(B)(iv), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§ 4701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
+The Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, referred to in subsec. (b)(2)(B)(iv), is title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, which is classified principally to chapter 67 (§ 4701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 Executive Order 13340, referred to in subsec. (b)(2)(B)(vi), is Ex. Ord. No. 13340, May 18, 2004, 69 F.R. 29043, which is set out as a note under section 1268 of Title 33, Navigation and Navigable Waters.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(5), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(5), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 **Codification**
 
-Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
+Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
 
 **Amendments**
 
-2016—Subsec. (b)(2)(B)(vii), (viii). Pub. L. 114–322, § 3901(c)(1), added cls. (vii) and (viii).
+2016—Subsec. (b)(2)(B)(vii), (viii). Pub. L. 114–322, § 3901(c)(1), added cls. (vii) and (viii).
 
-Subsec. (c)(2)(C). Pub. L. 114–322, § 3901(c)(2), struck out “Great Lakes Coordinator of the” before “United States Fish and Wildlife Service”.
+Subsec. (c)(2)(C). Pub. L. 114–322, § 3901(c)(2), struck out “Great Lakes Coordinator of the” before “United States Fish and Wildlife Service”.
 
-Subsec. (e)(1). Pub. L. 114–322, § 3901(c)(3)(A), designated exisiting provisions as subpar. (A) and inserted heading, substituted “Except as provided in paragraphs (3) and (5) and subject to paragraph (2), not less than 25 percent of the cost of implementing a proposal or regional project” for “Except as provided in paragraphs (2) and (4), not less than 25 percent of the cost of implementing a proposal”, and added subpar. (B).
+Subsec. (e)(1). Pub. L. 114–322, § 3901(c)(3)(A), designated exisiting provisions as subpar. (A) and inserted heading, substituted “Except as provided in paragraphs (3) and (5) and subject to paragraph (2), not less than 25 percent of the cost of implementing a proposal or regional project” for “Except as provided in paragraphs (2) and (4), not less than 25 percent of the cost of implementing a proposal”, and added subpar. (B).
 
-Subsec. (e)(2) to (5). Pub. L. 114–322, § 3901(c)(3)(B), (C), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+Subsec. (e)(2) to (5). Pub. L. 114–322, § 3901(c)(3)(B), (C), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
 2006—Pub. L. 109–326 amended section generally. Prior to amendment, section related to identification, review, and implementation of proposals.
 
 1998—Pub. L. 105–265 amended section generally, substituting present provisions for provisions requiring a Great Lakes fishery resources restoration study and development of proposals for implementing recommendations.
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2005, which enacted this section.
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2005, which enacted this section.
 
-## § 941d. Goals of United States Fish and Wildlife Service programs related to Great Lakes fish and wildlife resources
+## § 941d. Goals of United States Fish and Wildlife Service programs related to Great Lakes fish and wildlife resources
 
 In administering programs of the United States Fish and Wildlife Service related to the Great Lakes Basin, the Director shall seek to achieve the following goals:
 
@@ -397,7 +397,7 @@ In administering programs of the United States Fish and Wildlife Service related
 
 **(6)** Protecting, managing, and conserving migratory birds.
 
-(Pub. L. 101–537, title I, § 1006, Nov. 8, 1990, 104 Stat. 2373; Pub. L. 101–646, title II, § 2006, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358; Pub. L. 109–326, § 5, Oct. 11, 2006, 120 Stat. 1764.)
+(Pub. L. 101–537, title I, § 1006, Nov. 8, 1990, 104 Stat. 2373; Pub. L. 101–646, title II, § 2006, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358; Pub. L. 109–326, § 5, Oct. 11, 2006, 120 Stat. 1764.)
 
 **Editorial Notes**
 
@@ -409,9 +409,9 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted identical
 
 2006—Par. (1). Pub. L. 109–326 added par. (1) and struck out former par. (1) which read as follows: “Restoring and maintaining self-sustaining fishery resource populations.”
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2006, which enacted this section.
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2006, which enacted this section.
 
-## § 941e. Establishment of offices
+## § 941e. Establishment of offices
 
 **(a) Lower Great Lakes Fish and Wildlife Conservation Office**
 
@@ -441,7 +441,7 @@ Each of the offices shall be known as an “Upper Great Lakes Fish and Wildlife 
 
 The responsibilities of the Upper Great Lakes Fish and Wildlife Conservation Offices shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Upper Great Lakes.
 
-(Pub. L. 101–537, title I, § 1007, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, § 2007, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358; Pub. L. 109–326, § 6, Oct. 11, 2006, 120 Stat. 1764; Pub. L. 114–322, title III, § 3901(d), Dec. 16, 2016, 130 Stat. 1850.)
+(Pub. L. 101–537, title I, § 1007, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, § 2007, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358; Pub. L. 109–326, § 6, Oct. 11, 2006, 120 Stat. 1764; Pub. L. 114–322, title III, § 3901(d), Dec. 16, 2016, 130 Stat. 1850.)
 
 **Editorial Notes**
 
@@ -451,25 +451,25 @@ Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substanti
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–322, § 3901(d)(3), (4), redesignated subsec. (b) as (a) and struck out former subsec. (a) which related to establishment of the Great Lakes Coordination Office.
+2016—Subsec. (a). Pub. L. 114–322, § 3901(d)(3), (4), redesignated subsec. (b) as (a) and struck out former subsec. (a) which related to establishment of the Great Lakes Coordination Office.
 
-Subsec. (b). Pub. L. 114–322, § 3901(d)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 114–322, § 3901(d)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-Pub. L. 114–322, § 3901(d)(1), substituted “Fish and Wildlife Conservation” for “Fishery Resources” in heading and in pars. (2) and (3).
+Pub. L. 114–322, § 3901(d)(1), substituted “Fish and Wildlife Conservation” for “Fishery Resources” in heading and in pars. (2) and (3).
 
-Subsec. (c). Pub. L. 114–322, § 3901(d)(4), redesignated subsec. (c) as (b).
+Subsec. (c). Pub. L. 114–322, § 3901(d)(4), redesignated subsec. (c) as (b).
 
-Pub. L. 114–322, § 3901(d)(2), substituted “Fish and Wildlife Conservation” for “Fishery Resources” in heading and in pars. (2) and (3).
+Pub. L. 114–322, § 3901(d)(2), substituted “Fish and Wildlife Conservation” for “Fishery Resources” in heading and in pars. (2) and (3).
 
-2006—Subsec. (a). Pub. L. 109–326, § 6(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the ‘Great Lakes Coordination Office’. The functional responsibilities of the Great Lakes Coordination Office shall include intra- and interagency coordination, information distribution, and public awareness outreach. The Great Lakes Coordination Office shall include all administrative and technical support necessary to carry out its responsibilities.”
+2006—Subsec. (a). Pub. L. 109–326, § 6(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: “The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the ‘Great Lakes Coordination Office’. The functional responsibilities of the Great Lakes Coordination Office shall include intra- and interagency coordination, information distribution, and public awareness outreach. The Great Lakes Coordination Office shall include all administrative and technical support necessary to carry out its responsibilities.”
 
-Subsec. (b). Pub. L. 109–326, § 6(2), designated first and second sentences of subsec. (b) as pars. (1) and (2), respectively, inserted headings, and added par. (3).
+Subsec. (b). Pub. L. 109–326, § 6(2), designated first and second sentences of subsec. (b) as pars. (1) and (2), respectively, inserted headings, and added par. (3).
 
-Subsec. (c). Pub. L. 109–326, § 6(3), designated first and second sentences of subsec. (c) as pars. (1) and (2), respectively, inserted headings, and added par. (3).
+Subsec. (c). Pub. L. 109–326, § 6(3), designated first and second sentences of subsec. (c) as pars. (1) and (2), respectively, inserted headings, and added par. (3).
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2007, which enacted this section.
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2007, which enacted this section.
 
-## § 941f. Reports
+## § 941f. Reports
 
 **(a) In general** Not later than December 31, 2021, and not later than December 31, 2027, the Director shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes, with respect to the period covered by the report—
 
@@ -497,7 +497,7 @@ Subsec. (c). Pub. L. 109–326, § 6(3), designated first and second sentences
 
 **(2)** may reassess and update, as necessary, the findings and recommendations of the Report.
 
-(Pub. L. 101–537, title I, § 1008, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, § 2008, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§ 3(b), 7, Oct. 19, 1998, 112 Stat. 2358, 2361; Pub. L. 109–326, § 7, Oct. 11, 2006, 120 Stat. 1765; Pub. L. 114–322, title III, § 3901(e), Dec. 16, 2016, 130 Stat. 1850; Pub. L. 117–287, § 2(a), Dec. 27, 2022, 136 Stat. 4363.)
+(Pub. L. 101–537, title I, § 1008, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, § 2008, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§ 3(b), 7, Oct. 19, 1998, 112 Stat. 2358, 2361; Pub. L. 109–326, § 7, Oct. 11, 2006, 120 Stat. 1765; Pub. L. 114–322, title III, § 3901(e), Dec. 16, 2016, 130 Stat. 1850; Pub. L. 117–287, § 2(a), Dec. 27, 2022, 136 Stat. 4363.)
 
 **Editorial Notes**
 
@@ -507,21 +507,21 @@ Executive Order 13340, referred to in subsec. (b)(5), is Ex. Ord. No. 13340, May
 
 **Codification**
 
-Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
+Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–287, § 2(a)(1), in introductory provisions, inserted “and not later than December 31, 2027,” after “2021,” and “, with respect to the period covered by the report” after “describes” and substituted “Committee on Natural Resources” for “Committee on Resources”.
+2022—Subsec. (a). Pub. L. 117–287, § 2(a)(1), in introductory provisions, inserted “and not later than December 31, 2027,” after “2021,” and “, with respect to the period covered by the report” after “describes” and substituted “Committee on Natural Resources” for “Committee on Resources”.
 
-Subsec. (b). Pub. L. 117–287, § 2(a)(2), substituted “2023 through 2028” for “2016 through 2020” in introductory provisions.
+Subsec. (b). Pub. L. 117–287, § 2(a)(2), substituted “2023 through 2028” for “2016 through 2020” in introductory provisions.
 
-2016—Subsec. (a). Pub. L. 114–322, § 3901(e)(1), substituted “2021” for “2011” in introductory provisions.
+2016—Subsec. (a). Pub. L. 114–322, § 3901(e)(1), substituted “2021” for “2011” in introductory provisions.
 
-Subsec. (b). Pub. L. 114–322, § 3901(e)(2)(A), substituted “2016 through 2020” for “2007 through 2012” in introductory provisions.
+Subsec. (b). Pub. L. 114–322, § 3901(e)(2)(A), substituted “2016 through 2020” for “2007 through 2012” in introductory provisions.
 
-Subsec. (b)(5). Pub. L. 114–322, § 3901(e)(2)(B), inserted “the Great Lakes Restoration Initiative Action Plan based on” after “in support of”.
+Subsec. (b)(5). Pub. L. 114–322, § 3901(e)(2)(B), inserted “the Great Lakes Restoration Initiative Action Plan based on” after “in support of”.
 
-Subsec. (c). Pub. L. 114–322, § 3901(e)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Not later than June 30, 2007, the Director shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives the 2002 report required under this section as in effect on the day before October 11, 2006.”
+Subsec. (c). Pub. L. 114–322, § 3901(e)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Not later than June 30, 2007, the Director shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives the 2002 report required under this section as in effect on the day before October 11, 2006.”
 
 2006—Pub. L. 109–326 amended section catchline and text generally. Prior to amendment, text read as follows: “On December 31, 2002, the Director shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes—
 
@@ -533,15 +533,15 @@ Subsec. (c). Pub. L. 114–322, § 3901(e)(3), added subsec. (c) and struck ou
 
 1998—Pub. L. 105–265 amended section generally, substituting present provisions for provisions which had required report not later than 1 year after date of enactment and annually thereafter.
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2008, which enacted this section.
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2008, which enacted this section.
 
-## § 941g. Authorization of appropriations
+## § 941g. Authorization of appropriations
 
 **(a) Authorization** There are authorized to be appropriated to the Director for each of fiscal years 2023 through 2028—
 
 **(1)** $6,000,000 to implement fish and wildlife restoration proposals as selected by the Director under section 941c(e) of this title, of which—
 
-**(A)** not more than the lesser of 33 1/3 percent or $2,000,000 may be allocated to implement regional projects by the United States Fish and Wildlife Service, as selected by the Director under section 941c(e) of this title; and
+**(A)** not more than the lesser of 33 1/3 percent or $2,000,000 may be allocated to implement regional projects by the United States Fish and Wildlife Service, as selected by the Director under section 941c(e) of this title; and
 
 **(B)** the lesser of 3 percent or $300,000 shall be allocated to the United States Fish and Wildlife Service to cover costs incurred in administering the proposals by any entity; and
 
@@ -551,39 +551,39 @@ Subsec. (c). Pub. L. 114–322, § 3901(e)(3), added subsec. (c) and struck ou
 
 No funds appropriated or used to carry out this chapter may be used for acquisition by the Federal Government of any interest in land.
 
-(Pub. L. 101–537, title I, § 1009, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, § 2009, Nov. 29, 1990, 104 Stat. 4778; Pub. L. 104–332, § 2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§ 3(b), 8, Oct. 19, 1998, 112 Stat. 2358, 2361; Pub. L. 109–326, § 9, Oct. 11, 2006, 120 Stat. 1766; Pub. L. 114–322, title III, § 3901(f), (g), Dec. 16, 2016, 130 Stat. 1850, 1851; Pub. L. 117–287, § 2(b), (c), Dec. 27, 2022, 136 Stat. 4363, 4364.)
+(Pub. L. 101–537, title I, § 1009, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, § 2009, Nov. 29, 1990, 104 Stat. 4778; Pub. L. 104–332, § 2(h)(1), (2), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §§ 3(b), 8, Oct. 19, 1998, 112 Stat. 2358, 2361; Pub. L. 109–326, § 9, Oct. 11, 2006, 120 Stat. 1766; Pub. L. 114–322, title III, § 3901(f), (g), Dec. 16, 2016, 130 Stat. 1850, 1851; Pub. L. 117–287, § 2(b), (c), Dec. 27, 2022, 136 Stat. 4363, 4364.)
 
 **Editorial Notes**
 
 **Codification**
 
-Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical provisions of subsec. (a), but Pub. L. 101–537 did not enact a subsec. (b). Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
+Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical provisions of subsec. (a), but Pub. L. 101–537 did not enact a subsec. (b). Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–287, § 2(b), substituted “2023 through 2028” for “2016 through 2021” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–287, § 2(b), substituted “2023 through 2028” for “2016 through 2021” in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 117–287, § 2(c), substituted “3 percent” for “5 percent”.
+Subsec. (a)(1)(B). Pub. L. 117–287, § 2(c), substituted “3 percent” for “5 percent”.
 
-2016—Pub. L. 114–322, § 3901(g), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2016—Pub. L. 114–322, § 3901(g), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 114–322, § 3901(f)(1) substituted “2016 through 2021” for “2007 through 2012” in introductory provisions.
+Pub. L. 114–322, § 3901(f)(1) substituted “2016 through 2021” for “2007 through 2012” in introductory provisions.
 
-Par. (1). Pub. L. 114–322, § 3901(f)(2)(A), substituted “$6,000,000” for “$14,000,000” in introductory provisions.
+Par. (1). Pub. L. 114–322, § 3901(f)(2)(A), substituted “$6,000,000” for “$14,000,000” in introductory provisions.
 
-Par. (1)(A). Pub. L. 114–322, § 3901(f)(2)(B), substituted “$2,000,000” for “$4,600,000”.
+Par. (1)(A). Pub. L. 114–322, § 3901(f)(2)(B), substituted “$2,000,000” for “$4,600,000”.
 
-Par. (1)(B). Pub. L. 114–322, § 3901(f)(2)(C), substituted “$300,000” for “$700,000”.
+Par. (1)(B). Pub. L. 114–322, § 3901(f)(2)(C), substituted “$300,000” for “$700,000”.
 
-Par. (2). Pub. L. 114–322, § 3901(f)(3), substituted “the activities of the Upper Great Lakes Fish and Wildlife Conservation Offices and the Lower Great Lakes Fish and Wildlife Conservation Office under section 941e of this title” for “the activities of the Great Lakes Coordination Office in East Lansing, Michigan, of the Upper Great Lakes Fishery Resources Office, and the Lower Great Lakes Fishery Resources Office under section 941e of this title”.
+Par. (2). Pub. L. 114–322, § 3901(f)(3), substituted “the activities of the Upper Great Lakes Fish and Wildlife Conservation Offices and the Lower Great Lakes Fish and Wildlife Conservation Office under section 941e of this title” for “the activities of the Great Lakes Coordination Office in East Lansing, Michigan, of the Upper Great Lakes Fishery Resources Office, and the Lower Great Lakes Fishery Resources Office under section 941e of this title”.
 
 2006—Pub. L. 109–326 amended section generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2012 for provisions authorizing appropriations for fiscal years 1999 to 2004.
 
 1998—Pub. L. 105–265 amended section generally, substituting provisions authorizing appropriations for fiscal years 1999 to 2004 for provisions authorizing appropriations for fiscal years 1991 to 1994 to conduct a study under section 941c of this title and for fiscal years 1991 to 1995 to establish and operate Great Lakes Coordination and Upper and Lower Great Lakes Fishery Resources Offices.
 
-1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2009, which enacted this section.
+1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2009, which enacted this section.
 
-## § 941h. Great Lakes monitoring, assessment, science, and research
+## § 941h. Great Lakes monitoring, assessment, science, and research
 
 **(a) Definitions** In this section:
 
@@ -647,7 +647,7 @@ Nothing in this section is intended or shall be construed to impede, supersede, 
 
 For each of fiscal years 2021 through 2030, there is authorized to be appropriated $15,000,000 to carry out this section.
 
-(Pub. L. 116–94, div. P, title II, § 201, Dec. 20, 2019, 133 Stat. 3184; Pub. L. 119–67, § 2, Dec. 26, 2025, 139 Stat. 1993.)
+(Pub. L. 116–94, div. P, title II, § 201, Dec. 20, 2019, 133 Stat. 3184; Pub. L. 119–67, § 2, Dec. 26, 2025, 139 Stat. 1993.)
 
 **Editorial Notes**
 
@@ -655,7 +655,7 @@ For each of fiscal years 2021 through 2030, there is authorized to be appropriat
 
 Reorganization Plan No. 4, referred to in subsec. (b)(4), (5), probably means Reorganization Plan No. 4 of 1970, which is set out as a note under section 1511 of title 15, Commerce and Trade, and in the Appendix to Title 5, Government Organization and Employees.
 
-The Great Lakes Fishery Act of 1956, referred to in subsec. (c)(4), is act June 4, 1956, ch. 358, 70 Stat. 242, which is classified generally to chapter 15A (§ 931 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 931 of this title and Tables.
+The Great Lakes Fishery Act of 1956, referred to in subsec. (c)(4), is act June 4, 1956, ch. 358, 70 Stat. 242, which is classified generally to chapter 15A (§ 931 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 931 of this title and Tables.
 
 **Codification**
 

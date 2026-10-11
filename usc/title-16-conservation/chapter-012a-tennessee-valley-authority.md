@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 12A—TENNESSEE VALLEY AUTHORITY
 
-## § 831. Creation; short title
+## § 831. Creation; short title
 
 For the purpose of maintaining and operating the properties now owned by the United States in the vicinity of Muscle Shoals, Alabama, in the interest of the National defense and for agricultural and industrial development, and to improve navigation in the Tennessee River and to control the destructive flood waters in the Tennessee River and Mississippi River Basins, there is created a body corporate by the name of the “Tennessee Valley Authority” (hereinafter referred to as the “Corporation”). The Board of Directors first appointed shall be deemed the incorporators, and the incorporation shall be held to have been effected from the date of the first meeting of the Board. This chapter may be cited as the “Tennessee Valley Authority Act of 1933.”
 
-(May 18, 1933, ch. 32, § 1, 48 Stat. 58; Pub. L. 108–447, div. C, title VI, § 603(a), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 1, 48 Stat. 58; Pub. L. 108–447, div. C, title VI, § 603(a), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -33,7 +33,7 @@ For the purpose of maintaining and operating the properties now owned by the Uni
 
 Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
-## § 831a. Membership, operation, and duties of the Board of Directors
+## § 831a. Membership, operation, and duties of the Board of Directors
 
 **(a) Membership**
 
@@ -201,13 +201,13 @@ The chief executive officer shall determine the salary and benefits of employees
 
 On the recommendation of the chief executive officer, the Board shall approve the salaries of employees whose annual salaries would be in excess of the annual rate payable for positions at level IV of the Executive Schedule under section 5315 of title 5.
 
-(May 18, 1933, ch. 32, § 2, as added Pub. L. 108–447, div. C, title VI, § 601, Dec. 8, 2004, 118 Stat. 2963; amended Pub. L. 110–161, div. C, title IV, § 401, Dec. 26, 2007, 121 Stat. 1971.)
+(May 18, 1933, ch. 32, § 2, as added Pub. L. 108–447, div. C, title VI, § 601, Dec. 8, 2004, 118 Stat. 2963; amended Pub. L. 110–161, div. C, title IV, § 401, Dec. 26, 2007, 121 Stat. 1971.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section, act May 18, 1933, ch. 32, § 2, 48 Stat. 59, related to the Directors of the Authority, prior to repeal by Pub. L. 108–447, div. C, title VI, § 601, Dec. 8, 2004, 118 Stat. 2963.
+A prior section, act May 18, 1933, ch. 32, § 2, 48 Stat. 59, related to the Directors of the Authority, prior to repeal by Pub. L. 108–447, div. C, title VI, § 601, Dec. 8, 2004, 118 Stat. 2963.
 
 **Amendments**
 
@@ -217,7 +217,7 @@ A prior section, act May 18, 1933, ch. 32, § 2, 48 Stat. 59, related to the D
 
 **Appointments; Effective Date; Transition**
 
-Pub. L. 108–447, div. C, title VI, § 604, Dec. 8, 2004, 118 Stat. 2967, provided that:
+Pub. L. 108–447, div. C, title VI, § 604, Dec. 8, 2004, 118 Stat. 2967, provided that:
 
 > **“(a) Appointments.—**
 
@@ -253,7 +253,7 @@ Pub. L. 108–447, div. C, title VI, § 604, Dec. 8, 2004, 118 Stat. 2967, pro
 
 For assignment of certain emergency preparedness functions to Board of Directors of Tennessee Valley Authority, see Parts 1, 2, and 24 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
-## § 831b. Officers and employees; wages of laborers and mechanics; application of employees’ compensation provisions
+## § 831b. Officers and employees; wages of laborers and mechanics; application of employees’ compensation provisions
 
 **(a) Appointment by the chief executive officer**
 
@@ -269,13 +269,13 @@ Where such work as is described in the two preceding paragraphs is done directly
 
 Insofar as applicable, the benefits of subchapter I of chapter 81 of title 5 shall extend to persons given employment under the provisions of this chapter.
 
-(May 18, 1933, ch. 32, § 3, 48 Stat. 59; Pub. L. 92–310, title II, § 225(a), June 6, 1972, 86 Stat. 206; Pub. L. 108–447, div. C, title VI, § 602, Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 3, 48 Stat. 59; Pub. L. 92–310, title II, § 225(a), June 6, 1972, 86 Stat. 206; Pub. L. 108–447, div. C, title VI, § 602, Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
 **Codification**
 
-In the last par. of subsec. (b), “subchapter I of chapter 81 of title 5” substituted for “the Act entitled ‘An Act to provide compensation for employees of the United States suffering injuries while in the performance of their duties, and for other purposes,’ approved September 7, 1916, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In the last par. of subsec. (b), “subchapter I of chapter 81 of title 5” substituted for “the Act entitled ‘An Act to provide compensation for employees of the United States suffering injuries while in the performance of their duties, and for other purposes,’ approved September 7, 1916, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -303,15 +303,15 @@ Pub. L. 101–101, title IV, Sept. 29, 1989, 103 Stat. 665.
 
 Pub. L. 100–371, title IV, July 19, 1988, 102 Stat. 873.
 
-Pub. L. 100–202, § 101(d) [title IV], Dec. 22, 1987, 101 Stat. 1329–104, 1329–129.
+Pub. L. 100–202, § 101(d) [title IV], Dec. 22, 1987, 101 Stat. 1329–104, 1329–129.
 
-Pub. L. 99–500, § 101(e) [title IV], Oct. 18, 1986, 100 Stat. 1783–194, 1783–212, and Pub. L. 99–591, § 101(e) [title IV], Oct. 30, 1986, 100 Stat. 3341–194, 3341–212.
+Pub. L. 99–500, § 101(e) [title IV], Oct. 18, 1986, 100 Stat. 1783–194, 1783–212, and Pub. L. 99–591, § 101(e) [title IV], Oct. 30, 1986, 100 Stat. 3341–194, 3341–212.
 
 **Legal Representation**
 
-Customs Courts Act of 1980 as not affecting authority of Tennessee Valley Authority under this chapter to represent itself by attorneys of its choosing, see Pub. L. 96–417, title VII, § 705, Oct. 10, 1980, 94 Stat. 1748, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
+Customs Courts Act of 1980 as not affecting authority of Tennessee Valley Authority under this chapter to represent itself by attorneys of its choosing, see Pub. L. 96–417, title VII, § 705, Oct. 10, 1980, 94 Stat. 1748, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
-## § 831b–1. Acceptance of services of volunteers
+## § 831b–1. Acceptance of services of volunteers
 
 The Tennessee Valley Authority may on and after September 29, 1989, accept the services of volunteers and, from any funds available to it, provide for their incidental expenses to carry out any activity of the Tennessee Valley Authority except policymaking or law or regulatory enforcement. Such volunteers shall not be deemed employees of the United States Government, except for the purposes of chapter 81 of title 5 relating to compensation for work injuries, and shall not be deemed employees of the Tennessee Valley Authority except for the purposes of tort claims to the same extent as a regular employee of the Tennessee Valley Authority would be under identical circumstances.
 
@@ -323,7 +323,7 @@ The Tennessee Valley Authority may on and after September 29, 1989, accept the s
 
 Section was enacted as part of the Energy and Water Development Appropriations Act, 1990, and not as part of the Tennessee Valley Authority Act of 1933 which comprises this chapter.
 
-## § 831c. Corporate powers generally; eminent domain; construction of dams, transmission lines, etc.
+## § 831c. Corporate powers generally; eminent domain; construction of dams, transmission lines, etc.
 
 Except as otherwise specifically provided in this chapter, the Corporation—
 
@@ -369,13 +369,13 @@ to convey by warranty deed, or otherwise, lands, easements, and rights-of-way to
 
 **(l)** Shall have power to advise and cooperate in the readjustment of the population displaced by the construction of dams, the acquisition of reservoir areas, the protection of watersheds, the acquisition of rights-of-way, and other necessary acquisitions of land, in order to effectuate the purposes of the chapter; and may cooperate with Federal, State, and local agencies to that end.
 
-(May 18, 1933, ch. 32, § 4, 48 Stat. 60; Aug. 31, 1935, ch. 836, §§ 1–3, 13, 49 Stat. 1075, 1076, 1080; July 18, 1941, ch. 309, 55 Stat. 599; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 92–310, title II, § 225(b), June 6, 1972, 86 Stat. 206; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 4, 48 Stat. 60; Aug. 31, 1935, ch. 836, §§ 1–3, 13, 49 Stat. 1075, 1076, 1080; July 18, 1941, ch. 309, 55 Stat. 599; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 92–310, title II, § 225(b), June 6, 1972, 86 Stat. 206; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Sections 3114, 3115, and 3118 of title 40” substituted in subsec. (i) for “the Act of February 26, 1931 (46 Stat. 1422, ch. 307, secs. 1 to 5, inclusive), as now compiled in section 258a to 258e, inclusive, of Title 40 of the United States Code” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+“Sections 3114, 3115, and 3118 of title 40” substituted in subsec. (i) for “the Act of February 26, 1931 (46 Stat. 1422, ch. 307, secs. 1 to 5, inclusive), as now compiled in section 258a to 258e, inclusive, of Title 40 of the United States Code” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Subsec. (j), last sentence, directed the directors of the Authority to report their recommendations to Congress not later than April 1, 1936, and has been omitted as executed.
 
@@ -387,13 +387,13 @@ Subsec. (j), last sentence, directed the directors of the Authority to report th
 
 1941—Subsec. (k). Act July 18, 1941, amended subsec. (k) generally.
 
-1935—Subsec. (i). Act Aug. 31, 1935, § 1, inserted proviso.
+1935—Subsec. (i). Act Aug. 31, 1935, § 1, inserted proviso.
 
-Subsec. (j). Act Aug. 31, 1935, § 2, amended subsec. (j) generally.
+Subsec. (j). Act Aug. 31, 1935, § 2, amended subsec. (j) generally.
 
-Subsec. (k). Act Aug. 31, 1935, § 3, added subsec. (k).
+Subsec. (k). Act Aug. 31, 1935, § 3, added subsec. (k).
 
-Subsec. (*l*). Act Aug. 31, 1935, § 13, added subsec. (*l*).
+Subsec. (*l*). Act Aug. 31, 1935, § 13, added subsec. (*l*).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -407,7 +407,7 @@ Amendment by Pub. L. 108–447 effective on the later of the date on which at le
 
 **Release of Use Restrictions**
 
-Pub. L. 113–121, title VI, § 6005(h), June 10, 2014, 128 Stat. 1360, provided that: “Notwithstanding any other provision of law, the Tennessee Valley Authority shall, without monetary consideration, grant releases from real estate restrictions established pursuant to section 4(k)(b) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831c(k)(b)) with respect to tracts of land identified in section 4(k)(b) of that Act, subject to the condition that such releases shall be granted in a manner consistent with applicable Tennessee Valley Authority policies.”
+Pub. L. 113–121, title VI, § 6005(h), June 10, 2014, 128 Stat. 1360, provided that: “Notwithstanding any other provision of law, the Tennessee Valley Authority shall, without monetary consideration, grant releases from real estate restrictions established pursuant to section 4(k)(b) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831c(k)(b)) with respect to tracts of land identified in section 4(k)(b) of that Act, subject to the condition that such releases shall be granted in a manner consistent with applicable Tennessee Valley Authority policies.”
 
 **Executive Documents**
 
@@ -415,7 +415,7 @@ Pub. L. 113–121, title VI, § 6005(h), June 10, 2014, 128 Stat. 1360, provid
 
 Authority of President under subsec. (k) of this section to approve transfers under subsecs. (a) and (c) of this section, other than leases for terms of less than 20 years and conveyances of property having a value not in excess of $500, delegated to Administrator of General Services, see section 1(16) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
-## § 831c–1. Bridges endangered or damaged by dams, etc.; compensation of and contracts with owner for protection, replacement, etc.
+## § 831c–1. Bridges endangered or damaged by dams, etc.; compensation of and contracts with owner for protection, replacement, etc.
 
 **(a) Structures on Tennessee River or tributaries**
 
@@ -441,13 +441,13 @@ Section was not enacted as part of the Tennessee Valley Authority Act which comp
 
 1968—Pub. L. 90–524 permitted the Authority to use appropriated funds to cover the Federal share of the cost of necessary bridge alterations where the alterations are obtained by agreement with the bridge owner, made this section applicable to alterations required by new reservoir projects and by realignment or other changes of the navigation channel to accommodate the growth of traffic or changes in navigation requirements within existing reservoirs, and substituted the Secretary of Transportation for the Chief of Engineers and the Secretary of the Army as the approving official.
 
-## § 831c–2. Civil actions for injury or loss of property or personal injury or death
+## § 831c–2. Civil actions for injury or loss of property or personal injury or death
 
 **(a) Exclusiveness of remedy**
 
-**(1)** An action against the Tennessee Valley Authority for injury or loss of property, or personal injury or death arising or resulting from the negligent or wrongful act or omission of any employee of the Tennessee Valley Authority while acting within the scope of this office or employment is exlusive 1
+**(1)** An action against the Tennessee Valley Authority for injury or loss of property, or personal injury or death arising or resulting from the negligent or wrongful act or omission of any employee of the Tennessee Valley Authority while acting within the scope of this office or employment is exlusive 1
 
-<sup>1</sup>  So in original. Probably should be “exclusive”.
+<sup>1</sup> So in original. Probably should be “exclusive”.
 
 of any other civil action or proceeding by reason of the same subject matter against the employee or his estate whose act or omission gave rise to the claim. Any other civil action or proceeding arising out of or relating to the same subject matter against the employee or his estate is precluded without regard to when the act or omission occurred.
 
@@ -457,9 +457,9 @@ of any other civil action or proceeding by reason of the same subject matter aga
 
 **(1)** Upon certification by the Tennessee Valley Authority that the defendant employee was acting within the scope of his office or employment at the time of the incident out of which the claim arose, any civil action or proceeding heretofore or hereafter commenced upon such claim in a United States district court shall be deemed an action against the Tennessee Valley Authority pursuant to 16 U.S.C. 831c(b) and the Tennessee Valley Authority shall be substituted as the party defendant.
 
-**(2)** Upon certification by the Tennessee Valley Authority that the defendant employee was acting within the scope of his office or employment at the time of the incident out of which the claim arose, any civil action or proceeding commenced upon such claim in a State court shall be removed without bond at any time before trial by the Tennessee Valley Authority to the district court of the United States for the district and division embracing the place wherein it is pending. Such action shall be deemed an action brought against the Tennessee Valley Authority under the provisions of this title 2
+**(2)** Upon certification by the Tennessee Valley Authority that the defendant employee was acting within the scope of his office or employment at the time of the incident out of which the claim arose, any civil action or proceeding commenced upon such claim in a State court shall be removed without bond at any time before trial by the Tennessee Valley Authority to the district court of the United States for the district and division embracing the place wherein it is pending. Such action shall be deemed an action brought against the Tennessee Valley Authority under the provisions of this title 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 and all references thereto, and the Tennessee Valley Authority shall be substituted as the party defendant. This certification of the Tennessee Valley Authority shall conclusively establish scope of office or employment for purposes of removal.
 
@@ -467,7 +467,7 @@ and all references thereto, and the Tennessee Valley Authority shall be substitu
 
 **(4)** Upon certification, any actions subject to paragraph (1), (2), or (3) shall proceed in the same manner as any action against the Tennessee Valley Authority and shall be subject to the limitations and exceptions applicable to those actions.
 
-(Pub. L. 100–694, § 9(a), (b), Nov. 18, 1988, 102 Stat. 4566.)
+(Pub. L. 100–694, § 9(a), (b), Nov. 18, 1988, 102 Stat. 4566.)
 
 **Editorial Notes**
 
@@ -487,7 +487,7 @@ Section was enacted as part of the Federal Employees Liability Reform and Tort C
 
 Section effective Nov. 18, 1988, and applicable to all claims, civil actions, and proceedings pending on, or filed on or after Nov. 18, 1988, see section 8 of Pub. L. 100–694, set out as an Effective Date of 1988 Amendment note under section 2679 of Title 28, Judiciary and Judicial Procedure.
 
-## § 831c–3. Law enforcement
+## § 831c–3. Law enforcement
 
 **(a) Designation of law enforcement agents**
 
@@ -549,7 +549,7 @@ A law enforcement agent designated under subsection (a) shall not be considered 
 
 The duties and powers of law enforcement agents designated under subsection (a) that are described in subsection (b) shall be exercised in accordance with guidelines approved by the Attorney General.
 
-(May 18, 1933, ch. 32, § 4A, as added Pub. L. 103–322, title XXXII, § 320929, Sept. 13, 1994, 108 Stat. 2133; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 4A, as added Pub. L. 103–322, title XXXII, § 320929, Sept. 13, 1994, 108 Stat. 2133; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -563,13 +563,13 @@ The duties and powers of law enforcement agents designated under subsection (a) 
 
 Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
-## § 831d. Directors; maintenance and operation of plant for production, sale, and distribution of fertilizer and power
+## § 831d. Directors; maintenance and operation of plant for production, sale, and distribution of fertilizer and power
 
 The Board is authorized—
 
-**(a)** To contract with commercial producers for the production of such fertilizers or fertilizer materials as may be needed in the Government’s program of development and introduction in excess of that produced by Government plants. Such contracts may provide either for outright purchase of materials by the Board or only for the payment of carrying charges on special materials manufactured at the board’s 1
+**(a)** To contract with commercial producers for the production of such fertilizers or fertilizer materials as may be needed in the Government’s program of development and introduction in excess of that produced by Government plants. Such contracts may provide either for outright purchase of materials by the Board or only for the payment of carrying charges on special materials manufactured at the board’s 1
 
-<sup>1</sup>  So in original. Probably should be “Board’s”.
+<sup>1</sup> So in original. Probably should be “Board’s”.
 
 request for its program.
 
@@ -595,7 +595,7 @@ request for its program.
 
 **(l)** To produce, distribute, and sell electric power, as herein particularly specified.
 
-(May 18, 1933, ch. 32, § 5, 48 Stat. 61; Aug. 31, 1935, ch. 836, § 4, 49 Stat. 1076; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; July 3, 1952, ch. 570, § 2(a), 66 Stat. 334; Pub. L. 86–137, § 3, Aug. 6, 1959, 73 Stat. 285; Pub. L. 94–412, title V, § 501(d), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 5, 48 Stat. 61; Aug. 31, 1935, ch. 836, § 4, 49 Stat. 1076; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; July 3, 1952, ch. 570, § 2(a), 66 Stat. 334; Pub. L. 86–137, § 3, Aug. 6, 1959, 73 Stat. 285; Pub. L. 94–412, title V, § 501(d), Sept. 14, 1976, 90 Stat. 1258; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -627,7 +627,7 @@ Amendment by Pub. L. 108–447 effective on the later of the date on which at le
 
 **Effective Date of 1952 Amendment**
 
-Joint Res. July 3, 1952, ch. 570, § 7, 66 Stat. 334, provided that the amendment is effective June 16, 1952.
+Joint Res. July 3, 1952, ch. 570, § 7, 66 Stat. 334, provided that the amendment is effective June 16, 1952.
 
 **Repeal of Prior Acts Continuing Subsection (m)**
 
@@ -639,7 +639,7 @@ Repeal of subsec. (m) of this section by Pub. L. 94–412, not to affect any act
 
 **Termination of Foreign Sales**
 
-Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, provided for the extension of certain emergency provisions (previously extended to April 1, 1953, by Joint Res. July 3, 1952, ch. 570, § 2(a), 66 Stat. 334) until July 1, 1953. Section 2 of said Joint Res. Mar. 31, 1953, provided that such extension did not apply to the provisions of this section.
+Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, provided for the extension of certain emergency provisions (previously extended to April 1, 1953, by Joint Res. July 3, 1952, ch. 570, § 2(a), 66 Stat. 334) until July 1, 1953. Section 2 of said Joint Res. Mar. 31, 1953, provided that such extension did not apply to the provisions of this section.
 
 **Executive Documents**
 
@@ -647,11 +647,11 @@ Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, provided for the extensio
 
 For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force from Secretary of the Army, see Secretary of Defense Transfer Order No. 40 [App. A(40)], July 22, 1949.
 
-## § 831e. Officers and employees; nonpolitical appointment; removal for violation
+## § 831e. Officers and employees; nonpolitical appointment; removal for violation
 
 In the appointment of officials and the selection of employees for said Corporation, and in the promotion of any such employees or officials, no political test or qualification shall be permitted or given consideration, but all such appointments and promotions shall be given and made on the basis of merit and efficiency. Any member of said Board who is found by the President of the United States to be guilty of a violation of this section shall be removed from office by the President of the United States, and any appointee of said Board who is found by the Board to be guilty of a violation of this section shall be removed from office by said Board.
 
-(May 18, 1933, ch. 32, § 6, 48 Stat. 63; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 6, 48 Stat. 63; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -665,7 +665,7 @@ In the appointment of officials and the selection of employees for said Corporat
 
 Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
-## § 831f. Control of plants and property vested in Corporation; transfer of other property to Corporation
+## § 831f. Control of plants and property vested in Corporation; transfer of other property to Corporation
 
 In order to enable the Corporation to exercise the powers and duties vested in it by this chapter—
 
@@ -673,7 +673,7 @@ In order to enable the Corporation to exercise the powers and duties vested in i
 
 **(b)** The President of the United States is authorized to provide for the transfer to the Corporation of the use, possession, and control of such other real or personal property of the United States as he may from time to time deem necessary and proper for the purposes of the Corporation as herein stated.
 
-(May 18, 1933, ch. 32, § 7, 48 Stat. 63.)
+(May 18, 1933, ch. 32, § 7, 48 Stat. 63.)
 
 **Executive Documents**
 
@@ -681,7 +681,7 @@ In order to enable the Corporation to exercise the powers and duties vested in i
 
 Authority of President under subsection (b) of this section to provide for transfer to Tennessee Valley Authority of use, possession, and control of real or personal property of United States deemed by Administrator of General Services to be necessary and proper for purposes of that Authority as provided for in this section, delegated to Administrator of General Services, see section 1(17) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
-## § 831g. Principal office of Corporation; books; directors’ oath
+## § 831g. Principal office of Corporation; books; directors’ oath
 
 **(a) Location**
 
@@ -695,7 +695,7 @@ The Corporation shall at all times maintain complete and accurate books of accou
 
 Each member of the Board, before entering upon the duties of his office, shall subscribe to an oath (or affirmation) to support the Constitution of the United States and to faithfully and impartially perform the duties imposed upon him by this chapter.
 
-(May 18, 1933, ch. 32, § 8, 48 Stat. 63; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 8, 48 Stat. 63; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -709,7 +709,7 @@ Each member of the Board, before entering upon the duties of his office, shall s
 
 Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
-## § 831h. Annual financial statement; purchases and contracts; audit by Comptroller General
+## § 831h. Annual financial statement; purchases and contracts; audit by Comptroller General
 
 **(a) Financial statement and report**
 
@@ -727,23 +727,23 @@ The Comptroller General of the United States shall audit the transactions of the
 
 The Corporation shall determine its own system of administrative accounts and the forms and contents of its contracts and other business documents except as otherwise provided in this chapter.
 
-(May 18, 1933, ch. 32, § 9, 48 Stat. 63; Aug. 31, 1935, ch. 836, § 14, 49 Stat. 1080; Nov. 21, 1941, ch. 485, 55 Stat. 775; Aug. 30, 1954, ch. 1076, § 1 (32), 68 Stat. 968; Pub. L. 93–356, § 5, July 25, 1974, 88 Stat. 390; Pub. L. 94–273, § 5(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–191, § 9(d), Dec. 1, 1983, 97 Stat. 1332; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. C, title VI, § 603(a)(2), (b), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 9, 48 Stat. 63; Aug. 31, 1935, ch. 836, § 14, 49 Stat. 1080; Nov. 21, 1941, ch. 485, 55 Stat. 775; Aug. 30, 1954, ch. 1076, § 1 (32), 68 Stat. 968; Pub. L. 93–356, § 5, July 25, 1974, 88 Stat. 390; Pub. L. 94–273, § 5(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–191, § 9(d), Dec. 1, 1983, 97 Stat. 1332; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. C, title VI, § 603(a)(2), (b), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (c), “sections 3526(a) and 3702(a) of title 31” substituted for “section 236, Revised Statutes, as amended by section 305 of the Budget and Accounting Act, 1921 (42 Stat. 24 [31 U.S.C. 71])” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), “sections 3526(a) and 3702(a) of title 31” substituted for “section 236, Revised Statutes, as amended by section 305 of the Budget and Accounting Act, 1921 (42 Stat. 24 [31 U.S.C. 71])” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-2004—Subsec. (a). Pub. L. 108–447, § 603(a)(2), substituted “Board” for “board”.
+2004—Subsec. (a). Pub. L. 108–447, § 603(a)(2), substituted “Board” for “board”.
 
-Subsec. (b). Pub. L. 108–447, § 603(b), designated second and third pars. as subsecs. (c) and (d), respectively.
+Subsec. (b). Pub. L. 108–447, § 603(b), designated second and third pars. as subsecs. (c) and (d), respectively.
 
 Pub. L. 108–271, in second par., substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
 
-Subsecs. (c), (d). Pub. L. 108–447, § 603(b), designated second and third pars. of subsec. (b) as subsecs. (c) and (d), respectively, and inserted headings.
+Subsecs. (c), (d). Pub. L. 108–447, § 603(b), designated second and third pars. of subsec. (b) as subsecs. (c) and (d), respectively, and inserted headings.
 
 1983—Subsec. (b)(3). Pub. L. 98–191 substituted “$25,000” for “$10,000”.
 
@@ -765,23 +765,23 @@ Amendment by Pub. L. 108–447 effective on the later of the date on which at le
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (a) of this section are listed in item 3 on page 193), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under subsec. (a) of this section are listed in item 3 on page 193), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
 
 **Single Audit Requirements**
 
-Tennessee Valley Authority audits unaffected by single audit requirements of chapter 75 (§ 7501 et seq.) of Title 31, Money and Finance, see section 2(b) of Pub. L. 98–502, set out as a note under section 7501 of Title 31.
+Tennessee Valley Authority audits unaffected by single audit requirements of chapter 75 (§ 7501 et seq.) of Title 31, Money and Finance, see section 2(b) of Pub. L. 98–502, set out as a note under section 7501 of Title 31.
 
-## § 831h–1. Operation of dams primarily for promotion of navigation and controlling floods; generation and sale of electricity
+## § 831h–1. Operation of dams primarily for promotion of navigation and controlling floods; generation and sale of electricity
 
 The Board is directed in the operation of any dam or reservoir in its possession and control to regulate the stream flow primarily for the purposes of promoting navigation and controlling floods. So far as may be consistent with such purposes, the Board is authorized to provide and operate facilities for the generation of electric energy at any such dam for the use of the Corporation and for the use of the United States or any agency thereof, and the Board is further authorized, whenever an opportunity is afforded, to provide and operate facilities for the generation of electric energy in order to avoid the waste of water power, to transmit and market such power as in this chapter provided, and thereby, so far as may be practicable, to assist in liquidating the cost or aid in the maintenance of the projects of the Authority.
 
-(May 18, 1933, ch. 32, § 9a, as added Aug. 31, 1935, ch. 836, § 5, 49 Stat. 1076.)
+(May 18, 1933, ch. 32, § 9a, as added Aug. 31, 1935, ch. 836, § 5, 49 Stat. 1076.)
 
-## § 831h–2. Repealed. Pub. L. 86–137, § 1, Aug. 6, 1959, 73 Stat. 280
+## § 831h–2. Repealed. Pub. L. 86–137, § 1, Aug. 6, 1959, 73 Stat. 280
 
-Section, act July 30, 1947, ch. 358, title II, § 201, 61 Stat. 574, placed a limitation on use of power revenues of the Tennessee Valley Authority. See section 831n–4 of this title.
+Section, act July 30, 1947, ch. 358, title II, § 201, 61 Stat. 574, placed a limitation on use of power revenues of the Tennessee Valley Authority. See section 831n–4 of this title.
 
-## § 831h–3. Recreational access
+## § 831h–3. Recreational access
 
 **(a) Definition of floating cabin** In this section, the term “floating cabin” means a watercraft or other floating structure—
 
@@ -827,13 +827,13 @@ The Board may levy fees on the owner of a floating cabin on waters under the jur
 
 The Corporation may establish regulations to prevent the construction of new floating cabins.
 
-(May 18, 1933, ch. 32, § 9b, as added Pub. L. 114–322, title IV, § 5003, Dec. 16, 2016, 130 Stat. 1886.)
+(May 18, 1933, ch. 32, § 9b, as added Pub. L. 114–322, title IV, § 5003, Dec. 16, 2016, 130 Stat. 1886.)
 
-## § 831i. Sale of surplus power; preferences; experimental work; acquisition of existing electric facilities
+## § 831i. Sale of surplus power; preferences; experimental work; acquisition of existing electric facilities
 
 The Board is empowered and authorized to sell the surplus power not used in its operations, and for operation of locks and other works generated by it, to States, counties, municipalities, corporations, partnerships, or individuals, according to the policies hereinafter set forth; and to carry out said authority, the Board is authorized to enter into contracts for such sale for a term not exceeding twenty years, and in the sale of such current by the Board it shall give preference to States, counties, municipalities, and cooperative organizations of citizens or farmers, not organized or doing business for profit, but primarily for the purpose of supplying electricity to its own citizens or members: *Provided*, That all contracts made with private companies or individuals for the sale of power, which power is to be resold for a profit, shall contain a provision authorizing the Board to cancel said contract upon five years’ notice in writing, if the Board needs said power to supply the demands of States, counties, or municipalities. In order to promote and encourage the fullest possible use of electric light and power on farms within reasonable distance of any of its transmission lines the Board in its discretion shall have power to construct transmission lines to farms and small villages that are not otherwise supplied with electricity at reasonable rates, and to make such rules and regulations governing such sale and distribution of such electric power as in its judgment may be just and equitable: *Provided further*, That the Board is authorized and directed to make studies, experiments, and determinations to promote the wider and better use of electric power for agricultural and domestic use, or for small or local industries, and it may cooperate with State governments, or their subdivisions or agencies, with educational or research institutions, and with cooperatives or other organizations, in the application of electric power to the fuller and better balanced development of the resources of the region: *Provided further*, That the Board is authorized to include in any contract for the sale of power such terms and conditions, including resale rate schedules, and to provide for such rules and regulations as in its judgment may be necessary or desirable for carrying out the purposes of this chapter, and in case the purchaser shall fail to comply with any such terms and conditions, or violate any such rules and regulations, said contract may provide that it shall be voidable at the election of the Board: *Provided further*, That in order to supply farms and small villages with electric power directly as contemplated by this section, the Board in its discretion shall have power to acquire existing electric facilities used in serving such farms and small villages: *And provided further*, That the terms “States”, “counties”, and “municipalities” as used in this chapter shall be construed to include the public agencies of any of them unless the context requires a different construction.
 
-(May 18, 1933, ch. 32, § 10, 48 Stat. 64; Aug. 31, 1935, ch. 836, § 6, 49 Stat. 1076.)
+(May 18, 1933, ch. 32, § 10, 48 Stat. 64; Aug. 31, 1935, ch. 836, § 6, 49 Stat. 1076.)
 
 **Editorial Notes**
 
@@ -841,17 +841,17 @@ The Board is empowered and authorized to sell the surplus power not used in its 
 
 1935—Act Aug. 31, 1935, inserted last three provisos.
 
-## § 831j. Equitable distribution of surplus power among States and municipalities; improvement in production of fertilizer
+## § 831j. Equitable distribution of surplus power among States and municipalities; improvement in production of fertilizer
 
 It is declared to be the policy of the Government so far as practical to distribute and sell the surplus power generated at Muscle Shoals equitably among the States, counties, and municipalities within transmission distance. This policy is further declared to be that the projects herein provided for shall be considered primarily as for the benefit of the people of the section as a whole and particularly the domestic and rural consumers to whom the power can economically be made available, and accordingly that sale to and use by industry shall be a secondary purpose, to be utilized principally to secure a sufficiently high load factor and revenue returns which will permit domestic and rural use at the lowest possible rates and in such manner as to encourage increased domestic and rural use of electricity. It is further declared to be the policy of the Government to utilize the Muscle Shoals properties so far as may be necessary to improve, increase, and cheapen the production of fertilizer and fertilizer ingredients by carrying out the provisions of this chapter.
 
-(May 18, 1933, ch. 32, § 11, 48 Stat. 64.)
+(May 18, 1933, ch. 32, § 11, 48 Stat. 64.)
 
-## § 831k. Transmission lines; construction or lease; sale of power over other than Government lines; rates when sold for resale at profit
+## § 831k. Transmission lines; construction or lease; sale of power over other than Government lines; rates when sold for resale at profit
 
 In order to place the Board upon a fair basis for making such contracts and for receiving bids for the sale of such power, it is expressly authorized, either from appropriations made by Congress or from funds secured from the sale of such power, or from funds, secured by the sale of bonds hereafter provided for, to construct, lease, purchase, or authorize the construction of transmission lines within transmission distance from the place where generated, and to interconnect with other systems. The Board is also authorized to lease to any person, persons, or corporation the use of any transmission line owned by the Government and operated by the Board, but no such lease shall be made that in any way interferes with the use of such transmission line by the Board: *Provided*, That if any State, county, municipality, or other public or cooperative organization of citizens or farmers, not organized or doing business for profit, but primarily for the purpose of supplying electricity to its own citizens or members, or any two or more of such municipalities or organizations, shall construct or agree to construct and maintain a properly designed and built transmission line to the Government reservation upon which is located a Government generating plant, or to a main transmission line owned by the Government or leased by the Board and under the control of the Board, the Board is authorized and directed to contract with such State, county, municipality, or other organization, or two or more of them, for the sale of electricity for a term not exceeding thirty years; and in any such case the Board shall give to such State, county, municipality, or other organization ample time to fully comply with any local law now in existence or hereafter enacted providing for the necessary legal authority for such State, county, municipality, or other organization to contract with the Board for such power: *Provided further*, That all contracts entered into between the Corporation and any municipality or other political subdivision or cooperative organization shall provide that the electric power shall be sold and distributed to the ultimate consumer without discrimination as between consumers of the same class, and such contract shall be voidable at the election of the Board if a discriminatory rate, rebate, or other special concession is made or given to any consumer or user by the municipality or other political subdivision or cooperative organization: *And provided further*, That as to any surplus power not so sold as above provided to States, counties, municipalities, or other said organizations, before the Board shall sell the same to any person or corporation engaged in the distribution and resale of electricity for profit, it shall require said person or corporation to agree that any resale of such electric power by said person or corporation shall be made to the ultimate consumer of such electric power at prices that shall not exceed a schedule fixed by the Board from time to time as reasonable, just, and fair; and in case of any such sale, if an amount is charged the ultimate consumer which is in excess of the price so deemed to be just, reasonable, and fair by the Board, the contract for such sale between the Board and such distributor of electricity shall be voidable at the election of the Board: *And provided further*, That the Board is authorized to enter into contracts with other power systems for the mutual exchange of unused excess power upon suitable terms, for the conservation of stored water, and as an emergency or break-down relief.
 
-(May 18, 1933, ch. 32, § 12, 48 Stat. 65; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 12, 48 Stat. 65; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -865,19 +865,19 @@ In order to place the Board upon a fair basis for making such contracts and for 
 
 Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
-## § 831k–1. Extension of credit to States, municipalities and nonprofit organizations to assist in operation of existing facilities
+## § 831k–1. Extension of credit to States, municipalities and nonprofit organizations to assist in operation of existing facilities
 
 In order (1) to facilitate the disposition of the surplus power of the Corporation according to the policies set forth in this chapter; (2) to give effect to the priority herein accorded to States, counties, municipalities, and nonprofit organizations in the purchase of such power by enabling them to acquire facilities for the distribution of such power; and (3) at the same time to preserve existing distribution facilities as going concerns and avoid duplication of such facilities, the Board is authorized to advise and cooperate with and assist, by extending credit for a period of not exceeding five years to, States, counties, municipalities and nonprofit organizations situated within transmission distance from any dam where such power is generated by the Corporation in acquiring, improving, and operating (a) existing distribution facilities and incidental works, including generating plants; and (b) interconnecting transmission lines; or in acquiring any interest in such facilities, incidental works, and lines.
 
-(May 18, 1933, ch. 32, § 12a, as added Aug. 31, 1935, ch. 836, § 7, 49 Stat. 1076.)
+(May 18, 1933, ch. 32, § 12a, as added Aug. 31, 1935, ch. 836, § 7, 49 Stat. 1076.)
 
-## § 831l. Financial assistance to States and local governments in lieu of taxation; apportionment; limitation on contracts for sale of power to municipalities; report to Congress
+## § 831l. Financial assistance to States and local governments in lieu of taxation; apportionment; limitation on contracts for sale of power to municipalities; report to Congress
 
 In order to render financial assistance to those States and local governments in which the power operations of the Corporation are carried on and in which the Corporation has acquired properties previously subject to State and local taxation, the Board is authorized and directed to pay to said States, and the counties therein, for each fiscal year, beginning July 1, 1940, the following percentages of the gross proceeds derived from the sale of power by the Corporation for the preceding fiscal year as hereinafter provided, together with such additional amounts as may be payable pursuant to the provisions hereinafter set forth, said payments to constitute a charge against the power operations of the Corporation: For the fiscal year (beginning July 1) 1940, 10 per centum; 1941, 9 per centum; 1942, 8 per centum; 1943, 7½ per centum; 1944, 7 per centum; 1945, 6½ per centum; 1946, 6 per centum; 1947, 5½ per centum; 1948 and each fiscal year thereafter, 5 per centum. “Gross proceeds”, as used in this section, is defined as the total gross proceeds derived by the Corporation from the sale of power for the preceding fiscal year, excluding power used by the Corporation or sold or delivered to any other department or agency of the Government of the United States for any purpose other than the resale thereof. The payments herein authorized are in lieu of taxation, and the Corporation, its property, franchises and income, are expressly exempted from taxation in any manner or form by any State, county, municipality, or any subdivision or district thereof.
 
-The payment for each fiscal year shall be apportioned among said States in the following manner: One-half of said payment shall be apportioned by paying to each State the percentage thereof which the gross proceeds of the power sales by the Corporation within said State during the preceding fiscal year bears to the total gross proceeds from all power sales by the Corporation during the preceding fiscal year; the remaining one-half of said payment shall be apportioned by paying to each State the percentage thereof which the book value of the power property held by the Corporation within said State at the end of the preceding fiscal year bears to the total book value of all such property held by the Corporation on the same date. The book value of power property shall include that portion of the investment allocated or estimated to be allocable to power: *Provided*, That the minimum annual payment to each State (including payments to counties therein) shall not be less than an amount equal to the two-year average of the State and local ad valorem property taxes levied against power property purchased and operated by the Corporation in said State and against that portion of reservoir lands related to dams constructed by or on behalf of the United States Government and held or operated by the Corporation and allocated or estimated to be allocable to power. The said two-year average shall be calculated for the last two tax years during which said property was privately owned and operated or said land was privately owned: *Provided further*, That the minimum annual payment to each State in which the Corporation owns and operates power property (including payments to counties therein) shall not be less than $10,000 in any case: *Provided further*, That the corporation 1
+The payment for each fiscal year shall be apportioned among said States in the following manner: One-half of said payment shall be apportioned by paying to each State the percentage thereof which the gross proceeds of the power sales by the Corporation within said State during the preceding fiscal year bears to the total gross proceeds from all power sales by the Corporation during the preceding fiscal year; the remaining one-half of said payment shall be apportioned by paying to each State the percentage thereof which the book value of the power property held by the Corporation within said State at the end of the preceding fiscal year bears to the total book value of all such property held by the Corporation on the same date. The book value of power property shall include that portion of the investment allocated or estimated to be allocable to power: *Provided*, That the minimum annual payment to each State (including payments to counties therein) shall not be less than an amount equal to the two-year average of the State and local ad valorem property taxes levied against power property purchased and operated by the Corporation in said State and against that portion of reservoir lands related to dams constructed by or on behalf of the United States Government and held or operated by the Corporation and allocated or estimated to be allocable to power. The said two-year average shall be calculated for the last two tax years during which said property was privately owned and operated or said land was privately owned: *Provided further*, That the minimum annual payment to each State in which the Corporation owns and operates power property (including payments to counties therein) shall not be less than $10,000 in any case: *Provided further*, That the corporation 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 shall pay directly to the respective counties the two-year average of county ad valorem property taxes (including taxes levied by taxing districts within the respective counties) upon power property and reservoir lands allocable to power, determined as above provided, and all payments to any such county within a State shall be deducted from the payment otherwise due to such State under the provisions of this section. The determination of the Board of the amounts due hereunder to the respective States and counties shall be final.
 
@@ -887,7 +887,7 @@ Nothing herein shall be construed to limit the authority of the Corporation in i
 
 The Corporation shall, not later than January 1, 1945, submit to the Congress a report on the operation of the provisions of this section, including a statement of the distribution to the various States and counties hereunder; the effect of the operation of the provisions of this section on State and local finances; an appraisal of the benefits of the program of the Corporation to the States and counties receiving payments hereunder, and the effect of such benefits in increasing taxable values within such States and counties; and such other data, information, and recommendations as may be pertinent to future legislation.
 
-(May 18, 1933, ch. 32, § 13, 48 Stat. 66; June 26, 1940, ch. 432, § 39, 54 Stat. 626; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 13, 48 Stat. 66; June 26, 1940, ch. 432, § 39, 54 Stat. 626; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -903,13 +903,13 @@ The Corporation shall, not later than January 1, 1945, submit to the Congress a 
 
 Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
-## § 831m. Allocation and charge of value and cost of plants to particular objects; cost accounting; reports of costs of operation; sale of surplus power at profit
+## § 831m. Allocation and charge of value and cost of plants to particular objects; cost accounting; reports of costs of operation; sale of surplus power at profit
 
 The Board shall make a thorough investigation as to the present value of Dam Numbered 2, and the steam plants at nitrate plant numbered 1, and nitrate plant numbered 2, and as to the cost of Cove Creek Dam, for the purpose of ascertaining how much of the value or the cost of said properties shall be allocated and charged up to (1) flood control, (2) navigation, (3) fertilizer, (4) national defense, and (5) the development of power. The findings thus made by the Board, when approved by the President of the United States, shall be final, and such findings shall thereafter be used in all allocation of value for the purpose of keeping the book value of said properties. In like manner, the cost and book value of any dams, steam plants, or other similar improvements hereafter constructed and turned over to said Board for the purpose of control and management shall be ascertained and allocated. The Board shall, on or before January 1, 1937, file with Congress a statement of its allocation of the value of all such properties turned over to said Board, and which have been completed prior to the end of the preceding fiscal year, and shall thereafter in its annual report to Congress file a statement of its allocation of the value of such properties as have been completed during the preceding fiscal year.
 
 For the purpose of accumulating data useful to the Congress in the formulation of legislative policy in matters relating to the generation, transmission, and distribution of electric energy and the production of chemicals necessary to national defense and useful in agriculture, and to the Federal Power Commission and other Federal and State agencies, and to the public, the Board shall keep complete accounts of its costs of generation, transmission, and distribution of electric energy and shall keep a complete account of the total cost of generating and transmission facilities constructed or otherwise acquired by the Corporation, and of producing such chemicals, and a description of the major components of such costs according to such uniform systems of accounting for public utilities as the Federal Power Commission has, and if it have none, then it is empowered and directed to prescribe such uniform system of accounting, together with records of such other physical data and operating statistics of the Authority as may be helpful in determining the actual cost and value of services, and the practices, methods, facilities, equipment, appliances, and standards and sizes, types, location, and geographical and economic integration of plants and systems best suited to promote the public interest, efficiency, and the wider and more economical use of electric energy. Such data shall be reported to the Congress by the Board from time to time, with appropriate analyses and recommendations, and, so far as practicable, shall be made available to the Federal Power Commission and other Federal and State agencies which may be concerned with the administration of legislation relating to the generation, transmission, or distribution of electric energy and chemicals useful to agriculture. It is declared to be the policy of this chapter that, in order, as soon as practicable, to make the power projects self-supporting and self-liquidating, the surplus power shall be sold at rates which, in the opinion of the Board, when applied to the normal capacity of the Authority’s power facilities, will produce gross revenues in excess of the cost of production of said power and in addition to the statement of the cost of power at each power station as required by section 831h of this title, the Board shall file with each annual report, a statement of the total cost of all power generated by it at all power stations during each year, the average cost of such power per kilowatt hour, the rates at which sold, and to whom sold, and copies of all contracts for the sale of power.
 
-(May 18, 1933, ch. 32, § 14, 48 Stat. 66; Aug. 31, 1935, ch. 836, § 8, 49 Stat. 1077.)
+(May 18, 1933, ch. 32, § 14, 48 Stat. 66; Aug. 31, 1935, ch. 836, § 8, 49 Stat. 1077.)
 
 **Editorial Notes**
 
@@ -923,7 +923,7 @@ For the purpose of accumulating data useful to the Congress in the formulation o
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
-## § 831m–1. Tennessee Valley Authority least-cost planning program
+## § 831m–1. Tennessee Valley Authority least-cost planning program
 
 **(a) In general**
 
@@ -967,7 +967,7 @@ Before the selection and addition of a major new energy resource on the Tennesse
 
 The Tennessee Valley Authority shall not be subject to the least-cost planning requirements contained in section 2621(d) of this title or any similar requirement which might arise out of the Tennessee Valley Authority’s electric power transactions with the Southeastern Power Administration.
 
-(Pub. L. 102–486, title I, § 113, Oct. 24, 1992, 106 Stat. 2798.)
+(Pub. L. 102–486, title I, § 113, Oct. 24, 1992, 106 Stat. 2798.)
 
 **Editorial Notes**
 
@@ -975,17 +975,17 @@ The Tennessee Valley Authority shall not be subject to the least-cost planning r
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Tennessee Valley Authority Act of 1933 which comprises this chapter.
 
-## § 831n. Bonds for future construction; amount, terms, and conditions
+## § 831n. Bonds for future construction; amount, terms, and conditions
 
 In the construction of any future dam, steam plant, or other facility, to be used in whole or in part for the generation or transmission of electric power the Board is authorized and empowered to issue on the credit of the United States and to sell serial bonds not exceeding $50,000,000 in amount, having a maturity not more than fifty years from the date of issue thereof, and bearing interest not exceeding 3½ per centum per annum. Said bonds shall be issued and sold in amounts and prices approved by the Secretary of the Treasury, but all such bonds as may be so issued and sold shall have equal rank. None of said bonds shall be sold below par, and no fee, commission, or compensation whatever shall be paid to any person, firm, or corporation for handling, negotiating the sale, or selling the said bonds. All of such bonds so issued and sold shall have all the rights and privileges accorded by law to Panama Canal bonds, authorized by section 8 of the Act of June 28, 1902, chapter 1302, as amended by the Act of December 21, 1905 (ch. 3, sec. 1, 34 Stat. 5). All funds derived from the sale of such bonds shall be paid over to the Corporation.
 
-(May 18, 1933, ch. 32, § 15, 48 Stat. 66; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 15, 48 Stat. 66; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 8 of the Act of June 28, 1902, chapter 1302, as amended by the Act of December 21, 1905 (ch. 3, sec. 1, 34 Stat. 5), referred to in text, was classified to sections 743, 744, and 744 note of former Title 31 and was repealed in part by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance, and in part by Pub. L. 97–452, § 4(b), Jan. 12, 1983, 96 Stat. 2480.
+Section 8 of the Act of June 28, 1902, chapter 1302, as amended by the Act of December 21, 1905 (ch. 3, sec. 1, 34 Stat. 5), referred to in text, was classified to sections 743, 744, and 744 note of former Title 31 and was repealed in part by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance, and in part by Pub. L. 97–452, § 4(b), Jan. 12, 1983, 96 Stat. 2480.
 
 **Amendments**
 
@@ -997,11 +997,11 @@ Section 8 of the Act of June 28, 1902, chapter 1302, as amended by the Act of De
 
 Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
-## § 831n–1. Bonds to carry out provisions of section 831k–1; amount, terms, and conditions
+## § 831n–1. Bonds to carry out provisions of section 831k–1; amount, terms, and conditions
 
 With the approval of the Secretary of the Treasury, the Corporation is authorized to issue bonds not to exceed in the aggregate $50,000,000 outstanding at any one time, which bonds may be sold by the Corporation to obtain funds to carry out the provisions of section 831k–1 of this title. Such bonds shall be in such forms and denominations, shall mature within such periods not more than fifty years from the date of their issue, may be redeemable at the option of the Corporation before maturity in such manner as may be stipulated therein, shall bear such rates of interest not exceeding 3½ per centum per annum, shall be subject to such terms and conditions, shall be issued in such manner and amount, and sold at such prices, as may be prescribed by the Corporation, with the approval of the Secretary of the Treasury: *Provided*, That such bonds shall not be sold at such prices or on such terms as to afford an investment yield to the holders in excess of 3½ per centum per annum. Such bonds shall be fully and unconditionally guaranteed both as to interest and principal by the United States, and such guaranty shall be expressed on the face thereof, and such bonds shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of the United States or any officer or officers thereof. In the event that the Corporation should not pay upon demand, when due, the principal of, or interest on, such bonds, the Secretary of the Treasury shall pay to the holder the amount thereof, which is authorized to be appropriated out of any moneys in the Treasury not otherwise appropriated, and thereupon to the extent of the amount so paid the Secretary of the Treasury shall succeed to all the rights of the holders of such bonds. The Secretary of the Treasury, in his discretion, is authorized to purchase any bonds issued hereunder, and for such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds from the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include any purchases of the Corporation’s bonds hereunder. The Secretary of the Treasury may, at any time, sell any of the bonds of the Corporation acquired by him under this section. All redemptions, purchases, and sales by the Secretary of the Treasury of the bonds of the Corporation shall be treated as public-debt transactions of the United States. With the approval of the Secretary of the Treasury, the Corporation shall have power to purchase such bonds in the open market at any time and at any price. No bonds shall be issued hereunder to provide funds or bonds necessary for the performance of any proposed contract negotiated by the Corporation under the authority of section 831k–1 of this title until the proposed contract shall have been submitted to and approved by the Federal Power Commission. When any such proposed contract shall have been submitted to the said Commission, the matter shall be given precedence and shall be in every way expedited and the Commission’s determination of the matter shall be final. The authority of the Corporation to issue bonds hereunder shall expire at the end of five years from the date when this section as amended herein becomes law, except that such bonds may be issued at any time after the expiration of said period to provide bonds or funds necessary for the performance of any contract entered into by the Corporation, prior to the expiration of said period, under the authority of section 831k–1 of this title.
 
-(May 18, 1933, ch. 32, § 15a, as added Aug. 31, 1935, ch. 836, § 9, 49 Stat. 1078.)
+(May 18, 1933, ch. 32, § 15a, as added Aug. 31, 1935, ch. 836, § 9, 49 Stat. 1078.)
 
 **Editorial Notes**
 
@@ -1011,7 +1011,7 @@ The date when this section as amended herein becomes law, referred to in text, p
 
 **Codification**
 
-“Chapter 31 of title 31” and “such chapter” substituted in text for “the Second Liberty Bond Act, as amended” and “such Act, as amended,”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Chapter 31 of title 31” and “such chapter” substituted in text for “the Second Liberty Bond Act, as amended” and “such Act, as amended,”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1019,11 +1019,11 @@ The date when this section as amended herein becomes law, referred to in text, p
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
-## § 831n–2. Bonds; limitation of issuance under sections 831n and 831n–1
+## § 831n–2. Bonds; limitation of issuance under sections 831n and 831n–1
 
 No bonds shall be issued by the Corporation after the date of enactment of this section under section 831n or 831n–1 of this title.
 
-(May 18, 1933, ch. 32, § 15b, as added July 26, 1939, ch. 366, 53 Stat. 1083.)
+(May 18, 1933, ch. 32, § 15b, as added July 26, 1939, ch. 366, 53 Stat. 1083.)
 
 **Editorial Notes**
 
@@ -1031,7 +1031,7 @@ No bonds shall be issued by the Corporation after the date of enactment of this 
 
 The date of enactment of this section, referred to in text, probably means July 26, 1939.
 
-## § 831n–3. Use of funds; limitation of issuance
+## § 831n–3. Use of funds; limitation of issuance
 
 With the approval of the Secretary of the Treasury the Corporation is authorized, after the date of enactment of this section, to issue bonds not to exceed in the aggregate $61,500,000. Such bonds may be sold by the Corporation to obtain funds which may be used for the following purposes only:
 
@@ -1047,7 +1047,7 @@ With the approval of the Secretary of the Treasury the Corporation is authorized
 
 The Corporation shall file with the President and with the Congress in December of each year a financial statement and complete report as to the expenditure of funds derived from the sale of bonds under this section covering the period not covered by any such previous statement or report. Such bonds shall be in such forms and denominations, shall mature within such periods not more than fifty years from the date of their issue, may be redeemable at the option of the Corporation before maturity in such manner as may be stipulated therein, shall bear such rates of interest not exceeding 3½ per centum per annum, shall be subject to such terms and conditions, shall be issued in such manner and amount, and sold at such prices, as may be prescribed by the Corporation with the approval of the Secretary of the Treasury: *Provided*, That such bonds shall not be sold at such prices or on such terms as to afford an investment yield to the holders in excess of 3½ per centum per annum. Such bonds shall be fully and unconditionally guaranteed both as to interest and principal by the United States, and such guaranty shall be expressed on the face thereof, and such bonds shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds, the investment or deposit of which shall be under the authority or control of the United States or any officer or officers thereof. In the event that the Corporation should not pay upon demand when due, the principal of, or interest on, such bonds, the Secretary of the Treasury shall pay to the holder the amount thereof, which is authorized to be appropriated out of any moneys in the Treasury not otherwise appropriated, and thereupon to the extent of the amount so paid the Secretary of the Treasury shall succeed to all the rights of the holders of such bonds. The Secretary of the Treasury, in his discretion, is authorized to purchase any bonds issued hereunder, and for such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds from the sale of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include any purchases of the Corporation’s bonds hereunder. The Secretary of the Treasury may, at any time, sell any of the bonds of the Corporation acquired by him under this section. All redemptions, purchases, and sales by the Secretary of the Treasury of the bonds of the Corporation shall be treated as public-debt transactions of the United States. With the approval of the Secretary of the Treasury, the Corporation shall have power to purchase such bonds in the open market at any time and at any price. None of the proceeds of the bonds shall be used for the performance of any proposed contract negotiated by the Corporation under the authority of section 831k–1 of this title until the proposed contract shall have been submitted to and approved by the Federal Power Commission. When any such proposed contract shall have been submitted to the said Commission, the matter shall be given precedence and shall be in every way expedited and the Commission’s determination of the matter shall be final. The authority of the Corporation to issue bonds under this section shall expire January 1, 1941, except that if at the time such authority expires the amount of bonds issued by the Corporation under this section is less than $61,500,000, the Corporation may, subject to the foregoing provisions of this section, issue, after the expiration of such period, bonds in an amount not in excess of the amount by which the bonds so issued prior to the expiration of such period is less than $61,500,000, for refunding purposes, or, subject to the provisions of paragraph (5) of this section (limiting the purposes for which loans under section 831k–1 of this title of funds derived from bonds proceeds may be made) to provide funds found necessary in the performance of any contract entered into by the Corporation prior to the expiration of such period, under the authority of section 831k–1 of this title.
 
-(May 18, 1933, ch. 32, § 15c, as added July 26, 1939, ch. 366, 53 Stat. 1083.)
+(May 18, 1933, ch. 32, § 15c, as added July 26, 1939, ch. 366, 53 Stat. 1083.)
 
 **Editorial Notes**
 
@@ -1057,7 +1057,7 @@ The date of enactment of this section, referred to in text, probably means July 
 
 **Codification**
 
-“Chapter 31 of title 31” and “such chapter” substituted in text for “the Second Liberty Bond Act, as amended” and “such Act, as amended,”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Chapter 31 of title 31” and “such chapter” substituted in text for “the Second Liberty Bond Act, as amended” and “such Act, as amended,”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1069,9 +1069,9 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Transfer of Functions**
 
-Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
+Executive and administrative functions of Federal Power Commission, with certain reservations, transferred to Chairman of such Commission, with authority vested in him to authorize their performance by any officer, employee, or administrative unit under his jurisdiction, by Reorg. Plan No. 9 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out as a note under section 792 of this title.
 
-## § 831n–4. Bonds for financing power program
+## § 831n–4. Bonds for financing power program
 
 **(a) Authorization; amount; use of proceeds; restriction on contracts for sale or delivery of power; exchange power arrangements; payment of principal and interest; bond contracts**
 
@@ -1091,7 +1091,7 @@ Bonds issued by the Corporation hereunder shall not be obligations of, nor shall
 
 Bonds issued by the Corporation under this section shall be negotiable instruments unless otherwise specified therein, shall be in such forms and denominations, shall be sold at such times and in such amounts, shall mature at such time or times not more than fifty years from their respective dates, shall be sold at such prices, shall bear such rates of interest, may be redeemable before maturity at the option of the Corporation in such manner and at such times and redemption premiums, may be entitled to such relative priorities of claim on the Corporation’s net power proceeds with respect to principal and interest payments, and shall be subject to such other terms and conditions, as the Corporation may determine: *Provided*, That at least fifteen days before selling each issue of bonds hereunder (exclusive of any commitment shorter than one year) the Corporation shall advise the Secretary of the Treasury as to the amount, proposed date of sale, maturities, terms and conditions and expected rates of interest of the proposed issue in the fullest detail possible and, if the Secretary shall so request, shall consult with him or his designee thereon, but the sale and issuance of such bonds shall not be subject to approval by the Secretary of the Treasury except as to the time of issuance and the maximum rates of interest to be borne by the bonds: *Provided further*, That if the Secretary of the Treasury does not approve a proposed issue of bonds hereunder within seven working days following the date on which he is advised of the proposed sale, the Corporation may issue to the Secretary interim obligations in the amount of the proposed issue, which the Secretary is directed to purchase. In case the Corporation determines that a proposed issue of bonds hereunder cannot be sold on reasonable terms, it may issue to the Secretary interim obligations which the Secretary is authorized to purchase. Notwithstanding the foregoing provisions of this subsection, obligations issued by the Corporation to the Secretary shall not exceed $150,000,000 outstanding at any one time, shall mature on or before one year from date of issue, and shall bear interest equal to the average rate (rounded to the nearest one-eighth of a percent) on outstanding marketable obligations of the United States with maturities from dates of issue of one year or less as of the close of the month preceding the issuance of the obligations of the Corporation. If agreement is not reached within eight months concerning the issuance of any bonds which the Secretary has failed to approve, the Corporation may nevertheless proceed to sell such bonds on any date thereafter without approval by the Secretary in amount sufficient to retire the interim obligations issued to the Treasury and such interim obligations shall be retired from the proceeds of such bonds. For the purpose of any purchase of the Corporation’s obligations the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include any purchases of the Corporation’s obligations hereunder. The Corporation may sell its bonds by negotiation or on the basis of competitive bids, subject to the right, if reserved, to reject all bids; may designate trustees, registrars, and paying agents in connection with said bonds and the issuance thereof; may arrange for audits of its accounts and for reports concerning its financial condition and operations by certified public accounting firms (which audits and reports shall be in addition to those required by sections 9105 and 9106 of title 31,1
 
-<sup>1</sup>  So in original. The comma probably should be “);”.
+<sup>1</sup> So in original. The comma probably should be “);”.
 
 may, subject to any covenants contained in any bond contract, invest the proceeds of any bonds and other funds under its control which derive from or pertain to its power program in any securities approved for investment of national bank funds and deposit said proceeds and other funds, subject to withdrawal by check or otherwise, in any Federal Reserve Bank or bank having membership in the Federal Reserve System; and may perform such other acts not prohibited by law as it deems necessary or desirable to accomplish the purposes of this section. Bonds issued by the Corporation hereunder shall contain a recital that they are issued pursuant to this section, and such recital shall be conclusive evidence of the regularity of the issuance and sale of such bonds and of their validity. The annual report of the Board filed pursuant to section 831h of this title shall contain a detailed statement of the operation of the provisions of this section during the year.
 
@@ -1115,7 +1115,7 @@ Power generating and related facilities operated by the Corporation under lease 
 
 It is declared to be the intent of this section to aid the Corporation in discharging its responsibility for the advancement of the national defense and the physical, social and economic development of the area in which it conducts its operations by providing it with adequate authority and administrative flexibility to obtain the necessary funds with which to assure an ample supply of electric power for such purposes by issuance of bonds and as otherwise provided herein, and this section shall be construed to effectuate such intent.
 
-(May 18, 1933, ch. 32, § 15d, as added Pub. L. 86–137, § 1, Aug. 6, 1959, 73 Stat. 280; amended Pub. L. 86–157, Aug. 14, 1959, 73 Stat. 338; Pub. L. 89–537, Aug. 12, 1966, 80 Stat. 346; Pub. L. 91–446, Oct. 14, 1970, 84 Stat. 915; Pub. L. 94–139, § 1, Nov. 28, 1975, 89 Stat. 750; Pub. L. 94–273, §§ 2(30), 35(a), Apr. 21, 1976, 90 Stat. 376, 380; Pub. L. 96–97, Oct. 31, 1979, 93 Stat. 730.)
+(May 18, 1933, ch. 32, § 15d, as added Pub. L. 86–137, § 1, Aug. 6, 1959, 73 Stat. 280; amended Pub. L. 86–157, Aug. 14, 1959, 73 Stat. 338; Pub. L. 89–537, Aug. 12, 1966, 80 Stat. 346; Pub. L. 91–446, Oct. 14, 1970, 84 Stat. 915; Pub. L. 94–139, § 1, Nov. 28, 1975, 89 Stat. 750; Pub. L. 94–273, §§ 2(30), 35(a), Apr. 21, 1976, 90 Stat. 376, 380; Pub. L. 96–97, Oct. 31, 1979, 93 Stat. 730.)
 
 **Editorial Notes**
 
@@ -1127,19 +1127,19 @@ Title II of the Government Corporations Appropriation Act, 1948, referred to in 
 
 **Codification**
 
-In subsecs. (b) and (c), “subchapter II of chapter 15 of title 31”, “chapter 31 of title 31”, and “sections 9105 and 9106 of title 31” substituted for “Revised Statutes 3679, as amended (31 U.S.C. 665)”, “the Second Liberty Bond Act, as amended”, and “sections 105 and 106 of the Act of December 6, 1945 (59 Stat. 599; 31 U.S.C. 850–851)”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsecs. (b) and (c), “subchapter II of chapter 15 of title 31”, “chapter 31 of title 31”, and “sections 9105 and 9106 of title 31” substituted for “Revised Statutes 3679, as amended (31 U.S.C. 665)”, “the Second Liberty Bond Act, as amended”, and “sections 105 and 106 of the Act of December 6, 1945 (59 Stat. 599; 31 U.S.C. 850–851)”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
 1979—Subsec. (a). Pub. L. 96–97 substituted “$30,000,000,000” for “$15,000,000,000”.
 
-1976—Subsec. (e). Pub. L. 94–273, § 2(30), substituted “September” for “June”.
+1976—Subsec. (e). Pub. L. 94–273, § 2(30), substituted “September” for “June”.
 
-Subsec. (f). Pub. L. 94–273, § 35(a), inserted provision relating to computation of five-year periods as of Oct. 1, 1975.
+Subsec. (f). Pub. L. 94–273, § 35(a), inserted provision relating to computation of five-year periods as of Oct. 1, 1975.
 
-1975—Subsec. (a). Pub. L. 94–139, § 1(a), substituted “$15,000,000,000” for “$5,000,000,000”.
+1975—Subsec. (a). Pub. L. 94–139, § 1(a), substituted “$15,000,000,000” for “$5,000,000,000”.
 
-Subsec. (e). Pub. L. 94–139, § 1(b), struck out “December 31 and” before “June 30”.
+Subsec. (e). Pub. L. 94–139, § 1(b), struck out “December 31 and” before “June 30”.
 
 1970—Subsec. (a). Pub. L. 91–446 substituted “$5,000,000,000” for “$1,750,000,000”.
 
@@ -1153,11 +1153,11 @@ Subsec. (e). Pub. L. 94–139, § 1(b), struck out “December 31 and” befor
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See also Transfer of Functions notes set out under those sections.
 
-## § 831o. Completion of unfinished plants authorized
+## § 831o. Completion of unfinished plants authorized
 
 The Board, whenever the President deems it advisable, is empowered and directed to complete Dam Numbered 2 at Muscle Shoals, Alabama, and the steam plant at nitrate plant numbered 2, in the vicinity of Muscle Shoals, by installing in Dam Numbered 2 the additional power units according to the plans and specifications of said dam, and the additional power unit in the steam plant at nitrate plant numbered 2.
 
-(May 18, 1933, ch. 32, § 16, 48 Stat. 67; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 16, 48 Stat. 67; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -1171,15 +1171,15 @@ The Board, whenever the President deems it advisable, is empowered and directed 
 
 Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
-## § 831p. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 648
+## § 831p. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 648
 
-Section, act May 18, 1933, ch. 32, § 17, 48 Stat. 67, authorized construction of the Cove Creek Dam across Clinch River.
+Section, act May 18, 1933, ch. 32, § 17, 48 Stat. 67, authorized construction of the Cove Creek Dam across Clinch River.
 
-## § 831q. Eminent domain; contracts for relocation of railroads, highways, industrial plants, etc.
+## § 831q. Eminent domain; contracts for relocation of railroads, highways, industrial plants, etc.
 
 In order to enable and empower the Secretary of the Army, the Secretary of the Interior, or the Board to carry out the authority conferred in this chapter, in the most economical and efficient manner, he or it is authorized and empowered in the exercise of the powers of national defense in aid of navigation, and in the control of the flood waters of the Tennessee and Mississippi Rivers, constituting channels of interstate commerce, to exercise the right of eminent domain for all purposes of this chapter, and to condemn all lands, easements, rights of way, and other area necessary in order to obtain a site for said Cove Creek Dam, and the flowage rights for the reservoir of water above said dam, and to negotiate and conclude contracts with States, counties, municipalities, and all State agencies and with railroads, railroad corporations, common carriers, and all public utility commissions and any other person, firm, or corporation, for the relocation of railroad tracks, highways, highway bridges, mills, ferries, electric-light plants, and any and all other properties, enterprises, and projects whose removal may be necessary in order to carry out the provisions of this chapter. When said Cove Creek Dam, transmission line, and power house shall have been completed, the possession, use, and control thereof shall be intrusted to the Corporation for use and operation in connection with the general Tennessee Valley project, and to promote flood control and navigation in the Tennessee River.
 
-(May 18, 1933, ch. 32, § 18, 48 Stat. 67; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 18, 48 Stat. 67; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -1201,11 +1201,11 @@ Amendment by Pub. L. 108–447 effective on the later of the date on which at le
 
 The site for the Cove Creek Dam has been obtained and the dam completed.
 
-## § 831r. Patents; access to Patent and Trademark Office and right to copy patents; compensation to patentees
+## § 831r. Patents; access to Patent and Trademark Office and right to copy patents; compensation to patentees
 
 The Corporation, as an instrumentality and agency of the Government of the United States for the purpose of executing its constitutional powers, shall have access to the United States Patent and Trademark Office for the purpose of studying, ascertaining, and copying all methods, formula, and scientific information (not including access to pending applications for patents) necessary to enable the Corporation to use and employ the most efficacious and economical process for the production of fixed nitrogen, or any essential ingredient of fertilizer, or any method of improving and cheapening the production of hydroelectric power, and any owner of a patent whose patent rights may have been thus in any way copied, used, infringed, or employed by the exercise of this authority by the Corporation shall have as the exclusive remedy a cause of action against the Corporation to be instituted and prosecuted on the equity side of the appropriate district court of the United States, for the recovery of reasonable compensation for such infringement. The Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall furnish to the Corporation, at its request and without payment of fees, copies of documents on file in his office: *Provided*, That the benefits of this section shall not apply to any art, machine, method of manufacture, or composition of matter, discovered or invented by such employee during the time of his employment or service with the Corporation or with the Government of the United States.
 
-(May 18, 1933, ch. 32, § 19, 48 Stat. 68; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(7)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(May 18, 1933, ch. 32, § 19, 48 Stat. 68; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(7)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 **Editorial Notes**
 
@@ -1217,13 +1217,13 @@ The Corporation, as an instrumentality and agency of the Government of the Unite
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
-## § 831s. Possession by Government in time of war; damages to contract holders
+## § 831s. Possession by Government in time of war; damages to contract holders
 
 The Government of the United States reserves the right, in case of war or national emergency declared by Congress, to take possession of all or any part of the property described or referred to in this chapter for the purpose of manufacturing explosives or for other war purposes; but, if this right is exercised by the Government, it shall pay the reasonable and fair damages that may be suffered by any party whose contract for the purchase of electric power or fixed nitrogen or fertilizer ingredients is violated, after the amount of the damages has been fixed by the United States Court of Federal Claims in proceedings instituted and conducted for that purpose under rules prescribed by the court.
 
-(May 18, 1933, ch. 32, § 20, 48 Stat. 68; Pub. L. 97–164, title I, § 161(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(May 18, 1933, ch. 32, § 20, 48 Stat. 68; Pub. L. 97–164, title I, § 161(2), Apr. 2, 1982, 96 Stat. 49; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -1245,9 +1245,9 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **Termination of War and Emergencies**
 
-Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on September 8, 1939, and May 27, 1941.
+Joint Res. July 25, 1947, ch. 327, § 3, 61 Stat. 451, provided that in the interpretation of this section, the date July 25, 1947, shall be deemed to be the date of termination of any state of war theretofore declared by Congress and of the national emergencies proclaimed by the President on September 8, 1939, and May 27, 1941.
 
-## § 831t. Offenses; fines and punishment
+## § 831t. Offenses; fines and punishment
 
 **(a) Larceny, embezzlement and conversion**
 
@@ -1261,13 +1261,13 @@ Any person who, with intent to defraud the Corporation, or to deceive any direct
 
 Any person who shall receive any compensation, rebate, or reward, or shall enter into any conspiracy, collusion, or agreement, express or implied, with intent to defraud the Corporation or wrongfully and unlawfully to defeat its purposes, shall, on conviction thereof, be fined not more than $5,000 or imprisoned not more than five years, or both.
 
-(May 18, 1933, ch. 32, § 21, 48 Stat. 68.)
+(May 18, 1933, ch. 32, § 21, 48 Stat. 68.)
 
-## § 831u. Surveys; cooperation with States or other agencies
+## § 831u. Surveys; cooperation with States or other agencies
 
 To aid further the proper use, conservation, and development of the natural resources of the Tennessee River drainage basin and of such adjoining territory as may be related to or materially affected by the development consequent to this chapter, and to provide for the general welfare of the citizens of said areas, the President is authorized, by such means or methods as he may deem proper within the limits of appropriations made therefor by Congress, to make such surveys of and general plans for said Tennessee basin and adjoining territory as may be useful to the Congress and to the several States in guiding and controlling the extent, sequence, and nature of development that may be equitably and economically advanced through the expenditure of public funds, or through the guidance or control of public authority, all for the general purpose of fostering an orderly and proper physical, economic, and social development of said areas; and the President is further authorized in making said surveys and plans to cooperate with the States affected thereby, or subdivisions or agencies of such States, or with cooperative or other organizations, and to make such studies, experiments, or demonstrations as may be necessary and suitable to that end.
 
-(May 18, 1933, ch. 32, § 22, 48 Stat. 69.)
+(May 18, 1933, ch. 32, § 22, 48 Stat. 69.)
 
 **Executive Documents**
 
@@ -1279,17 +1279,17 @@ In accordance with the provisions of section 22 and section 23 of the Tennessee 
 
 Franklin D. Roosevelt.
 
-## § 831v. Legislation to carry out purposes of chapter; recommendation by President
+## § 831v. Legislation to carry out purposes of chapter; recommendation by President
 
 The President shall, from time to time, as the work provided for in section 831u of this title progresses, recommend to Congress such legislation as he deems proper to carry out the general purposes stated in said section, and for the especial purpose of bringing about in said Tennessee drainage basin and adjoining territory in conformity with said general purposes (1) the maximum amount of flood control; (2) the maximum development of said Tennessee River for navigation purposes; (3) the maximum generation of electric power consistent with flood control and navigation; (4) the proper use of marginal lands; (5) the proper method of reforestation of all lands in said drainage basin suitable for reforestation; and (6) the economic and social well-being of the people living in said river basin.
 
-(May 18, 1933, ch. 32, § 23, 48 Stat. 69.)
+(May 18, 1933, ch. 32, § 23, 48 Stat. 69.)
 
-## § 831w. Acquisition of real or personal property; payment by delivery of power; sale or lease of vacant land for industrial purposes
+## § 831w. Acquisition of real or personal property; payment by delivery of power; sale or lease of vacant land for industrial purposes
 
 For the purpose of securing any rights of flowage, or obtaining title to or possession of any property, real or personal, that may be necessary or may become necessary, in the carrying out of any of the provisions of this chapter, the President of the United States for a period of three years from May 18, 1933, is authorized to acquire title in the name of the United States to such rights or such property, and to provide for the payment for same by directing the Board to contract to deliver power generated at any of the plants now owned or hereafter owned or constructed by the Government or by said Corporation, such future delivery of power to continue for a period not exceeding thirty years. Likewise, for one year after May 18, 1933, the President is further authorized to sell or lease any parcel or part of any vacant real estate now owned by the Government in said Tennessee River Basin, to persons, firms, or corporations who shall contract to erect thereon factories or manufacturing establishments, and who shall contract to purchase of said Corporation electric power for the operation of any such factory or manufacturing establishment. No contract shall be made by the President for the sale of any of such real estate as may be necessary for present or future use on the part of the Government for any of the purposes of this chapter. Any such contract made by the President of the United States shall be carried out by the Board: *Provided*, That no such contract shall be made that will in any way abridge or take away the preference right to purchase power given in this chapter to States, counties, municipalities, or farm organizations: *Provided further*, That no lease shall be for a term to exceed fifty years: *Provided further*, That any sale shall be on condition that said land shall be used for industrial purposes only.
 
-(May 18, 1933, ch. 32, § 24, 48 Stat. 69; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
+(May 18, 1933, ch. 32, § 24, 48 Stat. 69; Pub. L. 108–447, div. C, title VI, § 603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -1303,11 +1303,11 @@ For the purpose of securing any rights of flowage, or obtaining title to or poss
 
 Amendment by Pub. L. 108–447 effective on the later of the date on which at least three persons nominated under section 604(a) of Pub. L. 108–447 take office or May 18, 2005, see section 604(b) of Pub. L. 108–447, set out in an Appointments; Effective Date; Transition note under section 831a of this title.
 
-## § 831x. Condemnation proceedings; institution by Corporation; venue
+## § 831x. Condemnation proceedings; institution by Corporation; venue
 
 The Corporation may cause proceedings to be instituted for the acquisition by condemnation of any lands, easements, or rights-of-way which, in the opinion of the Corporation, are necessary to carry out the provisions of this chapter. The proceedings shall be instituted in the United States district court for the district in which the land, easement, right-of-way, or other interest, or any part thereof, is located, and such court shall have full jurisdiction to divest the complete title to the property sought to be acquired out of all persons or claimants and vest the same in the United States in fee simple, and to enter a decree quieting the title thereto in the United States of America.
 
-(May 18, 1933, ch. 32, § 25, 48 Stat. 70; July 12, 1952, ch. 700, 66 Stat. 591; Pub. L. 90–536, § 1, Sept. 28, 1968, 82 Stat. 885.)
+(May 18, 1933, ch. 32, § 25, 48 Stat. 70; July 12, 1952, ch. 700, 66 Stat. 591; Pub. L. 90–536, § 1, Sept. 28, 1968, 82 Stat. 885.)
 
 **Editorial Notes**
 
@@ -1321,13 +1321,13 @@ The Corporation may cause proceedings to be instituted for the acquisition by co
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–536, § 2, Sept. 28, 1968, 82 Stat. 885, provided that: “The amendment made by this Act [amending this section] shall be effective only with respect to condemnation proceedings initiated after thirty days following the date of enactment of this Act [Sept. 28, 1968].”
+Pub. L. 90–536, § 2, Sept. 28, 1968, 82 Stat. 885, provided that: “The amendment made by this Act [amending this section] shall be effective only with respect to condemnation proceedings initiated after thirty days following the date of enactment of this Act [Sept. 28, 1968].”
 
-## § 831y. Net proceeds over expense payable into Treasury
+## § 831y. Net proceeds over expense payable into Treasury
 
 Commencing July 1, 1936, the proceeds for each fiscal year derived by the Board from the sale of power or any other products manufactured by the Corporation, and from any other activities of the Corporation including the disposition of any real or personal property, shall be paid into the Treasury of the United States on March 31 of each year, save and except such part of such proceeds as in the opinion of the Board shall be necessary for the Corporation in the operation of dams and reservoirs, in conducting its business in generating, transmitting, and distributing electric energy and in manufacturing, selling, and distributing fertilizer and fertilizer ingredients. A continuing fund of $1,000,000 is also excepted from the requirements of this section and may be withheld by the Board to defray emergency expenses and to insure continuous operation: *Provided*, That nothing in this section shall be construed to prevent the use by the Board, after June 30, 1936, of proceeds accruing prior to July 1, 1936, for the payment of obligations lawfully incurred prior to such latter date.
 
-(May 18, 1933, ch. 32, § 26, 48 Stat. 71; Aug. 31, 1935, ch. 836, § 10, 49 Stat. 1079; Pub. L. 94–273, § 35(b), Apr. 21, 1976, 90 Stat. 380.)
+(May 18, 1933, ch. 32, § 26, 48 Stat. 71; Aug. 31, 1935, ch. 836, § 10, 49 Stat. 1079; Pub. L. 94–273, § 35(b), Apr. 21, 1976, 90 Stat. 380.)
 
 **Editorial Notes**
 
@@ -1337,7 +1337,7 @@ Commencing July 1, 1936, the proceeds for each fiscal year derived by the Board 
 
 1935—Act Aug. 31, 1935, amended section generally.
 
-## § 831y–1. Approval of plans by Board as condition precedent to construction and operation; restraining action without approval; other laws unaffected
+## § 831y–1. Approval of plans by Board as condition precedent to construction and operation; restraining action without approval; other laws unaffected
 
 The unified development and regulation of the Tennessee River system requires that no dam, appurtenant works, or other obstruction, affecting navigation, flood control, or public lands or reservations shall be constructed, and thereafter operated or maintained across, along, or in the said river or any of its tributaries until plans for such construction, operation, and maintenance shall have been submitted to and approved by the Board; and the construction, commencement of construction, operation, or maintenance of such structures without such approval is prohibited. When such plans shall have been approved, deviation therefrom either before or after completion of such structures is prohibited unless the modification of such plans has previously been submitted to and approved by the Board.
 
@@ -1347,7 +1347,7 @@ Such construction, commencement of construction, operation, or maintenance of an
 
 The requirements of this section shall not be construed to be a substitute for the requirements of any other law of the United States or of any State, now in effect or hereafter enacted, but shall be in addition thereto, so that any approval, license, permit, or other sanction now or hereafter required by the provisions of any such law for the construction, operation, or maintenance of any structures whatever, except such as may be constructed, operated, or maintained by the Corporation, shall be required, notwithstanding the provisions of this section.
 
-(May 18, 1933, ch. 32, § 26a, as added Aug. 31, 1935, ch. 836, § 11, 49 Stat. 1079; amended July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(May 18, 1933, ch. 32, § 26a, as added Aug. 31, 1935, ch. 836, § 11, 49 Stat. 1079; amended July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1355,29 +1355,29 @@ The requirements of this section shall not be construed to be a substitute for t
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
-## § 831z. Authorization of appropriations
+## § 831z. Authorization of appropriations
 
 All appropriations necessary to carry out the provisions of this chapter are authorized.
 
-(May 18, 1933, ch. 32, § 27, 48 Stat. 71.)
+(May 18, 1933, ch. 32, § 27, 48 Stat. 71.)
 
-## § 831aa. Laws repealed
+## § 831aa. Laws repealed
 
 All acts or parts of acts in conflict with this chapter are repealed, so far as they affect the operations contemplated by this chapter.
 
-(May 18, 1933, ch. 32, § 28, 48 Stat. 71.)
+(May 18, 1933, ch. 32, § 28, 48 Stat. 71.)
 
-## § 831bb. Reservation of right to amend or repeal
+## § 831bb. Reservation of right to amend or repeal
 
 The right to alter, amend, or repeal this chapter is expressly declared and reserved, but no such amendment or repeal shall operate to impair the obligation of any contract made by said Corporation under any power conferred by this chapter.
 
-(May 18, 1933, ch. 32, § 29, 48 Stat. 72.)
+(May 18, 1933, ch. 32, § 29, 48 Stat. 72.)
 
-## § 831cc. Separability
+## § 831cc. Separability
 
 The sections of this chapter are declared to be separable, and in the event any one or more sections of this chapter be held to be unconstitutional, the same shall not affect the validity of other sections of this chapter.
 
-(May 18, 1933, ch. 32, § 30, 48 Stat. 72; Aug. 31, 1935, ch. 836, § 15, 49 Stat. 1081.)
+(May 18, 1933, ch. 32, § 30, 48 Stat. 72; Aug. 31, 1935, ch. 836, § 15, 49 Stat. 1081.)
 
 **Editorial Notes**
 
@@ -1385,11 +1385,11 @@ The sections of this chapter are declared to be separable, and in the event any 
 
 1935—Act Aug. 31, 1935, reenacted provisions of this section without change.
 
-## § 831dd. Liberal construction of chapter; sale of surplus lands
+## § 831dd. Liberal construction of chapter; sale of surplus lands
 
 This chapter shall be liberally construed to carry out the purposes of Congress to provide for the disposition of and make needful rules and regulations respecting Government properties entrusted to the Authority, provide for the national defense, improve navigation, control destructive floods, and promote interstate commerce and the general welfare, but no real estate shall be held except what is necessary in the opinion of the Board to carry out plans and projects actually decided upon requiring the use of such land: *Provided*, That any land purchased by the Authority and not necessary to carry out plans and projects actually decided upon shall be sold by the Authority as agent of the United States, after due advertisement, at public auction to the highest bidder.
 
-(May 18, 1933, ch. 32, § 31, as added Aug. 31, 1935, ch. 836, § 12, 49 Stat. 1080.)
+(May 18, 1933, ch. 32, § 31, as added Aug. 31, 1935, ch. 836, § 12, 49 Stat. 1080.)
 
 **Editorial Notes**
 
@@ -1397,7 +1397,7 @@ This chapter shall be liberally construed to carry out the purposes of Congress 
 
 As originally enacted, the last sentence of this section contained, at the end thereof, the words “or at private sale as provided in section 3 of this amendatory Act.” Section 3 of the amendatory act of Aug. 31, 1935, added subsec. (k) to section 831c of this title.
 
-## § 831ee. Essential stewardship activities
+## § 831ee. Essential stewardship activities
 
 For essential stewardship activities for which appropriations were provided to the Tennessee Valley Authority in Public Law 104–206, such sums as are necessary in fiscal year 1999 and thereafter, to be derived only from one or more of the following sources: nonpower fund balances and collections; investment returns of the nonpower program; applied programmatic savings in the power and nonpower programs; savings from the suspension of bonuses and awards; savings from reductions in memberships and contributions; increases in collections resulting from nonpower activities, including user fees; or increases in charges to private and public utilities both investor and cooperatively owned, as well as to direct load customers: *Provided*, That such funds are available to fund the stewardship activities under this section, notwithstanding sections 11, 14, 15, 29 [16 U.S.C. 831j, 831m, 831n, 831bb], or other provisions of the Tennessee Valley Authority Act [16 U.S.C. 831 et seq.], as amended, or provisions of the TVA power bond covenants: *Provided further*, That the savings from, and revenue adjustments to, the TVA budget in fiscal year 1999 and thereafter shall be sufficient to fund the aforementioned stewardship activities such that the net spending authority and resulting outlays for these activities shall not exceed $0 in fiscal year 1999 and thereafter.
 

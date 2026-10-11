@@ -13,19 +13,19 @@ retrieved: 2026-10-11
 
 # Title 18—CRIMES AND CRIMINAL PROCEDURE
 
-This title was enacted by act June 25, 1948, ch. 645, § 1, 62 Stat. 683
+This title was enacted by act June 25, 1948, ch. 645, § 1, 62 Stat. 683
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Editorial Notes**
 
 **Amendments**
 
-1970—Pub. L. 91–452, title II, § 201(b), Oct. 15, 1970, 84 Stat. 928, added Part V.
+1970—Pub. L. 91–452, title II, § 201(b), Oct. 15, 1970, 84 Stat. 928, added Part V.
 
 **Table Showing Disposition of All Sections of Former Title 18**
 
-| *Title 18* *Former Sections* | *Title 18* *New Sections* |
+| *Title 18* *Former Sections* | *Title 18* *New Sections* |
 |---|---|
 | 1, 2 | 2381 |
 | 3 | 2382 |
@@ -45,10 +45,10 @@ Current through 119-102not101
 | 23 | 962 |
 | 24 | 961 |
 | 25 | 960 |
-| 26 | T. 22 § 461 |
-| 27 | T. 22 § 462 |
-| 28 | T. 22 § 463 |
-| 29 | T. 22 § 464 |
+| 26 | T. 22 § 461 |
+| 27 | T. 22 § 462 |
+| 28 | T. 22 § 463 |
+| 29 | T. 22 § 464 |
 | 30 | 959 |
 | 31 | 967 |
 | 32 | 963 |
@@ -57,7 +57,7 @@ Current through 119-102not101
 | 35 | 966 |
 | 36 | 963, 964, 965, 966, 967 |
 | 37 | 756, 3058 |
-| 38 | T. 22 § 465 |
+| 38 | T. 22 § 465 |
 | 39 | 5, 3241 |
 | 51 | 241 |
 | 52 | 242 |
@@ -75,17 +75,17 @@ Current through 119-102not101
 | 61e | 605 |
 | 61f | 598 |
 | 61g | 594, 595, 598, 600, 601, 604, 605 |
-| 61h | T. 5 § 118i (See Rev. T. 5 Table) |
-| 61i | T. 5 § 118j (See Rev. T. 5 Table) |
+| 61h | T. 5 § 118i (See Rev. T. 5 Table) |
+| 61i | T. 5 § 118j (See Rev. T. 5 Table) |
 | 61j, 61k | Rep. |
-| 61*l* | T. 5 § 118k (See Rev. T. 5 Table) |
+| 61*l* | T. 5 § 118k (See Rev. T. 5 Table) |
 | 61m | 608 |
 | 61m–1 | 611 |
 | 61n | 595 |
-| 61*o* | T. 5 § 118*l* (See Rev. T. 5 Table) |
-| 61p | T. 5 § 118m (See Rev. T. 5 Table) |
+| 61*o* | T. 5 § 118*l* (See Rev. T. 5 Table) |
+| 61p | T. 5 § 118m (See Rev. T. 5 Table) |
 | 61q | Rep. |
-| 61r | T. 5 § 118n (See Rev. T. 5 Table) |
+| 61r | T. 5 § 118n (See Rev. T. 5 Table) |
 | 61s | 595 |
 | 61t | 610 |
 | 61u | 595 |
@@ -115,7 +115,7 @@ Current through 119-102not101
 | 87 | 641 |
 | 88 | 371 |
 | 89 | 871 |
-| 90 | T. 34 § 1167 (See Rev. T. 34 Table) |
+| 90 | T. 34 § 1167 (See Rev. T. 34 Table) |
 | 91 | 201 |
 | 92 | 285 |
 | 93 | 434 |
@@ -144,14 +144,14 @@ Current through 119-102not101
 | 112 | 1859 |
 | 113 | 1860 |
 | 114 | 1861 |
-| 115 | T. 25 § 202 |
+| 115 | T. 25 § 202 |
 | 116 | 1362 |
 | 117 | 2074 |
 | 118 | 111 |
 | 119 | 496 |
 | 120 | 551 |
 | 121 | 2231, 2232, 2233 |
-| 122 | T. 19 § 70 |
+| 122 | T. 19 § 70 |
 | 123 | 912 |
 | 124 | 211 |
 | 125 | 543 |
@@ -214,7 +214,7 @@ Current through 119-102not101
 | 210 | 606 |
 | 211 | 607 |
 | 212 | 602, 603, 606, 607 |
-| 213 | T. 5 § 118*o* (See Rev. T. 5 Table) |
+| 213 | T. 5 § 118*o* (See Rev. T. 5 Table) |
 | 214 | 1902 |
 | 215 | 2072 |
 | 216 | 1905 |
@@ -354,7 +354,7 @@ Current through 119-102not101
 | 393 | 44 |
 | 393a | 43, 44, 3054, 3112 |
 | 394 | 42, 43, 44 |
-| 395 | T. 16 § 667e |
+| 395 | T. 16 § 667e |
 | 396 | 1462 |
 | 396a, 396b | 1761 |
 | 396c–396e | 1762 |
@@ -362,7 +362,7 @@ Current through 119-102not101
 | 399 | 2422 |
 | 400 | 2423 |
 | 401 | 2421 |
-| 402(1) | T. 8 § 1557 |
+| 402(1) | T. 8 § 1557 |
 | 402(2), (3) | 2424 |
 | 403 | Rep. |
 | 404 | 2421 |
@@ -391,7 +391,7 @@ Current through 119-102not101
 | 419b | 2316 |
 | 419c | 2317 |
 | 419d | Rep. |
-| 420 | T. 4 § 112 |
+| 420 | T. 4 § 112 |
 | 420a to 420e–1 | 1951 |
 | 420f–420h | 1821 |
 | 421, 422 | 1585 |
@@ -401,7 +401,7 @@ Current through 119-102not101
 | 426 | 1587 |
 | 427 | 1586 |
 | 428 | 1588 |
-| 429–442 | T. 46 §§ 1351–1364 (See Rev. T. 46 Table) |
+| 429–442 | T. 46 §§ 1351–1364 (See Rev. T. 46 Table) |
 | 443 | 1583 |
 | 444, 445 | 1581 |
 | 446 | 1584 |
@@ -456,7 +456,7 @@ Current through 119-102not101
 | 522 | 1991 |
 | 523 | 244 |
 | 532–535 | Rep. |
-| 536 | T. 50 § 42 |
+| 536 | T. 50 § 42 |
 | 541 | 1 |
 | 542 | 3566 |
 | 543 | 3567 |
@@ -501,8 +501,8 @@ Current through 119-102not101
 | 582 | 3282 |
 | 583 | 3290 |
 | 584 | 3283 |
-| 585 | T. 26 [I.R.C. 1939] § 3748(a) (See T. 26 [I.R.C. 1986] § 6531) |
-| 586 | T. 26 [I.R.C. 1939] § 3748(b) (See T. 26 [I.R.C. 1986] § 6531) |
+| 585 | T. 26 [I.R.C. 1939] § 3748(a) (See T. 26 [I.R.C. 1986] § 6531) |
+| 586 | T. 26 [I.R.C. 1939] § 3748(b) (See T. 26 [I.R.C. 1986] § 6531) |
 | 587 | 3288 |
 | 588 | 3289 |
 | 589 | 3288, 3289 |
@@ -534,8 +534,8 @@ Current through 119-102not101
 | 632 | 5 |
 | 633 | Rep. |
 | 641 | 3569 |
-| 642, 643 | T. 46 §§ 7, 8 (See Rev. T. 46 Table) |
-| 644 | T. 28 § 1822 |
+| 642, 643 | T. 46 §§ 7, 8 (See Rev. T. 46 Table) |
+| 644 | T. 28 § 1822 |
 | 645 | 3611 |
 | 646 | 3617 |
 | 647 | 3616 |
@@ -561,7 +561,7 @@ Current through 119-102not101
 | 665 | 755 |
 | 666, 667 | Rep. |
 | 668 | 3195, 3498 |
-| 669–676 | D.C. Code, §§ 23–701, 23–702, 23–705 |
+| 669–676 | D.C. Code, §§ 23–701, 23–702, 23–705 |
 | 681 | Rep. See Cr. Proc. R. 37. |
 | 682 | 3731 |
 | 683 | Rep. |
@@ -574,8 +574,8 @@ Current through 119-102not101
 | 701 | 4007 |
 | 702 | Rep. |
 | 703 | 4006 |
-| 704 | D.C. Code, § 24–424 |
-| 704a | D.C. Code, § 24–423 |
+| 704 | D.C. Code, § 24–424 |
+| 704a | D.C. Code, § 24–423 |
 | 705–707 | Rep. |
 | 708, 709 | 436 |
 | 709a | 3568 |
@@ -601,11 +601,11 @@ Current through 119-102not101
 | 724 | 3651 |
 | 725 | 3653 |
 | 726 | 3654 |
-| 726–1, 726a | T. 28 § 604 |
+| 726–1, 726a | T. 28 § 604 |
 | 727 | 3655 |
 | 728 | 3656 |
-| 729 | T. 28 §§ 1495, 2513 |
-| 730–732 | T. 28 § 2513 |
+| 729 | T. 28 §§ 1495, 2513 |
+| 730–732 | T. 28 § 2513 |
 | 733–733b | 4085 |
 | 741 | 4001 |
 | 742–744 | Rep. |
@@ -627,7 +627,7 @@ Current through 119-102not101
 | 746a | 4282 |
 | 746b | 4283 |
 | 747–749 | Rep. |
-| 750 | T. 5 § 678b (See Rev. T. 5 Table) |
+| 750 | T. 5 § 678b (See Rev. T. 5 Table) |
 | 751, 752 | 4005 |
 | 753 | 4041 |
 | 753a | 4042 |
@@ -674,23 +674,23 @@ Current through 119-102not101
 
 **Positive Law; Citation**
 
-Act June 25, 1948, ch. 645, § 1, 62 Stat. 683, provided in part that: “Title 18 of the United States Code, entitled ‘Crimes and Criminal Procedure’, is hereby revised, codified and enacted into positive law, and may be cited as ‘Title 18, U.S.C., § —.’ ”
+Act June 25, 1948, ch. 645, § 1, 62 Stat. 683, provided in part that: “Title 18 of the United States Code, entitled ‘Crimes and Criminal Procedure’, is hereby revised, codified and enacted into positive law, and may be cited as ‘Title 18, U.S.C., § —.’ ”
 
 **Legislative Construction**
 
-Act June 25, 1948, ch. 645, § 19, 62 Stat. 862, provided that: “No inference of a legislative construction is to be drawn by reason of the chapter in Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, in which any particular section is placed, nor by reason of the catchlines used in such title.”
+Act June 25, 1948, ch. 645, § 19, 62 Stat. 862, provided that: “No inference of a legislative construction is to be drawn by reason of the chapter in Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, in which any particular section is placed, nor by reason of the catchlines used in such title.”
 
 **Separability**
 
-Act June 25, 1948, ch. 645, § 18, 62 Stat. 862, provided that: “If any part of Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, shall be held invalid the remainder shall not be affected thereby.”
+Act June 25, 1948, ch. 645, § 18, 62 Stat. 862, provided that: “If any part of Title 18, Crimes and Criminal Procedure, as set out in section 1 of this Act, shall be held invalid the remainder shall not be affected thereby.”
 
 **Effective Date**
 
-Act June 25, 1948, ch. 645, § 20, 62 Stat. 862, provided that the revision of this title shall be effective Sept. 1, 1948.
+Act June 25, 1948, ch. 645, § 20, 62 Stat. 862, provided that the revision of this title shall be effective Sept. 1, 1948.
 
 **Existing Rights or Liabilities**
 
-Act June 25, 1948, ch. 645, § 21, 62 Stat. 862, provided in part that any right or liabilities now existing under repealed sections or parts thereof shall not be affected by the repeal.
+Act June 25, 1948, ch. 645, § 21, 62 Stat. 862, provided in part that any right or liabilities now existing under repealed sections or parts thereof shall not be affected by the repeal.
 
 **Repealed, Transferred, and Omitted Sections**
 
@@ -702,93 +702,93 @@ All former sections of Title 18 were repealed, transferred to other titles, or o
 
 **Amendments**
 
-2020—Pub. L. 116–260, div. O, title X, § 1003(a), Dec. 27, 2020, 134 Stat. 2156, struck out item for chapter 89 “Professions and occupations”.
+2020—Pub. L. 116–260, div. O, title X, § 1003(a), Dec. 27, 2020, 134 Stat. 2156, struck out item for chapter 89 “Professions and occupations”.
 
-2017—Pub. L. 115–70, title IV, § 402(b)(1), Oct. 18, 2017, 131 Stat. 1214, substituted “Telemarketing and email marketing fraud” for “Telemarketing fraud” in item for chapter 113A.
+2017—Pub. L. 115–70, title IV, § 402(b)(1), Oct. 18, 2017, 131 Stat. 1214, substituted “Telemarketing and email marketing fraud” for “Telemarketing fraud” in item for chapter 113A.
 
-2006—Pub. L. 109–248, title I, § 141(a)(2), July 27, 2006, 120 Stat. 602, added item for chapter 109B.
+2006—Pub. L. 109–248, title I, § 141(a)(2), July 27, 2006, 120 Stat. 602, added item for chapter 109B.
 
-Pub. L. 109–177, title I, § 121(g)(4)(B), Mar. 9, 2006, 120 Stat. 224, which directed amendment of table of chapters at the beginning of part I of this title by striking item relating to “section 114” and inserting new item 114, was executed by adding item for chapter 114 and striking item for former chapter 114 “Trafficking in Contraband Cigarettes”, to reflect the probable intent of Congress.
+Pub. L. 109–177, title I, § 121(g)(4)(B), Mar. 9, 2006, 120 Stat. 224, which directed amendment of table of chapters at the beginning of part I of this title by striking item relating to “section 114” and inserting new item 114, was executed by adding item for chapter 114 and striking item for former chapter 114 “Trafficking in Contraband Cigarettes”, to reflect the probable intent of Congress.
 
-Pub. L. 109–177, title I, § 110(b)(2), title III, § 306(b), Mar. 9, 2006, 120 Stat. 208, 239, substituted “Railroad carriers and mass transportation systems on land, on water, or through the air” for “Railroads” in item for chapter 97 and added item for chapter 111A.
+Pub. L. 109–177, title I, § 110(b)(2), title III, § 306(b), Mar. 9, 2006, 120 Stat. 208, 239, substituted “Railroad carriers and mass transportation systems on land, on water, or through the air” for “Railroads” in item for chapter 97 and added item for chapter 111A.
 
-2004—Pub. L. 108–495, § 2(b), Dec. 23, 2004, 118 Stat. 4000, added item for chapter 88.
+2004—Pub. L. 108–495, § 2(b), Dec. 23, 2004, 118 Stat. 4000, added item for chapter 88.
 
-Pub. L. 108–212, § 2(b), Apr. 1, 2004, 118 Stat. 569, added item for chapter 90A.
+Pub. L. 108–212, § 2(b), Apr. 1, 2004, 118 Stat. 569, added item for chapter 90A.
 
-2003—Pub. L. 108–193, § 5(c)(2), Dec. 19, 2003, 117 Stat. 2880, substituted “Peonage, slavery, and trafficking in persons” for “Peonage and slavery” in item for chapter 77.
+2003—Pub. L. 108–193, § 5(c)(2), Dec. 19, 2003, 117 Stat. 2880, substituted “Peonage, slavery, and trafficking in persons” for “Peonage and slavery” in item for chapter 77.
 
-Pub. L. 108–105, § 3(b), Nov. 5, 2003, 117 Stat. 1208, added item for chapter 74.
+Pub. L. 108–105, § 3(b), Nov. 5, 2003, 117 Stat. 1208, added item for chapter 74.
 
-2002—Pub. L. 107–273, div. B, title IV, § 4002(c)(1), (e)(5), Nov. 2, 2002, 116 Stat. 1808, 1810, substituted “2721” for “2271” in item for chapter 123 and repealed amendment by Pub. L. 104–294, § 601(j)(2)(A). See 1996 Amendment note below.
+2002—Pub. L. 107–273, div. B, title IV, § 4002(c)(1), (e)(5), Nov. 2, 2002, 116 Stat. 1808, 1810, substituted “2721” for “2271” in item for chapter 123 and repealed amendment by Pub. L. 104–294, § 601(j)(2)(A). See 1996 Amendment note below.
 
-1998—Pub. L. 105–277, div. I, title II, § 201(b)(2), Oct. 21, 1998, 112 Stat. 2681–871, added item for chapter 11B.
+1998—Pub. L. 105–277, div. I, title II, § 201(b)(2), Oct. 21, 1998, 112 Stat. 2681–871, added item for chapter 11B.
 
-1996—Pub. L. 104–294, title I, § 101(b), title VI, §§ 601(j)(2)(B), 605(c), (p)(3), Oct. 11, 1996, 110 Stat. 3491, 3501, 3509, 3510, substituted “1461” for “1460” in item for chapter 71, added item for chapter 90, and substituted “2340” for “2340.” in item for chapter 113C and “2441” for “2401” in item for chapter 118.
+1996—Pub. L. 104–294, title I, § 101(b), title VI, §§ 601(j)(2)(B), 605(c), (p)(3), Oct. 11, 1996, 110 Stat. 3491, 3501, 3509, 3510, substituted “1461” for “1460” in item for chapter 71, added item for chapter 90, and substituted “2340” for “2340.” in item for chapter 113C and “2441” for “2401” in item for chapter 118.
 
-Pub. L. 104–201, div. A, title X, § 1069(b)(4), Sept. 23, 1996, 110 Stat. 2656, inserted “and stalking” after “violence” in item for chapter 110A.
+Pub. L. 104–201, div. A, title X, § 1069(b)(4), Sept. 23, 1996, 110 Stat. 2656, inserted “and stalking” after “violence” in item for chapter 110A.
 
-Pub. L. 104–192, § 2(b), Aug. 21, 1996, 110 Stat. 2104, added item for chapter 118.
+Pub. L. 104–192, § 2(b), Aug. 21, 1996, 110 Stat. 2104, added item for chapter 118.
 
-Pub. L. 104–132, title III, § 303(c)(2), Apr. 24, 1996, 110 Stat. 1253, redesignated item 113B, relating to torture, as 113C. Pub. L. 104–294, title VI, § 601(j)(2)(A), Oct. 11, 1996, 110 Stat. 3501, which amended analysis identically, was repealed by Pub. L. 107–273, div. B., title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, effective Oct. 11, 1996.
+Pub. L. 104–132, title III, § 303(c)(2), Apr. 24, 1996, 110 Stat. 1253, redesignated item 113B, relating to torture, as 113C. Pub. L. 104–294, title VI, § 601(j)(2)(A), Oct. 11, 1996, 110 Stat. 3501, which amended analysis identically, was repealed by Pub. L. 107–273, div. B., title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, effective Oct. 11, 1996.
 
-1994—Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title by striking “kidnaping” each place it appears and inserting “kidnapping”, was executed by substituting “Kidnapping” for “Kidnaping” in item for chapter 55, to reflect the probable intent of Congress.
+1994—Pub. L. 103–322, title XXXIII, § 330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title by striking “kidnaping” each place it appears and inserting “kidnapping”, was executed by substituting “Kidnapping” for “Kidnaping” in item for chapter 55, to reflect the probable intent of Congress.
 
-Pub. L. 103–322, title IV, § 40221(b), title XII, § 120003(b)(2), title XV, § 150001(b), title XXV, § 250002(b)(1), title XXX, § 300002(b), title XXXIII, §§ 330002(g), 330011(c)(2), 330021(1), Sept. 13, 1994, 108 Stat. 1931, 2022, 2035, 2085, 2102, 2140, 2144, 2150, substituted “weapons” for “Weapons” in item for chapter 10, “kidnapping” for “kidnaping” in item for chapter 18, “470” for “471” in item for chapter 25, added item for chapter 26, substituted “700” for “701” in item for chapter 33, “kidnapping” for “kidnaping” in item for chapter 84, added items for chapters 110A and 113A and redesignated item for former chapter 113A as 113B, and added item for chapter 123.
+Pub. L. 103–322, title IV, § 40221(b), title XII, § 120003(b)(2), title XV, § 150001(b), title XXV, § 250002(b)(1), title XXX, § 300002(b), title XXXIII, §§ 330002(g), 330011(c)(2), 330021(1), Sept. 13, 1994, 108 Stat. 1931, 2022, 2035, 2085, 2102, 2140, 2144, 2150, substituted “weapons” for “Weapons” in item for chapter 10, “kidnapping” for “kidnaping” in item for chapter 18, “470” for “471” in item for chapter 25, added item for chapter 26, substituted “700” for “701” in item for chapter 33, “kidnapping” for “kidnaping” in item for chapter 84, added items for chapters 110A and 113A and redesignated item for former chapter 113A as 113B, and added item for chapter 123.
 
-Pub. L. 103–236, title V, § 506(b), Apr. 30, 1994, 108 Stat. 464, added item for chapter 113B, Torture.
+Pub. L. 103–236, title V, § 506(b), Apr. 30, 1994, 108 Stat. 464, added item for chapter 113B, Torture.
 
-1992—Pub. L. 102–572, title X, § 1003(b), Oct. 29, 1992, 106 Stat. 4524, made amendment identical to Pub. L. 101–519 in item for chapter 113A. See 1990 Amendment note below.
+1992—Pub. L. 102–572, title X, § 1003(b), Oct. 29, 1992, 106 Stat. 4524, made amendment identical to Pub. L. 101–519 in item for chapter 113A. See 1990 Amendment note below.
 
-Pub. L. 102–521, § 2(b), Oct. 25, 1992, 106 Stat. 3403, added item for chapter 11A.
+Pub. L. 102–521, § 2(b), Oct. 25, 1992, 106 Stat. 3403, added item for chapter 11A.
 
-1990—Pub. L. 101–647, title II, § 226(g)(3), Nov. 29, 1990, 104 Stat. 4808, inserted “and other abuse” after “exploitation” in item for chapter 110.
+1990—Pub. L. 101–647, title II, § 226(g)(3), Nov. 29, 1990, 104 Stat. 4808, inserted “and other abuse” after “exploitation” in item for chapter 110.
 
-Pub. L. 101–519, § 132(c), Nov. 5, 1990, 104 Stat. 2252, substituted “Terrorism” for “Extraterritorial jurisdiction over terrorist acts abroad against United States nationals” in item for chapter 113A.
+Pub. L. 101–519, § 132(c), Nov. 5, 1990, 104 Stat. 2252, substituted “Terrorism” for “Extraterritorial jurisdiction over terrorist acts abroad against United States nationals” in item for chapter 113A.
 
-Pub. L. 101–298, § 3(c), May 22, 1990, 104 Stat. 203, added item for chapter 10.
+Pub. L. 101–298, § 3(c), May 22, 1990, 104 Stat. 203, added item for chapter 10.
 
-1988—Pub. L. 100–690, title VII, § 7063, Nov. 18, 1988, 102 Stat. 4404, substituted “Bribery, graft, and conflicts of interest” for “Bribery and graft” in item for chapter 11, substituted “carrier operation under the influence of alcohol or drugs....341” for “Carrier Operation Under the Influence of Alcohol or Drugs” in item for chapter 17A, substituted “abuse” for “Abuse”, in item for chapter 109A, struck out final period and inserted “....2331” in item for chapter 113A, and substituted “wire and electronic communications and transactional records access” for “Wire and Electronic Communications and Transactional Records Access” in item for chapter 121.
+1988—Pub. L. 100–690, title VII, § 7063, Nov. 18, 1988, 102 Stat. 4404, substituted “Bribery, graft, and conflicts of interest” for “Bribery and graft” in item for chapter 11, substituted “carrier operation under the influence of alcohol or drugs....341” for “Carrier Operation Under the Influence of Alcohol or Drugs” in item for chapter 17A, substituted “abuse” for “Abuse”, in item for chapter 109A, struck out final period and inserted “....2331” in item for chapter 113A, and substituted “wire and electronic communications and transactional records access” for “Wire and Electronic Communications and Transactional Records Access” in item for chapter 121.
 
-Pub. L. 100–606, § 2(b), Nov. 4, 1988, 102 Stat. 3047, added item for chapter 50A.
+Pub. L. 100–606, § 2(b), Nov. 4, 1988, 102 Stat. 3047, added item for chapter 50A.
 
-1986—Pub. L. 99–646, § 87(c)(7), Nov. 10, 1986, 100 Stat. 3623, and Pub. L. 99–654, § 3(a)(7), Nov. 14, 1986, 100 Stat. 3663, amended analysis identically, striking out item for chapter 99 “Rape” and adding item for chapter 109A.
+1986—Pub. L. 99–646, § 87(c)(7), Nov. 10, 1986, 100 Stat. 3623, and Pub. L. 99–654, § 3(a)(7), Nov. 14, 1986, 100 Stat. 3663, amended analysis identically, striking out item for chapter 99 “Rape” and adding item for chapter 109A.
 
-Pub. L. 99–628, § 5(a)(2), Nov. 7, 1986, 100 Stat. 3511, substituted “Transportation for illegal sexual activity and related crimes” for “White slave traffic” as item for chapter 117.
+Pub. L. 99–628, § 5(a)(2), Nov. 7, 1986, 100 Stat. 3511, substituted “Transportation for illegal sexual activity and related crimes” for “White slave traffic” as item for chapter 117.
 
-Pub. L. 99–570, title I, §§ 1366(b), 1971(b), Oct. 27, 1986, 100 Stat. 3207–39, 3207–59, added items for chapters 17A and 46.
+Pub. L. 99–570, title I, §§ 1366(b), 1971(b), Oct. 27, 1986, 100 Stat. 3207–39, 3207–59, added items for chapters 17A and 46.
 
-Pub. L. 99–508, title I, § 101(c)(3), title II, § 201(b), Oct. 21, 1986, 100 Stat. 1851, 1868, inserted “and electronic communications” in item for chapter 119 and added item for chapter 121.
+Pub. L. 99–508, title I, § 101(c)(3), title II, § 201(b), Oct. 21, 1986, 100 Stat. 1851, 1868, inserted “and electronic communications” in item for chapter 119 and added item for chapter 121.
 
-Pub. L. 99–399, title XII, § 1202(b), Aug. 27, 1986, 100 Stat. 897, added item for chapter 113A.
+Pub. L. 99–399, title XII, § 1202(b), Aug. 27, 1986, 100 Stat. 897, added item for chapter 113A.
 
-1982—Pub. L. 97–285, §§ 2(d), 4(d), Oct. 6, 1982, 96 Stat. 1219, 1220, substituted “Congressional, Cabinet, and Supreme Court assassination, kidnaping, and assault” for “Congressional assassination, kidnaping, and assault” as item for chapter 18, and inserted “and Presidential staff” after “Presidential” in item for chapter 84.
+1982—Pub. L. 97–285, §§ 2(d), 4(d), Oct. 6, 1982, 96 Stat. 1219, 1220, substituted “Congressional, Cabinet, and Supreme Court assassination, kidnaping, and assault” for “Congressional assassination, kidnaping, and assault” as item for chapter 18, and inserted “and Presidential staff” after “Presidential” in item for chapter 84.
 
-1978—Pub. L. 95–575, § 2, Nov. 2, 1978, 92 Stat. 2465, added item for chapter 114.
+1978—Pub. L. 95–575, § 2, Nov. 2, 1978, 92 Stat. 2465, added item for chapter 114.
 
-Pub. L. 95–225, § 2(b), Feb. 6, 1978, 92 Stat. 8, added item for chapter 110.
+Pub. L. 95–225, § 2(b), Feb. 6, 1978, 92 Stat. 8, added item for chapter 110.
 
-1971—Pub. L. 91–644, title IV, § 17, Jan. 2, 1971, 84 Stat. 1891, added item for chapter 18.
+1971—Pub. L. 91–644, title IV, § 17, Jan. 2, 1971, 84 Stat. 1891, added item for chapter 18.
 
-1970—Pub. L. 91–513, title III, § 1101(b)(1)(B), Oct. 27, 1970, 84 Stat. 1292, struck out item for chapter 68 “Narcotics”.
+1970—Pub. L. 91–513, title III, § 1101(b)(1)(B), Oct. 27, 1970, 84 Stat. 1292, struck out item for chapter 68 “Narcotics”.
 
-Pub. L. 91–452, title IX, § 901(b), title XI, § 1102(b), Oct. 15, 1970, 84 Stat. 947, 959, added items for chapters 40 and 96.
+Pub. L. 91–452, title IX, § 901(b), title XI, § 1102(b), Oct. 15, 1970, 84 Stat. 947, 959, added items for chapters 40 and 96.
 
-1968—Pub. L. 90–351, title IV, § 905, June 19, 1968, 82 Stat. 234, added item for chapter 44.
+1968—Pub. L. 90–351, title IV, § 905, June 19, 1968, 82 Stat. 234, added item for chapter 44.
 
-Pub. L. 90–321, title II, § 202(b), May 29, 1968, 82 Stat. 162, added item for chapter 42.
+Pub. L. 90–321, title II, § 202(b), May 29, 1968, 82 Stat. 162, added item for chapter 42.
 
-Pub. L. 90–284, title I, § 104(b), title X, § 1002(b), Apr. 11, 1968, 82 Stat. 77, 92, added items for chapters 12 and 102.
+Pub. L. 90–284, title I, § 104(b), title X, § 1002(b), Apr. 11, 1968, 82 Stat. 77, 92, added items for chapters 12 and 102.
 
-1965—Pub. L. 89–141, § 3, Aug. 28, 1965, 79 Stat. 581, added item for chapter 84.
+1965—Pub. L. 89–141, § 3, Aug. 28, 1965, 79 Stat. 581, added item for chapter 84.
 
-1956—Act Aug. 1, 1956, ch. 825, § 2(a), 70 Stat. 798, substituted “Animals, Birds, Fish, and Plants” for “Animals, Birds, and Fish” in item for chapter 3.
+1956—Act Aug. 1, 1956, ch. 825, § 2(a), 70 Stat. 798, substituted “Animals, Birds, Fish, and Plants” for “Animals, Birds, and Fish” in item for chapter 3.
 
-Act July 18, 1956, ch. 629, § 202, 70 Stat. 575, added item for chapter 68.
+Act July 18, 1956, ch. 629, § 202, 70 Stat. 575, added item for chapter 68.
 
-Act July 14, 1956, ch. 595, § 2, 70 Stat. 540, added item for chapter 2.
+Act July 14, 1956, ch. 595, § 2, 70 Stat. 540, added item for chapter 2.
 
-1949—Act May 24, 1949, ch. 139, § 1, 63 Stat. 89, struck out “constituting crimes” in item for chapter 21, and added item for chapter 50.
+1949—Act May 24, 1949, ch. 139, § 1, 63 Stat. 89, struck out “constituting crimes” in item for chapter 21, and added item for chapter 50.
 
 - [CHAPTER 1—GENERAL PROVISIONS](chapter-001-general-provisions.md)
 
@@ -984,37 +984,37 @@ Act July 14, 1956, ch. 595, § 2, 70 Stat. 540, added item for chapter 2.
 
 **Amendments**
 
-2016—Pub. L. 114–316, § 2(b)(1), Dec. 16, 2016, 130 Stat. 1593, struck out “trafficking in persons” before “offenses” in item for chapter 212A.
+2016—Pub. L. 114–316, § 2(b)(1), Dec. 16, 2016, 130 Stat. 1593, struck out “trafficking in persons” before “offenses” in item for chapter 212A.
 
-Pub. L. 114–236, § 2(b), Oct. 7, 2016, 130 Stat. 967, added item for chapter 238.
+Pub. L. 114–236, § 2(b), Oct. 7, 2016, 130 Stat. 967, added item for chapter 238.
 
-2006—Pub. L. 109–164, title I, § 103(a)(2), Jan. 10, 2006, 119 Stat. 3563, added item for chapter 212A.
+2006—Pub. L. 109–164, title I, § 103(a)(2), Jan. 10, 2006, 119 Stat. 3563, added item for chapter 212A.
 
-2004—Pub. L. 108–405, title I, § 102(b), title IV, § 411(a)(2), Oct. 30, 2004, 118 Stat. 2264, 2284, added items for chapters 228A and 237.
+2004—Pub. L. 108–405, title I, § 102(b), title IV, § 411(a)(2), Oct. 30, 2004, 118 Stat. 2264, 2284, added items for chapters 228A and 237.
 
-2000—Pub. L. 106–523, § 2(b), Nov. 22, 2000, 114 Stat. 2492, added item for chapter 212.
+2000—Pub. L. 106–523, § 2(b), Nov. 22, 2000, 114 Stat. 2492, added item for chapter 212.
 
-1994—Pub. L. 103–359, title VIII, § 803(c)(1), Oct. 14, 1994, 108 Stat. 3439, substituted “terrorist acts and espionage” for “terrorists acts” in item for chapter 204.
+1994—Pub. L. 103–359, title VIII, § 803(c)(1), Oct. 14, 1994, 108 Stat. 3439, substituted “terrorist acts and espionage” for “terrorists acts” in item for chapter 204.
 
-Pub. L. 103–322, title VI, § 60002(b), Sept. 13, 1994, 108 Stat. 1968, added item for chapter 228.
+Pub. L. 103–322, title VI, § 60002(b), Sept. 13, 1994, 108 Stat. 1968, added item for chapter 228.
 
-1988—Pub. L. 100–702, title IV, § 404(a)(1), Nov. 19, 1988, 102 Stat. 4651, struck out item 237 “Rules of criminal procedure”.
+1988—Pub. L. 100–702, title IV, § 404(a)(1), Nov. 19, 1988, 102 Stat. 4651, struck out item 237 “Rules of criminal procedure”.
 
-1986—Pub. L. 99–646, § 41(d), Nov. 10, 1986, 100 Stat. 3600, struck out item for chapter 232 “Special forfeiture of collateral profits of crime” and added item for chapter 232A.
+1986—Pub. L. 99–646, § 41(d), Nov. 10, 1986, 100 Stat. 3600, struck out item for chapter 232 “Special forfeiture of collateral profits of crime” and added item for chapter 232A.
 
-Pub. L. 99–508, title III, § 301(b), Oct. 21, 1986, 100 Stat. 1872, added item for chapter 206.
+Pub. L. 99–508, title III, § 301(b), Oct. 21, 1986, 100 Stat. 1872, added item for chapter 206.
 
-1984—Pub. L. 98–533, title I, § 101(b), Oct. 19, 1984, 98 Stat. 2708, added item for chapter 204.
+1984—Pub. L. 98–533, title I, § 101(b), Oct. 19, 1984, 98 Stat. 2708, added item for chapter 204.
 
-Pub. L. 98–473, title II, §§ 203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984, 98 Stat. 1985, 2011, 2163, 2176, inserted “and detention pending judicial proceedings” in item for chapter 207, added items for chapters 224, 227, 229, 231, and 232, and struck out items for former chapters 227 “Sentence, judgment, and execution”, 229 “Fines, penalties and forfeitures” and 231 “Probation”.
+Pub. L. 98–473, title II, §§ 203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984, 98 Stat. 1985, 2011, 2163, 2176, inserted “and detention pending judicial proceedings” in item for chapter 207, added items for chapters 224, 227, 229, 231, and 232, and struck out items for former chapters 227 “Sentence, judgment, and execution”, 229 “Fines, penalties and forfeitures” and 231 “Probation”.
 
-1975—Pub. L. 93–619, title I, § 102, Jan. 3, 1975, 88 Stat. 2086, added item for chapter 208.
+1975—Pub. L. 93–619, title I, § 102, Jan. 3, 1975, 88 Stat. 2086, added item for chapter 208.
 
-1970—Pub. L. 91–452, title I, § 101(b), Oct. 15, 1970, 84 Stat. 926, added item for chapter 216.
+1970—Pub. L. 91–452, title I, § 101(b), Oct. 15, 1970, 84 Stat. 926, added item for chapter 216.
 
-1968—Pub. L. 90–578, title III, § 301(c), Oct. 17, 1968, 82 Stat. 1115, substituted “Trial by United States magistrates” for “Trial by commissioners” in item for chapter 219.
+1968—Pub. L. 90–578, title III, § 301(c), Oct. 17, 1968, 82 Stat. 1115, substituted “Trial by United States magistrates” for “Trial by commissioners” in item for chapter 219.
 
-1966—Pub. L. 89–465, § 5(e)(2), June 22, 1966, 80 Stat. 217, substituted “Release” for “Bail” in item for chapter 207.
+1966—Pub. L. 89–465, § 5(e)(2), June 22, 1966, 80 Stat. 217, substituted “Release” for “Bail” in item for chapter 207.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1090,13 +1090,13 @@ Pub. L. 98–473, title II, §§ 203(d), 212(b), 1209(a), 1406(b), Oct. 12, 19
 
 **Amendments**
 
-1990—Pub. L. 101–647, title XXXV, § 3597, Nov. 29, 1990, 104 Stat. 4931, added items 306 and 319.
+1990—Pub. L. 101–647, title XXXV, § 3597, Nov. 29, 1990, 104 Stat. 4931, added items 306 and 319.
 
-1984—Pub. L. 98–473, title II, § 218(d), Oct. 12, 1984, 98 Stat. 2027, in items 309, 311, and 314 substituted “Repealed” for “Good time allowances”, “Parole”, and “Narcotic addicts”, respectively.
+1984—Pub. L. 98–473, title II, § 218(d), Oct. 12, 1984, 98 Stat. 2027, in items 309, 311, and 314 substituted “Repealed” for “Good time allowances”, “Parole”, and “Narcotic addicts”, respectively.
 
-Pub. L. 98–473, title II, § 403(b), Oct. 12, 1984, 98 Stat. 2067, substituted “Offenders with mental disease or defect” for “Mental defectives” in item 313.
+Pub. L. 98–473, title II, § 403(b), Oct. 12, 1984, 98 Stat. 2067, substituted “Offenders with mental disease or defect” for “Mental defectives” in item 313.
 
-1966—Pub. L. 89–793, title VI, § 603, Nov. 8, 1966, 80 Stat. 1450, added item 314.
+1966—Pub. L. 89–793, title VI, § 603, Nov. 8, 1966, 80 Stat. 1450, added item 314.
 
 - [CHAPTER 301—GENERAL PROVISIONS](chapter-301-general-provisions.md)
 
@@ -1128,9 +1128,9 @@ Pub. L. 98–473, title II, § 403(b), Oct. 12, 1984, 98 Stat. 2067, substitut
 
 **Amendments**
 
-1984—Pub. L. 98–473, title II, § 218(g), Oct. 12, 1984, 98 Stat. 2027, in item for chapter 402 substituted “Repealed” for “Federal Youth Corrections Act”.
+1984—Pub. L. 98–473, title II, § 218(g), Oct. 12, 1984, 98 Stat. 2027, in item for chapter 402 substituted “Repealed” for “Federal Youth Corrections Act”.
 
-1950—Act Sept. 30, 1950, ch. 1115, § 5(a), 64 Stat. 1090, added item for chapter 402.
+1950—Act Sept. 30, 1950, ch. 1115, § 5(a), 64 Stat. 1090, added item for chapter 402.
 
 - [CHAPTER 401—GENERAL PROVISIONS](chapter-401-general-provisions.md)
 

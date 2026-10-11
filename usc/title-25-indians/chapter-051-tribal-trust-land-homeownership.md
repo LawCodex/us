@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 51—TRIBAL TRUST LAND HOMEOWNERSHIP
 
-## § 5901. Definitions
+## § 5901. Definitions
 
 In this chapter:
 
@@ -77,15 +77,15 @@ The term “right-of-way document” has the meaning given the term in section 1
 
 The term “subsequent certified title status report” means the title status report needed to identify any liens against a residential, business, or land lease on Indian land.
 
-(Pub. L. 119–88, § 2, May 4, 2026, 140 Stat. 812.)
+(Pub. L. 119–88, § 2, May 4, 2026, 140 Stat. 812.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 119–88, § 1, May 4, 2026, 140 Stat. 812, provided that: “This Act [enacting this chapter] may be cited as the ‘Tribal Trust Land Homeownership Act of 2025’.”
+Pub. L. 119–88, § 1, May 4, 2026, 140 Stat. 812, provided that: “This Act [enacting this chapter] may be cited as the ‘Tribal Trust Land Homeownership Act of 2025’.”
 
-## § 5902. Mortgage review and processing
+## § 5902. Mortgage review and processing
 
 **(a) Review and processing deadlines**
 
@@ -205,9 +205,9 @@ In submitting the report required under paragraph (1), the Director shall mainta
 
 **(2)** an estimate of the time and total cost necessary for Indian Tribes to digitize the records described in paragraph (1), in conjunction with assistance in that digitization from the Bureau.
 
-(Pub. L. 119–88, § 3, May 4, 2026, 140 Stat. 813.)
+(Pub. L. 119–88, § 3, May 4, 2026, 140 Stat. 813.)
 
-## § 5903. Establishment of Realty Ombudsman position
+## § 5903. Establishment of Realty Ombudsman position
 
 **(a) In general**
 
@@ -229,4 +229,4 @@ The Director shall establish within the Division of Real Estate Services of the 
 
 **(5)** serve as the intermediary between the Indian Tribes, members of Indian Tribes, and lenders and the Bureau in responding to inquiries and questions and resolving complaints.
 
-(Pub. L. 119–88, § 4, May 4, 2026, 140 Stat. 816.)
+(Pub. L. 119–88, § 4, May 4, 2026, 140 Stat. 816.)

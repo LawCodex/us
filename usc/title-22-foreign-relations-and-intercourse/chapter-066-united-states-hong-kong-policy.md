@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 66—UNITED STATES-HONG KONG POLICY
 
-## § 5701. Findings and declarations
+## § 5701. Findings and declarations
 
 The Congress makes the following findings and declarations:
 
@@ -41,21 +41,21 @@ The Congress makes the following findings and declarations:
 
 **(6)** The human rights of the people of Hong Kong are of great importance to the United States and are directly relevant to United States interests in Hong Kong. A fully successful transition in the exercise of sovereignty over Hong Kong must safeguard human rights in and of themselves. Human rights also serve as a basis for Hong Kong’s continued economic prosperity.
 
-(Pub. L. 102–383, § 2, Oct. 5, 1992, 106 Stat. 1448.)
+(Pub. L. 102–383, § 2, Oct. 5, 1992, 106 Stat. 1448.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–76, § 1(a), Nov. 27, 2019, 133 Stat. 1161, provided that: “This Act [enacting sections 5725 and 5726 of this title, amending section 5721 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Hong Kong Human Rights and Democracy Act of 2019’.”
+Pub. L. 116–76, § 1(a), Nov. 27, 2019, 133 Stat. 1161, provided that: “This Act [enacting sections 5725 and 5726 of this title, amending section 5721 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Hong Kong Human Rights and Democracy Act of 2019’.”
 
 **Short Title**
 
-Pub. L. 102–383, § 1, Oct. 5, 1992, 106 Stat. 1448, provided that: “This Act [enacting this chapter] may be cited as the ‘United States-Hong Kong Policy Act of 1992’.”
+Pub. L. 102–383, § 1, Oct. 5, 1992, 106 Stat. 1448, provided that: “This Act [enacting this chapter] may be cited as the ‘United States-Hong Kong Policy Act of 1992’.”
 
 **Hong Kong Autonomy**
 
-Pub. L. 116–149, July 14, 2020, 134 Stat. 663, as amended by Pub. L. 116–283, div. A, title XII, § 1252(b), Jan. 1, 2021, 134 Stat. 3954, provided that:
+Pub. L. 116–149, July 14, 2020, 134 Stat. 663, as amended by Pub. L. 116–283, div. A, title XII, § 1252(b), Jan. 1, 2021, 134 Stat. 3954, provided that:
 
 > **“SECTION 1. SHORT TITLE; TABLE OF CONTENTS.**
 
@@ -135,7 +135,7 @@ Pub. L. 116–149, July 14, 2020, 134 Stat. 663, as amended by Pub. L. 116–283
 
 > **“(ii)** expressed views on various policies for the Government of Hong Kong and other internal matters relating to Hong Kong; and
 
-> **“(iii)** on April 17, 2020, asserted that both the Liaison Office of China in Hong Kong and the Hong Kong and Macau Affairs Office of the State Council ‘have the right to exercise supervision \* \* \* on affairs regarding Hong Kong and the mainland, in order to ensure correct implementation of the Basic Law’.
+> **“(iii)** on April 17, 2020, asserted that both the Liaison Office of China in Hong Kong and the Hong Kong and Macau Affairs Office of the State Council ‘have the right to exercise supervision \* \* \* on affairs regarding Hong Kong and the mainland, in order to ensure correct implementation of the Basic Law’.
 
 > **“(D)** The National People’s Congress has passed laws requiring Hong Kong to pass laws banning disrespectful treatment of the national flag and national anthem of China.
 
@@ -461,11 +461,11 @@ Pub. L. 116–149, July 14, 2020, 134 Stat. 663, as amended by Pub. L. 116–283
 
 > “Nothing in this Act shall be construed as an authorization of military force against China.”
 
-[Pub. L. 116–283, div. A, title XII, § 1252(b)(2), Jan. 1, 2021, 134 Stat. 3954, which directed amendment of section 7(b)(7) of Pub. L. 116–149, set out above, by inserting “by any person (as defined in section 4801(8) of title 50, United States Code)” after “(in country)”, was executed by making the insertion after “(in-country)”, to reflect the probable intent of Congress.]
+[Pub. L. 116–283, div. A, title XII, § 1252(b)(2), Jan. 1, 2021, 134 Stat. 3954, which directed amendment of section 7(b)(7) of Pub. L. 116–149, set out above, by inserting “by any person (as defined in section 4801(8) of title 50, United States Code)” after “(in country)”, was executed by making the insertion after “(in-country)”, to reflect the probable intent of Congress.]
 
 **Hong Kong Human Rights and Democracy**
 
-Pub. L. 116–76, §§ 2, 3, 5–8, Nov. 27, 2019, 133 Stat. 1161, 1162, 1166–1170, as amended by Pub. L. 118–83, div. B, title I, § 113, Sept. 26, 2024, 138 Stat. 1537; Pub. L. 118–159, div. G, title LXXVIII, § 7812(g), Dec. 23, 2024, 138 Stat. 2566, provided that:
+Pub. L. 116–76, §§ 2, 3, 5–8, Nov. 27, 2019, 133 Stat. 1161, 1162, 1166–1170, as amended by Pub. L. 118–83, div. B, title I, § 113, Sept. 26, 2024, 138 Stat. 1537; Pub. L. 118–159, div. G, title LXXVIII, § 7812(g), Dec. 23, 2024, 138 Stat. 2566, provided that:
 
 > **“SEC. 2. DEFINITIONS.**
 
@@ -885,7 +885,7 @@ Notice of President of the United States, dated July 11, 2022, 87 F.R. 42057.
 
 Notice of President of the United States, dated July 7, 2021, 86 F.R. 36479.
 
-## § 5702. Definitions
+## § 5702. Definitions
 
 For purposes of this chapter—
 
@@ -895,11 +895,11 @@ For purposes of this chapter—
 
 **(3)** the term “laws of the United States” means provisions of law enacted by the Congress.
 
-(Pub. L. 102–383, § 3, Oct. 5, 1992, 106 Stat. 1449.)
+(Pub. L. 102–383, § 3, Oct. 5, 1992, 106 Stat. 1449.)
 
 ## SUBCHAPTER I—POLICY
 
-### § 5711. Bilateral ties between United States and Hong Kong
+### § 5711. Bilateral ties between United States and Hong Kong
 
 It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, should be the policy of the United States with respect to its bilateral relationship with Hong Kong:
 
@@ -915,13 +915,13 @@ It is the sense of the Congress that the following, which are based in part on t
 
 **(6)** The resumption by the People’s Republic of China of the exercise of sovereignty over Hong Kong after June 30, 1997, should not affect treatment of Hong Kong residents who apply for visas to visit or reside permanently in the United States, so long as such treatment is consistent with the Immigration and Nationality Act [8 U.S.C. 1101 et seq.].
 
-(Pub. L. 102–383, title I, § 101, Oct. 5, 1992, 106 Stat. 1449.)
+(Pub. L. 102–383, title I, § 101, Oct. 5, 1992, 106 Stat. 1449.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Immigration and Nationality Act, referred to in par. (6), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in par. (6), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -929,7 +929,7 @@ The Immigration and Nationality Act, referred to in par. (6), is act June 27, 19
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 5712. Participation in multilateral organizations, rights under international agreements, and trade status
+### § 5712. Participation in multilateral organizations, rights under international agreements, and trade status
 
 It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, should be the policy of the United States with respect to Hong Kong after June 30, 1997:
 
@@ -939,7 +939,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 **(3)** The United States should respect Hong Kong’s status as a separate customs territory, and as a WTO member country (as defined in section 3501(10) of title 19), whether or not the People’s Republic of China participates in the World Trade Organization (as defined in section 3501(8) of title 19).
 
-(Pub. L. 102–383, title I, § 102, Oct. 5, 1992, 106 Stat. 1450; Pub. L. 106–36, title I, § 1002(e), June 25, 1999, 113 Stat. 133.)
+(Pub. L. 102–383, title I, § 102, Oct. 5, 1992, 106 Stat. 1450; Pub. L. 106–36, title I, § 1002(e), June 25, 1999, 113 Stat. 133.)
 
 **Editorial Notes**
 
@@ -947,7 +947,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 1999—Par. (3). Pub. L. 106–36 substituted “WTO member country (as defined in section 3501(10) of title 19)” for “contracting party to the General Agreement on Tariffs and Trade” and “World Trade Organization (as defined in section 3501(8) of title 19)” for “latter organization”.
 
-### § 5713. Commerce between United States and Hong Kong
+### § 5713. Commerce between United States and Hong Kong
 
 It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, are and should continue after June 30, 1997, to be the policy of the United States with respect to commerce between the United States and Hong Kong:
 
@@ -973,7 +973,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 **(11)** The change in the exercise of sovereignty over Hong Kong should not affect ownership in any property, tangible or intangible, held in the United States by any Hong Kong person.
 
-(Pub. L. 102–383, title I, § 103, Oct. 5, 1992, 106 Stat. 1450; Pub. L. 105–206, title V, § 5003(b)(7), July 22, 1998, 112 Stat. 790.)
+(Pub. L. 102–383, title I, § 103, Oct. 5, 1992, 106 Stat. 1450; Pub. L. 105–206, title V, § 5003(b)(7), July 22, 1998, 112 Stat. 790.)
 
 **Editorial Notes**
 
@@ -981,7 +981,7 @@ It is the sense of the Congress that the following, which are based in part on t
 
 1998—Par. (4). Pub. L. 105–206 struck out “(commonly referred to as ‘most-favored-nation status’)” after “nondiscriminatory trade treatment”.
 
-### § 5714. Transportation
+### § 5714. Transportation
 
 It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, should be the policy of the United States after June 30, 1997, with respect to transportation from Hong Kong:
 
@@ -1001,9 +1001,9 @@ It is the sense of the Congress that the following, which are based in part on t
 
 **(8)** The United States should make every effort to ensure that the negotiations described in paragraph (7) lead to procompetitive air service agreements.
 
-(Pub. L. 102–383, title I, § 104, Oct. 5, 1992, 106 Stat. 1451.)
+(Pub. L. 102–383, title I, § 104, Oct. 5, 1992, 106 Stat. 1451.)
 
-### § 5715. Cultural and educational exchanges
+### § 5715. Cultural and educational exchanges
 
 It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, are and should continue after June 30, 1997, to be the policy of the United States with respect to cultural and educational exchanges with Hong Kong:
 
@@ -1017,11 +1017,11 @@ It is the sense of the Congress that the following, which are based in part on t
 
 **(5)** Upon the request of the Legislative Council of Hong Kong, the Librarian of Congress, acting through the Congressional Research Service, should seek to expand educational and informational ties with the Council.
 
-(Pub. L. 102–383, title I, § 105, Oct. 5, 1992, 106 Stat. 1452.)
+(Pub. L. 102–383, title I, § 105, Oct. 5, 1992, 106 Stat. 1452.)
 
 ## SUBCHAPTER II—STATUS OF HONG KONG IN UNITED STATES LAW
 
-### § 5721. Continued application of United States law
+### § 5721. Continued application of United States law
 
 **(a) In general**
 
@@ -1031,7 +1031,7 @@ Notwithstanding any change in the exercise of sovereignty over Hong Kong, the la
 
 For all purposes, including actions in any court in the United States, the Congress approves the continuation in force on and after July 1, 1997, of all treaties and other international agreements, including multilateral conventions, entered into before November 27, 2019, between the United States and Hong Kong, or entered into before November 27, 2019, between the United States and the United Kingdom and applied to Hong Kong, unless or until terminated in accordance with law. If in carrying out this subchapter, the President determines that Hong Kong is not legally competent to carry out its obligations under any such treaty or other international agreement, or that the continuation of Hong Kong’s obligations or rights under any such treaty or other international agreement is not appropriate under the circumstances, such determination shall be reported to the Congress in accordance with section 5731 of this title.
 
-(Pub. L. 102–383, title II, § 201, Oct. 5, 1992, 106 Stat. 1452; Pub. L. 116–76, § 4(a)(1), Nov. 27, 2019, 133 Stat. 1163.)
+(Pub. L. 102–383, title II, § 201, Oct. 5, 1992, 106 Stat. 1452; Pub. L. 116–76, § 4(a)(1), Nov. 27, 2019, 133 Stat. 1163.)
 
 **Editorial Notes**
 
@@ -1039,7 +1039,7 @@ For all purposes, including actions in any court in the United States, the Congr
 
 2019—Subsec. (b). Pub. L. 116–76 substituted “November 27, 2019” for “such date” in two places.
 
-### § 5722. Presidential order
+### § 5722. Presidential order
 
 **(a) Presidential determination**
 
@@ -1057,21 +1057,21 @@ Any Executive order issued under subsection (a) shall be published in the Federa
 
 An Executive order issued under subsection (a) may be terminated by the President with respect to a particular law or provision of law whenever the President determines that Hong Kong has regained sufficient autonomy to justify different treatment under the law or provision of law in question. Notice of any such termination shall be published in the Federal Register.
 
-(Pub. L. 102–383, title II, § 202, Oct. 5, 1992, 106 Stat. 1453.)
+(Pub. L. 102–383, title II, § 202, Oct. 5, 1992, 106 Stat. 1453.)
 
-### § 5723. Rules and regulations
+### § 5723. Rules and regulations
 
 The President is authorized to prescribe such rules and regulations as the President may deem appropriate to carry out this chapter.
 
-(Pub. L. 102–383, title II, § 203, Oct. 5, 1992, 106 Stat. 1453.)
+(Pub. L. 102–383, title II, § 203, Oct. 5, 1992, 106 Stat. 1453.)
 
-### § 5724. Consultation with Congress
+### § 5724. Consultation with Congress
 
 In carrying out this subchapter, the President shall consult appropriately with the Congress.
 
-(Pub. L. 102–383, title II, § 204, Oct. 5, 1992, 106 Stat. 1453.)
+(Pub. L. 102–383, title II, § 204, Oct. 5, 1992, 106 Stat. 1453.)
 
-### § 5725. Secretary of State report regarding the autonomy of Hong Kong
+### § 5725. Secretary of State report regarding the autonomy of Hong Kong
 
 **(a) Certification**
 
@@ -1147,9 +1147,9 @@ The certification under section (1) shall be issued annually, but the Secretary 
 
 Except for the list of actions described in subsection (a)(1)(C)(iii), the Secretary of State may waive relevant parts of the application of subsection (a) if the President issues an Executive order under section 5722 of this title that suspends the application of any particular United States law to Hong Kong.
 
-(Pub. L. 102–383, title II, § 205, as added Pub. L. 116–76, § 4(a)(2), Nov. 27, 2019, 133 Stat. 1163.)
+(Pub. L. 102–383, title II, § 205, as added Pub. L. 116–76, § 4(a)(2), Nov. 27, 2019, 133 Stat. 1163.)
 
-### § 5726. Treatment of Hong Kong applicants for visas to study or work in the United States
+### § 5726. Treatment of Hong Kong applicants for visas to study or work in the United States
 
 **(a) Visa eligibility for certain Hong Kong students**
 
@@ -1169,11 +1169,11 @@ Notwithstanding any other provision of law, applications for visas to enter, stu
 
 **(2)** to encourage them to take similar steps to ensure the rights of nonviolent protesters are protected from discrimination due to the actions of the Government of Hong Kong and of the Government of the People’s Republic of China.
 
-(Pub. L. 102–383, title II, § 206, as added Pub. L. 116–76, § 4(b), Nov. 27, 2019, 133 Stat. 1165.)
+(Pub. L. 102–383, title II, § 206, as added Pub. L. 116–76, § 4(b), Nov. 27, 2019, 133 Stat. 1165.)
 
 ## SUBCHAPTER III—REPORTING PROVISIONS
 
-### § 5731. Reporting requirement
+### § 5731. Reporting requirement
 
 **(a) In general** Not later than March 31, 2019, and annually thereafter through 2024, the Secretary of State shall submit to the appropriate congressional committees a report on conditions in Hong Kong of interest to the United States. This report shall cover (in the case of the initial report) the period since October 5, 1992, or (in the case of subsequent reports) the period since the most recent report pursuant to this section and shall describe—
 
@@ -1203,7 +1203,7 @@ The report required by subsection (a) shall be submitted in unclassified form an
 
 **(2)** the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives.
 
-(Pub. L. 102–383, title III, § 301, Oct. 5, 1992, 106 Stat. 1453; Pub. L. 104–107, title V, § 576(a), Feb. 12, 1996, 110 Stat. 750; Pub. L. 107–115, title V, § 586(a), Jan. 10, 2002, 115 Stat. 2173; Pub. L. 115–232, div. A, title XII, § 1256, Aug. 13, 2018, 132 Stat. 2056.)
+(Pub. L. 102–383, title III, § 301, Oct. 5, 1992, 106 Stat. 1453; Pub. L. 104–107, title V, § 576(a), Feb. 12, 1996, 110 Stat. 750; Pub. L. 107–115, title V, § 586(a), Jan. 10, 2002, 115 Stat. 2173; Pub. L. 115–232, div. A, title XII, § 1256, Aug. 13, 2018, 132 Stat. 2056.)
 
 **Editorial Notes**
 
@@ -1219,15 +1219,15 @@ The report required by subsection (a) shall be submitted in unclassified form an
 
 **Extension of Reporting Time**
 
-Pub. L. 107–115, title V, § 586(b), Jan. 10, 2002, 115 Stat. 2173, provided that: “The requirement in section 301 of the United States-Hong Kong Policy Act [22 U.S.C. 5731], as amended by subsection (a), that a report under that section shall be transmitted not later than March 31, 2001, shall be considered satisfied by the transmittal of such report by August 7, 2001.”
+Pub. L. 107–115, title V, § 586(b), Jan. 10, 2002, 115 Stat. 2173, provided that: “The requirement in section 301 of the United States-Hong Kong Policy Act [22 U.S.C. 5731], as amended by subsection (a), that a report under that section shall be transmitted not later than March 31, 2001, shall be considered satisfied by the transmittal of such report by August 7, 2001.”
 
 **Report on Sino-British Joint Declaration on Question of Hong Kong**
 
-Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 571], Sept. 30, 1996, 110 Stat. 3009–121, 3009–167, which directed that the additional report required to be submitted during 1997 under this section include detailed information on the status of, and other developments affecting, implementation of the Sino-British Joint Declaration on the Question of Hong Kong, was from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation act:
+Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 571], Sept. 30, 1996, 110 Stat. 3009–121, 3009–167, which directed that the additional report required to be submitted during 1997 under this section include detailed information on the status of, and other developments affecting, implementation of the Sino-British Joint Declaration on the Question of Hong Kong, was from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1997, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 104–107, title V, § 576(b), Feb. 12, 1996, 110 Stat. 750.
+Pub. L. 104–107, title V, § 576(b), Feb. 12, 1996, 110 Stat. 750.
 
-### § 5732. Separate part of country reports
+### § 5732. Separate part of country reports
 
 Whenever a report is transmitted to the Congress on a country-by-country basis there shall be included in such report, where applicable, a separate subreport on Hong Kong under the heading of the state that exercises sovereignty over Hong Kong. The reports to which this section applies include the reports transmitted under—
 
@@ -1235,16 +1235,16 @@ Whenever a report is transmitted to the Congress on a country-by-country basis t
 
 **(2)** section 2241 of title 19 (relating to trade barriers); and
 
-**(3)** section 4711 1
+**(3)** section 4711 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 15 (relating to economic policy and trade practices).
 
-(Pub. L. 102–383, title III, § 302, Oct. 5, 1992, 106 Stat. 1454.)
+(Pub. L. 102–383, title III, § 302, Oct. 5, 1992, 106 Stat. 1454.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4711 of title 15, referred to in par. (3), was repealed by Pub. L. 107–228, div. A, title VI, § 671(1), Sept. 30, 2002, 116 Stat. 1407.
+Section 4711 of title 15, referred to in par. (3), was repealed by Pub. L. 107–228, div. A, title VI, § 671(1), Sept. 30, 2002, 116 Stat. 1407.

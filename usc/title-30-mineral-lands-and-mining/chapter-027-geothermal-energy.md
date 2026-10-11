@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 27—GEOTHERMAL ENERGY
 
-## § 1501. Congressional statement of findings
+## § 1501. Congressional statement of findings
 
 The Congress finds that—
 
@@ -25,23 +25,23 @@ The Congress finds that—
 
 **(3)** Federal agencies should consider the use of geothermal energy in the Government’s buildings.
 
-(Pub. L. 96–294, title VI, § 602, June 30, 1980, 94 Stat. 763.)
+(Pub. L. 96–294, title VI, § 602, June 30, 1980, 94 Stat. 763.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 96–294, title VI, § 601, June 30, 1980, 94 Stat. 763, provided that: “This title [enacting this chapter and sections 1146 and 1147 of this title and amending sections 1141 and 1143 of this title and sections 796, 824a–3, 824i, and 824j of Title 16, Conservation] may be cited as the ‘Geothermal Energy Act of 1980’.”
+Pub. L. 96–294, title VI, § 601, June 30, 1980, 94 Stat. 763, provided that: “This title [enacting this chapter and sections 1146 and 1147 of this title and amending sections 1141 and 1143 of this title and sections 796, 824a–3, 824i, and 824j of Title 16, Conservation] may be cited as the ‘Geothermal Energy Act of 1980’.”
 
 ## SUBCHAPTER I—PROJECT LOANS
 
-### § 1511. Loans for geothermal reservoir confirmation
+### § 1511. Loans for geothermal reservoir confirmation
 
 **(a) Authorization; purposes**
 
-The Secretary of Energy (hereafter in this chapter referred to as the “Secretary”) is authorized to make a loan to any person, from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 1
+The Secretary of Energy (hereafter in this chapter referred to as the “Secretary”) is authorized to make a loan to any person, from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, to assist such person in undertaking and carrying out a project which (1) is designed to explore for or determine the economic viability of a geothermal reservoir and (2) consists of surface exploration and the drilling of one or more exploratory wells.
 
@@ -63,7 +63,7 @@ The Secretary may at any time cancel the unpaid balance and any accrued interest
 
 As used in this subchapter, the term “person” includes municipalities, electric cooperatives, industrial development agencies, nonprofit organizations, and Indian tribes, as well as the entities included within such term under section 1 of title 1.
 
-(Pub. L. 96–294, title VI, § 611, June 30, 1980, 94 Stat. 763.)
+(Pub. L. 96–294, title VI, § 611, June 30, 1980, 94 Stat. 763.)
 
 **Editorial Notes**
 
@@ -71,51 +71,51 @@ As used in this subchapter, the term “person” includes municipalities, elect
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title VI of Pub. L. 96–294, June 30, 1980, 94 Stat. 763, known as the Geothermal Energy Act of 1980. For complete classification of title VI to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-Section 1144 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
+Section 1144 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
 
-### § 1512. Loan size limitation
+### § 1512. Loan size limitation
 
 The amount of any loan made under section 1511(a) of this title with respect to a project described in that section shall not exceed 50 percent of the cost of such project; except that if the loan is made to a person proposing to make application of the resources of the reservoir involved primarily for space heating or cooling or process heat for one or more structures or facilities then existing or under construction, the loan may be in any amount up to 90 per centum of such cost. In any event no loan shall be made in an amount in excess of $3,000,000.
 
-(Pub. L. 96–294, title VI, § 612, June 30, 1980, 94 Stat. 764.)
+(Pub. L. 96–294, title VI, § 612, June 30, 1980, 94 Stat. 764.)
 
-### § 1513. Loan interest rates; repayment periods
+### § 1513. Loan interest rates; repayment periods
 
 **(a)** Each loan made under section 1511 of this title shall bear interest at a discount or interest rate equal to the rate in effect (at the time the loan is made) for water resources planning projects under section 80 of the Water Resources Development Act of 1974 (42 U.S.C. 1962(d)–17(a)).1
 
-<sup>1</sup>  So in original. Should be “(42 U.S.C. 1962d–17(a)).”
+<sup>1</sup> So in original. Should be “(42 U.S.C. 1962d–17(a)).”
 
 **(b)** Each such loan shall be for a term which the Secretary deems appropriate, except that no loan term shall exceed twenty years beyond the date on which production of energy or geothermal energy resources begins from the reservoir involved. If revenues are inadequate (as determined by the Secretary) to fully repay the principal and accrued interest within twenty years after production begins, any remaining unpaid amounts shall be forgiven.
 
-(Pub. L. 96–294, title VI, § 613, June 30, 1980, 94 Stat. 764.)
+(Pub. L. 96–294, title VI, § 613, June 30, 1980, 94 Stat. 764.)
 
-### § 1514. Program termination
+### § 1514. Program termination
 
 No new loans shall be made under this subchapter after September 30, 1986. Amounts repaid on or before September 30, 1986, on loans theretofore made under section 1511 of this title shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter. Amounts repaid after that date on loans theretofore made under section 1511 of this title, and amounts deposited in the Fund for purposes of this subchapter which remain in the Fund after that date and are not required to secure outstanding obligations under this subchapter, shall be deposited into the United States Treasury as miscellaneous receipts.
 
-(Pub. L. 96–294, title VI, § 614, June 30, 1980, 94 Stat. 764.)
+(Pub. L. 96–294, title VI, § 614, June 30, 1980, 94 Stat. 764.)
 
-### § 1515. Regulations
+### § 1515. Regulations
 
 The Secretary shall promulgate regulations to carry out this subchapter no later than six months after June 30, 1980.
 
-(Pub. L. 96–294, title VI, § 615, June 30, 1980, 94 Stat. 764.)
+(Pub. L. 96–294, title VI, § 615, June 30, 1980, 94 Stat. 764.)
 
-### § 1516. Authorizations
+### § 1516. Authorizations
 
 There are hereby authorized to be appropriated for loans under this subchapter not to exceed $5,000,000 for fiscal year 1981, and not to exceed $20,000,000 for each of the four succeeding fiscal years. Amounts so appropriated shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter, and shall remain available for such purposes until expended.
 
-(Pub. L. 96–294, title VI, § 616, June 30, 1980, 94 Stat. 765.)
+(Pub. L. 96–294, title VI, § 616, June 30, 1980, 94 Stat. 765.)
 
 ## SUBCHAPTER II—STUDY, ESTABLISHMENT, AND IMPLEMENTATION OF INSURANCE PROGRAM
 
-### § 1521. Reservoir insurance program study
+### § 1521. Reservoir insurance program study
 
 The Secretary shall conduct a detailed study of the need for and feasibility of establishing a reservoir insurance and reinsurance program incorporating the terms, conditions, and provisions set forth in section 1522 of this title, and shall submit to the Congress within one year after June 30, 1980, a report on the results of such study including his findings and recommendations with respect thereto.
 
-(Pub. L. 96–294, title VI, § 621, June 30, 1980, 94 Stat. 765.)
+(Pub. L. 96–294, title VI, § 621, June 30, 1980, 94 Stat. 765.)
 
-### § 1522. Establishment of program
+### § 1522. Establishment of program
 
 **(a) Authorization; requirements; scope**
 
@@ -137,7 +137,7 @@ If the report of the Secretary submitted pursuant to section 1521 of this title 
 
 **(7)** the term “person” means any public or private agency, institution, association, partnership, corporation, political subdivision, or other legal entity which is a United States citizen as determined by application of the test for United States citizenship contained in section 50501 of title 46, or in the first sentence of section 27A of the Merchant Marine Act, 1920 (46 U.S.C. 883–1(a)–(e)).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(c) Eligibility for investment insurance**
 
@@ -175,25 +175,25 @@ There may be appropriated to the Geothermal Resources Development Fund (establis
 
 The Secretary may enter into agreements to reinsure any private insurer for any risk associated with insurance for the development and utilization of a geothermal resource and associated reservoir, using the procedures set forth in subsections (c) through (i), to the extent that he deems it appropriate in order to provide an incentive for the participation of the private insurance industry in geothermal development; and he may also use any other available authority to obtain such participation. The Secretary shall submit a report to the Congress, within one year after the enactment of the law referred to in subsection (a), on the need for any additional authority to obtain such participation.
 
-(Pub. L. 96–294, title VI, § 622, June 30, 1980, 94 Stat. 765.)
+(Pub. L. 96–294, title VI, § 622, June 30, 1980, 94 Stat. 765.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 27A of the Merchant Marine Act, 1920, referred to in subsec. (b)(7), is section 27A of act June 5, 1920, ch. 250, as added Pub. L. 85–902, Sept. 2, 1958, 72 Stat. 1736, which was classified to section 883–1 of the former Appendix to Title 46, Shipping, and was repealed and restated in section 12118 of Title 46, Shipping, by Pub. L. 109–304, §§ 5, 19, Oct. 6, 2006, 120 Stat. 1491, 1710.
+Section 27A of the Merchant Marine Act, 1920, referred to in subsec. (b)(7), is section 27A of act June 5, 1920, ch. 250, as added Pub. L. 85–902, Sept. 2, 1958, 72 Stat. 1736, which was classified to section 883–1 of the former Appendix to Title 46, Shipping, and was repealed and restated in section 12118 of Title 46, Shipping, by Pub. L. 109–304, §§ 5, 19, Oct. 6, 2006, 120 Stat. 1491, 1710.
 
 This Act, referred to in subsec. (i), is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under section 8801 of Title 42, The Public Health and Welfare, and Tables.
 
-Section 1144 of this title, referred to in subsec. (j), was repealed by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
+Section 1144 of this title, referred to in subsec. (j), was repealed by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
 
 **Codification**
 
-In subsec. (b)(7), “section 50501 of title 46” substituted for “section 2(a)–(c) of the Shipping Act, 1916 (46 U.S.C. 802)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
+In subsec. (b)(7), “section 50501 of title 46” substituted for “section 2(a)–(c) of the Shipping Act, 1916 (46 U.S.C. 802)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
 
 ## SUBCHAPTER III—ESTABLISHMENT OF ASSISTANCE PROGRAM
 
-### § 1531. Feasibility study loan program
+### § 1531. Feasibility study loan program
 
 **(a) Authorization; purposes**
 
@@ -217,15 +217,15 @@ The Secretary is authorized and directed to establish a program of assistance fo
 
 Each loan made pursuant to this section shall bear interest at a discount or interest rate equal to the rate in effect (at the time the loan is made) for water resources planning projects under section 80 of the Water Resources Development Act of 1974 (42 U.S.C. 1962(d)–17(a)).1
 
-<sup>1</sup>  So in original. Should be “(42 U.S.C. 1962d–17(a)).”
+<sup>1</sup> So in original. Should be “(42 U.S.C. 1962d–17(a)).”
 
 Each loan shall be for such term as the Secretary deems appropriate, but not in excess of ten years for loans under subsection (b) or thirty years for loans under subsection (c).
 
 **(e) Funding; deposit of amount repaid**
 
-Loans pursuant to this section shall be made from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 2
+Loans pursuant to this section shall be made from funds appropriated (pursuant to this subchapter) to the Geothermal Resources Development Fund established under section 1144 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title; and amounts repaid on such loans shall be deposited in the Geothermal Resources Development Fund for purposes of this subchapter.
 
@@ -237,27 +237,27 @@ For loans under clause (A) of subsection (b)(1) for fiscal year 1981, there is a
 
 As used in this section, the term “person” includes municipalities, cooperatives, industrial development agencies, nonprofit organizations, and Indian tribes, as well as the districts referred to in subsection (a) and the other entities included within such term under section 1 of title 1.
 
-(Pub. L. 96–294, title VI, § 631, June 30, 1980, 94 Stat. 767.)
+(Pub. L. 96–294, title VI, § 631, June 30, 1980, 94 Stat. 767.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1144 of this title, referred to in subsec. (e), was repealed by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
+Section 1144 of this title, referred to in subsec. (e), was repealed by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
 
 ## SUBCHAPTER IV—FEDERAL FACILITIES
 
-### § 1541. Use of geothermal energy in Federal facilities
+### § 1541. Use of geothermal energy in Federal facilities
 
 The option of using geothermal energy or geothermal energy resources shall be considered fully in any new Federal building, facility, or installation which is located in a geothermal resource area as designated by the Secretary.
 
-(Pub. L. 96–294, title VI, § 642, June 30, 1980, 94 Stat. 769.)
+(Pub. L. 96–294, title VI, § 642, June 30, 1980, 94 Stat. 769.)
 
-### § 1542. Regulations
+### § 1542. Regulations
 
 All regulations made with respect to this subchapter shall be promulgated no later than six months after June 30, 1980.
 
-(Pub. L. 96–294, title VI, § 644, June 30, 1980, 94 Stat. 770.)
+(Pub. L. 96–294, title VI, § 644, June 30, 1980, 94 Stat. 770.)
 
 **Editorial Notes**
 

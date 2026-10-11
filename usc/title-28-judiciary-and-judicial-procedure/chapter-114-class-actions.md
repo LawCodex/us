@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 114—CLASS ACTIONS
 
-## § 1711. Definitions
+## § 1711. Definitions
 
 In this chapter:
 
@@ -31,7 +31,7 @@ In this chapter:
 
 **(6) Proposed settlement.—** The term “proposed settlement” means an agreement regarding a class action that is subject to court approval and that, if approved, would be binding on some or all class members.
 
-(Added Pub. L. 109–2, § 3(a), Feb. 18, 2005, 119 Stat. 5.)
+(Added Pub. L. 109–2, § 3(a), Feb. 18, 2005, 119 Stat. 5.)
 
 **Editorial Notes**
 
@@ -47,7 +47,7 @@ Section applicable to any civil action commenced on or after Feb. 18, 2005, see 
 
 **Findings and Purposes**
 
-Pub. L. 109–2, § 2, Feb. 18, 2005, 119 Stat. 4, provided that:
+Pub. L. 109–2, § 2, Feb. 18, 2005, 119 Stat. 4, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -85,7 +85,7 @@ Pub. L. 109–2, § 2, Feb. 18, 2005, 119 Stat. 4, provided that:
 
 > **“(3)** benefit society by encouraging innovation and lowering consumer prices.”
 
-## § 1712. Coupon settlements
+## § 1712. Coupon settlements
 
 **(a) Contingent Fees in Coupon Settlements.—** If a proposed settlement in a class action provides for a recovery of coupons to a class member, the portion of any attorney’s fee award to class counsel that is attributable to the award of the coupons shall be based on the value to class members of the coupons that are redeemed.
 
@@ -105,7 +105,7 @@ Pub. L. 109–2, § 2, Feb. 18, 2005, 119 Stat. 4, provided that:
 
 **(e) Judicial Scrutiny of Coupon Settlements.—** In a proposed settlement under which class members would be awarded coupons, the court may approve the proposed settlement only after a hearing to determine whether, and making a written finding that, the settlement is fair, reasonable, and adequate for class members. The court, in its discretion, may also require that a proposed settlement agreement provide for the distribution of a portion of the value of unclaimed coupons to 1 or more charitable or governmental organizations, as agreed to by the parties. The distribution and redemption of any proceeds under this subsection shall not be used to calculate attorneys’ fees under this section.
 
-(Added Pub. L. 109–2, § 3(a), Feb. 18, 2005, 119 Stat. 6.)
+(Added Pub. L. 109–2, § 3(a), Feb. 18, 2005, 119 Stat. 6.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,11 +113,11 @@ Pub. L. 109–2, § 2, Feb. 18, 2005, 119 Stat. 4, provided that:
 
 Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under section 1332 of this title.
 
-## § 1713. Protection against loss by class members
+## § 1713. Protection against loss by class members
 
 The court may approve a proposed settlement under which any class member is obligated to pay sums to class counsel that would result in a net loss to the class member only if the court makes a written finding that nonmonetary benefits to the class member substantially outweigh the monetary loss.
 
-(Added Pub. L. 109–2, § 3(a), Feb. 18, 2005, 119 Stat. 7.)
+(Added Pub. L. 109–2, § 3(a), Feb. 18, 2005, 119 Stat. 7.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -125,11 +125,11 @@ The court may approve a proposed settlement under which any class member is obli
 
 Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under section 1332 of this title.
 
-## § 1714. Protection against discrimination based on geographic location
+## § 1714. Protection against discrimination based on geographic location
 
 The court may not approve a proposed settlement that provides for the payment of greater sums to some class members than to others solely on the basis that the class members to whom the greater sums are to be paid are located in closer geographic proximity to the court.
 
-(Added Pub. L. 109–2, § 3(a), Feb. 18, 2005, 119 Stat. 7.)
+(Added Pub. L. 109–2, § 3(a), Feb. 18, 2005, 119 Stat. 7.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -137,7 +137,7 @@ The court may not approve a proposed settlement that provides for the payment of
 
 Section applicable to any civil action commenced on or after Feb. 18, 2005, see section 9 of Pub. L. 109–2, set out as an Effective Date of 2005 Amendment note under section 1332 of this title.
 
-## § 1715. Notifications to appropriate Federal and State officials
+## § 1715. Notifications to appropriate Federal and State officials
 
 **(a) Definitions.—**
 
@@ -197,7 +197,7 @@ Section applicable to any civil action commenced on or after Feb. 18, 2005, see 
 
 **(f) Rule of Construction.—** Nothing in this section shall be construed to expand the authority of, or impose any obligations, duties, or responsibilities upon, Federal or State officials.
 
-(Added Pub. L. 109–2, § 3(a), Feb. 18, 2005, 119 Stat. 7.)
+(Added Pub. L. 109–2, § 3(a), Feb. 18, 2005, 119 Stat. 7.)
 
 **Statutory Notes and Related Subsidiaries**
 

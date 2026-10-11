@@ -19,43 +19,43 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2009—Pub. L. 111–79, § 2(5), Oct. 19, 2009, 123 Stat. 2089, added item 3512.
+2009—Pub. L. 111–79, § 2(5), Oct. 19, 2009, 123 Stat. 2089, added item 3512.
 
-2006—Pub. L. 109–177, title I, § 115(1), Mar. 9, 2006, 120 Stat. 211, added item 3511.
+2006—Pub. L. 109–177, title I, § 115(1), Mar. 9, 2006, 120 Stat. 211, added item 3511.
 
-2002—Pub. L. 107–273, div. B, title IV, § 4002(c)(3)(B), Nov. 2, 2002, 116 Stat. 1809, struck out item 3503 “Depositions to preserve testimony”.
+2002—Pub. L. 107–273, div. B, title IV, § 4002(c)(3)(B), Nov. 2, 2002, 116 Stat. 1809, struck out item 3503 “Depositions to preserve testimony”.
 
-2000—Pub. L. 106–544, § 5(b)(2), (3), Dec. 19, 2000, 114 Stat. 2718, struck out “in Federal health care investigations” after “subpoenas” in item 3486 and struck out item 3486A “Administrative subpoenas in cases involving child abuse and child sexual exploitation”.
+2000—Pub. L. 106–544, § 5(b)(2), (3), Dec. 19, 2000, 114 Stat. 2718, struck out “in Federal health care investigations” after “subpoenas” in item 3486 and struck out item 3486A “Administrative subpoenas in cases involving child abuse and child sexual exploitation”.
 
-1998—Pub. L. 105–314, title VI, § 606(b), Oct. 30, 1998, 112 Stat. 2985, added items 3486 and 3486A and struck out former item 3486 “Authorized investigative demand procedures”.
+1998—Pub. L. 105–314, title VI, § 606(b), Oct. 30, 1998, 112 Stat. 2985, added items 3486 and 3486A and struck out former item 3486 “Authorized investigative demand procedures”.
 
-1997—Pub. L. 105–6, § 2(b), Mar. 19, 1997, 111 Stat. 12, added item 3510.
+1997—Pub. L. 105–6, § 2(b), Mar. 19, 1997, 111 Stat. 12, added item 3510.
 
-1996—Pub. L. 104–294, title VI, § 604(a)(4), Oct. 11, 1996, 110 Stat. 3506, substituted “victims’ ” for “Victims’ ” in item 3509.
+1996—Pub. L. 104–294, title VI, § 604(a)(4), Oct. 11, 1996, 110 Stat. 3506, substituted “victims’ ” for “Victims’ ” in item 3509.
 
-Pub. L. 104–191, title II, § 248(b), Aug. 21, 1996, 110 Stat. 2019, added item 3486.
+Pub. L. 104–191, title II, § 248(b), Aug. 21, 1996, 110 Stat. 2019, added item 3486.
 
-1994—Pub. L. 103–322, title XXXIII, § 330002(j), Sept. 13, 1994, 108 Stat. 2140, added item 3509.
+1994—Pub. L. 103–322, title XXXIII, § 330002(j), Sept. 13, 1994, 108 Stat. 2140, added item 3509.
 
-1988—Pub. L. 100–690, title VI, § 6484(b), Nov. 18, 1988, 102 Stat. 4384, added item 3508.
+1988—Pub. L. 100–690, title VI, § 6484(b), Nov. 18, 1988, 102 Stat. 4384, added item 3508.
 
-1984—Pub. L. 98–473, title II, § 1217(b), Oct. 12, 1984, 98 Stat. 2166, added items 3505, 3506, and 3507.
+1984—Pub. L. 98–473, title II, § 1217(b), Oct. 12, 1984, 98 Stat. 2166, added items 3505, 3506, and 3507.
 
-1970—Pub. L. 91–452, title II, § 228(b), title VI, § 601(b), title VII, § 702(b), Oct. 15, 1970, 84 Stat. 930, 935, 936, added items 3503 and 3504, and struck out item 3486 “Compelled testimony tending to incriminate witnesses; immunity”.
+1970—Pub. L. 91–452, title II, § 228(b), title VI, § 601(b), title VII, § 702(b), Oct. 15, 1970, 84 Stat. 930, 935, 936, added items 3503 and 3504, and struck out item 3486 “Compelled testimony tending to incriminate witnesses; immunity”.
 
-1968—Pub. L. 90–351, title II, § 701(b), June 19, 1968, 82 Stat. 211, added items 3501 and 3502.
+1968—Pub. L. 90–351, title II, § 701(b), June 19, 1968, 82 Stat. 211, added items 3501 and 3502.
 
 1957—Pub. L. 85–269, Sept. 2, 1957, 71 Stat. 596, added item 3500.
 
-1954—Act Aug. 20, 1954, ch. 769, § 2, 68 Stat. 746, rephrased item 3486.
+1954—Act Aug. 20, 1954, ch. 769, § 2, 68 Stat. 746, rephrased item 3486.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Protected Facilities for Housing Government Witnesses**
 
-Pub. L. 91–452, title V, §§ 501–504, Oct. 15, 1970, 84 Stat. 933, which authorized the Attorney General to provide for the security of Government witnesses and the families of Government witnesses in legal proceedings against any person alleged to have participated in an organized criminal activity, was repealed by Pub. L. 98–473, title II, § 1209(b), Oct. 12, 1984, 98 Stat. 2163, effective Oct. 1, 1984.
+Pub. L. 91–452, title V, §§ 501–504, Oct. 15, 1970, 84 Stat. 933, which authorized the Attorney General to provide for the security of Government witnesses and the families of Government witnesses in legal proceedings against any person alleged to have participated in an organized criminal activity, was repealed by Pub. L. 98–473, title II, § 1209(b), Oct. 12, 1984, 98 Stat. 2163, effective Oct. 1, 1984.
 
-## § 3481. Competency of accused
+## § 3481. Competency of accused
 
 In trial of all persons charged with the commission of offenses against the United States and in all proceedings in courts martial and courts of inquiry in any State, District, Possession or Territory, the person charged shall, at his own request, be a competent witness. His failure to make such request shall not create any presumption against him.
 
@@ -71,9 +71,9 @@ Section was rewritten without change of substance.
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–6, § 1, Mar. 19, 1997, 111 Stat. 12, provided that: “This Act [enacting section 3510 of this title, amending section 3593 of this title, and enacting provisions set out as a note under section 3510 of this title] may be cited as the ‘Victim Rights Clarification Act of 1997’.”
+Pub. L. 105–6, § 1, Mar. 19, 1997, 111 Stat. 12, provided that: “This Act [enacting section 3510 of this title, amending section 3593 of this title, and enacting provisions set out as a note under section 3510 of this title] may be cited as the ‘Victim Rights Clarification Act of 1997’.”
 
-## § 3482. Evidence and witnesses—(Rule)
+## § 3482. Evidence and witnesses—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -87,7 +87,7 @@ Competency and privileges of witnesses and admissibility of evidence governed by
 
 Rule 26 of the Federal Rules of Criminal Procedure, referred to in text, was amended in 1972. The subject matter is covered by the Federal Rules of Evidence, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 3483. Indigent defendants, process to produce evidence—(Rule)
+## § 3483. Indigent defendants, process to produce evidence—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -95,7 +95,7 @@ Subpoena for indigent defendants, motion, affidavit, costs, Rule 17(b).
 
 (June 25, 1948, ch. 645, 62 Stat. 833.)
 
-## § 3484. Subpoenas—(Rule)
+## § 3484. Subpoenas—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -115,7 +115,7 @@ Disobedience of subpoena as contempt of court, Rule 17(g).
 
 (June 25, 1948, ch. 645, 62 Stat. 833.)
 
-## § 3485. Expert witnesses—(Rule)
+## § 3485. Expert witnesses—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -129,7 +129,7 @@ Selection and appointment of expert witnesses by court or parties; compensation,
 
 Rule 28 of the Federal Rules of Criminal Procedure, referred to in text, was amended in 1972. The subject matter of this reference is covered by Federal Rules of Evidence, set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 3486. Administrative subpoenas
+## § 3486. Administrative subpoenas
 
 **(a) Authorization.—**
 
@@ -145,7 +145,7 @@ Rule 28 of the Federal Rules of Criminal Procedure, referred to in text, was ame
 
 **(iii)** an offense under section 871 or 879, or a threat against a person protected by the United States Secret Service under paragraph (5) or (6) of section 3056,1
 
-<sup>1</sup>  So in original. Probably should be section “3056(a),”.
+<sup>1</sup> So in original. Probably should be section “3056(a),”.
 
 if the Director of the Secret Service determines that the threat constituting the offense or the threat against the person protected is imminent, the Secretary of the Treasury,
 
@@ -169,7 +169,7 @@ may issue in writing and cause to be served a subpoena requiring the production 
 
 **(ii)** the term “sex offender” means an individual required to register under the Sex Offender Registration and Notification Act (42 U.S.C. 16901 et seq.).2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(2)** A subpoena under this subsection shall describe the objects required to be produced and prescribe a return date within a reasonable period of time within which the objects can be assembled and made available.
 
@@ -217,47 +217,47 @@ may issue in writing and cause to be served a subpoena requiring the production 
 
 **(3)** Upon the granting of such order, the court, in determining the extent to which any disclosure of all or any part of any record is necessary, shall impose appropriate safeguards against unauthorized disclosure.
 
-(Added Pub. L. 104–191, title II, § 248(a), Aug. 21, 1996, 110 Stat. 2018; amended Pub. L. 105–277, div. A, § 101(b) [title I, § 122], Oct. 21, 1998, 112 Stat. 2681–50, 2681–72; Pub. L. 105–314, title VI, § 606(a)(1), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 106–544, § 5(a), (b)(1), (c), Dec. 19, 2000, 114 Stat. 2716, 2718; Pub. L. 108–21, title V, § 509, Apr. 30, 2003, 117 Stat. 684; Pub. L. 110–457, title II, § 224(b), Dec. 23, 2008, 122 Stat. 5072; Pub. L. 112–206, § 4(a), Dec. 7, 2012, 126 Stat. 1492.)
+(Added Pub. L. 104–191, title II, § 248(a), Aug. 21, 1996, 110 Stat. 2018; amended Pub. L. 105–277, div. A, § 101(b) [title I, § 122], Oct. 21, 1998, 112 Stat. 2681–50, 2681–72; Pub. L. 105–314, title VI, § 606(a)(1), Oct. 30, 1998, 112 Stat. 2984; Pub. L. 106–544, § 5(a), (b)(1), (c), Dec. 19, 2000, 114 Stat. 2716, 2718; Pub. L. 108–21, title V, § 509, Apr. 30, 2003, 117 Stat. 684; Pub. L. 110–457, title II, § 224(b), Dec. 23, 2008, 122 Stat. 5072; Pub. L. 112–206, § 4(a), Dec. 7, 2012, 126 Stat. 1492.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Sex Offender Registration and Notification Act, referred to in subsec. (a)(1)(D)(ii), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsec. (a)(1)(D)(ii), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
 
 **Prior Provisions**
 
-A prior section 3486, acts June 25, 1948, ch. 645, 62 Stat. 833; Aug. 20, 1954, ch. 769, § 1, 68 Stat. 745; Aug. 28, 1965, Pub. L. 89–141, § 2, 79 Stat. 581, set forth procedure for granting of immunity to witnesses compelled to testify or produce evidence in course of any Congressional investigation, or case or proceeding before any grand jury or court of the United States, involving interference with or endangering of national security or defense of the United States, prior to repeal by Pub. L. 91–452, title II, § 228(a), Oct. 15, 1970, 84 Stat. 930, effective on sixtieth day following Oct. 15, 1970. See section 6001 et seq. of this title.
+A prior section 3486, acts June 25, 1948, ch. 645, 62 Stat. 833; Aug. 20, 1954, ch. 769, § 1, 68 Stat. 745; Aug. 28, 1965, Pub. L. 89–141, § 2, 79 Stat. 581, set forth procedure for granting of immunity to witnesses compelled to testify or produce evidence in course of any Congressional investigation, or case or proceeding before any grand jury or court of the United States, involving interference with or endangering of national security or defense of the United States, prior to repeal by Pub. L. 91–452, title II, § 228(a), Oct. 15, 1970, 84 Stat. 930, effective on sixtieth day following Oct. 15, 1970. See section 6001 et seq. of this title.
 
 **Amendments**
 
-2012—Subsec. (a)(1)(A)(ii), (iii). Pub. L. 112–206, § 4(a)(1)(A), added cl. (ii) and redesignated former cl. (ii) as (iii).
+2012—Subsec. (a)(1)(A)(ii), (iii). Pub. L. 112–206, § 4(a)(1)(A), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-Subsec. (a)(1)(D). Pub. L. 112–206, § 4(a)(1)(B), substituted “paragraph—” for “paragraph,”, inserted cl. (i) designation before “the term”, substituted “years; and” for “years.”, and added cl. (ii).
+Subsec. (a)(1)(D). Pub. L. 112–206, § 4(a)(1)(B), substituted “paragraph—” for “paragraph,”, inserted cl. (i) designation before “the term”, substituted “years; and” for “years.”, and added cl. (ii).
 
-Subsec. (a)(6)(A). Pub. L. 112–206, § 4(a)(2)(A), substituted “United States” for “United State”.
+Subsec. (a)(6)(A). Pub. L. 112–206, § 4(a)(2)(A), substituted “United States” for “United State”.
 
-Subsec. (a)(9), (10). Pub. L. 112–206, § 4(a)(2)(B), (C), substituted “(1)(A)(iii)” for “(1)(A)(ii)”.
+Subsec. (a)(9), (10). Pub. L. 112–206, § 4(a)(2)(B), (C), substituted “(1)(A)(iii)” for “(1)(A)(ii)”.
 
 2008—Subsec. (a)(1)(D). Pub. L. 110–457 inserted “1591,” after “1201,”.
 
 2003—Subsec. (a)(1)(C)(i). Pub. L. 108–21 substituted “the information specified in section 2703(c)(2)” for “the name, address, local and long distance telephone toll billing records, telephone number or other subscriber number or identity, and length of service of a subscriber to or customer of such service and the types of services the subscriber or customer utilized”.
 
-2000—Pub. L. 106–544, § 5(b)(1), struck out “in Federal health care investigations” after “subpoenas” in section catchline.
+2000—Pub. L. 106–544, § 5(b)(1), struck out “in Federal health care investigations” after “subpoenas” in section catchline.
 
-Subsec. (a)(1). Pub. L. 106–544, § 5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General’s designee may issue in writing and cause to be served a subpoena—
+Subsec. (a)(1). Pub. L. 106–544, § 5(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In any investigation relating to any act or activity involving a Federal health care offense, or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children, the Attorney General or the Attorney General’s designee may issue in writing and cause to be served a subpoena—
 
 “(A) requiring the production of any records (including any books, papers, documents, electronic media, or other objects or tangible things), which may be relevant to an authorized law enforcement inquiry, that a person or legal entity may possess or have care, custody, or control; or
 
 “(B) requiring a custodian of records to give testimony concerning the production and authentication of such records.”
 
-Subsec. (a)(3). Pub. L. 106–544, § 5(a)(2), inserted “relating to a Federal health care offense” after “production of records” and inserted at end “The production of things in any other case may be required from any place within the United States or subject to the laws or jurisdiction of the United States.”
+Subsec. (a)(3). Pub. L. 106–544, § 5(a)(2), inserted “relating to a Federal health care offense” after “production of records” and inserted at end “The production of things in any other case may be required from any place within the United States or subject to the laws or jurisdiction of the United States.”
 
-Subsec. (a)(4). Pub. L. 106–544, § 5(c)(1), substituted “subpoenaed” for “summoned”.
+Subsec. (a)(4). Pub. L. 106–544, § 5(c)(1), substituted “subpoenaed” for “summoned”.
 
-Subsec. (a)(5) to (10). Pub. L. 106–544, § 5(a)(3), added pars. (5) to (10).
+Subsec. (a)(5) to (10). Pub. L. 106–544, § 5(a)(3), added pars. (5) to (10).
 
-Subsec. (d). Pub. L. 106–544, § 5(c)(2), substituted “subpoena” for “summons” in two places.
+Subsec. (d). Pub. L. 106–544, § 5(c)(2), substituted “subpoena” for “summons” in two places.
 
 1998—Pub. L. 105–314 substituted “Administrative subpoenas in Federal health care investigations” for “Authorized investigative demand procedures” in section catchline.
 
@@ -269,19 +269,19 @@ Subsec. (a)(1). Pub. L. 105–277 inserted “or any act or activity involving a
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## [§ 3486A. Repealed. Pub. L. 106–544, § 5(b)(3), Dec. 19, 2000, 114 Stat. 2718]
+## [§ 3486A. Repealed. Pub. L. 106–544, § 5(b)(3), Dec. 19, 2000, 114 Stat. 2718]
 
-Section, added Pub. L. 105–314, title VI, § 606(a)(2), Oct. 30, 1998, 112 Stat. 2984, related to administrative subpoenas in cases involving child abuse and child sexual exploitation.
+Section, added Pub. L. 105–314, title VI, § 606(a)(2), Oct. 30, 1998, 112 Stat. 2984, related to administrative subpoenas in cases involving child abuse and child sexual exploitation.
 
-## § 3487. Refusal to pay as evidence of embezzlement
+## § 3487. Refusal to pay as evidence of embezzlement
 
 The refusal of any person, whether in or out of office, charged with the safe-keeping, transfer, or disbursement of the public money to pay any draft, order, or warrant, drawn upon him by the Government Accountability Office, for any public money in his hands belonging to the United States, no matter in what capacity the same may have been received, or may be held, or to transfer or disburse any such money, promptly, upon the legal requirement of any authorized officer, shall be deemed, upon the trial of any indictment against such person for embezzlement, prima facie evidence of such embezzlement.
 
-(June 25, 1948, ch. 645, 62 Stat. 833; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(June 25, 1948, ch. 645, 62 Stat. 833; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 180 (Mar. 4, 1909, ch. 321, § 94, 35 Stat. 1106; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
+Based on title 18, U.S.C., 1940 ed., § 180 (Mar. 4, 1909, ch. 321, § 94, 35 Stat. 1106; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
 
 “General Accounting Office” was substituted for “proper accounting officer of the Treasury”.
 
@@ -291,7 +291,7 @@ Based on title 18, U.S.C., 1940 ed., § 180 (Mar. 4, 1909, ch. 321, § 94, 3
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-## § 3488. Intoxicating liquor in Indian country as evidence of unlawful introduction
+## § 3488. Intoxicating liquor in Indian country as evidence of unlawful introduction
 
 The possession by a person of intoxicating liquors in Indian country where the introduction is prohibited by treaty or Federal statute shall be prima facie evidence of unlawful introduction.
 
@@ -299,11 +299,11 @@ The possession by a person of intoxicating liquors in Indian country where the i
 
 **Historical and Revision Notes**
 
-Based on section 245 of title 25, U.S.C., 1940 ed., Indians (May 18, 1916, ch. 125, § 1, 39 Stat. 124).
+Based on section 245 of title 25, U.S.C., 1940 ed., Indians (May 18, 1916, ch. 125, § 1, 39 Stat. 124).
 
 The only change made was the insertion of the word “Indian” before “country”, to substitute specificity for generality. (See definition of “Indian country” in section 1151 of this title.)
 
-## § 3489. Discovery and inspection—(Rule)
+## § 3489. Discovery and inspection—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -311,7 +311,7 @@ Inspection of documents and papers taken from defendant, Rule 16.
 
 (June 25, 1948, ch. 645, 62 Stat. 834.)
 
-## § 3490. Official record or entry—(Rule)
+## § 3490. Official record or entry—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -319,17 +319,17 @@ Proof of official record or entry as in civil actions, Rule 27.
 
 (June 25, 1948, ch. 645, 62 Stat. 834.)
 
-## § 3491. Foreign documents
+## § 3491. Foreign documents
 
 Any book, paper, statement, record, account, writing, or other document, or any portion thereof, of whatever character and in whatever form, as well as any copy thereof equally with the original, which is not in the United States shall, when duly certified as provided in section 3494 of this title, be admissible in evidence in any criminal action or proceeding in any court of the United States if the court shall find, from all the testimony taken with respect to such foreign document pursuant to a commission executed under section 3492 of this title, that such document (or the original thereof in case such document is a copy) satisfies the authentication requirements of the Federal Rules of Evidence, unless in the event that the genuineness of such document is denied, any party to such criminal action or proceeding making such denial shall establish to the satisfaction of the court that such document is not genuine. Nothing contained herein shall be deemed to require authentication under the provisions of section 3494 of this title of any such foreign documents which may otherwise be properly authenticated by law.
 
-(June 25, 1948, ch. 645, 62 Stat. 834; May 24, 1949, ch. 139, § 52, 63 Stat. 96; Pub. L. 88–619, § 2, Oct. 3, 1964, 78 Stat. 995; Pub. L. 94–149, § 3, Dec. 12, 1975, 89 Stat. 806.)
+(June 25, 1948, ch. 645, 62 Stat. 834; May 24, 1949, ch. 139, § 52, 63 Stat. 96; Pub. L. 88–619, § 2, Oct. 3, 1964, 78 Stat. 995; Pub. L. 94–149, § 3, Dec. 12, 1975, 89 Stat. 806.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on section 695a of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 2, 49 Stat. 1562.)
+Based on section 695a of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 2, 49 Stat. 1562.)
 
 **1949 Act**
 
@@ -349,7 +349,7 @@ The Federal Rules of Evidence, referred to in text, are set out in the Appendix 
 
 1949—Act May 24, 1949, substituted “section 1741” for “section 695e” and “section 1732” for “section 695” wherever appearing.
 
-## § 3492. Commission to consular officers to authenticate foreign documents
+## § 3492. Commission to consular officers to authenticate foreign documents
 
 **(a)** The testimony of any witness in a foreign country may be taken either on oral or written interrogatories, or on interrogatories partly oral and partly written, pursuant to a commission issued, as hereinafter provided, for the purpose of determining whether any foreign documents sought to be used in any criminal action or proceeding in any court of the United States are genuine, and whether the authentication requirements of the Federal Rules of Evidence are satisfied with respect to any such document (or the original thereof in case such document is a copy). Application for the issuance of a commission for such purpose may be made to the court in which such action or proceeding is pending by the United States or any other party thereto, after five days’ notice in writing by the applicant party, or his attorney, to the opposite party, or his attorney of record, which notice shall state the names and addresses of witnesses whose testimony is to be taken and the time when it is desired to take such testimony. In granting such application the court shall issue a commission for the purpose of taking the testimony sought by the applicant addressed to any consular officer of the United States conveniently located for the purpose. In cases of testimony taken on oral or partly oral interrogatories, the court shall make provisions in the commission for the selection as hereinafter provided of foreign counsel to represent each party (except the United States) to the criminal action or proceeding in which the foreign documents in question are to be used, unless such party has, prior to the issuance of the commission, notified the court that he does not desire the selection of foreign counsel to represent him at the time of taking of such testimony. In cases of testimony taken on written interrogatories, such provision shall be made only upon the request of any such party prior to the issuance of such commission. Selection of foreign counsel shall be made by the party whom such foreign counsel is to represent within ten days prior to the taking of testimony or by the court from which the commission issued, upon the request of such party made within such time.
 
@@ -357,13 +357,13 @@ The Federal Rules of Evidence, referred to in text, are set out in the Appendix 
 
 **(c)** The provisions of this section and sections 3493–3496 of this title applicable to consular officers shall be applicable to diplomatic officers pursuant to such regulations as may be prescribed by the President. For purposes of this section and sections 3493 through 3496 of this title, the term “consular officers” includes any United States citizen who is designated to perform notarial functions pursuant to section 1750 of the Revised Statutes, as amended (22 U.S.C. 4221).
 
-(June 25, 1948, ch. 645, 62 Stat. 834; May 24, 1949, ch. 139, § 53, 63 Stat. 96; Pub. L. 94–149, § 4, Dec. 12, 1975, 89 Stat. 806; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2222(c)(2), Oct. 21, 1998, 112 Stat. 2681–818.)
+(June 25, 1948, ch. 645, 62 Stat. 834; May 24, 1949, ch. 139, § 53, 63 Stat. 96; Pub. L. 94–149, § 4, Dec. 12, 1975, 89 Stat. 806; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2222(c)(2), Oct. 21, 1998, 112 Stat. 2681–818.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on section 695b of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 3, 49 Stat. 1562).
+Based on section 695b of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 3, 49 Stat. 1562).
 
 **1949 Act**
 
@@ -383,7 +383,7 @@ The Federal Rules of Evidence, referred to in subsec. (a), are set out in the Ap
 
 1949—Subsec. (a). Act May 24, 1949, substituted “section 1732” for “section 695”.
 
-## § 3493. Deposition to authenticate foreign documents
+## § 3493. Deposition to authenticate foreign documents
 
 The consular officer to whom any commission authorized under section 3492 of this title is addressed shall take testimony in accordance with its terms. Every person whose testimony is taken shall be cautioned and sworn to testify the whole truth and carefully examined. His testimony shall be reduced to writing or typewriting by the consular officer taking the testimony, or by some person under his personal supervision, or by the witness himself, in the presence of the consular officer and by no other person, and shall, after it has been reduced to writing or typewriting, be subscribed by the witness. Every foreign document, with respect to which testimony is taken, shall be annexed to such testimony and subscribed by each witness who appears for the purpose of establishing the genuineness of such document. When counsel for all the parties attend the examination of any witness whose testimony is to be taken on written interrogatories, they may consent that oral interrogatories in addition to those accompanying the commission may be put to the witness. The consular officer taking any testimony shall require an interpreter to be present when his services are needed or are requested by any party or his attorney.
 
@@ -391,9 +391,9 @@ The consular officer to whom any commission authorized under section 3492 of thi
 
 **Historical and Revision Notes**
 
-Based on section 695c of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 4, 49 Stat. 1563).
+Based on section 695c of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 4, 49 Stat. 1563).
 
-## § 3494. Certification of genuineness of foreign document
+## § 3494. Certification of genuineness of foreign document
 
 If the consular officer executing any commission authorized under section 3492 of this title shall be satisfied, upon all the testimony taken, that a foreign document is genuine, he shall certify such document to be genuine under the seal of his office. Such certification shall include a statement that he is not subject to disqualification under the provisions of section 3492 of this title. He shall thereupon transmit, by mail, such foreign documents, together with the record of all testimony taken and the commission which has been executed, to the clerk of the court from which such commission issued, in the manner in which his official dispatches are transmitted to the Government. The clerk receiving any executed commission shall open it and shall make any foreign documents and record of testimony, transmitted with such commission, available for inspection by the parties to the criminal action or proceeding in which such documents are to be used, and said parties shall be furnished copies of such documents free of charge.
 
@@ -401,9 +401,9 @@ If the consular officer executing any commission authorized under section 3492 o
 
 **Historical and Revision Notes**
 
-Based on section 695d of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 5, 49 Stat. 1563).
+Based on section 695d of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 5, 49 Stat. 1563).
 
-## § 3495. Fees and expenses of consuls, counsel, interpreters and witnesses
+## § 3495. Fees and expenses of consuls, counsel, interpreters and witnesses
 
 **(a)** The consular fees prescribed under section 1201 of Title 22, for official services in connection with the taking of testimony under sections 3492–3494 of this title, and the fees of any witness whose testimony is taken shall be paid by the party who applied for the commission pursuant to which such testimony was taken. Every witness under section 3493 of this title shall be entitled to receive, for each day’s attendance, fees prescribed under section 3496 of this title. Every foreign counsel selected pursuant to a commission issued on application of the United States, and every interpreter whose services are required by a consular officer under section 3493 of this title, shall be paid by the United States, such compensation, together with such personal and incidental expense upon verified statements filed with the consular officer, as he may allow. Compensation and expenses of foreign counsel selected pursuant to a commission issued on application of any party other than the United States shall be paid by the party whom such counsel represents and shall be allowed in the same manner.
 
@@ -411,13 +411,13 @@ Based on section 695d of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary
 
 **(c)** Any appropriation available for the payment of fees and costs in the case of witnesses subpenaed in behalf of the United States in criminal cases shall be available for any fees or costs which the United States is required to pay under this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 836; May 24, 1949, ch. 139, § 54, 63 Stat. 96.)
+(June 25, 1948, ch. 645, 62 Stat. 836; May 24, 1949, ch. 139, § 54, 63 Stat. 96.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on section 695f of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 7, 49 Stat. 1564).
+Based on section 695f of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 7, 49 Stat. 1564).
 
 **1949 Act**
 
@@ -433,7 +433,7 @@ Section 1201 of Title 22, referred to in subsec. (a), was transferred to section
 
 1949—Subsec. (a). Act May 24, 1949, substituted “section 1201” for “section 127”.
 
-## § 3496. Regulations by President as to commissions, fees of witnesses, counsel and interpreters
+## § 3496. Regulations by President as to commissions, fees of witnesses, counsel and interpreters
 
 The President is authorized to prescribe regulations governing the manner of executing and returning commissions by consular officers under the provisions of sections 3492–3494 of this title and schedules of fees allowable to witnesses, foreign counsel, and interpreters under section 3495 of this title.
 
@@ -441,7 +441,7 @@ The President is authorized to prescribe regulations governing the manner of exe
 
 **Historical and Revision Notes**
 
-Based on section 695g of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 8, 49 Stat. 1564).
+Based on section 695g of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (June 20, 1936, ch. 640, § 8, 49 Stat. 1564).
 
 **Executive Documents**
 
@@ -453,15 +453,15 @@ By virtue of the authority vested in me by the act of August 8, 1950, 64 Stat. 4
 
 Executive Order No. 8298 of December 4, 1939, entitled “Regulations Governing the Manner of Executing and Returning Commissions by Officers of the Foreign Service in Criminal Cases, and Schedule of Fees and Compensation in Such Cases”, is hereby revoked.
 
-## § 3497. Account as evidence of embezzlement
+## § 3497. Account as evidence of embezzlement
 
 Upon the trial of any indictment against any person for embezzling public money it shall be sufficient evidence, prima facie, for the purpose of showing a balance against such person, to produce a transcript from the books and proceedings of the Government Accountability Office.
 
-(June 25, 1948, ch. 645, 62 Stat. 836; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(June 25, 1948, ch. 645, 62 Stat. 836; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 179, 355; section 668 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (R.S. § 887; Mar. 4, 1909, ch. 321, §§ 93, 225, 35 Stat. 1105, 1133; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
+Based on title 18, U.S.C., 1940 ed., §§ 179, 355; section 668 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (R.S. § 887; Mar. 4, 1909, ch. 321, §§ 93, 225, 35 Stat. 1105, 1133; June 10, 1921, ch. 18, § 304, 42 Stat. 24).
 
 This section is a consolidation of section 179 of title 18, U.S.C., 1940 ed., with similar provisions of section 355 of title 18, U.S.C., 1940 ed., and section 668 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary, with changes of phraseology only except that “General Accounting Office” was substituted for “Treasury Department”.
 
@@ -475,7 +475,7 @@ Words in second sentence of said section 355 of title 18, U.S.C., 1940 ed., whic
 
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-## § 3498. Depositions—(Rule)
+## § 3498. Depositions—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -485,7 +485,7 @@ Subpoenas on taking depositions, Rule 17(f).
 
 (June 25, 1948, ch. 645, 62 Stat. 836.)
 
-## § 3499. Contempt of court by witness—(Rule)
+## § 3499. Contempt of court by witness—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -493,7 +493,7 @@ Disobedience of subpoena without excuse as contempt, Rule 17(g).
 
 (June 25, 1948, ch. 645, 62 Stat. 836.)
 
-## § 3500. Demands for production of statements and reports of witnesses
+## § 3500. Demands for production of statements and reports of witnesses
 
 **(a)** In any criminal prosecution brought by the United States, no statement or report in the possession of the United States which was made by a Government witness or prospective Government witness (other than the defendant) shall be the subject of subpena, discovery, or inspection until said witness has testified on direct examination in the trial of the case.
 
@@ -511,19 +511,19 @@ Disobedience of subpoena without excuse as contempt, Rule 17(g).
 
 **(3)** a statement, however taken or recorded, or a transcription thereof, if any, made by said witness to a grand jury.
 
-(Added Pub. L. 85–269, Sept. 2, 1957, 71 Stat. 595; amended Pub. L. 91–452, title I, § 102, Oct. 15, 1970, 84 Stat. 926.)
+(Added Pub. L. 85–269, Sept. 2, 1957, 71 Stat. 595; amended Pub. L. 91–452, title I, § 102, Oct. 15, 1970, 84 Stat. 926.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1970—Subsec. (a). Pub. L. 91–452, § 102(a), struck out “to an agent of the Government” after “(other than the defendant)”.
+1970—Subsec. (a). Pub. L. 91–452, § 102(a), struck out “to an agent of the Government” after “(other than the defendant)”.
 
-Subsec. (d). Pub. L. 91–452, § 102(b), substituted “subsection” for “paragraph”.
+Subsec. (d). Pub. L. 91–452, § 102(b), substituted “subsection” for “paragraph”.
 
-Subsec. (e). Pub. L. 91–452, § 102(c), (d), struck out “or” after “by him;” in par. (1), struck out “to an agent of the Government” after “said witness” in par. (2), and added par. (3).
+Subsec. (e). Pub. L. 91–452, § 102(c), (d), struck out “or” after “by him;” in par. (1), struck out “to an agent of the Government” after “said witness” in par. (2), and added par. (3).
 
-## § 3501. Admissibility of confessions
+## § 3501. Admissibility of confessions
 
 **(a)** In any criminal prosecution brought by the United States or by the District of Columbia, a confession, as defined in subsection (e) hereof, shall be admissible in evidence if it is voluntarily given. Before such confession is received in evidence, the trial judge shall, out of the presence of the jury, determine any issue as to voluntariness. If the trial judge determines that the confession was voluntarily made it shall be admitted in evidence and the trial judge shall permit the jury to hear relevant evidence on the issue of voluntariness and shall instruct the jury to give such weight to the confession as the jury feels it deserves under all the circumstances.
 
@@ -537,7 +537,7 @@ The presence or absence of any of the above-mentioned factors to be taken into c
 
 **(e)** As used in this section, the term “confession” means any confession of guilt of any criminal offense or any self-incriminating statement made or given orally or in writing.
 
-(Added Pub. L. 90–351, title II, § 701(a), June 19, 1968, 82 Stat. 210; amended Pub. L. 90–578, title III, § 301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 90–351, title II, § 701(a), June 19, 1968, 82 Stat. 210; amended Pub. L. 90–578, title III, § 301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -555,17 +555,17 @@ For information regarding the constitutionality of this section, as added by sec
 
 Words “magistrate judge” substituted for “magistrate” wherever appearing in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3502. Admissibility in evidence of eye witness testimony
+## § 3502. Admissibility in evidence of eye witness testimony
 
 The testimony of a witness that he saw the accused commit or participate in the commission of the crime for which the accused is being tried shall be admissible in evidence in a criminal prosecution in any trial court ordained and established under article III of the Constitution of the United States.
 
-(Added Pub. L. 90–351, title II, § 701(a), June 19, 1968, 82 Stat. 211.)
+(Added Pub. L. 90–351, title II, § 701(a), June 19, 1968, 82 Stat. 211.)
 
-## [§ 3503. Repealed. Pub. L. 107–273, div. B, title IV, § 4002(c)(3)(A), Nov. 2, 2002, 116 Stat. 1809]
+## [§ 3503. Repealed. Pub. L. 107–273, div. B, title IV, § 4002(c)(3)(A), Nov. 2, 2002, 116 Stat. 1809]
 
-Section, added Pub. L. 91–452, title VI, § 601(a), Oct. 15, 1970, 84 Stat. 934, related to depositions to preserve testimony.
+Section, added Pub. L. 91–452, title VI, § 601(a), Oct. 15, 1970, 84 Stat. 934, related to depositions to preserve testimony.
 
-## § 3504. Litigation concerning sources of evidence
+## § 3504. Litigation concerning sources of evidence
 
 **(a)** In any trial, hearing, or other proceeding in or before any court, grand jury, department, officer, agency, regulatory body, or other authority of the United States—
 
@@ -577,19 +577,19 @@ Section, added Pub. L. 91–452, title VI, § 601(a), Oct. 15, 1970, 84 Stat. 
 
 **(b)** As used in this section “unlawful act” means any act the use of any electronic, mechanical, or other device (as defined in section 2510(5) of this title) in violation of the Constitution or laws of the United States or any regulation or standard promulgated pursuant thereto.
 
-(Added Pub. L. 91–452, title VII, § 702(a), Oct. 15, 1970, 84 Stat. 935.)
+(Added Pub. L. 91–452, title VII, § 702(a), Oct. 15, 1970, 84 Stat. 935.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Congressional Statement of Findings**
 
-Pub. L. 91–452, title VII, § 701, Oct. 15, 1970, 84 Stat. 935, provided that: “The Congress finds that claims that evidence offered in proceedings was obtained by the exploitation of unlawful acts, and is therefore inadmissible in evidence, (1) often cannot reliably be determined when such claims concern evidence of events occurring years after the allegedly unlawful act, and (2) when the allegedly unlawful act has occurred more than five years prior to the event in question, there is virtually no likelihood that the evidence offered to prove the event has been obtained by the exploitation of that allegedly unlawful act.”
+Pub. L. 91–452, title VII, § 701, Oct. 15, 1970, 84 Stat. 935, provided that: “The Congress finds that claims that evidence offered in proceedings was obtained by the exploitation of unlawful acts, and is therefore inadmissible in evidence, (1) often cannot reliably be determined when such claims concern evidence of events occurring years after the allegedly unlawful act, and (2) when the allegedly unlawful act has occurred more than five years prior to the event in question, there is virtually no likelihood that the evidence offered to prove the event has been obtained by the exploitation of that allegedly unlawful act.”
 
 **Applicability to Proceedings**
 
-Pub. L. 91–452, title VII, § 703, Oct. 15, 1970, 84 Stat. 936, provided that: “This title [enacting this section and provisions set as notes under this section] shall apply to all proceedings, regardless of when commenced, occurring after the date of its enactment [Oct. 15, 1970]. Paragraph (3) of subsection (a) of section 3504, chapter 223, title 18, United States Code, shall not apply to any proceeding in which all information to be relied upon to establish inadmissibility was possessed by the party making such claim and adduced in such proceeding prior to such enactment.”
+Pub. L. 91–452, title VII, § 703, Oct. 15, 1970, 84 Stat. 936, provided that: “This title [enacting this section and provisions set as notes under this section] shall apply to all proceedings, regardless of when commenced, occurring after the date of its enactment [Oct. 15, 1970]. Paragraph (3) of subsection (a) of section 3504, chapter 223, title 18, United States Code, shall not apply to any proceeding in which all information to be relied upon to establish inadmissibility was possessed by the party making such claim and adduced in such proceeding prior to such enactment.”
 
-## § 3505. Foreign records of regularly conducted ac­tivity
+## § 3505. Foreign records of regularly conducted ac­tivity
 
 **(a)**
 
@@ -617,15 +617,15 @@ unless the source of information or the method or circumstances of preparation i
 
 **(3)** “business” includes business, institution, association, profession, occupation, and calling of every kind, whether or not conducted for profit.
 
-(Added Pub. L. 98–473, title II, § 1217(a), Oct. 12, 1984, 98 Stat. 2165.)
+(Added Pub. L. 98–473, title II, § 1217(a), Oct. 12, 1984, 98 Stat. 2165.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 98–473, title II, § 1220, Oct. 12, 1984, 98 Stat. 2167, provided that: “This part [part K (§§ 1217–1220) of chapter XII of title II of Pub. L. 98–473, enacting this section and sections 3292, 3506, and 3507 of this title and amending section 3161 of this title] and the amendments made by this part shall take effect thirty days after the date of the enactment of this Act [Oct. 12, 1984].”
+Pub. L. 98–473, title II, § 1220, Oct. 12, 1984, 98 Stat. 2167, provided that: “This part [part K (§§ 1217–1220) of chapter XII of title II of Pub. L. 98–473, enacting this section and sections 3292, 3506, and 3507 of this title and amending section 3161 of this title] and the amendments made by this part shall take effect thirty days after the date of the enactment of this Act [Oct. 12, 1984].”
 
-## § 3506. Service of papers filed in opposition to official request by United States to foreign government for criminal evidence
+## § 3506. Service of papers filed in opposition to official request by United States to foreign government for criminal evidence
 
 **(a)** Except as provided in subsection (b) of this section, any national or resident of the United States who submits, or causes to be submitted, a pleading or other document to a court or other authority in a foreign country in opposition to an official request for evidence of an offense shall serve such pleading or other document on the Attorney General at the time such pleading or other document is submitted.
 
@@ -633,7 +633,7 @@ Pub. L. 98–473, title II, § 1220, Oct. 12, 1984, 98 Stat. 2167, provided th
 
 **(c)** As used in this section, the term “official request” means a letter rogatory, a request under a treaty or convention, or any other request for evidence made by a court of the United States or an authority of the United States having criminal law enforcement responsibility, to a court or other authority of a foreign country.
 
-(Added Pub. L. 98–473, title II, § 1217(a), Oct. 12, 1984, 98 Stat. 2166.)
+(Added Pub. L. 98–473, title II, § 1217(a), Oct. 12, 1984, 98 Stat. 2166.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -641,11 +641,11 @@ Pub. L. 98–473, title II, § 1220, Oct. 12, 1984, 98 Stat. 2167, provided th
 
 Section effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set out as a note under section 3505 of this title.
 
-## § 3507. Special master at foreign deposition
+## § 3507. Special master at foreign deposition
 
 Upon application of a party to a criminal case, a United States district court before which the case is pending may, to the extent permitted by a foreign country, appoint a special master to carry out at a deposition taken in that country such duties as the court may direct, including presiding at the deposition or serving as an advisor on questions of United States law. Notwithstanding any other provision of law, a special master appointed under this section shall not decide questions of privilege under foreign law. The refusal of a court to appoint a special master under this section, or of the foreign country to permit a special master appointed under this section to carry out a duty at a deposition in that country, shall not affect the admissibility in evidence of a deposition taken under the provisions of the Federal Rules of Criminal Procedure.
 
-(Added Pub. L. 98–473, title II, § 1217(a), Oct. 12, 1984, 98 Stat. 2166.)
+(Added Pub. L. 98–473, title II, § 1217(a), Oct. 12, 1984, 98 Stat. 2166.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -653,7 +653,7 @@ Upon application of a party to a criminal case, a United States district court b
 
 Section effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–473, set out as a note under section 3505 of this title.
 
-## § 3508. Custody and return of foreign witnesses
+## § 3508. Custody and return of foreign witnesses
 
 **(a)** When the testimony of a person who is serving a sentence, is in pretrial detention, or is otherwise being held in custody, in a foreign country, is needed in a State or Federal criminal proceeding, the Attorney General shall, when he deems it appropriate in the exercise of his discretion, have the authority to request the temporary transfer of that person to the United States for the purposes of giving such testimony, to transport such person to the United States in custody, to maintain the custody of such person while he is in the United States, and to return such person to the foreign country.
 
@@ -661,9 +661,9 @@ Section effective 30 days after Oct. 12, 1984, see section 1220 of Pub. L. 98–
 
 **(c)** Where there is a treaty or convention between the United States and the foreign country in which the witness is being held in custody which provides for the transfer, custody and return of such witnesses, the terms and conditions of that treaty shall apply. Where there is no such treaty or convention, the Attorney General may exercise the authority described in paragraph (a) if both the foreign country and the witness give their consent.
 
-(Added Pub. L. 100–690, title VI, § 6484(a), Nov. 18, 1988, 102 Stat. 4384.)
+(Added Pub. L. 100–690, title VI, § 6484(a), Nov. 18, 1988, 102 Stat. 4384.)
 
-## § 3509. Child victims’ and child witnesses’ rights
+## § 3509. Child victims’ and child witnesses’ rights
 
 **(a) Definitions.—** For purposes of this section—
 
@@ -901,7 +901,7 @@ The defendant shall be afforded the rights applicable to defendants during trial
 
 **(3)** In any criminal proceeding, a victim, as defined under section 2259(c)(4), shall have reasonable access to any property or material that constitutes child pornography, as defined under section 2256(8), depicting the victim, for inspection, viewing, and examination at a Government facility or court, by the victim, his or her attorney, and any individual the victim may seek to qualify to furnish expert testimony, but under no circumstances may such child pornography be copied, photographed, duplicated, or otherwise reproduced. Such property or material may be redacted to protect the privacy of third parties.
 
-(Added Pub. L. 101–647, title II, § 225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, title XXXIII, §§ 330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, § 605(h), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 109–248, title V, §§ 504, 507, July 27, 2006, 120 Stat. 629, 631; Pub. L. 111–16, § 3(11), May 7, 2009, 123 Stat. 1608; Pub. L. 115–299, § 6, Dec. 7, 2018, 132 Stat. 4388.)
+(Added Pub. L. 101–647, title II, § 225(a), Nov. 29, 1990, 104 Stat. 4798; amended Pub. L. 103–322, title XXXIII, §§ 330010(6), (7), 330011(e), 330018(b), Sept. 13, 1994, 108 Stat. 2143, 2145, 2149; Pub. L. 104–294, title VI, § 605(h), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 109–248, title V, §§ 504, 507, July 27, 2006, 120 Stat. 629, 631; Pub. L. 111–16, § 3(11), May 7, 2009, 123 Stat. 1608; Pub. L. 115–299, § 6, Dec. 7, 2018, 132 Stat. 4388.)
 
 **Editorial Notes**
 
@@ -917,23 +917,23 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (f) and (m)(2)(
 
 2009—Subsec. (b)(1)(A). Pub. L. 111–16 substituted “7 days” for “5 days”.
 
-2006—Subsec. (h)(1). Pub. L. 109–248, § 507, inserted “, and provide reasonable compensation and payment of expenses for,” after “The court may appoint”.
+2006—Subsec. (h)(1). Pub. L. 109–248, § 507, inserted “, and provide reasonable compensation and payment of expenses for,” after “The court may appoint”.
 
-Subsec. (m). Pub. L. 109–248, § 504, added subsec. (m).
+Subsec. (m). Pub. L. 109–248, § 504, added subsec. (m).
 
-1996—Subsec. (e). Pub. L. 104–294, § 605(h)(1), substituted “serve the Government’s” for “serve the government’s”.
+1996—Subsec. (e). Pub. L. 104–294, § 605(h)(1), substituted “serve the Government’s” for “serve the government’s”.
 
-Subsec. (h)(3). Pub. L. 104–294, § 605(h)(2), substituted “in paragraph (2)” for “in subpart (2)”.
+Subsec. (h)(3). Pub. L. 104–294, § 605(h)(2), substituted “in paragraph (2)” for “in subpart (2)”.
 
-1994—Pub. L. 103–322, § 330011(e), made technical amendment to directory language of Pub. L. 101–647, § 225(a), which enacted this section.
+1994—Pub. L. 103–322, § 330011(e), made technical amendment to directory language of Pub. L. 101–647, § 225(a), which enacted this section.
 
-Pub. L. 103–322, § 330010(7)(B), substituted “Government” for “government” in subsecs. (b)(1)(A), (D), (2)(A), and (c)(5)(B), in subsec. (d)(1)(B)(i) after “hired by the”, and in subsec. (g)(1).
+Pub. L. 103–322, § 330010(7)(B), substituted “Government” for “government” in subsecs. (b)(1)(A), (D), (2)(A), and (c)(5)(B), in subsec. (d)(1)(B)(i) after “hired by the”, and in subsec. (g)(1).
 
-Pub. L. 103–322, § 330010(7)(A), substituted “subsection” for “subdivision” in subsecs. (b)(1)(A), (D)(i), (2)(A), (B)(iii)(III), (c)(1), (d)(4), and (f).
+Pub. L. 103–322, § 330010(7)(A), substituted “subsection” for “subdivision” in subsecs. (b)(1)(A), (D)(i), (2)(A), (B)(iii)(III), (c)(1), (d)(4), and (f).
 
-Subsec. (a)(11) to (13). Pub. L. 103–322, § 330010(6), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “the term ‘exploitation’ means child pornography or child prostitution;”.
+Subsec. (a)(11) to (13). Pub. L. 103–322, § 330010(6), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “the term ‘exploitation’ means child pornography or child prostitution;”.
 
-Subsec. (k). Pub. L. 103–322, § 330018(b), substituted heading for one which read “Extension of Child Statute of Limitations” and struck out first sentence which read as follows: “No statute of limitation that would otherwise preclude prosecution for an offense involving the sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years.”
+Subsec. (k). Pub. L. 103–322, § 330018(b), substituted heading for one which read “Extension of Child Statute of Limitations” and struck out first sentence which read as follows: “No statute of limitation that would otherwise preclude prosecution for an offense involving the sexual or physical abuse of a child under the age of 18 years shall preclude such prosecution before the child reaches the age of 25 years.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -943,9 +943,9 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330011(e), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 225(a) of Pub. L. 101–647 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(e), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of the date on which section 225(a) of Pub. L. 101–647 took effect.
 
-## § 3510. Rights of victims to attend and observe trial
+## § 3510. Rights of victims to attend and observe trial
 
 **(a) Non-Capital Cases.—** Notwithstanding any statute, rule, or other provision of law, a United States district court shall not order any victim of an offense excluded from the trial of a defendant accused of that offense because such victim may, during the sentencing hearing, make a statement or present any information in relation to the sentence.
 
@@ -953,7 +953,7 @@ Pub. L. 103–322, title XXXIII, § 330011(e), Sept. 13, 1994, 108 Stat. 2145,
 
 **(c) Definition.—** As used in this section, the term “victim” includes all persons defined as victims in section 503(e)(2) of the Victims’ Rights and Restitution Act of 1990.
 
-(Added Pub. L. 105–6, § 2(a), Mar. 19, 1997, 111 Stat. 12.)
+(Added Pub. L. 105–6, § 2(a), Mar. 19, 1997, 111 Stat. 12.)
 
 **Editorial Notes**
 
@@ -965,9 +965,9 @@ Section 503(e)(2) of the Victims’ Rights and Restitution Act of 1990, referred
 
 **Effective Date**
 
-Pub. L. 105–6, § 2(d), Mar. 19, 1997, 111 Stat. 13, provided that: “The amendments made by this section [enacting this section and amending section 3593 of this title] shall apply in cases pending on the date of the enactment of this Act [Mar. 19, 1997].”
+Pub. L. 105–6, § 2(d), Mar. 19, 1997, 111 Stat. 13, provided that: “The amendments made by this section [enacting this section and amending section 3593 of this title] shall apply in cases pending on the date of the enactment of this Act [Mar. 19, 1997].”
 
-## § 3511. Judicial review of requests for information
+## § 3511. Judicial review of requests for information
 
 **(a)** The recipient of a request for records, a report, or other information under section 2709(b) of this title, section 626(a) or (b) or 627(a) of the Fair Credit Reporting Act, section 1114(a)(5)(A) of the Right to Financial Privacy Act, or section 802(a) of the National Security Act of 1947 may, in the United States district court for the district in which that person or entity does business or resides, petition for an order modifying or setting aside the request. The court may modify or set aside the request if compliance would be unreasonable, oppressive, or otherwise unlawful.
 
@@ -1007,7 +1007,7 @@ Pub. L. 105–6, § 2(d), Mar. 19, 1997, 111 Stat. 13, provided that: “The a
 
 **(e)** In all proceedings under this section, the court shall, upon request of the government, review ex parte and in camera any government submission or portions thereof, which may include classified information.
 
-(Added Pub. L. 109–177, title I, § 115(2), Mar. 9, 2006, 120 Stat. 211; amended Pub. L. 114–23, title V, § 502(g), June 2, 2015, 129 Stat. 288.)
+(Added Pub. L. 109–177, title I, § 115(2), Mar. 9, 2006, 120 Stat. 211; amended Pub. L. 114–23, title V, § 502(g), June 2, 2015, 129 Stat. 288.)
 
 **Editorial Notes**
 
@@ -1027,7 +1027,7 @@ Section 802(a) of the National Security Act of 1947, referred to in subsecs. (a)
 
 **Reports on National Security Letters**
 
-Pub. L. 109–177, title I, § 118, Mar. 9, 2006, 120 Stat. 217, as amended by Pub. L. 114–23, title VI, § 602(c), June 2, 2015, 129 Stat. 294, provided that:
+Pub. L. 109–177, title I, § 118, Mar. 9, 2006, 120 Stat. 217, as amended by Pub. L. 114–23, title VI, § 602(c), June 2, 2015, 129 Stat. 294, provided that:
 
 > **“(a) Existing Reports.—** Any report made to a committee of Congress regarding national security letters under section 2709(c)(1) of title 18, United States Code, section 626(d) or 627(c) of the Fair Credit Reporting Act (15 U.S.C. 1681u(d) or 1681v(c)), section 1114(a)(3) or 1114(a)(5)(D) of the Right to Financial Privacy Act [of 1978] (12 U.S.C. 3414(a)(3) or 3414(a)(5)(D)), or section 802(b) of the National Security Act of 1947 (50 U.S.C. 436(b) [now 50 U.S.C. 3162(b)]) shall also be made to the Committees on the Judiciary of the House of Representatives and the Senate.
 
@@ -1073,7 +1073,7 @@ Pub. L. 109–177, title I, § 118, Mar. 9, 2006, 120 Stat. 217, as amended by
 
 > **“(5)** Section 627 of the Fair Credit Reporting Act (15 U.S.C. 1681v) (to obtain credit agency consumer records for counterterrorism investigations).”
 
-## § 3512. Foreign requests for assistance in criminal investigations and prosecutions
+## § 3512. Foreign requests for assistance in criminal investigations and prosecutions
 
 **(a) Execution of Request for Assistance.—**
 
@@ -1123,7 +1123,7 @@ Pub. L. 109–177, title I, § 118, Mar. 9, 2006, 120 Stat. 217, as amended by
 
 **(2) Foreign authority.—** The term “foreign authority” means a foreign judicial authority, a foreign authority responsible for the investigation or prosecution of criminal offenses or for proceedings related to the prosecution of criminal offenses, or an authority designated as a competent authority or central authority for the purpose of making requests for assistance pursuant to an agreement or treaty with the United States regarding assistance in criminal matters.
 
-(Added Pub. L. 111–79, § 2(4), Oct. 19, 2009, 123 Stat. 2087.)
+(Added Pub. L. 111–79, § 2(4), Oct. 19, 2009, 123 Stat. 2087.)
 
 **Editorial Notes**
 

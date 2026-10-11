@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior analysis for chapter 3 “COMPOSITION AND ORGANIZATION”consisted of items 301 “Grades and ratings”, 302 “Commandant; appointment”, 303 “Retirement of Commandant or Vice Commandant”, 304 “Vice Commandant; appointment”, 305 “Vice admirals”, 306 “Retirement”, 307 “Vice admirals and admiral, continuity of grade”, 308 “Chief Acquisition Officer”, 309 “Office of the Coast Guard Reserve; Director”, 310 “Chief of Staff to President: appointment”, 311 “Captains of the port”, 312 “Prevention and response workforces”, 313 “Centers of expertise for Coast Guard prevention and response”, 314 “Marine industry training program”, 315 “Training for congressional affairs personnel”, 316 “National Coast Guard Museum”, 317 “United States Coast Guard Band; composition; director”, 318 “Environmental Compliance and Restoration Program”, 319 “Unmanned system program and autonomous control and computer vision technology project, 320 “Coast Guard Junior Reserve Officers’ Training Corps”, 321 “Congressional affairs; Director”, 322 “Redistricting notification requirement”, and 323 “Western Alaska Oil Spill Planning Criteria Program”, prior to repeal by Pub. L. 119–60, div. G, title LXXII, § 7201(a), Dec. 18, 2025, 139 Stat. 1674.
+A prior analysis for chapter 3 “COMPOSITION AND ORGANIZATION”consisted of items 301 “Grades and ratings”, 302 “Commandant; appointment”, 303 “Retirement of Commandant or Vice Commandant”, 304 “Vice Commandant; appointment”, 305 “Vice admirals”, 306 “Retirement”, 307 “Vice admirals and admiral, continuity of grade”, 308 “Chief Acquisition Officer”, 309 “Office of the Coast Guard Reserve; Director”, 310 “Chief of Staff to President: appointment”, 311 “Captains of the port”, 312 “Prevention and response workforces”, 313 “Centers of expertise for Coast Guard prevention and response”, 314 “Marine industry training program”, 315 “Training for congressional affairs personnel”, 316 “National Coast Guard Museum”, 317 “United States Coast Guard Band; composition; director”, 318 “Environmental Compliance and Restoration Program”, 319 “Unmanned system program and autonomous control and computer vision technology project, 320 “Coast Guard Junior Reserve Officers’ Training Corps”, 321 “Congressional affairs; Director”, 322 “Redistricting notification requirement”, and 323 “Western Alaska Oil Spill Planning Criteria Program”, prior to repeal by Pub. L. 119–60, div. G, title LXXII, § 7201(a), Dec. 18, 2025, 139 Stat. 1674.
 
-Another prior analysis for chapter 3 “COMPOSITION AND ORGANIZATION” consisted of items 41 “Grades and ratings”, 41a “Active duty promotion list”, 42 “Number and distribution of commissioned officers on active duty promotion list”, 44 “Commandant; appointment”, 46 “Retirement of Commandant or Vice Commandant”, 47 “Vice Commandant; appointment”, 50 “Vice admirals”, 51 “Retirement”, 52 “Vice admirals and admiral, continuity of grade”, 53 “Office of the Coast Guard Reserve; Director”, 54 “Chief of Staff to President: appointment”, 56 “Chief Acquisition Officer”, 57 “Prevention and response workforces”, 58 “Centers of expertise for Coast Guard prevention and response”, 59 “Marine industry training programs”, and 60 “Training course on workings of Congress”, prior to repeal by Pub. L. 115–282, title I, § 104(a), Dec. 4, 2018, 132 Stat. 4196.
+Another prior analysis for chapter 3 “COMPOSITION AND ORGANIZATION” consisted of items 41 “Grades and ratings”, 41a “Active duty promotion list”, 42 “Number and distribution of commissioned officers on active duty promotion list”, 44 “Commandant; appointment”, 46 “Retirement of Commandant or Vice Commandant”, 47 “Vice Commandant; appointment”, 50 “Vice admirals”, 51 “Retirement”, 52 “Vice admirals and admiral, continuity of grade”, 53 “Office of the Coast Guard Reserve; Director”, 54 “Chief of Staff to President: appointment”, 56 “Chief Acquisition Officer”, 57 “Prevention and response workforces”, 58 “Centers of expertise for Coast Guard prevention and response”, 59 “Marine industry training programs”, and 60 “Training course on workings of Congress”, prior to repeal by Pub. L. 115–282, title I, § 104(a), Dec. 4, 2018, 132 Stat. 4196.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. G, title LXXII, § 7201(e)(4), Dec. 18, 2025, 139 Stat. 1678, which directed substitution of “Admirals” for “Admiral” in item 307, was executed by substituting “admirals” for “admiral” after “and”, to reflect the probable intent of Congress. Amendment was made pursuant to operation of section 107 of this title.
+2025—Pub. L. 119–60, div. G, title LXXII, § 7201(e)(4), Dec. 18, 2025, 139 Stat. 1678, which directed substitution of “Admirals” for “Admiral” in item 307, was executed by substituting “admirals” for “admiral” after “and”, to reflect the probable intent of Congress. Amendment was made pursuant to operation of section 107 of this title.
 
-2025—Pub. L. 119–60, div. G, title LXXII, § 7201(a), Dec. 18, 2025, 139 Stat. 1674, inserted chapter 3 designation and heading and added items for subchapters I to III and items 301 to 339.
+2025—Pub. L. 119–60, div. G, title LXXII, § 7201(a), Dec. 18, 2025, 139 Stat. 1674, inserted chapter 3 designation and heading and added items for subchapters I to III and items 301 to 339.
 
 ## SUBCHAPTER I—ORGANIZATION
 
@@ -35,9 +35,9 @@ Another prior analysis for chapter 3 “COMPOSITION AND ORGANIZATION” consiste
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. G, title LXXII, § 7201(c)(1), Dec. 18, 2025, 139 Stat. 1677, inserted subchapter I designation and heading.
+2025—Pub. L. 119–60, div. G, title LXXII, § 7201(c)(1), Dec. 18, 2025, 139 Stat. 1677, inserted subchapter I designation and heading.
 
-### § 301. Grades and ratings
+### § 301. Grades and ratings
 
 **(a) In General.—** In the Coast Guard, there shall be—
 
@@ -71,13 +71,13 @@ Another prior analysis for chapter 3 “COMPOSITION AND ORGANIZATION” consiste
 
 **(b) Enlisted Members.—** Enlisted members shall be distributed in ratings established by the Secretary.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 497, § 41; Aug. 10, 1956, ch. 1041, §§ 6, 53, 70A Stat. 620, 679; Pub. L. 86–474, § 1(1), May 14, 1960, 74 Stat. 144; Pub. L. 92–451, § 1(1), Oct. 2, 1972, 86 Stat. 755; Pub. L. 97–417, § 2(1), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 98–557, § 15(a)(3)(B), (C), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–145, title V, § 514(a)(2), Nov. 8, 1985, 99 Stat. 628; Pub. L. 103–337, div. A, title V, § 541(f)(4), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 114–120, title II, § 201(a), Feb. 8, 2016, 130 Stat. 33; renumbered § 301, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 119–60, div. G, title LXXII, § 7201(b), (e)(1), Dec. 18, 2025, 139 Stat. 1675, 1678.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 497, § 41; Aug. 10, 1956, ch. 1041, §§ 6, 53, 70A Stat. 620, 679; Pub. L. 86–474, § 1(1), May 14, 1960, 74 Stat. 144; Pub. L. 92–451, § 1(1), Oct. 2, 1972, 86 Stat. 755; Pub. L. 97–417, § 2(1), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 98–557, § 15(a)(3)(B), (C), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–145, title V, § 514(a)(2), Nov. 8, 1985, 99 Stat. 628; Pub. L. 103–337, div. A, title V, § 541(f)(4), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 114–120, title II, § 201(a), Feb. 8, 2016, 130 Stat. 33; renumbered § 301, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 119–60, div. G, title LXXII, § 7201(b), (e)(1), Dec. 18, 2025, 139 Stat. 1675, 1678.)
 
 **Historical and Revision Notes**
 
 **1949 Act**
 
-Based on title 14, U.S.C., 1946 ed., §§ 5, 9, 21 (Apr. 12, 1902, ch. 501, § 1, 32 Stat. 100; Jan. 28, 1915, ch. 20, § 2, 38 Stat. 801; May 18, 1920, ch. 190, § 8, 41 Stat. 603; June 5, 1920, ch. 235, § 1, 41 Stat. 879; Jan. 12, 1923, ch. 25, §§ 1, 2, 42 Stat. 1130; July 3, 1926, ch. 742, §§ 3, 9, 10, 44 Stat. 815, 817).
+Based on title 14, U.S.C., 1946 ed., §§ 5, 9, 21 (Apr. 12, 1902, ch. 501, § 1, 32 Stat. 100; Jan. 28, 1915, ch. 20, § 2, 38 Stat. 801; May 18, 1920, ch. 190, § 8, 41 Stat. 603; June 5, 1920, ch. 235, § 1, 41 Stat. 879; Jan. 12, 1923, ch. 25, §§ 1, 2, 42 Stat. 1130; July 3, 1926, ch. 742, §§ 3, 9, 10, 44 Stat. 815, 817).
 
 The grades of vice admiral and rear admiral are added to make provision for the commissioned officer personnel structure of the service as provided for in this revision. The entire rating structure for enlisted men is left to the administrative discretion of the Secretary, as in the past, for reasons of flexibility.
 
@@ -89,19 +89,19 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 41 | 14:41. 34:135a(a) (less last sentence, as applicable to temporary appointments). | Aug. 4, 1949, ch. 393, § 1(41), 63 Stat. 497. May 29, 1954, ch. 249, § 3(a) (less 3d and last sentences, as applicable to temporary appointments), 68 Stat. 157. |
+| 41 | 14:41. 34:135a(a) (less last sentence, as applicable to temporary appointments). | Aug. 4, 1949, ch. 393, § 1(41), 63 Stat. 497. May 29, 1954, ch. 249, § 3(a) (less 3d and last sentences, as applicable to temporary appointments), 68 Stat. 157. |
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 301, act Aug. 4, 1949, ch. 393, 63 Stat. 518, related to permanent appointment of warrant officers, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177. See section 571 et seq. of Title 10, Armed Forces.
+A prior section 301, act Aug. 4, 1949, ch. 393, 63 Stat. 518, related to permanent appointment of warrant officers, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177. See section 571 et seq. of Title 10, Armed Forces.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 7201(e)(1), amended section generally. Prior to amendment, text read as follows: “In the Coast Guard there shall be admirals (two); vice admirals; rear admirals; rear admirals (lower half); captains; commanders; lieutenant commanders; lieutenants; lieutenants (junior grade); ensigns; chief warrant officers; cadets; warrant officers; and enlisted members. Enlisted members shall be distributed in ratings established by the Secretary.”
+2025—Pub. L. 119–60, § 7201(e)(1), amended section generally. Prior to amendment, text read as follows: “In the Coast Guard there shall be admirals (two); vice admirals; rear admirals; rear admirals (lower half); captains; commanders; lieutenant commanders; lieutenants; lieutenants (junior grade); ensigns; chief warrant officers; cadets; warrant officers; and enlisted members. Enlisted members shall be distributed in ratings established by the Secretary.”
 
-Pub. L. 119–60, § 7201(b), renumbered section 301 of this title as this section, resulting in no change.
+Pub. L. 119–60, § 7201(b), renumbered section 301 of this title as this section, resulting in no change.
 
 2018—Pub. L. 115–282 renumbered section 41 of this title as this section.
 
@@ -137,13 +137,13 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. G, title LXXII, § 7201(c)(2), Dec. 18, 2025, 139 Stat. 1677, inserted subchapter II designation and heading. Heading was editorially conformed to the style used in this title.
+2025—Pub. L. 119–60, div. G, title LXXII, § 7201(c)(2), Dec. 18, 2025, 139 Stat. 1677, inserted subchapter II designation and heading. Heading was editorially conformed to the style used in this title.
 
-### § 302. Commandant; appointment
+### § 302. Commandant; appointment
 
-**(a) appointment.—**  1
+**(a) appointment.—** 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 The President may appoint, by and with the advice and consent of the Senate, one Commandant for a period of four years, who shall act as Chief of the Coast Guard.
 
@@ -153,11 +153,11 @@ The President may appoint, by and with the advice and consent of the Senate, one
 
 **(d) Grade.—** The Commandant while so serving shall have the grade of admiral.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 498, § 44; Pub. L. 86–474, § 1(3), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, § 1(3), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, § 1(3), June 9, 1966, 80 Stat. 195; Pub. L. 92–451, § 1(3), Oct. 2, 1972, 86 Stat. 755; Pub. L. 113–281, title II, § 202, Dec. 18, 2014, 128 Stat. 3024; renumbered § 302, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 119–60, div. G, title LXXII, § 7201(b), (e)(2), Dec. 18, 2025, 139 Stat. 1675, 1678.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 498, § 44; Pub. L. 86–474, § 1(3), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, § 1(3), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, § 1(3), June 9, 1966, 80 Stat. 195; Pub. L. 92–451, § 1(3), Oct. 2, 1972, 86 Stat. 755; Pub. L. 113–281, title II, § 202, Dec. 18, 2014, 128 Stat. 3024; renumbered § 302, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 119–60, div. G, title LXXII, § 7201(b), (e)(2), Dec. 18, 2025, 139 Stat. 1675, 1678.)
 
 **Historical and Revision Notes**
 
-Based on title 14, U.S.C., 1946 ed., § 11 (Apr. 16, 1908, ch. 145, §§ 1, 2, 35 Stat. 61; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800; Jan. 12, 1923, ch. 25, § 2, 42 Stat. 1130; Apr. 23, 1930, ch. 211, 46 Stat. 253; June 9, 1937, ch. 309, § 1, 50 Stat. 252; June 6, 1940, ch. 257, § 1(a), 54 Stat. 246).
+Based on title 14, U.S.C., 1946 ed., § 11 (Apr. 16, 1908, ch. 145, §§ 1, 2, 35 Stat. 61; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800; Jan. 12, 1923, ch. 25, § 2, 42 Stat. 1130; Apr. 23, 1930, ch. 211, 46 Stat. 253; June 9, 1937, ch. 309, § 1, 50 Stat. 252; June 6, 1940, ch. 257, § 1(a), 54 Stat. 246).
 
 Said section has been divided. The provisions of the first proviso are placed in section 45 of this title, and the remainder is placed in this section.
 
@@ -167,23 +167,23 @@ The grade of the Commandant is fixed as vice admiral rather than that prescribed
 
 **Codification**
 
-Pub. L. 119–60, § 7201(e)(2), which directed amendment of section 303 of this title, was executed to this section to reflect the probable intent of Congress. See 2025 Amendment notes below.
+Pub. L. 119–60, § 7201(e)(2), which directed amendment of section 303 of this title, was executed to this section to reflect the probable intent of Congress. See 2025 Amendment notes below.
 
 **Prior Provisions**
 
-A prior section 302, act Aug. 4, 1949, ch. 393, 63 Stat. 518, related to temporary appointments of warrant officers, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 302, act Aug. 4, 1949, ch. 393, 63 Stat. 518, related to temporary appointments of warrant officers, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 7201(b), renumbered section 302 of this title as this section, resulting in no change.
+2025—Pub. L. 119–60, § 7201(b), renumbered section 302 of this title as this section, resulting in no change.
 
-Subsec. (a). Pub. L. 119–60, § 7201(e)(2)(A), (B), designated first sentence of existing provisions as subsec. (a), inserted heading, and struck out “ ,who may be reappointed for further periods of four years” after “period of four years”. See Codification note above.
+Subsec. (a). Pub. L. 119–60, § 7201(e)(2)(A), (B), designated first sentence of existing provisions as subsec. (a), inserted heading, and struck out “ ,who may be reappointed for further periods of four years” after “period of four years”. See Codification note above.
 
-Subsec. (b). Pub. L. 119–60, § 7201(e)(2)(C), which directed adding subsec. (b) after “Chief of the Coast Guard”, was executed by adding subsec. (b) after the period following “Chief of the Coast Guard” to reflect the probable intent of Congress. See Codification note above.
+Subsec. (b). Pub. L. 119–60, § 7201(e)(2)(C), which directed adding subsec. (b) after “Chief of the Coast Guard”, was executed by adding subsec. (b) after the period following “Chief of the Coast Guard” to reflect the probable intent of Congress. See Codification note above.
 
-Subsec. (c). Pub. L. 119–60, § 7201(e)(2)(D), inserted subsec. (c) designation and heading before “The term of an appointment”. See Codification note above.
+Subsec. (c). Pub. L. 119–60, § 7201(e)(2)(D), inserted subsec. (c) designation and heading before “The term of an appointment”. See Codification note above.
 
-Subsec. (d). Pub. L. 119–60, § 7201(e)(2)(E), inserted subsec. (d) designation and heading before “The Commandant while”. See Codification note above.
+Subsec. (d). Pub. L. 119–60, § 7201(e)(2)(E), inserted subsec. (d) designation and heading before “The Commandant while”. See Codification note above.
 
 2018—Pub. L. 115–282 renumbered section 44 of this title as this section.
 
@@ -193,7 +193,7 @@ Subsec. (d). Pub. L. 119–60, § 7201(e)(2)(E), inserted subsec. (d) designat
 
 1966—Pub. L. 89–444 struck out provision that the position of an officer appointed Commandant be filled by promotion according to law.
 
-1963—Pub. L. 88–130 substituted “officers on the active duty promotion list serving in the grade of” for “active list of officers who hold a permanent commission as”, required qualifying period of 10 years commissioned service to be “active” service, and struck out “, pay, and allowances” before “of admiral”.
+1963—Pub. L. 88–130 substituted “officers on the active duty promotion list serving in the grade of” for “active list of officers who hold a permanent commission as”, required qualifying period of 10 years commissioned service to be “active” service, and struck out “, pay, and allowances” before “of admiral”.
 
 1960—Pub. L. 86–474 substituted “active list of officers” for “active list of line officers”, “captain or above” for “commander or above”, and “allowances of admiral” for “allowances of vice admiral”.
 
@@ -205,23 +205,23 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 
 **Effective Date of Higher Grade and Increased Pay and Allowances**
 
-Pub. L. 86–474, § 2, May 14, 1960, 74 Stat. 146, provided that: “The increased grade of admiral for the Commandant and vice admiral for the Assistant Commandant [now Vice Commandant], including the pay and allowances applicable to such grades, shall be effective on the first day of the month following enactment of this Act [May 14, 1960].”
+Pub. L. 86–474, § 2, May 14, 1960, 74 Stat. 146, provided that: “The increased grade of admiral for the Commandant and vice admiral for the Assistant Commandant [now Vice Commandant], including the pay and allowances applicable to such grades, shall be effective on the first day of the month following enactment of this Act [May 14, 1960].”
 
 **Savings Provision**
 
-Pub. L. 86–474, § 3, May 14, 1960, 74 Stat. 146, provided that: “Except as provided by section 2 [set out as a note under this section], the amendments by section 1 [amending sections 41, 42, 44, 46, 47, 186 to 191, 222, 247(c), 365, and 462 of this title, and repealing sections 45, 48, and 49 of this title] shall not operate to change or deprive the present incumbents serving as Commandant, Assistant Commandant [now Vice Commandant], and Engineer in Chief of any rights, benefits and privileges appertaining to such offices on the day preceding the date of enactment of this Act [May 14, 1960], nor to divest them of their offices for the terms appointed.”
+Pub. L. 86–474, § 3, May 14, 1960, 74 Stat. 146, provided that: “Except as provided by section 2 [set out as a note under this section], the amendments by section 1 [amending sections 41, 42, 44, 46, 47, 186 to 191, 222, 247(c), 365, and 462 of this title, and repealing sections 45, 48, and 49 of this title] shall not operate to change or deprive the present incumbents serving as Commandant, Assistant Commandant [now Vice Commandant], and Engineer in Chief of any rights, benefits and privileges appertaining to such offices on the day preceding the date of enactment of this Act [May 14, 1960], nor to divest them of their offices for the terms appointed.”
 
-### § 303. Vice Commandant; appointment
+### § 303. Vice Commandant; appointment
 
 The President may appoint, by and with the advice and consent of the Senate, one Vice Commandant who shall rank next after the Commandant, shall perform such duties as the Commandant may prescribe and shall act as Commandant during the absence or disability of the Commandant or in the event that there is a vacancy in the office of Commandant. The Vice Commandant shall be selected from the officers on the active duty promotion list serving above the grade of captain. The Commandant shall make recommendation for such appointment. The Vice Commandant shall, while so serving, have the grade of admiral with pay and allowances of that grade. The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in section 306(d) of this title.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 499, § 47; Pub. L. 86–474, § 1(6), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, § 1(5), (6), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, § 1(6), (7), June 9, 1966, 80 Stat. 195; Pub. L. 92–451, § 1(4), Oct. 2, 1972, 86 Stat. 755; Pub. L. 97–295, § 2(2), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 99–348, title II, § 205(b)(2), July 1, 1986, 100 Stat. 700; Pub. L. 103–206, title II, § 204(b)(1), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 111–281, title V, § 511(f)(1), (g), Oct. 15, 2010, 124 Stat. 2952, 2953; Pub. L. 114–120, title II, §§ 201(b), 209(3), Feb. 8, 2016, 130 Stat. 33, 40; renumbered § 304 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; renumbered § 303, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 499, § 47; Pub. L. 86–474, § 1(6), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, § 1(5), (6), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, § 1(6), (7), June 9, 1966, 80 Stat. 195; Pub. L. 92–451, § 1(4), Oct. 2, 1972, 86 Stat. 755; Pub. L. 97–295, § 2(2), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 99–348, title II, § 205(b)(2), July 1, 1986, 100 Stat. 700; Pub. L. 103–206, title II, § 204(b)(1), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 111–281, title V, § 511(f)(1), (g), Oct. 15, 2010, 124 Stat. 2952, 2953; Pub. L. 114–120, title II, §§ 201(b), 209(3), Feb. 8, 2016, 130 Stat. 33, 40; renumbered § 304 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; renumbered § 303, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Historical and Revision Notes**
 
-Based on title 14, U.S.C., 1946 ed., §§ 11a, 12 (Apr. 16, 1908, ch. 145, §§ 1, 2, 35 Stat. 61; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800; Jan. 12, 1923, ch. 25, § 2, 42 Stat. 1130; May 24, 1939, ch. 148, §§ 2, 3, 53 Stat. 757; June 6, 1940, ch. 257, §§ 1(b), 3, 54 Stat. 246; July 23, 1947, ch. 301, § 2, 61 Stat. 410; May 19, 1948, ch. 305, 62 Stat. 239).
+Based on title 14, U.S.C., 1946 ed., §§ 11a, 12 (Apr. 16, 1908, ch. 145, §§ 1, 2, 35 Stat. 61; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800; Jan. 12, 1923, ch. 25, § 2, 42 Stat. 1130; May 24, 1939, ch. 148, §§ 2, 3, 53 Stat. 757; June 6, 1940, ch. 257, §§ 1(b), 3, 54 Stat. 246; July 23, 1947, ch. 301, § 2, 61 Stat. 410; May 19, 1948, ch. 305, 62 Stat. 239).
 
-Said sections have been divided. The provisions of the proviso of title 14, U.S.C., 1946 ed., § 11a, and the first proviso of title 14, U.S.C., 1946 ed., § 12, are placed in section 48 of this title and the remainder is placed in this section.
+Said sections have been divided. The provisions of the proviso of title 14, U.S.C., 1946 ed., § 11a, and the first proviso of title 14, U.S.C., 1946 ed., § 12, are placed in section 48 of this title and the remainder is placed in this section.
 
 The provisions regarding appointment of the Assistant Commandant and Engineer in Chief are coordinated, inasmuch as these positions are about equal in the Coast Guard organization. The qualification that the Engineer in Chief be appointed from the active list of engineering officers is changed to the active list of officers who have qualified for engineering duty, because there is no longer any provision for a corps of engineering officers. 81st Congress, House Report No. 557.
 
@@ -231,23 +231,23 @@ The provisions regarding appointment of the Assistant Commandant and Engineer in
 
 A prior section 303 was renumbered section 304 of this title.
 
-Another prior section 303, act Aug. 4, 1949, ch. 393, 63 Stat. 518, required compulsory retirement of warrant officers reaching age of sixty-two years, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+Another prior section 303, act Aug. 4, 1949, ch. 393, 63 Stat. 518, required compulsory retirement of warrant officers reaching age of sixty-two years, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 **Amendments**
 
 2025—Pub. L. 119–60 renumbered section 304 of this title as this section.
 
-2018—Pub. L. 115–282, § 123(b)(2), substituted “section 306(d)” for “section 51(d)”.
+2018—Pub. L. 115–282, § 123(b)(2), substituted “section 306(d)” for “section 51(d)”.
 
-Pub. L. 115–282, § 104(b), renumbered section 47 of this title as this section.
+Pub. L. 115–282, § 104(b), renumbered section 47 of this title as this section.
 
-2016—Pub. L. 114–120, § 209(3), substituted “Commandant” for “commandant” in section catchline.
+2016—Pub. L. 114–120, § 209(3), substituted “Commandant” for “commandant” in section catchline.
 
-Pub. L. 114–120, § 201(b), substituted “grade of admiral” for “grade of vice admiral”.
+Pub. L. 114–120, § 201(b), substituted “grade of admiral” for “grade of vice admiral”.
 
 2010—Pub. L. 111–281 substituted “Vice commandant; appointment” for “Vice Commandant; assignment” in section catchline and “section 51(d)” for “subsection 51(d)” in text.
 
-1993—Pub. L. 103–206 struck out “; retirement” after “assignment” in section catchline, struck out “(a)” before “The President may appoint”, substituted “The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title.” for “The appointment of a Vice Commandant shall be effective on the date the officer assumes such duty, and shall terminate on the date he is detached from such duty.”, and struck out subsecs. (b) to (d) which read as follows:
+1993—Pub. L. 103–206 struck out “; retirement” after “assignment” in section catchline, struck out “(a)” before “The President may appoint”, substituted “The appointment and grade of a Vice Commandant shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title.” for “The appointment of a Vice Commandant shall be effective on the date the officer assumes such duty, and shall terminate on the date he is detached from such duty.”, and struck out subsecs. (b) to (d) which read as follows:
 
 “(b) A Vice Commandant, while so serving, who is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
 
@@ -255,9 +255,9 @@ Pub. L. 114–120, § 201(b), substituted “grade of admiral” for “grade 
 
 “(d) An officer who, after serving less than two and one-half years as Vice Commandant, is retired after completion of that service while serving in a lower rank or grade, shall be retired in his permanent grade.”
 
-1986—Subsecs. (b), (c). Pub. L. 99–348, § 205(b)(2)(A), struck out “and retired pay” after “with the grade”.
+1986—Subsecs. (b), (c). Pub. L. 99–348, § 205(b)(2)(A), struck out “and retired pay” after “with the grade”.
 
-Subsec. (d). Pub. L. 99–348, § 205(b)(2)(B), struck out “and with the retired pay of that grade” after “permanent grade”.
+Subsec. (d). Pub. L. 99–348, § 205(b)(2)(B), struck out “and with the retired pay of that grade” after “permanent grade”.
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “a” for “an” before “Vice Commandant”.
 
@@ -267,13 +267,13 @@ Subsec. (b). Pub. L. 92–451 substituted “A Vice Commandant” for “An Assi
 
 Subsecs. (c), (d). Pub. L. 92–451 substituted “Vice Commandant” for “Assistant Commandant” wherever appearing.
 
-1966—Subsec. (c). Pub. L. 89–444, § 1(6), struck out requirement that Assistant Commandant serve 2½ years as Assistant Commandant before becoming eligible for retirement with the grade and pay of vice admiral.
+1966—Subsec. (c). Pub. L. 89–444, § 1(6), struck out requirement that Assistant Commandant serve 2½ years as Assistant Commandant before becoming eligible for retirement with the grade and pay of vice admiral.
 
-Subsec. (d). Pub. L. 89–444, § 1(7), struck out provision that section 334 of this title, which covers cases of retirement when a higher grade has been held, shall not apply to an officer retiring within 2½ years of the date of his original assignment as Assistant Commandant.
+Subsec. (d). Pub. L. 89–444, § 1(7), struck out provision that section 334 of this title, which covers cases of retirement when a higher grade has been held, shall not apply to an officer retiring within 2½ years of the date of his original assignment as Assistant Commandant.
 
-1963—Subsec. (a). Pub. L. 88–130, § 1(5), substituted “officers on the active duty promotion list serving in the grade of captain or above” for “active list of officers who hold a permanent commission as captain or above”.
+1963—Subsec. (a). Pub. L. 88–130, § 1(5), substituted “officers on the active duty promotion list serving in the grade of captain or above” for “active list of officers who hold a permanent commission as captain or above”.
 
-Subsec. (d). Pub. L. 88–130, § 1(6), substituted “section 334” for “section 243”.
+Subsec. (d). Pub. L. 88–130, § 1(6), substituted “section 334” for “section 243”.
 
 1960—Pub. L. 86–474 amended section generally, and, among other changes, required Assistant Commandant to be appointed from the active list of officers who hold a permanent commission as captain or above, raised grade of Assistant Commandant from rear admiral to vice admiral, increased his pay and allowances from that of a rear admiral (upper half) to that of a vice admiral, struck out provisions which related to an Engineer in Chief, and added subsecs. (b) to (d).
 
@@ -287,7 +287,7 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 
 The increased grade of vice admiral for the Vice Commandant, including the pay and allowances applicable to such grade, effective on the first day of the month following May 14, 1960, see section 2 of Pub. L. 86–474, set out as a note under section 302 of this title.
 
-### § 304. Retirement of Commandant or Vice Commandant
+### § 304. Retirement of Commandant or Vice Commandant
 
 **(a)**
 
@@ -301,11 +301,11 @@ The increased grade of vice admiral for the Vice Commandant, including the pay a
 
 **(d)** Retirement under this section is subject to section 2501(a) of this title.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 499, § 46; Pub. L. 86–474, § 1(5), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, § 1(4), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, § 1(4), (5), June 9, 1966, 80 Stat. 195; Pub. L. 97–295, § 2(1), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 99–348, title II, § 205(b)(1), July 1, 1986, 100 Stat. 699; Pub. L. 103–206, title II, § 204(a), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 114–120, title II, § 209(2), Feb. 8, 2016, 130 Stat. 40; Pub. L. 115–232, div. C, title XXXV, § 3528(a), Aug. 13, 2018, 132 Stat. 2318; renumbered § 303 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8201(a), Jan. 1, 2021, 134 Stat. 4641; Pub. L. 117–263, div. K, title CXII, § 11240, Dec. 23, 2022, 136 Stat. 4039; renumbered § 304, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 499, § 46; Pub. L. 86–474, § 1(5), May 14, 1960, 74 Stat. 144; Pub. L. 88–130, § 1(4), Sept. 24, 1963, 77 Stat. 175; Pub. L. 89–444, § 1(4), (5), June 9, 1966, 80 Stat. 195; Pub. L. 97–295, § 2(1), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 99–348, title II, § 205(b)(1), July 1, 1986, 100 Stat. 699; Pub. L. 103–206, title II, § 204(a), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 114–120, title II, § 209(2), Feb. 8, 2016, 130 Stat. 40; Pub. L. 115–232, div. C, title XXXV, § 3528(a), Aug. 13, 2018, 132 Stat. 2318; renumbered § 303 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8201(a), Jan. 1, 2021, 134 Stat. 4641; Pub. L. 117–263, div. K, title CXII, § 11240, Dec. 23, 2022, 136 Stat. 4039; renumbered § 304, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Historical and Revision Notes**
 
-Based on title 14, U.S.C., 1946 ed., § 161 (Jan. 12, 1923, ch. 25, § 2, 42 Stat. 1130; June 25, 1936, ch. 808, 49 Stat. 1924; June 9, 1937, ch. 309, § 1, 50 Stat. 252; June 6, 1940, ch. 257, § 1(a), 54 Stat. 246).
+Based on title 14, U.S.C., 1946 ed., § 161 (Jan. 12, 1923, ch. 25, § 2, 42 Stat. 1130; June 25, 1936, ch. 808, 49 Stat. 1924; June 9, 1937, ch. 309, § 1, 50 Stat. 252; June 6, 1940, ch. 257, § 1(a), 54 Stat. 246).
 
 Provision is added for retirement of the Commandant with the grade and pay of vice admiral after 3 years service, in the discretion of the President, regardless of total length of service. Provision is also added for retirement with the grade and pay of vice admiral in case of physical disability. 81st Congress, House Report No. 557.
 
@@ -315,29 +315,29 @@ Provision is added for retirement of the Commandant with the grade and pay of vi
 
 A prior section 304 was renumbered section 303 of this title.
 
-Another prior section 304, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement of warrant officers after thirty years’ service, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+Another prior section 304, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement of warrant officers after thirty years’ service, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 **Amendments**
 
 2025—Pub. L. 119–60 renumbered section 303 of this title as this section.
 
-2022—Subsec. (a)(2). Pub. L. 117–263, § 11240(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A Vice Commandant who is not reappointed or appointed Commandant shall be retired with the grade of admiral at the expiration of the appointed term, except as provided in section 306(d).”
+2022—Subsec. (a)(2). Pub. L. 117–263, § 11240(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A Vice Commandant who is not reappointed or appointed Commandant shall be retired with the grade of admiral at the expiration of the appointed term, except as provided in section 306(d).”
 
-Subsec. (c). Pub. L. 117–263, § 11240(2), substituted “or as an officer serving as Vice Commandant who has served less than 2 years as Vice Commandant” for “or Vice Commandant”.
+Subsec. (c). Pub. L. 117–263, § 11240(2), substituted “or as an officer serving as Vice Commandant who has served less than 2 years as Vice Commandant” for “or Vice Commandant”.
 
 2021—Subsec. (d). Pub. L. 116–283 added subsec. (d).
 
-2018—Pub. L. 115–282, § 104(b), renumbered section 46 of this title as this section.
+2018—Pub. L. 115–282, § 104(b), renumbered section 46 of this title as this section.
 
-Pub. L. 115–232, § 3528(a)(1), inserted “or Vice Commandant” after “Commandant” in section catchline.
+Pub. L. 115–232, § 3528(a)(1), inserted “or Vice Commandant” after “Commandant” in section catchline.
 
-Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 306(d)” for “section 51(d)” in pars. (1) and (2).
+Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 306(d)” for “section 51(d)” in pars. (1) and (2).
 
-Pub. L. 115–232, § 3528(a)(2), (3), designated existing provisions as par. (1) and added par. (2).
+Pub. L. 115–232, § 3528(a)(2), (3), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 115–232, § 3528(a)(4), inserted “or Vice Commandant” after “Commandant”.
+Subsec. (b). Pub. L. 115–232, § 3528(a)(4), inserted “or Vice Commandant” after “Commandant”.
 
-Subsec. (c). Pub. L. 115–232, § 3528(a)(4), (5), inserted “or Vice Commandant” after “Commandant” and substituted “the officer’s” for “his”.
+Subsec. (c). Pub. L. 115–232, § 3528(a)(4), (5), inserted “or Vice Commandant” after “Commandant” and substituted “the officer’s” for “his”.
 
 2016—Subsec. (a). Pub. L. 114–120 substituted “section” for “subsection”.
 
@@ -347,15 +347,15 @@ Subsec. (c). Pub. L. 115–232, § 3528(a)(4), (5), inserted “or Vice Comman
 
 1982—Subsec. (a). Pub. L. 97–295 substituted “Commandant” for “commandant”.
 
-1966—Subsec. (c). Pub. L. 89–444, § 1(4), removed requirement that the Commandant serve 2½ years as Commandant before being eligible for retirement with the grade of admiral and retired pay computed at the highest rates of basic pay applicable to him while he served as Commandant.
+1966—Subsec. (c). Pub. L. 89–444, § 1(4), removed requirement that the Commandant serve 2½ years as Commandant before being eligible for retirement with the grade of admiral and retired pay computed at the highest rates of basic pay applicable to him while he served as Commandant.
 
-Subsec. (d). Pub. L. 89–444, § 1(5), repealed subsec. (d) which provided that a Commandant who retired within 2½ years of the date of his original appointment as Commandant would retire in his permanent grade and with the retired pay of that grade.
+Subsec. (d). Pub. L. 89–444, § 1(5), repealed subsec. (d) which provided that a Commandant who retired within 2½ years of the date of his original appointment as Commandant would retire in his permanent grade and with the retired pay of that grade.
 
 1963—Subsecs. (a) to (c). Pub. L. 88–130 substituted “of admiral and retired pay computed at the highest rates of basic pay applicable to him while he served as Commandant” for “and retired pay of admiral”.
 
 1960—Pub. L. 86–474 authorized any Commandant who is not reappointed at the expiration of his term to be retired with the grade and retired pay of admiral, directed placement on the retired list with the grade and retired pay of admiral for a Commandant who is retired for physical disability, reduced from three to two and one-half years the period that the Commandant must serve before he may voluntarily apply retirement without regard to total length of service, and provided that any Commandant who retires within two and one-half years of the date of his original appointment as Commandant shall retire in his permanent grade and with the retired pay of that grade.
 
-### § 305. Vice admirals
+### § 305. Vice admirals
 
 **(a)**
 
@@ -401,39 +401,39 @@ Subsec. (d). Pub. L. 89–444, § 1(5), repealed subsec. (d) which provided th
 
 **(d)** Whenever a vacancy occurs in a position designated under subsection (a), the Commandant shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
 
-(Added Pub. L. 92–451, § 1(5), Oct. 2, 1972, 86 Stat. 755, § 50; amended Pub. L. 103–206, title II, § 204(c), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 111–281, title V, § 511(a), Oct. 15, 2010, 124 Stat. 2951; Pub. L. 111–330, § 1(5), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 114–120, title II, § 202, Feb. 8, 2016, 130 Stat. 33; renumbered § 305 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; Pub. L. 116–283, div. A, title V, § 551(b)(2), Jan. 1, 2021, 134 Stat. 3630; Pub. L. 119–60, div. G, title LXXII, §§ 7201(b), (e)(3), Dec. 18, 2025, 139 Stat. 1675, 1678.)
+(Added Pub. L. 92–451, § 1(5), Oct. 2, 1972, 86 Stat. 755, § 50; amended Pub. L. 103–206, title II, § 204(c), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 111–281, title V, § 511(a), Oct. 15, 2010, 124 Stat. 2951; Pub. L. 111–330, § 1(5), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 114–120, title II, § 202, Feb. 8, 2016, 130 Stat. 33; renumbered § 305 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; Pub. L. 116–283, div. A, title V, § 551(b)(2), Jan. 1, 2021, 134 Stat. 3630; Pub. L. 119–60, div. G, title LXXII, §§ 7201(b), (e)(3), Dec. 18, 2025, 139 Stat. 1675, 1678.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 305, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement after twenty years’ service, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 305, act Aug. 4, 1949, ch. 393, 63 Stat. 518, provided for voluntary retirement after twenty years’ service, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 7201(b), renumbered section 305 of this title as this section, resulting in no change.
+2025—Pub. L. 119–60, § 7201(b), renumbered section 305 of this title as this section, resulting in no change.
 
-Subsec. (a)(1). Pub. L. 119–60, § 7201(e)(3)(A), substituted “shall” for “may” in introductory provisions.
+Subsec. (a)(1). Pub. L. 119–60, § 7201(e)(3)(A), substituted “shall” for “may” in introductory provisions.
 
-Subsec. (a)(1)(A)(ii). Pub. L. 119–60, § 7201(e)(3)(B), which directed substitution of “oversee personnel management, workforce, and dependent support, training, and related matters” for “be the chief of staff of the Coast Guard”, was executed by making the substitution for “be the Chief of Staff of the Coast Guard”, to reflect the probable intent of Congress.
+Subsec. (a)(1)(A)(ii). Pub. L. 119–60, § 7201(e)(3)(B), which directed substitution of “oversee personnel management, workforce, and dependent support, training, and related matters” for “be the chief of staff of the Coast Guard”, was executed by making the substitution for “be the Chief of Staff of the Coast Guard”, to reflect the probable intent of Congress.
 
 2021—Subsec. (a)(4). Pub. L. 116–283 added par. (4).
 
-2018—Pub. L. 115–282, § 104(b), renumbered section 50 of this title as this section.
+2018—Pub. L. 115–282, § 104(b), renumbered section 50 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 306(d)” for “section 51(d)”.
+Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 306(d)” for “section 51(d)”.
 
-2016—Subsec. (a)(1). Pub. L. 114–120, § 202(1)(A), added par. (1) and struck out former par. (1) which read as follows: “The President may designate no more than 4 positions of importance and responsibility that shall be held by officers who—
+2016—Subsec. (a)(1). Pub. L. 114–120, § 202(1)(A), added par. (1) and struck out former par. (1) which read as follows: “The President may designate no more than 4 positions of importance and responsibility that shall be held by officers who—
 
 “(A) while so serving, shall have the grade of vice admiral, with the pay and allowances of that grade; and
 
 “(B) shall perform such duties as the Commandant may prescribe.”
 
-Subsec. (a)(3)(A). Pub. L. 114–120, § 202(1)(B), substituted “under paragraph (1)(A)” for “under paragraph (1)”.
+Subsec. (a)(3)(A). Pub. L. 114–120, § 202(1)(B), substituted “under paragraph (1)(A)” for “under paragraph (1)”.
 
-Subsec. (b)(2)(C), (D). Pub. L. 114–120, § 202(2), added subpar. (C) and redesignated former subpar. (C) as (D).
+Subsec. (b)(2)(C), (D). Pub. L. 114–120, § 202(2), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-2010—Pub. L. 111–281, § 511(a), as amended by Pub. L. 111–330, amended section generally. Prior to amendment, section provided for the appointment of a Commander, Atlantic Area, and a Commander, Pacific Area, each having the grade of vice admiral with pay and allowances of that grade.
+2010—Pub. L. 111–281, § 511(a), as amended by Pub. L. 111–330, amended section generally. Prior to amendment, section provided for the appointment of a Commander, Atlantic Area, and a Commander, Pacific Area, each having the grade of vice admiral with pay and allowances of that grade.
 
 1993—Subsec. (b). Pub. L. 103–206 substituted “The appointment and grade of an area commander shall be effective on the date the officer assumes that duty, and shall terminate on the date the officer is detached from that duty, except as provided in subsection 51(d) of this title.” for “The appointment of an area commander is effective on the date the officer assumes that duty, and terminates on the date he is detached from that duty.”
 
@@ -441,7 +441,7 @@ Subsec. (b)(2)(C), (D). Pub. L. 114–120, § 202(2), added subpar. (C) and re
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(5) is effective with the enactment of Pub. L. 111–281.
+Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(5) is effective with the enactment of Pub. L. 111–281.
 
 **Effective Date**
 
@@ -449,7 +449,7 @@ Section effective Oct. 2, 1972, except that continuation boards may not be held 
 
 **Treatment of Incumbents; Transition**
 
-Pub. L. 111–281, title V, § 511(h)(1), Oct. 15, 2010, 124 Stat. 2953, provided that:
+Pub. L. 111–281, title V, § 511(h)(1), Oct. 15, 2010, 124 Stat. 2953, provided that:
 
 > “Notwithstanding any other provision of law, an officer who, on the date of enactment of this Act [Oct. 15, 2010], is serving as Chief of Staff, Commander, Atlantic Area, or Commander, Pacific Area—
 
@@ -457,7 +457,7 @@ Pub. L. 111–281, title V, § 511(h)(1), Oct. 15, 2010, 124 Stat. 2953, provi
 
 > **“(B)** for the purposes of transition, may continue at the grade of vice admiral with pay and allowance of that grade, for not more than 1 year after the date of enactment of this Act, to perform the duties of the officer’s former position and any other such duties that the Commandant prescribes.”
 
-### § 306. Retirement
+### § 306. Retirement
 
 **(a)** An officer, other than the Commandant or Vice Commandant, who, while serving in the grade of admiral or vice admiral, is retired for physical disability shall be placed on the retired list with the highest grade in which that officer served satisfactorily, as determined under section 2501 of this title.
 
@@ -471,23 +471,23 @@ Pub. L. 111–281, title V, § 511(h)(1), Oct. 15, 2010, 124 Stat. 2953, provi
 
 **(2)** while awaiting retirement, beginning on the day that officer is relieved from the position of Commandant, Vice Commandant, or Vice Admiral and ending on the day before the officer’s retirement, but not for more than 60 days.
 
-(Added Pub. L. 92–451, § 1(5), Oct. 2, 1972, 86 Stat. 755, § 51; amended Pub. L. 99–348, title II, § 205(b)(3), July 1, 1986, 100 Stat. 700; Pub. L. 103–206, title II, §§ 204(d), 205(c), Dec. 20, 1993, 107 Stat. 2421, 2422; Pub. L. 111–281, title V, § 511(c), Oct. 15, 2010, 124 Stat. 2952; Pub. L. 114–120, title II, § 201(c), Feb. 8, 2016, 130 Stat. 33; Pub. L. 115–232, div. C, title XXXV, § 3528(b), Aug. 13, 2018, 132 Stat. 2318; renumbered § 306, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8201(b), Jan. 1, 2021, 134 Stat. 4641; Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 92–451, § 1(5), Oct. 2, 1972, 86 Stat. 755, § 51; amended Pub. L. 99–348, title II, § 205(b)(3), July 1, 1986, 100 Stat. 700; Pub. L. 103–206, title II, §§ 204(d), 205(c), Dec. 20, 1993, 107 Stat. 2421, 2422; Pub. L. 111–281, title V, § 511(c), Oct. 15, 2010, 124 Stat. 2952; Pub. L. 114–120, title II, § 201(c), Feb. 8, 2016, 130 Stat. 33; Pub. L. 115–232, div. C, title XXXV, § 3528(b), Aug. 13, 2018, 132 Stat. 2318; renumbered § 306, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8201(b), Jan. 1, 2021, 134 Stat. 4641; Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 306, act Aug. 4, 1949, ch. 393, 63 Stat. 519, related to retirement for disabilities incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177. See sections 1204 and 1376 of Title 10, Armed Forces.
+A prior section 306, act Aug. 4, 1949, ch. 393, 63 Stat. 519, related to retirement for disabilities incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177. See sections 1204 and 1376 of Title 10, Armed Forces.
 
 **Amendments**
 
 2025—Pub. L. 119–60 renumbered section 306 of this title as this section, resulting in no change.
 
-2021—Subsec. (a). Pub. L. 116–283, § 8201(b)(1), inserted “satisfactorily, as determined under section 2501 of this title” before period at end.
+2021—Subsec. (a). Pub. L. 116–283, § 8201(b)(1), inserted “satisfactorily, as determined under section 2501 of this title” before period at end.
 
-Subsec. (b). Pub. L. 116–283, § 8201(b)(2), inserted “satisfactorily, as determined under section 2501 of this title” before period at end.
+Subsec. (b). Pub. L. 116–283, § 8201(b)(2), inserted “satisfactorily, as determined under section 2501 of this title” before period at end.
 
-Subsec. (c). Pub. L. 116–283, § 8201(b)(3), inserted “if performance of duties in such grade is determined to have been satisfactory pursuant to section 2501 of this title” before period at end.
+Subsec. (c). Pub. L. 116–283, § 8201(b)(3), inserted “if performance of duties in such grade is determined to have been satisfactory pursuant to section 2501 of this title” before period at end.
 
 2018—Pub. L. 115–282 renumbered section 51 of this title as this section.
 
@@ -495,7 +495,7 @@ Subsecs. (a) to (c). Pub. L. 115–232 substituted “other than the Commandant 
 
 2016—Subsecs. (a) to (c). Pub. L. 114–120 inserted “admiral or” before “vice admiral,” wherever appearing.
 
-2010—Subsecs. (a) to (c). Pub. L. 111–281, § 511(c)(1), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which read as follows:
+2010—Subsecs. (a) to (c). Pub. L. 111–281, § 511(c)(1), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which read as follows:
 
 “(a) An officer who, while serving in the grade of vice admiral, is retired for physical disability shall be placed on the retired list with the grade of vice admiral.
 
@@ -503,17 +503,17 @@ Subsecs. (a) to (c). Pub. L. 115–232 substituted “other than the Commandant 
 
 “(c) An officer who, after serving less than two and one-half years in the grade of vice admiral, is retired while serving in a lower grade, shall be retired in his permanent grade.”
 
-Subsec. (d)(2). Pub. L. 111–281, § 511(c)(2), substituted “or Vice Admiral” for “Area Commander, or Chief of Staff”.
+Subsec. (d)(2). Pub. L. 111–281, § 511(c)(2), substituted “or Vice Admiral” for “Area Commander, or Chief of Staff”.
 
-1993—Subsec. (a). Pub. L. 103–206, § 205(c)(1), substituted “in the grade of vice admiral” for “as Commander, Atlantic Area, or Commander, Pacific Area”.
+1993—Subsec. (a). Pub. L. 103–206, § 205(c)(1), substituted “in the grade of vice admiral” for “as Commander, Atlantic Area, or Commander, Pacific Area”.
 
-Subsec. (b). Pub. L. 103–206, § 205(c)(2), substituted “in the grade of vice admiral” for “as Commander, Atlantic Area, or Commander, Pacific Area”.
+Subsec. (b). Pub. L. 103–206, § 205(c)(2), substituted “in the grade of vice admiral” for “as Commander, Atlantic Area, or Commander, Pacific Area”.
 
-Subsec. (d). Pub. L. 103–206, § 204(d), added subsec. (d).
+Subsec. (d). Pub. L. 103–206, § 204(d), added subsec. (d).
 
-1986—Subsecs. (a), (b). Pub. L. 99–348, § 205(b)(3)(A), struck out “and retired pay” after “with the grade”.
+1986—Subsecs. (a), (b). Pub. L. 99–348, § 205(b)(3)(A), struck out “and retired pay” after “with the grade”.
 
-Subsec. (c). Pub. L. 99–348, § 205(b)(3)(B), struck out “and with the retired pay of that grade” after “permanent grade”.
+Subsec. (c). Pub. L. 99–348, § 205(b)(3)(B), struck out “and with the retired pay of that grade” after “permanent grade”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -521,23 +521,23 @@ Subsec. (c). Pub. L. 99–348, § 205(b)(3)(B), struck out “and with the ret
 
 Section effective Oct. 2, 1972, except that continuation boards may not be held until one year there­after, see section 3 of Pub. L. 92–451, set out as an Effective Date of 1972 Amendment note under section 2151 of this title.
 
-### § 307. Vice admirals and admirals, continuity of grade
+### § 307. Vice admirals and admirals, continuity of grade
 
 The continuity of an officer’s precedence on the active duty promotion list, date of rank, grade, pay, and allowances as a vice admiral or admiral shall not be interrupted by the termination of an appointment for the purpose of reappointment to another position as a vice admiral or admiral.
 
-(Added Pub. L. 97–322, title I, § 115(a)(1), Oct. 15, 1982, 96 Stat. 1585, § 52; amended Pub. L. 101–225, title II, § 203(1), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 111–281, title V, § 511(d), (f)(2), Oct. 15, 2010, 124 Stat. 2952, 2953; renumbered § 307, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 119–60, div. G, title LXXII, § 7201(b), (e)(4), Dec. 18, 2025, 139 Stat. 1675, 1678.)
+(Added Pub. L. 97–322, title I, § 115(a)(1), Oct. 15, 1982, 96 Stat. 1585, § 52; amended Pub. L. 101–225, title II, § 203(1), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 111–281, title V, § 511(d), (f)(2), Oct. 15, 2010, 124 Stat. 2952, 2953; renumbered § 307, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 119–60, div. G, title LXXII, § 7201(b), (e)(4), Dec. 18, 2025, 139 Stat. 1675, 1678.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 307, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for compulsory retirement of warrant officers after thirty years’ service, upon recommendation of a personnel board, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 307, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for compulsory retirement of warrant officers after thirty years’ service, upon recommendation of a personnel board, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 7201(b), renumbered section 307 of this title as this section, resulting in no change.
+2025—Pub. L. 119–60, § 7201(b), renumbered section 307 of this title as this section, resulting in no change.
 
-Pub. L. 119–60, § 7201(e)(4), which directed substitution of “Admirals” for “Admiral” in the section catchline, was executed by substituting “admirals” for “admiral” after “and”, to reflect the probable intent of Congress.
+Pub. L. 119–60, § 7201(e)(4), which directed substitution of “Admirals” for “Admiral” in the section catchline, was executed by substituting “admirals” for “admiral” after “and”, to reflect the probable intent of Congress.
 
 2018—Pub. L. 115–282 renumbered section 52 of this title as this section.
 
@@ -545,7 +545,7 @@ Pub. L. 119–60, § 7201(e)(4), which directed substitution of “Admirals”
 
 1989—Pub. L. 101–225 inserted “or admiral” after “position as a vice admiral”.
 
-### § 308. Chief Acquisition Officer
+### § 308. Chief Acquisition Officer
 
 **(a) In General.—** There shall be in the Coast Guard a Chief Acquisition Officer selected by the Commandant who shall be a Rear Admiral or civilian from the Senior Executive Service (career reserved) and who meets the qualifications set forth under subsection (b). The Chief Acquisition Officer shall serve at the Assistant Commandant level and have acquisition management as that individual’s primary duty.
 
@@ -599,13 +599,13 @@ Pub. L. 119–60, § 7201(e)(4), which directed substitution of “Admirals”
 
 **(C)** ensuring that the views of the Commandant regarding such programs on cost, schedule, technical feasibility, and performance trade-offs are strongly considered by program managers and program executive officers in all phases of the acquisition process.
 
-(Added Pub. L. 111–281, title IV, § 401(a), Oct. 15, 2010, 124 Stat. 2929, § 56; amended Pub. L. 114–328, div. A, title VIII, § 899(a), Dec. 23, 2016, 130 Stat. 2332; renumbered § 308 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), (c)(4), Dec. 4, 2018, 132 Stat. 4196, 4240, 4241; Pub. L. 117–81, div. A, title XVII, § 1702(d)(1), Dec. 27, 2021, 135 Stat. 2156; Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 111–281, title IV, § 401(a), Oct. 15, 2010, 124 Stat. 2929, § 56; amended Pub. L. 114–328, div. A, title VIII, § 899(a), Dec. 23, 2016, 130 Stat. 2332; renumbered § 308 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), (c)(4), Dec. 4, 2018, 132 Stat. 4196, 4240, 4241; Pub. L. 117–81, div. A, title XVII, § 1702(d)(1), Dec. 27, 2021, 135 Stat. 2156; Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 308, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for retired pay of warrant officers involuntarily retired under section 307, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 308, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for retired pay of warrant officers involuntarily retired under section 307, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 **Amendments**
 
@@ -613,11 +613,11 @@ A prior section 308, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for retir
 
 2021—Subsec. (c)(10)(B)(ii). Pub. L. 117–81 substituted “section 3104(c)(1)” for “section 2547(c)(1)”.
 
-2018—Pub. L. 115–282, § 104(b), renumbered section 56 of this title as this section.
+2018—Pub. L. 115–282, § 104(b), renumbered section 56 of this title as this section.
 
-Subsec. (b)(3). Pub. L. 115–282, § 123(c)(4), substituted “chapter 11” for “chapter 15”.
+Subsec. (b)(3). Pub. L. 115–282, § 123(c)(4), substituted “chapter 11” for “chapter 15”.
 
-Subsec. (c)(10)(A). Pub. L. 115–282, § 123(b)(2), substituted “section 1171” for “section 581”.
+Subsec. (c)(10)(A). Pub. L. 115–282, § 123(b)(2), substituted “section 1171” for “section 581”.
 
 2016—Subsec. (c)(10). Pub. L. 114–328 added par. (10).
 
@@ -625,11 +625,11 @@ Subsec. (c)(10)(A). Pub. L. 115–282, § 123(b)(2), substituted “section 11
 
 **Selection Deadline**
 
-Pub. L. 111–281, title IV, § 401(c), Oct. 15, 2010, 124 Stat. 2930, provided that: “As soon as practicable after the date of enactment of this Act [Oct. 15, 2010], but no later than October 1, 2011, the Commandant of the Coast Guard shall select a Chief Acquisition Officer under section 56 [now 308] of title 14, United States Code, as amended by this section.”
+Pub. L. 111–281, title IV, § 401(c), Oct. 15, 2010, 124 Stat. 2930, provided that: “As soon as practicable after the date of enactment of this Act [Oct. 15, 2010], but no later than October 1, 2011, the Commandant of the Coast Guard shall select a Chief Acquisition Officer under section 56 [now 308] of title 14, United States Code, as amended by this section.”
 
 **Special Rate Supplements**
 
-Pub. L. 111–281, title IV, § 401(d), Oct. 15, 2010, 124 Stat. 2930, as amended by Pub. L. 111–330, § 1(3), Dec. 22, 2010, 124 Stat. 3569, provided that:
+Pub. L. 111–281, title IV, § 401(d), Oct. 15, 2010, 124 Stat. 2930, as amended by Pub. L. 111–330, § 1(3), Dec. 22, 2010, 124 Stat. 3569, provided that:
 
 > **“(1) Requirement to establish.—** Not later than 1 year after the date of enactment of this Act [Oct. 15, 2010] and in accordance with section 9701.333 of title 5, Code of Federal Regulations, the Commandant of the Coast Guard shall establish special rate supplements that provide higher pay levels for employees necessary to carry out the amendment made by this section [enacting this section].
 
@@ -637,9 +637,9 @@ Pub. L. 111–281, title IV, § 401(d), Oct. 15, 2010, 124 Stat. 2930, as amen
 
 **Elevation of Disputes to the Chief Acquisition Officer**
 
-Pub. L. 111–281, title IV, § 401(e), Oct. 15, 2010, 124 Stat. 2931, which directed the Commandant to provide to Congress a description of the issues involved in disputes elevated to the Chief Acquisition Officer that remained unresolved after 90 days, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(4), Jan. 1, 2021, 134 Stat. 4745.
+Pub. L. 111–281, title IV, § 401(e), Oct. 15, 2010, 124 Stat. 2931, which directed the Commandant to provide to Congress a description of the issues involved in disputes elevated to the Chief Acquisition Officer that remained unresolved after 90 days, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(4), Jan. 1, 2021, 134 Stat. 4745.
 
-### § 309. Office of the Coast Guard Reserve; Director
+### § 309. Office of the Coast Guard Reserve; Director
 
 **(a) Establishment of Office; Director.—** There is in the executive part of the Coast Guard an Office of the Coast Guard Reserve. The head of the Office is the Director of the Coast Guard Reserve. The Director of the Coast Guard Reserve is the principal adviser to the Commandant on Coast Guard Reserve matters and may have such additional functions as the Commandant may direct.
 
@@ -661,13 +661,13 @@ Pub. L. 111–281, title IV, § 401(e), Oct. 15, 2010, 124 Stat. 2931, which d
 
 **(e) Annual Report.—** The Director of the Coast Guard Reserve shall submit to the Secretary of Homeland Security and the Secretary of Defense an annual report on the state of the Coast Guard Reserve and the ability of the Coast Guard Reserve to meet its missions. The report shall be prepared in conjunction with the Commandant and may be submitted in classified and unclassified versions.
 
-(Added Pub. L. 106–65, div. A, title V, § 557(a), Oct. 5, 1999, 113 Stat. 619, § 53; amended Pub. L. 107–296, title XVII, § 1704(a), Nov. 25, 2002, 116 Stat. 2314; renumbered § 309, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 106–65, div. A, title V, § 557(a), Oct. 5, 1999, 113 Stat. 619, § 53; amended Pub. L. 107–296, title XVII, § 1704(a), Nov. 25, 2002, 116 Stat. 2314; renumbered § 309, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 309, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, § 11, 64 Stat. 407, authorized retirement of warrant officers with grade of commissioned warrant officer in case of special commendation, prior to repeal by Pub. L. 86–155, § 10(a)(1), (b), Aug. 11, 1959, 73 Stat. 338, effective Nov. 1, 1959, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 309, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, § 11, 64 Stat. 407, authorized retirement of warrant officers with grade of commissioned warrant officer in case of special commendation, prior to repeal by Pub. L. 86–155, § 10(a)(1), (b), Aug. 11, 1959, 73 Stat. 338, effective Nov. 1, 1959, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 **Amendments**
 
@@ -683,13 +683,13 @@ A prior section 309, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch.
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
-### § 310. Director of Coast Guard Investigative Service
+### § 310. Director of Coast Guard Investigative Service
 
 **(a) In General.—** There shall be a Director of the Coast Guard Investigative Service.
 
 **(b) Chain of Command.—** The Director of the Coast Guard Investigative Service shall report directly to and be under the general supervision of the Commandant, acting through the Vice Commandant of the Coast Guard.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7201(e)(5), Dec. 18, 2025, 139 Stat. 1679.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7201(e)(5), Dec. 18, 2025, 139 Stat. 1679.)
 
 **Editorial Notes**
 
@@ -697,9 +697,9 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 A prior section 310 was renumbered section 313 of this title.
 
-Another prior section 310, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, § 12, 64 Stat. 407, related to recall to active duty during war or national emergency of warrant officers, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+Another prior section 310, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, § 12, 64 Stat. 407, related to recall to active duty during war or national emergency of warrant officers, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
-### § 311. United States Coast Guard Band; composition; director
+### § 311. United States Coast Guard Band; composition; director
 
 **(a)** The United States Coast Guard Band shall be composed of a director and other personnel in such numbers and grades as the Secretary determines to be necessary.
 
@@ -715,7 +715,7 @@ Another prior section 310, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 195
 
 **(2)** to revert to the grade and status he held at the time of his designation as director.
 
-(Added Pub. L. 89–189, § 1(1), Sept. 17, 1965, 79 Stat. 820, § 336; amended Pub. L. 102–587, title V, § 5201, Nov. 4, 1992, 106 Stat. 5071; Pub. L. 107–295, title III, § 311, Nov. 25, 2002, 116 Stat. 2102; Pub. L. 109–241, title II, § 204(a), July 11, 2006, 120 Stat. 520; renumbered § 317 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; renumbered § 311, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 89–189, § 1(1), Sept. 17, 1965, 79 Stat. 820, § 336; amended Pub. L. 102–587, title V, § 5201, Nov. 4, 1992, 106 Stat. 5071; Pub. L. 107–295, title III, § 311, Nov. 25, 2002, 116 Stat. 2102; Pub. L. 109–241, title II, § 204(a), July 11, 2006, 120 Stat. 520; renumbered § 317 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; renumbered § 311, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
@@ -723,23 +723,23 @@ Another prior section 310, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 195
 
 A prior section 311 was renumbered section 314 of this title.
 
-Another prior section 311, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, § 13, 64 Stat. 407, related to recall of warrant officers to active duty with consent of the officer, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+Another prior section 311, acts Aug. 4, 1949, ch. 393, 63 Stat. 519; Aug. 3, 1950, ch. 536, § 13, 64 Stat. 407, related to recall of warrant officers to active duty with consent of the officer, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 **Amendments**
 
 2025—Pub. L. 119–60 renumbered section 317 of this title as this section.
 
-2018—Pub. L. 115–282, § 104(b), renumbered section 336 of this title as this section.
+2018—Pub. L. 115–282, § 104(b), renumbered section 336 of this title as this section.
 
-Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2126” for “section 276”.
+Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2126” for “section 276”.
 
-2006—Subsec. (b). Pub. L. 109–241, § 204(a)(1), in first sentence, substituted “The Secretary may designate as the director any individual determined by the Secretary to possess the necessary qualifications.” for “The Secretary shall designate the director from among qualified members of the Coast Guard.”, and, in second sentence, substituted “an individual so designated” for “a member so designated”.
+2006—Subsec. (b). Pub. L. 109–241, § 204(a)(1), in first sentence, substituted “The Secretary may designate as the director any individual determined by the Secretary to possess the necessary qualifications.” for “The Secretary shall designate the director from among qualified members of the Coast Guard.”, and, in second sentence, substituted “an individual so designated” for “a member so designated”.
 
-Subsec. (c). Pub. L. 109–241, § 204(a)(2), substituted “of an individual” for “of a member” and “determined by the Secretary to be most appropriate to the qualifications and experience of the appointed individual” for “of lieutenant (junior grade) or lieutenant”.
+Subsec. (c). Pub. L. 109–241, § 204(a)(2), substituted “of an individual” for “of a member” and “determined by the Secretary to be most appropriate to the qualifications and experience of the appointed individual” for “of lieutenant (junior grade) or lieutenant”.
 
-Subsec. (d). Pub. L. 109–241, § 204(a)(3), substituted “An individual” for “A member”.
+Subsec. (d). Pub. L. 109–241, § 204(a)(3), substituted “An individual” for “A member”.
 
-Subsec. (e). Pub. L. 109–241, § 204(a)(4), substituted “When an individual’s designation is revoked,” for “When a member’s designation is revoked,” and “option—” for “option:”.
+Subsec. (e). Pub. L. 109–241, § 204(a)(4), substituted “When an individual’s designation is revoked,” for “When a member’s designation is revoked,” and “option—” for “option:”.
 
 2002—Subsec. (d). Pub. L. 107–295 substituted “captain” for “commander”.
 
@@ -749,9 +749,9 @@ Subsec. (e). Pub. L. 109–241, § 204(a)(4), substituted “When an individua
 
 **Current Director**
 
-Pub. L. 109–241, title II, § 204(b), July 11, 2006, 120 Stat. 520, provided that: “The individual serving as Coast Guard band director on the date of enactment of this Act [July 11, 2006] may be immediately promoted to a commissioned grade, not to exceed captain, determined by the Secretary of the department in which the Coast Guard is operating to be most appropriate to the qualifications and experience of that individual.”
+Pub. L. 109–241, title II, § 204(b), July 11, 2006, 120 Stat. 520, provided that: “The individual serving as Coast Guard band director on the date of enactment of this Act [July 11, 2006] may be immediately promoted to a commissioned grade, not to exceed captain, determined by the Secretary of the department in which the Coast Guard is operating to be most appropriate to the qualifications and experience of that individual.”
 
-### § 312. Western Alaska Oil Spill Planning Criteria Program
+### § 312. Western Alaska Oil Spill Planning Criteria Program
 
 **(a) Establishment.—** There is established within the Coast Guard a Western Alaska Oil Spill Planning Criteria Program (referred to in this section as the “Program”) to develop and administer the Western Alaska oil spill planning criteria.
 
@@ -819,7 +819,7 @@ Pub. L. 109–241, title II, § 204(b), July 11, 2006, 120 Stat. 520, provided
 
 **(4) Western alaska oil spill planning criteria.—** The term “Western Alaska oil spill planning criteria” means the criteria required to be established under paragraph (9) of section 311(j) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)).
 
-(Added Pub. L. 117–263, div. K, title CXIII, § 11309(a)(1), Dec. 23, 2022, 136 Stat. 4079; renumbered § 312 and amended, Pub. L. 119–60, div. G, title LXXII, § 7201(b), title LXXVII, § 7701(k), Dec. 18, 2025, 139 Stat. 1675, 1837.)
+(Added Pub. L. 117–263, div. K, title CXIII, § 11309(a)(1), Dec. 23, 2022, 136 Stat. 4079; renumbered § 312 and amended, Pub. L. 119–60, div. G, title LXXII, § 7201(b), title LXXVII, § 7701(k), Dec. 18, 2025, 139 Stat. 1675, 1837.)
 
 **Editorial Notes**
 
@@ -831,13 +831,13 @@ The date of enactment of this section, referred to in subsecs. (b)(1), (c)(1)(A)
 
 A prior section 312 was renumbered section 339 of this title.
 
-Another prior section 312, acts Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, § 14, 64 Stat. 407, related to relief of retired warrant officer promoted while on active duty, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+Another prior section 312, acts Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, § 14, 64 Stat. 407, related to relief of retired warrant officer promoted while on active duty, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 7201(b), renumbered section 323 of this title as this section.
+2025—Pub. L. 119–60, § 7201(b), renumbered section 323 of this title as this section.
 
-Subsecs. (b)(3)(C), (c)(1)(C)(ii). Pub. L. 119–60, § 7701(k), which directed amendment of section 324 of this title by substituting “Coast Guard Arctic District” for “Seventeenth Coast Guard District” wherever appearing, was executed to this section, to reflect the probable intent of Congress and the renumbering of section 323 of this title as this section by Pub. L. 119–60, see above. There is no section 324 of this title.
+Subsecs. (b)(3)(C), (c)(1)(C)(ii). Pub. L. 119–60, § 7701(k), which directed amendment of section 324 of this title by substituting “Coast Guard Arctic District” for “Seventeenth Coast Guard District” wherever appearing, was executed to this section, to reflect the probable intent of Congress and the renumbering of section 323 of this title as this section by Pub. L. 119–60, see above. There is no section 324 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -845,11 +845,11 @@ Subsecs. (b)(3)(C), (c)(1)(C)(ii). Pub. L. 119–60, § 7701(k), which directe
 
 Nothing in amendment made by Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under section 245 of Title 6, Domestic Security.
 
-### § 313. Chief of Staff to President: appointment
+### § 313. Chief of Staff to President: appointment
 
 The President, by and with the advice and consent of the Senate, may appoint a flag officer of the Coast Guard as the Chief of Staff to the President.
 
-(Added Pub. L. 109–163, div. A, title V, § 597(a), Jan. 6, 2006, 119 Stat. 3283, § 54; renumbered § 310, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; renumbered § 313, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 109–163, div. A, title V, § 597(a), Jan. 6, 2006, 119 Stat. 3283, § 54; renumbered § 310, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; renumbered § 313, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
@@ -857,19 +857,19 @@ The President, by and with the advice and consent of the Senate, may appoint a f
 
 A prior section 313 was renumbered section 331 of this title.
 
-Another prior section 313, acts Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, § 15, 64 Stat. 407, provided that any warrant officer who was retired under sections 303 to 305 or 307 of this title should be retired from active service with the highest grade held by him in which his performance of duty was satisfactory, but not lower than his permanent grade, with retired pay of the grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+Another prior section 313, acts Aug. 4, 1949, ch. 393, 63 Stat. 520; Aug. 3, 1950, ch. 536, § 15, 64 Stat. 407, provided that any warrant officer who was retired under sections 303 to 305 or 307 of this title should be retired from active service with the highest grade held by him in which his performance of duty was satisfactory, but not lower than his permanent grade, with retired pay of the grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(*o*), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
-A prior section 313a, added Pub. L. 85–144, § 2(a), Aug. 14, 1957, 71 Stat. 367, related to retirement of warrant officers in cases where higher grade has been held, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 313a, added Pub. L. 85–144, § 2(a), Aug. 14, 1957, 71 Stat. 367, related to retirement of warrant officers in cases where higher grade has been held, prior to repeal by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 **Amendments**
 
 2025—Pub. L. 119–60 renumbered section 310 of this title as this section.
 
-### § 314. Captains of the port
+### § 314. Captains of the port
 
 Any officer, including any petty officer, may be designated by the Commandant as captain of the port or ports or adjacent high seas or waters over which the United States has jurisdiction, as the Commandant deems necessary to facilitate execution of Coast Guard duties.
 
-(Added Pub. L. 115–282, title I, § 104(c)(1)(A), Dec. 4, 2018, 132 Stat. 4198, § 311; renumbered § 314, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 115–282, title I, § 104(c)(1)(A), Dec. 4, 2018, 132 Stat. 4198, § 311; renumbered § 314, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
@@ -877,17 +877,17 @@ Any officer, including any petty officer, may be designated by the Commandant as
 
 A prior section 314 was renumbered section 332 of this title.
 
-Another prior section 314, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to retiring or dropping for disabilities not incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See section 1207 of Title 10, Armed Forces.
+Another prior section 314, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to retiring or dropping for disabilities not incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See section 1207 of Title 10, Armed Forces.
 
 **Amendments**
 
 2025—Pub. L. 119–60 renumbered section 311 of this title as this section.
 
-### § 315. Congressional affairs; Director
+### § 315. Congressional affairs; Director
 
 The Commandant shall appoint a Director of Congressional Affairs from among officers of the Coast Guard who are in a grade above captain. The Director of Congressional Affairs is separate and distinct from the Director of Governmental and Public Affairs for the Coast Guard and is the principal advisor to the Commandant on all congressional and legislative matters for the Coast Guard and may have such additional functions as the Commandant may direct.
 
-(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8211(a), Jan. 1, 2021, 134 Stat. 4649, § 321; renumbered § 315, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8211(a), Jan. 1, 2021, 134 Stat. 4649, § 321; renumbered § 315, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
@@ -895,17 +895,17 @@ The Commandant shall appoint a Director of Congressional Affairs from among offi
 
 A prior section 315 was renumbered section 333 of this title.
 
-Another prior section 315, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to dropping for disabilities due to vicious habits, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See section 1207 of Title 10.
+Another prior section 315, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to dropping for disabilities due to vicious habits, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See section 1207 of Title 10.
 
 **Amendments**
 
 2025—Pub. L. 119–60 renumbered section 321 of this title as this section.
 
-### § 316. Commandant Advisory Judge Advocate
+### § 316. Commandant Advisory Judge Advocate
 
 There shall be in the Coast Guard a Commandant Advisory Judge Advocate who is a judge advocate in a grade of O-6. The Commandant Advisory Judge Advocate shall be assigned to the staff of the Commandant in the first regularly scheduled O-6 officer assignment panel to convene following the date of the enactment of the Coast Guard Authorization Act of 2025 and perform such duties relating to legal matters arising in the Coast Guard as such legal matters relate to the Commandant, as may be assigned.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7201(e)(6), Dec. 18, 2025, 139 Stat. 1679.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7201(e)(6), Dec. 18, 2025, 139 Stat. 1679.)
 
 **Editorial Notes**
 
@@ -917,7 +917,7 @@ The date of the enactment of the Coast Guard Authorization Act of 2025, referred
 
 A prior section 316 was renumbered section 334 of this title.
 
-### § 317. Special Advisor to Commandant for Tribal and Native Hawaiian Affairs
+### § 317. Special Advisor to Commandant for Tribal and Native Hawaiian Affairs
 
 **(a) In General.—** In accordance with Federal trust responsibilities and treaty obligations, laws, and policies relevant to Indian Tribes and in support of the principles of self-determination, self-governance, and co-management with respect to Indian Tribes, and to support engagement with Native Hawaiians, there shall be in the Coast Guard a Special Advisor to the Commandant for Tribal and Native Hawaiian Affairs (in this section referred to as the “Special Advisor”), who shall—
 
@@ -963,7 +963,7 @@ A prior section 316 was renumbered section 334 of this title.
 
 **(3) Tribal organization.—** The term “Tribal organization” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7201(e)(6), Dec. 18, 2025, 139 Stat. 1679.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7201(e)(6), Dec. 18, 2025, 139 Stat. 1679.)
 
 **Editorial Notes**
 
@@ -975,7 +975,7 @@ A prior section 317 was renumbered section 311 of this title.
 
 **Rule of Construction**
 
-Pub. L. 119–60, div. G, title LXXII, § 7201(h)(3)(C), (D), Dec. 18, 2025, 139 Stat. 1686, provided that:
+Pub. L. 119–60, div. G, title LXXII, § 7201(h)(3)(C), (D), Dec. 18, 2025, 139 Stat. 1686, provided that:
 
 > **“(C) Definitions.—** In this subsection [enacting this note and provisions not set out in the Code]:
 
@@ -991,7 +991,7 @@ Pub. L. 119–60, div. G, title LXXII, § 7201(h)(3)(C), (D), Dec. 18, 2025, 1
 
 > **“(ii)** any government-to-government consultation.”
 
-### § 318. Judge Advocate General; Deputy Judge Advocate General: appointment; duties
+### § 318. Judge Advocate General; Deputy Judge Advocate General: appointment; duties
 
 **(a) In General.—** The Judge Advocate General in the Coast Guard shall be appointed by the President, by and with the advice and consent of the Senate, from officers of the Coast Guard designated as judge advocates. The term of office is not more than 4 years.
 
@@ -1021,7 +1021,7 @@ Pub. L. 119–60, div. G, title LXXII, § 7201(h)(3)(C), (D), Dec. 18, 2025, 1
 
 **(2)** the ability of judge advocates of the Coast Guard assigned or attached to, or performing duty with, military units to give independent legal advice to commanders.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7201(e)(6), Dec. 18, 2025, 139 Stat. 1680.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7201(e)(6), Dec. 18, 2025, 139 Stat. 1680.)
 
 **Editorial Notes**
 
@@ -1043,9 +1043,9 @@ Other prior sections 321 to 327 were renumbered sections 2158 to 2164 of this ti
 
 **Amendments**
 
-2025–Pub. L. 119–60, div. G, title LXXII, § 7201(c)(3), Dec. 18, 2025, 139 Stat. 1677, inserted subchapter III designation and heading.
+2025–Pub. L. 119–60, div. G, title LXXII, § 7201(c)(3), Dec. 18, 2025, 139 Stat. 1677, inserted subchapter III designation and heading.
 
-### § 331. Centers of expertise for Coast Guard prevention and response
+### § 331. Centers of expertise for Coast Guard prevention and response
 
 **(a) Establishment.—** The Commandant may establish and operate one or more centers of expertise for prevention and response missions of the Coast Guard (in this section referred to as a “center”).
 
@@ -1081,7 +1081,7 @@ Other prior sections 321 to 327 were renumbered sections 2158 to 2164 of this ti
 
 **(3)** The Commandant shall prescribe written guidance setting forth the criteria to be used in determining whether or not the acceptance of a donation from a foreign source would have a result described in paragraph (2).
 
-(Added Pub. L. 111–281, title V, § 521(a), Oct. 15, 2010, 124 Stat. 2955, § 58; amended Pub. L. 113–281, title II, § 204, Dec. 18, 2014, 128 Stat. 3025; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(1), Aug. 13, 2018, 132 Stat. 2320; renumbered § 313 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(2), Jan. 1, 2021, 134 Stat. 4747; renumbered § 331, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 111–281, title V, § 521(a), Oct. 15, 2010, 124 Stat. 2955, § 58; amended Pub. L. 113–281, title II, § 204, Dec. 18, 2014, 128 Stat. 3025; Pub. L. 115–232, div. C, title XXXV, § 3531(c)(1), Aug. 13, 2018, 132 Stat. 2320; renumbered § 313 and amended Pub. L. 115–282, title I, §§ 104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(2), Jan. 1, 2021, 134 Stat. 4747; renumbered § 331, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
@@ -1095,11 +1095,11 @@ A prior section 331 was renumbered section 2127 of this title.
 
 2021—Subsec. (d)(2)(B). Pub. L. 116–283 substituted “individual” for “person”.
 
-2018—Pub. L. 115–282, § 104(b), renumbered section 58 of this title as this section.
+2018—Pub. L. 115–282, § 104(b), renumbered section 58 of this title as this section.
 
 Subsec. (a). Pub. L. 115–232 substituted “Commandant” for “Commandant of the Coast Guard”.
 
-Subsec. (b)(1)(C). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a)(4)” for “section 93(a)(4)”.
+Subsec. (b)(1)(C). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a)(4)” for “section 93(a)(4)”.
 
 2014—Subsec. (b). Pub. L. 113–281 amended subsec. (b) generally. Prior to amendment, text read as follows: “Each center shall—
 
@@ -1113,7 +1113,7 @@ Subsec. (b)(1)(C). Pub. L. 115–282, § 123(b)(2), substituted “section 504
 
 **Center of Expertise for Great Lakes Oil Spill Preparedness and Response**
 
-Pub. L. 115–282, title VIII, § 807, Dec. 4, 2018, 132 Stat. 4301, as amended by Pub. L. 117–263, div. K, title CXII, § 11214, Dec. 23, 2022, 136 Stat. 4016; Pub. L. 119–60, div. G, title LXXII § 7201(i)(2), title LXXVII, § 7701(j), Dec. 18, 2025, 139 Stat. 1686, 1837, provided that:
+Pub. L. 115–282, title VIII, § 807, Dec. 4, 2018, 132 Stat. 4301, as amended by Pub. L. 117–263, div. K, title CXII, § 11214, Dec. 23, 2022, 136 Stat. 4016; Pub. L. 119–60, div. G, title LXXII § 7201(i)(2), title LXXVII, § 7701(j), Dec. 18, 2025, 139 Stat. 1686, 1837, provided that:
 
 > **“(a) In General.—** Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Commandant of the Coast Guard shall establish a Center of Expertise for Great Lakes Oil Spill Preparedness and Response (referred to in this section as the ‘Center of Expertise’) in accordance with section 331 of title 14, United States Code, as amended by this Act.
 
@@ -1157,7 +1157,7 @@ Pub. L. 115–282, title VIII, § 807, Dec. 4, 2018, 132 Stat. 4301, as amende
 
 **Coast Guard Blue Technology Center of Expertise**
 
-Pub. L. 115–265, title III, § 302, Oct. 11, 2018, 132 Stat. 3752, provided that:
+Pub. L. 115–265, title III, § 302, Oct. 11, 2018, 132 Stat. 3752, provided that:
 
 > **“(a) Establishment.—** Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018] and subject to the availability of appropriations, the Commandant may establish under [former] section 58 [now 331] of title 14, United States Code, a Blue Technology center of expertise.
 
@@ -1205,7 +1205,7 @@ Pub. L. 115–265, title III, § 302, Oct. 11, 2018, 132 Stat. 3752, provided 
 
 > **“(vi)** protection and conservation of the marine environment.”
 
-### § 332. Marine industry training program
+### § 332. Marine industry training program
 
 The Commandant shall, by policy, establish a program under which an officer, member, or employee of the Coast Guard may be assigned to a private entity to further the institutional interests of the Coast Guard with regard to marine safety, including for the purpose of providing training to an officer, member, or employee. Policies to carry out the program—
 
@@ -1219,7 +1219,7 @@ The Commandant shall, by policy, establish a program under which an officer, mem
 
 **(2)** shall require the Commandant, before approving the assignment of an officer, member, or employee of the Coast Guard to a private entity, to determine that the assignment is an effective use of the Coast Guard’s funds, taking into account the best interests of the Coast Guard and the costs and benefits of alternative methods of achieving the same results and objectives.
 
-(Added Pub. L. 111–281, title V, § 521(a), Oct. 15, 2010, 124 Stat. 2956, § 59; amended Pub. L. 113–281, title II, § 221(a)(1), Dec. 18, 2014, 128 Stat. 3037; renumbered § 314, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; renumbered § 332, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 111–281, title V, § 521(a), Oct. 15, 2010, 124 Stat. 2956, § 59; amended Pub. L. 113–281, title II, § 221(a)(1), Dec. 18, 2014, 128 Stat. 3037; renumbered § 314, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; renumbered § 332, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
@@ -1239,7 +1239,7 @@ A prior section 332 was renumbered section 2128 of this title.
 
 “(2) the specific benefit that accrues to the Coast Guard for each assignment.”
 
-### § 333. Training courses on workings of Congress
+### § 333. Training courses on workings of Congress
 
 **(a) In General.—**
 
@@ -1291,9 +1291,9 @@ A prior section 332 was renumbered section 2128 of this title.
 
 **(E)** the concept and underlying purposes of congressional oversight within the governance framework of separation of powers;
 
-**(F)** the roles of independent oversight entities, including the Offices of the Inspector Generals, the Government Accountability Office, and other independent entities, with respect 1
+**(F)** the roles of independent oversight entities, including the Offices of the Inspector Generals, the Government Accountability Office, and other independent entities, with respect 1
 
-<sup>1</sup>  So in original. Probably should be followed by “to”.
+<sup>1</sup> So in original. Probably should be followed by “to”.
 
 oversight of the Coast Guard;
 
@@ -1315,9 +1315,9 @@ oversight of the Coast Guard;
 
 **(b) Training for Congressional Affairs Personnel.—**
 
-**(1) In general.—** The Commandant shall develop a training course on the workings of Congress, which shall be administered in person for to 2
+**(1) In general.—** The Commandant shall develop a training course on the workings of Congress, which shall be administered in person for to 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 any required participant.
 
@@ -1349,9 +1349,9 @@ any required participant.
 
 **(A) In general.—** The training course required under this subsection shall provide an overview and introduction to Congress and the Federal legislative process, including—
 
-**(i)** the items described in subparagraphs (C) through (K) of subsection (a)(2); 3
+**(i)** the items described in subparagraphs (C) through (K) of subsection (a)(2); 3
 
-<sup>3</sup>  So in original. Probably should be “subparagraphs (C) through (J) of subsection (a)(3);”.
+<sup>3</sup> So in original. Probably should be “subparagraphs (C) through (J) of subsection (a)(3);”.
 
 **(ii)** the roles of Coast Guard fellows, liaisons, counsels, governmental affairs officers, the Coast Guard Office of Program Review, the Coast Guard Headquarters program offices, and any other entity the Commandant considers relevant;
 
@@ -1371,7 +1371,7 @@ any required participant.
 
 **(A) In general.—** At the written request of a receiving congressional office, the training course required under this section shall include a multi-day detail within the Coast Guard Office of Coordination, Programs,4
 
-<sup>4</sup>  So in original. Probably should be followed by “and”.
+<sup>4</sup> So in original. Probably should be followed by “and”.
 
 Accountability to ensure adequate exposure to Coast Guard policy, oversight, and requests from Congress.
 
@@ -1385,13 +1385,13 @@ Accountability to ensure adequate exposure to Coast Guard policy, oversight, and
 
 **(2) Authority to accept pro bono services.—** In satisfying the requirement under paragraph (1), the Commandant shall seek, and may accept, educational and instructional services of lecturers, panelists, and other individuals and organizations provided to the Coast Guard on a pro bono basis.
 
-(Added Pub. L. 119–60, div. G, title LXXII, § 7201(e)(7), Dec. 18, 2025, 139 Stat. 1681.)
+(Added Pub. L. 119–60, div. G, title LXXII, § 7201(e)(7), Dec. 18, 2025, 139 Stat. 1681.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 333, added Pub. L. 114–120, title II, § 214(b)(1), Feb. 8, 2016, 130 Stat. 43, § 60; amended Pub. L. 114–328, div. C, title XXXV, § 3503(a), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, § 3532, Aug. 13, 2018, 132 Stat. 2321; renumbered § 315, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 117–263, div. K, title CXII, § 11251(a), Dec. 23, 2022, 136 Stat. 4052; renumbered § 333, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675, which related to training for congressional affairs personnel, was repealed, just after its renumbering, by Pub. L. 119–60, div. G, title LXXII, § 7201(e)(7), Dec. 18, 2025, 139 Stat. 1681.
+A prior section 333, added Pub. L. 114–120, title II, § 214(b)(1), Feb. 8, 2016, 130 Stat. 43, § 60; amended Pub. L. 114–328, div. C, title XXXV, § 3503(a), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, § 3532, Aug. 13, 2018, 132 Stat. 2321; renumbered § 315, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 117–263, div. K, title CXII, § 11251(a), Dec. 23, 2022, 136 Stat. 4052; renumbered § 333, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675, which related to training for congressional affairs personnel, was repealed, just after its renumbering, by Pub. L. 119–60, div. G, title LXXII, § 7201(e)(7), Dec. 18, 2025, 139 Stat. 1681.
 
 Another prior section 333 was renumbered section 2165 of this title.
 
@@ -1399,9 +1399,9 @@ Another prior section 333 was renumbered section 2165 of this title.
 
 **Effect of Law**
 
-Pub. L. 119–60, div. G, title LXXII, § 7201(g), Dec. 18, 2025, 139 Stat. 1685, provided that: “The training required by subsection (a) of section 333 of title 14, United States Code (as amended by this Act), shall replace the training that was required by the Commandant [of the Coast Guard] on the day before the date of enactment of this Act [Dec. 18, 2025].”
+Pub. L. 119–60, div. G, title LXXII, § 7201(g), Dec. 18, 2025, 139 Stat. 1685, provided that: “The training required by subsection (a) of section 333 of title 14, United States Code (as amended by this Act), shall replace the training that was required by the Commandant [of the Coast Guard] on the day before the date of enactment of this Act [Dec. 18, 2025].”
 
-### § 334. National Coast Guard Museum
+### § 334. National Coast Guard Museum
 
 **(a) Establishment.—** The Commandant may establish, accept, operate, maintain and support the Museum, on lands which will be federally owned and administered by the Coast Guard, and are located in New London, Connecticut.
 
@@ -1459,7 +1459,7 @@ Pub. L. 119–60, div. G, title LXXII, § 7201(g), Dec. 18, 2025, 139 Stat. 16
 
 **(2) Association.—** The term “Association” means the National Coast Guard Museum Association.
 
-(Added Pub. L. 108–293, title II, § 213(a), Aug. 9, 2004, 118 Stat. 1037, § 98; amended Pub. L. 114–120, title II, § 219, Feb. 8, 2016, 130 Stat. 48; renumbered § 316 and amended Pub. L. 115–282, title I, § 104(b), title III, § 303, Dec. 4, 2018, 132 Stat. 4196, 4243; Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8439(a), Jan. 1, 2021, 134 Stat. 4737; Pub. L. 117–263, div. K, title CXII, § 11259, Dec. 23, 2022, 136 Stat. 4058; renumbered § 334 and amended Pub. L. 119–60, div. G, title LXXII, § 7201(b), (e)(8), Dec. 18, 2025, 139 Stat. 1675, 1684.)
+(Added Pub. L. 108–293, title II, § 213(a), Aug. 9, 2004, 118 Stat. 1037, § 98; amended Pub. L. 114–120, title II, § 219, Feb. 8, 2016, 130 Stat. 48; renumbered § 316 and amended Pub. L. 115–282, title I, § 104(b), title III, § 303, Dec. 4, 2018, 132 Stat. 4196, 4243; Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8439(a), Jan. 1, 2021, 134 Stat. 4737; Pub. L. 117–263, div. K, title CXII, § 11259, Dec. 23, 2022, 136 Stat. 4058; renumbered § 334 and amended Pub. L. 119–60, div. G, title LXXII, § 7201(b), (e)(8), Dec. 18, 2025, 139 Stat. 1675, 1684.)
 
 **Editorial Notes**
 
@@ -1473,9 +1473,9 @@ A prior section 334 was renumbered section 2501 of this title.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 7201(b), renumbered section 316 of this title as this section.
+2025—Pub. L. 119–60, § 7201(b), renumbered section 316 of this title as this section.
 
-Subsec. (b). Pub. L. 119–60, § 7201(e)(8)(A), amended subsec. (b) generally. Prior to amendment, text read as follows:
+Subsec. (b). Pub. L. 119–60, § 7201(e)(8)(A), amended subsec. (b) generally. Prior to amendment, text read as follows:
 
 “(1) The Secretary shall not expend any funds appropriated to the Coast Guard on the construction of any museum established under this section.
 
@@ -1483,31 +1483,31 @@ Subsec. (b). Pub. L. 119–60, § 7201(e)(8)(A), amended subsec. (b) generally
 
 “(3) The priority for the use of funds appropriated to the Coast Guard shall be to preserve, protect, and display historic Coast Guard artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.”
 
-Subsec. (g). Pub. L. 119–60, § 7201(e)(8)(B), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Commandant may solicit from the Association and accept services from nonprofit entities, including services related to activities for construction of the Museum.”
+Subsec. (g). Pub. L. 119–60, § 7201(e)(8)(B), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Commandant may solicit from the Association and accept services from nonprofit entities, including services related to activities for construction of the Museum.”
 
 2022—Subsec. (c)(4). Pub. L. 117–263 substituted “a third party entity qualified to undertake such a certification process” for “the Inspector General of the department in which the Coast Guard is operating”.
 
 2021—Pub. L. 116–283 amended section generally. Prior to amendment, section related to National Coast Guard Museum.
 
-2018—Pub. L. 115–282, § 303, amended section generally. Prior to amendment, section related to National Coast Guard Museum.
+2018—Pub. L. 115–282, § 303, amended section generally. Prior to amendment, section related to National Coast Guard Museum.
 
-Pub. L. 115–282, § 104(b), renumbered section 98 of this title as this section.
+Pub. L. 115–282, § 104(b), renumbered section 98 of this title as this section.
 
-2016—Subsec. (b)(1). Pub. L. 114–120, § 219(1), substituted “any funds appropriated to the Coast Guard on” for “any appropriated Federal funds for”.
+2016—Subsec. (b)(1). Pub. L. 114–120, § 219(1), substituted “any funds appropriated to the Coast Guard on” for “any appropriated Federal funds for”.
 
-Subsec. (b)(2). Pub. L. 114–120, § 219(2), substituted “artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.” for “artifacts.”
+Subsec. (b)(2). Pub. L. 114–120, § 219(2), substituted “artifacts, including the design, fabrication, and installation of exhibits or displays in which such artifacts are included.” for “artifacts.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rule of Construction**
 
-Pub. L. 119–60, div. G, title LXXII, § 7201(f), Dec. 18, 2025, 139 Stat. 1685, provided that:
+Pub. L. 119–60, div. G, title LXXII, § 7201(f), Dec. 18, 2025, 139 Stat. 1685, provided that:
 
 > **“(1) In general.—** Nothing in chapter 3 of title 14, United States Code, or any other law, may be construed to require the Coast Guard to construct, own, or operate a Museum as a condition of providing financial support to the Association for the purposes for which assistance is authorized under such chapter.
 
 > **“(2) Definitions.—** In paragraph (1), the terms ‘Association’ and ‘Museum’ have the meanings given such terms in chapter 3 of title 14, United States Code.”
 
-### § 335. Environmental Compliance and Restoration Program
+### § 335. Environmental Compliance and Restoration Program
 
 **(a) Definitions.—** For the purposes of this section—
 
@@ -1561,13 +1561,13 @@ Pub. L. 119–60, div. G, title LXXII, § 7201(f), Dec. 18, 2025, 139 Stat. 16
 
 **(d) Annual List of Projects to Congress.—** The Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a prioritized list of projects eligible for environmental compliance and restoration funding for each fiscal year concurrent with the President’s budget submission for that fiscal year.
 
-(Added Pub. L. 115–282, title I, § 104(c)(1)(B), Dec. 4, 2018, 132 Stat. 4198, § 318; renumbered § 335, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 115–282, title I, § 104(c)(1)(B), Dec. 4, 2018, 132 Stat. 4198, § 318; renumbered § 335, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in text, probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in text, probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 **Prior Provisions**
 
@@ -1577,7 +1577,7 @@ A prior section 335 was renumbered section 2181 of this title.
 
 2025—Pub. L. 119–60 renumbered section 318 of this title as this section.
 
-### § 336. Unmanned system program and autonomous control and computer vision technology project
+### § 336. Unmanned system program and autonomous control and computer vision technology project
 
 **(a) Unmanned System Program.—** Not later than 2 years after the date of enactment of this section, the Secretary shall establish, under the control of the Commandant, an unmanned system program for the use by the Coast Guard of land-based, cutter-based, and aircraft-based unmanned systems for the purpose of increasing effectiveness and efficiency of mission execution.
 
@@ -1601,7 +1601,7 @@ A prior section 335 was renumbered section 2181 of this title.
 
 **(3)** an unmanned marine subsurface system.
 
-(Added Pub. L. 115–282, title III, § 304(a), Dec. 4, 2018, 132 Stat. 4244, § 319; amended Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8413(a), Jan. 1, 2021, 134 Stat. 4725; Pub. L. 117–263, div. K, title CXII, § 11225(a), title CXVIII, § 11803(a), Dec. 23, 2022, 136 Stat. 4024, 4163; renumbered § 336 and amended Pub. L. 119–60, div. G, title LXXII, § 7201(b), title LXXIII, § 7334, Dec. 18, 2025, 139 Stat. 1675, 1773.)
+(Added Pub. L. 115–282, title III, § 304(a), Dec. 4, 2018, 132 Stat. 4244, § 319; amended Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8413(a), Jan. 1, 2021, 134 Stat. 4725; Pub. L. 117–263, div. K, title CXII, § 11225(a), title CXVIII, § 11803(a), Dec. 23, 2022, 136 Stat. 4024, 4163; renumbered § 336 and amended Pub. L. 119–60, div. G, title LXXII, § 7201(b), title LXXIII, § 7334, Dec. 18, 2025, 139 Stat. 1675, 1773.)
 
 **Editorial Notes**
 
@@ -1615,15 +1615,15 @@ A prior section 336 was renumbered section 317 of this title and subsequently re
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 7201(b), renumbered section 319 of this title as this section.
+2025—Pub. L. 119–60, § 7201(b), renumbered section 319 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 119–60, § 7334(1), substituted “up to 4” for “2 or more” in introductory provisions.
+Subsec. (b)(1). Pub. L. 119–60, § 7334(1), substituted “up to 4” for “2 or more” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 119–60, § 7334(2), inserted “in person or in writing” after “a briefing”.
+Subsec. (b)(3). Pub. L. 119–60, § 7334(2), inserted “in person or in writing” after “a briefing”.
 
-2022—Pub. L. 117–263, § 11225(a), amended section generally. Prior to amendment, section related to land-based unmanned aircraft system program.
+2022—Pub. L. 117–263, § 11225(a), amended section generally. Prior to amendment, section related to land-based unmanned aircraft system program.
 
-Subsec. (b). Pub. L. 117–263, § 11803(a), which directed substitution of “section 44801 of title 49” for “section 331 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note)”, could not be executed because of the intervening general amendment of this section by Pub. L. 117–263, § 11225(a). See above.
+Subsec. (b). Pub. L. 117–263, § 11803(a), which directed substitution of “section 44801 of title 49” for “section 331 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note)”, could not be executed because of the intervening general amendment of this section by Pub. L. 117–263, § 11225(a). See above.
 
 2021—Subsec. (c). Pub. L. 116–283 added subsec. (c).
 
@@ -1631,7 +1631,7 @@ Subsec. (b). Pub. L. 117–263, § 11803(a), which directed substitution of �
 
 **Coast Guard Training Course**
 
-Pub. L. 119–60, div. G, title LXXIII, § 7332, Dec. 18, 2025, 139 Stat. 1772, provided that:
+Pub. L. 119–60, div. G, title LXXIII, § 7332, Dec. 18, 2025, 139 Stat. 1772, provided that:
 
 > **“(a) In General.—** For the period beginning on the date of enactment of this Act [Dec. 18, 2025] and ending on the date that is 3 years after such date of enactment, the Commandant [of the Coast Guard], or such other individual or organization as the Commandant considers appropriate, shall develop a training course on small uncrewed maritime systems and offer such training course at least once each year for Coast Guard personnel working with or regulating small uncrewed maritime systems.
 
@@ -1669,7 +1669,7 @@ Pub. L. 119–60, div. G, title LXXIII, § 7332, Dec. 18, 2025, 139 Stat. 1772
 
 **Unmanned Aircraft Systems Testing**
 
-Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8412, Jan. 1, 2021, 134 Stat. 4724, provided that:
+Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8412, Jan. 1, 2021, 134 Stat. 4724, provided that:
 
 > **“(a) Training Area.—** The Commandant [of the Coast Guard] shall carry out and update, as appropriate, a program for the use of one or more training areas to facilitate the use of unmanned aircraft systems and small unmanned aircraft to support missions of the Coast Guard.
 
@@ -1699,7 +1699,7 @@ Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8412, Jan. 1, 2021, 134 
 
 > **“(2)** the terms ‘small unmanned aircraft’ and ‘unmanned aircraft system’ have the meanings given those terms in section 44801 of title 49, United States Code.”
 
-### § 337. Coast Guard Junior Reserve Officers’ Training Corps
+### § 337. Coast Guard Junior Reserve Officers’ Training Corps
 
 **(a) Establishment.—** The Secretary of the department in which the Coast Guard is operating may establish and maintain a Junior Reserve Officers’ Training Corps, organized into units, at public and private secondary educational institutions.
 
@@ -1713,7 +1713,7 @@ Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8412, Jan. 1, 2021, 134 
 
 **(d) Exception.—** The requirements of chapter 102 of title 10 shall not apply to a unit of the Junior Reserve Officers’ Training Corps established by the Secretary of the department in which the Coast Guard is operating before the date of the enactment of this section unless the Secretary determines it is appropriate to apply such requirements to such unit.
 
-(Added Pub. L. 116–92, div. A, title V, § 519(a), Dec. 20, 2019, 133 Stat. 1350, § 320; amended Pub. L. 117–263, div. K, title CXII, § 11247(a), Dec. 23, 2022, 136 Stat. 4047; renumbered § 337, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 116–92, div. A, title V, § 519(a), Dec. 20, 2019, 133 Stat. 1350, § 320; amended Pub. L. 117–263, div. K, title CXII, § 11247(a), Dec. 23, 2022, 136 Stat. 4047; renumbered § 337, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
@@ -1725,21 +1725,21 @@ The date of the enactment of this section, referred to in subsec. (d), is the da
 
 2025—Pub. L. 119–60 renumbered section 320 of this title as this section.
 
-2022—Subsec. (b). Pub. L. 117–263, § 11247(a)(2), substituted “subsection (d)” for “subsection (c)”.
+2022—Subsec. (b). Pub. L. 117–263, § 11247(a)(2), substituted “subsection (d)” for “subsection (c)”.
 
-Subsecs. (c), (d). Pub. L. 117–263, § 11247(a)(1), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 117–263, § 11247(a)(1), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Expansion**
 
-Pub. L. 119–60, div. G, title LXXII, § 7268(b), Dec. 18, 2025, 139 Stat. 1745, provided that:
+Pub. L. 119–60, div. G, title LXXII, § 7268(b), Dec. 18, 2025, 139 Stat. 1745, provided that:
 
 > **“(1) In general.—** Beginning on December 31, 2026, the Secretary of the department in which the Coast Guard is operating shall maintain at all times a Junior Reserve Officers’ Training Corps Program with not fewer than 20 such programs.
 
 > **“(2) Cost assessment.—** Not later than 1 year after the date of enactment of this Act [Dec. 18, 2025], the Secretary of the department in which the Coast Guard is operating shall provide Congress with an estimate of the costs associated with implementing this subsection.”
 
-### § 338. Redistricting notification requirement
+### § 338. Redistricting notification requirement
 
 The Commandant shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate at least 180 days before—
 
@@ -1747,19 +1747,19 @@ The Commandant shall notify the Committee on Transportation and Infrastructure o
 
 **(2)** permanently transferring more than 10 percent of the personnel or equipment from a district office where such personnel or equipment is based.
 
-(Added and amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(1), Jan. 1, 2021, 134 Stat. 4745, § 322; renumbered § 338, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added and amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8501(a)(1), Jan. 1, 2021, 134 Stat. 4745, § 322; renumbered § 338, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 108–293, title II, § 215, Aug. 9, 2004, 118 Stat. 1038, formerly set out as a note under section 504 of this title, was redesignated as section 322 of this title, transferred to appear after section 321 of this title, and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, § 8501(a)(1).
+Pub. L. 108–293, title II, § 215, Aug. 9, 2004, 118 Stat. 1038, formerly set out as a note under section 504 of this title, was redesignated as section 322 of this title, transferred to appear after section 321 of this title, and amended so that the enumerator, section catchline, typeface, and typestyle conformed to those appearing in other sections of this title by Pub. L. 116–283, § 8501(a)(1).
 
 **Amendments**
 
 2025—Pub. L. 119–60 renumbered section 322 of this title as this section.
 
-### § 339. Prevention and response workforces
+### § 339. Prevention and response workforces
 
 **(a) Career Paths.—** The Secretary, acting through the Commandant, shall ensure that appropriate career paths for civilian and military Coast Guard personnel who wish to pursue career paths in prevention or response positions are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the Armed Forces to the most senior prevention or response positions, as appropriate. The Secretary shall make available published information on such career paths.
 
@@ -1799,7 +1799,7 @@ Pub. L. 108–293, title II, § 215, Aug. 9, 2004, 118 Stat. 1038, formerly se
 
 **(g) Sector Chief of Response.—** There shall be in each Coast Guard sector a Chief of Response who shall be at least a Lieutenant Commander or civilian employee within the grade GS–13 of the General Schedule in each Coast Guard sector.
 
-(Added Pub. L. 111–281, title V, § 521(a), Oct. 15, 2010, 124 Stat. 2953, § 57; amended Pub. L. 113–281, title II, §§ 203, 221(b)(1)(B), Dec. 18, 2014, 128 Stat. 3024, 3038; renumbered § 312, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], §§ 8504(a), 8505(a)(1), Jan. 1, 2021, 134 Stat. 4747; renumbered § 339, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
+(Added Pub. L. 111–281, title V, § 521(a), Oct. 15, 2010, 124 Stat. 2953, § 57; amended Pub. L. 113–281, title II, §§ 203, 221(b)(1)(B), Dec. 18, 2014, 128 Stat. 3024, 3038; renumbered § 312, Pub. L. 115–282, title I, § 104(b), Dec. 4, 2018, 132 Stat. 4196; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], §§ 8504(a), 8505(a)(1), Jan. 1, 2021, 134 Stat. 4747; renumbered § 339, Pub. L. 119–60, div. G, title LXXII, § 7201(b), Dec. 18, 2025, 139 Stat. 1675.)
 
 **Editorial Notes**
 
@@ -1807,92 +1807,92 @@ Pub. L. 108–293, title II, § 215, Aug. 9, 2004, 118 Stat. 1038, formerly se
 
 For redesignation of prior sections 350 to 500 not listed below as having been previously repealed or renumbered, see Table Showing Redesignations Made by Title I of Pub. L. 115–282 preceding section 101 of this title.
 
-A prior section 356, act Aug. 4, 1949, ch. 393, 63 Stat. 521, related to retirement for disabilities incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See sections 1204 and 1376 of Title 10, Armed Forces.
+A prior section 356, act Aug. 4, 1949, ch. 393, 63 Stat. 521, related to retirement for disabilities incident to service, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See sections 1204 and 1376 of Title 10, Armed Forces.
 
-A prior section 358, act Aug. 4, 1949, ch. 393, § 1, 63 Stat. 522, limited number of retirements in a calendar year of enlisted men who had completed 20 years of service, to not more than the whole number nearest 1 percent of the total enlisted force on the active list, and any men so authorized to be retired annually who were not so retired, could be retired during any subsequent year providing the total retired in that year did not exceed 3 percent of the total enlisted force, prior to repeal by Pub. L. 88–114, § 1(2), Sept. 6, 1963, 77 Stat. 144.
+A prior section 358, act Aug. 4, 1949, ch. 393, § 1, 63 Stat. 522, limited number of retirements in a calendar year of enlisted men who had completed 20 years of service, to not more than the whole number nearest 1 percent of the total enlisted force on the active list, and any men so authorized to be retired annually who were not so retired, could be retired during any subsequent year providing the total retired in that year did not exceed 3 percent of the total enlisted force, prior to repeal by Pub. L. 88–114, § 1(2), Sept. 6, 1963, 77 Stat. 144.
 
-Prior sections 363 and 364 were repealed by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408.
+Prior sections 363 and 364 were repealed by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408.
 
 Section 363, act Aug. 4, 1949, ch. 393, 63 Stat. 523, related to retiring or dropping for disabilities not incident to service. See section 1207 of Title 10, Armed Forces.
 
 Section 364, act Aug. 4, 1949, ch. 393, 63 Stat. 523, related to dropping for disabilities due to vicious habits. See section 1207 of Title 10, Armed Forces.
 
-A prior section 368, act Aug. 4, 1949, ch. 393, 63 Stat. 524, related to discharge in case of under-age enlistment, prior to repeal by Pub. L. 97–322, title I, § 115(b)(1), Oct. 15, 1982, 96 Stat. 1585.
+A prior section 368, act Aug. 4, 1949, ch. 393, 63 Stat. 524, related to discharge in case of under-age enlistment, prior to repeal by Pub. L. 97–322, title I, § 115(b)(1), Oct. 15, 1982, 96 Stat. 1585.
 
-A prior section 425, act Aug. 4, 1949, ch. 393, 63 Stat. 525, related to retiring boards, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See section 1216 of Title 10, Armed Forces.
+A prior section 425, act Aug. 4, 1949, ch. 393, 63 Stat. 525, related to retiring boards, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See section 1216 of Title 10, Armed Forces.
 
-Prior sections 431, 433, and 434 were repealed by Pub. L. 99–640, § 10(a)(6)(A), Nov. 10, 1986, 100 Stat. 3549, which provided in part that such repeal did not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun under those sections before Nov. 10, 1986.
+Prior sections 431, 433, and 434 were repealed by Pub. L. 99–640, § 10(a)(6)(A), Nov. 10, 1986, 100 Stat. 3549, which provided in part that such repeal did not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun under those sections before Nov. 10, 1986.
 
-Section 431, acts Aug. 4, 1949, ch. 393, 63 Stat. 526; Aug. 3, 1950, ch. 536, § 24, 64 Stat. 407, related to personnel of former Life Saving Service.
+Section 431, acts Aug. 4, 1949, ch. 393, 63 Stat. 526; Aug. 3, 1950, ch. 536, § 24, 64 Stat. 407, related to personnel of former Life Saving Service.
 
-Section 433, acts Aug. 4, 1949, ch. 393, 63 Stat. 528; Sept. 27, 1949, ch. 586, 63 Stat. 698; Sept. 24, 1963, Pub. L. 88–130, § 1(11), 77 Stat. 190; Oct. 12, 1982, Pub. L. 97–295, § 2(11), (14), 96 Stat. 1302, related to personnel of former Bureau of Marine Inspection and Navigation and Bureau of Customs.
+Section 433, acts Aug. 4, 1949, ch. 393, 63 Stat. 528; Sept. 27, 1949, ch. 586, 63 Stat. 698; Sept. 24, 1963, Pub. L. 88–130, § 1(11), 77 Stat. 190; Oct. 12, 1982, Pub. L. 97–295, § 2(11), (14), 96 Stat. 1302, related to personnel of former Bureau of Marine Inspection and Navigation and Bureau of Customs.
 
-Section 434, added act Sept. 23, 1950, ch. 996, 64 Stat. 978; amended Oct. 12, 1982, Pub. L. 97–295, § 2(14), 96 Stat. 1302, related to personnel appointed as constructors.
+Section 434, added act Sept. 23, 1950, ch. 996, 64 Stat. 978; amended Oct. 12, 1982, Pub. L. 97–295, § 2(14), 96 Stat. 1302, related to personnel appointed as constructors.
 
-Prior sections 435 to 437 were repealed by Pub. L. 88–130, § 4(a), Sept. 24, 1963, 77 Stat. 192.
+Prior sections 435 to 437 were repealed by Pub. L. 88–130, § 4(a), Sept. 24, 1963, 77 Stat. 192.
 
-Section 435, added act Aug. 10, 1956, ch. 1041, § 9(a), 70A Stat. 620, related to temporary appointments in time of war or national emergency.
+Section 435, added act Aug. 10, 1956, ch. 1041, § 9(a), 70A Stat. 620, related to temporary appointments in time of war or national emergency.
 
-Section 436, added act Aug. 10, 1956, ch. 1041, § 9(a), 70A Stat. 621, related to temporary promotions in time of war or national emergency.
+Section 436, added act Aug. 10, 1956, ch. 1041, § 9(a), 70A Stat. 621, related to temporary promotions in time of war or national emergency.
 
-Section 437, acts Aug. 10, 1956, ch. 1041, § 9(a), 70A Stat. 622; June 28, 1962, Pub. L. 87–509, § 4(b), 76 Stat. 121, related to discharge during war or emergency of officers having less than 20 years of service for un­satisfactory performance of duty.
+Section 437, acts Aug. 10, 1956, ch. 1041, § 9(a), 70A Stat. 622; June 28, 1962, Pub. L. 87–509, § 4(b), 76 Stat. 121, related to discharge during war or emergency of officers having less than 20 years of service for un­satisfactory performance of duty.
 
-A prior section 438, added act Aug. 10, 1956, ch. 1041, § 9(a), 70A Stat. 623; amended June 9, 1966, Pub. L. 89–444, § 1(21), 80 Stat. 197; Dec. 12, 1980, Pub. L. 96–513, title V, § 505(b), 94 Stat. 2918, related to laws not applicable to warrant officers of former Life Saving Service, Lighthouse Service, Bureau of Marine Inspection and Navigation, and Bureau of Customs, prior to repeal by Pub. L. 99–640, § 10(a)(6)(A), Nov. 10, 1986, 100 Stat. 3549, which provided in part that such repeal did not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun under that section before Nov. 10, 1986.
+A prior section 438, added act Aug. 10, 1956, ch. 1041, § 9(a), 70A Stat. 623; amended June 9, 1966, Pub. L. 89–444, § 1(21), 80 Stat. 197; Dec. 12, 1980, Pub. L. 96–513, title V, § 505(b), 94 Stat. 2918, related to laws not applicable to warrant officers of former Life Saving Service, Lighthouse Service, Bureau of Marine Inspection and Navigation, and Bureau of Customs, prior to repeal by Pub. L. 99–640, § 10(a)(6)(A), Nov. 10, 1986, 100 Stat. 3549, which provided in part that such repeal did not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun under that section before Nov. 10, 1986.
 
-Prior sections 439 and 440 were repealed by Pub. L. 88–130, § 4(a), Sept. 24, 1963, 77 Stat. 192.
+Prior sections 439 and 440 were repealed by Pub. L. 88–130, § 4(a), Sept. 24, 1963, 77 Stat. 192.
 
-Section 439, added act July 20, 1956, ch. 647, § 3(a), 70 Stat. 588, related to oath of office.
+Section 439, added act July 20, 1956, ch. 647, § 3(a), 70 Stat. 588, related to oath of office.
 
-Section 440, added Pub. L. 85–861, § 33(b)(1), Sept. 2, 1958, 72 Stat. 1567, related to temporary promotion of warrant officers.
+Section 440, added Pub. L. 85–861, § 33(b)(1), Sept. 2, 1958, 72 Stat. 1567, related to temporary promotion of warrant officers.
 
-A prior section 462, acts Aug. 4, 1949, ch. 393, 63 Stat. 530; May 14, 1960, Pub. L. 86–474, § 1(19), 74 Stat. 146, related to pay and allowances of rear admirals, prior to repeal by Pub. L. 87–649, §§ 14d(1), 15, Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962. See section 202 of Title 37, Pay and Allowances of the Uniformed Services.
+A prior section 462, acts Aug. 4, 1949, ch. 393, 63 Stat. 530; May 14, 1960, Pub. L. 86–474, § 1(19), 74 Stat. 146, related to pay and allowances of rear admirals, prior to repeal by Pub. L. 87–649, §§ 14d(1), 15, Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962. See section 202 of Title 37, Pay and Allowances of the Uniformed Services.
 
-A prior section 462a, added act Aug. 10, 1956, ch. 1041, § 10(a), 70A Stat. 623; amended Sept. 7, 1962, Pub. L. 87–649, § 7(b), 76 Stat. 495, related to retired pay after two years of active duty for retired rear admirals, prior to repeal by Pub. L. 97–417, § 2(11), Jan. 4, 1983, 96 Stat. 2086.
+A prior section 462a, added act Aug. 10, 1956, ch. 1041, § 10(a), 70A Stat. 623; amended Sept. 7, 1962, Pub. L. 87–649, § 7(b), 76 Stat. 495, related to retired pay after two years of active duty for retired rear admirals, prior to repeal by Pub. L. 97–417, § 2(11), Jan. 4, 1983, 96 Stat. 2086.
 
-A prior section 463, act Aug. 4, 1949, ch. 393, 63 Stat. 530, related to continuation of additional pay, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408.
+A prior section 463, act Aug. 4, 1949, ch. 393, 63 Stat. 530, related to continuation of additional pay, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408.
 
-Prior sections 464 and 465 were repealed by Pub. L. 87–649, §§ 14d(2), (3), 15, Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962.
+Prior sections 464 and 465 were repealed by Pub. L. 87–649, §§ 14d(2), (3), 15, Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962.
 
 Section 464, act Aug. 4, 1949, ch. 393, 63 Stat. 531, related to allotments of pay. See section 703 of Title 37, Pay and Allowances of the Uniformed Services.
 
 Section 465, act Aug. 4, 1949, ch. 393, 63 Stat. 531, related to advances to officers ordered to and from sea or shore duty beyond the seas. See section 1006 of Title 37, Pay and Allowances of the Uniformed Services.
 
-A prior section 466, act Aug. 4, 1949, ch. 393, 63 Stat. 531, provided for settlement of accounts of deceased officers and men, prior to repeal by act July 12, 1955, ch. 328, § 5(3), 69 Stat. 296. See section 2771 of Title 10, Armed Forces, and section 714 of Title 32, National Guard.
+A prior section 466, act Aug. 4, 1949, ch. 393, 63 Stat. 531, provided for settlement of accounts of deceased officers and men, prior to repeal by act July 12, 1955, ch. 328, § 5(3), 69 Stat. 296. See section 2771 of Title 10, Armed Forces, and section 714 of Title 32, National Guard.
 
-A prior section 471a, added act Aug. 10, 1956, ch. 1041, § 11(a), 70A Stat. 624, authorized transportation of motor vehicles on permanent change of station, prior to repeal by Pub. L. 87–651, title III, § 307B, Sept. 7, 1962, 76 Stat. 526.
+A prior section 471a, added act Aug. 10, 1956, ch. 1041, § 11(a), 70A Stat. 624, authorized transportation of motor vehicles on permanent change of station, prior to repeal by Pub. L. 87–651, title III, § 307B, Sept. 7, 1962, 76 Stat. 526.
 
-A prior section 472, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to travel allowance to enlisted men on discharge, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408.
+A prior section 472, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to travel allowance to enlisted men on discharge, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408.
 
-A prior section 473, act Aug. 4, 1949, ch. 393, 63 Stat. 532, authorized Secretary to discharge underage Coast Guard enlisted personnel with appropriate pay and allowances, such persons to be given subsistence and transportation in kind to their homes, prior to repeal by Pub. L. 97–295, § 2(15)(A), Oct. 12, 1982, 96 Stat. 1302.
+A prior section 473, act Aug. 4, 1949, ch. 393, 63 Stat. 532, authorized Secretary to discharge underage Coast Guard enlisted personnel with appropriate pay and allowances, such persons to be given subsistence and transportation in kind to their homes, prior to repeal by Pub. L. 97–295, § 2(15)(A), Oct. 12, 1982, 96 Stat. 1302.
 
-A prior section 474, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to compensation for travel tolls and fares, prior to repeal by act Sept. 1, 1954, ch. 1211, § 5, 68 Stat. 1130.
+A prior section 474, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to compensation for travel tolls and fares, prior to repeal by act Sept. 1, 1954, ch. 1211, § 5, 68 Stat. 1130.
 
-A prior section 489, act Aug. 4, 1949, ch. 393, 63 Stat. 534, provided for payment of a death gratuity to survivors of officers and enlisted men of Regular Coast Guard, prior to repeal by act Aug. 1, 1956, ch. 837, title V, § 502(8)(A), 70 Stat. 886. See sections 1475 to 1480 of Title 10, Armed Forces.
+A prior section 489, act Aug. 4, 1949, ch. 393, 63 Stat. 534, provided for payment of a death gratuity to survivors of officers and enlisted men of Regular Coast Guard, prior to repeal by act Aug. 1, 1956, ch. 837, title V, § 502(8)(A), 70 Stat. 886. See sections 1475 to 1480 of Title 10, Armed Forces.
 
-A prior section 490, acts Aug. 4, 1949, ch. 393, § 1, 63 Stat. 534; Aug. 3, 1950, ch. 536, § 26, 64 Stat. 407; Aug. 23, 1958, Pub. L. 85–738, § 1, 72 Stat. 832; Sept. 15, 1965, Pub. L. 89–185, § 2, 79 Stat. 789, provided for settlement of claims of military and civilian personnel, prior to repeal by Pub. L. 88–558, § 7, Aug. 31, 1964, 78 Stat. 768, effective two years from Aug. 31, 1964. See section 3721 of Title 31, Money and Finance. Pub. L. 89–185 and Pub. L. 88–558 were repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
+A prior section 490, acts Aug. 4, 1949, ch. 393, § 1, 63 Stat. 534; Aug. 3, 1950, ch. 536, § 26, 64 Stat. 407; Aug. 23, 1958, Pub. L. 85–738, § 1, 72 Stat. 832; Sept. 15, 1965, Pub. L. 89–185, § 2, 79 Stat. 789, provided for settlement of claims of military and civilian personnel, prior to repeal by Pub. L. 88–558, § 7, Aug. 31, 1964, 78 Stat. 768, effective two years from Aug. 31, 1964. See section 3721 of Title 31, Money and Finance. Pub. L. 89–185 and Pub. L. 88–558 were repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 A prior section 492a was renumbered section 492b of this title and subsequently renumbered section 2738 of this title.
 
-A prior section 495, act Aug. 4, 1949, ch. 393, 63 Stat. 535, related to additional pay for holders of medals, prior to repeal by Pub. L. 87–526, § 1(3), July 10, 1962, 76 Stat. 141, and by Pub. L. 87–649, §§ 14d(5), 15, Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962.
+A prior section 495, act Aug. 4, 1949, ch. 393, 63 Stat. 535, related to additional pay for holders of medals, prior to repeal by Pub. L. 87–526, § 1(3), July 10, 1962, 76 Stat. 141, and by Pub. L. 87–649, §§ 14d(5), 15, Sept. 7, 1962, 76 Stat. 502, effective Nov. 1, 1962.
 
 **Amendments**
 
 2025—Pub. L. 119–60 renumbered section 312 of this title as this section.
 
-2021—Subsec. (b)(4). Pub. L. 116–283, § 8504(a), substituted “maritime transportation system” for “marine transportation system”.
+2021—Subsec. (b)(4). Pub. L. 116–283, § 8504(a), substituted “maritime transportation system” for “marine transportation system”.
 
-Subsec. (d). Pub. L. 116–283, § 8505(a)(1), substituted “individuals” for “persons” in introductory provisions.
+Subsec. (d). Pub. L. 116–283, § 8505(a)(1), substituted “individuals” for “persons” in introductory provisions.
 
 2018—Pub. L. 115–282 renumbered section 57 of this title as this section.
 
-2014—Subsec. (b)(4), (5). Pub. L. 113–281, § 203(1), added pars. (4) and (5).
+2014—Subsec. (b)(4), (5). Pub. L. 113–281, § 203(1), added pars. (4) and (5).
 
-Subsec. (c). Pub. L. 113–281, § 203(2), substituted “marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “or marine safety engineer”.
+Subsec. (c). Pub. L. 113–281, § 203(2), substituted “marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “or marine safety engineer”.
 
-Subsec. (e). Pub. L. 113–281, § 221(b)(1)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to assessment of adequacy of marine safety workforce.
+Subsec. (e). Pub. L. 113–281, § 221(b)(1)(B), redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to assessment of adequacy of marine safety workforce.
 
-Subsec. (f). Pub. L. 113–281, § 221(b)(1)(B)(ii), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 113–281, § 221(b)(1)(B)(ii), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(2). Pub. L. 113–281, § 203(3), substituted “investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “investigator or marine safety engineer”.
+Subsec. (f)(2). Pub. L. 113–281, § 203(3), substituted “investigator, marine safety engineer, waterways operations manager, or port and facility safety and security specialist” for “investigator or marine safety engineer”.
 
-Subsecs. (g), (h). Pub. L. 113–281, § 221(b)(1)(B)(ii), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+Subsecs. (g), (h). Pub. L. 113–281, § 221(b)(1)(B)(ii), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).

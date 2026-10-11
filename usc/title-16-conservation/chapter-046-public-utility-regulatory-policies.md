@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 46—PUBLIC UTILITY REGULATORY POLICIES
 
-## § 2601. Findings
+## § 2601. Findings
 
 The Congress finds that the protection of the public health, safety, and welfare, the preservation of national security, and the proper exercise of congressional authority under the Constitution to regulate interstate commerce require—
 
@@ -31,7 +31,7 @@ The Congress finds that the protection of the public health, safety, and welfare
 
 **(6)** the establishment of certain other authorities as provided in title VI of this Act.
 
-(Pub. L. 95–617, § 2, Nov. 9, 1978, 92 Stat. 3119.)
+(Pub. L. 95–617, § 2, Nov. 9, 1978, 92 Stat. 3119.)
 
 **Editorial Notes**
 
@@ -47,9 +47,9 @@ This section was not enacted as part of title I of Pub. L. 95–617 which compri
 
 **Short Title**
 
-Pub. L. 95–617, § 1, Nov. 9, 1978, 92 Stat. 3117, provided that: “This Act [enacting this chapter, and sections 823a, 824a–1 to 824a–4, 824i to 824k, 825q–1, and 2701 to 2708 of this title, section 918c of Title 7, Agriculture, sections 717x to 717z and 3201 to 3211 of Title 15, Commerce and Trade, section 6808 of Title 42, The Public Health and Welfare, and sections 2001 to 2012 of Title 43, Public Lands, amending sections 796, 824, 824a, 824d, and 825d of this title, section 717f of Title 15, sections 1311, 1312, and 1314 to 1316 of Title 30, Mineral Lands and Mining, and sections 6801 to 6807 of Title 42, and enacting provisions set out as notes under sections 824, 824a, 824d, 825d, and 2621 of this title] may be cited as the ‘Public Utility Regulatory Policies Act of 1978’.”
+Pub. L. 95–617, § 1, Nov. 9, 1978, 92 Stat. 3117, provided that: “This Act [enacting this chapter, and sections 823a, 824a–1 to 824a–4, 824i to 824k, 825q–1, and 2701 to 2708 of this title, section 918c of Title 7, Agriculture, sections 717x to 717z and 3201 to 3211 of Title 15, Commerce and Trade, section 6808 of Title 42, The Public Health and Welfare, and sections 2001 to 2012 of Title 43, Public Lands, amending sections 796, 824, 824a, 824d, and 825d of this title, section 717f of Title 15, sections 1311, 1312, and 1314 to 1316 of Title 30, Mineral Lands and Mining, and sections 6801 to 6807 of Title 42, and enacting provisions set out as notes under sections 824, 824a, 824d, 825d, and 2621 of this title] may be cited as the ‘Public Utility Regulatory Policies Act of 1978’.”
 
-## § 2602. Definitions
+## § 2602. Definitions
 
 As used in this Act, except as otherwise specifically provided—
 
@@ -101,7 +101,7 @@ As used in this Act, except as otherwise specifically provided—
 
 **(21)** The term “demand side management” includes load management techniques.
 
-(Pub. L. 95–617, § 3, Nov. 9, 1978, 92 Stat. 3119; Pub. L. 102–486, title I, § 111(d), Oct. 24, 1992, 106 Stat. 2796.)
+(Pub. L. 95–617, § 3, Nov. 9, 1978, 92 Stat. 3119; Pub. L. 102–486, title I, § 111(d), Oct. 24, 1992, 106 Stat. 2796.)
 
 **Editorial Notes**
 
@@ -113,7 +113,7 @@ The Sherman Antitrust Act (15 U.S.C. 1 and following), referred to in par. (1), 
 
 The Clayton Act (15 U.S.C. 12 and following), referred to in par. (1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, Commerce and Trade, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
-The Federal Trade Commission Act (15 U.S.C. 14 and following), referred to in par. (1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act (15 U.S.C. 14 and following), referred to in par. (1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 The Wilson Tariff Act (15 U.S.C. 8 and 9), referred to in par. (1), is sections 73 to 77 of act Aug. 27, 1894, ch. 349, 28 Stat. 570. Sections 73 to 76 enacted sections 8 to 11 of Title 15, Commerce and Trade. Section 77 of said Act was not classified to the Code. For complete classification of this Act to the Code, see Short Title note under section 8 of Title 15 and Tables.
 
@@ -127,7 +127,7 @@ This section was not enacted as part of title I of Pub. L. 95–617 which compri
 
 1992—Pars. (19) to (21). Pub. L. 102–486 added pars. (19) to (21).
 
-## § 2603. Relationship to antitrust laws
+## § 2603. Relationship to antitrust laws
 
 Nothing in this Act or in any amendment made by this Act affects—
 
@@ -135,7 +135,7 @@ Nothing in this Act or in any amendment made by this Act affects—
 
 **(2)** any authority of the Secretary or of the Commission under any other provision of law (including the Federal Power Act [16 U.S.C. 791a et seq.] and the Natural Gas Act [15 U.S.C. 717 et seq.]) respecting unfair methods of competition or anticompetitive acts or practices.
 
-(Pub. L. 95–617, § 4, Nov. 9, 1978, 92 Stat. 3120.)
+(Pub. L. 95–617, § 4, Nov. 9, 1978, 92 Stat. 3120.)
 
 **Editorial Notes**
 
@@ -143,9 +143,9 @@ Nothing in this Act or in any amendment made by this Act affects—
 
 This Act, referred to in text, is act Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-The Federal Power Act, referred to in par. (2), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
+The Federal Power Act, referred to in par. (2), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
-The Natural Gas Act, referred to in par. (2), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
+The Natural Gas Act, referred to in par. (2), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
 **Codification**
 
@@ -153,7 +153,7 @@ This section was not enacted as part of title I of Pub. L. 95–617 which compri
 
 ## SUBCHAPTER I—RETAIL REGULATORY POLICIES FOR ELECTRIC UTILITIES
 
-### § 2611. Purposes
+### § 2611. Purposes
 
 The purposes of this chapter are to encourage—
 
@@ -163,15 +163,15 @@ The purposes of this chapter are to encourage—
 
 **(3)** equitable rates to electric consumers.
 
-(Pub. L. 95–617, title I, § 101, Nov. 9, 1978, 92 Stat. 3120.)
+(Pub. L. 95–617, title I, § 101, Nov. 9, 1978, 92 Stat. 3120.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
-### § 2612. Coverage
+### § 2612. Coverage
 
 **(a) Volume of total retail sales**
 
@@ -185,23 +185,23 @@ The requirements of this chapter do not apply to the operations of an electric u
 
 Before the beginning of each calendar year, the Secretary shall publish a list identifying each electric utility to which this chapter applies during such calendar year. Promptly after publication of such list each State regulatory authority shall notify the Secretary of each electric utility on the list for which such State regulatory authority has ratemaking authority.
 
-(Pub. L. 95–617, title I, § 102, Nov. 9, 1978, 92 Stat. 3121.)
+(Pub. L. 95–617, title I, § 102, Nov. 9, 1978, 92 Stat. 3121.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
-### § 2613. Federal contracts
+### § 2613. Federal contracts
 
 Notwithstanding the limitation contained in section 2612(b) of this title, no contract between a Federal agency and any electric utility for the sale of electric energy by such Federal agency for resale which is entered into or renewed after November 9, 1978, may contain any provision which will have the effect of preventing the implementation of any requirement of subchapter II or III. Any provision in any such contract which has such effect shall be null and void.
 
-(Pub. L. 95–617, title I, § 103, Nov. 9, 1978, 92 Stat. 3121.)
+(Pub. L. 95–617, title I, § 103, Nov. 9, 1978, 92 Stat. 3121.)
 
 ## SUBCHAPTER II—STANDARDS FOR ELECTRIC UTILITIES
 
-### § 2621. Consideration and determination respecting certain ratemaking standards
+### § 2621. Consideration and determination respecting certain ratemaking standards
 
 **(a) Consideration and determination**
 
@@ -283,9 +283,9 @@ The rates charged by any electric utility shall be such that the utility is enco
 
 **(i)** the potential for increases or decreases in the costs of capital for such utilities, and any resulting increases or decreases in the retail rates paid by electric consumers, that may result from purchases of long-term wholesale power supplies in lieu of the construction of new generation facilities by such utilities;
 
-**(ii)** whether the use by exempt wholesale generators (as defined in section 79z–5a 1
+**(ii)** whether the use by exempt wholesale generators (as defined in section 79z–5a 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 15) of capital structures which employ proportionally greater amounts of debt than the capital structures of such utilities threatens reliability or provides an unfair advantage for exempt wholesale generators over such utilities;
 
@@ -447,39 +447,39 @@ A nonregulated electric utility may establish rate mechanisms for the timely rec
 
 **(D)** appropriately recover the marginal costs of delivering electricity to electric vehicles and electric vehicle charging infrastructure.
 
-(Pub. L. 95–617, title I, § 111, Nov. 9, 1978, 92 Stat. 3121; Pub. L. 102–486, title I, § 111(a), (b), title VII, § 712, Oct. 24, 1992, 106 Stat. 2795, 2910; Pub. L. 109–58, title XII, §§ 1251(a), 1252(a), 1254(a), Aug. 8, 2005, 119 Stat. 962, 963, 970; Pub. L. 110–140, title V, § 532(a), title XIII, § 1307(a), Dec. 19, 2007, 121 Stat. 1665, 1791; Pub. L. 111–5, div. A, title IV, § 408(a), Feb. 17, 2009, 123 Stat. 146; Pub. L. 117–58, div. D, title I, § 40104(a)(1), title IV, § 40431(a), Nov. 15, 2021, 135 Stat. 930, 1047.)
+(Pub. L. 95–617, title I, § 111, Nov. 9, 1978, 92 Stat. 3121; Pub. L. 102–486, title I, § 111(a), (b), title VII, § 712, Oct. 24, 1992, 106 Stat. 2795, 2910; Pub. L. 109–58, title XII, §§ 1251(a), 1252(a), 1254(a), Aug. 8, 2005, 119 Stat. 962, 963, 970; Pub. L. 110–140, title V, § 532(a), title XIII, § 1307(a), Dec. 19, 2007, 121 Stat. 1665, 1791; Pub. L. 111–5, div. A, title IV, § 408(a), Feb. 17, 2009, 123 Stat. 146; Pub. L. 117–58, div. D, title I, § 40104(a)(1), title IV, § 40431(a), Nov. 15, 2021, 135 Stat. 930, 1047.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
-Section 79z–5a of title 15, referred to in subsec. (d)(10)(A)(ii), was repealed by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974.
+Section 79z–5a of title 15, referred to in subsec. (d)(10)(A)(ii), was repealed by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974.
 
 **Amendments**
 
-2021—Subsec. (d)(20). Pub. L. 117–58, § 40104(a)(1), added par. (20).
+2021—Subsec. (d)(20). Pub. L. 117–58, § 40104(a)(1), added par. (20).
 
-Subsec. (d)(21). Pub. L. 117–58, § 40431(a), added par. (21).
+Subsec. (d)(21). Pub. L. 117–58, § 40431(a), added par. (21).
 
 2009—Subsec. (d)(16) to (19). Pub. L. 111–5 redesignated par. (16) relating to consideration of smart grid investments as (18) and par. (17) relating to smart grid information as (19).
 
-2007—Subsec. (d)(16), (17). Pub. L. 110–140, § 1307(a), added pars. (16) and (17) relating to consideration of smart grid investments and smart grid information, respectively.
+2007—Subsec. (d)(16), (17). Pub. L. 110–140, § 1307(a), added pars. (16) and (17) relating to consideration of smart grid investments and smart grid information, respectively.
 
-Pub. L. 110–140, § 532(a), added pars. (16) and (17) relating to integrated resource planning and rate design modifications to promote energy efficiency investments, respectively.
+Pub. L. 110–140, § 532(a), added pars. (16) and (17) relating to integrated resource planning and rate design modifications to promote energy efficiency investments, respectively.
 
-2005—Subsec. (d)(11) to (13). Pub. L. 109–58, § 1251(a), added pars. (11) to (13).
+2005—Subsec. (d)(11) to (13). Pub. L. 109–58, § 1251(a), added pars. (11) to (13).
 
-Subsec. (d)(14). Pub. L. 109–58, § 1252(a), added par. (14).
+Subsec. (d)(14). Pub. L. 109–58, § 1252(a), added par. (14).
 
-Subsec. (d)(15). Pub. L. 109–58, § 1254(a), added par. (15).
+Subsec. (d)(15). Pub. L. 109–58, § 1254(a), added par. (15).
 
-1992—Subsec. (c)(3). Pub. L. 102–486, § 111(b), added par. (3).
+1992—Subsec. (c)(3). Pub. L. 102–486, § 111(b), added par. (3).
 
-Subsec. (d)(7) to (9). Pub. L. 102–486, § 111(a), added pars. (7) to (9).
+Subsec. (d)(7) to (9). Pub. L. 102–486, § 111(a), added pars. (7) to (9).
 
-Subsec. (d)(10). Pub. L. 102–486, § 712, added par. (10).
+Subsec. (d)(10). Pub. L. 102–486, § 712, added par. (10).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -497,7 +497,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 **Report to President and Congress on Encouragement of Integrated Resource Planning and Investments in Conservation and Energy Efficiency by Electric Utilities**
 
-Pub. L. 102–486, title I, § 111(e), Oct. 24, 1992, 106 Stat. 2796, provided that:
+Pub. L. 102–486, title I, § 111(e), Oct. 24, 1992, 106 Stat. 2796, provided that:
 
 > “Not later than 2 years after the date of the enactment of this Act [Oct. 24, 1992], the Secretary shall transmit a report to the President and to the Congress containing—
 
@@ -519,9 +519,9 @@ Pub. L. 102–486, title I, § 111(e), Oct. 24, 1992, 106 Stat. 2796, provided
 
 **Study Concerning Electric Rates of State Utility Agencies**
 
-Pub. L. 95–617, title VI, § 601, Nov. 9, 1978, 92 Stat. 3164, directed the Secretary to conduct a study concerning the effects of provisions of Federal law on rates established by State utility agencies and to submit a report to Congress on the results of such study not later than 1 year after Nov. 9, 1978.
+Pub. L. 95–617, title VI, § 601, Nov. 9, 1978, 92 Stat. 3164, directed the Secretary to conduct a study concerning the effects of provisions of Federal law on rates established by State utility agencies and to submit a report to Congress on the results of such study not later than 1 year after Nov. 9, 1978.
 
-### § 2622. Obligations to consider and determine
+### § 2622. Obligations to consider and determine
 
 **(a) Request for consideration and determination** Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility may undertake the consideration and make the determination referred to in section 2621 of this title with respect to any standard established by section 2621(d) of this title in any proceeding respecting the rates of the electric utility. Any participant or intervenor (including an intervenor referred to in section 2631 of this title) in such a proceeding may request, and shall obtain, such consideration and determination in such proceeding. In undertaking such consideration and making such determination in any such proceeding with respect to the application to any electric utility of any standard established by section 2621(d) of this title, a State regulatory authority (with respect to an electric utility for which it has ratemaking authority) or nonregulated electric utility may take into account in such proceeding—
 
@@ -619,13 +619,13 @@ Each State regulatory authority (with respect to each electric utility for which
 
 **(3)** the State legislature has voted on the implementation of the standard (or a comparable standard) for the electric utility during the 3-year period ending on November 15, 2021.
 
-(Pub. L. 95–617, title I, § 112, Nov. 9, 1978, 92 Stat. 3122; Pub. L. 102–486, title I, § 111(c), Oct. 24, 1992, 106 Stat. 2795; Pub. L. 109–58, title XII, §§ 1251(b)(1)–(3)(A), 1252(g)–(i)(1), 1254(b)(1)–(3)(A), Aug. 8, 2005, 119 Stat. 963, 966, 967, 971; Pub. L. 110–140, title XIII, § 1307(b), Dec. 19, 2007, 121 Stat. 1793; Pub. L. 111–5, div. A, title IV, § 408(b), Feb. 17, 2009, 123 Stat. 146; Pub. L. 117–58, div. D, title I, § 40104(a)(2)(A)–(C)(i), title IV, § 40431(b)(1)–(3)(A), Nov. 15, 2021, 135 Stat. 931, 932, 1048.)
+(Pub. L. 95–617, title I, § 112, Nov. 9, 1978, 92 Stat. 3122; Pub. L. 102–486, title I, § 111(c), Oct. 24, 1992, 106 Stat. 2795; Pub. L. 109–58, title XII, §§ 1251(b)(1)–(3)(A), 1252(g)–(i)(1), 1254(b)(1)–(3)(A), Aug. 8, 2005, 119 Stat. 963, 966, 967, 971; Pub. L. 110–140, title XIII, § 1307(b), Dec. 19, 2007, 121 Stat. 1793; Pub. L. 111–5, div. A, title IV, § 408(b), Feb. 17, 2009, 123 Stat. 146; Pub. L. 117–58, div. D, title I, § 40104(a)(2)(A)–(C)(i), title IV, § 40431(b)(1)–(3)(A), Nov. 15, 2021, 135 Stat. 931, 932, 1048.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a)(1)(B), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a)(1)(B), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
 **Codification**
 
@@ -633,45 +633,45 @@ This chapter, referred to in subsec. (a)(1)(B), was in the original “this titl
 
 **Amendments**
 
-2021—Subsec. (b)(7). Pub. L. 117–58, § 40104(a)(2)(A), added par. (7).
+2021—Subsec. (b)(7). Pub. L. 117–58, § 40104(a)(2)(A), added par. (7).
 
-Subsec. (b)(8). Pub. L. 117–58, § 40431(b)(1), added par. (8).
+Subsec. (b)(8). Pub. L. 117–58, § 40431(b)(1), added par. (8).
 
-Subsec. (c). Pub. L. 117–58, § 40431(b)(2), inserted at end “In the case of the standard established by paragraph (21) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
+Subsec. (c). Pub. L. 117–58, § 40431(b)(2), inserted at end “In the case of the standard established by paragraph (21) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
 
-Pub. L. 117–58, § 40104(a)(2)(B)(i), substituted “August 8, 2005. In the case of the standard established by paragraph (15) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16)” for “August 8, 2005. In the case of the standards established by paragraphs (16)” and inserted at end “In the case of the standard established by paragraph (20) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
+Pub. L. 117–58, § 40104(a)(2)(B)(i), substituted “August 8, 2005. In the case of the standard established by paragraph (15) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16)” for “August 8, 2005. In the case of the standards established by paragraphs (16)” and inserted at end “In the case of the standard established by paragraph (20) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
 
-Subsec. (d). Pub. L. 117–58, § 40104(a)(2)(B)(ii), repealed Pub. L. 109–58, § 1254(b)(2). See 2005 Amendment note below.
+Subsec. (d). Pub. L. 117–58, § 40104(a)(2)(B)(ii), repealed Pub. L. 109–58, § 1254(b)(2). See 2005 Amendment note below.
 
-Subsec. (g). Pub. L. 117–58, § 40104(a)(2)(C)(i), added subsec. (g).
+Subsec. (g). Pub. L. 117–58, § 40104(a)(2)(C)(i), added subsec. (g).
 
-Subsec. (h). Pub. L. 117–58, § 40431(b)(3)(A), added subsec. (h).
+Subsec. (h). Pub. L. 117–58, § 40431(b)(3)(A), added subsec. (h).
 
 2009—Subsecs. (b)(6), (d). Pub. L. 111–5 substituted “(16) through (19)” for “(17) through (18)” wherever appearing.
 
-2007—Subsec. (b)(6). Pub. L. 110–140, § 1307(b)(1), added par. (6).
+2007—Subsec. (b)(6). Pub. L. 110–140, § 1307(b)(1), added par. (6).
 
-Subsec. (c). Pub. L. 110–140, § 1307(b)(2), inserted at end “In the case of the standards established by paragraphs (16) through (19) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.”
+Subsec. (c). Pub. L. 110–140, § 1307(b)(2), inserted at end “In the case of the standards established by paragraphs (16) through (19) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.”
 
-Subsec. (d). Pub. L. 110–140, § 1307(b)(3), inserted “and paragraphs (17) through (18)” before “of section 2621(d)” in introductory provisions.
+Subsec. (d). Pub. L. 110–140, § 1307(b)(3), inserted “and paragraphs (17) through (18)” before “of section 2621(d)” in introductory provisions.
 
-2005—Subsec. (b)(3). Pub. L. 109–58, § 1251(b)(1), added par. (3).
+2005—Subsec. (b)(3). Pub. L. 109–58, § 1251(b)(1), added par. (3).
 
-Subsec. (b)(4). Pub. L. 109–58, § 1252(g), added par. (4).
+Subsec. (b)(4). Pub. L. 109–58, § 1252(g), added par. (4).
 
-Subsec. (b)(5). Pub. L. 109–58, § 1254(b)(1), added par. (5).
+Subsec. (b)(5). Pub. L. 109–58, § 1254(b)(1), added par. (5).
 
-Subsec. (c). Pub. L. 109–58, § 1252(h), inserted at end “In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+Subsec. (c). Pub. L. 109–58, § 1252(h), inserted at end “In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
 
-Pub. L. 109–58, § 1251(b)(2), inserted at end “In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+Pub. L. 109–58, § 1251(b)(2), inserted at end “In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
 
-Subsec. (d). Pub. L. 109–58, § 1254(b)(2), which directed amendment of subsec. (d) by inserting at end “In the case of the standard established by paragraph (15), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”, was repealed and made void by Pub. L. 117–58, § 40104(a)(2)(B)(ii). See Effective Date of 2021 Amendment note below.
+Subsec. (d). Pub. L. 109–58, § 1254(b)(2), which directed amendment of subsec. (d) by inserting at end “In the case of the standard established by paragraph (15), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”, was repealed and made void by Pub. L. 117–58, § 40104(a)(2)(B)(ii). See Effective Date of 2021 Amendment note below.
 
-Pub. L. 109–58, § 1251(b)(3)(A), added subsec. (d).
+Pub. L. 109–58, § 1251(b)(3)(A), added subsec. (d).
 
-Subsec. (e). Pub. L. 109–58, § 1252(i)(1), added subsec. (e).
+Subsec. (e). Pub. L. 109–58, § 1252(i)(1), added subsec. (e).
 
-Subsec. (f). Pub. L. 109–58, § 1254(b)(3)(A), added subsec. (f).
+Subsec. (f). Pub. L. 109–58, § 1254(b)(3)(A), added subsec. (f).
 
 1992—Subsec. (b)(1), (2). Pub. L. 102–486 inserted “(or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title)”.
 
@@ -679,7 +679,7 @@ Subsec. (f). Pub. L. 109–58, § 1254(b)(3)(A), added subsec. (f).
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–58, div. D, title I, § 40104(a)(2)(B)(ii), Nov. 15, 2021, 135 Stat. 931, provided that: “Paragraph (2) of section 1254(b) of the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 971) [amending this section] is repealed and the amendment made by that paragraph (as in effect on the day before the date of enactment of this Act [Nov. 15, 2021]) is void, and section 112(d) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622(d)) shall be in effect as if that amendment had not been enacted.”
+Pub. L. 117–58, div. D, title I, § 40104(a)(2)(B)(ii), Nov. 15, 2021, 135 Stat. 931, provided that: “Paragraph (2) of section 1254(b) of the Energy Policy Act of 2005 (Public Law 109–58; 119 Stat. 971) [amending this section] is repealed and the amendment made by that paragraph (as in effect on the day before the date of enactment of this Act [Nov. 15, 2021]) is void, and section 112(d) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2622(d)) shall be in effect as if that amendment had not been enacted.”
 
 **Effective Date of 2007 Amendment**
 
@@ -689,7 +689,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
-### § 2623. Adoption of certain standards
+### § 2623. Adoption of certain standards
 
 **(a) Adoption of standards** Not later than two years after November 9, 1978, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall provide public notice and conduct a hearing respecting the standards established by subsection (b) and, on the basis of such hearing, shall—
 
@@ -725,15 +725,15 @@ No electric utility may recover from any person other than the shareholders (or 
 
 Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility, within the two-year period specified in subsection (a), shall (1) adopt, pursuant to subsection (a), each of the standards established by subsection (b) or, (2) with respect to any such standard which is not adopted, such authority or nonregulated electric utility shall state in writing that it has determined not to adopt such standard, together with the reasons for such determination. Such statement of reasons shall be available to the public.
 
-(Pub. L. 95–617, title I, § 113, Nov. 9, 1978, 92 Stat. 3123.)
+(Pub. L. 95–617, title I, § 113, Nov. 9, 1978, 92 Stat. 3123.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
-### § 2624. Lifeline rates
+### § 2624. Lifeline rates
 
 **(a) Lower rates**
 
@@ -747,15 +747,15 @@ If any State regulated electric utility or nonregulated electric utility does no
 
 Section 2634 of this title shall not apply to the requirements of this section.
 
-(Pub. L. 95–617, title I, § 114, Nov. 9, 1978, 92 Stat. 3124.)
+(Pub. L. 95–617, title I, § 114, Nov. 9, 1978, 92 Stat. 3124.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
-### § 2625. Special rules for standards
+### § 2625. Special rules for standards
 
 **(a) Cost of service** In undertaking the consideration and making the determination under section 2621 of this title with respect to the standard concerning cost of service established by section 2621(d)(1) of this title, the costs of providing electric service to each class of electric consumers shall, to the maximum extent practicable, be determined on the basis of methods prescribed by the State regulatory authority (in the case of a State regulated electric utility) or by the electric utility (in the case of a nonregulated electric utility). Such methods shall to the maximum extent practicable—
 
@@ -857,21 +857,21 @@ Such procedures shall take into account the need to include reasonable provision
 
 In making a determination with respect to the standard established by section 2621(d)(14) of this title, the investigation requirement of section 2621(d)(14)(F) of this title shall be as follows: Each State regulatory authority shall conduct an investigation and issue a decision whether or not it is appropriate for electric utilities to provide and install time-based meters and communications devices for each of their customers which enable such customers to participate in time-based pricing rate schedules and other demand response programs.
 
-(Pub. L. 95–617, title I, § 115, Nov. 9, 1978, 92 Stat. 3125; Pub. L. 109–58, title XII, § 1252(b), Aug. 8, 2005, 119 Stat. 965.)
+(Pub. L. 95–617, title I, § 115, Nov. 9, 1978, 92 Stat. 3125; Pub. L. 109–58, title XII, § 1252(b), Aug. 8, 2005, 119 Stat. 965.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§ 8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§ 8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
 
 **Amendments**
 
-2005—Subsec. (b). Pub. L. 109–58, § 1252(b)(1), (2), inserted “and the standard for time-based metering and communications established by section 2621(d)(14) of this title” after “section 2621(d)(3) of this title” and substituted “metering and communications costs” for “metering costs”.
+2005—Subsec. (b). Pub. L. 109–58, § 1252(b)(1), (2), inserted “and the standard for time-based metering and communications established by section 2621(d)(14) of this title” after “section 2621(d)(3) of this title” and substituted “metering and communications costs” for “metering costs”.
 
-Subsec. (i). Pub. L. 109–58, § 1252(b)(3), added subsec. (i).
+Subsec. (i). Pub. L. 109–58, § 1252(b)(3), added subsec. (i).
 
-### § 2626. Reports respecting standards
+### § 2626. Reports respecting standards
 
 **(a) State authorities and nonregulated utilities**
 
@@ -885,15 +885,15 @@ Not later than one year after November 9, 1978, and annually thereafter for ten 
 
 **(3)** his actions under this chapter, and his recommendations for such further Federal actions, including any legislation, regarding retail electric utility rates (and other practices) as may be necessary to carry out the purposes of this chapter.
 
-(Pub. L. 95–617, title I, § 116, Nov. 9, 1978, 92 Stat. 3128.)
+(Pub. L. 95–617, title I, § 116, Nov. 9, 1978, 92 Stat. 3128.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (b)(3), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (b)(3), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
-### § 2627. Relationship to State law
+### § 2627. Relationship to State law
 
 **(a) Revenue and rate of return**
 
@@ -907,17 +907,17 @@ Nothing in this chapter prohibits any State regulatory authority or nonregulated
 
 With respect to any electric utility which is a Federal agency, and with respect to the Tennessee Valley Authority when it is treated as a State regulatory authority as provided in section 2602(17) of this title, any reference in section 2621 or 2623 of this title to State law shall be treated as a reference to Federal law.
 
-(Pub. L. 95–617, title I, § 117, Nov. 9, 1978, 92 Stat. 3128.)
+(Pub. L. 95–617, title I, § 117, Nov. 9, 1978, 92 Stat. 3128.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
 ## SUBCHAPTER III—INTERVENTION AND JUDICIAL REVIEW
 
-### § 2631. Intervention in proceedings
+### § 2631. Intervention in proceedings
 
 **(a) Authority to intervene and participate**
 
@@ -931,15 +931,15 @@ Any intervenor or participant in a proceeding described in subsection (a) shall 
 
 Any intervention or participation under this section, in any proceeding commenced before November 9, 1978, but not completed before such date, shall be permitted under this section only to the extent such intervention or participation is timely under otherwise applicable law.
 
-(Pub. L. 95–617, title I, § 121, Nov. 9, 1978, 92 Stat. 3128.)
+(Pub. L. 95–617, title I, § 121, Nov. 9, 1978, 92 Stat. 3128.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
-### § 2632. Consumer representation
+### § 2632. Consumer representation
 
 **(a) Compensation for costs of participation or intervention**
 
@@ -979,9 +979,9 @@ Any claim under this section against any Federal agency shall be subject to the 
 
 Nothing in this section affects or restricts any rights of any participant or intervenor in any proceeding under any other applicable law or rule of law.
 
-(Pub. L. 95–617, title I, § 122, Nov. 9, 1978, 92 Stat. 3129.)
+(Pub. L. 95–617, title I, § 122, Nov. 9, 1978, 92 Stat. 3129.)
 
-### § 2633. Judicial review and enforcement
+### § 2633. Judicial review and enforcement
 
 **(a) Limitation of Federal jurisdiction** Notwithstanding any other provision of law, no court of the United States shall have jurisdiction over any action arising under any provision of subchapter I or II or of this subchapter except for—
 
@@ -1013,33 +1013,33 @@ Nothing in this section affects or restricts any rights of any participant or in
 
 under section 6804 of title 42.
 
-(Pub. L. 95–617, title I, § 123, Nov. 9, 1978, 92 Stat. 3130.)
+(Pub. L. 95–617, title I, § 123, Nov. 9, 1978, 92 Stat. 3130.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (c)(1), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (c)(1), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
-### § 2634. Prior and pending proceedings
+### § 2634. Prior and pending proceedings
 
 For purposes of subchapters I and II, and this subchapter, proceedings commenced by State regulatory authorities (with respect to electric utilities for which it has ratemaking authority) and nonregulated electric utilities before November 9, 1978, and actions taken before such date in such proceedings shall be treated as complying with the requirements of subchapters I and II, and this subchapter if such proceedings and actions substantially conform to such requirements. For purposes of subchapters I and II, and this subchapter, any such proceeding or action commenced before November 9, 1978, but not completed before such date, shall comply with the requirements of subchapters I and II, and this subchapter, to the maximum extent practicable, with respect to so much of such proceeding or action as takes place after such date, except as otherwise provided in section 2631(c) of this title. In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this section to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this section to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of each standard established by paragraph (15) of section 2621(d) of this title, the reference contained in this section to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (20) of section 2621(d) of this title, the reference contained in this section to November 9, 1978, shall be deemed to be a reference to November 15, 2021. In the case of the standard established by paragraph (21) of section 2621(d) of this title, the reference contained in this section to November 9, 1978, shall be deemed to be a reference to November 15, 2021.
 
-(Pub. L. 95–617, title I, § 124, Nov. 9, 1978, 92 Stat. 3131; Pub. L. 109–58, title XII, §§ 1251(b)(3)(B), 1252(i)(2), 1254(b)(3)(B), Aug. 8, 2005, 119 Stat. 963, 967, 971; Pub. L. 117–58, div. D, title I, § 40104(a)(2)(C)(ii), title IV, § 40431(b)(3)(B), Nov. 15, 2021, 135 Stat. 932, 1048.)
+(Pub. L. 95–617, title I, § 124, Nov. 9, 1978, 92 Stat. 3131; Pub. L. 109–58, title XII, §§ 1251(b)(3)(B), 1252(i)(2), 1254(b)(3)(B), Aug. 8, 2005, 119 Stat. 963, 967, 971; Pub. L. 117–58, div. D, title I, § 40104(a)(2)(C)(ii), title IV, § 40431(b)(3)(B), Nov. 15, 2021, 135 Stat. 932, 1048.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 117–58, § 40431(b)(3)(B), inserted at end “In the case of the standard established by paragraph (21) of section 2621(d) of this title, the reference contained in this section to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
+2021—Pub. L. 117–58, § 40431(b)(3)(B), inserted at end “In the case of the standard established by paragraph (21) of section 2621(d) of this title, the reference contained in this section to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
 
-Pub. L. 117–58, § 40104(a)(2)(C)(ii), substituted “this section” for “this subsection” wherever appearing and inserted at end “In the case of the standard established by paragraph (20) of section 2621(d) of this title, the reference contained in this section to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
+Pub. L. 117–58, § 40104(a)(2)(C)(ii), substituted “this section” for “this subsection” wherever appearing and inserted at end “In the case of the standard established by paragraph (20) of section 2621(d) of this title, the reference contained in this section to November 9, 1978, shall be deemed to be a reference to November 15, 2021.”
 
-2005—Pub. L. 109–58, § 1254(b)(3)(B), inserted at end “In the case of each standard established by paragraph (15) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+2005—Pub. L. 109–58, § 1254(b)(3)(B), inserted at end “In the case of each standard established by paragraph (15) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
 
-Pub. L. 109–58, § 1252(i)(2), inserted at end “In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+Pub. L. 109–58, § 1252(i)(2), inserted at end “In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
 
-Pub. L. 109–58, § 1251(b)(3)(B), inserted at end “In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+Pub. L. 109–58, § 1251(b)(3)(B), inserted at end “In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1049,13 +1049,13 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 ## SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS
 
-### § 2641. Voluntary guidelines
+### § 2641. Voluntary guidelines
 
 The Secretary may prescribe voluntary guidelines respecting the standards established by sections 2621(d) and 2623(b) of this title. Such guidelines may not expand the scope or legal effect of such standards or establish additional standards respecting electric utility rates.
 
-(Pub. L. 95–617, title I, § 131, Nov. 9, 1978, 92 Stat. 3131.)
+(Pub. L. 95–617, title I, § 131, Nov. 9, 1978, 92 Stat. 3131.)
 
-### § 2642. Responsibilities of Secretary
+### § 2642. Responsibilities of Secretary
 
 **(a) Authority** The Secretary may periodically notify the State regulatory authorities, and electric utilities identified pursuant to section 2612(c) of this title, of—
 
@@ -1085,25 +1085,25 @@ There are authorized to be appropriated to carry out the purposes of subsection 
 
 **(3)** not later than 180 days after August 8, 2005, providing Congress with a report that identifies and quantifies the national benefits of demand response and makes a recommendation on achieving specific levels of such benefits by January 1, 2007.
 
-(Pub. L. 95–617, title I, § 132, Nov. 9, 1978, 92 Stat. 3131; Pub. L. 109–58, title XII, § 1252(c), (d), Aug. 8, 2005, 119 Stat. 965.)
+(Pub. L. 95–617, title I, § 132, Nov. 9, 1978, 92 Stat. 3131; Pub. L. 109–58, title XII, § 1252(c), (d), Aug. 8, 2005, 119 Stat. 965.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a)(4), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a)(4), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
 **Amendments**
 
-2005—Subsec. (a)(5). Pub. L. 109–58, § 1252(c), added par. (5).
+2005—Subsec. (a)(5). Pub. L. 109–58, § 1252(c), added par. (5).
 
-Subsec. (d). Pub. L. 109–58, § 1252(d), added subsec. (d).
+Subsec. (d). Pub. L. 109–58, § 1252(d), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Demand Response Assistance**
 
-Pub. L. 109–58, title XII, § 1252(e), (f), Aug. 8, 2005, 119 Stat. 965, 966, provided that:
+Pub. L. 109–58, title XII, § 1252(e), (f), Aug. 8, 2005, 119 Stat. 965, 966, provided that:
 
 > **“(e) Demand Response and Regional Coordination.—**
 
@@ -1135,7 +1135,7 @@ Pub. L. 109–58, title XII, § 1252(e), (f), Aug. 8, 2005, 119 Stat. 965, 966
 
 > **“(f) Federal Encouragement of Demand Response Devices.—** It is the policy of the United States that time-based pricing and other forms of demand response, whereby electricity customers are provided with electricity price signals and the ability to benefit by responding to them, shall be encouraged, the deployment of such technology and devices that enable electricity customers to participate in such pricing and demand response systems shall be facilitated, and unnecessary barriers to demand response participation in energy, capacity and ancillary service markets shall be eliminated. It is further the policy of the United States that the benefits of such demand response that accrue to those not deploying such technology and devices, but who are part of the same regional electricity entity, shall be recognized.”
 
-### § 2643. Gathering information on costs of service
+### § 2643. Gathering information on costs of service
 
 **(a) Information required to be gathered** Each electric utility shall periodically gather information under such rules (promulgated by the Commission) as the Commission determines necessary to allow determination of the costs associated with providing electric service. For purposes of this section, and for purposes of any consideration and determination respecting the standard established by section 2621(d)(2) of this title, such costs shall be separated, to the maximum extent practicable, into the following components: customer cost component, demand cost component, and energy cost component. Rules under this subsection shall include requirements for the gathering of the following information with respect to each electric utility—
 
@@ -1169,27 +1169,27 @@ the information gathered pursuant to this section and make such information avai
 
 For purposes of enforcement, any violation of a requirement of this section shall be treated as a violation of a provision of the Energy Supply and Environmental Coordination Act of 1974 [15 U.S.C. 791 et seq.] enforceable under section 12 of such Act [15 U.S.C. 797] (notwithstanding any expiration date in such Act) except that in applying the provisions of such section 12 any reference to the Federal Energy Administrator shall be treated as a reference to the Commission.
 
-(Pub. L. 95–617, title I, § 133, Nov. 9, 1978, 92 Stat. 3132.)
+(Pub. L. 95–617, title I, § 133, Nov. 9, 1978, 92 Stat. 3132.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (d), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
+The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (d), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
 
-### § 2644. Relationship to other authority
+### § 2644. Relationship to other authority
 
 Nothing in this chapter shall be construed to limit or affect any authority of the Secretary or the Commission under any other provision of law.
 
-(Pub. L. 95–617, title I, § 134, Nov. 9, 1978, 92 Stat. 3133.)
+(Pub. L. 95–617, title I, § 134, Nov. 9, 1978, 92 Stat. 3133.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
-### § 2645. Utility regulatory institute
+### § 2645. Utility regulatory institute
 
 **(a) Matching grants** The Secretary may make grants under this section to an institute established by the National Association of Regulatory Utility Commissioners to enable such institute to—
 
@@ -1217,7 +1217,7 @@ The remaining amounts expended by the institute may not be provided from Federal
 
 There is authorized to be appropriated not more than $2,000,000 for each of the fiscal years 1979 and 1980 for purposes of making grants under this section. No amounts may be appropriated for any fiscal year after the fiscal year 1980 to carry out the purposes of this section without a specific authorization of Congress.
 
-(Pub. L. 95–617, title VI, § 603, Nov. 9, 1978, 92 Stat. 3165.)
+(Pub. L. 95–617, title VI, § 603, Nov. 9, 1978, 92 Stat. 3165.)
 
 **Editorial Notes**
 

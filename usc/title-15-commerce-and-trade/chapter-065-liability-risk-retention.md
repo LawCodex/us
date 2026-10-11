@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 65—LIABILITY RISK RETENTION
 
-## § 3901. Definitions
+## § 3901. Definitions
 
 **(a)** As used in this chapter—
 
@@ -67,7 +67,7 @@ retrieved: 2026-10-11
 
 **(H)** the name of which includes the phrase “Risk Retention Group”.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(5)** “purchasing group” means any group which—
 
@@ -89,13 +89,13 @@ retrieved: 2026-10-11
 
 **(b)** Nothing in this chapter shall be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and the definitions of liability, personal risk liability, and insurance under any State law shall not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups.
 
-(Pub. L. 97–45, § 2, Sept. 25, 1981, 95 Stat. 949; Pub. L. 98–193, Dec. 1, 1983, 97 Stat. 1344; Pub. L. 99–563, §§ 3, 4, 12(b), Oct. 27, 1986, 100 Stat. 3170, 3171, 3177.)
+(Pub. L. 97–45, § 2, Sept. 25, 1981, 95 Stat. 949; Pub. L. 98–193, Dec. 1, 1983, 97 Stat. 1344; Pub. L. 99–563, §§ 3, 4, 12(b), Oct. 27, 1986, 100 Stat. 3170, 3171, 3177.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Employers’ Liability Act (45 U.S.C. 51 et seq.), referred to in subsec. (a)(2)(B), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, which is classified generally to chapter 2 (§ 51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 51 of Title 45 and Tables.
+The Federal Employers’ Liability Act (45 U.S.C. 51 et seq.), referred to in subsec. (a)(2)(B), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, which is classified generally to chapter 2 (§ 51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 51 of Title 45 and Tables.
 
 **Codification**
 
@@ -103,21 +103,21 @@ October 27, 1986, referred to in subsec. (a)(4)(C)(ii), was in the original “t
 
 **Amendments**
 
-1986—Subsec. (a)(1) to (3). Pub. L. 99–563, § 3(a), redesignated par. (2) as (1), added pars. (2) and (3), and struck out former par. (1) defining completed operations liability, and former par. (3) defining product liability.
+1986—Subsec. (a)(1) to (3). Pub. L. 99–563, § 3(a), redesignated par. (2) as (1), added pars. (2) and (3), and struck out former par. (1) defining completed operations liability, and former par. (3) defining product liability.
 
-Subsec. (a)(4). Pub. L. 99–563, § 4(a)(1), struck out “taxable as a corporation, or as an insurance company, formed under the laws of any State, Bermuda, or the Cayman Islands” after “association” in introductory provisions.
+Subsec. (a)(4). Pub. L. 99–563, § 4(a)(1), struck out “taxable as a corporation, or as an insurance company, formed under the laws of any State, Bermuda, or the Cayman Islands” after “association” in introductory provisions.
 
-Subsec. (a)(4)(A). Pub. L. 99–563, § 4(a)(2), substituted “liability exposure” for “product liability or completed operations liability risk exposure”.
+Subsec. (a)(4)(A). Pub. L. 99–563, § 4(a)(2), substituted “liability exposure” for “product liability or completed operations liability risk exposure”.
 
-Subsec. (a)(4)(C). Pub. L. 99–563, § 4(a)(3), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “which is chartered or licensed as an insurance company and authorized to engage in the business of insurance under the laws of any State, or which is so chartered or licensed and authorized before January 1, 1985, under the laws of Bermuda or the Cayman Islands, except that any group so chartered or licensed and authorized under the laws of Bermuda or the Cayman Islands shall be considered to be a risk retention group only after it has certified to the insurance commissioner of at least one State that it satisfies the capitalization requirements of such State;”.
+Subsec. (a)(4)(C). Pub. L. 99–563, § 4(a)(3), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “which is chartered or licensed as an insurance company and authorized to engage in the business of insurance under the laws of any State, or which is so chartered or licensed and authorized before January 1, 1985, under the laws of Bermuda or the Cayman Islands, except that any group so chartered or licensed and authorized under the laws of Bermuda or the Cayman Islands shall be considered to be a risk retention group only after it has certified to the insurance commissioner of at least one State that it satisfies the capitalization requirements of such State;”.
 
-Subsec. (a)(4)(E) to (H). Pub. L. 99–563, § 4(a)(4), added subpars. (E) to (H), and struck out former subpar. (E) which read as follows: “which is composed of member each of whose principal activity consists of the manufacture, design, importation, distribution, packaging, labeling, lease, or sale of a product or products;”.
+Subsec. (a)(4)(E) to (H). Pub. L. 99–563, § 4(a)(4), added subpars. (E) to (H), and struck out former subpar. (E) which read as follows: “which is composed of member each of whose principal activity consists of the manufacture, design, importation, distribution, packaging, labeling, lease, or sale of a product or products;”.
 
-Subsec. (a)(5). Pub. L. 99–563, § 4(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘purchasing group’ means any group of persons which has as one of its purposes the purchase of product liability or completed operations liability insurance on a group basis;”.
+Subsec. (a)(5). Pub. L. 99–563, § 4(b), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “ ‘purchasing group’ means any group of persons which has as one of its purposes the purchase of product liability or completed operations liability insurance on a group basis;”.
 
-Subsec. (a)(7). Pub. L. 99–563, § 3(b), added par. (7).
+Subsec. (a)(7). Pub. L. 99–563, § 3(b), added par. (7).
 
-Subsec. (b). Pub. L. 99–563, § 12(b), substituted “liability, personal risk liability, and insurance” for “product liability and product liability insurance”.
+Subsec. (b). Pub. L. 99–563, § 12(b), substituted “liability, personal risk liability, and insurance” for “product liability and product liability insurance”.
 
 1983—Subsec. (b). Pub. L. 98–193 substituted provision that nothing in this chapter would be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and that the definitions of product liability and product liability insurance under any State law would not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups for provision that the definition of product liability in this section would not be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State.
 
@@ -125,7 +125,7 @@ Subsec. (b). Pub. L. 99–563, § 12(b), substituted “liability, personal ri
 
 **Effective Date of 1986 Amendment; Applicability**
 
-Pub. L. 99–563, § 11(a), (b), and (c)(2), Oct. 27, 1986, 100 Stat. 3177, provided that:
+Pub. L. 99–563, § 11(a), (b), and (c)(2), Oct. 27, 1986, 100 Stat. 3177, provided that:
 
 > **“(a) General Rule.—** Subject to subsection (b), this Act [see Short Title of 1986 Amendment note below] shall take effect on the date of its enactment [Oct. 27, 1986].
 
@@ -141,15 +141,15 @@ Pub. L. 99–563, § 11(a), (b), and (c)(2), Oct. 27, 1986, 100 Stat. 3177, pr
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–563, § 1, Oct. 27, 1986, 100 Stat. 3170, provided that: “This Act [enacting sections 3905 and 3906 of this title, amending this section, sections 3902 and 3903 of this title, and sections 9671 to 9675 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and section 9671 of Title 42, and amending provisions set out as a note under this section] may be cited as the ‘Risk Retention Amendments of 1986’.”
+Pub. L. 99–563, § 1, Oct. 27, 1986, 100 Stat. 3170, provided that: “This Act [enacting sections 3905 and 3906 of this title, amending this section, sections 3902 and 3903 of this title, and sections 9671 to 9675 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and section 9671 of Title 42, and amending provisions set out as a note under this section] may be cited as the ‘Risk Retention Amendments of 1986’.”
 
 **Short Title**
 
-Pub. L. 97–45, § 1, Sept. 25, 1981, 95 Stat. 949, as amended by Pub. L. 99–563, § 12(a), Oct. 27, 1986, 100 Stat. 3177, provided that: “This Act [enacting this chapter] may be cited as the ‘Liability Risk Retention Act of 1986’.”
+Pub. L. 97–45, § 1, Sept. 25, 1981, 95 Stat. 949, as amended by Pub. L. 99–563, § 12(a), Oct. 27, 1986, 100 Stat. 3177, provided that: “This Act [enacting this chapter] may be cited as the ‘Liability Risk Retention Act of 1986’.”
 
 **Oversight of Implementation; Report to Congress**
 
-Pub. L. 99–563, § 10, Oct. 27, 1986, 100 Stat. 3176, provided that:
+Pub. L. 99–563, § 10, Oct. 27, 1986, 100 Stat. 3176, provided that:
 
 > **“(a) In General.—**
 
@@ -175,7 +175,7 @@ Pub. L. 99–563, § 10, Oct. 27, 1986, 100 Stat. 3176, provided that:
 
 > **“(6)** such other comments and conclusions as the Secretary deems relevant to assessment of the implementation of this Act.”
 
-## § 3902. Risk retention groups
+## § 3902. Risk retention groups
 
 **(a) Exemptions from State laws, rules, regulations, or orders** Except as provided in this section, a risk retention group is exempt from any State law, rule, regulation, or order to the extent that such law, rule, regulation, or order would—
 
@@ -281,23 +281,23 @@ Nothing in this chapter shall affect the authority of any State to bring an acti
 
 Nothing in this chapter shall be construed to affect the authority of any State to regulate or prohibit the ownership interest in a risk retention group by an insurance company in that State, other than in the case of ownership interest in a risk retention group whose members are insurance companies.
 
-(Pub. L. 97–45, § 3, Sept. 25, 1981, 95 Stat. 950; Pub. L. 99–563, §§ 5, 7, 8(a), 12(c), Oct. 27, 1986, 100 Stat. 3172, 3175, 3178.)
+(Pub. L. 97–45, § 3, Sept. 25, 1981, 95 Stat. 950; Pub. L. 99–563, §§ 5, 7, 8(a), 12(c), Oct. 27, 1986, 100 Stat. 3172, 3175, 3178.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1986—Subsec. (a)(1)(C). Pub. L. 99–563, § 12(c), struck out “product liability or completed operations” before “liability insurance losses”.
+1986—Subsec. (a)(1)(C). Pub. L. 99–563, § 12(c), struck out “product liability or completed operations” before “liability insurance losses”.
 
-Subsec. (a)(1)(D). Pub. L. 99–563, § 5(b)(1), redesignated subpar. (E) as (D), substituted a semicolon for “, and, upon request, furnish such commissioner a copy of any financial report submitted by the risk retention group to the commissioners of the chartering or licensing jurisdiction;”, and struck out former subpar. (D) which read as follows: “submit to the appropriate authority reports and other information required of licensed insurers under the laws of a State relating solely to product liability or completed operations liability insurance losses and expenses;”.
+Subsec. (a)(1)(D). Pub. L. 99–563, § 5(b)(1), redesignated subpar. (E) as (D), substituted a semicolon for “, and, upon request, furnish such commissioner a copy of any financial report submitted by the risk retention group to the commissioners of the chartering or licensing jurisdiction;”, and struck out former subpar. (D) which read as follows: “submit to the appropriate authority reports and other information required of licensed insurers under the laws of a State relating solely to product liability or completed operations liability insurance losses and expenses;”.
 
-Subsec. (a)(1)(E). Pub. L. 99–563, § 5(b)(1)(A), (c), redesignated subpar. (F) as (E), further redesignated cl. (ii) as (i), added cl. (ii), and struck out former cl. (i) which read as follows: “the commissioner has reason to believe the risk retention group is in a financially impaired condition; and”. Former subpar. (E) redesignated (D).
+Subsec. (a)(1)(E). Pub. L. 99–563, § 5(b)(1)(A), (c), redesignated subpar. (F) as (E), further redesignated cl. (ii) as (i), added cl. (ii), and struck out former cl. (i) which read as follows: “the commissioner has reason to believe the risk retention group is in a financially impaired condition; and”. Former subpar. (E) redesignated (D).
 
-Subsec. (a)(1)(F). Pub. L. 99–563, § 5(b)(1)(A), (d), redesignated subpar. (G) as (F) and amended it generally. Prior to amendment, subpar. (F) read as follows: “comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (F) of this paragraph;”. Former subpar. (F) redesignated (E).
+Subsec. (a)(1)(F). Pub. L. 99–563, § 5(b)(1)(A), (d), redesignated subpar. (G) as (F) and amended it generally. Prior to amendment, subpar. (F) read as follows: “comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (F) of this paragraph;”. Former subpar. (F) redesignated (E).
 
-Subsec. (a)(1)(G) to (I). Pub. L. 99–563, § 5(b)(1)(A), (e), added subpars. (G) to (I). Former subpar. (G) redesignated (F).
+Subsec. (a)(1)(G) to (I). Pub. L. 99–563, § 5(b)(1)(A), (e), added subpars. (G) to (I). Former subpar. (G) redesignated (F).
 
-Subsec. (b). Pub. L. 99–563, § 5(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The exemptions specified in subsection (a) of this section apply to—
+Subsec. (b). Pub. L. 99–563, § 5(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The exemptions specified in subsection (a) of this section apply to—
 
 “(1) product liability or completed operations liability insurance coverage provided by a risk retention group for—
 
@@ -309,7 +309,7 @@ Subsec. (b). Pub. L. 99–563, § 5(a), amended subsec. (b) generally. Prior t
 
 “(3) the provision of insurance related services or management services for a risk retention group or any member of such group.”
 
-Subsecs. (d) to (h). Pub. L. 99–563, §§ 5(b)(2), 7, 8(a), added subsecs. (d) to (h).
+Subsecs. (d) to (h). Pub. L. 99–563, §§ 5(b)(2), 7, 8(a), added subsecs. (d) to (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -317,7 +317,7 @@ Subsecs. (d) to (h). Pub. L. 99–563, §§ 5(b)(2), 7, 8(a), added subsecs. (
 
 The provisions of subsec. (d) of this section, relating to the submission of a feasibility study, not applicable with respect to any line or classification of liability insurance which was defined in this chapter before Oct. 27, 1986, and was offered before such date by any risk retention group chartered and operating for not less than 3 years before such date, see section 11(b) of Pub. L. 99–563, set out as an Effective Date of 1986 Amendment; Applicability note under section 3901 of this title.
 
-## § 3903. Purchasing groups
+## § 3903. Purchasing groups
 
 **(a) Exemptions from State laws, rules, regulations, or orders** Except as provided in this section and section 3905 of this title, a purchasing group is exempt from any State law, rule, regulation, or order to the extent that such law, rule, regulation, or order would—
 
@@ -379,9 +379,9 @@ A State may require that a person acting, or offering to act, as an agent or bro
 
 **(A)** was domiciled before April 1, 1986; and
 
-**(B)** is domiciled on and after October 27, 1986; 1
+**(B)** is domiciled on and after October 27, 1986; 1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 in any State of the United States;
 
@@ -407,7 +407,7 @@ Nothing in this chapter shall be construed to affect the authority of any State 
 
 Nothing in this chapter shall affect the authority of any State to bring an action in any Federal or State court.
 
-(Pub. L. 97–45, § 4, Sept. 25, 1981, 95 Stat. 951; Pub. L. 99–563, §§ 6, 8(b), 12(d), Oct. 27, 1986, 100 Stat. 3174, 3175, 3178.)
+(Pub. L. 97–45, § 4, Sept. 25, 1981, 95 Stat. 951; Pub. L. 99–563, §§ 6, 8(b), 12(d), Oct. 27, 1986, 100 Stat. 3174, 3175, 3178.)
 
 **Editorial Notes**
 
@@ -417,15 +417,15 @@ October 27, 1986, referred to in subsec. (e)(1)(B), was in the original “the d
 
 **Amendments**
 
-1986—Subsec. (a). Pub. L. 99–563, § 8(b)(1), inserted reference to section 3905 of this title.
+1986—Subsec. (a). Pub. L. 99–563, § 8(b)(1), inserted reference to section 3905 of this title.
 
-Subsec. (b)(1). Pub. L. 99–563, § 12(d)(1), substituted “liability insurance” for “product liability or completed operations liability insurance, and comprehensive general liability insurance which includes either of these coverages,”.
+Subsec. (b)(1). Pub. L. 99–563, § 12(d)(1), substituted “liability insurance” for “product liability or completed operations liability insurance, and comprehensive general liability insurance which includes either of these coverages,”.
 
-Subsec. (b)(2)(A). Pub. L. 99–563, § 12(d)(2), struck out “product liability or completed operations insurance, and comprehensive general” before “liability coverage”.
+Subsec. (b)(2)(A). Pub. L. 99–563, § 12(d)(2), struck out “product liability or completed operations insurance, and comprehensive general” before “liability coverage”.
 
-Subsecs. (d) to (h). Pub. L. 99–563, §§ 6, 8(b)(2), added subsecs. (d) to (h).
+Subsecs. (d) to (h). Pub. L. 99–563, §§ 6, 8(b)(2), added subsecs. (d) to (h).
 
-## § 3904. Securities laws
+## § 3904. Securities laws
 
 **(a) Ownership interest of members in risk retention groups** The ownership interests of members in a risk retention group shall be—
 
@@ -441,15 +441,15 @@ A risk retention group shall not be considered to be an investment company for p
 
 The ownership interests of members in a risk retention group shall not be considered securities for purposes of any State blue sky law.
 
-(Pub. L. 97–45, § 5, Sept. 25, 1981, 95 Stat. 952.)
+(Pub. L. 97–45, § 5, Sept. 25, 1981, 95 Stat. 952.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
-## § 3905. Clarification concerning permissible State authority
+## § 3905. Clarification concerning permissible State authority
 
 **(a) No exemption from State motor vehicle no-fault and motor vehicle financial responsibility laws**
 
@@ -467,10 +467,10 @@ The terms of any insurance policy provided by a risk retention group or purchase
 
 Subject to the provisions of section 3902(a)(4) of this title relating to discrimination, nothing in this chapter shall be construed to preempt the authority of a State to specify acceptable means of demonstrating financial responsibility where the State has required a demonstration of financial responsibility as a condition for obtaining a license or permit to undertake specified activities. Such means may include or exclude insurance coverage obtained from an admitted insurance company, an excess lines company, a risk retention group, or any other source regardless of whether coverage is obtained directly from an insurance company or through a broker, agent, purchasing group, or any other person.
 
-(Pub. L. 97–45, § 6, as added Pub. L. 99–563, § 8(c), Oct. 27, 1986, 100 Stat. 3175.)
+(Pub. L. 97–45, § 6, as added Pub. L. 99–563, § 8(c), Oct. 27, 1986, 100 Stat. 3175.)
 
-## § 3906. Injunctive orders issued by United States district courts
+## § 3906. Injunctive orders issued by United States district courts
 
 Any district court of the United States may issue an order enjoining a risk retention group from soliciting or selling insurance, or operating, in any State (or in all States) or in any territory or possession of the United States upon a finding of such court that such group is in hazardous financial condition. Such order shall be binding on such group, its officers, agents, and employees, and on any other person acting in active concert with any such officer, agent, or employee, if such other person has actual notice of such order.
 
-(Pub. L. 97–45, § 7, as added Pub. L. 99–563, § 9, Oct. 27, 1986, 100 Stat. 3176.)
+(Pub. L. 97–45, § 7, as added Pub. L. 99–563, § 9, Oct. 27, 1986, 100 Stat. 3176.)

@@ -15,29 +15,29 @@ retrieved: 2026-10-11
 
 # CHAPTER 31—NATIONAL CONSUMER COOPERATIVE BANK
 
-## § 3001. Congressional statement of findings and purpose
+## § 3001. Congressional statement of findings and purpose
 
 The economic and financial structure of this country in combination with the Nation’s natural resources and the productivity of the American people has produced one of the highest average standards of living in the world. However, the Nation has been experiencing inflation and unemployment together with an increasing gap between producers’ prices and consumers’ purchasing power. This has resulted in a growing number of our citizens, especially the elderly, the poor, and the inner city resident, being unable to share in the fruits of our Nation’s highly efficient economic system. The Congress finds that user-owned cooperatives are a proven method for broadening ownership and control of the economic organizations, increasing the number of market participants, narrowing price spreads, raising the quality of goods and services available to their membership, and building bridges between producers and consumers, and their members and patrons. The Congress also finds that consumer and other types of self-help cooperatives have been hampered in their formation and growth by lack of access to adequate cooperative credit facilities and lack of technical assistance. Therefore, the Congress finds a need for the establishment of a National Consumer Cooperative Bank which will make available necessary financial and technical assistance to cooperative self-help endeavors as a means of strengthening the Nation’s economy.
 
-(Pub. L. 95–351, § 2, Aug. 20, 1978, 92 Stat. 499.)
+(Pub. L. 95–351, § 2, Aug. 20, 1978, 92 Stat. 499.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1989 Amendment**
 
-Pub. L. 101–206, § 1, Dec. 7, 1989, 103 Stat. 1832, provided that: “This Act [amending section 3014 of this title] may be cited as the ‘National Consumer Cooperative Bank Amendments of 1989’.”
+Pub. L. 101–206, § 1, Dec. 7, 1989, 103 Stat. 1832, provided that: “This Act [amending section 3014 of this title] may be cited as the ‘National Consumer Cooperative Bank Amendments of 1989’.”
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–35, title III, § 390, Aug. 13, 1981, 95 Stat. 433, provided that: “This subtitle [subtitle C (§§ 390–396) of title III of Pub. L. 97–35, enacting sections 3017a, 3026, and 3051 of this title; amending sections 3011 to 3015, 3017, 3018, 3019, 3024, 3025, 3042, and 3043 of this title, section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance; and enacting provisions set out as notes under sections 3011 to 3015, 3017, 3017a, 3019, 3025, and 3026 of this title] may be cited as the ‘National Consumer Cooperative Bank Act Amendments of 1981’.”
+Pub. L. 97–35, title III, § 390, Aug. 13, 1981, 95 Stat. 433, provided that: “This subtitle [subtitle C (§§ 390–396) of title III of Pub. L. 97–35, enacting sections 3017a, 3026, and 3051 of this title; amending sections 3011 to 3015, 3017, 3018, 3019, 3024, 3025, 3042, and 3043 of this title, section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance; and enacting provisions set out as notes under sections 3011 to 3015, 3017, 3017a, 3019, 3025, and 3026 of this title] may be cited as the ‘National Consumer Cooperative Bank Act Amendments of 1981’.”
 
 **Short Title**
 
-Pub. L. 95–351, § 1, Aug. 20, 1978, 92 Stat. 499, provided: “That this Act [enacting this chapter and amending section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance] may be cited as the ‘National Consumer Cooperative Bank Act’.”
+Pub. L. 95–351, § 1, Aug. 20, 1978, 92 Stat. 499, provided: “That this Act [enacting this chapter and amending section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance] may be cited as the ‘National Consumer Cooperative Bank Act’.”
 
 ## SUBCHAPTER I—ESTABLISHMENT AND OPERATION
 
-### § 3011. Creation and charter; principal office; venue; purposes
+### § 3011. Creation and charter; principal office; venue; purposes
 
 The Congress of the United States hereby creates and charters a body corporate to be known as the National Consumer Cooperative Bank (hereinafter in this chapter referred to as the “Bank”). The Bank shall have perpetual existence unless and until its charter is revoked or modified by Act of Congress. The right to revise, amend, or modify the charter of the Bank is specifically and exclusively reserved to the Congress. The principal office of the Bank shall be in Washington, District of Columbia, and, for the purpose of venue, shall be considered a resident thereof. It shall make loans and offer its services throughout the United States, its territories and possessions, and in the Commonwealth of Puerto Rico. The Bank shall—
 
@@ -51,7 +51,7 @@ The Congress of the United States hereby creates and charters a body corporate t
 
 **(5)** encourage ownership of its equity securities by cooperatives and others as provided in section 3014 of this title, so that the date when all of the Bank’s class A stock owned by the United States has been fully redeemed (the “Final Government Equity Redemption Date”) occurs as early as practicable.
 
-(Pub. L. 95–351, title I, § 101, Aug. 20, 1978, 92 Stat. 499; Pub. L. 97–35, title III, § 396(b), Aug. 13, 1981, 95 Stat. 439.)
+(Pub. L. 95–351, title I, § 101, Aug. 20, 1978, 92 Stat. 499; Pub. L. 97–35, title III, § 396(b), Aug. 13, 1981, 95 Stat. 439.)
 
 **Editorial Notes**
 
@@ -67,13 +67,13 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title III, § 396(i), Aug. 13, 1981, 95 Stat. 441, provided that: “The amendments made by subsections (b) through (h) [amending this section, sections 3014, 3017, 3018, 3024, and 3043 of this title, section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, § 396(i), Aug. 13, 1981, 95 Stat. 441, provided that: “The amendments made by subsections (b) through (h) [amending this section, sections 3014, 3017, 3018, 3024, and 3043 of this title, section 5315 of Title 5, Government Organization and Employees, and sections 856, 867, and 868 of former Title 31, Money and Finance] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
 **Final Government Equity Redemption Date Established**
 
 For establishment of Final Government Equity Redemption Date as Dec. 31, 1981, see section 3026 of this title and notes set out under that section.
 
-### § 3012. General corporate powers
+### § 3012. General corporate powers
 
 The Bank shall have the power to make and service loans, commitments for credit, guarantees, furnish financially related services, technical assistance and the results of research, issue its obligations within the limitations imposed by section 3017 of this title in such amounts, at such times, and on such terms as the Bank may determine, and to exercise the other powers and duties prescribed in this chapter, and shall have the power to—
 
@@ -115,17 +115,17 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 In determining whether a public offering is taking place for the purpose of the Securities Act of 1933 [15 U.S.C. 77a et seq.], there shall be excluded from consideration all class B and class C stock purchases which took place prior to August 13, 1981.
 
-(Pub. L. 95–351, title I, § 102, Aug. 20, 1978, 92 Stat. 500; Pub. L. 97–35, title III, § 394(d)(1), Aug. 13, 1981, 95 Stat. 436.)
+(Pub. L. 95–351, title I, § 102, Aug. 20, 1978, 92 Stat. 500; Pub. L. 97–35, title III, § 394(d)(1), Aug. 13, 1981, 95 Stat. 436.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in text, is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in text, is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 **Codification**
 
-In pars. (5) and (10), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes [31 U.S.C. 529]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In pars. (5) and (10), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes [31 U.S.C. 529]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
@@ -135,13 +135,13 @@ In pars. (5) and (10), “section 3324(a) and (b) of title 31” substituted for
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title III, § 394(d)(2), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” See section 396(a) of Pub. L. 97–35 set out below.
+Pub. L. 97–35, title III, § 394(d)(2), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” See section 396(a) of Pub. L. 97–35 set out below.
 
 “Final Government Equity Redemption Date” Defined
 
-Pub. L. 97–35, title III, § 396(a), Aug. 13, 1981, 95 Stat. 439, provided that: “For purposes of this subtitle [see Short Title of 1981 Amendment note set out under section 3001 of this title], the term ‘Final Government Equity Redemption Date’ shall have the same meaning given such term in section 101(5) of the National Consumer Cooperative Bank Act (12 U.S.C. 3011(5)).”
+Pub. L. 97–35, title III, § 396(a), Aug. 13, 1981, 95 Stat. 439, provided that: “For purposes of this subtitle [see Short Title of 1981 Amendment note set out under section 3001 of this title], the term ‘Final Government Equity Redemption Date’ shall have the same meaning given such term in section 101(5) of the National Consumer Cooperative Bank Act (12 U.S.C. 3011(5)).”
 
-### § 3013. Board of Directors
+### § 3013. Board of Directors
 
 **(a) Composition; term of office; removal by President**
 
@@ -199,51 +199,51 @@ The Board shall meet at least quarterly. Its meeting shall be open to members or
 
 **(h) Compensation and expenses**
 
-Members of the Board appointed by the President from among the officers of the agencies and departments of the United States Government shall not receive any additional compensation by virtue of their service on the Board. The member of the Board appointed from among proprietors of small business and the member of the Board appointed pursuant to subsection (b)(1)(C) shall (1) receive compensation at a rate equal to the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 for each day that they are engaged in the performance of their duties on the Board, and (2) be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 1
+Members of the Board appointed by the President from among the officers of the agencies and departments of the United States Government shall not receive any additional compensation by virtue of their service on the Board. The member of the Board appointed from among proprietors of small business and the member of the Board appointed pursuant to subsection (b)(1)(C) shall (1) receive compensation at a rate equal to the daily equivalent of the rate prescribed for grade GS–18 under section 5332 of title 5 for each day that they are engaged in the performance of their duties on the Board, and (2) be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5 for each day that they are away from their homes or regular places of business in the performance of their duties on the Board. The members of the Board who are elected by the holders of class B stock and class C stock shall be compensated in accordance with the bylaws of the Bank. All compensation and expenses paid to the members of the Board of Directors shall be paid by the Bank.
 
-(Pub. L. 95–351, title I, § 103, Aug. 20, 1978, 92 Stat. 502; Pub. L. 96–149, Dec. 16, 1979, 93 Stat. 1089; Pub. L. 97–35, title III, § 393(a), (b), Aug. 13, 1981, 95 Stat. 435, 436.)
+(Pub. L. 95–351, title I, § 103, Aug. 20, 1978, 92 Stat. 502; Pub. L. 96–149, Dec. 16, 1979, 93 Stat. 1089; Pub. L. 97–35, title III, § 393(a), (b), Aug. 13, 1981, 95 Stat. 435, 436.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5703 of title 5, referred to in subsec. (h), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (h), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 **Amendments**
 
-1981—Subsec. (a). Pub. L. 97–35, § 393(a), substituted provisions relating to composition, term of office, and removal by the President, for provisions relating to composition, appointment, eligibility, removal, and vacancies.
+1981—Subsec. (a). Pub. L. 97–35, § 393(a), substituted provisions relating to composition, term of office, and removal by the President, for provisions relating to composition, appointment, eligibility, removal, and vacancies.
 
-Subsec. (b). Pub. L. 97–35, § 393(a), substituted provisions relating to appointment by the President, and election by the stockholders, for provisions relating to resignation and termination of terms of Presidential appointees, shareholder directorships, resignation of remaining Presidential appointees on Final Government Equity Redemption Date, and continuation of Presidential appointment power.
+Subsec. (b). Pub. L. 97–35, § 393(a), substituted provisions relating to appointment by the President, and election by the stockholders, for provisions relating to resignation and termination of terms of Presidential appointees, shareholder directorships, resignation of remaining Presidential appointees on Final Government Equity Redemption Date, and continuation of Presidential appointment power.
 
-Subsec. (c). Pub. L. 97–35, § 393(a), substituted provisions relating to resignations, continuances, completion of term, and committee representation, for provisions relating to nominating criteria for appointment or election, and representational limitations.
+Subsec. (c). Pub. L. 97–35, § 393(a), substituted provisions relating to resignations, continuances, completion of term, and committee representation, for provisions relating to nominating criteria for appointment or election, and representational limitations.
 
-Subsec. (d). Pub. L. 97–35, § 393(a), substituted provisions relating to nominations by cooperative classes, vacancies, and representational requirements for elections, for provisions relating to rules governing election of successors to resigned Presidential appointees and successors to shareholder directors.
+Subsec. (d). Pub. L. 97–35, § 393(a), substituted provisions relating to nominations by cooperative classes, vacancies, and representational requirements for elections, for provisions relating to rules governing election of successors to resigned Presidential appointees and successors to shareholder directors.
 
-Subsec. (h). Pub. L. 97–35, § 393(b), inserted provisions relating to compensation of members elected by holders of class B and C stock, and provisions relating to payment of compensation and expenses by the Bank, and substituted provisions relating to members appointed under subsec. (b)(1)(C) of this section, for provisions relating to Final Government Equity Redemption Date, and members elected by holders of class B and C stock.
+Subsec. (h). Pub. L. 97–35, § 393(b), inserted provisions relating to compensation of members elected by holders of class B and C stock, and provisions relating to payment of compensation and expenses by the Bank, and substituted provisions relating to members appointed under subsec. (b)(1)(C) of this section, for provisions relating to Final Government Equity Redemption Date, and members elected by holders of class B and C stock.
 
-1979—Subsec. (a). Pub. L. 96–149, § 1(a), inserted provisions respecting appointment of a member from among proprietors of small business concerns, and substituted “fifteen” for “thirteen”, “eight” for “seven”, and “this section” for “this section 104”, which for purposes of codification had been editorially translated as “section 3014 of this title”.
+1979—Subsec. (a). Pub. L. 96–149, § 1(a), inserted provisions respecting appointment of a member from among proprietors of small business concerns, and substituted “fifteen” for “thirteen”, “eight” for “seven”, and “this section” for “this section 104”, which for purposes of codification had been editorially translated as “section 3014 of this title”.
 
-Subsec. (b). Pub. L. 96–149, § 1(b), substituted provisions respecting criteria for resignations of initial two additional Board members and the additional Board member, for provisions respecting criteria for resignation of an additional Board member, and substituted “Five of the” for “Five”.
+Subsec. (b). Pub. L. 96–149, § 1(b), substituted provisions respecting criteria for resignations of initial two additional Board members and the additional Board member, for provisions respecting criteria for resignation of an additional Board member, and substituted “Five of the” for “Five”.
 
-Subsec. (d). Pub. L. 96–149, § 1(c), substituted “five of the” for “all five”.
+Subsec. (d). Pub. L. 96–149, § 1(c), substituted “five of the” for “all five”.
 
-Subsec. (h). Pub. L. 96–149, § 1(d), inserted provisions relating to Board member appointed from among proprietors of small businesses.
+Subsec. (h). Pub. L. 96–149, § 1(d), inserted provisions relating to Board member appointed from among proprietors of small businesses.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title III, § 393(c), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, § 393(c), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### § 3014. Capitalization
+### § 3014. Capitalization
 
 **(a) Subscriptions for capital; authorization of appropriations**
 
@@ -263,9 +263,9 @@ Class B stock shall be held only by recipients of loans under section 3015 of th
 
 **(e) Class C stock; purchase, dividends, etc.**
 
-Class C stock shall be available for purchase and shall be held only by borrowers or by organizations eligible to borrow under section 3015 of this title or by organizations controlled by such borrowers, and shall be entitled to dividends in the manner specified in the bylaws of the Bank. Such dividends shall be payable only from income, and, until all class A notes has 1
+Class C stock shall be available for purchase and shall be held only by borrowers or by organizations eligible to borrow under section 3015 of this title or by organizations controlled by such borrowers, and shall be entitled to dividends in the manner specified in the bylaws of the Bank. Such dividends shall be payable only from income, and, until all class A notes has 1
 
-<sup>1</sup>  So in original. Probably should be “have”.
+<sup>1</sup> So in original. Probably should be “have”.
 
 been retired, the rate of such dividends shall not exceed the rate of the statutory interest payment on class A notes.
 
@@ -299,7 +299,7 @@ The Bank may accept nonreturnable capital contributions on which no interest, di
 
 After payment of all operating expenses of the Bank, including interest on its obligations, and after setting aside appropriate funds for reserves for losses, for interest payments on class A notes and dividends on class C stock and for any redemption of class A notes in accordance with subsection (c), the Bank shall annually set aside the remaining earnings of the Bank for patronage refunds in the form of class B or C stock or allocated surplus in accordance with the bylaws of the Bank. After ten years from the date of issue of any such stock, or at such earlier time as all the Government-held stock is retired, patronage refunds may be made in cash, or partly in stock and partly in cash.
 
-(Pub. L. 95–351, title I, § 104, Aug. 20, 1978, 92 Stat. 503; Pub. L. 97–35, title III, §§ 394(c)(1), 395(b)(2), 396(c), Aug. 13, 1981, 95 Stat. 436, 439; Pub. L. 101–206, § 2, Dec. 7, 1989, 103 Stat. 1832.)
+(Pub. L. 95–351, title I, § 104, Aug. 20, 1978, 92 Stat. 503; Pub. L. 97–35, title III, §§ 394(c)(1), 395(b)(2), 396(c), Aug. 13, 1981, 95 Stat. 436, 439; Pub. L. 101–206, § 2, Dec. 7, 1989, 103 Stat. 1832.)
 
 **Editorial Notes**
 
@@ -307,33 +307,33 @@ After payment of all operating expenses of the Bank, including interest on its o
 
 1989—Subsec. (c). Pub. L. 101–206 substituted “The holder of class A notes shall be entitled to interest at a rate or rates determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable terms and conditions as of the last day of the month preceding each issuance of such class A notes to the Secretary of the Treasury, except that, until October 1, 1990, interest payments shall not exceed 25 percent of gross revenues for the year, less necessary operating expenses including a reserve for possible losses. From time to time, the Bank may, with the approval of the Secretary of the Treasury and consistent with the terms of this chapter, issue replacement class A notes upon terms and conditions to be agreed upon by the Bank and the Secretary, bearing interest as provided in this subsection, in substitution for those class A notes previously issued.” for “The holder of class A notes shall be entitled to interest payments at a rate determined by the Secretary of the Treasury taking into consideration the average market yield, during the month preceding the close of each fiscal year, on outstanding marketable obligations of the United States of comparable maturity, except that until October 1, 1990, such interest payments shall not exceed 25 per centum of gross revenues for the year less necessary operating expenses, including a reserve for possible losses. Such interest payments shall be payable annually into miscellaneous receipts of the Treasury and shall be cumulative.” and inserted at end “All class A notes shall be redeemed by the Bank no later than October 31, 2020.”
 
-1981—Subsec. (a). Pub. L. 97–35, §§ 394(c)(1), 395(b)(2), inserted “by other public or private investors,” after “public bodies,” and substituted provisions authorizing appropriations for fiscal year 1982, for provisions authorizing appropriations beginning with the fiscal year ending Sept. 30, 1979, and authorizing use of amounts authorized but not appropriated.
+1981—Subsec. (a). Pub. L. 97–35, §§ 394(c)(1), 395(b)(2), inserted “by other public or private investors,” after “public bodies,” and substituted provisions authorizing appropriations for fiscal year 1982, for provisions authorizing appropriations beginning with the fiscal year ending Sept. 30, 1979, and authorizing use of amounts authorized but not appropriated.
 
-Subsec. (b). Pub. L. 97–35, § 396(c)(1), substituted “class B” for “class A, class B,”, and substituted provisions relating to class A notes, for provisions relating to class A preferred stock.
+Subsec. (b). Pub. L. 97–35, § 396(c)(1), substituted “class B” for “class A, class B,”, and substituted provisions relating to class A notes, for provisions relating to class A preferred stock.
 
-Subsec. (c). Pub. L. 97–35, § 396(c)(2), substituted provisions relating to interest payments, redemption, etc., of class A notes, for provisions relating to issuance, dividends, etc., of class A stock.
+Subsec. (c). Pub. L. 97–35, § 396(c)(2), substituted provisions relating to interest payments, redemption, etc., of class A notes, for provisions relating to issuance, dividends, etc., of class A stock.
 
-Subsec. (e). Pub. L. 97–35, § 396(c)(3), substituted provisions relating to class A notes, for provisions relating to class A stock.
+Subsec. (e). Pub. L. 97–35, § 396(c)(3), substituted provisions relating to class A notes, for provisions relating to class A stock.
 
-Subsec. (f). Pub. L. 97–35, § 396(c)(4), substituted provisions relating to class A notes, for provisions relating to class A stock.
+Subsec. (f). Pub. L. 97–35, § 396(c)(4), substituted provisions relating to class A notes, for provisions relating to class A stock.
 
-Subsec. (g)(2)(B). Pub. L. 97–35, § 396(c)(5), substituted “3013(d)(2)(A)” for “3013(c)”.
+Subsec. (g)(2)(B). Pub. L. 97–35, § 396(c)(5), substituted “3013(d)(2)(A)” for “3013(c)”.
 
-Subsec. (h). Pub. L. 97–35, § 396(c)(6), struck out provision respecting treatment of the Bank as a governmental unit within section 170(b)(1)(A)(v) of title 26.
+Subsec. (h). Pub. L. 97–35, § 396(c)(6), struck out provision respecting treatment of the Bank as a governmental unit within section 170(b)(1)(A)(v) of title 26.
 
-Subsec. (i). Pub. L. 97–35, § 396(c)(7), substituted provisions relating to class A notes, for provisions relating to class A stock.
+Subsec. (i). Pub. L. 97–35, § 396(c)(7), substituted provisions relating to class A notes, for provisions relating to class A stock.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title III, § 394(c)(2), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, § 394(c)(2), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
-Pub. L. 97–35, title III, § 395(b)(3), Aug. 13, 1981, 95 Stat. 439, provided that: “The amendments made by paragraphs (1) [amending section 3042 of this title] and (2) [amending this section] shall take effect on October 1, 1981.”
+Pub. L. 97–35, title III, § 395(b)(3), Aug. 13, 1981, 95 Stat. 439, provided that: “The amendments made by paragraphs (1) [amending section 3042 of this title] and (2) [amending this section] shall take effect on October 1, 1981.”
 
 Amendment by section 396(c) of Pub. L. 97–35 effective on the day after the Final Government Equity Redemption Date (Dec. 31, 1981), see section 396(i) of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 3011 of this title.
 
-### § 3015. Eligibility of cooperatives
+### § 3015. Eligibility of cooperatives
 
 **(a) General requirements** For the purpose of all subchapters of this chapter, subject to the limitations of subsection (d) of this section, an eligible cooperative is an organization chartered or operated on a cooperative, not-for-profit basis for producing or furnishing goods, services or facilities, primarily for the benefit of its members or voting stockholders who are ultimate consumers of such goods, services, or facilities, or a legally chartered entity primarily owned and controlled by any such organization or organizations, if it—
 
@@ -365,7 +365,7 @@ An eligible cooperative which also has been determined to be eligible for credit
 
 Notwithstanding any other provision of this section, a credit union serving predominantly low-income members (as defined by the Administrator of the National Credit Union Administration) may receive technical assistance under subchapter II.
 
-(Pub. L. 95–351, title I, § 105, Aug. 20, 1978, 92 Stat. 506; Pub. L. 97–35, title III, § 394(e)(1), (f), Aug. 13, 1981, 95 Stat. 436, 437; Pub. L. 115–334, title VI, § 6602(b)(18), Dec. 20, 2018, 132 Stat. 4777.)
+(Pub. L. 95–351, title I, § 105, Aug. 20, 1978, 92 Stat. 506; Pub. L. 97–35, title III, § 394(e)(1), (f), Aug. 13, 1981, 95 Stat. 436, 437; Pub. L. 115–334, title VI, § 6602(b)(18), Dec. 20, 2018, 132 Stat. 4777.)
 
 **Editorial Notes**
 
@@ -377,27 +377,27 @@ All subchapters of this chapter, referred to in subsec. (a), was in the original
 
 2018—Subsec. (d). Pub. L. 115–334 struck out “the Rural Telephone Bank,” after “the National Rural Utilities Cooperative Finance Corporation,”.
 
-1981—Subsec. (a). Pub. L. 97–35, § 394(e)(1), substituted “primarily owned” for “entirely owned”.
+1981—Subsec. (a). Pub. L. 97–35, § 394(e)(1), substituted “primarily owned” for “entirely owned”.
 
-Subsec. (a)(5). Pub. L. 97–35, § 394(f), inserted provisions relating to exception for housing cooperatives in existence on Mar. 21, 1980.
+Subsec. (a)(5). Pub. L. 97–35, § 394(f), inserted provisions relating to exception for housing cooperatives in existence on Mar. 21, 1980.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title III, § 394(e)(2), Aug. 13, 1981, 95 Stat. 437, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, § 394(e)(2), Aug. 13, 1981, 95 Stat. 437, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
 **Transfer of Functions**
 
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to section 1752a of this title.
 
-### § 3016. Annual meetings; notice, agenda, etc.
+### § 3016. Annual meetings; notice, agenda, etc.
 
 The Bank shall hold an annual meeting of its stockholders which shall be open to the public. At least 30 days’ advance notice of the time and place of the annual meeting shall be given to all stockholders. Borrowers from the Bank shall also give notice of the meeting to their members, who shall be entitled to attend. At such meeting the Bank shall give a full report of its activities during the year and its financial condition and may present proposals for future action and other matters of general concern to borrowers and organizations eligible to borrow from the Bank. Members and representatives of borrowers may present motions or resolutions relating to matters within the scope of this chapter and may participate in the discussion thereof and other matters on the agenda.
 
-(Pub. L. 95–351, title I, § 106, Aug. 20, 1978, 92 Stat. 507.)
+(Pub. L. 95–351, title I, § 106, Aug. 20, 1978, 92 Stat. 507.)
 
-### § 3017. Bonds, debentures, notes and other evidences of indebtedness
+### § 3017. Bonds, debentures, notes and other evidences of indebtedness
 
 **(a) Authorization for public or private sale; time of issuance, interest rates, and terms and conditions; outstanding amount**
 
@@ -411,29 +411,29 @@ The Bank may purchase its own obligations, and may provide for the sale of any s
 
 Obligations issued under this section shall not be guaranteed by the United States and shall not constitute a debt or obligation of the United States or any agency or instrumentality thereof other than the Bank.
 
-(Pub. L. 95–351, title I, § 107, Aug. 20, 1978, 92 Stat. 507; Pub. L. 97–35, title III, §§ 394(g)(1), 396(d), Aug. 13, 1981, 95 Stat. 437, 440.)
+(Pub. L. 95–351, title I, § 107, Aug. 20, 1978, 92 Stat. 507; Pub. L. 97–35, title III, §§ 394(g)(1), 396(d), Aug. 13, 1981, 95 Stat. 437, 440.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1981—Subsec. (a). Pub. L. 97–35, § 394(g)(1), struck out requirement respecting consultation with the Secretary of the Treasury.
+1981—Subsec. (a). Pub. L. 97–35, § 394(g)(1), struck out requirement respecting consultation with the Secretary of the Treasury.
 
-Subsecs. (b) to (d). Pub. L. 97–35, § 396(d), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) relating to discretionary authority for issuance to and purchase by Secretary of Treasury.
+Subsecs. (b) to (d). Pub. L. 97–35, § 396(d), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) relating to discretionary authority for issuance to and purchase by Secretary of Treasury.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title III, § 394(g)(2), Aug. 13, 1981, 95 Stat. 437, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, § 394(g)(2), Aug. 13, 1981, 95 Stat. 437, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
 Amendment by section 396(d) of Pub. L. 97–35 effective on the day after the Final Government Equity Redemption Date (Dec. 31, 1981), see section 396(i) of Pub. L. 97–35, set out as a note under section 3011 of this title.
 
-### § 3017a. Class A notes as paid-in capital of the Bank
+### § 3017a. Class A notes as paid-in capital of the Bank
 
 Only for purposes of section 3017(a) of this title, class A notes shall be deemed to be paid-in capital of the Bank.
 
-(Pub. L. 97–35, title III, § 391(b)(1), Aug. 13, 1981, 95 Stat. 434.)
+(Pub. L. 97–35, title III, § 391(b)(1), Aug. 13, 1981, 95 Stat. 434.)
 
 **Editorial Notes**
 
@@ -445,9 +445,9 @@ Section was enacted as part of the National Consumer Cooperative Bank Act Amendm
 
 **Effective Date**
 
-Pub. L. 97–35, title III, § 391(b)(2), Aug. 13, 1981, 95 Stat. 434, provided that: “This subsection [enacting this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, § 391(b)(2), Aug. 13, 1981, 95 Stat. 434, provided that: “This subsection [enacting this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
-### § 3018. Loans
+### § 3018. Loans
 
 **(a) General requirements for loans and commitments for loans; limitations; allocation of assistance for low-income persons; criteria and factors for making loans, etc.; publication** The Bank may make loans and commitments for loans under this subsection to any organization determined by the Bank to be eligible under the provisions of section 3015 of this title, and may purchase or discount obligations of members of such organizations if the Bank, to the exclusion of all other persons, entities, agencies, or jurisdictions, also determines that the applicant has or will have a sound organizational and financial structure, income in excess of its operating costs and assets in excess of its obligations, and a reasonable expectation of a continuing demand for its production, goods, commodities, or services, or the use of its facilities, so that the loan will be fully repayable in accordance with its terms and conditions. Commencing on October 1, 1985, the Bank shall not make any loan to a cooperative for the purpose of financing the construction, ownership, acquisition, or improvement of any structure used primarily for residential purposes if, after giving effect to such loan, the aggregate amount of all loans outstanding for such purpose would exceed 30 per centum of the gross assets of the Bank. The Board of Directors shall use its best efforts to insure that at the end of each fiscal year of the Bank at least 35 per centum of its outstanding loans are to—
 
@@ -473,7 +473,7 @@ Any loan guaranteed under subsection (c) shall be assignable to the extent provi
 
 As long as any of the class A stock of the Bank is held by the Secretary of the Treasury, the aggregate amount of commitments by the Bank to make or guarantee loans shall not exceed such amounts as may be specified in annual appropriation Acts.
 
-(Pub. L. 95–351, title I, § 108, Aug. 20, 1978, 92 Stat. 508; Pub. L. 97–35, title III, §§ 394(b), 396(e), Aug. 13, 1981, 95 Stat. 436, 440; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 95–351, title I, § 108, Aug. 20, 1978, 92 Stat. 508; Pub. L. 97–35, title III, §§ 394(b), 396(e), Aug. 13, 1981, 95 Stat. 436, 440; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
@@ -481,9 +481,9 @@ As long as any of the class A stock of the Bank is held by the Secretary of the 
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1981—Subsec. (a). Pub. L. 97–35, § 394(b), substituted “1985” for “1983”.
+1981—Subsec. (a). Pub. L. 97–35, § 394(b), substituted “1985” for “1983”.
 
-Subsec. (b). Pub. L. 97–35, § 396(e), struck out provisions relating to proceeds from class A and class B stock.
+Subsec. (b). Pub. L. 97–35, § 396(e), struck out provisions relating to proceeds from class A and class B stock.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -491,7 +491,7 @@ Subsec. (b). Pub. L. 97–35, § 396(e), struck out provisions relating to pro
 
 Amendment by section 396(e) of Pub. L. 97–35 effective on day after Final Government Equity Redemption Date (Dec. 31, 1981), see section 396(i) of Pub. L. 97–35, set out as a note under section 3011 of this title.
 
-### § 3019. Taxation by State, county, etc., taxing authority; Federal tax status
+### § 3019. Taxation by State, county, etc., taxing authority; Federal tax status
 
 **(a)** The Bank, including its franchise, capital, reserves, surplus, mortgages, or other security holdings and income shall be exempt from taxation now or hereafter imposed by any State, county, municipality, or local taxing authority, but any real property held by the Bank shall be subject to any State, county, municipal, or local taxation to the same extent according to its value as other real property is taxed.
 
@@ -507,7 +507,7 @@ Amendment by section 396(e) of Pub. L. 97–35 effective on day after Final Gove
 
 **(5)** any amounts required to be included in the incomes of patrons of the Bank with respect to class B or class C stock or allocated surplus shall be treated as earnings from business done by such patrons of the Bank with or for their own patrons.
 
-(Pub. L. 95–351, title I, § 109, Aug. 20, 1978, 92 Stat. 509; Pub. L. 97–35, title III, § 392(a), Aug. 13, 1981, 95 Stat. 434; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 95–351, title I, § 109, Aug. 20, 1978, 92 Stat. 509; Pub. L. 97–35, title III, § 392(a), Aug. 13, 1981, 95 Stat. 434; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
@@ -525,35 +525,35 @@ Subchapter T of chapter 1 of title 26, referred to in subsec. (b), is set out as
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title III, § 392(b), Aug. 13, 1981, 95 Stat. 435, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, § 392(b), Aug. 13, 1981, 95 Stat. 435, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
-### § 3020. Quarters and space for principal and other offices
+### § 3020. Quarters and space for principal and other offices
 
 Until the Final Government Equity Redemption Date, space for the principal office and any branch offices of the Bank shall be provided by the General Services Administration. There­after, the Bank may lease, construct, or own quarters and provide for the space requirements of its principal and other offices.
 
-(Pub. L. 95–351, title I, § 110, Aug. 20, 1978, 92 Stat. 510.)
+(Pub. L. 95–351, title I, § 110, Aug. 20, 1978, 92 Stat. 510.)
 
-### § 3021. Annual report to Congress; contents
+### § 3021. Annual report to Congress; contents
 
 The Board of the Bank shall report annually to the appropriate committees of the Congress on the Bank’s capital, operations, and financial condition and make recommendations for legislation needed to improve its services.
 
-(Pub. L. 95–351, title I, § 111, Aug. 20, 1978, 92 Stat. 510.)
+(Pub. L. 95–351, title I, § 111, Aug. 20, 1978, 92 Stat. 510.)
 
-### § 3022. Authorization of additional appropriations; restrictions on use
+### § 3022. Authorization of additional appropriations; restrictions on use
 
 In addition to appropriations specifically authorized in this chapter, there are authorized to be appropriated $2,000,000 for the fiscal year ending September 30, 1979, and for each of the two succeeding fiscal years, ending September 30, 1980, and September 30, 1981, such sums as may be necessary: *Provided*, That none of these appropriated sums shall be used to retire any indebtedness of the Bank incurred pursuant to section 3017 of this title. Any sums so appropriated shall remain available until expended.
 
-(Pub. L. 95–351, title I, § 112, Aug. 20, 1978, 92 Stat. 510.)
+(Pub. L. 95–351, title I, § 112, Aug. 20, 1978, 92 Stat. 510.)
 
-### § 3023. Appeal procedures applicable upon denial or restriction of application for assistance
+### § 3023. Appeal procedures applicable upon denial or restriction of application for assistance
 
 **(a)** If an application for assistance under this chapter is denied in whole or in part, the applicant shall be informed within thirty days in writing of the reasons for the denial or restriction.
 
 **(b)** Any applicant for assistance under this chapter receiving notice of denial or restriction of the application may, within thirty days of receipt of such notice, request the Board of Directors to review the application and notice of denial or restriction for a determination of whether the action of the Bank was correctly within the terms of this chapter, the regulations, and the policy of the Board. The Board shall consider the request for review at its next meeting and promptly inform the applicant of its determination and the reasons therefor.
 
-(Pub. L. 95–351, title I, § 113, Aug. 20, 1978, 92 Stat. 510.)
+(Pub. L. 95–351, title I, § 113, Aug. 20, 1978, 92 Stat. 510.)
 
-### § 3024. Conflict of interest rules; adoption and publication; requirements
+### § 3024. Conflict of interest rules; adoption and publication; requirements
 
 The Board of Directors shall adopt and publish its own conflict of interest rules which shall be no less stringent in effect than the Federal Executive conflict of interest rules contained in Executive Order Numbered 11222 in prohibiting participation or action or the use of inside information for personal advantage on any matter involving a corporation, trust, partnership, or cooperative organization in which a board member, officer, or employee holds a substantial financial interest or holds a position as board member or senior officer, the activities of which organization might be relevant to, be competitive with, or be inconsistent with the objectives of any bank created under this chapter. These rules shall require—
 
@@ -561,13 +561,13 @@ The Board of Directors shall adopt and publish its own conflict of interest rule
 
 **(2)** each senior executive officer and appointed member of the Board to file with the appointing officer, before entering that office a statement of his financial interest and position, if any, in such organizations, which shall be available for inspection upon request.
 
-(Pub. L. 95–351, title I, § 114, Aug. 20, 1978, 92 Stat. 510; Pub. L. 97–35, title III, § 396(f), Aug. 13, 1981, 95 Stat. 440.)
+(Pub. L. 95–351, title I, § 114, Aug. 20, 1978, 92 Stat. 510; Pub. L. 97–35, title III, § 396(f), Aug. 13, 1981, 95 Stat. 440.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Executive Order Numbered 11222, referred to in text, which was formerly set out as a note under section 201 of Title 18, Crimes and Criminal Procedure, was revoked by Ex. Ord. No. 12674, § 501(a), Apr. 12, 1989, 54 F.R. 15161.
+Executive Order Numbered 11222, referred to in text, which was formerly set out as a note under section 201 of Title 18, Crimes and Criminal Procedure, was revoked by Ex. Ord. No. 12674, § 501(a), Apr. 12, 1989, 54 F.R. 15161.
 
 **Amendments**
 
@@ -579,11 +579,11 @@ Executive Order Numbered 11222, referred to in text, which was formerly set out 
 
 Amendment by Pub. L. 97–35 effective on the day after the Final Government Equity Redemption Date (Dec. 31, 1981), see section 396(i) of Pub. L. 97–35, set out as a note under section 3011 of this title.
 
-### § 3025. Examination and audit
+### § 3025. Examination and audit
 
 The Farm Credit Administration and the Government Accountability Office are hereby authorized and directed to examine and audit the Bank. Reports regarding such examinations and audits shall be promptly forwarded to both Houses of the Congress. The Bank shall reimburse the Farm Credit Administration for the costs of any examination or audit conducted by the Farm Credit Administration.
 
-(Pub. L. 95–351, title I, § 115, Aug. 20, 1978, 92 Stat. 511; Pub. L. 97–35, title III, § 394(a)(1), Aug. 13, 1981, 95 Stat. 436; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 95–351, title I, § 115, Aug. 20, 1978, 92 Stat. 511; Pub. L. 97–35, title III, § 394(a)(1), Aug. 13, 1981, 95 Stat. 436; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -597,9 +597,9 @@ The Farm Credit Administration and the Government Accountability Office are here
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title III, § 394(a)(2), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, § 394(a)(2), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the day after the Final Government Equity Redemption Date [Dec. 31, 1981].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 
-### § 3026. Acceleration of the Final Government Equity Redemption Date
+### § 3026. Acceleration of the Final Government Equity Redemption Date
 
 **(a)**
 
@@ -629,7 +629,7 @@ Pub. L. 97–35, title III, § 394(a)(2), Aug. 13, 1981, 95 Stat. 436, provide
 
 **(2)** As soon as practicable after August 13, 1981, the Board shall adopt bylaws which will assist in expediting and coordinating the activities which will occur with respect to the Final Government Equity Redemption Date.
 
-(Pub. L. 95–351, title I, § 116, as added Pub. L. 97–35, title III, § 391(a)(1), Aug. 13, 1981, 95 Stat. 433.)
+(Pub. L. 95–351, title I, § 116, as added Pub. L. 97–35, title III, § 391(a)(1), Aug. 13, 1981, 95 Stat. 433.)
 
 **Editorial Notes**
 
@@ -641,21 +641,21 @@ The date of the enactment of the first Act providing for appropriations for fisc
 
 **Effective Date**
 
-Pub. L. 97–35, title III, § 391(a)(2), Aug. 13, 1981, 95 Stat. 434, provided that: “The amendment made by paragraph (1) [enacting this section] shall take effect on the date of the enactment of this Act [Aug. 13, 1981].”
+Pub. L. 97–35, title III, § 391(a)(2), Aug. 13, 1981, 95 Stat. 434, provided that: “The amendment made by paragraph (1) [enacting this section] shall take effect on the date of the enactment of this Act [Aug. 13, 1981].”
 
 **Final Government Equity Redemption Date Established**
 
-Pub. L. 97–101, title V, § 501(36), Dec. 23, 1981, 95 Stat. 1440, provided in part that: “the final Government equity redemption date for the National Consumer Cooperative Bank shall occur on December 31, 1981.”
+Pub. L. 97–101, title V, § 501(36), Dec. 23, 1981, 95 Stat. 1440, provided in part that: “the final Government equity redemption date for the National Consumer Cooperative Bank shall occur on December 31, 1981.”
 
 ## SUBCHAPTER II—OFFICE OF SELF-HELP DEVELOPMENT AND TECHNICAL ASSISTANCE
 
-### § 3041. Establishment; appointment, etc., of Director
+### § 3041. Establishment; appointment, etc., of Director
 
 **(a)** There is hereby established within the Bank an Office of Self-Help Development and Technical Assistance (hereinafter the “Office”).
 
 **(b)** The Office shall have a Director who shall be appointed by the President, with the advice and consent of the Senate, and who shall not be a member of the Board. Subject to review by the Board, the Director shall promulgate and publish in the Federal Register policies and procedures governing the operation of the Office.
 
-(Pub. L. 95–351, title II, § 201, Aug. 20, 1978, 92 Stat. 511.)
+(Pub. L. 95–351, title II, § 201, Aug. 20, 1978, 92 Stat. 511.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -663,11 +663,11 @@ Pub. L. 97–101, title V, § 501(36), Dec. 23, 1981, 95 Stat. 1440, provided 
 
 For abolition of the Office of Self-Help Development and Technical Assistance and performance of the functions by a nonprofit corporation upon the incorporation of the nonprofit corporation, see section 3051 of this title.
 
-### § 3042. Authorization of appropriations for advances; deposits into separate Account in Bank; availability of amounts
+### § 3042. Authorization of appropriations for advances; deposits into separate Account in Bank; availability of amounts
 
 There are hereby authorized to be appropriated to the Office for the purpose of making advances under section 3043 of this title an amount not to exceed $14,000,000 for fiscal year 1982. Any amounts appropriated to the Office shall be deposited by the Office in a separate account in the Bank (hereinafter the “Account”), and shall remain available until expended. Repayments of capital investment advances made pursuant to section 3043(a) of this title and interest supplement advances made pursuant to section 3043(b) of this title and payments of interest thereon pursuant to section 3043(c) of this title shall also be deposited in the Account. No other funds of the Bank shall be transferred into the Account. The Account shall be used by the Office only as authorized in section 3043 of this title.
 
-(Pub. L. 95–351, title II, § 202, Aug. 20, 1978, 92 Stat. 511; Pub. L. 97–35, title III, § 395(b)(1), Aug. 13, 1981, 95 Stat. 438.)
+(Pub. L. 95–351, title II, § 202, Aug. 20, 1978, 92 Stat. 511; Pub. L. 97–35, title III, § 395(b)(1), Aug. 13, 1981, 95 Stat. 438.)
 
 **Editorial Notes**
 
@@ -681,7 +681,7 @@ There are hereby authorized to be appropriated to the Office for the purpose of 
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 395(b)(3) of Pub. L. 97–35, set out as a note under section 3014 of this title.
 
-### § 3043. Advances
+### § 3043. Advances
 
 **(a) Capital investment advances; criteria** The Office may make a capital investment advance to any eligible cooperative, either in conjunction with or without a loan if the Office determines that—
 
@@ -701,7 +701,7 @@ The Office may make advances to pay all or part of the interest payable to the B
 
 Capital investment advances made by the Office pursuant to subsection (a) and interest supplement advances made by the Office pursuant to subsection (b) shall bear interest at a rate determined by the Board of Directors of the Bank, and the Board of Directors may authorize an interest rate applicable to such advances lower than the rate applicable to loans by the Bank pursuant to section 3018 of this title.
 
-(Pub. L. 95–351, title II, § 203, Aug. 20, 1978, 92 Stat. 512; Pub. L. 97–35, title III, § 396(g), Aug. 13, 1981, 95 Stat. 440.)
+(Pub. L. 95–351, title II, § 203, Aug. 20, 1978, 92 Stat. 512; Pub. L. 97–35, title III, § 396(g), Aug. 13, 1981, 95 Stat. 440.)
 
 **Editorial Notes**
 
@@ -715,49 +715,49 @@ Capital investment advances made by the Office pursuant to subsection (a) and in
 
 Amendment by Pub. L. 97–35 effective on the day after the Final Government Equity Redemption Date (Dec. 31, 1981), see section 396(i) of Pub. L. 97–35, set out as a note under section 3011 of this title.
 
-### § 3044. Services and information for organization, financing, and management of cooperatives; availability; agreements for development and dissemination; funding
+### § 3044. Services and information for organization, financing, and management of cooperatives; availability; agreements for development and dissemination; funding
 
 The Office shall make available information and services concerning the organization, financing, and management of cooperatives to best achieve the objectives of this chapter and to best provide the means through which various types of goods, services, and facilities can be made available to members and patrons. The Office may enter into agreements with other agencies of Federal, State, and local governments, colleges and universities, foundations, or other organizations for the development and dissemination of such information, and services described in this subchapter. The Office may make or accept grants or transfer of funds for such purposes.
 
-(Pub. L. 95–351, title II, § 204, Aug. 20, 1978, 92 Stat. 512.)
+(Pub. L. 95–351, title II, § 204, Aug. 20, 1978, 92 Stat. 512.)
 
-### § 3045. Investigations and surveys respecting new services, etc., by cooperative not-for-profit organizations
+### § 3045. Investigations and surveys respecting new services, etc., by cooperative not-for-profit organizations
 
 The Office may undertake investigations of new types of services which can more effectively be provided through cooperative not-for-profit organizations and make surveys of areas where the increased use of such organizations will contribute to the economic well-being of the community.
 
-(Pub. L. 95–351, title II, § 205, Aug. 20, 1978, 92 Stat. 512.)
+(Pub. L. 95–351, title II, § 205, Aug. 20, 1978, 92 Stat. 512.)
 
-### § 3046. Financial analysis and market surveys at request of eligible cooperative
+### § 3046. Financial analysis and market surveys at request of eligible cooperative
 
 The Office may, at the request of any eligible cooperative, provide a financial analysis of the applicant’s capital structure and needs and its cost of operations, survey the market for the goods or services the cooperative makes or desires to make available to its members or patrons or the users of its facilities.
 
-(Pub. L. 95–351, title II, § 206, Aug. 20, 1978, 92 Stat. 513.)
+(Pub. L. 95–351, title II, § 206, Aug. 20, 1978, 92 Stat. 513.)
 
-### § 3047. Programs for training directors and staff of eligible cooperatives, and public education; development and availability; scope and implementation
+### § 3047. Programs for training directors and staff of eligible cooperatives, and public education; development and availability; scope and implementation
 
 The Office shall develop and make available, alone or in concert with other organizations, a program for training directors and staff of eligible cooperatives to improve their understanding of their responsibilities; the problems of and solutions for effective and efficient operation of their organizations or of cooperatives in general; and may by any means it deems appropriate, conduct membership studies, provide membership education programs, and programs for informing consumers and the general public of the advantages of cooperative action. Management supervision, review, and consultations shall be available from the Office to any eligible cooperative.
 
-(Pub. L. 95–351, title II, § 207, Aug. 20, 1978, 92 Stat. 513.)
+(Pub. L. 95–351, title II, § 207, Aug. 20, 1978, 92 Stat. 513.)
 
-### § 3048. Cooperation with Federal agencies offering programs for consumer cooperatives in disseminating information
+### § 3048. Cooperation with Federal agencies offering programs for consumer cooperatives in disseminating information
 
 The Office shall work closely with all United States Government agencies offering programs for which consumer cooperatives may be eligible to assure that information concerning all such programs is made available to eligible cooperatives.
 
-(Pub. L. 95–351, title II, § 208, Aug. 20, 1978, 92 Stat. 513.)
+(Pub. L. 95–351, title II, § 208, Aug. 20, 1978, 92 Stat. 513.)
 
-### § 3049. Authorization of appropriations for administration; availability of amounts
+### § 3049. Authorization of appropriations for administration; availability of amounts
 
 There are authorized to be appropriated to the Office $2,000,000 for the fiscal year ending September 30, 1979, and for each of the two succeeding fiscal years, such sums as may be necessary for the administration of this subchapter. Any sums so appropriated shall remain available until expended.
 
-(Pub. L. 95–351, title II, § 209, Aug. 20, 1978, 92 Stat. 513.)
+(Pub. L. 95–351, title II, § 209, Aug. 20, 1978, 92 Stat. 513.)
 
-### § 3050. Fees for providing technical assistance services; waiver; accounting and availability
+### § 3050. Fees for providing technical assistance services; waiver; accounting and availability
 
 The Office may make the technical assistance services under this subchapter available for such fees as it may establish, except that such services as the Office may determine may be made available without charge to eligible cooperatives depending on the nature of the services or on ability to pay. Any fees collected shall be accounted for separately and be available for expenses of the Office.
 
-(Pub. L. 95–351, title II, § 210, Aug. 20, 1978, 92 Stat. 513.)
+(Pub. L. 95–351, title II, § 210, Aug. 20, 1978, 92 Stat. 513.)
 
-### § 3051. Nonprofit corporation
+### § 3051. Nonprofit corporation
 
 **(a) Office of Self-Help Development and Technical Assistance abolished; transfer of assets, etc.**
 
@@ -819,7 +819,7 @@ The Office may make the technical assistance services under this subchapter avai
 
 Notwithstanding the laws of the District of Columbia, the Board of Directors of such nonprofit corporation shall adopt and publish its own conflict of interest rules which shall be no less stringent in effect than the conflict of interest provisions adopted by the Board of Directors of the Bank pursuant to section 3024 of this title.
 
-(Pub. L. 95–351, title II, § 211, as added Pub. L. 97–35, title III, § 395(a), Aug. 13, 1981, 95 Stat. 437; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 95–351, title II, § 211, as added Pub. L. 97–35, title III, § 395(a), Aug. 13, 1981, 95 Stat. 437; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 

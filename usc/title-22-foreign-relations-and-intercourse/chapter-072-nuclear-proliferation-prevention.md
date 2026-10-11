@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—SANCTIONS FOR NUCLEAR PROLIFERATION
 
-### § 6301. Imposition of procurement sanction on persons engaging in export activities that contribute to proliferation
+### § 6301. Imposition of procurement sanction on persons engaging in export activities that contribute to proliferation
 
 **(a) Determination by President**
 
@@ -107,7 +107,7 @@ The President may waive the application of the sanction imposed on any person pu
 
 If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
 
-(Pub. L. 103–236, title VIII, § 821, Apr. 30, 1994, 108 Stat. 508.)
+(Pub. L. 103–236, title VIII, § 821, Apr. 30, 1994, 108 Stat. 508.)
 
 **Editorial Notes**
 
@@ -123,15 +123,15 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 **Effective Date**
 
-Pub. L. 103–236, title VIII, § 831, Apr. 30, 1994, 108 Stat. 522, provided that: “The provisions of this part [part B (§§ 821–831) of title VIII of Pub. L. 103–236, enacting this subchapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, and 2780 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as a note under section 2799aa of this title], and the amendments made by this part, shall take effect 60 days after the date of the enactment of this Act [Apr. 30, 1994].”
+Pub. L. 103–236, title VIII, § 831, Apr. 30, 1994, 108 Stat. 522, provided that: “The provisions of this part [part B (§§ 821–831) of title VIII of Pub. L. 103–236, enacting this subchapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, and 2780 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as a note under section 2799aa of this title], and the amendments made by this part, shall take effect 60 days after the date of the enactment of this Act [Apr. 30, 1994].”
 
 **Short Title**
 
-Pub. L. 103–236, title VIII, § 801, Apr. 30, 1994, 108 Stat. 507, provided that: “This title [enacting this chapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, 2780, and 3281 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as notes under this section and section 2799aa of this title] may be cited as the ‘Nuclear Proliferation Prevention Act of 1994’.”
+Pub. L. 103–236, title VIII, § 801, Apr. 30, 1994, 108 Stat. 507, provided that: “This title [enacting this chapter and sections 2799aa to 2799aa–2 of this title, amending sections 262d, 2295a, 2295b, 2375, 2429a–1, 2593a, 2708, 2753, 2780, and 3281 of this title, section 635 of Title 12, Banks and Banking, and section 2160c of Title 42, The Public Health and Welfare, repealing sections 2429 and 2429a of this title, and enacting provisions set out as notes under this section and section 2799aa of this title] may be cited as the ‘Nuclear Proliferation Prevention Act of 1994’.”
 
 **Termination Upon Enactment of Next Foreign Relations Act**
 
-Pub. L. 103–236, title VIII, § 851, Apr. 30, 1994, 108 Stat. 525, which provided that on date of enactment of first Foreign Relations Authorization Act that was enacted after enactment of Pub. L. 103–236, the provisions of parts A (amending section 3281 of this title) and B (see Effective Date note above) of title VIII of Pub. L. 103–236 were to cease to be effective, the amendments made by those parts were to be repealed, and any provision of law repealed by those parts was to be reenacted, was itself repealed by Pub. L. 104–164, title I, § 157(a), July 21, 1996, 110 Stat. 1440.
+Pub. L. 103–236, title VIII, § 851, Apr. 30, 1994, 108 Stat. 525, which provided that on date of enactment of first Foreign Relations Authorization Act that was enacted after enactment of Pub. L. 103–236, the provisions of parts A (amending section 3281 of this title) and B (see Effective Date note above) of title VIII of Pub. L. 103–236 were to cease to be effective, the amendments made by those parts were to be repealed, and any provision of law repealed by those parts was to be reenacted, was itself repealed by Pub. L. 104–164, title I, § 157(a), July 21, 1996, 110 Stat. 1440.
 
 **Executive Documents**
 
@@ -139,7 +139,7 @@ Pub. L. 103–236, title VIII, § 851, Apr. 30, 1994, 108 Stat. 525, which pro
 
 Memorandum of President of the United States, Mar. 5, 2007, 72 F.R. 11283, provided:
 
-Memorandum for the Secretary of State[,] the Secretary of the Treasury[,] the Secretary of Defense[,] the Secretary of Commerce[, and] the Director of National Intelligence
+Memorandum for the Secretary of State[,] the Secretary of the Treasury[,] the Secretary of Defense[,] the Secretary of Commerce[, and] the Director of National Intelligence
 
 By the authority vested in me as President by the Constitution and laws of the United States, including section 301 of title 3, United States Code, the functions of the President under section 821 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (22 U.S.C. 6301) are assigned to the Secretary of State, except that the function of the President under section 821(c)(2)(A) is assigned to the Secretary of Defense.
 
@@ -149,11 +149,11 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 George W. Bush.
 
-### § 6302. Role of international financial institutions
+### § 6302. Role of international financial institutions
 
 The Secretary of the Treasury shall instruct the United States executive director to each of the international financial institutions described in section 262d(a) of this title to use the voice and vote of the United States to oppose any use of the institution’s funds to promote the acquisition of unsafeguarded special nuclear material or the development, stockpiling, or use of any nuclear explosive device by any non-nuclear-weapon state.
 
-(Pub. L. 103–236, title VIII, § 823(a), Apr. 30, 1994, 108 Stat. 512.)
+(Pub. L. 103–236, title VIII, § 823(a), Apr. 30, 1994, 108 Stat. 512.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -161,7 +161,7 @@ The Secretary of the Treasury shall instruct the United States executive directo
 
 Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under section 6301 of this title.
 
-### § 6303. Prohibition on assisting nuclear proliferation through provision of financing
+### § 6303. Prohibition on assisting nuclear proliferation through provision of financing
 
 **(a) “Prohibited activity” defined** For purposes of this section, the term “prohibited activity” means the act of knowingly, materially, and directly contributing or attempting to contribute, through the provision of financing, to—
 
@@ -179,7 +179,7 @@ To the extent that the United States has jurisdiction to prohibit such activity 
 
 If the President determines,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 that a United States person or a foreign person has engaged in a prohibited activity (without regard to whether subsection (b) applies), the President shall, by order, impose the sanctions described in subsection (d) on such person.
 
@@ -263,7 +263,7 @@ If knowledge of the existence of a particular circumstance is required for an of
 
 This section shall apply with respect to prohibited activities which occur on or after the date this subchapter takes effect.
 
-(Pub. L. 103–236, title VIII, § 824, Apr. 30, 1994, 108 Stat. 512; Pub. L. 104–164, title I, § 157(b), July 21, 1996, 110 Stat. 1440.)
+(Pub. L. 103–236, title VIII, § 824, Apr. 30, 1994, 108 Stat. 512; Pub. L. 104–164, title I, § 157(b), July 21, 1996, 110 Stat. 1440.)
 
 **Editorial Notes**
 
@@ -273,11 +273,11 @@ For the date this subchapter takes effect, referred to in subsec. (j), as 60 day
 
 **Amendments**
 
-1996—Subsec. (c). Pub. L. 104–164, § 157(b)(1), struck out “in writing after opportunity for a hearing on the record” after “If the President determines,”.
+1996—Subsec. (c). Pub. L. 104–164, § 157(b)(1), struck out “in writing after opportunity for a hearing on the record” after “If the President determines,”.
 
-Subsec. (e). Pub. L. 104–164, § 157(b)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Any determination of the President under subsection (c) of this section shall be subject to judicial review in accordance with chapter 7 of part I of title 5.”
+Subsec. (e). Pub. L. 104–164, § 157(b)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Any determination of the President under subsection (c) of this section shall be subject to judicial review in accordance with chapter 7 of part I of title 5.”
 
-Subsecs. (f) to (k). Pub. L. 104–164, § 157(b)(3), redesignated subsecs. (g) to (k) as (f) to (j), respectively. Former subsec. (f) redesignated (e).
+Subsecs. (f) to (k). Pub. L. 104–164, § 157(b)(3), redesignated subsecs. (g) to (k) as (f) to (j), respectively. Former subsec. (f) redesignated (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -285,7 +285,7 @@ Subsecs. (f) to (k). Pub. L. 104–164, § 157(b)(3), redesignated subsecs. (g
 
 Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under section 6301 of this title.
 
-### § 6304. Reporting on demarches
+### § 6304. Reporting on demarches
 
 **(1)** It is the sense of the Congress that the Department of State should, in the course of implementing its reporting responsibilities under section 3282(c) of this title, include a summary of demarches that the United States has issued or received from foreign governments with respect to activities which are of significance from the proliferation standpoint.
 
@@ -297,7 +297,7 @@ Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–
 
 **(C)** both the concern and request described in subparagraphs (A) and (B).
 
-(Pub. L. 103–236, title VIII, § 828(b), Apr. 30, 1994, 108 Stat. 520.)
+(Pub. L. 103–236, title VIII, § 828(b), Apr. 30, 1994, 108 Stat. 520.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -305,7 +305,7 @@ Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–
 
 Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as a note under section 6301 of this title.
 
-### § 6305. Definitions
+### § 6305. Definitions
 
 For purposes of this subchapter—
 
@@ -337,7 +337,7 @@ For purposes of this subchapter—
 
 **(8)** the term “unsafeguarded special nuclear material” means special nuclear material which is held in violation of IAEA safeguards or not subject to IAEA safeguards (excluding any quantity of material that could, if it were exported from the United States, be exported under a general license issued by the Nuclear Regulatory Commission).
 
-(Pub. L. 103–236, title VIII, § 830, Apr. 30, 1994, 108 Stat. 521.)
+(Pub. L. 103–236, title VIII, § 830, Apr. 30, 1994, 108 Stat. 521.)
 
 **Editorial Notes**
 
@@ -353,7 +353,7 @@ Section effective 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–
 
 ## SUBCHAPTER II—INTERNATIONAL ATOMIC ENERGY AGENCY
 
-### § 6321. Bilateral and multilateral initiatives
+### § 6321. Bilateral and multilateral initiatives
 
 It is the sense of the Congress that in order to maintain and enhance international confidence in the effectiveness of IAEA safeguards and in other multilateral undertakings to halt the global proliferation of nuclear weapons, the United States should seek to negotiate with other nations and groups of nations, including the IAEA Board of Governors and the Nuclear Suppliers Group, to—
 
@@ -379,13 +379,13 @@ It is the sense of the Congress that in order to maintain and enhance internatio
 
 **(11)** seek agreement among the parties to the Treaty to apply IAEA safeguards in perpetuity and to establish new limits on the right to withdraw from the Treaty.
 
-(Pub. L. 103–236, title VIII, § 841, Apr. 30, 1994, 108 Stat. 522.)
+(Pub. L. 103–236, title VIII, § 841, Apr. 30, 1994, 108 Stat. 522.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Promotion of Discussions on Nuclear and Radiological Security and Safety Between the International Atomic Energy Agency and the Organization for Economic Cooperation and Development**
 
-Pub. L. 108–136, div. C, title XXXVI, § 3631, Nov. 24, 2003, 117 Stat. 1825, provided that:
+Pub. L. 108–136, div. C, title XXXVI, § 3631, Nov. 24, 2003, 117 Stat. 1825, provided that:
 
 > **“(a) Sense of Congress Regarding Initiation of Dialogue Between the IAEA and the OECD.—** It is the sense of Congress that—
 
@@ -405,7 +405,7 @@ Pub. L. 108–136, div. C, title XXXVI, § 3631, Nov. 24, 2003, 117 Stat. 1825
 
 > **“(2)** Paragraph (1) shall not apply if no efforts referred to in paragraph (1)(A) have been made.”
 
-### § 6322. IAEA internal reforms
+### § 6322. IAEA internal reforms
 
 In order to promote the early adoption of reforms in the implementation of the safeguards responsibilities of the IAEA, the Congress urges the President to negotiate with other nations and groups of nations, including the IAEA Board of Governors and the Nuclear Suppliers Group, to—
 
@@ -435,17 +435,17 @@ In order to promote the early adoption of reforms in the implementation of the s
 
 **(11)** develop with other IAEA member nations an agreement on procedures to expedite approvals of visa applications by IAEA inspectors;
 
-**(12)** provide the IAEA the additional funds, technical assistance, and political support necessary to carry out the goals set forth in this subsection; 1
+**(12)** provide the IAEA the additional funds, technical assistance, and political support necessary to carry out the goals set forth in this subsection; 1
 
-<sup>1</sup>  So in original. Probably should be “section;”.
+<sup>1</sup> So in original. Probably should be “section;”.
 
 and
 
 **(13)** make public the annual safeguards implementation report of the IAEA, establishing a public registry of commodities in international nuclear commerce, including dual-use goods, and creating a public repository of current nuclear trade control laws, agreements, regulations, and enforcement and judicial actions by IAEA member nations.
 
-(Pub. L. 103–236, title VIII, § 842, Apr. 30, 1994, 108 Stat. 523.)
+(Pub. L. 103–236, title VIII, § 842, Apr. 30, 1994, 108 Stat. 523.)
 
-### § 6323. Reporting requirement
+### § 6323. Reporting requirement
 
 **(a) Report required** The President shall, in the report required by section 3281(a) of this title, describe—
 
@@ -453,9 +453,9 @@ and
 
 **(2)** the progress that has been made and the obstacles that have been encountered in seeking to meet the objectives set forth in sections 6321 and 6322 of this title.
 
-**(b) Contents of report** Each report under paragraph (1) 1
+**(b) Contents of report** Each report under paragraph (1) 1
 
-<sup>1</sup>  So in original. Probably should be “subsection (a) of this section”.
+<sup>1</sup> So in original. Probably should be “subsection (a) of this section”.
 
 shall describe—
 
@@ -471,9 +471,9 @@ shall describe—
 
 **(6)** any initiatives that the President plans to take in support of each of the objectives set forth in sections 6321 and 6322 of this title.
 
-(Pub. L. 103–236, title VIII, § 843, Apr. 30, 1994, 108 Stat. 524.)
+(Pub. L. 103–236, title VIII, § 843, Apr. 30, 1994, 108 Stat. 524.)
 
-### § 6324. Definitions
+### § 6324. Definitions
 
 As used in this subchapter—
 
@@ -489,4 +489,4 @@ As used in this subchapter—
 
 **(6)** the terms “IAEA safeguards”, “non-nuclear-weapon state”, “nuclear explosive device”, and “special nuclear material” have the meanings given those terms in section 6305 of this title.
 
-(Pub. L. 103–236, title VIII, § 844, Apr. 30, 1994, 108 Stat. 524.)
+(Pub. L. 103–236, title VIII, § 844, Apr. 30, 1994, 108 Stat. 524.)

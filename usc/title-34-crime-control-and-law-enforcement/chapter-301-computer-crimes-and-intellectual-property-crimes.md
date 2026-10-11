@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 301—COMPUTER CRIMES AND INTELLECTUAL PROPERTY CRIMES
 
-## § 30101. State grant program for training and prosecution of computer crimes
+## § 30101. State grant program for training and prosecution of computer crimes
 
 **(a) In general**
 
@@ -69,7 +69,7 @@ Unless all eligible applications submitted by any State or unit of local governm
 
 Notwithstanding any other provision of this section, the Attorney General may use amounts made available under this section to make grants to Indian tribes for use in accordance with this section.
 
-(Pub. L. 106–572, § 2, Dec. 28, 2000, 114 Stat. 3058; Pub. L. 110–403, title IV, § 401(a), Oct. 13, 2008, 122 Stat. 4271.)
+(Pub. L. 106–572, § 2, Dec. 28, 2000, 114 Stat. 3058; Pub. L. 110–403, title IV, § 401(a), Oct. 13, 2008, 122 Stat. 4271.)
 
 **Editorial Notes**
 
@@ -83,9 +83,9 @@ Section was formerly classified to section 3713 of Title 42, The Public Health a
 
 **Amendments**
 
-2008—Subsec. (b)(1)–(3). Pub. L. 110–403, § 401(a)(1), inserted “, including infringement of copyrighted works over the Internet” after “computer crime”.
+2008—Subsec. (b)(1)–(3). Pub. L. 110–403, § 401(a)(1), inserted “, including infringement of copyrighted works over the Internet” after “computer crime”.
 
-Subsec. (e)(1). Pub. L. 110–403, § 401(a)(2), substituted “2009 through 2013” for “2001 through 2004”.
+Subsec. (e)(1). Pub. L. 110–403, § 401(a)(2), substituted “2009 through 2013” for “2001 through 2004”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -93,7 +93,7 @@ Subsec. (e)(1). Pub. L. 110–403, § 401(a)(2), substituted “2009 through 2
 
 For short title of Pub. L. 106–572, which is classified to this section, as the “Computer Crime Enforcement Act”, see section 1 of Pub. L. 106–572, set out as a Short Title of 2000 Act note under section 10101 of this title.
 
-## § 30102. Development and support of cybersecurity forensic capabilities
+## § 30102. Development and support of cybersecurity forensic capabilities
 
 **(a) In general** The Attorney General shall establish such regional computer forensic laboratories as the Attorney General considers appropriate, and provide support to existing computer forensic laboratories, in order that all such computer forensic laboratories have the capability—
 
@@ -117,7 +117,7 @@ There is hereby authorized to be appropriated in each fiscal year $50,000,000 fo
 
 Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until expended.
 
-(Pub. L. 107–56, title VIII, § 816, Oct. 26, 2001, 115 Stat. 385.)
+(Pub. L. 107–56, title VIII, § 816, Oct. 26, 2001, 115 Stat. 385.)
 
 **Editorial Notes**
 
@@ -125,7 +125,7 @@ Amounts appropriated pursuant to the authorization of appropriations in paragrap
 
 Section was formerly classified as a note under section 509 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 30103. Local law enforcement grants
+## § 30103. Local law enforcement grants
 
 **(a) Omitted**
 
@@ -153,7 +153,7 @@ Section was formerly classified as a note under section 509 of Title 28, Judicia
 
 **(C)** a plan for coordinating the programs funded under this section with other federally funded technical assistance and training programs, including directly funded local programs such as the Edward Byrne Memorial Justice Assistance Grant Program authorized by subpart 1 of part E of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3750 et seq.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(3) Matching funds**
 
@@ -169,13 +169,13 @@ There is authorized to be appropriated to carry out this subsection the sum of $
 
 Of the amount made available to carry out this subsection in any fiscal year, not more than 3 percent may be used by the Attorney General for salaries and administrative expenses.
 
-(Pub. L. 110–403, title IV, § 401, Oct. 13, 2008, 122 Stat. 4271.)
+(Pub. L. 110–403, title IV, § 401, Oct. 13, 2008, 122 Stat. 4271.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (b)(2)(C), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 1 of part E of title I of the Act was classified generally to part A (§ 3750 et seq.) of subchapter V of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as part A (§ 10151 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (b)(2)(C), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Subpart 1 of part E of title I of the Act was classified generally to part A (§ 3750 et seq.) of subchapter V of chapter 46 of Title 42, The Public Health and Welfare, prior to editorial reclassification as part A (§ 10151 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 **Codification**
 
@@ -183,7 +183,7 @@ Section is comprised of section 401 of Pub. L. 110–403. Subsec. (a) of section
 
 Section was formerly classified to section 3713a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 30104. Improved investigative and forensic resources for enforcement of laws related to intellectual property crimes
+## § 30104. Improved investigative and forensic resources for enforcement of laws related to intellectual property crimes
 
 **(a) In general** Subject to the availability of appropriations to carry out this subsection, the Attorney General, in consultation with the Director of the Federal Bureau of Investigation, shall, with respect to crimes related to the theft of intellectual property—
 
@@ -207,7 +207,7 @@ Subject to the availability of appropriations to carry out this subsection, and 
 
 There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2009 through 2013.
 
-(Pub. L. 110–403, title IV, § 402, Oct. 13, 2008, 122 Stat. 4272.)
+(Pub. L. 110–403, title IV, § 402, Oct. 13, 2008, 122 Stat. 4272.)
 
 **Editorial Notes**
 
@@ -215,7 +215,7 @@ There are authorized to be appropriated to carry out this section $10,000,000 fo
 
 Section was formerly classified to section 3713b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 30105. Additional funding for resources to investigate and prosecute intellectual property crimes and other criminal activity involving computers
+## § 30105. Additional funding for resources to investigate and prosecute intellectual property crimes and other criminal activity involving computers
 
 **(a) Additional funding for resources**
 
@@ -239,7 +239,7 @@ Any amounts appropriated under paragraph (1) shall remain available until expend
 
 **(2)** enable relevant units of the Department of Justice, including units responsible for investigating computer hacking or intellectual property crimes, to procure advanced tools of forensic science and expert computer forensic assistance, including from non-governmental entities, to investigate, prosecute, and study such crimes.
 
-(Pub. L. 110–403, title IV, § 403, Oct. 13, 2008, 122 Stat. 4273.)
+(Pub. L. 110–403, title IV, § 403, Oct. 13, 2008, 122 Stat. 4273.)
 
 **Editorial Notes**
 
@@ -247,7 +247,7 @@ Any amounts appropriated under paragraph (1) shall remain available until expend
 
 Section was formerly classified to section 3713c of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 30106. Annual reports
+## § 30106. Annual reports
 
 **(a) Report of the Attorney General** Not later than 1 year after October 13, 2008, and annually thereafter, the Attorney General shall submit a report to Congress on actions taken to carry out sections 30103 to 30106 of this title. The initial report required under this subsection shall be submitted by May 1, 2009. All subsequent annual reports shall be submitted by May 1st of each fiscal year thereafter. The report required under this subsection may be submitted as part of the annual performance report of the Department of Justice, and shall include the following:
 
@@ -369,7 +369,7 @@ Section was formerly classified to section 3713c of Title 42, The Public Health 
 
 **(4)** a Bureau-wide assessment of the staff, financial resources, and other resources (such as time, technology, and training) devoted to the enforcement, investigation, and prosecution of intellectual property crimes, including the number of investigators, prosecutors, and forensic specialists dedicated to investigating and prosecuting intellectual property crimes.
 
-(Pub. L. 110–403, title IV, § 404, Oct. 13, 2008, 122 Stat. 4274.)
+(Pub. L. 110–403, title IV, § 404, Oct. 13, 2008, 122 Stat. 4274.)
 
 **Editorial Notes**
 
@@ -381,7 +381,7 @@ Sections 30103 to 30106 of this title, referred to in subsecs. (a) and (c), was 
 
 Section was formerly classified to section 3713d of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 30107. Local law enforcement grants for enforcement of cybercrimes
+## § 30107. Local law enforcement grants for enforcement of cybercrimes
 
 **(a) Definitions** In this section:
 
@@ -509,7 +509,7 @@ There are authorized to be appropriated to carry out this section $10,000,000 fo
 
 Of the amount made available under paragraph (1) in any fiscal year, not more than 5 percent may be used for evaluation, monitoring, technical assistance, salaries, and administrative expenses.
 
-(Pub. L. 117–103, div. W, title XIV, § 1401, Mar. 15, 2022, 136 Stat. 945.)
+(Pub. L. 117–103, div. W, title XIV, § 1401, Mar. 15, 2022, 136 Stat. 945.)
 
 **Editorial Notes**
 
@@ -527,7 +527,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 For definitions of terms used in this section, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.
 
-## § 30108. National Resource Center grant
+## § 30108. National Resource Center grant
 
 **(a) Definitions** In this section:
 
@@ -621,7 +621,7 @@ Not later than November 1 of each even-numbered fiscal year, the Attorney Genera
 
 There are authorized to be appropriated to carry out this section $4,000,000 for each of fiscal years 2023 through 2027.
 
-(Pub. L. 117–103, div. W, title XIV, § 1402, Mar. 15, 2022, 136 Stat. 948.)
+(Pub. L. 117–103, div. W, title XIV, § 1402, Mar. 15, 2022, 136 Stat. 948.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -633,7 +633,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 For definitions of terms used in this section, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.
 
-## § 30109. National strategy, classification, and reporting on cybercrime
+## § 30109. National strategy, classification, and reporting on cybercrime
 
 **(a) Definitions** In this section:
 
@@ -669,7 +669,7 @@ The term “cybercrime against individuals” has the meaning given the term in 
 
 The Attorney General shall publish an annual summary of the information reported in the Uniform Crime Reports and the National Incident-Based Reporting System relating to cybercrimes against individuals, including an evaluation of the implementation process for the national strategy developed under subsection (b) and outcome measurements on its impact on Tribal and culturally specific communities.
 
-(Pub. L. 117–103, div. W, title XIV, § 1403, Mar. 15, 2022, 136 Stat. 950.)
+(Pub. L. 117–103, div. W, title XIV, § 1403, Mar. 15, 2022, 136 Stat. 950.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -679,7 +679,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 **National Strategy, Classification, and Reporting on Cybercrime**
 
-Pub. L. 117–347, title III, § 311(a), Jan. 5, 2023, 136 Stat. 6205, provided that:
+Pub. L. 117–347, title III, § 311(a), Jan. 5, 2023, 136 Stat. 6205, provided that:
 
 > **“(a) National Strategy.—** The Attorney General, in consultation with the Secretary of Homeland Security, shall develop a national strategy, which shall be developed to supplement, not duplicate, the National Strategy to Combat Human Trafficking and the National Strategy for Child Exploitation Prevention and Interdiction of the Department of Justice, to—
 
@@ -693,7 +693,7 @@ Pub. L. 117–347, title III, § 311(a), Jan. 5, 2023, 136 Stat. 6205, provide
 
 **Better Cybercrime Metrics**
 
-Pub. L. 117–116, May 5, 2022, 136 Stat. 1180, as amended by Pub. L. 117–347, title III, § 311(b), Jan. 5, 2023, 136 Stat. 6205, provided that:
+Pub. L. 117–116, May 5, 2022, 136 Stat. 1180, as amended by Pub. L. 117–347, title III, § 311(b), Jan. 5, 2023, 136 Stat. 6205, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -769,7 +769,7 @@ Pub. L. 117–116, May 5, 2022, 136 Stat. 1180, as amended by Pub. L. 117–347,
 
 For definitions of terms used in this section, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.
 
-## § 30110. Improved investigative and forensic resources for enforcement of laws related to cybercrimes against individuals
+## § 30110. Improved investigative and forensic resources for enforcement of laws related to cybercrimes against individuals
 
 Subject to the availability of appropriations to carry out this section, the Attorney General, in consultation with the Director of the Federal Bureau of Investigation and the Secretary of Homeland Security, including the Executive Associate Director of Homeland Security Investigations, shall, with respect to cybercrimes against individuals—
 
@@ -783,7 +783,7 @@ Subject to the availability of appropriations to carry out this section, the Att
 
 **(B)** that includes relevant forensic training related to investigating and prosecuting cybercrimes against individuals.
 
-(Pub. L. 117–347, title III, § 321, Jan. 5, 2023, 136 Stat. 6206.)
+(Pub. L. 117–347, title III, § 321, Jan. 5, 2023, 136 Stat. 6206.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -791,7 +791,7 @@ Subject to the availability of appropriations to carry out this section, the Att
 
 For definition of “cybercrime against individuals” as used in this section, see section 30107(a) of this title, as made applicable by section 3 of Pub. L. 117–347, which is set out as a note under section 20145 of this title.
 
-## § 30111. Training and technical assistance for States
+## § 30111. Training and technical assistance for States
 
 The Attorney General, in consultation with the Secretary of Homeland Security, the Director of the United States Secret Service, the Executive Associate Director of Homeland Security Investigations, and nongovernmental and survivor stakeholders, shall create, compile, evaluate, and disseminate materials and information, and provide the necessary training and technical assistance, to assist States and units of local government in—
 
@@ -805,7 +805,7 @@ The Attorney General, in consultation with the Secretary of Homeland Security, t
 
 **(2)** assessing, addressing, and mitigating the physical and psychological trauma to victims of cybercrime.
 
-(Pub. L. 117–347, title III, § 324, Jan. 5, 2023, 136 Stat. 6207.)
+(Pub. L. 117–347, title III, § 324, Jan. 5, 2023, 136 Stat. 6207.)
 
 **Statutory Notes and Related Subsidiaries**
 

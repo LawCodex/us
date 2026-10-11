@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 303—BLINDED VETERANS ASSOCIATION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 303—BLINDED VETERANS ASSOCIATION"
 identifier: "/us/usc/t36/stII/ptB/ch303"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 303—BLINDED VETERANS ASSOCIATION
 
-## § 30301. Organization
+## § 30301. Organization
 
 **(a) Federal Charter.—** Blinded Veterans Association (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,14 +27,14 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30301 | 36:851. | Aug. 27, 1958, Pub. L. 85–769, §§ 1, 2, 72 Stat. 922. |
+| 30301 | 36:851. | Aug. 27, 1958, Pub. L. 85–769, §§ 1, 2, 72 Stat. 922. |
 |  | 36:852. |  |
 
 This section is substituted for the source provision for consistency in the revised title and to eliminate unnecessary and executed words.
 
 The text of 36:852 is omitted as executed and obsolete.
 
-## § 30302. Purposes
+## § 30302. Purposes
 
 The purposes of the corporation are—
 
@@ -52,11 +52,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30302 | 36:853(1)–(3), (4) (less words between 1st comma and semicolon). | Aug. 27, 1958, Pub. L. 85–769, § 3(1)–(3), (4) (less words between 1st comma and semicolon), 72 Stat. 924. |
+| 30302 | 36:853(1)–(3), (4) (less words between 1st comma and semicolon). | Aug. 27, 1958, Pub. L. 85–769, § 3(1)–(3), (4) (less words between 1st comma and semicolon), 72 Stat. 924. |
 
-In clause (1), the words “to operate as a not-for-profit corporation” are substituted for “To be organized and operated as a corporation not for profit . . . and such corporation is organized and shall be operated” in 36:853(4) to eliminate unnecessary words.
+In clause (1), the words “to operate as a not-for-profit corporation” are substituted for “To be organized and operated as a corporation not for profit . . . and such corporation is organized and shall be operated” in 36:853(4) to eliminate unnecessary words.
 
-## § 30303. Membership
+## § 30303. Membership
 
 **(a) General Membership.—** An individual who served in the Armed Forces of the United States and who, in the line of duty in that service, sustained a substantial impairment of sight or vision as defined by the bylaws of the corporation is eligible for general membership in the corporation.
 
@@ -68,13 +68,13 @@ In clause (1), the words “to operate as a not-for-profit corporation” are su
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30303 | 36:856. | Aug. 27, 1958, Pub. L. 85–769, § 6, 72 Stat. 925. |
+| 30303 | 36:856. | Aug. 27, 1958, Pub. L. 85–769, § 6, 72 Stat. 925. |
 
 In subsection (a), the word “individual” is substituted for “person” for clarity and consistency in the revised title and with other titles of the United States Code. The words “served in” are substituted for “was enlisted, drafted, inducted, or commissioned in” to eliminate unnecessary words. The words “from time to time” are omitted as unnecessary.
 
 In subsection (b), the word “qualification” is omitted as included in “eligibility”. The words “All persons who are members of any class of Blinded Veterans Association, Incorporated, on August 27, 1958 shall be members of such class of the corporation” are omitted as executed.
 
-## § 30304. Governing body
+## § 30304. Governing body
 
 **(a) Board of Directors.—**
 
@@ -94,7 +94,7 @@ In subsection (b), the word “qualification” is omitted as included in “eli
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30304(a) | 36:857. | Aug. 27, 1958, Pub. L. 85–769, §§ 7, 8, 72 Stat. 925. |
+| 30304(a) | 36:857. | Aug. 27, 1958, Pub. L. 85–769, §§ 7, 8, 72 Stat. 925. |
 | 30304(b) | 36:858. |  |
 
 In subsection (a)(1), the words “from time to time” are omitted as unnecessary. The words “except that the directors of Blinded Veterans Association, Incorporated, on August 27, 1958 shall be the first directors of the corporation” are omitted as executed and obsolete.
@@ -103,7 +103,7 @@ In subsection (a)(4), the word “duly” is omitted as unnecessary.
 
 Subsection (b) is substituted for the source provision for consistency in the revised title. The words “consistent with this charter” in 36:858(b) are omitted as unnecessary.
 
-## § 30305. Powers
+## § 30305. Powers
 
 The corporation may—
 
@@ -131,7 +131,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30305 | 36:854. | Aug. 27, 1958, Pub. L. 85–769, §§ 4, 16, 72 Stat. 924, 927. |
+| 30305 | 36:854. | Aug. 27, 1958, Pub. L. 85–769, §§ 4, 16, 72 Stat. 924, 927. |
 |  | 36:866. |  |
 
 In this section, the text of 36:866 is omitted as executed and obsolete.
@@ -152,7 +152,7 @@ In clause (8), the words “complain and defend in any court of competent jurisd
 
 In clause (9), the words “any other act” are substituted for “any and all acts” for consistency in the revised title.
 
-## § 30306. Exclusive right to name, seals, emblems, and badges
+## § 30306. Exclusive right to name, seals, emblems, and badges
 
 The corporation and its authorized regional groups and other local subdivisions have the exclusive right to use the name “Blinded Veterans Association” and seals, emblems, and badges the corporation adopts.
 
@@ -162,11 +162,11 @@ The corporation and its authorized regional groups and other local subdivisions 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30306 | 36:867. | Aug. 27, 1958, Pub. L. 85–769, § 17, 72 Stat. 927. |
+| 30306 | 36:867. | Aug. 27, 1958, Pub. L. 85–769, § 17, 72 Stat. 927. |
 
 The word “sole” is omitted as included in “exclusive”, and the word “have” (the 2d time appearing) is omitted as included in “use”. The words “duly”, “in carrying out its purposes”, and “lawfully” are omitted as unnecessary.
 
-## § 30307. Restrictions
+## § 30307. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -188,7 +188,7 @@ The word “sole” is omitted as included in “exclusive”, and the word “h
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30307(a) | 36:862. | Aug. 27, 1958, Pub. L. 85–769, §§ 3(4) (words between 1st comma and semicolon), 9, 10, 12, 72 Stat. 924, 926. |
+| 30307(a) | 36:862. | Aug. 27, 1958, Pub. L. 85–769, §§ 3(4) (words between 1st comma and semicolon), 9, 10, 12, 72 Stat. 924, 926. |
 | 30307(b) | 36:860. |  |
 | 30307(c) | 36:853(4) (words between 1st comma and semicolon). |  |
 |  | 36:859(a) (1st sentence words before last comma, last sentence). |  |
@@ -199,7 +199,7 @@ In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The text of 36:853(4) (words between 1st comma and semicolon) is omitted as unnecessary.
 
-## § 30308. Principal office
+## § 30308. Principal office
 
 The principal office of the corporation shall be in the District of Columbia or another place decided by the board of directors. However, the activities of the corporation are not confined to the place where the principal office is located but may be conducted throughout the States, territories, and possessions of the United States.
 
@@ -209,11 +209,11 @@ The principal office of the corporation shall be in the District of Columbia or 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30308 | 36:855(a). | Aug. 27, 1958, Pub. L. 85–769, § 5(a), 72 Stat. 925. |
+| 30308 | 36:855(a). | Aug. 27, 1958, Pub. L. 85–769, § 5(a), 72 Stat. 925. |
 
 The word “various” is omitted as unnecessary. The word “States” is added for clarity and consistency in the revised title.
 
-## § 30309. Records and inspection
+## § 30309. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -231,11 +231,11 @@ The word “various” is omitted as unnecessary. The word “States” is added
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30309 | 36:863. | Aug. 27, 1958, Pub. L. 85–769, § 13, 72 Stat. 926. |
+| 30309 | 36:863. | Aug. 27, 1958, Pub. L. 85–769, § 13, 72 Stat. 926. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
 
-## § 30310. Service of process
+## § 30310. Service of process
 
 The corporation shall have a designated agent in the District of Columbia to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
@@ -245,11 +245,11 @@ The corporation shall have a designated agent in the District of Columbia to rec
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30310 | 36:855(b). | Aug. 27, 1958, Pub. L. 85–769, § 5(b), 72 Stat. 925. |
+| 30310 | 36:855(b). | Aug. 27, 1958, Pub. L. 85–769, § 5(b), 72 Stat. 925. |
 
 The words “at all times”, “authorized”, and “deemed” are omitted as unnecessary and for consistency in the revised title. The words “service of process” are substituted for “service and process” for consistency in the revised title.
 
-## § 30311. Liability for acts of officers and agents
+## § 30311. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -259,9 +259,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30311 | 36:861. | Aug. 27, 1958, Pub. L. 85–769, § 11, 72 Stat. 926. |
+| 30311 | 36:861. | Aug. 27, 1958, Pub. L. 85–769, § 11, 72 Stat. 926. |
 
-## § 30312. Distribution of assets on dissolution or final liquidation
+## § 30312. Distribution of assets on dissolution or final liquidation
 
 On dissolution or final liquidation of the corporation, any assets remaining after the discharge of all liabilities shall be transferred to the Secretary of Veterans Affairs to be applied to the care and comfort of blinded veterans.
 
@@ -271,6 +271,6 @@ On dissolution or final liquidation of the corporation, any assets remaining aft
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 30312 | 36:865. | Aug. 27, 1958, Pub. L. 85–769, § 15, 72 Stat. 927; June 13, 1991, Pub. L. 102–54, § 13(n)(4), 105 Stat. 278. |
+| 30312 | 36:865. | Aug. 27, 1958, Pub. L. 85–769, § 15, 72 Stat. 927; June 13, 1991, Pub. L. 102–54, § 13(n)(4), 105 Stat. 278. |
 
 The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The word “outstanding” is omitted as unnecessary. The words “Secretary of Veterans Affairs” are substituted for “Department of Veterans Affairs” because under 38:303 the Secretary is the head of the Department.

@@ -17,25 +17,25 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—DECLARATION OF CONDITIONS AND POLICY
 
-### § 601. Declaration of conditions
+### § 601. Declaration of conditions
 
 It is declared that the disruption of the orderly exchange of commodities in interstate commerce impairs the purchasing power of farmers and destroys the value of agricultural assets which support the national credit structure and that these conditions affect transactions in agricultural commodities with a national public interest, and burden and obstruct the normal channels of interstate commerce.
 
-(May 12, 1933, ch. 25, title I, § 1, 48 Stat. 31; June 3, 1937, ch. 296, §§ 1, 2(a), 50 Stat. 246.)
+(May 12, 1933, ch. 25, title I, § 1, 48 Stat. 31; June 3, 1937, ch. 296, §§ 1, 2(a), 50 Stat. 246.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–215, § 1, Apr. 11, 2006, 120 Stat. 328, provided that: “This Act [amending section 608c of this title and enacting provisions set out as notes under section 608c of this title] may be cited as the ‘Milk Regulatory Equity Act of 2005’.”
+Pub. L. 109–215, § 1, Apr. 11, 2006, 120 Stat. 328, provided that: “This Act [amending section 608c of this title and enacting provisions set out as notes under section 608c of this title] may be cited as the ‘Milk Regulatory Equity Act of 2005’.”
 
 **Short Title**
 
-Act June 16, 1933, ch. 90, title I, § 8(a), 48 Stat. 199, provided in part that title I of act May 12, 1933, which is classified to this chapter, may for all purposes be referred to as the “Agricultural Adjustment Act.”
+Act June 16, 1933, ch. 90, title I, § 8(a), 48 Stat. 199, provided in part that title I of act May 12, 1933, which is classified to this chapter, may for all purposes be referred to as the “Agricultural Adjustment Act.”
 
 **Validity of Certain Sections Affirmed**
 
-Act June 3, 1937, ch. 296, §§ 1, 2, 50 Stat. 246, provided as follows:
+Act June 3, 1937, ch. 296, §§ 1, 2, 50 Stat. 246, provided as follows:
 
 > “The following provisions of the Agricultural Adjustment Act, as amended, not having been intended for the control of the production of agricultural commodities, and having been intended to be effective irrespective of the validity of any other provision of that Act are expressly affirmed and validated, and are reenacted without change except as provided in section 2:
 
@@ -63,13 +63,13 @@ Act June 3, 1937, ch. 296, §§ 1, 2, 50 Stat. 246, provided as follows:
 
 > **“Sec. 2.**
 
-> The following provisions, reenacted in section I of this act, are amended as follows: \* \* \* [sections 601, 602(1), 608a(6), 608c(5)(B)(d), (6)(B), (6)(B)(18), (19), 610(c), (f), 612(a) of this title].”
+> The following provisions, reenacted in section I of this act, are amended as follows: \* \* \* [sections 601, 602(1), 608a(6), 608c(5)(B)(d), (6)(B), (6)(B)(18), (19), 610(c), (f), 612(a) of this title].”
 
 Section 2 of act June 3, 1937, also added subsec. (j) to section 610.
 
 Section 2 of act June 3, 1937, was amended by act Aug. 5, 1937, ch. 567, 50 Stat. 563, which amending act provided for amendments to subsecs. (2) and (6) of section 608c of this title.
 
-### § 602. Declaration of policy; establishment of price basing period; marketing standards; orderly supply flow; circumstances for continued regulation
+### § 602. Declaration of policy; establishment of price basing period; marketing standards; orderly supply flow; circumstances for continued regulation
 
 It is declared to be the policy of Congress—
 
@@ -77,9 +77,9 @@ It is declared to be the policy of Congress—
 
 **(2)** To protect the interest of the consumer by (a) approaching the level of prices which it is declared to be the policy of Congress to establish in subsection (1) of this section by gradual correction of the current level at as rapid a rate as the Secretary of Agriculture deems to be in the public interest and feasible in view of the current consumptive demand in domestic and foreign markets, and (b) authorizing no action under this chapter which has for its purpose the maintenance of prices to farmers above the level which it is declared to be the policy of Congress to establish in subsection (1) of this section.
 
-**(3)** Through the exercise of the powers conferred upon the Secretary of Agriculture under this chapter, to establish and maintain such production research, marketing research, and development projects provided in section 608c(6)(I) of this title, such container and pack requirements provided in section 608c(6)(H) of this title 1
+**(3)** Through the exercise of the powers conferred upon the Secretary of Agriculture under this chapter, to establish and maintain such production research, marketing research, and development projects provided in section 608c(6)(I) of this title, such container and pack requirements provided in section 608c(6)(H) of this title 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 such minimum standards of quality and maturity and such grading and inspection requirements for agricultural commodities enumerated in section 608c (2) of this title, other than milk and its products, in interstate commerce as will effectuate such orderly marketing of such agricultural commodities as will be in the public interest.
 
@@ -87,7 +87,7 @@ such minimum standards of quality and maturity and such grading and inspection r
 
 **(5)** Through the exercise of the power conferred upon the Secretary of Agriculture under this chapter, to continue for the remainder of any marketing season or marketing year, such regulation pursuant to any order as will tend to avoid a disruption of the orderly marketing of any commodity and be in the public interest, if the regulation of such commodity under such order has been initiated during such marketing season or marketing year on the basis of its need to effectuate the policy of this chapter.
 
-(May 12, 1933, ch. 25, title I, § 2, 48 Stat. 32; Aug. 24, 1935, ch. 641, §§ 1, 62, 49 Stat. 750, 782; June 3, 1937, ch. 296, §§ 1, 2(b), 50 Stat. 246, 247; Aug. 1, 1947, ch. 425, § 1, 61 Stat. 707; July 3, 1948, ch. 827, title III, § 302(a), 62 Stat. 1257; Aug. 28, 1954, ch. 1041, title IV, § 401(a), 68 Stat. 906; Pub. L. 87–128, title I, § 141(1), Aug. 8, 1961, 75 Stat. 303; Pub. L. 89–330, § 1(a), Nov. 8, 1965, 79 Stat. 1270; Pub. L. 91–292, § 1(1), June 25, 1970, 84 Stat. 333.)
+(May 12, 1933, ch. 25, title I, § 2, 48 Stat. 32; Aug. 24, 1935, ch. 641, §§ 1, 62, 49 Stat. 750, 782; June 3, 1937, ch. 296, §§ 1, 2(b), 50 Stat. 246, 247; Aug. 1, 1947, ch. 425, § 1, 61 Stat. 707; July 3, 1948, ch. 827, title III, § 302(a), 62 Stat. 1257; Aug. 28, 1954, ch. 1041, title IV, § 401(a), 68 Stat. 906; Pub. L. 87–128, title I, § 141(1), Aug. 8, 1961, 75 Stat. 303; Pub. L. 89–330, § 1(a), Nov. 8, 1965, 79 Stat. 1270; Pub. L. 91–292, § 1(1), June 25, 1970, 84 Stat. 333.)
 
 **Editorial Notes**
 
@@ -107,7 +107,7 @@ such minimum standards of quality and maturity and such grading and inspection r
 
 1937—Act June 3, 1937, inserted “orderly marketing conditions for agricultural commodities in interstate commerce as will establish” before “as the prices to farmers”.
 
-1935—Subsec. (1). Act Aug. 24, 1935, ch. 641, § 1, amended first sentence and act Aug. 24, 1935, ch. 641, § 62, amended second and third sentences.
+1935—Subsec. (1). Act Aug. 24, 1935, ch. 641, § 1, amended first sentence and act Aug. 24, 1935, ch. 641, § 62, amended second and third sentences.
 
 Subsec. (2). Act Aug. 24, 1935, amended subsec. (2).
 
@@ -119,11 +119,11 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 
 **Validity of Section Affirmed**
 
-Act June 3, 1937, ch. 296, § 1, 50 Stat. 246, affirmed and validated, and reenacted without change the provisions of this section except for the amendment to subsec. (1) by section 2 of said act. See note set out under section 601 of this title.
+Act June 3, 1937, ch. 296, § 1, 50 Stat. 246, affirmed and validated, and reenacted without change the provisions of this section except for the amendment to subsec. (1) by section 2 of said act. See note set out under section 601 of this title.
 
 ## SUBCHAPTER II—COTTON OPTION CONTRACTS
 
-### § 603. Government owned cotton; transfer to Secretary of Agriculture; powers of Secretary
+### § 603. Government owned cotton; transfer to Secretary of Agriculture; powers of Secretary
 
 The Farm Credit Administration and all departments and other agencies of the Government, not including the Federal intermediate credit banks are directed—
 
@@ -139,7 +139,7 @@ When full legal title to the cotton referred to in this subsection has been acqu
 
 **(c)** The Secretary of Agriculture is authorized to purchase the cotton specified in subsections (a) and (b).
 
-(May 12, 1933, ch. 25, title I, § 3, 48 Stat. 32; 1933 Ex. Ord. No. 6084, Mar. 27, 1933.)
+(May 12, 1933, ch. 25, title I, § 3, 48 Stat. 32; 1933 Ex. Ord. No. 6084, Mar. 27, 1933.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -159,13 +159,13 @@ Ex. Ord. No. 9322, Mar. 26, 1943, 8 F.R. 3807, as amended by Ex. Ord. No. 9334, 
 
 Ex. Ord. No. 9280, Dec. 5, 1942, 7 F.R. 10179, made Farm Credit Administration a part of Food Production Administration of Department of Agriculture.
 
-Farm Credit Administration transferred to Department of Agriculture by 1939 Reorg. Plan No. 1, § 401, 4 F.R. 2727, 53 Stat. 1423, set out in the Appendix to Title 5, Government Organization and Employees.
+Farm Credit Administration transferred to Department of Agriculture by 1939 Reorg. Plan No. 1, § 401, 4 F.R. 2727, 53 Stat. 1423, set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Exceptions From Transfer of Functions**
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-### § 604. Borrowing money; expenditures; authority of Secretary
+### § 604. Borrowing money; expenditures; authority of Secretary
 
 **(a)** The Secretary of Agriculture shall have authority to borrow money upon all cotton in his possession or control and may, at his discretion, deposit as collateral for such loans the warehouse receipts for such cotton.
 
@@ -181,29 +181,29 @@ Functions of Corporations of Department of Agriculture, boards of directors and 
 
 The word “obligation” when used in this section shall include (without being limited to) administrative expenses, warehouse charges, insurance, salaries, interest, costs, commissions, and other expenses incident to handling, carrying, insuring, and marketing of said cotton.
 
-(May 12, 1933, ch. 25, title I, § 4, 48 Stat. 33; June 19, 1934, ch. 648, title II, § 1, 48 Stat. 1058; Aug. 24, 1935, ch. 641, §§ 35, 36, 49 Stat. 775.)
+(May 12, 1933, ch. 25, title I, § 4, 48 Stat. 33; June 19, 1934, ch. 648, title II, § 1, 48 Stat. 1058; Aug. 24, 1935, ch. 641, §§ 35, 36, 49 Stat. 775.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1935—Subsec. (b). Act Aug. 24, 1935, § 35, struck out “to be available until March 1, 1936” after “$100,000,000” and inserted last sentence relating to availability of the sum of $100,000,000.
+1935—Subsec. (b). Act Aug. 24, 1935, § 35, struck out “to be available until March 1, 1936” after “$100,000,000” and inserted last sentence relating to availability of the sum of $100,000,000.
 
-Subsec. (f). Act Aug. 24, 1935, § 36, inserted last par. defining “obligation”.
+Subsec. (f). Act Aug. 24, 1935, § 36, inserted last par. defining “obligation”.
 
 1934—Subsec. (a). Act June 19, 1934, inserted “may in his discretion” after “or control and”.
 
 Subsecs. (b) to (f). Act June 19, 1934, added subsecs. (b) to (f).
 
-### § 605. Repealed. June 30, 1947, ch. 166, title II, § 206(d), 61 Stat. 208
+### § 605. Repealed. June 30, 1947, ch. 166, title II, § 206(d), 61 Stat. 208
 
-Section, acts May 12, 1933, ch. 25, title I, § 5, 48 Stat. 33; June 19, 1934, ch. 648, title II, § 1, 48 Stat. 1059, related to loans from Reconstruction Finance Corporation and warehouse receipts as collateral.
+Section, acts May 12, 1933, ch. 25, title I, § 5, 48 Stat. 33; June 19, 1934, ch. 648, title II, § 1, 48 Stat. 1059, related to loans from Reconstruction Finance Corporation and warehouse receipts as collateral.
 
-### § 606. Repealed. Aug. 24, 1935, ch. 641, § 34, 49 Stat. 775
+### § 606. Repealed. Aug. 24, 1935, ch. 641, § 34, 49 Stat. 775
 
-Section, act May 12, 1933, ch. 25, title I, § 6, 48 Stat. 33, related to option contracts.
+Section, act May 12, 1933, ch. 25, title I, § 6, 48 Stat. 33, related to option contracts.
 
-### § 607. Sale by Secretary; additional options; validation of assignments; publication of information
+### § 607. Sale by Secretary; additional options; validation of assignments; publication of information
 
 The Secretary shall sell cotton held or acquired by him pursuant to authority of this chapter at his discretion subject only to the conditions and limitations of this chapter: *Provided*, That the Secretary shall have authority to enter into option contracts with producers of cotton to sell to or for the producers such cotton held and/or acquired by him in such amounts and at such prices and upon such terms and conditions as he, the Secretary, may deem advisable, and such option contracts may be transferred or assigned in such manner as the Secretary of Agriculture may prescribe.
 
@@ -211,7 +211,7 @@ Notwithstanding any provisions contained in option contracts heretofore issued a
 
 Notwithstanding any provision of existing law, the Secretary of Agriculture may, in the administration of this chapter, make public such information as he deems necessary in order to effectuate the purposes of this chapter.
 
-(May 12, 1933, ch. 25, title I, § 7, 48 Stat. 34; June 16, 1933, ch. 90, title II, § 221, 48 Stat. 210; Aug. 24, 1935, ch. 641, § 33, 49 Stat. 775.)
+(May 12, 1933, ch. 25, title I, § 7, 48 Stat. 34; June 16, 1933, ch. 90, title II, § 221, 48 Stat. 210; Aug. 24, 1935, ch. 641, § 33, 49 Stat. 775.)
 
 **Editorial Notes**
 
@@ -223,7 +223,7 @@ Notwithstanding any provision of existing law, the Secretary of Agriculture may,
 
 ## SUBCHAPTER III—COMMODITY BENEFITS
 
-### § 608. Powers of Secretary
+### § 608. Powers of Secretary
 
 **(1) Investigations; proclamation of findings** Whenever the Secretary of Agriculture has reason to believe that:
 
@@ -293,7 +293,7 @@ In the case of rice, the Secretary of Agriculture, in exercising the power confe
 
 Under regulations of the Secretary of Agriculture requiring adequate facilities for the storage of any nonperishable agricultural commodity on the farm, inspection and measurement of any such commodity so stored, and the locking and sealing thereof, and such other regulations as may be prescribed by the Secretary of Agriculture for the protection of such commodity and for the marketing thereof, a reasonable percentage of any benefit payment may be advanced on any such commodity so stored. In any such case such deduction may be made from the amount of the benefit payment as the Secretary of Agriculture determines will reasonably compensate for the cost of inspection and sealing but no deduction may be made for interest.
 
-(May 12, 1933, ch. 25, title I, § 8, 48 Stat. 34; Apr. 7, 1934, ch. 103, § 7, 48 Stat. 528; May 9, 1934, ch. 263, § 14, 48 Stat. 676; Mar. 18, 1935, ch. 32, § 7, 49 Stat. 46; Aug. 24, 1935, ch. 641, §§ 2, 4–7, 49 Stat. 751, 753–762.)
+(May 12, 1933, ch. 25, title I, § 8, 48 Stat. 34; Apr. 7, 1934, ch. 103, § 7, 48 Stat. 528; May 9, 1934, ch. 263, § 14, 48 Stat. 676; Mar. 18, 1935, ch. 32, § 7, 49 Stat. 46; Aug. 24, 1935, ch. 641, §§ 2, 4–7, 49 Stat. 751, 753–762.)
 
 **Editorial Notes**
 
@@ -323,17 +323,17 @@ Act Apr. 7, 1934, amended subsec. (2) by striking out proviso.
 
 **Validity of Agreements and Licenses Preserved Under 1935 Act**
 
-Act Aug. 24, 1935, ch. 641, § 38, 49 Stat. 776, provided that: “Nothing contained in this Act [see Tables for classification] shall (a), invalidate any marketing agreement or license in existence on the date of the enactment hereof [Aug. 24, 1935], or any provision thereof, or any act done pursuant thereto, either before or after the enactment of this Act, or (b) impair any remedy provided for on the date of the enactment thereof for the enforcement of any such marketing agreement or license, or (c) invalidate any agreement entered into pursuant to section 8(1) of the Agricultural Adjustment Act prior to the enactment of this Act, or subsequent to the enactment of this Act in connection with a program the initiation of which has been formally approved by the Secretary of Agriculture under such section 8(1) prior to the enactment of this Act, or any act done or agreed to be done or any payment made or agreed to be made in pursuance of any such agreement, either before or after the enactment of this Act, or any change in the terms and conditions of any such agreement, or any voluntary arrangements or further agreements which the Secretary finds necessary or desirable in order to complete or terminate such program pursuant to the declared policy of the Agricultural Adjustment Act [this chapter]; *Provided*, That the Secretary shall not prescribe, pursuant to any such agreement or voluntary arrangement, any adjustment in the acreage or in the production for market of any basic agricultural commodity to be made after July 1, 1937, except pursuant to the provisions of section 8 of the Agricultural Adjustment Act as amended by this Act.”
+Act Aug. 24, 1935, ch. 641, § 38, 49 Stat. 776, provided that: “Nothing contained in this Act [see Tables for classification] shall (a), invalidate any marketing agreement or license in existence on the date of the enactment hereof [Aug. 24, 1935], or any provision thereof, or any act done pursuant thereto, either before or after the enactment of this Act, or (b) impair any remedy provided for on the date of the enactment thereof for the enforcement of any such marketing agreement or license, or (c) invalidate any agreement entered into pursuant to section 8(1) of the Agricultural Adjustment Act prior to the enactment of this Act, or subsequent to the enactment of this Act in connection with a program the initiation of which has been formally approved by the Secretary of Agriculture under such section 8(1) prior to the enactment of this Act, or any act done or agreed to be done or any payment made or agreed to be made in pursuance of any such agreement, either before or after the enactment of this Act, or any change in the terms and conditions of any such agreement, or any voluntary arrangements or further agreements which the Secretary finds necessary or desirable in order to complete or terminate such program pursuant to the declared policy of the Agricultural Adjustment Act [this chapter]; *Provided*, That the Secretary shall not prescribe, pursuant to any such agreement or voluntary arrangement, any adjustment in the acreage or in the production for market of any basic agricultural commodity to be made after July 1, 1937, except pursuant to the provisions of section 8 of the Agricultural Adjustment Act as amended by this Act.”
 
-### § 608–1. Omitted
+### § 608–1. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act July 2, 1940, ch. 521, § 9, 54 Stat. 729, which related to adjustments between payee and third persons, was omitted as executed.
+Section, act July 2, 1940, ch. 521, § 9, 54 Stat. 729, which related to adjustments between payee and third persons, was omitted as executed.
 
-### § 608a. Enforcement of chapter
+### § 608a. Enforcement of chapter
 
 **(1) to (4) Omitted**
 
@@ -357,7 +357,7 @@ The remedies provided for in this section shall be in addition to, and not exclu
 
 The term “person” as used in this chapter includes an individual, partnership, corporation, association, and any other business unit.
 
-(May 12, 1933, ch. 25, title I, § 8a, as added May 9, 1934, ch. 263, § 4, 48 Stat. 672; amended Aug. 24, 1935, ch. 641, §§ 8–10, 49 Stat. 762; June 3, 1937, ch. 296, §§ 1, 2(c), 50 Stat. 246, 247; June 25, 1948, ch. 646, § 1, 62 Stat. 909; Pub. L. 87–128, title I, § 141(2), Aug. 8, 1961, 75 Stat. 304.)
+(May 12, 1933, ch. 25, title I, § 8a, as added May 9, 1934, ch. 263, § 4, 48 Stat. 672; amended Aug. 24, 1935, ch. 641, §§ 8–10, 49 Stat. 762; June 3, 1937, ch. 296, §§ 1, 2(c), 50 Stat. 246, 247; June 25, 1948, ch. 646, § 1, 62 Stat. 909; Pub. L. 87–128, title I, § 141(2), Aug. 8, 1961, 75 Stat. 304.)
 
 **Editorial Notes**
 
@@ -369,13 +369,13 @@ Provisions of subsecs. (1) to (4), relating to establishment, regulation and det
 
 1961—Subsec. (5). Pub. L. 87–128 struck out “willfully” after “Any person” and substituted provision for forfeiture of a sum equal to the value of the excess at the current market price for the commodity at the time of violation for provision for forfeiture of a sum equal to three times the current market value of the excess.
 
-1937—Subsec. (6). Act June 3, 1937, § 2(c), struck out “the provisions of this section, or of”.
+1937—Subsec. (6). Act June 3, 1937, § 2(c), struck out “the provisions of this section, or of”.
 
-1935—Subsec. (1). Act Aug. 24, 1935, § 8, substituted “persons engaged in handling” for “handlers” wherever appearing; struck out “or in competition with,” in par. (B); inserted “directly” before “to burden” in par. (B); and struck out “in any way” in par. (B).
+1935—Subsec. (1). Act Aug. 24, 1935, § 8, substituted “persons engaged in handling” for “handlers” wherever appearing; struck out “or in competition with,” in par. (B); inserted “directly” before “to burden” in par. (B); and struck out “in any way” in par. (B).
 
-Subsec. (6). Act Aug. 24, 1935, § 9, inserted “or” after “regulation,” and struck out “or license”.
+Subsec. (6). Act Aug. 24, 1935, § 9, inserted “or” after “regulation,” and struck out “or license”.
 
-Subsec. (7). Act Aug. 24, 1935, § 10, inserted last sentence.
+Subsec. (7). Act Aug. 24, 1935, § 10, inserted last sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -393,11 +393,11 @@ Act June 3, 1937, affirmed and validated, and reenacted without change the provi
 
 Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding 491 of Title 48, Territories and Insular Possessions.
 
-### § 608a–1. Repealed. Sept. 1, 1937, ch. 898, title V, § 510, 50 Stat. 916
+### § 608a–1. Repealed. Sept. 1, 1937, ch. 898, title V, § 510, 50 Stat. 916
 
-Section, act June 19, 1936, ch. 612, § 2, 49 Stat. 1539, related to additional provisions regulating the sugar quotas.
+Section, act June 19, 1936, ch. 612, § 2, 49 Stat. 1539, related to additional provisions regulating the sugar quotas.
 
-### § 608b. Marketing agreements; exemption from anti-trust laws; inspection requirements for handlers not subject to agreements
+### § 608b. Marketing agreements; exemption from anti-trust laws; inspection requirements for handlers not subject to agreements
 
 **(a)** In order to effectuate the declared policy of this chapter, the Secretary of Agriculture shall have the power, after due notice and opportunity for hearing, to enter into marketing agreements with processors, producers, associations of producers, and others engaged in the handling of any agricultural commodity or product thereof, only with respect to such handling as is in the current of interstate or foreign commerce or which directly burdens, obstructs, or affects, interstate or foreign commerce in such commodity or product thereof. The making of any such agreement shall not be held to be in violation of any of the antitrust laws of the United States, and any such agreement shall be deemed to be lawful: *Provided*, That no such agreement shall remain in force after the termination of this chapter.
 
@@ -415,19 +415,19 @@ Section, act June 19, 1936, ch. 612, § 2, 49 Stat. 1539, related to additiona
 
 **(ii)** be paid to the Secretary.
 
-**(2)** Violation of this subsection by a person who has not entered into such an agreement shall result in the assessment by the Secretary of a penalty equal to 140 percent of the support price for quota peanuts multiplied by the quantity of peanuts sold or disposed of in violation of subsection (b)(1)(B), as determined under section 1445c–3 1
+**(2)** Violation of this subsection by a person who has not entered into such an agreement shall result in the assessment by the Secretary of a penalty equal to 140 percent of the support price for quota peanuts multiplied by the quantity of peanuts sold or disposed of in violation of subsection (b)(1)(B), as determined under section 1445c–3 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, for the marketing year for the crop with respect to which such violation occurs.
 
-(May 12, 1933, ch. 25, title I, § 8b, formerly § 8(2), 48 Stat. 34; Apr. 7, 1934, ch. 103, § 7, 48 Stat. 528; renumbered and amended Aug. 24, 1935, ch. 641, § 4, 49 Stat. 753; June 3, 1937, ch. 296, § 1, 50 Stat. 246; June 30, 1947, ch. 166, title II, § 206(d), 61 Stat. 208; Pub. L. 101–220, § 4, Dec. 12, 1989, 103 Stat. 1878; Pub. L. 102–237, title I, § 115(1), Dec. 13, 1991, 105 Stat. 1840; Pub. L. 103–66, title I, § 1109(b), Aug. 10, 1993, 107 Stat. 326.)
+(May 12, 1933, ch. 25, title I, § 8b, formerly § 8(2), 48 Stat. 34; Apr. 7, 1934, ch. 103, § 7, 48 Stat. 528; renumbered and amended Aug. 24, 1935, ch. 641, § 4, 49 Stat. 753; June 3, 1937, ch. 296, § 1, 50 Stat. 246; June 30, 1947, ch. 166, title II, § 206(d), 61 Stat. 208; Pub. L. 101–220, § 4, Dec. 12, 1989, 103 Stat. 1878; Pub. L. 102–237, title I, § 115(1), Dec. 13, 1991, 105 Stat. 1840; Pub. L. 103–66, title I, § 1109(b), Aug. 10, 1993, 107 Stat. 326.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1445c–3 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 104–127, title I, § 171(b)(2)(E), Apr. 4, 1996, 110 Stat. 938.
+Section 1445c–3 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 104–127, title I, § 171(b)(2)(E), Apr. 4, 1996, 110 Stat. 938.
 
 **Codification**
 
@@ -451,13 +451,13 @@ The provisions appearing in subsec. (a) of this section except the first sentenc
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–220, § 4(c), Dec. 12, 1989, 103 Stat. 1878, provided that: “The amendment made by this section [amending this section] shall be effective with respect to the 1990 and subsequent crops of peanuts.”
+Pub. L. 101–220, § 4(c), Dec. 12, 1989, 103 Stat. 1878, provided that: “The amendment made by this section [amending this section] shall be effective with respect to the 1990 and subsequent crops of peanuts.”
 
 **Validity of Section Affirmed**
 
 Act June 3, 1937, affirmed and validated, and reenacted without change the provisions of this section. See note set out under section 601 of this title.
 
-### § 608c. Orders
+### § 608c. Orders
 
 **(1) Issuance by Secretary**
 
@@ -465,9 +465,9 @@ The Secretary of Agriculture shall, subject to the provisions of this section, i
 
 **(2) Commodities to which applicable**
 
-Orders issued pursuant to this section shall be applicable only to (A) the following agricultural commodities and the products thereof (except canned or frozen pears, grapefruit, cherries, apples, or cranberries, the products of naval stores, and the products of honeybees), or to any regional, or market classification of any such commodity or product: Milk, fruits (including filberts, almonds, pecans and walnuts but not including apples, other than apples produced in the States of Washington, Oregon, Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, Connecticut, Colorado, Utah, New Mexico, Illinois, and Ohio, and not including fruits for canning or freezing other than pears, olives, grapefruit, cherries, caneberries (including raspberries, blackberries, and loganberries), cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho), tobacco, vegetables (not including vegetables, other than asparagus, for canning or freezing and not including potatoes for canning, freezing, or other processing), hops, honeybees and naval stores as included in the Naval Stores Act [7 U.S.C. 91 et seq.] and standards established thereunder (including refined or partially refined oleoresin): *Provided*, That no order issued pursuant to this section shall be effective as to any grapefruit for canning or freezing unless the Secretary of Agriculture determines, in addition to other findings and determinations required by this chapter, that the issuance of such order is approved or favored by the processors who, during a representative period determined by the Secretary, have been engaged in canning or freezing such commodity for market and have canned or frozen for market more than 50 per centum of the total volume of such commodity canned or frozen for market during such representative period; and (B) any agricultural commodity (except honey, cotton, rice, wheat, corn, grain sorghums, oats, barley, rye, sugarcane, sugarbeets, wool, mohair, livestock, soybeans, cottonseed, flaxseed, poultry (but not excepting turkeys and not excepting poultry which produce commercial eggs), fruits and vegetables for canning or freezing, including potatoes for canning, freezing, or other processing 1
+Orders issued pursuant to this section shall be applicable only to (A) the following agricultural commodities and the products thereof (except canned or frozen pears, grapefruit, cherries, apples, or cranberries, the products of naval stores, and the products of honeybees), or to any regional, or market classification of any such commodity or product: Milk, fruits (including filberts, almonds, pecans and walnuts but not including apples, other than apples produced in the States of Washington, Oregon, Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, Connecticut, Colorado, Utah, New Mexico, Illinois, and Ohio, and not including fruits for canning or freezing other than pears, olives, grapefruit, cherries, caneberries (including raspberries, blackberries, and loganberries), cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho), tobacco, vegetables (not including vegetables, other than asparagus, for canning or freezing and not including potatoes for canning, freezing, or other processing), hops, honeybees and naval stores as included in the Naval Stores Act [7 U.S.C. 91 et seq.] and standards established thereunder (including refined or partially refined oleoresin): *Provided*, That no order issued pursuant to this section shall be effective as to any grapefruit for canning or freezing unless the Secretary of Agriculture determines, in addition to other findings and determinations required by this chapter, that the issuance of such order is approved or favored by the processors who, during a representative period determined by the Secretary, have been engaged in canning or freezing such commodity for market and have canned or frozen for market more than 50 per centum of the total volume of such commodity canned or frozen for market during such representative period; and (B) any agricultural commodity (except honey, cotton, rice, wheat, corn, grain sorghums, oats, barley, rye, sugarcane, sugarbeets, wool, mohair, livestock, soybeans, cottonseed, flaxseed, poultry (but not excepting turkeys and not excepting poultry which produce commercial eggs), fruits and vegetables for canning or freezing, including potatoes for canning, freezing, or other processing 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 and apples), or any regional or market classification thereof, not subject to orders under (A) of this subdivision, but not the products (including canned or frozen commodities or products) thereof. No order issued pursuant to this section shall be effective as to cherries, apples, or cranberries for canning or freezing unless the Secretary of Agriculture determines, in addition to other required findings and determinations, that the issuance of such order is approved or favored by processors who, during a representative period determined by the Secretary, have engaged in canning or freezing such commodity for market and have frozen or canned more than 50 per centum of the total volume of the commodity to be regulated which was canned or frozen within the production area, or marketed within the marketing area, defined in such order, during such representative period. No order issued pursuant to this section shall be applicable to peanuts produced in more than one of the following production areas: the Virginia-Carolina production area, the Southeast production area, and the Southwest production area. If the Secretary determines that the declared policy of this chapter will be better achieved thereby (i) the commodities of the same general class and used wholly or in part for the same purposes may be combined and treated as a single commodity and (ii) the portion of an agricultural commodity devoted to or marketed for a particular use or combination of uses, may be treated as a separate agricultural commodity. All agricultural commodities and products covered hereby shall be deemed specified herein for the purposes of subsections (6) and (7).
 
@@ -491,11 +491,11 @@ After such notice and opportunity for hearing, the Secretary of Agriculture shal
 
 subject, in either case, only to adjustments for (a) volume, market, and production differentials customarily applied by the handlers subject to such order, (b) the grade or quality of the milk delivered, (c) the locations at which delivery of such milk is made, and (d) a further adjustment, equitably to apportion the total value of the milk purchased by any handler, or by all handlers, among producers and associations of producers, on the basis of their marketings of milk during a representative period of time.,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
-[(e) omitted] and (f) a further adjustment, equitably to apportion the total value of milk purchased by any handler or by all handlers among producers on the basis of the milk components contained in their marketings of milk 3
+[(e) omitted] and (f) a further adjustment, equitably to apportion the total value of milk purchased by any handler or by all handlers among producers on the basis of the milk components contained in their marketings of milk 3
 
-<sup>3</sup>  So in original. Probably should be followed by a period.
+<sup>3</sup> So in original. Probably should be followed by a period.
 
 **(C)** In order to accomplish the purposes set forth in paragraphs (A) and (B) of this subsection, providing a method for making adjustments in payments, as among handlers (including producers who are also handlers), to the end that the total sums paid by each handler shall equal the value of the milk purchased by him at the prices fixed in accordance with paragraph (A) of this subsection.
 
@@ -509,11 +509,11 @@ subject, in either case, only to adjustments for (a) volume, market, and product
 
 **(H)** Omitted
 
-**(I)** Establishing or providing for the establishment of research and development projects, and advertising (excluding brand advertising), sales promotion, educational, and other programs designed to improve or promote the domestic marketing and consumption of milk and its products, to be financed by producers in a manner and at a rate specified in the order, on all producer milk under the order. Producer contributions under this subparagraph 4
+**(I)** Establishing or providing for the establishment of research and development projects, and advertising (excluding brand advertising), sales promotion, educational, and other programs designed to improve or promote the domestic marketing and consumption of milk and its products, to be financed by producers in a manner and at a rate specified in the order, on all producer milk under the order. Producer contributions under this subparagraph 4
 
-<sup>4</sup>  So in original. Probably should be “paragraph”.
+<sup>4</sup> So in original. Probably should be “paragraph”.
 
-may be deducted from funds due producers in computing total pool value or otherwise computing total funds due producers and such deductions shall be in addition to the adjustments authorized by paragraph (B) of this subsection. Provision may be made in the order to exempt, or allow suitable adjustments or credits in connection with, milk on which a mandatory checkoff for advertising or marketing research is required under the authority of any State law. Such funds shall be paid to an agency organized by milk producers and producers’ cooperative associations in such form and with such methods of operation as shall be specified in the order. Such agency may expend such funds for any of the purposes authorized by this subparagraph 4 and may designate, employ, and allocate funds to persons and organizations engaged in such programs which meet the standards and qualifications specified in the order. All funds collected under this subparagraph 4 shall be separately accounted for and shall be used only for the purposes for which they were collected. Programs authorized by this subparagraph 4 may be either local or national in scope, or both, as provided in the order, but shall not be international. Order provisions under this subparagraph 4 shall not become effective in any marketing order unless such provisions are approved by producers separately from other order provisions, in the same manner provided for the approval of marketing orders, and may be terminated separately whenever the Secretary makes a determination with respect to such provisions as is provided for the termination of an order in subsection (16)(B). Disapproval or termination of such order provisions shall not be considered disapproval of the order or of other terms of the order. Notwithstanding any other provision of this chapter, any producer against whose marketings any assessment is withheld or collected under the authority of this subparagraph,4 and who is not in favor of supporting the research and promotion programs, as provided for herein, shall have the right to demand and receive a refund of such assessment pursuant to the terms and conditions specified in the order.
+may be deducted from funds due producers in computing total pool value or otherwise computing total funds due producers and such deductions shall be in addition to the adjustments authorized by paragraph (B) of this subsection. Provision may be made in the order to exempt, or allow suitable adjustments or credits in connection with, milk on which a mandatory checkoff for advertising or marketing research is required under the authority of any State law. Such funds shall be paid to an agency organized by milk producers and producers’ cooperative associations in such form and with such methods of operation as shall be specified in the order. Such agency may expend such funds for any of the purposes authorized by this subparagraph 4 and may designate, employ, and allocate funds to persons and organizations engaged in such programs which meet the standards and qualifications specified in the order. All funds collected under this subparagraph 4 shall be separately accounted for and shall be used only for the purposes for which they were collected. Programs authorized by this subparagraph 4 may be either local or national in scope, or both, as provided in the order, but shall not be international. Order provisions under this subparagraph 4 shall not become effective in any marketing order unless such provisions are approved by producers separately from other order provisions, in the same manner provided for the approval of marketing orders, and may be terminated separately whenever the Secretary makes a determination with respect to such provisions as is provided for the termination of an order in subsection (16)(B). Disapproval or termination of such order provisions shall not be considered disapproval of the order or of other terms of the order. Notwithstanding any other provision of this chapter, any producer against whose marketings any assessment is withheld or collected under the authority of this subparagraph,4 and who is not in favor of supporting the research and promotion programs, as provided for herein, shall have the right to demand and receive a refund of such assessment pursuant to the terms and conditions specified in the order.
 
 **(J)** Providing for the payment, from the total sums payable by all handlers for milk (irrespective of the use classification of such milk) and before computing uniform prices under paragraph (A) and making adjustments in payments under paragraph (C), to handlers that are cooperative marketing associations described in paragraph (F) and to handlers with respect to which adjustments in payments are made under paragraph (C), for services of marketwide benefit, including but not limited to—
 
@@ -535,7 +535,7 @@ shall be treated as other-source milk, and shall be allocated as milk received f
 
 **(ii)** The Secretary of Agriculture shall prescribe regulations to carry out this subparagraph.<sup>4</sup>
 
-**(iii)** This subparagraph <sup>4</sup> shall not apply with respect to any dairy that began operation before May 6, 1986.
+**(iii)** This subparagraph <sup>4</sup> shall not apply with respect to any dairy that began operation before May 6, 1986.
 
 **(L)** Providing that adjustments in payments by handlers under paragraph (A) need not be the same as adjustments to producers under paragraph (B) with regard to adjustments authorized by subparagraphs (2) and (3) of paragraph (A) and clauses (b), (c), and (d) of paragraph (B)(ii).
 
@@ -589,23 +589,23 @@ shall be treated as other-source milk, and shall be allocated as milk received f
 
 **(ii)** Apportioning, or providing methods for apportioning, the total quantity of hops of the production of the then current calendar year permitted to be handled equitably among all producers in the production area to which the order applies upon the basis of one or more or a combination of the following: The total quantity of hops available or estimated will become available for market by each producer from his production during such period; the normal production of the acreage of hops operated by each producer during such period upon the basis of the number of acres of hops in production, and the average yield of that acreage during such period as the Secretary determines to be representative, with adjustments determined by the Secretary to be proper for age of plantings or abnormal conditions affecting yield; such normal production or historical record of any acreage for which data as to yield of hops are not available or which had no yield during such period shall be determined by the Secretary on the basis of the yields of other acreage of hops of similar characteristics as to productivity, subject to adjustment as just provided for.
 
-**(iii)** Allotting, or providing methods for allotting, the quantity of hops which any handler may handle so that the allotment fixed for that handler shall be limited to the quantity of hops apportioned under preceding section 5
+**(iii)** Allotting, or providing methods for allotting, the quantity of hops which any handler may handle so that the allotment fixed for that handler shall be limited to the quantity of hops apportioned under preceding section 5
 
-<sup>5</sup>  So in original. Probably should be “clause”.
+<sup>5</sup> So in original. Probably should be “clause”.
 
 (ii) to each respective producer of hops; such allotment shall constitute an allotment fixed for that handler within the meaning of subsection (5) of section 608a of this title.
 
-**(H)** providing 6
+**(H)** providing 6
 
-<sup>6</sup>  So in original. Probably should be capitalized.
+<sup>6</sup> So in original. Probably should be capitalized.
 
-a method for fixing the size, capacity, weight, dimensions, or pack of the container, or containers, which may be used in the packaging, transportation, sale, shipment, or handling of any fresh or dried fruits, vegetables, or tree nuts: *Provided, however*, That no action taken hereunder shall conflict with the Standard Containers Act of 1916 (15 U.S.C. 251–256) and the Standard Containers Act of 1928 (15 U.S.C. 257–257i); 7
+a method for fixing the size, capacity, weight, dimensions, or pack of the container, or containers, which may be used in the packaging, transportation, sale, shipment, or handling of any fresh or dried fruits, vegetables, or tree nuts: *Provided, however*, That no action taken hereunder shall conflict with the Standard Containers Act of 1916 (15 U.S.C. 251–256) and the Standard Containers Act of 1928 (15 U.S.C. 257–257i); 7
 
-<sup>7</sup>  So in original. Probably should be a period.
+<sup>7</sup> So in original. Probably should be a period.
 
-**(I)** establishing <sup>6</sup> or providing for the establishment of production research, marketing research and development projects designed to assist, improve, or promote the marketing, distribution, and consumption or efficient production of any such commodity or product, the expense of such projects to be paid from funds collected pursuant to the marketing order: *Provided*, That with respect to orders applicable to almonds, filberts (otherwise known as hazelnuts), California-grown peaches, cherries, papayas, carrots, citrus fruits, onions, Tokay grapes, pears, dates, plums, nectarines, celery, sweet corn, limes, olives, pecans, eggs, avocados, apples, raisins, walnuts, tomatoes, caneberries (including raspberries, blackberries, and loganberries), Florida grown 8
+**(I)** establishing <sup>6</sup> or providing for the establishment of production research, marketing research and development projects designed to assist, improve, or promote the marketing, distribution, and consumption or efficient production of any such commodity or product, the expense of such projects to be paid from funds collected pursuant to the marketing order: *Provided*, That with respect to orders applicable to almonds, filberts (otherwise known as hazelnuts), California-grown peaches, cherries, papayas, carrots, citrus fruits, onions, Tokay grapes, pears, dates, plums, nectarines, celery, sweet corn, limes, olives, pecans, eggs, avocados, apples, raisins, walnuts, tomatoes, caneberries (including raspberries, blackberries, and loganberries), Florida grown 8
 
-<sup>8</sup>  So in original. Probably should be “Florida-grown”.
+<sup>8</sup> So in original. Probably should be “Florida-grown”.
 
 strawberries, or cranberries, such proj­ects may provide for any form of marketing promotion including paid advertising and with respect to almonds, filberts (otherwise known as hazelnuts), raisins, walnuts, olives, Florida Indian River grapefruit, and cranberries may provide for crediting the pro rata expense assessment obligations of a handler with all or any portion of his direct expenditures for such marketing promotion including paid advertising as may be authorized by the order and when the handling of any commodity for canning or freezing is regulated, then any such projects may also deal with the commodity or its products in canned or frozen form: *Provided further*, That the inclusion in a Federal marketing order of provisions for research and marketing promotion, including paid advertising, shall not be deemed to preclude, preempt or supersede any such provisions in any State program covering the same commodity.
 
@@ -779,17 +779,17 @@ The Secretary of Agriculture, prior to prescribing any term in any marketing agr
 
 For the purpose of ascertaining whether the issuance of an order is approved or favored by producers or processors, as required under the applicable provisions of this chapter, the Secretary may conduct a referendum among producers or processors and in the case of an order other than an amendatory order shall do so. The requirements of approval or favor under any such provision shall be held to be complied with if, of the total number of producers or processors, or the total volume of production, as the case may be, represented in such referendum, the percentage approving or favoring is equal to or in excess of the percentage required under such provision. The terms and conditions of the proposed order shall be described by the Secretary in the ballot used in the conduct of the referendum. The nature, content, or extent of such description shall not be a basis for attacking the legality of the order or any action relating thereto. Nothing in this subsection shall be construed as limiting representation by cooperative associations as provided in subsection (12) of this section. For the purpose of ascertaining whether the issuance of an order applicable to pears for canning or freezing is approved or favored by producers as required under the applicable provisions of this chapter, the Secretary shall conduct a referendum among producers in each State in which pears for canning or freezing are proposed to be included within the provisions of such marketing order and the requirements of approval or favor under any such provisions applicable to pears for canning or freezing shall be held to be complied with if, of the total number of producers, or the total volume of production, as the case may be, represented in such referendum, the percentage approving or favoring is equal to or in excess of 66⅔ per centum except that in the event that pear producers in any State fail to approve or favor the issuance of any such marketing order, it shall not be made effective in such State.
 
-(May 12, 1933, ch. 25, title I, § 8c, as added Aug. 24, 1935, ch. 641, § 5, 49 Stat. 753; amended June 25, 1936, ch. 804, 49 Stat. 1921; June 3, 1937, ch. 296, §§ 1, 2(d)–(f), 50 Stat. 246, 247; June 3, 1937, ch. 296, § 2(k), (*l*), as added Aug. 5, 1937, ch. 567, 50 Stat. 563; Apr. 13, 1938, ch. 143, §§ 1, 2, 52 Stat. 215; May 31, 1939, ch. 157, 53 Stat. 793; Feb. 10, 1942, ch. 52, §§ 2, 3, 56 Stat. 85; 1947 Reorg. Plan No. 1, § 102, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; Aug. 1, 1947, ch. 425, §§ 2, 4, 61 Stat. 707, 710; July 3, 1948, ch. 827, title III, § 302(b), (c), 62 Stat. 1258; June 29, 1949, ch. 273, 63 Stat. 282; Aug. 28, 1954, ch. 1041, title IV, § 401(b)–(d), 68 Stat. 906, 907; Pub. L. 87–128, title I, § 141(3), (4), Aug. 8, 1961, 75 Stat. 304, 305; Pub. L. 87–703, title IV, § 403, Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–321, title I, §§ 101, 102, Nov. 3, 1965, 79 Stat. 1187; Pub. L. 89–330, § 1(b), Nov. 8, 1965, 79 Stat. 1270; Pub. L. 91–196, § 1, Feb. 20, 1970, 84 Stat. 14; Pub. L. 91–292, § 1(2), June 25, 1970, 84 Stat. 333; Pub. L. 91–341, July 18, 1970, 84 Stat. 438; Pub. L. 91–363, July 31, 1970, 84 Stat. 687; Pub. L. 91–384, Aug. 18, 1970, 84 Stat. 827; Pub. L. 91–522, Nov. 25, 1970, 84 Stat. 1357; Pub. L. 91–524, title II, § 201(a), Nov. 30, 1970, 84 Stat. 1359; Pub. L. 91–670, title I, § 101, title II, § 201, Jan. 11, 1971, 84 Stat. 2040, 2041; Pub. L. 92–120, Aug. 13, 1971, 85 Stat. 340; Pub. L. 92–233, Feb. 15, 1972, 86 Stat. 39; Pub. L. 92–466, Oct. 6, 1972, 86 Stat. 780; Pub. L. 91–524, title II, § 201(f), Nov. 30, 1970, as added Pub. L. 93–86, § 1(2)(B), Aug. 10, 1973, 87 Stat. 222; Pub. L. 93–230, Dec. 29, 1973, 87 Stat. 945; Pub. L. 95–279, title IV, § 401(a), May 15, 1978, 92 Stat. 242; Pub. L. 96–494, title I, § 101, Dec. 3, 1980, 94 Stat. 2570; Pub. L. 97–98, title I, § 101(a), Dec. 22, 1981, 95 Stat. 1218; Pub. L. 98–171, § 1, Nov. 29, 1983, 97 Stat. 1117; Pub. L. 98–180, title III, § 304, Nov. 29, 1983, 97 Stat. 1151; Pub. L. 99–198, title I, §§ 131(a), 133, title XVI, §§ 1661(a), 1662(a), Dec. 23, 1985, 99 Stat. 1372, 1373, 1630, 1631; Pub. L. 100–203, title I, § 1501, Dec. 22, 1987, 101 Stat. 1330–27; Pub. L. 100–418, title IV, §§ 4601, 4602, Aug. 23, 1988, 102 Stat. 1407; Pub. L. 101–624, title I, §§ 112, 113, title XIII, § 1306, Nov. 28, 1990, 104 Stat. 3380, 3561; Pub. L. 102–237, title I, § 115(2), Dec. 13, 1991, 105 Stat. 1840; Pub. L. 102–553, § 2, Oct. 28, 1992, 106 Stat. 4141; Pub. L. 106–78, title VII, §§ 757(a), 760, Oct. 22, 1999, 113 Stat. 1171, 1173; Pub. L. 107–76, title VII, § 765, Nov. 28, 2001, 115 Stat. 743; Pub. L. 107–171, title X, § 10601(a), May 13, 2002, 116 Stat. 511; Pub. L. 108–379, § 1, Oct. 30, 2004, 118 Stat. 2209; Pub. L. 109–215, § 2(a), (b), Apr. 11, 2006, 120 Stat. 328, 329; Pub. L. 110–234, title I, § 1504, May 22, 2008, 122 Stat. 993; Pub. L. 110–246, § 4(a), title I, § 1504, June 18, 2008, 122 Stat. 1664, 1721; Pub. L. 115–334, title I, § 1403(a), Dec. 20, 2018, 132 Stat. 4518.)
+(May 12, 1933, ch. 25, title I, § 8c, as added Aug. 24, 1935, ch. 641, § 5, 49 Stat. 753; amended June 25, 1936, ch. 804, 49 Stat. 1921; June 3, 1937, ch. 296, §§ 1, 2(d)–(f), 50 Stat. 246, 247; June 3, 1937, ch. 296, § 2(k), (*l*), as added Aug. 5, 1937, ch. 567, 50 Stat. 563; Apr. 13, 1938, ch. 143, §§ 1, 2, 52 Stat. 215; May 31, 1939, ch. 157, 53 Stat. 793; Feb. 10, 1942, ch. 52, §§ 2, 3, 56 Stat. 85; 1947 Reorg. Plan No. 1, § 102, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; Aug. 1, 1947, ch. 425, §§ 2, 4, 61 Stat. 707, 710; July 3, 1948, ch. 827, title III, § 302(b), (c), 62 Stat. 1258; June 29, 1949, ch. 273, 63 Stat. 282; Aug. 28, 1954, ch. 1041, title IV, § 401(b)–(d), 68 Stat. 906, 907; Pub. L. 87–128, title I, § 141(3), (4), Aug. 8, 1961, 75 Stat. 304, 305; Pub. L. 87–703, title IV, § 403, Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–321, title I, §§ 101, 102, Nov. 3, 1965, 79 Stat. 1187; Pub. L. 89–330, § 1(b), Nov. 8, 1965, 79 Stat. 1270; Pub. L. 91–196, § 1, Feb. 20, 1970, 84 Stat. 14; Pub. L. 91–292, § 1(2), June 25, 1970, 84 Stat. 333; Pub. L. 91–341, July 18, 1970, 84 Stat. 438; Pub. L. 91–363, July 31, 1970, 84 Stat. 687; Pub. L. 91–384, Aug. 18, 1970, 84 Stat. 827; Pub. L. 91–522, Nov. 25, 1970, 84 Stat. 1357; Pub. L. 91–524, title II, § 201(a), Nov. 30, 1970, 84 Stat. 1359; Pub. L. 91–670, title I, § 101, title II, § 201, Jan. 11, 1971, 84 Stat. 2040, 2041; Pub. L. 92–120, Aug. 13, 1971, 85 Stat. 340; Pub. L. 92–233, Feb. 15, 1972, 86 Stat. 39; Pub. L. 92–466, Oct. 6, 1972, 86 Stat. 780; Pub. L. 91–524, title II, § 201(f), Nov. 30, 1970, as added Pub. L. 93–86, § 1(2)(B), Aug. 10, 1973, 87 Stat. 222; Pub. L. 93–230, Dec. 29, 1973, 87 Stat. 945; Pub. L. 95–279, title IV, § 401(a), May 15, 1978, 92 Stat. 242; Pub. L. 96–494, title I, § 101, Dec. 3, 1980, 94 Stat. 2570; Pub. L. 97–98, title I, § 101(a), Dec. 22, 1981, 95 Stat. 1218; Pub. L. 98–171, § 1, Nov. 29, 1983, 97 Stat. 1117; Pub. L. 98–180, title III, § 304, Nov. 29, 1983, 97 Stat. 1151; Pub. L. 99–198, title I, §§ 131(a), 133, title XVI, §§ 1661(a), 1662(a), Dec. 23, 1985, 99 Stat. 1372, 1373, 1630, 1631; Pub. L. 100–203, title I, § 1501, Dec. 22, 1987, 101 Stat. 1330–27; Pub. L. 100–418, title IV, §§ 4601, 4602, Aug. 23, 1988, 102 Stat. 1407; Pub. L. 101–624, title I, §§ 112, 113, title XIII, § 1306, Nov. 28, 1990, 104 Stat. 3380, 3561; Pub. L. 102–237, title I, § 115(2), Dec. 13, 1991, 105 Stat. 1840; Pub. L. 102–553, § 2, Oct. 28, 1992, 106 Stat. 4141; Pub. L. 106–78, title VII, §§ 757(a), 760, Oct. 22, 1999, 113 Stat. 1171, 1173; Pub. L. 107–76, title VII, § 765, Nov. 28, 2001, 115 Stat. 743; Pub. L. 107–171, title X, § 10601(a), May 13, 2002, 116 Stat. 511; Pub. L. 108–379, § 1, Oct. 30, 2004, 118 Stat. 2209; Pub. L. 109–215, § 2(a), (b), Apr. 11, 2006, 120 Stat. 328, 329; Pub. L. 110–234, title I, § 1504, May 22, 2008, 122 Stat. 993; Pub. L. 110–246, § 4(a), title I, § 1504, June 18, 2008, 122 Stat. 1664, 1721; Pub. L. 115–334, title I, § 1403(a), Dec. 20, 2018, 132 Stat. 4518.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Naval Stores Act, referred to in subsec. (2)(A), is act Mar. 3, 1923, ch. 217, 42 Stat. 1435, which is classified generally to chapter 4 (§ 91 et seq.) of this title. For complete classification of this Act to the Code, see section 91 of this title and Tables.
+The Naval Stores Act, referred to in subsec. (2)(A), is act Mar. 3, 1923, ch. 217, 42 Stat. 1435, which is classified generally to chapter 4 (§ 91 et seq.) of this title. For complete classification of this Act to the Code, see section 91 of this title and Tables.
 
 For the effective date of this sentence, referred to in subsec. (5)(A), see section 1403(b) of Pub. L. 115–334, set out as an Effective Date of 2018 Amendment note below.
 
-The Standard Containers Act of 1916 and the Standard Containers Act of 1928, referred to in subsec. (6)(H), are act Aug. 31, 1916, ch. 426, 39 Stat. 673, as amended, and act May 21, 1928, ch. 664, 45 Stat. 685, as amended, respectively, and were repealed by Pub. L. 90–628, § 1(a), (b), Oct. 22, 1968, 82 Stat. 1320.
+The Standard Containers Act of 1916 and the Standard Containers Act of 1928, referred to in subsec. (6)(H), are act Aug. 31, 1916, ch. 426, 39 Stat. 673, as amended, and act May 21, 1928, ch. 664, 45 Stat. 685, as amended, respectively, and were repealed by Pub. L. 90–628, § 1(a), (b), Oct. 22, 1968, 82 Stat. 1320.
 
 The date of enactment of this subparagraph, referred to in subsec. (17)(B)(i), (iii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -799,7 +799,7 @@ Subsec. 5(B)(e), which permitted a provision for the accumulation and disburseme
 
 Subsec. (5)(H), which permitted marketing orders applicable to milk and its products to be limited in application to milk used for manufacturing, was omitted as terminated. See Termination of 1965 Amendment note set out below.
 
-Phrase “, with the approval of the President,” following “Secretary of Agriculture” in introductory provisions of subsec. (9) of this section, was omitted on the authority of section 102 of 1947 Reorg. Plan No. 1, set out in the Appendix to Title 5, Government Organization and Employees, which abolished the function of the President with respect to approving determinations of the Secretary of Agriculture in connection with agricultural marketing orders under this section.
+Phrase “, with the approval of the President,” following “Secretary of Agriculture” in introductory provisions of subsec. (9) of this section, was omitted on the authority of section 102 of 1947 Reorg. Plan No. 1, set out in the Appendix to Title 5, Government Organization and Employees, which abolished the function of the President with respect to approving determinations of the Secretary of Agriculture in connection with agricultural marketing orders under this section.
 
 The words “(including the district court of the United States for the District of Columbia)” in subsec. (15)(B) following “The District Courts of the United States” have been deleted as superfluous in view of section 132(a) of Title 28, Judiciary and Judicial Procedure which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district.”, and section 88 of said Title 28 which states in part that “The District of Columbia constitutes one judicial district.”
 
@@ -809,105 +809,105 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (5)(A). Pub. L. 115–334 added third sentence and struck out former third sentence and table which related to minimum aggregate dollar amount of adjustments to prices for milk of the highest use classification under orders that were in effect under this section on Dec. 23, 1985, and fourth sentence which related to adjustment of prices for locations specified in the table at which delivery of such milk was made.
 
-2008—Subsec. (17). Pub. L. 110–246, § 1504, added subsec. (17) and struck out former subsec. (17). Prior to amendment, text read as follows: “The provisions of this section, section 608d of this title, applicable to orders shall be applicable to amendments to orders: *Provided*, That notice of a hearing upon a proposed amendment to any order issued pursuant to this section, given not less than three days prior to the date fixed for such hearing, shall be deemed due notice thereof.”
+2008—Subsec. (17). Pub. L. 110–246, § 1504, added subsec. (17) and struck out former subsec. (17). Prior to amendment, text read as follows: “The provisions of this section, section 608d of this title, applicable to orders shall be applicable to amendments to orders: *Provided*, That notice of a hearing upon a proposed amendment to any order issued pursuant to this section, given not less than three days prior to the date fixed for such hearing, shall be deemed due notice thereof.”
 
-2006—Subsec. (5)(M) to (O). Pub. L. 109–215, § 2(a), added pars. (M) to (O).
+2006—Subsec. (5)(M) to (O). Pub. L. 109–215, § 2(a), added pars. (M) to (O).
 
-Subsec. (11). Pub. L. 109–215, § 2(b)(1), which directed striking out last sentence in subpar. (C), was executed by striking out concluding provisions “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.” which followed subpar. (C) to reflect the probable intent of Congress.
+Subsec. (11). Pub. L. 109–215, § 2(b)(1), which directed striking out last sentence in subpar. (C), was executed by striking out concluding provisions “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.” which followed subpar. (C) to reflect the probable intent of Congress.
 
-Subsec. (11)(D). Pub. L. 109–215, § 2(b)(2), added par. (D).
+Subsec. (11)(D). Pub. L. 109–215, § 2(b)(2), added par. (D).
 
-2004—Subsec. (7)(C). Pub. L. 108–379, in concluding provisions, struck out “or pears” after “grapefruit” and “: *Provided*, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal” before period at end.
+2004—Subsec. (7)(C). Pub. L. 108–379, in concluding provisions, struck out “or pears” after “grapefruit” and “: *Provided*, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal” before period at end.
 
-2002—Subsec. (2)(A). Pub. L. 107–171, § 10601(a)(1), inserted “caneberries (including raspberries, blackberries, and loganberries),” after “other than pears, olives, grapefruit, cherries,”.
+2002—Subsec. (2)(A). Pub. L. 107–171, § 10601(a)(1), inserted “caneberries (including raspberries, blackberries, and loganberries),” after “other than pears, olives, grapefruit, cherries,”.
 
-Subsec. (6)(I). Pub. L. 107–171, § 10601(a)(2), substituted “tomatoes, caneberries (including raspberries, blackberries, and loganberries),” for “tomatoes,,” in first proviso.
+Subsec. (6)(I). Pub. L. 107–171, § 10601(a)(2), substituted “tomatoes, caneberries (including raspberries, blackberries, and loganberries),” for “tomatoes,,” in first proviso.
 
 2001—Subsec. (1). Pub. L. 107–76, which directed insertion of “The Secretary is authorized to implement a producer allotment program and a handler withholding program under the cranberry marketing order in the same crop year through informal rulemaking based on a recommendation and supporting economic analysis submitted by the Cranberry Marketing Committee. Such recommendation and analysis shall be submitted by the Committee no later than March 1 of each year.” at end of penultimate sentence of section 8c(1) of the Agricultural Marketing Agreement Act of 1937, was executed to this section, which is section 8c(1) of the Agricultural Adjustment Act, to reflect the probable intent of Congress.
 
-1999—Subsec. (6)(I). Pub. L. 106–78, § 757(a)(2), substituted “Florida Indian River grapefruit, and cranberries” for “and Florida Indian River grapefruit” in first proviso.
+1999—Subsec. (6)(I). Pub. L. 106–78, § 757(a)(2), substituted “Florida Indian River grapefruit, and cranberries” for “and Florida Indian River grapefruit” in first proviso.
 
-Pub. L. 106–78, § 757(a)(1), which directed substitution of “, Florida grown strawberries, or cranberries” for “or Florida grown strawberries” in first proviso, was executed by making the substitution for “or Florida-grown strawberries” to reflect the probable intent of Congress.
+Pub. L. 106–78, § 757(a)(1), which directed substitution of “, Florida grown strawberries, or cranberries” for “or Florida grown strawberries” in first proviso, was executed by making the substitution for “or Florida-grown strawberries” to reflect the probable intent of Congress.
 
-Subsec. (11). Pub. L. 106–78, § 760, inserted at end “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.”
+Subsec. (11). Pub. L. 106–78, § 760, inserted at end “The price of milk paid by a handler at a plant operating in Clark County, Nevada shall not be subject to any order issued under this section.”
 
 1992—Subsec. (1). Pub. L. 102–553 inserted at end “In carrying out this section, the Secretary shall complete all informal rulemaking actions necessary to respond to recommendations submitted by administrative committees for such orders as expeditiously as possible, but not more than 45 days (to the extent practicable) after submission of the committee recommendations. The Secretary shall establish time frames for each office and agency within the Department of Agriculture to consider the committee recommendations.”
 
-1991—Subsec. (5)(B). Pub. L. 102–237 substituted “, and” for “and,” before cl. (f).
+1991—Subsec. (5)(B). Pub. L. 102–237 substituted “, and” for “and,” before cl. (f).
 
-1990—Subsec. (5)(B)(f). Pub. L. 101–624, § 112, added cl. (f).
+1990—Subsec. (5)(B)(f). Pub. L. 101–624, § 112, added cl. (f).
 
-Subsec. (5)(L). Pub. L. 101–624, § 113, added par. (L).
+Subsec. (5)(L). Pub. L. 101–624, § 113, added par. (L).
 
-Subsec. (14)(A). Pub. L. 101–624, § 1306(1), struck out “(other than a provision calling for payment of a pro rata share of expenses)” before “shall, on conviction” and substituted “. If” for “: *Provided*, That if”.
+Subsec. (14)(A). Pub. L. 101–624, § 1306(1), struck out “(other than a provision calling for payment of a pro rata share of expenses)” before “shall, on conviction” and substituted “. If” for “: *Provided*, That if”.
 
-Subsec. (14)(B). Pub. L. 101–624, § 1306(2), struck out “(other than a provision calling for payment of a pro rata share of expenses)” before “may be assessed”.
+Subsec. (14)(B). Pub. L. 101–624, § 1306(2), struck out “(other than a provision calling for payment of a pro rata share of expenses)” before “may be assessed”.
 
-1988—Subsec. (5)(K). Pub. L. 100–418, § 4601, added par. (K).
+1988—Subsec. (5)(K). Pub. L. 100–418, § 4601, added par. (K).
 
-Subsec. (6)(I). Pub. L. 100–418, § 4602, substituted “tomatoes, or Florida-grown strawberries,” for “or tomatoes” in first proviso.
+Subsec. (6)(I). Pub. L. 100–418, § 4602, substituted “tomatoes, or Florida-grown strawberries,” for “or tomatoes” in first proviso.
 
 1987—Subsec. (14). Pub. L. 100–203 designated existing provisions as par. (A) and added par. (B).
 
-1985—Subsec. (5)(A). Pub. L. 99–198, § 131(a), inserted provisions, with accompanying table, establishing the minimum aggregate amounts of the adjustments under cls. (1) and (2) to prices for milk of the highest use classification under orders in effect on Dec. 23, 1985, and requiring that such prices be adjusted for the locations at which delivery of such milk is made to such handlers.
+1985—Subsec. (5)(A). Pub. L. 99–198, § 131(a), inserted provisions, with accompanying table, establishing the minimum aggregate amounts of the adjustments under cls. (1) and (2) to prices for milk of the highest use classification under orders in effect on Dec. 23, 1985, and requiring that such prices be adjusted for the locations at which delivery of such milk is made to such handlers.
 
-Subsec. (5)(J). Pub. L. 99–198, § 133, added par. (J).
+Subsec. (5)(J). Pub. L. 99–198, § 133, added par. (J).
 
-Subsec. (14). Pub. L. 99–198, § 1661(a), substituted “$5,000” for “$500”.
+Subsec. (14). Pub. L. 99–198, § 1661(a), substituted “$5,000” for “$500”.
 
-Subsec. (16)(A). Pub. L. 99–198, § 1662(a)(1), designated existing provisions of par. (A) as cl. (i), substituted “Except as provided in clause (ii), the Secretary” for “The Secretary”, and added cl. (ii).
+Subsec. (16)(A). Pub. L. 99–198, § 1662(a)(1), designated existing provisions of par. (A) as cl. (i), substituted “Except as provided in clause (ii), the Secretary” for “The Secretary”, and added cl. (ii).
 
-Subsec. (16)(C). Pub. L. 99–198, § 1662(a)(2), substituted “Except as otherwise provided in this subsection with respect to the termination of an order issued under this section, the termination” for “The termination”.
+Subsec. (16)(C). Pub. L. 99–198, § 1662(a)(2), substituted “Except as otherwise provided in this subsection with respect to the termination of an order issued under this section, the termination” for “The termination”.
 
-1983—Subsec. (2)(B). Pub. L. 98–180, § 304(1), substituted “poultry (but not excepting turkeys and not excepting poultry which produce commercial eggs),” for “poultry (but not excepting turkeys), eggs (but not excepting turkey hatching eggs),”.
+1983—Subsec. (2)(B). Pub. L. 98–180, § 304(1), substituted “poultry (but not excepting turkeys and not excepting poultry which produce commercial eggs),” for “poultry (but not excepting turkeys), eggs (but not excepting turkey hatching eggs),”.
 
-Subsec. (6)(I). Pub. L. 98–180, § 304(2), inserted “eggs,” after “pecans,” in first proviso.
+Subsec. (6)(I). Pub. L. 98–180, § 304(2), inserted “eggs,” after “pecans,” in first proviso.
 
 Pub. L. 98–171 inserted, in first proviso, “filberts (otherwise known as hazelnuts),” after “almonds,” in two places.
 
-1981—Subsec. (5)(B). Pub. L. 97–98, § 101(a)(1), temporarily added cls. (d) and (e) and struck out former cl. (d) which read as follows: “a further adjustment, equitably to apportion the total value of the milk purchased by any handler, or by all handlers, among producers and associations of producers, on the basis of their marketings of milk during a representative period of time.” See Effective and Termination Dates of 1981 Amendment note below.
+1981—Subsec. (5)(B). Pub. L. 97–98, § 101(a)(1), temporarily added cls. (d) and (e) and struck out former cl. (d) which read as follows: “a further adjustment, equitably to apportion the total value of the milk purchased by any handler, or by all handlers, among producers and associations of producers, on the basis of their marketings of milk during a representative period of time.” See Effective and Termination Dates of 1981 Amendment note below.
 
-Subsec. (17). Pub. L. 97–98, § 101(a)(2), temporarily struck out period at end and added second proviso related to provisions governing procedures when one-third or more of producers apply in writing for a hearing on a proposed amendment of an order, prohibiting any construction of subsec. (12) in a way which might permit cooperatives to act for their members in applying for hearings, and excusing the Secretary from the requirement of having to call a hearing on proposed amendments to an order in response to an application for such a hearing when the application for such a hearing is received by the Secretary within ninety days after the date on which the Secretary has announced his decision on a previously proposed amendment to such order and the two proposed amendments are essentially the same. See Effective and Termination Dates of 1981 Amendment note below. A substantially identical amendment was temporarily made by Pub. L. 91–524, § 201(f)(1), as added by Pub. L. 93–86, see 1970 Amendment note and Termination of 1970 Amendment note below.
+Subsec. (17). Pub. L. 97–98, § 101(a)(2), temporarily struck out period at end and added second proviso related to provisions governing procedures when one-third or more of producers apply in writing for a hearing on a proposed amendment of an order, prohibiting any construction of subsec. (12) in a way which might permit cooperatives to act for their members in applying for hearings, and excusing the Secretary from the requirement of having to call a hearing on proposed amendments to an order in response to an application for such a hearing when the application for such a hearing is received by the Secretary within ninety days after the date on which the Secretary has announced his decision on a previously proposed amendment to such order and the two proposed amendments are essentially the same. See Effective and Termination Dates of 1981 Amendment note below. A substantially identical amendment was temporarily made by Pub. L. 91–524, § 201(f)(1), as added by Pub. L. 93–86, see 1970 Amendment note and Termination of 1970 Amendment note below.
 
-Subsec. (18). Pub. L. 97–98, § 101(a)(3), temporarily inserted “to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs” after “pure and wholesome milk”. See Effective and Termination Dates of 1981 Amendment note below. An identical amendment was temporarily made by Pub. L. 91–524, § 201(f)(2), as added by Pub. L. 93–86, see 1970 Amendment note and Termination of 1970 Amendment note below.
+Subsec. (18). Pub. L. 97–98, § 101(a)(3), temporarily inserted “to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs” after “pure and wholesome milk”. See Effective and Termination Dates of 1981 Amendment note below. An identical amendment was temporarily made by Pub. L. 91–524, § 201(f)(2), as added by Pub. L. 93–86, see 1970 Amendment note and Termination of 1970 Amendment note below.
 
 1980—Subsec. (6)(I). Pub. L. 96–494 inserted, in first proviso, “walnuts,” before “or tomatoes” and “walnuts, olives,” before “and Florida Indian River grapefruit”.
 
-1978—Subsec. (6)(I). Pub. L. 95–279 inserted, in first proviso, “raisins,” after “apples,” and “, raisins,” after “with respect to almonds”.
+1978—Subsec. (6)(I). Pub. L. 95–279 inserted, in first proviso, “raisins,” after “apples,” and “, raisins,” after “with respect to almonds”.
 
 1973—Subsec. (6)(I). Pub. L. 93–230 inserted “and Florida Indian River grapefruit” after “with respect to almonds” in first proviso.
 
-Subsec. (17). Pub. L. 93–86 added Pub. L. 91–524, § 201(f)(1). See 1970 Amendment note below.
+Subsec. (17). Pub. L. 93–86 added Pub. L. 91–524, § 201(f)(1). See 1970 Amendment note below.
 
-Subsec. (18). Pub. L. 93–86 added Pub. L. 91–524, § 201(f)(2). See 1970 Amendment note below.
+Subsec. (18). Pub. L. 93–86 added Pub. L. 91–524, § 201(f)(2). See 1970 Amendment note below.
 
-1972—Subsec. (2)(A). Pub. L. 92–466, § 1(1), inserted “pears,” after “canned or frozen” the first time appearing and before “olives,”.
+1972—Subsec. (2)(A). Pub. L. 92–466, § 1(1), inserted “pears,” after “canned or frozen” the first time appearing and before “olives,”.
 
-Pub. L. 92–233, § 1(1), inserted “and not including potatoes for canning, freezing, or other processing” after “vegetables (not including vegetables, other than asparagus, for canning or freezing”. The amendment served to make permanent the temporary exemption first inserted by Pub. L. 91–196, § 1(1). See 1970 Amendment note and Effective Date of 1970 Amendment note below.
+Pub. L. 92–233, § 1(1), inserted “and not including potatoes for canning, freezing, or other processing” after “vegetables (not including vegetables, other than asparagus, for canning or freezing”. The amendment served to make permanent the temporary exemption first inserted by Pub. L. 91–196, § 1(1). See 1970 Amendment note and Effective Date of 1970 Amendment note below.
 
-Subsec. (2)(B). Pub. L. 92–233, § 1(2), inserted “including potatoes for canning, freezing, or other processing” after “fruits and vegetables for canning or freezing,”. The amendment served to make permanent the temporary exemption first inserted by Pub. L. 91–196, § 1(2). See 1970 Amendment note and Effective Date of 1970 Amendment note below.
+Subsec. (2)(B). Pub. L. 92–233, § 1(2), inserted “including potatoes for canning, freezing, or other processing” after “fruits and vegetables for canning or freezing,”. The amendment served to make permanent the temporary exemption first inserted by Pub. L. 91–196, § 1(2). See 1970 Amendment note and Effective Date of 1970 Amendment note below.
 
-Subsec. (6)(I). Pub. L. 92–466, § 1(2), in first proviso, struck out “fresh” before “pears” and inserted at end “and when the handling of any commodity for canning or freezing is regulated, then any such projects may also deal with the commodity or its products in canned or frozen form”.
+Subsec. (6)(I). Pub. L. 92–466, § 1(2), in first proviso, struck out “fresh” before “pears” and inserted at end “and when the handling of any commodity for canning or freezing is regulated, then any such projects may also deal with the commodity or its products in canned or frozen form”.
 
-Subsec. (6)(J). Pub. L. 92–466, § 1(5), added par. (J).
+Subsec. (6)(J). Pub. L. 92–466, § 1(5), added par. (J).
 
-Subsec. (7)(C). Pub. L. 92–466, § 1(3), inserted “or pears” after “a marketing order applicable to grapefruit”, struck out period at end, and inserted “: *Provided*, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal.”
+Subsec. (7)(C). Pub. L. 92–466, § 1(3), inserted “or pears” after “a marketing order applicable to grapefruit”, struck out period at end, and inserted “: *Provided*, That in a marketing order applicable to pears for canning or freezing the representation of processors and producers on such agency shall be equal.”
 
-Subsec. (19). Pub. L. 92–466, § 1(4), inserted provision respecting producer or processor referendum for approving order applicable to pears for canning or freezing.
+Subsec. (19). Pub. L. 92–466, § 1(4), inserted provision respecting producer or processor referendum for approving order applicable to pears for canning or freezing.
 
-1971—Subsec. (5)(I). Pub. L. 91–670, § 101, added par. (I).
+1971—Subsec. (5)(I). Pub. L. 91–670, § 101, added par. (I).
 
 Subsec. (6)(I). Pub. L. 92–120 inserted “California-grown peaches,” after “applicable to almonds,” in first proviso.
 
-Pub. L. 91–670, § 201, substituted “apples, or tomatoes” for “or apples” in first proviso.
+Pub. L. 91–670, § 201, substituted “apples, or tomatoes” for “or apples” in first proviso.
 
 1970—Subsec. (2)(A). Pub. L. 91–341 substituted “Connecticut, Colorado, Utah, New Mexico, Illinois, and Ohio” for “and Connecticut”.
 
-Pub. L. 91–196, § 1(1), temporarily inserted “and not including potatoes for canning, freezing, or other processing” after “vegetables (not including vegetables, other than asparagus, for canning or freezing”. See Effective Date of 1970 Amendment note below.
+Pub. L. 91–196, § 1(1), temporarily inserted “and not including potatoes for canning, freezing, or other processing” after “vegetables (not including vegetables, other than asparagus, for canning or freezing”. See Effective Date of 1970 Amendment note below.
 
-Subsec. (2)(B). Pub. L. 91–196, § 1(2), temporarily inserted “including potatoes for canning, freezing, or other processing,” after “fruits and vegetables for canning or freezing,”. See Effective Date of 1970 Amendment note below.
+Subsec. (2)(B). Pub. L. 91–196, § 1(2), temporarily inserted “including potatoes for canning, freezing, or other processing,” after “fruits and vegetables for canning or freezing,”. See Effective Date of 1970 Amendment note below.
 
-Subsec. (5)(B). Pub. L. 91–524, § 201(a), temporarily added cls. (d) to (f) and struck out former cl. (d) and concluding provisions. See Termination of 1970 Amendment note below.
+Subsec. (5)(B). Pub. L. 91–524, § 201(a), temporarily added cls. (d) to (f) and struck out former cl. (d) and concluding provisions. See Termination of 1970 Amendment note below.
 
 Subsec. (6)(I). Pub. L. 91–522 inserted “almonds,” before “cherries” in first proviso, inserted at end of first proviso “and with respect to almonds may provide for crediting the pro rata expense assessment obligations of a handler with all or any portion of his direct expenditures for such marketing promotion including paid advertising as may be authorized by the order”, and amended second proviso generally.
 
@@ -915,61 +915,61 @@ Pub. L. 91–384 inserted “papayas,” after “applicable to cherries,” in 
 
 Pub. L. 91–363 substituted “avocados, or apples” for “or avocados” in first proviso.
 
-Pub. L. 91–292 which directed the insertion of “production research,” after “Establishing or providing for the establishment of”, was executed by making the insertion after “establishing or providing for the establishment of” to reflect the probable intent of Congress, inserted “or efficient production” after “consumption”, and struck out period at end and inserted “: *Provided further*, That the inclusion in a Federal marketing order of provisions for research shall not be deemed to preclude, preempt or supersede research provisions in any State program covering the same commodity.”
+Pub. L. 91–292 which directed the insertion of “production research,” after “Establishing or providing for the establishment of”, was executed by making the insertion after “establishing or providing for the establishment of” to reflect the probable intent of Congress, inserted “or efficient production” after “consumption”, and struck out period at end and inserted “: *Provided further*, That the inclusion in a Federal marketing order of provisions for research shall not be deemed to preclude, preempt or supersede research provisions in any State program covering the same commodity.”
 
-Subsec. (17). Pub. L. 91–524, § 201(f)(1), as added by Pub. L. 93–86, temporarily struck out period at end and added second proviso related to provisions governing procedures when one-third or more of producers apply in writing for a hearing on a proposed amendment of an order, prohibiting any construction of subsec. (12) in a way which might permit cooperatives to act for their members in applying for hearings, and excusing the Secretary from the requirement of having to call a hearing on proposed amendments to an order in response to an application for such a hearing when the application for such a hearing is received by the Secretary within ninety days after the date on which the Secretary has announced his decision on a previously proposed amendment to such order and the two proposed amendments are essentially the same. See Termination of 1970 Amendment note below.
+Subsec. (17). Pub. L. 91–524, § 201(f)(1), as added by Pub. L. 93–86, temporarily struck out period at end and added second proviso related to provisions governing procedures when one-third or more of producers apply in writing for a hearing on a proposed amendment of an order, prohibiting any construction of subsec. (12) in a way which might permit cooperatives to act for their members in applying for hearings, and excusing the Secretary from the requirement of having to call a hearing on proposed amendments to an order in response to an application for such a hearing when the application for such a hearing is received by the Secretary within ninety days after the date on which the Secretary has announced his decision on a previously proposed amendment to such order and the two proposed amendments are essentially the same. See Termination of 1970 Amendment note below.
 
-Subsec. (18). Pub. L. 91–524, § 201(f)(2), as added by Pub. L. 93–86, temporarily inserted “to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs” after “pure and wholesome milk”. See Termination of 1970 Amendment note below.
+Subsec. (18). Pub. L. 91–524, § 201(f)(2), as added by Pub. L. 93–86, temporarily inserted “to meet current needs and further to assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs” after “pure and wholesome milk”. See Termination of 1970 Amendment note below.
 
-1965—Subsec. (5)(B). Pub. L. 89–321, § 101, temporarily added cl. (d) and concluding provisions and struck out former cl. (d). See Termination of 1965 Amendments note below.
+1965—Subsec. (5)(B). Pub. L. 89–321, § 101, temporarily added cl. (d) and concluding provisions and struck out former cl. (d). See Termination of 1965 Amendments note below.
 
-Subsec. (5)(H). Pub. L. 89–321, § 102(a), temporarily added par. (H). See Termination of 1965 Amendments note below.
+Subsec. (5)(H). Pub. L. 89–321, § 102(a), temporarily added par. (H). See Termination of 1965 Amendments note below.
 
-Subsec. (6)(I). Pub. L. 89–330 inserted “, carrots, citrus fruits, onions, Tokay grapes, fresh pears, dates, plums, nectarines, celery, sweet corn, limes, olives, pecans, or avocados” after “applicable to cherries” in proviso.
+Subsec. (6)(I). Pub. L. 89–330 inserted “, carrots, citrus fruits, onions, Tokay grapes, fresh pears, dates, plums, nectarines, celery, sweet corn, limes, olives, pecans, or avocados” after “applicable to cherries” in proviso.
 
-Subsec. (18). Pub. L. 89–321, § 102(b), temporarily inserted “or, in the case of orders applying only to manufacturing milk, the production area” after “marketing area” in two places. See Termination of 1965 Amendments note below.
+Subsec. (18). Pub. L. 89–321, § 102(b), temporarily inserted “or, in the case of orders applying only to manufacturing milk, the production area” after “marketing area” in two places. See Termination of 1965 Amendments note below.
 
-1962—Subsec. (6)(I). Pub. L. 87–703 struck out period at end and inserted “: *Provided*, That with respect to orders applicable to cherries such projects may provide for any form of marketing promotion including paid advertising.”
+1962—Subsec. (6)(I). Pub. L. 87–703 struck out period at end and inserted “: *Provided*, That with respect to orders applicable to cherries such projects may provide for any form of marketing promotion including paid advertising.”
 
-1961—Subsec. (2). Pub. L. 87–128, § 141(3), designated provisions after “applicable only to” as par. (A), inserted “cherries, apples, or cranberries,” after “grapefruit,” the first time appearing, substituted “Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, and Connecticut, and not including fruits for canning or freezing other than olives, grapefruit, cherries, cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho)” for “and Idaho, and not including fruits, other than olives and grapefruit, for canning or freezing)”, struck out “soybeans,” before “hops, honeybees”, and added par. (B).
+1961—Subsec. (2). Pub. L. 87–128, § 141(3), designated provisions after “applicable only to” as par. (A), inserted “cherries, apples, or cranberries,” after “grapefruit,” the first time appearing, substituted “Idaho, New York, Michigan, Maryland, New Jersey, Indiana, California, Maine, Vermont, New Hampshire, Rhode Island, Massachusetts, and Connecticut, and not including fruits for canning or freezing other than olives, grapefruit, cherries, cranberries, and apples produced in the States named above except Washington, Oregon, and Idaho)” for “and Idaho, and not including fruits, other than olives and grapefruit, for canning or freezing)”, struck out “soybeans,” before “hops, honeybees”, and added par. (B).
 
-Subsec. (19). Pub. L. 87–128, § 141(4), amended text generally.
+Subsec. (19). Pub. L. 87–128, § 141(4), amended text generally.
 
-1954—Subsec. (2). Act Aug. 28, 1954, § 401(b), amended text generally.
+1954—Subsec. (2). Act Aug. 28, 1954, § 401(b), amended text generally.
 
-Subsec. (6). Act Aug. 28, 1954, § 401(c), added introductory provisions and struck out former introductory provisions and added pars. (H) and (I).
+Subsec. (6). Act Aug. 28, 1954, § 401(c), added introductory provisions and struck out former introductory provisions and added pars. (H) and (I).
 
-Subsec. (7)(C). Act Aug. 28, 1954, § 401(d), inserted at end “There shall be included in the membership of any agency selected to administer a marketing order applicable to grapefruit for canning or freezing one or more representatives of processors of the commodity specified in such order.”
+Subsec. (7)(C). Act Aug. 28, 1954, § 401(d), inserted at end “There shall be included in the membership of any agency selected to administer a marketing order applicable to grapefruit for canning or freezing one or more representatives of processors of the commodity specified in such order.”
 
 1949—Subsecs. (2), (6). Act June 29, 1949, inserted “filberts, almonds,” before “pecans and walnuts” in subsec. (2) and in introductory provisions of subsec. (6).
 
-1948—Subsec. (17). Act July 3, 1948, § 302(c), struck out “and section 608e of this title”.
+1948—Subsec. (17). Act July 3, 1948, § 302(c), struck out “and section 608e of this title”.
 
-Subsec. (18). Act July 3, 1948, § 302(b), amended text generally.
+Subsec. (18). Act July 3, 1948, § 302(b), amended text generally.
 
-1947—Subsec. (2). Act Aug. 1, 1947, § 4, inserted “or freezing” after “canning” in two places.
+1947—Subsec. (2). Act Aug. 1, 1947, § 4, inserted “or freezing” after “canning” in two places.
 
-Subsec. (6). Act Aug. 1, 1947, § 2, amended text generally.
+Subsec. (6). Act Aug. 1, 1947, § 2, amended text generally.
 
 1942—Subsec. (6). Act Feb. 10, 1942, substituted “hops and their products,” for “hops,” in introductory provisions and added par. (F).
 
-1939—Subsecs. (2), (6). Act May 31, 1939, made technical amendment to Act June 3, 1937, § 2, by adding a subsection (m) designation at the end thereof and amended this section by inserting “, other than apples produced in the States of Washington, Oregon, and Idaho,” after “apples” in subsec. (2) and in introductory provisions of subsec. (6).
+1939—Subsecs. (2), (6). Act May 31, 1939, made technical amendment to Act June 3, 1937, § 2, by adding a subsection (m) designation at the end thereof and amended this section by inserting “, other than apples produced in the States of Washington, Oregon, and Idaho,” after “apples” in subsec. (2) and in introductory provisions of subsec. (6).
 
-1938—Subsec. (2). Act Apr. 13, 1938, § 1, inserted “, hops,” after “soybeans”.
+1938—Subsec. (2). Act Apr. 13, 1938, § 1, inserted “, hops,” after “soybeans”.
 
-Subsec. (6). Act Apr. 13, 1938, § 2, inserted “, hops,” after “soybeans and their products” in introductory provisions.
+Subsec. (6). Act Apr. 13, 1938, § 2, inserted “, hops,” after “soybeans and their products” in introductory provisions.
 
-1937—Act June 3, 1937, § 1, affirmed, validated, and reenacted provisions of section. See Validity of Section Affirmed note below.
+1937—Act June 3, 1937, § 1, affirmed, validated, and reenacted provisions of section. See Validity of Section Affirmed note below.
 
-Subsec. (2). Act Aug. 5, 1937, amended act June 3, 1937, by adding thereto subsec. (k), which in turn directed the insertion of “and the products of honeybees” after “except the products of naval stores”, which was executed by making the insertion after “except products of naval stores”, to reflect the probable intent of Congress and inserted “, honeybees” after “soybeans”.
+Subsec. (2). Act Aug. 5, 1937, amended act June 3, 1937, by adding thereto subsec. (k), which in turn directed the insertion of “and the products of honeybees” after “except the products of naval stores”, which was executed by making the insertion after “except products of naval stores”, to reflect the probable intent of Congress and inserted “, honeybees” after “soybeans”.
 
-Subsec. (5)(B)(d). Act June 3, 1937, § 2(d), substituted “marketings of milk” for “production of milk”.
+Subsec. (5)(B)(d). Act June 3, 1937, § 2(d), substituted “marketings of milk” for “production of milk”.
 
 Subsec. (6). Act Aug. 5, 1937, amended act June 3, 1937, by adding subsec. (*l*), which in turn amended subsec. (6) by inserting “honeybees,” after “soybeans and their products,” in introductory provisions.
 
-Subsec. (6)(B). Act June 3, 1937, § 2(e), struck out “produced or” before “sold by such producers” and substituted “quantities available for sale by” for “production or sales of”.
+Subsec. (6)(B). Act June 3, 1937, § 2(e), struck out “produced or” before “sold by such producers” and substituted “quantities available for sale by” for “production or sales of”.
 
-Subsecs. (18), (19). Act June 3, 1937, § 2(f), added subsecs. (18) and (19).
+Subsecs. (18), (19). Act June 3, 1937, § 2(f), added subsecs. (18) and (19).
 
 1936—Subsec. (15)(B). Act June 25, 1936, provided that the Supreme Court of the District of Columbia should thereafter be known as the “district court of the United States for the District of Columbia”. See Codification note above.
 
@@ -979,7 +979,7 @@ Subsecs. (18), (19). Act June 3, 1937, § 2(f), added subsecs. (18) and (19).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title I, § 1403(b), Dec. 20, 2018, 132 Stat. 4518, provided that:
+Pub. L. 115–334, title I, § 1403(b), Dec. 20, 2018, 132 Stat. 4518, provided that:
 
 > **“(1) Effective date.—** The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month beginning more than 120 days after the date of enactment of this Act [Dec. 20, 2018].
 
@@ -999,11 +999,11 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–215, § 2(d), Apr. 11, 2006, 120 Stat. 330, provided that: “The amendments made by this section [amending this section] take effect on the first day of the first month beginning more than 15 days after the date of the enactment of this Act [Apr. 11, 2006]. To accomplish the expedited implementation of these amendments, effective on the date of the enactment of this Act, the Secretary of Agriculture shall include in the pool distributing plant provisions of each Federal milk marketing order issued under subparagraph (B) of section 8c(5) of the Agriculture Adjustment Act (7 U.S.C. 608c(5)), reenacted with amendments by the Agriculture [Agricultural] Marketing Agreement Act of 1937, a provision that a handler described in subparagraph (M) of such section, as added by subsection (a) of this section, will be fully regulated by the order in which the handler’s distributing plant is located. These amendments shall not be subject to a referendum under section 8c(19) of such Act (7 U.S.C. 608c(19)).”
+Pub. L. 109–215, § 2(d), Apr. 11, 2006, 120 Stat. 330, provided that: “The amendments made by this section [amending this section] take effect on the first day of the first month beginning more than 15 days after the date of the enactment of this Act [Apr. 11, 2006]. To accomplish the expedited implementation of these amendments, effective on the date of the enactment of this Act, the Secretary of Agriculture shall include in the pool distributing plant provisions of each Federal milk marketing order issued under subparagraph (B) of section 8c(5) of the Agriculture Adjustment Act (7 U.S.C. 608c(5)), reenacted with amendments by the Agriculture [Agricultural] Marketing Agreement Act of 1937, a provision that a handler described in subparagraph (M) of such section, as added by subsection (a) of this section, will be fully regulated by the order in which the handler’s distributing plant is located. These amendments shall not be subject to a referendum under section 8c(19) of such Act (7 U.S.C. 608c(19)).”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–78, title VII, § 760, Oct. 22, 1999, 113 Stat. 1173, provided that the amendment made by section 760 is effective Oct. 1, 1999.
+Pub. L. 106–78, title VII, § 760, Oct. 22, 1999, 113 Stat. 1173, provided that the amendment made by section 760 is effective Oct. 1, 1999.
 
 **Effective Date of 1990 Amendment**
 
@@ -1011,31 +1011,31 @@ Amendments by sections 112 and 113 of Pub. L. 101–624 effective beginning with
 
 **Effective Dates of 1985 Amendment**
 
-Pub. L. 99–198, title I, § 131(b), Dec. 23, 1985, 99 Stat. 1373, provided that: “The amendment made by this section [amending this section] shall take effect on the first day of the first month beginning more than 120 days after the date of the enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–198, title I, § 131(b), Dec. 23, 1985, 99 Stat. 1373, provided that: “The amendment made by this section [amending this section] shall take effect on the first day of the first month beginning more than 120 days after the date of the enactment of this Act [Dec. 23, 1985].”
 
-Pub. L. 99–198, title I, § 133, Dec. 23, 1985, 99 Stat. 1373, provided that the amendment made by that section is effective Jan. 1, 1986.
+Pub. L. 99–198, title I, § 133, Dec. 23, 1985, 99 Stat. 1373, provided that the amendment made by that section is effective Jan. 1, 1986.
 
-Pub. L. 99–198, title XVI, § 1661(b), Dec. 23, 1985, 99 Stat. 1630, provided that: “The amendment made by subsection (a) [amending this section] shall not apply with respect to any violation described in section 8c(14) of the Agricultural Adjustment Act [subsec. (14) of this section] occurring before the date of the enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–198, title XVI, § 1661(b), Dec. 23, 1985, 99 Stat. 1630, provided that: “The amendment made by subsection (a) [amending this section] shall not apply with respect to any violation described in section 8c(14) of the Agricultural Adjustment Act [subsec. (14) of this section] occurring before the date of the enactment of this Act [Dec. 23, 1985].”
 
 **Effective and Termination Dates of 1981 Amendment**
 
-Pub. L. 97–98, title I, § 101(b), Dec. 22, 1981, 95 Stat. 1219, as amended by Pub. L. 99–198, title I, § 132, Dec. 23, 1985, 99 Stat. 1373; Pub. L. 101–624, title I, § 108, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–66, title I, § 1105(b), Aug. 10, 1993, 107 Stat. 317, provided that: “The provisions of subsection (a) [amending this section] shall become effective January 1, 1982, and shall terminate December 31, 1996.”
+Pub. L. 97–98, title I, § 101(b), Dec. 22, 1981, 95 Stat. 1219, as amended by Pub. L. 99–198, title I, § 132, Dec. 23, 1985, 99 Stat. 1373; Pub. L. 101–624, title I, § 108, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–66, title I, § 1105(b), Aug. 10, 1993, 107 Stat. 317, provided that: “The provisions of subsection (a) [amending this section] shall become effective January 1, 1982, and shall terminate December 31, 1996.”
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–279, title IV, § 401(a), May 15, 1978, 92 Stat. 242, provided that the amendment made by that section is effective Oct. 1, 1978.
+Pub. L. 95–279, title IV, § 401(a), May 15, 1978, 92 Stat. 242, provided that the amendment made by that section is effective Oct. 1, 1978.
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–196, § 2, Feb. 20, 1970, 84 Stat. 14, provided that: “The amendments made by this Act [amending this section] shall be effective only during the period beginning with the date of enactment of this Act [Feb. 20, 1970] and ending two years after such date.” The limited effective period beginning Feb. 20, 1970, and ending two years after such date for the amendments made by Pub. L. 91–196 was removed as a result of the enactment of Pub. L. 92–233, Feb. 15, 1972, 86 Stat. 39, which made amendments to the section substantively identical to those made by Pub. L. 91–196 but without a time limit on such amendments of the type which had limited the duration of such earlier Pub. L. 91–196 amendments.
+Pub. L. 91–196, § 2, Feb. 20, 1970, 84 Stat. 14, provided that: “The amendments made by this Act [amending this section] shall be effective only during the period beginning with the date of enactment of this Act [Feb. 20, 1970] and ending two years after such date.” The limited effective period beginning Feb. 20, 1970, and ending two years after such date for the amendments made by Pub. L. 91–196 was removed as a result of the enactment of Pub. L. 92–233, Feb. 15, 1972, 86 Stat. 39, which made amendments to the section substantively identical to those made by Pub. L. 91–196 but without a time limit on such amendments of the type which had limited the duration of such earlier Pub. L. 91–196 amendments.
 
 **Termination of 1970 Amendment; Savings Provision**
 
-Pub. L. 91–524, title II, § 201(e), Nov. 30, 1970, 84 Stat. 1361, as amended by Pub. L. 93–86, § 1(2)(A), Aug. 10, 1973, 87 Stat. 222; Pub. L. 95–113, title II, § 201, Sept. 29, 1977, 91 Stat. 919, provided that: “The provisions of this section [amending this section] shall not be effective after December 31, 1981, except with respect to orders providing for class I base plans issued prior to such date, but in no event shall any order so issued extend or be effective beyond December 31, 1984.”
+Pub. L. 91–524, title II, § 201(e), Nov. 30, 1970, 84 Stat. 1361, as amended by Pub. L. 93–86, § 1(2)(A), Aug. 10, 1973, 87 Stat. 222; Pub. L. 95–113, title II, § 201, Sept. 29, 1977, 91 Stat. 919, provided that: “The provisions of this section [amending this section] shall not be effective after December 31, 1981, except with respect to orders providing for class I base plans issued prior to such date, but in no event shall any order so issued extend or be effective beyond December 31, 1984.”
 
 **Termination of 1965 Amendment; Reversion of Status of Producer Handlers of Milk to Pre-Amendment Status**
 
-Pub. L. 89–321, title I, §§ 103, 104, Nov. 3, 1965, 79 Stat. 1188, as amended by Pub. L. 90–559, § 1(3), Oct. 11, 1968, 82 Stat. 996, provided that:
+Pub. L. 89–321, title I, §§ 103, 104, Nov. 3, 1965, 79 Stat. 1188, as amended by Pub. L. 90–559, § 1(3), Oct. 11, 1968, 82 Stat. 996, provided that:
 
 > **“Sec. 103.**
 
@@ -1051,11 +1051,11 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 
 **Short Title**
 
-Pub. L. 89–321, § 1, Nov. 3, 1965, 79 Stat. 1187, provided: “That this Act [enacting sections 1305, 1306, 1316, 1344b, 1379, 1446a–1, and 1838 of this title, amending this section and sections 1301, 1314b, 1332, 1333, 1334, 1335, 1339, 1339a, 1339c, 1340, 1346, 1348, 1350, 1353, 1374, 1379b, 1379c, 1379d, 1379e, 1379g, 1379i, 1423, 1427, 1428, 1444, 1445a, and 1782 of this title and section 590p of Title 16, Conservation, repealing sections 1801 to 1816, 1821 to 1824, 1831, and 1832 to 1837 of this title, enacting provisions set out as notes under this section and sections 1282, 1301, 1332, 1334, 1339, 1350, 1359, 1379b, 1379c, 1379d, 1379i, 1428, 1441, and 1445a of this title and section 590p of Title 16, and amending provisions set out as notes under sections 1339, 1379c, and 1427 of this title] may be cited as the ‘Food and Agriculture Act of 1965’.”
+Pub. L. 89–321, § 1, Nov. 3, 1965, 79 Stat. 1187, provided: “That this Act [enacting sections 1305, 1306, 1316, 1344b, 1379, 1446a–1, and 1838 of this title, amending this section and sections 1301, 1314b, 1332, 1333, 1334, 1335, 1339, 1339a, 1339c, 1340, 1346, 1348, 1350, 1353, 1374, 1379b, 1379c, 1379d, 1379e, 1379g, 1379i, 1423, 1427, 1428, 1444, 1445a, and 1782 of this title and section 590p of Title 16, Conservation, repealing sections 1801 to 1816, 1821 to 1824, 1831, and 1832 to 1837 of this title, enacting provisions set out as notes under this section and sections 1282, 1301, 1332, 1334, 1339, 1350, 1359, 1379b, 1379c, 1379d, 1379i, 1428, 1441, and 1445a of this title and section 590p of Title 16, and amending provisions set out as notes under sections 1339, 1379c, and 1427 of this title] may be cited as the ‘Food and Agriculture Act of 1965’.”
 
 **Expedited Marketing Order for Hass Avocados for Grades and Standards and Other Purposes**
 
-Pub. L. 110–234, title X, § 10108, May 22, 2008, 122 Stat. 1338, and Pub. L. 110–246, § 4(a), title X, § 10108, June 18, 2008, 122 Stat. 1664, 2099, provided that:
+Pub. L. 110–234, title X, § 10108, May 22, 2008, 122 Stat. 1338, and Pub. L. 110–246, § 4(a), title X, § 10108, June 18, 2008, 122 Stat. 1664, 2099, provided that:
 
 > **“(a) In General.—** The Secretary [of Agriculture] shall initiate procedures under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, to determine whether it would be appropriate to establish a Federal marketing order for Hass avocados relating to grades and standards and for other purposes under that Act.
 
@@ -1071,27 +1071,27 @@ Pub. L. 110–234, title X, § 10108, May 22, 2008, 122 Stat. 1338, and Pub. L
 
 **Records and Facility Requirements**
 
-Pub. L. 109–215, § 2(c), Apr. 11, 2006, 120 Stat. 330, provided that: “Notwithstanding any other provision of this section [amending this section and enacting provisions set out as notes under this section and section 601 of this title], or the amendments made by this section, a milk handler (including a producer-handler or a producer operating as a handler) that is subject to regulation under this section or an amendment made by this section shall comply with the requirements of section 1000.27 of title 7, Code of Federal Regulations, or a successor regulation, relating to handler responsibility for records or facilities.”
+Pub. L. 109–215, § 2(c), Apr. 11, 2006, 120 Stat. 330, provided that: “Notwithstanding any other provision of this section [amending this section and enacting provisions set out as notes under this section and section 601 of this title], or the amendments made by this section, a milk handler (including a producer-handler or a producer operating as a handler) that is subject to regulation under this section or an amendment made by this section shall comply with the requirements of section 1000.27 of title 7, Code of Federal Regulations, or a successor regulation, relating to handler responsibility for records or facilities.”
 
 **Minnesota-Wisconsin Price Series Reform**
 
-Pub. L. 101–624, title I, § 103, Nov. 28, 1990, 104 Stat. 3379, required the Secretary of Agriculture to consider alternative pricing formula recommendations as they related to the Minnesota-Wisconsin price series used to determine the minimum prices paid under milk marketing orders, to hold a national hearing on proposed replacements of that price series, and to report to Congress on issuance of a final decision on the hearing proposals.
+Pub. L. 101–624, title I, § 103, Nov. 28, 1990, 104 Stat. 3379, required the Secretary of Agriculture to consider alternative pricing formula recommendations as they related to the Minnesota-Wisconsin price series used to determine the minimum prices paid under milk marketing orders, to hold a national hearing on proposed replacements of that price series, and to report to Congress on issuance of a final decision on the hearing proposals.
 
 **Hearings on Federal Milk Marketing Orders**
 
-Pub. L. 101–624, title I, § 104, Nov. 28, 1990, 104 Stat. 3379, required the Secretary of Agriculture to conclude national hearings on possible changes in the pricing provisions of Federal milk marketing orders by Mar. 29, 1990, and to effect any system-wide changes in the Federal orders setting minimum prices that milk processors must pay for Grade A milk received from producers, by Jan. 1, 1992.
+Pub. L. 101–624, title I, § 104, Nov. 28, 1990, 104 Stat. 3379, required the Secretary of Agriculture to conclude national hearings on possible changes in the pricing provisions of Federal milk marketing orders by Mar. 29, 1990, and to effect any system-wide changes in the Federal orders setting minimum prices that milk processors must pay for Grade A milk received from producers, by Jan. 1, 1992.
 
 **Status of Producer Handlers**
 
-Pub. L. 101–624, title I, § 115, Nov. 28, 1990, 104 Stat. 3381, provided that: “The legal status of producer handlers of milk under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title [enacting section 1446e of this title and amending this section and sections 1446a and 4553 of this title, section 713a–14 of Title 15, Commerce and Trade, and provisions set out as notes under this section and section 1731 of this title] take effect as it was before the effective date of the amendments [see Effective Date of 1990 Amendment note set out under section 1421 of this title].”
+Pub. L. 101–624, title I, § 115, Nov. 28, 1990, 104 Stat. 3381, provided that: “The legal status of producer handlers of milk under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title [enacting section 1446e of this title and amending this section and sections 1446a and 4553 of this title, section 713a–14 of Title 15, Commerce and Trade, and provisions set out as notes under this section and section 1731 of this title] take effect as it was before the effective date of the amendments [see Effective Date of 1990 Amendment note set out under section 1421 of this title].”
 
 **Multiple Component Pricing Study**
 
-Pub. L. 101–624, title I, § 116, Nov. 28, 1990, 104 Stat. 3381, required the Secretary of Agriculture to initiate a study to determine whether, and to what extent, milkfat is being produced in the United States in excess of commercial market needs as a result of any provision of law, regulation, or order that affects the manner in which producers receive payment for milk on the basis of the milk components contained in their marketings of milk under any Federal or State milk pricing program, to report to Congress on the study not later than 180 days after Nov. 28, 1990, and to announce a hearing on multiple component pricing provisions in individual Federal milk marketing orders issued under this section.
+Pub. L. 101–624, title I, § 116, Nov. 28, 1990, 104 Stat. 3381, required the Secretary of Agriculture to initiate a study to determine whether, and to what extent, milkfat is being produced in the United States in excess of commercial market needs as a result of any provision of law, regulation, or order that affects the manner in which producers receive payment for milk on the basis of the milk components contained in their marketings of milk under any Federal or State milk pricing program, to report to Congress on the study not later than 180 days after Nov. 28, 1990, and to announce a hearing on multiple component pricing provisions in individual Federal milk marketing orders issued under this section.
 
 **Marketwide Service Payments**
 
-Pub. L. 99–260, § 9, Mar. 20, 1986, 100 Stat. 51, provided that:
+Pub. L. 99–260, § 9, Mar. 20, 1986, 100 Stat. 51, provided that:
 
 > **“(a) Hearing.—** Not later than 90 days after receipt of a proposal to amend a milk marketing order in accordance with section 8c(5)(J) of the Agricultural Adjustment Act, reenacted with amendments by the Agricultural Marketing Agreement Act of 1937 (7 U.S.C. 608c(5)(J)) (as added by section 133 of the Food Security Act of 1985), the Secretary of Agriculture shall conduct a hearing on the proposal.
 
@@ -1099,49 +1099,49 @@ Pub. L. 99–260, § 9, Mar. 20, 1986, 100 Stat. 51, provided that:
 
 **Termination of Marketing Orders**
 
-Pub. L. 99–198, title XVI, § 1662(b), Dec. 23, 1985, 99 Stat. 1631, provided that: “The Secretary of Agriculture may not terminate any marketing order under section 8c(16) of the of the [so in original] Agricultural Adjustment Act (7 U.S.C. 608c(16)), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, if such termination becomes effective before January 16, 1986.”
+Pub. L. 99–198, title XVI, § 1662(b), Dec. 23, 1985, 99 Stat. 1631, provided that: “The Secretary of Agriculture may not terminate any marketing order under section 8c(16) of the of the [so in original] Agricultural Adjustment Act (7 U.S.C. 608c(16)), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, if such termination becomes effective before January 16, 1986.”
 
 **Report to Houses of Congress Regarding Implementation of Provisions Relating to Handling of Commodities**
 
-Pub. L. 95–279, title IV, § 401(b), May 15, 1978, 92 Stat. 243, provided that, within a period of 60 days following the second anniversary of the implementation of section 401 of Pub. L. 95–279, the Secretary of Agriculture was to submit to Congress a report describing how section 401 was implemented.
+Pub. L. 95–279, title IV, § 401(b), May 15, 1978, 92 Stat. 243, provided that, within a period of 60 days following the second anniversary of the implementation of section 401 of Pub. L. 95–279, the Secretary of Agriculture was to submit to Congress a report describing how section 401 was implemented.
 
 **Retention of Status of Producer Handlers of Milk at Pre-1985 Amendment Status**
 
-Pub. L. 99–198, title I, § 134, Dec. 23, 1985, 99 Stat. 1373, provided that: “The legal status of producer handlers of milk under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title [probably means this subtitle, subtitle C (§§ 131–134) of title I of Pub. L. 99–198, amending subsec. (5) of this section and provisions set out as a note above] take effect as it was before the effective date of such amendments.”
+Pub. L. 99–198, title I, § 134, Dec. 23, 1985, 99 Stat. 1373, provided that: “The legal status of producer handlers of milk under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title [probably means this subtitle, subtitle C (§§ 131–134) of title I of Pub. L. 99–198, amending subsec. (5) of this section and provisions set out as a note above] take effect as it was before the effective date of such amendments.”
 
 **Retention of Status of Producer Handlers of Milk at Pre-1981 Amendment Status**
 
-Pub. L. 97–98, title I, § 102, Dec. 22, 1981, 95 Stat. 1219, provided that: “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937 [this chapter] shall be the same subsequent to the adoption of the amendment made by the Agriculture and Food Act of 1981 [see Tables] as it was prior thereto.”
+Pub. L. 97–98, title I, § 102, Dec. 22, 1981, 95 Stat. 1219, provided that: “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937 [this chapter] shall be the same subsequent to the adoption of the amendment made by the Agriculture and Food Act of 1981 [see Tables] as it was prior thereto.”
 
 **Retention of Status of Producer Handlers of Milk at Pre-1977 Amendment Status**
 
-Pub. L. 95–113, title II, § 202, Sept. 29, 1977, 91 Stat. 919, provided that: “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act [see Short Title note set out under section 601 of this title], as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended [act June 3, 1937, ch. 296, 50 Stat. 246, set out as a note under section 601 of this title] shall be the same subsequent to the adoption of the amendment made by the Food and Agriculture Act of 1977 [see Short Title of 1977 Amendment note set out under section 1281 of this title] as it was prior thereto.”
+Pub. L. 95–113, title II, § 202, Sept. 29, 1977, 91 Stat. 919, provided that: “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act [see Short Title note set out under section 601 of this title], as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended [act June 3, 1937, ch. 296, 50 Stat. 246, set out as a note under section 601 of this title] shall be the same subsequent to the adoption of the amendment made by the Food and Agriculture Act of 1977 [see Short Title of 1977 Amendment note set out under section 1281 of this title] as it was prior thereto.”
 
 **Retention of Status of Producer Handlers of Milk at Pre-1973 Amendment Status**
 
-Pub. L. 91–524, title II, § 206, as added by Pub. L. 93–86, § 1(6), Aug. 10, 1973, 87 Stat. 224; amended Pub. L. 93–125, § 1(a)(iii), Oct. 18, 1973, 87 Stat. 450, provided that: “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended, shall be the same subsequent to the adoption of the amendments made by the Agriculture and Consumer Protection Act of 1973 [Pub. L. 93–86, amending this section and sections 1446, 1446a, and 4553 of this title] as it was prior thereto.”
+Pub. L. 91–524, title II, § 206, as added by Pub. L. 93–86, § 1(6), Aug. 10, 1973, 87 Stat. 224; amended Pub. L. 93–125, § 1(a)(iii), Oct. 18, 1973, 87 Stat. 450, provided that: “The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended, shall be the same subsequent to the adoption of the amendments made by the Agriculture and Consumer Protection Act of 1973 [Pub. L. 93–86, amending this section and sections 1446, 1446a, and 4553 of this title] as it was prior thereto.”
 
 **Retention of Status of Producer Handlers of Milk at Pre-1970 Amendment Status**
 
-Pub. L. 91–524, title II, § 201(b), Nov. 30, 1970, 84 Stat. 1361, provided that the legal status of producer handlers of milk under the Agricultural Adjustment Act shall be the same subsequent to the adoption of the amendments made by Pub. L. 91–524 as it was prior thereto. For termination of this provision, see Termination of 1970 Amendment note above.
+Pub. L. 91–524, title II, § 201(b), Nov. 30, 1970, 84 Stat. 1361, provided that the legal status of producer handlers of milk under the Agricultural Adjustment Act shall be the same subsequent to the adoption of the amendments made by Pub. L. 91–524 as it was prior thereto. For termination of this provision, see Termination of 1970 Amendment note above.
 
 **Ratification, Legalization, Confirmation, and Extension of Class I Base Plan Provisions in Marketing Orders Issued Prior to Nov. 30, 1970**
 
-Pub. L. 91–524, title II, § 201(c), Nov. 30, 1970, 84 Stat. 1361, validated and expressly ratified, legalized, and confirmed class I base plan provisions of marketing orders previously issued by the Secretary of Agriculture. For termination of this provision, see Termination of 1970 Amendment note above.
+Pub. L. 91–524, title II, § 201(c), Nov. 30, 1970, 84 Stat. 1361, validated and expressly ratified, legalized, and confirmed class I base plan provisions of marketing orders previously issued by the Secretary of Agriculture. For termination of this provision, see Termination of 1970 Amendment note above.
 
 **Reaffirmation of Subsec. (5)(G) of This Section**
 
-Pub. L. 91–524, title II, § 201(d), Nov. 30, 1970, 84 Stat. 1361, clarified Congressional intent that subsection (5)(G) be fully reaffirmed and in no way altered, rescinded, or amended. For termination of this provision, see Termination of 1970 Amendment note above.
+Pub. L. 91–524, title II, § 201(d), Nov. 30, 1970, 84 Stat. 1361, clarified Congressional intent that subsection (5)(G) be fully reaffirmed and in no way altered, rescinded, or amended. For termination of this provision, see Termination of 1970 Amendment note above.
 
 **Validity of Section Affirmed**
 
-Act June 3, 1937, ch. 296, § 1, 50 Stat. 246, affirmed and validated, and reenacted without change the provisions of this section, except for the amendments to subsections (5)(B)(d) and (6)(B) by section 2 of the act, and the addition of subsections (18) and (19) by said section 2. See Validity of Certain Sections Affirmed note set out under section 601 of this title.
+Act June 3, 1937, ch. 296, § 1, 50 Stat. 246, affirmed and validated, and reenacted without change the provisions of this section, except for the amendments to subsections (5)(B)(d) and (6)(B) by section 2 of the act, and the addition of subsections (18) and (19) by said section 2. See Validity of Certain Sections Affirmed note set out under section 601 of this title.
 
-### § 608c–1. Repealed. June 29, 1945, ch. 196, 59 Stat. 263
+### § 608c–1. Repealed. June 29, 1945, ch. 196, 59 Stat. 263
 
-Section, acts Apr. 13, 1938, ch. 143, § 3, 52 Stat. 215; May 26, 1939, ch. 150, 53 Stat. 782; Feb. 10, 1942, ch. 52, § 1, 56 Stat. 85, related to orders applicable to hops. Section was not a part of the Agricultural Adjustment Act of 1933.
+Section, acts Apr. 13, 1938, ch. 143, § 3, 52 Stat. 215; May 26, 1939, ch. 150, 53 Stat. 782; Feb. 10, 1942, ch. 52, § 1, 56 Stat. 85, related to orders applicable to hops. Section was not a part of the Agricultural Adjustment Act of 1933.
 
-### § 608d. Books and records
+### § 608d. Books and records
 
 **(1)** All parties to any marketing agreement, and all handlers subject to an order, shall severally, from time to time, upon the request of the Secretary, furnish him with such information as he finds to be necessary to enable him to ascertain and determine the extent to which such agreement or order has been carried out or has effectuated the declared policy of this chapter and with such information as he finds to be necessary to determine whether or not there has been any abuse of the privilege of exemptions from the antitrust laws. Such information shall be furnished in accordance with forms of reports to be prescribed by the Secretary. For the purpose of ascertaining the correctness of any report made to the Secretary pursuant to this subsection, or for the purpose of obtaining the information required in any such report, where it has been requested and has not been furnished, the Secretary is authorized to examine such books, papers, records, copies of income-tax reports, accounts, correspondence, contracts, documents, or memoranda, as he deems relevant and which are within the control (1) of any such party to such marketing agreement, or any such handler, from whom such report was requested or (2) of any person having, either directly or indirectly, actual or legal control of or over such party or such handler or (3) of any subsidiary of any such party, handler, or person.
 
@@ -1157,7 +1157,7 @@ Section, acts Apr. 13, 1938, ch. 143, § 3, 52 Stat. 215; May 26, 1939, ch. 15
 
 **(D) Violations.—** Any person who violates this paragraph shall be subject to the penalties provided under section 608c(14) of this title.
 
-(May 12, 1933, ch. 25, title I, § 8d, as added Aug. 24, 1935, ch. 641, § 6, 49 Stat. 761; amended June 3, 1937, ch. 296, § 1, 50 Stat. 246; Pub. L. 99–198, title XVI, § 1663, Dec. 23, 1985, 99 Stat. 1631; Pub. L. 106–78, title VII, § 757(b), Oct. 22, 1999, 113 Stat. 1171.)
+(May 12, 1933, ch. 25, title I, § 8d, as added Aug. 24, 1935, ch. 641, § 6, 49 Stat. 761; amended June 3, 1937, ch. 296, § 1, 50 Stat. 246; Pub. L. 99–198, title XVI, § 1663, Dec. 23, 1985, 99 Stat. 1631; Pub. L. 106–78, title VII, § 757(b), Oct. 22, 1999, 113 Stat. 1171.)
 
 **Editorial Notes**
 
@@ -1169,35 +1169,35 @@ Act Aug. 24, 1935, struck out provisions of section 8(4) of act May 12, 1933, fo
 
 1999—Subsec. (3). Pub. L. 106–78 added subsec. (3).
 
-1985—Subsec. (2). Pub. L. 99–198, § 1663(1), extended confidentiality requirement to include information for marketing order programs that is categorized as trade secrets and commercial or financial information that is exempt from disclosure under section 552 of title 5.
+1985—Subsec. (2). Pub. L. 99–198, § 1663(1), extended confidentiality requirement to include information for marketing order programs that is categorized as trade secrets and commercial or financial information that is exempt from disclosure under section 552 of title 5.
 
-Pub. L. 99–198, § 1663(2), inserted provisions directing that confidential information relating to a marketing agreement or order applicable to milk may be released upon the authorization of any regulated milk handler to whom such information pertains and that the Secretary notify the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives not later than 10 legislative days before the contemplated release under law, of the names and addresses of producers participating in such marketing agreements and orders, and include in such notice a statement of reasons relied upon by the Secretary in making the determination to release such names and addresses.
+Pub. L. 99–198, § 1663(2), inserted provisions directing that confidential information relating to a marketing agreement or order applicable to milk may be released upon the authorization of any regulated milk handler to whom such information pertains and that the Secretary notify the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives not later than 10 legislative days before the contemplated release under law, of the names and addresses of producers participating in such marketing agreements and orders, and include in such notice a statement of reasons relied upon by the Secretary in making the determination to release such names and addresses.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Release of Information**
 
-Pub. L. 103–111, title VII, § 715, Oct. 21, 1993, 107 Stat. 1079, provided that: “Hereafter, none of the funds available to the Department of Agriculture may be expended to release information acquired from any handler under the Agricultural Marketing Agreement Act of 1937, as amended [see section 674 of this title]: *Provided*, That this provision shall not prohibit the release of information to other Federal agencies for enforcement purposes: *Provided further*, That this provision shall not prohibit the release of aggregate statistical data used in formulating regulations pursuant to the Agricultural Marketing Agreement Act of 1937, as amended: *Provided further*, That this provision shall not prohibit the release of information submitted by milk handlers.”
+Pub. L. 103–111, title VII, § 715, Oct. 21, 1993, 107 Stat. 1079, provided that: “Hereafter, none of the funds available to the Department of Agriculture may be expended to release information acquired from any handler under the Agricultural Marketing Agreement Act of 1937, as amended [see section 674 of this title]: *Provided*, That this provision shall not prohibit the release of information to other Federal agencies for enforcement purposes: *Provided further*, That this provision shall not prohibit the release of aggregate statistical data used in formulating regulations pursuant to the Agricultural Marketing Agreement Act of 1937, as amended: *Provided further*, That this provision shall not prohibit the release of information submitted by milk handlers.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 102–341, title VII, § 721, Aug. 14, 1992, 106 Stat. 908.
+Pub. L. 102–341, title VII, § 721, Aug. 14, 1992, 106 Stat. 908.
 
-Pub. L. 102–142, title VII, § 728, Oct. 28, 1991, 105 Stat. 914.
+Pub. L. 102–142, title VII, § 728, Oct. 28, 1991, 105 Stat. 914.
 
-Pub. L. 101–506, title VI, § 630, Nov. 5, 1990, 104 Stat. 1349.
+Pub. L. 101–506, title VI, § 630, Nov. 5, 1990, 104 Stat. 1349.
 
-Pub. L. 101–161, title VI, § 630, Nov. 21, 1989, 103 Stat. 985.
+Pub. L. 101–161, title VI, § 630, Nov. 21, 1989, 103 Stat. 985.
 
-Pub. L. 100–460, title VI, § 630, Oct. 1, 1988, 102 Stat. 2262.
+Pub. L. 100–460, title VI, § 630, Oct. 1, 1988, 102 Stat. 2262.
 
 **Validity of Section Affirmed**
 
 Act June 3, 1937, affirmed and validated, and reenacted without change the provisions of this section. See note set out under section 601 of this title.
 
-### § 608e. Repealed. July 3, 1948, ch. 827, title III, § 302(d), 62 Stat. 1258
+### § 608e. Repealed. July 3, 1948, ch. 827, title III, § 302(d), 62 Stat. 1258
 
-Section, act May 12, 1933, ch. 25, title I, § 8e, as added Aug. 24, 1935, ch. 641, § 6, 49 Stat. 762; amended June 3, 1937, ch. 296, § 1, 50 Stat. 246, related to determination of base period.
+Section, act May 12, 1933, ch. 25, title I, § 8e, as added Aug. 24, 1935, ch. 641, § 6, 49 Stat. 762; amended June 3, 1937, ch. 296, § 1, 50 Stat. 246, related to determination of base period.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1205,13 +1205,13 @@ Section, act May 12, 1933, ch. 25, title I, § 8e, as added Aug. 24, 1935, ch.
 
 Repeal effective Jan. 1, 1950, see section 303 of act July 3, 1948 set out as an Effective Date of 1948 Amendment note under section 1301 of this title.
 
-### § 608e–1. Import prohibitions on specified foreign produce
+### § 608e–1. Import prohibitions on specified foreign produce
 
 **(a) Import prohibitions on tomatoes, avocados, limes, etc.**
 
-Subject to the provisions of subsections (c) and (d) and notwithstanding any other provision of law, whenever a marketing order issued by the Secretary of Agriculture pursuant to section 608c of this title contains any terms or conditions regulating the grade, size, quality, or maturity of tomatoes, raisins, olives (other than Spanish-style green olives), prunes, avocados, mangoes, limes, grapefruit, green peppers, Irish potatoes, cucumbers, oranges, onions, walnuts, cherries, pecans, dates, filberts, table grapes, eggplants, kiwifruit, nectarines, clementines, plums, pistachios, apples, or caneberries (including raspberries, blackberries, and loganberries) produced in the United States the importation into the United States of any such commodity, other than dates for processing, during the period of time such order is in effect shall be prohibited unless it complies with the grade, size, quality, and maturity provisions of such order or comparable restrictions promulgated hereunder: *Provided*, That this prohibition shall not apply to such commodities when shipped into continental United States from the Commonwealth of Puerto Rico or any Territory or possession of the United States where this chapter has force and effect: *Provided further*, That whenever two or more such marketing orders regulating the same agricultural commodity produced in different areas of the United States are concurrently in effect, the importation into the United States of any such commodity, other than dates for processing, shall be prohibited unless it complies with the grade, size, quality, and maturity provisions of the order which, as determined by the Secretary of Agriculture, regulates the commodity produced in the area with which the imported commodity is in most direct competition. Such prohibition shall not become effective until after the giving of such notice as the Secretary of Agriculture determines reasonable, which shall not be less than three days. In determining the amount of notice that is reasonable in the case of tomatoes the Secretary of Agriculture shall give due consideration to the time required for their transportation and entry into the United States after picking. Whenever the Secretary of Agriculture finds that the application of the restrictions under a marketing order to an imported commodity is not practicable because of variations in characteristics between the domestic and imported commodity he shall establish with respect to the imported commodity, other than dates for processing, such grade, size, quality, and maturity restrictions by varieties, types, or other classifications as he finds will be equivalent or comparable to those imposed upon the domestic commodity under such order. The Secretary of Agriculture may promulgate such rules and regulations as he deems necessary, to carry out the provisions of this section. Any person who violates any provision if 1
+Subject to the provisions of subsections (c) and (d) and notwithstanding any other provision of law, whenever a marketing order issued by the Secretary of Agriculture pursuant to section 608c of this title contains any terms or conditions regulating the grade, size, quality, or maturity of tomatoes, raisins, olives (other than Spanish-style green olives), prunes, avocados, mangoes, limes, grapefruit, green peppers, Irish potatoes, cucumbers, oranges, onions, walnuts, cherries, pecans, dates, filberts, table grapes, eggplants, kiwifruit, nectarines, clementines, plums, pistachios, apples, or caneberries (including raspberries, blackberries, and loganberries) produced in the United States the importation into the United States of any such commodity, other than dates for processing, during the period of time such order is in effect shall be prohibited unless it complies with the grade, size, quality, and maturity provisions of such order or comparable restrictions promulgated hereunder: *Provided*, That this prohibition shall not apply to such commodities when shipped into continental United States from the Commonwealth of Puerto Rico or any Territory or possession of the United States where this chapter has force and effect: *Provided further*, That whenever two or more such marketing orders regulating the same agricultural commodity produced in different areas of the United States are concurrently in effect, the importation into the United States of any such commodity, other than dates for processing, shall be prohibited unless it complies with the grade, size, quality, and maturity provisions of the order which, as determined by the Secretary of Agriculture, regulates the commodity produced in the area with which the imported commodity is in most direct competition. Such prohibition shall not become effective until after the giving of such notice as the Secretary of Agriculture determines reasonable, which shall not be less than three days. In determining the amount of notice that is reasonable in the case of tomatoes the Secretary of Agriculture shall give due consideration to the time required for their transportation and entry into the United States after picking. Whenever the Secretary of Agriculture finds that the application of the restrictions under a marketing order to an imported commodity is not practicable because of variations in characteristics between the domestic and imported commodity he shall establish with respect to the imported commodity, other than dates for processing, such grade, size, quality, and maturity restrictions by varieties, types, or other classifications as he finds will be equivalent or comparable to those imposed upon the domestic commodity under such order. The Secretary of Agriculture may promulgate such rules and regulations as he deems necessary, to carry out the provisions of this section. Any person who violates any provision if 1
 
-<sup>1</sup>  So in original. Probably should be “of”.
+<sup>1</sup> So in original. Probably should be “of”.
 
 this section or of any rule, regulation, or order promulgated hereunder shall be subject to a forfeiture in the amount prescribed in section 608a(5) of this title or, upon conviction, a penalty in the amount prescribed in section 608c(14) of this title, or to both such forfeiture and penalty.
 
@@ -1249,7 +1249,7 @@ this section or of any rule, regulation, or order promulgated hereunder shall be
 
 The Secretary may proceed with the proposed prohibition or regulation if the Secretary receives the advice and concurrence of the United States Trade Representative within 60 days of the notification under subsection (c)(1).
 
-(May 12, 1933, ch. 25, title I, § 8e, as added Aug. 28, 1954, ch. 1041, title IV, § 401(e), 68 Stat. 907; amended Aug. 31, 1954, ch. 1172, § 3(a), 68 Stat. 1047; Pub. L. 87–128, title I, § 141(5), Aug. 8, 1961, 75 Stat. 305; Pub. L. 91–670, title IV, § 401, Jan. 11, 1971, 84 Stat. 2047; Pub. L. 95–113, title X, § 1006, Sept. 29, 1977, 91 Stat. 951; Pub. L. 97–312, § 2, Oct. 14, 1982, 96 Stat. 1461; Pub. L. 100–418, title IV, § 4603, Aug. 23, 1988, 102 Stat. 1407; Pub. L. 101–624, title XIII, §§ 1307, 1308, Nov. 28, 1990, 104 Stat. 3561; Pub. L. 107–171, title X, § 10601(b), May 13, 2002, 116 Stat. 511; Pub. L. 110–234, title X, § 10102, May 22, 2008, 122 Stat. 1335; Pub. L. 110–246, § 4(a), title X, § 10102, June 18, 2008, 122 Stat. 1664, 2097; Pub. L. 115–334, title XII, § 12503, Dec. 20, 2018, 132 Stat. 4987.)
+(May 12, 1933, ch. 25, title I, § 8e, as added Aug. 28, 1954, ch. 1041, title IV, § 401(e), 68 Stat. 907; amended Aug. 31, 1954, ch. 1172, § 3(a), 68 Stat. 1047; Pub. L. 87–128, title I, § 141(5), Aug. 8, 1961, 75 Stat. 305; Pub. L. 91–670, title IV, § 401, Jan. 11, 1971, 84 Stat. 2047; Pub. L. 95–113, title X, § 1006, Sept. 29, 1977, 91 Stat. 951; Pub. L. 97–312, § 2, Oct. 14, 1982, 96 Stat. 1461; Pub. L. 100–418, title IV, § 4603, Aug. 23, 1988, 102 Stat. 1407; Pub. L. 101–624, title XIII, §§ 1307, 1308, Nov. 28, 1990, 104 Stat. 3561; Pub. L. 107–171, title X, § 10601(b), May 13, 2002, 116 Stat. 511; Pub. L. 110–234, title X, § 10102, May 22, 2008, 122 Stat. 1335; Pub. L. 110–246, § 4(a), title X, § 10102, June 18, 2008, 122 Stat. 1664, 2097; Pub. L. 115–334, title XII, § 12503, Dec. 20, 2018, 132 Stat. 4987.)
 
 **Editorial Notes**
 
@@ -1261,13 +1261,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (a). Pub. L. 115–334 inserted “cherries, pecans,” after “walnuts,”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 10102, inserted “clementines,” after “nectarines,” in first sentence.
+2008—Subsec. (a). Pub. L. 110–246, § 10102, inserted “clementines,” after “nectarines,” in first sentence.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “apples, or caneberries (including raspberries, blackberries, and loganberries)” for “or apples” in first sentence.
 
-1990—Subsec. (a). Pub. L. 101–624, §§ 1307, 1308(1), substituted “Subject to the provisions of subsections (c) and (d) of this section and notwithstanding any other provision of law,” for “Notwithstanding any other provision of law,” and “eggplants, kiwifruit, nectarines, plums, pistachios, or apples” for “or eggplants”.
+1990—Subsec. (a). Pub. L. 101–624, §§ 1307, 1308(1), substituted “Subject to the provisions of subsections (c) and (d) of this section and notwithstanding any other provision of law,” for “Notwithstanding any other provision of law,” and “eggplants, kiwifruit, nectarines, plums, pistachios, or apples” for “or eggplants”.
 
-Subsecs. (c), (d). Pub. L. 101–624, § 1308(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 101–624, § 1308(2), added subsecs. (c) and (d).
 
 1988—Pub. L. 100–418 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -1293,13 +1293,13 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 **Effective Date of 1954 Amendment**
 
-Act Aug. 31, 1954, ch. 1172, § 3(b), 68 Stat. 1047, provided that: “The amendment made by this section [amending this section] shall become effective upon the enactment of this Act [Aug. 31, 1954] or upon the enactment of the Agricultural Act of 1954 [Aug. 28, 1954], whichever occurs later.”
+Act Aug. 31, 1954, ch. 1172, § 3(b), 68 Stat. 1047, provided that: “The amendment made by this section [amending this section] shall become effective upon the enactment of this Act [Aug. 31, 1954] or upon the enactment of the Agricultural Act of 1954 [Aug. 28, 1954], whichever occurs later.”
 
-### § 608f. Repealed. Pub. L. 89–106, § 9, Aug. 4, 1965, 79 Stat. 432
+### § 608f. Repealed. Pub. L. 89–106, § 9, Aug. 4, 1965, 79 Stat. 432
 
-Section, act May 12, 1933, ch. 25, title I, § 8f, formerly § 8(5), 48 Stat. 34; renumbered § 8f and amended Aug. 24, 1935, ch. 641, § 7, 49 Stat. 762; Oct. 8, 1940, ch. 759, 54 Stat. 1019, prohibited, except in specified cases, the shipment of grain from public grain warehouses to other warehouse without cancellation of warehouse receipts to avoid conflict with other laws regulating warehousemen.
+Section, act May 12, 1933, ch. 25, title I, § 8f, formerly § 8(5), 48 Stat. 34; renumbered § 8f and amended Aug. 24, 1935, ch. 641, § 7, 49 Stat. 762; Oct. 8, 1940, ch. 759, 54 Stat. 1019, prohibited, except in specified cases, the shipment of grain from public grain warehouses to other warehouse without cancellation of warehouse receipts to avoid conflict with other laws regulating warehousemen.
 
-### § 609. Processing tax; methods of computation; rate; what constitutes processing; publicity as to tax to avoid profiteering
+### § 609. Processing tax; methods of computation; rate; what constitutes processing; publicity as to tax to avoid profiteering
 
 **(a)** To obtain revenue for extraordinary expenses incurred by reason of the national economic emergency, there shall be levied processing taxes as hereinafter provided. When the Secretary of Agriculture determines that any one or more payments authorized to be made under section 608 of this title are to be made with respect to any basic agricultural commodity, he shall proclaim such determination, and a processing tax shall be in effect with respect to such commodity from the beginning of the marketing year therefor next following the date of such proclamation; except that (1) in the case of sugar beets and sugarcane, the Secretary of Agriculture shall, on or before the thirtieth day after May 9, 1934, proclaim that rental or benefit payments with respect to said commodities are to be made, and the processing tax shall be in effect on and after the thirtieth day after May 9, 1934, and (2) in the case of rice, the Secretary of Agriculture shall, before April 1, 1935, proclaim that rental or benefit payments are to be made with respect thereto, and the processing tax shall be in effect on and after April 1, 1935. In the case of sugar beets and sugarcane, the calendar year shall be considered to be the marketing year and for the year 1934 the marketing year shall begin January 1, 1934. In the case of rice, the period from August 1 to July 31, both inclusive, shall be considered to be the marketing year. The processing tax shall be levied, assessed, and collected upon the first domestic processing of the commodity, whether of domestic production or imported, and shall be paid by the processor. The rate of tax shall conform to the requirements of subsection (b). Such rate shall be determined by the Secretary of Agriculture as of the date the tax first takes effect, and the rate so determined shall, at such intervals as the Secretary finds necessary to effectuate the declared policy, be adjusted by him to conform to such requirements. The processing tax shall terminate at the end of the marketing year current at the time the Secretary proclaims that all payments authorized under section 608 of this title which are in effect are to be discontinued with respect to such commodity. The marketing year for each commodity shall be ascertained and prescribed by regulations of the Secretary of Agriculture: *Provided*, That upon any article upon which a manufacturers’ sales tax is levied under the authority of the Revenue Act of 1932 and which manufacturers’ sales tax is computed on the basis of weight, such manufacturers’ sales tax shall be computed on the basis of the weight of said finished article less the weight of the processed cotton contained therein on which a processing tax has been paid.
 
@@ -1321,9 +1321,9 @@ Section, act May 12, 1933, ch. 25, title I, § 8f, formerly § 8(5), 48 Stat
 
 **(B)** If the average farm price of any commodity, the rate of tax on the processing of which is prescribed in paragraphs (2) to (4), or (5) of this subsection or is established pursuant to this paragraph, during any period of twelve successive months ending after July 1, 1935, consisting of the first ten months of any marketing year and the last two months of the preceding marketing year—
 
-**(i)** is equal to, or exceeds by 10 per centum or less, the fair exchange value thereof 1
+**(i)** is equal to, or exceeds by 10 per centum or less, the fair exchange value thereof 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 the rate of such tax shall (subject to the provisions of subdivision (A) of this paragraph) be adjusted, at the beginning of the next succeeding marketing year, to such rate as equals 20 per centum of the fair exchange value thereof.
 
@@ -1343,9 +1343,9 @@ the rate of such tax shall (subject to the provisions of subdivision (A) of this
 
 **(7)** In the case of rice, the weight to which the rate of tax shall be applied shall be the weight of rough rice when delivered to a processor, except that, where the producer processes his own rice, the weight to which the rate of tax shall be applied shall be the weight of rough rice when delivered to the place of processing.
 
-**(8)** In the case of sugar beets or sugarcane the rate of tax shall be applied to the direct-consumption sugar, resulting from the first domestic processing, translated into terms of pounds of raw value according to regulations to be issued by the Secretary of Agriculture, and in the event that the Secretary increases or decreases the rate of tax fixed by paragraph (2) of this subsection, pursuant to the provisions of paragraph (6) of this subsection, then the rate of tax to be so applied shall be the higher of the two following quotients: The difference between the current average farm price and the fair exchange value (A) of a ton of sugar beets and (B) of a ton of sugarcane, divided in the case of each commodity by the average extraction therefrom of sugar in terms of pounds of raw value (which average extraction shall be determined from available statistics of the Department of Agriculture); the rate of tax fixed by paragraph (2) of this subsection or adjusted pursuant to the provisions of paragraph (6) of this subsection shall in no event exceed the amount of the reduction by the President on a pound of sugar raw value of the rate of duty in effect on January 1, 1934, under paragraph 501 of section 1001 2
+**(8)** In the case of sugar beets or sugarcane the rate of tax shall be applied to the direct-consumption sugar, resulting from the first domestic processing, translated into terms of pounds of raw value according to regulations to be issued by the Secretary of Agriculture, and in the event that the Secretary increases or decreases the rate of tax fixed by paragraph (2) of this subsection, pursuant to the provisions of paragraph (6) of this subsection, then the rate of tax to be so applied shall be the higher of the two following quotients: The difference between the current average farm price and the fair exchange value (A) of a ton of sugar beets and (B) of a ton of sugarcane, divided in the case of each commodity by the average extraction therefrom of sugar in terms of pounds of raw value (which average extraction shall be determined from available statistics of the Department of Agriculture); the rate of tax fixed by paragraph (2) of this subsection or adjusted pursuant to the provisions of paragraph (6) of this subsection shall in no event exceed the amount of the reduction by the President on a pound of sugar raw value of the rate of duty in effect on January 1, 1934, under paragraph 501 of section 1001 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 19, as adjusted to the treaty of commercial reciprocity concluded between the United States and the Republic of Cuba on December 11, 1902, and/or the provisions of sections 124 and 125 of title 19.
 
@@ -1361,9 +1361,9 @@ of title 19, as adjusted to the treaty of commercial reciprocity concluded betwe
 
 **(3)** In case of tobacco, the term “processing” means the manufacturing or other processing (except drying or converting into insecticides and fertilizers) of tobacco.
 
-**(4)** Repealed. June 26, 1934, ch. 759, § 2(a), 48 Stat. 1242.
+**(4)** Repealed. June 26, 1934, ch. 759, § 2(a), 48 Stat. 1242.
 
-**(5)** Repealed. Aug. 24, 1935, ch. 641, § 14(b), 49 Stat. 767.
+**(5)** Repealed. Aug. 24, 1935, ch. 641, § 14(b), 49 Stat. 767.
 
 **(6)** In the case of sugar beets and sugarcane—
 
@@ -1399,7 +1399,7 @@ of title 19, as adjusted to the treaty of commercial reciprocity concluded betwe
 
 **(g)** Nothing contained in this chapter shall be construed to authorize any tax upon the processing of any commodity which processing results in the production of newsprint.
 
-(May 12, 1933, ch. 25, title I, § 9, 48 Stat. 35; Apr. 7, 1934, ch. 103, § 3(a), 48 Stat. 528; May 9, 1934, ch. 263, §§ 2, 3, 5, 6, 9, 48 Stat. 670, 671, 675, 676; June 26, 1934, ch. 759, § 2, 48 Stat. 1242; Mar. 18, 1935, ch. 32, §§ 1–6, 49 Stat. 45, 46; Aug. 24, 1935, ch. 641, §§ 11–15, 49 Stat. 762–767; Pub. L. 108–357, title VI, § 611(d), Oct. 22, 2004, 118 Stat. 1522.)
+(May 12, 1933, ch. 25, title I, § 9, 48 Stat. 35; Apr. 7, 1934, ch. 103, § 3(a), 48 Stat. 528; May 9, 1934, ch. 263, §§ 2, 3, 5, 6, 9, 48 Stat. 670, 671, 675, 676; June 26, 1934, ch. 759, § 2, 48 Stat. 1242; Mar. 18, 1935, ch. 32, §§ 1–6, 49 Stat. 45, 46; Aug. 24, 1935, ch. 641, §§ 11–15, 49 Stat. 762–767; Pub. L. 108–357, title VI, § 611(d), Oct. 22, 2004, 118 Stat. 1522.)
 
 **Editorial Notes**
 
@@ -1407,7 +1407,7 @@ of title 19, as adjusted to the treaty of commercial reciprocity concluded betwe
 
 The Revenue Act of 1932, referred to in subsec. (a), is act June 6, 1932, ch. 209, 47 Stat. 169. For complete classification of the Act to the Code, see Tables.
 
-Section 1001 of title 19, referred to in subsec. (b)(8), was repealed by Pub. L. 87–456, title I, § 101(a), May 24, 1962, 76 Stat. 72. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+Section 1001 of title 19, referred to in subsec. (b)(8), was repealed by Pub. L. 87–456, title I, § 101(a), May 24, 1962, 76 Stat. 72. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 The treaty of commercial reciprocity concluded between the United States and Cuba on December 11, 1902, referred to in subsec. (b)(8), was terminated Aug. 21, 1963, pursuant to notice given by the United States on Aug. 21, 1962. See, Bevans, *Treaties and Other International Agreements of the United States of America, 1776–1949*, vol. VI, page 1106.
 
@@ -1417,39 +1417,39 @@ Phrase “this amendment” in subsec. (c) refers to amendments by act Aug. 24, 
 
 **Amendments**
 
-2004—Subsec. (b)(2). Pub. L. 108–357, § 611(d)(1), struck out “tobacco,” after “peanuts,”.
+2004—Subsec. (b)(2). Pub. L. 108–357, § 611(d)(1), struck out “tobacco,” after “peanuts,”.
 
-Subsec. (b)(6)(B)(i). Pub. L. 108–357, § 611(d)(2), struck out “, or, in the case of tobacco, is less than the fair exchange value by not more than 10 per centum,” before “the rate of such tax”.
+Subsec. (b)(6)(B)(i). Pub. L. 108–357, § 611(d)(2), struck out “, or, in the case of tobacco, is less than the fair exchange value by not more than 10 per centum,” before “the rate of such tax”.
 
-1935—Subsec. (a). Act Aug. 24, 1935, § 11, struck out second sentence preceding semicolon and inserted in lieu thereof “When the Secretary of Agriculture determines that any one or more payments authorized to be made under section 608 of this title are to be made with respect to any basic agricultural commodity, he shall proclaim such determination, and a processing tax shall be in effect with respect to such commodity from the beginning of the marketing year therefor next following the date of such proclamation.”
+1935—Subsec. (a). Act Aug. 24, 1935, § 11, struck out second sentence preceding semicolon and inserted in lieu thereof “When the Secretary of Agriculture determines that any one or more payments authorized to be made under section 608 of this title are to be made with respect to any basic agricultural commodity, he shall proclaim such determination, and a processing tax shall be in effect with respect to such commodity from the beginning of the marketing year therefor next following the date of such proclamation.”
 
-Act Mar. 18, 1935, §§ 1, 2, struck out comma after “except that” in second sentence and inserted in lieu thereof “(i)”, and inserted “and (2) in the case of rice, the Secretary of Agriculture shall, before April 1, 1935, proclaim that rental or benefit payments are to be made with respect thereto, and the processing tax shall be in effect on and after April 1, 1935”.
+Act Mar. 18, 1935, §§ 1, 2, struck out comma after “except that” in second sentence and inserted in lieu thereof “(i)”, and inserted “and (2) in the case of rice, the Secretary of Agriculture shall, before April 1, 1935, proclaim that rental or benefit payments are to be made with respect thereto, and the processing tax shall be in effect on and after April 1, 1935”.
 
-Subsec. (b). Act Aug. 24, 1935, § 12, amended subsec. (b) generally.
+Subsec. (b). Act Aug. 24, 1935, § 12, amended subsec. (b) generally.
 
-Act Mar. 18, 1935, §§ 3, 4, among other changes inserted “In the case of rice, the weight to which the rate of tax shall be applied shall be the weight of rough rice when delivered to a processor, except that where the producer processes his own rice, the weight to which the rate of tax shall be applied shall be the weight of rough rice when delivered to the place of processing.”
+Act Mar. 18, 1935, §§ 3, 4, among other changes inserted “In the case of rice, the weight to which the rate of tax shall be applied shall be the weight of rough rice when delivered to a processor, except that where the producer processes his own rice, the weight to which the rate of tax shall be applied shall be the weight of rough rice when delivered to the place of processing.”
 
-Subsec. (c). Act Aug. 24, 1935, § 13, among other changes inserted “The rate of tax upon the processing of any commodity, in effect on August 24, 1935, shall not be affected by the adoption of this amendment and shall not be required to be adjusted or altered, unless the Secretary of Agriculture finds that it is necessary to adjust or alter any such rate pursuant to subsection (a) of this section.”
+Subsec. (c). Act Aug. 24, 1935, § 13, among other changes inserted “The rate of tax upon the processing of any commodity, in effect on August 24, 1935, shall not be affected by the adoption of this amendment and shall not be required to be adjusted or altered, unless the Secretary of Agriculture finds that it is necessary to adjust or alter any such rate pursuant to subsection (a) of this section.”
 
-Subsec. (d). Act Aug. 24, 1935, § 14, inserted “, rye, barley” after “wheat” wherever appearing and struck out par. (5).
+Subsec. (d). Act Aug. 24, 1935, § 14, inserted “, rye, barley” after “wheat” wherever appearing and struck out par. (5).
 
-Act Mar. 18, 1935, §§ 5, 6, struck out “, rice,” in two places in par. (1), added par. (7), and renumbered former par. (7) as (8).
+Act Mar. 18, 1935, §§ 5, 6, struck out “, rice,” in two places in par. (1), added par. (7), and renumbered former par. (7) as (8).
 
-Subsec. (g). Act Aug. 24, 1935, § 15, added subsec. (g).
+Subsec. (g). Act Aug. 24, 1935, § 15, added subsec. (g).
 
-1934—Subsec. (a). Act May 9, 1934, § 9, struck out the period after “proclamation” and inserted in lieu thereof “; except that, in the case of sugar beets and sugarcane, the Secretary of Agriculture shall, on or before the thirtieth day after May 9, 1934, proclaim that rental or benefit payments with respect to said commodities are to be made, and the processing tax shall be in effect on and after the thirtieth day after May 9, 1934. In the case of sugar beets and sugarcane, the calendar year shall be considered to be the marketing year and for the year 1934 the marketing year shall begin January 1, 1934.”
+1934—Subsec. (a). Act May 9, 1934, § 9, struck out the period after “proclamation” and inserted in lieu thereof “; except that, in the case of sugar beets and sugarcane, the Secretary of Agriculture shall, on or before the thirtieth day after May 9, 1934, proclaim that rental or benefit payments with respect to said commodities are to be made, and the processing tax shall be in effect on and after the thirtieth day after May 9, 1934. In the case of sugar beets and sugarcane, the calendar year shall be considered to be the marketing year and for the year 1934 the marketing year shall begin January 1, 1934.”
 
-Subsec. (b). Act May 9, 1934, § 3, among other changes amended first two sentences and inserted “In the case of sugar beets or sugarcane the rate of tax shall be applied to the direct-consumption sugar, resulting from the first domestic processing, translated into terms of pounds of raw value according to regulations to be issued by the Secretary of Agriculture, and the rate of tax to be so applied shall be the higher of the two following quotients: The difference between the current average farm price and the fair exchange value (1) of a ton of sugar beets and (2) of a ton of sugarcane, divided in the case of each commodity by the average extraction therefrom of sugar in terms of pounds of raw value (which average extraction shall be determined from available statistics of the Department of Agriculture); except that such rate shall not exceed the amount of the reduction by the President on a pound of sugar raw value of the rate of duty in effect on January 1, 1934, under paragraph 501 of section 1001 of Title 19, as adjusted to the treaty of commercial reciprocity concluded between the United States and the Republic of Cuba on December 11, 1902, and/or the provisions of sections 124 and 125 of Title 19.”
+Subsec. (b). Act May 9, 1934, § 3, among other changes amended first two sentences and inserted “In the case of sugar beets or sugarcane the rate of tax shall be applied to the direct-consumption sugar, resulting from the first domestic processing, translated into terms of pounds of raw value according to regulations to be issued by the Secretary of Agriculture, and the rate of tax to be so applied shall be the higher of the two following quotients: The difference between the current average farm price and the fair exchange value (1) of a ton of sugar beets and (2) of a ton of sugarcane, divided in the case of each commodity by the average extraction therefrom of sugar in terms of pounds of raw value (which average extraction shall be determined from available statistics of the Department of Agriculture); except that such rate shall not exceed the amount of the reduction by the President on a pound of sugar raw value of the rate of duty in effect on January 1, 1934, under paragraph 501 of section 1001 of Title 19, as adjusted to the treaty of commercial reciprocity concluded between the United States and the Republic of Cuba on December 11, 1902, and/or the provisions of sections 124 and 125 of Title 19.”
 
-Subsec. (d). Act June 26, 1934, § 2(a), struck out par. (4).
+Subsec. (d). Act June 26, 1934, § 2(a), struck out par. (4).
 
-Act June 26, 1934, § 2(b), amended par. (7).
+Act June 26, 1934, § 2(b), amended par. (7).
 
-Act May 9, 1934, §§ 2, 5, amended par. (6) generally and renumbered former par. (6) as (7).
+Act May 9, 1934, §§ 2, 5, amended par. (6) generally and renumbered former par. (6) as (7).
 
 Act Apr. 7, 1934, added par. (5) and renumbered former par. (5) as (6).
 
-Subsec. (f). Act May 9, 1934, § 6, added subsec. (f).
+Subsec. (f). Act May 9, 1934, § 6, added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1469,7 +1469,7 @@ This section may be obsolete in view of the Supreme Court’s holding that the p
 
 Validity of remainder of this chapter as not affected should any of those provisions be declared unconstitutional, see section 614 of this title.
 
-### § 610. Administration
+### § 610. Administration
 
 **(a) Appointment of officers and employees; impounding appropriations**
 
@@ -1519,21 +1519,21 @@ The Secretary of Agriculture upon the request of the duly constituted authoritie
 
 The term “interstate or foreign commerce” means commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession, or the District of Columbia. For the purpose of this chapter (but in nowise limiting the foregoing definition) a marketing transaction in respect to an agricultural commodity or the product thereof shall be considered in interstate or foreign commerce if such commodity or product is part of that current of interstate or foreign commerce usual in the handling of the commodity or product whereby they, or either of them, are sent from one State to end their transit, after purchase, in another, including all cases where purchase or sale is either for shipment to another State or for the processing within the State and the shipment outside the State of the products so processed. Agricultural commodities or products thereof normally in such current of interstate or foreign commerce shall not be considered out of such current through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of said sections. As used herein, the word “State” includes Territory, the District of Columbia, possession of the United States, and foreign nations.
 
-(May 12, 1933, ch. 25, title I, § 10, 48 Stat. 37; June 16, 1933, ch. 98, title VIII, § 86, 48 Stat. 273; May 9, 1934, ch. 263, § 7, 48 Stat. 675; Aug. 24, 1935, ch. 641, §§ 16–18, 49 Stat. 767; Aug. 26, 1935, ch. 685, 49 Stat. 801; June 22, 1936, ch. 690, § 601(a), 49 Stat. 1739; June 3, 1937, ch. 296, §§ 1, 2(g)–(i), 50 Stat. 246, 248; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7817, 60 Stat. 1352; Aug. 1, 1947, ch. 425, § 3, 61 Stat. 709; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
+(May 12, 1933, ch. 25, title I, § 10, 48 Stat. 37; June 16, 1933, ch. 98, title VIII, § 86, 48 Stat. 273; May 9, 1934, ch. 263, § 7, 48 Stat. 675; Aug. 24, 1935, ch. 641, §§ 16–18, 49 Stat. 767; Aug. 26, 1935, ch. 685, 49 Stat. 801; June 22, 1936, ch. 690, § 601(a), 49 Stat. 1739; June 3, 1937, ch. 296, §§ 1, 2(g)–(i), 50 Stat. 246, 248; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7817, 60 Stat. 1352; Aug. 1, 1947, ch. 425, § 3, 61 Stat. 709; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 8 of title II of the Act entitled “An Act to maintain the credit of the United States Government,”, referred to in subsec. (a), means act Mar. 20, 1933, ch. 3, title II, § 8, 48 Stat. 15, which is not classified to the Code.
+Section 8 of title II of the Act entitled “An Act to maintain the credit of the United States Government,”, referred to in subsec. (a), means act Mar. 20, 1933, ch. 3, title II, § 8, 48 Stat. 15, which is not classified to the Code.
 
 For definition of Canal Zone, referred to in subsec. (f), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 **Codification**
 
-In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-Provisions of subsec. (a), which authorized appointment of officers and employees without regard to the civil-service laws and regulations and which limited the maximum salary payable to any officer or employee to not more than $10,000 per annum, were omitted from the Code as obsolete and superseded. Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to act Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5.
+Provisions of subsec. (a), which authorized appointment of officers and employees without regard to the civil-service laws and regulations and which limited the maximum salary payable to any officer or employee to not more than $10,000 per annum, were omitted from the Code as obsolete and superseded. Such appointments are now subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to act Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5.
 
 The salary limitation was superseded by the Classification Act of 1949.
 
@@ -1545,23 +1545,23 @@ References to the Philippine Islands in subsec. (f) of this section were omitted
 
 1947—Subsec. (b)(2). Act Aug. 1, 1947, among other changes inserted subpar. (i), designated former first and second sentences of subsection as subpar. (ii) and inserted last sentence relating to the payment of assessments for the maintenance and functioning of such authority thereto, and designated former third and fourth sentences of subsection as subpar. (iii).
 
-1937—Subsec. (c). Act June 3, 1937, § 2(g), struck out last clause of first sentence which related to regulations establishing conversion factors for any commodity and article processed therefrom to determine the amount of tax imposed or refunds to be made with respect thereto.
+1937—Subsec. (c). Act June 3, 1937, § 2(g), struck out last clause of first sentence which related to regulations establishing conversion factors for any commodity and article processed therefrom to determine the amount of tax imposed or refunds to be made with respect thereto.
 
-Subsec. (f). Act June 3, 1937, § 2(b), struck out sentence which authorized the President to attach by executive order any or all possessions to any internal-revenue district for the purpose of carrying out provisions with respect to the collection of taxes.
+Subsec. (f). Act June 3, 1937, § 2(b), struck out sentence which authorized the President to attach by executive order any or all possessions to any internal-revenue district for the purpose of carrying out provisions with respect to the collection of taxes.
 
-Subsec. (j). Act June 3, 1937, § 2(i), added subsec. (j).
+Subsec. (j). Act June 3, 1937, § 2(i), added subsec. (j).
 
 1936—Subsec. (d). Act June 22, 1936, reenacted subsec. (d) for refund purposes.
 
-1935—Subsec. (b). Act Aug. 24, 1935, § 16, among other changes inserted “The Secretary, in the administration of this chapter, shall accord such recognition and encouragement to producer-owned and producer-controlled cooperative associations as will be in harmony with the policy toward cooperative associations set forth in existing Acts of Congress, and as will tend to promote efficient methods of marketing and distribution.
+1935—Subsec. (b). Act Aug. 24, 1935, § 16, among other changes inserted “The Secretary, in the administration of this chapter, shall accord such recognition and encouragement to producer-owned and producer-controlled cooperative associations as will be in harmony with the policy toward cooperative associations set forth in existing Acts of Congress, and as will tend to promote efficient methods of marketing and distribution.
 
 “(2) Each order issued by the Secretary under this chapter shall provide that each handler subject thereto shall pay to any authority or agency established under such order such handler’s pro rata share (as approved by the Secretary) of such expenses as the Secretary may find will necessarily be incurred by such authority or agency, during any period specified by him, for the maintenance and functioning of such authority or agency, other than expenses incurred in receiving, handling, holding, or disposing of any quantity of a commodity received, handled, held, or disposed of by such authority or agency for the benefit or account of persons other than handlers subject to such order. The pro rata share of the expenses payable by a cooperative association of producers shall be computed on the basis of the quantity of the agricultural commodity or product thereof covered by such order which is distributed, processed, or shipped by such cooperative association of producers. Any such authority or agency may maintain in its own name, or in the names of its members, a suit against any handler subject to an order for the collection of such handler’s pro rata share of expenses. The several District Courts of the United States are hereby vested with jurisdiction to entertain such suits regardless of the amount in controversy.”
 
-Subsec. (e). Act Aug. 24, 1935, § 17, struck out “rental or benefit payment” and inserted in lieu thereof “payment authorized to be made under section 8”.
+Subsec. (e). Act Aug. 24, 1935, § 17, struck out “rental or benefit payment” and inserted in lieu thereof “payment authorized to be made under section 8”.
 
 Subsec. (f). Act Aug. 26, 1935, inserted sentence authorizing the President to attach by executive order any or all possessions to any internal-revenue district for the purpose of carrying out provisions with respect to the collection of taxes.
 
-Subsec. (i). Act Aug. 24, 1935, § 18, added subsec. (i).
+Subsec. (i). Act Aug. 24, 1935, § 18, added subsec. (i).
 
 1934—Subsec. (f). Act May 9, 1934, inserted exception provision.
 
@@ -1571,25 +1571,25 @@ Subsec. (i). Act Aug. 24, 1935, § 18, added subsec. (i).
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 **Validity of Section Affirmed**
 
-Act June 3, 1937, § 1, affirmed, validated, and reenacted without change the provisions of subsecs. (a), (b) (2), (c), and (f) to (i) of this section, except for the amendments to subsecs. (c) and (f) by section 2 of the act. See note set out under section 601 of this title.
+Act June 3, 1937, § 1, affirmed, validated, and reenacted without change the provisions of subsecs. (a), (b) (2), (c), and (f) to (i) of this section, except for the amendments to subsecs. (c) and (f) by section 2 of the act. See note set out under section 601 of this title.
 
 **Appropriations for Refunds and Payments of Processing and Related Taxes and Limitations Thereon**
 
-Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, § 1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, § 1, 54 Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, § 1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, § 1, 56 Stat. 156; June 30, 1943, ch. 179, title I, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, § 1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
+Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, § 1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, § 1, 54 Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, § 1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, § 1, 56 Stat. 156; June 30, 1943, ch. 179, title I, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, § 1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of Commission by 1950 Reorg. Plan No. 8, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
+Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of Commission by 1950 Reorg. Plan No. 8, § 1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out in the Appendix to Title 5, Government Organization and Employees.
 
-1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, transferred functions of Agricultural Adjustment Administration to Secretary of Agriculture. In his letter to Congress, the President stated that purpose of this transfer was to permit Secretary of Agriculture to continue consolidation already effected in Production and Marketing Administration. By temporary Executive Orders 9069 and 9577, and Ex. Ord. No. 9280, Dec. 5, 1942, 7 F.R. 10, 179, and Ex. Ord. No. 9322, Mar. 26, 1943, 8 F.R. 3807, as amended by Ex. Ord. No. 9334, Apr. 19, 1943, 8 F.R. 5423, the Agricultural Adjustment Administration had been successively consolidated into Agricultural Conservation and Adjustment Administration, Food Production Administration, and War Food Administration, which was terminated and its functions transferred to Secretary of Agriculture by said Ex. Ord. 9577. Secretary of Agriculture consolidated functions of Agricultural Adjustment Administration into Production and Marketing Administration by Memorandum 1118, Aug. 18, 1945.
+1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, transferred functions of Agricultural Adjustment Administration to Secretary of Agriculture. In his letter to Congress, the President stated that purpose of this transfer was to permit Secretary of Agriculture to continue consolidation already effected in Production and Marketing Administration. By temporary Executive Orders 9069 and 9577, and Ex. Ord. No. 9280, Dec. 5, 1942, 7 F.R. 10, 179, and Ex. Ord. No. 9322, Mar. 26, 1943, 8 F.R. 3807, as amended by Ex. Ord. No. 9334, Apr. 19, 1943, 8 F.R. 5423, the Agricultural Adjustment Administration had been successively consolidated into Agricultural Conservation and Adjustment Administration, Food Production Administration, and War Food Administration, which was terminated and its functions transferred to Secretary of Agriculture by said Ex. Ord. 9577. Secretary of Agriculture consolidated functions of Agricultural Adjustment Administration into Production and Marketing Administration by Memorandum 1118, Aug. 18, 1945.
 
 **Ex. Ord. No. 10199. Regulations Without Approval of President**
 
@@ -1599,23 +1599,23 @@ By virtue of the authority vested in me by the act of August 8, 1950, Public Law
 
 Harry S Truman.
 
-### § 611. “Basic agricultural commodity” defined; exclusion of commodities
+### § 611. “Basic agricultural commodity” defined; exclusion of commodities
 
 As used in this chapter, the term “basic agricultural commodity” means wheat, rye, flax, barley, cotton, field corn, grain sorghums, hogs, cattle, rice, potatoes, tobacco, sugar beets and sugarcane, peanuts, and milk and its products, and any regional or market classification, type, or grade thereof; but the Secretary of Agriculture shall exclude from the operation of the provisions of this chapter, during any period, any such commodity or classification, type, or grade thereof if he finds, upon investigation at any time and after due notice and opportunity for hearing to interested parties, that the conditions of production, marketing, and consumption are such that during such period this chapter can not be effectively administered to the end of effectuating the declared policy with respect to such commodity or classification, type, or grade thereof. As used in this chapter, the term “potatoes” means all varieties of potatoes included in the species Solanum tuberosum.
 
-(May 12, 1933, ch. 25, title I, § 11, 48 Stat. 38; Apr. 7, 1934, ch. 103, §§ 1, 3(b), 4, 5, 48 Stat. 528; May 9, 1934, ch. 263, § 1, 48 Stat. 670; Aug. 24, 1935, ch. 641, § 61, 49 Stat. 782.)
+(May 12, 1933, ch. 25, title I, § 11, 48 Stat. 38; Apr. 7, 1934, ch. 103, §§ 1, 3(b), 4, 5, 48 Stat. 528; May 9, 1934, ch. 263, § 1, 48 Stat. 670; Aug. 24, 1935, ch. 641, § 61, 49 Stat. 782.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1935—Act Aug. 24, 1935, inserted “, potatoes” after “rice” and last sentence defining potatoes.
+1935—Act Aug. 24, 1935, inserted “, potatoes” after “rice” and last sentence defining potatoes.
 
-1934—Act May 9, 1934, inserted “, sugar beets and sugarcane” after “tobacco”.
+1934—Act May 9, 1934, inserted “, sugar beets and sugarcane” after “tobacco”.
 
-Act Apr. 7, 1934, inserted “, cattle” after “hogs”, “, peanuts” after “tobacco”, “, rye, flax, barley” after “wheat”, and “, grain sorghums” after “field corn”.
+Act Apr. 7, 1934, inserted “, cattle” after “hogs”, “, peanuts” after “tobacco”, “, rye, flax, barley” after “wheat”, and “, grain sorghums” after “field corn”.
 
-### § 612. Appropriation; use of revenues; administrative expenses
+### § 612. Appropriation; use of revenues; administrative expenses
 
 **(a)** There is appropriated, out of any money in the Treasury not otherwise appropriated, the sum of $100,000,000 to be available to the Secretary of Agriculture for administrative expenses under this chapter, and for payments authorized to be made under section 608 of this title. Such sum shall remain available until expended.
 
@@ -1625,17 +1625,17 @@ To enable the Secretary of Agriculture to finance under such terms and condition
 
 **(c)** The administrative expenses provided for under this section shall include, among others, expenditures for personal services and rent in the District of Columbia and elsewhere, for law books and books of reference, for contract stenographic reporting services, and for printing and paper in addition to allotments under the existing law. The Secretary of Agriculture shall transfer to the Treasury Department, and is authorized to transfer to other agencies, out of funds available for administrative expenses under this chapter, such sums as are required to pay administrative expenses incurred and refunds made by such department or agencies in the administration of this chapter.
 
-(May 12, 1933, ch. 25, title I, § 12, 48 Stat. 38; Apr. 7, 1934, ch. 103, § 2, 48 Stat. 528; Aug. 24, 1935, ch. 641, §§ 3, 19, 49 Stat. 753, 768; June 3, 1937, ch. 296, §§ 1, 2(j), 50 Stat. 246, 248.)
+(May 12, 1933, ch. 25, title I, § 12, 48 Stat. 38; Apr. 7, 1934, ch. 103, § 2, 48 Stat. 528; Aug. 24, 1935, ch. 641, §§ 3, 19, 49 Stat. 753, 768; June 3, 1937, ch. 296, §§ 1, 2(j), 50 Stat. 246, 248.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1937—Subsec. (a). Act June 3, 1937, § 2(j), struck out “and production adjustments” after “surplus reductions” in second par.
+1937—Subsec. (a). Act June 3, 1937, § 2(j), struck out “and production adjustments” after “surplus reductions” in second par.
 
-1935—Subsec. (a). Act Aug. 24, 1935, § 19, substituted “payments authorized to be made under section 608” for “rental and benefit payments made with respect to reduction in acreage or reduction in production for market under part 2 of this title”.
+1935—Subsec. (a). Act Aug. 24, 1935, § 19, substituted “payments authorized to be made under section 608” for “rental and benefit payments made with respect to reduction in acreage or reduction in production for market under part 2 of this title”.
 
-Subsec. (b). Act Aug. 24, 1935, § 3, amended subsec. (b) generally.
+Subsec. (b). Act Aug. 24, 1935, § 3, amended subsec. (b) generally.
 
 1934—Subsec. (a). Act Apr. 7, 1934, added second par.
 
@@ -1643,11 +1643,11 @@ Subsec. (b). Act Aug. 24, 1935, § 3, amended subsec. (b) generally.
 
 **Validity of Section Affirmed**
 
-Act June 3, 1937, § 1, affirmed and validated, and reenacted without change the provisions of subsecs. (a) and (c) of this section, except for the amendment to subsec. (a) by section 2 of the act. See note set out under section 601 of this title.
+Act June 3, 1937, § 1, affirmed and validated, and reenacted without change the provisions of subsecs. (a) and (c) of this section, except for the amendment to subsec. (a) by section 2 of the act. See note set out under section 601 of this title.
 
 **Settlement of Certain Claims and Accounts**
 
-Act June 5, 1942, ch. 349, §§ 2, 3, 56 Stat. 324, authorized Comptroller General to relieve disbursing and certifying officers from liability for payments made prior to January 6, 1936, under Agricultural Adjustment Act of 1933 or amendments thereto [this chapter] or under the appropriation “Payments for Agricultural Adjustment” in act Feb. 11, 1936, ch. 49, 49 Stat. 1116, upon certificate of Secretary of Agriculture that such payments were made in good faith, and also provided that no action should be taken to recover such excess payments, if the Secretary of Agriculture should further certify that in view of the good faith of the parties or other circumstances of the case, such attempt to recover them would be inadvisable or inequitable.
+Act June 5, 1942, ch. 349, §§ 2, 3, 56 Stat. 324, authorized Comptroller General to relieve disbursing and certifying officers from liability for payments made prior to January 6, 1936, under Agricultural Adjustment Act of 1933 or amendments thereto [this chapter] or under the appropriation “Payments for Agricultural Adjustment” in act Feb. 11, 1936, ch. 49, 49 Stat. 1116, upon certificate of Secretary of Agriculture that such payments were made in good faith, and also provided that no action should be taken to recover such excess payments, if the Secretary of Agriculture should further certify that in view of the good faith of the parties or other circumstances of the case, such attempt to recover them would be inadvisable or inequitable.
 
 **Executive Documents**
 
@@ -1671,31 +1671,31 @@ The Secretary of Agriculture shall take immediate steps to expand and improve th
 
 John F. Kennedy.
 
-### §§ 612a, 612b. Omitted
+### §§ 612a, 612b. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 612a, act Apr. 7, 1934, ch. 103, § 6, 48 Stat. 528; 1940 Reorg. Plan No. III, § 5, 5 F.R. 2108, 54 Stat. 1232, authorized appropriation of $50,000,000 for purpose of dairy and beef products for distribution for relief purposes, and for elimination of diseased cattle.
+Section 612a, act Apr. 7, 1934, ch. 103, § 6, 48 Stat. 528; 1940 Reorg. Plan No. III, § 5, 5 F.R. 2108, 54 Stat. 1232, authorized appropriation of $50,000,000 for purpose of dairy and beef products for distribution for relief purposes, and for elimination of diseased cattle.
 
-Section 612b, act Aug. 24, 1935, ch. 641, § 37, 49 Stat. 775, provided appropriations for elimination of disease in dairy and beef cattle to remain available until June 30, 1936.
+Section 612b, act Aug. 24, 1935, ch. 641, § 37, 49 Stat. 775, provided appropriations for elimination of disease in dairy and beef cattle to remain available until June 30, 1936.
 
-### § 612c. Appropriation to encourage exportation and domestic consumption of agricultural products
+### § 612c. Appropriation to encourage exportation and domestic consumption of agricultural products
 
-There is appropriated for each fiscal year beginning with the fiscal year ending June 30, 1936 an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws during the period January 1 to December 31, both inclusive, preceding the beginning of each such fiscal year. Such sums shall be maintained in a separate fund and shall be used by the Secretary of Agriculture only to (1) encourage the exportation of agricultural commodities and products thereof by the payment of benefits in connection with the exportation thereof or of indemnities for losses incurred in connection with such exportation or by payments to producers in connection with the production of that part of any agricultural commodity required for domestic consumption; (2) encourage the domestic consumption of such commodities or products by diverting them, by the payment of benefits or indemnities or by other means, from the normal channels of trade and commerce or by increasing their utilization through benefits, indemnities, donations or by other means, among persons in low income groups as determined by the Secretary of Agriculture; and (3) reestablish farmers’ purchasing power by making payments in connection with the normal production of any agricultural commodity for domestic consumption. Determinations by the Secretary as to what constitutes diversion and what constitutes normal channels of trade and commerce and what constitutes normal production for domestic consumption shall be final. The sums appropriated under this section shall be expended for such one or more of the above-specified purposes, and at such times, in such manner, and in such amounts as the Secretary of Agriculture finds will effectuate substantial accomplishment of any one or more of the purposes of this section. Notwithstanding any other provision of this section, the amount that may be devoted, during any fiscal year after June 30, 1939, to any one agricultural commodity or the products thereof in such fiscal year, shall not exceed 25 per centum of the funds available under this section for such fiscal year. The sums appropriated under this section shall be devoted principally to perishable nonbasic agricultural commodities (other than those receiving price support under section 1446 of this title) and their products. The sums appropriated under this section shall, notwithstanding the provisions of any other law, continue to remain available for the purposes of this section until expended; but any excess of the amount remaining unexpended at the end of any fiscal year over $500,000,000 shall, in the same manner as though it had been appropriated for the service of such fiscal year, be subject to the provisions of section 3690 1
+There is appropriated for each fiscal year beginning with the fiscal year ending June 30, 1936 an amount equal to 30 per centum of the gross receipts from duties collected under the customs laws during the period January 1 to December 31, both inclusive, preceding the beginning of each such fiscal year. Such sums shall be maintained in a separate fund and shall be used by the Secretary of Agriculture only to (1) encourage the exportation of agricultural commodities and products thereof by the payment of benefits in connection with the exportation thereof or of indemnities for losses incurred in connection with such exportation or by payments to producers in connection with the production of that part of any agricultural commodity required for domestic consumption; (2) encourage the domestic consumption of such commodities or products by diverting them, by the payment of benefits or indemnities or by other means, from the normal channels of trade and commerce or by increasing their utilization through benefits, indemnities, donations or by other means, among persons in low income groups as determined by the Secretary of Agriculture; and (3) reestablish farmers’ purchasing power by making payments in connection with the normal production of any agricultural commodity for domestic consumption. Determinations by the Secretary as to what constitutes diversion and what constitutes normal channels of trade and commerce and what constitutes normal production for domestic consumption shall be final. The sums appropriated under this section shall be expended for such one or more of the above-specified purposes, and at such times, in such manner, and in such amounts as the Secretary of Agriculture finds will effectuate substantial accomplishment of any one or more of the purposes of this section. Notwithstanding any other provision of this section, the amount that may be devoted, during any fiscal year after June 30, 1939, to any one agricultural commodity or the products thereof in such fiscal year, shall not exceed 25 per centum of the funds available under this section for such fiscal year. The sums appropriated under this section shall be devoted principally to perishable nonbasic agricultural commodities (other than those receiving price support under section 1446 of this title) and their products. The sums appropriated under this section shall, notwithstanding the provisions of any other law, continue to remain available for the purposes of this section until expended; but any excess of the amount remaining unexpended at the end of any fiscal year over $500,000,000 shall, in the same manner as though it had been appropriated for the service of such fiscal year, be subject to the provisions of section 3690 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of the Revised Statutes, and section 5 1 of the Act entitled “An Act making appropriations for the legislative, executive, and judicial expenses of the Government for the year ending June thirtieth, eighteen hundred and seventy-five, and for other purposes”. A public or private nonprofit organization that receives agricultural commodities or the products thereof under clause (2) of the second sentence may transfer such commodities or products to another public or private nonprofit organization that agrees to use such commodities or products to provide, without cost or waste, nutrition assistance to individuals in low-income groups.
+of the Revised Statutes, and section 5 1 of the Act entitled “An Act making appropriations for the legislative, executive, and judicial expenses of the Government for the year ending June thirtieth, eighteen hundred and seventy-five, and for other purposes”. A public or private nonprofit organization that receives agricultural commodities or the products thereof under clause (2) of the second sentence may transfer such commodities or products to another public or private nonprofit organization that agrees to use such commodities or products to provide, without cost or waste, nutrition assistance to individuals in low-income groups.
 
-(Aug. 24, 1935, ch. 641, § 32, 49 Stat. 774; Feb. 29, 1936, ch. 104, § 2, 49 Stat. 1151; Feb. 16, 1938, ch. 30, title II, § 203, 52 Stat. 38; June 30, 1939, ch. 253, title I, 53 Stat. 975; July 3, 1948, ch. 827, title III, § 301, 62 Stat. 1257; Oct. 31, 1949, ch. 792, title IV, § 411, 63 Stat. 1057; Jan. 30, 1954, ch. 2, § 5(b), 68 Stat. 7; Pub. L. 99–198, title XV, § 1561, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 107–171, title X, § 10602, May 13, 2002, 116 Stat. 511.)
+(Aug. 24, 1935, ch. 641, § 32, 49 Stat. 774; Feb. 29, 1936, ch. 104, § 2, 49 Stat. 1151; Feb. 16, 1938, ch. 30, title II, § 203, 52 Stat. 38; June 30, 1939, ch. 253, title I, 53 Stat. 975; July 3, 1948, ch. 827, title III, § 301, 62 Stat. 1257; Oct. 31, 1949, ch. 792, title IV, § 411, 63 Stat. 1057; Jan. 30, 1954, ch. 2, § 5(b), 68 Stat. 7; Pub. L. 99–198, title XV, § 1561, Dec. 23, 1985, 99 Stat. 1589; Pub. L. 107–171, title X, § 10602, May 13, 2002, 116 Stat. 511.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3690 of the Revised Statutes, and section 5 of act June 30, 1875, referred to in text, which were classified to sections 712 and 713 of former Title 31, Money and Finance, were repealed by act July 6, 1949, ch. 299, § 3, 63 Stat. 407.
+Section 3690 of the Revised Statutes, and section 5 of act June 30, 1875, referred to in text, which were classified to sections 712 and 713 of former Title 31, Money and Finance, were repealed by act July 6, 1949, ch. 299, § 3, 63 Stat. 407.
 
 **Codification**
 
@@ -1727,17 +1727,17 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 
 **Additional Appropriations**
 
-Joint Res. July 1, 1941, ch. 266, § 34, 55 Stat. 407, appropriated, in addition to the funds already provided, $25,000,000, to be used by the Secretary of Agriculture, for the purpose of effectuating this section, subject to the provisions of law relating to the expenditure of such funds.
+Joint Res. July 1, 1941, ch. 266, § 34, 55 Stat. 407, appropriated, in addition to the funds already provided, $25,000,000, to be used by the Secretary of Agriculture, for the purpose of effectuating this section, subject to the provisions of law relating to the expenditure of such funds.
 
-Act July 1, 1941, ch. 267, § 1, 55 Stat. 435, made the funds provided for in this section available for the fiscal year 1942.
+Act July 1, 1941, ch. 267, § 1, 55 Stat. 435, made the funds provided for in this section available for the fiscal year 1942.
 
-Joint Res. June 26, 1940, ch. 432, § 41, 54 Stat. 627, appropriated, in addition to the funds already provided, $50,000,000, to be used by the Secretary of Agriculture, for the purpose of effectuating this section, subject to the provisions of law relating to the expenditure of such funds.
+Joint Res. June 26, 1940, ch. 432, § 41, 54 Stat. 627, appropriated, in addition to the funds already provided, $50,000,000, to be used by the Secretary of Agriculture, for the purpose of effectuating this section, subject to the provisions of law relating to the expenditure of such funds.
 
-Act June 25, 1940, ch. 421, § 1, 54 Stat. 561, made the funds provided for in this section available for the fiscal year 1941.
+Act June 25, 1940, ch. 421, § 1, 54 Stat. 561, made the funds provided for in this section available for the fiscal year 1941.
 
 Act June 30, 1939, besides amending clause 2, provided for the availability of funds provided by this section during the fiscal year 1940.
 
-Act Aug. 25, 1937, ch. 757, title I, § 1, 50 Stat. 762, provided for availability of portions of funds available under this section in fiscal years 1938 and 1939, for expenditure for price-adjustment payments with respect to 1937 cotton crop.
+Act Aug. 25, 1937, ch. 757, title I, § 1, 50 Stat. 762, provided for availability of portions of funds available under this section in fiscal years 1938 and 1939, for expenditure for price-adjustment payments with respect to 1937 cotton crop.
 
 **Reduction in Appropriation**
 
@@ -1745,11 +1745,11 @@ Act July 30, 1947, ch. 356, title III, 61 Stat. 550, provided that, notwithstand
 
 **Cancellation or Rescission of Appropriation**
 
-Act Apr. 3, 1948, ch. 169, title I, § 112(f), 62 Stat. 148, which provided in part for the rescission or cancellation of appropriations under this section as provided for in act July 30, 1947, ch. 356, title III, 61 Stat. 550, was repealed by act Oct. 10, 1951, ch. 479, title V, § 503(b)(1), as added June 20, 1952, ch. 449, § 7 (c), 66 Stat. 144.
+Act Apr. 3, 1948, ch. 169, title I, § 112(f), 62 Stat. 148, which provided in part for the rescission or cancellation of appropriations under this section as provided for in act July 30, 1947, ch. 356, title III, 61 Stat. 550, was repealed by act Oct. 10, 1951, ch. 479, title V, § 503(b)(1), as added June 20, 1952, ch. 449, § 7 (c), 66 Stat. 144.
 
 **Report on Specialty Crop Purchases**
 
-Pub. L. 107–171, title X, § 10901, May 13, 2002, 116 Stat. 536, directed Secretary of Agriculture, not later than one year after May 13, 2002, to submit to Congress a report on specialty crop and other commodity purchases under this section and section 612c–4 of this title.
+Pub. L. 107–171, title X, § 10901, May 13, 2002, 116 Stat. 536, directed Secretary of Agriculture, not later than one year after May 13, 2002, to submit to Congress a report on specialty crop and other commodity purchases under this section and section 612c–4 of this title.
 
 **Domestic Fish or Fish Product Compliance With Food Safety Standards or Procedures Deemed To Have Met Requirements for Federal Commodity Purchase Programs**
 
@@ -1757,15 +1757,15 @@ Domestic fish or fish products produced in compliance with food safety standards
 
 **Report on Entitlement Commodity Processing**
 
-Pub. L. 101–624, title XVII, § 1773(f), Nov. 28, 1990, 104 Stat. 3811, directed Comptroller General of the United States, not later than Jan. 1, 1992, to submit a report to Congress regarding processing of entitlement commodities used in child nutrition programs, with evaluation of extent to which processing of entitlement commodities occurs in the States, governmental requirements for participation in the processing vary among States, and entitlement commodity recipients are satisfied with access to and services provided through entitlement commodity processing, prior to repeal by Pub. L. 104–193, title VIII, § 874, Aug. 22, 1996, 110 Stat. 2346.
+Pub. L. 101–624, title XVII, § 1773(f), Nov. 28, 1990, 104 Stat. 3811, directed Comptroller General of the United States, not later than Jan. 1, 1992, to submit a report to Congress regarding processing of entitlement commodities used in child nutrition programs, with evaluation of extent to which processing of entitlement commodities occurs in the States, governmental requirements for participation in the processing vary among States, and entitlement commodity recipients are satisfied with access to and services provided through entitlement commodity processing, prior to repeal by Pub. L. 104–193, title VIII, § 874, Aug. 22, 1996, 110 Stat. 2346.
 
 **Soup Kitchens and Other Emergency Food Aid**
 
-Pub. L. 100–435, title I, § 110, Sept. 19, 1988, 102 Stat. 1651, as amended by Pub. L. 101–624, title XVII, § 1774(a), Nov. 28, 1990, 104 Stat. 3811; Pub. L. 102–237, title IX, § 922(a), Dec. 13, 1991, 105 Stat. 1888; Pub. L. 104–127, title IV, § 404, Apr. 4, 1996, 110 Stat. 1029, established formula so that amount, measured by their value, of additional commodities that were to be provided to each State for redistribution to soup kitchens and food banks could be precisely calculated for fiscal years 1989 through 2002, and further provided for definitions, appropriations through fiscal year 2002 to purchase additional commodities, mandatory allotments to States, maintenance of effort by States, authority of Secretary to establish different formula for allocation of commodities, priority system for State distribution of commodities, and settlement and adjustment of claims, prior to repeal by Pub. L. 104–193, title VIII, § 873(1), Aug. 22, 1996, 110 Stat. 2346.
+Pub. L. 100–435, title I, § 110, Sept. 19, 1988, 102 Stat. 1651, as amended by Pub. L. 101–624, title XVII, § 1774(a), Nov. 28, 1990, 104 Stat. 3811; Pub. L. 102–237, title IX, § 922(a), Dec. 13, 1991, 105 Stat. 1888; Pub. L. 104–127, title IV, § 404, Apr. 4, 1996, 110 Stat. 1029, established formula so that amount, measured by their value, of additional commodities that were to be provided to each State for redistribution to soup kitchens and food banks could be precisely calculated for fiscal years 1989 through 2002, and further provided for definitions, appropriations through fiscal year 2002 to purchase additional commodities, mandatory allotments to States, maintenance of effort by States, authority of Secretary to establish different formula for allocation of commodities, priority system for State distribution of commodities, and settlement and adjustment of claims, prior to repeal by Pub. L. 104–193, title VIII, § 873(1), Aug. 22, 1996, 110 Stat. 2346.
 
 **Gleaning Clearinghouses**
 
-Pub. L. 100–435, title I, § 111, Sept. 19, 1988, 102 Stat. 1654, as amended by Pub. L. 101–624, title XVII, § 1774(b), Nov. 28, 1990, 104 Stat. 3812, provided that:
+Pub. L. 100–435, title I, § 111, Sept. 19, 1988, 102 Stat. 1654, as amended by Pub. L. 101–624, title XVII, § 1774(b), Nov. 28, 1990, 104 Stat. 3812, provided that:
 
 > **“(a) Definition of Gleaning.—** For purposes of this section, the term ‘to glean’ means to collect unharvested crops from the fields of farmers, or to obtain agricultural products from farmers, processors, or retailers, in order to distribute the products to needy individuals, including unemployed and low-income individuals, and the term includes only those situations in which agricultural products and access to fields and facilities are made available without charge.
 
@@ -1803,19 +1803,19 @@ Pub. L. 100–435, title I, § 111, Sept. 19, 1988, 102 Stat. 1654, as amended
 
 **Continuation of Provision of Cheese Supplies**
 
-Pub. L. 100–435, title I, § 130, Sept. 19, 1988, 102 Stat. 1655, was redesignated section 5(d)(2) of Pub. L. 93–86, set out below, by Pub. L. 101–624, title XVII, § 1774(c)(2)(A), Nov. 28, 1990, 104 Stat. 3813.
+Pub. L. 100–435, title I, § 130, Sept. 19, 1988, 102 Stat. 1655, was redesignated section 5(d)(2) of Pub. L. 93–86, set out below, by Pub. L. 101–624, title XVII, § 1774(c)(2)(A), Nov. 28, 1990, 104 Stat. 3813.
 
 **Encouragement of Food Processing and Distribution by Eligible Recipient Agencies**
 
-Pub. L. 100–435, title II, § 220, Sept. 19, 1988, 102 Stat. 1659, as amended by Pub. L. 101–624, title XVII, § 1772(h)(5), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 102–237, title IX, § 942, Dec. 13, 1991, 105 Stat. 1893, provided that, not later than 60 days after Sept. 19, 1988, Secretary of Agriculture was, to extent that Commodity Credit Corporation’s inventory levels permitted, solicit applications for surplus commodities available for distribution under section 202 of Pub. L. 98–8 (7 U.S.C. 7502), and further provided for requirements for solicitations as well as review of applications, prior to repeal by Pub. L. 104–193, title VIII, § 873(2), Aug. 22, 1996, 110 Stat. 2346.
+Pub. L. 100–435, title II, § 220, Sept. 19, 1988, 102 Stat. 1659, as amended by Pub. L. 101–624, title XVII, § 1772(h)(5), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 102–237, title IX, § 942, Dec. 13, 1991, 105 Stat. 1893, provided that, not later than 60 days after Sept. 19, 1988, Secretary of Agriculture was, to extent that Commodity Credit Corporation’s inventory levels permitted, solicit applications for surplus commodities available for distribution under section 202 of Pub. L. 98–8 (7 U.S.C. 7502), and further provided for requirements for solicitations as well as review of applications, prior to repeal by Pub. L. 104–193, title VIII, § 873(2), Aug. 22, 1996, 110 Stat. 2346.
 
 **Food Bank Demonstration Projects**
 
-Pub. L. 100–435, title V, § 502, Sept. 19, 1988, 102 Stat. 1671, authorized Secretary of Agriculture to carry out demonstration projects to provide and redistribute certain agricultural commodities to needy individuals and families through community food banks and other charitable food banks, authorized Secretary to determine quantities, varieties, and types of agricultural commodities and products thereof to be made available to community food banks, and provided for report to Congress not later than July 1, 1990, as well as for termination of authority on Sept. 30, 1990, and appropriations to carry out projects, prior to repeal by Pub. L. 104–193, title VIII, § 873(3), Aug. 22, 1996, 110 Stat. 2346.
+Pub. L. 100–435, title V, § 502, Sept. 19, 1988, 102 Stat. 1671, authorized Secretary of Agriculture to carry out demonstration projects to provide and redistribute certain agricultural commodities to needy individuals and families through community food banks and other charitable food banks, authorized Secretary to determine quantities, varieties, and types of agricultural commodities and products thereof to be made available to community food banks, and provided for report to Congress not later than July 1, 1990, as well as for termination of authority on Sept. 30, 1990, and appropriations to carry out projects, prior to repeal by Pub. L. 104–193, title VIII, § 873(3), Aug. 22, 1996, 110 Stat. 2346.
 
 **Commodity Distribution Reform**
 
-Pub. L. 100–237, §§ 1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 1740, 1742, 1743, as amended by Pub. L. 101–624, title XVII, §§ 1772(h)(3), (4), 1773(a)–(e), Nov. 28, 1990, 104 Stat. 3809–3811; Pub. L. 102–342, title IV, § 401, Aug. 14, 1992, 106 Stat. 914; Pub. L. 103–448, title III, § 303, Nov. 2, 1994, 108 Stat. 4750; Pub. L. 105–336, title III, §§ 301, 302, Oct. 31, 1998, 112 Stat. 3167, 3168; Pub. L. 106–78, title VII, § 752(b)(1), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–472, title III, § 307(a), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 107–171, title IV, § 4202(a), May 13, 2002, 116 Stat. 329; Pub. L. 108–134, § 3, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, § 3, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title III, § 301, June 30, 2004, 118 Stat. 788; Pub. L. 113–79, title IV, § 4104, Feb. 7, 2014, 128 Stat. 820, provided that:
+Pub. L. 100–237, §§ 1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 1740, 1742, 1743, as amended by Pub. L. 101–624, title XVII, §§ 1772(h)(3), (4), 1773(a)–(e), Nov. 28, 1990, 104 Stat. 3809–3811; Pub. L. 102–342, title IV, § 401, Aug. 14, 1992, 106 Stat. 914; Pub. L. 103–448, title III, § 303, Nov. 2, 1994, 108 Stat. 4750; Pub. L. 105–336, title III, §§ 301, 302, Oct. 31, 1998, 112 Stat. 3167, 3168; Pub. L. 106–78, title VII, § 752(b)(1), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–472, title III, § 307(a), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 107–171, title IV, § 4202(a), May 13, 2002, 116 Stat. 329; Pub. L. 108–134, § 3, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, § 3, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title III, § 301, June 30, 2004, 118 Stat. 788; Pub. L. 113–79, title IV, § 4104, Feb. 7, 2014, 128 Stat. 820, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -2087,7 +2087,7 @@ Pub. L. 100–237, §§ 1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739,
 
 > **“(2)** remain available to carry out the purposes of section 32 of that Act until expended.
 
-> **“[(e)** Repealed. Pub. L. 108–265, title III, § 301, June 30, 2004, 118 Stat. 788.]
+> **“[(e)** Repealed. Pub. L. 108–265, title III, § 301, June 30, 2004, 118 Stat. 788.]
 
 > **“SEC. 16. AUTHORITY TO ACCEPT COMMODITIES DONATED BY FEDERAL SOURCES.**
 
@@ -2159,71 +2159,71 @@ Pub. L. 100–237, §§ 1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739,
 
 > “Except as otherwise provided in this Act, this Act and the amendments made by this Act [see section 1 above] shall take effect on the date of the enactment of this Act [Jan. 8, 1988].”
 
-[Pub. L. 107–171, title IV, § 4202(b), May 13, 2002, 116 Stat. 330, provided that: “The amendments made by this section [amending sections 17 to 19 of Pub. L. 100–237, set out above] take effect on the date of enactment of this Act [May 13, 2002].”
+[Pub. L. 107–171, title IV, § 4202(b), May 13, 2002, 116 Stat. 330, provided that: “The amendments made by this section [amending sections 17 to 19 of Pub. L. 100–237, set out above] take effect on the date of enactment of this Act [May 13, 2002].”
 
-[Pub. L. 106–78, § 752(b)(1), which directed amendment of section 13(3)(A) of Pub. L. 100–237, was executed by amending section 17(3)(A) [now 18(3)(A)] of Pub. L. 100–237, set out above, to reflect the probable intent of Congress.]
+[Pub. L. 106–78, § 752(b)(1), which directed amendment of section 13(3)(A) of Pub. L. 100–237, was executed by amending section 17(3)(A) [now 18(3)(A)] of Pub. L. 100–237, set out above, to reflect the probable intent of Congress.]
 
 **Food Bank Demonstration Project**
 
-Pub. L. 100–232, § 3, Jan. 5, 1988, 101 Stat. 1566, authorized Secretary of Agriculture to carry out no less than one demonstration project to provide and redistribute agricultural commodities and food products thereof as authorized under this section to needy individuals and families through community food banks and to use State agency or any other food distribution system for such provision or redistribution of commodities and food products, further required each food bank participating in demonstration projects to establish recordkeeping system and internal procedures to monitor use of agricultural commodities and food products, authorized Secretary to determine quantities, varieties, and types of agricultural commodities and food products to be made available, and further provided for termination of authority on Dec. 31, 1990, and annual progress reports by Secretary, prior to repeal by Pub. L. 104–193, title VIII, § 872, Aug. 22, 1996, 110 Stat. 2346.
+Pub. L. 100–232, § 3, Jan. 5, 1988, 101 Stat. 1566, authorized Secretary of Agriculture to carry out no less than one demonstration project to provide and redistribute agricultural commodities and food products thereof as authorized under this section to needy individuals and families through community food banks and to use State agency or any other food distribution system for such provision or redistribution of commodities and food products, further required each food bank participating in demonstration projects to establish recordkeeping system and internal procedures to monitor use of agricultural commodities and food products, authorized Secretary to determine quantities, varieties, and types of agricultural commodities and food products to be made available, and further provided for termination of authority on Dec. 31, 1990, and annual progress reports by Secretary, prior to repeal by Pub. L. 104–193, title VIII, § 872, Aug. 22, 1996, 110 Stat. 2346.
 
 **Continuation of Distribution of Agricultural Commodities to Low-Income Elderly at Existing Levels**
 
-Pub. L. 99–198, title XV, § 1562(d), Dec. 23, 1985, 99 Stat. 1590, provided that: “Notwithstanding any other provision of law, in implementing the commodity supplemental food program under section 4 of the Agriculture and Consumer Protection Act of 1973 [Pub. L. 93–86, set out as a note below], the Secretary of Agriculture shall allow agencies distributing agricultural commodities to low-income elderly people under such programs on the date of enactment of this Act [Dec. 23, 1985] to continue such distribution at levels no lower than existing caseloads.”
+Pub. L. 99–198, title XV, § 1562(d), Dec. 23, 1985, 99 Stat. 1590, provided that: “Notwithstanding any other provision of law, in implementing the commodity supplemental food program under section 4 of the Agriculture and Consumer Protection Act of 1973 [Pub. L. 93–86, set out as a note below], the Secretary of Agriculture shall allow agencies distributing agricultural commodities to low-income elderly people under such programs on the date of enactment of this Act [Dec. 23, 1985] to continue such distribution at levels no lower than existing caseloads.”
 
 **Report to Congress on Activities of Program Conducted Under Temporary Emergency Food Assistance Act of 1983**
 
-Pub. L. 99–198, title XV, § 1571, Dec. 23, 1985, 99 Stat. 1594, provided that not later than Apr. 1, 1987, Secretary of Agriculture was to report to Congress on activities of program conducted under Temporary Emergency Food Assistance Act of 1983 (7 U.S.C. 7501 et seq.), which was to include information on volume and types of commodities distributed under program, types of State and local agencies receiving commodities for distribution under program, populations served under program and their characteristics, Federal, State, and local costs of commodity distribution operations under program (including transportation, storage, refrigeration, handling, distribution, and administrative costs), and amount of Federal funds provided to cover State and local costs under program, prior to repeal by Pub. L. 104–193, title VIII, § 871(f), Aug. 22, 1996, 110 Stat. 2345.
+Pub. L. 99–198, title XV, § 1571, Dec. 23, 1985, 99 Stat. 1594, provided that not later than Apr. 1, 1987, Secretary of Agriculture was to report to Congress on activities of program conducted under Temporary Emergency Food Assistance Act of 1983 (7 U.S.C. 7501 et seq.), which was to include information on volume and types of commodities distributed under program, types of State and local agencies receiving commodities for distribution under program, populations served under program and their characteristics, Federal, State, and local costs of commodity distribution operations under program (including transportation, storage, refrigeration, handling, distribution, and administrative costs), and amount of Federal funds provided to cover State and local costs under program, prior to repeal by Pub. L. 104–193, title VIII, § 871(f), Aug. 22, 1996, 110 Stat. 2345.
 
 **Emergency Food Assistance Act of 1983**
 
-Pub. L. 98–8, title II, Mar. 24, 1983, 97 Stat. 35, as amended by Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608; Pub. L. 99–198, title XV, §§ 1562(e)(1), 1563–1566, 1567(c), 1568–1570, Dec. 23, 1985, 99 Stat. 1590–1594; Pub. L. 100–77, title VIII, §§ 811–814, July 22, 1987, 101 Stat. 536–538; Pub. L. 100–435, title I, §§ 101–105, Sept. 19, 1988, 102 Stat. 1647–1650; Pub. L. 101–624, title XVII, § 1772(a)–(h)(1), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 102–237, title IX, § 922(b), Dec. 13, 1991, 105 Stat. 1888; Pub. L. 104–66, title I, § 1011(k), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title IV, § 403, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, § 871(a)–(e), Aug. 22, 1996, 110 Stat. 2343–2345, known as the Emergency Food Assistance Act of 1983, and formerly set out as a note under this section, established temporary program authorizing Secretary of Agriculture to distribute excess food commodities to public or nonprofit organizations administering certain activities such as school lunch programs, elderly nutrition programs, activities of charitable institutions that serve meals to needy persons, and disaster relief programs. As amended by Pub. L. 104–193, the program became permanent, and title II of Pub. L. 98–8 was transferred to chapter 102 (§ 7501 et seq.) of this title.
+Pub. L. 98–8, title II, Mar. 24, 1983, 97 Stat. 35, as amended by Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608; Pub. L. 99–198, title XV, §§ 1562(e)(1), 1563–1566, 1567(c), 1568–1570, Dec. 23, 1985, 99 Stat. 1590–1594; Pub. L. 100–77, title VIII, §§ 811–814, July 22, 1987, 101 Stat. 536–538; Pub. L. 100–435, title I, §§ 101–105, Sept. 19, 1988, 102 Stat. 1647–1650; Pub. L. 101–624, title XVII, § 1772(a)–(h)(1), Nov. 28, 1990, 104 Stat. 3808, 3809; Pub. L. 102–237, title IX, § 922(b), Dec. 13, 1991, 105 Stat. 1888; Pub. L. 104–66, title I, § 1011(k), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title IV, § 403, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 104–193, title VIII, § 871(a)–(e), Aug. 22, 1996, 110 Stat. 2343–2345, known as the Emergency Food Assistance Act of 1983, and formerly set out as a note under this section, established temporary program authorizing Secretary of Agriculture to distribute excess food commodities to public or nonprofit organizations administering certain activities such as school lunch programs, elderly nutrition programs, activities of charitable institutions that serve meals to needy persons, and disaster relief programs. As amended by Pub. L. 104–193, the program became permanent, and title II of Pub. L. 98–8 was transferred to chapter 102 (§ 7501 et seq.) of this title.
 
 **Agricultural Export Promotion**
 
-Pub. L. 97–253, title I, § 135, Sept. 8, 1982, 96 Stat. 772, authorized Secretary of Agriculture, for each of fiscal years 1983, 1984, and 1985, to use up to $190,000,000 of Commodity Credit Corporation funds to carry out export activities through Commodity Credit Corporation under provisions of law in effect on Sept. 8, 1982, including activities authorized under amendments made by section 405(d) of Pub. L. 98–623 to sections 1707a and 1732 of this title and section 714c(f) of Title 15, Commerce and Trade, even if those export activities were not included in budget program of Corporation.
+Pub. L. 97–253, title I, § 135, Sept. 8, 1982, 96 Stat. 772, authorized Secretary of Agriculture, for each of fiscal years 1983, 1984, and 1985, to use up to $190,000,000 of Commodity Credit Corporation funds to carry out export activities through Commodity Credit Corporation under provisions of law in effect on Sept. 8, 1982, including activities authorized under amendments made by section 405(d) of Pub. L. 98–623 to sections 1707a and 1732 of this title and section 714c(f) of Title 15, Commerce and Trade, even if those export activities were not included in budget program of Corporation.
 
 [Amendments made by section 405(d) of Pub. L. 98–623, amending sections 1707a and 1732 of this title and section 714c(f) of Title 15, Commerce and Trade, to be considered as having taken effect before Sept. 8, 1982, for purposes of section 135 of Pub. L. 97–253, set out above, see section 405(d) of Pub. L. 98–623, set out as an Effective Date of 1984 Amendment note under section 714c of Title 15, Commerce and Trade.]
 
 **Distribution of Commodities to Individuals in Cases of Hardship**
 
-Pub. L. 106–78, title VII, § 709, Oct. 22, 1999, 113 Stat. 1161, which provided that commodities acquired by the Department in connection with Commodity Credit Corporation and price support operations under this section could be used, as authorized by this section and section 714c of Title 15, Commerce and Trade, to provide commodities to individuals in cases of hardship as determined by the Secretary of Agriculture, was from the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriation Act, 2000, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriations acts:
+Pub. L. 106–78, title VII, § 709, Oct. 22, 1999, 113 Stat. 1161, which provided that commodities acquired by the Department in connection with Commodity Credit Corporation and price support operations under this section could be used, as authorized by this section and section 714c of Title 15, Commerce and Trade, to provide commodities to individuals in cases of hardship as determined by the Secretary of Agriculture, was from the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriation Act, 2000, and was not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriations acts:
 
-Pub. L. 105–277, div. A, § 101(a) [title VII, § 709], Oct. 21, 1998, 112 Stat. 2681, 2681–26.
+Pub. L. 105–277, div. A, § 101(a) [title VII, § 709], Oct. 21, 1998, 112 Stat. 2681, 2681–26.
 
-Pub. L. 105–86, title VII, § 709, Nov. 18, 1997, 111 Stat. 2105.
+Pub. L. 105–86, title VII, § 709, Nov. 18, 1997, 111 Stat. 2105.
 
-Pub. L. 104–180, title VII, § 709, Aug. 6, 1996, 110 Stat. 1597.
+Pub. L. 104–180, title VII, § 709, Aug. 6, 1996, 110 Stat. 1597.
 
-Pub. L. 104–37, title VII, § 709, Oct. 21, 1995, 109 Stat. 330.
+Pub. L. 104–37, title VII, § 709, Oct. 21, 1995, 109 Stat. 330.
 
-Pub. L. 103–330, title VII, § 709, Sept. 30, 1994, 108 Stat. 2467.
+Pub. L. 103–330, title VII, § 709, Sept. 30, 1994, 108 Stat. 2467.
 
-Pub. L. 103–111, title VII, § 710, Oct. 21, 1993, 107 Stat. 1079.
+Pub. L. 103–111, title VII, § 710, Oct. 21, 1993, 107 Stat. 1079.
 
-Pub. L. 102–341, title VII, § 715, Aug. 14, 1992, 106 Stat. 908.
+Pub. L. 102–341, title VII, § 715, Aug. 14, 1992, 106 Stat. 908.
 
-Pub. L. 102–142, title VII, § 718, Oct. 28, 1991, 105 Stat. 913.
+Pub. L. 102–142, title VII, § 718, Oct. 28, 1991, 105 Stat. 913.
 
-Pub. L. 101–506, title VI, § 619, Nov. 5, 1990, 104 Stat. 1347.
+Pub. L. 101–506, title VI, § 619, Nov. 5, 1990, 104 Stat. 1347.
 
-Pub. L. 101–161, title VI, § 619, Nov. 21, 1989, 103 Stat. 983.
+Pub. L. 101–161, title VI, § 619, Nov. 21, 1989, 103 Stat. 983.
 
-Pub. L. 100–460, title VI, § 619, Oct. 1, 1988, 102 Stat. 2261.
+Pub. L. 100–460, title VI, § 619, Oct. 1, 1988, 102 Stat. 2261.
 
-Pub. L. 100–202, § 101(k) [title VI, § 619], Dec. 22, 1987, 101 Stat. 1329–322, 1329–355.
+Pub. L. 100–202, § 101(k) [title VI, § 619], Dec. 22, 1987, 101 Stat. 1329–322, 1329–355.
 
-Pub. L. 99–500, § 101(a) [title VI, § 619], Oct. 18, 1986, 100 Stat. 1783, 1783–29, and Pub. L. 99–591, § 101(a) [title VI, § 619], Oct. 30, 1986, 100 Stat. 3341, 3341–29.
+Pub. L. 99–500, § 101(a) [title VI, § 619], Oct. 18, 1986, 100 Stat. 1783, 1783–29, and Pub. L. 99–591, § 101(a) [title VI, § 619], Oct. 30, 1986, 100 Stat. 3341, 3341–29.
 
-Pub. L. 99–190, § 101(a) [H.R. 3037, title VI, § 619], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
+Pub. L. 99–190, § 101(a) [H.R. 3037, title VI, § 619], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
 
-Pub. L. 97–370, title VI, § 620, Dec. 18, 1982, 96 Stat. 1811.
+Pub. L. 97–370, title VI, § 620, Dec. 18, 1982, 96 Stat. 1811.
 
-Pub. L. 97–103, title VI, § 620, Dec. 23, 1981, 95 Stat. 1490.
+Pub. L. 97–103, title VI, § 620, Dec. 23, 1981, 95 Stat. 1490.
 
 **Commodity Distribution Program; Purchase of Agricultural Commodities; Furnishing Commodities to Summer Camps**
 
-Pub. L. 93–86, § 4, Aug. 10, 1973, 87 Stat. 249, as amended by Pub. L. 93–347, § 1, July 12, 1974, 88 Stat. 340; Pub. L. 94–273, § 2(1), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–113, title XIII, §§ 1302(a)(1), 1304(a), Sept. 29, 1977, 91 Stat. 979, 980, Pub. L. 97–98, title XIII, § 1334, Dec. 22, 1981, 95 Stat. 1292; Pub. L. 98–8, title II, § 207, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, § 3, Sept. 2, 1983, 97 Stat. 612; Pub. L. 99–198, title XV, § 1562(a), Dec. 23, 1985, 99 Stat. 1590; Pub. L. 101–624, title XVII, §§ 1771(a), (b)(1), (c)(1), 1772(h)(2), Nov. 28, 1990, 104 Stat. 3806, 3807, 3809; Pub. L. 104–127, title IV, § 402(a), Apr. 4, 1996, 110 Stat. 1028; Pub. L. 107–171, title IV, § 4201(a), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, § 4406(b)(2), May 22, 2008, 122 Stat. 1141; Pub. L. 110–246, § 4(a), title IV, § 4406(b)(2), June 18, 2008, 122 Stat. 1664, 1903; Pub. L. 113–79, title IV, §§ 4030(t), 4101, Feb. 7, 2014, 128 Stat. 815, 819; Pub. L. 115–334, title IV, § 4101, Dec. 20, 2018, 132 Stat. 4654, provided that:
+Pub. L. 93–86, § 4, Aug. 10, 1973, 87 Stat. 249, as amended by Pub. L. 93–347, § 1, July 12, 1974, 88 Stat. 340; Pub. L. 94–273, § 2(1), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–113, title XIII, §§ 1302(a)(1), 1304(a), Sept. 29, 1977, 91 Stat. 979, 980, Pub. L. 97–98, title XIII, § 1334, Dec. 22, 1981, 95 Stat. 1292; Pub. L. 98–8, title II, § 207, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, § 3, Sept. 2, 1983, 97 Stat. 612; Pub. L. 99–198, title XV, § 1562(a), Dec. 23, 1985, 99 Stat. 1590; Pub. L. 101–624, title XVII, §§ 1771(a), (b)(1), (c)(1), 1772(h)(2), Nov. 28, 1990, 104 Stat. 3806, 3807, 3809; Pub. L. 104–127, title IV, § 402(a), Apr. 4, 1996, 110 Stat. 1028; Pub. L. 107–171, title IV, § 4201(a), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, § 4406(b)(2), May 22, 2008, 122 Stat. 1141; Pub. L. 110–246, § 4(a), title IV, § 4406(b)(2), June 18, 2008, 122 Stat. 1664, 1903; Pub. L. 113–79, title IV, §§ 4030(t), 4101, Feb. 7, 2014, 128 Stat. 815, 819; Pub. L. 115–334, title IV, § 4101, Dec. 20, 2018, 132 Stat. 4654, provided that:
 
 > **“(a)** Notwithstanding any other provision of law, the Secretary may, during fiscal years 2008 through 2023, purchase and distribute sufficient agricultural commodities with funds appropriated from the general fund of the Treasury to maintain the traditional level of assistance for food assistance programs as are authorized by law, including but not limited to distribution to institutions (including hospitals and facilities caring for needy infants and children), supplemental feeding programs serving women, infants, and children or elderly persons, or both, wherever located, disaster areas, summer camps for children, the United States Trust Territory of the Pacific Islands, and Indians, whenever a tribal organization requests distribution of federally donated foods pursuant to section 4(b) of the Food and Nutrition Act of 2008 [7 U.S.C. 2013(b)]. In providing for commodity distribution to Indians, the Secretary shall improve the variety and quantity of commodities supplied to Indians in order to provide them an opportunity to obtain a more nutritious diet.
 
@@ -2233,19 +2233,19 @@ Pub. L. 93–86, § 4, Aug. 10, 1973, 87 Stat. 249, as amended by Pub. L. 93�
 
 [Amendment by section 1771(a) of Pub. L. 101–624 effective Oct. 1, 1990, and amendments by sections 1771(b)(1), (c)(1), and 1772(h)(2) of Pub. L. 101–624 effective Nov. 28, 1990, see section 1781(b)(1), (2) of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 2012 of this title.]
 
-[Pub. L. 97–98, title XIII, § 1334, Dec. 22, 1981, 95 Stat. 1292, provided in part that the amendment of section 4 of Pub. L. 93–86, set out above, by Pub. L. 97–98 is effective Oct. 1, 1981.]
+[Pub. L. 97–98, title XIII, § 1334, Dec. 22, 1981, 95 Stat. 1292, provided in part that the amendment of section 4 of Pub. L. 93–86, set out above, by Pub. L. 97–98 is effective Oct. 1, 1981.]
 
-[Pub. L. 95–113, title XIII, §§ 1302(b), 1304(a), Sept. 29, 1977, 91 Stat. 979, 980, provided in part that the amendment of subsecs. (a) and (b) of section 4 of Pub. L. 93–86, set out above, and the repeal of subsec. (c) of section 4 of Pub. L. 93–86 are effective Oct. 1, 1977.]
+[Pub. L. 95–113, title XIII, §§ 1302(b), 1304(a), Sept. 29, 1977, 91 Stat. 979, 980, provided in part that the amendment of subsecs. (a) and (b) of section 4 of Pub. L. 93–86, set out above, and the repeal of subsec. (c) of section 4 of Pub. L. 93–86 are effective Oct. 1, 1977.]
 
-[Pub. L. 93–233, § 8(b)(1), Dec. 31, 1973, 87 Stat. 956, as amended by Pub. L. 93–335, § 1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, § 3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, § 2(2), July 14, 1976, 90 Stat. 990; Pub. L. 95–59, § 3(2), June 30, 1977, 91 Stat. 255, eff. July 1, 1977, provided that: “Section 4(c) of Public Law 93–86 shall not be effective for the period ending September 30, 1978.” ] [For repeal of section 4(c) of Pub. L. 93–86, see section 1304(a) of Pub. L. 95–113.].
+[Pub. L. 93–233, § 8(b)(1), Dec. 31, 1973, 87 Stat. 956, as amended by Pub. L. 93–335, § 1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, § 3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, § 2(2), July 14, 1976, 90 Stat. 990; Pub. L. 95–59, § 3(2), June 30, 1977, 91 Stat. 255, eff. July 1, 1977, provided that: “Section 4(c) of Public Law 93–86 shall not be effective for the period ending September 30, 1978.” ] [For repeal of section 4(c) of Pub. L. 93–86, see section 1304(a) of Pub. L. 95–113.].
 
 [For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.]
 
 **Commodity Supplemental Food Program**
 
-Pub. L. 107–171, title IV, § 4201(c), May 13, 2002, 116 Stat. 329, directed Secretary of Agriculture, not later than 30 days after May 13, 2002, to allocate from the Commodity Credit Corporation the funds necessary for States to administer the commodity supplemental food program under the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 612c note; Public Law 93–86) through the 2002 caseload cycle.
+Pub. L. 107–171, title IV, § 4201(c), May 13, 2002, 116 Stat. 329, directed Secretary of Agriculture, not later than 30 days after May 13, 2002, to allocate from the Commodity Credit Corporation the funds necessary for States to administer the commodity supplemental food program under the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 612c note; Public Law 93–86) through the 2002 caseload cycle.
 
-Pub. L. 93–86, § 5, as added by Pub. L. 95–113, title XIII, § 1304(b)(2), Sept. 29, 1977, 91 Stat. 980, and amended by Pub. L. 97–98, title XIII, § 1335, Dec. 22, 1981, 95 Stat. 1293; Pub. L. 98–8, title II, § 209, Mar. 24, 1983, 97 Stat. 36, as amended Pub. L. 98–92, § 2(8), Sept. 2, 1983, 97 Stat. 611; Pub. L. 99–198, title XV, § 1562(b), (c), (e)(2), Dec. 23, 1985, 99 Stat. 1590; Pub. L. 100–435, title I, § 130, redesignated § 5(d)(2) of Pub. L. 93–86 by Pub. L. 101–624, title XVII, § 1774(c)(2)(A), (B), Nov. 28, 1990, 104 Stat. 3813; Pub. L. 101–624, title XVII, §§ 1771(c)(2)–(f), 1774(c)(2)(C), Nov. 28, 1990, 104 Stat. 3807, 3808, 3813; Pub. L. 102–237, title I, § 118(a), title IX, § 922(c), Dec. 13, 1991, 105 Stat. 1841, 1889; Pub. L. 104–127, title IV, § 402(b), Apr. 4, 1996, 110 Stat. 1028; Pub. L. 104–193, title I, § 109(f), Aug. 22, 1996, 110 Stat. 2170; Pub. L. 105–33, title V, § 5514(b), Aug. 5, 1997, 111 Stat. 620; Pub. L. 107–171, title IV, § 4201(b), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, §§ 4221, 4406(b)(3), May 22, 2008, 122 Stat. 1124, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4221, 4406(b)(3), June 18, 2008, 122 Stat. 1664, 1886, 1903; Pub. L. 113–79, title IV, §§ 4030(u), 4102, Feb. 7, 2014, 128 Stat. 815, 819; Pub. L. 115–334, title IV, § 4102, Dec. 20, 2018, 132 Stat. 4654, provided that:
+Pub. L. 93–86, § 5, as added by Pub. L. 95–113, title XIII, § 1304(b)(2), Sept. 29, 1977, 91 Stat. 980, and amended by Pub. L. 97–98, title XIII, § 1335, Dec. 22, 1981, 95 Stat. 1293; Pub. L. 98–8, title II, § 209, Mar. 24, 1983, 97 Stat. 36, as amended Pub. L. 98–92, § 2(8), Sept. 2, 1983, 97 Stat. 611; Pub. L. 99–198, title XV, § 1562(b), (c), (e)(2), Dec. 23, 1985, 99 Stat. 1590; Pub. L. 100–435, title I, § 130, redesignated § 5(d)(2) of Pub. L. 93–86 by Pub. L. 101–624, title XVII, § 1774(c)(2)(A), (B), Nov. 28, 1990, 104 Stat. 3813; Pub. L. 101–624, title XVII, §§ 1771(c)(2)–(f), 1774(c)(2)(C), Nov. 28, 1990, 104 Stat. 3807, 3808, 3813; Pub. L. 102–237, title I, § 118(a), title IX, § 922(c), Dec. 13, 1991, 105 Stat. 1841, 1889; Pub. L. 104–127, title IV, § 402(b), Apr. 4, 1996, 110 Stat. 1028; Pub. L. 104–193, title I, § 109(f), Aug. 22, 1996, 110 Stat. 2170; Pub. L. 105–33, title V, § 5514(b), Aug. 5, 1997, 111 Stat. 620; Pub. L. 107–171, title IV, § 4201(b), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, §§ 4221, 4406(b)(3), May 22, 2008, 122 Stat. 1124, 1141; Pub. L. 110–246, § 4(a), title IV, §§ 4221, 4406(b)(3), June 18, 2008, 122 Stat. 1664, 1886, 1903; Pub. L. 113–79, title IV, §§ 4030(u), 4102, Feb. 7, 2014, 128 Stat. 815, 819; Pub. L. 115–334, title IV, § 4102, Dec. 20, 2018, 132 Stat. 4654, provided that:
 
 > **“(a) Grants Per Assigned Caseload Slot.—**
 
@@ -2357,19 +2357,19 @@ Pub. L. 93–86, § 5, as added by Pub. L. 95–113, title XIII, § 1304(b)(
 
 [Amendment by Pub. L. 107–171 [amending section 5 of Pub. L. 93–86, set out above] effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.]
 
-[Pub. L. 107–171, title IV, § 4201(d), May 13, 2002, 116 Stat. 329, provided that: “The amendment made by subsection (b)(3) [amending section 5 of Pub. L. 93–86, set out above] takes effect on the date of enactment of this Act [May 13, 2002].” ]
+[Pub. L. 107–171, title IV, § 4201(d), May 13, 2002, 116 Stat. 329, provided that: “The amendment made by subsection (b)(3) [amending section 5 of Pub. L. 93–86, set out above] takes effect on the date of enactment of this Act [May 13, 2002].” ]
 
 [Amendment by section 922(c) of Pub. L. 102–237 effective and implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L. 102–237, set out as an Effective Date of 1991 Amendment note under section 1421 of this title.]
 
 [Amendment by sections 1771(c)(2) and 1774(c) of Pub. L. 101–624 effective Nov. 28, 1990; amendment by section 1771(d) of Pub. L. 101–624 effective Oct. 1, 1990, and amendments by section 1771(e) and (f) of Pub. L. 101–624 effective and implemented the first day of the month beginning 120 days after the publication of implementing regulations which shall be promulgated not later than Oct. 1, 1991, see section 1781(a), (b)(1), (2) of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 2012 of this title.]
 
-[Pub. L. 97–98, title XIII, § 1335, Dec. 22, 1981, 95 Stat. 1293, provided in part that the amendment to section 5 of Pub. L. 93–86, set out above, by Pub. L. 97–98 is effective Oct. 1, 1981.]
+[Pub. L. 97–98, title XIII, § 1335, Dec. 22, 1981, 95 Stat. 1293, provided in part that the amendment to section 5 of Pub. L. 93–86, set out above, by Pub. L. 97–98 is effective Oct. 1, 1981.]
 
-[Pub. L. 95–113, title XIII, § 1304(b), Sept. 29, 1977, 91 Stat. 980, provided in part that section 5 of Pub. L. 93–86, set out above, is effective Oct. 1, 1977.]
+[Pub. L. 95–113, title XIII, § 1304(b), Sept. 29, 1977, 91 Stat. 980, provided in part that section 5 of Pub. L. 93–86, set out above, is effective Oct. 1, 1977.]
 
 **Direct Distribution Programs for Diet of Needy Children and Low-Income Persons Suffering From General and Continued Hunger; Additional Funds**
 
-Pub. L. 92–32, § 6, June 30, 1971, 85 Stat. 86, authorized the Secretary of Agriculture to use during the fiscal year ending June 30, 1972, not to exceed $20,000,000 in funds from section 612c of this title, in addition to funds appropriated or otherwise available, to carry out in any area of the United States direct distribution or other programs, without regard to whether such area is under the food stamp program or a system of direct distribution, in order to provide in the vicinity of their residence an adequate diet to needy children and low income persons suffering, through no fault of their own, from general and continued hunger; provided that food made available to needy children was to be in addition to food made available under the National School Lunch Act or the Child Nutrition Act of 1966; and authorized payment of administrative costs incurred by state or local agencies in carrying out programs for needy children.
+Pub. L. 92–32, § 6, June 30, 1971, 85 Stat. 86, authorized the Secretary of Agriculture to use during the fiscal year ending June 30, 1972, not to exceed $20,000,000 in funds from section 612c of this title, in addition to funds appropriated or otherwise available, to carry out in any area of the United States direct distribution or other programs, without regard to whether such area is under the food stamp program or a system of direct distribution, in order to provide in the vicinity of their residence an adequate diet to needy children and low income persons suffering, through no fault of their own, from general and continued hunger; provided that food made available to needy children was to be in addition to food made available under the National School Lunch Act or the Child Nutrition Act of 1966; and authorized payment of administrative costs incurred by state or local agencies in carrying out programs for needy children.
 
 **Use of Funds for School Lunch Program Under Section 1753 of Title 42**
 
@@ -2389,11 +2389,11 @@ Act Aug. 9, 1955, ch. 671, 69 Stat. 608, authorized the Secretary of Agriculture
 
 **Eligibility of Supplemental Security Income Recipients for Food Stamps During the Period Ending September 30, 1978**
 
-Pub. L. 93–233, § 8(b)(3), Dec. 31, 1973, 87 Stat. 956, as amended by Pub. L. 93–335, § 1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, § 3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, § 2(2), July 14, 1976, 90 Stat. 990; Pub. L. 95–59, § 3(2), June 30, 1977, 91 Stat. 255, limited the eligibility of supplemental security income recipients for food Stamps during the period ending September 30, 1978.
+Pub. L. 93–233, § 8(b)(3), Dec. 31, 1973, 87 Stat. 956, as amended by Pub. L. 93–335, § 1(b), July 8, 1974, 88 Stat. 291; Pub. L. 94–44, § 3(b), June 28, 1975, 89 Stat. 235; Pub. L. 94–365, § 2(2), July 14, 1976, 90 Stat. 990; Pub. L. 95–59, § 3(2), June 30, 1977, 91 Stat. 255, limited the eligibility of supplemental security income recipients for food Stamps during the period ending September 30, 1978.
 
 **Food Stamp Plan**
 
-Acts June 25, 1940, ch. 421, § 1, 54 Stat. 563; July 1, 1941, ch. 267, § 1, 55 Stat. 438, provided: “That said 25 per centum provision and the like provision in said section 32 [this section], as amended, shall not apply to amounts devoted to a stamp plan for the removal of surplus agricultural commodities from funds made available hereby and by said section 32 [this section], and, notwithstanding expenditures under such stamp plan, the 25 per centum provision shall continue to be calculated on the aggregate amount available hereunder and under said section 32 [this section].”
+Acts June 25, 1940, ch. 421, § 1, 54 Stat. 563; July 1, 1941, ch. 267, § 1, 55 Stat. 438, provided: “That said 25 per centum provision and the like provision in said section 32 [this section], as amended, shall not apply to amounts devoted to a stamp plan for the removal of surplus agricultural commodities from funds made available hereby and by said section 32 [this section], and, notwithstanding expenditures under such stamp plan, the 25 per centum provision shall continue to be calculated on the aggregate amount available hereunder and under said section 32 [this section].”
 
 **Distribution of Surplus Commodities to Other United States Areas**
 
@@ -2411,17 +2411,17 @@ Authorization of schools to use surplus foods received under this section to tra
 
 **Transfer of Functions**
 
-Functions of all officers, agencies, and employees of the Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of the Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-Federal Surplus Relief Corporation changed to Federal Surplus Commodities Corporation by amendment of its charter in 1935. It consolidated with Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration to form Surplus Marketing Administration by 1940 Reorg. Plan No. III, § 5, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. By Executive orders under First War Powers Act, former section 601 et seq. of the former Appendix to Title 50, War and National Defense, Surplus Marketing Administration merged into Agricultural Marketing Administration, which consolidated into Food Distribution Administration, which consolidated into War Food Administration, which terminated and its functions transferred to Secretary of Agriculture. By Memorandum 1118, Secretary of Agriculture, Aug. 18, 1945, functions of Federal Surplus Commodities Corporation transferred to Production and Marketing Administration. 1946 Reorg. Plan No. 3, § 501(a), eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, transferred functions of Surplus Marketing Administration to Secretary of Agriculture. In his letter to Congress, the President stated that purpose of this transfer was to permit Secretary of Agriculture to continue the consolidation already effected in Production and Marketing Administration.
+Federal Surplus Relief Corporation changed to Federal Surplus Commodities Corporation by amendment of its charter in 1935. It consolidated with Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration to form Surplus Marketing Administration by 1940 Reorg. Plan No. III, § 5, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. By Executive orders under First War Powers Act, former section 601 et seq. of the former Appendix to Title 50, War and National Defense, Surplus Marketing Administration merged into Agricultural Marketing Administration, which consolidated into Food Distribution Administration, which consolidated into War Food Administration, which terminated and its functions transferred to Secretary of Agriculture. By Memorandum 1118, Secretary of Agriculture, Aug. 18, 1945, functions of Federal Surplus Commodities Corporation transferred to Production and Marketing Administration. 1946 Reorg. Plan No. 3, § 501(a), eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, transferred functions of Surplus Marketing Administration to Secretary of Agriculture. In his letter to Congress, the President stated that purpose of this transfer was to permit Secretary of Agriculture to continue the consolidation already effected in Production and Marketing Administration.
 
-Federal Surplus Commodities Corporation and Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration and their functions consolidated into Surplus Marketing Administration in Department of Agriculture by Reorg. Plan No. III, § 5, eff. June 30, 1940, set out in the Appendix to Title 5. See, also, sections 8 and 9 of said plan for provisions relating to transfer of records, property, personnel, and funds.
+Federal Surplus Commodities Corporation and Division of Marketing and Marketing Agreements of Agricultural Adjustment Administration and their functions consolidated into Surplus Marketing Administration in Department of Agriculture by Reorg. Plan No. III, § 5, eff. June 30, 1940, set out in the Appendix to Title 5. See, also, sections 8 and 9 of said plan for provisions relating to transfer of records, property, personnel, and funds.
 
-### § 612c–1. Authorization for appropriations to increase domestic consumption of surplus farm commodities
+### § 612c–1. Authorization for appropriations to increase domestic consumption of surplus farm commodities
 
 On and after December 30, 1963, such sums (not in excess of $25,000,000 in any one year) as may be approved by the Congress shall be available for the purpose of increasing domestic consumption of any farm commodity or farm commodities determined by the Secretary of Agriculture to be in surplus supply, such authorization not to restrict authority in existing law, of which amount $11,000,000 shall remain available until expended for construction and equipping of research facilities determined to be needed as a result of a special survey.
 
-(Pub. L. 88–250, title I, § 101, Dec. 30, 1963, 77 Stat. 826.)
+(Pub. L. 88–250, title I, § 101, Dec. 30, 1963, 77 Stat. 826.)
 
 **Editorial Notes**
 
@@ -2429,11 +2429,11 @@ On and after December 30, 1963, such sums (not in excess of $25,000,000 in any o
 
 Section was not enacted as part of the Agricultural Adjustment Act which comprises this chapter.
 
-### § 612c–2. Technical support to exporters and importers of United States agricultural products; scope of support provided by Department of Agriculture
+### § 612c–2. Technical support to exporters and importers of United States agricultural products; scope of support provided by Department of Agriculture
 
 The Department of Agriculture shall provide technical support to exporters and importers of United States agricultural products when so requested. Such support shall include, but not be limited to, a review of the feasibility of the export proposal, adequacy of sources of supply, compliance with trade regulations of the United States and the importing country and such other information or guidance as may be needed to expand and expedite United States agricultural exports by private trading interests.
 
-(Pub. L. 91–524, title VIII, § 811, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 238.)
+(Pub. L. 91–524, title VIII, § 811, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 238.)
 
 **Editorial Notes**
 
@@ -2441,15 +2441,15 @@ The Department of Agriculture shall provide technical support to exporters and i
 
 Section was not enacted as part of the Agricultural Adjustment Act which comprises this chapter.
 
-### § 612c–3. Repealed. Pub. L. 101–624, title XV, § 1578, Nov. 28, 1990, 104 Stat. 3702
+### § 612c–3. Repealed. Pub. L. 101–624, title XV, § 1578, Nov. 28, 1990, 104 Stat. 3702
 
-Section, Pub. L. 91–524, title VIII, § 812, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 238, and amended Pub. L. 95–113, title X, § 1005, Sept. 29, 1977, 91 Stat. 951; Pub. L. 97–444, title II, § 238, Jan. 11, 1983, 96 Stat. 2326, required exporters to report export sales and restricted President from prohibiting or curtailing certain exports. See section 5712 of this title.
+Section, Pub. L. 91–524, title VIII, § 812, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 238, and amended Pub. L. 95–113, title X, § 1005, Sept. 29, 1977, 91 Stat. 951; Pub. L. 97–444, title II, § 238, Jan. 11, 1983, 96 Stat. 2326, required exporters to report export sales and restricted President from prohibiting or curtailing certain exports. See section 5712 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 101–624, title XV, § 1578, Nov. 28, 1990, 104 Stat. 3702, provided that the repeal of this section is effective upon the effective date of regulations promulgated under former section 5664 of this title, as amended by title XV of Pub. L. 101–624. Implementing regulations were promulgated and published in the Federal Register as follows:
+Pub. L. 101–624, title XV, § 1578, Nov. 28, 1990, 104 Stat. 3702, provided that the repeal of this section is effective upon the effective date of regulations promulgated under former section 5664 of this title, as amended by title XV of Pub. L. 101–624. Implementing regulations were promulgated and published in the Federal Register as follows:
 
 May 30, 1991, eff. July 8, 1991, 56 F.R. 25998.
 
@@ -2457,7 +2457,7 @@ June 3, 1991, eff. June 7, 1991, 56 F.R. 26323.
 
 Aug. 16, 1991, eff. Aug. 27, 1991, 56 F.R. 42222.
 
-### § 612c–4. Purchase of specialty crops
+### § 612c–4. Purchase of specialty crops
 
 **(a) General purchase authority**
 
@@ -2471,7 +2471,7 @@ The Secretary of Agriculture shall purchase fresh fruits and vegetables for dist
 
 In this section, the terms “fruits”, “vegetables”, and “other specialty food crops” shall have the meaning given the terms by the Secretary of Agriculture.
 
-(Pub. L. 107–171, title X, § 10603, May 13, 2002, 116 Stat. 511; Pub. L. 110–234, title IV, § 4404(c), May 22, 2008, 122 Stat. 1138; Pub. L. 110–246, § 4(a), title IV, § 4404(c), June 18, 2008, 122 Stat. 1664, 1899; Pub. L. 113–79, title IV, § 4201, Feb. 7, 2014, 128 Stat. 821; Pub. L. 115–334, title IV, § 4202, Dec. 20, 2018, 132 Stat. 4655.)
+(Pub. L. 107–171, title X, § 10603, May 13, 2002, 116 Stat. 511; Pub. L. 110–234, title IV, § 4404(c), May 22, 2008, 122 Stat. 1138; Pub. L. 110–246, § 4(a), title IV, § 4404(c), June 18, 2008, 122 Stat. 1664, 1899; Pub. L. 113–79, title IV, § 4201, Feb. 7, 2014, 128 Stat. 821; Pub. L. 115–334, title IV, § 4202, Dec. 20, 2018, 132 Stat. 4655.)
 
 **Editorial Notes**
 
@@ -2489,7 +2489,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 2014—Subsec. (b). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (b). Pub. L. 110–246, § 4404(c), added subsec. (b) and struck out former subsec. (b) which related to authority of the Secretary of Agriculture to purchase fresh fruits and vegetables for distribution to schools and service institutions and to provide for the Secretary of Defense to serve as the servicing agency for their procurement.
+2008—Subsec. (b). Pub. L. 110–246, § 4404(c), added subsec. (b) and struck out former subsec. (b) which related to authority of the Secretary of Agriculture to purchase fresh fruits and vegetables for distribution to schools and service institutions and to provide for the Secretary of Defense to serve as the servicing agency for their procurement.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2499,7 +2499,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 4404(c) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
-### § 612c–5. Section 612c funds for purchase of fruits, vegetables, and nuts to support domestic nutrition assistance programs
+### § 612c–5. Section 612c funds for purchase of fruits, vegetables, and nuts to support domestic nutrition assistance programs
 
 **(a) Funding for additional purchases of fruits, vegetables, and nuts** In addition to the purchases of fruits, vegetables, and nuts required by section 612c–4 of this title, the Secretary of Agriculture shall purchase fruits, vegetables, and nuts for the purpose of providing nutritious foods for use in domestic nutrition assistance programs, using, of the funds made available under section 612c of this title, the following amounts:
 
@@ -2517,7 +2517,7 @@ Amendment by section 4404(c) of Pub. L. 110–246 effective Oct. 1, 2008, see se
 
 Fruits, vegetables, and nuts may be purchased under this section in the form of frozen, canned, dried, or fresh fruits, vegetables, and nuts.
 
-(Pub. L. 110–234, title IV, § 4404, May 22, 2008, 122 Stat. 1137; Pub. L. 110–246, § 4(a), title IV, § 4404, June 18, 2008, 122 Stat. 1664, 1899.)
+(Pub. L. 110–234, title IV, § 4404, May 22, 2008, 122 Stat. 1137; Pub. L. 110–246, § 4(a), title IV, § 4404, June 18, 2008, 122 Stat. 1664, 1899.)
 
 **Editorial Notes**
 
@@ -2537,7 +2537,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under section 1161 of Title 2, The Congress.
 
-### § 612c–6. Domestic food assistance programs
+### § 612c–6. Domestic food assistance programs
 
 **(a) Definition of section 32**
 
@@ -2547,9 +2547,9 @@ In this section, the term “section 32” means section 32 of the Act of August
 
 **(1) In general**
 
-Amounts made available for a fiscal year to carry out section 32 in excess of the maximum amount calculated under paragraph (2) shall be transferred to the Secretary, acting through the Administrator of the Food and Nutrition Service, to be used to carry out the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) 1
+Amounts made available for a fiscal year to carry out section 32 in excess of the maximum amount calculated under paragraph (2) shall be transferred to the Secretary, acting through the Administrator of the Food and Nutrition Service, to be used to carry out the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 except section 21 [42 U.S.C. 1769b–1], and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), except sections 17 and 21 [42 U.S.C. 1786, 1790]”.
 
@@ -2593,27 +2593,27 @@ Of amounts made available to carry out section 32 under subsection (b)(2)(A), th
 
 **(2)** the Emergency Food Assistance Act of 1983 (7 U.S.C. 7501 et seq.); and
 
-**(3)** section 2036 2
+**(3)** section 2036 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title.
 
-(Pub. L. 110–234, title XIV, § 14222, May 22, 2008, 122 Stat. 1483; Pub. L. 110–246, § 4(a), title XIV, § 14222, June 18, 2008, 122 Stat. 1664, 2245; Pub. L. 112–55, div. A, title IV, Nov. 18, 2011, 125 Stat. 574.)
+(Pub. L. 110–234, title XIV, § 14222, May 22, 2008, 122 Stat. 1483; Pub. L. 110–246, § 4(a), title XIV, § 14222, June 18, 2008, 122 Stat. 1664, 2245; Pub. L. 112–55, div. A, title IV, Nov. 18, 2011, 125 Stat. 574.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Richard B. Russell National School Lunch Act, referred to in subsecs. (b)(1) and (e)(1), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (b)(1) and (e)(1), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of Title 42 and Tables.
 
 The Fish and Wildlife Act of 1956, referred to in subsec. (b)(2)(B), is act Aug. 8, 1956, ch. 1036, 70 Stat. 119, which is classified generally to sections 742a to 742d and 742e to 742j–2 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 742a of Title 16 and Tables.
 
-The Emergency Food Assistance Act of 1983, referred to in subsec. (e)(2), is Pub. L. 98–8, title II, Mar. 24, 1983, 97 Stat. 35, which is classified principally to chapter 102 (§ 7501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of this title and Tables.
+The Emergency Food Assistance Act of 1983, referred to in subsec. (e)(2), is Pub. L. 98–8, title II, Mar. 24, 1983, 97 Stat. 35, which is classified principally to chapter 102 (§ 7501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of this title and Tables.
 
-Section 2036 of this title, referred to in subsec. (e)(3), was in the original “section 27 of the Food Stamp Act of 1977”, and was translated as meaning section 27 of Pub. L. 88–525, the Food and Nutrition Act of 2008, to reflect the probable intent of Congress and the renaming of the Act by Pub. L. 110–246, title IV, § 4001(a), June 18, 2008, 122 Stat. 1853.
+Section 2036 of this title, referred to in subsec. (e)(3), was in the original “section 27 of the Food Stamp Act of 1977”, and was translated as meaning section 27 of Pub. L. 88–525, the Food and Nutrition Act of 2008, to reflect the probable intent of Congress and the renaming of the Act by Pub. L. 110–246, title IV, § 4001(a), June 18, 2008, 122 Stat. 1853.
 
 **Codification**
 
@@ -2635,11 +2635,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-### § 613. Termination date; investigations and reports
+### § 613. Termination date; investigations and reports
 
 This chapter shall cease to be in effect whenever the President finds and proclaims that the national economic emergency in relation to agriculture has been ended; and pending such time the President shall by proclamation terminate with respect to any basic agricultural commodity such provisions of this chapter as he finds are not requisite to carrying out the declared policy with respect to such commodity. In the case of sugar beets and sugarcane, the taxes provided by this chapter shall cease to be in effect, and the powers vested in the President or in the Secretary of Agriculture shall terminate on December 31, 1937 unless this chapter ceases to be in effect at an earlier date, as hereinabove provided. The Secretary of Agriculture shall make such investigations and reports thereon to the President as may be necessary to aid him in executing this section.
 
-(May 12, 1933, ch. 25, title I, § 13, 48 Stat. 39; May 9, 1934, ch. 263, § 15, 48 Stat. 677; Aug. 24, 1935, ch. 641, § 20(a), 49 Stat. 768.)
+(May 12, 1933, ch. 25, title I, § 13, 48 Stat. 39; May 9, 1934, ch. 263, § 15, 48 Stat. 677; Aug. 24, 1935, ch. 641, § 20(a), 49 Stat. 768.)
 
 **Editorial Notes**
 
@@ -2649,23 +2649,23 @@ This chapter shall cease to be in effect whenever the President finds and procla
 
 1934—Act May 9, 1934, inserted second sentence relating to taxes on sugar beets and sugarcane.
 
-### § 613a. Repealed. Sept. 1, 1937, ch. 898, title V, § 510, 50 Stat. 916
+### § 613a. Repealed. Sept. 1, 1937, ch. 898, title V, § 510, 50 Stat. 916
 
-Section, act June 19, 1936, ch. 612, § 1, 49 Stat. 1539, related to termination of taxes on sugar beets and sugarcane.
+Section, act June 19, 1936, ch. 612, § 1, 49 Stat. 1539, related to termination of taxes on sugar beets and sugarcane.
 
-### § 614. Separability
+### § 614. Separability
 
 If any provision of this chapter is declared unconstitutional, or the applicability thereof to any person, circumstance, or commodity is held invalid the validity of the remainder of this chapter and the applicability thereof to other persons, circumstances, or commodities shall not be affected thereby.
 
-(May 12, 1933, ch. 25, title I, § 14, 48 Stat. 39; June 3, 1937, ch. 296, § 1, 50 Stat. 246.)
+(May 12, 1933, ch. 25, title I, § 14, 48 Stat. 39; June 3, 1937, ch. 296, § 1, 50 Stat. 246.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Validity of Section Affirmed**
 
-Act June 3, 1937, § 1, affirmed and validated, and reenacted without change the provisions of this section. See note set out under section 601 of this title.
+Act June 3, 1937, § 1, affirmed and validated, and reenacted without change the provisions of this section. See note set out under section 601 of this title.
 
-### § 615. Refunds of tax; exemptions from tax; compensating tax; compensating tax on foreign goods; covering into Treasury
+### § 615. Refunds of tax; exemptions from tax; compensating tax; compensating tax on foreign goods; covering into Treasury
 
 **(a)** If at any time the Secretary of Agriculture finds, upon investigation and after due notice and opportunity for hearing to interested parties, that any class of products of any commodity is of such low value, considering the quantity of the commodity used for their manufacture, that the imposition of the processing tax would prevent in whole or in large part the use of the commodity in the manufacture of such products and thereby substantially reduce consumption and increase the surplus of the commodity, then the Secretary of Agriculture shall so certify to the Secretary of the Treasury, specifying whether such results will in his judgment most effectively be prevented by a suspension of the imposition of the processing tax or a refund of the tax paid, with respect to such amount of the commodity or any product thereof as is used in the manufacture of such products, and thereafter, as shall be specified in such certification, (1) the imposition of the processing tax shall be suspended with respect to such amount of the commodity as is used in the manufacture of such products, and thereafter, as shall be specified in such certification, (2) the imposition of the processing tax shall be suspended with respect to such amount of the commodity as is used in the manufacture of such products until such time as the Secretary of Agriculture, after further investigation and due notice and opportunity for hearing to interested parties, revokes his certification to the Secretary of the Treasury, or (3) the Secretary of the Treasury shall refund (in accordance with the provisions of, to such persons and in such manner as shall be specified in, such certification) the amount of any tax paid (prior to the date of any revocation by the Secretary of Agriculture of his certification to the Secretary of the Treasury, upon further investigation and after due notice and opportunity for hearing to interested parties) under this chapter with respect to such amount of the commodity or any product thereof as is used after the date of such certification in the manufacture of such products, or shall credit against any tax due and payable under this chapter the amount of tax which would be refundable. During the period in which any certificate under this section is effective, the provisions of subsection (e) of this section shall be suspended with respect to all imported articles of the kind described in such certificate; and notwithstanding the provisions of section 623 of this title, any compensating taxes, which have heretofore, during the period in which any certificate under this section has been effective, become due and payable upon imported articles of the kind described in such certificate, shall be refunded by the Secretary of the Treasury if the same have been paid, or, if the same have not been paid the amount thereof shall be abated. Notwithstanding the provisions of section 623 of this title, the Secretary of the Treasury shall refund or credit any processing tax paid on or before June 12, 1934, with respect to such amount of cotton as was used in the manufacture of large cotton bags (as defined in the Certificate of the Secretary of Agriculture, dated June 12, 1934) between June 13, and July 7, 1934, both inclusive.
 
@@ -2699,7 +2699,7 @@ Act June 3, 1937, § 1, affirmed and validated, and reenacted without change t
 
 **(f)** The President, in his discretion, is authorized by proclamation to decree that all or part of the taxes collected from the processing of sugar beets or sugarcane in Puerto Rico, the Territory of Hawaii, the Virgin Islands, American Samoa, the Canal Zone, and/or the island of Guam (if the provisions of this chapter are made applicable thereto), and/or upon the processing in continental United States of sugar produced in, or coming from, said areas, shall not be covered into the general fund of the Treasury of the United States but shall be held as a separate fund, in the name of the respective area to which related, to be used and expended for the benefit of agriculture and/or paid as rental or benefit payments in connection with the reduction in the acreage, or reduction in the production for market, or both, of sugar beets and/or sugarcane, and/or used and expended for expansion of markets and for removal of surplus agricultural products in such areas, respectively, as the Secretary of Agriculture, with the approval of the President, shall direct.
 
-(May 12, 1933, ch. 25, title I, § 15, 48 Stat. 39; May 9, 1934, ch. 263, §§ 8, 11, 48 Stat. 675, 676; June 16, 1934, ch. 551, 48 Stat. 973; June 26, 1934, ch. 759, § 1, 48 Stat. 1241; Mar. 18, 1935, ch. 32, §§ 8, 9, 49 Stat. 47, 48; Aug. 24, 1935, ch. 641, §§ 21–24, 49 Stat. 768; June 22, 1936, ch. 690, § 601(a), 49 Stat. 1739; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, 60 Stat. 1352.)
+(May 12, 1933, ch. 25, title I, § 15, 48 Stat. 39; May 9, 1934, ch. 263, §§ 8, 11, 48 Stat. 675, 676; June 16, 1934, ch. 551, 48 Stat. 973; June 26, 1934, ch. 759, § 1, 48 Stat. 1241; Mar. 18, 1935, ch. 32, §§ 8, 9, 49 Stat. 47, 48; Aug. 24, 1935, ch. 641, §§ 21–24, 49 Stat. 768; June 22, 1936, ch. 690, § 601(a), 49 Stat. 1739; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, 60 Stat. 1352.)
 
 **Editorial Notes**
 
@@ -2719,21 +2719,21 @@ Unconstitutionality of processing and floor stock taxes, see note set out under 
 
 1936—Subsecs. (a), (c). Act June 22, 1936, reenacted subsecs. (a) and (c) only for the purpose of allowing refunds in cases where the delivery for charitable distribution or use, or the exportation, or the manufacture of large cotton bags, or the decrease in the rate of the processing tax, took place prior to Jan. 6, 1936.
 
-1935—Subsec. (a). Act Aug. 24, 1935, § 21, inserted “or shall credit against any tax due and payable under this chapter the amount of tax which would be refundable. During the period in which any certificate under this section is effective, the provisions of subsection (e) of this section shall be suspended with respect to all imported articles of the kind described in such certificate; and notwithstanding the provisions of section 623 of this title, any compensating taxes, which have heretofore, during the period in which any certificate under this section has been effective, become due and payable upon imported articles of the kind described in such certificate, shall be refunded by the Secretary of the Treasury if the same have been paid, or, if the same have not been paid the amount thereof shall be abated. Notwithstanding the provisions of section 623 of this title, the Secretary of the Treasury shall refund or credit any processing tax paid on or before June 12, 1934, with respect to such amount of cotton as was used in the manufacture of large cotton bags (as defined in the Certificate of the Secretary of Agriculture, dated June 12, 1934) between June 13, and July 7, 1934, both inclusive”.
+1935—Subsec. (a). Act Aug. 24, 1935, § 21, inserted “or shall credit against any tax due and payable under this chapter the amount of tax which would be refundable. During the period in which any certificate under this section is effective, the provisions of subsection (e) of this section shall be suspended with respect to all imported articles of the kind described in such certificate; and notwithstanding the provisions of section 623 of this title, any compensating taxes, which have heretofore, during the period in which any certificate under this section has been effective, become due and payable upon imported articles of the kind described in such certificate, shall be refunded by the Secretary of the Treasury if the same have been paid, or, if the same have not been paid the amount thereof shall be abated. Notwithstanding the provisions of section 623 of this title, the Secretary of the Treasury shall refund or credit any processing tax paid on or before June 12, 1934, with respect to such amount of cotton as was used in the manufacture of large cotton bags (as defined in the Certificate of the Secretary of Agriculture, dated June 12, 1934) between June 13, and July 7, 1934, both inclusive”.
 
-Subsecs. (b–1) to (b–3). Act Mar. 18, 1935, § 8, added subsecs. (b–1) to (b–3).
+Subsecs. (b–1) to (b–3). Act Mar. 18, 1935, § 8, added subsecs. (b–1) to (b–3).
 
-Subsec. (e). Act Aug. 24, 1935, § 24, inserted “into such an article” after “with respect to domestic processing of such commodity”.
+Subsec. (e). Act Aug. 24, 1935, § 24, inserted “into such an article” after “with respect to domestic processing of such commodity”.
 
-Subsec. (e). Act Mar. 18, 1935, § 9, among other changes, inserted “(1) That in the event any of the provisions of this chapter have been or are hereafter made applicable to any possession of the United States in the case of any particular commodity or commodities, but not generally, this chapter, for the purposes of this subsection, shall be deemed applicable to such possession with respect to such commodity or commodities but shall not be deemed applicable to such possession with respect to other commodities; and (2)” at beginning of proviso.
+Subsec. (e). Act Mar. 18, 1935, § 9, among other changes, inserted “(1) That in the event any of the provisions of this chapter have been or are hereafter made applicable to any possession of the United States in the case of any particular commodity or commodities, but not generally, this chapter, for the purposes of this subsection, shall be deemed applicable to such possession with respect to such commodity or commodities but shall not be deemed applicable to such possession with respect to other commodities; and (2)” at beginning of proviso.
 
 1934—Subsec. (a). Act June 26, 1934, among other changes, inserted “and thereafter, as shall be specified in such certification, (1) the imposition of the processing tax shall be suspended with respect to such amount of the commodity as is used in the manufacture of such products”.
 
 Subsec. (c). Act June 16, 1934, among other changes, inserted proviso.
 
-Subsec. (e). Act May 9, 1934, § 11, substituted “partly” for “in chief value”, inserted “whether imported as merchandise, or as a container of merchandise, or otherwise,” after “apply”, and inserted “of such commodity” after “processing”.
+Subsec. (e). Act May 9, 1934, § 11, substituted “partly” for “in chief value”, inserted “whether imported as merchandise, or as a container of merchandise, or otherwise,” after “apply”, and inserted “of such commodity” after “processing”.
 
-Subsec. (f). Act May 9, 1934, § 8, added subsec. (f).
+Subsec. (f). Act May 9, 1934, § 8, added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2749,15 +2749,15 @@ Appropriations for refunds, etc., see note under section 610 of this title.
 
 **Abolition of Offices and Transfer of Functions**
 
-The office of Internal Revenue Collector was abolished by 1952 Reorg. Plan No. 1, § 1, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and by section 2 thereof a new office of district commissioner of internal revenue was established. Section 4 of the Plan transferred all functions, that had been vested by statute in any officer or employee of the Bureau of Internal Revenue since the effective date of 1950 Reorg. Plan No. 26, §§ 1, 2, 15 F.R. 4935, 64 Stat. 1280, 1281, to the Secretary of the Treasury.
+The office of Internal Revenue Collector was abolished by 1952 Reorg. Plan No. 1, § 1, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and by section 2 thereof a new office of district commissioner of internal revenue was established. Section 4 of the Plan transferred all functions, that had been vested by statute in any officer or employee of the Bureau of Internal Revenue since the effective date of 1950 Reorg. Plan No. 26, §§ 1, 2, 15 F.R. 4935, 64 Stat. 1280, 1281, to the Secretary of the Treasury.
 
-All functions of all officers of the Department of the Treasury, and all functions of all agencies and employees of such Department, were transferred, with certain exceptions, to the Secretary of the Treasury, with power vested in him to authorize their performance or the performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. The Collector and Commissioner of Internal Revenue, referred to in this section, are officers of the Treasury Department.
+All functions of all officers of the Department of the Treasury, and all functions of all agencies and employees of such Department, were transferred, with certain exceptions, to the Secretary of the Treasury, with power vested in him to authorize their performance or the performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. The Collector and Commissioner of Internal Revenue, referred to in this section, are officers of the Treasury Department.
 
 **Admission of Hawaii to Statehood**
 
 Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 25, 1959, 24 F.R. 6868, 73 Stat. c74. For Hawaii statehood law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding section 491 of Title 48, Territories and Insular Possessions.
 
-### § 616. Stock on hand when tax takes effect or terminates
+### § 616. Stock on hand when tax takes effect or terminates
 
 **(a)** Upon the sale or other disposition of any article processed wholly or in chief value from any commodity with respect to which a processing tax is to be levied, that on the date the tax first takes effect or wholly terminates with respect to the commodity, is held for sale or other disposition (including articles in transit) by any person, there shall be made a tax adjustment as follows:
 
@@ -2787,7 +2787,7 @@ Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 33
 
 **(f)** The provisions of this section shall not be applicable with respect to rice.
 
-(May 12, 1933, ch. 25, title I, § 16, 48 Stat. 40; May 9, 1934, ch. 263, §§ 10, 17, 48 Stat. 676, 678; June 26, 1934, ch. 759, § 1, 48 Stat. 1241; Mar. 18, 1935, ch. 32, § 10, 49 Stat. 48; Aug. 24, 1935, ch. 641, §§ 20(b), 25–27, 49 Stat. 768, 769; June 4, 1936, ch. 501, 49 Stat. 1464; June 22, 1936, ch. 690, § 601(a), (c), (g), 49 Stat. 1739, 1740.)
+(May 12, 1933, ch. 25, title I, § 16, 48 Stat. 40; May 9, 1934, ch. 263, §§ 10, 17, 48 Stat. 676, 678; June 26, 1934, ch. 759, § 1, 48 Stat. 1241; Mar. 18, 1935, ch. 32, § 10, 49 Stat. 48; Aug. 24, 1935, ch. 641, §§ 20(b), 25–27, 49 Stat. 768, 769; June 4, 1936, ch. 501, 49 Stat. 1464; June 22, 1936, ch. 690, § 601(a), (c), (g), 49 Stat. 1739, 1740.)
 
 **Editorial Notes**
 
@@ -2797,35 +2797,35 @@ Section may be obsolete in view of the Supreme Court’s holding that the proces
 
 **Amendments**
 
-1936—Subsec. (e)(1). Act June 22, 1936, § 601(a), (g), reenacted par. (1) for certain refund purposes only and substituted “on or after June 1, 1934” for “subsequent to June 26, 1934”, respectively.
+1936—Subsec. (e)(1). Act June 22, 1936, § 601(a), (g), reenacted par. (1) for certain refund purposes only and substituted “on or after June 1, 1934” for “subsequent to June 26, 1934”, respectively.
 
 Act June 4, 1936, substituted “on or after June 1, 1934” for “subsequent to June 26, 1934”.
 
-Subsec. (e)(3). Act June 22, 1936, § 601(a), reenacted par. (3) for certain refund purposes only.
+Subsec. (e)(3). Act June 22, 1936, § 601(a), reenacted par. (3) for certain refund purposes only.
 
-Subsec. (g). Act June 22, 1936, § 601(c), repealed subsec. (g) which related to the time for filing refunds.
+Subsec. (g). Act June 22, 1936, § 601(c), repealed subsec. (g) which related to the time for filing refunds.
 
-1935—Subsec. (a)(2). Act Aug. 24, 1935, § 25, substituted a new par. (2) for former par. (2).
+1935—Subsec. (a)(2). Act Aug. 24, 1935, § 25, substituted a new par. (2) for former par. (2).
 
-Subsec. (b). Act Aug. 24, 1935, § 26, amended second sentence generally.
+Subsec. (b). Act Aug. 24, 1935, § 26, amended second sentence generally.
 
-Subsec. (c). Act Aug. 24, 1935, § 20(b), struck out last sentence.
+Subsec. (c). Act Aug. 24, 1935, § 20(b), struck out last sentence.
 
 Subsec. (e). Act Mar. 18, 1935, redesignated former subsec. (c) as (e).
 
-Subsec. (e)(1). Act Aug. 24, 1935, § 27(a), inserted “subsequent to June 26, 1934” at beginning of paragraph, and “in the case of hogs” after “made” in proviso and inserted “In the case of wheat the provisions of this paragraph and of paragraph (2) of this subsection shall apply to flour, prepared flour and cereal preparations made chiefly from wheat, as classified in Wheat Regulations, Series 1, Supplement 1 only; in the case of sugarcane and sugar beets the provisions of this paragraph and of paragraph (2) of this subsection shall apply to sugar only.”
+Subsec. (e)(1). Act Aug. 24, 1935, § 27(a), inserted “subsequent to June 26, 1934” at beginning of paragraph, and “in the case of hogs” after “made” in proviso and inserted “In the case of wheat the provisions of this paragraph and of paragraph (2) of this subsection shall apply to flour, prepared flour and cereal preparations made chiefly from wheat, as classified in Wheat Regulations, Series 1, Supplement 1 only; in the case of sugarcane and sugar beets the provisions of this paragraph and of paragraph (2) of this subsection shall apply to sugar only.”
 
 Subsec. (f). Act Mar. 18, 1935, added subsec. (f).
 
-Subsec. (g). Act Aug. 24, 1935, § 27(b), added subsec. (g).
+Subsec. (g). Act Aug. 24, 1935, § 27(b), added subsec. (g).
 
-1934—Subsec. (a)(1). Act May 9, 1934, § 10, inserted second sentence.
+1934—Subsec. (a)(1). Act May 9, 1934, § 10, inserted second sentence.
 
 Subsec. (c). Act June 26, 1934, added subsec. (c).
 
-Subsec. (c)(1). Act May 9, 1934, § 17, added par. (1).
+Subsec. (c)(1). Act May 9, 1934, § 17, added par. (1).
 
-Subsec. (d). Act May 9, 1934, § 17, added subsec. (d).
+Subsec. (d). Act May 9, 1934, § 17, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2841,15 +2841,15 @@ Appropriations for refunds, etc., see note set out under section 610 of this tit
 
 **Transfer of Functions**
 
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 
-### § 617. Refund on goods exported; bond to suspend tax on commodity intended for export
+### § 617. Refund on goods exported; bond to suspend tax on commodity intended for export
 
 **(a)** Upon the exportation to any foreign country (and/or to the Virgin Islands, American Samoa, the Canal Zone, and the island of Guam) of any product processed wholly or partly from a commodity with respect to which product or commodity a tax has been paid or is payable under this chapter, the tax due and payable or due and paid shall be credited or refunded. Under regulations prescribed by the Commissioner of Internal Revenue, with the approval of the Secretary of the Treasury, the credit or refund shall be allowed to the consignor named in the bill of lading under which the product is exported or to the shipper or to the person liable for the tax provided the consignor waives any claim thereto in favor of such shipper or person liable for the tax. In the case of rice, a tax due under this chapter which has been paid by a tax-payment warrant shall be deemed for the purposes of this subsection to have been paid; and with respect to any refund authorized under this section, the amount scheduled by the Commissioner of Internal Revenue for refunding shall be paid, any provision of law notwithstanding. In the case of sugar beets and sugarcane, this subsection shall be applicable to exports of products thereof to the Virgin Islands, American Samoa, the Canal Zone, and/or the island of Guam only if this chapter with respect to sugar beets and sugarcane is not made applicable thereto. The term “product” includes any product exported as merchandise, or as a container for merchandise, or otherwise.
 
 **(b)** Upon the giving of bond satisfactory to the Secretary of the Treasury for the faithful observance of the provisions of this chapter requiring the payment of taxes, any person shall be entitled, without payment of the tax, to process for such exportation any commodity with respect to which a tax is imposed by this chapter, or to hold for such exportation any article processed wholly or partly therefrom.
 
-(May 12, 1933, ch. 25, title I, § 17, 48 Stat. 40; May 9, 1934, ch. 263, §§ 12, 13, 48 Stat. 676; Mar. 18, 1935, ch. 32, § 11, 49 Stat. 48; Aug. 24, 1935, ch. 641, § 28, 49 Stat. 770; June 22, 1936, ch. 690, § 601(a), 49 Stat. 1739; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, 60 Stat. 1352.)
+(May 12, 1933, ch. 25, title I, § 17, 48 Stat. 40; May 9, 1934, ch. 263, §§ 12, 13, 48 Stat. 676; Mar. 18, 1935, ch. 32, § 11, 49 Stat. 48; Aug. 24, 1935, ch. 641, § 28, 49 Stat. 770; June 22, 1936, ch. 690, § 601(a), 49 Stat. 1739; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7871, 60 Stat. 1352.)
 
 **Editorial Notes**
 
@@ -2875,7 +2875,7 @@ Act Mar. 18, 1935, inserted third sentence.
 
 1934—Subsec. (a). Act May 9, 1934, amended subsec. (a) generally.
 
-Subsec. (b). Act May 9, 1934, § 13, substituted “partly” for “in chief value”.
+Subsec. (b). Act May 9, 1934, § 13, substituted “partly” for “in chief value”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2891,15 +2891,15 @@ Appropriations for refunds, etc., see note set out under section 610 of this tit
 
 **Transfer of Functions**
 
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan. No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan. No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 
-### § 618. Existing contracts; imposition of tax on vendee; collection
+### § 618. Existing contracts; imposition of tax on vendee; collection
 
 **(a)** If (1) any processor, jobber, or wholesaler has, prior to the date a tax with respect to any commodity is first imposed under this chapter, made a bona fide contract of sale for delivery on or after such date, of any article processed wholly or in chief value from such commodity, and if (2) such contract does not permit the addition to the amount to be paid thereunder of the whole of such tax, then (unless the contract prohibits such addition) the vendee shall pay so much of the tax as is not permitted to be added to the contract price.
 
 **(b)** Taxes payable by the vendee shall be paid to the vendor at the time the sale is consummated and shall be collected and paid to the United States by the vendor in the same manner as other taxes under this chapter. In case of failure or refusal by the vendee to pay such taxes to the vendor, the vendor shall report the facts to the Commissioner of Internal Revenue who shall cause collections of such taxes to be made from the vendee.
 
-(May 12, 1933, ch. 25, title I, § 18, 48 Stat. 41.)
+(May 12, 1933, ch. 25, title I, § 18, 48 Stat. 41.)
 
 **Editorial Notes**
 
@@ -2915,19 +2915,19 @@ Validity of remainder of this chapter as not affected should any of the provisio
 
 **Transfer of Functions**
 
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 
-### § 619. Collection of tax; provisions of internal revenue laws applicable; returns
+### § 619. Collection of tax; provisions of internal revenue laws applicable; returns
 
 **(a)** The taxes provided in this chapter shall be collected by the Bureau of Internal Revenue under the direction of the Secretary of the Treasury. Such taxes shall be paid into the Treasury of the United States.
 
 **(b)** All provisions of law, including penalties, applicable with respect to the taxes imposed by section 600 of the Revenue Act of 1926, and the provisions of section 626 of the Revenue Act of 1932, shall, insofar as applicable and not inconsistent with the provisions of this chapter, be applicable in respect of taxes imposed by this chapter: *Provided*, That the Secretary of the Treasury is authorized to permit postponement, for a period not exceeding one hundred and eighty days, of the payment of not exceeding three-fourths of the amount of the taxes covered by any return under this chapter, but postponement of all taxes covered by returns under this chapter for a period not exceeding one hundred and eighty days may be permitted in cases in which the Secretary of the Treasury authorizes such taxes to be paid each month on the amount of the commodity marketed during the next preceding month.
 
-**(c)** Repealed. June 30, 1947, ch. 166, title II, § 206(d), 61 Stat. 208.
+**(c)** Repealed. June 30, 1947, ch. 166, title II, § 206(d), 61 Stat. 208.
 
 **(d)** Under regulations made by the Commissioner of Internal Revenue, with the approval of the Secretary of the Treasury, any person required pursuant to the provisions of this chapter to file a return may be required to file such return and pay the tax shown to be due thereon to the collector of internal revenue for the district in which the processing was done or the liability was incurred. Whenever the Commissioner of Internal Revenue deems it necessary, he may require any person or class of persons handling or dealing in any commodity or product thereof, with respect to which a tax is imposed under the provisions of this chapter, to make a return, render under oath such statements, or to keep such records, as the Commissioner deems sufficient to show whether or not such person, or any other person, is liable for the tax.
 
-(May 12, 1933, ch. 25, title I, § 19, 48 Stat. 41; June 26, 1934, ch. 759, § 3, 48 Stat. 1242; Aug. 24, 1935, ch. 641, § 29, 49 Stat. 770; June 30, 1947, ch. 166, title II, § 206(d), 61 Stat. 208.)
+(May 12, 1933, ch. 25, title I, § 19, 48 Stat. 41; June 26, 1934, ch. 759, § 3, 48 Stat. 1242; Aug. 24, 1935, ch. 641, § 29, 49 Stat. 770; June 30, 1947, ch. 166, title II, § 206(d), 61 Stat. 208.)
 
 **Editorial Notes**
 
@@ -2943,9 +2943,9 @@ Unconstitutionality of processing and floor stock taxes, see note set out under 
 
 1947—Subsec. (c). Act June 30, 1947, repealed subsec. (c) which related to loans by Reconstruction Finance Corporation.
 
-1935—Subsec. (b). Act Aug. 24, 1935, § 29(a), among other changes, inserted at end of proviso “but postponement of all taxes covered by returns under this chapter for a period not exceeding one hundred and eighty days may be permitted in cases in which the Secretary of the Treasury authorizes such taxes to be paid each month on the amount of the commodity marketed during the next preceding month”.
+1935—Subsec. (b). Act Aug. 24, 1935, § 29(a), among other changes, inserted at end of proviso “but postponement of all taxes covered by returns under this chapter for a period not exceeding one hundred and eighty days may be permitted in cases in which the Secretary of the Treasury authorizes such taxes to be paid each month on the amount of the commodity marketed during the next preceding month”.
 
-Subsec. (d). Act Aug. 24, 1935, § 29(b), added subsec. (d).
+Subsec. (d). Act Aug. 24, 1935, § 29(b), added subsec. (d).
 
 1934—Subsec. (b). Act June 26, 1934, substituted “one hundred and eighty” for “ninety”.
 
@@ -2959,15 +2959,15 @@ Validity of remainder of this chapter as not affected should any of the provisio
 
 **Transfer of Functions**
 
-Office of Internal Revenue Collector abolished by 1952 Reorg. Plan No. 1, § 1, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and by section 2 thereof a new office of district commissioner of internal revenue was established. Section 4 of the Plan transferred all functions, that had been vested by statute in any officer or employee of Bureau of Internal Revenue since effective date of 1950 Reorg. Plan No. 26, §§ 1, 2, 15 F.R. 4935, 64 Stat. 1280, 1281, to Secretary of the Treasury.
+Office of Internal Revenue Collector abolished by 1952 Reorg. Plan No. 1, § 1, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and by section 2 thereof a new office of district commissioner of internal revenue was established. Section 4 of the Plan transferred all functions, that had been vested by statute in any officer or employee of Bureau of Internal Revenue since effective date of 1950 Reorg. Plan No. 26, §§ 1, 2, 15 F.R. 4935, 64 Stat. 1280, 1281, to Secretary of the Treasury.
 
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Collector and Commissioner of Internal Revenue, referred to in this section, are officers of Department of the Treasury.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5. Collector and Commissioner of Internal Revenue, referred to in this section, are officers of Department of the Treasury.
 
-### § 619a. Cotton tax, time for payment
+### § 619a. Cotton tax, time for payment
 
 The processing tax authorized by section 609 of this title, when levied upon cotton, shall be payable ninety days after the filing of the processor’s report: *Provided*, That, under regulations to be prescribed by the Secretary of the Treasury, the time for payment of such tax upon cotton may be extended, but in no case to exceed six months from the date of the filing of the report.
 
-(May 17, 1935, ch. 131, title I, § 2, 49 Stat. 281.)
+(May 17, 1935, ch. 131, title I, § 2, 49 Stat. 281.)
 
 **Editorial Notes**
 
@@ -2985,7 +2985,7 @@ Unconstitutionality of processing and floor stock taxes, see note set out under 
 
 Validity of remainder of this chapter as not affected should any of the provisions of this chapter be declared unconstitutional, see section 614 of this title.
 
-### § 620. Falsely ascribing deductions or charges to taxes; penalty
+### § 620. Falsely ascribing deductions or charges to taxes; penalty
 
 **(a)** Whoever in connection with the purchase of, or offer to purchase, any commodity, subject to any tax under this chapter, or which is to be subjected to any tax under this chapter, makes any statement, written or oral, (1) intended or calculated to lead any person to believe that any amount deducted from the market price or the agreed price of the commodity consists of a tax imposed under this chapter, or (2) ascribing a particular part of the deduction from the market price or the agreed price of the commodity, to a tax imposed under this chapter, knowing that such statement is false or that the tax is not so great as the amount deducted from the market price or the agreed price of the commodity, ascribed to such tax, shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $1,000 or by imprisonment for not exceeding six months, or both.
 
@@ -2993,7 +2993,7 @@ Validity of remainder of this chapter as not affected should any of the provisio
 
 **(c)** Whoever in connection with any settlement, under a contract to buy any commodity, and/or to sell such commodity, or any product or byproduct thereof, subject to any tax under this chapter, makes any statement, written or oral, (1) intended or calculated to lead any person to believe that any amount deducted from the gross sales price, in arriving at the basis of settlement under the contract, consists of a tax under this chapter, or (2) ascribing a particular amount deducted from the gross sales price, in arriving at the basis of settlement under the contract, to a tax imposed under this chapter, knowing that such statement is false, or that the tax is not so great as the amount so deducted and/or ascribed to such tax, shall be guilty of a misdemeanor, and, upon conviction thereof, shall be punished by a fine of not more than $1,000 or by imprisonment for not exceeding six months, or both.
 
-(May 12, 1933, ch. 25, title I, § 20, as added May 9, 1934, ch. 263, § 16, 48 Stat. 677.)
+(May 12, 1933, ch. 25, title I, § 20, as added May 9, 1934, ch. 263, § 16, 48 Stat. 677.)
 
 **Editorial Notes**
 
@@ -3001,11 +3001,11 @@ Validity of remainder of this chapter as not affected should any of the provisio
 
 Unconstitutionality of processing and floor stock taxes, see note set out under section 616 of this title.
 
-### § 621. Machinery belting processed from cotton; exemption from tax
+### § 621. Machinery belting processed from cotton; exemption from tax
 
 The provisions of section 616 of this title, shall not apply to articles of machinery belting processed wholly or in chief value from cotton, if such processing was completed prior to January 1, 1930.
 
-(June 26, 1934, ch. 753, § 1, 48 Stat. 1223.)
+(June 26, 1934, ch. 753, § 1, 48 Stat. 1223.)
 
 **Editorial Notes**
 
@@ -3017,15 +3017,15 @@ Section was not enacted as part of the Agricultural Adjustment Act which compris
 
 Unconstitutionality of processing and floor stock taxes, see note set out under section 616 of this title.
 
-### § 622. Omitted
+### § 622. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 26, 1934, ch. 753, § 2, 48 Stat. 1223, related to refunding or crediting of taxes paid under section 616 of this title.
+Section, act June 26, 1934, ch. 753, § 2, 48 Stat. 1223, related to refunding or crediting of taxes paid under section 616 of this title.
 
-### § 623. Actions relating to tax; legalization of prior taxes
+### § 623. Actions relating to tax; legalization of prior taxes
 
 **(a) Action to restrain collection of tax or obtain declaratory judgment forbidden**
 
@@ -3039,7 +3039,7 @@ The taxes imposed under this chapter, as determined, prescribed, proclaimed and 
 
 The making of rental and benefit payments under this chapter, prior to August 24, 1935, as determined, prescribed, proclaimed and made effective by the proclamations of the Secretary of Agriculture or of the President or by regulations of the Secretary, and the initiation, if formally approved by the Secretary of Agriculture prior to such date of adjustment programs under section 608(1) of this title, and the making of agreements with producers prior to such date, and the adoption of other voluntary methods prior to such date, by the Secretary of Agriculture under this chapter, and rental and benefit payments made pursuant thereto, are legalized and ratified, and the making of all such agreements and payments, the initiation of such programs, and the adoption of all such methods prior to such date are legalized, ratified, and confirmed as fully to all intents and purposes as if each such agreement, program, method, and payment had been specifically authorized and made effective and the rate and amount thereof fixed specifically by prior Act of Congress.
 
-(May 12, 1933, ch. 25, title I, § 21, as added Aug. 24, 1935, ch. 641, § 30, 49 Stat. 770; amended June 22, 1936, ch. 690, §§ 601(c), 901, 49 Stat. 1740, 1747; Pub. L. 95–598, title III, § 304, Nov. 6, 1978, 92 Stat. 2673.)
+(May 12, 1933, ch. 25, title I, § 21, as added Aug. 24, 1935, ch. 641, § 30, 49 Stat. 770; amended June 22, 1936, ch. 690, §§ 601(c), 901, 49 Stat. 1740, 1747; Pub. L. 95–598, title III, § 304, Nov. 6, 1978, 92 Stat. 2673.)
 
 **Editorial Notes**
 
@@ -3059,9 +3059,9 @@ Unconstitutionality of processing and floor stock taxes, see note set out under 
 
 **Amendments**
 
-1978—Subsec. (a). Pub. L. 95–598 struck out “, and bankruptcy” after “receivership” in first sentence, and struck out “bankruptcy,” after “receivership” in second sentence.
+1978—Subsec. (a). Pub. L. 95–598 struck out “, and bankruptcy” after “receivership” in first sentence, and struck out “bankruptcy,” after “receivership” in second sentence.
 
-1936—Subsecs. (d) to (g). Act June 22, 1936, § 901, repealed subsec. (d) relating to prohibition on making certain refunds, subsec. (e) providing for access to books, and subsec. (g) providing for recovery of taxes erroneously collected, and act June 22, 1936, § 601(c), repealed subsec. (f) relating to time for filing claim for refund.
+1936—Subsecs. (d) to (g). Act June 22, 1936, § 901, repealed subsec. (d) relating to prohibition on making certain refunds, subsec. (e) providing for access to books, and subsec. (g) providing for recovery of taxes erroneously collected, and act June 22, 1936, § 601(c), repealed subsec. (f) relating to time for filing claim for refund.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3077,9 +3077,9 @@ Validity of remainder of this chapter as not affected should any of the provisio
 
 **Transfer of Functions**
 
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 
-### § 624. Limitation on imports; authority of President
+### § 624. Limitation on imports; authority of President
 
 **(a)** Whenever the Secretary of Agriculture has reason to believe that any article or articles are being or are practically certain to be imported into the United States under such conditions and in such quantities as to render or tend to render ineffective, or materially interfere with, any program or operation undertaken under this chapter or the Soil Conservation and Domestic Allotment Act, as amended [16 U.S.C. 590a et seq.], or section 612c of this title, or any loan, purchase, or other program or operation undertaken by the Department of Agriculture, or any agency operating under its direction, with respect to any agricultural commodity or product thereof, or to reduce substantially the amount of any product processed in the United States from any agricultural commodity or product thereof with respect to which any such program or operation is being undertaken, he shall so advise the President, and, if the President agrees that there is reason for such belief, the President shall cause an immediate investigation to be made by the United States International Trade Commission, which shall give precedence to investigations under this section to determine such facts. Such investigation shall be made after due notice and opportunity for hearing to interested parties, and shall be conducted subject to such regulations as the President shall specify.
 
@@ -3095,7 +3095,7 @@ In any case where the Secretary of Agriculture determines and reports to the Pre
 
 **(f)** No quantitative limitation or fee shall be imposed under this section with respect to any article that is the product of a WTO member (as defined in section 3501(10) of title 19).
 
-(May 12, 1933, ch. 25, title I, § 22, as added Aug. 24, 1935, ch. 641, § 31, 49 Stat. 773; amended Feb. 29, 1936, ch. 104, § 5, 49 Stat. 1152; June 3, 1937, ch. 296, § 1, 50 Stat. 246; Jan. 25, 1940, ch. 13, 54 Stat. 17; July 3, 1948, ch. 827, title I, § 3, 62 Stat. 1248; June 28, 1950, ch. 381, § 3, 64 Stat. 261; June 16, 1951, ch. 141, § 8(b), 65 Stat. 75; Aug. 7, 1953, ch. 348, title I, § 104, 67 Stat. 472; Pub. L. 93–618, title I, § 171(b), Jan. 3, 1975, 88 Stat. 2009; Pub. L. 100–449, title III, § 301(c), Sept. 28, 1988, 102 Stat. 1868; Pub. L. 103–465, title IV, § 401(a)(1), Dec. 8, 1994, 108 Stat. 4957.)
+(May 12, 1933, ch. 25, title I, § 22, as added Aug. 24, 1935, ch. 641, § 31, 49 Stat. 773; amended Feb. 29, 1936, ch. 104, § 5, 49 Stat. 1152; June 3, 1937, ch. 296, § 1, 50 Stat. 246; Jan. 25, 1940, ch. 13, 54 Stat. 17; July 3, 1948, ch. 827, title I, § 3, 62 Stat. 1248; June 28, 1950, ch. 381, § 3, 64 Stat. 261; June 16, 1951, ch. 141, § 8(b), 65 Stat. 75; Aug. 7, 1953, ch. 348, title I, § 104, 67 Stat. 472; Pub. L. 93–618, title I, § 171(b), Jan. 3, 1975, 88 Stat. 2009; Pub. L. 100–449, title III, § 301(c), Sept. 28, 1988, 102 Stat. 1868; Pub. L. 103–465, title IV, § 401(a)(1), Dec. 8, 1994, 108 Stat. 4957.)
 
 **Amendment of Section**
 
@@ -3105,9 +3105,9 @@ For termination of amendment by section 501(c) of Pub. L. 100–449, see Effecti
 
 **References in Text**
 
-The Soil Conservation and Domestic Allotment Act, as amended, referred to in subsec. (a), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+The Soil Conservation and Domestic Allotment Act, as amended, referred to in subsec. (a), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 
-The Tariff Act of 1930, referred to in subsec. (c), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsec. (c), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 **Codification**
 
@@ -3121,7 +3121,7 @@ Unconstitutionality of processing and floor stock taxes, see note set out under 
 
 1994—Subsec. (f). Pub. L. 103–465 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “No trade agreement or other international agreement heretofore or hereafter entered into by the United States shall be applied in a manner inconsistent with the requirements of this section; except that the President may, pursuant to articles 705.5 and 707 of the United States-Canada Free-Trade Agreement, exempt products of Canada from any import restriction imposed under this section.”
 
-1988—Subsec. (f). Pub. L. 100–449 temporarily inserted before period at end “; except that the President may, pursuant to articles 705.5 and 707 of the United States-Canada Free-Trade Agreement, exempt products of Canada from any import restriction imposed under this section”. See Effective and Termination Dates of 1988 Amendment note below.
+1988—Subsec. (f). Pub. L. 100–449 temporarily inserted before period at end “; except that the President may, pursuant to articles 705.5 and 707 of the United States-Canada Free-Trade Agreement, exempt products of Canada from any import restriction imposed under this section”. See Effective and Termination Dates of 1988 Amendment note below.
 
 1975—Subsecs. (a), (b). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
 
@@ -3145,7 +3145,7 @@ Subsec. (f). Act June 28, 1950, made certain that future international agreement
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–465, title IV, § 401(a)(2), Dec. 8, 1994, 108 Stat. 4957, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995], except that with respect to wheat, that amendment shall take effect on the later of such date or September 12, 1995.”
+Pub. L. 103–465, title IV, § 401(a)(2), Dec. 8, 1994, 108 Stat. 4957, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on the date of entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995], except that with respect to wheat, that amendment shall take effect on the later of such date or September 12, 1995.”
 
 **Effective and Termination Dates of 1988 Amendment**
 
@@ -3153,7 +3153,7 @@ Amendment by Pub. L. 100–449 effective on the date the United States-Canada Fr
 
 **Effective Date of 1948 Amendment**
 
-Act July 3, 1948, ch. 827, title I, § 6, 62 Stat. 1250, provided that: “This title [amending this section and section 590h of Title 16, Conservation, enacting provisions set out as notes under sections 1282 and 1312 of this title, and amending provisions set out as a note under section 713a–8 of Title 15, Commerce and Trade] shall take effect on January 1, 1949, except that sections 3 and 4 [amending this section and section 590h of Title 16] shall take effect on the date of enactment of this Act [July 3, 1948].”
+Act July 3, 1948, ch. 827, title I, § 6, 62 Stat. 1250, provided that: “This title [amending this section and section 590h of Title 16, Conservation, enacting provisions set out as notes under sections 1282 and 1312 of this title, and amending provisions set out as a note under section 713a–8 of Title 15, Commerce and Trade] shall take effect on January 1, 1949, except that sections 3 and 4 [amending this section and section 590h of Title 16] shall take effect on the date of enactment of this Act [July 3, 1948].”
 
 **Validity of Section Affirmed**
 
@@ -3161,15 +3161,15 @@ Act June 3, 1937, affirmed and validated, and reenacted without change the provi
 
 **Report to Congress on Termination or Suspension of Quantitative Limitations or Fees**
 
-Pub. L. 101–624, title XV, § 1554, Nov. 28, 1990, 104 Stat. 3697, directed Secretary of Agriculture to report to Congress before effective date of suspension or termination of any quantitative limitations or fees in effect under 7 U.S.C. 624 on consequences of lifting of limitations or fees, prior to repeal by Pub. L. 104–127, title II, § 281(a), Apr. 4, 1996, 110 Stat. 980.
+Pub. L. 101–624, title XV, § 1554, Nov. 28, 1990, 104 Stat. 3697, directed Secretary of Agriculture to report to Congress before effective date of suspension or termination of any quantitative limitations or fees in effect under 7 U.S.C. 624 on consequences of lifting of limitations or fees, prior to repeal by Pub. L. 104–127, title II, § 281(a), Apr. 4, 1996, 110 Stat. 980.
 
 **Interference With Tobacco Price Support Program**
 
-Pub. L. 100–418, title IV, § 4609, Aug. 23, 1988, 102 Stat. 1411, provided that it was the sense of Congress that the amounts of assessments collected under the no-net-cost tobacco program could be an indicator of import injury and material interference with the tobacco price support program and, for purposes of any investigation conducted under subsec. (a) of this section, with respect to tobacco or articles containing tobacco imported into the United States, the International Trade Commission would take into account, as if they were costs to the Federal government, contributions and assessments imposed under former sections 1445–1 and 1445–2 of this title in determining whether such imported tobacco or articles containing tobacco had materially interfered with the tobacco price support program.
+Pub. L. 100–418, title IV, § 4609, Aug. 23, 1988, 102 Stat. 1411, provided that it was the sense of Congress that the amounts of assessments collected under the no-net-cost tobacco program could be an indicator of import injury and material interference with the tobacco price support program and, for purposes of any investigation conducted under subsec. (a) of this section, with respect to tobacco or articles containing tobacco imported into the United States, the International Trade Commission would take into account, as if they were costs to the Federal government, contributions and assessments imposed under former sections 1445–1 and 1445–2 of this title in determining whether such imported tobacco or articles containing tobacco had materially interfered with the tobacco price support program.
 
 **Dairy Import Study by Secretary of Agriculture; Report to Congress by Jan. 1, 1975**
 
-Pub. L. 91–524, title II, § 205, as added Pub. L. 93–86, § 1(6), Aug. 10, 1973, 87 Stat. 223; amended Pub. L. 93–125, § 1(a)(i), Oct. 18, 1973, 87 Stat. 450, authorized the Secretary of Agriculture to determine the effect upon domestic dairy producers, handlers, and processors and upon consumers of increases in the level of imports, if any, of dairy products and report his findings, together with any recommendations he may have with respect to import quotas or other matters, to the Congress of the United States no later than Jan. 1, 1975, defined dairy products as including (1) all forms of milk and dairy products, butterfat, milk solids-not-fat, and any combination or mixture thereof; (2) any article, compound, or mixture containing 5 per centum or more of butterfat, or milk solids-not-fat, or any combinations of the two; and (3) lactose, and other derivatives of milk, butterfat, or milk solids-not-fat, if imported commercially for any food use, and excluded from the definition of dairy products (1) casein, caseinates, industrial casein, industrial caseinates, or any other industrial products, not to be used in any form for any food use, or an ingredient of food; or (2) articles not normally considered to be dairy products, such as candy, bakery goods, and other similar articles.
+Pub. L. 91–524, title II, § 205, as added Pub. L. 93–86, § 1(6), Aug. 10, 1973, 87 Stat. 223; amended Pub. L. 93–125, § 1(a)(i), Oct. 18, 1973, 87 Stat. 450, authorized the Secretary of Agriculture to determine the effect upon domestic dairy producers, handlers, and processors and upon consumers of increases in the level of imports, if any, of dairy products and report his findings, together with any recommendations he may have with respect to import quotas or other matters, to the Congress of the United States no later than Jan. 1, 1975, defined dairy products as including (1) all forms of milk and dairy products, butterfat, milk solids-not-fat, and any combination or mixture thereof; (2) any article, compound, or mixture containing 5 per centum or more of butterfat, or milk solids-not-fat, or any combinations of the two; and (3) lactose, and other derivatives of milk, butterfat, or milk solids-not-fat, if imported commercially for any food use, and excluded from the definition of dairy products (1) casein, caseinates, industrial casein, industrial caseinates, or any other industrial products, not to be used in any form for any food use, or an ingredient of food; or (2) articles not normally considered to be dairy products, such as candy, bakery goods, and other similar articles.
 
 **Executive Documents**
 
@@ -3229,9 +3229,9 @@ DONE at the City of Washington this 11th day of September in the year of our Lor
 
 John F. Kennedy.
 
-### § 625. Repealed. Pub. L. 108–357, title VI, § 611(s), Oct. 22, 2004, 118 Stat. 1523
+### § 625. Repealed. Pub. L. 108–357, title VI, § 611(s), Oct. 22, 2004, 118 Stat. 1523
 
-Section, Pub. L. 98–59, § 3, July 25, 1983, 97 Stat. 296, related to review of the effects of Burley tobacco imports on the Department of Agriculture’s Burley tobacco price-support program.
+Section, Pub. L. 98–59, § 3, July 25, 1983, 97 Stat. 296, related to review of the effects of Burley tobacco imports on the Department of Agriculture’s Burley tobacco price-support program.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3243,7 +3243,7 @@ Repeal applicable to the 2005 and subsequent crops of tobacco, see section 643 o
 
 Repeal not to affect the liability of any person under this section with respect to the 2004 or an earlier crop of tobacco, see section 614 of Pub. L. 108–357, set out as a note under section 515 of this title.
 
-### § 626. Import inventory
+### § 626. Import inventory
 
 **(a) Compilation and report on imports**
 
@@ -3257,7 +3257,7 @@ The Secretary shall compile and report to the public data on the total quantity 
 
 The reports required by this section shall be made in a format that correlates statistics for the quantity and value of imported agricultural products to the production and consumption of domestic agricultural products. The Secretary shall issue such reports on an annual basis, with the first report required not later than 1 year after August 23, 1988.
 
-(Pub. L. 100–418, title IV, § 4502, Aug. 23, 1988, 102 Stat. 1403.)
+(Pub. L. 100–418, title IV, § 4502, Aug. 23, 1988, 102 Stat. 1403.)
 
 **Editorial Notes**
 
@@ -3265,7 +3265,7 @@ The reports required by this section shall be made in a format that correlates s
 
 Section was enacted as part of the Agricultural Competitiveness and Trade Act of 1988 and also as part of the Omnibus Trade and Competitiveness Act of 1988, and not as part of the Agricultural Adjustment Act which comprises this chapter.
 
-### § 627. Dairy forward pricing pilot program
+### § 627. Dairy forward pricing pilot program
 
 **(a) Pilot program required**
 
@@ -3303,7 +3303,7 @@ The Secretary of Agriculture shall conduct a study on forward contracting betwee
 
 Not later than April 30, 2002, the Secretary shall submit to the Committee on Agriculture, Nutrition and Forestry of the Senate and the Committee on Agriculture of the House of Representatives a report containing the results of the study.
 
-(May 12, 1933, ch. 25, title I, § 23, as added Pub. L. 106–113, div. B, § 1000(a)(8) [§ 3], Nov. 29, 1999, 113 Stat. 1536, 1501A–519.)
+(May 12, 1933, ch. 25, title I, § 23, as added Pub. L. 106–113, div. B, § 1000(a)(8) [§ 3], Nov. 29, 1999, 113 Stat. 1536, 1501A–519.)
 
 **Editorial Notes**
 
@@ -3317,48 +3317,48 @@ Another section 23 of act May 12, 1933 amended former section 781 of Title 12, B
 
 **Appropriations for Refunds and Payments of Processing and Related Taxes and Limitations Thereon**
 
-Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, § 1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, § 1, 54 Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, § 1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, § 1, 56 Stat. 156; June 30, 1943, ch. 179, title I, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, § 1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
+Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, § 1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, § 1, 54 Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, § 1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, § 1, 56 Stat. 156; June 30, 1943, ch. 179, title I, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, § 1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
 
-### §§ 641 to 659. Omitted
+### §§ 641 to 659. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 641, act June 22, 1936, ch. 690, § 601, 49 Stat. 1739, related to refunds in cases where exports, deliveries for charitable distribution or use, manufacture of large cotton bags, or the decrease in rate of processing tax took place prior to January 6, 1936, specified persons entitled to refunds, and filing and determination of claims.
+Section 641, act June 22, 1936, ch. 690, § 601, 49 Stat. 1739, related to refunds in cases where exports, deliveries for charitable distribution or use, manufacture of large cotton bags, or the decrease in rate of processing tax took place prior to January 6, 1936, specified persons entitled to refunds, and filing and determination of claims.
 
-Section 642, acts June 22, 1936, ch. 690, § 602, 49 Stat. 1740; Aug. 10, 1939, ch. 666, title IX, § 911, 53 Stat. 1402, specified amount of refunds on articles processed wholly or in chief value from a commodity subject to processing tax, defined certain terms, prohibited payments with respect to retail floor stocks with some exceptions, and made final determinations of Commissioner of Internal Revenue with respect to such payments.
+Section 642, acts June 22, 1936, ch. 690, § 602, 49 Stat. 1740; Aug. 10, 1939, ch. 666, title IX, § 911, 53 Stat. 1402, specified amount of refunds on articles processed wholly or in chief value from a commodity subject to processing tax, defined certain terms, prohibited payments with respect to retail floor stocks with some exceptions, and made final determinations of Commissioner of Internal Revenue with respect to such payments.
 
-Section 643, act June 22, 1936, ch. 690, § 603, 49 Stat. 1742, made applicable proclamations, certificates, and regulations of this chapter for purpose of determining amount of refunds or payments authorized by sections 641 and 642.
+Section 643, act June 22, 1936, ch. 690, § 603, 49 Stat. 1742, made applicable proclamations, certificates, and regulations of this chapter for purpose of determining amount of refunds or payments authorized by sections 641 and 642.
 
-Section 644, acts June 22, 1936, ch. 690, § 902, 49 Stat. 1747; Oct. 21, 1942, ch. 619, title V, §§ 504(a), (c), 510(e), 56 Stat. 957, 968, conditioned allowance of refunds on a showing by claimant that he bore burden of tax or that he repaid such amount unconditionally to his vendee.
+Section 644, acts June 22, 1936, ch. 690, § 902, 49 Stat. 1747; Oct. 21, 1942, ch. 619, title V, §§ 504(a), (c), 510(e), 56 Stat. 957, 968, conditioned allowance of refunds on a showing by claimant that he bore burden of tax or that he repaid such amount unconditionally to his vendee.
 
-Section 645, acts June 22, 1936, ch. 690, § 903, 49 Stat. 1747; June 29, 1939, ch. 247, title IV, § 405, 53 Stat. 884, prohibited refunds except where claims were filed after June 22, 1936, and prior to January 1, 1940, and provided for regulations relating to filing of such claims.
+Section 645, acts June 22, 1936, ch. 690, § 903, 49 Stat. 1747; June 29, 1939, ch. 247, title IV, § 405, 53 Stat. 884, prohibited refunds except where claims were filed after June 22, 1936, and prior to January 1, 1940, and provided for regulations relating to filing of such claims.
 
-Section 646, act June 22, 1936, ch. 690, § 904, 49 Stat. 1747, provided that no action could be brought before expiration of eighteen months from date of filing of a claim, or after expiration of two years from date of mailing to claimant of a notice disallowing the claim.
+Section 646, act June 22, 1936, ch. 690, § 904, 49 Stat. 1747, provided that no action could be brought before expiration of eighteen months from date of filing of a claim, or after expiration of two years from date of mailing to claimant of a notice disallowing the claim.
 
-Section 647, act June 22, 1936, ch. 690, § 905, 49 Stat. 1748, provided for District Courts of the United States to have concurrent jurisdiction with Court of Claims or refund cases regardless of amount in controversy.
+Section 647, act June 22, 1936, ch. 690, § 905, 49 Stat. 1748, provided for District Courts of the United States to have concurrent jurisdiction with Court of Claims or refund cases regardless of amount in controversy.
 
-Section 648, acts June 22, 1936, ch. 690, § 906, 49 Stat. 1748; Oct. 21, 1942, ch. 619, title V, §§ 504(a), (c), 510(b), (f)(1), (g)–(j), 56 Stat. 957, 967; June 25, 1948, ch. 646, § 32, 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107, related to procedure on claims for refunds of processing taxes, review of actions of Commissioner of Internal Revenue by Tax Court, and review of Tax Court decisions by Courts of Appeals.
+Section 648, acts June 22, 1936, ch. 690, § 906, 49 Stat. 1748; Oct. 21, 1942, ch. 619, title V, §§ 504(a), (c), 510(b), (f)(1), (g)–(j), 56 Stat. 957, 967; June 25, 1948, ch. 646, § 32, 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107, related to procedure on claims for refunds of processing taxes, review of actions of Commissioner of Internal Revenue by Tax Court, and review of Tax Court decisions by Courts of Appeals.
 
-Section 649, act June 22, 1936, ch. 690, § 907, 49 Stat. 1751, related to evidence and presumptions.
+Section 649, act June 22, 1936, ch. 690, § 907, 49 Stat. 1751, related to evidence and presumptions.
 
-Section 650, act June 22, 1936, ch. 690, § 908, 49 Stat. 1753, placed limitations on allowance of claims and interest.
+Section 650, act June 22, 1936, ch. 690, § 908, 49 Stat. 1753, placed limitations on allowance of claims and interest.
 
-Section 651, act June 22, 1936, ch. 690, § 909, 49 Stat. 1753, provided that, in absence of fraud or mistake, findings of fact and conclusions of law of Commissioner was conclusive on any other administrative or accounting officer.
+Section 651, act June 22, 1936, ch. 690, § 909, 49 Stat. 1753, provided that, in absence of fraud or mistake, findings of fact and conclusions of law of Commissioner was conclusive on any other administrative or accounting officer.
 
-Section 652, act June 22, 1936, ch. 690, § 910, 49 Stat. 1753, related to liability of collectors.
+Section 652, act June 22, 1936, ch. 690, § 910, 49 Stat. 1753, related to liability of collectors.
 
-Section 653, act June 22, 1936, ch. 690, § 911, 49 Stat. 1753, made provisions of former sections 644–659 of this title inapplicable to certain refunds.
+Section 653, act June 22, 1936, ch. 690, § 911, 49 Stat. 1753, made provisions of former sections 644–659 of this title inapplicable to certain refunds.
 
-Section 654, act June 22, 1936, ch. 690, § 912, 49 Stat. 1754, provided that suits or proceedings, and claims barred on June 22, 1936, shall remain barred.
+Section 654, act June 22, 1936, ch. 690, § 912, 49 Stat. 1754, provided that suits or proceedings, and claims barred on June 22, 1936, shall remain barred.
 
-Section 655, act June 22, 1936, ch. 690, § 913, 49 Stat. 1754, defined “tax”, “processing tax,” “commodity”, “article”, “refund”, and “Agricultural Adjustment Act”.
+Section 655, act June 22, 1936, ch. 690, § 913, 49 Stat. 1754, defined “tax”, “processing tax,” “commodity”, “article”, “refund”, and “Agricultural Adjustment Act”.
 
-Section 656, act June 22, 1936, ch. 690, § 914, 49 Stat. 1754, related to authority of Commissioner of Internal Revenue.
+Section 656, act June 22, 1936, ch. 690, § 914, 49 Stat. 1754, related to authority of Commissioner of Internal Revenue.
 
-Section 657, act June 22, 1936, ch. 690, § 915, 49 Stat. 1755, relating to salaries and administrative expenses, made funds available until June 30, 1937, and was not extended.
+Section 657, act June 22, 1936, ch. 690, § 915, 49 Stat. 1755, relating to salaries and administrative expenses, made funds available until June 30, 1937, and was not extended.
 
-Section 658, act June 22, 1936, ch. 690, § 916, 49 Stat. 1755, provided that Commissioner of Internal Revenue, with approval of Secretary of Agriculture, prescribe rules and regulations for carrying out provisions of sections 644 to 659 of this title.
+Section 658, act June 22, 1936, ch. 690, § 916, 49 Stat. 1755, provided that Commissioner of Internal Revenue, with approval of Secretary of Agriculture, prescribe rules and regulations for carrying out provisions of sections 644 to 659 of this title.
 
-Section 659, act June 22, 1936, ch. 690, § 917, 49 Stat. 1755, related to personnel.
+Section 659, act June 22, 1936, ch. 690, § 917, 49 Stat. 1755, related to personnel.

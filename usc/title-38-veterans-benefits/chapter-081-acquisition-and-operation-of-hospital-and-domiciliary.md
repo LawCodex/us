@@ -17,83 +17,83 @@ retrieved: 2026-10-11
 
 **Amendment of Analysis**
 
-Pub. L. 108–422, title IV, § 411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, this analysis is amended by striking out item 8116.
+Pub. L. 108–422, title IV, § 411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, this analysis is amended by striking out item 8116.
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–328, div. U, title IV, § 403(b), Dec. 29, 2022, 136 Stat. 5490, added heading for subchapter VI and items 8171 to 8175.
+2022—Pub. L. 117–328, div. U, title IV, § 403(b), Dec. 29, 2022, 136 Stat. 5490, added heading for subchapter VI and items 8171 to 8175.
 
-Pub. L. 117–168, § 1(b)(2), title VII, § 705(d), Aug. 10, 2022, 136 Stat. 1759, 1800, which directed amendment of the analyses of this title to conform to additions or amendments of section and unit headings, was executed to this analysis by striking out item 8169 “Expiration” to conform to the repeal of section 8169 of this title, to reflect the probable intent of Congress.
+Pub. L. 117–168, § 1(b)(2), title VII, § 705(d), Aug. 10, 2022, 136 Stat. 1759, 1800, which directed amendment of the analyses of this title to conform to additions or amendments of section and unit headings, was executed to this analysis by striking out item 8169 “Expiration” to conform to the repeal of section 8169 of this title, to reflect the probable intent of Congress.
 
-2021—Pub. L. 117–81, div. A, title VII, § 714(b)(2), Dec. 27, 2021, 135 Stat. 1787, which directed amendment of the table of sections at the beginning of subchapter I of chapter 81 by adding item 8111B, was executed to the table of sections at the beginning of this chapter to reflect the probable intent of Congress.
+2021—Pub. L. 117–81, div. A, title VII, § 714(b)(2), Dec. 27, 2021, 135 Stat. 1787, which directed amendment of the table of sections at the beginning of subchapter I of chapter 81 by adding item 8111B, was executed to the table of sections at the beginning of this chapter to reflect the probable intent of Congress.
 
-Pub. L. 116–315, title VII, § 7003(b), Jan. 5, 2021, 134 Stat. 5058, added item 8129.
+Pub. L. 116–315, title VII, § 7003(b), Jan. 5, 2021, 134 Stat. 5058, added item 8129.
 
-2018—Pub. L. 115–182, title I, § 112(b), June 6, 2018, 132 Stat. 1421, added item 8159.
+2018—Pub. L. 115–182, title I, § 112(b), June 6, 2018, 132 Stat. 1421, added item 8159.
 
-2016—Pub. L. 114–315, title VIII, § 801(d)(2), Dec. 16, 2016, 130 Stat. 1591, added item 8120.
+2016—Pub. L. 114–315, title VIII, § 801(d)(2), Dec. 16, 2016, 130 Stat. 1591, added item 8120.
 
-2012—Pub. L. 112—154, title II, § 211(i)(3), Aug. 6, 2012, 126 Stat. 1182, added item 8168.
+2012—Pub. L. 112—154, title II, § 211(i)(3), Aug. 6, 2012, 126 Stat. 1182, added item 8168.
 
-2010—Pub. L. 111–163, title V, § 501(b)(2), May 5, 2010, 124 Stat. 1157, struck out item 8107 “Operational and construction plans for medical facilities”.
+2010—Pub. L. 111–163, title V, § 501(b)(2), May 5, 2010, 124 Stat. 1157, struck out item 8107 “Operational and construction plans for medical facilities”.
 
-2008—Pub. L. 110–387, title VII, § 708(c), Oct. 10, 2008, 122 Stat. 4140, added item 8119.
+2008—Pub. L. 110–387, title VII, § 708(c), Oct. 10, 2008, 122 Stat. 4140, added item 8119.
 
-2006—Pub. L. 109–461, title II, § 211(c)(2), title V, §§ 502(a)(2), 503(a)(2), Dec. 22, 2006, 120 Stat. 3421, 3435, 3436, added items 8127, 8128, and 8138.
+2006—Pub. L. 109–461, title II, § 211(c)(2), title V, §§ 502(a)(2), 503(a)(2), Dec. 22, 2006, 120 Stat. 3421, 3435, 3436, added items 8127, 8128, and 8138.
 
-2004—Pub. L. 108–422, title IV, § 411(a)(2), Nov. 30, 2004, 118 Stat. 2389, added item 8118.
+2004—Pub. L. 108–422, title IV, § 411(a)(2), Nov. 30, 2004, 118 Stat. 2389, added item 8118.
 
-2003—Pub. L. 108–170, title II, § 202(d)(2), Dec. 6, 2003, 117 Stat. 2048, substituted “Hearing and notice requirements regarding proposed leases” for “Designation of property to be leased” in item 8163.
+2003—Pub. L. 108–170, title II, § 202(d)(2), Dec. 6, 2003, 117 Stat. 2048, substituted “Hearing and notice requirements regarding proposed leases” for “Designation of property to be leased” in item 8163.
 
-2002—Pub. L. 107–314, div. A, title VII, § 721(a)(2), Dec. 2, 2002, 116 Stat. 2595, substituted “Sharing of Department of Veterans Affairs and Department of Defense health care resources” for “Sharing of Department and Department of Defense health-care resources” in item 8111.
+2002—Pub. L. 107–314, div. A, title VII, § 721(a)(2), Dec. 2, 2002, 116 Stat. 2595, substituted “Sharing of Department of Veterans Affairs and Department of Defense health care resources” for “Sharing of Department and Department of Defense health-care resources” in item 8111.
 
-Pub. L. 107–287, § 6(a)(2), Nov. 7, 2002, 116 Stat. 2032, added item 8117.
+Pub. L. 107–287, § 6(a)(2), Nov. 7, 2002, 116 Stat. 2032, added item 8117.
 
-1997—Pub. L. 105–114, title II, § 205(b)(2), Nov. 21, 1997, 111 Stat. 2289, struck out item 8168 “Limitation on number of agreements”.
+1997—Pub. L. 105–114, title II, § 205(b)(2), Nov. 21, 1997, 111 Stat. 2289, struck out item 8168 “Limitation on number of agreements”.
 
-1996—Pub. L. 104–262, title III, § 301(d)(2), Oct. 9, 1996, 110 Stat. 3193, substituted “Sharing of health-care resources” for “Specialized medical resources” in item 8153.
+1996—Pub. L. 104–262, title III, § 301(d)(2), Oct. 9, 1996, 110 Stat. 3193, substituted “Sharing of health-care resources” for “Specialized medical resources” in item 8153.
 
-1994—Pub. L. 103–446, title XII, § 1201(h)(5), (6), Nov. 2, 1994, 108 Stat. 4688, inserted “ENHANCED-USE” before “LEASES OF REAL” in chapter heading and “and certain other Federal agencies” after “Department” in item 8126.
+1994—Pub. L. 103–446, title XII, § 1201(h)(5), (6), Nov. 2, 1994, 108 Stat. 4688, inserted “ENHANCED-USE” before “LEASES OF REAL” in chapter heading and “and certain other Federal agencies” after “Department” in item 8126.
 
-1992—Pub. L. 102–585, title VI, § 603(a)(2), Nov. 4, 1992, 106 Stat. 4975, added item 8126.
+1992—Pub. L. 102–585, title VI, § 603(a)(2), Nov. 4, 1992, 106 Stat. 4975, added item 8126.
 
-Pub. L. 102–405, title I, § 103(a)(2), Oct. 9, 1992, 106 Stat. 1975, added items 8157 and 8158.
+Pub. L. 102–405, title I, § 103(a)(2), Oct. 9, 1992, 106 Stat. 1975, added items 8157 and 8158.
 
-1991—Pub. L. 102–86, title IV, § 401(b)(1), (3), Aug. 14, 1991, 105 Stat. 422, inserted “; LEASES OF REAL PROPERTY” in chapter heading and added analysis for subchapter V.
+1991—Pub. L. 102–86, title IV, § 401(b)(1), (3), Aug. 14, 1991, 105 Stat. 422, inserted “; LEASES OF REAL PROPERTY” in chapter heading and added analysis for subchapter V.
 
-Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “Department and” for “Veterans’ Administration and” in item 8111.
+Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “Department and” for “Veterans’ Administration and” in item 8111.
 
-Pub. L. 102–54, § 14(f)(1), June 13, 1991, 105 Stat. 287, amended the table of sections as in effect immediately before the enactment of Pub. L. 102–40 by transferring item 5016 so as to appear immediately after item 5015 and by substituting “payments” for “Payments” in item 5035.
+Pub. L. 102–54, § 14(f)(1), June 13, 1991, 105 Stat. 287, amended the table of sections as in effect immediately before the enactment of Pub. L. 102–40 by transferring item 5016 so as to appear immediately after item 5015 and by substituting “payments” for “Payments” in item 5035.
 
-Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 5001 to 5056 as 8101 to 8156, respectively.
+Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 5001 to 5056 as 8101 to 8156, respectively.
 
-1988—Pub. L. 100–322, title II, § 205(b), May 20, 1988, 102 Stat. 513, added at end item 5016.
+1988—Pub. L. 100–322, title II, § 205(b), May 20, 1988, 102 Stat. 513, added at end item 5016.
 
-Pub. L. 100–322, title IV, § 403(a)(2), May 20, 1988, 102 Stat. 545, added item 5025.
+Pub. L. 100–322, title IV, § 403(a)(2), May 20, 1988, 102 Stat. 545, added item 5025.
 
-1986—Pub. L. 99–576, title II, §§ 223(a)(2), 231(c)(2)(B), Oct. 28, 1986, 100 Stat. 3261, 3264, substituted “Parking facilities” for “Garages and parking facilities” in item 5009 and struck out item 5057 “Reports to Congress”.
+1986—Pub. L. 99–576, title II, §§ 223(a)(2), 231(c)(2)(B), Oct. 28, 1986, 100 Stat. 3261, 3264, substituted “Parking facilities” for “Garages and parking facilities” in item 5009 and struck out item 5057 “Reports to Congress”.
 
-1985—Pub. L. 99–166, title III, § 302(c)(2), Dec. 3, 1985, 99 Stat. 955, substituted “Operational and construction plans for medical facilities” for “Reports to congressional committees” in item 5007.
+1985—Pub. L. 99–166, title III, § 302(c)(2), Dec. 3, 1985, 99 Stat. 955, substituted “Operational and construction plans for medical facilities” for “Reports to congressional committees” in item 5007.
 
-1982—Pub. L. 97–174, §§ 3(b)(2), 4(b), May 4, 1982, 96 Stat. 74, 75, substituted “Sharing of Veterans’ Administration and Department of Defense health-care resources” for “Use of Armed Forces facilities” in item 5011, and added item 5011A.
+1982—Pub. L. 97–174, §§ 3(b)(2), 4(b), May 4, 1982, 96 Stat. 74, 75, substituted “Sharing of Veterans’ Administration and Department of Defense health-care resources” for “Use of Armed Forces facilities” in item 5011, and added item 5011A.
 
-1979—Pub. L. 96–22, title III, § 301(c), June 13, 1979, 93 Stat. 61, substituted “ACQUISITION AND OPERATION OF MEDICAL FACILITIES” for “PROVISIONS RELATING TO HOSPITALS AND HOMES” in heading for subchapter I, substituted “Definitions” for “Hospital and domiciliary facilities” in item 5001, “Acquisition of medical facilities” for “Construction and repair of buildings” in item 5002, “Authority to construct and alter, and acquire sites for, medical facilities” for “Use of Armed Forces facilities” in item 5003, “Congressional approval of certain medical facility acquisitions” for “Garages and parking facilities” in item 5004, “Structural requirements” for “Acceptance of certain property” in item 5005, “Construction contracts” for “Property formerly owned by National Home for Disabled Volunteer Soldiers” in item 5006, and “Reports to congressional committees” for “Partial relinquishment of legislative jurisdiction” in item 5007, added items 5008 to 5015, and redesignated former items 5011 to 5014 as 5021 to 5024, respectively.
+1979—Pub. L. 96–22, title III, § 301(c), June 13, 1979, 93 Stat. 61, substituted “ACQUISITION AND OPERATION OF MEDICAL FACILITIES” for “PROVISIONS RELATING TO HOSPITALS AND HOMES” in heading for subchapter I, substituted “Definitions” for “Hospital and domiciliary facilities” in item 5001, “Acquisition of medical facilities” for “Construction and repair of buildings” in item 5002, “Authority to construct and alter, and acquire sites for, medical facilities” for “Use of Armed Forces facilities” in item 5003, “Congressional approval of certain medical facility acquisitions” for “Garages and parking facilities” in item 5004, “Structural requirements” for “Acceptance of certain property” in item 5005, “Construction contracts” for “Property formerly owned by National Home for Disabled Volunteer Soldiers” in item 5006, and “Reports to congressional committees” for “Partial relinquishment of legislative jurisdiction” in item 5007, added items 5008 to 5015, and redesignated former items 5011 to 5014 as 5021 to 5024, respectively.
 
-1977—Pub. L. 95–62, § 4(c), July 5, 1977, 91 Stat. 263, substituted “DOMICILIARY, NURSING HOME, AND HOSPITAL CARE” for “NURSING HOME CARE” in heading for subchapter III.
+1977—Pub. L. 95–62, § 4(c), July 5, 1977, 91 Stat. 263, substituted “DOMICILIARY, NURSING HOME, AND HOSPITAL CARE” for “NURSING HOME CARE” in heading for subchapter III.
 
-1976—Pub. L. 94–581, title I, § 115(b), Oct. 21, 1976, 90 Stat. 2853, substituted “health services development activities carried out under the National Health Planning and Resources Development Act of 1974” for “programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965” in item 5056.
+1976—Pub. L. 94–581, title I, § 115(b), Oct. 21, 1976, 90 Stat. 2853, substituted “health services development activities carried out under the National Health Planning and Resources Development Act of 1974” for “programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965” in item 5056.
 
-1973—Pub. L. 93–82, title III, § 302(3), Aug. 2, 1973, 87 Stat. 195, added item 5007.
+1973—Pub. L. 93–82, title III, § 302(3), Aug. 2, 1973, 87 Stat. 195, added item 5007.
 
-1966—Pub. L. 89–785, title II, §§ 201(b), 202(c), 2, Nov. 7, 1966, 80 Stat. 1372, 1373, 1376, substituted “Garages and parking facilities” for “Garages on hospital and domiciliary reservations” in item 5004, inserted “and to negotiate for common services” in item 5012, and added heading for subchapter IV and items 5051 to 5056 and 5075.
+1966—Pub. L. 89–785, title II, §§ 201(b), 202(c), 2, Nov. 7, 1966, 80 Stat. 1372, 1373, 1376, substituted “Garages and parking facilities” for “Garages on hospital and domiciliary reservations” in item 5004, inserted “and to negotiate for common services” in item 5012, and added heading for subchapter IV and items 5051 to 5056 and 5075.
 
-1964—Pub. L. 88–450, § 4(b), Aug. 19, 1964, 78 Stat. 503, added heading for subchapter III and items 5031 to 5037.
+1964—Pub. L. 88–450, § 4(b), Aug. 19, 1964, 78 Stat. 503, added heading for subchapter III and items 5031 to 5037.
 
 ## SUBCHAPTER I—ACQUISITION AND OPERATION OF MEDICAL FACILITIES
 
-### § 8101. Definitions
+### § 8101. Definitions
 
 For the purposes of this subchapter:
 
@@ -105,7 +105,7 @@ For the purposes of this subchapter:
 
 **(4)** The term “committee” means the Committee on Veterans’ Affairs of the House of Representatives or the Committee on Veterans’ Affairs of the Senate, and the term “committees” means both such committees.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 55, § 5001; renumbered § 8101, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 104–262, title II, § 207(a), Oct. 9, 1996, 110 Stat. 3190; Pub. L. 115–182, title V, § 503(a), June 6, 2018, 132 Stat. 1476.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 55, § 5001; renumbered § 8101, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 104–262, title II, § 207(a), Oct. 9, 1996, 110 Stat. 3190; Pub. L. 115–182, title V, § 503(a), June 6, 2018, 132 Stat. 1476.)
 
 **Editorial Notes**
 
@@ -123,7 +123,7 @@ Par. (3). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
 **Effective Date**
 
-Pub. L. 96–22, title III, § 302, June 13, 1979, 93 Stat. 62, provided that:
+Pub. L. 96–22, title III, § 302, June 13, 1979, 93 Stat. 62, provided that:
 
 > **“(a)** Except as provided in subsection (b) of this section, the amendments made by section 301 [enacting this subchapter, redesignating sections 5011 to 5014 of this title as sections 5021 to 5024 [now 8121 to 8124], respectively, and amending section 5022 [now 8122] of this title as so redesignated] shall take effect on October 1, 1979.
 
@@ -133,7 +133,7 @@ Pub. L. 96–22, title III, § 302, June 13, 1979, 93 Stat. 62, provided that:
 
 > **“(2)** The provisions of [former] section 5007(a) of title 38, United States Code, as amended by section 301(a) of this Act, shall take effect on the date of the enactment of this Act [June 13, 1979].”
 
-### § 8102. Acquisition of medical facilities
+### § 8102. Acquisition of medical facilities
 
 **(a)** The Secretary shall provide medical facilities for veterans entitled to hospital, nursing home, or domiciliary care or medical services under this title.
 
@@ -147,13 +147,13 @@ Pub. L. 96–22, title III, § 302, June 13, 1979, 93 Stat. 62, provided that:
 
 **(d)** In considering the need for any project for the construction, alteration, or acquisition (other than by exchange) of a medical facility which is expected to involve a total expenditure of more than $2,000,000, the Secretary shall give consideration to the sharing of health-care resources with the Department of Defense under section 8111 of this title as an alternative to all or part of such project.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 55, § 5002; amended Pub. L. 99–576, title II, § 221(a), Oct. 28, 1986, 100 Stat. 3259; renumbered § 8102 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(f)(2), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 55, § 5002; amended Pub. L. 99–576, title II, § 221(a), Oct. 28, 1986, 100 Stat. 3259; renumbered § 8102 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(f)(2), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5002 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5002 of this title as this section.
 
 Subsecs. (a), (c). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
@@ -161,7 +161,7 @@ Subsec. (d). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 
 Pub. L. 102–54 amended subsec. (d) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “section 5011” for “section 5001”.
 
-Pub. L. 102–40, § 402(d)(1), amended subsec. (d), as amended by Pub. L. 102–54, by substituting “8111” for “5011”. See above.
+Pub. L. 102–40, § 402(d)(1), amended subsec. (d), as amended by Pub. L. 102–54, by substituting “8111” for “5011”. See above.
 
 1986—Subsec. (d). Pub. L. 99–576 added subsec. (d).
 
@@ -171,7 +171,7 @@ Pub. L. 102–40, § 402(d)(1), amended subsec. (d), as amended by Pub. L. 102
 
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 
-### § 8103. Authority to construct and alter, and to acquire sites for, medical facilities
+### § 8103. Authority to construct and alter, and to acquire sites for, medical facilities
 
 **(a)** Subject to section 8104 of this title, the Secretary—
 
@@ -287,7 +287,7 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 **(D)** The term “space” means any room, unit, floor, wing, building, parking facility, or other subdivision of a building or facility owned or controlled by an academic affiliate.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 56, § 5003; amended Pub. L. 101–237, title VI, § 603(b), Dec. 18, 1989, 103 Stat. 2097; renumbered § 8103 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, § 1201(d)(16), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 114–58, title V, § 502(a), Sept. 30, 2015, 129 Stat. 537; Pub. L. 114–315, title VIII, § 801(a), Dec. 16, 2016, 130 Stat. 1590; Pub. L. 115–182, title II, § 211, June 6, 2018, 132 Stat. 1460; Pub. L. 117–168, title VII, § 704, Aug. 10, 2022, 136 Stat. 1799; Pub. L. 117–263, div. E, title LI, § 5124(c), Dec. 23, 2022, 136 Stat. 3211.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 56, § 5003; amended Pub. L. 101–237, title VI, § 603(b), Dec. 18, 1989, 103 Stat. 2097; renumbered § 8103 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, § 1201(d)(16), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 114–58, title V, § 502(a), Sept. 30, 2015, 129 Stat. 537; Pub. L. 114–315, title VIII, § 801(a), Dec. 16, 2016, 130 Stat. 1590; Pub. L. 115–182, title II, § 211, June 6, 2018, 132 Stat. 1460; Pub. L. 117–168, title VII, § 704, Aug. 10, 2022, 136 Stat. 1799; Pub. L. 117–263, div. E, title LI, § 5124(c), Dec. 23, 2022, 136 Stat. 3211.)
 
 **Editorial Notes**
 
@@ -309,11 +309,11 @@ Subsec. (h)(1). Pub. L. 117–263 substituted “section 3301 of title 41” for
 
 1994—Subsec. (d)(6)(A). Pub. L. 103–446 substituted “section 316” for “section 230(c)”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5003 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5003 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–40, § 402(d)(1), substituted “8104” for “5004” in introductory provisions and “8110(a)(2)” for “5010(a)(2)” in par. (3).
+Pub. L. 102–40, § 402(d)(1), substituted “8104” for “5004” in introductory provisions and “8110(a)(2)” for “5010(a)(2)” in par. (3).
 
 Subsecs. (b), (c). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -327,7 +327,7 @@ Amendment by Pub. L. 117–263 effective as if included in the enactment of the 
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–58, title V, § 502(b), Sept. 30, 2015, 129 Stat. 538, provided that:
+Pub. L. 114–58, title V, § 502(b), Sept. 30, 2015, 129 Stat. 538, provided that:
 
 > “The amendment made by subsection (a) [amending this section] shall apply with respect to the following:
 
@@ -341,7 +341,7 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 **Communities Helping Invest Through Property and Improvements Needed for Veterans**
 
-Pub. L. 114–294, Dec. 16, 2016, 130 Stat. 1504, as amended by Pub. L. 117–42, § 4, Sept. 30, 2021, 135 Stat. 342; Pub. L. 117–263, div. E, title LI, § 5125(a), Dec. 23, 2022, 136 Stat. 3211, provided that:
+Pub. L. 114–294, Dec. 16, 2016, 130 Stat. 1504, as amended by Pub. L. 117–42, § 4, Sept. 30, 2021, 135 Stat. 342; Pub. L. 117–263, div. E, title LI, § 5125(a), Dec. 23, 2022, 136 Stat. 3211, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -477,11 +477,11 @@ Pub. L. 114–294, Dec. 16, 2016, 130 Stat. 1504, as amended by Pub. L. 117–42
 
 > **“(2) Treatment of assistance.—** Nothing provided under this section shall be treated as Federal financial assistance as defined in section 200.40 of title 2, Code of Federal Regulations, as in effect on February 21, 2021.”
 
-[Pub. L. 117–263, div. E, title LI, § 5125(b), Dec. 23, 2022, 136 Stat. 3213, provided that: “Each agreement entered into under section (2)(c) [probably means “section 2(c)”] of such Act [Pub. L. 114–294, set out above] before the date of the enactment of this Act [Dec. 23, 2022] that was in effect on the date of the enactment of this Act may be amended to incorporate terms authorized by subparagraphs (B) and (C) of section 2(e)(1) of such Act, as added by subsection (a)(2)(D) of this section.” ]
+[Pub. L. 117–263, div. E, title LI, § 5125(b), Dec. 23, 2022, 136 Stat. 3213, provided that: “Each agreement entered into under section (2)(c) [probably means “section 2(c)”] of such Act [Pub. L. 114–294, set out above] before the date of the enactment of this Act [Dec. 23, 2022] that was in effect on the date of the enactment of this Act may be amended to incorporate terms authorized by subparagraphs (B) and (C) of section 2(e)(1) of such Act, as added by subsection (a)(2)(D) of this section.” ]
 
 **Designation of Construction Agent for Certain Construction Projects by Department of Veterans Affairs**
 
-Pub. L. 114–92, div. A, title X, § 1096, Nov. 25, 2015, 129 Stat. 1020, provided that:
+Pub. L. 114–92, div. A, title X, § 1096, Nov. 25, 2015, 129 Stat. 1020, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall seek to enter into an agreement subject to subsections (b), (c), and (e) of section 1535 of title 31, United States Code, with the Army Corps of Engineers or another entity of the Federal Government to serve, on a reimbursable basis, as the construction agent for the construction, alteration, or acquisition of any medical facility of the Department of Veterans Affairs specifically authorized by Congress after the date of the enactment of this Act [Nov. 25, 2015] that involves a total expenditure of more than $100,000,000, excluding any acquisition by exchange.
 
@@ -489,9 +489,9 @@ Pub. L. 114–92, div. A, title X, § 1096, Nov. 25, 2015, 129 Stat. 1020, pro
 
 **Development of Medical-Facility Modular Components**
 
-Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Administrator of Veterans’ Affairs, not later than one year after Dec. 3, 1985, to develop a modular approach to planning and design of an appropriate Veterans’ Administration medical facility for furnishing of hospital care.
+Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Administrator of Veterans’ Affairs, not later than one year after Dec. 3, 1985, to develop a modular approach to planning and design of an appropriate Veterans’ Administration medical facility for furnishing of hospital care.
 
-### § 8104. Congressional approval of certain medical facility acquisitions
+### § 8104. Congressional approval of certain medical facility acquisitions
 
 **(a)**
 
@@ -535,9 +535,9 @@ Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Admi
 
 **(b)**
 
-**(1)** Whenever the President or the Secretary submit 1
+**(1)** Whenever the President or the Secretary submit 1
 
-<sup>1</sup>  So in original. Probably should be “submits”.
+<sup>1</sup> So in original. Probably should be “submits”.
 
 to Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
@@ -569,7 +569,7 @@ to Congress a request for the funding of a major medical facility project (as de
 
 **(iii)** An explanation of why the preferred alternative is the most effective means to achieve the stated project goals and the most cost-effective alternative.
 
-**(2)** Whenever the President or the Secretary submit <sup>1</sup> to Congress a request for the funding of a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
+**(2)** Whenever the President or the Secretary submit <sup>1</sup> to Congress a request for the funding of a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
 **(A)** A description of the facility to be leased.
 
@@ -669,37 +669,37 @@ to Congress a request for the funding of a major medical facility project (as de
 
 **(j)** The Secretary may obligate and expend funds to exercise a purchase option included in any major medical facility lease (as defined in subsection (a)(3)(B)).
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 56, § 5004; amended Pub. L. 99–166, title III, §§ 301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, § 221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, § 422, May 20, 1988, 102 Stat. 553; renumbered § 8104 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, § 3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§ 205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, § 704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, § 201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, § 416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, § 812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, § 705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, § 905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§ 6, 7, Oct. 5, 2011, 125 Stat. 394, 396; Pub. L. 113–146, title VI, § 602(c), Aug. 7, 2014, 128 Stat. 1794; Pub. L. 114–315, title VIII, § 801(b), (c), Dec. 16, 2016, 130 Stat. 1590; Pub. L. 115–182, title V, § 503(b), June 6, 2018, 132 Stat. 1476; Pub. L. 116–61, § 6(9), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 117–168, title VII, § 703(a)–(e), Aug. 10, 2022, 136 Stat. 1797, 1798; Pub. L. 117–263, div. E, title LI, § 5124(b), Dec. 23, 2022, 136 Stat. 3211; Pub. L. 118–31, div. E, title L, § 5001, Dec. 22, 2023, 137 Stat. 930.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 56, § 5004; amended Pub. L. 99–166, title III, §§ 301, 303, Dec. 3, 1985, 99 Stat. 954, 955; Pub. L. 99–576, title II, § 221(b), Oct. 28, 1986, 100 Stat. 3259; Pub. L. 100–322, title IV, § 422, May 20, 1988, 102 Stat. 553; renumbered § 8104 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 301(a), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–79, § 3(a), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, §§ 205(a), 206(a), (c), Oct. 9, 1996, 110 Stat. 3189, 3190; Pub. L. 105–368, title VII, § 704, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–170, title II, § 201, Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, § 416, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 109–461, title VIII, § 812, Dec. 22, 2006, 120 Stat. 3447; Pub. L. 110–387, title VII, § 705, Oct. 10, 2008, 122 Stat. 4138; Pub. L. 111–275, title IX, § 905, Oct. 13, 2010, 124 Stat. 2895; Pub. L. 112–37, §§ 6, 7, Oct. 5, 2011, 125 Stat. 394, 396; Pub. L. 113–146, title VI, § 602(c), Aug. 7, 2014, 128 Stat. 1794; Pub. L. 114–315, title VIII, § 801(b), (c), Dec. 16, 2016, 130 Stat. 1590; Pub. L. 115–182, title V, § 503(b), June 6, 2018, 132 Stat. 1476; Pub. L. 116–61, § 6(9), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 117–168, title VII, § 703(a)–(e), Aug. 10, 2022, 136 Stat. 1797, 1798; Pub. L. 117–263, div. E, title LI, § 5124(b), Dec. 23, 2022, 136 Stat. 3211; Pub. L. 118–31, div. E, title L, § 5001, Dec. 22, 2023, 137 Stat. 930.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (a)(3)(A). Pub. L. 118–31, § 5001(1), substituted “the amount specified in paragraph (4)” for “$20,000,000” in two places.
+2023—Subsec. (a)(3)(A). Pub. L. 118–31, § 5001(1), substituted “the amount specified in paragraph (4)” for “$20,000,000” in two places.
 
-Subsec. (a)(4). Pub. L. 118–31, § 5001(2), added par. (4).
+Subsec. (a)(4). Pub. L. 118–31, § 5001(2), added par. (4).
 
-2022—Subsec. (a)(2). Pub. L. 117–168, § 703(a), designated existing provisions as subpar. (A), struck out “or any major medical facility lease” after “major medical facility project” and “or lease” after “for that project”, and added subpar. (B).
+2022—Subsec. (a)(2). Pub. L. 117–168, § 703(a), designated existing provisions as subpar. (A), struck out “or any major medical facility lease” after “major medical facility project” and “or lease” after “for that project”, and added subpar. (B).
 
-Subsec. (a)(3)(B). Pub. L. 117–168, § 703(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘major medical facility lease’ means a lease for space for use as a new medical facility at an average annual rent of more than $1,000,000.”
+Subsec. (a)(3)(B). Pub. L. 117–168, § 703(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘major medical facility lease’ means a lease for space for use as a new medical facility at an average annual rent of more than $1,000,000.”
 
-Subsec. (b). Pub. L. 117–263, § 5124(b), amended Pub. L. 117–168, § 703(c)(5). See below.
+Subsec. (b). Pub. L. 117–263, § 5124(b), amended Pub. L. 117–168, § 703(c)(5). See below.
 
-Pub. L. 117–168, § 703(c)(5), (8), as amended by Pub. L. 117–263, § 5124(b), designated existing provisions as par. (1), substituted “to Congress” for “to the Congress” and struck out “or a major medical facility lease (as defined in subsection (a)(3)(B))” after “subsection (a)(3)(A))” in introductory provisions, and added par. (2). Former pars. (1) and (2) redesignated subpars. (A) and (B), respectively, of par. (1).
+Pub. L. 117–168, § 703(c)(5), (8), as amended by Pub. L. 117–263, § 5124(b), designated existing provisions as par. (1), substituted “to Congress” for “to the Congress” and struck out “or a major medical facility lease (as defined in subsection (a)(3)(B))” after “subsection (a)(3)(A))” in introductory provisions, and added par. (2). Former pars. (1) and (2) redesignated subpars. (A) and (B), respectively, of par. (1).
 
-Subsec. (b)(1)(A). Pub. L. 117–168, § 703(c)(2), (4), (6), redesignated subsec. (b)(1) and its subpars. (A) to (E) as subsec. (b)(1)(A) and cls. (i) to (v), respectively, and struck out “leased,” after “altered,” in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 117–168, § 703(c)(2), (4), (6), redesignated subsec. (b)(1) and its subpars. (A) to (E) as subsec. (b)(1)(A) and cls. (i) to (v), respectively, and struck out “leased,” after “altered,” in introductory provisions.
 
-Subsec. (b)(1)(B) to (D). Pub. L. 117–168, § 703(c)(4), redesignated subsec. (b)(2) to (4) as subsec. (b)(1)(B) to (D), respectively.
+Subsec. (b)(1)(B) to (D). Pub. L. 117–168, § 703(c)(4), redesignated subsec. (b)(2) to (4) as subsec. (b)(1)(B) to (D), respectively.
 
-Subsec. (b)(1)(E). Pub. L. 117–168, § 703(c)(4), (7), redesignated subsec. (b)(5) as subsec. (b)(1)(E) and struck out “or lease” after “project” wherever appearing and “or leases” after “projects”.
+Subsec. (b)(1)(E). Pub. L. 117–168, § 703(c)(4), (7), redesignated subsec. (b)(5) as subsec. (b)(1)(E) and struck out “or lease” after “project” wherever appearing and “or leases” after “projects”.
 
-Subsec. (b)(6). Pub. L. 117–168, § 703(c)(3), (4), redesignated subsec. (b)(6) and its subpars. (A) to (C) as subsec. (b)(1)(F) and cls. (i) to (iii), respectively.
+Subsec. (b)(6). Pub. L. 117–168, § 703(c)(3), (4), redesignated subsec. (b)(6) and its subpars. (A) to (C) as subsec. (b)(1)(F) and cls. (i) to (iii), respectively.
 
-Subsec. (b)(7). Pub. L. 117–168, § 703(c)(1), struck out par. (7) which required detailed analyses of proposed funding for major medical facility leases.
+Subsec. (b)(7). Pub. L. 117–168, § 703(c)(1), struck out par. (7) which required detailed analyses of proposed funding for major medical facility leases.
 
-Subsec. (i). Pub. L. 117–168, § 703(d), added subsec. (i).
+Subsec. (i). Pub. L. 117–168, § 703(d), added subsec. (i).
 
-Subsec. (j). Pub. L. 117–168, § 703(e), added subsec. (j).
+Subsec. (j). Pub. L. 117–168, § 703(e), added subsec. (j).
 
 2019—Subsec. (a)(3). Pub. L. 116–61 added par. (3) and struck out former par. (3) which read as follows: “For purposes of this subsection, the term ‘major medical facility project’ means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $20,000,000, but such term does not include an acquisition by exchange, nonrecurring maintenance projects of the Department, or the construction, alteration, or acquisition of a shared Federal medical facility for which the Department’s estimated share of the project costs does not exceed $20,000,000.”
 
@@ -709,35 +709,35 @@ Subsec. (j). Pub. L. 117–168, § 703(e), added subsec. (j).
 
 “(B) The term ‘major medical facility lease’ means a lease for space for use as a new medical facility at an average annual rental of more than $1,000,000.”
 
-2016—Subsec. (c). Pub. L. 114–315, § 801(b), designated existing provisions as par. (1) and added par. (2).
+2016—Subsec. (c). Pub. L. 114–315, § 801(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(2)(B)(ii) to (iv). Pub. L. 114–315, § 801(c), added cl. (ii), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and in cls. (iii) and (iv) substituted “bid savings amounts” for “amounts”.
+Subsec. (d)(2)(B)(ii) to (iv). Pub. L. 114–315, § 801(c), added cl. (ii), redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively, and in cls. (iii) and (iv) substituted “bid savings amounts” for “amounts”.
 
-2014—Subsec. (b)(7). Pub. L. 113–146, § 602(c)(1), added par. (7).
+2014—Subsec. (b)(7). Pub. L. 113–146, § 602(c)(1), added par. (7).
 
-Subsec. (h). Pub. L. 113–146, § 602(c)(2), added subsec. (h).
+Subsec. (h). Pub. L. 113–146, § 602(c)(2), added subsec. (h).
 
-2011—Subsec. (b)(1). Pub. L. 112–37, § 6(1)(A), substituted “detailed estimate of the total costs” for “detailed description” and “a detailed report of the consideration” for “a description of the consideration” and inserted at end “Such detailed estimate shall include an identification of each of the following:” and subpars. (A) to (E).
+2011—Subsec. (b)(1). Pub. L. 112–37, § 6(1)(A), substituted “detailed estimate of the total costs” for “detailed description” and “a detailed report of the consideration” for “a description of the consideration” and inserted at end “Such detailed estimate shall include an identification of each of the following:” and subpars. (A) to (E).
 
-Subsec. (b)(2). Pub. L. 112–37, § 6(1)(B), (C), struck out par. (2), redesignated par. (4) as (2), and substituted “a five-year period, a ten-year period, and a twenty-year period” for “a five-year period and a ten-year period”. Prior to amendment, par. (2) read as follows: “An estimate of the cost to the United States of the construction, alteration, lease, or other acquisition of such facility (including site costs, if applicable).”
+Subsec. (b)(2). Pub. L. 112–37, § 6(1)(B), (C), struck out par. (2), redesignated par. (4) as (2), and substituted “a five-year period, a ten-year period, and a twenty-year period” for “a five-year period and a ten-year period”. Prior to amendment, par. (2) read as follows: “An estimate of the cost to the United States of the construction, alteration, lease, or other acquisition of such facility (including site costs, if applicable).”
 
-Subsec. (b)(3). Pub. L. 112–37, § 6(1)(B), (D), struck out par. (3), redesignated par. (5) as (3), and inserted before period at end “, including information on projected changes in workload and utilization over a five-year period, a ten-year period, and a twenty-year period”. Prior to amendment, par. (3) read as follows: “An estimate of the cost to the United States of the equipment required for the operation of such facility.”
+Subsec. (b)(3). Pub. L. 112–37, § 6(1)(B), (D), struck out par. (3), redesignated par. (5) as (3), and inserted before period at end “, including information on projected changes in workload and utilization over a five-year period, a ten-year period, and a twenty-year period”. Prior to amendment, par. (3) read as follows: “An estimate of the cost to the United States of the equipment required for the operation of such facility.”
 
-Subsec. (b)(4). Pub. L. 112–37, § 6(1)(B), (E), redesignated par. (6) as (4), substituted “Projected” for “Current and projected”, and inserted before period at end “(including and identifying both recurring and non-recurring costs (including activation costs and total costs of ancillary services, equipment and all other items)) over a five-year period, a ten-year period, and a twenty-year period”. Former par. (4) redesignated (2).
+Subsec. (b)(4). Pub. L. 112–37, § 6(1)(B), (E), redesignated par. (6) as (4), substituted “Projected” for “Current and projected”, and inserted before period at end “(including and identifying both recurring and non-recurring costs (including activation costs and total costs of ancillary services, equipment and all other items)) over a five-year period, a ten-year period, and a twenty-year period”. Former par. (4) redesignated (2).
 
-Subsec. (b)(5). Pub. L. 112–37, § 6(1)(B), redesignated par. (7) as (5). Former par. (5) redesignated (3).
+Subsec. (b)(5). Pub. L. 112–37, § 6(1)(B), redesignated par. (7) as (5). Former par. (5) redesignated (3).
 
-Subsec. (b)(6). Pub. L. 112–37, § 6(1)(B), (F), redesignated par. (8) as (6), substituted “each of the following:” for “a description of each alternative to construction of the facility that was considered.”, and added subpars. (A) to (C). Former par. (6) redesignated (4).
+Subsec. (b)(6). Pub. L. 112–37, § 6(1)(B), (F), redesignated par. (8) as (6), substituted “each of the following:” for “a description of each alternative to construction of the facility that was considered.”, and added subpars. (A) to (C). Former par. (6) redesignated (4).
 
-Subsec. (b)(7),(8). Pub. L. 112–37, § 6(1)(B), redesignated pars. (7) and (8) as (5) and (6), respectively.
+Subsec. (b)(7),(8). Pub. L. 112–37, § 6(1)(B), redesignated pars. (7) and (8) as (5) and (6), respectively.
 
-Subsec. (d). Pub. L. 112–37, § 6(2)(A), substituted “major construction project” for “major medical facility project” wherever appearing.
+Subsec. (d). Pub. L. 112–37, § 6(2)(A), substituted “major construction project” for “major medical facility project” wherever appearing.
 
-Subsec. (d)(2)(A). Pub. L. 112–37, § 6(2)(B)(i), substituted “major construction projects” for “major medical facility projects”.
+Subsec. (d)(2)(A). Pub. L. 112–37, § 6(2)(B)(i), substituted “major construction projects” for “major medical facility projects”.
 
-Subsec. (d)(2)(B). Pub. L. 112–37, § 6(2)(B)(ii), substituted “major construction project” for “major medical facility” in introductory provisions.
+Subsec. (d)(2)(B). Pub. L. 112–37, § 6(2)(B)(ii), substituted “major construction project” for “major medical facility” in introductory provisions.
 
-Subsec. (d)(2)(C). Pub. L. 112–37, § 7, added subpar. (C).
+Subsec. (d)(2)(C). Pub. L. 112–37, § 7, added subpar. (C).
 
 2010—Subsec. (d). Pub. L. 111–275 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), in any case” for “In any case”, and added par. (2).
 
@@ -751,19 +751,19 @@ Subsec. (d)(2)(C). Pub. L. 112–37, § 7, added subpar. (C).
 
 1998—Subsec. (a)(3)(B). Pub. L. 105–368 substituted “$600,000” for “$300,000”.
 
-1996—Subsec. (a)(3)(A). Pub. L. 104–262, § 206(a), substituted “$4,000,000” for “$3,000,000”.
+1996—Subsec. (a)(3)(A). Pub. L. 104–262, § 206(a), substituted “$4,000,000” for “$3,000,000”.
 
-Subsec. (b). Pub. L. 104–262, § 205(a)(1), inserted introductory provisions and struck out former introductory provisions which read as follows: “In the event that the President or the Secretary proposes to the Congress the funding of any construction, alteration, lease, or other acquisition to which subsection (a) of this section is applicable, the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Such prospectus shall include—”.
+Subsec. (b). Pub. L. 104–262, § 205(a)(1), inserted introductory provisions and struck out former introductory provisions which read as follows: “In the event that the President or the Secretary proposes to the Congress the funding of any construction, alteration, lease, or other acquisition to which subsection (a) of this section is applicable, the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Such prospectus shall include—”.
 
-Subsec. (b)(1) to (3). Pub. L. 104–262, § 205(a)(2)–(4), substituted “A detailed” for “a detailed” and “title.” for “title;” in par. (1), “An estimate” for “an estimate” and “applicable).” for “applicable); and” in par. (2), and “An estimate” for “an estimate” in par. (3).
+Subsec. (b)(1) to (3). Pub. L. 104–262, § 205(a)(2)–(4), substituted “A detailed” for “a detailed” and “title.” for “title;” in par. (1), “An estimate” for “an estimate” and “applicable).” for “applicable); and” in par. (2), and “An estimate” for “an estimate” in par. (3).
 
-Subsec. (b)(4) to (8). Pub. L. 104–262, § 205(a)(5), added pars. (4) to (8).
+Subsec. (b)(4) to (8). Pub. L. 104–262, § 205(a)(5), added pars. (4) to (8).
 
-Subsec. (f). Pub. L. 104–262, § 206(c), added subsec. (f).
+Subsec. (f). Pub. L. 104–262, § 206(c), added subsec. (f).
 
 1993—Subsec. (a)(3)(A). Pub. L. 103–79 substituted “$3,000,000” for “$2,000,000”.
 
-1992—Subsec. (a)(2). Pub. L. 102–405, § 301(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “It shall not be in order in the Senate or in the House of Representatives to consider a bill, resolution, or amendment which would make an appropriation for any fiscal year which may be expended for a major medical facility project or a major medical facility lease unless—
+1992—Subsec. (a)(2). Pub. L. 102–405, § 301(a)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “It shall not be in order in the Senate or in the House of Representatives to consider a bill, resolution, or amendment which would make an appropriation for any fiscal year which may be expended for a major medical facility project or a major medical facility lease unless—
 
 “(A) such bill, resolution, or amendment specifies the amount to be appropriated for that project or lease,
 
@@ -771,21 +771,21 @@ Subsec. (f). Pub. L. 104–262, § 206(c), added subsec. (f).
 
 “(C) the amount to be appropriated for that project or lease is no more than the amount specified in that resolution for that project or lease for that fiscal year.”
 
-Subsec. (a)(3)(B). Pub. L. 102–405, § 301(a)(2), inserted “new” after “as a” and substituted “$300,000” for “$500,000”.
+Subsec. (a)(3)(B). Pub. L. 102–405, § 301(a)(2), inserted “new” after “as a” and substituted “$300,000” for “$500,000”.
 
-Subsec. (c). Pub. L. 102–405, § 301(a)(3), substituted “law” for “resolution” in two places.
+Subsec. (c). Pub. L. 102–405, § 301(a)(3), substituted “law” for “resolution” in two places.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5004 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5004 of this title as this section.
 
 Subsec. (b). Pub. L. 102–83 substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 102–40, § 402(d)(1), substituted “8111” for “5011”.
+Subsec. (b)(1). Pub. L. 102–40, § 402(d)(1), substituted “8111” for “5011”.
 
 Subsec. (c). Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s”.
 
 Subsecs. (d), (e). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (a)(2). Pub. L. 100–322, § 422(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “After the adoption by the committees during a fiscal year of resolutions with identical texts approving major medical facility projects, it shall not be in order in the House of Representatives or in the Senate to consider a bill, resolution, or amendment making an appropriation for that fiscal year or for the next fiscal year which may be expended for a major medical facility project—
+1988—Subsec. (a)(2). Pub. L. 100–322, § 422(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “After the adoption by the committees during a fiscal year of resolutions with identical texts approving major medical facility projects, it shall not be in order in the House of Representatives or in the Senate to consider a bill, resolution, or amendment making an appropriation for that fiscal year or for the next fiscal year which may be expended for a major medical facility project—
 
 “(A) if the project for which the appropriation is proposed to be made is not approved in those resolutions; or
 
@@ -799,25 +799,25 @@ Subsecs. (d), (e). Pub. L. 102–83 substituted “Secretary” for “Administr
 
 “(ii) the amount proposed to be appropriated for the project (when added to any amount previously appropriated for the project) exceeds the amount approved for the project.”
 
-Subsec. (a)(3), (4). Pub. L. 100–322, § 422(b), added par. (3) and struck out former pars. (3) and (4) which read as follows:
+Subsec. (a)(3), (4). Pub. L. 100–322, § 422(b), added par. (3) and struck out former pars. (3) and (4) which read as follows:
 
 “(3) No appropriation may be made for the lease of any space for use as a medical facility at an average annual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof.
 
 “(4) For the purpose of this subsection, the term ‘major medical facility project’ means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $2,000,000. Such term does not include an acquisition by exchange.”
 
-Subsec. (c). Pub. L. 100–322, § 422(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The estimated cost of any construction, alteration, lease, or other acquisition that is approved under this section, as set forth in the pertinent resolutions described in subsection (a) of this section, may be increased by the Administrator in the contract for such construction, alteration, lease, or other acquisition by an amount equal to the percentage increase, if any, as determined by the Administrator, in construction, alteration, lease, or other acquisition costs, as the case may be, from the date of such approval to the date of contract, but in no event may the amount of such increase exceed 10 per centum of such estimated cost.”
+Subsec. (c). Pub. L. 100–322, § 422(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The estimated cost of any construction, alteration, lease, or other acquisition that is approved under this section, as set forth in the pertinent resolutions described in subsection (a) of this section, may be increased by the Administrator in the contract for such construction, alteration, lease, or other acquisition by an amount equal to the percentage increase, if any, as determined by the Administrator, in construction, alteration, lease, or other acquisition costs, as the case may be, from the date of such approval to the date of contract, but in no event may the amount of such increase exceed 10 per centum of such estimated cost.”
 
-Subsecs. (d) to (f). Pub. L. 100–322, § 422(d), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “In the case of any medical facility approved for construction, alteration, lease, or other acquisition by each committee under subsection (a) of this section for which funds have not been appropriated within one year after the date of such approval, either such committee may by resolution rescind its approval at any time thereafter before such funds are appropriated.”
+Subsecs. (d) to (f). Pub. L. 100–322, § 422(d), redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which read as follows: “In the case of any medical facility approved for construction, alteration, lease, or other acquisition by each committee under subsection (a) of this section for which funds have not been appropriated within one year after the date of such approval, either such committee may by resolution rescind its approval at any time thereafter before such funds are appropriated.”
 
 1986—Subsec. (b)(1). Pub. L. 99–576 inserted “and to the sharing of health-care resources with the Department of Defense under section 5011 of this title” at end.
 
-1985—Subsec. (a). Pub. L. 99–166, § 301, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In order to ensure the equitable distribution of medical facilities throughout the United States, taking into consideration the comparative urgency of the need for the services to be provided in the case of each particular facility—
+1985—Subsec. (a). Pub. L. 99–166, § 301, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In order to ensure the equitable distribution of medical facilities throughout the United States, taking into consideration the comparative urgency of the need for the services to be provided in the case of each particular facility—
 
 “(1) no appropriation may be made for the construction, alteration, or acquisition (not including exchanges) of any medical facility which involves a total expenditure of more than $2,000,000 unless each committee has first adopted a resolution approving such construction, alteration, or acquisition and setting forth the estimated cost thereof; and
 
 “(2) no appropriation may be made for the lease of any space for use as a medical facility at an average annual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof.”
 
-Subsec. (b)(1). Pub. L. 99–166, § 303, inserted “and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase” after “such facility”.
+Subsec. (b)(1). Pub. L. 99–166, § 303, inserted “and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase” after “such facility”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -825,17 +825,17 @@ Subsec. (b)(1). Pub. L. 99–166, § 303, inserted “and, in the case of a pr
 
 Amendment by Pub. L. 117–263 effective as if included in the enactment of the Honoring our PACT Act of 2022 (Public Law 117–168), see section 524(d) of Pub. L. 117–263, set out as a note under section 1120 of this title.
 
-Pub. L. 117–168, title VII, § 703(f), Aug. 10, 2022, 136 Stat. 1799, provided that: “The amendments made by this section [amending this section] shall apply with respect to any lease that has not been specifically authorized by law on or before the date of the enactment of this Act [Aug. 10, 2022].”
+Pub. L. 117–168, title VII, § 703(f), Aug. 10, 2022, 136 Stat. 1799, provided that: “The amendments made by this section [amending this section] shall apply with respect to any lease that has not been specifically authorized by law on or before the date of the enactment of this Act [Aug. 10, 2022].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–262, title II, § 205(b), Oct. 9, 1996, 110 Stat. 3190, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any prospectus submitted by the Secretary of Veterans Affairs after the date of the enactment of this Act [Oct. 9, 1996].”
+Pub. L. 104–262, title II, § 205(b), Oct. 9, 1996, 110 Stat. 3190, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any prospectus submitted by the Secretary of Veterans Affairs after the date of the enactment of this Act [Oct. 9, 1996].”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 104–262, title II, § 206(b)(2), Oct. 9, 1996, 110 Stat. 3190, provided that: “The amendments made by subsection (a) of such section [meaning section 301(a) of Pub. L. 102–405, amending this section] shall apply with respect to any major medical facility project or any major medical facility lease of the Department of Veterans Affairs, regardless of when funds are first appropriated for that project or lease, except that in the case of a project for which funds were first appropriated before October 9, 1992, such amendments shall not apply with respect to amounts appropriated for that project for a fiscal year before fiscal year 1998.”
+Pub. L. 104–262, title II, § 206(b)(2), Oct. 9, 1996, 110 Stat. 3190, provided that: “The amendments made by subsection (a) of such section [meaning section 301(a) of Pub. L. 102–405, amending this section] shall apply with respect to any major medical facility project or any major medical facility lease of the Department of Veterans Affairs, regardless of when funds are first appropriated for that project or lease, except that in the case of a project for which funds were first appropriated before October 9, 1992, such amendments shall not apply with respect to amounts appropriated for that project for a fiscal year before fiscal year 1998.”
 
-Pub. L. 102–405, title III, § 301(b), Oct. 9, 1992, 106 Stat. 1984, provided that the amendments made by section 301(a) of Pub. L. 102–405, amending this section, were not applicable with respect to any project for which funds were appropriated before Oct. 9, 1992, prior to repeal by Pub. L. 104–262, title II, § 206(b)(1), Oct. 9, 1996, 110 Stat. 3190.
+Pub. L. 102–405, title III, § 301(b), Oct. 9, 1992, 106 Stat. 1984, provided that the amendments made by section 301(a) of Pub. L. 102–405, amending this section, were not applicable with respect to any project for which funds were appropriated before Oct. 9, 1992, prior to repeal by Pub. L. 104–262, title II, § 206(b)(1), Oct. 9, 1996, 110 Stat. 3190.
 
 **Effective Date**
 
@@ -843,7 +843,7 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 **Budgetary Treatment of Department of Veterans Affairs Major Medical Facilities Leases**
 
-Pub. L. 113–146, title VI, § 602, Aug. 7, 2014, 128 Stat. 1794, provided that:
+Pub. L. 113–146, title VI, § 602, Aug. 7, 2014, 128 Stat. 1794, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -869,7 +869,7 @@ Pub. L. 113–146, title VI, § 602, Aug. 7, 2014, 128 Stat. 1794, provided th
 
 > **“(d) Rule of Construction.—** Nothing in this section, or the amendments made by this section, shall be construed to in any way relieve the Department of Veterans Affairs from any statutory or regulatory obligations or requirements existing prior to the enactment of this section and such amendments.”
 
-### § 8105. Structural requirements
+### § 8105. Structural requirements
 
 **(a)** Each medical facility (including each nursing home facility for which the Secretary contracts under section 1720 of this title and each State home facility constructed or altered under subchapter III of this chapter) shall be of fire, earthquake, and other natural disaster resistant construction in accordance with standards which the Secretary shall prescribe on a State or regional basis after surveying appropriate State and local laws, ordinances, and building codes and climatic and seismic conditions pertinent to each such facility. When an existing structure is acquired for use as a medical facility, it shall be altered to comply with such standards.
 
@@ -881,7 +881,7 @@ Pub. L. 113–146, title VI, § 602, Aug. 7, 2014, 128 Stat. 1794, provided th
 
 **(3)** The Associate Deputy Secretary, the Under Secretary for Health or the designee of the Under Secretary for Health, and the Department official charged with the responsibility for construction shall be ex officio members of such advisory committee.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 57, § 5005; amended Pub. L. 96–128, title V, § 501(e), Nov. 28, 1979, 93 Stat. 987; renumbered § 8105, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 57, § 5005; amended Pub. L. 96–128, title V, § 501(e), Nov. 28, 1979, 93 Stat. 987; renumbered § 8105, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 **Editorial Notes**
 
@@ -891,13 +891,13 @@ Pub. L. 113–146, title VI, § 602, Aug. 7, 2014, 128 Stat. 1794, provided th
 
 1991—Pub. L. 102–40 renumbered section 5005 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1720” for “620”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1720” for “620”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
 1979—Subsec. (a). Pub. L. 96–128 substituted “subchapter III of this chapter” for “section 5031 of this title”.
 
@@ -915,7 +915,7 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
-### § 8106. Construction contracts
+### § 8106. Construction contracts
 
 **(a)** The Secretary may carry out any construction or alteration authorized under this subchapter by contract if the Secretary considers it to be advantageous to the United States to do so.
 
@@ -927,7 +927,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **(c)** Notwithstanding any other provision of this section, the Secretary shall be responsible for all construction authorized under this subchapter, including the interpretation of construction contracts, the approval of materials and workmanship supplied pursuant to a construction contract, approval of changes in the construction contract, certification of vouchers for payments due the contractor, and final settlement of the contract.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 58, § 5006; renumbered § 8106, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 58, § 5006; renumbered § 8106, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -943,15 +943,15 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever ap
 
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 
-### [§ 8107. Repealed. Pub. L. 111–163, title V, § 501(b)(1), May 5, 2010, 124 Stat. 1157]
+### [§ 8107. Repealed. Pub. L. 111–163, title V, § 501(b)(1), May 5, 2010, 124 Stat. 1157]
 
-Section, added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 58, § 5007; amended Pub. L. 99–166, title III, § 302(a)–(c)(1), Dec. 3, 1985, 99 Stat. 955; Pub. L. 99–576, title II, § 222, Oct. 28, 1986, 100 Stat. 3259; renumbered § 8107 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(f)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title II, § 204, Oct. 9, 1996, 110 Stat. 3188; Pub. L. 105–368, title X, § 1005(b)(18), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 108–170, title II, § 203, Dec. 6, 2003, 117 Stat. 2048, related to operational and construction plans for medical facilities.
+Section, added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 58, § 5007; amended Pub. L. 99–166, title III, § 302(a)–(c)(1), Dec. 3, 1985, 99 Stat. 955; Pub. L. 99–576, title II, § 222, Oct. 28, 1986, 100 Stat. 3259; renumbered § 8107 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(f)(3), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title II, § 204, Oct. 9, 1996, 110 Stat. 3188; Pub. L. 105–368, title X, § 1005(b)(18), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 108–170, title II, § 203, Dec. 6, 2003, 117 Stat. 2048, related to operational and construction plans for medical facilities.
 
-### § 8108. Contributions to local authorities
+### § 8108. Contributions to local authorities
 
 The Secretary may make contributions to local authorities toward, or for, the construction of traffic controls, road improvements, or other devices adjacent to a medical facility if considered necessary for safe ingress or egress.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 58, § 5008; renumbered § 8108, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 58, § 5008; renumbered § 8108, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -971,7 +971,7 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 
-### § 8109. Parking facilities
+### § 8109. Parking facilities
 
 **(a)** For the purpose of this section—
 
@@ -1045,7 +1045,7 @@ the Secretary shall prescribe a schedule of parking fees to be charged at all pa
 
 **(j)** Funds in a construction account or capital account that are available for a construction project or a nonrecurring maintenance project may be used for the construction or relocation of a surface parking lot incidental to that project.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 59, § 5009; amended Pub. L. 99–576, title II, § 223(a)(1), Oct. 28, 1986, 100 Stat. 3259; renumbered § 8109 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–79, § 3(b), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, § 207(b), Oct. 9, 1996, 110 Stat. 3190; Pub. L. 105–368, title VII, § 705, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–422, title IV, § 415, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 115–141, div. J, title II, § 234, Mar. 23, 2018, 132 Stat. 820.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 59, § 5009; amended Pub. L. 99–576, title II, § 223(a)(1), Oct. 28, 1986, 100 Stat. 3259; renumbered § 8109 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–79, § 3(b), Aug. 13, 1993, 107 Stat. 771; Pub. L. 104–262, title II, § 207(b), Oct. 9, 1996, 110 Stat. 3190; Pub. L. 105–368, title VII, § 705, Nov. 11, 1998, 112 Stat. 3350; Pub. L. 108–422, title IV, § 415, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 115–141, div. J, title II, § 234, Mar. 23, 2018, 132 Stat. 820.)
 
 **Editorial Notes**
 
@@ -1065,17 +1065,17 @@ Provisions similar to those comprising this section were contained in former sec
 
 1993—Subsec. (i)(2). Pub. L. 103–79 substituted “$3,000,000” for “$2,000,000”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5009 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5009 of this title as this section.
 
-Subsecs. (a) to (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (a) to (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in concluding provisions.
+Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in concluding provisions.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in subpar. (A).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in subpar. (A).
 
-Subsecs. (d)(2), (e), (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (d)(2), (e), (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (i)(2). Pub. L. 102–40, § 402(d)(1), substituted “8104(a)(2)” for “5004(a)(2)”.
+Subsec. (i)(2). Pub. L. 102–40, § 402(d)(1), substituted “8104(a)(2)” for “5004(a)(2)”.
 
 1986—Pub. L. 99–576 amended section generally, substituting “Parking facilities” for “Garages and parking facilities” in section catchline and substituting present provisions consisting of subsecs. (a) to (i) for former provisions consisting of subsecs. (a) to (c), and generally revising and expanding section to require VA to establish and collect reasonable parking fees at all facilities where a garage is constructed or acquired or altered at a cost of more than $500,000 (or leased for more than $100,000 per year), and allowing discretionary paid parking at all other facilities.
 
@@ -1083,7 +1083,7 @@ Subsec. (i)(2). Pub. L. 102–40, § 402(d)(1), substituted “8104(a)(2)” f
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–576, title II, § 223(b), Oct. 28, 1986, 100 Stat. 3261, provided that:
+Pub. L. 99–576, title II, § 223(b), Oct. 28, 1986, 100 Stat. 3261, provided that:
 
 > **“(1)** Except as provided in paragraphs (2) and (3), the amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Oct. 28, 1986].
 
@@ -1101,7 +1101,7 @@ Pub. L. 99–576, title II, § 223(b), Oct. 28, 1986, 100 Stat. 3261, provided
 
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 
-### § 8110. Operation of medical facilities
+### § 8110. Operation of medical facilities
 
 **(a)**
 
@@ -1157,7 +1157,7 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 **(C)** A description of the anticipated effects of the closure on veterans and on their access to care.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 59, § 5010; amended Pub. L. 96–151, title III, § 301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, § 601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, § 108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, § 409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, § 2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, § 702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, § 102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, § 702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, § 222(a), title IV, § 401(a), May 20, 1988, 102 Stat. 531, 543; renumbered § 8110 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, § 1103, title XII, § 1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, § 1141(c), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title I, § 101(e)(4), title III, § 305, Oct. 9, 1996, 110 Stat. 3181, 3194; Pub. L. 106–117, title III, § 301, Nov. 30, 1999, 113 Stat. 1571; Pub. L. 107–135, title I, § 124, Jan. 23, 2002, 115 Stat. 2452; Pub. L. 107–314, div. A, title VII, § 726(a), Dec. 2, 2002, 116 Stat. 2599; Pub. L. 115–251, title II, § 207, Sept. 29, 2018, 132 Stat. 3173.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 59, § 5010; amended Pub. L. 96–151, title III, § 301(a), Dec. 20, 1979, 93 Stat. 1095; Pub. L. 97–66, title VI, § 601(b), Oct. 17, 1981, 95 Stat. 1033; Pub. L. 97–72, title I, § 108, Nov. 3, 1981, 95 Stat. 1053; Pub. L. 97–306, title IV, § 409(b), Oct. 14, 1982, 96 Stat. 1446; Pub. L. 97–452, § 2(e)(4), Jan. 12, 1983, 96 Stat. 2479; Pub. L. 98–160, title VII, § 702(19), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 98–528, title I, § 102, Oct. 19, 1984, 98 Stat. 2688; Pub. L. 99–576, title VII, § 702(15), Oct. 28, 1986, 100 Stat. 3302; Pub. L. 100–322, title II, § 222(a), title IV, § 401(a), May 20, 1988, 102 Stat. 531, 543; renumbered § 8110 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XI, § 1103, title XII, § 1201(b)(1), (d)(17), (g)(7), Nov. 2, 1994, 108 Stat. 4681, 4682, 4684, 4687; Pub. L. 104–66, title I, § 1141(c), Dec. 21, 1995, 109 Stat. 726; Pub. L. 104–262, title I, § 101(e)(4), title III, § 305, Oct. 9, 1996, 110 Stat. 3181, 3194; Pub. L. 106–117, title III, § 301, Nov. 30, 1999, 113 Stat. 1571; Pub. L. 107–135, title I, § 124, Jan. 23, 2002, 115 Stat. 2452; Pub. L. 107–314, div. A, title VII, § 726(a), Dec. 2, 2002, 116 Stat. 2599; Pub. L. 115–251, title II, § 207, Sept. 29, 2018, 132 Stat. 3173.)
 
 **Editorial Notes**
 
@@ -1175,55 +1175,55 @@ Provisions similar to those comprising this section were contained in former sec
 
 2002—Subsec. (a)(1). Pub. L. 107–314 struck out “at not more than 125,000 and not less than 100,000” before period at end of first sentence, “shall operate and maintain a total of not less than 90,000 hospital beds and nursing home beds and” before “shall maintain the availability” in third sentence, and “to enable the Department to operate and maintain a total of not less than 90,000 hospital and nursing home beds in accordance with this paragraph and” after “construction sufficient” in fourth sentence.
 
-Pub. L. 107–135, § 124(a)(1), inserted “and in a manner consistent with the policies of the Secretary on overtime,” after “complete care of patients,” in fifth sentence.
+Pub. L. 107–135, § 124(a)(1), inserted “and in a manner consistent with the policies of the Secretary on overtime,” after “complete care of patients,” in fifth sentence.
 
-Subsec. (a)(2). Pub. L. 107–135, § 124(a)(2), inserted “, including the staffing required to maintain such capacities,” after “all Department medical facilities”, substituted “, to minimize” for “and to minimize”, and inserted before period at end “, and to ensure that eligible veterans are provided such care and services in an appropriate manner”.
+Subsec. (a)(2). Pub. L. 107–135, § 124(a)(2), inserted “, including the staffing required to maintain such capacities,” after “all Department medical facilities”, substituted “, to minimize” for “and to minimize”, and inserted before period at end “, and to ensure that eligible veterans are provided such care and services in an appropriate manner”.
 
-Subsec. (a)(3)(A). Pub. L. 107–135, § 124(b)(1), inserted “the adequacy of staff levels for compliance with the policy established under subparagraph (C),” after “regarding”.
+Subsec. (a)(3)(A). Pub. L. 107–135, § 124(b)(1), inserted “the adequacy of staff levels for compliance with the policy established under subparagraph (C),” after “regarding”.
 
-Subsec. (a)(3)(C). Pub. L. 107–135, § 124(b)(2), added subpar. (C).
+Subsec. (a)(3)(C). Pub. L. 107–135, § 124(b)(2), added subpar. (C).
 
 1999—Subsecs. (d) to (f). Pub. L. 106–117 added subsecs. (d) to (f).
 
-1996—Subsec. (a)(2). Pub. L. 104–262, § 101(e)(4), substituted “section 1710(a)” for “section 1712”.
+1996—Subsec. (a)(2). Pub. L. 104–262, § 101(e)(4), substituted “section 1710(a)” for “section 1712”.
 
-Subsec. (c). Pub. L. 104–262, § 305, amended subsec. (c) generally, substituting provisions consisting of an introductory par. and pars. (1) and (2), relating to reports on activities and proposals involving contracting for performance by contractor personnel of work previously performed by Department employees for provisions consisting of pars. (1) to (9), relating to conversion of activities at health-care facilities from those performed by Federal employees to those performed by Government contractors.
+Subsec. (c). Pub. L. 104–262, § 305, amended subsec. (c) generally, substituting provisions consisting of an introductory par. and pars. (1) and (2), relating to reports on activities and proposals involving contracting for performance by contractor personnel of work previously performed by Department employees for provisions consisting of pars. (1) to (9), relating to conversion of activities at health-care facilities from those performed by Federal employees to those performed by Government contractors.
 
 1995—Subsec. (a)(4). Pub. L. 104–66 substituted “subparagraph (C)” for “subparagraph (D)” in subpars. (A) and (B), redesignated subpar. (D) as (C), and struck out former subpar. (C) which read as follows: “Whenever the Director of the Office of Management and Budget is required to submit a certification under subparagraph (B) of this paragraph, the Comptroller General shall submit to the appropriate committees of the Congress a report stating the Comptroller General’s opinion as to whether the Director has complied with the requirements of that subparagraph. The Comptroller General shall submit the report not later than fifteen days after the end of the period specified in such subparagraph for the Director to submit the certification.”
 
-1994—Subsec. (a)(3)(B), (5), (6). Pub. L. 103–446, § 1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery” wherever appearing.
+1994—Subsec. (a)(3)(B), (5), (6). Pub. L. 103–446, § 1201(b)(1), substituted “Veterans Health Administration” for “Department of Medicine and Surgery” wherever appearing.
 
-Subsec. (c)(3)(B). Pub. L. 103–446, § 1201(d)(17), substituted “section 513 or 7409” for “section 213 or 4117”.
+Subsec. (c)(3)(B). Pub. L. 103–446, § 1201(d)(17), substituted “section 513 or 7409” for “section 213 or 4117”.
 
-Subsec. (c)(7). Pub. L. 103–446, § 1201(g)(7), which provided for striking out obsolete or executed provisions and directed the amendment of subsec. (c) by striking out par. (7), was not executed because of the prior amendment of subsec. (c) by Pub. L. 103–446, § 1103. See below.
+Subsec. (c)(7). Pub. L. 103–446, § 1201(g)(7), which provided for striking out obsolete or executed provisions and directed the amendment of subsec. (c) by striking out par. (7), was not executed because of the prior amendment of subsec. (c) by Pub. L. 103–446, § 1103. See below.
 
-Pub. L. 103–446, § 1103, added par. (7) and struck out former par. (7) which read as follows: “Not later than February 1, 1984, and February 1 of each of the five succeeding years, the Secretary shall submit a written report to Congress describing the extent to which activities at Department health-care facilities were performed by contractors during the preceding fiscal year and the actual cost savings resulting from such contracts.”
+Pub. L. 103–446, § 1103, added par. (7) and struck out former par. (7) which read as follows: “Not later than February 1, 1984, and February 1 of each of the five succeeding years, the Secretary shall submit a written report to Congress describing the extent to which activities at Department health-care facilities were performed by contractors during the preceding fiscal year and the actual cost savings resulting from such contracts.”
 
-Subsec. (c)(8), (9). Pub. L. 103–446, § 1103, added pars. (8) and (9).
+Subsec. (c)(8), (9). Pub. L. 103–446, § 1103, added pars. (8) and (9).
 
 1992—Subsecs. (a)(3), (b), (c)(1), (3)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5010 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5010 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1712” for “612” in par. (2).
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1712” for “612” in par. (2).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Pub. L. 102–40, § 402(d)(1), substituted “8111, 8111A, or 8153” for “5011, 5011A, or 5053” in par. (3)(A).
+Pub. L. 102–40, § 402(d)(1), substituted “8111, 8111A, or 8153” for “5011, 5011A, or 5053” in par. (3)(A).
 
-1988—Subsec. (a)(6). Pub. L. 100–322, § 222(a), added par. (6).
+1988—Subsec. (a)(6). Pub. L. 100–322, § 222(a), added par. (6).
 
-Subsec. (c)(2). Pub. L. 100–322, § 401(a), inserted “responsive bids are received from at least two responsible, financially autonomous bidders and” after “only if”.
+Subsec. (c)(2). Pub. L. 100–322, § 401(a), inserted “responsive bids are received from at least two responsible, financially autonomous bidders and” after “only if”.
 
 1986—Subsec. (a)(1). Pub. L. 99–576 substituted “125,000 and not less than 100,000” for “one hundred and twenty-five thousand and not less than one hundred thousand” and “90,000” for “ninety thousand” in two places.
 
@@ -1235,19 +1235,19 @@ Subsec. (c)(2)(B). Pub. L. 98–160 substituted “quantity and quality” for �
 
 1982—Subsec. (c). Pub. L. 97–306 added subsec. (c).
 
-1981—Subsec. (a)(1). Pub. L. 97–72, § 108(a)(1), struck out provision authorizing the Administrator, subject to the approval of the President to establish and operate not less than 125,000 hospital beds in medical facilities over which the Administrator has direct jurisdiction for the care and treatment of eligible veterans and substituted therefor provisions directing the Administrator to establish a total number of hospital beds and nursing home beds in medical facilities over which the Administrator has direct jurisdiction for the care and treatment of eligible veterans at not more than one hundred and twenty-five thousand and not less than one hundred thousand, and provided that the Administrator establish the total number of such beds so as to maintain a contingency capacity to assist the Department of Defense in time of war or national emergency to care for the cas­ualties of such war or national emergency, that of the number of beds authorized pursuant to the preceding sentence, the Administrator operate and maintain a total of not less than ninety thousand hospital beds and nursing home beds and maintain the availability of such additional beds and facilities in addition to the operating bed level as the Administrator considers necessary for such contingency purposes, and that the President include in the Budget transmitted to the Congress for each fiscal year pursuant to section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a)), an amount for medical care and amounts for construction.
+1981—Subsec. (a)(1). Pub. L. 97–72, § 108(a)(1), struck out provision authorizing the Administrator, subject to the approval of the President to establish and operate not less than 125,000 hospital beds in medical facilities over which the Administrator has direct jurisdiction for the care and treatment of eligible veterans and substituted therefor provisions directing the Administrator to establish a total number of hospital beds and nursing home beds in medical facilities over which the Administrator has direct jurisdiction for the care and treatment of eligible veterans at not more than one hundred and twenty-five thousand and not less than one hundred thousand, and provided that the Administrator establish the total number of such beds so as to maintain a contingency capacity to assist the Department of Defense in time of war or national emergency to care for the cas­ualties of such war or national emergency, that of the number of beds authorized pursuant to the preceding sentence, the Administrator operate and maintain a total of not less than ninety thousand hospital beds and nursing home beds and maintain the availability of such additional beds and facilities in addition to the operating bed level as the Administrator considers necessary for such contingency purposes, and that the President include in the Budget transmitted to the Congress for each fiscal year pursuant to section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a)), an amount for medical care and amounts for construction.
 
-Subsec. (a)(3). Pub. L. 97–72, § 108(a)(2), struck out provision requiring that the Chief Medical Director periodically analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care and medical services and annually advise each committee of the results and the added requirements which those results indicate and substituted therefor provisions that the Chief Medical Director, at the end of each fiscal year, (i) analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care, medical services and nursing home care, but are rejected or not immediately admitted or provided such care or services, and (ii) review and made recommendations regarding the adequacy of the established operating bed levels, the geographic distribution of operating beds, the demographic characteristics of the veteran population and the associated need for medical care and nursing home facilities and services in each State, and the proportion of the total number of operating beds that are hospital beds and that are nursing home beds, and that, after considering the analyses and recommendations of the Chief Medical Director pursuant to subparagraph (A) of this paragraph for any fiscal year, the Administrator report to the committees, on or before December 1 after the close of such fiscal year, on the results of the analysis of the Chief Medical Director and on the required number of beds and the level of treatment capacities required.
+Subsec. (a)(3). Pub. L. 97–72, § 108(a)(2), struck out provision requiring that the Chief Medical Director periodically analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care and medical services and annually advise each committee of the results and the added requirements which those results indicate and substituted therefor provisions that the Chief Medical Director, at the end of each fiscal year, (i) analyze agencywide admission policies and the records of those eligible veterans who apply for hospital care, medical services and nursing home care, but are rejected or not immediately admitted or provided such care or services, and (ii) review and made recommendations regarding the adequacy of the established operating bed levels, the geographic distribution of operating beds, the demographic characteristics of the veteran population and the associated need for medical care and nursing home facilities and services in each State, and the proportion of the total number of operating beds that are hospital beds and that are nursing home beds, and that, after considering the analyses and recommendations of the Chief Medical Director pursuant to subparagraph (A) of this paragraph for any fiscal year, the Administrator report to the committees, on or before December 1 after the close of such fiscal year, on the results of the analysis of the Chief Medical Director and on the required number of beds and the level of treatment capacities required.
 
-Subsec. (a)(4)(A). Pub. L. 97–66, § 601(b)(1)(A), inserted “for any fiscal year (or any part of a fiscal year)” after “With respect to each law making appropriations for the Veterans’ Administration”.
+Subsec. (a)(4)(A). Pub. L. 97–66, § 601(b)(1)(A), inserted “for any fiscal year (or any part of a fiscal year)” after “With respect to each law making appropriations for the Veterans’ Administration”.
 
-Subsec. (a)(4)(B). Pub. L. 97–66, § 601(b)(1)(B), inserted “(or part of a fiscal year)” after “provide to the Veterans’ Administration for the fiscal year”.
+Subsec. (a)(4)(B). Pub. L. 97–66, § 601(b)(1)(B), inserted “(or part of a fiscal year)” after “provide to the Veterans’ Administration for the fiscal year”.
 
-Subsec. (a)(4)(D). Pub. L. 97–66, § 601(b)(1)(B), inserted “(or part of a fiscal year)” after “fiscal year” in two places.
+Subsec. (a)(4)(D). Pub. L. 97–66, § 601(b)(1)(B), inserted “(or part of a fiscal year)” after “fiscal year” in two places.
 
-Subsec. (a)(5). Pub. L. 97–66, § 601(b)(2), added par. (5).
+Subsec. (a)(5). Pub. L. 97–66, § 601(b)(2), added par. (5).
 
-Subsecs. (b), (c). Pub. L. 97–72, § 108(b), redesignated subsec. (c) as (b). Former subsec. (b), authorizing the Administrator to establish, subject to the approval of the President, not less than twelve thousand beds during fiscal year 1980, and during each fiscal year thereafter, for the furnishing of nursing home care to eligible veterans in facilities over which the Administrator has direct jurisdiction, was struck out.
+Subsecs. (b), (c). Pub. L. 97–72, § 108(b), redesignated subsec. (c) as (b). Former subsec. (b), authorizing the Administrator to establish, subject to the approval of the President, not less than twelve thousand beds during fiscal year 1980, and during each fiscal year thereafter, for the furnishing of nursing home care to eligible veterans in facilities over which the Administrator has direct jurisdiction, was struck out.
 
 1979—Subsec. (a)(4). Pub. L. 96–151 added par. (4).
 
@@ -1255,13 +1255,13 @@ Subsecs. (b), (c). Pub. L. 97–72, § 108(b), redesignated subsec. (c) as (b)
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title VII, § 726(b), Dec. 2, 2002, 116 Stat. 2599, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2003.”
+Pub. L. 107–314, div. A, title VII, § 726(b), Dec. 2, 2002, 116 Stat. 2599, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2003.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–322, title II, § 222(b), May 20, 1988, 102 Stat. 531, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal years after fiscal year 1987.”
+Pub. L. 100–322, title II, § 222(b), May 20, 1988, 102 Stat. 531, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal years after fiscal year 1987.”
 
-Pub. L. 100–322, title IV, § 401(b), May 20, 1988, 102 Stat. 543, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to the awarding of contracts under solicitations issued after the date of the enactment of this Act [May 20, 1988].”
+Pub. L. 100–322, title IV, § 401(b), May 20, 1988, 102 Stat. 543, provided that: “The amendment made by subsection (a) [amending this section] shall apply only with respect to the awarding of contracts under solicitations issued after the date of the enactment of this Act [May 20, 1988].”
 
 **Effective Date of 1981 Amendment**
 
@@ -1271,7 +1271,7 @@ Amendment by section 601(b)(2) of Pub. L. 97–66 effective Oct. 17, 1981, see s
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–151, title III, § 301(b), Dec. 20, 1979, 93 Stat. 1096, provided that: “The amendment made by subsection (a) [amending this section] shall take effect with respect to Public Law 96–103 [Nov. 5, 1979, 93 Stat. 771], but, with respect to such Public Law, the certification and report required by subparagraph (B) of paragraph (4) of section 5010 [now 8110] of title 38, United States Code (as added by such amendment), and the report required by subparagraph (C) of such paragraph (as added by such amendment) shall be submitted to the appropriate committees of the Congress not later than January 15, 1980, and February 1, 1980, respectively.”
+Pub. L. 96–151, title III, § 301(b), Dec. 20, 1979, 93 Stat. 1096, provided that: “The amendment made by subsection (a) [amending this section] shall take effect with respect to Public Law 96–103 [Nov. 5, 1979, 93 Stat. 771], but, with respect to such Public Law, the certification and report required by subparagraph (B) of paragraph (4) of section 5010 [now 8110] of title 38, United States Code (as added by such amendment), and the report required by subparagraph (C) of such paragraph (as added by such amendment) shall be submitted to the appropriate committees of the Congress not later than January 15, 1980, and February 1, 1980, respectively.”
 
 **Effective Date**
 
@@ -1279,7 +1279,7 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 **Requirement for Certain Department of Veterans Affairs Medical Facilities To Have Physical Location for the Disposal of Controlled Substances Medications**
 
-Pub. L. 116–315, title III, § 3009, Jan. 5, 2021, 134 Stat. 4997, as amended by Pub. L. 117–29, § 1, July 29, 2021, 135 Stat. 306, provided that:
+Pub. L. 116–315, title III, § 3009, Jan. 5, 2021, 134 Stat. 4997, as amended by Pub. L. 117–29, § 1, July 29, 2021, 135 Stat. 306, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall ensure that each covered Department medical facility has a physical location where patients may dispose of controlled substances medications.
 
@@ -1295,7 +1295,7 @@ Pub. L. 116–315, title III, § 3009, Jan. 5, 2021, 134 Stat. 4997, as amende
 
 **Women Veterans Retrofit Initiative**
 
-Pub. L. 116–315, title V, § 5102, Jan. 5, 2021, 134 Stat. 5026, provided that:
+Pub. L. 116–315, title V, § 5102, Jan. 5, 2021, 134 Stat. 5026, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall prioritize the retrofitting of existing medical facilities of the Department of Veterans Affairs with fixtures, materials, and other outfitting measures to support the provision of care to women veterans at such facilities.
 
@@ -1315,11 +1315,11 @@ Pub. L. 116–315, title V, § 5102, Jan. 5, 2021, 134 Stat. 5026, provided th
 
 **Staffing of Women’s Health Primary Care Providers at Medical Facilities of Department of Veterans Affairs**
 
-Pub. L. 116–315, title V, § 5201, Jan. 5, 2021, 134 Stat. 5034, provided that: “The Secretary of Veterans Affairs shall ensure that each medical facility of the Department of Veterans Affairs has not fewer than one full-time or part-time women’s health primary care provider whose duties include, to the extent possible, providing training to other health care providers of the Department on the needs of women veterans.”
+Pub. L. 116–315, title V, § 5201, Jan. 5, 2021, 134 Stat. 5034, provided that: “The Secretary of Veterans Affairs shall ensure that each medical facility of the Department of Veterans Affairs has not fewer than one full-time or part-time women’s health primary care provider whose duties include, to the extent possible, providing training to other health care providers of the Department on the needs of women veterans.”
 
 **Planning and Activating Community Based Outpatient Clinics Handbook Update**
 
-Pub. L. 116–94, div. F, title II, § 252, Dec. 20, 2019, 133 Stat. 2808, provided that:
+Pub. L. 116–94, div. F, title II, § 252, Dec. 20, 2019, 133 Stat. 2808, provided that:
 
 > **“(a)** Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], and not less frequently than once every five-year period thereafter, the Secretary of Veterans Affairs shall update the handbook of the Department of Veterans Affairs titled ‘Planning and Activating Community Based Outpatient Clinics’, or a successor handbook, to reflect current policies, best practices, and clarify the roles and responsibilities of the personnel of the Department involved in the leasing projects of the Department.
 
@@ -1331,7 +1331,7 @@ Pub. L. 116–94, div. F, title II, § 252, Dec. 20, 2019, 133 Stat. 2808, pro
 
 **Health Care in Underserved Areas**
 
-Pub. L. 115–182, title IV, §§ 401, 402, June 6, 2018, 132 Stat. 1470, 1471, as amended by Pub. L. 115–251, title II, § 211(b)(8), Sept. 29, 2018, 132 Stat. 3177, provided that:
+Pub. L. 115–182, title IV, §§ 401, 402, June 6, 2018, 132 Stat. 1470, 1471, as amended by Pub. L. 115–251, title II, § 211(b)(8), Sept. 29, 2018, 132 Stat. 3177, provided that:
 
 > **“SEC. 401. DEVELOPMENT OF CRITERIA FOR DESIGNATION OF CERTAIN MEDICAL FACILITIES OF THE DEPARTMENT OF VETERANS AFFAIRS AS UNDERSERVED FACILITIES AND PLAN TO ADDRESS PROBLEM OF UNDERSERVED FACILITIES.**
 
@@ -1399,7 +1399,7 @@ Pub. L. 115–182, title IV, §§ 401, 402, June 6, 2018, 132 Stat. 1470, 1471
 
 **Inventory of Medical Waste Management Activities at Department of Veterans Affairs Health Care Facilities**
 
-Pub. L. 108–422, title VI, § 602, Nov. 30, 2004, 118 Stat. 2397, provided that:
+Pub. L. 108–422, title VI, § 602, Nov. 30, 2004, 118 Stat. 2397, provided that:
 
 > **“(a) Inventory.—** The Secretary of Veterans Affairs shall establish and maintain a national inventory of medical waste management activities in the health care facilities of the Department of Veterans Affairs. The inventory shall include the following:
 
@@ -1419,11 +1419,11 @@ Pub. L. 108–422, title VI, § 602, Nov. 30, 2004, 118 Stat. 2397, provided t
 
 **Conversion of Underused Space to Domiciliary-Care Beds**
 
-Pub. L. 100–322, title I, § 136, May 20, 1988, 102 Stat. 507, directed Administrator, not later than June 1, 1988, to convert underused space located in facilities under jurisdiction of Administrator in urban areas with significant numbers of homeless veterans into 500 domiciliary-care beds to be used for care of veterans in need of domiciliary care, primarily homeless veterans.
+Pub. L. 100–322, title I, § 136, May 20, 1988, 102 Stat. 507, directed Administrator, not later than June 1, 1988, to convert underused space located in facilities under jurisdiction of Administrator in urban areas with significant numbers of homeless veterans into 500 domiciliary-care beds to be used for care of veterans in need of domiciliary care, primarily homeless veterans.
 
 **Policy of Comprehensive Veterans’ Health-Care System**
 
-Pub. L. 97–306, title IV, § 409(a), Oct. 14, 1982, 96 Stat. 1446, provided that:
+Pub. L. 97–306, title IV, § 409(a), Oct. 14, 1982, 96 Stat. 1446, provided that:
 
 > “It is the policy of the United States that the Veterans’ Administration—
 
@@ -1431,7 +1431,7 @@ Pub. L. 97–306, title IV, § 409(a), Oct. 14, 1982, 96 Stat. 1446, provided 
 
 > **“(2)** shall operate such system through cost-effective means that are consistent with carrying out fully the functions of the Department of Medicine and Surgery of the Veterans’ Administration under title 38, United States Code.”
 
-### § 8111. Sharing of Department of Veterans Affairs and Department of Defense health care resources
+### § 8111. Sharing of Department of Veterans Affairs and Department of Defense health care resources
 
 **(a) Required Coordination and Sharing of Health Care Resources.—** The Secretary of Veterans Affairs and the Secretary of Defense shall enter into agreements and contracts for the mutually beneficial coordination, use, or exchange of use of the health care resources of the Department of Veterans Affairs and the Department of Defense with the goal of improving the access to, and quality and cost effectiveness of, the health care provided by the Veterans Health Administration and the Military Health System to the beneficiaries of both Departments.
 
@@ -1445,7 +1445,7 @@ Pub. L. 97–306, title IV, § 409(a), Oct. 14, 1982, 96 Stat. 1446, provided 
 
 **(4)** Establish a joint incentive program under subsection (d).
 
-**[(c)** Repealed. Pub. L. 108–136, div. A, title V, § 583(b)(1), Nov. 24, 2003, 117 Stat. 1491.]
+**[(c)** Repealed. Pub. L. 108–136, div. A, title V, § 583(b)(1), Nov. 24, 2003, 117 Stat. 1491.]
 
 **(d) Joint Incentives Program.—**
 
@@ -1539,13 +1539,13 @@ Pub. L. 97–306, title IV, § 409(a), Oct. 14, 1982, 96 Stat. 1446, provided 
 
 **(7)** The term “service region” means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 60, § 5011; amended Pub. L. 97–174, § 3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, § 2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered § 8111 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, § 208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, § 721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, § 583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, § 605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, § 747(a), title X, § 1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, § 743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, § 8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§ 1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, § 1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, § 107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, § 722, Nov. 25, 2015, 129 Stat. 869; Pub. L. 116–92, div. A, title VII, § 736, Dec. 20, 2019, 133 Stat. 1463; Pub. L. 117–180, div. E, title I, § 103, Sept. 30, 2022, 136 Stat. 2137.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 60, § 5011; amended Pub. L. 97–174, § 3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, § 2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered § 8111 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, § 208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, § 721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, § 583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, § 605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, § 747(a), title X, § 1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, § 743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, § 8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§ 1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, § 1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, § 107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, § 722, Nov. 25, 2015, 129 Stat. 869; Pub. L. 116–92, div. A, title VII, § 736, Dec. 20, 2019, 133 Stat. 1463; Pub. L. 117–180, div. E, title I, § 103, Sept. 30, 2022, 136 Stat. 2137.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(3), is Pub. L. 107–314, Dec. 2, 2002, 116 Stat. 2458. Subtitle C (§§ 721–726) of title VII of division A of the Act amended this section, section 8110 of this title, and section 1104 of Title 10, Armed Forces, enacted provisions set out as notes under this section, section 8110 of this title, and sections 1074g and 1094a of Title 10, and repealed provisions set out as a note under section 1094a of Title 10. Section 722 of the Act is set out as a note under this section. Section 725 of the Act is set out as a note under section 1094a of Title 10. For complete classification of this Act to the Code, see Tables.
+The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(3), is Pub. L. 107–314, Dec. 2, 2002, 116 Stat. 2458. Subtitle C (§§ 721–726) of title VII of division A of the Act amended this section, section 8110 of this title, and section 1104 of Title 10, Armed Forces, enacted provisions set out as notes under this section, section 8110 of this title, and sections 1074g and 1094a of Title 10, and repealed provisions set out as a note under section 1094a of Title 10. Section 722 of the Act is set out as a note under this section. Section 725 of the Act is set out as a note under section 1094a of Title 10. For complete classification of this Act to the Code, see Tables.
 
 **Prior Provisions**
 
@@ -1563,97 +1563,97 @@ Pub. L. 114–58 substituted “September 30, 2016” for “September 30, 2015�
 
 2009—Subsec. (d)(3). Pub. L. 111–84 substituted “September 30, 2015” for “September 30, 2010”.
 
-2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Subsec. (b)(1). Pub. L. 109–461, § 1004(a)(6), substituted “into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31” for “into the strategic and performance plan of each Department under the Government Performance and Results Act of 1993”.
+Subsec. (b)(1). Pub. L. 109–461, § 1004(a)(6), substituted “into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31” for “into the strategic and performance plan of each Department under the Government Performance and Results Act of 1993”.
 
-Pub. L. 109–444, § 8(a)(6), which substituted “into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31” for “into the strategic and performance plan of each Department under the Government Performance and Results Act of 1993”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 8(a)(6), which substituted “into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31” for “into the strategic and performance plan of each Department under the Government Performance and Results Act of 1993”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Pub. L. 109–163, § 1056(g), inserted “of 1993” after “Government Performance and Results Act”.
+Pub. L. 109–163, § 1056(g), inserted “of 1993” after “Government Performance and Results Act”.
 
-Subsec. (d)(2). Pub. L. 109–461, § 1004(a)(7)(A), struck out “effective October 1, 2003,” after “the incentive program,”.
+Subsec. (d)(2). Pub. L. 109–461, § 1004(a)(7)(A), struck out “effective October 1, 2003,” after “the incentive program,”.
 
-Pub. L. 109–444, § 8(a)(7)(A), which struck out “effective October 1, 2003,” after “the incentive program,”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 8(a)(7)(A), which struck out “effective October 1, 2003,” after “the incentive program,”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
 Subsec. (d)(3). Pub. L. 109–364 substituted “September 30, 2010” for “September 30, 2007”.
 
-Pub. L. 109–163, § 747(a), redesignated par. (4) as (3) and struck out former par. (3) which provided for an annual review and report by the Comptroller General of the implementation and effectiveness of the incentives program under this subsection.
+Pub. L. 109–163, § 747(a), redesignated par. (4) as (3) and struck out former par. (3) which provided for an annual review and report by the Comptroller General of the implementation and effectiveness of the incentives program under this subsection.
 
-Subsec. (d)(4). Pub. L. 109–163, § 747(a)(2), redesignated par. (4) as (3).
+Subsec. (d)(4). Pub. L. 109–163, § 747(a)(2), redesignated par. (4) as (3).
 
-Subsec. (e)(2). Pub. L. 109–461, § 1004(a)(7)(B), struck out “shall be implemented no later than October 1, 2003, and” after “Such schedule” in second sentence and “, following implementation of the schedule,” after “The two Secretaries” in third sentence.
+Subsec. (e)(2). Pub. L. 109–461, § 1004(a)(7)(B), struck out “shall be implemented no later than October 1, 2003, and” after “Such schedule” in second sentence and “, following implementation of the schedule,” after “The two Secretaries” in third sentence.
 
-Pub. L. 109–444, § 8(a)(7)(B), which struck out “shall be implemented no later than October 1, 2003, and” after “Such schedule” in second sentence and “, following implementation of the schedule,” after “The two Secretaries” in third sentence, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, § 8(a)(7)(B), which struck out “shall be implemented no later than October 1, 2003, and” after “Such schedule” in second sentence and “, following implementation of the schedule,” after “The two Secretaries” in third sentence, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
 2004—Subsec. (d)(2). Pub. L. 108–422 inserted “and shall be available for any purpose authorized by this section” before period at end.
 
-2003—Subsec. (b)(2). Pub. L. 108–136, § 583(b)(2)(A), substituted “the Department of Veterans Affairs-Department of Defense Joint Executive Committee under section 320 of this title” for “the interagency committee provided for under subsection (c)”.
+2003—Subsec. (b)(2). Pub. L. 108–136, § 583(b)(2)(A), substituted “the Department of Veterans Affairs-Department of Defense Joint Executive Committee under section 320 of this title” for “the interagency committee provided for under subsection (c)”.
 
-Subsec. (c). Pub. L. 108–136, § 583(b)(1), struck out subsec. (c) which related to establishment of Department of Veterans Affairs-Department of Defense Health Executive Committee.
+Subsec. (c). Pub. L. 108–136, § 583(b)(1), struck out subsec. (c) which related to establishment of Department of Veterans Affairs-Department of Defense Health Executive Committee.
 
-Subsec. (d)(1). Pub. L. 108–136, § 583(b)(2)(B), substituted “Department of Veterans Affairs-Department of Defense Joint Executive Committee” for “Committee established in subsection (c)”.
+Subsec. (d)(1). Pub. L. 108–136, § 583(b)(2)(B), substituted “Department of Veterans Affairs-Department of Defense Joint Executive Committee” for “Committee established in subsection (c)”.
 
-Subsec. (e)(1). Pub. L. 108–136, § 583(b)(2)(C), substituted “Department of Veterans Affairs-Department of Defense Joint Executive Committee with respect to health care resources” for “Committee under subsection (c)(2)” in introductory provisions.
+Subsec. (e)(1). Pub. L. 108–136, § 583(b)(2)(C), substituted “Department of Veterans Affairs-Department of Defense Joint Executive Committee with respect to health care resources” for “Committee under subsection (c)(2)” in introductory provisions.
 
-Subsec. (f)(2)(B), (C). Pub. L. 108–136, § 583(b)(2)(D), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (f)(2)(B), (C). Pub. L. 108–136, § 583(b)(2)(D), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) The assessment of further opportunities identified under subparagraph (C) of subsection (c)(5) for the sharing of health-care resources between the two Departments.
 
 “(C) Any recommendation made under subsection (c)(4) during such fiscal year.”
 
-Subsec. (f)(3), (4)(A), (B), (5). Pub. L. 108–136, § 583(c), inserted “(Public Law 107–314)” after “for Fiscal Year 2003”.
+Subsec. (f)(3), (4)(A), (B), (5). Pub. L. 108–136, § 583(c), inserted “(Public Law 107–314)” after “for Fiscal Year 2003”.
 
 2002—Pub. L. 107–314 amended section catchline and text generally. Prior to amendment, text related to agreements and contracts for mutual use or exchange of use of hospital and domiciliary facilities and other resources by the Secretary of Veterans Affairs and the Secretary of the Army, the Secretary of the Air Force, and the Secretary of the Navy and provided for establishment of the Department/Department of Defense Health-Care Resources Sharing Committee.
 
-Subsec. (g)(4). Pub. L. 107–135, § 208(e)(6)(A), inserted “services under sections 1782 and 1783 of this title” after “of this title,”.
+Subsec. (g)(4). Pub. L. 107–135, § 208(e)(6)(A), inserted “services under sections 1782 and 1783 of this title” after “of this title,”.
 
-Subsec. (g)(5). Pub. L. 107–135, § 208(e)(6)(B), substituted “section 1782, 1783, or 1784” for “section 1711(b) or 1713”.
+Subsec. (g)(5). Pub. L. 107–135, § 208(e)(6)(B), substituted “section 1782, 1783, or 1784” for “section 1711(b) or 1713”.
 
-1994—Subsec. (b)(2). Pub. L. 103–446, § 1201(g)(8)(A), in concluding provisions, substituted “During odd-numbered fiscal years” for “During fiscal years 1982 and 1983” and “During even-numbered fiscal years” for “During fiscal year 1984” and struck out after third sentence “Thereafter, the chairmanship of the Committee shall alternate each fiscal year between the Under Secretary for Health and the Assistant Secretary.”
+1994—Subsec. (b)(2). Pub. L. 103–446, § 1201(g)(8)(A), in concluding provisions, substituted “During odd-numbered fiscal years” for “During fiscal years 1982 and 1983” and “During even-numbered fiscal years” for “During fiscal year 1984” and struck out after third sentence “Thereafter, the chairmanship of the Committee shall alternate each fiscal year between the Under Secretary for Health and the Assistant Secretary.”
 
-Subsec. (b)(4). Pub. L. 103–446, § 1201(g)(8)(B), substituted “At such times as” for “Within nine months of the date of the enactment of this subsection and at such times thereafter as”.
+Subsec. (b)(4). Pub. L. 103–446, § 1201(g)(8)(B), substituted “At such times as” for “Within nine months of the date of the enactment of this subsection and at such times thereafter as”.
 
-Subsec. (f)(6). Pub. L. 103–446, § 1201(i)(10), inserted “of Defense” after second reference to “Secretary”.
+Subsec. (f)(6). Pub. L. 103–446, § 1201(i)(10), inserted “of Defense” after second reference to “Secretary”.
 
 1992—Subsecs. (b)(2), (d)(5), (e). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” wherever appearing.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5011 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5011 of this title as this section.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Sharing of Department” for “Sharing of Veterans’ Administration” in section catchline.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Sharing of Department” for “Sharing of Veterans’ Administration” in section catchline.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Pub. L. 102–40, § 402(d)(1), substituted “8110(a)(1)” for “5010(a)(1)”.
+Pub. L. 102–40, § 402(d)(1), substituted “8110(a)(1)” for “5010(a)(1)”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (4).
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (4).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing in pars. (1) and (2)(A).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing in pars. (1) and (2)(A).
 
-Subsec. (c)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (c)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in par. (6).
+Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in par. (6).
 
-Subsec. (g). Pub. L. 102–83, § 5(c)(1), substituted “1701” for “601” in par. (4) and “1711(b) or 1713” for “611(b) or 613” in par. (5).
+Subsec. (g). Pub. L. 102–83, § 5(c)(1), substituted “1701” for “601” in par. (4) and “1711(b) or 1713” for “611(b) or 613” in par. (5).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
 1983—Subsec. (f). Pub. L. 97–452 substituted “section 1105 of title 31” for “section 201(a) of the Budget and Accounting Act, 1921 (31 U.S.C. 11(a))”.
 
-1982—Pub. L. 97–174, § 3(b)(1), substituted “Sharing of Veterans’ Administration and Department of Defense health-care resources” for “Use of Armed Forces facilities” in section catchline.
+1982—Pub. L. 97–174, § 3(b)(1), substituted “Sharing of Veterans’ Administration and Department of Defense health-care resources” for “Use of Armed Forces facilities” in section catchline.
 
-Subsec. (a). Pub. L. 97–174, § 3(a)(1), (2), designated existing provisions as subsec. (a) and substituted “material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Veterans’ Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained” for “and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans’ Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,”.
+Subsec. (a). Pub. L. 97–174, § 3(a)(1), (2), designated existing provisions as subsec. (a) and substituted “material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Veterans’ Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained” for “and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans’ Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,”.
 
-Subsecs. (b) to (g). Pub. L. 97–174, § 3(a)(3), added subsecs. (b) to (g).
+Subsecs. (b) to (g). Pub. L. 97–174, § 3(a)(3), added subsecs. (b) to (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title VII, § 721(c), Dec. 2, 2002, 116 Stat. 2595, provided that: “The amendments made by this section [amending this section and section 1104 of Title 10, Armed Forces] shall take effect on October 1, 2003.”
+Pub. L. 107–314, div. A, title VII, § 721(c), Dec. 2, 2002, 116 Stat. 2595, provided that: “The amendments made by this section [amending this section and section 1104 of Title 10, Armed Forces] shall take effect on October 1, 2003.”
 
 **Effective Date**
 
@@ -1661,7 +1661,7 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 **Improvement of Availability of Care for Veterans From Facilities and Providers of the Department of Defense**
 
-Pub. L. 119–60, div. A, title VII, § 731, Dec. 18, 2025, 139 Stat. 928, provided that:
+Pub. L. 119–60, div. A, title VII, § 731, Dec. 18, 2025, 139 Stat. 928, provided that:
 
 > **“(a) Action Plans.—**
 
@@ -1771,7 +1771,7 @@ Pub. L. 119–60, div. A, title VII, § 731, Dec. 18, 2025, 139 Stat. 928, pro
 
 **Report on Mental Health Programs by Department of Veterans Affairs and Department of Defense**
 
-Pub. L. 116–171, title IV, § 405(a), Oct. 17, 2020, 134 Stat. 812, provided that:
+Pub. L. 116–171, title IV, § 405(a), Oct. 17, 2020, 134 Stat. 812, provided that:
 
 > **“(1) In general.—** Not later than one year after the date of the enactment of this Act [Oct. 17, 2020], and annually thereafter, the Secretary of Veterans Affairs and the Secretary of Defense shall submit to the Committee on Veterans’ Affairs and the Committee on Armed Services of the Senate and the Committee on Veterans’ Affairs and the Committee on Armed Services of the House of Representatives a report on mental health programs of the Department of Veterans Affairs and the Department of Defense and joint programs of the Departments.
 
@@ -1813,7 +1813,7 @@ Pub. L. 116–171, title IV, § 405(a), Oct. 17, 2020, 134 Stat. 812, provided
 
 **Guidelines for Combined Medical Facilities of the Department of Defense and the Department of Veterans Affairs**
 
-Pub. L. 110–417, [div. A], title VII, § 706, Oct. 14, 2008, 122 Stat. 4500, provided that:
+Pub. L. 110–417, [div. A], title VII, § 706, Oct. 14, 2008, 122 Stat. 4500, provided that:
 
 > “Before a facility may be designated a combined Federal medical facility of the Department of Defense and the Department of Veterans Affairs, the Secretary of Defense and the Secretary of Veterans Affairs shall execute a signed agreement that specifies, at a minimum, a binding operational agreement on the following areas:
 
@@ -1837,7 +1837,7 @@ Pub. L. 110–417, [div. A], title VII, § 706, Oct. 14, 2008, 122 Stat. 4500,
 
 **Consideration of Combination of Military Medical Treatment Facilities and Health Care Facilities of Department of Veterans Affairs**
 
-Pub. L. 108–375, div. B, title XXVIII, § 2811, Oct. 28, 2004, 118 Stat. 2128, provided that:
+Pub. L. 108–375, div. B, title XXVIII, § 2811, Oct. 28, 2004, 118 Stat. 2128, provided that:
 
 > **“(a) Department of Defense Consideration of Joint Construction.—** When considering any military construction project for the construction of a new military medical treatment facility in the United States or a territory or possession of the United States, the Secretary of Defense shall consult with the Secretary of Veterans Affairs regarding the feasibility of carrying out a joint project to construct a medical facility that—
 
@@ -1853,7 +1853,7 @@ Pub. L. 108–375, div. B, title XXVIII, § 2811, Oct. 28, 2004, 118 Stat. 212
 
 **Health Care Resources Sharing and Coordination Project**
 
-Pub. L. 107–314, div. A, title VII, § 722, Dec. 2, 2002, 116 Stat. 2595, as amended by Pub. L. 109–163, div. A, title VII, § 747(b), Jan. 6, 2006, 119 Stat. 3363, provided that:
+Pub. L. 107–314, div. A, title VII, § 722, Dec. 2, 2002, 116 Stat. 2595, as amended by Pub. L. 109–163, div. A, title VII, § 747(b), Jan. 6, 2006, 119 Stat. 3363, provided that:
 
 > **“(a) Establishment.—**
 
@@ -1937,7 +1937,7 @@ Pub. L. 107–314, div. A, title VII, § 722, Dec. 2, 2002, 116 Stat. 2595, as
 
 **Access to Care for TRICARE-Eligible Military Retirees**
 
-Pub. L. 106–117, title I, § 113, Nov. 30, 1999, 113 Stat. 1556, as amended by Pub. L. 108–7, div. K, title I, § 113(d)(2), Feb. 20, 2003, 117 Stat. 483, provided that:
+Pub. L. 106–117, title I, § 113, Nov. 30, 1999, 113 Stat. 1556, as amended by Pub. L. 108–7, div. K, title I, § 113(d)(2), Feb. 20, 2003, 117 Stat. 483, provided that:
 
 > **“(a) Interagency Agreement.—**
 
@@ -1977,7 +1977,7 @@ Pub. L. 106–117, title I, § 113, Nov. 30, 1999, 113 Stat. 1556, as amended 
 
 **Health-Care Sharing Agreements Between Department of Veterans Affairs and Department of Defense**
 
-Pub. L. 106–398, § 1 [[div. A], title VII, § 741], Oct. 30, 2000, 114 Stat. 1654, 1654A–192, provided that:
+Pub. L. 106–398, § 1 [[div. A], title VII, § 741], Oct. 30, 2000, 114 Stat. 1654, 1654A–192, provided that:
 
 > **“(a) Primacy of Sharing Agreements.—** The Secretary of Defense shall—
 
@@ -1987,9 +1987,9 @@ Pub. L. 106–398, § 1 [[div. A], title VII, § 741], Oct. 30, 2000, 114 St
 
 > **“(b) Modification or Termination.—** Any agreement described in subsection (a) shall remain in effect in accordance with such subsection unless, during the 12-month period following the date of the enactment of this Act [Oct. 30, 2000], such agreement is modified or terminated in accordance with the terms of such agreement.”
 
-Pub. L. 104–262, title III, § 302(b)(2), Oct. 9, 1996, 110 Stat. 3193, provided that: “Any services provided pursuant to agreements entered into under section 201 of such Act [Pub. L. 102–585] (38 U.S.C. 8111 note) during the period beginning on October 1, 1996, and ending on the date of the enactment of this Act [Oct. 9, 1996] are hereby ratified.”
+Pub. L. 104–262, title III, § 302(b)(2), Oct. 9, 1996, 110 Stat. 3193, provided that: “Any services provided pursuant to agreements entered into under section 201 of such Act [Pub. L. 102–585] (38 U.S.C. 8111 note) during the period beginning on October 1, 1996, and ending on the date of the enactment of this Act [Oct. 9, 1996] are hereby ratified.”
 
-Pub. L. 102–585, title II, Nov. 4, 1992, 106 Stat. 4949, as amended by Pub. L. 103–446, title XII, § 1202(e)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title III, § 302(a), (b)(1), (c), Oct. 9, 1996, 110 Stat. 3193, provided that:
+Pub. L. 102–585, title II, Nov. 4, 1992, 106 Stat. 4949, as amended by Pub. L. 103–446, title XII, § 1202(e)(1), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 104–262, title III, § 302(a), (b)(1), (c), Oct. 9, 1996, 110 Stat. 3193, provided that:
 
 > **“SEC. 201. TEMPORARY EXPANSION OF AUTHORITY FOR SHARING AGREEMENTS.**
 
@@ -2023,7 +2023,7 @@ Pub. L. 102–585, title II, Nov. 4, 1992, 106 Stat. 4949, as amended by Pub. L.
 
 > **“[SEC. 204.**
 
-> Repealed. Pub. L. 104–262, title III, § 302(b)(1), Oct. 9, 1996, 110 Stat. 3193.]
+> Repealed. Pub. L. 104–262, title III, § 302(b)(1), Oct. 9, 1996, 110 Stat. 3193.]
 
 > **“SEC. 205. CONSULTATION WITH VETERANS SERVICE ORGANIZATIONS.**
 
@@ -2049,7 +2049,7 @@ Pub. L. 102–585, title II, Nov. 4, 1992, 106 Stat. 4949, as amended by Pub. L.
 
 **Congressional Findings**
 
-Pub. L. 97–174, § 2(a), May 4, 1982, 96 Stat. 70, provided that:
+Pub. L. 97–174, § 2(a), May 4, 1982, 96 Stat. 70, provided that:
 
 > “The Congress makes the following findings:
 
@@ -2063,9 +2063,9 @@ Pub. L. 97–174, § 2(a), May 4, 1982, 96 Stat. 70, provided that:
 
 **Executive Order No. 13214**
 
-Ex. Ord. No. 13214, May 28, 2001, 66 F.R. 29447, which established President’s Task Force to Improve Health Care Delivery for Our Nation’s Veterans, was revoked by Ex. Ord. No. 13316, § 3(h), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
+Ex. Ord. No. 13214, May 28, 2001, 66 F.R. 29447, which established President’s Task Force to Improve Health Care Delivery for Our Nation’s Veterans, was revoked by Ex. Ord. No. 13316, § 3(h), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
 
-### § 8111A. Furnishing of health-care services to members of the Armed Forces during a war or national emergency
+### § 8111A. Furnishing of health-care services to members of the Armed Forces during a war or national emergency
 
 **(a)**
 
@@ -2079,9 +2079,9 @@ Ex. Ord. No. 13214, May 28, 2001, 66 F.R. 29447, which established President’s
 
 **(i)** A major disaster or emergency declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
-**(ii)** A disaster or emergency in which the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh) 1
+**(ii)** A disaster or emergency in which the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 is activated by the Secretary of Health and Human Services under that section or as otherwise authorized by law.
 
@@ -2119,13 +2119,13 @@ if Department facilities are not capable of furnishing or continuing to furnish 
 
 **(e)** The Secretary shall prescribe regulations to govern any exercise of the authority of the Secretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
 
-(Added Pub. L. 97–174, § 4(a), May 4, 1982, 96 Stat. 74, § 5011A; renumbered § 8111A, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, § 14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, § 101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, § 403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–135, title II, § 208(e)(7), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–287, § 4(b), Nov. 7, 2002, 116 Stat. 2029; Pub. L. 109–444, § 8(a)(8), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§ 1004(a)(8), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 111–275, title X, § 1001(p)(1), Oct. 13, 2010, 124 Stat. 2897.)
+(Added Pub. L. 97–174, § 4(a), May 4, 1982, 96 Stat. 74, § 5011A; renumbered § 8111A, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, § 14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, § 101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, § 403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–135, title II, § 208(e)(7), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–287, § 4(b), Nov. 7, 2002, 116 Stat. 2029; Pub. L. 109–444, § 8(a)(8), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§ 1004(a)(8), 1006(b), Dec. 22, 2006, 120 Stat. 3466, 3468; Pub. L. 111–275, title X, § 1001(p)(1), Oct. 13, 2010, 124 Stat. 2897.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 Section 2812 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(ii), is classified to section 300hh–11 of Title 42, The Public Health and Welfare.
 
@@ -2133,15 +2133,15 @@ Section 2812 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(
 
 2010—Subsec. (a)(2)(B)(ii). Pub. L. 111–275 substituted “section 2812 of the Public Health Service Act (42 U.S.C. 300hh)” for “section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b))” and struck out “paragraph (3)(A) of” before “that section”.
 
-2006—Subsec. (a)(2)(B)(i). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+2006—Subsec. (a)(2)(B)(i). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 1004(a)(8), substituted “Robert T.” for “Robert B.”.
+Pub. L. 109–461, § 1004(a)(8), substituted “Robert T.” for “Robert B.”.
 
-Pub. L. 109–444, which substituted “Robert T.” for “Robert B.”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which substituted “Robert T.” for “Robert B.”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
 2002—Subsec. (a). Pub. L. 107–287 redesignated second sentence of par. (1) as par. (3), added par. (2), and redesignated former par. (2) as (4).
 
-Subsec. (a)(2). Pub. L. 107–135 inserted “, and the term ‘medical services’ includes services under sections 1782 and 1783 of this title” before period at end.
+Subsec. (a)(2). Pub. L. 107–135 inserted “, and the term ‘medical services’ includes services under sections 1782 and 1783 of this title” before period at end.
 
 2000—Subsec. (f). Pub. L. 106–419 struck out subsec. (f) which read as follows: “Within thirty days after a declaration of a period of war or national emergency described in subsection (a) of this section (or as soon after the end of such thirty-day period as is reasonably practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary’s allocation of facilities and personnel in order to provide priority hospital care, nursing home care, and medical services under this section to members of the Armed Forces. Thereafter, with respect to any fiscal year in which the authority in subsection (b) of this section to enter into contracts with private facilities has been used, the Secretary shall report within ninety days after the end of such fiscal year to those committees regarding the extent of, and the circumstances under which, such authority was used.”
 
@@ -2151,31 +2151,31 @@ Subsec. (a)(2). Pub. L. 107–135 inserted “, and the term ‘medical servic
 
 1991—Pub. L. 102–40 renumbered section 5011A of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1701(5)” for “601(5)” and “1701(6)” for “601(6)” in par. (2).
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1701(5)” for “601(5)” and “1701(6)” for “601(6)” in par. (2).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in par. (1).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in par. (1).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (1).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in par. (1).
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1712” for “612” in par. (2)(A) and “1710” for “610” in par. (2)(B)(i).
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “1712” for “612” in par. (2)(A) and “1710” for “610” in par. (2)(B)(i).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in par. (1).
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in par. (1).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing in par. (2).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing in par. (2).
 
-Pub. L. 102–54, § 14(f)(4)(A), amended subsec. (b)(2)(A) as in effect immediately before the enactment of Pub. L. 102–40 by striking out “or (g)” after “subsection (f)”.
+Pub. L. 102–54, § 14(f)(4)(A), amended subsec. (b)(2)(A) as in effect immediately before the enactment of Pub. L. 102–40 by striking out “or (g)” after “subsection (f)”.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (1).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsec. (d). Pub. L. 102–54, § 14(f)(4)(B), amended section as in effect immediately before the enactment of Pub. L. 102–40 by adding subsec. (d) and striking out former subsec. (d) which read as follows:
+Subsec. (d). Pub. L. 102–54, § 14(f)(4)(B), amended section as in effect immediately before the enactment of Pub. L. 102–40 by adding subsec. (d) and striking out former subsec. (d) which read as follows:
 
 “(1) Not later than six months after the date of the enactment of this section, the Administrator and the Secretary of Defense shall enter into an agreement to plan and establish procedures and guidelines for the implementation of this section. Not later than one year after the date of the enactment of this section, the Administrator and the Secretary shall complete plans for such implementation and shall submit such plans to the Committees on Veterans’ Affairs and on Armed Services of the Senate and House of Representatives.
 
 “(2) The Administrator and the Secretary of Defense shall jointly review such plans not less often than annually thereafter and shall report to such committees any modification in such plans within thirty days after the modification is agreed to.”
 
-Subsecs. (e), (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
+Subsecs. (e), (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2187,7 +2187,7 @@ For transfer of functions, personnel, assets, and liabilities of the National Di
 
 **Congressional Findings**
 
-Pub. L. 97–174, § 2(b), May 4, 1982, 96 Stat. 70, provided that:
+Pub. L. 97–174, § 2(b), May 4, 1982, 96 Stat. 70, provided that:
 
 > “The Congress makes the following further findings:
 
@@ -2201,7 +2201,7 @@ Pub. L. 97–174, § 2(b), May 4, 1982, 96 Stat. 70, provided that:
 
 Ex. Ord. No. 12751, Feb. 14, 1991, 56 F.R. 6787, which related to health care services for Operation Desert Storm, was revoked by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055, listed in a table under section 1701 of Title 50, War and National Defense.
 
-### § 8111B. Shared medical facilities with Department of Defense
+### § 8111B. Shared medical facilities with Department of Defense
 
 **(a) Agreements.—** The Secretary of Veterans Affairs may enter into agreements with the Secretary of Defense for the planning, design, and construction, or the leasing, of facilities to be operated as shared medical facilities.
 
@@ -2235,23 +2235,23 @@ Ex. Ord. No. 12751, Feb. 14, 1991, 56 F.R. 6787, which related to health care se
 
 **(2)** includes any necessary building and auxiliary structure, garage, parking facility, mechanical equipment, abutting and covered sidewalks, and accommodations for attending personnel.
 
-(Added Pub. L. 117–81, div. A, title VII, § 714(b)(1), Dec. 27, 2021, 135 Stat. 1786; amended Pub. L. 117–168, title VII, § 706(b), Aug. 10, 2022, 136 Stat. 1800.)
+(Added Pub. L. 117–81, div. A, title VII, § 714(b)(1), Dec. 27, 2021, 135 Stat. 1786; amended Pub. L. 117–168, title VII, § 706(b), Aug. 10, 2022, 136 Stat. 1800.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–168, § 706(b)(1), inserted “, or the leasing,” after “design, and construction”.
+2022—Subsec. (a). Pub. L. 117–168, § 706(b)(1), inserted “, or the leasing,” after “design, and construction”.
 
-Subsec. (b)(3). Pub. L. 117–168, § 706(b)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 117–168, § 706(b)(2), added par. (3).
 
-Subsec. (c)(3). Pub. L. 117–168, § 706(b)(3), added par. (3).
+Subsec. (c)(3). Pub. L. 117–168, § 706(b)(3), added par. (3).
 
-### § 8112. Partial relinquishment of legislative jurisdiction
+### § 8112. Partial relinquishment of legislative jurisdiction
 
 The Secretary, on behalf of the United States, may relinquish to the State in which any lands or interests therein under the supervision or control of the Secretary are situated, such measure of legislative jurisdiction over such lands or interests as is necessary to establish concurrent jurisdiction between the Federal Government and the State concerned. Such partial relinquishment of legislative jurisdiction shall be initiated by filing a notice thereof with the Governor of the State concerned, or in such other manner as may be prescribed by the laws of such State, and shall take effect upon acceptance by such State.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 60, § 5012; renumbered § 8112, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 60, § 5012; renumbered § 8112, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -2271,11 +2271,11 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” in two plac
 
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 
-### § 8113. Property formerly owned by National Home for Disabled Volunteer Soldiers
+### § 8113. Property formerly owned by National Home for Disabled Volunteer Soldiers
 
 If by reason of any defeasance or conditional clause or clauses contained in any deed of conveyance of property to the National Home for Disabled Volunteer Soldiers, which property is owned by the United States, the full and complete enjoyment and use of such property is threatened, the Attorney General, upon request of the President, shall institute in the United States district court for the district in which the property is located such proceedings as may be proper to extinguish all outstanding adverse interests. The Attorney General may procure and accept, on behalf of the United States, by gift, purchase, cession, or otherwise, absolute title to, and complete jurisdiction over, all such property.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 61, § 5013; renumbered § 8113, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 61, § 5013; renumbered § 8113, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
 
 **Editorial Notes**
 
@@ -2293,13 +2293,13 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 
-### § 8114. Use of federally owned facilities; use of personnel
+### § 8114. Use of federally owned facilities; use of personnel
 
 **(a)** The Secretary, subject to the approval of the President, may use as medical facilities such suitable buildings, structures, and grounds owned by the United States on March 3, 1925, as may be available for such purposes, and the President may by Executive order transfer any such buildings, structures, and grounds to the control and jurisdiction of the Department upon the request of the Secretary.
 
 **(b)** The President may require the architectural, engineering, constructing, or other forces of any of the departments of the Government to do or assist in the construction and alteration of medical facilities, and the President may employ for such purposes individuals and agencies not connected with the Government, if in the opinion of the President such is desirable, at such compensation as the President may consider reasonable.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 61, § 5014; renumbered § 8114, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 61, § 5014; renumbered § 8114, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -2311,9 +2311,9 @@ Provisions similar to those comprising this section were contained in section 50
 
 1991—Pub. L. 102–40 renumbered section 5014 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2321,11 +2321,11 @@ Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veteran
 
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 
-### § 8115. Acceptance of certain property
+### § 8115. Acceptance of certain property
 
 The President may accept from any State or other political subdivision, or from any person, any building, structure, equipment, or grounds suitable for the care of disabled persons, with due regard to fire or other hazards, state of repair, and all other pertinent considerations. The President may designate which agency of the Federal Government shall have the control and management of any property so accepted.
 
-(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 61, § 5015; renumbered § 8115, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
+(Added Pub. L. 96–22, title III, § 301(a), June 13, 1979, 93 Stat. 61, § 5015; renumbered § 8115, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
 
 **Editorial Notes**
 
@@ -2343,13 +2343,13 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under section 8101 of this title.
 
-### § 8116. Nursing home revolving fund
+### § 8116. Nursing home revolving fund
 
 **(a)**
 
-**(1)** Amounts realized from a transfer pursuant to section 8122(a)(2)(C) 1
+**(1)** Amounts realized from a transfer pursuant to section 8122(a)(2)(C) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall be administered as a revolving fund and shall be available without fiscal year limitation.
 
@@ -2361,23 +2361,23 @@ of this title shall be administered as a revolving fund and shall be available w
 
 **(2)** For the purpose of section 8104(a)(2) of this title, a bill, resolution, or amendment which provides that funds in the revolving fund may be expended for a project involving a total expenditure of more than $2,000,000 for the construction, alteration, or acquisition (including site acquisition) of a nursing home facility shall be considered to be a bill, resolution, or amendment making an appropriation which may be expended for a major medical facility project.
 
-(Added Pub. L. 100–322, title II, § 205(a), May 20, 1988, 102 Stat. 512, § 5016; renumbered § 8116 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
+(Added Pub. L. 100–322, title II, § 205(a), May 20, 1988, 102 Stat. 512, § 5016; renumbered § 8116 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239.)
 
 **Repeal of Section**
 
-Pub. L. 108–422, title IV, § 411(c)(1),(f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that this section is repealed effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title.
+Pub. L. 108–422, title IV, § 411(c)(1),(f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that this section is repealed effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title.
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 8122(a)(2) of this title, referred to in subsec. (a)(1), was amended generally by Pub. L. 108–422, title IV, § 411(e)(1), Nov. 30, 2004, 118 Stat. 2389, and, as so amended, no longer contains a subpar. (C).
+Section 8122(a)(2) of this title, referred to in subsec. (a)(1), was amended generally by Pub. L. 108–422, title IV, § 411(e)(1), Nov. 30, 2004, 118 Stat. 2389, and, as so amended, no longer contains a subpar. (C).
 
 **Amendments**
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5016 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5016 of this title as this section.
 
-Pub. L. 102–40, § 402(d)(1), substituted “8122(a)(2)(C)” for “5022(a)(2)(C)” in subsec. (a)(1) and “8104(a)(2)” for “5004(a)(2)” in subsec. (b)(2).
+Pub. L. 102–40, § 402(d)(1), substituted “8122(a)(2)(C)” for “5022(a)(2)(C)” in subsec. (a)(1) and “8104(a)(2)” for “5004(a)(2)” in subsec. (b)(2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2389,7 +2389,7 @@ Repeal effective at the end of the 30-day period beginning on the date on which 
 
 For provisions relating to the transfer of balances and receipts from the Nursing Home Revolving Fund to the “Medical services” account, see section 115 of Pub. L. 108–447, set out as a note under section 1729a of this title.
 
-### § 8117. Emergency preparedness
+### § 8117. Emergency preparedness
 
 **(a) Readiness of Department Medical Centers.—**
 
@@ -2401,9 +2401,9 @@ For provisions relating to the transfer of balances and receipts from the Nursin
 
 **(B)** the provision of training in the use of such equipment to staff of such centers;
 
-**(C)** organizing, training, and equipping the staff of such centers to support the activities carried out by the Secretary of Health and Human Services under section 2801 of the Public Health Service Act in the event of a public health emergency and incidents covered by the National Response Plan developed pursuant to section 502(6) 1
+**(C)** organizing, training, and equipping the staff of such centers to support the activities carried out by the Secretary of Health and Human Services under section 2801 of the Public Health Service Act in the event of a public health emergency and incidents covered by the National Response Plan developed pursuant to section 502(6) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Homeland Security Act of 2002, or any successor plan; and
 
@@ -2461,7 +2461,7 @@ of the Homeland Security Act of 2002, or any successor plan; and
 
 **(g) Authorization of Appropriations.—** There are authorized to be appropriated, $155,300,000 for each of fiscal years 2019 through 2028 to carry out this section.
 
-(Added Pub. L. 107–287, § 6(a)(1), Nov. 7, 2002, 116 Stat. 2030; amended Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–417, title III, § 306, Dec. 19, 2006, 120 Stat. 2863; Pub. L. 110–387, title IX, § 901(a)(7), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–275, title X, § 1001(p)(2), Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–5, title I, § 105, Mar. 13, 2013, 127 Stat. 170; Pub. L. 116–22, title VII, § 701(a), June 24, 2019, 133 Stat. 961; Pub. L. 118–19, § 3, Oct. 6, 2023, 137 Stat. 106.)
+(Added Pub. L. 107–287, § 6(a)(1), Nov. 7, 2002, 116 Stat. 2030; amended Pub. L. 109–295, title VI, § 612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–417, title III, § 306, Dec. 19, 2006, 120 Stat. 2863; Pub. L. 110–387, title IX, § 901(a)(7), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 111–275, title X, § 1001(p)(2), Oct. 13, 2010, 124 Stat. 2897; Pub. L. 113–5, title I, § 105, Mar. 13, 2013, 127 Stat. 170; Pub. L. 116–22, title VII, § 701(a), June 24, 2019, 133 Stat. 961; Pub. L. 118–19, § 3, Oct. 6, 2023, 137 Stat. 106.)
 
 **Editorial Notes**
 
@@ -2469,7 +2469,7 @@ of the Homeland Security Act of 2002, or any successor plan; and
 
 Section 2801 of the Public Health Service Act, referred to in subsec. (a)(1), is classified to section 300hh of Title 42, The Public Health and Welfare.
 
-Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(C), probably means section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, § 611(8), and reclassification as section 314 of Title 6, Domestic Security, and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, § 611(9), and is classified to section 312 of Title 6. Provisions relating to the National Response Plan are contained in section 314(a)(6) of Title 6.
+Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(C), probably means section 502 of Pub. L. 107–296 prior to its redesignation as section 504 by Pub. L. 109–295, § 611(8), and reclassification as section 314 of Title 6, Domestic Security, and not section 506 of Pub. L. 107–296 which was redesignated section 502 by Pub. L. 109–295, § 611(9), and is classified to section 312 of Title 6. Provisions relating to the National Response Plan are contained in section 314(a)(6) of Title 6.
 
 Section 154(b)(1) of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, referred to in subsec. (b)(2), is section 154(b)(1) of Pub. L. 107–188, which is set out as a note below.
 
@@ -2481,25 +2481,25 @@ Section 154(b)(1) of the Public Health Security and Bioterrorism Preparedness an
 
 2013—Subsec. (g). Pub. L. 113–5 substituted “$155,300,000 for each of fiscal years 2014 through 2018 to carry out this section” for “such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011”.
 
-2010—Subsec. (e)(1). Pub. L. 111–275, § 1001(p)(2)(A), substituted “(42 U.S.C. 300hh–11)” for “(42 U.S.C. 300hh–11(b))”.
+2010—Subsec. (e)(1). Pub. L. 111–275, § 1001(p)(2)(A), substituted “(42 U.S.C. 300hh–11)” for “(42 U.S.C. 300hh–11(b))”.
 
-Subsec. (e)(2). Pub. L. 111–275, § 1001(p)(2)(B), substituted “(42 U.S.C. 247d–6)” for “(42 U.S.C. 247d–6(a))”.
+Subsec. (e)(2). Pub. L. 111–275, § 1001(p)(2)(B), substituted “(42 U.S.C. 247d–6)” for “(42 U.S.C. 247d–6(a))”.
 
 2008—Subsec. (a)(1). Pub. L. 110–387 substituted “respond to such” for “respond to such such”.
 
-2006—Subsec. (a)(1). Pub. L. 109–417, § 306(a)(1)(A), substituted “a public health emergency (as defined in section 2801 of the Public Health Service Act)” for “chemical or biological attack”, “such an emergency” for “an attack”, and “such emergencies” for “public health emergencies”.
+2006—Subsec. (a)(1). Pub. L. 109–417, § 306(a)(1)(A), substituted “a public health emergency (as defined in section 2801 of the Public Health Service Act)” for “chemical or biological attack”, “such an emergency” for “an attack”, and “such emergencies” for “public health emergencies”.
 
-Subsec. (a)(2)(C), (D). Pub. L. 109–417, § 306(a)(1)(B), added subpars. (C) and (D).
+Subsec. (a)(2)(C), (D). Pub. L. 109–417, § 306(a)(1)(B), added subpars. (C) and (D).
 
-Subsec. (c). Pub. L. 109–417, § 306(a)(2), substituted “a public health emergency. The Secretary shall, through existing medical procurement contracts, and on a reimbursable basis, make available as necessary, medical supplies, equipment, and pharmaceuticals in response to a public health emergency in support of the Secretary of Health and Human Services.” for “a chemical or biological attack or other terrorist attack.”
+Subsec. (c). Pub. L. 109–417, § 306(a)(2), substituted “a public health emergency. The Secretary shall, through existing medical procurement contracts, and on a reimbursable basis, make available as necessary, medical supplies, equipment, and pharmaceuticals in response to a public health emergency in support of the Secretary of Health and Human Services.” for “a chemical or biological attack or other terrorist attack.”
 
-Subsec. (d). Pub. L. 109–417, § 306(a)(3), struck out “develop and” before “implement curricula”, substituted “public health emergencies” for “biological, chemical, or radiological attacks”, and inserted “consistent with section 319F(a) of the Public Health Service Act” before period at end.
+Subsec. (d). Pub. L. 109–417, § 306(a)(3), struck out “develop and” before “implement curricula”, substituted “public health emergencies” for “biological, chemical, or radiological attacks”, and inserted “consistent with section 319F(a) of the Public Health Service Act” before period at end.
 
-Subsec. (e)(1). Pub. L. 109–417, § 306(a)(4)(A), substituted “2812” for “2811(b)”.
+Subsec. (e)(1). Pub. L. 109–417, § 306(a)(4)(A), substituted “2812” for “2811(b)”.
 
-Subsec. (e)(2). Pub. L. 109–417, § 306(a)(4)(B), struck out “bioterrorism and other” after “response to” and substituted “319F” for “319F(a)”.
+Subsec. (e)(2). Pub. L. 109–417, § 306(a)(4)(B), struck out “bioterrorism and other” after “response to” and substituted “319F” for “319F(a)”.
 
-Subsec. (g). Pub. L. 109–417, § 306(b), added subsec. (g).
+Subsec. (g). Pub. L. 109–417, § 306(b), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2515,9 +2515,9 @@ For transfer of functions, personnel, assets, and liabilities of the National Di
 
 **Enhancement of Emergency Preparedness of Department of Veterans Affairs**
 
-Pub. L. 107–188, title I, § 154, June 12, 2002, 116 Stat. 631, as amended by Pub. L. 107–287, § 6(b), (c), Nov. 7, 2002, 116 Stat. 2032, provided that:
+Pub. L. 107–188, title I, § 154, June 12, 2002, 116 Stat. 631, as amended by Pub. L. 107–287, § 6(b), (c), Nov. 7, 2002, 116 Stat. 2032, provided that:
 
-> **“[(a)** Repealed. Pub. L. 107–287, § 6(b), Nov. 7, 2002, 116 Stat. 2032.]
+> **“[(a)** Repealed. Pub. L. 107–287, § 6(b), Nov. 7, 2002, 116 Stat. 2032.]
 
 > **“(b) Security at Department Medical and Research Facilities.—**
 
@@ -2531,9 +2531,9 @@ Pub. L. 107–188, title I, § 154, June 12, 2002, 116 Stat. 631, as amended b
 
 > **“(D)** Any other needs the Secretary considers appropriate.
 
-> **“[(2)** Repealed. Pub. L. 107–287, § 6(b), Nov. 7, 2002, 116 Stat. 2032.]
+> **“[(2)** Repealed. Pub. L. 107–287, § 6(b), Nov. 7, 2002, 116 Stat. 2032.]
 
-> **“[(c)** to (f) Repealed. Pub. L. 107–287, § 6(b), Nov. 7, 2002, 116 Stat. 2032.]
+> **“[(c)** to (f) Repealed. Pub. L. 107–287, § 6(b), Nov. 7, 2002, 116 Stat. 2032.]
 
 > **“(g) Authorization of Appropriations.—** There is hereby authorized to be appropriated for the Department of Veterans Affairs amounts as follows:
 
@@ -2549,7 +2549,7 @@ Pub. L. 107–188, title I, § 154, June 12, 2002, 116 Stat. 631, as amended b
 
 > **“(B)** such sums as may be necessary for each of fiscal years 2003 through 2006.”
 
-### § 8118. Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund
+### § 8118. Authority for transfer of real property; Department of Veterans Affairs Capital Asset Fund
 
 **(a)**
 
@@ -2587,7 +2587,7 @@ Pub. L. 107–188, title I, § 154, June 12, 2002, 116 Stat. 631, as amended b
 
 **(3)** The deposits into, and expenditures from, the Fund that are incurred or projected for each of the preceding fiscal year, the current fiscal year, and the fiscal year covered by the budget.
 
-(Added Pub. L. 108–422, title IV, § 411(a)(1), Nov. 30, 2004, 118 Stat. 2388; amended Pub. L. 112–37, § 10(g), Oct. 5, 2011, 125 Stat. 397; Pub. L. 115–251, title I, § 105, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, § 5103, Oct. 1, 2020, 134 Stat. 748; Pub. L. 117–180, div. E, title IV, § 405, Sept. 30, 2022, 136 Stat. 2139; Pub. L. 118–83, div. B, title III, § 337, Sept. 26, 2024, 138 Stat. 1542; Pub. L. 119–37, div. G, title IV, § 7405, Nov. 12, 2025, 139 Stat. 654.)
+(Added Pub. L. 108–422, title IV, § 411(a)(1), Nov. 30, 2004, 118 Stat. 2388; amended Pub. L. 112–37, § 10(g), Oct. 5, 2011, 125 Stat. 397; Pub. L. 115–251, title I, § 105, Sept. 29, 2018, 132 Stat. 3168; Pub. L. 116–159, div. E, title I, § 5103, Oct. 1, 2020, 134 Stat. 748; Pub. L. 117–180, div. E, title IV, § 405, Sept. 30, 2022, 136 Stat. 2139; Pub. L. 118–83, div. B, title III, § 337, Sept. 26, 2024, 138 Stat. 1542; Pub. L. 119–37, div. G, title IV, § 7405, Nov. 12, 2025, 139 Stat. 654.)
 
 **Editorial Notes**
 
@@ -2613,11 +2613,11 @@ Amendment by Pub. L. 119–37 effective as if enacted on Sept. 30, 2025, see sec
 
 **Transfer of Unobligated Balances to Capital Asset Fund**
 
-Pub. L. 108–422, title IV, § 411(d), Nov. 30, 2004, 118 Stat. 2389, provided that: “Any unobligated balances in the nursing home revolving fund under section 8116 of title 38, United States Code, as of the date of the enactment of this Act [Nov. 30, 2004] shall be deposited in the Department of Veterans Affairs Capital Asset Fund established under section 8118 of title 38, United States Code (as added by subsection (a)).”
+Pub. L. 108–422, title IV, § 411(d), Nov. 30, 2004, 118 Stat. 2389, provided that: “Any unobligated balances in the nursing home revolving fund under section 8116 of title 38, United States Code, as of the date of the enactment of this Act [Nov. 30, 2004] shall be deposited in the Department of Veterans Affairs Capital Asset Fund established under section 8118 of title 38, United States Code (as added by subsection (a)).”
 
 [Section 411(d) of Pub. L. 108–422, set out above, is effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, see section 411(f) of Pub. L. 108–422, set out as an Effective Date of 2004 Amendment note under section 1710B of this title.]
 
-### § 8119. Annual report on outpatient clinics
+### § 8119. Annual report on outpatient clinics
 
 **(a) Annual Report Required.—** The Secretary shall submit to the committees an annual report on community-based outpatient clinics and other outpatient clinics of the Department. The report shall be submitted each year not later than the date on which the budget for the next fiscal year is submitted to the Congress under section 1105 of title 31.
 
@@ -2635,15 +2635,15 @@ Pub. L. 108–422, title IV, § 411(d), Nov. 30, 2004, 118 Stat. 2389, provide
 
 **(B)** any sites established, or able to be established, under sections 8111 and 8153 of this title.
 
-(Added Pub. L. 110–387, title VII, § 708(a), Oct. 10, 2008, 122 Stat. 4139.)
+(Added Pub. L. 110–387, title VII, § 708(a), Oct. 10, 2008, 122 Stat. 4139.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline for First Annual Report**
 
-Pub. L. 110–387, title VII, § 708(b), Oct. 10, 2008, 122 Stat. 4140, provided that: “The Secretary of Veterans Affairs shall submit the first report required under section 8119(a) of title 38, United States Code, as added by subsection (a), by not later than 90 days after the date of the enactment of this Act [Oct. 10, 2008].”
+Pub. L. 110–387, title VII, § 708(b), Oct. 10, 2008, 122 Stat. 4140, provided that: “The Secretary of Veterans Affairs shall submit the first report required under section 8119(a) of title 38, United States Code, as added by subsection (a), by not later than 90 days after the date of the enactment of this Act [Oct. 10, 2008].”
 
-### § 8120. Quarterly report on super construction projects
+### § 8120. Quarterly report on super construction projects
 
 **(a) Quarterly Reports Required.—** Not later than 30 days after the last day of each fiscal quarter the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the super construction projects carried out by the appropriate non-Department Federal entity described in section 8103(e)(1) of this title during such quarter. Each such report shall include, for each such project—
 
@@ -2653,11 +2653,11 @@ Pub. L. 110–387, title VII, § 708(b), Oct. 10, 2008, 122 Stat. 4140, provid
 
 **(b) Super Construction Project Defined.—** In this section, the term “super construction project” has the meaning given such term in section 8103(e)(3) of this title.
 
-(Added Pub. L. 114–315, title VIII, § 801(d)(1), Dec. 16, 2016, 130 Stat. 1591.)
+(Added Pub. L. 114–315, title VIII, § 801(d)(1), Dec. 16, 2016, 130 Stat. 1591.)
 
 ## SUBCHAPTER II—PROCUREMENT AND SUPPLY
 
-### § 8121. Revolving supply fund
+### § 8121. Revolving supply fund
 
 **(a)** The revolving supply fund established for the operation and maintenance of a supply system for the Department (including procurement of supplies, equipment, and personal services and the repair and reclamation of used, spent, or excess personal property) shall be—
 
@@ -2675,7 +2675,7 @@ Pub. L. 110–387, title VII, § 708(b), Oct. 10, 2008, 122 Stat. 4140, provid
 
 **(e)** The Secretary is authorized to capitalize, at fair and reasonable values as determined by the Secretary, all supplies and materials and depot stocks of equipment on hand or on order.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, § 5011; amended Pub. L. 87–314, Sept. 26, 1961, 75 Stat. 675; Pub. L. 94–581, title II, § 210(e)(6), Oct. 21, 1976, 90 Stat. 2865; renumbered § 5021, Pub. L. 96–22, title III, § 301(b)(1), June 13, 1979, 93 Stat. 61; Pub. L. 96–330, title IV, § 402(a), Aug. 26, 1980, 94 Stat. 1051; renumbered § 8121, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 108–170, title IV, § 403(a), Dec. 6, 2003, 117 Stat. 2062.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, § 5011; amended Pub. L. 87–314, Sept. 26, 1961, 75 Stat. 675; Pub. L. 94–581, title II, § 210(e)(6), Oct. 21, 1976, 90 Stat. 2865; renumbered § 5021, Pub. L. 96–22, title III, § 301(b)(1), June 13, 1979, 93 Stat. 61; Pub. L. 96–330, title IV, § 402(a), Aug. 26, 1980, 94 Stat. 1051; renumbered § 8121, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 108–170, title IV, § 403(a), Dec. 6, 2003, 117 Stat. 2062.)
 
 **Editorial Notes**
 
@@ -2685,11 +2685,11 @@ Pub. L. 110–387, title VII, § 708(b), Oct. 10, 2008, 122 Stat. 4140, provid
 
 1991—Pub. L. 102–40 renumbered section 5021 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (2) and in last sentence.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in par. (2) and in last sentence.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
 
-Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
 1980—Subsec. (a). Pub. L. 96–330 substituted “actual direct cost (which may be based on the cost of recent significant purchases of the equipment or supply item involved)” for “actual direct” in par. (2), and, in provisions following par. (3), substituted “At the end of each fiscal year, there shall be covered into the Treasury of the United States as miscellaneous receipts such amounts as the Administrator determines to be in excess of the requirements necessary for the maintenance of adequate inventory levels and for the effective financial management of the revolving supply fund” for “At the end of each fiscal year, any net income of the fund, after making provision for prior losses, shall be covered into the Treasury of the United States as miscellaneous receipts”.
 
@@ -2701,11 +2701,11 @@ Subsec. (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary”
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–170, title IV, § 403(b), Dec. 6, 2003, 117 Stat. 2062, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to funds appropriated for a fiscal year after fiscal year 2003.”
+Pub. L. 108–170, title IV, § 403(b), Dec. 6, 2003, 117 Stat. 2062, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to funds appropriated for a fiscal year after fiscal year 2003.”
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–330, title IV, § 402(b), Aug. 26, 1980, 94 Stat. 1051, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of October 1, 1979.”
+Pub. L. 96–330, title IV, § 402(b), Aug. 26, 1980, 94 Stat. 1051, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as of October 1, 1979.”
 
 **Effective Date of 1976 Amendment**
 
@@ -2713,7 +2713,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **Department of Veterans Affairs Supply Chain Resiliency**
 
-Pub. L. 117–328, div. U, title IV, § 401, Dec. 29, 2022, 136 Stat. 5482, provided that:
+Pub. L. 117–328, div. U, title IV, § 401, Dec. 29, 2022, 136 Stat. 5482, provided that:
 
 > **“(a) Report on Critical Items and Requirements.—** Not later than 90 days after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing each of the following:
 
@@ -2761,7 +2761,7 @@ Pub. L. 117–328, div. U, title IV, § 401, Dec. 29, 2022, 136 Stat. 5482, pr
 
 > **“(3) Updates to report.—** The Secretary shall update the report required under paragraph (1) on an annual basis for each of the two years following the submission of the report under such paragraph and submit such updates to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives.”
 
-### § 8122. Authority to procure and dispose of property and to negotiate for common services
+### § 8122. Authority to procure and dispose of property and to negotiate for common services
 
 **(a)**
 
@@ -2791,9 +2791,9 @@ Pub. L. 117–328, div. U, title IV, § 401, Dec. 29, 2022, 136 Stat. 5482, pr
 
 **(b)** The Secretary may, for the purpose of extending benefits to veterans and dependents, and to the extent the Secretary deems necessary, procure the necessary space for administrative purposes by lease, purchase, or construction of buildings, or by condemnation or declaration of taking, pursuant to law.
 
-**(c)** The Secretary may procure laundry services, and other common services as specifically approved by the Secretary from nonprofit, tax-exempt educational, medical or community institutions, without regard to the requirements of section 302(c) 1
+**(c)** The Secretary may procure laundry services, and other common services as specifically approved by the Secretary from nonprofit, tax-exempt educational, medical or community institutions, without regard to the requirements of section 302(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Property and Administrative Services Act of 1949, as amended, whenever such services are not reasonably available from private commercial sources. Notwithstanding this exclusion, the provisions of sections 3901 and 3905 of title 41 shall apply to procurement authorized by this subsection.
 
@@ -2811,21 +2811,21 @@ of the Federal Property and Administrative Services Act of 1949, as amended, whe
 
 **(D)** after such 30-day period has elapsed, notifies the congressional veterans’ affairs committees of the Secretary’s intention to dispose of the property and waits for 60 days to elapse from the date of that notice.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, § 5012; amended Pub. L. 89–785, title II, § 202(a), (b), Nov. 7, 1966, 80 Stat. 1373; Pub. L. 93–82, title III, § 302(2), Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title II, § 210(e)(7), Oct. 21, 1976, 90 Stat. 2865; renumbered § 5022 and amended Pub. L. 96–22, title III, § 301(b), June 13, 1979, 93 Stat. 61; Pub. L. 96–330, title IV, § 403(a), Aug. 26, 1980, 94 Stat. 1052; Pub. L. 97–295, § 4(91), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title IV, § 401, Nov. 21, 1983, 97 Stat. 1004; Pub. L. 100–322, title IV, § 421(a)(1), May 20, 1988, 102 Stat. 552; Pub. L. 100–687, div. B, title XV, § 1505, Nov. 18, 1988, 102 Stat. 4135; renumbered § 8122 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(f)(5), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§ 4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 107–95, § 10(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, § 3(j)(3), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–422, title IV, § 411(e)(1), (2), Nov. 30, 2004, 118 Stat. 2389, 2390; Pub. L. 111–350, § 5(j)(6), Jan. 4, 2011, 124 Stat. 3850.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1253, § 5012; amended Pub. L. 89–785, title II, § 202(a), (b), Nov. 7, 1966, 80 Stat. 1373; Pub. L. 93–82, title III, § 302(2), Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title II, § 210(e)(7), Oct. 21, 1976, 90 Stat. 2865; renumbered § 5022 and amended Pub. L. 96–22, title III, § 301(b), June 13, 1979, 93 Stat. 61; Pub. L. 96–330, title IV, § 403(a), Aug. 26, 1980, 94 Stat. 1052; Pub. L. 97–295, § 4(91), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title IV, § 401, Nov. 21, 1983, 97 Stat. 1004; Pub. L. 100–322, title IV, § 421(a)(1), May 20, 1988, 102 Stat. 552; Pub. L. 100–687, div. B, title XV, § 1505, Nov. 18, 1988, 102 Stat. 4135; renumbered § 8122 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(f)(5), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§ 4(a)(1), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 107–95, § 10(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, § 3(j)(3), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–422, title IV, § 411(e)(1), (2), Nov. 30, 2004, 118 Stat. 2389, 2390; Pub. L. 111–350, § 5(j)(6), Jan. 4, 2011, 124 Stat. 3850.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 302(c) of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), was section 302(c) of act June 30, 1949, ch. 288, 63 Stat. 393, which was classified to section 252(c) of former Title 41, Public Contracts, and was struck out by Pub. L. 98–369, div. B, title VII, § 2714(a)(1)(B), July 18, 1984, 98 Stat. 1184.
+Section 302(c) of the Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), was section 302(c) of act June 30, 1949, ch. 288, 63 Stat. 393, which was classified to section 252(c) of former Title 41, Public Contracts, and was struck out by Pub. L. 98–369, div. B, title VII, § 2714(a)(1)(B), July 18, 1984, 98 Stat. 1184.
 
 **Amendments**
 
-2011—Subsec. (a)(1). Pub. L. 111–350, § 5(j)(6)(A), substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
+2011—Subsec. (a)(1). Pub. L. 111–350, § 5(j)(6)(A), substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
 
-Subsec. (c). Pub. L. 111–350, § 5(j)(6)(B), struck out “(41 U.S.C. 252(c))” after “1949, as amended” and substituted “sections 3901 and 3905 of title 41” for “section 304 of that Act (41 U.S.C. 254)”.
+Subsec. (c). Pub. L. 111–350, § 5(j)(6)(B), struck out “(41 U.S.C. 252(c))” after “1949, as amended” and substituted “sections 3901 and 3905 of title 41” for “section 304 of that Act (41 U.S.C. 254)”.
 
-2004—Subsec. (a)(2). Pub. L. 108–422, § 411(e)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
+2004—Subsec. (a)(2). Pub. L. 108–422, § 411(e)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
 “(2)(A) Except as provided in paragraph (3) of this subsection, the Secretary may not during any fiscal year transfer to another Federal agency or to a State (or any political subdivision of a State) any interest in real property described in subparagraph (B) of this paragraph unless (i) the transfer (as proposed) was described in the budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, and (ii) the Department receives compensation equal to the fair market value of the property.
 
@@ -2833,33 +2833,33 @@ Subsec. (c). Pub. L. 111–350, § 5(j)(6)(B), struck out “(41 U.S.C. 252(c)
 
 “(C) Amounts realized from the transfer of any interest in real property described in subparagraph (B) of this paragraph shall be deposited in the nursing home revolving fund established under section 8116 of this title.”
 
-Subsec. (d). Pub. L. 108–422, § 411(e)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 108–422, § 411(e)(2), designated existing provisions as par. (1) and added par. (2).
 
 2002—Subsec. (a)(1). Pub. L. 107–217 substituted “section 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)”.
 
 2001—Subsec. (d). Pub. L. 107–95 inserted before period at end “and is not suitable for use for the provision of services to homeless veterans by the Department or by another entity under an enhanced-use lease of such property under section 8162 of this title”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5022 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5022 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1741” for “641” in par. (3)(B)(i).
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1741” for “641” in par. (3)(B)(i).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (2)(A) and (3)(A).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in pars. (2)(A) and (3)(A).
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in pars. (2)(B) and (3)(E).
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in pars. (2)(B) and (3)(E).
 
 Pub. L. 102–54 amended subsec. (a)(3)(A) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “State” for “State home” before “nursing-home” and “this paragraph” for “the paragraph” before “which”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “8116” for “5016” in par. (2)(C).
+Pub. L. 102–40, § 402(d)(1), substituted “8116” for “5016” in par. (2)(C).
 
-Subsecs. (b), (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (b), (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-1988—Subsec. (a)(2). Pub. L. 100–687, § 1505(1), substituted “Except as provided in paragraph (3) of this subsection, the” for “The” at beginning.
+1988—Subsec. (a)(2). Pub. L. 100–687, § 1505(1), substituted “Except as provided in paragraph (3) of this subsection, the” for “The” at beginning.
 
 Pub. L. 100–322 amended par. (2) generally. Prior to amendment, par. (2) read as follows:
 
@@ -2869,25 +2869,25 @@ Pub. L. 100–322 amended par. (2) generally. Prior to amendment, par. (2) read 
 
 “(C) A statement in an instrument of conveyance, including a lease, that the requirements of this paragraph have been met, or that the conveyance is not subject to this paragraph, is conclusive for the purposes of all matters pertaining to the ownership of any right or interest in the property conveyed by such instrument.”
 
-Subsec. (a)(3). Pub. L. 100–687, § 1505(2), added par. (3).
+Subsec. (a)(3). Pub. L. 100–687, § 1505(2), added par. (3).
 
-1983—Subsec. (a)(2)(A). Pub. L. 98–160, § 401(1), substituted “180 days” for “30 days”.
+1983—Subsec. (a)(2)(A). Pub. L. 98–160, § 401(1), substituted “180 days” for “30 days”.
 
-Subsec. (d). Pub. L. 98–160, § 401(2), added subsec. (d).
+Subsec. (d). Pub. L. 98–160, § 401(2), added subsec. (d).
 
-1982—Subsec. (a). Pub. L. 97–295, § 4(91)(A), substituted “of” for “entitled ‘An Act making appropriations for the legislative branch of the Government for the fiscal year ending June 30, 1933, and for other purposes,’ approved” after “section 321 of the Act”.
+1982—Subsec. (a). Pub. L. 97–295, § 4(91)(A), substituted “of” for “entitled ‘An Act making appropriations for the legislative branch of the Government for the fiscal year ending June 30, 1933, and for other purposes,’ approved” after “section 321 of the Act”.
 
-Subsec. (c). Pub. L. 97–295, § 4(91)(B), inserted “(41 U.S.C. 254)” after “section 304 of that Act”.
+Subsec. (c). Pub. L. 97–295, § 4(91)(B), inserted “(41 U.S.C. 254)” after “section 304 of that Act”.
 
 1980—Subsec. (a). Pub. L. 96–330 designated existing provisions as par. (1) and added par. (2).
 
 1979—Subsec. (b). Pub. L. 96–22 substituted “necessary space for administrative purposes by lease” for “necessary space for administrative, clinical, medical, and outpatient treatment purposes by lease”.
 
-1976—Subsec. (a). Pub. L. 94–581, § 210(e)(7)(A), substituted “under the Administrator’s control” for “under his control” and “notice of the Administrator’s intention” for “notice of his intention”.
+1976—Subsec. (a). Pub. L. 94–581, § 210(e)(7)(A), substituted “under the Administrator’s control” for “under his control” and “notice of the Administrator’s intention” for “notice of his intention”.
 
-Subsec. (b). Pub. L. 94–581, § 210(e)(7)(B), substituted “the Administrator” for “he”.
+Subsec. (b). Pub. L. 94–581, § 210(e)(7)(B), substituted “the Administrator” for “he”.
 
-Subsec. (c). Pub. L. 94–581, § 210(e)(7)(C), substituted “the Administrator” for “him”.
+Subsec. (c). Pub. L. 94–581, § 210(e)(7)(C), substituted “the Administrator” for “him”.
 
 1973—Subsec. (a). Pub. L. 93–82 inserted provisions that leases under this subsection may be made without regard to section 5 of title 41, that notwithstanding section 303b of title 40 or any other provision of law, such leases may provide for the maintenance, protection, or restoration, by the lessee, of the property leased, as a part or all of the consideration for the lease and that prior to the execution of the leases, the Administrator shall give notice of his intention in the local newspaper.
 
@@ -3481,13 +3481,13 @@ Pub. L. 115–182, title II, subtitle A, June 6, 2018, 132 Stat. 1443, provided 
 
 **Transfer of Real Property Deemed Described in Budget for Fiscal Year 1989**
 
-Pub. L. 100–322, title IV, § 421(a)(2), May 20, 1988, 102 Stat. 553, provided that any proposed transfer of real property described in subsec. (a)(2)(B) of this section that was described in a report submitted to Committees on Veterans’ Affairs of Senate and House of Representatives by Administrator not later than 30 days after May 20, 1988, was to be deemed for purposes of subsec. (a)(2)(A) of this section to have been described in the President’s budget for fiscal year 1989.
+Pub. L. 100–322, title IV, § 421(a)(2), May 20, 1988, 102 Stat. 553, provided that any proposed transfer of real property described in subsec. (a)(2)(B) of this section that was described in a report submitted to Committees on Veterans’ Affairs of Senate and House of Representatives by Administrator not later than 30 days after May 20, 1988, was to be deemed for purposes of subsec. (a)(2)(A) of this section to have been described in the President’s budget for fiscal year 1989.
 
-### § 8123. Procurement of prosthetic appliances
+### § 8123. Procurement of prosthetic appliances
 
 The Secretary may procure prosthetic appliances and necessary services required in the fitting, supplying, and training and use of prosthetic appliances by purchase, manufacture, contract, or in such other manner as the Secretary may determine to be proper, without regard to any other provision of law.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1254, § 5013; amended Pub. L. 94–581, title II, § 210(e)(8), Oct. 21, 1976, 90 Stat. 2865; renumbered § 5023, Pub. L. 96–22, title III, § 301(b)(1), June 13, 1979, 93 Stat. 61; renumbered § 8123, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1254, § 5013; amended Pub. L. 94–581, title II, § 210(e)(8), Oct. 21, 1976, 90 Stat. 2865; renumbered § 5023, Pub. L. 96–22, title III, § 301(b)(1), June 13, 1979, 93 Stat. 61; renumbered § 8123, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -3505,11 +3505,11 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” in two plac
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 8124. Grant of easements in Government-owned lands
+### § 8124. Grant of easements in Government-owned lands
 
 The Secretary, whenever the Secretary deems it advantageous to the Government and upon such terms and conditions as the Secretary deems advisable, may grant on behalf of the United States to any State, or any agency or political subdivision thereof, or to any public-service company, easements in and rights-of-way over lands belonging to the United States which are under the Secretary’s supervision and control. Such grant may include the use of such easements or rights-of-way by public utilities to the extent authorized and under the conditions imposed by the laws of such State relating to use of public highways. Such partial, concurrent, or exclusive jurisdiction over the areas covered by such easements or rights-of-way, as the Secretary deems necessary or desirable, is hereby ceded to the State in which the land is located. The Secretary may accept or secure on behalf of the United States from the State in which is situated any land conveyed in exchange for any such easement or right-of-way, such jurisdiction as the Secretary may deem necessary or desirable over the land so acquired. Any such easement or right-of-way shall be terminated upon abandonment or nonuse of the same and all right, title, and interest in the land covered thereby shall thereupon revert to the United States or its assignee.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1254, § 5014; amended Pub. L. 94–581, title II, § 210(e)(9), Oct. 21, 1976, 90 Stat. 2865; renumbered § 5024, Pub. L. 96–22, title III, § 301(b)(1), June 13, 1979, 93 Stat. 61; renumbered § 8124, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1254, § 5014; amended Pub. L. 94–581, title II, § 210(e)(9), Oct. 21, 1976, 90 Stat. 2865; renumbered § 5024, Pub. L. 96–22, title III, § 301(b)(1), June 13, 1979, 93 Stat. 61; renumbered § 8124, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -3527,7 +3527,7 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever ap
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 8125. Procurement of health-care items
+### § 8125. Procurement of health-care items
 
 **(a)** Except as provided in subsections (b) and (c) of this section, the Secretary may not procure health-care items under local contracts.
 
@@ -3567,7 +3567,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **(3)** The term “emergency procurement” means a procurement necessary to meet an emergency need, affecting the health or safety of a person being furnished health-care services by the Department, for an item.
 
-(Added Pub. L. 100–322, title IV, § 403(a)(1), May 20, 1988, 102 Stat. 543, § 5025; amended Pub. L. 100–687, div. B, title XV, § 1507(b), (c), Nov. 18, 1988, 102 Stat. 4136, 4137; renumbered § 8125, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 107–14, § 8(a)(15), June 5, 2001, 115 Stat. 35; Pub. L. 113–188, title XVII, § 1701, Nov. 26, 2014, 128 Stat. 2026.)
+(Added Pub. L. 100–322, title IV, § 403(a)(1), May 20, 1988, 102 Stat. 543, § 5025; amended Pub. L. 100–687, div. B, title XV, § 1507(b), (c), Nov. 18, 1988, 102 Stat. 4136, 4137; renumbered § 8125, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 107–14, § 8(a)(15), June 5, 2001, 115 Stat. 35; Pub. L. 113–188, title XVII, § 1701, Nov. 26, 2014, 128 Stat. 2026.)
 
 **Editorial Notes**
 
@@ -3575,41 +3575,41 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 2014—Subsecs. (d), (e). Pub. L. 113–188 redesignated subsec. (e) as (d) and struck out former subsec. (d) which required annual reports from the directors of Department medical centers and from the Secretary.
 
-2001—Subsec. (d)(1). Pub. L. 107–14, § 8(a)(15)(A), struck out “(beginning in 1992)” after “each year”.
+2001—Subsec. (d)(1). Pub. L. 107–14, § 8(a)(15)(A), struck out “(beginning in 1992)” after “each year”.
 
-Subsec. (d)(2). Pub. L. 107–14, § 8(a)(15)(B), struck out “(beginning in 1993)” after “each year”.
+Subsec. (d)(2). Pub. L. 107–14, § 8(a)(15)(B), struck out “(beginning in 1993)” after “each year”.
 
-Subsec. (d)(3). Pub. L. 107–14, § 8(a)(15)(C), struck out par. (3) which read as follows: “Not later than February 1 of each year from 1989 through 1992, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the experience in carrying out this section during the preceding fiscal year. The first such report shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department during fiscal year 1988 that were procured through local contracts. The other reports under this paragraph shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department, and by each Department medical center, during the fiscal year covered by the report that were purchased through local contracts and, in the case of each medical center at which the percentage was greater than 20 percent, an explanation of the reasons why that occurred.”
+Subsec. (d)(3). Pub. L. 107–14, § 8(a)(15)(C), struck out par. (3) which read as follows: “Not later than February 1 of each year from 1989 through 1992, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the experience in carrying out this section during the preceding fiscal year. The first such report shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department during fiscal year 1988 that were procured through local contracts. The other reports under this paragraph shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department, and by each Department medical center, during the fiscal year covered by the report that were purchased through local contracts and, in the case of each medical center at which the percentage was greater than 20 percent, an explanation of the reasons why that occurred.”
 
 1992—Subsec. (b)(1)(B)(ii). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
 1991—Pub. L. 102–40 renumbered section 5025 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in par. (3)(C).
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in par. (3)(C).
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsec. (c). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (c). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsecs. (d), (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (d), (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-1988—Subsec. (d)(1). Pub. L. 100–687, § 1507(b)(1), inserted “(beginning in 1992)” after “of each year”.
+1988—Subsec. (d)(1). Pub. L. 100–687, § 1507(b)(1), inserted “(beginning in 1992)” after “of each year”.
 
-Subsec. (d)(2). Pub. L. 100–687, § 1507(b)(2), inserted “(beginning in 1993)” after “of each year”.
+Subsec. (d)(2). Pub. L. 100–687, § 1507(b)(2), inserted “(beginning in 1993)” after “of each year”.
 
-Subsec. (d)(3). Pub. L. 100–687, § 1507(b)(3), added par. (3).
+Subsec. (d)(3). Pub. L. 100–687, § 1507(b)(3), added par. (3).
 
-Subsec. (e)(1). Pub. L. 100–687, § 1507(c), substituted “65 or 66” for “65, 66, or 73” and inserted after first sentence “Effective December 1, 1992, such term also includes any item listed in, or (as determined by the Administrator) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 73.”
+Subsec. (e)(1). Pub. L. 100–687, § 1507(c), substituted “65 or 66” for “65, 66, or 73” and inserted after first sentence “Effective December 1, 1992, such term also includes any item listed in, or (as determined by the Administrator) of the same nature as an item listed in, Federal Supply Classification (FSC) Group 73.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–322, title IV, § 403(b), May 20, 1988, 102 Stat. 545, as amended by Pub. L. 100–687, div. B, title XV, § 1507(a), Nov. 18, 1988, 102 Stat. 4136, provided that:
+Pub. L. 100–322, title IV, § 403(b), May 20, 1988, 102 Stat. 545, as amended by Pub. L. 100–687, div. B, title XV, § 1507(a), Nov. 18, 1988, 102 Stat. 4136, provided that:
 
 > **“(1)** Subsections (a), (b)(1), and (b)(2) of section 5025 [now 8125] of title 38, United States Code (as added by subsection (a)), shall take effect one year after the date of the enactment of this Act [May 20, 1988].
 
@@ -3617,7 +3617,7 @@ Pub. L. 100–322, title IV, § 403(b), May 20, 1988, 102 Stat. 545, as amende
 
 **Medical Surgical Prime Vendor Program**
 
-Pub. L. 115–407, title VII, § 703, Dec. 31, 2018, 132 Stat. 5381, provided that:
+Pub. L. 115–407, title VII, § 703, Dec. 31, 2018, 132 Stat. 5381, provided that:
 
 > **“(a) Vendors.—** In procuring certain medical, surgical, and dental supplies or laboratory supplies for medical centers of the Department of Veterans Affairs, the Secretary of Veterans Affairs shall carry out the Medical Surgical Prime Vendor program, or successor program, in a manner that—
 
@@ -3633,9 +3633,9 @@ Pub. L. 115–407, title VII, § 703, Dec. 31, 2018, 132 Stat. 5381, provided 
 
 **Standardization of Medical and Pharmaceutical Items**
 
-Pub. L. 100–322, title IV, § 402, May 20, 1988, 102 Stat. 543, as amended by Pub. L. 100–687, div. B, title XV, § 1508, Nov. 18, 1988, 102 Stat. 4137, directed Administrator, not later than Oct. 1, 1989, to develop and fully implement an agency-wide plan for cost-effective standardization of health-care items procured by Veterans’ Administration.
+Pub. L. 100–322, title IV, § 402, May 20, 1988, 102 Stat. 543, as amended by Pub. L. 100–687, div. B, title XV, § 1508, Nov. 18, 1988, 102 Stat. 4137, directed Administrator, not later than Oct. 1, 1989, to develop and fully implement an agency-wide plan for cost-effective standardization of health-care items procured by Veterans’ Administration.
 
-### § 8126. Limitation on prices of drugs procured by Department and certain other Federal agencies
+### § 8126. Limitation on prices of drugs procured by Department and certain other Federal agencies
 
 **(a)** Each manufacturer of covered drugs shall enter into a master agreement with the Secretary under which—
 
@@ -3757,53 +3757,53 @@ Such term does not include a wholesale distributor of drugs or a retail pharmacy
 
 **(2)** In this subsection, the term “contract year” means any one-year period for which a multi-year contract described in subsection (d) is in effect.
 
-(Added Pub. L. 102–585, title VI, § 603(a)(1), Nov. 4, 1992, 106 Stat. 4971; amended Pub. L. 103–18, § 1(a), Apr. 12, 1993, 107 Stat. 53; Pub. L. 103–446, title XII, § 1201(e)(27), (f)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 104–106, div. A, title VII, § 737(a), Feb. 10, 1996, 110 Stat. 383; Pub. L. 105–115, title I, § 125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.)
+(Added Pub. L. 102–585, title VI, § 603(a)(1), Nov. 4, 1992, 106 Stat. 4971; amended Pub. L. 103–18, § 1(a), Apr. 12, 1993, 107 Stat. 53; Pub. L. 103–446, title XII, § 1201(e)(27), (f)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 104–106, div. A, title VII, § 737(a), Feb. 10, 1996, 110 Stat. 383; Pub. L. 105–115, title I, § 125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a)(4)(A), (e)(2), (g)(1), and (h)(2)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. Section 1927 of the Act is classified to section 1396r–8 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(4)(A), (e)(2), (g)(1), and (h)(2)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. Section 1927 of the Act is classified to section 1396r–8 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(4)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(4)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Enactment of this section, referred to in subsec. (g)(2), means enactment of Pub. L. 102–585, which enacted this section and was approved Nov. 4, 1992.
 
 **Amendments**
 
-1997—Subsec. (h)(2). Pub. L. 105–115 inserted “or” at end of subpar. (B), substituted a period for “; or” at end of subpar. (C), and struck out subpar. (D), which read as follows: “insulin certified under section 506 of the Federal Food, Drug, and Cosmetic Act.”
+1997—Subsec. (h)(2). Pub. L. 105–115 inserted “or” at end of subpar. (B), substituted a period for “; or” at end of subpar. (C), and struck out subpar. (D), which read as follows: “insulin certified under section 506 of the Federal Food, Drug, and Cosmetic Act.”
 
 1996—Subsec. (b)(4). Pub. L. 104–106 added par. (4).
 
-1994—Subsec. (e)(1)(A). Pub. L. 103–446, § 1201(e)(27)(A), (f)(6)(A), substituted “December 4, 1992” for “30 days after the date of the enactment of this section” and “one-year period” for “1-year period”.
+1994—Subsec. (e)(1)(A). Pub. L. 103–446, § 1201(e)(27)(A), (f)(6)(A), substituted “December 4, 1992” for “30 days after the date of the enactment of this section” and “one-year period” for “1-year period”.
 
-Subsec. (f)(2). Pub. L. 103–446, § 1201(e)(27)(B), substituted a period for “, and” at end.
+Subsec. (f)(2). Pub. L. 103–446, § 1201(e)(27)(B), substituted a period for “, and” at end.
 
-Subsec. (g)(1), (2). Pub. L. 103–446, § 1201(f)(6)(B), substituted “November 4, 1992” for “the date of the enactment of this section”.
+Subsec. (g)(1), (2). Pub. L. 103–446, § 1201(f)(6)(B), substituted “November 4, 1992” for “the date of the enactment of this section”.
 
-1993—Subsec. (a)(2). Pub. L. 103–18, § 1(a)(1), struck out “preceding such date” before “as the Secretary considers appropriate”.
+1993—Subsec. (a)(2). Pub. L. 103–18, § 1(a)(1), struck out “preceding such date” before “as the Secretary considers appropriate”.
 
-Subsec. (c). Pub. L. 103–18, § 1(a)(2), in introductory provisions, struck out “for calendar quarters” after “subsection (a)(2),”, and in par. (1), struck out “preceding the month during which the contract goes into effect” after “during such period” and substituted “multiplied by” for “increased by”.
+Subsec. (c). Pub. L. 103–18, § 1(a)(2), in introductory provisions, struck out “for calendar quarters” after “subsection (a)(2),”, and in par. (1), struck out “preceding the month during which the contract goes into effect” after “during such period” and substituted “multiplied by” for “increased by”.
 
-Subsec. (d)(1). Pub. L. 103–18, § 1(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “during any one-year period that follows the first year for which the contract is in effect, the price charged may not exceed the price charged during the preceding one-year period, increased by the percentage increase in the Consumer Price Index for all urban consumers (U.S. city average) between the last months of such one-year periods for which Consumer Price Index data is available; and”.
+Subsec. (d)(1). Pub. L. 103–18, § 1(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “during any one-year period that follows the first year for which the contract is in effect, the price charged may not exceed the price charged during the preceding one-year period, increased by the percentage increase in the Consumer Price Index for all urban consumers (U.S. city average) between the last months of such one-year periods for which Consumer Price Index data is available; and”.
 
-Subsec. (i). Pub. L. 103–18, § 1(a)(4), added subsec. (i).
+Subsec. (i). Pub. L. 103–18, § 1(a)(4), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title VII, § 737(b), Feb. 10, 1996, 110 Stat. 383, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 (Public Law 102–585; 106 Stat. 4971).”
+Pub. L. 104–106, div. A, title VII, § 737(b), Feb. 10, 1996, 110 Stat. 383, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 (Public Law 102–585; 106 Stat. 4971).”
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–18, § 1(b), Apr. 12, 1993, 107 Stat. 54, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 [Pub. L. 102–585].”
+Pub. L. 103–18, § 1(b), Apr. 12, 1993, 107 Stat. 54, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 [Pub. L. 102–585].”
 
 **Transfer of Functions**
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 8127. Small business concerns owned and controlled by veterans: contracting goals and preferences
+### § 8127. Small business concerns owned and controlled by veterans: contracting goals and preferences
 
 **(a) Contracting Goals.—**
 
@@ -3869,7 +3869,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(e) Eligibility of Small Business Concerns.—** A small business concern may be awarded a contract under this section only if the small business concern and the veteran owner of the small business concern are listed in the database of veteran-owned businesses maintained by the Administrator under section 36 of the Small Business Act.
 
-**[(f)** Transferred. Pub. L. 116–283, div. A, title VIII, § 862(b)(2), Jan. 1, 2021, 134 Stat. 3778.]
+**[(f)** Transferred. Pub. L. 116–283, div. A, title VIII, § 862(b)(2), Jan. 1, 2021, 134 Stat. 3778.]
 
 **(g) Enforcement Penalties for Misrepresentation.—**
 
@@ -3955,7 +3955,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(4)** The term “small business concern owned and controlled by veterans with service-connected disabilities” has the meaning given the term “small business concern owned and controlled by service-disabled veterans” under section 3(q)(2) of the Small Business Act (15 U.S.C. 632(q)(2)).
 
-(Added Pub. L. 109–461, title V, § 502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, § 806, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title I, § 104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, § 5(j)(7), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112—154, title VII, § 706, Aug. 6, 2012, 126 Stat. 1206; Pub. L. 114–315, title V, § 501(a), Dec. 16, 2016, 130 Stat. 1566; Pub. L. 114–328, div. A, title XVIII, § 1832(b), (d), (f)(1), Dec. 23, 2016, 130 Stat. 2659, 2660; Pub. L. 116–155, § 2(a), (b), Aug. 8, 2020, 134 Stat. 698, 699; Pub. L. 116–183, § 2(a), Oct. 30, 2020, 134 Stat. 895; Pub. L. 116–283, div. A, title VIII, § 862(b)(1), (2), Jan. 1, 2021, 134 Stat. 3776, 3778; Pub. L. 116–315, title VII, § 7009, Jan. 5, 2021, 134 Stat. 5061.)
+(Added Pub. L. 109–461, title V, § 502(a)(1), Dec. 22, 2006, 120 Stat. 3431; amended Pub. L. 110–389, title VIII, § 806, Oct. 10, 2008, 122 Stat. 4189; Pub. L. 111–275, title I, § 104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 111–350, § 5(j)(7), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 112—154, title VII, § 706, Aug. 6, 2012, 126 Stat. 1206; Pub. L. 114–315, title V, § 501(a), Dec. 16, 2016, 130 Stat. 1566; Pub. L. 114–328, div. A, title XVIII, § 1832(b), (d), (f)(1), Dec. 23, 2016, 130 Stat. 2659, 2660; Pub. L. 116–155, § 2(a), (b), Aug. 8, 2020, 134 Stat. 698, 699; Pub. L. 116–183, § 2(a), Oct. 30, 2020, 134 Stat. 895; Pub. L. 116–283, div. A, title VIII, § 862(b)(1), (2), Jan. 1, 2021, 134 Stat. 3776, 3778; Pub. L. 116–315, title VII, § 7009, Jan. 5, 2021, 134 Stat. 5061.)
 
 **Editorial Notes**
 
@@ -3963,87 +3963,87 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 The date of the enactment of the Department of Veterans Affairs Contracting Preference Consistency Act of 2020, referred to in subsec. (d)(2)(B)(i)(II), is the date of enactment of Pub. L. 116–155, which was approved Aug. 8, 2020.
 
-The Small Business Act, referred to in subsecs. (e) and (i)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. Section 36 of the Act is classified to section 657f of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsecs. (e) and (i)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. Section 36 of the Act is classified to section 657f of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 **Amendments**
 
-2021—Subsec. (e). Pub. L. 116–283, § 862(b)(1)(A), substituted “the Administrator under section 36 of the Small Business Act” for “the Secretary under subsection (f)”.
+2021—Subsec. (e). Pub. L. 116–283, § 862(b)(1)(A), substituted “the Administrator under section 36 of the Small Business Act” for “the Secretary under subsection (f)”.
 
-Subsec. (f). Pub. L. 116–283, § 862(b)(2), transferred subsec. (f) of this section to section 36(f) of the Small Business Act, which is classified to section 657f of Title 15, Commerce and Trade.
+Subsec. (f). Pub. L. 116–283, § 862(b)(2), transferred subsec. (f) of this section to section 36(f) of the Small Business Act, which is classified to section 657f of Title 15, Commerce and Trade.
 
-Pub. L. 116–283, § 862(b)(1)(B)(i), substituted “the Administrator” for “the Secretary” wherever appearing except in the last place it appears in par. (2)(A).
+Pub. L. 116–283, § 862(b)(1)(B)(i), substituted “the Administrator” for “the Secretary” wherever appearing except in the last place it appears in par. (2)(A).
 
-Subsec. (f)(1). Pub. L. 116–283, § 862(b)(1)(B)(ii), substituted “small business concerns owned and controlled by service-disabled veterans” for “small business concerns owned and controlled by veterans with service-connected disabilities”.
+Subsec. (f)(1). Pub. L. 116–283, § 862(b)(1)(B)(ii), substituted “small business concerns owned and controlled by service-disabled veterans” for “small business concerns owned and controlled by veterans with service-connected disabilities”.
 
-Subsec. (f)(2)(A). Pub. L. 116–283, § 862(b)(1)(B)(iii)(I), inserted “, United States Code,” after “title 5” and substituted “to obtain from the Secretary of Veterans Affairs” for “to access”.
+Subsec. (f)(2)(A). Pub. L. 116–283, § 862(b)(1)(B)(iii)(I), inserted “, United States Code,” after “title 5” and substituted “to obtain from the Secretary of Veterans Affairs” for “to access”.
 
-Subsec. (f)(2)(B), (C). Pub. L. 116–283, § 862(b)(1)(B)(iii)(II), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “If the Secretary receives an application for inclusion in the database from an individual whose status as a veteran cannot be verified because the Secretary does not maintain information with respect to the veteran status of the individual, the Secretary may not include the small business concern owned and controlled by the individual in the database maintained by the Secretary until the Secretary receives such information as may be necessary to verify that the individual is a veteran.”
+Subsec. (f)(2)(B), (C). Pub. L. 116–283, § 862(b)(1)(B)(iii)(II), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “If the Secretary receives an application for inclusion in the database from an individual whose status as a veteran cannot be verified because the Secretary does not maintain information with respect to the veteran status of the individual, the Secretary may not include the small business concern owned and controlled by the individual in the database maintained by the Secretary until the Secretary receives such information as may be necessary to verify that the individual is a veteran.”
 
-Subsec. (f)(3). Pub. L. 116–283, § 862(b)(1)(B)(iv), substituted “a veteran described in paragraph (1)” for “such veterans”.
+Subsec. (f)(3). Pub. L. 116–283, § 862(b)(1)(B)(iv), substituted “a veteran described in paragraph (1)” for “such veterans”.
 
-Subsec. (f)(4). Pub. L. 116–283, § 862(b)(1)(B)(vii), substituted “The Administrator” for “The Secretary”.
+Subsec. (f)(4). Pub. L. 116–283, § 862(b)(1)(B)(vii), substituted “The Administrator” for “The Secretary”.
 
-Pub. L. 116–283, § 862(b)(1)(B)(v), (vi), redesignated par. (5) as (4) and struck out former par. (4), which required verification of veteran ownership or control.
+Pub. L. 116–283, § 862(b)(1)(B)(v), (vi), redesignated par. (5) as (4) and struck out former par. (4), which required verification of veteran ownership or control.
 
-Subsec. (f)(5). Pub. L. 116–283, § 862(b)(1)(B)(vi), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+Subsec. (f)(5). Pub. L. 116–283, § 862(b)(1)(B)(vi), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-Subsec. (f)(6). Pub. L. 116–283, § 862(b)(1)(B)(vi), redesignated par. (8) as (6). Former par. (6) redesignated (5).
+Subsec. (f)(6). Pub. L. 116–283, § 862(b)(1)(B)(vi), redesignated par. (8) as (6). Former par. (6) redesignated (5).
 
-Subsec. (f)(6)(A). Pub. L. 116–283, § 862(b)(1)(B)(viii)(I), substituted “certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section)” for “verify the status of the concern as a small business concern or the ownership or control of the concern”, “certification” for “verification”, and “the Administration (as established under section 5(i))” for “the Small Business Administration (as established under section 5(i) of the Small Business Act)”.
+Subsec. (f)(6)(A). Pub. L. 116–283, § 862(b)(1)(B)(viii)(I), substituted “certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section)” for “verify the status of the concern as a small business concern or the ownership or control of the concern”, “certification” for “verification”, and “the Administration (as established under section 5(i))” for “the Small Business Administration (as established under section 5(i) of the Small Business Act)”.
 
-Subsec. (f)(6)(B)(i). Pub. L. 116–283, § 862(b)(1)(B)(viii)(II)(aa), substituted “small business concern owned and controlled by service-disabled veterans” for “small business concern owned and controlled by veterans with service-connected disabilities” and struck out “of the Small Business Administration” after “Hearings and Appeals”.
+Subsec. (f)(6)(B)(i). Pub. L. 116–283, § 862(b)(1)(B)(viii)(II)(aa), substituted “small business concern owned and controlled by service-disabled veterans” for “small business concern owned and controlled by veterans with service-connected disabilities” and struck out “of the Small Business Administration” after “Hearings and Appeals”.
 
-Subsec. (f)(6)(B)(ii)(I). Pub. L. 116–283, § 862(b)(1)(B)(viii)(II)(bb)(AA), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the Secretary; or”.
+Subsec. (f)(6)(B)(ii)(I). Pub. L. 116–283, § 862(b)(1)(B)(viii)(II)(bb)(AA), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the Secretary; or”.
 
-Subsec. (f)(6)(B)(ii)(II). Pub. L. 116–283, § 862(b)(1)(B)(viii)(II)(bb)(BB), substituted “the applicable contracting officer” for “the contracting officer of the Department”.
+Subsec. (f)(6)(B)(ii)(II). Pub. L. 116–283, § 862(b)(1)(B)(viii)(II)(bb)(BB), substituted “the applicable contracting officer” for “the contracting officer of the Department”.
 
-Subsec. (f)(6)(C). Pub. L. 116–283, § 862(b)(1)(B)(viii)(III), struck out subpar. (C) which read as follows: “For each fiscal year, the Secretary shall reimburse the Administrator of the Small Business Administration in an amount necessary to cover any cost incurred by the Office of Hearings and Appeals of the Small Business Administration for actions taken by the Office under this paragraph. The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget.”
+Subsec. (f)(6)(C). Pub. L. 116–283, § 862(b)(1)(B)(viii)(III), struck out subpar. (C) which read as follows: “For each fiscal year, the Secretary shall reimburse the Administrator of the Small Business Administration in an amount necessary to cover any cost incurred by the Office of Hearings and Appeals of the Small Business Administration for actions taken by the Office under this paragraph. The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget.”
 
-Subsec. (f)(7). Pub. L. 116–283, § 862(b)(1)(B)(v), struck out par. (7) which read as follows: “The Secretary may not issue regulations related to the status of a concern as a small business concern and the ownership and control of such small business concern.”
+Subsec. (f)(7). Pub. L. 116–283, § 862(b)(1)(B)(v), struck out par. (7) which read as follows: “The Secretary may not issue regulations related to the status of a concern as a small business concern and the ownership and control of such small business concern.”
 
-Subsec. (f)(8). Pub. L. 116–283, § 862(b)(1)(B)(vi), redesignated par. (8) as (6).
+Subsec. (f)(8). Pub. L. 116–283, § 862(b)(1)(B)(vi), redesignated par. (8) as (6).
 
-Subsec. (k). Pub. L. 116–283, § 862(b)(1)(D), added subsec. (k). Former subsec. (k) redesignated (*l*).
+Subsec. (k). Pub. L. 116–283, § 862(b)(1)(D), added subsec. (k). Former subsec. (k) redesignated (*l*).
 
 Subsec. (k)(3)(A). Pub. L. 116–315 substituted “or any other” for “and any other”.
 
-Subsec. (*l*). Pub. L. 116–283, § 862(b)(1)(C), redesignated subsec. (k) as (*l*). Former subsec. (*l*) redesignated (m).
+Subsec. (*l*). Pub. L. 116–283, § 862(b)(1)(C), redesignated subsec. (k) as (*l*). Former subsec. (*l*) redesignated (m).
 
-Subsec. (m). Pub. L. 116–283, § 862(b)(1)(E), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
+Subsec. (m). Pub. L. 116–283, § 862(b)(1)(E), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
-Pub. L. 116–283, § 862(b)(1)(C), redesignated subsec. (*l*) as (m).
+Pub. L. 116–283, § 862(b)(1)(C), redesignated subsec. (*l*) as (m).
 
-2020—Subsecs. (b), (c). Pub. L. 116–155, § 2(b), substituted “Except as provided in subsection (d)(2), for purposes” for “For purposes”.
+2020—Subsecs. (b), (c). Pub. L. 116–155, § 2(b), substituted “Except as provided in subsection (d)(2), for purposes” for “For purposes”.
 
-Subsec. (d). Pub. L. 116–155, § 2(a), designated existing provisions as par. (1), inserted “in paragraph (2) and” before “in subsections (b) and (c)”, and added par. (2).
+Subsec. (d). Pub. L. 116–155, § 2(a), designated existing provisions as par. (1), inserted “in paragraph (2) and” before “in subsections (b) and (c)”, and added par. (2).
 
 Subsecs. (k), (*l*). Pub. L. 116–183 added subsec. (k) and redesignated former subsec. (k) as (*l*).
 
-2016—Subsec. (b). Pub. L. 114–328, § 1832(b)(2)(A), inserted “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans”.
+2016—Subsec. (b). Pub. L. 114–328, § 1832(b)(2)(A), inserted “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans”.
 
-Subsec. (c). Pub. L. 114–328, § 1832(b)(2)(B), inserted “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans” in introductory provisions.
+Subsec. (c). Pub. L. 114–328, § 1832(b)(2)(B), inserted “or a small business concern owned and controlled by veterans with service-connected disabilities” after “a small business concern owned and controlled by veterans” in introductory provisions.
 
-Subsec. (d). Pub. L. 114–328, § 1832(b)(2)(C), inserted “or small business concerns owned and controlled by veterans with service-connected disabilities” after “small business concerns owned and controlled by veterans” in two places.
+Subsec. (d). Pub. L. 114–328, § 1832(b)(2)(C), inserted “or small business concerns owned and controlled by veterans with service-connected disabilities” after “small business concerns owned and controlled by veterans” in two places.
 
-Subsec. (f)(1). Pub. L. 114–328, § 1832(b)(2)(D), inserted “, small business concerns owned and controlled by veterans with service-connected disabilities,” after “small business concerns owned and controlled by veterans”.
+Subsec. (f)(1). Pub. L. 114–328, § 1832(b)(2)(D), inserted “, small business concerns owned and controlled by veterans with service-connected disabilities,” after “small business concerns owned and controlled by veterans”.
 
-Subsec. (f)(4). Pub. L. 114–328, § 1832(d)(1), substituted “verified, using regulations issued by the Administrator of the Small Business Administration with respect to the status of the concern as a small business concern and the ownership and control of such concern,” for “verified” in introductory provisions.
+Subsec. (f)(4). Pub. L. 114–328, § 1832(d)(1), substituted “verified, using regulations issued by the Administrator of the Small Business Administration with respect to the status of the concern as a small business concern and the ownership and control of such concern,” for “verified” in introductory provisions.
 
-Subsec. (f)(7). Pub. L. 114–328, § 1832(d)(2), added par. (7).
+Subsec. (f)(7). Pub. L. 114–328, § 1832(d)(2), added par. (7).
 
-Subsec. (f)(8). Pub. L. 114–328, § 1832(f)(1), added par. (8).
+Subsec. (f)(8). Pub. L. 114–328, § 1832(f)(1), added par. (8).
 
-Subsec. (h). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to treatment of businesses after death of veteran-owner.
+Subsec. (h). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsec. (i) as (h) and struck out former subsec. (h) which related to treatment of businesses after death of veteran-owner.
 
-Subsec. (h)(2)(C). Pub. L. 114–315, § 501(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The date that is ten years after the date of the veteran’s death.”
+Subsec. (h)(2)(C). Pub. L. 114–315, § 501(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “The date that is ten years after the date of the veteran’s death.”
 
-Subsec. (h)(3). Pub. L. 114–315, § 501(a)(1), substituted period at end for “rated as 100 percent disabling or who dies as a result of a service-connected disability.”
+Subsec. (h)(3). Pub. L. 114–315, § 501(a)(1), substituted period at end for “rated as 100 percent disabling or who dies as a result of a service-connected disability.”
 
-Subsecs. (i), (j). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsecs. (j) and (k) as (i) and (j), respectively. Former subsec. (i) redesignated (h).
+Subsecs. (i), (j). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsecs. (j) and (k) as (i) and (j), respectively. Former subsec. (i) redesignated (h).
 
-Subsec. (k). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
+Subsec. (k). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsec. (*l*) as (k). Former subsec. (k) redesignated (j).
 
-Subsec. (k)(2). Pub. L. 114–328, § 1832(b)(1)(B)(i), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘small business concern owned and controlled by veterans’ means a small business concern—
+Subsec. (k)(2). Pub. L. 114–328, § 1832(b)(1)(B)(i), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘small business concern owned and controlled by veterans’ means a small business concern—
 
 “(A)(i) not less than 51 percent of which is owned by one or more veterans or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
 
@@ -4051,17 +4051,17 @@ Subsec. (k)(2). Pub. L. 114–328, § 1832(b)(1)(B)(i), amended par. (2) gener
 
 “(B) not less than 51 percent of which is owned by one or more veterans with service-connected disabilities that are permanent and total who are unable to manage the daily business operations of such concern or, in the case of a publicly owned business, not less than 51 percent of the stock of which is owned by one or more such veterans.”
 
-Subsec. (k)(3). Pub. L. 114–328, § 1832(b)(1)(B)(ii), added par. (3).
+Subsec. (k)(3). Pub. L. 114–328, § 1832(b)(1)(B)(ii), added par. (3).
 
-Subsec. (*l*). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsec. (*l*) as (k).
+Subsec. (*l*). Pub. L. 114–328, § 1832(b)(1)(A), redesignated subsec. (*l*) as (k).
 
 2012—Subsec. (g). Pub. L. 112–154 designated existing provisions as par. (1), inserted “willfully and intentionally” before “misrepresented”, substituted “a period of not less than five years” for “a reasonable period of time, as determined by the Secretary”, and added pars. (2) and (3).
 
 2011—Subsecs. (b), (c)(2). Pub. L. 111–350 substituted “section 134 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)”.
 
-2010—Subsec. (f)(2). Pub. L. 111–275, § 104(b)(1)(A), designated existing provisions as subpar. (A), inserted at end of subpar. (A) “Application for inclusion in the database shall constitute permission under section 552a of title 5 (commonly referred to as the Privacy Act) for the Secretary to access such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.”, and added subpar. (B).
+2010—Subsec. (f)(2). Pub. L. 111–275, § 104(b)(1)(A), designated existing provisions as subpar. (A), inserted at end of subpar. (A) “Application for inclusion in the database shall constitute permission under section 552a of title 5 (commonly referred to as the Privacy Act) for the Secretary to access such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.”, and added subpar. (B).
 
-Subsec. (f)(4). Pub. L. 111–275, § 104(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “In maintaining the database, the Secretary shall carry out at least the following two verification functions:
+Subsec. (f)(4). Pub. L. 111–275, § 104(b)(1)(B), added par. (4) and struck out former par. (4) which read as follows: “In maintaining the database, the Secretary shall carry out at least the following two verification functions:
 
 “(A) Verification that each small business concern listed in the database is owned and controlled by veterans.
 
@@ -4073,29 +4073,29 @@ Subsec. (f)(4). Pub. L. 111–275, § 104(b)(1)(B), added par. (4) and struck 
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title VIII, § 862(b)(1), Jan. 1, 2021, 134 Stat. 3776, provided that the amendment made by section 862(b) of Pub. L. 116–283 shall take effect on the transfer date, which is 2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out as a note under section 657f of Title 15, Commerce and Trade.
+Pub. L. 116–283, div. A, title VIII, § 862(b)(1), Jan. 1, 2021, 134 Stat. 3776, provided that the amendment made by section 862(b) of Pub. L. 116–283 shall take effect on the transfer date, which is 2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out as a note under section 657f of Title 15, Commerce and Trade.
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–183, § 2(b), Oct. 30, 2020, 134 Stat. 896, provided that: “Subsection (k) of section 8127 of title 38, United States Code, as added by subsection (a), shall apply with respect to a contract entered into after the date of the enactment of this Act [Oct. 30, 2020].”
+Pub. L. 116–183, § 2(b), Oct. 30, 2020, 134 Stat. 896, provided that: “Subsection (k) of section 8127 of title 38, United States Code, as added by subsection (a), shall apply with respect to a contract entered into after the date of the enactment of this Act [Oct. 30, 2020].”
 
-Pub. L. 116–155, § 2(c), Aug. 8, 2020, 134 Stat. 699, provided that: “The amendments made by this section [amending this section] shall apply with respect to a contract entered into on or after the date of the enactment of this Act [Aug. 8, 2020].”
+Pub. L. 116–155, § 2(c), Aug. 8, 2020, 134 Stat. 699, provided that: “The amendments made by this section [amending this section] shall apply with respect to a contract entered into on or after the date of the enactment of this Act [Aug. 8, 2020].”
 
 **Effective Date of 2016 Amendment**
 
 Amendment by section 1832(b), (d) of Pub. L. 114–328 effective on the date on which the Administrator of the Small Business Administration and the Secretary of Veterans Affairs jointly issue implementing regulations [regulations effective Oct. 1, 2018], see section 1832(e) of Pub. L. 114–328, set out as a note under section 632 of Title 15, Commerce and Trade.
 
-Pub. L. 114–328, div. A, title XVIII, § 1832(f)(2), Dec. 23, 2016, 130 Stat. 2661, provided that: “Paragraph (8) of subsection (f) of title 38, United States Code, as added by paragraph (1), shall apply with respect to a verification decision made by the Secretary of Veterans Affairs on or after the date of the enactment of this Act [Dec. 23, 2016].”
+Pub. L. 114–328, div. A, title XVIII, § 1832(f)(2), Dec. 23, 2016, 130 Stat. 2661, provided that: “Paragraph (8) of subsection (f) of title 38, United States Code, as added by paragraph (1), shall apply with respect to a verification decision made by the Secretary of Veterans Affairs on or after the date of the enactment of this Act [Dec. 23, 2016].”
 
-Pub. L. 114–315, title V, § 501(b), Dec. 16, 2016, 130 Stat. 1566, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 16, 2016] and shall apply with respect to contracts awarded on or after such date.”
+Pub. L. 114–315, title V, § 501(b), Dec. 16, 2016, 130 Stat. 1566, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 16, 2016] and shall apply with respect to contracts awarded on or after such date.”
 
 **Effective Date**
 
-Pub. L. 109–461, title V, § 502(d), Dec. 22, 2006, 120 Stat. 3435, provided that: “This section [enacting this section and provisions set out as a note below] and the amendments made by this section shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006].”
+Pub. L. 109–461, title V, § 502(d), Dec. 22, 2006, 120 Stat. 3435, provided that: “This section [enacting this section and provisions set out as a note below] and the amendments made by this section shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006].”
 
 **Transition Provisions**
 
-Pub. L. 111–275, title I, § 104(b)(2), Oct. 13, 2010, 124 Stat. 2868, provided that:
+Pub. L. 111–275, title I, § 104(b)(2), Oct. 13, 2010, 124 Stat. 2868, provided that:
 
 > “In the case of a small business concern included in the database as of the date of the enactment of this Act [Oct. 13, 2010] for which, as of such date, the Secretary of Veterans Affairs has not verified the status of such concern in accordance with paragraph (4) of subsection (f) of section 8127 of title 38, United States Code, as amended by paragraph (1), not later than 60 days after the date of the enactment of this Act, the Secretary shall notify the person who owns and controls the concern that—
 
@@ -4107,15 +4107,15 @@ Pub. L. 111–275, title I, § 104(b)(2), Oct. 13, 2010, 124 Stat. 2868, provi
 
 > **“(D)** the person who owns and controls the concern must submit to the Secretary all information required by the Secretary under this paragraph within 90 days of receiving the Secretary’s notice of such requirement or the concern shall be removed from the database.”
 
-Pub. L. 109–461, title V, § 502(b), Dec. 22, 2006, 120 Stat. 3435, provided that: “A small business concern that is listed in any small business database maintained by the Secretary of Veterans Affairs on the date of the enactment of this Act [Dec. 22, 2006] shall be presumed to be eligible for inclusion in the database under subsection (f) of section 8127 of title 38, United States Code, as added by subsection (a), during the period beginning on the effective date of that section [see Effective Date note above] and ending one year after such effective date. Such a small business concern may be removed from the database during that period if it is found not to be a small business concern owned and controlled by veterans (as defined in subsection (k) of such section).”
+Pub. L. 109–461, title V, § 502(b), Dec. 22, 2006, 120 Stat. 3435, provided that: “A small business concern that is listed in any small business database maintained by the Secretary of Veterans Affairs on the date of the enactment of this Act [Dec. 22, 2006] shall be presumed to be eligible for inclusion in the database under subsection (f) of section 8127 of title 38, United States Code, as added by subsection (a), during the period beginning on the effective date of that section [see Effective Date note above] and ending one year after such effective date. Such a small business concern may be removed from the database during that period if it is found not to be a small business concern owned and controlled by veterans (as defined in subsection (k) of such section).”
 
-### § 8128. Small business concerns owned and controlled by veterans: contracting priority
+### § 8128. Small business concerns owned and controlled by veterans: contracting priority
 
 **(a) Contracting Priority.—** In procuring goods and services pursuant to a contracting preference under this title or any other provision of law, the Secretary shall give priority to a small business concern owned and controlled by veterans, if such business concern also meets the requirements of that contracting preference.
 
 **(b) Definition.—** For purposes of this section, the term “small business concern owned and controlled by veterans” means a small business concern that is included in the small business database maintained by the Administrator of the Small Business Administration under section 36 of the Small Business Act.
 
-(Added Pub. L. 109–461, title V, § 503(a)(1), Dec. 22, 2006, 120 Stat. 3435; amended Pub. L. 116–283, div. A, title VIII, § 862(b)(3)(B), Jan. 1, 2021, 134 Stat. 3779.)
+(Added Pub. L. 109–461, title V, § 503(a)(1), Dec. 22, 2006, 120 Stat. 3435; amended Pub. L. 116–283, div. A, title VIII, § 862(b)(3)(B), Jan. 1, 2021, 134 Stat. 3779.)
 
 **Editorial Notes**
 
@@ -4131,13 +4131,13 @@ Section 36 of the Small Business Act, referred to in subsec. (b), is classified 
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–283, div. A, title VIII, § 862(b)(3), Jan. 1, 2021, 134 Stat. 3778, provided that the amendment made by section 862(b)(3)(B) shall take effect on the transfer date, which is 2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out as a note under section 657f of Title 15, Commerce and Trade.
+Pub. L. 116–283, div. A, title VIII, § 862(b)(3), Jan. 1, 2021, 134 Stat. 3778, provided that the amendment made by section 862(b)(3)(B) shall take effect on the transfer date, which is 2 years after Jan. 1, 2021, see section 862(a) of Pub. L. 116–283, set out as a note under section 657f of Title 15, Commerce and Trade.
 
 **Effective Date**
 
-Pub. L. 109–461, title V, § 503(b), Dec. 22, 2006, 120 Stat. 3436, provided that: “This section [enacting this section] and the amendments made by this section shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006].”
+Pub. L. 109–461, title V, § 503(b), Dec. 22, 2006, 120 Stat. 3436, provided that: “This section [enacting this section] and the amendments made by this section shall take effect on the date that is 180 days after the date of the enactment of this Act [Dec. 22, 2006].”
 
-### § 8129. Preference for offerors employing veterans
+### § 8129. Preference for offerors employing veterans
 
 **(a) Preference.—**
 
@@ -4157,7 +4157,7 @@ Pub. L. 109–461, title V, § 503(b), Dec. 22, 2006, 120 Stat. 3436, provided
 
 **(3)** The debarment of an offeror under paragraph (1) includes the debarment of all principals in the offeror for a period of not less than five years.
 
-(Added Pub. L. 116–315, title VII, § 7003(a), Jan. 5, 2021, 134 Stat. 5058.)
+(Added Pub. L. 116–315, title VII, § 7003(a), Jan. 5, 2021, 134 Stat. 5058.)
 
 ## SUBCHAPTER III—STATE HOME FACILITIES FOR FURNISHING DOMICILIARY, NURSING HOME, AND HOSPITAL CARE
 
@@ -4165,9 +4165,9 @@ Pub. L. 109–461, title V, § 503(b), Dec. 22, 2006, 120 Stat. 3436, provided
 
 **Amendments**
 
-1977—Pub. L. 95–62, § 4(a), July 5, 1977, 91 Stat. 263, substituted “DOMICILIARY, NURSING HOME, AND HOSPITAL CARE” for “NURSING HOME CARE” in subchapter heading.
+1977—Pub. L. 95–62, § 4(a), July 5, 1977, 91 Stat. 263, substituted “DOMICILIARY, NURSING HOME, AND HOSPITAL CARE” for “NURSING HOME CARE” in subchapter heading.
 
-### § 8131. Definitions
+### § 8131. Definitions
 
 For the purpose of this subchapter—
 
@@ -4179,7 +4179,7 @@ For the purpose of this subchapter—
 
 **(4)** The term “cost of construction” means the amount found by the Secretary to be necessary for a construction project, including architect fees, but excluding land acquisition costs.
 
-(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 501, § 5031; amended Pub. L. 94–581, title II, § 206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, § 3(1), (2), July 5, 1977, 91 Stat. 262; Pub. L. 99–576, title II, § 224(d), Oct. 28, 1986, 100 Stat. 3263; renumbered § 8131, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 104–262, title III, § 342(b)(1), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 116–315, title III, § 3004(c)(1), Jan. 5, 2021, 134 Stat. 4992.)
+(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 501, § 5031; amended Pub. L. 94–581, title II, § 206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, § 3(1), (2), July 5, 1977, 91 Stat. 262; Pub. L. 99–576, title II, § 224(d), Oct. 28, 1986, 100 Stat. 3263; renumbered § 8131, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 104–262, title III, § 342(b)(1), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 116–315, title III, § 3004(c)(1), Jan. 5, 2021, 134 Stat. 4992.)
 
 **Editorial Notes**
 
@@ -4195,9 +4195,9 @@ Par. (4). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
 1986—Pub. L. 99–576 redesignated pars. (a) to (d) as pars. (1) to (4), respectively.
 
-1977—Par. (c). Pub. L. 95–62, § 3(1), inserted construction of new domiciliary buildings, expansion, remodeling, or alteration of existing domiciliary and hospital buildings, and provision of initial equipment for any such buildings to definition of “construction”.
+1977—Par. (c). Pub. L. 95–62, § 3(1), inserted construction of new domiciliary buildings, expansion, remodeling, or alteration of existing domiciliary and hospital buildings, and provision of initial equipment for any such buildings to definition of “construction”.
 
-Par. (d). Pub. L. 95–62, § 3(2), struck out provisions which had limited definition of “cost of construction” to the cost of construction of nursing home facilities.
+Par. (d). Pub. L. 95–62, § 3(2), struck out provisions which had limited definition of “cost of construction” to the cost of construction of nursing home facilities.
 
 1976—Par. (a). Pub. L. 94–581 substituted “veteran” for “war veteran”.
 
@@ -4205,11 +4205,11 @@ Par. (d). Pub. L. 95–62, § 3(2), struck out provisions which had limited de
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–576, title II, § 224(e), Oct. 28, 1986, 100 Stat. 3263, provided that: “The amendments made by this section [amending this section and sections 5033 and 5035 [now 8133 and 8135] of this title] shall take effect on July 1, 1987.”
+Pub. L. 99–576, title II, § 224(e), Oct. 28, 1986, 100 Stat. 3263, provided that: “The amendments made by this section [amending this section and sections 5033 and 5035 [now 8133 and 8135] of this title] shall take effect on July 1, 1987.”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–62, § 5, July 5, 1977, 91 Stat. 263, provided that:
+Pub. L. 95–62, § 5, July 5, 1977, 91 Stat. 263, provided that:
 
 > **“(a)** Except as provided in subsection (b) of this section, the amendments made by this Act [amending this section and sections 5032 to 5036 [now 8132 to 8136] of this title and repealing section 644 of this title] shall be effective October 1, 1977.
 
@@ -4227,11 +4227,11 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 For short title of Pub. L. 95–62 as the “State Veterans’ Home Assistance Improvement Act of 1977”, see section 1 of Pub. L. 95–62, set out as a Short Title of 1977 Amendment note under section 101 of this title.
 
-### § 8132. Declaration of purpose
+### § 8132. Declaration of purpose
 
 The purpose of this subchapter is to assist the States to construct State home facilities (or to acquire facilities to be used as State home facilities) for furnishing domiciliary or nursing home care to veterans, and to expand, remodel, or alter existing buildings for furnishing domiciliary, nursing home, adult day health, or hospital care to veterans in State homes.
 
-(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 501, § 5032; amended Pub. L. 94–581, title II, § 206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, § 3(3), July 5, 1977, 91 Stat. 262; Pub. L. 98–528, title I, § 105(1), Oct. 19, 1984, 98 Stat. 2689; renumbered § 8132, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 104–262, title III, § 342(b)(2), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 116–315, title III, § 3004(c)(2), Jan. 5, 2021, 134 Stat. 4992.)
+(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 501, § 5032; amended Pub. L. 94–581, title II, § 206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, § 3(3), July 5, 1977, 91 Stat. 262; Pub. L. 98–528, title I, § 105(1), Oct. 19, 1984, 98 Stat. 2689; renumbered § 8132, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 104–262, title III, § 342(b)(2), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 116–315, title III, § 3004(c)(2), Jan. 5, 2021, 134 Stat. 4992.)
 
 **Editorial Notes**
 
@@ -4259,13 +4259,13 @@ Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the cont
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 8133. Authorization of appropriations
+### § 8133. Authorization of appropriations
 
 **(a)** There are hereby authorized to be appropriated such sums as are necessary to carry out this subchapter. Sums appropriated pursuant to this section shall be used for making grants to States which have submitted, and have had approved by the Secretary, applications for carrying out the purposes and meeting the requirements of this subchapter.
 
 **(b)** Sums appropriated pursuant to subsection (a) of this section shall remain available until expended.
 
-(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 501, § 5033; amended Pub. L. 89–311, § 7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 90–432, § 2, July 26, 1968, 82 Stat. 448; Pub. L. 93–82, title IV, § 403(c), Aug. 2, 1973, 87 Stat. 196; Pub. L. 95–62, § 3(4), July 5, 1977, 91 Stat. 262; Pub. L. 96–151, title I, § 101(a), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 97–251, § 8, Sept. 8, 1982, 96 Stat. 716; Pub. L. 99–576, title II, § 224(a), Oct. 28, 1986, 100 Stat. 3262; Pub. L. 101–110, § 1(c), Oct. 6, 1989, 103 Stat. 682; Pub. L. 101–237, title II, § 201(b), Dec. 18, 1989, 103 Stat. 2066; renumbered § 8133, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, § 402, Nov. 4, 1992, 106 Stat. 4954.)
+(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 501, § 5033; amended Pub. L. 89–311, § 7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 90–432, § 2, July 26, 1968, 82 Stat. 448; Pub. L. 93–82, title IV, § 403(c), Aug. 2, 1973, 87 Stat. 196; Pub. L. 95–62, § 3(4), July 5, 1977, 91 Stat. 262; Pub. L. 96–151, title I, § 101(a), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 97–251, § 8, Sept. 8, 1982, 96 Stat. 716; Pub. L. 99–576, title II, § 224(a), Oct. 28, 1986, 100 Stat. 3262; Pub. L. 101–110, § 1(c), Oct. 6, 1989, 103 Stat. 682; Pub. L. 101–237, title II, § 201(b), Dec. 18, 1989, 103 Stat. 2066; renumbered § 8133, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, § 402, Nov. 4, 1992, 106 Stat. 4954.)
 
 **Editorial Notes**
 
@@ -4301,7 +4301,7 @@ Subsec. (b). Pub. L. 95–62 substituted “shall remain available until expende
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–110, § 3(a), Oct. 6, 1989, 103 Stat. 682, provided that: “The provisions of and amendments made by this Act [amending this section and enacting provisions set out as notes under sections 1712, 1720B, and 3729 of this title and under section 6302 of Title 5, Government Organization and Employees] shall take effect as of October 1, 1989.”
+Pub. L. 101–110, § 3(a), Oct. 6, 1989, 103 Stat. 682, provided that: “The provisions of and amendments made by this Act [amending this section and enacting provisions set out as notes under sections 1712, 1720B, and 3729 of this title and under section 6302 of Title 5, Government Organization and Employees] shall take effect as of October 1, 1989.”
 
 **Effective Date of 1986 Amendment**
 
@@ -4315,7 +4315,7 @@ Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the cont
 
 Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as a note under section 1701 of this title.
 
-### § 8134. General regulations
+### § 8134. General regulations
 
 **(a)**
 
@@ -4349,7 +4349,7 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 **(B)** For purposes of this paragraph, a renovation project is a project to remodel or alter existing buildings for which financial assistance under this subchapter may be provided and does not include maintenance and repair work which is the responsibility of the State.
 
-(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 502, § 5034; amended Pub. L. 89–311, § 7(b), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, § 403(d), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title I, § 107(b), title II, § 206(b), Oct. 21, 1976, 90 Stat. 2847, 2859; Pub. L. 95–62, § 3(5), (6), July 5, 1977, 91 Stat. 262; Pub. L. 96–330, title IV, § 404, Aug. 26, 1980, 94 Stat. 1052; Pub. L. 98–528, title I, § 105(2), Oct. 19, 1984, 98 Stat. 2689; renumbered § 8134, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(f)(6), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title II, § 207(a), Nov. 30, 1999, 113 Stat. 1564.)
+(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 502, § 5034; amended Pub. L. 89–311, § 7(b), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, § 403(d), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title I, § 107(b), title II, § 206(b), Oct. 21, 1976, 90 Stat. 2847, 2859; Pub. L. 95–62, § 3(5), (6), July 5, 1977, 91 Stat. 262; Pub. L. 96–330, title IV, § 404, Aug. 26, 1980, 94 Stat. 1052; Pub. L. 98–528, title I, § 105(2), Oct. 19, 1984, 98 Stat. 2689; renumbered § 8134, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(f)(6), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title II, § 207(a), Nov. 30, 1999, 113 Stat. 1564.)
 
 **Editorial Notes**
 
@@ -4359,27 +4359,27 @@ The date of the enactment of the Veterans Millennium Health Care and Benefits Ac
 
 **Amendments**
 
-1999—Subsecs. (a), (b). Pub. L. 106–117, § 207(a)(1)–(3), added subsec. (a), redesignated former subsec. (a) as (b) and struck out introductory provisions and par. (1) which authorized Secretary to prescribe number of beds needed for adequate nursing home care of veterans, and redesignated former pars. (2) and (3) of subsec. (a) as pars. (1) and (2), respectively, of subsec. (b). Former subsec. (b) redesignated (c).
+1999—Subsecs. (a), (b). Pub. L. 106–117, § 207(a)(1)–(3), added subsec. (a), redesignated former subsec. (a) as (b) and struck out introductory provisions and par. (1) which authorized Secretary to prescribe number of beds needed for adequate nursing home care of veterans, and redesignated former pars. (2) and (3) of subsec. (a) as pars. (1) and (2), respectively, of subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 106–117, § 207(a)(1), (4), redesignated subsec. (b) as (c) and substituted “subsection (b)(2)” for “subsection (a)(3)”.
+Subsec. (c). Pub. L. 106–117, § 207(a)(1), (4), redesignated subsec. (b) as (c) and substituted “subsection (b)(2)” for “subsection (a)(3)”.
 
-Subsec. (d). Pub. L. 106–117, § 207(a)(5), added subsec. (d).
+Subsec. (d). Pub. L. 106–117, § 207(a)(5), added subsec. (d).
 
 1991—Pub. L. 102–40 renumbered section 5034 of this title as this section.
 
-Pub. L. 102–83, § 5(c)(1), substituted “1720(b)” for “620(b)” in subsec. (a)(3).
+Pub. L. 102–83, § 5(c)(1), substituted “1720(b)” for “620(b)” in subsec. (a)(3).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 102–54 amended section as in effect immediately before the enactment of Pub. L. 102–40 by inserting “(a)” before “Within six months”, substituting “any amendment to this section” for “this section or any amendment to it”, designating sentence at end of par. (3) as subsec. (b), realigning such sentence, and substituting “the standards prescribed under subsection (a)(3)” for “such standards” at end of such sentence.
 
 1984—Pars. (2), (3). Pub. L. 98–528 inserted “or acquired” after “constructed” wherever appearing.
 
-1980—Par. (1). Pub. L. 96–330 struck out “, which number shall not exceed two and one-half beds per thousand veteran population in the case of any State” after “residing in each State”.
+1980—Par. (1). Pub. L. 96–330 struck out “, which number shall not exceed two and one-half beds per thousand veteran population in the case of any State” after “residing in each State”.
 
-1977—Par. (2). Pub. L. 95–62, § 3(5), substituted “repair, and equipment for facilities constructed” for “repairs, modernization, alteration, and equipment for facilities for furnishing nursing home care which are constructed”.
+1977—Par. (2). Pub. L. 95–62, § 3(5), substituted “repair, and equipment for facilities constructed” for “repairs, modernization, alteration, and equipment for facilities for furnishing nursing home care which are constructed”.
 
-Par. (3). Pub. L. 95–62, § 3(6), substituted “furnishing of care” for “furnishing of nursing home care”.
+Par. (3). Pub. L. 95–62, § 3(6), substituted “furnishing of care” for “furnishing of nursing home care”.
 
 1976—Pub. L. 94–581 substituted “date of enactment of this section or any amendment to it with respect to such amendment” for “date of enactment of this subchapter” in provisions preceding par. (1), substituted “veterans” and “veteran” for “war veterans” and “war veteran”, respectively, in par. (1), and added par. (3).
 
@@ -4403,13 +4403,13 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 **Regulations**
 
-Pub. L. 106–117, title II, § 207(d), Nov. 30, 1999, 113 Stat. 1567, provided that: “The Secretary [of Veterans Affairs] shall prescribe the initial regulations under subsection (a) of section 8134 of title 38, United States Code, as added by subsection (a), not later than April 30, 2000.”
+Pub. L. 106–117, title II, § 207(d), Nov. 30, 1999, 113 Stat. 1567, provided that: “The Secretary [of Veterans Affairs] shall prescribe the initial regulations under subsection (a) of section 8134 of title 38, United States Code, as added by subsection (a), not later than April 30, 2000.”
 
 **Transition Provisions**
 
 Provisions of this section in effect on Nov. 10, 1999, to continue in effect after that date with respect to certain applications described in section 8135(b)(2)(A) of this title that are identified in section 207(c)(2) of Pub. L. 106–117, see section 207(c) of Pub. L. 106–117, set out as a note under section 8135 of this title.
 
-### § 8135. Applications with respect to projects; payments
+### § 8135. Applications with respect to projects; payments
 
 **(a)** Any State desiring to receive assistance for a project for construction of State home facilities (or acquisition of a facility to be used as a State home facility) must submit to the Secretary an application. Such application shall set forth the following:
 
@@ -4507,7 +4507,7 @@ Provisions of this section in effect on Nov. 10, 1999, to continue in effect aft
 
 **(f)** Any amendment of any application, whether or not approved, shall be subject to approval in the same manner as an original application.
 
-(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 502, § 5035; amended Pub. L. 89–311, § 7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, § 403(e), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §§ 206(b), 210(e)(10), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 95–62, § 3(7)–(12), July 5, 1977, 91 Stat. 262, 263; Pub. L. 97–295, § 4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, § 105(3), Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, § 205, Dec. 3, 1985, 99 Stat. 953; Pub. L. 99–576, title II, § 224(b), (c), Oct. 28, 1986, 100 Stat. 3262, 3263; Pub. L. 100–322, title II, § 206, May 20, 1988, 102 Stat. 513; renumbered § 8135 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(f)(7), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §§ 403(a), 404(a), Nov. 4, 1992, 106 Stat. 4954; Pub. L. 103–446, title XII, § 1201(d)(18), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–262, title III, § 342(b)(3), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title II, § 207(b), Nov. 30, 1999, 113 Stat. 1565; Pub. L. 107–217, § 3(j)(4), Aug. 21, 2002, 116 Stat. 1300.)
+(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 502, § 5035; amended Pub. L. 89–311, § 7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, § 403(e), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §§ 206(b), 210(e)(10), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 95–62, § 3(7)–(12), July 5, 1977, 91 Stat. 262, 263; Pub. L. 97–295, § 4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, § 105(3), Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, § 205, Dec. 3, 1985, 99 Stat. 953; Pub. L. 99–576, title II, § 224(b), (c), Oct. 28, 1986, 100 Stat. 3262, 3263; Pub. L. 100–322, title II, § 206, May 20, 1988, 102 Stat. 513; renumbered § 8135 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(f)(7), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §§ 403(a), 404(a), Nov. 4, 1992, 106 Stat. 4954; Pub. L. 103–446, title XII, § 1201(d)(18), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–262, title III, § 342(b)(3), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title II, § 207(b), Nov. 30, 1999, 113 Stat. 1565; Pub. L. 107–217, § 3(j)(4), Aug. 21, 2002, 116 Stat. 1300.)
 
 **Editorial Notes**
 
@@ -4515,17 +4515,17 @@ Provisions of this section in effect on Nov. 10, 1999, to continue in effect aft
 
 2002—Subsec. (a)(8). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) (known as the Davis-Bacon Act)”.
 
-1999—Subsec. (a). Pub. L. 106–117, § 207(b)(1), in introductory provisions, substituted “set forth the following:” for “set forth—”, in pars. (1) to (7), capitalized the first letter of the first word and substituted a period for the comma at the end, in par. (8), capitalized the first letter of the first word and substituted a period for “, and” at the end, and in par. (9), capitalized the first letter of the first word.
+1999—Subsec. (a). Pub. L. 106–117, § 207(b)(1), in introductory provisions, substituted “set forth the following:” for “set forth—”, in pars. (1) to (7), capitalized the first letter of the first word and substituted a period for the comma at the end, in par. (8), capitalized the first letter of the first word and substituted a period for “, and” at the end, and in par. (9), capitalized the first letter of the first word.
 
-Subsec. (b). Pub. L. 106–117, § 207(b)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 106–117, § 207(b)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 106–117, § 207(b)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 106–117, § 207(b)(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1). Pub. L. 106–117, § 207(b)(4)(A), in introductory provisions, substituted “under subsection (a) for financial assistance under this subchapter” for “for a grant under subsection (a) of this section”.
+Subsec. (c)(1). Pub. L. 106–117, § 207(b)(4)(A), in introductory provisions, substituted “under subsection (a) for financial assistance under this subchapter” for “for a grant under subsection (a) of this section”.
 
-Subsec. (c)(2)(A). Pub. L. 106–117, § 207(b)(4)(B)(i), struck out “the construction or acquisition of” after “sufficient funds available for”.
+Subsec. (c)(2)(A). Pub. L. 106–117, § 207(b)(4)(B)(i), struck out “the construction or acquisition of” after “sufficient funds available for”.
 
-Subsec. (c)(2)(B) to (H). Pub. L. 106–117, § 207(b)(4)(B)(ii), added subpars. (B) to (H) and struck out former subpars. (B) to (D) which read as follows:
+Subsec. (c)(2)(B) to (H). Pub. L. 106–117, § 207(b)(4)(B)(ii), added subpars. (B) to (H) and struck out former subpars. (B) to (D) which read as follows:
 
 “(B) An application from a State that does not have a State home facility constructed or acquired with assistance under this subchapter (or for which such a grant has been made).
 
@@ -4533,77 +4533,77 @@ Subsec. (c)(2)(B) to (H). Pub. L. 106–117, § 207(b)(4)(B)(ii), added subpar
 
 “(D) An application that meets such other criteria as the Secretary determines are appropriate and has established in regulations.”
 
-Subsec. (c)(3)(A). Pub. L. 106–117, § 207(b)(4)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “shall accord priority only to projects which would involve construction or acquisition of either nursing home or domiciliary buildings or construction (other than new construction) of adult day health care buildings; and”.
+Subsec. (c)(3)(A). Pub. L. 106–117, § 207(b)(4)(C), added subpar. (A) and struck out former subpar. (A) which read as follows: “shall accord priority only to projects which would involve construction or acquisition of either nursing home or domiciliary buildings or construction (other than new construction) of adult day health care buildings; and”.
 
-Subsecs. (d) to (f). Pub. L. 106–117, § 207(b)(2), redesignated subsecs. (c) to (e) as (d) to (f), respectively.
+Subsecs. (d) to (f). Pub. L. 106–117, § 207(b)(2), redesignated subsecs. (c) to (e) as (d) to (f), respectively.
 
-1996—Subsec. (b)(2)(C). Pub. L. 104–262, § 342(b)(3)(A), inserted “or adult day health care facilities” after “domiciliary beds”.
+1996—Subsec. (b)(2)(C). Pub. L. 104–262, § 342(b)(3)(A), inserted “or adult day health care facilities” after “domiciliary beds”.
 
-Subsec. (b)(3)(A). Pub. L. 104–262, § 342(b)(3)(B), inserted “or construction (other than new construction) of adult day health care buildings” before semicolon.
+Subsec. (b)(3)(A). Pub. L. 104–262, § 342(b)(3)(B), inserted “or construction (other than new construction) of adult day health care buildings” before semicolon.
 
 1994—Subsec. (a)(3). Pub. L. 103–446 substituted “section 8134(a)(2)” for “section 8134(2)”.
 
-1992—Subsec. (b)(6)(A). Pub. L. 102–585, § 403(a), substituted “180 days” for “90 days”.
+1992—Subsec. (b)(6)(A). Pub. L. 102–585, § 403(a), substituted “180 days” for “90 days”.
 
-Subsec. (b)(6)(B). Pub. L. 102–585, § 404(a), inserted at end “In the event the Secretary rescinds conditional approval of a project under this subparagraph, the Secretary may not further obligate funds for the project during the fiscal year in which the Secretary rescinds such approval.”
+Subsec. (b)(6)(B). Pub. L. 102–585, § 404(a), inserted at end “In the event the Secretary rescinds conditional approval of a project under this subparagraph, the Secretary may not further obligate funds for the project during the fiscal year in which the Secretary rescinds such approval.”
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5035 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5035 of this title as this section.
 
 Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 102–54 amended subsec. (a) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “Any State” for “After regulations have been prescribed by the Administrator under section 5034 of this title, any State”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “8134(2)” for “5034(2)” in par. (3).
+Pub. L. 102–40, § 402(d)(1), substituted “8134(2)” for “5034(2)” in par. (3).
 
 Subsec. (b). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b)(1)(A). Pub. L. 102–40, § 402(d)(1), substituted “8134” for “5034”.
+Subsec. (b)(1)(A). Pub. L. 102–40, § 402(d)(1), substituted “8134” for “5034”.
 
 Subsecs. (c), (d). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (b)(4). Pub. L. 100–322, § 206(a), (b)(1), inserted “(including projects that have been conditionally approved under paragraph (6) of this subsection)” after “projects” and substituted “August 15” for “July 1”.
+1988—Subsec. (b)(4). Pub. L. 100–322, § 206(a), (b)(1), inserted “(including projects that have been conditionally approved under paragraph (6) of this subsection)” after “projects” and substituted “August 15” for “July 1”.
 
-Subsec. (b)(6), (7). Pub. L. 100–322, § 206(b)(2), added pars. (6) and (7).
+Subsec. (b)(6), (7). Pub. L. 100–322, § 206(b)(2), added pars. (6) and (7).
 
-1986—Subsec. (b). Pub. L. 99–576, § 224(b), amended subsec. (b) generally, substituting provisions consisting of pars. (1) to (5) for former provisions consisting of pars. (1) and (2).
+1986—Subsec. (b). Pub. L. 99–576, § 224(b), amended subsec. (b) generally, substituting provisions consisting of pars. (1) to (5) for former provisions consisting of pars. (1) and (2).
 
-Subsec. (d). Pub. L. 99–576, § 224(c), struck out par. (1) designation, substituted “The amount of a grant under this subchapter shall be paid” for “Upon approving an application under this section, the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved, but in no event an amount greater than 65 percent of the estimated cost of construction (or of the estimated cost of facility acquisition and construction) of the project, and shall designate the appropriation from which it shall be paid. Such certification shall provide for payment” and struck out par. (2) which read as follows: “No one State may receive in any fiscal year in the aggregate under this subchapter more than one-third of the amount appropriated for carrying out this subchapter in such fiscal year.”
+Subsec. (d). Pub. L. 99–576, § 224(c), struck out par. (1) designation, substituted “The amount of a grant under this subchapter shall be paid” for “Upon approving an application under this section, the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved, but in no event an amount greater than 65 percent of the estimated cost of construction (or of the estimated cost of facility acquisition and construction) of the project, and shall designate the appropriation from which it shall be paid. Such certification shall provide for payment” and struck out par. (2) which read as follows: “No one State may receive in any fiscal year in the aggregate under this subchapter more than one-third of the amount appropriated for carrying out this subchapter in such fiscal year.”
 
-1985—Subsec. (a)(6). Pub. L. 99–166, § 205(a), inserted “by July 1 of the fiscal year for which the application is approved”.
+1985—Subsec. (a)(6). Pub. L. 99–166, § 205(a), inserted “by July 1 of the fiscal year for which the application is approved”.
 
-Subsec. (b). Pub. L. 99–166, § 205(b), designated existing provisions as par. (1), redesignated cls. (1) to (4) as (A) to (D), respectively, and added par. (2).
+Subsec. (b). Pub. L. 99–166, § 205(b), designated existing provisions as par. (1), redesignated cls. (1) to (4) as (A) to (D), respectively, and added par. (2).
 
-1984—Subsec. (a). Pub. L. 98–528, § 105(3)(A), inserted “(or acquisition of a facility to be used as a State home facility)” after “State home facilities” in provisions preceding par. (1).
+1984—Subsec. (a). Pub. L. 98–528, § 105(3)(A), inserted “(or acquisition of a facility to be used as a State home facility)” after “State home facilities” in provisions preceding par. (1).
 
-Subsec. (a)(1). Pub. L. 98–528, § 105(3)(B), inserted “(or of the estimated cost of facility acquisition and construction)” after “cost of construction”.
+Subsec. (a)(1). Pub. L. 98–528, § 105(3)(B), inserted “(or of the estimated cost of facility acquisition and construction)” after “cost of construction”.
 
-Subsec. (a)(6). Pub. L. 98–528, § 105(3)(C), inserted “(or for facility acquisition and construction of the project)” after “construction of the project”.
+Subsec. (a)(6). Pub. L. 98–528, § 105(3)(C), inserted “(or for facility acquisition and construction of the project)” after “construction of the project”.
 
-Subsec. (a)(8). Pub. L. 98–528, § 105(3)(D), substituted “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5)” for “sections 276a through 276a–5 of title 40”.
+Subsec. (a)(8). Pub. L. 98–528, § 105(3)(D), substituted “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5)” for “sections 276a through 276a–5 of title 40”.
 
-Subsec. (a)(9). Pub. L. 98–528, § 105(3)(E), added par. (9).
+Subsec. (a)(9). Pub. L. 98–528, § 105(3)(E), added par. (9).
 
-Subsec. (b)(2). Pub. L. 98–528, § 105(3)(F), inserted “(or of the estimated cost of facility acquisition and construction)” after “cost of construction”.
+Subsec. (b)(2). Pub. L. 98–528, § 105(3)(F), inserted “(or of the estimated cost of facility acquisition and construction)” after “cost of construction”.
 
-Subsec. (b)(4). Pub. L. 98–528, § 105(3)(G), substituted “the carrying out of such project” for “the construction of such project”.
+Subsec. (b)(4). Pub. L. 98–528, § 105(3)(G), substituted “the carrying out of such project” for “the construction of such project”.
 
-Subsec. (d)(1). Pub. L. 98–528, § 105(3)(H), inserted “(or of the estimated cost of facility acquisition and construction)” after “cost of construction” in first sentence, substituted “carried out” for “constructed” in second sentence, substituted “the project” for “construction” in third sentence, struck out “the construction of” before “an approved project” in fourth sentence.
+Subsec. (d)(1). Pub. L. 98–528, § 105(3)(H), inserted “(or of the estimated cost of facility acquisition and construction)” after “cost of construction” in first sentence, substituted “carried out” for “constructed” in second sentence, substituted “the project” for “construction” in third sentence, struck out “the construction of” before “an approved project” in fourth sentence.
 
 1982—Subsecs. (a)(1), (4), (b)(2), (d)(1). Pub. L. 97–295 substituted “percent” for “per centum” wherever appearing.
 
-1977—Subsec. (a). Pub. L. 95–62, § 3(7), (8), substituted “State home facilities must submit” for “State home facilities for furnishing nursing home care must submit” in provisions preceding par. (1) and, “to furnish to veterans the level of care for which such application is made and that not more than 25 per centum of the bed occupancy at any one time will consist of patients who are not receiving such level of care as war veterans” for “to furnish nursing home care to veterans and that not more than 10 per centum of the bed occupancy at any one time will consist of patients who are not receiving nursing home care as veterans” in par. (4).
+1977—Subsec. (a). Pub. L. 95–62, § 3(7), (8), substituted “State home facilities must submit” for “State home facilities for furnishing nursing home care must submit” in provisions preceding par. (1) and, “to furnish to veterans the level of care for which such application is made and that not more than 25 per centum of the bed occupancy at any one time will consist of patients who are not receiving such level of care as war veterans” for “to furnish nursing home care to veterans and that not more than 10 per centum of the bed occupancy at any one time will consist of patients who are not receiving nursing home care as veterans” in par. (4).
 
-Subsec. (b)(3). Pub. L. 95–62, § 3(9), substituted “reasonable assurances under subsection (a) of this section as the Administrator” for “reasonable assurances as to use, title, financial support, reports and access to rec­ords, and payment of prevailing rates of wages, as the Administrator”.
+Subsec. (b)(3). Pub. L. 95–62, § 3(9), substituted “reasonable assurances under subsection (a) of this section as the Administrator” for “reasonable assurances as to use, title, financial support, reports and access to rec­ords, and payment of prevailing rates of wages, as the Administrator”.
 
-Subsec. (c). Pub. L. 95–62, § 3(10), substituted “afforded the applicant notice and an opportunity for a hearing” for “afforded the applicant an opportunity for a hearing”.
+Subsec. (c). Pub. L. 95–62, § 3(10), substituted “afforded the applicant notice and an opportunity for a hearing” for “afforded the applicant an opportunity for a hearing”.
 
-Subsec. (d). Pub. L. 95–62, § 3(11), designated existing provisions as par. (1), substituted “the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved” for “the Administrator shall certify to the Secretary of the Treasury the amount of the grant requested with respect to such project in such application”, and added par. (2).
+Subsec. (d). Pub. L. 95–62, § 3(11), designated existing provisions as par. (1), substituted “the Administrator shall certify to the Secretary of the Treasury the amount of the grant so approved” for “the Administrator shall certify to the Secretary of the Treasury the amount of the grant requested with respect to such project in such application”, and added par. (2).
 
-Subsec. (e). Pub. L. 95–62, § 3(12), substituted “amendment of any application, whether or not approved,” for “amendment of any approved application”.
+Subsec. (e). Pub. L. 95–62, § 3(12), substituted “amendment of any application, whether or not approved,” for “amendment of any approved application”.
 
-1976—Subsec. (a)(4). Pub. L. 94–581, § 206(b), substituted “veterans” for “war veterans” in two places.
+1976—Subsec. (a)(4). Pub. L. 94–581, § 206(b), substituted “veterans” for “war veterans” in two places.
 
-Subsec. (b). Pub. L. 94–581, §§ 206(b), 210(e)(10), substituted “the Administrator” for “he” in provisions preceding par. (1) and “veterans” for “war veterans” in par. (4).
+Subsec. (b). Pub. L. 94–581, §§ 206(b), 210(e)(10), substituted “the Administrator” for “he” in provisions preceding par. (1) and “veterans” for “war veterans” in par. (4).
 
 1973—Subsecs. (a)(1), (b)(2), (d). Pub. L. 93–82 substituted “65 per centum” for “50 per centum”.
 
@@ -4613,9 +4613,9 @@ Subsec. (b). Pub. L. 94–581, §§ 206(b), 210(e)(10), substituted “the Adm
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–585, title IV, § 403(b), Nov. 4, 1992, 106 Stat. 4954, provided that: “The amendment made by subsection (a) [amending this section] shall apply to projects that are conditionally approved after September 30, 1992.”
+Pub. L. 102–585, title IV, § 403(b), Nov. 4, 1992, 106 Stat. 4954, provided that: “The amendment made by subsection (a) [amending this section] shall apply to projects that are conditionally approved after September 30, 1992.”
 
-Pub. L. 102–585, title IV, § 404(b), Nov. 4, 1992, 106 Stat. 4954, provided that: “The amendment made by subsection (a) [amending this section] shall apply to rescissions of conditional approval of projects after the date of the enactment of this Act [Nov. 4, 1992].”
+Pub. L. 102–585, title IV, § 404(b), Nov. 4, 1992, 106 Stat. 4954, provided that: “The amendment made by subsection (a) [amending this section] shall apply to rescissions of conditional approval of projects after the date of the enactment of this Act [Nov. 4, 1992].”
 
 **Effective Date of 1986 Amendment**
 
@@ -4635,11 +4635,11 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 **Regulations**
 
-Pub. L. 99–576, title II, § 224(f), Oct. 28, 1986, 100 Stat. 3263, provided that: “The Administrator of Veterans’ Affairs shall prescribe regulations not later than April 1, 1987, to implement the amendments made by this section [amending this section and sections 5031 and 5033 [now 8131 and 8133] of this title].”
+Pub. L. 99–576, title II, § 224(f), Oct. 28, 1986, 100 Stat. 3263, provided that: “The Administrator of Veterans’ Affairs shall prescribe regulations not later than April 1, 1987, to implement the amendments made by this section [amending this section and sections 5031 and 5033 [now 8131 and 8133] of this title].”
 
 **Transition Provisions**
 
-Pub. L. 106–117, title II, § 207(c), Nov. 30, 1999, 113 Stat. 1566, provided that:
+Pub. L. 106–117, title II, § 207(c), Nov. 30, 1999, 113 Stat. 1566, provided that:
 
 > **“(1)** The provisions of sections 8134 and 8135 of title 38, United States Code, as in effect on November 10, 1999, shall continue in effect after that date with respect to applications described in section 8135(b)(2)(A) of such title, as in effect on that date, that are identified in paragraph (2) (and to projects and grants pursuant to those applications). The Secretary [of Veterans Affairs] shall accord priority among those applications in the order listed in paragraph (2).
 
@@ -4657,13 +4657,13 @@ Pub. L. 106–117, title II, § 207(c), Nov. 30, 1999, 113 Stat. 1566, provide
 
 > **“(C)** the term ‘State home grant program’ means the grant program under subchapter III of chapter 81 of title 38, United States Code.”
 
-### § 8136. Recapture provisions
+### § 8136. Recapture provisions
 
 **(a)** If, within the 20-year period beginning on the date of the approval by the Secretary of the final architectural and engineering inspection of any project with respect to which a grant has been made under this subchapter (except that the Secretary, pursuant to regulations which the Secretary shall prescribe, may at the time of such grant provide for a shorter period than 20, but not less than seven, years, based on the magnitude of the project and the grant amount involved, in the case of the acquisition, expansion, remodeling, or alteration of existing facilities), the facilities covered by the project cease to be operated by a State, a State home, or an agency or instrumentality of a State principally for furnishing domiciliary, nursing home, or hospital care to veterans, the United States shall be entitled to recover from the State which was the recipient of the grant under this subchapter, or from the then owner of such facilities, 65 percent of the then value of such project (but in no event an amount greater than the amount of assistance provided under this subchapter), as determined by agreement of the parties or by action brought in the district court of the United States for the district in which such facilities are situated.
 
 **(b)** The establishment and operation by the Secretary of an outpatient clinic in facilities described in subsection (a) shall not constitute grounds entitling the United States to any recovery under that subsection.
 
-(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 503, § 5036; amended Pub. L. 93–82, title IV, § 403(f), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, § 206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, § 3(13), July 5, 1977, 91 Stat. 263; Pub. L. 97–295, § 4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, § 105(4), Oct. 19, 1984, 98 Stat. 2690; renumbered § 8136, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, § 405, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 106–419, title II, § 222, Nov. 1, 2000, 114 Stat. 1845.)
+(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 503, § 5036; amended Pub. L. 93–82, title IV, § 403(f), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, § 206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, § 3(13), July 5, 1977, 91 Stat. 263; Pub. L. 97–295, § 4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, § 105(4), Oct. 19, 1984, 98 Stat. 2690; renumbered § 8136, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, § 405, Nov. 4, 1992, 106 Stat. 4954; Pub. L. 106–419, title II, § 222, Nov. 1, 2000, 114 Stat. 1845.)
 
 **Editorial Notes**
 
@@ -4701,11 +4701,11 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as a note under section 1701 of this title.
 
-### § 8137. State control of operations
+### § 8137. State control of operations
 
 Except as otherwise specifically provided, nothing in this subchapter shall be construed as conferring on any Federal officer or employee the right to exercise any supervision or control over the administration, personnel, maintenance, or operation of any State home for which facilities are constructed or acquired with assistance received under this subchapter.
 
-(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 503, § 5037; amended Pub. L. 98–528, title I, § 105(5), Oct. 19, 1984, 98 Stat. 2690; renumbered § 8137, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
+(Added Pub. L. 88–450, § 4(a), Aug. 19, 1964, 78 Stat. 503, § 5037; amended Pub. L. 98–528, title I, § 105(5), Oct. 19, 1984, 98 Stat. 2690; renumbered § 8137, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238.)
 
 **Editorial Notes**
 
@@ -4715,7 +4715,7 @@ Except as otherwise specifically provided, nothing in this subchapter shall be c
 
 1984—Pub. L. 98–528 inserted “or acquired” after “constructed”.
 
-### § 8138. Treatment of certain health facilities as State homes
+### § 8138. Treatment of certain health facilities as State homes
 
 **(a)** The Secretary may treat a health facility (or certain beds in a health facility) as a State home for purposes of subchapter V of chapter 17 of this title if the following requirements are met:
 
@@ -4745,15 +4745,15 @@ Except as otherwise specifically provided, nothing in this subchapter shall be c
 
 **(e)** The Secretary may not treat any new health facilities (or any new certain beds in a health facility) as a State home under subsection (a) after September 30, 2009.
 
-(Added Pub. L. 109–461, title II, § 211(c)(1), Dec. 22, 2006, 120 Stat. 3420.)
+(Added Pub. L. 109–461, title II, § 211(c)(1), Dec. 22, 2006, 120 Stat. 3420.)
 
 ## SUBCHAPTER IV—SHARING OF MEDICAL FACILITIES, EQUIPMENT, AND INFORMATION
 
-### § 8151. Statement of congressional purpose
+### § 8151. Statement of congressional purpose
 
 It is the purpose of this subchapter to strengthen the medical programs at Department facilities and improve the quality of health care provided veterans under this title by authorizing the Secretary to enter into agreements with health-care providers in order to share health-care resources with, and receive health-care resources from, such providers while ensuring no diminution of services to veterans.
 
-(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1373, § 5051; amended Pub. L. 101–366, title II, § 202(a), Aug. 15, 1990, 104 Stat. 438; renumbered § 8151, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, § 3(a), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 104–262, title III, § 301(a), Oct. 9, 1996, 110 Stat. 3191.)
+(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1373, § 5051; amended Pub. L. 101–366, title II, § 202(a), Aug. 15, 1990, 104 Stat. 438; renumbered § 8151, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, § 3(a), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 104–262, title III, § 301(a), Oct. 9, 1996, 110 Stat. 3191.)
 
 **Editorial Notes**
 
@@ -4769,7 +4769,7 @@ Pub. L. 102–83 substituted “Secretary” for “Administrator” and “Depa
 
 1990—Pub. L. 101–366 substituted “health-care facilities,” for “hospitals,” in two places.
 
-### § 8152. Definitions
+### § 8152. Definitions
 
 For the purposes of this subchapter—
 
@@ -4779,7 +4779,7 @@ For the purposes of this subchapter—
 
 **(3)** The term “hospital”, unless otherwise specified, includes any Federal, State, local, or other public or private hospital.
 
-(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1373, § 5052; renumbered § 8152, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, § 14(f)(8), June 13, 1991, 105 Stat. 288; Pub. L. 103–210, § 3(b), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 104–262, title III, § 301(b), Oct. 9, 1996, 110 Stat. 3191; Pub. L. 107–135, title II, § 208(e)(8), Jan. 23, 2002, 115 Stat. 2464.)
+(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1373, § 5052; renumbered § 8152, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, § 14(f)(8), June 13, 1991, 105 Stat. 288; Pub. L. 103–210, § 3(b), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 104–262, title III, § 301(b), Oct. 9, 1996, 110 Stat. 3191; Pub. L. 107–135, title II, § 208(e)(8), Jan. 23, 2002, 115 Stat. 2464.)
 
 **Editorial Notes**
 
@@ -4801,7 +4801,7 @@ For the purposes of this subchapter—
 
 Pub. L. 102–54 amended section as in effect immediately before the enactment of Pub. L. 102–40 by redesignating pars. (a), (b), and (c) as pars. (1), (2), and (3), respectively, and by realigning the margins.
 
-### § 8153. Sharing of health-care resources
+### § 8153. Sharing of health-care resources
 
 **(a)**
 
@@ -4851,43 +4851,43 @@ Pub. L. 102–54 amended section as in effect immediately before the enactment o
 
 **(2)** recommendations for the improvement or more effective administration of such activities.
 
-(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1374, § 5053; amended Pub. L. 91–496, § 4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, § 303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, § 115(a)(1), title II, §§ 206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, § 304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, § 702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, § 231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II, § 202(b), Aug. 15, 1990, 104 Stat. 438; renumbered § 8153, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, § 3(c), Dec. 20, 1993, 107 Stat. 2498; Pub. L. 104–262, title III, § 301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193; Pub. L. 105–114, title IV, § 402(d), (e), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–419, title IV, § 404(b)(2), Nov. 1, 2000, 114 Stat. 1866; Pub. L. 108–170, title IV, § 405(d), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 111–350, § 5(j)(8), Jan. 4, 2011, 124 Stat. 3850.)
+(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1374, § 5053; amended Pub. L. 91–496, § 4, Oct. 22, 1970, 84 Stat. 1092; Pub. L. 93–82, title III, § 303, Aug. 2, 1973, 87 Stat. 195; Pub. L. 94–581, title I, § 115(a)(1), title II, §§ 206(c), 210(e)(11), Oct. 21, 1976, 90 Stat. 2852, 2859, 2865; Pub. L. 96–151, title III, § 304, Dec. 20, 1979, 93 Stat. 1096; Pub. L. 97–295, § 4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–160, title VII, § 702(20), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 99–576, title II, § 231(c)(1), Oct. 28, 1986, 100 Stat. 3264; Pub. L. 101–366, title II, § 202(b), Aug. 15, 1990, 104 Stat. 438; renumbered § 8153, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(f)(9), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(D), (E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–210, § 3(c), Dec. 20, 1993, 107 Stat. 2498; Pub. L. 104–262, title III, § 301(c), (d)(1), Oct. 9, 1996, 110 Stat. 3191, 3193; Pub. L. 105–114, title IV, § 402(d), (e), Nov. 21, 1997, 111 Stat. 2294; Pub. L. 106–419, title IV, § 404(b)(2), Nov. 1, 2000, 114 Stat. 1866; Pub. L. 108–170, title IV, § 405(d), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 111–350, § 5(j)(8), Jan. 4, 2011, 124 Stat. 3850.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-2011—Subsec. (a)(3)(B)(ii). Pub. L. 111–350, § 5(j)(8)(A), substituted “section 1707 of title 41” for “section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b)”.
+2011—Subsec. (a)(3)(B)(ii). Pub. L. 111–350, § 5(j)(8)(A), substituted “section 1707 of title 41” for “section 22 of the Office of Federal Procurement Policy Act (41 U.S.C. 418b)”.
 
-Subsec. (a)(3)(D). Pub. L. 111–350, § 5(j)(8)(B), substituted “section 3304(e) of title 41” for “section 303(f) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f))”.
+Subsec. (a)(3)(D). Pub. L. 111–350, § 5(j)(8)(B), substituted “section 3304(e) of title 41” for “section 303(f) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f))”.
 
 2003—Subsec. (g). Pub. L. 108–170, in introductory provisions, substituted “not later than February 1 of each year” for “not more than 60 days after the end of each fiscal year” and inserted “during the preceding fiscal year” after “under this section”.
 
-2000—Subsec. (a)(3)(B)(ii). Pub. L. 106–419 amended directory language of Pub. L. 105–114, § 402(e). See 1997 Amendment note below.
+2000—Subsec. (a)(3)(B)(ii). Pub. L. 106–419 amended directory language of Pub. L. 105–114, § 402(e). See 1997 Amendment note below.
 
-1997—Subsec. (a)(3)(A). Pub. L. 105–114, § 402(d), inserted “(including any Executive order, circular, or other administrative policy)” after “law or regulation”.
+1997—Subsec. (a)(3)(A). Pub. L. 105–114, § 402(d), inserted “(including any Executive order, circular, or other administrative policy)” after “law or regulation”.
 
-Subsec. (a)(3)(B)(ii). Pub. L. 105–114, § 402(e), as amended by Pub. L. 106–419, inserted “, as appropriate,” after “all responsible sources” in third sentence.
+Subsec. (a)(3)(B)(ii). Pub. L. 105–114, § 402(e), as amended by Pub. L. 106–419, inserted “, as appropriate,” after “all responsible sources” in third sentence.
 
-1996—Pub. L. 104–262, § 301(d)(1), substituted “Sharing of health-care resources” for “Specialized medical resources” in section catchline.
+1996—Pub. L. 104–262, § 301(d)(1), substituted “Sharing of health-care resources” for “Specialized medical resources” in section catchline.
 
-Subsec. (a)(1). Pub. L. 104–262, § 301(c)(1)(A), substituted “health-care resources” for “certain specialized medical resources”, “other health-care resources” for “other medical resources”, and “of health-care resources between Department health-care facilities and any health-care provider, or other entity or individual” for “of—
+Subsec. (a)(1). Pub. L. 104–262, § 301(c)(1)(A), substituted “health-care resources” for “certain specialized medical resources”, “other health-care resources” for “other medical resources”, and “of health-care resources between Department health-care facilities and any health-care provider, or other entity or individual” for “of—
 
 “(A) specialized medical resources between Department health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools; and
 
 “(B) health-care resources between Department health-care facilities and State home facilities recognized under section 1742(a) of this title”.
 
-Subsec. (a)(2). Pub. L. 104–262, § 301(c)(1)(B), substituted “if such resources are not, or would not be,” for “only if (A) such an agreement will obviate the need for a similar resource to be provided in a Department health care facility, or (B) the Department resources which are the subject of the agreement and which have been justified on the basis of veterans’ care are not”.
+Subsec. (a)(2). Pub. L. 104–262, § 301(c)(1)(B), substituted “if such resources are not, or would not be,” for “only if (A) such an agreement will obviate the need for a similar resource to be provided in a Department health care facility, or (B) the Department resources which are the subject of the agreement and which have been justified on the basis of veterans’ care are not”.
 
-Subsec. (a)(3). Pub. L. 104–262, § 301(c)(1)(C), added par. (3).
+Subsec. (a)(3). Pub. L. 104–262, § 301(c)(1)(C), added par. (3).
 
-Subsec. (b). Pub. L. 104–262, § 301(c)(2), substituted “payment to the Department in accordance with procedures that provide appropriate flexibility to negotiate payment which is in the best interest of the Government.” for “reciprocal reimbursement based on a methodology that provides appropriate flexibility to the heads of the facilities concerned to establish an appropriate reimbursement rate after taking into account local conditions and needs and the actual costs to the providing facility of the resource involved.”
+Subsec. (b). Pub. L. 104–262, § 301(c)(2), substituted “payment to the Department in accordance with procedures that provide appropriate flexibility to negotiate payment which is in the best interest of the Government.” for “reciprocal reimbursement based on a methodology that provides appropriate flexibility to the heads of the facilities concerned to establish an appropriate reimbursement rate after taking into account local conditions and needs and the actual costs to the providing facility of the resource involved.”
 
-Subsec. (d). Pub. L. 104–262, § 301(c)(3), substituted “preclude such payment to such facility for such care or services” for “preclude such payment, in accordance with—
+Subsec. (d). Pub. L. 104–262, § 301(c)(3), substituted “preclude such payment to such facility for such care or services” for “preclude such payment, in accordance with—
 
 “(1) rates prescribed by the Secretary of Health and Human Services, after consultation with the Secretary, and
 
@@ -4895,7 +4895,7 @@ Subsec. (d). Pub. L. 104–262, § 301(c)(3), substituted “preclude such pay
 
 to such facility therefor”.
 
-Subsecs. (e) to (g). Pub. L. 104–262, § 301(c)(4), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+Subsecs. (e) to (g). Pub. L. 104–262, § 301(c)(4), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
 1993—Subsec. (a). Pub. L. 103–210 designated existing provisions as par. (1) and substituted “other form of agreement for the mutual use, or exchange of use, of—” along with subpars. (A) and (B) and par. (2), for “other form of agreement, as set forth in clauses (1) and (2) below, between Department health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools:
 
@@ -4905,27 +4905,27 @@ Subsecs. (e) to (g). Pub. L. 104–262, § 301(c)(4), added subsecs. (e) and (
 
 1991—Pub. L. 102–40 renumbered section 5053 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places in introductory provisions.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsec. (b). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (b). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (c). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Subsec. (c). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
 Pub. L. 102–54 amended subsec. (c) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “under this section” for “hereunder”.
 
-Subsec. (d). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
+Subsec. (d). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (d)(2). Pub. L. 102–83, § 4(b)(2)(D), substituted “the two Secretaries” for “the Secretary and the Administrator”.
+Subsec. (d)(2). Pub. L. 102–83, § 4(b)(2)(D), substituted “the two Secretaries” for “the Secretary and the Administrator”.
 
-Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
+Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions.
 
-1990—Subsec. (a). Pub. L. 101–366, § 202(b)(1), substituted “health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools” for “hospitals and other hospitals (or other medical installations having hospital facilities or organ banks, blood banks, or similar institutions) or medical schools or clinics in the medical community” and struck out at end “The Administrator may determine the geographical limitations of a medical community as used in this section.”
+1990—Subsec. (a). Pub. L. 101–366, § 202(b)(1), substituted “health-care facilities and other health-care facilities (including organ banks, blood banks, or similar institutions), research centers, or medical schools” for “hospitals and other hospitals (or other medical installations having hospital facilities or organ banks, blood banks, or similar institutions) or medical schools or clinics in the medical community” and struck out at end “The Administrator may determine the geographical limitations of a medical community as used in this section.”
 
-Subsec. (b). Pub. L. 101–366, § 202(b)(2), substituted in first sentence “a methodology that provides appropriate flexibility to the heads of the facilities concerned to establish an appropriate reimbursement rate after taking into account local conditions and needs and the actual costs to the providing facility of the resource involved.” for “a charge which covers the full cost of services rendered, supplies used, and including normal depreciation and amortization costs of equipment.” and inserted before period at end of second sentence “and to funds that have been allotted to the facility that furnished the resource involved”.
+Subsec. (b). Pub. L. 101–366, § 202(b)(2), substituted in first sentence “a methodology that provides appropriate flexibility to the heads of the facilities concerned to establish an appropriate reimbursement rate after taking into account local conditions and needs and the actual costs to the providing facility of the resource involved.” for “a charge which covers the full cost of services rendered, supplies used, and including normal depreciation and amortization costs of equipment.” and inserted before period at end of second sentence “and to funds that have been allotted to the facility that furnished the resource involved”.
 
 1986—Subsec. (e). Pub. L. 99–576 added subsec. (e).
 
@@ -4935,11 +4935,11 @@ Subsec. (b). Pub. L. 101–366, § 202(b)(2), substituted in first sentence �
 
 1979—Subsec. (a). Pub. L. 96–151 inserted provisions relating to applicability to organ banks, blood banks, or similar institutions.
 
-1976—Subsec. (a). Pub. L. 94–581, §§ 206(c), 210(e)(11), substituted “when the Administrator determines” for “when he determines” and “clauses” for “paragraphs” in provisions preceding cl. (1), and inserted “health care” after “Veterans’ Administration” in cls. (1) and (2).
+1976—Subsec. (a). Pub. L. 94–581, §§ 206(c), 210(e)(11), substituted “when the Administrator determines” for “when he determines” and “clauses” for “paragraphs” in provisions preceding cl. (1), and inserted “health care” after “Veterans’ Administration” in cls. (1) and (2).
 
-Subsec. (c). Pub. L. 94–581, § 206(c)(2), inserted “health care” after “Veterans’ Administration” in two places.
+Subsec. (c). Pub. L. 94–581, § 206(c)(2), inserted “health care” after “Veterans’ Administration” in two places.
 
-Subsec. (d). Pub. L. 94–581, § 115(a)(1), inserted subsec. (d).
+Subsec. (d). Pub. L. 94–581, § 115(a)(1), inserted subsec. (d).
 
 1973—Subsec. (a). Pub. L. 93–82 struck out “or medical schools” from parenthetical and inserted “or medical schools or clinics” after parenthetical.
 
@@ -4949,7 +4949,7 @@ Subsec. (d). Pub. L. 94–581, § 115(a)(1), inserted subsec. (d).
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–419, title IV, § 404(b)(2), Nov. 1, 2000, 114 Stat. 1866, provided that the amendment made by section 404(b)(2) is effective Nov. 21, 1997, and as if included in Pub. L. 105–114 as originally enacted.
+Pub. L. 106–419, title IV, § 404(b)(2), Nov. 1, 2000, 114 Stat. 1866, provided that the amendment made by section 404(b)(2) is effective Nov. 21, 1997, and as if included in Pub. L. 105–114 as originally enacted.
 
 **Effective Date of 1976 Amendment**
 
@@ -4961,9 +4961,9 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 **Report to Congress on Rates and Procedures Covering Payment of Benefits for Care or Services Provided in Veterans’ Administration Health Care Facilities to Individuals Not Eligible for Veterans’ Hospital, Nursing Home, Domiciliary, or Medical Care**
 
-Pub. L. 94–581, title I, § 115(c), Oct. 21, 1976, 90 Stat. 2853, provided that at such time as the rates and procedures described in subsec. (d) of this section were prescribed, the Secretary of Health, Education, and Welfare [now Secretary of Health and Human Services], in consultation with the Administrator of Veterans’ Affairs, was to submit to the Committee on Ways and Means and the Committee on Veterans’ Affairs of the House of Representatives and to the Committee on Finance and the Committee on Veterans’ Affairs of the Senate a full report describing such rates and procedures.
+Pub. L. 94–581, title I, § 115(c), Oct. 21, 1976, 90 Stat. 2853, provided that at such time as the rates and procedures described in subsec. (d) of this section were prescribed, the Secretary of Health, Education, and Welfare [now Secretary of Health and Human Services], in consultation with the Administrator of Veterans’ Affairs, was to submit to the Committee on Ways and Means and the Committee on Veterans’ Affairs of the House of Representatives and to the Committee on Finance and the Committee on Veterans’ Affairs of the Senate a full report describing such rates and procedures.
 
-### § 8154. Exchange of medical information
+### § 8154. Exchange of medical information
 
 **(a)** The Secretary is authorized to enter into agreements with medical schools, hospitals, research centers, and individual members of the medical profession under which medical information and techniques will be freely exchanged and the medical information services of all parties to the agreement will be available for use by any party to the agreement under conditions specified in the agreement. In carrying out the purposes of this section, the Secretary shall utilize recent developments in electronic equipment to provide a close educational, scientific, and professional link between Department hospitals and major medical centers. Such agreements shall be utilized by the Secretary to the maximum extent practicable to create, at each Department hospital which is a part of any such agreement, an environment of academic medicine which will help such hospital attract and retain highly trained and qualified members of the medical profession.
 
@@ -4971,7 +4971,7 @@ Pub. L. 94–581, title I, § 115(c), Oct. 21, 1976, 90 Stat. 2853, provided t
 
 **(c)** The Secretary is authorized to enter into agreements with public and nonprofit private institutions, organizations, corporations, and other entities in order to participate in cooperative health-care personnel education programs within the geographical area of any Department health-care facility located in an area remote from major academic health centers.
 
-(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1374, § 5054; amended Pub. L. 94–424, § 1(1), Sept. 28, 1976, 90 Stat. 1332; Pub. L. 94–581, title II, §§ 206(d), 210(e)(12), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 96–151, title I, § 102(a), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 97–251, § 9, Sept. 8, 1982, 96 Stat. 716; renumbered § 8154, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1374, § 5054; amended Pub. L. 94–424, § 1(1), Sept. 28, 1976, 90 Stat. 1332; Pub. L. 94–581, title II, §§ 206(d), 210(e)(12), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 96–151, title I, § 102(a), Dec. 20, 1979, 93 Stat. 1092; Pub. L. 97–251, § 9, Sept. 8, 1982, 96 Stat. 716; renumbered § 8154, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -4979,9 +4979,9 @@ Pub. L. 94–581, title I, § 115(c), Oct. 21, 1976, 90 Stat. 2853, provided t
 
 1991—Pub. L. 102–40 renumbered section 5054 of this title as this section.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
 1982—Subsec. (b). Pub. L. 97–251 inserted “(including State home facilities furnishing domiciliary, nursing home, or hospital care to veterans)” after “by the surrounding medical community”.
 
@@ -4997,7 +4997,7 @@ Pub. L. 94–424 inserted provision that any proceeds to the Government received
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 8155. Pilot programs; grants to medical schools
+### § 8155. Pilot programs; grants to medical schools
 
 **(a)** The Secretary may establish an Advisory Subcommittee on Programs for Exchange of Medical Information, of the Special Medical Advisory Group, established under section 7312 of this title, to advise the Secretary on matters regarding the administration of this section and to coordinate these functions with other research and education programs in the Department of Medicine and Surgery. The Assistant Under Secretary for Health charged with administration of the Department of Medicine and Surgery medical research program shall be an ex officio member of this Subcommittee.
 
@@ -5015,7 +5015,7 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **(f)** The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and examination, to any books, documents, papers, and records of the recipient of any grant under this section which are pertinent to any such grant.
 
-(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1375, § 5055; amended Pub. L. 92–69, Aug. 6, 1971, 85 Stat. 178; Pub. L. 94–424, § 1(2), Sept. 28, 1976, 90 Stat. 1332; Pub. L. 94–581, title II, §§ 206(e), 210(e)(13), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 96–151, title I, § 102(b), Dec. 20, 1979, 93 Stat. 1092; renumbered § 8155 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(d)(19), Nov. 2, 1994, 108 Stat. 4684.)
+(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1375, § 5055; amended Pub. L. 92–69, Aug. 6, 1971, 85 Stat. 178; Pub. L. 94–424, § 1(2), Sept. 28, 1976, 90 Stat. 1332; Pub. L. 94–581, title II, §§ 206(e), 210(e)(13), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 96–151, title I, § 102(b), Dec. 20, 1979, 93 Stat. 1092; renumbered § 8155 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, § 1201(d)(19), Nov. 2, 1994, 108 Stat. 4684.)
 
 **Editorial Notes**
 
@@ -5025,17 +5025,17 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 1992—Subsec. (a). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5055 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 5055 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (a). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–40, § 402(d)(1), substituted “8154” for “5054”.
+Pub. L. 102–40, § 402(d)(1), substituted “8154” for “5054”.
 
-Subsec. (c)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (c)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsecs. (c)(2), (d) to (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsecs. (c)(2), (d) to (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1979—Subsec. (c)(1). Pub. L. 96–151 inserted authorization for the three succeeding fiscal years after fiscal year 1979.
 
@@ -5061,19 +5061,19 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 8156. Coordination with health services development activities carried out under the National Health Planning and Resources Development Act of 1974
+### § 8156. Coordination with health services development activities carried out under the National Health Planning and Resources Development Act of 1974
 
 The Secretary and the Secretary of Health and Human Services shall, to the maximum extent practicable, coordinate programs carried out under this subchapter and programs carried out under part F of title XVI of the Public Health Service Act (42 U.S.C. 300t et seq.).
 
-(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1375, § 5056; amended Pub. L. 94–581, title I, § 115(a)(2), Oct. 21, 1976, 90 Stat. 2853; Pub. L. 97–295, § 4(93), (95)(A), Oct. 12, 1982, 96 Stat. 1313; renumbered § 8156, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 89–785, title II, § 203, Nov. 7, 1966, 80 Stat. 1375, § 5056; amended Pub. L. 94–581, title I, § 115(a)(2), Oct. 21, 1976, 90 Stat. 2853; Pub. L. 97–295, § 4(93), (95)(A), Oct. 12, 1982, 96 Stat. 1313; renumbered § 8156, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Health Planning and Resources Development Act of 1974, referred to in section catchline, is Pub. L. 93–641, Jan. 4, 1975, 88 Stat. 2225, which is classified generally to subchapters XIII (§ 300k et seq.) and XIV (§ 300*o* et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 201 of Title 42 and Tables.
+The National Health Planning and Resources Development Act of 1974, referred to in section catchline, is Pub. L. 93–641, Jan. 4, 1975, 88 Stat. 2225, which is classified generally to subchapters XIII (§ 300k et seq.) and XIV (§ 300*o* et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under section 201 of Title 42 and Tables.
 
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Part F of title XVI of the Public Health Service Act was added by act Jan. 4, 1975, Pub. L. 93–641, § 4, 88 Stat. 2273, and was redesignated as Part D by Pub. L. 96–79, title II, § 202(a), Oct. 4, 1979, 93 Stat. 632. Part D of that Act is classified generally to Part D (§ 300t) of subchapter XIV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Part F of title XVI of the Public Health Service Act was added by act Jan. 4, 1975, Pub. L. 93–641, § 4, 88 Stat. 2273, and was redesignated as Part D by Pub. L. 96–79, title II, § 202(a), Oct. 4, 1979, 93 Stat. 632. Part D of that Act is classified generally to Part D (§ 300t) of subchapter XIV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 **Amendments**
 
@@ -5081,9 +5081,9 @@ The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373
 
 Pub. L. 102–83 substituted “The Secretary” for “The Administrator”.
 
-1982—Pub. L. 97–295, § 4(95)(A), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+1982—Pub. L. 97–295, § 4(95)(A), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-Pub. L. 97–295, § 4(93), inserted “(42 U.S.C. 300t et seq.)” after “part F of title XVI of the Public Health Service Act”.
+Pub. L. 97–295, § 4(93), inserted “(42 U.S.C. 300t et seq.)” after “part F of title XVI of the Public Health Service Act”.
 
 1976—Pub. L. 94–581 substituted “health services development activities carried out under the National Health Planning and Resources Development Act of 1974” for “programs carried out under the Heart Disease, Cancer, and Stroke Amendments of 1965” in section catchline and “part F of title XVI” for “title IX” in text.
 
@@ -5093,7 +5093,7 @@ Pub. L. 97–295, § 4(93), inserted “(42 U.S.C. 300t et seq.)” after “p
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-### § 8157. Joint title to medical equipment
+### § 8157. Joint title to medical equipment
 
 **(a)** Subject to subsection (b), the Secretary may enter into agreements with institutions described in section 8153(a) of this title for the joint acquisition of medical equipment.
 
@@ -5113,9 +5113,9 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **(2)** Notwithstanding any other provision of law, the Secretary may acquire the interest of an institution in equipment acquired under subsection (a) if the Secretary determines that the acquisition would be justified by compelling clinical considerations or the economic interests of the Department. The Secretary may not pay more than one-half the depreciated purchase price of that equipment.
 
-(Added Pub. L. 102–405, title I, § 103(a)(1), Oct. 9, 1992, 106 Stat. 1973.)
+(Added Pub. L. 102–405, title I, § 103(a)(1), Oct. 9, 1992, 106 Stat. 1973.)
 
-### § 8158. Deposit in escrow
+### § 8158. Deposit in escrow
 
 **(a)** To facilitate the procurement of medical equipment pursuant to section 8157 of this title, the Secretary may enter into escrow agreements with institutions described in section 8153(a) of this title. Any such agreement shall provide that—
 
@@ -5141,19 +5141,19 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **(2)** Funds held in an escrow account under this section shall not be considered to be public funds.
 
-(Added Pub. L. 102–405, title I, § 103(a)(1), Oct. 9, 1992, 106 Stat. 1974.)
+(Added Pub. L. 102–405, title I, § 103(a)(1), Oct. 9, 1992, 106 Stat. 1974.)
 
-### § 8159. Authority to pay for services authorized but not subject to an agreement
+### § 8159. Authority to pay for services authorized but not subject to an agreement
 
 **(a) In General.—** If, in the course of furnishing hospital care, a medical service, or an extended care service authorized by the Secretary and pursuant to a contract, agreement, or other arrangement with the Secretary, a provider who is not a party to the contract, agreement, or other arrangement furnishes hospital care, a medical service, or an extended care service that the Secretary considers necessary, the Secretary may compensate the provider for the cost of such care or service.
 
 **(b) New Contracts and Agreements.—** The Secretary shall take reasonable efforts to enter into a contract, agreement, or other arrangement with a provider described in subsection (a) to ensure that future care and services authorized by the Secretary and furnished by the provider are subject to such a contract, agreement, or other arrangement.
 
-(Added Pub. L. 115–182, title I, § 112(a), June 6, 2018, 132 Stat. 1421.)
+(Added Pub. L. 115–182, title I, § 112(a), June 6, 2018, 132 Stat. 1421.)
 
 ## SUBCHAPTER V—ENHANCED-USE LEASES OF REAL PROPERTY
 
-### § 8161. Definitions
+### § 8161. Definitions
 
 For the purposes of this subchapter:
 
@@ -5181,7 +5181,7 @@ For the purposes of this subchapter:
 
 **(5)** The term “major enhanced-use lease” means an enhanced-use lease that includes consideration consisting of an average annual rent of more than $10,000,000.
 
-(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 112—154, title II, § 211(a), Aug. 6, 2012, 126 Stat. 1179; Pub. L. 114–226, § 3(d), Sept. 29, 2016, 130 Stat. 932.)
+(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 112—154, title II, § 211(a), Aug. 6, 2012, 126 Stat. 1179; Pub. L. 114–226, § 3(d), Sept. 29, 2016, 130 Stat. 932.)
 
 **Editorial Notes**
 
@@ -5195,15 +5195,15 @@ For the purposes of this subchapter:
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112—154, title II, § 211(k), Aug. 6, 2012, 126 Stat. 1182, provided that “Except as otherwise provided in this section [enacting section 8168 of this title, amending this section and sections 8162, 8164 to 8167, and 8169 of this title, and enacting provisions set out as notes under sections 8162 and 8168 of this title], the amendments made by this section shall take effect on the date of the enactment of this Act [Aug. 6, 2012].
+Pub. L. 112—154, title II, § 211(k), Aug. 6, 2012, 126 Stat. 1182, provided that “Except as otherwise provided in this section [enacting section 8168 of this title, amending this section and sections 8162, 8164 to 8167, and 8169 of this title, and enacting provisions set out as notes under sections 8162 and 8168 of this title], the amendments made by this section shall take effect on the date of the enactment of this Act [Aug. 6, 2012].
 
 **Training and Outreach Regarding Authority**
 
-Pub. L. 106–117, title II, § 208(f), Nov. 30, 1999, 113 Stat. 1568, provided that: “The Secretary [of Veterans Affairs] shall take appropriate actions to provide training and outreach to personnel at Department [of Veterans Affairs] medical centers regarding the enhanced-use lease authority under subchapter V of chapter 81 of title 38, United States Code. The training and outreach shall address methods of approaching potential lessees in the medical or commercial sectors regarding the possibility of entering into leases under that authority and other appropriate matters.”
+Pub. L. 106–117, title II, § 208(f), Nov. 30, 1999, 113 Stat. 1568, provided that: “The Secretary [of Veterans Affairs] shall take appropriate actions to provide training and outreach to personnel at Department [of Veterans Affairs] medical centers regarding the enhanced-use lease authority under subchapter V of chapter 81 of title 38, United States Code. The training and outreach shall address methods of approaching potential lessees in the medical or commercial sectors regarding the possibility of entering into leases under that authority and other appropriate matters.”
 
 **Independent Analysis of Opportunities for Use of Authority**
 
-Pub. L. 106–117, title II, § 208(g), Nov. 30, 1999, 113 Stat. 1568, provided that:
+Pub. L. 106–117, title II, § 208(g), Nov. 30, 1999, 113 Stat. 1568, provided that:
 
 > **“(1)** The Secretary [of Veterans Affairs] shall take appropriate actions to secure from an appropriate entity (or entities) independent of the Department [of Veterans Affairs] an analysis (or analyses) of opportunities for the use of the enhanced-use lease authority under subchapter V of chapter 81 of title 38, United States Code.
 
@@ -5221,9 +5221,9 @@ Pub. L. 106–117, title II, § 208(g), Nov. 30, 1999, 113 Stat. 1568, provide
 
 **Enhanced Use Leases**
 
-Pub. L. 104–110, title II, § 202(c), Feb. 13, 1996, 110 Stat. 771, provided that: “The Secretary shall submit to Congress, not later than March 31, 1997, a report evaluating the operation of the program under subchapter V of chapter 81 of title 38, United States Code.”
+Pub. L. 104–110, title II, § 202(c), Feb. 13, 1996, 110 Stat. 771, provided that: “The Secretary shall submit to Congress, not later than March 31, 1997, a report evaluating the operation of the program under subchapter V of chapter 81 of title 38, United States Code.”
 
-### § 8162. Enhanced-use leases
+### § 8162. Enhanced-use leases
 
 **(a)**
 
@@ -5287,7 +5287,7 @@ Pub. L. 104–110, title II, § 202(c), Feb. 13, 1996, 110 Stat. 771, provided
 
 **(2)** Nothing in this subchapter shall be construed to abrogate or constitute a waiver of the sovereign immunity of the United States with respect to any loan, financing, or other financial agreement entered into by the lessee and a third party relating to an enhanced-use lease.
 
-(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, § 208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, § 10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, § 3(j)(5), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, § 4(i)(1), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 110–161, div. I, title II, § 224(c), Dec. 26, 2007, 121 Stat. 2272; Pub. L. 112—154, title II, § 211(b)(1), (c)(1), (d), Aug. 6, 2012, 126 Stat. 1180, 1181; Pub. L. 114–58, title VI, § 601(25), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–226, §§ 2(m)(2)—3(b), Sept. 29, 2016, 130 Stat. 930; Pub. L. 115–182, title II, § 212, June 6, 2018, 132 Stat. 1461; Pub. L. 117–168, title VII, § 705(a), (b), Aug. 10, 2022, 136 Stat. 1799, 1800.)
+(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, § 208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, § 10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, § 3(j)(5), Aug. 21, 2002, 116 Stat. 1300; Pub. L. 108–178, § 4(i)(1), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 110–161, div. I, title II, § 224(c), Dec. 26, 2007, 121 Stat. 2272; Pub. L. 112—154, title II, § 211(b)(1), (c)(1), (d), Aug. 6, 2012, 126 Stat. 1180, 1181; Pub. L. 114–58, title VI, § 601(25), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–226, §§ 2(m)(2)—3(b), Sept. 29, 2016, 130 Stat. 930; Pub. L. 115–182, title II, § 212, June 6, 2018, 132 Stat. 1461; Pub. L. 117–168, title VII, § 705(a), (b), Aug. 10, 2022, 136 Stat. 1799, 1800.)
 
 **Editorial Notes**
 
@@ -5303,21 +5303,21 @@ No act with the title “Los Angeles Homeless Veterans Leasing Act of 2016”, r
 
 **Amendments**
 
-2022—Subsec. (a)(2). Pub. L. 117–168, § 705(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and if the lease is not inconsistent with and will not adversely affect the mission of the Department.”
+2022—Subsec. (a)(2). Pub. L. 117–168, § 705(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and if the lease is not inconsistent with and will not adversely affect the mission of the Department.”
 
-Subsec. (b)(2). Pub. L. 117–168, § 705(b), substituted “99 years” for “75 years”.
+Subsec. (b)(2). Pub. L. 117–168, § 705(b), substituted “99 years” for “75 years”.
 
 2018—Subsec. (b)(6). Pub. L. 115–182, which directed the general amendment of “section 8162(b)(6)” without specifying the Code title to be amended, was executed by generally amending par. (6) of subsec. (b) of this section, to reflect the probable intent of Congress. Prior to amendment, par. (6) read as follows: “The Secretary may not enter into an enhanced-use lease without certification in advance in writing by the Director of the Office of Management and Budget that such lease complies with the requirements of this subchapter.”
 
-2016—Subsec. (b)(3)(D). Pub. L. 114–226, § 3(a), added subpar. (D).
+2016—Subsec. (b)(3)(D). Pub. L. 114–226, § 3(a), added subpar. (D).
 
-Subsec. (c). Pub. L. 114–226, § 2(m)(2), inserted “, other than an enhanced-use lease under the Los Angeles Homeless Veterans Leasing Act of 2016,” before “shall be considered”.
+Subsec. (c). Pub. L. 114–226, § 2(m)(2), inserted “, other than an enhanced-use lease under the Los Angeles Homeless Veterans Leasing Act of 2016,” before “shall be considered”.
 
-Subsec. (d). Pub. L. 114–226, § 3(b), added subsec. (d).
+Subsec. (d). Pub. L. 114–226, § 3(b), added subsec. (d).
 
 2015—Subsec. (a)(2). Pub. L. 114–58 inserted “if” after “housing and”.
 
-2012—Subsec. (a)(2). Pub. L. 112–154, § 211(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may enter into an enhanced-use lease only if—
+2012—Subsec. (a)(2). Pub. L. 112–154, § 211(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may enter into an enhanced-use lease only if—
 
 “(A) the Secretary determines that—
 
@@ -5329,65 +5329,65 @@ Subsec. (d). Pub. L. 114–226, § 3(b), added subsec. (d).
 
 “(B) the Secretary determines that the implementation of a business plan proposed by the Under Secretary for Health for applying the consideration under such a lease to the provision of medical care and services would result in a demonstrable improvement of services to eligible veterans in the geographic service-delivery area within which the property is located.”
 
-Subsec. (b)(1). Pub. L. 112–154, § 211(c)(1)(A), substituted “If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall, at the Secretary’s discretion, select the party with whom the lease will be entered into using such selection procedures as the Secretary considers appropriate.” for subpars. (A) and (B) which read as follows:
+Subsec. (b)(1). Pub. L. 112–154, § 211(c)(1)(A), substituted “If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall, at the Secretary’s discretion, select the party with whom the lease will be entered into using such selection procedures as the Secretary considers appropriate.” for subpars. (A) and (B) which read as follows:
 
 “(A) If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall select the party with whom the lease will be entered into using selection procedures determined by the Secretary that ensure the integrity of the selection process.
 
 “(B) In the case of a property that the Secretary determines is appropriate for use as a facility to furnish services to homeless veterans under chapter 20 of this title, the Secretary may enter into an enhanced-use lease with a provider of homeless services without regard to the selection procedures required under subparagraph (A).”
 
-Subsec. (b)(3). Pub. L. 112–154, § 211(c)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
+Subsec. (b)(3). Pub. L. 112–154, § 211(c)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
 “(3)(A) Each enhanced-use lease shall be for fair consideration, as determined by the Secretary. Consideration under such a lease may be provided in whole or in part through consideration in-kind.
 
 “(B) Consideration in-kind may include provision of goods or services of benefit to the Department, including construction, repair, remodeling, or other physical improvements of Department facilities, maintenance of Department facilities, or the provision of office, storage, or other usable space.”
 
-Subsec. (b)(4). Pub. L. 112–154, § 211(c)(1)(C), substituted “Secretary to use minor” for “Secretary to—
+Subsec. (b)(4). Pub. L. 112–154, § 211(c)(1)(C), substituted “Secretary to use minor” for “Secretary to—
 
 “(A) obtain facilities, space, or services on the leased property; and
 
 “(B) use minor”.
 
-Subsec. (b)(5), (6). Pub. L. 112–154, § 211(c)(1)(D), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 112–154, § 211(c)(1)(D), added pars. (5) and (6).
 
-Subsec. (c). Pub. L. 112–154, § 211(d), struck out par. (1) designation, substituted “The” for “Subject to paragraph (2), the” and struck out par. (2) which provided conditions under which entering into enhanced-use lease covering any land or improvement described in section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Pub. L. 100–322) would not be considered prohibited under such section.
+Subsec. (c). Pub. L. 112–154, § 211(d), struck out par. (1) designation, substituted “The” for “Subject to paragraph (2), the” and struck out par. (2) which provided conditions under which entering into enhanced-use lease covering any land or improvement described in section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Pub. L. 100–322) would not be considered prohibited under such section.
 
 2007—Subsec. (c)(1). Pub. L. 110–161 inserted “or section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008” after “section 421(b)(2) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553)” and substituted “such sections” for “that section”.
 
 2003—Subsec. (a)(3). Pub. L. 108–178 struck out comma after “of title 40”.
 
-2002—Subsec. (a)(1). Pub. L. 107–217, § 3(j)(5)(A), substituted “subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b), sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484)”.
+2002—Subsec. (a)(1). Pub. L. 107–217, § 3(j)(5)(A), substituted “subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b), sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484)”.
 
-Subsec. (a)(3). Pub. L. 107–217, § 3(j)(5)(B), substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (40 U.S.C. 276a et seq.)”.
+Subsec. (a)(3). Pub. L. 107–217, § 3(j)(5)(B), substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (40 U.S.C. 276a et seq.)”.
 
 2001—Subsec. (b)(1). Pub. L. 107–95 designated existing provisions as subpar. (A) and added subpar. (B).
 
 2000—Subsec. (a)(4). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-1999—Subsec. (a)(2). Pub. L. 106–117, § 208(a), inserted subpar. (A) designation before “the Secretary”, redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively, and realigned the margins, substituted “; or” for period at end of cl. (iii), and added subpar. (B).
+1999—Subsec. (a)(2). Pub. L. 106–117, § 208(a), inserted subpar. (A) designation before “the Secretary”, redesignated subpars. (A) to (C) as cls. (i) to (iii), respectively, and realigned the margins, substituted “; or” for period at end of cl. (iii), and added subpar. (B).
 
-Subsec. (b)(2). Pub. L. 106–117, § 208(b)(1), substituted “may not exceed 75 years.” for “may not exceed—”
+Subsec. (b)(2). Pub. L. 106–117, § 208(b)(1), substituted “may not exceed 75 years.” for “may not exceed—”
 
 “(A) 35 years, in the case of a lease involving the construction of a new building or the substantial rehabilitation of an existing building, as determined by the Secretary; or
 
 “(B) 20 years, in the case of a lease not described in subparagraph (A).”
 
-Subsec. (b)(4). Pub. L. 106–117, § 208(b)(2), added par. (4) and struck out former par. (4) which read as follows: “Any payment by the Secretary for the use of space or services by the Department on property that has been leased under this subchapter may only be made from funds appropriated to the Department for the activity that uses the space or services. No other such payment may be made by the Secretary to a lessee under an enhanced-use lease unless the authority to make the payment is provided in advance in an appropriation Act.”
+Subsec. (b)(4). Pub. L. 106–117, § 208(b)(2), added par. (4) and struck out former par. (4) which read as follows: “Any payment by the Secretary for the use of space or services by the Department on property that has been leased under this subchapter may only be made from funds appropriated to the Department for the activity that uses the space or services. No other such payment may be made by the Secretary to a lessee under an enhanced-use lease unless the authority to make the payment is provided in advance in an appropriation Act.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112—154, title II, § 211(b)(2), Aug. 6, 2012, 126 Stat. 1180, provided that:
+Pub. L. 112—154, title II, § 211(b)(2), Aug. 6, 2012, 126 Stat. 1180, provided that:
 
 > **“(A) In general.—** Paragraph (2) of section 8162(a) of title 38, United States Code, as amended by paragraph (1), shall take effect on January 1, 2012, and shall apply with respect to enhanced-use leases entered into on or after such date.
 
 > **“(B) Previous leases.—** Any enhanced-use lease that the Secretary has entered into prior to the date described in subparagraph (A) shall be subject to the provisions of subchapter V of chapter 81 of such title, as in effect on the day before the date of the enactment of this Act [Aug. 6, 2012].”
 
-Pub. L. 112—154, title II, § 211(c)(2), Aug. 6, 2012, 126 Stat. 1181, provided that: “Paragraph (3) of section 8162(b), as amended by paragraph (1)(B) of this subsection, shall take effect on January 1, 2012, and shall apply with respect to enhanced-use leases entered into on or after such date.”
+Pub. L. 112—154, title II, § 211(c)(2), Aug. 6, 2012, 126 Stat. 1181, provided that: “Paragraph (3) of section 8162(b), as amended by paragraph (1)(B) of this subsection, shall take effect on January 1, 2012, and shall apply with respect to enhanced-use leases entered into on or after such date.”
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–161, div. I, title II, § 224(d), Dec. 26, 2007, 121 Stat. 2272, provided that: “This section [amending this section], including the amendment made by this section, shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
+Pub. L. 110–161, div. I, title II, § 224(d), Dec. 26, 2007, 121 Stat. 2272, provided that: “This section [amending this section], including the amendment made by this section, shall apply with respect to fiscal year 2008 and each fiscal year thereafter.”
 
 **Effective Date of 2003 Amendment**
 
@@ -5395,9 +5395,9 @@ Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L.
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–95, § 10(c), Dec. 21, 2001, 115 Stat. 920, provided that: “The amendments made by subsection (b) [amending this section] shall apply to leases entered into on or after the date of the enactment of this Act [Dec. 21, 2001].”
+Pub. L. 107–95, § 10(c), Dec. 21, 2001, 115 Stat. 920, provided that: “The amendments made by subsection (b) [amending this section] shall apply to leases entered into on or after the date of the enactment of this Act [Dec. 21, 2001].”
 
-### § 8163. Hearing and notice requirements regarding proposed leases
+### § 8163. Hearing and notice requirements regarding proposed leases
 
 **(a)** If the Secretary proposes to enter into an enhanced-use lease with respect to certain property, the Secretary shall conduct a public hearing before entering into the lease. The hearing shall be conducted in the community in which the property is located. At the hearing, the Secretary shall receive the views of veterans service organizations and other interested parties regarding the proposed lease of the property and the possible effects of the uses to be made of the property under a lease of the general character then contemplated. The possible effects to be addressed at the hearing shall include effects on—
 
@@ -5465,29 +5465,29 @@ Pub. L. 107–95, § 10(c), Dec. 21, 2001, 115 Stat. 920, provided that: “Th
 
 **(G)** A summary of a cost-benefit analysis of the proposed lease.
 
-(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 419; amended Pub. L. 106–117, title II, § 208(c), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–419, title II, § 241, title IV, § 404(b)(1), Nov. 1, 2000, 114 Stat. 1847, 1865; Pub. L. 108–170, title II, § 202(a), (d)(1), Dec. 6, 2003, 117 Stat. 2047, 2048; Pub. L. 114–226, § 3(c)(1), Sept. 29, 2016, 130 Stat. 931.)
+(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 419; amended Pub. L. 106–117, title II, § 208(c), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–419, title II, § 241, title IV, § 404(b)(1), Nov. 1, 2000, 114 Stat. 1847, 1865; Pub. L. 108–170, title II, § 202(a), (d)(1), Dec. 6, 2003, 117 Stat. 2047, 2048; Pub. L. 114–226, § 3(c)(1), Sept. 29, 2016, 130 Stat. 931.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2016—Subsec. (c)(1). Pub. L. 114–226 inserted “, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate” after “notify the congressional veterans’ affairs committees”, substituted “, shall publish” for “and shall publish”, inserted “, and shall submit to the congressional veterans’ affairs committees a copy of the proposed lease” after “in the Federal Register”, and inserted at end “With respect to a major enhanced-use lease, upon the request of the congressional veterans’ affairs committees, not later than 30 days after the date of such notice, the Secretary shall testify before the committees on the major enhanced-use lease, including with respect to the status of the lease, the cost, and the plans to carry out the activities under the lease. The Secretary may not delegate such testifying below the level of the head of the Office of Asset Enterprise Management of the Department or any successor to such office.”
+2016—Subsec. (c)(1). Pub. L. 114–226 inserted “, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate” after “notify the congressional veterans’ affairs committees”, substituted “, shall publish” for “and shall publish”, inserted “, and shall submit to the congressional veterans’ affairs committees a copy of the proposed lease” after “in the Federal Register”, and inserted at end “With respect to a major enhanced-use lease, upon the request of the congressional veterans’ affairs committees, not later than 30 days after the date of such notice, the Secretary shall testify before the committees on the major enhanced-use lease, including with respect to the status of the lease, the cost, and the plans to carry out the activities under the lease. The Secretary may not delegate such testifying below the level of the head of the Office of Asset Enterprise Management of the Department or any successor to such office.”
 
-2003—Pub. L. 108–170, § 202(d)(1), substituted “Hearing and notice requirements regarding proposed leases” for “Designation of property to be leased” in section catchline.
+2003—Pub. L. 108–170, § 202(d)(1), substituted “Hearing and notice requirements regarding proposed leases” for “Designation of property to be leased” in section catchline.
 
-Subsec. (a). Pub. L. 108–170, § 202(a)(1), in first sentence, substituted “enter into an enhanced-use lease with respect to certain property” for “designate a property to be leased under an enhanced-use lease” and “before entering into the lease” for “before making the designation”.
+Subsec. (a). Pub. L. 108–170, § 202(a)(1), in first sentence, substituted “enter into an enhanced-use lease with respect to certain property” for “designate a property to be leased under an enhanced-use lease” and “before entering into the lease” for “before making the designation”.
 
-Subsec. (b). Pub. L. 108–170, § 202(a)(2), substituted “to the congressional veterans’ affairs committees and to the public of the proposed lease” for “of the proposed designation” in introductory provisions.
+Subsec. (b). Pub. L. 108–170, § 202(a)(2), substituted “to the congressional veterans’ affairs committees and to the public of the proposed lease” for “of the proposed designation” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 108–170, § 202(a)(3)(A), substituted “enter into an enhanced-use lease of the property involved” for “designate the property involved” and “to enter into such lease” for “to so designate the property”.
+Subsec. (c)(1). Pub. L. 108–170, § 202(a)(3)(A), substituted “enter into an enhanced-use lease of the property involved” for “designate the property involved” and “to enter into such lease” for “to so designate the property”.
 
-Subsec. (c)(2). Pub. L. 108–170, § 202(a)(3)(B), substituted “45-day period” for “90-day period”.
+Subsec. (c)(2). Pub. L. 108–170, § 202(a)(3)(B), substituted “45-day period” for “90-day period”.
 
-Subsec. (c)(3)(D). Pub. L. 108–170, § 202(a)(3)(C)(i), substituted “description of the provisions” for “general description”.
+Subsec. (c)(3)(D). Pub. L. 108–170, § 202(a)(3)(C)(i), substituted “description of the provisions” for “general description”.
 
-Subsec. (c)(3)(G). Pub. L. 108–170, § 202(a)(3)(C)(ii), added subpar. (G).
+Subsec. (c)(3)(G). Pub. L. 108–170, § 202(a)(3)(C)(ii), added subpar. (G).
 
-Subsec. (c)(4). Pub. L. 108–170, § 202(a)(3)(D), struck out par. (4) which read as follows: “Not less than 30 days before entering into an enhanced-use lease, the Secretary shall submit to the congressional veterans’ affairs committees a report on the proposed lease. The report shall include—
+Subsec. (c)(4). Pub. L. 108–170, § 202(a)(3)(D), struck out par. (4) which read as follows: “Not less than 30 days before entering into an enhanced-use lease, the Secretary shall submit to the congressional veterans’ affairs committees a report on the proposed lease. The report shall include—
 
 “(A) updated information with respect to the matters described in paragraph (3);
 
@@ -5497,15 +5497,15 @@ Subsec. (c)(4). Pub. L. 108–170, § 202(a)(3)(D), struck out par. (4) which 
 
 “(D) a notice of designation with respect to the property.”
 
-2000—Subsec. (c)(2). Pub. L. 106–419, § 241, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may not enter into an enhanced-use lease until the end of a 60-day period of continuous session of Congress following the date of the submission of notice under paragraph (1). For purposes of the preceding sentence, continuity of a session of Congress is broken only by an adjournment sine die, and there shall be excluded from the computation of such 60-day period any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain.”
+2000—Subsec. (c)(2). Pub. L. 106–419, § 241, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may not enter into an enhanced-use lease until the end of a 60-day period of continuous session of Congress following the date of the submission of notice under paragraph (1). For purposes of the preceding sentence, continuity of a session of Congress is broken only by an adjournment sine die, and there shall be excluded from the computation of such 60-day period any day during which either House of Congress is not in session during an adjournment of more than three days to a day certain.”
 
-Subsec. (c)(3)(E). Pub. L. 106–419, § 404(b)(1), amended directory language of Pub. L. 106–117, § 208(c)(2). See 1999 Amendment note below.
+Subsec. (c)(3)(E). Pub. L. 106–419, § 404(b)(1), amended directory language of Pub. L. 106–117, § 208(c)(2). See 1999 Amendment note below.
 
-1999—Subsec. (b). Pub. L. 106–117, § 208(c)(1)(A), substituted “include the following:” for “include—” in introductory provisions.
+1999—Subsec. (b). Pub. L. 106–117, § 208(c)(1)(A), substituted “include the following:” for “include—” in introductory provisions.
 
-Subsec. (b)(1) to (3). Pub. L. 106–117, § 208(c)(1)(B), (C), capitalized the first letter of the first word and substituted a period for the semicolon at end.
+Subsec. (b)(1) to (3). Pub. L. 106–117, § 208(c)(1)(B), (C), capitalized the first letter of the first word and substituted a period for the semicolon at end.
 
-Subsec. (b)(4). Pub. L. 106–117, § 208(c)(1)(B), (D), in introductory provisions, capitalized the first letter of the first word, added subpars. (A) and (B), and struck out former subpars. (A) to (C) which read as follows:
+Subsec. (b)(4). Pub. L. 106–117, § 208(c)(1)(B), (D), in introductory provisions, capitalized the first letter of the first word, added subpars. (A) and (B), and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) would contribute in a cost-effective manner to the mission of the Department;
 
@@ -5513,9 +5513,9 @@ Subsec. (b)(4). Pub. L. 106–117, § 208(c)(1)(B), (D), in introductory provi
 
 “(C) would not adversely affect the mission of the Department; and”.
 
-Subsec. (b)(5). Pub. L. 106–117, § 208(c)(1)(B), capitalized the first letter of the first word.
+Subsec. (b)(5). Pub. L. 106–117, § 208(c)(1)(B), capitalized the first letter of the first word.
 
-Subsec. (c)(3)(E). Pub. L. 106–117, § 208(c)(2), as amended by Pub. L. 106–419, § 404(b)(1), substituted cls. (i) and (ii) for former cls. (i) to (iii) which read as follows:
+Subsec. (c)(3)(E). Pub. L. 106–117, § 208(c)(2), as amended by Pub. L. 106–419, § 404(b)(1), substituted cls. (i) and (ii) for former cls. (i) to (iii) which read as follows:
 
 “(i) would contribute in a cost-effective manner to the mission of the Department;
 
@@ -5527,9 +5527,9 @@ Subsec. (c)(3)(E). Pub. L. 106–117, § 208(c)(2), as amended by Pub. L. 106�
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–419, title IV, § 404(b)(1), Nov. 1, 2000, 114 Stat. 1865, provided that the amendment made by section 404(b)(1) is effective Nov. 30, 1999, and as if included in Pub. L. 106–117 as originally enacted.
+Pub. L. 106–419, title IV, § 404(b)(1), Nov. 1, 2000, 114 Stat. 1865, provided that the amendment made by section 404(b)(1) is effective Nov. 30, 1999, and as if included in Pub. L. 106–117 as originally enacted.
 
-### § 8164. Authority for disposition of leased property
+### § 8164. Authority for disposition of leased property
 
 **(a)** If, during the term of an enhanced-use lease or within 30 days after the end of the term of the lease, the Secretary determines that the leased property is no longer needed by the Department, the Secretary may initiate action for the transfer to the lessee of all right, title, and interest of the United States in the property. A disposition of property may not be made under this section unless the Secretary determines that the disposition under this section rather than under section 8118 or 8122 of this title is in the best interests of the Department.
 
@@ -5537,7 +5537,7 @@ Pub. L. 106–419, title IV, § 404(b)(1), Nov. 1, 2000, 114 Stat. 1865, provi
 
 **(c)** Not less than 45 days before a disposition of property is made under this section, the Secretary shall notify the congressional veterans’ affairs committees of the Secretary’s intent to dispose of the property and shall publish notice of the proposed disposition in the Federal Register. The notice shall describe the background of, rationale for, and economic factors in support of, the proposed disposition (including a cost-benefit analysis summary) and the method, terms, and conditions of the proposed disposition.
 
-(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 420; amended Pub. L. 108–170, title II, § 202(b), Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, § 411(e)(3), Nov. 30, 2004, 118 Stat. 2390; Pub. L. 112—154, title II, § 211(e), Aug. 6, 2012, 126 Stat. 1181.)
+(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 420; amended Pub. L. 108–170, title II, § 202(b), Dec. 6, 2003, 117 Stat. 2047; Pub. L. 108–422, title IV, § 411(e)(3), Nov. 30, 2004, 118 Stat. 2390; Pub. L. 112—154, title II, § 211(e), Aug. 6, 2012, 126 Stat. 1181.)
 
 **Editorial Notes**
 
@@ -5547,13 +5547,13 @@ Pub. L. 106–419, title IV, § 404(b)(1), Nov. 1, 2000, 114 Stat. 1865, provi
 
 2004—Subsec. (a). Pub. L. 108–422 inserted “8118 or” after “rather than under section”.
 
-2003—Subsec. (a). Pub. L. 108–170, § 202(b)(1), struck out “by requesting the Administrator of General Services to dispose of the property pursuant to subsection (b)” after “in the property” in first sentence and struck out at end “The Administrator, upon request of the Secretary, shall take appropriate action under this section to dispose of property of the Department that is or has been subject to an enhanced-use lease.”
+2003—Subsec. (a). Pub. L. 108–170, § 202(b)(1), struck out “by requesting the Administrator of General Services to dispose of the property pursuant to subsection (b)” after “in the property” in first sentence and struck out at end “The Administrator, upon request of the Secretary, shall take appropriate action under this section to dispose of property of the Department that is or has been subject to an enhanced-use lease.”
 
-Subsec. (b). Pub. L. 108–170, § 202(b)(2), substituted “Secretary determines” for “Secretary and the Administrator of General Services jointly determine” and “Secretary considers” for “Secretary and the Administrator consider”.
+Subsec. (b). Pub. L. 108–170, § 202(b)(2), substituted “Secretary determines” for “Secretary and the Administrator of General Services jointly determine” and “Secretary considers” for “Secretary and the Administrator consider”.
 
-Subsec. (c). Pub. L. 108–170, § 202(b)(3), substituted “45 days” for “90 days”.
+Subsec. (c). Pub. L. 108–170, § 202(b)(3), substituted “45 days” for “90 days”.
 
-### § 8165. Use of proceeds
+### § 8165. Use of proceeds
 
 **(a)**
 
@@ -5567,7 +5567,7 @@ Subsec. (c). Pub. L. 108–170, § 202(b)(3), substituted “45 days” for �
 
 **(b)** An amount sufficient to pay for any expenses incurred by the Secretary in any fiscal year in connection with an enhanced-use lease shall be deducted from the proceeds of the lease for that fiscal year and may be used by the Secretary to reimburse the account from which the funds were used to pay such expenses. The Secretary may use the proceeds from any enhanced-use lease to reimburse applicable appropriations of the Department for any expenses incurred in the development of additional enhanced-use leases.
 
-(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 421; amended Pub. L. 106–117, title II, § 208(d), Nov. 30, 1999, 113 Stat. 1568; Pub. L. 107–217, § 3(j)(6), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–7, div. K, title I, § 113(d)(1), Feb. 20, 2003, 117 Stat. 483; Pub. L. 108–170, title II, § 202(c), Dec. 6, 2003, 117 Stat. 2048; Pub. L. 108–178, § 4(i)(2), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 108–422, title IV, § 411(e)(4), Nov. 30, 2004, 118 Stat. 2390; Pub. L. 112—154, title II, § 211(f), Aug. 6, 2012, 126 Stat. 1181; Pub. L. 117–168, title VII, § 705(c), Aug. 10, 2022, 136 Stat. 1800.)
+(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 421; amended Pub. L. 106–117, title II, § 208(d), Nov. 30, 1999, 113 Stat. 1568; Pub. L. 107–217, § 3(j)(6), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 108–7, div. K, title I, § 113(d)(1), Feb. 20, 2003, 117 Stat. 483; Pub. L. 108–170, title II, § 202(c), Dec. 6, 2003, 117 Stat. 2048; Pub. L. 108–178, § 4(i)(2), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 108–422, title IV, § 411(e)(4), Nov. 30, 2004, 118 Stat. 2390; Pub. L. 112—154, title II, § 211(f), Aug. 6, 2012, 126 Stat. 1181; Pub. L. 117–168, title VII, § 705(c), Aug. 10, 2022, 136 Stat. 1800.)
 
 **Editorial Notes**
 
@@ -5581,13 +5581,13 @@ Subsec. (c). Pub. L. 108–170, § 202(b)(3), substituted “45 days” for �
 
 2003—Subsec. (a)(1). Pub. L. 108–7 substituted “Department of Veterans Affairs Medical Care Collections Fund established under section 1729A of this title” for “Department of Veterans Affairs Health Services Improvement Fund established under section 1729B of this title”.
 
-Subsec. (a)(2). Pub. L. 108–170, § 202(c)(1), struck out “and remaining after any deduction from such funds under the laws referred to in subsection (c)” after “title”.
+Subsec. (a)(2). Pub. L. 108–170, § 202(c)(1), struck out “and remaining after any deduction from such funds under the laws referred to in subsection (c)” after “title”.
 
-Subsec. (b). Pub. L. 108–170, § 202(c)(2), inserted at end “The Secretary may use the proceeds from any enhanced-use lease to reimburse applicable appropriations of the Department for any expenses incurred in the development of additional enhanced-use leases.”
+Subsec. (b). Pub. L. 108–170, § 202(c)(2), inserted at end “The Secretary may use the proceeds from any enhanced-use lease to reimburse applicable appropriations of the Department for any expenses incurred in the development of additional enhanced-use leases.”
 
 Subsec. (c). Pub. L. 108–178 struck out comma after “of title 40”.
 
-Pub. L. 108–170, § 202(c)(3), struck out subsec. (c) which read as follows: “Subsection (a) does not affect the applicability of subchapter IV of chapter 5 of title 40 with respect to reimbursement of the Administrator of General Services for expenses arising from any disposal of property under section 8164 of this title.”
+Pub. L. 108–170, § 202(c)(3), struck out subsec. (c) which read as follows: “Subsection (a) does not affect the applicability of subchapter IV of chapter 5 of title 40 with respect to reimbursement of the Administrator of General Services for expenses arising from any disposal of property under section 8164 of this title.”
 
 2002—Subsec. (c). Pub. L. 107–217 substituted “subchapter IV of chapter 5 of title 40” for “section 204 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485) or the Act of June 8, 1896 (40 U.S.C. 485a)”.
 
@@ -5599,11 +5599,11 @@ Pub. L. 108–170, § 202(c)(3), struck out subsec. (c) which read as follows:
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 
-### § 8166. Construction standards
+### § 8166. Construction standards
 
 The construction, alteration, repair, remodeling, or improvement of a property that is the subject of an enhanced-use lease shall be carried out so as to comply with all applicable provisions of Federal, State, and local law relating to land use, building standards, permits, and inspections.
 
-(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 421; amended Pub. L. 108–422, title IV, § 417, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 112—154, title II, § 211(g), Aug. 6, 2012, 126 Stat. 1181.)
+(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 421; amended Pub. L. 108–422, title IV, § 417, Nov. 30, 2004, 118 Stat. 2393; Pub. L. 112—154, title II, § 211(g), Aug. 6, 2012, 126 Stat. 1181.)
 
 **Editorial Notes**
 
@@ -5617,13 +5617,13 @@ The construction, alteration, repair, remodeling, or improvement of a property t
 
 2004—Subsec. (a). Pub. L. 108–422 inserted “land use,” after “relating to” in second sentence.
 
-### § 8167. Exemption from State and local taxes
+### § 8167. Exemption from State and local taxes
 
 **(a) Improvements and Operations Not Exempted.—** The improvements and operations on land leased by a person with an enhanced-use lease from the Secretary shall be subject to all applicable provisions of Federal, State, or local law relating to taxation, fees, and assessments.
 
 **(b) Underlying Fee Title Interest Exempted.—** The underlying fee title interest of the United States in any land subject to an enhanced-use lease shall not be subject, directly or indirectly, to any provision of State or local law relating to taxation, fees, or assessments.
 
-(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 421; amended Pub. L. 112—154, title II, § 211(h), Aug. 6, 2012, 126 Stat. 1181.)
+(Added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 421; amended Pub. L. 112—154, title II, § 211(h), Aug. 6, 2012, 126 Stat. 1181.)
 
 **Editorial Notes**
 
@@ -5631,7 +5631,7 @@ The construction, alteration, repair, remodeling, or improvement of a property t
 
 2012—Pub. L. 112–154 amended section generally. Prior to amendment, section read as follows: “The interest of the United States in any property subject to an enhanced-use lease and any use by the United States of such property during such lease shall not be subject, directly or indirectly, to any State or local law relative to taxation, fees, assessments, or special assessments, except sales taxes charged in connection with any construction, alteration, repair, remodeling, or improvement project carried out under the lease.”
 
-### § 8168. Annual reports
+### § 8168. Annual reports
 
 **(a) Report on Administration of Leases.—**
 
@@ -5663,7 +5663,7 @@ The construction, alteration, repair, remodeling, or improvement of a property t
 
 **(E)** Documents of the Department supporting the contents of the report described in subparagraphs (A) through (D).
 
-(Added Pub. L. 112—154, title II, § 211(i)(1), Aug. 6, 2012, 126 Stat. 1181; amended Pub. L. 114–226, § 3(c)(2), Sept. 29, 2016, 130 Stat. 931.)
+(Added Pub. L. 112—154, title II, § 211(i)(1), Aug. 6, 2012, 126 Stat. 1181; amended Pub. L. 114–226, § 3(c)(2), Sept. 29, 2016, 130 Stat. 931.)
 
 **Editorial Notes**
 
@@ -5673,21 +5673,21 @@ The date of the enactment of the Honoring America’s Veterans and Caring for Ca
 
 **Prior Provisions**
 
-A prior section 8168, added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 421, limited number of enhanced-use leases that could be entered into under this subchapter, prior to repeal by Pub. L. 105–114, title II, § 205(b)(1), Nov. 21, 1997, 111 Stat. 2288.
+A prior section 8168, added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 421, limited number of enhanced-use leases that could be entered into under this subchapter, prior to repeal by Pub. L. 105–114, title II, § 205(b)(1), Nov. 21, 1997, 111 Stat. 2288.
 
 **Amendments**
 
-2016—Pub. L. 114–226, § 3(c)(2)(A), substituted “to the congressional veterans’ affairs committees, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate” for “to Congress” wherever appearing.
+2016—Pub. L. 114–226, § 3(c)(2)(A), substituted “to the congressional veterans’ affairs committees, the Committees on Appropriations of the House of Representatives and the Senate, and the Committees on the Budget of the House of Representatives and the Senate” for “to Congress” wherever appearing.
 
-Subsec. (a). Pub. L. 114–226, § 3(c)(2)(B), designated existing provisions as par. (1), substituted “a report on enhanced-use leases.” for “a report identifying the actions taken by the Secretary to implement and administer enhanced-use leases.”, and added par. (2).
+Subsec. (a). Pub. L. 114–226, § 3(c)(2)(B), designated existing provisions as par. (1), substituted “a report on enhanced-use leases.” for “a report identifying the actions taken by the Secretary to implement and administer enhanced-use leases.”, and added par. (2).
 
-Subsec. (b). Pub. L. 114–226, § 3(c)(2)(C), designated existing provisions as par. (1), substituted “this subchapter.” for “this subchapter, along with an overview of how the Secretary is utilizing such consideration to support veterans.”, and added par. (2).
+Subsec. (b). Pub. L. 114–226, § 3(c)(2)(C), designated existing provisions as par. (1), substituted “this subchapter.” for “this subchapter, along with an overview of how the Secretary is utilizing such consideration to support veterans.”, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Elements of Initial Report**
 
-Pub. L. 112—154, title II, § 211(i)(2), Aug. 6, 2012, 126 Stat. 1182, provided that:
+Pub. L. 112—154, title II, § 211(i)(2), Aug. 6, 2012, 126 Stat. 1182, provided that:
 
 > “The first report submitted by the Secretary under section 8168(a) of title 38, United States Code, as added by paragraph (1) [and prior to amendment by Pub. L. 114–226], shall include a summary of those measures the Secretary is taking to address the following recommendations from the February 9, 2012, audit report of the Department of Veterans Affairs Office of Inspector General on enhanced-use leases under subchapter V of chapter 81 of title 38, United States Code:
 
@@ -5703,13 +5703,13 @@ Pub. L. 112—154, title II, § 211(i)(2), Aug. 6, 2012, 126 Stat. 1182, provi
 
 > **“(F)** Establish improved criteria and guidelines for assessing projects to determine whether they are or remain viable candidates for enhanced-use leases.”
 
-### [§ 8169. Repealed. Pub. L. 117–168, title VII, § 705(d), Aug. 10, 2022, 136 Stat. 1800]
+### [§ 8169. Repealed. Pub. L. 117–168, title VII, § 705(d), Aug. 10, 2022, 136 Stat. 1800]
 
-Section, added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 422; amended Pub. L. 103–452, title I, § 103(d), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, § 101(k), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, § 205(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 106–117, title II, § 208(e), Nov. 30, 1999, 113 Stat. 1568; Pub. L. 112—154, title II, § 211(j), Aug. 6, 2012, 126 Stat. 1182, provided that the authority of the Secretary to enter into enhanced-use leases under this subchapter would expire on Dec. 31, 2023.
+Section, added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 422; amended Pub. L. 103–452, title I, § 103(d), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, § 101(k), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, § 205(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 106–117, title II, § 208(e), Nov. 30, 1999, 113 Stat. 1568; Pub. L. 112—154, title II, § 211(j), Aug. 6, 2012, 126 Stat. 1182, provided that the authority of the Secretary to enter into enhanced-use leases under this subchapter would expire on Dec. 31, 2023.
 
 ## SUBCHAPTER VI—INFORMATION TECHNOLOGY PROJECTS AND ACTIVITIES
 
-### § 8171. Definitions
+### § 8171. Definitions
 
 In this subchapter:
 
@@ -5741,9 +5741,9 @@ In this subchapter:
 
 **(6)** The term “business owner” means, with respect to an information technology project, the program manager, project manager, or other supervisory official of the Department responsible for the project.
 
-(Added Pub. L. 117–328, div. U, title IV, § 403(a), Dec. 29, 2022, 136 Stat. 5486.)
+(Added Pub. L. 117–328, div. U, title IV, § 403(a), Dec. 29, 2022, 136 Stat. 5486.)
 
-### § 8172. Management of major information technology projects
+### § 8172. Management of major information technology projects
 
 **(a) Cost, Schedule, and Performance Information.—**
 
@@ -5805,7 +5805,7 @@ In this subchapter:
 
 **(5)** Sufficient other project management, functional, technical, and procurement personnel as the Secretary determines appropriate.
 
-(Added Pub. L. 117–328, div. U, title IV, § 403(a), Dec. 29, 2022, 136 Stat. 5486.)
+(Added Pub. L. 117–328, div. U, title IV, § 403(a), Dec. 29, 2022, 136 Stat. 5486.)
 
 **Editorial Notes**
 
@@ -5817,13 +5817,13 @@ The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole M
 
 **Effective Date**
 
-Pub. L. 117–328, div. U, title IV, § 403(c)(1), (3), Dec. 29, 2022, 136 Stat. 5490, provided that:
+Pub. L. 117–328, div. U, title IV, § 403(c)(1), (3), Dec. 29, 2022, 136 Stat. 5490, provided that:
 
 > **“(1) Current and new major projects.—** Except as specifically provided in subsection (a) of section 8172 of title 38, United States Code, as added by subsection (a) of this section, such section 8172 shall apply with respect to major information technology projects that begin before, on, or after the date of the enactment of this Act [Dec. 29, 2022].
 
 > **“(3) Definitions.—** In this subsection [enacting this note and provisions not set out in the Code], the terms ‘appropriate congressional committees’ and ‘major information technology project’ have the meanings given those terms in section 8171 of title 38, United States Code, as added by subsection (a) of this section.”
 
-### § 8173. Information technology activities of the Financial Services Center
+### § 8173. Information technology activities of the Financial Services Center
 
 **(a) Management.—** Consistent with sections 11302 and 11319 of title 40—
 
@@ -5837,27 +5837,27 @@ Pub. L. 117–328, div. U, title IV, § 403(c)(1), (3), Dec. 29, 2022, 136 Sta
 
 **(b) Oversight.—** The Chief Information Officer shall have oversight and operational authority over all information security practices of the Financial Services Center of the Department.
 
-(Added Pub. L. 117–328, div. U, title IV, § 403(a), Dec. 29, 2022, 136 Stat. 5488.)
+(Added Pub. L. 117–328, div. U, title IV, § 403(a), Dec. 29, 2022, 136 Stat. 5488.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 117–328, div. U, title IV, § 403(d), Dec. 29, 2022, 136 Stat. 5490, provided that:
+Pub. L. 117–328, div. U, title IV, § 403(d), Dec. 29, 2022, 136 Stat. 5490, provided that:
 
 > **“(1) Effective date.—** Section 8173 of such title, as added by subsection (a), shall take effect on the date of the enactment of this Act [Dec. 29, 2022].
 
 > **“(2) Applicability.—** Subsection (a)(2) of such section shall apply with respect to contracts and agreements entered into on or after the date of the enactment of this Act.”
 
-### § 8174. Submission of annual reviews of information technology
+### § 8174. Submission of annual reviews of information technology
 
 **(a) In General.—** The Secretary, acting through the Chief Information Officer of the Department, shall submit to the appropriate congressional committees each annual review of the information technology portfolio of the Department conducted pursuant to section 11319(d)(3) of title 40.
 
 **(b) First Submission.—** The first annual review submitted under subsection (a) shall include a copy of each previous annual review conducted under section 11319(d)(3) of title 40.
 
-(Added Pub. L. 117–328, div. U, title IV, § 403(a), Dec. 29, 2022, 136 Stat. 5488.)
+(Added Pub. L. 117–328, div. U, title IV, § 403(a), Dec. 29, 2022, 136 Stat. 5488.)
 
-### § 8175. Information technology matters to be included in budget justification materials for the Department
+### § 8175. Information technology matters to be included in budget justification materials for the Department
 
 **(a) List of Information Technology Projects in Effect.—** The Secretary shall ensure that whenever the budget justification materials are submitted to Congress in support of the Department budget for a fiscal year (as submitted with the budget of the President for such fiscal year under section 1105(a) of title 31), such budget justification materials include a list of every information technology project currently in effect at the Department (including not only congressional projects and subprojects as determined by the Director of the Office of Management and Budget or the Secretary).
 
@@ -5909,10 +5909,10 @@ Pub. L. 117–328, div. U, title IV, § 403(d), Dec. 29, 2022, 136 Stat. 5490,
 
 **(2)** In addition to the projections under paragraph (1), with respect to each of the periods set forth in such paragraph, the Secretary shall include a description of the funding required for each technology business management category used by the Office of Information Technology of the Department (commonly referred to as “cost pools” and “towers”).
 
-(Added Pub. L. 117–328, div. U, title IV, § 403(a), Dec. 29, 2022, 136 Stat. 5488.)
+(Added Pub. L. 117–328, div. U, title IV, § 403(a), Dec. 29, 2022, 136 Stat. 5488.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Subsection (c)**
 
-Pub. L. 117–328, div. U, title IV, § 403(e), Dec. 29, 2022, 136 Stat. 5491, provided that: “Subsection (c) of section 8175 of such title [meaning title 38, United States Code], as added by subsection (a) of this section, shall take effect on the first Monday in the second January beginning after the date of the enactment of this Act [Dec. 29, 2022].”
+Pub. L. 117–328, div. U, title IV, § 403(e), Dec. 29, 2022, 136 Stat. 5491, provided that: “Subsection (c) of section 8175 of such title [meaning title 38, United States Code], as added by subsection (a) of this section, shall take effect on the first Monday in the second January beginning after the date of the enactment of this Act [Dec. 29, 2022].”

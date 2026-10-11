@@ -15,15 +15,15 @@ retrieved: 2026-10-11
 
 # CHAPTER 44—OCEANS AND HUMAN HEALTH
 
-## § 3101. Interagency oceans and human health research program
+## § 3101. Interagency oceans and human health research program
 
 **(a) Coordination**
 
 The President, through the National Science and Technology Council, shall coordinate and support a national research program to improve understanding of the role of the oceans in human health.
 
-**(b) Implementation plan** Within 1 year after December 8, 2004, the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall develop and submit to the Congress a plan for coordinated Federal activities under the program. Nothing in this subsection is intended to duplicate or supersede the activities of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under section 4001 1
+**(b) Implementation plan** Within 1 year after December 8, 2004, the National Science and Technology Council, through the Director of the Office of Science and Technology Policy shall develop and submit to the Congress a plan for coordinated Federal activities under the program. Nothing in this subsection is intended to duplicate or supersede the activities of the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia established under section 4001 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title. In developing the plan, the Committee will consult with the Inter-Agency Task Force on Harmful Algal Blooms and Hypoxia. Such plan will build on and complement the ongoing activities of the National Oceanic and Atmospheric Administration, the National Science Foundation, and other departments and agencies and shall—
 
@@ -59,7 +59,7 @@ of this title. In developing the plan, the Committee will consult with the Inter
 
 **(G)** predictive models based on indicators of marine environmental health or public health threats.
 
-**(2)** Coordination with the National Ocean Research Leadership Council (10 U.S.C. 8932(a)) <sup>1</sup> to ensure that any integrated ocean and coastal observing system provides information necessary to monitor and reduce marine public health problems including health-related data on biological populations and detection of contaminants in marine waters and seafood.
+**(2)** Coordination with the National Ocean Research Leadership Council (10 U.S.C. 8932(a)) <sup>1</sup> to ensure that any integrated ocean and coastal observing system provides information necessary to monitor and reduce marine public health problems including health-related data on biological populations and detection of contaminants in marine waters and seafood.
 
 **(3)** Development through partnerships among Federal agencies, States, academic institutions, or non-profit research organizations of new technologies and approaches for detecting and reducing hazards to human health from ocean sources and to strengthen understanding of the value of marine biodiversity to biomedicine, including—
 
@@ -87,7 +87,7 @@ of this title. In developing the plan, the Committee will consult with the Inter
 
 **(5)** any recommendations regarding additional action or legislation that may be required to assist in achieving the purposes of this chapter.
 
-(Pub. L. 108–447, div. B, title IX, § 902, Dec. 8, 2004, 118 Stat. 2930; Pub. L. 115–232, div. A, title VIII, § 809(k)(1), Aug. 13, 2018, 132 Stat. 1843.)
+(Pub. L. 108–447, div. B, title IX, § 902, Dec. 8, 2004, 118 Stat. 2930; Pub. L. 115–232, div. A, title VIII, § 809(k)(1), Aug. 13, 2018, 132 Stat. 1843.)
 
 **Editorial Notes**
 
@@ -109,9 +109,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Short Title**
 
-Pub. L. 108–447, div. B, title IX, § 901, Dec. 8, 2004, 118 Stat. 2930, provided that: “This title [enacting this chapter] may be cited as the ‘Oceans and Human Health Act’.”
+Pub. L. 108–447, div. B, title IX, § 901, Dec. 8, 2004, 118 Stat. 2930, provided that: “This title [enacting this chapter] may be cited as the ‘Oceans and Human Health Act’.”
 
-## § 3102. National Oceanic and Atmospheric Administration Oceans and Human Health Initiative
+## § 3102. National Oceanic and Atmospheric Administration Oceans and Human Health Initiative
 
 **(a) Establishment** As part of the interagency oceans and human health research program, the Secretary of Commerce is authorized to establish an Oceans and Human Health Initiative to coordinate and implement research and activities of the National Oceanic and Atmospheric Administration related to the role of the oceans, the coasts, and the Great Lakes in human health. In carrying out this section, the Secretary shall consult with other Federal agencies conducting integrated oceans and human health research and research in related areas, including the National Science Foundation. The Oceans and Human Health Initiative is authorized to provide support for—
 
@@ -139,9 +139,9 @@ The Secretary is authorized to establish an oceans and human health advisory pan
 
 **(d) Extramural research grants**
 
-**(1)** The Secretary is authorized to provide grants of financial assistance to the scientific community for critical research and projects that explore the relationship between the oceans and human health and that complement or strengthen programs and activities of the National Oceanic and Atmospheric Administration related to the ocean’s 1
+**(1)** The Secretary is authorized to provide grants of financial assistance to the scientific community for critical research and projects that explore the relationship between the oceans and human health and that complement or strengthen programs and activities of the National Oceanic and Atmospheric Administration related to the ocean’s 1
 
-<sup>1</sup>  So in original. Probably should be “oceans’ ”.
+<sup>1</sup> So in original. Probably should be “oceans’ ”.
 
 role in human health. Officers and employees of Federal agencies may collaborate with, and participate in, such research and projects to the extent requested by the grant recipient. The Secretary shall consult with the oceans and human health advisory panel established under subsection (b) and may work cooperatively with other agencies participating in the interagency program to establish joint criteria for such research and projects.
 
@@ -151,7 +151,7 @@ role in human health. Officers and employees of Federal agencies may collaborate
 
 The Secretary of Commerce is authorized to establish a program to provide traineeships, training, and experience to pre-doctoral and post-doctoral students and to scientists at the beginning of their careers who are interested in the oceans in human health research conducted under the NOAA initiative.
 
-(Pub. L. 108–447, div. B, title IX, § 903, Dec. 8, 2004, 118 Stat. 2933; Pub. L. 117–286, § 4(a)(206), Dec. 27, 2022, 136 Stat. 4328.)
+(Pub. L. 108–447, div. B, title IX, § 903, Dec. 8, 2004, 118 Stat. 2933; Pub. L. 117–286, § 4(a)(206), Dec. 27, 2022, 136 Stat. 4328.)
 
 **Editorial Notes**
 
@@ -159,11 +159,11 @@ The Secretary of Commerce is authorized to establish a program to provide traine
 
 2022—Subsec. (b). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
-## § 3103. Public information and outreach
+## § 3103. Public information and outreach
 
 The Secretary of Commerce, in consultation with other Federal agencies, and in cooperation with the National Sea Grant program, shall design and implement a program to disseminate information developed under the NOAA Oceans and Human Health Initiative, including research, assessments, and findings regarding the relationship between oceans and human health, on both a regional and national scale. The information, particularly with respect to potential health risks, shall be made available in a timely manner to appropriate Federal or State agencies, involved industries, and other interested persons through a variety of means, including through the Internet.
 
-(Pub. L. 108–447, div. B, title IX, § 904, Dec. 8, 2004, 118 Stat. 2934; Pub. L. 114–327, title VI, § 601, Dec. 16, 2016, 130 Stat. 1998.)
+(Pub. L. 108–447, div. B, title IX, § 904, Dec. 8, 2004, 118 Stat. 2934; Pub. L. 114–327, title VI, § 601, Dec. 16, 2016, 130 Stat. 1998.)
 
 **Editorial Notes**
 
@@ -171,8 +171,8 @@ The Secretary of Commerce, in consultation with other Federal agencies, and in c
 
 2016—Pub. L. 114–327 struck out subsec. (a) designation and heading, realigned margins, and struck out subsec. (b) which related to NOAA Oceans and Human Health Initiative annual report.
 
-## § 3104. Authorization of appropriations
+## § 3104. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary of Commerce to carry out the National Oceanic and Atmospheric Administration Oceans and Human Health Initiative, $60,000,000 for fiscal years 2005 through 2008. Not less than 50 percent of the amounts appropriated to carry out the initiative shall be utilized in each fiscal year to support the extramural grant and traineeship programs of the Initiative.
 
-(Pub. L. 108–447, div. B, title IX, § 905, Dec. 8, 2004, 118 Stat. 2934.)
+(Pub. L. 108–447, div. B, title IX, § 905, Dec. 8, 2004, 118 Stat. 2934.)

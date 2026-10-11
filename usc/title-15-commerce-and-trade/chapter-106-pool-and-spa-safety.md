@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 106—POOL AND SPA SAFETY
 
-## § 8001. Findings
+## § 8001. Findings
 
 Congress finds the following:
 
@@ -27,7 +27,7 @@ Congress finds the following:
 
 **(4)** Research studies show that the installation and proper use of barriers or fencing, as well as additional layers of protection, could substantially reduce the number of childhood residential swimming pool drownings and near drownings.
 
-(Pub. L. 110–140, title XIV, § 1402, Dec. 19, 2007, 121 Stat. 1794.)
+(Pub. L. 110–140, title XIV, § 1402, Dec. 19, 2007, 121 Stat. 1794.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -37,9 +37,9 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 **Short Title**
 
-Pub. L. 110–140, title XIV, § 1401, Dec. 19, 2007, 121 Stat. 1794, provided that: “This title [enacting this chapter] may be cited as the ‘Virginia Graeme Baker Pool and Spa Safety Act’.”
+Pub. L. 110–140, title XIV, § 1401, Dec. 19, 2007, 121 Stat. 1794, provided that: “This title [enacting this chapter] may be cited as the ‘Virginia Graeme Baker Pool and Spa Safety Act’.”
 
-## § 8002. Definitions
+## § 8002. Definitions
 
 In this chapter:
 
@@ -85,15 +85,15 @@ The term “unblockable drain” means a drain of any size and shape that a huma
 
 The term “State” has the meaning given such term in section 2052(a) of this title, and includes the Northern Mariana Islands. For purposes of eligibility for the grants authorized under section 8004 of this title, such term shall also include any political subdivision of a State.
 
-(Pub. L. 110–140, title XIV, § 1403, Dec. 19, 2007, 121 Stat. 1795; Pub. L. 110–314, title II, § 238(1), Aug. 14, 2008, 122 Stat. 3076; Pub. L. 112–10, div. B, title V, § 1576(a), Apr. 15, 2011, 125 Stat. 139; Pub. L. 117–328, div. BB, title IV, § 401, Dec. 29, 2022, 136 Stat. 5562.)
+(Pub. L. 110–140, title XIV, § 1403, Dec. 19, 2007, 121 Stat. 1795; Pub. L. 110–314, title II, § 238(1), Aug. 14, 2008, 122 Stat. 3076; Pub. L. 112–10, div. B, title V, § 1576(a), Apr. 15, 2011, 125 Stat. 139; Pub. L. 117–328, div. BB, title IV, § 401, Dec. 29, 2022, 136 Stat. 5562.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pars. (4) to (9). Pub. L. 117–328, § 401(a), added par. (4) and redesignated former pars. (4) to (8) as (6) to (9), respectively. Former par. (9) redesignated (10).
+2022—Pars. (4) to (9). Pub. L. 117–328, § 401(a), added par. (4) and redesignated former pars. (4) to (8) as (6) to (9), respectively. Former par. (9) redesignated (10).
 
-Par. (10). Pub. L. 117–328, § 401(a)(1), (b), redesignated par. (9) as (10) and substituted “section 2052(a) of this title” for “section 2052(10) of this title”.
+Par. (10). Pub. L. 117–328, § 401(a)(1), (b), redesignated par. (9) as (10) and substituted “section 2052(a) of this title” for “section 2052(10) of this title”.
 
 2011—Par. (8). Pub. L. 112–10 inserted at end “For purposes of eligibility for the grants authorized under section 8004 of this title, such term shall also include any political subdivision of a State.”
 
@@ -105,7 +105,7 @@ Par. (10). Pub. L. 117–328, § 401(a)(1), (b), redesignated par. (9) as (10)
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
-## § 8003. Federal swimming pool and spa drain cover standard
+## § 8003. Federal swimming pool and spa drain cover standard
 
 **(a) Consumer product safety rule**
 
@@ -171,13 +171,13 @@ Any device or system described in subparagraph (A)(ii) shall meet the requiremen
 
 Violation of paragraph (1) shall be considered to be a violation of section 19(a)(1) of the Consumer Product Safety Act (15 U.S.C. 2068(a)(1)) and may also be enforced under section 17 of that Act (15 U.S.C. 2066).
 
-(Pub. L. 110–140, title XIV, § 1404, Dec. 19, 2007, 121 Stat. 1795; Pub. L. 110–314, title II, § 238(2), Aug. 14, 2008, 122 Stat. 3076.)
+(Pub. L. 110–140, title XIV, § 1404, Dec. 19, 2007, 121 Stat. 1795; Pub. L. 110–314, title II, § 238(2), Aug. 14, 2008, 122 Stat. 3076.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
 **Amendments**
 
@@ -189,7 +189,7 @@ The Consumer Product Safety Act, referred to in subsec. (a), is Pub. L. 92–573
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
-## § 8004. Swimming pool safety grant program
+## § 8004. Swimming pool safety grant program
 
 **(a) In general**
 
@@ -231,7 +231,7 @@ Subject to the availability of appropriations authorized by subsection (e), the 
 
 There are authorized to be appropriated to the Commission for fiscal year 2023 $2,500,000 to carry out this section.
 
-(Pub. L. 110–140, title XIV, § 1405, Dec. 19, 2007, 121 Stat. 1796; Pub. L. 112–10, div. B, title V, § 1576(b), Apr. 15, 2011, 125 Stat. 139; Pub. L. 112–74, div. C, title V, § 502, Dec. 23, 2011, 125 Stat. 908; Pub. L. 113–76, div. E, title V, § 501(1), Jan. 17, 2014, 128 Stat. 208; Pub. L. 117–328, div. BB, title IV, § 402(a), Dec. 29, 2022, 136 Stat. 5562.)
+(Pub. L. 110–140, title XIV, § 1405, Dec. 19, 2007, 121 Stat. 1796; Pub. L. 112–10, div. B, title V, § 1576(b), Apr. 15, 2011, 125 Stat. 139; Pub. L. 112–74, div. C, title V, § 502, Dec. 23, 2011, 125 Stat. 908; Pub. L. 113–76, div. E, title V, § 501(1), Jan. 17, 2014, 128 Stat. 208; Pub. L. 117–328, div. BB, title IV, § 402(a), Dec. 29, 2022, 136 Stat. 5562.)
 
 **Editorial Notes**
 
@@ -239,13 +239,13 @@ There are authorized to be appropriated to the Commission for fiscal year 2023 $
 
 2022—Pub. L. 117–328 amended section generally. Prior to amendment, section related to State swimming pool safety grant program.
 
-2014—Subsec. (b)(1)(A). Pub. L. 113–76, § 501(1)(A), substituted “all swimming pools constructed in the State after the date the State submits an application to the Commission for a grant under this section” for “all swimming pools constructed after the date that is 6 months after December 23, 2011, in the State”.
+2014—Subsec. (b)(1)(A). Pub. L. 113–76, § 501(1)(A), substituted “all swimming pools constructed in the State after the date the State submits an application to the Commission for a grant under this section” for “all swimming pools constructed after the date that is 6 months after December 23, 2011, in the State”.
 
-Subsec. (e). Pub. L. 113–76, § 501(1)(B), substituted “There is authorized to be appropriated to the Commission such sums as may be necessary to carry out this section through fiscal year 2016.” for “There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended.” and “the end of fiscal year 2016” for “the end of fiscal year 2012”.
+Subsec. (e). Pub. L. 113–76, § 501(1)(B), substituted “There is authorized to be appropriated to the Commission such sums as may be necessary to carry out this section through fiscal year 2016.” for “There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended.” and “the end of fiscal year 2016” for “the end of fiscal year 2012”.
 
-2011—Subsec. (b)(1)(A). Pub. L. 112–74, § 502(b), inserted “constructed after the date that is 6 months after December 23, 2011,” after “swimming pools”.
+2011—Subsec. (b)(1)(A). Pub. L. 112–74, § 502(b), inserted “constructed after the date that is 6 months after December 23, 2011,” after “swimming pools”.
 
-Subsec. (e). Pub. L. 112–74, § 502(a), substituted “2012” for “2011”.
+Subsec. (e). Pub. L. 112–74, § 502(a), substituted “2012” for “2011”.
 
 Pub. L. 112–10, which directed substitution of “2011” for “2010”, was executed by making the substitution for “2010” the second place appearing to reflect the probable intent of Congress.
 
@@ -255,7 +255,7 @@ Pub. L. 112–10, which directed substitution of “2011” for “2010”, was 
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
-## § 8005. Minimum State law requirements
+## § 8005. Minimum State law requirements
 
 **(a) In general**
 
@@ -345,17 +345,17 @@ Any device or system described in subparagraphs (B) through (E) of paragraph (1)
 
 In this section, the term “State” includes an Indian Tribe.
 
-(Pub. L. 110–140, title XIV, § 1406, Dec. 19, 2007, 121 Stat. 1797; Pub. L. 113–76, div. E, title V, § 501(2), Jan. 17, 2014, 128 Stat. 209; Pub. L. 117–328, div. BB, title IV, § 402(b), Dec. 29, 2022, 136 Stat. 5563.)
+(Pub. L. 110–140, title XIV, § 1406, Dec. 19, 2007, 121 Stat. 1797; Pub. L. 113–76, div. E, title V, § 501(2), Jan. 17, 2014, 128 Stat. 209; Pub. L. 117–328, div. BB, title IV, § 402(b), Dec. 29, 2022, 136 Stat. 5563.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (a)(2). Pub. L. 117–328, § 402(b)(1), substituted “the eligibility of a covered entity” for “the eligibility of a State” in subpars. (A) and (B).
+2022—Subsec. (a)(2). Pub. L. 117–328, § 402(b)(1), substituted “the eligibility of a covered entity” for “the eligibility of a State” in subpars. (A) and (B).
 
-Subsec. (e). Pub. L. 117–328, § 402(b)(2), added subsec. (e).
+Subsec. (e). Pub. L. 117–328, § 402(b)(2), added subsec. (e).
 
-2014—Subsec. (a)(1)(A). Pub. L. 113–76, § 501(2)(A), inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii) and inserted “and” at end, and struck out former cl. (ii) and cls. (iv) and (v) which read as follows:
+2014—Subsec. (a)(1)(A). Pub. L. 113–76, § 501(2)(A), inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii) and inserted “and” at end, and struck out former cl. (ii) and cls. (iv) and (v) which read as follows:
 
 “(ii) that all pools and spas be equipped with devices and systems designed to prevent entrapment by pool or spa drains;
 
@@ -363,7 +363,7 @@ Subsec. (e). Pub. L. 117–328, § 402(b)(2), added subsec. (e).
 
 “(v) that periodic notification is provided to owners of residential swimming pools or spas about compliance with the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard; and”.
 
-Subsec. (a)(2) to (4). Pub. L. 113–76, § 501(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted “paragraph (1)(B)” for “paragraph (1)” in introductory provisions of par. (3), and struck out former par. (2) which read as follows: “The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement.”
+Subsec. (a)(2) to (4). Pub. L. 113–76, § 501(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted “paragraph (1)(B)” for “paragraph (1)” in introductory provisions of par. (3), and struck out former par. (2) which read as follows: “The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -371,7 +371,7 @@ Subsec. (a)(2) to (4). Pub. L. 113–76, § 501(2)(B), (C), redesignated pars.
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
-## § 8006. Education and awareness program
+## § 8006. Education and awareness program
 
 **(a) In general** The Commission shall establish and carry out an education and awareness program to inform the public of methods to prevent drowning and entrapment in swimming pools and spas. In carrying out the program, the Commission shall develop—
 
@@ -385,7 +385,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 There are authorized to be appropriated to the Commission for fiscal year 2023 $2,500,000 to carry out the education and awareness program authorized by subsection (a).
 
-(Pub. L. 110–140, title XIV, § 1407, Dec. 19, 2007, 121 Stat. 1799; Pub. L. 117–328, div. BB, title IV, § 403, Dec. 29, 2022, 136 Stat. 5563.)
+(Pub. L. 110–140, title XIV, § 1407, Dec. 19, 2007, 121 Stat. 1799; Pub. L. 117–328, div. BB, title IV, § 403, Dec. 29, 2022, 136 Stat. 5563.)
 
 **Editorial Notes**
 
@@ -399,11 +399,11 @@ There are authorized to be appropriated to the Commission for fiscal year 2023 $
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
-## § 8007. CPSC report
+## § 8007. CPSC report
 
 Not later than 1 year after the last day of each fiscal year for which grants are made under section 8004 of this title, the Commission shall submit to Congress a report evaluating the implementation of the grant program authorized by that section.
 
-(Pub. L. 110–140, title XIV, § 1408, Dec. 19, 2007, 121 Stat. 1800.)
+(Pub. L. 110–140, title XIV, § 1408, Dec. 19, 2007, 121 Stat. 1800.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -411,15 +411,15 @@ Not later than 1 year after the last day of each fiscal year for which grants ar
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
-## § 8008. Applicability
+## § 8008. Applicability
 
-This chapter 1
+This chapter 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 is applicable to the United States and its territories, including American Samoa, the Commonwealth of Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
 
-(Pub. L. 110–140, title XIV, § 1409, as added Pub. L. 110–314, title II, § 238(3), Aug. 14, 2008, 122 Stat. 3076.)
+(Pub. L. 110–140, title XIV, § 1409, as added Pub. L. 110–314, title II, § 238(3), Aug. 14, 2008, 122 Stat. 3076.)
 
 **Editorial Notes**
 

@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 111–383, div. A, title V, § 505(a)(2), Jan. 7, 2011, 124 Stat. 4210, added item 777a.
+2011—Pub. L. 111–383, div. A, title V, § 505(a)(2), Jan. 7, 2011, 124 Stat. 4210, added item 777a.
 
-1996—Pub. L. 104–106, div. A, title V, § 503(a)(2), Feb. 10, 1996, 110 Stat. 294, added item 777.
+1996—Pub. L. 104–106, div. A, title V, § 503(a)(2), Feb. 10, 1996, 110 Stat. 294, added item 777.
 
-1992—Pub. L. 102–484, div. A, title III, § 377(b), Oct. 23, 1992, 106 Stat. 2387, added item 775 and redesignated former item 775 as 776.
+1992—Pub. L. 102–484, div. A, title III, § 377(b), Oct. 23, 1992, 106 Stat. 2387, added item 775 and redesignated former item 775 as 776.
 
-1987—Pub. L. 100–180, div. A, title V, § 508(b), Dec. 4, 1987, 101 Stat. 1087, added item 774 and redesignated former item 774 as 775.
+1987—Pub. L. 100–180, div. A, title V, § 508(b), Dec. 4, 1987, 101 Stat. 1087, added item 774 and redesignated former item 774 as 775.
 
-1968—Pub. L. 90–235, § 8(1)(B), Jan. 2, 1968, 81 Stat. 764, added item 771a.
+1968—Pub. L. 90–235, § 8(1)(B), Jan. 2, 1968, 81 Stat. 764, added item 771a.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Requirements Relating to Reduction of Out-Of-Pocket Costs of Members of the Armed Forces for Uniform Items**
 
-Pub. L. 117–263, div. A, title III, § 390, Dec. 23, 2022, 136 Stat. 2549, provided that:
+Pub. L. 117–263, div. A, title III, § 390, Dec. 23, 2022, 136 Stat. 2549, provided that:
 
 > **“(a) Tracking Requirement.—** The Secretary of Defense shall take such steps as may be necessary to track the expected useful life of uniform items for officers and enlisted members of the Armed Forces, for the purposes of—
 
@@ -53,7 +53,7 @@ Pub. L. 117–263, div. A, title III, § 390, Dec. 23, 2022, 136 Stat. 2549, p
 
 **Pilot Program for Temporary Issuance of Maternity-Related Uniform Items**
 
-Pub. L. 116–283, div. A, title III, § 361, Jan. 1, 2021, 134 Stat. 3546, provided that:
+Pub. L. 116–283, div. A, title III, § 361, Jan. 1, 2021, 134 Stat. 3546, provided that:
 
 > **“(a) Pilot Program.—** The Director of the Defense Logistics Agency, in coordination with the Secretaries concerned, shall carry out a pilot program for issuing maternity-related uniform items to pregnant members of the Armed Forces, on a temporary basis and at no cost to such member. In carrying out the pilot program, the Director shall take the following actions:
 
@@ -83,11 +83,11 @@ Pub. L. 116–283, div. A, title III, § 361, Jan. 1, 2021, 134 Stat. 3546, pr
 
 **Functional Badge or Insignia Upon Commission for Chaplains**
 
-Pub. L. 116–92, div. A, title V, § 510B, Dec. 20, 2019, 133 Stat. 1348, provided that: “A military chaplain shall receive a functional badge or insignia upon commission.”
+Pub. L. 116–92, div. A, title V, § 510B, Dec. 20, 2019, 133 Stat. 1348, provided that: “A military chaplain shall receive a functional badge or insignia upon commission.”
 
 **Notification Requirements Relating to Changes to Uniform of Members of the Uniformed Services**
 
-Pub. L. 115–232, div. A, title III, § 356, Aug. 13, 2018, 132 Stat. 1732, as amended by Pub. L. 116–283, div. A, title III, § 348, Jan. 1, 2021, 134 Stat. 3542, provided that:
+Pub. L. 115–232, div. A, title III, § 356, Aug. 13, 2018, 132 Stat. 1732, as amended by Pub. L. 116–283, div. A, title III, § 348, Jan. 1, 2021, 134 Stat. 3542, provided that:
 
 > **“(a) Contractor Notification.—** The Director of the Defense Logistics Agency shall notify a contractor when one of the uniformed services plans to make a change to a uniform component that is provided by that contractor. Such a notification shall be made not less than 12 months prior to any announcement of a public solicitation for the manufacture of the new uniform component.
 
@@ -95,7 +95,7 @@ Pub. L. 115–232, div. A, title III, § 356, Aug. 13, 2018, 132 Stat. 1732, a
 
 **Revised Policy on Ground Combat and Camouflage Utility Uniforms**
 
-Pub. L. 113–66, div. A, title III, § 352(a)–(f), Dec. 26, 2013, 127 Stat. 742, 743, provided that:
+Pub. L. 113–66, div. A, title III, § 352(a)–(f), Dec. 26, 2013, 127 Stat. 742, 743, provided that:
 
 > **“(a) Establishment of Policy.—** It is the policy of the United States that the Secretary of Defense shall eliminate the development and fielding of Armed Force-specific combat and camouflage utility uniforms and families of uniforms in order to adopt and field a common combat and camouflage utility uniform or family of uniforms for specific combat environments to be used by all members of the Armed Forces.
 
@@ -141,9 +141,9 @@ Pub. L. 113–66, div. A, title III, § 352(a)–(f), Dec. 26, 2013, 127 Stat.
 
 **Policy on Ground Combat and Camouflage Utility Uniforms**
 
-Pub. L. 111–84, div. A, title III, § 352, Oct. 28, 2009, 123 Stat. 2262, related to policy on ground combat and camouflage utility uniforms, prior to repeal by Pub. L. 113–66, div. A, title III, § 352(g), Dec. 26, 2013, 127 Stat. 743.
+Pub. L. 111–84, div. A, title III, § 352, Oct. 28, 2009, 123 Stat. 2262, related to policy on ground combat and camouflage utility uniforms, prior to repeal by Pub. L. 113–66, div. A, title III, § 352(g), Dec. 26, 2013, 127 Stat. 743.
 
-## § 771. Unauthorized wearing prohibited
+## § 771. Unauthorized wearing prohibited
 
 Except as otherwise provided by law, no person except a member of the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be, may wear—
 
@@ -151,13 +151,13 @@ Except as otherwise provided by law, no person except a member of the Army, Navy
 
 **(2)** a uniform any part of which is similar to a distinctive part of the uniform of the Army, Navy, Air Force, Marine Corps, or Space Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 34; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(N), Jan. 1, 2021, 134 Stat. 3821.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 34; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(N), Jan. 1, 2021, 134 Stat. 3821.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 771 | 10:1393 (1st par., less provisos). | June 3, 1916, ch. 134, § 125 (1st par., less provisos), 39 Stat. 216. |
+| 771 | 10:1393 (1st par., less provisos). | June 3, 1916, ch. 134, § 125 (1st par., less provisos), 39 Stat. 216. |
 
 The words “Except as otherwise provided by law” are inserted to give effect to exceptions in other revised sections of this title and to provisions of other laws giving such organizations as the Coast and Geodetic Survey and the Public Health Service permission to wear military uniforms under certain conditions.
 
@@ -167,7 +167,7 @@ The words “Except as otherwise provided by law” are inserted to give effect 
 
 2021—Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
 
-## § 771a. Disposition on discharge
+## § 771a. Disposition on discharge
 
 **(a)** Except as provided in subsections (b) and (c), when an enlisted member of an armed force is discharged, the exterior articles of uniform in his possession that were issued to him, other than those that he may wear from the place of discharge to his home under section 772(d) of this title, shall be retained for military use.
 
@@ -181,7 +181,7 @@ The words “Except as otherwise provided by law” are inserted to give effect 
 
 **(c)** When an enlisted member of the Army National Guard or the Air National Guard who has been called into Federal service is released from that service, the exterior articles of uniform in his possession shall be accounted for as property issued to the Army National Guard or the Air National Guard, as the case may be, of the State or territory, Puerto Rico, or the District of Columbia of whose Army National Guard or Air National Guard he is a member, as prescribed in section 708 of title 32.
 
-(Added Pub. L. 90–235, § 8(1)(A), Jan. 2, 1968, 81 Stat. 763; amended Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059.)
+(Added Pub. L. 90–235, § 8(1)(A), Jan. 2, 1968, 81 Stat. 763; amended Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
 **Editorial Notes**
 
@@ -189,7 +189,7 @@ The words “Except as otherwise provided by law” are inserted to give effect 
 
 1988—Subsec. (c). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
 
-## § 772. When wearing by persons not on active duty authorized
+## § 772. When wearing by persons not on active duty authorized
 
 **(a)** A member of the Army National Guard or the Air National Guard may wear the uniform prescribed for the Army National Guard or the Air National Guard, as the case may be.
 
@@ -215,17 +215,17 @@ The words “Except as otherwise provided by law” are inserted to give effect 
 
 **(2)** Members of any other organization designated by the Secretary of a military department.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 99–145, title XIII, § 1301(a)(1), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–201, div. A, title V, § 551(b), Sept. 23, 1996, 110 Stat. 2525; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(O), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 118–31, div. A, title XVII, § 1741(b)(2), Dec. 22, 2023, 137 Stat. 680.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 99–145, title XIII, § 1301(a)(1), Nov. 8, 1985, 99 Stat. 735; Pub. L. 101–189, div. A, title XVI, § 1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 104–201, div. A, title V, § 551(b), Sept. 23, 1996, 110 Stat. 2525; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(O), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 118–31, div. A, title XVII, § 1741(b)(2), Dec. 22, 2023, 137 Stat. 680.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 772(a)     772(b)       772(c)       772(d)     772(e) | 10:1393 (words before 1st semicolon of 1st proviso of 1st par.). 10:1393 (15th through 18th words after 1st semicolon of 1st proviso of 1st par.). 10:1023 (1st sentence). 34:43g(i). 34:389 (less 1st and 3d sentences). 10:1393 (words between 3d and 4th semicolons of 1st proviso of 1st par.). 10:1028b. 10:1393 (words between 2d and 3d semicolons of 1st proviso of 1st par.). | June 3, 1916, ch. 134, § 12 (words before 4th semicolon, and words after 7th semicolon, of 1st proviso of 1st par.; and last proviso of last par.), 39 Stat. 216; July 9, 1918, ch. 143, subch. XVII, § 10 (last proviso), 40 Stat. 892; June 4, 1920, ch. 228, § 8, 41 Stat. 836; June 6, 1942, ch. 382, 56 Stat. 328; May 24, 1949, ch. 139, § 15(b) (last proviso), 63 Stat. 91; July 6, 1953, ch. 180, § 1, 67 Stat. 140. |
+| 772(a) 772(b) 772(c) 772(d) 772(e) | 10:1393 (words before 1st semicolon of 1st proviso of 1st par.). 10:1393 (15th through 18th words after 1st semicolon of 1st proviso of 1st par.). 10:1023 (1st sentence). 34:43g(i). 34:389 (less 1st and 3d sentences). 10:1393 (words between 3d and 4th semicolons of 1st proviso of 1st par.). 10:1028b. 10:1393 (words between 2d and 3d semicolons of 1st proviso of 1st par.). | June 3, 1916, ch. 134, § 12 (words before 4th semicolon, and words after 7th semicolon, of 1st proviso of 1st par.; and last proviso of last par.), 39 Stat. 216; July 9, 1918, ch. 143, subch. XVII, § 10 (last proviso), 40 Stat. 892; June 4, 1920, ch. 228, § 8, 41 Stat. 836; June 6, 1942, ch. 382, 56 Stat. 328; May 24, 1949, ch. 139, § 15(b) (last proviso), 63 Stat. 91; July 6, 1953, ch. 180, § 1, 67 Stat. 140. |
 |  | 34:399d. | R.S. 1256 (1st sentence). |
-| 772(f) | 10:1393 (words between 8th and 9th semicolons of 1st proviso of 1st par.). | R.S. 1457 (less 1st and 3d sentences); May 5, 1950, ch. 169, § 14(f), 64 Stat. 147. |
-| 772(g)   772(h) | 10:1393 (last proviso of last par.). 10:1393 (words between 7th and 8th semicolons of 1st proviso of 1st par.). | Apr. 16, 1947, ch. 38, § 207(j), 61 Stat. 50; as redesignated (i); Aug. 7, 1947, ch. 512, § 434(d), 61 Stat. 882. |
-| 772(i)     772(j) | 10:1393 (words after 9th semicolon of 1st proviso of 1st par.). 10:1393 (words between 1st and 2d semicolons of 1st proviso of 1st par., less 15th through 18th words). | June 21, 1930, ch. 563, § 2; restated Aug. 4, 1949, ch. 393, § 12, 63 Stat. 559; July 6, 1953, ch. 180, § 2, 67 Stat. 140. |
+| 772(f) | 10:1393 (words between 8th and 9th semicolons of 1st proviso of 1st par.). | R.S. 1457 (less 1st and 3d sentences); May 5, 1950, ch. 169, § 14(f), 64 Stat. 147. |
+| 772(g) 772(h) | 10:1393 (last proviso of last par.). 10:1393 (words between 7th and 8th semicolons of 1st proviso of 1st par.). | Apr. 16, 1947, ch. 38, § 207(j), 61 Stat. 50; as redesignated (i); Aug. 7, 1947, ch. 512, § 434(d), 61 Stat. 882. |
+| 772(i) 772(j) | 10:1393 (words after 9th semicolon of 1st proviso of 1st par.). 10:1393 (words between 1st and 2d semicolons of 1st proviso of 1st par., less 15th through 18th words). | June 21, 1930, ch. 563, § 2; restated Aug. 4, 1949, ch. 393, § 12, 63 Stat. 559; July 6, 1953, ch. 180, § 2, 67 Stat. 140. |
 
 In subsections (a), (b), (d), (f), (g), (h), (i), and (j), the rules stated in the corresponding clauses of the first proviso of the first paragraph, and the last proviso of the last paragraph, of 10:1393, are restated to make positive the authority of the persons described in those subsections to wear the uniform prescribed for the appropriate organization or activity.
 
@@ -249,9 +249,9 @@ For information regarding the constitutionality of certain provisions of this se
 
 **Amendments**
 
-2023—Subsec. (i). Pub. L. 118–31, § 1741(b)(2)(B), substituted “aviation or space badges of the Air Force or Space Force” for “aviation badges of the Air Force”.
+2023—Subsec. (i). Pub. L. 118–31, § 1741(b)(2)(B), substituted “aviation or space badges of the Air Force or Space Force” for “aviation badges of the Air Force”.
 
-Pub. L. 118–31, § 1741(b)(2)(A), which directed amendment of subsec. (i) by substituting “an Air Force or Space Force school” for “an Air Force School”, was executed by making the substitution for “an Air Force school” to reflect the probable intent of Congress.
+Pub. L. 118–31, § 1741(b)(2)(A), which directed amendment of subsec. (i) by substituting “an Air Force or Space Force school” for “an Air Force School”, was executed by making the substitution for “an Air Force school” to reflect the probable intent of Congress.
 
 2021—Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
 
@@ -265,11 +265,11 @@ Pub. L. 118–31, § 1741(b)(2)(A), which directed amendment of subsec. (i) by
 
 **Ex. Ord. No. 10554. Delegation of Authority To Prescribe Regulations**
 
-Ex. Ord. No. 10554, Aug. 18, 1954, 19 F.R. 5295, as amended by Ex. Ord. No. 13286, § 77, Feb. 28, 2003, 68 F.R. 10631, provided:
+Ex. Ord. No. 10554, Aug. 18, 1954, 19 F.R. 5295, as amended by Ex. Ord. No. 13286, § 77, Feb. 28, 2003, 68 F.R. 10631, provided:
 
 The authority vested in the President (1) by section 125 of the act of June 3, 1916, 39 Stat. 216, as amended by the first section of the act of July 6, 1953, 67 Stat. 140, and (2) by section 2 of the act of June 21, 1930, 46 Stat. 793, as amended by section 2 of said act of July 6, 1953, to prescribe regulations authorizing occasions upon which the uniform may be worn by persons who have served honorably in the armed forces of the United States in time of war is hereby delegated to the Secretary of Defense so far as it pertains to the uniforms of the Army, Navy, Air Force, and Marine Corps, and to the Secretary of Homeland Security so far as it pertains to the uniform of the Coast Guard.
 
-## § 773. When distinctive insignia required
+## § 773. When distinctive insignia required
 
 **(a)** A person for whom one of the following uniforms is prescribed may wear it, if it includes distinctive insignia prescribed by the Secretary of the military department concerned to distinguish it from the uniform of the Army, Navy, Air Force, Marine Corps, or Space Force, as the case may be:
 
@@ -285,13 +285,13 @@ The authority vested in the President (1) by section 125 of the act of June 3, 1
 
 **(c)** Under such regulations as the Secretary of the military department concerned may prescribe, any person who is permitted to attend a course of instruction prescribed for members of a reserve officers’ training corps, and who is not a member of that corps, may, while attending that course of instruction, wear the uniform of that corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 85–355, Mar. 28, 1958, 72 Stat. 66; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(P), Jan. 1, 2021, 134 Stat. 3821.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 85–355, Mar. 28, 1958, 72 Stat. 66; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(P), Jan. 1, 2021, 134 Stat. 3821.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 773(a)       773(b) | 10:1393 (words between 4th and 7th semicolons of 1st proviso, and 2d proviso, of 1st par.). 10:1393 (last proviso of 1st par.). | June 3, 1916, ch. 134, § 125 (words between 4th and 7th semicolons of 1st proviso, and 2d and last provisos, of 1st par.), 39 Stat. 216; June 4, 1920, ch. 228, § 8, 41 Stat. 836; Sept. 15, 1951, ch. 402, 65 Stat. 323; July 6, 1953, ch. 180, § 1, 67 Stat. 140. |
+| 773(a) 773(b) | 10:1393 (words between 4th and 7th semicolons of 1st proviso, and 2d proviso, of 1st par.). 10:1393 (last proviso of 1st par.). | June 3, 1916, ch. 134, § 125 (words between 4th and 7th semicolons of 1st proviso, and 2d and last provisos, of 1st par.), 39 Stat. 216; June 4, 1920, ch. 228, § 8, 41 Stat. 836; Sept. 15, 1951, ch. 402, 65 Stat. 323; July 6, 1953, ch. 180, § 1, 67 Stat. 140. |
 
 In subsection (a), the word “mark” is omitted as surplusage.
 
@@ -305,7 +305,7 @@ In subsection (a)(2), the words “persons discharged honorably or under honorab
 
 1958—Subsec. (c). Pub. L. 85–355 added subsec. (c).
 
-## § 774. Religious apparel: wearing while in uniform
+## § 774. Religious apparel: wearing while in uniform
 
 **(a) General Rule.—** Except as provided under subsection (b), a member of the armed forces may wear an item of religious apparel while wearing the uniform of the member’s armed force.
 
@@ -319,7 +319,7 @@ In subsection (a)(2), the words “persons discharged honorably or under honorab
 
 **(d) Religious Apparel Defined.—** In this section, the term “religious apparel” means apparel the wearing of which is part of the observance of the religious faith practiced by the member.
 
-(Added Pub. L. 100–180, div. A, title V, § 508(a)(2), Dec. 4, 1987, 101 Stat. 1086.)
+(Added Pub. L. 100–180, div. A, title V, § 508(a)(2), Dec. 4, 1987, 101 Stat. 1086.)
 
 **Editorial Notes**
 
@@ -331,9 +331,9 @@ A prior section 774 was renumbered section 776 of this title.
 
 **Regulations**
 
-Pub. L. 100–180, div. A, title V, § 508(c), Dec. 4, 1987, 101 Stat. 1087, directed the Secretary concerned to prescribe the regulations required by subsec. (c) of this section not later than the end of the 120-day period beginning on Dec. 4, 1987.
+Pub. L. 100–180, div. A, title V, § 508(c), Dec. 4, 1987, 101 Stat. 1087, directed the Secretary concerned to prescribe the regulations required by subsec. (c) of this section not later than the end of the 120-day period beginning on Dec. 4, 1987.
 
-## § 775. Issue of uniform without charge
+## § 775. Issue of uniform without charge
 
 **(a) Issue of Uniform.—** The Secretary concerned may issue a uniform, without charge, to any of the following members:
 
@@ -347,7 +347,7 @@ Pub. L. 100–180, div. A, title V, § 508(c), Dec. 4, 1987, 101 Stat. 1087, d
 
 **(b) Retention of Uniform as a Personal Item.—** Notwithstanding section 771a of this title, a uniform issued to a member under this section may be retained by the member as a personal item.
 
-(Added Pub. L. 102–484, div. A, title III, § 377(a)(2), Oct. 23, 1992, 106 Stat. 2386.)
+(Added Pub. L. 102–484, div. A, title III, § 377(a)(2), Oct. 23, 1992, 106 Stat. 2386.)
 
 **Editorial Notes**
 
@@ -355,7 +355,7 @@ Pub. L. 100–180, div. A, title V, § 508(c), Dec. 4, 1987, 101 Stat. 1087, d
 
 A prior section 775 was renumbered section 776 of this title.
 
-## § 776. Applicability of chapter
+## § 776. Applicability of chapter
 
 This chapter applies in—
 
@@ -365,15 +365,15 @@ This chapter applies in—
 
 **(3)** all other places under the jurisdiction of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36, § 774; Pub. L. 99–661, div. A, title XIII, § 1343(a)(1), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, § 3(6), Apr. 21, 1987, 101 Stat. 273; renumbered § 775, Pub. L. 100–180, div. A, title V, § 508(a)(1), Dec. 4, 1987, 101 Stat. 1086; renumbered § 776, Pub. L. 102–484, div. A, title III, § 377(a)(1), Oct. 23, 1992, 106 Stat. 2386.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36, § 774; Pub. L. 99–661, div. A, title XIII, § 1343(a)(1), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–26, § 3(6), Apr. 21, 1987, 101 Stat. 273; renumbered § 775, Pub. L. 100–180, div. A, title V, § 508(a)(1), Dec. 4, 1987, 101 Stat. 1086; renumbered § 776, Pub. L. 102–484, div. A, title III, § 377(a)(1), Oct. 23, 1992, 106 Stat. 2386.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 774 | 10:1393 (less 1st and last pars.). | June 3, 1916, ch. 134, § 125 (less 1st and last pars.), 39 Stat. 216; Apr. 15, 1948, ch. 188, 62 Stat. 172; June 25, 1948, ch. 645, § 21 (as applicable to § 125 of the Act of June 3, 1916, ch. 134), 62 Stat. 864; May 24, 1949, ch. 139, §§ 15(b) (less last par.), 142 (as applicable to the Act of Apr. 15, 1948, ch. 188), 63 Stat. 91, 110. |
+| 774 | 10:1393 (less 1st and last pars.). | June 3, 1916, ch. 134, § 125 (less 1st and last pars.), 39 Stat. 216; Apr. 15, 1948, ch. 188, 62 Stat. 172; June 25, 1948, ch. 645, § 21 (as applicable to § 125 of the Act of June 3, 1916, ch. 134), 62 Stat. 864; May 24, 1949, ch. 139, §§ 15(b) (less last par.), 142 (as applicable to the Act of Apr. 15, 1948, ch. 188), 63 Stat. 91, 110. |
 
-The words “the Canal Zone, Guam, American Samoa, and the Virgin Islands as well as to \* \* \* other” are omitted as covered by the words “possessions, and all other places under its jurisdiction”.
+The words “the Canal Zone, Guam, American Samoa, and the Virgin Islands as well as to \* \* \* other” are omitted as covered by the words “possessions, and all other places under its jurisdiction”.
 
 **Editorial Notes**
 
@@ -391,9 +391,9 @@ Pub. L. 100–26 amended directory language of Pub. L. 99–661. See 1986 Amendm
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–26, § 12(a), Apr. 21, 1987, 101 Stat. 289, provided that: “The amendments made by section 3 [amending this section and sections 1032, 1408, 1450, 1588, 2007, 2364, and 5150 of this title, and section 4703 of Title 20, Education, and amending provisions set out as a note under section 1006 of Title 37, Pay and Allowances of the Uniformed Services] shall apply as if included in Public Law 99–661 when enacted on November 14, 1986.”
+Pub. L. 100–26, § 12(a), Apr. 21, 1987, 101 Stat. 289, provided that: “The amendments made by section 3 [amending this section and sections 1032, 1408, 1450, 1588, 2007, 2364, and 5150 of this title, and section 4703 of Title 20, Education, and amending provisions set out as a note under section 1006 of Title 37, Pay and Allowances of the Uniformed Services] shall apply as if included in Public Law 99–661 when enacted on November 14, 1986.”
 
-## § 777. Wearing of insignia of higher grade before promotion (frocking): authority; restrictions
+## § 777. Wearing of insignia of higher grade before promotion (frocking): authority; restrictions
 
 **(a) Authority.—** An officer in a grade below the grade of major general or, in the case of the Navy, rear admiral, who has been selected for promotion to the next higher grade may be authorized, under regulations and policies of the Department of Defense and subject to subsection (b), to wear the insignia for that next higher grade. An officer who is so authorized to wear the insignia of the next higher grade is said to be “frocked” to that grade.
 
@@ -429,21 +429,21 @@ Pub. L. 100–26, § 12(a), Apr. 21, 1987, 101 Stat. 289, provided that: “Th
 
 **(2)** The number of officers of an armed force on the active-duty list, or for the Space Force, the Space Force officer list, who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under section 523(a) of this title for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
 
-(Added Pub. L. 104–106, div. A, title V, § 503(a)(1), Feb. 10, 1996, 110 Stat. 294; amended Pub. L. 105–85, div. A, title V, § 505, Nov. 18, 1997, 111 Stat. 1726; Pub. L. 106–65, div. A, title V, § 502, Oct. 5, 1999, 113 Stat. 590; Pub. L. 108–136, div. A, title V, § 509(a), Nov. 24, 2003, 117 Stat. 1458; Pub. L. 108–375, div. A, title V, § 503, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 109–163, div. A, title V, §§ 503(c), 504, Jan. 6, 2006, 119 Stat. 3226; Pub. L. 111–383, div. A, title V, § 505(b), Jan. 7, 2011, 124 Stat. 4210; Pub. L. 118–31, div. A, title XVII, § 1722(e), Dec. 22, 2023, 137 Stat. 671.)
+(Added Pub. L. 104–106, div. A, title V, § 503(a)(1), Feb. 10, 1996, 110 Stat. 294; amended Pub. L. 105–85, div. A, title V, § 505, Nov. 18, 1997, 111 Stat. 1726; Pub. L. 106–65, div. A, title V, § 502, Oct. 5, 1999, 113 Stat. 590; Pub. L. 108–136, div. A, title V, § 509(a), Nov. 24, 2003, 117 Stat. 1458; Pub. L. 108–375, div. A, title V, § 503, Oct. 28, 2004, 118 Stat. 1875; Pub. L. 109–163, div. A, title V, §§ 503(c), 504, Jan. 6, 2006, 119 Stat. 3226; Pub. L. 111–383, div. A, title V, § 505(b), Jan. 7, 2011, 124 Stat. 4210; Pub. L. 118–31, div. A, title XVII, § 1722(e), Dec. 22, 2023, 137 Stat. 671.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (d)(2). Pub. L. 118–31 inserted “, or for the Space Force, the Space Force officer list,” after “active-duty list”.
+2023—Subsec. (d)(2). Pub. L. 118–31 inserted “, or for the Space Force, the Space Force officer list,” after “active-duty list”.
 
 2011—Subsec. (b)(3)(B). Pub. L. 111–383 struck out “and a period of 30 days has elapsed after the date of the notification” after “grade”.
 
-2006—Subsec. (a). Pub. L. 109–163, § 503(c), inserted “in a grade below the grade of major general or, in the case of the Navy, rear admiral,” after “An officer” in first sentence.
+2006—Subsec. (a). Pub. L. 109–163, § 503(c), inserted “in a grade below the grade of major general or, in the case of the Navy, rear admiral,” after “An officer” in first sentence.
 
-Subsec. (d)(1). Pub. L. 109–163, § 504(1), substituted “colonels, Navy captains, brigadier generals, and rear admirals (lower half)” for “brigadier generals and Navy rear admirals (lower half)” and “the next higher grade may not exceed 85” for “the grade of major general or rear admiral, as the case may be, may not exceed 30”.
+Subsec. (d)(1). Pub. L. 109–163, § 504(1), substituted “colonels, Navy captains, brigadier generals, and rear admirals (lower half)” for “brigadier generals and Navy rear admirals (lower half)” and “the next higher grade may not exceed 85” for “the grade of major general or rear admiral, as the case may be, may not exceed 30”.
 
-Subsec. (d)(2), (3). Pub. L. 109–163, § 504(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total number of colonels and Navy captains on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the grade of brigadier general or rear admiral (lower half), as the case may be, may not exceed 55.”
+Subsec. (d)(2), (3). Pub. L. 109–163, § 504(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The total number of colonels and Navy captains on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the grade of brigadier general or rear admiral (lower half), as the case may be, may not exceed 55.”
 
 2004—Subsec. (d). Pub. L. 108–375 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
@@ -457,19 +457,19 @@ Subsec. (d)(2), (3). Pub. L. 109–163, § 504(2), (3), redesignated par. (3) 
 
 “(C) After fiscal year 1998, 35.”
 
-1997—Subsec. (d)(2). Pub. L. 105–85 inserted “, or, for the grades of colonel and Navy captain, 2 percent,” after “1 percent”.
+1997—Subsec. (d)(2). Pub. L. 105–85 inserted “, or, for the grades of colonel and Navy captain, 2 percent,” after “1 percent”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–136, div. A, title V, § 509(b), Nov. 24, 2003, 117 Stat. 1459, provided that: “Paragraph (3) of subsection (b) of section 777 of title 10, United States Code, as added by subsection (a), shall not apply with respect to the wearing by an officer of insignia for a grade that was authorized under that section before the date of the enactment of this Act [Nov. 24, 2003].”
+Pub. L. 108–136, div. A, title V, § 509(b), Nov. 24, 2003, 117 Stat. 1459, provided that: “Paragraph (3) of subsection (b) of section 777 of title 10, United States Code, as added by subsection (a), shall not apply with respect to the wearing by an officer of insignia for a grade that was authorized under that section before the date of the enactment of this Act [Nov. 24, 2003].”
 
 **Temporary Variation of Limitations on Numbers of Frocked Officers**
 
-Pub. L. 104–106, div. A, title V, § 503(b), Feb. 10, 1996, 110 Stat. 294, provided that in the administration of former subsec. (d)(2) of this section, the percent limitation applied under that section for fiscal year 1996 would be 2 percent, rather than 1 percent.
+Pub. L. 104–106, div. A, title V, § 503(b), Feb. 10, 1996, 110 Stat. 294, provided that in the administration of former subsec. (d)(2) of this section, the percent limitation applied under that section for fiscal year 1996 would be 2 percent, rather than 1 percent.
 
-## § 777a. Wearing of insignia of higher grade before appointment to a grade above major general or rear admiral (frocking): authority; restrictions
+## § 777a. Wearing of insignia of higher grade before appointment to a grade above major general or rear admiral (frocking): authority; restrictions
 
 **(a) Authority.—** An officer serving in a grade below the grade of lieutenant general or, in the case of the Navy, vice admiral, who has been selected for appointment to the grade of lieutenant general or general, or, in the case of the Navy, vice admiral or admiral, and an officer serving in the grade of lieutenant general or vice admiral who has been selected for appointment to the grade of general or admiral, may be authorized, under regulations and policies of the Department of Defense and subject to subsection (b), to wear the insignia for that higher grade for a period of up to 14 days before assuming the duties of a position for which the higher grade is authorized. An officer who is so authorized to wear the insignia of a higher grade is said to be “frocked” to that grade.
 
@@ -499,4 +499,4 @@ Pub. L. 104–106, div. A, title V, § 503(b), Feb. 10, 1996, 110 Stat. 294, p
 
 **(d) Limitation on Number of Officers Frocked.—** The total number of officers who are authorized to wear the insignia for a higher grade under this section shall count against the limitation in section 777(d) of this title on the total number of officers authorized to wear the insignia of a higher grade.
 
-(Added Pub. L. 111–383, div. A, title V, § 505(a)(1), Jan. 7, 2011, 124 Stat. 4208.)
+(Added Pub. L. 111–383, div. A, title V, § 505(a)(1), Jan. 7, 2011, 124 Stat. 4208.)

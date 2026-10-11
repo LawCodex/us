@@ -19,33 +19,33 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2020—Pub. L. 116–260, div. O, title X, § 1003(c), Dec. 27, 2020, 134 Stat. 2156, struck out item 511A “Unauthorized application of theft prevention decal or device”.
+2020—Pub. L. 116–260, div. O, title X, § 1003(c), Dec. 27, 2020, 134 Stat. 2156, struck out item 511A “Unauthorized application of theft prevention decal or device”.
 
-2001—Pub. L. 107–56, title III, §§ 374(e)(4), 375(d)(4), Oct. 26, 2001, 115 Stat. 340, 341, substituted “, stones, or analog, digital, or electronic images” for “or stones” in items 474 and 481.
+2001—Pub. L. 107–56, title III, §§ 374(e)(4), 375(d)(4), Oct. 26, 2001, 115 Stat. 340, 341, substituted “, stones, or analog, digital, or electronic images” for “or stones” in items 474 and 481.
 
-1996—Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(b)(2)], title II, § 2603(b)(2), Sept. 30, 1996, 110 Stat. 3009–314, 3009–368, 3009–470, amended analysis identically, adding item 514.
+1996—Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(b)(2)], title II, § 2603(b)(2), Sept. 30, 1996, 110 Stat. 3009–314, 3009–368, 3009–470, amended analysis identically, adding item 514.
 
-1994—Pub. L. 103–322, title XII, § 120003(b)(1), title XXII, § 220003(d)(2), title XXXIII, § 330010(14), Sept. 13, 1994, 108 Stat. 2022, 2077, 2144, added item 470, struck out extraneous period after “money” in item 491, and added item 511A.
+1994—Pub. L. 103–322, title XII, § 120003(b)(1), title XXII, § 220003(d)(2), title XXXIII, § 330010(14), Sept. 13, 1994, 108 Stat. 2022, 2077, 2144, added item 470, struck out extraneous period after “money” in item 491, and added item 511A.
 
-1992—Pub. L. 102–550, title XV, § 1553(b), Oct. 28, 1992, 106 Stat. 4071, added item 474A.
+1992—Pub. L. 102–550, title XV, § 1553(b), Oct. 28, 1992, 106 Stat. 4071, added item 474A.
 
-1990—Pub. L. 101–647, title XXXV, § 3513, Nov. 29, 1990, 104 Stat. 4922, substituted “or paper used as money.” for “used as money or similar to coins” in item 491, “matters” for “entry certificates” in item 496, and “stamps, postage meter stamps,” for “stamps” in item 501.
+1990—Pub. L. 101–647, title XXXV, § 3513, Nov. 29, 1990, 104 Stat. 4922, substituted “or paper used as money.” for “used as money or similar to coins” in item 491, “matters” for “entry certificates” in item 496, and “stamps, postage meter stamps,” for “stamps” in item 501.
 
-1986—Pub. L. 99–646, § 31(b), Nov. 10, 1986, 100 Stat. 3598, redesignated second item 510, relating to securities of the State and private entities, as item 513 and substituted “States” for “State”.
+1986—Pub. L. 99–646, § 31(b), Nov. 10, 1986, 100 Stat. 3598, redesignated second item 510, relating to securities of the State and private entities, as item 513 and substituted “States” for “State”.
 
-1984—Pub. L. 98–547, title II, § 201(b), Oct. 25, 1984, 98 Stat. 2770, added items 511 and 512.
+1984—Pub. L. 98–547, title II, § 201(b), Oct. 25, 1984, 98 Stat. 2770, added items 511 and 512.
 
-Pub. L. 98–473, title II, § 1105(b), Oct. 12, 1984, 98 Stat. 2145, added second item 510 “Securities of the State and private entities”.
+Pub. L. 98–473, title II, § 1105(b), Oct. 12, 1984, 98 Stat. 2145, added second item 510 “Securities of the State and private entities”.
 
-1983—Pub. L. 98–151, § 115(c), Nov. 14, 1983, 97 Stat. 977, added item 510, relating to forging endorsements.
+1983—Pub. L. 98–151, § 115(c), Nov. 14, 1983, 97 Stat. 977, added item 510, relating to forging endorsements.
 
-1965—Pub. L. 89–81, title II, § 211(b), July 23, 1965, 79 Stat. 257, struck out “Gold or silver” before “Coins or bars” in item 485.
+1965—Pub. L. 89–81, title II, § 211(b), July 23, 1965, 79 Stat. 257, struck out “Gold or silver” before “Coins or bars” in item 485.
 
-1958—Pub. L. 85–921, § 2, Sept. 2, 1958, 72 Stat. 1771, substituted “Printing and filming of United States and foreign obligations and securities” for “Printing stamps for philatelic purposes” in item 504.
+1958—Pub. L. 85–921, § 2, Sept. 2, 1958, 72 Stat. 1771, substituted “Printing and filming of United States and foreign obligations and securities” for “Printing stamps for philatelic purposes” in item 504.
 
-1951—Act July 16, 1951, ch. 226, § 5(c), 65 Stat. 122, struck out “; publisher’s illustrations excepted” in item 489.
+1951—Act July 16, 1951, ch. 226, § 5(c), 65 Stat. 122, struck out “; publisher’s illustrations excepted” in item 489.
 
-## § 470. Counterfeit acts committed outside the United States
+## § 470. Counterfeit acts committed outside the United States
 
 A person who, outside the United States, engages in the act of—
 
@@ -55,35 +55,35 @@ A person who, outside the United States, engages in the act of—
 
 if such act would constitute a violation of section 471, 473, or 474 if committed within the United States, shall be punished as is provided for the like offense within the United States.
 
-(Added Pub. L. 103–322, title XII, § 120003(a), Sept. 13, 1994, 108 Stat. 2021; amended Pub. L. 107–56, title III, § 374(a), Oct. 26, 2001, 115 Stat. 340.)
+(Added Pub. L. 103–322, title XII, § 120003(a), Sept. 13, 1994, 108 Stat. 2021; amended Pub. L. 107–56, title III, § 374(a), Oct. 26, 2001, 115 Stat. 340.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2001—Pub. L. 107–56, § 374(a)(2), in concluding provisions, substituted “shall be punished as is provided for the like offense within the United States” for “shall be fined under this title, imprisoned not more than 20 years, or both”.
+2001—Pub. L. 107–56, § 374(a)(2), in concluding provisions, substituted “shall be punished as is provided for the like offense within the United States” for “shall be fined under this title, imprisoned not more than 20 years, or both”.
 
-Par. (2). Pub. L. 107–56, § 374(a)(1), inserted “analog, digital, or electronic image,” after “plate, stone,”.
+Par. (2). Pub. L. 107–56, § 374(a)(1), inserted “analog, digital, or electronic image,” after “plate, stone,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–550, title XV, § 1551, Oct. 28, 1992, 106 Stat. 4070, provided that: “This subtitle [subtitle E (§§ 1551–1554) of title XV of Pub. L. 102–550, enacting section 474A of this title and amending sections 474 and 504 of this title] may be cited as the ‘Counterfeit Deterrence Act of 1992’.”
+Pub. L. 102–550, title XV, § 1551, Oct. 28, 1992, 106 Stat. 4070, provided that: “This subtitle [subtitle E (§§ 1551–1554) of title XV of Pub. L. 102–550, enacting section 474A of this title and amending sections 474 and 504 of this title] may be cited as the ‘Counterfeit Deterrence Act of 1992’.”
 
 **Combatting International Counterfeiting of United States Currency**
 
-Pub. L. 104–132, title VIII, § 807, Apr. 24, 1996, 110 Stat. 1308, which directed the Secretary of the Treasury, in consultation with the advanced counterfeit deterrence steering committee, to study the use and counterfeiting of United States currency abroad, develop an evaluation audit plan, and submit written reports to Congress, ceased to be effective on Apr. 24, 2006.
+Pub. L. 104–132, title VIII, § 807, Apr. 24, 1996, 110 Stat. 1308, which directed the Secretary of the Treasury, in consultation with the advanced counterfeit deterrence steering committee, to study the use and counterfeiting of United States currency abroad, develop an evaluation audit plan, and submit written reports to Congress, ceased to be effective on Apr. 24, 2006.
 
-## § 471. Obligations or securities of United States
+## § 471. Obligations or securities of United States
 
 Whoever, with intent to defraud, falsely makes, forges, counterfeits, or alters any obligation or other security of the United States, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 705; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(b), Oct. 26, 2001, 115 Stat. 340.)
+(June 25, 1948, ch. 645, 62 Stat. 705; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(b), Oct. 26, 2001, 115 Stat. 340.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 262 (Mar. 4, 1909, ch. 321, § 148, 35 Stat. 1115).
+Based on title 18, U.S.C., 1940 ed., § 262 (Mar. 4, 1909, ch. 321, § 148, 35 Stat. 1115).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -97,15 +97,15 @@ Changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 472. Uttering counterfeit obligations or securities
+## § 472. Uttering counterfeit obligations or securities
 
 Whoever, with intent to defraud, passes, utters, publishes, or sells, or attempts to pass, utter, publish, or sell, or with like intent brings into the United States or keeps in possession or conceals any falsely made, forged, counterfeited, or altered obligation or other security of the United States, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 705; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(c), Oct. 26, 2001, 115 Stat. 340.)
+(June 25, 1948, ch. 645, 62 Stat. 705; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(c), Oct. 26, 2001, 115 Stat. 340.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 265 (Mar. 4, 1909, ch. 321, § 151, 35 Stat. 1116).
+Based on title 18, U.S.C., 1940 ed., § 265 (Mar. 4, 1909, ch. 321, § 151, 35 Stat. 1116).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -119,15 +119,15 @@ Changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 473. Dealing in counterfeit obligations or securities
+## § 473. Dealing in counterfeit obligations or securities
 
 Whoever buys, sells, exchanges, transfers, receives, or delivers any false, forged, counterfeited, or altered obligation or other security of the United States, with the intent that the same be passed, published, or used as true and genuine, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 705; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(d), Oct. 26, 2001, 115 Stat. 340.)
+(June 25, 1948, ch. 645, 62 Stat. 705; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(d), Oct. 26, 2001, 115 Stat. 340.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 268 (Mar. 4, 1909, ch. 321, § 154, 35 Stat. 1117).
+Based on title 18, U.S.C., 1940 ed., § 268 (Mar. 4, 1909, ch. 321, § 154, 35 Stat. 1117).
 
 Reference to circulating notes of banking associations was omitted as covered by definition of obligation or other security in section 8 of this title.
 
@@ -141,7 +141,7 @@ Changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 474. Plates, stones, or analog, digital, or electronic images for counterfeiting obligations or securities
+## § 474. Plates, stones, or analog, digital, or electronic images for counterfeiting obligations or securities
 
 **(a)** Whoever, having control, custody, or possession of any plate, stone, or other thing, or any part thereof, from which has been printed, or which may be prepared by direction of the Secretary of the Treasury for the purpose of printing, any obligation or other security of the United States, uses such plate, stone, or other thing, or any part thereof, or knowingly suffers the same to be used for the purpose of printing any such or similar obligation or other security, or any part thereof, except as may be printed for the use of the United States by order of the proper officer thereof; or
 
@@ -161,11 +161,11 @@ Is guilty of a class B felony.
 
 **(b)** For purposes of this section, the term “analog, digital, or electronic image” includes any analog, digital, or electronic method used for the making, execution, acquisition, scanning, capturing, recording, retrieval, transmission, or reproduction of any obligation or security, unless such use is authorized by the Secretary of the Treasury. The Secretary shall establish a system (pursuant to section 504) to ensure that the legitimate use of such electronic methods and retention of such reproductions by businesses, hobbyists, press and others shall not be unduly restricted.
 
-(June 25, 1948, ch. 645, 62 Stat. 706; Pub. L. 102–550, title XV, § 1552, Oct. 28, 1992, 106 Stat. 4070; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(a)], title II, § 2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470; Pub. L. 107–56, title III, § 374(e)(1)–(3), Oct. 26, 2001, 115 Stat. 340.)
+(June 25, 1948, ch. 645, 62 Stat. 706; Pub. L. 102–550, title XV, § 1552, Oct. 28, 1992, 106 Stat. 4070; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(a)], title II, § 2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470; Pub. L. 107–56, title III, § 374(e)(1)–(3), Oct. 26, 2001, 115 Stat. 340.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 264 (Mar. 4, 1909, ch. 321, § 150, 35 Stat. 1116).
+Based on title 18, U.S.C., 1940 ed., § 264 (Mar. 4, 1909, ch. 321, § 150, 35 Stat. 1116).
 
 References to persons causing, procuring, assisting or aiding were omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -175,25 +175,25 @@ Changes in phraseology were made.
 
 **Amendments**
 
-2001—Pub. L. 107–56, § 374(e)(3), substituted “, stones, or analog, digital, or electronic images” for “or stones” in section catchline.
+2001—Pub. L. 107–56, § 374(e)(3), substituted “, stones, or analog, digital, or electronic images” for “or stones” in section catchline.
 
-Subsec. (a). Pub. L. 107–56, § 374(e)(1), inserted after second par. “Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person’s control, custody, or possession, an analog, digital, or electronic image of any obligation or other security of the United States; or”.
+Subsec. (a). Pub. L. 107–56, § 374(e)(1), inserted after second par. “Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person’s control, custody, or possession, an analog, digital, or electronic image of any obligation or other security of the United States; or”.
 
-Subsec. (b). Pub. L. 107–56, § 374(e)(2), inserted first sentence and struck out former first sentence which read as follows: “For purposes of this section, the terms ‘plate’, ‘stone’, ‘thing’, or ‘other thing’ includes any electronic method used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury.”
+Subsec. (b). Pub. L. 107–56, § 374(e)(2), inserted first sentence and struck out former first sentence which read as follows: “For purposes of this section, the terms ‘plate’, ‘stone’, ‘thing’, or ‘other thing’ includes any electronic method used for the acquisition, recording, retrieval, transmission, or reproduction of any obligation or other security, unless such use is authorized by the Secretary of the Treasury.”
 
-1996—Subsec. (a). Pub. L. 104–208, §§ 101(f) [title VI, § 648(a)] and 2603(a), amended subsec. (a) identically, substituting “class B felony” for “class C felony” in last par.
+1996—Subsec. (a). Pub. L. 104–208, §§ 101(f) [title VI, § 648(a)] and 2603(a), amended subsec. (a) identically, substituting “class B felony” for “class C felony” in last par.
 
-1992—Subsec. (a). Pub. L. 102–550, § 1552(1)–(4), designated existing provisions as subsec. (a), in sixth undesignated par., substituted “United States—” for “United States; or” at end, struck out seventh undesignated par. which read as follows: “Whoever has or retains in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury or some other proper officer of the United States—”, and amended last undesignated par. generally. Prior to amendment, last par. read as follows: “Shall be fined not more than $5,000 or imprisoned not more than fifteen years, or both.”
+1992—Subsec. (a). Pub. L. 102–550, § 1552(1)–(4), designated existing provisions as subsec. (a), in sixth undesignated par., substituted “United States—” for “United States; or” at end, struck out seventh undesignated par. which read as follows: “Whoever has or retains in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury or some other proper officer of the United States—”, and amended last undesignated par. generally. Prior to amendment, last par. read as follows: “Shall be fined not more than $5,000 or imprisoned not more than fifteen years, or both.”
 
-Subsec. (b). Pub. L. 102–550, § 1552(5), added subsec. (b).
+Subsec. (b). Pub. L. 102–550, § 1552(5), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–368, provided that: “This section [enacting section 514 of this title and amending this section and section 474A of this title] and the amendments made by this section shall become effective on the date of enactment of this Act [Sept. 30, 1996] and shall remain in effect during each fiscal year following that date of enactment.”
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–368, provided that: “This section [enacting section 514 of this title and amending this section and section 474A of this title] and the amendments made by this section shall become effective on the date of enactment of this Act [Sept. 30, 1996] and shall remain in effect during each fiscal year following that date of enactment.”
 
-## § 474A. Deterrents to counterfeiting of obligations and securities
+## § 474A. Deterrents to counterfeiting of obligations and securities
 
 **(a)** Whoever has in his control or possession, after a distinctive paper has been adopted by the Secretary of the Treasury for the obligations and other securities of the United States, any similar paper adapted to the making of any such obligation or other security, except under the authority of the Secretary of the Treasury, is guilty of a class B felony.
 
@@ -209,29 +209,29 @@ Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(c)], Sept. 3
 
 **(B)** which is not otherwise in commercial use or in the public domain and which the Secretary designates as being necessary in preventing the counterfeiting of obligations or other securities of the United States.
 
-(Added Pub. L. 102–550, title XV, § 1553(a), Oct. 28, 1992, 106 Stat. 4070; amended Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(a)], title II, § 2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470.)
+(Added Pub. L. 102–550, title XV, § 1553(a), Oct. 28, 1992, 106 Stat. 4070; amended Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(a)], title II, § 2603(a), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsecs. (a), (b). Pub. L. 104–208, §§ 101(f) [title VI, § 648(a)] and 2603(a), amended section identically, substituting “class B felony” for “class C felony”.
+1996—Subsecs. (a), (b). Pub. L. 104–208, §§ 101(f) [title VI, § 648(a)] and 2603(a), amended section identically, substituting “class B felony” for “class C felony”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and to remain in effect for each fiscal year following Sept. 30, 1996, see section 101(f) [title VI, § 648(c)] of Pub. L. 104–208, set out as a note under section 474 of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and to remain in effect for each fiscal year following Sept. 30, 1996, see section 101(f) [title VI, § 648(c)] of Pub. L. 104–208, set out as a note under section 474 of this title.
 
-## § 475. Imitating obligations or securities; advertisements
+## § 475. Imitating obligations or securities; advertisements
 
 Whoever designs, engraves, prints, makes, or executes, or utters, issues, distributes, circulates, or uses any business or professional card, notice, placard, circular, handbill, or advertisement in the likeness or similitude of any obligation or security of the United States issued under or authorized by any Act of Congress or writes, prints, or otherwise impresses upon or attaches to any such instrument, obligation, or security, or any coin of the United States, any business or professional card, notice, or advertisement, or any notice or advertisement whatever, shall be fined under this title. Nothing in this section applies to evidence of postage payment approved by the United States Postal Service.
 
-(June 25, 1948, ch. 645, 62 Stat. 706; July 16, 1951, ch. 226, § 2, 65 Stat. 122; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–162, title XI, § 1192, Jan. 5, 2006, 119 Stat. 3129.)
+(June 25, 1948, ch. 645, 62 Stat. 706; July 16, 1951, ch. 226, § 2, 65 Stat. 122; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–162, title XI, § 1192, Jan. 5, 2006, 119 Stat. 3129.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 292 (Mar. 4, 1909, ch. 321, § 177, 35 Stat. 1122).
+Based on title 18, U.S.C., 1940 ed., § 292 (Mar. 4, 1909, ch. 321, § 177, 35 Stat. 1122).
 
 Enumeration of obligations of the United States was omitted in view of definition in section 8 of this title.
 
@@ -247,15 +247,15 @@ Changes in phraseology were also made.
 
 1951—Act July 16, 1951, prohibited use of notices or advertising prints or labels on United States coins.
 
-## § 476. Taking impressions of tools used for obligations or securities
+## § 476. Taking impressions of tools used for obligations or securities
 
 Whoever, without authority from the United States, takes, procures, or makes an impression, stamp, analog, digital, or electronic image, or imprint of, from or by the use of any tool, implement, instrument, or thing used or fitted or intended to be used in printing, stamping, or impressing, or in making other tools, implements, instruments, or things to be used or fitted or intended to be used in printing, stamping, or impressing any obligation or other security of the United States, shall be fined under this title or imprisoned not more than 25 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(f), Oct. 26, 2001, 115 Stat. 341.)
+(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(f), Oct. 26, 2001, 115 Stat. 341.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 266 (Mar. 4, 1909, ch. 321, § 152, 35 Stat. 1117).
+Based on title 18, U.S.C., 1940 ed., § 266 (Mar. 4, 1909, ch. 321, § 152, 35 Stat. 1117).
 
 Enumeration of substances on which impressions could be made and enumeration of various kinds of tools to be used were omitted as unnecessary.
 
@@ -271,7 +271,7 @@ Changes in phraseology were also made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 477. Possessing or selling impressions of tools used for obligations or securities
+## § 477. Possessing or selling impressions of tools used for obligations or securities
 
 Whoever, with intent to defraud, possesses, keeps, safeguards, or controls, without authority from the United States, any imprint, stamp, analog, digital, or electronic image, or impression, taken or made upon any substance or material whatsoever, of any tool, implement, instrument or thing, used, fitted or intended to be used, for any of the purposes mentioned in section 476 of this title; or
 
@@ -279,11 +279,11 @@ Whoever, with intent to defraud, sells, gives, or delivers any such imprint, sta
 
 Shall be fined under this title or imprisoned not more than 25 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(g), Oct. 26, 2001, 115 Stat. 341.)
+(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(g), Oct. 26, 2001, 115 Stat. 341.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 267 (Mar. 4, 1909, ch. 321, § 153, 35 Stat. 1117).
+Based on title 18, U.S.C., 1940 ed., § 267 (Mar. 4, 1909, ch. 321, § 153, 35 Stat. 1117).
 
 Changes in phraseology were made.
 
@@ -295,15 +295,15 @@ Changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 478. Foreign obligations or securities
+## § 478. Foreign obligations or securities
 
 Whoever, within the United States, with intent to defraud, falsely makes, alters, forges, or counterfeits any bond, certificate, obligation, or other security of any foreign government, purporting to be or in imitation of any such security issued under the authority of such foreign government, or any treasury note, bill, or promise to pay, lawfully issued by such foreign government and intended to circulate as money, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(a), Oct. 26, 2001, 115 Stat. 341.)
+(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(a), Oct. 26, 2001, 115 Stat. 341.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 270 (Mar. 4, 1909, ch. 321, § 156, 35 Stat. 1117).
+Based on title 18, U.S.C., 1940 ed., § 270 (Mar. 4, 1909, ch. 321, § 156, 35 Stat. 1117).
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -319,15 +319,15 @@ Changes were also made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 479. Uttering counterfeit foreign obligations or securities
+## § 479. Uttering counterfeit foreign obligations or securities
 
 Whoever, within the United States, knowingly and with intent to defraud, utters, passes, or puts off, in payment or negotiation, any false, forged, or counterfeited bond, certificate, obligation, security, treasury note, bill, or promise to pay, mentioned in section 478 of this title, whether or not the same was made, altered, forged, or counterfeited within the United States, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(J), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(b), Oct. 26, 2001, 115 Stat. 341.)
+(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(J), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(b), Oct. 26, 2001, 115 Stat. 341.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 271 (Mar. 4, 1909, ch. 321, § 157, 35 Stat. 1118).
+Based on title 18, U.S.C., 1940 ed., § 271 (Mar. 4, 1909, ch. 321, § 157, 35 Stat. 1118).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -341,15 +341,15 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000”.
 
-## § 480. Possessing counterfeit foreign obligations or securities
+## § 480. Possessing counterfeit foreign obligations or securities
 
 Whoever, within the United States, knowingly and with intent to defraud, possesses or delivers any false, forged, or counterfeit bond, certificate, obligation, security, treasury note, bill, promise to pay, bank note, or bill issued by a bank or corporation of any foreign country, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(c), Oct. 26, 2001, 115 Stat. 341.)
+(June 25, 1948, ch. 645, 62 Stat. 707; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(c), Oct. 26, 2001, 115 Stat. 341.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 274 (Mar. 4, 1909, ch. 321, § 160, 35 Stat. 1118).
+Based on title 18, U.S.C., 1940 ed., § 274 (Mar. 4, 1909, ch. 321, § 160, 35 Stat. 1118).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -363,7 +363,7 @@ Changes were also made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 481. Plates, stones, or analog, digital, or electronic images for counterfeiting foreign obligations or securities
+## § 481. Plates, stones, or analog, digital, or electronic images for counterfeiting foreign obligations or securities
 
 Whoever, within the United States except by lawful authority, controls, holds, or possesses any plate, stone, or other thing, or any part thereof, from which has been printed or may be printed any counterfeit note, bond, obligation, or other security, in whole or in part, of any foreign government, bank, or corporation, or uses such plate, stone, or other thing, or knowingly permits or suffers the same to be used in counterfeiting such foreign obligations, or any part thereof; or
 
@@ -377,11 +377,11 @@ Whoever brings into the United States any counterfeit plate, stone, or other thi
 
 Shall be fined under this title or imprisoned not more than 25 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(d)(1)–(3), Oct. 26, 2001, 115 Stat. 341.)
+(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(d)(1)–(3), Oct. 26, 2001, 115 Stat. 341.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 275 (Mar. 4, 1909, ch. 321, § 161, 35 Stat. 1118).
+Based on title 18, U.S.C., 1940 ed., § 275 (Mar. 4, 1909, ch. 321, § 161, 35 Stat. 1118).
 
 References to persons causing, procuring, assisting or aiding were omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -391,19 +391,19 @@ Changes in phraseology were made.
 
 **Amendments**
 
-2001—Pub. L. 107–56 substituted “, stones, or analog, digital, or electronic images” for “or stones” in section catchline and “25 years” for “five years” in last par. and inserted after second par. “Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person’s control, custody, or possession, an analog, digital, or electronic image of any bond, certificate, obligation, or other security of any foreign government, or of any treasury note, bill, or promise to pay, lawfully issued by such foreign government and intended to circulate as money; or”.
+2001—Pub. L. 107–56 substituted “, stones, or analog, digital, or electronic images” for “or stones” in section catchline and “25 years” for “five years” in last par. and inserted after second par. “Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person’s control, custody, or possession, an analog, digital, or electronic image of any bond, certificate, obligation, or other security of any foreign government, or of any treasury note, bill, or promise to pay, lawfully issued by such foreign government and intended to circulate as money; or”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 
-## § 482. Foreign bank notes
+## § 482. Foreign bank notes
 
 Whoever, within the United States, with intent to defraud, falsely makes, alters, forges, or counterfeits any bank note or bill issued by a bank or corporation of any foreign country, and intended by the law or usage of such foreign country to circulate as money, such bank or corporation being authorized by the laws of such country, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(e), Oct. 26, 2001, 115 Stat. 342.)
+(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(e), Oct. 26, 2001, 115 Stat. 342.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 272 (Mar. 4, 1909, ch. 321, § 158, 35 Stat. 1118).
+Based on title 18, U.S.C., 1940 ed., § 272 (Mar. 4, 1909, ch. 321, § 158, 35 Stat. 1118).
 
 Reference to persons causing, procuring, aiding and assisting was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -419,15 +419,15 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-## § 483. Uttering counterfeit foreign bank notes
+## § 483. Uttering counterfeit foreign bank notes
 
 Whoever, within the United States, utters, passes, puts off, or tenders in payment, with intent to defraud, any such false, forged, altered, or counterfeited bank note or bill, mentioned in section 482 of this title, knowing the same to be so false, forged, altered, and counterfeited, whether or not the same was made, forged, altered, or counterfeited within the United States, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(f), Oct. 26, 2001, 115 Stat. 342.)
+(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 375(f), Oct. 26, 2001, 115 Stat. 342.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 273 (Mar. 4, 1909, ch. 321, § 159, 35 Stat. 1118).
+Based on title 18, U.S.C., 1940 ed., § 273 (Mar. 4, 1909, ch. 321, § 159, 35 Stat. 1118).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -441,15 +441,15 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 484. Connecting parts of different notes
+## § 484. Connecting parts of different notes
 
 Whoever so places or connects together different parts of two or more notes, bills, or other genuine instruments issued under the authority of the United States, or by any foreign government, or corporation, as to produce one instrument, with intent to defraud, shall be guilty of forgery in the same manner as if the parts so put together were falsely made or forged, and shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(h), Oct. 26, 2001, 115 Stat. 341.)
+(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(h), Oct. 26, 2001, 115 Stat. 341.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 276 (Mar. 4, 1909, ch. 321, § 162, 35 Stat. 1119).
+Based on title 18, U.S.C., 1940 ed., § 276 (Mar. 4, 1909, ch. 321, § 162, 35 Stat. 1119).
 
 Minor changes in phraseology were made.
 
@@ -461,7 +461,7 @@ Minor changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 485. Coins or bars
+## § 485. Coins or bars
 
 Whoever falsely makes, forges, or counterfeits any coin or bar in resemblance or similitude of any coin of a denomination higher than 5 cents or any gold or silver bar coined or stamped at any mint or assay office of the United States, or in resemblance or similitude of any foreign gold or silver coin current in the United States or in actual use and circulation as money within the United States; or
 
@@ -469,11 +469,11 @@ Whoever passes, utters, publishes, sells, possesses, or brings into the United S
 
 Shall be fined under this title or imprisoned not more than fifteen years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 89–81, title II, § 211(a), July 23, 1965, 79 Stat. 257; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 708; Pub. L. 89–81, title II, § 211(a), July 23, 1965, 79 Stat. 257; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 277 (Mar. 4, 1909, ch. 321, § 163, 35 Stat. 1119).
+Based on title 18, U.S.C., 1940 ed., § 277 (Mar. 4, 1909, ch. 321, § 163, 35 Stat. 1119).
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -491,19 +491,19 @@ Changes were made in phraseology.
 
 1965—Pub. L. 89–81 struck out “Gold or silver” before “Coins or bars” in section catchline, changed the description of the United States coins covered in first par. from gold or silver coins to any coin of a denomination higher than 5 cents, and made minor structural changes in second par.
 
-## § 486. Uttering coins of gold, silver or other metal
+## § 486. Uttering coins of gold, silver or other metal
 
-Whoever, except as authorized by law, makes or utters or passes, or attempts to utter or pass, any coins of gold or silver or other metal, or alloys of metals, intended for use as current money, whether in the resemblance of coins of the United States or of foreign countries, or of original design, shall be fined under this title 1
+Whoever, except as authorized by law, makes or utters or passes, or attempts to utter or pass, any coins of gold or silver or other metal, or alloys of metals, intended for use as current money, whether in the resemblance of coins of the United States or of foreign countries, or of original design, shall be fined under this title 1
 
-<sup>1</sup>  See 1994 Amendment note below.
+<sup>1</sup> See 1994 Amendment note below.
 
 or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 709; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 709; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 281 (Mar. 4, 1909, ch. 321, § 167, 35 Stat. 1120).
+Based on title 18, U.S.C., 1940 ed., § 281 (Mar. 4, 1909, ch. 321, § 167, 35 Stat. 1120).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -515,7 +515,7 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $2,000”, was executed by making the substitution for “fined not more than $3,000”, to reflect the probable intent of Congress.
 
-## § 487. Making or possessing counterfeit dies for coins
+## § 487. Making or possessing counterfeit dies for coins
 
 Whoever, without lawful authority, makes any die, hub, or mold, or any part thereof, either of steel or plaster, or any other substance, in likeness or similitude, as to the design or the inscription thereon, of any die, hub, or mold designated for the coining or making of any of the genuine gold, silver, nickel, bronze, copper, or other coins coined at the mints of the United States; or
 
@@ -523,11 +523,11 @@ Whoever, without lawful authority, possesses any such die, hub, or mold, or any 
 
 Shall be fined under this title or imprisoned not more than fifteen years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 709; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 709; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 283 (Mar. 4, 1909, ch. 321, § 169, 35 Stat. 1120).
+Based on title 18, U.S.C., 1940 ed., § 283 (Mar. 4, 1909, ch. 321, § 169, 35 Stat. 1120).
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -543,7 +543,7 @@ Changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 488. Making or possessing counterfeit dies for foreign coins
+## § 488. Making or possessing counterfeit dies for foreign coins
 
 Whoever, within the United States, without lawful authority, makes any die, hub, or mold, or any part thereof, either of steel or of plaster, or of any other substance, in the likeness or similitude, as to the design or the inscription thereon, of any die, hub, or mold designated for the coining of the genuine coin of any foreign government; or
 
@@ -551,11 +551,11 @@ Whoever, without lawful authority, possesses any such die, hub, or mold, or any 
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 709; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 709; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 284 (Mar. 4, 1909, ch. 321, § 170, 35 Stat. 1120).
+Based on title 18, U.S.C., 1940 ed., § 284 (Mar. 4, 1909, ch. 321, § 170, 35 Stat. 1120).
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -569,15 +569,15 @@ Changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 489. Making or possessing likeness of coins
+## § 489. Making or possessing likeness of coins
 
 Whoever, within the United States, makes or brings therein from any foreign country, or possesses with intent to sell, give away, or in any other manner uses the same, except under authority of the Secretary of the Treasury or other proper officer of the United States, any token, disk, or device in the likeness or similitude as to design, color, or the inscription thereon of any of the coins of the United States or of any foreign country issued as money, either under the authority of the United States or under the authority of any foreign government shall be fined under this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 709; July 16, 1951, ch. 226, § 3, 65 Stat. 122; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
+(June 25, 1948, ch. 645, 62 Stat. 709; July 16, 1951, ch. 226, § 3, 65 Stat. 122; Pub. L. 103–322, title XXXIII, § 330016(1)(B), Sept. 13, 1994, 108 Stat. 2146.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 285 (Mar. 4, 1909, ch. 321, § 171, 35 Stat. 1121; Feb. 15, 1912, ch. 38, 37 Stat. 64).
+Based on title 18, U.S.C., 1940 ed., § 285 (Mar. 4, 1909, ch. 321, § 171, 35 Stat. 1121; Feb. 15, 1912, ch. 38, 37 Stat. 64).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -591,17 +591,17 @@ Changes were made in phraseology.
 
 1951—Act July 16, 1951, struck out “publisher’s illustrations excepted” in section catchline, struck out from text all language which could be interpreted to prohibit or restrict the making and printing of coin illustrations in magazines and other publications, and gave the Secretary of the Treasury the authority to make exceptions to the application of this section.
 
-## § 490. Minor coins
+## § 490. Minor coins
 
 Whoever falsely makes, forges, or counterfeits any coin in the resemblance or similitude of any of the one-cent and 5-cent coins minted at the mints of the United States; or
 
 Whoever passes, utters, publishes, or sells, or brings into the United States, or possesses any such false, forged, or counterfeited coin, with intent to defraud any person, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 709; Pub. L. 98–216, § 3(b)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 709; Pub. L. 98–216, § 3(b)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 278 (Mar. 4, 1909, ch. 321, § 164, 35 Stat. 1119).
+Based on title 18, U.S.C., 1940 ed., § 278 (Mar. 4, 1909, ch. 321, § 164, 35 Stat. 1119).
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -621,9 +621,9 @@ Changes were made in phraseology.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–216, § 4(c), Feb. 14, 1984, 98 Stat. 7, provided that: “The amendments made by sections 1(3), (4), and (7) and 3(b)(1) of this Act [amending this section and sections 3322, 3528, and 5132 of Title 31, Money and Finance] are effective as of September 13, 1982.”
+Pub. L. 98–216, § 4(c), Feb. 14, 1984, 98 Stat. 7, provided that: “The amendments made by sections 1(3), (4), and (7) and 3(b)(1) of this Act [amending this section and sections 3322, 3528, and 5132 of Title 31, Money and Finance] are effective as of September 13, 1982.”
 
-## § 491. Tokens or paper used as money
+## § 491. Tokens or paper used as money
 
 **(a)** Whoever, being 18 years of age or over, not lawfully authorized, makes, issues, or passes any coin, card, token, or device in metal, or its compounds, intended to be used as money, or whoever, being 18 years of age or over, with intent to defraud, makes, utters, inserts, or uses any card, token, slug, disk, device, paper, or other thing similar in size and shape to any of the lawful coins or other currency of the United States or any coin or other currency not legal tender in the United States, to procure anything of value, or the use or enjoyment of any property or service from any automatic merchandise vending machine, postage-stamp machine, turnstile, fare box, coinbox telephone, parking meter or other lawful receptacle, depository, or contrivance designed to receive or to be operated by lawful coins or other currency of the United States, shall be fined under this title, or imprisoned not more than one year, or both.
 
@@ -633,11 +633,11 @@ Nothing contained in this section shall create immunity from criminal prosecutio
 
 **(c)** “Knowledge or reason to believe”, within the meaning of paragraph (b) of this section, may be shown by proof that any law-enforcement officer has, prior to the commission of the offense with which the defendant is charged, informed the defendant that tokens, slugs, disks, or other devices of the kind manufactured, sold, offered, or advertised for sale by him or exposed or kept with intent to furnish or sell, are being used unlawfully or fraudulently to operate certain specified automatic merchandise vending machines, postage-stamp machines, turnstiles, fare boxes, coin-box telephones, parking meters, or other receptacles, depositories, or contrivances, designed to receive or to be operated by lawful coins of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 710; Pub. L. 87–667, Sept. 19, 1962, 76 Stat. 555; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 710; Pub. L. 87–667, Sept. 19, 1962, 76 Stat. 555; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 282, 282a (Mar. 4, 1909, ch. 321, § 168, 35 Stat. 1120, and § 168a as added Apr. 1, 1944, ch. 151, 58 Stat. 149).
+Based on title 18, U.S.C., 1940 ed., §§ 282, 282a (Mar. 4, 1909, ch. 321, § 168, 35 Stat. 1120, and § 168a as added Apr. 1, 1944, ch. 151, 58 Stat. 149).
 
 Mandatory punishment provision in subsection (a) was rephrased in the alternative.
 
@@ -659,7 +659,7 @@ In paragraph (b) the $3,000 fine was reduced to $1,000 to conform to paragraph (
 
 Subsec. (b). Pub. L. 87–667 substituted “device, paper, or other thing similar” for “device similar”, “paper, or other device issued or authorized in connection with rationing or food and fiber distribution” for “or other device issued or authorized in connection with rationing”, and “devices, papers, or other things are intended to be used unlawfully” for “or other devices may be used unlawfully”, inserted “or other currency” before “of the United States” in two places, and “lawful” before “receptacle, depository”, and provided that nothing in this section shall create immunity from criminal prosecution under the laws of any State, Commonwealth of Puerto Rico, territory, possession, or the District of Columbia.
 
-## § 492. Forfeiture of counterfeit paraphernalia
+## § 492. Forfeiture of counterfeit paraphernalia
 
 All counterfeits of any coins or obligations or other securities of the United States or of any foreign government, or any articles, devices, and other things made, possessed, or used in violation of this chapter or of sections 331–333, 335, 336, 642 or 1720, of this title, or any material or apparatus used or fitted or intended to be used, in the making of such counterfeits, articles, devices or things, found in the possession of any person without authority from the Secretary of the Treasury or other proper officer, shall be forfeited to the United States.
 
@@ -669,11 +669,11 @@ Whenever, except as hereinafter in this section provided, any person interested 
 
 If the seizure involves offenses other than offenses against the coinage, currency, obligations or securities of the United States or any foreign government, the petition for the remission or mitigation of forfeiture shall be referred to the Attorney General, who may remit or mitigate the forfeiture upon such terms as he deems reasonable and just.
 
-(June 25, 1948, ch. 645, 62 Stat. 710; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(A), Nov. 2, 2002, 116 Stat. 1809.)
+(June 25, 1948, ch. 645, 62 Stat. 710; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(A), Nov. 2, 2002, 116 Stat. 1809.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 286 (Mar. 4, 1909, ch. 321, § 172, 35 Stat. 1121; Jan. 27, 1938, ch. 10, § 4, 52 Stat. 7).
+Based on title 18, U.S.C., 1940 ed., § 286 (Mar. 4, 1909, ch. 321, § 172, 35 Stat. 1121; Jan. 27, 1938, ch. 10, § 4, 52 Stat. 7).
 
 Section was materially shortened through merger of former third and fourth sentences with present first and second paragraphs by extending latter to include “articles, devices, and other things”. This necessitated many insertions and deletions in the first two paragraphs, which, however, did not affect the substance of the section.
 
@@ -689,17 +689,17 @@ Changes in phraseology were also made.
 
 2002—Pub. L. 107–273 substituted “under this title” for “not more than $100” in second par.
 
-## § 493. Bonds and obligations of certain lending agencies
+## § 493. Bonds and obligations of certain lending agencies
 
 Whoever falsely makes, forges, counterfeits or alters any note, bond, debenture, coupon, obligation, instrument, or writing in imitation or purporting to be in imitation of, a note, bond, debenture, coupon, obligation, instrument or writing, issued by the Reconstruction Finance Corporation, Federal Deposit Insurance Corporation, National Credit Union Administration, Home Owners’ Loan Corporation, Farm Credit Administration, Department of Housing and Urban Development, or any land bank, intermediate credit bank, insured credit union, bank for cooperatives or any lending, mortgage, insurance, credit or savings and loan corporation or association authorized or acting under the laws of the United States, shall be fined under this title or imprisoned not more than 10 years, or both.
 
 Whoever passes, utters, or publishes, or attempts to pass, utter or publish any note, bond, debenture, coupon, obligation, instrument or document knowing the same to have been falsely made, forged, counterfeited or altered, contrary to the provisions of this section, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 87–353, § 3(p), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, § 24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, § 3, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(i), Oct. 26, 2001, 115 Stat. 341.)
+(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 87–353, § 3(p), Oct. 4, 1961, 75 Stat. 774; Pub. L. 90–19, § 24(a), May 25, 1967, 81 Stat. 27; Pub. L. 91–468, § 3, Oct. 19, 1970, 84 Stat. 1016; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–56, title III, § 374(i), Oct. 26, 2001, 115 Stat. 341.)
 
 **Historical and Revision Notes**
 
-Based on sections 264(t), 982, 1126, 1138d(b), 1316, 1441(b), 1467(b), 1731(b) of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(b) of title 15, U.S.C. 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, § 12B(t), as added June 16, 1933, ch. 89, § 8, 48 Stat. 178, and amended Aug. 23, 1935, ch. 614, § 101, 49 Stat. 684; July 17, 1916, ch. 245, § 31 (second paragraph), 39 Stat. 383; July 17, 1916, ch. 245, § 211(f), as added Mar. 4, 1923, ch. 252, title I, § 2, 42 Stat. 1460; Mar. 4, 1923, ch. 252, title II, § 216(f), 42 Stat. 1472; Jan. 22, 1932, ch. 8, § 16(b), 47 Stat. 11; July 22, 1932, ch. 522, § 21(b), 47 Stat. 738; June 13, 1933, ch. 64, § 8(b), 48 Stat. 134; June 16, 1933, ch. 98, § 64(b), 48 Stat. 268; June 27, 1934, ch. 847, § 512(b), 48 Stat. 1265).
+Based on sections 264(t), 982, 1126, 1138d(b), 1316, 1441(b), 1467(b), 1731(b) of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(b) of title 15, U.S.C. 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, § 12B(t), as added June 16, 1933, ch. 89, § 8, 48 Stat. 178, and amended Aug. 23, 1935, ch. 614, § 101, 49 Stat. 684; July 17, 1916, ch. 245, § 31 (second paragraph), 39 Stat. 383; July 17, 1916, ch. 245, § 211(f), as added Mar. 4, 1923, ch. 252, title I, § 2, 42 Stat. 1460; Mar. 4, 1923, ch. 252, title II, § 216(f), 42 Stat. 1472; Jan. 22, 1932, ch. 8, § 16(b), 47 Stat. 11; July 22, 1932, ch. 522, § 21(b), 47 Stat. 738; June 13, 1933, ch. 64, § 8(b), 48 Stat. 134; June 16, 1933, ch. 98, § 64(b), 48 Stat. 268; June 27, 1934, ch. 847, § 512(b), 48 Stat. 1265).
 
 Each of the nine sections from which this section was derived contained similar provisions with respect to one or more named agencies or corporations. The punishment was the same in each section except that in sections 982, 1126, and 1316 of title 12, U.S.C., 1940 ed., Banks and Banking, the maximum fine was $5,000. This section adopts the $10,000 maximum fine provided in the other six former sections.
 
@@ -745,23 +745,23 @@ The blanket provision for punishment of “any person who willfully violates any
 
 **Abolition of Home Owners’ Loan Corporation**
 
-For dissolution and abolition of Home Owners’ Loan Corporation, referred to in this section, by act June 30, 1953, ch. 170, § 21, 67 Stat. 126, see note set out under section 1463 of Title 12, Banks and Banking.
+For dissolution and abolition of Home Owners’ Loan Corporation, referred to in this section, by act June 30, 1953, ch. 170, § 21, 67 Stat. 126, see note set out under section 1463 of Title 12, Banks and Banking.
 
 **Executive Documents**
 
 **Exceptions From Transfer of Functions**
 
-Functions of corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Abolition of Reconstruction Finance Corporation**
 
-Reorg. Plan No. 1 of 1957, § 6(a), eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished the Reconstruction Finance Corporation.
+Reorg. Plan No. 1 of 1957, § 6(a), eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished the Reconstruction Finance Corporation.
 
 **Farm Credit Administration**
 
 Establishment of Farm Credit Administration as independent agency, and other changes in status, function, etc., see Ex. Ord. No. 6084 set out prec. section 2241 of Title 12, Banks and Banking. See also section 2001 et seq. of Title 12.
 
-## § 494. Contractors’ bonds, bids, and public records
+## § 494. Contractors’ bonds, bids, and public records
 
 Whoever falsely makes, alters, forges, or counterfeits any bond, bid, proposal, contract, guarantee, security, official bond, public record, affidavit, or other writing for the purpose of defrauding the United States; or
 
@@ -771,11 +771,11 @@ Whoever transmits to, or presents at any office or to any officer of the United 
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 72 (Mar. 4, 1909, ch. 321, § 28, 35 Stat. 1094).
+Based on title 18, U.S.C., 1940 ed., § 72 (Mar. 4, 1909, ch. 321, § 28, 35 Stat. 1094).
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -787,7 +787,7 @@ Changes were also made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 495. Contracts, deeds, and powers of attorney
+## § 495. Contracts, deeds, and powers of attorney
 
 Whoever falsely makes, alters, forges, or counterfeits any deed, power of attorney, order, certificate, receipt, contract, or other writing, for the purpose of obtaining or receiving, or of enabling any other person, either directly or indirectly, to obtain or receive from the United States or any officers or agents thereof, any sum of money; or
 
@@ -797,11 +797,11 @@ Whoever transmits to, or presents at any office or officer of the United States,
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 73 (Mar. 4, 1909, ch. 321, § 29, 35 Stat. 1094).
+Based on title 18, U.S.C., 1940 ed., § 73 (Mar. 4, 1909, ch. 321, § 29, 35 Stat. 1094).
 
 Reference in first paragraph to persons causing, procuring, aiding or assisting was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -815,15 +815,15 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 496. Customs matters
+## § 496. Customs matters
 
 Whoever forges, counterfeits or falsely alters any writing made or required to be made in connection with the entry or withdrawal of imports or collection of customs duties, or uses any such writing knowing the same to be forged, counterfeited or falsely altered, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 711; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 119 (Mar. 4, 1909, ch. 321, § 63, 35 Stat. 1100).
+Based on title 18, U.S.C., 1940 ed., § 119 (Mar. 4, 1909, ch. 321, § 63, 35 Stat. 1100).
 
 Section was rewritten to apply to all customs documents or writings. The Treasury Department advises that certificates of entry are obsolete.
 
@@ -837,7 +837,7 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 497. Letters patent
+## § 497. Letters patent
 
 Whoever falsely makes, forges, counterfeits, or alters any letters patent granted or purporting to have been granted by the President of the United States; or
 
@@ -845,11 +845,11 @@ Whoever passes, utters, or publishes, or attempts to pass, utter, or publish as 
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 71 (Mar. 4, 1909, ch. 321, § 27, 35 Stat. 1094).
+Based on title 18, U.S.C., 1940 ed., § 71 (Mar. 4, 1909, ch. 321, § 27, 35 Stat. 1094).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -861,19 +861,19 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 498. Military or naval discharge certificates
+## § 498. Military or naval discharge certificates
 
-Whoever forges, counterfeits, or falsely alters any certificate of discharge from the military or naval service of the United States, or uses, unlawfully possesses or exhibits any such certificate, knowing the same to be forged, counterfeited, or falsely altered, shall be fined under this title 1
+Whoever forges, counterfeits, or falsely alters any certificate of discharge from the military or naval service of the United States, or uses, unlawfully possesses or exhibits any such certificate, knowing the same to be forged, counterfeited, or falsely altered, shall be fined under this title 1
 
-<sup>1</sup>  See 1994 Amendment note below.
+<sup>1</sup> See 1994 Amendment note below.
 
 or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940, ed., § 136 (Mar. 4, 1917, ch. 180, 39 Stat. 1182).
+Based on title 18, U.S.C., 1940, ed., § 136 (Mar. 4, 1917, ch. 180, 39 Stat. 1182).
 
 Reference to any person causing, procuring, aiding or assisting was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -887,15 +887,15 @@ Changes in phraseology were made.
 
 1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $5,000”, was executed by making the substitution for “fined not more than $1,000”, to reflect the probable intent of Congress.
 
-## § 499. Military, naval, or official passes
+## § 499. Military, naval, or official passes
 
 Whoever falsely makes, forges, counterfeits, alters, or tampers with any naval, military, or official pass or permit, issued by or under the authority of the United States, or with intent to defraud uses or possesses any such pass or permit, or personates or falsely represents himself to be or not to be a person to whom such pass or permit has been duly issued, or willfully allows any other person to have or use any such pass or permit, issued for his use alone, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 132 (June 15, 1917, ch. 30, title X, § 3, 40 Stat. 228).
+Based on title 18, U.S.C., 1940 ed., § 132 (June 15, 1917, ch. 30, title X, § 3, 40 Stat. 228).
 
 Changes were made in phraseology.
 
@@ -905,7 +905,7 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-## § 500. Money orders
+## § 500. Money orders
 
 Whoever, with intent to defraud, falsely makes, forges, counterfeits, engraves, or prints any order in imitation of or purporting to be a blank money order or a money order issued by or under the direction of the Post Office Department or Postal Service; or
 
@@ -933,17 +933,17 @@ Whoever, with intent to defraud the United States, the Postal Service, or any pe
 
 Whoever steals, or with intent to defraud or without being lawfully authorized by the Post Office Department or Postal Service, receives, possesses, disposes of or attempts to dispose of any postal money order machine or any stamp, tool, or instrument specifically designed to be used in preparing or filling out the blanks on postal money order forms—
 
-Shall be fined under this title 1
+Shall be fined under this title 1
 
-<sup>1</sup>  See 1994 Amendment note below.
+<sup>1</sup> See 1994 Amendment note below.
 
 or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 91–375, § 6(j)(5), Aug. 12, 1970, 84 Stat. 777; Pub. L. 92–430, Sept. 23, 1972, 86 Stat. 722; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 712; Pub. L. 91–375, § 6(j)(5), Aug. 12, 1970, 84 Stat. 777; Pub. L. 92–430, Sept. 23, 1972, 86 Stat. 722; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 347 (Mar. 4, 1909, ch. 321, § 218, 35 Stat. 1131).
+Based on title 18, U.S.C., 1940 ed., § 347 (Mar. 4, 1909, ch. 321, § 218, 35 Stat. 1131).
 
 References to persons causing, procuring, aiding or assisting were omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -955,7 +955,7 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $10,000”, was executed by making the substitution for “fined not more than $5,000” in last par., to reflect the probable intent of Congress.
 
-1972—Pub. L. 92–430 substituted “a blank money order or a money order issued by or under the direction of” for “a money order issued by” and struck out “, or by any officer or employee thereof” in first par.; substituted “or initials of any person authorized to issue money orders” for “of any officer or employee of the Postal Service,” in second par.; inserted “or attempts to pass, utter or publish” before “any such forged” and substituted “material initials, signature, stamp impression” for “material signature” in fourth par.; inserted “or Postal Service” after “the United States” in fifth par.; inserted sixth and seventh pars.; inserted “, the Postal Service” after “the United States”, and substituted “presents, or causes to be transmitted or presented, any money order” for “or presents to any officer or employee, or at any office of the United States, any money order” and designated material after “knowing the same” as cls. (1) to (3) with minor changes and added cl. (4) in eighth par.; inserted ninth par., and enacted provisions of former seventh par. as tenth par.
+1972—Pub. L. 92–430 substituted “a blank money order or a money order issued by or under the direction of” for “a money order issued by” and struck out “, or by any officer or employee thereof” in first par.; substituted “or initials of any person authorized to issue money orders” for “of any officer or employee of the Postal Service,” in second par.; inserted “or attempts to pass, utter or publish” before “any such forged” and substituted “material initials, signature, stamp impression” for “material signature” in fourth par.; inserted “or Postal Service” after “the United States” in fifth par.; inserted sixth and seventh pars.; inserted “, the Postal Service” after “the United States”, and substituted “presents, or causes to be transmitted or presented, any money order” for “or presents to any officer or employee, or at any office of the United States, any money order” and designated material after “knowing the same” as cls. (1) to (3) with minor changes and added cl. (4) in eighth par.; inserted ninth par., and enacted provisions of former seventh par. as tenth par.
 
 1970—Pub. L. 91–375 inserted reference to Postal Service and substituted “officer or employee” for “postmaster or agent” in first par. and substituted “officer or employee of the Postal Service” for “postmaster, assistant postmaster, chief clerk, or clerk” and “Post Office Department or the Postal Service, or post office department or corporation of any foreign country” for “Post Office Department of the United States, or of any foreign country” in second par.
 
@@ -963,13 +963,13 @@ Changes were made in phraseology.
 
 **Change of Name**
 
-Post Office Department redesignated United States Postal Service pursuant to Pub. L. 91–375, § 6(*o*), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
+Post Office Department redesignated United States Postal Service pursuant to Pub. L. 91–375, § 6(*o*), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
 
 **Effective Date of 1970 Amendment**
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 501. Postage stamps, postage meter stamps, and postal cards
+## § 501. Postage stamps, postage meter stamps, and postal cards
 
 Whoever forges or counterfeits any postage stamp, postage meter stamp, or any stamp printed upon any stamped envelope, or postal card, or any die, plate, or engraving thereof; or
 
@@ -983,11 +983,11 @@ Whoever after such postage stamp, postage meter stamp, stamped envelope, or post
 
 Shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 91–375, § 6(j)(6), Aug. 12, 1970, 84 Stat. 777; Pub. L. 91–448, § 1(a), Oct. 14, 1970, 84 Stat. 920; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 91–375, § 6(j)(6), Aug. 12, 1970, 84 Stat. 777; Pub. L. 91–448, § 1(a), Oct. 14, 1970, 84 Stat. 920; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 348 (Mar. 4, 1909, ch. 321, § 219, 35 Stat. 1132).
+Based on title 18, U.S.C., 1940 ed., § 348 (Mar. 4, 1909, ch. 321, § 219, 35 Stat. 1132).
 
 Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
 
@@ -999,7 +999,7 @@ Minor changes of phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in last par.
 
-1970—Pub. L. 91–448 inserted references to the Postal Service and to postage meter stamps. Pub. L. 91–448, § 1(b), repealed section 6(j)(6) of the Postal Reorganization Act, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719, by which the references to the Postal Service had been inserted earlier.
+1970—Pub. L. 91–448 inserted references to the Postal Service and to postage meter stamps. Pub. L. 91–448, § 1(b), repealed section 6(j)(6) of the Postal Reorganization Act, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 719, by which the references to the Postal Service had been inserted earlier.
 
 Pub. L. 91–375 inserted “or by the Postal Service,” after “Post Office Department,” and substituted “the Department or Postal Service” for “said department” in fourth par. and struck out the comma after “stamped envelope” and “to defraud” and inserted “or the Postal Service” after “Post Office Department” in fifth par.
 
@@ -1007,21 +1007,21 @@ Pub. L. 91–375 inserted “or by the Postal Service,” after “Post Office D
 
 **Change of Name**
 
-Post Office Department redesignated United States Postal Service pursuant to Pub. L. 91–375, § 6(*o*), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
+Post Office Department redesignated United States Postal Service pursuant to Pub. L. 91–375, § 6(*o*), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding section 101 of Title 39, Postal Service.
 
 **Effective Date of 1970 Amendment**
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 502. Postage and revenue stamps of foreign governments
+## § 502. Postage and revenue stamps of foreign governments
 
 Whoever forges, or counterfeits, or knowingly utters or uses any forged or counterfeit postage stamp or revenue stamp of any foreign government, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 349 (Mar. 4, 1909, ch. 321, § 220, 35 Stat. 1132; May 26, 1926, ch. 396, 44 Stat. 653).
+Based on title 18, U.S.C., 1940 ed., § 349 (Mar. 4, 1909, ch. 321, § 220, 35 Stat. 1132; May 26, 1926, ch. 396, 44 Stat. 653).
 
 A paragraph defining “foreign government” was combined with other like provisions to form section 11 of this title. A proviso against repeal, “Provided, however, That nothing in this section shall be held to repeal or modify section 350 of this title [now section 504 of this title]”, was deleted as unnecessary since that section by express reference to this one makes it clear that these sections are in pari materia.
 
@@ -1033,15 +1033,15 @@ Minor changes in phraseology were also made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-## § 503. Postmarking stamps
+## § 503. Postmarking stamps
 
 Whoever forges or counterfeits any postmarking stamp, or impression thereof with intent to make it appear that such impression is a genuine postmark, or makes or knowingly uses or sells, or possesses with intent to use or sell, any forged or counterfeited postmarking stamp, die, plate, or engraving, or such impression thereof, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 349a (Aug. 26, 1935, ch. 692, 49 Stat. 866).
+Based on title 18, U.S.C., 1940 ed., § 349a (Aug. 26, 1935, ch. 692, 49 Stat. 866).
 
 Minor changes in phraseology were made.
 
@@ -1051,7 +1051,7 @@ Minor changes in phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 504. Printing and filming of United States and foreign obligations and securities
+## § 504. Printing and filming of United States and foreign obligations and securities
 
 Notwithstanding any other provision of this chapter, the following are permitted:
 
@@ -1081,11 +1081,11 @@ The Secretary of the Treasury shall prescribe regulations to permit color illust
 
 For the purposes of this section the term “postage stamp” includes postage meter stamps.
 
-(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 85–921, § 1, Sept. 2, 1958, 72 Stat. 1771; Pub. L. 90–353, § 1, June 20, 1968, 82 Stat. 240; Pub. L. 91–448, § 2, Oct. 14, 1970, 84 Stat. 921; Pub. L. 98–369, div. A, title X, § 1077(b)(1), (2), July 18, 1984, 98 Stat. 1054; Pub. L. 102–550, title XV, § 1554, Oct. 28, 1992, 106 Stat. 4071; Pub. L. 104–294, title VI, § 601(e), (f)(3), Oct. 11, 1996, 110 Stat. 3499.)
+(June 25, 1948, ch. 645, 62 Stat. 713; Pub. L. 85–921, § 1, Sept. 2, 1958, 72 Stat. 1771; Pub. L. 90–353, § 1, June 20, 1968, 82 Stat. 240; Pub. L. 91–448, § 2, Oct. 14, 1970, 84 Stat. 921; Pub. L. 98–369, div. A, title X, § 1077(b)(1), (2), July 18, 1984, 98 Stat. 1054; Pub. L. 102–550, title XV, § 1554, Oct. 28, 1992, 106 Stat. 4071; Pub. L. 104–294, title VI, § 601(e), (f)(3), Oct. 11, 1996, 110 Stat. 3499.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 350 (Mar. 3, 1923, ch. 218, 42 Stat. 1437; Jan. 27, 1938, ch. 10, § 2, 52 Stat. 6).
+Based on title 18, U.S.C., 1940 ed., § 350 (Mar. 3, 1923, ch. 218, 42 Stat. 1437; Jan. 27, 1938, ch. 10, § 2, 52 Stat. 6).
 
 Minor changes in phraseology were made.
 
@@ -1093,23 +1093,23 @@ Minor changes in phraseology were made.
 
 **References in Text**
 
-The Migratory Bird Hunting Stamp Act, referred to in par. (1)(i), (ii), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 718 of Title 16 and Tables.
+The Migratory Bird Hunting Stamp Act, referred to in par. (1)(i), (ii), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 718 of Title 16 and Tables.
 
 **Amendments**
 
-1996—Par. (1). Pub. L. 104–294, § 601(e)(1), substituted “The printing” for “the printing” in introductory provisions.
+1996—Par. (1). Pub. L. 104–294, § 601(e)(1), substituted “The printing” for “the printing” in introductory provisions.
 
-Par. (3). Pub. L. 104–294, § 601(e)(2), (f)(3), substituted “The making or importation of” for “the making or importation, of”.
+Par. (3). Pub. L. 104–294, § 601(e)(2), (f)(3), substituted “The making or importation of” for “the making or importation, of”.
 
-1992—Par. (1). Pub. L. 102–550, § 1554(1), (2), in subpar. (D), substituted a period for the comma at end, in provisions following subpar. (D), struck out “for philatelic, numismatic, educational, historical, or newsworthy purposes in articles, books, journals, newspapers, or albums (but not for advertising purposes, except illustrations of stamps and paper money in philatelic or numismatic advertising of legitimate numismatists and dealers in stamps or publishers of or dealers in philatelic or numismatic articles, books, journals, newspapers, or albums).” before “Illustrations permitted”, and inserted at end “The Secretary of the Treasury shall prescribe regulations to permit color illustrations of such currency of the United States as the Secretary determines may be appropriate for such purposes.”
+1992—Par. (1). Pub. L. 102–550, § 1554(1), (2), in subpar. (D), substituted a period for the comma at end, in provisions following subpar. (D), struck out “for philatelic, numismatic, educational, historical, or newsworthy purposes in articles, books, journals, newspapers, or albums (but not for advertising purposes, except illustrations of stamps and paper money in philatelic or numismatic advertising of legitimate numismatists and dealers in stamps or publishers of or dealers in philatelic or numismatic articles, books, journals, newspapers, or albums).” before “Illustrations permitted”, and inserted at end “The Secretary of the Treasury shall prescribe regulations to permit color illustrations of such currency of the United States as the Secretary determines may be appropriate for such purposes.”
 
-Par. (2). Pub. L. 102–550, § 1554(3), added par. (2). Former par. (2) redesignated (3).
+Par. (2). Pub. L. 102–550, § 1554(3), added par. (2). Former par. (2) redesignated (3).
 
-Par. (3). Pub. L. 102–550, § 1554(3), (4), redesignated par. (2) as (3) and struck out “but not for advertising purposes except philatelic advertising,” after “or importation,”.
+Par. (3). Pub. L. 102–550, § 1554(3), (4), redesignated par. (2) as (3) and struck out “but not for advertising purposes except philatelic advertising,” after “or importation,”.
 
-1984—Par. (1)(i). Pub. L. 98–369, § 1077(b)(1), inserted “and stamps issued under the Migratory Bird Hunting Stamp Act of 1934”.
+1984—Par. (1)(i). Pub. L. 98–369, § 1077(b)(1), inserted “and stamps issued under the Migratory Bird Hunting Stamp Act of 1934”.
 
-Par. (1)(ii). Pub. L. 98–369, § 1077(b)(2), inserted “and illustrations of stamps issued under the Migratory Bird Hunting Stamp Act of 1934 in color”.
+Par. (1)(ii). Pub. L. 98–369, § 1077(b)(2), inserted “and illustrations of stamps issued under the Migratory Bird Hunting Stamp Act of 1934 in color”.
 
 1970—Pub. L. 91–448 inserted provision including postage meter stamp within the meaning of postage stamp for the purposes of this section.
 
@@ -1123,15 +1123,15 @@ Par. (1)(ii). Pub. L. 98–369, § 1077(b)(2), inserted “and illustrations o
 
 Amendment by Pub. L. 98–369 effective July 18, 1984, see section 1077(c) of Pub. L. 98–369, set out as a note under section 718e of Title 16, Conservation.
 
-## § 505. Seals of courts; signatures of judges or court officers
+## § 505. Seals of courts; signatures of judges or court officers
 
 Whoever forges the signature of any judge, register, or other officer of any court of the United States, or of any Territory thereof, or forges or counterfeits the seal of any such court, or knowingly concurs in using any such forged or counterfeit signature or seal, for the purpose of authenticating any proceeding or document, or tenders in evidence any such proceeding or document with a false or counterfeit signature of any such judge, register, or other officer, or a false or counterfeit seal of the court, subscribed or attached thereto, knowing such signature or seal to be false or counterfeit, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 236 (Mar. 4, 1909, ch. 321, § 130, 35 Stat. 1112).
+Based on title 18, U.S.C., 1940 ed., § 236 (Mar. 4, 1909, ch. 321, § 130, 35 Stat. 1112).
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -1143,7 +1143,7 @@ Minor changes of phraseology were made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 506. Seals of departments or agencies
+## § 506. Seals of departments or agencies
 
 **(a)** Whoever—
 
@@ -1171,23 +1171,23 @@ with the intent or effect of facilitating an alien’s application for, or recei
 
 **(A)** the issuance of any grant, contract, loan, professional license, or commercial license provided by any agency of the United States or by appropriated funds of the United States; and
 
-**(B)** any retirement, welfare, Social Security, health (including treatment of an emergency medical condition in accordance with section 1903(v) of the Social Security Act (19 1
+**(B)** any retirement, welfare, Social Security, health (including treatment of an emergency medical condition in accordance with section 1903(v) of the Social Security Act (19 1
 
-<sup>1</sup>  So in original. Probably should be “42”.
+<sup>1</sup> So in original. Probably should be “42”.
 
 U.S.C. 1396b(v))), disability, veterans, public housing, education, supplemental nutrition assistance program benefits,2
 
-<sup>2</sup>  So in original. The word “benefits” probably should not appear.
+<sup>2</sup> So in original. The word “benefits” probably should not appear.
 
 or unemployment benefit, or any similar benefit for which payments or assistance are provided by an agency of the United States or by appropriated funds of the United States; and
 
 **(2)** each instance of forgery, counterfeiting, mutilation, or alteration shall constitute a separate offense under this section.
 
-(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title V, § 561, Sept. 30, 1996, 110 Stat. 3009–681; Pub. L. 110–234, title IV, § 4002(b)(1)(E), (2)(M), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(E), (2)(M), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title V, § 561, Sept. 30, 1996, 110 Stat. 3009–681; Pub. L. 110–234, title IV, § 4002(b)(1)(E), (2)(M), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, § 4(a), title IV, § 4002(b)(1)(E), (2)(M), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 **Historical and revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 131 (June 15, 1917, ch. 30, title X, § 2, 40 Stat. 228).
+Based on title 18, U.S.C., 1940 ed., § 131 (June 15, 1917, ch. 30, title X, § 2, 40 Stat. 228).
 
 Reference to persons causing, procuring, aiding or assisting was omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -1205,7 +1205,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (c)(1)(B). Pub. L. 110–246, § 4002(b)(1)(E), (2)(M), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+2008—Subsec. (c)(1)(B). Pub. L. 110–246, § 4002(b)(1)(E), (2)(M), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
 
 1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -1227,7 +1227,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 4002(b)(1)(E), (2)(M) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
-## § 507. Ship’s papers
+## § 507. Ship’s papers
 
 Whoever falsely makes, forges, counterfeits, or alters any instrument in imitation of or purporting to be, an abstract or official copy or certificate of the documentation of any vessel, or a certificate of ownership, pass, or clearance, granted for any vessel, under the authority of the United States, or a permit, debenture, or other official document granted by any officer of the customs by virtue of his office; or
 
@@ -1235,11 +1235,11 @@ Whoever utters, publishes, or passes, or attempts to utter, publish, or pass, as
 
 Shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–304, § 17(d)(2), Oct. 6, 2006, 120 Stat. 1707.)
+(June 25, 1948, ch. 645, 62 Stat. 714; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 109–304, § 17(d)(2), Oct. 6, 2006, 120 Stat. 1707.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 129 (Mar. 4, 1909, ch. 321, § 72, 35 Stat. 1101).
+Based on title 18, U.S.C., 1940 ed., § 129 (Mar. 4, 1909, ch. 321, § 72, 35 Stat. 1101).
 
 The words “passport” and “sea letter” were omitted as obsolete, in view of the Presidential proclamation of April 10, 1815, discontinuing the use of such passports and sea letters.
 
@@ -1261,7 +1261,7 @@ Minor changes of phraseology were made.
 
 All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise in Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than Dec. 31, 1966, by Reorg. Plan No. 1 of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
-## § 508. Transportation requests of Government
+## § 508. Transportation requests of Government
 
 Whoever falsely makes, forges, or counterfeits in whole or in part, any form or request in similitude of the form or request provided by the Government for requesting a common carrier to furnish transportation on account of the United States or any department or agency thereof, or knowingly alters any form or request provided by the Government for requesting a common carrier to furnish transportation on account of the United States or any department or agency thereof; or
 
@@ -1269,11 +1269,11 @@ Whoever knowingly passes, utters, publishes, or sells, or attempts to pass, utte
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 715; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 715; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 146 (Dec. 11, 1926, ch. 2, § 1, 44 Stat. 917).
+Based on title 18, U.S.C., 1940 ed., § 146 (Dec. 11, 1926, ch. 2, § 1, 44 Stat. 917).
 
 References to persons causing, procuring, aiding or assisting were omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -1289,7 +1289,7 @@ Minor changes of phraseology were also made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 509. Possessing and making plates or stones for Government transportation requests
+## § 509. Possessing and making plates or stones for Government transportation requests
 
 Whoever, except by lawful authority, controls, holds or possesses any plate, stone, or other thing, or any part thereof, from which has been printed or may be printed any form or request for Government transportation, or uses such plate, stone, or other thing, or knowingly permits or suffers the same to be used in making any such form or request or any part of such a form or request; or
 
@@ -1301,11 +1301,11 @@ Whoever brings into the United States or any place subject to the jurisdiction t
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 715; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 715; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 147 (Dec. 11, 1926, ch. 2, § 2, 44 Stat. 918).
+Based on title 18, U.S.C., 1940 ed., § 147 (Dec. 11, 1926, ch. 2, § 2, 44 Stat. 918).
 
 References to persons causing, procuring, aiding or assisting were omitted as unnecessary as such persons are made principals by section 2 of this title.
 
@@ -1319,7 +1319,7 @@ Minor changes in phraseology were also made.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 
-## § 510. Forging endorsements on Treasury checks or bonds or securities of the United States
+## § 510. Forging endorsements on Treasury checks or bonds or securities of the United States
 
 **(a)** Whoever, with intent to defraud—
 
@@ -1333,7 +1333,7 @@ shall be fined under this title or imprisoned not more than ten years, or both.
 
 **(c)** If the face value of the Treasury check or bond or security of the United States or the aggregate face value, if more than one Treasury check or bond or security of the United States, does not exceed $1,000, in any of the above-mentioned offenses, the penalty shall be a fine under this title or imprisonment for not more than one year, or both.
 
-(Added Pub. L. 98–151, § 115(a), Nov. 14, 1983, 97 Stat. 976; amended Pub. L. 101–647, title XXXV, § 3514, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §§ 602(e), 606(b), Oct. 11, 1996, 110 Stat. 3503, 3511; Pub. L. 107–273, div. B, title IV, § 4002(a)(1), Nov. 2, 2002, 116 Stat. 1806.)
+(Added Pub. L. 98–151, § 115(a), Nov. 14, 1983, 97 Stat. 976; amended Pub. L. 101–647, title XXXV, § 3514, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, § 330016(1)(H), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, §§ 602(e), 606(b), Oct. 11, 1996, 110 Stat. 3503, 3511; Pub. L. 107–273, div. B, title IV, § 4002(a)(1), Nov. 2, 2002, 116 Stat. 1806.)
 
 **Editorial Notes**
 
@@ -1341,17 +1341,17 @@ shall be fined under this title or imprisoned not more than ten years, or both.
 
 2002—Subsec. (c). Pub. L. 107–273 substituted “fine under this title” for “fine of under this title”.
 
-1996—Subsec. (b). Pub. L. 104–294, § 602(e), struck out “that in fact is stolen or bears a forged or falsely made endorsement or signature” after “bond or security of the United States”.
+1996—Subsec. (b). Pub. L. 104–294, § 602(e), struck out “that in fact is stolen or bears a forged or falsely made endorsement or signature” after “bond or security of the United States”.
 
-Subsec. (c). Pub. L. 104–294, § 606(b), substituted “$1,000” for “$500”.
+Subsec. (c). Pub. L. 104–294, § 606(b), substituted “$1,000” for “$500”.
 
-1994—Subsecs. (a), (b). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
+1994—Subsecs. (a), (b). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 
-Subsec. (c). Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000”.
+Subsec. (c). Pub. L. 103–322, § 330016(1)(H), substituted “fined under this title” for “fined not more than $1,000”.
 
 1990—Subsec. (a). Pub. L. 101–647 inserted semicolon after “or signature” in par. (2) and moved provisions beginning with “shall be fined” flush with left margin.
 
-## § 511. Altering or removing motor vehicle identification numbers
+## § 511. Altering or removing motor vehicle identification numbers
 
 **(a)** A person who—
 
@@ -1401,7 +1401,7 @@ but such term does not include any activity of any such person relating to the r
 
 **(d)** For purposes of subsection (a) of this section, the term “tampers with” includes covering a program decal or device affixed to a motor vehicle pursuant to the Motor Vehicle Theft Prevention Act for the purpose of obstructing its visibility.
 
-(Added Pub. L. 98–547, title II, § 201(a), Oct. 25, 1984, 98 Stat. 2768; amended Pub. L. 103–272, § 5(e)(3), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXII, § 220003(a)–(c), Sept. 13, 1994, 108 Stat. 2076, 2077; Pub. L. 104–294, title VI, § 604(b)(8), Oct. 11, 1996, 110 Stat. 3507.)
+(Added Pub. L. 98–547, title II, § 201(a), Oct. 25, 1984, 98 Stat. 2768; amended Pub. L. 103–272, § 5(e)(3), July 5, 1994, 108 Stat. 1373; Pub. L. 103–322, title XXII, § 220003(a)–(c), Sept. 13, 1994, 108 Stat. 2076, 2077; Pub. L. 104–294, title VI, § 604(b)(8), Oct. 11, 1996, 110 Stat. 3507.)
 
 **Editorial Notes**
 
@@ -1417,15 +1417,15 @@ Another section 511 was renumbered section 513 of this title.
 
 1996—Subsec. (b)(2)(D). Pub. L. 104–294 realigned margins.
 
-1994—Subsec. (a). Pub. L. 103–322, § 220003(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly removes, obliterates, tampers with, or alters an identification number for a motor vehicle, or motor vehicle part, shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
+1994—Subsec. (a). Pub. L. 103–322, § 220003(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly removes, obliterates, tampers with, or alters an identification number for a motor vehicle, or motor vehicle part, shall be fined not more than $10,000 or imprisoned not more than five years, or both.”
 
-Subsec. (b)(2)(D). Pub. L. 103–322, § 220003(b), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 103–322, § 220003(b), added subpar. (D).
 
-Subsec. (c)(1). Pub. L. 103–272, § 5(e)(3)(A), substituted “chapter 301 and part C of subtitle VI of title 49” for “the National Traffic and Motor Vehicle Safety Act of 1966, or the Motor Vehicle Information and Cost Savings Act”.
+Subsec. (c)(1). Pub. L. 103–272, § 5(e)(3)(A), substituted “chapter 301 and part C of subtitle VI of title 49” for “the National Traffic and Motor Vehicle Safety Act of 1966, or the Motor Vehicle Information and Cost Savings Act”.
 
-Subsec. (c)(2). Pub. L. 103–272, § 5(e)(3)(B), substituted “section 32101 of title 49” for “section 2 of the Motor Vehicle Information and Cost Savings Act”.
+Subsec. (c)(2). Pub. L. 103–272, § 5(e)(3)(B), substituted “section 32101 of title 49” for “section 2 of the Motor Vehicle Information and Cost Savings Act”.
 
-Subsec. (d). Pub. L. 103–322, § 220003(c), added subsec. (d).
+Subsec. (d). Pub. L. 103–322, § 220003(c), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1433,11 +1433,11 @@ Subsec. (d). Pub. L. 103–322, § 220003(c), added subsec. (d).
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of this title.
 
-## [§ 511A. Repealed. Pub. L. 116–260, div. O, title X, § 1002(2), Dec. 27, 2020, 134 Stat. 2155]
+## [§ 511A. Repealed. Pub. L. 116–260, div. O, title X, § 1002(2), Dec. 27, 2020, 134 Stat. 2155]
 
-Section, added Pub. L. 103–322, title XXII, § 220003(d)(1), Sept. 13, 1994, 108 Stat. 2077, related to unauthorized application of theft prevention decal or device.
+Section, added Pub. L. 103–322, title XXII, § 220003(d)(1), Sept. 13, 1994, 108 Stat. 2077, related to unauthorized application of theft prevention decal or device.
 
-## § 512. Forfeiture of certain motor vehicles and motor vehicle parts
+## § 512. Forfeiture of certain motor vehicles and motor vehicle parts
 
 **(a)** If an identification number for a motor vehicle or motor vehicle part is removed, obliterated, tampered with, or altered, such vehicle or part shall be subject to seizure and forfeiture to the United States unless—
 
@@ -1467,7 +1467,7 @@ shall apply to seizures and forfeitures under this section, to the extent that s
 
 **(c)** As used in this section, the terms “identification number”, “motor vehicle”, and “motor vehicle scrap processor” have the meanings given those terms in section 511 of this title.
 
-(Added Pub. L. 98–547, title II, § 201(a), Oct. 25, 1984, 98 Stat. 2769; amended Pub. L. 103–272, § 5(e)(4), July 5, 1994, 108 Stat. 1373.)
+(Added Pub. L. 98–547, title II, § 201(a), Oct. 25, 1984, 98 Stat. 2769; amended Pub. L. 103–272, § 5(e)(4), July 5, 1994, 108 Stat. 1373.)
 
 **Editorial Notes**
 
@@ -1475,11 +1475,11 @@ shall apply to seizures and forfeitures under this section, to the extent that s
 
 1994—Subsec. (a)(2)(A). Pub. L. 103–272 substituted “chapter 301 title 49” for “the National Traffic and Motor Vehicle Safety Act of 1966”.
 
-## § 513. Securities of the States and private entities
+## § 513. Securities of the States and private entities
 
-**(a)** Whoever makes, utters or possesses a counterfeited security of a State or a political subdivision thereof or of an organization, or whoever makes, utters or possesses a forged security of a State or political subdivision thereof or of an organization, with intent to deceive another person, organization, or government shall be fined under this title 1
+**(a)** Whoever makes, utters or possesses a counterfeited security of a State or a political subdivision thereof or of an organization, or whoever makes, utters or possesses a forged security of a State or political subdivision thereof or of an organization, with intent to deceive another person, organization, or government shall be fined under this title 1
 
-<sup>1</sup>  See 1994 Amendment note below.
+<sup>1</sup> See 1994 Amendment note below.
 
 or imprisoned for not more than ten years, or both.
 
@@ -1493,9 +1493,9 @@ or imprisoned for not more than ten years, or both.
 
 **(3)** the term “security” means—
 
-**(A)** a note, stock certificate, treasury stock certificate, bond, treasury bond, debenture, certificate of deposit, interest coupon, bill, check, draft, warrant, debit instrument as defined in section 916(c) 2
+**(A)** a note, stock certificate, treasury stock certificate, bond, treasury bond, debenture, certificate of deposit, interest coupon, bill, check, draft, warrant, debit instrument as defined in section 916(c) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of the Electronic Fund Transfer Act, money order, traveler’s check, letter of credit, warehouse receipt, negotiable bill of lading, evidence of indebtedness, certificate of interest in or participation in any profit-sharing agreement, collateral-trust certificate, pre-reorganization certificate of subscription, transferable share, investment contract, voting trust certificate, or certificate of interest in tangible or intangible property;
 
@@ -1511,25 +1511,25 @@ of the Electronic Fund Transfer Act, money order, traveler’s check, letter of 
 
 **(5)** the term “State” includes a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, and any other territory or possession of the United States.
 
-(Added Pub. L. 98–473, title II, § 1105(a), Oct. 12, 1984, 98 Stat. 2144, § 511; renumbered § 513, Pub. L. 99–646, § 31(a), Nov. 10, 1986, 100 Stat. 3598; amended Pub. L. 101–647, title XXXV, § 3515, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, §§ 330008(1), 330016(2)(C), Sept. 13, 1994, 108 Stat. 2142, 2148.)
+(Added Pub. L. 98–473, title II, § 1105(a), Oct. 12, 1984, 98 Stat. 2144, § 511; renumbered § 513, Pub. L. 99–646, § 31(a), Nov. 10, 1986, 100 Stat. 3598; amended Pub. L. 101–647, title XXXV, § 3515, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, §§ 330008(1), 330016(2)(C), Sept. 13, 1994, 108 Stat. 2142, 2148.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 916 of the Electronic Fund Transfer Act, referred to in subsec. (c)(3)(A), was renumbered section 917 by Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751, and is classified to section 1693n of Title 15, Commerce and Trade.
+Section 916 of the Electronic Fund Transfer Act, referred to in subsec. (c)(3)(A), was renumbered section 917 by Pub. L. 111–24, title IV, § 401(1), May 22, 2009, 123 Stat. 1751, and is classified to section 1693n of Title 15, Commerce and Trade.
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–322, § 330016(2)(C), which directed the amendment of this section by substituting “under this title” for “of not more than $250,000”, was executed by making the substitution for “not more than $250,000”, to reflect the probable intent of Congress.
+1994—Subsec. (a). Pub. L. 103–322, § 330016(2)(C), which directed the amendment of this section by substituting “under this title” for “of not more than $250,000”, was executed by making the substitution for “not more than $250,000”, to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $250,000”.
+Subsec. (b). Pub. L. 103–322, § 330016(2)(C), substituted “fine under this title” for “fine of not more than $250,000”.
 
-Subsec. (c)(4). Pub. L. 103–322, § 330008(1), substituted “association of persons” for “association or persons”.
+Subsec. (c)(4). Pub. L. 103–322, § 330008(1), substituted “association of persons” for “association or persons”.
 
 1990—Subsec. (c)(3)(A). Pub. L. 101–647 struck out “(15 U.S.C. 1693(c))” after “Electronic Fund Transfer Act” and inserted comma after “profit-sharing agreement”.
 
-## § 514. Fictitious obligations
+## § 514. Fictitious obligations
 
 **(a)** Whoever, with the intent to defraud—
 
@@ -1545,19 +1545,19 @@ any false or fictitious instrument, document, or other item appearing, represent
 
 **(c)** The United States Secret Service, in addition to any other agency having such authority, shall have authority to investigate offenses under this section.
 
-(Added Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(b)(1)], title II, § 2603(b)(1), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470.)
+(Added Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 648(b)(1)], title II, § 2603(b)(1), Sept. 30, 1996, 110 Stat. 3009–314, 3009–367, 3009–470.)
 
 **Editorial Notes**
 
 **Codification**
 
-Sections 101(f) [title VI, § 648(b)(1)] and 2603(b)(1) of div. A of Pub. L. 104–208 added identical sections 514.
+Sections 101(f) [title VI, § 648(b)(1)] and 2603(b)(1) of div. A of Pub. L. 104–208 added identical sections 514.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Section effective Sept. 30, 1996, and to remain in effect for each fiscal year following Sept. 30, 1996, see section 101(f) [title VI, § 648(c)] of Pub. L. 104–208, set out as an Effective Date of 1996 Amendment note under section 474 of this title.
+Section effective Sept. 30, 1996, and to remain in effect for each fiscal year following Sept. 30, 1996, see section 101(f) [title VI, § 648(c)] of Pub. L. 104–208, set out as an Effective Date of 1996 Amendment note under section 474 of this title.
 
 **Transfer of Functions**
 

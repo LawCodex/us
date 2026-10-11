@@ -15,19 +15,19 @@ retrieved: 2026-10-11
 
 # CHAPTER 159—INTERPLEADER
 
-## § 2361. Process and procedure
+## § 2361. Process and procedure
 
 In any civil action of interpleader or in the nature of interpleader under section 1335 of this title, a district court may issue its process for all claimants and enter its order restraining them from instituting or prosecuting any proceeding in any State or United States court affecting the property, instrument or obligation involved in the interpleader action until further order of the court. Such process and order shall be returnable at such time as the court or judge thereof directs, and shall be addressed to and served by the United States marshals for the respective districts where the claimants reside or may be found.
 
 Such district court shall hear and determine the case, and may discharge the plaintiff from further liability, make the injunction permanent, and make all appropriate orders to enforce its judgment.
 
-(June 25, 1948, ch. 646, 62 Stat. 970; May 24, 1949, ch. 139, § 117, 63 Stat. 105.)
+(June 25, 1948, ch. 646, 62 Stat. 970; May 24, 1949, ch. 139, § 117, 63 Stat. 105.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 28, U.S.C., 1940 ed., § 41(26) (Mar. 3, 1911, ch. 231, § 24, par. 26, as added Jan. 20, 1936, ch. 13, § 1, 49 Stat. 1096).
+Based on title 28, U.S.C., 1940 ed., § 41(26) (Mar. 3, 1911, ch. 231, § 24, par. 26, as added Jan. 20, 1936, ch. 13, § 1, 49 Stat. 1096).
 
 Jurisdiction and venue provisions of section 41(26) of title 28, U.S.C., 1940 ed., appear in sections 1335 and 1397 of this title.
 

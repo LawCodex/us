@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 53—AUTHORITIES RELATING TO THE REGULATION OF FOREIGN MISSIONS
 
-## § 4301. Congressional declaration of findings and policy
+## § 4301. Congressional declaration of findings and policy
 
 **(a) Findings**
 
@@ -29,31 +29,31 @@ The Congress declares that it is the policy of the United States to support the 
 
 The treatment to be accorded to a foreign mission in the United States shall be determined by the Secretary after due consideration of the benefits, privileges, and immunities provided to missions of the United States in the country or territory represented by that foreign mission, as well as matters relating to the protection of the interests of the United States.
 
-(Aug. 1, 1956, ch. 841, title II, § 201, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 283; amended Pub. L. 99–93, title I, § 127(a), Aug. 16, 1985, 99 Stat. 418.)
+(Aug. 1, 1956, ch. 841, title II, § 201, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 283; amended Pub. L. 99–93, title I, § 127(a), Aug. 16, 1985, 99 Stat. 418.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1985—Subsec. (c). Pub. L. 99–93 inserted “, as well as matters relating to the protection of the interests of the United States”.
+1985—Subsec. (c). Pub. L. 99–93 inserted “, as well as matters relating to the protection of the interests of the United States”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 97–241, title II, § 204, Aug. 24, 1982, 96 Stat. 291, provided that: “The amendments made by this title [see Short Title note below] shall take effect on October 1, 1982.”
+Pub. L. 97–241, title II, § 204, Aug. 24, 1982, 96 Stat. 291, provided that: “The amendments made by this title [see Short Title note below] shall take effect on October 1, 1982.”
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 98–164, title VI, § 601, Nov. 22, 1983, 97 Stat. 1042, provided that: “This title [enacting section 4304a of this title, amending sections 254e and 4303 of this title, and enacting provisions set out as a note under section 4303 of this title] may be cited as the ‘Foreign Missions Amendments Act of 1983’.”
+Pub. L. 98–164, title VI, § 601, Nov. 22, 1983, 97 Stat. 1042, provided that: “This title [enacting section 4304a of this title, amending sections 254e and 4303 of this title, and enacting provisions set out as a note under section 4303 of this title] may be cited as the ‘Foreign Missions Amendments Act of 1983’.”
 
 **Short Title**
 
-Pub. L. 97–241, title II, § 201, Aug. 24, 1982, 96 Stat. 282, provided that: “This title [enacting this chapter, amending sections 254a, 254b, 254c, 2662, and 2684 of this title and section 1364 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] may be cited as the ‘Foreign Missions Act’.”
+Pub. L. 97–241, title II, § 201, Aug. 24, 1982, 96 Stat. 282, provided that: “This title [enacting this chapter, amending sections 254a, 254b, 254c, 2662, and 2684 of this title and section 1364 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section] may be cited as the ‘Foreign Missions Act’.”
 
 **United States Department of State Freedom of Expression**
 
-Pub. L. 100–204, title I, § 133, Dec. 22, 1987, 101 Stat. 1344, provided that:
+Pub. L. 100–204, title I, § 133, Dec. 22, 1987, 101 Stat. 1344, provided that:
 
 > **“(a) Finding.—** Congress finds that the United States Department of State, on September 15, 1987, declared itself to be a temporary foreign diplomatic mission for the purpose of denying free speech to American citizens who planned to protest the tyranny of the Soviet regime.
 
@@ -61,11 +61,11 @@ Pub. L. 100–204, title I, § 133, Dec. 22, 1987, 101 Stat. 1344, provided th
 
 **United States-Soviet Reciprocity in Matters Relating to Embassies**
 
-Pub. L. 101–246, title I, § 134, Feb. 16, 1990, 104 Stat. 33, authorized Secretary of State to allow Soviet mission to United States to occupy, on a reciprocal basis, a consulate facility in United States, provided that United States mission in Kiev would be able to occupy an interim facility intended for conduct of unclassified activities, and required Secretary of State to submit to Congress a long-term plan for acquiring secure permanent facilities for United States mission in Kiev, prior to repeal by Pub. L. 103–199, title V, § 502(c)(1), Dec. 17, 1993, 107 Stat. 2326.
+Pub. L. 101–246, title I, § 134, Feb. 16, 1990, 104 Stat. 33, authorized Secretary of State to allow Soviet mission to United States to occupy, on a reciprocal basis, a consulate facility in United States, provided that United States mission in Kiev would be able to occupy an interim facility intended for conduct of unclassified activities, and required Secretary of State to submit to Congress a long-term plan for acquiring secure permanent facilities for United States mission in Kiev, prior to repeal by Pub. L. 103–199, title V, § 502(c)(1), Dec. 17, 1993, 107 Stat. 2326.
 
-Pub. L. 100–204, title I, § 153(a)–(d), Dec. 22, 1987, 101 Stat. 1353, authorized Secretary of State to obtain full cooperation of Soviet government, on a reciprocal basis, in areas of diplomatic and consular finance, access to goods, and use of real property and prohibited Secretary of State from allowing Soviet mission to United States to occupy any new consulate in United States until United States mission in Kiev was able to occupy secure permanent facilities, prior to repeal by Pub. L. 103–199, title V, § 502(e)(1), Dec. 17, 1993, 107 Stat. 2326. Section 153(d) of Pub. L. 100–204 was also repealed by Pub. L. 103–236, title I, § 139(15), Apr. 30, 1994, 108 Stat. 398.
+Pub. L. 100–204, title I, § 153(a)–(d), Dec. 22, 1987, 101 Stat. 1353, authorized Secretary of State to obtain full cooperation of Soviet government, on a reciprocal basis, in areas of diplomatic and consular finance, access to goods, and use of real property and prohibited Secretary of State from allowing Soviet mission to United States to occupy any new consulate in United States until United States mission in Kiev was able to occupy secure permanent facilities, prior to repeal by Pub. L. 103–199, title V, § 502(e)(1), Dec. 17, 1993, 107 Stat. 2326. Section 153(d) of Pub. L. 100–204 was also repealed by Pub. L. 103–236, title I, § 139(15), Apr. 30, 1994, 108 Stat. 398.
 
-## § 4302. Definitions
+## § 4302. Definitions
 
 **(a)** For purposes of this chapter—
 
@@ -107,17 +107,17 @@ including any real property of such a mission and including the personnel of suc
 
 **(b)** Determinations with respect to the meaning and applicability of the terms used in subsection (a) shall be committed to the discretion of the Secretary.
 
-(Aug. 1, 1956, ch. 841, title II, § 202, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 283; amended Pub. L. 99–93, title I, § 127(b), Aug. 16, 1985, 99 Stat. 418; Pub. L. 99–569, title VII, § 701, Oct. 27, 1986, 100 Stat. 3204; Pub. L. 100–204, title I, § 153(e), Dec. 22, 1987, 101 Stat. 1353; Pub. L. 103–236, title I, § 162(*o*)(1), Apr. 30, 1994, 108 Stat. 409.)
+(Aug. 1, 1956, ch. 841, title II, § 202, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 283; amended Pub. L. 99–93, title I, § 127(b), Aug. 16, 1985, 99 Stat. 418; Pub. L. 99–569, title VII, § 701, Oct. 27, 1986, 100 Stat. 3204; Pub. L. 100–204, title I, § 153(e), Dec. 22, 1987, 101 Stat. 1353; Pub. L. 103–236, title I, § 162(*o*)(1), Apr. 30, 1994, 108 Stat. 409.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, § 202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, § 202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 **Amendments**
 
-1994—Subsec. (a)(3) to (8). Pub. L. 103–236 struck out par. (3) and redesignated former pars. (4) to (8) as (3) to (7), respectively. Prior to amendment, par. (3) read as follows: “ ‘Director’ means the Director of the Office of Foreign Missions established pursuant to section 4303(a) of this title;”.
+1994—Subsec. (a)(3) to (8). Pub. L. 103–236 struck out par. (3) and redesignated former pars. (4) to (8) as (3) to (7), respectively. Prior to amendment, par. (3) read as follows: “ ‘Director’ means the Director of the Office of Foreign Missions established pursuant to section 4303(a) of this title;”.
 
 1987—Subsec. (a)(1)(G). Pub. L. 100–204 added subpar. (G).
 
@@ -135,7 +135,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under section 4301 of this title.
 
-## § 4303. Authorities of Secretary of State
+## § 4303. Authorities of Secretary of State
 
 The Secretary shall carry out the following functions:
 
@@ -145,19 +145,19 @@ The Secretary shall carry out the following functions:
 
 **(3)** As determined by the Secretary, dispose of property acquired in carrying out the purposes of this chapter.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(4)** As determined by the Secretary, designate an office within the Department of State to carry out the purposes of this chapter.<sup>1</sup> If such an office is established, the President may appoint, by and with the advice and consent of the Senate, a Director, with the rank of ambassador. Of the Director and the next most senior person in the office, one should be an individual who has served in the Foreign Service and the other should be an individual who has served in the United States intelligence community.
 
 **(5)** Perform such other functions as the Secretary may determine necessary in furtherance of the policy of this chapter.
 
-(Aug. 1, 1956, ch. 841, title II, § 203, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 98–164, title VI, § 604(a), (b), Nov. 22, 1983, 97 Stat. 1043, 1044; Pub. L. 98–618, title VI, § 601(d), formerly § 601(c), Nov. 8, 1984, 98 Stat. 3303, renumbered Pub. L. 119–60, div. F, title LXVII, § 6712(2), Dec. 18, 2025, 139 Stat. 1649; Pub. L. 100–204, title I, § 173(a)(2), Dec. 22, 1987, 101 Stat. 1360; Pub. L. 101–246, title I, § 116(a), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, § 162(*o*)(2), Apr. 30, 1994, 108 Stat. 409.)
+(Aug. 1, 1956, ch. 841, title II, § 203, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 98–164, title VI, § 604(a), (b), Nov. 22, 1983, 97 Stat. 1043, 1044; Pub. L. 98–618, title VI, § 601(d), formerly § 601(c), Nov. 8, 1984, 98 Stat. 3303, renumbered Pub. L. 119–60, div. F, title LXVII, § 6712(2), Dec. 18, 2025, 139 Stat. 1649; Pub. L. 100–204, title I, § 173(a)(2), Dec. 22, 1987, 101 Stat. 1360; Pub. L. 101–246, title I, § 116(a), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, § 162(*o*)(2), Apr. 30, 1994, 108 Stat. 409.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in pars. (3) and (4), was in the original “this Act” and was translated as reading “this title” meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, § 202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
+This chapter, referred to in pars. (3) and (4), was in the original “this Act” and was translated as reading “this title” meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, § 202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 **Amendments**
 
@@ -167,13 +167,13 @@ This chapter, referred to in pars. (3) and (4), was in the original “this Act�
 
 1987—Subsec. (a). Pub. L. 100–204 inserted sentence at end relating to compensation of Director.
 
-1984—Subsec. (a). Pub. L. 98–618, § 601(d)(1), formerly § 601(c)(1), as renumbered by Pub. L. 119–60, struck out requirements that Director be an individual with: minimum of ten years service in the Foreign Service, significant administrative experience, and service in countries wherein the United States has had significant problems in assuring secure and efficient operations of its missions as result of the actions of other countries.
+1984—Subsec. (a). Pub. L. 98–618, § 601(d)(1), formerly § 601(c)(1), as renumbered by Pub. L. 119–60, struck out requirements that Director be an individual with: minimum of ten years service in the Foreign Service, significant administrative experience, and service in countries wherein the United States has had significant problems in assuring secure and efficient operations of its missions as result of the actions of other countries.
 
-Subsec. (b). Pub. L. 98–618, § 601(d)(2), formerly § 601(c)(1), as renumbered by Pub. L. 119–60, substituted requirement of prior complementary service of the Director and Deputy Director in the Foreign Service and the Intelligence Community for requirement that Deputy Director must have served in the Intelligence Community.
+Subsec. (b). Pub. L. 98–618, § 601(d)(2), formerly § 601(c)(1), as renumbered by Pub. L. 119–60, substituted requirement of prior complementary service of the Director and Deputy Director in the Foreign Service and the Intelligence Community for requirement that Deputy Director must have served in the Intelligence Community.
 
-1983—Subsec. (a). Pub. L. 98–164, § 604(a), inserted provisions respecting rank, and experience required of the Director, and substituted provision requiring appointment by the President by and with the advice and consent of the Senate, for provision requiring appointment by the Secretary.
+1983—Subsec. (a). Pub. L. 98–164, § 604(a), inserted provisions respecting rank, and experience required of the Director, and substituted provision requiring appointment by the President by and with the advice and consent of the Senate, for provision requiring appointment by the Secretary.
 
-Subsecs. (b), (c). Pub. L. 98–164, § 604(b), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 98–164, § 604(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -187,11 +187,11 @@ Amendment by Pub. L. 100–204 effective 30 days after Dec. 22, 1987, see sectio
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–618, title VI, § 601(e), formerly § 601(d), Nov. 8, 1984, 98 Stat. 3303, as renumbered and amended by Pub. L. 119–60, div. F, title LXVII, § 6712(2), (4), Dec. 18, 2025, 139 Stat. 1649, provided that: “The amendments made by subsection (d) [amending this section] shall apply only with respect to any appointment of a Director or Deputy Director of the Office of Foreign Missions, as the case may be, after the date of the enactment of this section [Nov. 8, 1984].”
+Pub. L. 98–618, title VI, § 601(e), formerly § 601(d), Nov. 8, 1984, 98 Stat. 3303, as renumbered and amended by Pub. L. 119–60, div. F, title LXVII, § 6712(2), (4), Dec. 18, 2025, 139 Stat. 1649, provided that: “The amendments made by subsection (d) [amending this section] shall apply only with respect to any appointment of a Director or Deputy Director of the Office of Foreign Missions, as the case may be, after the date of the enactment of this section [Nov. 8, 1984].”
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–164, title VI, § 604(c), Nov. 22, 1983, 97 Stat. 1044, provided that: “The amendments made by this section [amending this section] shall apply with respect to any Director of the Office of Foreign Missions, and to any Deputy Director of the Office of Foreign Missions, appointed after the date of enactment of this Act [Nov. 22, 1983].”
+Pub. L. 98–164, title VI, § 604(c), Nov. 22, 1983, 97 Stat. 1044, provided that: “The amendments made by this section [amending this section] shall apply with respect to any Director of the Office of Foreign Missions, and to any Deputy Director of the Office of Foreign Missions, appointed after the date of enactment of this Act [Nov. 22, 1983].”
 
 **Effective Date**
 
@@ -201,7 +201,7 @@ Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as 
 
 Any new spending authority provided by amendment by section 173(a)(2) of Pub. L. 100–204 effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts, see section 173(c) of Pub. L. 100–204, set out as a note under section 2707 of this title.
 
-## § 4304. Provision of benefits
+## § 4304. Provision of benefits
 
 **(a) Request by foreign mission; terms and conditions as approved by Secretary**
 
@@ -251,31 +251,31 @@ Nothing in this chapter shall be deemed to preclude or limit in any way the auth
 
 **(B)** The authority to spend proceeds received under subparagraph (A) may be exercised only to such extent or in such amounts as are provided in advance in an appropriation Act.
 
-(Aug. 1, 1956, ch. 841, title II, § 204, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 99–93, title I, §§ 126(b), 127(c), Aug. 16, 1985, 99 Stat. 418; Pub. L. 101–246, title I, § 116(b), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, § 162(*o*)(3), Apr. 30, 1994, 108 Stat. 410; Pub. L. 103–415, § 1(cc), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 109–177, title VI, § 605(d)(2), (e)(2)(B), Mar. 9, 2006, 120 Stat. 255.)
+(Aug. 1, 1956, ch. 841, title II, § 204, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 99–93, title I, §§ 126(b), 127(c), Aug. 16, 1985, 99 Stat. 418; Pub. L. 101–246, title I, § 116(b), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, § 162(*o*)(3), Apr. 30, 1994, 108 Stat. 410; Pub. L. 103–415, § 1(cc), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 109–177, title VI, § 605(d)(2), (e)(2)(B), Mar. 9, 2006, 120 Stat. 255.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Buildings Act, 1926, referred to in subsec. (f)(1), is act May 7, 1926, ch. 250, 44 Stat. 403, which is classified generally to chapter 8 (§ 292 et seq.) of this title. For complete classification of this Act to the Code, see section 299 of this title and Tables.
+The Foreign Service Buildings Act, 1926, referred to in subsec. (f)(1), is act May 7, 1926, ch. 250, 44 Stat. 403, which is classified generally to chapter 8 (§ 292 et seq.) of this title. For complete classification of this Act to the Code, see section 299 of this title and Tables.
 
 **Amendments**
 
-2006—Subsec. (e). Pub. L. 109–177, § 605(e)(2)(B), substituted “section 3056 or 3056A of title 18” for “section 202 of title 3 or section 3056 of title 18”.
+2006—Subsec. (e). Pub. L. 109–177, § 605(e)(2)(B), substituted “section 3056 or 3056A of title 18” for “section 202 of title 3 or section 3056 of title 18”.
 
-Pub. L. 109–177, § 605(d)(2), which directed amendment of section 204(e) of the State Department Basic Authorities Act by substituting “sections 3056 or 3056A” for “section 202 of title 3 or section 3056”, was not executed, because this section is section 204 of the State Department Basic Authorities Act of 1956 and because of the amendment by Pub. L. 105–277, § 605(e)(2)(B). See note above.
+Pub. L. 109–177, § 605(d)(2), which directed amendment of section 204(e) of the State Department Basic Authorities Act by substituting “sections 3056 or 3056A” for “section 202 of title 3 or section 3056”, was not executed, because this section is section 204 of the State Department Basic Authorities Act of 1956 and because of the amendment by Pub. L. 105–277, § 605(e)(2)(B). See note above.
 
-1994—Subsecs. (a) to (c)(1). Pub. L. 103–236, § 162(*o*)(3)(A), substituted “Secretary on such terms” for “Director on such terms” in subsecs. (a) and (b) and “Secretary” for “Director” in subsec. (c)(1).
+1994—Subsecs. (a) to (c)(1). Pub. L. 103–236, § 162(*o*)(3)(A), substituted “Secretary on such terms” for “Director on such terms” in subsecs. (a) and (b) and “Secretary” for “Director” in subsec. (c)(1).
 
-Subsec. (d). Pub. L. 103–236, § 162(*o*)(3)(B), as amended by Pub. L. 103–415, substituted “any officer” for “the Director or any other officer”.
+Subsec. (d). Pub. L. 103–236, § 162(*o*)(3)(B), as amended by Pub. L. 103–415, substituted “any officer” for “the Director or any other officer”.
 
-1990—Subsec. (b)(5). Pub. L. 101–246, § 116(b)(1), added par. (5).
+1990—Subsec. (b)(5). Pub. L. 101–246, § 116(b)(1), added par. (5).
 
-Subsec. (f). Pub. L. 101–246, § 116(b)(2), added subsec. (f).
+Subsec. (f). Pub. L. 101–246, § 116(b)(2), added subsec. (f).
 
-1985—Subsec. (b). Pub. L. 99–93, § 127(c), inserted “to forego the acceptance, use, or relation of any benefit or” after “(B)” in provisions following par. (4).
+1985—Subsec. (b). Pub. L. 99–93, § 127(c), inserted “to forego the acceptance, use, or relation of any benefit or” after “(B)” in provisions following par. (4).
 
-Subsec. (e). Pub. L. 99–93, § 126(b), substituted “chapter” for “section” and was executed by making the substitution to first reference to “section” as the probable intent of Congress.
+Subsec. (e). Pub. L. 99–93, § 126(b), substituted “chapter” for “section” and was executed by making the substitution to first reference to “section” as the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -299,7 +299,7 @@ Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as 
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 4304a. Enforcement of compliance with liability insurance requirements
+## § 4304a. Enforcement of compliance with liability insurance requirements
 
 **(a) Notice to Secretary by head of foreign mission of lapse or termination of coverage; report to Secretary by head of foreign mission respecting motor vehicles, vessels and aircraft registered in United States**
 
@@ -333,7 +333,7 @@ the Secretary shall impose a surcharge or fee on the foreign mission of which su
 
 **(2)** the terms “members of a mission” and “family” have the same meanings as is ascribed to them by paragraphs (1) and (2) of section 254a of this title.
 
-(Aug. 1, 1956, ch. 841, title II, § 204A, as added Pub. L. 98–164, title VI, § 603, Nov. 22, 1983, 97 Stat. 1042; amended Pub. L. 103–236, title I, § 162(*o*)(4), Apr. 30, 1994, 108 Stat. 410.)
+(Aug. 1, 1956, ch. 841, title II, § 204A, as added Pub. L. 98–164, title VI, § 603, Nov. 22, 1983, 97 Stat. 1042; amended Pub. L. 103–236, title I, § 162(*o*)(4), Apr. 30, 1994, 108 Stat. 410.)
 
 **Editorial Notes**
 
@@ -347,7 +347,7 @@ the Secretary shall impose a surcharge or fee on the foreign mission of which su
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
-## § 4304b. Crimes committed by diplomats
+## § 4304b. Crimes committed by diplomats
 
 **(a) Annual report concerning diplomatic immunity**
 
@@ -395,7 +395,7 @@ The Secretary of State shall prepare and submit to the Congress, annually, a rep
 
 The Secretary should periodically notify each foreign mission of United States policies relating to criminal offenses committed by individuals with immunity from the criminal jurisdiction of the United States under laws extending diplomatic privileges and immunities.
 
-(Aug. 1, 1956, ch. 841, title II, § 204B, as added Pub. L. 105–375, § 1, Nov. 12, 1998, 112 Stat. 3385.)
+(Aug. 1, 1956, ch. 841, title II, § 204B, as added Pub. L. 105–375, § 1, Nov. 12, 1998, 112 Stat. 3385.)
 
 **Editorial Notes**
 
@@ -403,7 +403,7 @@ The Secretary should periodically notify each foreign mission of United States p
 
 Section 1 of Pub. L. 105–375, which directed amendment of title I of the State Department Basic Authorities Act of 1956 by adding this section after section 204A, was executed by adding this section after section 204A of title II of the State Department Basic Authorities Act of 1956, to reflect the probable intent of Congress.
 
-## § 4305. Property of foreign missions
+## § 4305. Property of foreign missions
 
 **(a) Proposed acquisition, sale, or other disposition**
 
@@ -441,9 +441,9 @@ Section 1 of Pub. L. 105–375, which directed amendment of title I of the State
 
 **(A)** any country listed as a Communist country in section 2370(f) of this title;
 
-**(B)** any country determined by the Secretary of State, for purposes of section 4605(j) 1
+**(B)** any country determined by the Secretary of State, for purposes of section 4605(j) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50, to be a country which has repeatedly provided support for acts of international terrorism; and
 
@@ -455,25 +455,25 @@ of title 50, to be a country which has repeatedly provided support for acts of i
 
 **(B)** with respect to a city in the United States, did not maintain a mission in that city.
 
-(Aug. 1, 1956, ch. 841, title II, § 205, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 285; amended Pub. L. 99–93, title I, § 127(d), (e), Aug. 16, 1985, 99 Stat. 418; Pub. L. 100–204, title I, § 161, Dec. 22, 1987, 101 Stat. 1356; Pub. L. 103–236, title I, § 162(*o*)(5), Apr. 30, 1994, 108 Stat. 410.)
+(Aug. 1, 1956, ch. 841, title II, § 205, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 285; amended Pub. L. 99–93, title I, § 127(d), (e), Aug. 16, 1985, 99 Stat. 418; Pub. L. 100–204, title I, § 161, Dec. 22, 1987, 101 Stat. 1356; Pub. L. 103–236, title I, § 162(*o*)(5), Apr. 30, 1994, 108 Stat. 410.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4605(j) of title 50, referred to in subsec. (d)(4)(B), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4605(j) of title 50, referred to in subsec. (d)(4)(B), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–236, § 162(*o*)(5)(A), substituted “Secretary prior to” for “Director prior to” in introductory provisions.
+1994—Subsec. (a). Pub. L. 103–236, § 162(*o*)(5)(A), substituted “Secretary prior to” for “Director prior to” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 103–236, § 162(*o*)(5)(B), struck out “authorize the Director to” before “dispose of”.
+Subsec. (c)(2). Pub. L. 103–236, § 162(*o*)(5)(B), struck out “authorize the Director to” before “dispose of”.
 
 1987—Subsec. (d). Pub. L. 100–204 added subsec. (d).
 
-1985—Subsec. (a)(1). Pub. L. 99–93, § 127(e), substituted “shall” for “may” and inserted “, including any mission to an international organization (as defined in section 4309(b)(2) of this title),” after “foreign mission” in first sentence, and substituted “The” for “If such a notification is required, the” in second sentence.
+1985—Subsec. (a)(1). Pub. L. 99–93, § 127(e), substituted “shall” for “may” and inserted “, including any mission to an international organization (as defined in section 4309(b)(2) of this title),” after “foreign mission” in first sentence, and substituted “The” for “If such a notification is required, the” in second sentence.
 
-Subsec. (b)(3). Pub. L. 99–93, § 127(d), added par. (3).
+Subsec. (b)(3). Pub. L. 99–93, § 127(d), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -485,7 +485,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under section 4301 of this title.
 
-## § 4306. Location of foreign missions in the District of Columbia
+## § 4306. Location of foreign missions in the District of Columbia
 
 **(a) Section as governing location, replacement, or expansion**
 
@@ -561,7 +561,7 @@ The Secretary shall require foreign missions to comply substantially with Distri
 
 Provisions of law (other than this chapter) applicable with respect to the location, replacement, or expansion of real property in the District of Columbia shall apply with respect to chanceries only to the extent that they are consistent with this section.
 
-(Aug. 1, 1956, ch. 841, title II, § 206, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 286.)
+(Aug. 1, 1956, ch. 841, title II, § 206, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 286.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -569,11 +569,11 @@ Provisions of law (other than this chapter) applicable with respect to the locat
 
 Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under section 4301 of this title.
 
-## § 4307. Preemption
+## § 4307. Preemption
 
 Notwithstanding any other law, no act of any Federal agency shall be effective to confer or deny any benefit with respect to any foreign mission contrary to this chapter. Nothing in section 4302, 4303, 4304, or 4305 of this title may be construed to preempt any State or municipal law or governmental authority regarding zoning, land use, health, safety, or welfare, except that a denial by the Secretary involving a benefit for a foreign mission within the jurisdiction of a particular State or local government shall be controlling.
 
-(Aug. 1, 1956, ch. 841, title II, § 207, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 288.)
+(Aug. 1, 1956, ch. 841, title II, § 207, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 288.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -581,7 +581,7 @@ Notwithstanding any other law, no act of any Federal agency shall be effective t
 
 Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under section 4301 of this title.
 
-## § 4308. General provisions
+## § 4308. General provisions
 
 **(a) Issuance of regulations**
 
@@ -623,19 +623,19 @@ Except as otherwise provided, any determination required under this chapter shal
 
 **(3)** Only amounts transferred or credited to the working capital fund established by section 2684 of this title may be used in carrying out the functions of the Secretary or the Director under this chapter.
 
-(Aug. 1, 1956, ch. 841, title II, § 208, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 288; amended Pub. L. 103–236, title I, § 162(*o*)(6), Apr. 30, 1994, 108 Stat. 410.)
+(Aug. 1, 1956, ch. 841, title II, § 208, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 288; amended Pub. L. 103–236, title I, § 162(*o*)(6), Apr. 30, 1994, 108 Stat. 410.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Subsec. (c)(1). Pub. L. 103–236, § 162(*o*)(6)(B), substituted “Department of State” for “Office of Foreign Missions”.
+1994—Subsec. (c)(1). Pub. L. 103–236, § 162(*o*)(6)(B), substituted “Department of State” for “Office of Foreign Missions”.
 
-Subsec. (d). Pub. L. 103–236, § 162(*o*)(6)(A), substituted “behalf of the Secretary” for “behalf of the Director”.
+Subsec. (d). Pub. L. 103–236, § 162(*o*)(6)(A), substituted “behalf of the Secretary” for “behalf of the Director”.
 
-Subsecs. (e), (f). Pub. L. 103–236, § 162(*o*)(6)(B), substituted “Department of State” for “Office of Foreign Missions” wherever appearing.
+Subsecs. (e), (f). Pub. L. 103–236, § 162(*o*)(6)(B), substituted “Department of State” for “Office of Foreign Missions” wherever appearing.
 
-Subsec. (h)(2). Pub. L. 103–236, § 162(*o*)(6)(C), struck out “Director or the” after “received by the”.
+Subsec. (h)(2). Pub. L. 103–236, § 162(*o*)(6)(C), struck out “Director or the” after “received by the”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -647,7 +647,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under section 4301 of this title.
 
-## § 4309. Application to public international organizations and official missions to such organizations
+## § 4309. Application to public international organizations and official missions to such organizations
 
 **(a) Determination by Secretary**
 
@@ -661,13 +661,13 @@ The Secretary may make section 4306 of this title, or any other provision of thi
 
 including any real property of such an organization or mission and including the personnel of such an organization or mission.
 
-(Aug. 1, 1956, ch. 841, title II, § 209, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 289.)
+(Aug. 1, 1956, ch. 841, title II, § 209, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 289.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Organizations Immunities Act, referred to in subsec. (b)(1), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of this title. For complete classification of that Act to the Code, see Short Title note set out under section 288 of this title and Tables.
+The International Organizations Immunities Act, referred to in subsec. (b)(1), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of this title. For complete classification of that Act to the Code, see Short Title note set out under section 288 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -675,7 +675,7 @@ The International Organizations Immunities Act, referred to in subsec. (b)(1), i
 
 Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under section 4301 of this title.
 
-## § 4309a. United States responsibilities for employees of the United Nations
+## § 4309a. United States responsibilities for employees of the United Nations
 
 **(a) Findings** The Congress finds that—
 
@@ -691,7 +691,7 @@ Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as 
 
 **(1)** The conduct of any activities, or the acquisition of any benefits (as defined in section 4301(a)(1) of this title), outside the United Nations Headquarters District by any individual employed by, or authorized by the United Nations to conduct official business in connection with, that organization or its agencies, or by any person or agency acting on behalf thereof, may be permitted or denied or subject to reasonable regulation, as determined to be in the best interests of the United States and pursuant to this chapter.
 
-**(2)** Repealed. Pub. L. 103–236, title I, § 139(26), Apr. 30, 1994, 108 Stat. 399.
+**(2)** Repealed. Pub. L. 103–236, title I, § 139(26), Apr. 30, 1994, 108 Stat. 399.
 
 **(c) Reports** The Secretary shall report to the Congress—
 
@@ -707,7 +707,7 @@ This section shall not apply with respect to any United States national.
 
 For purposes of this section, the term “United Nations Headquarters District” means the area within the United States which is agreed to by the United Nations and the United States to constitute such a district, together with such other areas as the Secretary of State may approve from time to time in order to permit effective functioning of the United Nations or missions to the United Nations.
 
-(Aug. 1, 1956, ch. 841, title II, § 209A, as added Pub. L. 99–93, title I, § 141, Aug. 16, 1985, 99 Stat. 423; amended Pub. L. 103–236, title I, § 139(26), Apr. 30, 1994, 108 Stat. 399.)
+(Aug. 1, 1956, ch. 841, title II, § 209A, as added Pub. L. 99–93, title I, § 141, Aug. 16, 1985, 99 Stat. 423; amended Pub. L. 103–236, title I, § 139(26), Apr. 30, 1994, 108 Stat. 399.)
 
 **Editorial Notes**
 
@@ -719,11 +719,11 @@ Public Law 80–357, referred to in subsec. (a)(1), is act Aug. 4, 1947, ch. 482
 
 1994—Subsec. (b)(2). Pub. L. 103–236 struck out par. (2) which read as follows: “The Secretary shall apply to those employees of the United Nations Secretariat who are nationals of a foreign country or members of a foreign mission all terms, limitations, restrictions, and conditions which are applicable pursuant to this chapter to the members of that country’s mission or of any other mission to the United Nations unless the Secretary determines and reports to the Congress that national security and foreign policy circumstances require that this paragraph be waived in specific circumstances.”
 
-## § 4310. Privileges and immunities
+## § 4310. Privileges and immunities
 
 Nothing in this chapter shall be construed to limit the authority of the United States to carry out its international obligations, or to supersede or limit immunities otherwise available by law. No act or omission by any foreign mission, public international organization, or official mission to such an organization, in compliance with this chapter shall be deemed to be an implied waiver of any immunity otherwise provided for by law.
 
-(Aug. 1, 1956, ch. 841, title II, § 210, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 290.)
+(Aug. 1, 1956, ch. 841, title II, § 210, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 290.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -731,7 +731,7 @@ Nothing in this chapter shall be construed to limit the authority of the United 
 
 Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under section 4301 of this title.
 
-## § 4311. Enforcement
+## § 4311. Enforcement
 
 **(a) Benefits to foreign missions contrary to this chapter; standing of United States to bring action for compliance**
 
@@ -741,7 +741,7 @@ It shall be unlawful for any person to make available any benefits to a foreign 
 
 Upon the request of any Federal agency, any State or local government agency, or any business or other person that proposes to enter into a contract or other transaction with a foreign mission, the Secretary shall advise whether the proposed transaction is prohibited by any regulation or determination of the Secretary under this chapter.
 
-(Aug. 1, 1956, ch. 841, title II, § 211, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 290.)
+(Aug. 1, 1956, ch. 841, title II, § 211, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 290.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -749,11 +749,11 @@ Upon the request of any Federal agency, any State or local government agency, or
 
 Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under section 4301 of this title.
 
-## § 4312. Presidential guidelines
+## § 4312. Presidential guidelines
 
 The authorities granted to the Secretary pursuant to the provisions of this chapter shall be exercised in accordance with procedures and guidelines approved by the President.
 
-(Aug. 1, 1956, ch. 841, title II, § 212, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 290.)
+(Aug. 1, 1956, ch. 841, title II, § 212, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 290.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -761,11 +761,11 @@ The authorities granted to the Secretary pursuant to the provisions of this chap
 
 Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under section 4301 of this title.
 
-## § 4313. Severability
+## § 4313. Severability
 
 If any provision of this chapter or the application thereof to any person or circumstance is held invalid, the remainder of this chapter and the application of such provision to any other person or circumstance shall not be affected thereby.
 
-(Aug. 1, 1956, ch. 841, title II, § 213, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 290.)
+(Aug. 1, 1956, ch. 841, title II, § 213, as added Pub. L. 97–241, title II, § 202(b), Aug. 24, 1982, 96 Stat. 290.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -773,7 +773,7 @@ If any provision of this chapter or the application thereof to any person or cir
 
 Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under section 4301 of this title.
 
-## § 4314. Extraordinary protective services
+## § 4314. Extraordinary protective services
 
 **(a) General authority**
 
@@ -781,13 +781,13 @@ The Secretary may provide extraordinary protective services for foreign missions
 
 **(b) Requirement of extraordinary circumstances**
 
-The Secretary may provide funds to a State or local authority for protective services under this section only if the Secretary has determined that a threat of violence, or other circumstances, exists which requires extraordinary security measures which exceed those which local law enforcment 1
+The Secretary may provide funds to a State or local authority for protective services under this section only if the Secretary has determined that a threat of violence, or other circumstances, exists which requires extraordinary security measures which exceed those which local law enforcment 1
 
-<sup>1</sup>  So in original. Probably should be “enforcement”.
+<sup>1</sup> So in original. Probably should be “enforcement”.
 
 agencies can reasonably be expected to take.
 
-**(c) Repealed. Pub. L. 103–236, title I, § 139(2), Apr. 30, 1994, 108 Stat. 397**
+**(c) Repealed. Pub. L. 103–236, title I, § 139(2), Apr. 30, 1994, 108 Stat. 397**
 
 **(d) Restrictions on use of funds** Of the funds made available for obligation under this section in any fiscal year—
 
@@ -809,15 +809,15 @@ Contracts may be entered into in carrying out this section only to such extent o
 
 Amounts used to carry out this section shall not be subject to section 4308(h) of this title.
 
-(Aug. 1, 1956, ch. 841, title II, § 214, as added Pub. L. 99–93, title I, § 126(a), Aug. 16, 1985, 99 Stat. 417; amended Pub. L. 103–236, title I, § 139(2), Apr. 30, 1994, 108 Stat. 397; Pub. L. 109–177, title VI, § 605(d)(3), (e)(2)(C), Mar. 9, 2006, 120 Stat. 255.)
+(Aug. 1, 1956, ch. 841, title II, § 214, as added Pub. L. 99–93, title I, § 126(a), Aug. 16, 1985, 99 Stat. 417; amended Pub. L. 103–236, title I, § 139(2), Apr. 30, 1994, 108 Stat. 397; Pub. L. 109–177, title VI, § 605(d)(3), (e)(2)(C), Mar. 9, 2006, 120 Stat. 255.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–177, § 605(e)(2)(C), substituted “subsections (a)(7) and (d) of section 3056A of title 18” for “sections 202(7) and 208 of title 3”.
+2006—Subsec. (a). Pub. L. 109–177, § 605(e)(2)(C), substituted “subsections (a)(7) and (d) of section 3056A of title 18” for “sections 202(7) and 208 of title 3”.
 
-Pub. L. 109–177, § 605(d)(3), which directed amendment of section 214(a) of the State Department Basic Authorities Act by substituting “section 3056A(a)(7) and (d) of title 18” for “sections 202(8) and 208 of title 3”, was not executed because this section, which is section 214 of the State Department Basic Authorities Act of 1956, did not contain the words “sections 202(8) and 208 of title 3” and because of the amendment by Pub. L. 109–177, § 605(e)(2)(C). See note above.
+Pub. L. 109–177, § 605(d)(3), which directed amendment of section 214(a) of the State Department Basic Authorities Act by substituting “section 3056A(a)(7) and (d) of title 18” for “sections 202(8) and 208 of title 3”, was not executed because this section, which is section 214 of the State Department Basic Authorities Act of 1956, did not contain the words “sections 202(8) and 208 of title 3” and because of the amendment by Pub. L. 109–177, § 605(e)(2)(C). See note above.
 
 1994—Subsec. (c). Pub. L. 103–236 struck out subsec. (c) which read as follows: “Funds may be obligated under this section only after regulations to implement this section have been issued by the Secretary after consultation with appropriate committees of the Congress.”
 
@@ -825,9 +825,9 @@ Pub. L. 109–177, § 605(d)(3), which directed amendment of section 214(a) of
 
 **Effective Date**
 
-Pub. L. 99–93, title I, § 126(e), Aug. 16, 1985, 99 Stat. 418, provided that: “The amendments made by this section [enacting this section and amending section 4304 of this title and section 208 of Title 3, The President] shall take effect on October 1, 1985.”
+Pub. L. 99–93, title I, § 126(e), Aug. 16, 1985, 99 Stat. 418, provided that: “The amendments made by this section [enacting this section and amending section 4304 of this title and section 208 of Title 3, The President] shall take effect on October 1, 1985.”
 
-## § 4315. Use of foreign mission in manner incompatible with its status as foreign mission
+## § 4315. Use of foreign mission in manner incompatible with its status as foreign mission
 
 **(a) Establishment of limitation on certain uses**
 
@@ -855,7 +855,7 @@ Not later than 180 days after December 22, 1987, the Secretary of State shall su
 
 **(B)** is not a member, or a family member of a member, of a foreign mission of that foreign country.
 
-(Aug. 1, 1956, ch. 841, title II, § 215, as added Pub. L. 100–204, title I, § 128(a), Dec. 22, 1987, 101 Stat. 1343.)
+(Aug. 1, 1956, ch. 841, title II, § 215, as added Pub. L. 100–204, title I, § 128(a), Dec. 22, 1987, 101 Stat. 1343.)
 
 **Editorial Notes**
 
@@ -867,7 +867,7 @@ December 22, 1987, referred to in subsec. (d), was in the original “the date o
 
 **Effective Date**
 
-Pub. L. 100–204, title I, § 128(b), Dec. 22, 1987, 101 Stat. 1343, provided that:
+Pub. L. 100–204, title I, § 128(b), Dec. 22, 1987, 101 Stat. 1343, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendment made by subsection (a) [enacting this section] shall apply to any foreign mission beginning on the date of enactment of this Act [Dec. 22, 1987].
 
@@ -877,7 +877,7 @@ Pub. L. 100–204, title I, § 128(b), Dec. 22, 1987, 101 Stat. 1343, provided
 
 > **“(B)** The Secretary of State may delay the effective date provided for in subparagraph (A) for not more than 6 months with respect to any nonimmigrant alien if the Secretary finds that a hardship to that alien would result from the implementation of subsection (a).”
 
-## § 4316. Application of travel restrictions to personnel of certain countries and organizations
+## § 4316. Application of travel restrictions to personnel of certain countries and organizations
 
 **(a) Requirement for restrictions**
 
@@ -897,13 +897,13 @@ and who are not nationals or permanent resident aliens of the United States.
 
 The Secretary, after consultation with the Director of Central Intelligence and the Director of the Federal Bureau of Investigation, may waive application of the restrictions required by subsection (a) if the Secretary determines that the national security and foreign policy interests of the United States so require.
 
-**(d) Repealed. Pub. L. 103–236, title I, § 139(3), Apr. 30, 1994, 108 Stat. 397**
+**(d) Repealed. Pub. L. 103–236, title I, § 139(3), Apr. 30, 1994, 108 Stat. 397**
 
 **(e) Definitions** For purposes of this section—
 
 **(1)** the term “generally applicable restrictions” means any limitations on the radius within which unrestricted travel is permitted and obtaining travel services through the auspices of the Office of Foreign Missions for travel elsewhere, and does not include any restrictions which unconditionally prohibit the members of missions of the Soviet Union in the United States from traveling to designated areas of the United States and which are applied as a result of particular factors in relations between the United States and the Soviet Union.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(2)** the term “international organization” means an organization described in section 4309(b)(1) of this title; and
 
@@ -913,7 +913,7 @@ The Secretary, after consultation with the Director of Central Intelligence and 
 
 **(B)** any individual who is retained under contract or other arrangement to serve functions similar to those of an officer, employee, or other staff member.
 
-(Aug. 1, 1956, ch. 841, title II, § 216, as added Pub. L. 100–204, title I, § 162(a), Dec. 22, 1987, 101 Stat. 1357; amended Pub. L. 103–236, title I, § 139(3), Apr. 30, 1994, 108 Stat. 397.)
+(Aug. 1, 1956, ch. 841, title II, § 216, as added Pub. L. 100–204, title I, § 162(a), Dec. 22, 1987, 101 Stat. 1357; amended Pub. L. 103–236, title I, § 139(3), Apr. 30, 1994, 108 Stat. 397.)
 
 **Editorial Notes**
 
@@ -929,7 +929,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 **Effective Date**
 
-Pub. L. 100–204, title I, § 162(b), Dec. 22, 1987, 101 Stat. 1358, provided that: “Subsection (a) of the section enacted by this section [this section] shall take effect 90 days after the date of enactment of this Act [Dec. 22, 1987].”
+Pub. L. 100–204, title I, § 162(b), Dec. 22, 1987, 101 Stat. 1358, provided that: “Subsection (a) of the section enacted by this section [this section] shall take effect 90 days after the date of enactment of this Act [Dec. 22, 1987].”
 
 **Authority of Secretary of State**
 

@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–391, title VI, § 605(b), Dec. 21, 2018, 132 Stat. 5242, added item 4130.
+2018—Pub. L. 115–391, title VI, § 605(b), Dec. 21, 2018, 132 Stat. 5242, added item 4130.
 
-1990—Pub. L. 101–647, title XXXV, § 3599A, Nov. 29, 1990, 104 Stat. 4931, substituted “Fund” for “fund” in item 4126.
+1990—Pub. L. 101–647, title XXXV, § 3599A, Nov. 29, 1990, 104 Stat. 4931, substituted “Fund” for “fund” in item 4126.
 
-1988—Pub. L. 100–690, title VII, § 7093(b), Nov. 18, 1988, 102 Stat. 4412, added item 4129.
+1988—Pub. L. 100–690, title VII, § 7093(b), Nov. 18, 1988, 102 Stat. 4412, added item 4129.
 
-## § 4121. Federal Prison Industries; board of directors
+## § 4121. Federal Prison Industries; board of directors
 
 “Federal Prison Industries”, a government corporation of the District of Columbia, shall be administered by a board of six directors, appointed by the President to serve at the will of the President without compensation.
 
 The directors shall be representatives of (1) industry, (2) labor, (3) agriculture, (4) retailers and consumers, (5) the Secretary of Defense, and (6) the Attorney General, respectively.
 
-(June 25, 1948, ch. 645, 62 Stat. 851; May 24, 1949, ch. 139, § 62, 63 Stat. 98.)
+(June 25, 1948, ch. 645, 62 Stat. 851; May 24, 1949, ch. 139, § 62, 63 Stat. 98.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., §§ 744i, 744j (June 23, 1934, ch. 736, §§ 1, 2, 48 Stat. 1211).
+Based on title 18, U.S.C., 1940 ed., §§ 744i, 744j (June 23, 1934, ch. 736, §§ 1, 2, 48 Stat. 1211).
 
 Section consolidates sections 744i and 744j of title 18, U.S.C., 1940 ed. The former was rewritten omitting unnecessary recital as to policy and expressing the original language of the two sections more logically.
 
@@ -57,7 +57,7 @@ This section [section 62] incorporates in section 4121 of title 18, U.S.C., with
 
 **Mandatory Work Requirement for All Prisoners**
 
-Pub. L. 101–647, title XXIX, § 2905, Nov. 29, 1990, 104 Stat. 4914, provided that:
+Pub. L. 101–647, title XXIX, § 2905, Nov. 29, 1990, 104 Stat. 4914, provided that:
 
 > **“(a) In General.—**
 
@@ -75,15 +75,15 @@ Pub. L. 101–647, title XXIX, § 2905, Nov. 29, 1990, 104 Stat. 4914, provide
 
 **Closure of McNeil Island Penitentiary; Report on Status of Federal Prison Industries**
 
-Pub. L. 95–624, § 10, Nov. 9, 1978, 92 Stat. 3463, required the Attorney General, on or before Sept. 1, 1979, to submit to Congress a plan to close the United States Penitentiary on McNeil Island, Steilacoom, Washington, on or before Jan. 1, 1982, and a report on the status of the Federal Prison Industries, including a long-range plan for the improvement of meaningful employment training.
+Pub. L. 95–624, § 10, Nov. 9, 1978, 92 Stat. 3463, required the Attorney General, on or before Sept. 1, 1979, to submit to Congress a plan to close the United States Penitentiary on McNeil Island, Steilacoom, Washington, on or before Jan. 1, 1982, and a report on the status of the Federal Prison Industries, including a long-range plan for the improvement of meaningful employment training.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Federal Prison Industries, Inc. (together with its Board of Directors), and its functions transferred to Department of Justice to be administered under general direction and supervision of Attorney General, by Reorg. Plan No. II of 1939, § 3(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1431, set out in the Appendix to Title 5, Government Organization and Employees. See, also, Reorg. Plan No. 2 of 1950, § 1, eff. May 1, 1950, 15 F.R. 3173, 64 Stat. 1261, and section 509 of Title 28, Judiciary and Judicial Procedure.
+Federal Prison Industries, Inc. (together with its Board of Directors), and its functions transferred to Department of Justice to be administered under general direction and supervision of Attorney General, by Reorg. Plan No. II of 1939, § 3(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1431, set out in the Appendix to Title 5, Government Organization and Employees. See, also, Reorg. Plan No. 2 of 1950, § 1, eff. May 1, 1950, 15 F.R. 3173, 64 Stat. 1261, and section 509 of Title 28, Judiciary and Judicial Procedure.
 
-## § 4122. Administration of Federal Prison Industries
+## § 4122. Administration of Federal Prison Industries
 
 **(a)** Federal Prison Industries shall determine in what manner and to what extent industrial operations shall be carried on in Federal penal and correctional institutions for the production of commodities for consumption in such institutions or for sale to the departments or agencies of the United States, but not for sale to the public in competition with private enterprise.
 
@@ -143,13 +143,13 @@ In addition, the board of directors, before making a final decision under this p
 
 **(3)** Nothing in this chapter shall be construed to affect the provisions of the Act approved October 3, 1964 (D.C. Code, sections 24–451 et seq.), entitled “An Act to establish in the Treasury a correctional industries fund for the government of the District of Columbia, and for other purposes.”
 
-(June 25, 1948, ch. 645, 62 Stat. 851; May 24, 1949, ch. 139, § 63, 63 Stat. 98; Oct. 31, 1951, ch. 655, § 31, 65 Stat. 722; Pub. L. 90–226, title VIII, § 802, Dec. 27, 1967, 81 Stat. 741; Pub. L. 100–690, title VII, § 7096, Nov. 18, 1988, 102 Stat. 4413.)
+(June 25, 1948, ch. 645, 62 Stat. 851; May 24, 1949, ch. 139, § 63, 63 Stat. 98; Oct. 31, 1951, ch. 655, § 31, 65 Stat. 722; Pub. L. 90–226, title VIII, § 802, Dec. 27, 1967, 81 Stat. 741; Pub. L. 100–690, title VII, § 7096, Nov. 18, 1988, 102 Stat. 4413.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., §§ 744a, 744c, 744k (May 27, 1930, ch. 340, §§ 1, 3, 46 Stat. 391; June 23, 1934, ch. 736, § 3, 48 Stat. 1211).
+Based on title 18, U.S.C., 1940 ed., §§ 744a, 744c, 744k (May 27, 1930, ch. 340, §§ 1, 3, 46 Stat. 391; June 23, 1934, ch. 736, § 3, 48 Stat. 1211).
 
 Section consolidates sections 744a, part of 744c, and 744k of title 18, U.S.C., 1940 ed., with such changes of phraseology as were necessary to effect the consolidation.
 
@@ -175,9 +175,9 @@ The Act approved October 3, 1964 (D.C. Code, sections 24–451 et seq.), entitle
 
 1988—Subsec. (b). Pub. L. 100–690 designated existing provisions as par. (1), substituted “the greatest number of those inmates in the United States penal and correctional institutions who are eligible to work as is reasonably possible” for “all physically fit inmates in the United States penal and correctional institutions”, and added pars. (2) to (6).
 
-1967—Subsec. (d). Pub. L. 90–226, § 802(1), (2), designated existing provisions of subsec. (d) as par. (1) thereof, designated existing provisions of subsec. (e) as par. (2) of subsec. (d), and substituted reference to par. (1) of this subsection for reference to subsec. (d) of this section.
+1967—Subsec. (d). Pub. L. 90–226, § 802(1), (2), designated existing provisions of subsec. (d) as par. (1) thereof, designated existing provisions of subsec. (e) as par. (2) of subsec. (d), and substituted reference to par. (1) of this subsection for reference to subsec. (d) of this section.
 
-Subsec. (e). Pub. L. 90–226, § 802(3), added subsec. (e). Former subsec. (e) redesignated (d)(2).
+Subsec. (e). Pub. L. 90–226, § 802(3), added subsec. (e). Former subsec. (e) redesignated (d)(2).
 
 1951—Subsecs. (d), (e). Act Oct. 31, 1951, substituted “Department of Defense” for “National Military Establishment”.
 
@@ -187,13 +187,13 @@ Subsec. (e). Pub. L. 90–226, § 802(3), added subsec. (e). Former subsec. (e
 
 **Transfer of Functions**
 
-Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by Office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
+Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by Office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
 
 **Utilization of Surplus Property**
 
-Act June 29, 1948, ch. 719, § 4, 62 Stat. 1100, provided that: “For its own use in the industrial employment and training of prisoners and not for transfer or disposition, transfers of surplus property under the Surplus Property Act of 1944 [former sections 1611 to 1646 of the former Appendix to Title 50, War and National Defense], may be made to Federal Prison Industries, Incorporated, without reimbursement or transfer of funds.”
+Act June 29, 1948, ch. 719, § 4, 62 Stat. 1100, provided that: “For its own use in the industrial employment and training of prisoners and not for transfer or disposition, transfers of surplus property under the Surplus Property Act of 1944 [former sections 1611 to 1646 of the former Appendix to Title 50, War and National Defense], may be made to Federal Prison Industries, Incorporated, without reimbursement or transfer of funds.”
 
-## § 4123. New industries
+## § 4123. New industries
 
 Any industry established under this chapter shall be so operated as not to curtail the production of any existing arsenal, navy yard, or other Government workshop.
 
@@ -205,7 +205,7 @@ The industries may be either within the precincts of any penal or correctional i
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 744c (May 27, 1930, ch. 340, § 3, 46 Stat. 391).
+Based on title 18, U.S.C., 1940 ed., § 744c (May 27, 1930, ch. 340, § 3, 46 Stat. 391).
 
 A part of said section 744c of title 18, U.S.C., 1940 ed., is incorporated in section 4122 of this title.
 
@@ -215,7 +215,7 @@ References to “this chapter” were substituted for “this section” since t
 
 Minor changes of phraseology were made.
 
-## § 4124. Purchase of prison-made products by Federal departments
+## § 4124. Purchase of prison-made products by Federal departments
 
 **(a)** The several Federal departments and agencies and all other Government institutions of the United States shall purchase at not to exceed current market prices, such products of the industries authorized by this chapter as meet their requirements and may be available.
 
@@ -225,13 +225,13 @@ Minor changes of phraseology were made.
 
 **(d)** Within 90 days after the date of the enactment of this subsection, Federal Prison Industries shall publish a catalog of all products and services which it offers for sale. This catalog shall be updated periodically to the extent necessary to ensure that the information in the catalog is complete and accurate.
 
-(June 25, 1948, ch. 645, 62 Stat. 851; Oct. 31, 1951, ch. 655, § 32, 65 Stat. 723; Pub. L. 98–216, § 3(b)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 101–647, title XXIX, § 2901, Nov. 29, 1990, 104 Stat. 4912; Pub. L. 102–564, title III, § 303(b), Oct. 28, 1992, 106 Stat. 4262; Pub. L. 104–316, title I, § 109(b), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 111–350, § 5(d)(2), Jan. 4, 2011, 124 Stat. 3847.)
+(June 25, 1948, ch. 645, 62 Stat. 851; Oct. 31, 1951, ch. 655, § 32, 65 Stat. 723; Pub. L. 98–216, § 3(b)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 101–647, title XXIX, § 2901, Nov. 29, 1990, 104 Stat. 4912; Pub. L. 102–564, title III, § 303(b), Oct. 28, 1992, 106 Stat. 4262; Pub. L. 104–316, title I, § 109(b), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 111–350, § 5(d)(2), Jan. 4, 2011, 124 Stat. 3847.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 744g (May 27, 1930, ch. 340, § 7, 46 Stat. 392).
+Based on title 18, U.S.C., 1940 ed., § 744g (May 27, 1930, ch. 340, § 7, 46 Stat. 392).
 
-The revised section substituted the Director of the Bureau of Federal Supply of the Treasury Department for the General Supply Committee, the functions of the latter having been transferred to the Procurement Division of the Treasury Department by Executive Order No. 6166, § 1, June 10, 1933, and the name of that unit having been changed to Bureau of Federal Supply by order of the Secretary of the Treasury effective January 1, 1947, 11 Federal Register No. 13,638. The Bureau of the Budget was substituted for the Bureau of Efficiency which was abolished by Act of March 3, 1933, ch. 212, § 17, 47 Stat. 1519, without transferring its functions elsewhere. However, the Bureau of the Budget performs similar duties and its Director logically should serve on the arbitration board.
+The revised section substituted the Director of the Bureau of Federal Supply of the Treasury Department for the General Supply Committee, the functions of the latter having been transferred to the Procurement Division of the Treasury Department by Executive Order No. 6166, § 1, June 10, 1933, and the name of that unit having been changed to Bureau of Federal Supply by order of the Secretary of the Treasury effective January 1, 1947, 11 Federal Register No. 13,638. The Bureau of the Budget was substituted for the Bureau of Efficiency which was abolished by Act of March 3, 1933, ch. 212, § 17, 47 Stat. 1519, without transferring its functions elsewhere. However, the Bureau of the Budget performs similar duties and its Director logically should serve on the arbitration board.
 
 Reference to authority for appropriations was omitted and words “by this chapter” substituted therefor.
 
@@ -261,17 +261,17 @@ The date of the enactment of this subsection, referred to in subsec. (d), is the
 
 **Agency Purchase of Federal Prison Industries Products or Services**
 
-Pub. L. 108–447, div. H, title VI, § 637, Dec. 8, 2004, 118 Stat. 3281, provided that: “None of the funds made available under this or any other Act for fiscal year 2005 and each fiscal year thereafter shall be expended for the purchase of a product or service offered by Federal Prison Industries, Inc., unless the agency making such purchase determines that such offered product or service provides the best value to the buying agency pursuant to governmentwide procurement regulations, issued pursuant to section 25(c)(1) of the Office of Federal Procurement Act ([former] 41 U.S.C. 421(c)(1)) [now 41 U.S.C. 1303(a)(1)] that impose procedures, standards, and limitations of section 2410n of title 10, United States Code [now 10 U.S.C. 3905].”
+Pub. L. 108–447, div. H, title VI, § 637, Dec. 8, 2004, 118 Stat. 3281, provided that: “None of the funds made available under this or any other Act for fiscal year 2005 and each fiscal year thereafter shall be expended for the purchase of a product or service offered by Federal Prison Industries, Inc., unless the agency making such purchase determines that such offered product or service provides the best value to the buying agency pursuant to governmentwide procurement regulations, issued pursuant to section 25(c)(1) of the Office of Federal Procurement Act ([former] 41 U.S.C. 421(c)(1)) [now 41 U.S.C. 1303(a)(1)] that impose procedures, standards, and limitations of section 2410n of title 10, United States Code [now 10 U.S.C. 3905].”
 
 Similar provisions were contained in the following prior appropriations act:
 
-Pub. L. 108–199, div. F, title VI, § 637, Jan. 23, 2004, 118 Stat. 358.
+Pub. L. 108–199, div. F, title VI, § 637, Jan. 23, 2004, 118 Stat. 358.
 
 **Purchases by Central Intelligence Agency of Products of Federal Prison Industries**
 
-Pub. L. 108–177, title IV, § 404, Dec. 13, 2003, 117 Stat. 2632, as amended by Pub. L. 108–458, title I, § 1071(g)(3)(C), Dec. 17, 2004, 118 Stat. 3692, provided that: “Notwithstanding section 4124 of title 18, United States Code, purchases by the Central Intelligence Agency from Federal Prison Industries shall be made only if the Director of the Central Intelligence Agency determines that the product or service to be purchased from Federal Prison Industries best meets the needs of the Agency.”
+Pub. L. 108–177, title IV, § 404, Dec. 13, 2003, 117 Stat. 2632, as amended by Pub. L. 108–458, title I, § 1071(g)(3)(C), Dec. 17, 2004, 118 Stat. 3692, provided that: “Notwithstanding section 4124 of title 18, United States Code, purchases by the Central Intelligence Agency from Federal Prison Industries shall be made only if the Director of the Central Intelligence Agency determines that the product or service to be purchased from Federal Prison Industries best meets the needs of the Agency.”
 
-## § 4125. Public works; prison camps
+## § 4125. Public works; prison camps
 
 **(a)** The Attorney General may make available to the heads of the several departments the services of United States prisoners under terms, conditions, and rates mutually agreed upon, for constructing or repairing roads, clearing, maintaining and reforesting public lands, building levees, and constructing or repairing any other public ways or works financed wholly or in major part by funds appropriated by Congress.
 
@@ -287,7 +287,7 @@ Pub. L. 108–177, title IV, § 404, Dec. 13, 2003, 117 Stat. 2632, as amended
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 744b, 851, 853, 854, 855 (Feb. 26, 1929, ch. 336, §§ 1, 3, 4, 5, 45 Stat. 1318; May 27, 1930, ch. 340, § 2, 46 Stat. 391).
+Based on title 18, U.S.C., 1940 ed., §§ 744b, 851, 853, 854, 855 (Feb. 26, 1929, ch. 336, §§ 1, 3, 4, 5, 45 Stat. 1318; May 27, 1930, ch. 340, § 2, 46 Stat. 391).
 
 Section consolidates section 744b of title 18, U.S.C., 1940 ed., with those portions of sections 851, 853–855 of title 18, U.S.C., 1940 ed., which may not have been superseded by section 744b of said title.
 
@@ -305,7 +305,7 @@ The provision for transfer of prisoners was omitted as duplicitous of a similar 
 
 Other changes of phraseology were made.
 
-## § 4126. Prison Industries Fund; use and settlement of accounts
+## § 4126. Prison Industries Fund; use and settlement of accounts
 
 **(a)** All moneys under the control of Federal Prison Industries, or received from the sale of the products or by-products of such Industries, or for the services of federal prisoners, shall be deposited or covered into the Treasury of the United States to the credit of the Prison Industries Fund and withdrawn therefrom only pursuant to accountable warrants or certificates of settlement issued by the Government Accountability Office.
 
@@ -329,13 +329,13 @@ In no event may compensation for such injuries be paid in an amount greater than
 
 **(f)** Funds available to the corporation may be used for the lease, purchase, other acquisition, repair, alteration, erection, or maintenance of facilities only to the extent such facilities are necessary for the industrial operations of the corporation under this chapter. Such funds may not be used for the construction or acquisition of penal or correctional institutions, including camps described in section 4125.
 
-(June 25, 1948, ch. 645, 62 Stat. 852; May 24, 1949, ch. 139, § 64, 63 Stat. 99; Pub. L. 87–317, Sept. 26, 1961, 75 Stat. 681; Pub. L. 100–690, title VII, § 7094, Nov. 18, 1988, 102 Stat. 4412; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–391, title VI, § 605(c), Dec. 21, 2018, 132 Stat. 5242.)
+(June 25, 1948, ch. 645, 62 Stat. 852; May 24, 1949, ch. 139, § 64, 63 Stat. 99; Pub. L. 87–317, Sept. 26, 1961, 75 Stat. 681; Pub. L. 100–690, title VII, § 7094, Nov. 18, 1988, 102 Stat. 4412; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 115–391, title VI, § 605(c), Dec. 21, 2018, 132 Stat. 5242.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., §§ 744d, 744e, 744f, 744*l* (May 27, 1930, ch. 340, §§ 4–6, 46 Stat. 391, 392; June 23, 1934, ch. 736, § 4, 48 Stat. 1211).
+Based on title 18, U.S.C., 1940 ed., §§ 744d, 744e, 744f, 744*l* (May 27, 1930, ch. 340, §§ 4–6, 46 Stat. 391, 392; June 23, 1934, ch. 736, § 4, 48 Stat. 1211).
 
 This section is a restatement of section 744*l* of title 18, U.S.C., 1940 ed., with which sections 744d and 744f and the first sentence of section 744e of title 18, U.S.C., 1940 ed., are consolidated, in view of the fact that those provisions have been superseded by section 744*l* of title 18, U.S.C., 1940 ed., in connection with other provisions of the act of June 23, 1934, ch. 736, 48 Stat. 1211.
 
@@ -365,27 +365,27 @@ This section [section 64] incorporates in section 4126 of title 18, U.S.C., prov
 
 2004—Subsecs. (a), (d). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1988—Subsecs. (a), (b). Pub. L. 100–690, § 7094(1), designated first and second pars. as subsecs. (a) and (b), respectively.
+1988—Subsecs. (a), (b). Pub. L. 100–690, § 7094(1), designated first and second pars. as subsecs. (a) and (b), respectively.
 
-Subsec. (c). Pub. L. 100–690, § 7094(1), (2), designated third par. as subsec. (c) and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The corporation, in accordance with the laws generally applicable to the expenditures of the several departments and establishments of the government, is authorized to employ the fund, and any earnings that may accrue to the corporation, as operating capital in performing the duties imposed by this chapter; in the repair, alteration, erection and maintenance of industrial buildings and equipment; in the vocational training of inmates without regard to their industrial or other assignments; in paying, under rules and regulations promulgated by the Attorney General, compensation to inmates employed in any industry, or performing outstanding services in institutional operations, and compensation to inmates or their dependents for injuries suffered in any industry or in any work activity in connection with the maintenance or operation of the institution where confined. In no event shall compensation be paid in a greater amount than that provided in the Federal Employees’ Compensation Act.”
+Subsec. (c). Pub. L. 100–690, § 7094(1), (2), designated third par. as subsec. (c) and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The corporation, in accordance with the laws generally applicable to the expenditures of the several departments and establishments of the government, is authorized to employ the fund, and any earnings that may accrue to the corporation, as operating capital in performing the duties imposed by this chapter; in the repair, alteration, erection and maintenance of industrial buildings and equipment; in the vocational training of inmates without regard to their industrial or other assignments; in paying, under rules and regulations promulgated by the Attorney General, compensation to inmates employed in any industry, or performing outstanding services in institutional operations, and compensation to inmates or their dependents for injuries suffered in any industry or in any work activity in connection with the maintenance or operation of the institution where confined. In no event shall compensation be paid in a greater amount than that provided in the Federal Employees’ Compensation Act.”
 
-Subsecs. (d), (e). Pub. L. 100–690, § 7094(1), designated fourth and fifth pars. as subsecs. (d) and (e), respectively.
+Subsecs. (d), (e). Pub. L. 100–690, § 7094(1), designated fourth and fifth pars. as subsecs. (d) and (e), respectively.
 
-Subsec. (f). Pub. L. 100–690, § 7094(3), added subsec. (f).
+Subsec. (f). Pub. L. 100–690, § 7094(3), added subsec. (f).
 
 1961—Pub. L. 87–317 authorized compensation for injuries to inmates incurred while working in connection with the maintenance or operation of the institution where confined.
 
 1949—Act May 24, 1949, inserted “in the vocational training of inmates without regard to their industrial or other assignments;” after second semicolon in third par.
 
-## § 4127. Prison Industries report to Congress
+## § 4127. Prison Industries report to Congress
 
 The board of directors of Federal Prison Industries shall submit an annual report to the Congress on the conduct of the business of the corporation during each fiscal year, and on the condition of its funds during such fiscal year. Such report shall include a statement of the amount of obligations issued under section 4129(a)(1) during such fiscal year, and an estimate of the amount of obligations that will be so issued in the following fiscal year.
 
-(June 25, 1948, ch. 645, 62 Stat. 852; Pub. L. 100–690, title VII, § 7095, Nov. 18, 1988, 102 Stat. 4413.)
+(June 25, 1948, ch. 645, 62 Stat. 852; Pub. L. 100–690, title VII, § 7095, Nov. 18, 1988, 102 Stat. 4413.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 744m (June 23, 1934, ch. 736, § 5, 48 Stat. 1212).
+Based on title 18, U.S.C., 1940 ed., § 744m (June 23, 1934, ch. 736, § 5, 48 Stat. 1212).
 
 Words “of Federal Prison Industries” were inserted after “board of directors”.
 
@@ -403,7 +403,7 @@ Minor changes were made in phraseology.
 
 For termination, effective May 15, 2000, of reporting provisions in this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 117 of House Document No. 103–7.
 
-## § 4128. Enforcement by Attorney General
+## § 4128. Enforcement by Attorney General
 
 In the event of any failure of Federal Prison Industries to act, the Attorney General shall not be limited in carrying out the duties conferred upon him by law.
 
@@ -411,15 +411,15 @@ In the event of any failure of Federal Prison Industries to act, the Attorney Ge
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 744n (June 23, 1934, ch. 736, § 6, 48 Stat. 1212).
+Based on title 18, U.S.C., 1940 ed., § 744n (June 23, 1934, ch. 736, § 6, 48 Stat. 1212).
 
 Phrase relating to section being “supplemental” to sections 744i–744h of title 18, U.S.C., 1940 ed., is omitted as unnecessary.
 
-Retention of remainder of section is essential to insure authority of Attorney General to require performance of duties of Prison Industries. (See sections 4001 and 4003 of this title.) This is also consistent with 1939 Reorganization Plan No. II, § 3(a), transferring the corporation to the Department of Justice “under the general direction and supervision of the Attorney General”. (See section 133t of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.)
+Retention of remainder of section is essential to insure authority of Attorney General to require performance of duties of Prison Industries. (See sections 4001 and 4003 of this title.) This is also consistent with 1939 Reorganization Plan No. II, § 3(a), transferring the corporation to the Department of Justice “under the general direction and supervision of the Attorney General”. (See section 133t of title 5, U.S.C., 1940 ed., Executive Departments and Government Officers and Employees.)
 
 Words “Federal Prison Industries” were substituted for “the corporation”.
 
-## § 4129. Authority to borrow and invest
+## § 4129. Authority to borrow and invest
 
 **(a)**
 
@@ -429,7 +429,7 @@ Words “Federal Prison Industries” were substituted for “the corporation”
 
 **(b)** Federal Prison Industries may request the Secretary of the Treasury to invest excess moneys from the Prison Industries Fund. Such investments shall be in public debt securities with maturities suitable to the needs of the corporation as determined by the board of directors, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities.
 
-(Added Pub. L. 100–690, title VII, § 7093(a), Nov. 18, 1988, 102 Stat. 4411.)
+(Added Pub. L. 100–690, title VII, § 7093(a), Nov. 18, 1988, 102 Stat. 4411.)
 
 **Editorial Notes**
 
@@ -437,7 +437,7 @@ Words “Federal Prison Industries” were substituted for “the corporation”
 
 The date of the enactment of this section, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 100–690 which was approved Nov. 18, 1988.
 
-## § 4130. Additional markets
+## § 4130. Additional markets
 
 **(a) In General.—** Except as provided in subsection (b), notwithstanding any other provision of law, Federal Prison Industries may sell products to—
 
@@ -459,7 +459,7 @@ The date of the enactment of this section, referred to in subsec. (a)(1), is the
 
 **(3)** The term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the United States Virgin Islands.
 
-(Added Pub. L. 115–391, title VI, § 605(a), Dec. 21, 2018, 132 Stat. 5242.)
+(Added Pub. L. 115–391, title VI, § 605(a), Dec. 21, 2018, 132 Stat. 5242.)
 
 **Editorial Notes**
 

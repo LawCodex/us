@@ -31,99 +31,99 @@ Subchapter D, Policies issued by foreign insurers, comprising sections 4371 to 4
 
 Subchapter E, Miscellaneous provisions applicable to documentary stamp taxes, comprising sections 4381 to 4384.
 
-Subchapters A and B were repealed by Pub. L. 89–44, title IV, § 401(a), June 21, 1965, 79 Stat. 148.
+Subchapters A and B were repealed by Pub. L. 89–44, title IV, § 401(a), June 21, 1965, 79 Stat. 148.
 
-Subchapter C was struck out by Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1812.
+Subchapter C was struck out by Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1812.
 
-Subchapter D heading was struck out, sections 4371 to 4373 were reenacted without change, section 4374, “liability for tax”, was substituted for section 4374, “payment of tax”, and section 4375 was struck out by Pub. L. 94–455, title XIX, § 1904(a)(12).
+Subchapter D heading was struck out, sections 4371 to 4373 were reenacted without change, section 4374, “liability for tax”, was substituted for section 4374, “payment of tax”, and section 4375 was struck out by Pub. L. 94–455, title XIX, § 1904(a)(12).
 
-Subchapter E, section 4381 was repealed by Pub. L. 89–44, title IV, § 401(c), June 21, 1965, 79 Stat. 148, and sections 4382 to 4384 were struck out by Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1812.
+Subchapter E, section 4381 was repealed by Pub. L. 89–44, title IV, § 401(c), June 21, 1965, 79 Stat. 148, and sections 4382 to 4384 were struck out by Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1812.
 
 The subject matter of the prior sections was as follows:
 
-A prior section 4301, acts Aug. 16, 1954, ch. 736, 68A Stat. 513; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1293; Apr. 8, 1960, Pub. L. 86–416, § 1, 74 Stat. 36, imposed a tax, based upon the actual value of the certificates or shares, upon each original issue of shares or certificates of stock issued by a corporation.
+A prior section 4301, acts Aug. 16, 1954, ch. 736, 68A Stat. 513; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1293; Apr. 8, 1960, Pub. L. 86–416, § 1, 74 Stat. 36, imposed a tax, based upon the actual value of the certificates or shares, upon each original issue of shares or certificates of stock issued by a corporation.
 
-A prior section 4302, acts Aug. 16, 1954, ch. 736, 68A Stat. 513; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1293, made provision for a determination of tax in the case of recapitalization.
+A prior section 4302, acts Aug. 16, 1954, ch. 736, 68A Stat. 513; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1293, made provision for a determination of tax in the case of recapitalization.
 
-A prior section 4303, acts Aug. 16, 1954, ch. 736, 68A Stat. 514; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1293, granted exemptions for common trust funds, pooled investment funds, and installment purchases of certain shares or certificates, and directed attention to section 4382 for other exemptions.
+A prior section 4303, acts Aug. 16, 1954, ch. 736, 68A Stat. 514; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1293, granted exemptions for common trust funds, pooled investment funds, and installment purchases of certain shares or certificates, and directed attention to section 4382 for other exemptions.
 
-A prior section 4304, acts Aug. 16, 1954, ch. 736, 68A Stat. 514; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, called for the affixing of the stamps representing the tax imposed by section 4301 upon the stock books or corresponding records of the corporation.
+A prior section 4304, acts Aug. 16, 1954, ch. 736, 68A Stat. 514; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, called for the affixing of the stamps representing the tax imposed by section 4301 upon the stock books or corresponding records of the corporation.
 
-A prior section 4305, acts Aug. 16, 1954, ch. 736, 68A Stat. 514; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, made cross-references to sections 4381 and 4384 and subtitle F.
+A prior section 4305, acts Aug. 16, 1954, ch. 736, 68A Stat. 514; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, made cross-references to sections 4381 and 4384 and subtitle F.
 
-A prior section 4311, acts Aug. 16, 1954, ch. 736, 68A Stat. 514; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, imposed a tax on all certificates of indebtedness issued by a corporation.
+A prior section 4311, acts Aug. 16, 1954, ch. 736, 68A Stat. 514; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, imposed a tax on all certificates of indebtedness issued by a corporation.
 
-A prior section 4312, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, § 4312, formerly § 4313; renumbered § 4312, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, provided that every renewal of any certificate of indebtedness should be taxed as a new issue.
+A prior section 4312, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, § 4312, formerly § 4313; renumbered § 4312, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, provided that every renewal of any certificate of indebtedness should be taxed as a new issue.
 
-A prior section 4313, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, § 4313, formerly § 4314; renumbered § 4313, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, provided for the method of determining the rate of taxation in the case of a bond conditioned for the repayment of money and given in a penal sum greater than the debt secured.
+A prior section 4313, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, § 4313, formerly § 4314; renumbered § 4313, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, provided for the method of determining the rate of taxation in the case of a bond conditioned for the repayment of money and given in a penal sum greater than the debt secured.
 
-A prior section 4314, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, § 4314, formerly § 4315; renumbered § 4314, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, granted an exemption to instruments under the terms of which the obligee was required to make installment payments of not more than 20 percent annually, and made reference to section 4382 for other exemptions.
+A prior section 4314, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, § 4314, formerly § 4315; renumbered § 4314, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, granted an exemption to instruments under the terms of which the obligee was required to make installment payments of not more than 20 percent annually, and made reference to section 4382 for other exemptions.
 
-A prior section 4315, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, § 4315, formerly § 4316; renumbered § 4315 and amended Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, made cross references to sections 4381 and 4384 and subtitle F.
+A prior section 4315, acts Aug. 16, 1954, ch. 736, 68A Stat. 514, § 4315, formerly § 4316; renumbered § 4315 and amended Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1294, made cross references to sections 4381 and 4384 and subtitle F.
 
-A prior section 4321, acts Aug. 16, 1954, ch. 736, 68A Stat. 515; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1295; Sept. 21, 1959, Pub. L. 86–344, § 5(a), 73 Stat. 619, imposed a tax upon the sale or transfer of shares or certificates of stock or of rights to subscribe to receive such shares or certificates issued by a corporation.
+A prior section 4321, acts Aug. 16, 1954, ch. 736, 68A Stat. 515; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1295; Sept. 21, 1959, Pub. L. 86–344, § 5(a), 73 Stat. 619, imposed a tax upon the sale or transfer of shares or certificates of stock or of rights to subscribe to receive such shares or certificates issued by a corporation.
 
-A prior section 4322, acts Aug. 16, 1954, ch. 736, 68A Stat. 515; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1295, granted exemptions in the case of sales by brokers or registered nominees and in the case of odd lot sales.
+A prior section 4322, acts Aug. 16, 1954, ch. 736, 68A Stat. 515; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1295, granted exemptions in the case of sales by brokers or registered nominees and in the case of odd lot sales.
 
-A prior section 4323, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1296; Sept. 21, 1959, Pub. L. 86–344, § 5(b), 73 Stat. 619, called for the affixing of the stamps representing the tax upon the books of the corporation and the certification of the actual value of the shares transferred, and made reference to section 4352 in the case of transfers shown otherwise than by the books of the corporation.
+A prior section 4323, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1296; Sept. 21, 1959, Pub. L. 86–344, § 5(b), 73 Stat. 619, called for the affixing of the stamps representing the tax upon the books of the corporation and the certification of the actual value of the shares transferred, and made reference to section 4352 in the case of transfers shown otherwise than by the books of the corporation.
 
-A prior section 4324, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1296, made cross references to other sections and subtitles for definitions, penalties, and other general and administrative provisions.
+A prior section 4324, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1296, made cross references to other sections and subtitles for definitions, penalties, and other general and administrative provisions.
 
-A prior section 4331, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1296, imposed a tax upon each sale or transfer of any certificate of indebtedness issued by a corporation.
+A prior section 4331, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1296, imposed a tax upon each sale or transfer of any certificate of indebtedness issued by a corporation.
 
-A prior section 4332, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Jan. 28, 1956, ch. 19, 70 Stat. 9; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1296, granted exemptions in the case of transfers and sales by brokers and installment purchases of obligations and made reference to other exemptions listed in other sections.
+A prior section 4332, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Jan. 28, 1956, ch. 19, 70 Stat. 9; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1296, granted exemptions in the case of transfers and sales by brokers and installment purchases of obligations and made reference to other exemptions listed in other sections.
 
-A prior section 4333, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1296, made cross references to other sections and subtitles for definitions, penalties, and other general and administrative provisions.
+A prior section 4333, acts Aug. 16, 1954, ch. 736, 68A Stat. 516; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1296, made cross references to other sections and subtitles for definitions, penalties, and other general and administrative provisions.
 
-A prior section 4341, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1297, granted an exemption from the imposition of the tax under sections 4321 and 4331 in the case of transfers as collateral security and as security for performance.
+A prior section 4341, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1297, granted an exemption from the imposition of the tax under sections 4321 and 4331 in the case of transfers as collateral security and as security for performance.
 
-A prior section 4342, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1297, granted exemptions in the case of delivery or transfer of instruments by a fiduciary to his nominee or between nominees or by a custodian.
+A prior section 4342, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1297, granted exemptions in the case of delivery or transfer of instruments by a fiduciary to his nominee or between nominees or by a custodian.
 
-A prior section 4343, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1297, provided that taxes imposed by sections 4321 and 4331 would not apply in specified cases involving decedents, minors, incompetents, financial institutions, bankrupts, successors, foreign governments and aliens, trustees, and survivors.
+A prior section 4343, acts Aug. 16, 1954, ch. 736, 68A Stat. 517; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1297, provided that taxes imposed by sections 4321 and 4331 would not apply in specified cases involving decedents, minors, incompetents, financial institutions, bankrupts, successors, foreign governments and aliens, trustees, and survivors.
 
-A prior section 4344, Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1298, made provision for an exemption from tax in the case of specified loan transactions, worthless stock and obligations, and transfers between certain revocable trusts.
+A prior section 4344, Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1298, made provision for an exemption from tax in the case of specified loan transactions, worthless stock and obligations, and transfers between certain revocable trusts.
 
-A prior section 4345, acts Aug. 16, 1954, ch. 736, 68A Stat. 518, § 4345, formerly § 4344; renumbered § 4345 and amended Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1298, required an exemption certificate setting forth the facts as prescribed by regulations.
+A prior section 4345, acts Aug. 16, 1954, ch. 736, 68A Stat. 518, § 4345, formerly § 4344; renumbered § 4345 and amended Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1298, required an exemption certificate setting forth the facts as prescribed by regulations.
 
-A prior section 4346, acts Aug. 16, 1954, ch. 736, 68A Stat. 518, § 4346, formerly § 4345; renumbered § 4346, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1298, made cross reference to other sections for additional exemptions.
+A prior section 4346, acts Aug. 16, 1954, ch. 736, 68A Stat. 518, § 4346, formerly § 4345; renumbered § 4346, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1298, made cross reference to other sections for additional exemptions.
 
-A prior section 4351, acts Aug. 16, 1954, ch. 736, 68A Stat. 518; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1299, defined registered nominee and sale or transfer.
+A prior section 4351, acts Aug. 16, 1954, ch. 736, 68A Stat. 518; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1299, defined registered nominee and sale or transfer.
 
-A prior section 4352, acts Aug. 16, 1954, ch. 736, 68A Stat. 519, § 4352, formerly § 4353; renumbered § 4352, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1299, provided for the affixing of the stamps required either on the instrument itself or on the memorandum or bill of sale.
+A prior section 4352, acts Aug. 16, 1954, ch. 736, 68A Stat. 519, § 4352, formerly § 4353; renumbered § 4352, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1299, provided for the affixing of the stamps required either on the instrument itself or on the memorandum or bill of sale.
 
-A prior section 4353, Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1299, made provision for the payment of tax through the national securities exchanges without the use of stamps.
+A prior section 4353, Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1299, made provision for the payment of tax through the national securities exchanges without the use of stamps.
 
-A prior section 4354, acts Aug. 16, 1954, ch. 736, 68A Stat. 519; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1299, made cross references to section 4384 and subtitle F for penalties and other general and administrative provisions.
+A prior section 4354, acts Aug. 16, 1954, ch. 736, 68A Stat. 519; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1299, made cross references to section 4384 and subtitle F for penalties and other general and administrative provisions.
 
-A prior section 4361, acts Aug. 16, 1954, ch. 736, 68A Stat. 520; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1299; June 21, 1965, Pub. L. 89–44, title IV, § 401(b), 79 Stat. 148, related to the imposition of a tax on each deed, instrument, or writing by which any realty is sold, assigned, transferred, or otherwise conveyed.
+A prior section 4361, acts Aug. 16, 1954, ch. 736, 68A Stat. 520; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1299; June 21, 1965, Pub. L. 89–44, title IV, § 401(b), 79 Stat. 148, related to the imposition of a tax on each deed, instrument, or writing by which any realty is sold, assigned, transferred, or otherwise conveyed.
 
-A prior section 4362, acts Aug. 16, 1954, ch. 736, 68A Stat. 520; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1300, related to exemptions to the tax imposed by former section 4361.
+A prior section 4362, acts Aug. 16, 1954, ch. 736, 68A Stat. 520; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1300, related to exemptions to the tax imposed by former section 4361.
 
-A prior section 4363, acts Aug. 16, 1954, ch. 736, 68A Stat. 520; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1300, related to cross references to former section 4384 and subtitle F of this title.
+A prior section 4363, acts Aug. 16, 1954, ch. 736, 68A Stat. 520; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1300, related to cross references to former section 4384 and subtitle F of this title.
 
-A prior section 4375, acts Aug. 16, 1954, ch. 736, 68A Stat. 522; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1301, made cross-references to section 4384 and subtitle F.
+A prior section 4375, acts Aug. 16, 1954, ch. 736, 68A Stat. 522; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1301, made cross-references to section 4384 and subtitle F.
 
-A prior section 4381, acts Aug. 16, 1954, ch. 736, 68A Stat. 523, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1302, defined certificates of indebtedness, corporation, and shares or certificates of stock.
+A prior section 4381, acts Aug. 16, 1954, ch. 736, 68A Stat. 523, Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1302, defined certificates of indebtedness, corporation, and shares or certificates of stock.
 
-A prior section 4382, acts Aug. 16, 1954, ch. 736, 68A Stat. 523; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1302; Oct. 16, 1962, Pub. L. 87–834, § 6(e)(2), 76 Stat. 984, granted exemptions to Government and state obligations, etc.
+A prior section 4382, acts Aug. 16, 1954, ch. 736, 68A Stat. 523; Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1302; Oct. 16, 1962, Pub. L. 87–834, § 6(e)(2), 76 Stat. 984, granted exemptions to Government and state obligations, etc.
 
 A prior section 4383, Pub. L. 85–859, title I, 141(a), Sept. 2, 1958, 72 Stat. 1303, related to the taxation of continuing and terminated partnerships.
 
-A prior section 4384, acts Aug. 16, 1954, ch. 736, 68A Stat. 524, § 4384, formerly § 4383; renumbered § 4384 and amended Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1303, related to liability for the tax.
+A prior section 4384, acts Aug. 16, 1954, ch. 736, 68A Stat. 524, § 4384, formerly § 4383; renumbered § 4384 and amended Sept. 2, 1958, Pub. L. 85–859, title I, § 141(a), 72 Stat. 1303, related to liability for the tax.
 
 **Amendments**
 
-2010—Pub. L. 111–148, title VI, § 6301(e)(2)(B)(i), Mar. 23, 2010, 124 Stat. 746, substituted “TAXES ON CERTAIN INSURANCE POLICIES” for “POLICIES ISSUED BY FOREIGN INSURERS” as chapter heading and added items relating to subchapters A and B.
+2010—Pub. L. 111–148, title VI, § 6301(e)(2)(B)(i), Mar. 23, 2010, 124 Stat. 746, substituted “TAXES ON CERTAIN INSURANCE POLICIES” for “POLICIES ISSUED BY FOREIGN INSURERS” as chapter heading and added items relating to subchapters A and B.
 
-1976—Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1812, substituted “POLICIES ISSUED BY FOREIGN INSURERS” for “DOCUMENTARY STAMP TAXES” as chapter heading and struck out items relating to subchapters C to E.
+1976—Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1812, substituted “POLICIES ISSUED BY FOREIGN INSURERS” for “DOCUMENTARY STAMP TAXES” as chapter heading and struck out items relating to subchapters C to E.
 
-1965—Pub. L. 89–44, title IV, § 401(a), June 21, 1965, 79 Stat. 148, struck out items relating to subchapters A and B.
+1965—Pub. L. 89–44, title IV, § 401(a), June 21, 1965, 79 Stat. 148, struck out items relating to subchapters A and B.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Dates of Repeal**
 
-Pub. L. 89–44, title VII, § 701(c)(1), June 21, 1965, 79 Stat. 157, provided that: “The amendments made by section 401 [repealing sections 4301 to 4305, 4311 to 4315, 4321 to 4324, 4331 to 4333, 4341 to 4346, 4351 to 4354 and 4381 of this title] (relating to documentary stamp taxes) shall apply on and after January 1, 1966.”
+Pub. L. 89–44, title VII, § 701(c)(1), June 21, 1965, 79 Stat. 157, provided that: “The amendments made by section 401 [repealing sections 4301 to 4305, 4311 to 4315, 4321 to 4324, 4331 to 4333, 4341 to 4346, 4351 to 4354 and 4381 of this title] (relating to documentary stamp taxes) shall apply on and after January 1, 1966.”
 
 Repeal of sections 4361 to 4363, 4375, 4382 to 4384 by section 1904(a)(12) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under section 4041 of this title.
 
@@ -133,9 +133,9 @@ Repeal of sections 4361 to 4363, 4375, 4382 to 4384 by section 1904(a)(12) of Pu
 
 **Amendments**
 
-2010—Pub. L. 111–148, title VI, § 6301(e)(2)(B)(i), Mar. 23, 2010, 124 Stat. 746, added subchapter heading.
+2010—Pub. L. 111–148, title VI, § 6301(e)(2)(B)(i), Mar. 23, 2010, 124 Stat. 746, added subchapter heading.
 
-### § 4371. Imposition of tax
+### § 4371. Imposition of tax
 
 There is hereby imposed, on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer, a tax at the following rates:
 
@@ -151,13 +151,13 @@ There is hereby imposed, on each policy of insurance, indemnity bond, annuity co
 
 1 cent on each dollar, or fractional part thereof, of the premium paid on the policy of reinsurance covering any of the contracts taxable under paragraph (1) or (2).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 521; Mar. 13, 1956, ch. 83, § 5(9), 70 Stat. 49; Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1300; Pub. L. 86–69, § 3(f)(3), June 25, 1959, 73 Stat. 140; Pub. L. 89–44, title VIII, § 804(b), June 21, 1965, 79 Stat. 160; Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 98–369, div. A, title II, § 211(b)(23), July 18, 1984, 98 Stat. 757; Pub. L. 100–203, title X, § 10242(c)(3), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 101–239, title VII, § 7811(i)(11), Dec. 19, 1989, 103 Stat. 2411.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 521; Mar. 13, 1956, ch. 83, § 5(9), 70 Stat. 49; Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1300; Pub. L. 86–69, § 3(f)(3), June 25, 1959, 73 Stat. 140; Pub. L. 89–44, title VIII, § 804(b), June 21, 1965, 79 Stat. 160; Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 98–369, div. A, title II, § 211(b)(23), July 18, 1984, 98 Stat. 757; Pub. L. 100–203, title X, § 10242(c)(3), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 101–239, title VII, § 7811(i)(11), Dec. 19, 1989, 103 Stat. 2411.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1989—Par. (2). Pub. L. 101–239 struck out “, unless the insurer is subject to tax under section 842(b)” after “or annuity contract”.
+1989—Par. (2). Pub. L. 101–239 struck out “, unless the insurer is subject to tax under section 842(b)” after “or annuity contract”.
 
 1987—Par. (2). Pub. L. 100–203 substituted “section 842(b)” for “section 813”.
 
@@ -207,7 +207,7 @@ Amendment by Pub. L. 85–859 effective on first day of first calendar quarter w
 
 Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
 
-### § 4372. Definitions
+### § 4372. Definitions
 
 **(a) Foreign insurer or reinsurer**
 
@@ -235,7 +235,7 @@ For the purpose of section 4371(2), the term “policy of life, sickness, or acc
 
 For the purpose of section 4371(3), the term “policy of reinsurance” means any policy or other instrument by whatever name called whereby a contract of reinsurance is made, continued, or renewed against, or with respect to, any of the hazards, risks, losses, or liabilities covered by contracts taxable under paragraph (1) or (2) of section 4371.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 521; Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1300; Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1812.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 521; Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1300; Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1812.)
 
 **Editorial Notes**
 
@@ -257,7 +257,7 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 Amendment by Pub. L. 85–859 effective on first day of first calendar quarter which begins more than 60 days after Sept. 2, 1958, see section 1(c) of Pub. L. 85–859, Sept. 2, 1958, 72 Stat. 1275.
 
-### § 4373. Exemptions
+### § 4373. Exemptions
 
 The tax imposed by section 4371 shall not apply to—
 
@@ -269,7 +269,7 @@ Any amount which is effectively connected with the conduct of a trade or busines
 
 Any indemnity bond required to be filed by any person to secure payment of any pension, allowance, allotment, relief, or insurance by the United States, or to secure a duplicate for, or the payment of, any bond, note, certificate of indebtedness, war-saving certificate, warrant or check, issued by the United States.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 522; Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1301; Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1813; Pub. L. 100–647, title I, § 1012(q)(13)(A), Nov. 10, 1988, 102 Stat. 3525.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 522; Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1301; Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1813; Pub. L. 100–647, title I, § 1012(q)(13)(A), Nov. 10, 1988, 102 Stat. 3525.)
 
 **Editorial Notes**
 
@@ -285,17 +285,17 @@ Any indemnity bond required to be filed by any person to secure payment of any p
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1012(q)(13)(B), Nov. 10, 1988, 102 Stat. 3525, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply with respect to premiums paid after the date 30 days after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title I, § 1012(q)(13)(B), Nov. 10, 1988, 102 Stat. 3525, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply with respect to premiums paid after the date 30 days after the date of the enactment of this Act [Nov. 10, 1988].”
 
 **Effective Date of 1976 Amendment**
 
 Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1904(d) of Pub. L. 94–455, set out as a note under section 4041 of this title.
 
-### § 4374. Liability for tax
+### § 4374. Liability for tax
 
 The tax imposed by this chapter shall be paid, on the basis of a return, by any person who makes, signs, issues, or sells any of the documents and instruments subject to the tax, or for whose use or benefit the same are made, signed, issued, or sold. The United States or any agency or instrumentality thereof shall not be liable for the tax.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 522; Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1301; Pub. L. 89–44, title VIII, § 804(a)(1), (2), June 21, 1965, 79 Stat. 160; Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1813.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 522; Pub. L. 85–859, title I, § 141(a), Sept. 2, 1958, 72 Stat. 1301; Pub. L. 89–44, title VIII, § 804(a)(1), (2), June 21, 1965, 79 Stat. 160; Pub. L. 94–455, title XIX, § 1904(a)(12), Oct. 4, 1976, 90 Stat. 1813.)
 
 **Editorial Notes**
 
@@ -319,15 +319,15 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–44, title VIII, § 804(c), June 21, 1965, 79 Stat. 160, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on July 1, 1965. The amendments made by subsection (b) [amending section 4371 of this title] shall apply with respect to policies, bonds, and contracts with respect to which the tax imposed by section 4371 of the Code is required to be paid on the basis of a return.”
+Pub. L. 89–44, title VIII, § 804(c), June 21, 1965, 79 Stat. 160, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on July 1, 1965. The amendments made by subsection (b) [amending section 4371 of this title] shall apply with respect to policies, bonds, and contracts with respect to which the tax imposed by section 4371 of the Code is required to be paid on the basis of a return.”
 
 **Determination of Partnership as Continuing or Terminated Partnership**
 
-Pub. L. 85–859, title I, § 141(b), Sept. 2, 1958, 72 Stat. 1304, mandated that only changes in the partnership occurring on or after the effective date specified in section 1(c) of Pub. L. 85–859 shall be taken into account in the determination of whether a partnership is a continuing or terminated one.
+Pub. L. 85–859, title I, § 141(b), Sept. 2, 1958, 72 Stat. 1304, mandated that only changes in the partnership occurring on or after the effective date specified in section 1(c) of Pub. L. 85–859 shall be taken into account in the determination of whether a partnership is a continuing or terminated one.
 
 ## Subchapter B—Insured and Self-Insured Health Plans
 
-### § 4375. Health insurance
+### § 4375. Health insurance
 
 **(a) Imposition of fee**
 
@@ -367,7 +367,7 @@ An arrangement is described in this subparagraph if under such arrangement fixed
 
 This section shall not apply to policy years ending after September 30, 2029.
 
-(Added Pub. L. 111–148, title VI, § 6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 743; amended Pub. L. 116–94, div. N, title I, § 104(b), Dec. 20, 2019, 133 Stat. 3098.)
+(Added Pub. L. 111–148, title VI, § 6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 743; amended Pub. L. 116–94, div. N, title I, § 104(b), Dec. 20, 2019, 133 Stat. 3098.)
 
 **Editorial Notes**
 
@@ -375,7 +375,7 @@ This section shall not apply to policy years ending after September 30, 2029.
 
 2019—Subsec. (e). Pub. L. 116–94 substituted “2029” for “2019”.
 
-### § 4376. Self-insured health plans
+### § 4376. Self-insured health plans
 
 **(a) Imposition of fee**
 
@@ -431,7 +431,7 @@ The fee imposed by subsection (a) shall be paid by the plan sponsor.
 
 This section shall not apply to plan years ending after September 30, 2029.
 
-(Added Pub. L. 111–148, title VI, § 6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 744; amended Pub. L. 116–94, div. N, title I, § 104(c), Dec. 20, 2019, 133 Stat. 3098.)
+(Added Pub. L. 111–148, title VI, § 6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 744; amended Pub. L. 116–94, div. N, title I, § 104(c), Dec. 20, 2019, 133 Stat. 3098.)
 
 **Editorial Notes**
 
@@ -443,7 +443,7 @@ Section 3(40) of Employee Retirement Income Security Act of 1974, referred to in
 
 2019—Subsec. (e). Pub. L. 116–94 substituted “2029” for “2019”.
 
-### § 4377. Definitions and special rules
+### § 4377. Definitions and special rules
 
 **(a) Definitions** For purposes of this subchapter—
 
@@ -489,12 +489,12 @@ For purposes of subtitle F, the fees imposed by this subchapter shall be treated
 
 Notwithstanding any other provision of law, no amount collected under this subchapter shall be covered over to any possession of the United States.
 
-(Added Pub. L. 111–148, title VI, § 6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 746.)
+(Added Pub. L. 111–148, title VI, § 6301(e)(2)(A), Mar. 23, 2010, 124 Stat. 746.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(3)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 4(d) of the Indian Health Care Improvement Act, referred to in subsec. (b)(3)(D), is classified to section 1603(d) of Title 25, Indians.

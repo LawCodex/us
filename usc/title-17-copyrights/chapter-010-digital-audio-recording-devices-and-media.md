@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2004—Pub. L. 108–419, § 5(i)(4)(B), Nov. 30, 2004, 118 Stat. 2369, substituted “Determination” for “Arbitration” in item 1010.
+2004—Pub. L. 108–419, § 5(i)(4)(B), Nov. 30, 2004, 118 Stat. 2369, substituted “Determination” for “Arbitration” in item 1010.
 
 ## SUBCHAPTER A—DEFINITIONS
 
-### § 1001. Definitions
+### § 1001. Definitions
 
 As used in this chapter, the following terms have the following meanings:
 
@@ -103,7 +103,7 @@ As used in this chapter, the following terms have the following meanings:
 
 **(13)** A “writer” is the composer or lyricist of a particular musical work.
 
-(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4237.)
+(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4237.)
 
 **Editorial Notes**
 
@@ -115,11 +115,11 @@ Section 482 of the Internal Revenue Code of 1986, referred to in par. (12)(B), i
 
 **Effective Date**
 
-Pub. L. 102–563, § 4, Oct. 28, 1992, 106 Stat. 4248, provided that: “This Act [see Short Title of 1992 Amendment note set out under section 101 of this title] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Oct. 28, 1992].”
+Pub. L. 102–563, § 4, Oct. 28, 1992, 106 Stat. 4248, provided that: “This Act [see Short Title of 1992 Amendment note set out under section 101 of this title] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Oct. 28, 1992].”
 
 ## SUBCHAPTER B—COPYING CONTROLS
 
-### § 1002. Incorporation of copying controls
+### § 1002. Incorporation of copying controls
 
 **(a) Prohibition on Importation, Manufacture, and Distribution.—** No person shall import, manufacture, or distribute any digital audio recording device or digital audio interface device that does not conform to—
 
@@ -141,11 +141,11 @@ Pub. L. 102–563, § 4, Oct. 28, 1992, 106 Stat. 4248, provided that: “This
 
 **(e) Information Accompanying Transmissions in Digital Format.—** Any person who transmits or otherwise communicates to the public any sound recording in digital format is not required under this chapter to transmit or otherwise communicate the information relating to the copyright status of the sound recording. Any such person who does transmit or otherwise communicate such copyright status information shall transmit or communicate such information accurately.
 
-(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4240.)
+(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4240.)
 
 ## SUBCHAPTER C—ROYALTY PAYMENTS
 
-### § 1003. Obligation to make royalty payments
+### § 1003. Obligation to make royalty payments
 
 **(a) Prohibition on Importation and Manufacture.—** No person shall import into and distribute, or manufacture and distribute, any digital audio recording device or digital audio recording medium unless such person records the notice specified by this section and subsequently deposits the statements of account and applicable royalty payments for such device or medium specified in section 1004.
 
@@ -159,9 +159,9 @@ Pub. L. 102–563, § 4, Oct. 28, 1992, 106 Stat. 4248, provided that: “This
 
 **(3) Royalty payments.—** Each such statement shall be accompanied by the royalty payments specified in section 1004.
 
-(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4240.)
+(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4240.)
 
-### § 1004. Royalty payments
+### § 1004. Royalty payments
 
 **(a) Digital Audio Recording Devices.—**
 
@@ -179,7 +179,7 @@ Pub. L. 102–563, § 4, Oct. 28, 1992, 106 Stat. 4248, provided that: “This
 
 **(b) Digital Audio Recording Media.—** The royalty payment due under section 1003 for each digital audio recording medium imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 3 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such medium shall be required to pay the royalty with respect to such medium.
 
-(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4241; amended Pub. L. 103–198, § 6(b)(1), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 108–419, § 5(i)(1), Nov. 30, 2004, 118 Stat. 2368.)
+(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4241; amended Pub. L. 103–198, § 6(b)(1), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 108–419, § 5(i)(1), Nov. 30, 2004, 118 Stat. 2368.)
 
 **Editorial Notes**
 
@@ -199,11 +199,11 @@ The effective date of this chapter, referred to in subsec. (a)(3), is Oct. 28, 1
 
 Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
 
-### § 1005. Deposit of royalty payments and deduction of expenses
+### § 1005. Deposit of royalty payments and deduction of expenses
 
 The Register of Copyrights shall receive all royalty payments deposited under this chapter and, after deducting the reasonable costs incurred by the Copyright Office under this chapter, shall deposit the balance in the Treasury of the United States as offsetting receipts, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest under section 1007. The Register may, in the Register’s discretion, 4 years after the close of any calendar year, close out the royalty payments account for that calendar year, and may treat any funds remaining in such account and any subsequent deposits that would otherwise be attributable to that calendar year as attributable to the succeeding calendar year.
 
-(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, § 6(b)(2), Dec. 17, 1993, 107 Stat. 2312.)
+(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, § 6(b)(2), Dec. 17, 1993, 107 Stat. 2312.)
 
 **Editorial Notes**
 
@@ -211,7 +211,7 @@ The Register of Copyrights shall receive all royalty payments deposited under th
 
 1993—Pub. L. 103–198 struck out at end “The Register shall submit to the Copyright Royalty Tribunal, on a monthly basis, a financial statement reporting the amount of royalties under this chapter that are available for distribution.”
 
-### § 1006. Entitlement to royalty payments
+### § 1006. Entitlement to royalty payments
 
 **(a) Interested Copyright Parties.—** The royalty payments deposited pursuant to section 1005 shall, in accordance with the procedures specified in section 1007, be distributed to any interested copyright party—
 
@@ -243,7 +243,7 @@ The Register of Copyrights shall receive all royalty payments deposited under th
 
 **(2)** for the Musical Works Fund, each musical work was distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions.
 
-(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, § 6(b)(3), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 105–80, § 12(a)(24), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 108–419, § 5(i)(2), Nov. 30, 2004, 118 Stat. 2368.)
+(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4242; amended Pub. L. 103–198, § 6(b)(3), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 105–80, § 12(a)(24), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 108–419, § 5(i)(2), Nov. 30, 2004, 118 Stat. 2368.)
 
 **Editorial Notes**
 
@@ -261,7 +261,7 @@ The Register of Copyrights shall receive all royalty payments deposited under th
 
 Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject to transition provisions, see section 6 of Pub. L. 108–419, set out as an Effective Date; Transition Provisions note under section 801 of this title.
 
-### § 1007. Procedures for distributing royalty payments
+### § 1007. Procedures for distributing royalty payments
 
 **(a) Filing of Claims and Negotiations.—**
 
@@ -273,31 +273,31 @@ Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject t
 
 **(c) Resolution of Disputes.—** If the Copyright Royalty Judges find the existence of a controversy, the Copyright Royalty Judges shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty payments. During the pendency of such a proceeding, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy. The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section.
 
-(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4244; amended Pub. L. 103–198, § 6(b)(4), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 105–80, §§ 9, 12(a)(25), Nov. 13, 1997, 111 Stat. 1534, 1535; Pub. L. 108–419, § 5(i)(3), Nov. 30, 2004, 118 Stat. 2368; Pub. L. 109–303, § 4(f), Oct. 6, 2006, 120 Stat. 1483.)
+(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4244; amended Pub. L. 103–198, § 6(b)(4), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 105–80, §§ 9, 12(a)(25), Nov. 13, 1997, 111 Stat. 1534, 1535; Pub. L. 108–419, § 5(i)(3), Nov. 30, 2004, 118 Stat. 2368; Pub. L. 109–303, § 4(f), Oct. 6, 2006, 120 Stat. 1483.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (b). Pub. L. 109–303, § 4(f)(1), substituted “Copyright Royalty Judges” for “Librarian of Congress” in second sentence and struck out “by the Librarian” after “administrative costs incurred” in last sentence.
+2006—Subsec. (b). Pub. L. 109–303, § 4(f)(1), substituted “Copyright Royalty Judges” for “Librarian of Congress” in second sentence and struck out “by the Librarian” after “administrative costs incurred” in last sentence.
 
-Subsec. (c). Pub. L. 109–303, § 4(f)(2), struck out “by the Librarian” after “administrative costs incurred” in last sentence.
+Subsec. (c). Pub. L. 109–303, § 4(f)(2), struck out “by the Librarian” after “administrative costs incurred” in last sentence.
 
-2004—Subsec. (a)(1). Pub. L. 108–419, § 5(i)(3)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “During the first 2 months of each calendar year after calendar year 1992, every interested copyright party seeking to receive royalty payments to which such party is entitled under section 1006 shall file with the Librarian of Congress a claim for payments collected during the preceding year in such form and manner as the Librarian of Congress shall prescribe by regulation.”
+2004—Subsec. (a)(1). Pub. L. 108–419, § 5(i)(3)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “During the first 2 months of each calendar year after calendar year 1992, every interested copyright party seeking to receive royalty payments to which such party is entitled under section 1006 shall file with the Librarian of Congress a claim for payments collected during the preceding year in such form and manner as the Librarian of Congress shall prescribe by regulation.”
 
-Subsec. (b). Pub. L. 108–419, § 5(i)(3)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After the period established for the filing of claims under subsection (a), in each year after 1992, the Librarian of Congress shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Librarian of Congress determines that no such controversy exists, the Librarian of Congress shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a), after deducting its reasonable administrative costs under this section.”
+Subsec. (b). Pub. L. 108–419, § 5(i)(3)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After the period established for the filing of claims under subsection (a), in each year after 1992, the Librarian of Congress shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Librarian of Congress determines that no such controversy exists, the Librarian of Congress shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a), after deducting its reasonable administrative costs under this section.”
 
-Subsec. (c). Pub. L. 108–419, § 5(i)(3)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Librarian of Congress finds the existence of a controversy, the Librarian shall, pursuant to chapter 8 of this title, convene a copyright arbitration royalty panel to determine the distribution of royalty payments. During the pendency of such a proceeding, the Librarian of Congress shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy. The Librarian of Congress shall, before authorizing the distribution of such royalty payments, deduct the reasonable administrative costs incurred by the Librarian under this section.”
+Subsec. (c). Pub. L. 108–419, § 5(i)(3)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If the Librarian of Congress finds the existence of a controversy, the Librarian shall, pursuant to chapter 8 of this title, convene a copyright arbitration royalty panel to determine the distribution of royalty payments. During the pendency of such a proceeding, the Librarian of Congress shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy. The Librarian of Congress shall, before authorizing the distribution of such royalty payments, deduct the reasonable administrative costs incurred by the Librarian under this section.”
 
-1997—Subsec. (a)(1). Pub. L. 105–80, § 12(a)(25)(A), substituted “calendar year 1992” for “the calendar year in which this chapter takes effect”.
+1997—Subsec. (a)(1). Pub. L. 105–80, § 12(a)(25)(A), substituted “calendar year 1992” for “the calendar year in which this chapter takes effect”.
 
-Subsec. (b). Pub. L. 105–80, §§ 9, 12(a)(25)(B), substituted “After the period established” for “Within 30 days after the period established” and “each year after 1992” for “each year after the year in which this section takes effect”.
+Subsec. (b). Pub. L. 105–80, §§ 9, 12(a)(25)(B), substituted “After the period established” for “Within 30 days after the period established” and “each year after 1992” for “each year after the year in which this section takes effect”.
 
-1993—Subsec. (a)(1). Pub. L. 103–198, § 6(b)(4)(A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “a claim for” and for “Tribunal” before “shall prescribe”.
+1993—Subsec. (a)(1). Pub. L. 103–198, § 6(b)(4)(A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “a claim for” and for “Tribunal” before “shall prescribe”.
 
-Subsec. (b). Pub. L. 103–198, § 6(b)(4)(B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “shall determine whether” and for “Tribunal” wherever appearing.
+Subsec. (b). Pub. L. 103–198, § 6(b)(4)(B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “shall determine whether” and for “Tribunal” wherever appearing.
 
-Subsec. (c). Pub. L. 103–198, § 6(b)(4)(C), substituted first sentence for “If the Tribunal finds the existence of a controversy, it shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty payments.”, substituted “Librarian of Congress” for “Tribunal” wherever appearing in second and third sentences, and “the reasonable administrative costs incurred by the Librarian” for “its reasonable administrative costs” in last sentence.
+Subsec. (c). Pub. L. 103–198, § 6(b)(4)(C), substituted first sentence for “If the Tribunal finds the existence of a controversy, it shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty payments.”, substituted “Librarian of Congress” for “Tribunal” wherever appearing in second and third sentences, and “the reasonable administrative costs incurred by the Librarian” for “its reasonable administrative costs” in last sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -311,13 +311,13 @@ Amendment by Pub. L. 108–419 effective 6 months after Nov. 30, 2004, subject t
 
 ## SUBCHAPTER D—PROHIBITION ON CERTAIN INFRINGEMENT ACTIONS, REMEDIES, AND ARBITRATION
 
-### § 1008. Prohibition on certain infringement actions
+### § 1008. Prohibition on certain infringement actions
 
 No action may be brought under this title alleging infringement of copyright based on the manufacture, importation, or distribution of a digital audio recording device, a digital audio recording medium, an analog recording device, or an analog recording medium, or based on the noncommercial use by a consumer of such a device or medium for making digital musical recordings or analog musical recordings.
 
-(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4244.)
+(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4244.)
 
-### § 1009. Civil remedies
+### § 1009. Civil remedies
 
 **(a) Civil Actions.—** Any interested copyright party injured by a violation of section 1002 or 1003 may bring a civil action in an appropriate United States district court against any person for such violation.
 
@@ -365,9 +365,9 @@ No action may be brought under this title alleging infringement of copyright bas
 
 **(2)** is in the custody or control of the violator or has been impounded under subsection (f).
 
-(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4245.)
+(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4245.)
 
-### § 1010. Determination of certain disputes
+### § 1010. Determination of certain disputes
 
 **(a) Scope of Determination.—** Before the date of first distribution in the United States of a digital audio recording device or a digital audio interface device, any party manufacturing, importing, or distributing such device, and any interested copyright party may mutually agree to petition the Copyright Royalty Judges to determine whether such device is subject to section 1002, or the basis on which royalty payments for such device are to be made under section 1003.
 
@@ -379,7 +379,7 @@ No action may be brought under this title alleging infringement of copyright bas
 
 **(e) Judicial Review.—** Any determination of the Copyright Royalty Judges under subsection (d) may be appealed, by a party to the proceeding, in accordance with section 803(d) of this title. The pendency of an appeal under this subsection shall not stay the determination of the Copyright Royalty Judges. If the court modifies the determination of the Copyright Royalty Judges, the court shall have jurisdiction to enter its own decision in accordance with its final judgment. The court may further vacate the determination of the Copyright Royalty Judges and remand the case for proceedings as provided in this section.
 
-(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4246; amended Pub. L. 103–198, § 6(b)(5), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 108–419, § 5(i)(4)(A), Nov. 30, 2004, 118 Stat. 2368.)
+(Added Pub. L. 102–563, § 2, Oct. 28, 1992, 106 Stat. 4246; amended Pub. L. 103–198, § 6(b)(5), Dec. 17, 1993, 107 Stat. 2312; Pub. L. 108–419, § 5(i)(4)(A), Nov. 30, 2004, 118 Stat. 2368.)
 
 **Editorial Notes**
 
@@ -387,13 +387,13 @@ No action may be brought under this title alleging infringement of copyright bas
 
 2004—Pub. L. 108–419 amended section catchline and text generally, substituting provisions relating to determination of certain disputes for provisions relating to arbitration of certain disputes.
 
-1993—Subsec. (b). Pub. L. 103–198, § 6(b)(5)(A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “requesting the commencement” and for “Tribunal” wherever appearing.
+1993—Subsec. (b). Pub. L. 103–198, § 6(b)(5)(A), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” before “requesting the commencement” and for “Tribunal” wherever appearing.
 
-Subsec. (e). Pub. L. 103–198, § 6(b)(5)(B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in heading and text.
+Subsec. (e). Pub. L. 103–198, § 6(b)(5)(B), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in heading and text.
 
-Subsec. (f). Pub. L. 103–198, § 6(b)(5)(C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in heading and before “shall adopt or reject” in text, substituted “Librarian of Congress” for “Tribunal” wherever appearing, and substituted “the Librarian’s” for “its”.
+Subsec. (f). Pub. L. 103–198, § 6(b)(5)(C), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” in heading and before “shall adopt or reject” in text, substituted “Librarian of Congress” for “Tribunal” wherever appearing, and substituted “the Librarian’s” for “its”.
 
-Subsec. (g). Pub. L. 103–198, § 6(b)(5)(D), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” after “Any decision of the”, “decision of the Librarian of Congress” for “Tribunal’s decision” in second sentence, and “Librarian of Congress” for “Tribunal” wherever appearing in third through fifth sentences.
+Subsec. (g). Pub. L. 103–198, § 6(b)(5)(D), substituted “Librarian of Congress” for “Copyright Royalty Tribunal” after “Any decision of the”, “decision of the Librarian of Congress” for “Tribunal’s decision” in second sentence, and “Librarian of Congress” for “Tribunal” wherever appearing in third through fifth sentences.
 
 **Statutory Notes and Related Subsidiaries**
 

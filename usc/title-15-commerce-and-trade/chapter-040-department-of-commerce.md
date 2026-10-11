@@ -15,17 +15,17 @@ retrieved: 2026-10-11
 
 # CHAPTER 40—DEPARTMENT OF COMMERCE
 
-## § 1501. Establishment of Department; Secretary; seal
+## § 1501. Establishment of Department; Secretary; seal
 
 There shall be at the seat of government an executive department to be known as the Department of Commerce, and a Secretary of Commerce, who shall be the head thereof, who shall be appointed by the President, by and with the advice and consent of the Senate, and whose term and tenure of office shall be like that of the heads of the other executive departments; and the provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department. The said Secretary shall cause a seal of office to be made for the said department of such device as the President shall approve, and judicial notice shall be taken of the said seal.
 
-(Feb. 14, 1903, ch. 552, § 1, 32 Stat. 825; Feb. 17, 1909, ch. 137, §§ 1, 2, 35 Stat. 626; Mar. 4, 1909, ch. 297, § 1, 35 Stat. 861; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Mar. 3, 1917, ch. 163, § 1, 39 Stat. 1111; Mar. 4, 1925, ch. 549, § 4, 43 Stat. 1301.)
+(Feb. 14, 1903, ch. 552, § 1, 32 Stat. 825; Feb. 17, 1909, ch. 137, §§ 1, 2, 35 Stat. 626; Mar. 4, 1909, ch. 297, § 1, 35 Stat. 861; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Mar. 3, 1917, ch. 163, § 1, 39 Stat. 1111; Mar. 4, 1925, ch. 549, § 4, 43 Stat. 1301.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title 4 of the Revised Statutes, referred to in text, was entitled “Provisions Applicable to All Executive Departments”, and consisted of R.S. §§ 158 to 198. For provisions of the Code derived from such title 4, see sections 101, 301, 303, 304, 503, 2952, 3101, 3106, 3341, 3345 to 3349, 5535, 5536 of Title 5, Government Organization and Employees; section 207 of Title 18, Crimes and Criminal Procedure; sections 514, 520 of Title 28, Judiciary and Judicial Procedure; section 3321 of Title 31, Money and Finance.
+Title 4 of the Revised Statutes, referred to in text, was entitled “Provisions Applicable to All Executive Departments”, and consisted of R.S. §§ 158 to 198. For provisions of the Code derived from such title 4, see sections 101, 301, 303, 304, 503, 2952, 3101, 3106, 3341, 3345 to 3349, 5535, 5536 of Title 5, Government Organization and Employees; section 207 of Title 18, Crimes and Criminal Procedure; sections 514, 520 of Title 28, Judiciary and Judicial Procedure; section 3321 of Title 31, Money and Finance.
 
 **Codification**
 
@@ -41,7 +41,7 @@ A Department of Labor, under charge of a Commissioner of Labor, was established 
 
 **Transfer of Functions**
 
-Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or the performance of any of his functions by any such officers, agencies, and employees by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out below.
+Functions of all other officers of Department of Commerce and functions of all agencies and employees of such Department, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or the performance of any of his functions by any such officers, agencies, and employees by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out below.
 
 **Deputy Secretary of Commerce**
 
@@ -55,7 +55,7 @@ For order of succession during any period when both Secretary and Deputy Secreta
 
 **REORGANIZATION PLAN NO. 5 OF 1950**
 
-Eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, as amended July 2, 1954, ch. 456, title III, § 304, 68 Stat. 430
+Eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, as amended July 2, 1954, ch. 456, title III, § 304, 68 Stat. 430
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, March 13, 1950, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949 [see 5 U.S.C. 901 et seq.].
 
@@ -73,7 +73,7 @@ The Secretary of Commerce may from time to time make such provisions as he shall
 
 **Sec. 3. Administrative Assistant Secretary**
 
-[Repealed. July 2, 1954, ch. 456, title III, § 304, 68 Stat. 430. Section authorized an Administrative Assistant Secretary of Commerce.]
+[Repealed. July 2, 1954, ch. 456, title III, § 304, 68 Stat. 430. Section authorized an Administrative Assistant Secretary of Commerce.]
 
 **Sec. 4. Incidental Transfers**
 
@@ -101,15 +101,15 @@ Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 S
 
 **Executive Order No. 13339**
 
-Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 13403, § 3, May 12, 2006, 71 F.R. 28543, which established in the Department of Commerce a President’s Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, § 4(a), Oct. 14, 2009, 74 F.R. 53638, formerly set out below, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under section 3501 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 13403, § 3, May 12, 2006, 71 F.R. 28543, which established in the Department of Commerce a President’s Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, § 4(a), Oct. 14, 2009, 74 F.R. 53638, formerly set out below, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under section 3501 of Title 42, The Public Health and Welfare.
 
 **Executive Order No. 13515**
 
-Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, § 4, Sept. 30, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, § 8, Sept. 30, 2013, 78 F.R. 61819, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, § 4(a), May 13, 2019, 84 F.R. 22324, formerly set out below, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under section 3501 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, § 4, Sept. 30, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, § 8, Sept. 30, 2013, 78 F.R. 61819, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, § 4(a), May 13, 2019, 84 F.R. 22324, formerly set out below, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under section 3501 of Title 42, The Public Health and Welfare.
 
 **Extension of Term of Commission on Asian Americans and Pacific Islanders**
 
-Prior to revocation of Ex. Ord. No. 13515, term of Commission on Asian Americans and Pacific Islanders was extended until Sept. 30, 2019, by Ex. Ord. No. 13811, § 1(s), Sept. 29, 2017, 82 F.R. 46363, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Prior to revocation of Ex. Ord. No. 13515, term of Commission on Asian Americans and Pacific Islanders was extended until Sept. 30, 2019, by Ex. Ord. No. 13811, § 1(s), Sept. 29, 2017, 82 F.R. 46363, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of Commission on Asian Americans and Pacific Islanders were contained in the following prior Executive Orders:
 
@@ -121,21 +121,21 @@ Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, extended term until Sept. 30,
 
 **Executive Order No. 13872**
 
-Ex. Ord. No. 13872, May 13, 2019, 84 F.R. 22321, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and the White House Initiative on Asian Americans and Pacific Islanders to promote the economic empowerment of Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under section 3501 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 13872, May 13, 2019, 84 F.R. 22321, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and the White House Initiative on Asian Americans and Pacific Islanders to promote the economic empowerment of Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under section 3501 of Title 42, The Public Health and Welfare.
 
 **Extension of Term of Commission on Asian Americans and Pacific Islanders**
 
 Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
-## §§ 1502, 1503. Omitted
+## §§ 1502, 1503. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1502, act June 5, 1939, ch. 180, § 1, 53 Stat. 808, established position of Under Secretary of Commerce. Position abolished by section 2(b)(2) of Reorg. Plan No. 3 of 1979, 44 F.R. 69273, 93 Stat. 1381, set out in the Appendix to Title 5, Government Organization and Employees.
+Section 1502, act June 5, 1939, ch. 180, § 1, 53 Stat. 808, established position of Under Secretary of Commerce. Position abolished by section 2(b)(2) of Reorg. Plan No. 3 of 1979, 44 F.R. 69273, 93 Stat. 1381, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Section 1503, act June 5, 1939, ch. 180, § 2, 53 Stat. 808, provided for performance by Under Secretary of Commerce of Secretary’s duties on latter’s death, absence, etc.
+Section 1503, act June 5, 1939, ch. 180, § 2, 53 Stat. 808, provided for performance by Under Secretary of Commerce of Secretary’s duties on latter’s death, absence, etc.
 
 **Executive Documents**
 
@@ -147,17 +147,17 @@ The additional office of Under Secretary for International Trade, in the Departm
 
 The additional office of “Under Secretary of Commerce for Transportation”, in the Department of Commerce, was provided for by section 301 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, to be appointed by the President, by and with the advice and consent of the Senate, to receive compensation at the rate prescribed by law for Under Secretaries of Executive departments, and to perform such duties as the Secretary of Commerce shall prescribe.
 
-## § 1503a. Under Secretary of Commerce for Economic Affairs
+## § 1503a. Under Secretary of Commerce for Economic Affairs
 
 There shall be in the Department of Commerce an Under Secretary of Commerce for Economic Affairs who shall be appointed by the President by and with the advice and consent of the Senate. The Under Secretary shall perform such duties as the Secretary of Commerce shall prescribe.
 
-(Pub. L. 97–195, § 1(a), June 16, 1982, 96 Stat. 115.)
+(Pub. L. 97–195, § 1(a), June 16, 1982, 96 Stat. 115.)
 
-## § 1503b. Under Secretary of Commerce for Oceans and Atmosphere; duties; appointment; compensation
+## § 1503b. Under Secretary of Commerce for Oceans and Atmosphere; duties; appointment; compensation
 
 There shall be in the Department of Commerce an Under Secretary of Commerce for Oceans and Atmosphere who shall serve as the Administrator of the National Oceanic and Atmospheric Administration established by Reorganization Plan No. 4 of 1970 [5 U.S.C. App.] and perform such duties as the Secretary of Commerce shall prescribe. The Under Secretary shall be appointed by the President by and with the advice and consent of the Senate and shall be compensated at the rate now or hereafter provided for Level III of the Executive Schedule Pay Rates (5 U.S.C. 5314).
 
-(Pub. L. 99–659, title IV, § 407(a), Nov. 14, 1986, 100 Stat. 3739.)
+(Pub. L. 99–659, title IV, § 407(a), Nov. 14, 1986, 100 Stat. 3739.)
 
 **Editorial Notes**
 
@@ -169,7 +169,7 @@ Reorganization Plan No. 4 of 1970, referred to in text, is set out under section
 
 **Service by Incumbent Administrator and Deputy Administrator of the National Oceanic and Atmospheric Administration**
 
-Pub. L. 99–659, title IV, § 407(c), Nov. 14, 1986, 100 Stat. 3739, provided that:
+Pub. L. 99–659, title IV, § 407(c), Nov. 14, 1986, 100 Stat. 3739, provided that:
 
 > “The individual serving on the date of enactment of this Act [Nov. 14, 1986]—
 
@@ -177,11 +177,11 @@ Pub. L. 99–659, title IV, § 407(c), Nov. 14, 1986, 100 Stat. 3739, provided
 
 > **“(B)** as the Deputy Administrator of the National Oceanic and Atmospheric Administration shall also serve as the Assistant Secretary of Commerce for Oceans and Atmosphere until such time as a successor is appointed under subsection (b) of this section [enacting section 1507(c) of this title].”
 
-## § 1504. Repealed. Pub. L. 97–195, § 1(c)(1), June 16, 1982, 96 Stat. 115
+## § 1504. Repealed. Pub. L. 97–195, § 1(c)(1), June 16, 1982, 96 Stat. 115
 
-Section, acts Feb. 14, 1903, ch. 552, § 2, 32 Stat. 826; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Mar. 3, 1917, ch. 163, § 1, 39 Stat. 1111, provided for appointment by President of an Assistant Secretary of Commerce, who would perform such duties as prescribed by Secretary or required by law.
+Section, acts Feb. 14, 1903, ch. 552, § 2, 32 Stat. 826; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Mar. 3, 1917, ch. 163, § 1, 39 Stat. 1111, provided for appointment by President of an Assistant Secretary of Commerce, who would perform such duties as prescribed by Secretary or required by law.
 
-## § 1505. Additional Assistant Secretary; duties, rank of Assistant Secretaries
+## § 1505. Additional Assistant Secretary; duties, rank of Assistant Secretaries
 
 There shall be in the Department of Commerce one additional Assistant Secretary of Commerce, who shall be appointed by the President, by and with the advice and consent of the Senate. The Secretary of Commerce may assign to his Assistant Secretaries such duties, including the direction of the Bureau of Foreign and Domestic Commerce, as he shall prescribe, or may be required by law. The Assistant Secretaries of Commerce shall be without numerical distinction of rank.
 
@@ -197,23 +197,23 @@ Section was formerly classified to section 592a of Title 5 prior to the general 
 
 **Prior Provisions**
 
-Prior provisions for an additional Assistant Secretary of Commerce were contained in act May 20, 1926, ch. 344, § 8 (1st sentence), 44 Stat. 573, as amended June 23, 1938, ch. 601, § 1107(k), 52 Stat. 1029. Said position was terminated by section 592a–1 of former Title 5, Executive Departments and Government Officers and Employees. Section 8 of act May 20, 1926, was subsequently repealed by Pub. L. 85–726, title XIV, § 1401(a), Aug. 23, 1958, 72 Stat. 806, and Pub. L. 97–195, § 1(c)(2), June 16, 1982, 96 Stat. 115.
+Prior provisions for an additional Assistant Secretary of Commerce were contained in act May 20, 1926, ch. 344, § 8 (1st sentence), 44 Stat. 573, as amended June 23, 1938, ch. 601, § 1107(k), 52 Stat. 1029. Said position was terminated by section 592a–1 of former Title 5, Executive Departments and Government Officers and Employees. Section 8 of act May 20, 1926, was subsequently repealed by Pub. L. 85–726, title XIV, § 1401(a), Aug. 23, 1958, 72 Stat. 806, and Pub. L. 97–195, § 1(c)(2), June 16, 1982, 96 Stat. 115.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Pursuant to powers transferred to Secretary of Commerce under Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title, Secretary has reassigned functions of Bureau of Foreign and Domestic Commerce to other officers of Department.
+Pursuant to powers transferred to Secretary of Commerce under Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title, Secretary has reassigned functions of Bureau of Foreign and Domestic Commerce to other officers of Department.
 
 **Order of Succession**
 
 For order of succession during any period when both Secretary and Deputy Secretary of Commerce are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13242, Dec. 18, 2001, 66 F.R. 66260, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
-## § 1506. Additional Assistant Secretary; appointment; applicability of section 1505
+## § 1506. Additional Assistant Secretary; appointment; applicability of section 1505
 
 There shall be on and after July 2, 1954 in the Department of Commerce, in addition to the Assistant Secretaries now provided for by law, one additional Assistant Secretary of Commerce, who shall be appointed by the President by and with the advice and consent of the Senate, and who shall be subject in all respects to the provisions of section 1505 of this title, relating to Assistant Secretaries of Commerce.
 
-(July 2, 1954, ch. 456, title III, § 304, 68 Stat. 430.)
+(July 2, 1954, ch. 456, title III, § 304, 68 Stat. 430.)
 
 **Editorial Notes**
 
@@ -223,7 +223,7 @@ Section constitutes the first sentence of section 304 of act July 2, 1954. The s
 
 Section was formerly classified to section 592a–3 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-## § 1507. Additional Assistant Secretary; appointment; compensation; duties
+## § 1507. Additional Assistant Secretary; appointment; compensation; duties
 
 There shall be in the Department of Commerce, in addition to the Assistant Secretaries now provided by law, one additional Assistant Secretary of Commerce who shall be appointed by the President by and with the advice and consent of the Senate, shall receive compensation at the rate prescribed by law for Assistant Secretaries of Commerce, and shall perform such duties as the Secretary of Commerce shall prescribe.
 
@@ -235,15 +235,15 @@ There shall be in the Department of Commerce, in addition to the Assistant Secre
 
 Section was formerly classified to section 592a–4 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-## § 1507a. Repealed. Pub. L. 97–31, § 12(5), Aug. 6, 1981, 95 Stat. 154
+## § 1507a. Repealed. Pub. L. 97–31, § 12(5), Aug. 6, 1981, 95 Stat. 154
 
-Section, Pub. L. 91–469, § 42(a), Oct. 21, 1970, 84 Stat. 1038, related to appointment, compensation, and duties of the Assistant Secretary for Maritime Affairs.
+Section, Pub. L. 91–469, § 42(a), Oct. 21, 1970, 84 Stat. 1038, related to appointment, compensation, and duties of the Assistant Secretary for Maritime Affairs.
 
-## § 1507b. Assistant Secretary of Commerce; appointment; compensation; duties
+## § 1507b. Assistant Secretary of Commerce; appointment; compensation; duties
 
 There shall be in the Department of Commerce, in addition to the Assistant Secretaries provided by law as of November 12, 1977, one additional Assistant Secretary of Commerce who shall be appointed by the President, by and with the advice and consent of the Senate. Such Assistant Secretary shall perform such duties as the Secretary of Commerce shall prescribe.
 
-(Pub. L. 95–173, § 9(a), Nov. 12, 1977, 91 Stat. 1360; Pub. L. 97–195, § 1(c)(4), June 16, 1982, 96 Stat. 115.)
+(Pub. L. 95–173, § 9(a), Nov. 12, 1977, 91 Stat. 1360; Pub. L. 97–195, § 1(c)(4), June 16, 1982, 96 Stat. 115.)
 
 **Editorial Notes**
 
@@ -251,11 +251,11 @@ There shall be in the Department of Commerce, in addition to the Assistant Secre
 
 1982—Pub. L. 97–195 substituted “Such Assistant Secretary shall perform such duties” for “Such Assistant Secretary shall receive compensation at the rate prescribed by law for Assistant Secretaries of Commerce, and shall perform such duties”.
 
-## § 1507c. Assistant Secretary of Commerce for Oceans and Atmosphere; duties; appointment; compensation
+## § 1507c. Assistant Secretary of Commerce for Oceans and Atmosphere; duties; appointment; compensation
 
 There shall be in the Department of Commerce, in addition to the Assistant Secretaries of Commerce provided by law before November 14, 1986, one additional Assistant Secretary of Commerce who shall have the title Assistant Secretary of Commerce for Oceans and Atmosphere and shall serve as the Deputy Administrator of the National Oceanic and Atmospheric Administration established by Reorganization Plan No. 4 of 1970 [5 U.S.C. App.] and perform such duties and functions as the Under Secretary of Commerce for Oceans and Atmosphere shall prescribe. The Assistant Secretary for Oceans and Atmosphere shall be appointed by the President by and with the advice and consent of the Senate and shall be compensated at the rate now or hereafter provided for Level IV of the Executive Schedule Pay Rates (5 U.S.C. 5315).
 
-(Pub. L. 99–659, title IV, § 407(b), Nov. 14, 1986, 100 Stat. 3739.)
+(Pub. L. 99–659, title IV, § 407(b), Nov. 14, 1986, 100 Stat. 3739.)
 
 **Editorial Notes**
 
@@ -269,11 +269,11 @@ Reorganization Plan No. 4 of 1970, referred to in text, is set out under section
 
 Individuals serving on Nov. 14, 1986, as Deputy Administrator of National Oceanic and Atmospheric Administration to also serve as Assistant Secretary of Commerce for Oceans and Atmosphere, until successor is appointed, see section 407(c)(B) of Pub. L. 99–659, set out as a note under section 1503b of this title.
 
-## § 1508. General Counsel
+## § 1508. General Counsel
 
 There shall be in the Department of Commerce a General Counsel, who shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(Mar. 18, 1904, ch. 716, § 1, 33 Stat. 135; July 17, 1952, ch. 932, § 2, 66 Stat. 758; Aug. 20, 1954, ch. 776, 68 Stat. 753.)
+(Mar. 18, 1904, ch. 716, § 1, 33 Stat. 135; July 17, 1952, ch. 932, § 2, 66 Stat. 758; Aug. 20, 1954, ch. 776, 68 Stat. 753.)
 
 **Editorial Notes**
 
@@ -293,17 +293,17 @@ Section was formerly classified to section 592b of Title 5 prior to the general 
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
 
 **Order of Succession**
 
 For order of succession during any period when both Secretary and Deputy Secretary of Commerce are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13242, Dec. 18, 2001, 66 F.R. 66260, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
-## § 1509. Designation of officer to sign routine papers
+## § 1509. Designation of officer to sign routine papers
 
 The Secretary may designate an officer of the Department to sign minor routine official papers and documents during the temporary absence of the Secretary, the Under Secretary, and the Assistant Secretaries of the Department.
 
-(May 21, 1945, ch. 129, title III, § 301, 59 Stat. 188; July 15, 1947, ch. 251, 61 Stat. 326.)
+(May 21, 1945, ch. 129, title III, § 301, 59 Stat. 188; July 15, 1947, ch. 251, 61 Stat. 326.)
 
 **Editorial Notes**
 
@@ -317,13 +317,13 @@ Section was formerly classified to section 593a of Title 5 prior to the general 
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
 
-## § 1510. Clerical assistants
+## § 1510. Clerical assistants
 
 There shall also be such clerical assistants as may from time to time be authorized by the Congress.
 
-(Feb. 14, 1903, ch. 552, § 2, 32 Stat. 826; July 16, 1952, ch. 878, § 2, 66 Stat. 710.)
+(Feb. 14, 1903, ch. 552, § 2, 32 Stat. 826; July 16, 1952, ch. 878, § 2, 66 Stat. 710.)
 
 **Editorial Notes**
 
@@ -339,15 +339,15 @@ Section was formerly classified to section 594 of Title 5 prior to the general r
 
 **Disbursement Clerk**
 
-Section, act Feb. 14, 1903, ch. 552, § 2, 32 Stat. 826, provided for a disbursing clerk in the Department of Commerce.
+Section, act Feb. 14, 1903, ch. 552, § 2, 32 Stat. 826, provided for a disbursing clerk in the Department of Commerce.
 
 **Executive Documents**
 
 **Transfer of Disbursement Agencies**
 
-Division of Disbursement and certain other offices and agencies and their functions consolidated into Fiscal Service of Department of the Treasury by Reorg. Plan No. III of 1940, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees. See section 306 of Title 31, Money and Finance.
+Division of Disbursement and certain other offices and agencies and their functions consolidated into Fiscal Service of Department of the Treasury by Reorg. Plan No. III of 1940, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees. See section 306 of Title 31, Money and Finance.
 
-## § 1511. Bureaus in Department
+## § 1511. Bureaus in Department
 
 The following named bureaus, administrations, services, offices, and programs of the public service, and all that pertains thereto, shall be under the jurisdiction and subject to the control of the Secretary of Commerce:
 
@@ -357,15 +357,15 @@ The following named bureaus, administrations, services, offices, and programs of
 
 **(3)** National Institute of Standards and Technology;
 
-**(4)** United States Patent and Trademark Office 1
+**(4)** United States Patent and Trademark Office 1
 
-<sup>1</sup>  So in original. Probably should be followed by a semicolon.
+<sup>1</sup> So in original. Probably should be followed by a semicolon.
 
 **(5)** Bureau of the Census; and
 
 **(6)** such other bureaus or other organizational units as the Secretary of Commerce may from time to time establish in accordance with law.
 
-(Feb. 14, 1903, ch. 552, §§ 4, 12, 32 Stat. 826, 830; June 17, 1910, ch. 301, § 4, 36 Stat. 537; Aug. 23, 1912, ch. 350, § 1, 37 Stat. 407; Mar. 4, 1913, ch. 141, § 3, 37 Stat. 737; Jan. 5, 1923, ch. 23, § 1, 42 Stat. 1109; June 30, 1932, ch. 314, pt. II, title V, § 501, 47 Stat. 415; Feb. 22, 1934, Ex. Ord. 6611; May 27, 1936, ch. 463, § 1, 49 Stat. 1380; 1939 Reorg. Plan No. II, §§ 2(a), 4(e), 6, eff. July 1, 1936, 4 F.R. 2731, 53 Stat. 1432; 1940 Reorg. Plan No. IV, §§ 7, 8, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1235, 1236; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 30, 1949, ch. 288, title I, § 103(a), 63 Stat. 380; Aug. 4, 1949, ch. 393, § 20, 63 Stat. 561; 1949 Reorg. Plan No. 7, § 1, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, §§ 101, 106, 201, 15 F.R. 3178, 64 Stat. 1273; Pub. L. 93–498, § 23, Oct. 29, 1974, 88 Stat. 1549; Pub. L. 93–596, § 3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 95–422, § 2(c), Oct. 5, 1978, 92 Stat. 932; Pub. L. 97–31, § 12(6), Aug. 6, 1981, 95 Stat. 154; Pub. L. 97–63, § 4(a)(1), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(6)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–503, title I, § 110(b), Nov. 13, 2000, 114 Stat. 2302.)
+(Feb. 14, 1903, ch. 552, §§ 4, 12, 32 Stat. 826, 830; June 17, 1910, ch. 301, § 4, 36 Stat. 537; Aug. 23, 1912, ch. 350, § 1, 37 Stat. 407; Mar. 4, 1913, ch. 141, § 3, 37 Stat. 737; Jan. 5, 1923, ch. 23, § 1, 42 Stat. 1109; June 30, 1932, ch. 314, pt. II, title V, § 501, 47 Stat. 415; Feb. 22, 1934, Ex. Ord. 6611; May 27, 1936, ch. 463, § 1, 49 Stat. 1380; 1939 Reorg. Plan No. II, §§ 2(a), 4(e), 6, eff. July 1, 1936, 4 F.R. 2731, 53 Stat. 1432; 1940 Reorg. Plan No. IV, §§ 7, 8, eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1235, 1236; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; June 30, 1949, ch. 288, title I, § 103(a), 63 Stat. 380; Aug. 4, 1949, ch. 393, § 20, 63 Stat. 561; 1949 Reorg. Plan No. 7, § 1, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, §§ 101, 106, 201, 15 F.R. 3178, 64 Stat. 1273; Pub. L. 93–498, § 23, Oct. 29, 1974, 88 Stat. 1549; Pub. L. 93–596, § 3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 95–422, § 2(c), Oct. 5, 1978, 92 Stat. 932; Pub. L. 97–31, § 12(6), Aug. 6, 1981, 95 Stat. 154; Pub. L. 97–63, § 4(a)(1), Oct. 16, 1981, 95 Stat. 1014; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(b)(6)], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 106–503, title I, § 110(b), Nov. 13, 2000, 114 Stat. 2302.)
 
 **Editorial Notes**
 
@@ -399,15 +399,15 @@ Section was originally based on part of section 4 of act Feb. 14, 1903, which pr
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 **Repeals**
 
-Act June 17, 1910, ch. 301, § 4, 36 Stat. 537, cited as a credit to this section, was repealed by act Aug. 4, 1949, ch. 393, § 20, 63 Stat. 561.
+Act June 17, 1910, ch. 301, § 4, 36 Stat. 537, cited as a credit to this section, was repealed by act Aug. 4, 1949, ch. 393, § 20, 63 Stat. 561.
 
-Act June 30, 1932, ch. 314, pt. II, title V, § 501, 47 Stat. 415, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 648 and Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1074.
+Act June 30, 1932, ch. 314, pt. II, title V, § 501, 47 Stat. 415, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 648 and Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1074.
 
-Act May 27, 1936, ch. 463, § 1, 49 Stat. 1380, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649.
+Act May 27, 1936, ch. 463, § 1, 49 Stat. 1380, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 649.
 
 **Organizational History and Transfer of Functions**
 
@@ -415,31 +415,31 @@ For transfer of certain functions, personnel, assets, and liabilities of the Dep
 
 Functions of Secretary of Commerce, Department of Commerce, and officers and components of Department of Commerce as they related to or were utilized by Office of Energy Programs within Department of Commerce, but limited to industrial energy conservation programs, transferred to, and vested in, Secretary of Energy as part of creation of Department of Energy by Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565. See section 7157 of Title 42, The Public Health and Welfare.
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
 
 Public Roads Administration, which was redesignated Bureau of Public Roads and, with its functions, transferred from Federal Works Agency to General Services Administration by section 103(a) of act June 30, 1949 (see Historical and Revision Notes and 2006 Amendment note under section 303 of Title 40, Public Buildings, Property, and Works), was subsequently transferred to Department of Commerce, and then to Department of Transportation, by Reorg. Plan No. 7 of 1949, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Federal Maritime Board was created as an agency within Department of Commerce by Reorg. Plan No. 21 of 1950, §§ 101, 106, set out in the Appendix to Title 5, and sections 103 to 105 of the Plan transferred to Board and its chairman certain functions of former United States Maritime Commission and chairman thereof. Section 307 of the Plan provided that functions transferred to Federal Maritime Board and its chairman should not be subject to the provisions of Reorg. Plan No. 5 of 1950, also eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in note under section 1501 of this title, which, with a few additional exceptions, transferred functions of all officers, agencies, and employees of Department of Commerce to Secretary of Commerce, and authorized him to delegate any functions so transferred, or any of his other functions, to any of such officers, agencies and employees. Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission, which was established as an independent body, or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
+Federal Maritime Board was created as an agency within Department of Commerce by Reorg. Plan No. 21 of 1950, §§ 101, 106, set out in the Appendix to Title 5, and sections 103 to 105 of the Plan transferred to Board and its chairman certain functions of former United States Maritime Commission and chairman thereof. Section 307 of the Plan provided that functions transferred to Federal Maritime Board and its chairman should not be subject to the provisions of Reorg. Plan No. 5 of 1950, also eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in note under section 1501 of this title, which, with a few additional exceptions, transferred functions of all officers, agencies, and employees of Department of Commerce to Secretary of Commerce, and authorized him to delegate any functions so transferred, or any of his other functions, to any of such officers, agencies and employees. Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission, which was established as an independent body, or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
 
-Maritime Administration, with a Maritime Administrator at its head, was established in Department of Commerce by Reorg. Plan No. 21 of 1950, § 201, set out in the Appendix to Title 5, and section 204 of the Plan transferred certain functions of former United States Maritime Commission and its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Administrator. Section 307 of the Plan provided that functions transferred to Secretary by that Plan should not be subject to provisions of Reorg. Plan No. 5 of 1950, also eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in note under section 1501 of this title, which, with a few additional exceptions, transferred functions of all other officers, agencies, and employees of Department of Commerce to Secretary of Commerce, and authorized him to delegate any functions so transferred, or any of his other functions, to any of such officers, agencies, and employees.
+Maritime Administration, with a Maritime Administrator at its head, was established in Department of Commerce by Reorg. Plan No. 21 of 1950, § 201, set out in the Appendix to Title 5, and section 204 of the Plan transferred certain functions of former United States Maritime Commission and its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Administrator. Section 307 of the Plan provided that functions transferred to Secretary by that Plan should not be subject to provisions of Reorg. Plan No. 5 of 1950, also eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in note under section 1501 of this title, which, with a few additional exceptions, transferred functions of all other officers, agencies, and employees of Department of Commerce to Secretary of Commerce, and authorized him to delegate any functions so transferred, or any of his other functions, to any of such officers, agencies, and employees.
 
 Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission, which was established as an independent body, or to Secretary of Commerce by sections 103 and 202 of Reorg. Plan No. 7 of 1961.
 
-Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
+Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, § 19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
 
 Community Relations Service transferred from Department of Commerce to Department of Justice by Reorg. Plan No. 1 of 1966, eff. Apr. 22, 1966, 31 F.R. 6187, 80 Stat. 1607, set out in the Appendix to Title 5.
 
 Act Feb. 14, 1903, established the Department of Commerce and Labor. Act Mar. 4, 1913, renamed the Department of Commerce and Labor as the Department of Commerce and established the Department of Labor as a separate entity. The following agencies which were initially placed under the jurisdiction of the Department of Commerce and Labor either directly by statute or by presidential transfer were abolished or transferred as follows:
 
-Office of United States Shipping Commissioner abolished by Reorg. Plan No. 3 of 1946, §§ 101 to 104, eff. July 16, 1946, which transferred functions to Commandant of Coast Guard and Commissioner of Customs. See Appendix to Title 5, Government Organization and Employees.
+Office of United States Shipping Commissioner abolished by Reorg. Plan No. 3 of 1946, §§ 101 to 104, eff. July 16, 1946, which transferred functions to Commandant of Coast Guard and Commissioner of Customs. See Appendix to Title 5, Government Organization and Employees.
 
 Bureau of Navigation and the Steamboat Inspection Service consolidated into Bureau of Navigation and Steamboat Inspection by act June 30, 1932, which name was changed to Bureau of Marine Inspection and Navigation by act May 27, 1936, cited to text. Bureau abolished and functions transferred to Commandant of Coast Guard and Commissioner of Customs by Reorg. Plan No. 3 of 1946. See Appendix to Title 5.
 
 Bureau of Fisheries transferred to Department of the Interior by section 4(e) of Reorg. Plan No. II of 1939. Reorg. Plan No. II of 1939 is set out in the Appendix to Title 5.
 
-Bureau of Immigration changed to Bureau of Immigration and Naturalization by act June 29, 1906, ch. 3592, § 1, 34 Stat. 596. Commissioner General of Immigration, Commissioners of Immigration, and Bureau of Immigration and Naturalization, transferred to Department of Labor by act Mar. 4, 1913. Subsequently, by Ex. Ord. No. 6166, § 14 of June 10, 1933, and Reorg. Plan No. V of 1940, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, Bureau of Immigration and Bureau of Naturalization consolidated to form Immigration and Naturalization Service and transferred to Department of Justice.
+Bureau of Immigration changed to Bureau of Immigration and Naturalization by act June 29, 1906, ch. 3592, § 1, 34 Stat. 596. Commissioner General of Immigration, Commissioners of Immigration, and Bureau of Immigration and Naturalization, transferred to Department of Labor by act Mar. 4, 1913. Subsequently, by Ex. Ord. No. 6166, § 14 of June 10, 1933, and Reorg. Plan No. V of 1940, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, Bureau of Immigration and Bureau of Naturalization consolidated to form Immigration and Naturalization Service and transferred to Department of Justice.
 
-Light-House Board and Light-House Establishment consolidated under Bureau of Lighthouses by act June 17, 1910, ch. 301, § 4, 36 Stat. 537. Bureau of Lighthouses transferred to Coast Guard in Department of the Treasury by Reorg. Plan No. II of 1939, § 2(a). Reorg. Plan No. II of 1939 is set out in the Appendix to Title 5. Said section 4 of act June 17, 1910, was repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished Coast Guard by enacting Title 14, Coast Guard. Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
+Light-House Board and Light-House Establishment consolidated under Bureau of Lighthouses by act June 17, 1910, ch. 301, § 4, 36 Stat. 537. Bureau of Lighthouses transferred to Coast Guard in Department of the Treasury by Reorg. Plan No. II of 1939, § 2(a). Reorg. Plan No. II of 1939 is set out in the Appendix to Title 5. Said section 4 of act June 17, 1910, was repealed by section 20 of act Aug. 4, 1949, section 1 of which reestablished Coast Guard by enacting Title 14, Coast Guard. Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 
 Bureau of Mines transferred from Department of the Interior to Department of Commerce by Ex. Ord. No. 4239 of June 4, 1925, eff. July 1, 1925, as authorized by section 12 of act Feb. 14, 1903 (see 15 U.S.C. 1517), and retransferred to Department of the Interior by Ex. Ord. No. 6611, Feb. 24, 1934. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see note set out under section 1 of Title 30, Mineral Lands and Mining.
 
@@ -449,7 +449,7 @@ Bureau of Foreign and Domestic Commerce resulted from a consolidation of Bureau 
 
 Civil Aeronautics Authority [Civil Aeronautics Board] transferred to Department of Commerce by section 7 of Reorg. Plan No. IV of 1940, set out in the Appendix to Title 5. For transfer of functions of Civil Aeronautics Board see section 1551 et seq. and section 1655(d) of former Title 49, Transportation.
 
-Inland Waterways Corporation transferred to Department of Commerce by section 6 of Reorg. Plan No. II of 1939. Reorg. Plan No. II of 1939 is set out in the Appendix of Title 5. Pub. L. 88–67, § 2, July 19, 1963, 77 Stat. 81, provided generally for liquidation of affairs of Inland Waterways Corporation.
+Inland Waterways Corporation transferred to Department of Commerce by section 6 of Reorg. Plan No. II of 1939. Reorg. Plan No. II of 1939 is set out in the Appendix of Title 5. Pub. L. 88–67, § 2, July 19, 1963, 77 Stat. 81, provided generally for liquidation of affairs of Inland Waterways Corporation.
 
 Patent Office transferred from Department of the Interior by Ex. Ord. No. 4175 of Mar. 17, 1925, eff. Apr. 1, 1925, as authorized by section 12 of act Feb. 14, 1903. See section 1517 of this title.
 
@@ -457,7 +457,7 @@ Environmental Science Services Administration in Department of Commerce, includi
 
 Weather Bureau transferred from Department of Agriculture by section 8 of Reorg. Plan No. IV of 1940, which is set out in the Appendix to Title 5. Coast and Geodetic Survey and Weather Bureau consolidated to form a new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 4443, set out in the Appendix to Title 5.
 
-Functions, powers, and duties of Office of Audits and Investigations and Inspections Staff and that portion of office referred to as Office of Investigations and Security which had responsibility for investigation of alleged criminal violations and program abuse in Department of Commerce transferred to Office of Inspector General in Department of Commerce, as established by Pub. L. 95–452, § 2, Oct. 12, 1978, 92 Stat. 1101, formerly set out in the Appendix to Title 5, Government Organization and Employees. See section 422(a)(1)(B) of Title 5.
+Functions, powers, and duties of Office of Audits and Investigations and Inspections Staff and that portion of office referred to as Office of Investigations and Security which had responsibility for investigation of alleged criminal violations and program abuse in Department of Commerce transferred to Office of Inspector General in Department of Commerce, as established by Pub. L. 95–452, § 2, Oct. 12, 1978, 92 Stat. 1101, formerly set out in the Appendix to Title 5, Government Organization and Employees. See section 422(a)(1)(B) of Title 5.
 
 **Executive Documents**
 
@@ -466,7 +466,7 @@ Functions, powers, and duties of Office of Audits and Investigations and Inspect
 In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended, set out below, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, which covers the administration of the National Oceanic and Atmospheric Administration, were changed by order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, as follows: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey; and Weather Bureau to National Weather Service.
 
 ****REORGANIZATION PLAN NO. 4 OF 1970**
-Eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended Pub. L. 94–461, § 4(c)(1), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 95–219, § 3(a)(1), Dec. 28, 1977, 91 Stat. 1613; Pub. L. 98–498, title III, § 320(c)(3), Oct. 19, 1984, 98 Stat. 2309; Pub. L. 99–659, title IV, § 407(d), Nov. 14, 1986, 100 Stat. 3739; Pub. L. 112–166, § 2(b)(1), Aug. 10, 2012, 126 Stat. 1283**
+Eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended Pub. L. 94–461, § 4(c)(1), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 95–219, § 3(a)(1), Dec. 28, 1977, 91 Stat. 1613; Pub. L. 98–498, title III, § 320(c)(3), Oct. 19, 1984, 98 Stat. 2309; Pub. L. 99–659, title IV, § 407(d), Nov. 14, 1986, 100 Stat. 3739; Pub. L. 112–166, § 2(b)(1), Aug. 10, 2012, 126 Stat. 1283**
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, July 9, 1970, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -496,7 +496,7 @@ The following are hereby transferred to the Secretary of Commerce:
 
 (c) There shall be in the Administration a Deputy Administrator of the National Oceanic and Atmospheric Administration who shall be appointed by the President, by and with the advice and consent of the Senate, and shall be compensated at the rate now or hereafter provided for Level IV of the Executive Schedule Pay Rates (5 U.S.C. 5315). The Deputy Administrator shall perform such functions as the Administrator shall from time to time assign or delegate, and shall act as Administrator during the absence or disability of the Administrator or in the event of a vacancy in the office of Administrator.
 
-(d) There shall be in the Administration a Chief Scientist of the National Oceanic and Atmospheric Administration who shall be appointed by the President and shall be compensated at the rate now or hereafter provided for Level V of the Executive Schedule Pay Rates (5 U.S.C. 5316). The Chief Scientist shall be the principal scientific adviser to the Administrator, and shall perform such other duties as the Administrator may direct. The Chief Scientist shall be an individual who is, by reason of scientific education and experience, knowledgeable in the principles of oceanic, atmospheric, or other scientific disciplines important to the work of the Administration. [As amended Pub. L. 94–461, § 4(c)(1), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 99–659, title IV, § 407(d), Nov. 14, 1986, 100 Stat. 3739; Pub. L. 112–166, § 2(b)(1), Aug. 10, 2012, 126 Stat. 1283.]
+(d) There shall be in the Administration a Chief Scientist of the National Oceanic and Atmospheric Administration who shall be appointed by the President and shall be compensated at the rate now or hereafter provided for Level V of the Executive Schedule Pay Rates (5 U.S.C. 5316). The Chief Scientist shall be the principal scientific adviser to the Administrator, and shall perform such other duties as the Administrator may direct. The Chief Scientist shall be an individual who is, by reason of scientific education and experience, knowledgeable in the principles of oceanic, atmospheric, or other scientific disciplines important to the work of the Administration. [As amended Pub. L. 94–461, § 4(c)(1), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 99–659, title IV, § 407(d), Nov. 14, 1986, 100 Stat. 3739; Pub. L. 112–166, § 2(b)(1), Aug. 10, 2012, 126 Stat. 1283.]
 
 (e)(1) There shall be in the Administration a General Counsel and five Assistant Administrators, one of whom shall be the Assistant Administrator for Coastal Zone Management and one of whom shall be the Assistant Administrator for Fisheries. The General Counsel and each Assistant Administrator shall be appointed by the Secretary, subject to approval of the President, and shall be compensated at a rate now or hereafter provided for level V of the Executive Schedule Pay Rates (5 U.S.C. 5316).
 
@@ -504,7 +504,7 @@ The following are hereby transferred to the Secretary of Commerce:
 
 (3) The Assistant Administrator for Coastal Zone Management shall be an individual who is, by reason of background and experience, especially qualified to direct the implementation and administration of the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
 
-(4) The Assistant Administrator for Fisheries shall be responsible for all matters related to living marine resources which may arise in connection with the conduct of the functions of the Administration. [As amended Pub. L. 95–219, § 3(a)(1), Dec. 28, 1977, 91 Stat. 1613.]
+(4) The Assistant Administrator for Fisheries shall be responsible for all matters related to living marine resources which may arise in connection with the conduct of the functions of the Administration. [As amended Pub. L. 95–219, § 3(a)(1), Dec. 28, 1977, 91 Stat. 1613.]
 
 (f) The President may appoint in the Administration, by and with the advice and consent of the Senate, two commissioned officers to serve at any one time as the designated heads of two principal constituent organizational entities of the Administration, or the President may designate one such officer as the head of such an organizational entity and the other as the head of the commissioned corps of the Administration. Any such designation shall create a vacancy on the active list and the officer while serving under this subsection shall have the rank, pay, and allowances of a rear admiral (upper half).
 
@@ -546,9 +546,9 @@ The provisions of sections 2 and 4 of Reorganization Plan No. 5 of 1950 (64 Stat
 
 (b) Such provisions as may be necessary with respect to terminating any outstanding affairs shall be made by the Secretary of Commerce in the case of the Environmental Science Services Administration and by the Secretary of the Interior in the case of the Bureau of Commercial Fisheries.
 
-Message of the President 2
+Message of the President 2
 
-<sup>2</sup>  For additional Message of the President see Reorganization Plan No. 3 of 1970, Title 5, Appendix, Government Officers and Employees.
+<sup>2</sup> For additional Message of the President see Reorganization Plan No. 3 of 1970, Title 5, Appendix, Government Officers and Employees.
 
 To the Congress of the United States:
 
@@ -576,11 +576,11 @@ Ex. Ord. No. 11759, Jan. 15, 1974, 39 F.R. 2077, which related to compensation o
 
 Ex. Ord. No. 12096, Nov. 2, 1978, 43 F.R. 51597, which related to compensation of certain officials in the Industry and Trade Administration, was revoked by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989, set out as a note under section 2171 of Title 19, Customs Duties.
 
-## § 1511a. Repealed. Pub. L. 95–219, § 3(a)(2), Dec. 28, 1977, 91 Stat. 1613
+## § 1511a. Repealed. Pub. L. 95–219, § 3(a)(2), Dec. 28, 1977, 91 Stat. 1613
 
-Section, Pub. L. 94–370, § 15(a), July 26, 1976, 90 Stat. 1032, authorized appointment and set forth compensation level for an Associate Administrator for Coastal Zone Management.
+Section, Pub. L. 94–370, § 15(a), July 26, 1976, 90 Stat. 1032, authorized appointment and set forth compensation level for an Associate Administrator for Coastal Zone Management.
 
-## § 1511b. United States fishery trade officers
+## § 1511b. United States fishery trade officers
 
 **(a) Appointment**
 
@@ -606,9 +606,9 @@ Upon the request of the Secretary, the Secretary of State shall officially assig
 
 The Secretary of State and the Secretary shall enter into cooperative arrangements concerning the provision of office space, equipment, facilities, clerical services, and such other administrative support as may be required for fishery trade officers and their families.
 
-(Pub. L. 96–561, title II, § 211, Dec. 22, 1980, 94 Stat. 3290.)
+(Pub. L. 96–561, title II, § 211, Dec. 22, 1980, 94 Stat. 3290.)
 
-## § 1511c. Estuarine Programs Office
+## § 1511c. Estuarine Programs Office
 
 **(a) Establishment**
 
@@ -636,9 +636,9 @@ The Administrator of the National Oceanic and Atmospheric Administration (herein
 
 There are authorized to be appropriated to the Administration not to exceed $500,000 for fiscal year 1987, $530,000 for fiscal year 1988, $560,000 for fiscal year 1989, and $600,000 for fiscal year 1990 to carry out the provisions of this section.
 
-(Pub. L. 99–659, title IV, § 406, Nov. 14, 1986, 100 Stat. 3738.)
+(Pub. L. 99–659, title IV, § 406, Nov. 14, 1986, 100 Stat. 3738.)
 
-## § 1511d. Chesapeake Bay Office
+## § 1511d. Chesapeake Bay Office
 
 **(a) Establishment**
 
@@ -754,7 +754,7 @@ For purposes of this section, “Chesapeake Executive Council” means the repre
 
 There is authorized to be appropriated to the Department of Commerce for the Chesapeake Bay Office $6,000,000 for each of fiscal years 2002 through 2006.
 
-(Pub. L. 102–567, title III, § 307, Oct. 29, 1992, 106 Stat. 4284; Pub. L. 107–372, title IV, § 401(a), Dec. 19, 2002, 116 Stat. 3096.)
+(Pub. L. 102–567, title III, § 307, Oct. 29, 1992, 106 Stat. 4284; Pub. L. 107–372, title IV, § 401(a), Dec. 19, 2002, 116 Stat. 3096.)
 
 **Editorial Notes**
 
@@ -766,7 +766,7 @@ There is authorized to be appropriated to the Department of Commerce for the Che
 
 **Multiple Species Management Strategy**
 
-Pub. L. 107–372, title IV, § 401(c), Dec. 19, 2002, 116 Stat. 3099, provided that:
+Pub. L. 107–372, title IV, § 401(c), Dec. 19, 2002, 116 Stat. 3099, provided that:
 
 > **“(1) In general.—** Not later than 180 days after the date of enactment of this Act [Dec. 19, 2002], the Director of the Chesapeake Bay Office of the National Oceanic and Atmospheric Administration shall begin a 5-year study, in cooperation with the scientific community of the Chesapeake Bay, appropriate State and interstate resource management entities, and appropriate Federal agencies—
 
@@ -782,15 +782,15 @@ Pub. L. 107–372, title IV, § 401(c), Dec. 19, 2002, 116 Stat. 3099, provide
 
 > **“(C)** recommend management actions to optimize the return of a healthy and balanced ecosystem for the Chesapeake Bay.”
 
-## § 1511e. Repealed. Pub. L. 111–314, § 6, Dec. 18, 2010, 124 Stat. 3444
+## § 1511e. Repealed. Pub. L. 111–314, § 6, Dec. 18, 2010, 124 Stat. 3444
 
-Section, Pub. L. 105–309, § 8, Oct. 30, 1998, 112 Stat. 2937; Pub. L. 107–305, § 14, Nov. 27, 2002, 116 Stat. 2380; Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2878, related to Office of Space Commercialization. See section 50702 of Title 51, National and Commercial Space Programs.
+Section, Pub. L. 105–309, § 8, Oct. 30, 1998, 112 Stat. 2937; Pub. L. 107–305, § 14, Nov. 27, 2002, 116 Stat. 2380; Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2878, related to Office of Space Commercialization. See section 50702 of Title 51, National and Commercial Space Programs.
 
-## § 1512. Powers and duties of Department
+## § 1512. Powers and duties of Department
 
 It shall be the province and duty of said Department to foster, promote, and develop the foreign and domestic commerce, the mining, manufacturing, and fishery industries of the United States; and to this end it shall be vested with jurisdiction and control of the departments, bureaus, offices, and branches of the public service hereinafter specified, and with such other powers and duties as may be prescribed by law.
 
-(Feb. 14, 1903, ch. 552, § 3, 32 Stat. 826; Pub. L. 97–31, § 12(7), Aug. 6, 1981, 95 Stat. 154.)
+(Feb. 14, 1903, ch. 552, § 3, 32 Stat. 826; Pub. L. 97–31, § 12(7), Aug. 6, 1981, 95 Stat. 154.)
 
 **Editorial Notes**
 
@@ -806,7 +806,7 @@ Section was formerly classified to section 596 of Title 5 prior to the general r
 
 **Manufacturing.gov Hub**
 
-Pub. L. 117–328, div. BB, title I, § 101, Dec. 29, 2022, 136 Stat. 5551, provided that:
+Pub. L. 117–328, div. BB, title I, § 101, Dec. 29, 2022, 136 Stat. 5551, provided that:
 
 > **“(a) Definition.—** In this section, the term ‘Secretary’ means the Secretary of Commerce.
 
@@ -848,7 +848,7 @@ Pub. L. 117–328, div. BB, title I, § 101, Dec. 29, 2022, 136 Stat. 5551, pr
 
 **Assistance to Fishery Participants**
 
-Pub. L. 116–136, div. B, title II, § 12005, Mar. 27, 2020, 134 Stat. 518, provided that:
+Pub. L. 116–136, div. B, title II, § 12005, Mar. 27, 2020, 134 Stat. 518, provided that:
 
 > **“(a) In General.—** The Secretary of Commerce is authorized to provide assistance to Tribal, subsistence, commercial, and charter fishery participants affected by the novel coronavirus (COVID–19), which may include direct relief payments.
 
@@ -874,7 +874,7 @@ For assignment of certain emergency preparedness functions to the Secretary of C
 
 **Executive Order No. 12864**
 
-Ex. Ord. No. 12864, Sept. 15, 1993, 58 F.R. 48773, as amended by Ex. Ord. No. 12890, Dec. 30, 1993, 59 F.R. 499; Ex. Ord. No. 12921, June 13, 1994, 59 F.R. 30667; Ex. Ord. No. 12970, Sept. 14, 1995, 60 F.R. 48359, which established the United States Advisory Council on the National Information Infrastructure, was revoked by Ex. Ord. No. 13062, § 3(d), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Ex. Ord. No. 12864, Sept. 15, 1993, 58 F.R. 48773, as amended by Ex. Ord. No. 12890, Dec. 30, 1993, 59 F.R. 499; Ex. Ord. No. 12921, June 13, 1994, 59 F.R. 30667; Ex. Ord. No. 12970, Sept. 14, 1995, 60 F.R. 48359, which established the United States Advisory Council on the National Information Infrastructure, was revoked by Ex. Ord. No. 13062, § 3(d), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 **Ex. Ord. No. 13577. Establishment of the SelectUSA Initiative**
 
@@ -1046,11 +1046,11 @@ Sec. 4. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 1513. Duties and powers vested in Department
+## § 1513. Duties and powers vested in Department
 
 All duties performed and all power and authority possessed or exercised by the head of any executive department in and over any bureau, office, officer, board, branch, or division of the public service transferred to the Department of Commerce, or any business arising therefrom or pertaining thereto, or in relation to the duties performed by and authority conferred by law upon such bureau, officer, office, board, branch, or division of the public service, whether of an appellate or revisory character or otherwise, shall be vested in and exercised by the Secretary of Commerce.
 
-(Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829.)
+(Feb. 14, 1903, ch. 552, § 10, 32 Stat. 829.)
 
 **Editorial Notes**
 
@@ -1072,9 +1072,9 @@ For duties and powers of Secretary of Commerce with respect to interest of Gover
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
 
-## § 1513a. Cost estimates for National Oceanic and Atmospheric Administration programs included in Department budget justification
+## § 1513a. Cost estimates for National Oceanic and Atmospheric Administration programs included in Department budget justification
 
 Beginning in fiscal year 2007 and for each fiscal year thereafter, the Secretary of Commerce shall include in the budget justification materials that the Secretary submits to Congress in support of the Department of Commerce budget (as submitted with the budget of the President under section 1105(a) of title 31) an estimate for each National Oceanic and Atmospheric Administration procurement, acquisition and construction program having a total multiyear program cost of more than $5,000,000 and an estimate of the budgetary requirements for each such program for each of the five subsequent fiscal years.
 
@@ -1124,7 +1124,7 @@ Pub. L. 111–117, div. B, title I, Dec. 16, 2009, 123 Stat. 3119.
 
 Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2881.
 
-## § 1513b. Cost estimates for National Institute of Standards and Technology construction projects included in Department budget justification
+## § 1513b. Cost estimates for National Institute of Standards and Technology construction projects included in Department budget justification
 
 Beginning in fiscal year 2007 and for each fiscal year thereafter, the Secretary of Commerce shall include in the budget justification materials that the Secretary submits to Congress in support of the Department of Commerce budget (as submitted with the budget of the President under section 1105(a) of title 31) an estimate for each National Institute of Standards and Technology construction project having a total multiyear program cost of more than $5,000,000 and simultaneously the budget justification materials shall include an estimate of the budgetary requirements for each such project for each of the five subsequent fiscal years.
 
@@ -1176,7 +1176,7 @@ Pub. L. 111–8, div. B, title I, Mar. 11, 2009, 123 Stat. 564.
 
 Pub. L. 110–161, div. B, title I, Dec. 26, 2007, 121 Stat. 1889.
 
-## § 1514. Basic authority for performance of certain functions and activities of Department
+## § 1514. Basic authority for performance of certain functions and activities of Department
 
 Appropriations are authorized for the following activities of the Department of Commerce:
 
@@ -1192,13 +1192,13 @@ Appropriations are authorized for the following activities of the Department of 
 
 **(f)** erecting, altering, repairing, equipping, furnishing, and maintaining, by contract or otherwise, such living and working quarters and facilities as may be necessary to carry out its authorized work at remote localities not on foreign soil where such living and working accommodations are not otherwise available.
 
-(Oct. 26, 1949, ch. 733, 63 Stat. 907; Aug. 30, 1954, ch. 1076, § 1(11), 68 Stat. 967; Pub. L. 93–608, § 1(3), Jan. 2, 1975, 88 Stat. 1967.)
+(Oct. 26, 1949, ch. 733, 63 Stat. 907; Aug. 30, 1954, ch. 1076, § 1(11), 68 Stat. 967; Pub. L. 93–608, § 1(3), Jan. 2, 1975, 88 Stat. 1967.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 596a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 596a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -1212,17 +1212,17 @@ Section was formerly classified to section 596a of Title 5 prior to the general 
 
 Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out as a note under section 1511 of this title. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes under section 311 of this title.
 
-## § 1515. Records, etc., of bureaus transferred to Department of Commerce
+## § 1515. Records, etc., of bureaus transferred to Department of Commerce
 
 The official records and papers on file in and pertaining exclusively to the business of any bureau, office, department, or branch of the public service transferred to the Department of Commerce, together with the furniture in use in such bureau, office, department, or branch of the public service, are transferred to the Department of Commerce.
 
-(Feb. 14, 1903, ch. 552, § 4 (part), 32 Stat. 826.)
+(Feb. 14, 1903, ch. 552, § 4 (part), 32 Stat. 826.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 598 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 598 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 Section is based on the second par. of section 4 of act Feb. 14, 1903. The first par. of section 4 is classified to sections 1511 and 1516 of this title.
 
@@ -1232,17 +1232,17 @@ Section is based on the second par. of section 4 of act Feb. 14, 1903. The first
 
 Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
-## § 1516. Statistical information
+## § 1516. Statistical information
 
 The Secretary of Commerce shall have control of the work of gathering and distributing statistical information naturally relating to the subjects confided to his department; and he shall have the power and authority to rearrange the statistical work of the bureaus and offices confided to the Department of Commerce, and to consolidate any of the statistical bureaus and offices above described. He shall also have authority to call upon other departments of the Government for statistical data and results obtained by them; and he may collate, arrange, and publish such statistical information so obtained in such manner as to him may seem wise.
 
-(Feb. 14, 1903, ch. 552, § 4 (part), 32 Stat. 826.)
+(Feb. 14, 1903, ch. 552, § 4 (part), 32 Stat. 826.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 601 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 601 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 Section is based on part of the first par. of section 4 of act Feb. 14, 1903. The rest of the first par. and the second par. of section 4 are classified to sections 1511 and 1515 of this title, respectively.
 
@@ -1252,11 +1252,11 @@ Section is based on part of the first par. of section 4 of act Feb. 14, 1903. Th
 
 Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
-## § 1516a. Statistics relating to social, health, and economic conditions of Americans of Spanish origin or descent
+## § 1516a. Statistics relating to social, health, and economic conditions of Americans of Spanish origin or descent
 
 The Department of Commerce, the Department of Labor, the Department of Health and Human Services, and the Department of Agriculture shall each collect, and publish regularly, statistics which indicate the social, health, and economic condition of Americans of Spanish origin or descent.
 
-(Pub. L. 94–311, § 2, June 16, 1976, 90 Stat. 688; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 94–311, § 2, June 16, 1976, 90 Stat. 688; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1266,27 +1266,27 @@ The Department of Commerce, the Department of Labor, the Department of Health an
 
 **Development of Program for the Collection, Analysis and Publication of Data**
 
-Pub. L. 94–311, § 3, June 16, 1976, 90 Stat. 688, provided that: “The Director of the Office of Management and Budget, in cooperation with the Secretary of Commerce and with the heads of other data-gathering Federal agencies, shall develop a Government-wide program for the collection, analysis, and publication of data with respect to Americans of Spanish origin or descent.”
+Pub. L. 94–311, § 3, June 16, 1976, 90 Stat. 688, provided that: “The Director of the Office of Management and Budget, in cooperation with the Secretary of Commerce and with the heads of other data-gathering Federal agencies, shall develop a Government-wide program for the collection, analysis, and publication of data with respect to Americans of Spanish origin or descent.”
 
-## § 1517. Transfer of statistical or scientific work
+## § 1517. Transfer of statistical or scientific work
 
 The President is authorized, by order in writing, to transfer at any time the whole or any part of any office, bureau, division, or other branch of the public service engaged in statistical or scientific work, from the Department of State, the Department of the Treasury, the Department of Defense, the Department of Justice, the United States Postal Service, or the Department of the Interior, to the Department of Commerce; and in every such case the duties and authority performed by and conferred by law upon such office, bureau, division, or other branch of the public service, or the part thereof so transferred, shall be thereby transferred with such office, bureau, division, or other branch of the public service, or the part thereof which is so transferred. All power and authority conferred by law, both supervisory and appellate, upon the department from which such transfer is made, or the Secretary thereof, in relation to the said office, bureau, division, or other branch of the public service, or the part thereof so transferred, shall immediately, when such transfer is so ordered by the President, be fully conferred upon and vested in the Department of Commerce, or the Secretary thereof, as the case may be, as to the whole or part of such office, bureau, division, or other branch of the public service so transferred.
 
-(Feb. 14, 1903, ch. 552, § 12, 32 Stat. 830; July 26, 1947, ch. 343, title II, § 201(a), 61 Stat. 499; Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579; Pub. L. 91–375, §§ 4(a), 6(*o*), Aug. 12, 1970, 84 Stat. 773, 783.)
+(Feb. 14, 1903, ch. 552, § 12, 32 Stat. 830; July 26, 1947, ch. 343, title II, § 201(a), 61 Stat. 499; Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579; Pub. L. 91–375, §§ 4(a), 6(*o*), Aug. 12, 1970, 84 Stat. 773, 783.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 602 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 602 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-Section is based on section 12 of act Feb. 14, 1903, as originally enacted. Section 12 of the act was amended generally by Pub. L. 93–498, § 23, Oct. 29, 1974, 88 Stat. 1549, and forms the basis of section 1511 of this title.
+Section is based on section 12 of act Feb. 14, 1903, as originally enacted. Section 12 of the act was amended generally by Pub. L. 93–498, § 23, Oct. 29, 1974, 88 Stat. 1549, and forms the basis of section 1511 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-“United States Postal Service” substituted for “Post Office Department” in text pursuant to Pub. L. 91–375, §§ 4(a), 6(*o*), Aug. 12, 1970, 84 Stat. 773, 783, which are set out as notes preceding section 101 of Title 39, Postal Service, and under section 201 of Title 39, respectively, which abolished Post Office Department, transferred its functions to United States Postal Service, and provided that references in other laws to Post Office Department shall be considered a reference to United States Postal Service.
+“United States Postal Service” substituted for “Post Office Department” in text pursuant to Pub. L. 91–375, §§ 4(a), 6(*o*), Aug. 12, 1970, 84 Stat. 773, 783, which are set out as notes preceding section 101 of Title 39, Postal Service, and under section 201 of Title 39, respectively, which abolished Post Office Department, transferred its functions to United States Postal Service, and provided that references in other laws to Post Office Department shall be considered a reference to United States Postal Service.
 
 Department of Defense substituted for Departments of the Army and Navy by act July 26, 1947, as amended Aug. 10, 1949.
 
@@ -1294,7 +1294,7 @@ Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerc
 
 **Meteorological Satellite (METSAT) and Associated Ground Systems; Expenditure of Funds To Develop Proposals To Transfer Ownership to Private Entities Prohibited**
 
-Pub. L. 98–166, title I, § 101, Nov. 28, 1983, 97 Stat. 1076, provided that:
+Pub. L. 98–166, title I, § 101, Nov. 28, 1983, 97 Stat. 1076, provided that:
 
 > “No funds made available by this Act, or any other Act, may be used—
 
@@ -1304,7 +1304,7 @@ Pub. L. 98–166, title I, § 101, Nov. 28, 1983, 97 Stat. 1076, provided that
 
 **Civil Land Remote Sensing Satellite System; Termination**
 
-Pub. L. 98–52, title II, § 202, July 15, 1983, 97 Stat. 285, as amended by Pub. L. 103–437, § 5(b)(1), Nov. 2, 1994, 108 Stat. 4582, provided that:
+Pub. L. 98–52, title II, § 202, July 15, 1983, 97 Stat. 285, as amended by Pub. L. 103–437, § 5(b)(1), Nov. 2, 1994, 108 Stat. 4582, provided that:
 
 > “Notwithstanding title II of the National Aeronautics and Space Administration Authorization Act, 1983 [Pub. L. 97–324, set out as a note below], the Secretary of Commerce shall not transfer the ownership or management of any civil land, meteorological, or ocean remote sensing space satellite system and associated ground system equipment unless, in addition to any other requirement of law—
 
@@ -1312,7 +1312,7 @@ Pub. L. 98–52, title II, § 202, July 15, 1983, 97 Stat. 285, as amended by 
 
 > **“(2)** the Congress thereafter enacts a law which contains such policies, procedures, conditions, or limitations (or a combination thereof) as it deems appropriate for any such transfer.”
 
-Pub. L. 97–324, title II, § 201, Oct. 15, 1982, 96 Stat. 1601, as amended by Pub. L. 98–365, title VI, § 608, July 17, 1984, 98 Stat. 466; Pub. L. 103–437, § 5(b)(2), Nov. 2, 1994, 108 Stat. 4582, provided that:
+Pub. L. 97–324, title II, § 201, Oct. 15, 1982, 96 Stat. 1601, as amended by Pub. L. 98–365, title VI, § 608, July 17, 1984, 98 Stat. 466; Pub. L. 103–437, § 5(b)(2), Nov. 2, 1994, 108 Stat. 4582, provided that:
 
 > **“(a)** The Secretary of Commerce is authorized to plan and provide for the management and operation of civil remote-sensing space systems, which may include the Landsat 4 and 5 satellites and associated ground system equipment transferred from the National Aeronautics and Space Administration; to provide for user fees; and to plan for the transfer of the operation of civil remote-sensing space systems to the private sector when in the national interest.
 
@@ -1364,11 +1364,11 @@ Sec. 2. (a) Such personnel and positions and so much of the property, records, a
 
 Richard Nixon.
 
-## § 1518. Custody of buildings; officers transferred
+## § 1518. Custody of buildings; officers transferred
 
 The Secretary of Commerce shall have charge, in the buildings or premises occupied by or appropriated to the Department of Commerce, of the library, furniture, fixtures, rec­ords, and other property pertaining to it or acquired for use in its business; and he shall be allowed to expend for periodicals and the purposes of the library, and for the rental of appropriate quarters for the accommodation of the Department of Commerce within the District of Columbia, and for all other incidental expenses, such sums as Congress may provide from time to time. Where any office, bureau, or branch of the public service transferred to the Department of Commerce is occupying rented buildings or premises, it may still continue to do so until other suitable quarters are provided for its use. All officers, clerks, and employees employed on February 14, 1903, in or by any of the bureaus, offices, departments, or branches of the public service transferred to the Department of Commerce are each and all transferred to said department, except where otherwise provided by law. All laws prescribing the work and defining the duties of the several bureaus, offices, departments, or branches of the public service transferred to and made a part of the Department of Commerce shall, so far as the same are not in conflict with the provisions of this Act, remain in full force and effect until otherwise provided by law.
 
-(Feb. 14, 1903, ch. 552, § 9, 32 Stat. 829.)
+(Feb. 14, 1903, ch. 552, § 9, 32 Stat. 829.)
 
 **Editorial Notes**
 
@@ -1378,7 +1378,7 @@ This Act, referred to in text, is act Feb. 14, 1903, ch. 552, 32 Stat. 825, whic
 
 **Codification**
 
-Section was formerly classified to section 603 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 603 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1386,17 +1386,17 @@ Section was formerly classified to section 603 of Title 5 prior to the general r
 
 Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
-## § 1519. Annual and special reports
+## § 1519. Annual and special reports
 
 The Secretary of Commerce shall annually, at the close of each fiscal year, make a report in writing to Congress, giving an account of all moneys received and disbursed by him and his Department, and describing the work done by the Department in fostering, promoting, and developing the foreign and domestic commerce, the mining, manufacturing, and fishery industries; of the United States, and making such recommendations as he shall deem necessary for the effective performance of the duties and purposes of the Department. He shall also from time to time make such special investigations and reports as he may be required to do by the President, or by either House of Congress, or which he himself may deem necessary and urgent.
 
-(Feb. 14, 1903, ch. 552, § 8, 32 Stat. 829; Pub. L. 97–31, § 12(7), Aug. 6, 1981, 95 Stat. 154.)
+(Feb. 14, 1903, ch. 552, § 8, 32 Stat. 829; Pub. L. 97–31, § 12(7), Aug. 6, 1981, 95 Stat. 154.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 604 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 604 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Amendments**
 
@@ -1408,25 +1408,25 @@ Section was formerly classified to section 604 of Title 5 prior to the general r
 
 Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerce and Labor and Secretary of Commerce and Labor were to be thereafter called the Department of Commerce and Secretary of Commerce and that the act creating the Department of Commerce and Labor (act Feb. 14, 1903) was amended accordingly.
 
-## § 1519a. Repealed. Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2443
+## § 1519a. Repealed. Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2443
 
-Section, Pub. L. 96–371, § 2, Oct. 3, 1980, 94 Stat. 1362; Pub. L. 97–31, § 12(8), Aug. 6, 1981, 95 Stat. 154, required an annual report to Congress by the Secretary of Transportation respecting conditions of the public ports of the United States. See section 308(b) of Title 49, Transportation.
+Section, Pub. L. 96–371, § 2, Oct. 3, 1980, 94 Stat. 1362; Pub. L. 97–31, § 12(8), Aug. 6, 1981, 95 Stat. 154, required an annual report to Congress by the Secretary of Transportation respecting conditions of the public ports of the United States. See section 308(b) of Title 49, Transportation.
 
-## § 1520. Repealed. Pub. L. 91–412, § 3(d), Sept. 25, 1970, 84 Stat. 864
+## § 1520. Repealed. Pub. L. 91–412, § 3(d), Sept. 25, 1970, 84 Stat. 864
 
 Section, act Dec. 19, 1942, ch. 780, 56 Stat. 1067, authorized Secretary of Commerce to establish schedule of fees or charges for services or publications furnished by Department of Commerce, excepting Federal and State governments, provided for covering proceeds thereof into the Treasury as miscellaneous receipts, and specified that its provisions shall not alter, amend, modify, or repeal any existing law for prescription of fees or charges. See sections 1525 to 1527 of this title.
 
-## § 1521. Working capital fund; establishment; amount; uses; reimbursement
+## § 1521. Working capital fund; establishment; amount; uses; reimbursement
 
 There is established a working capital fund of $100,000, without fiscal year limitation, for the payment of salaries and other expenses necessary to the maintenance and operation of (1) central duplicating, photographic, drafting, and photostating services and (2) such other services as the Secretary, with the approval of the Director of the Office of Management and Budget, determines may be performed more advantageously as central services; said fund to be reimbursed from applicable funds of bureaus, offices, and agencies for which services are performed on the basis of rates which shall include estimated or actual charges for personal services, materials, equipment (including maintenance, repairs, and depreciation) and other expenses: *Provided*, That such central services shall, to the fullest extent practicable, be used to make unnecessary the maintenance of separate like services in the bureaus, offices, and agencies of the Department: *Provided further*, That a separate schedule of expenditures and reimbursements, and a statement of the current assets and liabilities of the working capital fund as of the close of the last completed fiscal year, shall be included in the annual Budget.
 
-(June 28, 1944, ch. 294, title III, § 301, 58 Stat. 415; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
+(June 28, 1944, ch. 294, title III, § 301, 58 Stat. 415; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 607 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 607 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Executive Documents**
 
@@ -1434,13 +1434,13 @@ Section was formerly classified to section 607 of Title 5 prior to the general r
 
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
 
-## § 1521a. Department of Commerce Nonrecurring Expenses Fund
+## § 1521a. Department of Commerce Nonrecurring Expenses Fund
 
 **(a)** There is hereby established in the Treasury of the United States a fund to be known as the “Department of Commerce Nonrecurring Expenses Fund” (the Fund): *Provided*, That unobligated balances of expired discretionary funds appropriated for this or any succeeding fiscal year from the General Fund of the Treasury to the Department of Commerce by this or any other Act may be transferred (not later than the end of the fifth fiscal year after the last fiscal year for which such funds are available for the purposes for which appropriated) into the Fund: *Provided further*, That amounts deposited in the Fund shall be available until expended, and in addition to such other funds as may be available for such purposes, for information and business technology system modernization and facilities infrastructure improvements necessary for the operation of the Department, subject to approval by the Office of Management and Budget: *Provided further*, That amounts in the Fund may be obligated only after the Committees on Appropriations of the House of Representatives and the Senate are notified at least 15 days in advance of the planned use of funds.
 
 **(b)** In addition to amounts otherwise made available by this Act, there is appropriated $20,000,000, to remain available until September 30, 2022, to the Fund for necessary expenses for a business application system modernization.
 
-(Pub. L. 116–93, div. B, title I, § 111, Dec. 20, 2019, 133 Stat. 2395.)
+(Pub. L. 116–93, div. B, title I, § 111, Dec. 20, 2019, 133 Stat. 2395.)
 
 **Editorial Notes**
 
@@ -1448,55 +1448,55 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 
 This Act, referred to in text, is div. B of Pub. L. 116–93, Dec. 20, 2019, 133 Stat. 2385, known as the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2020. For complete classification of this Act to the Code, see Tables.
 
-## § 1522. Acceptance of gifts and bequests for purposes of the Department; separate fund; disbursements
+## § 1522. Acceptance of gifts and bequests for purposes of the Department; separate fund; disbursements
 
 The Secretary of Commerce is hereby authorized to accept, hold, administer, and utilize gifts and bequests of property, both real and personal, for the purpose of aiding or facilitating the work of the Department of Commerce. Gifts and bequests of money and the proceeds from sales of other property received as gifts or bequests shall be deposited in the Treasury in a separate fund and shall be disbursed upon order of the Secretary of Commerce. Property accepted pursuant to this provision, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest.
 
-(Pub. L. 88–611, § 1, Oct. 2, 1964, 78 Stat. 991.)
+(Pub. L. 88–611, § 1, Oct. 2, 1964, 78 Stat. 991.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 608a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 608a of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Funds**
 
-Pub. L. 88–611, § 4(b), Oct. 2, 1964, 78 Stat. 991, provided that: “All gifts and bequests received under the provisions of law repealed by subsection (a) of this section [which repealed section 278a of this title, section 883g of Title 33, Navigation and Navigable Waters, and section 1126(g) of former Title 46, Shipping] and all funds held on the date of enactment of this Act [Oct. 2, 1964] in the United States Merchant Marine Academy general gift fund, established by subsection (g) of section 216 of the Merchant Marine Act, 1936 [section 1126(g) of former Title 46], shall be transferred to the fund authorized by this Act [sections 1522 to 1524 of this title] and shall be administered in accordance with the provisions of this Act [sections 1522 to 1524 of this title].”
+Pub. L. 88–611, § 4(b), Oct. 2, 1964, 78 Stat. 991, provided that: “All gifts and bequests received under the provisions of law repealed by subsection (a) of this section [which repealed section 278a of this title, section 883g of Title 33, Navigation and Navigable Waters, and section 1126(g) of former Title 46, Shipping] and all funds held on the date of enactment of this Act [Oct. 2, 1964] in the United States Merchant Marine Academy general gift fund, established by subsection (g) of section 216 of the Merchant Marine Act, 1936 [section 1126(g) of former Title 46], shall be transferred to the fund authorized by this Act [sections 1522 to 1524 of this title] and shall be administered in accordance with the provisions of this Act [sections 1522 to 1524 of this title].”
 
-## § 1523. Tax status of gifts and bequests of property
+## § 1523. Tax status of gifts and bequests of property
 
 For the purpose of Federal income, estate, and gift taxes, property accepted under section 1522 of this title shall be considered as a gift or bequest to or for the use of the United States.
 
-(Pub. L. 88–611, § 2, Oct. 2, 1964, 78 Stat. 991.)
+(Pub. L. 88–611, § 2, Oct. 2, 1964, 78 Stat. 991.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 608b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 608b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 1524. Investment and reinvestments of moneys; credit and disbursement of interest
+## § 1524. Investment and reinvestments of moneys; credit and disbursement of interest
 
 Upon the request of the Secretary of Commerce, the Secretary of the Treasury may invest and reinvest in securities of the United States or in securities guaranteed as to principal and interest by the United States any moneys contained in the fund authorized herein. Income accruing from such securities, and from any other property accepted pursuant to section 1522 of this title, shall be deposited to the credit of the fund authorized herein, and shall be disbursed upon order of the Secretary of Commerce.
 
-(Pub. L. 88–611, § 3, Oct. 2, 1964, 78 Stat. 991.)
+(Pub. L. 88–611, § 3, Oct. 2, 1964, 78 Stat. 991.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 608c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 608c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
-## § 1525. Special studies; special compilations, lists, bulletins, or reports; clearinghouse for technical information; transcripts or copies; cost payments for special work; joint projects: cost apportionment, waiver
+## § 1525. Special studies; special compilations, lists, bulletins, or reports; clearinghouse for technical information; transcripts or copies; cost payments for special work; joint projects: cost apportionment, waiver
 
 The Secretary of Commerce is authorized, upon the request of any person, firm, organization, or others, public or private, to make special studies on matters within the authority of the Department of Commerce; to prepare from its records special compilations, lists, bulletins, or reports; to perform the functions authorized by section 1152 of this title; and to furnish transcripts or copies of its studies, compilations, and other records; upon the payment of the actual or estimated cost of such special work.
 
 In the case of nonprofit organizations, research organizations, or public organizations or agencies, the Secretary may engage in joint projects, or perform services, on matters of mutual interest, the cost of which shall be apportioned equitably, as determined by the Secretary, who may, however, waive payment of any portion of such costs by others, when authorized to do so under regulations approved by the Office of Management and Budget.
 
-(Pub. L. 91–412, § 1, Sept. 25, 1970, 84 Stat. 864; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
+(Pub. L. 91–412, § 1, Sept. 25, 1970, 84 Stat. 864; 1970 Reorg. Plan No. 2, § 102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085.)
 
 **Executive Documents**
 
@@ -1504,11 +1504,11 @@ In the case of nonprofit organizations, research organizations, or public organi
 
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
 
-## § 1526. Receipts for work or services; deposit in special accounts; availability for payment of costs, repayment or advances to appropriations or funds, refunds, credits to working capital funds; appropriation limitation of annual expenditures from accounts
+## § 1526. Receipts for work or services; deposit in special accounts; availability for payment of costs, repayment or advances to appropriations or funds, refunds, credits to working capital funds; appropriation limitation of annual expenditures from accounts
 
 All payments for work or services performed or to be performed under this Act shall be deposited in a separate account or accounts which may be used to pay directly the costs of such work or services, to repay or make advances to appropriations or funds which do or will initially bear all or part of such costs, or to refund excess sums when necessary: *Provided*, That said receipts may be credited to a working capital fund otherwise established by law, and used under the law governing said funds, if the fund is available for use by the agency of the Department of Commerce which is responsible for performing the work or services for which payment is received. Acts appropriating funds to the Department of Commerce may include provisions limiting annual expenditure from said account or accounts.
 
-(Pub. L. 91–412, § 2, Sept. 25, 1970, 84 Stat. 864.)
+(Pub. L. 91–412, § 2, Sept. 25, 1970, 84 Stat. 864.)
 
 **Editorial Notes**
 
@@ -1516,11 +1516,11 @@ All payments for work or services performed or to be performed under this Act sh
 
 This Act, referred to in text, means Pub. L. 91–412, which enacted sections 1525 to 1527, amended section 1153, and repealed sections 189, 189a, 192, 192a, 1153a, and 1520 of this title.
 
-## § 1527. Fees or charges for services or publications under existing law unaffected
+## § 1527. Fees or charges for services or publications under existing law unaffected
 
 Except as to those laws expressly repealed herein, nothing in this Act shall alter, amend, modify, or repeal any existing law prescribing fees or charges or authorizing the prescribing of fees or charges for services performed or for any publication furnished by the Department of Commerce, or any of its several bureaus or offices.
 
-(Pub. L. 91–412, § 4, Sept. 25, 1970, 84 Stat. 865.)
+(Pub. L. 91–412, § 4, Sept. 25, 1970, 84 Stat. 865.)
 
 **Editorial Notes**
 
@@ -1530,7 +1530,7 @@ This Act, referred to in text, means Pub. L. 91–412, which enacted sections 15
 
 Laws expressly repealed herein, referred to in text, means amendment of section 1153 and repeal of sections 189, 189a, 192, 192a, 1153a, and 1520 of this title, as heretofore noted.
 
-## § 1527a. Economics and Statistics Administration Revolving Fund
+## § 1527a. Economics and Statistics Administration Revolving Fund
 
 There is hereby established the Economics and Statistics Administration Revolving Fund which shall be available without fiscal year limitation. For initial capitalization, there is appropriated $1,677,000 to the Fund: *Provided*, That the Secretary of Commerce is authorized to disseminate economic and statistical data products as authorized by sections 1525 to 1527 of this title and, notwithstanding section 4912 of this title, charge fees necessary to recover the full costs incurred in their production. Notwithstanding section 3302 of title 31, receipts received from these data dissemination activities shall be credited to this account as offsetting collections, to be available for carrying out these purposes without further appropriation.
 
@@ -1544,19 +1544,19 @@ Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2474, provided in part tha
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 104–208, div. A, title I, § 101(a) [title II], Sept. 30, 1996, 110 Stat. 3009, 3009–34.
+Pub. L. 104–208, div. A, title I, § 101(a) [title II], Sept. 30, 1996, 110 Stat. 3009, 3009–34.
 
-Pub. L. 104–134, title I, § 101[(a)] [title II], Apr. 26, 1996, 110 Stat. 1321, 1321–25; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101[(a)] [title II], Apr. 26, 1996, 110 Stat. 1321, 1321–25; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
-## § 1528. Transferred
+## § 1528. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Feb. 28, 1920, ch. 91, § 500, 41 Stat. 499; 1939 Reorg. Plan No. II, § 6, eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434; Aug. 6, 1981, Pub. L. 97–31, § 12(9), 95 Stat. 154, relating to a policy of development of water transportation, was transferred to section 142 of former Title 49, Transportation, and was repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and reenacted by section 4(j)(6)(A) thereof as section 303a of Title 49, Transportation.
+Section, act Feb. 28, 1920, ch. 91, § 500, 41 Stat. 499; 1939 Reorg. Plan No. II, § 6, eff. July 1, 1939, 4 F.R. 2732, 53 Stat. 1434; Aug. 6, 1981, Pub. L. 97–31, § 12(9), 95 Stat. 154, relating to a policy of development of water transportation, was transferred to section 142 of former Title 49, Transportation, and was repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and reenacted by section 4(j)(6)(A) thereof as section 303a of Title 49, Transportation.
 
-## § 1529. Relinquishment of legislative jurisdiction over certain lands
+## § 1529. Relinquishment of legislative jurisdiction over certain lands
 
 Notwithstanding any other law, the Secretary of Commerce, whenever the Secretary considers it desirable, may relinquish to a State, or to a Commonwealth, territory, or possession of the United States, all or part of the legislative jurisdiction of the United States over lands or interests under the Secretary’s control in that State, Commonwealth, territory, or possession. Relinquishment of legislative jurisdiction under this section may be accomplished—
 
@@ -1564,9 +1564,9 @@ Notwithstanding any other law, the Secretary of Commerce, whenever the Secretary
 
 **(2)** as required by the laws of the State, Commonwealth, territory, or possession.
 
-(Pub. L. 98–623, title IV, § 406, Nov. 8, 1984, 98 Stat. 3409.)
+(Pub. L. 98–623, title IV, § 406, Nov. 8, 1984, 98 Stat. 3409.)
 
-## § 1530. Awarding of contracts for performance of commercial activity by National Oceanic and Atmospheric Administration
+## § 1530. Awarding of contracts for performance of commercial activity by National Oceanic and Atmospheric Administration
 
 The Administration may not award any contract for the performance of any “commercial activity”, as defined by paragraph 6.a. of the Office of Management and Budget Circular Memorandum A–76, which is performed by Administration employees until at least 30 calendar days after the Administrator of the Administration has presented, in writing, to the President of the Senate, the Speaker of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Merchant Marine and Fisheries and the Committee on Science, Space, and Technology of the House of Representatives, a full and complete description of such proposed contract, together with supporting documentation. Such documentation shall include—
 
@@ -1576,7 +1576,7 @@ The Administration may not award any contract for the performance of any “comm
 
 **(3)** an assessment of the benefits to the Federal Government of proceeding with the proposed contract.
 
-(Pub. L. 99–272, title VI, § 6083, Apr. 7, 1986, 100 Stat. 135; Pub. L. 103–437, § 5(b)(3), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 99–272, title VI, § 6083, Apr. 7, 1986, 100 Stat. 135; Pub. L. 103–437, § 5(b)(3), Nov. 2, 1994, 108 Stat. 4582.)
 
 **Editorial Notes**
 
@@ -1590,13 +1590,13 @@ The Administration may not award any contract for the performance of any “comm
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-## § 1531. Buying Power Maintenance accounts for International Trade Administration, Export Administration, and United States Travel and Tourism Administration
+## § 1531. Buying Power Maintenance accounts for International Trade Administration, Export Administration, and United States Travel and Tourism Administration
 
 In order to maintain overseas program activity for the Department of Commerce provided for each fiscal year at the appropriated program levels, the Secretary may establish Buying Power Maintenance accounts for the International Trade Administration, the Export Administration, and the United States Travel and Tourism Administration. There are authorized to be appropriated for such accounts such sums as may be necessary to offset adverse fluctuations in foreign currency exchange rates, or unbudgeted overseas wage and price changes. To eliminate substantial gains to the approved levels of overseas operations, the Secretary shall transfer to a Buying Power Maintenance account such amounts determined to be excessive to the needs of the approved level of overseas operations because of fluctuations in foreign currency exchange rates or changes in unbudgeted overseas wages and prices, including unobligated balances associated with the overseas program. To offset adverse fluctuations in foreign currency exchange rates or unbudgeted overseas wage and price changes, the Secretary may transfer from a Buying Power Maintenance account such amounts determined to be necessary to maintain the approved level of overseas operations under an appropriation account. Funds transferred by the Secretary to or from a Buying Power Maintenance account to another account shall be merged with and be available for the same purpose, and for the same time period, as the funds in the account into which transferred. Any restriction contained in an appropriation Act or other provision of law limiting the amounts available for the Department of Commerce that may be obligated or expended shall be deemed to be adjusted to the extent necessary to offset the net effect of fluctuations in foreign currency exchange rates or unbudgeted overseas wage and price changes in order to maintain approved levels.
 
-(Pub. L. 100–202, § 101(a) [title I, § 108], Dec. 22, 1987, 101 Stat. 1329, 1329–7.)
+(Pub. L. 100–202, § 101(a) [title I, § 108], Dec. 22, 1987, 101 Stat. 1329, 1329–7.)
 
-## § 1532. Telecommunications; electromagnetic radiation; research, analysis, dissemination of information; other functions of Secretary
+## § 1532. Telecommunications; electromagnetic radiation; research, analysis, dissemination of information; other functions of Secretary
 
 The Secretary of Commerce is authorized to—
 
@@ -1614,19 +1614,19 @@ The Secretary of Commerce is authorized to—
 
 **(7)** undertake such other activities similar to those specified in this subsection as the Secretary of Commerce determines appropriate.
 
-(Pub. L. 100–418, title V, § 5112(b), Aug. 23, 1988, 102 Stat. 1430.)
+(Pub. L. 100–418, title V, § 5112(b), Aug. 23, 1988, 102 Stat. 1430.)
 
-## § 1533. Repealed. Pub. L. 111–358, title IV, § 407(c), Jan. 4, 2011, 124 Stat. 4004
+## § 1533. Repealed. Pub. L. 111–358, title IV, § 407(c), Jan. 4, 2011, 124 Stat. 4004
 
-Section, Pub. L. 100–418, title V, § 5163(d), Aug. 23, 1988, 102 Stat. 1451, established the Commerce, Science, and Technology Fellowship Program within the Department of Commerce.
+Section, Pub. L. 100–418, title V, § 5163(d), Aug. 23, 1988, 102 Stat. 1451, established the Commerce, Science, and Technology Fellowship Program within the Department of Commerce.
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 111–358, § 407(c), which directed the repeal of section 5163(d) of the Omnibus Trade and Competition Act of 1988, was executed by repealing this section, which was section 5163(d) of the Omnibus Trade and Competitiveness Act of 1988 (Pub. L. 100–418), to reflect the probable intent of Congress.
+Pub. L. 111–358, § 407(c), which directed the repeal of section 5163(d) of the Omnibus Trade and Competition Act of 1988, was executed by repealing this section, which was section 5163(d) of the Omnibus Trade and Competitiveness Act of 1988 (Pub. L. 100–418), to reflect the probable intent of Congress.
 
-## § 1534. Assessment of fees for access to environmental data
+## § 1534. Assessment of fees for access to environmental data
 
 **(a) Basis of assessment**
 
@@ -1638,9 +1638,9 @@ Except as otherwise provided in this section, the Secretary is authorized to ass
 
 **(2)** The Secretary shall waive the assessment of fees under subsection (a) as necessary to continue to provide data, information, or products to foreign governments and international organizations on a basis of exchanging such data, information, and products or as otherwise provided by international agreement.
 
-**(3)** The Secretary shall waive the assessment of fees authorized by subsection (a) as necessary to continue to provide weather warnings, watches, and similar products and services essential to the mission of the National Oceanic Atmospheric 1
+**(3)** The Secretary shall waive the assessment of fees authorized by subsection (a) as necessary to continue to provide weather warnings, watches, and similar products and services essential to the mission of the National Oceanic Atmospheric 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “and”.
+<sup>1</sup> So in original. Probably should be preceded by “and”.
 
 Administration.
 
@@ -1672,33 +1672,33 @@ Fees collected under this section by the National Environmental Satellite, Data,
 
 The authority of the Secretary to assess fees under this section shall be in addition to, and shall not be construed to limit, the authority under any other law to assess fees relating to the environmental data activities of the National Oceanic and Atmospheric Administration, including the authority of the Secretary pursuant to section 1307 of title 44. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44.
 
-(Pub. L. 100–685, title IV, § 409, Nov. 17, 1988, 102 Stat. 4100; Pub. L. 101–508, title X, § 10201(a), Nov. 5, 1990, 104 Stat. 1388–392.)
+(Pub. L. 100–685, title IV, § 409, Nov. 17, 1988, 102 Stat. 4100; Pub. L. 101–508, title X, § 10201(a), Nov. 5, 1990, 104 Stat. 1388–392.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–508, § 10201(a)(1), substituted “and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration” for “data archived by the National Environmental Satellite, Data, and Information Service of the National Oceanic and Atmospheric Administration”.
+1990—Subsec. (a). Pub. L. 101–508, § 10201(a)(1), substituted “and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration” for “data archived by the National Environmental Satellite, Data, and Information Service of the National Oceanic and Atmospheric Administration”.
 
-Subsec. (b)(1). Pub. L. 101–508, § 10201(a)(2), inserted “, information, and products” after “provide data” and substituted “data, information, and products are” for “data is”.
+Subsec. (b)(1). Pub. L. 101–508, § 10201(a)(2), inserted “, information, and products” after “provide data” and substituted “data, information, and products are” for “data is”.
 
-Subsec. (b)(2). Pub. L. 101–508, § 10201(a)(3), inserted “, information, or products” after “provide data” and substituted “basis of exchanging such data, information, and products” for “data exchange basis”.
+Subsec. (b)(2). Pub. L. 101–508, § 10201(a)(3), inserted “, information, or products” after “provide data” and substituted “basis of exchanging such data, information, and products” for “data exchange basis”.
 
-Subsec. (b)(3). Pub. L. 101–508, § 10201(a)(4), added par. (3).
+Subsec. (b)(3). Pub. L. 101–508, § 10201(a)(4), added par. (3).
 
-Subsec. (d). Pub. L. 101–508, § 10201(a)(6), inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section” in introductory provisions.
+Subsec. (d). Pub. L. 101–508, § 10201(a)(6), inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section” in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 101–508, § 10201(a)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No fees shall be assessed under this section until after September 30, 1989.”
+Subsec. (d)(1). Pub. L. 101–508, § 10201(a)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “No fees shall be assessed under this section until after September 30, 1989.”
 
-Subsecs. (e), (f)(1). Pub. L. 101–508, § 10201(a)(6), inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section”.
+Subsecs. (e), (f)(1). Pub. L. 101–508, § 10201(a)(6), inserted “by the National Environmental Satellite, Data, and Information Service for archived data” after “under this section”.
 
-Subsec. (g). Pub. L. 101–508, § 10201(a)(7), inserted before period at end “, including the authority of the Secretary pursuant to section 1307 of title 44. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44”.
+Subsec. (g). Pub. L. 101–508, § 10201(a)(7), inserted before period at end “, including the authority of the Secretary pursuant to section 1307 of title 44. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effect of Amendments**
 
-Pub. L. 101–508, title X, § 10201(b), Nov. 5, 1990, 104 Stat. 1388–393, provided that:
+Pub. L. 101–508, title X, § 10201(b), Nov. 5, 1990, 104 Stat. 1388–393, provided that:
 
 > **“(1)** The increase in revenues to the United States attributable to the amendments made by subsection (a) [amending this section] shall not exceed—
 
@@ -1710,17 +1710,17 @@ Pub. L. 101–508, title X, § 10201(b), Nov. 5, 1990, 104 Stat. 1388–393, p
 
 > **“(3)** The Secretary of Commerce shall notify the Congress of any changes in fee schedules under section 409 of the Act of November 17, 1988 (15 U.S.C. 1534), before such changes take effect.”
 
-## § 1535. Repealed. Pub. L. 111–314, § 6, Dec. 18, 2010, 124 Stat. 3444
+## § 1535. Repealed. Pub. L. 111–314, § 6, Dec. 18, 2010, 124 Stat. 3444
 
-Section, Pub. L. 101–611, title I, § 115(b), Nov. 16, 1990, 104 Stat. 3201, related to annual reports of activities of the Office of Space Commerce. See section 50703 of Title 51, National and Commercial Space Programs.
+Section, Pub. L. 101–611, title I, § 115(b), Nov. 16, 1990, 104 Stat. 3201, related to annual reports of activities of the Office of Space Commerce. See section 50703 of Title 51, National and Commercial Space Programs.
 
-## § 1536. Prohibition against fraudulent use of “Made in America” labels
+## § 1536. Prohibition against fraudulent use of “Made in America” labels
 
 If it has been finally determined by a court or a Federal agency that any person intentionally affixed a label bearing a “Made in America” inscription, or an inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, that person shall be ineligible to receive any contract or subcontract from the Department of Commerce, pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
 
-(Pub. L. 102–245, title I, § 111(b), Feb. 14, 1992, 106 Stat. 14.)
+(Pub. L. 102–245, title I, § 111(b), Feb. 14, 1992, 106 Stat. 14.)
 
-## § 1537. Needs assessment for data management, archival, and distribution
+## § 1537. Needs assessment for data management, archival, and distribution
 
 **(1)** Not later than 12 months after October 29, 1992, and at least biennially thereafter, the Secretary of Commerce shall complete an assessment of the adequacy of the environmental data and information systems of the National Oceanic and Atmospheric Administration. In conducting such an assessment, the Secretary shall take into consideration the need to—
 
@@ -1744,9 +1744,9 @@ If it has been finally determined by a court or a Federal agency that any person
 
 **(D)** provide an implementation schedule and estimate funding levels necessary to achieve modernization and improvement objectives.
 
-(Pub. L. 102–567, title I, § 106(c), Oct. 29, 1992, 106 Stat. 4274.)
+(Pub. L. 102–567, title I, § 106(c), Oct. 29, 1992, 106 Stat. 4274.)
 
-## § 1538. Notice of reprogramming
+## § 1538. Notice of reprogramming
 
 **(a) In general** The Secretary of Commerce shall provide notice to the Committee on Commerce, Science, and Transportation and Committee on Appropriations of the Senate and to the Committee on Merchant Marine and Fisheries, Committee on Science, Space, and Technology, and Committee on Appropriations of the House of Representatives, not less than 15 days before reprogramming funds available for a program, project, or activity of the National Oceanic and Atmospheric Administration in an amount greater than the lesser of $250,000 or 5 percent of the total funding of such program, project, or activity if the reprogramming—
 
@@ -1760,7 +1760,7 @@ If it has been finally determined by a court or a Federal agency that any person
 
 The Secretary of Commerce shall provide notice to the Committees on Merchant Marine and Fisheries, Science, Space, and Technology, and Appropriations of the House of Representatives, and the Committees on Commerce, Science, and Transportation and Appropriations of the Senate not later than 15 days before any major reorganization of any program, project, or activity of the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 102–567, title IV, § 403, Oct. 29, 1992, 106 Stat. 4291.)
+(Pub. L. 102–567, title IV, § 403, Oct. 29, 1992, 106 Stat. 4291.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1768,7 +1768,7 @@ The Secretary of Commerce shall provide notice to the Committees on Merchant Mar
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-## § 1539. Financial assistance
+## § 1539. Financial assistance
 
 **(a) Processing of applications**
 
@@ -1788,9 +1788,9 @@ In the case of a program for which the recipient of a grant, contract, or other 
 
 **(2)** the recipients of which have customarily been a State or an interstate fishery commission.
 
-(Pub. L. 102–567, title IV, § 404, Oct. 29, 1992, 106 Stat. 4292.)
+(Pub. L. 102–567, title IV, § 404, Oct. 29, 1992, 106 Stat. 4292.)
 
-## § 1540. Cooperative agreements
+## § 1540. Cooperative agreements
 
 The Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere, may enter into cooperative agreements and other financial agreements with any nonprofit organization to—
 
@@ -1798,7 +1798,7 @@ The Secretary of Commerce, acting through the Under Secretary of Commerce for Oc
 
 **(2)** solicit private donations for the support of such activities.
 
-(Pub. L. 102–567, title IV, § 406, Oct. 29, 1992, 106 Stat. 4293.)
+(Pub. L. 102–567, title IV, § 406, Oct. 29, 1992, 106 Stat. 4293.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1808,11 +1808,11 @@ Pub. L. 108–199, div. B, title II, Jan. 23, 2004, 118 Stat. 71, provided in pa
 
 Similar provisions were contained in Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 74.
 
-## § 1541. Administrative Law Judges
+## § 1541. Administrative Law Judges
 
 Notwithstanding section 559 of title 5, with respect to any marine resource conservation law or regulation administered by the Secretary of Commerce acting through the National Oceanic and Atmospheric Administration, all adjudicatory functions which are required by chapter 5 of title 5 to be performed by an Administrative Law Judge may be performed by another Federal agency on a reimbursable basis. Should another Federal agency require the detail of an Administrative Law Judge to perform any of these functions, it may request such temporary or occasional assistance from the Office of Personnel Management pursuant to section 3344 of title 5.
 
-(Pub. L. 105–160, § 10, Mar. 6, 1998, 112 Stat. 27; Pub. L. 114–327, title I, § 122, Dec. 16, 2016, 130 Stat. 1985.)
+(Pub. L. 105–160, § 10, Mar. 6, 1998, 112 Stat. 27; Pub. L. 114–327, title I, § 122, Dec. 16, 2016, 130 Stat. 1985.)
 
 **Editorial Notes**
 
@@ -1826,7 +1826,7 @@ Notwithstanding section 559 of title 5, with respect to any marine resource cons
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1542. Establishment of the Ernest F. Hollings Scholarship Program
+## § 1542. Establishment of the Ernest F. Hollings Scholarship Program
 
 **(a) Establishment**
 
@@ -1874,9 +1874,9 @@ Of the total amount appropriated for fiscal year 2005 and annually hereafter to 
 
 The Administrator shall require an individual receiving a scholarship under this section to repay the full amount of the scholarship to the National Oceanic and Atmospheric Administration if the Administrator determines that the individual, in obtaining or using the scholarship, engaged in fraudulent conduct or failed to comply with any term or condition of the scholarship. Such repayments shall be deposited in the NOAA Operations, Research, and Facilities Appropriations Account and treated as an offsetting collection and only be available for financing additional scholarships.
 
-(Pub. L. 108–447, div. B, title II, § 214, Dec. 8, 2004, 118 Stat. 2884.)
+(Pub. L. 108–447, div. B, title II, § 214, Dec. 8, 2004, 118 Stat. 2884.)
 
-## § 1543. Task force on job repatriation and manufacturing growth
+## § 1543. Task force on job repatriation and manufacturing growth
 
 The Secretary of Commerce shall maintain a task force on job repatriation and manufacturing growth and shall produce an annual report on related incentive strategies, implementation plans and program results.
 
@@ -1898,11 +1898,11 @@ Pub. L. 113–76, div. B, title I, Jan. 17, 2014, 128 Stat. 50.
 
 Pub. L. 113–6, div. B, title I, Mar. 26, 2013, 127 Stat. 240.
 
-## § 1544. Promotion of tourist travel
+## § 1544. Promotion of tourist travel
 
 The Secretary of Commerce shall encourage, promote, and develop travel within the United States, including any Commonwealth, territory, and possession thereof, through activities which are in the public interest and which do not compete with activities of any State, city, or private agency.
 
-(July 19, 1940, ch. 642, § 1, 54 Stat. 773; Pub. L. 93–193, § 2, Dec. 19, 1973, 87 Stat. 765; Pub. L. 94–55, § 2(b), July 9, 1975, 89 Stat. 262.)
+(July 19, 1940, ch. 642, § 1, 54 Stat. 773; Pub. L. 93–193, § 2, Dec. 19, 1973, 87 Stat. 765; Pub. L. 94–55, § 2(b), July 9, 1975, 89 Stat. 262.)
 
 **Editorial Notes**
 
@@ -1918,17 +1918,17 @@ Section was formerly classified to section 18 of Title 16, Conservation.
 
 **Transfer of Functions**
 
-Pub. L. 93–193, § 2, Dec. 19, 1973, 87 Stat. 765, provided that:
+Pub. L. 93–193, § 2, Dec. 19, 1973, 87 Stat. 765, provided that:
 
 > **“(a)** There are hereby transferred to and vested in the Secretary of Commerce all functions, powers, and duties of the Secretary of the Interior and other offices and officers of the Department of the Interior under the Act of July 19, 1940 (54 Stat. 773; 16 U.S.C. 18–18d) [now 15 U.S.C. 1544–1548].
 
 > **“(b)** The assets, liabilities, contracts, property, records, authorizations, and allocations, employed, held, used, rising from, available or to be made available in connection with the functions, powers, and duties transferred by subsection (a) of this section are hereby transferred to the Secretary of Commerce.”
 
-## § 1545. Cooperation with travel agencies; publication of information
+## § 1545. Cooperation with travel agencies; publication of information
 
 In carrying out the purposes of sections 1544 to 1548 of this title, the Secretary is authorized to cooperate with public and private tourist, travel, and other agencies in the display of exhibits, and in the collection, publication, and dissemination of information with respect to places of interest, routes, transportation facilities, accommodations, and such other matters as he deems advisable and advantageous for the purpose of encouraging, promoting, or developing such travel. Nothing in said sections shall prohibit the preparation of graphic materials in foreign languages, designed to call attention to the attractions and places of interest in the United States and to encourage the use of American registered ships and planes. The existing facilities of the United States Government in foreign countries are authorized to assist in the distribution of this material. The Secretary may enter into contracts with private publishers for such printing and binding as he may deem advisable in carrying out the purposes of said sections. The Secretary is also authorized to make charges for any publications made available to the public pursuant to said sections; and any proceeds from the sale of publications produced by the expenditure of contributed funds shall continue to be available for printing and binding as aforesaid.
 
-(July 19, 1940, ch. 642, § 2, 54 Stat. 773.)
+(July 19, 1940, ch. 642, § 2, 54 Stat. 773.)
 
 **Editorial Notes**
 
@@ -1942,7 +1942,7 @@ Section was formerly classified to section 18a of Title 16, Conservation.
 
 For transfer of functions of Secretary of the Interior to Secretary of Commerce, see Transfer of Functions note set out under section 1544 of this title.
 
-## § 1546. United States Travel and Tourism Advisory Board
+## § 1546. United States Travel and Tourism Advisory Board
 
 **(a) In general**
 
@@ -1972,7 +1972,7 @@ The National Travel and Tourism Office of the International Trade Administration
 
 The Board shall assist the Assistant Secretary of Commerce for Travel and Tourism in the development and implementation of the recovery strategies required under section 9803(e)(1) of this title.
 
-(July 19, 1940, ch. 642, § 3, 54 Stat. 773; Pub. L. 97–31, § 12(10), Aug. 6, 1981, 95 Stat. 154; Pub. L. 98–443, § 9(*o*), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 117–328, div. BB, title VI, § 607, Dec. 29, 2022, 136 Stat. 5569.)
+(July 19, 1940, ch. 642, § 3, 54 Stat. 773; Pub. L. 97–31, § 12(10), Aug. 6, 1981, 95 Stat. 154; Pub. L. 98–443, § 9(*o*), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 117–328, div. BB, title VI, § 607, Dec. 29, 2022, 136 Stat. 5569.)
 
 **Editorial Notes**
 
@@ -1994,7 +1994,7 @@ Section was formerly classified to section 18b of Title 16, Conservation.
 
 Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under section 5314 of Title 5, Government Organization and Employees.
 
-## § 1547. Rules and regulations; employees
+## § 1547. Rules and regulations; employees
 
 In the performance of his functions and duties under the provisions of sections 1544 to 1548 of this title, the Secretary of Commerce is authorized—
 
@@ -2002,7 +2002,7 @@ In the performance of his functions and duties under the provisions of sections 
 
 **(b)** To employ, subject to chapter 51 and subchapter III of chapter 53 of title 5, one special assistant and not to exceed five artists and illustrators.
 
-(July 19, 1940, ch. 642, § 4, 54 Stat. 774; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 93–193, § 2, Dec. 19, 1973, 87 Stat. 765.)
+(July 19, 1940, ch. 642, § 4, 54 Stat. 774; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 93–193, § 2, Dec. 19, 1973, 87 Stat. 765.)
 
 **Editorial Notes**
 
@@ -2010,9 +2010,9 @@ In the performance of his functions and duties under the provisions of sections 
 
 Section was formerly classified to section 18c of Title 16, Conservation.
 
-Provisions of par. (b) authorizing the Secretary of the Interior to employ “without regard to the civil-service laws” were omitted as such employment is subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
+Provisions of par. (b) authorizing the Secretary of the Interior to employ “without regard to the civil-service laws” were omitted as such employment is subject to the civil service laws unless specifically excepted by those laws or by laws enacted subsequent to Executive Order 8743, Apr. 23, 1941, issued by the President pursuant to the Act of Nov. 26, 1940, ch. 919, title I, § 1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5, Government Organization and Employees.
 
-“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in par. (b) for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
+“Chapter 51 and subchapter III of chapter 53 of title 5” substituted in par. (b) for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 
 **Amendments**
 
@@ -2022,17 +2022,17 @@ Provisions of par. (b) authorizing the Secretary of the Interior to employ “wi
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 **Transfer of Functions**
 
 Secretary of Commerce substituted for Secretary of the Interior in view of transfer of functions to Secretary of Commerce from Secretary of the Interior by section 2 of Pub. L. 93–193. See Transfer of Functions note set out under section 1544 of this title.
 
-## § 1548. Authorization of appropriations
+## § 1548. Authorization of appropriations
 
 For the purpose of carrying out the provisions of sections 1544 to 1548 of this title, there are authorized to be appropriated not to exceed $2,500,000 for the fiscal year ending June 30, 1976; $625,000 for the transition period of July 1, 1976, through September 30, 1976; $2,500,000 for the fiscal year ending September 30, 1977, and $2,500,000 for the fiscal year ending September 30, 1978.
 
-(July 19, 1940, ch. 642, § 5, 54 Stat. 774; Pub. L. 91–549, Dec. 14, 1970, 84 Stat. 1437; Pub. L. 94–55, § 2(a), July 9, 1975, 89 Stat. 262.)
+(July 19, 1940, ch. 642, § 5, 54 Stat. 774; Pub. L. 91–549, Dec. 14, 1970, 84 Stat. 1437; Pub. L. 94–55, § 2(a), July 9, 1975, 89 Stat. 262.)
 
 **Editorial Notes**
 

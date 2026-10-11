@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL
 
-### § 4301. Committee staffs
+### § 4301. Committee staffs
 
 **(a) Appointment of professional members; number; qualifications; termination of employment**
 
@@ -35,7 +35,7 @@ The clerical staff of each standing committee of the Senate (other than the Comm
 
 All committee hearings, records, data, charts, and files shall be kept separate and distinct from the congressional office records of the Member serving as chairman of the committee; and such records shall be the property of the Congress and all members of the committee and the respective Houses shall have access to such records. Each committee is authorized to have printed and bound such testimony and other data presented at hearings held by the committee.
 
-**(e) Repealed. Pub. L. 91–510, title IV, § 477(a)(3), Oct. 26, 1970, 84 Stat. 1195**
+**(e) Repealed. Pub. L. 91–510, title IV, § 477(a)(3), Oct. 26, 1970, 84 Stat. 1195**
 
 **(f) Limitations on appointment of professional members**
 
@@ -75,7 +75,7 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 **(C)** chapter 89 (relating to Federal employees group health insurance) of title 5.
 
-(Aug. 2, 1946, ch. 753, title II, § 202, 60 Stat. 834; July 30, 1947, ch. 361, title I, § 101, 61 Stat. 611; Feb. 24, 1949, ch. 8, 63 Stat. 6; Aug. 5, 1955, ch. 568, § 12, 69 Stat. 509; Pub. L. 85–462, § 4(*o*), June 20, 1958, 72 Stat. 209; Pub. L. 88–426, title II, § 202(j), Aug. 14, 1964, 78 Stat. 414; Pub. L. 91–510, title III, §§ 301(a)–(c), 303, 304, title IV, § 477(a)(3), Oct. 26, 1970, 84 Stat. 1175, 1176, 1179, 1180, 1195; Pub. L. 92–136, § 5, Oct. 11, 1971, 85 Stat. 378; Pub. L. 100–458, title III, § 312, Oct. 1, 1988, 102 Stat. 2184; Pub. L. 104–186, title II, § 204(10), (11), Aug. 20, 1996, 110 Stat. 1731; Pub. L. 105–55, title I, § 105(a), Oct. 7, 1997, 111 Stat. 1184.)
+(Aug. 2, 1946, ch. 753, title II, § 202, 60 Stat. 834; July 30, 1947, ch. 361, title I, § 101, 61 Stat. 611; Feb. 24, 1949, ch. 8, 63 Stat. 6; Aug. 5, 1955, ch. 568, § 12, 69 Stat. 509; Pub. L. 85–462, § 4(*o*), June 20, 1958, 72 Stat. 209; Pub. L. 88–426, title II, § 202(j), Aug. 14, 1964, 78 Stat. 414; Pub. L. 91–510, title III, §§ 301(a)–(c), 303, 304, title IV, § 477(a)(3), Oct. 26, 1970, 84 Stat. 1175, 1176, 1179, 1180, 1195; Pub. L. 92–136, § 5, Oct. 11, 1971, 85 Stat. 378; Pub. L. 100–458, title III, § 312, Oct. 1, 1988, 102 Stat. 2184; Pub. L. 104–186, title II, § 204(10), (11), Aug. 20, 1996, 110 Stat. 1731; Pub. L. 105–55, title I, § 105(a), Oct. 7, 1997, 111 Stat. 1184.)
 
 **Editorial Notes**
 
@@ -83,51 +83,51 @@ Staff members appointed pursuant to a request by minority members of a committee
 
 Section was formerly classified to section 72a of this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (i)(2), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (i)(2), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 A former subsec. (k) authorized additional professional staff members and clerical employees for specific House committees. Committee staffs are now covered by the Rules of the House of Representatives. Former subsec. (k) was based on the following House resolutions which were enacted into permanent law:
 
-Subsec. (k)(1) was based on House Resolution No. 172 of the Eighty-first Congress, which was enacted into permanent law by act June 22, 1949, ch. 235, § 105, 63 Stat. 230, and House Resolution No. 464 of the Eighty-first Congress, which was enacted into permanent law by act Oct. 11, 1951, ch. 485, § 105, 65 Stat. 403.
+Subsec. (k)(1) was based on House Resolution No. 172 of the Eighty-first Congress, which was enacted into permanent law by act June 22, 1949, ch. 235, § 105, 63 Stat. 230, and House Resolution No. 464 of the Eighty-first Congress, which was enacted into permanent law by act Oct. 11, 1951, ch. 485, § 105, 65 Stat. 403.
 
-Subsec. (k)(2) was based on House Resolution No. 37 of the Eighty-second Congress, which was enacted into permanent law by act Oct. 11, 1951, ch. 485, § 105, 65 Stat. 403, House Resolution No. 393 of the Eighty-eighth Congress, which was enacted into permanent law by Pub. L. 88–454, § 103, Aug. 20, 1964, 78 Stat. 550, House Resolution No. 248 of the Eighty-ninth Congress, which was enacted into permanent law by Pub. L. 89–90, § 103, July 27, 1965, 79 Stat. 281, and House Resolution No. 640 of the Eighty-ninth Congress, which was enacted into permanent law by Pub. L. 89–545, § 103, Aug. 27, 1966, 80 Stat. 369.
+Subsec. (k)(2) was based on House Resolution No. 37 of the Eighty-second Congress, which was enacted into permanent law by act Oct. 11, 1951, ch. 485, § 105, 65 Stat. 403, House Resolution No. 393 of the Eighty-eighth Congress, which was enacted into permanent law by Pub. L. 88–454, § 103, Aug. 20, 1964, 78 Stat. 550, House Resolution No. 248 of the Eighty-ninth Congress, which was enacted into permanent law by Pub. L. 89–90, § 103, July 27, 1965, 79 Stat. 281, and House Resolution No. 640 of the Eighty-ninth Congress, which was enacted into permanent law by Pub. L. 89–545, § 103, Aug. 27, 1966, 80 Stat. 369.
 
-Subsec. (k)(3) was based on House Resolution No. 554 of the Eighty-third Congress, which was enacted into permanent law by act July 2, 1954, ch. 455, § 103, 68 Stat. 409, House Resolution No. 468 of the Eighty-fourth Congress, which was enacted into permanent law by act June 27, 1956, ch. 453, § 103, 70 Stat. 370, House Resolution No. 126 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, § 103, July 1, 1957, 71 Stat. 256, House Resolution No. 525 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, § 103, July 31, 1958, 72 Stat. 453, and House Resolution No. 509 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, § 103, Oct. 2, 1962, 76 Stat. 693.
+Subsec. (k)(3) was based on House Resolution No. 554 of the Eighty-third Congress, which was enacted into permanent law by act July 2, 1954, ch. 455, § 103, 68 Stat. 409, House Resolution No. 468 of the Eighty-fourth Congress, which was enacted into permanent law by act June 27, 1956, ch. 453, § 103, 70 Stat. 370, House Resolution No. 126 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, § 103, July 1, 1957, 71 Stat. 256, House Resolution No. 525 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, § 103, July 31, 1958, 72 Stat. 453, and House Resolution No. 509 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, § 103, Oct. 2, 1962, 76 Stat. 693.
 
-Subsec. (k)(4) was based on House Resolution No. 28 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, § 103, July 1, 1957, 71 Stat. 256, and section 2 of House Resolution No. 348 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, § 103, Oct. 2, 1962, 76 Stat. 693.
+Subsec. (k)(4) was based on House Resolution No. 28 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, § 103, July 1, 1957, 71 Stat. 256, and section 2 of House Resolution No. 348 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, § 103, Oct. 2, 1962, 76 Stat. 693.
 
-Subsec. (k)(5) was based on House Resolution No. 239 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, § 103, July 31, 1958, 72 Stat. 453, and House Resolution No. 225 of the Eighty-eighth Congress, which was enacted into permanent law by Pub. L. 88–248, § 103, Dec. 30, 1963, 77 Stat. 817.
+Subsec. (k)(5) was based on House Resolution No. 239 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, § 103, July 31, 1958, 72 Stat. 453, and House Resolution No. 225 of the Eighty-eighth Congress, which was enacted into permanent law by Pub. L. 88–248, § 103, Dec. 30, 1963, 77 Stat. 817.
 
 **Amendments**
 
-1997—Subsec. (j)(1). Pub. L. 105–55 amended directory language of Pub. L. 104–186, § 204(11). See 1996 Amendment note below.
+1997—Subsec. (j)(1). Pub. L. 105–55 amended directory language of Pub. L. 104–186, § 204(11). See 1996 Amendment note below.
 
-1996—Subsec. (f). Pub. L. 104–186, § 204(10)(A), substituted “House Oversight” for “House Administration”.
+1996—Subsec. (f). Pub. L. 104–186, § 204(10)(A), substituted “House Oversight” for “House Administration”.
 
-Subsec. (i)(1). Pub. L. 104–186, § 204(10), substituted “House Oversight” for “House Administration”, “contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions which, in the case of the Senate,” for “contingent funds of the respective Houses pursuant to resolutions, which”, and “the appropriate House” for “such respective Houses”.
+Subsec. (i)(1). Pub. L. 104–186, § 204(10), substituted “House Oversight” for “House Administration”, “contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions which, in the case of the Senate,” for “contingent funds of the respective Houses pursuant to resolutions, which”, and “the appropriate House” for “such respective Houses”.
 
-Subsec. (i)(3). Pub. L. 104–186, § 204(10)(A), substituted “House Oversight” for “House Administration”.
+Subsec. (i)(3). Pub. L. 104–186, § 204(10)(A), substituted “House Oversight” for “House Administration”.
 
-Subsec. (j)(1). Pub. L. 104–186, § 204(11), as amended by Pub. L. 105–55, § 105(a), substituted “committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House” for “Committee on House Administration in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent funds of the respective Houses pursuant to resolutions, which shall specify the maximum amounts which may be used for such purpose, approved by such respective Houses” and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House”.
+Subsec. (j)(1). Pub. L. 104–186, § 204(11), as amended by Pub. L. 105–55, § 105(a), substituted “committee involved in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent fund of the Senate or the applicable accounts of the House of Representatives pursuant to resolutions, which, in the case of the Senate, shall specify the maximum amounts which may be used for such purpose, approved by the appropriate House” for “Committee on House Administration in the case of standing committees of the House of Representatives, and within the limits of funds made available from the contingent funds of the respective Houses pursuant to resolutions, which shall specify the maximum amounts which may be used for such purpose, approved by such respective Houses” and “Chief Administrative Officer of the House of Representatives” for “Clerk of the House”.
 
 1988—Subsec. (i)(1). Pub. L. 100–458 inserted “or with respect to the administration of the affairs of the committee” before period at end.
 
-1971—Subsec. (g). Pub. L. 92–136, § 5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
+1971—Subsec. (g). Pub. L. 92–136, § 5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
 
-Subsec. (j)(1). Pub. L. 92–136, § 5(b), authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of funds disbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
+Subsec. (j)(1). Pub. L. 92–136, § 5(b), authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of funds disbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
 
-1970—Subsec. (a). Pub. L. 91–510, § 301(a), restricted the provisions to standing committees of the Senate, deleting “and the House of Representatives” after “Senate”, increased numerical limitation of professional staff members from four to six, provided for appointment of two staff members by majority vote of minority members of a committee whenever majority of minority members so request and assignment of such appointees to such committee business as the minority members deem advisable, and substituted provision for termination of services of staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request for prior termination provision by majority vote of the committee.
+1970—Subsec. (a). Pub. L. 91–510, § 301(a), restricted the provisions to standing committees of the Senate, deleting “and the House of Representatives” after “Senate”, increased numerical limitation of professional staff members from four to six, provided for appointment of two staff members by majority vote of minority members of a committee whenever majority of minority members so request and assignment of such appointees to such committee business as the minority members deem advisable, and substituted provision for termination of services of staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request for prior termination provision by majority vote of the committee.
 
-Subsec. (c). Pub. L. 91–510, § 301(b), inserted “of the Senate (other than the Committee on Appropriations)” after “each standing committee”, provided for appointment of one clerical staff member by majority vote of minority members of a committee whenever majority of minority members so request and handling by such appointee of committee correspondence and stenographic work for minority members of the committee and for any members of the committee staff appointed under subsec. (a) of this section pursuant to request by the minority members, on matters related to committee work, and for termination of services of clerical staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request.
+Subsec. (c). Pub. L. 91–510, § 301(b), inserted “of the Senate (other than the Committee on Appropriations)” after “each standing committee”, provided for appointment of one clerical staff member by majority vote of minority members of a committee whenever majority of minority members so request and handling by such appointee of committee correspondence and stenographic work for minority members of the committee and for any members of the committee staff appointed under subsec. (a) of this section pursuant to request by the minority members, on matters related to committee work, and for termination of services of clerical staff members appointed by majority vote of the committee and services of members appointed pursuant to request of minority members of the committee by the committee when majority of such minority members so request.
 
-Subsec. (e). Pub. L. 91–510, § 477(a)(3), repealed provisions prescribing basic annual compensation of professional staff members and clerical staff members of standing committees and limiting such compensation, together with additional compensation authorized by law, to maximum amount authorized by Classification Act of 1949.
+Subsec. (e). Pub. L. 91–510, § 477(a)(3), repealed provisions prescribing basic annual compensation of professional staff members and clerical staff members of standing committees and limiting such compensation, together with additional compensation authorized by law, to maximum amount authorized by Classification Act of 1949.
 
-Subsec. (g). Pub. L. 91–510, § 301(c), added subsec. (g).
+Subsec. (g). Pub. L. 91–510, § 301(c), added subsec. (g).
 
-Subsec. (h). Pub. L. 91–510, § 301(c), added subsec. (h) and struck out former provisions which related to employees of House and Senate Appropriation Committees through fiscal year 1947, all other committee employees through Jan. 31, 1947, and appropriations for compensation of committee employees as contained in Legislative Branch Appropriation Act, 1947, act July 1, 1946, ch. 530, 60 Stat. 386.
+Subsec. (h). Pub. L. 91–510, § 301(c), added subsec. (h) and struck out former provisions which related to employees of House and Senate Appropriation Committees through fiscal year 1947, all other committee employees through Jan. 31, 1947, and appropriations for compensation of committee employees as contained in Legislative Branch Appropriation Act, 1947, act July 1, 1946, ch. 530, 60 Stat. 386.
 
-Subsec. (i). Pub. L. 91–510, § 303, added subsec. (i).
+Subsec. (i). Pub. L. 91–510, § 303, added subsec. (i).
 
-Subsec. (j). Pub. L. 91–510, § 304, added subsec. (j).
+Subsec. (j). Pub. L. 91–510, § 304, added subsec. (j).
 
 1964—Subsec. (e). Pub. L. 88–426 increased maximum basic annual compensation to professional staff members and clerical staff from $8,880 to highest amount which, together with additional compensation authorized by law, will not exceed maximum rate authorized by Classification Act of 1949, as amended.
 
@@ -147,7 +147,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–55, title I, § 105(b), Oct. 7, 1997, 111 Stat. 1184, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of August 20, 1996.”
+Pub. L. 105–55, title I, § 105(b), Oct. 7, 1997, 111 Stat. 1184, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of August 20, 1996.”
 
 **Effective Date of 1971 Amendment**
 
@@ -155,7 +155,7 @@ Amendment by Pub. L. 92–136 effective as of noon on Jan. 3, 1971, see section 
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–510, title VI, § 601, Oct. 26, 1970, 84 Stat. 1204, provided that:
+Pub. L. 91–510, title VI, § 601, Oct. 26, 1970, 84 Stat. 1204, provided that:
 
 > “The foregoing provisions of this Act [see Tables for classification] shall take effect as follows:
 
@@ -185,13 +185,13 @@ Amendment by act Aug. 5, 1955, effective Aug. 1, 1955, see section 14 of that ac
 
 **Effective Date**
 
-Act Aug. 2, 1946, ch. 753, title II, § 245, 60 Stat. 839, provided that: “This title [see Tables for classification] shall take effect on the date of its enactment [Aug. 2, 1946]; except that sections 202(a), (b), (c), (e), (f), and (h), 222, 223, 224, and 243 shall take effect on the day on which the Eightieth Congress convenes [Jan. 3, 1947].”
+Act Aug. 2, 1946, ch. 753, title II, § 245, 60 Stat. 839, provided that: “This title [see Tables for classification] shall take effect on the date of its enactment [Aug. 2, 1946]; except that sections 202(a), (b), (c), (e), (f), and (h), 222, 223, 224, and 243 shall take effect on the day on which the Eightieth Congress convenes [Jan. 3, 1947].”
 
 **Short Title**
 
-Pub. L. 91–510, § 1, Oct. 26, 1970, 84 Stat. 1140, provided that Pub. L. 91–510 [see Tables for classification] may be cited as the “Legislative Reorganization Act of 1970.”
+Pub. L. 91–510, § 1, Oct. 26, 1970, 84 Stat. 1140, provided that Pub. L. 91–510 [see Tables for classification] may be cited as the “Legislative Reorganization Act of 1970.”
 
-Act Aug. 2, 1946, ch. 753, § 1(a), 60 Stat. 812, provided that such Act [see Tables for classification] may be cited as the “Legislative Reorganization Act of 1946.”
+Act Aug. 2, 1946, ch. 753, § 1(a), 60 Stat. 812, provided that such Act [see Tables for classification] may be cited as the “Legislative Reorganization Act of 1946.”
 
 **Partial Repeal**
 
@@ -203,7 +203,7 @@ Section 2(d) of Senate Resolution 281, Ninety-sixth Congress, approved March 11,
 
 **Travel for Studies and Examinations of Executive Agencies**
 
-Pub. L. 104–53, title I, § 105, Nov. 19, 1995, 109 Stat. 521, provided that:
+Pub. L. 104–53, title I, § 105, Nov. 19, 1995, 109 Stat. 521, provided that:
 
 > **“(a)** Notwithstanding any other provision of law, or any rule, regulation, or other authority, travel for studies and examinations under section 202(b) of the Legislative Reorganization Act of 1946 (2 U.S.C. 72a(b)) [now 2 U.S.C. 4301(b)] shall be governed by applicable laws or regulations of the House of Representatives or as promulgated from time to time by the Chairman of the Committee on Appropriations of the House of Representatives.
 
@@ -211,7 +211,7 @@ Pub. L. 104–53, title I, § 105, Nov. 19, 1995, 109 Stat. 521, provided that
 
 **Staff Members; Reduction in Number; Selection for Minority Members**
 
-Pub. L. 91–510, title III, § 301(d), Oct. 26, 1970, 84 Stat. 1177, provided that:
+Pub. L. 91–510, title III, § 301(d), Oct. 26, 1970, 84 Stat. 1177, provided that:
 
 > “Nothing in the amendments made by subsections (a) and (b) of this section [amending this section] shall be construed—
 
@@ -225,7 +225,7 @@ Pub. L. 91–510, title III, § 301(d), Oct. 26, 1970, 84 Stat. 1177, provided
 
 **Professional Staffs; Increase in Number**
 
-Pub. L. 91–510, title III, § 301(e), Oct. 26, 1970, 84 Stat. 1177, provided that: “The additional professional staff members authorized to be employed by a committee by the amendment made by subsection (a) of this section [amending this section] shall be in addition to any other additional staff members authorized, prior to January 1, 1971, to be employed by any such committee.”
+Pub. L. 91–510, title III, § 301(e), Oct. 26, 1970, 84 Stat. 1177, provided that: “The additional professional staff members authorized to be employed by a committee by the amendment made by subsection (a) of this section [amending this section] shall be in addition to any other additional staff members authorized, prior to January 1, 1971, to be employed by any such committee.”
 
 **Increases in Compensation**
 
@@ -233,7 +233,7 @@ Increases in compensation for Senate and House officers and employees under auth
 
 **Reorganization of Committees and Personnel**
 
-Act Aug. 2, 1946, ch. 753, title I, §§ 102, 121, 60 Stat. 814, 822, in amending Rule XXV of the Standing Rules of the Senate, and Rules X and XI of the Rules of the House of Representatives, reorganized the standing committees in the two Houses, and re-defined the jurisdiction of each such committee. The number of standing committees of the Senate was reduced from 33 to 13, and the number of such committees in the House of Representatives was reduced from 48 to 19. Section 142 of act Aug. 2, 1946, provided that sections 102 and 121 thereof should take effect on Jan. 2, 1947. For provisions of act Aug. 2, 1946, relating to appointment and compensation of clerical staffs of the revised committees and other personnel thereof, and retention of employees of existing committees, see this section and section 5101 of this title.
+Act Aug. 2, 1946, ch. 753, title I, §§ 102, 121, 60 Stat. 814, 822, in amending Rule XXV of the Standing Rules of the Senate, and Rules X and XI of the Rules of the House of Representatives, reorganized the standing committees in the two Houses, and re-defined the jurisdiction of each such committee. The number of standing committees of the Senate was reduced from 33 to 13, and the number of such committees in the House of Representatives was reduced from 48 to 19. Section 142 of act Aug. 2, 1946, provided that sections 102 and 121 thereof should take effect on Jan. 2, 1947. For provisions of act Aug. 2, 1946, relating to appointment and compensation of clerical staffs of the revised committees and other personnel thereof, and retention of employees of existing committees, see this section and section 5101 of this title.
 
 **Office of Senate Security**
 
@@ -283,13 +283,13 @@ S. Res. 229, One Hundredth Congress, June 5, 1987, established within the Office
 
 **Authorization of Appropriations**
 
-Act Aug. 2, 1946, ch. 753, title II, § 244, 60 Stat. 839, provided in part: “All necessary funds required to carry out the provisions of this Act [see Tables for classification], by the Secretary of the Senate and the Clerk of the House, are hereby authorized to be appropriated.”
+Act Aug. 2, 1946, ch. 753, title II, § 244, 60 Stat. 839, provided in part: “All necessary funds required to carry out the provisions of this Act [see Tables for classification], by the Secretary of the Senate and the Clerk of the House, are hereby authorized to be appropriated.”
 
-### § 4302. Maximum annual rate of compensation of Chief of Staff of Joint Committee on Taxation
+### § 4302. Maximum annual rate of compensation of Chief of Staff of Joint Committee on Taxation
 
 The maximum annual rate of compensation of the Chief of Staff of the Joint Committee on Taxation shall not exceed the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title.
 
-(Pub. L. 90–206, title II, § 214(e), Dec. 16, 1967, 81 Stat. 636; Pub. L. 103–437, § 2(a), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 116–94, div. E, title II, § 212(b)(4), Dec. 20, 2019, 133 Stat. 2778.)
+(Pub. L. 90–206, title II, § 214(e), Dec. 16, 1967, 81 Stat. 636; Pub. L. 103–437, § 2(a), Nov. 2, 1994, 108 Stat. 4581; Pub. L. 116–94, div. E, title II, § 212(b)(4), Dec. 20, 2019, 133 Stat. 2778.)
 
 **Editorial Notes**
 
@@ -317,11 +317,11 @@ Section effective as of beginning of first pay period which begins on or after O
 
 Compensation of Legislative Counsel of House of Representatives, see section 282b of this title.
 
-### § 4303. Preparation and contents of statement of appropriations
+### § 4303. Preparation and contents of statement of appropriations
 
 The statement of all appropriations made during each session of Congress shall be prepared under the direction of the Committees on Appropriations of the Senate and House of Representatives, and said statement shall contain a chronological history of the regular appropriation bills passed during the session for which it is prepared. The statement shall indicate the amount of contracts authorized by appropriation Acts in addition to appropriations made therein, and shall also contain specific reference to all indefinite appropriations made each session and shall contain such additional information concerning estimates and appropriations as the committees may deem necessary.
 
-(Oct. 19, 1888, ch. 1210, § 1, 25 Stat. 587; July 19, 1897, ch. 9, 30 Stat. 136; June 7, 1924, ch. 303, § 1, 43 Stat. 586.)
+(Oct. 19, 1888, ch. 1210, § 1, 25 Stat. 587; July 19, 1897, ch. 9, 30 Stat. 136; June 7, 1924, ch. 303, § 1, 43 Stat. 586.)
 
 **Editorial Notes**
 
@@ -331,11 +331,11 @@ Section was formerly classified to section 105 of this title prior to editorial 
 
 ## SUBCHAPTER II—HOUSE OF REPRESENTATIVES
 
-### § 4311. Approval of employment and compensation of committee employees by House standing committees
+### § 4311. Approval of employment and compensation of committee employees by House standing committees
 
 Standing committees of the House shall have authority to approve the employment and compensation of committee employees (other than special and select committee employees) from the effective date of the beginning of each Congress, or such subsequent date as their service commenced.
 
-(Pub. L. 87–130, § 103, Aug. 10, 1961, 75 Stat. 334.)
+(Pub. L. 87–130, § 103, Aug. 10, 1961, 75 Stat. 334.)
 
 **Editorial Notes**
 
@@ -351,11 +351,11 @@ Section is based on House Resolution No. 16, Eighty-seventh Congress, Jan. 3, 19
 
 Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 
-### § 4312. Regulations governing availability of appropriations for House committee employees
+### § 4312. Regulations governing availability of appropriations for House committee employees
 
 Appropriations for committee employees shall be available in such amounts and under such regulations as may be approved by the Committee on House Oversight for compensation of employees of the standing committees of the House of Representatives, except the Committee on Appropriations.
 
-(July 17, 1947, ch. 262, 61 Stat. 367; Pub. L. 104–186, title II, § 204(12), Aug. 20, 1996, 110 Stat. 1731.)
+(July 17, 1947, ch. 262, 61 Stat. 367; Pub. L. 104–186, title II, § 204(12), Aug. 20, 1996, 110 Stat. 1731.)
 
 **Editorial Notes**
 
@@ -373,7 +373,7 @@ Section was formerly classified to section 72b of this title prior to editorial 
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-### § 4313. Adjustment of House of Representatives allowances by Committee on House Oversight
+### § 4313. Adjustment of House of Representatives allowances by Committee on House Oversight
 
 **(a) In general** Subject to the provision of law specified in subsection (b), the Committee on House Oversight of the House of Representatives may, by order of the Committee, fix and adjust the amounts, terms, and conditions of, and other matters relating to, allowances of the House of Representatives within the following categories:
 
@@ -389,7 +389,7 @@ The provision of law referred to in subsection (a) is section 4314 of this title
 
 As used in this section, the term “Member of the House of Representatives” means a Representative in, or a Delegate or Resident Commissioner to, the Congress.
 
-(Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 636; Pub. L. 104–186, title I, § 102, Aug. 20, 1996, 110 Stat. 1719; Pub. L. 106–57, title I, § 103(a)(4)(A), Sept. 29, 1999, 113 Stat. 415.)
+(Pub. L. 92–184, ch. IV, Dec. 15, 1971, 85 Stat. 636; Pub. L. 104–186, title I, § 102, Aug. 20, 1996, 110 Stat. 1719; Pub. L. 106–57, title I, § 103(a)(4)(A), Sept. 29, 1999, 113 Stat. 415.)
 
 **Editorial Notes**
 
@@ -413,13 +413,13 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–57, title I, § 103(c), Sept. 29, 1999, 113 Stat. 416, provided that: “The amendments made by this section [amending this section and sections 503 and 5321 of this title] shall apply with respect to the first session of the One Hundred Sixth Congress and each succeeding session of Congress.”
+Pub. L. 106–57, title I, § 103(c), Sept. 29, 1999, 113 Stat. 416, provided that: “The amendments made by this section [amending this section and sections 503 and 5321 of this title] shall apply with respect to the first session of the One Hundred Sixth Congress and each succeeding session of Congress.”
 
 **Clerk Hire Allowance; Increase**
 
-Pub. L. 101–520, title I, § 104, Nov. 5, 1990, 104 Stat. 2262, effective for 102d Congress, increased authorization for the Clerk Hire Allowance by $50,000.
+Pub. L. 101–520, title I, § 104, Nov. 5, 1990, 104 Stat. 2262, effective for 102d Congress, increased authorization for the Clerk Hire Allowance by $50,000.
 
-### § 4314. Limitation on allowance authority of Committee on House Oversight
+### § 4314. Limitation on allowance authority of Committee on House Oversight
 
 **(a) In general** An order under the provision of law specified in subsection (c) may fix or adjust the allowances of the House of Representatives only by reason of—
 
@@ -437,7 +437,7 @@ In the case of reasons other than the reasons specified in paragraph (1), (2), o
 
 The provision of law referred to in subsections (a) and (b) is section 4313 of this title.
 
-(Pub. L. 94–440, title II, § 101, Oct. 1, 1976, 90 Stat. 1448; Pub. L. 104–186, title I, § 103, Aug. 20, 1996, 110 Stat. 1720.)
+(Pub. L. 94–440, title II, § 101, Oct. 1, 1976, 90 Stat. 1448; Pub. L. 104–186, title I, § 103, Aug. 20, 1996, 110 Stat. 1720.)
 
 **Editorial Notes**
 
@@ -449,7 +449,7 @@ The General Schedule, referred to in subsec. (a)(3), is set out under section 53
 
 Section was formerly classified to section 57a of this title prior to editorial reclassification and renumbering as this section.
 
-Section is based on House Resolution No. 1372, § 1, Ninety-fourth Congress, July 1, 1976, which was enacted into permanent law by Pub. L. 94–440.
+Section is based on House Resolution No. 1372, § 1, Ninety-fourth Congress, July 1, 1976, which was enacted into permanent law by Pub. L. 94–440.
 
 **Amendments**
 
@@ -461,7 +461,7 @@ Section is based on House Resolution No. 1372, § 1, Ninety-fourth Congress, J
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
-### § 4315. Overtime pay for FBI employees detailed to House Committee on Appropriations
+### § 4315. Overtime pay for FBI employees detailed to House Committee on Appropriations
 
 The Federal Bureau of Investigation, notwithstanding any other provision of law, may in any fiscal year pay all administrative uncontrollable overtime accrued by its employees while on detail to the Committee on Appropriations.
 
@@ -473,7 +473,7 @@ The Federal Bureau of Investigation, notwithstanding any other provision of law,
 
 Section was formerly classified as a note under section 72a of this title prior to editorial reclassification and renumbering as this section.
 
-### § 4316. Allowances for compensation of interns in House committee offices
+### § 4316. Allowances for compensation of interns in House committee offices
 
 **(a) Establishment of allowances** There are established for the House of Representatives the following allowances:
 
@@ -495,7 +495,7 @@ In this section, the term “intern”, with respect to a committee of the House
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2022 and each succeeding fiscal year.
 
-(Pub. L. 117–103, div. I, title I, § 113, Mar. 15, 2022, 136 Stat. 510.)
+(Pub. L. 117–103, div. I, title I, § 113, Mar. 15, 2022, 136 Stat. 510.)
 
 **Editorial Notes**
 
@@ -505,7 +505,7 @@ Section is comprised of section 113 of div. I of Pub. L. 117–103. Subsec. (d) 
 
 ## SUBCHAPTER III—SENATE
 
-### § 4331. Computation of compensation for stenographic assistance of committees payable from Senate contingent fund
+### § 4331. Computation of compensation for stenographic assistance of committees payable from Senate contingent fund
 
 Compensation for stenographic assistance of committees paid out of the items under “Contingent Expenses of the Senate” on and after June 27, 1956 shall be computed at such rates and in accordance with such regulations as may be prescribed by the Committee on Rules and Administration, notwithstanding, and without regard to any other provision of law.
 
@@ -517,7 +517,7 @@ Compensation for stenographic assistance of committees paid out of the items und
 
 Section was formerly classified to section 68c of this title prior to editorial reclassification and renumbering as this section.
 
-### § 4332. Assistance to Senators with committee memberships by employees in office of Senator
+### § 4332. Assistance to Senators with committee memberships by employees in office of Senator
 
 **(1) Designation**
 
@@ -525,25 +525,25 @@ A Senator may designate employees in his office to assist him in connection with
 
 **(2) Certification; professional staff privileges**
 
-An employee designated by a Senator under this section shall be certified by him to the chairman and ranking minority member of the committee with respect to which such designation is made. Such employee shall be accorded all privileges of a professional staff member (whether permanent or investigatory) of such committee including access to all committee sessions and files, except that any such committee may restrict access to its sessions to one staff member per Senator at a time and require, if classified material is being handled or discussed, that any staff member possess the appropriate security clearance before being allowed access to such material or to discussion of it. Nothing contained in this paragraph shall be construed to prohibit a committee from adopting policies and practices with respect to the application of this section which are similar to the policies and practices adopted with respect to the application of section 705(c)(1) 1
+An employee designated by a Senator under this section shall be certified by him to the chairman and ranking minority member of the committee with respect to which such designation is made. Such employee shall be accorded all privileges of a professional staff member (whether permanent or investigatory) of such committee including access to all committee sessions and files, except that any such committee may restrict access to its sessions to one staff member per Senator at a time and require, if classified material is being handled or discussed, that any staff member possess the appropriate security clearance before being allowed access to such material or to discussion of it. Nothing contained in this paragraph shall be construed to prohibit a committee from adopting policies and practices with respect to the application of this section which are similar to the policies and practices adopted with respect to the application of section 705(c)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of Senate Resolution 4, 95th Congress, and section 72a–1d(c)(1) 1 of this title.
+of Senate Resolution 4, 95th Congress, and section 72a–1d(c)(1) 1 of this title.
 
 **(3) Termination**
 
 A Senator shall notify the chairman and ranking minority member of a committee whenever a designation of an employee under this section with respect to such committee is terminated.
 
-(Pub. L. 95–94, title I, § 111(c), Aug. 5, 1977, 91 Stat. 662.)
+(Pub. L. 95–94, title I, § 111(c), Aug. 5, 1977, 91 Stat. 662.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 705(c)(1) of Senate Resolution 4, 95th Congress, referred to in par. (2), which was not classified to the Code, was repealed by Pub. L. 95–94, title I, § 111(e)(2), Aug. 5, 1977, 91 Stat. 663.
+Section 705(c)(1) of Senate Resolution 4, 95th Congress, referred to in par. (2), which was not classified to the Code, was repealed by Pub. L. 95–94, title I, § 111(e)(2), Aug. 5, 1977, 91 Stat. 663.
 
-Section 72a–1d(c)(1) of this title, referred to in par. (2), was repealed by Pub. L. 95–94, title I, § 111(e)(1), Aug. 5, 1977, 91 Stat. 663.
+Section 72a–1d(c)(1) of this title, referred to in par. (2), was repealed by Pub. L. 95–94, title I, § 111(e)(1), Aug. 5, 1977, 91 Stat. 663.
 
 **Codification**
 
@@ -555,13 +555,13 @@ Section is from the Congressional Operations Appropriation Act, 1978, which is t
 
 **Effective Date**
 
-Pub. L. 95–94, title I, § 111(f), Aug. 5, 1977, 91 Stat. 663, provided that: “This section, and the amendments made by subsection (d) and the repeals made by subsection (e) [enacting this section, amending section 4575 of this title, enacting notes set out under section 4575 of this title, and repealing section 72a–1d and notes set out under former section 72a–1d of this title], shall take effect on October 1, 1977.”
+Pub. L. 95–94, title I, § 111(f), Aug. 5, 1977, 91 Stat. 663, provided that: “This section, and the amendments made by subsection (d) and the repeals made by subsection (e) [enacting this section, amending section 4575 of this title, enacting notes set out under section 4575 of this title, and repealing section 72a–1d and notes set out under former section 72a–1d of this title], shall take effect on October 1, 1977.”
 
-### § 4333. Expenses of committees payable from Senate contingent fund
+### § 4333. Expenses of committees payable from Senate contingent fund
 
 When any duty is imposed upon a committee involving expenses that are ordered to be paid out of the contingent fund of the Senate, upon vouchers to be approved by the chairman of the committee charged with such duty, the receipt of such chairman for any sum advanced to him or his order out of said contingent fund by the Secretary of the Senate for committee expenses not involving personal services shall be taken and passed by the accounting officers of the Government as a full and sufficient voucher; but it shall be the duty of such chairman, as soon as practicable, to furnish to the Secretary of the Senate vouchers in detail for the expenses so incurred.
 
-(Mar. 3, 1879, ch. 183, 20 Stat. 419; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; June 22, 1949, ch. 235, § 101, 63 Stat. 218.)
+(Mar. 3, 1879, ch. 183, 20 Stat. 419; June 10, 1921, ch. 18, title III, § 304, 42 Stat. 24; June 22, 1949, ch. 235, § 101, 63 Stat. 218.)
 
 **Editorial Notes**
 
@@ -579,11 +579,11 @@ Section was formerly classified to section 69 of this title prior to editorial r
 
 Act June 10, 1921, transferred powers and duties of Comptroller, six auditors, and certain other officers of the Treasury to General Accounting Office.
 
-### § 4334. Availability of funds for franked mail expenses
+### § 4334. Availability of funds for franked mail expenses
 
 Funds in the account, within the contingent fund of the Senate, available for the expenses of inquiries and investigations shall be available for franked mail expenses incurred by committees of the Senate the other expenses of which are paid from that account.
 
-(Pub. L. 105–55, title I, § 6(b), Oct. 7, 1997, 111 Stat. 1181.)
+(Pub. L. 105–55, title I, § 6(b), Oct. 7, 1997, 111 Stat. 1181.)
 
 **Editorial Notes**
 
@@ -597,13 +597,13 @@ Section is from the Congressional Operations Appropriations Act, 1998, which is 
 
 **Effective Date**
 
-Pub. L. 105–55, title I, § 6(c), Oct. 7, 1997, 111 Stat. 1181, provided that: “This section [enacting this section] is effective for fiscal years beginning on and after October 1, 1997.”
+Pub. L. 105–55, title I, § 6(c), Oct. 7, 1997, 111 Stat. 1181, provided that: “This section [enacting this section] is effective for fiscal years beginning on and after October 1, 1997.”
 
-### § 4335. Employment of civilian employees of executive branch of Government by Senate Committee on Appropriations; restoration to former position
+### § 4335. Employment of civilian employees of executive branch of Government by Senate Committee on Appropriations; restoration to former position
 
 Whenever any person has left or leaves any civilian position in any department or agency in the executive branch of the Government in order to accept employment by the Senate Committee on Appropriations, he shall be carried on the rolls of such committee and shall be solely employed by such committee, and responsible only to it; but he shall be entitled upon making application to the Director of the Office of Personnel Management within thirty days after the termination of his employment by such committee (unless such employment is terminated for cause) to be restored to a position in the same or any other department or agency where an opening exists, comparable to the position which, according to the records of the department or agency which he left to accept employment by the Senate Committee on Appropriations or in the judgment of the Director of the Office of Personnel Management, such person would be occupying if he had remained in the employ of such department or agency during the time he was employed by such committee; and such person shall be restored to such position with the same seniority, status, and pay as if he had remained in the employ of the department or agency which he left, during such time. This section shall not be construed to require any person to be restored to a position in any department or agency after the expiration of the time for which he was appointed to the position which he left to accept employment by such committee.
 
-(June 13, 1945, ch. 189, § 1, 59 Stat. 243; July 1, 1946, ch. 530, 60 Stat. 392; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
+(June 13, 1945, ch. 189, § 1, 59 Stat. 243; July 1, 1946, ch. 530, 60 Stat. 392; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
 **Editorial Notes**
 
@@ -619,9 +619,9 @@ Section was formerly classified to section 67a of this title prior to editorial 
 
 **Transfer of Functions**
 
-“Director of the Office of Personnel Management” substituted in text for “Civil Service Commission” pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted in text for “Civil Service Commission” pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in United States Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
-### § 4336. Discretionary authority of Senate Committee on Appropriations
+### § 4336. Discretionary authority of Senate Committee on Appropriations
 
 **(a) In general** The Committee on Appropriations is authorized in its discretion—
 
@@ -643,7 +643,7 @@ Section was formerly classified to section 67a of this title prior to editorial 
 
 This section shall be effective on and after October 1, 1998, or the date of enactment of this Act [October 21, 1998], whichever is later.
 
-(Pub. L. 105–275, title I, § 10, Oct. 21, 1998, 112 Stat. 2435; Pub. L. 109–55, title I, § 6, Aug. 2, 2005, 119 Stat. 568.)
+(Pub. L. 105–275, title I, § 10, Oct. 21, 1998, 112 Stat. 2435; Pub. L. 109–55, title I, § 6, Aug. 2, 2005, 119 Stat. 568.)
 
 **Editorial Notes**
 
@@ -661,9 +661,9 @@ Section is from the Congressional Operations Appropriations Act, 1999, which is 
 
 **Amendments**
 
-2005—Subsec. (a)(5). Pub. L. 109–55 inserted “, except that any approval (and related reporting requirement) shall not apply” after “May 14, 1975”.
+2005—Subsec. (a)(5). Pub. L. 109–55 inserted “, except that any approval (and related reporting requirement) shall not apply” after “May 14, 1975”.
 
-### § 4337. Transfer of funds by Chairman of Senate Committee on Appropriations
+### § 4337. Transfer of funds by Chairman of Senate Committee on Appropriations
 
 **(a) In general**
 
@@ -681,7 +681,7 @@ Section is from the Congressional Operations Appropriations Act, 1999, which is 
 
 This section shall take effect on October 1, 1998, and shall be effective with respect to fiscal years beginning on or after that date.
 
-(Pub. L. 105–275, title I, § 11, Oct. 21, 1998, 112 Stat. 2435.)
+(Pub. L. 105–275, title I, § 11, Oct. 21, 1998, 112 Stat. 2435.)
 
 **Editorial Notes**
 
@@ -691,15 +691,15 @@ Section was formerly classified to section 72d–1 of this title prior to editor
 
 Section is from the Congressional Operations Appropriations Act, 1999, which is title I of the Legislative Branch Appropriations Act, 1999.
 
-### § 4338. Designation by Senator who is Chairman or Vice Chairman of Senate Select Committee on Ethics of employee in office of that Senator to perform part-time service for Committee; amount reimbursable; procedure applicable
+### § 4338. Designation by Senator who is Chairman or Vice Chairman of Senate Select Committee on Ethics of employee in office of that Senator to perform part-time service for Committee; amount reimbursable; procedure applicable
 
-Notwithstanding any other provisions of law, a Senator who is the Chairman or Vice Chairman of the Senate Select Committee on Ethics may designate one employee employed in his Senate office to perform part-time service for such Committee, and such Committee shall reimburse such Senator for such employee’s services for the Committee by transferring from the contingent fund of the Senate, upon vouchers approved by the Chairman of such Committee, to such Senator’s Administrative, Clerical, and Legislative Assistance Allowance, with respect to each pay period of such employee, an amount which bears the same ratio to such employee’s salary (but not more than one-half of such salary) for such period, as the portion of the time spent (or to be spent) by such employee in performing services for such Committee during such period bears to the total time for which such employee worked (or will work) during such period (as determined by the Chairman of such Committee) for such Committee and in such Senator’s office. Any funds transferred under authority of the preceding sentence to a Senator’s Administrative, Clerical, and Legislative Assistance 1
+Notwithstanding any other provisions of law, a Senator who is the Chairman or Vice Chairman of the Senate Select Committee on Ethics may designate one employee employed in his Senate office to perform part-time service for such Committee, and such Committee shall reimburse such Senator for such employee’s services for the Committee by transferring from the contingent fund of the Senate, upon vouchers approved by the Chairman of such Committee, to such Senator’s Administrative, Clerical, and Legislative Assistance Allowance, with respect to each pay period of such employee, an amount which bears the same ratio to such employee’s salary (but not more than one-half of such salary) for such period, as the portion of the time spent (or to be spent) by such employee in performing services for such Committee during such period bears to the total time for which such employee worked (or will work) during such period (as determined by the Chairman of such Committee) for such Committee and in such Senator’s office. Any funds transferred under authority of the preceding sentence to a Senator’s Administrative, Clerical, and Legislative Assistance 1
 
-<sup>1</sup>  So in original. Probably should be “Assistance Allowance”.
+<sup>1</sup> So in original. Probably should be “Assistance Allowance”.
 
 shall be available for the same purposes and in like manner as funds therein which were not transferred thereto under such authority. For purposes of any law of the United States, a State, a territory, or a political subdivision thereof, an employee designated by a Senator pursuant to this section shall be considered to be an employee of such Senator’s Senate office and not an employee of the Senate Select Committee on Ethics.
 
-(Pub. L. 98–367, title I, § 10, July 17, 1984, 98 Stat. 476.)
+(Pub. L. 98–367, title I, § 10, July 17, 1984, 98 Stat. 476.)
 
 **Editorial Notes**
 

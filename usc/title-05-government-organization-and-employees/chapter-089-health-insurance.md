@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–108, title I, § 102(a)(2)(B), Apr. 6, 2022, 136 Stat. 1135, added item 8903c.
+2022—Pub. L. 117–108, title I, § 102(a)(2)(B), Apr. 6, 2022, 136 Stat. 1135, added item 8903c.
 
-2006—Pub. L. 109–435, title VIII, § 803(a)(2), Dec. 20, 2006, 120 Stat. 3252, added item 8909a.
+2006—Pub. L. 109–435, title VIII, § 803(a)(2), Dec. 20, 2006, 120 Stat. 3252, added item 8909a.
 
-1998—Pub. L. 105–266, § 6(a)(2), Oct. 19, 1998, 112 Stat. 2369, added item 8903b.
+1998—Pub. L. 105–266, § 6(a)(2), Oct. 19, 1998, 112 Stat. 2369, added item 8903b.
 
-1988—Pub. L. 100–654, title I, § 101(b), title II, § 201(a)(2), title III, § 301(b), Nov. 14, 1988, 102 Stat. 3841, 3845, 3846, added items 8902a, 8905a, and 8906a.
+1988—Pub. L. 100–654, title I, § 101(b), title II, § 201(a)(2), title III, § 301(b), Nov. 14, 1988, 102 Stat. 3841, 3845, 3846, added items 8902a, 8905a, and 8906a.
 
-Pub. L. 100–238, title I, § 108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added item 8914.
+Pub. L. 100–238, title I, § 108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added item 8914.
 
-1985—Pub. L. 99–53, §§ 1(b)(2), 3(a)(2)(B), June 17, 1985, 99 Stat. 94, 95, added item 8903a and inserted “or disability” after “and survivor” in item 8908.
+1985—Pub. L. 99–53, §§ 1(b)(2), 3(a)(2)(B), June 17, 1985, 99 Stat. 94, 95, added item 8903a and inserted “or disability” after “and survivor” in item 8908.
 
-1984—Pub. L. 98–615, § 3(8), Nov. 8, 1984, 98 Stat. 3204, substituted “Information to individuals eligible to enroll” for “Information to employees” in item 8907.
+1984—Pub. L. 98–615, § 3(8), Nov. 8, 1984, 98 Stat. 3204, substituted “Information to individuals eligible to enroll” for “Information to employees” in item 8907.
 
-1976—Pub. L. 94–342, § 1(b), July 6, 1976, 90 Stat. 808, substituted “employees and survivor annuitants” for “employee” in item 8908.
+1976—Pub. L. 94–342, § 1(b), July 6, 1976, 90 Stat. 808, substituted “employees and survivor annuitants” for “employee” in item 8908.
 
-## § 8901. Definitions
+## § 8901. Definitions
 
 For the purpose of this chapter—
 
@@ -51,9 +51,9 @@ For the purpose of this chapter—
 
 **(E)** an individual first employed by the government of the District of Columbia before October 1, 1987;
 
-**(F)** an individual employed by Gallaudet College; 1
+**(F)** an individual employed by Gallaudet College; 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 **(G)** an individual employed by a county committee established under section 590h(b) of title 16;
 
@@ -145,7 +145,7 @@ except that such term shall not include any such unremarried former spouse of a 
 
 **(ii)** meets equivalent requirements (as prescribed by the Office).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, § 1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§ 2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, § 1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, § 2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, § 2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, § 2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, § 1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, § 2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, § 3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, § 1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, § 105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, § 207(*l*), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, § 503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, § 13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, § 7202(*l*), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, § 2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, § 3(a), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 110–74, § 1, Aug. 9, 2007, 121 Stat. 723; Pub. L. 114–136, § 2(c)(5), Mar. 18, 2016, 130 Stat. 305.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 600; Pub. L. 90–83, § 1(95), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, §§ 2, 3(b), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, § 1(b), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–368, § 2, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, § 2, Nov. 2, 1978, 92 Stat. 2482; Pub. L. 96–54, § 2(a)(52), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, § 1209(c), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–179, § 2, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, § 3(1), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–53, § 1(a), June 17, 1985, 99 Stat. 93; Pub. L. 99–251, title I, § 105(a), Feb. 27, 1986, 100 Stat. 15; Pub. L. 99–335, title II, § 207(*l*), June 6, 1986, 100 Stat. 598; Pub. L. 99–556, title V, § 503, Oct. 27, 1986, 100 Stat. 3141; Pub. L. 100–679, § 13(c), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–508, title VII, § 7202(*l*), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, § 2(75), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–266, § 3(a), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 110–74, § 1, Aug. 9, 2007, 121 Stat. 723; Pub. L. 114–136, § 2(c)(5), Mar. 18, 2016, 130 Stat. 305.)
 
 **Historical and Revision Notes**
 
@@ -153,10 +153,10 @@ except that such term shall not include any such unremarried former spouse of a 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3001. | Sept. 28, 1959, Pub. L. 86–382, § 2, 73 Stat. 709. July 8, 1963, Pub. L. 88–59, § 1, 77 Stat. 76. |
-|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1(1)–(4), 78 Stat. 164. |
-|  |  | Aug. 31, 1964, Pub. L. 88–531, § 1, 78 Stat. 737. |
-|  | 5 U.S.C. 3002(f) (1st sentence, less words between 1st and 2d commas). | July 1, 1960, Pub. L. 86–568, § 115(d) “(f) (1st sentence, less words between 1st and 2d commas)”, 74 Stat. 303. |
+|  | 5 U.S.C. 3001. | Sept. 28, 1959, Pub. L. 86–382, § 2, 73 Stat. 709. July 8, 1963, Pub. L. 88–59, § 1, 77 Stat. 76. |
+|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1(1)–(4), 78 Stat. 164. |
+|  |  | Aug. 31, 1964, Pub. L. 88–531, § 1, 78 Stat. 737. |
+|  | 5 U.S.C. 3002(f) (1st sentence, less words between 1st and 2d commas). | July 1, 1960, Pub. L. 86–568, § 115(d) “(f) (1st sentence, less words between 1st and 2d commas)”, 74 Stat. 303. |
 
 The definition of “employee” in section 2105 of this title is broad enough to cover the officers and employees covered by former section 3001 with the exception of a Member of Congress, the President, an individual employed by the government of the District of Columbia, an individual employed by Gallaudet College, a United States commissioner, and an Official Reporter of Debates of the Senate and an individual employed by him. The first five have been added in paragraphs (1)(B), (D), (E), (F), and (G). The latter are covered by the definition of “Congressional employee” in section 2107 of this title and are included by the addition of a Congressional employee in paragraph (1)(C).
 
@@ -174,7 +174,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8901(5) | 5 App.: 3001(d). | July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303. |
+| 8901(5) | 5 App.: 3001(d). | July 18, 1966, Pub. L. 89–504, § 601, 80 Stat. 303. |
 
 **Editorial Notes**
 
@@ -194,25 +194,25 @@ The date of enactment of section 8903a of this title, referred to in par. (8)(B)
 
 1998—Par. (7). Pub. L. 105–266 substituted “organization and an association of organizations or other entities described in this paragraph sponsoring a health benefits plan;” for “organization;”.
 
-1992—Par. (3)(A)(iv). Pub. L. 102–378, § 2(75)(A), substituted “8347(q)(2)” for “8347(p)(2)”.
+1992—Par. (3)(A)(iv). Pub. L. 102–378, § 2(75)(A), substituted “8347(q)(2)” for “8347(p)(2)”.
 
-Par. (10)(C)(ii). Pub. L. 102–378, § 2(75)(B), inserted comma after “8341(h)”.
+Par. (10)(C)(ii). Pub. L. 102–378, § 2(75)(B), inserted comma after “8341(h)”.
 
 1990—Par. (3)(A)(iv). Pub. L. 101–508 added cl. (iv).
 
 1988—Par. (1)(H), (I). Pub. L. 100–679 added subpars. (H) and (I).
 
-1986—Par. (1)(E). Pub. L. 99–335, § 207(*l*)(1), amended subpar. (E) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
+1986—Par. (1)(E). Pub. L. 99–335, § 207(*l*)(1), amended subpar. (E) generally, substituting “first employed” for “employed” and inserting “before October 1, 1987”.
 
-Par. (3)(A). Pub. L. 99–335, § 207(*l*)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an employee who retires on an immediate annuity under subchapter III of chapter 83 of this title or another retirement system for employees of the Government, after 5 or more years of service or for disability”.
+Par. (3)(A). Pub. L. 99–335, § 207(*l*)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “an employee who retires on an immediate annuity under subchapter III of chapter 83 of this title or another retirement system for employees of the Government, after 5 or more years of service or for disability”.
 
 Par. (3)(B). Pub. L. 99–556 inserted “(including a family member entitled to an amount under section 8442(b)(1)(A), whether or not such family member is entitled to an annuity under section 8442(b)(1)(B))”.
 
-Par. (4). Pub. L. 99–335, § 207(*l*)(3), inserted “or chapter 84”.
+Par. (4). Pub. L. 99–335, § 207(*l*)(3), inserted “or chapter 84”.
 
-Par. (10)(C)(i). Pub. L. 99–335, § 207(*l*)(4), inserted “or 8467”, “or 8445”, and “or the Federal Employees’ Retirement System”.
+Par. (10)(C)(i). Pub. L. 99–335, § 207(*l*)(4), inserted “or 8467”, “or 8445”, and “or the Federal Employees’ Retirement System”.
 
-Par. (10)(C)(ii). Pub. L. 99–335, § 207(*l*)(5), substituted “8345(j), 8445, or 8467” for “or 8345(j)” and inserted “or the Federal Employees’ Retirement System” and “or 8417(b)”.
+Par. (10)(C)(ii). Pub. L. 99–335, § 207(*l*)(5), substituted “8345(j), 8445, or 8467” for “or 8345(j)” and inserted “or the Federal Employees’ Retirement System” and “or 8417(b)”.
 
 Par. (11). Pub. L. 99–251 added par. (11).
 
@@ -220,9 +220,9 @@ Par. (11). Pub. L. 99–251 added par. (11).
 
 1984—Par. (10). Pub. L. 98–615 added par. (10).
 
-1980—Par. (5). Pub. L. 96–179, § 2(1), inserted “dependent” after “unmarried” in provisions preceding subpar. (A) and in provisions following subpar. (B), inserted “or recognized natural child” after “child” in subpar. (A), and substituted “or foster child but only if the child;” for “, foster child, or recognized natural child who” in subpar. (B).
+1980—Par. (5). Pub. L. 96–179, § 2(1), inserted “dependent” after “unmarried” in provisions preceding subpar. (A) and in provisions following subpar. (B), inserted “or recognized natural child” after “child” in subpar. (A), and substituted “or foster child but only if the child;” for “, foster child, or recognized natural child who” in subpar. (B).
 
-Par. (9). Pub. L. 96–179, § 2(2)–(4), added par. (9).
+Par. (9). Pub. L. 96–179, § 2(2)–(4), added par. (9).
 
 1979—Par. (1). Pub. L. 96–70 in cl. (ii) substituted provisions relating to an individual who was an employee for the purpose of this chapter on Sept. 30, 1979, by reason of service in an Executive agency, United States Postal Service, or Smithsonian Institution in area which was then known as Canal Zone for provisions relating to Panama Canal Zone.
 
@@ -238,11 +238,11 @@ Pub. L. 95–368 substituted “after December 31, 1978, and before January 1, 1
 
 1973—Par. (1)(ii). Pub. L. 93–160 excluded from definition of “employee” persons who are not nationals of United States and whose permanent duty station is outside United States and Panama Canal Zone.
 
-1970—Par. (1)(ii). Pub. L. 91–418, § 3(b), excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
+1970—Par. (1)(ii). Pub. L. 91–418, § 3(b), excluded from definition of “employee” a noncitizen employee whose permanent duty station is outside Panama Canal Zone.
 
-Par. (3)(B). Pub. L. 91–418, § 2(a), redefined “annuitant” to be a member of a family who receives an immediate annuity as the survivor of an employee rather than as the survivor of an employee who dies after completing 5 or more years of service.
+Par. (3)(B). Pub. L. 91–418, § 2(a), redefined “annuitant” to be a member of a family who receives an immediate annuity as the survivor of an employee rather than as the survivor of an employee who dies after completing 5 or more years of service.
 
-Par. (3)(D)(i). Pub. L. 91–418, § 2(b), redefined “annuitant” to be a member of a family who receives monthly compensation as the surviving beneficiary of an employee who dies as a result of a compensable injury or illness rather than as the survivor of an employee who, having completed 5 or more years of service, so dies.
+Par. (3)(D)(i). Pub. L. 91–418, § 2(b), redefined “annuitant” to be a member of a family who receives monthly compensation as the surviving beneficiary of an employee who dies as a result of a compensable injury or illness rather than as the survivor of an employee who, having completed 5 or more years of service, so dies.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -262,7 +262,7 @@ Amendment by Pub. L. 101–508 applicable with respect to any individual who, on
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
-Pub. L. 99–251, title I, § 105(c), Feb. 27, 1986, 100 Stat. 15, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 8902 of this title] shall be effective with respect to contracts entered into or renewed for calendar years beginning after December 31, 1986.”
+Pub. L. 99–251, title I, § 105(c), Feb. 27, 1986, 100 Stat. 15, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 8902 of this title] shall be effective with respect to contracts entered into or renewed for calendar years beginning after December 31, 1986.”
 
 **Effective Date of 1984 Amendment**
 
@@ -286,23 +286,23 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–394, § 1, Oct. 30, 2000, 114 Stat. 1629, provided that: “This Act [amending sections 8421a and 8905 of this title and enacting provisions set out as a note under section 8421a of this title] may be cited as the ‘Federal Employees Health Benefits Children’s Equity Act of 2000’.”
+Pub. L. 106–394, § 1, Oct. 30, 2000, 114 Stat. 1629, provided that: “This Act [amending sections 8421a and 8905 of this title and enacting provisions set out as a note under section 8421a of this title] may be cited as the ‘Federal Employees Health Benefits Children’s Equity Act of 2000’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–266, § 1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act [enacting section 8903b of this title, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
+Pub. L. 105–266, § 1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act [enacting section 8903b of this title, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–654, § 1, Nov. 14, 1988, 102 Stat. 3837, provided that: “This Act [enacting sections 8440a, 8902a, 8905a, and 8906a of this title, amending sections 8902, 8903, 8905, 8909, and 8913 of this title, and enacting provisions set out as notes under sections 8902, 8902a, and 8906a of this title] may be cited as the ‘Federal Employees Health Benefits Amendments Act of 1988’.”
+Pub. L. 100–654, § 1, Nov. 14, 1988, 102 Stat. 3837, provided that: “This Act [enacting sections 8440a, 8902a, 8905a, and 8906a of this title, amending sections 8902, 8903, 8905, 8909, and 8913 of this title, and enacting provisions set out as notes under sections 8902, 8902a, and 8906a of this title] may be cited as the ‘Federal Employees Health Benefits Amendments Act of 1988’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–251, § 1, Feb. 27, 1986, 100 Stat. 14, provided that: “This Act [amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under this section and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
+Pub. L. 99–251, § 1, Feb. 27, 1986, 100 Stat. 14, provided that: “This Act [amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under this section and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
 
 **Continuation of Health Benefits Coverage for Individuals Enrolled in a Plan Administered by the Overseas Private Investment Corporation**
 
-Pub. L. 107–304, § 4, Nov. 27, 2002, 116 Stat. 2364, provided that:
+Pub. L. 107–304, § 4, Nov. 27, 2002, 116 Stat. 2364, provided that:
 
 > **“(a) Enrollment in Chapter 89 Plan.—** For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Overseas Private Investment Corporation [now the United States International Development Finance Corporation] before the effective date of this Act [probably means Nov. 27, 2002, the date of enactment of Pub. L. 107–304] shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
 
@@ -346,7 +346,7 @@ Pub. L. 107–304, § 4, Nov. 27, 2002, 116 Stat. 2364, provided that:
 
 **Continued Coverage for Individuals Enrolled in Plan Administered by Federal Deposit Insurance Corporation or for Employees of Board of Governors of Federal Reserve System**
 
-Pub. L. 105–266, § 4, Oct. 19, 1998, 112 Stat. 2367, provided that:
+Pub. L. 105–266, § 4, Oct. 19, 1998, 112 Stat. 2367, provided that:
 
 > **“(a) Enrollment in Chapter 89 Plan.—** For purposes of chapter 89 of title 5, United States Code, any period of enrollment—
 
@@ -392,7 +392,7 @@ Pub. L. 105–266, § 4, Oct. 19, 1998, 112 Stat. 2367, provided that:
 
 **Continued Coverage for Individuals Enrolled in Plan Administered by Farm Credit Administration**
 
-Pub. L. 104–37, title VI, § 601, Oct. 21, 1995, 109 Stat. 328, provided that:
+Pub. L. 104–37, title VI, § 601, Oct. 21, 1995, 109 Stat. 328, provided that:
 
 > **“(a)** For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Farm Credit Administration prior to the effective date of this Act [Oct. 21, 1995] shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
 
@@ -430,7 +430,7 @@ Pub. L. 104–37, title VI, § 601, Oct. 21, 1995, 109 Stat. 328, provided tha
 
 **Continued Coverage for Individuals Enrolled in Plan Administered by Office of the Comptroller of the Currency or Office of Thrift Supervision**
 
-Pub. L. 103–409, § 5, Oct. 25, 1994, 108 Stat. 4232, provided that:
+Pub. L. 103–409, § 5, Oct. 25, 1994, 108 Stat. 4232, provided that:
 
 > **“(a) Enrollment in Chapter 89 Plan.—** For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Office of the Comptroller of the Currency or the Office of Thrift Supervision before the termination of such plans on January 7, 1995, shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
 
@@ -470,7 +470,7 @@ Pub. L. 103–409, § 5, Oct. 25, 1994, 108 Stat. 4232, provided that:
 
 For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(*o*) of Pub. L. 99–335, set out as a note under section 8331 of this title.
 
-## § 8902. Contracting authority
+## § 8902. Contracting authority
 
 **(a)** The Office of Personnel Management may contract with qualified carriers offering plans described by section 8903 or 8903a of this title, without regard to section 6101(b) to (d) of title 41 or other statute requiring competitive bidding. Each contract shall be for a uniform term of at least 1 year, but may be made automatically renewable from term to term in the absence of notice of termination by either party.
 
@@ -504,9 +504,9 @@ For provisions relating to treatment of certain Federal employees of Saint Eliza
 
 **(3)** The provisions of this subsection shall not apply to comprehensive medical plans as described in section 8903(4) of this title.
 
-**(l)** The Office shall contract under this chapter for a plan described in section 8903(4) of this title with any qualified health maintenance carrier which offers such a plan. For the purpose of this subsection, “qualified health maintenance carrier” means any qualified car­rier which is a qualified health maintenance organization within the meaning of section 1310(d)(1) 1
+**(l)** The Office shall contract under this chapter for a plan described in section 8903(4) of this title with any qualified health maintenance carrier which offers such a plan. For the purpose of this subsection, “qualified health maintenance carrier” means any qualified car­rier which is a qualified health maintenance organization within the meaning of section 1310(d)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)).
 
@@ -538,14 +538,14 @@ of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)).
 
 **(p)** Each contract under this chapter shall require the carrier to comply with requirements described in the provisions of sections 2799A–1, 2799A–2, and 2799A–7 of the Public Health Service Act, sections 716, 717, and 722 of the Employee Retirement Income Security Act of 1974, and sections 9816, 9817, and 9822 of the Internal Revenue Code of 1986 (as applicable) in the same manner as such provisions apply to a group health plan or health insurance issuer offering group or individual health insurance coverage, as described in such sections. The provisions of sections 2799B–1, 2799B–2, 2799B–3, and 2799B–5 of the Public Health Service Act shall apply to a health care provider and facility and an air ambulance provider described in such respective sections with respect to an enrollee in a health benefits plan under this chapter in the same manner as such provisions apply to such a provider and facility with respect to an enrollee in a group health plan or group or individual health insurance coverage offered by a health insurance issuer, as described in such sections.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, § 3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, § 1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, § 2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, § 110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, § 1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, § 3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, § 3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, § 2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§ 105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, § 101(m) [title VI, § 626], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§ 201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, § 7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, § 1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, § 537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, § 9(g), Apr. 30, 1997, 111 Stat. 27; Pub. L. 105–266, §§ 3(c), 8, Oct. 19, 1998, 112 Stat. 2366, 2370; Pub. L. 111–350, § 5(a)(15), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 116–260, div. BB, title I, § 102(d)(1), Dec. 27, 2020, 134 Stat. 2797.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 601; Pub. L. 93–246, § 3, Jan. 31, 1974, 88 Stat. 4; Pub. L. 93–363, § 1, July 30, 1974, 88 Stat. 398; Pub. L. 94–183, § 2(43), Dec. 31, 1975, 89 Stat. 1059; Pub. L. 94–460, title I, § 110(b), Oct. 8, 1976, 90 Stat. 1952; Pub. L. 95–368, § 1, Sept. 17, 1978, 92 Stat. 606; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–179, § 3, Jan. 2, 1980, 93 Stat. 1299; Pub. L. 98–615, § 3(2), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, § 2(a), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§ 105(b), 106(a)(3), Feb. 27, 1986, 100 Stat. 15, 16; Pub. L. 100–202, § 101(m) [title VI, § 626], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–654, title II, §§ 201(b), 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, § 7002(a), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 101–509, title IV, § 1, Nov. 5, 1990, 104 Stat. 1421; Pub. L. 102–393, title V, § 537(a), (b), Oct. 6, 1992, 106 Stat. 1765; Pub. L. 105–12, § 9(g), Apr. 30, 1997, 111 Stat. 27; Pub. L. 105–266, §§ 3(c), 8, Oct. 19, 1998, 112 Stat. 2366, 2370; Pub. L. 111–350, § 5(a)(15), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 116–260, div. BB, title I, § 102(d)(1), Dec. 27, 2020, 134 Stat. 2797.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3005. | Sept. 28, 1959, Pub. L. 86–382, § 6, 73 Stat. 712. |
-|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1(7)–(9), 78 Stat. 165. |
+|  | 5 U.S.C. 3005. | Sept. 28, 1959, Pub. L. 86–382, § 6, 73 Stat. 712. |
+|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1(7)–(9), 78 Stat. 165. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -553,9 +553,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-Section 1310(d)(1) of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)), referred to in subsec. (*l*), probably is intended as a reference to section 300e–9(d) of Title 42, The Public Health and Welfare. Section 300e–9(d) of Title 42 was redesignated section 300e–9(c) of Title 42 by Pub. L. 100–517, § 7(b), Oct. 24, 1988, 102 Stat. 2580.
+Section 1310(d)(1) of title XIII of the Public Health Service Act (42 U.S.C. 300c–9(d)), referred to in subsec. (*l*), probably is intended as a reference to section 300e–9(d) of Title 42, The Public Health and Welfare. Section 300e–9(d) of Title 42 was redesignated section 300e–9(c) of Title 42 by Pub. L. 100–517, § 7(b), Oct. 24, 1988, 102 Stat. 2580.
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (*o*), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (*o*), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
 Sections 2799A–1, 2799A–2, 2799A–7, 2799B–1, 2799B–2, 2799B–3, and 2799B–5 of the Public Health Service Act, referred to in subsec. (p), are classified to sections 300gg–111, 300gg–112, 300gg–117, 300gg–131, 300gg–132, 300gg–133, and 300gg–135, respectively, of Title 42, The Public Health and Welfare.
 
@@ -573,9 +573,9 @@ Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1416, enacted sect
 
 2011—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
 
-1998—Subsec. (k)(2), (3). Pub. L. 105–266, § 8, added par. (2) and redesignated former par. (2) as (3).
+1998—Subsec. (k)(2), (3). Pub. L. 105–266, § 8, added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (m)(1). Pub. L. 105–266, § 3(c), added par. (1) and struck out former par. (1) which read as follows: “The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans to the extent that such law or regulation is inconsistent with such contractual provisions.”
+Subsec. (m)(1). Pub. L. 105–266, § 3(c), added par. (1) and struck out former par. (1) which read as follows: “The provisions of any contract under this chapter which relate to the nature or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans to the extent that such law or regulation is inconsistent with such contractual provisions.”
 
 1997—Subsec. (*o*). Pub. L. 105–12 added subsec. (*o*).
 
@@ -591,25 +591,25 @@ Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
 1988—Subsecs. (g), (j), (k)(1). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” wherever appearing.
 
-1987—Subsec. (k)(1). Pub. L. 100–202, § 101(m) [title VI, § 626(1), (2)], inserted “or by a qualified clinical social worker as defined in section 8901(11),” after “as applicable,”, and “, qualified clinical social worker” after “such a clinical psychologist”.
+1987—Subsec. (k)(1). Pub. L. 100–202, § 101(m) [title VI, § 626(1), (2)], inserted “or by a qualified clinical social worker as defined in section 8901(11),” after “as applicable,”, and “, qualified clinical social worker” after “such a clinical psychologist”.
 
-Subsec. (k)(2), (3). Pub. L. 100–202, § 101(m) [title VI, § 626(3)], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “When a contract under this chapter requires payment or reimbursement for services which may be performed by a qualified clinical social worker, an employee, annuitant, family member, or former spouse covered by the contract shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed. As a condition for the payment or reimbursement, the contract—
+Subsec. (k)(2), (3). Pub. L. 100–202, § 101(m) [title VI, § 626(3)], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “When a contract under this chapter requires payment or reimbursement for services which may be performed by a qualified clinical social worker, an employee, annuitant, family member, or former spouse covered by the contract shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed. As a condition for the payment or reimbursement, the contract—
 
 “(A) may require that the services be performed pursuant to a referral by a psychiatrist; but
 
 “(B) may not require that the services be performed under the supervision of a psychiatrist or other health practitioner.”
 
-Subsec. (m)(2)(A). Pub. L. 100–202, § 101(m) [title VI, § 626(4)], struck out “This paragraph shall apply with respect to a qualified clinical social worker covered by subsection (k)(2) of this section without regard to whether such contract contains the requirement authorized by clause (i) of the second sentence of subparagraph (A) of such subsection (k)(2).”
+Subsec. (m)(2)(A). Pub. L. 100–202, § 101(m) [title VI, § 626(4)], struck out “This paragraph shall apply with respect to a qualified clinical social worker covered by subsection (k)(2) of this section without regard to whether such contract contains the requirement authorized by clause (i) of the second sentence of subparagraph (A) of such subsection (k)(2).”
 
-1986—Subsec. (k). Pub. L. 99–251, § 105(b), designated existing provisions as par. (1), struck out last sentence providing that the provisions of this subsection shall not apply to group practice prepayment plans, and added pars. (2) and (3).
+1986—Subsec. (k). Pub. L. 99–251, § 105(b), designated existing provisions as par. (1), struck out last sentence providing that the provisions of this subsection shall not apply to group practice prepayment plans, and added pars. (2) and (3).
 
-Subsec. (m)(2)(A). Pub. L. 99–251, § 106(a)(3), inserted last sentence relating to applicability of this paragraph with respect to a qualified clinical social worker covered by subsection (k)(2) of this section.
+Subsec. (m)(2)(A). Pub. L. 99–251, § 106(a)(3), inserted last sentence relating to applicability of this paragraph with respect to a qualified clinical social worker covered by subsection (k)(2) of this section.
 
 1985—Subsecs. (a), (e), (i). Pub. L. 99–53 inserted reference to section 8903a of this title.
 
-1984—Subsec. (g). Pub. L. 98–615, § 3(2)(A), substituted “employee, annuitant, family member, or former spouse” for “employee or annuitant” in two places.
+1984—Subsec. (g). Pub. L. 98–615, § 3(2)(A), substituted “employee, annuitant, family member, or former spouse” for “employee or annuitant” in two places.
 
-Subsecs. (j), (k). Pub. L. 98–615, § 3(2)(B), substituted “family member, or former spouse” for “or family member”.
+Subsecs. (j), (k). Pub. L. 98–615, § 3(2)(B), substituted “family member, or former spouse” for “or family member”.
 
 1980—Subsec. (m)(2)(A). Pub. L. 96–179 substituted “in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e)” for “who is a member of a medically underserved population (within the meaning of section 1302(7) of the Public Health Service Act (42 U.S.C. 300e–17))”.
 
@@ -629,7 +629,7 @@ Pub. L. 93–246 added subsec. (j) requiring the carrier to pay for or provide a
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. BB, title I, § 102(e), Dec. 27, 2020, 134 Stat. 2797, provided that: “The amendments made by this section [enacting sections 9816 and 9822 of Title 26, Internal Revenue Code, sections 1185e and 1185k of Title 29, Labor, and sections 300gg–111 and 300gg–117 of Title 42, The Public Health and Welfare, and amending this section, section 223 of Title 26, and sections 300gg–19a, 300gg–21, 300gg–22, 300gg–23, and 18011 of Title 42] shall apply with respect to plan years (or, in the case of the amendment made by subsection (d)(1) [amending this section], with respect to contracts entered into or renewed for contract years) beginning on or after January 1, 2022.”
+Pub. L. 116–260, div. BB, title I, § 102(e), Dec. 27, 2020, 134 Stat. 2797, provided that: “The amendments made by this section [enacting sections 9816 and 9822 of Title 26, Internal Revenue Code, sections 1185e and 1185k of Title 29, Labor, and sections 300gg–111 and 300gg–117 of Title 42, The Public Health and Welfare, and amending this section, section 223 of Title 26, and sections 300gg–19a, 300gg–21, 300gg–22, 300gg–23, and 18011 of Title 42] shall apply with respect to plan years (or, in the case of the amendment made by subsection (d)(1) [amending this section], with respect to contracts entered into or renewed for contract years) beginning on or after January 1, 2022.”
 
 **Effective Date of 1997 Amendment**
 
@@ -637,15 +637,15 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–393, title V, § 537(c), Oct. 6, 1992, 106 Stat. 1765, provided that: “The amendments made by this section [amending this section] shall be effective with respect to contract years beginning after the date of enactment of this Act [Oct. 6, 1992].”
+Pub. L. 102–393, title V, § 537(c), Oct. 6, 1992, 106 Stat. 1765, provided that: “The amendments made by this section [amending this section] shall be effective with respect to contract years beginning after the date of enactment of this Act [Oct. 6, 1992].”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title VII, § 7002(g), Nov. 5, 1990, 104 Stat. 1388–331, provided that: “Except as provided in subsection (f) [set out as a note under section 8904 of this title], the amendments made by this section [amending this section, sections 8904, 8909, and 8910 of this title, and provisions set out as a note under section 8906 of this title] shall apply with respect to contract years beginning on or after January 1, 1991.”
+Pub. L. 101–508, title VII, § 7002(g), Nov. 5, 1990, 104 Stat. 1388–331, provided that: “Except as provided in subsection (f) [set out as a note under section 8904 of this title], the amendments made by this section [amending this section, sections 8904, 8909, and 8910 of this title, and provisions set out as a note under section 8906 of this title] shall apply with respect to contract years beginning on or after January 1, 1991.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–654, title II, § 203, Nov. 14, 1988, 102 Stat. 3845, provided that:
+Pub. L. 100–654, title II, § 203, Nov. 14, 1988, 102 Stat. 3845, provided that:
 
 > **“(a) In General.—** The amendments made by this title [enacting section 8905a of this title and amending this section and sections 8903, 8905, and 8909 of this title] shall apply with respect to—
 
@@ -665,7 +665,7 @@ Pub. L. 100–654, title II, § 203, Nov. 14, 1988, 102 Stat. 3845, provided t
 
 Amendment by section 105(b) of Pub. L. 99–251 effective with respect to contracts entered into or renewed for calendar years beginning after Dec. 31, 1986, see section 105(c) of Pub. L. 99–251, set out as a note under section 8901 of this title.
 
-Pub. L. 99–251, title I, § 106(b), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by subsection (a) [amending this section and provisions set out as notes under this section] shall take effect with respect to services provided after December 31, 1984.”
+Pub. L. 99–251, title I, § 106(b), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by subsection (a) [amending this section and provisions set out as notes under this section] shall take effect with respect to services provided after December 31, 1984.”
 
 **Effective Date of 1984 Amendment**
 
@@ -673,13 +673,13 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–179, § 5(b), Jan. 2, 1980, 93 Stat. 1300, as amended by Pub. L. 99–251, title I, § 106(a)(2), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by section 3 [amending this section] shall apply to services provided after December 31, 1979, under any contract entered into or renewed after December 31, 1979.”
+Pub. L. 96–179, § 5(b), Jan. 2, 1980, 93 Stat. 1300, as amended by Pub. L. 99–251, title I, § 106(a)(2), Feb. 27, 1986, 100 Stat. 16, provided that: “The amendments made by section 3 [amending this section] shall apply to services provided after December 31, 1979, under any contract entered into or renewed after December 31, 1979.”
 
 **Effective Date of 1978 Amendments**
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-Pub. L. 95–368, § 3, Sept. 17, 1978, 92 Stat. 606, as amended by Pub. L. 99–251, title I, § 106(a)(1), Feb. 27, 1986, 100 Stat. 16, provided that: “The provisions of section 8902(m)(2) of title 5, United States Code, as added by the first section of this Act, shall apply to services provided under any contract entered into or renewed after December 31, 1979.”
+Pub. L. 95–368, § 3, Sept. 17, 1978, 92 Stat. 606, as amended by Pub. L. 99–251, title I, § 106(a)(1), Feb. 27, 1986, 100 Stat. 16, provided that: “The provisions of section 8902(m)(2) of title 5, United States Code, as added by the first section of this Act, shall apply to services provided under any contract entered into or renewed after December 31, 1979.”
 
 **Effective Date of 1976 Amendment**
 
@@ -687,23 +687,23 @@ Amendment by Pub. L. 94–460 effective Oct. 8, 1976, see section 118 of Pub. L.
 
 **Effective Date of 1974 Amendments**
 
-Pub. L. 93–363, § 2, July 30, 1974, 88 Stat. 398, provided that: “The amendment made by this Act [amending this section] shall become effective with respect to any contract entered into or renewed on or after the date of enactment of this Act [July 30, 1974].”
+Pub. L. 93–363, § 2, July 30, 1974, 88 Stat. 398, provided that: “The amendment made by this Act [amending this section] shall become effective with respect to any contract entered into or renewed on or after the date of enactment of this Act [July 30, 1974].”
 
-Pub. L. 93–246, § 4(c), Jan. 31, 1974, 88 Stat. 4, provided that: “Section 3 [amending this section] shall become effective with respect to any contract entered into or renewed on or after the date of enactment of this Act [Jan. 31, 1974].”
+Pub. L. 93–246, § 4(c), Jan. 31, 1974, 88 Stat. 4, provided that: “Section 3 [amending this section] shall become effective with respect to any contract entered into or renewed on or after the date of enactment of this Act [Jan. 31, 1974].”
 
 **Full Disclosure in Health Plan Contracts**
 
-Pub. L. 105–266, § 5, Oct. 19, 1998, 112 Stat. 2368, provided that: “The Office of Personnel Management shall encourage carriers offering health benefits plans described by section 8903 or section 8903a of title 5, United States Code, with respect to contractual arrangements made by such carriers with any person for purposes of obtaining discounts from providers for health care services or supplies furnished to individuals enrolled in such plan, to seek assurance that the conditions for such discounts are fully disclosed to the providers who grant them.”
+Pub. L. 105–266, § 5, Oct. 19, 1998, 112 Stat. 2368, provided that: “The Office of Personnel Management shall encourage carriers offering health benefits plans described by section 8903 or section 8903a of title 5, United States Code, with respect to contractual arrangements made by such carriers with any person for purposes of obtaining discounts from providers for health care services or supplies furnished to individuals enrolled in such plan, to seek assurance that the conditions for such discounts are fully disclosed to the providers who grant them.”
 
 **Rate Reduction for Medicare Eligible Federal Annuitants**
 
-Pub. L. 100–360, title IV, § 422, July 1, 1988, 102 Stat. 810, which directed the Office of Personnel Management to reduce the rates charged medicare eligible individuals participating in health benefit plans by a prorated amount, was repealed by Pub. L. 101–234, title III, § 301(a), Dec. 13, 1989, 103 Stat. 1985.
+Pub. L. 100–360, title IV, § 422, July 1, 1988, 102 Stat. 810, which directed the Office of Personnel Management to reduce the rates charged medicare eligible individuals participating in health benefit plans by a prorated amount, was repealed by Pub. L. 101–234, title III, § 301(a), Dec. 13, 1989, 103 Stat. 1985.
 
 **Authority of Carrier To Contract for Comprehensive Medical Services From a Group Practice Unit or Organization**
 
-Pub. L. 91–515, title IV, § 401, Oct. 30, 1970, 84 Stat. 1309, authorized Secretary of Health, Education, and Welfare to permit any carrier which is a party to a contract entered into under this chapter or under the Retired Federal Employees Health Benefits Act, or which participates in carrying out of any such contract, to issue in any State contracts entitling any person as a beneficiary to receive comprehensive medical services from a group practice unit or organization with which such carrier has contracted or otherwise arranged for the provision of such services.
+Pub. L. 91–515, title IV, § 401, Oct. 30, 1970, 84 Stat. 1309, authorized Secretary of Health, Education, and Welfare to permit any carrier which is a party to a contract entered into under this chapter or under the Retired Federal Employees Health Benefits Act, or which participates in carrying out of any such contract, to issue in any State contracts entitling any person as a beneficiary to receive comprehensive medical services from a group practice unit or organization with which such carrier has contracted or otherwise arranged for the provision of such services.
 
-## § 8902a. Debarment and other sanctions
+## § 8902a. Debarment and other sanctions
 
 **(a)**
 
@@ -725,9 +725,9 @@ Pub. L. 91–515, title IV, § 401, Oct. 30, 1970, 84 Stat. 1309, authorized S
 
 without regard to the pendency or outcome of any appeal (other than a judgment of acquittal based on innocence) or request for relief on behalf of the individual or entity; and
 
-**(D)** the term “should know” means that a person, with respect to information, acts in deliberate ignorance of, or in reckless disregard of, the truth or falsity of the information, and no proof of specific intent to defraud is required; 1
+**(D)** the term “should know” means that a person, with respect to information, acts in deliberate ignorance of, or in reckless disregard of, the truth or falsity of the information, and no proof of specific intent to defraud is required; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
 **(2)**
 
@@ -849,7 +849,7 @@ the Office may, in addition to any other penalties that may be prescribed by law
 
 **(j)** The Office shall prescribe regulations under which, with respect to services or supplies furnished by a debarred provider to a covered individual during the period of such provider’s debarment, payment or reimbursement under this chapter may be made, notwithstanding the fact of such debarment, if such individual did not know or could not reasonably be expected to have known of the debarment. In any such instance, the carrier involved shall take appropriate measures to ensure that the individual is informed of the debarment and the minimum period of time remaining under the terms of the debarment.
 
-(Added Pub. L. 100–654, title I, § 101(a), Nov. 14, 1988, 102 Stat. 3837; amended Pub. L. 105–266, § 2(a), Oct. 19, 1998, 112 Stat. 2363.)
+(Added Pub. L. 100–654, title I, § 101(a), Nov. 14, 1988, 102 Stat. 3837; amended Pub. L. 105–266, § 2(a), Oct. 19, 1998, 112 Stat. 2363.)
 
 **Editorial Notes**
 
@@ -859,59 +859,59 @@ Section 2455 of the Federal Acquisition Streamlining Act of 1994, referred to in
 
 **Amendments**
 
-1998—Subsec. (a)(1)(D). Pub. L. 105–266, § 2(a)(1)(A), added subpar. (D).
+1998—Subsec. (a)(1)(D). Pub. L. 105–266, § 2(a)(1)(A), added subpar. (D).
 
-Subsec. (a)(2)(A). Pub. L. 105–266, § 2(a)(1)(B), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
+Subsec. (a)(2)(A). Pub. L. 105–266, § 2(a)(1)(B), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
 
-Subsec. (b). Pub. L. 105–266, § 2(a)(2)(A), substituted “shall” for “may” in introductory provisions.
+Subsec. (b). Pub. L. 105–266, § 2(a)(2)(A), substituted “shall” for “may” in introductory provisions.
 
-Subsec. (b)(5). Pub. L. 105–266, § 2(a)(2)(B), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Any provider—
+Subsec. (b)(5). Pub. L. 105–266, § 2(a)(2)(B), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Any provider—
 
 “(A) whose license to provide health care services or supplies has been revoked, suspended, restricted, or not renewed, by a State licensing authority for reasons relating to the provider’s professional competence, professional performance, or financial integrity; or
 
 “(B) that surrendered such a license while a formal disciplinary proceeding was pending before such an authority, if the proceeding concerned the provider’s professional competence, professional performance, or financial integrity.”
 
-Subsec. (c). Pub. L. 105–266, § 2(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 105–266, § 2(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 105–266, § 2(a)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 105–266, § 2(a)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 105–266, § 2(a)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in connection with a claim presented under this chapter, that a provider of health care services or supplies—
+Subsec. (d)(1). Pub. L. 105–266, § 2(a)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “in connection with a claim presented under this chapter, that a provider of health care services or supplies—
 
 “(A) has charged for health care services or supplies that the provider knows or should have known were not provided as claimed; or
 
 “(B) has charged for health care services or supplies in an amount substantially in excess of such provider’s customary charges for such services or supplies, or charged for health care services or supplies which are substantially in excess of the needs of the covered individual or which are of a quality that fails to meet professionally recognized standards for such services or supplies;”.
 
-Subsec. (e). Pub. L. 105–266, § 2(a)(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 105–266, § 2(a)(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 105–266, § 2(a)(3), (5), redesignated subsec. (e) as (f) and inserted “(where such debarment is not mandatory)” after “debarment under this section”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 105–266, § 2(a)(3), (5), redesignated subsec. (e) as (f) and inserted “(where such debarment is not mandatory)” after “debarment under this section”. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 105–266, § 2(a)(3), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 105–266, § 2(a)(3), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (g)(1). Pub. L. 105–266, § 2(a)(6)(A), added par. (1) and struck out former par. (1) which read as follows: “The debarment of a provider under subsection (b) or (c) shall be effective at such time and upon such reasonable notice to such provider, and to carriers and covered individuals, as may be specified in regulations prescribed by the Office.”
+Subsec. (g)(1). Pub. L. 105–266, § 2(a)(6)(A), added par. (1) and struck out former par. (1) which read as follows: “The debarment of a provider under subsection (b) or (c) shall be effective at such time and upon such reasonable notice to such provider, and to carriers and covered individuals, as may be specified in regulations prescribed by the Office.”
 
-Subsec. (g)(3). Pub. L. 105–266, § 2(a)(6)(B), inserted “of debarment” after “notice” and inserted at end “In the case of a debarment under paragraph (1), (2), (3), or (4) of subsection (b), the minimum period of debarment shall not be less than 3 years, except as provided in paragraph (4)(B)(ii).”
+Subsec. (g)(3). Pub. L. 105–266, § 2(a)(6)(B), inserted “of debarment” after “notice” and inserted at end “In the case of a debarment under paragraph (1), (2), (3), or (4) of subsection (b), the minimum period of debarment shall not be less than 3 years, except as provided in paragraph (4)(B)(ii).”
 
-Subsec. (g)(4)(B)(i)(I). Pub. L. 105–266, § 2(a)(6)(C), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
+Subsec. (g)(4)(B)(i)(I). Pub. L. 105–266, § 2(a)(6)(C), substituted “subsection (b), (c), or (d)” for “subsection (b) or (c)”.
 
-Subsec. (g)(6). Pub. L. 105–266, § 2(a)(6)(D), struck out par. (6) which read as follows: “The Office shall, upon written request and payment of a reasonable charge to defray the cost of complying with such request, furnish a current list of any providers barred from participating in the program under this chapter, including the minimum period of time remaining under the terms of each provider’s debarment.”
+Subsec. (g)(6). Pub. L. 105–266, § 2(a)(6)(D), struck out par. (6) which read as follows: “The Office shall, upon written request and payment of a reasonable charge to defray the cost of complying with such request, furnish a current list of any providers barred from participating in the program under this chapter, including the minimum period of time remaining under the terms of each provider’s debarment.”
 
-Subsec. (h). Pub. L. 105–266, § 2(a)(3), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 105–266, § 2(a)(3), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(1), (2). Pub. L. 105–266, § 2(a)(7), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+Subsec. (h)(1), (2). Pub. L. 105–266, § 2(a)(7), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) The Office may not make a determination under subsection (b) or (c) adverse to a provider of health care services or supplies until such provider has been given written notice and an opportunity for a hearing on the record. A provider is entitled to be represented by counsel, to present witnesses, and to cross-examine witnesses against the provider in any such hearing.
 
 “(2) Notwithstanding section 8912, any person adversely affected by a final decision under paragraph (1) may obtain review of such decision in the United States Court of Appeals for the Federal Circuit. A written petition requesting that the decision be modified or set aside must be filed within 60 days after the date on which such person is notified of such decision.”
 
-Subsec. (i). Pub. L. 105–266, § 2(a)(3), (8), redesignated subsec. (h) as (i), substituted “subsection (d)” for “subsection (c)”, and inserted at end “The amount of a penalty or assessment as finally determined by the Office, or other amount the Office may agree to in compromise, may be deducted from any sum then or later owing by the United States to the party against whom the penalty or assessment has been levied.” Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 105–266, § 2(a)(3), (8), redesignated subsec. (h) as (i), substituted “subsection (d)” for “subsection (c)”, and inserted at end “The amount of a penalty or assessment as finally determined by the Office, or other amount the Office may agree to in compromise, may be deducted from any sum then or later owing by the United States to the party against whom the penalty or assessment has been levied.” Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 105–266, § 2(a)(3), redesignated subsec. (i) as (j).
+Subsec. (j). Pub. L. 105–266, § 2(a)(3), redesignated subsec. (i) as (j).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–266, § 2(b), Oct. 19, 1998, 112 Stat. 2366, provided that:
+Pub. L. 105–266, § 2(b), Oct. 19, 1998, 112 Stat. 2366, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Oct. 19, 1998].
 
@@ -925,13 +925,13 @@ Pub. L. 105–266, § 2(b), Oct. 19, 1998, 112 Stat. 2366, provided that:
 
 **Effective Date; Prior Conduct**
 
-Pub. L. 100–654, title I, § 102, Nov. 14, 1988, 102 Stat. 3841, provided that:
+Pub. L. 100–654, title I, § 102, Nov. 14, 1988, 102 Stat. 3841, provided that:
 
 > **“(a) Applicability.—** The amendments made by this title [enacting this section] shall be effective with respect to any calendar year beginning, and contracts entered into or renewed for any calendar year beginning, after the date of the enactment of this Act [Nov. 14, 1988].
 
 > **“(b) Prior Conduct Not To Be Considered.—** In carrying out section 8902a of title 5, United States Code, as added by this title, no debarment, civil monetary penalty, or assessment may be imposed under such section based on any criminal or other conduct occurring before the beginning of the first calendar year which begins after the date of the enactment of this Act [Nov. 14, 1988].”
 
-## § 8903. Health benefits plans
+## § 8903. Health benefits plans
 
 The Office of Personnel Management may contract for or approve the following health benefits plans:
 
@@ -949,14 +949,14 @@ The Office of Personnel Management may contract for or approve the following hea
 
 **(C) Mixed model prepayment plans.—** Mixed model prepayment plans which are a combination of the type of plans described in subparagraph (A) and the type of plans described in subparagraph (B).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 602; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, § 3(3), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, § 2(b), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§ 102, 111, Feb. 27, 1986, 100 Stat. 14, 19; Pub. L. 100–654, title II, § 202(b), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 105–266, § 3(b), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 117–108, title I, § 101(a)(2)(A), Apr. 6, 2022, 136 Stat. 1135.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 602; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, § 3(3), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, § 2(b), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§ 102, 111, Feb. 27, 1986, 100 Stat. 14, 19; Pub. L. 100–654, title II, § 202(b), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 105–266, § 3(b), Oct. 19, 1998, 112 Stat. 2366; Pub. L. 117–108, title I, § 101(a)(2)(A), Apr. 6, 2022, 136 Stat. 1135.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3003. | Sept. 28, 1959, Pub. L. 86–382, § 4, 73 Stat. 711. |
-|  |  | July 8, 1963, Pub. L. 88–59, § 1(b), 77 Stat. 77. |
+|  | 5 U.S.C. 3003. | Sept. 28, 1959, Pub. L. 86–382, § 4, 73 Stat. 711. |
+|  |  | July 8, 1963, Pub. L. 88–59, § 1(b), 77 Stat. 77. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -970,13 +970,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1988—Par. (1). Pub. L. 100–654 substituted “former spouses, or persons having continued coverage under section 8905a of this title,” for “or former spouses,” and “former spouse, or person having continued coverage under section 8905a of this title.” for “or former spouse.”
 
-1986—Par. (4)(A). Pub. L. 99–251, § 102, amended second sentence generally, substituting “at least 3 physicians” for “physicians representing at least three major medical specialties” and inserted “and who represent 1 or more medical specialties appropriate and necessary for the population proposed to be served by the plan”.
+1986—Par. (4)(A). Pub. L. 99–251, § 102, amended second sentence generally, substituting “at least 3 physicians” for “physicians representing at least three major medical specialties” and inserted “and who represent 1 or more medical specialties appropriate and necessary for the population proposed to be served by the plan”.
 
-Par. (4)(C). Pub. L. 99–251, § 111, added subpar. (C).
+Par. (4)(C). Pub. L. 99–251, § 111, added subpar. (C).
 
 1985—Par. (3). Pub. L. 99–53 inserted “described in section 8901(8)(A) of this title” after “employee organizations”.
 
-1984—Par. (1). Pub. L. 98–615, § 3(3), substituted “employees, annuitants, members of their families, or former spouses” for “employees or annuitants, or members of their families” and “employee, annuitant, family member, or former spouse” for “employee or annuitant or member of his family”.
+1984—Par. (1). Pub. L. 98–615, § 3(3), substituted “employees, annuitants, members of their families, or former spouses” for “employees or annuitants, or members of their families” and “employee, annuitant, family member, or former spouse” for “employee or annuitant or member of his family”.
 
 1978—Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
@@ -994,7 +994,7 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 8903a. Additional health benefits plans
+## § 8903a. Additional health benefits plans
 
 **(a)** In addition to any plan under section 8903 of this title, the Office of Personnel Management may contract for or approve one or more health benefits plans under this section.
 
@@ -1016,9 +1016,9 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(d)** For the purpose of this section, an individual shall be considered a full member of an organization if such individual is eligible to exercise all rights and privileges incident to full membership in such organization (determined without regard to the right to hold elected office).
 
-(Added Pub. L. 99–53, § 1(b)(1), June 17, 1985, 99 Stat. 93.)
+(Added Pub. L. 99–53, § 1(b)(1), June 17, 1985, 99 Stat. 93.)
 
-## § 8903b. Authority to readmit an employee organization plan
+## § 8903b. Authority to readmit an employee organization plan
 
 **(a)** In the event that a plan described by section 8903(3) or 8903a is discontinued under this chapter (other than in the circumstance described in section 8909(d)), that discontinuation shall be disregarded, for purposes of any determination as to that plan’s eligibility to be considered an approved plan under this chapter, but only for purposes of any contract year later than the third contract year beginning after such plan is so discontinued.
 
@@ -1028,19 +1028,19 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(2)** if the carrier involved would not otherwise be subject to the requirement set forth in section 8903a(c)(1), to satisfy such requirement.
 
-(Added Pub. L. 105–266, § 6(a)(1), Oct. 19, 1998, 112 Stat. 2368.)
+(Added Pub. L. 105–266, § 6(a)(1), Oct. 19, 1998, 112 Stat. 2368.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–266, § 6(a)(3), Oct. 19, 1998, 112 Stat. 2369, provided that:
+Pub. L. 105–266, § 6(a)(3), Oct. 19, 1998, 112 Stat. 2369, provided that:
 
 > **“(A) In general.—** The amendments made by this subsection [enacting this section] shall apply as of the date of the enactment of this Act [Oct. 19, 1998], including with respect to any plan which has been discontinued as of such date.
 
 > **“(B) Transition rule.—** For purposes of applying section 8903b(a) of title 5, United States Code (as amended by this subsection) with respect to any plan seeking to be readmitted for purposes of any contract year beginning before January 1, 2000, such section shall be applied by substituting ‘second contract year’ for ‘third contract year’.”
 
-## § 8903c. Postal Service Health Benefits Program
+## § 8903c. Postal Service Health Benefits Program
 
 **(a) Definitions.—** In this section—
 
@@ -1292,13 +1292,13 @@ Pub. L. 105–266, § 6(a)(3), Oct. 19, 1998, 112 Stat. 2369, provided that:
 
 **(iii)** a process, developed in consultation with the Social Security Administration, the Centers for Medicare & Medicaid Services, and the Office, for addressing any inquiry from Postal Service annuitants and Postal Service employees about the Program or Medicare enrollment.
 
-(Added Pub. L. 117–108, title I, § 101(a)(1), Apr. 6, 2022, 136 Stat. 1128.)
+(Added Pub. L. 117–108, title I, § 101(a)(1), Apr. 6, 2022, 136 Stat. 1128.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a)(4), (5), (h)(2), and (*l*)(3)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. Sections 1860D–1, 1860D–22, and 1860D–41 are classified to sections 1395w–101, 1395w–132, and 1395w–151, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(4), (5), (h)(2), and (*l*)(3)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. Sections 1860D–1, 1860D–22, and 1860D–41 are classified to sections 1395w–101, 1395w–132, and 1395w–151, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of enactment of this section, referred to in subsecs. (e)(3)(B), (g)(1), and (*l*)(2), (6)(A), is the date of enactment of Pub. L. 117–108, which was approved Apr. 6, 2022.
 
@@ -1306,7 +1306,7 @@ The date of enactment of this section, referred to in subsecs. (e)(3)(B), (g)(1)
 
 **Information Sharing and Dissemination Required for Special Enrollment Period and Enforcement of Part B Enrollment Requirements**
 
-Pub. L. 117–108, title I, § 101(c), Apr. 6, 2022, 136 Stat. 1137, provided that:
+Pub. L. 117–108, title I, § 101(c), Apr. 6, 2022, 136 Stat. 1137, provided that:
 
 > **“(1) Definitions.—** In this subsection, the terms ‘Medicare part A’, ‘Medicare part B’, ‘Office’, ‘Postal Service’, and ‘Postal Service annuitant’ have the meanings given those terms in section 8903c of title 5, United States Code, as added by subsection (a).
 
@@ -1320,7 +1320,7 @@ Pub. L. 117–108, title I, § 101(c), Apr. 6, 2022, 136 Stat. 1137, provided 
 
 **Reimbursement For Periodic SSA Data Sharing**
 
-Pub. L. 117–108, title I, § 101(d)(5), Apr. 6, 2022, 136 Stat. 1138, provided that:
+Pub. L. 117–108, title I, § 101(d)(5), Apr. 6, 2022, 136 Stat. 1138, provided that:
 
 > **“(A) Inter-agency agreement.—** The Commissioner of Social Security shall enter into an agreement with the Director of the Office under which the Director pays the Commissioner from the Postal Service administrative reserve the full costs (including systems and administrative costs) of providing the information described in subsection (c)(3) [of section 101 of Pub. L. 117–108, set out in a note above] for the purpose set forth in subsection (c)(3)(B).
 
@@ -1332,7 +1332,7 @@ Pub. L. 117–108, title I, § 101(d)(5), Apr. 6, 2022, 136 Stat. 1138, provid
 
 [For definition of “Postal Service” as used in section 101(d)(5) of Pub. L. 117–108, set out above, see section 102 of Title 39, Postal Service, as made applicable by section 2(b) of Pub. L. 117–108, which is set out as a note under section 501 of Title 39.]
 
-## § 8904. Types of benefits
+## § 8904. Types of benefits
 
 **(a)** The benefits to be provided under plans described by section 8903 of this title may be of the following types:
 
@@ -1400,13 +1400,13 @@ All plans contracted for under paragraphs (1) and (2) of this subsection shall i
 
 **(C)** Medicare program information described in paragraph (3)(B)(ii) will be supplied to carriers under paragraph (3)(A).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 101–508, title VII, § 7002(f)(1), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 102–378, § 2(76), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–66, title XI, § 11003(a), Aug. 10, 1993, 107 Stat. 409.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 101–508, title VII, § 7002(f)(1), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 102–378, § 2(76), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–66, title XI, § 11003(a), Aug. 10, 1993, 107 Stat. 409.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3004. | Sept. 28, 1959, Pub. L. 86–382, § 5, 73 Stat. 712. |
+|  | 5 U.S.C. 3004. | Sept. 28, 1959, Pub. L. 86–382, § 5, 73 Stat. 712. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -1414,15 +1414,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to part A (§ 1395c et seq.) and part B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to part A (§ 1395c et seq.) and part B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-1993—Subsec. (b)(1). Pub. L. 103–66, § 11003(a)(1), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
+1993—Subsec. (b)(1). Pub. L. 103–66, § 11003(a)(1), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Subsec. (b)(3)(B). Pub. L. 103–66, § 11003(a)(2), inserted cl. (i) designation and added cl. (ii).
+Subsec. (b)(3)(B). Pub. L. 103–66, § 11003(a)(2), inserted cl. (i) designation and added cl. (ii).
 
-Subsec. (b)(4). Pub. L. 103–66, § 11003(a)(3), added par. (4).
+Subsec. (b)(4). Pub. L. 103–66, § 11003(a)(3), added par. (4).
 
 1992—Subsec. (a). Pub. L. 102–378 substituted “this subsection” for “this section” in pars. (3) and (4) and in last sentence.
 
@@ -1432,19 +1432,19 @@ Subsec. (b)(4). Pub. L. 103–66, § 11003(a)(3), added par. (4).
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–66, title XI, § 11003(b), Aug. 10, 1993, 107 Stat. 410, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to contract years beginning on or after January 1, 1995.”
+Pub. L. 103–66, title XI, § 11003(b), Aug. 10, 1993, 107 Stat. 410, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to contract years beginning on or after January 1, 1995.”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title VII, § 7002(f)(2), Nov. 5, 1990, 104 Stat. 1388–331, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to contract years beginning on or after January 1, 1992.”
+Pub. L. 101–508, title VII, § 7002(f)(2), Nov. 5, 1990, 104 Stat. 1388–331, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to contract years beginning on or after January 1, 1992.”
 
 **Coverage of Testing for COVID–19: Application With Respect to Federal Civilians**
 
-Pub. L. 116–127, div. F, § 6006(c), Mar. 18, 2020, 134 Stat. 207, provided that: “No copayment or other cost sharing may be required for any individual occupying a position in the civil service (as that term is defined in section 2101(1) of title 5, United States Code) enrolled in a health benefits plan, including any plan under chapter 89 of title 5, United States Code, or for any other individual currently enrolled in any plan under chapter 89 of title 5 for in vitro diagnostic products described in paragraph (1) of section 6001(a) [of Pub. L. 116–127, 42 U.S.C. 1320b–5 note] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) beginning on or after the date of the enactment of this Act [Mar. 18, 2020].”
+Pub. L. 116–127, div. F, § 6006(c), Mar. 18, 2020, 134 Stat. 207, provided that: “No copayment or other cost sharing may be required for any individual occupying a position in the civil service (as that term is defined in section 2101(1) of title 5, United States Code) enrolled in a health benefits plan, including any plan under chapter 89 of title 5, United States Code, or for any other individual currently enrolled in any plan under chapter 89 of title 5 for in vitro diagnostic products described in paragraph (1) of section 6001(a) [of Pub. L. 116–127, 42 U.S.C. 1320b–5 note] (or the administration of such products) or visits described in paragraph (2) of such section furnished during any portion of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) beginning on or after the date of the enactment of this Act [Mar. 18, 2020].”
 
 **Mental Health, Alcoholism, and Drug Addiction Benefits; Congressional Findings; Sense of Congress**
 
-Pub. L. 99–251, title I, § 107, Feb. 27, 1986, 100 Stat. 16, provided that:
+Pub. L. 99–251, title I, § 107, Feb. 27, 1986, 100 Stat. 16, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -1462,7 +1462,7 @@ Pub. L. 99–251, title I, § 107, Feb. 27, 1986, 100 Stat. 16, provided that:
 
 > **“(2)** that the Office of Personnel Management should encourage participating health benefits plans to provide adequate benefits relating to treatment of mental illness, alcoholism, and drug addiction (including benefits relating to coverage for inpatient and outpatient treatment and catastrophic protection benefits).”
 
-## § 8905. Election of coverage
+## § 8905. Election of coverage
 
 **(a)** An employee may enroll in an approved health benefits plan described in section 8903 or 8903a—
 
@@ -1486,9 +1486,9 @@ whichever is shortest; or
 
 **(2)** as a member of the family of an employee or annuitant;
 
-may continue his enrollment under the conditions of eligibility prescribed by regulations of the Office. The Office may, in its sole discretion, waive the requirements of this subsection in the case of an individual who fails to satisfy such requirements if the Office determines that, due to exceptional circumstances, it would be against equity and good conscience not to allow such individual to be enrolled as an annuitant in a health benefits plan under this chapter 1
+may continue his enrollment under the conditions of eligibility prescribed by regulations of the Office. The Office may, in its sole discretion, waive the requirements of this subsection in the case of an individual who fails to satisfy such requirements if the Office determines that, due to exceptional circumstances, it would be against equity and good conscience not to allow such individual to be enrolled as an annuitant in a health benefits plan under this chapter 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period.
+<sup>1</sup> So in original. Probably should be followed by a period.
 
 **(c)**
 
@@ -1498,9 +1498,9 @@ may continue his enrollment under the conditions of eligibility prescribed by re
 
 **(B)** in the case of a former spouse of a former employee whose marriage was dissolved after the employee’s retirement, within 60 days after the dissolution of the marriage or, if later, within 60 days after an election is made under section 8339(j)(3) or 8417(b) of this title for such former spouse by the retired employee,
 
-enroll in an approved health benefits plan described by section 8903 or 8903a of this title as an individual or for 2
+enroll in an approved health benefits plan described by section 8903 or 8903a of this title as an individual or for 2
 
-<sup>2</sup>  So in original. The word “for” probably should precede “self and family”.
+<sup>2</sup> So in original. The word “for” probably should precede “self and family”.
 
 for self plus one or self and family as provided in paragraph (2) of this subsection, subject to agreement to pay the full subscription charge of the enrollment, including the amounts determined by the Office to be necessary for administration and reserves pursuant to section 8909(b) of this title. The former spouse shall submit an enrollment application and make premium payments to the agency which, at the time of divorce or annulment, employed the employee to whom the former spouse was married or, in the case of a former spouse who is receiving annuity payments under section 8341(h), 8345(j), 8445, or 8467 of this title, to the Office of Personnel Management.
 
@@ -1550,14 +1550,14 @@ provide a period of not less than 3 weeks during which any employee, annuitant, 
 
 **(i)** Any services by an officer or employee under this chapter relating to enrolling individuals in a health benefits plan under this chapter, or changing the enrollment of an individual already so enrolled, shall be deemed, for purposes of section 1342 of title 31, services for emergencies involving the safety of human life or the protection of property.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, § 3(4), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, § 2(a), (c), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§ 103, 104(a), Feb. 27, 1986, 100 Stat. 14; Pub. L. 99–335, title II, § 207(m), June 6, 1986, 100 Stat. 598; Pub. L. 100–654, title II, §§ 201(c), (d), 202(c), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 102–378, § 2(77), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–261, div. A, title VII, § 721(b)(1), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 106–394, § 2, Oct. 30, 2000, 114 Stat. 1629; Pub. L. 113–67, div. A, title VII, § 706(a), Dec. 26, 2013, 127 Stat. 1193; Pub. L. 116–92, div. A, title XI, § 1110(a), Dec. 20, 2019, 133 Stat. 1600.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 603; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, § 3(4), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, § 2(a), (c), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§ 103, 104(a), Feb. 27, 1986, 100 Stat. 14; Pub. L. 99–335, title II, § 207(m), June 6, 1986, 100 Stat. 598; Pub. L. 100–654, title II, §§ 201(c), (d), 202(c), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 102–378, § 2(77), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 105–261, div. A, title VII, § 721(b)(1), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 106–394, § 2, Oct. 30, 2000, 114 Stat. 1629; Pub. L. 113–67, div. A, title VII, § 706(a), Dec. 26, 2013, 127 Stat. 1193; Pub. L. 116–92, div. A, title XI, § 1110(a), Dec. 20, 2019, 133 Stat. 1600.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3002(a) (1st sentence, less words between 1st and 4th commas), (b)–(e). | Sept. 28, 1959, Pub. L. 86–382, § 3(a) (1st sentence, less words between 1st and 4th commas), (b)–(e), 73 Stat. 710. |
-|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164. |
+|  | 5 U.S.C. 3002(a) (1st sentence, less words between 1st and 4th commas), (b)–(e). | Sept. 28, 1959, Pub. L. 86–382, § 3(a) (1st sentence, less words between 1st and 4th commas), (b)–(e), 73 Stat. 710. |
+|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1(5), 78 Stat. 164. |
 
 In subsection (b)(1), the words “as an employee” are inserted for clarity.
 
@@ -1571,53 +1571,53 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 2019—Subsec. (i). Pub. L. 116–92 added subsec. (i).
 
-2013—Subsec. (a). Pub. L. 113–67, § 706(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “An employee may enroll in an approved health benefits plan described by section 8903 or 8903a of this title either as an individual or for self and family.”
+2013—Subsec. (a). Pub. L. 113–67, § 706(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “An employee may enroll in an approved health benefits plan described by section 8903 or 8903a of this title either as an individual or for self and family.”
 
-Subsec. (c)(1). Pub. L. 113–67, § 706(a)(2)(A), inserted “for self plus one or” before “self and family as provided in paragraph (2) of this subsection” in concluding provisions.
+Subsec. (c)(1). Pub. L. 113–67, § 706(a)(2)(A), inserted “for self plus one or” before “self and family as provided in paragraph (2) of this subsection” in concluding provisions.
 
-Subsec. (c)(2). Pub. L. 113–67, § 706(a)(2)(B)(i), inserted “for self plus one or” before “for self and family” in introductory provisions.
+Subsec. (c)(2). Pub. L. 113–67, § 706(a)(2)(B)(i), inserted “for self plus one or” before “for self and family” in introductory provisions.
 
-Subsec. (c)(2)(B). Pub. L. 113–67, § 706(a)(2)(B)(ii), inserted “(or, in the case of self plus one coverage, not more than 1 such child)” after “adopted children”.
+Subsec. (c)(2)(B). Pub. L. 113–67, § 706(a)(2)(B)(ii), inserted “(or, in the case of self plus one coverage, not more than 1 such child)” after “adopted children”.
 
-Subsec. (e). Pub. L. 113–67, § 706(a)(3), substituted “or for a self plus one enrollment that covers the spouse, or each spouse may enroll as an individual or for a self plus one enrollment that does not cover the other spouse or a child who is covered under the enrollment of the other spouse” for “or each spouse may enroll as an individual”.
+Subsec. (e). Pub. L. 113–67, § 706(a)(3), substituted “or for a self plus one enrollment that covers the spouse, or each spouse may enroll as an individual or for a self plus one enrollment that does not cover the other spouse or a child who is covered under the enrollment of the other spouse” for “or each spouse may enroll as an individual”.
 
-Subsec. (h). Pub. L. 113–67, § 706(a)(4)(A)–(C), substituted “self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family enrollment”, “1 or more children” for “a child”, and “the child or children reside” for “the child resides” wherever appearing.
+Subsec. (h). Pub. L. 113–67, § 706(a)(4)(A)–(C), substituted “self plus one or self and family enrollment, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family enrollment”, “1 or more children” for “a child”, and “the child or children reside” for “the child resides” wherever appearing.
 
-Subsec. (h)(1). Pub. L. 113–67, § 706(a)(4)(D), substituted “self plus one or self and family coverage, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family coverage” in two places.
+Subsec. (h)(1). Pub. L. 113–67, § 706(a)(4)(D), substituted “self plus one or self and family coverage, as necessary to provide health insurance coverage for each child who is covered under the order,” for “self and family coverage” in two places.
 
-Subsec. (h)(3). Pub. L. 113–67, § 706(a)(4)(E), substituted “the child or children continue” for “the child continues”.
+Subsec. (h)(3). Pub. L. 113–67, § 706(a)(4)(E), substituted “the child or children continue” for “the child continues”.
 
 2000—Subsec. (h). Pub. L. 106–394 added subsec. (h).
 
 1998—Subsecs. (d) to (g). Pub. L. 105–261 added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-1992—Subsec. (b). Pub. L. 102–378, § 2(77)(A), substituted “this chapter” for “this subchapter.” at end.
+1992—Subsec. (b). Pub. L. 102–378, § 2(77)(A), substituted “this chapter” for “this subchapter.” at end.
 
-Subsec. (c)(1). Pub. L. 102–378, § 2(77)(B), inserted comma after “8341(h)” in last sentence.
+Subsec. (c)(1). Pub. L. 102–378, § 2(77)(B), inserted comma after “8341(h)” in last sentence.
 
-1988—Subsec. (d). Pub. L. 100–654, § 202(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an employee has a spouse who is an employee, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee or annuitant and as a member of the family.”
+1988—Subsec. (d). Pub. L. 100–654, § 202(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If an employee has a spouse who is an employee, either spouse, but not both, may enroll for self and family, or each spouse may enroll as an individual. However, an individual may not be enrolled both as an employee or annuitant and as a member of the family.”
 
-Subsecs. (e), (f)(1), (2). Pub. L. 100–654, § 201(c), (d)(1), substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse”.
+Subsecs. (e), (f)(1), (2). Pub. L. 100–654, § 201(c), (d)(1), substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse”.
 
-Subsec. (f)(3). Pub. L. 100–654, § 201(d)(2), added par. (3).
+Subsec. (f)(3). Pub. L. 100–654, § 201(d)(2), added par. (3).
 
-1986—Subsec. (b). Pub. L. 99–251, § 103, inserted last sentence relating to waiver of the requirements of this subsection if it would be against equity to prohibit enrollment.
+1986—Subsec. (b). Pub. L. 99–251, § 103, inserted last sentence relating to waiver of the requirements of this subsection if it would be against equity to prohibit enrollment.
 
 Subsec. (c)(1). Pub. L. 99–335 inserted in subpar. (B) “or 8417(b)” and substituted in provision following subpar. (B) “8345(j), 8445, or 8467” for “or 8345(j)”.
 
-Subsec. (f). Pub. L. 99–251, § 104(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “An employee, annuitant, or former spouse enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.”
+Subsec. (f). Pub. L. 99–251, § 104(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “An employee, annuitant, or former spouse enrolled in a health benefits plan under this chapter may change his coverage or that of himself and members of his family by an application filed within 60 days after a change in family status or at other times and under conditions prescribed by regulations of the Office.”
 
-1985—Subsecs. (a), (c)(1). Pub. L. 99–53, § 2(a), inserted reference to section 8903a of this title.
+1985—Subsecs. (a), (c)(1). Pub. L. 99–53, § 2(a), inserted reference to section 8903a of this title.
 
-Subsec. (f). Pub. L. 99–53, § 2(a), (c), inserted reference to section 8903a of this title and substituted “such plan” for “plan described by that section”.
+Subsec. (f). Pub. L. 99–53, § 2(a), (c), inserted reference to section 8903a of this title and substituted “such plan” for “plan described by that section”.
 
-1984—Subsec. (c). Pub. L. 98–615, § 3(4)(A), added subsec. (c). Former subsec. (c) redesignated (d).
+1984—Subsec. (c). Pub. L. 98–615, § 3(4)(A), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 98–615, § 3(4)(A), redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 98–615, § 3(4)(A), redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 98–615, § 3(4), redesignated former subsec. (d) as (e) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 98–615, § 3(4), redesignated former subsec. (d) as (e) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 98–615, § 3(4), redesignated former subsec. (e) as (f) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”.
+Subsec. (f). Pub. L. 98–615, § 3(4), redesignated former subsec. (e) as (f) and substituted “An employee, annuitant, or former spouse” for “An employee or annuitant”.
 
 1978—Subsecs. (b), (d), (e). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
@@ -1635,7 +1635,7 @@ Amendment by Pub. L. 100–654 applicable with respect to any calendar year begi
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
-Pub. L. 99–251, title I, § 104(b), Feb. 27, 1986, 100 Stat. 15, provided that: “The amendment made by subsection (a) [amending this section] shall be effective with respect to contracts entered into or renewed for calendar years beginning after December 31, 1986.”
+Pub. L. 99–251, title I, § 104(b), Feb. 27, 1986, 100 Stat. 15, provided that: “The amendment made by subsection (a) [amending this section] shall be effective with respect to contracts entered into or renewed for calendar years beginning after December 31, 1986.”
 
 **Effective Date of 1984 Amendment**
 
@@ -1651,7 +1651,7 @@ Regulations to carry out amendment by Pub. L. 116–92 to be prescribed no later
 
 **FEHB Improvements**
 
-Pub. L. 119–21, title IX, § 90101(a)–(f), July 4, 2025, 139 Stat. 362, provided that:
+Pub. L. 119–21, title IX, § 90101(a)–(f), July 4, 2025, 139 Stat. 362, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘FEHB Protection Act of 2025’.
 
@@ -1685,11 +1685,11 @@ Pub. L. 119–21, title IX, § 90101(a)–(f), July 4, 2025, 139 Stat. 362, pr
 
 **Weighted Average for First Year**
 
-Pub. L. 113–67, div. A, title VII, § 706(d), Dec. 26, 2013, 127 Stat. 1194, provided that: “For the first contract year for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis.”
+Pub. L. 113–67, div. A, title VII, § 706(d), Dec. 26, 2013, 127 Stat. 1194, provided that: “For the first contract year for which an employee may enroll for self plus one coverage under chapter 89 of title 5, United States Code, the Office of Personnel Management shall determine the weighted average of the subscription charges that will be in effect for the contract year for enrollments for self plus one under such chapter based on an actuarial analysis.”
 
 **Election of Health Benefits Coverage and Entitlement to Health Benefits Under this Chapter Rather Than Under Retired Federal Employees Health Benefits Act**
 
-Pub. L. 93–246, §§ 2, 4(b), Jan. 31, 1974, 88 Stat. 4, provided that:
+Pub. L. 93–246, §§ 2, 4(b), Jan. 31, 1974, 88 Stat. 4, provided that:
 
 > **“Sec. 2.**
 
@@ -1701,7 +1701,7 @@ Pub. L. 93–246, §§ 2, 4(b), Jan. 31, 1974, 88 Stat. 4, provided that:
 
 > **(b)** Section 2 [set out above] shall take effect on the one hundred and eightieth day following the date of enactment [Jan. 1, 1974] or on such earlier date as the United States Civil Service Commission may prescribe.”
 
-## § 8905a. Continued coverage
+## § 8905a. Continued coverage
 
 **(a)** Any individual described in subsection (b) may elect to continue coverage under this chapter in accordance with the provisions of this section.
 
@@ -1815,7 +1815,7 @@ except that if a parent fails to provide the notice required under paragraph (1)
 
 **(A)** If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 44211
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Atomic Energy Defense Act—
 
@@ -1891,7 +1891,7 @@ extended coverage under this section may not extend beyond the date which is 36 
 
 extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added Pub. L. 100–654, title II, § 201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, § 4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, § 341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, § 1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, § 1104(c), div. C, title XXXII, § 3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, § 1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 107–314, div. A, title XI, § 1103, Dec. 2, 2002, 116 Stat. 2661; Pub. L. 107–314, div. D, title XLVI, § 4603(h), formerly Pub. L. 106–398, § 1 [div. C, title XXXI, § 3136(h)], Oct. 30, 2000, 114 Stat. 1654, 1654A–459, renumbered § 4603(h) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, § 3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 108–136, div. C, title XXXI, § 3141(m)(3), Nov. 24, 2003, 117 Stat. 1787; Pub. L. 108–375, div. A, title XI, § 1101(a), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–163, div. A, title XI, § 1101, Jan. 6, 2006, 119 Stat. 3447; Pub. L. 110–422, title VI, § 615, Oct. 15, 2008, 122 Stat. 4800; Pub. L. 111–242, § 151, as added Pub. L. 111–322, title I, § 1(a)(2), Dec. 22, 2010, 124 Stat. 3519; Pub. L. 112–81, div. A, title XI, § 1123, Dec. 31, 2011, 125 Stat. 1617; Pub. L. 113–67, div. A, title VII, § 706(b), Dec. 26, 2013, 127 Stat. 1194.)
+(Added Pub. L. 100–654, title II, § 201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, § 4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, § 341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, § 1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, § 1104(c), div. C, title XXXII, § 3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, § 1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 107–314, div. A, title XI, § 1103, Dec. 2, 2002, 116 Stat. 2661; Pub. L. 107–314, div. D, title XLVI, § 4603(h), formerly Pub. L. 106–398, § 1 [div. C, title XXXI, § 3136(h)], Oct. 30, 2000, 114 Stat. 1654, 1654A–459, renumbered § 4603(h) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, § 3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 108–136, div. C, title XXXI, § 3141(m)(3), Nov. 24, 2003, 117 Stat. 1787; Pub. L. 108–375, div. A, title XI, § 1101(a), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–163, div. A, title XI, § 1101, Jan. 6, 2006, 119 Stat. 3447; Pub. L. 110–422, title VI, § 615, Oct. 15, 2008, 122 Stat. 4800; Pub. L. 111–242, § 151, as added Pub. L. 111–322, title I, § 1(a)(2), Dec. 22, 2010, 124 Stat. 3519; Pub. L. 112–81, div. A, title XI, § 1123, Dec. 31, 2011, 125 Stat. 1617; Pub. L. 113–67, div. A, title VII, § 706(b), Dec. 26, 2013, 127 Stat. 1194.)
 
 **Editorial Notes**
 
@@ -1899,7 +1899,7 @@ extended coverage under this section may not extend beyond the date which is 36 
 
 The date of enactment of this paragraph, referred to in subsec. (d)(4)(B), is the date of enactment of Pub. L. 102–484, which was approved Oct. 23, 1992.
 
-Section 4421 of the Atomic Energy Defense Act, referred to in subsec. (d)(5)(A), was classified to section 2601 of Title 50, War and National Defense, prior to repeal by Pub. L. 113–66, div. C, title XXXI, § 3146(e)(10), Dec. 26, 2013, 127 Stat. 1077.
+Section 4421 of the Atomic Energy Defense Act, referred to in subsec. (d)(5)(A), was classified to section 2601 of Title 50, War and National Defense, prior to repeal by Pub. L. 113–66, div. C, title XXXI, § 3146(e)(10), Dec. 26, 2013, 127 Stat. 1077.
 
 The date of the enactment of this paragraph, referred to in subsec. (d)(5)(B), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
@@ -1907,69 +1907,69 @@ The date of enactment of this paragraph, referred to in subsec. (d)(6)(B), is th
 
 **Amendments**
 
-2013—Subsec. (d)(3)(A). Pub. L. 113–67, § 706(b)(1), inserted “for self plus one or” before “for self and family”.
+2013—Subsec. (d)(3)(A). Pub. L. 113–67, § 706(b)(1), inserted “for self plus one or” before “for self and family”.
 
-Subsec. (f)(3)(A). Pub. L. 113–67, § 706(b)(2), substituted “based on such person’s separation from service under a self plus one enrollment that covered the individual or under a self and family enrollment” for “for self and family based on such person’s separation from service”.
+Subsec. (f)(3)(A). Pub. L. 113–67, § 706(b)(2), substituted “based on such person’s separation from service under a self plus one enrollment that covered the individual or under a self and family enrollment” for “for self and family based on such person’s separation from service”.
 
 2011—Subsec. (d)(4)(B). Pub. L. 112–81 substituted “December 31, 2016” for “December 31, 2011” in cls. (i) and (ii) and substituted “February 1, 2017” for “February 1, 2012” in cl. (ii).
 
-2010—Subsec. (d)(4)(B)(i). Pub. L. 111–242, § 151(1), as added by Pub. L. 111–322, substituted “December 31, 2011” for “October 1, 2010”.
+2010—Subsec. (d)(4)(B)(i). Pub. L. 111–242, § 151(1), as added by Pub. L. 111–322, substituted “December 31, 2011” for “October 1, 2010”.
 
-Subsec. (d)(4)(B)(ii). Pub. L. 111–242, § 151(2), as added by Pub. L. 111–322, substituted “February 1, 2012” for “February 1, 2011” and “December 31, 2011” for “October 1, 2010”.
+Subsec. (d)(4)(B)(ii). Pub. L. 111–242, § 151(2), as added by Pub. L. 111–322, substituted “February 1, 2012” for “February 1, 2011” and “December 31, 2011” for “October 1, 2010”.
 
-2008—Subsec. (d)(1)(A). Pub. L. 110–422, § 615(b), substituted “(4), (5), and (6)” for “(4) and (5)” in introductory provisions.
+2008—Subsec. (d)(1)(A). Pub. L. 110–422, § 615(b), substituted “(4), (5), and (6)” for “(4) and (5)” in introductory provisions.
 
-Subsec. (d)(6). Pub. L. 110–422, § 615(a), added par. (6).
+Subsec. (d)(6). Pub. L. 110–422, § 615(a), added par. (6).
 
-2006—Subsec. (d)(4)(B)(i). Pub. L. 109–163, § 1101(1), substituted “October 1, 2010” for “October 1, 2006”.
+2006—Subsec. (d)(4)(B)(i). Pub. L. 109–163, § 1101(1), substituted “October 1, 2010” for “October 1, 2006”.
 
-Subsec. (d)(4)(B)(ii). Pub. L. 109–163, § 1101(2), substituted “February 1, 2011” for “February 1, 2007” and “October 1, 2010” for “October 1, 2006”.
+Subsec. (d)(4)(B)(ii). Pub. L. 109–163, § 1101(2), substituted “February 1, 2011” for “February 1, 2007” and “October 1, 2010” for “October 1, 2006”.
 
-2004—Subsec. (a). Pub. L. 108–375, § 1101(a)(1), struck out “paragraph (1) or (2) of” after “Any individual described in”.
+2004—Subsec. (a). Pub. L. 108–375, § 1101(a)(1), struck out “paragraph (1) or (2) of” after “Any individual described in”.
 
-Subsec. (b)(3). Pub. L. 108–375, § 1101(a)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 108–375, § 1101(a)(2), added par. (3).
 
-Subsec. (e)(1)(C). Pub. L. 108–375, § 1101(a)(4), added subpar. (C).
+Subsec. (e)(1)(C). Pub. L. 108–375, § 1101(a)(4), added subpar. (C).
 
-2003—Subsec. (d)(5)(A). Pub. L. 108–136, § 3141(m)(3), substituted “section 4421 of the Atomic Energy Defense Act” for “section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)”.
+2003—Subsec. (d)(5)(A). Pub. L. 108–136, § 3141(m)(3), substituted “section 4421 of the Atomic Energy Defense Act” for “section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)”.
 
-2002—Subsec. (d)(4)(B)(i). Pub. L. 107–314, § 1103(1), substituted “2006” for “2003”.
+2002—Subsec. (d)(4)(B)(i). Pub. L. 107–314, § 1103(1), substituted “2006” for “2003”.
 
-Subsec. (d)(4)(B)(ii). Pub. L. 107–314, § 1103(2), substituted “2007” and “2006” for “2004” and “2003”, respectively.
+Subsec. (d)(4)(B)(ii). Pub. L. 107–314, § 1103(2), substituted “2007” and “2006” for “2004” and “2003”, respectively.
 
-2000—Subsec. (d)(5)(A). Pub. L. 107–314, § 4603(h), formerly Pub. L. 106–398, § 1 [div. C, title XXXI, § 3136(h)], as renumbered by Pub. L. 108–136, § 3141(i)(4)(A)–(C), in introductory provisions, inserted “, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)” after “readjustment”.
+2000—Subsec. (d)(5)(A). Pub. L. 107–314, § 4603(h), formerly Pub. L. 106–398, § 1 [div. C, title XXXI, § 3136(h)], as renumbered by Pub. L. 108–136, § 3141(i)(4)(A)–(C), in introductory provisions, inserted “, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)” after “readjustment”.
 
-1999—Subsec. (d)(1)(A). Pub. L. 106–117, § 1106(1), substituted “paragraphs (4) and (5)” for “paragraph (4)” in introductory provisions.
+1999—Subsec. (d)(1)(A). Pub. L. 106–117, § 1106(1), substituted “paragraphs (4) and (5)” for “paragraph (4)” in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 106–117, § 1106(2), substituted “(1), (4), or (5)” for “(1) or (4)”.
+Subsec. (d)(2). Pub. L. 106–117, § 1106(2), substituted “(1), (4), or (5)” for “(1) or (4)”.
 
-Subsec. (d)(4)(A). Pub. L. 106–65, § 3244, inserted “, or the Department of Energy due to a reduction in force resulting from the establishment of the National Nuclear Security Administration” after “reduction in force” in introductory provisions.
+Subsec. (d)(4)(A). Pub. L. 106–65, § 3244, inserted “, or the Department of Energy due to a reduction in force resulting from the establishment of the National Nuclear Security Administration” after “reduction in force” in introductory provisions.
 
-Subsec. (d)(4)(B). Pub. L. 106–65, § 1104(c), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (d)(4)(B). Pub. L. 106–65, § 1104(c), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) October 1, 1999; or
 
 “(ii) February 1, 2000, if specific notice of such separation was given to such individual before October 1, 1999.”
 
-Subsec. (d)(5). Pub. L. 106–117, § 1106(3), added par. (5).
+Subsec. (d)(5). Pub. L. 106–117, § 1106(3), added par. (5).
 
-1996—Subsec. (d)(4)(A). Pub. L. 104–106, § 1036(1), inserted “, or a voluntary separation from a surplus position,” after “an involuntary separation from a position” in introductory provisions.
+1996—Subsec. (d)(4)(A). Pub. L. 104–106, § 1036(1), inserted “, or a voluntary separation from a surplus position,” after “an involuntary separation from a position” in introductory provisions.
 
-Subsec. (d)(4)(C). Pub. L. 104–106, § 1036(2), added subpar. (C).
+Subsec. (d)(4)(C). Pub. L. 104–106, § 1036(2), added subpar. (C).
 
 1994—Subsec. (d)(4)(B). Pub. L. 103–337 substituted “October 1, 1999” for “October 1, 1997” in cls. (i) and (ii) and “February 1, 2000” for “February 1, 1998” in cl. (ii).
 
-1992—Subsec. (d)(1)(A). Pub. L. 102–484, § 4438(a)(1), substituted “Except as provided in paragraph (4), an individual” for “An individual”.
+1992—Subsec. (d)(1)(A). Pub. L. 102–484, § 4438(a)(1), substituted “Except as provided in paragraph (4), an individual” for “An individual”.
 
-Subsec. (d)(2). Pub. L. 102–484, § 4438(a)(2), substituted “in accordance with paragraph (1) or (4), as the case may be)” for “in accordance with paragraph (1))”.
+Subsec. (d)(2). Pub. L. 102–484, § 4438(a)(2), substituted “in accordance with paragraph (1) or (4), as the case may be)” for “in accordance with paragraph (1))”.
 
-Subsec. (d)(4). Pub. L. 102–484, § 4438(a)(3), added par. (4).
+Subsec. (d)(4). Pub. L. 102–484, § 4438(a)(3), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–375, div. A, title XI, § 1101(c), Oct. 28, 2004, 118 Stat. 2072, provided that: “The amendments made by this section [amending this section and section 8906 of this title] shall apply with respect to Federal employees called or ordered to active duty on or after September 14, 2001.”
+Pub. L. 108–375, div. A, title XI, § 1101(c), Oct. 28, 2004, 118 Stat. 2072, provided that: “The amendments made by this section [amending this section and section 8906 of this title] shall apply with respect to Federal employees called or ordered to active duty on or after September 14, 2001.”
 
 **Effective Date of 1999 Amendment**
 
@@ -1981,9 +1981,9 @@ Section applicable with respect to any calendar year beginning, and contracts en
 
 **Source of Payments**
 
-Pub. L. 102–484, div. D, title XLIV, § 4438(b)(1), Oct. 23, 1992, 106 Stat. 2725, provided that: “Any amount which becomes payable by an agency as a result of the enactment of subsection (a) [amending this section] shall be paid out of funds or appropriations available for salaries and expenses of such agency.”
+Pub. L. 102–484, div. D, title XLIV, § 4438(b)(1), Oct. 23, 1992, 106 Stat. 2725, provided that: “Any amount which becomes payable by an agency as a result of the enactment of subsection (a) [amending this section] shall be paid out of funds or appropriations available for salaries and expenses of such agency.”
 
-## § 8906. Contributions
+## § 8906. Contributions
 
 **(a)**
 
@@ -2073,7 +2073,7 @@ Pub. L. 102–484, div. D, title XLIV, § 4438(b)(1), Oct. 23, 1992, 106 Stat.
 
 **(i)** An annuitant whose annuity is insufficient to cover the withholdings required for enrollment in a particular health benefits plan may enroll (or remain enrolled) in such plan, notwithstanding any other provision of this section, if the annuitant elects, under conditions prescribed by regulations of the Office, to pay currently into the Employees Health Benefits Fund, through the retirement system that administers the annuitant’s health benefits enrollment, an amount equal to the withholdings that would otherwise be required under this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, § 1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, § 1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, § 1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, § 3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, § 4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, § 906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, § 2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV, § 15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, § 4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, § 1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, § 7102(a), (b), Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, § 2(78), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–186, title II, § 215(19), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 422], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 105–33, title VII, § 7002(a), Aug. 5, 1997, 111 Stat. 662; Pub. L. 105–261, div. A, title VII, § 721(b)(2), (3), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 107–107, div. A, title V, § 519(a), (b), Dec. 28, 2001, 115 Stat. 1096; Pub. L. 108–375, div. A, title XI, § 1101(b), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–435, title VIII, § 803(a)(1)(A), Dec. 20, 2006, 120 Stat. 3251; Pub. L. 113–67, div. A, title VII, § 706(c), Dec. 26, 2013, 127 Stat. 1194.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 604; Pub. L. 90–83, § 1(96), Sept. 11, 1967, 81 Stat. 219; Pub. L. 91–418, § 1(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–246, § 1, Jan. 31, 1974, 88 Stat. 3; Pub. L. 94–310, § 3(a), June 15, 1976, 90 Stat. 687; Pub. L. 95–437, § 4(c)(2)(A), Oct. 10, 1978, 92 Stat. 1059; Pub. L. 95–454, title IX, § 906(a)(15), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1226, 1227; Pub. L. 96–54, § 2(a)(53), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–272, title XV, § 15202(b), Apr. 7, 1986, 100 Stat. 334; Pub. L. 101–239, title IV, § 4003(a), Dec. 19, 1989, 103 Stat. 2135; Pub. L. 101–303, § 1(a), (b), May 29, 1990, 104 Stat. 250; Pub. L. 101–508, title VII, § 7102(a), (b), Nov. 5, 1990, 104 Stat. 1388–333; Pub. L. 102–378, § 2(78), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–186, title II, § 215(19), Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–208, div. A, title I, § 101(f) [title IV, § 422], Sept. 30, 1996, 110 Stat. 3009–314, 3009–343; Pub. L. 105–33, title VII, § 7002(a), Aug. 5, 1997, 111 Stat. 662; Pub. L. 105–261, div. A, title VII, § 721(b)(2), (3), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 107–107, div. A, title V, § 519(a), (b), Dec. 28, 2001, 115 Stat. 1096; Pub. L. 108–375, div. A, title XI, § 1101(b), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–435, title VIII, § 803(a)(1)(A), Dec. 20, 2006, 120 Stat. 3251; Pub. L. 113–67, div. A, title VII, § 706(c), Dec. 26, 2013, 127 Stat. 1194.)
 
 **Historical and Revision Notes**
 
@@ -2081,8 +2081,8 @@ Pub. L. 102–484, div. D, title XLIV, § 4438(b)(1), Oct. 23, 1992, 106 Stat.
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3006. | Sept. 28, 1959, Pub. L. 86–382, § 7, 73 Stat. 713. |
-|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1(10), (11), 78 Stat. 165. |
+|  | 5 U.S.C. 3006. | Sept. 28, 1959, Pub. L. 86–382, § 7, 73 Stat. 713. |
+|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1(10), (11), 78 Stat. 165. |
 
 In subsection (f)(1), the words “in the case of employees generally” are inserted for clarity.
 
@@ -2094,7 +2094,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8906(a) 8906(b) 8906(e)(2) | 5 App.: 3006(a)(1). 5 App.: 3006(a)(2). 5 App.: 3006(b)(2). | July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303. |
+| 8906(a) 8906(b) 8906(e)(2) | 5 App.: 3006(a)(1). 5 App.: 3006(a)(2). 5 App.: 3006(b)(2). | July 18, 1966, Pub. L. 89–504, §§ 406(b), 602, 80 Stat. 298, 303. |
 
 In subsection (a), the words “subsection (b) of this section”, “this chapter”, and “subsection (c) of this section” are substituted for “paragraph (2) of this subsection”, “this Act”, and “paragraph (3)”, respectively, to reflect the codification of title 5, United States Code.
 
@@ -2110,17 +2110,17 @@ In subsection (e)(2), the words “as defined by section 8901 of this title” a
 
 2004—Subsec. (e)(3)(C). Pub. L. 108–375 substituted “24 months” for “18 months”.
 
-2001—Subsec. (e)(3). Pub. L. 107–107, § 519(a), added par. (3).
+2001—Subsec. (e)(3). Pub. L. 107–107, § 519(a), added par. (3).
 
-Subsec. (f). Pub. L. 107–107, § 519(b), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Government contributions for health benefits for an employee shall be paid—”.
+Subsec. (f). Pub. L. 107–107, § 519(b), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Government contributions for health benefits for an employee shall be paid—”.
 
-1998—Subsec. (b)(1). Pub. L. 105–261, § 721(b)(2)(A), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+1998—Subsec. (b)(1). Pub. L. 105–261, § 721(b)(2)(A), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
-Subsec. (b)(4). Pub. L. 105–261, § 721(b)(2)(B), added par. (4).
+Subsec. (b)(4). Pub. L. 105–261, § 721(b)(2)(B), added par. (4).
 
-Subsec. (g)(1). Pub. L. 105–261, § 721(b)(3)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+Subsec. (g)(1). Pub. L. 105–261, § 721(b)(3)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-Subsec. (g)(3). Pub. L. 105–261, § 721(b)(3)(B), added par. (3).
+Subsec. (g)(3). Pub. L. 105–261, § 721(b)(3)(B), added par. (3).
 
 1997—Subsec. (a). Pub. L. 105–33 added subsec. (a) and struck out former subsec. (a) which read as follows: “The Office of Personnel Management shall determine the average of the subscription charges in effect on the beginning date of each contract year with respect to self alone or self and family enrollments under this chapter, as applicable, for the highest level of benefits offered by—
 
@@ -2138,17 +2138,17 @@ Subsec. (b)(1). Pub. L. 105–33 added par. (1) and struck out former par. (1) w
 
 Subsec. (f)(3). Pub. L. 104–186 substituted “Chief Administrative Officer of the House of Representatives, from the applicable accounts of the House of Representatives” for “Clerk of the House of Representatives, from the contingent fund of the House”.
 
-1992—Subsec. (b)(3). Pub. L. 102–378, § 2(78)(A), inserted period after “Office)”.
+1992—Subsec. (b)(3). Pub. L. 102–378, § 2(78)(A), inserted period after “Office)”.
 
-Subsec. (c). Pub. L. 102–378, § 2(78)(B), substituted “and (except” for “and except”.
+Subsec. (c). Pub. L. 102–378, § 2(78)(B), substituted “and (except” for “and except”.
 
-1990—Subsec. (c). Pub. L. 101–303, § 1(b)(1), inserted “except as provided in subsection (i) of this section)” after “enrolled employee and”.
+1990—Subsec. (c). Pub. L. 101–303, § 1(b)(1), inserted “except as provided in subsection (i) of this section)” after “enrolled employee and”.
 
-Subsec. (d). Pub. L. 101–303, § 1(b)(2), inserted “(except as provided in subsection (i) of this section)” after “enrolled employee and”.
+Subsec. (d). Pub. L. 101–303, § 1(b)(2), inserted “(except as provided in subsection (i) of this section)” after “enrolled employee and”.
 
 Subsec. (g)(2). Pub. L. 101–508 designated existing provisions as subpar. (A), substituted “July 1, 1971,” for “October 1, 1986,” in two places, and added subpar. (B).
 
-Subsec. (i). Pub. L. 101–303, § 1(a), added subsec. (i).
+Subsec. (i). Pub. L. 101–303, § 1(a), added subsec. (i).
 
 1989—Subsec. (g)(2). Pub. L. 101–239 inserted “or for a survivor of such an individual or of an individual who died on or after October 1, 1986, while employed by the United States Postal Service,” after “1986,”.
 
@@ -2156,27 +2156,27 @@ Subsec. (i). Pub. L. 101–303, § 1(a), added subsec. (i).
 
 1979—Subsec. (b)(1). Pub. L. 96–54 substituted provisions setting forth adjustment amount of the Government contribution of equal to 60 percent of the average subscription charge under subsec. (a) and determinations respecting the commencement date of the adjustment, for provisions setting forth adjustment amounts of the Government contribution of equal to 50 percent of the average subscription charge under subsec. (a) for applicable pay periods beginning in 1974, and equal to 60 percent for pay periods beginning in 1975 and after, and determinations respecting the commencement date of the adjustment.
 
-1978—Subsec. (a). Pub. L. 95–454, § 906(a)(15), substituted “Office of Personnel Management” for “Commission” in introductory material, and “Office” for “Commission” in cls. (3) and (4).
+1978—Subsec. (a). Pub. L. 95–454, § 906(a)(15), substituted “Office of Personnel Management” for “Commission” in introductory material, and “Office” for “Commission” in cls. (3) and (4).
 
-Subsec. (b)(1). Pub. L. 95–437, § 4(c)(2)(A)(i), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+Subsec. (b)(1). Pub. L. 95–437, § 4(c)(2)(A)(i), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-Subsec. (b)(3). Pub. L. 95–454, § 906(a)(15), (c)(2)(F), substituted “Office” for “Commission”, and “3401” for “3391”.
+Subsec. (b)(3). Pub. L. 95–454, § 906(a)(15), (c)(2)(F), substituted “Office” for “Commission”, and “3401” for “3391”.
 
-Pub. L. 95–437, § 4(c)(2)(A)(ii), added par. (3).
+Pub. L. 95–437, § 4(c)(2)(A)(ii), added par. (3).
 
-Subsecs. (e)(1), (h). Pub. L. 95–454, § 906(a)(15), substituted “Office” for “Commission”.
+Subsecs. (e)(1), (h). Pub. L. 95–454, § 906(a)(15), substituted “Office” for “Commission”.
 
 1976—Subsec. (g). Pub. L. 94–310 provided for payment of Government contributions from annual appropriations which may be made available until expended.
 
-1974—Subsec. (a). Pub. L. 93–246, § 1(a), struck out introductory text “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, now incorporated in subsec. (b)(1) of this section, required Commission determination of average of subscription charges, and reenacted remainder of existing provisions, substituting “beginning date of each contract year” for “beginning date of the adjustment”.
+1974—Subsec. (a). Pub. L. 93–246, § 1(a), struck out introductory text “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, now incorporated in subsec. (b)(1) of this section, required Commission determination of average of subscription charges, and reenacted remainder of existing provisions, substituting “beginning date of each contract year” for “beginning date of the adjustment”.
 
-Subsec. (b)(1). Pub. L. 93–246, § 1(a), incorporated introductory text of former subsec. (a) reading “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, as initial text of provisions designated as subsec. (b)(1), substituted provision for amount of biweekly Government contribution equal to 50 percent of average subscription charge for applicable pay periods commencing in 1974 and 60 percent for applicable pay periods commencing in 1975, and annually thereafter, for former subsec. (a) provision for an amount equal to 40 percent of average of subscription charges and former subsec. (b) provision for 50 percent of subscription charge where the biweekly subscription charge was less than twice the Government contribution.
+Subsec. (b)(1). Pub. L. 93–246, § 1(a), incorporated introductory text of former subsec. (a) reading “Except as provided by subsection (b) of this section, the biweekly Government contribution for health benefits for employees or annuitants enrolled in health benefits plans under this chapter shall be adjusted”, as initial text of provisions designated as subsec. (b)(1), substituted provision for amount of biweekly Government contribution equal to 50 percent of average subscription charge for applicable pay periods commencing in 1974 and 60 percent for applicable pay periods commencing in 1975, and annually thereafter, for former subsec. (a) provision for an amount equal to 40 percent of average of subscription charges and former subsec. (b) provision for 50 percent of subscription charge where the biweekly subscription charge was less than twice the Government contribution.
 
-Subsec. (b)(2). Pub. L. 93–246, § 1(a), added par. (2).
+Subsec. (b)(2). Pub. L. 93–246, § 1(a), added par. (2).
 
-Subsec. (c). Pub. L. 93–246, § 1(b), struck out reference to subsec. (a).
+Subsec. (c). Pub. L. 93–246, § 1(b), struck out reference to subsec. (a).
 
-Subsec. (g). Pub. L. 93–246, § 1(c), substituted “by this section” for “by subsection (a) of this section”.
+Subsec. (g). Pub. L. 93–246, § 1(c), substituted “by this section” for “by subsection (a) of this section”.
 
 1970—Subsec. (a). Pub. L. 91–418, in increasing the Government contribution to the cost of health benefits insurance, substituted provision for adjustment of such contribution, beginning on the first day of the first pay period of each year, to an amount equal to 40 percent of the adjustment, with respect to self alone or self and family enrollments, as applicable, for the highest level of benefits offered by the service benefit plan, the indemnity benefit plan, the two employee organization plans, and the two comprehensive medical plans, for prior provision for a contribution, in addition to requirement of subsec. (c) of this section, of $1.62 if the enrollment is for self or $3.94 if the enrollment is for self and family.
 
@@ -2192,21 +2192,21 @@ Amendment by Pub. L. 108–375 applicable with respect to Federal employees call
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title V, § 519(c), Dec. 28, 2001, 115 Stat. 1096, provided that: “The amendments made by this section [amending this section] apply with respect to employees called to active duty on or after December 8, 1995, and an agency may make retroactive payments to such employees for premiums paid on or after such date.”
+Pub. L. 107–107, div. A, title V, § 519(c), Dec. 28, 2001, 115 Stat. 1096, provided that: “The amendments made by this section [amending this section] apply with respect to employees called to active duty on or after December 8, 1995, and an agency may make retroactive payments to such employees for premiums paid on or after such date.”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–33, title VII, § 7002(b), Aug. 5, 1997, 111 Stat. 662, provided that: “This section [amending this section] shall take effect on the first day of the contract year that begins in 1999. Nothing in this subsection shall prevent the Office of Personnel Management from taking any action, before such first day, which it considers necessary in order to ensure the timely implementation of this section.”
+Pub. L. 105–33, title VII, § 7002(b), Aug. 5, 1997, 111 Stat. 662, provided that: “This section [amending this section] shall take effect on the first day of the contract year that begins in 1999. Nothing in this subsection shall prevent the Office of Personnel Management from taking any action, before such first day, which it considers necessary in order to ensure the timely implementation of this section.”
 
 **Effective Date of 1990 Amendments**
 
-Pub. L. 101–508, title VII, § 7102(c), Nov. 5, 1990, 104 Stat. 1388–333, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1990, and shall apply with respect to amounts payable for periods beginning on or after that date.”
+Pub. L. 101–508, title VII, § 7102(c), Nov. 5, 1990, 104 Stat. 1388–333, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 1990, and shall apply with respect to amounts payable for periods beginning on or after that date.”
 
-Pub. L. 101–303, § 1(c), May 29, 1990, 104 Stat. 250, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [May 29, 1990]. Any annuitant whose enrollment was terminated at any time before such date on account of such annuitant’s annuity being insufficient to cover the amount of the required withholdings may, under regulations prescribed by the Office of Personnel Management, be prospectively reinstated in any available health benefits plan upon application of the annuitant.”
+Pub. L. 101–303, § 1(c), May 29, 1990, 104 Stat. 250, provided that: “The amendments made by this section [amending this section] shall take effect on the date of enactment of this Act [May 29, 1990]. Any annuitant whose enrollment was terminated at any time before such date on account of such annuitant’s annuity being insufficient to cover the amount of the required withholdings may, under regulations prescribed by the Office of Personnel Management, be prospectively reinstated in any available health benefits plan upon application of the annuitant.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title IV, § 4003(b), Dec. 19, 1989, 103 Stat. 2135, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1989, and shall apply with respect to amounts payable for periods beginning on or after that date.”
+Pub. L. 101–239, title IV, § 4003(b), Dec. 19, 1989, 103 Stat. 2135, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1989, and shall apply with respect to amounts payable for periods beginning on or after that date.”
 
 **Effective Date of 1979 Amendment**
 
@@ -2222,17 +2222,17 @@ Amendment by Pub. L. 94–310 effective Oct. 1, 1976, see section 4 of Pub. L. 9
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–246, § 4(a), Jan. 31, 1974, 88 Stat. 4, provided that: “The first section of this Act [amending this section] shall take effect on the first day of the first applicable pay period which begins on or after January 1, 1974.”
+Pub. L. 93–246, § 4(a), Jan. 31, 1974, 88 Stat. 4, provided that: “The first section of this Act [amending this section] shall take effect on the first day of the first applicable pay period which begins on or after January 1, 1974.”
 
-Pub. L. 93–246, § 4(d), Jan. 31, 1974, 88 Stat. 4, provided that: “The determination of the average of subscription charges and the adjustment of the Government contributions for 1973, under section 8906 of title 5, United States Code, as amended by the first section of this Act [amending this section], shall take effect on the first day of the first applicable pay period which begins on or after the thirtieth day following the date of enactment of this Act [Jan. 31, 1974].”
+Pub. L. 93–246, § 4(d), Jan. 31, 1974, 88 Stat. 4, provided that: “The determination of the average of subscription charges and the adjustment of the Government contributions for 1973, under section 8906 of title 5, United States Code, as amended by the first section of this Act [amending this section], shall take effect on the first day of the first applicable pay period which begins on or after the thirtieth day following the date of enactment of this Act [Jan. 31, 1974].”
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–418, § 1(b), Sept. 25, 1970, 84 Stat. 869, provided that: “The amendment made by subsection (a) of this section [amending this section] shall become effective at the beginning of the first applicable pay period which commences after December 31, 1970.”
+Pub. L. 91–418, § 1(b), Sept. 25, 1970, 84 Stat. 869, provided that: “The amendment made by subsection (a) of this section [amending this section] shall become effective at the beginning of the first applicable pay period which commences after December 31, 1970.”
 
 **Payments by Postal Service Relating to Corrected Calculations for Past Health Benefits**
 
-Pub. L. 103–66, title XI, § 11101(b), Aug. 10, 1993, 107 Stat. 413, provided that:
+Pub. L. 103–66, title XI, § 11101(b), Aug. 10, 1993, 107 Stat. 413, provided that:
 
 > “In addition to any other payments required under section 8906(g)(2) of title 5, United States Code, or any other provision of law, the United States Postal Service shall pay into the Employees Health Benefits Fund a total of $348,000,000, of which—
 
@@ -2244,7 +2244,7 @@ Pub. L. 103–66, title XI, § 11101(b), Aug. 10, 1993, 107 Stat. 413, provide
 
 **Computation of Government Contributions to Federal Employees Health Benefits Program for 1990 Through 1993**
 
-Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508, title VII, § 7002(e), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 103–66, title XI, § 11005, Aug. 10, 1993, 107 Stat. 412, provided:
+Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508, title VII, § 7002(e), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 103–66, title XI, § 11005, Aug. 10, 1993, 107 Stat. 412, provided:
 
 > “That
 
@@ -2272,21 +2272,21 @@ Pub. L. 101–76, Aug. 11, 1989, 103 Stat. 556, as amended by Pub. L. 101–508,
 
 **Contributions by United States Postal Service to Employees Health Benefits Fund**
 
-Pub. L. 100–203, title VI, § 6003, Dec. 22, 1987, 101 Stat. 1330–277, directed Postal Service to pay $160,000,000 in fiscal year 1988 and $270,000,000 in fiscal year 1989 into Employee Health Benefits Fund in addition to any amount deposited into Fund pursuant to this section in each such fiscal year.
+Pub. L. 100–203, title VI, § 6003, Dec. 22, 1987, 101 Stat. 1330–277, directed Postal Service to pay $160,000,000 in fiscal year 1988 and $270,000,000 in fiscal year 1989 into Employee Health Benefits Fund in addition to any amount deposited into Fund pursuant to this section in each such fiscal year.
 
 **Employees Serving on Part-Time Career Employment Basis on October 10, 1978**
 
-Pub. L. 95–437, § 4(c)(2)(B), Oct. 10, 1978, 92 Stat. 1059, provided that: “The amendments made by subparagraph (A) [amending subsec. (b)(1) and (3) of this section] shall not apply with respect to any employee serving in a position on a part-time career employment basis on the date of the enactment of this Act [Oct. 10, 1978] for such period as the employee continues to serve without a break in service in that or any other position on such part-time basis.”
+Pub. L. 95–437, § 4(c)(2)(B), Oct. 10, 1978, 92 Stat. 1059, provided that: “The amendments made by subparagraph (A) [amending subsec. (b)(1) and (3) of this section] shall not apply with respect to any employee serving in a position on a part-time career employment basis on the date of the enactment of this Act [Oct. 10, 1978] for such period as the employee continues to serve without a break in service in that or any other position on such part-time basis.”
 
 **Calculation and Payment by Government of Contributions to Contingency Reserves of All Health Benefit Plans**
 
-Pub. L. 97–346, § 4, Oct. 15, 1982, 96 Stat. 1650, directed Office of Personnel Management to determine amount by which Government contribution under 5 U.S.C. 8906(b) for the 1983 contract year was less than the Government contribution which would have been determined under such section for such contract year if Government contribution had been calculated by using the two employee organization plans which in 1981 satisfied the standard set forth in 5 U.S.C. 8906(a)(3) directed Government to pay amount of difference thus determined to contingency reserves of all health benefits plans for contract year 1983 in proportion to estimated number of individuals enrolled in such plans during 1983, and directed such payments be paid by appropriate agencies (including Postal Service and Postal Rate Commission) from appropriations referred to in 5 U.S.C. 8906(f) and (g) in same manner as if such payments were Government contributions, and in amounts determined appropriate by Office of Personnel Management.
+Pub. L. 97–346, § 4, Oct. 15, 1982, 96 Stat. 1650, directed Office of Personnel Management to determine amount by which Government contribution under 5 U.S.C. 8906(b) for the 1983 contract year was less than the Government contribution which would have been determined under such section for such contract year if Government contribution had been calculated by using the two employee organization plans which in 1981 satisfied the standard set forth in 5 U.S.C. 8906(a)(3) directed Government to pay amount of difference thus determined to contingency reserves of all health benefits plans for contract year 1983 in proportion to estimated number of individuals enrolled in such plans during 1983, and directed such payments be paid by appropriate agencies (including Postal Service and Postal Rate Commission) from appropriations referred to in 5 U.S.C. 8906(f) and (g) in same manner as if such payments were Government contributions, and in amounts determined appropriate by Office of Personnel Management.
 
 **Election of Health Benefits During Period of Service as Officer or Employee of an Employee Organization; Contributions Into Employees Health Benefits Fund; Non-Election; Regulations**
 
 Election of health benefits within sixty days after July 18, 1966, by certain employees on leave without pay for service as officer or employee of an employee organization, contributions into Fund, effect of non-election of benefits, and regulations, see note set out under section 8706 of this title.
 
-## § 8906a. Temporary employees
+## § 8906a. Temporary employees
 
 **(a)**
 
@@ -2304,15 +2304,15 @@ Election of health benefits within sixty days after July 18, 1966, by certain em
 
 **(2)** the employing agency of any such temporary employee shall not pay the Government contribution under the provisions of section 8906.
 
-(Added Pub. L. 100–654, title III, § 301(a), Nov. 14, 1988, 102 Stat. 3846.)
+(Added Pub. L. 100–654, title III, § 301(a), Nov. 14, 1988, 102 Stat. 3846.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–654, title III, § 301(d), Nov. 14, 1988, 102 Stat. 3847, provided that: “The amendments made by this section [enacting this section and amending section 8913 of this title] shall be effective 120 days after the date of enactment of this section [Nov. 14, 1988].”
+Pub. L. 100–654, title III, § 301(d), Nov. 14, 1988, 102 Stat. 3847, provided that: “The amendments made by this section [enacting this section and amending section 8913 of this title] shall be effective 120 days after the date of enactment of this section [Nov. 14, 1988].”
 
-## § 8907. Information to individuals eligible to enroll
+## § 8907. Information to individuals eligible to enroll
 
 **(a)** The Office of Personnel Management shall make available to each individual eligible to enroll in a health benefits plan under this chapter such information, in a form acceptable to the Office after consultation with the carrier, as may be necessary to enable the individual to exercise an informed choice among the types of plans described by sections 8903 and 8903a of this title.
 
@@ -2324,13 +2324,13 @@ Pub. L. 100–654, title III, § 301(d), Nov. 14, 1988, 102 Stat. 3847, provid
 
 **(3)** principal provisions of the plan affecting the enrollee and any eligible family members.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, § 3(5), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, § 2(d), June 17, 1985, 99 Stat. 94.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, § 3(5), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, § 2(d), June 17, 1985, 99 Stat. 94.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3009(d). | Sept. 28, 1959, Pub. L. 86–382, § 10(d), 73 Stat. 715. |
+|  | 5 U.S.C. 3009(d). | Sept. 28, 1959, Pub. L. 86–382, § 10(d), 73 Stat. 715. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -2340,15 +2340,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1985—Subsec. (a). Pub. L. 99–53 inserted reference to section 8903a of this title.
 
-1984—Pub. L. 98–615, § 3(5)(C), substituted “individuals eligible to enroll” for “employees” in section catchline.
+1984—Pub. L. 98–615, § 3(5)(C), substituted “individuals eligible to enroll” for “employees” in section catchline.
 
-Subsec. (a). Pub. L. 98–615, § 3(5)(A), substituted “individual” for “employee” in two places.
+Subsec. (a). Pub. L. 98–615, § 3(5)(A), substituted “individual” for “employee” in two places.
 
-Subsec. (b). Pub. L. 98–615, § 3(5)(B)(i), substituted “enrollee” for “employee enrolled” in provisions preceding par. (1).
+Subsec. (b). Pub. L. 98–615, § 3(5)(B)(i), substituted “enrollee” for “employee enrolled” in provisions preceding par. (1).
 
-Subsec. (b)(1). Pub. L. 98–615, § 3(5)(B)(ii), substituted “enrollee or the enrollee and any eligible family members” for “employee or the employee and members of his family”.
+Subsec. (b)(1). Pub. L. 98–615, § 3(5)(B)(ii), substituted “enrollee or the enrollee and any eligible family members” for “employee or the employee and members of his family”.
 
-Subsec. (b)(3). Pub. L. 98–615, § 3(5)(B)(iii), substituted “the enrollee and any eligible family members” for “the employee or members of his family”.
+Subsec. (b)(3). Pub. L. 98–615, § 3(5)(B)(iii), substituted “the enrollee and any eligible family members” for “the employee or members of his family”.
 
 1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
@@ -2362,7 +2362,7 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 8908. Coverage of restored employees and survivor or disability annuitants
+## § 8908. Coverage of restored employees and survivor or disability annuitants
 
 **(a)** An employee enrolled in a health benefits plan under this chapter who is removed or suspended without pay and later reinstated or restored to duty on the ground that the removal or suspension was unjustified or unwarranted may, at his option, enroll as a new employee or have his coverage restored, with appropriate adjustments made in contributions and claims, to the same extent and effect as though the removal or suspension had not taken place.
 
@@ -2372,14 +2372,14 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(d)** A surviving child whose survivor annuity under section 8341(e) or 8443(b) was terminated and is later restored under paragraph (4) of section 8341(e) or the last sentence of section 8443(b) may, under regulations prescribed by the Office, enroll in a health benefits plan described by section 8903 or 8903a if such surviving child was covered by any such plan immediately before such annuity was terminated.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 94–342, § 1(a), July 6, 1976, 90 Stat. 808; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 99–53, §§ 2(a), 3(a)(1), (2)(A), June 17, 1985, 99 Stat. 94, 95; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 633(a)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 94–342, § 1(a), July 6, 1976, 90 Stat. 808; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 99–53, §§ 2(a), 3(a)(1), (2)(A), June 17, 1985, 99 Stat. 94, 95; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 633(a)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3009(c). | Sept. 28, 1959, Pub. L. 86–382, § 10(c), 73 Stat. 715. |
-|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1 (less (1)–(13)), 78 Stat. 165. |
+|  | 5 U.S.C. 3009(c). | Sept. 28, 1959, Pub. L. 86–382, § 10(c), 73 Stat. 715. |
+|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1 (less (1)–(13)), 78 Stat. 165. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -2389,11 +2389,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1996—Subsec. (d). Pub. L. 104–208 added subsec. (d).
 
-1985—Pub. L. 99–53, § 3(a)(2)(A), inserted “or disability” after “and survivor” in section catchline.
+1985—Pub. L. 99–53, § 3(a)(2)(A), inserted “or disability” after “and survivor” in section catchline.
 
-Subsec. (b). Pub. L. 99–53, § 2(a), inserted reference to section 8903a of this title.
+Subsec. (b). Pub. L. 99–53, § 2(a), inserted reference to section 8903a of this title.
 
-Subsec. (c). Pub. L. 99–53, § 3(a)(1), added subsec. (c).
+Subsec. (c). Pub. L. 99–53, § 3(a)(1), added subsec. (c).
 
 1978—Subsec. (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission”.
 
@@ -2403,7 +2403,7 @@ Subsec. (c). Pub. L. 99–53, § 3(a)(1), added subsec. (c).
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–208 applicable with respect to termination of marriage taking effect before, on, or after Sept. 30, 1996, except that benefits are payable only with respect to amounts accruing for periods beginning on first day of month beginning after the later of termination of marriage or Sept. 30, 1996, see section 101(f) [title VI, § 633(b)] of Pub. L. 104–208, set out as a note under section 8341 of this title.
+Amendment by Pub. L. 104–208 applicable with respect to termination of marriage taking effect before, on, or after Sept. 30, 1996, except that benefits are payable only with respect to amounts accruing for periods beginning on first day of month beginning after the later of termination of marriage or Sept. 30, 1996, see section 101(f) [title VI, § 633(b)] of Pub. L. 104–208, set out as a note under section 8341 of this title.
 
 **Effective Date of 1978 Amendment**
 
@@ -2411,13 +2411,13 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–342, § 2, July 6, 1976, 90 Stat. 808, provided that: “The amendments made by the first section of this Act [amending this section] shall take effect on October 1, 1976, or on the date of the enactment of this Act [July 6, 1976], whichever date is later. Such amendments shall apply with respect to individuals whose survivor annuities are restored before, on, or after such date.”
+Pub. L. 94–342, § 2, July 6, 1976, 90 Stat. 808, provided that: “The amendments made by the first section of this Act [amending this section] shall take effect on October 1, 1976, or on the date of the enactment of this Act [July 6, 1976], whichever date is later. Such amendments shall apply with respect to individuals whose survivor annuities are restored before, on, or after such date.”
 
 **Insurance Coverage for Restored Disability Annuitants**
 
 For provisions directing that subsec. (c) of this section shall apply with respect to any individual whose disability annuity is or was restored under section 8337(e) of this title after December 31, 1983, directing that the Office of Personnel Management notify each individual of any rights which such individual may have under subsec. (c) of this section, including any procedures or deadlines which might apply with respect to the exercise of those rights, directing that such notification be provided to any individual who, as of the 90th day after June 17, 1985, is receiving a disability annuity which was restored to such individual under section 8337(e) of this title after December 31, 1983, directing that nothing in subsec. (c) of this section be construed to authorize coverage under this chapter in the case of any individual who becomes enrolled in a health benefits plan under subsec. (c) of this section for any period before the date as of which such individual becomes so enrolled, and directing that such rule of construction apply with respect to any individual receiving a disability annuity which is or was restored under section 8337(e) of this title after December 31, 1983, and before the expiration of the 90-day period beginning on June 17, 1985, see section 3(c) of Pub. L. 99–53, set out as a note under section 8706 of this title.
 
-## § 8909. Employees Health Benefits Fund
+## § 8909. Employees Health Benefits Fund
 
 **(a)** There is in the Treasury of the United States an Employees Health Benefits Fund which is administered by the Office of Personnel Management. The contributions of enrollees and the Government described by section 8906 of this title shall be paid into the Fund. The Fund is available—
 
@@ -2457,17 +2457,17 @@ The Office, from time to time and in amounts it considers appropriate, may trans
 
 **(g)** The fund described in subsection (a) is available to pay costs that the Office incurs for activities associated with implementation of the demonstration project under section 1108 of title 10.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, § 3(6), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, § 2(e), (f), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, § 101, Feb. 27, 1986, 100 Stat. 14; Pub. L. 100–654, title II, § 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, § 7002(b), (c), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 105–261, div. A, title VII, § 721(b)(4), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 105–266, § 6(b)(1), Oct. 19, 1998, 112 Stat. 2369; Pub. L. 119–21, title IX, § 90101(g), July 4, 2025, 139 Stat. 363.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 605; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, § 3(6), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, § 2(e), (f), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, § 101, Feb. 27, 1986, 100 Stat. 14; Pub. L. 100–654, title II, § 202(a), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 101–508, title VII, § 7002(b), (c), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 105–261, div. A, title VII, § 721(b)(4), Oct. 17, 1998, 112 Stat. 2065; Pub. L. 105–266, § 6(b)(1), Oct. 19, 1998, 112 Stat. 2369; Pub. L. 119–21, title IX, § 90101(g), July 4, 2025, 139 Stat. 363.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3007. | Sept. 28, 1959, Pub. L. 86–382, § 8, 73 Stat. 714. |
-|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1(12), (13), 78 Stat. 165. |
-|  | 5 U.S.C. 3008(b). | Sept. 23, 1959, Pub. L. 86–382, § 9(b), 73 Stat. 715. |
+|  | 5 U.S.C. 3007. | Sept. 28, 1959, Pub. L. 86–382, § 8, 73 Stat. 714. |
+|  |  | Mar. 17, 1964, Pub. L. 88–284, § 1(12), (13), 78 Stat. 165. |
+|  | 5 U.S.C. 3008(b). | Sept. 23, 1959, Pub. L. 86–382, § 9(b), 73 Stat. 715. |
 
-In subsection (a), the words “hereby created” are omitted as executed. The words “hereinafter referred to as the ‘Fund’ ” are omitted as unnecessary. The words “to reimburse the Employees Health Benefits Fund for sums expended by the Commission in administering the provisions of this chapter for the fiscal years 1960 and 1961” in former section 3008(b) are omitted as executed.
+In subsection (a), the words “hereby created” are omitted as executed. The words “hereinafter referred to as the ‘Fund’ ” are omitted as unnecessary. The words “to reimburse the Employees Health Benefits Fund for sums expended by the Commission in administering the provisions of this chapter for the fiscal years 1960 and 1961” in former section 3008(b) are omitted as executed.
 
 In subsection (d), the requirement that the assets and liabilities of plans of organizations that have been merged be transferred at the beginning of the contract term next following the date of the merger or enactment of this subsection is omitted as executed. The next beginning contract term referred to was November 1, 1964, and the transfers have been made. In the last sentence, the word “hereafter” is omitted as unnecessary.
 
@@ -2483,29 +2483,29 @@ The FEHB Protection Act of 2025, referred to in subsec. (b)(2), is section 90101
 
 **Amendments**
 
-2025—Subsec. (a)(2). Pub. L. 119–21, § 90101(g)(1), inserted “, except that the amounts required to be set aside under subsection (b)(2) shall not be subject to the limitations that may be specified annually by Congress” before period at end.
+2025—Subsec. (a)(2). Pub. L. 119–21, § 90101(g)(1), inserted “, except that the amounts required to be set aside under subsection (b)(2) shall not be subject to the limitations that may be specified annually by Congress” before period at end.
 
-Subsec. (b)(2), (3). Pub. L. 119–21, § 90101(g)(2), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (b)(2), (3). Pub. L. 119–21, § 90101(g)(2), added par. (2) and redesignated former par. (2) as (3).
 
 1998—Subsec. (e). Pub. L. 105–266 designated existing provisions as par. (1) and added pars. (2) and (3).
 
 Subsec. (g). Pub. L. 105–261 added subsec. (g).
 
-1990—Subsec. (a). Pub. L. 101–508, § 7002(b), inserted at end “Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).”
+1990—Subsec. (a). Pub. L. 101–508, § 7002(b), inserted at end “Payments from the Fund to a plan participating in a letter-of-credit arrangement under this chapter shall, in connection with any payment or reimbursement to be made by such plan for a health service or supply, be made, to the maximum extent practicable, on a checks-presented basis (as defined under regulations of the Department of the Treasury).”
 
-Subsec. (f). Pub. L. 101–508, § 7002(c), added subsec. (f).
+Subsec. (f). Pub. L. 101–508, § 7002(c), added subsec. (f).
 
 1988—Subsec. (d). Pub. L. 100–654 substituted “former spouse, or person having continued coverage under section 8905a of this title” for “or former spouse” in two places.
 
 1986—Subsec. (b). Pub. L. 99–251 substituted “enrollees” for “employees” in last sentence.
 
-1985—Subsec. (d). Pub. L. 99–53, § 2(e), substituted “section 8903(3) or 8903a” for “section 8903(3)” and inserted provision directing that if the successor organization is an organization described in section 8901(8)(B) of this title, any transferred employee, annuitant, or former spouse may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless the individual is a full member of such organization (as determined under section 8903a(d) of this title).
+1985—Subsec. (d). Pub. L. 99–53, § 2(e), substituted “section 8903(3) or 8903a” for “section 8903(3)” and inserted provision directing that if the successor organization is an organization described in section 8901(8)(B) of this title, any transferred employee, annuitant, or former spouse may not remain enrolled in the plan after the end of the contract term in which the merger occurs unless the individual is a full member of such organization (as determined under section 8903a(d) of this title).
 
-Subsec. (e). Pub. L. 99–53, § 2(f), inserted “or 8903a” before “of this title”.
+Subsec. (e). Pub. L. 99–53, § 2(f), inserted “or 8903a” before “of this title”.
 
-1984—Subsecs. (a), (b). Pub. L. 98–615, § 3(6)(A), substituted “enrollees” for “employees, annuitants,” in provisions preceding par. (1).
+1984—Subsecs. (a), (b). Pub. L. 98–615, § 3(6)(A), substituted “enrollees” for “employees, annuitants,” in provisions preceding par. (1).
 
-Subsec. (d). Pub. L. 98–615, § 3(6)(B), substituted “Each employee, annuitant, or former spouse” for “Each employee or annuitant”.
+Subsec. (d). Pub. L. 98–615, § 3(6)(B), substituted “Each employee, annuitant, or former spouse” for “Each employee or annuitant”.
 
 1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
@@ -2529,7 +2529,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Disposal of Amounts Remaining as of October 19, 1998, in Contingency Reserve of Discontinued Plan**
 
-Pub. L. 105–266, § 6(b)(2), Oct. 19, 1998, 112 Stat. 2369, provided that:
+Pub. L. 105–266, § 6(b)(2), Oct. 19, 1998, 112 Stat. 2369, provided that:
 
 > “In the case of any amounts remaining as of the date of the enactment of this Act [Oct. 19, 1998] in the contingency reserve of a discontinued plan, such amounts shall be disposed of in accordance with section 8909(e) of title 5, United States Code, as amended by this subsection, by—
 
@@ -2539,7 +2539,7 @@ Pub. L. 105–266, § 6(b)(2), Oct. 19, 1998, 112 Stat. 2369, provided that:
 
 **Amounts To Be Refunded From Carriers’ Special Reserves**
 
-Pub. L. 99–272, title XV, § 15202(a), Apr. 7, 1986, 100 Stat. 333, provided that:
+Pub. L. 99–272, title XV, § 15202(a), Apr. 7, 1986, 100 Stat. 333, provided that:
 
 > **“(1)** The Office of Personnel Management—
 
@@ -2571,7 +2571,7 @@ Pub. L. 99–272, title XV, § 15202(a), Apr. 7, 1986, 100 Stat. 333, provided
 
 **Restrictions Relating to Amounts Refunded to Employees Health Benefits Fund From Carriers’ Special Reserves**
 
-Pub. L. 99–251, title I, § 112, Feb. 27, 1986, 100 Stat. 19, provided that:
+Pub. L. 99–251, title I, § 112, Feb. 27, 1986, 100 Stat. 19, provided that:
 
 > **“(a) Prohibited Transfers.—**
 
@@ -2597,7 +2597,7 @@ Pub. L. 99–251, title I, § 112, Feb. 27, 1986, 100 Stat. 19, provided that:
 
 > **“(3)** the term ‘health benefits plan’ has the meaning given such term by section 8901(6) of such title.”
 
-## § 8909a. Postal Service Retiree Health Benefits Fund
+## § 8909a. Postal Service Retiree Health Benefits Fund
 
 **(a)** There is in the Treasury of the United States a Postal Service Retiree Health Benefits Fund which is administered by the Office of Personnel Management.
 
@@ -2639,15 +2639,15 @@ Pub. L. 99–251, title I, § 112, Feb. 27, 1986, 100 Stat. 19, provided that:
 
 **(2)** the amount withheld from the annuity of or paid by annuitants of the United States Postal Service under section 8906.
 
-(Added Pub. L. 109–435, title VIII, § 803(a)(1)(B), Dec. 20, 2006, 120 Stat. 3251; amended Pub. L. 111–68, div. B, § 164(a), Oct. 1, 2009, 123 Stat. 2053; Pub. L. 112–33, § 124, Sept. 30, 2011, 125 Stat. 366; Pub. L. 112–74, div. C, title VI, § 632, Dec. 23, 2011, 125 Stat. 928; Pub. L. 117–108, title I, § 102(b), Apr. 6, 2022, 136 Stat. 1138.)
+(Added Pub. L. 109–435, title VIII, § 803(a)(1)(B), Dec. 20, 2006, 120 Stat. 3251; amended Pub. L. 111–68, div. B, § 164(a), Oct. 1, 2009, 123 Stat. 2053; Pub. L. 112–33, § 124, Sept. 30, 2011, 125 Stat. 366; Pub. L. 112–74, div. C, title VI, § 632, Dec. 23, 2011, 125 Stat. 928; Pub. L. 117–108, title I, § 102(b), Apr. 6, 2022, 136 Stat. 1138.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–108, § 102(b)(2), substituted “Benefits” for “Benefit” in section catchline.
+2022—Pub. L. 117–108, § 102(b)(2), substituted “Benefits” for “Benefit” in section catchline.
 
-Subsecs. (d) to (g). Pub. L. 117–108, § 102(b)(1), added subsecs. (d) to (g) and struck out former subsec. (d) which related to various computations of net present value of future payments, payments into the Postal Retiree Health Benefits Fund, and promulgation of regulations.
+Subsecs. (d) to (g). Pub. L. 117–108, § 102(b)(1), added subsecs. (d) to (g) and struck out former subsec. (d) which related to various computations of net present value of future payments, payments into the Postal Retiree Health Benefits Fund, and promulgation of regulations.
 
 2011—Subsec. (d)(3)(A)(v). Pub. L. 112–74 substituted “August 1, 2012” for “October 4, 2011”. See below.
 
@@ -2659,7 +2659,7 @@ Pub. L. 112–33 substituted “October 4, 2011”, which is the date specified 
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–68, div. B, § 164(b), Oct. 1, 2009, 123 Stat. 2053, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 803(a)(1)(B) of the Postal Accountability and Enhancement Act (Public Law 109–435; 120 Stat. 3251).”
+Pub. L. 111–68, div. B, § 164(b), Oct. 1, 2009, 123 Stat. 2053, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 803(a)(1)(B) of the Postal Accountability and Enhancement Act (Public Law 109–435; 120 Stat. 3251).”
 
 **Effective Date**
 
@@ -2667,7 +2667,7 @@ Section effective Oct. 1, 2006, see section 805(a) of Pub. L. 109–435, set out
 
 **Application of Pub. L. 117–108**
 
-Pub. L. 117–108, title I, § 102(c), Apr. 6, 2022, 136 Stat. 1139, provided that:
+Pub. L. 117–108, title I, § 102(c), Apr. 6, 2022, 136 Stat. 1139, provided that:
 
 > **“(1) Cancellation of payments.—** Any payment required from the Postal Service under section 8909a of title 5, United States Code, as in effect on the day before the date of enactment of this Act [Apr. 6, 2022] that remains unpaid as of such date of enactment is canceled.
 
@@ -2677,7 +2677,7 @@ Pub. L. 117–108, title I, § 102(c), Apr. 6, 2022, 136 Stat. 1139, provided 
 
 **Review by Postal Regulatory Commission**
 
-Pub. L. 109–435, title VIII, § 803(b), Dec. 20, 2006, 120 Stat. 3252, provided that:
+Pub. L. 109–435, title VIII, § 803(b), Dec. 20, 2006, 120 Stat. 3252, provided that:
 
 > **“(1) In general.—**
 
@@ -2687,7 +2687,7 @@ Pub. L. 109–435, title VIII, § 803(b), Dec. 20, 2006, 120 Stat. 3252, provi
 
 > **“(2) Reconsideration.—** Upon receiving the report under paragraph (1), the Office of Personnel Management shall reconsider its determination or redetermination in light of such report, and shall make any appropriate adjustments. The Office shall submit a report containing the results of its reconsideration to the Commission, the Postal Service, and Congress.”
 
-## § 8910. Studies, reports, and audits
+## § 8910. Studies, reports, and audits
 
 **(a)** The Office of Personnel Management shall make a continuing study of the operation and administration of this chapter, including surveys and reports on health benefits plans available to employees and on the experience of the plans.
 
@@ -2701,13 +2701,13 @@ Pub. L. 109–435, title VIII, § 803(b), Dec. 20, 2006, 120 Stat. 3252, provi
 
 **(d)** The Office, in consultation with the Department of Health and Human Services, shall develop and implement a system through which the carrier for an approved health benefits plan described by section 8903 or 8903a will be able to identify those annuitants or other individuals covered by such plan who are entitled to benefits under part A or B of title XVIII of the Social Security Act in order to ensure that payments under coordination of benefits with Medicare do not exceed the statutory maximums which physicians may charge Medicare enrollees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 606; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–508, title VII, § 7002(d), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 606; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–508, title VII, § 7002(d), Nov. 5, 1990, 104 Stat. 1388–330; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3010. | Sept. 28, 1959, Pub. L. 86–382, § 11, 73 Stat. 716. |
+|  | 5 U.S.C. 3010. | Sept. 28, 1959, Pub. L. 86–382, § 11, 73 Stat. 716. |
 
 In subsection (b), the word “agency” is substituted for “department, agency, and independent establishment”.
 
@@ -2717,7 +2717,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Social Security Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Social Security Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
@@ -2737,17 +2737,17 @@ Amendment by Pub. L. 101–508 applicable with respect to contract years beginni
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 8911. Advisory committee
+## § 8911. Advisory committee
 
 The Director of the Office of Personnel Management shall appoint a committee composed of five members, who serve without pay, to advise the Office regarding matters of concern to employees under this chapter. Each member of the committee shall be an employee enrolled under this chapter or an elected official of an employee organization.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 607; Pub. L. 95–454, title IX, § 906(a)(1), (4), Oct. 13, 1978, 92 Stat. 1224, 1225.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 607; Pub. L. 95–454, title IX, § 906(a)(1), (4), Oct. 13, 1978, 92 Stat. 1224, 1225.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3012. | Sept. 28, 1959, Pub. L. 86–382, § 13, 73 Stat. 716. |
+|  | 5 U.S.C. 3012. | Sept. 28, 1959, Pub. L. 86–382, § 13, 73 Stat. 716. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -2767,17 +2767,17 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of this title.
 
-## § 8912. Jurisdiction of courts
+## § 8912. Jurisdiction of courts
 
 The district courts of the United States have original jurisdiction, concurrent with the United States Court of Federal Claims, of a civil action or claim against the United States founded on this chapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 607; Pub. L. 97–164, title I, § 160(a)(3), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 607; Pub. L. 97–164, title I, § 160(a)(3), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 3014. | Sept. 28, 1959, Pub. L. 86–382, § 15, 73 Stat. 716. |
+|  | 5 U.S.C. 3014. | Sept. 28, 1959, Pub. L. 86–382, § 15, 73 Stat. 716. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -2799,7 +2799,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-## § 8913. Regulations
+## § 8913. Regulations
 
 **(a)** The Office of Personnel Management may prescribe regulations necessary to carry out this chapter.
 
@@ -2817,17 +2817,17 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(d)** The Secretary of Agriculture shall prescribe regulations to effect the application and operation of this chapter to an individual named by section 8901(1)(H) of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 607; Pub. L. 95–437, § 4(c)(1), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, § 906(a)(2), (3), (c)(2)(F), (H), Oct. 13, 1978, 92 Stat. 1224, 1227; Pub. L. 98–615, § 3(7), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, § 2(a), June 17, 1985, 99 Stat. 94; Pub. L. 100–654, title III, § 301(c), Nov. 14, 1988, 102 Stat. 3846.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 607; Pub. L. 95–437, § 4(c)(1), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, § 906(a)(2), (3), (c)(2)(F), (H), Oct. 13, 1978, 92 Stat. 1224, 1227; Pub. L. 98–615, § 3(7), Nov. 8, 1984, 98 Stat. 3204; Pub. L. 99–53, § 2(a), June 17, 1985, 99 Stat. 94; Pub. L. 100–654, title III, § 301(c), Nov. 14, 1988, 102 Stat. 3846.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 3009(a). | Sept. 28, 1959, Pub. L. 86–382, § 10(a), 73 Stat. 715. |
-| (b) | 5 U.S.C. 3002(a) (words between 1st and 4th commas of 1st sentence, and 2d sentence), (f) (words between 1st and 2d commas of 1st sentence). | Sept. 28, 1959, Pub. L. 86–382, § 3(a) (words between 1st and 4th commas of 1st sentence, and 2d sentence), 73 Stat. 710. July 1, 1960, Pub. L. 86–568, § 115(d) “(f) (words between 1st and 2d commas of 1st sentence)”, 74 Stat. 303. |
-|  |  | Oct. 6, 1964, Pub. L. 88–631, § 1, 78 Stat. 1007. |
-| (c) | 5 U.S.C. 3009(b). | Sept. 28, 1959, Pub. L. 86–382, § 10(b), 73 Stat. 715. |
-| (d) | 5 U.S.C. 3002(f) (2d sentence). | July 1, 1960, Pub. L. 86–568, § 115(d) “(f) (2d sentence)”, 74 Stat. 303. |
+| (a) | 5 U.S.C. 3009(a). | Sept. 28, 1959, Pub. L. 86–382, § 10(a), 73 Stat. 715. |
+| (b) | 5 U.S.C. 3002(a) (words between 1st and 4th commas of 1st sentence, and 2d sentence), (f) (words between 1st and 2d commas of 1st sentence). | Sept. 28, 1959, Pub. L. 86–382, § 3(a) (words between 1st and 4th commas of 1st sentence, and 2d sentence), 73 Stat. 710. July 1, 1960, Pub. L. 86–568, § 115(d) “(f) (words between 1st and 2d commas of 1st sentence)”, 74 Stat. 303. |
+|  |  | Oct. 6, 1964, Pub. L. 88–631, § 1, 78 Stat. 1007. |
+| (c) | 5 U.S.C. 3009(b). | Sept. 28, 1959, Pub. L. 86–382, § 10(b), 73 Stat. 715. |
+| (d) | 5 U.S.C. 3002(f) (2d sentence). | July 1, 1960, Pub. L. 86–568, § 115(d) “(f) (2d sentence)”, 74 Stat. 303. |
 
 In subsection (b)(2), the words “section 1501 of title 31, District of Columbia Code” are substituted for “section 1 of the District of Columbia Teachers’ Salary Act of 1955 (69 Stat. 521), as amended (sec. 31–1501, D.C. Code, 1961 edition)”.
 
@@ -2841,15 +2841,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1985—Subsec. (b). Pub. L. 99–53 inserted reference to section 8903a of this title.
 
-1984—Subsec. (c). Pub. L. 98–615, § 3(7), substituted “employees, annuitants, members of their families, and former spouses” for “employees and annuitants and members of their families”, and “in which an annuitant or former spouse” for “in which an annuitant”.
+1984—Subsec. (c). Pub. L. 98–615, § 3(7), substituted “employees, annuitants, members of their families, and former spouses” for “employees and annuitants and members of their families”, and “in which an annuitant or former spouse” for “in which an annuitant”.
 
-1978—Subsecs. (a), (b). Pub. L. 95–454, § 906(a)(2), (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
+1978—Subsecs. (a), (b). Pub. L. 95–454, § 906(a)(2), (3), substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
-Subsec. (b)(3). Pub. L. 95–454, § 906(c)(2)(F), (H), substituted “3401” for “3391”.
+Subsec. (b)(3). Pub. L. 95–454, § 906(c)(2)(F), (H), substituted “3401” for “3391”.
 
 Pub. L. 95–437 added par. (3).
 
-Subsec. (c). Pub. L. 95–454, § 906(a)(3), substituted “Office” for “Commission”.
+Subsec. (c). Pub. L. 95–454, § 906(a)(3), substituted “Office” for “Commission”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2865,8 +2865,8 @@ Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions,
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 8914. Effect of other statutes
+## § 8914. Effect of other statutes
 
 Any provision of law outside of this chapter which provides coverage or any other benefit under this chapter to any individuals who (based on their being employed by an entity other than the Government) would not otherwise be eligible for any such coverage or benefit shall not apply with respect to any individual appointed, transferred, or otherwise commencing that type of employment on or after October 1, 1988.
 
-(Added Pub. L. 100–238, title I, § 108(a)(3)(A), Jan. 8, 1988, 101 Stat. 1747.)
+(Added Pub. L. 100–238, title I, § 108(a)(3)(A), Jan. 8, 1988, 101 Stat. 1747.)

@@ -19,27 +19,27 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title V, §§ 521(a), 522(a), Dec. 18, 2025, 139 Stat. 863, 864, added items 996 and 997. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title V, §§ 521(a), 522(a), Dec. 18, 2025, 139 Stat. 863, 864, added items 996 and 997. Amendments were made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title III, § 382(a), Dec. 23, 2022, 136 Stat. 2543, added item 995.
+2022—Pub. L. 117–263, div. A, title III, § 382(a), Dec. 23, 2022, 136 Stat. 2543, added item 995.
 
-2015—Pub. L. 114–92, div. A, title VI, § 661(e)(2), Nov. 25, 2015, 129 Stat. 858, substituted “Financial literacy training: financial services” for “Consumer education: financial services” in item 992.
+2015—Pub. L. 114–92, div. A, title VI, § 661(e)(2), Nov. 25, 2015, 129 Stat. 858, substituted “Financial literacy training: financial services” for “Consumer education: financial services” in item 992.
 
-2013—Pub. L. 112–239, div. A, title III, § 371(b)(2), Jan. 2, 2013, 126 Stat. 1706, added item 994.
+2013—Pub. L. 112–239, div. A, title III, § 371(b)(2), Jan. 2, 2013, 126 Stat. 1706, added item 994.
 
-2011—Pub. L. 112–81, div. A, title V, § 522(d)(2), div. B, title XXVIII, § 2864(b), Dec. 31, 2011, 125 Stat. 1401, 1702, substituted “Management of deployments of members and measurement and data collection of unit operating and personnel tempo” for “Management of deployments of members” in item 991 and added item 993.
+2011—Pub. L. 112–81, div. A, title V, § 522(d)(2), div. B, title XXVIII, § 2864(b), Dec. 31, 2011, 125 Stat. 1401, 1702, substituted “Management of deployments of members and measurement and data collection of unit operating and personnel tempo” for “Management of deployments of members” in item 991 and added item 993.
 
-2006—Pub. L. 109–163, div. A, title V, § 578(a)(2), Jan. 6, 2006, 119 Stat. 3276, added item 992.
+2006—Pub. L. 109–163, div. A, title V, § 578(a)(2), Jan. 6, 2006, 119 Stat. 3276, added item 992.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations to Prohibit Abandonment**
 
-Pub. L. 117–263, div. A, title III, § 382(e), Dec. 23, 2022, 136 Stat. 2543, provided that: “Not later than two years after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall issue regulations to prohibit the abandonment of military working dogs used in support of a military operation outside of the continental United States.”
+Pub. L. 117–263, div. A, title III, § 382(e), Dec. 23, 2022, 136 Stat. 2543, provided that: “Not later than two years after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall issue regulations to prohibit the abandonment of military working dogs used in support of a military operation outside of the continental United States.”
 
 **Minimum Standards for Military Working Dog Kennels and Facilities**
 
-Pub. L. 119–60, div. A, title III, § 378, Dec. 18, 2025, 139 Stat. 842, provided that:
+Pub. L. 119–60, div. A, title III, § 378, Dec. 18, 2025, 139 Stat. 842, provided that:
 
 > **“(a) Establishment of Minimum Standards.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense, in consultation with the Secretary of each military department, veterinary experts, and military working dog program managers, shall establish minimum standards for kennels and other facilities used to house military working dogs. Such minimum standards shall include each of the following:
 
@@ -75,7 +75,7 @@ Pub. L. 119–60, div. A, title III, § 378, Dec. 18, 2025, 139 Stat. 842, pro
 
 > **“(2)** submits to the Committees on Armed Services of the Senate and House of Representatives a report containing notice of the waiver, a justification for such waiver, and a description of the alternative measures provided under paragraph (1).”
 
-## § 991. Management of deployments of members and measurement and data collection of unit operating and personnel tempo
+## § 991. Management of deployments of members and measurement and data collection of unit operating and personnel tempo
 
 **(a) Management Responsibilities.—**
 
@@ -187,7 +187,7 @@ Pub. L. 119–60, div. A, title III, § 378, Dec. 18, 2025, 139 Stat. 842, pro
 
 **(3)** The term “personnel tempo” means the amount of time members of the armed forces are engaged in their official duties at a location or under circumstances that make it infeasible for a member to spend off-duty time in the housing in which the member resides.
 
-(Added Pub. L. 106–65, div. A, title V, § 586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, § 1 [[div. A], title V, § 574(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, § 515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, § 541(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 112–81, div. A, title V, § 522(a)–(d)(1), Dec. 31, 2011, 125 Stat. 1399–1401; Pub. L. 116–92, div. A, title V, §§ 506, 507(a), Dec. 20, 2019, 133 Stat. 1345; Pub. L. 116–283, div. A, title X, § 1081(a)(21), Jan. 1, 2021, 134 Stat. 3871.)
+(Added Pub. L. 106–65, div. A, title V, § 586(a), Oct. 5, 1999, 113 Stat. 637; amended Pub. L. 106–398, § 1 [[div. A], title V, § 574(a), (b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, 1654A–137; Pub. L. 107–107, div. A, title V, § 515(a), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 108–136, div. A, title V, § 541(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 112–81, div. A, title V, § 522(a)–(d)(1), Dec. 31, 2011, 125 Stat. 1399–1401; Pub. L. 116–92, div. A, title V, §§ 506, 507(a), Dec. 20, 2019, 133 Stat. 1345; Pub. L. 116–283, div. A, title X, § 1081(a)(21), Jan. 1, 2021, 134 Stat. 3871.)
 
 **Editorial Notes**
 
@@ -195,23 +195,23 @@ Pub. L. 119–60, div. A, title III, § 378, Dec. 18, 2025, 139 Stat. 842, pro
 
 2021—Subsec. (a)(4)(A). Pub. L. 116–283 struck out period after “The amount”.
 
-2019—Subsec. (a)(3). Pub. L. 116–92, § 506(a), substituted “be delegated to a civilian officer of the Department of Defense appointed by the President, by and with the advice and consent of the Senate.” for “be delegated to—
+2019—Subsec. (a)(3). Pub. L. 116–92, § 506(a), substituted “be delegated to a civilian officer of the Department of Defense appointed by the President, by and with the advice and consent of the Senate.” for “be delegated to—
 
 “(A) a civilian officer of the Department of Defense appointed by the President, by and with the advise and consent of the Senate, or a member of the Senior Executive Service; or
 
 “(B) a general or flag officer in that member’s chain of command (including an officer in the grade of colonel, or in the case of the Navy, captain, serving in a general or flag officer position who has been selected for promotion to the grade of brigadier general or rear admiral (lower half) in a report of a selection board convened under section 611(a) or 14101(a) of this title that has been approved by the President).”
 
-Subsec. (a)(4). Pub. L. 116–92, § 506(b), substituted “addresses each of the following:” for “addresses the amount”, inserted “(A) The amount.” before “of dwell time”, and “regular” before “member”, and added subpar. (B).
+Subsec. (a)(4). Pub. L. 116–92, § 506(b), substituted “addresses each of the following:” for “addresses the amount”, inserted “(A) The amount.” before “of dwell time”, and “regular” before “member”, and added subpar. (B).
 
-Subsec. (d). Pub. L. 116–92, § 507(a), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 116–92, § 507(a), designated existing provisions as par. (1) and added par. (2).
 
-2011—Pub. L. 112–81, § 522(d)(1), substituted “Management of deployments of members and measurement and data collection of unit operating and personnel tempo” for “Management of deployments of members” in section catchline.
+2011—Pub. L. 112–81, § 522(d)(1), substituted “Management of deployments of members and measurement and data collection of unit operating and personnel tempo” for “Management of deployments of members” in section catchline.
 
-Subsec. (a)(4). Pub. L. 112–81, § 522(a), added par. (4).
+Subsec. (a)(4). Pub. L. 112–81, § 522(a), added par. (4).
 
-Subsec. (c). Pub. L. 112–81, § 522(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of each military department shall establish a system for tracking and recording the number of days that each member of the armed forces under the jurisdiction of the Secretary is deployed.”
+Subsec. (c). Pub. L. 112–81, § 522(b), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of each military department shall establish a system for tracking and recording the number of days that each member of the armed forces under the jurisdiction of the Secretary is deployed.”
 
-Subsec. (f). Pub. L. 112–81, § 522(c), added subsec. (f).
+Subsec. (f). Pub. L. 112–81, § 522(c), added subsec. (f).
 
 2003—Subsec. (a). Pub. L. 108–136 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -237,33 +237,33 @@ Subsec. (f). Pub. L. 112–81, § 522(c), added subsec. (f).
 
 “(ii) a lesser distance from the member’s permanent residence that, under the circumstances applicable to the member’s travel, is a distance that requires at least three hours of travel to traverse.”
 
-2000—Subsec. (a)(1). Pub. L. 106–398, § 1 [[div. A], title V, § 574(a)(1)], substituted “. However, the member may be deployed, or continued in a deployment, without regard to the preceding sentence if such deployment, or continued deployment, is approved—” and subpars. (A) and (B) for “unless an officer in the grade of general or admiral in the member’s chain of command approves the deployment, or continued deployment, of the member.”
+2000—Subsec. (a)(1). Pub. L. 106–398, § 1 [[div. A], title V, § 574(a)(1)], substituted “. However, the member may be deployed, or continued in a deployment, without regard to the preceding sentence if such deployment, or continued deployment, is approved—” and subpars. (A) and (B) for “unless an officer in the grade of general or admiral in the member’s chain of command approves the deployment, or continued deployment, of the member.”
 
-Subsec. (a)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 574(a)(2)], added par. (3).
+Subsec. (a)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 574(a)(2)], added par. (3).
 
-Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title V, § 574(b)(1)], inserted “or homeport, as the case may be” before period at end.
+Subsec. (b)(1). Pub. L. 106–398, § 1 [[div. A], title V, § 574(b)(1)], inserted “or homeport, as the case may be” before period at end.
 
-Subsec. (b)(2). Pub. L. 106–398, § 1 [[div. A], title V, § 574(b)(3)], added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 106–398, § 1 [[div. A], title V, § 574(b)(3)], added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 574(b)(2)], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (b)(3). Pub. L. 106–398, § 1 [[div. A], title V, § 574(b)(2)], redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(3)(C). Pub. L. 106–398, § 1 [[div. A], title V, § 574(b)(4)], added subpar. (C).
+Subsec. (b)(3)(C). Pub. L. 106–398, § 1 [[div. A], title V, § 574(b)(4)], added subpar. (C).
 
-Subsec. (b)(4). Pub. L. 106–398, § 1 [[div. A], title V, § 574(b)(2)], redesignated par. (3) as (4).
+Subsec. (b)(4). Pub. L. 106–398, § 1 [[div. A], title V, § 574(b)(2)], redesignated par. (3) as (4).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–107, div. A, title V, § 515(b), Dec. 28, 2001, 115 Stat. 1094, provided that: “The amendment made by this section [amending this section] shall apply with respect to duty performed on or after October 1, 2001.”
+Pub. L. 107–107, div. A, title V, § 515(b), Dec. 28, 2001, 115 Stat. 1094, provided that: “The amendment made by this section [amending this section] shall apply with respect to duty performed on or after October 1, 2001.”
 
 **Effective Date**
 
-Pub. L. 106–65, div. A, title V, § 586(d)(1), Oct. 5, 1999, 113 Stat. 639, provided that: “Section 991 of title 10, United States Code (as added by subsection (a)), shall take effect on October 1, 2000. No day on which a member of the Armed Forces is deployed (as defined in subsection (b) of that section) before that date may be counted in determining the number of days on which a member has been deployed for purposes of that section.”
+Pub. L. 106–65, div. A, title V, § 586(d)(1), Oct. 5, 1999, 113 Stat. 639, provided that: “Section 991 of title 10, United States Code (as added by subsection (a)), shall take effect on October 1, 2000. No day on which a member of the Armed Forces is deployed (as defined in subsection (b) of that section) before that date may be counted in determining the number of days on which a member has been deployed for purposes of that section.”
 
 **Regulations**
 
-Pub. L. 106–65, div. A, title V, § 586(e), Oct. 5, 1999, 113 Stat. 639, provided that: “Not later than June 1, 2000, the Secretary of each military department shall prescribe in regulations the policies and procedures for implementing such provisions of law for that military department.”
+Pub. L. 106–65, div. A, title V, § 586(e), Oct. 5, 1999, 113 Stat. 639, provided that: “Not later than June 1, 2000, the Secretary of each military department shall prescribe in regulations the policies and procedures for implementing such provisions of law for that military department.”
 
 **Transfer of Functions**
 
@@ -271,7 +271,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Treatment of Operational Data From Afghanistan**
 
-Pub. L. 117–81, div. A, title X, § 1088, Dec. 27, 2021, 135 Stat. 1924, provided that:
+Pub. L. 117–81, div. A, title X, § 1088, Dec. 27, 2021, 135 Stat. 1924, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that—
 
@@ -293,15 +293,15 @@ Pub. L. 117–81, div. A, title X, § 1088, Dec. 27, 2021, 135 Stat. 1924, pro
 
 **Deadline for Implementation of Subsection (d)(2)**
 
-Pub. L. 116–92, div. A, title V, § 507(b), Dec. 20, 2019, 133 Stat. 1346, provided that: “Paragraph (2) of section 991(d) of title 10, United States Code, as added by subsection (a), shall be fully implemented by not later than March 1, 2020.”
+Pub. L. 116–92, div. A, title V, § 507(b), Dec. 20, 2019, 133 Stat. 1346, provided that: “Paragraph (2) of section 991(d) of title 10, United States Code, as added by subsection (a), shall be fully implemented by not later than March 1, 2020.”
 
 **Family Care Plans and Deferment of Deployment of Single Parent or Dual Military Couples With Minor Dependents**
 
-Pub. L. 110–181, div. A, title V, § 586, Jan. 28, 2008, 122 Stat. 132, as amended by Pub. L. 114–328, div. A, title VI, § 618(a), Dec. 23, 2016, 130 Stat. 2160, provided that: “The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under section 310 or 351 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly.”
+Pub. L. 110–181, div. A, title V, § 586, Jan. 28, 2008, 122 Stat. 132, as amended by Pub. L. 114–328, div. A, title VI, § 618(a), Dec. 23, 2016, 130 Stat. 2160, provided that: “The Secretary of Defense shall establish appropriate procedures to ensure that an adequate family care plan is in place for a member of the Armed Forces with minor dependents who is a single parent or whose spouse is also a member of the Armed Forces when the member may be deployed in an area for which imminent danger pay is authorized under section 310 or 351 of title 37, United States Code. Such procedures should allow the member to request a deferment of deployment due to unforeseen circumstances, and the request for such a deferment should be considered and responded to promptly.”
 
 **Policy on Concurrent Deployment to Combat Zones of Both Military Spouses of Military Families With Minor Children**
 
-Pub. L. 108–136, div. A, title V, § 585, Nov. 24, 2003, 117 Stat. 1492, provided that:
+Pub. L. 108–136, div. A, title V, § 585, Nov. 24, 2003, 117 Stat. 1492, provided that:
 
 > **“(a) Publication of Policy.—** Not later than 180 days after the date of the enactment of this Act [Nov. 24, 2003], the Secretary of Defense shall—
 
@@ -313,9 +313,9 @@ Pub. L. 108–136, div. A, title V, § 585, Nov. 24, 2003, 117 Stat. 1492, pro
 
 **Review of Management of Deployments of Individual Members**
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, as amended by Pub. L. 107–107, div. A, title V, § 592(b), Dec. 28, 2001, 115 Stat. 1125, directed the Secretary of Defense to submit to committees of Congress a report on the administration of this section during fiscal year 2001 not later than Mar. 31, 2002.
+Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, as amended by Pub. L. 107–107, div. A, title V, § 592(b), Dec. 28, 2001, 115 Stat. 1125, directed the Secretary of Defense to submit to committees of Congress a report on the administration of this section during fiscal year 2001 not later than Mar. 31, 2002.
 
-## § 992. Financial literacy training: financial services
+## § 992. Financial literacy training: financial services
 
 **(a) Requirement for Financial Literacy Training Program for Members.—**
 
@@ -433,57 +433,57 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 S
 
 **(4)** Health insurance, budget management, Thrift Savings Plan (TSP), retirement lump sum payments (including rollover options and tax consequences), and Survivor Benefit Plan (SBP).
 
-(Added Pub. L. 109–163, div. A, title V, § 578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L. 111–84, div. A, title X, § 1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, § 661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858; Pub. L. 118–31, div. A, title V, § 524(a), Dec. 22, 2023, 137 Stat. 253; Pub. L. 118–159, div. A, title V, § 541, Dec. 23, 2024, 138 Stat. 1891.)
+(Added Pub. L. 109–163, div. A, title V, § 578(a)(1), Jan. 6, 2006, 119 Stat. 3274; amended Pub. L. 111–84, div. A, title X, § 1073(a)(8), Oct. 28, 2009, 123 Stat. 2472; Pub. L. 114–92, div. A, title VI, § 661(b)–(e)(1), Nov. 25, 2015, 129 Stat. 857, 858; Pub. L. 118–31, div. A, title V, § 524(a), Dec. 22, 2023, 137 Stat. 253; Pub. L. 118–159, div. A, title V, § 541, Dec. 23, 2024, 138 Stat. 1891.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a)(2)(C). Pub. L. 118–159, § 541(a)(1), substituted “grade E–6” for “grade E–4”.
+2024—Subsec. (a)(2)(C). Pub. L. 118–159, § 541(a)(1), substituted “grade E–6” for “grade E–4”.
 
-Subsec. (a)(2)(D). Pub. L. 118–159, § 541(a)(2), (3), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “on the date of promotion of the member, in the case of a member in pay grade E–5 or below or in pay grade O–4 or below;”.
+Subsec. (a)(2)(D). Pub. L. 118–159, § 541(a)(2), (3), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: “on the date of promotion of the member, in the case of a member in pay grade E–5 or below or in pay grade O–4 or below;”.
 
-Subsec. (a)(2)(E) to (J). Pub. L. 118–159, § 541(a)(3), redesignated subpars. (F) to (K) as (E) to (J), respectively. Former subpar. (E) redesignated (D).
+Subsec. (a)(2)(E) to (J). Pub. L. 118–159, § 541(a)(3), redesignated subpars. (F) to (K) as (E) to (J), respectively. Former subpar. (E) redesignated (D).
 
-Subsecs. (d) to (f). Pub. L. 118–159, § 541(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 118–159, § 541(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-2023—Subsec. (b)(2)(A)(i). Pub. L. 118–31, § 524(a)(1)(A), struck out “and” after “installation;”.
+2023—Subsec. (b)(2)(A)(i). Pub. L. 118–31, § 524(a)(1)(A), struck out “and” after “installation;”.
 
-Subsec. (b)(2)(A)(ii). Pub. L. 118–31, § 524(a)(1)(B)(i), (ii), in introductory provisions, substituted “shall” for “may” and “installation—” for “installation by any means elected by the Secretary from among the following:”.
+Subsec. (b)(2)(A)(ii). Pub. L. 118–31, § 524(a)(1)(B)(i), (ii), in introductory provisions, substituted “shall” for “may” and “installation—” for “installation by any means elected by the Secretary from among the following:”.
 
-Subsec. (b)(2)(A)(ii)(I). Pub. L. 118–31, § 524(a)(1)(B)(iii), substituted “through” for “Through” and “Defense;” for “Defense.”
+Subsec. (b)(2)(A)(ii)(I). Pub. L. 118–31, § 524(a)(1)(B)(iii), substituted “through” for “Through” and “Defense;” for “Defense.”
 
-Subsec. (b)(2)(A)(ii)(II). Pub. L. 118–31, § 524(a)(1)(B)(iv), substituted “by contract” for “By contract” and “Internet; or” for “Internet.”
+Subsec. (b)(2)(A)(ii)(II). Pub. L. 118–31, § 524(a)(1)(B)(iv), substituted “by contract” for “By contract” and “Internet; or” for “Internet.”
 
-Subsec. (b)(2)(A)(ii)(III). Pub. L. 118–31, § 524(a)(1)(B)(v), substituted “through” for “Through” and “counseling; and” for “counseling.”
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 118–31, § 524(a)(1)(B)(v), substituted “through” for “Through” and “counseling; and” for “counseling.”
 
-Subsec. (b)(2)(A)(iii). Pub. L. 118–31, § 524(a)(1)(C), added cl. (iii).
+Subsec. (b)(2)(A)(iii). Pub. L. 118–31, § 524(a)(1)(C), added cl. (iii).
 
-Subsec. (b)(2)(B). Pub. L. 118–31, § 524(a)(2), substituted “installation in accordance with the requirements established under subparagraph (A)(ii) and (iii).” for “installation by any of the means set forth in subparagraph (A)(ii), as elected by the Secretary concerned.”
+Subsec. (b)(2)(B). Pub. L. 118–31, § 524(a)(2), substituted “installation in accordance with the requirements established under subparagraph (A)(ii) and (iii).” for “installation by any of the means set forth in subparagraph (A)(ii), as elected by the Secretary concerned.”
 
-Subsec. (b)(4). Pub. L. 118–31, § 524(a)(3), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+Subsec. (b)(4). Pub. L. 118–31, § 524(a)(3), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
-2015—Pub. L. 114–92, § 661(e)(1), substituted “Financial literacy training: financial services” for “Consumer education: financial services” in section catchline.
+2015—Pub. L. 114–92, § 661(e)(1), substituted “Financial literacy training: financial services” for “Consumer education: financial services” in section catchline.
 
-Subsec. (a). Pub. L. 114–92, § 661(b)(1), substituted “Financial Literacy Training” for “Consumer Education” in heading.
+Subsec. (a). Pub. L. 114–92, § 661(b)(1), substituted “Financial Literacy Training” for “Consumer Education” in heading.
 
-Subsec. (a)(1). Pub. L. 114–92, § 661(b)(2), substituted “financial literacy training” for “education” in introductory provisions.
+Subsec. (a)(1). Pub. L. 114–92, § 661(b)(2), substituted “financial literacy training” for “education” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 114–92, § 661(b)(3), added par. (2) and struck out former par. (2) which read as follows: “Training under this subsection shall be provided to members as—
+Subsec. (a)(2). Pub. L. 114–92, § 661(b)(3), added par. (2) and struck out former par. (2) which read as follows: “Training under this subsection shall be provided to members as—
 
 “(A) a component of members initial entry orientation training; and
 
 “(B) a component of periodically recurring required training that is provided for the members at military installations.”
 
-Subsec. (a)(3). Pub. L. 114–92, § 661(b)(4), substituted “paragraph (2)(J)” for “paragraph (2)(B)”.
+Subsec. (a)(3). Pub. L. 114–92, § 661(b)(4), substituted “paragraph (2)(J)” for “paragraph (2)(B)”.
 
-Subsec. (a)(4). Pub. L. 114–92, § 661(b)(5), added par. (4).
+Subsec. (a)(4). Pub. L. 114–92, § 661(b)(5), added par. (4).
 
-Subsec. (d). Pub. L. 114–92, § 661(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 114–92, § 661(c)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 114–92, § 661(c)(1), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 114–92, § 661(c)(1), redesignated subsec. (d) as (e).
 
-Subsec. (e)(4). Pub. L. 114–92, § 661(d), added par. (4).
+Subsec. (e)(4). Pub. L. 114–92, § 661(d), added par. (4).
 
 2009—Subsec. (b)(4). Pub. L. 111–84 struck out period after “under this section”.
 
@@ -491,19 +491,19 @@ Subsec. (e)(4). Pub. L. 114–92, § 661(d), added par. (4).
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title V, § 578(b), Jan. 6, 2006, 119 Stat. 3276, provided that: “The amendments made by this section [enacting this section] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act [Jan. 6, 2006].”
+Pub. L. 109–163, div. A, title V, § 578(b), Jan. 6, 2006, 119 Stat. 3276, provided that: “The amendments made by this section [enacting this section] shall take effect on the first day of the first month that begins more than 120 days after the date of the enactment of this Act [Jan. 6, 2006].”
 
 **Inclusion of Information on Free Credit Monitoring in Annual Financial Literacy Briefing**
 
-Pub. L. 116–92, div. A, title V, § 560A, Dec. 20, 2019, 133 Stat. 1393, provided that: “The Secretary of each military department shall ensure that the annual financial literacy education briefing provided to members of the Armed Forces includes information on the availability of free credit monitoring services pursuant to section 605A(k) of the Fair Credit Reporting Act (15 U.S.C. 1681c–1(k)).”
+Pub. L. 116–92, div. A, title V, § 560A, Dec. 20, 2019, 133 Stat. 1393, provided that: “The Secretary of each military department shall ensure that the annual financial literacy education briefing provided to members of the Armed Forces includes information on the availability of free credit monitoring services pursuant to section 605A(k) of the Fair Credit Reporting Act (15 U.S.C. 1681c–1(k)).”
 
 **Implementations**
 
-Pub. L. 114–92, div. A, title VI, § 661(f), Nov. 25, 2015, 129 Stat. 859, provided that: “Not later than six months after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of the military department concerned and the Secretary of the Department in which the Coast Guard is operating shall commence providing financial literacy training under section 992 of title 10, United States Code, as amended by subsections (b), (c), and (d) of this section, to members of the Armed Forces.”
+Pub. L. 114–92, div. A, title VI, § 661(f), Nov. 25, 2015, 129 Stat. 859, provided that: “Not later than six months after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of the military department concerned and the Secretary of the Department in which the Coast Guard is operating shall commence providing financial literacy training under section 992 of title 10, United States Code, as amended by subsections (b), (c), and (d) of this section, to members of the Armed Forces.”
 
 **Counseling on Mortgage Foreclosures for Members of the Armed Forces Returning From Service Abroad**
 
-Pub. L. 110–289, div. B, title II, § 2202, July 30, 2008, 122 Stat. 2849, provided that:
+Pub. L. 110–289, div. B, title II, § 2202, July 30, 2008, 122 Stat. 2849, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall develop and implement a program to advise members of the Armed Forces (including members of the National Guard and Reserve) who are returning from service on active duty abroad (including service in Operation Iraqi Freedom and Operation Enduring Freedom) on actions to be taken by such members to prevent or forestall mortgage foreclosures.
 
@@ -757,9 +757,9 @@ Pub. L. 109–290, Sept. 29, 2006, 120 Stat. 1317, provided that:
 
 **Requirement for Regulations on Policies and Procedures on Personal Commercial Solicitations on Department of Defense Installations**
 
-Pub. L. 109–163, div. A, title V, § 577(a), Jan. 6, 2006, 119 Stat. 3274, provided that: “As soon as practicable after the date of the enactment of this Act [Jan. 6, 2006], and not later than March 31, 2006, the Secretary of Defense shall prescribe regulations, or modify existing regulations, on the policies and procedures relating to personal commercial solicitations, including the sale of life insurance and securities, on Department of Defense installations.”
+Pub. L. 109–163, div. A, title V, § 577(a), Jan. 6, 2006, 119 Stat. 3274, provided that: “As soon as practicable after the date of the enactment of this Act [Jan. 6, 2006], and not later than March 31, 2006, the Secretary of Defense shall prescribe regulations, or modify existing regulations, on the policies and procedures relating to personal commercial solicitations, including the sale of life insurance and securities, on Department of Defense installations.”
 
-## § 993. Notification of permanent reduction of sizable numbers of members of the armed forces
+## § 993. Notification of permanent reduction of sizable numbers of members of the armed forces
 
 **(a) Notification.—** The Secretary of Defense or the Secretary of the military department concerned shall notify Congress under subsection (b) of a plan to reduce more than 1,000 members of the armed forces assigned at a military installation. In calculating the number of members to be reduced, the Secretary shall take into consideration both direct reductions and indirect reductions.
 
@@ -785,15 +785,15 @@ Pub. L. 109–163, div. A, title V, § 577(a), Jan. 6, 2006, 119 Stat. 3274, p
 
 **(2)** The term “military installation” means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
 
-(Added Pub. L. 112–81, div. B, title XXVIII, § 2864(a), Dec. 31, 2011, 125 Stat. 1702; amended Pub. L. 112–239, div. B, title XXVIII, § 2851, Jan. 2, 2013, 126 Stat. 2159.)
+(Added Pub. L. 112–81, div. B, title XXVIII, § 2864(a), Dec. 31, 2011, 125 Stat. 1702; amended Pub. L. 112–239, div. B, title XXVIII, § 2851, Jan. 2, 2013, 126 Stat. 2159.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (a). Pub. L. 112–239, § 2851(a), inserted at end “In calculating the number of members to be reduced, the Secretary shall take into consideration both direct reductions and indirect reductions.”
+2013—Subsec. (a). Pub. L. 112–239, § 2851(a), inserted at end “In calculating the number of members to be reduced, the Secretary shall take into consideration both direct reductions and indirect reductions.”
 
-Subsec. (b)(1) to (3). Pub. L. 112–239, § 2851(b), added pars. (1) and (2) and struck out former pars. (1) to (3), which read as follows:
+Subsec. (b)(1) to (3). Pub. L. 112–239, § 2851(b), added pars. (1) and (2) and struck out former pars. (1) to (3), which read as follows:
 
 “(1) the Secretary of Defense or the Secretary of the military department concerned notifies the Committees on Armed Services of the Senate and the House of Representatives of the proposed reduction and the number of personnel assignments affected;
 
@@ -801,13 +801,13 @@ Subsec. (b)(1) to (3). Pub. L. 112–239, § 2851(b), added pars. (1) and (2) 
 
 “(3) a period of 21 days has expired following submission of the notice and evaluation required under this subsection, or if sooner, a period of 14 days has expired following the date on which an electronic version of the notice and justification has been submitted to such committees.”
 
-Subsec. (d). Pub. L. 112–239, § 2851(c), added subsec. (d).
+Subsec. (d). Pub. L. 112–239, § 2851(c), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Special Operations Force Structure**
 
-Pub. L. 118–31, div. A, title X, § 1075, Dec. 22, 2023, 137 Stat. 410, provided that:
+Pub. L. 118–31, div. A, title X, § 1075, Dec. 22, 2023, 137 Stat. 410, provided that:
 
 > **“(a) Report.—** Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report containing an assessment of the optimal force structure for special operations forces. Such report shall include—
 
@@ -857,9 +857,9 @@ Pub. L. 118–31, div. A, title X, § 1075, Dec. 22, 2023, 137 Stat. 410, prov
 
 **Notification of Necessary Assessments or Studies**
 
-Pub. L. 113–66, div. A, title X, § 1074(b), Dec. 26, 2013, 127 Stat. 870, provided that: “The Secretary of the Army, when making a congressional notification in accordance with section 993 of title 10, United States Code, shall include the Secretary’s assessment of whether or not the changes covered by the notification require an Environmental Assessment or Environmental Impact Statement in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and, if an assessment or study is required, the plan for conducting such assessment or study.”
+Pub. L. 113–66, div. A, title X, § 1074(b), Dec. 26, 2013, 127 Stat. 870, provided that: “The Secretary of the Army, when making a congressional notification in accordance with section 993 of title 10, United States Code, shall include the Secretary’s assessment of whether or not the changes covered by the notification require an Environmental Assessment or Environmental Impact Statement in accordance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and, if an assessment or study is required, the plan for conducting such assessment or study.”
 
-## § 994. Military working dogs: veterinary care for retired military working dogs
+## § 994. Military working dogs: veterinary care for retired military working dogs
 
 **(a) In General.—** The Secretary of Defense may establish and maintain a system to provide for the veterinary care of retired military working dogs. No funds may be provided by the Federal Government for this purpose.
 
@@ -867,9 +867,9 @@ Pub. L. 113–66, div. A, title X, § 1074(b), Dec. 26, 2013, 127 Stat. 870, p
 
 **(c) Standards of Care.—** The veterinary care provided under the system authorized by this section shall meet such standards as the Secretary shall establish and from time to time update.
 
-(Added Pub. L. 112–239, div. A, title III, § 371(b)(1), Jan. 2, 2013, 126 Stat. 1706.)
+(Added Pub. L. 112–239, div. A, title III, § 371(b)(1), Jan. 2, 2013, 126 Stat. 1706.)
 
-## § 995. Accountability for contractors using military working dogs
+## § 995. Accountability for contractors using military working dogs
 
 **(a) Annual Reporting Requirement for Contractors.—** Each covered contract shall specify that the contractor is required to submit to the Under Secretary of Defense (Comptroller), on an annual basis for the duration of the covered contract, a report containing an identification of—
 
@@ -879,19 +879,19 @@ Pub. L. 113–66, div. A, title X, § 1074(b), Dec. 26, 2013, 127 Stat. 870, p
 
 **(b) Covered Contract Defined.—** In this section the term “covered contract” means a contract that the Secretary of Defense determines involves military working dogs.
 
-(Added Pub. L. 117–263, div. A, title III, § 382(a), Dec. 23, 2022, 136 Stat. 2543.)
+(Added Pub. L. 117–263, div. A, title III, § 382(a), Dec. 23, 2022, 136 Stat. 2543.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 117–263, div. A, title III, § 382(b), Dec. 23, 2022, 136 Stat. 2543, provided that: “Section 995 of title 10, United States Code, as added by subsection (a), shall apply with respect to a contract entered into on or after the date of the enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. A, title III, § 382(b), Dec. 23, 2022, 136 Stat. 2543, provided that: “Section 995 of title 10, United States Code, as added by subsection (a), shall apply with respect to a contract entered into on or after the date of the enactment of this Act [Dec. 23, 2022].”
 
 **Deadline for Guidance**
 
-Pub. L. 117–263, div. A, title III, § 382(d), Dec. 23, 2022, 136 Stat. 2543, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense (Comptroller) shall issue the guidance on the annual reporting requirement under section 995 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 117–263, div. A, title III, § 382(d), Dec. 23, 2022, 136 Stat. 2543, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense (Comptroller) shall issue the guidance on the annual reporting requirement under section 995 of title 10, United States Code, as added by subsection (a).”
 
-## § 996. Individual Longitudinal Exposure Record
+## § 996. Individual Longitudinal Exposure Record
 
 **(a) Establishment.—** The Secretary of Defense shall maintain a data system that is a central web portal for exposure-related data that compiles, collates, presents, and provides available occupational and environmental exposure information to support the needs of the Department of Defense and the Department of Veterans Affairs. Such data system shall be referred to as the “Individual Longitudinal Exposure Record”.
 
@@ -929,9 +929,9 @@ Pub. L. 117–263, div. A, title III, § 382(d), Dec. 23, 2022, 136 Stat. 2543
 
 **(D)** The Committee on Veterans’ Affairs of the House of Representatives.
 
-(Added Pub. L. 119–60, div. A, title V, § 521(a), Dec. 18, 2025, 139 Stat. 863.)
+(Added Pub. L. 119–60, div. A, title V, § 521(a), Dec. 18, 2025, 139 Stat. 863.)
 
-## § 997. Establishment of women’s initiative teams
+## § 997. Establishment of women’s initiative teams
 
 **(a) Establishment.—** The Secretary concerned shall establish a women’s initiative team in each of the Army, Navy, Air Force, Marine Corps, and Space Force to identify and address barriers, if any, to the service, recruitment, retention, and advancement of women in those armed forces.
 
@@ -949,4 +949,4 @@ Pub. L. 117–263, div. A, title III, § 382(d), Dec. 23, 2022, 136 Stat. 2543
 
 **(d) Collaboration.—** A women’s initiative team established under subsection (a) shall work collaboratively with the leadership of the armed force in which such team is established and other stakeholders to carry out the duties described in subsection (b).
 
-(Added Pub. L. 119–60, div. A, title V, § 522(a), Dec. 18, 2025, 139 Stat. 864.)
+(Added Pub. L. 119–60, div. A, title V, § 522(a), Dec. 18, 2025, 139 Stat. 864.)

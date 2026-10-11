@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 12—COPYRIGHT PROTECTION AND MANAGEMENT SYSTEMS
 
-## § 1201. Circumvention of copyright protection systems
+## § 1201. Circumvention of copyright protection systems
 
 **(a) Violations Regarding Circumvention of Technological Measures.—**
 
@@ -193,11 +193,11 @@ The report shall include legislative recommendations, if any.
 
 **(4) Use of technological means for security testing.—** Notwithstanding the provisions of subsection (a)(2), it is not a violation of that subsection for a person to develop, produce, distribute or employ technological means for the sole purpose of performing the acts of security testing described in subsection (2),1
 
-<sup>1</sup>  So in original. Probably should be subsection “(a)(2),”.
+<sup>1</sup> So in original. Probably should be subsection “(a)(2),”.
 
-provided such technological means does not otherwise violate section 2
+provided such technological means does not otherwise violate section 2
 
-<sup>2</sup>  So in original. Probably should be “subsection”.
+<sup>2</sup> So in original. Probably should be “subsection”.
 
 (a)(2).
 
@@ -263,7 +263,7 @@ In the event that a transmission meets both the conditions set forth in subparag
 
 **(5) Violations.—** Any violation of paragraph (1) of this subsection shall be treated as a violation of subsection (b)(1) of this section. Any violation of paragraph (2) of this subsection shall be deemed an “act of circumvention” for the purposes of section 1203(c)(3)(A) of this chapter.
 
-(Added Pub. L. 105–304, title I, § 103(a), Oct. 28, 1998, 112 Stat. 2863; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5006], Nov. 29, 1999, 113 Stat. 1536, 1501A–594.)
+(Added Pub. L. 105–304, title I, § 103(a), Oct. 28, 1998, 112 Stat. 2863; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5006], Nov. 29, 1999, 113 Stat. 1536, 1501A–594.)
 
 **Editorial Notes**
 
@@ -319,7 +319,7 @@ Pub. L. 113–144, Aug. 1, 2014, 128 Stat. 1751, provided that:
 
 > **“(3) Wireless telephone handsets; wireless devices.—** The terms ‘wireless telephone handset’ and ‘wireless device’ mean a handset or other device that operates on a wireless telecommunications network.”
 
-## § 1202. Integrity of copyright management information
+## § 1202. Integrity of copyright management information
 
 **(a) False Copyright Management Information.—** No person shall knowingly and with the intent to induce, enable, facilitate, or conceal infringement—
 
@@ -391,7 +391,7 @@ knowing, or, with respect to civil remedies under section 1203, having reasonabl
 
 **(B)** the term “cable system” has the meaning given that term in section 602 of the Communications Act of 1934 (47 U.S.C. 522).
 
-(Added Pub. L. 105–304, title I, § 103(a), Oct. 28, 1998, 112 Stat. 2872; amended Pub. L. 106–44, § 1(e), Aug. 5, 1999, 113 Stat. 222.)
+(Added Pub. L. 105–304, title I, § 103(a), Oct. 28, 1998, 112 Stat. 2872; amended Pub. L. 106–44, § 1(e), Aug. 5, 1999, 113 Stat. 222.)
 
 **Editorial Notes**
 
@@ -403,7 +403,7 @@ The effective date of this chapter, referred to in subsec. (e)(2)(B)(ii)(II), is
 
 1999—Subsec. (e)(2)(B). Pub. L. 106–44 substituted “category of works” for “category or works” in introductory provisions.
 
-## § 1203. Civil remedies
+## § 1203. Civil remedies
 
 **(a) Civil Actions.—** Any person injured by a violation of section 1201 or 1202 may bring a civil action in an appropriate United States district court for such violation.
 
@@ -449,7 +449,7 @@ The effective date of this chapter, referred to in subsec. (e)(2)(B)(ii)(II), is
 
 **(ii) In general.—** In the case of a nonprofit library, archives, educational institution, or public broadcasting entity, the court shall remit damages in any case in which the library, archives, educational institution, or public broadcasting entity sustains the burden of proving, and the court finds, that the library, archives, educational institution, or public broadcasting entity was not aware and had no reason to believe that its acts constituted a violation.
 
-(Added Pub. L. 105–304, title I, § 103(a), Oct. 28, 1998, 112 Stat. 2874; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5004(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 111–295, § 6(f)(3), Dec. 9, 2010, 124 Stat. 3181.)
+(Added Pub. L. 105–304, title I, § 103(a), Oct. 28, 1998, 112 Stat. 2874; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5004(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 111–295, § 6(f)(3), Dec. 9, 2010, 124 Stat. 3181.)
 
 **Editorial Notes**
 
@@ -459,7 +459,7 @@ The effective date of this chapter, referred to in subsec. (e)(2)(B)(ii)(II), is
 
 1999—Subsec. (c)(5)(B). Pub. L. 106–113 amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of a nonprofit library, archives, or educational institution, the court shall remit damages in any case in which the library, archives, or educational institution sustains the burden of proving, and the court finds, that the library, archives, or educational institution was not aware and had no reason to believe that its acts constituted a violation.”
 
-## § 1204. Criminal offenses and penalties
+## § 1204. Criminal offenses and penalties
 
 **(a) In General.—** Any person who violates section 1201 or 1202 willfully and for purposes of commercial advantage or private financial gain—
 
@@ -471,7 +471,7 @@ The effective date of this chapter, referred to in subsec. (e)(2)(B)(ii)(II), is
 
 **(c) Statute of Limitations.—** No criminal proceeding shall be brought under this section unless such proceeding is commenced within 5 years after the cause of action arose.
 
-(Added Pub. L. 105–304, title I, § 103(a), Oct. 28, 1998, 112 Stat. 2876; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5004(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 111–295, § 6(f)(3), Dec. 9, 2010, 124 Stat. 3181.)
+(Added Pub. L. 105–304, title I, § 103(a), Oct. 28, 1998, 112 Stat. 2876; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title V, § 5004(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 111–295, § 6(f)(3), Dec. 9, 2010, 124 Stat. 3181.)
 
 **Editorial Notes**
 
@@ -481,8 +481,8 @@ The effective date of this chapter, referred to in subsec. (e)(2)(B)(ii)(II), is
 
 1999—Subsec. (b). Pub. L. 106–113 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Subsection (a) shall not apply to a nonprofit library, archives, or educational institution.”
 
-## § 1205. Savings clause
+## § 1205. Savings clause
 
 Nothing in this chapter abrogates, diminishes, or weakens the provisions of, nor provides any defense or element of mitigation in a criminal prosecution or civil action under, any Federal or State law that prevents the violation of the privacy of an individual in connection with the individual’s use of the Internet.
 
-(Added Pub. L. 105–304, title I, § 103(a), Oct. 28, 1998, 112 Stat. 2876.)
+(Added Pub. L. 105–304, title I, § 103(a), Oct. 28, 1998, 112 Stat. 2876.)

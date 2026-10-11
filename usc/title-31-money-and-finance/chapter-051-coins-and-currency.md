@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1992—Pub. L. 102–390, title II, §§ 221(d), 225(b)(6), 229(b), Oct. 6, 1992, 106 Stat. 1629, 1630, 1632, substituted “UNITED STATES MINT” for “BUREAU OF THE MINT” in subchapter III heading and added items 5134 and 5135.
+1992—Pub. L. 102–390, title II, §§ 221(d), 225(b)(6), 229(b), Oct. 6, 1992, 106 Stat. 1629, 1630, 1632, substituted “UNITED STATES MINT” for “BUREAU OF THE MINT” in subchapter III heading and added items 5134 and 5135.
 
 **Executive Documents**
 
 **Executive Order No. 14067**
 
-Ex. Ord. No. 14067, Mar. 9, 2022, 87 F.R. 14143, which related to ensuring responsible development of digital assets including cryptocurrencies, stablecoins, and central bank digital currency, was revoked by Ex Ord. No. 14178, § 3(a), Jan. 23, 2025, 90 F.R. 8648.
+Ex. Ord. No. 14067, Mar. 9, 2022, 87 F.R. 14143, which related to ensuring responsible development of digital assets including cryptocurrencies, stablecoins, and central bank digital currency, was revoked by Ex Ord. No. 14178, § 3(a), Jan. 23, 2025, 90 F.R. 8648.
 
 **Ex. Ord. No. 14178. Strengthening American Leadership in Digital Financial Technology**
 
@@ -171,11 +171,11 @@ Donald J. Trump.
 
 ## SUBCHAPTER I—MONETARY SYSTEM
 
-### § 5101. Decimal system
+### § 5101. Decimal system
 
 United States money is expressed in dollars, dimes or tenths, cents or hundreths,1
 
-<sup>1</sup>  So in original. Probably should be “hundredths,”.
+<sup>1</sup> So in original. Probably should be “hundredths,”.
 
 and mills or thousandths. A dime is a tenth of a dollar, a cent is a hundredth of a dollar, and a mill is a thousandth of a dollar.
 
@@ -185,7 +185,7 @@ and mills or thousandths. A dime is a tenth of a dollar, a cent is a hundredth o
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5101 | 31:371. | R.S. § 3563. |
+| 5101 | 31:371. | R.S. § 3563. |
 
 The word “money” is substituted for “money of account” to eliminate unnecessary words. As far as can be determined, the phrase “money of account” has not been interpreted by any court or Government agency. The phrase was used by Alexander Hamilton in his “Report on the Establishment of the Mint” (1791). In that Report, Hamilton propounded 6 questions, including:
 
@@ -201,77 +201,77 @@ Thus, the phrase “money of account” did not mean, by itself, that dollars or
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 116–330, § 1, Jan. 13, 2021, 134 Stat. 5101, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as a note under section 5112 of this title] may be cited as the ‘Circulating Collectible Coin Redesign Act of 2020’.”
+Pub. L. 116–330, § 1, Jan. 13, 2021, 134 Stat. 5101, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as a note under section 5112 of this title] may be cited as the ‘Circulating Collectible Coin Redesign Act of 2020’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–197, § 1, July 20, 2018, 132 Stat. 1515, provided that: “This Act [amending section 5112 of this title] may be cited as the ‘American Innovation $1 Coin Act’.”
+Pub. L. 115–197, § 1, July 20, 2018, 132 Stat. 1515, provided that: “This Act [amending section 5112 of this title] may be cited as the ‘American Innovation $1 Coin Act’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–118, § 1, June 9, 2014, 128 Stat. 1183, provided that: “This Act [amending provisions listed in a table of Commemorative Medals set out under section 5111 of this title] may be cited as the ‘Gold Medal Technical Corrections Act of 2014’.”
+Pub. L. 113–118, § 1, June 9, 2014, 128 Stat. 1183, provided that: “This Act [amending provisions listed in a table of Commemorative Medals set out under section 5111 of this title] may be cited as the ‘Gold Medal Technical Corrections Act of 2014’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–303, § 1, Dec. 14, 2010, 124 Stat. 3275, provided that: “This Act [amending section 5112 of this title] may be cited as the ‘American Eagle Palladium Bullion Coin Act of 2010’.”
+Pub. L. 111–303, § 1, Dec. 14, 2010, 124 Stat. 3275, provided that: “This Act [amending section 5112 of this title] may be cited as the ‘American Eagle Palladium Bullion Coin Act of 2010’.”
 
-Pub. L. 111–302, § 1, Dec. 14, 2010, 124 Stat. 3272, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as notes under section 5112 of this title] may be cited as the ‘Coin Modernization, Oversight, and Continuity Act of 2010’.”
+Pub. L. 111–302, § 1, Dec. 14, 2010, 124 Stat. 3272, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as notes under section 5112 of this title] may be cited as the ‘Coin Modernization, Oversight, and Continuity Act of 2010’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–456, § 1, Dec. 23, 2008, 122 Stat. 5038, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as a note under section 5112 of this title] may be cited as the ‘America’s Beautiful National Parks Quarter Dollar Coin Act of 2008’.”
+Pub. L. 110–456, § 1, Dec. 23, 2008, 122 Stat. 5038, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as a note under section 5112 of this title] may be cited as the ‘America’s Beautiful National Parks Quarter Dollar Coin Act of 2008’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–82, § 1, Sept. 20, 2007, 121 Stat. 777, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as a note under section 5112 of this title] may be cited as the ‘Native American $1 Coin Act’.”
+Pub. L. 110–82, § 1, Sept. 20, 2007, 121 Stat. 777, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as a note under section 5112 of this title] may be cited as the ‘Native American $1 Coin Act’.”
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–145, § 1, Dec. 22, 2005, 119 Stat. 2664, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as notes under section 5112 of this title] may be cited as the ‘Presidential $1 Coin Act of 2005’.”
+Pub. L. 109–145, § 1, Dec. 22, 2005, 119 Stat. 2664, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as notes under section 5112 of this title] may be cited as the ‘Presidential $1 Coin Act of 2005’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–15, § 1, Apr. 23, 2003, 117 Stat. 615, provided that: “This Act [amending sections 5112, 5134, and 5135 of this title and enacting provisions set out as notes under sections 5112, 5134, and 5135 of this title] may be cited as the ‘American 5-Cent Coin Design Continuity Act of 2003’.”
+Pub. L. 108–15, § 1, Apr. 23, 2003, 117 Stat. 615, provided that: “This Act [amending sections 5112, 5134, and 5135 of this title and enacting provisions set out as notes under sections 5112, 5134, and 5135 of this title] may be cited as the ‘American 5-Cent Coin Design Continuity Act of 2003’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–201, § 1, July 23, 2002, 116 Stat. 736, provided that: “This Act [amending section 5116 of this title and enacting provisions set out as notes under sections 5112 and 5116 of this title] may be cited as the ‘Support of American Eagle Silver Bullion Program Act’.”
+Pub. L. 107–201, § 1, July 23, 2002, 116 Stat. 736, provided that: “This Act [amending section 5116 of this title and enacting provisions set out as notes under sections 5112 and 5116 of this title] may be cited as the ‘Support of American Eagle Silver Bullion Program Act’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–445, § 1, Nov. 6, 2000, 114 Stat. 1931, provided that: “This Act [amending sections 5112, 5132 and 5134 of this title] may be cited as the ‘United States Mint Numismatic Coin Clarification Act of 2000’.”
+Pub. L. 106–445, § 1, Nov. 6, 2000, 114 Stat. 1931, provided that: “This Act [amending sections 5112, 5132 and 5134 of this title] may be cited as the ‘United States Mint Numismatic Coin Clarification Act of 2000’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–124, § 1, Dec. 1, 1997, 111 Stat. 2534, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as notes under this section and section 5112 of this title] may be cited as the ‘50 States Commemorative Coin Program Act’.”
+Pub. L. 105–124, § 1, Dec. 1, 1997, 111 Stat. 2534, provided that: “This Act [amending section 5112 of this title and enacting provisions set out as notes under this section and section 5112 of this title] may be cited as the ‘50 States Commemorative Coin Program Act’.”
 
-Pub. L. 105–124, § 4(a), Dec. 1, 1997, 111 Stat. 2536, provided that: “This section [amending section 5112 of this title and enacting provisions set out as notes under section 5112 of this title] may be cited as the ‘United States $1 Coin Act of 1997’.”
+Pub. L. 105–124, § 4(a), Dec. 1, 1997, 111 Stat. 2536, provided that: “This section [amending section 5112 of this title and enacting provisions set out as notes under section 5112 of this title] may be cited as the ‘United States $1 Coin Act of 1997’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–329, § 1(a), Oct. 20, 1996, 110 Stat. 4005, provided that: “This Act [amending sections 5131 and 5135 of this title and enacting provisions set out as notes under this section, sections 5112 and 5135 of this title, and section 431 of Title 16, Conservation] may be cited as the ‘United States Commemorative Coin Act of 1996’.”
+Pub. L. 104–329, § 1(a), Oct. 20, 1996, 110 Stat. 4005, provided that: “This Act [amending sections 5131 and 5135 of this title and enacting provisions set out as notes under this section, sections 5112 and 5135 of this title, and section 431 of Title 16, Conservation] may be cited as the ‘United States Commemorative Coin Act of 1996’.”
 
-Pub. L. 104–329, title III, § 301, Oct. 20, 1996, 110 Stat. 4012, provided that: “This title [amending sections 5131 and 5135 of this title and enacting provisions set out as notes under sections 5112 and 5135 of this title] may be cited as the ‘50 States Commemorative Coin Program Act’.”
+Pub. L. 104–329, title III, § 301, Oct. 20, 1996, 110 Stat. 4012, provided that: “This title [amending sections 5131 and 5135 of this title and enacting provisions set out as notes under sections 5112 and 5135 of this title] may be cited as the ‘50 States Commemorative Coin Program Act’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–390, title II, § 201, Oct. 6, 1992, 106 Stat. 1624, provided that: “This title [enacting sections 5134 and 5135 of this title, amending sections 304, 5111, 5112, 5119, 5131, and 5132 of this title and section 709 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under sections 5132 and 5134 of this title, amending provisions set out as notes under section 5112 of this title, and repealing provisions set out as a note under section 5112 of this title] may be cited as the ‘United States Mint Reauthorization and Reform Act of 1992’.”
+Pub. L. 102–390, title II, § 201, Oct. 6, 1992, 106 Stat. 1624, provided that: “This title [enacting sections 5134 and 5135 of this title, amending sections 304, 5111, 5112, 5119, 5131, and 5132 of this title and section 709 of Title 18, Crimes and Criminal Procedure, enacting provisions set out as notes under sections 5132 and 5134 of this title, amending provisions set out as notes under section 5112 of this title, and repealing provisions set out as a note under section 5112 of this title] may be cited as the ‘United States Mint Reauthorization and Reform Act of 1992’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–585, § 1, Nov. 15, 1990, 104 Stat. 2874, provided that: “This Act [amending section 5132 of this title] may be cited as the ‘Silver Coin Proof Sets Act’.”
+Pub. L. 101–585, § 1, Nov. 15, 1990, 104 Stat. 2874, provided that: “This Act [amending section 5132 of this title] may be cited as the ‘Silver Coin Proof Sets Act’.”
 
-### § 5102. Standard weight
+### § 5102. Standard weight
 
 The standard troy pound of the National Institute of Standards and Technology of the Department of Commerce shall be the standard used to ensure that the weight of United States coins conforms to specifications in section 5112 of this title.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5102 | 31:364. | R.S. § 3548; restated Mar. 4, 1911, ch. 268, § 1, 36 Stat. 1354. |
+| 5102 | 31:364. | R.S. § 3548; restated Mar. 4, 1911, ch. 268, § 1, 36 Stat. 1354. |
 
 The words “National Bureau of Standards of the Department of Commerce” are substituted for “Bureau of Standards of the United States” because of 15:1511. The words “troy pound of the mint of the United States, conformably to which the coinage thereof shall be regulated” are omitted as unnecessary because of the restatement. The word “ensure” is substituted for “securing” as being more precise. The words “specifications in section 5112 of this title” are substituted for “the provisions of the laws relating to coinage” because of the restatement.
 
@@ -281,11 +281,11 @@ The words “National Bureau of Standards of the Department of Commerce” are s
 
 1988—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-### § 5103. Legal tender
+### § 5103. Legal tender
 
 United States coins and currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks) are legal tender for all debts, public charges, taxes, and dues. Foreign gold or silver coins are not legal tender for debts.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 97–452, § 1(19), Jan. 12, 1983, 96 Stat. 2477.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 97–452, § 1(19), Jan. 12, 1983, 96 Stat. 2477.)
 
 **Historical and Revision Notes**
 
@@ -293,10 +293,10 @@ United States coins and currency (including Federal reserve notes and circulatin
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5103 | 31:392. | July 23, 1965, Pub. L. 89–81, § 102, 79 Stat. 255. |
-|  | 31:456. | R.S. § 3584. |
+| 5103 | 31:392. | July 23, 1965, Pub. L. 89–81, § 102, 79 Stat. 255. |
+|  | 31:456. | R.S. § 3584. |
 
-The words “All . . . regardless of when coined or issued” are omitted as unnecessary because of the restatement. The word “debts” is substituted for “debts, public and private” to eliminate unnecessary words. The words “public charges, taxes, duties, and dues” are omitted as included in “debts”.
+The words “All . . . regardless of when coined or issued” are omitted as unnecessary because of the restatement. The word “debts” is substituted for “debts, public and private” to eliminate unnecessary words. The words “public charges, taxes, duties, and dues” are omitted as included in “debts”.
 
 **1983 Act**
 
@@ -306,7 +306,7 @@ This restores to 31:5103 the reference to public charges, taxes, and dues becaus
 
 **Amendments**
 
-1983—Pub. L. 97–452 inserted “, public charges, taxes, and dues” after “all debts”.
+1983—Pub. L. 97–452 inserted “, public charges, taxes, and dues” after “all debts”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -316,7 +316,7 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 ## SUBCHAPTER II—GENERAL AUTHORITY
 
-### § 5111. Minting and issuing coins, medals, and numismatic items
+### § 5111. Minting and issuing coins, medals, and numismatic items
 
 **(a)** The Secretary of the Treasury—
 
@@ -354,30 +354,30 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 **(2)** A person knowingly violating an order or license issued or regulation prescribed under paragraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
-**(3)** Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 1
+**(3)** Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (26 U.S.C. 7321 et seq.).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 100–274, § 3, Mar. 31, 1988, 102 Stat. 49; Pub. L. 102–390, title II, § 222, Oct. 6, 1992, 106 Stat. 1629.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 100–274, § 3, Mar. 31, 1988, 102 Stat. 49; Pub. L. 102–390, title II, § 222, Oct. 6, 1992, 106 Stat. 1629.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5111(a)(1) | 31:272. | R.S. § 3503. |
-|  | 31:275. | R.S. § 3509; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
-|  | 31:322. | R.S. § 3516. |
-|  | 31:342. | June 4, 1897, ch. 2, § 1(1st par. under heading “Recoinage, Reissue, and Transportation of Minor Coins”), 30 Stat. 27. |
-|  | 31:345. | R.S. § 3532; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
-|  | 31:353. | R.S. § 3540; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
-|  | 31:391(a). | July 23, 1965, Pub. L. 89–81, § 101(a), 79 Stat. 254; restated Dec. 31, 1970, Pub. L. 91–607, § 201, 84 Stat. 1768. |
-| 5111(a)(2) | 31:368. | R.S. § 3551; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
-| 5111(a)(3) | 31:324h. | Oct. 18, 1973, Pub. L. 93–127, § 5, 87 Stat. 456. |
+| 5111(a)(1) | 31:272. | R.S. § 3503. |
+|  | 31:275. | R.S. § 3509; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+|  | 31:322. | R.S. § 3516. |
+|  | 31:342. | June 4, 1897, ch. 2, § 1(1st par. under heading “Recoinage, Reissue, and Transportation of Minor Coins”), 30 Stat. 27. |
+|  | 31:345. | R.S. § 3532; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+|  | 31:353. | R.S. § 3540; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+|  | 31:391(a). | July 23, 1965, Pub. L. 89–81, § 101(a), 79 Stat. 254; restated Dec. 31, 1970, Pub. L. 91–607, § 201, 84 Stat. 1768. |
+| 5111(a)(2) | 31:368. | R.S. § 3551; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+| 5111(a)(3) | 31:324h. | Oct. 18, 1973, Pub. L. 93–127, § 5, 87 Stat. 456. |
 | 5111(a)(4) | 31:367. | Jan. 29, 1874, ch. 19, 18 Stat. 6. |
-| 5111(b) | 31:340. | R.S. § 3528; Apr. 24, 1906, ch. 1861, 34 Stat. 132; Dec. 2, 1918, ch. 1, 40 Stat. 1051; Aug. 14, 1937, ch. 631, 50 Stat. 647; June 21, 1941, ch. 213, 55 Stat. 255; June 30, 1954, ch. 427, 68 Stat. 336; July 9, 1956, ch. 535, § 1, 70 Stat. 518; restated July 23, 1965, Pub. L. 89–81, § 206(a), 79 Stat. 256. |
-| 5111(c) | 31:393(a). | July 23, 1965, Pub. L. 89–81, §§ 103(a), 105, 106, 79 Stat. 255. |
+| 5111(b) | 31:340. | R.S. § 3528; Apr. 24, 1906, ch. 1861, 34 Stat. 132; Dec. 2, 1918, ch. 1, 40 Stat. 1051; Aug. 14, 1937, ch. 631, 50 Stat. 647; June 21, 1941, ch. 213, 55 Stat. 255; June 30, 1954, ch. 427, 68 Stat. 336; July 9, 1956, ch. 535, § 1, 70 Stat. 518; restated July 23, 1965, Pub. L. 89–81, § 206(a), 79 Stat. 256. |
+| 5111(c) | 31:393(a). | July 23, 1965, Pub. L. 89–81, §§ 103(a), 105, 106, 79 Stat. 255. |
 | 5111(d) | 31:395, 396. |  |
 
 In subsection (a)(1), the words “coins described in” are substituted for “coins of the denominations set forth in” in 31:391(a) because of the restatement. The text of 31:253, 272, and 345(1st sentence) is omitted as superseded by the source provisions restated in section 321(c) of the revised title. The text of 31:275, 322, 342, 345(last sentence), and 353 is omitted as unnecessary because of the restatement.
@@ -386,7 +386,7 @@ In subsection (a)(2), the words “Secretary of the Treasury” are substituted 
 
 In subsection (a)(3), the words “numismatic items” are retained and used throughout the revised title to apply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words “In connection with the operations of the Bureau of the Mint” are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
 
-In subsection (a)(4), the words “may mint” are substituted for “It shall be lawful for coinage to be executed” in 31:367, and the words “regular minting operations” are substituted for “required coinage of the United States”, for consistency in the revised section. The words “at the mints of the United States” and “according to the legally prescribed standards and devices of such country” are omitted as unnecessary because of the restatement. The words “The Secretary of the Treasury . . . shall prescribe a charge” are substituted for “the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The words “minting the foreign coins” are substituted for “the same”, for clarity. The words “under such regulations as the Secretary of the Treasury may prescribe” are omitted as unnecessary because of section 321(b) of the revised title.
+In subsection (a)(4), the words “may mint” are substituted for “It shall be lawful for coinage to be executed” in 31:367, and the words “regular minting operations” are substituted for “required coinage of the United States”, for consistency in the revised section. The words “at the mints of the United States” and “according to the legally prescribed standards and devices of such country” are omitted as unnecessary because of the restatement. The words “The Secretary of the Treasury . . . shall prescribe a charge” are substituted for “the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The words “minting the foreign coins” are substituted for “the same”, for clarity. The words “under such regulations as the Secretary of the Treasury may prescribe” are omitted as unnecessary because of section 321(b) of the revised title.
 
 In subsection (b), the first sentence is added for clarity and because of the restatement. The words “amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal” are substituted for “gain arising from the coinage of metals purchased out of such fund into coin of a nominal value exceeding the cost of such metals” to eliminate unnecessary words. The words “The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund” are substituted for “such sums as shall from time to time be transferred therefrom to the general fund of the Treasury” for clarity and for consistency in the revised title.
 
@@ -402,11 +402,11 @@ In subsection (d)(3), the words “and his delegates” are omitted as unnecessa
 
 **References in Text**
 
-The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, and is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, and is classified generally to Title 26, Internal Revenue Code.
 
 **Amendments**
 
-1992—Subsec. (b). Pub. L. 102–390 inserted “, including the cost of coin bags and pallets” after “distributing the coins” in fourth sentence.
+1992—Subsec. (b). Pub. L. 102–390 inserted “, including the cost of coin bags and pallets” after “distributing the coins” in fourth sentence.
 
 1988—Subsec. (c). Pub. L. 100–274 inserted heading and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make contracts on conditions the Secretary decides are appropriate and in the public interest to acquire equipment, manufacturing facilities, patents, patent rights, technical knowledge and assistance, and materials necessary to produce rapidly an adequate supply of coins referred to in section 5112(a)(1)–(4) of this title.”
 
@@ -424,7 +424,7 @@ Pub. L. 119–53, Dec. 12, 2025, 139 Stat. 702, recognizing the members of the 1
 
 Pub. L. 118–161, Dec. 23, 2024, 138 Stat. 2572, recognizing Everett Alvarez, Jr. for distinctive service and sacrifice during the Vietnam war.
 
-Pub. L. 118–159, div. E, title LVII, § 5703, Dec. 23, 2024, 138 Stat. 2462, recognizing female telephone operators of the Army Signal Corps, known as the “Hello Girls”.
+Pub. L. 118–159, div. E, title LVII, § 5703, Dec. 23, 2024, 138 Stat. 2462, recognizing female telephone operators of the Army Signal Corps, known as the “Hello Girls”.
 
 Pub. L. 118–150, Dec. 12, 2024, 138 Stat. 1682, recognizing Shirley Chisholm, the first African-American woman elected to Congress.
 
@@ -464,7 +464,7 @@ Pub. L. 116–170, Oct. 17, 2020, 134 Stat. 775, recognizing Merrill’s Maraude
 
 Pub. L. 116–125, Mar. 13, 2020, 134 Stat. 171, recognizing the United States merchant mariners of World War II.
 
-Pub. L. 116–68, Nov. 8, 2019, 133 Stat. 1129; Pub. L. 117–103, div. HH, title IV, § 401, Mar. 15, 2022, 136 Stat. 1113, recognizing Katherine Johnson, Dr. Christine Darden, Dorothy Vaughan, Mary Jackson, and all women who served as computers, mathematicians, and engineers at the National Advisory Committee for Aeronautics and the National Aeronautics and Space Administration between the 1930s and the 1970s.
+Pub. L. 116–68, Nov. 8, 2019, 133 Stat. 1129; Pub. L. 117–103, div. HH, title IV, § 401, Mar. 15, 2022, 136 Stat. 1113, recognizing Katherine Johnson, Dr. Christine Darden, Dorothy Vaughan, Mary Jackson, and all women who served as computers, mathematicians, and engineers at the National Advisory Committee for Aeronautics and the National Aeronautics and Space Administration between the 1930s and the 1970s.
 
 Pub. L. 115–415, Jan. 3, 2019, 132 Stat. 5433, recognizing Stephen Michael Gleason.
 
@@ -506,7 +506,7 @@ Pub. L. 112–148, July 26, 2012, 126 Stat. 1140, recognizing Raoul Wallenberg.
 
 Pub. L. 112–76, Dec. 23, 2011, 125 Stat. 1275, recognizing the fallen heroes who perished as a result of the terrorist attacks on the United States on Sept. 11, 2001.
 
-Pub. L. 112–59, Nov. 23, 2011, 125 Stat. 749; Pub. L. 113–118, § 3, June 9, 2014, 128 Stat. 1183, recognizing the Montford Point Marines.
+Pub. L. 112–59, Nov. 23, 2011, 125 Stat. 749; Pub. L. 113–118, § 3, June 9, 2014, 128 Stat. 1183, recognizing the Montford Point Marines.
 
 Pub. L. 111–254, Oct. 5, 2010, 124 Stat. 2637, recognizing the 100th Infantry Battalion, the 442nd Regimental Combat Team, and the Military Intelligence Service, United States Army, for service during World War II.
 
@@ -538,9 +538,9 @@ Pub. L. 109–287, Sept. 27, 2006, 120 Stat. 1231, recognizing the Fourteenth Da
 
 Pub. L. 109–213, Apr. 11, 2006, 120 Stat. 322, recognizing the Tuskegee Airmen.
 
-Pub. L. 108–447, div. B, title I, § 124, Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–13, div. A, title VI, § 6060, May 11, 2005, 119 Stat. 297; Pub. L. 115–276, Nov. 3, 2018, 132 Stat. 4166, recognizing members of public safety organizations who were killed in, or died as a result of, the terrorist attacks in the United States on Sept. 11, 2001.
+Pub. L. 108–447, div. B, title I, § 124, Dec. 8, 2004, 118 Stat. 2871; Pub. L. 109–13, div. A, title VI, § 6060, May 11, 2005, 119 Stat. 297; Pub. L. 115–276, Nov. 3, 2018, 132 Stat. 4166, recognizing members of public safety organizations who were killed in, or died as a result of, the terrorist attacks in the United States on Sept. 11, 2001.
 
-Pub. L. 108–368, Oct. 25, 2004, 118 Stat. 1746; Pub. L. 113–118, § 2, June 9, 2014, 128 Stat. 1183, recognizing Reverend Doctor Martin Luther King, Jr., and his widow Coretta Scott King.
+Pub. L. 108–368, Oct. 25, 2004, 118 Stat. 1746; Pub. L. 113–118, § 2, June 9, 2014, 128 Stat. 1183, recognizing Reverend Doctor Martin Luther King, Jr., and his widow Coretta Scott King.
 
 Pub. L. 108–180, Dec. 15, 2003, 117 Stat. 2645, recognizing Reverend Joseph A. DeLaine, Harry and Eliza Briggs, and Levi Pearson.
 
@@ -552,7 +552,7 @@ Pub. L. 108–60, July 17, 2003, 117 Stat. 862, recognizing Prime Minister Tony 
 
 Pub. L. 107–127, Jan. 16, 2002, 115 Stat. 2405, recognizing General Henry H. Shelton.
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title XI, § 1101], Dec. 21, 2000, 114 Stat. 2763, 2763A–311, recognizing the Navajo Code Talkers.
+Pub. L. 106–554, § 1(a)(4) [div. B, title XI, § 1101], Dec. 21, 2000, 114 Stat. 2763, 2763A–311, recognizing the Navajo Code Talkers.
 
 Pub. L. 106–251, July 27, 2000, 114 Stat. 624, recognizing Ronald and Nancy Reagan.
 
@@ -566,9 +566,9 @@ Pub. L. 106–153, Dec. 9, 1999, 113 Stat. 1733, recognizing Father Theodore M. 
 
 Pub. L. 106–26, May 4, 1999, 113 Stat. 50, recognizing Rosa Parks.
 
-Pub. L. 105–277, div. C, title I, § 139(a), Oct. 21, 1998, 112 Stat. 2681–597, recognizing the individuals commonly referred to as the “Little Rock Nine”.
+Pub. L. 105–277, div. C, title I, § 139(a), Oct. 21, 1998, 112 Stat. 2681–597, recognizing the individuals commonly referred to as the “Little Rock Nine”.
 
-Pub. L. 105–277, div. C, title I, § 139(b), Oct. 21, 1998, 112 Stat. 2681–598, recognizing Gerald R. and Betty Ford.
+Pub. L. 105–277, div. C, title I, § 139(b), Oct. 21, 1998, 112 Stat. 2681–598, recognizing Gerald R. and Betty Ford.
 
 Pub. L. 105–215, July 29, 1998, 112 Stat. 895, recognizing Nelson Rolihlahla Mandela.
 
@@ -578,7 +578,7 @@ Pub. L. 105–16, June 2, 1997, 111 Stat. 35, recognizing Mother Teresa of Calcu
 
 Pub. L. 105–14, May 14, 1997, 111 Stat. 32, recognizing Frank Sinatra.
 
-Pub. L. 104–201, div. A, title X, § 1066, Sept. 23, 1996, 110 Stat. 2654, recognizing civilians who defended Pearl Harbor.
+Pub. L. 104–201, div. A, title X, § 1066, Sept. 23, 1996, 110 Stat. 2654, recognizing civilians who defended Pearl Harbor.
 
 Pub. L. 104–111, Feb. 13, 1996, 110 Stat. 772, recognizing Billy and Ruth Graham.
 
@@ -588,17 +588,17 @@ Pub. L. 102–479, Oct. 23, 1992, 106 Stat. 2308, commemorating the 250th annive
 
 Pub. L. 102–406, Oct. 12, 1992, 106 Stat. 1986, commemorating Benjamin Franklin’s contributions to American fire services.
 
-Pub. L. 102–281, title III, May 13, 1992, 106 Stat. 137; Pub. L. 103–328, title II, § 203, Sept. 29, 1994, 108 Stat. 2369, recognizing members of the United States Armed Forces who served in a combat zone in connection with the Persian Gulf conflict.
+Pub. L. 102–281, title III, May 13, 1992, 106 Stat. 137; Pub. L. 103–328, title II, § 203, Sept. 29, 1994, 108 Stat. 2369, recognizing members of the United States Armed Forces who served in a combat zone in connection with the Persian Gulf conflict.
 
 Pub. L. 102–33, Apr. 23, 1991, 105 Stat. 177, recognizing General Colin L. Powell.
 
 Pub. L. 102–32, Apr. 23, 1991, 105 Stat. 175, recognizing General H. Norman Schwarzkopf.
 
-Pub. L. 101–510, div. A, title XIV, §§ 1491, 1494, Nov. 5, 1990, 104 Stat. 1720, 1722, recognizing General Matthew B. Ridgway.
+Pub. L. 101–510, div. A, title XIV, §§ 1491, 1494, Nov. 5, 1990, 104 Stat. 1720, 1722, recognizing General Matthew B. Ridgway.
 
-Pub. L. 101–510, div. A, title XIV, §§ 1492, 1494, Nov. 5, 1990, 104 Stat. 1721, 1722, recognizing veterans of the Armed Forces of the United States who were present in Hawaii on Dec. 7, 1941, and participated in combat operations that day.
+Pub. L. 101–510, div. A, title XIV, §§ 1492, 1494, Nov. 5, 1990, 104 Stat. 1721, 1722, recognizing veterans of the Armed Forces of the United States who were present in Hawaii on Dec. 7, 1941, and participated in combat operations that day.
 
-Pub. L. 101–510, div. A, title XIV, §§ 1493, 1494, Nov. 5, 1990, 104 Stat. 1722, commemorating centennial of Yosemite National Park.
+Pub. L. 101–510, div. A, title XIV, §§ 1493, 1494, Nov. 5, 1990, 104 Stat. 1722, commemorating centennial of Yosemite National Park.
 
 Pub. L. 101–296, May 17, 1990, 104 Stat. 197, recognizing Laurance Spelman Rockefeller.
 
@@ -606,9 +606,9 @@ Pub. L. 101–260, Mar. 30, 1990, 104 Stat. 122, commemorating bicentennial of U
 
 Pub. L. 100–639, Nov. 9, 1988, 102 Stat. 3331, recognizing Andrew Wyeth.
 
-Pub. L. 100–437, §§ 1–3, Sept. 20, 1988, 102 Stat. 1717, recognizing Jesse Owens.
+Pub. L. 100–437, §§ 1–3, Sept. 20, 1988, 102 Stat. 1717, recognizing Jesse Owens.
 
-Pub. L. 100–210, §§ 1, 2, Dec. 24, 1987, 101 Stat. 1441, recognizing Mary Lasker.
+Pub. L. 100–210, §§ 1, 2, Dec. 24, 1987, 101 Stat. 1441, recognizing Mary Lasker.
 
 Pub. L. 99–418, Sept. 23, 1986, 100 Stat. 952, recognizing Aaron Copland.
 
@@ -616,11 +616,11 @@ Pub. L. 99–311, May 20, 1986, 100 Stat. 464, recognizing Harry Chapin.
 
 Pub. L. 99–298, May 13, 1986, 100 Stat. 432, recognizing Natan (Anatoly) and Avital Shcharansky.
 
-Pub. L. 99–295, May 12, 1986, 100 Stat. 427; Pub. L. 100–210, § 3, Dec. 24, 1987, 101 Stat. 1441; Pub. L. 100–437, § 4, Sept. 20, 1988, 102 Stat. 1717, commemorating the Young Astronaut Program.
+Pub. L. 99–295, May 12, 1986, 100 Stat. 427; Pub. L. 100–210, § 3, Dec. 24, 1987, 101 Stat. 1441; Pub. L. 100–437, § 4, Sept. 20, 1988, 102 Stat. 1717, commemorating the Young Astronaut Program.
 
-Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, recognizing outstanding individuals in the American arts.
+Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680, recognizing outstanding individuals in the American arts.
 
-### § 5112. Denominations, specifications, and design of coins
+### § 5112. Denominations, specifications, and design of coins
 
 **(a)** The Secretary of the Treasury may mint and issue only the following coins:
 
@@ -854,9 +854,9 @@ Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680
 
 **(5) Legal tender.—** The coins minted under this title shall be legal tender, as provided in section 5103.
 
-**(6) Treatment as numismatic items.—** For purposes of section 1
+**(6) Treatment as numismatic items.—** For purposes of section 1
 
-<sup>1</sup>  So in original. Probably should be “sections”.
+<sup>1</sup> So in original. Probably should be “sections”.
 
 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
@@ -940,7 +940,7 @@ Pub. L. 95–630, title IV, §§ 401–407, Nov. 10, 1978, 92 Stat. 3679, 3680
 
 **(9) Legal tender.—** The coins minted under this title shall be legal tender, as provided in section 5103.
 
-**(10) Treatment as numismatic items.—** For purposes of section <sup>1</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
+**(10) Treatment as numismatic items.—** For purposes of section <sup>1</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
 **(p) Removal of Barriers to Circulation of $1 Coin.—**
 
@@ -958,7 +958,7 @@ This paragraph does not apply with respect to business operations conducted by a
 
 **(2) Publicity.—** The Director of the United States Mint,2
 
-<sup>2</sup>  So in original. The comma probably should not appear.
+<sup>2</sup> So in original. The comma probably should not appear.
 
 shall work closely with consumer groups, media outlets, and schools to ensure an adequate amount of news coverage, and other means of increasing public awareness, of the inauguration of the Presidential $1 Coin Program established in subsection (n) to ensure that consumers know of the availability of the coin.
 
@@ -1038,7 +1038,7 @@ shall work closely with consumer groups, media outlets, and schools to ensure an
 
 **(5) Legal tender.—** The coins minted under this title shall be legal tender, as provided in section 5103.
 
-**(6) Treatment as numismatic items.—** For purposes of section <sup>1</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
+**(6) Treatment as numismatic items.—** For purposes of section <sup>1</sup> 5134 and 5136, all coins minted under this subsection shall be considered to be numismatic items.
 
 **(r) Redesign and Issuance of Circulating $1 Coins Honoring Native Americans and the Important Contributions Made by Indian Tribes and Individual Native Americans in United States History.—**
 
@@ -1320,9 +1320,9 @@ shall work closely with consumer groups, media outlets, and schools to ensure an
 
 **(III)** has the edge-incusing described under paragraph (2)(C); and
 
-**(IV)** the design for which has reviewed by 3
+**(IV)** the design for which has reviewed by 3
 
-<sup>3</sup>  So in original.
+<sup>3</sup> So in original.
 
 the Citizens Coinage Advisory Committee.
 
@@ -1490,9 +1490,9 @@ the Citizens Coinage Advisory Committee.
 
 **(2) Redesign of half dollars beginning in 2027.—**
 
-**(A) In general.—** Effective January 1, 2027, notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2), the Secretary shall issue half dollars that have designs on the reverse selected in accordance with this subsection which are emblematic of a sport tailored to athletes with a range of disabilities, including physical impairment, vision impairment and intellectual impairment (referred to in this Act 4
+**(A) In general.—** Effective January 1, 2027, notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2), the Secretary shall issue half dollars that have designs on the reverse selected in accordance with this subsection which are emblematic of a sport tailored to athletes with a range of disabilities, including physical impairment, vision impairment and intellectual impairment (referred to in this Act 4
 
-<sup>4</sup>  So in original. Probably should be “this subsection”.
+<sup>4</sup> So in original. Probably should be “this subsection”.
 
 as a “Paralympic” sport).
 
@@ -1574,7 +1574,7 @@ as a “Paralympic” sport).
 
 **(6) Quality of medals.—** It is the sense of Congress that the medals authorized under subsection (z) be produced in high relief and, if feasible and cost effective, with surface treatments such as frosting and colorization.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, § 1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, § 202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, § 2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§ 4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§ 226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, § 4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, § 101(f) [title V, §§ 523, 524, 529(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§ 3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, § 2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§ 102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§ 102–104, title II, § 201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§ 2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§ 622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, § 102, title II, § 201, Dec. 23, 2008, 122 Stat. 5039, 5042; Pub. L. 111–8, div. D, title VI, § 616, Mar. 11, 2009, 123 Stat. 677; Pub. L. 111–302, §§ 4, 5, Dec. 14, 2010, 124 Stat. 3273; Pub. L. 111–303, § 2, Dec. 14, 2010, 124 Stat. 3275; Pub. L. 114–94, div. G, title LXXIII, § 73001(1), Dec. 4, 2015, 129 Stat. 1785; Pub. L. 115–91, div. A, title VIII, § 885, Dec. 12, 2017, 131 Stat. 1505; Pub. L. 115–197, § 2, July 20, 2018, 132 Stat. 1515; Pub. L. 115–232, div. A, title X, § 1081(e)(1), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–330, §§ 2–6, Jan. 13, 2021, 134 Stat. 5101–5106.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, § 1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, § 202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, § 2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§ 4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§ 226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, § 4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, § 101(f) [title V, §§ 523, 524, 529(a)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§ 3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, § 2(b), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, §§ 102, 103(d)(1), Apr. 23, 2003, 117 Stat. 615, 619; Pub. L. 109–145, title I, §§ 102–104, title II, § 201, Dec. 22, 2005, 119 Stat. 2665–2669, 2672; Pub. L. 110–82, §§ 2, 3, Sept. 20, 2007, 121 Stat. 777, 779; Pub. L. 110–147, Dec. 21, 2007, 121 Stat. 1817; Pub. L. 110–161, div. D, title VI, §§ 622–623(b), Dec. 26, 2007, 121 Stat. 2016, 2018; Pub. L. 110–456, title I, § 102, title II, § 201, Dec. 23, 2008, 122 Stat. 5039, 5042; Pub. L. 111–8, div. D, title VI, § 616, Mar. 11, 2009, 123 Stat. 677; Pub. L. 111–302, §§ 4, 5, Dec. 14, 2010, 124 Stat. 3273; Pub. L. 111–303, § 2, Dec. 14, 2010, 124 Stat. 3275; Pub. L. 114–94, div. G, title LXXIII, § 73001(1), Dec. 4, 2015, 129 Stat. 1785; Pub. L. 115–91, div. A, title VIII, § 885, Dec. 12, 2017, 131 Stat. 1505; Pub. L. 115–197, § 2, July 20, 2018, 132 Stat. 1515; Pub. L. 115–232, div. A, title X, § 1081(e)(1), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–330, §§ 2–6, Jan. 13, 2021, 134 Stat. 5101–5106.)
 
 **Historical and Revision Notes**
 
@@ -1582,32 +1582,32 @@ as a “Paralympic” sport).
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5112(a) | 31:317(a)(1st, last sentences). | R.S. § 3515(a); Sept. 26, 1890, ch. 945, § 1, 26 Stat. 485; Sept. 5, 1962, Pub. L. 87–643, § 1, 76 Stat. 440; Oct. 11, 1974, Pub. L. 93–441, § 1, 88 Stat. 1261. |
-|  | 31:391(c). | July 23, 1965, Pub. L. 89–81, § 101(c), 79 Stat. 255; restated Dec. 31, 1970, Pub. L. 91–607, § 201, 84 Stat. 1768; Oct. 10, 1978, Pub. L. 95–447, § 2, 92 Stat. 1072. |
+| 5112(a) | 31:317(a)(1st, last sentences). | R.S. § 3515(a); Sept. 26, 1890, ch. 945, § 1, 26 Stat. 485; Sept. 5, 1962, Pub. L. 87–643, § 1, 76 Stat. 440; Oct. 11, 1974, Pub. L. 93–441, § 1, 88 Stat. 1261. |
+|  | 31:391(c). | July 23, 1965, Pub. L. 89–81, § 101(c), 79 Stat. 255; restated Dec. 31, 1970, Pub. L. 91–607, § 201, 84 Stat. 1768; Oct. 10, 1978, Pub. L. 95–447, § 2, 92 Stat. 1072. |
 | 5112(b) | 31:317(a)(2d, 3d sentences). |  |
-|  | 31:346. | R.S. § 3533; June 14, 1947, ch. 104, § 1, 61 Stat. 132. |
-|  | 31:391(b). | July 23, 1965, Pub. L. 89–81, § 101(b), (d), 79 Stat. 254; restated Dec. 31, 1970, Pub. L. 91–607, § 201, 84 Stat. 1768. |
-|  | 31:398(1)–(4), (6). | July 23, 1965, Pub. L. 89–81, § 108(1)–(4), (6), 79 Stat. 255. |
-| 5112(c) | 31:317(b). | R.S. § 3515(b); added Oct. 11, 1974, Pub. L. 93–441, § 1, 88 Stat. 1261. |
-| 5112(d)(1) | 31:324. | R.S. § 3517; Mar. 3, 1887, ch. 396, § 3, 24 Stat. 635; Sept. 26, 1890, ch. 945, § 1, 26 Stat. 485; May 18, 1908, ch. 173, 35 Stat. 164; restated July 23, 1965, Pub. L. 89–81, § 204(a), 79 Stat. 256; Dec. 31, 1970, Pub. L. 91–607, § 206, 84 Stat. 1769. |
-|  | 31:324b–1. | Oct. 10, 1978, Pub. L. 95–447, § 3, 92 Stat. 1072. |
-| 5112(d)(2) | 31:276. | R.S. § 3510; restated Sept. 26, 1890, ch. 944, 26 Stat. 484. |
-| 5112(e) | 31:324b. | Dec. 31, 1970, Pub. L. 91–607, § 203, 84 Stat. 1769; Oct. 10, 1978, Pub. L. 95–447, § 4, 92 Stat. 1072. |
-|  | 31:324c. | Dec. 31, 1970, Pub. L. 91–607, § 209, 84 Stat. 1769. |
+|  | 31:346. | R.S. § 3533; June 14, 1947, ch. 104, § 1, 61 Stat. 132. |
+|  | 31:391(b). | July 23, 1965, Pub. L. 89–81, § 101(b), (d), 79 Stat. 254; restated Dec. 31, 1970, Pub. L. 91–607, § 201, 84 Stat. 1768. |
+|  | 31:398(1)–(4), (6). | July 23, 1965, Pub. L. 89–81, § 108(1)–(4), (6), 79 Stat. 255. |
+| 5112(c) | 31:317(b). | R.S. § 3515(b); added Oct. 11, 1974, Pub. L. 93–441, § 1, 88 Stat. 1261. |
+| 5112(d)(1) | 31:324. | R.S. § 3517; Mar. 3, 1887, ch. 396, § 3, 24 Stat. 635; Sept. 26, 1890, ch. 945, § 1, 26 Stat. 485; May 18, 1908, ch. 173, 35 Stat. 164; restated July 23, 1965, Pub. L. 89–81, § 204(a), 79 Stat. 256; Dec. 31, 1970, Pub. L. 91–607, § 206, 84 Stat. 1769. |
+|  | 31:324b–1. | Oct. 10, 1978, Pub. L. 95–447, § 3, 92 Stat. 1072. |
+| 5112(d)(2) | 31:276. | R.S. § 3510; restated Sept. 26, 1890, ch. 944, 26 Stat. 484. |
+| 5112(e) | 31:324b. | Dec. 31, 1970, Pub. L. 91–607, § 203, 84 Stat. 1769; Oct. 10, 1978, Pub. L. 95–447, § 4, 92 Stat. 1072. |
+|  | 31:324c. | Dec. 31, 1970, Pub. L. 91–607, § 209, 84 Stat. 1769. |
 |  | 31:391(d). |  |
 |  | 31:398(3), (4). |  |
-| 5112(f) | 31:321. | R.S. § 3514; Jan. 30, 1934, ch. 6, § 5, 48 Stat. 340. |
-|  | 31:399. | July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub. L. 97–104, § 2, 95 Stat. 1491. |
+| 5112(f) | 31:321. | R.S. § 3514; Jan. 30, 1934, ch. 6, § 5, 48 Stat. 340. |
+|  | 31:399. | July 23, 1965, Pub. L. 89–81, 79 Stat. 254, § 109; added Dec. 23, 1981, Pub. L. 97–104, § 2, 95 Stat. 1491. |
 
 In subsection (a), the words before clause (1) are added because of the restatement. In clause (5), the words “that is 0.835 inch in diameter” are added because the Secretary of the Treasury has prescribed the diameter and the diameter of a coin may not be changed under 31:276. The words “5 grams” are substituted for “seventy-seven and sixteen-hundredths grains troy” for consistency in the revised chapter. In clause (6), the words “that is 0.75 inch in diameter” are added because the Secretary has prescribed the diameter and the diameter of a coin may not be changed under 31:276. The words “except as provided under subsection (c) of this section” are added for clarity and because of the restatement. The words “3.11 grams” are substituted for “forty-eight grains” for consistency in the revised chapter.
 
-In subsection (b), the words “In minting 5-cent coins” are substituted for “in minor-coinage alloys” in 31:346 because 5-cent coins are the minor coins composed of nickel. The words “Secretary shall use” are substituted for “shall be used” because of the source provisions restated in section 321 of the revised title. The word “bars” is substituted for “ingots” for consistency in the revised chapter. The words “2.5 percent” are substituted for “twenty-five thousandths” for consistency in the revised title and with other titles of the United States Code. The words “from the percent of nickel required” are substituted for “the legal standard . . . in the proportion of nickel” because of the restatement. The words “In silver ingots, six-thousandths” are omitted as superseded by the source provisions restated in the section. The words “In gold ingots, one-thousandth” in section 3533 of the Revised Statutes are omitted because gold coinage was discontinued by 31:315b. The words “Except as provided in subsection (c) of this section” are added for clarity and because of the restatement.
+In subsection (b), the words “In minting 5-cent coins” are substituted for “in minor-coinage alloys” in 31:346 because 5-cent coins are the minor coins composed of nickel. The words “Secretary shall use” are substituted for “shall be used” because of the source provisions restated in section 321 of the revised title. The word “bars” is substituted for “ingots” for consistency in the revised chapter. The words “2.5 percent” are substituted for “twenty-five thousandths” for consistency in the revised title and with other titles of the United States Code. The words “from the percent of nickel required” are substituted for “the legal standard . . . in the proportion of nickel” because of the restatement. The words “In silver ingots, six-thousandths” are omitted as superseded by the source provisions restated in the section. The words “In gold ingots, one-thousandth” in section 3533 of the Revised Statutes are omitted because gold coinage was discontinued by 31:315b. The words “Except as provided in subsection (c) of this section” are added for clarity and because of the restatement.
 
 In subsection (c), the words “a different weight and alloy of copper and zinc” are substituted for “such action” for clarity.
 
-In subsection (d)(1), the words “an impression emblematic of liberty” in 31:324 are omitted as obsolete. The words “The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle” are substituted for “and upon the reverse side shall be the figure or representation of an eagle . . . but on the dime, 5-, and 1-cent piece, the figure of the eagle shall be omitted”, and the words “The emblem on the obverse side of the dollar is” are substituted for “The one-dollar coin authorized by section 391(c) of this title shall bear on the obverse side” in 31:324b–1, to eliminate unnecessary words. The words “Any coins minted after July 23, 1965, from 900 fine coin silver shall be inscribed with the year 1964” in 31:324 are omitted because the Secretary no longer has authority to mint coins from 900 fine coin silver.
+In subsection (d)(1), the words “an impression emblematic of liberty” in 31:324 are omitted as obsolete. The words “The design on the reverse side of the dollar, half dollar, and quarter dollar is an eagle” are substituted for “and upon the reverse side shall be the figure or representation of an eagle . . . but on the dime, 5-, and 1-cent piece, the figure of the eagle shall be omitted”, and the words “The emblem on the obverse side of the dollar is” are substituted for “The one-dollar coin authorized by section 391(c) of this title shall bear on the obverse side” in 31:324b–1, to eliminate unnecessary words. The words “Any coins minted after July 23, 1965, from 900 fine coin silver shall be inscribed with the year 1964” in 31:324 are omitted because the Secretary no longer has authority to mint coins from 900 fine coin silver.
 
-In subsection (d)(2), the word “Secretary” is substituted for “engraver”, “Director of the Mint”, and “Director of the Mint . . . with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The word “dies” is substituted for “from the original dies already authorized all the working dies required for use in the coinage of the several mints” and “original dies” to eliminate unnecessary words. The word “inscription” is substituted for “legend” for consistency in the section. The words “*Provided*, That no change be made in the diameter of any coin” are omitted as unnecessary because the diameters are prescribed by subsection (a) of the revised section. The words “procure services under section 3109 of title 5 in carrying out this paragraph” are substituted for “engage temporarily for this purpose the services of one or more artists, distinguished in their respective departments of art” to eliminate unnecessary words. The words “who shall be paid for such service from the contingent appropriation for the mint at Philadelphia” are omitted as obsolete. The text of section 3510(2d proviso) of the Revised Statutes is omitted as executed.
+In subsection (d)(2), the word “Secretary” is substituted for “engraver”, “Director of the Mint”, and “Director of the Mint . . . with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The word “dies” is substituted for “from the original dies already authorized all the working dies required for use in the coinage of the several mints” and “original dies” to eliminate unnecessary words. The word “inscription” is substituted for “legend” for consistency in the section. The words “*Provided*, That no change be made in the diameter of any coin” are omitted as unnecessary because the diameters are prescribed by subsection (a) of the revised section. The words “procure services under section 3109 of title 5 in carrying out this paragraph” are substituted for “engage temporarily for this purpose the services of one or more artists, distinguished in their respective departments of art” to eliminate unnecessary words. The words “who shall be paid for such service from the contingent appropriation for the mint at Philadelphia” are omitted as obsolete. The text of section 3510(2d proviso) of the Revised Statutes is omitted as executed.
 
 In subsection (e)(2), the words “80 percent” are substituted for “eight hundred parts” in 31:391(d), and the words “20 percent” are substituted for “two hundred parts”, for consistency in the revised title and with other titles of the Code. The words “that are metallurgically bonded to” are added for clarity and consistency with subsection (b). In clause (4), the words “the late President of the United States” in 31:324b are omitted as unnecessary. Clause (6) is added because 31:324 applies to coins minted under this subsection.
 
@@ -1627,7 +1627,7 @@ This amends 31:5112(f)(1) to make technical and conforming changes.
 
 The date of enactment of the United States $1 Coin Act of 1997, referred to in subsec. (b), is the date of enactment of Pub. L. 105–124, which was approved Dec. 1, 1997.
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (*l*)(6)(C), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (*l*)(6)(C), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 This Act, referred to in subsec. (*o*)(6), probably means Pub. L. 109–145, Dec. 22, 2005, 119 Stat. 2664, known as the Presidential $1 Coin Act of 2005, which amended this section and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under section 5101 of this title and Tables.
 
@@ -1643,117 +1643,117 @@ This Act, referred to in subsec. (z)(2)(A), probably means Pub. L. 116–330, Ja
 
 **Amendments**
 
-2021—Subsec. (u). Pub. L. 116–330, § 5, added subsec. (u) and struck out former subsec. (u) which related to silver bullion investment product, specifying bullion coins that are likenesses of the quarter dollars issued under subsection (t), their availability for sale, and distribution.
+2021—Subsec. (u). Pub. L. 116–330, § 5, added subsec. (u) and struck out former subsec. (u) which related to silver bullion investment product, specifying bullion coins that are likenesses of the quarter dollars issued under subsection (t), their availability for sale, and distribution.
 
-Subsec. (x). Pub. L. 116–330, § 2, added subsec. (x).
+Subsec. (x). Pub. L. 116–330, § 2, added subsec. (x).
 
-Subsec. (y). Pub. L. 116–330, § 3, added subsec. (y).
+Subsec. (y). Pub. L. 116–330, § 3, added subsec. (y).
 
-Subsec. (z). Pub. L. 116–330, § 4, added subsec. (z).
+Subsec. (z). Pub. L. 116–330, § 4, added subsec. (z).
 
-Subsec. (aa). Pub. L. 116–330, § 6, added subsec. (aa).
+Subsec. (aa). Pub. L. 116–330, § 6, added subsec. (aa).
 
-2018—Subsec. (p)(1). Pub. L. 115–232 struck out “, United States Code” after “title 10” in introductory and concluding provisions.
+2018—Subsec. (p)(1). Pub. L. 115–232 struck out “, United States Code” after “title 10” in introductory and concluding provisions.
 
 Subsec. (w). Pub. L. 115–197 added subsec. (w).
 
-2017—Subsec. (p)(1). Pub. L. 115–91, § 885(a), (b), in introductory provisions, inserted “and” before “all transit systems” and struck out “and all entities that operate any business, including vending machines, on any premises owned by the United States or under the control of any agency or instrumentality of the United States, including the legislative and judicial branches of the Federal Government,” after “Mass Transit Account,” and inserted concluding provisions.
+2017—Subsec. (p)(1). Pub. L. 115–91, § 885(a), (b), in introductory provisions, inserted “and” before “all transit systems” and struck out “and all entities that operate any business, including vending machines, on any premises owned by the United States or under the control of any agency or instrumentality of the United States, including the legislative and judicial branches of the Federal Government,” after “Mass Transit Account,” and inserted concluding provisions.
 
-Subsec. (p)(1)(B). Pub. L. 115–91, § 885(c), substituted “display” for “displays”.
+Subsec. (p)(1)(B). Pub. L. 115–91, § 885(c), substituted “display” for “displays”.
 
-2015—Subsec. (q)(3) to (8). Pub. L. 114–94, § 73001(1)(A), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former pars. (3) and (8), which related to subsequent designs and protective covering, respectively.
+2015—Subsec. (q)(3) to (8). Pub. L. 114–94, § 73001(1)(A), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former pars. (3) and (8), which related to subsequent designs and protective covering, respectively.
 
-Subsec. (t)(6)(B). Pub. L. 114–94, § 73001(1)(B), substituted “not less than 90 percent silver” for “90 percent silver and 10 percent copper”.
+Subsec. (t)(6)(B). Pub. L. 114–94, § 73001(1)(B), substituted “not less than 90 percent silver” for “90 percent silver and 10 percent copper”.
 
-Subsec. (v)(1). Pub. L. 114–94, § 73001(1)(C)(i), substituted “The Secretary shall” for “Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall”.
+Subsec. (v)(1). Pub. L. 114–94, § 73001(1)(C)(i), substituted “The Secretary shall” for “Subject to the submission to the Secretary and the Congress of a marketing study described in paragraph (8), beginning not more than 1 year after the submission of the study to the Secretary and the Congress, the Secretary shall”.
 
-Subsec. (v)(2)(A). Pub. L. 114–94, § 73001(1)(C)(ii), substituted “To the greatest extent possible, the Secretary” for “The Secretary”.
+Subsec. (v)(2)(A). Pub. L. 114–94, § 73001(1)(C)(ii), substituted “To the greatest extent possible, the Secretary” for “The Secretary”.
 
-Subsec. (v)(5). Pub. L. 114–94, § 73001(1)(C)(iii), inserted “collectible versions of” after “may issue”.
+Subsec. (v)(5). Pub. L. 114–94, § 73001(1)(C)(iii), inserted “collectible versions of” after “may issue”.
 
-Subsec. (v)(8). Pub. L. 114–94, § 73001(1)(C)(iv), struck out par. (8). Text read as follows: “The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.”
+Subsec. (v)(8). Pub. L. 114–94, § 73001(1)(C)(iv), struck out par. (8). Text read as follows: “The market study described in paragraph (1) means an analysis of the market for palladium bullion investments conducted by a reputable, independent third party that demonstrates that there would be adequate demand for palladium bullion coins produced by the United States Mint to ensure that such coins could be minted and issued at no net cost to taxpayers.”
 
-2010—Subsec. (a)(12). Pub. L. 111–303, § 2(1), added par. (12).
+2010—Subsec. (a)(12). Pub. L. 111–303, § 2(1), added par. (12).
 
-Subsec. (e). Pub. L. 111–302, § 4, substituted “qualities and quantities that the Secretary determines are” for “quantities” in introductory provisions.
+Subsec. (e). Pub. L. 111–302, § 4, substituted “qualities and quantities that the Secretary determines are” for “quantities” in introductory provisions.
 
-Subsec. (i). Pub. L. 111–302, § 4, which directed amendment of subsec. (i) by substituting “qualities and quantities that the Secretary determines are” for “quantities”, was executed by making the substitution in introductory provisions of par. (1) to reflect the probable intent of Congress.
+Subsec. (i). Pub. L. 111–302, § 4, which directed amendment of subsec. (i) by substituting “qualities and quantities that the Secretary determines are” for “quantities”, was executed by making the substitution in introductory provisions of par. (1) to reflect the probable intent of Congress.
 
-Subsec. (u)(1). Pub. L. 111–302, § 5(1), substituted “likenesses” for “exact duplicates” in introductory provisions.
+Subsec. (u)(1). Pub. L. 111–302, § 5(1), substituted “likenesses” for “exact duplicates” in introductory provisions.
 
-Subsec. (u)(1)(A). Pub. L. 111–302, § 5(4), substituted “determined by the Secretary that is no less than 2.5 inches and no greater than 3.0 inches” for “of 3.0 inches”.
+Subsec. (u)(1)(A). Pub. L. 111–302, § 5(4), substituted “determined by the Secretary that is no less than 2.5 inches and no greater than 3.0 inches” for “of 3.0 inches”.
 
-Subsec. (u)(1)(C) to (E). Pub. L. 111–302, § 5(2), (3), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “have incused into the edge the fineness and weight of the bullion coin;”.
+Subsec. (u)(1)(C) to (E). Pub. L. 111–302, § 5(2), (3), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “have incused into the edge the fineness and weight of the bullion coin;”.
 
-Subsec. (v). Pub. L. 111–303, § 2(2), added subsec. (v).
+Subsec. (v). Pub. L. 111–303, § 2(2), added subsec. (v).
 
 2009—Subsecs. (r), (s). Pub. L. 111–8 redesignated subsec. (r) relating to the redesign and issuance of circulating quarter dollar honoring the District of Columbia and territories as (s) and substituted “paragraph (3)” for “paragraph (4)” in subpars. (A) and (B) of par. (5).
 
-2008—Subsec. (t). Pub. L. 110–456, § 102, added subsec. (t).
+2008—Subsec. (t). Pub. L. 110–456, § 102, added subsec. (t).
 
-Subsec. (u). Pub. L. 110–456, § 201, added subsec. (u).
+Subsec. (u). Pub. L. 110–456, § 201, added subsec. (u).
 
-2007—Subsec. (n)(1). Pub. L. 110–82, § 3, redesignated cls. (i) and (ii) of subpar. (A) as subpars. (A) and (B), respectively, struck out heading and designation of former subpar. (A), and struck out former subpar. (B), which related to continuity provisions concerning the “ ‘Sacagawea-design’ $1 coins”.
+2007—Subsec. (n)(1). Pub. L. 110–82, § 3, redesignated cls. (i) and (ii) of subpar. (A) as subpars. (A) and (B), respectively, struck out heading and designation of former subpar. (A), and struck out former subpar. (B), which related to continuity provisions concerning the “ ‘Sacagawea-design’ $1 coins”.
 
-Subsec. (n)(2)(C)(i). Pub. L. 110–161, § 623(a)(1)(A), substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused”.
+Subsec. (n)(2)(C)(i). Pub. L. 110–161, § 623(a)(1)(A), substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused”.
 
-Subsec. (n)(2)(F). Pub. L. 110–161, § 623(a)(2), added subpar. (F).
+Subsec. (n)(2)(F). Pub. L. 110–161, § 623(a)(2), added subpar. (F).
 
 Subsec. (p)(1)(A). Pub. L. 110–147 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any business operations conducted by any such agency, instrumentality, system, or entity that involve coins or currency will be fully capable of accepting and dispensing $1 coins in connection with such operations; and”.
 
-Subsec. (r). Pub. L. 110–161, § 622, added subsec. (r) relating to the redesign and issuance of circulating quarter dollar honoring the District of Columbia and territories.
+Subsec. (r). Pub. L. 110–161, § 622, added subsec. (r) relating to the redesign and issuance of circulating quarter dollar honoring the District of Columbia and territories.
 
-Pub. L. 110–82, § 2, added subsec. (r) relating to the redesign and issuance of circulating $1 coins honoring Native Americans.
+Pub. L. 110–82, § 2, added subsec. (r) relating to the redesign and issuance of circulating $1 coins honoring Native Americans.
 
-Subsec. (r)(2). Pub. L. 110–161, § 623(b), substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused” in subpar. (C)(i), and added subpar (E).
+Subsec. (r)(2). Pub. L. 110–161, § 623(b), substituted “and the inscription” for “and the inscriptions” and struck out “and ‘In God We Trust’ ” before “shall be edge-incused” in subpar. (C)(i), and added subpar (E).
 
-2005—Subsec. (a)(11). Pub. L. 109–145, § 201(1), added par. (11).
+2005—Subsec. (a)(11). Pub. L. 109–145, § 201(1), added par. (11).
 
-Subsec. (n). Pub. L. 109–145, § 102, added subsec. (n).
+Subsec. (n). Pub. L. 109–145, § 102, added subsec. (n).
 
-Subsec. (*o*). Pub. L. 109–145, § 103, added subsec. (*o*).
+Subsec. (*o*). Pub. L. 109–145, § 103, added subsec. (*o*).
 
-Subsec. (p). Pub. L. 109–145, § 104, added subsec. (p).
+Subsec. (p). Pub. L. 109–145, § 104, added subsec. (p).
 
-Subsec. (q). Pub. L. 109–145, § 201(2), added subsec. (q).
+Subsec. (q). Pub. L. 109–145, § 201(2), added subsec. (q).
 
-2003—Subsec. (d)(1). Pub. L. 108–15, § 102(a), inserted after fourth sentence “Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello.”
+2003—Subsec. (d)(1). Pub. L. 108–15, § 102(a), inserted after fourth sentence “Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello.”
 
-Subsec. (d)(2). Pub. L. 108–15, § 102(b), inserted “, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts,” after “The Secretary may” in second sentence.
+Subsec. (d)(2). Pub. L. 108–15, § 102(b), inserted “, after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts,” after “The Secretary may” in second sentence.
 
-Subsec. (*l*)(4)(A)(ii). Pub. L. 108–15, § 103(d)(1), substituted “Citizens Coinage Advisory Committee” for “Citizens Commemorative Coin Advisory Committee”.
+Subsec. (*l*)(4)(A)(ii). Pub. L. 108–15, § 103(d)(1), substituted “Citizens Coinage Advisory Committee” for “Citizens Commemorative Coin Advisory Committee”.
 
 2000—Subsec. (k). Pub. L. 106–445 substituted “platinum bullion coins” for “bullion”.
 
 1998—Subsec. (*l*)(1)(C). Pub. L. 105–176 added subpar. (C).
 
-1997—Subsec. (a)(1). Pub. L. 105–124, § 4(b), struck out “and weighs 8.1 grams” after “diameter”.
+1997—Subsec. (a)(1). Pub. L. 105–124, § 4(b), struck out “and weighs 8.1 grams” after “diameter”.
 
-Subsec. (b). Pub. L. 105–124, § 4(c), struck out “dollar,” before “half dollar” in first sentence and inserted after fourth sentence “The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997.”
+Subsec. (b). Pub. L. 105–124, § 4(c), struck out “dollar,” before “half dollar” in first sentence and inserted after fourth sentence “The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997.”
 
-Subsec. (d)(1). Pub. L. 105–124, § 4(d), substituted “The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin.” for “The eagle on the reverse side of the dollar is the symbolic eagle of Apollo 11 landing on the moon. The obverse side of the dollar has the likeness of Susan B. Anthony.”
+Subsec. (d)(1). Pub. L. 105–124, § 4(d), substituted “The Secretary of the Treasury, in consultation with the Congress, shall select appropriate designs for the obverse and reverse sides of the dollar coin.” for “The eagle on the reverse side of the dollar is the symbolic eagle of Apollo 11 landing on the moon. The obverse side of the dollar has the likeness of Susan B. Anthony.”
 
-Subsec. (*l*). Pub. L. 105–124, § 3, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 105–124, § 3, added subsec. (*l*).
 
-1996—Subsec. (i)(4)(C). Pub. L. 104–208, § 101(f) [title V, § 523], added subpar. (C).
+1996—Subsec. (i)(4)(C). Pub. L. 104–208, § 101(f) [title V, § 523], added subpar. (C).
 
-Subsec. (k). Pub. L. 104–208, § 101(f) [title V, § 524], added subsec. (k).
+Subsec. (k). Pub. L. 104–208, § 101(f) [title V, § 524], added subsec. (k).
 
-Subsec. (m). Pub. L. 104–208, § 101(f) [title V, § 529(a)], added subsec. (m).
+Subsec. (m). Pub. L. 104–208, § 101(f) [title V, § 529(a)], added subsec. (m).
 
 1994—Subsec. (h). Pub. L. 103–272 substituted “section 5103 of this title” for “section 5103 of title 31, United States Code”.
 
-1992—Subsec. (d)(1). Pub. L. 102–390, § 226(a), inserted “shall” before “have” in first sentence and substituted “coin shall have” for “coin has” in second and third sentences.
+1992—Subsec. (d)(1). Pub. L. 102–390, § 226(a), inserted “shall” before “have” in first sentence and substituted “coin shall have” for “coin has” in second and third sentences.
 
-Subsec. (i)(4). Pub. L. 102–390, § 228, added par. (4).
+Subsec. (i)(4). Pub. L. 102–390, § 228, added par. (4).
 
-Subsec. (j). Pub. L. 102–390, § 227, added subsec. (j).
+Subsec. (j). Pub. L. 102–390, § 227, added subsec. (j).
 
-1988—Subsec. (b). Pub. L. 100–274, § 4(a), inserted before last sentence “In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required.”
+1988—Subsec. (b). Pub. L. 100–274, § 4(a), inserted before last sentence “In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required.”
 
-Subsec. (f). Pub. L. 100–274, § 6, inserted heading and amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall sell the coins minted under subsection (e) to the public at a price equal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dyes, use of machinery, and overhead expenses).”
+Subsec. (f). Pub. L. 100–274, § 6, inserted heading and amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall sell the coins minted under subsection (e) to the public at a price equal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dyes, use of machinery, and overhead expenses).”
 
-1985—Subsec. (a)(7) to (10). Pub. L. 99–185, § 2(a), added pars. (7) to (10).
+1985—Subsec. (a)(7) to (10). Pub. L. 99–185, § 2(a), added pars. (7) to (10).
 
 Subsec. (e). Pub. L. 99–61 added subsec. (e). Former subsec. (e), providing for the minting of 150,000,000 silver and copper alloy dollar coins bearing the likeness of Dwight David Eisenhower, was struck out.
 
@@ -1761,33 +1761,33 @@ Subsec. (f). Pub. L. 99–61 added subsec. (f). Former subsec. (f), providing fo
 
 Subsecs. (g), (h). Pub. L. 99–61 added subsecs. (g) and (h).
 
-Subsec. (i). Pub. L. 99–185, § 2(b), added subsec. (i).
+Subsec. (i). Pub. L. 99–185, § 2(b), added subsec. (i).
 
-1983—Subsec. (f)(1). Pub. L. 97–452, § 1(20)(A), inserted a comma after “10,000,000)” in introductory text.
+1983—Subsec. (f)(1). Pub. L. 97–452, § 1(20)(A), inserted a comma after “10,000,000)” in introductory text.
 
-Subsec. (f)(1)(C). Pub. L. 97–452, § 1(20)(B), substituted “250th” for “two hundred and fiftieth”.
+Subsec. (f)(1)(C). Pub. L. 97–452, § 1(20)(B), substituted “250th” for “two hundred and fiftieth”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–161, div. D, title VI, § 623(c), Dec. 26, 2007, 121 Stat. 2018, provided that: “The change required by the amendments made by subsections (a) and (b) [amending this section] shall be put into effect by the Secretary of the Treasury as soon as is practicable after the date of enactment of this Act [Dec. 26, 2007].”
+Pub. L. 110–161, div. D, title VI, § 623(c), Dec. 26, 2007, 121 Stat. 2018, provided that: “The change required by the amendments made by subsections (a) and (b) [amending this section] shall be put into effect by the Secretary of the Treasury as soon as is practicable after the date of enactment of this Act [Dec. 26, 2007].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(e)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–353, provided that: “This section [amending this section and sections 5134 and 5135 of this title, enacting provisions set out as a note under section 5134 of this title, and amending provisions set out as a note under this section] and the amendments made by this section shall take effect on the date of enactment of this Act [Sept. 30, 1996].”
+Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(e)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–353, provided that: “This section [amending this section and sections 5134 and 5135 of this title, enacting provisions set out as a note under section 5134 of this title, and amending provisions set out as a note under this section] and the amendments made by this section shall take effect on the date of enactment of this Act [Sept. 30, 1996].”
 
 **Effective Date of 1985 Amendments**
 
-Pub. L. 99–185, § 3, Dec. 17, 1985, 99 Stat. 1179, provided that: “This Act [amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section] shall take effect on October 1, 1985, except that no coins may be issued or sold under section 5112(i) of title 31, United States Code, before October 1, 1986.”
+Pub. L. 99–185, § 3, Dec. 17, 1985, 99 Stat. 1179, provided that: “This Act [amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section] shall take effect on October 1, 1985, except that no coins may be issued or sold under section 5112(i) of title 31, United States Code, before October 1, 1986.”
 
-Pub. L. 99–61, title II, § 205, July 9, 1985, 99 Stat. 117, provided that: “This title [amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section] shall take effect on October 1, 1985, except that no coins may be issued or sold under subsection (e) of section 5112 of title 31, United States Code, before September 1, 1986, or before the date on which all coins minted under title I of this Act [set out as a note below] have been sold, whichever is earlier.”
+Pub. L. 99–61, title II, § 205, July 9, 1985, 99 Stat. 117, provided that: “This title [amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section] shall take effect on October 1, 1985, except that no coins may be issued or sold under subsection (e) of section 5112 of title 31, United States Code, before September 1, 1986, or before the date on which all coins minted under title I of this Act [set out as a note below] have been sold, whichever is earlier.”
 
 **Short Title of 1985 Amendments**
 
-Pub. L. 99–185, § 1, Dec. 17, 1985, 99 Stat. 1177, provided that: “This Act [amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
+Pub. L. 99–185, § 1, Dec. 17, 1985, 99 Stat. 1177, provided that: “This Act [amending this section and sections 5116, 5118, and 5132 of this title and enacting provisions set out as notes under this section] may be cited as the ‘Gold Bullion Coin Act of 1985’.”
 
-Pub. L. 99–61, title II, § 201, July 9, 1985, 99 Stat. 115, provided that: “This title [amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Liberty Coin Act’.”
+Pub. L. 99–61, title II, § 201, July 9, 1985, 99 Stat. 115, provided that: “This title [amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Liberty Coin Act’.”
 
 **Savings Provision**
 
@@ -1795,11 +1795,11 @@ Pub. L. 110–192, Feb. 29, 2008, 122 Stat. 648, provided: “That clause (i) of
 
 **Rule of Construction**
 
-Pub. L. 105–124, § 5, Dec. 1, 1997, 111 Stat. 2537, provided that: “Nothing in this Act [see Short Title of 1997 Amendment note set out under section 5101 of this title] or the amendments made by this Act shall be construed to evidence any intention to eliminate or to limit the printing or circulation of United States currency in the $1 denomination.”
+Pub. L. 105–124, § 5, Dec. 1, 1997, 111 Stat. 2537, provided that: “Nothing in this Act [see Short Title of 1997 Amendment note set out under section 5101 of this title] or the amendments made by this Act shall be construed to evidence any intention to eliminate or to limit the printing or circulation of United States currency in the $1 denomination.”
 
 **Cost specification under Circulating Collectible Coin Redesign Act of 2020**
 
-Pub. L. 116–330, § 8, Jan. 13, 2021, 134 Stat. 5108, provided that: “No coin or medal minted and issued under this Act [amending this section and enacting provisions set out as a note under section 5101 of this title], or an amendment made by this Act, may be sold at a price such that would result in a net cost to the Federal Government.”
+Pub. L. 116–330, § 8, Jan. 13, 2021, 134 Stat. 5108, provided that: “No coin or medal minted and issued under this Act [amending this section and enacting provisions set out as a note under section 5101 of this title], or an amendment made by this Act, may be sold at a price such that would result in a net cost to the Federal Government.”
 
 **1921 Silver Dollar Coins**
 
@@ -1915,7 +1915,7 @@ Pub. L. 116–112, Jan. 27, 2020, 134 Stat. 9, provided that:
 
 **Authority To Conduct Research and Development on All Circulating Coins**
 
-Pub. L. 111–302, § 2, Dec. 14, 2010, 124 Stat. 3272, provided that:
+Pub. L. 111–302, § 2, Dec. 14, 2010, 124 Stat. 3272, provided that:
 
 > **“(a) In General.—** To accomplish the goals of this Act [amending this section and enacting provisions set out as notes under this section and section 5101 of this title] and the requirements of subchapter II of chapter 51 of title 31, United States Code, the Secretary of the Treasury may—
 
@@ -1935,7 +1935,7 @@ Pub. L. 111–302, § 2, Dec. 14, 2010, 124 Stat. 3272, provided that:
 
 **Biennial Report to the Congress on the Current Status of Coin Production Costs and Analysis of Alternative Content**
 
-Pub. L. 111–302, § 3, Dec. 14, 2010, 124 Stat. 3273, provided that:
+Pub. L. 111–302, § 3, Dec. 14, 2010, 124 Stat. 3273, provided that:
 
 > **“(a) Report Required.—** Before the end of the 2-year period beginning on the date of the enactment of this Act [Dec. 14, 2010], and at 2-year intervals following the end of such period, the Secretary of the Treasury shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate analyzing production costs for each circulating coin, cost trends for such production, and possible new metallic materials or technologies for the production of circulating coins.
 
@@ -1951,7 +1951,7 @@ Pub. L. 111–302, § 3, Dec. 14, 2010, 124 Stat. 3273, provided that:
 
 **Findings of 2008 Amendment**
 
-Pub. L. 110–456, title I, § 101, Dec. 23, 2008, 122 Stat. 5038, provided that:
+Pub. L. 110–456, title I, § 101, Dec. 23, 2008, 122 Stat. 5038, provided that:
 
 > “The Congress finds as follows:
 
@@ -1993,7 +1993,7 @@ Pub. L. 110–456, title I, § 101, Dec. 23, 2008, 122 Stat. 5038, provided th
 
 **Removal of Barriers to Circulation of $1 Coin**
 
-Pub. L. 110–82, § 4, Sept. 20, 2007, 121 Stat. 779, provided that:
+Pub. L. 110–82, § 4, Sept. 20, 2007, 121 Stat. 779, provided that:
 
 > **“(a) In General.—** In order to remove barriers to circulation, the Secretary of the Treasury shall carry out an aggressive, cost-effective, continuing campaign to encourage commercial enterprises to accept and dispense $1 coins that have as designs on the obverse the so-called ‘Sacagawea design’.
 
@@ -2001,11 +2001,11 @@ Pub. L. 110–82, § 4, Sept. 20, 2007, 121 Stat. 779, provided that:
 
 **5-Cent Coins Minted in 2004 and 2005**
 
-Pub. L. 109–230, § 8, June 15, 2006, 120 Stat. 393, provided that: “Notwithstanding the fifth sentence of section 5112(d)(1) of title 31, United States Code, the Secretary of the Treasury may continue to issue, after December 31, 2005, numismatic items that contain 5-cent coins minted in the years 2004 and 2005.”
+Pub. L. 109–230, § 8, June 15, 2006, 120 Stat. 393, provided that: “Notwithstanding the fifth sentence of section 5112(d)(1) of title 31, United States Code, the Secretary of the Treasury may continue to issue, after December 31, 2005, numismatic items that contain 5-cent coins minted in the years 2004 and 2005.”
 
 **Presidential Commemorative Dollar Coins; Findings**
 
-Pub. L. 109–145, title I, § 101, Dec. 22, 2005, 119 Stat. 2664, provided that:
+Pub. L. 109–145, title I, § 101, Dec. 22, 2005, 119 Stat. 2664, provided that:
 
 > “Congress finds the following:
 
@@ -2109,7 +2109,7 @@ Pub. L. 109–145, title III, Dec. 22, 2005, 119 Stat. 2673, provided that:
 
 **Designs on the 5-Cent Coin**
 
-Pub. L. 108–15, title I, § 101, Apr. 23, 2003, 117 Stat. 615, provided that:
+Pub. L. 108–15, title I, § 101, Apr. 23, 2003, 117 Stat. 615, provided that:
 
 > **“(a) In General.—** Subject to subsection (b) and after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts, the Secretary of the Treasury may change the design on the obverse and the reverse of the 5-cent coin for coins issued in 2003, 2004, and 2005 in recognition of the bicentennial of the Louisiana Purchase and the expedition of Meriwether Lewis and William Clark.
 
@@ -2123,7 +2123,7 @@ Pub. L. 108–15, title I, § 101, Apr. 23, 2003, 117 Stat. 615, provided that
 
 **Study and Report of Impact on United States Silver Market of the American Eagle Silver Bullion Program**
 
-Pub. L. 107–201, § 3(b), July 23, 2002, 116 Stat. 737, provided that:
+Pub. L. 107–201, § 3(b), July 23, 2002, 116 Stat. 737, provided that:
 
 > **“(1) Study.—** The Secretary of the Treasury shall conduct a study of the impact on the United States silver market of the American Eagle Silver Bullion Program, established under section 5112(e) of title 31, United States Code.
 
@@ -2135,7 +2135,7 @@ Pub. L. 107–201, § 3(b), July 23, 2002, 116 Stat. 737, provided that:
 
 **Findings of 1997 Amendment**
 
-Pub. L. 105–124, § 2, Dec. 1, 1997, 111 Stat. 2534, provided that:
+Pub. L. 105–124, § 2, Dec. 1, 1997, 111 Stat. 2534, provided that:
 
 > “The Congress finds that—
 
@@ -2153,7 +2153,7 @@ Pub. L. 105–124, § 2, Dec. 1, 1997, 111 Stat. 2534, provided that:
 
 **Dollar Coins**
 
-Pub. L. 105–124, § 4(e), (f), Dec. 1, 1997, 111 Stat. 2536, 2537, provided that:
+Pub. L. 105–124, § 4(e), (f), Dec. 1, 1997, 111 Stat. 2536, 2537, provided that:
 
 > **“(e) Production of New Dollar Coins.—**
 
@@ -2173,7 +2173,7 @@ Pub. L. 105–124, § 4(e), (f), Dec. 1, 1997, 111 Stat. 2536, 2537, provided 
 
 **Study and Report to Congress of 50 States Commemorative Coin Program**
 
-Pub. L. 104–329, title III, § 302, Oct. 20, 1996, 110 Stat. 4012, provided that:
+Pub. L. 104–329, title III, § 302, Oct. 20, 1996, 110 Stat. 4012, provided that:
 
 > **“(a) Study.—** The Secretary of the Treasury shall by June 1, 1997 complete a study of the feasibility of a circulating commemorative coin program to commemorate each of the 50 States. The study shall assess likely public acceptance of and consumer demand for different coins that might be issued in connection with such a program (taking into consideration the pace of issuance of coins and the length of such a program), a comparison of the costs of producing coins issued under the program and the revenue that the program would generate, the impact on coin distribution systems, the advantages and disadvantages of different approaches to selecting designs for coins in such a program, and such other factors as the Secretary considers appropriate in deciding upon the feasibility of such a program. No steps taken in order to gather information for this study shall be considered a collection of information within the meaning of section 3502 of title 44, United States Code.
 
@@ -2207,15 +2207,15 @@ Pub. L. 104–329, title III, § 302, Oct. 20, 1996, 110 Stat. 4012, provided 
 
 **Deposit of Profits From Sale of Gold to Mint for Commemorative Coin Program**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 523], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347, provided in part: “That profits generated from the sale of gold to the United States Mint for this program shall be considered as a receipt to be deposited into the General Fund of the Treasury.”
+Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 523], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347, provided in part: “That profits generated from the sale of gold to the United States Mint for this program shall be considered as a receipt to be deposited into the General Fund of the Treasury.”
 
 **Use of Government Platinum Reserves Stockpiled at Mint**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 524], Sept. 30, 1996, 110 Stat. 3009–314, 3009–348, provided in part: “That the Secretary is authorized to use Government platinum reserves stockpiled at the United States Mint as working inventory and shall ensure that reserves utilized are replaced by the Mint.”
+Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 524], Sept. 30, 1996, 110 Stat. 3009–314, 3009–348, provided in part: “That the Secretary is authorized to use Government platinum reserves stockpiled at the United States Mint as working inventory and shall ensure that reserves utilized are replaced by the Mint.”
 
 **Reform of Commemorative Coin Programs**
 
-Pub. L. 103–186, title III, Dec. 14, 1993, 107 Stat. 2251, as amended by Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(b)(4)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–352; Pub. L. 104–316, title I, § 115(h), Oct. 19, 1996, 110 Stat. 3835, provided that:
+Pub. L. 103–186, title III, Dec. 14, 1993, 107 Stat. 2251, as amended by Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(b)(4)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–352; Pub. L. 104–316, title I, § 115(h), Oct. 19, 1996, 110 Stat. 3835, provided that:
 
 > **“SEC. 301. SENSE OF CONGRESS RESOLUTION.**
 
@@ -2245,11 +2245,11 @@ Pub. L. 103–186, title III, Dec. 14, 1993, 107 Stat. 2251, as amended by Pub. 
 
 **Amount Equal to Profit From Sale of Gold Coins Deposited in General Fund of Treasury To Reduce National Debt**
 
-Pub. L. 99–185, § 2(f), Dec. 17, 1985, 99 Stat. 1178, provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under 31 U.S.C. 5112(i) exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing the national debt, prior to repeal by Pub. L. 102–390, title II, § 221(c)(2)(A), Oct. 6, 1992, 106 Stat. 1628, effective Oct. 1, 1992.
+Pub. L. 99–185, § 2(f), Dec. 17, 1985, 99 Stat. 1178, provided that an amount equal to the amount by which the proceeds from the sale of the coins issued under 31 U.S.C. 5112(i) exceeded the sum of the cost of minting, marketing, and distributing such coins, and the value of gold certificates (not exceeding forty-two and two-ninths dollars a fine troy ounce) retired from the use of gold contained in such coins, was to be deposited in the general fund of the Treasury and used for the sole purpose of reducing the national debt, prior to repeal by Pub. L. 102–390, title II, § 221(c)(2)(A), Oct. 6, 1992, 106 Stat. 1628, effective Oct. 1, 1992.
 
 **Issuance of Gold Coins To Result in No Net Cost to United States**
 
-Pub. L. 99–185, § 2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: “The Secretary shall take all actions necessary to ensure that the issuance of the coins minted under section 5112(i) of title 31, United States Code, shall result in no net cost to the United States Government.”
+Pub. L. 99–185, § 2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: “The Secretary shall take all actions necessary to ensure that the issuance of the coins minted under section 5112(i) of title 31, United States Code, shall result in no net cost to the United States Government.”
 
 **Commemorative Coins**
 
@@ -2269,7 +2269,7 @@ Pub. L. 116–247, Dec. 22, 2020, 134 Stat. 1120.—National Purple Heart Hall o
 
 Pub. L. 116–209, Dec. 4, 2020, 134 Stat. 1011.—Negro Leagues Baseball 100th Anniversary.
 
-Pub. L. 116–94, div. K, § 101–108, Dec. 20, 2019, 133 Stat. 3086.—National Law Enforcement Museum.
+Pub. L. 116–94, div. K, § 101–108, Dec. 20, 2019, 133 Stat. 3086.—National Law Enforcement Museum.
 
 Pub. L. 116–71, Nov. 25, 2019, 133 Stat. 1147.—Women’s Suffrage Centennial.
 
@@ -2285,7 +2285,7 @@ Pub. L. 114–148, Apr. 29, 2016, 130 Stat. 360.—Breast Cancer Awareness.
 
 Pub. L. 114–30, July 6, 2015, 129 Stat. 424.—Boys Town Centennial.
 
-Pub. L. 113–291, div. B, title XXX, § 3055, Dec. 19, 2014, 128 Stat. 3808.—National Park Service 100th anniversary.
+Pub. L. 113–291, div. B, title XXX, § 3055, Dec. 19, 2014, 128 Stat. 3808.—National Park Service 100th anniversary.
 
 Pub. L. 113–212, Dec. 16, 2014, 128 Stat. 2082.—World War I American Veterans Centennial.
 
@@ -2295,7 +2295,7 @@ Pub. L. 112–201, Dec. 4, 2012, 126 Stat. 1479.—Mark Twain.
 
 Pub. L. 112–181, Oct. 5, 2012, 126 Stat. 1416.—Lions Clubs International century of service.
 
-Pub. L. 112–152, Aug. 3, 2012, 126 Stat. 1155; Pub. L. 113–10, § 1, May 17, 2013, 127 Stat. 445.—National Baseball Hall of Fame.
+Pub. L. 112–152, Aug. 3, 2012, 126 Stat. 1155; Pub. L. 113–10, § 1, May 17, 2013, 127 Stat. 445.—National Baseball Hall of Fame.
 
 Pub. L. 112–104, Apr. 2, 2012, 126 Stat. 286.—United States Marshals Service 225th anniversary.
 
@@ -2313,15 +2313,15 @@ Pub. L. 110–450, Dec. 1, 2008, 122 Stat. 5017.—United States Army.
 
 Pub. L. 110–363, Oct. 8, 2008, 122 Stat. 4015.—Boy Scouts of America centennial.
 
-Pub. L. 110–357, Oct. 8, 2008, 122 Stat. 3998; Pub. L. 112–169, § 1, Aug. 10, 2012, 126 Stat. 1302.—National Infantry Museum and Soldier Center.
+Pub. L. 110–357, Oct. 8, 2008, 122 Stat. 3998; Pub. L. 112–169, § 1, Aug. 10, 2012, 126 Stat. 1302.—National Infantry Museum and Soldier Center.
 
 Pub. L. 110–277, July 17, 2008, 122 Stat. 2599.—American veterans disabled for life.
 
-Pub. L. 109–285, Sept. 27, 2006, 120 Stat. 1215; Pub. L. 112–74, div. C, title VI, § 621, Dec. 23, 2011, 125 Stat. 926.—Abraham Lincoln.
+Pub. L. 109–285, Sept. 27, 2006, 120 Stat. 1215; Pub. L. 112–74, div. C, title VI, § 621, Dec. 23, 2011, 125 Stat. 926.—Abraham Lincoln.
 
 Pub. L. 109–247, July 27, 2006, 120 Stat. 582.—Louis Braille bicentennial—braille literacy.
 
-Pub. L. 109–230, §§ 1–7, June 15, 2006, 120 Stat. 391–393.—San Francisco Old Mint.
+Pub. L. 109–230, §§ 1–7, June 15, 2006, 120 Stat. 391–393.—San Francisco Old Mint.
 
 Pub. L. 109–146, Dec. 22, 2005, 119 Stat. 2676.—Little Rock Central High School desegregation 50th anniversary.
 
@@ -2333,7 +2333,7 @@ Pub. L. 108–291, Aug. 6, 2004, 118 Stat. 1024.—Marine Corps 230th anniversar
 
 Pub. L. 108–290, Aug. 6, 2004, 118 Stat. 1021.—John Marshall.
 
-Pub. L. 108–289, Aug. 6, 2004, 118 Stat. 1017; Pub. L. 111–86, § 8(b), Oct. 29, 2009, 123 Stat. 2883.—Jamestown 400th anniversary.
+Pub. L. 108–289, Aug. 6, 2004, 118 Stat. 1017; Pub. L. 111–86, § 8(b), Oct. 29, 2009, 123 Stat. 2883.—Jamestown 400th anniversary.
 
 Pub. L. 106–435, Nov. 6, 2000, 114 Stat. 1916.—2002 Winter Olympic Games.
 
@@ -2349,21 +2349,21 @@ Pub. L. 105–331, Oct. 31, 1998, 112 Stat. 3073; Pub. L. 110–3, Feb. 8, 2007,
 
 Pub. L. 105–268, Oct. 19, 1998, 112 Stat. 2378.—Library of Congress bicentennial.
 
-Pub. L. 105–124, § 6, Dec. 1, 1997, 111 Stat. 2537.—First flight by Orville and Wilbur Wright.
+Pub. L. 105–124, § 6, Dec. 1, 1997, 111 Stat. 2537.—First flight by Orville and Wilbur Wright.
 
-Pub. L. 104–329, § 2, title I, §§ 101–108, Oct. 20, 1996, 110 Stat. 4005–4011; Pub. L. 105–277, div. C, title I, § 139(c), Oct. 21, 1998, 112 Stat. 2681–599.—Dolley Madison, George Washington, Black Revolutionary War patriots, Franklin Delano Roosevelt Memorial, Yellowstone National Park, National Law Enforcement Officers Memorial, and Jackie Robinson.
+Pub. L. 104–329, § 2, title I, §§ 101–108, Oct. 20, 1996, 110 Stat. 4005–4011; Pub. L. 105–277, div. C, title I, § 139(c), Oct. 21, 1998, 112 Stat. 2681–599.—Dolley Madison, George Washington, Black Revolutionary War patriots, Franklin Delano Roosevelt Memorial, Yellowstone National Park, National Law Enforcement Officers Memorial, and Jackie Robinson.
 
 Pub. L. 104–96, Jan. 10, 1996, 109 Stat. 981.—Smithsonian Institution sesquicentennial.
 
-Pub. L. 103–328, title II, § 204, Sept. 29, 1994, 108 Stat. 2369.—1995 Special Olympics World Games.
+Pub. L. 103–328, title II, § 204, Sept. 29, 1994, 108 Stat. 2369.—1995 Special Olympics World Games.
 
-Pub. L. 103–328, title II, § 205, Sept. 29, 1994, 108 Stat. 2371.—National community service.
+Pub. L. 103–328, title II, § 205, Sept. 29, 1994, 108 Stat. 2371.—National community service.
 
-Pub. L. 103–328, title II, § 206, Sept. 29, 1994, 108 Stat. 2373.—Robert F. Kennedy Memorial.
+Pub. L. 103–328, title II, § 206, Sept. 29, 1994, 108 Stat. 2373.—Robert F. Kennedy Memorial.
 
-Pub. L. 103–328, title II, § 207, Sept. 29, 1994, 108 Stat. 2375.—United States Military Academy bicentennial.
+Pub. L. 103–328, title II, § 207, Sept. 29, 1994, 108 Stat. 2375.—United States Military Academy bicentennial.
 
-Pub. L. 103–328, title II, § 208, Sept. 29, 1994, 108 Stat. 2377.—United States Botanic Garden.
+Pub. L. 103–328, title II, § 208, Sept. 29, 1994, 108 Stat. 2377.—United States Botanic Garden.
 
 Pub. L. 103–186, title I, Dec. 14, 1993, 107 Stat. 2245.—Thomas Jefferson.
 
@@ -2377,25 +2377,25 @@ Pub. L. 102–390, title I, Oct. 6, 1992, 106 Stat. 1620; Pub. L. 104–74, Dec.
 
 Pub. L. 102–379, Oct. 5, 1992, 106 Stat. 1362.—Civil War battlefields.
 
-Pub. L. 102–281, title I, May 13, 1992, 106 Stat. 133; Pub. L. 102–390, title II, § 221(c)(2)(G), Oct. 6, 1992, 106 Stat. 1628.—White House 200th anniversary.
+Pub. L. 102–281, title I, May 13, 1992, 106 Stat. 133; Pub. L. 102–390, title II, § 221(c)(2)(G), Oct. 6, 1992, 106 Stat. 1628.—White House 200th anniversary.
 
-Pub. L. 102–281, title II, May 13, 1992, 106 Stat. 135; Pub. L. 102–390, title II, § 221(c)(2)(H), Oct. 6, 1992, 106 Stat. 1628; Pub. L. 104–66, title I, § 1132(a), Dec. 21, 1995, 109 Stat. 725.—World Cup USA 1994.
+Pub. L. 102–281, title II, May 13, 1992, 106 Stat. 135; Pub. L. 102–390, title II, § 221(c)(2)(H), Oct. 6, 1992, 106 Stat. 1628; Pub. L. 104–66, title I, § 1132(a), Dec. 21, 1995, 109 Stat. 725.—World Cup USA 1994.
 
-Pub. L. 102–281, title IV, §§ 401–411, May 13, 1992, 106 Stat. 139–141; Pub. L. 102–390, title II, § 221(c)(2)(I), Oct. 6, 1992, 106 Stat. 1628.—Christopher Columbus quincentenary.
+Pub. L. 102–281, title IV, §§ 401–411, May 13, 1992, 106 Stat. 139–141; Pub. L. 102–390, title II, § 221(c)(2)(I), Oct. 6, 1992, 106 Stat. 1628.—Christopher Columbus quincentenary.
 
-Pub. L. 102–281, title V, May 13, 1992, 106 Stat. 145; Pub. L. 104–66, title I, § 1132(c), Dec. 21, 1995, 109 Stat. 725.—James Madison and Bill of Rights.
+Pub. L. 102–281, title V, May 13, 1992, 106 Stat. 145; Pub. L. 104–66, title I, § 1132(c), Dec. 21, 1995, 109 Stat. 725.—James Madison and Bill of Rights.
 
-Pub. L. 101–495, Oct. 31, 1990, 104 Stat. 1187; Pub. L. 102–390, title II, § 221(c)(2)(F), Oct. 6, 1992, 106 Stat. 1628.—Korean War Veterans Memorial.
+Pub. L. 101–495, Oct. 31, 1990, 104 Stat. 1187; Pub. L. 102–390, title II, § 221(c)(2)(F), Oct. 6, 1992, 106 Stat. 1628.—Korean War Veterans Memorial.
 
-Pub. L. 101–406, Oct. 3, 1990, 104 Stat. 879; Pub. L. 102–390, title II, § 221(c)(2)(E), Oct. 6, 1992, 106 Stat. 1628.—1992 Olympic Games.
+Pub. L. 101–406, Oct. 3, 1990, 104 Stat. 879; Pub. L. 102–390, title II, § 221(c)(2)(E), Oct. 6, 1992, 106 Stat. 1628.—1992 Olympic Games.
 
-Pub. L. 101–404, Oct. 2, 1990, 104 Stat. 875; Pub. L. 102–390, title II, § 221(c)(2)(D), Oct. 6, 1992, 106 Stat. 1628.—United Services Organization 50th anniversary.
+Pub. L. 101–404, Oct. 2, 1990, 104 Stat. 875; Pub. L. 102–390, title II, § 221(c)(2)(D), Oct. 6, 1992, 106 Stat. 1628.—United Services Organization 50th anniversary.
 
-Pub. L. 101–332, July 16, 1990, 104 Stat. 313; Pub. L. 102–390, title II, § 221(c)(2)(C), Oct. 6, 1992, 106 Stat. 1628; Pub. L. 103–328, title II, § 209, Sept. 29, 1994, 108 Stat. 2378.—Mount Rushmore National Memorial golden anniversary.
+Pub. L. 101–332, July 16, 1990, 104 Stat. 313; Pub. L. 102–390, title II, § 221(c)(2)(C), Oct. 6, 1992, 106 Stat. 1628; Pub. L. 103–328, title II, § 209, Sept. 29, 1994, 108 Stat. 2378.—Mount Rushmore National Memorial golden anniversary.
 
-Pub. L. 100–673, Nov. 17, 1988, 102 Stat. 3992; Pub. L. 101–36, June 9, 1989, 103 Stat. 69; Pub. L. 101–302, title III, § 312(c), May 25, 1990, 104 Stat. 245; Pub. L. 103–186, title IV, § 408(b), Dec. 14, 1993, 107 Stat. 2253.—United States Congress bicentennial.
+Pub. L. 100–673, Nov. 17, 1988, 102 Stat. 3992; Pub. L. 101–36, June 9, 1989, 103 Stat. 69; Pub. L. 101–302, title III, § 312(c), May 25, 1990, 104 Stat. 245; Pub. L. 103–186, title IV, § 408(b), Dec. 14, 1993, 107 Stat. 2253.—United States Congress bicentennial.
 
-Pub. L. 100–467, Oct. 3, 1988, 102 Stat. 2275; Pub. L. 102–390, title II, § 221(c)(2)(B), Oct. 6, 1992, 106 Stat. 1628.—Dwight David Eisenhower.
+Pub. L. 100–467, Oct. 3, 1988, 102 Stat. 2275; Pub. L. 102–390, title II, § 221(c)(2)(B), Oct. 6, 1992, 106 Stat. 1628.—Dwight David Eisenhower.
 
 Pub. L. 100–141, Oct. 28, 1987, 101 Stat. 832.—1988 Olympic Games.
 
@@ -2411,7 +2411,7 @@ Pub. L. 97–220, July 22, 1982, 96 Stat. 222.—1984 Olympic Games.
 
 The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974.
 
-### § 5113. Tolerances and testing of coins
+### § 5113. Tolerances and testing of coins
 
 **(a)** The Secretary of the Treasury may prescribe reasonable manufacturing tolerances for specifications in section 5112 of this title (except for specifications that are limits) for the dollar, half dollar, quarter dollar, and dime coins. The weight of the 5-cent coin may vary not more than 0.194 gram. The weight of the one-cent coin may vary not more than 0.13 gram. Any gold coin issued under section 5112 of this title shall contain the full weight of gold stated on the coin.
 
@@ -2421,15 +2421,15 @@ The possession of gold coins and bullion was prohibited except under Government 
 
 **(2)** may remelt the group of coins.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 983; Pub. L. 100–274, § 4(b), Mar. 31, 1988, 102 Stat. 50.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 983; Pub. L. 100–274, § 4(b), Mar. 31, 1988, 102 Stat. 50.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5113(a) | 31:350. | R.S. § 3537; Sept. 26, 1890, ch. 945, § 1, 26 Stat. 485. |
-|  | 31:398(5). | July 23, 1965, Pub. L. 89–81, § 108(5), 79 Stat. 255. |
-| 5113(b) | 31:351. | R.S. § 3538; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+| 5113(a) | 31:350. | R.S. § 3537; Sept. 26, 1890, ch. 945, § 1, 26 Stat. 485. |
+|  | 31:398(5). | July 23, 1965, Pub. L. 89–81, § 108(5), 79 Stat. 255. |
+| 5113(b) | 31:351. | R.S. § 3538; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
 
 In subsection (a), the words “for the dollar, half dollar, quarter dollar, and dime coins” are added because of the restatement. The words “0.194 gram” are substituted for “three grains”, and the words “0.13 gram” are substituted for “two grains”, for consistency in the revised chapter.
 
@@ -2441,7 +2441,7 @@ In subsection (b), before clause (1), the words “Secretary shall keep a record
 
 1988—Subsec. (a). Pub. L. 100–274 inserted at end “Any gold coin issued under section 5112 of this title shall contain the full weight of gold stated on the coin.”
 
-### § 5114. Engraving and printing currency and security documents
+### § 5114. Engraving and printing currency and security documents
 
 **(a) Authority To Engrave and Print.—**
 
@@ -2455,7 +2455,7 @@ In subsection (b), before clause (1), the words “Secretary shall keep a record
 
 **(3) Procurement guidelines.—** Articles, material, and supplies procured for use in the production of currency, postage stamps, and other security documents for foreign governments pursuant to paragraph (2) shall be treated in the same manner as articles, material, and supplies procured for public use within the United States for purposes of title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.; commonly referred to as the Buy American Act).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(b)** United States currency has the inscription “In God We Trust” in a place the Secretary decides is appropriate. Only the portrait of a deceased individual may appear on United States currency and securities. The name of the individual shall be inscribed below the portrait.
 
@@ -2465,26 +2465,26 @@ In subsection (b), before clause (1), the words “Secretary shall keep a record
 
 **(2)** charge the pay of the temporary employees to the appropriation available for manufacturing distinctive paper.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 983; Pub. L. 108–458, title VI, § 6301(a), Dec. 17, 2004, 118 Stat. 3748; Pub. L. 112–74, div. C, title I, § 116, Dec. 23, 2011, 125 Stat. 891.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 983; Pub. L. 108–458, title VI, § 6301(a), Dec. 17, 2004, 118 Stat. 3748; Pub. L. 112–74, div. C, title I, § 116, Dec. 23, 2011, 125 Stat. 891.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5114(a) | 31:177. | Aug. 24, 1912, ch. 355, § 1(4th par. under heading “Engraving and Printing”), 37 Stat. 430. |
+| 5114(a) | 31:177. | Aug. 24, 1912, ch. 355, § 1(4th par. under heading “Engraving and Printing”), 37 Stat. 430. |
 |  |  | Jan. 3, 1923, ch. 22(2d par. under heading “Bureau of Engraving and Printing”), 42 Stat. 1099. |
 |  | 31:415. | Mar. 3, 1877, ch. 105(provisos in par. under heading “Bureau of Engraving and Printing”), 19 Stat. 353. |
-|  | 31:416. | R.S. § 3577. |
+|  | 31:416. | R.S. § 3577. |
 | 5114(b) | 31:324a. | July 11, 1955, ch. 303, 69 Stat. 290. |
-|  | 31:413. | R.S. § 3576. |
-|  | 31:414. | Mar. 2, 1889, ch. 411, § 1(5th proviso under heading “Engraving and Printing”), 25 Stat. 945. |
-| 5114(c) | 31:418. | July 1, 1916, ch. 209, § 1(2d par. on p. 277), 39 Stat. 277; Oct. 31, 1951, ch. 654, § 2(19), 65 Stat. 707. |
-|  | 31:418a. | Aug. 11, 1951, ch. 301, § 101(proviso under heading “Bureau of Engraving and Printing”), 65 Stat. 184. |
+|  | 31:413. | R.S. § 3576. |
+|  | 31:414. | Mar. 2, 1889, ch. 411, § 1(5th proviso under heading “Engraving and Printing”), 25 Stat. 945. |
+| 5114(c) | 31:418. | July 1, 1916, ch. 209, § 1(2d par. on p. 277), 39 Stat. 277; Oct. 31, 1951, ch. 654, § 2(19), 65 Stat. 707. |
+|  | 31:418a. | Aug. 11, 1951, ch. 301, § 101(proviso under heading “Bureau of Engraving and Printing”), 65 Stat. 184. |
 |  | 31:419. | Apr. 4, 1924, ch. 84(1st par. on p. 69), 43 Stat. 69. |
 
-In subsection (a), the words “The Secretary of the Treasury shall engrave and print” are substituted for “The work of engraving and printing . . . shall be performed at the Treasury Department” in 31:415 because of the source provisions restated in section 321(c) of the revised title. The words “United States currency and security documents of the United States Government and currency and bonds of the United States territories and possessions” are substituted for “the backs and tints of all United States bonds, the backs and tints of all United States paper money, and the backs and tints of bonds and paper money issued by any of the insular possessions of the United States” in 31:177 to eliminate unnecessary words and for clarity and consistency in the revised title. The words “other security documents and checks” are substituted for “checks” because only currency and bonds must be printed from intaglio plates. The text of 31:177(1st proviso) is omitted as unnecessary because of the authority of the Secretary to engrave and print restated in the subsection and the source provisions restated in section 303 of the revised title. The text of 31:177(last proviso) is omitted as executed. The text of the first and 2d provisos in the 4th paragraph under the heading “Engraving and Printing” in section 1 of the Act of August 24, 1912 (ch. 355, 37 Stat. 430), is omitted as superseded by 31:177(1st proviso). The words after the semicolon in the 2d paragraph under the heading “Bureau of Engraving and Printing” of the Act of January 3, 1923 (ch. 22, 42 Stat. 1099), are omitted as executed. The words “if the Secretary decides the engraving and printing can be carried out . . . as outside the Department” are substituted for “provided it can be done there” in 31:415 for clarity. The words “The Secretary of the Treasury may purchase and provide all the machinery and materials” in 31:416 are omitted as being superseded by section 5142 of the revised title. The words “and employ such persons and appoint such officers as are necessary for the purpose of section 415 of this title” are omitted as unnecessary because of 5:3101. The text of section 3577(words before the semicolon) of the Revised Statutes is omitted as superseded by 31:415.
+In subsection (a), the words “The Secretary of the Treasury shall engrave and print” are substituted for “The work of engraving and printing . . . shall be performed at the Treasury Department” in 31:415 because of the source provisions restated in section 321(c) of the revised title. The words “United States currency and security documents of the United States Government and currency and bonds of the United States territories and possessions” are substituted for “the backs and tints of all United States bonds, the backs and tints of all United States paper money, and the backs and tints of bonds and paper money issued by any of the insular possessions of the United States” in 31:177 to eliminate unnecessary words and for clarity and consistency in the revised title. The words “other security documents and checks” are substituted for “checks” because only currency and bonds must be printed from intaglio plates. The text of 31:177(1st proviso) is omitted as unnecessary because of the authority of the Secretary to engrave and print restated in the subsection and the source provisions restated in section 303 of the revised title. The text of 31:177(last proviso) is omitted as executed. The text of the first and 2d provisos in the 4th paragraph under the heading “Engraving and Printing” in section 1 of the Act of August 24, 1912 (ch. 355, 37 Stat. 430), is omitted as superseded by 31:177(1st proviso). The words after the semicolon in the 2d paragraph under the heading “Bureau of Engraving and Printing” of the Act of January 3, 1923 (ch. 22, 42 Stat. 1099), are omitted as executed. The words “if the Secretary decides the engraving and printing can be carried out . . . as outside the Department” are substituted for “provided it can be done there” in 31:415 for clarity. The words “The Secretary of the Treasury may purchase and provide all the machinery and materials” in 31:416 are omitted as being superseded by section 5142 of the revised title. The words “and employ such persons and appoint such officers as are necessary for the purpose of section 415 of this title” are omitted as unnecessary because of 5:3101. The text of section 3577(words before the semicolon) of the Revised Statutes is omitted as superseded by 31:415.
 
-In subsection (b), the words “United States currency has the inscription” are substituted for “the dies shall bear . . . the inscription” in 31:324a for clarity. The words “At such time as new dies for the printing of currency are adopted” are omitted as executed. The words “and thereafter this inscription shall appear on all United States currency and coins” are omitted as unnecessary because of the restatement of the source provisions in this subsection and section 5112(d) of the revised title. The words “in connection with the current program of the Treasury Department to increase the capacity of presses utilized by the Bureau of Engraving and Printing” in the Act of July 11, 1955 (ch. 303, 69 Stat. 290), are omitted as unnecessary. The words “Only . . . of a deceased individual” are substituted for “No . . . while the original of such portrait is living” in 31:413 for clarity. The words “United States currency and obligations” are substituted for “bonds, securities, notes, fractional or postal currency of the United States” for consistency in the revised title. The words “shall be placed upon any of the plates for bonds, securities, notes, and silver certificates of the United States” in 31:414 are omitted as unnecessary because of the restatement.
+In subsection (b), the words “United States currency has the inscription” are substituted for “the dies shall bear . . . the inscription” in 31:324a for clarity. The words “At such time as new dies for the printing of currency are adopted” are omitted as executed. The words “and thereafter this inscription shall appear on all United States currency and coins” are omitted as unnecessary because of the restatement of the source provisions in this subsection and section 5112(d) of the revised title. The words “in connection with the current program of the Treasury Department to increase the capacity of presses utilized by the Bureau of Engraving and Printing” in the Act of July 11, 1955 (ch. 303, 69 Stat. 290), are omitted as unnecessary. The words “Only . . . of a deceased individual” are substituted for “No . . . while the original of such portrait is living” in 31:413 for clarity. The words “United States currency and obligations” are substituted for “bonds, securities, notes, fractional or postal currency of the United States” for consistency in the revised title. The words “shall be placed upon any of the plates for bonds, securities, notes, and silver certificates of the United States” in 31:414 are omitted as unnecessary because of the restatement.
 
 In subsection (c), before clause (1), the words “subject to applicable regulations under the Federal Property and Administrative Services Act of 1949, as amended” in 31:418 are omitted as unnecessary. The words “On and after August 11, 1951” in 31:418a are omitted as executed. The words “received after advertisement” are omitted as unnecessary because of 41:252. The words “the Secretary decides” are added for clarity. In clause (1), the words “as may be necessary” in 31:419 are omitted as surplus. In clause (2), the word “pay” is substituted for “compensation” for consistency in the revised subsection and with other titles of the United States Code.
 
@@ -2492,7 +2492,7 @@ In subsection (c), before clause (1), the words “subject to applicable regulat
 
 **References in Text**
 
-Title III of the Act of March 3, 1933, referred to in subsec. (a)(3), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§ 8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Title III of the Act of March 3, 1933, referred to in subsec. (a)(3), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§ 8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 **Amendments**
 
@@ -2504,13 +2504,13 @@ Title III of the Act of March 3, 1933, referred to in subsec. (a)(3), is title I
 
 **Prohibition on Use of Funds for Manufacture of Distinctive Paper for Currency and Securities by Foreign Owned Corporations or Outside United States; Exception**
 
-Pub. L. 100–440, title VI, § 617(a), Sept. 22, 1988, 102 Stat. 1755, provided that: “None of the funds made available by this or any other Act with respect to any fiscal year may be used to make a contract for the manufacture of distinctive paper for United States currency and securities pursuant to section 5114 of title 31, United States Code, with any corporation or other entity owned or controlled by persons not citizens of the United States, or for the manufacture of such distinctive paper outside of the United States or its possessions. This subsection shall not apply if the Secretary of the Treasury determines that no domestic manufacturer of distinctive paper for United States currency or securities exists with which to make a contract and if the Secretary of the Treasury publishes in the Federal Register a written finding stating the basis for the determination.”
+Pub. L. 100–440, title VI, § 617(a), Sept. 22, 1988, 102 Stat. 1755, provided that: “None of the funds made available by this or any other Act with respect to any fiscal year may be used to make a contract for the manufacture of distinctive paper for United States currency and securities pursuant to section 5114 of title 31, United States Code, with any corporation or other entity owned or controlled by persons not citizens of the United States, or for the manufacture of such distinctive paper outside of the United States or its possessions. This subsection shall not apply if the Secretary of the Treasury determines that no domestic manufacturer of distinctive paper for United States currency or securities exists with which to make a contract and if the Secretary of the Treasury publishes in the Federal Register a written finding stating the basis for the determination.”
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 100–202, § 101(m) [title VI, § 622(a)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–428.
+Pub. L. 100–202, § 101(m) [title VI, § 622(a)], Dec. 22, 1987, 101 Stat. 1329–390, 1329–428.
 
-### § 5115. United States currency notes
+### § 5115. United States currency notes
 
 **(a)** The Secretary of the Treasury may issue United States currency notes. The notes—
 
@@ -2530,8 +2530,8 @@ Pub. L. 100–202, § 101(m) [title VI, § 622(a)], Dec. 22, 1987, 101 Stat.
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5115(a) | 31:401. | R.S. § 3571. |
-| 5115(b) | 31:402. | June 20, 1874, ch. 343, § 6, 18 Stat. 124; Jan. 14, 1875, ch. 15, § 3, 18 Stat. 296. |
+| 5115(a) | 31:401. | R.S. § 3571. |
+| 5115(b) | 31:402. | June 20, 1874, ch. 343, § 6, 18 Stat. 124; Jan. 14, 1875, ch. 15, § 3, 18 Stat. 296. |
 
 In the section, the words “United States currency notes” are substituted for “United States notes” for clarity and consistency in the revised title.
 
@@ -2539,7 +2539,7 @@ In subsection (a), the first sentence is added for clarity and because of the re
 
 In subsection (b), before clause (1), the words “in circulation” are substituted for “to be used as a part of the circulation medium” to eliminate unnecessary words. In clause (1), the words “the sum of” are omitted as surplus. The words “which said sum shall appear in each monthly statement of the public debt” are omitted because of the source provisions restated in section 5118 of the revised title. In clause (2), the words “and no part thereof shall” are omitted because of the restatement. The text of section 3(less 2d sentence) of the Act of January 14, 1875 (ch. 15, 18 Stat. 296), is omitted as executed.
 
-### § 5116. Buying and selling gold and silver
+### § 5116. Buying and selling gold and silver
 
 **(a)**
 
@@ -2559,17 +2559,17 @@ In subsection (b), before clause (1), the words “in circulation” are substit
 
 **(2)** The Secretary may sell or use Government silver to mint coins, except silver transferred to stockpiles established under the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.). The Secretary shall obtain the silver for the coins authorized under section 5112(e) of this title by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98 et seq.). At such time as the silver stockpile is depleted, the Secretary shall obtain silver as described in paragraph (1) to mint coins authorized under section 5112(e). If it is not economically feasible to obtain such silver, the Secretary may obtain silver for coins authorized under section 5112(e) from other available sources. The Secretary shall not pay more than the average world price for silver under any circumstances. As used in this paragraph, the term “average world price” means the price determined by a widely recognized commodity exchange at the time the silver is obtained by the Secretary. The Secretary shall sell silver under conditions the Secretary considers appropriate for at least $1.292929292 a fine troy ounce.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 984; Pub. L. 99–61, title II, § 203, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, § 2(c), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, § 5, Mar. 31, 1988, 102 Stat. 50; Pub. L. 107–201, § 3(a)(1), July 23, 2002, 116 Stat. 737.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 984; Pub. L. 99–61, title II, § 203, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, § 2(c), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, § 5, Mar. 31, 1988, 102 Stat. 50; Pub. L. 107–201, § 3(a)(1), July 23, 2002, 116 Stat. 737.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5116(a) | 31:733(words after semicolon). | R.S. § 3699(words after semicolon); restated Jan. 30, 1934, ch. 6, § 9, 48 Stat. 341. |
-|  | 31:734. | R.S. § 3700; restated Jan. 30, 1934, ch. 6, § 8, 48 Stat. 341. |
-| 5116(b)(1) | 31:335. | R.S. § 3526; restated May 10, 1950, ch. 173, 64 Stat. 157; July 9, 1956, ch. 535, § 2, 70 Stat. 518; July 23, 1965, Pub. L. 89–81, § 205, 79 Stat. 256. |
-|  | 31:394. | July 23, 1965, Pub. L. 89–81, § 104, 79 Stat. 255. |
-| 5116(b)(2) | 31:405a–1. | June 4, 1963, Pub. L. 88–36, § 2, 77 Stat. 54; July 23, 1965, Pub. L. 89–81, § 209, 79 Stat. 257; restated June 24, 1967, Pub. L. 90–29, § 3, 81 Stat. 77. |
+| 5116(a) | 31:733(words after semicolon). | R.S. § 3699(words after semicolon); restated Jan. 30, 1934, ch. 6, § 9, 48 Stat. 341. |
+|  | 31:734. | R.S. § 3700; restated Jan. 30, 1934, ch. 6, § 8, 48 Stat. 341. |
+| 5116(b)(1) | 31:335. | R.S. § 3526; restated May 10, 1950, ch. 173, 64 Stat. 157; July 9, 1956, ch. 535, § 2, 70 Stat. 518; July 23, 1965, Pub. L. 89–81, § 205, 79 Stat. 256. |
+|  | 31:394. | July 23, 1965, Pub. L. 89–81, § 104, 79 Stat. 255. |
+| 5116(b)(2) | 31:405a–1. | June 4, 1963, Pub. L. 88–36, § 2, 77 Stat. 54; July 23, 1965, Pub. L. 89–81, § 209, 79 Stat. 257; restated June 24, 1967, Pub. L. 90–29, § 3, 81 Stat. 77. |
 
 In subsection (a)(1), the words “With the approval of the President” are applied to 31:733(words after semicolon) because of 31:822b. The words “at home or abroad” in 31:733(words after semicolon) and 734 are omitted as surplus. The words “terms and” are omitted as included in “conditions”. The text of 31:733(proviso) is omitted as superseded by the Bretton Woods Agreement Act (22 U.S.C. 286 et seq.) and sections 6 and 9 of the Act of October 19, 1976 (Pub. L. 94–564, 90 Stat. 2661), repealing 31:449 that provided for parity of the dollar on terms of gold and special drawing rights. The text of 31:734(1st sentence words after semicolon) is omitted as surplus.
 
@@ -2581,7 +2581,7 @@ In subsection (b)(2), the word “terms” is omitted as being included in “co
 
 **References in Text**
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (b)(2), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (b)(2), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 **Amendments**
 
@@ -2591,9 +2591,9 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (b
 
 1985—Subsec. (a)(3). Pub. L. 99–185 added par. (3).
 
-Subsec. (b)(1). Pub. L. 99–61, § 203(1), (2), substituted “The Secretary may buy silver” for “The Secretary shall buy silver”, and struck out provision directing that the Secretary pay $1.25 a fine troy ounce for silver.
+Subsec. (b)(1). Pub. L. 99–61, § 203(1), (2), substituted “The Secretary may buy silver” for “The Secretary shall buy silver”, and struck out provision directing that the Secretary pay $1.25 a fine troy ounce for silver.
 
-Subsec. (b)(2). Pub. L. 99–61, § 203(3), inserted provision directing that the Secretary obtain the silver for the coins authorized under section 5112(e) of this title by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act.
+Subsec. (b)(2). Pub. L. 99–61, § 203(3), inserted provision directing that the Secretary obtain the silver for the coins authorized under section 5112(e) of this title by purchase from stockpiles established under the Strategic and Critical Materials Stock Piling Act.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2605,11 +2605,11 @@ Amendment by Pub. L. 99–61 effective Oct. 1, 1985, with exception as to issuan
 
 **Regulations**
 
-Pub. L. 107–201, § 3(a)(2), July 23, 2002, 116 Stat. 737, provided that: “The Secretary of the Treasury shall issue regulations to implement the amendments made by paragraph (1) [amending this section].”
+Pub. L. 107–201, § 3(a)(2), July 23, 2002, 116 Stat. 737, provided that: “The Secretary of the Treasury shall issue regulations to implement the amendments made by paragraph (1) [amending this section].”
 
 **Congressional Findings Concerning American Eagle Silver Bullion Program**
 
-Pub. L. 107–201, § 2, July 23, 2002, 116 Stat. 736, provided that:
+Pub. L. 107–201, § 2, July 23, 2002, 116 Stat. 736, provided that:
 
 > “Congress finds that—
 
@@ -2659,7 +2659,7 @@ Pub. L. 107–201, § 2, July 23, 2002, 116 Stat. 736, provided that:
 
 **Annual Report on Silver Purchases in Support of American Eagle Silver Bullion Program**
 
-Pub. L. 107–201, § 3(c), July 23, 2002, 116 Stat. 737, provided that:
+Pub. L. 107–201, § 3(c), July 23, 2002, 116 Stat. 737, provided that:
 
 > **“(1) In general.—** The Director of the United States Mint shall prepare and submit to Congress an annual report on the purchases of silver made pursuant to this Act [amending this section and enacting provisions set out as notes under this section and sections 5101 and 5112 of this title] and the amendments made by this Act.
 
@@ -2669,7 +2669,7 @@ Pub. L. 107–201, § 3(c), July 23, 2002, 116 Stat. 737, provided that:
 
 All assets and liabilities of Coinage Metal Fund transferred to United States Mint Public Enterprise Fund and such coinage fund to cease to exist as separate fund as its activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
 
-### § 5117. Transferring gold and gold certificates
+### § 5117. Transferring gold and gold certificates
 
 **(a)** All right, title, and interest, and every claim of the Board of Governors of the Federal Reserve System, a Federal reserve bank, and a Federal reserve agent, in and to gold is transferred to and vests in the United States Government to be held in the Treasury. Payment for the transferred gold is made by crediting equivalent amounts in dollars in accounts established in the Treasury under the 15th paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 467). Gold not in the possession of the Government shall be held in custody for the Government and delivered on the order of the Secretary of the Treasury. The Board of Governors, Federal reserve banks, and Federal reserve agents shall give instructions and take action necessary to ensure that the gold is so held and delivered.
 
@@ -2683,19 +2683,19 @@ All assets and liabilities of Coinage Metal Fund transferred to United States Mi
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5117(a) | 31:441(1st, last sentences). | Jan. 30, 1934, ch. 6, §§ 2(a), 11, 48 Stat. 337, 342. |
-| 5117(b) | 31:405b. | Jan. 30, 1934, ch. 6, § 14(c), 48 Stat. 344; Mar. 18, 1968, Pub. L. 90–269, § 12, 82 Stat. 51; restated Oct. 19, 1976, Pub. L. 94–564, § 8, 90 Stat. 2661. |
-|  | 31:408a(last proviso). | Jan. 30, 1934, ch. 6, § 6(last proviso), 48 Stat. 340; Mar. 18, 1968, Pub. L. 90–269, § 8, 82 Stat. 50. |
+| 5117(a) | 31:441(1st, last sentences). | Jan. 30, 1934, ch. 6, §§ 2(a), 11, 48 Stat. 337, 342. |
+| 5117(b) | 31:405b. | Jan. 30, 1934, ch. 6, § 14(c), 48 Stat. 344; Mar. 18, 1968, Pub. L. 90–269, § 12, 82 Stat. 51; restated Oct. 19, 1976, Pub. L. 94–564, § 8, 90 Stat. 2661. |
+|  | 31:408a(last proviso). | Jan. 30, 1934, ch. 6, § 6(last proviso), 48 Stat. 340; Mar. 18, 1968, Pub. L. 90–269, § 8, 82 Stat. 50. |
 |  | 31:441(2d sentence). |  |
 | 5117(c) | 31:822b. |  |
 
 In subsection (a), the words “On January 30, 1934” are omitted as executed. The word “gold” is substituted for “gold coin and gold bullion” for consistency and to omit unnecessary words. The word “transferred” is substituted for “pass” for consistency in the subsection. The words “to be held in the Treasury” are added for consistency with the source provisions restated in subsection (b) of the revised section.
 
-In subsection (b), the first sentence is substituted for 31:441(2d sentence) for consistency. The word “issued” in 31:405b is omitted as being included in “outstanding”. The words “of 42 and two-ninths dollars a fine troy ounce)” are substituted for “at the legal standard provided in section 449 of this title on October 19, 1976” because that was the legal standard in that section on that date. The text of 31:449 was repealed by section 6 of the Bretton Woods Agreements Act. The words “The Secretary shall hold . . . in the Treasury . . . as security” are substituted for “security . . . shall be maintained” in 31:408a(last proviso) because of the source provisions restated in section 321 of the revised title. The words “gold certificates issued after January 29, 1934” are substituted for “gold certificates (including the gold certificates held in the Treasury for credits payable therein)” for clarity and because of section 5118(c)(1)(A) of the revised title.
+In subsection (b), the first sentence is substituted for 31:441(2d sentence) for consistency. The word “issued” in 31:405b is omitted as being included in “outstanding”. The words “of 42 and two-ninths dollars a fine troy ounce)” are substituted for “at the legal standard provided in section 449 of this title on October 19, 1976” because that was the legal standard in that section on that date. The text of 31:449 was repealed by section 6 of the Bretton Woods Agreements Act. The words “The Secretary shall hold . . . in the Treasury . . . as security” are substituted for “security . . . shall be maintained” in 31:408a(last proviso) because of the source provisions restated in section 321 of the revised title. The words “gold certificates issued after January 29, 1934” are substituted for “gold certificates (including the gold certificates held in the Treasury for credits payable therein)” for clarity and because of section 5118(c)(1)(A) of the revised title.
 
 In subsection (c), the word “regulations” is substituted for “rules and regulations”, and the word “necessary” is substituted for “necessary or proper”, to eliminate unnecessary words.
 
-### § 5118. Gold clauses and consent to sue
+### § 5118. Gold clauses and consent to sue
 
 **(a)** In this section—
 
@@ -2731,19 +2731,19 @@ In subsection (c), the word “regulations” is substituted for “rules and re
 
 **(2)** An obligation issued containing a gold clause or governed by a gold clause is discharged on payment (dollar for dollar) in United States coin or currency that is legal tender at the time of payment. This paragraph does not apply to an obligation issued after October 27, 1977.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 985; Pub. L. 99–185, § 2(d), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 104–208, div. A, title II, § 2609, Sept. 30, 1996, 110 Stat. 3009–475; Pub. L. 105–61, title VI, § 641, Oct. 10, 1997, 111 Stat. 1318.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 985; Pub. L. 99–185, § 2(d), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 104–208, div. A, title II, § 2609, Sept. 30, 1996, 110 Stat. 3009–475; Pub. L. 105–61, title VI, § 641, Oct. 10, 1997, 111 Stat. 1318.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 5118(a) | 31:773d. | Aug. 27, 1935, ch. 780, 49 Stat. 938. |
-| 5118(b) | 31:315b. | Jan. 30, 1934, ch. 6, § 5, 48 Stat. 340. |
+| 5118(b) | 31:315b. | Jan. 30, 1934, ch. 6, § 5, 48 Stat. 340. |
 |  | 31:773a. |  |
 | 5118(c)(1), (2) | 31:773b. |  |
 | 5118(c)(3) | 31:773c. |  |
-| 5118(d) | 31:463. | June 5, 1933, ch. 48, § 1, 48 Stat. 113. |
-|  | 31:463(note). | Oct. 28, 1977, Pub. L. 95–147, § 4(c), 91 Stat. 1229. |
+| 5118(d) | 31:463. | June 5, 1933, ch. 48, § 1, 48 Stat. 113. |
+|  | 31:463(note). | Oct. 28, 1977, Pub. L. 95–147, § 4(c), 91 Stat. 1229. |
 
 In subsection (a), before clause (1), the words “the phrase” are omitted as surplus. In clause (1), the words “declared to be against public policy by section 463 of this title” are omitted as surplus. Clause (2) is substituted for 31:773d(words after semicolon) for consistency in the revised title and to eliminate unnecessary words.
 
@@ -2773,7 +2773,7 @@ In subsection (d)(1), the words “including every obligation of and to the Unit
 
 Amendment by Pub. L. 99–185 effective Oct. 1, 1985, except that no coins may be issued or sold under section 5112(i) of this title before Oct. 1, 1986, see section 3 of Pub. L. 99–185, set out as a note under section 5112 of this title.
 
-### § 5119. Redemption and cancellation of currency
+### § 5119. Redemption and cancellation of currency
 
 **(a)** Except to the extent authorized in regulations the Secretary of the Treasury prescribes with the approval of the President, the Secretary may not redeem United States currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks) in gold. However, the Secretary shall redeem gold certificates owned by the Federal reserve banks at times and in amounts the Secretary decides are necessary to maintain the equal purchasing power of each kind of United States currency. When redemption in gold is authorized, the redemption may be made only in gold bullion bearing the stamp of a United States mint or assay office in an amount equal at the time of redemption to the currency presented for redemption.
 
@@ -2811,20 +2811,20 @@ The Secretary shall not be required to reissue United States currency notes upon
 
 **(d)** To provide a historical collection of United States currency, the Secretary may withhold from cancellation and destruction and transfer to a special account one piece of each design, issue, or series of each denomination of each kind of currency (including circulating notes of Federal reserve banks and national banks) after redemption. The Secretary may make appropriate entries in Treasury accounts because of the transfers.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 985; Pub. L. 102–390, title II, § 226(b), Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–325, title VI, § 602(g)(14), Sept. 23, 1994, 108 Stat. 2294.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 985; Pub. L. 102–390, title II, § 226(b), Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–325, title VI, § 602(g)(14), Sept. 23, 1994, 108 Stat. 2294.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5119(a) | 31:408a(less last proviso). | Jan. 30, 1934, ch. 6, §§ 6(less last proviso), 11, 15(1st sentence words between 2d and 3d semicolons), 48 Stat. 340, 342, 344. |
+| 5119(a) | 31:408a(less last proviso). | Jan. 30, 1934, ch. 6, §§ 6(less last proviso), 11, 15(1st sentence words between 2d and 3d semicolons), 48 Stat. 340, 342, 344. |
 |  | 31:444(1st sentence words between 2d and 3d semicolons). |  |
 |  | 31:822b. |  |
-| 5119(b)(1) | 31:405a–3. | June 24, 1967, Pub. L. 90–29, §§ 1, 2, 81 Stat. 77. |
-|  | 31:911. | June 30, 1961, Pub. L. 87–66, §§ 2, 5, 6, 9, 10, 75 Stat. 146, 147. |
+| 5119(b)(1) | 31:405a–3. | June 24, 1967, Pub. L. 90–29, §§ 1, 2, 81 Stat. 77. |
+|  | 31:911. | June 30, 1961, Pub. L. 87–66, §§ 2, 5, 6, 9, 10, 75 Stat. 146, 147. |
 |  | 31:915(a), (b). |  |
-| 5119(b)(2) | 31:404. | May 31, 1878, ch. 146, 20 Stat. 87; June 30, 1961, Pub. L. 87–66, § 7, 75 Stat. 147. |
-|  | 31:420. | R.S. § 3580. |
+| 5119(b)(2) | 31:404. | May 31, 1878, ch. 146, 20 Stat. 87; June 30, 1961, Pub. L. 87–66, § 7, 75 Stat. 147. |
+|  | 31:420. | R.S. § 3580. |
 |  | 31:914. |  |
 |  | 31:916. |  |
 | 5119(c)(1) | 31:915(c)(words before last comma). |  |
@@ -2832,7 +2832,7 @@ The Secretary shall not be required to reissue United States currency notes upon
 |  | 31:915(c)(words after last comma). |  |
 | 5119(d) | 31:917. |  |
 
-In subsection (a), the words “Secretary may not redeem” are substituted for “no . . . shall be redeemed” in 31:408a(less last proviso) because of the source provisions restated in section 321 of the revised title. The words “United States currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks)” are substituted for “currency of the United States” and the text of 31:444(1st sentence words between 2d and 3d semicolons) for consistency with section 5103 of this title and to eliminate unnecessary words.
+In subsection (a), the words “Secretary may not redeem” are substituted for “no . . . shall be redeemed” in 31:408a(less last proviso) because of the source provisions restated in section 321 of the revised title. The words “United States currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks)” are substituted for “currency of the United States” and the text of 31:444(1st sentence words between 2d and 3d semicolons) for consistency with section 5103 of this title and to eliminate unnecessary words.
 
 In subsection (b)(1), before clause (A), the words “upon completion of the transfers and credits authorized and directed by section 912 of this title” in 31:915 and “and the amount of the payment credited as a public debt receipt in accordance with such section” are omitted as executed. In clause (B), the text of 31:405a–3(last sentence) and 31:915(a)(4) is consolidated. The text of 31:405a–3(1st sentence) is omitted as executed. In clauses (C) and (E), the citations in parentheses are included only for information purposes.
 
@@ -2846,9 +2846,9 @@ In subsection (d), the word “paper” is omitted as surplus. The words “(inc
 
 **References in Text**
 
-Act of July 14, 1890, ch. 708, 26 Stat. 289, referred to in subsec. (b)(1)(C), which was known as the Sherman Purchase of Silver Act of July 14, 1890, was classified to sections 408, 410, 412, and 453 of former Title 31, and sections 122 and 145 of Title 12, Banks and Banking, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1069.
+Act of July 14, 1890, ch. 708, 26 Stat. 289, referred to in subsec. (b)(1)(C), which was known as the Sherman Purchase of Silver Act of July 14, 1890, was classified to sections 408, 410, 412, and 453 of former Title 31, and sections 122 and 145 of Title 12, Banks and Banking, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1069.
 
-Section 4 of the Old Series Currency Adjustment Act, referred to in subsec. (b)(1)(D), is section 4 of Pub. L. 87–66, June 30, 1961, 75 Stat. 146, which was classified to section 913 of former Title 31, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1079.
+Section 4 of the Old Series Currency Adjustment Act, referred to in subsec. (b)(1)(D), is section 4 of Pub. L. 87–66, June 30, 1961, 75 Stat. 146, which was classified to section 913 of former Title 31, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1079.
 
 Acts February 25, 1862, July 11, 1862, and March 3, 1863, and resolution January 17, 1863, referred to in subsec. (b)(1)(E), are acts Feb. 25, 1862, ch. 33, 12 Stat. 345, July 11, 1862, ch. 142, 12 Stat. 532, and Mar. 3, 1863, ch. 73, 12 Stat. 709, and resolution Jan. 17, 1863, 12 Stat. 822, respectively, which are not classified to the Code.
 
@@ -2858,7 +2858,7 @@ Acts February 25, 1862, July 11, 1862, and March 3, 1863, and resolution January
 
 1992—Subsec. (b)(2). Pub. L. 102–390 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall redeem from the general fund of the Treasury and cancel and destroy currency referred to in paragraph (1) of this subsection when the currency is presented to the Secretary.”
 
-### § 5120. Obsolete, mutilated, and worn coins and currency
+### § 5120. Obsolete, mutilated, and worn coins and currency
 
 **(a)**
 
@@ -2888,18 +2888,18 @@ Acts February 25, 1862, July 11, 1862, and March 3, 1863, and resolution January
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5120(a) | 31:317c. | Dec. 18, 1942, ch. 767, § 3, 56 Stat. 1065; July 23, 1965, Pub. L. 89–81, § 203(a), 79 Stat. 256. |
-| 5120(b) | 31:421. | R.S. § 3581. |
-|  | 31:422. | June 23, 1874, ch. 455, § 1(3d par. under heading “National Currency”), 18 Stat. 206. |
-| 5120(c) | 31:49a. | May 20, 1966, Pub. L. 89–427, § 5, 80 Stat. 161. |
+| 5120(a) | 31:317c. | Dec. 18, 1942, ch. 767, § 3, 56 Stat. 1065; July 23, 1965, Pub. L. 89–81, § 203(a), 79 Stat. 256. |
+| 5120(b) | 31:421. | R.S. § 3581. |
+|  | 31:422. | June 23, 1874, ch. 455, § 1(3d par. under heading “National Currency”), 18 Stat. 206. |
+| 5120(c) | 31:49a. | May 20, 1966, Pub. L. 89–427, § 5, 80 Stat. 161. |
 
 In subsection (a)(1), before clause (A), the word “obsolete” is substituted for “uncurrent” as being more precise. The words “withdrawn from circulation” are substituted for “received in the Treasury” for clarity. The words “heretofore or hereafter issued” are omitted as surplus. The words “metal from melting the coins” are substituted for “the resulting metal” because of the restatement. The word “reminting” is substituted for “coinage” for consistency in the revised title. The word “material” is omitted as being included in “metal”. The words “The Secretary shall account” are substituted for “shall be accounted for by entries” because of the source provisions restated in section 321 of the revised title. In clause (D), the word “face” is substituted for “nominal or face” to eliminate unnecessary words. The words “coins minted from the metal” are substituted for “the amount the same will produce in new coin” for clarity.
 
 In subsection (a)(2), the words “The Secretary shall reimburse” are substituted for “fund shall be reimbursed” because of the source provisions restated in section 321 of the revised title. The text of 31:317c(proviso) is omitted as obsolete because the statutory limit on the coinage metal fund was removed by the restatement of section 3528 of the Revised Statutes by section 206(a) of the Coinage Act of 1965 (Pub. L. 89–81, 79 Stat. 256).
 
-In subsection (b), before clause (1), the words “The Secretary shall” are substituted for “shall be destroyed in such manner and under such regulations as the Secretary of the Treasury may prescribe” in 31:421 because of the source provisions restated in section 321 of the revised title. In clause (1), the words “cancel and destroy” are substituted for “shall be destroyed” to conform to subsection (c) and section 5118(c) and (e) of the revised title. The words “(by a secure process)” are substituted for “may be destroyed by maceration instead of burning to ashes” in 31:422 to eliminate unnecessary words and because of the source provisions restated in section 321 of the revised title. The words “obsolete, mutilated, and worn . . . withdrawn from circulation” are substituted for “which by law are required to be taken up, and not reissued, when taken up” in 31:421 for consistency with subsection (a) and 12:124. The words “United States currency” are substituted for “all other notes” in 31:421 and “All national bank notes . . . and other obligations of the United States” for consistency in the revised title. The words “Mutilated United States notes, when replaced according to law” are omitted as superseded by the source provisions restated in section 5119(b) of the revised title. The text of the 3d paragraph(words before the first semicolon and between the 2d and last semicolons) under the heading “National Currency” in section 1 of the Act of June 23, 1874 (ch. 455, 18 Stat. 206), is omitted as executed. In clause (2), the words “dispose of the residue of the currency and notes” are substituted for “The pulp from such macerated issue shall be disposed of only under the direction of the Secretary of the Treasury” in 31:422 to eliminate unnecessary words and for consistency in the revised title.
+In subsection (b), before clause (1), the words “The Secretary shall” are substituted for “shall be destroyed in such manner and under such regulations as the Secretary of the Treasury may prescribe” in 31:421 because of the source provisions restated in section 321 of the revised title. In clause (1), the words “cancel and destroy” are substituted for “shall be destroyed” to conform to subsection (c) and section 5118(c) and (e) of the revised title. The words “(by a secure process)” are substituted for “may be destroyed by maceration instead of burning to ashes” in 31:422 to eliminate unnecessary words and because of the source provisions restated in section 321 of the revised title. The words “obsolete, mutilated, and worn . . . withdrawn from circulation” are substituted for “which by law are required to be taken up, and not reissued, when taken up” in 31:421 for consistency with subsection (a) and 12:124. The words “United States currency” are substituted for “all other notes” in 31:421 and “All national bank notes . . . and other obligations of the United States” for consistency in the revised title. The words “Mutilated United States notes, when replaced according to law” are omitted as superseded by the source provisions restated in section 5119(b) of the revised title. The text of the 3d paragraph(words before the first semicolon and between the 2d and last semicolons) under the heading “National Currency” in section 1 of the Act of June 23, 1874 (ch. 455, 18 Stat. 206), is omitted as executed. In clause (2), the words “dispose of the residue of the currency and notes” are substituted for “The pulp from such macerated issue shall be disposed of only under the direction of the Secretary of the Treasury” in 31:422 to eliminate unnecessary words and for consistency in the revised title.
 
-In subsection (c), the word “currency” is substituted for “currency . . . unfit for circulation” to eliminate unnecessary words. The words “regardless of who is responsible for, and regardless of who performs, such cancellation, destruction, or accounting” are omitted as unnecessary because of the restatement. The word “record” is substituted for “books, documents, papers, and records”, and the words “make . . . easier” are substituted for “facilitate”, for consistency in the revised title and with other titles of the United States Code.
+In subsection (c), the word “currency” is substituted for “currency . . . unfit for circulation” to eliminate unnecessary words. The words “regardless of who is responsible for, and regardless of who performs, such cancellation, destruction, or accounting” are omitted as unnecessary because of the restatement. The word “record” is substituted for “books, documents, papers, and records”, and the words “make . . . easier” are substituted for “facilitate”, for consistency in the revised title and with other titles of the United States Code.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2909,9 +2909,9 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 
 **Threshold for Requiring Taxpayer Identification Number**
 
-Pub. L. 112–74, div. C, title I, § 117, Dec. 23, 2011, 125 Stat. 891, provided that: “In the current fiscal year and each fiscal year hereafter, any person who forwards to the Bureau of Engraving and Printing a mutilated paper currency claim equal to or exceeding $10,000 for redemption will be required to provide the Bureau their taxpayer identification number.”
+Pub. L. 112–74, div. C, title I, § 117, Dec. 23, 2011, 125 Stat. 891, provided that: “In the current fiscal year and each fiscal year hereafter, any person who forwards to the Bureau of Engraving and Printing a mutilated paper currency claim equal to or exceeding $10,000 for redemption will be required to provide the Bureau their taxpayer identification number.”
 
-### § 5121. Refining, assaying, and valuation of bullion
+### § 5121. Refining, assaying, and valuation of bullion
 
 **(a)** The Secretary of the Treasury shall—
 
@@ -2945,21 +2945,21 @@ Pub. L. 112–74, div. C, title I, § 117, Dec. 23, 2011, 125 Stat. 891, provi
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5121(a) | 31:274. | R.S. § 3508; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
-|  | 31:277. | R.S. § 3507. |
-|  | 31:330. | R.S. § 3522. |
-|  | 31:343. | R.S. § 3530; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
-|  | 31:344. | R.S. § 3531; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
-| 5121(b) | 31:325(words before 4th comma and after last comma). | R.S. § 3518. |
-|  | 31:327(1st sentence). | R.S. § 3519. |
-|  | 31:328(1st sentence). | R.S. § 3520; Mar. 3, 1887, ch. 396, § 3, 24 Stat. 635. |
-|  | 31:329. | R.S. § 3521; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+| 5121(a) | 31:274. | R.S. § 3508; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+|  | 31:277. | R.S. § 3507. |
+|  | 31:330. | R.S. § 3522. |
+|  | 31:343. | R.S. § 3530; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+|  | 31:344. | R.S. § 3531; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+| 5121(b) | 31:325(words before 4th comma and after last comma). | R.S. § 3518. |
+|  | 31:327(1st sentence). | R.S. § 3519. |
+|  | 31:328(1st sentence). | R.S. § 3520; Mar. 3, 1887, ch. 396, § 3, 24 Stat. 635. |
+|  | 31:329. | R.S. § 3521; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
 | 5121(c) | 31:327(last sentence). |  |
 |  | 31:328(last sentence). |  |
-| 5121(d) | 31:360. | R.S. § 3546. |
-|  | 31:362. | June 19, 1878, ch. 329, § 1(2d sentence words after last semicolon on p. 191), 20 Stat. 191. |
+| 5121(d) | 31:360. | R.S. § 3546. |
+|  | 31:362. | June 19, 1878, ch. 329, § 1(2d sentence words after last semicolon on p. 191), 20 Stat. 191. |
 | 5121(e) | 31:325(words between 4th and last commas). |  |
-|  | 31:347. | R.S. § 3534; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+|  | 31:347. | R.S. § 3534; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
 
 In the section, the word “Secretary” is substituted for “superintendent”, “superintendent of melting and refining department”, “assayer”, “Director of the Mint”, and “Director of the Mint, with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title.
 
@@ -2983,7 +2983,7 @@ In subsection (e), the word “suitable” is substituted for “expedient” in
 
 The possession of gold coins and bullion was prohibited except under Government license by Ex. Ord. No. 6260, eff. Aug. 28, 1933. That prohibition was revoked by Ex. Ord. No. 11825, Dec. 31, 1974, 40 F.R. 1003, eff. Dec. 31, 1974.
 
-### § 5122. Payment to depositors
+### § 5122. Payment to depositors
 
 **(a)** The Secretary of the Treasury shall determine the fineness, weight, and value of each deposit and bar under section 5121 of this title. The value and the amount of charges under subsection (b) of this section shall be based on the fineness and weight of the bullion. The Secretary shall give the depositor a statement of the charges and the net amount of the deposit to be paid in money or bars of the same species of bullion as that deposited.
 
@@ -3007,15 +3007,15 @@ The possession of gold coins and bullion was prohibited except under Government 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5122(a) | 31:273(last sentence). | R.S. § 3506(last sentence). |
-|  | 31:331. | R.S. § 3523. |
-|  | 31:334. | R.S. § 3525. |
-| 5122(b) | 31:332. | R.S. § 3524; Jan. 14, 1875, ch. 15, § 2(words before com­ma), 18 Stat. 296; Mar. 1, 1881, ch. 95, 21 Stat. 374; Mar. 3, 1887, ch. 396, § 3, 24 Stat. 635. |
-| 5122(c) | 31:357. | R.S. § 3544. |
-|  | 31:358(2d sentence). | R.S. § 3545; June 19, 1878, ch. 329, § 1(last par. 1st sentence words before 1st semicolon under heading “Mint at Denver, Colorado”), 20 Stat. 191. |
+| 5122(a) | 31:273(last sentence). | R.S. § 3506(last sentence). |
+|  | 31:331. | R.S. § 3523. |
+|  | 31:334. | R.S. § 3525. |
+| 5122(b) | 31:332. | R.S. § 3524; Jan. 14, 1875, ch. 15, § 2(words before com­ma), 18 Stat. 296; Mar. 1, 1881, ch. 95, 21 Stat. 374; Mar. 3, 1887, ch. 396, § 3, 24 Stat. 635. |
+| 5122(c) | 31:357. | R.S. § 3544. |
+|  | 31:358(2d sentence). | R.S. § 3545; June 19, 1878, ch. 329, § 1(last par. 1st sentence words before 1st semicolon under heading “Mint at Denver, Colorado”), 20 Stat. 191. |
 | 5122(d) | 31:358(1st, last sentences). |  |
 
-In subsection (a), the words “Secretary of the Treasury” are substituted for “he” in 31:273(last sentence) because of the source provisions restated in section 321 of the revised title. The words “fineness, weight, and value of each deposit and bar” and “The value and the amount of charges . . . shall be based on the fineness and weight of the bullion” are substituted for “From the report of the assayer and the weight of the bullion” for clarity and because of the restatement. The words “or deductions, if any” are omitted as being included in “charges”. The word “money” is substituted for “in coins” for clarity. The text of 31:331 and 334 is omitted as unnecessary because of the restatement. The text of 31:273(last sentence words after 7th comma) is omitted because of the source provisions restated in section 321 of the revised title.
+In subsection (a), the words “Secretary of the Treasury” are substituted for “he” in 31:273(last sentence) because of the source provisions restated in section 321 of the revised title. The words “fineness, weight, and value of each deposit and bar” and “The value and the amount of charges . . . shall be based on the fineness and weight of the bullion” are substituted for “From the report of the assayer and the weight of the bullion” for clarity and because of the restatement. The words “or deductions, if any” are omitted as being included in “charges”. The word “money” is substituted for “in coins” for clarity. The text of 31:331 and 334 is omitted as unnecessary because of the restatement. The text of 31:273(last sentence words after 7th comma) is omitted because of the source provisions restated in section 321 of the revised title.
 
 In subsection (b), the words “Secretary shall impose a charge” are substituted for “shall be fixed, from time to time, by the director, with the concurrence of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The words “for toughening when metals are contained in it which render it unfit for coinage” are omitted as obsolete because the Secretary of the Treasury has authority to mint coins containing silver only under section 5112(e) of the revised title and the Secretary holds sufficient silver to mint those coins. See Sen. Rept. No. 91–1084 (1970).
 
@@ -3029,9 +3029,9 @@ In subsection (d), the words “the Secretary to pay depositors” are substitut
 
 **Amendments**
 
-1992—Pub. L. 102–390, title II, § 225(b)(5), Oct. 6, 1992, 106 Stat. 1630, substituted “UNITED STATES MINT” for “BUREAU OF THE MINT” in subchapter heading.
+1992—Pub. L. 102–390, title II, § 225(b)(5), Oct. 6, 1992, 106 Stat. 1630, substituted “UNITED STATES MINT” for “BUREAU OF THE MINT” in subchapter heading.
 
-### § 5131. Organization
+### § 5131. Organization
 
 **(a)** The United States Mint has—
 
@@ -3047,26 +3047,26 @@ In subsection (d), the words “the Secretary to pay depositors” are substitut
 
 **(c)** Laws on mints, officers and employees of mints, and punishment of offenses related to mints and minting coins apply to assay offices, as applicable.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 100–274, § 2(a)–(c)(2), Mar. 31, 1988, 102 Stat. 48; Pub. L. 102–390, title II, §§ 224, 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1629; Pub. L. 104–208, div. A, title I, § 101(f) [title V, §§ 503, 522], Sept. 30, 1996, 110 Stat. 3009–314, 3009–344, 3009–347; Pub. L. 104–329, title III, § 304, Oct. 20, 1996, 110 Stat. 4015.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 100–274, § 2(a)–(c)(2), Mar. 31, 1988, 102 Stat. 48; Pub. L. 102–390, title II, §§ 224, 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1629; Pub. L. 104–208, div. A, title I, § 101(f) [title V, §§ 503, 522], Sept. 30, 1996, 110 Stat. 3009–314, 3009–344, 3009–347; Pub. L. 104–329, title III, § 304, Oct. 20, 1996, 110 Stat. 4015.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5131(a) | 31:251(1st sentence words after 1st comma). | R.S. § 343(1st sentence words after 1st comma). |
-|  | 31:261. | R.S. § 3495; restated July 11, 1962, Pub. L. 87–534, § 1, 76 Stat. 155. |
-| 5131(b) | 31:278. | R.S. § 3553. |
-|  | 31:283(1st sentence). | R.S. § 3558(1st sentence); July 11, 1962, Pub. L. 87–534, § 2, 76 Stat. 155; restated July 23, 1965, Pub. L. 89–81, § 201, 79 Stat. 256. |
-|  | 31:324f. | Oct. 18, 1973, Pub. L. 93–127, § 3, 87 Stat. 456. |
-|  | 31:361(1st sentence words before 1st comma). | June 19, 1878, ch. 329, § 1(1st sentence on p. 191), 20 Stat. 191. |
+| 5131(a) | 31:251(1st sentence words after 1st comma). | R.S. § 343(1st sentence words after 1st comma). |
+|  | 31:261. | R.S. § 3495; restated July 11, 1962, Pub. L. 87–534, § 1, 76 Stat. 155. |
+| 5131(b) | 31:278. | R.S. § 3553. |
+|  | 31:283(1st sentence). | R.S. § 3558(1st sentence); July 11, 1962, Pub. L. 87–534, § 2, 76 Stat. 155; restated July 23, 1965, Pub. L. 89–81, § 201, 79 Stat. 256. |
+|  | 31:324f. | Oct. 18, 1973, Pub. L. 93–127, § 3, 87 Stat. 456. |
+|  | 31:361(1st sentence words before 1st comma). | June 19, 1878, ch. 329, § 1(1st sentence on p. 191), 20 Stat. 191. |
 |  |  | July 7, 1898, ch. 571(7th par. 1st sentence words before 1st comma under heading “Mints and Assay Offices”), 30 Stat. 661. |
-| 5131(c) | 31:263. | R.S. § 3496; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
-|  | 31:279. | R.S. § 3554; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
-|  | 31:281. | R.S. § 3555; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384; June 6, 1972, Pub. L. 92–310, § 231(g), 86 Stat. 210. |
-| 5131(d) | 31:287. | R.S. § 3562. |
-| 5131(e) | 31:292. | Aug. 20, 1963, Pub. L. 88–102, § 2, 77 Stat. 129. |
+| 5131(c) | 31:263. | R.S. § 3496; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+|  | 31:279. | R.S. § 3554; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+|  | 31:281. | R.S. § 3555; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384; June 6, 1972, Pub. L. 92–310, § 231(g), 86 Stat. 210. |
+| 5131(d) | 31:287. | R.S. § 3562. |
+| 5131(e) | 31:292. | Aug. 20, 1963, Pub. L. 88–102, § 2, 77 Stat. 129. |
 
-In subsection (a), the words “The Bureau of the Mint has” are substituted for “embracing in its organization and under its control all mints . . . and all assay offices” in 31:251(1st sentence words after 1st comma) because of the restatement and to eliminate unnecessary words. The words “for the manufacture of coin . . . for the stamping of bars, which have been, or which may be, authorized by law” are omitted as superseded by the source provisions restated in subsection (b).
+In subsection (a), the words “The Bureau of the Mint has” are substituted for “embracing in its organization and under its control all mints . . . and all assay offices” in 31:251(1st sentence words after 1st comma) because of the restatement and to eliminate unnecessary words. The words “for the manufacture of coin . . . for the stamping of bars, which have been, or which may be, authorized by law” are omitted as superseded by the source provisions restated in subsection (b).
 
 In subsection (b), the words “The Secretary of the Treasury shall carry out duties and powers” are added because of the source provisions restated in section 321 of the revised title. The words “related to refining and assaying bullion, minting coins, striking medals, and numismatic items at the mints and assay offices” are substituted for 31:278(1st sentence words before comma), 283(1st–26th words), and 361(1st sentence words before 1st comma) to eliminate unnecessary words and for consistency with the source provisions restated in sections 5111(a)(1)–(3) and 5120(a) of the revised title. The words “and not coin” in 31:278 are omitted as unnecessary because of the restatement. The words “and no metals shall be purchased for minor coinage” are omitted as superseded by section 5111(b) of the revised title. The text of 31:278(2d, last sentences) is omitted as obsolete because the Secretary of the Treasury has authority to mint coins containing silver only under section 5112(e) of the revised title and the Secretary holds sufficient silver to mint those coins. See Sen. Rept. No. 91–1084 (1970). The words “except that until the Secretary of the Treasury determines that the mints of the United States are adequate for the production of ample supplies of coins, its facilities may be used for the production of coins” in 31:283(1st sentence) are omitted as superseded by the source provisions restated in the subsection. The words “striking” and “strike” are added for consistency with section 5111 of the revised title.
 
@@ -3078,29 +3078,29 @@ In subsection (e), the words “the mint at Philadelphia” are substituted for 
 
 **Amendments**
 
-1996—Subsecs. (c), (d). Pub. L. 104–208, § 101(f) [title V, §§ 503, 522], and Pub. L. 104–329, amended section identically, redesignating subsec. (d) as (c) and striking out former subsec. (c) which read as follows: “Each mint has a superintendent and an assayer appointed by the President, by and with the advice and consent of the Senate. The mint at Philadelphia has an engraver appointed by the President, by and with the advice and consent of the Senate.”
+1996—Subsecs. (c), (d). Pub. L. 104–208, § 101(f) [title V, §§ 503, 522], and Pub. L. 104–329, amended section identically, redesignating subsec. (d) as (c) and striking out former subsec. (c) which read as follows: “Each mint has a superintendent and an assayer appointed by the President, by and with the advice and consent of the Senate. The mint at Philadelphia has an engraver appointed by the President, by and with the advice and consent of the Senate.”
 
-1992—Subsec. (a). Pub. L. 102–390, § 225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in introductory provisions.
+1992—Subsec. (a). Pub. L. 102–390, § 225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in introductory provisions.
 
-Subsec. (b). Pub. L. 102–390, § 225(b)(4), substituted “United States Mint” for “Bureau”.
+Subsec. (b). Pub. L. 102–390, § 225(b)(4), substituted “United States Mint” for “Bureau”.
 
-Subsec. (e). Pub. L. 102–390, § 224, struck out subsec. (e) which read as follows: “The Secretary shall operate, maintain, and have custody of, the mint at Philadelphia. However, the Administrator of General Services shall make repairs and improvements to the mint.”
+Subsec. (e). Pub. L. 102–390, § 224, struck out subsec. (e) which read as follows: “The Secretary shall operate, maintain, and have custody of, the mint at Philadelphia. However, the Administrator of General Services shall make repairs and improvements to the mint.”
 
-1988—Subsec. (a)(3). Pub. L. 100–274, § 2(b), substituted “mint at West Point, New York” for “assay office at New York, New York”.
+1988—Subsec. (a)(3). Pub. L. 100–274, § 2(b), substituted “mint at West Point, New York” for “assay office at New York, New York”.
 
-Subsec. (a)(4). Pub. L. 100–274, § 2(a), substituted “mint” for “assay office”.
+Subsec. (a)(4). Pub. L. 100–274, § 2(a), substituted “mint” for “assay office”.
 
-Subsec. (b). Pub. L. 100–274, § 2(c)(1), struck out “and assay offices, except that only bars may be made at the assay offices” before period at end of first sentence.
+Subsec. (b). Pub. L. 100–274, § 2(c)(1), struck out “and assay offices, except that only bars may be made at the assay offices” before period at end of first sentence.
 
-Subsec. (c). Pub. L. 100–274, § 2(c)(2), substituted “Each mint has” for “Each mint and the assay office at New York have”.
+Subsec. (c). Pub. L. 100–274, § 2(c)(2), substituted “Each mint has” for “Each mint and the assay office at New York have”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authority of Special Police Officers**
 
-For authority of special police officers of United States Mint over buildings and land under control and in vicinity of the Mint and to protection in transit of bullion, coins, dies, and other property and assets of the Mint, see section 101(f) [title V, § 517(2), (3)] of Pub. L. 104–208, set out as a note under section 5141 of this title.
+For authority of special police officers of United States Mint over buildings and land under control and in vicinity of the Mint and to protection in transit of bullion, coins, dies, and other property and assets of the Mint, see section 101(f) [title V, § 517(2), (3)] of Pub. L. 104–208, set out as a note under section 5141 of this title.
 
-### § 5132. Administrative
+### § 5132. Administrative
 
 **(a)**
 
@@ -3130,7 +3130,7 @@ For authority of special police officers of United States Mint over buildings an
 
 **(c)** The Secretary shall make an annual report at the end of each fiscal year on the operation of the United States Mint.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, § 1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, § 123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, § 1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–61, title II, § 204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, § 2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§ 1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, § 2, Nov. 15, 1990, 104 Stat. 2874; Pub. L. 102–390, title II, §§ 211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629; Pub. L. 106–445, § 2(a), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 114–94, div. G, title LXXIII, § 73001(2), Dec. 4, 2015, 129 Stat. 1786.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 988; Pub. L. 97–452, § 1(21), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 98–151, § 123, Nov. 14, 1983, 97 Stat. 979; Pub. L. 98–216, § 1(7), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–61, title II, § 204, July 9, 1985, 99 Stat. 116; Pub. L. 99–185, § 2(e), Dec. 17, 1985, 99 Stat. 1178; Pub. L. 100–274, §§ 1, 2(c)(3), Mar. 31, 1988, 102 Stat. 48; Pub. L. 101–585, § 2, Nov. 15, 1990, 104 Stat. 2874; Pub. L. 102–390, title II, §§ 211, 221(c)(1), 225(b)(3), (4), Oct. 6, 1992, 106 Stat. 1624, 1628, 1629; Pub. L. 106–445, § 2(a), Nov. 6, 2000, 114 Stat. 1931; Pub. L. 114–94, div. G, title LXXIII, § 73001(2), Dec. 4, 2015, 129 Stat. 1786.)
 
 **Historical and Revision Notes**
 
@@ -3138,13 +3138,13 @@ For authority of special police officers of United States Mint over buildings an
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5132(a) | 31:273(1st, 2d sentences). | R.S. § 3506(1st, 2d sentences). |
-|  | 31:369. | R.S. § 3552; restated May 10, 1950, ch. 172, 64 Stat. 157; Sept. 5, 1962, Pub. L. 87–643, § 2, 76 Stat. 440; Aug. 13, 1981, Pub. L. 97–35, § 382(b)(1), 95 Stat. 432. |
-| 5132(b) | 31:361(1st sentence words after 1st comma, last sentence). | June 19, 1878, ch. 329, § 1(2d sentence words before last semicolon on p. 191), 20 Stat. 191. |
+| 5132(a) | 31:273(1st, 2d sentences). | R.S. § 3506(1st, 2d sentences). |
+|  | 31:369. | R.S. § 3552; restated May 10, 1950, ch. 172, 64 Stat. 157; Sept. 5, 1962, Pub. L. 87–643, § 2, 76 Stat. 440; Aug. 13, 1981, Pub. L. 97–35, § 382(b)(1), 95 Stat. 432. |
+| 5132(b) | 31:361(1st sentence words after 1st comma, last sentence). | June 19, 1878, ch. 329, § 1(2d sentence words before last semicolon on p. 191), 20 Stat. 191. |
 |  |  | July 7, 1898, ch. 571(7th par. 1st sentence words after 1st comma, last sentence under heading “Mints and Assay Offices”), 30 Stat. 661. |
-| 5132(c) | 31:253. | R.S. § 345. |
+| 5132(c) | 31:253. | R.S. § 345. |
 
-In subsection (a)(1), the words “Secretary of the Treasury shall deposit in the Treasury as miscellaneous receipts” are substituted for “shall . . . be covered into the Treasury” in 31:369 because of the source provisions restated in section 321(c) of the revised title. The words “amounts the Secretary receives from the operations of the Bureau of the Mint” are substituted for “The money arising from all charges and deductions on and from gold and silver bullion and from all other sources” for clarity and to eliminate unnecessary words. The words “amounts from” are substituted for “money arising from the manufacture and sale of” to eliminate unnecessary words. The words “numismatic items” are substituted for “medals, proof coins, and uncirculated coins” for consistency with section 5111(a)(3) of the revised title. The words “minting coins” are substituted for “silver or minor coinage” for consistency with section 5112 of the revised title. The words “made by law” are omitted as surplus. The words “on estimates furnished by the Secretary of the Treasury” are omitted because of section 1108 of the revised title. The text of 31:273(1st, 2d sentences) is omitted because of section 321 of the revised title and the other source provisions restated in this chapter.
+In subsection (a)(1), the words “Secretary of the Treasury shall deposit in the Treasury as miscellaneous receipts” are substituted for “shall . . . be covered into the Treasury” in 31:369 because of the source provisions restated in section 321(c) of the revised title. The words “amounts the Secretary receives from the operations of the Bureau of the Mint” are substituted for “The money arising from all charges and deductions on and from gold and silver bullion and from all other sources” for clarity and to eliminate unnecessary words. The words “amounts from” are substituted for “money arising from the manufacture and sale of” to eliminate unnecessary words. The words “numismatic items” are substituted for “medals, proof coins, and uncirculated coins” for consistency with section 5111(a)(3) of the revised title. The words “minting coins” are substituted for “silver or minor coinage” for consistency with section 5112 of the revised title. The words “made by law” are omitted as surplus. The words “on estimates furnished by the Secretary of the Treasury” are omitted because of section 1108 of the revised title. The text of 31:273(1st, 2d sentences) is omitted because of section 321 of the revised title and the other source provisions restated in this chapter.
 
 In subsection (a)(2), the words “ending September 30” are added for clarity and consistency in the revised title. The words “to pay costs” are substituted for “for all expenditures (salaries and expenses)” for consistency in the revised title and to eliminate unnecessary words. The words “not herein otherwise provided for” are omitted as surplus.
 
@@ -3156,7 +3156,7 @@ In subsection (c), the text of 31:253(less 18th–38th words) is omitted as supe
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5132(a)(2) | 31 App.:369. | Sept. 8, 1982, Pub. L. 97–253, § 202, 96 Stat. 790. |
+| 5132(a)(2) | 31 App.:369. | Sept. 8, 1982, Pub. L. 97–253, § 202, 96 Stat. 790. |
 
 **1984 Act**
 
@@ -3166,7 +3166,7 @@ This is necessary because the language was restated by section 382(h)(1) of the 
 
 **References in Text**
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a)(2)(D), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 **Amendments**
 
@@ -3174,21 +3174,21 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (a
 
 2000—Subsec. (a)(2)(B)(i). Pub. L. 106–445 substituted “paragraphs (2)” for “paragraphs (1)”.
 
-1992—Subsec. (a)(1). Pub. L. 102–390, § 225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in two places.
+1992—Subsec. (a)(1). Pub. L. 102–390, § 225(b)(3), substituted “United States Mint” for “Bureau of the Mint” in two places.
 
-Pub. L. 102–390, § 221(c)(1)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “However, amounts from numismatic items shall be reimbursed to the current appropriation used to pay the cost of preparing and selling the items.”
+Pub. L. 102–390, § 221(c)(1)(A), amended second sentence generally. Prior to amendment, second sentence read as follows: “However, amounts from numismatic items shall be reimbursed to the current appropriation used to pay the cost of preparing and selling the items.”
 
-Pub. L. 102–390, § 221(c)(1)(B), amended last sentence generally. Prior to amendment, last sentence read as follows: “The Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under section 5122 of this title to pay officers and employees.”
+Pub. L. 102–390, § 221(c)(1)(B), amended last sentence generally. Prior to amendment, last sentence read as follows: “The Secretary may not use amounts the Secretary receives from profits on minting coins or from charges on gold or silver bullion under section 5122 of this title to pay officers and employees.”
 
-Subsec. (a)(3) to (5). Pub. L. 102–390, § 211, which directed the substitution of “$54,208,000” for “$46,511,000” and “1993” for “1988” in par. (2), and the striking out of pars. (3) and (4), was executed by making the substitution in par. (3) and striking out pars. (4) and (5) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–585 redesignating pars. (2) to (4) as (3) to (5). See 1990 Amendment note below. Prior to being struck out, par. (4) provided that not more than $75,000 be expended for purpose of hosting International Mint Directors’ Conference in the United States in 1988, and par. (5) authorized Director of the Mint to collect from participants at Conference reasonable fees and assessments in connection with Conference, administer such amounts, and spend such amounts to pay expenses incurred in connection with Conference.
+Subsec. (a)(3) to (5). Pub. L. 102–390, § 211, which directed the substitution of “$54,208,000” for “$46,511,000” and “1993” for “1988” in par. (2), and the striking out of pars. (3) and (4), was executed by making the substitution in par. (3) and striking out pars. (4) and (5) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 101–585 redesignating pars. (2) to (4) as (3) to (5). See 1990 Amendment note below. Prior to being struck out, par. (4) provided that not more than $75,000 be expended for purpose of hosting International Mint Directors’ Conference in the United States in 1988, and par. (5) authorized Director of the Mint to collect from participants at Conference reasonable fees and assessments in connection with Conference, administer such amounts, and spend such amounts to pay expenses incurred in connection with Conference.
 
-Subsec. (c). Pub. L. 102–390, § 225(b)(4), substituted “United States Mint” for “Bureau”.
+Subsec. (c). Pub. L. 102–390, § 225(b)(4), substituted “United States Mint” for “Bureau”.
 
 1990—Subsec. (a)(2) to (5). Pub. L. 101–585 added par. (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and substituted “(3)” for “(2)” in par. (4).
 
-1988—Subsec. (a)(2) to (4). Pub. L. 100–274, § 1, added pars. (2) to (4) and struck out former par. (2) which read as follows: “Not more than $50,165,000 may be appropriated to the Secretary for the fiscal year ending September 30, 1983, to pay costs of the mints and assay offices.”
+1988—Subsec. (a)(2) to (4). Pub. L. 100–274, § 1, added pars. (2) to (4) and struck out former par. (2) which read as follows: “Not more than $50,165,000 may be appropriated to the Secretary for the fiscal year ending September 30, 1983, to pay costs of the mints and assay offices.”
 
-Subsec. (b). Pub. L. 100–274, § 2(c)(3), struck out “and assay offices” after “amounts appropriated for the mints” in last sentence.
+Subsec. (b). Pub. L. 100–274, § 2(c)(3), struck out “and assay offices” after “amounts appropriated for the mints” in last sentence.
 
 1985—Subsec. (a)(1). Pub. L. 99–185 inserted “paragraphs (1) through (6) of” before “section 5112(a) of this title”.
 
@@ -3204,7 +3204,7 @@ Subsec. (a)(2). Pub. L. 97–452 substituted “$50,165,000” for “$54,706,00
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–390, title II, § 221(e), Oct. 6, 1992, 106 Stat. 1629, provided that: “The amendments made by this section [enacting section 5134 of this title, amending this section, amending and repealing provisions set out as notes under section 5112 of this title] shall apply with respect to fiscal years beginning after fiscal year 1992.”
+Pub. L. 102–390, title II, § 221(e), Oct. 6, 1992, 106 Stat. 1629, provided that: “The amendments made by this section [enacting section 5134 of this title, amending this section, amending and repealing provisions set out as notes under section 5112 of this title] shall apply with respect to fiscal years beginning after fiscal year 1992.”
 
 **Effective Date of 1985 Amendments**
 
@@ -3220,7 +3220,7 @@ Amendment by Pub. L. 98–216 effective Sept. 13, 1982, see section 4(c) of Pub.
 
 All assets and liabilities of Numismatic Public Enterprise Fund transferred to United States Mint Public Enterprise Fund and Numismatic Public Enterprise Fund to cease to exist as separate fund as its activities and functions are subsumed under and subject to United States Mint Public Enterprise Fund, see section 5136 of this title.
 
-### § 5133. Settlement of accounts
+### § 5133. Settlement of accounts
 
 **(a)** The Secretary of the Treasury shall—
 
@@ -3254,25 +3254,25 @@ All assets and liabilities of Numismatic Public Enterprise Fund transferred to U
 
 **(d)** The Secretary shall procure for each mint a series of standard weights corresponding to the standard troy pound of the National Institute of Standards and Technology of the Department of Commerce. The series shall include a one pound weight and multiples and subdivisions of one pound from .01 grain to 25 pounds. At least once a year, the Secretary shall test the weights normally used in transactions at the mints against the standard weights.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 989; Pub. L. 100–274, § 2(c)(4)–(7), (9), (10), Mar. 31, 1988, 102 Stat. 49; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 989; Pub. L. 100–274, § 2(c)(4)–(7), (9), (10), Mar. 31, 1988, 102 Stat. 49; Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5133(a) | 31:354(1st sentence). | R.S. § 3541; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
-|  | 31:355(last sentence). | R.S. § 3542; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384; July 23, 1965, Pub. L. 89–81, § 207, 79 Stat. 257. |
-| 5133(b) | 31:283(2d, last sentences). | R.S. § 3558(2d, last sentences); restated July 11, 1962, Pub. L. 87–534, § 2, 76 Stat. 155. |
+| 5133(a) | 31:354(1st sentence). | R.S. § 3541; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384. |
+|  | 31:355(last sentence). | R.S. § 3542; Aug. 23, 1912, ch. 350, § 1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384; July 23, 1965, Pub. L. 89–81, § 207, 79 Stat. 257. |
+| 5133(b) | 31:283(2d, last sentences). | R.S. § 3558(2d, last sentences); restated July 11, 1962, Pub. L. 87–534, § 2, 76 Stat. 155. |
 |  | 31:354(last sentence). |  |
 |  | 31:355(1st, 2d sentences). |  |
-| 5133(c) | 31:356. | R.S. § 3543. |
-| 5133(d) | 31:365. | R.S. § 3549; restated Mar. 4, 1911, ch. 268, § 2, 36 Stat. 1354. |
+| 5133(c) | 31:356. | R.S. § 3543. |
+| 5133(d) | 31:365. | R.S. § 3549; restated Mar. 4, 1911, ch. 268, § 2, 36 Stat. 1354. |
 
 In the section, the word “Secretary” is substituted for “superintendent” and “Director of the Mint” in 31:354, 356, 365, and the word “Superintendent” is substituted for “superintendent of coining department” in 31:354 and 355 and “superintendent of melting and refining”, because of the source provisions restated in section 321(c) of the revised title.
 
 In subsection (a), the words “superintendent of each mint and the assay office at New York and the officer in charge of the assay office at San Francisco” are added because of the source provisions restated in section 5131(b) and (c) of the revised title.
 
-In subsection (b), before clause (1), the words “shall settle” are substituted for “and at such time as the . . . shall appoint, there shall be an accurate and full settlement” in 31:354(last sentence) to eliminate unnecessary words. In clause (1), the words “The Secretary shall audit” are substituted for “When all the coins, clippings, and other bullion have been delivered to the superintendent, it shall be his duty to examine” in 31:355(1st, 2d sentences) to eliminate unnecessary words. In clause (2), the words “the waste of precious metals . . . decides is necessary for refining and minting” are substituted for “The difference between the amount charged and credited to each officer . . . as necessary wastage, if . . . shall be satisfied that there has been a bona fide waste of the precious metals” for consistency in the subsection and to eliminate unnecessary words. In clause (3), the words “limitations prescribed for refining” are substituted for “that provided for the melter and refiner” in 31:283(2d, last sentences) for consistency in the subsection. The word “bona fide” is omitted as being included in “necessary”.
+In subsection (b), before clause (1), the words “shall settle” are substituted for “and at such time as the . . . shall appoint, there shall be an accurate and full settlement” in 31:354(last sentence) to eliminate unnecessary words. In clause (1), the words “The Secretary shall audit” are substituted for “When all the coins, clippings, and other bullion have been delivered to the superintendent, it shall be his duty to examine” in 31:355(1st, 2d sentences) to eliminate unnecessary words. In clause (2), the words “the waste of precious metals . . . decides is necessary for refining and minting” are substituted for “The difference between the amount charged and credited to each officer . . . as necessary wastage, if . . . shall be satisfied that there has been a bona fide waste of the precious metals” for consistency in the subsection and to eliminate unnecessary words. In clause (3), the words “limitations prescribed for refining” are substituted for “that provided for the melter and refiner” in 31:283(2d, last sentences) for consistency in the subsection. The word “bona fide” is omitted as being included in “necessary”.
 
 In subsection (c), the words “It shall also be the duty of the superintendent to forward a correct statement of his balance sheet” are omitted as superseded by the source provisions restated in section 321(c) of the revised title. The words “mints and assay offices” are substituted for “mint” for consistency in the section.
 
@@ -3282,13 +3282,13 @@ In subsection (d), the words “National Bureau of Standards of the Department o
 
 **Amendments**
 
-1988—Subsec. (a)(1). Pub. L. 100–274, § 2(c)(4), substituted “each mint” and “superintendent receives” for “each mint and the assay office at New York and the officer in charge of the assay office at San Francisco” and “superintendent or officer receives”, respectively.
+1988—Subsec. (a)(1). Pub. L. 100–274, § 2(c)(4), substituted “each mint” and “superintendent receives” for “each mint and the assay office at New York and the officer in charge of the assay office at San Francisco” and “superintendent or officer receives”, respectively.
 
-Subsec. (a)(2). Pub. L. 100–274, § 2(c)(5), substituted “credit each superintendent with the amount” and “superintendent returns” for “credit each superintendent and the officer with the amount” and “superintendent or officer returns”, respectively.
+Subsec. (a)(2). Pub. L. 100–274, § 2(c)(5), substituted “credit each superintendent with the amount” and “superintendent returns” for “credit each superintendent and the officer with the amount” and “superintendent or officer returns”, respectively.
 
-Subsec. (a)(3). Pub. L. 100–274, § 2(c)(6), substituted “superintendent, who” for “superintendent and the officer, who”.
+Subsec. (a)(3). Pub. L. 100–274, § 2(c)(6), substituted “superintendent, who” for “superintendent and the officer, who”.
 
-Subsec. (b). Pub. L. 100–274, § 2(c)(7), inserted heading and amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “At least once a year, the Secretary shall settle the accounts of the superintendents and the officer in charge. At settlement, each superintendent and the officer shall return to the Secretary coins, clippings, and other bullion in their possession with a statement of bullion received and returned since the last settlement (including bullion returned for settlement). The Secretary shall—
+Subsec. (b). Pub. L. 100–274, § 2(c)(7), inserted heading and amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “At least once a year, the Secretary shall settle the accounts of the superintendents and the officer in charge. At settlement, each superintendent and the officer shall return to the Secretary coins, clippings, and other bullion in their possession with a statement of bullion received and returned since the last settlement (including bullion returned for settlement). The Secretary shall—
 
 “(1) audit the accounts and statements of each superintendent and the officer;
 
@@ -3296,13 +3296,13 @@ Subsec. (b). Pub. L. 100–274, § 2(c)(7), inserted heading and amended subse
 
 “(3) allow the officer the waste, within the limitations prescribed for refining, that the Secretary decides is necessary in casting fine gold and silver bars, except that the waste allowance may not apply to deposit operations.”
 
-Subsec. (c). Pub. L. 100–274, § 2(c)(9), struck out “and assay offices” after “total liabilities of the mints”.
+Subsec. (c). Pub. L. 100–274, § 2(c)(9), struck out “and assay offices” after “total liabilities of the mints”.
 
 Subsec. (d). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 
-Pub. L. 100–274, § 2(c)(10), struck out “and assay office” after “procure for each mint” and “and assay offices” after “transactions at the mints”.
+Pub. L. 100–274, § 2(c)(10), struck out “and assay office” after “procure for each mint” and “and assay offices” after “transactions at the mints”.
 
-### § 5134. Numismatic Public Enterprise Fund
+### § 5134. Numismatic Public Enterprise Fund
 
 **(a) Definitions.—** For purposes of this section—
 
@@ -3320,9 +3320,9 @@ Pub. L. 100–274, § 2(c)(10), struck out “and assay office” after “pro
 
 **(5) Secretary.—** The term “Secretary” means the Secretary of the Treasury.
 
-**(b) Establishment of Fund.—** There is hereby established in the Treasury of the United States a revolving Numismatic Public Enterprise Fund consisting of amounts deposited in the fund 1
+**(b) Establishment of Fund.—** There is hereby established in the Treasury of the United States a revolving Numismatic Public Enterprise Fund consisting of amounts deposited in the fund 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 under subsection (c)(2) of this section or section 221(b) of the United States Mint Reauthorization and Reform Act of 1992 which shall be available to the Secretary for numismatic operations and programs of the United States Mint without fiscal year limitation.
 
@@ -3434,7 +3434,7 @@ as designated by the Secretary; and
 
 **(1) Payment of surcharges.—**
 
-**(A) In general.—** Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund <sup>1</sup> to any designated recipient organization unless—
+**(A) In general.—** Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund <sup>1</sup> to any designated recipient organization unless—
 
 **(i)** all numismatic operation and program costs allocable to the program under which such numismatic item is produced and sold have been recovered; and
 
@@ -3450,17 +3450,17 @@ such unpaid amount shall be deposited in the Treasury as miscellaneous receipts.
 
 **(2) Annual audits.—**
 
-**(A) Annual audits of recipients required.—** Each designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall provide, as a condition for receiving any such amount, for an annual audit, in accordance with generally accepted government auditing standards by an independent public accountant selected by the organization, of all such payments to the organization beginning in the first fiscal year of the organization in which any such amount is received and continuing until all amounts received by such organization from the fund <sup>1</sup> with respect to such surcharges are fully expended or placed in trust.
+**(A) Annual audits of recipients required.—** Each designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall provide, as a condition for receiving any such amount, for an annual audit, in accordance with generally accepted government auditing standards by an independent public accountant selected by the organization, of all such payments to the organization beginning in the first fiscal year of the organization in which any such amount is received and continuing until all amounts received by such organization from the fund <sup>1</sup> with respect to such surcharges are fully expended or placed in trust.
 
 **(B) Minimum requirements for annual audits.—** At a minimum, each audit of a designated recipient organization pursuant to subparagraph (A) shall report—
 
-**(i)** the amount of payments received by the designated recipient organization from the fund <sup>1</sup> during the fiscal year of the organization for which the audit is conducted that are derived from the proceeds of any surcharge imposed on the sale of any numismatic item;
+**(i)** the amount of payments received by the designated recipient organization from the fund <sup>1</sup> during the fiscal year of the organization for which the audit is conducted that are derived from the proceeds of any surcharge imposed on the sale of any numismatic item;
 
 **(ii)** the amount expended by the designated recipient organization from the proceeds of such surcharges during the fiscal year of the organization for which the audit is conducted; and
 
 **(iii)** whether all expenditures by the designated recipient organization during the fiscal year of the organization for which the audit is conducted from the proceeds of such surcharges were for authorized purposes.
 
-**(C) Responsibility of organization to account for expenditures of surcharges.—** Each designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall take appropriate steps, as a condition for receiving any such payment, to ensure that the receipt of the payment and the expenditure of the proceeds of such surcharge by the organization in each fiscal year of the organization can be accounted for separately from all other revenues and expenditures of the organization.
+**(C) Responsibility of organization to account for expenditures of surcharges.—** Each designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall take appropriate steps, as a condition for receiving any such payment, to ensure that the receipt of the payment and the expenditure of the proceeds of such surcharge by the organization in each fiscal year of the organization can be accounted for separately from all other revenues and expenditures of the organization.
 
 **(D) Submission of audit report.—** Not later than 90 days after the end of any fiscal year of a designated recipient organization for which an audit is required under subparagraph (A), the organization shall—
 
@@ -3468,15 +3468,15 @@ such unpaid amount shall be deposited in the Treasury as miscellaneous receipts.
 
 **(ii)** make a copy of the report available to the public.
 
-**(E) Use of surcharges for audits.—** Any designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may use the amount received to pay the cost of an audit required under subparagraph (A).
+**(E) Use of surcharges for audits.—** Any designated recipient organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may use the amount received to pay the cost of an audit required under subparagraph (A).
 
 **(F) Waiver of paragraph.—** The Secretary of the Treasury may waive the application of any subparagraph of this paragraph to any designated recipient organization for any fiscal year after taking into account the amount of surcharges that such organization received or expended during such year.
 
-**(G) Nonapplicability to federal entities.—** This paragraph shall not apply to any Federal agency or department or any independent establishment in the executive branch that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item.
+**(G) Nonapplicability to federal entities.—** This paragraph shall not apply to any Federal agency or department or any independent establishment in the executive branch that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item.
 
-**(H) Availability of books and records.—** An organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall provide, as a condition for receiving any such payment, to the Inspector General of the Department of the Treasury or the Comptroller General of the United States, upon the request of such Inspector General or the Comptroller General, all books, records, and work papers belonging to or used by the organization, or by any independent public accountant who audited the organization in accordance with subparagraph (A), which may relate to the receipt or expenditure of any such amount by the organization.
+**(H) Availability of books and records.—** An organization that receives any payment from the fund <sup>1</sup> of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall provide, as a condition for receiving any such payment, to the Inspector General of the Department of the Treasury or the Comptroller General of the United States, upon the request of such Inspector General or the Comptroller General, all books, records, and work papers belonging to or used by the organization, or by any independent public accountant who audited the organization in accordance with subparagraph (A), which may relate to the receipt or expenditure of any such amount by the organization.
 
-**(3) Use of agents or attorneys to influence commemorative coin legislation.—** No portion of any payment from the fund <sup>1</sup> to any designated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, by the organization to compensate any agent or attorney for services rendered to support or influence in any way legislative action of the Congress relating to such numismatic item.
+**(3) Use of agents or attorneys to influence commemorative coin legislation.—** No portion of any payment from the fund <sup>1</sup> to any designated recipient organization of any amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item may be used, directly or indirectly, by the organization to compensate any agent or attorney for services rendered to support or influence in any way legislative action of the Congress relating to such numismatic item.
 
 **(4) Designated recipient organization defined.—** For purposes of this subsection, the term “designated recipient organization” means any organization designated, under any provision of law, as the recipient of any surcharge imposed on the sale of any numismatic item.
 
@@ -3504,7 +3504,7 @@ such unpaid amount shall be deposited in the Treasury as miscellaneous receipts.
 
 **(D)** a description of the efforts of the Mint in keeping the sale price of numismatic items as low as practicable.
 
-(Added Pub. L. 102–390, title II, § 221(a), Oct. 6, 1992, 106 Stat. 1624; amended Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(b)(1), (2), (c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–349, 3009–350, 3009–352; Pub. L. 106–445, § 3, Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, § 103(d)(2), title II, § 201(a), Apr. 23, 2003, 117 Stat. 619.)
+(Added Pub. L. 102–390, title II, § 221(a), Oct. 6, 1992, 106 Stat. 1624; amended Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(b)(1), (2), (c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–349, 3009–350, 3009–352; Pub. L. 106–445, § 3, Nov. 6, 2000, 114 Stat. 1931; Pub. L. 108–15, title I, § 103(d)(2), title II, § 201(a), Apr. 23, 2003, 117 Stat. 619.)
 
 **Editorial Notes**
 
@@ -3518,33 +3518,33 @@ The date of enactment of the Treasury, Postal Service, and General Government Ap
 
 **Amendments**
 
-2003—Subsec. (c)(4), (5). Pub. L. 108–15, § 103(d)(2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.”
+2003—Subsec. (c)(4), (5). Pub. L. 108–15, § 103(d)(2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “For purposes of paragraph (1), any expense incurred by the Secretary in connection with the Citizens Commemorative Coin Advisory Committee established under section 5135 shall be treated as an expense incurred for numismatic operations and programs which is an ordinary and reasonable incident of the numismatic business.”
 
-Subsec. (f)(1). Pub. L. 108–15, § 201(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
+Subsec. (f)(1). Pub. L. 108–15, § 201(a), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no amount derived from the proceeds of any surcharge imposed on the sale of any numismatic item shall be paid from the fund to any designated recipient organization unless—
 
 “(A) all numismatic operation and program costs allocable to the program under which such numismatic item is produced and sold have been recovered; and
 
 “(B) the designated recipient organization submits an audited financial statement that demonstrates to the satisfaction of the Secretary of the Treasury that, with respect to all projects or purposes for which the proceeds of such surcharge may be used, the organization has raised funds from private sources for such projects and purposes in an amount that is equal to or greater than the maximum amount the organization may receive from the proceeds of such surcharge.”
 
-2000—Subsec. (e)(2). Pub. L. 106–445, § 3(1), substituted “contain” for “reflect” in introductory provisions.
+2000—Subsec. (e)(2). Pub. L. 106–445, § 3(1), substituted “contain” for “reflect” in introductory provisions.
 
-Subsec. (e)(2)(E). Pub. L. 106–445, § 3(2)–(4), added subpar. (E).
+Subsec. (e)(2)(E). Pub. L. 106–445, § 3(2)–(4), added subpar. (E).
 
-1996—Subsec. (c)(2). Pub. L. 104–208, § 101(f) [title V, § 529(b)(1)], inserted “, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item” before period at end.
+1996—Subsec. (c)(2). Pub. L. 104–208, § 101(f) [title V, § 529(b)(1)], inserted “, including amounts attributable to any surcharge imposed with respect to the sale of any numismatic item” before period at end.
 
-Subsec. (f). Pub. L. 104–208, § 101(f) [title V, § 529(b)(2)], added subsec. (f).
+Subsec. (f). Pub. L. 104–208, § 101(f) [title V, § 529(b)(2)], added subsec. (f).
 
-Subsec. (g). Pub. L. 104–208, § 101(f) [title V, § 529(c)], added subsec. (g).
+Subsec. (g). Pub. L. 104–208, § 101(f) [title V, § 529(c)], added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2003 Amendment**
 
-Pub. L. 108–15, title II, § 201(b), Apr. 23, 2003, 117 Stat. 620, provided that: “The amendment made by subsection (a) [amending this section] shall apply as of the date of the enactment of Public Law 104–208 [Sept. 30, 1996].”
+Pub. L. 108–15, title II, § 201(b), Apr. 23, 2003, 117 Stat. 620, provided that: “The amendment made by subsection (a) [amending this section] shall apply as of the date of the enactment of Public Law 104–208 [Sept. 30, 1996].”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(b)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–352, provided that: “The amendments made by this section [probably should be this subsection, amending this section] shall apply with respect to the proceeds of any surcharge imposed on the sale of any numismatic item that are deposited in the Numismatic Public Enterprise Fund after the date of the enactment of this Act [Sept. 30, 1996].”
+Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(b)(3)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–352, provided that: “The amendments made by this section [probably should be this subsection, amending this section] shall apply with respect to the proceeds of any surcharge imposed on the sale of any numismatic item that are deposited in the Numismatic Public Enterprise Fund after the date of the enactment of this Act [Sept. 30, 1996].”
 
 **Effective Date**
 
@@ -3556,7 +3556,7 @@ All assets and liabilities of Numismatic Public Enterprise Fund transferred to U
 
 **Initial Funding of Fund From Existing Numismatic Operations**
 
-Pub. L. 102–390, title II, § 221(b), Oct. 6, 1992, 106 Stat. 1627, provided that:
+Pub. L. 102–390, title II, § 221(b), Oct. 6, 1992, 106 Stat. 1627, provided that:
 
 > **“(1) In general.—** As soon as practicable after the end of fiscal year 1992, the Secretary of the Treasury shall transfer to the Fund—
 
@@ -3578,7 +3578,7 @@ Pub. L. 102–390, title II, § 221(b), Oct. 6, 1992, 106 Stat. 1627, provided
 
 > **“(C) Other terms.—** The terms ‘Fund’ and ‘numismatic item’ have the meaning given to such terms in the amendment made by subsection (a) [enacting this section].”
 
-### § 5135. Citizens Coinage Advisory Committee
+### § 5135. Citizens Coinage Advisory Committee
 
 **(a) Establishment.—**
 
@@ -3674,7 +3674,7 @@ Pub. L. 102–390, title II, § 221(b), Oct. 6, 1992, 106 Stat. 1627, provided
 
 **(h) Chapter 10 of Title 5 Does Not Apply.—** Subject to the requirements of subsection (b)(8), chapter 10 of title 5 shall not apply with respect to the Committee.
 
-(Added Pub. L. 102–390, title II, § 229(a), Oct. 6, 1992, 106 Stat. 1631; amended Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(d)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–352; Pub. L. 104–329, title III, § 303(a), Oct. 20, 1996, 110 Stat. 4014; Pub. L. 108–15, title I, § 103(a), Apr. 23, 2003, 117 Stat. 616; Pub. L. 117–286, § 4(a)(196), Dec. 27, 2022, 136 Stat. 4327.)
+(Added Pub. L. 102–390, title II, § 229(a), Oct. 6, 1992, 106 Stat. 1631; amended Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 529(d)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–352; Pub. L. 104–329, title III, § 303(a), Oct. 20, 1996, 110 Stat. 4014; Pub. L. 108–15, title I, § 103(a), Apr. 23, 2003, 117 Stat. 616; Pub. L. 117–286, § 4(a)(196), Dec. 27, 2022, 136 Stat. 4327.)
 
 **Editorial Notes**
 
@@ -3686,15 +3686,15 @@ Pub. L. 102–390, title II, § 221(b), Oct. 6, 1992, 106 Stat. 1627, provided
 
 1996—Subsec. (a)(4). Pub. L. 104–329 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each member appointed under clause (i) or (iii) of paragraph (3)(A) shall be appointed for a term of 4 years.”
 
-Pub. L. 104–208, § 101(f) [title V, § 529(d)(1)], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No individual shall be appointed to serve as a member of the Advisory Committee for a term in excess of 5 years.”
+Pub. L. 104–208, § 101(f) [title V, § 529(d)(1)], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “No individual shall be appointed to serve as a member of the Advisory Committee for a term in excess of 5 years.”
 
-Subsec. (a)(7). Pub. L. 104–208, § 101(f) [title V, § 529(d)(2)], added par. (7).
+Subsec. (a)(7). Pub. L. 104–208, § 101(f) [title V, § 529(d)(2)], added par. (7).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Abolishment of Citizens Commemorative Coin Advisory Committee; Continuity of Members**
 
-Pub. L. 108–15, title I, § 103(b), (c), Apr. 23, 2003, 117 Stat. 618, 619, provided that:
+Pub. L. 108–15, title I, § 103(b), (c), Apr. 23, 2003, 117 Stat. 618, 619, provided that:
 
 > **“(b) Abolishment of Citizens Commemorative Coin Advisory Committee.—** Effective on the date of the enactment of this Act [Apr. 23, 2003], the Citizens Commemorative Coin Advisory Committee (established by section 5135 of title 31, United States Code, as in effect before the amendment made by subsection (a)) is hereby abolished.
 
@@ -3702,35 +3702,35 @@ Pub. L. 108–15, title I, § 103(b), (c), Apr. 23, 2003, 117 Stat. 618, 619, 
 
 **Staggered Terms for Members of Citizens Commemorative Coin Advisory Committee**
 
-Pub. L. 104–329, title III, § 303(b), Oct. 20, 1996, 110 Stat. 4014, provided that members serving on the Citizens Commemorative Coin Advisory Committee as of Oct. 20, 1996, would be deemed to have been appointed to terms which ended on Dec. 31, 1997, 1998, or 1999.
+Pub. L. 104–329, title III, § 303(b), Oct. 20, 1996, 110 Stat. 4014, provided that members serving on the Citizens Commemorative Coin Advisory Committee as of Oct. 20, 1996, would be deemed to have been appointed to terms which ended on Dec. 31, 1997, 1998, or 1999.
 
 **Status of Members of Citizens Commemorative Coin Advisory Committee**
 
-Pub. L. 104–329, title III, § 303(c), Oct. 20, 1996, 110 Stat. 4015, provided that members appointed to the Citizens Commemorative Coin Advisory Committee under clause (i) or (iii) of subsec. (a)(3)(A) of this section would not be treated as special Government employees.
+Pub. L. 104–329, title III, § 303(c), Oct. 20, 1996, 110 Stat. 4015, provided that members appointed to the Citizens Commemorative Coin Advisory Committee under clause (i) or (iii) of subsec. (a)(3)(A) of this section would not be treated as special Government employees.
 
-### § 5136. United States Mint Public Enterprise Fund
+### § 5136. United States Mint Public Enterprise Fund
 
-There shall be established in the Treasury of the United States, a United States Mint Public Enterprise Fund (the “Fund”) for fiscal year 1996 and hereafter: *Provided*, That all receipts from Mint operations and programs, including the production and sale of numismatic items, the production and sale of circulating coinage, the protection of Government assets, and gifts and bequests of property, real or personal shall be deposited into the Fund and shall be available without fiscal year limitations: *Provided further*, That all expenses incurred by the Secretary of the Treasury for operations and programs of the United States Mint that the Secretary of the Treasury determines, in the Secretary’s sole discretion, to be ordinary and reasonable incidents of Mint operations and programs, and any expense incurred pursuant to any obligation or other commitment of Mint operations and programs that was entered into before the establishment of the Fund, shall be paid out of the Fund: *Provided further*, That not to exceed 6.2415 percent of the nominal value of the coins minted, shall be paid out of the Fund for the circulating coin operations and programs in fiscal year 1996 for those operations and programs previously provided for by appropriation: *Provided further*, That the Secretary of the Treasury may borrow such funds from the General Fund as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues into the Fund: *Provided further*, That the General Fund shall be reimbursed for such funds by the Fund within one year of the date of the loan: *Provided further*, That the Fund may retain receipts from the Federal Reserve System from the sale of circulating coins at face value for deposit into the Fund (retention of receipts is for the circulating operations and programs): *Provided further*, That the Secretary of the Treasury shall transfer to the Fund all assets and liabilities of the Mint operations and programs, including all Numismatic Public Enterprise Fund assets and liabilities, all receivables, unpaid obligations and unobligated balances from the Mint’s appropriation, the Coinage Profit Fund, and the Coinage Metal Fund, and the land and buildings of the Philadelphia Mint, Denver Mint, and the Fort Knox Bullion Depository: *Provided further*, That the Numismatic Public Enterprise Fund, the Coinage Profit Fund and the Coinage Metal Fund shall cease to exist as separate funds as their activites 1
+There shall be established in the Treasury of the United States, a United States Mint Public Enterprise Fund (the “Fund”) for fiscal year 1996 and hereafter: *Provided*, That all receipts from Mint operations and programs, including the production and sale of numismatic items, the production and sale of circulating coinage, the protection of Government assets, and gifts and bequests of property, real or personal shall be deposited into the Fund and shall be available without fiscal year limitations: *Provided further*, That all expenses incurred by the Secretary of the Treasury for operations and programs of the United States Mint that the Secretary of the Treasury determines, in the Secretary’s sole discretion, to be ordinary and reasonable incidents of Mint operations and programs, and any expense incurred pursuant to any obligation or other commitment of Mint operations and programs that was entered into before the establishment of the Fund, shall be paid out of the Fund: *Provided further*, That not to exceed 6.2415 percent of the nominal value of the coins minted, shall be paid out of the Fund for the circulating coin operations and programs in fiscal year 1996 for those operations and programs previously provided for by appropriation: *Provided further*, That the Secretary of the Treasury may borrow such funds from the General Fund as may be necessary to meet existing liabilities and obligations incurred prior to the receipt of revenues into the Fund: *Provided further*, That the General Fund shall be reimbursed for such funds by the Fund within one year of the date of the loan: *Provided further*, That the Fund may retain receipts from the Federal Reserve System from the sale of circulating coins at face value for deposit into the Fund (retention of receipts is for the circulating operations and programs): *Provided further*, That the Secretary of the Treasury shall transfer to the Fund all assets and liabilities of the Mint operations and programs, including all Numismatic Public Enterprise Fund assets and liabilities, all receivables, unpaid obligations and unobligated balances from the Mint’s appropriation, the Coinage Profit Fund, and the Coinage Metal Fund, and the land and buildings of the Philadelphia Mint, Denver Mint, and the Fort Knox Bullion Depository: *Provided further*, That the Numismatic Public Enterprise Fund, the Coinage Profit Fund and the Coinage Metal Fund shall cease to exist as separate funds as their activites 1
 
-<sup>1</sup>  So in original. Probably should be “activities”.
+<sup>1</sup> So in original. Probably should be “activities”.
 
-and functions are subsumed under and subject to the Fund, and the requirements of 31 USC 2
+and functions are subsumed under and subject to the Fund, and the requirements of 31 USC 2
 
-<sup>2</sup>  So in original. Probably should be “U.S.C.”
+<sup>2</sup> So in original. Probably should be “U.S.C.”
 
-5134(c)(4), (c)(5)(B), and (d) and (e) 3
+5134(c)(4), (c)(5)(B), and (d) and (e) 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 of the Numismatic Public Enterprise Fund shall apply to the Fund: *Provided further*, That at such times as the Secretary of the Treasury determines appropriate, but not less than annually, any amount in the Fund that is determined to be in excess of the amount required by the Fund shall be transferred to the Treasury for deposit as miscellaneous receipts: *Provided further*, That the term “Mint operations and programs” means (1) the activities concerning, and assets utilized in, the production, administration, distribution, marketing, purchase, sale, and management of coinage, numismatic items, the protection and safeguarding of Mint assets and those non-Mint assets in the custody of the Mint, and the Fund; and (2) includes capital, personnel salaries and compensation, functions relating to operations, marketing, distribution, promotion, advertising, official reception and representation, the acquisition or replacement of equipment, the renovation or modernization of facilities, and the construction or acquisition of new buildings: *Provided further*, That the term “numismatic item” includes any medal, proof coin, uncirculated coin, bullion coin, numismatic collectible, other monetary issuances and products and accessories related to any such medal or coin: *Provided further*, That provisions of law governing procurement or public contracts shall not be applicable to the procurement of goods or services necessary for carrying out Mint programs and operations.
 
-(Added Pub. L. 104–52, title V, § 522, Nov. 19, 1995, 109 Stat. 494.)
+(Added Pub. L. 104–52, title V, § 522, Nov. 19, 1995, 109 Stat. 494.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5134(c) of this title, referred to in text, was amended by Pub. L. 108–15, title I, § 103(d)(2), Apr. 23, 2003, 117 Stat. 619, which struck out par. (4) and redesignated par. (5) as (4).
+Section 5134(c) of this title, referred to in text, was amended by Pub. L. 108–15, title I, § 103(d)(2), Apr. 23, 2003, 117 Stat. 619, which struck out par. (4) and redesignated par. (5) as (4).
 
 **Codification**
 
@@ -3738,7 +3738,7 @@ Section 522 of Pub. L. 104–52, which directed the amendment of subchapter III 
 
 ## SUBCHAPTER IV—BUREAU OF ENGRAVING AND PRINTING
 
-### § 5141. Operation of the Bureau
+### § 5141. Operation of the Bureau
 
 **(a)** The Secretary of the Treasury shall prepare and submit to the President an annual business-type budget for the Bureau of Engraving and Printing.
 
@@ -3766,7 +3766,7 @@ Section 522 of Pub. L. 104–52, which directed the amendment of subchapter III 
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5141(a) | 31:181b. | Aug. 4, 1950, ch. 558, §§ 4, 5, 64 Stat. 409. |
+| 5141(a) | 31:181b. | Aug. 4, 1950, ch. 558, §§ 4, 5, 64 Stat. 409. |
 | 5141(b) | 31:181c. |  |
 | 5141(c) | 31:180. | July 1, 1944, ch. 357, 58 Stat. 648. |
 
@@ -3780,7 +3780,7 @@ In subsection (c), the words “An officer or employee” are substituted for �
 
 **Authority of Special Police Officers**
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 517], Sept. 30, 1996, 110 Stat. 3009–314, 3009–346, provided that:
+Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 517], Sept. 30, 1996, 110 Stat. 3009–314, 3009–346, provided that:
 
 > “Notwithstanding any other provision of law or regulation during the fiscal year ending September 30, 1997, and thereafter:
 
@@ -3792,11 +3792,11 @@ Pub. L. 104–208, div. A, title I, § 101(f) [title V, § 517], Sept. 30, 1
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 104–52, title V, § 520, Nov. 19, 1995, 109 Stat. 494.
+Pub. L. 104–52, title V, § 520, Nov. 19, 1995, 109 Stat. 494.
 
-Pub. L. 103–329, title V, § 535, Sept. 30, 1994, 108 Stat. 2414.
+Pub. L. 103–329, title V, § 535, Sept. 30, 1994, 108 Stat. 2414.
 
-### § 5142. Bureau of Engraving and Printing Fund
+### § 5142. Bureau of Engraving and Printing Fund
 
 **(a)** The Department of the Treasury has a Bureau of Engraving and Printing Fund. Amounts—
 
@@ -3832,10 +3832,10 @@ Pub. L. 103–329, title V, § 535, Sept. 30, 1994, 108 Stat. 2414.
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5142(a) | 31:181a(a)(1st sentence), (d). | Aug. 4, 1950, ch. 558, § 2, 64 Stat. 409. |
+| 5142(a) | 31:181a(a)(1st sentence), (d). | Aug. 4, 1950, ch. 558, § 2, 64 Stat. 409. |
 | 5142(b) | 31:181a(c). |  |
 | 5142(c) | 31:181a(a)(last sentence), (b). |  |
-|  | 31:181(note). | July 31, 1977, Pub. L. 95–81, § 100(par. under heading “Bureau of Engraving and Printing”), 91 Stat. 342. |
+|  | 31:181(note). | July 31, 1977, Pub. L. 95–81, § 100(par. under heading “Bureau of Engraving and Printing”), 91 Stat. 342. |
 | 5142(d) | 31:181a(e). |  |
 | 5142(e) | 31:181a(f). |  |
 
@@ -3857,19 +3857,19 @@ In subsection (e), the words “Secretary shall maintain” are substituted for 
 
 **Replacement Currency Production Facility**
 
-Pub. L. 116–6, div. D, title I, § 127, Feb. 15, 2019, 133 Stat. 149, as amended by Pub. L. 117–328, div. E, title I, § 127, Dec. 29, 2022, 136 Stat. 4660, provided that: “Beginning in fiscal year 2019 and for each fiscal year thereafter, amounts in the Bureau of Engraving and Printing Fund may be used for the acquisition of necessary land for, and construction of, a replacement currency production facility, including public improvements in the area around such facility to mitigate traffic impacts caused by the construction and occupancy of the facility.”
+Pub. L. 116–6, div. D, title I, § 127, Feb. 15, 2019, 133 Stat. 149, as amended by Pub. L. 117–328, div. E, title I, § 127, Dec. 29, 2022, 136 Stat. 4660, provided that: “Beginning in fiscal year 2019 and for each fiscal year thereafter, amounts in the Bureau of Engraving and Printing Fund may be used for the acquisition of necessary land for, and construction of, a replacement currency production facility, including public improvements in the area around such facility to mitigate traffic impacts caused by the construction and occupancy of the facility.”
 
-### § 5143. Payment for services
+### § 5143. Payment for services
 
 The Secretary of the Treasury shall impose charges for Bureau of Engraving and Printing services the Secretary provides to an agency or to a foreign government under section 5114. The charges shall be in amounts the Secretary considers adequate to cover the costs of the services (including administrative and other costs related to providing the services). The agency shall pay promptly bills submitted by the Secretary, and the Secretary shall take such action, in coordination with the Secretary of State, as may be appropriate to ensure prompt payment by a foreign government of any invoice or statement of account submitted by the Secretary with respect to services rendered under section 5114.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 991; Pub. L. 108–458, title VI, § 6301(b), Dec. 17, 2004, 118 Stat. 3748.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 991; Pub. L. 108–458, title VI, § 6301(b), Dec. 17, 2004, 118 Stat. 3748.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5143 | 31:181. | Aug. 4, 1950, ch. 558, § 1, 64 Stat. 408. |
+| 5143 | 31:181. | Aug. 4, 1950, ch. 558, § 1, 64 Stat. 408. |
 
 The word “costs” is substituted for “direct and indirect costs” to eliminate unnecessary words. The words “shall make payment therefor” are omitted as unnecessary because of the restatement. The words “from funds available to it for such purposes” are omitted as surplus.
 
@@ -3877,9 +3877,9 @@ The word “costs” is substituted for “direct and indirect costs” to elimi
 
 **Amendments**
 
-2004—Pub. L. 108–458 inserted “or to a foreign government under section 5114” after “provides to an agency”, “and other” after “including administrative”, and “, and the Secretary shall take such action, in coordination with the Secretary of State, as may be appropriate to ensure prompt payment by a foreign government of any invoice or statement of account submitted by the Secretary with respect to services rendered under section 5114” before period at end.
+2004—Pub. L. 108–458 inserted “or to a foreign government under section 5114” after “provides to an agency”, “and other” after “including administrative”, and “, and the Secretary shall take such action, in coordination with the Secretary of State, as may be appropriate to ensure prompt payment by a foreign government of any invoice or statement of account submitted by the Secretary with respect to services rendered under section 5114” before period at end.
 
-### § 5144. Providing impressions of portraits and vignettes
+### § 5144. Providing impressions of portraits and vignettes
 
 The Secretary of the Treasury may provide impressions from an engraved portrait or vignette in the possession of the Bureau of Engraving and Printing. An impression shall be provided—
 
@@ -3907,7 +3907,7 @@ In the section, before clause (1), the word “engraved” is added before “po
 
 ## SUBCHAPTER V—MISCELLANEOUS
 
-### § 5151. Conversion of currency of foreign countries
+### § 5151. Conversion of currency of foreign countries
 
 **(a)** In this section—
 
@@ -3941,9 +3941,9 @@ In the section, before clause (1), the word “engraved” is added before “po
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5151(a) | 31:372(c)(2)(1st sentence), (3). | June 17, 1930, ch. 497, § 522(c), 46 Stat. 740; restated Aug. 2, 1956, ch. 887, § 3, 70 Stat. 946. |
-| 5151(b) | 31:372(a). | Aug. 27, 1894, ch. 349, § 25, 28 Stat. 552; May 27, 1921, ch. 14, § 403(a), 42 Stat. 17; restated June 17, 1930, ch. 497, § 522(a), 46 Stat. 739. |
-| 5151(c) | 31:372(b). | June 17, 1930, ch. 497, § 522(b), 46 Stat. 740. |
+| 5151(a) | 31:372(c)(2)(1st sentence), (3). | June 17, 1930, ch. 497, § 522(c), 46 Stat. 740; restated Aug. 2, 1956, ch. 887, § 3, 70 Stat. 946. |
+| 5151(b) | 31:372(a). | Aug. 27, 1894, ch. 349, § 25, 28 Stat. 552; May 27, 1921, ch. 14, § 403(a), 42 Stat. 17; restated June 17, 1930, ch. 497, § 522(a), 46 Stat. 739. |
+| 5151(c) | 31:372(b). | June 17, 1930, ch. 497, § 522(b), 46 Stat. 740. |
 | 5151(d) | 31:372(c)(1). |  |
 | 5151(e) | 31:372(c)(2)(2d, last sentences). |  |
 
@@ -3957,7 +3957,7 @@ In subsection (d)(2), the words “that is equal to” are substituted for “at
 
 In subsection (e)(2), the words “buying rate” are substituted for “market buying rate for such cable transfers” to eliminate unnecessary words.
 
-### § 5152. Value of United States money holdings in international institutions
+### § 5152. Value of United States money holdings in international institutions
 
 The Secretary of the Treasury shall maintain the value in terms of gold of the holdings of United States money of the International Bank for Reconstruction and Development, the Inter-American Development Bank, the International Development Association, and the Asian Development Bank to the extent provided in the articles of agreement of those institutions. Amounts necessary to maintain the value may be appropriated. Amounts appropriated under this section remain available until expended.
 
@@ -3967,11 +3967,11 @@ The Secretary of the Treasury shall maintain the value in terms of gold of the h
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5152 | 31:449a. | Mar. 31, 1972, Pub. L. 92–268, § 3, 86 Stat. 117. |
+| 5152 | 31:449a. | Mar. 31, 1972, Pub. L. 92–268, § 3, 86 Stat. 117. |
 
 The word “money” is substituted for “dollars” for consistency in the revised title. The words “the International Monetary Fund” are omitted as obsolete because of section 9 of the Act of October 19, 1976 (Pub. L. 94–564, 90 Stat. 2661).
 
-### § 5153. Counterfeit currency
+### § 5153. Counterfeit currency
 
 Disbursing officials of the United States Government and officers of national banks shall stamp or mark the word “counterfeit”, “altered”, or “worthless” on counterfeit notes intended to circulate as currency that are presented to them. An official or officer wrongfully stamping or marking an item of genuine United States currency (including a Federal reserve note or a circulating note of Federal reserve banks and national banks) shall redeem the currency at face value when presented.
 
@@ -3981,15 +3981,15 @@ Disbursing officials of the United States Government and officers of national ba
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5153 | 31:424. | June 30, 1876, ch. 156, § 5, 19 Stat. 64. |
+| 5153 | 31:424. | June 30, 1876, ch. 156, § 5, 19 Stat. 64. |
 
 The words “Disbursing officials” are substituted for “officers charged with the receipt or disbursement of public moneys” for consistency in the revised title and other titles of the United States Code. The word “mark” is substituted for “write in plain letters” to eliminate unnecessary words. The words “counterfeit notes intended to circulate as currency” are substituted for “all fraudulent notes issued in the form of, and intended to circulate as money” for consistency in the revised title and with other titles of the Code. The last sentence is substituted for the words following the semicolon in 31:424 for clarity and to reflect the legislative history of the derivative source. See 4 Cong. Rec. 2225–2228, 3148. In that sentence, the words “United States currency (including a Federal reserve note or a circulating note of Federal reserve banks and national banks)” are substituted for “any genuine note of the United States, or of the national banks” for consistency with section 5103 of the revised title.
 
-### § 5154. State taxation
+### § 5154. State taxation
 
 A State or a territory or possession of the United States may tax United States coins and currency (including Federal reserve notes and circulating notes of Federal reserve banks and national banks) as money on hand or on deposit in the same way and at the same rate that the State, territory, or possession taxes other forms of money. This section does not affect a law taxing national banks.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 992; Pub. L. 97–452, § 1(22), Jan. 12, 1983, 96 Stat. 2477.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 992; Pub. L. 97–452, § 1(22), Jan. 12, 1983, 96 Stat. 2477.)
 
 **Historical and Revision Notes**
 
@@ -4017,7 +4017,7 @@ This restates 31:5154 to clarify the intent of the section. See 26 Cong. Rec. 71
 
 Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set out as a note under section 3331 of this title.
 
-### § 5155. Providing engraved plates of portraits of deceased members of Congress
+### § 5155. Providing engraved plates of portraits of deceased members of Congress
 
 On conditions the Secretary of the Treasury decides, the Secretary may send an engraved plate of a portrait of a deceased Senator or Representative to an heir or legal representative of such a Senator or Representative.
 
@@ -4027,6 +4027,6 @@ On conditions the Secretary of the Treasury decides, the Secretary may send an e
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 5155 | 31:175. | July 1, 1916, ch. 209, § 1(3d par. on p. 275), 39 Stat. 275. |
+| 5155 | 31:175. | July 1, 1916, ch. 209, § 1(3d par. on p. 275), 39 Stat. 275. |
 
 The words “terms and” are omitted as being included in “conditions”. The words “that have been or may be made” are omitted as unnecessary.

@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 13—MISSISSIPPI RIVER COMMISSION
 
-## § 641. Creation of Mississippi River Commission
+## § 641. Creation of Mississippi River Commission
 
 A commission is created to be called “The Mississippi River Commission”, to consist of seven members.
 
-(June 28, 1879, ch. 43, § 1, 21 Stat. 37.)
+(June 28, 1879, ch. 43, § 1, 21 Stat. 37.)
 
 **Editorial Notes**
 
@@ -31,25 +31,25 @@ This was the first section of an act entitled “An act to provide for the appoi
 
 **Appropriation for Salaries and Expenses**
 
-Act June 28, 1879, ch. 43, § 7, 21 Stat. 38, omitted as temporary and executed, provided for the expenditure of an appropriation of $175,000 for salaries of the commission and necessary expenses of surveys, examinations, etc.
+Act June 28, 1879, ch. 43, § 7, 21 Stat. 38, omitted as temporary and executed, provided for the expenditure of an appropriation of $175,000 for salaries of the commission and necessary expenses of surveys, examinations, etc.
 
 **Missouri River Commission**
 
-The Missouri River Commission was created by act July 5, 1884, ch. 229, § 1, 23 Stat. 144, and repealed by act July 13, 1902, ch. 1079, § 1, 32 Stat. 367.
+The Missouri River Commission was created by act July 5, 1884, ch. 229, § 1, 23 Stat. 144, and repealed by act July 13, 1902, ch. 1079, § 1, 32 Stat. 367.
 
-## § 642. Appointment of commissioners; vacancies; chairman; tenure of office
+## § 642. Appointment of commissioners; vacancies; chairman; tenure of office
 
 The President of the United States shall appoint seven commissioners, three of whom shall be selected from the Engineer Corps of the Army, one from the National Ocean Survey, and three from civil life, two of whom shall be civil engineers. And any vacancy which may occur in the commission shall in like manner be filled by the President of the United States; and he shall designate one of the commissioners appointed from the Engineer Corps of the Army to be president of the commission. The commissioners appointed under sections 641 to 644, 646, and 647 of this title, except those appointed from civil life, shall remain in office subject to removal by the President of the United States. Each commissioner appointed from civil life after November 7, 1966, shall be appointed for a term of nine years.
 
-(June 28, 1879, ch. 43, § 2, 21 Stat. 37; Pub. L. 89–789, title II, § 208, Nov. 7, 1966, 80 Stat. 1423; Pub. L. 112–166, § 2(y), Aug. 10, 2012, 126 Stat. 1289.)
+(June 28, 1879, ch. 43, § 2, 21 Stat. 37; Pub. L. 89–789, title II, § 208, Nov. 7, 1966, 80 Stat. 1423; Pub. L. 112–166, § 2(y), Aug. 10, 2012, 126 Stat. 1289.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2012—Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “United States shall”.
+2012—Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “United States shall”.
 
-1966—Pub. L. 89–789 inserted “, except those appointed from civil life,” and provided a nine year term for each commissioner appointed from civil life after Nov. 7, 1966.
+1966—Pub. L. 89–789 inserted “, except those appointed from civil life,” and provided a nine year term for each commissioner appointed from civil life after Nov. 7, 1966.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -65,33 +65,33 @@ Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to f
 
 **Transfer of Functions**
 
-Functions of all officers of Department of Commerce and functions of all officers and employees of such Department transferred, with a few exceptions, to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers of Department of Commerce and functions of all officers and employees of such Department transferred, with a few exceptions, to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 642a. Rank, pay, and allowances of Corps of Engineers officers serving as President of Mississippi River Commission
+## § 642a. Rank, pay, and allowances of Corps of Engineers officers serving as President of Mississippi River Commission
 
 Any officer of the Corps of Engineers who has served or shall serve four years as President of the Mississippi River Commission and who has been or shall subsequently be retired, shall, from the date of such retirement, receive the rank, pay, and allowances of a retired major general.
 
-(June 15, 1936, ch. 548 (pt.), as added Aug. 18, 1941, ch. 377, § 3, 55 Stat. 644.)
+(June 15, 1936, ch. 548 (pt.), as added Aug. 18, 1941, ch. 377, § 3, 55 Stat. 644.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly classified to section 1026b of title 10 prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1.
+Section was formerly classified to section 1026b of title 10 prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1.
 
-## § 643. Omitted
+## § 643. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts June 28, 1879, ch. 43, § 2, 21 Stat. 37; June 25, 1910, ch. 382, § 1, 36 Stat. 658; Mar. 1, 1917, ch. 144, § 4, 39 Stat. 951, related to compensation of commissioners. See section 702h of this title.
+Section, acts June 28, 1879, ch. 43, § 2, 21 Stat. 37; June 25, 1910, ch. 382, § 1, 36 Stat. 658; Mar. 1, 1917, ch. 144, § 4, 39 Stat. 951, related to compensation of commissioners. See section 702h of this title.
 
-## § 644. Secretary of commission
+## § 644. Secretary of commission
 
 The Secretary of the Army may detail from the Engineer Corps of the Army of the United States an officer to act as secretary of said commission.
 
-(June 28, 1879, ch. 43, § 6, 21 Stat. 38; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 28, 1879, ch. 43, § 6, 21 Stat. 38; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -99,15 +99,15 @@ The Secretary of the Army may detail from the Engineer Corps of the Army of the 
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-## § 645. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 642
+## § 645. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 642
 
-Section, act July 25, 1912, ch. 253, § 1, 37 Stat. 218, related to traveling expenses of civilian members of commission and of Assistant Engineer of Board of Engineers for Rivers and Harbors.
+Section, act July 25, 1912, ch. 253, § 1, 37 Stat. 218, related to traveling expenses of civilian members of commission and of Assistant Engineer of Board of Engineers for Rivers and Harbors.
 
-## § 646. Headquarters and meetings of commission
+## § 646. Headquarters and meetings of commission
 
 The headquarters and general offices of said commission shall be located at some city or town on the Mississippi River, to be designated by the Secretary of the Army, and the meetings of the commission except such as are held on Government boats during the time of the semiannual inspection trips of the commission shall be held at said headquarters and general offices, the times of said meetings to be fixed by the president of the commission, who shall cause due notice of such meetings to be given members of the commission and the public.
 
-(June 28, 1879, ch. 43, § 8, as added Feb. 18, 1901, ch. 377, 31 Stat. 793; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 28, 1879, ch. 43, § 8, as added Feb. 18, 1901, ch. 377, 31 Stat. 793; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -115,7 +115,7 @@ The headquarters and general offices of said commission shall be located at some
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-## § 647. Mississippi River survey
+## § 647. Mississippi River survey
 
 [Detail of assistants; vessels; instruments.] It shall be the duty of the Mississippi River Commission to direct and complete such surveys of the Mississippi River, between the Head of the Passes near its mouth to its headwaters as may have been in progress June 28, 1879, and to make such additional surveys, examinations, and investigations, topographical, hydrographical, and hydrometrical, of said river and its tributaries, as may be deemed necessary by said commission to carry out the objects of sections 641 to 644, 646, and 647 of this title. And to enable said commission to complete such surveys, examinations, and investigations, the Secretary of the Army shall, when requested by said commission, detail from the Engineer Corps of the Army such officers and men as may be necessary, and shall place in the charge and for the use of said commission such vessel or vessels and such machinery and instruments as may be under his control and may be deemed necessary. And the Secretary of Commerce shall, when requested by said commission in like manner detail from the National Ocean Survey such officers and men as may be necessary, and shall place in the charge and for the use of said commission such vessel or vessels and such machinery and instruments as may be under his control and may be deemed necessary. And the said commission may, with the approval of the Secretary of the Army, employ such additional force and assistants, and provide, by purchase or otherwise, such vessels or boats and such instruments and means as may be deemed necessary.
 
@@ -123,7 +123,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 [Plans for immediate works.] The said commission may, prior to the completion of all the surveys and examinations contemplated by sections 641 to 644, 646, and 647 of this title, prepare and submit to the Secretary of the Army, plans, specifications, and estimates of costs for such immediate works as, in the judgment of said commission, may constitute a part of the general system of works herein contemplated, to be by him transmitted to Congress.
 
-(June 28, 1879, ch. 43, §§ 3–5, 21 Stat. 37, 38; Feb. 14, 1903, ch. 552, § 4, 32 Stat. 826; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(June 28, 1879, ch. 43, §§ 3–5, 21 Stat. 37, 38; Feb. 14, 1903, ch. 552, § 4, 32 Stat. 826; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,13 +147,13 @@ Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to f
 
 **Transfer of Functions**
 
-Functions of all officers of Department of Commerce and functions of all officers and employees of such Department transferred, with a few exceptions, to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in Appendix to Title 5, Government Organization and Employees.
+Functions of all officers of Department of Commerce and functions of all officers and employees of such Department transferred, with a few exceptions, to Secretary of Commerce, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in Appendix to Title 5, Government Organization and Employees.
 
-## § 648. Arkansas River; levee and bank protection
+## § 648. Arkansas River; levee and bank protection
 
 The jurisdiction of the Mississippi River Commission is extended so as to include that part of the Arkansas River between its mouth and the intersection thereof with the division line between Lincoln and Jefferson Counties, and any funds which are appropriated by Congress for improving the Mississippi River between Head of Passes and the mouth of the Ohio River, and which may be allotted to levees and bank revetment, may be expended within the limits of said extended jurisdiction under the direction of the Secretary of the Army, in accordance with the plans, specifications, and recommendations of the Mississippi River Commission, as approved by the Chief of Engineers, and upon like terms and conditions for levees and bank revetment upon any part of the Mississippi River now under the jurisdiction of said commission, and in such manner as will best promote and accomplish the purposes for which commission was created, in so far as the territory hereby added to its said jurisdiction may be involved.
 
-(July 27, 1916, ch. 260, § 1, 39 Stat. 402; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(July 27, 1916, ch. 260, § 1, 39 Stat. 402; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -167,11 +167,11 @@ Section is from part of section 1 of the Rivers and Harbors Appropriation Act of
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-## § 649. Vicksburg Harbor and Ohio River below Cache River
+## § 649. Vicksburg Harbor and Ohio River below Cache River
 
 The harbor at Vicksburg, Mississippi, and the Ohio River from its mouth to the mouth of the Cache River, are transferred to and placed under the control and jurisdiction of the Mississippi River Commission: *Provided*, That no part of the improvement of the Ohio River, with a view to the construction of locks and dams, shall be considered as transferred to or placed under the control and jurisdiction of the Mississippi River Commission.
 
-(July 27, 1916, ch. 260, § 1, 39 Stat. 402.)
+(July 27, 1916, ch. 260, § 1, 39 Stat. 402.)
 
 **Editorial Notes**
 
@@ -179,11 +179,11 @@ The harbor at Vicksburg, Mississippi, and the Ohio River from its mouth to the m
 
 Section is from part of section 1 of the Rivers and Harbors Appropriation Act of 1916.
 
-## § 650. Mississippi River below Rock Island; levee and bank protection
+## § 650. Mississippi River below Rock Island; levee and bank protection
 
 Any funds which are appropriated by Congress for improving the Mississippi River between Head of Passes and the mouth of the Ohio River, and which may be allotted to levees, may be expended, under the direction of the Secretary of the Army, in accordance with the plans, specifications, and recommendations of the Mississippi River Commission, as approved by the Chief of Engineers, for levees upon any part of said river between Head of Passes and Rock Island, Illinois, in such manner as, in their opinion, shall best improve navigation and promote the interest of commerce at all stages of the river.
 
-(July 27, 1916, ch. 260, § 1, 39 Stat. 402; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
+(July 27, 1916, ch. 260, § 1, 39 Stat. 402; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501.)
 
 **Editorial Notes**
 
@@ -201,11 +201,11 @@ This provision superseded act June 4, 1906, ch. 2572, 34 Stat. 208, which contai
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-## § 651. Tributaries of Mississippi River below Cairo; levee and bank protection
+## § 651. Tributaries of Mississippi River below Cairo; levee and bank protection
 
 The jurisdiction of the Mississippi River Commission is extended, for the purposes of levee protection and bank protection, to the tributaries and outlets of the Mississippi River between Cairo, Illinois, and the Head of the Passes, in so far as these tributaries and outlets are affected by the flood waters of the Mississippi River.
 
-(Sept. 22, 1922, ch. 427, § 13, 42 Stat. 1047.)
+(Sept. 22, 1922, ch. 427, § 13, 42 Stat. 1047.)
 
 **Editorial Notes**
 
@@ -213,7 +213,7 @@ The jurisdiction of the Mississippi River Commission is extended, for the purpos
 
 Section is from the Rivers and Harbors Appropriation Act for the year 1922.
 
-## § 652. Upper Mississippi River Management
+## § 652. Upper Mississippi River Management
 
 **(a) Short title; Congressional declaration of intent**
 
@@ -321,7 +321,7 @@ The Secretary shall, in his budget request, identify those measures developed by
 
 The Secretary is authorized to provide for the engineering, design, and construction of a second lock at locks and dam 26, Mississippi River, Alton, Illinois and Missouri, at a total cost of $220,000,000, with a first Federal cost of $220,000,000. Such second lock shall be one hundred and ten feet by six hundred feet and shall be constructed at or in the vicinity of the location of the replacement lock authorized by section 102 of Public Law 95–502. Section 2212 of this title shall apply to the project authorized by this subsection.
 
-(Pub. L. 99–662, title XI, § 1103, Nov. 17, 1986, 100 Stat. 4225; Pub. L. 101–640, title IV, § 405, Nov. 28, 1990, 104 Stat. 4646; Pub. L. 102–580, title I, § 107, Oct. 31, 1992, 106 Stat. 4815; Pub. L. 106–53, title V, § 509, Aug. 17, 1999, 113 Stat. 339; Pub. L. 106–109, § 2, Nov. 24, 1999, 113 Stat. 1494; Pub. L. 110–114, title III, § 3177, Nov. 8, 2007, 121 Stat. 1155; Pub. L. 116–260, div. AA, title III, § 307, Dec. 27, 2020, 134 Stat. 2704; Pub. L. 117–263, div. H, title LXXXI, § 8345, Dec. 23, 2022, 136 Stat. 3796; Pub. L. 118–272, div. A, title III, § 1354, Jan. 4, 2025, 138 Stat. 3161.)
+(Pub. L. 99–662, title XI, § 1103, Nov. 17, 1986, 100 Stat. 4225; Pub. L. 101–640, title IV, § 405, Nov. 28, 1990, 104 Stat. 4646; Pub. L. 102–580, title I, § 107, Oct. 31, 1992, 106 Stat. 4815; Pub. L. 106–53, title V, § 509, Aug. 17, 1999, 113 Stat. 339; Pub. L. 106–109, § 2, Nov. 24, 1999, 113 Stat. 1494; Pub. L. 110–114, title III, § 3177, Nov. 8, 2007, 121 Stat. 1155; Pub. L. 116–260, div. AA, title III, § 307, Dec. 27, 2020, 134 Stat. 2704; Pub. L. 117–263, div. H, title LXXXI, § 8345, Dec. 23, 2022, 136 Stat. 3796; Pub. L. 118–272, div. A, title III, § 1354, Jan. 4, 2025, 138 Stat. 3161.)
 
 **Editorial Notes**
 
@@ -329,7 +329,7 @@ The Secretary is authorized to provide for the engineering, design, and construc
 
 Public Law 95–502, referred to in subsecs. (b)(2) and (j), is Pub. L. 95–502, Oct. 21, 1978, 92 Stat. 1693. Section 102 of Pub. L. 95–502 is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-This Act, referred to in subsec. (f)(1), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. Title I of this Act is classified generally to subchapter I (§ 2211 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+This Act, referred to in subsec. (f)(1), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. Title I of this Act is classified generally to subchapter I (§ 2211 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 **Codification**
 
@@ -341,13 +341,13 @@ Subsec. (c)(2) of this section amended section 101 of Pub. L. 95–502, which is
 
 2022—Subsec. (e)(3). Pub. L. 117–263 substituted “$75,000,000” for “$40,000,000”.
 
-2020—Subsec. (e)(3). Pub. L. 116–260, § 307(1), substituted “$40,000,000” for “$22,750,000”.
+2020—Subsec. (e)(3). Pub. L. 116–260, § 307(1), substituted “$40,000,000” for “$22,750,000”.
 
-Subsec. (e)(4). Pub. L. 116–260, § 307(2), substituted “$15,000,000” for “$10,420,000”.
+Subsec. (e)(4). Pub. L. 116–260, § 307(2), substituted “$15,000,000” for “$10,420,000”.
 
-2007—Subsec. (e)(1)(A)(ii). Pub. L. 110–114 inserted “, including research on water quality issues affecting the Mississippi River (including elevated nutrient levels) and the development of remediation strategies” before period at end.
+2007—Subsec. (e)(1)(A)(ii). Pub. L. 110–114 inserted “, including research on water quality issues affecting the Mississippi River (including elevated nutrient levels) and the development of remediation strategies” before period at end.
 
-1999—Subsec. (e). Pub. L. 106–53, § 509(a), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, is authorized to undertake, as identified in the master plan—
+1999—Subsec. (e). Pub. L. 106–53, § 509(a), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, is authorized to undertake, as identified in the master plan—
 
 “(A) a program for the planning, construction, and evaluation of measures for fish and wildlife habitat rehabilitation and enhancement;
 
@@ -355,51 +355,51 @@ Subsec. (e)(4). Pub. L. 116–260, § 307(2), substituted “$15,000,000” fo
 
 “(C) implementation of a computerized inventory and analysis system.”
 
-Subsec. (e)(2). Pub. L. 106–53, § 509(b), added par. (2) and struck out former par. (2) which read as follows: “Each program referred to in paragraph (1) shall be carried out for 15 years. Before the last day of such 15-year period, the Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall conduct an evaluation of such programs and submit a report on the results of such evaluation to Congress. Such evaluation shall determine each such program’s effectiveness, strengths, and weaknesses and contain recommendations for the modification and continuance or termination of such program.”
+Subsec. (e)(2). Pub. L. 106–53, § 509(b), added par. (2) and struck out former par. (2) which read as follows: “Each program referred to in paragraph (1) shall be carried out for 15 years. Before the last day of such 15-year period, the Secretary, in consultation with the Secretary of the Interior and the States of Illinois, Iowa, Minnesota, Missouri, and Wisconsin, shall conduct an evaluation of such programs and submit a report on the results of such evaluation to Congress. Such evaluation shall determine each such program’s effectiveness, strengths, and weaknesses and contain recommendations for the modification and continuance or termination of such program.”
 
-Subsec. (e)(3). Pub. L. 106–53, § 509(c)(1), substituted “(1)(A)(i)” for “(1)(A)” and “Secretary $22,750,000 for fiscal year 1999 and each fiscal year thereafter” for “Secretary not to exceed $8,200,000 for the first fiscal year beginning after November 17, 1986, not to exceed $12,400,000 for the second fiscal year beginning after November 17, 1986, and not to exceed $13,000,000 per fiscal year for each of the succeeding 13 fiscal years”.
+Subsec. (e)(3). Pub. L. 106–53, § 509(c)(1), substituted “(1)(A)(i)” for “(1)(A)” and “Secretary $22,750,000 for fiscal year 1999 and each fiscal year thereafter” for “Secretary not to exceed $8,200,000 for the first fiscal year beginning after November 17, 1986, not to exceed $12,400,000 for the second fiscal year beginning after November 17, 1986, and not to exceed $13,000,000 per fiscal year for each of the succeeding 13 fiscal years”.
 
-Subsec. (e)(4). Pub. L. 106–53, § 509(c)(2), substituted “(1)(A)(ii)” for “(1)(B)” and “Secretary $10,420,000 for fiscal year 1999 and each fiscal year thereafter” for “Secretary not to exceed $7,680,000 for the first fiscal year beginning after November 17, 1986, and not to exceed $5,080,000 per fiscal year for each of the succeeding 14 fiscal years”.
+Subsec. (e)(4). Pub. L. 106–53, § 509(c)(2), substituted “(1)(A)(ii)” for “(1)(B)” and “Secretary $10,420,000 for fiscal year 1999 and each fiscal year thereafter” for “Secretary not to exceed $7,680,000 for the first fiscal year beginning after November 17, 1986, and not to exceed $5,080,000 per fiscal year for each of the succeeding 14 fiscal years”.
 
 Subsec. (e)(5). Pub. L. 106–109 substituted “paragraph (1)(B)” for “paragraph (1)(A)(i)”.
 
-Pub. L. 106–53, § 509(c)(3), added par. (5) and struck out former par. (5) which read as follows: “For purposes of carrying out paragraph (1)(C) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $40,000 for the first fiscal year beginning after November 17, 1986, not to exceed $280,000 for the second fiscal year beginning after November 17, 1986, not to exceed $1,220,000 for the third fiscal year beginning after November 17, 1986, and not to exceed $875,000 per fiscal year for each of the succeeding 12 fiscal years”.
+Pub. L. 106–53, § 509(c)(3), added par. (5) and struck out former par. (5) which read as follows: “For purposes of carrying out paragraph (1)(C) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $40,000 for the first fiscal year beginning after November 17, 1986, not to exceed $280,000 for the second fiscal year beginning after November 17, 1986, not to exceed $1,220,000 for the third fiscal year beginning after November 17, 1986, and not to exceed $875,000 per fiscal year for each of the succeeding 12 fiscal years”.
 
-Subsec. (e)(6). Pub. L. 106–53, § 509(d), added par. (6) and struck out former par. (6) which contained provisions limiting transfers to 20% of appropriated amounts and setting out specific maximum monetary amounts.
+Subsec. (e)(6). Pub. L. 106–53, § 509(d), added par. (6) and struck out former par. (6) which contained provisions limiting transfers to 20% of appropriated amounts and setting out specific maximum monetary amounts.
 
-Subsec. (e)(7)(A). Pub. L. 106–53, § 509(e), (g)(1)(A), substituted “(1)(A)(i)” for “(1)(A)” and inserted before period at end “and, in the case of any project requiring non-Federal cost sharing, the non-Federal share of the cost of the project shall be 35 percent”.
+Subsec. (e)(7)(A). Pub. L. 106–53, § 509(e), (g)(1)(A), substituted “(1)(A)(i)” for “(1)(A)” and inserted before period at end “and, in the case of any project requiring non-Federal cost sharing, the non-Federal share of the cost of the project shall be 35 percent”.
 
-Subsec. (e)(7)(B). Pub. L. 106–53, § 509(g)(1)(B), substituted “paragraph (1)(A)(ii)” for “paragraphs (1)(B) and (1)(C)”.
+Subsec. (e)(7)(B). Pub. L. 106–53, § 509(g)(1)(B), substituted “paragraph (1)(A)(ii)” for “paragraphs (1)(B) and (1)(C)”.
 
-Subsec. (f)(2). Pub. L. 106–53, § 509(g)(2), struck out “(A)” after “(2)” and struck out subpar. (B) which read as follows: “For purposes of carrying out the assessment of the economic benefits of recreational activities as authorized in paragraph (1) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $300,000 per fiscal year for the first and second fiscal years beginning after the computerized inventory and analysis system implemented pursuant to subsection (e)(1)(C) of this section is fully functional and $150,000 for the third such fiscal year”.
+Subsec. (f)(2). Pub. L. 106–53, § 509(g)(2), struck out “(A)” after “(2)” and struck out subpar. (B) which read as follows: “For purposes of carrying out the assessment of the economic benefits of recreational activities as authorized in paragraph (1) of this subsection, there is authorized to be appropriated to the Secretary not to exceed $300,000 per fiscal year for the first and second fiscal years beginning after the computerized inventory and analysis system implemented pursuant to subsection (e)(1)(C) of this section is fully functional and $150,000 for the third such fiscal year”.
 
-Subsec. (h)(2). Pub. L. 106–53, § 509(f), inserted par. heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
+Subsec. (h)(2). Pub. L. 106–53, § 509(f), inserted par. heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
-1992—Subsec. (e)(2). Pub. L. 102–580, § 107(a)(1), which directed the substitution of “15” for “ten” each place it appears, could not be executed because “ten” did not appear subsequent to amendment by Pub. L. 101–640, § 405(1). See 1990 Amendment note below.
+1992—Subsec. (e)(2). Pub. L. 102–580, § 107(a)(1), which directed the substitution of “15” for “ten” each place it appears, could not be executed because “ten” did not appear subsequent to amendment by Pub. L. 101–640, § 405(1). See 1990 Amendment note below.
 
-Subsec. (e)(6). Pub. L. 102–580, § 107(a)(3), added par. (6). Former par. (6) redesignated (7).
+Subsec. (e)(6). Pub. L. 102–580, § 107(a)(3), added par. (6). Former par. (6) redesignated (7).
 
-Subsec. (e)(7). Pub. L. 102–580, § 107(a)(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Subsec. (e)(7). Pub. L. 102–580, § 107(a)(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Subsec. (e)(7)(A). Pub. L. 102–580, § 107(b), added subpar. (A) and struck out former subpar. (A) which read as follows: “Notwithstanding the provisions of subsection (a)(2) of this section, the costs of each project carried out pursuant to paragraph (1)(A) of this subsection shall be allocated between the Secretary and the appropriate non-Federal sponsor in accordance with the provisions of section 2283 of this title.”
+Subsec. (e)(7)(A). Pub. L. 102–580, § 107(b), added subpar. (A) and struck out former subpar. (A) which read as follows: “Notwithstanding the provisions of subsection (a)(2) of this section, the costs of each project carried out pursuant to paragraph (1)(A) of this subsection shall be allocated between the Secretary and the appropriate non-Federal sponsor in accordance with the provisions of section 2283 of this title.”
 
-Subsec. (e)(8). Pub. L. 102–580, § 107(a)(2), redesignated par. (7) as (8).
+Subsec. (e)(8). Pub. L. 102–580, § 107(a)(2), redesignated par. (7) as (8).
 
-1990—Subsec. (e)(2). Pub. L. 101–640, § 405(1), substituted “15” for “ten” in two places.
+1990—Subsec. (e)(2). Pub. L. 101–640, § 405(1), substituted “15” for “ten” in two places.
 
-Subsec. (e)(3). Pub. L. 101–640, § 405(2), substituted “13” for “eight”.
+Subsec. (e)(3). Pub. L. 101–640, § 405(2), substituted “13” for “eight”.
 
-Subsec. (e)(4). Pub. L. 101–640, § 405(3), substituted “14” for “nine”.
+Subsec. (e)(4). Pub. L. 101–640, § 405(3), substituted “14” for “nine”.
 
-Subsec. (e)(5). Pub. L. 101–640, § 405(4), substituted “12” for “seven”.
+Subsec. (e)(5). Pub. L. 101–640, § 405(4), substituted “12” for “seven”.
 
-Subsec. (f)(2)(A). Pub. L. 101–640, § 405(5), substituted “15” for “ten”.
+Subsec. (f)(2)(A). Pub. L. 101–640, § 405(5), substituted “15” for “ten”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Hydraulic Evaluation of Upper Mississippi River and Illinois River**
 
-Pub. L. 117–263, div. H, title LXXXI, § 8219, Dec. 23, 2022, 136 Stat. 3761, provided that:
+Pub. L. 117–263, div. H, title LXXXI, § 8219, Dec. 23, 2022, 136 Stat. 3761, provided that:
 
 > **“(a) Study.—** The Secretary [of the Army], in coordination with relevant Federal agencies, shall, at Federal expense, periodically carry out a study to—
 
@@ -415,7 +415,7 @@ Pub. L. 117–263, div. H, title LXXXI, § 8219, Dec. 23, 2022, 136 Stat. 3761
 
 **Upper Mississippi River and Illinois Water-way System**
 
-Pub. L. 110–114, title VIII, Nov. 8, 2007, 121 Stat. 1283, as amended by Pub. L. 117–286, § 4(a)(199), Dec. 27, 2022, 136 Stat. 4328, provided that:
+Pub. L. 110–114, title VIII, Nov. 8, 2007, 121 Stat. 1283, as amended by Pub. L. 117–286, § 4(a)(199), Dec. 27, 2022, 136 Stat. 4328, provided that:
 
 > **“SEC. 8001. DEFINITIONS.**
 
@@ -607,7 +607,7 @@ Pub. L. 110–114, title VIII, Nov. 8, 2007, 121 Stat. 1283, as amended by Pub. 
 
 **Upper Mississippi River Basin Sediment and Nutrient Study**
 
-Pub. L. 106–541, title IV, § 403, Dec. 11, 2000, 114 Stat. 2634, provided that:
+Pub. L. 106–541, title IV, § 403, Dec. 11, 2000, 114 Stat. 2634, provided that:
 
 > **“(a) In General.—** In conjunction with the Secretary of Agriculture and the Secretary of the Interior, the Secretary [of the Army] shall conduct a study to—
 
@@ -649,7 +649,7 @@ Pub. L. 106–541, title IV, § 403, Dec. 11, 2000, 114 Stat. 2634, provided t
 
 **Upper Mississippi River Comprehensive Plan**
 
-Pub. L. 106–53, title IV, § 459, Aug. 17, 1999, 113 Stat. 332, as amended by Pub. L. 106–541, title IV, § 404, Dec. 11, 2000, 114 Stat. 2635, provided that:
+Pub. L. 106–53, title IV, § 459, Aug. 17, 1999, 113 Stat. 332, as amended by Pub. L. 106–541, title IV, § 404, Dec. 11, 2000, 114 Stat. 2635, provided that:
 
 > **“(a) Development.—** The Secretary [of the Army] shall develop a plan to address water resource and related land resource problems and opportunities in the upper Mississippi and Illinois River basins, from Cairo, Illinois, to the headwaters of the Mississippi River, in the interest of systemic flood damage reduction by means of—
 
@@ -693,11 +693,11 @@ Pub. L. 106–53, title IV, § 459, Aug. 17, 1999, 113 Stat. 332, as amended b
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 
-## § 653. Extension of jurisdiction of Mississippi River Commission
+## § 653. Extension of jurisdiction of Mississippi River Commission
 
-The jurisdiction of the Mississippi River Commission (established by the Act of June 29, 1879 1
+The jurisdiction of the Mississippi River Commission (established by the Act of June 29, 1879 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (33 U.S.C. 641)) is extended to include—
 
@@ -705,7 +705,7 @@ The jurisdiction of the Mississippi River Commission (established by the Act of 
 
 **(2)** the area bounded by the East Atchafalaya Basin Protection Levee, the Mississippi River Levee, and Bayou Lafourche and extending from Morganza, Louisiana, to the Gulf of Mexico, insofar as such area is affected by the flood waters of the Mississippi River.
 
-(Pub. L. 102–580, title III, § 301, Oct. 31, 1992, 106 Stat. 4838.)
+(Pub. L. 102–580, title III, § 301, Oct. 31, 1992, 106 Stat. 4838.)
 
 **Editorial Notes**
 
@@ -713,7 +713,7 @@ The jurisdiction of the Mississippi River Commission (established by the Act of 
 
 Act of June 29, 1879 (33 U.S.C. 641), referred to in text, probably means the act of June 28, 1879, ch. 43, 21 Stat. 37, which enacted sections 641 to 644, 646, and 647 of this title.
 
-## § 653a. Extension of jurisdiction of Mississippi River Commission
+## § 653a. Extension of jurisdiction of Mississippi River Commission
 
 The jurisdiction of the Mississippi River Commission, established by section 641 of this title, is extended to include—
 
@@ -723,4 +723,4 @@ The jurisdiction of the Mississippi River Commission, established by section 641
 
 **(3)** the area in the State of Illinois from the confluence of the Mississippi and Ohio Rivers northward to the vicinity of Mississippi River mile 39.5, including the Len Small Drainage and Levee District, insofar as such area is affected by the flood waters of the Mississippi River.
 
-(Pub. L. 104–303, title V, § 517, Oct. 12, 1996, 110 Stat. 3764.)
+(Pub. L. 104–303, title V, § 517, Oct. 12, 1996, 110 Stat. 3764.)

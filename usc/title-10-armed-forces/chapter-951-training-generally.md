@@ -23,39 +23,39 @@ A prior chapter 951, consisting of sections 9801 to 9806, related to military cl
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title V, § 559(a)(1), title XVI, § 1601(c)(1), Dec. 18, 2025, 139 Stat. 880, 1173, added items 9414 and 9421 and struck out former item 9414 “Degree granting authority for United States Air Force Institute of Technology”. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title V, § 559(a)(1), title XVI, § 1601(c)(1), Dec. 18, 2025, 139 Stat. 880, 1173, added items 9414 and 9421 and struck out former item 9414 “Degree granting authority for United States Air Force Institute of Technology”. Amendments were made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 117–81, div. A, title V, § 558(b), title X, § 1081(a)(35), (36), Dec. 27, 2021, 135 Stat. 1741, 1921, added item 9413 and reenacted items 9401 and 9402.
+2021—Pub. L. 117–81, div. A, title V, § 558(b), title X, § 1081(a)(35), (36), Dec. 27, 2021, 135 Stat. 1741, 1921, added item 9413 and reenacted items 9401 and 9402.
 
-Pub. L. 116–283, div. A, title IX, § 923(d)(1)(D), (2)(C), Jan. 1, 2021, 134 Stat. 3813, 3814, added items 9401 and 9402 and struck out former items 9401 “Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals” and 9402 “Enlisted members of Air Force: schools”.
+Pub. L. 116–283, div. A, title IX, § 923(d)(1)(D), (2)(C), Jan. 1, 2021, 134 Stat. 3813, 3814, added items 9401 and 9402 and struck out former items 9401 “Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals” and 9402 “Enlisted members of Air Force: schools”.
 
-2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 901 of this title as this chapter and items 9301 to 9306, 9314, 9314a, 9314b, 9315, 9317, 9319, and 9320 as 9401 to 9406, 9414, 9414a, 9414b, 9415, 9417, 9419, and 9420, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 901 of this title as this chapter and items 9301 to 9306, 9314, 9314a, 9314b, 9315, 9317, 9319, and 9320 as 9401 to 9406, 9414, 9414a, 9414b, 9415, 9417, 9419, and 9420, respectively.
 
-2017—Pub. L. 115–91, div. A, title V, § 581(d)(2), Dec. 12, 2017, 131 Stat. 1415, added item 9314a and struck out former item 9314a “United States Air Force Institute of Technology: admission of defense industry civilians”.
+2017—Pub. L. 115–91, div. A, title V, § 581(d)(2), Dec. 12, 2017, 131 Stat. 1415, added item 9314a and struck out former item 9314a “United States Air Force Institute of Technology: admission of defense industry civilians”.
 
-2011—Pub. L. 112–81, div. A, title V, § 554(b), Dec. 31, 2011, 125 Stat. 1415, added item 9314b.
+2011—Pub. L. 112–81, div. A, title V, § 554(b), Dec. 31, 2011, 125 Stat. 1415, added item 9314b.
 
-Pub. L. 111–383, div. A, title V, § 593(b), Jan. 7, 2011, 124 Stat. 4234, added item 9314a.
+Pub. L. 111–383, div. A, title V, § 593(b), Jan. 7, 2011, 124 Stat. 4234, added item 9314a.
 
-2008—Pub. L. 110–417, [div. A], title III, § 353(b), title V, § 543(h)(2), (i)(2), Oct. 14, 2008, 122 Stat. 4425, 4464, 4465, added items 9314 and 9317 and struck out former items 9314 “United States Air Force Institute of Technology”, 9316 “Training and support for A–10 aircraft”, and 9317 “Air University: conferral of degrees”.
+2008—Pub. L. 110–417, [div. A], title III, § 353(b), title V, § 543(h)(2), (i)(2), Oct. 14, 2008, 122 Stat. 4425, 4464, 4465, added items 9314 and 9317 and struck out former items 9314 “United States Air Force Institute of Technology”, 9316 “Training and support for A–10 aircraft”, and 9317 “Air University: conferral of degrees”.
 
-2004—Pub. L. 108–375, div. A, title V, § 556(c)(2), Oct. 28, 2004, 118 Stat. 1915, substituted “conferral of degrees” for “graduate-level degrees” in item 9317.
+2004—Pub. L. 108–375, div. A, title V, § 556(c)(2), Oct. 28, 2004, 118 Stat. 1915, substituted “conferral of degrees” for “graduate-level degrees” in item 9317.
 
-1999—Pub. L. 106–65, div. A, title V, § 543(b)(2), Oct. 5, 1999, 113 Stat. 607, substituted “graduate-level degrees” for “master of airpower art and science” in item 9317.
+1999—Pub. L. 106–65, div. A, title V, § 543(b)(2), Oct. 5, 1999, 113 Stat. 607, substituted “graduate-level degrees” for “master of airpower art and science” in item 9317.
 
-1998—Pub. L. 105–261, div. A, title V, §§ 521(c)(2), 522(c)(2), Oct. 17, 1998, 112 Stat. 2012, 2013, added items 9319 and 9320.
+1998—Pub. L. 105–261, div. A, title V, §§ 521(c)(2), 522(c)(2), Oct. 17, 1998, 112 Stat. 2012, 2013, added items 9319 and 9320.
 
-1994—Pub. L. 103–337, div. A, title IX, § 913(a)(2), Oct. 5, 1994, 108 Stat. 2828, added item 9317.
+1994—Pub. L. 103–337, div. A, title IX, § 913(a)(2), Oct. 5, 1994, 108 Stat. 2828, added item 9317.
 
-1991—Pub. L. 102–190, div. A, title X, § 1061(a)(25), Dec. 5, 1991, 105 Stat. 1474, struck out section symbol before “9316” in item 9316.
+1991—Pub. L. 102–190, div. A, title X, § 1061(a)(25), Dec. 5, 1991, 105 Stat. 1474, struck out section symbol before “9316” in item 9316.
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1439(d), Nov. 5, 1990, 104 Stat. 1689, added item 9316.
+1990—Pub. L. 101–510, div. A, title XIV, § 1439(d), Nov. 5, 1990, 104 Stat. 1689, added item 9316.
 
-1985—Pub. L. 99–145, title V, § 504(a)(2)(B), Nov. 8, 1985, 99 Stat. 622, struck out “: degrees” after “Technology” in item 9314.
+1985—Pub. L. 99–145, title V, § 504(a)(2)(B), Nov. 8, 1985, 99 Stat. 622, struck out “: degrees” after “Technology” in item 9314.
 
-1976—Pub. L. 94–361, title VI, § 602, July 14, 1976, 90 Stat. 928, added item 9315.
+1976—Pub. L. 94–361, title VI, § 602, July 14, 1976, 90 Stat. 928, added item 9315.
 
-## § 9401. Members of Air Force and Space Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals
+## § 9401. Members of Air Force and Space Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals
 
 **(a)** The Secretary of the Air Force may detail members of the Air Force and members of the Space Force as students at such technical, professional, and other civilian educational institutions, or as students, observers, or investigators at such industrial plants, hospitals, and other places, as are best suited to enable them to acquire knowledge or experience in the specialties in which it is considered necessary that they perfect themselves.
 
@@ -71,18 +71,18 @@ Pub. L. 111–383, div. A, title V, § 593(b), Jan. 7, 2011, 124 Stat. 4234, a
 
 **(g)** Expenses incident to the detail of members under this section shall be paid from any funds appropriated for the Department of the Air Force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 559, § 9301; Pub. L. 93–169, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, § 504(23), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(a)(9), Jan. 6, 2006, 119 Stat. 3441; renumbered § 9401, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, § 923(d)(1)(A)–(C), Jan. 1, 2021, 134 Stat. 3813; Pub. L. 117–81, div. A, title X, § 1081(a)(35), Dec. 27, 2021, 135 Stat. 1921; Pub. L. 118–31, div. A, title XVII, § 1721(b), Dec. 22, 2023, 137 Stat. 666.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 559, § 9301; Pub. L. 93–169, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, § 504(23), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 100–456, div. A, title XII, § 1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, § 1057(a)(9), Jan. 6, 2006, 119 Stat. 3441; renumbered § 9401, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, § 923(d)(1)(A)–(C), Jan. 1, 2021, 134 Stat. 3813; Pub. L. 117–81, div. A, title X, § 1081(a)(35), Dec. 27, 2021, 135 Stat. 1921; Pub. L. 118–31, div. A, title XVII, § 1721(b), Dec. 22, 2023, 137 Stat. 666.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9301(a) 9301(b)   9301(c) 9301(d)   9301(e)   9301(f). 9301(g) | 5:626q (1st 78 words). 5:626q (less 1st 78 words, and less provisos). 5:626q (1st proviso). 5:626q (words of 2d proviso before semicolon). 5:626q (words of 2d proviso after semicolon). 5:626q (last proviso). 5:626r. | June 3, 1916, ch. 134, § 127a (13th par.); added June 4, 1920, ch. 227, subch. I, § 51 (13th par.); restated June 8, 1926, ch. 495; May 13, 1941, ch. 113; June 30, 1941, ch. 262 (4th proviso under “Finance Department”); restated June 19, 1948, ch. 501, § 1, 62 Stat. 477. |
-|  |  | June 19, 1948, ch. 501, §§ 2, 3, 62 Stat. 478. |
+| 9301(a) 9301(b) 9301(c) 9301(d) 9301(e) 9301(f). 9301(g) | 5:626q (1st 78 words). 5:626q (less 1st 78 words, and less provisos). 5:626q (1st proviso). 5:626q (words of 2d proviso before semicolon). 5:626q (words of 2d proviso after semicolon). 5:626q (last proviso). 5:626r. | June 3, 1916, ch. 134, § 127a (13th par.); added June 4, 1920, ch. 227, subch. I, § 51 (13th par.); restated June 8, 1926, ch. 495; May 13, 1941, ch. 113; June 30, 1941, ch. 262 (4th proviso under “Finance Department”); restated June 19, 1948, ch. 501, § 1, 62 Stat. 477. |
+|  |  | June 19, 1948, ch. 501, §§ 2, 3, 62 Stat. 478. |
 
 In subsection (a), the words “members of the Air Force” are substituted for the words “personnel of the Air Force of the United States, without regard to component”.
 
-In subsection (b), the words “is detailed under subsection (a)” are substituted for the words “receives such instruction”. The words “as long as the detail” are substituted for the words “equal to the duration of his period of instruction”. The words “However, if the detail is for” are substituted for the words “except that where the duration of such training is”. The words “other than one of the Regular Air Force on the active list” are inserted, since members of the Regular Air Force on the active list are on continuous active duty. The word “additional” is inserted, since the detail under this section is active duty. The words “the officer may be ordered to that additional duty” are substituted for the words “such subsequent active duty may \* \* \* the officer concerned”.
+In subsection (b), the words “is detailed under subsection (a)” are substituted for the words “receives such instruction”. The words “as long as the detail” are substituted for the words “equal to the duration of his period of instruction”. The words “However, if the detail is for” are substituted for the words “except that where the duration of such training is”. The words “other than one of the Regular Air Force on the active list” are inserted, since members of the Regular Air Force on the active list are on continuous active duty. The word “additional” is inserted, since the detail under this section is active duty. The words “the officer may be ordered to that additional duty” are substituted for the words “such subsequent active duty may \* \* \* the officer concerned”.
 
 In subsection (c), the words “of whose Air National Guard he is a member” are substituted for the words “whichever is concerned”.
 
@@ -98,27 +98,27 @@ In subsection (g), the words “under this section” are substituted for 5:626r
 
 **Amendments**
 
-2023—Subsec. (b). Pub. L. 118–31, § 1721(b)(1), struck out “or the Regular Space Force” after “Regular Air Force” and inserted “or one of the Space Force in a space force active status not on sustained duty,” after “on the active-duty list,”.
+2023—Subsec. (b). Pub. L. 118–31, § 1721(b)(1), struck out “or the Regular Space Force” after “Regular Air Force” and inserted “or one of the Space Force in a space force active status not on sustained duty,” after “on the active-duty list,”.
 
-Subsec. (c). Pub. L. 118–31, § 1721(b)(2), substituted “or member of the Space Force in a space force active status not on sustained duty” for “or Reserve of the Space Force” and “the member’s consent” for “the Reserve’s consent”.
+Subsec. (c). Pub. L. 118–31, § 1721(b)(2), substituted “or member of the Space Force in a space force active status not on sustained duty” for “or Reserve of the Space Force” and “the member’s consent” for “the Reserve’s consent”.
 
-Subsec. (f). Pub. L. 118–31, § 1721(b)(3), substituted “of Space Force members on sustained duty” for “the Regular Space Force” and “of Space Force members in an active status not on sustained duty” for “the Space Force Reserve”.
+Subsec. (f). Pub. L. 118–31, § 1721(b)(3), substituted “of Space Force members on sustained duty” for “the Regular Space Force” and “of Space Force members in an active status not on sustained duty” for “the Space Force Reserve”.
 
 2021—Pub. L. 117–81 inserted a comma after “observers” in section catchline.
 
-Pub. L. 116–283, § 923(d)(1)(C), substituted “Members of Air Force and Space Force: detail as students, observers and investigators at educational institutions, industrial plants, and hospitals” for “Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals” in section catchline.
+Pub. L. 116–283, § 923(d)(1)(C), substituted “Members of Air Force and Space Force: detail as students, observers and investigators at educational institutions, industrial plants, and hospitals” for “Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals” in section catchline.
 
-Subsec. (a). Pub. L. 116–283, § 923(d)(1)(A)(i), inserted “and members of the Space Force” after “members of the Air Force”.
+Subsec. (a). Pub. L. 116–283, § 923(d)(1)(A)(i), inserted “and members of the Space Force” after “members of the Air Force”.
 
-Subsec. (b). Pub. L. 116–283, § 923(d)(1)(A)(ii), inserted “or the Regular Space Force” after “Regular Air Force”.
+Subsec. (b). Pub. L. 116–283, § 923(d)(1)(A)(ii), inserted “or the Regular Space Force” after “Regular Air Force”.
 
-Subsec. (c). Pub. L. 116–283, § 923(d)(1)(A)(iii), (B), inserted “or Reserve of the Space Force” after “Reserve of the Air Force” and substituted “the Reserve’s” for “his” and “the Reserve” for “he”.
+Subsec. (c). Pub. L. 116–283, § 923(d)(1)(A)(iii), (B), inserted “or Reserve of the Space Force” after “Reserve of the Air Force” and substituted “the Reserve’s” for “his” and “the Reserve” for “he”.
 
-Subsec. (e). Pub. L. 116–283, § 923(d)(1)(A)(iv), inserted “or the Space Force” after “Air Force”.
+Subsec. (e). Pub. L. 116–283, § 923(d)(1)(A)(iv), inserted “or the Space Force” after “Air Force”.
 
-Subsec. (f). Pub. L. 116–283, § 923(d)(1)(A)(v)(II), which directed amendment by inserting “or the Space Force Reserve” after “the reserve components of the Air Force”, was executed by making the insertion after “the total of reserve components of the Air Force” to reflect the probable intent of Congress.
+Subsec. (f). Pub. L. 116–283, § 923(d)(1)(A)(v)(II), which directed amendment by inserting “or the Space Force Reserve” after “the reserve components of the Air Force”, was executed by making the insertion after “the total of reserve components of the Air Force” to reflect the probable intent of Congress.
 
-Pub. L. 116–283, § 923(d)(1)(A)(v)(I), inserted “or the Regular Space Force” after “Regular Air Force”.
+Pub. L. 116–283, § 923(d)(1)(A)(v)(I), inserted “or the Regular Space Force” after “Regular Air Force”.
 
 2018—Pub. L. 115–232 renumbered section 9301 of this title as this section.
 
@@ -140,24 +140,24 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 9402. Enlisted members of Air Force or Space Force: schools
+## § 9402. Enlisted members of Air Force or Space Force: schools
 
 **(a)** So far as consistent with the requirements of military training and service, and under regulations to be prescribed by the Secretary of the Air Force with the approval of the President, enlisted members of the Air Force and enlisted members of the Space Force shall be permitted to study and receive instruction to increase their military efficiency and to enable them to return to civilian life better equipped for industrial, commercial, and business occupations. Part of this instruction may be vocational education in agriculture or the mechanic arts. Civilian teachers may be employed to aid Air Force officers and Space Force officers in this instruction.
 
 **(b)** Schools for the instruction of enlisted members of the Air Force or the Space Force in the common branches of education, including United States history, shall be maintained at all air bases at which members of the Air Force or the Space Force are stationed. The Secretary may detail members of the Air Force or the Space Force to carry out this subsection. The commander of each air base where schools are maintained under this subsection shall provide a suitable room or building for school and religious purposes.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 560, § 9302; renumbered § 9402, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 116–283, div. A, title IX, § 923(d)(2)(A), (B), Jan. 1, 2021, 134 Stat. 3813, 3814; Pub. L. 117–81, div. A, title X, § 1081(a)(36), Dec. 27, 2021, 135 Stat. 1921.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 560, § 9302; renumbered § 9402, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 116–283, div. A, title IX, § 923(d)(2)(A), (B), Jan. 1, 2021, 134 Stat. 3813, 3814; Pub. L. 117–81, div. A, title X, § 1081(a)(36), Dec. 27, 2021, 135 Stat. 1921.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9302(a) 9302(b) | 10:1176. 10:1172. | June 3, 1916, ch. 134, § 27 (last par.), 39 Stat. 186. |
+| 9302(a) 9302(b) | 10:1176. 10:1172. | June 3, 1916, ch. 134, § 27 (last par.), 39 Stat. 186. |
 |  |  | R.S. 1231. |
 
 In subsection (a), the first 12 words are substituted for 10:1176 (1st 5, and last 18, words). The words “and the Secretary of the Army shall have the power at all times to suspend, increase, or decrease the amount of such instruction offered” are omitted as surplusage.
 
-In subsection (b), the words “garrisons, and permanent camps” are omitted as covered by the word “posts”. The word “including” is substituted for the words “and especially in”. The word “members” is substituted for the words “officers and enlisted men”. The words “as may be necessary”, “It \* \* \* be the duty”, and “or garrison” are omitted as surplusage.
+In subsection (b), the words “garrisons, and permanent camps” are omitted as covered by the word “posts”. The word “including” is substituted for the words “and especially in”. The word “members” is substituted for the words “officers and enlisted men”. The words “as may be necessary”, “It \* \* \* be the duty”, and “or garrison” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -165,11 +165,11 @@ In subsection (b), the words “garrisons, and permanent camps” are omitted as
 
 2021—Pub. L. 117–81 substituted “Enlisted members of Air Force or Space Force: schools” for “Enlisted members Air Force or Space Force: schools” in section catchline.
 
-Pub. L. 116–283, § 923(d)(2)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Enlisted members of Air Force: schools”.
+Pub. L. 116–283, § 923(d)(2)(B), amended section catchline generally. Prior to amendment, catchline read as follows: “Enlisted members of Air Force: schools”.
 
-Subsec. (a). Pub. L. 116–283, § 923(d)(2)(A)(i), inserted “and enlisted members of the Space Force” after “members of the Air Force” and “and Space Force officers” after “Air Force officers”.
+Subsec. (a). Pub. L. 116–283, § 923(d)(2)(A)(i), inserted “and enlisted members of the Space Force” after “members of the Air Force” and “and Space Force officers” after “Air Force officers”.
 
-Subsec. (b). Pub. L. 116–283, § 923(d)(2)(A)(ii), inserted “or the Space Force” after “Air Force” wherever appearing.
+Subsec. (b). Pub. L. 116–283, § 923(d)(2)(A)(ii), inserted “or the Space Force” after “Air Force” wherever appearing.
 
 2018—Pub. L. 115–232 renumbered section 9302 of this title as this section.
 
@@ -185,7 +185,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Functions of President under subsec. (a) of this section delegated to Secretary of Defense, see section 1(6) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 
-## § 9403. Aviation cadets and aviation students: schools
+## § 9403. Aviation cadets and aviation students: schools
 
 The Secretary of the Air Force shall establish and maintain—
 
@@ -193,14 +193,14 @@ The Secretary of the Air Force shall establish and maintain—
 
 **(2)** courses of instruction for aviation students at one or more established flying schools.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 560, § 9303; renumbered § 9403, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 560, § 9303; renumbered § 9403, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 9303 | 10:296. 10:296a. | July 11, 1919, ch. 8 (2d par. under “Air Service”), 41 Stat. 109. |
-|  |  | June 3, 1941, ch. 165, § 2, 55 Stat. 239. |
+|  |  | June 3, 1941, ch. 165, § 2, 55 Stat. 239. |
 
 **Editorial Notes**
 
@@ -214,11 +214,11 @@ The Secretary of the Air Force shall establish and maintain—
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9404. Aviation students: detail of enlisted members of Air Force
+## § 9404. Aviation students: detail of enlisted members of Air Force
 
 The Secretary of the Air Force may detail enlisted Regulars of the Air Force, and enlisted Reserves of the Air Force who are on active duty, for training and instruction as aviation students in their respective grades at schools selected by him.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 560, § 9304; renumbered § 9404, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 560, § 9304; renumbered § 9404, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
 
 **Historical and Revision Notes**
 
@@ -240,7 +240,7 @@ The words “under such regulations as he may prescribe” are omitted, since th
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9405. Civilian flying school instructors: instruction at Air Force training commands
+## § 9405. Civilian flying school instructors: instruction at Air Force training commands
 
 **(a)** The Secretary of the Air Force may provide for the instruction and training, at Air Force training commands, of civilians selected from the instructional staffs of civilian flying schools that are accredited by the Department of the Air Force for the education and training of members of the Air Force.
 
@@ -250,17 +250,17 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(d)** No civilian who sustains a personal injury, and no dependent of a civilian who dies of disease or injury, while undergoing training under subsection (a), is entitled to any compensation, pension, or gratuity for that injury or death.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 560, § 9305; renumbered § 9405, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 560, § 9305; renumbered § 9405, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 9305(a) 9305(b) | 10:292c–1 (less provisos). 10:292c–1 (1st proviso). | Apr. 3, 1939, ch. 35, § 3, 53 Stat. 556. |
+| 9305(a) 9305(b) | 10:292c–1 (less provisos). 10:292c–1 (1st proviso). | Apr. 3, 1939, ch. 35, § 3, 53 Stat. 556. |
 | 9305(c) | 10:292c–1 (2d proviso). |  |
 | 9305(d) | 10:292c–1 (last proviso). |  |
 
-In subsection (a), the words “under such rules and regulations as he may prescribe” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words “Air Force training commands” are substituted for the words “the Air Corps Training Center”, since those commands now perform the functions formerly performed by the Air Corps Training Center. The words “in his discretion”, “experience”, and “upon their own applications” are omitted as surplusage. The words “and may provide for the instruction and training” are substituted for the words “is authorized to enroll as students \* \* \* for the pursuit of such courses of instruction as may be prescribed therefor”.
+In subsection (a), the words “under such rules and regulations as he may prescribe” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words “Air Force training commands” are substituted for the words “the Air Corps Training Center”, since those commands now perform the functions formerly performed by the Air Corps Training Center. The words “in his discretion”, “experience”, and “upon their own applications” are omitted as surplusage. The words “and may provide for the instruction and training” are substituted for the words “is authorized to enroll as students \* \* \* for the pursuit of such courses of instruction as may be prescribed therefor”.
 
 In subsection (b), the words “the furnishing of such” are omitted as surplusage. The words “matériel, or equipment” are omitted as covered by the word “supplies”, as defined in section 101(26) of this title.
 
@@ -278,11 +278,11 @@ In subsection (c), the word “Government” is substituted for the words “Med
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9406. Service schools: leaves of absence for instructors
+## § 9406. Service schools: leaves of absence for instructors
 
 The officer in charge of an Air Force or Space Force service school may grant a leave of absence for the period of the suspension of the ordinary academic studies, without deduction of pay or allowances, to any officer on duty exclusively as an instructor at the school.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 561, § 9306; renumbered § 9406, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, § 923(d)(3), Jan. 1, 2021, 134 Stat. 3814.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 561, § 9306; renumbered § 9406, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, § 923(d)(3), Jan. 1, 2021, 134 Stat. 3814.)
 
 **Historical and Revision Notes**
 
@@ -290,7 +290,7 @@ The officer in charge of an Air Force or Space Force service school may grant a 
 |---|---|---|
 | 9306 | 10:843. | Mar. 23, 1910, ch. 115 (proviso under “United States Service Schools”), 36 Stat. 244. |
 
-The words “The provisions of section 1144 of this title, authorizing leaves of absence to certain officers of the Military Academy \* \* \* are hereby extended to include” are omitted as surplusage.
+The words “The provisions of section 1144 of this title, authorizing leaves of absence to certain officers of the Military Academy \* \* \* are hereby extended to include” are omitted as surplusage.
 
 **Editorial Notes**
 
@@ -310,13 +310,13 @@ Prior sections 9411 to 9413 were renumbered sections 9481 to 9483 of this title,
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9413. United States Air Force Institute of Technology: establishment
+## § 9413. United States Air Force Institute of Technology: establishment
 
 There is in the Department of the Air Force a United States Air Force Institute of Technology, the purposes of which are to perform research and to provide, to members of the Air Force and Space Force (including the reserve components) and civilian employees of such Department, advanced instruction and technical education regarding their duties.
 
-(Added Pub. L. 117–81, div. A, title V, § 558(a), Dec. 27, 2021, 135 Stat. 1741.)
+(Added Pub. L. 117–81, div. A, title V, § 558(a), Dec. 27, 2021, 135 Stat. 1741.)
 
-## § 9414. United States Air Force Institute of Technology: degree granting authority; faculty, reimbursement and tuition; acceptance of research grants
+## § 9414. United States Air Force Institute of Technology: degree granting authority; faculty, reimbursement and tuition; acceptance of research grants
 
 **(a) Authority.—** Under regulations prescribed by the Secretary of the Air Force, the commander of the Air University may, upon the recommendation of the faculty of the United States Air Force Institute of Technology, confer appropriate degrees upon graduates of the United States Air Force Institute of Technology who meet the degree requirements.
 
@@ -388,7 +388,7 @@ There is in the Department of the Air Force a United States Air Force Institute 
 
 **(6)** The Secretary shall prescribe regulations for the administration of this subsection.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 561, § 9314; Pub. L. 99–145, title V, § 504(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–661, div. A, title V, § 510, Nov. 14, 1986, 100 Stat. 3868; Pub. L. 101–509, title V, § 529 [title I, § 106(b)(6)(C)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 105–261, div. A, title XI, § 1102, Oct. 17, 1998, 112 Stat. 2141; Pub. L. 108–136, div. A, title V, § 533, Nov. 24, 2003, 117 Stat. 1473; Pub. L. 109–163, div. A, title V, § 522(e), Jan. 6, 2006, 119 Stat. 3243; Pub. L. 110–417, [div. A], title V, §§ 543(h)(1), 544, Oct. 14, 2008, 122 Stat. 4463, 4465; renumbered § 9414, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–92, div. A, title V, § 556(b), Dec. 20, 2019, 133 Stat. 1392; Pub. L. 116–283, div. A, title IX, § 923(d)(4), Jan. 1, 2021, 134 Stat. 3814; Pub. L. 119–60, div. A, title V, § 559(a), Dec. 18, 2025, 139 Stat. 880.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 561, § 9314; Pub. L. 99–145, title V, § 504(a)(1), (2)(A), Nov. 8, 1985, 99 Stat. 622; Pub. L. 99–661, div. A, title V, § 510, Nov. 14, 1986, 100 Stat. 3868; Pub. L. 101–509, title V, § 529 [title I, § 106(b)(6)(C)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 105–261, div. A, title XI, § 1102, Oct. 17, 1998, 112 Stat. 2141; Pub. L. 108–136, div. A, title V, § 533, Nov. 24, 2003, 117 Stat. 1473; Pub. L. 109–163, div. A, title V, § 522(e), Jan. 6, 2006, 119 Stat. 3243; Pub. L. 110–417, [div. A], title V, §§ 543(h)(1), 544, Oct. 14, 2008, 122 Stat. 4463, 4465; renumbered § 9414, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–92, div. A, title V, § 556(b), Dec. 20, 2019, 133 Stat. 1392; Pub. L. 116–283, div. A, title IX, § 923(d)(4), Jan. 1, 2021, 134 Stat. 3814; Pub. L. 119–60, div. A, title V, § 559(a), Dec. 18, 2025, 139 Stat. 880.)
 
 **Historical and Revision Notes**
 
@@ -404,9 +404,9 @@ A prior section 9414 was renumbered section 9484 of this title.
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 559(a)(1), added section catchline and struck out former catchline “Degree granting authority for United States Air Force Institute of Technology”.
+2025—Pub. L. 119–60, § 559(a)(1), added section catchline and struck out former catchline “Degree granting authority for United States Air Force Institute of Technology”.
 
-Subsecs. (e) to (g). Pub. L. 119–60, § 559(a)(2), (3), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+Subsecs. (e) to (g). Pub. L. 119–60, § 559(a)(2), (3), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
 2021—Subsec. (d)(1). Pub. L. 116–283 inserted “or the Space Force” after “needs of the Air Force”.
 
@@ -414,17 +414,17 @@ Subsecs. (e) to (g). Pub. L. 119–60, § 559(a)(2), (3), added subsec. (e) an
 
 2018—Pub. L. 115–232 renumbered section 9314 of this title as this section.
 
-2008—Pub. L. 110–417, § 543(h)(1), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to conferral of degrees, civilian faculty, costs of instruction, and research grants at the United States Air Force Institute of Technology.
+2008—Pub. L. 110–417, § 543(h)(1), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to conferral of degrees, civilian faculty, costs of instruction, and research grants at the United States Air Force Institute of Technology.
 
-Subsec. (e)(4), (5). Pub. L. 110–417, § 544, added pars. (4) and (5).
+Subsec. (e)(4), (5). Pub. L. 110–417, § 544, added pars. (4) and (5).
 
 2006—Subsec. (d). Pub. L. 109–163 added subsec. (d).
 
-2003—Subsec. (a). Pub. L. 108–136, § 533(b)(1), (c), inserted heading, designated existing provisions as par. (1), substituted “The Commander” for “When the United States Air Force Institute of Technology is accredited by a nationally recognized accreditation association or authority, the Commander” and “the United States Air Force Institute of Technology” for “that Institute”, and added par. (2).
+2003—Subsec. (a). Pub. L. 108–136, § 533(b)(1), (c), inserted heading, designated existing provisions as par. (1), substituted “The Commander” for “When the United States Air Force Institute of Technology is accredited by a nationally recognized accreditation association or authority, the Commander” and “the United States Air Force Institute of Technology” for “that Institute”, and added par. (2).
 
-Subsec. (b). Pub. L. 108–136, § 533(b)(2), inserted heading.
+Subsec. (b). Pub. L. 108–136, § 533(b)(2), inserted heading.
 
-Subsec. (c). Pub. L. 108–136, § 533(a), added subsec. (c).
+Subsec. (c). Pub. L. 108–136, § 533(a), added subsec. (c).
 
 1998—Subsec. (b)(2)(B). Pub. L. 105–261 substituted “section 5373” for “section 5306(e)”.
 
@@ -432,9 +432,9 @@ Subsec. (c). Pub. L. 108–136, § 533(a), added subsec. (c).
 
 1986—Subsec. (b)(2)(B). Pub. L. 99–661 struck out “rates of basic” before “pay of civilian”.
 
-1985—Pub. L. 99–145, § 504(a)(2)(A), struck out “: degrees” after “Technology” in section catchline.
+1985—Pub. L. 99–145, § 504(a)(2)(A), struck out “: degrees” after “Technology” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 99–145, § 504(a)(1), designated existing provisions as subsec. (a) and added subsec. (b).
+Subsecs. (a), (b). Pub. L. 99–145, § 504(a)(1), designated existing provisions as subsec. (a) and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -448,13 +448,13 @@ Amendment by section 543(h)(1) of Pub. L. 110–417 applicable to any degree gra
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
 
 **Civilian Members of Faculty of Air Force Institute of Technology on November 8, 1985**
 
 Subsec. (b)(2) of this section not applicable to persons who, on Nov. 8, 1985, were civilian members of the faculty of the Air Force Institute of Technology, were being paid a rate of basic pay under the General Schedule, and elected under procedures prescribed by the Secretary of the Air Force to continue to be paid under the General Schedule, see section 504(c) of Pub. L. 99–145, set out as a note under section 5102 of Title 5, Government Organization and Employees.
 
-## § 9414a. United States Air Force Institute of Technology: admission of certain private sector civilians
+## § 9414a. United States Air Force Institute of Technology: admission of certain private sector civilians
 
 **(a) Admission Authorized.—**
 
@@ -494,41 +494,41 @@ Subsec. (b)(2) of this section not applicable to persons who, on Nov. 8, 1985, w
 
 **(f) Standards of Conduct.—** While receiving instruction at the United States Air Force Institute of Technology, covered private sector employees enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
 
-(Added Pub. L. 111–383, div. A, title V, § 593(a), Jan. 7, 2011, 124 Stat. 4232, § 9314a; amended Pub. L. 112–239, div. A, title V, § 589(b), Jan. 2, 2013, 126 Stat. 1769; Pub. L. 114–92, div. A, title V, § 558, title X, § 1081(a)(13), Nov. 25, 2015, 129 Stat. 827, 1001; Pub. L. 115–91, div. A, title V, § 581(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1414, 1415; renumbered § 9414a and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
+(Added Pub. L. 111–383, div. A, title V, § 593(a), Jan. 7, 2011, 124 Stat. 4232, § 9314a; amended Pub. L. 112–239, div. A, title V, § 589(b), Jan. 2, 2013, 126 Stat. 1769; Pub. L. 114–92, div. A, title V, § 558, title X, § 1081(a)(13), Nov. 25, 2015, 129 Stat. 827, 1001; Pub. L. 115–91, div. A, title V, § 581(a)–(d)(1), Dec. 12, 2017, 131 Stat. 1414, 1415; renumbered § 9414a and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 806(a)(3), renumbered section 9314a of this title as this section.
+2018—Pub. L. 115–232, § 806(a)(3), renumbered section 9314a of this title as this section.
 
-Subsec. (a)(3). Pub. L. 115–232, § 809(a), substituted “section 9414” for “section 9314”.
+Subsec. (a)(3). Pub. L. 115–232, § 809(a), substituted “section 9414” for “section 9314”.
 
-2017—Pub. L. 115–91, § 581(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “United States Air Force Institute of Technology: admission of defense industry civilians”.
+2017—Pub. L. 115–91, § 581(d)(1), amended section catchline generally. Prior to amendment, catchline read as follows: “United States Air Force Institute of Technology: admission of defense industry civilians”.
 
-Subsec. (a)(1). Pub. L. 115–91, § 581(b)(1)(A), (c)(1), substituted “a covered private sector employee” for “defense industry employees described in subsection (b)”, “A covered private sector employee” for “Any such defense industry employee”, and “a defense-focused or homeland security-focused” for “a defense focused”.
+Subsec. (a)(1). Pub. L. 115–91, § 581(b)(1)(A), (c)(1), substituted “a covered private sector employee” for “defense industry employees described in subsection (b)”, “A covered private sector employee” for “Any such defense industry employee”, and “a defense-focused or homeland security-focused” for “a defense focused”.
 
-Subsec. (a)(2). Pub. L. 115–91, § 581(b)(1)(B), substituted “covered private sector employees” for “defense industry employees”.
+Subsec. (a)(2). Pub. L. 115–91, § 581(b)(1)(B), substituted “covered private sector employees” for “defense industry employees”.
 
-Subsec. (a)(3). Pub. L. 115–91, § 581(b)(1)(C), substituted “covered private sector employee” for “defense industry employee” in two places.
+Subsec. (a)(3). Pub. L. 115–91, § 581(b)(1)(C), substituted “covered private sector employee” for “defense industry employee” in two places.
 
-Subsec. (b). Pub. L. 115–91, § 581(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the United States Air Force Institute of Technology remains eligible for such instruction only so long as that person remains employed by the same firm.”
+Subsec. (b). Pub. L. 115–91, § 581(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the United States Air Force Institute of Technology remains eligible for such instruction only so long as that person remains employed by the same firm.”
 
-Subsec. (c). Pub. L. 115–91, § 581(b)(2), in introductory provisions, substituted “A covered private sector employee” for “Defense industry employees” and “covered private sector employees” for “defense industry employees”.
+Subsec. (c). Pub. L. 115–91, § 581(b)(2), in introductory provisions, substituted “A covered private sector employee” for “Defense industry employees” and “covered private sector employees” for “defense industry employees”.
 
-Subsec. (d)(1). Pub. L. 115–91, § 581 (b)(3), (c)(2)(A), substituted “a covered private sector employee” for “defense industry employees” and inserted “or homeland security” after “and defense”.
+Subsec. (d)(1). Pub. L. 115–91, § 581 (b)(3), (c)(2)(A), substituted “a covered private sector employee” for “defense industry employees” and inserted “or homeland security” after “and defense”.
 
-Subsec. (d)(2). Pub. L. 115–91, § 581(c)(2)(B), inserted “or the Department of Homeland Security, as applicable” before period at end.
+Subsec. (d)(2). Pub. L. 115–91, § 581(c)(2)(B), inserted “or the Department of Homeland Security, as applicable” before period at end.
 
-Subsec. (f). Pub. L. 115–91, § 581(b)(4), substituted “covered private sector employees” for “defense industry employees”.
+Subsec. (f). Pub. L. 115–91, § 581(b)(4), substituted “covered private sector employees” for “defense industry employees”.
 
-2015—Subsec. (b). Pub. L. 114–92, § 1081(a)(13), substituted “only so long as” for “only so long at”.
+2015—Subsec. (b). Pub. L. 114–92, § 1081(a)(13), substituted “only so long as” for “only so long at”.
 
-Subsec. (c)(2). Pub. L. 114–92, § 558, substituted “will not require an increase in the permanently authorized size of the faculty” for “will be done on a space-available basis and not require an increase in the size of the faculty”.
+Subsec. (c)(2). Pub. L. 114–92, § 558, substituted “will not require an increase in the permanently authorized size of the faculty” for “will be done on a space-available basis and not require an increase in the size of the faculty”.
 
-2013—Subsec. (a)(1). Pub. L. 112–239, § 589(b)(1), inserted “or professional continuing education certificate” after “graduate degree”.
+2013—Subsec. (a)(1). Pub. L. 112–239, § 589(b)(1), inserted “or professional continuing education certificate” after “graduate degree”.
 
-Subsec. (a)(3). Pub. L. 112–239, § 589(b)(2), inserted “or an appropriate professional continuing education certificate, as applicable” before period at end.
+Subsec. (a)(3). Pub. L. 112–239, § 589(b)(2), inserted “or an appropriate professional continuing education certificate, as applicable” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -536,7 +536,7 @@ Subsec. (a)(3). Pub. L. 112–239, § 589(b)(2), inserted “or an appropriate
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9414b. United States Air Force Institute of Technology: administration
+## § 9414b. United States Air Force Institute of Technology: administration
 
 **(a) Director and Chancellor.—**
 
@@ -558,7 +558,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3) Compensation.—** The individual serving as Provost and Chief Academic Officer is entitled to such compensation for such service as the Secretary shall prescribe for purposes of this section, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
 
-(Added Pub. L. 112–81, div. A, title V, § 554(a), Dec. 31, 2011, 125 Stat. 1414, § 9314b; renumbered § 9414b, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 116–92, div. A, title V, § 556(a), Dec. 20, 2019, 133 Stat. 1392; Pub. L. 116–283, div. A, title IX, § 923(d)(5), Jan. 1, 2021, 134 Stat. 3814; Pub. L. 117–263, div. A, title V, § 554(b), Dec. 23, 2022, 136 Stat. 2594; Pub. L. 118–159, div. A, title V, § 521(*l*), Dec. 23, 2024, 138 Stat. 1882.)
+(Added Pub. L. 112–81, div. A, title V, § 554(a), Dec. 31, 2011, 125 Stat. 1414, § 9314b; renumbered § 9414b, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 116–92, div. A, title V, § 556(a), Dec. 20, 2019, 133 Stat. 1392; Pub. L. 116–283, div. A, title IX, § 923(d)(5), Jan. 1, 2021, 134 Stat. 3814; Pub. L. 117–263, div. A, title V, § 554(b), Dec. 23, 2022, 136 Stat. 2594; Pub. L. 118–159, div. A, title V, § 521(*l*), Dec. 23, 2024, 138 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -570,21 +570,21 @@ Level IV of the Executive Schedule, referred to in subsec. (b)(3), is set out in
 
 2024—Subsec. (a)(2)(B). Pub. L. 118–159 struck out “or the equivalent grade in the Space Force” after “brigadier general”.
 
-2022—Subsec. (b). Pub. L. 117–263, § 554(b)(2), substituted “Chief Academic Officer” for “Academic Dean” wherever appearing.
+2022—Subsec. (b). Pub. L. 117–263, § 554(b)(2), substituted “Chief Academic Officer” for “Academic Dean” wherever appearing.
 
-Pub. L. 117–263, § 554(b)(1), substituted “Chief Academic Officer” for “Academic Dean” in heading.
+Pub. L. 117–263, § 554(b)(1), substituted “Chief Academic Officer” for “Academic Dean” in heading.
 
-Subsec. (b)(1). Pub. L. 117–263, § 554(b)(3), substituted “selected” for “appointed”.
+Subsec. (b)(1). Pub. L. 117–263, § 554(b)(3), substituted “selected” for “appointed”.
 
-Subsec. (b)(2). Pub. L. 117–263, § 554(b)(4), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “An individual appointed to the position of Provost and Academic Dean shall serve in that position for a term of five years.”
+Subsec. (b)(2). Pub. L. 117–263, § 554(b)(4), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “An individual appointed to the position of Provost and Academic Dean shall serve in that position for a term of five years.”
 
-2021—Subsec. (a)(2). Pub. L. 116–283, § 923(d)(5)(A), inserted “or the Space Force” after “the Air Force” in two places.
+2021—Subsec. (a)(2). Pub. L. 116–283, § 923(d)(5)(A), inserted “or the Space Force” after “the Air Force” in two places.
 
-Subsec. (a)(2)(B). Pub. L. 116–283, § 923(d)(5)(B), inserted “or the equivalent grade in the Space Force” after “brigadier general”.
+Subsec. (a)(2)(B). Pub. L. 116–283, § 923(d)(5)(B), inserted “or the equivalent grade in the Space Force” after “brigadier general”.
 
-2019—Subsec. (a). Pub. L. 116–92, § 556(a)(1), (2), substituted “Director and Chancellor” for “Commandant” in heading and “Director and Chancellor” for “Commandant” wherever appearing in text.
+2019—Subsec. (a). Pub. L. 116–92, § 556(a)(1), (2), substituted “Director and Chancellor” for “Commandant” in heading and “Director and Chancellor” for “Commandant” wherever appearing in text.
 
-Subsec. (a)(3). Pub. L. 116–92, § 556(a)(3), which directed substitution of “Director and Chancellor” for “Commandant” in heading, was executed by substituting “director and chancellor” for “commandant” to reflect the probable intent of Congress and conform the style of paragraph headings to that used in this title.
+Subsec. (a)(3). Pub. L. 116–92, § 556(a)(3), which directed substitution of “Director and Chancellor” for “Commandant” in heading, was executed by substituting “director and chancellor” for “commandant” to reflect the probable intent of Congress and conform the style of paragraph headings to that used in this title.
 
 2018—Pub. L. 115–232 renumbered section 9314b of this title as this section.
 
@@ -592,13 +592,13 @@ Subsec. (a)(3). Pub. L. 116–92, § 556(a)(3), which directed substitution of
 
 **Change of Name**
 
-Pub. L. 116–92, div. A, title V, § 556(c), Dec. 20, 2019, 133 Stat. 1392, provided that: “Any reference in any law, regulation, map, document, paper, or other record of the United States to the Commandant of the United States Air Force Institute of Technology shall be deemed to be a reference to the Director and Chancellor of the United States Air Force Institute of Technology.”
+Pub. L. 116–92, div. A, title V, § 556(c), Dec. 20, 2019, 133 Stat. 1392, provided that: “Any reference in any law, regulation, map, document, paper, or other record of the United States to the Commandant of the United States Air Force Institute of Technology shall be deemed to be a reference to the Director and Chancellor of the United States Air Force Institute of Technology.”
 
 **Effective Date of 2018 Amendment**
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 9415. Community College of the Air Force: associate degrees
+## § 9415. Community College of the Air Force: associate degrees
 
 **(a) Establishment and Mission.—** There is in the Department of the Air Force a Community College of the Air Force. Such college, in cooperation with civilian colleges and universities, shall—
 
@@ -634,7 +634,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** No degree may be conferred upon any person under this section unless the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.
 
-(Added Pub. L. 94–361, title VI, § 602, July 14, 1976, 90 Stat. 928, § 9315; amended Pub. L. 96–513, title V, § 514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, § 1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X, § 1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, § 552(a), (b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, § 556(b), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 112–81, div. A, title V, § 555(a), (b), Dec. 31, 2011, 125 Stat. 1415; renumbered § 9415 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840; Pub. L. 116–92, div. A, title V, § 557, Dec. 20, 2019, 133 Stat. 1392; Pub. L. 116–283, div. A, title IX, § 923(d)(6), Jan. 1, 2021, 134 Stat. 3814.)
+(Added Pub. L. 94–361, title VI, § 602, July 14, 1976, 90 Stat. 928, § 9315; amended Pub. L. 96–513, title V, § 514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, § 1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X, § 1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, § 552(a), (b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, § 556(b), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 112–81, div. A, title V, § 555(a), (b), Dec. 31, 2011, 125 Stat. 1415; renumbered § 9415 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840; Pub. L. 116–92, div. A, title V, § 557, Dec. 20, 2019, 133 Stat. 1392; Pub. L. 116–283, div. A, title IX, § 923(d)(6), Jan. 1, 2021, 134 Stat. 3814.)
 
 **Editorial Notes**
 
@@ -644,23 +644,23 @@ A prior section 9415 was renumbered section 349 of this title.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 923(d)(6)(A), substituted “in the Department of the Air Force” for “in the Air Force” in introductory provisions.
+2021—Subsec. (a). Pub. L. 116–283, § 923(d)(6)(A), substituted “in the Department of the Air Force” for “in the Air Force” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 116–283, § 923(d)(6)(B)(i), inserted “or the Space Force” after “Air Force”.
+Subsec. (b)(1). Pub. L. 116–283, § 923(d)(6)(B)(i), inserted “or the Space Force” after “Air Force”.
 
-Subsec. (b)(2). Pub. L. 116–283, § 923(d)(6)(B)(ii), substituted “other than the Air Force or the Space Force who are serving as instructors at Department of the Air Force training schools.” for “other than the Air Force who are serving as instructors at Air Force training schools.”
+Subsec. (b)(2). Pub. L. 116–283, § 923(d)(6)(B)(ii), substituted “other than the Air Force or the Space Force who are serving as instructors at Department of the Air Force training schools.” for “other than the Air Force who are serving as instructors at Air Force training schools.”
 
-Subsec. (b)(3). Pub. L. 116–283, § 923(d)(6)(B)(iii), which directed amendment of par. (3) by inserting “or the Space Force” after “Air Force”, was executed by making the insertion after “Air Force” the first place appearing to reflect the probable intent of Congress.
+Subsec. (b)(3). Pub. L. 116–283, § 923(d)(6)(B)(iii), which directed amendment of par. (3) by inserting “or the Space Force” after “Air Force”, was executed by making the insertion after “Air Force” the first place appearing to reflect the probable intent of Congress.
 
 2019—Subsec. (b)(3). Pub. L. 116–92 added par. (3).
 
-2018—Pub. L. 115–232, § 806(a)(3), renumbered section 9315 of this title as this section.
+2018—Pub. L. 115–232, § 806(a)(3), renumbered section 9315 of this title as this section.
 
-Subsec. (d)(1). Pub. L. 115–232, § 809(a), substituted “section 9417” for “section 9317”.
+Subsec. (d)(1). Pub. L. 115–232, § 809(a), substituted “section 9417” for “section 9317”.
 
-2011—Subsec. (c). Pub. L. 112–81, § 555(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+2011—Subsec. (c). Pub. L. 112–81, § 555(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 112–81, § 555(a)(1), (b), redesignated subsec. (c) as (d) and substituted “person” for “enlisted member” in two places.
+Subsec. (d). Pub. L. 112–81, § 555(a)(1), (b), redesignated subsec. (c) as (d) and substituted “person” for “enlisted member” in two places.
 
 2004—Subsec. (c). Pub. L. 108–375 amended heading and text generally. Prior to amendment, text read as follows:
 
@@ -668,19 +668,19 @@ Subsec. (d). Pub. L. 112–81, § 555(a)(1), (b), redesignated subsec. (c) as 
 
 “(2) No degree may be conferred upon any enlisted member under this section unless (A) the Community College of the Air Force certifies to the commander of the Air Education and Training Command of the Air Force that such member has satisfied all the requirements prescribed for such degree, and (B) the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.”
 
-1997—Subsec. (a). Pub. L. 105–85, § 552(b)(1), inserted heading.
+1997—Subsec. (a). Pub. L. 105–85, § 552(b)(1), inserted heading.
 
-Subsec. (a)(1). Pub. L. 105–85, § 552(a)(1), substituted “enlisted members described in subsection (b)” for “enlisted members of the Air Force”.
+Subsec. (a)(1). Pub. L. 105–85, § 552(a)(1), substituted “enlisted members described in subsection (b)” for “enlisted members of the Air Force”.
 
-Subsec. (b). Pub. L. 105–85, § 552(a)(4), added subsec. (b). Former subsec. (b) redesignated subsec. (c)(1).
+Subsec. (b). Pub. L. 105–85, § 552(a)(4), added subsec. (b). Former subsec. (b) redesignated subsec. (c)(1).
 
-Subsec. (c). Pub. L. 105–85, § 552(a)(2), (3), (b)(2), redesignated subsec. (b) as subsec. (c)(1), inserted subsec. heading, substituted “Subject to paragraph (2),” for “Subject to subsection (c),”, and redesignated former subsec. (c) as subsec. (c)(2) and pars. (1) and (2) of former subsec. (c) as subpars. (A) and (B), respectively, of subsec. (c)(2).
+Subsec. (c). Pub. L. 105–85, § 552(a)(2), (3), (b)(2), redesignated subsec. (b) as subsec. (c)(1), inserted subsec. heading, substituted “Subject to paragraph (2),” for “Subject to subsection (c),”, and redesignated former subsec. (c) as subsec. (c)(2) and pars. (1) and (2) of former subsec. (c) as subpars. (A) and (B), respectively, of subsec. (c)(2).
 
 1996—Subsec. (a)(1). Pub. L. 104–106 substituted “Air Force” for “armed forces”.
 
-1993—Subsec. (b). Pub. L. 103–160, § 1182(a)(12)(A), substituted “Air Education and Training Command” for “Air Training Command”.
+1993—Subsec. (b). Pub. L. 103–160, § 1182(a)(12)(A), substituted “Air Education and Training Command” for “Air Training Command”.
 
-Subsec. (c). Pub. L. 103–160, § 1182(a)(12)(B), substituted “Air Education and Training Command of the Air Force” for “Air Force Training Command”.
+Subsec. (c). Pub. L. 103–160, § 1182(a)(12)(B), substituted “Air Education and Training Command of the Air Force” for “Air Force Training Command”.
 
 1980—Subsec. (c). Pub. L. 96–513 substituted “Secretary of Education” for “Commissioner of Education of the Department of Health, Education, and Welfare”.
 
@@ -692,21 +692,21 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–81, div. A, title V, § 555(c), Dec. 31, 2011, 125 Stat. 1416, provided that: “Subsection (c) of section 9315 [now 9415] of title 10, United States Code (as added by subsection (a)(2)), shall apply to persons covered by paragraph (1) of such subsection who are categorized by the Secretary concerned as seriously wounded, ill, or injured after September 11, 2001. With respect to any such person who is separated from active duty during the period beginning on September 12, 2001, and ending on the date of the enactment of this Act [Dec. 31, 2011], the 10-year period specified in paragraph (3) of such subsection shall be deemed to commence on the date of the enactment of this Act.”
+Pub. L. 112–81, div. A, title V, § 555(c), Dec. 31, 2011, 125 Stat. 1416, provided that: “Subsection (c) of section 9315 [now 9415] of title 10, United States Code (as added by subsection (a)(2)), shall apply to persons covered by paragraph (1) of such subsection who are categorized by the Secretary concerned as seriously wounded, ill, or injured after September 11, 2001. With respect to any such person who is separated from active duty during the period beginning on September 12, 2001, and ending on the date of the enactment of this Act [Dec. 31, 2011], the 10-year period specified in paragraph (3) of such subsection shall be deemed to commence on the date of the enactment of this Act.”
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. A, title V, § 552(c), Nov. 18, 1997, 111 Stat. 1748, provided that: “Subsection (b) of section 9315 [now 9415] of such title, as added by subsection (a)(4), applies with respect to enrollments in the Community College of the Air Force after March 31, 1996.”
+Pub. L. 105–85, div. A, title V, § 552(c), Nov. 18, 1997, 111 Stat. 1748, provided that: “Subsection (b) of section 9315 [now 9415] of such title, as added by subsection (a)(4), applies with respect to enrollments in the Community College of the Air Force after March 31, 1996.”
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title X, § 1078(b), Feb. 10, 1996, 110 Stat. 451, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to enrollments in the Community College of the Air Force after March 31, 1996.”
+Pub. L. 104–106, div. A, title X, § 1078(b), Feb. 10, 1996, 110 Stat. 451, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to enrollments in the Community College of the Air Force after March 31, 1996.”
 
 **Effective Date of 1980 Amendment**
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 9417. Degree granting authority for Air University
+## § 9417. Degree granting authority for Air University
 
 **(a) Authority.—** Except as provided in sections 9414 and 9415 of this title, under regulations prescribed by the Secretary of the Air Force, the commander of the Air University may, upon the recommendation of the faculty of the Air University components, confer appropriate degrees upon graduates who meet the degree requirements.
 
@@ -728,7 +728,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(3)** The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the Air University to award any new or existing degree.
 
-(Added Pub. L. 103–337, div. A, title IX, § 913(a)(1), Oct. 5, 1994, 108 Stat. 2828, § 9317; amended Pub. L. 106–65, div. A, title V, § 543(a), (b)(1), Oct. 5, 1999, 113 Stat. 607; Pub. L. 108–375, div. A, title V, § 556(a), (c)(1), Oct. 28, 2004, 118 Stat. 1914, 1915; Pub. L. 110–181, div. A, title V, § 527, Jan. 28, 2008, 122 Stat. 105; Pub. L. 110–417, [div. A], title V, § 543(i)(1), Oct. 14, 2008, 122 Stat. 4464; renumbered § 9417 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
+(Added Pub. L. 103–337, div. A, title IX, § 913(a)(1), Oct. 5, 1994, 108 Stat. 2828, § 9317; amended Pub. L. 106–65, div. A, title V, § 543(a), (b)(1), Oct. 5, 1999, 113 Stat. 607; Pub. L. 108–375, div. A, title V, § 556(a), (c)(1), Oct. 28, 2004, 118 Stat. 1914, 1915; Pub. L. 110–181, div. A, title V, § 527, Jan. 28, 2008, 122 Stat. 105; Pub. L. 110–417, [div. A], title V, § 543(i)(1), Oct. 14, 2008, 122 Stat. 4464; renumbered § 9417 and amended Pub. L. 115–232, div. A, title VIII, §§ 806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
 
 **Editorial Notes**
 
@@ -738,21 +738,21 @@ A prior section 9417 was renumbered section 9487 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 806(a)(3), renumbered section 9317 of this title as this section.
+2018—Pub. L. 115–232, § 806(a)(3), renumbered section 9317 of this title as this section.
 
-Subsec. (a). Pub. L. 115–232, § 809(a), substituted “sections 9414 and 9415” for “sections 9314 and 9315”.
+Subsec. (a). Pub. L. 115–232, § 809(a), substituted “sections 9414 and 9415” for “sections 9314 and 9315”.
 
 2008—Pub. L. 110–417 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to the authority of Air University to confer academic degrees and regulations under which authority would be exercised.
 
 Subsec. (a)(4), (5). Pub. L. 110–181 added par. (4) and redesignated former par. (4) as (5).
 
-2004—Pub. L. 108–375, § 556(c)(1), substituted “conferral of degrees” for “graduate-level degrees” in section catchline.
+2004—Pub. L. 108–375, § 556(c)(1), substituted “conferral of degrees” for “graduate-level degrees” in section catchline.
 
-Subsec. (a). Pub. L. 108–375, § 556(a), substituted “may confer academic degrees as follows:” for “may confer—” in introductory provisions, “The” for “the” in pars. (1) to (3), period for semicolon in par. (1), and period for “; and” in par. (2) and added par. (4).
+Subsec. (a). Pub. L. 108–375, § 556(a), substituted “may confer academic degrees as follows:” for “may confer—” in introductory provisions, “The” for “the” in pars. (1) to (3), period for semicolon in par. (1), and period for “; and” in par. (2) and added par. (4).
 
-1999—Pub. L. 106–65, § 543(b)(1), substituted “graduate-level degrees” for “master of airpower art and science” in section catchline.
+1999—Pub. L. 106–65, § 543(b)(1), substituted “graduate-level degrees” for “master of airpower art and science” in section catchline.
 
-Subsec. (a). Pub. L. 106–65, § 543(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Upon the recommendation of the faculty of the School of Advanced Airpower Studies of the Air University, the Commander of the university may confer the degree of master of airpower art and science upon graduates of the school who fulfill the requirements for the degree.”
+Subsec. (a). Pub. L. 106–65, § 543(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Upon the recommendation of the faculty of the School of Advanced Airpower Studies of the Air University, the Commander of the university may confer the degree of master of airpower art and science upon graduates of the school who fulfill the requirements for the degree.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -766,9 +766,9 @@ Amendment by Pub. L. 110–417 applicable to any degree granting authority estab
 
 **Effective Date**
 
-Pub. L. 103–337, div. A, title IX, § 913(b), Oct. 5, 1994, 108 Stat. 2828, provided that: “The authority provided by section 9317(a) [now 9417(a)] of title 10, United States Code, as added by subsection (a), shall become effective on the date on which the Secretary of Education determines that the requirements established by the School of Advanced Airpower Studies of the Air University for the degree of master of airpower art and science are in accordance with generally applicable requirements for a degree of master of arts or a degree of master of science.”
+Pub. L. 103–337, div. A, title IX, § 913(b), Oct. 5, 1994, 108 Stat. 2828, provided that: “The authority provided by section 9317(a) [now 9417(a)] of title 10, United States Code, as added by subsection (a), shall become effective on the date on which the Secretary of Education determines that the requirements established by the School of Advanced Airpower Studies of the Air University for the degree of master of airpower art and science are in accordance with generally applicable requirements for a degree of master of arts or a degree of master of science.”
 
-## § 9419. Recruit basic training: separate housing for male and female recruits
+## § 9419. Recruit basic training: separate housing for male and female recruits
 
 **(a) Physically Separate Housing.—**
 
@@ -784,7 +784,7 @@ Pub. L. 103–337, div. A, title IX, § 913(b), Oct. 5, 1994, 108 Stat. 2828, 
 
 **(d) Basic Training Defined.—** In this section, the term “basic training” means the initial entry training program of the Air Force or the Space Force that constitutes the basic training of new recruits.
 
-(Added Pub. L. 105–261, div. A, title V, § 521(c)(1), Oct. 17, 1998, 112 Stat. 2011, § 9319; renumbered § 9419, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 118–31, div. A, title XVII, § 1741(b)(6), Dec. 22, 2023, 137 Stat. 681.)
+(Added Pub. L. 105–261, div. A, title V, § 521(c)(1), Oct. 17, 1998, 112 Stat. 2011, § 9319; renumbered § 9419, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 118–31, div. A, title XVII, § 1741(b)(6), Dec. 22, 2023, 137 Stat. 681.)
 
 **Editorial Notes**
 
@@ -802,13 +802,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Implementation**
 
-Pub. L. 105–261, div. A, title V, § 521(c)(3), Oct. 17, 1998, 112 Stat. 2012, provided that: “The Secretary of the Air Force shall implement section 9319 [now 9419] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
+Pub. L. 105–261, div. A, title V, § 521(c)(3), Oct. 17, 1998, 112 Stat. 2012, provided that: “The Secretary of the Air Force shall implement section 9319 [now 9419] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
 
-## § 9420. Recruit basic training: privacy
+## § 9420. Recruit basic training: privacy
 
 The Secretary of the Air Force shall require that access by military training instructors and other training personnel to a living area in which recruits are housed during basic training shall be limited after the end of the training day, other than in the case of an emergency or other exigent circumstance, to military training instructors and other training personnel who are of the same sex as the recruits housed in that living area or to superiors in the chain of command of those recruits who, if not of the same sex as the recruits housed in that living area, are accompanied by a member (other than a recruit) who is of the same sex as the recruits housed in that living area.
 
-(Added Pub. L. 105–261, div. A, title V, § 522(c)(1), Oct. 17, 1998, 112 Stat. 2013, § 9320; renumbered § 9420, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
+(Added Pub. L. 105–261, div. A, title V, § 522(c)(1), Oct. 17, 1998, 112 Stat. 2013, § 9320; renumbered § 9420, Pub. L. 115–232, div. A, title VIII, § 806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
 
 **Editorial Notes**
 
@@ -824,9 +824,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Implementation**
 
-Pub. L. 105–261, div. A, title V, § 522(c)(3), Oct. 17, 1998, 112 Stat. 2013, provided that: “The Secretary of the Air Force shall implement section 9320 [now 9420] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
+Pub. L. 105–261, div. A, title V, § 522(c)(3), Oct. 17, 1998, 112 Stat. 2013, provided that: “The Secretary of the Air Force shall implement section 9320 [now 9420] of title 10, United States Code, as added by paragraph (1), as rapidly as feasible and shall ensure that the provisions of that section are applied to all recruit basic training classes beginning not later than the first such class that enters basic training on or after April 15, 1999.”
 
-## § 9421. Space Force officer training course requirements
+## § 9421. Space Force officer training course requirements
 
 The Secretary of the Air Force shall ensure that—
 
@@ -834,4 +834,4 @@ The Secretary of the Air Force shall ensure that—
 
 **(2)** the curriculum for such course is developed by the Commander of Space Training and Readiness Command, in coordination with the Assistant Secretary of the Air Force for Space Acquisition and Integration and the Director of Acquisition Career Management.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1601(c)(1), Dec. 18, 2025, 139 Stat. 1173.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1601(c)(1), Dec. 18, 2025, 139 Stat. 1173.)

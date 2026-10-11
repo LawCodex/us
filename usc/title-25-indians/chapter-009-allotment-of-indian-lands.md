@@ -15,9 +15,9 @@ retrieved: 2026-10-11
 
 # CHAPTER 9—ALLOTMENT OF INDIAN LANDS
 
-## § 331. Repealed. Pub. L. 106–462, title I, § 106(a)(1), Nov. 7, 2000, 114 Stat. 2007
+## § 331. Repealed. Pub. L. 106–462, title I, § 106(a)(1), Nov. 7, 2000, 114 Stat. 2007
 
-Section, acts Feb. 8, 1887, ch. 119, § 1, 24 Stat. 388; Feb. 28, 1891, ch. 383, § 1, 26 Stat. 794; June 25, 1910, ch. 431, § 17, 36 Stat. 859, related to allotments of irrigable and nonirrigable land on reservations.
+Section, acts Feb. 8, 1887, ch. 119, § 1, 24 Stat. 388; Feb. 28, 1891, ch. 383, § 1, 26 Stat. 794; June 25, 1910, ch. 431, § 17, 36 Stat. 859, related to allotments of irrigable and nonirrigable land on reservations.
 
 **Editorial Notes**
 
@@ -29,11 +29,11 @@ Section was based on section 1 of act Feb. 8, 1887, as amended generally by sect
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–399, § 1, Dec. 31, 2018, 132 Stat. 5331, provided that: “This Act [enacting and amending provisions set out as notes under section 355 of this title] may be cited as the ‘Stigler Act Amendments of 2018’.”
+Pub. L. 115–399, § 1, Dec. 31, 2018, 132 Stat. 5331, provided that: “This Act [enacting and amending provisions set out as notes under section 355 of this title] may be cited as the ‘Stigler Act Amendments of 2018’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–153, § 1, Nov. 5, 1987, 101 Stat. 886, provided that: “This Act [amending sections 373, 1401, and 2301 of this title and section 4421 of Title 20, Education, and amending provisions set out as a note under this section] may be cited as the ‘Indian Law Technical Amendments of 1987’.”
+Pub. L. 100–153, § 1, Nov. 5, 1987, 101 Stat. 886, provided that: “This Act [amending sections 373, 1401, and 2301 of this title and section 4421 of Title 20, Education, and amending provisions set out as a note under this section] may be cited as the ‘Indian Law Technical Amendments of 1987’.”
 
 **Short Title**
 
@@ -41,19 +41,19 @@ Act Feb. 8, 1887, ch. 119, 24 Stat. 388, as amended, enacting this section and s
 
 **Blackfeet Reservation, Montana**
 
-Act June 30, 1919, ch. 4, § 10, 41 Stat. 16, which provided for the allotment of lands within the Blackfeet Indian Reservation in Montana, was amended by act June 4, 1953, ch. 99, § 1, 67 Stat. 42, in order to remove the restrictions on alienation of the homestead allotments by making 80 acres of each allotment subject to sale, partition, issuance of patent in fee, or other disposition in accordance with the laws relating to the other allotments on the Reservation.
+Act June 30, 1919, ch. 4, § 10, 41 Stat. 16, which provided for the allotment of lands within the Blackfeet Indian Reservation in Montana, was amended by act June 4, 1953, ch. 99, § 1, 67 Stat. 42, in order to remove the restrictions on alienation of the homestead allotments by making 80 acres of each allotment subject to sale, partition, issuance of patent in fee, or other disposition in accordance with the laws relating to the other allotments on the Reservation.
 
 Act June 30, 1919, had provided that the 80-acre homestead allotment should remain inalienable. This restriction was removed on the alienation of homestead allotments after the death of the original allottee by act June 2, 1924, ch. 231, 43 Stat. 252, formerly set out as a note under this section. The restriction was completely removed by section 1 of act June 4, 1953, ch. 99, 67 Stat. 42. Section 2 of act June 4, 1953, ch. 99, 67 Stat. 42, repealed act June 2, 1924.
 
 **Creek Nation**
 
-Act Mar. 2, 1917, ch. 146, § 18, 39 Stat. 986, provided in part as follows: “Hereafter no allotments of land shall be made to members of the Creek Nation”.
+Act Mar. 2, 1917, ch. 146, § 18, 39 Stat. 986, provided in part as follows: “Hereafter no allotments of land shall be made to members of the Creek Nation”.
 
 **Crow Indian Reservation**
 
-Act June 4, 1920, ch. 224, § 6, 41 Stat. 753, as amended by acts May 25, 1926, ch. 403, 44 Stat. 658; Sept. 16, 1959, Pub. L. 96–283, 73 Stat. 565; May 17, 1968, Pub. L. 90–308, 82 Stat. 123, provided for a reservation in perpetuity, for the benefit of the Crow Indian Tribe, of the minerals on or underlying the allotted lands on the Crow Indian Reservation.
+Act June 4, 1920, ch. 224, § 6, 41 Stat. 753, as amended by acts May 25, 1926, ch. 403, 44 Stat. 658; Sept. 16, 1959, Pub. L. 96–283, 73 Stat. 565; May 17, 1968, Pub. L. 90–308, 82 Stat. 123, provided for a reservation in perpetuity, for the benefit of the Crow Indian Tribe, of the minerals on or underlying the allotted lands on the Crow Indian Reservation.
 
-Act Aug. 15, 1953, ch. 502, § 4, 67 Stat. 587, repealed act June 4, 1920, ch. 224, § 9, 41 Stat. 754, formerly set out as a note under this section. The act June 4, 1920, provided for allotment of lands of the Crow Tribe and section 9 of the act had provided that lands of the Crow Reservation should “be subject to all laws of the United States prohibiting the introduction of intoxicating liquors into the Indian country until otherwise provided by Congress”.
+Act Aug. 15, 1953, ch. 502, § 4, 67 Stat. 587, repealed act June 4, 1920, ch. 224, § 9, 41 Stat. 754, formerly set out as a note under this section. The act June 4, 1920, provided for allotment of lands of the Crow Tribe and section 9 of the act had provided that lands of the Crow Reservation should “be subject to all laws of the United States prohibiting the introduction of intoxicating liquors into the Indian country until otherwise provided by Congress”.
 
 Act June 4, 1953, ch. 100, 67 Stat. 42, permitted the Indian owners of homestead, irrigable, or agricultural land on the Crow Indian Reservation in Montana to sell such land, upon application in writing and subject to the approval of the Secretary of the Interior or his authorized representative. Restrictions against such sales were contained in act June 4, 1920, ch. 224, 41 Stat. 751. The act of June 4, 1920, set out as a note below, provided for the allotment of lands on the Crow Reservation.
 
@@ -237,7 +237,7 @@ Pub. L. 98–576, Oct. 30, 1984, 98 Stat. 3065, provided:
 
 > **“(4)** the term ‘Osage Tribe Allotment Act’ means the Act approved June 28, 1906, and entitled ‘An Act for the division of the lands and funds of the Osage Indians in Oklahoma Territory, and for other purposes’ (34 Stat. 539).”
 
-Pub. L. 95–496, §§ 3–11, Oct. 21, 1978, 92 Stat. 1660–1664, as amended by Pub. L. 98–605, § 2, Oct. 30, 1984, 98 Stat. 3163, provided that:
+Pub. L. 95–496, §§ 3–11, Oct. 21, 1978, 92 Stat. 1660–1664, as amended by Pub. L. 98–605, § 2, Oct. 30, 1984, 98 Stat. 3163, provided that:
 
 > **“Sec. 3.**
 
@@ -245,7 +245,7 @@ Pub. L. 95–496, §§ 3–11, Oct. 21, 1978, 92 Stat. 1660–1664, as amended
 
 > **“(b)** Any Osage Indian having received a certificate of competency under paragraph 7 of section 2 of the Act of June 28, 1906 (34 Stat. 539, 542); section 3 of the Act of March 2, 1929 (45 Stat. 1478, 1480) [amending act Feb. 27, 1925, ch. 359, 43 Stat. 1008, which is set out below]; or the Act of February 5, 1948 (62 Stat. 18) [Act Feb. 5, 1948, ch. 46, 62 Stat. 18], may make application to the Secretary of the Interior to revoke such certificate and the Secretary shall revoke such certificate: *Provided*, That revocation of any certificate shall not affect the legality of any transactions heretofore made by reason of the issuance of any such certificate. Restrictions against alienation of lands heretofore removed are not reimposed.
 
-> **“(c)** [Amended act Feb. 27, 1925, set out below, act Mar. 2, 1929, ch. 493, § 4, 45 Stat. 1480, and June 24, 1938, ch. 645, §§ 1, 3, 52 Stat. 1034, 1035.
+> **“(c)** [Amended act Feb. 27, 1925, set out below, act Mar. 2, 1929, ch. 493, § 4, 45 Stat. 1480, and June 24, 1938, ch. 645, §§ 1, 3, 52 Stat. 1034, 1035.
 
 > **“Sec. 4.**
 
@@ -253,9 +253,9 @@ Pub. L. 95–496, §§ 3–11, Oct. 21, 1978, 92 Stat. 1660–1664, as amended
 
 > **“Sec. 5.**
 
-> **(a) [Amended act Apr. 18, 1912, ch. 83, § 8, 37 Stat. 88.]**
+> **(a) [Amended act Apr. 18, 1912, ch. 83, § 8, 37 Stat. 88.]**
 
-> **“(b) [Amended act Apr. 18, 1912, ch. 83, § 3, 37 Stat. 86.]**
+> **“(b) [Amended act Apr. 18, 1912, ch. 83, § 3, 37 Stat. 86.]**
 
 > **“(c) [Amended act Feb. 27, 1925, set out below.]**
 
@@ -371,13 +371,13 @@ Pub. L. 95–496, §§ 3–11, Oct. 21, 1978, 92 Stat. 1660–1664, as amended
 
 “(6) the term ‘Osage Indians Act of 1912’ means the Act approved April 18, 1912, and entitled ‘An Act Supplementary to and amendatory of the Act entitled “An Act for the division of the lands and funds of the Osage Nation of Indians in Oklahoma,” approved June twenty-eighth, nineteen hundred and six, and for other purposes.’ (37 Stat. 86); and
 
-“(7) the term ‘Osage Indians Act of 1925’ means the Act approved February 27, 1925, and entitled ‘An Act To amend the Act of Congress of March 3, 1921, entitled “An Act to amend section 3 of the Act of Congress of June 28, 1906, entitled ‘An Act of Congress for the division of the lands and funds of the Osage Indians in Oklahoma, and for other purposes.’ ” ’ (43 Stat. 1008) [set out below].”
+“(7) the term ‘Osage Indians Act of 1925’ means the Act approved February 27, 1925, and entitled ‘An Act To amend the Act of Congress of March 3, 1921, entitled “An Act to amend section 3 of the Act of Congress of June 28, 1906, entitled ‘An Act of Congress for the division of the lands and funds of the Osage Indians in Oklahoma, and for other purposes.’ ” ’ (43 Stat. 1008) [set out below].”
 
-Pub. L. 95–496, § 3(a), Oct. 21, 1978, 92 Stat. 1660, repealed act Feb. 5, 1948, ch. 46, 62 Stat. 18, which related to issuance of certificates of competency to members of the Osage Tribe of less than one-half Indian blood upon attaining age twenty-one.
+Pub. L. 95–496, § 3(a), Oct. 21, 1978, 92 Stat. 1660, repealed act Feb. 5, 1948, ch. 46, 62 Stat. 18, which related to issuance of certificates of competency to members of the Osage Tribe of less than one-half Indian blood upon attaining age twenty-one.
 
-Act Aug. 4, 1947, ch. 474, § 1, 61 Stat. 747, as amended by Pub. L. 85–857, § 13(n), Sept. 2, 1958, 72 Stat. 1266, provided: “That the provisions of section 6 of the Act approved February 27, 1925 (43 Stat. 1008) [set out in note below], as amended by section 5 of the Act approved March 2, 1929, (45 Stat. 1478) [set out in note below], which make invalid contracts of debt entered into by certain members of the Osage Tribe of Indians, shall not apply to any debt contracted pursuant to title III of the Servicemen’s Readjustment Act of 1944 or chapter 37 of title 38, United States Code, by any member of such tribe who, by reason of his service in the armed forces of the United States during World War II, is eligible for the benefits of such title III or chapter 37; and any other member of the Osage Tribe upon attaining the age of twenty-one years may contract a valid debt without approval of the Secretary of the Interior: *Provided*, That the Osage lands and funds and any other property which has heretofore or which may hereafter be held in trust or under supervision of the United States for such Osage Indians not having a certificate of competency shall not be subject to lien, levy, attachment, or forced sale to satisfy any debt or obligation contracted or incurred prior to the issuance of a certificate of competency.”
+Act Aug. 4, 1947, ch. 474, § 1, 61 Stat. 747, as amended by Pub. L. 85–857, § 13(n), Sept. 2, 1958, 72 Stat. 1266, provided: “That the provisions of section 6 of the Act approved February 27, 1925 (43 Stat. 1008) [set out in note below], as amended by section 5 of the Act approved March 2, 1929, (45 Stat. 1478) [set out in note below], which make invalid contracts of debt entered into by certain members of the Osage Tribe of Indians, shall not apply to any debt contracted pursuant to title III of the Servicemen’s Readjustment Act of 1944 or chapter 37 of title 38, United States Code, by any member of such tribe who, by reason of his service in the armed forces of the United States during World War II, is eligible for the benefits of such title III or chapter 37; and any other member of the Osage Tribe upon attaining the age of twenty-one years may contract a valid debt without approval of the Secretary of the Interior: *Provided*, That the Osage lands and funds and any other property which has heretofore or which may hereafter be held in trust or under supervision of the United States for such Osage Indians not having a certificate of competency shall not be subject to lien, levy, attachment, or forced sale to satisfy any debt or obligation contracted or incurred prior to the issuance of a certificate of competency.”
 
-Act Feb. 27, 1925, ch. 359, 43 Stat. 1008, as amended by acts Mar. 2, 1929, ch. 493, §§ 3, 4, 45 Stat. 1480; Sept. 1, 1950, ch. 832, 64 Stat. 572; Oct. 21, 1978, Pub. L. 95–496, §§ 3(c), 5(c), formerly 5(7), 92 Stat. 1661, 1662; Oct. 30, 1984, Pub. L. 98–605, §§ 2(b), 4, 98 Stat. 3163, 3167, provided that:
+Act Feb. 27, 1925, ch. 359, 43 Stat. 1008, as amended by acts Mar. 2, 1929, ch. 493, §§ 3, 4, 45 Stat. 1480; Sept. 1, 1950, ch. 832, 64 Stat. 572; Oct. 21, 1978, Pub. L. 95–496, §§ 3(c), 5(c), formerly 5(7), 92 Stat. 1661, 1662; Oct. 30, 1984, Pub. L. 98–605, §§ 2(b), 4, 98 Stat. 3163, 3167, provided that:
 
 > “The Secretary of the Interior shall cause to be paid at the end of each fiscal quarter to each adult member of the Osage Tribe of Indians in Oklahoma having a certificate of competency, his or her pro rata share, either as a member of the tribe or heir or devisee of a deceased member, of the interest on trust funds, the bonus received from the sale of oil or gas leases, the royalties therefrom and any other moneys due such Indian received during each fiscal quarter, including all moneys received prior to the passage of this Act and remaining unpaid; and so long as the accumulated income is sufficient the Secretary of the Interior shall cause to be paid to the adult members of said tribe not having a certificate of competency $1,000 quarterly, except where such adult members have legal guardians, in which case the amounts provided for herein may be paid to the legal guardian or direct to such Indian in the discretion of the Secretary of the Interior, the total amounts of such payments, however, shall not exceed $1,000 quarterly except as hereinafter provided; and shall cause to be paid for the maintenance and education, to either one of the parents or legal guardians actually having personally in charge, enrolled or unenrolled, minor member under twenty-one years of age, and above eighteen years of age, $1,000 quarterly out of the income of each of said minors, and out of the income of minors under eighteen years of age, $500 quarterly, and so long as the accumulated income of the parent or parents of a minor who has no income or whose income is less than $500 per quarter is sufficient, shall cause to be paid to either of said parents having the care and custody of such minor $500 quarterly, or such proportion thereof as the income of such minor may be less than $500, in addition to the allowances above provided for such parents. Rentals due such adult members from their lands and their minor children’s lands and all income from such adults’ investments shall be paid to them in addition to the allowance above provided. All payments to legal guardians of Osage Indians shall be expended subject to the joint approval in writing of the court and the superintendent of the Osage Agency. All payments to adults not having certificates of competency, including amounts paid for each minor, shall, in case the Secretary of the Interior finds that such adults are wasting or squandering said income, be subject to the supervision of the superintendent of the Osage Agency: *Provided*, That if an adult member, not having a certificate of competency, so desires, his entire income accumulating in the future from the sources herein specified may be paid to him without supervision, unless the Secretary of the Interior shall find, after notice and hearing, that such member is wasting or squandering his income, in which event the Secretary of the Interior shall pay to such member only the amounts hereinbefore specified to be paid to adult members not having certificates of competency. The Secretary of the Interior shall invest the remainder, after paying the taxes of such members, in United States bonds, Oklahoma State bonds, real estate, first mortgage real estate loans not to exceed 50 per centum of the appraised value of such real estate, and where the member is a resident of Oklahoma such investment shall be in loans on Oklahoma real estate, stock in Oklahoma building and loan associations, livestock, or deposit the same in banks in Oklahoma, or expend the same for the benefit of such member, such expenditures, investments, and deposits to be made under such restrictions, rules, and regulations as he may prescribe: *Provided*, That the Secretary of the Interior shall not make any investment for an adult member without first securing the approval of such member of such investment: *Provided further*, That at the beginning of each fiscal year there shall first be reserved and set aside, out of Osage tribal funds available for that purpose, a sufficient amount of money for the expenditures authorized by Congress out of Osage funds for that fiscal year. No guardian shall be appointed except on the written application or approval of the Secretary of the Interior for the estate of a member of the Osage Tribe of Indians who does not have a certificate of competency or who is of one-half or more Indian blood. All moneys now in the possession or control of legal guardians heretofore paid to them in excess of $4,000 per annum each for adults and $2,000 each for minors under the Act of Congress of March 3, 1921, relating to the Osage Tribe of Indians, shall be returned by such guardians to the Secretary of the Interior, and all property, bonds, securities, and stock purchased, or investments made by such guardians out of said moneys paid them shall be delivered to the Secretary of the Interior by them, to be held by him or disposed of by him as he shall deem to be for the best interest of the members to whom the same belongs. All bonds, securities, stocks, and property purchased and other investments made by legal guardians shall not be subject to alienation, sale, disposal, or assignment without the approval of the Secretary of the Interior. Any indebtedness heretofore lawfully incurred by guardians shall be paid out of the funds of the members for whom such indebtedness was incurred by the Secretary of the Interior. All funds other than as above mentioned, and other property heretofore or hereafter received by a guardian of a member of the Osage Tribe of Indians, which was theretofore under the supervision and control of the Secretary of the Interior or the title to which was held in trust for such Indian by the United States, shall not thereby become divested of the supervision and control of the Secretary of the Interior or the United States be relieved of its trust; and such guardian shall not sell, dispose of or otherwise encumber such fund or property without the approval of the Secretary of the Interior, and in accordance with orders of the county court of Osage County, Oklahoma. In case of the death, resignation, or removal from office of such a guardian, the funds and property in his possession subject to supervision and control of the Secretary of the Interior or to which the United States held the title in trust shall be immediately delivered to the superintendent of the Osage Agency, to be held by him and supervised or invested as hereinbefore provided. Within thirty days after the passage of this Act, such guardian shall render and file with the Secretary of the Interior or the superintendent of the Osage Agency a complete accounting, fully itemized, under oath, for the funds so paid to him and pay to the said Secretary or superintendent any and all moneys in his hands at the time of the passage of this Act, which have been paid him in excess of $4,000 per annum each for adults and $2,000 each for minors. The said guardian shall at the same time tender to said Secretary or superintendent all property or whatsoever kind in his possession at the time of the passage of this Act, representing the investment by him of said funds. The Secretary or superintendent is hereby authorized to accept such property or any part thereof at the price paid therefore by said guardian for the benefit of the ward of such guardian, if in his judgment he deems it advisable, and to make such settlement with such guardian as he deems best for such ward. Failing to make satisfactory settlement with said guardian as to said investments or any part thereof, the Secretary is authorized to bring such suit or suits against said guardian, his bond, and other parties in interest as he may deem necessary for the protection of the interests of the ward and may bring such action in any State court of competent jurisdiction or in the United States district court for the district in which said guardian resides.
 
@@ -395,13 +395,13 @@ Act Feb. 27, 1925, ch. 359, 43 Stat. 1008, as amended by acts Mar. 2, 1929, ch. 
 
 > “Sec. 7. Except as provided in sections 5(d) and 7 of the Act approved October 21, 1978, and entitled ‘An Act to amend certain laws relating to the Osage Tribe of Oklahoma, and for other purposes.’, on or after October 21, 1978 [Pub. L. 95–496, set out above], none but heirs of Indian blood and children legally adopted by a court of competent jurisdiction and parents, Indian or non-Indian, shall inherit, in accordance with the laws of the State of Oklahoma relating to intestate succession from Osage Indians any right, title, or interest to any restricted land, moneys, or Osage headright or mineral interest. No adopted child of any Osage Indian who is not an Osage Indian shall be eligible to inherit, as the collateral heir (within the meaning of the laws of the State of Oklahoma relating to intestate succession) of any Osage Indian decedent, any property or interest in property held in trust by the Secretary of the Interior for the benefit of such decedent.”
 
-Act Mar. 2, 1929, ch. 493, § 5, 45 Stat. 1481, provided that: “The restrictions concerning lands and funds of allotted Osage Indians, as provided in this Act and all prior Acts now in force, shall apply to unallotted Osage Indians born since July 1, 1907, or after the passage of this Act, and to their heirs of Osage Indian blood, except that the provisions of section 6 of the Act of Congress approved February 27, 1925 [set out below], with reference to the validity of contracts for debt, shall not apply to any allotted or unallotted Osage Indian of less than one-half degree Indian blood: *Provided*, That the Osage lands and funds and any other property which has heretofore or which may hereafter be held in trust or under supervision of the United States for such Osage Indians of less than one-half degree Indian blood not having a certificate of competency shall not be subject to forced sale to satisfy any debt or obligation contracted or incurred prior to the issuance of a certificate of competency: *Provided further*, That the Secretary of the Interior is hereby authorized in his discretion to grant a certificate of competency to any unallotted Osage Indian when in the judgment of the said Secretary such member is fully competent and capable of transacting his or her own affair.”
+Act Mar. 2, 1929, ch. 493, § 5, 45 Stat. 1481, provided that: “The restrictions concerning lands and funds of allotted Osage Indians, as provided in this Act and all prior Acts now in force, shall apply to unallotted Osage Indians born since July 1, 1907, or after the passage of this Act, and to their heirs of Osage Indian blood, except that the provisions of section 6 of the Act of Congress approved February 27, 1925 [set out below], with reference to the validity of contracts for debt, shall not apply to any allotted or unallotted Osage Indian of less than one-half degree Indian blood: *Provided*, That the Osage lands and funds and any other property which has heretofore or which may hereafter be held in trust or under supervision of the United States for such Osage Indians of less than one-half degree Indian blood not having a certificate of competency shall not be subject to forced sale to satisfy any debt or obligation contracted or incurred prior to the issuance of a certificate of competency: *Provided further*, That the Secretary of the Interior is hereby authorized in his discretion to grant a certificate of competency to any unallotted Osage Indian when in the judgment of the said Secretary such member is fully competent and capable of transacting his or her own affair.”
 
 Act Apr. 12, 1924, ch. 95, 43 Stat. 94, provided that any right to an interest in lands, money, or mineral interests, as provided in act June 28, 1906, ch. 3572, 34 Stat. 539 (Osage Indians), and in the amendatory and supplemental acts, vested in, determined, or adjudged to be the right or property of any person not an Indian by blood, may, with the approval of the Secretary of the Interior, and not otherwise, be sold, assigned, and transferred under such rules and regulations as the Secretary of the Interior may prescribe.
 
 **Pueblo Indians of New Mexico**
 
-Act May 31, 1933, ch. 45, §§ 4, 5, 6, 8, 9, 48 Stat. 109, 110, 111, as amended by Pub. L. 91–550, Dec. 15, 1970, 84 Stat. 1437, in addition to authorizing appropriations to pay in part the liability of the United States to the Indian pueblos, provided:
+Act May 31, 1933, ch. 45, §§ 4, 5, 6, 8, 9, 48 Stat. 109, 110, 111, as amended by Pub. L. 91–550, Dec. 15, 1970, 84 Stat. 1437, in addition to authorizing appropriations to pay in part the liability of the United States to the Indian pueblos, provided:
 
 > **“Sec. 4.**
 
@@ -457,7 +457,7 @@ Act May 31, 1933, ch. 45, §§ 4, 5, 6, 8, 9, 48 Stat. 109, 110, 111, as amend
 
 > Nothing herein contained shall in any manner be construed to deprive any of the Pueblo Indians of a prior right to the use of water from streams running through or bordering on their respective pueblos for domestic, stock-water, and irrigation purposes for the lands remaining in Indian ownership, and such water rights shall not be subject to loss by nonuse or abandonment thereof as long as title to said lands shall remain in the Indians.”
 
-Act June 7, 1924, ch. 331, 43 Stat. 636, as amended by act May 31, 1933, ch. 45, § 7, 48 Stat. 111; Pub. L. 109–133, § 1, Dec. 20, 2005, 119 Stat. 2573, provided:
+Act June 7, 1924, ch. 331, 43 Stat. 636, as amended by act May 31, 1933, ch. 45, § 7, 48 Stat. 111; Pub. L. 109–133, § 1, Dec. 20, 2005, 119 Stat. 2573, provided:
 
 > “That in order to quiet title to various lots, parcels, and tracts of land in the State of New Mexico for which claim shall be made by or on behalf of the Pueblo Indians of said State as hereinafter provided, the United States of America, in its sovereign capacity as guardian of said Pueblo Indians shall, by its Attorney General, file in the District Court of the United States for the District of New Mexico, its bill or bills of complaint with a prayer for discovery of the nature of any claim or claims of any kind whatsoever adverse to the claim of said Pueblo Indians, as hereinafter determined.
 
@@ -573,7 +573,7 @@ Act June 7, 1924, ch. 331, 43 Stat. 636, as amended by act May 31, 1933, ch. 45,
 
 **White Earth Reservation Land Settlement**
 
-Pub. L. 99–264, Mar. 24, 1986, 100 Stat. 61, as amended by Pub. L. 100–153, § 6(a), (b), Nov. 5, 1987, 101 Stat. 887; Pub. L. 100–212, § 4, Dec. 24, 1987, 101 Stat. 1443; Pub. L. 101–301, § 8, May 24, 1990, 104 Stat. 210; Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–263, § 4, May 31, 1994, 108 Stat. 708, provided:
+Pub. L. 99–264, Mar. 24, 1986, 100 Stat. 61, as amended by Pub. L. 100–153, § 6(a), (b), Nov. 5, 1987, 101 Stat. 887; Pub. L. 100–212, § 4, Dec. 24, 1987, 101 Stat. 1443; Pub. L. 101–301, § 8, May 24, 1990, 104 Stat. 210; Pub. L. 102–572, title IX, § 902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–263, § 4, May 31, 1994, 108 Stat. 708, provided:
 
 > “That this Act may be cited as the ‘White Earth Reservation Land Settlement Act of 1985’.
 
@@ -795,17 +795,17 @@ Pub. L. 99–264, Mar. 24, 1986, 100 Stat. 61, as amended by Pub. L. 100–153, 
 
 Act Mar. 3, 1925, ch. 431, 43 Stat. 1114, provided: “That the Secretary of the Interior be, and he is hereby, authorized in his discretion, to cancel any restricted fee patents that have been issued to Indians of the Winnebago Reservation in Nebraska, under the provisions of the Act of Congress of February 21, 1863 (Twelfth Statutes at Large, page 658), and to issue in lieu thereof, to the original allottees, or heirs, trust patents of the form and subject to all the provisions set out in the general allotment act of February 8, 1887 (Twenty-fourth Statutes at Large, page 388), as amended: *Provided*, That the trust period shall be ten years from the date of issuance of the lieu trust patents.”
 
-## §§ 332, 333. Repealed. Pub. L. 106–462, title I, § 106(a)(1), Nov. 7, 2000, 114 Stat. 2007
+## §§ 332, 333. Repealed. Pub. L. 106–462, title I, § 106(a)(1), Nov. 7, 2000, 114 Stat. 2007
 
-Section 332, act Feb. 8, 1887, ch. 119, § 2, 24 Stat. 388, related to selection of allotments.
+Section 332, act Feb. 8, 1887, ch. 119, § 2, 24 Stat. 388, related to selection of allotments.
 
-Section 333, acts Feb. 8, 1887, ch. 119, § 3, 24 Stat. 389; June 25, 1910, ch. 431, § 9, 36 Stat. 858; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to making of allotments by agents.
+Section 333, acts Feb. 8, 1887, ch. 119, § 3, 24 Stat. 389; June 25, 1910, ch. 431, § 9, 36 Stat. 858; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to making of allotments by agents.
 
-## § 334. Allotments to Indians not residing on reservations
+## § 334. Allotments to Indians not residing on reservations
 
 Where any Indian not residing upon a reservation, or for whose tribe no reservation has been provided by treaty, act of Congress, or executive order, shall make settlement upon any surveyed or unsurveyed lands of the United States not otherwise appropriated, he or she shall be entitled, upon application to the local land office for the district in which the lands are located, to have the same allotted to him or her, and to his or her children, in quantities and manner as provided in this act for Indians residing upon reservations; and when such settlement is made upon unsurveyed lands the grant to such Indians shall be adjusted upon the survey of the lands so as to conform thereto; and patents shall be issued to them for such lands in the manner and with the restrictions as provided in sections 348 and 349 of this title. And the fees to which the officers of such local land office would have been entitled had such lands been entered under the general laws for the disposition of the public lands shall be paid to them, from any moneys in the Treasury of the United States not otherwise appropriated, upon a statement of an account in their behalf for such fees by the Secretary of the Interior or such officer as he may designate, and a certification of such account to the Secretary of the Treasury by the Secretary of the Interior.
 
-(Feb. 8, 1887, ch. 119, § 4, 24 Stat. 389; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+(Feb. 8, 1887, ch. 119, § 4, 24 Stat. 389; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
 **Editorial Notes**
 
@@ -819,17 +819,17 @@ The words “provided in sections 348 and 349 of this title”, referred to in t
 
 **Permanent Appropriation; Repeals**
 
-Effective July 1, 1935, the permanent appropriation provided for in the last sentence of this section was repealed by act June 26, 1934, ch. 756, § 1, 48 Stat. 1225.
+Effective July 1, 1935, the permanent appropriation provided for in the last sentence of this section was repealed by act June 26, 1934, ch. 756, § 1, 48 Stat. 1225.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Secretary of the Interior or such officer as he may designate” substituted in text for “Commissioner of the General Land Office” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 
-## § 335. Extension of provisions as to allotments
+## § 335. Extension of provisions as to allotments
 
 Unless otherwise specifically provided, the provisions of the Act of February 8, 1887 (Twenty-fourth Statutes at Large, page 388), as amended, are extended to all lands heretofore purchased or which may be purchased by authority of Congress for the use or benefit of any individual Indian or band or tribe of Indians.
 
@@ -841,11 +841,11 @@ Unless otherwise specifically provided, the provisions of the Act of February 8,
 
 Act of February 8, 1887, referred to in text, is popularly known as the Indian General Allotment Act. For classification of this Act to the Code, see Short Title note set out under section 331 of this title and Tables.
 
-## § 336. Allotments to Indians making settlement
+## § 336. Allotments to Indians making settlement
 
 Where any Indian entitled to allotment under existing laws shall make settlement upon any surveyed or unsurveyed lands of the United States not otherwise appropriated, he or she shall be entitled, upon application to the local land office for the district in which the lands are located, to have the same allotted to him or her and to his or her children in manner as provided by law for allotments to Indians residing upon reservations, and such allotments to Indians on the public domain as herein provided shall be made in such areas as the President may deem proper, not to exceed, however, forty acres of irrigable land or eighty acres of nonirrigable agricultural land or one hundred sixty acres of nonirrigable grazing land to any one Indian; and when such settlement is made upon unsurveyed lands the grant to such Indians shall be adjusted upon the survey of the lands so as to conform thereto, and patent shall be issued to them for such lands in the manner and with the restrictions provided in sections 348 and 349 of this title. And the fees to which the officers of such local land office would have been entitled had such lands been entered under the general laws for the disposition of the public lands shall be paid to them from any moneys in the Treasury of the United States not otherwise appropriated, upon a statement of an account in their behalf for such fees by the Secretary of the Interior or such officer as he may designate, and a certification of such account to the Secretary of the Treasury by the Secretary of the Interior.
 
-(Feb. 28, 1891, ch. 383, § 4, 26 Stat. 795; June 25, 1910, ch. 431, § 17, 36 Stat. 860; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+(Feb. 28, 1891, ch. 383, § 4, 26 Stat. 795; June 25, 1910, ch. 431, § 17, 36 Stat. 860; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
 **Editorial Notes**
 
@@ -857,45 +857,45 @@ Words “restrictions provided in sections 348 and 349 of this title”, referre
 
 **Permanent Appropriation; Repeals**
 
-Effective July 1, 1935, the permanent appropriation provided for in the last sentence of this section was repealed by act June 26, 1934, ch. 756, § 1, 48 Stat. 1225.
+Effective July 1, 1935, the permanent appropriation provided for in the last sentence of this section was repealed by act June 26, 1934, ch. 756, § 1, 48 Stat. 1225.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Secretary of the Interior or such officer as he may designate” substituted in text for “Commissioner of the General Land Office” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 
-## § 337. Allotments in national forests
+## § 337. Allotments in national forests
 
 The Secretary of the Interior is authorized, in his discretion, to make allotments within the national forests in conformity with the general allotment laws, to any Indian occupying, living on, or having improvements on land included within any such national forest who is not entitled to an allotment on any existing Indian reservation, or for whose tribe no reservation has been provided, or whose reservation was not sufficient to afford an allotment to each member thereof. All applications for allotments under the provisions of this section shall be submitted to the Secretary of Agriculture who shall determine whether the lands applied for are more valuable for agricultural or grazing purposes than for the timber found thereon; and if it be found that the lands applied for are more valuable for agricultural or grazing purposes, then the Secretary of the Interior shall cause allotment to be made as herein provided.
 
-(June 25, 1910, ch. 431, § 31, 36 Stat. 863.)
+(June 25, 1910, ch. 431, § 31, 36 Stat. 863.)
 
-## § 337a. Repealed. Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787
+## § 337a. Repealed. Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787
 
-Section, act Mar. 1, 1933, ch. 160, § 1, 47 Stat. 1418, related to Indian allotments in San Juan County, Utah.
+Section, act Mar. 1, 1933, ch. 160, § 1, 47 Stat. 1418, related to Indian allotments in San Juan County, Utah.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that this section is repealed effective on and after Oct. 21, 1976, except such effective date to be on and after the tenth anniversary of the date of approval of this Act, Oct. 21, 1976, insofar as the homestead laws apply to public lands in Alaska.
+Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787, provided that this section is repealed effective on and after Oct. 21, 1976, except such effective date to be on and after the tenth anniversary of the date of approval of this Act, Oct. 21, 1976, insofar as the homestead laws apply to public lands in Alaska.
 
 **Savings Provision**
 
 Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, title VII, Oct. 21, 1976, 90 Stat. 2786, set out as a note under section 1701 of Title 43, Public Lands.
 
-## § 338. Repealed. May 29, 1928, ch. 901, § 1(64), 45 Stat. 991
+## § 338. Repealed. May 29, 1928, ch. 901, § 1(64), 45 Stat. 991
 
-Section, act Apr. 4, 1910, ch. 140, § 1, 36 Stat. 270, required Secretary of the Interior to submit to Congress a cost account of survey and allotment work.
+Section, act Apr. 4, 1910, ch. 140, § 1, 36 Stat. 270, required Secretary of the Interior to submit to Congress a cost account of survey and allotment work.
 
-## § 339. Tribes excepted from certain provisions
+## § 339. Tribes excepted from certain provisions
 
 The provisions of this act shall not extend to the territory occupied by the Cherokees, Creeks, Choctaws, Chickasaws, Seminoles, and Osage, Miamies and Peorias, and Sacs and Foxes, in Oklahoma, nor to any of the reservations of the Seneca Nation of New York Indians in the State of New York, nor to that strip of territory in the State of Nebraska adjoining the Sioux Nation on the south added by Executive order.
 
-(Feb. 8, 1887, ch. 119, § 8, 24 Stat. 391.)
+(Feb. 8, 1887, ch. 119, § 8, 24 Stat. 391.)
 
 **Editorial Notes**
 
@@ -907,25 +907,25 @@ This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and i
 
 **Sacs and Foxes; Missouri Indians**
 
-No allotment of lands was to be made or annuities of money to be paid to any of the Sacs and Foxes of the Missouri Indians who were not enrolled as members of the tribe on Jan. 1, 1890, by a proviso annexed to act Feb. 28, 1891, ch. 383, § 5, 26 Stat. 796.
+No allotment of lands was to be made or annuities of money to be paid to any of the Sacs and Foxes of the Missouri Indians who were not enrolled as members of the tribe on Jan. 1, 1890, by a proviso annexed to act Feb. 28, 1891, ch. 383, § 5, 26 Stat. 796.
 
-## § 340. Extension of certain provisions
+## § 340. Extension of certain provisions
 
 The provisions of the Act of February 8, 1887, are declared to extend to and are made applicable to the Confederated Wea, Peoria, Kaskaskia, and Piankeshaw tribes of Indians, and the Western Miami tribe of Indians, located in the northeastern part of the former Indian Territory and to their reservation, in the same manner and to the same extent as if said tribes had not been excepted from the provisions of said act, except as to section 349 of this title, and as otherwise hereinafter provided.
 
-(Mar. 2, 1889, ch. 422, § 1, 25 Stat. 1013.)
+(Mar. 2, 1889, ch. 422, § 1, 25 Stat. 1013.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of February 8, 1887, referred to in text, was in the original “chapter One hundred and Nineteen of the acts of eighteen hundred and eighty seven, entitled ‘An act to provide for the allotment of lands in severalty to Indians on the various reservations, and to extend the protection of the laws of the United States and the Territories over the Indians, and for other purposes,’ ”. The Act appears in 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this Act to the Code, see Short Title note set out under section 331 of this title and Tables.
+Act of February 8, 1887, referred to in text, was in the original “chapter One hundred and Nineteen of the acts of eighteen hundred and eighty seven, entitled ‘An act to provide for the allotment of lands in severalty to Indians on the various reservations, and to extend the protection of the laws of the United States and the Territories over the Indians, and for other purposes,’ ”. The Act appears in 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this Act to the Code, see Short Title note set out under section 331 of this title and Tables.
 
-## § 341. Power to grant rights-of-way not affected
+## § 341. Power to grant rights-of-way not affected
 
 Nothing in this act shall be so construed as to affect the right and power of Congress to grant the right of way through any lands granted to an Indian, or a tribe of Indians, for railroads or other highways, or telegraph lines, for the public use, or to condemn such lands to public uses, upon making just compensation.
 
-(Feb. 8, 1887, ch. 119, § 10, 24 Stat. 391.)
+(Feb. 8, 1887, ch. 119, § 10, 24 Stat. 391.)
 
 **Editorial Notes**
 
@@ -933,11 +933,11 @@ Nothing in this act shall be so construed as to affect the right and power of Co
 
 This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under section 331 of this title and Tables.
 
-## § 342. Removal of Southern Utes to new reservation
+## § 342. Removal of Southern Utes to new reservation
 
 Nothing in this act shall be so construed as to prevent the removal of the Southern Ute Indians from their present reservation in southwestern Colorado to a new reservation by and with the consent of a majority of the adult male members of said tribe.
 
-(Feb. 8, 1887, ch. 119, § 11, 24 Stat. 391.)
+(Feb. 8, 1887, ch. 119, § 11, 24 Stat. 391.)
 
 **Editorial Notes**
 
@@ -945,35 +945,35 @@ Nothing in this act shall be so construed as to prevent the removal of the South
 
 This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under section 331 of this title and Tables.
 
-## § 343. Correction of errors in allotments and patents
+## § 343. Correction of errors in allotments and patents
 
 In all cases where it shall appear that a double allotment of land has been wrongfully or erroneously made by the Secretary of the Interior to any Indian by an assumed name or otherwise, or where a mistake has been made in the description of the land inserted in any patent, said Secretary is authorized and directed, during the time that the United States may hold the title to the land in trust for any such Indian, and for which a conditional patent may have been issued, to rectify and correct such mistakes and cancel any patent which may have been thus erroneously and wrongfully issued whenever in his opinion the same ought to be canceled for error in the issue thereof, and if possession of the original patent cannot be obtained, such cancellation shall be effective if made upon the records of the Bureau of Land Management; and no proclamation shall be necessary to open to settlement the lands to which such an erroneous allotment patent has been canceled, provided such lands would otherwise be subject to entry: *And provided*, That such lands shall not be open to settlement for sixty days after such cancellation: *And further provided*, That no conditional patent that has been or that may be executed in favor of any Indian allottee, excepting in cases hereinbefore authorized, and excepting in cases where the conditional patent is relinquished by the patentee or his heirs to take another allotment, shall be subject to cancellation without authority of Congress.
 
-(Jan. 26, 1895, ch. 50, 28 Stat. 641; Apr. 23, 1904, ch. 1489, 33 Stat. 297; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+(Jan. 26, 1895, ch. 50, 28 Stat. 641; Apr. 23, 1904, ch. 1489, 33 Stat. 297; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Bureau of Land Management” substituted in text for “General Land Office” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 
-## § 344. Cancellation of allotment of unsuitable land
+## § 344. Cancellation of allotment of unsuitable land
 
 If any Indian of a tribe whose surplus lands have been ceded or opened to disposal has received an allotment embracing lands unsuitable for allotment purposes, such allotment may be canceled and other unappropriated, unoccupied, and unreserved land of equal area, within the ceded portions of the reservation upon which such Indian belongs, allotted to him upon the same terms and with the same restrictions as the original allotment, and lands described in any such canceled allotment shall be disposed of as other ceded lands of such reservation. This provision shall not apply to the lands formerly comprising Indian Territory. The Secretary of the Interior is authorized to prescribe rules and regulations to carry this law into effect.
 
 (Mar. 3, 1909, ch. 263, 35 Stat. 784.)
 
-## § 344a. Repealed. Act Nov. 24, 1942, ch. 640, § 4, 56 Stat. 1022
+## § 344a. Repealed. Act Nov. 24, 1942, ch. 640, § 4, 56 Stat. 1022
 
-Section, act June 25, 1910, ch. 431, § 12, 36 Stat. 858, authorized Secretary of the Interior to investigate the allotment in the name of a deceased Indian and to recommend to Congress the cancellation of such Indian’s patent if he died without heirs.
+Section, act June 25, 1910, ch. 431, § 12, 36 Stat. 858, authorized Secretary of the Interior to investigate the allotment in the name of a deceased Indian and to recommend to Congress the cancellation of such Indian’s patent if he died without heirs.
 
-## § 345. Actions for allotments
+## § 345. Actions for allotments
 
 All persons who are in whole or in part of Indian blood or descent who are entitled to an allotment of land under any law of Congress, or who claim to be so entitled to land under any allotment Act or under any grant made by Congress, or who claim to have been unlawfully denied or excluded from any allotment or any parcel of land to which they claim to be lawfully entitled by virtue of any Act of Congress, may commence and prosecute or defend any action, suit, or proceeding in relation to their right thereto in the proper district court of the United States; and said district courts are given jurisdiction to try and determine any action, suit, or proceeding arising within their respective jurisdictions involving the right of any person, in whole or in part of Indian blood or descent, to any allotment of land under any law or treaty (and in said suit the parties thereto shall be the claimant as plaintiff and the United States as party defendant); and the judgment or decree of any such court in favor of any claimant to an allotment of land shall have the same effect, when properly certified to the Secretary of the Interior, as if such allotment had been allowed and approved by him, but this provision shall not apply to any lands now held by either of the Five Civilized Tribes, nor to any of the lands within the Quapaw Indian Agency: *Provided*, That the right of appeal shall be allowed to either party as in other cases.
 
-(Aug. 15, 1894, ch. 290, § 1, 28 Stat. 305; Feb. 6, 1901, ch. 217, § 1, 31 Stat. 760; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167.)
+(Aug. 15, 1894, ch. 290, § 1, 28 Stat. 305; Feb. 6, 1901, ch. 217, § 1, 31 Stat. 760; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167.)
 
 **Editorial Notes**
 
@@ -985,13 +985,13 @@ Act Mar. 3, 1911, conferred the powers and duties of the former circuit courts u
 
 **Repeal of Section as to Osage Indians**
 
-Act June 28, 1906, ch. 3572, § 1, 34 Stat. 540, provided in part that: “the provisions of the Act of Congress of August fifteenth, eighteen hundred and ninety-four, Twenty-eighth Statutes at Large, page three hundred and five [this section], granting persons of Indian blood who have been denied allotments the right to appeal to the courts, are hereby repealed as far as the same relate to the Osage Indians; and the tribal lands and tribal funds of said tribe shall be equally divided among the members of said tribe as hereinafter provided.”
+Act June 28, 1906, ch. 3572, § 1, 34 Stat. 540, provided in part that: “the provisions of the Act of Congress of August fifteenth, eighteen hundred and ninety-four, Twenty-eighth Statutes at Large, page three hundred and five [this section], granting persons of Indian blood who have been denied allotments the right to appeal to the courts, are hereby repealed as far as the same relate to the Osage Indians; and the tribal lands and tribal funds of said tribe shall be equally divided among the members of said tribe as hereinafter provided.”
 
-## § 346. Proceedings in actions for allotments
+## § 346. Proceedings in actions for allotments
 
 The plaintiff shall cause a copy of his petition filed under section 345 of this title, to be served upon the United States attorney in the district wherein suit is brought, and shall mail a copy of same, by registered letter, to the Attorney General of the United States, and shall thereupon cause to be filed with the clerk of the court wherein suit is instituted an affidavit of such service and the mailing of such letter. It shall be the duty of the United States attorney upon whom service of petition is made as aforesaid to appear and defend the interests of the Government in the suit, and within sixty days after the service of petition upon him, unless the time should be extended by order of the court made in the case to file a plea, answer, or demurrer on the part of the Government, and to file a notice of any counterclaim, set-off, claim for damages, or other demand or defense whatsoever of the Government in the premises: *Provided*, That should the United States attorney neglect or refuse to file the plea, answer, demurrer, or defense, as required, the plaintiff may proceed with the case under such rules as the court may adopt in the premises; but the plaintiff shall not have judgment or decree for his claim, or any part thereof, unless he shall establish the same by proof satisfactory to the court.
 
-(Feb. 6, 1901, ch. 217, § 2, 31 Stat. 760; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
+(Feb. 6, 1901, ch. 217, § 2, 31 Stat. 760; June 25, 1948, ch. 646, § 1, 62 Stat. 909.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -999,19 +999,19 @@ The plaintiff shall cause a copy of his petition filed under section 345 of this
 
 “United States attorney” substituted in text for “district attorney of the United States” on authority of act June 25, 1948. See section 541 of Title 28, Judiciary and Judicial Procedure.
 
-## § 347. Limitations of actions for lands patented in severalty under treaties
+## § 347. Limitations of actions for lands patented in severalty under treaties
 
 In all actions brought in any State court or United States court by any patentee, his heirs, grantees, or any person claiming under such patentee, for the possession or rents or profits of lands patented in severalty to the members of any tribe of Indians under any treaty between it and the United States of America, where a deed has been approved by the Secretary of the Interior to the land sought to be recovered, the statutes of limitations of the States in which said land is situate shall be held to apply, and it shall be a complete defense to such action that the same has not been brought within the time prescribed by the statutes of said State the same as if such action had been brought for the recovery of land patented to others than members of any tribe of Indians.
 
-(May 31, 1902, ch. 946, § 1, 32 Stat. 284.)
+(May 31, 1902, ch. 946, § 1, 32 Stat. 284.)
 
-## § 348. Patents to be held in trust; descent and partition
+## § 348. Patents to be held in trust; descent and partition
 
 Upon the approval of the allotments provided for in this act by the Secretary of the Interior, he shall cause patents to issue therefor in the name of the allottees, which patents shall be of the legal effect, and declare that the United States does and will hold the land thus allotted, for the period of twenty-five years, in trust for the sole use and benefit of the Indian to whom such allotment shall have been made, or, in case of his decease, of his heirs according to the laws of the State or Territory where such land is located, and that at the expiration of said period the United States will convey the same by patent to said Indian, or his heirs as aforesaid, in fee, discharged of said trust and free of all charge or incumbrance whatsoever: *Provided*, That the President of the United States may in any case in his discretion extend the period. And if any conveyance shall be made of the lands set apart and allotted as herein provided, or any contract made touching the same, before the expiration of the time above mentioned, such conveyance or contract shall be absolutely null and void: *Provided*, That, subject to section 8(b) of the American Indian Probate Reform Act of 2004 (Public Law 108–374; 118 Stat. 1810), the rules of intestate succession under the Indian Land Consolidation Act (25 U.S.C. 2201 et seq.) (including a tribal probate code approved under that Act or regulations promulgated under that Act) shall apply to that land for which patents have been executed and delivered: *And provided further*, That at any time after lands have been allotted to all the Indians of any tribe as herein provided, or sooner if in the opinion of the President it shall be for the best interests of said tribe, it shall be lawful for the Secretary of the Interior to negotiate with such Indian tribe for the purchase and release by said tribe, in conformity with the treaty or statute under which such reservation is held, of such portions of its reservation not allotted as such tribe shall, from time to time, consent to sell, on such terms and conditions as shall be considered just and equitable between the United States and said tribe of Indians, which purchase shall not be complete until ratified by Congress, and the form and manner of executing such release shall also be prescribed by Congress: *Provided, however*, That all lands adapted to agriculture, with or without irrigation so sold or released to the United States by any Indian tribe shall be held by the United States for the sole purpose of securing homes to actual settlers and shall be disposed of by the United States to actual and bona fide settlers only in tracts not exceeding one hundred and sixty acres to any one person, on such terms as Congress shall prescribe, subject to grants which Congress may make in aid of education: *And provided further*, That no patents shall issue therefor except to the person so taking the same as and for a homestead, or his heirs, and after the expiration of five years’ occupancy thereof as such homestead; and any conveyance of said lands so taken as a homestead, or any contract touching the same, or lien thereon, created prior to the date of such patent, shall be null and void. And the sums agreed to be paid by the United States as purchase money for any portion of any such reservation shall be held in the Treasury of the United States for the sole use of the tribe or tribes of Indians; to whom such reservations belonged; and the same, with interest thereon at 3 per centum per annum, shall be at all times subject to appropriation by Congress for the education and civilization of such tribe or tribes of Indians or the members thereof. The patents aforesaid shall be recorded in the Bureau of Land Management, and afterwards delivered, free of charge, to the allottee entitled thereto. And if any religious society or other organization was occupying on February 8, 1887, any of the public lands to which this act is applicable, for religious or educational work among the Indians, the Secretary of the Interior is authorized to confirm such occupation to such society or organization, in quantity not exceeding one hundred and sixty acres in any one tract, so long as the same shall be so occupied, on such terms as he shall deem just; but nothing herein contained shall change or alter any claim of such society for religious or educational purposes heretofore granted by law. And in the employment of Indian police, or any other employees in the public service among any of the Indian tribes or bands affected by this act, and where Indians can perform the duties required, those Indians who have availed themselves of the provisions of this act and become citizens of the United States shall be preferred.
 
 *Provided further*, That whenever the Secretary of the Interior shall be satisfied that any of the Indians of the Siletz Indian Reservation, in the State of Oregon, fully capable of managing their own business affairs, and being of the age of twenty-one years or upward, shall, through inheritance or otherwise, become the owner of more than eighty acres of land upon said reservation, he shall cause patents to be issued to such Indian or Indians for all of such lands over and above the eighty acres thereof. Said patent or patents shall be issued for the least valuable portions of said lands, and the same shall be discharged of any trust and free of all charge, incumbrance, or restriction whatsoever; and the Secretary of the Interior is authorized and directed to ascertain, as soon as shall be practicable, whether any of said Indians of the Siletz Reservation should receive patents conveying in fee lands to them under the provisions of this Act.
 
-(Feb. 8, 1887, ch. 119, § 5, 24 Stat. 389; Mar. 3, 1901, ch. 832, § 9, 31 Stat. 1085; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 106–462, title I, § 106(a)(2), Nov. 7, 2000, 114 Stat. 2007; Pub. L. 108–374, § 6(c), Oct. 27, 2004, 118 Stat. 1805; Pub. L. 109–221, title V, § 501(b)(2), May 12, 2006, 120 Stat. 344.)
+(Feb. 8, 1887, ch. 119, § 5, 24 Stat. 389; Mar. 3, 1901, ch. 832, § 9, 31 Stat. 1085; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100; Pub. L. 106–462, title I, § 106(a)(2), Nov. 7, 2000, 114 Stat. 2007; Pub. L. 108–374, § 6(c), Oct. 27, 2004, 118 Stat. 1805; Pub. L. 109–221, title V, § 501(b)(2), May 12, 2006, 120 Stat. 344.)
 
 **Editorial Notes**
 
@@ -1021,11 +1021,11 @@ This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and i
 
 Section 8(b) of the American Indian Probate Reform Act of 2004, referred to in text, is section 8(b) of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
 
-The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 97–459, Jan. 12, 1983, 96 Stat. 2517, which is classified generally to chapter 24 (§ 2201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 97–459, Jan. 12, 1983, 96 Stat. 2517, which is classified generally to chapter 24 (§ 2201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
 **Amendments**
 
-2006—Pub. L. 109–221 inserted in second proviso of first par. “, subject to section 8(b) of the American Indian Probate Reform Act of 2004 (Public Law 108–374; 118 Stat. 1810),” after “That”.
+2006—Pub. L. 109–221 inserted in second proviso of first par. “, subject to section 8(b) of the American Indian Probate Reform Act of 2004 (Public Law 108–374; 118 Stat. 1810),” after “That”.
 
 2004—Pub. L. 108–374 inserted second proviso of first par. and struck out former second proviso which read as follows: “*Provided*, That the law of descent in force in the State or Territory where such lands are situate shall apply thereto after patents therefor have been executed and delivered, except as provided by the Indian Land Consolidation Act or a tribal probate code approved under such Act and except as herein otherwise provided:”.
 
@@ -1035,7 +1035,7 @@ The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 9
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–221, title V, § 501(c), May 12, 2006, 120 Stat. 344, provided that: “The amendments made by subsection (b) [amending this section, section 464 of this title, and provisions set out as a note under section 2201 of this title] shall take effect as if included in the enactment of the American Indian Probate Reform Act of 2004 (Public Law 108–374; 118 Stat. 1773).”
+Pub. L. 109–221, title V, § 501(c), May 12, 2006, 120 Stat. 344, provided that: “The amendments made by subsection (b) [amending this section, section 464 of this title, and provisions set out as a note under section 2201 of this title] shall take effect as if included in the enactment of the American Indian Probate Reform Act of 2004 (Public Law 108–374; 118 Stat. 1773).”
 
 **Effective Date of 2004 Amendment**
 
@@ -1045,7 +1045,7 @@ Amendment by Pub. L. 108–374 applicable on and after the date that is 1 year a
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 “Bureau of Land Management” substituted in text for “General Land Office” on authority of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5.
 
@@ -1067,17 +1067,17 @@ This order is not intended to apply to any case in which the Congress has specif
 
 Harry S. Truman.
 
-## § 348a. Extension of trust period for Indians of Klamath River Reservation
+## § 348a. Extension of trust period for Indians of Klamath River Reservation
 
 The period of trust on lands allotted to Indians of the Klamath River Reservation, California, which expired July 31, 1919, and the legal title to which is still in the United States, is reimposed and extended for a period of twenty-five years from July 31, 1919: *Provided*, That further extension of the period of trust may be made by the President, in his discretion, as provided by section 348 and section 391 of this title.
 
 (Dec. 24, 1942, ch. 814, 56 Stat. 1081.)
 
-## § 349. Patents in fee to allottees
+## § 349. Patents in fee to allottees
 
 At the expiration of the trust period and when the lands have been conveyed to the Indians by patent in fee, as provided in section 348 of this title, then each and every allottee shall have the benefit of and be subject to the laws, both civil and criminal, of the State or Territory in which they may reside; and no Territory shall pass or enforce any law denying any such Indian within its jurisdiction the equal protection of the law: *Provided*, That the Secretary of the Interior may, in his discretion, and he is authorized, whenever he shall be satisfied that any Indian allottee is competent and capable of managing his or her affairs at any time to cause to be issued to such allottee a patent in fee simple, and thereafter all restrictions as to sale, incumbrance, or taxation of said land shall be removed and said land shall not be liable to the satisfaction of any debt contracted prior to the issuing of such patent: *Provided further*, That until the issuance of fee-simple patents all allottees to whom trust patents shall be issued shall be subject to the exclusive jurisdiction of the United States: *And provided further*, That the provisions of this Act shall not extend to any Indians in the former Indian Territory.
 
-(Feb. 8, 1887, ch. 119, § 6, 24 Stat. 390; May 8, 1906, ch. 2348, 34 Stat. 182.)
+(Feb. 8, 1887, ch. 119, § 6, 24 Stat. 390; May 8, 1906, ch. 2348, 34 Stat. 182.)
 
 **Editorial Notes**
 
@@ -1089,11 +1089,11 @@ This Act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and i
 
 Provisions relating to the grant of citizenship to certain Indians born within the territorial limits of the United States were omitted in view of act June 2, 1924, ch. 233, 43 Stat. 253, which granted citizenship to all non-citizen Indians born within the territorial limits of the United States. See section 1401 of Title 8, Aliens and Nationality.
 
-## § 350. Surrender of patent, and selection of other land
+## § 350. Surrender of patent, and selection of other land
 
 The Secretary of the Interior is authorized, in his discretion, and whenever for good and sufficient reason he shall consider it to be for the best interest of the Indians, in making allotments under the act of February 8, 1887, to permit any Indian to whom a patent has been issued for land on the reservation to which such Indian belongs, under treaty or existing law, to surrender such patent with formal relinquishment by such Indian to the United States of all his or her right, title, and interest in the land conveyed thereby, properly indorsed thereon, and to cancel such surrendered patent: *Provided*, That the Indian so surrendering the same shall make a selection, in lieu thereof, of other land and receive patent therefor, under the provisions of the act of February 8, 1887.
 
-(Oct. 19, 1888, ch. 1214, § 2, 25 Stat. 612.)
+(Oct. 19, 1888, ch. 1214, § 2, 25 Stat. 612.)
 
 **Editorial Notes**
 
@@ -1101,29 +1101,29 @@ The Secretary of the Interior is authorized, in his discretion, and whenever for
 
 Act of February 8, 1887, referred to in text, was in the original “the statute aforesaid” and “the act of February eighth, eighteen hundred and eighty-seven”, respectively. The act appears in 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under section 331 of this title and Tables.
 
-## § 351. Patents with restrictions for lots in villages in Washington
+## § 351. Patents with restrictions for lots in villages in Washington
 
 The Secretary of the Interior is authorized, whenever in his opinion it shall be conducive to the best welfare and interest of the Indians living within any Indian village on any of the Indian reservations in the State of Washington to issue a patent to each of said Indians for the village or town lot occupied by him, which patent shall contain restrictions against the alienation of the lot described therein to persons other than members of the tribe, except on approval of the Secretary of the Interior; and if any such Indian shall die subsequent to June 25, 1910, and before receiving patent to the lot occupied by him, the lot to which such Indian would have been entitled if living shall be patented in his name and shall be disposed of as provided for in section 372 of this title.
 
-(June 25, 1910, ch. 431, § 10, 36 Stat. 858.)
+(June 25, 1910, ch. 431, § 10, 36 Stat. 858.)
 
-## § 352. Cancellation of trust patents within power or reservoir sites
+## § 352. Cancellation of trust patents within power or reservoir sites
 
 The Secretary of the Interior, after notice and hearing, is authorized to cancel trust patents issued to Indian allottees for allotments within any power or reservoir site and for allotments or such portions of allotments as are located upon or include lands set aside, reserved, or required within any Indian reservation for irrigation purposes under authority of Congress: *Provided*, That any Indian allottee whose allotment shall be so canceled shall be reimbursed for all improvements on his canceled allotment, out of any moneys available for the construction of the irrigation project for which the said power or reservoir site may be set aside: *Provided further*, That any Indian allottee whose allotment, or part thereof, is so canceled shall be allotted land of equal value within the area subject to irrigation by any such project.
 
-(June 25, 1910, ch. 431, § 14, 36 Stat. 859.)
+(June 25, 1910, ch. 431, § 14, 36 Stat. 859.)
 
-## § 352a. Cancellation of patents in fee simple for allotments held in trust
+## § 352a. Cancellation of patents in fee simple for allotments held in trust
 
 The Secretary of the Interior is authorized, in his discretion, to cancel any patent in fee simple issued to an Indian allottee or to his heirs before the end of the period of trust described in the original or trust patent issued to such allottee, or before the expiration of any extension of such period of trust by the President, where such patent in fee simple was issued without the consent or an application therefor by the allottee or by his heirs: *Provided*, That the patentee has not mortgaged or sold any part of the land described in such patent: *Provided also*, That upon cancellation of such patent in fee simple the land shall have the same status as though such fee patent had never been issued.
 
-(Feb. 26, 1927, ch. 215, § 1, 44 Stat. 1247.)
+(Feb. 26, 1927, ch. 215, § 1, 44 Stat. 1247.)
 
-## § 352b. Partial cancellation; issuance of new trust patents
+## § 352b. Partial cancellation; issuance of new trust patents
 
 Where patents in fee have been issued for Indian allotments, during the trust period, without application by or consent of the patentees, and such patentees or Indian heirs have sold a part of the land included in the patents, or have mortgaged the lands or any part thereof and such mortgages have been satisfied, such lands remaining undisposed of and without incumbrance by the patentees, or Indian heirs, may be given a trust patent status and the Secretary of the Interior is, on application of the allottee or his or her Indian heirs, hereby authorized, in his discretion, to cancel patents in fee so far as they cover such unsold lands not encumbered by mortgage, and to cause new trust patents to be issued therefor, to the allottees or their Indian heirs, of the form and legal effect as provided by the Act of February 8, 1887 (24 Stat. 388), such patents to be effective from the date of the original trust patents, and the land shall be subject to any extensions of the trust made by Executive order on other allotments of members of the same tribe, and such lands shall have the same status as though such fee patents had never been issued: *Provided*, That this section and section 352a of this title shall not apply where any such lands have been sold for unpaid taxes assessed after the date of a mortgage or deed executed by the patentee or his heirs, or sold in execution of a judgment for debt incurred after date of such mortgage or deed, and the period of redemption has expired.
 
-(Feb. 26, 1927, ch. 215, § 2, as added Feb. 21, 1931, ch. 271, 46 Stat. 1205.)
+(Feb. 26, 1927, ch. 215, § 2, as added Feb. 21, 1931, ch. 271, 46 Stat. 1205.)
 
 **Editorial Notes**
 
@@ -1131,43 +1131,43 @@ Where patents in fee have been issued for Indian allotments, during the trust pe
 
 Act of February 8, 1887, referred to in text, is popularly known as the Indian General Allotment Act. For classification of this Act to the Code, see Short Title note set out under section 331 of this title and Tables.
 
-## § 352c. Reimbursement of allottees or heirs for taxes paid on lands patented in fee before end of trust
+## § 352c. Reimbursement of allottees or heirs for taxes paid on lands patented in fee before end of trust
 
 The Secretary of the Interior is hereby authorized, under such rules and regulations as he may prescribe, to reimburse Indian allottees, or Indian heirs or Indian devisees of allottees, for all taxes paid, including penalties and interest, on so much of their allotted lands as have been patented in fee prior to the expiration of the period of trust without application by or consent of the patentee: *Provided*, That if the Indian allottee, or his or her Indian heirs or Indian devisees, have by their own act accepted such patent, no reimbursement shall be made for taxes paid, including penalties and interest, subsequent to acceptance of the patent: *Provided further*, That the fact of such acceptance shall be determined by the Secretary of the Interior.
 
 In any case in which a claim against a State, county, or political subdivision thereof, for taxes collected upon such lands during the trust period has been reduced to judgment and such judgment remains unsatisfied in whole or in part, the Secretary of the Interior is authorized, upon reimbursement by him to the Indian of the amount of taxes including penalties and interest paid thereon, and upon payment by the judgment debtor of the costs of the suit, to cause such judgment to be released: *Provided further*, That in any case, upon submission of adequate proof, the claims for taxes paid by or on behalf of the patentee or his Indian heirs or Indian devisees have been satisfied, in whole or in part, by the State, county, or political subdivision thereof, the Secretary of the Interior is authorized to reimburse the State, county, or political subdivision for such amounts as may have been paid by them.
 
-(June 11, 1940, ch. 315, § 1, 54 Stat. 298; Feb. 10, 1942, ch. 56, § 1, 56 Stat. 87.)
+(June 11, 1940, ch. 315, § 1, 54 Stat. 298; Feb. 10, 1942, ch. 56, § 1, 56 Stat. 87.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1942—Act Feb. 10, 1942, inserted two provisos to first par., substituted in first par. “Indian allottees, or Indian heirs or Indian devisees of allottees” and “have been patented” for “Indian allottees and Indian heirs of allottees” and “having been patented”, struck out from first par. “, has been or may be restored to trust status through cancellation of the fee patent by the Secretary of the Interior” after “consent of the patentee”, designated as second par, the two provisos of original par., inserted in second par. “in whole or in part” after “remains unsatisfied” and substituted in second par. “during the trust period” and “by the judgment debtor” for “while the patent in fee was outstanding” and “by the State, county, or political subdivision thereof” and in proviso “, upon submission of adequate proof, the claims for taxes paid by or on behalf of the patentee or his Indian heirs or Indian devisees have been satisfied, in whole or in part, by the State, county, or political subdivision thereof, the Secretary of the Interior is authorized to reimburse the State, county, or political subdivision for such amounts as may have been paid by them” for “in which a claim has been reduced to judgment and such judgment has been satisfied, the Secretary of the Interior is authorized, upon proof of satisfaction thereof, to reimburse the State, county, or political subdivision thereof, for the actual amount of the judgment, exclusive of the costs of litigation”.
+1942—Act Feb. 10, 1942, inserted two provisos to first par., substituted in first par. “Indian allottees, or Indian heirs or Indian devisees of allottees” and “have been patented” for “Indian allottees and Indian heirs of allottees” and “having been patented”, struck out from first par. “, has been or may be restored to trust status through cancellation of the fee patent by the Secretary of the Interior” after “consent of the patentee”, designated as second par, the two provisos of original par., inserted in second par. “in whole or in part” after “remains unsatisfied” and substituted in second par. “during the trust period” and “by the judgment debtor” for “while the patent in fee was outstanding” and “by the State, county, or political subdivision thereof” and in proviso “, upon submission of adequate proof, the claims for taxes paid by or on behalf of the patentee or his Indian heirs or Indian devisees have been satisfied, in whole or in part, by the State, county, or political subdivision thereof, the Secretary of the Interior is authorized to reimburse the State, county, or political subdivision for such amounts as may have been paid by them” for “in which a claim has been reduced to judgment and such judgment has been satisfied, the Secretary of the Interior is authorized, upon proof of satisfaction thereof, to reimburse the State, county, or political subdivision thereof, for the actual amount of the judgment, exclusive of the costs of litigation”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Appropriations**
 
-Act Feb. 10, 1942, ch. 56, § 2, 56 Stat. 88, authorized appropriations to remain available until expended.
+Act Feb. 10, 1942, ch. 56, § 2, 56 Stat. 88, authorized appropriations to remain available until expended.
 
-## § 353. Sections inapplicable to certain tribes
+## § 353. Sections inapplicable to certain tribes
 
 The provisions of this Act shall not apply to the Osage Indians, nor to the Five Civilized Tribes, in Oklahoma. Where deeds to tribal lands in the Five Civilized Tribes have been or may be issued, in pursuance of any tribal agreement or Act of Congress, to a person who had died, or who dies before the approval of such deed, the title to the land designated therein shall inure to and become vested in the heirs, devisees, or assigns of such deceased grantee as if the deed had issued to the deceased grantee during life.
 
-(June 25, 1910, ch. 431, §§ 32, 33, 36 Stat. 863.)
+(June 25, 1910, ch. 431, §§ 32, 33, 36 Stat. 863.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is act June 25, 1910, ch. 431, 36 Stat. 855, which enacted sections 47, 93, 151, 202, 337, 344a, 351, 352, 353, 372, 403, 406, 407, and 408 of this title, section 6a–1 of former Title 41, Public Contracts, and section 148 of Title 43, Public Lands, and amended sections 191, 312, 331, 333, and 336 of this title and sections 104 and 107 of former Title 18, Criminal Code and Criminal Procedure. Sections 104 and 107 of former Title 18 were repealed and restated as sections 1853 and 1856 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, 62 Stat. 683. Section 6a–1 of former Title 41 was repealed and restated as section 6102(e) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act June 25, 1910, ch. 431, 36 Stat. 855, which enacted sections 47, 93, 151, 202, 337, 344a, 351, 352, 353, 372, 403, 406, 407, and 408 of this title, section 6a–1 of former Title 41, Public Contracts, and section 148 of Title 43, Public Lands, and amended sections 191, 312, 331, 333, and 336 of this title and sections 104 and 107 of former Title 18, Criminal Code and Criminal Procedure. Sections 104 and 107 of former Title 18 were repealed and restated as sections 1853 and 1856 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, 62 Stat. 683. Section 6a–1 of former Title 41 was repealed and restated as section 6102(e) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
 The first and second sentences are from sections 33 and 32, respectively of act June 25, 1910.
 
-## § 354. Lands not liable for debts prior to final patent
+## § 354. Lands not liable for debts prior to final patent
 
 No lands acquired under the provisions of this Act shall, in any event, become liable to the satisfaction of any debt contracted prior to the issuing of the final patent in fee therefor.
 
@@ -1179,31 +1179,31 @@ No lands acquired under the provisions of this Act shall, in any event, become l
 
 This Act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this Act to the Code, see Short Title note set out under section 331 of this title and Tables.
 
-## § 355. Laws applicable to lands of full-blooded members of Five Civilized Tribes
+## § 355. Laws applicable to lands of full-blooded members of Five Civilized Tribes
 
 The lands of full-blooded members of any of the Five Civilized Tribes are made subject to the laws of the State of Oklahoma, providing for the partition of real estate. Any land allotted in such proceedings to a full-blood Indian, or conveyed to him upon his election to take the same at the appraisement, shall remain subject to all restrictions upon alienation and taxation obtaining prior to such partition. In case of a sale under any decree, or partition, the conveyance thereunder shall operate to relieve the land described of all restrictions of every character.
 
-(June 14, 1918, ch. 101, § 2, 40 Stat. 606.)
+(June 14, 1918, ch. 101, § 2, 40 Stat. 606.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Choctaw Tribe; Sale of Lands and Interests Therein; Transfer to Tribal Corporation or Foundation; Per Capita Distribution**
 
-Pub. L. 91–386, § 1, Aug. 24, 1970, 84 Stat. 828, repealed Pub. L. 86–192, §§ 1–12, Aug. 25, 1959, 73 Stat. 420, as amended by Pub. L. 87–609, §§ 1, 2, Aug. 24, 1962, 76 Stat. 405; Pub. L. 89–107, Aug. 4, 1965, 79 Stat. 432; Pub. L. 90–476, Aug. 11, 1968, 82 Stat. 703, which provided for termination of Federal supervision over affairs of the Choctaw Tribe, including termination of eligibility of individual Choctaw members for certain Federal services and benefits provided Indians because of their status as Indians; authority to establish a trustee, corporation, or other legal entity under State law as a successor in interest to the tribal entity; and authority for Secretary of the Interior to sell land and interest in land owned by the Choctaw Tribe for benefit of the tribe, to convey to the successor entity certain lands and mineral interests of the Choctaw Tribe, and to distribute per capita funds held by the United States for benefit of the Choctaw Tribe.
+Pub. L. 91–386, § 1, Aug. 24, 1970, 84 Stat. 828, repealed Pub. L. 86–192, §§ 1–12, Aug. 25, 1959, 73 Stat. 420, as amended by Pub. L. 87–609, §§ 1, 2, Aug. 24, 1962, 76 Stat. 405; Pub. L. 89–107, Aug. 4, 1965, 79 Stat. 432; Pub. L. 90–476, Aug. 11, 1968, 82 Stat. 703, which provided for termination of Federal supervision over affairs of the Choctaw Tribe, including termination of eligibility of individual Choctaw members for certain Federal services and benefits provided Indians because of their status as Indians; authority to establish a trustee, corporation, or other legal entity under State law as a successor in interest to the tribal entity; and authority for Secretary of the Interior to sell land and interest in land owned by the Choctaw Tribe for benefit of the tribe, to convey to the successor entity certain lands and mineral interests of the Choctaw Tribe, and to distribute per capita funds held by the United States for benefit of the Choctaw Tribe.
 
-Pub. L. 91–386, § 2, Aug. 20, 1970, 84 Stat. 828, provided that: “Repeal of the Act of August 25, 1959 [see note above] shall not be construed to abrogate, impair, annul, or otherwise affect any right or interest which may have vested under the provisions of said Act nor shall repeal affect any legal action pending on the date of enactment of this Act [Aug. 24, 1970].”
+Pub. L. 91–386, § 2, Aug. 20, 1970, 84 Stat. 828, provided that: “Repeal of the Act of August 25, 1959 [see note above] shall not be construed to abrogate, impair, annul, or otherwise affect any right or interest which may have vested under the provisions of said Act nor shall repeal affect any legal action pending on the date of enactment of this Act [Aug. 24, 1970].”
 
 **Extension of Period of Restrictions on Lands**
 
-Act Aug. 11, 1955, ch. 786, 69 Stat. 666, as amended by Pub. L. 115–399, § 4(1), Dec. 31, 2018, 132 Stat. 5333, provided for application to Secretary of the Interior for removal of restrictions against alienation, lease, mortgage, or other encumbrance of land; authorized the Secretary, without application, to remove restrictions on lands of Indians who are able to manage their own affairs; permitted proceeding in county court where Secretary disapproved or failed to either approve or disapprove the application for removal; granted right of appeal; required Secretary to turn over full ownership and control of any money and property held in trust when an order removing restrictions becomes effective; and, continued existing exemptions from taxation that constitute a vested property right.
+Act Aug. 11, 1955, ch. 786, 69 Stat. 666, as amended by Pub. L. 115–399, § 4(1), Dec. 31, 2018, 132 Stat. 5333, provided for application to Secretary of the Interior for removal of restrictions against alienation, lease, mortgage, or other encumbrance of land; authorized the Secretary, without application, to remove restrictions on lands of Indians who are able to manage their own affairs; permitted proceeding in county court where Secretary disapproved or failed to either approve or disapprove the application for removal; granted right of appeal; required Secretary to turn over full ownership and control of any money and property held in trust when an order removing restrictions becomes effective; and, continued existing exemptions from taxation that constitute a vested property right.
 
-[Pub. L. 115–399, § 4(1), which amended act Aug. 11, 1955, ch. “768”, by repealing the first section, was executed to act Aug. 11, 1955, ch. 786, see above, to reflect the probable intent of Congress.]
+[Pub. L. 115–399, § 4(1), which amended act Aug. 11, 1955, ch. “768”, by repealing the first section, was executed to act Aug. 11, 1955, ch. 786, see above, to reflect the probable intent of Congress.]
 
 **Restriction on Alienation of Certain Lands; Approval of Conveyance; Jurisdiction of Oklahoma State Courts; Tax Exemption**
 
-Pub. L. 115–399, § 5, Dec. 31, 2018, 132 Stat. 5333, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under section 331 of this title], or the amendments made by this Act, shall be construed to revise or extend the restricted status of any lands under the Act of August 4, 1947 (61 Stat. 731, chapter 458) [see below] that lost restricted status under such Act before the date of enactment of this Act [Dec. 31, 2018].”
+Pub. L. 115–399, § 5, Dec. 31, 2018, 132 Stat. 5333, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under section 331 of this title], or the amendments made by this Act, shall be construed to revise or extend the restricted status of any lands under the Act of August 4, 1947 (61 Stat. 731, chapter 458) [see below] that lost restricted status under such Act before the date of enactment of this Act [Dec. 31, 2018].”
 
-Act Aug. 4, 1947, ch. 458, 61 Stat. 731, as amended by act Aug. 12, 1953, ch. 409, § 2, 67 Stat. 558; Pub. L. 115–399, §§ 2, 3, 4(2), Dec. 31, 2018, 132 Stat. 5331–5333, provided that certain restrictions on alienation of land were extended until an Act of Congress determined otherwise, including interests in estates of decedent Indians who died before Dec. 31, 2018; clarified the laws relating to the approval of conveyances of restricted lands; defined the jurisdiction of Oklahoma State courts over certain classes of Indian litigation; set out the procedure governing the removal of cases to the Federal courts and authorized appeals from orders of remand; preserved the right to seek removal of restrictions; preserved land transactions entered into before Dec. 31, 2018; and limited the tax-exempt acreage of restricted Indian lands.
+Act Aug. 4, 1947, ch. 458, 61 Stat. 731, as amended by act Aug. 12, 1953, ch. 409, § 2, 67 Stat. 558; Pub. L. 115–399, §§ 2, 3, 4(2), Dec. 31, 2018, 132 Stat. 5331–5333, provided that certain restrictions on alienation of land were extended until an Act of Congress determined otherwise, including interests in estates of decedent Indians who died before Dec. 31, 2018; clarified the laws relating to the approval of conveyances of restricted lands; defined the jurisdiction of Oklahoma State courts over certain classes of Indian litigation; set out the procedure governing the removal of cases to the Federal courts and authorized appeals from orders of remand; preserved the right to seek removal of restrictions; preserved land transactions entered into before Dec. 31, 2018; and limited the tax-exempt acreage of restricted Indian lands.
 
 **Validation of Land Titles and Court Judgments**
 
@@ -1211,21 +1211,21 @@ Act July 2, 1945, ch. 223, 59 Stat. 313, validated titles to certain lands conve
 
 **Creation of Trusts**
 
-Act Jan. 27, 1933, ch. 23, 47 Stat. 777, as amended by act Aug. 4, 1947, ch. 458, § 12, 61 Stat. 734, provided for the creation of trusts by Indians; authorized transfers to trustees; denied release of trust agreement restrictions and alienation of corpus and income; made approved contracts irrevocable; provided remedy for illegally procured trusts by cancellation proceedings; and delegated administration of act to Secretary of the Interior.
+Act Jan. 27, 1933, ch. 23, 47 Stat. 777, as amended by act Aug. 4, 1947, ch. 458, § 12, 61 Stat. 734, provided for the creation of trusts by Indians; authorized transfers to trustees; denied release of trust agreement restrictions and alienation of corpus and income; made approved contracts irrevocable; provided remedy for illegally procured trusts by cancellation proceedings; and delegated administration of act to Secretary of the Interior.
 
 **Removal of Restrictions From Part of Allotted Lands; Leases; Taxation; Appointment of Local Agents**
 
-Act May 27, 1908, ch. 199, 35 Stat. 312, as amended by act Apr. 12, 1926, ch. 115, § 1, 44 Stat. 239, provided in part for the removal of restrictions from part of the lands of allottees; authorized leases of allotted lands; made unrestricted lands subject to taxation; voided alienation or incumbrance of restricted lands; and authorized appointment of local agents to investigate estates of minors and to advise and represent allottees.
+Act May 27, 1908, ch. 199, 35 Stat. 312, as amended by act Apr. 12, 1926, ch. 115, § 1, 44 Stat. 239, provided in part for the removal of restrictions from part of the lands of allottees; authorized leases of allotted lands; made unrestricted lands subject to taxation; voided alienation or incumbrance of restricted lands; and authorized appointment of local agents to investigate estates of minors and to advise and represent allottees.
 
 **Final Disposition of Affairs of the Five Civilized Tribes**
 
 Act Apr. 26, 1906, ch. 1876, 34 Stat. 137, provided in part for membership and enrollment rules; required patents to issue in name of allottee and to be recorded; transferred records of land offices to the clerk of the United States district court; transferred control of tribal schools to Secretary of the Interior; abolished tribal taxes; extended restrictions on alienation of allotted lands; authorized conveyances of inherited lands; authorized disposal of property by will; provided that lands upon dissolution of the tribes be held in trust by the United States; and continued tribal governments.
 
-## § 356. Allowance of undisputed claims of restricted allottees of Five Civilized Tribes
+## § 356. Allowance of undisputed claims of restricted allottees of Five Civilized Tribes
 
 No undisputed claims to be paid from individual moneys of restricted allottees, or their heirs, or uncontested agricultural and mineral leases (excluding oil and gas leases) made by individual restricted Indian allottees, or their heirs, shall be forwarded to the Secretary of the Interior for approval, but all such undisputed claims or uncontested leases (except oil and gas leases) shall be paid, approved, rejected, or disapproved by the Superintendent for the Five Civilized Tribes of Oklahoma: *Provided, however*, That any party aggrieved by any decision or order of the Superintendent for the Five Civilized Tribes of Oklahoma may appeal from the same to the Secretary of the Interior within thirty days from the date of said decision or order.
 
-(Feb. 14, 1920, ch. 75, § 18, 41 Stat. 426.)
+(Feb. 14, 1920, ch. 75, § 18, 41 Stat. 426.)
 
 **Editorial Notes**
 
@@ -1237,13 +1237,13 @@ The clause “heretofore required to be approved under existing law by the Secre
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 357. Condemnation of lands under laws of States
+## § 357. Condemnation of lands under laws of States
 
 Lands allotted in severalty to Indians may be condemned for any public purpose under the laws of the State or Territory where located in the same manner as land owned in fee may be condemned, and the money awarded as damages shall be paid to the allottee.
 
-(Mar. 3, 1901, ch. 832, § 3, 31 Stat. 1084.)
+(Mar. 3, 1901, ch. 832, § 3, 31 Stat. 1084.)
 
 **Editorial Notes**
 
@@ -1251,11 +1251,11 @@ Lands allotted in severalty to Indians may be condemned for any public purpose u
 
 Section is comprised of the second paragraph of section 3 of act Mar. 3, 1901. The first paragraph of such section 3 is classified to section 319 of this title.
 
-## § 358. Repeal of statutory provisions relating to survey, classification, and allotments which provide for repayment out of Indian moneys
+## § 358. Repeal of statutory provisions relating to survey, classification, and allotments which provide for repayment out of Indian moneys
 
 Any and all provisions contained in any Act passed prior to March 7, 1928, for the survey, resurvey, classification, and allotment of lands in severalty under the provisions of the Act of February 8, 1887 (24 Stat. 388), which provide for the repayment of funds appropriated proportionately out of any Indian moneys held in trust or otherwise by the United States and available by law for such reimbursable purposes, are repealed: *Provided further*, That the repeal shall not affect any funds authorized to be reimbursed by any special Act of Congress wherein a particular or special fund is mentioned from which reimbursement shall be made.
 
-(Mar. 7, 1928, ch. 137, § 1, 45 Stat. 206.)
+(Mar. 7, 1928, ch. 137, § 1, 45 Stat. 206.)
 
 **Editorial Notes**
 

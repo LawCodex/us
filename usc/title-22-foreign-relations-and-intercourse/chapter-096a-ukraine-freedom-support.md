@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 96A—UKRAINE FREEDOM SUPPORT
 
-## § 8921. Definitions
+## § 8921. Definitions
 
 In this chapter:
 
@@ -63,7 +63,7 @@ The term “knowingly”, with respect to conduct, a circumstance, or a result, 
 
 **(C)** shale formations located in the Russian Federation.
 
-(Pub. L. 113–272, § 2, Dec. 18, 2014, 128 Stat. 2952; Pub. L. 116–283, div. F, title LXI, § 6110(e)(2), Jan. 1, 2021, 134 Stat. 4563.)
+(Pub. L. 113–272, § 2, Dec. 18, 2014, 128 Stat. 2952; Pub. L. 116–283, div. F, title LXI, § 6110(e)(2), Jan. 1, 2021, 134 Stat. 4563.)
 
 **Editorial Notes**
 
@@ -75,15 +75,15 @@ The term “knowingly”, with respect to conduct, a circumstance, or a result, 
 
 **Short Title**
 
-Pub. L. 113–272, § 1(a), Dec. 18, 2014, 128 Stat. 2952, provided that: “This Act [enacting this chapter] may be cited as the ‘Ukraine Freedom Support Act of 2014’.”
+Pub. L. 113–272, § 1(a), Dec. 18, 2014, 128 Stat. 2952, provided that: “This Act [enacting this chapter] may be cited as the ‘Ukraine Freedom Support Act of 2014’.”
 
-## § 8922. Statement of policy regarding Ukraine
+## § 8922. Statement of policy regarding Ukraine
 
 It is the policy of the United States to further assist the Government of Ukraine in restoring its sovereignty and territorial integrity to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe, the Caucasus, and Central Asia. That policy shall be carried into effect, among other things, through a comprehensive effort, in coordination with allies and partners of the United States where appropriate, that includes economic sanctions, diplomacy, assistance for the people of Ukraine, and the provision of military capabilities to the Government of Ukraine that will enhance the ability of that Government to defend itself and to restore its sovereignty and territorial integrity in the face of unlawful actions by the Government of the Russian Federation.
 
-(Pub. L. 113–272, § 3, Dec. 18, 2014, 128 Stat. 2953.)
+(Pub. L. 113–272, § 3, Dec. 18, 2014, 128 Stat. 2953.)
 
-## § 8923. Sanctions relating to the defense and energy sectors of the Russian Federation
+## § 8923. Sanctions relating to the defense and energy sectors of the Russian Federation
 
 **(a) Sanctions relating to the defense sector**
 
@@ -151,9 +151,9 @@ The President may prohibit the exportation or provision by sale, lease or loan, 
 
 **(4) Dual-use export prohibition**
 
-The President may prohibit the issuance of any license and suspend any license for the transfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) 1
+The President may prohibit the issuance of any license and suspend any license for the transfer to the foreign person of any item the export of which is controlled under the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 (as in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)) or the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations.
 
@@ -197,7 +197,7 @@ The authority to block and prohibit all transactions in all property and interes
 
 **(B) Good defined**
 
-In this paragraph, the term “good” has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) <sup>1</sup> (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+In this paragraph, the term “good” has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) <sup>1</sup> (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 **(2) Additional exceptions** The President shall not be required to apply or maintain the sanctions under subsection (a) or (b)—
 
@@ -295,7 +295,7 @@ Except as provided in paragraph (2), this section, and sanctions imposed under t
 
 The termination date under paragraph (1) shall not apply with respect to the provisions of subsection (a) relating to the transfer of defense articles into Syria or sanctions imposed pursuant to such provisions.
 
-(Pub. L. 113–272, § 4, Dec. 18, 2014, 128 Stat. 2953; Pub. L. 115–44, title II, §§ 225, 229(a), Aug. 2, 2017, 131 Stat. 910, 915.)
+(Pub. L. 113–272, § 4, Dec. 18, 2014, 128 Stat. 2953; Pub. L. 115–44, title II, §§ 225, 229(a), Aug. 2, 2017, 131 Stat. 910, 915.)
 
 **Termination of Section**
 
@@ -305,17 +305,17 @@ For termination of section, see subsection (i) of this section.
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in subsecs. (c)(4) and (d)(1)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 16 of the Act was classified to section 4618 of Title 50 prior to repeal.
+The Export Administration Act of 1979, referred to in subsecs. (c)(4) and (d)(1)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Section 16 of the Act was classified to section 4618 of Title 50 prior to repeal.
 
-The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) and (d)(1)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (c)(4) and (d)(1)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Amendments**
 
-2017—Subsec. (a)(3)(B)(ii). Pub. L. 115–44, § 229(a)(3), substituted “subsection (i)” for “subsection (h)”.
+2017—Subsec. (a)(3)(B)(ii). Pub. L. 115–44, § 229(a)(3), substituted “subsection (i)” for “subsection (h)”.
 
-Subsec. (b)(1). Pub. L. 115–44, § 225, substituted “on and after the date that is 30 days after August 2, 2017, the President shall impose, unless the President determines that it is not in the national interest of the United States to do so,” for “on and after the date that is 45 days after December 18, 2014, the President may impose”.
+Subsec. (b)(1). Pub. L. 115–44, § 225, substituted “on and after the date that is 30 days after August 2, 2017, the President shall impose, unless the President determines that it is not in the national interest of the United States to do so,” for “on and after the date that is 45 days after December 18, 2014, the President may impose”.
 
-Subsecs. (g) to (i). Pub. L. 115–44, § 229(a)(1), (2), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (g) to (i). Pub. L. 115–44, § 229(a)(1), (2), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -407,7 +407,7 @@ Pub. L. 117–109, Apr. 8, 2022, 136 Stat. 1154, provided that:
 
 > **“(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.”
 
-## § 8924. Sanctions on Russian and other foreign financial institutions
+## § 8924. Sanctions on Russian and other foreign financial institutions
 
 **(a) Facilitation of certain defense- and energy-related transactions**
 
@@ -449,7 +449,7 @@ The penalties provided for in subsections (b) and (c) of section 1705 of title 5
 
 This section, and sanctions imposed under this section, shall terminate on the date on which the President submits to the appropriate congressional committees the certification described in section 8923(i) of this title.
 
-(Pub. L. 113–272, § 5, Dec. 18, 2014, 128 Stat. 2958; Pub. L. 115–44, title II, §§ 226, 229(b), Aug. 2, 2017, 131 Stat. 910, 915.)
+(Pub. L. 113–272, § 5, Dec. 18, 2014, 128 Stat. 2958; Pub. L. 115–44, title II, §§ 226, 229(b), Aug. 2, 2017, 131 Stat. 910, 915.)
 
 **Termination of Section**
 
@@ -467,15 +467,15 @@ Executive Order No. 13662, referred to in subsec. (b)(2), is Ex. Ord. No. 13662,
 
 **Amendments**
 
-2017—Subsec. (a). Pub. L. 115–44, § 226(1), substituted “shall impose, unless the President determines that it is not in the national interest of the United States to do so,” for “may impose” and “on or after August 2, 2017” for “on or after December 18, 2014”.
+2017—Subsec. (a). Pub. L. 115–44, § 226(1), substituted “shall impose, unless the President determines that it is not in the national interest of the United States to do so,” for “may impose” and “on or after August 2, 2017” for “on or after December 18, 2014”.
 
-Subsec. (b). Pub. L. 115–44, § 226(2), in introductory provisions, substituted “shall impose, unless the President determines that it is not in the national interest of the United States to do so,” for “may impose” and “on or after the date that is 30 days after August 2, 2017” for “on or after the date that is 180 days after December 18, 2014”.
+Subsec. (b). Pub. L. 115–44, § 226(2), in introductory provisions, substituted “shall impose, unless the President determines that it is not in the national interest of the United States to do so,” for “may impose” and “on or after the date that is 30 days after August 2, 2017” for “on or after the date that is 180 days after December 18, 2014”.
 
-Subsecs. (e), (f). Pub. L. 115–44, § 229(b)(1), (2), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsecs. (e), (f). Pub. L. 115–44, § 229(b)(1), (2), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 115–44, § 229(b)(1), (3), redesignated subsec. (f) as (g) and substituted “section 8923(i)” for “section 8923(h)”.
+Subsec. (g). Pub. L. 115–44, § 229(b)(1), (3), redesignated subsec. (f) as (g) and substituted “section 8923(i)” for “section 8923(h)”.
 
-## § 8925. Increased military assistance for the Government of Ukraine
+## § 8925. Increased military assistance for the Government of Ukraine
 
 **(a) In general**
 
@@ -505,15 +505,15 @@ The funds made available pursuant to subsection (c) for provision of defense art
 
 It is the sense of Congress that the Government of Ukraine should take all appropriate steps to protect civilians.
 
-(Pub. L. 113–272, § 6, Dec. 18, 2014, 128 Stat. 2959.)
+(Pub. L. 113–272, § 6, Dec. 18, 2014, 128 Stat. 2959.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act, referred to in subsec.(a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec.(a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Executive Documents**
 
@@ -531,11 +531,11 @@ Any reference in this memorandum to the Act shall be deemed to be a reference to
 
 Barack Obama.
 
-## § 8925a. Ukraine Security Assistance Initiative
+## § 8925a. Ukraine Security Assistance Initiative
 
 The Secretary of Defense may, in this fiscal year and each fiscal year thereafter, accept and retain contributions, including money, personal property, and services, from foreign governments and other entities, to carry out assistance authorized by section 1250 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92): *Provided*, That such contributions received shall be available to the Secretary of Defense, with the concurrence of the Secretary of State, to provide assistance authorized by such section, for replacement of any weapons or articles provided to entities described in subparagraphs (A) and (B) of subsection (a)(1) of such section from the inventory of the United States, and to recover or dispose of equipment previously provided to such entities: *Provided further*, That the Secretary of Defense shall consult with the congressional defense committees in advance of the provision of support provided to forces or groups described in subparagraph (B) of such subsection: *Provided further*, That the Secretary of Defense shall notify the congressional defense committees in writing upon the receipt and upon the obligation of any contribution, delineating the sources and amounts of the funds received and the specific use of such contributions: *Provided further*, That any notification of obligation of funds received in this section shall specify an estimated timeline for the delivery of defense articles and defense services provided and shall identify if any equipment provided requires enhanced end-use monitoring: *Provided further*, That contributions of money for the purposes provided herein from any foreign government or other entity may be credited to the Operation and Maintenance, Defense-Wide account, to remain available for the following two fiscal years, and used for such purposes: *Provided further*, That the Secretary of Defense shall provide quarterly reports to the congressional defense committees on the use and status of funds received pursuant to this section.
 
-(Pub. L. 119–75, div. A, title VIII, § 8106, Feb. 3, 2026, 140 Stat. 225.)
+(Pub. L. 119–75, div. A, title VIII, § 8106, Feb. 3, 2026, 140 Stat. 225.)
 
 **Editorial Notes**
 
@@ -551,9 +551,9 @@ Section was enacted as part of the Department of Defense Appropriations Act, 202
 
 **Congressional Defense Committees Defined**
 
-Pub. L. 119–75, div. A, title VIII, § 8027, Feb. 3, 2026, 140 Stat. 204, provided that: “For the purposes of this Act [div. A of Pub. L. 119–75, see Tables for classification], the term ‘congressional defense committees’ means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives, and the Subcommittee on Defense of the Committee on Appropriations of the Senate.”
+Pub. L. 119–75, div. A, title VIII, § 8027, Feb. 3, 2026, 140 Stat. 204, provided that: “For the purposes of this Act [div. A of Pub. L. 119–75, see Tables for classification], the term ‘congressional defense committees’ means the Armed Services Committee of the House of Representatives, the Armed Services Committee of the Senate, the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives, and the Subcommittee on Defense of the Committee on Appropriations of the Senate.”
 
-## § 8926. Expanded nonmilitary assistance for Ukraine
+## § 8926. Expanded nonmilitary assistance for Ukraine
 
 **(a) Assistance to internally displaced people in Ukraine**
 
@@ -687,15 +687,15 @@ There are authorized to be appropriated to the Secretary of State $20,000,000 fo
 
 Any assistance provided pursuant to this subsection shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this subsection. The President shall provide a briefing on the activities funded by this subsection at the request of the committees specified in paragraph (2).
 
-(Pub. L. 113–272, § 7, Dec. 18, 2014, 128 Stat. 2960; Pub. L. 115–254, div. F, title VI, § 1470(r), Oct. 5, 2018, 132 Stat. 3518.)
+(Pub. L. 113–272, § 7, Dec. 18, 2014, 128 Stat. 2960; Pub. L. 115–254, div. F, title VI, § 1470(r), Oct. 5, 2018, 132 Stat. 3518.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (c)(3). Pub. L. 115–254, § 1470(r)(1), (2), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in heading and introductory provisions.
+2018—Subsec. (c)(3). Pub. L. 115–254, § 1470(r)(1), (2), substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation” in heading and introductory provisions.
 
-Subsec. (c)(3)(B). Pub. L. 115–254, § 1470(r)(3), struck out “by eligible investors (as defined in section 2198 of this title)” after “of applications”.
+Subsec. (c)(3)(B). Pub. L. 115–254, § 1470(r)(3), struck out “by eligible investors (as defined in section 2198 of this title)” after “of applications”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -709,7 +709,7 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
 Functions of President under subsec. (d) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under section 8925 of this title.
 
-## § 8926a. Supporting the identification and recovery of abducted Ukrainian children
+## § 8926a. Supporting the identification and recovery of abducted Ukrainian children
 
 **(a) Short title**
 
@@ -795,7 +795,7 @@ The Department of Justice is authorized to provide technical assistance, capacit
 
 **(B)** efforts made by the United States Government to better align such sanction regimes.
 
-(Pub. L. 119–60, div. H, title LXXXIII, § 8363, Dec. 18, 2025, 139 Stat. 1885.)
+(Pub. L. 119–60, div. H, title LXXXIII, § 8363, Dec. 18, 2025, 139 Stat. 1885.)
 
 **Editorial Notes**
 
@@ -803,7 +803,7 @@ The Department of Justice is authorized to provide technical assistance, capacit
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2026, and not as part of the Ukraine Freedom Support Act of 2014, which comprises this chapter.
 
-## § 8927. Expanded broadcasting in countries of the former Soviet Union
+## § 8927. Expanded broadcasting in countries of the former Soviet Union
 
 **(a) In general**
 
@@ -833,7 +833,7 @@ There are authorized to be appropriated to the Broadcasting Board of Governors $
 
 Amounts authorized to be appropriated pursuant to paragraph (1) shall supplement and not supplant other amounts made available for activities described in this section.
 
-(Pub. L. 113–272, § 8, Dec. 18, 2014, 128 Stat. 2964.)
+(Pub. L. 113–272, § 8, Dec. 18, 2014, 128 Stat. 2964.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -841,7 +841,7 @@ Amounts authorized to be appropriated pursuant to paragraph (1) shall supplement
 
 Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
-## § 8928. Support for Russian democracy and civil society organizations
+## § 8928. Support for Russian democracy and civil society organizations
 
 **(a) In general** The Secretary of State shall, directly or through nongovernmental or international organizations, such as the Organization for Security and Co-operation in Europe, the National Endowment for Democracy, and related organizations—
 
@@ -867,7 +867,7 @@ There are authorized to be appropriated to the Secretary of State $20,000,000 fo
 
 Any assistance provided pursuant to this section shall be conducted in as transparent of a manner as possible, consistent with the nature and goals of this section. The President shall provide a briefing on the activities funded by this section at the request of the committees specified in subsection (c).
 
-(Pub. L. 113–272, § 9, Dec. 18, 2014, 128 Stat. 2964.)
+(Pub. L. 113–272, § 9, Dec. 18, 2014, 128 Stat. 2964.)
 
 **Executive Documents**
 
@@ -875,7 +875,7 @@ Any assistance provided pursuant to this section shall be conducted in as transp
 
 Functions of President under subsec. (c) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under section 8925 of this title.
 
-## § 8929. Report on non-compliance by the Russian Federation of its obligations under the INF Treaty
+## § 8929. Report on non-compliance by the Russian Federation of its obligations under the INF Treaty
 
 **(a) Findings** Congress makes the following findings:
 
@@ -915,7 +915,7 @@ The reporting requirement under paragraph (1) shall be in effect so long as the 
 
 **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(Pub. L. 113–272, § 10, Dec. 18, 2014, 128 Stat. 2965; Pub. L. 116–92, div. A, title XII, § 1235(d), Dec. 20, 2019, 133 Stat. 1650.)
+(Pub. L. 113–272, § 10, Dec. 18, 2014, 128 Stat. 2965; Pub. L. 116–92, div. A, title XII, § 1235(d), Dec. 20, 2019, 133 Stat. 1650.)
 
 **Editorial Notes**
 
@@ -929,11 +929,11 @@ The reporting requirement under paragraph (1) shall be in effect so long as the 
 
 Functions of President under subsec. (c) of this section delegated to Secretary of State by Memorandum of President of the United States, Feb. 19, 2015, 80 F.R. 12071, set out as a note under section 8925 of this title.
 
-## § 8930. Rule of construction
+## § 8930. Rule of construction
 
 Nothing in this chapter shall be construed as an authorization for the use of military force.
 
-(Pub. L. 113–272, § 11, Dec. 18, 2014, 128 Stat. 2966.)
+(Pub. L. 113–272, § 11, Dec. 18, 2014, 128 Stat. 2966.)
 
 **Editorial Notes**
 

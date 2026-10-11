@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 6501. Purposes
+### § 6501. Purposes
 
 The purposes of this chapter are—
 
@@ -43,7 +43,7 @@ The purposes of this chapter are—
 
 **(6)** to encourage United States foreign affairs agencies to maintain a high percentage of the best qualified, most competent United States citizens serving in the United States Government.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XI, § 1102, Oct. 21, 1998, 112 Stat. 2681–765.)
+(Pub. L. 105–277, div. G, subdiv. A, title XI, § 1102, Oct. 21, 1998, 112 Stat. 2681–765.)
 
 **Editorial Notes**
 
@@ -55,11 +55,11 @@ This chapter, referred to in text, was in the original “this subdivision”, m
 
 **Short Title**
 
-Pub. L. 105–277, div. G, § 1001, Oct. 21, 1998, 112 Stat. 2681–761, provided that: “This division [see Tables for classification] may be cited as the ‘Foreign Affairs Reform and Restructuring Act of 1998’.”
+Pub. L. 105–277, div. G, § 1001, Oct. 21, 1998, 112 Stat. 2681–761, provided that: “This division [see Tables for classification] may be cited as the ‘Foreign Affairs Reform and Restructuring Act of 1998’.”
 
-Pub. L. 105–277, div. G, subdiv. A, title XI, § 1101, Oct. 21, 1998, 112 Stat. 2681–765, provided that: “This subdivision [see Tables for classification] may be cited as the ‘Foreign Affairs Agencies Consolidation Act of 1998’.”
+Pub. L. 105–277, div. G, subdiv. A, title XI, § 1101, Oct. 21, 1998, 112 Stat. 2681–765, provided that: “This subdivision [see Tables for classification] may be cited as the ‘Foreign Affairs Agencies Consolidation Act of 1998’.”
 
-### § 6502. Definitions
+### § 6502. Definitions
 
 In this chapter:
 
@@ -107,7 +107,7 @@ The term “Secretary” means the Secretary of State.
 
 The term “USIA” means the United States Information Agency.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XI, § 1103, Oct. 21, 1998, 112 Stat. 2681–766.)
+(Pub. L. 105–277, div. G, subdiv. A, title XI, § 1103, Oct. 21, 1998, 112 Stat. 2681–766.)
 
 **Editorial Notes**
 
@@ -121,7 +121,7 @@ This chapter, referred to in text, was in the original “this subdivision”, m
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-### § 6503. Report on budgetary cost savings resulting from reorganization
+### § 6503. Report on budgetary cost savings resulting from reorganization
 
 The Secretary of State shall submit a report, together with the congressional presentation document for the budget of the Department of State for each of the fiscal years 2000 and 2001, to the appropriate congressional committees describing the total anticipated and achieved cost savings in budget outlays and budget authority related to the reorganization implemented under this chapter, including cost savings by each of the following categories:
 
@@ -133,7 +133,7 @@ The Secretary of State shall submit a report, together with the congressional pr
 
 **(4)** Consolidation of real properties and leases.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XI, § 1104, Oct. 21, 1998, 112 Stat. 2681–767.)
+(Pub. L. 105–277, div. G, subdiv. A, title XI, § 1104, Oct. 21, 1998, 112 Stat. 2681–767.)
 
 **Editorial Notes**
 
@@ -145,17 +145,17 @@ This chapter, referred to in text, was in the original “this subdivision”, m
 
 ### Part A—Abolition and Transfer of Functions
 
-#### § 6511. Abolition of United States Arms Control and Disarmament Agency
+#### § 6511. Abolition of United States Arms Control and Disarmament Agency
 
 The United States Arms Control and Disarmament Agency is abolished.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XII, § 1211, Oct. 21, 1998, 112 Stat. 2681–767.)
+(Pub. L. 105–277, div. G, subdiv. A, title XII, § 1211, Oct. 21, 1998, 112 Stat. 2681–767.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–277, div. G, subdiv. A, title XII, § 1201, Oct. 21, 1998, 112 Stat. 2681–767, provided that:
+Pub. L. 105–277, div. G, subdiv. A, title XII, § 1201, Oct. 21, 1998, 112 Stat. 2681–767, provided that:
 
 > “This title [see Tables for classification], and the amendments made by this title, shall take effect on the earlier of—
 
@@ -163,11 +163,11 @@ Pub. L. 105–277, div. G, subdiv. A, title XII, § 1201, Oct. 21, 1998, 112 S
 
 > **“(2)** the date of abolition [Apr. 1, 1999] of the United States Arms Control and Disarmament Agency pursuant to the reorganization plan described in section 1601 [22 U.S.C. 6601].”
 
-#### § 6512. Transfer of functions to Secretary of State
+#### § 6512. Transfer of functions to Secretary of State
 
 There are transferred to the Secretary of State all functions of the Director of the United States Arms Control and Disarmament Agency, and all functions of the United States Arms Control and Disarmament Agency and any office or component of such agency, under any statute, reorganization plan, Executive order, or other provision of law, as of the day before the effective date of this subchapter.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XII, § 1212, Oct. 21, 1998, 112 Stat. 2681–767.)
+(Pub. L. 105–277, div. G, subdiv. A, title XII, § 1212, Oct. 21, 1998, 112 Stat. 2681–767.)
 
 **Editorial Notes**
 
@@ -177,7 +177,7 @@ For the effective date of this subchapter, referred to in text, meaning the effe
 
 ### Part B—Miscellaneous Provisions
 
-#### § 6521. References
+#### § 6521. References
 
 Except as otherwise provided in section 1223 or 1225, any reference in any statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding to—
 
@@ -185,7 +185,7 @@ Except as otherwise provided in section 1223 or 1225, any reference in any statu
 
 **(2)** the United States Arms Control and Disarmament Agency or the Arms Control and Disarmament Agency shall be deemed to refer to the Department of State.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XII, § 1221, Oct. 21, 1998, 112 Stat. 2681–768.)
+(Pub. L. 105–277, div. G, subdiv. A, title XII, § 1221, Oct. 21, 1998, 112 Stat. 2681–768.)
 
 **Editorial Notes**
 
@@ -199,11 +199,11 @@ Section 1225, referred to in text, is section 1225 of title XII of subdiv. A of 
 
 ### Part A—Abolition and Transfer of Functions
 
-#### § 6531. Abolition of United States Information Agency
+#### § 6531. Abolition of United States Information Agency
 
 The United States Information Agency (other than the Broadcasting Board of Governors and the International Broadcasting Bureau) is abolished.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1311, Oct. 21, 1998, 112 Stat. 2681–776.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1311, Oct. 21, 1998, 112 Stat. 2681–776.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -213,7 +213,7 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 **Effective Date**
 
-Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1301, Oct. 21, 1998, 112 Stat. 2681–776, provided that:
+Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1301, Oct. 21, 1998, 112 Stat. 2681–776, provided that:
 
 > “This title [see Tables for classification], and the amendments made by this title, shall take effect on the earlier of—
 
@@ -221,7 +221,7 @@ Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1301, Oct. 21, 1998, 112 
 
 > **“(2)** the date of abolition [Oct. 1, 1999] of the United States Information Agency pursuant to the reorganization plan described in section 1601 [22 U.S.C. 6601].”
 
-#### § 6532. Transfer of functions
+#### § 6532. Transfer of functions
 
 **(a) In general**
 
@@ -231,7 +231,7 @@ There are transferred to the Secretary of State all functions of the Director of
 
 Subsection (a) does not apply to the Broadcasting Board of Governors, the International Broadcasting Bureau, or any function performed by the Board or the Bureau.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1312, Oct. 21, 1998, 112 Stat. 2681–776.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1312, Oct. 21, 1998, 112 Stat. 2681–776.)
 
 **Editorial Notes**
 
@@ -245,7 +245,7 @@ For the effective date of this subchapter, referred to in subsec. (a), meaning t
 
 Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
-#### § 6533. Abolition of Office of Inspector General of United States Information Agency and transfer of functions
+#### § 6533. Abolition of Office of Inspector General of United States Information Agency and transfer of functions
 
 **(a) Abolition of Office**
 
@@ -257,7 +257,7 @@ The Office of Inspector General of the United States Information Agency is aboli
 
 There are transferred to the Office of the Inspector General of the Department of State and the Foreign Service the functions that the Office of Inspector General of the United States Information Agency exercised before the effective date of this subchapter (including all related functions of the Inspector General of the United States Information Agency).
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1314, Oct. 21, 1998, 112 Stat. 2681–776.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1314, Oct. 21, 1998, 112 Stat. 2681–776.)
 
 **Editorial Notes**
 
@@ -271,7 +271,7 @@ Section is comprised of section 1314 of Pub. L. 105–277. Subsec. (b) of sectio
 
 ### Part B—International Broadcasting
 
-#### § 6541. Congressional findings and declaration of purpose
+#### § 6541. Congressional findings and declaration of purpose
 
 Congress finds that—
 
@@ -283,17 +283,17 @@ Congress finds that—
 
 **(4)** international broadcasting is, and should remain, an essential instrument of United States foreign policy.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1321, Oct. 21, 1998, 112 Stat. 2681–777.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1321, Oct. 21, 1998, 112 Stat. 2681–777.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in par. (3), was in the original “this chapter”, meaning chapter 3 (§§ 1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
+This part, referred to in par. (3), was in the original “this chapter”, meaning chapter 3 (§§ 1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
 
-The United States International Broadcasting Act of 1994, referred to in par. (3), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The United States International Broadcasting Act of 1994, referred to in par. (3), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-#### § 6542. Transfer of broadcasting related funds, property, and personnel
+#### § 6542. Transfer of broadcasting related funds, property, and personnel
 
 **(a) Transfer and allocation of property and appropriations**
 
@@ -319,13 +319,13 @@ USIA personnel responsible for carrying out interactive dialogs with foreign med
 
 The Director of the Office of Management and Budget, when requested by the Broadcasting Board of Governors, is authorized to make such incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with functions and offices transferred from USIA, as may be necessary to carry out the provisions of this section.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1326, Oct. 21, 1998, 112 Stat. 2681–782.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1326, Oct. 21, 1998, 112 Stat. 2681–782.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in subsecs. (a) and (b), was in the original “this chapter”, meaning chapter 3 (§§ 1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
+This part, referred to in subsecs. (a) and (b), was in the original “this chapter”, meaning chapter 3 (§§ 1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -333,7 +333,7 @@ This part, referred to in subsecs. (a) and (b), was in the original “this chap
 
 Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
-#### § 6543. Savings provisions
+#### § 6543. Savings provisions
 
 **(a) Continuing legal force and effect** All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
 
@@ -379,7 +379,7 @@ Any administrative action relating to the preparation or promulgation of a regul
 
 Reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to the Broadcasting Board of Governors of the United States Information Agency with regard to functions exercised before the effective date of this subchapter, shall be deemed to refer to the Board.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1327, Oct. 21, 1998, 112 Stat. 2681–783.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1327, Oct. 21, 1998, 112 Stat. 2681–783.)
 
 **Editorial Notes**
 
@@ -387,7 +387,7 @@ Reference in any other Federal law, Executive order, rule, regulation, or delega
 
 For the effective date of this subchapter, referred to in subsecs. (a), (b)(1), (d)(1), (e), and (f), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under section 6531 of this title.
 
-This part, referred to in subsecs. (b) to (e), was in the original “this chapter”, meaning chapter 3 (§§ 1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
+This part, referred to in subsecs. (b) to (e), was in the original “this chapter”, meaning chapter 3 (§§ 1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -395,7 +395,7 @@ This part, referred to in subsecs. (b) to (e), was in the original “this chapt
 
 Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
-#### § 6544. Report on privatization of RFE/RL, Incorporated
+#### § 6544. Report on privatization of RFE/RL, Incorporated
 
 Not later than March 1 of each year, the Broadcasting Board of Governors shall submit to the appropriate congressional committees a report on the progress of the Board and of RFE/RL, Incorporated, on any steps taken to further the policy declared in section 6211(a) of this title. The report under this subsection shall include the following:
 
@@ -407,7 +407,7 @@ Not later than March 1 of each year, the Broadcasting Board of Governors shall s
 
 **(4)** An assessment of the extent to which United States Government funding may be appropriate in the year 2000 and subsequent years for surrogate broadcasting to the countries to which RFE/RL, Incorporated, broadcast during the year. This assessment shall include an analysis of the environment for independent media in those countries, noting the extent of government control of the media, the ability of independent journalists and news organizations to operate, relevant domestic legislation, level of government harassment and efforts to censor, and other indications of whether the people of such countries enjoy freedom of expression.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1328, Oct. 21, 1998, 112 Stat. 2681–784.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1328, Oct. 21, 1998, 112 Stat. 2681–784.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -417,7 +417,7 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 ### Part C—Conforming Amendments
 
-#### § 6551. References
+#### § 6551. References
 
 **(a) In general** Except as otherwise provided in this chapter, any reference in any statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding to—
 
@@ -429,7 +429,7 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 Subsection (a) shall not apply to section 4069a(f), 4069b(g), or 4069c(f) of this title.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1331, Oct. 21, 1998, 112 Stat. 2681–785.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1331, Oct. 21, 1998, 112 Stat. 2681–785.)
 
 **Editorial Notes**
 
@@ -439,7 +439,7 @@ This chapter, referred to in subsec. (a), was in the original “this subdivisio
 
 Section 4069a(f), 4069b(g), or 4069c(f) of this title, referred to in subsec. (b), was in the original “section 146(a), (b), or (c) of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991” meaning section 146(a), (b), (c) of Pub. L. 101–246, title I, Feb. 16, 1990, 104 Stat. 37, which amended sections 830, 831, and 832, respectively, of the Foreign Service Act of 1980, by adding subsecs. (f), (g), and (f), respectively, to those sections which are classified to sections 4069a(f), 4069b(g), and 4069c(f) of this title.
 
-#### § 6552. Application of certain laws
+#### § 6552. Application of certain laws
 
 **(a) Application to functions of Department of State**
 
@@ -469,7 +469,7 @@ Section 1461 of this title, section 1461–1 of this title, and section 1461–1
 
 **(2)** the amount of funds allocated to and the positions authorized for such public diplomacy programs, including bureaus to be created upon the transfer of functions from USIA to the Department.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1333, Oct. 21, 1998, 112 Stat. 2681–785; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 304], Nov. 29, 1999, 113 Stat. 1536, 1501A–434.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1333, Oct. 21, 1998, 112 Stat. 2681–785; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 304], Nov. 29, 1999, 113 Stat. 1536, 1501A–434.)
 
 **Editorial Notes**
 
@@ -479,13 +479,13 @@ This chapter, referred to in subsecs. (a), (b), and (d), was in the original “
 
 **Amendments**
 
-1999—Subsec. (c). Pub. L. 106–113 designated existing provisions as par. (1), inserted “, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e), or reprogrammed for public diplomacy purposes,” after “diplomacy programs”, and added par. (2).
+1999—Subsec. (c). Pub. L. 106–113 designated existing provisions as par. (1), inserted “, identified as public diplomacy funds in any Congressional Presentation Document described in subsection (e), or reprogrammed for public diplomacy purposes,” after “diplomacy programs”, and added par. (2).
 
-#### § 6553. Continuation of United States Advisory Commission on Public Diplomacy
+#### § 6553. Continuation of United States Advisory Commission on Public Diplomacy
 
 The United States Advisory Commission on Public Diplomacy, established under section 1469 of this title and section 8 of Reorganization Plan Numbered 2 of 1977, shall continue to exist and operate under such provisions of law.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1334, Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–446; Pub. L. 107–77, title IV, § 407(a), Nov. 28, 2001, 115 Stat. 790; Pub. L. 109–108, title IV, § 410, Nov. 22, 2005, 119 Stat. 2327; Pub. L. 110–21, § 1, May 2, 2007, 121 Stat. 87; Pub. L. 111–70, § 1, Oct. 9, 2009, 123 Stat. 2057; Pub. L. 112–239, div. A, title XII, § 1280(d)(1), Jan. 2, 2013, 126 Stat. 2033; Pub. L. 114–323, title VII, § 702(a), Dec. 16, 2016, 130 Stat. 1940; Pub. L. 116–159, div. A, § 168, Oct. 1, 2020, 134 Stat. 723; Pub. L. 117–81, div. E, title LVI, § 5604, Dec. 27, 2021, 135 Stat. 2379.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1334, Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–446; Pub. L. 107–77, title IV, § 407(a), Nov. 28, 2001, 115 Stat. 790; Pub. L. 109–108, title IV, § 410, Nov. 22, 2005, 119 Stat. 2327; Pub. L. 110–21, § 1, May 2, 2007, 121 Stat. 87; Pub. L. 111–70, § 1, Oct. 9, 2009, 123 Stat. 2057; Pub. L. 112–239, div. A, title XII, § 1280(d)(1), Jan. 2, 2013, 126 Stat. 2033; Pub. L. 114–323, title VII, § 702(a), Dec. 16, 2016, 130 Stat. 1940; Pub. L. 116–159, div. A, § 168, Oct. 1, 2020, 134 Stat. 723; Pub. L. 117–81, div. E, title LVI, § 5604, Dec. 27, 2021, 135 Stat. 2379.)
 
 **Editorial Notes**
 
@@ -517,29 +517,29 @@ Section 8 of Reorganization Plan Numbered 2 of 1977, referred to in text, is set
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–323, title VII, § 702(b), Dec. 16, 2016, 130 Stat. 1940, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 2016. Any lapse in powers, authorities, or responsibilities of the United States Advisory Commission on Public Diplomacy from the period beginning on October 1, 2016, and ending on the date of the enactment of this Act [Dec. 16, 2016], shall be deemed to have not so lapsed.”
+Pub. L. 114–323, title VII, § 702(b), Dec. 16, 2016, 130 Stat. 1940, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 2016. Any lapse in powers, authorities, or responsibilities of the United States Advisory Commission on Public Diplomacy from the period beginning on October 1, 2016, and ending on the date of the enactment of this Act [Dec. 16, 2016], shall be deemed to have not so lapsed.”
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title XII, § 1280(d)(2), Jan. 2, 2013, 126 Stat. 2033, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2010.”
+Pub. L. 112–239, div. A, title XII, § 1280(d)(2), Jan. 2, 2013, 126 Stat. 2033, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on October 1, 2010.”
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–77, title IV, § 407(b), Nov. 28, 2001, 115 Stat. 790, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001 [H.R. 3427, as enacted by Pub. L. 106-113, div. B, § 1000(a)(7)].”
+Pub. L. 107–77, title IV, § 407(b), Nov. 28, 2001, 115 Stat. 790, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001 [H.R. 3427, as enacted by Pub. L. 106-113, div. B, § 1000(a)(7)].”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of the Foreign Affairs Reform and Restructuring Act of 1998 [Pub. L. 105–277, div. G, see Short Title note set out under section 6501 of this title].”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title IV, § 404(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of the Foreign Affairs Reform and Restructuring Act of 1998 [Pub. L. 105–277, div. G, see Short Title note set out under section 6501 of this title].”
 
 **Continuation of United States Advisory Commission on Public Diplomacy**
 
-Pub. L. 114–113, div. K, title VII, § 7034(k)(12), Dec. 18, 2015, 129 Stat. 2766, provided that: “Section 1334 of the Foreign Affairs Reform and Restructuring Act of 1998 (22 U.S.C. 6553) shall be applied by substituting ‘September 30, 2016’ for ‘October 1, 2015’.”
+Pub. L. 114–113, div. K, title VII, § 7034(k)(12), Dec. 18, 2015, 129 Stat. 2766, provided that: “Section 1334 of the Foreign Affairs Reform and Restructuring Act of 1998 (22 U.S.C. 6553) shall be applied by substituting ‘September 30, 2016’ for ‘October 1, 2015’.”
 
 ## SUBCHAPTER IV—UNITED STATES INTERNATIONAL DEVELOPMENT COOPERATION AGENCY
 
 ### Part A—Abolition and Transfer of Functions
 
-#### § 6561. Abolition of United States International Development Cooperation Agency
+#### § 6561. Abolition of United States International Development Cooperation Agency
 
 **(a) In general**
 
@@ -549,13 +549,13 @@ Except for the components specified in subsection (b), the United States Interna
 
 Subsection (a) does not apply to the Agency for International Development or the Overseas Private Investment Corporation.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1411, Oct. 21, 1998, 112 Stat. 2681–790.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1411, Oct. 21, 1998, 112 Stat. 2681–790.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1401, Oct. 21, 1998, 112 Stat. 2681–790, provided that:
+Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1401, Oct. 21, 1998, 112 Stat. 2681–790, provided that:
 
 > “This title [see Tables for classification], and the amendments made by this title, shall take effect on the earlier of—
 
@@ -567,7 +567,7 @@ Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1401, Oct. 21, 1998, 112 S
 
 For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.
 
-#### § 6562. Transfer of functions and authorities
+#### § 6562. Transfer of functions and authorities
 
 **(a) Allocation of funds**
 
@@ -587,17 +587,17 @@ There are transferred to the Administrator of the Agency for International Devel
 
 The authorities and functions transferred to the United States International Development Cooperation Agency or the Director of that Agency by section 6 of Reorganization Plan Numbered 2 of 1979 shall, to the extent such authorities and functions have not been repealed, be transferred to those agencies or heads of agencies, as the case may be, in which those authorities and functions were vested by statute as of the day before the effective date of such reorganization plan.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1412, Oct. 21, 1998, 112 Stat. 2681–790.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1412, Oct. 21, 1998, 112 Stat. 2681–790.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Executive Order No. 12163, referred to in subsec. (a), is Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, which is set out as a note under section 2381 of this title. Section 1–801 of Ex. Ord. No. 12163 was deleted in the general amendment of Part 1–8 of Ex. Ord. No. 12163 by Ex. Ord. No. 13118, § 8, Mar. 31, 1999, 64 F.R. 16597.
+Executive Order No. 12163, referred to in subsec. (a), is Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, which is set out as a note under section 2381 of this title. Section 1–801 of Ex. Ord. No. 12163 was deleted in the general amendment of Part 1–8 of Ex. Ord. No. 12163 by Ex. Ord. No. 13118, § 8, Mar. 31, 1999, 64 F.R. 16597.
 
 For the effective date of this subchapter, referred to in subsecs. (a)(1) and (b), meaning the effective date of title XIV of subdiv. A of div. G of Pub. L. 105–277, see section 1401 of Pub. L. 105–277, set out as a note under section 6561 of this title.
 
-Reorganization Plan Numbered 2 of 1979, referred to in subsec. (c), is Reorg. Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, effective Oct. 1, 1979, pursuant to Ex. Ord. No. 12163, which was set out as a note under section 2381 of this title, prior to repeal by Pub. L. 105–277, div. G, subdiv. A, title XIV, §§ 1401, 1422(a)(1), Oct. 21, 1998, 112 Stat. 2681–790, 2681–792.
+Reorganization Plan Numbered 2 of 1979, referred to in subsec. (c), is Reorg. Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, effective Oct. 1, 1979, pursuant to Ex. Ord. No. 12163, which was set out as a note under section 2381 of this title, prior to repeal by Pub. L. 105–277, div. G, subdiv. A, title XIV, §§ 1401, 1422(a)(1), Oct. 21, 1998, 112 Stat. 2681–790, 2681–792.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -605,7 +605,7 @@ Reorganization Plan Numbered 2 of 1979, referred to in subsec. (c), is Reorg. Pl
 
 For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of this title.
 
-#### § 6563. Status of AID
+#### § 6563. Status of AID
 
 **(a) In general**
 
@@ -615,7 +615,7 @@ Unless abolished pursuant to the reorganization plan submitted under section 660
 
 Nothing in this section shall require the reappointment of any officer of the United States serving in the Agency for International Development of the United States International Development Cooperation Agency as of the day before the effective date of this subchapter.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1413, Oct. 21, 1998, 112 Stat. 2681–791.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1413, Oct. 21, 1998, 112 Stat. 2681–791.)
 
 **Editorial Notes**
 
@@ -625,7 +625,7 @@ For the effective date of this subchapter, referred to in subsec. (b), meaning t
 
 ### Part B—Miscellaneous Provisions
 
-#### § 6571. References
+#### § 6571. References
 
 Except as otherwise provided in this chapter, any reference in any statute, reorganization plan, Executive order, regulation, agreement, determination, or other official document or proceeding to the United States International Development Cooperation Agency (IDCA) or to the Director or any other officer or employee of IDCA—
 
@@ -637,7 +637,7 @@ Except as otherwise provided in this chapter, any reference in any statute, reor
 
 **(4)** insofar as such reference relates to any function or authority not transferred by this subchapter, shall be deemed to refer to the President or such agency or agencies as may be specified by Executive order.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1421, Oct. 21, 1998, 112 Stat. 2681–791.)
+(Pub. L. 105–277, div. G, subdiv. A, title XIV, § 1421, Oct. 21, 1998, 112 Stat. 2681–791.)
 
 **Editorial Notes**
 
@@ -651,7 +651,7 @@ This subchapter, referred to in par. (4), was in the original “this title”, 
 
 ### Part A—Reorganization and Transfer of Functions
 
-#### § 6581. Reorganization of Agency for International Development
+#### § 6581. Reorganization of Agency for International Development
 
 **(a) In general**
 
@@ -663,7 +663,7 @@ The Agency for International Development shall be reorganized in accordance with
 
 **(2)** Certain administrative functions.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XV, § 1511, Oct. 21, 1998, 112 Stat. 2681–793.)
+(Pub. L. 105–277, div. G, subdiv. A, title XV, § 1511, Oct. 21, 1998, 112 Stat. 2681–793.)
 
 **Editorial Notes**
 
@@ -675,7 +675,7 @@ This chapter, referred to in subsec. (a), was in the original “this subdivisio
 
 **Effective Date**
 
-Pub. L. 105–277, div. G, subdiv. A, title XV, § 1501, Oct. 21, 1998, 112 Stat. 2681–793, provided that:
+Pub. L. 105–277, div. G, subdiv. A, title XV, § 1501, Oct. 21, 1998, 112 Stat. 2681–793, provided that:
 
 > “This title [enacting this subchapter], and the amendments made by this title, shall take effect on the earlier of—
 
@@ -685,7 +685,7 @@ Pub. L. 105–277, div. G, subdiv. A, title XV, § 1501, Oct. 21, 1998, 112 St
 
 ### Part B—Authorities of Secretary of State
 
-#### § 6591. “United States assistance” defined
+#### § 6591. “United States assistance” defined
 
 In this part, the term “United States assistance” means development and other economic assistance, including assistance made available under the following provisions of law:
 
@@ -699,23 +699,23 @@ In this part, the term “United States assistance” means development and othe
 
 **(5)** The Support for East European Democracy Act (22 U.S.C. 5401 et seq.).
 
-(Pub. L. 105–277, div. G, subdiv. A, title XV, § 1521, Oct. 21, 1998, 112 Stat. 2681–794.)
+(Pub. L. 105–277, div. G, subdiv. A, title XV, § 1521, Oct. 21, 1998, 112 Stat. 2681–794.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in pars. (1) to (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapters 1, 10, and 11 of part I of the Act are classified generally to parts I (§ 2151 et seq.), X (§ 2293 et seq.), and XI (§ 2295 et seq.), respectively, of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in pars. (1) to (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapters 1, 10, and 11 of part I of the Act are classified generally to parts I (§ 2151 et seq.), X (§ 2293 et seq.), and XI (§ 2295 et seq.), respectively, of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of this title, see section 2293(d)(1) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Support for East European Democracy Act, referred to in par. (5), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to chapter 63 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+The Support for East European Democracy Act, referred to in par. (5), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to chapter 63 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
-#### § 6592. Administrator of AID reporting to Secretary of State
+#### § 6592. Administrator of AID reporting to Secretary of State
 
 The Administrator of the Agency for International Development, appointed pursuant to section 2384(a) of this title, shall report to and be under the direct authority and foreign policy guidance of the Secretary of State.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XV, § 1522, Oct. 21, 1998, 112 Stat. 2681–794.)
+(Pub. L. 105–277, div. G, subdiv. A, title XV, § 1522, Oct. 21, 1998, 112 Stat. 2681–794.)
 
-#### § 6593. Assistance programs coordination and oversight
+#### § 6593. Assistance programs coordination and oversight
 
 **(a) Authority of Secretary of State**
 
@@ -753,21 +753,21 @@ Nothing in this section may be construed to lessen the accountability of any Fed
 
 The Administrator of the Agency for International Development is authorized to detail to the Department of State on a nonreimbursable basis such personnel employed by the Agency as the Secretary of State may require to carry out this section.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XV, § 1523, Oct. 21, 1998, 112 Stat. 2681–794.)
+(Pub. L. 105–277, div. G, subdiv. A, title XV, § 1523, Oct. 21, 1998, 112 Stat. 2681–794.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (b)(2), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(2), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 ## SUBCHAPTER VI—TRANSITION
 
 ### Part A—Reorganization Plan
 
-#### § 6601. Reorganization plan and report
+#### § 6601. Reorganization plan and report
 
 **(a) Submission of plan and report** Not later than 60 days after October 21, 1998, the President shall transmit to the appropriate congressional committees a reorganization plan and report regarding—
 
@@ -871,7 +871,7 @@ Paragraph (1) shall apply notwithstanding section 905(b) of title 5.
 
 The reorganization plan described in this section shall be printed in the Federal Register after the date upon which it first becomes effective.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1601, Oct. 21, 1998, 112 Stat. 2681–795.)
+(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1601, Oct. 21, 1998, 112 Stat. 2681–795.)
 
 **Editorial Notes**
 
@@ -897,7 +897,7 @@ William J. Clinton.
 
 ### Part B—Reorganization Authority
 
-#### § 6611. Reorganization authority
+#### § 6611. Reorganization authority
 
 **(a) In general**
 
@@ -915,7 +915,7 @@ The Secretary is authorized, subject to the requirements of this chapter, to all
 
 **(5)** increasing the term of an office beyond that provided by law for the office.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1611, Oct. 21, 1998, 112 Stat. 2681–798.)
+(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1611, Oct. 21, 1998, 112 Stat. 2681–798.)
 
 **Editorial Notes**
 
@@ -923,7 +923,7 @@ The Secretary is authorized, subject to the requirements of this chapter, to all
 
 This chapter, referred to in subsec. (a), was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
-#### § 6612. Transfer and allocation of appropriations
+#### § 6612. Transfer and allocation of appropriations
 
 **(a) In general**
 
@@ -943,7 +943,7 @@ Funds transferred pursuant to subsection (a) may be available for the purposes o
 
 Funds in any account appropriated to the Department of State may be transferred to another such account for the purposes of reorganization, subject to notification of the appropriate congressional committees in accordance with the procedures applicable to a reprogramming of funds under section 2706 of this title. The authority in this paragraph is in addition to any other transfer authority available to the Secretary of State and shall expire September 30, 2000.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1612, Oct. 21, 1998, 112 Stat. 2681–798.)
+(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1612, Oct. 21, 1998, 112 Stat. 2681–798.)
 
 **Editorial Notes**
 
@@ -951,7 +951,7 @@ Funds in any account appropriated to the Department of State may be transferred 
 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
-#### § 6613. Transfer, appointment, and assignment of personnel
+#### § 6613. Transfer, appointment, and assignment of personnel
 
 **(a) Transfer of personnel from ACDA and USIA** Except as otherwise provided in subchapter III—
 
@@ -973,7 +973,7 @@ The Secretary, for a period of not more than 6 months commencing on the effectiv
 
 Subsections (a) through (c) shall be exercised notwithstanding any other provision of law.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1613, Oct. 21, 1998, 112 Stat. 2681–799; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 341], Nov. 29, 1999, 113 Stat. 1536, 1501A–444.)
+(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1613, Oct. 21, 1998, 112 Stat. 2681–799; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 341], Nov. 29, 1999, 113 Stat. 1536, 1501A–444.)
 
 **Editorial Notes**
 
@@ -991,11 +991,11 @@ Section 4102 of this title, referred to in subsec. (c), was in the original “s
 
 1999—Subsec. (c). Pub. L. 106–113 inserted after first sentence “In carrying out the reorganization under this Act, the Secretary shall ensure that the advances made in increasing the number and status of women and minorities within the foreign affairs agencies of the Federal Government, in terms of representation within the agencies as well as relative rank, are not undermined by discrimination within the newly reorganized Department of State.”
 
-#### § 6614. Incidental transfers
+#### § 6614. Incidental transfers
 
 The Director of the Office of Management and Budget, when requested by the Secretary, is authorized to make such incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of any subchapter of this chapter. The Director of the Office of Management and Budget, in consultation with the Secretary, shall provide for the termination of the affairs of all entities terminated by this chapter and for such further measures and dispositions as may be necessary to effectuate the purposes of any subchapter of this chapter.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1614, Oct. 21, 1998, 112 Stat. 2681–799.)
+(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1614, Oct. 21, 1998, 112 Stat. 2681–799.)
 
 **Editorial Notes**
 
@@ -1003,7 +1003,7 @@ The Director of the Office of Management and Budget, when requested by the Secre
 
 This chapter, referred to in text, was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
-#### § 6615. Savings provisions
+#### § 6615. Savings provisions
 
 **(a) Continuing legal force and effect** All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—
 
@@ -1049,7 +1049,7 @@ If, before the effective date of any subchapter of this chapter, any Federal age
 
 Orders and actions of the Secretary in the exercise of functions transferred under any subchapter of this chapter shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been by the Federal agency or office, or part thereof, exercising such functions immediately preceding their transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by any subchapter of this chapter shall apply to the exercise of such function by the Secretary.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1615, Oct. 21, 1998, 112 Stat. 2681–800.)
+(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1615, Oct. 21, 1998, 112 Stat. 2681–800.)
 
 **Editorial Notes**
 
@@ -1059,11 +1059,11 @@ This chapter, referred to in text, was in the original “this subdivision”, m
 
 The effective dates of the respective subchapters of this chapter, referred to in subsecs. (a)(2), (b)(1), (c)(1), and (e), was in the original, references to the effective dates of the respective titles of this subdivision, meaning the effective dates of titles XI to XVI of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 765. Titles XI and XVI of subdiv. A of div. G of Pub. L. 105–277 are effective Oct. 21, 1998. For the effective dates of titles XII, XIII, XIV, and XV of subdiv. A of div. G of Pub. L. 105–277, see sections 1201, 1301, 1401, and 1501, respectively, of div. G of Pub. L. 105–277, set out as notes under sections 6511, 6531, 6561, and 6581, respectively, of this title.
 
-#### § 6616. Authority of Secretary of State to facilitate transition
+#### § 6616. Authority of Secretary of State to facilitate transition
 
 Notwithstanding any provision of this chapter, the Secretary of State, with the concurrence of the head of the appropriate Federal agency exercising functions transferred under this chapter, may transfer the whole or part of such functions prior to the effective dates established in this chapter, including the transfer of personnel and funds associated with such functions.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1616, Oct. 21, 1998, 112 Stat. 2681–801.)
+(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1616, Oct. 21, 1998, 112 Stat. 2681–801.)
 
 **Editorial Notes**
 
@@ -1071,11 +1071,11 @@ Notwithstanding any provision of this chapter, the Secretary of State, with the 
 
 This chapter, referred to in text, was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
-#### § 6617. Final report
+#### § 6617. Final report
 
 Not later than January 1, 2001, the President, in consultation with the Secretary of the Treasury and the Director of the Office of Management and Budget, shall submit to the appropriate congressional committees a report which provides a final accounting of the finances and operations of the agencies abolished under this chapter.
 
-(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1617, Oct. 21, 1998, 112 Stat. 2681–801.)
+(Pub. L. 105–277, div. G, subdiv. A, title XVI, § 1617, Oct. 21, 1998, 112 Stat. 2681–801.)
 
 **Editorial Notes**
 

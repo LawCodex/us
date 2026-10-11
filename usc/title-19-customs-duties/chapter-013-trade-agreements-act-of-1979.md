@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 13—TRADE AGREEMENTS ACT OF 1979
 
-## § 2501. Short title
+## § 2501. Short title
 
 This Act may be cited as the “Trade Agreements Act of 1979”.
 
-(Pub. L. 96–39, § 1(a), July 26, 1979, 93 Stat. 144.)
+(Pub. L. 96–39, § 1(a), July 26, 1979, 93 Stat. 144.)
 
 **Editorial Notes**
 
@@ -27,7 +27,7 @@ This Act may be cited as the “Trade Agreements Act of 1979”.
 
 This Act, referred to in text, is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, which enacted this chapter and sections 1516a, 1671 to 1671f, 1673 to 1673i, 1675, 1677 to 1677g, and 2413 to 2416 of this title, amended the Tariff Schedules, and sections 1303, 1311, 1315, 1332, 1336, 1337, 1351, 1401a, 1466, 1500, 1514 to 1516, 1872, 2033, 2112, 2119, 2131, 2155, 2192, 2194, 2211, 2251, 2253, 2411, 2412, 2432, 2434, 2435, 2462 to 2464, 2481, and 2486 of this title, section 5315 of Title 5, Government Organization and Employees, section 301 of Title 13, Census, sections 993, 5001 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of Title 26, Internal Revenue Code, and sections 1541, 1582, 2632, and 2633, and 2637 of Title 28, Judiciary and Judicial Procedure, repealed sections 160 to 171 and 1402 of this title and sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of Title 26, enacted provisions set out as notes under sections 160, 1202, 1303, 1311, 1401a, 1516a, 1671, 2111, 2112, 2119, 2135, 2464, 2511, 2531, and 2581 of this title, section 301 of Title 13, and sections 1, 5001, 5061, 5171, and 5173 of Title 26, and amended provisions set out as notes in the Tariff Schedules and under section 2101 of this title. For complete classification of this Act to the Code, see Tables.
 
-## § 2502. Purposes
+## § 2502. Purposes
 
 The purposes of this Act are—
 
@@ -39,7 +39,7 @@ The purposes of this Act are—
 
 **(4)** to improve the rules of international trade and to provide for the enforcement of such rules, and for other purposes.
 
-(Pub. L. 96–39, § 1(c), July 26, 1979, 93 Stat. 146.)
+(Pub. L. 96–39, § 1(c), July 26, 1979, 93 Stat. 146.)
 
 **Editorial Notes**
 
@@ -47,9 +47,9 @@ The purposes of this Act are—
 
 This Act, referred to in provision preceding par. (1), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, known as the Trade Agreements Act of 1979. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 
-The Trade Act of 1974, referred to in par. (1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in par. (1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
-## § 2503. Approval of trade agreements
+## § 2503. Approval of trade agreements
 
 **(a) Approval of agreements and statements of administrative action**
 
@@ -67,13 +67,13 @@ In accordance with the provisions of sections 2112 and 2191 of this title, the C
 
 **(A)** has accepted the obligations of the agreement with respect to the United States, and
 
-**(B)** should not otherwise be denied the benefits of the agreement with respect to the United States because such country has not accorded adequate benefits, including substantially equal competitive opportunities for the commerce of the United States to the extent required under section 2136(c) 1
+**(B)** should not otherwise be denied the benefits of the agreement with respect to the United States because such country has not accorded adequate benefits, including substantially equal competitive opportunities for the commerce of the United States to the extent required under section 2136(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, to the United States.
 
-**(3) Limitation on acceptance concerning major industrial countries** The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c), unless he determines that each major industrial country (as defined in section 2136(d) <sup>1</sup> of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
+**(3) Limitation on acceptance concerning major industrial countries** The President may not accept an agreement described in paragraph (1), (2), (3), (4), (5), (6), (7), (9), (10), or (11) of subsection (c), unless he determines that each major industrial country (as defined in section 2136(d) <sup>1</sup> of this title) is also accepting the agreement. Notwithstanding the preceding sentence, the President may accept such an agreement, if he determines that only one major industrial country is not accepting that agreement and the acceptance of that agreement by that country is not essential to the effective operation of the agreement, and if—
 
 **(A)** that country is not a major factor in trade in the products covered by that agreement,
 
@@ -119,13 +119,13 @@ For purposes of this paragraph, the acceptance of an agreement by the European C
 
 **(14)** The Agreement with the Hungarian People’s Republic.
 
-(Pub. L. 96–39, § 2, July 26, 1979, 93 Stat. 147.)
+(Pub. L. 96–39, § 2, July 26, 1979, 93 Stat. 147.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2136(c) of this title, referred to in subsec. (b)(2)(B), was repealed, and section 2136(d) of this title, referred to in subsec. (b)(3), which defined the term “major industrial country” was redesignated section 2136(c), by Pub. L. 105–362, title XIV, § 1401(b)(1), Nov. 10, 1998, 112 Stat. 3294.
+Section 2136(c) of this title, referred to in subsec. (b)(2)(B), was repealed, and section 2136(d) of this title, referred to in subsec. (b)(3), which defined the term “major industrial country” was redesignated section 2136(c), by Pub. L. 105–362, title XIV, § 1401(b)(1), Nov. 10, 1998, 112 Stat. 3294.
 
 This Act, referred to in subsec. (c), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, known as the Trade Agreements Act of 1979. For complete classification of this Act to the Code, see References in Text note set out under section 2501 of this title and Tables.
 
@@ -133,7 +133,7 @@ This Act, referred to in subsec. (c), is Pub. L. 96–39, July 26, 1979, 93 Stat
 
 **Approval and Implementation of Protocol to the Trade Agreement Relating to Customs Valuation**
 
-Pub. L. 96–490, § 1, Dec. 2, 1980, 94 Stat. 2556, provided that:
+Pub. L. 96–490, § 1, Dec. 2, 1980, 94 Stat. 2556, provided that:
 
 > **“(a) Approval of Protocol.—** In accordance with the provisions of sections 102 and 151 of the Trade Act of 1974 (19 U.S.C. 2112 and 2191), the Congress approves—
 
@@ -259,7 +259,7 @@ e. In accordance with section 601(a) of the Trade Agreements Act of 1979 (93 Sta
 
 Jimmy Carter.
 
-## § 2504. Relationship of trade agreements to United States law
+## § 2504. Relationship of trade agreements to United States law
 
 **(a) United States statutes to prevail in conflict**
 
@@ -301,7 +301,7 @@ The President may make the same type of recommendations, in the same manner and 
 
 Neither the entry into force with respect to the United States of any agreement approved under section 2503(a) of this title, nor the enactment of this Act, shall be construed as creating any private right of action or remedy for which provision is not explicitly made under this Act or under the laws of the United States.
 
-(Pub. L. 96–39, § 3(a)–(c), (f), July 26, 1979, 93 Stat. 148–150.)
+(Pub. L. 96–39, § 3(a)–(c), (f), July 26, 1979, 93 Stat. 148–150.)
 
 **Editorial Notes**
 
@@ -321,7 +321,7 @@ Subsec. (c) of this section applicable as if United States-Canada Free-Trade Agr
 
 ## SUBCHAPTER I—GOVERNMENT PROCUREMENT
 
-### § 2511. General authority to modify discriminatory purchasing requirements
+### § 2511. General authority to modify discriminatory purchasing requirements
 
 **(a) Presidential waiver of discriminatory purchasing requirements** Subject to subsection (f) of this section, the President may waive, in whole or in part, with respect to eligible products of any foreign country or instrumentality designated under subsection (b), and suppliers of such products, the application of any law, regulation, procedure, or practice regarding Government procurement that would, if applied to such products and suppliers, result in treatment less favorable than that accorded—
 
@@ -353,29 +353,29 @@ Notwithstanding any other provision of law, the President may direct any agency 
 
 The authority of the President under subsection (a) of this section to waive any law, regulation, procedure, or practice regarding Government procurement does not authorize the waiver of any small business or minority preference.
 
-(Pub. L. 96–39, title III, § 301, July 26, 1979, 93 Stat. 236; Pub. L. 100–418, title VII, § 7005(e), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–182, title III, § 381(a), Dec. 8, 1993, 107 Stat. 2128; Pub. L. 116–113, title V, § 505(a), Jan. 29, 2020, 134 Stat. 77.)
+(Pub. L. 96–39, title III, § 301, July 26, 1979, 93 Stat. 236; Pub. L. 100–418, title VII, § 7005(e), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–182, title III, § 381(a), Dec. 8, 1993, 107 Stat. 2128; Pub. L. 116–113, title V, § 505(a), Jan. 29, 2020, 134 Stat. 77.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (b)(1). Pub. L. 116–113, § 505(a)(1), substituted “the USMCA (as defined in section 4502 of this title)” for “the North American Free Trade Agreement”.
+2020—Subsec. (b)(1). Pub. L. 116–113, § 505(a)(1), substituted “the USMCA (as defined in section 4502 of this title)” for “the North American Free Trade Agreement”.
 
-Subsec. (e). Pub. L. 116–113, § 505(a)(2), substituted “Annex 13–A of the USMCA (as defined in section 4502 of this title)” for “Annex 1001.1a–2 of the North American Free Trade Agreement” and “chapter 13 of the USMCA” for “chapter 10 of such Agreement”.
+Subsec. (e). Pub. L. 116–113, § 505(a)(2), substituted “Annex 13–A of the USMCA (as defined in section 4502 of this title)” for “Annex 1001.1a–2 of the North American Free Trade Agreement” and “chapter 13 of the USMCA” for “chapter 10 of such Agreement”.
 
-1993—Subsec. (a). Pub. L. 103–182, § 381(a)(1), substituted “Subject to subsection (f) of this section, the President” for “The President”.
+1993—Subsec. (a). Pub. L. 103–182, § 381(a)(1), substituted “Subject to subsection (f) of this section, the President” for “The President”.
 
-Subsec. (b)(1). Pub. L. 103–182, § 381(a)(2), inserted “or the North American Free Trade Agreement” after “the Agreement”.
+Subsec. (b)(1). Pub. L. 103–182, § 381(a)(2), inserted “or the North American Free Trade Agreement” after “the Agreement”.
 
-Subsecs. (e), (f). Pub. L. 103–182, § 381(a)(3), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 103–182, § 381(a)(3), added subsecs. (e) and (f).
 
-1988—Subsec. (d). Pub. L. 100–418, §§ 7004, 7005(e), temporarily added subsec. (d) which read as follows: “The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section.” See Effective and Termination Dates of 1988 Amendment note below.
+1988—Subsec. (d). Pub. L. 100–418, §§ 7004, 7005(e), temporarily added subsec. (d) which read as follows: “The authority of the President under subsection (a) of this section to waive any laws, regulation, procedure, or practice shall be effective notwithstanding any other provision of law hereafter enacted (excluding the provisions of and amendments made by the Buy American Act of 1988) unless such other provision specifically refers to and amends this section.” See Effective and Termination Dates of 1988 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–113, title V, § 505(c), Jan. 29, 2020, 134 Stat. 77, provided that:
+Pub. L. 116–113, title V, § 505(c), Jan. 29, 2020, 134 Stat. 77, provided that:
 
 > **“(1) In general.—** The amendments made by subsections (a) and (b) [amending this section and section 2518 of this title] shall—
 
@@ -393,17 +393,17 @@ Pub. L. 116–113, title V, § 505(c), Jan. 29, 2020, 134 Stat. 77, provided t
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–182, title III, § 381(e), Dec. 8, 1993, 107 Stat. 2129, which provided that subtitle G of title III of Pub. L. 103–182 would take effect on the date the North American Free Trade Agreement entered into force with respect to the United States (Jan. 1, 1994), was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title III, § 381(e), Dec. 8, 1993, 107 Stat. 2129, which provided that subtitle G of title III of Pub. L. 103–182 would take effect on the date the North American Free Trade Agreement entered into force with respect to the United States (Jan. 1, 1994), was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 **Effective and Termination Dates of 1988 Amendment**
 
-Pub. L. 100–418, title VII, § 7004, Aug. 23, 1988, 102 Stat. 1552, provided that: “The amendments made by this title [see Tables for classification] shall cease to be effective on April 30, 1996, unless the Congress, after reviewing the report required by section 305(k) of the Trade Agreements Act of 1979 [former 19 U.S.C. 2515(k)], and other relevant information, extends such date. After such date, the President may modify or terminate any or all actions taken pursuant to such amendments.”
+Pub. L. 100–418, title VII, § 7004, Aug. 23, 1988, 102 Stat. 1552, provided that: “The amendments made by this title [see Tables for classification] shall cease to be effective on April 30, 1996, unless the Congress, after reviewing the report required by section 305(k) of the Trade Agreements Act of 1979 [former 19 U.S.C. 2515(k)], and other relevant information, extends such date. After such date, the President may modify or terminate any or all actions taken pursuant to such amendments.”
 
-Pub. L. 100–418, title VII, § 7005(f), Aug. 23, 1988, 102 Stat. 1553, provided that: “The amendments made by this section [amending this section and sections 10a, 10b, 10c, and 10d of Title 41, Public Contracts] shall take effect upon enactment [Aug. 23, 1988].”
+Pub. L. 100–418, title VII, § 7005(f), Aug. 23, 1988, 102 Stat. 1553, provided that: “The amendments made by this section [amending this section and sections 10a, 10b, 10c, and 10d of Title 41, Public Contracts] shall take effect upon enactment [Aug. 23, 1988].”
 
 **Effective Date**
 
-Pub. L. 96–39, title III, § 309, July 26, 1979, 93 Stat. 241, provided that:
+Pub. L. 96–39, title III, § 309, July 26, 1979, 93 Stat. 241, provided that:
 
 > “The provisions of this title [this subchapter] shall be effective on the date of enactment of this Act [July 26, 1979], except that—
 
@@ -419,7 +419,7 @@ Functions of President under this section delegated to United States Trade Repre
 
 **Ex. Ord. No. 12260. Agreement on Government Procurement**
 
-Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, as amended by Ex. Ord. No. 12347, Feb. 23, 1982, 47 F.R. 8149; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12474, Apr. 17, 1984, 49 F.R. 15539; Ex. Ord. No. 13118, § 10(7), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, § 12, Jan. 23, 2003, 68 F.R. 4076, provided:
+Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, as amended by Ex. Ord. No. 12347, Feb. 23, 1982, 47 F.R. 8149; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12474, Apr. 17, 1984, 49 F.R. 15539; Ex. Ord. No. 13118, § 10(7), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, § 12, Jan. 23, 2003, 68 F.R. 4076, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Title III of the Trade Agreements Act of 1979 (19 U.S.C. 2511–2518), and Section 301 of Title 3 of the United States Code, and in order to implement the Agreement on Government Procurement, as defined in 19 U.S.C. 2518(1), it is hereby ordered as follows:
 
@@ -725,7 +725,7 @@ Construction contracts—$6,500,000
 
 [For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.]
 
-### § 2512. Authority to encourage reciprocal competitive procurement practices
+### § 2512. Authority to encourage reciprocal competitive procurement practices
 
 **(a) Authority to bar procurement from non-designated countries**
 
@@ -789,25 +789,25 @@ If the President determines that any changes in existing law or new statutory au
 
 The appropriate committee of each House of the Congress shall give a bill submitted pursuant to subparagraph (A) prompt consideration and shall make its best efforts to take final committee action on such bill in an expeditious manner.
 
-(Pub. L. 96–39, title III, § 302, July 26, 1979, 93 Stat. 236; Pub. L. 103–182, title III, § 381(b), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, § 343(a), (b), Dec. 8, 1994, 108 Stat. 4954, 4955.)
+(Pub. L. 96–39, title III, § 302, July 26, 1979, 93 Stat. 236; Pub. L. 103–182, title III, § 381(b), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, § 343(a), (b), Dec. 8, 1994, 108 Stat. 4954, 4955.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (c)(2)(B), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), commonly referred to as the Buy American Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(2)(B), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), commonly referred to as the Buy American Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–465, § 343(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “With respect to procurement covered by the Agreement, the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
+1994—Subsec. (a). Pub. L. 103–465, § 343(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “With respect to procurement covered by the Agreement, the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
 
 “(1) shall prohibit the procurement, after the date on which any waiver under section 2511(a) of this title first takes effect, of products (A) which are products of a foreign country or instrumentality which is not designated pursuant to section 2511(b) of this title, and (B) which are products covered under the Agreement for procurement by the United States; and
 
 “(2) may take such other actions within his authority as he deems necessary.”
 
-Subsec. (b). Pub. L. 103–465, § 343(b)(2), inserted concluding provisions.
+Subsec. (b). Pub. L. 103–465, § 343(b)(2), inserted concluding provisions.
 
-Subsec. (b)(1). Pub. L. 103–465, § 343(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “delay, for a period not to exceed two years, the prohibition of procurement, required pursuant to subsection (a)(1) of this section, of products of a foreign country or instrumentality which is not designated pursuant to section 2511(b) of this title, except that no such delay shall be granted with respect to the procurement of products of any major industrial country;”.
+Subsec. (b)(1). Pub. L. 103–465, § 343(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “delay, for a period not to exceed two years, the prohibition of procurement, required pursuant to subsection (a)(1) of this section, of products of a foreign country or instrumentality which is not designated pursuant to section 2511(b) of this title, except that no such delay shall be granted with respect to the procurement of products of any major industrial country;”.
 
 1993—Subsec. (a)(1). Pub. L. 103–182 substituted “are products covered under the Agreement for procurement by the United States” for “would otherwise be eligible products”.
 
@@ -821,9 +821,9 @@ Committee on Government Operations of House of Representatives treated as referr
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–465, title III, § 344, Dec. 8, 1994, 108 Stat. 4955, provided that:
+Pub. L. 103–465, title III, § 344, Dec. 8, 1994, 108 Stat. 4955, provided that:
 
-> **“(a) In General.—** Except as provided in subsection (b), the amendments made by this subtitle [subtitle E (§§ 341–344 of title III of Pub. L. 103–465, amending this section and sections 2513 to 2515, 2517, and 2518 of this title, repealing section 2516 of this title, and amending provisions set out as a note under section 903 of Title 7, Agriculture] take effect on the date on which the Agreement on Government Procurement referred to in section 101(d)(17) [19 U.S.C. 3511(d)(17)] enters into force with respect to the United States [Jan. 1, 1995].
+> **“(a) In General.—** Except as provided in subsection (b), the amendments made by this subtitle [subtitle E (§§ 341–344 of title III of Pub. L. 103–465, amending this section and sections 2513 to 2515, 2517, and 2518 of this title, repealing section 2516 of this title, and amending provisions set out as a note under section 903 of Title 7, Agriculture] take effect on the date on which the Agreement on Government Procurement referred to in section 101(d)(17) [19 U.S.C. 3511(d)(17)] enters into force with respect to the United States [Jan. 1, 1995].
 
 > **“(b) Section 342(g).—** The amendments made by section 342(g) [amending provisions set out as a note under section 903 of Title 7] take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
 
@@ -837,17 +837,17 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 Functions of President under this section delegated to United States Trade Representative, with authority delegated to Secretary of Defense to waive the prohibitions contained in subsec. (b)(3), see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
 
-### § 2513. Waiver of discriminatory purchasing requirements with respect to purchases of civil aircraft
+### § 2513. Waiver of discriminatory purchasing requirements with respect to purchases of civil aircraft
 
 The President may waive the application of the provisions of chapter 83 of title 41 in the case of any procurement of civil aircraft and related articles of a country or instrumentality which is a party to the Agreement on Trade in Civil Aircraft referred to in section 2503(c) of this title and approved under section 2503(a) of this title. The President may modify or withdraw any waiver granted pursuant to this section.
 
-(Pub. L. 96–39, title III, § 303, July 26, 1979, 93 Stat. 238; Pub. L. 103–465, title III, § 342(a), Dec. 8, 1994, 108 Stat. 4953.)
+(Pub. L. 96–39, title III, § 303, July 26, 1979, 93 Stat. 238; Pub. L. 103–465, title III, § 342(a), Dec. 8, 1994, 108 Stat. 4953.)
 
 **Editorial Notes**
 
 **Codification**
 
-In text, “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), popularly referred to as the Buy American Act,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.), popularly referred to as the Buy American Act,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -869,13 +869,13 @@ Section effective July 26, 1979, but authority of President to grant waivers und
 
 Functions of President under this section delegated to United States Trade Representative, see section 1–103(b) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under section 2171 of this title.
 
-### § 2514. Expansion of the coverage of the Agreement
+### § 2514. Expansion of the coverage of the Agreement
 
 **(a) Overall negotiating objective**
 
-The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) 1
+The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -905,27 +905,27 @@ Each annual report of the President under section 163(a) of the Trade Act of 197
 
 Before exercising the waiver authority in section 2511 of this title for procurement not covered by the Agreement on the date it enters into force with respect to the United States, the President shall follow the consultation provisions of section 135 [19 U.S.C. 2155] and chapter 6 of title I of the Trade Act of 1974 [19 U.S.C. 2211 et seq.] for private sector and congressional consultations.
 
-(Pub. L. 96–39, title III, § 304, July 26, 1979, 93 Stat. 238; Pub. L. 103–465, title III, § 342(b), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, § 20(c)(11), Oct. 11, 1996, 110 Stat. 3528.)
+(Pub. L. 96–39, title III, § 304, July 26, 1979, 93 Stat. 238; Pub. L. 103–465, title III, § 342(b), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, § 20(c)(11), Oct. 11, 1996, 110 Stat. 3528.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2516 of this title, referred to in subsec. (a), was repealed by Pub. L. 103–355, title VII, § 7206(c), Oct. 13, 1994, 108 Stat. 3382, and Pub. L. 103–465, title III, § 342(d), Dec. 8, 1994, 108 Stat. 4953.
+Section 2516 of this title, referred to in subsec. (a), was repealed by Pub. L. 103–355, title VII, § 7206(c), Oct. 13, 1994, 108 Stat. 3382, and Pub. L. 103–465, title III, § 342(d), Dec. 8, 1994, 108 Stat. 4953.
 
-The Trade Act of 1974, referred to in subsec. (e), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 6 of title I of the Trade Act of 1974 is classified generally to part 6 of subchapter I (§ 2211 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (e), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 6 of title I of the Trade Act of 1974 is classified generally to part 6 of subchapter I (§ 2211 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–295, § 20(c)(11)(A), struck out comma after “XXIV(7)”.
+1996—Subsec. (a). Pub. L. 104–295, § 20(c)(11)(A), struck out comma after “XXIV(7)”.
 
-Subsec. (c). Pub. L. 104–295, § 20(c)(11)(B), struck out comma after “XXIV(7)” and “XIX(5)”.
+Subsec. (c). Pub. L. 104–295, § 20(c)(11)(B), struck out comma after “XXIV(7)” and “XIX(5)”.
 
-1994—Subsec. (a). Pub. L. 103–465, § 342(b)(1), substituted “article XXIV(7)” for “part IX, paragraph 6”.
+1994—Subsec. (a). Pub. L. 103–465, § 342(b)(1), substituted “article XXIV(7)” for “part IX, paragraph 6”.
 
-Subsec. (c). Pub. L. 103–465, § 342(b)(1), (2), substituted “article XXIV(7)” for “part IX, paragraph 6” and “article XIX(5)” for “part VI, paragraph 9”.
+Subsec. (c). Pub. L. 103–465, § 342(b)(1), (2), substituted “article XXIV(7)” for “part IX, paragraph 6” and “article XIX(5)” for “part VI, paragraph 9”.
 
-Subsec. (e). Pub. L. 103–465, § 342(b)(3), substituted “the date it enters into force with respect to the United States” for “July 26, 1979”.
+Subsec. (e). Pub. L. 103–465, § 342(b)(3), substituted “the date it enters into force with respect to the United States” for “July 26, 1979”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -943,7 +943,7 @@ Functions of President under this section delegated to United States Trade Repre
 
 The Agreement on Government Procurement, as referred to in section 3511(d)(17) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
-### § 2515. Monitoring and enforcement
+### § 2515. Monitoring and enforcement
 
 **(a) Monitoring and enforcement structure recommendations**
 
@@ -969,21 +969,21 @@ As soon as practicable after the close of the two-year period beginning on the d
 
 The report required under paragraph (1) shall contain an evaluation of the administrative practices under the laws of each major industrial country which require determinations to be made of the country of origin of goods, products, commodities, or other articles of commerce, including an assessment of such practices on the exports of the United States.
 
-(Pub. L. 96–39, title III, § 305, July 26, 1979, 93 Stat. 239; Pub. L. 100–418, title VII, § 7003, Aug. 23, 1988, 102 Stat. 1548; Pub. L. 103–465, title III, §§ 341, 342(c), 343(c), Dec. 8, 1994, 108 Stat. 4951, 4953, 4955; Pub. L. 104–295, § 20(c)(10), (13), Oct. 11, 1996, 110 Stat. 3528.)
+(Pub. L. 96–39, title III, § 305, July 26, 1979, 93 Stat. 239; Pub. L. 100–418, title VII, § 7003, Aug. 23, 1988, 102 Stat. 1548; Pub. L. 103–465, title III, §§ 341, 342(c), 343(c), Dec. 8, 1994, 108 Stat. 4951, 4953, 4955; Pub. L. 104–295, § 20(c)(10), (13), Oct. 11, 1996, 110 Stat. 3528.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (d)(2)(B), (C). Pub. L. 104–295, § 20(c)(10), struck out “or” at end of subpar. (B) and substituted semicolon for period at end of subpar. (C).
+1996—Subsec. (d)(2)(B), (C). Pub. L. 104–295, § 20(c)(10), struck out “or” at end of subpar. (B) and substituted semicolon for period at end of subpar. (C).
 
-Subsec. (g)(1). Pub. L. 104–295, § 20(c)(13)(A), in introductory provisions, substituted “of subsection (d)(2) of this section” for “of such subsection” and inserted “of subsection (d)(2) of this section” after “(as the case may be)”.
+Subsec. (g)(1). Pub. L. 104–295, § 20(c)(13)(A), in introductory provisions, substituted “of subsection (d)(2) of this section” for “of such subsection” and inserted “of subsection (d)(2) of this section” after “(as the case may be)”.
 
-Subsec. (g)(3). Pub. L. 104–295, § 20(c)(13)(B), substituted “eliminated the practices” for “eliminated the the practices” and inserted “of subsection (d)(2) of this section” after “(as the case may be)”.
+Subsec. (g)(3). Pub. L. 104–295, § 20(c)(13)(B), substituted “eliminated the practices” for “eliminated the the practices” and inserted “of subsection (d)(2) of this section” after “(as the case may be)”.
 
-1994—Subsec. (d)(1). Pub. L. 103–465, § 342(c), substituted “April 30 of each year,” for “April 30, 1990, and annually on April 30 thereafter,”.
+1994—Subsec. (d)(1). Pub. L. 103–465, § 342(c), substituted “April 30 of each year,” for “April 30, 1990, and annually on April 30 thereafter,”.
 
-Subsec. (d)(2)(D), (E). Pub. L. 103–465, § 341(c)(1), added subpars. (D) and (E) which read as follows:
+Subsec. (d)(2)(D), (E). Pub. L. 103–465, § 341(c)(1), added subpars. (D) and (E) which read as follows:
 
 “(D)(i) are not signatories to the Agreement;
 
@@ -997,13 +997,13 @@ Subsec. (d)(2)(D), (E). Pub. L. 103–465, § 341(c)(1), added subpars. (D) an
 
 “(iii) whose products or services are acquired in significant amounts by the United States Government.”
 
-Subsec. (d)(3)(C). Pub. L. 103–465, § 341(c)(2), inserted before period at end “, including the failure to maintain and enforce effective prohibitions on bribery and other corrupt practices in connection with government procurement”.
+Subsec. (d)(3)(C). Pub. L. 103–465, § 341(c)(2), inserted before period at end “, including the failure to maintain and enforce effective prohibitions on bribery and other corrupt practices in connection with government procurement”.
 
-Subsec. (f)(2). Pub. L. 103–465, § 341(a)(1), substituted “the 18 months” for “a year” in introductory provisions.
+Subsec. (f)(2). Pub. L. 103–465, § 341(a)(1), substituted “the 18 months” for “a year” in introductory provisions.
 
-Subsec. (f)(2)(B) to (D). Pub. L. 103–465, § 341(a)(2)–(4), struck out “or” at end of subpar. (B), redesignated subpar. (C) as (D), and added a new subpar. (C) which read as follows: “the procedures result in a determination providing a specific period of time for the other participant to bring its practices into compliance with the Agreement, or”.
+Subsec. (f)(2)(B) to (D). Pub. L. 103–465, § 341(a)(2)–(4), struck out “or” at end of subpar. (B), redesignated subpar. (C) as (D), and added a new subpar. (C) which read as follows: “the procedures result in a determination providing a specific period of time for the other participant to bring its practices into compliance with the Agreement, or”.
 
-Subsec. (f)(3). Pub. L. 103–465, § 341(b)(1), amended heading and text of par. (3) to read as follows:
+Subsec. (f)(3). Pub. L. 103–465, § 341(b)(1), amended heading and text of par. (3) to read as follows:
 
 “(3) Sanctions after dispute resolution fails.—
 
@@ -1033,13 +1033,13 @@ then the sanctions described in subparagraph (B) shall be imposed.
 
 “(II) described in clause (i)(II) shall apply beginning on the day after the date described in subclause (I).”
 
-Subsec. (f)(4). Pub. L. 103–465, § 341(b)(2), substituted “subclause (I) or (II) of paragraph (3)(B)(i)” for “subparagraph (A) or (B) of paragraph (3)” in introductory provisions.
+Subsec. (f)(4). Pub. L. 103–465, § 341(b)(2), substituted “subclause (I) or (II) of paragraph (3)(B)(i)” for “subparagraph (A) or (B) of paragraph (3)” in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 103–465, § 343(c)(1), in introductory provisions, substituted “(B), (C), (D), or (E)” for “(B) or (C)” and “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “their discriminatory procurement practices”.
+Subsec. (g)(1). Pub. L. 103–465, § 343(c)(1), in introductory provisions, substituted “(B), (C), (D), or (E)” for “(B) or (C)” and “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “their discriminatory procurement practices”.
 
-Subsec. (g)(3). Pub. L. 103–465, § 343(c)(2), substituted “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “discrimination identified pursuant to subsection (d)(2)(B) or (C) of this section”.
+Subsec. (g)(3). Pub. L. 103–465, § 343(c)(2), substituted “the practices regarding government procurement identified under subparagraph (B)(ii), (C)(ii), (D)(ii), or (E)(ii) (as the case may be)” for “discrimination identified pursuant to subsection (d)(2)(B) or (C) of this section”.
 
-1988—Subsecs. (d) to (k). Pub. L. 100–418, §§ 7003, 7004, temporarily added subsecs. (d) to (k) which read as follows:
+1988—Subsecs. (d) to (k). Pub. L. 100–418, §§ 7003, 7004, temporarily added subsecs. (d) to (k) which read as follows:
 
 “(d) Annual Report on Foreign Discrimination.—
 
@@ -1183,7 +1183,7 @@ Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless
 
 **Transfer of Functions**
 
-Pub. L. 96–609, title II, § 205, Dec. 28, 1980, 94 Stat. 3562, provided that: “Notwithstanding subparagraph (1)(A) of subsection 5(a) of Reorganization Plan No. 3 of 1979 (44 F.R. 69272, 93 Stat. 1381) [set out as a note under section 2171 of this title], the Secretary of the Treasury or his delegate shall issue such advisory rulings and make such determinations as are authorized by subsection 305(b)(1) of the Trade Agreements Act of 1979 (19 U.S.C. 2515(b)(1)).”
+Pub. L. 96–609, title II, § 205, Dec. 28, 1980, 94 Stat. 3562, provided that: “Notwithstanding subparagraph (1)(A) of subsection 5(a) of Reorganization Plan No. 3 of 1979 (44 F.R. 69272, 93 Stat. 1381) [set out as a note under section 2171 of this title], the Secretary of the Treasury or his delegate shall issue such advisory rulings and make such determinations as are authorized by subsection 305(b)(1) of the Trade Agreements Act of 1979 (19 U.S.C. 2515(b)(1)).”
 
 **Executive Documents**
 
@@ -1193,9 +1193,9 @@ Functions of President under subsec. (c) delegated to United States Trade Repres
 
 Functions of Secretary of the Treasury under subsec. (b) transferred to Secretary of Commerce, to exercise in consultation with Secretary of the Treasury, by section 5(a)(1)(A) of Reorg. Plan No. 3 of 1979, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 
-### § 2516. Repealed. Pub. L. 103–355, title VII, § 7206(c), Oct. 13, 1994, 108 Stat. 3382; Pub. L. 103–465, title III, § 342(d), Dec. 8, 1994, 108 Stat. 4953
+### § 2516. Repealed. Pub. L. 103–355, title VII, § 7206(c), Oct. 13, 1994, 108 Stat. 3382; Pub. L. 103–465, title III, § 342(d), Dec. 8, 1994, 108 Stat. 4953
 
-Section, Pub. L. 96–39, title III, § 306, July 26, 1979, 93 Stat. 240, related to labor surplus area studies.
+Section, Pub. L. 96–39, title III, § 306, July 26, 1979, 93 Stat. 240, related to labor surplus area studies.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1203,11 +1203,11 @@ Section, Pub. L. 96–39, title III, § 306, July 26, 1979, 93 Stat. 240, rela
 
 Repeal by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in section 3511(d)(17) of this title, enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 2512 of this title.
 
-### § 2517. Availability of information to Members of Congress designated as official advisers
+### § 2517. Availability of information to Members of Congress designated as official advisers
 
 The United States Trade Representative shall make available to the Members of Congress designated as official advisers pursuant to section 2211 of this title information compiled by the Committee on Government Procurement under article XIX(5) of the Agreement.
 
-(Pub. L. 96–39, title III, § 307, July 26, 1979, 93 Stat. 240; 1979 Reorg. Plan No. 3, § 1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, 93 Stat. 1381; Pub. L. 103–465, title III, § 342(e), Dec. 8, 1994, 108 Stat. 4953.)
+(Pub. L. 96–39, title III, § 307, July 26, 1979, 93 Stat. 240; 1979 Reorg. Plan No. 3, § 1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, 93 Stat. 1381; Pub. L. 103–465, title III, § 342(e), Dec. 8, 1994, 108 Stat. 4953.)
 
 **Editorial Notes**
 
@@ -1225,9 +1225,9 @@ Amendment by Pub. L. 103–465 effective on the date on which the Agreement on G
 
 **Change of Name**
 
-“United States Trade Representative” substituted in text for “Special Representative for Trade Negotiations” pursuant to Reorg. Plan No. 3 of 1979, § 1(1)(b), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
+“United States Trade Representative” substituted in text for “Special Representative for Trade Negotiations” pursuant to Reorg. Plan No. 3 of 1979, § 1(1)(b), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
 
-### § 2518. Definitions
+### § 2518. Definitions
 
 As used in this subchapter—
 
@@ -1301,7 +1301,7 @@ The term “least developed country” means any country on the United Nations G
 
 The term “major industrial country” means any such country as defined in section 2136 of this title and any instrumentality of such a country.
 
-(Pub. L. 96–39, title III, § 308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, § 7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, § 306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, § 381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, § 342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, § 20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, § 401, Aug. 3, 2004, 118 Stat. 950; Pub. L. 109–53, title IV, § 401, Aug. 2, 2005, 119 Stat. 495; Pub. L. 109–169, title IV, § 401, Jan. 11, 2006, 119 Stat. 3599; Pub. L. 109–283, title IV, § 401, Sept. 26, 2006, 120 Stat. 1209; Pub. L. 110–138, title IV, § 401, Dec. 14, 2007, 121 Stat. 1486; Pub. L. 112–41, title IV, § 401, Oct. 21, 2011, 125 Stat. 459; Pub. L. 112–42, title IV, § 401, Oct. 21, 2011, 125 Stat. 494; Pub. L. 112–43, title IV, § 401, Oct. 21, 2011, 125 Stat. 529; Pub. L. 116–113, title V, § 505(b), Jan. 29, 2020, 134 Stat. 77.)
+(Pub. L. 96–39, title III, § 308, July 26, 1979, 93 Stat. 241; Pub. L. 99–47, § 7, June 11, 1985, 99 Stat. 84; Pub. L. 100–449, title III, § 306, Sept. 28, 1988, 102 Stat. 1876; Pub. L. 103–182, title III, § 381(c), Dec. 8, 1993, 107 Stat. 2129; Pub. L. 103–465, title III, § 342(f), Dec. 8, 1994, 108 Stat. 4953; Pub. L. 104–295, § 20(c)(12), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 108–286, title IV, § 401, Aug. 3, 2004, 118 Stat. 950; Pub. L. 109–53, title IV, § 401, Aug. 2, 2005, 119 Stat. 495; Pub. L. 109–169, title IV, § 401, Jan. 11, 2006, 119 Stat. 3599; Pub. L. 109–283, title IV, § 401, Sept. 26, 2006, 120 Stat. 1209; Pub. L. 110–138, title IV, § 401, Dec. 14, 2007, 121 Stat. 1486; Pub. L. 112–41, title IV, § 401, Oct. 21, 2011, 125 Stat. 459; Pub. L. 112–42, title IV, § 401, Oct. 21, 2011, 125 Stat. 494; Pub. L. 112–43, title IV, § 401, Oct. 21, 2011, 125 Stat. 529; Pub. L. 116–113, title V, § 505(b), Jan. 29, 2020, 134 Stat. 77.)
 
 **Amendment of Section**
 
@@ -1333,29 +1333,29 @@ Section 601(a)(2), referred to in par. (2), is section 601(a)(2) of Pub. L. 96�
 
 2020—Par. (4)(A)(ii). Pub. L. 116–113 substituted “Mexico, as a party to the USMCA (as defined in section 4502 of this title),” for “a party to the North American Free Trade Agreement,” and “the USMCA for” for “the North American Free Trade Agreement for”.
 
-2011—Par. (4)(A)(viii). Pub. L. 112–41, §§ 107(c), 401, temporarily added cl. (viii). See Effective and Termination Dates of 2011 Amendment note below.
+2011—Par. (4)(A)(viii). Pub. L. 112–41, §§ 107(c), 401, temporarily added cl. (viii). See Effective and Termination Dates of 2011 Amendment note below.
 
-Par. (4)(A)(ix). Pub. L. 112–42, §§ 107(c), 401, temporarily added cl. (ix). See Effective and Termination Dates of 2011 Amendment note below.
+Par. (4)(A)(ix). Pub. L. 112–42, §§ 107(c), 401, temporarily added cl. (ix). See Effective and Termination Dates of 2011 Amendment note below.
 
-Par. (4)(A)(x). Pub. L. 112–43, §§ 107(c), 401, temporarily added cl. (x). See Effective and Termination Dates of 2011 Amendment note below.
+Par. (4)(A)(x). Pub. L. 112–43, §§ 107(c), 401, temporarily added cl. (x). See Effective and Termination Dates of 2011 Amendment note below.
 
-2007—Par. (4)(A)(vii). Pub. L. 110–138, §§ 107(c), 401, temporarily added cl. (vii). See Effective and Termination Dates of 2007 Amendment note below.
+2007—Par. (4)(A)(vii). Pub. L. 110–138, §§ 107(c), 401, temporarily added cl. (vii). See Effective and Termination Dates of 2007 Amendment note below.
 
-2006—Par. (4)(A)(v). Pub. L. 109–169, §§ 106(c), 401, temporarily added cl. (v). See Effective and Termination Dates of 2006 Amendment note below.
+2006—Par. (4)(A)(v). Pub. L. 109–169, §§ 106(c), 401, temporarily added cl. (v). See Effective and Termination Dates of 2006 Amendment note below.
 
-Par. (4)(A)(vi). Pub. L. 109–283, §§ 107(c), 401, temporarily added cl. (vi). See Effective and Termination Dates of 2006 Amendment note below.
+Par. (4)(A)(vi). Pub. L. 109–283, §§ 107(c), 401, temporarily added cl. (vi). See Effective and Termination Dates of 2006 Amendment note below.
 
-2005—Par. (4)(A)(iv). Pub. L. 109–53, §§ 107(d), 401, temporarily added cl. (iv). See Effective and Termination Dates of 2005 Amendment note below.
+2005—Par. (4)(A)(iv). Pub. L. 109–53, §§ 107(d), 401, temporarily added cl. (iv). See Effective and Termination Dates of 2005 Amendment note below.
 
-2004—Par.(4)(A)(iii). Pub. L. 108–286, §§ 106(c), 401, temporarily added cl. (iii). See Effective and Termination Dates of 2004 Amendment note below.
+2004—Par.(4)(A)(iii). Pub. L. 108–286, §§ 106(c), 401, temporarily added cl. (iii). See Effective and Termination Dates of 2004 Amendment note below.
 
 1996—Par. (4)(D). Pub. L. 104–295 substituted “under the Agreement” for “under the the Agreement”.
 
-1994—Par. (1). Pub. L. 103–465, § 342(f)(1), substituted “section 3511(d)(17) of this title” for “section 2503(c) of this title”.
+1994—Par. (1). Pub. L. 103–465, § 342(f)(1), substituted “section 3511(d)(17) of this title” for “section 2503(c) of this title”.
 
-Par. (4)(C). Pub. L. 103–465, § 342(f)(2)(A), substituted “for which the United States is obligated to waive Buy National restrictions under—” and cls. (i) and (ii) for “having a contract value of $50,000 or more which would be covered for procurement by the United States under the Agreement on Government Procurement as in effect on the date on which the Agreement on the Establishment of a Free Trade Area between the Government of the United States of America and the Government of Israel enters into force, but for the SDR 150,000 threshold provided for in article I(1)(b) of the Agreement on Government Procurement.”
+Par. (4)(C). Pub. L. 103–465, § 342(f)(2)(A), substituted “for which the United States is obligated to waive Buy National restrictions under—” and cls. (i) and (ii) for “having a contract value of $50,000 or more which would be covered for procurement by the United States under the Agreement on Government Procurement as in effect on the date on which the Agreement on the Establishment of a Free Trade Area between the Government of the United States of America and the Government of Israel enters into force, but for the SDR 150,000 threshold provided for in article I(1)(b) of the Agreement on Government Procurement.”
 
-Par. (4)(D). Pub. L. 103–465, § 342(f)(2)(B), substituted “the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.” for “GATT Agreement on Government Procurement, but for the SDR threshold provided for in article I(1)(b) of the GATT Agreement on Government Procurement.”
+Par. (4)(D). Pub. L. 103–465, § 342(f)(2)(B), substituted “the Agreement (as defined in paragraph (1)), but for the thresholds provided for in the Agreement.” for “GATT Agreement on Government Procurement, but for the SDR threshold provided for in article I(1)(b) of the GATT Agreement on Government Procurement.”
 
 1993—Par. (4)(A). Pub. L. 103–182 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘eligible product’ means, with respect to any foreign country or instrumentality, a product or service of that country or instrumentality which is covered under the Agreement for procurement by the United States.”
 
@@ -1415,7 +1415,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 ### Part A—Obligations of the United States
 
-#### § 2531. Certain standards-related activities
+#### § 2531. Certain standards-related activities
 
 **(a) No bar to engaging in standards activity** Nothing in this subchapter may be construed—
 
@@ -1427,7 +1427,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Nothing in this subchapter may be construed as prohibiting any private person, Federal agency, or State agency from engaging in standards-related activities that do not create unnecessary obstacles to the foreign commerce of the United States. No standards-related activity of any private person, Federal agency, or State agency shall be deemed to constitute an unnecessary obstacle to the foreign commerce of the United States if the demonstrable purpose of the standards-related activity is to achieve a legitimate domestic objective including, but not limited to, the protection of legitimate health or safety, essential security, environmental, or consumer interests and if such activity does not operate to exclude imported products which fully meet the objectives of such activity.
 
-(Pub. L. 96–39, title IV, § 401, July 26, 1979, 93 Stat. 242; Pub. L. 103–465, title III, § 351(b), Dec. 8, 1994, 108 Stat. 4955.)
+(Pub. L. 96–39, title IV, § 401, July 26, 1979, 93 Stat. 242; Pub. L. 103–465, title III, § 351(b), Dec. 8, 1994, 108 Stat. 4955.)
 
 **Editorial Notes**
 
@@ -1439,13 +1439,13 @@ Nothing in this subchapter may be construed as prohibiting any private person, F
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–465, title III, § 352, Dec. 8, 1994, 108 Stat. 4957, provided that: “This subtitle [subtitle F (§§ 351, 352) of title III of Pub. L. 103–465, amending this section and sections 2532, 2544, 2571, and 2573 of this title and repealing provisions set out below] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
+Pub. L. 103–465, title III, § 352, Dec. 8, 1994, 108 Stat. 4957, provided that: “This subtitle [subtitle F (§§ 351, 352) of title III of Pub. L. 103–465, amending this section and sections 2532, 2544, 2571, and 2573 of this title and repealing provisions set out below] and the amendments made by this subtitle take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
 
 **Effective Date**
 
-Pub. L. 96–39, title IV, § 454, July 26, 1979, 93 Stat. 250, which provided that this subchapter was to take effect on Jan. 1, 1980, if the Agreement on Technical Barriers to Trade entered into force with respect to the United States by that date, was repealed by Pub. L. 103–465, title III, § 351(g), Dec. 8, 1994, 108 Stat. 4957.
+Pub. L. 96–39, title IV, § 454, July 26, 1979, 93 Stat. 250, which provided that this subchapter was to take effect on Jan. 1, 1980, if the Agreement on Technical Barriers to Trade entered into force with respect to the United States by that date, was repealed by Pub. L. 103–465, title III, § 351(g), Dec. 8, 1994, 108 Stat. 4957.
 
-#### § 2532. Federal standards-related activities
+#### § 2532. Federal standards-related activities
 
 No Federal agency may engage in any standards-related activity that creates unnecessary obstacles to the foreign commerce of the United States, including, but not limited to, standards-related activities that violate any of the following requirements:
 
@@ -1485,9 +1485,9 @@ Except as provided in subparagraph (B)(ii), each Federal agency, in developing s
 
 **(ii) Regional standards**
 
-In developing standards, a Federal agency may, but is not required to, take into consideration any international standard promulgated by an international standards organization the membership of which is described in section 2571(6)(A)(ii) 1
+In developing standards, a Federal agency may, but is not required to, take into consideration any international standard promulgated by an international standards organization the membership of which is described in section 2571(6)(A)(ii) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -1499,13 +1499,13 @@ Each Federal agency shall, if appropriate, develop standards based on performanc
 
 Each Federal agency shall, with respect to any conformity assessment procedure used by it, permit access for obtaining an assessment of conformity and the mark of the system, if any, to foreign suppliers of a product on the same basis as access is permitted to suppliers of like products, whether of domestic or other foreign origin.
 
-(Pub. L. 96–39, title IV, § 402, July 26, 1979, 93 Stat. 242; Pub. L. 103–465, title III, § 351(c), Dec. 8, 1994, 108 Stat. 4956; Pub. L. 104–295, § 20(c)(14), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 402, July 26, 1979, 93 Stat. 242; Pub. L. 103–465, title III, § 351(c), Dec. 8, 1994, 108 Stat. 4956; Pub. L. 104–295, § 20(c)(14), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2571(6)(A) of this title, referred to in par. (2)(B)(ii), was amended generally by Pub. L. 103–465, title III, § 351(e)(4), Dec. 8, 1994, 108 Stat. 4956, and, as so amended, no longer contains clauses.
+Section 2571(6)(A) of this title, referred to in par. (2)(B)(ii), was amended generally by Pub. L. 103–465, title III, § 351(e)(4), Dec. 8, 1994, 108 Stat. 4956, and, as so amended, no longer contains clauses.
 
 **Amendments**
 
@@ -1519,7 +1519,7 @@ Section 2571(6)(A) of this title, referred to in par. (2)(B)(ii), was amended ge
 
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 352 of Pub. L. 103–465, set out as a note under section 2531 of this title.
 
-#### § 2533. State and private standards-related activities
+#### § 2533. State and private standards-related activities
 
 **(a) In general**
 
@@ -1529,11 +1529,11 @@ It is the sense of the Congress that no State agency and no private person shoul
 
 The President shall take such reasonable measures as may be available to promote the observance by State agencies and private persons, in carrying out standards-related activities, of requirements equivalent to those imposed on Federal agencies under section 2532 of this title, and of procedures that provide for notification, participation, and publication with respect to such activities.
 
-(Pub. L. 96–39, title IV, § 403, July 26, 1979, 93 Stat. 243.)
+(Pub. L. 96–39, title IV, § 403, July 26, 1979, 93 Stat. 243.)
 
 ### Part B—Functions of Federal Agencies
 
-#### § 2541. Functions of Trade Representative
+#### § 2541. Functions of Trade Representative
 
 **(a) In general**
 
@@ -1547,21 +1547,21 @@ The Trade Representative has responsibility for coordinating United States discu
 
 For provisions of law regarding general authority of the Trade Representative with respect to trade agreements, see section 2171 of this title.
 
-(Pub. L. 96–39, title IV, § 411, July 26, 1979, 93 Stat. 243; Pub. L. 103–182, title III, § 351(b)(2), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), (2), Oct. 11, 1996, 110 Stat. 3529, 3530.)
+(Pub. L. 96–39, title IV, § 411, July 26, 1979, 93 Stat. 243; Pub. L. 103–182, title III, § 351(b)(2), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), (2), Oct. 11, 1996, 110 Stat. 3529, 3530.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Pub. L. 104–295, § 21(b)(1), amended directory language of Pub. L. 103–182, § 351(b)(2). See 1993 Amendment notes below.
+1996—Pub. L. 104–295, § 21(b)(1), amended directory language of Pub. L. 103–182, § 351(b)(2). See 1993 Amendment notes below.
 
-Subsec. (c). Pub. L. 104–295, § 21(b)(2), substituted “Trade Representative” for “Special Representatives”.
+Subsec. (c). Pub. L. 104–295, § 21(b)(2), substituted “Trade Representative” for “Special Representatives”.
 
-1993—Pub. L. 103–182, § 351(b)(2)(B), as amended by Pub. L. 104–295, § 21(b)(1), substituted “Trade Representative” for “Special Representative” in section catchline.
+1993—Pub. L. 103–182, § 351(b)(2)(B), as amended by Pub. L. 104–295, § 21(b)(1), substituted “Trade Representative” for “Special Representative” in section catchline.
 
-Subsecs. (a), (b). Pub. L. 103–182, § 351(b)(2)(A), as amended by Pub. L. 104–295, § 21(b)(1), substituted “Trade Representative” for “Special Representative” wherever appearing.
+Subsecs. (a), (b). Pub. L. 103–182, § 351(b)(2)(A), as amended by Pub. L. 104–295, § 21(b)(1), substituted “Trade Representative” for “Special Representative” wherever appearing.
 
-#### § 2542. Establishment and operation of technical offices
+#### § 2542. Establishment and operation of technical offices
 
 **(a) Establishment**
 
@@ -1577,7 +1577,7 @@ The Secretary of Agriculture shall establish and maintain within the Department 
 
 The President shall prescribe for each technical office established under subsection (a) such functions as the President deems necessary or appropriate to implement this subchapter.
 
-(Pub. L. 96–39, title IV, § 412, July 26, 1979, 93 Stat. 244.)
+(Pub. L. 96–39, title IV, § 412, July 26, 1979, 93 Stat. 244.)
 
 **Executive Documents**
 
@@ -1585,7 +1585,7 @@ The President shall prescribe for each technical office established under subsec
 
 Functions of President under subsec. (b) of this section delegated to Secretary of Commerce regarding technical office established under subsec. (a)(1) of this section, and to Secretary of Agriculture regarding technical office established under subsec. (a)(2) of this section, see section 1–103(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under section 2171 of this title.
 
-#### § 2543. Representation of United States interests before international standards organizations
+#### § 2543. Representation of United States interests before international standards organizations
 
 **(a) Oversight and consultation** The Secretary concerned shall—
 
@@ -1635,7 +1635,7 @@ the Secretary concerned shall make appropriate arrangements to provide for the a
 
 **(3)** not preempt the responsibilities of any Federal agency that has jurisdiction with respect to the activities undertaken by such organization, unless requested to do so by such agency.
 
-(Pub. L. 96–39, title IV, § 413, July 26, 1979, 93 Stat. 244; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 413, July 26, 1979, 93 Stat. 244; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -1645,7 +1645,7 @@ the Secretary concerned shall make appropriate arrangements to provide for the a
 
 1993—Subsec. (a)(1). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 
-#### § 2544. Standards information center
+#### § 2544. Standards information center
 
 **(a) Establishment**
 
@@ -1681,7 +1681,7 @@ The Secretary of Commerce shall maintain within the Department of Commerce a sta
 
 The definitions in section 2575b of this title apply for purposes of this subsection.
 
-(Pub. L. 96–39, title IV, § 414, July 26, 1979, 93 Stat. 245; Pub. L. 103–465, title III, § 351(d), title IV, § 431(a), Dec. 8, 1994, 108 Stat. 4956, 4966; Pub. L. 104–295, § 20(c)(15), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 414, July 26, 1979, 93 Stat. 245; Pub. L. 103–465, title III, § 351(d), title IV, § 431(a), Dec. 8, 1994, 108 Stat. 4956, 4966; Pub. L. 104–295, § 20(c)(15), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -1689,9 +1689,9 @@ The definitions in section 2575b of this title apply for purposes of this subsec
 
 1996—Subsec. (b)(1). Pub. L. 104–295 struck out comma after “procedures,” in two places.
 
-1994—Subsec. (b)(1). Pub. L. 103–465, § 351(d), inserted “(A)” after “relating to”, substituted “technical regulations, conformity assessment procedures,” for “certification systems” and “such standards, technical regulations, conformity assessment procedures,” for “such standards, systems”, and inserted “and” and cl. (B) before semicolon at end.
+1994—Subsec. (b)(1). Pub. L. 103–465, § 351(d), inserted “(A)” after “relating to”, substituted “technical regulations, conformity assessment procedures,” for “certification systems” and “such standards, technical regulations, conformity assessment procedures,” for “such standards, systems”, and inserted “and” and cl. (B) before semicolon at end.
 
-Subsec. (c). Pub. L. 103–465, § 431(a), added subsec. (c).
+Subsec. (c). Pub. L. 103–465, § 431(a), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1701,7 +1701,7 @@ Amendment by section 351(d) of Pub. L. 103–465 effective on the date on which 
 
 Amendment by section 431(a) of Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under section 3601 of this title.
 
-#### § 2545. Contracts and grants
+#### § 2545. Contracts and grants
 
 **(a) In general** For purposes of carrying out this subchapter, and otherwise encouraging compliance with the Agreement, the Trade Representative and the Secretary concerned may each, with respect to functions for which responsible under this subchapter, make grants to, or enter into contracts with, any other Federal agency, any State agency, or any private person, to assist such agency or person to implement appropriate programs and activities, including, but not limited to, programs and activities—
 
@@ -1727,7 +1727,7 @@ Financial assistance extended under this section shall not exceed 75 percent of 
 
 Each recipient of a grant or contract under this section shall make available to the Trade Representative or the Secretary concerned, as the case may be, and to the Comptroller General of the United States, for purposes of audit and examination, any book, document, paper, and record that is pertinent to the funds received under such grant or contract.
 
-(Pub. L. 96–39, title IV, § 415, July 26, 1979, 93 Stat. 246; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 415, July 26, 1979, 93 Stat. 246; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -1737,11 +1737,11 @@ Each recipient of a grant or contract under this section shall make available to
 
 1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative” wherever appearing.
 
-#### § 2546. Technical assistance
+#### § 2546. Technical assistance
 
 The Trade Representative and the Secretary concerned may each, with respect to functions for which responsible under this subchapter, make available, on a reimbursable basis or otherwise, to any other Federal agency, State agency, or private person such assistance, including, but not limited to, employees, services, and facilities, as may be appropriate to assist such agency or person in carrying out standards-related activities in a manner consistent with this subchapter.
 
-(Pub. L. 96–39, title IV, § 416, July 26, 1979, 93 Stat. 247; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 416, July 26, 1979, 93 Stat. 247; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -1751,11 +1751,11 @@ The Trade Representative and the Secretary concerned may each, with respect to f
 
 1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 
-#### § 2547. Consultations with representatives of domestic interests
+#### § 2547. Consultations with representatives of domestic interests
 
 In carrying out the functions for which responsible under this subchapter, the Trade Representative and the Secretary concerned shall solicit technical and policy advice from the committees, established under section 2155 of this title, that represent the interests concerned, and may solicit advice from appropriate State agencies and private persons.
 
-(Pub. L. 96–39, title IV, § 417, July 26, 1979, 93 Stat. 247; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 417, July 26, 1979, 93 Stat. 247; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -1769,13 +1769,13 @@ In carrying out the functions for which responsible under this subchapter, the T
 
 #### subpart 1—representations alleging united states violations of obligations
 
-##### § 2551. Right of action
+##### § 2551. Right of action
 
 Except as provided under this subpart, the provisions of this part do not create any right of action under the laws of the United States with respect to allegations that any standards-related activity engaged in within the United States violates the obligations of the United States under the Agreement.
 
-(Pub. L. 96–39, title IV, § 421, July 26, 1979, 93 Stat. 247.)
+(Pub. L. 96–39, title IV, § 421, July 26, 1979, 93 Stat. 247.)
 
-##### § 2552. Representations
+##### § 2552. Representations
 
 Any—
 
@@ -1785,7 +1785,7 @@ Any—
 
 may make a representation to the Trade Representative alleging that a standards-related activity engaged in within the United States violates the obligations of the United States under the Agreement. Any such representation must be made in accordance with procedures that the Trade Representative shall by regulation prescribe and must provide a reasonable indication that the standards-related activity concerned is having a significant trade effect. No person other than a Party to the Agreement or a foreign country described in paragraph (2) may make such a representation.
 
-(Pub. L. 96–39, title IV, § 422, July 26, 1979, 93 Stat. 247; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 422, July 26, 1979, 93 Stat. 247; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -1795,7 +1795,7 @@ may make a representation to the Trade Representative alleging that a standards-
 
 1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative” wherever appearing.
 
-##### § 2553. Action after receipt of representations
+##### § 2553. Action after receipt of representations
 
 **(a) Review** Upon receipt of any representation made under section 2552 of this title, the Trade Representative shall review the issues concerned in consultation with—
 
@@ -1811,7 +1811,7 @@ may make a representation to the Trade Representative alleging that a standards-
 
 The Trade Representative shall undertake to resolve, on a mutually satisfactory basis, the issues set forth in the representation through consultation with the parties concerned.
 
-(Pub. L. 96–39, title IV, § 423, July 26, 1979, 93 Stat. 247; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 423, July 26, 1979, 93 Stat. 247; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -1821,7 +1821,7 @@ The Trade Representative shall undertake to resolve, on a mutually satisfactory 
 
 1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative” wherever appearing.
 
-##### § 2554. Procedure after finding by international forum
+##### § 2554. Procedure after finding by international forum
 
 **(a) In general**
 
@@ -1831,11 +1831,11 @@ If an appropriate international forum finds that a standards-related activity be
 
 For provisions of law regarding remedies available to domestic persons alleging that standards activities engaged in by Parties to the Agreement (other than the United States) violate the obligations of the Agreement, see section 2411 of this title.
 
-(Pub. L. 96–39, title IV, § 424, July 26, 1979, 93 Stat. 248.)
+(Pub. L. 96–39, title IV, § 424, July 26, 1979, 93 Stat. 248.)
 
 #### subpart 2—other proceedings regarding certain standards-related activities
 
-##### § 2561. Findings of reciprocity required in administrative proceedings
+##### § 2561. Findings of reciprocity required in administrative proceedings
 
 **(a) In general** Except as provided under subpart 1, no Federal agency may consider a complaint or petition against any standards-related activity regarding an imported product, if that activity is engaged in within the United States and is covered by the Agreement, unless the Trade Representative finds, and informs the agency concerned in writing, that—
 
@@ -1851,7 +1851,7 @@ For provisions of law regarding remedies available to domestic persons alleging 
 
 This section does not apply with respect to petitions and proceedings that are provided for under the practices of any Federal agency for the purpose of ensuring, in accordance with section 553 of title 5, that interested persons are given an opportunity to participate in agency rulemaking or to seek the issuance, amendment, or repeal of a rule.
 
-(Pub. L. 96–39, title IV, § 441, July 26, 1979, 93 Stat. 248; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 441, July 26, 1979, 93 Stat. 248; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -1861,15 +1861,15 @@ This section does not apply with respect to petitions and proceedings that are p
 
 1993—Subsec. (a). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 
-##### § 2562. Consideration of standards-related activities by an international forum
+##### § 2562. Consideration of standards-related activities by an international forum
 
 No standards-related activity being engaged in within the United States may be stayed in any judicial or administrative proceeding on the basis that such activity is currently being considered, pursuant to the Agreement, by an international forum.
 
-(Pub. L. 96–39, title IV, § 442, July 26, 1979, 93 Stat. 248.)
+(Pub. L. 96–39, title IV, § 442, July 26, 1979, 93 Stat. 248.)
 
 ### Part D—Definitions and Miscellaneous Provisions
 
-#### § 2571. Definitions
+#### § 2571. Definitions
 
 As used in this subchapter—
 
@@ -1957,7 +1957,7 @@ The term “technical regulation” means a document which lays down product cha
 
 The term “United States”, when used in a geographical context, means all States.
 
-(Pub. L. 96–39, title IV, § 451, July 26, 1979, 93 Stat. 249; Pub. L. 103–182, title III, § 351(b)(1), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title III, § 351(e), Dec. 8, 1994, 108 Stat. 4956; Pub. L. 104–295, § 20(c)(16), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 451, July 26, 1979, 93 Stat. 249; Pub. L. 103–182, title III, § 351(b)(1), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title III, § 351(e), Dec. 8, 1994, 108 Stat. 4956; Pub. L. 104–295, § 20(c)(16), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -1967,11 +1967,11 @@ Chapter 2 of part I of title 5, referred to in par. (3), probably means chapter 
 
 **Amendments**
 
-1996—Par. (6)(A). Pub. L. 104–295 substituted “; and” for period at end.
+1996—Par. (6)(A). Pub. L. 104–295 substituted “; and” for period at end.
 
-1994—Par. (1). Pub. L. 103–465, § 351(e)(1), amended par. (1) generally, substituting “referred to in section 3511(d)(5) of this title” for “approved under section 2503(a) of this title”.
+1994—Par. (1). Pub. L. 103–465, § 351(e)(1), amended par. (1) generally, substituting “referred to in section 3511(d)(5) of this title” for “approved under section 2503(a) of this title”.
 
-Par. (2). Pub. L. 103–465, § 351(e)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘certification system’ means a system—
+Par. (2). Pub. L. 103–465, § 351(e)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘certification system’ means a system—
 
 “(A) for determining whether a product conforms with product standards applicable to that product; and
 
@@ -1979,19 +1979,19 @@ Par. (2). Pub. L. 103–465, § 351(e)(2), amended heading and text of par. (2
 
 Such term also includes any modification of, or change to, any such system.”
 
-Par. (4). Pub. L. 103–465, § 351(e)(3), substituted “conformity assessment procedure” for “certification system” in two places.
+Par. (4). Pub. L. 103–465, § 351(e)(3), substituted “conformity assessment procedure” for “certification system” in two places.
 
-Par. (6)(A). Pub. L. 103–465, § 351(e)(4), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the membership of which is open to representatives, whether public or private, of the United States and—
+Par. (6)(A). Pub. L. 103–465, § 351(e)(4), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the membership of which is open to representatives, whether public or private, of the United States and—
 
 “(i) all Parties to the Agreement, or
 
 “(ii) some but not all Parties of the Agreement; and”.
 
-Par. (7). Pub. L. 103–465, § 351(e)(5), substituted “conformity assessment procedure” for “certification system”.
+Par. (7). Pub. L. 103–465, § 351(e)(5), substituted “conformity assessment procedure” for “certification system”.
 
-Par. (8). Pub. L. 103–465, § 351(e)(6), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: “The term ‘Party to the Agreement’ means any foreign country or instrumentality determined by the President to have assumed, and to be applying, the obligations of the Agreement with respect to the United States.”
+Par. (8). Pub. L. 103–465, § 351(e)(6), amended heading and text of par. (8) generally. Prior to amendment, text read as follows: “The term ‘Party to the Agreement’ means any foreign country or instrumentality determined by the President to have assumed, and to be applying, the obligations of the Agreement with respect to the United States.”
 
-Par. (13). Pub. L. 103–465, § 351(e)(7), amended heading and text of par. (13) generally. Prior to amendment, text read as follows: “The term ‘standard’ means any of the following, and any amendment or change to any of the following:
+Par. (13). Pub. L. 103–465, § 351(e)(7), amended heading and text of par. (13) generally. Prior to amendment, text read as follows: “The term ‘standard’ means any of the following, and any amendment or change to any of the following:
 
 “(A) The specification of the characteristics of a product, including, but not limited to, levels of quality, performance, safety, or dimensions.
 
@@ -1999,9 +1999,9 @@ Par. (13). Pub. L. 103–465, § 351(e)(7), amended heading and text of par. (
 
 “(C) Administrative procedures related to the application of any specification referred to in paragraph (A) or (B).”
 
-Par. (14). Pub. L. 103–465, § 351(e)(8), substituted “, technical regulation, or conformity assessment procedure” for “or any certification system”.
+Par. (14). Pub. L. 103–465, § 351(e)(8), substituted “, technical regulation, or conformity assessment procedure” for “or any certification system”.
 
-Pars. (17), (18). Pub. L. 103–465, § 351(e)(9), added par. (17) and redesignated former par. (17) as (18).
+Pars. (17), (18). Pub. L. 103–465, § 351(e)(9), added par. (17) and redesignated former par. (17) as (18).
 
 1993—Par. (12). Pub. L. 103–182 amended par. (12) generally. Prior to amendment, par. (12) read as follows:
 
@@ -2013,7 +2013,7 @@ Pars. (17), (18). Pub. L. 103–465, § 351(e)(9), added par. (17) and redesig
 
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 352 of Pub. L. 103–465, set out as a note under section 2531 of this title.
 
-#### § 2572. Exemptions
+#### § 2572. Exemptions
 
 This subchapter does not apply to—
 
@@ -2021,13 +2021,13 @@ This subchapter does not apply to—
 
 **(2)** any standards activity engaged in by any private person solely for use in the production or consumption of products by that person.
 
-(Pub. L. 96–39, title IV, § 452, July 26, 1979, 93 Stat. 250.)
+(Pub. L. 96–39, title IV, § 452, July 26, 1979, 93 Stat. 250.)
 
-#### § 2573. Reports to Congress on operation of agreement
+#### § 2573. Reports to Congress on operation of agreement
 
 As soon as practicable after the close of the 3-year period beginning on the date on which this subchapter takes effect, and as soon as practicable after the close of each succeeding 3-year period through 2001, the Trade Representative shall prepare and submit to Congress a report containing an evaluation of the operation of the Agreement, both domestically and internationally, during the period.
 
-(Pub. L. 96–39, title IV, § 453, July 26, 1979, 93 Stat. 250; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title III, § 351(f), Dec. 8, 1994, 108 Stat. 4957; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 453, July 26, 1979, 93 Stat. 250; Pub. L. 103–182, title III, § 351(b)(2)(A), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title III, § 351(f), Dec. 8, 1994, 108 Stat. 4957; Pub. L. 104–295, § 21(b)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
@@ -2049,7 +2049,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 #### subpart 1—sanitary and phytosanitary measures
 
-##### § 2575. General
+##### § 2575. General
 
 Nothing in this subpart may be construed—
 
@@ -2057,9 +2057,9 @@ Nothing in this subpart may be construed—
 
 **(2)** to limit the authority of a Federal agency or State agency to determine the level of protection of human, animal, or plant life or health the agency considers appropriate.
 
-(Pub. L. 96–39, title IV, § 461, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2118.)
+(Pub. L. 96–39, title IV, § 461, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2118.)
 
-##### § 2575a. Inquiry point
+##### § 2575a. Inquiry point
 
 The standards information center maintained under section 2544 of this title shall, in addition to the functions specified therein, make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
 
@@ -2071,9 +2071,9 @@ The standards information center maintained under section 2544 of this title sha
 
 **(4)** the location of notices of the type required under article 719 of the NAFTA, or where the information contained in such notices can be obtained.
 
-(Pub. L. 96–39, title IV, § 462, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2118.)
+(Pub. L. 96–39, title IV, § 462, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2118.)
 
-##### § 2575b. Subpart definitions
+##### § 2575b. Subpart definitions
 
 Notwithstanding section 2571 of this title, for purposes of this subpart—
 
@@ -2137,11 +2137,11 @@ The term “plant” includes wild flora.
 
 **(viii)** a quarantine treatment, such as a relevant requirement associated with the transportation of animals or plants or with material necessary for their survival during transportation.
 
-(Pub. L. 96–39, title IV, § 463, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2119.)
+(Pub. L. 96–39, title IV, § 463, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2119.)
 
 #### subpart 2—standards-related measures
 
-##### § 2576. General
+##### § 2576. General
 
 **(a) No bar to engaging in standards activity** Nothing in this subpart shall be construed—
 
@@ -2155,9 +2155,9 @@ The term “plant” includes wild flora.
 
 **(2)** sanitary or phytosanitary measures under subpart 1.
 
-(Pub. L. 96–39, title IV, § 471, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2120.)
+(Pub. L. 96–39, title IV, § 471, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2120.)
 
-##### § 2576a. Inquiry point
+##### § 2576a. Inquiry point
 
 The standards information center maintained under section 2544 of this title shall, in addition to the functions specified therein, make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
 
@@ -2167,9 +2167,9 @@ The standards information center maintained under section 2544 of this title sha
 
 **(3)** the Federal agency procedures for assessment of risk, and factors the agency considers in conducting the assessment and establishing the levels of protection that the agency considers appropriate.
 
-(Pub. L. 96–39, title IV, § 472, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2120.)
+(Pub. L. 96–39, title IV, § 472, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2120.)
 
-##### § 2576b. Subpart definitions
+##### § 2576b. Subpart definitions
 
 Notwithstanding section 2571 of this title, for purposes of this subpart—
 
@@ -2235,11 +2235,11 @@ set out in a document, including applicable administrative, explanatory, and oth
 
 The term “telecommunications service” means a service provided by means of the transmission and reception of signals by any electromagnetic means, but does not mean the cable, broadcast, or other electromagnetic distribution of radio or television programming to the public generally.
 
-(Pub. L. 96–39, title IV, § 473, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2120.)
+(Pub. L. 96–39, title IV, § 473, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2120.)
 
 #### subpart 3—part definitions
 
-##### § 2577. Definitions
+##### § 2577. Definitions
 
 Notwithstanding section 2571 of this title, for purposes of this part—
 
@@ -2251,11 +2251,11 @@ The term “NAFTA” means the North American Free Trade Agreement.
 
 The term “State” means any of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 96–39, title IV, § 481, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2122.)
+(Pub. L. 96–39, title IV, § 481, as added Pub. L. 103–182, title III, § 351(a), Dec. 8, 1993, 107 Stat. 2122.)
 
 ### Part F—International Standard-Setting Activities
 
-#### § 2578. Notice of United States participation in international standard-setting activities
+#### § 2578. Notice of United States participation in international standard-setting activities
 
 **(a) In general**
 
@@ -2283,7 +2283,7 @@ Not later than June 1 of each year, the agency designated under subsection (a) w
 
 The agency specified in subsection (c)(2)(D) shall provide an opportunity for public comment with respect to the standards for which the agency is responsible and shall take the comments into account in participating in the consideration of the standards and in proposing matters to be considered by the organization.
 
-(Pub. L. 96–39, title IV, § 491, as added Pub. L. 103–465, title IV, § 432, Dec. 8, 1994, 108 Stat. 4970.)
+(Pub. L. 96–39, title IV, § 491, as added Pub. L. 103–465, title IV, § 432, Dec. 8, 1994, 108 Stat. 4970.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2297,7 +2297,7 @@ Section effective on the date of entry into force of the WTO Agreement with resp
 
 Secretary of Agriculture designated under this section as official responsible for informing public of sanitary and phytosanitary standard-setting activities of each international standard-setting organization, see par. (4) of Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15847, set out as a note under section 3511 of this title.
 
-#### § 2578a. Equivalence determinations
+#### § 2578a. Equivalence determinations
 
 **(a) In general**
 
@@ -2311,13 +2311,13 @@ If the Commissioner proposes to issue a determination of the equivalency of a sa
 
 If the Commissioner proposes to issue a determination of the equivalency of a sanitary or phytosanitary measure of a foreign country to a sanitary or phytosanitary measure of the Food and Drug Administration that is not required to be promulgated as a rule under the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] or other statute administered by the Food and Drug Administration, the Commissioner shall publish a notice in the Federal Register that identifies the basis for the determination that the measure provides at least the same level of sanitary or phytosanitary protection as the comparable Federal sanitary or phytosanitary measure. The Commissioner shall provide opportunity for interested persons to comment on the notice. The Commissioner shall not issue a final determination on the issue of equivalency without taking into account the comments received.
 
-(Pub. L. 96–39, title IV, § 492, as added Pub. L. 103–465, title IV, § 432, Dec. 8, 1994, 108 Stat. 4971; amended Pub. L. 104–295, § 20(d)(1), Oct. 11, 1996, 110 Stat. 3529.)
+(Pub. L. 96–39, title IV, § 492, as added Pub. L. 103–465, title IV, § 432, Dec. 8, 1994, 108 Stat. 4971; amended Pub. L. 104–295, § 20(d)(1), Oct. 11, 1996, 110 Stat. 3529.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 **Amendments**
 
@@ -2329,7 +2329,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), i
 
 Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under section 3601 of this title.
 
-#### § 2578b. Definitions
+#### § 2578b. Definitions
 
 **(a) In general** As used in this part:
 
@@ -2363,7 +2363,7 @@ The term “sanitary or phytosanitary standard” means a standard intended to f
 
 The definitions set forth in section 2575b of this title apply for purposes of this part except that in applying paragraph (7) of section 2575b of this title with respect to a sanitary or phytosanitary measure of a foreign country, any reference in such paragraph to the United States shall be deemed to be a reference to that foreign country.
 
-(Pub. L. 96–39, title IV, § 493, as added Pub. L. 103–465, title IV, § 432, Dec. 8, 1994, 108 Stat. 4972; amended Pub. L. 116–260, div. O, title VI, § 602(f), Dec. 27, 2020, 134 Stat. 2154.)
+(Pub. L. 96–39, title IV, § 493, as added Pub. L. 103–465, title IV, § 432, Dec. 8, 1994, 108 Stat. 4972; amended Pub. L. 116–260, div. O, title VI, § 602(f), Dec. 27, 2020, 134 Stat. 2154.)
 
 **Editorial Notes**
 
@@ -2375,7 +2375,7 @@ The definitions set forth in section 2575b of this title apply for purposes of t
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. O, title VI, § 602(g), Dec. 27, 2020, 134 Stat. 2154, provided that: “This section [amending this section, sections 2702 to 2703a, 3721, 3722, and 4362 of this title, section 11 of Title 35, Patents, and section 2296b of Title 42, The Public Health and Welfare] and the amendments made by this section shall take effect on July 1, 2020.”
+Pub. L. 116–260, div. O, title VI, § 602(g), Dec. 27, 2020, 134 Stat. 2154, provided that: “This section [amending this section, sections 2702 to 2703a, 3721, 3722, and 4362 of this title, section 11 of Title 35, Patents, and section 2296b of Title 42, The Public Health and Welfare] and the amendments made by this section shall take effect on July 1, 2020.”
 
 **Effective Date**
 
@@ -2383,7 +2383,7 @@ Section effective on the date of entry into force of the WTO Agreement with resp
 
 ## SUBCHAPTER III—MISCELLANEOUS PROVISIONS
 
-### § 2581. Auction of import licenses
+### § 2581. Auction of import licenses
 
 **(a) In general**
 
@@ -2399,23 +2399,23 @@ Notwithstanding any other provision of law, the President may sell import licens
 
 **(4)** the Trading With the Enemy Act (50 U.S.C. App. 1–44),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(5)** section 204 of the Agricultural Act of 1956 (7 U.S.C. 1854) other than for meat or meat products, or
 
 **(6)** any Act enacted explicitly for the purpose of implementing an international agreement to which the United States is a party, including such agreements relating to commodities, but not including any agreement relating to cheese or dairy products.
 
-(Pub. L. 96–39, title XI, § 1102, July 26, 1979, 93 Stat. 307; Pub. L. 100–418, title I, § 1214(k), Aug. 23, 1988, 102 Stat. 1158.)
+(Pub. L. 96–39, title XI, § 1102, July 26, 1979, 93 Stat. 307; Pub. L. 100–418, title I, § 1214(k), Aug. 23, 1988, 102 Stat. 1158.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(2), is Pub. L. 95–223, title II, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(2), is Pub. L. 95–223, title II, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-The Trading With the Enemy Act, referred to in subsec. (b)(4), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsec. (b)(4), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified generally to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -2429,11 +2429,11 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 **Effective Date**
 
-Pub. L. 96–39, title XI, § 1114, July 26, 1979, 93 Stat. 317, provided that: “Except as otherwise provided in this title, this title [enacting this subchapter, amending the Tariff Schedules of the United States and sections 1315, 1337, 2112, 2119, 2131, 2155, 2192, 2253, 2432, 2434, 2435, 2462, 2463, 2464, 2481, and 2486 of this title, section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 13, Census, enacting provisions set out as notes under sections 2111, 2112, and 2464 of this title and 301 of Title 13, and amending a provision set out as a note under section 2101 of this title] shall take effect on the date of enactment of this Act [July 26, 1979].”
+Pub. L. 96–39, title XI, § 1114, July 26, 1979, 93 Stat. 317, provided that: “Except as otherwise provided in this title, this title [enacting this subchapter, amending the Tariff Schedules of the United States and sections 1315, 1337, 2112, 2119, 2131, 2155, 2192, 2253, 2432, 2434, 2435, 2462, 2463, 2464, 2481, and 2486 of this title, section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 13, Census, enacting provisions set out as notes under sections 2111, 2112, and 2464 of this title and 301 of Title 13, and amending a provision set out as a note under section 2101 of this title] shall take effect on the date of enactment of this Act [July 26, 1979].”
 
-### § 2582. Repealed. Pub. L. 98–67, title II, § 214(d), Aug. 5, 1983, 97 Stat. 393
+### § 2582. Repealed. Pub. L. 98–67, title II, § 214(d), Aug. 5, 1983, 97 Stat. 393
 
-Section, Pub. L. 96–39, title XI, § 1112, July 26, 1979, 93 Stat. 316, authorized payment of compensation to losses in taxes resulting from concessions granted by United States in Tokyo Round of Multilateral Trade Negotiations on articles produced by United States possessions on which excise taxes are levied by United States.
+Section, Pub. L. 96–39, title XI, § 1112, July 26, 1979, 93 Stat. 316, authorized payment of compensation to losses in taxes resulting from concessions granted by United States in Tokyo Round of Multilateral Trade Negotiations on articles produced by United States possessions on which excise taxes are levied by United States.
 
 **Statutory Notes and Related Subsidiaries**
 

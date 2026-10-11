@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–248, title III, § 302(1), July 27, 2006, 120 Stat. 619, inserted “or to undergo postrelease proceedings” after “trial” in item 4241 and added item 4248.
+2006—Pub. L. 109–248, title III, § 302(1), July 27, 2006, 120 Stat. 619, inserted “or to undergo postrelease proceedings” after “trial” in item 4241 and added item 4248.
 
-1984—Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2057, substituted “OFFENDERS WITH MENTAL DISEASE OR DEFECT” for “MENTAL DEFECTIVES” in chapter heading, “Determination of mental competency to stand trial” for “Examination and transfer to hospital” in item 4241, “Determination of the existence of insanity at the time of the offense” for “Retransfer upon recovery” in item 4242, “Hospitalization of a person found not guilty only by reason of insanity” for “Delivery to state authorities on expiration of sentence” in item 4243, “Hospitalization of a convicted person suffering from mental disease or defect” for “Mental competency after arrest and before trial” in item 4244, “Hospitalization of an imprisoned person suffering from mental disease or defect” for “Mental incompetency undisclosed at trial” in item 4245, “Hospitalization of a person due for release but suffering from mental disease or defect” for “Procedure upon finding of mental incompetency” in item 4246, and “General provisions for chapter” for “Alternate procedure on expiration of sentence” in item 4247, and struck out item 4248 “Termination of custody by release or transfer”.
+1984—Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2057, substituted “OFFENDERS WITH MENTAL DISEASE OR DEFECT” for “MENTAL DEFECTIVES” in chapter heading, “Determination of mental competency to stand trial” for “Examination and transfer to hospital” in item 4241, “Determination of the existence of insanity at the time of the offense” for “Retransfer upon recovery” in item 4242, “Hospitalization of a person found not guilty only by reason of insanity” for “Delivery to state authorities on expiration of sentence” in item 4243, “Hospitalization of a convicted person suffering from mental disease or defect” for “Mental competency after arrest and before trial” in item 4244, “Hospitalization of an imprisoned person suffering from mental disease or defect” for “Mental incompetency undisclosed at trial” in item 4245, “Hospitalization of a person due for release but suffering from mental disease or defect” for “Procedure upon finding of mental incompetency” in item 4246, and “General provisions for chapter” for “Alternate procedure on expiration of sentence” in item 4247, and struck out item 4248 “Termination of custody by release or transfer”.
 
-1951—Act Oct. 31, 1951, ch. 655, § 33, 65 Stat. 723, inserted “on expiration of sentence” in item 4243.
+1951—Act Oct. 31, 1951, ch. 655, § 33, 65 Stat. 723, inserted “on expiration of sentence” in item 4243.
 
-1949—Act Sept. 7, 1949, ch. 535, § 2, 63 Stat. 688, added items 4244 to 4248.
+1949—Act Sept. 7, 1949, ch. 535, § 2, 63 Stat. 688, added items 4244 to 4248.
 
-## § 4241. Determination of mental competency to stand trial to undergo postrelease proceedings 1 [footnote: 1 So in original. Probably should be “stand trial or to undergo postrelease proceedings”.]
+## § 4241. Determination of mental competency to stand trial to undergo postrelease proceedings 1 [footnote: 1 So in original. Probably should be “stand trial or to undergo postrelease proceedings”.]
 
 **(a) Motion To Determine Competency of Defendant.—** At any time after the commencement of a prosecution for an offense and prior to the sentencing of the defendant, or at any time after the commencement of probation or supervised release and prior to the completion of the sentence, the defendant or the attorney for the Government may file a motion for a hearing to determine the mental competency of the defendant. The court shall grant the motion, or shall order such a hearing on its own motion, if there is reasonable cause to believe that the defendant may presently be suffering from a mental disease or defect rendering him mentally incompetent to the extent that he is unable to understand the nature and consequences of the proceedings against him or to assist properly in his defense.
 
@@ -53,11 +53,11 @@ If, at the end of the time period specified, it is determined that the defendant
 
 **(f) Admissibility of Finding of Competency.—** A finding by the court that the defendant is mentally competent to stand trial shall not prejudice the defendant in raising the issue of his insanity as a defense to the offense charged, and shall not be admissible as evidence in a trial for the offense charged.
 
-(June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2057; Pub. L. 109–248, title III, § 302(2), July 27, 2006, 120 Stat. 619.)
+(June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2057; Pub. L. 109–248, title III, § 302(2), July 27, 2006, 120 Stat. 619.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 876 (May 13, 1930, ch. 254, § 6, 46 Stat. 271).
+Based on title 18, U.S.C., 1940 ed., § 876 (May 13, 1930, ch. 254, § 6, 46 Stat. 271).
 
 Changes were made in phraseology and surplusage omitted.
 
@@ -65,13 +65,13 @@ Changes were made in phraseology and surplusage omitted.
 
 **Amendments**
 
-2006—Pub. L. 109–248, § 302(2)(A), inserted “to undergo postrelease proceedings” after “trial” in section catchline.
+2006—Pub. L. 109–248, § 302(2)(A), inserted “to undergo postrelease proceedings” after “trial” in section catchline.
 
-Subsec. (a). Pub. L. 109–248, § 302(2)(B), inserted “or at any time after the commencement of probation or supervised release and prior to the completion of the sentence,” after “sentencing of the defendant,”.
+Subsec. (a). Pub. L. 109–248, § 302(2)(B), inserted “or at any time after the commencement of probation or supervised release and prior to the completion of the sentence,” after “sentencing of the defendant,”.
 
-Subsec. (d). Pub. L. 109–248, § 302(2)(C), substituted “proceedings to go forward” for “trial to proceed” wherever appearing and “sections 4246 and 4248” for “section 4246” in concluding provisions.
+Subsec. (d). Pub. L. 109–248, § 302(2)(C), substituted “proceedings to go forward” for “trial to proceed” wherever appearing and “sections 4246 and 4248” for “section 4246” in concluding provisions.
 
-Subsec. (e). Pub. L. 109–248, § 302(2)(D), inserted “or other proceedings” after “trial” and substituted “chapters 207 and 227” for “chapter 207”.
+Subsec. (e). Pub. L. 109–248, § 302(2)(D), inserted “or other proceedings” after “trial” and substituted “chapters 207 and 227” for “chapter 207”.
 
 1984—Pub. L. 98–473 amended section generally, substituting “Determination of mental competency to stand trial” for “Examination and transfer to hospital” in section catchline, and substituting provisions relating to motion, report, hearing, etc., for determination of competency of defendant, for provisions relating to boards of examiners for examination of inmates of Federal penal and correctional institutions and transfer of such inmates to hospitals.
 
@@ -79,9 +79,9 @@ Subsec. (e). Pub. L. 109–248, § 302(2)(D), inserted “or other proceedings
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 401, Oct. 12, 1984, 98 Stat. 2057, provided that: “This chapter [chapter IV (§§ 401–406) of title II of Pub. L. 98–473, enacting section 20 of this title and amending this chapter, section 3006A of this title, and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title] may be sited [cited] as the ‘Insanity Defense Reform Act of 1984’.”
+Pub. L. 98–473, title II, § 401, Oct. 12, 1984, 98 Stat. 2057, provided that: “This chapter [chapter IV (§§ 401–406) of title II of Pub. L. 98–473, enacting section 20 of this title and amending this chapter, section 3006A of this title, and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title] may be sited [cited] as the ‘Insanity Defense Reform Act of 1984’.”
 
-## § 4242. Determination of the existence of insanity at the time of the offense
+## § 4242. Determination of the existence of insanity at the time of the offense
 
 **(a) Motion for Pretrial Psychiatric or Psychological Examination.—** Upon the filing of a notice, as provided in Rule 12.2 of the Federal Rules of Criminal Procedure, that the defendant intends to rely on the defense of insanity, the court, upon motion of the attorney for the Government, shall order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c).
 
@@ -93,11 +93,11 @@ Pub. L. 98–473, title II, § 401, Oct. 12, 1984, 98 Stat. 2057, provided tha
 
 **(3)** not guilty only by reason of insanity.
 
-(June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2059.)
+(June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2059.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 877 (May 13, 1930, ch. 254, § 7, 46 Stat. 272).
+Based on title 18, U.S.C., 1940 ed., § 877 (May 13, 1930, ch. 254, § 7, 46 Stat. 272).
 
 Minor change was made in phraseology.
 
@@ -107,7 +107,7 @@ Minor change was made in phraseology.
 
 1984—Pub. L. 98–473 amended section generally, substituting “Determination of the existence of insanity at the time of the offense” for “Retransfer upon recovery” in section catchline, and substituting provisions relating to motion for pretrial psychiatric or psychological examination, and special verdict, for provisions relating to retransfer to a penal or correctional institution upon recovery of an inmate of the United States hospital for defective delinquents.
 
-## § 4243. Hospitalization of a person found not guilty only by reason of insanity
+## § 4243. Hospitalization of a person found not guilty only by reason of insanity
 
 **(a) Determination of Present Mental Condition of Acquitted Person.—** If a person is found not guilty only by reason of insanity at the time of the offense charged, he shall be committed to a suitable facility until such time as he is eligible for release pursuant to subsection (e).
 
@@ -169,11 +169,11 @@ The court at any time may, after a hearing employing the same criteria, modify o
 
 **(3) Construction with other sections.—** Subsections (f) and (g) and section 4247 shall apply to any person transferred to the custody of the Attorney General pursuant to this subsection.
 
-(June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2059; Pub. L. 100–690, title VII, § 7043, Nov. 18, 1988, 102 Stat. 4400; Pub. L. 104–294, title III, § 301(a), Oct. 11, 1996, 110 Stat. 3494.)
+(June 25, 1948, ch. 645, 62 Stat. 855; Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2059; Pub. L. 100–690, title VII, § 7043, Nov. 18, 1988, 102 Stat. 4400; Pub. L. 104–294, title III, § 301(a), Oct. 11, 1996, 110 Stat. 3494.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 878 (May 13, 1930, ch. 254, § 8, 46 Stat. 272).
+Based on title 18, U.S.C., 1940 ed., § 878 (May 13, 1930, ch. 254, § 8, 46 Stat. 272).
 
 Changes were made in translations and phraseology, and unnecessary words omitted.
 
@@ -191,11 +191,11 @@ Changes were made in translations and phraseology, and unnecessary words omitted
 
 **Severability**
 
-Pub. L. 104–294, title III, § 301(d), Oct. 11, 1996, 110 Stat. 3495, provided that: “If any provision of this section [amending this section and enacting provisions set out as notes below], an amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this section and the amendments made by this section shall not be affected thereby.”
+Pub. L. 104–294, title III, § 301(d), Oct. 11, 1996, 110 Stat. 3495, provided that: “If any provision of this section [amending this section and enacting provisions set out as notes below], an amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this section and the amendments made by this section shall not be affected thereby.”
 
 **Transfer of Records**
 
-Pub. L. 104–294, title III, § 301(b), Oct. 11, 1996, 110 Stat. 3495, provided that:
+Pub. L. 104–294, title III, § 301(b), Oct. 11, 1996, 110 Stat. 3495, provided that:
 
 > “Notwithstanding any provision of the District of Columbia Code or any other provision of law, the District of Columbia and St. Elizabeth’s Hospital—
 
@@ -209,9 +209,9 @@ Pub. L. 104–294, title III, § 301(b), Oct. 11, 1996, 110 Stat. 3495, provid
 
 **Clarification of Effect on Certain Testimonial Privileges**
 
-Pub. L. 104–294, title III, § 301(c), Oct. 11, 1996, 110 Stat. 3495, provided that: “The amendments made by this section [amending this section and enacting provisions set out as notes above] shall not be construed to affect in any manner any doctor-patient or psychotherapist-patient testimonial privilege that may be otherwise applicable to persons found not guilty by reason of insanity and affected by this section.”
+Pub. L. 104–294, title III, § 301(c), Oct. 11, 1996, 110 Stat. 3495, provided that: “The amendments made by this section [amending this section and enacting provisions set out as notes above] shall not be construed to affect in any manner any doctor-patient or psychotherapist-patient testimonial privilege that may be otherwise applicable to persons found not guilty by reason of insanity and affected by this section.”
 
-## § 4244. Hospitalization of a convicted person suffering from mental disease or defect
+## § 4244. Hospitalization of a convicted person suffering from mental disease or defect
 
 **(a) Motion To Determine Present Mental Condition of Convicted Defendant.—** A defendant found guilty of an offense, or the attorney for the Government, may, within ten days after the defendant is found guilty, and prior to the time the defendant is sentenced, file a motion for a hearing on the present mental condition of the defendant if the motion is supported by substantial information indicating that the defendant may presently be suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility. The court shall grant the motion, or at any time prior to the sentencing of the defendant shall order such a hearing on its own motion, if it is of the opinion that there is reasonable cause to believe that the defendant may presently be suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility.
 
@@ -223,7 +223,7 @@ Pub. L. 104–294, title III, § 301(c), Oct. 11, 1996, 110 Stat. 3495, provid
 
 **(e) Discharge.—** When the director of the facility in which the defendant is hospitalized pursuant to subsection (d) determines that the defendant has recovered from his mental disease or defect to such an extent that he is no longer in need of custody for care or treatment in such a facility, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the defendant’s counsel and to the attorney for the Government. If, at the time of the filing of the certificate, the provisional sentence imposed pursuant to subsection (d) has not expired, the court shall proceed finally to sentencing and may modify the provisional sentence.
 
-(Added Sept. 7, 1949, ch. 535, § 1, 63 Stat. 686; amended Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2061.)
+(Added Sept. 7, 1949, ch. 535, § 1, 63 Stat. 686; amended Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2061.)
 
 **Editorial Notes**
 
@@ -235,13 +235,13 @@ Pub. L. 104–294, title III, § 301(c), Oct. 11, 1996, 110 Stat. 3495, provid
 
 **Separability**
 
-Act Sept. 7, 1949, ch. 535, § 4, 63 Stat. 688, provided that: “If any provision of Title 18, United States Code, sections 4244 to 4248, inclusive, or the application thereof to any person or circumstance shall be held invalid, the remainder of the said sections and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
+Act Sept. 7, 1949, ch. 535, § 4, 63 Stat. 688, provided that: “If any provision of Title 18, United States Code, sections 4244 to 4248, inclusive, or the application thereof to any person or circumstance shall be held invalid, the remainder of the said sections and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
 
 **Use of Appropriations**
 
-Act Sept. 7, 1949, ch. 535, § 3, 63 Stat. 688, provided that: “The Attorney General may authorize the use of any unexpended balance of the appropriation for ‘Support of United States prisoners’ for carrying out the purposes of Title 18, United States Code, sections 4244 to 4248, inclusive, or in payment of any expenses incidental thereto and not provided for by other specific appropriations.”
+Act Sept. 7, 1949, ch. 535, § 3, 63 Stat. 688, provided that: “The Attorney General may authorize the use of any unexpended balance of the appropriation for ‘Support of United States prisoners’ for carrying out the purposes of Title 18, United States Code, sections 4244 to 4248, inclusive, or in payment of any expenses incidental thereto and not provided for by other specific appropriations.”
 
-## § 4245. Hospitalization of an imprisoned person suffering from mental disease or defect
+## § 4245. Hospitalization of an imprisoned person suffering from mental disease or defect
 
 **(a) Motion To Determine Present Mental Condition of Imprisoned Person.—** If a person serving a sentence of imprisonment objects either in writing or through his attorney to being transferred to a suitable facility for care or treatment, an attorney for the Government, at the request of the director of the facility in which the person is imprisoned, may file a motion with the court for the district in which the facility is located for a hearing on the present mental condition of the person. The court shall grant the motion if there is reasonable cause to believe that the person may presently be suffering from a mental disease or defect for the treatment of which he is in need of custody for care or treatment in a suitable facility. A motion filed under this subsection shall stay the transfer of the person pending completion of procedures contained in this section.
 
@@ -253,7 +253,7 @@ Act Sept. 7, 1949, ch. 535, § 3, 63 Stat. 688, provided that: “The Attorney
 
 **(e) Discharge.—** When the director of the facility in which the person is hospitalized pursuant to subsection (d) determines that the person has recovered from his mental disease or defect to such an extent that he is no longer in need of custody for care or treatment in such a facility, he shall promptly file a certificate to that effect with the clerk of the court that ordered the commitment. The clerk shall send a copy of the certificate to the person’s counsel and to the attorney for the Government. If, at the time of the filing of the certificate, the term of imprisonment imposed upon the person has not expired, the court shall order that the person be reimprisoned until the expiration of his sentence of imprisonment.
 
-(Added Sept. 7, 1949, ch. 535, § 1, 63 Stat. 687; amended Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2062.)
+(Added Sept. 7, 1949, ch. 535, § 1, 63 Stat. 687; amended Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2062.)
 
 **Editorial Notes**
 
@@ -261,7 +261,7 @@ Act Sept. 7, 1949, ch. 535, § 3, 63 Stat. 688, provided that: “The Attorney
 
 1984—Pub. L. 98–473 amended section generally, substituting “Hospitalization of an imprisoned person suffering from mental disease or defect” for “Mental incompetency undisclosed at trial” in section catchline, and substituting provisions relating to motion, examination and report, hearing, etc., to determine present mental condition of imprisoned person, for provisions relating to procedures and authorities regarding mental incompetency undisclosed at trial.
 
-## § 4246. Hospitalization of a person due for release but suffering from mental disease or defect
+## § 4246. Hospitalization of a person due for release but suffering from mental disease or defect
 
 **(a) Institution of Proceeding.—** If the director of a facility in which a person is hospitalized certifies that a person in the custody of the Bureau of Prisons whose sentence is about to expire, or who has been committed to the custody of the Attorney General pursuant to section 4241(d), or against whom all criminal charges have been dismissed solely for reasons related to the mental condition of the person, is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another, and that suitable arrangements for State custody and care of the person are not available, he shall transmit the certificate to the clerk of the court for the district in which the person is confined. The clerk shall send a copy of the certificate to the person, and to the attorney for the Government, and, if the person was committed pursuant to section 4241(d), to the clerk of the court that ordered the commitment. The court shall order a hearing to determine whether the person is presently suffering from a mental disease or defect as a result of which his release would create a substantial risk of bodily injury to another person or serious damage to property of another. A certificate filed under this subsection shall stay the release of the person pending completion of procedures contained in this section.
 
@@ -295,15 +295,15 @@ The court at any time may, after a hearing employing the same criteria, modify o
 
 **(h) Definition.—** As used in this chapter the term “State” includes the District of Columbia.
 
-(Added Sept. 7, 1949, ch. 535, § 1, 63 Stat. 687; amended Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2062; Pub. L. 101–647, title XXXV, § 3599D, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 105–33, title XI, § 11204(1), Aug. 5, 1997, 111 Stat. 739.)
+(Added Sept. 7, 1949, ch. 535, § 1, 63 Stat. 687; amended Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2062; Pub. L. 101–647, title XXXV, § 3599D, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 105–33, title XI, § 11204(1), Aug. 5, 1997, 111 Stat. 739.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1997—Subsec. (a). Pub. L. 105–33, § 11204(1)(A), inserted “in the custody of the Bureau of Prisons” after “certifies that a person”.
+1997—Subsec. (a). Pub. L. 105–33, § 11204(1)(A), inserted “in the custody of the Bureau of Prisons” after “certifies that a person”.
 
-Subsec. (h). Pub. L. 105–33, § 11204(1)(B), added subsec. (h).
+Subsec. (h). Pub. L. 105–33, § 11204(1)(B), added subsec. (h).
 
 1990—Subsec. (g). Pub. L. 101–647 substituted “chapter” for “subchapter”.
 
@@ -313,9 +313,9 @@ Subsec. (h). Pub. L. 105–33, § 11204(1)(B), added subsec. (h).
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–33, title XI, § 11721, Aug. 5, 1997, 111 Stat. 786, provided that: “Except as otherwise provided in this title [enacting section 138 of former Title 40, Public Buildings, Property, and Works, amending this section, section 4247 of this title, section 1063 of Title 20, Education, section 225b of Title 24, Hospitals and Asylums, sections 6103 and 7213 of Title 26, Internal Revenue Code, sections 715 and 6501 of Title 31, Money and Finance, sections 71f and 138 of former Title 40, and sections 13723 and 14407 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 6103 of Title 26, and amending provisions set out as a note under section 4201 of this title], the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995 [Pub. L. 104–8, 109 Stat. 108], as amended by this title [so certified Sept. 8, 1997].”
+Pub. L. 105–33, title XI, § 11721, Aug. 5, 1997, 111 Stat. 786, provided that: “Except as otherwise provided in this title [enacting section 138 of former Title 40, Public Buildings, Property, and Works, amending this section, section 4247 of this title, section 1063 of Title 20, Education, section 225b of Title 24, Hospitals and Asylums, sections 6103 and 7213 of Title 26, Internal Revenue Code, sections 715 and 6501 of Title 31, Money and Finance, sections 71f and 138 of former Title 40, and sections 13723 and 14407 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under section 6103 of Title 26, and amending provisions set out as a note under section 4201 of this title], the provisions of this title shall take effect on the later of October 1, 1997, or the day the District of Columbia Financial Responsibility and Management Assistance Authority certifies that the financial plan and budget for the District government for fiscal year 1998 meet the requirements of section 201(c)(1) of the District of Columbia Financial Responsibility and Management Assistance Act of 1995 [Pub. L. 104–8, 109 Stat. 108], as amended by this title [so certified Sept. 8, 1997].”
 
-## § 4247. General provisions for chapter
+## § 4247. General provisions for chapter
 
 **(a) Definitions.—** As used in this chapter—
 
@@ -337,9 +337,9 @@ Pub. L. 105–33, title XI, § 11721, Aug. 5, 1997, 111 Stat. 786, provided th
 
 **(5)** “sexually dangerous person” means a person who has engaged or attempted to engage in sexually violent conduct or child molestation and who is sexually dangerous to others; and
 
-**(6)** “sexually dangerous to others” with respect 1
+**(6)** “sexually dangerous to others” with respect 1
 
-<sup>1</sup>  So in original. Probably should be followed by “to”.
+<sup>1</sup> So in original. Probably should be followed by “to”.
 
 a person, means that the person suffers from a serious mental illness, abnormality, or disorder as a result of which he would have serious difficulty in refraining from sexually violent conduct or child molestation if released.
 
@@ -397,7 +397,7 @@ a person, means that the person suffers from a serious mental illness, abnormali
 
 **(j)** Sections 4241, 4242, 4243, and 4244 do not apply to a prosecution under an Act of Congress applicable exclusively to the District of Columbia or the Uniform Code of Military Justice.
 
-(Added Sept. 7, 1949, ch. 535, § 1, 63 Stat. 687; amended Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2065; Pub. L. 100–690, title VII, §§ 7044, 7047(a), Nov. 18, 1988, 102 Stat. 4400, 4401; Pub. L. 103–322, title XXXIII, § 330003(d), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 105–33, title XI, § 11204(2), (3), Aug. 5, 1997, 111 Stat. 739; Pub. L. 109–248, title III, § 302(3), July 27, 2006, 120 Stat. 619.)
+(Added Sept. 7, 1949, ch. 535, § 1, 63 Stat. 687; amended Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2065; Pub. L. 100–690, title VII, §§ 7044, 7047(a), Nov. 18, 1988, 102 Stat. 4400, 4401; Pub. L. 103–322, title XXXIII, § 330003(d), Sept. 13, 1994, 108 Stat. 2141; Pub. L. 105–33, title XI, § 11204(2), (3), Aug. 5, 1997, 111 Stat. 739; Pub. L. 109–248, title III, § 302(3), July 27, 2006, 120 Stat. 619.)
 
 **Editorial Notes**
 
@@ -405,37 +405,37 @@ a person, means that the person suffers from a serious mental illness, abnormali
 
 Acts of Congress applicable exclusively to the District of Columbia, referred to in subsec. (j), are classified generally to the District of Columbia Code.
 
-The Uniform Code of Military Justice, referred to in subsec. (j), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
+The Uniform Code of Military Justice, referred to in subsec. (j), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
 
 **Amendments**
 
-2006—Pub. L. 109–248, § 302(3)(A), substituted “, 4246, or 4248” for “, or 4246” wherever appearing.
+2006—Pub. L. 109–248, § 302(3)(A), substituted “, 4246, or 4248” for “, or 4246” wherever appearing.
 
-Subsec. (a)(1)(C). Pub. L. 109–248, § 302(3)(C)(i), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “drug, alcohol, and other treatment programs that will assist the individual in overcoming his psychological or physical dependence; and”.
+Subsec. (a)(1)(C). Pub. L. 109–248, § 302(3)(C)(i), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “drug, alcohol, and other treatment programs that will assist the individual in overcoming his psychological or physical dependence; and”.
 
-Subsec. (a)(4) to (6). Pub. L. 109–248, § 302(3)(C)(ii)–(iv), added pars. (4) to (6).
+Subsec. (a)(4) to (6). Pub. L. 109–248, § 302(3)(C)(ii)–(iv), added pars. (4) to (6).
 
-Subsec. (b). Pub. L. 109–248, § 302(3)(D), substituted “4245, 4246, or 4248” for “4245 or 4246”.
+Subsec. (b). Pub. L. 109–248, § 302(3)(D), substituted “4245, 4246, or 4248” for “4245 or 4246”.
 
-Subsec. (c)(4)(D) to (F). Pub. L. 109–248, § 302(3)(E), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+Subsec. (c)(4)(D) to (F). Pub. L. 109–248, § 302(3)(E), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-Subsec. (e). Pub. L. 109–248, § 302(3)(F), substituted “committed” for “hospitalized” wherever appearing and “continued commitment” for “continued hospitalization” in par. (1)(B).
+Subsec. (e). Pub. L. 109–248, § 302(3)(F), substituted “committed” for “hospitalized” wherever appearing and “continued commitment” for “continued hospitalization” in par. (1)(B).
 
-Subsec. (g). Pub. L. 109–248, § 302(3)(B), substituted “4243, 4246, or 4248” for “4243 or 4246”.
+Subsec. (g). Pub. L. 109–248, § 302(3)(B), substituted “4243, 4246, or 4248” for “4243 or 4246”.
 
-Subsec. (h). Pub. L. 109–248, § 302(3)(F), substituted “committed” for “hospitalized” wherever appearing and “person’s commitment” for “person’s hospitalization”.
+Subsec. (h). Pub. L. 109–248, § 302(3)(F), substituted “committed” for “hospitalized” wherever appearing and “person’s commitment” for “person’s hospitalization”.
 
-Subsec. (i)(B). Pub. L. 109–248, § 302(3)(B), substituted “4243, 4246, or 4248” for “4243 or 4246”.
+Subsec. (i)(B). Pub. L. 109–248, § 302(3)(B), substituted “4243, 4246, or 4248” for “4243 or 4246”.
 
-1997—Subsec. (a)(3). Pub. L. 105–33, § 11024(2)(C), added par. (3).
+1997—Subsec. (a)(3). Pub. L. 105–33, § 11024(2)(C), added par. (3).
 
-Subsec. (j). Pub. L. 105–33, § 11024(3), substituted “Sections 4241, 4242, 4243, and 4244 do” for “This chapter does”.
+Subsec. (j). Pub. L. 105–33, § 11024(3), substituted “Sections 4241, 4242, 4243, and 4244 do” for “This chapter does”.
 
 1994—Subsec. (h). Pub. L. 103–322 substituted “subsection (e) of section 4241, 4244, 4245, or 4246, or subsection (f) of section 4243,” for “subsection (e) of section 4241, 4243, 4244, 4245, or 4246,”.
 
-1988—Subsec. (b). Pub. L. 100–690, § 7047(a), substituted “psychologist” for “clinical psychologist” in first sentence.
+1988—Subsec. (b). Pub. L. 100–690, § 7047(a), substituted “psychologist” for “clinical psychologist” in first sentence.
 
-Subsec. (e)(1)(B). Pub. L. 100–690, § 7044, inserted at end “A copy of each such report concerning a person hospitalized after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.”
+Subsec. (e)(1)(B). Pub. L. 100–690, § 7044, inserted at end “A copy of each such report concerning a person hospitalized after the beginning of a prosecution of that person for violation of section 871, 879, or 1751 of this title shall be submitted to the Director of the United States Secret Service. Except with the prior approval of the court, the Secret Service shall not use or disclose the information in these copies for any purpose other than carrying out protective duties under section 3056(a) of this title.”
 
 1984—Pub. L. 98–473 amended section generally, substituting “General provisions for chapter” for “Alternate procedure of expiration of sentence” in section catchline, and substituting provisions relating to definitions, examinations, reports, etc., as applicable to chapter, for provisions relating to powers and duties regarding alternate procedure on expiration of sentence of prisoner.
 
@@ -449,7 +449,7 @@ Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provid
 
 For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 4248. Civil commitment of a sexually dangerous person
+## § 4248. Civil commitment of a sexually dangerous person
 
 **(a) Institution of Proceedings.—** In relation to a person who is in the custody of the Bureau of Prisons, or who has been committed to the custody of the Attorney General pursuant to section 4241(d), or against whom all criminal charges have been dismissed solely for reasons relating to the mental condition of the person, the Attorney General or any individual authorized by the Attorney General or the Director of the Bureau of Prisons may certify that the person is a sexually dangerous person, and transmit the certificate to the clerk of the court for the district in which the person is confined. The clerk shall send a copy of the certificate to the person, and to the attorney for the Government, and, if the person was committed pursuant to section 4241(d), to the clerk of the court that ordered the commitment. The court shall order a hearing to determine whether the person is a sexually dangerous person. A certificate filed under this subsection shall stay the release of the person pending completion of procedures contained in this section.
 
@@ -481,10 +481,10 @@ The court at any time may, after a hearing employing the same criteria, modify o
 
 **(g) Release to State of Certain Other Persons.—** If the director of the facility in which a person is hospitalized or placed pursuant to this chapter certifies to the Attorney General that a person, against whom all charges have been dismissed for reasons not related to the mental condition of the person, is a sexually dangerous person, the Attorney General shall release the person to the appropriate official of the State in which the person is domiciled or was tried for the purpose of institution of State proceedings for civil commitment. If neither such State will assume such responsibility, the Attorney General shall release the person upon receipt of notice from the State that it will not assume such responsibility, but not later than 10 days after certification by the director of the facility.
 
-(Added Pub. L. 109–248, title III, § 302(4), July 27, 2006, 120 Stat. 620.)
+(Added Pub. L. 109–248, title III, § 302(4), July 27, 2006, 120 Stat. 620.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4248, act Sept. 7, 1949, ch. 535, § 1, 63 Stat. 688, related to the termination of custody by release or transfer, prior to its omission in the general amendment of this chapter by Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2057.
+A prior section 4248, act Sept. 7, 1949, ch. 535, § 1, 63 Stat. 688, related to the termination of custody by release or transfer, prior to its omission in the general amendment of this chapter by Pub. L. 98–473, title II, § 403(a), Oct. 12, 1984, 98 Stat. 2057.

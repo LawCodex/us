@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 79—TRADE SANCTIONS REFORM AND EXPORT ENHANCEMENT
 
-## § 7201. Definitions
+## § 7201. Definitions
 
 In this chapter:
 
@@ -39,11 +39,11 @@ The term “agricultural commodity” has the meaning given the term in section 
 
 **(A)** in the case of section 7202(a)(1) of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7202(a)(1) of this title is received by Congress, the matter after the resolving clause of which is as follows: “That Congress approves the report of the President pursuant to section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_.”, with the blank completed with the appropriate date; and
 
-**(B)** in the case of section 7205(1) 1
+**(B)** in the case of section 7205(1) 1
 
-<sup>1</sup>  So in original. Probably should be section “7204”.
+<sup>1</sup> So in original. Probably should be section “7204”.
 
-of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7205(2) 1 of this title is received by Congress, the matter after the resolving clause of which is as follows: “That Congress approves the report of the President pursuant to section 906(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_.”, with the blank completed with the appropriate date.
+of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7205(2) 1 of this title is received by Congress, the matter after the resolving clause of which is as follows: “That Congress approves the report of the President pursuant to section 906(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_.”, with the blank completed with the appropriate date.
 
 **(4) Medical device**
 
@@ -65,19 +65,19 @@ The term “medicine” has the meaning given the term “drug” in section 321
 
 **(B)** a mandatory decision of the United Nations Security Council.
 
-(Pub. L. 106–387, § 1(a) [title IX, § 902], Oct. 28, 2000, 114 Stat. 1549, 1549A–67; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(X), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 113–79, title I, § 1423(b), Feb. 7, 2014, 128 Stat. 695.)
+(Pub. L. 106–387, § 1(a) [title IX, § 902], Oct. 28, 2000, 114 Stat. 1549, 1549A–67; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(X), June 18, 2008, 122 Stat. 1820, 1821; Pub. L. 113–79, title I, § 1423(b), Feb. 7, 2014, 128 Stat. 695.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food for Peace Act, referred to in par. (2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in par. (2)(A), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The Agricultural Trade Act of 1978, referred to in par. (2)(C), is Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, as amended generally by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668, which is classified generally to chapter 87 (§ 5601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 7 and Tables.
+The Agricultural Trade Act of 1978, referred to in par. (2)(C), is Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, as amended generally by Pub. L. 101–624, title XV, § 1531, Nov. 28, 1990, 104 Stat. 3668, which is classified generally to chapter 87 (§ 5601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 7 and Tables.
 
-Section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(A), is section 1(a) [title IX, § 903(a)(1)] of Pub. L. 106–387, which is classified to section 7202(a)(1) of this title.
+Section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(A), is section 1(a) [title IX, § 903(a)(1)] of Pub. L. 106–387, which is classified to section 7202(a)(1) of this title.
 
-Section 906 of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(B), is section 1(a) [title IX, § 906] of Pub. L. 106–387, which is classified to section 7205 of this title. Provisions relating to report of the President and enactment into law of a joint resolution are contained in section 905 of the Act, which is classified to section 7204 of this title.
+Section 906 of the Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in par. (3)(B), is section 1(a) [title IX, § 906] of Pub. L. 106–387, which is classified to section 7205 of this title. Provisions relating to report of the President and enactment into law of a joint resolution are contained in section 905 of the Act, which is classified to section 7204 of this title.
 
 **Amendments**
 
@@ -93,7 +93,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 **Effective Date**
 
-Pub. L. 106–387, § 1(a) [title IX, § 911], Oct. 28, 2000, 114 Stat. 1549, 1549A–72, provided that:
+Pub. L. 106–387, § 1(a) [title IX, § 911], Oct. 28, 2000, 114 Stat. 1549, 1549A–72, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this title [enacting this chapter] shall take effect on the date of enactment of this Act [Oct. 28, 2000], and shall apply thereafter in any fiscal year.
 
@@ -101,13 +101,13 @@ Pub. L. 106–387, § 1(a) [title IX, § 911], Oct. 28, 2000, 114 Stat. 1549
 
 **Short Title**
 
-Pub. L. 106–387, § 1(a) [title IX, § 901], Oct. 28, 2000, 114 Stat. 1549, 1549A–67, provided that: “This title [enacting this chapter] may be cited as the ‘Trade Sanctions Reform and Export Enhancement Act of 2000’.”
+Pub. L. 106–387, § 1(a) [title IX, § 901], Oct. 28, 2000, 114 Stat. 1549, 1549A–67, provided that: “This title [enacting this chapter] may be cited as the ‘Trade Sanctions Reform and Export Enhancement Act of 2000’.”
 
 **Definitions**
 
-Pub. L. 106–387, § 1(a) [title VII, § 775], Oct. 28, 2000, 114 Stat. 1549, 1549A–45, provided that: “For purposes of administering title IX of this Act [enacting this chapter], the term ‘agricultural commodity’ shall also include fertilizer and organic fertilizer, except to the extent provided pursuant to section 904 of that title [22 U.S.C. 7203].”
+Pub. L. 106–387, § 1(a) [title VII, § 775], Oct. 28, 2000, 114 Stat. 1549, 1549A–45, provided that: “For purposes of administering title IX of this Act [enacting this chapter], the term ‘agricultural commodity’ shall also include fertilizer and organic fertilizer, except to the extent provided pursuant to section 904 of that title [22 U.S.C. 7203].”
 
-## § 7202. Restriction
+## § 7202. Restriction
 
 **(a) New sanctions** Except as provided in sections 7203 and 7204 of this title and notwithstanding any other provision of law, the President may not impose a unilateral agricultural sanction or unilateral medical sanction against a foreign country or foreign entity, unless—
 
@@ -123,9 +123,9 @@ Pub. L. 106–387, § 1(a) [title VII, § 775], Oct. 28, 2000, 114 Stat. 154
 
 The President shall terminate any unilateral agricultural sanction or unilateral medical sanction that is in effect as of October 28, 2000.
 
-(Pub. L. 106–387, § 1(a) [title IX, § 903], Oct. 28, 2000, 114 Stat. 1549, 1549A–68.)
+(Pub. L. 106–387, § 1(a) [title IX, § 903], Oct. 28, 2000, 114 Stat. 1549, 1549A–68.)
 
-## § 7203. Exceptions
+## § 7203. Exceptions
 
 Section 7202 of this title shall not affect any authority or requirement to impose (or continue to impose) a sanction referred to in section 7202 of this title—
 
@@ -143,27 +143,27 @@ Section 7202 of this title shall not affect any authority or requirement to impo
 
 **(A)** controlled on the United States Munitions List established under section 2778 of this title;
 
-**(B)** controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.); 1
+**(B)** controlled on any control list established under the Export Administration Act of 1979 or any successor statute (50 U.S.C. App. 2401 et seq.); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or
 
 **(C)** used to facilitate the design, development, or production of chemical or biological weapons, missiles, or weapons of mass destruction.
 
-(Pub. L. 106–387, § 1(a) [title IX, § 904], Oct. 28, 2000, 114 Stat. 1549, 1549A–68; Pub. L. 107–56, title II, § 221(a)(1), Oct. 26, 2001, 115 Stat. 292.)
+(Pub. L. 106–387, § 1(a) [title IX, § 904], Oct. 28, 2000, 114 Stat. 1549, 1549A–68; Pub. L. 107–56, title II, § 221(a)(1), Oct. 26, 2001, 115 Stat. 292.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in par. (2)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). See the Export Control Reform Act of 2018 (50 U.S.C. 4801 et seq.).
+The Export Administration Act of 1979, referred to in par. (2)(B), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). See the Export Control Reform Act of 2018 (50 U.S.C. 4801 et seq.).
 
 **Amendments**
 
 2001—Par. (2)(C). Pub. L. 107–56 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “used to facilitate the development or production of a chemical or biological weapon or weapon of mass destruction.”
 
-## § 7204. Termination of sanctions
+## § 7204. Termination of sanctions
 
 Any unilateral agricultural sanction or unilateral medical sanction that is imposed pursuant to the procedures described in section 7202(a) of this title shall terminate not later than 2 years after the date on which the sanction became effective unless—
 
@@ -175,17 +175,17 @@ Any unilateral agricultural sanction or unilateral medical sanction that is impo
 
 **(2)** there is enacted into law a joint resolution stating the approval of Congress for the report submitted under paragraph (1).
 
-(Pub. L. 106–387, § 1(a) [title IX, § 905], Oct. 28, 2000, 114 Stat. 1549, 1549A–69.)
+(Pub. L. 106–387, § 1(a) [title IX, § 905], Oct. 28, 2000, 114 Stat. 1549, 1549A–69.)
 
-## § 7205. State sponsors of international terrorism
+## § 7205. State sponsors of international terrorism
 
 **(a) Requirement**
 
 **(1) In general**
 
-Notwithstanding any other provision of this chapter (other than section 7203 of this title), the export of agricultural commodities, medicine, or medical devices to Cuba, the Taliban or the territory of Afghanistan controlled by the Taliban, or to the government of a country that has been determined by the Secretary of State to have repeatedly provided support for acts of international terrorism under section 2371 of this title, section 4605(j)(1) 1
+Notwithstanding any other provision of this chapter (other than section 7203 of this title), the export of agricultural commodities, medicine, or medical devices to Cuba, the Taliban or the territory of Afghanistan controlled by the Taliban, or to the government of a country that has been determined by the Secretary of State to have repeatedly provided support for acts of international terrorism under section 2371 of this title, section 4605(j)(1) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50, or section 2780(d) of this title, or to any other entity in such a country, shall only be made pursuant to 1-year licenses issued by the United States Government for contracts entered into during the 1-year period of the license and shipped within the 12-month period beginning on the date of the signing of the contract, except that the requirements of such 1-year licenses shall be no more restrictive than license exceptions administered by the Department of Commerce or general licenses administered by the Department of the Treasury, except that procedures shall be in place to deny licenses for exports to any entity within such country, or in the territory of Afghanistan controlled by the Taliban, promoting international terrorism.
 
@@ -209,21 +209,21 @@ The applicable department or agency of the Federal Government shall submit to th
 
 **(5)** a description of comments received from interested parties about the extent to which the licensing procedures were effective, after the applicable department or agency holds a public 30-day comment period.
 
-(Pub. L. 106–387, § 1(a) [title IX, § 906], Oct. 28, 2000, 114 Stat. 1549, 1549A–69; Pub. L. 107–56, title II, § 221(a)(2), (3), Oct. 26, 2001, 115 Stat. 292.)
+(Pub. L. 106–387, § 1(a) [title IX, § 906], Oct. 28, 2000, 114 Stat. 1549, 1549A–69; Pub. L. 107–56, title II, § 221(a)(2), (3), Oct. 26, 2001, 115 Stat. 292.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4605(j)(1) of title 50, referred to in subsec. (a)(1), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4605(j)(1) of title 50, referred to in subsec. (a)(1), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 **Amendments**
 
-2001—Subsec. (a)(1). Pub. L. 107–56, § 221(a)(2), inserted “, the Taliban or the territory of Afghanistan controlled by the Taliban,” after “Cuba” and “, or in the territory of Afghanistan controlled by the Taliban,” after “entity within such country”.
+2001—Subsec. (a)(1). Pub. L. 107–56, § 221(a)(2), inserted “, the Taliban or the territory of Afghanistan controlled by the Taliban,” after “Cuba” and “, or in the territory of Afghanistan controlled by the Taliban,” after “entity within such country”.
 
-Subsec. (a)(2). Pub. L. 107–56, § 221(a)(3), inserted “, or to any other entity in Syria or North Korea” before period at end.
+Subsec. (a)(2). Pub. L. 107–56, § 221(a)(3), inserted “, or to any other entity in Syria or North Korea” before period at end.
 
-## § 7206. Congressional procedures
+## § 7206. Congressional procedures
 
 **(a) Referral of report**
 
@@ -239,7 +239,7 @@ A joint resolution introduced in the Senate shall be referred to the Committee o
 
 A joint resolution referred to in paragraph (1) may not be reported before the eighth session day of Congress after the introduction of the joint resolution.
 
-(Pub. L. 106–387, § 1(a) [title IX, § 907], Oct. 28, 2000, 114 Stat. 1549, 1549A–70.)
+(Pub. L. 106–387, § 1(a) [title IX, § 907], Oct. 28, 2000, 114 Stat. 1549, 1549A–70.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -247,7 +247,7 @@ A joint resolution referred to in paragraph (1) may not be reported before the e
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-## § 7207. Prohibition on United States assistance and financing
+## § 7207. Prohibition on United States assistance and financing
 
 **(a) Prohibition on United States assistance**
 
@@ -289,13 +289,13 @@ The President shall issue such regulations as are necessary to carry out this se
 
 **(C)** the term “United States person” means the Federal Government, any State or local government, or any private person or entity of the United States.
 
-(Pub. L. 106–387, § 1(a) [title IX, § 908], Oct. 28, 2000, 114 Stat. 1549, 1549A–70.)
+(Pub. L. 106–387, § 1(a) [title IX, § 908], Oct. 28, 2000, 114 Stat. 1549, 1549A–70.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trading With the Enemy Act, referred to in subsec. (b)(2), (3), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsec. (b)(2), (3), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Executive Documents**
 
@@ -303,7 +303,7 @@ The Trading With the Enemy Act, referred to in subsec. (b)(2), (3), is act Oct. 
 
 Determination of President of the United States, No. 2004–49, Sept. 20, 2004, 69 F.R. 58035, provided:
 
-Memorandum for the Secretary of State[,] the Secretary of Agriculture[, and] the Secretary of Commerce
+Memorandum for the Secretary of State[,] the Secretary of Agriculture[, and] the Secretary of Commerce
 
 By virtue of the authority vested in me by the Constitution and laws of the United States, including section 908(a)(3) of the Trade Sanctions Reform and Export Enhancement Act of 2000, title IX, Public Law 106–387 [22 U.S.C. 7207(a)(3)] (TSRA), I hereby determine that waiver of the application of section 908(a)(1) of TSRA with respect to Libya is in the national security interest of the United States and hereby waive the application of that section with respect to Libya.
 
@@ -323,13 +323,13 @@ The Secretary of State is hereby authorized and directed to publish this determi
 
 Barack Obama.
 
-## § 7208. Prohibition on additional imports from Cuba
+## § 7208. Prohibition on additional imports from Cuba
 
 Nothing in this chapter shall be construed to alter, modify, or otherwise affect the provisions of section 515.204 of title 31, Code of Federal Regulations, relating to the prohibition on the entry into the United States of merchandise that: (1) is of Cuban origin; (2) is or has been located in or transported from or through Cuba; or (3) is made or derived in whole or in part of any article which is the growth, produce, or manufacture of Cuba.
 
-(Pub. L. 106–387, § 1(a) [title IX, § 909], Oct. 28, 2000, 114 Stat. 1549, 1549A–71.)
+(Pub. L. 106–387, § 1(a) [title IX, § 909], Oct. 28, 2000, 114 Stat. 1549, 1549A–71.)
 
-## § 7209. Requirements relating to certain travel-related transactions with Cuba
+## § 7209. Requirements relating to certain travel-related transactions with Cuba
 
 **(a) Authorization of travel relating to commercial sales of agricultural and medical goods**
 
@@ -345,7 +345,7 @@ Notwithstanding any other provision of law or regulation, the Secretary of the T
 
 In this subsection, the term “tourist activities” means any activity with respect to travel to, from, or within Cuba that is not expressly authorized in subsection (a) of this section, in any of paragraphs (1) through (12) of section 515.560 of title 31, Code of Federal Regulations, or in any section referred to in any of such paragraphs (1) through (12) (as such sections were in effect on June 1, 2000).
 
-(Pub. L. 106–387, § 1(a) [title IX, § 910], Oct. 28, 2000, 114 Stat. 1549, 1549A–71; Pub. L. 111–8, div. D, title VI, § 620, Mar. 11, 2009, 123 Stat. 677.)
+(Pub. L. 106–387, § 1(a) [title IX, § 910], Oct. 28, 2000, 114 Stat. 1549, 1549A–71; Pub. L. 111–8, div. D, title VI, § 620, Mar. 11, 2009, 123 Stat. 677.)
 
 **Editorial Notes**
 
@@ -353,9 +353,9 @@ In this subsection, the term “tourist activities” means any activity with re
 
 2009—Subsec. (a). Pub. L. 111–8 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall promulgate regulations under which the travel-related transactions listed in subsection (c) of section 515.560 of title 31, Code of Federal Regulations, may be authorized on a case-by-case basis by a specific license for travel to, from, or within Cuba for the commercial export sale of agricultural commodities pursuant to the provisions of this chapter.”
 
-## § 7210. Application of the Trade Sanctions Reform and Export Enhancement Act
+## § 7210. Application of the Trade Sanctions Reform and Export Enhancement Act
 
-Nothing in the Trade Sanctions Reform and Export Enhancement Act of 2000 [22 U.S.C. § 7201 et seq.] shall limit the application or scope of any law establishing criminal or civil penalties, including any Executive order or regulation promulgated pursuant to such laws (or similar or successor laws), for the unlawful export of any agricultural commodity, medicine, or medical device to—
+Nothing in the Trade Sanctions Reform and Export Enhancement Act of 2000 [22 U.S.C. § 7201 et seq.] shall limit the application or scope of any law establishing criminal or civil penalties, including any Executive order or regulation promulgated pursuant to such laws (or similar or successor laws), for the unlawful export of any agricultural commodity, medicine, or medical device to—
 
 **(1)** a foreign organization, group, or person designated pursuant to Executive Order No. 12947 of January 23, 1995, as amended;
 
@@ -363,11 +363,11 @@ Nothing in the Trade Sanctions Reform and Export Enhancement Act of 2000 [22 U.S
 
 **(3)** a foreign organization, group, or person designated pursuant to Executive Order No. 13224 (September 23, 2001);
 
-**(4)** any narcotics trafficking entity designated pursuant to Executive Order No. 12978 (October 21, 1995) or the Foreign Narcotics Kingpin Designation Act (Public Law 106–120) [21 U.S.C. § 1901 et seq.]; or
+**(4)** any narcotics trafficking entity designated pursuant to Executive Order No. 12978 (October 21, 1995) or the Foreign Narcotics Kingpin Designation Act (Public Law 106–120) [21 U.S.C. § 1901 et seq.]; or
 
 **(5)** any foreign organization, group, or persons subject to any restriction for its involvement in weapons of mass destruction or missile proliferation.
 
-(Pub. L. 107–56, title II, § 221(b), Oct. 26, 2001, 115 Stat. 292.)
+(Pub. L. 107–56, title II, § 221(b), Oct. 26, 2001, 115 Stat. 292.)
 
 **Editorial Notes**
 
@@ -383,17 +383,17 @@ Executive Order No. 13224, referred to in par. (3), is listed in a table under s
 
 Executive Order No. 12978, referred to in par. (4), is listed in a table under section 1701 of Title 50, War and National Defense.
 
-The Foreign Narcotics Kingpin Designation Act, referred to in par. (4), is title VIII of Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1626, which is classified principally to chapter 24 (§ 1901 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 21 and Tables.
+The Foreign Narcotics Kingpin Designation Act, referred to in par. (4), is title VIII of Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1626, which is classified principally to chapter 24 (§ 1901 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 21 and Tables.
 
 **Codification**
 
 Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of the Trade Sanctions Reform and Export Enhancement Act of 2000 which comprises this chapter.
 
-## § 7211. Technical clarification relating to provision of material support to terrorism
+## § 7211. Technical clarification relating to provision of material support to terrorism
 
-No provision of the Trade Sanctions Reform and Export Enhancement Act of 2000 (title IX of Public Law 106–387) [22 U.S.C. § 7201 et seq.] shall be construed to limit or otherwise affect section 2339A or 2339B of title 18.
+No provision of the Trade Sanctions Reform and Export Enhancement Act of 2000 (title IX of Public Law 106–387) [22 U.S.C. § 7201 et seq.] shall be construed to limit or otherwise affect section 2339A or 2339B of title 18.
 
-(Pub. L. 107–56, title VIII, § 807, Oct. 26, 2001, 115 Stat. 378.)
+(Pub. L. 107–56, title VIII, § 807, Oct. 26, 2001, 115 Stat. 378.)
 
 **Editorial Notes**
 

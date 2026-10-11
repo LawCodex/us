@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1982—Pub. L. 97–221, § 2(b), July 23, 1982, 96 Stat. 233, inserted “SUBCHAPTER I—GENERAL PROVISIONS” before item 6101 and inserted “SUBCHAPTER II—FLEXIBLE AND COMPRESSED WORK SCHEDULES” and items 6120 to 6133 after item 6106.
+1982—Pub. L. 97–221, § 2(b), July 23, 1982, 96 Stat. 233, inserted “SUBCHAPTER I—GENERAL PROVISIONS” before item 6101 and inserted “SUBCHAPTER II—FLEXIBLE AND COMPRESSED WORK SCHEDULES” and items 6120 to 6133 after item 6106.
 
-1972—Pub. L. 92–392, § 7(b), Aug. 19, 1972, 86 Stat. 573, struck out item 6102 “Eight-hour day; 40-hour work week; wage-board employees”.
+1972—Pub. L. 92–392, § 7(b), Aug. 19, 1972, 86 Stat. 573, struck out item 6102 “Eight-hour day; 40-hour work week; wage-board employees”.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
@@ -29,9 +29,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1982—Pub. L. 97–221, § 2(a)(1), July 23, 1982, 96 Stat. 227, added subchapter I heading so as to designate existing provisions as “SUBCHAPTER I—GENERAL PROVISIONS”.
+1982—Pub. L. 97–221, § 2(a)(1), July 23, 1982, 96 Stat. 227, added subchapter I heading so as to designate existing provisions as “SUBCHAPTER I—GENERAL PROVISIONS”.
 
-### § 6101. Basic 40-hour workweek; work schedules; regulations
+### § 6101. Basic 40-hour workweek; work schedules; regulations
 
 **(a)**
 
@@ -69,7 +69,7 @@ retrieved: 2026-10-11
 
 **(c)** The Office of Personnel Management may prescribe regulations, subject to the approval of the President, necessary for the administration of this section insofar as this section affects employees in or under an Executive agency.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 514; Pub. L. 90–83, § 1(43), Sept. 11, 1967, 81 Stat. 207; Pub. L. 92–392, § 6, Aug. 19, 1972, 86 Stat. 573; Pub. L. 94–183, § 2(25), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 514; Pub. L. 90–83, § 1(43), Sept. 11, 1967, 81 Stat. 207; Pub. L. 92–392, § 6, Aug. 19, 1972, 86 Stat. 573; Pub. L. 94–183, § 2(25), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
@@ -77,8 +77,8 @@ retrieved: 2026-10-11
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a), (b) | 5 U.S.C. 944(a). | June 30, 1945, ch. 212, § 604(a), 59 Stat. 303. Sept. 1, 1954, ch. 1208, § 210, 68 Stat. 1112. |
-| (c) | 5 U.S.C. 944(d) (less last 27 words). | June 30, 1945, ch. 212, § 604(e) (less last 27 words), 59 Stat. 304. |
+| (a), (b) | 5 U.S.C. 944(a). | June 30, 1945, ch. 212, § 604(a), 59 Stat. 303. Sept. 1, 1954, ch. 1208, § 210, 68 Stat. 1112. |
+| (c) | 5 U.S.C. 944(d) (less last 27 words). | June 30, 1945, ch. 212, § 604(e) (less last 27 words), 59 Stat. 304. |
 
 In subsection (a), the words “in the departmental and the field services” are omitted as unnecessary.
 
@@ -96,7 +96,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 |---|---|---|
 | 6101(a) (1)–(3), (5) | 5:6101(a)–(d). | [None.] |
 | 6101(a)(4) | 5 App.: 944(a)(3). | June 29, 1966, Pub. L. 89–478, 80 Stat. 231. |
-| 6101(b) | 5 App.: 912b (last sentence). | Oct. 29, 1965, Pub. L. 89–301, § 16, 79 Stat. 1123. |
+| 6101(b) | 5 App.: 912b (last sentence). | Oct. 29, 1965, Pub. L. 89–301, § 16, 79 Stat. 1123. |
 | 6101(c) | 5:6101(e). | [None.] |
 
 In subsection (a)(4), the words “without regard to the requirements of such paragraph” are omitted as redundant in view of the words “notwithstanding paragraph (3) of this subsection” at the beginning thereof. The words “an Executive agency, a military department” are coextensive with and substituted for “each such department, establishment, or agency” and to conform to subsections (a)(2) and (a)(3). The words “officers” and “officer” are omitted as included in “employees” and “employee”. The word “pay” is substituted for “compensation” to conform to the style of title 5, United States Code.
@@ -119,7 +119,7 @@ In subsection (b)(2), the words “head of an agency” are substituted for “h
 
 **Termination Date of 1982 Amendment**
 
-Pub. L. 97–221, § 5, July 23, 1982, 96 Stat. 234, as amended by Pub. L. 99–69, July 22, 1985, 99 Stat. 167; Pub. L. 99–109, Sept. 30, 1985, 99 Stat. 482; Pub. L. 99–140, Oct. 31, 1985, 99 Stat. 563, which had provided that enactment of subchapter II of this chapter, amendment of sections 3401 and 6106 of this title, and enactment of provisions set out as notes under sections 6101 and 6106 of this title, should not be in effect after Dec. 31, 1985, was repealed by Pub. L. 99–190, § 140, Dec. 19, 1985, 99 Stat. 1324, and also by Pub. L. 99–196, Dec. 23, 1985, 99 Stat. 1350.
+Pub. L. 97–221, § 5, July 23, 1982, 96 Stat. 234, as amended by Pub. L. 99–69, July 22, 1985, 99 Stat. 167; Pub. L. 99–109, Sept. 30, 1985, 99 Stat. 482; Pub. L. 99–140, Oct. 31, 1985, 99 Stat. 563, which had provided that enactment of subchapter II of this chapter, amendment of sections 3401 and 6106 of this title, and enactment of provisions set out as notes under sections 6101 and 6106 of this title, should not be in effect after Dec. 31, 1985, was repealed by Pub. L. 99–190, § 140, Dec. 19, 1985, 99 Stat. 1324, and also by Pub. L. 99–196, Dec. 23, 1985, 99 Stat. 1350.
 
 **Effective Date of 1978 Amendment**
 
@@ -131,11 +131,11 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–221, § 1, July 23, 1982, 96 Stat. 227, provided: “That this Act [enacting subchapter II of this chapter, amending sections 3401 and 6106 of this title, and enacting provisions set out as notes under this section and section 6106 of this title] may be cited as the ‘Federal Employees Flexible and Compressed Work Schedules Act of 1982’.”
+Pub. L. 97–221, § 1, July 23, 1982, 96 Stat. 227, provided: “That this Act [enacting subchapter II of this chapter, amending sections 3401 and 6106 of this title, and enacting provisions set out as notes under this section and section 6106 of this title] may be cited as the ‘Federal Employees Flexible and Compressed Work Schedules Act of 1982’.”
 
 **Federal Employees Flexible and Compressed Work Schedules**
 
-Pub. L. 95–390, §§ 1–306, Sept. 29, 1978, 92 Stat. 755–762, as amended by Pub. L. 97–160, Mar. 26, 1982, 96 Stat. 21, provided that:
+Pub. L. 95–390, §§ 1–306, Sept. 29, 1978, 92 Stat. 755–762, as amended by Pub. L. 97–160, Mar. 26, 1982, 96 Stat. 21, provided that:
 
 > **“short title**
 
@@ -413,7 +413,7 @@ Pub. L. 95–390, §§ 1–306, Sept. 29, 1978, 92 Stat. 755–762, as amended
 
 **Savings Provisions; 1982 Amendment**
 
-Pub. L. 97–221, § 4, July 23, 1982, 96 Stat. 234, provided that:
+Pub. L. 97–221, § 4, July 23, 1982, 96 Stat. 234, provided that:
 
 > **“(a)** Except as provided in subsection (b), each flexible or compressed work schedule established by any agency under the Federal Employees Flexible and Compressed Work Schedules Act of 1978 (5 U.S.C. 6101 note) in existence on the date of enactment of this Act [July 23, 1982] shall be continued by the agency concerned.
 
@@ -435,7 +435,7 @@ Pub. L. 97–221, § 4, July 23, 1982, 96 Stat. 234, provided that:
 
 Functions vested in Office of Personnel Management under this section insofar as it affects officers and employees in or under the executive branch of the government to be performed without approval of President, see section 1(1) of Ex. Ord. No. 11228, June 14, 1965, 30 F.R. 7739, set out as a note under section 301 of Title 3, The President.
 
-### [§ 6102. Repealed. Pub. L. 92–392, § 7(a), Aug. 19, 1972, 86 Stat. 573]
+### [§ 6102. Repealed. Pub. L. 92–392, § 7(a), Aug. 19, 1972, 86 Stat. 573]
 
 Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515, provided for eight-hour day and 40-hour workweek for wage-board employees. See sections 5544(a) and 6101(a)(1) of this title.
 
@@ -445,7 +445,7 @@ Section, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515, provided for eight-hour 
 
 Repeal effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of this title.
 
-### § 6103. Holidays
+### § 6103. Holidays
 
 **(a)** The following are legal public holidays:
 
@@ -477,9 +477,9 @@ Christmas Day, December 25.
 
 **(A)** employees whose basic workweek is Monday through Friday; and
 
-**(B)** the purpose of section 6309 1
+**(B)** the purpose of section 6309 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -501,7 +501,7 @@ This subsection, except subparagraph (B) of paragraph (1), does not apply to an 
 
 **(2)** An agency may prescribe rules under which employees on a compressed schedule may, in the case of a holiday that occurs on a regularly scheduled non-workday for such employees, and notwithstanding any other provision of law or the terms of any collective bargaining agreement, be required to observe such holiday on a workday other than as provided by subsection (b), if the agency head determines that it is necessary to do so in order to prevent an adverse agency impact.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, § 1(a), June 28, 1968, 82 Stat. 250; Pub. L. 94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, § 1, Nov. 2, 1983, 97 Stat. 917; Pub. L. 104–201, div. A, title XVI, § 1613, Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–261, div. A, title XI, § 1107, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 117–17, § 2, June 17, 2021, 135 Stat. 287.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, § 1(a), June 28, 1968, 82 Stat. 250; Pub. L. 94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, § 1, Nov. 2, 1983, 97 Stat. 917; Pub. L. 104–201, div. A, title XVI, § 1613, Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–261, div. A, title XI, § 1107, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 117–17, § 2, June 17, 2021, 135 Stat. 287.)
 
 **Historical and Revision Notes**
 
@@ -511,7 +511,7 @@ This subsection, except subparagraph (B) of paragraph (1), does not apply to an 
 |  | 5 U.S.C. 87a. | May 13, 1938, ch. 210, 52 Stat. 351. |
 |  |  | June 1, 1954, ch. 250, 68 Stat. 168. |
 |  | 5 U.S.C. 87b. | Dec. 26, 1941, ch. 631, 55 Stat. 862. |
-| (b) | 5 U.S.C. 87c. | Sept. 22, 1959, Pub. L. 86–362, §§ 1, 2, 73 Stat. 643, 644. |
+| (b) | 5 U.S.C. 87c. | Sept. 22, 1959, Pub. L. 86–362, §§ 1, 2, 73 Stat. 643, 644. |
 | (c) | [Uncodified]. | Jan. 11, 1957, Pub. L. 85–1, 71 Stat. 3. |
 
 In subsection (a), former sections 87, 87a, and 87b are combined and restated for clarity. The names of all holidays are inserted for ready reference in a like manner to that used in former section 87c.
@@ -524,7 +524,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **References in Text**
 
-Section 6309 of this title, referred to in subsec. (b)(1)(B), was repealed by Pub. L. 94–183, § 2(26), Dec. 31, 1975, 89 Stat. 1058.
+Section 6309 of this title, referred to in subsec. (b)(1)(B), was repealed by Pub. L. 94–183, § 2(26), Dec. 31, 1975, 89 Stat. 1058.
 
 **Amendments**
 
@@ -544,7 +544,7 @@ Section 6309 of this title, referred to in subsec. (b)(1)(B), was repealed by Pu
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–144, § 2, Nov. 2, 1983, 97 Stat. 917, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect on the first January 1 that occurs after the two-year period following the date of the enactment of this Act [Nov. 2, 1983].”
+Pub. L. 98–144, § 2, Nov. 2, 1983, 97 Stat. 917, provided that: “The amendment made by the first section of this Act [amending this section] shall take effect on the first January 1 that occurs after the two-year period following the date of the enactment of this Act [Nov. 2, 1983].”
 
 **Effective Date of 1975 Amendment**
 
@@ -552,11 +552,11 @@ Pub. L. 94–97 provided that the amendment made by Pub. L. 94–97 is effective
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–363, § 2, June 28, 1968, 82 Stat. 251, provided that: “The amendment made by subsection (a) of the first section of this Act [amending this section] shall take effect on January 1, 1971.”
+Pub. L. 90–363, § 2, June 28, 1968, 82 Stat. 251, provided that: “The amendment made by subsection (a) of the first section of this Act [amending this section] shall take effect on January 1, 1971.”
 
 **References in Laws of the United States to Observances of Legal Public Holidays**
 
-Pub. L. 90–363, § 1(b), June 28, 1968, 82 Stat. 250, provided that: “Any reference in a law of the United States (in effect on the effective date of the amendment made by subsection (a) of this section) [January 1, 1971] to the observance of a legal public holiday on a day other than the day prescribed for the observance of such holiday by section 6103(a) of title 5, United States Code, as amended by subsection (a), shall on and after such effective date be considered a reference to the day for the observance of such holiday prescribed in such amended section 6103(a).”
+Pub. L. 90–363, § 1(b), June 28, 1968, 82 Stat. 250, provided that: “Any reference in a law of the United States (in effect on the effective date of the amendment made by subsection (a) of this section) [January 1, 1971] to the observance of a legal public holiday on a day other than the day prescribed for the observance of such holiday by section 6103(a) of title 5, United States Code, as amended by subsection (a), shall on and after such effective date be considered a reference to the day for the observance of such holiday prescribed in such amended section 6103(a).”
 
 **Executive Documents**
 
@@ -604,7 +604,7 @@ Sec. 9. This order is effective as of January 1, 1971.
 
 Richard Nixon.
 
-### § 6104. Holidays; daily, hourly, and piece-work basis employees
+### § 6104. Holidays; daily, hourly, and piece-work basis employees
 
 When a regular employee as defined by section 2105 of this title or an individual employed regularly by the government of the District of Columbia, whose pay is fixed at a daily or hourly rate, or on a piece-work basis, is relieved or prevented from working on a day—
 
@@ -616,15 +616,15 @@ When a regular employee as defined by section 2105 of this title or an individua
 
 he is entitled to the same pay for that day as for a day on which an ordinary day’s work is performed.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 516; Pub. L. 90–623, § 1(15), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–54, § 2(a)(38), Aug. 14, 1979, 93 Stat. 383.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 516; Pub. L. 90–623, § 1(15), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 96–54, § 2(a)(38), Aug. 14, 1979, 93 Stat. 383.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 86a. | June 29, 1938, ch. 818, § 1, 52 Stat. 1246. |
+|  | 5 U.S.C. 86a. | June 29, 1938, ch. 818, § 1, 52 Stat. 1246. |
 |  |  | June 11, 1954, ch. 283, 68 Stat. 249. |
-|  |  | July 18, 1958, Pub. L. 85–533, § 2, 72 Stat. 377. |
+|  |  | July 18, 1958, Pub. L. 85–533, § 2, 72 Stat. 377. |
 
 The enumeration of holidays is eliminated as unnecessary in view of section 6103.
 
@@ -656,7 +656,7 @@ Ex. Ord. No. 10552, Aug. 10, 1954, 19 F.R. 5079, as amended by Ex. Ord. No. 1210
 
 By virtue of the authority vested in me by section 301 of title 3 of the United States Code, 65 Stat. 713, it is declared that the Office of Personnel Management be, and it is hereby, designated and empowered to exercise, without the approval, ratification, or other action of the President, the authority vested in the President by the joint resolution of June 29, 1938, 52 Stat. 1246, as amended by the act of June 11, 1954, 68 Stat. 249 [this section], to promulgate regulations under which certain employees of the Government may be prevented or relieved from working by administrative order.
 
-### § 6105. Closing of Executive departments
+### § 6105. Closing of Executive departments
 
 An Executive department may not be closed as a mark to the memory of a deceased former official of the United States.
 
@@ -666,21 +666,21 @@ An Executive department may not be closed as a mark to the memory of a deceased 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 28. | Mar. 3, 1893, ch. 211, § 4, 27 Stat. 715. |
+|  | 5 U.S.C. 28. | Mar. 3, 1893, ch. 211, § 4, 27 Stat. 715. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 6106. Time clocks; restrictions
+### § 6106. Time clocks; restrictions
 
 A recording clock may not be used to record time of an employee of an Executive department in the District of Columbia, except that the Bureau of Engraving and Printing may use such recording clocks.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 516; Pub. L. 97–221, § 6(a), July 23, 1982, 96 Stat. 234.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 516; Pub. L. 97–221, § 6(a), July 23, 1982, 96 Stat. 234.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 27. | Feb. 24, 1899, ch. 187, § 1 (14th par. on p. 864), 30 Stat. 864. |
+|  | 5 U.S.C. 27. | Feb. 24, 1899, ch. 187, § 1 (14th par. on p. 864), 30 Stat. 864. |
 
 The words “District of Columbia” are substituted for “Washington” as a clearer statement.
 
@@ -696,7 +696,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–221, § 6(b), July 23, 1982, 96 Stat. 234, provided that: “The amendment made by this section [amending this section] shall take effect October 1, 1982. Section 5 of this Act [set out in the Termination Date of 1982 Amendment note under section 6101 of this title] shall not apply to the amendment made by this section.”
+Pub. L. 97–221, § 6(b), July 23, 1982, 96 Stat. 234, provided that: “The amendment made by this section [amending this section] shall take effect October 1, 1982. Section 5 of this Act [set out in the Termination Date of 1982 Amendment note under section 6101 of this title] shall not apply to the amendment made by this section.”
 
 ## SUBCHAPTER II—FLEXIBLE AND COMPRESSED WORK SCHEDULES
 
@@ -704,13 +704,13 @@ Pub. L. 97–221, § 6(b), July 23, 1982, 96 Stat. 234, provided that: “The 
 
 **Amendments**
 
-1982—Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 227, added subchapter II heading as part of enactment of sections 6120 to 6133 of this title.
+1982—Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 227, added subchapter II heading as part of enactment of sections 6120 to 6133 of this title.
 
-### § 6120. Purpose
+### § 6120. Purpose
 
 The Congress finds that the use of flexible and compressed work schedules has the potential to improve productivity in the Federal Government and provide greater service to the public.
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 227.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 227.)
 
 **Executive Documents**
 
@@ -846,7 +846,7 @@ Sec. 6. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 Barack Obama.
 
-### § 6121. Definitions
+### § 6121. Definitions
 
 For purposes of this subchapter—
 
@@ -874,7 +874,7 @@ For purposes of this subchapter—
 
 **(B)** in the case of any other unit, by the corresponding provisions applicable under the personnel system covering this unit.
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 227; amended Pub. L. 101–163, title III, § 312, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 104–106, div. A, title X, § 1041, Feb. 10, 1996, 110 Stat. 433; Pub. L. 111–68, div. A, title I, § 1302(1), Oct. 1, 2009, 123 Stat. 2034; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 227; amended Pub. L. 101–163, title III, § 312, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 104–106, div. A, title X, § 1041, Feb. 10, 1996, 110 Stat. 433; Pub. L. 111–68, div. A, title I, § 1302(1), Oct. 1, 2009, 123 Stat. 2034; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -882,7 +882,7 @@ For purposes of this subchapter—
 
 2009—Par. (1). Pub. L. 111–68 substituted “the Library of Congress, the Architect of the Capitol, and the Botanic Garden” for “and the Library of Congress”.
 
-1996—Par. (2). Pub. L. 104–106 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘employee’ has the meaning given it by section 2105 of this title;”.
+1996—Par. (2). Pub. L. 104–106 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘employee’ has the meaning given it by section 2105 of this title;”.
 
 1989—Par. (1). Pub. L. 101–163 inserted “the Government Printing Office,” after “military department,”.
 
@@ -892,7 +892,7 @@ For purposes of this subchapter—
 
 “Government Publishing Office” substituted for “Government Printing Office” in par. (1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
-### § 6122. Flexible schedules; agencies authorized to use
+### § 6122. Flexible schedules; agencies authorized to use
 
 **(a)** Notwithstanding section 6101 of this title, each agency may establish, in accordance with this subchapter, programs which allow the use of flexible schedules which include—
 
@@ -910,15 +910,15 @@ An election by an employee referred to in paragraph (2) shall be subject to limi
 
 **(3)** exclude from such program any employee or group of employees.
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 228.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 228.)
 
-### § 6123. Flexible schedules; computation of premium pay
+### § 6123. Flexible schedules; computation of premium pay
 
 **(a)** For purposes of determining compensation for overtime hours in the case of an employee participating in a program under section 6122 of this title—
 
-**(1)** the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1) and section 1
+**(1)** the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1) and section 1
 
-<sup>1</sup>  So in original. The word “section” probably should not appear.
+<sup>1</sup> So in original. The word “section” probably should not appear.
 
 5544(a) of this title, section 7453(e) of title 38, section 7 of the Fair Labor Standards Act (29 U.S.C. 207), or any other provision of law; or
 
@@ -946,7 +946,7 @@ which occur outside of the nightwork hours designated in or under such section 5
 
 **(B)** in the case of an employee subject to subsection (b) of such section 7453, for which 4 hours of such schedule fall between the hours specified in such subsection.
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 228; amended Pub. L. 102–40, title IV, § 403(c)(2), May 7, 1991, 105 Stat. 240; Pub. L. 102–378, § 2(44)(D), Oct. 2, 1992, 106 Stat. 1352.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 228; amended Pub. L. 102–40, title IV, § 403(c)(2), May 7, 1991, 105 Stat. 240; Pub. L. 102–378, § 2(44)(D), Oct. 2, 1992, 106 Stat. 1352.)
 
 **Editorial Notes**
 
@@ -954,23 +954,23 @@ which occur outside of the nightwork hours designated in or under such section 5
 
 1992—Subsec. (a)(1). Pub. L. 102–378 substituted “5543(a)(1) and section 5544(a)” for “5543(a)(1), 5544(a), and 5550”.
 
-1991—Subsec. (a)(1). Pub. L. 102–40, § 403(c)(2)(A), substituted “section 7453(e)” for “section 4107(e)(5)”.
+1991—Subsec. (a)(1). Pub. L. 102–40, § 403(c)(2)(A), substituted “section 7453(e)” for “section 4107(e)(5)”.
 
-Subsec. (c)(2). Pub. L. 102–40, § 403(c)(2)(B), in introductory provisions substituted “section 7453(b)” for “section 4107(e)(2)” and in subpar. (B) substituted “subsection (b) of such section 7453” for “subsection (e)(2) of such section 4107”.
+Subsec. (c)(2). Pub. L. 102–40, § 403(c)(2)(B), in introductory provisions substituted “section 7453(b)” for “section 4107(e)(2)” and in subpar. (B) substituted “subsection (b) of such section 7453” for “subsection (e)(2) of such section 4107”.
 
-### § 6124. Flexible schedules; holidays
+### § 6124. Flexible schedules; holidays
 
 Notwithstanding sections 6103 and 6104 of this title, if any employee on a flexible schedule under section 6122 of this title is relieved or prevented from working on a day designated as a holiday by Federal statute or Executive order, such employee is entitled to pay with respect to that day for 8 hours (or, in the case of a part-time employee, an appropriate portion of the employee’s biweekly basic work requirement as determined under regulations prescribed by the Office of Personnel Management).
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 229.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 229.)
 
-### § 6125. Flexible schedules; time-recording devices
+### § 6125. Flexible schedules; time-recording devices
 
 Notwithstanding section 6106 of this title, the Office of Personnel Management or any agency may use recording clocks as part of programs under section 6122 of this title.
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 229.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 229.)
 
-### § 6126. Flexible schedules; credit hours; accumulation and compensation
+### § 6126. Flexible schedules; credit hours; accumulation and compensation
 
 **(a)** Subject to any limitation prescribed by the Office of Personnel Management or the agency, a full-time employee on a flexible schedule can accumulate not more than 24 credit hours, and a part-time employee can accumulate not more than one-fourth of the hours in such employee’s biweekly basic work requirement, for carryover from a biweekly pay period to a succeeding biweekly pay period for credit to the basic work requirement for such period.
 
@@ -980,9 +980,9 @@ Notwithstanding section 6106 of this title, the Office of Personnel Management o
 
 **(2)** in the case of a part-time employee, the number of credit hours (not in excess of one-fourth of the hours in such employee’s biweekly basic work requirement) accumulated by such employee.
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 230.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 230.)
 
-### § 6127. Compressed schedules; agencies authorized to use
+### § 6127. Compressed schedules; agencies authorized to use
 
 **(a)** Notwithstanding section 6101 of this title, each agency may establish programs which use a 4-day workweek or other compressed schedule.
 
@@ -1006,9 +1006,9 @@ Notwithstanding section 6106 of this title, the Office of Personnel Management o
 
 A determination by an agency under this paragraph shall be made not later than 10 days after the day on which a written request for such determination is received by the agency.
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 230.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 230.)
 
-### § 6128. Compressed schedules; computation of premium pay
+### § 6128. Compressed schedules; computation of premium pay
 
 **(a)** The provisions of sections 5542(a) and 5544(a) of this title, section 7453(e) of title 38, section 7 of the Fair Labor Standards Act (29 U.S.C. 207), or any other law, which relate to premium pay for overtime work, shall not apply to the hours which constitute a compressed schedule.
 
@@ -1018,23 +1018,23 @@ A determination by an agency under this paragraph shall be made not later than 1
 
 **(d)** Notwithstanding section 5546(b) of this title, an employee on a compressed schedule who performs work on a holiday designated by Federal statute or Executive order is entitled to pay at the rate of such employee’s basic pay, plus premium pay at a rate equal to such basic pay rate, for such work which is not in excess of the basic work requirement of such employee for such day. For hours worked on such a holiday in excess of the basic work requirement for such day, the employee is entitled to premium pay in accordance with the provisions of section 5542(a) or 5544(a) of this title, as applicable, or the provisions of section 7 of the Fair Labor Standards Act (29 U.S.C. 207) whichever provisions are more beneficial to the employee.
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 230; amended Pub. L. 102–40, title IV, § 403(c)(3), May 7, 1991, 105 Stat. 240; Pub. L. 102–378, § 2(44)(E), Oct. 2, 1992, 106 Stat. 1352.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 230; amended Pub. L. 102–40, title IV, § 403(c)(3), May 7, 1991, 105 Stat. 240; Pub. L. 102–378, § 2(44)(E), Oct. 2, 1992, 106 Stat. 1352.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–378, § 2(44)(E)(i), substituted “5542(a) and 5544(a)” for “5542(a), 5544(a), and 5550(2)”.
+1992—Subsec. (a). Pub. L. 102–378, § 2(44)(E)(i), substituted “5542(a) and 5544(a)” for “5542(a), 5544(a), and 5550(2)”.
 
-Subsec. (c). Pub. L. 102–378, § 2(44)(E)(ii), substituted “5544(a) or 5546(a)” for “5544(a), 5546(a), or 5550(1)”.
+Subsec. (c). Pub. L. 102–378, § 2(44)(E)(ii), substituted “5544(a) or 5546(a)” for “5544(a), 5546(a), or 5550(1)”.
 
 1991—Subsec. (a). Pub. L. 102–40 substituted “section 7453(e)” for “section 4107(e)(5)”.
 
-### § 6129. Administration of leave and retirement provisions
+### § 6129. Administration of leave and retirement provisions
 
 For purposes of administering sections 6303(a), 6304, 6307(a) and (d), 6323, 6326, 6327, and 8339(m) of this title, in the case of an employee who is in any program under this subchapter, references to a day or workday (or to multiples or parts thereof) contained in such sections shall be considered to be references to 8 hours (or to the respective multiples or parts thereof).
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 231; amended Pub. L. 103–329, title VI, § 629(a)(2)(A), (b)(2), Sept. 30, 1994, 108 Stat. 2423.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 231; amended Pub. L. 103–329, title VI, § 629(a)(2)(A), (b)(2), Sept. 30, 1994, 108 Stat. 2423.)
 
 **Editorial Notes**
 
@@ -1042,7 +1042,7 @@ For purposes of administering sections 6303(a), 6304, 6307(a) and (d), 6323, 632
 
 1994—Pub. L. 103–329 substituted “6307(a) and (d)” for “6307(a) and (c)” and inserted “6327,” after “6326,”.
 
-### § 6130. Application of programs in the case of collective bargaining agreements
+### § 6130. Application of programs in the case of collective bargaining agreements
 
 **(a)**
 
@@ -1052,9 +1052,9 @@ For purposes of administering sections 6303(a), 6304, 6307(a) and (d), 6323, 632
 
 **(b)** An agency may not participate in a flexible or compressed schedule program under a collective bargaining agreement which contains premium pay provisions which are inconsistent with the provisions of section 6123 or 6128 of this title, as applicable.
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 231.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 231.)
 
-### § 6131. Criteria and review
+### § 6131. Criteria and review
 
 **(a)** Notwithstanding the preceding provisions of this subchapter or any collective bargaining agreement and subject to subsection (c) of this section, if the head of an agency finds that a particular flexible or compressed schedule under this subchapter has had or would have an adverse agency impact, the agency shall promptly determine not to—
 
@@ -1096,9 +1096,9 @@ For purposes of administering sections 6303(a), 6304, 6307(a) and (d), 6323, 632
 
 **(d)** This section shall not apply with respect to flexible schedules that may be established without regard to the authority provided under this subchapter.
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 231.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 231.)
 
-### § 6132. Prohibition of coercion
+### § 6132. Prohibition of coercion
 
 **(a)** An employee may not directly or indirectly intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce, any other employee for the purpose of interfering with—
 
@@ -1108,9 +1108,9 @@ For purposes of administering sections 6303(a), 6304, 6307(a) and (d), 6323, 632
 
 **(b)** For the purpose of subsection (a), the term “intimidate, threaten, or coerce” includes, but is not limited to, promising to confer or conferring any benefit (such as appointment, promotion, or compensation), or effecting or threatening to effect any reprisal (such as deprivation of appointment, promotion, or compensation).
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 232.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 232.)
 
-### § 6133. Regulations; technical assistance; program review
+### § 6133. Regulations; technical assistance; program review
 
 **(a)** The Office of Personnel Management shall prescribe regulations necessary for the administration of the programs established under this subchapter.
 
@@ -1140,7 +1140,7 @@ For purposes of administering sections 6303(a), 6304, 6307(a) and (d), 6323, 632
 
 **(3)** With respect to employees of the Architect of the Capitol and the Botanic Garden, the authority granted to the Office of Personnel Management under this subchapter shall be exercised by the Architect of the Capitol.
 
-(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 233; amended Pub. L. 101–163, title III, § 312, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 111–68, div. A, title I, § 1302(2), Oct. 1, 2009, 123 Stat. 2034; Pub. L. 113–235, div. H, title I, § 1301(b), (d), Dec. 16, 2014, 128 Stat. 2537.)
+(Added Pub. L. 97–221, § 2(a)(2), July 23, 1982, 96 Stat. 233; amended Pub. L. 101–163, title III, § 312, Nov. 21, 1989, 103 Stat. 1065; Pub. L. 111–68, div. A, title I, § 1302(2), Oct. 1, 2009, 123 Stat. 2034; Pub. L. 113–235, div. H, title I, § 1301(b), (d), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 

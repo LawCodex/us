@@ -17,17 +17,17 @@ retrieved: 2026-10-11
 
 ## Subchapter A—Returns and Payment of Tax
 
-### § 1501. Privilege to file consolidated returns
+### § 1501. Privilege to file consolidated returns
 
 An affiliated group of corporations shall, subject to the provisions of this chapter, have the privilege of making a consolidated return with respect to the income tax imposed by chapter 1 for the taxable year in lieu of separate returns. The making of a consolidated return shall be upon the condition that all corporations which at any time during the taxable year have been members of the affiliated group consent to all the consolidated return regulations prescribed under section 1502 prior to the last day prescribed by law for the filing of such return. The making of a consolidated return shall be considered as such consent. In the case of a corporation which is a member of the affiliated group for a fractional part of the year, the consolidated return shall include the income of such corporation for such part of the year as it is a member of the affiliated group.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 367.)
 
-### § 1502. Regulations
+### § 1502. Regulations
 
 The Secretary shall prescribe such regulations as he may deem necessary in order that the tax liability of any affiliated group of corporations making a consolidated return and of each corporation in the group, both during and after the period of affiliation, may be returned, determined, computed, assessed, collected, and adjusted, in such manner as clearly to reflect the income-tax liability and the various factors necessary for the determination of such liability, and in order to prevent avoidance of such tax liability. In carrying out the preceding sentence, the Secretary may prescribe rules that are different from the provisions of chapter 1 that would apply if such corporations filed separate returns.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 367; Pub. L. 94–455, title XIX, § 1906(b) (13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–357, title VIII, § 844(a), Oct. 22, 2004, 118 Stat. 1600.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 367; Pub. L. 94–455, title XIX, § 1906(b) (13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–357, title VIII, § 844(a), Oct. 22, 2004, 118 Stat. 1600.)
 
 **Editorial Notes**
 
@@ -41,11 +41,11 @@ The Secretary shall prescribe such regulations as he may deem necessary in order
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 844(c), Oct. 22, 2004, 118 Stat. 1600, provided that: “This section [amending this section], and the amendment made by this section, shall apply to taxable years beginning before, on, or after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 844(c), Oct. 22, 2004, 118 Stat. 1600, provided that: “This section [amending this section], and the amendment made by this section, shall apply to taxable years beginning before, on, or after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Dual Resident Companies**
 
-Pub. L. 100–647, title VI, § 6126, Nov. 10, 1988, 102 Stat. 3713, provided that:
+Pub. L. 100–647, title VI, § 6126, Nov. 10, 1988, 102 Stat. 3713, provided that:
 
 > **“(a) General Rule.—** In the case of a transaction which—
 
@@ -107,15 +107,15 @@ Pub. L. 100–647, title VI, § 6126, Nov. 10, 1988, 102 Stat. 3713, provided 
 
 **Special Rule for Disposition of Stock of Subsidiary**
 
-Pub. L. 99–514, title VI, § 647, Oct. 22, 1986, 100 Stat. 2294, provided that: “If for a taxable year of an affiliated group filing a consolidated return ending on or before December 31, 1987, there is a disposition of stock of a subsidiary (within the meaning of Treasury Regulation section 1.1502–19), the amount required to be included in income with respect to such disposition under Treasury Regulation section 1.1502–19(a) shall, notwithstanding such section, be included in income ratably over the 15-year period beginning with the taxable year in which the disposition occurs. The preceding sentence shall apply only if such subsidiary was incorporated on December 24, 1969, and is a participant in a mineral joint venture with a corporation organized under the laws of the foreign country in which the joint venture mineral project is located.”
+Pub. L. 99–514, title VI, § 647, Oct. 22, 1986, 100 Stat. 2294, provided that: “If for a taxable year of an affiliated group filing a consolidated return ending on or before December 31, 1987, there is a disposition of stock of a subsidiary (within the meaning of Treasury Regulation section 1.1502–19), the amount required to be included in income with respect to such disposition under Treasury Regulation section 1.1502–19(a) shall, notwithstanding such section, be included in income ratably over the 15-year period beginning with the taxable year in which the disposition occurs. The preceding sentence shall apply only if such subsidiary was incorporated on December 24, 1969, and is a participant in a mineral joint venture with a corporation organized under the laws of the foreign country in which the joint venture mineral project is located.”
 
-### § 1503. Computation and payment of tax
+### § 1503. Computation and payment of tax
 
-**(a) [General rule] 1 [footnote: 1 Subsec. (a) heading editorially supplied.]**
+**(a) [General rule] 1 [footnote: 1 Subsec. (a) heading editorially supplied.]**
 
 In any case in which a consolidated return is made or is required to be made, the tax shall be determined, computed, assessed, collected, and adjusted in accordance with the regulations under section 1502 prescribed before the last day prescribed by law for the filing of such return.
 
-**[(b) Repealed. Pub. L. 94–455, title X, § 1052(c)(5), Oct. 4, 1976, 90 Stat. 1648]**
+**[(b) Repealed. Pub. L. 94–455, title X, § 1052(c)(5), Oct. 4, 1976, 90 Stat. 1648]**
 
 **(c) Special rule for application of certain losses against income of insurance companies taxed under section 801**
 
@@ -239,55 +239,55 @@ The term “subsidiary” means any corporation which is a member of an affiliat
 
 **(C)** to provide for the application of this subsection where dividends are not paid currently, where the redemption and liquidation rights of the applicable preferred stock exceed the issue price for such stock, or where the stock is otherwise structured to avoid the purposes of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 367; Pub. L. 86–780, § 2, Sept. 14, 1960, 74 Stat. 1011; Pub. L. 88–272, title II, § 234(a), (b)(1), (2), Feb. 26, 1964, 78 Stat. 113; Pub. L. 94–455, title X, §§ 1031(b)(4), 1052(c)(5), title XV, § 1507(b)(3), title XIX, § 1901(b)(1)(Y), Oct. 4, 1976, 90 Stat. 1623, 1648, 1740, 1792; Pub. L. 98–369, div. A, title II, § 211(b)(19), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title XII, § 1249(a), Oct. 22, 1986, 100 Stat. 2584; Pub. L. 100–203, title X, § 10222(a)(1), Dec. 22, 1987, 101 Stat. 1330–410; Pub. L. 100–647, title I, § 1012(u), title II, § 2004(j)(1)(A), (2), (3)(A), Nov. 10, 1988, 102 Stat. 3528, 3604, 3605; Pub. L. 101–239, title VII, §§ 7201(a), 7207(a), 7821(c), Dec. 19, 1989, 103 Stat. 2328, 2337, 2424; Pub. L. 101–508, title XI, §§ 11802(f)(4), 11813(b)(25), Nov. 5, 1990, 104 Stat. 1388–530, 1388–555.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 367; Pub. L. 86–780, § 2, Sept. 14, 1960, 74 Stat. 1011; Pub. L. 88–272, title II, § 234(a), (b)(1), (2), Feb. 26, 1964, 78 Stat. 113; Pub. L. 94–455, title X, §§ 1031(b)(4), 1052(c)(5), title XV, § 1507(b)(3), title XIX, § 1901(b)(1)(Y), Oct. 4, 1976, 90 Stat. 1623, 1648, 1740, 1792; Pub. L. 98–369, div. A, title II, § 211(b)(19), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title XII, § 1249(a), Oct. 22, 1986, 100 Stat. 2584; Pub. L. 100–203, title X, § 10222(a)(1), Dec. 22, 1987, 101 Stat. 1330–410; Pub. L. 100–647, title I, § 1012(u), title II, § 2004(j)(1)(A), (2), (3)(A), Nov. 10, 1988, 102 Stat. 3528, 3604, 3605; Pub. L. 101–239, title VII, §§ 7201(a), 7207(a), 7821(c), Dec. 19, 1989, 103 Stat. 2328, 2337, 2424; Pub. L. 101–508, title XI, §§ 11802(f)(4), 11813(b)(25), Nov. 5, 1990, 104 Stat. 1388–530, 1388–555.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Subsec. (c)(1). Pub. L. 101–508, § 11802(f)(4), struck out at end “For taxable years ending with or within calendar year 1981, ‘25 percent’ shall be substituted for ‘35 percent’ each place it appears in the first sentence of this subsection. For taxable years ending with or within calendar year 1982, ‘30 percent’ shall be substituted for ‘35 percent’ each place it appears in that sentence.”
+1990—Subsec. (c)(1). Pub. L. 101–508, § 11802(f)(4), struck out at end “For taxable years ending with or within calendar year 1981, ‘25 percent’ shall be substituted for ‘35 percent’ each place it appears in the first sentence of this subsection. For taxable years ending with or within calendar year 1982, ‘30 percent’ shall be substituted for ‘35 percent’ each place it appears in that sentence.”
 
-Subsec. (e)(3)(B). Pub. L. 101–508, § 11813(b)(25), substituted “section 50(c)” for “section 48(q)”.
+Subsec. (e)(3)(B). Pub. L. 101–508, § 11813(b)(25), substituted “section 50(c)” for “section 48(q)”.
 
-1989—Subsec. (e)(2)(A)(ii). Pub. L. 101–239, § 7821(c), substituted “another corporation which is or was a member” for “another member”.
+1989—Subsec. (e)(2)(A)(ii). Pub. L. 101–239, § 7821(c), substituted “another corporation which is or was a member” for “another member”.
 
-Subsec. (e)(4). Pub. L. 101–239, § 7207(a), added par. (4).
+Subsec. (e)(4). Pub. L. 101–239, § 7207(a), added par. (4).
 
-Subsec. (f). Pub. L. 101–239, § 7201(a), added subsec. (f).
+Subsec. (f). Pub. L. 101–239, § 7201(a), added subsec. (f).
 
-1988—Subsec. (d)(3), (4). Pub. L. 100–647, § 1012(u), added pars. (3) and (4).
+1988—Subsec. (d)(3), (4). Pub. L. 100–647, § 1012(u), added pars. (3) and (4).
 
-Subsec. (e)(1). Pub. L. 100–647, § 2004(j)(1)(A), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Solely for purposes of determining gain or loss on the disposition of intragroup stock, in determining the adjustments to the basis of such intragroup stock on account of the earnings and profits of any member of an affiliated group for any consolidated year—”.
+Subsec. (e)(1). Pub. L. 100–647, § 2004(j)(1)(A), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Solely for purposes of determining gain or loss on the disposition of intragroup stock, in determining the adjustments to the basis of such intragroup stock on account of the earnings and profits of any member of an affiliated group for any consolidated year—”.
 
-Subsec. (e)(2)(C). Pub. L. 100–647, § 2004(j)(3)(A), added subpar. (C).
+Subsec. (e)(2)(C). Pub. L. 100–647, § 2004(j)(3)(A), added subpar. (C).
 
-Subsec. (e)(3). Pub. L. 100–647, § 2004(j)(2), added par. (3).
+Subsec. (e)(3). Pub. L. 100–647, § 2004(j)(2), added par. (3).
 
 1987—Subsec. (e). Pub. L. 100–203 added subsec. (e).
 
 1986—Subsec. (d). Pub. L. 99–514 added subsec. (d).
 
-1984—Subsec. (c). Pub. L. 98–369, § 211(b)(19)(A), (C), substituted “section 801” for “section 802” in heading, and wherever appearing in text.
+1984—Subsec. (c). Pub. L. 98–369, § 211(b)(19)(A), (C), substituted “section 801” for “section 802” in heading, and wherever appearing in text.
 
-Subsec. (c)(1). Pub. L. 98–369, § 211(b)(19)(B), struck out provision that for purposes of this subsection, in determining the taxable income of each insurance company subject to tax under section 802, section 802(b)(3) would not be taken into account.
+Subsec. (c)(1). Pub. L. 98–369, § 211(b)(19)(B), struck out provision that for purposes of this subsection, in determining the taxable income of each insurance company subject to tax under section 802, section 802(b)(3) would not be taken into account.
 
-1976—Subsec. (a). Pub. L. 94–455, § 1052(c)(5), struck out subsec. (a) designation.
+1976—Subsec. (a). Pub. L. 94–455, § 1052(c)(5), struck out subsec. (a) designation.
 
-Subsec. (b). Pub. L. 94–455, § 1052(c)(5), struck out subsec. (b) which provided for a special rule for application of foreign tax credit when overall limitation applies.
+Subsec. (b). Pub. L. 94–455, § 1052(c)(5), struck out subsec. (b) which provided for a special rule for application of foreign tax credit when overall limitation applies.
 
-Subsec. (b)(1). Pub. L. 94–455, § 1031(b)(4), struck out “and if for the taxable year an election under section 904(b)(1) (relating to election of overall limitation on foreign tax credit) is in effect” after “section 921)”.
+Subsec. (b)(1). Pub. L. 94–455, § 1031(b)(4), struck out “and if for the taxable year an election under section 904(b)(1) (relating to election of overall limitation on foreign tax credit) is in effect” after “section 921)”.
 
-Subsec. (b)(3)(C). Pub. L. 94–455, § 1901(b)(1)(Y), struck out subpar. (C) which defined “consolidated taxable income”.
+Subsec. (b)(3)(C). Pub. L. 94–455, § 1901(b)(1)(Y), struck out subpar. (C) which defined “consolidated taxable income”.
 
-Subsec. (c). Pub. L. 94–455, § 1507(b)(3), added subsec. (c).
+Subsec. (c). Pub. L. 94–455, § 1507(b)(3), added subsec. (c).
 
-1964—Subsec. (a). Pub. L. 88–272, § 234(a), struck out provisions which increased the tax imposed under section 11(c), or section 831, by 2% of the consolidated taxable income of the affiliated group of includible corporations, and defined “consolidated taxable income”.
+1964—Subsec. (a). Pub. L. 88–272, § 234(a), struck out provisions which increased the tax imposed under section 11(c), or section 831, by 2% of the consolidated taxable income of the affiliated group of includible corporations, and defined “consolidated taxable income”.
 
-Subsec. (b). Pub. L. 88–272, § 234(b)(1), (2), redesignated subsec. (d) as (b), and substituted references to section 7701 for references to former subsection (c) of this section, in subpar. (A), and definition of “consolidated taxable income” for provisions relating to the computation of tax, for purposes of par. (1)(A), on the portion of consolidated taxable income attributable to any corporation, without regard to the increase of 2% as in subsec. (a), in subpar. (C). Former subsec. (b), which limited the 2% increase in subsec. (a) in cases where the affiliated group included one or more Western Hemisphere trade corporations or one or more regulated public utilities, to the amount by which the consolidated taxable income of the affiliated group exceed the income attributable to such corporations and utilities, was struck out.
+Subsec. (b). Pub. L. 88–272, § 234(b)(1), (2), redesignated subsec. (d) as (b), and substituted references to section 7701 for references to former subsection (c) of this section, in subpar. (A), and definition of “consolidated taxable income” for provisions relating to the computation of tax, for purposes of par. (1)(A), on the portion of consolidated taxable income attributable to any corporation, without regard to the increase of 2% as in subsec. (a), in subpar. (C). Former subsec. (b), which limited the 2% increase in subsec. (a) in cases where the affiliated group included one or more Western Hemisphere trade corporations or one or more regulated public utilities, to the amount by which the consolidated taxable income of the affiliated group exceed the income attributable to such corporations and utilities, was struck out.
 
-Subsec. (c). Pub. L. 88–272, § 234(b)(1), struck out subsec. (c) which defined regulated public utility. See section 7701(a)(33) of this title.
+Subsec. (c). Pub. L. 88–272, § 234(b)(1), struck out subsec. (c) which defined regulated public utility. See section 7701(a)(33) of this title.
 
-Subsec. (d). Pub. L. 88–272, § 234(b)(1), redesignated subsec. (d) as (b).
+Subsec. (d). Pub. L. 88–272, § 234(b)(1), redesignated subsec. (d) as (b).
 
 1960—Subsec. (d). Pub. L. 86–780 added subsec. (d).
 
@@ -299,7 +299,7 @@ Amendment by section 11813(b)(25) of Pub. L. 101–508 applicable to property pl
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–239, title VII, § 7201(b), Dec. 19, 1989, 103 Stat. 2329, provided that:
+Pub. L. 101–239, title VII, § 7201(b), Dec. 19, 1989, 103 Stat. 2329, provided that:
 
 > **“(1) In general.—** The amendment made by this section [amending this section] shall apply to taxable years ending after November 17, 1989.
 
@@ -323,7 +323,7 @@ Pub. L. 101–239, title VII, § 7201(b), Dec. 19, 1989, 103 Stat. 2329, provi
 
 > **“(C)** such stock is issued before the date 30 days after the date of the enactment of this Act [Dec. 19, 1989].”
 
-Pub. L. 101–239, title VII, § 7207(b), Dec. 19, 1989, 103 Stat. 2337, provided that:
+Pub. L. 101–239, title VII, § 7207(b), Dec. 19, 1989, 103 Stat. 2337, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall apply to dispositions after July 10, 1989, in taxable years ending after such date.
 
@@ -339,7 +339,7 @@ Amendment by section 2004(j)(1)(A), (2), (3)(A) of Pub. L. 100–647 effective, 
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title X, § 10222(a)(2), Dec. 22, 1987, 101 Stat. 1330–410, as amended by Pub. L. 100–647, title II, § 2004(j)(1)(B), Nov. 10, 1988, 102 Stat. 3604, provided that:
+Pub. L. 100–203, title X, § 10222(a)(2), Dec. 22, 1987, 101 Stat. 1330–410, as amended by Pub. L. 100–647, title II, § 2004(j)(1)(B), Nov. 10, 1988, 102 Stat. 3604, provided that:
 
 > **“(A) In general.—** Except as provided in subparagraph (B), the amendment made by paragraph (1) [amending this section] shall apply to any intragroup stock disposed of after December 15, 1987. For purposes of determining the adjustments to the basis of such stock, such amendment shall be deemed to have been in effect for all periods whether before, on, or after December 15, 1987.
 
@@ -363,7 +363,7 @@ Pub. L. 100–203, title X, § 10222(a)(2), Dec. 22, 1987, 101 Stat. 1330–41
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–514, title XII, § 1249(b), Oct. 22, 1986, 100 Stat. 2585, provided that: “The amendment made by subsection (a) [amending this section] shall apply to net operating losses for taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title XII, § 1249(b), Oct. 22, 1986, 100 Stat. 2585, provided that: “The amendment made by subsection (a) [amending this section] shall apply to net operating losses for taxable years beginning after December 31, 1986.”
 
 **Effective Date of 1984 Amendment**
 
@@ -381,7 +381,7 @@ Amendment by section 1901(b)(1)(Y) of Pub. L. 94–455 applicable with respect t
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–272, title II, § 234(c), Feb. 26, 1964, 78 Stat. 116, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 12, 172, 904, 1341, 1552, and 7701 of this title] shall apply with respect to taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title II, § 234(c), Feb. 26, 1964, 78 Stat. 116, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 12, 172, 904, 1341, 1552, and 7701 of this title] shall apply with respect to taxable years beginning after December 31, 1963.”
 
 **Effective Date of 1960 Amendment**
 
@@ -391,7 +391,7 @@ Amendment by Pub. L. 86–780 applicable to taxable years beginning after Dec. 3
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-### § 1504. Definitions
+### § 1504. Definitions
 
 **(a) Affiliated group defined** For purposes of this subtitle—
 
@@ -495,7 +495,7 @@ Despite the provisions of paragraph (1) of subsection (b), two or more organizat
 
 **(2)** any amount treated as received under section 805(b)(3) of such Act.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, § 5(8), 70 Stat. 49; Pub. L. 85–866, title I, § 64(d)(3), Sept. 2, 1958, 72 Stat. 1657; Pub. L. 86–69, § 3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 86–376, § 2(c), Sept. 23, 1959, 73 Stat. 699; Pub. L. 86–779, § 10(j), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 89–389, § 4(b)(3), Apr. 14, 1966, 80 Stat. 116; Pub. L. 91–172, title I, § 121(a)(4), Dec. 30, 1969, 83 Stat. 537; Pub. L. 92–178, title V, § 502(e), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title VIII, § 803(b)(3), title X, §§ 1051(g), 1053(d)(2), title XV, § 1507(a), Oct. 4, 1976, 90 Stat. 1584, 1646, 1649, 1739; Pub. L. 95–600, title I, § 141(f)(4), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, § 101(a)(7)(L)(i)(VIII), (iv)(II), Apr. 1, 1980, 94 Stat. 199, 200; Pub. L. 98–369, div. A, title I, § 60(a), title II, § 211(b)(20), July 18, 1984, 98 Stat. 577, 756; Pub. L. 99–514, title X, § 1024(c)(15), (16), title XVIII, §§ 1804(e)(1), (10), 1899A(35), Oct. 22, 1986, 100 Stat. 2408, 2800, 2804, 2960; Pub. L. 100–647, title I, § 1018(d)(10), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 101–508, title XI, § 11814(b), Nov. 5, 1990, 104 Stat. 1388–557; Pub. L. 104–188, title I, §§ 1308(d)(2), 1702(h)(6), Aug. 20, 1996, 110 Stat. 1783, 1874; Pub. L. 113–295, div. A, title II, § 221(a)(93), Dec. 19, 2014, 128 Stat. 4050; Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(xvii)(I), Mar. 23, 2018, 132 Stat. 1208.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, § 5(8), 70 Stat. 49; Pub. L. 85–866, title I, § 64(d)(3), Sept. 2, 1958, 72 Stat. 1657; Pub. L. 86–69, § 3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 86–376, § 2(c), Sept. 23, 1959, 73 Stat. 699; Pub. L. 86–779, § 10(j), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 89–389, § 4(b)(3), Apr. 14, 1966, 80 Stat. 116; Pub. L. 91–172, title I, § 121(a)(4), Dec. 30, 1969, 83 Stat. 537; Pub. L. 92–178, title V, § 502(e), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title VIII, § 803(b)(3), title X, §§ 1051(g), 1053(d)(2), title XV, § 1507(a), Oct. 4, 1976, 90 Stat. 1584, 1646, 1649, 1739; Pub. L. 95–600, title I, § 141(f)(4), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, § 101(a)(7)(L)(i)(VIII), (iv)(II), Apr. 1, 1980, 94 Stat. 199, 200; Pub. L. 98–369, div. A, title I, § 60(a), title II, § 211(b)(20), July 18, 1984, 98 Stat. 577, 756; Pub. L. 99–514, title X, § 1024(c)(15), (16), title XVIII, §§ 1804(e)(1), (10), 1899A(35), Oct. 22, 1986, 100 Stat. 2408, 2800, 2804, 2960; Pub. L. 100–647, title I, § 1018(d)(10), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 101–508, title XI, § 11814(b), Nov. 5, 1990, 104 Stat. 1388–557; Pub. L. 104–188, title I, §§ 1308(d)(2), 1702(h)(6), Aug. 20, 1996, 110 Stat. 1783, 1874; Pub. L. 113–295, div. A, title II, § 221(a)(93), Dec. 19, 2014, 128 Stat. 4050; Pub. L. 115–141, div. U, title IV, § 401(d)(1)(D)(xvii)(I), Mar. 23, 2018, 132 Stat. 1208.)
 
 **Editorial Notes**
 
@@ -509,41 +509,41 @@ Section 805(b)(2)(A) and (3) of the Tax Reform Act of 1984, referred to in subse
 
 2014—Subsec. (a)(3)(A). Pub. L. 113–295 struck out “for a taxable year which includes any period after December 31, 1984” after “affiliated group” in cl. (i) and struck out “in a taxable year beginning after December 31, 1984” after “such group” in cl. (ii).
 
-1996—Subsec. (b)(8). Pub. L. 104–188, § 1308(d)(2), added par. (8).
+1996—Subsec. (b)(8). Pub. L. 104–188, § 1308(d)(2), added par. (8).
 
-Subsec. (c)(2)(B)(i). Pub. L. 104–188, § 1702(h)(6), inserted “section” before “243(b)(2)”.
+Subsec. (c)(2)(B)(i). Pub. L. 104–188, § 1702(h)(6), inserted “section” before “243(b)(2)”.
 
-1990—Subsec. (c)(2)(B)(i). Pub. L. 101–508, § 11814(b), substituted “section 243(b)(3)” for “section 243(b)(6)” and “243(b)(2)” for “section 243(b)(5)”.
+1990—Subsec. (c)(2)(B)(i). Pub. L. 101–508, § 11814(b), substituted “section 243(b)(3)” for “section 243(b)(6)” and “243(b)(2)” for “section 243(b)(5)”.
 
-1988—Subsec. (b)(7). Pub. L. 100–647, § 1018(d)(10)(A), amended par. (7) generally, striking out “, or any other corporation which has accumulated DISC income which is derived after December 31, 1984” after “in section 992(a)(1))”.
+1988—Subsec. (b)(7). Pub. L. 100–647, § 1018(d)(10)(A), amended par. (7) generally, striking out “, or any other corporation which has accumulated DISC income which is derived after December 31, 1984” after “in section 992(a)(1))”.
 
-Subsec. (f). Pub. L. 100–647, § 1018(d)(10)(B), added subsec. (f).
+Subsec. (f). Pub. L. 100–647, § 1018(d)(10)(B), added subsec. (f).
 
-1986—Subsec. (a)(4)(C). Pub. L. 99–514, § 1804(e)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “has redemption and liquidation rights which do not exceed the paid-in capital or par value represented by such stock (except for a reasonable redemption premium in excess of such paid-in capital or par value), and”.
+1986—Subsec. (a)(4)(C). Pub. L. 99–514, § 1804(e)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “has redemption and liquidation rights which do not exceed the paid-in capital or par value represented by such stock (except for a reasonable redemption premium in excess of such paid-in capital or par value), and”.
 
-Subsec. (b)(2). Pub. L. 99–514, § 1024(c)(15), struck out “or 821” after “section 802”.
+Subsec. (b)(2). Pub. L. 99–514, § 1024(c)(15), struck out “or 821” after “section 802”.
 
-Subsec. (b)(7). Pub. L. 99–514, § 1804(e)(10), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “A DISC or former DISC (as defined in section 992(a)).”
+Subsec. (b)(7). Pub. L. 99–514, § 1804(e)(10), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “A DISC or former DISC (as defined in section 992(a)).”
 
-Subsec. (c)(2)(A). Pub. L. 99–514, § 1899A(35), struck out “or 821” after “section 801”.
+Subsec. (c)(2)(A). Pub. L. 99–514, § 1899A(35), struck out “or 821” after “section 801”.
 
-Pub. L. 99–514, § 1024(c)(16), substituted “subsection (b)(2)) includes” for “subsection (b)(2) includes”.
+Pub. L. 99–514, § 1024(c)(16), substituted “subsection (b)(2)) includes” for “subsection (b)(2) includes”.
 
-1984—Subsec. (a). Pub. L. 98–369, § 60(a), in amending subsec. (a), generally, revised existing provisions of subsec. (a) into pars. (1), (2), and (4), added pars. (3) and (5), revised definition of “affiliated group”, and expanded the enumeration of securities not included under term “stock”.
+1984—Subsec. (a). Pub. L. 98–369, § 60(a), in amending subsec. (a), generally, revised existing provisions of subsec. (a) into pars. (1), (2), and (4), added pars. (3) and (5), revised definition of “affiliated group”, and expanded the enumeration of securities not included under term “stock”.
 
-Subsecs. (b)(2), (c)(1), (2)(A). Pub. L. 98–369, § 211(b)(20), substituted “section 801” for “section 802”.
+Subsecs. (b)(2), (c)(1), (2)(A). Pub. L. 98–369, § 211(b)(20), substituted “section 801” for “section 802”.
 
 1980—Subsec. (a). Pub. L. 96–222 substituted “a tax credit employee stock ownership plan” for “an ESOP” and “employee” for “leveraged employee”.
 
 1978—Subsec. (a). Pub. L. 95–600 substituted “(within the meaning for section 409A(*l*)) while such securities are held under an ESOP, or qualifying employer securities (within the meaning of section 4975(e)(8)) while such securities are held under a leveraged employee stock ownership plan which meets the requirements of section 4975(e)(7)” for “within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1975, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively”.
 
-1976—Subsec. (a). Pub. L. 94–455, § 803(b)(3), substituted “dividends, employer securities within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1976, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively” for “dividends” after “preferred as to”.
+1976—Subsec. (a). Pub. L. 94–455, § 803(b)(3), substituted “dividends, employer securities within the meaning of section 301(d)(9)(A) of the Tax Reduction Act of 1976, or qualifying employer securities within the meaning of section 4975(e)(8) while such securities are held under an employee stock ownership plan which meets the requirements of section 301(d) of such Act or section 4975(e)(7), respectively” for “dividends” after “preferred as to”.
 
-Subsec. (b)(4). Pub. L. 94–455, § 1051(g), substituted “Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year” for “Corporations entitled to the benefits of section 931, by reason of receiving a large percentage of their income from sources within possessions of the United States” in par. (4).
+Subsec. (b)(4). Pub. L. 94–455, § 1051(g), substituted “Corporations with respect to which an election under section 936 (relating to possession tax credit) is in effect for the taxable year” for “Corporations entitled to the benefits of section 931, by reason of receiving a large percentage of their income from sources within possessions of the United States” in par. (4).
 
-Subsec. (b)(5). Pub. L. 94–455, § 1053(d)(2), struck out par. (5) which included corporations organized under the China Trade Act, 1922, within term “includible corporation”.
+Subsec. (b)(5). Pub. L. 94–455, § 1053(d)(2), struck out par. (5) which included corporations organized under the China Trade Act, 1922, within term “includible corporation”.
 
-Subsec. (c). Pub. L. 94–455, § 1507(a), designated existing provisions as provision preceding par. (1) and par. (1), in provision preceding par. (1) as so designated, substituted “Notwithstanding the provisions” for “Despite the provisions”, in par. (1) as so designated, substituted “tax under section 802 shall be treated” for “taxation under the same section of this subtitle shall be considered” and added par. (2).
+Subsec. (c). Pub. L. 94–455, § 1507(a), designated existing provisions as provision preceding par. (1) and par. (1), in provision preceding par. (1) as so designated, substituted “Notwithstanding the provisions” for “Despite the provisions”, in par. (1) as so designated, substituted “tax under section 802 shall be treated” for “taxation under the same section of this subtitle shall be considered” and added par. (2).
 
 1971—Subsec. (b)(7). Pub. L. 92–178 added par. (7).
 
@@ -589,7 +589,7 @@ Amendment by section 1804(e)(1), (10) of Pub. L. 99–514 effective, except as o
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–369, div. A, title I, § 60(b), July 18, 1984, 98 Stat. 579, as amended by Pub. L. 99–514, § 2, title XVIII, § 1804(e)(2)–(5), Oct. 22, 1986, 100 Stat. 2095, 2800, provided that:
+Pub. L. 98–369, div. A, title I, § 60(b), July 18, 1984, 98 Stat. 579, as amended by Pub. L. 99–514, § 2, title XVIII, § 1804(e)(2)–(5), Oct. 22, 1986, 100 Stat. 2095, 2800, provided that:
 
 > **“(1) In general.—** Except as otherwise provided in this subsection, the amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1984.
 
@@ -671,9 +671,9 @@ Amendment by section 803(b)(3) of Pub. L. 94–455 applicable for taxable years 
 
 Amendment by section 1051(g) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 1051(i) of Pub. L. 94–455, set out as a note under section 27 of this title.
 
-Pub. L. 94–455, title X, § 1053(e), Oct. 4, 1976, 90 Stat. 1649, provided that: “The amendments made by subsections (a) and (b) [amending section 941 and 943 of this title] shall apply with respect to taxable years beginning after December 31, 1975. The amendments made by subsections (c) and (d) [amending this section and sections 116, 6072, and 6091 of this title and repealing sections 941–943 of this title] shall apply with respect to taxable years beginning after December 31, 1977.”
+Pub. L. 94–455, title X, § 1053(e), Oct. 4, 1976, 90 Stat. 1649, provided that: “The amendments made by subsections (a) and (b) [amending section 941 and 943 of this title] shall apply with respect to taxable years beginning after December 31, 1975. The amendments made by subsections (c) and (d) [amending this section and sections 116, 6072, and 6091 of this title and repealing sections 941–943 of this title] shall apply with respect to taxable years beginning after December 31, 1977.”
 
-Pub. L. 94–455, title XV, § 1507(c)(1), Oct. 4, 1976, 90 Stat. 1740, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 821, 843, and 1503 of this title] shall apply to taxable years beginning after December 31, 1980.”
+Pub. L. 94–455, title XV, § 1507(c)(1), Oct. 4, 1976, 90 Stat. 1740, provided that: “The amendments made by subsections (a) and (b) [amending this section and sections 821, 843, and 1503 of this title] shall apply to taxable years beginning after December 31, 1980.”
 
 **Effective Date of 1971 Amendment**
 
@@ -685,7 +685,7 @@ Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 3
 
 **Effective Date of 1966 Amendment**
 
-Pub. L. 89–389, § 4(b), Apr. 14, 1966, 80 Stat. 116, provided that the amendment made by that section is effective on Jan. 1, 1969.
+Pub. L. 89–389, § 4(b), Apr. 14, 1966, 80 Stat. 116, provided that the amendment made by that section is effective on Jan. 1, 1969.
 
 **Effective Date of 1960 Amendment**
 
@@ -693,7 +693,7 @@ Amendment by Pub. L. 86–779 applicable with respect to taxable years of real e
 
 **Effective Date of 1959 Amendments**
 
-Pub. L. 86–376, § 2(d), Sept. 23, 1959, 73 Stat. 699, provided that: “The amendment made by subsection (a) [amending section 1371 of this title] shall apply to taxable years beginning after December 31, 1959. The amendments made by subsections (b) and (c) [amending this section and section 1374 of this title] shall take effect on the day after the date of the enactment of this Act [Sept. 23, 1959].”
+Pub. L. 86–376, § 2(d), Sept. 23, 1959, 73 Stat. 699, provided that: “The amendment made by subsection (a) [amending section 1371 of this title] shall apply to taxable years beginning after December 31, 1959. The amendments made by subsections (b) and (c) [amending this section and section 1374 of this title] shall take effect on the day after the date of the enactment of this Act [Sept. 23, 1959].”
 
 Amendment by Pub. L. 86–69 applicable only with respect to taxable years beginning after Dec. 31, 1957, see section 4 of Pub. L. 86–69, set out as an Effective Date note under section 381 of this title.
 
@@ -713,7 +713,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 **Repeal of Rules Permitting Loss Transfers by Alaska Native Corporations**
 
-Pub. L. 100–647, title V, § 5021, Nov. 10, 1988, 102 Stat. 3666, as amended by Pub. L. 101–239, title VII, § 7815(b), Dec. 19, 1989, 103 Stat. 2414, provided that:
+Pub. L. 100–647, title V, § 5021, Nov. 10, 1988, 102 Stat. 3666, as amended by Pub. L. 101–239, title VII, § 7815(b), Dec. 19, 1989, 103 Stat. 2414, provided that:
 
 > **“(a) General Rule.—** Nothing in section 60(b)(5) of the Tax Reform Act of 1984 (as amended by section 1804(e)(4) of the Tax Reform Act of 1986) [section 60(b)(5) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note above]—
 
@@ -769,19 +769,19 @@ Pub. L. 100–647, title V, § 5021, Nov. 10, 1988, 102 Stat. 3666, as amended
 
 > **“(e) Basis Determination.—** For purposes of determining basis for Federal tax purposes, no provision in any law enacted after the date of the enactment of this Act [Nov. 10, 1988] shall affect the date on which the transfer to the Native Corporation is made. The preceding sentence shall apply to all taxable years whether beginning before, on, or after such date of enactment.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Transaction Rules**
 
-Pub. L. 94–455, title XV, § 1507(c)(2), Oct. 4, 1976, 90 Stat. 1740, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–455, title XV, § 1507(c)(2), Oct. 4, 1976, 90 Stat. 1740, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(A) Limitations on carryovers or carrybacks for groups electing under section 1504(c)(2).—** If an affiliated group elects to file a consolidated return pursuant to section 1501(c)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] a carryover of a loss or credit from a taxable year ending before January 1, 1981, and losses or credits which may be carried back to taxable years ending before such date, shall be taken into account as if this section had not been enacted.
 
 > **“(B) Nontermination of affiliated group.—** The mere election to file a consolidated return pursuant to such section 1504(c)(2) shall not cause the termination of an affiliated group filing consolidated returns.”
 
-### § 1505. Cross references
+### § 1505. Cross references
 
 **(1)** For suspension of running of statute of limitations when notice in respect of a deficiency is mailed to one corporation, see section 6503(a)(1).
 
@@ -797,15 +797,15 @@ Pub. L. 94–455, title XV, § 1507(c)(2), Oct. 4, 1976, 90 Stat. 1740, as ame
 
 **Amendments**
 
-2017—Pub. L. 115–97, title I, § 13001(b)(5)(A), Dec. 22, 2017, 131 Stat. 2098, which directed amendment of the table of sections for part I of subchapter B of chapter 5 by striking out item 1551 “Disallowance of the benefits of the graduated corporate rates and accumulated earnings credit”, was executed to the table of sections for part I of subchapter B of this chapter to reflect the probable intent of Congress.
+2017—Pub. L. 115–97, title I, § 13001(b)(5)(A), Dec. 22, 2017, 131 Stat. 2098, which directed amendment of the table of sections for part I of subchapter B of chapter 5 by striking out item 1551 “Disallowance of the benefits of the graduated corporate rates and accumulated earnings credit”, was executed to the table of sections for part I of subchapter B of this chapter to reflect the probable intent of Congress.
 
-1978—Pub. L. 95–600, title III, § 301(b)(18)(C), Nov. 6, 1978, 92 Stat. 2823, in item 1551 substituted “the benefits of the graduated corporate rates” for “surtax exemption”.
+1978—Pub. L. 95–600, title III, § 301(b)(18)(C), Nov. 6, 1978, 92 Stat. 2823, in item 1551 substituted “the benefits of the graduated corporate rates” for “surtax exemption”.
 
-1964—Pub. L. 88–272, title II, § 235(c)(4), Feb. 26, 1964, 78 Stat. 127, inserted table of parts, and heading for part I.
+1964—Pub. L. 88–272, title II, § 235(c)(4), Feb. 26, 1964, 78 Stat. 127, inserted table of parts, and heading for part I.
 
-#### [§ 1551. Repealed. Pub. L. 115–97, title I, § 13001(b)(5)(A), Dec. 22, 2017, 131 Stat. 2098]
+#### [§ 1551. Repealed. Pub. L. 115–97, title I, § 13001(b)(5)(A), Dec. 22, 2017, 131 Stat. 2098]
 
-Section, act Aug. 16, 1954, ch. 736, 68A Stat. 371; Pub. L. 85–866, title II, § 205(a), Sept. 2, 1958, 72 Stat. 1680; Pub. L. 88–272, title II, § 235(b), Feb. 26, 1964, 78 Stat. 125; Pub. L. 94–12, title III, § 304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title XIX, §§ 1901(a)(158), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1790, 1834; Pub. L. 95–600, title III, § 301(b)(18)(A), (B), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 97–34, title II, § 232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 99–514, title XVIII, § 1899A(36), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 113–295, div. A, title II, § 221(a)(94), Dec. 19, 2014, 128 Stat. 4051, related to disallowance of the benefits of the graduated corporate rates and accumulated earnings credit. Repeal was executed to this section, which is in part I of subchapter B of chapter 6, to reflect the probable intent of Congress, notwithstanding directory language of Pub. L. 115–97, which repealed section 1551 in part I of subchapter B of chapter 5.
+Section, act Aug. 16, 1954, ch. 736, 68A Stat. 371; Pub. L. 85–866, title II, § 205(a), Sept. 2, 1958, 72 Stat. 1680; Pub. L. 88–272, title II, § 235(b), Feb. 26, 1964, 78 Stat. 125; Pub. L. 94–12, title III, § 304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title XIX, §§ 1901(a)(158), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1790, 1834; Pub. L. 95–600, title III, § 301(b)(18)(A), (B), Nov. 6, 1978, 92 Stat. 2823; Pub. L. 97–34, title II, § 232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 99–514, title XVIII, § 1899A(36), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 113–295, div. A, title II, § 221(a)(94), Dec. 19, 2014, 128 Stat. 4051, related to disallowance of the benefits of the graduated corporate rates and accumulated earnings credit. Repeal was executed to this section, which is in part I of subchapter B of chapter 6, to reflect the probable intent of Congress, notwithstanding directory language of Pub. L. 115–97, which repealed section 1551 in part I of subchapter B of chapter 5.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -813,7 +813,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 371; Pub. L. 85–866, title II, 
 
 Repeal applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 11 of this title.
 
-#### § 1552. Earnings and profits
+#### § 1552. Earnings and profits
 
 **(a) General rule** Pursuant to regulations prescribed by the Secretary the earnings and profits of each member of an affiliated group required to be included in a consolidated return for such group filed for a taxable year shall be determined by allocating the tax liability of the group for such year among the members of the group in accord with whichever of the following methods the group shall elect in its first consolidated return filed for such a taxable year:
 
@@ -829,13 +829,13 @@ Repeal applicable to taxable years beginning after Dec. 31, 2017, see section 13
 
 If no election is made in such first return, the tax liability shall be allocated among the several members of the group pursuant to the method prescribed in subsection (a)(1).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 371; Pub. L. 88–272, title II, § 234(b)(8), Feb. 26, 1964, 78 Stat. 116; Pub. L. 94–455, title XIX, §§ 1901(a)(159), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1790, 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 371; Pub. L. 88–272, title II, § 234(b)(8), Feb. 26, 1964, 78 Stat. 116; Pub. L. 94–455, title XIX, §§ 1901(a)(159), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1790, 1834.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1976—Subsec. (a). Pub. L. 94–455, §§ 1901(a)(159), 1906(b)(13)(A), struck out “beginning after December 31, 1953, and ending after the date of enactment of this title” after “group filed for a taxable year”, and “or his delegate” after “Secretary” in two places.
+1976—Subsec. (a). Pub. L. 94–455, §§ 1901(a)(159), 1906(b)(13)(A), struck out “beginning after December 31, 1953, and ending after the date of enactment of this title” after “group filed for a taxable year”, and “or his delegate” after “Secretary” in two places.
 
 1964—Subsec. (a)(3). Pub. L. 88–272 struck out “(determined without regard to the 2 percent increase provided by section 1503(a))”, before “based on their contributions”.
 
@@ -855,15 +855,15 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 **Amendments**
 
-2017—Pub. L. 115–97, title I, § 13001(b)(6)(B), Dec. 22, 2017, 131 Stat. 2098, which directed amendment of the table of sections for part II of subchapter B of chapter 5 by substituting “Limitation on accumulated earnings credit in the case of certain controlled corporations” for “Limitations on certain multiple tax benefits in the case of certain controlled corporations” in item 1561, was executed to the table of sections for part II of subchapter B of this chapter to reflect the probable intent of Congress.
+2017—Pub. L. 115–97, title I, § 13001(b)(6)(B), Dec. 22, 2017, 131 Stat. 2098, which directed amendment of the table of sections for part II of subchapter B of chapter 5 by substituting “Limitation on accumulated earnings credit in the case of certain controlled corporations” for “Limitations on certain multiple tax benefits in the case of certain controlled corporations” in item 1561, was executed to the table of sections for part II of subchapter B of this chapter to reflect the probable intent of Congress.
 
-1990—Pub. L. 101–508, title XI, § 11801(b)(12), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 1564 “Transitional rules in the case of certain controlled corporations”.
+1990—Pub. L. 101–508, title XI, § 11801(b)(12), Nov. 5, 1990, 104 Stat. 1388–522, struck out item 1564 “Transitional rules in the case of certain controlled corporations”.
 
-1969—Pub. L. 91–172, title IV, § 401(a)(3), (b)(2)(E), Dec. 30, 1969, 83 Stat. 600, 602, substituted “Sec. 1561. Limitations on certain multiple tax benefits in the case of certain controlled corporations.” for “Sec. 1561. Surtax exemptions in case of certain controlled corporations.”, and struck out item 1562, effective with respect to taxable years beginning after Dec. 31, 1974, and added item 1564.
+1969—Pub. L. 91–172, title IV, § 401(a)(3), (b)(2)(E), Dec. 30, 1969, 83 Stat. 600, 602, substituted “Sec. 1561. Limitations on certain multiple tax benefits in the case of certain controlled corporations.” for “Sec. 1561. Surtax exemptions in case of certain controlled corporations.”, and struck out item 1562, effective with respect to taxable years beginning after Dec. 31, 1974, and added item 1564.
 
-1964—Pub. L. 88–272, title II, § 235(a), Feb. 26, 1964, 78 Stat. 116, added designation of part II, and items 1561 to 1563.
+1964—Pub. L. 88–272, title II, § 235(a), Feb. 26, 1964, 78 Stat. 116, added designation of part II, and items 1561 to 1563.
 
-#### § 1561. Limitation on accumulated earnings credit in the case of certain controlled corporations
+#### § 1561. Limitation on accumulated earnings credit in the case of certain controlled corporations
 
 **(a) In general**
 
@@ -873,21 +873,21 @@ The component members of a controlled group of corporations on a December 31 sha
 
 If a corporation has a short taxable year which does not include a December 31 and is a component member of a controlled group of corporations with respect to such taxable year, then for purposes of this subtitle, the amount to be used in computing the accumulated earnings credit under section 535(c)(2) and (3) of such corporation for such taxable year shall be the amount specified in subsection (a) with respect to such group, divided by the number of corporations which are component members of such group on the last day of such taxable year. For purposes of the preceding sentence, section 1563(b) shall be applied as if such last day were substituted for December 31.
 
-(Added Pub. L. 88–272, title II, § 235(a), Feb. 26, 1964, 78 Stat. 116; amended Pub. L. 91–172, title IV, § 401(a)(1), Dec. 30, 1969, 83 Stat. 599; Pub. L. 94–12, title III, §§ 303(c)(1), 304(b), Mar. 29, 1975, 89 Stat. 44, 45; Pub. L. 94–164, § 4(d)(1), Dec. 23, 1975, 89 Stat. 974; Pub. L. 94–455, title IX, § 901(c)(1), title XIX, §§ 1901(b)(1)(J)(v), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1607, 1791, 1834; Pub. L. 95–600, title III, § 301(b)(19), title VII, § 703(j)(7), Nov. 6, 1978, 92 Stat. 2823, 2941; Pub. L. 97–34, title II, § 232(b)(3), Aug. 13, 1981, 95 Stat. 250; Pub. L. 97–248, title II, § 259(b), (c), Sept. 3, 1982, 96 Stat. 539; Pub. L. 98–369, div. A, title I, § 66(b), title II, § 211(b)(21), July 18, 1984, 98 Stat. 585, 756; Pub. L. 99–499, title V, § 516(b)(3), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, § 701(e)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–647, title II, § 2004(*l*), Nov. 10, 1988, 102 Stat. 3606; Pub. L. 104–188, title I, § 1703(f), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 113–295, div. A, title II, § 221(a)(12)(H), Dec. 19, 2014, 128 Stat. 4038; Pub. L. 115–97, title I, §§ 12001(b)(16), 13001(b)(6)(A), Dec. 22, 2017, 131 Stat. 2094, 2098.)
+(Added Pub. L. 88–272, title II, § 235(a), Feb. 26, 1964, 78 Stat. 116; amended Pub. L. 91–172, title IV, § 401(a)(1), Dec. 30, 1969, 83 Stat. 599; Pub. L. 94–12, title III, §§ 303(c)(1), 304(b), Mar. 29, 1975, 89 Stat. 44, 45; Pub. L. 94–164, § 4(d)(1), Dec. 23, 1975, 89 Stat. 974; Pub. L. 94–455, title IX, § 901(c)(1), title XIX, §§ 1901(b)(1)(J)(v), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1607, 1791, 1834; Pub. L. 95–600, title III, § 301(b)(19), title VII, § 703(j)(7), Nov. 6, 1978, 92 Stat. 2823, 2941; Pub. L. 97–34, title II, § 232(b)(3), Aug. 13, 1981, 95 Stat. 250; Pub. L. 97–248, title II, § 259(b), (c), Sept. 3, 1982, 96 Stat. 539; Pub. L. 98–369, div. A, title I, § 66(b), title II, § 211(b)(21), July 18, 1984, 98 Stat. 585, 756; Pub. L. 99–499, title V, § 516(b)(3), Oct. 17, 1986, 100 Stat. 1771; Pub. L. 99–514, title VII, § 701(e)(2), Oct. 22, 1986, 100 Stat. 2342; Pub. L. 100–647, title II, § 2004(*l*), Nov. 10, 1988, 102 Stat. 3606; Pub. L. 104–188, title I, § 1703(f), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 113–295, div. A, title II, § 221(a)(12)(H), Dec. 19, 2014, 128 Stat. 4038; Pub. L. 115–97, title I, §§ 12001(b)(16), 13001(b)(6)(A), Dec. 22, 2017, 131 Stat. 2094, 2098.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Pub. L. 115–97, § 13001(b)(6)(A), amended section generally. Prior to amendment, section related to limitations on certain multiple tax benefits in the case of certain controlled corporations.
+2017—Pub. L. 115–97, § 13001(b)(6)(A), amended section generally. Prior to amendment, section related to limitations on certain multiple tax benefits in the case of certain controlled corporations.
 
-Subsec. (a). Pub. L. 115–97, § 12001(b)(16)(B), struck out at end “In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).”
+Subsec. (a). Pub. L. 115–97, § 12001(b)(16)(B), struck out at end “In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).”
 
-Subsec. (a)(3). Pub. L. 115–97, § 12001(b)(16)(A), struck out par. (3) which read as follows: “one $40,000 exemption amount for purposes of computing the amount of the minimum tax.”
+Subsec. (a)(3). Pub. L. 115–97, § 12001(b)(16)(A), struck out par. (3) which read as follows: “one $40,000 exemption amount for purposes of computing the amount of the minimum tax.”
 
-2014—Subsec. (a). Pub. L. 113–295, § 221(a)(12)(H)(ii), substituted “and the amount specified in paragraph (3)” for “, the amount specified in paragraph (3), and the amount specified in paragraph (4)” in concluding provisions.
+2014—Subsec. (a). Pub. L. 113–295, § 221(a)(12)(H)(ii), substituted “and the amount specified in paragraph (3)” for “, the amount specified in paragraph (3), and the amount specified in paragraph (4)” in concluding provisions.
 
-Subsec. (a)(2) to (4). Pub. L. 113–295, § 221(a)(12)(H)(i), inserted “and” at end of par. (2), substituted a period for “, and” at end of par. (3), and struck out par. (4) which read as follows: “one $2,000,000 amount for purposes of computing the tax imposed by section 59A.”
+Subsec. (a)(2) to (4). Pub. L. 113–295, § 221(a)(12)(H)(i), inserted “and” at end of par. (2), substituted a period for “, and” at end of par. (3), and struck out par. (4) which read as follows: “one $2,000,000 amount for purposes of computing the tax imposed by section 59A.”
 
 1996—Subsec. (a). Pub. L. 104–188 in closing provisions substituted “last 2 sentences” for “last sentence” in two places.
 
@@ -895,35 +895,35 @@ Subsec. (a)(2) to (4). Pub. L. 113–295, § 221(a)(12)(H)(i), inserted “and
 
 1986—Subsec. (a). Pub. L. 99–514 added par. (3), and in concluding provisions, substituted “amounts specified in paragraph (1) (and the amount specified in paragraph (3))” for “amounts specified in paragraph (1)” and inserted “In applying section 55(d)(3), the alternative minimum taxable income of all component members shall be taken into account and any decrease in the exemption amount shall be allocated to the component members in the same manner as under paragraph (3).”
 
-Pub. L. 99–499, in subsec. (a) as amended by Pub. L. 99–514 above, added par. (4), and in concluding provisions substituted “, the amount specified in paragraph (3), and the amount specified in paragraph (4)” for “(and the amount specified in paragraph (3))”.
+Pub. L. 99–499, in subsec. (a) as amended by Pub. L. 99–514 above, added par. (4), and in concluding provisions substituted “, the amount specified in paragraph (3), and the amount specified in paragraph (4)” for “(and the amount specified in paragraph (3))”.
 
-1984—Subsec. (a). Pub. L. 98–369, § 211(b)(21)(A), inserted “and” at end of par. (1), substituted a period for the comma at end of par. (2), struck out par. (3) which read as follows: “one $25,000 amount for purposes of computing the limitation on the small business deduction of life insurance companies under sections 804(a)(3) and 809(d)(10), and”, struck out par. (4) which read as follows: “one $1,000,000 amount (adjusted as provided in section 809(f)(3) for purposes of computing the limitation under paragraph (1) or (2) of section 809(f).”, and substituted “paragraph (2)” for “paragraphs (2), (3), and (4)” in concluding provisions.
+1984—Subsec. (a). Pub. L. 98–369, § 211(b)(21)(A), inserted “and” at end of par. (1), substituted a period for the comma at end of par. (2), struck out par. (3) which read as follows: “one $25,000 amount for purposes of computing the limitation on the small business deduction of life insurance companies under sections 804(a)(3) and 809(d)(10), and”, struck out par. (4) which read as follows: “one $1,000,000 amount (adjusted as provided in section 809(f)(3) for purposes of computing the limitation under paragraph (1) or (2) of section 809(f).”, and substituted “paragraph (2)” for “paragraphs (2), (3), and (4)” in concluding provisions.
 
-Pub. L. 98–369, § 66(b), inserted provision that notwithstanding paragraph (1), in applying last sentence of section 11(b) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under the last sentence shall be divided among such component members in the same manner as amounts under paragraph (1).
+Pub. L. 98–369, § 66(b), inserted provision that notwithstanding paragraph (1), in applying last sentence of section 11(b) to such component members, the taxable income of all such component members shall be taken into account and any increase in tax under the last sentence shall be divided among such component members in the same manner as amounts under paragraph (1).
 
-Subsec. (b). Pub. L. 98–369, § 211(b)(21)(B), inserted “and” at end of par. (1), struck out par. (3) which read as follows: “the amount to be used in computing the limitation on the small business deduction of life insurance companies under sections 804(a)(3) and 809(d)(10), and”, struck out par. (4) which read as follows: “the amount (adjusted as provided in section 809(f)(3)) to be used in computing the limitation under paragraph (1) or (2) of section 809(f),”, and substituted “or (2)” for “, (2), (3), or (4)” in concluding provisions.
+Subsec. (b). Pub. L. 98–369, § 211(b)(21)(B), inserted “and” at end of par. (1), struck out par. (3) which read as follows: “the amount to be used in computing the limitation on the small business deduction of life insurance companies under sections 804(a)(3) and 809(d)(10), and”, struck out par. (4) which read as follows: “the amount (adjusted as provided in section 809(f)(3)) to be used in computing the limitation under paragraph (1) or (2) of section 809(f),”, and substituted “or (2)” for “, (2), (3), or (4)” in concluding provisions.
 
-1982—Subsec. (a). Pub. L. 97–248, § 259(b), added par. (4) and inserted reference to par. (4) in text following par. (4).
+1982—Subsec. (a). Pub. L. 97–248, § 259(b), added par. (4) and inserted reference to par. (4) in text following par. (4).
 
-Subsec. (b). Pub. L. 97–248, § 259(c), added par. (4) and inserted reference to subsec. (a)(4) in text following par. (4).
+Subsec. (b). Pub. L. 97–248, § 259(c), added par. (4) and inserted reference to subsec. (a)(4) in text following par. (4).
 
 1981—Subsec. (a)(2). Pub. L. 97–34 substituted “$250,000 ($150,000 if any component member is a corporation described in section 535(c)(2)(B))” for “$150,000”.
 
-1978—Subsec. (a). Pub. L. 95–600, § 301(b)(19)(A), in par. (1) substituted “amounts in each taxable income bracket in the tax table in section 11(b) which do not aggregate more than the maximum amount in such bracket to which a corporation is not a component member of a controlled group is entitled” for “the surtax exemption under section 11(d)” and in provisions following par. (3) substituted “amounts” for “amount” in two places and struck out provision that in applying section 11(b)(2), the first $25,000 of taxable income and the second $25,000 of taxable income each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated.
+1978—Subsec. (a). Pub. L. 95–600, § 301(b)(19)(A), in par. (1) substituted “amounts in each taxable income bracket in the tax table in section 11(b) which do not aggregate more than the maximum amount in such bracket to which a corporation is not a component member of a controlled group is entitled” for “the surtax exemption under section 11(d)” and in provisions following par. (3) substituted “amounts” for “amount” in two places and struck out provision that in applying section 11(b)(2), the first $25,000 of taxable income and the second $25,000 of taxable income each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated.
 
-Subsec. (b)(1). Pub. L. 95–600, § 301(b)(19)(B), substituted “the amount in each taxable income bracket in the tax table in section 11(b)” for “the surtax exemption under section 11(d)”.
+Subsec. (b)(1). Pub. L. 95–600, § 301(b)(19)(B), substituted “the amount in each taxable income bracket in the tax table in section 11(b)” for “the surtax exemption under section 11(d)”.
 
-Subsec. (b)(3). Pub. L. 95–600, § 703(j)(7), substituted “804(a)(3)” for “804(a)(4)”.
+Subsec. (b)(3). Pub. L. 95–600, § 703(j)(7), substituted “804(a)(3)” for “804(a)(4)”.
 
-1976—Subsec. (a). Pub. L. 94–455, §§ 901(c)(1), 1906(b)(13)(A), inserted “In applying section 11(b)(2), the first $25,000 of taxable income and the second $25,000 of taxable income shall each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated” after “unequal allocation of such amounts” and struck out “or his delegate” after “Secretary” in two places.
+1976—Subsec. (a). Pub. L. 94–455, §§ 901(c)(1), 1906(b)(13)(A), inserted “In applying section 11(b)(2), the first $25,000 of taxable income and the second $25,000 of taxable income shall each be allocated among the component members of a controlled group of corporations in the same manner as the surtax exemption is allocated” after “unequal allocation of such amounts” and struck out “or his delegate” after “Secretary” in two places.
 
-Subsec. (a)(3). Pub. L. 94–455, § 1901(b)(1)(J)(v), substituted “804(a)(3)” for “804(a)(4)” after “under sections”.
+Subsec. (a)(3). Pub. L. 94–455, § 1901(b)(1)(J)(v), substituted “804(a)(3)” for “804(a)(4)” after “under sections”.
 
 1975—Subsec. (a)(1). Pub. L. 94–164 struck out “$25,000” in par. (1) as par. (1) is in effect for taxable years ending after Dec. 31, 1975.
 
-Pub. L. 94–12, § 303(c)(1), substituted “$50,000” for “$25,000”.
+Pub. L. 94–12, § 303(c)(1), substituted “$50,000” for “$25,000”.
 
-Subsec. (a)(2). Pub. L. 94–12, § 304(b), substituted “$150,000” for “$100,000”.
+Subsec. (a)(2). Pub. L. 94–12, § 304(b), substituted “$150,000” for “$100,000”.
 
 1969—Pub. L. 91–172 provided, with respect to taxable years beginning after Dec. 31, 1974, that a controlled group of corporations is limited to one $25,000 surtax exemption under section 11(d), one $100,000 amount for purposes of computing the accumulated earnings credit under section 535(c)(2) and (3), and one $25,000 amount for purposes of computing the limitation on the small business deduction of life insurance companies under sections 804(a)(4) and 809(d)(10).
 
@@ -941,7 +941,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 1996 Amendment**
 
-Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§ 13001–13444, to which such amendment relates, see section 1703(*o*) of Pub. L. 104–188, set out as a note under section 39 of this title.
+Amendment by Pub. L. 104–188 effective as if included in the provision of the Revenue Reconciliation Act of 1993, Pub. L. 103–66, §§ 13001–13444, to which such amendment relates, see section 1703(*o*) of Pub. L. 104–188, set out as a note under section 39 of this title.
 
 **Effective Date of 1988 Amendment**
 
@@ -961,7 +961,7 @@ Amendment by section 211(b)(21) of Pub. L. 98–369 applicable to taxable years 
 
 **Effective and Termination Date of 1982 Amendment**
 
-Pub. L. 97–248, title II, § 263(a)(1), Sept. 3, 1982, 96 Stat. 541, provided that the amendment made by section 259(b), (c) of Pub. L. 97–248 is applicable to taxable years beginning after Dec. 31, 1981, and before Jan. 1, 1984.
+Pub. L. 97–248, title II, § 263(a)(1), Sept. 3, 1982, 96 Stat. 541, provided that the amendment made by section 259(b), (c) of Pub. L. 97–248 is applicable to taxable years beginning after Dec. 31, 1981, and before Jan. 1, 1984.
 
 **Effective Date of 1981 Amendment**
 
@@ -989,7 +989,7 @@ Amendment by section 304(b) of Pub. L. 94–12 applicable to taxable years begin
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–172, title IV, § 401(h), Dec. 30, 1969, 83 Stat. 604, provided that:
+Pub. L. 91–172, title IV, § 401(h), Dec. 30, 1969, 83 Stat. 604, provided that:
 
 > **“(1)** The amendments made by subsection (a) [amending this section and repealing section 1562 of this title] shall apply with respect to taxable years beginning after December 31, 1974.
 
@@ -1005,9 +1005,9 @@ Section applicable with respect to taxable years ending after Dec. 31, 1963, see
 
 For applicability of amendment by section 701(e)(2) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, see section 1012(aa)(2) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
-#### [§ 1562. Repealed. Pub. L. 91–172, title IV, § 401(a)(2), Dec. 30, 1969, 83 Stat. 600]
+#### [§ 1562. Repealed. Pub. L. 91–172, title IV, § 401(a)(2), Dec. 30, 1969, 83 Stat. 600]
 
-Section, added Pub. L. 88–272, title II, § 235(a), Feb. 26, 1964, 78 Stat. 117, amended Pub. L. 91–172, title IV, § 401(b)(2)(A), Dec. 30, 1969, 83 Stat. 602, set limits on the privilege of groups to elect multiple surtax exemptions.
+Section, added Pub. L. 88–272, title II, § 235(a), Feb. 26, 1964, 78 Stat. 117, amended Pub. L. 91–172, title IV, § 401(b)(2)(A), Dec. 30, 1969, 83 Stat. 602, set limits on the privilege of groups to elect multiple surtax exemptions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1017,9 +1017,9 @@ Repeal applicable with respect to taxable years beginning after Dec. 31, 1974, s
 
 **Retroactive Termination of Elections**
 
-Pub. L. 91–172, title IV, § 401(g), Dec. 30, 1969, 83 Stat. 604, authorized an affiliated group of corporations making a consolidated return for the taxable year which included Dec. 31, 1970, to terminate the election under section 1562 of this title with respect to any prior Dec. 31 which was included in a taxable year of any such corporations from which there was a net operating loss carryover to the 1970 consolidated return year and provided that the termination of such election was to be valid only if in accord with subsecs. (c)(1) and (e) of section 1562 of this title other than the requirement of making the termination prior to the expiration of the 3 year period specified in subsec. (e) of section 1562 of this title.
+Pub. L. 91–172, title IV, § 401(g), Dec. 30, 1969, 83 Stat. 604, authorized an affiliated group of corporations making a consolidated return for the taxable year which included Dec. 31, 1970, to terminate the election under section 1562 of this title with respect to any prior Dec. 31 which was included in a taxable year of any such corporations from which there was a net operating loss carryover to the 1970 consolidated return year and provided that the termination of such election was to be valid only if in accord with subsecs. (c)(1) and (e) of section 1562 of this title other than the requirement of making the termination prior to the expiration of the 3 year period specified in subsec. (e) of section 1562 of this title.
 
-#### § 1563. Definitions and special rules
+#### § 1563. Definitions and special rules
 
 **(a) Controlled group of corporations** For purposes of this part, the term “controlled group of corporations” means any group of—
 
@@ -1227,15 +1227,15 @@ Except as specifically provided in an applicable provision, subsection (a)(2) sh
 
 For purposes of this paragraph, an applicable provision is any provision of law (other than this part) which incorporates the definition of controlled group of corporations under subsection (a).
 
-(Added Pub. L. 88–272, title II, § 235(a), Feb. 26, 1964, 78 Stat. 120; amended Pub. L. 91–172, title IV, § 401(c), (d), Dec. 30, 1969, 83 Stat. 602; Pub. L. 91–373, title I, § 102(b), Aug. 10, 1970, 84 Stat. 696; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, § 211(b)(22), July 18, 1984, 98 Stat. 757; Pub. L. 99–514, title X, § 1024(c)(17), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–647, title I, § 1018(s)(3)(A), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 108–357, title VIII, § 900(a), (b), Oct. 22, 2004, 118 Stat. 1650.)
+(Added Pub. L. 88–272, title II, § 235(a), Feb. 26, 1964, 78 Stat. 120; amended Pub. L. 91–172, title IV, § 401(c), (d), Dec. 30, 1969, 83 Stat. 602; Pub. L. 91–373, title I, § 102(b), Aug. 10, 1970, 84 Stat. 696; Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title II, § 211(b)(22), July 18, 1984, 98 Stat. 757; Pub. L. 99–514, title X, § 1024(c)(17), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–647, title I, § 1018(s)(3)(A), Nov. 10, 1988, 102 Stat. 3587; Pub. L. 108–357, title VIII, § 900(a), (b), Oct. 22, 2004, 118 Stat. 1650.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2004—Subsec. (a)(2). Pub. L. 108–357, § 900(a), substituted “possessing” for “possessing—”, struck out “(B)” before “more than 50 percent of the total combined voting power”, and struck out subpar. (A) which read as follows: “at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and”.
+2004—Subsec. (a)(2). Pub. L. 108–357, § 900(a), substituted “possessing” for “possessing—”, struck out “(B)” before “more than 50 percent of the total combined voting power”, and struck out subpar. (A) which read as follows: “at least 80 percent of the total combined voting power of all classes of stock entitled to vote or at least 80 percent of the total value of shares of all classes of the stock of each corporation, and”.
 
-Subsec. (f)(5). Pub. L. 108–357, § 900(b), added par. (5).
+Subsec. (f)(5). Pub. L. 108–357, § 900(b), added par. (5).
 
 1988—Subsec. (d)(1)(B). Pub. L. 100–647 substituted “paragraphs (1), (2), and (3) of subsection (e)” for “subsection (e)(1)”.
 
@@ -1247,21 +1247,21 @@ Subsec. (f)(5). Pub. L. 108–357, § 900(b), added par. (5).
 
 1970—Subsec. (f)(1). Pub. L. 91–373 substituted “by paragraphs (1) and (2) of section 2131(d)” for “in section 3306(i)”.
 
-1969—Subsec. (a)(2). Pub. L. 91–172, § 401(c), redesignated existing provisions with minor changes as par. (A) and added par. (B).
+1969—Subsec. (a)(2). Pub. L. 91–172, § 401(c), redesignated existing provisions with minor changes as par. (A) and added par. (B).
 
-Subsec. (c)(2)(A)(iv). Pub. L. 91–172, § 401(d)(1), added cl. (iv).
+Subsec. (c)(2)(A)(iv). Pub. L. 91–172, § 401(d)(1), added cl. (iv).
 
-Subsec. (c)(2)(B). Pub. L. 91–172, § 401(d)(2), substituted “5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as ‘common owners’) own” for “a person who is an individual, estate, or trust (referred to in this paragraph as ‘common owner’) owns” and in cl. (ii), substituted “any of such common owners”, “any of the common owners” for “such common owner” and “the common owner”, respectively and added cl. (iii).
+Subsec. (c)(2)(B). Pub. L. 91–172, § 401(d)(2), substituted “5 or fewer persons who are individuals, estates, or trusts (referred to in this subparagraph as ‘common owners’) own” for “a person who is an individual, estate, or trust (referred to in this paragraph as ‘common owner’) owns” and in cl. (ii), substituted “any of such common owners”, “any of the common owners” for “such common owner” and “the common owner”, respectively and added cl. (iii).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–357, title VIII, § 900(c), Oct. 22, 2004, 118 Stat. 1650, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–357, title VIII, § 900(c), Oct. 22, 2004, 118 Stat. 1650, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–647, title I, § 1018(s)(3)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 10, 1988].”
+Pub. L. 100–647, title I, § 1018(s)(3)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: “The amendment made by subparagraph (A) [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Nov. 10, 1988].”
 
 **Effective Date of 1986 Amendment**
 
@@ -1279,9 +1279,9 @@ Amendment by Pub. L. 91–172 applicable with respect to taxable years ending on
 
 Section applicable with respect to taxable years ending after Dec. 31, 1963, see section 235(d) of Pub. L. 88–272, set out as an Effective Date of 1964 Amendment note under section 269 of this title.
 
-#### [§ 1564. Repealed. Pub. L. 101–508, title XI, § 11801(a)(38), Nov. 5, 1990, 104 Stat. 1388–521]
+#### [§ 1564. Repealed. Pub. L. 101–508, title XI, § 11801(a)(38), Nov. 5, 1990, 104 Stat. 1388–521]
 
-Section, added Pub. L. 91–172, title IV, § 401(b)(1), Dec. 30, 1969, 83 Stat. 600; amended Pub. L. 94–455, title XIX, §§ 1901(b)(1)(J)(vi), (21)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1791, 1797, 1834, related to transitional rules in the case of certain controlled corporations.
+Section, added Pub. L. 91–172, title IV, § 401(b)(1), Dec. 30, 1969, 83 Stat. 600; amended Pub. L. 94–455, title XIX, §§ 1901(b)(1)(J)(vi), (21)(A)(ii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1791, 1797, 1834, related to transitional rules in the case of certain controlled corporations.
 
 **Statutory Notes and Related Subsidiaries**
 

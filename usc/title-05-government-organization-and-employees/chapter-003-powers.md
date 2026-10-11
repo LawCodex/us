@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 118–231, § 2(b), Jan. 4, 2025, 138 Stat. 2831, added heading for subchapter III and items 321 to 324.
+2025—Pub. L. 118–231, § 2(b), Jan. 4, 2025, 138 Stat. 2831, added heading for subchapter III and items 321 to 324.
 
-2019—Pub. L. 115–435, title I, § 101(b), Jan. 14, 2019, 132 Stat. 5532, added headings for subchapters I and II and items 311 to 315.
+2019—Pub. L. 115–435, title I, § 101(b), Jan. 14, 2019, 132 Stat. 5532, added headings for subchapters I and II and items 311 to 315.
 
-2011—Pub. L. 111–352, § 13(a), Jan. 4, 2011, 124 Stat. 3882, added item 306 and struck out former item 306 “Strategic plans”.
+2011—Pub. L. 111–352, § 13(a), Jan. 4, 2011, 124 Stat. 3882, added item 306 and struck out former item 306 “Strategic plans”.
 
-1993—Pub. L. 103–62, § 11(a), Aug. 3, 1993, 107 Stat. 295, added item 306.
+1993—Pub. L. 103–62, § 11(a), Aug. 3, 1993, 107 Stat. 295, added item 306.
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
@@ -33,9 +33,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2019—Pub. L. 115–435, title I, § 101(a)(1), Jan. 14, 2019, 132 Stat. 5529, inserted subchapter heading.
+2019—Pub. L. 115–435, title I, § 101(a)(1), Jan. 14, 2019, 132 Stat. 5529, inserted subchapter heading.
 
-### § 301. Departmental regulations
+### § 301. Departmental regulations
 
 The head of an Executive department or military department may prescribe regulations for the government of his department, the conduct of its employees, the distribution and performance of its business, and the custody, use, and preservation of its records, papers, and property. This section does not authorize withholding information from the public or limiting the availability of records to the public.
 
@@ -45,7 +45,7 @@ The head of an Executive department or military department may prescribe regulat
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 22. | R.S. § 161. Aug. 12, 1958, Pub. L. 85–619, 72 Stat. 547. |
+|  | 5 U.S.C. 22. | R.S. § 161. Aug. 12, 1958, Pub. L. 85–619, 72 Stat. 547. |
 
 The words “Executive department” are substituted for “department” as the definition of “department” applicable to this section is coextensive with the definition of “Executive department” in section 101. The words “not inconsistent with law” are omitted as surplusage as a regulation which is inconsistent with law is invalid.
 
@@ -53,7 +53,7 @@ The words “or military department” are inserted to preserve the application 
 
 > “All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act, have the same effect as if this Act had not been enacted; but, after the effective date of this Act, any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to the officer, or department, executive or military, succeeding the officer, department, or establishment in which such function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force.”
 
-This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
+This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -95,7 +95,7 @@ Pub. L. 118–195, Dec. 23, 2024, 138 Stat. 2669, provided that:
 
 **Federal Cybersecurity Workforce Assessment**
 
-Pub. L. 114–113, div. N, title III, Dec. 18, 2015, 129 Stat. 2975, as amended by Pub. L. 116–283, div. H, title XCIV, § 9401(g)(4)(A), Jan. 1, 2021, 134 Stat. 4809, provided that:
+Pub. L. 114–113, div. N, title III, Dec. 18, 2015, 129 Stat. 2975, as amended by Pub. L. 116–283, div. H, title XCIV, § 9401(g)(4)(A), Jan. 1, 2021, 134 Stat. 4809, provided that:
 
 > **“SEC. 301. SHORT TITLE.**
 
@@ -293,7 +293,7 @@ Pub. L. 111–274, Oct. 13, 2010, 124 Stat. 2861, provided that:
 
 **Support for Youth Organizations**
 
-Pub. L. 109–163, div. A, title X, § 1058(a), (b), Jan. 6, 2006, 119 Stat. 3442, provided that:
+Pub. L. 109–163, div. A, title X, § 1058(a), (b), Jan. 6, 2006, 119 Stat. 3442, provided that:
 
 > **“(a) Youth Organization Defined.—** In this section, the term ‘youth organization’ means—
 
@@ -359,11 +359,11 @@ Pub. L. 109–163, div. A, title X, § 1058(a), (b), Jan. 6, 2006, 119 Stat. 3
 
 > **“(D)** providing personnel services and logistical support for a youth organization.”
 
-Pub. L. 109–148, div. A, title VIII, § 8126(b), Dec. 30, 2005, 119 Stat. 2728, which contained provisions substantially similar to those in Pub. L. 109–163, § 1058(a), (b), set out above, was repealed by Pub. L. 109–364, div. A, title X, § 1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
+Pub. L. 109–148, div. A, title VIII, § 8126(b), Dec. 30, 2005, 119 Stat. 2728, which contained provisions substantially similar to those in Pub. L. 109–163, § 1058(a), (b), set out above, was repealed by Pub. L. 109–364, div. A, title X, § 1071(f)(3), Oct. 17, 2006, 120 Stat. 2402.
 
 **Minimum Standards for Birth Certificates**
 
-Pub. L. 108–458, title VII, § 7211(a)–(d), Dec. 17, 2004, 118 Stat. 3825–3827, provided that:
+Pub. L. 108–458, title VII, § 7211(a)–(d), Dec. 17, 2004, 118 Stat. 3825–3827, provided that:
 
 > **“(a) Definition.—** In this section [enacting this note and repealing provisions set out as a note below], the term ‘birth certificate’ means a certificate of birth—
 
@@ -445,7 +445,7 @@ Pub. L. 108–458, title VII, § 7211(a)–(d), Dec. 17, 2004, 118 Stat. 3825�
 
 **Improvements in Identification-Related Documents**
 
-Pub. L. 104–208, div. C, title VI, § 656, Sept. 30, 1996, 110 Stat. 3009–716, as amended by Pub. L. 106–69, title III, § 355, Oct. 9, 1999, 113 Stat. 1027, which related to standards for acceptance of birth certificates by Federal agencies for any official purpose, required the Secretary of Health and Human Services to make grants to States for assistance in meeting Federal standards and in matching birth and death records and for demonstration projects, and required the Secretary to submit a report to the Congress on ways to reduce the fraudulent obtaining and use of birth certificates, was repealed by Pub. L. 108–458, title VII, § 7211(e), Dec. 17, 2004, 118 Stat. 3827.
+Pub. L. 104–208, div. C, title VI, § 656, Sept. 30, 1996, 110 Stat. 3009–716, as amended by Pub. L. 106–69, title III, § 355, Oct. 9, 1999, 113 Stat. 1027, which related to standards for acceptance of birth certificates by Federal agencies for any official purpose, required the Secretary of Health and Human Services to make grants to States for assistance in meeting Federal standards and in matching birth and death records and for demonstration projects, and required the Secretary to submit a report to the Congress on ways to reduce the fraudulent obtaining and use of birth certificates, was repealed by Pub. L. 108–458, title VII, § 7211(e), Dec. 17, 2004, 118 Stat. 3827.
 
 **Modification or Cancellation of Certain License Agreements Granted to Government During World War II**
 
@@ -457,7 +457,7 @@ Act Aug. 16, 1950, ch. 716, 64 Stat. 448, provided that: “Notwithstanding any 
 
 Establishment of equal employment opportunity programs by heads of Executive departments and agencies, see Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319 and Ex. Ord. No. 11478, Aug. 8, 1969, 34 F.R. 12985, set out as notes under section 2000e of Title 42, The Public Health and Welfare.
 
-### § 302. Delegation of authority
+### § 302. Delegation of authority
 
 **(a)** For the purpose of this section, “agency” has the meaning given it by section 5721 of this title.
 
@@ -467,15 +467,15 @@ Establishment of equal employment opportunity programs by heads of Executive dep
 
 **(2)** by section 3702 of title 44 to authorize the publication of advertisements, notices, or proposals.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 379; Pub. L. 94–183, § 2(1), Dec. 31, 1975, 89 Stat. 1057.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 379; Pub. L. 94–183, § 2(1), Dec. 31, 1975, 89 Stat. 1057.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 22a. | Aug. 2, 1946, ch. 744, § 12, 60 Stat. 809. |
+|  | 5 U.S.C. 22a. | Aug. 2, 1946, ch. 744, § 12, 60 Stat. 809. |
 
-Clause (2) of former section 22a is omitted because of the repeal of R.S. § 3683 (31 U.S.C. 675) by the Act of Sept. 12, 1950, ch. 946, § 301(76), 64 Stat. 843.
+Clause (2) of former section 22a is omitted because of the repeal of R.S. § 3683 (31 U.S.C. 675) by the Act of Sept. 12, 1950, ch. 946, § 301(76), 64 Stat. 843.
 
 The word “agency” is substituted for “department” and defined to conform to the definition of “department” in section 18 of the Act of Aug. 2, 1946, ch. 744, 60 Stat. 811.
 
@@ -489,7 +489,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1975—Subsec. (b)(2). Pub. L. 94–183 substituted “3702” for “324”.
 
-### § 303. Oaths to witnesses
+### § 303. Oaths to witnesses
 
 **(a)** An employee of an Executive department lawfully assigned to investigate frauds on or attempts to defraud the United States, or irregularity or misconduct of an employee or agent of the United States, may administer an oath to a witness attending to testify or depose in the course of the investigation.
 
@@ -501,11 +501,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 93. | R.S. § 183. Mar. 2, 1901, ch. 809, § 3, 31 Stat. 951. Feb. 13, 1911, ch. 43, 36 Stat. 898. |
+|  | 5 U.S.C. 93. | R.S. § 183. Mar. 2, 1901, ch. 809, § 3, 31 Stat. 951. Feb. 13, 1911, ch. 43, 36 Stat. 898. |
 
 The word “employee” is substituted for “officer or clerk” in view of the definition in section 2105. The words “Executive department” are substituted for “departments” as the definition of “department” applicable to this section is coextensive with the definition of “Executive department” in section 101. So much as related to the Armed Forces is omitted as superseded by section 636 of title 14 and section 936(b) of title 10.
 
-This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (formerly 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
+This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (formerly 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -515,7 +515,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1976—Pub. L. 94–213 designated existing provisions as subsec. (a) and added subsec. (b).
 
-### § 304. Subpenas
+### § 304. Subpenas
 
 **(a)** The head of an Executive department or military department or bureau thereof in which a claim against the United States is pending may apply to a judge or clerk of a court of the United States to issue a subpena for a witness within the jurisdiction of the court to appear at a time and place stated in the subpena before an individual authorized to take depositions to be used in the courts of the United States, to give full and true answers to such written interrogatories and cross-interrogatories as may be submitted with the application, or to be orally examined and cross-examined on the subject of the claim.
 
@@ -527,18 +527,18 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 94. | R.S. § 184. |
-| (b) | 5 U.S.C. 96. | R.S. § 186. |
+| (a) | 5 U.S.C. 94. | R.S. § 184. |
+| (b) | 5 U.S.C. 96. | R.S. § 186. |
 
-In subsection (a), the words “Executive department” are substituted for “department” as the definition of “department” applicable to this section is coextensive with the definition of “Executive department” in section 101. The word “thereof” is added to reflect the proper relationship between “department” and “bureau” as reflected in title IV of the Revised Statutes of 1878. The words “in any State, District, or Territory” are omitted as unnecessary. The word “individual” is substituted for “officer” as the definition of “officer” in section 2104 is narrower than the word “officer” in R.S. § 184 which word includes “officers” as defined in section 2104 as well as notaries public who are not “officers” under section 2104, but are “officers” as that word is used in R.S. § 184.
+In subsection (a), the words “Executive department” are substituted for “department” as the definition of “department” applicable to this section is coextensive with the definition of “Executive department” in section 101. The word “thereof” is added to reflect the proper relationship between “department” and “bureau” as reflected in title IV of the Revised Statutes of 1878. The words “in any State, District, or Territory” are omitted as unnecessary. The word “individual” is substituted for “officer” as the definition of “officer” in section 2104 is narrower than the word “officer” in R.S. § 184 which word includes “officers” as defined in section 2104 as well as notaries public who are not “officers” under section 2104, but are “officers” as that word is used in R.S. § 184.
 
 In subsection (a), the words “or military department” are inserted to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser’s note for section 301.
 
-This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
+This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 305. Systematic agency review of operations
+### § 305. Systematic agency review of operations
 
 **(a)** For the purpose of this section, “agency” means an Executive agency, but does not include—
 
@@ -566,20 +566,20 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(3)** identifying the employees whose personal efforts have caused their units to be outstanding in efficiency and economy of operations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 380; Pub. L. 96–54, § 2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–70, title III, § 3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 97–468, title VI, § 615(b)(1)(A), Jan. 14, 1983, 96 Stat. 2578.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 380; Pub. L. 96–54, § 2(a)(2), Aug. 14, 1979, 93 Stat. 381; Pub. L. 96–70, title III, § 3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 97–468, title VI, § 615(b)(1)(A), Jan. 14, 1983, 96 Stat. 2578.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 1085. | Oct. 28, 1949, ch. 782, § 205, 63 Stat. 957. |
-| (b), (c) | 5 U.S.C. 1151. | Oct. 28, 1949, ch. 782, § 1001, 63 Stat. 971. |
+| (a) | 5 U.S.C. 1085. | Oct. 28, 1949, ch. 782, § 205, 63 Stat. 957. |
+| (b), (c) | 5 U.S.C. 1151. | Oct. 28, 1949, ch. 782, § 1001, 63 Stat. 971. |
 
 Subsection (a) is based in part on former sections 1081 and 1082, which are carried into section 5102.
 
 In subsection (a)(1), the exception of “a Government controlled corporation” is added to preserve the application of this section to “corporations wholly owned by the United States”. This is necessary as the defined term “Executive agency” includes the defined term “Government corporation” and the latter includes both Government owned and controlled corporations. Thus the exclusion of Government controlled corporations, which are distinct from wholly owned corporations, operates to preserve the application of this section to wholly owned corporations. The exception for the Inland Waterways Corporation in former section 1082(13) is omitted on authority of the Act of July 19, 1963, Pub. L. 88–67, 77 Stat. 81. The exceptions for Production Credit Corporations and Federal Intermediate Credit Banks in former section 1082(18) and (19) are omitted as they are no longer “corporations wholly owned by the United States”. Under the Farm Credit Act of 1956, 70 Stat. 659, the Production Credit Corporations were merged in the Federal Intermediate Credit Banks, and pursuant to that Act the Federal Intermediate Credit Banks have ceased to be corporations wholly owned by the United States.
 
-In subsection (a)(7), the words “Panama Canal Company” are substituted for “Panama Railroad Company” on authority of the Act of Sept. 26, 1950, ch. 1049, § 2(a)(2), 64 Stat. 1038.
+In subsection (a)(7), the words “Panama Canal Company” are substituted for “Panama Railroad Company” on authority of the Act of Sept. 26, 1950, ch. 1049, § 2(a)(2), 64 Stat. 1038.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -603,7 +603,7 @@ Amendment by Pub. L. 97–468 effective on date of transfer of Alaska Railroad t
 
 Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
-Pub. L. 96–54, § 2(b), Aug. 14, 1979, 93 Stat. 385, provided that: “Except as otherwise expressly provided in subsection (a), the amendments made by subsection (a) [amending sections 305, 1308, 2101, 2105, 2106, 2108, 3102, 3132, 3302, 3305, 3315, 3317, 3324, 3326, 3503, 4102, 4109, 4111, 4112, 4701, 5102, 5108, 5311 to 5316, 5333 to 5335, 5347, 5504, 5514, 5516, 5521, 5545, 5550a, 5562, 5581, 5584, 5596, 5702, 5903, 5943, 6104, 6304, 6305, 6323, 6325, 7325, 7327, 7701, 7702, 8331, 8332, 8339, 8347, 8701, 8901, and 8906 of this title], shall take effect July 12, 1979, or the date of the enactment of this Act [Aug. 14, 1979], whichever is earlier.”
+Pub. L. 96–54, § 2(b), Aug. 14, 1979, 93 Stat. 385, provided that: “Except as otherwise expressly provided in subsection (a), the amendments made by subsection (a) [amending sections 305, 1308, 2101, 2105, 2106, 2108, 3102, 3132, 3302, 3305, 3315, 3317, 3324, 3326, 3503, 4102, 4109, 4111, 4112, 4701, 5102, 5108, 5311 to 5316, 5333 to 5335, 5347, 5504, 5514, 5516, 5521, 5545, 5550a, 5562, 5581, 5584, 5596, 5702, 5903, 5943, 6104, 6304, 6305, 6323, 6325, 7325, 7327, 7701, 7702, 8331, 8332, 8339, 8347, 8701, 8901, and 8906 of this title], shall take effect July 12, 1979, or the date of the enactment of this Act [Aug. 14, 1979], whichever is earlier.”
 
 **Transfer of Functions**
 
@@ -611,7 +611,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 **Dissolution of Virgin Islands Corporation**
 
-Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, § 308(e), Oct. 19, 1982, 96 Stat. 1710.
+Virgin Islands Corporation established to have succession until June 30, 1969, unless sooner dissolved by Act of Congress, by act June 30, 1949, ch. 285, 63 Stat. 350, as amended (48 U.S.C. 1407 et seq.). Corporation terminated its program June 30, 1965, and dissolved July 1, 1966. Act June 30, 1949, was repealed by Pub. L. 97–357, title III, § 308(e), Oct. 19, 1982, 96 Stat. 1710.
 
 **Executive Documents**
 
@@ -905,7 +905,7 @@ Sec. 3. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-### § 306. Agency strategic plans
+### § 306. Agency strategic plans
 
 **(a)** Not later than the first Monday in February of any year following the year in which the term of the President commences under section 101 of title 3, the head of each agency shall make available on the public website of the agency a strategic plan and notify the President and Congress of its availability. Such plan shall contain—
 
@@ -953,35 +953,35 @@ Donald J. Trump.
 
 **(f)** For purposes of this section the term “agency” means an Executive agency defined under section 105, but does not include the Central Intelligence Agency, the Government Accountability Office, the United States Postal Service, and the Postal Regulatory Commission.
 
-(Added Pub. L. 111–352, § 2, Jan. 4, 2011, 124 Stat. 3866; amended Pub. L. 115–435, title I, § 101(c), Jan. 14, 2019, 132 Stat. 5533; Pub. L. 118–190, § 7(a), Dec. 23, 2024, 138 Stat. 2656.)
+(Added Pub. L. 111–352, § 2, Jan. 4, 2011, 124 Stat. 3866; amended Pub. L. 115–435, title I, § 101(c), Jan. 14, 2019, 132 Stat. 5533; Pub. L. 118–190, § 7(a), Dec. 23, 2024, 138 Stat. 2656.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 306, added Pub. L. 103–62, § 3, Aug. 3, 1993, 107 Stat. 286; amended Pub. L. 106–65, div. A, title IX, § 902, Oct. 5, 1999, 113 Stat. 717; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241, related to strategic plans, prior to repeal by Pub. L. 111–352, § 2, Jan. 4, 2011, 124 Stat. 3866.
+A prior section 306, added Pub. L. 103–62, § 3, Aug. 3, 1993, 107 Stat. 286; amended Pub. L. 106–65, div. A, title IX, § 902, Oct. 5, 1999, 113 Stat. 717; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, § 604(b), Dec. 20, 2006, 120 Stat. 3241, related to strategic plans, prior to repeal by Pub. L. 111–352, § 2, Jan. 4, 2011, 124 Stat. 3866.
 
 **Amendments**
 
-2024—Subsec. (a)(8). Pub. L. 118–190, § 7(a)(1), inserted “, as applicable” after “section 312”.
+2024—Subsec. (a)(8). Pub. L. 118–190, § 7(a)(1), inserted “, as applicable” after “section 312”.
 
-Subsec. (a)(9). Pub. L. 118–190, § 7(a)(2), inserted “with respect to the head of an agency required to develop a plan described in subsection (a) or (b) of section 312,” before “an assessment” in introductory provisions.
+Subsec. (a)(9). Pub. L. 118–190, § 7(a)(2), inserted “with respect to the head of an agency required to develop a plan described in subsection (a) or (b) of section 312,” before “an assessment” in introductory provisions.
 
-2019—Subsec. (a)(7). Pub. L. 115–435, § 101(c)(1), substituted semicolon for “; and” at end.
+2019—Subsec. (a)(7). Pub. L. 115–435, § 101(c)(1), substituted semicolon for “; and” at end.
 
-Subsec. (a)(8). Pub. L. 115–435, § 101(c)(2), inserted “, and citations to relevant provisions of the plans required under section 312; and” after “to be conducted” and struck out period at end.
+Subsec. (a)(8). Pub. L. 115–435, § 101(c)(2), inserted “, and citations to relevant provisions of the plans required under section 312; and” after “to be conducted” and struck out period at end.
 
-Subsec. (a)(9). Pub. L. 115–435, § 101(c)(3), added par. (9).
+Subsec. (a)(9). Pub. L. 115–435, § 101(c)(3), added par. (9).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 115–435, title IV, § 403, Jan. 14, 2019, 132 Stat. 5557, provided that: “Except as otherwise provided, this Act [see Short Title of 2019 Amendment note set out under section 101 of this title], and the amendments made by this Act, shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 14, 2019].”
+Pub. L. 115–435, title IV, § 403, Jan. 14, 2019, 132 Stat. 5557, provided that: “Except as otherwise provided, this Act [see Short Title of 2019 Amendment note set out under section 101 of this title], and the amendments made by this Act, shall take effect on the date that is 180 days after the date of the enactment of this Act [Jan. 14, 2019].”
 
 **Construction of 2019 Amendment**
 
-Pub. L. 115–435, title IV, § 401, Jan. 14, 2019, 132 Stat. 5556, provided that:
+Pub. L. 115–435, title IV, § 401, Jan. 14, 2019, 132 Stat. 5556, provided that:
 
 > “Nothing in this Act [see Short Title of 2019 Amendment note set out under section 101 of this title], or the amendments made by this Act, may be construed—
 
@@ -1003,7 +1003,7 @@ Pub. L. 115–435, title IV, § 401, Jan. 14, 2019, 132 Stat. 5556, provided t
 
 **GAO Report**
 
-Pub. L. 115–435, title I, § 101(d), Jan. 14, 2019, 132 Stat. 5533, provided that:
+Pub. L. 115–435, title I, § 101(d), Jan. 14, 2019, 132 Stat. 5533, provided that:
 
 > “Not later than 2 years after the date on which each strategic plan required under section 306(a) of title 5, United States Code, is published, the Comptroller General of the United States shall submit to Congress a report that—
 
@@ -1015,19 +1015,19 @@ Pub. L. 115–435, title I, § 101(d), Jan. 14, 2019, 132 Stat. 5533, provided
 
 **Biennial OMB Report**
 
-Pub. L. 115–435, title II, § 202(g)(2), Jan. 14, 2019, 132 Stat. 5544, provided that: “Not later than 1 year after [the] date of the enactment of this Act [Jan. 14, 2019], and biennially thereafter, the Director of the Office of Management and Budget shall electronically publish a report on agency performance and compliance with this Act [see Short Title of 2019 Amendment note set out under section 101 of this title] and the amendments made by this Act.”
+Pub. L. 115–435, title II, § 202(g)(2), Jan. 14, 2019, 132 Stat. 5544, provided that: “Not later than 1 year after [the] date of the enactment of this Act [Jan. 14, 2019], and biennially thereafter, the Director of the Office of Management and Budget shall electronically publish a report on agency performance and compliance with this Act [see Short Title of 2019 Amendment note set out under section 101 of this title] and the amendments made by this Act.”
 
 [For definition of “agency” as used in section 202(g)(2) of Pub. L. 115–435, set out above, see section 101(e)(4)(A) of Pub. L. 115–435, set out as a note under section 311 of this title.]
 
 **Use of Existing Resources**
 
-Pub. L. 115–435, title IV, § 402, Jan. 14, 2019, 132 Stat. 5557, provided that: “To the extent practicable, the head of each agency shall use existing procedures and systems to carry out agency requirements and shall select existing employees for appointments under this Act [see Short Title of 2019 Amendment note set out under section 101 of this title] and the amendments made by this Act.”
+Pub. L. 115–435, title IV, § 402, Jan. 14, 2019, 132 Stat. 5557, provided that: “To the extent practicable, the head of each agency shall use existing procedures and systems to carry out agency requirements and shall select existing employees for appointments under this Act [see Short Title of 2019 Amendment note set out under section 101 of this title] and the amendments made by this Act.”
 
 [For definition of “agency” as used in section 402 of Pub. L. 115–435, set out above, see section 101(e)(4)(A) of Pub. L. 115–435, set out as a note under section 311 of this title.]
 
 ## SUBCHAPTER II—FEDERAL EVIDENCE-BUILDING ACTIVITIES
 
-### § 311. Definitions
+### § 311. Definitions
 
 In this subchapter:
 
@@ -1043,7 +1043,7 @@ In this subchapter:
 
 **(6) Statistical activities; statistical agency or unit; statistical purpose.—** The terms “statistical activities”, “statistical agency or unit”, and “statistical purpose” have the meanings given those terms in section 3561 of title 44.
 
-(Added Pub. L. 115–435, title I, § 101(a)(2), Jan. 14, 2019, 132 Stat. 5530.)
+(Added Pub. L. 115–435, title I, § 101(a)(2), Jan. 14, 2019, 132 Stat. 5530.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1053,7 +1053,7 @@ Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115�
 
 **Evaluation and Personnel Standards**
 
-Pub. L. 115–435, title I, § 101(e), Jan. 14, 2019, 132 Stat. 5534, provided that:
+Pub. L. 115–435, title I, § 101(e), Jan. 14, 2019, 132 Stat. 5534, provided that:
 
 > **“(1) Requirement.—** Not later than 1 year after the date of enactment of this Act [Jan. 14, 2019], the Director of the Office of Management and Budget, in consultation with any interagency council relating to evaluation, shall—
 
@@ -1077,7 +1077,7 @@ Pub. L. 115–435, title I, § 101(e), Jan. 14, 2019, 132 Stat. 5534, provided
 
 > **“(B) Evaluation.—** The term ‘evaluation’ has the meaning given that term in section 311 of title 5, United States Code, as added by subsection (a).”
 
-### § 312. Agency evidence-building plan
+### § 312. Agency evidence-building plan
 
 **(a) Requirement.—** The head of each agency shall include in the strategic plan required under section 306 a systematic plan for identifying and addressing policy questions relevant to the programs, policies, and regulations of the agency. Such plan shall contain the following:
 
@@ -1099,15 +1099,15 @@ Pub. L. 115–435, title I, § 101(e), Jan. 14, 2019, 132 Stat. 5534, provided
 
 **(2)** describe key information collections or acquisitions the agency plans to begin in the next fiscal year; and
 
-**(3)** any 1
+**(3)** any 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 other information included in guidance issued by the Director under subsection (a)(6).
 
 **(c) Consultation.—** In developing the plan required under subsection (a), the head of an agency shall consult with stakeholders, including the public, agencies, State and local governments, and representatives of non-governmental researchers.
 
-(Added Pub. L. 115–435, title I, § 101(a)(2), Jan. 14, 2019, 132 Stat. 5530.)
+(Added Pub. L. 115–435, title I, § 101(a)(2), Jan. 14, 2019, 132 Stat. 5530.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1115,7 +1115,7 @@ other information included in guidance issued by the Director under subsection (
 
 Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under section 306 of this title.
 
-### § 313. Evaluation Officers
+### § 313. Evaluation Officers
 
 **(a) Establishment.—** The head of each agency shall designate a senior employee of the agency as the Evaluation Officer of the agency.
 
@@ -1133,7 +1133,7 @@ Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115�
 
 **(4)** coordinate, develop, and implement the plans required under section 312.
 
-(Added Pub. L. 115–435, title I, § 101(a)(2), Jan. 14, 2019, 132 Stat. 5531.)
+(Added Pub. L. 115–435, title I, § 101(a)(2), Jan. 14, 2019, 132 Stat. 5531.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1141,13 +1141,13 @@ Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115�
 
 Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under section 306 of this title.
 
-### § 314. Statistical expertise
+### § 314. Statistical expertise
 
 **(a) In General.—** The head of each agency shall designate the head of any statistical agency or unit within the agency, or in the case of an agency that does not have a statistical agency or unit, any senior agency official with appropriate expertise, as a statistical official to advise on statistical policy, techniques, and procedures. Agency officials engaged in statistical activities may consult with any such statistical official as necessary.
 
 **(b) Membership on Interagency Council on Statistical Policy.—** Each statistical official designated under subsection (a) shall serve as a member of the Interagency Council on Statistical Policy established under section 3504(e)(8) of title 44.
 
-(Added Pub. L. 115–435, title I, § 101(a)(2), Jan. 14, 2019, 132 Stat. 5531.)
+(Added Pub. L. 115–435, title I, § 101(a)(2), Jan. 14, 2019, 132 Stat. 5531.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1155,7 +1155,7 @@ Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115�
 
 Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as an Effective Date of 2019 Amendment note under section 306 of this title.
 
-### § 315. Advisory Committee on Data for Evidence Building
+### § 315. Advisory Committee on Data for Evidence Building
 
 **(a) Establishment.—** The Director, or the head of an agency designated by the Director, shall establish an Advisory Committee on Data for Evidence Building (in this section referred to as the “Advisory Committee”) to review, analyze, and make recommendations on how to promote the use of Federal data for evidence building.
 
@@ -1171,9 +1171,9 @@ Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115�
 
 **(5)** Three members who are agency Evaluation Officers.
 
-**(6)** Three members who are members of the Interagency Council for Statistical Policy 1
+**(6)** Three members who are members of the Interagency Council for Statistical Policy 1
 
-<sup>1</sup>  So in original. Probably should be “Interagency Council on Statistical Policy”.
+<sup>1</sup> So in original. Probably should be “Interagency Council on Statistical Policy”.
 
 established under section 3504(e)(8) of title 44.
 
@@ -1211,7 +1211,7 @@ established under section 3504(e)(8) of title 44.
 
 **(g) Termination.—** The Advisory Committee shall terminate not later than two years after the date of the first meeting.
 
-(Added Pub. L. 115–435, title I, § 101(a)(2), Jan. 14, 2019, 132 Stat. 5531.)
+(Added Pub. L. 115–435, title I, § 101(a)(2), Jan. 14, 2019, 132 Stat. 5531.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1221,7 +1221,7 @@ Section effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115�
 
 ## SUBCHAPTER III—FEDERAL GOVERNMENT SERVICE DELIVERY
 
-### § 321. Definitions
+### § 321. Definitions
 
 In this subchapter:
 
@@ -1235,11 +1235,11 @@ In this subchapter:
 
 **(5) High impact service provider.—** The term “high impact service provider” means an agency program identified by the Director due to the scale and impact of the public-facing services of the program.
 
-(Added Pub. L. 118–231, § 2(a), Jan. 4, 2025, 138 Stat. 2829.)
+(Added Pub. L. 118–231, § 2(a), Jan. 4, 2025, 138 Stat. 2829.)
 
-### § 322. Federal Government service delivery
+### § 322. Federal Government service delivery
 
-**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] Federal Government Service Delivery Lead.—** The Director shall designate or appoint a senior official as the Federal Government Service Delivery Lead within the Office of Management and Budget whose responsibility is to coordinate governmentwide efforts to improve Government service delivery by agencies. The individual shall have the following duties and authorities:
+**(a) 1 [footnote: 1 So in original. No subsec. (b) has been enacted.] Federal Government Service Delivery Lead.—** The Director shall designate or appoint a senior official as the Federal Government Service Delivery Lead within the Office of Management and Budget whose responsibility is to coordinate governmentwide efforts to improve Government service delivery by agencies. The individual shall have the following duties and authorities:
 
 **(1)** Facilitate and coordinate governmentwide efforts to improve Government service delivery provided by agencies, particularly with respect to high impact service providers.
 
@@ -1273,9 +1273,9 @@ In this subchapter:
 
 **(11)** In collaboration with relevant agency officials as appropriate, and in coordination with relevant Office of Management and Budget stakeholders, ensure that websites of agencies, including those associated with high impact service providers, are consistent with the objectives of this subchapter, the 21st Century Integrated Digital Experience Act, and any other applicable law.
 
-(Added Pub. L. 118–231, § 2(a), Jan. 4, 2025, 138 Stat. 2830.)
+(Added Pub. L. 118–231, § 2(a), Jan. 4, 2025, 138 Stat. 2830.)
 
-### § 323. Lead agency officials for Government service delivery
+### § 323. Lead agency officials for Government service delivery
 
 **(a) Responsibility for Government Service Delivery.—** The head of each agency shall be responsible for the Government service delivery of the agency which shall, at a minimum, include improving and enhancing Government services to better achieve the mission of the agency and build and maintain trust, transparency, and accountability.
 
@@ -1297,7 +1297,7 @@ In this subchapter:
 
 **(8)** Assist in the incorporation of the Government service delivery requirements established under this subchapter in agency plans (such as strategic plans or annual performance plans).
 
-(Added Pub. L. 118–231, § 2(a), Jan. 4, 2025, 138 Stat. 2831.)
+(Added Pub. L. 118–231, § 2(a), Jan. 4, 2025, 138 Stat. 2831.)
 
 **Editorial Notes**
 
@@ -1305,8 +1305,8 @@ In this subchapter:
 
 The date of the enactment of this subchapter, referred to in subsec. (b), is the date of enactment of Pub. L. 118–231, which was approved Jan. 4, 2025.
 
-### § 324. Rule of construction
+### § 324. Rule of construction
 
 Nothing in this subchapter may be construed to diminish or reduce the authority of agency Chief Information Officers for information resources management provided in section 11315 of title 40 or those authorities to manage information resources to accomplish agency missions as established in section 3502 of title 44.
 
-(Pub. L. 118–231, § 2(a), Jan. 4, 2025, 138 Stat. 2831.)
+(Pub. L. 118–231, § 2(a), Jan. 4, 2025, 138 Stat. 2831.)

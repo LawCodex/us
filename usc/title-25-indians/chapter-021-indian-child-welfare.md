@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 21—INDIAN CHILD WELFARE
 
-## § 1901. Congressional findings
+## § 1901. Congressional findings
 
 Recognizing the special relationship between the United States and the Indian tribes and their members and the Federal responsibility to Indian people, the Congress finds—
 
-**(1)** that clause 3, section 8, article I of the United States Constitution provides that “The Congress shall have Power \* \* \* To regulate Commerce \* \* \* with Indian tribes 1
+**(1)** that clause 3, section 8, article I of the United States Constitution provides that “The Congress shall have Power \* \* \* To regulate Commerce \* \* \* with Indian tribes 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 ” and, through this and other constitutional authority, Congress has plenary power over Indian affairs;
 
@@ -33,21 +33,21 @@ Recognizing the special relationship between the United States and the Indian tr
 
 **(5)** that the States, exercising their recognized jurisdiction over Indian child custody proceedings through administrative and judicial bodies, have often failed to recognize the essential tribal relations of Indian people and the cultural and social standards prevailing in Indian communities and families.
 
-(Pub. L. 95–608, § 2, Nov. 8, 1978, 92 Stat. 3069.)
+(Pub. L. 95–608, § 2, Nov. 8, 1978, 92 Stat. 3069.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 95–608, § 1, Nov. 8, 1987, 92 Stat. 3069, provided: “That this Act [enacting this chapter] may be cited as the ‘Indian Child Welfare Act of 1978’.”
+Pub. L. 95–608, § 1, Nov. 8, 1987, 92 Stat. 3069, provided: “That this Act [enacting this chapter] may be cited as the ‘Indian Child Welfare Act of 1978’.”
 
-## § 1902. Congressional declaration of policy
+## § 1902. Congressional declaration of policy
 
 The Congress hereby declares that it is the policy of this Nation to protect the best interests of Indian children and to promote the stability and security of Indian tribes and families by the establishment of minimum Federal standards for the removal of Indian children from their families and the placement of such children in foster or adoptive homes which will reflect the unique values of Indian culture, and by providing for assistance to Indian tribes in the operation of child and family service programs.
 
-(Pub. L. 95–608, § 3, Nov. 8, 1978, 92 Stat. 3069.)
+(Pub. L. 95–608, § 3, Nov. 8, 1978, 92 Stat. 3069.)
 
-## § 1903. Definitions
+## § 1903. Definitions
 
 For the purposes of this chapter, except as may be specifically provided otherwise, the term—
 
@@ -85,11 +85,11 @@ Such term or terms shall not include a placement based upon an act which, if com
 
 **(12)** “tribal court” means a court with jurisdiction over child custody proceedings and which is either a Court of Indian Offenses, a court established and operated under the code or custom of an Indian tribe, or any other administrative body of a tribe which is vested with authority over child custody proceedings.
 
-(Pub. L. 95–608, § 4, Nov. 8, 1978, 92 Stat. 3069.)
+(Pub. L. 95–608, § 4, Nov. 8, 1978, 92 Stat. 3069.)
 
 ## SUBCHAPTER I—CHILD CUSTODY PROCEEDINGS
 
-### § 1911. Indian tribe jurisdiction over Indian child custody proceedings
+### § 1911. Indian tribe jurisdiction over Indian child custody proceedings
 
 **(a) Exclusive jurisdiction**
 
@@ -107,9 +107,9 @@ In any State court proceeding for the foster care placement of, or termination o
 
 The United States, every State, every territory or possession of the United States, and every Indian tribe shall give full faith and credit to the public acts, records, and judicial proceedings of any Indian tribe applicable to Indian child custody proceedings to the same extent that such entities give full faith and credit to the public acts, records, and judicial proceedings of any other entity.
 
-(Pub. L. 95–608, title I, § 101, Nov. 8, 1978, 92 Stat. 3071.)
+(Pub. L. 95–608, title I, § 101, Nov. 8, 1978, 92 Stat. 3071.)
 
-### § 1912. Pending court proceedings
+### § 1912. Pending court proceedings
 
 **(a) Notice; time for commencement of proceedings; additional time for preparation**
 
@@ -135,9 +135,9 @@ No foster care placement may be ordered in such proceeding in the absence of a d
 
 No termination of parental rights may be ordered in such proceeding in the absence of a determination, supported by evidence beyond a reasonable doubt, including testimony of qualified expert witnesses, that the continued custody of the child by the parent or Indian custodian is likely to result in serious emotional or physical damage to the child.
 
-(Pub. L. 95–608, title I, § 102, Nov. 8, 1978, 92 Stat. 3071.)
+(Pub. L. 95–608, title I, § 102, Nov. 8, 1978, 92 Stat. 3071.)
 
-### § 1913. Parental rights; voluntary termination
+### § 1913. Parental rights; voluntary termination
 
 **(a) Consent; record; certification matters; invalid consents**
 
@@ -155,15 +155,15 @@ In any voluntary proceeding for termination of parental rights to, or adoptive p
 
 After the entry of a final decree of adoption of an Indian child in any State court, the parent may withdraw consent thereto upon the grounds that consent was obtained through fraud or duress and may petition the court to vacate such decree. Upon a finding that such consent was obtained through fraud or duress, the court shall vacate such decree and return the child to the parent. No adoption which has been effective for at least two years may be invalidated under the provisions of this subsection unless otherwise permitted under State law.
 
-(Pub. L. 95–608, title I, § 103, Nov. 8, 1978, 92 Stat. 3072.)
+(Pub. L. 95–608, title I, § 103, Nov. 8, 1978, 92 Stat. 3072.)
 
-### § 1914. Petition to court of competent jurisdiction to invalidate action upon showing of certain violations
+### § 1914. Petition to court of competent jurisdiction to invalidate action upon showing of certain violations
 
 Any Indian child who is the subject of any action for foster care placement or termination of parental rights under State law, any parent or Indian custodian from whose custody such child was removed, and the Indian child’s tribe may petition any court of competent jurisdiction to invalidate such action upon a showing that such action violated any provision of sections 1911, 1912, and 1913 of this title.
 
-(Pub. L. 95–608, title I, § 104, Nov. 8, 1978, 92 Stat. 3072.)
+(Pub. L. 95–608, title I, § 104, Nov. 8, 1978, 92 Stat. 3072.)
 
-### § 1915. Placement of Indian children
+### § 1915. Placement of Indian children
 
 **(a) Adoptive placements; preferences**
 
@@ -191,9 +191,9 @@ The standards to be applied in meeting the preference requirements of this secti
 
 A record of each such placement, under State law, of an Indian child shall be maintained by the State in which the placement was made, evidencing the efforts to comply with the order of preference specified in this section. Such record shall be made available at any time upon the request of the Secretary or the Indian child’s tribe.
 
-(Pub. L. 95–608, title I, § 105, Nov. 8, 1978, 92 Stat. 3073.)
+(Pub. L. 95–608, title I, § 105, Nov. 8, 1978, 92 Stat. 3073.)
 
-### § 1916. Return of custody
+### § 1916. Return of custody
 
 **(a) Petition; best interests of child**
 
@@ -203,15 +203,15 @@ Notwithstanding State law to the contrary, whenever a final decree of adoption o
 
 Whenever an Indian child is removed from a foster care home or institution for the purpose of further foster care, preadoptive, or adoptive placement, such placement shall be in accordance with the provisions of this chapter, except in the case where an Indian child is being returned to the parent or Indian custodian from whose custody the child was originally removed.
 
-(Pub. L. 95–608, title I, § 106, Nov. 8, 1978, 92 Stat. 3073.)
+(Pub. L. 95–608, title I, § 106, Nov. 8, 1978, 92 Stat. 3073.)
 
-### § 1917. Tribal affiliation information and other information for protection of rights from tribal relationship; application of subject of adoptive placement; disclosure by court
+### § 1917. Tribal affiliation information and other information for protection of rights from tribal relationship; application of subject of adoptive placement; disclosure by court
 
 Upon application by an Indian individual who has reached the age of eighteen and who was the subject of an adoptive placement, the court which entered the final decree shall inform such individual of the tribal affiliation, if any, of the individual’s biological parents and provide such other information as may be necessary to protect any rights flowing from the individual’s tribal relationship.
 
-(Pub. L. 95–608, title I, § 107, Nov. 8, 1978, 92 Stat. 3073.)
+(Pub. L. 95–608, title I, § 107, Nov. 8, 1978, 92 Stat. 3073.)
 
-### § 1918. Reassumption of jurisdiction over child cus­tody proceedings
+### § 1918. Reassumption of jurisdiction over child cus­tody proceedings
 
 **(a) Petition; suitable plan; approval by Secretary**
 
@@ -239,7 +239,7 @@ If the Secretary approves any petition under subsection (a), the Secretary shall
 
 Assumption of jurisdiction under this section shall not affect any action or proceeding over which a court has already assumed jurisdiction, except as may be provided pursuant to any agreement under section 1919 of this title.
 
-(Pub. L. 95–608, title I, § 108, Nov. 8, 1978, 92 Stat. 3074.)
+(Pub. L. 95–608, title I, § 108, Nov. 8, 1978, 92 Stat. 3074.)
 
 **Editorial Notes**
 
@@ -247,7 +247,7 @@ Assumption of jurisdiction under this section shall not affect any action or pro
 
 Act of August 15, 1953, referred to in subsec. (a), is act Aug. 15, 1953, ch. 505, 67 Stat. 588, which enacted section 1162 of Title 18, Crimes and Criminal Procedure, section 1360 of Title 28, Judiciary and Judicial Procedure, and provisions set out as notes under section 1360 of Title 28. For complete classification of this Act to the Code, see Tables.
 
-### § 1919. Agreements between States and Indian tribes
+### § 1919. Agreements between States and Indian tribes
 
 **(a) Subject coverage**
 
@@ -257,35 +257,35 @@ States and Indian tribes are authorized to enter into agreements with each other
 
 Such agreements may be revoked by either party upon one hundred and eighty days’ written notice to the other party. Such revocation shall not affect any action or proceeding over which a court has already assumed jurisdiction, unless the agreement provides otherwise.
 
-(Pub. L. 95–608, title I, § 109, Nov. 8, 1978, 92 Stat. 3074.)
+(Pub. L. 95–608, title I, § 109, Nov. 8, 1978, 92 Stat. 3074.)
 
-### § 1920. Improper removal of child from custody; declination of jurisdiction; forthwith return of child: danger exception
+### § 1920. Improper removal of child from custody; declination of jurisdiction; forthwith return of child: danger exception
 
 Where any petitioner in an Indian child custody proceeding before a State court has improperly removed the child from custody of the parent or Indian custodian or has improperly retained custody after a visit or other temporary relinquishment of custody, the court shall decline jurisdiction over such petition and shall forthwith return the child to his parent or Indian custodian unless returning the child to his parent or custodian would subject the child to a substantial and immediate danger or threat of such danger.
 
-(Pub. L. 95–608, title I, § 110, Nov. 8, 1978, 92 Stat. 3075.)
+(Pub. L. 95–608, title I, § 110, Nov. 8, 1978, 92 Stat. 3075.)
 
-### § 1921. Higher State or Federal standard applicable to protect rights of parent or Indian custodian of Indian child
+### § 1921. Higher State or Federal standard applicable to protect rights of parent or Indian custodian of Indian child
 
 In any case where State or Federal law applicable to a child custody proceeding under State or Federal law provides a higher standard of protection to the rights of the parent or Indian custodian of an Indian child than the rights provided under this subchapter, the State or Federal court shall apply the State or Federal standard.
 
-(Pub. L. 95–608, title I, § 111, Nov. 8, 1978, 92 Stat. 3075.)
+(Pub. L. 95–608, title I, § 111, Nov. 8, 1978, 92 Stat. 3075.)
 
-### § 1922. Emergency removal or placement of child; termination; appropriate action
+### § 1922. Emergency removal or placement of child; termination; appropriate action
 
 Nothing in this subchapter shall be construed to prevent the emergency removal of an Indian child who is a resident of or is domiciled on a reservation, but temporarily located off the reservation, from his parent or Indian custodian or the emergency placement of such child in a foster home or institution, under applicable State law, in order to prevent imminent physical damage or harm to the child. The State authority, official, or agency involved shall insure that the emergency removal or placement terminates immediately when such removal or placement is no longer necessary to prevent imminent physical damage or harm to the child and shall expeditiously initiate a child custody proceeding subject to the provisions of this subchapter, transfer the child to the jurisdiction of the appropriate Indian tribe, or restore the child to the parent or Indian custodian, as may be appropriate.
 
-(Pub. L. 95–608, title I, § 112, Nov. 8, 1978, 92 Stat. 3075.)
+(Pub. L. 95–608, title I, § 112, Nov. 8, 1978, 92 Stat. 3075.)
 
-### § 1923. Effective date
+### § 1923. Effective date
 
 None of the provisions of this subchapter, except sections 1911(a), 1918, and 1919 of this title, shall affect a proceeding under State law for foster care placement, termination of parental rights, preadoptive placement, or adoptive placement which was initiated or completed prior to one hundred and eighty days after November 8, 1978, but shall apply to any subsequent proceeding in the same matter or subsequent proceedings affecting the custody or placement of the same child.
 
-(Pub. L. 95–608, title I, § 113, Nov. 8, 1978, 92 Stat. 3075.)
+(Pub. L. 95–608, title I, § 113, Nov. 8, 1978, 92 Stat. 3075.)
 
 ## SUBCHAPTER II—INDIAN CHILD AND FAMILY PROGRAMS
 
-### § 1931. Grants for on or near reservation programs and child welfare codes
+### § 1931. Grants for on or near reservation programs and child welfare codes
 
 **(a) Statement of purpose; scope of programs** The Secretary is authorized to make grants to Indian tribes and organizations in the establishment and operation of Indian child and family service programs on or near reservations and in the preparation and implementation of child welfare codes. The objective of every Indian child and family service program shall be to prevent the breakup of Indian families and, in particular, to insure that the permanent removal of an Indian child from the custody of his parent or Indian custodian shall be a last resort. Such child and family service programs may include, but are not limited to—
 
@@ -309,15 +309,15 @@ None of the provisions of this subchapter, except sections 1911(a), 1918, and 19
 
 Funds appropriated for use by the Secretary in accordance with this section may be utilized as non-Federal matching share in connection with funds provided under titles IV–B and XX of the Social Security Act [42 U.S.C. 620 et seq., 1397 et seq.] or under any other Federal financial assistance programs which contribute to the purpose for which such funds are authorized to be appropriated for use under this chapter. The provision or possibility of assistance under this chapter shall not be a basis for the denial or reduction of any assistance otherwise authorized under titles IV–B and XX of the Social Security Act or any other federally assisted program. For purposes of qualifying for assistance under a federally assisted program, licensing or approval of foster or adoptive homes or institutions by an Indian tribe shall be deemed equivalent to licensing or approval by a State.
 
-(Pub. L. 95–608, title II, § 201, Nov. 8, 1978, 92 Stat. 3075.)
+(Pub. L. 95–608, title II, § 201, Nov. 8, 1978, 92 Stat. 3075.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles IV–B and XX of the Social Security Act are classified generally to part B (§ 620 et seq.) of subchapter IV and subchapter XX (§ 1397 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles IV–B and XX of the Social Security Act are classified generally to part B (§ 620 et seq.) of subchapter IV and subchapter XX (§ 1397 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-### § 1932. Grants for off-reservation programs for additional services
+### § 1932. Grants for off-reservation programs for additional services
 
 The Secretary is also authorized to make grants to Indian organizations to establish and operate off-reservation Indian child and family service programs which may include, but are not limited to—
 
@@ -329,9 +329,9 @@ The Secretary is also authorized to make grants to Indian organizations to estab
 
 **(4)** guidance, legal representation, and advice to Indian families involved in child custody proceedings.
 
-(Pub. L. 95–608, title II, § 202, Nov. 8, 1978, 92 Stat. 3076.)
+(Pub. L. 95–608, title II, § 202, Nov. 8, 1978, 92 Stat. 3076.)
 
-### § 1933. Funds for on and off reservation programs
+### § 1933. Funds for on and off reservation programs
 
 **(a) Appropriated funds for similar programs of Department of Health and Human Services; appropriation in advance for payments**
 
@@ -341,7 +341,7 @@ In the establishment, operation, and funding of Indian child and family service 
 
 Funds for the purposes of this chapter may be appropriated pursuant to the provisions of section 13 of this title.
 
-(Pub. L. 95–608, title II, § 203, Nov. 8, 1978, 92 Stat. 3076; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 95–608, title II, § 203, Nov. 8, 1978, 92 Stat. 3076; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -349,25 +349,25 @@ Funds for the purposes of this chapter may be appropriated pursuant to the provi
 
 “Secretary of Health and Human Services” and “Department of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” and “Department of Health, Education, and Welfare”, respectively, in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
-### § 1934. “Indian” defined for certain purposes
+### § 1934. “Indian” defined for certain purposes
 
-For the purposes of sections 1932 and 1933 of this title, the term “Indian” shall include persons defined in section 1603(c) 1
+For the purposes of sections 1932 and 1933 of this title, the term “Indian” shall include persons defined in section 1603(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Pub. L. 95–608, title II, § 204, Nov. 8, 1978, 92 Stat. 3077.)
+(Pub. L. 95–608, title II, § 204, Nov. 8, 1978, 92 Stat. 3077.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1603(c) of this title, referred to in text, was redesignated section 1603(13) of this title by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.
+Section 1603(c) of this title, referred to in text, was redesignated section 1603(13) of this title by Pub. L. 111–148, title X, § 10221(a), Mar. 23, 2010, 124 Stat. 935.
 
 ## SUBCHAPTER III—RECORDKEEPING, INFORMATION AVAILABILITY, AND TIMETABLES
 
-### § 1951. Information availability to and disclosure by Secretary
+### § 1951. Information availability to and disclosure by Secretary
 
 **(a) Copy of final decree or order; other information; anonymity affidavit; exemption from Freedom of Information Act** Any State court entering a final decree or order in any Indian child adoptive placement after November 8, 1978, shall provide the Secretary with a copy of such decree or order together with such other information as may be necessary to show—
 
@@ -385,17 +385,17 @@ Where the court records contain an affidavit of the biological parent or parents
 
 Upon the request of the adopted Indian child over the age of eighteen, the adoptive or foster parents of an Indian child, or an Indian tribe, the Secretary shall disclose such information as may be necessary for the enrollment of an Indian child in the tribe in which the child may be eligible for enrollment or for determining any rights or benefits associated with that membership. Where the documents relating to such child contain an affidavit from the biological parent or parents requesting anonymity, the Secretary shall certify to the Indian child’s tribe, where the information warrants, that the child’s parentage and other circumstances of birth entitle the child to enrollment under the criteria established by such tribe.
 
-(Pub. L. 95–608, title III, § 301, Nov. 8, 1978, 92 Stat. 3077.)
+(Pub. L. 95–608, title III, § 301, Nov. 8, 1978, 92 Stat. 3077.)
 
-### § 1952. Rules and regulations
+### § 1952. Rules and regulations
 
 Within one hundred and eighty days after November 8, 1978, the Secretary shall promulgate such rules and regulations as may be necessary to carry out the provisions of this chapter.
 
-(Pub. L. 95–608, title III, § 302, Nov. 8, 1978, 92 Stat. 3077.)
+(Pub. L. 95–608, title III, § 302, Nov. 8, 1978, 92 Stat. 3077.)
 
 ## SUBCHAPTER IV—MISCELLANEOUS PROVISIONS
 
-### § 1961. Locally convenient day schools
+### § 1961. Locally convenient day schools
 
 **(a) Sense of Congress**
 
@@ -405,7 +405,7 @@ It is the sense of Congress that the absence of locally convenient day schools m
 
 The Secretary is authorized and directed to prepare, in consultation with appropriate agencies in the Department of Health and Human Services, a report on the feasibility of providing Indian children with schools located near their homes, and to submit such report to the Select Committee on Indian Affairs of the United States Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives within two years from November 8, 1978. In developing this report the Secretary shall give particular consideration to the provision of educational facilities for children in the elementary grades.
 
-(Pub. L. 95–608, title IV, § 401, Nov. 8, 1978, 92 Stat. 3078; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 95–608, title IV, § 401, Nov. 8, 1978, 92 Stat. 3078; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -417,14 +417,14 @@ Select Committee on Indian Affairs of the Senate redesignated Committee on India
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
-### § 1962. Copies to the States
+### § 1962. Copies to the States
 
 Within sixty days after November 8, 1978, the Secretary shall send to the Governor, chief justice of the highest court of appeal, and the attorney general of each State a copy of this chapter, together with committee reports and an explanation of the provisions of this chapter.
 
-(Pub. L. 95–608, title IV, § 402, Nov. 8, 1978, 92 Stat. 3078.)
+(Pub. L. 95–608, title IV, § 402, Nov. 8, 1978, 92 Stat. 3078.)
 
-### § 1963. Severability
+### § 1963. Severability
 
 If any provision of this chapter or the applicability thereof is held invalid, the remaining provisions of this chapter shall not be affected thereby.
 
-(Pub. L. 95–608, title IV, § 403, Nov. 8, 1978, 92 Stat. 3078.)
+(Pub. L. 95–608, title IV, § 403, Nov. 8, 1978, 92 Stat. 3078.)

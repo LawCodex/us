@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title XVI, § 1601(a), (b), Dec. 18, 2025, 139 Stat. 1172, 1173, added items 9088 and 9089. Amendments were made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title XVI, § 1601(a), (b), Dec. 18, 2025, 139 Stat. 1172, 1173, added items 9088 and 9089. Amendments were made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title V, § 509C(c), Dec. 23, 2024, 138 Stat. 1874, added item 9083 and renumbered former items 9083 to 9086 as 9084 to 9087, respectively.
+2024—Pub. L. 118–159, div. A, title V, § 509C(c), Dec. 23, 2024, 138 Stat. 1874, added item 9083 and renumbered former items 9083 to 9086 as 9084 to 9087, respectively.
 
-2021—Pub. L. 117–81, div. A, title X, § 1081(a)(33), Dec. 27, 2021, 135 Stat. 1921, redesignated item 9084 “Space Development Agency” as 9086 and transferred it to appear after item 9085.
+2021—Pub. L. 117–81, div. A, title X, § 1081(a)(33), Dec. 27, 2021, 135 Stat. 1921, redesignated item 9084 “Space Development Agency” as 9086 and transferred it to appear after item 9085.
 
-Pub. L. 116–283, div. A, title IX, §§ 921(b), 922(e), title XVI, § 1601(b), Jan. 1, 2021, 134 Stat. 3805, 3807, 4042, added items 9083, 9084 “Space Development Agency”, 9084 “Office of the Chief of Space Operations: general duties”, and 9085 and struck out former item 9083 “Officer career field for space”.
+Pub. L. 116–283, div. A, title IX, §§ 921(b), 922(e), title XVI, § 1601(b), Jan. 1, 2021, 134 Stat. 3805, 3807, 4042, added items 9083, 9084 “Space Development Agency”, 9084 “Office of the Chief of Space Operations: general duties”, and 9085 and struck out former item 9083 “Officer career field for space”.
 
-## § 9081. The United States Space Force
+## § 9081. The United States Space Force
 
 **(a) Establishment.—** There is established a United States Space Force as an armed force within the Department of the Air Force.
 
@@ -47,17 +47,17 @@ Pub. L. 116–283, div. A, title IX, §§ 921(b), 922(e), title XVI, § 1601
 
 **(3)** protect the interests of the United States in space.
 
-(Added Pub. L. 115–91, div. A, title XVI, § 1601(a)(1), Dec. 12, 2017, 131 Stat. 1718, § 2279c; amended Pub. L. 115–232, div. A, title X, § 1081(a)(17), Aug. 13, 2018, 132 Stat. 1984; renumbered § 9081 and amended Pub. L. 116–92, div. A, title IX, § 952(b)(3), (4), Dec. 20, 2019, 133 Stat. 1562; Pub. L. 116–283, div. A, title IX, § 922(a), (b), Jan. 1, 2021, 134 Stat. 3806; Pub. L. 118–31, div. A, title XVII, § 1712(a), Dec. 22, 2023, 137 Stat. 625.)
+(Added Pub. L. 115–91, div. A, title XVI, § 1601(a)(1), Dec. 12, 2017, 131 Stat. 1718, § 2279c; amended Pub. L. 115–232, div. A, title X, § 1081(a)(17), Aug. 13, 2018, 132 Stat. 1984; renumbered § 9081 and amended Pub. L. 116–92, div. A, title IX, § 952(b)(3), (4), Dec. 20, 2019, 133 Stat. 1562; Pub. L. 116–283, div. A, title IX, § 922(a), (b), Jan. 1, 2021, 134 Stat. 3806; Pub. L. 118–31, div. A, title XVII, § 1712(a), Dec. 22, 2023, 137 Stat. 625.)
 
 **Amendment of Subsection (b)**
 
-Pub. L. 118–31, div. A, title XVII, § 1712, Dec. 22, 2023, 137 Stat. 625, provided that, effective on the date of the certification by the Secretary of the Air Force under section 1745 (probably should be “section 1735”) of Pub. L. 118–31, subsection (b) of this section is amended as follows:
+Pub. L. 118–31, div. A, title XVII, § 1712, Dec. 22, 2023, 137 Stat. 625, provided that, effective on the date of the certification by the Secretary of the Air Force under section 1745 (probably should be “section 1735”) of Pub. L. 118–31, subsection (b) of this section is amended as follows:
 
 (1) by striking paragraph (1);
 
 (2) by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively; and
 
-(3) in paragraph (1), as so redesignated, by striking “, including” and all that follows through “emergency”.
+(3) in paragraph (1), as so redesignated, by striking “, including” and all that follows through “emergency”.
 
 See 2023 Amendment notes below.
 
@@ -69,23 +69,23 @@ A prior section 9081 was renumbered section 9067 of this title.
 
 **Amendments**
 
-2023—Subsec. (b). Pub. L. 118–31, § 1712(a)(1), (2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “the Regular Space Force;”.
+2023—Subsec. (b). Pub. L. 118–31, § 1712(a)(1), (2), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “the Regular Space Force;”.
 
-Subsec. (b)(1). Pub. L. 118–31, § 1712(a)(3), struck out “, including those not assigned to units, necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency” after “Space Force”.
+Subsec. (b)(1). Pub. L. 118–31, § 1712(a)(3), struck out “, including those not assigned to units, necessary to form the basis for a complete and immediate mobilization for the national defense in the event of a national emergency” after “Space Force”.
 
-2021—Subsec. (b). Pub. L. 116–283, § 922(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Space Force shall be composed of the following:
+2021—Subsec. (b). Pub. L. 116–283, § 922(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Space Force shall be composed of the following:
 
 “(1) The Chief of Space Operations.
 
 “(2) The space forces and such assets as may be organic therein.”
 
-Subsec. (c). Pub. L. 116–283, § 922(b)(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Space Force shall be organized, trained, and equipped to provide—
+Subsec. (c). Pub. L. 116–283, § 922(b)(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Space Force shall be organized, trained, and equipped to provide—
 
 “(1) freedom of operation for the United States in, from, and to space; and
 
 “(2) prompt and sustained space operations.”
 
-Subsec. (d). Pub. L. 116–283, § 922(b)(2), struck out subsec. (d). Text read as follows: “It shall be the duty of the Space Force to—
+Subsec. (d). Pub. L. 116–283, § 922(b)(2), struck out subsec. (d). Text read as follows: “It shall be the duty of the Space Force to—
 
 “(1) protect the interests of the United States in space;
 
@@ -93,29 +93,29 @@ Subsec. (d). Pub. L. 116–283, § 922(b)(2), struck out subsec. (d). Text rea
 
 “(3) conduct space operations.”
 
-2019—Pub. L. 116–92, § 952(b)(4), amended section generally. Prior to amendment, section related to Air Force Space Command.
+2019—Pub. L. 116–92, § 952(b)(4), amended section generally. Prior to amendment, section related to Air Force Space Command.
 
-Pub. L. 116–92, § 952(b)(3), renumbered section 2279c of this title as this section.
+Pub. L. 116–92, § 952(b)(3), renumbered section 2279c of this title as this section.
 
-2018—Subsec. (a)(3). Pub. L. 115–232, § 1081(a)(17)(A), substituted “December 12, 2017” for “the date of the enactment of this Act”.
+2018—Subsec. (a)(3). Pub. L. 115–232, § 1081(a)(17)(A), substituted “December 12, 2017” for “the date of the enactment of this Act”.
 
-Subsec. (b). Pub. L. 115–232, § 1081(a)(17)(B)(i), substituted “December 12, 2017” for “the date of the enactment of this section” in introductory provisions.
+Subsec. (b). Pub. L. 115–232, § 1081(a)(17)(B)(i), substituted “December 12, 2017” for “the date of the enactment of this section” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 115–232, § 1081(a)(17)(B)(ii), substituted “after December 11, 2018” for “on or after the date that is one year after the date of the enactment of this section”.
+Subsec. (b)(3). Pub. L. 115–232, § 1081(a)(17)(B)(ii), substituted “after December 11, 2018” for “on or after the date that is one year after the date of the enactment of this section”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name; Redesignation of Air Force Space Command as United States Space Force**
 
-Pub. L. 116–92, div. A, title IX, § 952(a), Dec. 20, 2019, 133 Stat. 1561, provided that: “The Air Force Space Command is hereby redesignated as the United States Space Force (USSF).”
+Pub. L. 116–92, div. A, title IX, § 952(a), Dec. 20, 2019, 133 Stat. 1561, provided that: “The Air Force Space Command is hereby redesignated as the United States Space Force (USSF).”
 
 **Effective Date of 2023 Amendment**
 
-Pub. L. 118–31, div. A, title XVII, § 1712(b), Dec. 22, 2023, 137 Stat. 625, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the certification by the Secretary of the Air Force under section 1745 [probably means section “1735” of Pub. L. 118–31, set out in a Transition Provisions note under section 20001 of this title].”
+Pub. L. 118–31, div. A, title XVII, § 1712(b), Dec. 22, 2023, 137 Stat. 625, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the certification by the Secretary of the Air Force under section 1745 [probably means section “1735” of Pub. L. 118–31, set out in a Transition Provisions note under section 20001 of this title].”
 
 **Pilot Program To Demonstrate Hybrid Satellite Communication Architecture**
 
-Pub. L. 118–159, div. A, title XVI, § 1608, Dec. 23, 2024, 138 Stat. 2163, provided that:
+Pub. L. 118–159, div. A, title XVI, § 1608, Dec. 23, 2024, 138 Stat. 2163, provided that:
 
 > **“(a) Program Required.—** Beginning in fiscal year 2025, the Assistant Secretary of the Air Force for Space Acquisition and Integration shall carry out a pilot program to demonstrate a hybrid satellite communication architecture at the Space Systems Command of the Space Force.
 
@@ -131,7 +131,7 @@ Pub. L. 118–159, div. A, title XVI, § 1608, Dec. 23, 2024, 138 Stat. 2163, 
 
 **Authorization for Establishment of the National Space Intelligence Center as a Field Operating Agency**
 
-Pub. L. 118–31, div. A, title XVI, § 1606, Dec. 22, 2023, 137 Stat. 586, provided that:
+Pub. L. 118–31, div. A, title XVI, § 1606, Dec. 22, 2023, 137 Stat. 586, provided that:
 
 > **“(a) Authorization.—** The Secretary of the Air Force may establish the National Space Intelligence Center as a field operating agency of the Space Force to analyze and produce scientific and technical intelligence on space-based and counterspace threats from foreign adversaries.
 
@@ -139,7 +139,7 @@ Pub. L. 118–31, div. A, title XVI, § 1606, Dec. 22, 2023, 137 Stat. 586, pr
 
 **Applied Research and Educational Activities To Support Space Technology Development**
 
-Pub. L. 117–263, div. A, title XVI, § 1607, Dec. 23, 2022, 136 Stat. 2932, provided that:
+Pub. L. 117–263, div. A, title XVI, § 1607, Dec. 23, 2022, 136 Stat. 2932, provided that:
 
 > **“(a) In General.—** The Secretary of the Air Force and the Chief of Space Operations, in coordination with the Chief Technology and Innovation Office of the Space Force, may carry out applied research and educational activities to support space technology development.
 
@@ -167,7 +167,7 @@ Pub. L. 117–263, div. A, title XVI, § 1607, Dec. 23, 2022, 136 Stat. 2932, 
 
 **Space System Acquisition and the Adaptive Acquisition Framework**
 
-Pub. L. 116–283, div. A, title VIII, § 807, Jan. 1, 2021, 134 Stat. 3742, as amended by Pub. L. 118–159, div. A, title VIII, §§ 804(c)(7), 805(c)(2), Dec. 23, 2024, 138 Stat. 1969, 1972; Pub. L. 119–60, div. A, title XVIII, §§ 1802(b)(1)(A), (B), 1805(b)(3), Dec. 18, 2025, 139 Stat. 1227, 1236, provided that:
+Pub. L. 116–283, div. A, title VIII, § 807, Jan. 1, 2021, 134 Stat. 3742, as amended by Pub. L. 118–159, div. A, title VIII, §§ 804(c)(7), 805(c)(2), Dec. 23, 2024, 138 Stat. 1969, 1972; Pub. L. 119–60, div. A, title XVIII, §§ 1802(b)(1)(A), (B), 1805(b)(3), Dec. 18, 2025, 139 Stat. 1227, 1236, provided that:
 
 > **“(a) Service Acquisition Executive for Space Systems and Programs.—** Before implementing the application of the adaptive acquisition framework to a Space Systems Acquisition pathway described in subsection (c), there shall be within the Department of the Air Force an individual serving as the Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs as required under section 957 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1566; 10 U.S.C. 9016 note).
 
@@ -227,7 +227,7 @@ Pub. L. 116–283, div. A, title VIII, § 807, Jan. 1, 2021, 134 Stat. 3742, a
 
 **Members**
 
-Pub. L. 116–92, div. A, title IX, § 952(d), Dec. 20, 2019, 133 Stat. 1562, provided that:
+Pub. L. 116–92, div. A, title IX, § 952(d), Dec. 20, 2019, 133 Stat. 1562, provided that:
 
 > **“(1) In general.—** Effective as of the date of the enactment of this Act [Dec. 20, 2019], there shall be assigned to the Space Force such members of the Air Force as the Secretary of the Air Force shall specify.
 
@@ -235,9 +235,9 @@ Pub. L. 116–92, div. A, title IX, § 952(d), Dec. 20, 2019, 133 Stat. 1562, 
 
 **Clarification of Authorities**
 
-Pub. L. 116–92, div. A, title IX, § 958(b), Dec. 20, 2019, 133 Stat. 1567, as amended by Pub. L. 116–283, div. A, title IX, § 928, Jan. 1, 2021, 134 Stat. 3832, provided that:
+Pub. L. 116–92, div. A, title IX, § 958(b), Dec. 20, 2019, 133 Stat. 1567, as amended by Pub. L. 116–283, div. A, title IX, § 928, Jan. 1, 2021, 134 Stat. 3832, provided that:
 
-> **“(1) In general.—** Except as specifically provided by this subtitle [subtitle D (§§ 951–961) of title IX of div. A of Pub. L. 116–92, see Short Title of 2019 Amendment note set out under section 101 of this title and Tables], the amendments made by this subtitle, or the amendments made by subtitle C of title IX of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 [§§ 921–931 of title IX of div. A of Pub. L. 116–283, see Tables for classification]—
+> **“(1) In general.—** Except as specifically provided by this subtitle [subtitle D (§§ 951–961) of title IX of div. A of Pub. L. 116–92, see Short Title of 2019 Amendment note set out under section 101 of this title and Tables], the amendments made by this subtitle, or the amendments made by subtitle C of title IX of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 [§§ 921–931 of title IX of div. A of Pub. L. 116–283, see Tables for classification]—
 
 > **“(A)** a member of the Space Force shall be treated as a member of the Air Force for the purpose of the application of any provision of law, including provisions of law relating to pay, benefits, and retirement;
 
@@ -251,13 +251,13 @@ Pub. L. 116–92, div. A, title IX, § 958(b), Dec. 20, 2019, 133 Stat. 1567, 
 
 **Effects on Military Installations**
 
-Pub. L. 116–92, div. A, title IX, § 959, Dec. 20, 2019, 133 Stat. 1568, provided that: “Nothing in this subtitle [subtitle D (§§ 951–961) of title IX of div. A of Pub. L. 116–92, see Short Title of 2019 Amendment note set out under section 101 of this title and Tables], or the amendments made by this subtitle, shall be construed to authorize or require the relocation of any facility, infrastructure, or military installation of the Air Force.”
+Pub. L. 116–92, div. A, title IX, § 959, Dec. 20, 2019, 133 Stat. 1568, provided that: “Nothing in this subtitle [subtitle D (§§ 951–961) of title IX of div. A of Pub. L. 116–92, see Short Title of 2019 Amendment note set out under section 101 of this title and Tables], or the amendments made by this subtitle, shall be construed to authorize or require the relocation of any facility, infrastructure, or military installation of the Air Force.”
 
 **Implementation**
 
-Pub. L. 116–92, div. A, title IX, § 961, Dec. 20, 2019, 133 Stat. 1568, provided that:
+Pub. L. 116–92, div. A, title IX, § 961, Dec. 20, 2019, 133 Stat. 1568, provided that:
 
-> **“(a) Requirement.—** Except as specifically provided by this subtitle [subtitle D (§§ 951–961) of title IX of div. A of Pub. L. 116–92, see Short Title of 2019 Amendment note set out under section 101 of this title and Tables], the Secretary of the Air Force shall implement this subtitle, and the amendments made by this subtitle, by not later than 18 months after the date of the enactment of this Act [Dec. 20, 2019].
+> **“(a) Requirement.—** Except as specifically provided by this subtitle [subtitle D (§§ 951–961) of title IX of div. A of Pub. L. 116–92, see Short Title of 2019 Amendment note set out under section 101 of this title and Tables], the Secretary of the Air Force shall implement this subtitle, and the amendments made by this subtitle, by not later than 18 months after the date of the enactment of this Act [Dec. 20, 2019].
 
 > **“(b) Briefings.—** Not later than 60 days after the date of the enactment of this Act, and every 60 days thereafter until March 31, 2023, the Secretary of the Air Force and the Chief of Space Operations shall jointly provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the status of the implementation of the Space Force pursuant to this subtitle and the amendments made by this subtitle. Each briefing shall address the current missions, operations and activities, manpower requirements and status, and budget and funding requirements and status of the Space Force, and such other matters with respect to the implementation and operation of the Space Force as the Secretary and the Chief jointly consider appropriate to keep Congress fully and currently informed on the status of the implementation of the Space Force.”
 
@@ -339,7 +339,7 @@ Sec. 11. *General Provisions*. (a) Nothing in this memorandum shall be construed
 
 Donald J. Trump.
 
-## § 9082. Chief of Space Operations
+## § 9082. Chief of Space Operations
 
 **(a) Appointment.—**
 
@@ -391,33 +391,33 @@ Donald J. Trump.
 
 **(B)** the cessation of the absence or disability of the Chief of Space Operations or Vice Chief of Space Operations.
 
-(Added Pub. L. 116–92, div. A, title IX, § 953(a), Dec. 20, 2019, 133 Stat. 1563; amended Pub. L. 116–283, div. A, title IX, § 922(c), title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 3806, 4294; Pub. L. 118–31, div. A, title XVII, § 1741(b)(7), Dec. 22, 2023, 137 Stat. 681; Pub. L. 118–159, div. A, title V, §§ 509C(b), 521(j), Dec. 23, 2024, 138 Stat. 1873, 1882.)
+(Added Pub. L. 116–92, div. A, title IX, § 953(a), Dec. 20, 2019, 133 Stat. 1563; amended Pub. L. 116–283, div. A, title IX, § 922(c), title XVIII, § 1883(b)(2), Jan. 1, 2021, 134 Stat. 3806, 4294; Pub. L. 118–31, div. A, title XVII, § 1741(b)(7), Dec. 22, 2023, 137 Stat. 681; Pub. L. 118–159, div. A, title V, §§ 509C(b), 521(j), Dec. 23, 2024, 138 Stat. 1873, 1882.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a)(1), (3)(B). Pub. L. 118–159, § 521(j)(1), struck out “, flag, or equivalent” after “general”.
+2024—Subsec. (a)(1), (3)(B). Pub. L. 118–159, § 521(j)(1), struck out “, flag, or equivalent” after “general”.
 
-Subsec. (b). Pub. L. 118–159, § 521(j)(2), substituted “grade of general” for “grade in the Space Force equivalent to the grade of general in the Army, Air Force, and Marine Corps, or admiral in the Navy”.
+Subsec. (b). Pub. L. 118–159, § 521(j)(2), substituted “grade of general” for “grade in the Space Force equivalent to the grade of general in the Army, Air Force, and Marine Corps, or admiral in the Navy”.
 
-Subsec. (f). Pub. L. 118–159, § 509C(b), added subsec. (f).
+Subsec. (f). Pub. L. 118–159, § 509C(b), added subsec. (f).
 
-2023—Subsec. (d)(5). Pub. L. 118–31, § 1741(b)(7)(A), substituted “sections 171 and 3104 of this title and other provisions of law” for “sections 171, 1808(a), and 1847(e)(4)(B), (5) of this title and other provision of law”.
+2023—Subsec. (d)(5). Pub. L. 118–31, § 1741(b)(7)(A), substituted “sections 171 and 3104 of this title and other provisions of law” for “sections 171, 1808(a), and 1847(e)(4)(B), (5) of this title and other provision of law”.
 
-Subsec. (e)(1). Pub. L. 118–31, § 1741(b)(7)(B), substituted “The Chief” for “Commencing one year after the date of the enactment of the United States Space Force Act, the Chief”.
+Subsec. (e)(1). Pub. L. 118–31, § 1741(b)(7)(B), substituted “The Chief” for “Commencing one year after the date of the enactment of the United States Space Force Act, the Chief”.
 
-2021—Subsec. (a)(1). Pub. L. 116–283, § 922(c)(1)(A), substituted “general, flag, or equivalent officers of the Space Force” for “general officers of the Air Force”.
+2021—Subsec. (a)(1). Pub. L. 116–283, § 922(c)(1)(A), substituted “general, flag, or equivalent officers of the Space Force” for “general officers of the Air Force”.
 
-Subsec. (a)(3), (4). Pub. L. 116–283, § 922(c)(1)(B), added pars. (3) and (4).
+Subsec. (a)(3), (4). Pub. L. 116–283, § 922(c)(1)(B), added pars. (3) and (4).
 
-Subsec. (b). Pub. L. 116–283, § 922(c)(2), substituted “grade in the Space Force equivalent to the grade of general in the Army, Air Force, and Marine Corps, or admiral in the Navy” for “grade of general”.
+Subsec. (b). Pub. L. 116–283, § 922(c)(2), substituted “grade in the Space Force equivalent to the grade of general in the Army, Air Force, and Marine Corps, or admiral in the Navy” for “grade of general”.
 
-Subsec. (d)(5). Pub. L. 116–283, § 922(c)(3), added par. (5). Former par. (5) redesignated (6).
+Subsec. (d)(5). Pub. L. 116–283, § 922(c)(3), added par. (5). Former par. (5) redesignated (6).
 
-Pub. L. 116–283, § 1883(b)(2), substituted “, 1808(a), and 1847(e)(4)(B), (5)” for “and 2547”.
+Pub. L. 116–283, § 1883(b)(2), substituted “, 1808(a), and 1847(e)(4)(B), (5)” for “and 2547”.
 
-Subsec. (d)(6). Pub. L. 116–283, § 922(c)(3), redesignated par. (5) as (6).
+Subsec. (d)(6). Pub. L. 116–283, § 922(c)(3), redesignated par. (5) as (6).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -427,7 +427,7 @@ Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 
 **Designation of Force Design Architect for Department of Defense Space Systems**
 
-Pub. L. 117–81, div. A, title XVI, § 1602(b)(4), Dec. 27, 2021, 135 Stat. 2077, provided that:
+Pub. L. 117–81, div. A, title XVI, § 1602(b)(4), Dec. 27, 2021, 135 Stat. 2077, provided that:
 
 > “Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall—
 
@@ -437,13 +437,13 @@ Pub. L. 117–81, div. A, title XVI, § 1602(b)(4), Dec. 27, 2021, 135 Stat. 2
 
 **Service**
 
-Pub. L. 116–92, div. A, title IX, § 953(b), Dec. 20, 2019, 133 Stat. 1564, provided that:
+Pub. L. 116–92, div. A, title IX, § 953(b), Dec. 20, 2019, 133 Stat. 1564, provided that:
 
 > **“(1) Incumbent.—** The individual serving as Commander of the Air Force Space Command as of the day before the date of the enactment of this Act [Dec. 20, 2019] may serve as the Chief of Space Operations under subsection (a) of section 9082 of title 10, United States Code (as added by subsection (a) of this section), after that date without further appointment as otherwise provided for by subsection (a) of such section 9082.
 
 > **“(2) U.S. space command.—** During the one-year period beginning on the date of the enactment of this Act, the Secretary of Defense may authorize an officer serving as the Chief of Space Operations to serve concurrently as the Commander of the United States Space Command, without further appointment.”
 
-## § 9083. Vice Chief of Space Operations
+## § 9083. Vice Chief of Space Operations
 
 **(a) Appointment.—** There is a Vice Chief of Space Operations, appointed by the President, by and with the advice and consent of the Senate, from the general officers of the Space Force.
 
@@ -451,7 +451,7 @@ Pub. L. 116–92, div. A, title IX, § 953(b), Dec. 20, 2019, 133 Stat. 1564, 
 
 **(c) Duties.—** The Vice Chief of Space Operations shall have such authorities and duties with respect to the Space Force as the Chief of Space Operations, with the approval of the Secretary of the Air Force, may delegate to or prescribe for the Vice Chief of Space Operations. Orders issued by the Vice Chief of Space Operations in performing such duties have the same effect as orders issued by the Chief of Space Operations.
 
-(Added Pub. L. 118–159, div. A, title V, § 509C(a)(2), Dec. 23, 2024, 138 Stat. 1873.)
+(Added Pub. L. 118–159, div. A, title V, § 509C(a)(2), Dec. 23, 2024, 138 Stat. 1873.)
 
 **Editorial Notes**
 
@@ -459,9 +459,9 @@ Pub. L. 116–92, div. A, title IX, § 953(b), Dec. 20, 2019, 133 Stat. 1564, 
 
 A prior section 9083 was renumbered section 9084 of this title.
 
-Another prior section 9083, added Pub. L. 107–107, div. A, title IX, § 912(a), Dec. 28, 2001, 115 Stat. 1196, § 8084; amended Pub. L. 108–375, div. A, title X, § 1084(d)(32), Oct. 28, 2004, 118 Stat. 2063; renumbered § 9084, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9068, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561; renumbered § 9083, Pub. L. 116–92, div. A, title IX, § 952(e), Dec. 20, 2019, 133 Stat. 1562, related to a career field for officers in the Air Force with technical competence in space-related matters, prior to repeal by Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3804.
+Another prior section 9083, added Pub. L. 107–107, div. A, title IX, § 912(a), Dec. 28, 2001, 115 Stat. 1196, § 8084; amended Pub. L. 108–375, div. A, title X, § 1084(d)(32), Oct. 28, 2004, 118 Stat. 2063; renumbered § 9084, Pub. L. 115–232, div. A, title VIII, § 806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered § 9068, Pub. L. 116–92, div. A, title IX, § 952(b)(1), Dec. 20, 2019, 133 Stat. 1561; renumbered § 9083, Pub. L. 116–92, div. A, title IX, § 952(e), Dec. 20, 2019, 133 Stat. 1562, related to a career field for officers in the Air Force with technical competence in space-related matters, prior to repeal by Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3804.
 
-## § 9084. Office of the Chief of Space Operations: function; composition
+## § 9084. Office of the Chief of Space Operations: function; composition
 
 **(a) Function.—** There is in the executive part of the Department of the Air Force an Office of the Chief of Space Operations to assist the Secretary of the Air Force in carrying out the responsibilities of the Secretary.
 
@@ -475,7 +475,7 @@ Another prior section 9083, added Pub. L. 107–107, div. A, title IX, § 912(
 
 **(c) Organization.—** Except as otherwise specifically prescribed by law, the Office of the Chief of Space Operations shall be organized in such manner, and the members of the Office of the Chief of Space Operations shall perform such duties and have such titles, as the Secretary of the Air Force may prescribe.
 
-(Added Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3805, § 9083; renumbered § 9084, Pub. L. 118–159, div. A, title V, § 509C(a)(1), Dec. 23, 2024, 138 Stat. 1873.)
+(Added Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3805, § 9083; renumbered § 9084, Pub. L. 118–159, div. A, title V, § 509C(a)(1), Dec. 23, 2024, 138 Stat. 1873.)
 
 **Editorial Notes**
 
@@ -487,7 +487,7 @@ Another section 9084 was renumbered section 9087 of this title.
 
 A prior section 9084 was renumbered section 9085 of this title.
 
-Another prior section 9084 was successively renumbered section 9068, then 9083, of this title by Pub. L. 116–92, div. A, title IX, § 952(b)(1), (e), Dec. 20, 2019, 133 Stat. 1561, 1562, and was subsequently repealed by Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3804.
+Another prior section 9084 was successively renumbered section 9068, then 9083, of this title by Pub. L. 116–92, div. A, title IX, § 952(b)(1), (e), Dec. 20, 2019, 133 Stat. 1561, 1562, and was subsequently repealed by Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3804.
 
 **Amendments**
 
@@ -497,13 +497,13 @@ Another prior section 9084 was successively renumbered section 9068, then 9083, 
 
 **Effective Date**
 
-Pub. L. 116–283, div. A, title IX, § 921(c), Jan. 1, 2021, 134 Stat. 3805, provided that: “The amendments made by this section [enacting this section and section 9084 of this title relating to general duties of the Office of the Chief of Space Operations, repealing former section 9083 of this title, and enacting provisions set out as a note below] shall take effect on the date on which the Secretary of the Air Force and the Chief of Space Operations jointly submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report detailing the functions that the headquarters staff of the Department of the Air Force will continue to perform in support of the Space Force.”
+Pub. L. 116–283, div. A, title IX, § 921(c), Jan. 1, 2021, 134 Stat. 3805, provided that: “The amendments made by this section [enacting this section and section 9084 of this title relating to general duties of the Office of the Chief of Space Operations, repealing former section 9083 of this title, and enacting provisions set out as a note below] shall take effect on the date on which the Secretary of the Air Force and the Chief of Space Operations jointly submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report detailing the functions that the headquarters staff of the Department of the Air Force will continue to perform in support of the Space Force.”
 
 **No Authorization of Additional Military Billets**
 
-Pub. L. 116–283, div. A, title IX, § 921(d), Jan. 1, 2021, 134 Stat. 3806, provided that: “The Secretary shall establish the Office of the Chief of Space Operations under section 9083 of title 10, United States Code [now 10 U.S.C. 9084], as amended by subsection (a), using military personnel otherwise authorized. Nothing in this section [enacting this section and section 9084 of this title relating to general duties of the Office of the Chief of Space Operations, repealing former section 9083 of this title, and enacting provisions set out as a note above] or the amendments made by this section shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Office of the Chief of Space Operations.”
+Pub. L. 116–283, div. A, title IX, § 921(d), Jan. 1, 2021, 134 Stat. 3806, provided that: “The Secretary shall establish the Office of the Chief of Space Operations under section 9083 of title 10, United States Code [now 10 U.S.C. 9084], as amended by subsection (a), using military personnel otherwise authorized. Nothing in this section [enacting this section and section 9084 of this title relating to general duties of the Office of the Chief of Space Operations, repealing former section 9083 of this title, and enacting provisions set out as a note above] or the amendments made by this section shall be construed to authorize additional military billets for the purposes of, or in connection with, the establishment of the Office of the Chief of Space Operations.”
 
-## § 9085. Office of the Chief of Space Operations: general duties
+## § 9085. Office of the Chief of Space Operations: general duties
 
 **(a) Professional Assistance.—** The Office of the Chief of Space Operations shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Air Force and to the Chief of Space Operations.
 
@@ -519,7 +519,7 @@ Pub. L. 116–283, div. A, title IX, § 921(d), Jan. 1, 2021, 134 Stat. 3806, 
 
 **(5)** perform such other duties, not otherwise assigned by law, as may be prescribed by the Secretary of the Air Force.
 
-(Added Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3805, § 9084; renumbered § 9085, Pub. L. 118–159, div. A, title V, § 509C(a)(1), Dec. 23, 2024, 138 Stat. 1873.)
+(Added Pub. L. 116–283, div. A, title IX, § 921(a), Jan. 1, 2021, 134 Stat. 3805, § 9084; renumbered § 9085, Pub. L. 118–159, div. A, title V, § 509C(a)(1), Dec. 23, 2024, 138 Stat. 1873.)
 
 **Editorial Notes**
 
@@ -531,7 +531,7 @@ A prior section 9085 was renumbered section 9086 of this title.
 
 2024—Pub. L. 118–159 renumbered section 9084 of this title as this section.
 
-## § 9086. Regular Space Force: composition
+## § 9086. Regular Space Force: composition
 
 **(a) In General.—** The Regular Space Force is the component of the Space Force that consists of persons whose continuous service on active duty in both peace and war is contemplated by law, and of retired members of the Regular Space Force.
 
@@ -541,11 +541,11 @@ A prior section 9085 was renumbered section 9086 of this title.
 
 **(2)** the retired officers and enlisted members of the Regular Space Force.
 
-(Added Pub. L. 116–283, div. A, title IX, § 922(d), Jan. 1, 2021, 134 Stat. 3807, § 9085; renumbered § 9086, Pub. L. 118–159, div. A, title V, § 509C(a)(1), Dec. 23, 2024, 138 Stat. 1873.)
+(Added Pub. L. 116–283, div. A, title IX, § 922(d), Jan. 1, 2021, 134 Stat. 3807, § 9085; renumbered § 9086, Pub. L. 118–159, div. A, title V, § 509C(a)(1), Dec. 23, 2024, 138 Stat. 1873.)
 
 **Repeal of Section**
 
-Pub. L. 118–31, div. A, title XVII, § 1735(c), Dec. 22, 2023, 137 Stat. 677, provided that, effective on the date on which the certification by the Secretary of the Air Force is submitted under section 1735(a) of Pub. L. 118–31, this section is repealed.
+Pub. L. 118–31, div. A, title XVII, § 1735(c), Dec. 22, 2023, 137 Stat. 677, provided that, effective on the date on which the certification by the Secretary of the Air Force is submitted under section 1735(a) of Pub. L. 118–31, this section is repealed.
 
 **Editorial Notes**
 
@@ -563,7 +563,7 @@ A prior section 9086 was renumbered section 9087 of this title.
 
 Repeal effective on the date on which the certification by the Secretary of the Air Force is submitted under section 1735(a) of Pub. L. 118–31, see section 1735(c)(2) of Pub. L. 118–31, set out in a Transitions Provisions note under section 20001 of this title.
 
-## § 9087. Space Development Agency
+## § 9087. Space Development Agency
 
 **(a) In General.—**
 
@@ -619,7 +619,7 @@ Repeal effective on the date on which the certification by the Secretary of the 
 
 **(B)** The term “tranche 1 capabilities” means capabilities relating to transport, battle management, tracking, custody, navigation, deterrence, and support, that are intended to be achieved by September 30, 2024.
 
-(Added Pub. L. 116–283, div. A, title XVI, § 1601(a), Jan. 1, 2021, 134 Stat. 4041, § 9084; renumbered § 9086 and amended Pub. L. 117–81, div. A, title X, § 1081(a)(33), title XVI, § 1603, Dec. 27, 2021, 135 Stat. 1921, 2077; renumbered § 9087, Pub. L. 118–159, div. A, title V, § 509C(a)(1), Dec. 23, 2024, 138 Stat. 1873.)
+(Added Pub. L. 116–283, div. A, title XVI, § 1601(a), Jan. 1, 2021, 134 Stat. 4041, § 9084; renumbered § 9086 and amended Pub. L. 117–81, div. A, title X, § 1081(a)(33), title XVI, § 1603, Dec. 27, 2021, 135 Stat. 1921, 2077; renumbered § 9087, Pub. L. 118–159, div. A, title V, § 509C(a)(1), Dec. 23, 2024, 138 Stat. 1873.)
 
 **Editorial Notes**
 
@@ -631,15 +631,15 @@ Section 1645 of the William M. (Mac) Thornberry National Defense Authorization A
 
 2024—Pub. L. 118–159 renumbered section 9086 of this title as this section.
 
-2021—Pub. L. 117–81, § 1081(a)(33), renumbered section 9084 of this title, as added by section 1601(a) of Pub. L. 116–283, as this section.
+2021—Pub. L. 117–81, § 1081(a)(33), renumbered section 9084 of this title, as added by section 1601(a) of Pub. L. 116–283, as this section.
 
-Subsec. (d). Pub. L. 117–81, § 1603, added subsec. (d).
+Subsec. (d). Pub. L. 117–81, § 1603, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transition**
 
-Pub. L. 116–283, div. A, title XVI, § 1601(d), Jan. 1, 2021, 134 Stat. 4042, provided that:
+Pub. L. 116–283, div. A, title XVI, § 1601(d), Jan. 1, 2021, 134 Stat. 4042, provided that:
 
 > **“(1) Transfer.—** Effective on October 1, 2022, the Secretary of Defense shall transfer the Space Development Agency from the Office of the Secretary of Defense to the Space Force.
 
@@ -647,7 +647,7 @@ Pub. L. 116–283, div. A, title XVI, § 1601(d), Jan. 1, 2021, 134 Stat. 4042
 
 **Review of Space Development Agency Exemption From Joint Capabilities Integration and Development System**
 
-Pub. L. 117–263, div. A, title XVI, § 1608, Dec. 23, 2022, 136 Stat. 2932, provided that:
+Pub. L. 117–263, div. A, title XVI, § 1608, Dec. 23, 2022, 136 Stat. 2932, provided that:
 
 > **“(a) Review.—** Not later than March 31, 2023, the Secretary of Defense shall complete a review regarding whether the Space Development Agency should be exempt from the Joint Capabilities Integration and Development System.
 
@@ -655,7 +655,7 @@ Pub. L. 117–263, div. A, title XVI, § 1608, Dec. 23, 2022, 136 Stat. 2932, 
 
 > **“(c) Implementation.—** Not later than 60 days after the date on which the recommendation is submitted under subsection (b), the Secretary of the Air Force and the Director of the Space Development Agency shall implement the recommendation.”
 
-## § 9088. Duty assignments after officer training course
+## § 9088. Duty assignments after officer training course
 
 **(a) Requirement.—** The Secretary of the Air Force shall ensure that members of the Space Force who complete an initial Space Force officer training course are assigned—
 
@@ -677,7 +677,7 @@ Pub. L. 117–263, div. A, title XVI, § 1608, Dec. 23, 2022, 136 Stat. 2932, 
 
 **(4)** actions taken or planned to achieve and sustain comparable manning levels for billets in acquisition and operations for Space Force officers.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1601(a), Dec. 18, 2025, 139 Stat. 1172.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1601(a), Dec. 18, 2025, 139 Stat. 1172.)
 
 **Editorial Notes**
 
@@ -685,7 +685,7 @@ Pub. L. 117–263, div. A, title XVI, § 1608, Dec. 23, 2022, 136 Stat. 2932, 
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2026, referred to in subsec. (b), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
 
-## § 9089. Program Executive Officer for Assured Access to Space
+## § 9089. Program Executive Officer for Assured Access to Space
 
 **(a) Establishment.—**
 
@@ -697,4 +697,4 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **(c) Additional Duties.—** The Program Executive Officer for Assured Access to Space, while serving as the Program Executive Officer, shall also serve as the Commander of Space Launch Delta 45.
 
-(Added Pub. L. 119–60, div. A, title XVI, § 1601(b), Dec. 18, 2025, 139 Stat. 1173.)
+(Added Pub. L. 119–60, div. A, title XVI, § 1601(b), Dec. 18, 2025, 139 Stat. 1173.)

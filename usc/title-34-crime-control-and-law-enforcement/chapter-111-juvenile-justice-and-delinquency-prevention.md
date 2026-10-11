@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERALLY
 
-### § 11101. Findings
+### § 11101. Findings
 
 **(a)** The Congress finds the following:
 
@@ -53,7 +53,7 @@ retrieved: 2026-10-11
 
 **(b)** Congress must act now to reform this program by focusing on juvenile delinquency prevention programs, as well as programs that hold juveniles accountable for their acts and which provide opportunities for competency development. Without true reform, the juvenile justice system will not be able to overcome the challenges it will face in the coming years when the number of juveniles is expected to increase by 18 percent between 2000 and 2030.
 
-(Pub. L. 93–415, title I, § 101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, § 3, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, § 611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, § 1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, § 12202, Nov. 2, 2002, 116 Stat. 1869.)
+(Pub. L. 93–415, title I, § 101, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 96–509, § 3, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, § 611, Oct. 12, 1984, 98 Stat. 2107; Pub. L. 102–586, § 1(a), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, § 12202, Nov. 2, 2002, 116 Stat. 1869.)
 
 **Editorial Notes**
 
@@ -93,41 +93,41 @@ Section was formerly classified to section 5601 of Title 42, The Public Health a
 
 “(b) Congress finds further that the high incidence of delinquency in the United States today results in enormous annual cost and immeasurable loss of human life, personal security, and wasted human resources and that juvenile delinquency constitutes a growing threat to the national welfare requiring immediate and comprehensive action by the Federal Government to reduce and prevent delinquency.”
 
-1992—Subsec. (a)(2), (3). Pub. L. 102–586, § 1(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
+1992—Subsec. (a)(2), (3). Pub. L. 102–586, § 1(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
 
-Subsec. (a)(4). Pub. L. 102–586, § 1(a)(1), (3), redesignated par. (2) as (4) and inserted “prosecutorial and public defender offices,”. Former par. (4) redesignated (6).
+Subsec. (a)(4). Pub. L. 102–586, § 1(a)(1), (3), redesignated par. (2) as (4) and inserted “prosecutorial and public defender offices,”. Former par. (4) redesignated (6).
 
-Subsec. (a)(5) to (10). Pub. L. 102–586, § 1(a)(1), redesignated pars. (3) to (8) as (5) to (10), respectively.
+Subsec. (a)(5) to (10). Pub. L. 102–586, § 1(a)(1), redesignated pars. (3) to (8) as (5) to (10), respectively.
 
-Subsec. (a)(11), (12). Pub. L. 102–586, § 1(a)(4)–(6), added pars. (11) and (12).
+Subsec. (a)(11), (12). Pub. L. 102–586, § 1(a)(4)–(6), added pars. (11) and (12).
 
-1984—Subsec. (a)(1). Pub. L. 98–473, § 611(1), substituted “accounted” for “account” and “in 1974 and for less than one-third of such arrests in 1983” for “today”.
+1984—Subsec. (a)(1). Pub. L. 98–473, § 611(1), substituted “accounted” for “account” and “in 1974 and for less than one-third of such arrests in 1983” for “today”.
 
-Subsec. (a)(2). Pub. L. 98–473, § 611(2), inserted “and inadequately trained staff in such courts, services, and facilities”.
+Subsec. (a)(2). Pub. L. 98–473, § 611(2), inserted “and inadequately trained staff in such courts, services, and facilities”.
 
-Subsec. (a)(3). Pub. L. 98–473, § 611(3), struck out “the countless, abandoned, and dependent” before “children, who”.
+Subsec. (a)(3). Pub. L. 98–473, § 611(3), struck out “the countless, abandoned, and dependent” before “children, who”.
 
-Subsec. (a)(5). Pub. L. 98–473, § 611(4), substituted “reduced” for “prevented”.
+Subsec. (a)(5). Pub. L. 98–473, § 611(4), substituted “reduced” for “prevented”.
 
-1980—Subsec. (a)(4). Pub. L. 96–509, § 3(1), inserted reference to alcohol abuse.
+1980—Subsec. (a)(4). Pub. L. 96–509, § 3(1), inserted reference to alcohol abuse.
 
-Subsec. (a)(8). Pub. L. 96–509, § 3(2)–(4), added par. (8).
+Subsec. (a)(8). Pub. L. 96–509, § 3(2)–(4), added par. (8).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. C, title II, § 12223, Nov. 2, 2002, 116 Stat. 1896, as amended by Pub. L. 108–7, div. B, title I, § 110(2), (3), Feb. 20, 2003, 117 Stat. 67, provided that:
+Pub. L. 107–273, div. C, title II, § 12223, Nov. 2, 2002, 116 Stat. 1896, as amended by Pub. L. 108–7, div. B, title I, § 110(2), (3), Feb. 20, 2003, 117 Stat. 67, provided that:
 
-> **“(a) Effective Date.—** Except as provided in subsection (b), this subtitle [subtitle B (§§ 12201–12223) of title II of div. C of Pub. L. 107–273, see Tables for classification] and the amendments made by this subtitle shall take effect on the effective date provided in section 12102(b) [set out as a note under section 10401 of this title].
+> **“(a) Effective Date.—** Except as provided in subsection (b), this subtitle [subtitle B (§§ 12201–12223) of title II of div. C of Pub. L. 107–273, see Tables for classification] and the amendments made by this subtitle shall take effect on the effective date provided in section 12102(b) [set out as a note under section 10401 of this title].
 
 > **“(b) Application of Amendments.—** The amendments made by this subtitle shall apply only with respect to fiscal years beginning on or after the effective date provided in subsection (a).”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–690, title VII, § 7296, Nov. 18, 1988, 102 Stat. 4463, as amended by Pub. L. 101–204, title X, § 1001(d), Dec. 7, 1989, 103 Stat. 1827, provided that:
+Pub. L. 100–690, title VII, § 7296, Nov. 18, 1988, 102 Stat. 4463, as amended by Pub. L. 101–204, title X, § 1001(d), Dec. 7, 1989, 103 Stat. 1827, provided that:
 
-> **“(a) Effective Date.—** Except as provided in subsection (b), this subtitle [subtitle F (§§ 7250–7296) of title VII of Pub. L. 100–690, see Tables for classification] and the amendments made by this Act [probably should be subtitle] shall take effect on October 1, 1988.
+> **“(a) Effective Date.—** Except as provided in subsection (b), this subtitle [subtitle F (§§ 7250–7296) of title VII of Pub. L. 100–690, see Tables for classification] and the amendments made by this Act [probably should be subtitle] shall take effect on October 1, 1988.
 
 > **“(b) Application of Amendments.—**
 
@@ -147,21 +147,21 @@ Pub. L. 100–690, title VII, § 7296, Nov. 18, 1988, 102 Stat. 4463, as amend
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 670, Oct. 12, 1984, 98 Stat. 2129, provided that:
+Pub. L. 98–473, title II, § 670, Oct. 12, 1984, 98 Stat. 2129, provided that:
 
-> **“(a)** Except as provided in subsection (b), this division [division II (§§ 610–670) of chapter VI of title II of Pub. L. 98–473, see Tables for classification] and the amendments made by this division shall take effect on the date of the enactment of this joint resolution [Oct. 12, 1984] or October 1, 1984, whichever occurs later.
+> **“(a)** Except as provided in subsection (b), this division [division II (§§ 610–670) of chapter VI of title II of Pub. L. 98–473, see Tables for classification] and the amendments made by this division shall take effect on the date of the enactment of this joint resolution [Oct. 12, 1984] or October 1, 1984, whichever occurs later.
 
 > **“(b)** Paragraph (2) of section 331(c) of the Runaway and Homeless Youth Act [34 U.S.C. 11280], as added by section 657(d) of this division, shall not apply with respect to any grant or payment made before the effective date of this joint resolution [Oct. 12, 1984].”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 93–415, title II, § 263(c), as added by Pub. L. 95–115, § 6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Act note set out under section 10101 of this title and Tables), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449.
+Pub. L. 93–415, title II, § 263(c), as added by Pub. L. 95–115, § 6(d)(2), Oct. 3, 1977, 91 Stat. 1058, which provided that except as otherwise provided by the Juvenile Justice Amendments of 1977 (see Short Title of 1977 Act note set out under section 10101 of this title and Tables), the amendments made by the Juvenile Justice Amendments of 1977 were to take effect on Oct. 1, 1977, was repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
 **Effective Date**
 
-Pub. L. 93–415, title II, § 263(a), (b), Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 94–273, § 32(a), Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–115, § 6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (formerly set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(*l*) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449.
+Pub. L. 93–415, title II, § 263(a), (b), Sept. 7, 1974, 88 Stat. 1129, as amended by Pub. L. 94–273, § 32(a), Apr. 21, 1976, 90 Stat. 380; Pub. L. 95–115, § 6(d)(1), Oct. 3, 1977, 91 Stat. 1058, which provided that (a) except as provided by subsections (b) and (c) (formerly set out as an Effective Date of 1977 Amendment note above), the foregoing provisions of such Act (enacting subchapters I and II of this chapter and amending section 5108 of Title 5, Government Organization and Employees) were to take effect on Sept. 7, 1974, and that (b) section 5614(b)(5) and 5614(b)(6) of this title was to become effective at the close of the thirty-first day of the twelfth calendar month of 1974 and section 5614(*l*) of this title was to become effective at the close of the thirtieth day of the eleventh month of 1976, was repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449.
 
-### § 11102. Purposes
+### § 11102. Purposes
 
 The purposes of this subchapter and subchapter II are—
 
@@ -173,7 +173,7 @@ The purposes of this subchapter and subchapter II are—
 
 **(4)** to support a continuum of evidence-based or promising programs (including delinquency prevention, intervention, mental health, behavioral health and substance abuse treatment, family services, and services for children exposed to violence) that are trauma informed, reflect the science of adolescent development, and are designed to meet the needs of at-risk youth and youth who come into contact with the justice system.
 
-(Pub. L. 93–415, title I, § 102, Sept. 7, 1974, 88 Stat. 1110; Pub. L. 96–509, § 4, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, § 612, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 102–586, § 1(b), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, § 12203, Nov. 2, 2002, 116 Stat. 1871; Pub. L. 115–385, title I, § 101, Dec. 21, 2018, 132 Stat. 5124.)
+(Pub. L. 93–415, title I, § 102, Sept. 7, 1974, 88 Stat. 1110; Pub. L. 96–509, § 4, Dec. 8, 1980, 94 Stat. 2750; Pub. L. 98–473, title II, § 612, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 102–586, § 1(b), Nov. 4, 1992, 106 Stat. 4982; Pub. L. 107–273, div. C, title II, § 12203, Nov. 2, 2002, 116 Stat. 1871; Pub. L. 115–385, title I, § 101, Dec. 21, 2018, 132 Stat. 5124.)
 
 **Editorial Notes**
 
@@ -183,13 +183,13 @@ Section was formerly classified to section 5602 of Title 42, The Public Health a
 
 **Amendments**
 
-2018—Par. (1). Pub. L. 115–385, § 101(1), inserted “, tribal,” after “State”.
+2018—Par. (1). Pub. L. 115–385, § 101(1), inserted “, tribal,” after “State”.
 
-Par. (2). Pub. L. 115–385, § 101(2), inserted “, tribal,” after “State” and struck out “and” at end.
+Par. (2). Pub. L. 115–385, § 101(2), inserted “, tribal,” after “State” and struck out “and” at end.
 
-Par. (3). Pub. L. 115–385, § 101(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to assist State and local governments in addressing juvenile crime through the provision of technical assistance, research, training, evaluation, and the dissemination of information on effective programs for combating juvenile delinquency.”
+Par. (3). Pub. L. 115–385, § 101(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to assist State and local governments in addressing juvenile crime through the provision of technical assistance, research, training, evaluation, and the dissemination of information on effective programs for combating juvenile delinquency.”
 
-Par. (4). Pub. L. 115–385, § 101(4), added par. (4).
+Par. (4). Pub. L. 115–385, § 101(4), added par. (4).
 
 2002—Pub. L. 107–273 amended heading and text generally. Prior to text, section read as follows:
 
@@ -219,33 +219,33 @@ Par. (4). Pub. L. 115–385, § 101(4), added par. (4).
 
 “(b) It is therefore the further declared policy of Congress to provide the necessary resources, leadership, and coordination (1) to develop and implement effective methods of preventing and reducing juvenile delinquency, including methods with a special focus on preserving and strengthening families so that juveniles may be retained in their homes; (2) to develop and conduct effective programs to prevent delinquency, to divert juveniles from the traditional juvenile justice system and to provide critically needed alternatives to institutionalization; (3) to improve the quality of juvenile justice in the United States; (4) to increase the capacity of State and local governments and public and private agencies to conduct effective juvenile justice and delinquency prevention and rehabilitation programs and to provide research, evaluation, and training services in the field of juvenile delinquency prevention; (5) to encourage parental involvement in treatment and alternative disposition programs; and (6) to provide for coordination of services between State, local, and community-based agencies and to promote interagency cooperation in providing such services.”
 
-1992—Subsec. (a)(1). Pub. L. 102–586, § 1(b)(1)(A), substituted “justice and delinquency prevention” for “delinquency”.
+1992—Subsec. (a)(1). Pub. L. 102–586, § 1(b)(1)(A), substituted “justice and delinquency prevention” for “delinquency”.
 
-Subsec. (a)(2). Pub. L. 102–586, § 1(b)(1)(B), substituted “nonprofit juvenile justice and delinquency prevention programs” for “agencies, institutions, and individuals in developing and implementing juvenile delinquency programs”.
+Subsec. (a)(2). Pub. L. 102–586, § 1(b)(1)(B), substituted “nonprofit juvenile justice and delinquency prevention programs” for “agencies, institutions, and individuals in developing and implementing juvenile delinquency programs”.
 
-Subsec. (a)(8), (9). Pub. L. 102–586, § 1(b)(1)(C)–(E), added par. (8) and redesignated former par. (8) as (9).
+Subsec. (a)(8), (9). Pub. L. 102–586, § 1(b)(1)(C)–(E), added par. (8) and redesignated former par. (8) as (9).
 
-Subsec. (a)(10), (11). Pub. L. 102–586, § 1(b)(1)(F), (G), added pars. (10) and (11).
+Subsec. (a)(10), (11). Pub. L. 102–586, § 1(b)(1)(F), (G), added pars. (10) and (11).
 
-Subsec. (b)(1). Pub. L. 102–586, § 1(b)(2)(A), substituted “preserving and strengthening families” for “maintaining and strengthening the family unit”.
+Subsec. (b)(1). Pub. L. 102–586, § 1(b)(2)(A), substituted “preserving and strengthening families” for “maintaining and strengthening the family unit”.
 
-Subsec. (b)(5), (6). Pub. L. 102–586, § 1(b)(2)(B), (C), added cls. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 102–586, § 1(b)(2)(B), (C), added cls. (5) and (6).
 
-1984—Subsec. (a)(1). Pub. L. 98–473, § 612(1), substituted “ongoing” for “prompt”.
+1984—Subsec. (a)(1). Pub. L. 98–473, § 612(1), substituted “ongoing” for “prompt”.
 
-Subsec. (a)(4). Pub. L. 98–473, § 612(2), substituted “the dissemination of” for “an information clearinghouse to disseminate”.
+Subsec. (a)(4). Pub. L. 98–473, § 612(2), substituted “the dissemination of” for “an information clearinghouse to disseminate”.
 
-Subsec. (a)(7). Pub. L. 98–473, § 612(3), inserted “and homeless”.
+Subsec. (a)(7). Pub. L. 98–473, § 612(3), inserted “and homeless”.
 
-1980—Subsec. (a)(8). Pub. L. 96–509, § 4(a), added par. (8).
+1980—Subsec. (a)(8). Pub. L. 96–509, § 4(a), added par. (8).
 
-Subsec. (b)(1). Pub. L. 96–509, § 4(b), inserted reference to methods with a special focus on maintaining and strengthening the family unit so that juveniles may be retained in their homes.
+Subsec. (b)(1). Pub. L. 96–509, § 4(b), inserted reference to methods with a special focus on maintaining and strengthening the family unit so that juveniles may be retained in their homes.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–385, § 3, Dec. 21, 2018, 132 Stat. 5123, provided that: “The amendments made by this Act [see Short Title of 2018 Amendment note set out under section 10101 of this title] shall not apply with respect to funds appropriated for any fiscal year that begins before the date of the enactment of this Act [Dec. 21, 2018].”
+Pub. L. 115–385, § 3, Dec. 21, 2018, 132 Stat. 5123, provided that: “The amendments made by this Act [see Short Title of 2018 Amendment note set out under section 10101 of this title] shall not apply with respect to funds appropriated for any fiscal year that begins before the date of the enactment of this Act [Dec. 21, 2018].”
 
 **Effective Date of 2002 Amendment**
 
@@ -255,7 +255,7 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out as a note under section 11101 of this title.
 
-### § 11103. Definitions
+### § 11103. Definitions
 
 For purposes of this chapter—
 
@@ -263,9 +263,9 @@ For purposes of this chapter—
 
 **(2)** the term “Federal juvenile delinquency program” means any juvenile delinquency program which is conducted, directly, or indirectly, or is assisted by any Federal department or agency, including any program funded under this chapter;
 
-**(3)** the term “juvenile delinquency program” means any program or activity related to juvenile delinquency prevention, control, diversion, treatment, rehabilitation, planning, education, training, and research, including drug and alcohol abuse programs; the improvement of the juvenile justice system; and any program or activity designed to reduce known risk factors for juvenile delinquent behavior, provides 1
+**(3)** the term “juvenile delinquency program” means any program or activity related to juvenile delinquency prevention, control, diversion, treatment, rehabilitation, planning, education, training, and research, including drug and alcohol abuse programs; the improvement of the juvenile justice system; and any program or activity designed to reduce known risk factors for juvenile delinquent behavior, provides 1
 
-<sup>1</sup>  So in original. Probably should be “provide”.
+<sup>1</sup> So in original. Probably should be “provide”.
 
 activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior;
 
@@ -469,7 +469,7 @@ that has a law enforcement function, as determined by the Secretary of the Inter
 
 **(45)** the term “tribal government” means the governing body of an Indian Tribe.
 
-(Pub. L. 93–415, title I, § 103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, § 2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§ 5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, § 613, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§ 7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, § 1(c), Nov. 4, 1992, 106 Stat. 4983; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(1)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, § 12204, Nov. 2, 2002, 116 Stat. 1871; Pub. L. 115–385, title I, § 102, Dec. 21, 2018, 132 Stat. 5124.)
+(Pub. L. 93–415, title I, § 103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, § 2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§ 5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, § 613, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§ 7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, § 1(c), Nov. 4, 1992, 106 Stat. 4983; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(1)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, § 12204, Nov. 2, 2002, 116 Stat. 1871; Pub. L. 115–385, title I, § 102, Dec. 21, 2018, 132 Stat. 5124.)
 
 **Editorial Notes**
 
@@ -483,11 +483,11 @@ Section was formerly classified to section 5603 of Title 42, The Public Health a
 
 **Amendments**
 
-2018—Par. (8)(C), (D). Pub. L. 115–385, § 102(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “an Indian Tribe that performs law enforcement functions, as determined by the Secretary of the Interior; or”.
+2018—Par. (8)(C), (D). Pub. L. 115–385, § 102(1), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “an Indian Tribe that performs law enforcement functions, as determined by the Secretary of the Interior; or”.
 
-Par. (18). Pub. L. 115–385, § 102(2), inserted “for purposes of subchapter II,” before “the term” in introductory provisions and inserted concluding provisions.
+Par. (18). Pub. L. 115–385, § 102(2), inserted “for purposes of subchapter II,” before “the term” in introductory provisions and inserted concluding provisions.
 
-Par. (22). Pub. L. 115–385, § 102(3), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “the term ‘jail or lockup for adults’ means a locked facility that is used by a State, unit of local government, or any law enforcement authority to detain or confine adults—
+Par. (22). Pub. L. 115–385, § 102(3), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “the term ‘jail or lockup for adults’ means a locked facility that is used by a State, unit of local government, or any law enforcement authority to detain or confine adults—
 
 “(A) pending the filing of a charge of violating a criminal law;
 
@@ -495,29 +495,29 @@ Par. (22). Pub. L. 115–385, § 102(3), amended par. (22) generally. Prior to
 
 “(C) convicted of violating a criminal law;”.
 
-Par. (25). Pub. L. 115–385, § 102(4), amended par. (25) generally. Prior to amendment, par. (25) read as follows: “the term ‘contact’ means the degree of interaction allowed between juvenile offenders in a secure custody status and incarcerated adults under section 31.303(d)(1)(i) of title 28, Code of Federal Regulations, as in effect on December 10, 1996;”.
+Par. (25). Pub. L. 115–385, § 102(4), amended par. (25) generally. Prior to amendment, par. (25) read as follows: “the term ‘contact’ means the degree of interaction allowed between juvenile offenders in a secure custody status and incarcerated adults under section 31.303(d)(1)(i) of title 28, Code of Federal Regulations, as in effect on December 10, 1996;”.
 
-Par. (26). Pub. L. 115–385, § 102(5), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “the term ‘adult inmate’ means an individual who—
+Par. (26). Pub. L. 115–385, § 102(5), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “the term ‘adult inmate’ means an individual who—
 
 “(A) has reached the age of full criminal responsibility under applicable State law; and
 
 “(B) has been arrested and is in custody for or awaiting trial on a criminal charge, or is convicted of a criminal offense;”.
 
-Pars. (30) to (45). Pub. L. 115–385, § 102(6)–(8), added pars. (30) to (45).
+Pars. (30) to (45). Pub. L. 115–385, § 102(6)–(8), added pars. (30) to (45).
 
-2002—Par. (3). Pub. L. 107–273, § 12204(1), substituted “designed to reduce known risk factors for juvenile delinquent behavior, provides activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior” for “to help prevent juvenile delinquency”.
+2002—Par. (3). Pub. L. 107–273, § 12204(1), substituted “designed to reduce known risk factors for juvenile delinquent behavior, provides activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior” for “to help prevent juvenile delinquency”.
 
-Par. (4). Pub. L. 107–273, § 12204(2), made technical amendment to references in original act which appear in text as references to sections 3741, 3711, 3722 and 3732 of this title.
+Par. (4). Pub. L. 107–273, § 12204(2), made technical amendment to references in original act which appear in text as references to sections 3741, 3711, 3722 and 3732 of this title.
 
-Par. (7). Pub. L. 107–273, § 12204(3), struck out “the Trust Territory of the Pacific Islands,” after “Puerto Rico,”.
+Par. (7). Pub. L. 107–273, § 12204(3), struck out “the Trust Territory of the Pacific Islands,” after “Puerto Rico,”.
 
-Par. (12)(B). Pub. L. 107–273, § 12204(4), struck out “, of any nonoffender,” after “committed an offense”.
+Par. (12)(B). Pub. L. 107–273, § 12204(4), struck out “, of any nonoffender,” after “committed an offense”.
 
-Par. (13)(B). Pub. L. 107–273, § 12204(5), struck out “, any nonoffender,” after “committed an offense”.
+Par. (13)(B). Pub. L. 107–273, § 12204(5), struck out “, any nonoffender,” after “committed an offense”.
 
-Par. (14). Pub. L. 107–273, § 12204(6), inserted “drug trafficking,” after “aggravated assault,”.
+Par. (14). Pub. L. 107–273, § 12204(6), inserted “drug trafficking,” after “aggravated assault,”.
 
-Par. (16)(C). Pub. L. 107–273, § 12204(7), struck out subpar. (C) which read as follows: “with respect to whom an appropriate public agency (other than a court or law enforcement agency), before the issuance of such order—
+Par. (16)(C). Pub. L. 107–273, § 12204(7), struck out subpar. (C) which read as follows: “with respect to whom an appropriate public agency (other than a court or law enforcement agency), before the issuance of such order—
 
 “(i) reviewed the behavior of such juvenile and the circumstances under which such juvenile was brought before the court and made subject to such order;
 
@@ -527,49 +527,49 @@ Par. (16)(C). Pub. L. 107–273, § 12204(7), struck out subpar. (C) which rea
 
 “(iv) submitted to the court a written report stating the results of the review conducted under clause (i) and the determinations made under clauses (ii) and (iii);”.
 
-Par. (22). Pub. L. 107–273, § 12204(8)(A), redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
+Par. (22). Pub. L. 107–273, § 12204(8)(A), redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
 
-Pars. (24) to (29). Pub. L. 107–273, § 12204(8)(B)–(10), added pars. (24) to (29).
+Pars. (24) to (29). Pub. L. 107–273, § 12204(8)(B)–(10), added pars. (24) to (29).
 
-1998—Par. (8). Pub. L. 105–277, § 101(b) [title I, § 129(a)(1)(A)], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
+1998—Par. (8). Pub. L. 105–277, § 101(b) [title I, § 129(a)(1)(A)], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
 
-Par. (9). Pub. L. 105–277, § 101(b) [title I, § 129(a)(1)(B)], substituted “units of local government” for “units of general local government”.
+Par. (9). Pub. L. 105–277, § 101(b) [title I, § 129(a)(1)(B)], substituted “units of local government” for “units of general local government”.
 
-1992—Par. (16). Pub. L. 102–586, § 1(c)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “the term ‘valid court order’ means a court order given by a juvenile court judge to a juvenile who has been brought before the court and made subject to a court order. The use of the word ‘valid’ permits the incarceration of juveniles for violation of a valid court order only if they received their full due process rights as guaranteed by the Constitution of the United States;”.
+1992—Par. (16). Pub. L. 102–586, § 1(c)(1), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “the term ‘valid court order’ means a court order given by a juvenile court judge to a juvenile who has been brought before the court and made subject to a court order. The use of the word ‘valid’ permits the incarceration of juveniles for violation of a valid court order only if they received their full due process rights as guaranteed by the Constitution of the United States;”.
 
-Pars. (19) to (23). Pub. L. 102–586, § 1(c)(2)–(4), added pars. (19) to (23).
+Pars. (19) to (23). Pub. L. 102–586, § 1(c)(2)–(4), added pars. (19) to (23).
 
-1988—Par. (5). Pub. L. 100–690, § 7252(b)(1), substituted “section 5611(b)” for “section 5611(c)”.
+1988—Par. (5). Pub. L. 100–690, § 7252(b)(1), substituted “section 5611(b)” for “section 5611(c)”.
 
-Pars. (17), (18). Pub. L. 100–690, § 7251(a), added pars. (17) and (18).
+Pars. (17), (18). Pub. L. 100–690, § 7251(a), added pars. (17) and (18).
 
-1984—Par. (3). Pub. L. 98–473, § 613(1), struck out “for neglected, abandoned, or dependent youth and other youth” before “to help” and inserted “juvenile” after “prevent”.
+1984—Par. (3). Pub. L. 98–473, § 613(1), struck out “for neglected, abandoned, or dependent youth and other youth” before “to help” and inserted “juvenile” after “prevent”.
 
-Par. (4)(A). Pub. L. 98–473, § 613(2), substituted “ ‘Bureau of Justice Assistance’ means the bureau established by section 3741 of this title” for “ ‘Office of Justice Assistance, Research, and Statistics’ means the office established by section 3781(a) of this title”.
+Par. (4)(A). Pub. L. 98–473, § 613(2), substituted “ ‘Bureau of Justice Assistance’ means the bureau established by section 3741 of this title” for “ ‘Office of Justice Assistance, Research, and Statistics’ means the office established by section 3781(a) of this title”.
 
-Par. (4)(B). Pub. L. 98–473, § 613(2), substituted “ ‘Office of Justice Programs’ means the office established by section 3711 of this title” for “ ‘Law Enforcement Assistance Administration’ means the administration established by section 3711 of this title”.
+Par. (4)(B). Pub. L. 98–473, § 613(2), substituted “ ‘Office of Justice Programs’ means the office established by section 3711 of this title” for “ ‘Law Enforcement Assistance Administration’ means the administration established by section 3711 of this title”.
 
-Par. (6). Pub. L. 98–473, § 613(3), substituted “services),” for “services,” before “activities of”.
+Par. (6). Pub. L. 98–473, § 613(3), substituted “services),” for “services,” before “activities of”.
 
-Par. (14). Pub. L. 98–473, § 613(4)(A), inserted “or other sex offenses punishable as a felony”.
+Par. (14). Pub. L. 98–473, § 613(4)(A), inserted “or other sex offenses punishable as a felony”.
 
-Par. (16). Pub. L. 98–473, § 613(4)(B)–(6), added par. (16).
+Par. (16). Pub. L. 98–473, § 613(4)(B)–(6), added par. (16).
 
-1980—Par. (1). Pub. L. 96–509, § 5(a), inserted reference to special education.
+1980—Par. (1). Pub. L. 96–509, § 5(a), inserted reference to special education.
 
-Par. (4). Pub. L. 96–509, § 5(b), designated existing provisions as subpar. (B) and added subpars. (A), (C), and (D).
+Par. (4). Pub. L. 96–509, § 5(b), designated existing provisions as subpar. (B) and added subpars. (A), (C), and (D).
 
-Par. (5). Pub. L. 96–509, § 19(a), substituted “section 5611(c) of this title” for “section 3711(c) of this title”.
+Par. (5). Pub. L. 96–509, § 19(a), substituted “section 5611(c) of this title” for “section 3711(c) of this title”.
 
-Par. (7). Pub. L. 96–509, § 5(c), substituted “the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands” for “and any territory or possession of the United States”.
+Par. (7). Pub. L. 96–509, § 5(c), substituted “the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands” for “and any territory or possession of the United States”.
 
-Par. (9). Pub. L. 96–509, § 5(d), substituted “juvenile justice and delinquency prevention” for “law enforcement”.
+Par. (9). Pub. L. 96–509, § 5(d), substituted “juvenile justice and delinquency prevention” for “law enforcement”.
 
-Par. (12). Pub. L. 96–509, § 5(e), substituted definition of “secure detention facility” for definition of “correctional institution or facility”.
+Par. (12). Pub. L. 96–509, § 5(e), substituted definition of “secure detention facility” for definition of “correctional institution or facility”.
 
-Pars. (13), (14). Pub. L. 96–509, § 5(f), added pars. (13) and (14). Former par. (13) redesignated (15).
+Pars. (13), (14). Pub. L. 96–509, § 5(f), added pars. (13) and (14). Former par. (13) redesignated (15).
 
-Par. (15). Pub. L. 96–509, § 5(f), (g), redesignated former par. (13) as (15), inserted reference to special education, and substituted “protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use” for “protect the public and benefit the addict or other user by eliminating his dependence on addicting or other drugs or by controlling his dependence, and his susceptibility to addiction or use”.
+Par. (15). Pub. L. 96–509, § 5(f), (g), redesignated former par. (13) as (15), inserted reference to special education, and substituted “protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use” for “protect the public and benefit the addict or other user by eliminating his dependence on addicting or other drugs or by controlling his dependence, and his susceptibility to addiction or use”.
 
 1977—Par. (3). Pub. L. 95–115 substituted “to help prevent delinquency” for “who are in danger of becoming delinquent”.
 
@@ -593,7 +593,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
 **Executive Documents**
 
@@ -605,13 +605,13 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 ### Part A—Juvenile Justice and Delinquency Prevention Office
 
-#### § 11111. Establishment
+#### § 11111. Establishment
 
 **(a) Placement within Department of Justice under general authority of Attorney General**
 
-There is hereby established an Office of Juvenile Justice and Delinquency Prevention (hereinafter in this division 1
+There is hereby established an Office of Juvenile Justice and Delinquency Prevention (hereinafter in this division 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 referred to as the “Office”) within the Department of Justice under the general authority of the Attorney General.
 
@@ -623,13 +623,13 @@ The Office shall be headed by an Administrator (hereinafter in this subchapter r
 
 There shall be in the Office a Deputy Administrator who shall be appointed by the Attorney General. The Deputy Administrator shall perform such functions as the Administrator may from time to time assign or delegate and shall act as the Administrator during the absence or disability of the Administrator.
 
-(Pub. L. 93–415, title II, § 201(a)–(f), Sept. 7, 1974, 88 Stat. 1112, 1113; Pub. L. 95–115, § 3(a)(1)–(3)(A), (4), (5), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§ 6, 19(b), Dec. 8, 1980, 94 Stat. 2752, 2762; Pub. L. 98–473, title II, § 620, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, § 7252(a), Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, § 2(a), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 112–166, § 2(h)(4), Aug. 10, 2012, 126 Stat. 1285.)
+(Pub. L. 93–415, title II, § 201(a)–(f), Sept. 7, 1974, 88 Stat. 1112, 1113; Pub. L. 95–115, § 3(a)(1)–(3)(A), (4), (5), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§ 6, 19(b), Dec. 8, 1980, 94 Stat. 2752, 2762; Pub. L. 98–473, title II, § 620, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, § 7252(a), Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, § 2(a), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 112–166, § 2(h)(4), Aug. 10, 2012, 126 Stat. 1285.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This division, referred to in subsec. (a), probably means division II (§§ 610–670) of chapter VI of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2107, which made numerous amendments to this chapter. For complete classification of this division to the Code, see Short Title of 1984 Act note set out under section 10101 of this title and Tables.
+This division, referred to in subsec. (a), probably means division II (§§ 610–670) of chapter VI of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2107, which made numerous amendments to this chapter. For complete classification of this division to the Code, see Short Title of 1984 Act note set out under section 10101 of this title and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
 
@@ -639,7 +639,7 @@ Section was formerly classified to section 5611 of Title 42, The Public Health a
 
 **Amendments**
 
-2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “President”.
+2012—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “President”.
 
 1992—Subsec. (b). Pub. L. 102–586 amended third sentence generally, substituting “The Administrator shall have the same reporting relationship with the Attorney General as the directors of other offices and bureaus within the Office of Justice Programs have” for “The Administrator shall report to the Attorney General through the Assistant Attorney General who heads the Office of Justice Programs under part A of title I of the Omnibus Crime Control and Safe Streets Act of 1968”.
 
@@ -657,25 +657,25 @@ Subsec. (e). Pub. L. 98–473, in amending section generally, struck out subsec.
 
 Subsec. (f). Pub. L. 98–473, in amending section generally, struck out subsec. (f) which related to supervision of the National Institute for Juvenile Justice and Delinquency Prevention.
 
-1980—Subsec. (a). Pub. L. 96–509, § 6(a), substituted “under the general authority of the Attorney General” for “Law Enforcement Assistance Administration”.
+1980—Subsec. (a). Pub. L. 96–509, § 6(a), substituted “under the general authority of the Attorney General” for “Law Enforcement Assistance Administration”.
 
-Subsec. (c). Pub. L. 96–509, § 19(b)(1), substituted “Administrator” for “Associate Administrator” as the name of the official heading the Office of Juvenile Justice and Delinquency Prevention and struck out provisions that had governed the meaning to be placed upon the use of the title “Associate Administrator”.
+Subsec. (c). Pub. L. 96–509, § 19(b)(1), substituted “Administrator” for “Associate Administrator” as the name of the official heading the Office of Juvenile Justice and Delinquency Prevention and struck out provisions that had governed the meaning to be placed upon the use of the title “Associate Administrator”.
 
-Subsec. (d). Pub. L. 96–509, §§ 6(b), 19(b)(2), substituted “Administrator” for “Associate Administrator” wherever appearing, struck out provisions that had required the former Associate Administrator to report directly to the Administrator, and provided that the Administrator exercise all necessary powers under the general authority of the Attorney General rather than the Administrator of the Law Enforcement Assistance Administration, clarified that the Administrator of the Office of Juvenile Justice and Delinquency Prevention is authorized to prescribe regulations for all grants and contracts available under part B and part C of this subchapter, and provided that the Administrator of the Law Enforcement Assistance Administration and the Director of the National Institute of Justice may delegate authority to the Administrator for all juvenile justice and delinquency prevention grants and contracts for funds made available under the Omnibus Crime Control and Safe Streets Act of 1968.
+Subsec. (d). Pub. L. 96–509, §§ 6(b), 19(b)(2), substituted “Administrator” for “Associate Administrator” wherever appearing, struck out provisions that had required the former Associate Administrator to report directly to the Administrator, and provided that the Administrator exercise all necessary powers under the general authority of the Attorney General rather than the Administrator of the Law Enforcement Assistance Administration, clarified that the Administrator of the Office of Juvenile Justice and Delinquency Prevention is authorized to prescribe regulations for all grants and contracts available under part B and part C of this subchapter, and provided that the Administrator of the Law Enforcement Assistance Administration and the Director of the National Institute of Justice may delegate authority to the Administrator for all juvenile justice and delinquency prevention grants and contracts for funds made available under the Omnibus Crime Control and Safe Streets Act of 1968.
 
-Subsec. (e). Pub. L. 96–509, §§ 6(c), 19(b)(3), substituted “Deputy Administrator” for “Deputy Associate Administrator”, “Administrator” for “Associate Administrator”, “Attorney General” for “Administrator of the Law Enforcement Assistance Administration”, and “office” for “Office”.
+Subsec. (e). Pub. L. 96–509, §§ 6(c), 19(b)(3), substituted “Deputy Administrator” for “Deputy Associate Administrator”, “Administrator” for “Associate Administrator”, “Attorney General” for “Administrator of the Law Enforcement Assistance Administration”, and “office” for “Office”.
 
-Subsec. (f). Pub. L. 96–509, §§ 6(d), 19(b)(4), substituted “Deputy Administrator” for “Deputy Associate Administrator” and “Attorney General” for “Administrator”.
+Subsec. (f). Pub. L. 96–509, §§ 6(d), 19(b)(4), substituted “Deputy Administrator” for “Deputy Associate Administrator” and “Attorney General” for “Administrator”.
 
-1977—Subsec. (a). Pub. L. 95–115, § 3(a)(1), inserted provisions relating to administration of provisions of this chapter.
+1977—Subsec. (a). Pub. L. 95–115, § 3(a)(1), inserted provisions relating to administration of provisions of this chapter.
 
-Subsec. (c). Pub. L. 95–115, § 3(a)(2), (3)(A), inserted provisions relating to statutory references to the Associate Administrator and substituted “an Associate” for “an Assistant”.
+Subsec. (c). Pub. L. 95–115, § 3(a)(2), (3)(A), inserted provisions relating to statutory references to the Associate Administrator and substituted “an Associate” for “an Assistant”.
 
-Subsec. (d). Pub. L. 95–115, § 3(a)(3)(A), (4), inserted provisions relating to powers of the Associate Administrator over grants and contracts and provisions relating to reporting requirement and substituted “The Associate Administrator shall exercise” for “The Assistant Administrator shall exercise”.
+Subsec. (d). Pub. L. 95–115, § 3(a)(3)(A), (4), inserted provisions relating to powers of the Associate Administrator over grants and contracts and provisions relating to reporting requirement and substituted “The Associate Administrator shall exercise” for “The Assistant Administrator shall exercise”.
 
-Subsec. (e). Pub. L. 95–115, § 3(a)(3)(A), (5), substituted references to Deputy Associate Administrator and Associate Administrator for references to Deputy Assistant Administrator and Assistant Administrator, respectively, wherever appearing.
+Subsec. (e). Pub. L. 95–115, § 3(a)(3)(A), (5), substituted references to Deputy Associate Administrator and Associate Administrator for references to Deputy Assistant Administrator and Assistant Administrator, respectively, wherever appearing.
 
-Subsec. (f). Pub. L. 95–115, § 3(a)(5), substituted “Associate” for “Assistant”.
+Subsec. (f). Pub. L. 95–115, § 3(a)(5), substituted “Associate” for “Assistant”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -693,7 +693,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
 **Mentoring Matches for Youth**
 
@@ -749,7 +749,7 @@ Pub. L. 109–248, title VI, subtitle A, July 27, 2006, 120 Stat. 631, 632, prov
 
 > **“(5)** $15,000,000 for fiscal year 2011.”
 
-#### § 11112. Personnel
+#### § 11112. Personnel
 
 **(a) Selection; employment; compensation**
 
@@ -767,7 +767,7 @@ Upon the request of the Administrator, the head of any Federal agency is authori
 
 The Administrator may obtain services as authorized by section 3109 of title 5, at rates not to exceed the rate now or hereafter payable under section 5376 of title 5.
 
-(Pub. L. 93–415, title II, § 202, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 95–115, § 3(a)(3)(A), Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, § 19(c), Dec. 8, 1980, 94 Stat. 2763; Pub. L. 98–473, title II, § 621, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 102–586, § 2(b), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, § 12221(a)(1), Nov. 2, 2002, 116 Stat. 1894.)
+(Pub. L. 93–415, title II, § 202, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 95–115, § 3(a)(3)(A), Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, § 19(c), Dec. 8, 1980, 94 Stat. 2763; Pub. L. 98–473, title II, § 621, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 102–586, § 2(b), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, § 12221(a)(1), Nov. 2, 2002, 116 Stat. 1894.)
 
 **Editorial Notes**
 
@@ -779,19 +779,19 @@ Section was formerly classified to section 5612 of Title 42, The Public Health a
 
 2002—Subsec. (b). Pub. L. 107–273 substituted “payable under section 5376” for “prescribed for GS–18 of the General Schedule by section 5332”.
 
-1992—Subsec. (b). Pub. L. 102–586, § 2(b)(1), which directed the substitution of “payable under section 5376” for “prescribes for GS–18 of the General Schedule by section 5332”, could not be executed because the phrase “prescribes for GS–18 of the General Schedule by section 5332” did not appear in text.
+1992—Subsec. (b). Pub. L. 102–586, § 2(b)(1), which directed the substitution of “payable under section 5376” for “prescribes for GS–18 of the General Schedule by section 5332”, could not be executed because the phrase “prescribes for GS–18 of the General Schedule by section 5332” did not appear in text.
 
-Subsec. (c). Pub. L. 102–586, § 2(b)(2), substituted “subchapter” for “chapter”.
+Subsec. (c). Pub. L. 102–586, § 2(b)(2), substituted “subchapter” for “chapter”.
 
-Subsec. (d). Pub. L. 102–586, § 2(b)(3), substituted “payable under section 5376” for “prescribed for GS–18 of the General Schedule by section 5332”.
+Subsec. (d). Pub. L. 102–586, § 2(b)(3), substituted “payable under section 5376” for “prescribed for GS–18 of the General Schedule by section 5332”.
 
-1984—Subsec. (a). Pub. L. 98–473, § 621(a), substituted “the Administrator” for “him” before “and to prescribe”.
+1984—Subsec. (a). Pub. L. 98–473, § 621(a), substituted “the Administrator” for “him” before “and to prescribe”.
 
-Subsec. (c). Pub. L. 98–473, § 621(b), substituted “the Administrator” for “him” before “in carrying out” and “the functions of the Administrator” for “his functions”.
+Subsec. (c). Pub. L. 98–473, § 621(b), substituted “the Administrator” for “him” before “in carrying out” and “the functions of the Administrator” for “his functions”.
 
-1980—Subsec. (c). Pub. L. 96–509, § 19(c)(1), substituted “Administrator” for “Associate Administrator”.
+1980—Subsec. (c). Pub. L. 96–509, § 19(c)(1), substituted “Administrator” for “Associate Administrator”.
 
-Subsec. (d). Pub. L. 96–509, § 19(c)(2), substituted “title 5” for “title I” after “section 5332 of”.
+Subsec. (d). Pub. L. 96–509, § 19(c)(2), substituted “title 5” for “title I” after “section 5332 of”.
 
 1977—Subsec. (c). Pub. L. 95–115 substituted “Associate” for “Assistant”.
 
@@ -807,13 +807,13 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
-#### § 11113. Voluntary and uncompensated services
+#### § 11113. Voluntary and uncompensated services
 
 The Administrator is authorized to accept and employ, in carrying out the provisions of this chapter, voluntary and uncompensated services notwithstanding the provisions of section 1342 of title 31.
 
-(Pub. L. 93–415, title II, § 203, Sept. 7, 1974, 88 Stat. 1113.)
+(Pub. L. 93–415, title II, § 203, Sept. 7, 1974, 88 Stat. 1113.)
 
 **Editorial Notes**
 
@@ -825,9 +825,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section was formerly classified to section 5613 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-“Section 1342 of title 31” substituted in text for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Section 1342 of title 31” substituted in text for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-#### § 11114. Concentration of Federal efforts
+#### § 11114. Concentration of Federal efforts
 
 **(a) Implementation of policy by Administrator; consultation with Council and Advisory Committee**
 
@@ -879,7 +879,7 @@ The Administrator is authorized to utilize the services and facilities of any ag
 
 All functions of the Administrator under this subchapter shall be coordinated as appropriate with the functions of the Secretary of Health and Human Services under subchapter III of this chapter.
 
-(Pub. L. 93–415, title II, § 204, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 94–273, §§ 8(3), 12(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–115, § 3(a)(3)(A), (b), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§ 7, 19(d), Dec. 8, 1980, 94 Stat. 2752, 2763; Pub. L. 98–473, title II, § 622, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 100–690, title VII, § 7253, Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, § 2(c), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, § 12205, Nov. 2, 2002, 116 Stat. 1872; Pub. L. 115–385, title II, § 201, Dec. 21, 2018, 132 Stat. 5127.)
+(Pub. L. 93–415, title II, § 204, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 94–273, §§ 8(3), 12(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–115, § 3(a)(3)(A), (b), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§ 7, 19(d), Dec. 8, 1980, 94 Stat. 2752, 2763; Pub. L. 98–473, title II, § 622, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 100–690, title VII, § 7253, Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, § 2(c), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, § 12205, Nov. 2, 2002, 116 Stat. 1872; Pub. L. 115–385, title II, § 201, Dec. 21, 2018, 132 Stat. 5127.)
 
 **Editorial Notes**
 
@@ -893,33 +893,33 @@ Section was formerly classified to section 5614 of Title 42, The Public Health a
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–385, § 201(1)(A), substituted “a long-term plan to improve the juvenile justice system in the United States, taking into account scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents, and shall implement” for “a long-term plan, and implement” and “and research” for “research, and improvement of the juvenile justice system in the United States”.
+2018—Subsec. (a)(1). Pub. L. 115–385, § 201(1)(A), substituted “a long-term plan to improve the juvenile justice system in the United States, taking into account scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents, and shall implement” for “a long-term plan, and implement” and “and research” for “research, and improvement of the juvenile justice system in the United States”.
 
-Subsec. (a)(2)(B). Pub. L. 115–385, § 201(1)(B), substituted “Federal Register during the 30-day period ending on October 1 of each year.” for “Federal Register—
+Subsec. (a)(2)(B). Pub. L. 115–385, § 201(1)(B), substituted “Federal Register during the 30-day period ending on October 1 of each year.” for “Federal Register—
 
 “(i) not later than 240 days after November 4, 1992, in the case of the initial plan required by paragraph (1); and
 
 “(ii) except as provided in clause (i), in the 30-day period ending on October 1 of each year.”
 
-Subsec. (b)(5). Pub. L. 115–385, § 201(2)(C), added par. (5). Former par. (5) redesignated (6).
+Subsec. (b)(5). Pub. L. 115–385, § 201(2)(C), added par. (5). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 115–385, § 201(2)(B), (D), redesignated par. (5) as (6) and inserted “and” at end. Former par. (6) redesignated (7).
+Subsec. (b)(6). Pub. L. 115–385, § 201(2)(B), (D), redesignated par. (5) as (6) and inserted “and” at end. Former par. (6) redesignated (7).
 
-Subsec. (b)(7). Pub. L. 115–385, § 201(2)(A), (B), (E), redesignated par. (6) as (7), substituted “auditing of systems required under section 11133(a)(14) of this title for monitoring compliance.” for “auditing of monitoring systems required under section 11133(a)(15) of this title to review the adequacy of such systems; and”, and struck out former par. (7) which read as follows: “not later than 1 year after November 2, 2002, issue model standards for providing mental health care to incarcerated juveniles.”
+Subsec. (b)(7). Pub. L. 115–385, § 201(2)(A), (B), (E), redesignated par. (6) as (7), substituted “auditing of systems required under section 11133(a)(14) of this title for monitoring compliance.” for “auditing of monitoring systems required under section 11133(a)(15) of this title to review the adequacy of such systems; and”, and struck out former par. (7) which read as follows: “not later than 1 year after November 2, 2002, issue model standards for providing mental health care to incarcerated juveniles.”
 
-2002—Subsec. (b)(3). Pub. L. 107–273, § 12205(1)(A), struck out “and of the prospective performance and results that might be achieved by alternative programs and activities supplementary to or in lieu of those currently being administered” before semicolon at end.
+2002—Subsec. (b)(3). Pub. L. 107–273, § 12205(1)(A), struck out “and of the prospective performance and results that might be achieved by alternative programs and activities supplementary to or in lieu of those currently being administered” before semicolon at end.
 
-Subsec. (b)(5). Pub. L. 107–273, § 12205(1)(B), substituted “parts D and E” for “parts C and D” wherever appearing.
+Subsec. (b)(5). Pub. L. 107–273, § 12205(1)(B), substituted “parts D and E” for “parts C and D” wherever appearing.
 
-Subsec. (b)(7). Pub. L. 107–273, § 12205(1)(C), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “not later than 1 year after November 4, 1992, issue model standards for providing health care to incarcerated juveniles.”
+Subsec. (b)(7). Pub. L. 107–273, § 12205(1)(C), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “not later than 1 year after November 4, 1992, issue model standards for providing health care to incarcerated juveniles.”
 
-Subsec. (c). Pub. L. 107–273, § 12205(2), substituted “as may be appropriate to prevent the duplication of efforts, and to coordinate activities, related to the prevention of juvenile delinquency” for “and reports, and to conduct such studies and surveys, as the Administrator may deem to be necessary to carry out the purposes of this part”.
+Subsec. (c). Pub. L. 107–273, § 12205(2), substituted “as may be appropriate to prevent the duplication of efforts, and to coordinate activities, related to the prevention of juvenile delinquency” for “and reports, and to conduct such studies and surveys, as the Administrator may deem to be necessary to carry out the purposes of this part”.
 
-Subsec. (d). Pub. L. 107–273, § 12205(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Administrator may delegate any of the functions of the Administrator under this subchapter, to any officer or employee of the Office.”
+Subsec. (d). Pub. L. 107–273, § 12205(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Administrator may delegate any of the functions of the Administrator under this subchapter, to any officer or employee of the Office.”
 
-Subsecs. (f), (h). Pub. L. 107–273, § 12205(5), redesignated subsec. (h) as (f).
+Subsecs. (f), (h). Pub. L. 107–273, § 12205(5), redesignated subsec. (h) as (f).
 
-Subsec. (i). Pub. L. 107–273, § 12205(4), struck out subsec. (i) which read as follows:
+Subsec. (i). Pub. L. 107–273, § 12205(4), struck out subsec. (i) which read as follows:
 
 “(1) The Administrator shall require through appropriate authority each Federal agency which administers a Federal juvenile delinquency program to submit annually to the Council a juvenile delinquency development statement. Such statement shall be in addition to any information, report, study, or survey which the Administrator may require under subsection (c) of this section.
 
@@ -927,93 +927,93 @@ Subsec. (i). Pub. L. 107–273, § 12205(4), struck out subsec. (i) which read
 
 “(3) The Administrator shall review and comment upon each juvenile delinquency development statement transmitted to the Administrator under paragraph (1). Such development statement, together with the comments of the Administrator, shall be included by the Federal agency involved in every recommendation or request made by such agency for Federal legislation which significantly affects juvenile delinquency prevention and treatment.”
 
-1992—Subsec. (a). Pub. L. 102–586, § 2(c)(1), designated existing provisions as par. (1), substituted “develop objectives, priorities, and a long-term plan, and implement overall policy and a strategy to carry out such plan,” for “implement overall policy and develop objectives and priorities”, and added par. (2).
+1992—Subsec. (a). Pub. L. 102–586, § 2(c)(1), designated existing provisions as par. (1), substituted “develop objectives, priorities, and a long-term plan, and implement overall policy and a strategy to carry out such plan,” for “implement overall policy and develop objectives and priorities”, and added par. (2).
 
-Subsec. (b)(7). Pub. L. 102–586, § 2(c)(2), (3), added par. (7).
+Subsec. (b)(7). Pub. L. 102–586, § 2(c)(2), (3), added par. (7).
 
-Subsec. (f). Pub. L. 102–586, § 2(c)(4), struck out subsec. (f) which read as follows: “The Administrator is authorized to transfer funds appropriated under this section to any agency of the Federal Government to develop or demonstrate new methods in juvenile delinquency prevention and rehabilitation and to supplement existing delinquency prevention and rehabilitation programs which the Administrator finds to be exceptionally effective or for which the Administrator finds there exists exceptional need.”
+Subsec. (f). Pub. L. 102–586, § 2(c)(4), struck out subsec. (f) which read as follows: “The Administrator is authorized to transfer funds appropriated under this section to any agency of the Federal Government to develop or demonstrate new methods in juvenile delinquency prevention and rehabilitation and to supplement existing delinquency prevention and rehabilitation programs which the Administrator finds to be exceptionally effective or for which the Administrator finds there exists exceptional need.”
 
-Subsec. (g). Pub. L. 102–586, § 2(c)(4), struck out subsec. (g) which read as follows: “The Administrator is authorized to make grants to, or enter into contracts with, any public or private agency, organization, institution, or individual to carry out the purposes of this subchapter.”
+Subsec. (g). Pub. L. 102–586, § 2(c)(4), struck out subsec. (g) which read as follows: “The Administrator is authorized to make grants to, or enter into contracts with, any public or private agency, organization, institution, or individual to carry out the purposes of this subchapter.”
 
-1988—Subsec. (a). Pub. L. 100–690, § 7253(a), struck out “and the National Advisory Committee for Juvenile Justice and Delinquency Prevention” before period at end.
+1988—Subsec. (a). Pub. L. 100–690, § 7253(a), struck out “and the National Advisory Committee for Juvenile Justice and Delinquency Prevention” before period at end.
 
-Subsec. (b)(5). Pub. L. 100–690, § 7253(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “develop annually with the assistance of the Advisory Committee and the Coordinating Council and submit to the President and the Congress, after the first year following October 3, 1977, prior to December 31, an analysis and evaluation of Federal juvenile delinquency programs conducted and assisted by Federal departments and agencies, the expenditures made, the results achieved, the plans developed, and problems in the operations and coordination of such programs and a brief but precise comprehensive plan for Federal juvenile delinquency programs, with particular emphasis on the prevention of juvenile delinquency and the development of programs and services which will encourage increased diversion of juveniles from the traditional juvenile justice system, which analysis and evaluation shall include recommendations for modifications in organization, management, personnel, standards, budget requests, and implementation plans necessary to increase the effectiveness of these programs;”.
+Subsec. (b)(5). Pub. L. 100–690, § 7253(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “develop annually with the assistance of the Advisory Committee and the Coordinating Council and submit to the President and the Congress, after the first year following October 3, 1977, prior to December 31, an analysis and evaluation of Federal juvenile delinquency programs conducted and assisted by Federal departments and agencies, the expenditures made, the results achieved, the plans developed, and problems in the operations and coordination of such programs and a brief but precise comprehensive plan for Federal juvenile delinquency programs, with particular emphasis on the prevention of juvenile delinquency and the development of programs and services which will encourage increased diversion of juveniles from the traditional juvenile justice system, which analysis and evaluation shall include recommendations for modifications in organization, management, personnel, standards, budget requests, and implementation plans necessary to increase the effectiveness of these programs;”.
 
-Subsec. (b)(6), (7). Pub. L. 100–690, § 7253(b)(2), (3), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “provide technical assistance and training assistance to Federal, State, and local governments, courts, public and private agencies, institutions, and individuals, in the planning, establishment, funding, operation, or evaluation of juvenile delinquency programs; and”.
+Subsec. (b)(6), (7). Pub. L. 100–690, § 7253(b)(2), (3), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “provide technical assistance and training assistance to Federal, State, and local governments, courts, public and private agencies, institutions, and individuals, in the planning, establishment, funding, operation, or evaluation of juvenile delinquency programs; and”.
 
-Subsec. (c). Pub. L. 100–690, § 7253(c)(1), (3), redesignated subsec. (f) as (c) and struck out former subsec. (c) which read as follows: “The President shall, no later than ninety days after receiving each annual report under subsection (b)(5) of this section, submit a report to the Congress and to the Council containing a detailed statement of any action taken or anticipated with respect to recommendations made by each annual report.”
+Subsec. (c). Pub. L. 100–690, § 7253(c)(1), (3), redesignated subsec. (f) as (c) and struck out former subsec. (c) which read as follows: “The President shall, no later than ninety days after receiving each annual report under subsection (b)(5) of this section, submit a report to the Congress and to the Council containing a detailed statement of any action taken or anticipated with respect to recommendations made by each annual report.”
 
-Subsec. (d). Pub. L. 100–690, § 7253(c)(1), (3), redesignated subsec. (g) as (d) and struck out former subsec. (d) which read as follows:
+Subsec. (d). Pub. L. 100–690, § 7253(c)(1), (3), redesignated subsec. (g) as (d) and struck out former subsec. (d) which read as follows:
 
 “(1) The first annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to information required by subsection (b)(5) of this section, a detailed statement of criteria developed by the Administrator for identifying the characteristics of juvenile delinquency, juvenile delinquency prevention, diversion of youths from the juvenile justice system, and the training, treatment, and rehabilitation of juvenile delinquents.
 
 “(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programs which are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1).”
 
-Subsec. (e). Pub. L. 100–690, § 7253(c)(1), (3), redesignated subsec. (h) as (e) and struck out former subsec. (e) which read as follows: “The third such annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to the comprehensive plan required by subsection (b)(5) of this section, a detailed statement of procedures to be used with respect to the submission of juvenile delinquency development statements to the Administrator by Federal agencies under subsection (*l*) of this section. Such statement submitted by the Administrator shall include a description of information, data, and analyses which shall be contained in each such development statement.”
+Subsec. (e). Pub. L. 100–690, § 7253(c)(1), (3), redesignated subsec. (h) as (e) and struck out former subsec. (e) which read as follows: “The third such annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to the comprehensive plan required by subsection (b)(5) of this section, a detailed statement of procedures to be used with respect to the submission of juvenile delinquency development statements to the Administrator by Federal agencies under subsection (*l*) of this section. Such statement submitted by the Administrator shall include a description of information, data, and analyses which shall be contained in each such development statement.”
 
-Subsecs. (f) to (h). Pub. L. 100–690, § 7253(c)(3), redesignated subsecs. (i) to (k) as (f) to (h), respectively. Former subsecs. (f) to (h) redesignated (c) to (e), respectively.
+Subsecs. (f) to (h). Pub. L. 100–690, § 7253(c)(3), redesignated subsecs. (i) to (k) as (f) to (h), respectively. Former subsecs. (f) to (h) redesignated (c) to (e), respectively.
 
-Subsec. (i). Pub. L. 100–690, § 7253(c)(2), (3), redesignated subsec. (*l*) as (i), struck out “which meets any criterion developed by the Administrator under subsection (d)(1) of this section” after “juvenile delinquency program” and substituted “subsection (c)” for “subsection (f)” in par. (1), and struck out “shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this section and” after “under paragraph (1)” and “under subsection (e) of this section” after “Administrator may require” in par. (2). Former subsec. (i) redesignated (f).
+Subsec. (i). Pub. L. 100–690, § 7253(c)(2), (3), redesignated subsec. (*l*) as (i), struck out “which meets any criterion developed by the Administrator under subsection (d)(1) of this section” after “juvenile delinquency program” and substituted “subsection (c)” for “subsection (f)” in par. (1), and struck out “shall be submitted in accordance with procedure established by the Administrator under subsection (e) of this section and” after “under paragraph (1)” and “under subsection (e) of this section” after “Administrator may require” in par. (2). Former subsec. (i) redesignated (f).
 
-Subsecs. (j) to (*l*). Pub. L. 100–690, § 7253(c)(3), redesignated subsecs. (j) to (*l*) as (g) to (i), respectively.
+Subsecs. (j) to (*l*). Pub. L. 100–690, § 7253(c)(3), redesignated subsecs. (j) to (*l*) as (g) to (i), respectively.
 
-Subsec. (m). Pub. L. 100–690, § 7253(c)(4), struck out subsec. (m) which read as follows: “To carry out the purposes of this section, there is authorized to be appropriated for each fiscal year an amount which does not exceed 7.5 percent of the total amount appropriated to carry out this subchapter.”
+Subsec. (m). Pub. L. 100–690, § 7253(c)(4), struck out subsec. (m) which read as follows: “To carry out the purposes of this section, there is authorized to be appropriated for each fiscal year an amount which does not exceed 7.5 percent of the total amount appropriated to carry out this subchapter.”
 
-1984—Subsec. (a). Pub. L. 98–473, § 622(a), substituted “the functions of the Administrator” for “his functions”.
+1984—Subsec. (a). Pub. L. 98–473, § 622(a), substituted “the functions of the Administrator” for “his functions”.
 
-Subsec. (b)(2), (4). Pub. L. 98–473, § 622(b)(1), (2), substituted “the Administrator” for “he”.
+Subsec. (b)(2), (4). Pub. L. 98–473, § 622(b)(1), (2), substituted “the Administrator” for “he”.
 
-Subsec. (b)(7). Pub. L. 98–473, § 622(b)(3)–(5), added par. (7).
+Subsec. (b)(7). Pub. L. 98–473, § 622(b)(3)–(5), added par. (7).
 
-Subsec. (e). Pub. L. 98–473, § 622(c), substituted “subsection (*l*)” for “subsection (‘*l*’)”.
+Subsec. (e). Pub. L. 98–473, § 622(c), substituted “subsection (*l*)” for “subsection (‘*l*’)”.
 
-Subsec. (f). Pub. L. 98–473, § 622(d), substituted “the Administrator” for “him” before “with such information” and for “he” before “may deem to be”.
+Subsec. (f). Pub. L. 98–473, § 622(d), substituted “the Administrator” for “him” before “with such information” and for “he” before “may deem to be”.
 
-Subsec. (g). Pub. L. 98–473, § 622(e), substituted “the functions of the Administrator” for “his functions”.
+Subsec. (g). Pub. L. 98–473, § 622(e), substituted “the functions of the Administrator” for “his functions”.
 
-Subsec. (i). Pub. L. 98–473, § 622(f), substituted “section” for “subchapter” and “the Administrator” for “he” before “finds there exists”.
+Subsec. (i). Pub. L. 98–473, § 622(f), substituted “section” for “subchapter” and “the Administrator” for “he” before “finds there exists”.
 
-Subsec. (*l*)(1). Pub. L. 98–473, § 622(g)(1), substituted “subsection (d)(1) of this section” for “section 5614(d)(1) of this title” and “subsection (f) of this section” for “section 5614(f) of this title”.
+Subsec. (*l*)(1). Pub. L. 98–473, § 622(g)(1), substituted “subsection (d)(1) of this section” for “section 5614(d)(1) of this title” and “subsection (f) of this section” for “section 5614(f) of this title”.
 
-Subsec. (*l*)(2). Pub. L. 98–473, § 622(g)(2), substituted “paragraph (1)” for “subsection (‘*l*’)” and “subsection (e) of this section” for “section 5614(e) of this title” in two places.
+Subsec. (*l*)(2). Pub. L. 98–473, § 622(g)(2), substituted “paragraph (1)” for “subsection (‘*l*’)” and “subsection (e) of this section” for “section 5614(e) of this title” in two places.
 
-Subsec. (*l*)(3). Pub. L. 98–473, § 622(g)(3), substituted “the Administrator” for “him” after “transmitted to” and “paragraph (1)” for “subsection (‘*l*’)”.
+Subsec. (*l*)(3). Pub. L. 98–473, § 622(g)(3), substituted “the Administrator” for “him” after “transmitted to” and “paragraph (1)” for “subsection (‘*l*’)”.
 
-1980—Subsec. (b). Pub. L. 96–509, § 7(a), struck out reference to the Associate Administrator in provisions preceding par. (1) and in par. (6) inserted reference to training assistance.
+1980—Subsec. (b). Pub. L. 96–509, § 7(a), struck out reference to the Associate Administrator in provisions preceding par. (1) and in par. (6) inserted reference to training assistance.
 
-Subsec. (d)(1). Pub. L. 96–509, § 19(d)(1), substituted “Administrator for identifying” for “Associate Administrator for identifying”.
+Subsec. (d)(1). Pub. L. 96–509, § 19(d)(1), substituted “Administrator for identifying” for “Associate Administrator for identifying”.
 
-Subsec. (g). Pub. L. 96–509, § 19(d)(2), substituted “Office” for “Administration”.
+Subsec. (g). Pub. L. 96–509, § 19(d)(2), substituted “Office” for “Administration”.
 
-Subsec. (i). Pub. L. 96–509, § 19(d)(3), substituted “Administrator finds” for “Associate Administrator finds”.
+Subsec. (i). Pub. L. 96–509, § 19(d)(3), substituted “Administrator finds” for “Associate Administrator finds”.
 
-Subsec. (k). Pub. L. 96–509, § 19(d)(4), substituted “Health and Human Services” for “the Department of Health, Education, and Welfare”.
+Subsec. (k). Pub. L. 96–509, § 19(d)(4), substituted “Health and Human Services” for “the Department of Health, Education, and Welfare”.
 
-Subsec. (*l*)(1). Pub. L. 96–509, § 19(d)(5), substituted “developed by the Administrator” for “developed by the Associate Administrator”.
+Subsec. (*l*)(1). Pub. L. 96–509, § 19(d)(5), substituted “developed by the Administrator” for “developed by the Associate Administrator”.
 
-Subsec. (m). Pub. L. 96–509, § 7(b), added subsec. (m).
+Subsec. (m). Pub. L. 96–509, § 7(b), added subsec. (m).
 
-1977—Subsec. (b). Pub. L. 95–115, § 3(b)(1), in introductory text inserted requirement for assistance of the Associate Administrator, added par. (5), and redesignated par. (7) as (6). Former par. (5), relating to an analysis and evaluation of Federal juvenile delinquency programs, and former par. (6), relating to a comprehensive plan for Federal juvenile delinquency programs, were struck out.
+1977—Subsec. (b). Pub. L. 95–115, § 3(b)(1), in introductory text inserted requirement for assistance of the Associate Administrator, added par. (5), and redesignated par. (7) as (6). Former par. (5), relating to an analysis and evaluation of Federal juvenile delinquency programs, and former par. (6), relating to a comprehensive plan for Federal juvenile delinquency programs, were struck out.
 
-Subsec. (d)(1). Pub. L. 95–115, § 3(b)(2), inserted “Associate” before “Administrator for”.
+Subsec. (d)(1). Pub. L. 95–115, § 3(b)(2), inserted “Associate” before “Administrator for”.
 
-Subsec. (e). Pub. L. 95–115, § 3(b)(3), substituted “(5)” for “(6)” in two places.
+Subsec. (e). Pub. L. 95–115, § 3(b)(3), substituted “(5)” for “(6)” in two places.
 
-Subsec. (f). Pub. L. 95–115, § 3(b)(4), inserted “Federal” after “appropriate authority,”.
+Subsec. (f). Pub. L. 95–115, § 3(b)(4), inserted “Federal” after “appropriate authority,”.
 
-Subsec. (g). Pub. L. 95–115, § 3(b)(5), substituted “subchapter” for “part, except the making of regulations”.
+Subsec. (g). Pub. L. 95–115, § 3(b)(5), substituted “subchapter” for “part, except the making of regulations”.
 
-Subsec. (i). Pub. L. 95–115, § 3(a)(3)(A), substituted “Associate” for “Assistant”.
+Subsec. (i). Pub. L. 95–115, § 3(a)(3)(A), substituted “Associate” for “Assistant”.
 
-Subsec. (j). Pub. L. 95–115, § 3(b)(6), inserted “organization,” after “agency,” and substituted “subchapter” for “part”.
+Subsec. (j). Pub. L. 95–115, § 3(b)(6), inserted “organization,” after “agency,” and substituted “subchapter” for “part”.
 
-Subsec. (k). Pub. L. 95–115, § 3(b)(7), substituted “subchapter” for “part” and “subchapter III of this chapter” for “the Juvenile Delinquency Prevention Act”.
+Subsec. (k). Pub. L. 95–115, § 3(b)(7), substituted “subchapter” for “part” and “subchapter III of this chapter” for “the Juvenile Delinquency Prevention Act”.
 
-Subsec. (*l*)(1). Pub. L. 95–115, § 3(b)(8), inserted “Associate” before “Administrator under”.
+Subsec. (*l*)(1). Pub. L. 95–115, § 3(b)(8), inserted “Associate” before “Administrator under”.
 
-1976—Subsec. (b)(5). Pub. L. 94–273, § 8(3), substituted “December 31” for “September 30”.
+1976—Subsec. (b)(5). Pub. L. 94–273, § 8(3), substituted “December 31” for “September 30”.
 
-Subsec. (b)(6). Pub. L. 94–273, § 12(3), substituted “June” for “March”.
+Subsec. (b)(6). Pub. L. 94–273, § 12(3), substituted “June” for “March”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1035,21 +1035,21 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
 **Effective Date**
 
-Section effective Sept. 7, 1974, except that subsec. (b)(5), (6) effective at close of thirty-first day of twelfth calendar month of 1974, and subsec. (*l*) effective at close of thirtieth day of eleventh calendar month of 1976, see section 263(a), (b) of Pub. L. 93–415, repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Section effective Sept. 7, 1974, except that subsec. (b)(5), (6) effective at close of thirty-first day of twelfth calendar month of 1974, and subsec. (*l*) effective at close of thirtieth day of eleventh calendar month of 1976, see section 263(a), (b) of Pub. L. 93–415, repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
 **Termination of Advisory Committees**
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the end of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-#### § 11115. Joint funding; non-Federal share requirements
+#### § 11115. Joint funding; non-Federal share requirements
 
 Notwithstanding any other provision of law, where funds are made available by more than one Federal agency to be used by any agency, organization, institution, or individual to carry out a Federal juvenile delinquency program or activity, any one of the Federal agencies providing funds may be requested by the Administrator to act for all in administering the funds advanced whenever the Administrator finds the program or activity to be exceptionally effective or for which the Administrator finds exceptional need. In such cases, a single non-Federal share requirement may be established according to the proportion of funds advanced by each Federal agency, and the Administrator may order any such agency to waive any technical grant or contract requirement (as defined in such regulations) which is inconsistent with the similar requirement of the administering agency or which the administering agency does not impose.
 
-(Pub. L. 93–415, title II, § 205, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 95–115, § 3(c), Oct. 3, 1977, 91 Stat. 1049; Pub. L. 96–509, § 19(e), Dec. 8, 1980, 94 Stat. 2763.)
+(Pub. L. 93–415, title II, § 205, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 95–115, § 3(c), Oct. 3, 1977, 91 Stat. 1049; Pub. L. 96–509, § 19(e), Dec. 8, 1980, 94 Stat. 2763.)
 
 **Editorial Notes**
 
@@ -1067,9 +1067,9 @@ Section was formerly classified to section 5615 of Title 42, The Public Health a
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
-#### § 11116. Coordinating Council on Juvenile Justice and Delinquency Prevention
+#### § 11116. Coordinating Council on Juvenile Justice and Delinquency Prevention
 
 **(a) Establishment; membership**
 
@@ -1143,7 +1143,7 @@ Members appointed under subsection (a)(2) shall serve without compensation. Memb
 
 Of sums available to carry out this part, not more than $200,000 shall be available to carry out this section.
 
-(Pub. L. 93–415, title II, § 206, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 94–237, § 4(c)(5)(D), Mar. 19, 1976, 90 Stat. 244; Pub. L. 95–115, § 3(a)(3)(A), (5), (d), Oct. 3, 1977, 91 Stat. 1048–1050; Pub. L. 96–509, §§ 8, 19(f), Dec. 8, 1980, 94 Stat. 2753, 2763; Pub. L. 98–473, title II, § 623, Oct. 12, 1984, 98 Stat. 2110; Pub. L. 100–690, title VII, §§ 7251(b), 7252(b)(2), 7254, Nov. 18, 1988, 102 Stat. 4435–4437; Pub. L. 102–586, § 2(d), Nov. 4, 1992, 106 Stat. 4985; Pub. L. 103–82, title IV, § 405(k), Sept. 21, 1993, 107 Stat. 922; Pub. L. 107–273, div. C, title II, § 12206, Nov. 2, 2002, 116 Stat. 1872; Pub. L. 111–211, title II, § 246(b), July 29, 2010, 124 Stat. 2296; Pub. L. 115–385, title II, § 202, Dec. 21, 2018, 132 Stat. 5128.)
+(Pub. L. 93–415, title II, § 206, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 94–237, § 4(c)(5)(D), Mar. 19, 1976, 90 Stat. 244; Pub. L. 95–115, § 3(a)(3)(A), (5), (d), Oct. 3, 1977, 91 Stat. 1048–1050; Pub. L. 96–509, §§ 8, 19(f), Dec. 8, 1980, 94 Stat. 2753, 2763; Pub. L. 98–473, title II, § 623, Oct. 12, 1984, 98 Stat. 2110; Pub. L. 100–690, title VII, §§ 7251(b), 7252(b)(2), 7254, Nov. 18, 1988, 102 Stat. 4435–4437; Pub. L. 102–586, § 2(d), Nov. 4, 1992, 106 Stat. 4985; Pub. L. 103–82, title IV, § 405(k), Sept. 21, 1993, 107 Stat. 922; Pub. L. 107–273, div. C, title II, § 12206, Nov. 2, 2002, 116 Stat. 1872; Pub. L. 111–211, title II, § 246(b), July 29, 2010, 124 Stat. 2296; Pub. L. 115–385, title II, § 202, Dec. 21, 2018, 132 Stat. 5128.)
 
 **Editorial Notes**
 
@@ -1153,69 +1153,69 @@ Section was formerly classified to section 5616 of Title 42, The Public Health a
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–385, § 202(1)(A), inserted “the Assistant Secretary for Mental Health and Substance Use, the Secretary of the Interior,” after “the Secretary of Health and Human Services,” and substituted “Assistant Secretary for Immigration and Customs Enforcement” for “Commissioner of Immigration and Naturalization”.
+2018—Subsec. (a)(1). Pub. L. 115–385, § 202(1)(A), inserted “the Assistant Secretary for Mental Health and Substance Use, the Secretary of the Interior,” after “the Secretary of Health and Human Services,” and substituted “Assistant Secretary for Immigration and Customs Enforcement” for “Commissioner of Immigration and Naturalization”.
 
-Subsec. (a)(2)(A). Pub. L. 115–385, § 202(1)(B), substituted “Federal Government” for “United States”.
+Subsec. (a)(2)(A). Pub. L. 115–385, § 202(1)(B), substituted “Federal Government” for “United States”.
 
-Subsec. (c)(1). Pub. L. 115–385, § 202(2)(A), substituted “the core requirements” for “paragraphs (12)(A), (13), and (14) of section 11133(a) of this title”.
+Subsec. (c)(1). Pub. L. 115–385, § 202(2)(A), substituted “the core requirements” for “paragraphs (12)(A), (13), and (14) of section 11133(a) of this title”.
 
-Subsec. (c)(2). Pub. L. 115–385, § 202(2)(B)(i), inserted “, on an annual basis” after “collectively” in introductory provisions.
+Subsec. (c)(2). Pub. L. 115–385, § 202(2)(B)(i), inserted “, on an annual basis” after “collectively” in introductory provisions.
 
-Subsec. (c)(2)(B). Pub. L. 115–385, § 202(2)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “not later than 180 days after November 4, 1992, submit such recommendations to the Administrator, the Chairman of the Committee on Education and the Workforce of the House of Representatives, and the Chairman of the Committee on the Judiciary of the Senate.”
+Subsec. (c)(2)(B). Pub. L. 115–385, § 202(2)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “not later than 180 days after November 4, 1992, submit such recommendations to the Administrator, the Chairman of the Committee on Education and the Workforce of the House of Representatives, and the Chairman of the Committee on the Judiciary of the Senate.”
 
-2010—Subsec. (a)(2)(A). Pub. L. 111–211, § 246(b)(1), substituted “Ten” for “Nine”.
+2010—Subsec. (a)(2)(A). Pub. L. 111–211, § 246(b)(1), substituted “Ten” for “Nine”.
 
-Subsec. (a)(2)(B)(iv). Pub. L. 111–211, § 246(b)(2), added cl. (iv).
+Subsec. (a)(2)(B)(iv). Pub. L. 111–211, § 246(b)(2), added cl. (iv).
 
 2002—Subsec. (c)(2)(B). Pub. L. 107–273 substituted “Education and the Workforce” for “Education and Labor”.
 
 1993—Subsec. (a)(1). Pub. L. 103–82 substituted “the Chief Executive Officer of the Corporation for National and Community Service” for “the Director of the ACTION Agency”.
 
-1992—Subsec. (a)(1). Pub. L. 102–586, § 2(d)(1)(A), substituted “the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Director of the ACTION Agency, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2)” for “the Director of the Office of Community Services, the Director of the Office of Drug Abuse Policy, the Director of the ACTION Agency, the Director of the Bureau of Prisons, the Commissioner of the Bureau of Indian Affairs, the Director for the Office of Special Education and Rehabilitation Services, the Commissioner for the Administration for Children, Youth, and Families, and the Director of the Youth Development Bureau, or their respective designees, the Assistant Attorney General who heads the Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the National Institute of Justice, and representatives of such other agencies as the President shall designate”.
+1992—Subsec. (a)(1). Pub. L. 102–586, § 2(d)(1)(A), substituted “the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Director of the ACTION Agency, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2)” for “the Director of the Office of Community Services, the Director of the Office of Drug Abuse Policy, the Director of the ACTION Agency, the Director of the Bureau of Prisons, the Commissioner of the Bureau of Indian Affairs, the Director for the Office of Special Education and Rehabilitation Services, the Commissioner for the Administration for Children, Youth, and Families, and the Director of the Youth Development Bureau, or their respective designees, the Assistant Attorney General who heads the Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the National Institute of Justice, and representatives of such other agencies as the President shall designate”.
 
-Subsec. (a)(2). Pub. L. 102–586, § 2(d)(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any individual designated under this section shall be selected from individuals who exercise significant decisionmaking authority in the Federal agency involved.”
+Subsec. (a)(2). Pub. L. 102–586, § 2(d)(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any individual designated under this section shall be selected from individuals who exercise significant decisionmaking authority in the Federal agency involved.”
 
-Subsec. (c). Pub. L. 102–586, § 2(d)(2), designated existing provisions as par. (1), inserted “(in cooperation with State and local juvenile justice programs) all Federal programs and activities that detain or care for unaccompanied juveniles,”, “shall examine how the separate programs can be coordinated among Federal, State, and local governments to better serve at-risk children and juveniles and” and “and all Federal programs and activities that detain or care for unaccompanied juveniles”, and added par. (2).
+Subsec. (c). Pub. L. 102–586, § 2(d)(2), designated existing provisions as par. (1), inserted “(in cooperation with State and local juvenile justice programs) all Federal programs and activities that detain or care for unaccompanied juveniles,”, “shall examine how the separate programs can be coordinated among Federal, State, and local governments to better serve at-risk children and juveniles and” and “and all Federal programs and activities that detain or care for unaccompanied juveniles”, and added par. (2).
 
-Subsec. (f). Pub. L. 102–586, § 2(d)(3), inserted “Members appointed under subsection (a)(2) shall serve without compensation.” before “Members of the Council” and struck out “who are employed by the Federal Government full time” before “shall be”.
+Subsec. (f). Pub. L. 102–586, § 2(d)(3), inserted “Members appointed under subsection (a)(2) shall serve without compensation.” before “Members of the Council” and struck out “who are employed by the Federal Government full time” before “shall be”.
 
-1988—Subsec. (a)(1). Pub. L. 100–690, §§ 7251(b), 7252(b)(2), struck out “(hereinafter referred to as the ‘Council’)” after “Coordinating Council on Juvenile Justice and Delinquency Prevention” and “the Deputy Administrator of the Institute for Juvenile Justice and Delinquency Prevention,” after “Administrator of the Office of Juvenile Justice and Delinquency Prevention,”.
+1988—Subsec. (a)(1). Pub. L. 100–690, §§ 7251(b), 7252(b)(2), struck out “(hereinafter referred to as the ‘Council’)” after “Coordinating Council on Juvenile Justice and Delinquency Prevention” and “the Deputy Administrator of the Institute for Juvenile Justice and Delinquency Prevention,” after “Administrator of the Office of Juvenile Justice and Delinquency Prevention,”.
 
-Subsec. (c). Pub. L. 100–690, § 7254(a)(1)–(3), struck out “, in consultation with the Advisory Board on Missing Children,” after “programs and” in first sentence, substituted “shall” for “is authorized to” and “paragraphs (12)(A), (13), and (14) of section 5633(a) of this title” for “section 5633(a)(12)(A) and (13) of this title” in third sentence, and inserted at end “The Council shall review the reasons why Federal agencies take juveniles into custody and shall make recommendations regarding how to improve Federal practices and facilities for holding juveniles in custody.”
+Subsec. (c). Pub. L. 100–690, § 7254(a)(1)–(3), struck out “, in consultation with the Advisory Board on Missing Children,” after “programs and” in first sentence, substituted “shall” for “is authorized to” and “paragraphs (12)(A), (13), and (14) of section 5633(a) of this title” for “section 5633(a)(12)(A) and (13) of this title” in third sentence, and inserted at end “The Council shall review the reasons why Federal agencies take juveniles into custody and shall make recommendations regarding how to improve Federal practices and facilities for holding juveniles in custody.”
 
-Subsec. (d). Pub. L. 100–690, § 7254(b), struck out provision that annual report required by section 5614(b)(5) of this title include a description of the activities of the Council.
+Subsec. (d). Pub. L. 100–690, § 7254(b), struck out provision that annual report required by section 5614(b)(5) of this title include a description of the activities of the Council.
 
-Subsec. (g). Pub. L. 100–690, § 7254(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “To carry out the purposes of this section there is authorized to be appropriated such sums as may be necessary, not to exceed $200,000 for each fiscal year.”
+Subsec. (g). Pub. L. 100–690, § 7254(c), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “To carry out the purposes of this section there is authorized to be appropriated such sums as may be necessary, not to exceed $200,000 for each fiscal year.”
 
-1984—Subsec. (a)(1). Pub. L. 98–473, § 623(a), substituted “Office of Community Services” for “Community Services Administration”, “Assistant Attorney General who heads the Office of Justice Programs” for “Director of the Office of Justice Assistance, Research, and Statistics”, and “Director of the Bureau of Justice Assistance” for “Administrator of the Law Enforcement Assistance Administration”.
+1984—Subsec. (a)(1). Pub. L. 98–473, § 623(a), substituted “Office of Community Services” for “Community Services Administration”, “Assistant Attorney General who heads the Office of Justice Programs” for “Director of the Office of Justice Assistance, Research, and Statistics”, and “Director of the Bureau of Justice Assistance” for “Administrator of the Law Enforcement Assistance Administration”.
 
-Subsec. (c). Pub. L. 98–473, § 623(b), substituted “delinquency programs and, in consultation with the Advisory Board on Missing Children, all Federal programs relating to missing and exploited children” for “delinquency programs”.
+Subsec. (c). Pub. L. 98–473, § 623(b), substituted “delinquency programs and, in consultation with the Advisory Board on Missing Children, all Federal programs relating to missing and exploited children” for “delinquency programs”.
 
-Subsec. (e). Pub. L. 98–473, § 623(c), substituted “the Administrator” for “he” before “considers necessary”.
+Subsec. (e). Pub. L. 98–473, § 623(c), substituted “the Administrator” for “he” before “considers necessary”.
 
-Subsec. (g). Pub. L. 98–473, § 623(d), substituted “$200,000” for “$500,000”.
+Subsec. (g). Pub. L. 98–473, § 623(d), substituted “$200,000” for “$500,000”.
 
-1980—Subsec. (a)(1). Pub. L. 96–509, §§ 8(a), 19(f)(1), substituted “the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Director of the Community Services Administration, the Director of the Office of Drug Abuse Policy, the Director of the ACTION Agency, the Director of the Bureau of Prisons, the Commissioner of the Bureau of Indian Affairs, the Director of the Office of Special Education and Rehabilitation Services, the Commissioner for the Administration for Children, Youth, and Families, and the Director of the Youth Development Bureau, or their respective designees, the Director of the Office of Justice Assistance, Research and Statistics, the Administrator of the Law Enforcement Assistance Administration, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Deputy Administrator of the Institute for Juvenile Justice and Delinquency Prevention, the Director of the National Institute of Justice, and representatives” for “the Secretary of Health, Education, and Welfare, the Secretary of Labor, the Director of the Office of Drug Abuse Policy, the Commissioner of the Office of Education, the Director of the ACTION Agency, the Secretary of Housing and Urban Development, or their respective designees, the Associate Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Deputy Associate Administrator of the Institute for Juvenile Justice and Delinquency Prevention, and representatives”.
+1980—Subsec. (a)(1). Pub. L. 96–509, §§ 8(a), 19(f)(1), substituted “the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Director of the Community Services Administration, the Director of the Office of Drug Abuse Policy, the Director of the ACTION Agency, the Director of the Bureau of Prisons, the Commissioner of the Bureau of Indian Affairs, the Director of the Office of Special Education and Rehabilitation Services, the Commissioner for the Administration for Children, Youth, and Families, and the Director of the Youth Development Bureau, or their respective designees, the Director of the Office of Justice Assistance, Research and Statistics, the Administrator of the Law Enforcement Assistance Administration, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Deputy Administrator of the Institute for Juvenile Justice and Delinquency Prevention, the Director of the National Institute of Justice, and representatives” for “the Secretary of Health, Education, and Welfare, the Secretary of Labor, the Director of the Office of Drug Abuse Policy, the Commissioner of the Office of Education, the Director of the ACTION Agency, the Secretary of Housing and Urban Development, or their respective designees, the Associate Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Deputy Associate Administrator of the Institute for Juvenile Justice and Delinquency Prevention, and representatives”.
 
-Subsec. (b). Pub. L. 96–509, § 19(f)(2), struck out “Associate” before “Administrator”.
+Subsec. (b). Pub. L. 96–509, § 19(f)(2), struck out “Associate” before “Administrator”.
 
-Subsec. (c). Pub. L. 96–509, § 8(b), provided that the Coordinating Council make its annual recommendations to the Congress as well as the President and that the Coordinating Council review and make recommendations with respect to any joint funding proposal undertaken by the Office of Juvenile Justice and Delinquency Prevention and any agency represented on the Council and struck out “the Attorney General and”.
+Subsec. (c). Pub. L. 96–509, § 8(b), provided that the Coordinating Council make its annual recommendations to the Congress as well as the President and that the Coordinating Council review and make recommendations with respect to any joint funding proposal undertaken by the Office of Juvenile Justice and Delinquency Prevention and any agency represented on the Council and struck out “the Attorney General and”.
 
-Subsec. (d). Pub. L. 96–509, § 8(c), substituted “at least quarterly” for “a minimum of four times per year”.
+Subsec. (d). Pub. L. 96–509, § 8(c), substituted “at least quarterly” for “a minimum of four times per year”.
 
-Subsec. (e). Pub. L. 96–509, §§ 8(d), 19(f)(3), substituted “The Administrator shall” for “The Associate Administrator may”.
+Subsec. (e). Pub. L. 96–509, §§ 8(d), 19(f)(3), substituted “The Administrator shall” for “The Associate Administrator may”.
 
-Subsec. (g). Pub. L. 96–509, § 8(e), placed a limit of $500,000 for each fiscal year on the amount authorized to be appropriated to carry out the purposes of this section.
+Subsec. (g). Pub. L. 96–509, § 8(e), placed a limit of $500,000 for each fiscal year on the amount authorized to be appropriated to carry out the purposes of this section.
 
-1977—Subsec. (a)(1). Pub. L. 95–115, § 3(a)(3)(A), (5), (d)(1), inserted references to the Commissioner of the Office of Education and the Director of the ACTION Agency, and substituted “Associate” for “Assistant” wherever appearing.
+1977—Subsec. (a)(1). Pub. L. 95–115, § 3(a)(3)(A), (5), (d)(1), inserted references to the Commissioner of the Office of Education and the Director of the ACTION Agency, and substituted “Associate” for “Assistant” wherever appearing.
 
-Subsec. (b). Pub. L. 95–115, § 3(a)(3)(A), substituted “Associate” for “Assistant”.
+Subsec. (b). Pub. L. 95–115, § 3(a)(3)(A), substituted “Associate” for “Assistant”.
 
-Subsec. (c). Pub. L. 95–115, § 3(d)(2), inserted provisions relating to review functions of the Council.
+Subsec. (c). Pub. L. 95–115, § 3(d)(2), inserted provisions relating to review functions of the Council.
 
-Subsec. (d). Pub. L. 95–115, § 3(d)(3), substituted “four” for “six”.
+Subsec. (d). Pub. L. 95–115, § 3(d)(3), substituted “four” for “six”.
 
-Subsec. (e). Pub. L. 95–115, § 3(d)(4), redesignated former par. (3) as entire subsec. (e) and, as so redesignated, inserted “or staff support” after “personnel” and substituted “Associate Administrator” for “Executive Secretary”. Former pars. (1) and (2), which related to appointment and responsibilities of the Executive Secretary, respectively, were struck out.
+Subsec. (e). Pub. L. 95–115, § 3(d)(4), redesignated former par. (3) as entire subsec. (e) and, as so redesignated, inserted “or staff support” after “personnel” and substituted “Associate Administrator” for “Executive Secretary”. Former pars. (1) and (2), which related to appointment and responsibilities of the Executive Secretary, respectively, were struck out.
 
 1976—Subsec. (a)(1). Pub. L. 94–237 substituted “Office of Drug Abuse Policy” for “Special Action Office for Drug Abuse Prevention”.
 
@@ -1243,7 +1243,7 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
 **Termination of Reporting Requirements**
 
@@ -1253,7 +1253,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
-#### § 11117. Annual report
+#### § 11117. Annual report
 
 Not later than 180 days after the end of each fiscal year, the Administrator shall submit to the President, the Speaker of the House of Representatives, and the President pro tempore of the Senate a report that contains the following with respect to such fiscal year:
 
@@ -1309,7 +1309,7 @@ Not later than 180 days after the end of each fiscal year, the Administrator sha
 
 **(D)** the actual amount recouped by the Office of Juvenile Justice and Delinquency Prevention.
 
-(Pub. L. 93–415, title II, § 207, as added Pub. L. 100–690, title VII, § 7255, Nov. 18, 1988, 102 Stat. 4437; amended Pub. L. 102–586, § 2(e), Nov. 4, 1992, 106 Stat. 4986; Pub. L. 107–273, div. C, title II, § 12207, Nov. 2, 2002, 116 Stat. 1872; Pub. L. 115–385, title II, § 203, Dec. 21, 2018, 132 Stat. 5128.)
+(Pub. L. 93–415, title II, § 207, as added Pub. L. 100–690, title VII, § 7255, Nov. 18, 1988, 102 Stat. 4437; amended Pub. L. 102–586, § 2(e), Nov. 4, 1992, 106 Stat. 4986; Pub. L. 107–273, div. C, title II, § 12207, Nov. 2, 2002, 116 Stat. 1872; Pub. L. 115–385, title II, § 203, Dec. 21, 2018, 132 Stat. 5128.)
 
 **Editorial Notes**
 
@@ -1325,21 +1325,21 @@ Section was formerly classified to section 5617 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 207 of title II of Pub. L. 93–415, as added Pub. L. 96–509, § 9, Dec. 8, 1980, 94 Stat. 2753, related to establishment and functions of National Advisory Committee for Juvenile Justice and Delinquency Prevention, prior to repeal eff. Oct. 12, 1984, by Pub. L. 98–473, title II, § 624, Oct. 12, 1984, 98 Stat. 2111.
+A prior section 207 of title II of Pub. L. 93–415, as added Pub. L. 96–509, § 9, Dec. 8, 1980, 94 Stat. 2753, related to establishment and functions of National Advisory Committee for Juvenile Justice and Delinquency Prevention, prior to repeal eff. Oct. 12, 1984, by Pub. L. 98–473, title II, § 624, Oct. 12, 1984, 98 Stat. 2111.
 
-Another prior section 207 of title II of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1117; Pub. L. 95–115, § 3(e), Oct. 3, 1977, 91 Stat. 1050, related to National Advisory Committee for Juvenile Justice and Delinquency Prevention, its membership, terms of office, etc., prior to repeal by Pub. L. 96–509, § 9, Dec. 8, 1980, 94 Stat. 2753.
+Another prior section 207 of title II of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1117; Pub. L. 95–115, § 3(e), Oct. 3, 1977, 91 Stat. 1050, related to National Advisory Committee for Juvenile Justice and Delinquency Prevention, its membership, terms of office, etc., prior to repeal by Pub. L. 96–509, § 9, Dec. 8, 1980, 94 Stat. 2753.
 
 **Amendments**
 
-2018—Pub. L. 115–385, § 203(1), substituted “each fiscal year” for “a fiscal year” in introductory provisions.
+2018—Pub. L. 115–385, § 203(1), substituted “each fiscal year” for “a fiscal year” in introductory provisions.
 
-Par. (1)(B). Pub. L. 115–385, § 203(2)(A), substituted “, gender, and ethnicity, as such term is defined by the Bureau of the Census,” for “and gender”.
+Par. (1)(B). Pub. L. 115–385, § 203(2)(A), substituted “, gender, and ethnicity, as such term is defined by the Bureau of the Census,” for “and gender”.
 
-Par. (1)(F). Pub. L. 115–385, § 203(2)(C), inserted “and other” before “disabilities,” and substituted semicolon for period at end.
+Par. (1)(F). Pub. L. 115–385, § 203(2)(C), inserted “and other” before “disabilities,” and substituted semicolon for period at end.
 
-Par. (1)(G) to (K). Pub. L. 115–385, § 203(2)(B), (D), added subpars. (G) to (K).
+Par. (1)(G) to (K). Pub. L. 115–385, § 203(2)(B), (D), added subpars. (G) to (K).
 
-Pars. (5) to (8). Pub. L. 115–385, § 203(3), added pars. (5) to (8).
+Pars. (5) to (8). Pub. L. 115–385, § 203(3), added pars. (5) to (8).
 
 2002—Pars. (4), (5). Pub. L. 107–273 added par. (4) and struck out former pars. (4) and (5) which read as follows:
 
@@ -1347,9 +1347,9 @@ Pars. (5) to (8). Pub. L. 115–385, § 203(3), added pars. (5) to (8).
 
 “(5) A description of selected exemplary delinquency prevention programs for which assistance is provided under this subchapter, with particular attention to community-based juvenile delinquency prevention programs that involve and assist families of juveniles.”
 
-1992—Par. (1)(D). Pub. L. 102–586, § 2(e)(1)(A), inserted “(including juveniles treated as adults for purposes of prosecution)”.
+1992—Par. (1)(D). Pub. L. 102–586, § 2(e)(1)(A), inserted “(including juveniles treated as adults for purposes of prosecution)”.
 
-Par. (1)(F). Pub. L. 102–586, § 2(e)(1)(B), (2), (3), added subpar. (F).
+Par. (1)(F). Pub. L. 102–586, § 2(e)(1)(B), (2), (3), added subpar. (F).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1375,25 +1375,25 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 **Codification**
 
-Pub. L. 115–385, title II, § 204(c)(1), Dec. 21, 2018, 132 Stat. 5130, substituted “Charles Grassley Juvenile Justice and Delinquency Prevention Program” for “Federal Assistance for State and Local Programs” in part heading.
+Pub. L. 115–385, title II, § 204(c)(1), Dec. 21, 2018, 132 Stat. 5130, substituted “Charles Grassley Juvenile Justice and Delinquency Prevention Program” for “Federal Assistance for State and Local Programs” in part heading.
 
-Pub. L. 100–690, title VII, § 7263(a)(1)(A), Nov. 18, 1988, 102 Stat. 4443, struck out subpart I heading “Formula Grants” in part B.
+Pub. L. 100–690, title VII, § 7263(a)(1)(A), Nov. 18, 1988, 102 Stat. 4443, struck out subpart I heading “Formula Grants” in part B.
 
-#### § 11131. Authority to make grants and contracts
+#### § 11131. Authority to make grants and contracts
 
 **(a)** The Administrator is authorized to make grants to States and units of local government or combinations thereof to assist them in planning, establishing, operating, coordinating, and evaluating projects directly or through grants and contracts with public and private agencies for the development of more effective education, training, research, prevention, diversion, treatment, and rehabilitation programs in the area of juvenile delinquency and programs to improve the juvenile justice system.
 
 **(b)**
 
-**(1)** With not to exceed 5 percent of the funds available in a fiscal year to carry out this part, the Administrator shall make grants to and enter into contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local governments 1
+**(1)** With not to exceed 5 percent of the funds available in a fiscal year to carry out this part, the Administrator shall make grants to and enter into contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local governments 1
 
-<sup>1</sup>  So in original. Probably should be “units of local governments”.
+<sup>1</sup> So in original. Probably should be “units of local governments”.
 
 (and combinations thereof), and local private agencies to facilitate compliance with section 11133 of this title and implementation of the State plan approved under section 11133(c) of this title.
 
 **(2)** Grants and contracts may be made under paragraph (1) only to public and private agencies, organizations, and individuals that have experience in providing such technical assistance.
 
-(Pub. L. 93–415, title II, § 221, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, § 4(a), Oct. 3, 1977, 91 Stat. 1050; Pub. L. 98–473, title II, § 625(a), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, § 7256, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, § 2(f)(1), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(A)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, § 12221(a)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 115–385, title II, § 204(a), Dec. 21, 2018, 132 Stat. 5130.)
+(Pub. L. 93–415, title II, § 221, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, § 4(a), Oct. 3, 1977, 91 Stat. 1050; Pub. L. 98–473, title II, § 625(a), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, § 7256, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, § 2(f)(1), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(A)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, § 12221(a)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 115–385, title II, § 204(a), Dec. 21, 2018, 132 Stat. 5130.)
 
 **Editorial Notes**
 
@@ -1409,9 +1409,9 @@ Section was formerly classified to section 5631 of Title 42, The Public Health a
 
 1998—Subsec. (a). Pub. L. 105–277 substituted “units of local government” for “units of general local government”.
 
-1992—Subsec. (b)(2). Pub. L. 102–586, § 2(f)(1)(A), which directed the substitution of “experience” for “existence”, could not be executed because “existence” did not appear in text.
+1992—Subsec. (b)(2). Pub. L. 102–586, § 2(f)(1)(A), which directed the substitution of “experience” for “existence”, could not be executed because “existence” did not appear in text.
 
-Pub. L. 102–586, § 2(f)(1)(B), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
+Pub. L. 102–586, § 2(f)(1)(B), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
 1988—Pub. L. 100–690 inserted “and contracts” after “grants” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
@@ -1435,13 +1435,13 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pu
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
 **Short Title**
 
 For short title of part B of title II of Pub. L. 93–415, which is classified to this part, as the “Charles Grassley Juvenile Justice and Delinquency Prevention Program”, see section 220 of Pub. L. 93–415, set out as a Short Title of 1974 Act note under section 10101 of this title.
 
-#### § 11132. Allocation of funds
+#### § 11132. Allocation of funds
 
 **(a) Time; basis; amounts**
 
@@ -1473,7 +1473,7 @@ In accordance with regulations promulgated under this part, a portion of any all
 
 In accordance with regulations promulgated under this part, not more than 5 percent of the annual allocation to any State under this part shall be available to assist the advisory group established under section 11133(a)(3) of this title.
 
-(Pub. L. 93–415, title II, § 222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, § 4(b)(1), (2)(A)–(C), (3), (4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, § 10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II, § 625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, § 7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, § 2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(B)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, § 12208, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 115–385, title II, § 204(b), Dec. 21, 2018, 132 Stat. 5130.)
+(Pub. L. 93–415, title II, § 222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, § 4(b)(1), (2)(A)–(C), (3), (4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, § 10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II, § 625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, § 7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, § 2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(B)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, § 12208, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 115–385, title II, § 204(b), Dec. 21, 2018, 132 Stat. 5130.)
 
 **Editorial Notes**
 
@@ -1483,53 +1483,53 @@ Section was formerly classified to section 5632 of Title 42, The Public Health a
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–385, § 204(b)(1)(A), substituted “18 years of age, based on the most recent data available from the Bureau of the Census” for “age eighteen”.
+2018—Subsec. (a)(1). Pub. L. 115–385, § 204(b)(1)(A), substituted “18 years of age, based on the most recent data available from the Bureau of the Census” for “age eighteen”.
 
-Subsec. (a)(2), (3). Pub. L. 115–385, § 204(b)(1)(B), added par. (2) and struck out former pars. (2) and (3) which set out allocated amounts to States depending on whether aggregate appropriations were less than, equal to, or more than $75,000,000 and stipulated a condition if the amount allocated would be less than the amount allocated to the State for fiscal year 2000.
+Subsec. (a)(2), (3). Pub. L. 115–385, § 204(b)(1)(B), added par. (2) and struck out former pars. (2) and (3) which set out allocated amounts to States depending on whether aggregate appropriations were less than, equal to, or more than $75,000,000 and stipulated a condition if the amount allocated would be less than the amount allocated to the State for fiscal year 2000.
 
-Subsec. (c). Pub. L. 115–385, § 204(b)(2), substituted “effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements” for “efficient administration, including monitoring, evaluation, and one full-time staff position”.
+Subsec. (c). Pub. L. 115–385, § 204(b)(2), substituted “effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements” for “efficient administration, including monitoring, evaluation, and one full-time staff position”.
 
-Subsec. (d). Pub. L. 115–385, § 204(b)(3), substituted “not more than 5 percent of the” for “5 per centum of the minimum”.
+Subsec. (d). Pub. L. 115–385, § 204(b)(3), substituted “not more than 5 percent of the” for “5 per centum of the minimum”.
 
-2002—Subsec. (a)(2)(A). Pub. L. 107–273, § 12208(1)(A)(i), struck out “(other than parts D and E)” after “carry out this subchapter”, substituted “amount up to $400,000” for “amount, up to $400,000,”, “fiscal year 2000, except” for “fiscal year 1992 except”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000, each” for “fiscal year 1992, each”, and struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
+2002—Subsec. (a)(2)(A). Pub. L. 107–273, § 12208(1)(A)(i), struck out “(other than parts D and E)” after “carry out this subchapter”, substituted “amount up to $400,000” for “amount, up to $400,000,”, “fiscal year 2000, except” for “fiscal year 1992 except”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000, each” for “fiscal year 1992, each”, and struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
 
-Subsec. (a)(2)(B). Pub. L. 107–273, § 12208(1)(A)(ii), struck out “(other than part D)” after “carry out this subchapter”, substituted “less than $600,000” for “less than $400,000”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000,” for “fiscal year 1992”, and struck out “or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title” before “except that” and “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
+Subsec. (a)(2)(B). Pub. L. 107–273, § 12208(1)(A)(ii), struck out “(other than part D)” after “carry out this subchapter”, substituted “less than $600,000” for “less than $400,000”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000,” for “fiscal year 1992”, and struck out “or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title” before “except that” and “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
 
-Subsec. (a)(3). Pub. L. 107–273, § 12208(1)(B), substituted “fiscal year 2000” for “fiscal year 1992” in two places and “allocate” for “allot”.
+Subsec. (a)(3). Pub. L. 107–273, § 12208(1)(B), substituted “fiscal year 2000” for “fiscal year 1992” in two places and “allocate” for “allot”.
 
-Subsec. (b). Pub. L. 107–273, § 12208(2), struck out “the Trust Territory of the Pacific Islands,” after “Guam,”.
+Subsec. (b). Pub. L. 107–273, § 12208(2), struck out “the Trust Territory of the Pacific Islands,” after “Guam,”.
 
 1998—Subsec. (c). Pub. L. 105–277 substituted “units of local government” for “units of general local government” in two places.
 
-1992—Subsec. (a)(2)(A). Pub. L. 102–586, § 2(f)(2)(A), (B)(i), substituted “parts D and E” for “part D”, substituted “allocated” for “allotted” in two places, and inserted “or such greater amount, up to $400,000, as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 1992” and “, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 1992,”.
+1992—Subsec. (a)(2)(A). Pub. L. 102–586, § 2(f)(2)(A), (B)(i), substituted “parts D and E” for “part D”, substituted “allocated” for “allotted” in two places, and inserted “or such greater amount, up to $400,000, as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 1992” and “, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 1992,”.
 
-Subsec. (a)(2)(B). Pub. L. 102–586, § 2(f)(2)(A), (B)(ii), substituted “allocated” for “allotted” in two places and inserted “or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title” and “, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 1992”.
+Subsec. (a)(2)(B). Pub. L. 102–586, § 2(f)(2)(A), (B)(ii), substituted “allocated” for “allotted” in two places and inserted “or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title” and “, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory’s allocation below the amount allocated for fiscal year 1992”.
 
-Subsec. (a)(3). Pub. L. 102–586, § 2(f)(2)(A), (B)(iii), substituted “allocated” for “allotted” wherever appearing and “1992” for “1988” in two places.
+Subsec. (a)(3). Pub. L. 102–586, § 2(f)(2)(A), (B)(iii), substituted “allocated” for “allotted” wherever appearing and “1992” for “1988” in two places.
 
-Subsec. (b). Pub. L. 102–586, § 2(f)(2)(A), substituted “allocated” for “allotted” in two places.
+Subsec. (b). Pub. L. 102–586, § 2(f)(2)(A), substituted “allocated” for “allotted” in two places.
 
-Subsec. (c). Pub. L. 102–586, § 2(f)(2)(A), (C), substituted “allocation” for “allotment” in two places, “, evaluation, and one full-time staff position” for “and evaluation”, and “10 percent” for “7½ per centum”.
+Subsec. (c). Pub. L. 102–586, § 2(f)(2)(A), (C), substituted “allocation” for “allotment” in two places, “, evaluation, and one full-time staff position” for “and evaluation”, and “10 percent” for “7½ per centum”.
 
-Subsec. (d). Pub. L. 102–586, § 2(f)(2)(A), substituted “allocation” for “allotment”.
+Subsec. (d). Pub. L. 102–586, § 2(f)(2)(A), substituted “allocation” for “allotment”.
 
-1988—Subsec. (a)(1). Pub. L. 100–690, § 7257(a)(1), (2), designated existing provisions as par. (1), substituted “Subject to paragraph (2) and in” for “In”, and struck out at end “No such allotment to any State shall be less than $225,000, except that for the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands no allotment shall be less than $56,250.”
+1988—Subsec. (a)(1). Pub. L. 100–690, § 7257(a)(1), (2), designated existing provisions as par. (1), substituted “Subject to paragraph (2) and in” for “In”, and struck out at end “No such allotment to any State shall be less than $225,000, except that for the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands no allotment shall be less than $56,250.”
 
-Subsec. (a)(2), (3). Pub. L. 100–690, § 7257(a)(3), added pars. (2) and (3).
+Subsec. (a)(2), (3). Pub. L. 100–690, § 7257(a)(3), added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 100–690, § 7257(b), substituted “If” for “Except for funds appropriated for fiscal year 1975, if” and struck out after first sentence “Funds appropriated for fiscal year 1975 may be obligated in accordance with subsection (a) until June 30, 1976, after which time they may be reallocated.”
+Subsec. (b). Pub. L. 100–690, § 7257(b), substituted “If” for “Except for funds appropriated for fiscal year 1975, if” and struck out after first sentence “Funds appropriated for fiscal year 1975 may be obligated in accordance with subsection (a) until June 30, 1976, after which time they may be reallocated.”
 
-1984—Subsec. (b). Pub. L. 98–473 substituted “the Trust Territory” for “and the Trust Territory” and inserted “, and the Commonwealth of the Northern Mariana Islands” after “Pacific Islands”.
+1984—Subsec. (b). Pub. L. 98–473 substituted “the Trust Territory” for “and the Trust Territory” and inserted “, and the Commonwealth of the Northern Mariana Islands” after “Pacific Islands”.
 
 1980—Subsec. (a). Pub. L. 96–509 inserted reference to the Commonwealth of the Northern Mariana Islands.
 
-1977—Subsec. (a). Pub. L. 95–115, § 4(b)(1), substituted “$225,000” for “$200,000” and “$56,250” for “$50,000”.
+1977—Subsec. (a). Pub. L. 95–115, § 4(b)(1), substituted “$225,000” for “$200,000” and “$56,250” for “$50,000”.
 
-Subsec. (c). Pub. L. 95–115, § 4(b)(2)(A), (B), (3), inserted provisions relating to pre-award activities, monitoring and evaluation payments, and matching requirements for expended or obligated amounts, and substituted “7½” for “15” and “units of general local government or combinations thereof” for “local governments”.
+Subsec. (c). Pub. L. 95–115, § 4(b)(2)(A), (B), (3), inserted provisions relating to pre-award activities, monitoring and evaluation payments, and matching requirements for expended or obligated amounts, and substituted “7½” for “15” and “units of general local government or combinations thereof” for “local governments”.
 
-Subsec. (d). Pub. L. 95–115, § 4(b)(2)(C), (4)(B), redesignated subsec. (e) as (d). Former subsec. (d), relating to limitations on financial assistance under this section, was struck out.
+Subsec. (d). Pub. L. 95–115, § 4(b)(2)(C), (4)(B), redesignated subsec. (e) as (d). Former subsec. (d), relating to limitations on financial assistance under this section, was struck out.
 
-Subsec. (e). Pub. L. 95–115, § 4(b)(4)(A), (B), added subsec. (e) and redesignated former subsec. (e) as (d).
+Subsec. (e). Pub. L. 95–115, § 4(b)(4)(A), (B), added subsec. (e) and redesignated former subsec. (e) as (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1551,13 +1551,13 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Amendment by section 4(b)(1), (3) of Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by section 4(b)(1), (3) of Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
-Pub. L. 95–115, § 4(b)(2)(D), Oct. 3, 1977, 91 Stat. 1051, provided that: “The amendments made by this paragraph [amending this section] shall take effect on October 1, 1978.”
+Pub. L. 95–115, § 4(b)(2)(D), Oct. 3, 1977, 91 Stat. 1051, provided that: “The amendments made by this paragraph [amending this section] shall take effect on October 1, 1978.”
 
-Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the amendment made by such section 4(b)(4)(B) is effective Oct. 1, 1978.
+Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that the amendment made by such section 4(b)(4)(B) is effective Oct. 1, 1978.
 
-#### § 11133. State plans
+#### § 11133. State plans
 
 **(a) Requirements** In order to receive formula grants under this part, a State shall submit a plan for carrying out its purposes applicable to a 3-year period. Such plan shall be amended annually to include new programs, projects, and activities. The State shall submit annual performance reports to the Administrator which shall describe progress in implementing programs contained in the original plan, and shall describe how the State plan is supported by or takes account of scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents. Not later than 60 days after the date on which a plan or amended plan submitted under this subsection is finalized, a State shall make the plan or amended plan publicly available by posting the plan or amended plan on the State’s publicly available website. In accordance with regulations which the Administrator shall prescribe, such plan shall—
 
@@ -1627,7 +1627,7 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that th
 
 **(C)** to provide funds for programs of Indian Tribes that agree to attempt to comply with the core requirements applicable to the detention and confinement of juveniles, an amount that bears the same ratio to the aggregate amount to be expended through programs referred to in subparagraphs (A) and (B) as the population under 18 years of age in the geographical areas in which such tribes perform such functions bears to the State population under 18 years of age,1
 
-<sup>1</sup>  So in original. The comma probably should be a semicolon.
+<sup>1</sup> So in original. The comma probably should be a semicolon.
 
 **(6)** provide for an equitable distribution of the assistance received under section 11132 of this title within the State, including in rural areas;
 
@@ -1693,9 +1693,9 @@ Pub. L. 95–115, § 4(b)(4)(B), Oct. 3, 1977, 91 Stat. 1051, provided that th
 
 **(ii)** to provide services to assist juveniles in making the transition to the world of work and self-sufficiency; and
 
-**(iii)** enhance 2
+**(iii)** enhance 2
 
-<sup>2</sup>  So in original. Probably should be “to enhance”.
+<sup>2</sup> So in original. Probably should be “to enhance”.
 
 coordination with the local schools that such juveniles would otherwise attend, to ensure that—
 
@@ -2009,9 +2009,9 @@ The State agency designated under subsection (a)(1), after receiving and conside
 
 **(d) Nonsubmission or nonqualification of plan; expenditure of allotted funds; availability of reallocated funds**
 
-In the event that any State chooses not to submit a plan, fails to submit a plan, or submits a plan or any modification thereof, which the Administrator, after reasonable notice and opportunity for hearing, in accordance with sections 10222 and 10223 of this title and 3785 of title 42 3
+In the event that any State chooses not to submit a plan, fails to submit a plan, or submits a plan or any modification thereof, which the Administrator, after reasonable notice and opportunity for hearing, in accordance with sections 10222 and 10223 of this title and 3785 of title 42 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 , determines does not meet the requirements of this section, the Administrator shall endeavor to make that State’s allocation under the provisions of section 11132(a) of this title, excluding funds the Administrator shall make available to satisfy the requirement specified in section 11132(d) of this title, available to local public and private nonprofit agencies within such State for use in carrying out activities of the kinds described in the core requirements. The Administrator shall make funds which remain available after disbursements are made by the Administrator under the preceding sentence, and any other unobligated funds, available on an equitable basis and to those States that have achieved full compliance with the core requirements.
 
@@ -2057,7 +2057,7 @@ For each fiscal year, the Administrator shall make a determination regarding whe
 
 **(B)** otherwise fail to make the compliance determinations required under paragraph (1).
 
-(Pub. L. 93–415, title II, § 223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, § 130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§ 3(a)(3)(B), 4(c), Oct. 3, 1977, 91 Stat. 1048, 1051; Pub. L. 96–509, §§ 11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, § 626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§ 7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, § 2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, § 110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, § 604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(C)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 142], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, § 12209, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 109–162, title III, § 305, Jan. 5, 2006, 119 Stat. 3016; Pub. L. 115–385, title II, § 205, Dec. 21, 2018, 132 Stat. 5131.)
+(Pub. L. 93–415, title II, § 223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, § 130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§ 3(a)(3)(B), 4(c), Oct. 3, 1977, 91 Stat. 1048, 1051; Pub. L. 96–509, §§ 11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, § 626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§ 7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, § 2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, § 110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, § 604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(C)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 142], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, § 12209, Nov. 2, 2002, 116 Stat. 1873; Pub. L. 109–162, title III, § 305, Jan. 5, 2006, 119 Stat. 3016; Pub. L. 115–385, title II, § 205, Dec. 21, 2018, 132 Stat. 5131.)
 
 **Editorial Notes**
 
@@ -2065,9 +2065,9 @@ For each fiscal year, the Administrator shall make a determination regarding whe
 
 This chapter, referred to in subsec. (a)(18), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(32), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(32), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-Section 3785 of title 42, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, § 1155(3), Jan. 5, 2006, 119 Stat. 3114.
+Section 3785 of title 42, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, § 1155(3), Jan. 5, 2006, 119 Stat. 3114.
 
 **Codification**
 
@@ -2075,149 +2075,149 @@ Section was formerly classified to section 5633 of Title 42, The Public Health a
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–385, § 205(1)(A), in introductory provisions, substituted “and shall describe how the State plan is supported by or takes account of scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents. Not later than 60 days after the date on which a plan or amended plan submitted under this subsection is finalized, a State shall make the plan or amended plan publicly available by posting the plan or amended plan on the State’s publicly available website.” for “and shall describe the status of compliance with State plan requirements.”
+2018—Subsec. (a). Pub. L. 115–385, § 205(1)(A), in introductory provisions, substituted “and shall describe how the State plan is supported by or takes account of scientific knowledge regarding adolescent development and behavior and regarding the effects of delinquency prevention programs and juvenile justice interventions on adolescents. Not later than 60 days after the date on which a plan or amended plan submitted under this subsection is finalized, a State shall make the plan or amended plan publicly available by posting the plan or amended plan on the State’s publicly available website.” for “and shall describe the status of compliance with State plan requirements.”
 
-Subsec. (a)(1). Pub. L. 115–385, § 205(1)(B), substituted “as designated by the chief executive officer of the State” for “described in section 11181(c)(1) of this title”.
+Subsec. (a)(1). Pub. L. 115–385, § 205(1)(B), substituted “as designated by the chief executive officer of the State” for “described in section 11181(c)(1) of this title”.
 
-Subsec. (a)(3)(A)(i). Pub. L. 115–385, § 205(1)(C)(i)(I), inserted “adolescent development,” after “concerning”.
+Subsec. (a)(3)(A)(i). Pub. L. 115–385, § 205(1)(C)(i)(I), inserted “adolescent development,” after “concerning”.
 
-Subsec. (a)(3)(A)(ii)(III). Pub. L. 115–385, § 205(1)(C)(i)(II)(aa), substituted “child and adolescent mental health, education, child and adolescent substance abuse, special education, services for youth with disabilities” for “mental health, education, special education”.
+Subsec. (a)(3)(A)(ii)(III). Pub. L. 115–385, § 205(1)(C)(i)(II)(aa), substituted “child and adolescent mental health, education, child and adolescent substance abuse, special education, services for youth with disabilities” for “mental health, education, special education”.
 
-Subsec. (a)(3)(A)(ii)(V). Pub. L. 115–385, § 205(1)(C)(i)(II)(bb), substituted “delinquent youth or youth at risk of delinquency” for “delinquents or potential delinquents”.
+Subsec. (a)(3)(A)(ii)(V). Pub. L. 115–385, § 205(1)(C)(i)(II)(bb), substituted “delinquent youth or youth at risk of delinquency” for “delinquents or potential delinquents”.
 
-Subsec. (a)(3)(A)(ii)(VI). Pub. L. 115–385, § 205(1)(C)(i)(II)(cc), substituted “representatives of” for “youth workers involved with”.
+Subsec. (a)(3)(A)(ii)(VI). Pub. L. 115–385, § 205(1)(C)(i)(II)(cc), substituted “representatives of” for “youth workers involved with”.
 
-Subsec. (a)(3)(A)(ii)(VIII) to (X). Pub. L. 115–385, § 205(1)(C)(i)(II)(dd), (ee), added subcls. (VIII) to (X) and struck out former subcl. (VIII) which read as follows: “persons with special experience and competence in addressing problems related to learning disabilities, emotional difficulties, child abuse and neglect, and youth violence;”.
+Subsec. (a)(3)(A)(ii)(VIII) to (X). Pub. L. 115–385, § 205(1)(C)(i)(II)(dd), (ee), added subcls. (VIII) to (X) and struck out former subcl. (VIII) which read as follows: “persons with special experience and competence in addressing problems related to learning disabilities, emotional difficulties, child abuse and neglect, and youth violence;”.
 
-Subsec. (a)(3)(A)(iv). Pub. L. 115–385, § 205(1)(C)(i)(III), substituted “28 at the time of initial appointment” for “24 at the time of appointment”.
+Subsec. (a)(3)(A)(iv). Pub. L. 115–385, § 205(1)(C)(i)(III), substituted “28 at the time of initial appointment” for “24 at the time of appointment”.
 
-Subsec. (a)(3)(A)(v). Pub. L. 115–385, § 205(1)(C)(i)(IV), inserted “or, if not feasible and in appropriate circumstances, who is the parent or guardian of someone who has been or is currently under the jurisdiction of the juvenile justice system” after “juvenile justice system”.
+Subsec. (a)(3)(A)(v). Pub. L. 115–385, § 205(1)(C)(i)(IV), inserted “or, if not feasible and in appropriate circumstances, who is the parent or guardian of someone who has been or is currently under the jurisdiction of the juvenile justice system” after “juvenile justice system”.
 
-Subsec. (a)(3)(C). Pub. L. 115–385, § 205(1)(C)(ii), substituted “45 days” for “30 days”.
+Subsec. (a)(3)(C). Pub. L. 115–385, § 205(1)(C)(ii), substituted “45 days” for “30 days”.
 
-Subsec. (a)(3)(D)(i). Pub. L. 115–385, § 205(1)(C)(iii)(I), struck out “and” at end.
+Subsec. (a)(3)(D)(i). Pub. L. 115–385, § 205(1)(C)(iii)(I), struck out “and” at end.
 
-Subsec. (a)(3)(D)(ii). Pub. L. 115–385, § 205(1)(C)(iii)(II), substituted “at least every 2 years a report and necessary recommendations regarding State compliance with the core requirements” for “at least annually recommendations regarding State compliance with the requirements of paragraphs (11), (12), and (13)”.
+Subsec. (a)(3)(D)(ii). Pub. L. 115–385, § 205(1)(C)(iii)(II), substituted “at least every 2 years a report and necessary recommendations regarding State compliance with the core requirements” for “at least annually recommendations regarding State compliance with the requirements of paragraphs (11), (12), and (13)”.
 
-Subsec. (a)(3)(E)(i). Pub. L. 115–385, § 205(1)(C)(iv)(I), inserted “and” at end.
+Subsec. (a)(3)(E)(i). Pub. L. 115–385, § 205(1)(C)(iv)(I), inserted “and” at end.
 
-Subsec. (a)(3)(E)(ii). Pub. L. 115–385, § 205(1)(C)(iv)(II), substituted semicolon for period at end.
+Subsec. (a)(3)(E)(ii). Pub. L. 115–385, § 205(1)(C)(iv)(II), substituted semicolon for period at end.
 
-Subsec. (a)(5)(C). Pub. L. 115–385, § 205(1)(D), substituted “Indian Tribes that agree to attempt to comply with the core requirements applicable to the detention and confinement of juveniles” for “Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior) and that agree to attempt to comply with the requirements specified in paragraphs (11), (12), and (13), applicable to the detention and confinement of juveniles”.
+Subsec. (a)(5)(C). Pub. L. 115–385, § 205(1)(D), substituted “Indian Tribes that agree to attempt to comply with the core requirements applicable to the detention and confinement of juveniles” for “Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior) and that agree to attempt to comply with the requirements specified in paragraphs (11), (12), and (13), applicable to the detention and confinement of juveniles”.
 
-Subsec. (a)(7)(A). Pub. L. 115–385, § 205(1)(E)(i), substituted “has jurisdiction” for “performs law enforcement functions”.
+Subsec. (a)(7)(A). Pub. L. 115–385, § 205(1)(E)(i), substituted “has jurisdiction” for “performs law enforcement functions”.
 
-Subsec. (a)(7)(B)(iv) to (ix). Pub. L. 115–385, § 205(1)(E)(ii), added cls. (iv) to (ix) and struck out former cl. (iv) which read as follows: “a plan for providing needed mental health services to juveniles in the juvenile justice system, including information on how such plan is being implemented and how such services will be targeted to those juveniles in such system who are in greatest need of such services;”.
+Subsec. (a)(7)(B)(iv) to (ix). Pub. L. 115–385, § 205(1)(E)(ii), added cls. (iv) to (ix) and struck out former cl. (iv) which read as follows: “a plan for providing needed mental health services to juveniles in the juvenile justice system, including information on how such plan is being implemented and how such services will be targeted to those juveniles in such system who are in greatest need of such services;”.
 
-Subsec. (a)(8). Pub. L. 115–385, § 205(1)(F), substituted “evidence-based and promising” for “existing”.
+Subsec. (a)(8). Pub. L. 115–385, § 205(1)(F), substituted “evidence-based and promising” for “existing”.
 
-Subsec. (a)(9). Pub. L. 115–385, § 205(1)(G)(i), inserted “, with priority in funding given to entities meeting the criteria for evidence-based or promising programs” after “used for” in introductory provisions.
+Subsec. (a)(9). Pub. L. 115–385, § 205(1)(G)(i), inserted “, with priority in funding given to entities meeting the criteria for evidence-based or promising programs” after “used for” in introductory provisions.
 
-Subsec. (a)(9)(A)(i). Pub. L. 115–385, § 205(1)(G)(ii)(I)(aa), inserted “status offenders and other” before “youth who need”.
+Subsec. (a)(9)(A)(i). Pub. L. 115–385, § 205(1)(G)(ii)(I)(aa), inserted “status offenders and other” before “youth who need”.
 
-Subsec. (a)(9)(A)(iii). Pub. L. 115–385, § 205(1)(G)(ii)(I)(bb)–(III), added cl. (iii).
+Subsec. (a)(9)(A)(iii). Pub. L. 115–385, § 205(1)(G)(ii)(I)(bb)–(III), added cl. (iii).
 
-Subsec. (a)(9)(B)(i). Pub. L. 115–385, § 205(1)(G)(iii), substituted “status offenders, other youth, and the parents and other family members of such offenders and youth” for “parents and other family members” and “remain” for “be retained”.
+Subsec. (a)(9)(B)(i). Pub. L. 115–385, § 205(1)(G)(iii), substituted “status offenders, other youth, and the parents and other family members of such offenders and youth” for “parents and other family members” and “remain” for “be retained”.
 
-Subsec. (a)(9)(E). Pub. L. 115–385, § 205(1)(G)(iv)(I), substituted “at-risk or delinquent youth” for “delinquent” in introductory provisions.
+Subsec. (a)(9)(E). Pub. L. 115–385, § 205(1)(G)(iv)(I), substituted “at-risk or delinquent youth” for “delinquent” in introductory provisions.
 
-Subsec. (a)(9)(E)(i). Pub. L. 115–385, § 205(1)(G)(iv)(II), inserted “, including for truancy prevention and reduction” before semicolon at end.
+Subsec. (a)(9)(E)(i). Pub. L. 115–385, § 205(1)(G)(iv)(II), inserted “, including for truancy prevention and reduction” before semicolon at end.
 
-Subsec. (a)(9)(F). Pub. L. 115–385, § 205(1)(G)(v), substituted “programs to expand” for “expanding” in introductory provisions.
+Subsec. (a)(9)(F). Pub. L. 115–385, § 205(1)(G)(v), substituted “programs to expand” for “expanding” in introductory provisions.
 
-Subsec. (a)(9)(G). Pub. L. 115–385, § 205(1)(G)(vii), added subpar. (G). Former subpar. (G) redesignated (H).
+Subsec. (a)(9)(G). Pub. L. 115–385, § 205(1)(G)(vii), added subpar. (G). Former subpar. (G) redesignated (H).
 
-Subsec. (a)(9)(H). Pub. L. 115–385, § 205(1)(G)(vi), (viii), redesignated subpar. (G) as (H) and substituted “State, tribal,” for “State,” in two places. Former subpar. (H) redesignated (I).
+Subsec. (a)(9)(H). Pub. L. 115–385, § 205(1)(G)(vi), (viii), redesignated subpar. (G) as (H) and substituted “State, tribal,” for “State,” in two places. Former subpar. (H) redesignated (I).
 
-Subsec. (a)(9)(I) to (L). Pub. L. 115–385, § 205(1)(G)(vi), redesignated subpars. (H) to (K) as (I) to (L), respectively. Former subpar. (L) redesignated (M).
+Subsec. (a)(9)(I) to (L). Pub. L. 115–385, § 205(1)(G)(vi), redesignated subpars. (H) to (K) as (I) to (L), respectively. Former subpar. (L) redesignated (M).
 
-Subsec. (a)(9)(M). Pub. L. 115–385, § 205(1)(G)(vi), redesignated subpar. (L) as (M). Former subpar. (M) redesignated (N).
+Subsec. (a)(9)(M). Pub. L. 115–385, § 205(1)(G)(vi), redesignated subpar. (L) as (M). Former subpar. (M) redesignated (N).
 
-Subsec. (a)(9)(M)(i). Pub. L. 115–385, § 205(1)(G)(ix)(I), substituted “continuum of pre-adjudication and post-adjudication alternatives” for “continuum of post-adjudication restraints” and inserted “specialized or problem-solving courts,” after “(including”.
+Subsec. (a)(9)(M)(i). Pub. L. 115–385, § 205(1)(G)(ix)(I), substituted “continuum of pre-adjudication and post-adjudication alternatives” for “continuum of post-adjudication restraints” and inserted “specialized or problem-solving courts,” after “(including”.
 
-Subsec. (a)(9)(M)(ii). Pub. L. 115–385, § 205(1)(G)(ix)(II), struck out “by the provision by the Administrator” before “of information” and “to States” before “in the design”.
+Subsec. (a)(9)(M)(ii). Pub. L. 115–385, § 205(1)(G)(ix)(II), struck out “by the provision by the Administrator” before “of information” and “to States” before “in the design”.
 
-Subsec. (a)(9)(N). Pub. L. 115–385, § 205(1)(G)(vi), (x), redesignated subpar. (M) as (N), inserted “and reduce the risk of recidivism” after “families”, and struck out “so that such juveniles may be retained in their homes” before semicolon at end. Former subpar. (N) redesignated (O).
+Subsec. (a)(9)(N). Pub. L. 115–385, § 205(1)(G)(vi), (x), redesignated subpar. (M) as (N), inserted “and reduce the risk of recidivism” after “families”, and struck out “so that such juveniles may be retained in their homes” before semicolon at end. Former subpar. (N) redesignated (O).
 
-Subsec. (a)(9)(O) to (R). Pub. L. 115–385, § 205(1)(G)(vi), redesignated subpars. (N) to (Q) as (O) to (R), respectively. Former subpar. (R) redesignated (S).
+Subsec. (a)(9)(O) to (R). Pub. L. 115–385, § 205(1)(G)(vi), redesignated subpars. (N) to (Q) as (O) to (R), respectively. Former subpar. (R) redesignated (S).
 
-Subsec. (a)(9)(S). Pub. L. 115–385, § 205(1)(G)(vi), (xi), redesignated subpar. (R) as (S) and struck out “and” at end. Former subpar. (S) redesignated (T).
+Subsec. (a)(9)(S). Pub. L. 115–385, § 205(1)(G)(vi), (xi), redesignated subpar. (R) as (S) and struck out “and” at end. Former subpar. (S) redesignated (T).
 
-Subsec. (a)(9)(T). Pub. L. 115–385, § 205(1)(G)(vi), (xii), redesignated subpar. (S) as (T) and substituted “mental health or co-occurring disorder services for court-involved or incarcerated juveniles in need of such services, including assessment, development of individualized treatment plans, provision of treatment, and development of discharge plans;” for “mental health services for incarcerated juveniles suspected to be in need of such services, including assessment, development of individualized treatment plans, and discharge plans.”
+Subsec. (a)(9)(T). Pub. L. 115–385, § 205(1)(G)(vi), (xii), redesignated subpar. (S) as (T) and substituted “mental health or co-occurring disorder services for court-involved or incarcerated juveniles in need of such services, including assessment, development of individualized treatment plans, provision of treatment, and development of discharge plans;” for “mental health services for incarcerated juveniles suspected to be in need of such services, including assessment, development of individualized treatment plans, and discharge plans.”
 
-Subsec. (a)(9)(U) to (W). Pub. L. 115–385, § 205(1)(G)(xiii), added subpars. (U) to (W).
+Subsec. (a)(9)(U) to (W). Pub. L. 115–385, § 205(1)(G)(xiii), added subpars. (U) to (W).
 
-Subsec. (a)(11). Pub. L. 115–385, § 205(1)(H), added par. (11) and struck out former par. (11) which prohibited placement of juveniles in secure detention facilities or secure correctional facilities under certain circumstances.
+Subsec. (a)(11). Pub. L. 115–385, § 205(1)(H), added par. (11) and struck out former par. (11) which prohibited placement of juveniles in secure detention facilities or secure correctional facilities under certain circumstances.
 
-Subsec. (a)(12)(A). Pub. L. 115–385, § 205(1)(I), substituted “sight or sound contact” for “contact”.
+Subsec. (a)(12)(A). Pub. L. 115–385, § 205(1)(I), substituted “sight or sound contact” for “contact”.
 
-Subsec. (a)(13). Pub. L. 115–385, § 205(1)(J), substituted “sight or sound contact” for “contact” in concluding provisions of subpar. (A) and in subpar. (B)(i)(I).
+Subsec. (a)(13). Pub. L. 115–385, § 205(1)(J), substituted “sight or sound contact” for “contact” in concluding provisions of subpar. (A) and in subpar. (B)(i)(I).
 
-Subsec. (a)(14). Pub. L. 115–385, § 205(1)(K), substituted “an effective system of monitoring jails, lock-ups, detention facilities, and correctional facilities to ensure that the core requirements are met” for “an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met” and struck out “, in the opinion of the Administrator,” before “sufficient enforcement mechanisms”.
+Subsec. (a)(14). Pub. L. 115–385, § 205(1)(K), substituted “an effective system of monitoring jails, lock-ups, detention facilities, and correctional facilities to ensure that the core requirements are met” for “an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met” and struck out “, in the opinion of the Administrator,” before “sufficient enforcement mechanisms”.
 
-Subsec. (a)(15). Pub. L. 115–385, § 205(1)(O), added par. (15). Former par. (15) redesignated (16).
+Subsec. (a)(15). Pub. L. 115–385, § 205(1)(O), added par. (15). Former par. (15) redesignated (16).
 
-Subsec. (a)(16). Pub. L. 115–385, § 205(1)(N), (P), redesignated par. (15) as (16) and inserted “ethnicity,” after “race,”. Former par. (16) redesignated (17).
+Subsec. (a)(16). Pub. L. 115–385, § 205(1)(N), (P), redesignated par. (15) as (16) and inserted “ethnicity,” after “race,”. Former par. (16) redesignated (17).
 
-Subsec. (a)(17) to (20). Pub. L. 115–385, § 205(1)(N), redesignated pars. (16) to (19) as (17) to (20), respectively. Former par. (20) redesignated (21).
+Subsec. (a)(17) to (20). Pub. L. 115–385, § 205(1)(N), redesignated pars. (16) to (19) as (17) to (20), respectively. Former par. (20) redesignated (21).
 
-Subsec. (a)(21). Pub. L. 115–385, § 205(1)(N), (Q), redesignated par. (20) as (21) and substituted “local, tribal,” for “local,” in two places. Former par. (21) redesignated (22).
+Subsec. (a)(21). Pub. L. 115–385, § 205(1)(N), (Q), redesignated par. (20) as (21) and substituted “local, tribal,” for “local,” in two places. Former par. (21) redesignated (22).
 
-Subsec. (a)(22). Pub. L. 115–385, § 205(1)(L), (N), redesignated par. (21) as (22) and struck out former par. (22) which read as follows: “address juvenile delinquency prevention efforts and system improvement efforts designed to reduce, without establishing or requiring numerical standards or quotas, the disproportionate number of juvenile members of minority groups, who come into contact with the juvenile justice system;”.
+Subsec. (a)(22). Pub. L. 115–385, § 205(1)(L), (N), redesignated par. (21) as (22) and struck out former par. (22) which read as follows: “address juvenile delinquency prevention efforts and system improvement efforts designed to reduce, without establishing or requiring numerical standards or quotas, the disproportionate number of juvenile members of minority groups, who come into contact with the juvenile justice system;”.
 
-Subsec. (a)(23). Pub. L. 115–385, § 205(1)(R)(i), substituted “such status offender” for “such juvenile” wherever appearing in subpars. (A) to (C).
+Subsec. (a)(23). Pub. L. 115–385, § 205(1)(R)(i), substituted “such status offender” for “such juvenile” wherever appearing in subpars. (A) to (C).
 
-Subsec. (a)(23)(C)(iii). Pub. L. 115–385, § 205(1)(R)(iii), added cl. (iii).
+Subsec. (a)(23)(C)(iii). Pub. L. 115–385, § 205(1)(R)(iii), added cl. (iii).
 
-Subsec. (a)(23)(D). Pub. L. 115–385, § 205(1)(R)(ii), (iv), added subpar. (D).
+Subsec. (a)(23)(D). Pub. L. 115–385, § 205(1)(R)(ii), (iv), added subpar. (D).
 
-Subsec. (a)(26). Pub. L. 115–385, § 205(1)(S), inserted “and in accordance with confidentiality concerns,” after “maximum extent practicable,” and substituted “known to such court, so as to provide for—” and subpars. (A) and (B) for “known to such court;”.
+Subsec. (a)(26). Pub. L. 115–385, § 205(1)(S), inserted “and in accordance with confidentiality concerns,” after “maximum extent practicable,” and substituted “known to such court, so as to provide for—” and subpars. (A) and (B) for “known to such court;”.
 
-Subsec. (a)(27). Pub. L. 115–385, § 205(1)(L), (M), redesignated par. (28) as (27) and struck out former par. (27) which read as follows: “establish policies and systems to incorporate relevant child protective services records into juvenile justice records for purposes of establishing and implementing treatment plans for juvenile offenders; and”.
+Subsec. (a)(27). Pub. L. 115–385, § 205(1)(L), (M), redesignated par. (28) as (27) and struck out former par. (27) which read as follows: “establish policies and systems to incorporate relevant child protective services records into juvenile justice records for purposes of establishing and implementing treatment plans for juvenile offenders; and”.
 
-Subsec. (a)(28) to (33). Pub. L. 115–385, § 205(1)(T), (U), added pars. (28) to (33). Former par. (28) redesignated (27).
+Subsec. (a)(28) to (33). Pub. L. 115–385, § 205(1)(T), (U), added pars. (28) to (33). Former par. (28) redesignated (27).
 
-Subsec. (c). Pub. L. 115–385, § 205(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) set out consequences for States that failed to comply with certain statutory requirements in subsec. (a) of this section in any fiscal year beginning after Sept. 30, 2001.
+Subsec. (c). Pub. L. 115–385, § 205(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) set out consequences for States that failed to comply with certain statutory requirements in subsec. (a) of this section in any fiscal year beginning after Sept. 30, 2001.
 
-Subsec. (d). Pub. L. 115–385, § 205(3), substituted “described in the core requirements” for “described in paragraphs (11), (12), (13), and (22) of subsection (a)” and “the core requirements” for “the requirements under paragraphs (11), (12), (13), and (22) of subsection (a)”.
+Subsec. (d). Pub. L. 115–385, § 205(3), substituted “described in the core requirements” for “described in paragraphs (11), (12), (13), and (22) of subsection (a)” and “the core requirements” for “the requirements under paragraphs (11), (12), (13), and (22) of subsection (a)”.
 
-Subsec. (f)(2). Pub. L. 115–385, § 205(4), redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “conducting an annual conference of such member representatives for purposes relating to the activities of such State advisory groups;”.
+Subsec. (f)(2). Pub. L. 115–385, § 205(4), redesignated subpars. (B) to (E) as (A) to (D), respectively, and struck out former subpar. (A) which read as follows: “conducting an annual conference of such member representatives for purposes relating to the activities of such State advisory groups;”.
 
-Subsec. (g). Pub. L. 115–385, § 205(5), added subsec. (g).
+Subsec. (g). Pub. L. 115–385, § 205(5), added subsec. (g).
 
 2006—Subsec. (a)(7)(B)(i) to (iv). Pub. L. 109–162 added cl. (i) and redesignated former cls. (i) to (iii) as (ii) to (iv), respectively.
 
-2002—Subsec. (a). Pub. L. 107–273, § 12209(1)(A), substituted “, projects, and activities” for “and challenge activities subsequent to State participation in part E of this subchapter” in second sentence of introductory provisions.
+2002—Subsec. (a). Pub. L. 107–273, § 12209(1)(A), substituted “, projects, and activities” for “and challenge activities subsequent to State participation in part E of this subchapter” in second sentence of introductory provisions.
 
-Subsec. (a)(3). Pub. L. 107–273, § 12209(1)(B)(i), substituted “that—” for “, which—” in introductory provisions.
+Subsec. (a)(3). Pub. L. 107–273, § 12209(1)(B)(i), substituted “that—” for “, which—” in introductory provisions.
 
-Subsec. (a)(3)(A)(i). Pub. L. 107–273, § 12209(1)(B)(ii), substituted “, the administration of juvenile justice, or the reduction of juvenile delinquency” for “or the administration of juvenile justice”.
+Subsec. (a)(3)(A)(i). Pub. L. 107–273, § 12209(1)(B)(ii), substituted “, the administration of juvenile justice, or the reduction of juvenile delinquency” for “or the administration of juvenile justice”.
 
-Subsec. (a)(3)(D)(i). Pub. L. 107–273, § 12209(1)(B)(iii)(I), inserted “and” at end.
+Subsec. (a)(3)(D)(i). Pub. L. 107–273, § 12209(1)(B)(iii)(I), inserted “and” at end.
 
-Subsec. (a)(3)(D)(ii). Pub. L. 107–273, § 12209(1)(B)(iii)(II), substituted “paragraphs (11), (12), and (13)” for “paragraphs (12), (13), and (14) and with progress relating to challenge activities carried out pursuant to part E of this subchapter”.
+Subsec. (a)(3)(D)(ii). Pub. L. 107–273, § 12209(1)(B)(iii)(II), substituted “paragraphs (11), (12), and (13)” for “paragraphs (12), (13), and (14) and with progress relating to challenge activities carried out pursuant to part E of this subchapter”.
 
-Subsec. (a)(5). Pub. L. 107–273, § 12209(1)(C)(i), substituted “reduced by the percentage (if any) specified by the State under the authority of paragraph (25) and excluding” for “, other than” in introductory provisions.
+Subsec. (a)(5). Pub. L. 107–273, § 12209(1)(C)(i), substituted “reduced by the percentage (if any) specified by the State under the authority of paragraph (25) and excluding” for “, other than” in introductory provisions.
 
-Subsec. (a)(5)(C). Pub. L. 107–273, § 12209(1)(C)(ii), substituted “paragraphs (11), (12), and (13)” for “paragraphs (12)(A), (13), and (14)”.
+Subsec. (a)(5)(C). Pub. L. 107–273, § 12209(1)(C)(ii), substituted “paragraphs (11), (12), and (13)” for “paragraphs (12)(A), (13), and (14)”.
 
-Subsec. (a)(6). Pub. L. 107–273, § 12209(1)(D), (S), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “provide that the chief executive officer of the unit of local government shall assign responsibility for the preparation and administration of the local government’s part of a State plan, or for the supervision of the preparation and administration of the local government’s part of the State plan, to that agency within the local government’s structure or to a regional planning agency (hereinafter in this part referred to as the ‘local agency’) which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;”.
+Subsec. (a)(6). Pub. L. 107–273, § 12209(1)(D), (S), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “provide that the chief executive officer of the unit of local government shall assign responsibility for the preparation and administration of the local government’s part of a State plan, or for the supervision of the preparation and administration of the local government’s part of the State plan, to that agency within the local government’s structure or to a regional planning agency (hereinafter in this part referred to as the ‘local agency’) which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;”.
 
-Subsec. (a)(7). Pub. L. 107–273, § 12209(1)(S), redesignated par. (8) as (7). Former par. (7) redesignated (6).
+Subsec. (a)(7). Pub. L. 107–273, § 12209(1)(S), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
-Pub. L. 107–273, § 12209(1)(E), inserted “, including in rural areas” before semicolon at end.
+Pub. L. 107–273, § 12209(1)(E), inserted “, including in rural areas” before semicolon at end.
 
-Subsec. (a)(8). Pub. L. 107–273, § 12209(1)(S), redesignated par. (9) as (8). Former par. (8) redesignated (7).
+Subsec. (a)(8). Pub. L. 107–273, § 12209(1)(S), redesignated par. (9) as (8). Former par. (8) redesignated (7).
 
-Subsec. (a)(8)(A). Pub. L. 107–273, § 12209(1)(F)(i), substituted “for an analysis of juvenile delinquency problems in, and the juvenile delinquency control and delinquency prevention needs (including educational needs) of, the State” for “for (i) an analysis of juvenile crime problems (including the joining of gangs that commit crimes) and juvenile justice and delinquency prevention needs (including educational needs) within the relevant jurisdiction” and “of the State; and” for “of the jurisdiction; (ii) an indication of the manner in which the programs relate to other similar State or local programs which are intended to address the same or similar problems; and (iii) a plan for the concentration of State efforts which shall coordinate all State juvenile delinquency programs with respect to overall policy and development of objectives and priorities for all State juvenile delinquency programs and activities, including provision for regular meetings of State officials with responsibility in the area of juvenile justice and delinquency prevention;”.
+Subsec. (a)(8)(A). Pub. L. 107–273, § 12209(1)(F)(i), substituted “for an analysis of juvenile delinquency problems in, and the juvenile delinquency control and delinquency prevention needs (including educational needs) of, the State” for “for (i) an analysis of juvenile crime problems (including the joining of gangs that commit crimes) and juvenile justice and delinquency prevention needs (including educational needs) within the relevant jurisdiction” and “of the State; and” for “of the jurisdiction; (ii) an indication of the manner in which the programs relate to other similar State or local programs which are intended to address the same or similar problems; and (iii) a plan for the concentration of State efforts which shall coordinate all State juvenile delinquency programs with respect to overall policy and development of objectives and priorities for all State juvenile delinquency programs and activities, including provision for regular meetings of State officials with responsibility in the area of juvenile justice and delinquency prevention;”.
 
-Subsec. (a)(8)(B). Pub. L. 107–273, § 12209(1)(F)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “contain—
+Subsec. (a)(8)(B). Pub. L. 107–273, § 12209(1)(F)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “contain—
 
 “(i) an analysis of gender-specific services for the prevention and treatment of juvenile delinquency, including the types of such services available and the need for such services for females; and
 
 “(ii) a plan for providing needed gender-specific services for the prevention and treatment of juvenile delinquency;”.
 
-Subsec. (a)(8)(C), (D). Pub. L. 107–273, § 12209(1)(F)(iii), struck out subpars. (C) and (D) which read as follows:
+Subsec. (a)(8)(C), (D). Pub. L. 107–273, § 12209(1)(F)(iii), struck out subpars. (C) and (D) which read as follows:
 
 “(C) contain—
 
@@ -2231,17 +2231,17 @@ Subsec. (a)(8)(C), (D). Pub. L. 107–273, § 12209(1)(F)(iii), struck out sub
 
 “(ii) a plan for providing needed mental health services to juveniles in the juvenile justice system;”.
 
-Subsec. (a)(9). Pub. L. 107–273, § 12209(1)(S), redesignated par. (10) as (9). Former par. (9) redesignated (8).
+Subsec. (a)(9). Pub. L. 107–273, § 12209(1)(S), redesignated par. (10) as (9). Former par. (9) redesignated (8).
 
-Pub. L. 107–273, § 12209(1)(G), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “provide for the active consultation with and participation of private agencies in the development and execution of the State plan; and provide for coordination and maximum utilization of existing juvenile delinquency programs and other related programs, such as education, special education, recreation, health, and welfare within the State;”.
+Pub. L. 107–273, § 12209(1)(G), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “provide for the active consultation with and participation of private agencies in the development and execution of the State plan; and provide for coordination and maximum utilization of existing juvenile delinquency programs and other related programs, such as education, special education, recreation, health, and welfare within the State;”.
 
-Subsec. (a)(10). Pub. L. 107–273, § 12209(1)(S), redesignated par. (11) as (10). Former par. (10) redesignated (9).
+Subsec. (a)(10). Pub. L. 107–273, § 12209(1)(S), redesignated par. (11) as (10). Former par. (10) redesignated (9).
 
-Subsec. (a)(10)(A). Pub. L. 107–273, § 12209(1)(H)(i), substituted “including” for “, specifically” in introductory provisions, redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “for youth who can remain at home with assistance: home probation and programs providing professional supervised group activities or individualized mentoring relationships with adults that involve the family and provide counseling and other supportive services;”.
+Subsec. (a)(10)(A). Pub. L. 107–273, § 12209(1)(H)(i), substituted “including” for “, specifically” in introductory provisions, redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “for youth who can remain at home with assistance: home probation and programs providing professional supervised group activities or individualized mentoring relationships with adults that involve the family and provide counseling and other supportive services;”.
 
-Subsec. (a)(10)(D). Pub. L. 107–273, § 12209(1)(H)(ii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “projects designed to develop and implement programs stressing advocacy activities aimed at improving services for and protecting the rights of youth affected by the juvenile justice system;”.
+Subsec. (a)(10)(D). Pub. L. 107–273, § 12209(1)(H)(ii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “projects designed to develop and implement programs stressing advocacy activities aimed at improving services for and protecting the rights of youth affected by the juvenile justice system;”.
 
-Subsec. (a)(10)(E). Pub. L. 107–273, § 12209(1)(H)(iii), substituted “juveniles—” for “juveniles, provided equitably regardless of sex, race, or family income, designed to—” in introductory provisions, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i) which read as follows: “encourage juveniles to remain in elementary and secondary schools or in alternative learning situations, including—
+Subsec. (a)(10)(E). Pub. L. 107–273, § 12209(1)(H)(iii), substituted “juveniles—” for “juveniles, provided equitably regardless of sex, race, or family income, designed to—” in introductory provisions, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struck out former cl. (i) which read as follows: “encourage juveniles to remain in elementary and secondary schools or in alternative learning situations, including—
 
 “(I) education in settings that promote experiential, individualized learning and exploration of academic and career options;
 
@@ -2251,49 +2251,49 @@ Subsec. (a)(10)(E). Pub. L. 107–273, § 12209(1)(H)(iii), substituted “juv
 
 “(IV) programs to counsel delinquent juveniles and other juveniles regarding the opportunities that education provides; and”.
 
-Subsec. (a)(10)(F). Pub. L. 107–273, § 12209(1)(H)(iv), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “expanded use of home probation and recruitment and training of home probation officers, other professional and paraprofessional personnel, and volunteers to work effectively to allow youth to remain at home with their families as an alternative to incarceration or institutionalization;”.
+Subsec. (a)(10)(F). Pub. L. 107–273, § 12209(1)(H)(iv), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “expanded use of home probation and recruitment and training of home probation officers, other professional and paraprofessional personnel, and volunteers to work effectively to allow youth to remain at home with their families as an alternative to incarceration or institutionalization;”.
 
-Subsec. (a)(10)(G). Pub. L. 107–273, § 12209(1)(H)(v), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “youth-initiated outreach programs designed to assist youth (including youth with limited proficiency in English) who otherwise would not be reached by traditional youth assistance programs;”.
+Subsec. (a)(10)(G). Pub. L. 107–273, § 12209(1)(H)(v), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “youth-initiated outreach programs designed to assist youth (including youth with limited proficiency in English) who otherwise would not be reached by traditional youth assistance programs;”.
 
-Subsec. (a)(10)(H). Pub. L. 107–273, § 12209(1)(H)(vii), substituted “juveniles with disabilities” for “handicapped youth”.
+Subsec. (a)(10)(H). Pub. L. 107–273, § 12209(1)(H)(vii), substituted “juveniles with disabilities” for “handicapped youth”.
 
-Subsec. (a)(10)(K). Pub. L. 107–273, § 12209(1)(H)(viii), (xiii), redesignated subpar. (L) as (K) and struck out former subpar. (K) which read as follows: “law-related education programs (and projects) for delinquent and at-risk youth designed to prevent juvenile delinquency;”.
+Subsec. (a)(10)(K). Pub. L. 107–273, § 12209(1)(H)(viii), (xiii), redesignated subpar. (L) as (K) and struck out former subpar. (K) which read as follows: “law-related education programs (and projects) for delinquent and at-risk youth designed to prevent juvenile delinquency;”.
 
-Subsec. (a)(10)(L). Pub. L. 107–273, § 12209(1)(H)(xiii), redesignated subpar. (M) as (L). Former subpar. (L) redesignated (K).
+Subsec. (a)(10)(L). Pub. L. 107–273, § 12209(1)(H)(xiii), redesignated subpar. (M) as (L). Former subpar. (L) redesignated (K).
 
-Subsec. (a)(10)(L)(vi). Pub. L. 107–273, § 12209(1)(H)(ix), struck out cl. (vi) which read as follows: “a sense of competence and mastery including health and physical competence, personal and social competence, cognitive and creative competence, vocational competence, and citizenship competence, including ethics and participation;”.
+Subsec. (a)(10)(L)(vi). Pub. L. 107–273, § 12209(1)(H)(ix), struck out cl. (vi) which read as follows: “a sense of competence and mastery including health and physical competence, personal and social competence, cognitive and creative competence, vocational competence, and citizenship competence, including ethics and participation;”.
 
-Subsec. (a)(10)(M). Pub. L. 107–273, § 12209(1)(H)(xiii), redesignated subpar. (N) as (M). Former subpar. (M) redesignated (L).
+Subsec. (a)(10)(M). Pub. L. 107–273, § 12209(1)(H)(xiii), redesignated subpar. (N) as (M). Former subpar. (M) redesignated (L).
 
-Subsec. (a)(10)(M)(i). Pub. L. 107–273, § 12209(1)(H)(x), struck out “boot camps” after “electronic monitoring,”.
+Subsec. (a)(10)(M)(i). Pub. L. 107–273, § 12209(1)(H)(x), struck out “boot camps” after “electronic monitoring,”.
 
-Subsec. (a)(10)(N). Pub. L. 107–273, § 12209(1)(H)(xiii), redesignated subpar. (O) as (N). Former subpar. (N) redesignated (M).
+Subsec. (a)(10)(N). Pub. L. 107–273, § 12209(1)(H)(xiii), redesignated subpar. (O) as (N). Former subpar. (N) redesignated (M).
 
-Pub. L. 107–273, § 12209(1)(H)(xi), amended subpar. (N) generally. Prior to amendment, subpar. (N) read as follows: “programs designed to prevent and reduce hate crimes committed by juveniles, including educational programs and sentencing programs designed specifically for juveniles who commit hate crimes and that provide alternatives to incarceration; and”.
+Pub. L. 107–273, § 12209(1)(H)(xi), amended subpar. (N) generally. Prior to amendment, subpar. (N) read as follows: “programs designed to prevent and reduce hate crimes committed by juveniles, including educational programs and sentencing programs designed specifically for juveniles who commit hate crimes and that provide alternatives to incarceration; and”.
 
-Subsec. (a)(10)(O). Pub. L. 107–273, § 12209(1)(H)(xiv), added subpar. (O). Former subpar. (O) redesignated (N).
+Subsec. (a)(10)(O). Pub. L. 107–273, § 12209(1)(H)(xiv), added subpar. (O). Former subpar. (O) redesignated (N).
 
-Pub. L. 107–273, § 12209(1)(H)(xii), substituted “other barriers” for “cultural barriers” and semicolon for period at end.
+Pub. L. 107–273, § 12209(1)(H)(xii), substituted “other barriers” for “cultural barriers” and semicolon for period at end.
 
-Subsec. (a)(10)(P) to (S). Pub. L. 107–273, § 12209(1)(H)(xiv), added subpars. (P) to (S).
+Subsec. (a)(10)(P) to (S). Pub. L. 107–273, § 12209(1)(H)(xiv), added subpars. (P) to (S).
 
-Subsec. (a)(11). Pub. L. 107–273, § 12209(1)(S), redesignated par. (12) as (11). Former par. (11) redesignated (10).
+Subsec. (a)(11). Pub. L. 107–273, § 12209(1)(S), redesignated par. (12) as (11). Former par. (11) redesignated (10).
 
-Subsec. (a)(12). Pub. L. 107–273, § 12209(1)(S), redesignated par. (13) as (12). Former par. (12) redesignated (11).
+Subsec. (a)(12). Pub. L. 107–273, § 12209(1)(S), redesignated par. (13) as (12). Former par. (12) redesignated (11).
 
-Pub. L. 107–273, § 12209(1)(I), amended par. (12) generally. Prior to amendment, par. (12) read as follows:
+Pub. L. 107–273, § 12209(1)(I), amended par. (12) generally. Prior to amendment, par. (12) read as follows:
 
 “(A) provide within three years after submission of the initial plan that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult or offenses (other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law), or alien juveniles in custody, or such nonoffenders as dependent or neglected children, shall not be placed in secure detention facilities or secure correctional facilities; and
 
 “(B) provide that the State shall submit annual reports to the Administrator containing a review of the progress made by the State to achieve the deinstitutionalization of juveniles described in subparagraph (A) and a review of the progress made by the State to provide that such juveniles, if placed in facilities, are placed in facilities which (i) are the least restrictive alternatives appropriate to the needs of the child and the community; (ii) are in reasonable proximity to the family and the home communities of such juveniles; and (iii) provide the services described in section 5603(1) of this title;”.
 
-Subsec. (a)(13). Pub. L. 107–273, § 12209(1)(S), redesignated par. (14) as (13). Former par. (13) redesignated (12).
+Subsec. (a)(13). Pub. L. 107–273, § 12209(1)(S), redesignated par. (14) as (13). Former par. (13) redesignated (12).
 
-Pub. L. 107–273, § 12209(1)(J), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “provide that juveniles alleged to be or found to be delinquent and youths within the purview of paragraph (12) shall not be detained or confined in any institution in which they have contact with adult persons incarcerated because they have been convicted of a crime or are awaiting trial on criminal charges or with the part-time or full-time security staff (including management) or direct-care staff of a jail or lockup for adults;”.
+Pub. L. 107–273, § 12209(1)(J), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “provide that juveniles alleged to be or found to be delinquent and youths within the purview of paragraph (12) shall not be detained or confined in any institution in which they have contact with adult persons incarcerated because they have been convicted of a crime or are awaiting trial on criminal charges or with the part-time or full-time security staff (including management) or direct-care staff of a jail or lockup for adults;”.
 
-Subsec. (a)(14). Pub. L. 107–273, § 12209(1)(S), redesignated par. (15) as (14). Former par. (14) redesignated (13).
+Subsec. (a)(14). Pub. L. 107–273, § 12209(1)(S), redesignated par. (15) as (14). Former par. (14) redesignated (13).
 
-Pub. L. 107–273, § 12209(1)(K), amended par. (14) generally. Prior to amendment, par. (14) read as follows: “provide that no juvenile shall be detained or confined in any jail or lockup for adults, except that the Administrator shall, through 1997, promulgate regulations which make exceptions with regard to the detention of juveniles accused of nonstatus offenses who are awaiting an initial court appearance pursuant to an enforceable State law requiring such appearances within twenty-four hours (except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002) after being taken into custody (excluding weekends and holidays) provided that such exceptions are limited to areas that are in compliance with paragraph (13) and—
+Pub. L. 107–273, § 12209(1)(K), amended par. (14) generally. Prior to amendment, par. (14) read as follows: “provide that no juvenile shall be detained or confined in any jail or lockup for adults, except that the Administrator shall, through 1997, promulgate regulations which make exceptions with regard to the detention of juveniles accused of nonstatus offenses who are awaiting an initial court appearance pursuant to an enforceable State law requiring such appearances within twenty-four hours (except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002) after being taken into custody (excluding weekends and holidays) provided that such exceptions are limited to areas that are in compliance with paragraph (13) and—
 
 “(A)(i) are outside a Standard Metropolitan Statistical Area; and
 
@@ -2303,19 +2303,19 @@ Pub. L. 107–273, § 12209(1)(K), amended par. (14) generally. Prior to amend
 
 “(C) are located where conditions of safety exist (such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonably safe travel;”.
 
-Subsec. (a)(15). Pub. L. 107–273, § 12209(1)(S), redesignated par. (16) as (15). Former par. (15) redesignated (14).
+Subsec. (a)(15). Pub. L. 107–273, § 12209(1)(S), redesignated par. (16) as (15). Former par. (15) redesignated (14).
 
-Pub. L. 107–273, § 12209(1)(L), substituted “paragraphs (11), (12), and (13)” for “paragraph (12)(A), paragraph (13), and paragraph (14)” and “paragraphs (11) and (12)” for “paragraph (12)(A) and paragraph (13)”.
+Pub. L. 107–273, § 12209(1)(L), substituted “paragraphs (11), (12), and (13)” for “paragraph (12)(A), paragraph (13), and paragraph (14)” and “paragraphs (11) and (12)” for “paragraph (12)(A) and paragraph (13)”.
 
-Subsec. (a)(16). Pub. L. 107–273, § 12209(1)(S), redesignated par. (17) as (16). Former par. (16) redesignated (15).
+Subsec. (a)(16). Pub. L. 107–273, § 12209(1)(S), redesignated par. (17) as (16). Former par. (16) redesignated (15).
 
-Pub. L. 107–273, § 12209(1)(M), substituted “disability” for “mentally, emotionally, or physically handicapping conditions”.
+Pub. L. 107–273, § 12209(1)(M), substituted “disability” for “mentally, emotionally, or physically handicapping conditions”.
 
-Subsec. (a)(17), (18). Pub. L. 107–273, § 12209(1)(S), redesignated pars. (18) and (19) as (17) and (18), respectively. Former par. (17) redesignated (16).
+Subsec. (a)(17), (18). Pub. L. 107–273, § 12209(1)(S), redesignated pars. (18) and (19) as (17) and (18), respectively. Former par. (17) redesignated (16).
 
-Subsec. (a)(19). Pub. L. 107–273, § 12209(1)(S), redesignated par. (20) as (19). Former par. (19) redesignated (18).
+Subsec. (a)(19). Pub. L. 107–273, § 12209(1)(S), redesignated par. (20) as (19). Former par. (19) redesignated (18).
 
-Pub. L. 107–273, § 12209(1)(N), amended par. (19) generally. Prior to amendment, par. (19) read as follows: “provide that fair and equitable arrangements shall be made to protect the interests of employees affected by assistance under this chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such protective arrangements shall, to the maximum extent feasible, include, without being limited to, such provisions as may be necessary for—
+Pub. L. 107–273, § 12209(1)(N), amended par. (19) generally. Prior to amendment, par. (19) read as follows: “provide that fair and equitable arrangements shall be made to protect the interests of employees affected by assistance under this chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such protective arrangements shall, to the maximum extent feasible, include, without being limited to, such provisions as may be necessary for—
 
 “(A) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective-bargaining agreements or otherwise;
 
@@ -2327,29 +2327,29 @@ Pub. L. 107–273, § 12209(1)(N), amended par. (19) generally. Prior to amend
 
 “(E) training or retraining programs;”.
 
-Subsec. (a)(20), (21). Pub. L. 107–273, § 12209(1)(S), redesignated pars. (21) and (22) as (20) and (21), respectively. Former par. (20) redesignated (19).
+Subsec. (a)(20), (21). Pub. L. 107–273, § 12209(1)(S), redesignated pars. (21) and (22) as (20) and (21), respectively. Former par. (20) redesignated (19).
 
-Subsec. (a)(22). Pub. L. 107–273, § 12209(1)(S), redesignated par. (23) as (22). Former par. (22) redesignated (21).
+Subsec. (a)(22). Pub. L. 107–273, § 12209(1)(S), redesignated par. (23) as (22). Former par. (22) redesignated (21).
 
-Pub. L. 107–273, § 12209(1)(O), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “provide that the State agency designated under paragraph (1) will from time to time, but not less often than annually, review its plan and submit to the Administrator an analysis and evaluation of the effectiveness of the programs and activities carried out under the plan, and any modifications in the plan, including the survey of State and local needs, which it considers necessary;”.
+Pub. L. 107–273, § 12209(1)(O), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “provide that the State agency designated under paragraph (1) will from time to time, but not less often than annually, review its plan and submit to the Administrator an analysis and evaluation of the effectiveness of the programs and activities carried out under the plan, and any modifications in the plan, including the survey of State and local needs, which it considers necessary;”.
 
-Subsec. (a)(23). Pub. L. 107–273, § 12209(1)(S), redesignated par. (24) as (23). Former par. (23) redesignated (22).
+Subsec. (a)(23). Pub. L. 107–273, § 12209(1)(S), redesignated par. (24) as (23). Former par. (23) redesignated (22).
 
-Pub. L. 107–273, § 12209(1)(P), amended par. (23) generally. Prior to amendment, par. (23) read as follows: “address efforts to reduce the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails, and lockups who are members of minority groups if such proportion exceeds the proportion such groups represent in the general population;”.
+Pub. L. 107–273, § 12209(1)(P), amended par. (23) generally. Prior to amendment, par. (23) read as follows: “address efforts to reduce the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails, and lockups who are members of minority groups if such proportion exceeds the proportion such groups represent in the general population;”.
 
-Subsec. (a)(24). Pub. L. 107–273, § 12209(1)(S), redesignated par. (25) as (24). Former par. (24) redesignated (23).
+Subsec. (a)(24). Pub. L. 107–273, § 12209(1)(S), redesignated par. (25) as (24). Former par. (24) redesignated (23).
 
-Pub. L. 107–273, § 12209(1)(Q), amended par. (24) generally. Prior to amendment, par. (24) read as follows: “contain such other terms and conditions as the Administrator may reasonably prescribe to assure the effectiveness of the programs assisted under this subchapter; and”.
+Pub. L. 107–273, § 12209(1)(Q), amended par. (24) generally. Prior to amendment, par. (24) read as follows: “contain such other terms and conditions as the Administrator may reasonably prescribe to assure the effectiveness of the programs assisted under this subchapter; and”.
 
-Subsec. (a)(25). Pub. L. 107–273, § 12209(1)(T), added par. (25).
+Subsec. (a)(25). Pub. L. 107–273, § 12209(1)(T), added par. (25).
 
-Pub. L. 107–273, § 12209(1)(S), redesignated par. (25) as (24).
+Pub. L. 107–273, § 12209(1)(S), redesignated par. (25) as (24).
 
-Pub. L. 107–273, § 12209(1)(R), substituted “fiscal year 2000” for “fiscal year 1992” and a semicolon for period at end.
+Pub. L. 107–273, § 12209(1)(R), substituted “fiscal year 2000” for “fiscal year 1992” and a semicolon for period at end.
 
-Subsec. (a)(26) to (28). Pub. L. 107–273, § 12209(1)(T), added pars. (26) to (28).
+Subsec. (a)(26) to (28). Pub. L. 107–273, § 12209(1)(T), added pars. (26) to (28).
 
-Subsec. (c). Pub. L. 107–273, § 12209(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+Subsec. (c). Pub. L. 107–273, § 12209(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(1) Subject to paragraph (2), the Administrator shall approve any State plan and any modification thereof that meets the requirements of this section.
 
@@ -2369,41 +2369,41 @@ Subsec. (c). Pub. L. 107–273, § 12209(2), amended subsec. (c) generally. Pr
 
 “(II) has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance within a reasonable time.”
 
-Subsec. (d). Pub. L. 107–273, § 12209(3), substituted “allocation” for “allotment” and substituted “paragraphs (11), (12), (13), and (22) of subsection (a)” for “subsection (a)(12)(A), (13), (14) and (23)” in two places.
+Subsec. (d). Pub. L. 107–273, § 12209(3), substituted “allocation” for “allotment” and substituted “paragraphs (11), (12), (13), and (22) of subsection (a)” for “subsection (a)(12)(A), (13), (14) and (23)” in two places.
 
-Subsecs. (e), (f). Pub. L. 107–273, § 12209(4), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 107–273, § 12209(4), added subsecs. (e) and (f).
 
 2000—Subsec. (a)(14). Pub. L. 106–554 inserted “(except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002)” after “twenty-four hours” in introductory provisions.
 
-1998—Subsec. (a)(4). Pub. L. 105–277, § 101(b) [title I, § 129(a)(2)(C)(i)], substituted “units of local government” for “units of general local government” after “participation of” and “units of local government” for “local governments” after “requests of”.
+1998—Subsec. (a)(4). Pub. L. 105–277, § 101(b) [title I, § 129(a)(2)(C)(i)], substituted “units of local government” for “units of general local government” after “participation of” and “units of local government” for “local governments” after “requests of”.
 
-Subsec. (a)(5). Pub. L. 105–277, § 101(b) [title I, § 129(a)(2)(C)(ii)], substituted “units of local government” for “units of general local government” in subpar. (A) and “unit of local government” for “unit of general local government” in subpar. (B).
+Subsec. (a)(5). Pub. L. 105–277, § 101(b) [title I, § 129(a)(2)(C)(ii)], substituted “units of local government” for “units of general local government” in subpar. (A) and “unit of local government” for “unit of general local government” in subpar. (B).
 
-Subsec. (a)(6). Pub. L. 105–277, § 101(b) [title I, § 129(a)(2)(C)(iii)], substituted “unit of local government” for “unit of general local government”.
+Subsec. (a)(6). Pub. L. 105–277, § 101(b) [title I, § 129(a)(2)(C)(iii)], substituted “unit of local government” for “unit of general local government”.
 
-Subsec. (a)(10). Pub. L. 105–277, § 101(b) [title I, § 129(a)(2)(C)(iv)], substituted “unit of local government” for “unit of general local government” in introductory provisions.
+Subsec. (a)(10). Pub. L. 105–277, § 101(b) [title I, § 129(a)(2)(C)(iv)], substituted “unit of local government” for “unit of general local government” in introductory provisions.
 
 1996—Subsec. (a)(12)(A). Pub. L. 104–294 substituted “similar State law)” for “similar State law).”
 
 1994—Subsec. (a)(12)(A). Pub. L. 103–322 substituted “(other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law).” for “which do not constitute violations of valid court orders”.
 
-1992—Subsec. (a). Pub. L. 102–586, § 2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. The State” for “programs, and the State” in introductory provisions.
+1992—Subsec. (a). Pub. L. 102–586, § 2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. The State” for “programs, and the State” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 102–586, § 2(f)(3)(A)(i)(II), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
+Subsec. (a)(1). Pub. L. 102–586, § 2(f)(3)(A)(i)(II), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
-Subsec. (a)(3). Pub. L. 102–586, § 2(f)(3)(A)(i)(III), amended par. (3) generally, revising and restating as subpars. (A) to (E) provisions formerly appearing in text containing unindented subpars. (A) to (F).
+Subsec. (a)(3). Pub. L. 102–586, § 2(f)(3)(A)(i)(III), amended par. (3) generally, revising and restating as subpars. (A) to (E) provisions formerly appearing in text containing unindented subpars. (A) to (F).
 
-Subsec. (a)(8). Pub. L. 102–586, § 2(f)(3)(A)(i)(IV), designated existing provisions as subpar. (A), redesignated former cls. (A) to (C) as (i) to (iii), respectively, inserted “(including educational needs)” after “delinquency prevention needs” in two places in cl. (i), and added subpars. (B) to (D).
+Subsec. (a)(8). Pub. L. 102–586, § 2(f)(3)(A)(i)(IV), designated existing provisions as subpar. (A), redesignated former cls. (A) to (C) as (i) to (iii), respectively, inserted “(including educational needs)” after “delinquency prevention needs” in two places in cl. (i), and added subpars. (B) to (D).
 
-Subsec. (a)(9). Pub. L. 102–586, § 2(f)(3)(A)(i)(V), inserted “recreation,” after “special education,”.
+Subsec. (a)(9). Pub. L. 102–586, § 2(f)(3)(A)(i)(V), inserted “recreation,” after “special education,”.
 
-Subsec. (a)(10). Pub. L. 102–586, § 2(f)(3)(A)(i)(VI), amended par. (10) generally, revising and restating as introductory provisions and subpars. (A) to (O) provisions of former introductory provisions and subpars. (A) to (L).
+Subsec. (a)(10). Pub. L. 102–586, § 2(f)(3)(A)(i)(VI), amended par. (10) generally, revising and restating as introductory provisions and subpars. (A) to (O) provisions of former introductory provisions and subpars. (A) to (L).
 
-Subsec. (a)(12)(A). Pub. L. 102–586, § 2(f)(3)(A)(i)(VII), inserted “or alien juveniles in custody,” after “court orders,”.
+Subsec. (a)(12)(A). Pub. L. 102–586, § 2(f)(3)(A)(i)(VII), inserted “or alien juveniles in custody,” after “court orders,”.
 
-Subsec. (a)(13). Pub. L. 102–586, § 2(f)(3)(A)(i)(VIII), struck out “regular” before “contact with” and inserted “or with the part-time or full-time security staff (including management) or direct-care staff of a jail or lockup for adults”.
+Subsec. (a)(13). Pub. L. 102–586, § 2(f)(3)(A)(i)(VIII), struck out “regular” before “contact with” and inserted “or with the part-time or full-time security staff (including management) or direct-care staff of a jail or lockup for adults”.
 
-Subsec. (a)(14). Pub. L. 102–586, § 2(f)(3)(A)(i)(IX)(bb), (cc), in introductory provisions substituted “1997” for “1993” and “areas that are in compliance with paragraph (13) and” for “areas which”, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
+Subsec. (a)(14). Pub. L. 102–586, § 2(f)(3)(A)(i)(IX)(bb), (cc), in introductory provisions substituted “1997” for “1993” and “areas that are in compliance with paragraph (13) and” for “areas which”, added subpars. (A) to (C), and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) are outside a Standard Metropolitan Statistical Area,
 
@@ -2411,185 +2411,185 @@ Subsec. (a)(14). Pub. L. 102–586, § 2(f)(3)(A)(i)(IX)(bb), (cc), in introdu
 
 “(C) are in compliance with the provisions of paragraph (13);”.
 
-Pub. L. 102–586, § 2(f)(3)(A)(i)(IX)(aa), which directed the amendment of par. (14) by striking out “; beginning after the five-year period following December 8, 1980,” was executed by striking out “, beginning after the five-year period following December 8, 1980,” after “provide that” to reflect the probable intent of Congress.
+Pub. L. 102–586, § 2(f)(3)(A)(i)(IX)(aa), which directed the amendment of par. (14) by striking out “; beginning after the five-year period following December 8, 1980,” was executed by striking out “, beginning after the five-year period following December 8, 1980,” after “provide that” to reflect the probable intent of Congress.
 
-Subsec. (a)(16). Pub. L. 102–586, § 2(f)(3)(A)(i)(X), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “provide assurance that assistance will be available on an equitable basis to deal with disadvantaged youth including, but not limited to, females, minority youth, and mentally retarded and emotionally or physically handicapped youth;”.
+Subsec. (a)(16). Pub. L. 102–586, § 2(f)(3)(A)(i)(X), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “provide assurance that assistance will be available on an equitable basis to deal with disadvantaged youth including, but not limited to, females, minority youth, and mentally retarded and emotionally or physically handicapped youth;”.
 
-Subsec. (a)(17). Pub. L. 102–586, § 2(f)(3)(A)(i)(XI), substituted “the families” for “and maintain the family units” and “delinquency (which” for “delinquency. Such” and inserted before semicolon “and the provision of family counseling during the incarceration of juvenile family members and coordination of family services when appropriate and feasible)”.
+Subsec. (a)(17). Pub. L. 102–586, § 2(f)(3)(A)(i)(XI), substituted “the families” for “and maintain the family units” and “delinquency (which” for “delinquency. Such” and inserted before semicolon “and the provision of family counseling during the incarceration of juvenile family members and coordination of family services when appropriate and feasible)”.
 
-Subsec. (a)(25). Pub. L. 102–586, § 2(f)(3)(A)(i)(XII)–(XIV), added par. (25).
+Subsec. (a)(25). Pub. L. 102–586, § 2(f)(3)(A)(i)(XII)–(XIV), added par. (25).
 
-Subsec. (c). Pub. L. 102–586, § 2(f)(3)(A)(ii), amended subsec. (c) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) to (4).
+Subsec. (c). Pub. L. 102–586, § 2(f)(3)(A)(ii), amended subsec. (c) generally, revising and restating as pars. (1) to (3) provisions of former pars. (1) to (4).
 
-Subsec. (d). Pub. L. 102–586, § 2(f)(3)(A)(iii), inserted “, excluding funds the Administrator shall make available to satisfy the requirement specified in section 5632(d) of this title,” and substituted “activities of the kinds described in subsection (a)(12)(A), (13), (14) and (23)” for “the purposes of subsection (a)(12)(A), subsection (a)(13), or subsection (a)(14)” and “subsection (a)(12)(A), (13), (14) and (23)” for “subsection (a)(12)(A) and subsection (a)(13)”.
+Subsec. (d). Pub. L. 102–586, § 2(f)(3)(A)(iii), inserted “, excluding funds the Administrator shall make available to satisfy the requirement specified in section 5632(d) of this title,” and substituted “activities of the kinds described in subsection (a)(12)(A), (13), (14) and (23)” for “the purposes of subsection (a)(12)(A), subsection (a)(13), or subsection (a)(14)” and “subsection (a)(12)(A), (13), (14) and (23)” for “subsection (a)(12)(A) and subsection (a)(13)”.
 
-1988—Subsec. (a)(1). Pub. L. 100–690, § 7263(b)(1), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
+1988—Subsec. (a)(1). Pub. L. 100–690, § 7263(b)(1), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
-Subsec. (a)(5). Pub. L. 100–690, § 7258(a)(1), substituted in introductory provisions “shall be expended” for “shall be expended through”, in subpar. (A) substituted “through programs” for “programs” and struck out “and” at end, in subpar. (B) substituted “through programs” for “programs” and inserted “and” after semicolon, and added subpar. (C).
+Subsec. (a)(5). Pub. L. 100–690, § 7258(a)(1), substituted in introductory provisions “shall be expended” for “shall be expended through”, in subpar. (A) substituted “through programs” for “programs” and struck out “and” at end, in subpar. (B) substituted “through programs” for “programs” and inserted “and” after semicolon, and added subpar. (C).
 
-Subsec. (a)(8)(A). Pub. L. 100–690, § 7258(a)(2), substituted “relevant jurisdiction (including any geographical area in which an Indian tribe performs law enforcement functions)” for “relevant jurisdiction” and “juvenile crime problems (including the joining of gangs that commit crimes)” for “juvenile crime problems” in two places.
+Subsec. (a)(8)(A). Pub. L. 100–690, § 7258(a)(2), substituted “relevant jurisdiction (including any geographical area in which an Indian tribe performs law enforcement functions)” for “relevant jurisdiction” and “juvenile crime problems (including the joining of gangs that commit crimes)” for “juvenile crime problems” in two places.
 
-Subsec. (a)(14). Pub. L. 100–690, § 7258(b), substituted “1993” for “1989”, substituted a semicolon for the period at end of subpar. (iii), and redesignated subpars. (i) to (iii) as subpars. (A) to (C), respectively.
+Subsec. (a)(14). Pub. L. 100–690, § 7258(b), substituted “1993” for “1989”, substituted a semicolon for the period at end of subpar. (iii), and redesignated subpars. (i) to (iii) as subpars. (A) to (C), respectively.
 
-Subsec. (a)(23), (24). Pub. L. 100–690, § 7258(c), added par. (23) and redesignated former par. (23) as (24).
+Subsec. (a)(23), (24). Pub. L. 100–690, § 7258(c), added par. (23) and redesignated former par. (23) as (24).
 
-Subsec. (c)(1). Pub. L. 100–690, § 7258(d)(1)–(3), designated existing provisions as par. (1), substituted “part” for “subpart”, and struck out last sentence which read as follows: “Failure to achieve compliance with the requirements of subsection (a)(14) of this section, within the 5-year time limitation shall terminate any State’s eligibility for funding under this subpart, unless the Administrator determines that (1) the State is in substantial compliance with such requirements through the achievement of not less than 75 percent removal of juveniles from jails and lockups for adults; and (2) the State has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance within a reasonable time, not to exceed 3 additional years.”
+Subsec. (c)(1). Pub. L. 100–690, § 7258(d)(1)–(3), designated existing provisions as par. (1), substituted “part” for “subpart”, and struck out last sentence which read as follows: “Failure to achieve compliance with the requirements of subsection (a)(14) of this section, within the 5-year time limitation shall terminate any State’s eligibility for funding under this subpart, unless the Administrator determines that (1) the State is in substantial compliance with such requirements through the achievement of not less than 75 percent removal of juveniles from jails and lockups for adults; and (2) the State has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance within a reasonable time, not to exceed 3 additional years.”
 
-Subsec. (c)(2) to (4). Pub. L. 100–690, § 7258(d)(4), added pars. (2) to (4).
+Subsec. (c)(2) to (4). Pub. L. 100–690, § 7258(d)(4), added pars. (2) to (4).
 
-1984—Subsec. (a). Pub. L. 98–473, § 626(a)(9), (10), struck out provision after numbered paragraphs which read as follows: “such plan may at the discretion of the Associate Administrator be incorporated into the plan specified in section 3743 of this title. Such plan shall be modified by the State, as soon as practicable after December 8, 1980, in order to comply with the requirements of paragraph (14).”
+1984—Subsec. (a). Pub. L. 98–473, § 626(a)(9), (10), struck out provision after numbered paragraphs which read as follows: “such plan may at the discretion of the Associate Administrator be incorporated into the plan specified in section 3743 of this title. Such plan shall be modified by the State, as soon as practicable after December 8, 1980, in order to comply with the requirements of paragraph (14).”
 
-Subsec. (a)(1). Pub. L. 98–473, § 626(a)(1), substituted “agency described in section 5671(c)(1) of this title” for “criminal justice council established by the State under section 3742(b)(1) of this title”.
+Subsec. (a)(1). Pub. L. 98–473, § 626(a)(1), substituted “agency described in section 5671(c)(1) of this title” for “criminal justice council established by the State under section 3742(b)(1) of this title”.
 
-Subsec. (a)(2). Pub. L. 98–473, § 626(a)(2), struck out “(hereafter referred to in this part as the ‘State criminal justice council’)” before “has or will have authority”.
+Subsec. (a)(2). Pub. L. 98–473, § 626(a)(2), struck out “(hereafter referred to in this part as the ‘State criminal justice council’)” before “has or will have authority”.
 
-Subsec. (a)(3)(C). Pub. L. 98–473, § 626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups” as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
+Subsec. (a)(3)(C). Pub. L. 98–473, § 626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups” as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
 
-Subsec. (a)(3)(F). Pub. L. 98–473, § 626(a)(3)(B)(i), substituted “agency designated under paragraph (1)” for “criminal justice council” in three places.
+Subsec. (a)(3)(F). Pub. L. 98–473, § 626(a)(3)(B)(i), substituted “agency designated under paragraph (1)” for “criminal justice council” in three places.
 
-Subsec. (a)(3)(F)(ii). Pub. L. 98–473, § 626(a)(3)(B)(ii), substituted “paragraphs (12), (13), and (14)” for “paragraph (12)(A) and paragraph (13)”.
+Subsec. (a)(3)(F)(ii). Pub. L. 98–473, § 626(a)(3)(B)(ii), substituted “paragraphs (12), (13), and (14)” for “paragraph (12)(A) and paragraph (13)”.
 
-Subsec. (a)(3)(F)(iv). Pub. L. 98–473, § 626(a)(3)(B)(iii), substituted “paragraphs (12), (13), and (14)” for “paragraph (12)(A) and paragraph (13)” and struck out “in advising on the State’s maintenance of effort under section 3793a of this title,” before “and in review”.
+Subsec. (a)(3)(F)(iv). Pub. L. 98–473, § 626(a)(3)(B)(iii), substituted “paragraphs (12), (13), and (14)” for “paragraph (12)(A) and paragraph (13)” and struck out “in advising on the State’s maintenance of effort under section 3793a of this title,” before “and in review”.
 
-Subsec. (a)(9). Pub. L. 98–473, § 626(a)(4), inserted “special education,”.
+Subsec. (a)(9). Pub. L. 98–473, § 626(a)(4), inserted “special education,”.
 
-Subsec. (a)(10). Pub. L. 98–473, § 626(a)(5)(A), in provisions preceding subpar. (A), substituted “programs for juveniles, including those processed in the criminal justice system,” for “programs for juveniles” and “provide for effective rehabilitation, and facilitate the coordination of services between the juvenile justice and criminal justice systems” for “and provide for effective rehabilitation”.
+Subsec. (a)(10). Pub. L. 98–473, § 626(a)(5)(A), in provisions preceding subpar. (A), substituted “programs for juveniles, including those processed in the criminal justice system,” for “programs for juveniles” and “provide for effective rehabilitation, and facilitate the coordination of services between the juvenile justice and criminal justice systems” for “and provide for effective rehabilitation”.
 
-Subsec. (a)(10)(E). Pub. L. 98–473, § 626(a)(5)(B), inserted “, including programs to counsel delinquent youth and other youth regarding the opportunities which education provides”.
+Subsec. (a)(10)(E). Pub. L. 98–473, § 626(a)(5)(B), inserted “, including programs to counsel delinquent youth and other youth regarding the opportunities which education provides”.
 
-Subsec. (a)(10)(F). Pub. L. 98–473, § 626(a)(5)(C), inserted “and their families”.
+Subsec. (a)(10)(F). Pub. L. 98–473, § 626(a)(5)(C), inserted “and their families”.
 
-Subsec. (a)(10)(H)(iii). Pub. L. 98–473, § 626(a)(5)(D)(i), substituted “National Advisory Committee for Juvenile Justice and Delinquency Prevention made before October 12, 1984, standards for the improvement of juvenile justice within the State;” for “Advisory Committee, standards for the improvement of juvenile justice within the State; or”.
+Subsec. (a)(10)(H)(iii). Pub. L. 98–473, § 626(a)(5)(D)(i), substituted “National Advisory Committee for Juvenile Justice and Delinquency Prevention made before October 12, 1984, standards for the improvement of juvenile justice within the State;” for “Advisory Committee, standards for the improvement of juvenile justice within the State; or”.
 
-Subsec. (a)(10)(H)(v). Pub. L. 98–473, § 626(a)(5)(D)(ii), (iii), added cl. (v).
+Subsec. (a)(10)(H)(v). Pub. L. 98–473, § 626(a)(5)(D)(ii), (iii), added cl. (v).
 
-Subsec. (a)(10)(I). Pub. L. 98–473, § 626(a)(5)(E), struck out “and” at end.
+Subsec. (a)(10)(I). Pub. L. 98–473, § 626(a)(5)(E), struck out “and” at end.
 
-Subsec. (a)(10)(J). Pub. L. 98–473, § 626(a)(5)(F), struck out “juvenile gangs and their members” and inserted “gangs whose membership is substantially composed of juveniles”.
+Subsec. (a)(10)(J). Pub. L. 98–473, § 626(a)(5)(F), struck out “juvenile gangs and their members” and inserted “gangs whose membership is substantially composed of juveniles”.
 
-Subsec. (a)(10)(K), (L). Pub. L. 98–473, § 626(a)(5)(G), added subpars. (K) and (L).
+Subsec. (a)(10)(K), (L). Pub. L. 98–473, § 626(a)(5)(G), added subpars. (K) and (L).
 
-Subsec. (a)(14). Pub. L. 98–473, § 626(a)(6), in amending par. (14) generally, inserted “, through 1989,” after “shall” and substituted provisions relating to exceptions for former provisions which related to the special needs of areas characterized by low population density with respect to the detention of juveniles and exceptions for temporary detention in adult facilities of juveniles accused of serious crimes against persons.
+Subsec. (a)(14). Pub. L. 98–473, § 626(a)(6), in amending par. (14) generally, inserted “, through 1989,” after “shall” and substituted provisions relating to exceptions for former provisions which related to the special needs of areas characterized by low population density with respect to the detention of juveniles and exceptions for temporary detention in adult facilities of juveniles accused of serious crimes against persons.
 
-Subsec. (a)(17), (18). Pub. L. 98–473, § 626(a)(11), (12), added par. (17) and redesignated former par. (17) as (18). Former par. (18) redesignated (19).
+Subsec. (a)(17), (18). Pub. L. 98–473, § 626(a)(11), (12), added par. (17) and redesignated former par. (17) as (18). Former par. (18) redesignated (19).
 
-Subsec. (a)(19). Pub. L. 98–473, § 626(a)(11), redesignated par. (18) as (19). Former par. (19) redesignated (20).
+Subsec. (a)(19). Pub. L. 98–473, § 626(a)(11), redesignated par. (18) as (19). Former par. (19) redesignated (20).
 
-Pub. L. 98–473, § 626(a)(7), in provisions preceding (A), substituted “shall be” for “are” after “arrangements” and substituted “chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such” for “chapter. Such”, inserted “and” at end of subpar. (D), substituted a semicolon for the period at end of subpar. (E), and struck out last sentence, which read as follows: “The State plan shall provide for the terms and conditions of the protection arrangements established pursuant to this section;”.
+Pub. L. 98–473, § 626(a)(7), in provisions preceding (A), substituted “shall be” for “are” after “arrangements” and substituted “chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such” for “chapter. Such”, inserted “and” at end of subpar. (D), substituted a semicolon for the period at end of subpar. (E), and struck out last sentence, which read as follows: “The State plan shall provide for the terms and conditions of the protection arrangements established pursuant to this section;”.
 
-Subsec. (a)(20), (21). Pub. L. 98–473, § 626(a)(11), redesignated pars. (19) and (20) as (20) and (21), respectively. Former par. (21) redesignated (22).
+Subsec. (a)(20), (21). Pub. L. 98–473, § 626(a)(11), redesignated pars. (19) and (20) as (20) and (21), respectively. Former par. (21) redesignated (22).
 
-Subsec. (a)(22). Pub. L. 98–473, § 626(a)(11), redesignated par. (21) as (22). Former par. (22) redesignated (23).
+Subsec. (a)(22). Pub. L. 98–473, § 626(a)(11), redesignated par. (21) as (22). Former par. (22) redesignated (23).
 
-Pub. L. 98–473, § 626(a)(8), substituted “agency designated under paragraph (1)” for “criminal justice council”.
+Pub. L. 98–473, § 626(a)(8), substituted “agency designated under paragraph (1)” for “criminal justice council”.
 
-Subsec. (a)(23). Pub. L. 98–473, § 626(a)(11), redesignated par. (22) as (23).
+Subsec. (a)(23). Pub. L. 98–473, § 626(a)(11), redesignated par. (22) as (23).
 
-Subsec. (b). Pub. L. 98–473, § 626(b), substituted “agency designated under subsection (a)(1)” for “criminal justice council designated pursuant to section 5633(a) of this title” and “subsection (a)” for “section 5633(a) of this title”.
+Subsec. (b). Pub. L. 98–473, § 626(b), substituted “agency designated under subsection (a)(1)” for “criminal justice council designated pursuant to section 5633(a) of this title” and “subsection (a)” for “section 5633(a) of this title”.
 
-Subsec. (c). Pub. L. 98–473, § 626(c), substituted “3” for “2” before “additional years”.
+Subsec. (c). Pub. L. 98–473, § 626(c), substituted “3” for “2” before “additional years”.
 
-Subsec. (d). Pub. L. 98–473, § 626(d), made a conforming amendment to the reference to sections 3783, 3784, and 3785 of this title to reflect the renumbering of the corresponding sections of the original act.
+Subsec. (d). Pub. L. 98–473, § 626(d), made a conforming amendment to the reference to sections 3783, 3784, and 3785 of this title to reflect the renumbering of the corresponding sections of the original act.
 
-1980—Subsec. (a). Pub. L. 96–509, § 11(a)(1), in provisions preceding par. (1), provided for 3-year, rather than annual, plans and annually submitted performance reports which describe the progress in implementing programs contained in the original plan and the status of compliance with State plan requirements.
+1980—Subsec. (a). Pub. L. 96–509, § 11(a)(1), in provisions preceding par. (1), provided for 3-year, rather than annual, plans and annually submitted performance reports which describe the progress in implementing programs contained in the original plan and the status of compliance with State plan requirements.
 
-Pub. L. 96–509, §§ 11(a)(15)(B), 19(g)(11), in provisions following par. (22), substituted reference to section 3743 of this title for reference to section 3733(a) of this title and inserted provision that plans be modified by States as soon as possible after Dec. 8, 1980, in order to comply with the requirements of par. (14).
+Pub. L. 96–509, §§ 11(a)(15)(B), 19(g)(11), in provisions following par. (22), substituted reference to section 3743 of this title for reference to section 3733(a) of this title and inserted provision that plans be modified by States as soon as possible after Dec. 8, 1980, in order to comply with the requirements of par. (14).
 
-Subsec. (a)(1). Pub. L. 96–509, § 19(g)(1), substituted “State criminal justice council established by the State under section 3742(b)(1) of this title” for “State planning agency established by the State under section 3723 of this title”.
+Subsec. (a)(1). Pub. L. 96–509, § 19(g)(1), substituted “State criminal justice council established by the State under section 3742(b)(1) of this title” for “State planning agency established by the State under section 3723 of this title”.
 
-Subsec. (a)(2). Pub. L. 96–509, § 19(g)(2), substituted “criminal justice council” for “planning agency”.
+Subsec. (a)(2). Pub. L. 96–509, § 19(g)(2), substituted “criminal justice council” for “planning agency”.
 
-Subsec. (a)(3)(A). Pub. L. 96–509, §§ 11(a)(2), 19(g)(3), provided that State advisory groups shall consist of between 15 and 33 members rather than between 21 and 33 members and substituted “juvenile delinquency” for “a juvenile delinquency”.
+Subsec. (a)(3)(A). Pub. L. 96–509, §§ 11(a)(2), 19(g)(3), provided that State advisory groups shall consist of between 15 and 33 members rather than between 21 and 33 members and substituted “juvenile delinquency” for “a juvenile delinquency”.
 
-Subsec. (a)(3)(B). Pub. L. 96–509, § 11(a)(3), provided that locally elected officials be included on State advisory groups and made clear that special education departments be included along with other public agencies for representation on State advisory groups.
+Subsec. (a)(3)(B). Pub. L. 96–509, § 11(a)(3), provided that locally elected officials be included on State advisory groups and made clear that special education departments be included along with other public agencies for representation on State advisory groups.
 
-Subsec. (a)(3)(E). Pub. L. 96–509, § 11(a)(4), provided that one-fifth of the members of State advisory groups be under 24 years of age at the time of their appointment, rather than one-third under 26 years of age.
+Subsec. (a)(3)(E). Pub. L. 96–509, § 11(a)(4), provided that one-fifth of the members of State advisory groups be under 24 years of age at the time of their appointment, rather than one-third under 26 years of age.
 
-Subsec. (a)(3)(F). Pub. L. 96–509, §§ 11(a)(5), (6), 19(g)(4), substituted in cl. (i) “criminal justice council” for “planning agency”, in cl. (ii) provision that the State advisory groups submit recommendations to the Governor and the legislature at least annually regarding matters related to its functions for provision that the State advisory groups advise the Governor and the legislature on matters related to its functions as requested, in cl. (iii) “criminal justice council” for “planning agency other than those subject to review by the State’s judicial planning committee established pursuant to section 3723(c) of this title”, in cl. (iv) “criminal justice council and local criminal justice advisory” for “planning agency and regional planning unit supervisory” and “section 3793a of this title” for “sections 3768(b) and 5671(b) of this title”, and added cl. (v).
+Subsec. (a)(3)(F). Pub. L. 96–509, §§ 11(a)(5), (6), 19(g)(4), substituted in cl. (i) “criminal justice council” for “planning agency”, in cl. (ii) provision that the State advisory groups submit recommendations to the Governor and the legislature at least annually regarding matters related to its functions for provision that the State advisory groups advise the Governor and the legislature on matters related to its functions as requested, in cl. (iii) “criminal justice council” for “planning agency other than those subject to review by the State’s judicial planning committee established pursuant to section 3723(c) of this title”, in cl. (iv) “criminal justice council and local criminal justice advisory” for “planning agency and regional planning unit supervisory” and “section 3793a of this title” for “sections 3768(b) and 5671(b) of this title”, and added cl. (v).
 
-Subsec. (a)(8). Pub. L. 96–509, § 11(a)(7), provided that State juvenile justice plan requirements conform to State criminal justice application requirements and required a State concentration of effort to coordinate State juvenile delinquency programs and policy.
+Subsec. (a)(8). Pub. L. 96–509, § 11(a)(7), provided that State juvenile justice plan requirements conform to State criminal justice application requirements and required a State concentration of effort to coordinate State juvenile delinquency programs and policy.
 
-Subsec. (a)(10). Pub. L. 96–509, § 11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to “secure” juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committed serious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
+Subsec. (a)(10). Pub. L. 96–509, § 11(a)(8)(A)–(C), in provisions preceding subpar. (A), clarified that the advanced techniques described in this paragraph are to be used to provide community-based alternatives to “secure” juvenile detention and correctional facilities and that advanced techniques can be used for the purpose of providing programs for juveniles who have committed serious crimes, particularly programs designed to improve sentencing procedures, provide resources necessary for informed dispositions, and provide for effective rehabilitation.
 
-Subsec. (a)(10)(A). Pub. L. 96–509, § 11(a)(9), inserted provisions for inclusion of education and special education programs among community-based programs and services.
+Subsec. (a)(10)(A). Pub. L. 96–509, § 11(a)(9), inserted provisions for inclusion of education and special education programs among community-based programs and services.
 
-Subsec. (a)(10)(E). Pub. L. 96–509, § 11(a)(10), clarified that educational programs included as advanced techniques should be designed to encourage delinquent and other youth to remain in school.
+Subsec. (a)(10)(E). Pub. L. 96–509, § 11(a)(10), clarified that educational programs included as advanced techniques should be designed to encourage delinquent and other youth to remain in school.
 
-Subsec. (a)(10)(H). Pub. L. 96–509, § 11(a)(11), provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designed as exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement of juvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
+Subsec. (a)(10)(H). Pub. L. 96–509, § 11(a)(11), provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designed as exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement of juvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
 
-Subsec. (a)(10)(I). Pub. L. 96–509, § 11(a)(12), revised subpar. (I) to provide that advanced technique programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities include on-the-job training programs to assist law enforcement and juvenile justice personnel to more effectively recognize and provide for learning disabled and other handicapped juveniles.
+Subsec. (a)(10)(I). Pub. L. 96–509, § 11(a)(12), revised subpar. (I) to provide that advanced technique programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities include on-the-job training programs to assist law enforcement and juvenile justice personnel to more effectively recognize and provide for learning disabled and other handicapped juveniles.
 
-Subsec. (a)(10)(J). Pub. L. 96–509, § 11(a)(8)(D), added subpar. (J).
+Subsec. (a)(10)(J). Pub. L. 96–509, § 11(a)(8)(D), added subpar. (J).
 
-Subsec. (a)(11). Pub. L. 96–509, § 19(g)(5), substituted “provide” for “provides”.
+Subsec. (a)(11). Pub. L. 96–509, § 19(g)(5), substituted “provide” for “provides”.
 
-Subsec. (a)(12)(A). Pub. L. 96–509, § 11(a)(13), clarified that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult shall not be placed in secure detention facilities or secure correctional facilities rather than simply, as formerly, juvenile detention or correctional facilities.
+Subsec. (a)(12)(A). Pub. L. 96–509, § 11(a)(13), clarified that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult shall not be placed in secure detention facilities or secure correctional facilities rather than simply, as formerly, juvenile detention or correctional facilities.
 
-Subsec. (a)(12)(B). Pub. L. 96–509, § 19(g)(6), substituted “Administrator” for “Associate Administrator”.
+Subsec. (a)(12)(B). Pub. L. 96–509, § 19(g)(6), substituted “Administrator” for “Associate Administrator”.
 
-Subsec. (a)(14). Pub. L. 96–509, § 11(a)(15)(A), added par. (14). Former par. (14) redesignated (15).
+Subsec. (a)(14). Pub. L. 96–509, § 11(a)(15)(A), added par. (14). Former par. (14) redesignated (15).
 
-Subsec. (a)(15). Pub. L. 96–509, §§ 11(a)(14), (15)(A), 19(g)(7), redesignated former par. (14) as (15) and in par. (15) as so redesignated, provided that the annual reporting requirements of the results of the monitoring required by this section can be waived for States which have complied with the requirements of par. (12)(A), par. (13), and par. (14), and which have enacted legislation, conforming to those requirements, which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively and substituted “to the Administrator” for “to the Associate Administrator”. Former par. (15) redesignated (16).
+Subsec. (a)(15). Pub. L. 96–509, §§ 11(a)(14), (15)(A), 19(g)(7), redesignated former par. (14) as (15) and in par. (15) as so redesignated, provided that the annual reporting requirements of the results of the monitoring required by this section can be waived for States which have complied with the requirements of par. (12)(A), par. (13), and par. (14), and which have enacted legislation, conforming to those requirements, which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively and substituted “to the Administrator” for “to the Associate Administrator”. Former par. (15) redesignated (16).
 
-Subsec. (a)(16), (17). Pub. L. 96–509, § 11(a)(15)(A), redesignated former pars. (15) and (16) as (16) and (17), respectively. Former par. (17) redesignated (18).
+Subsec. (a)(16), (17). Pub. L. 96–509, § 11(a)(15)(A), redesignated former pars. (15) and (16) as (16) and (17), respectively. Former par. (17) redesignated (18).
 
-Subsec. (a)(18). Pub. L. 96–509, §§ 11(a)(15)(A), 19(g)(8), redesignated former par. (17) as (18) and, in subpar. (A) of par. (18) as so redesignated, substituted “preservation of rights” for “preservation or rights”. Former par. (18) redesignated (19).
+Subsec. (a)(18). Pub. L. 96–509, §§ 11(a)(15)(A), 19(g)(8), redesignated former par. (17) as (18) and, in subpar. (A) of par. (18) as so redesignated, substituted “preservation of rights” for “preservation or rights”. Former par. (18) redesignated (19).
 
-Subsec. (a)(19), (20). Pub. L. 96–509, § 11(a)(15)(A), redesignated former pars. (18) and (19) as (19) and (20), respectively.
+Subsec. (a)(19), (20). Pub. L. 96–509, § 11(a)(15)(A), redesignated former pars. (18) and (19) as (19) and (20), respectively.
 
-Subsec. (a)(21). Pub. L. 96–509, §§ 11(a)(15)(A), 19(g)(9), redesignated former par. (20) as (21) and substituted “State criminal justice council will from time to time, but not less often than annually, review its plan and submit to the Administrator” for “State planning agency will from time to time, but not less often than annually, review its plan and submit to the Associate Administrator”. Former par. (21) redesignated (22).
+Subsec. (a)(21). Pub. L. 96–509, §§ 11(a)(15)(A), 19(g)(9), redesignated former par. (20) as (21) and substituted “State criminal justice council will from time to time, but not less often than annually, review its plan and submit to the Administrator” for “State planning agency will from time to time, but not less often than annually, review its plan and submit to the Associate Administrator”. Former par. (21) redesignated (22).
 
-Subsec. (a)(22). Pub. L. 96–509, §§ 11(a)(15)(A), 19(g)(10), redesignated former par. (21) as (22) and substituted “Administrator” for “Associate Administrator”.
+Subsec. (a)(22). Pub. L. 96–509, §§ 11(a)(15)(A), 19(g)(10), redesignated former par. (21) as (22) and substituted “Administrator” for “Associate Administrator”.
 
-Subsec. (b). Pub. L. 96–509, § 19(g)(12), substituted “criminal justice council” for “planning agency”.
+Subsec. (b). Pub. L. 96–509, § 19(g)(12), substituted “criminal justice council” for “planning agency”.
 
-Subsec. (c). Pub. L. 96–509, § 11(b), made conforming amendment, redefined “substantial compliance” with regard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult, or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
+Subsec. (c). Pub. L. 96–509, § 11(b), made conforming amendment, redefined “substantial compliance” with regard to subsection (a)(12)(A) of this section to include either 75 percent deinstitutionalization of juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult, or such nonoffenders as dependent or neglected children or the removal of 100 percent of such juveniles from secure correctional facilities, and inserted provision at end defining substantial compliance with regard to subsec. (a)(14) of this section.
 
-Subsec. (d). Pub. L. 96–509, §§ 11(c), 19(g)(13), substituted reference to sections 3783, 3784, and 3785 of this title for reference to sections 3757, 3758, and 3759 of this title and provided that redistributed allotments be used for the purposes of subsections (a)(12)(A), (a)(13) or (a)(14) of this section, and further provided that the Administrator shall make such reallocated funds available on an equitable basis to States that have achieved full compliance with the requirements under subsecs. (a)(12)(A) and (a)(13) of this section.
+Subsec. (d). Pub. L. 96–509, §§ 11(c), 19(g)(13), substituted reference to sections 3783, 3784, and 3785 of this title for reference to sections 3757, 3758, and 3759 of this title and provided that redistributed allotments be used for the purposes of subsections (a)(12)(A), (a)(13) or (a)(14) of this section, and further provided that the Administrator shall make such reallocated funds available on an equitable basis to States that have achieved full compliance with the requirements under subsecs. (a)(12)(A) and (a)(13) of this section.
 
-1977—Subsec. (a)(3). Pub. L. 95–115, § 4(c)(1), in introductory text substituted provisions relating to functions under subpar. (F) and participation in the development and review of the plan, for provisions relating to advisement of the State planning agency and its supervisory board, in subpar. (C) inserted provision relating to representatives from business groups and businesses, and in subpar. (E) inserted requirement for at least three of the members to be or have been under the jurisdiction of the juvenile justice system, and added subpar. (F).
+1977—Subsec. (a)(3). Pub. L. 95–115, § 4(c)(1), in introductory text substituted provisions relating to functions under subpar. (F) and participation in the development and review of the plan, for provisions relating to advisement of the State planning agency and its supervisory board, in subpar. (C) inserted provision relating to representatives from business groups and businesses, and in subpar. (E) inserted requirement for at least three of the members to be or have been under the jurisdiction of the juvenile justice system, and added subpar. (F).
 
-Subsec. (a)(4). Pub. L. 95–115. § 4(c)(2), inserted provisions relating to grants or contracts with local private agencies or the advisory group, and substituted “units of general local government or combinations thereof in” for “local governments in”.
+Subsec. (a)(4). Pub. L. 95–115. § 4(c)(2), inserted provisions relating to grants or contracts with local private agencies or the advisory group, and substituted “units of general local government or combinations thereof in” for “local governments in”.
 
-Subsec. (a)(5). Pub. L. 95–115, § 4(c)(3), substituted provisions relating to requirements respecting expenditure of funds through programs of units of general local government or combinations thereof and programs of local private agencies, for provisions relating to requirements respecting expenditure of funds through programs of local government.
+Subsec. (a)(5). Pub. L. 95–115, § 4(c)(3), substituted provisions relating to requirements respecting expenditure of funds through programs of units of general local government or combinations thereof and programs of local private agencies, for provisions relating to requirements respecting expenditure of funds through programs of local government.
 
-Subsec. (a)(6). Pub. L. 95–115, § 4(c)(4), inserted provision relating to regional planning agency and “unit of general” before “local government”.
+Subsec. (a)(6). Pub. L. 95–115, § 4(c)(4), inserted provision relating to regional planning agency and “unit of general” before “local government”.
 
-Subsec. (a)(8). Pub. L. 95–115, § 4(c)(5), inserted provisions relating to programs and projects developed under the study.
+Subsec. (a)(8). Pub. L. 95–115, § 4(c)(5), inserted provisions relating to programs and projects developed under the study.
 
-Subsec. (a)(10). Pub. L. 95–115, § 4(c)(6)(A)(i), (B), inserted provisions relating to availability of funds to the State advisory group and provisions expanding authorized use of funds to include encouragement of diversity of alternatives within the juvenile justice system and adoption of juvenile justice standards, and substituted reference to unit of general local government or combination of such unit with the State, for reference to local government.
+Subsec. (a)(10). Pub. L. 95–115, § 4(c)(6)(A)(i), (B), inserted provisions relating to availability of funds to the State advisory group and provisions expanding authorized use of funds to include encouragement of diversity of alternatives within the juvenile justice system and adoption of juvenile justice standards, and substituted reference to unit of general local government or combination of such unit with the State, for reference to local government.
 
-Subsec. (a)(10)(A). Pub. L. 95–115, § 4(c)(6)(A)(ii), inserted “twenty-four hour intake screening, volunteer and crisis home programs, day treatment, and home probation,” after “health services,”.
+Subsec. (a)(10)(A). Pub. L. 95–115, § 4(c)(6)(A)(ii), inserted “twenty-four hour intake screening, volunteer and crisis home programs, day treatment, and home probation,” after “health services,”.
 
-Subsec. (a)(10)(C). Pub. L. 95–115, § 4(c)(6)(A)(iii), substituted “other youth to help prevent delinquency” for “youth in danger of becoming delinquent”.
+Subsec. (a)(10)(C). Pub. L. 95–115, § 4(c)(6)(A)(iii), substituted “other youth to help prevent delinquency” for “youth in danger of becoming delinquent”.
 
-Subsec. (a)(10)(D). Pub. L. 95–115, § 4(c)(6)(A)(iv), substituted provisions relating to programs stressing advocacy activities, for provisions relating to programs of drug and alcohol abuse education and prevention and programs for treatment and rehabilitation of drug addicted youth and drug dependent youth as defined in section 201(q) of this title.
+Subsec. (a)(10)(D). Pub. L. 95–115, § 4(c)(6)(A)(iv), substituted provisions relating to programs stressing advocacy activities, for provisions relating to programs of drug and alcohol abuse education and prevention and programs for treatment and rehabilitation of drug addicted youth and drug dependent youth as defined in section 201(q) of this title.
 
-Subsec. (a)(10)(G). Pub. L. 95–115, § 4(c)(6)(A)(v), inserted “traditional youth” after “reached by”.
+Subsec. (a)(10)(G). Pub. L. 95–115, § 4(c)(6)(A)(v), inserted “traditional youth” after “reached by”.
 
-Subsec. (a)(10)(H). Pub. L. 95–115, § 4(c)(6)(A)(vi), substituted “are” for “that may include but are not limited to programs”.
+Subsec. (a)(10)(H). Pub. L. 95–115, § 4(c)(6)(A)(vi), substituted “are” for “that may include but are not limited to programs”.
 
-Subsec. (a)(10)(I). Pub. L. 95–115, § 4(c)(6)(A)(vii), added subpar. (I).
+Subsec. (a)(10)(I). Pub. L. 95–115, § 4(c)(6)(A)(vii), added subpar. (I).
 
-Subsec. (a)(12). Pub. L. 95–115, § 4(c)(7), redesignated existing provisions as subpar. (A), substituted provisions relating to detention requirements respecting programs within three years after submission of the initial plan, for provisions relating to detention requirements respecting programs within two years after submission of the plan, and added subpar. (B).
+Subsec. (a)(12). Pub. L. 95–115, § 4(c)(7), redesignated existing provisions as subpar. (A), substituted provisions relating to detention requirements respecting programs within three years after submission of the initial plan, for provisions relating to detention requirements respecting programs within two years after submission of the plan, and added subpar. (B).
 
-Subsec. (a)(13). Pub. L. 95–115, § 4(c)(8), inserted “and youths within the purview of paragraph (12)” after “delinquent”.
+Subsec. (a)(13). Pub. L. 95–115, § 4(c)(8), inserted “and youths within the purview of paragraph (12)” after “delinquent”.
 
-Subsec. (a)(14). Pub. L. 95–115, §§ 3(a)(3)(B), 4(c)(9), inserted “(A)” after “(12)” and “Associate” before “Administrator” and substituted “facilities, correctional facilities, and non-secure facilities” for “facilities, and correctional facilities”.
+Subsec. (a)(14). Pub. L. 95–115, §§ 3(a)(3)(B), 4(c)(9), inserted “(A)” after “(12)” and “Associate” before “Administrator” and substituted “facilities, correctional facilities, and non-secure facilities” for “facilities, and correctional facilities”.
 
-Subsec. (a)(15). Pub. L. 95–115, § 4(c)(10), struck out “all” before “disadvantaged”.
+Subsec. (a)(15). Pub. L. 95–115, § 4(c)(10), struck out “all” before “disadvantaged”.
 
-Subsec. (a)(19). Pub. L. 95–115, § 4(c)(11), struck out “, to the extent feasible and practical” before “the level”.
+Subsec. (a)(19). Pub. L. 95–115, § 4(c)(11), struck out “, to the extent feasible and practical” before “the level”.
 
-Subsec. (a)(20), (21). Pub. L. 95–115, § 3(a)(3)(B), inserted “Associate” before “Administrator” wherever appearing.
+Subsec. (a)(20), (21). Pub. L. 95–115, § 3(a)(3)(B), inserted “Associate” before “Administrator” wherever appearing.
 
-Subsec. (b). Pub. L. 95–115, § 4(c)(12), substituted provisions relating to advice and recommendations for provisions relating to consultations.
+Subsec. (b). Pub. L. 95–115, § 4(c)(12), substituted provisions relating to advice and recommendations for provisions relating to consultations.
 
-Subsec. (c). Pub. L. 95–115, § 4(c)(13), inserted provisions relating to failure to achieve compliance with the requirements of subsec. (a)(12)(A) within the three-year time limitation.
+Subsec. (c). Pub. L. 95–115, § 4(c)(13), inserted provisions relating to failure to achieve compliance with the requirements of subsec. (a)(12)(A) within the three-year time limitation.
 
-Subsec. (d). Pub. L. 95–115, § 4(c)(14), inserted provision relating to the State choosing not to submit a plan and provision relating to reallocation of funds by the Administrator.
+Subsec. (d). Pub. L. 95–115, § 4(c)(14), inserted provision relating to the State choosing not to submit a plan and provision relating to reallocation of funds by the Administrator.
 
-Subsec. (e). Pub. L. 95–115, § 4(c)(15), struck out subsec. (e) which related to reallotment of funds in a State where the State plan fails to meet the requirements of this section as a result of oversight or neglect.
+Subsec. (e). Pub. L. 95–115, § 4(c)(15), struck out subsec. (e) which related to reallotment of funds in a State where the State plan fails to meet the requirements of this section as a result of oversight or neglect.
 
 1976—Subsec. (a). Pub. L. 94–503 substituted “(15), and (17)” for “and (15)” in provisions preceding par. (1).
 
@@ -2617,15 +2617,15 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
-Pub. L. 95–115, § 4(c)(3)(B), Oct. 3, 1977, 91 Stat. 1052, provided in part that the amendment of subsec. (a)(5) of this section by section 4(c)(3)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
+Pub. L. 95–115, § 4(c)(3)(B), Oct. 3, 1977, 91 Stat. 1052, provided in part that the amendment of subsec. (a)(5) of this section by section 4(c)(3)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
 
-Pub. L. 95–115, § 4(c)(6)(B), Oct. 3, 1977, 91 Stat. 1053, provided in part that the amendment of subsec. (a)(10) of this section by section 4(c)(6)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
+Pub. L. 95–115, § 4(c)(6)(B), Oct. 3, 1977, 91 Stat. 1053, provided in part that the amendment of subsec. (a)(10) of this section by section 4(c)(6)(B) of Pub. L. 95–115 is effective Oct. 1, 1978.
 
 **Savings Provision**
 
-Pub. L. 102–586, § 2(f)(3)(B), Nov. 4, 1992, 106 Stat. 4994, provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) [amending this section], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)) [now 34 U.S.C. 11133(c)(3)], as in effect on the day prior to the date of enactment of this Act [Nov. 4, 1992], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.”
+Pub. L. 102–586, § 2(f)(3)(B), Nov. 4, 1992, 106 Stat. 4994, provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) [amending this section], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5633(c)(3)) [now 34 U.S.C. 11133(c)(3)], as in effect on the day prior to the date of enactment of this Act [Nov. 4, 1992], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.”
 
 **Termination of Advisory Committees**
 
@@ -2637,39 +2637,39 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **Prior Provisions**
 
-A prior part C of title II of Pub. L. 93–415 related to national programs, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior part C of title II of Pub. L. 93–415 related to national programs, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-#### §§ 11141 to 11146. Repealed. Pub. L. 115–385, title II, § 206, Dec. 21, 2018, 132 Stat. 5140
+#### §§ 11141 to 11146. Repealed. Pub. L. 115–385, title II, § 206, Dec. 21, 2018, 132 Stat. 5140
 
-Section 11141, Pub. L. 93–415, title II, § 241, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1880, related to authority to make grants. Section was formerly classified to section 5651 of Title 42, The Public Health and Welfare.
+Section 11141, Pub. L. 93–415, title II, § 241, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1880, related to authority to make grants. Section was formerly classified to section 5651 of Title 42, The Public Health and Welfare.
 
-A prior section 241 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1125; Pub. L. 95–115, §§ 3(a)(3)(A), (5), 5(a), (f), Oct. 3, 1977, 91 Stat. 1048, 1049, 1056, 1057; Pub. L. 96–509, § 19(j), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, § 631, Oct. 12, 1984, 98 Stat. 2118; Pub. L. 100–690, title VII, § 7259, Nov. 18, 1988, 102 Stat. 4441; Pub. L. 102–586, § 2(g)(1), Nov. 4, 1992, 106 Stat. 4994, related to the National Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior section 241 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1125; Pub. L. 95–115, §§ 3(a)(3)(A), (5), 5(a), (f), Oct. 3, 1977, 91 Stat. 1048, 1049, 1056, 1057; Pub. L. 96–509, § 19(j), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, § 631, Oct. 12, 1984, 98 Stat. 2118; Pub. L. 100–690, title VII, § 7259, Nov. 18, 1988, 102 Stat. 4441; Pub. L. 102–586, § 2(g)(1), Nov. 4, 1992, 106 Stat. 4994, related to the National Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-Section 11142, Pub. L. 93–415, title II, § 242, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1884, related to allocation of funds. Section was formerly classified to section 5652 of Title 42, The Public Health and Welfare.
+Section 11142, Pub. L. 93–415, title II, § 242, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1884, related to allocation of funds. Section was formerly classified to section 5652 of Title 42, The Public Health and Welfare.
 
-A prior section 242 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1126; Pub. L. 100–690, title VII, § 7260, Nov. 18, 1988, 102 Stat. 4441; Pub. L. 102–586, § 2(g)(2), Nov. 4, 1992, 106 Stat. 4995, related to the information function of the Institute, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior section 242 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1126; Pub. L. 100–690, title VII, § 7260, Nov. 18, 1988, 102 Stat. 4441; Pub. L. 102–586, § 2(g)(2), Nov. 4, 1992, 106 Stat. 4995, related to the information function of the Institute, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-Section 11143, Pub. L. 93–415, title II, § 243, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1884, related to eligibility of States for grants. Section was formerly classified to section 5653 of Title 42, The Public Health and Welfare.
+Section 11143, Pub. L. 93–415, title II, § 243, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1884, related to eligibility of States for grants. Section was formerly classified to section 5653 of Title 42, The Public Health and Welfare.
 
-A prior section 243 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1126; Pub. L. 95–115, §§ 3(a)(3)(B), 5(b), Oct. 3, 1977, 91 Stat. 1048, 1057; Pub. L. 98–473, title II, § 632, Oct. 12, 1984, 98 Stat. 2118; Pub. L. 100–690, title VII, § 7261, Nov. 18, 1988, 102 Stat. 4442; Pub. L. 102–586, § 2(g)(3), Nov. 4, 1992, 106 Stat. 4995, related to research, demonstration, and evaluation, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior section 243 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1126; Pub. L. 95–115, §§ 3(a)(3)(B), 5(b), Oct. 3, 1977, 91 Stat. 1048, 1057; Pub. L. 98–473, title II, § 632, Oct. 12, 1984, 98 Stat. 2118; Pub. L. 100–690, title VII, § 7261, Nov. 18, 1988, 102 Stat. 4442; Pub. L. 102–586, § 2(g)(3), Nov. 4, 1992, 106 Stat. 4995, related to research, demonstration, and evaluation, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-Section 11144, Pub. L. 93–415, title II, § 244, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1885, related to grants given by States for local projects. Section was formerly classified to section 5654 of Title 42, The Public Health and Welfare.
+Section 11144, Pub. L. 93–415, title II, § 244, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1885, related to grants given by States for local projects. Section was formerly classified to section 5654 of Title 42, The Public Health and Welfare.
 
-A prior section 244 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, § 5(f), Oct. 3, 1977, 91 Stat. 1057; Pub. L. 96–509, § 19(k), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, § 633, Oct. 12, 1984, 98 Stat. 2119; Pub. L. 100–690, title VII, § 7262, Nov. 18, 1988, 102 Stat. 4442; Pub. L. 102–586, § 2(g)(3), Nov. 4, 1992, 106 Stat. 4996; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(D)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76, related to technical assistance and training functions, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior section 244 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, § 5(f), Oct. 3, 1977, 91 Stat. 1057; Pub. L. 96–509, § 19(k), Dec. 8, 1980, 94 Stat. 2765; Pub. L. 98–473, title II, § 633, Oct. 12, 1984, 98 Stat. 2119; Pub. L. 100–690, title VII, § 7262, Nov. 18, 1988, 102 Stat. 4442; Pub. L. 102–586, § 2(g)(3), Nov. 4, 1992, 106 Stat. 4996; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(D)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76, related to technical assistance and training functions, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-Section 11145, Pub. L. 93–415, title II, § 245, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1885, related to eligibility of entities. Section was formerly classified to section 5655 of Title 42, The Public Health and Welfare.
+Section 11145, Pub. L. 93–415, title II, § 245, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1885, related to eligibility of entities. Section was formerly classified to section 5655 of Title 42, The Public Health and Welfare.
 
-A prior section 245 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, § 5(c), Oct. 3, 1977, 91 Stat. 1057; Pub. L. 96–509, § 19(*l*), Dec. 8, 1980, 94 Stat. 2765, provided for the functions of the Advisory Committee, prior to repeal by Pub. L. 98–473, title II, §§ 634, 670(a), Oct. 12, 1984, 98 Stat. 2119, 2129, effective Oct. 12, 1984.
+A prior section 245 of Pub. L. 93–415, title II, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, § 5(c), Oct. 3, 1977, 91 Stat. 1057; Pub. L. 96–509, § 19(*l*), Dec. 8, 1980, 94 Stat. 2765, provided for the functions of the Advisory Committee, prior to repeal by Pub. L. 98–473, title II, §§ 634, 670(a), Oct. 12, 1984, 98 Stat. 2119, 2129, effective Oct. 12, 1984.
 
 Another prior section 245 of Pub. L. 93–415 was classified to section 5659 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 107–273.
 
 Another prior section 245 of Pub. L. 93–415 was classified to section 5656 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 100–690.
 
-Section, 11146, Pub. L. 93–415, title II, § 246, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1886, related to grants to Indian tribes. Section was formerly classified to section 5656 of Title 42, The Public Health and Welfare.
+Section, 11146, Pub. L. 93–415, title II, § 246, as added Pub. L. 107–273, div. C, title II, § 12210(4), Nov. 2, 2002, 116 Stat. 1886, related to grants to Indian tribes. Section was formerly classified to section 5656 of Title 42, The Public Health and Welfare.
 
-A prior section 246 of Pub. L. 93–415, title II, formerly § 250, Sept. 7, 1974, 88 Stat. 1128; renumbered § 249 and amended Pub. L. 95–115, §§ 3(a)(3)(B), 5(e)(1), (2)(A), Oct. 3, 1977, 91 Stat. 1048, 1057; Pub. L. 96–509, § 19(*o*), Dec. 8, 1980, 94 Stat. 2765; renumbered § 248 Pub. L. 98–473, title II, § 638, Oct. 12, 1984, 98 Stat. 2120; renumbered § 246 and amended Pub. L. 100–690, title VII, § 7263(a)(2)(E), (b)(2), Nov. 18, 1988, 102 Stat. 4443, 4447; Pub. L. 102–586, § 2(g)(5), Nov. 4, 1992, 106 Stat. 4996, related to the curriculum for training program, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior section 246 of Pub. L. 93–415, title II, formerly § 250, Sept. 7, 1974, 88 Stat. 1128; renumbered § 249 and amended Pub. L. 95–115, §§ 3(a)(3)(B), 5(e)(1), (2)(A), Oct. 3, 1977, 91 Stat. 1048, 1057; Pub. L. 96–509, § 19(*o*), Dec. 8, 1980, 94 Stat. 2765; renumbered § 248 Pub. L. 98–473, title II, § 638, Oct. 12, 1984, 98 Stat. 2120; renumbered § 246 and amended Pub. L. 100–690, title VII, § 7263(a)(2)(E), (b)(2), Nov. 18, 1988, 102 Stat. 4443, 4447; Pub. L. 102–586, § 2(g)(5), Nov. 4, 1992, 106 Stat. 4996, related to the curriculum for training program, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-Another prior section 246 of Pub. L. 93–415, title II, formerly § 247, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, § 5(d), Oct. 3, 1977, 91 Stat. 1057; renumbered § 246 and amended Pub. L. 98–473, title II, § 636, Oct. 12, 1984, 98 Stat. 2120, set forth additional functions of the Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by Pub. L. 100–690, title VII, §§ 7263(a)(2)(C), 7296(a), Nov. 18, 1988, 102 Stat. 4443, 4463, effective Oct. 1, 1988.
+Another prior section 246 of Pub. L. 93–415, title II, formerly § 247, Sept. 7, 1974, 88 Stat. 1127; Pub. L. 95–115, § 5(d), Oct. 3, 1977, 91 Stat. 1057; renumbered § 246 and amended Pub. L. 98–473, title II, § 636, Oct. 12, 1984, 98 Stat. 2120, set forth additional functions of the Institute for Juvenile Justice and Delinquency Prevention, prior to repeal by Pub. L. 100–690, title VII, §§ 7263(a)(2)(C), 7296(a), Nov. 18, 1988, 102 Stat. 4443, 4463, effective Oct. 1, 1988.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2683,9 +2683,9 @@ Repeal not applicable with respect to funds appropriated for any fiscal year tha
 
 **Prior Provisions**
 
-A prior part D of title II of Pub. L. 93–415 related to gang-free schools and communities and gang intervention, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior part D of title II of Pub. L. 93–415 related to gang-free schools and communities and gang intervention, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-#### § 11161. Research and evaluation; statistical analyses; information dissemination
+#### § 11161. Research and evaluation; statistical analyses; information dissemination
 
 **(a) Research and evaluation**
 
@@ -2723,9 +2723,9 @@ A prior part D of title II of Pub. L. 93–415 related to gang-free schools and 
 
 **(xiv)** successful and cost-effective efforts by States and units of local government to reduce recidivism through policies that provide for consideration of appropriate alternative sanctions to incarceration of youth facing nonviolent charges, while ensuring that public safety is preserved;
 
-**(xvi)**  1
+**(xvi)** 1
 
-<sup>1</sup>  So in original. There is no cl. (xv).
+<sup>1</sup> So in original. There is no cl. (xv).
 
 evaluating services, treatment, and aftercare placement of juveniles who were under the care of the State child protection system before their placement in the juvenile justice system;
 
@@ -2755,9 +2755,9 @@ evaluating services, treatment, and aftercare placement of juveniles who were un
 
 **(C)** the Federal and local sources of funds used for placements and post-placement services;
 
-**(D)** barriers faced by State 2
+**(D)** barriers faced by State 2
 
-<sup>2</sup>  So in original. Probably should be “States”.
+<sup>2</sup> So in original. Probably should be “States”.
 
 and Indian Tribes in providing services to these juveniles;
 
@@ -2801,7 +2801,7 @@ A Federal agency that makes an agreement under subsections (a)(1)(B) and (b)(2) 
 
 **(3)** make cumulative juvenile recidivism data that is collected from States available to the public.
 
-(Pub. L. 93–415, title II, § 251, as added Pub. L. 107–273, div. C, title II, § 12211, Nov. 2, 2002, 116 Stat. 1888; amended Pub. L. 115–385, title II, § 207, Dec. 21, 2018, 132 Stat. 5140.)
+(Pub. L. 93–415, title II, § 251, as added Pub. L. 107–273, div. C, title II, § 12211, Nov. 2, 2002, 116 Stat. 1888; amended Pub. L. 115–385, title II, § 207, Dec. 21, 2018, 132 Stat. 5140.)
 
 **Editorial Notes**
 
@@ -2811,25 +2811,25 @@ Section was formerly classified to section 5661 of Title 42, The Public Health a
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–385, § 207(1)(A)(i), substituted “shall” for “may” in introductory provisions.
+2018—Subsec. (a)(1). Pub. L. 115–385, § 207(1)(A)(i), substituted “shall” for “may” in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 115–385, § 207(1)(A)(ii), substituted “annually publish a plan to identify” for “plan and identify”.
+Subsec. (a)(1)(A). Pub. L. 115–385, § 207(1)(A)(ii), substituted “annually publish a plan to identify” for “plan and identify”.
 
-Subsec. (a)(1)(B)(iii). Pub. L. 115–385, § 207(1)(A)(iii)(I), added cl. (iii) and struck out former cl. (iii) which read as follows: “successful efforts to prevent first-time minor offenders from committing subsequent involvement in serious crime;”.
+Subsec. (a)(1)(B)(iii). Pub. L. 115–385, § 207(1)(A)(iii)(I), added cl. (iii) and struck out former cl. (iii) which read as follows: “successful efforts to prevent first-time minor offenders from committing subsequent involvement in serious crime;”.
 
-Subsec. (a)(1)(B)(vii). Pub. L. 115–385, § 207(1)(A)(iii)(II), added cl. (vii) and struck out former cl. (vii) which read as follows: “appropriate mental health services for juveniles and youth at risk of participating in delinquent activities;”.
+Subsec. (a)(1)(B)(vii). Pub. L. 115–385, § 207(1)(A)(iii)(II), added cl. (vii) and struck out former cl. (vii) which read as follows: “appropriate mental health services for juveniles and youth at risk of participating in delinquent activities;”.
 
-Subsec. (a)(1)(B)(ix) to (xviii). Pub. L. 115–385, § 207(1)(A)(iii)(III), (IV), added cls. (ix) to (xiv) and redesignated former cls. (ix) to (xi) as (xvi) to (xviii), respectively.
+Subsec. (a)(1)(B)(ix) to (xviii). Pub. L. 115–385, § 207(1)(A)(iii)(III), (IV), added cls. (ix) to (xiv) and redesignated former cls. (ix) to (xi) as (xvi) to (xviii), respectively.
 
-Subsec. (a)(4). Pub. L. 115–385, § 207(1)(B)(i), in introductory provisions, substituted “December 21, 2018” for “November 2, 2002” and inserted “in accordance with applicable confidentiality requirements” after “wards of the State”.
+Subsec. (a)(4). Pub. L. 115–385, § 207(1)(B)(i), in introductory provisions, substituted “December 21, 2018” for “November 2, 2002” and inserted “in accordance with applicable confidentiality requirements” after “wards of the State”.
 
-Subsec. (a)(4)(D). Pub. L. 115–385, § 207(1)(B)(ii), inserted “and Indian Tribes” after “State”.
+Subsec. (a)(4)(D). Pub. L. 115–385, § 207(1)(B)(ii), inserted “and Indian Tribes” after “State”.
 
-Subsec. (a)(4)(H), (I). Pub. L. 115–385, § 207(1)(B)(iii)–(v), added subpars. (H) and (I).
+Subsec. (a)(4)(H), (I). Pub. L. 115–385, § 207(1)(B)(iii)–(v), added subpars. (H) and (I).
 
-Subsec. (b). Pub. L. 115–385, § 207(2), substituted “shall” for “may” in introductory provisions.
+Subsec. (b). Pub. L. 115–385, § 207(2), substituted “shall” for “may” in introductory provisions.
 
-Subsec. (f). Pub. L. 115–385, § 207(3), added subsec. (f).
+Subsec. (f). Pub. L. 115–385, § 207(3), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2841,7 +2841,7 @@ Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated
 
 Part effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under section 11101 of this title.
 
-#### § 11162. Training and technical assistance
+#### § 11162. Training and technical assistance
 
 **(a) Training** The Administrator—
 
@@ -2905,7 +2905,7 @@ The Administrator shall provide training and technical assistance to mental heal
 
 The Attorney General, in consultation with the Secretary of Agriculture, shall provide guidance to States relating to existing options for school food authorities in the States to apply for reimbursement for free or reduced price lunches under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) for juveniles who are incarcerated and would, if not incarcerated, be eligible for free or reduced price lunches under that Act.
 
-(Pub. L. 93–415, title II, § 252, as added Pub. L. 107–273, div. C, title II, § 12211, Nov. 2, 2002, 116 Stat. 1890; amended Pub. L. 115–385, title II, § 208, Dec. 21, 2018, 132 Stat. 5142.)
+(Pub. L. 93–415, title II, § 252, as added Pub. L. 107–273, div. C, title II, § 12211, Nov. 2, 2002, 116 Stat. 1890; amended Pub. L. 115–385, title II, § 208, Dec. 21, 2018, 132 Stat. 5142.)
 
 **Editorial Notes**
 
@@ -2915,7 +2915,7 @@ This chapter, referred to in subsecs. (a)(3) and (h)(2), was in the original “
 
 The Juvenile Justice Reform Act of 2018, referred to in subsec. (b)(3), is Pub. L. 115–385, Dec. 21, 2018, 132 Stat. 5123. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 10101 of this title and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (i), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (i), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 **Codification**
 
@@ -2923,25 +2923,25 @@ Section was formerly classified to section 5662 of Title 42, The Public Health a
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–385, § 208(1)(A), struck out “may” after “Administrator” in introductory provisions.
+2018—Subsec. (a). Pub. L. 115–385, § 208(1)(A), struck out “may” after “Administrator” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 115–385, § 208(1)(B), inserted “shall” before “develop and carry out projects” and struck out “and” at end.
+Subsec. (a)(1). Pub. L. 115–385, § 208(1)(B), inserted “shall” before “develop and carry out projects” and struck out “and” at end.
 
-Subsec. (a)(2). Pub. L. 115–385, § 208(1)(C), inserted “may” before “make grants to and contracts with” and substituted “; and” for period at end.
+Subsec. (a)(2). Pub. L. 115–385, § 208(1)(C), inserted “may” before “make grants to and contracts with” and substituted “; and” for period at end.
 
-Subsec. (a)(3). Pub. L. 115–385, § 208(1)(D), added par. (3).
+Subsec. (a)(3). Pub. L. 115–385, § 208(1)(D), added par. (3).
 
-Subsec. (b). Pub. L. 115–385, § 208(2)(A), struck out “may” after “Administrator” in introductory provisions.
+Subsec. (b). Pub. L. 115–385, § 208(2)(A), struck out “may” after “Administrator” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 115–385, § 208(2)(B), inserted “shall” before “develop and implement projects” and “, including compliance with the core requirements” after “this subchapter” and struck out “and” at end.
+Subsec. (b)(1). Pub. L. 115–385, § 208(2)(B), inserted “shall” before “develop and implement projects” and “, including compliance with the core requirements” after “this subchapter” and struck out “and” at end.
 
-Subsec. (b)(2). Pub. L. 115–385, § 208(2)(C), inserted “may” before “make grants to and contracts with” and substituted semicolon for period at end.
+Subsec. (b)(2). Pub. L. 115–385, § 208(2)(C), inserted “may” before “make grants to and contracts with” and substituted semicolon for period at end.
 
-Subsec. (b)(3), (4). Pub. L. 115–385, § 208(2)(D), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 115–385, § 208(2)(D), added pars. (3) and (4).
 
-Subsec. (c). Pub. L. 115–385, § 208(3), inserted “prosecutors,” after “public defenders,” and “status offenders and” after “needs of”.
+Subsec. (c). Pub. L. 115–385, § 208(3), inserted “prosecutors,” after “public defenders,” and “status offenders and” after “needs of”.
 
-Subsecs. (d) to (i). Pub. L. 115–385, § 208(4), added subsecs. (d) to (i).
+Subsecs. (d) to (i). Pub. L. 115–385, § 208(4), added subsecs. (d) to (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2955,9 +2955,9 @@ Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated
 
 **Prior Provisions**
 
-A prior part E of title II of Pub. L. 93–415 related to State challenge activities, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior part E of title II of Pub. L. 93–415 related to State challenge activities, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-#### § 11171. Grants and projects
+#### § 11171. Grants and projects
 
 **(a) Authority to make grants**
 
@@ -2967,7 +2967,7 @@ The Administrator may make grants to and contracts with States, units of general
 
 A grant made under subsection (a) may be used to pay all or part of the cost of the project for which such grant is made.
 
-(Pub. L. 93–415, title II, § 261, as added Pub. L. 107–273, div. C, title II, § 12212, Nov. 2, 2002, 116 Stat. 1891.)
+(Pub. L. 93–415, title II, § 261, as added Pub. L. 107–273, div. C, title II, § 12212, Nov. 2, 2002, 116 Stat. 1891.)
 
 **Editorial Notes**
 
@@ -2977,9 +2977,9 @@ Section was formerly classified to section 5665 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 261 of title II of Pub. L. 93–415, as added Pub. L. 100–690, title VII, § 7263(a)(2)(F), Nov. 18, 1988, 102 Stat. 4443; amended Pub. L. 102–586, § 2(g)(7), Nov. 4, 1992, 106 Stat. 5000, related to authority to make grants and contracts, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior section 261 of title II of Pub. L. 93–415, as added Pub. L. 100–690, title VII, § 7263(a)(2)(F), Nov. 18, 1988, 102 Stat. 4443; amended Pub. L. 102–586, § 2(g)(7), Nov. 4, 1992, 106 Stat. 5000, related to authority to make grants and contracts, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-Another prior section 261 of Pub. L. 93–415 was renumbered section 299 and was classified to section 11181 of this title, prior to repeal by Pub. L. 115–385, title IV, § 402(c)(1), Dec. 21, 2018, 132 Stat. 5160.
+Another prior section 261 of Pub. L. 93–415 was renumbered section 299 and was classified to section 11181 of this title, prior to repeal by Pub. L. 115–385, title IV, § 402(c)(1), Dec. 21, 2018, 132 Stat. 5160.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2987,11 +2987,11 @@ Another prior section 261 of Pub. L. 93–415 was renumbered section 299 and was
 
 Part effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under section 11101 of this title.
 
-#### § 11172. Grants for technical assistance
+#### § 11172. Grants for technical assistance
 
 The Administrator may make grants to and contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local government, Indian tribal governments, local private entities or agencies, or any combination thereof, to carry out the projects for which grants are made under section 11171 of this title.
 
-(Pub. L. 93–415, title II, § 262, as added Pub. L. 107–273, div. C, title II, § 12212, Nov. 2, 2002, 116 Stat. 1891.)
+(Pub. L. 93–415, title II, § 262, as added Pub. L. 107–273, div. C, title II, § 12212, Nov. 2, 2002, 116 Stat. 1891.)
 
 **Editorial Notes**
 
@@ -3005,11 +3005,11 @@ A prior section 262 of Pub. L. 93–415 was classified to section 5665a of Title
 
 Another prior section 262 of Pub. L. 93–415 was renumbered section 299A and is classified to section 11182 of this title.
 
-#### § 11173. Eligibility
+#### § 11173. Eligibility
 
 To be eligible to receive a grant made under this part, a public or private agency, Indian tribal government, organization, institution, individual, or combination thereof shall submit an application to the Administrator at such time, in such form, and containing such information as the Administrator may reasonably require by rule.
 
-(Pub. L. 93–415, title II, § 263, as added Pub. L. 107–273, div. C, title II, § 12212, Nov. 2, 2002, 116 Stat. 1891.)
+(Pub. L. 93–415, title II, § 263, as added Pub. L. 107–273, div. C, title II, § 12212, Nov. 2, 2002, 116 Stat. 1891.)
 
 **Editorial Notes**
 
@@ -3021,11 +3021,11 @@ Section was formerly classified to section 5667 of Title 42, The Public Health a
 
 A prior section 263 of Pub. L. 93–415 was set out as notes under section 5601 of Title 42, The Public Health and Welfare, prior to repeal and editorial reclassification of section 5601 of Title 42 as section 11101 of this title. See Effective Date of 1977 Amendment note and Effective Date note under section 11101 of this title.
 
-#### § 11174. Reports
+#### § 11174. Reports
 
 Recipients of grants made under this part shall submit to the Administrator such reports as may be reasonably requested by the Administrator to describe progress achieved in carrying out the projects for which such grants are made.
 
-(Pub. L. 93–415, title II, § 264, as added Pub. L. 107–273, div. C, title II, § 12212, Nov. 2, 2002, 116 Stat. 1891.)
+(Pub. L. 93–415, title II, § 264, as added Pub. L. 107–273, div. C, title II, § 12212, Nov. 2, 2002, 116 Stat. 1891.)
 
 **Editorial Notes**
 
@@ -3039,23 +3039,23 @@ Section was formerly classified to section 5668 of Title 42, The Public Health a
 
 **Codification**
 
-Part F of title II of Pub. L. 93–415, classified to this part, was formerly part I of title II of Pub. L. 93–415, prior to redesignation as part F by Pub. L. 107–273, div. C, title II, § 12210(3), Nov. 2, 2002, 116 Stat. 1880.
+Part F of title II of Pub. L. 93–415, classified to this part, was formerly part I of title II of Pub. L. 93–415, prior to redesignation as part F by Pub. L. 107–273, div. C, title II, § 12210(3), Nov. 2, 2002, 116 Stat. 1880.
 
-Pub. L. 102–586, § 2(i)(1)(A), Nov. 4, 1992, 106 Stat. 5006, redesignated part E of title II of Pub. L. 93–415 as I.
+Pub. L. 102–586, § 2(i)(1)(A), Nov. 4, 1992, 106 Stat. 5006, redesignated part E of title II of Pub. L. 93–415 as I.
 
-Pub. L. 100–690, title VII, § 7266(1), Nov. 18, 1988, 102 Stat. 4449, redesignated part D of title II of Pub. L. 93–415 as E and substituted “General and Administrative Provisions” for “Administrative Provisions”.
+Pub. L. 100–690, title VII, § 7266(1), Nov. 18, 1988, 102 Stat. 4449, redesignated part D of title II of Pub. L. 93–415 as E and substituted “General and Administrative Provisions” for “Administrative Provisions”.
 
 **Prior Provisions**
 
-A prior part F of title II of Pub. L. 93–415 related to treatment for juvenile offenders who are victims of child abuse or neglect, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
+A prior part F of title II of Pub. L. 93–415 related to treatment for juvenile offenders who are victims of child abuse or neglect, prior to repeal by Pub. L. 107–273, div. C, title II, § 12210(1), Nov. 2, 2002, 116 Stat. 1880.
 
-#### § 11181. Repealed. Pub. L. 115–385, title IV, § 402(c)(1), Dec. 21, 2018, 132 Stat. 5160
+#### § 11181. Repealed. Pub. L. 115–385, title IV, § 402(c)(1), Dec. 21, 2018, 132 Stat. 5160
 
-Section, Pub. L. 93–415, title II, § 299, formerly § 261, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 94–273, § 32(b), Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–503, title I, § 130(a), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, § 6(b), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §§ 2(a), 15, Dec. 8, 1980, 94 Stat. 2750, 2760; Pub. L. 98–473, title II, § 640, Oct. 12, 1984, 98 Stat. 2121; renumbered § 291 and amended Pub. L. 100–690, title VII, §§ 7265, 7266(3), Nov. 18, 1988, 102 Stat. 4448, 4449; Pub. L. 101–204, title X, §§ 1001(e)(1), 1002, Dec. 7, 1989, 103 Stat. 1827; renumbered § 299 and amended Pub. L. 102–586, § 2(i)(1)(B), (j), Nov. 4, 1992, 106 Stat. 5006, 5016; Pub. L. 107–273, div. C, title II, § 12213, Nov. 2, 2002, 116 Stat. 1891, authorized appropriations for this subchapter for fiscal years 2003 to 2007.
+Section, Pub. L. 93–415, title II, § 299, formerly § 261, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 94–273, § 32(b), Apr. 21, 1976, 90 Stat. 380; Pub. L. 94–503, title I, § 130(a), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, § 6(b), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §§ 2(a), 15, Dec. 8, 1980, 94 Stat. 2750, 2760; Pub. L. 98–473, title II, § 640, Oct. 12, 1984, 98 Stat. 2121; renumbered § 291 and amended Pub. L. 100–690, title VII, §§ 7265, 7266(3), Nov. 18, 1988, 102 Stat. 4448, 4449; Pub. L. 101–204, title X, §§ 1001(e)(1), 1002, Dec. 7, 1989, 103 Stat. 1827; renumbered § 299 and amended Pub. L. 102–586, § 2(i)(1)(B), (j), Nov. 4, 1992, 106 Stat. 5006, 5016; Pub. L. 107–273, div. C, title II, § 12213, Nov. 2, 2002, 116 Stat. 1891, authorized appropriations for this subchapter for fiscal years 2003 to 2007.
 
 Section was formerly classified to section 5671 of Title 42, The Public Health and Welfare.
 
-#### § 11182. Administrative authority
+#### § 11182. Administrative authority
 
 **(a) Authority of Administrator**
 
@@ -3089,7 +3089,7 @@ The Office shall be administered by the Administrator under the general authorit
 
 If a State requires by law compliance with the core requirements, then for the period such law is in effect in such State such State shall be rebuttably presumed to satisfy such requirements.
 
-(Pub. L. 93–415, title II, § 299A, formerly § 262, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 95–115, § 6(c), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, § 16, Dec. 8, 1980, 94 Stat. 2761; Pub. L. 98–473, title II, § 641, Oct. 12, 1984, 98 Stat. 2122; renumbered § 292, Pub. L. 100–690, title VII, § 7266(3), Nov. 18, 1988, 102 Stat. 4449; renumbered § 299A, Pub. L. 102–586, § 2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; Pub. L. 107–273, div. C, title II, § 12214, Nov. 2, 2002, 116 Stat. 1892; Pub. L. 115–385, title II, § 209, Dec. 21, 2018, 132 Stat. 5144.)
+(Pub. L. 93–415, title II, § 299A, formerly § 262, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 95–115, § 6(c), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, § 16, Dec. 8, 1980, 94 Stat. 2761; Pub. L. 98–473, title II, § 641, Oct. 12, 1984, 98 Stat. 2122; renumbered § 292, Pub. L. 100–690, title VII, § 7266(3), Nov. 18, 1988, 102 Stat. 4449; renumbered § 299A, Pub. L. 102–586, § 2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; Pub. L. 107–273, div. C, title II, § 12214, Nov. 2, 2002, 116 Stat. 1892; Pub. L. 115–385, title II, § 209, Dec. 21, 2018, 132 Stat. 5144.)
 
 **Editorial Notes**
 
@@ -3103,13 +3103,13 @@ Section was formerly classified to section 5672 of Title 42, The Public Health a
 
 **Amendments**
 
-2018—Subsec. (d). Pub. L. 115–385, § 209(1), designated existing provisions as par. (1), struck out “, after appropriate consultation with representatives of States and units of local government,” after “Administrator is authorized”, inserted “guidance,” after “regulations,” and “In developing guidance and procedures, the Administrator shall consult with representatives of States and units of local government, including those individuals responsible for administration of this chapter and compliance with the core requirements.” at end, and added par. (2).
+2018—Subsec. (d). Pub. L. 115–385, § 209(1), designated existing provisions as par. (1), struck out “, after appropriate consultation with representatives of States and units of local government,” after “Administrator is authorized”, inserted “guidance,” after “regulations,” and “In developing guidance and procedures, the Administrator shall consult with representatives of States and units of local government, including those individuals responsible for administration of this chapter and compliance with the core requirements.” at end, and added par. (2).
 
-Subsec. (e). Pub. L. 115–385, § 209(2), substituted “core requirements” for “requirements described in paragraphs (11), (12), and (13) of section 11133(a) of this title”.
+Subsec. (e). Pub. L. 115–385, § 209(2), substituted “core requirements” for “requirements described in paragraphs (11), (12), and (13) of section 11133(a) of this title”.
 
-2002—Subsec. (d). Pub. L. 107–273, § 12214(1), substituted “only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance” for “as are consistent with the purpose of this chapter”.
+2002—Subsec. (d). Pub. L. 107–273, § 12214(1), substituted “only to the extent necessary to ensure that there is compliance with the specific requirements of this subchapter or to respond to requests for clarification and guidance relating to such compliance” for “as are consistent with the purpose of this chapter”.
 
-Subsec. (e). Pub. L. 107–273, § 12214(2), added subsec. (e).
+Subsec. (e). Pub. L. 107–273, § 12214(2), added subsec. (e).
 
 1984—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions setting forth the administrative authority of the Office for former provisions which incorporated other administrative provisions into this chapter as well as construing certain references as authorizing the Administrator of the Office of Juvenile Justice and Delinquency Prevention to perform the same actions as other officials.
 
@@ -3137,9 +3137,9 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by section 6(d)(2) of Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by section 6(d)(2) of Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
-#### § 11183. Withholding
+#### § 11183. Withholding
 
 Whenever the Administrator, after giving reasonable notice and opportunity for hearing to a recipient of financial assistance under this subchapter, finds that—
 
@@ -3149,7 +3149,7 @@ Whenever the Administrator, after giving reasonable notice and opportunity for h
 
 the Administrator shall initiate such proceedings as are appropriate.
 
-(Pub. L. 93–415, title II, § 299B, formerly § 293, as added Pub. L. 100–690, title VII, § 7266(4), Nov. 18, 1988, 102 Stat. 4449; renumbered § 299B, Pub. L. 102–586, § 2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.)
+(Pub. L. 93–415, title II, § 299B, formerly § 293, as added Pub. L. 100–690, title VII, § 7266(4), Nov. 18, 1988, 102 Stat. 4449; renumbered § 299B, Pub. L. 102–586, § 2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.)
 
 **Editorial Notes**
 
@@ -3163,7 +3163,7 @@ Section was formerly classified to section 5673 of Title 42, The Public Health a
 
 Section effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 11101 of this title.
 
-#### § 11184. Use of funds
+#### § 11184. Use of funds
 
 **(a) In general** Funds paid pursuant to this subchapter to any public or private agency, organization, or institution, or to any individual (either directly or through a State planning agency) may be used for—
 
@@ -3187,7 +3187,7 @@ Except as provided in subsection (a), no funds paid to any public or private age
 
 **(B)** otherwise complies with the Interstate Compact on the Placement of Children as entered into by such other State.
 
-(Pub. L. 93–415, title II, § 299C, formerly § 294, as added Pub. L. 100–690, title VII, § 7266(4), Nov. 18, 1988, 102 Stat. 4449; renumbered § 299C, Pub. L. 102–586, § 2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; Pub. L. 107–273, div. C, title II, § 12215, Nov. 2, 2002, 116 Stat. 1892.)
+(Pub. L. 93–415, title II, § 299C, formerly § 294, as added Pub. L. 100–690, title VII, § 7266(4), Nov. 18, 1988, 102 Stat. 4449; renumbered § 299C, Pub. L. 102–586, § 2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; Pub. L. 107–273, div. C, title II, § 12215, Nov. 2, 2002, 116 Stat. 1892.)
 
 **Editorial Notes**
 
@@ -3213,7 +3213,7 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 
 Section effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 11101 of this title.
 
-#### § 11185. Payments
+#### § 11185. Payments
 
 **(a) In general**
 
@@ -3229,7 +3229,7 @@ Except as provided in the second sentence of section 11132(c) of this title, fin
 
 **(2)** If a State does not have an adequate forum to enforce grant provisions imposing any liability on Indian tribes, the Administrator may waive State liability attributable to the liability of such tribes and may pursue such legal remedies as are necessary.
 
-(Pub. L. 93–415, title II, § 299D, formerly § 295, as added Pub. L. 100–690, title VII, § 7266(4), Nov. 18, 1988, 102 Stat. 4450; renumbered § 299D, Pub. L. 102–586, § 2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; amended Pub. L. 107–273, div. C, title II, § 12221(a)(3), Nov. 2, 2002, 116 Stat. 1894.)
+(Pub. L. 93–415, title II, § 299D, formerly § 295, as added Pub. L. 100–690, title VII, § 7266(4), Nov. 18, 1988, 102 Stat. 4450; renumbered § 299D, Pub. L. 102–586, § 2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006; amended Pub. L. 107–273, div. C, title II, § 12221(a)(3), Nov. 2, 2002, 116 Stat. 1894.)
 
 **Editorial Notes**
 
@@ -3251,11 +3251,11 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 
 Section effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 11101 of this title.
 
-#### § 11186. Confidentiality of program records
+#### § 11186. Confidentiality of program records
 
 Except as authorized by law, program records containing the identity of individual juveniles gathered for purposes pursuant to this subchapter may not be disclosed without the consent of the service recipient or legally authorized representative, or as may be necessary to carry out this subchapter. Under no circumstances may program reports or findings available for public dissemination contain the actual names of individual service recipients.
 
-(Pub. L. 93–415, title II, § 299E, formerly § 296, as added Pub. L. 100–690, title VII, § 7266(4), Nov. 18, 1988, 102 Stat. 4450; renumbered § 299E, Pub. L. 102–586, § 2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.)
+(Pub. L. 93–415, title II, § 299E, formerly § 296, as added Pub. L. 100–690, title VII, § 7266(4), Nov. 18, 1988, 102 Stat. 4450; renumbered § 299E, Pub. L. 102–586, § 2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.)
 
 **Editorial Notes**
 
@@ -3269,11 +3269,11 @@ Section was formerly classified to section 5676 of Title 42, The Public Health a
 
 Section effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 11101 of this title.
 
-#### § 11187. Limitations on use of funds
+#### § 11187. Limitations on use of funds
 
 None of the funds made available to carry out this subchapter may be used to advocate for, or support, the unsecured release of juveniles who are charged with a violent crime.
 
-(Pub. L. 93–415, title II, § 299F, as added Pub. L. 107–273, div. C, title II, § 12216, Nov. 2, 2002, 116 Stat. 1893.)
+(Pub. L. 93–415, title II, § 299F, as added Pub. L. 107–273, div. C, title II, § 12216, Nov. 2, 2002, 116 Stat. 1893.)
 
 **Editorial Notes**
 
@@ -3287,7 +3287,7 @@ Section was formerly classified to section 5677 of Title 42, The Public Health a
 
 Section effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under section 11101 of this title.
 
-#### § 11188. Rules of construction
+#### § 11188. Rules of construction
 
 Nothing in this subchapter or subchapter I shall be construed—
 
@@ -3295,7 +3295,7 @@ Nothing in this subchapter or subchapter I shall be construed—
 
 **(2)** to modify or affect any Federal or State law relating to collective bargaining rights of employees.
 
-(Pub. L. 93–415, title II, § 299G, as added Pub. L. 107–273, div. C, title II, § 12217, Nov. 2, 2002, 116 Stat. 1893.)
+(Pub. L. 93–415, title II, § 299G, as added Pub. L. 107–273, div. C, title II, § 12217, Nov. 2, 2002, 116 Stat. 1893.)
 
 **Editorial Notes**
 
@@ -3309,11 +3309,11 @@ Section was formerly classified to section 5678 of Title 42, The Public Health a
 
 Section effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under section 11101 of this title.
 
-#### § 11189. Leasing surplus Federal property
+#### § 11189. Leasing surplus Federal property
 
 The Administrator may receive surplus Federal property (including facilities) and may lease such property to States and units of general local government for use in or as facilities for juvenile offenders, or for use in or as facilities for delinquency prevention and treatment activities.
 
-(Pub. L. 93–415, title II, § 299H, as added Pub. L. 107–273, div. C, title II, § 12218, Nov. 2, 2002, 116 Stat. 1893.)
+(Pub. L. 93–415, title II, § 299H, as added Pub. L. 107–273, div. C, title II, § 12218, Nov. 2, 2002, 116 Stat. 1893.)
 
 **Editorial Notes**
 
@@ -3327,11 +3327,11 @@ Section was formerly classified to section 5679 of Title 42, The Public Health a
 
 Section effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under section 11101 of this title.
 
-#### § 11190. Issuance of rules
+#### § 11190. Issuance of rules
 
 The Administrator shall issue rules to carry out this subchapter, including rules that establish procedures and methods for making grants and contracts, and distributing funds available, to carry out this subchapter.
 
-(Pub. L. 93–415, title II, § 299I, as added Pub. L. 107–273, div. C, title II, § 12219, Nov. 2, 2002, 116 Stat. 1893.)
+(Pub. L. 93–415, title II, § 299I, as added Pub. L. 107–273, div. C, title II, § 12219, Nov. 2, 2002, 116 Stat. 1893.)
 
 **Editorial Notes**
 
@@ -3345,11 +3345,11 @@ Section was formerly classified to section 5680 of Title 42, The Public Health a
 
 Section effective on the first day of the first fiscal year that begins after Nov. 2, 2002, and applicable only with respect to fiscal years beginning on or after the first day of the first fiscal year that begins after Nov. 2, 2002, see section 12223 of Pub. L. 107–273, set out as an Effective Date of 2002 Amendment note under section 11101 of this title.
 
-#### § 11191. Content of materials
+#### § 11191. Content of materials
 
 Materials produced, procured, or distributed both using funds appropriated to carry out this chapter and for the purpose of preventing hate crimes that result in acts of physical violence, shall not recommend or require any action that abridges or infringes upon the constitutionally protected rights of free speech, religion, or equal protection of juveniles or of their parents or legal guardians.
 
-(Pub. L. 93–415, title II, § 299J, as added Pub. L. 107–273, div. C, title II, § 12220, Nov. 2, 2002, 116 Stat. 1893.)
+(Pub. L. 93–415, title II, § 299J, as added Pub. L. 107–273, div. C, title II, § 12220, Nov. 2, 2002, 116 Stat. 1893.)
 
 **Editorial Notes**
 
@@ -3369,7 +3369,7 @@ Section effective on the first day of the first fiscal year that begins after No
 
 ## SUBCHAPTER III—RUNAWAY AND HOMELESS YOUTH
 
-### § 11201. Findings
+### § 11201. Findings
 
 The Congress finds that—
 
@@ -3389,7 +3389,7 @@ The Congress finds that—
 
 **(E)** closeness in interpersonal relationships.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 **(4)** in view of the interstate nature of the problem, it is the responsibility of the Federal Government to develop an accurate national reporting system to report the problem, and to assist in the development of an effective system of care (including preventive and aftercare services, emergency shelter services, extended residential shelter, and street outreach services) outside the welfare system and the law enforcement system;
 
@@ -3397,7 +3397,7 @@ The Congress finds that—
 
 **(6)** improved coordination and collaboration between the Federal programs that serve runaway and homeless youth are necessary for the development of a long-term strategy for responding to the needs of this population.
 
-(Pub. L. 93–415, title III, § 302, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 102–586, § 3(a), Nov. 4, 1992, 106 Stat. 5017; Pub. L. 106–71, § 3(a), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–96, title I, § 101, Oct. 10, 2003, 117 Stat. 1167; Pub. L. 110–378, § 2, Oct. 8, 2008, 122 Stat. 4068.)
+(Pub. L. 93–415, title III, § 302, Sept. 7, 1974, 88 Stat. 1129; Pub. L. 102–586, § 3(a), Nov. 4, 1992, 106 Stat. 5017; Pub. L. 106–71, § 3(a), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–96, title I, § 101, Oct. 10, 2003, 117 Stat. 1167; Pub. L. 110–378, § 2, Oct. 8, 2008, 122 Stat. 4068.)
 
 **Editorial Notes**
 
@@ -3411,15 +3411,15 @@ Section was formerly classified to section 5701 of Title 42, The Public Health a
 
 2003—Pub. L. 108–96 amended section generally. Prior to amendment, section contained congressional statement of findings.
 
-1999—Par. (5). Pub. L. 106–71, § 3(a)(1), substituted “an accurate national reporting system to report the problem, and to assist in the development of” for “accurate reporting of the problem nationally and to develop”.
+1999—Par. (5). Pub. L. 106–71, § 3(a)(1), substituted “an accurate national reporting system to report the problem, and to assist in the development of” for “accurate reporting of the problem nationally and to develop”.
 
-Par. (8). Pub. L. 106–71, § 3(a)(2), added par. (8) and struck out former par. (8) which read as follows: “in view of the interstate nature of the problem, it is the responsibility of the Federal Government to develop an accurate national reporting system and to develop an effective system of care including prevention, emergency shelter services, and longer residential care outside the public welfare and law enforcement structures;”.
+Par. (8). Pub. L. 106–71, § 3(a)(2), added par. (8) and struck out former par. (8) which read as follows: “in view of the interstate nature of the problem, it is the responsibility of the Federal Government to develop an accurate national reporting system and to develop an effective system of care including prevention, emergency shelter services, and longer residential care outside the public welfare and law enforcement structures;”.
 
-1992—Par. (1). Pub. L. 102–586, § 3(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the number of juveniles who leave and remain away from home without parental permission has increased to alarming proportions, creating a substantial law enforcement problem for the communities inundated, and significantly endangering the young people who are without resources and live on the street;”.
+1992—Par. (1). Pub. L. 102–586, § 3(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the number of juveniles who leave and remain away from home without parental permission has increased to alarming proportions, creating a substantial law enforcement problem for the communities inundated, and significantly endangering the young people who are without resources and live on the street;”.
 
-Par. (5). Pub. L. 102–586, § 3(a)(3), substituted “care (including preventive services, emergency shelter services, and extended residential shelter) outside the welfare system and the law enforcement system;” for “temporary care outside the law enforcement structure.”
+Par. (5). Pub. L. 102–586, § 3(a)(3), substituted “care (including preventive services, emergency shelter services, and extended residential shelter) outside the welfare system and the law enforcement system;” for “temporary care outside the law enforcement structure.”
 
-Pars. (6) to (10). Pub. L. 102–586, § 3(a)(2), (4), added pars. (6) to (10).
+Pars. (6) to (10). Pub. L. 102–586, § 3(a)(2), (4), added pars. (6) to (10).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3427,11 +3427,11 @@ Pars. (6) to (10). Pub. L. 102–586, § 3(a)(2), (4), added pars. (6) to (10)
 
 For short title of title III of Pub. L. 93–415, which is classified to this subchapter, as the “Runaway and Homeless Youth Act”, see section 301 of Pub. L. 93–415, set out as a Short Title of 1974 Act note under section 10101 of this title.
 
-### § 11202. Promulgation of rules
+### § 11202. Promulgation of rules
 
 The Secretary of Health and Human Services (hereinafter in this subchapter referred to as the “Secretary”) may issue such rules as the Secretary considers necessary or appropriate to carry out the purposes of this subchapter.
 
-(Pub. L. 93–415, title III, § 303, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 98–473, title II, § 650, Oct. 12, 1984, 98 Stat. 2122.)
+(Pub. L. 93–415, title III, § 303, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 98–473, title II, § 650, Oct. 12, 1984, 98 Stat. 2122.)
 
 **Editorial Notes**
 
@@ -3455,11 +3455,11 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Codification**
 
-Pub. L. 108–96, title I, § 102, Oct. 10, 2003, 117 Stat. 1168, substituted in part A heading “Basic Center” for “Runaway and Homeless Youth”.
+Pub. L. 108–96, title I, § 102, Oct. 10, 2003, 117 Stat. 1168, substituted in part A heading “Basic Center” for “Runaway and Homeless Youth”.
 
-Pub. L. 100–690, title VII, § 7272(1), Nov. 18, 1988, 102 Stat. 4454, substituted in part A heading “Runaway and Homeless Youth Grant Program” for “Grants Program”.
+Pub. L. 100–690, title VII, § 7272(1), Nov. 18, 1988, 102 Stat. 4454, substituted in part A heading “Runaway and Homeless Youth Grant Program” for “Grants Program”.
 
-#### § 11211. Authority to make grants
+#### § 11211. Authority to make grants
 
 **(a) Grants for centers and services**
 
@@ -3501,7 +3501,7 @@ The Secretary shall make grants to public and nonprofit private entities (and co
 
 **(3)** In selecting among applicants for grants under subsection (a), the Secretary shall give priority to private entities that have experience in providing the services described in such subsection.
 
-(Pub. L. 93–415, title III, § 311, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, § 7(a)(1), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, § 18(c), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, § 651, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, § 7271(a), (b), Nov. 18, 1988, 102 Stat. 4452; Pub. L. 102–586, § 3(b), Nov. 4, 1992, 106 Stat. 5018; Pub. L. 106–71, § 3(b), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–96, title I, §§ 103, 104, Oct. 10, 2003, 117 Stat. 1168; Pub. L. 110–378, § 3(a), Oct. 8, 2008, 122 Stat. 4068.)
+(Pub. L. 93–415, title III, § 311, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, § 7(a)(1), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, § 18(c), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, § 651, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, § 7271(a), (b), Nov. 18, 1988, 102 Stat. 4452; Pub. L. 102–586, § 3(b), Nov. 4, 1992, 106 Stat. 5018; Pub. L. 106–71, § 3(b), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–96, title I, §§ 103, 104, Oct. 10, 2003, 117 Stat. 1168; Pub. L. 110–378, § 3(a), Oct. 8, 2008, 122 Stat. 4068.)
 
 **Editorial Notes**
 
@@ -3511,43 +3511,43 @@ Section was formerly classified to section 5711 of Title 42, The Public Health a
 
 **Amendments**
 
-2008—Subsec. (a)(2)(B)(i). Pub. L. 110–378, § 3(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “safe and appropriate shelter; and”.
+2008—Subsec. (a)(2)(B)(i). Pub. L. 110–378, § 3(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “safe and appropriate shelter; and”.
 
-Subsec. (b)(2). Pub. L. 110–378, § 3(a)(2), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the” for “The”, “$200,000” for “$100,000”, and “$70,000” for “$45,000”, and added subpars. (B) and (C).
+Subsec. (b)(2). Pub. L. 110–378, § 3(a)(2), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), the” for “The”, “$200,000” for “$100,000”, and “$70,000” for “$45,000”, and added subpars. (B) and (C).
 
-2003—Subsec. (a)(2)(C)(iv). Pub. L. 108–96, § 103, added cl. (iv).
+2003—Subsec. (a)(2)(C)(iv). Pub. L. 108–96, § 103, added cl. (iv).
 
-Subsec. (b)(2). Pub. L. 108–96, § 104(1), substituted “The” for “Subject to paragraph (3), the”.
+Subsec. (b)(2). Pub. L. 108–96, § 104(1), substituted “The” for “Subject to paragraph (3), the”.
 
-Subsec. (b)(3), (4). Pub. L. 108–96, § 104(2), (3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “If, as a result of paragraph (2), the amount allotted under paragraph (1) with respect to a State for a fiscal year would be less than the aggregate amount of grants made under this part to recipients in such State for fiscal year 1992, then the amounts allotted to satisfy the requirements of such paragraph shall be reduced pro rata to the extent necessary to allot under paragraph (1) with respect to such State for the fiscal year an amount equal to the aggregate amount of grants made under this part to recipients in such State for fiscal year 1992.”
+Subsec. (b)(3), (4). Pub. L. 108–96, § 104(2), (3), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “If, as a result of paragraph (2), the amount allotted under paragraph (1) with respect to a State for a fiscal year would be less than the aggregate amount of grants made under this part to recipients in such State for fiscal year 1992, then the amounts allotted to satisfy the requirements of such paragraph shall be reduced pro rata to the extent necessary to allot under paragraph (1) with respect to such State for the fiscal year an amount equal to the aggregate amount of grants made under this part to recipients in such State for fiscal year 1992.”
 
-1999—Subsec. (a). Pub. L. 106–71, § 3(b)(1), added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary shall make grants to public and private entities (and combinations of such entities) to establish and operate (including renovation) local runaway and homeless youth centers to provide services to deal primarily with the immediate needs of runaway or otherwise homeless youth, and their families, in a manner which is outside the law enforcement system, the child welfare system, the mental health system, and the juvenile justice system.”
+1999—Subsec. (a). Pub. L. 106–71, § 3(b)(1), added heading and text of subsec. (a) and struck out former subsec. (a) which read as follows: “The Secretary shall make grants to public and private entities (and combinations of such entities) to establish and operate (including renovation) local runaway and homeless youth centers to provide services to deal primarily with the immediate needs of runaway or otherwise homeless youth, and their families, in a manner which is outside the law enforcement system, the child welfare system, the mental health system, and the juvenile justice system.”
 
-Subsec. (b)(2). Pub. L. 106–71, § 3(b)(2), struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
+Subsec. (b)(2). Pub. L. 106–71, § 3(b)(2), struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
 
-Subsecs. (c), (d). Pub. L. 106–71, § 3(b)(3), struck out subsecs. (c) and (d) which related to street-based services and home-based services, respectively.
+Subsecs. (c), (d). Pub. L. 106–71, § 3(b)(3), struck out subsecs. (c) and (d) which related to street-based services and home-based services, respectively.
 
-1992—Subsec. (a). Pub. L. 102–586, § 3(b)(1), substituted “system, the child welfare system, the mental health system, and” for “structure and”.
+1992—Subsec. (a). Pub. L. 102–586, § 3(b)(1), substituted “system, the child welfare system, the mental health system, and” for “structure and”.
 
-Subsec. (b)(2). Pub. L. 102–586, § 3(b)(2)(A), substituted “$100,000” for “$75,000” and “$45,000” for “$30,000”.
+Subsec. (b)(2). Pub. L. 102–586, § 3(b)(2)(A), substituted “$100,000” for “$75,000” and “$45,000” for “$30,000”.
 
-Subsec. (b)(3). Pub. L. 102–586, § 3(b)(2)(B), substituted “1992” for “1988” in two places.
+Subsec. (b)(3). Pub. L. 102–586, § 3(b)(2)(B), substituted “1992” for “1988” in two places.
 
-Subsecs. (c), (d). Pub. L. 102–586, § 3(b)(3), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “The Secretary is authorized to provide on-the-job training to local runaway and homeless youth center personnel and coordinated networks of local law enforcement, social service, and welfare personnel to assist such personnel in recognizing and providing for learning disabled and other handicapped juveniles.”
+Subsecs. (c), (d). Pub. L. 102–586, § 3(b)(3), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: “The Secretary is authorized to provide on-the-job training to local runaway and homeless youth center personnel and coordinated networks of local law enforcement, social service, and welfare personnel to assist such personnel in recognizing and providing for learning disabled and other handicapped juveniles.”
 
-1988—Pub. L. 100–690, § 7271(a), substituted “Authority to make grants” for “Grants and technical assistance” in section catchline.
+1988—Pub. L. 100–690, § 7271(a), substituted “Authority to make grants” for “Grants and technical assistance” in section catchline.
 
-Subsec. (a). Pub. L. 100–690, § 7271(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary is authorized to make grants and to provide technical assistance and short-term training to States, localities and private entities and coordinated networks of such entities in accordance with the provisions of this part and assistance to their families. Grants under this part shall be made equitably among the States based upon their respective populations of youth under 18 years of age for the purpose of developing local facilities to deal primarily with the immediate needs of runaway youth or otherwise homeless youth, and their families, in a manner which is outside the law enforcement structure and juvenile justice system. The size of such grant shall be determined by the number of such youth in the community and the existing availability of services. Grants also may be made for the provision of a national communications system for the purpose of assisting runaway and homeless youth in communicating with their families and with service providers. Among applicants priority shall be given to private organizations or institutions which have had past experience in dealing with such youth.”
+Subsec. (a). Pub. L. 100–690, § 7271(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary is authorized to make grants and to provide technical assistance and short-term training to States, localities and private entities and coordinated networks of such entities in accordance with the provisions of this part and assistance to their families. Grants under this part shall be made equitably among the States based upon their respective populations of youth under 18 years of age for the purpose of developing local facilities to deal primarily with the immediate needs of runaway youth or otherwise homeless youth, and their families, in a manner which is outside the law enforcement structure and juvenile justice system. The size of such grant shall be determined by the number of such youth in the community and the existing availability of services. Grants also may be made for the provision of a national communications system for the purpose of assisting runaway and homeless youth in communicating with their families and with service providers. Among applicants priority shall be given to private organizations or institutions which have had past experience in dealing with such youth.”
 
-Subsec. (b). Pub. L. 100–690, § 7271(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary is authorized to provide supplemental grants to runaway centers which are developing, in cooperation with local juvenile court and social service agency personnel, model programs designed to provide assistance to juveniles who have repeatedly left and remained away from their homes or from any facilities in which they have been placed as the result of an adjudication and to the families of such juveniles.”
+Subsec. (b). Pub. L. 100–690, § 7271(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary is authorized to provide supplemental grants to runaway centers which are developing, in cooperation with local juvenile court and social service agency personnel, model programs designed to provide assistance to juveniles who have repeatedly left and remained away from their homes or from any facilities in which they have been placed as the result of an adjudication and to the families of such juveniles.”
 
-1984—Subsec. (a). Pub. L. 98–473, § 651(a), in first sentence, substituted “private entities and coordinated networks of such entities” for “nonprofit private agencies and coordinated networks of such agencies” and inserted “and assistance to their families”.
+1984—Subsec. (a). Pub. L. 98–473, § 651(a), in first sentence, substituted “private entities and coordinated networks of such entities” for “nonprofit private agencies and coordinated networks of such agencies” and inserted “and assistance to their families”.
 
-Subsec. (b). Pub. L. 98–473, § 651(b), inserted “and to the families of such juveniles”.
+Subsec. (b). Pub. L. 98–473, § 651(b), inserted “and to the families of such juveniles”.
 
-1980—Subsec. (a). Pub. L. 96–509, § 18(c)(1)–(4), designated existing provision as subsec. (a), inserted “equitably among the States based upon their respective populations of youth under 18 years of age” after “shall be made”, “, and their families,” after “homeless youth”, and provision that grants also be made for the provision of a national communications system to assist runaway and homeless youth in communicating with their families and with service providers.
+1980—Subsec. (a). Pub. L. 96–509, § 18(c)(1)–(4), designated existing provision as subsec. (a), inserted “equitably among the States based upon their respective populations of youth under 18 years of age” after “shall be made”, “, and their families,” after “homeless youth”, and provision that grants also be made for the provision of a national communications system to assist runaway and homeless youth in communicating with their families and with service providers.
 
-Subsecs. (b), (c). Pub. L. 96–509, § 18(c)(5), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 96–509, § 18(c)(5), added subsecs. (b) and (c).
 
 1977—Pub. L. 95–115 substituted “technical assistance and short-term training to States, localities and nonprofit private agencies and coordinated networks of such agencies in” for “technical assistance to localities and nonprofit private agencies in”, “needs of runaway youth or otherwise homeless youth in” for “needs of runaway youth in”, and “such youth” for “runaway youth” in two places.
 
@@ -3563,9 +3563,9 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
-#### § 11212. Eligibility; plan requirements
+#### § 11212. Eligibility; plan requirements
 
 **(a) Runaway and homeless youth center; project providing temporary shelter; counseling services**
 
@@ -3657,13 +3657,13 @@ To be eligible for assistance under section 11211(a) of this title, an applicant
 
 **(2)** an assurance that in providing such services the applicant shall conduct outreach activities for runaway and homeless youth.
 
-(Pub. L. 93–415, title III, § 312, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, § 7(a)(2), (3), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, § 18(d), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, § 652, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, § 7271(c)(1)–(3), Nov. 18, 1988, 102 Stat. 4453; Pub. L. 102–586, § 3(c), Nov. 4, 1992, 106 Stat. 5019; Pub. L. 106–71, § 3(c), Oct. 12, 1999, 113 Stat. 1036; Pub. L. 108–96, title I, §§ 105, 106, 109, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, § 3(b), Oct. 8, 2008, 122 Stat. 4069.)
+(Pub. L. 93–415, title III, § 312, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, § 7(a)(2), (3), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, § 18(d), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, § 652, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, § 7271(c)(1)–(3), Nov. 18, 1988, 102 Stat. 4453; Pub. L. 102–586, § 3(c), Nov. 4, 1992, 106 Stat. 5019; Pub. L. 106–71, § 3(c), Oct. 12, 1999, 113 Stat. 1036; Pub. L. 108–96, title I, §§ 105, 106, 109, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, § 3(b), Oct. 8, 2008, 122 Stat. 4069.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(B), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(B), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 **Codification**
 
@@ -3673,63 +3673,63 @@ Section was formerly classified to section 5712 of Title 42, The Public Health a
 
 2008—Subsec. (b)(13). Pub. L. 110–378 added par. (13).
 
-2003—Subsec. (a). Pub. L. 108–96, § 105, substituted “services to youth” for “services to juveniles” and “homeless youth” for “homeless juveniles”.
+2003—Subsec. (a). Pub. L. 108–96, § 105, substituted “services to youth” for “services to juveniles” and “homeless youth” for “homeless juveniles”.
 
-Subsec. (b)(2)(A). Pub. L. 108–96, § 106, inserted “, except where the applicant assures that the State where the center or locally controlled facility is located has a State or local law or regulation that requires a higher maximum to comply with licensure requirements for child and youth serving facilities” after “youth”.
+Subsec. (b)(2)(A). Pub. L. 108–96, § 106, inserted “, except where the applicant assures that the State where the center or locally controlled facility is located has a State or local law or regulation that requires a higher maximum to comply with licensure requirements for child and youth serving facilities” after “youth”.
 
-Subsec. (b)(4)(B). Pub. L. 108–96, § 109, substituted “McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway and homeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
+Subsec. (b)(4)(B). Pub. L. 108–96, § 109, substituted “McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act;” for “personnel of the schools to which runaway and homeless youth will return, to assist such youth to stay current with the curricula of those schools;”.
 
-1999—Subsec. (b)(8). Pub. L. 106–71, § 3(c)(1)(A), substituted “paragraph (7)” for “paragraph (6)”.
+1999—Subsec. (b)(8). Pub. L. 106–71, § 3(c)(1)(A), substituted “paragraph (7)” for “paragraph (6)”.
 
-Subsec. (b)(12). Pub. L. 106–71, § 3(c)(1)(B)–(D), added par. (12).
+Subsec. (b)(12). Pub. L. 106–71, § 3(c)(1)(B)–(D), added par. (12).
 
-Subsecs. (c) to (e). Pub. L. 106–71, § 3(c)(2), added heading and text of subsecs. (c) to (e) and struck out former subsecs. (c) and (d) which related to street-based service projects and home-based service projects, respectively, but which specified more detailed lists of services applicants were to provide in order to qualify for assistance.
+Subsecs. (c) to (e). Pub. L. 106–71, § 3(c)(2), added heading and text of subsecs. (c) to (e) and struck out former subsecs. (c) and (d) which related to street-based service projects and home-based service projects, respectively, but which specified more detailed lists of services applicants were to provide in order to qualify for assistance.
 
-1992—Subsec. (a). Pub. L. 102–586, § 3(c)(1), substituted “project (including a host family home) that provides” for “facility providing”.
+1992—Subsec. (a). Pub. L. 102–586, § 3(c)(1), substituted “project (including a host family home) that provides” for “facility providing”.
 
-Subsec. (b)(2). Pub. L. 102–586, § 3(c)(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have a maximum capacity of no more than twenty children, with a ratio of staff to children of sufficient proportion to assure adequate supervision and treatment;”.
+Subsec. (b)(2). Pub. L. 102–586, § 3(c)(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “shall have a maximum capacity of no more than twenty children, with a ratio of staff to children of sufficient proportion to assure adequate supervision and treatment;”.
 
-Subsec. (b)(3). Pub. L. 102–586, § 3(c)(2)(B), substituted “parents or other relatives of the youth and ensuring” for “child’s parents or relatives and assuring” and “youth” for “child” after “the” in two places.
+Subsec. (b)(3). Pub. L. 102–586, § 3(c)(2)(B), substituted “parents or other relatives of the youth and ensuring” for “child’s parents or relatives and assuring” and “youth” for “child” after “the” in two places.
 
-Subsec. (b)(4). Pub. L. 102–586, § 3(c)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “shall develop an adequate plan for assuring proper relations with law enforcement personnel, social service personnel, school system personnel, and welfare personnel, and the return of runaway and homeless youth from correctional institutions;”.
+Subsec. (b)(4). Pub. L. 102–586, § 3(c)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “shall develop an adequate plan for assuring proper relations with law enforcement personnel, social service personnel, school system personnel, and welfare personnel, and the return of runaway and homeless youth from correctional institutions;”.
 
-Subsec. (b)(5). Pub. L. 102–586, § 3(c)(2)(D), substituted “providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring” for “aftercare counseling involving runaway and homeless youth and their families within the State in which the runaway and homeless youth center is located and for assuring” and “youth” for “children” after “those”.
+Subsec. (b)(5). Pub. L. 102–586, § 3(c)(2)(D), substituted “providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring” for “aftercare counseling involving runaway and homeless youth and their families within the State in which the runaway and homeless youth center is located and for assuring” and “youth” for “children” after “those”.
 
-Subsec. (b)(6). Pub. L. 102–586, § 3(c)(2)(G), added par. (6). Former par. (6) redesignated (7).
+Subsec. (b)(6). Pub. L. 102–586, § 3(c)(2)(G), added par. (6). Former par. (6) redesignated (7).
 
-Subsec. (b)(7). Pub. L. 102–586, § 2(c)(2)(E), (F), redesignated par. (6) as (7) and substituted “youth and family members whom it serves (including youth who are not referred to out-of-home shelter services)” for “children and family members which it serves”.
+Subsec. (b)(7). Pub. L. 102–586, § 2(c)(2)(E), (F), redesignated par. (6) as (7) and substituted “youth and family members whom it serves (including youth who are not referred to out-of-home shelter services)” for “children and family members which it serves”.
 
-Subsec. (b)(8) to (11). Pub. L. 102–586, § 3(c)(2)(F), redesignated pars. (7) to (10) as (8) to (11), respectively.
+Subsec. (b)(8) to (11). Pub. L. 102–586, § 3(c)(2)(F), redesignated pars. (7) to (10) as (8) to (11), respectively.
 
-Subsecs. (c), (d). Pub. L. 102–586, § 3(c)(2)(H), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 102–586, § 3(c)(2)(H), added subsecs. (c) and (d).
 
-1988—Subsec. (a). Pub. L. 100–690, § 7271(c)(1), (2), substituted “section 5711(a) of this title” for “this part” and “runaway and homeless youth center” for “runaway center”.
+1988—Subsec. (a). Pub. L. 100–690, § 7271(c)(1), (2), substituted “section 5711(a) of this title” for “this part” and “runaway and homeless youth center” for “runaway center”.
 
-Subsec. (b). Pub. L. 100–690, § 7271(c)(1), (3)(A), substituted “section 5711(a) of this title” for “this part” and “including assurances that the applicant” for “meeting the following requirements and including the following information. Each center” in introductory provisions.
+Subsec. (b). Pub. L. 100–690, § 7271(c)(1), (3)(A), substituted “section 5711(a) of this title” for “this part” and “including assurances that the applicant” for “meeting the following requirements and including the following information. Each center” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 100–690, § 7271(c)(3)(B), substituted “shall operate a runaway and homeless youth center” for “shall be” and “runaway and homeless youth” for “runaway youth”.
+Subsec. (b)(1). Pub. L. 100–690, § 7271(c)(3)(B), substituted “shall operate a runaway and homeless youth center” for “shall be” and “runaway and homeless youth” for “runaway youth”.
 
-Subsec. (b)(3). Pub. L. 100–690, § 7271(c)(3)(C), substituted “runaway and homeless youth center” for “runaway center”.
+Subsec. (b)(3). Pub. L. 100–690, § 7271(c)(3)(C), substituted “runaway and homeless youth center” for “runaway center”.
 
-Subsec. (b)(4). Pub. L. 100–690, § 7271(c)(3)(D), substituted “runaway and homeless youth” for “runaway youths”.
+Subsec. (b)(4). Pub. L. 100–690, § 7271(c)(3)(D), substituted “runaway and homeless youth” for “runaway youths”.
 
-Subsec. (b)(5). Pub. L. 100–690, § 7271(c)(3)(C), (E), substituted “runaway and homeless youth” for “runaway youth” and substituted “runaway and homeless youth center” for “runaway center” in two places.
+Subsec. (b)(5). Pub. L. 100–690, § 7271(c)(3)(C), (E), substituted “runaway and homeless youth” for “runaway youth” and substituted “runaway and homeless youth center” for “runaway center” in two places.
 
-Subsec. (b)(6). Pub. L. 100–690, § 7271(c)(3)(D), (E), substituted “individual runaway and homeless youth” for “individual runaway youths” in two places and “against an individual runaway and homeless youth” for “against an individual runaway youth”.
+Subsec. (b)(6). Pub. L. 100–690, § 7271(c)(3)(D), (E), substituted “individual runaway and homeless youth” for “individual runaway youths” in two places and “against an individual runaway and homeless youth” for “against an individual runaway youth”.
 
-1984—Subsec. (b)(2). Pub. L. 98–473, § 652(1), substituted “proportion” for “portion”.
+1984—Subsec. (b)(2). Pub. L. 98–473, § 652(1), substituted “proportion” for “portion”.
 
-Subsec. (b)(3). Pub. L. 98–473, § 652(2), struck out “(if such action is required by State law)” before “and assuring”.
+Subsec. (b)(3). Pub. L. 98–473, § 652(2), struck out “(if such action is required by State law)” before “and assuring”.
 
-Subsec. (b)(4). Pub. L. 98–473, § 652(3), inserted “school system personnel”.
+Subsec. (b)(4). Pub. L. 98–473, § 652(3), inserted “school system personnel”.
 
-Subsec. (b)(5). Pub. L. 98–473, § 652(4), substituted “families” for “parents”.
+Subsec. (b)(5). Pub. L. 98–473, § 652(4), substituted “families” for “parents”.
 
-Subsec. (b)(6). Pub. L. 98–473, § 652(5), substituted “family members” for “parents”.
+Subsec. (b)(6). Pub. L. 98–473, § 652(5), substituted “family members” for “parents”.
 
-1980—Subsec. (a). Pub. L. 96–509, § 18(d)(1), substituted “center” for “house” and inserted “or to other homeless juveniles” after “parents or guardians”.
+1980—Subsec. (a). Pub. L. 96–509, § 18(d)(1), substituted “center” for “house” and inserted “or to other homeless juveniles” after “parents or guardians”.
 
-Subsec. (b). Pub. L. 96–509, § 18(d)(2), substituted “center” for “house” wherever appearing, and in par. (4) inserted reference to social service personnel and welfare personnel.
+Subsec. (b). Pub. L. 96–509, § 18(d)(2), substituted “center” for “house” wherever appearing, and in par. (4) inserted reference to social service personnel and welfare personnel.
 
 1977—Subsec. (b)(5), (6). Pub. L. 95–115 substituted “aftercare services” for “aftercase services” in par. (5), and “the consent of the individual youth and parent or legal guardian” for “parental consent” in par. (6).
 
@@ -3745,9 +3745,9 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
-#### § 11213. Approval of applications
+#### § 11213. Approval of applications
 
 **(a) In general** An application by a public or private entity for a grant under section 11211(a) of this title may be approved by the Secretary after taking into consideration, with respect to the State in which such entity proposes to provide services under this part—
 
@@ -3761,7 +3761,7 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 **(2)** eligible applicants that request grants of less than $200,000.
 
-(Pub. L. 93–415, title III, § 313, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 95–115, § 7(a)(4), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, § 18(e), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, § 653, Oct. 12, 1984, 98 Stat. 2123; renumbered § 316 and amended Pub. L. 100–690, title VII, §§ 7271(c)(1), 7275(a), Nov. 18, 1988, 102 Stat. 4453, 4457; renumbered § 313 and amended Pub. L. 102–586, § 3(d), (g)(2)(D), Nov. 4, 1992, 106 Stat. 5022, 5025; Pub. L. 106–71, § 3(d), Oct. 12, 1999, 113 Stat. 1037.)
+(Pub. L. 93–415, title III, § 313, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 95–115, § 7(a)(4), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, § 18(e), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, § 653, Oct. 12, 1984, 98 Stat. 2123; renumbered § 316 and amended Pub. L. 100–690, title VII, §§ 7271(c)(1), 7275(a), Nov. 18, 1988, 102 Stat. 4453, 4457; renumbered § 313 and amended Pub. L. 102–586, § 3(d), (g)(2)(D), Nov. 4, 1992, 106 Stat. 5022, 5025; Pub. L. 106–71, § 3(d), Oct. 12, 1999, 113 Stat. 1037.)
 
 **Editorial Notes**
 
@@ -3777,9 +3777,9 @@ A prior section 313 of Pub. L. 93–415 was classified to section 5712a of Title
 
 1999—Pub. L. 106–71 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “An application by a State, locality, or private entity for a grant under section 5711(a), (c), or (d) of this title may be approved by the Secretary only if it is consistent with the applicable provisions of section 5711(a), (c), or (d) of this title and meets the requirements set forth in section 5712 of this title. Priority shall be given to grants smaller than $200,000. In considering grant applications under section 5711(a) of this title, priority shall be given to organizations which have a demonstrated experience in the provision of service to runaway and homeless youth and their families.”
 
-1992—Pub. L. 102–586, § 3(d), substituted “section 5711(a), (c), or (d) of this title” for “section 5711(a) of this title” in two places in first sentence and substituted “$200,000” for “$150,000” in second sentence.
+1992—Pub. L. 102–586, § 3(d), substituted “section 5711(a), (c), or (d) of this title” for “section 5711(a) of this title” in two places in first sentence and substituted “$200,000” for “$150,000” in second sentence.
 
-1988—Pub. L. 100–690, § 7271(c)(1), substituted “section 5711(a) of this title” for “this part” in three places.
+1988—Pub. L. 100–690, § 7271(c)(1), substituted “section 5711(a) of this title” for “this part” in three places.
 
 1984—Pub. L. 98–473 substituted “private entity” for “nonprofit private agency”.
 
@@ -3799,13 +3799,13 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
-#### § 11214. Grants to private entities; staffing
+#### § 11214. Grants to private entities; staffing
 
 Nothing in this subchapter shall be construed to deny grants to private entities which are fully controlled by private boards or persons but which in other respects meet the requirements of this subchapter and agree to be legally responsible for the operation of the runaway and homeless youth center and the programs, projects, and activities they carry out under this subchapter. Nothing in this subchapter shall give the Federal Government control over the staffing and personnel decisions of facilities receiving Federal funds under this subchapter.
 
-(Pub. L. 93–415, title III, § 314, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 98–473, title II, § 654, Oct. 12, 1984, 98 Stat. 2123; renumbered § 317 and amended Pub. L. 100–690, title VII, §§ 7271(c)(4), 7275(a), Nov. 18, 1988, 102 Stat. 4453, 4457; renumbered § 314 and amended Pub. L. 102–586, § 3(e), (g)(2)(D), Nov. 4, 1992, 106 Stat. 5022, 5025.)
+(Pub. L. 93–415, title III, § 314, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 98–473, title II, § 654, Oct. 12, 1984, 98 Stat. 2123; renumbered § 317 and amended Pub. L. 100–690, title VII, §§ 7271(c)(4), 7275(a), Nov. 18, 1988, 102 Stat. 4453, 4457; renumbered § 314 and amended Pub. L. 102–586, § 3(e), (g)(2)(D), Nov. 4, 1992, 106 Stat. 5022, 5025.)
 
 **Editorial Notes**
 
@@ -3817,9 +3817,9 @@ Section was formerly classified to section 5714 of Title 42, The Public Health a
 
 A prior section 314 of Pub. L. 93–415 was classified to section 5712b of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 102–586.
 
-Section 315 of title III of Pub. L. 93–415, as added Pub. L. 100–690, title VII, § 7277, Nov. 18, 1988, 102 Stat. 4457, related to authority of the Secretary to make grants for research, demonstration, and service projects, and was classified to section 5712c of Title 42, prior to repeal by Pub. L. 102–586.
+Section 315 of title III of Pub. L. 93–415, as added Pub. L. 100–690, title VII, § 7277, Nov. 18, 1988, 102 Stat. 4457, related to authority of the Secretary to make grants for research, demonstration, and service projects, and was classified to section 5712c of Title 42, prior to repeal by Pub. L. 102–586.
 
-Section 316 of title III of Pub. L. 93–415, as added Pub. L. 103–322, title IV, § 40155, Sept. 13, 1994, 108 Stat. 1922, related to grants for prevention of sexual abuse and exploitation, and was classified to section 5712d of Title 42, prior to repeal by Pub. L. 109–162.
+Section 316 of title III of Pub. L. 93–415, as added Pub. L. 103–322, title IV, § 40155, Sept. 13, 1994, 108 Stat. 1922, related to grants for prevention of sexual abuse and exploitation, and was classified to section 5712d of Title 42, prior to repeal by Pub. L. 109–162.
 
 A prior section 316 of Pub. L. 93–415 was renumbered section 313 of Pub. L. 93–415 and is classified to section 11213 of this title.
 
@@ -3829,9 +3829,9 @@ Another prior section 316 of Pub. L. 93–415 was renumbered section 382 of Pub.
 
 **Amendments**
 
-1992—Pub. L. 102–586, § 3(e), substituted “subchapter” for “part” wherever appearing and inserted “and the programs, projects, and activities they carry out under this subchapter” after “center” and “under this subchapter” before period at end.
+1992—Pub. L. 102–586, § 3(e), substituted “subchapter” for “part” wherever appearing and inserted “and the programs, projects, and activities they carry out under this subchapter” after “center” and “under this subchapter” before period at end.
 
-1988—Pub. L. 100–690, § 7271(c)(4), substituted “runaway and homeless youth center” for “runaway center”.
+1988—Pub. L. 100–690, § 7271(c)(4), substituted “runaway and homeless youth center” for “runaway center”.
 
 1984—Pub. L. 98–473 amended section catchline and substituted “private entities” for “nonprofit private agencies” and “center” for “house” in text.
 
@@ -3851,17 +3851,17 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 
 **Codification**
 
-Pub. L. 100–690, title VII, §§ 7272(2), 7273(f), Nov. 18, 1988, 102 Stat. 4454, 4455, added part B heading, set out above, and struck out “Part B—Records” heading.
+Pub. L. 100–690, title VII, §§ 7272(2), 7273(f), Nov. 18, 1988, 102 Stat. 4454, 4455, added part B heading, set out above, and struck out “Part B—Records” heading.
 
 **Prior Provisions**
 
-A prior part B of title III of Pub. L. 93–415 consisted of former section 321, prior to amendment by Pub. L. 100–690, title VII, §§ 7272(2), 7273(e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455.
+A prior part B of title III of Pub. L. 93–415 consisted of former section 321, prior to amendment by Pub. L. 100–690, title VII, §§ 7272(2), 7273(e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455.
 
-#### § 11221. Authority for program
+#### § 11221. Authority for program
 
 The Secretary is authorized to make grants and to provide technical assistance to public and nonprofit private entities to establish and operate transitional living youth projects for homeless youth.
 
-(Pub. L. 93–415, title III, § 321, as added Pub. L. 100–690, title VII, § 7273(f), Nov. 18, 1988, 102 Stat. 4455; amended Pub. L. 106–71, § 3(e), Oct. 12, 1999, 113 Stat. 1038.)
+(Pub. L. 93–415, title III, § 321, as added Pub. L. 100–690, title VII, § 7273(f), Nov. 18, 1988, 102 Stat. 4455; amended Pub. L. 106–71, § 3(e), Oct. 12, 1999, 113 Stat. 1038.)
 
 **Editorial Notes**
 
@@ -3883,13 +3883,13 @@ A prior section 321 of Pub. L. 93–415 was renumbered section 363 and is classi
 
 Section effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 11101 of this title.
 
-#### § 11222. Eligibility
+#### § 11222. Eligibility
 
 **(a) In general** To be eligible for assistance under this part, an applicant shall propose to establish, strengthen, or fund a transitional living youth project for homeless youth and shall submit to the Secretary a plan in which such applicant agrees, as part of such project—
 
 **(1)** to provide, by grant, agreement, or contract, shelter (such as group homes, including maternity group homes, host family homes, and supervised apartments) and provide, by grant, agreement, or contract, services,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 (including information and counseling services in basic life skills which shall include money management, budgeting, consumer education, and use of credit, parenting skills (as appropriate), interpersonal skill building, educational advancement, job attainment skills, and mental and physical health care) to homeless youth;
 
@@ -3933,17 +3933,17 @@ In selecting eligible applicants to receive grants under this part, the Secretar
 
 **(2)** the term “exceptional circumstances” means circumstances in which a youth would benefit to an unusual extent from additional time in the program.
 
-(Pub. L. 93–415, title III, § 322, as added Pub. L. 100–690, title VII, § 7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, § 3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, § 3(f), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §§ 107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, § 4, Oct. 8, 2008, 122 Stat. 4069; Pub. L. 113–128, title V, § 512(aa), July 22, 2014, 128 Stat. 1717.)
+(Pub. L. 93–415, title III, § 322, as added Pub. L. 100–690, title VII, § 7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, § 3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, § 3(f), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §§ 107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, § 4, Oct. 8, 2008, 122 Stat. 4069; Pub. L. 113–128, title V, § 512(aa), July 22, 2014, 128 Stat. 1717.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (a)(7), is Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(15), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(15), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 **Codification**
 
@@ -3951,35 +3951,35 @@ Section was formerly classified to section 5714–2 of Title 42, The Public Heal
 
 **Prior Provisions**
 
-A prior section 322 of title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1132, set forth restrictions on disclosure and transfer of records, prior to repeal by Pub. L. 95–115, § 7(b), Oct. 3, 1977, 91 Stat. 1058, eff. Oct. 1, 1977.
+A prior section 322 of title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1132, set forth restrictions on disclosure and transfer of records, prior to repeal by Pub. L. 95–115, § 7(b), Oct. 3, 1977, 91 Stat. 1058, eff. Oct. 1, 1977.
 
 **Amendments**
 
 2014—Subsec. (a)(7). Pub. L. 113–128 substituted “(including services and programs for youth available under the Workforce Innovation and Opportunity Act)” for “(including services and programs for youth available under the Workforce Investment Act of 1998)”.
 
-2008—Subsec. (a)(1). Pub. L. 110–378, § 4(a)(1), substituted “by grant, agreement, or contract, shelter” for “directly or indirectly, shelter” and “and provide, by grant, agreement, or contract, services,” for “and services”.
+2008—Subsec. (a)(1). Pub. L. 110–378, § 4(a)(1), substituted “by grant, agreement, or contract, shelter” for “directly or indirectly, shelter” and “and provide, by grant, agreement, or contract, services,” for “and services”.
 
-Subsec. (a)(2). Pub. L. 110–378, § 4(a)(2), substituted “a continuous period not to exceed 540 days, or in exceptional circumstances 635 days, except that a youth in a program under this part who has not reached 18 years of age on the last day of the 635-day period may, in exceptional circumstances and if otherwise qualified for the program, remain in the program until the youth’s 18th birthday;” for “a continuous period not to exceed 540 days, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth’s 18th birthday or the 180th day after the end of the 540-day period;”.
+Subsec. (a)(2). Pub. L. 110–378, § 4(a)(2), substituted “a continuous period not to exceed 540 days, or in exceptional circumstances 635 days, except that a youth in a program under this part who has not reached 18 years of age on the last day of the 635-day period may, in exceptional circumstances and if otherwise qualified for the program, remain in the program until the youth’s 18th birthday;” for “a continuous period not to exceed 540 days, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth’s 18th birthday or the 180th day after the end of the 540-day period;”.
 
-Subsec. (a)(16). Pub. L. 110–378, § 4(a)(3)–(5), added par. (16).
+Subsec. (a)(16). Pub. L. 110–378, § 4(a)(3)–(5), added par. (16).
 
-Subsec. (c). Pub. L. 110–378, § 4(b), substituted “part—” for “part,”, inserted par. (1) designation before “the term”, substituted “; and” for period at end, and added par. (2).
+Subsec. (c). Pub. L. 110–378, § 4(b), substituted “part—” for “part,”, inserted par. (1) designation before “the term”, substituted “; and” for period at end, and added par. (2).
 
-2003—Subsec. (a)(1). Pub. L. 108–96, § 107(a), inserted “including maternity group homes,” after “group homes,” and “parenting skills (as appropriate),” after “use of credit,”.
+2003—Subsec. (a)(1). Pub. L. 108–96, § 107(a), inserted “including maternity group homes,” after “group homes,” and “parenting skills (as appropriate),” after “use of credit,”.
 
-Subsec. (a)(2). Pub. L. 108–96, § 108, inserted “, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth’s 18th birthday or the 180th day after the end of the 540-day period” after “days”.
+Subsec. (a)(2). Pub. L. 108–96, § 108, inserted “, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth’s 18th birthday or the 180th day after the end of the 540-day period” after “days”.
 
-Subsec. (a)(7). Pub. L. 108–96, § 111, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational, vocational, training, welfare, legal service, and health care programs and to help integrate and coordinate such services for youths;”.
+Subsec. (a)(7). Pub. L. 108–96, § 111, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “to develop an adequate plan to ensure proper referral of homeless youth to social service, law enforcement, educational, vocational, training, welfare, legal service, and health care programs and to help integrate and coordinate such services for youths;”.
 
-Subsec. (a)(15). Pub. L. 108–96, § 110, added par. (15).
+Subsec. (a)(15). Pub. L. 108–96, § 110, added par. (15).
 
-Subsec. (c). Pub. L. 108–96, § 107(b), added subsec. (c).
+Subsec. (c). Pub. L. 108–96, § 107(b), added subsec. (c).
 
-1999—Subsec. (a)(9). Pub. L. 106–71 inserted “, and the services provided to such youth by such project,” after “participate in such project”.
+1999—Subsec. (a)(9). Pub. L. 106–71 inserted “, and the services provided to such youth by such project,” after “participate in such project”.
 
-1992—Subsec. (a)(1). Pub. L. 102–586, § 3(f)(1), inserted “which shall include money management, budgeting, consumer education, and use of credit” after “basic life skills”.
+1992—Subsec. (a)(1). Pub. L. 102–586, § 3(f)(1), inserted “which shall include money management, budgeting, consumer education, and use of credit” after “basic life skills”.
 
-Subsec. (a)(13). Pub. L. 102–586, § 3(f)(2), substituted “informed consent of the individual youth” for “consent of the individual youth and parent or legal guardian” and struck out “or a government agency involved in the disposition of criminal charges against youth” after “statistical records”.
+Subsec. (a)(13). Pub. L. 102–586, § 3(f)(2), substituted “informed consent of the individual youth” for “consent of the individual youth and parent or legal guardian” and struck out “or a government agency involved in the disposition of criminal charges against youth” after “statistical records”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3993,11 +3993,11 @@ Section effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set ou
 
 ### Part C—National Communications System
 
-#### § 11231. Authority to make grants
+#### § 11231. Authority to make grants
 
 The Secretary shall make grants for a national communication system to assist runaway and homeless youth in communicating with their families and with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to runaway and homeless youth.
 
-(Pub. L. 93–415, title III, § 331, as added Pub. L. 102–586, § 3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5022; amended Pub. L. 106–71, § 3(r)(1), Oct. 12, 1999, 113 Stat. 1043.)
+(Pub. L. 93–415, title III, § 331, as added Pub. L. 102–586, § 3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5022; amended Pub. L. 106–71, § 3(r)(1), Oct. 12, 1999, 113 Stat. 1043.)
 
 **Editorial Notes**
 
@@ -4011,7 +4011,7 @@ Section was formerly classified to section 5714–11 of Title 42, The Public Hea
 
 ### Part D—Coordinating, Training, Research, and Other Activities
 
-#### § 11241. Coordination
+#### § 11241. Coordination
 
 With respect to matters relating to the health, education, employment, and housing of runaway and homeless youth, the Secretary—
 
@@ -4021,7 +4021,7 @@ With respect to matters relating to the health, education, employment, and housi
 
 **(3)** shall consult, as appropriate, the Secretary of Housing and Urban Development to ensure coordination of programs and services for homeless youth.
 
-(Pub. L. 93–415, title III, § 341, as added Pub. L. 102–586, § 3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023; amended Pub. L. 106–71, § 3(g), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, § 112, Oct. 10, 2003, 117 Stat. 1169.)
+(Pub. L. 93–415, title III, § 341, as added Pub. L. 102–586, § 3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023; amended Pub. L. 106–71, § 3(g), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, § 112, Oct. 10, 2003, 117 Stat. 1169.)
 
 **Editorial Notes**
 
@@ -4039,11 +4039,11 @@ A prior section 341 of Pub. L. 93–415 was renumbered section 380 and is classi
 
 1999—Pub. L. 106–71 amended section catchline and text generally. Prior to amendment, text read as follows: “With respect to matters relating to the health, education, employment, and housing of runaway and homeless youth, the Secretary shall coordinate the activities of agencies of the Department of Health and Human Services with the activities of other Federal entities and with the activities of entities that are eligible to receive grants under this subchapter”.
 
-#### § 11242. Grants for technical assistance and training
+#### § 11242. Grants for technical assistance and training
 
 The Secretary may make grants to statewide and regional nonprofit organizations (and combinations of such organizations) to provide technical assistance and training to public and private entities (and combinations of such entities) that are eligible to receive grants under this subchapter, for the purpose of carrying out the programs, projects, or activities for which such grants are made.
 
-(Pub. L. 93–415, title III, § 342, as added Pub. L. 102–586, § 3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023.)
+(Pub. L. 93–415, title III, § 342, as added Pub. L. 102–586, § 3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023.)
 
 **Editorial Notes**
 
@@ -4055,7 +4055,7 @@ Section was formerly classified to section 5714–22 of Title 42, The Public Hea
 
 A prior section 342 of Pub. L. 93–415 was renumbered section 381 and is classified to section 11272 of this title.
 
-#### § 11243. Authority to make grants for research, evaluation, demonstration, and service projects
+#### § 11243. Authority to make grants for research, evaluation, demonstration, and service projects
 
 **(a) Authorization; purposes**
 
@@ -4073,15 +4073,15 @@ The Secretary may make grants to States, localities, and private entities (and c
 
 **(5)** staff training in—
 
-**(A)** the behavioral and emotional effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) 1
+**(A)** the behavioral and emotional effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 22), and sex trafficking (as defined in section 7102(10) 1 of title 22);
+of title 22), and sex trafficking (as defined in section 7102(10) 1 of title 22);
 
-**(B)** responding to youth who are showing effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) <sup>1</sup> of title 22), or sex trafficking (as defined in section 7102(10) <sup>1</sup> of title 22); and
+**(B)** responding to youth who are showing effects of sexual abuse and assault, severe forms of trafficking in persons (as defined in section 7102(9) <sup>1</sup> of title 22), or sex trafficking (as defined in section 7102(10) <sup>1</sup> of title 22); and
 
-**(C)** agency-wide strategies for working with runaway and homeless youth who have been sexually victimized, including such youth who are victims of trafficking (as defined in section 7102(15) <sup>1</sup> of title 22);
+**(C)** agency-wide strategies for working with runaway and homeless youth who have been sexually victimized, including such youth who are victims of trafficking (as defined in section 7102(15) <sup>1</sup> of title 22);
 
 **(6)** innovative methods of developing resources that enhance the establishment or operation of runaway and homeless youth centers;
 
@@ -4103,13 +4103,13 @@ of title 22), and sex trafficking (as defined in section 7102(10) 1 of title 2
 
 **(B)** carry out projects that serve diverse populations of runaway or homeless youth.
 
-(Pub. L. 93–415, title III, § 343, as added Pub. L. 102–586, § 3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023; amended Pub. L. 106–71, § 3(h), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, § 113, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, § 5, Oct. 8, 2008, 122 Stat. 4069; Pub. L. 114–22, title II, § 201(1), May 29, 2015, 129 Stat. 248.)
+(Pub. L. 93–415, title III, § 343, as added Pub. L. 102–586, § 3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5023; amended Pub. L. 106–71, § 3(h), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, § 113, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, § 5, Oct. 8, 2008, 122 Stat. 4069; Pub. L. 114–22, title II, § 201(1), May 29, 2015, 129 Stat. 248.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7102(9), (10), and (15) of title 22, referred to in subsec. (b)(5), was redesignated section 7102(11), (12), and (17), respectively, of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+Section 7102(9), (10), and (15) of title 22, referred to in subsec. (b)(5), was redesignated section 7102(11), (12), and (17), respectively, of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 **Codification**
 
@@ -4117,31 +4117,31 @@ Section was formerly classified to section 5714–23 of Title 42, The Public Hea
 
 **Amendments**
 
-2015—Subsec. (b)(5)(A). Pub. L. 114–22, § 201(1)(A), inserted “, severe forms of trafficking in persons (as defined in section 7102(9) of title 22), and sex trafficking (as defined in section 7102(10) of title 22)” before semicolon at end.
+2015—Subsec. (b)(5)(A). Pub. L. 114–22, § 201(1)(A), inserted “, severe forms of trafficking in persons (as defined in section 7102(9) of title 22), and sex trafficking (as defined in section 7102(10) of title 22)” before semicolon at end.
 
-Subsec. (b)(5)(B). Pub. L. 114–22, § 201(1)(B), inserted “, severe forms of trafficking in persons (as defined in section 7102(9) of title 22), or sex trafficking (as defined in section 7102(10) of title 22)” before “; and” at end.
+Subsec. (b)(5)(B). Pub. L. 114–22, § 201(1)(B), inserted “, severe forms of trafficking in persons (as defined in section 7102(9) of title 22), or sex trafficking (as defined in section 7102(10) of title 22)” before “; and” at end.
 
-Subsec. (b)(5)(C). Pub. L. 114–22, § 201(1)(C), inserted “, including such youth who are victims of trafficking (as defined in section 7102(15) of title 22)” before semicolon at end.
+Subsec. (b)(5)(C). Pub. L. 114–22, § 201(1)(C), inserted “, including such youth who are victims of trafficking (as defined in section 7102(15) of title 22)” before semicolon at end.
 
-2008—Subsec. (b). Pub. L. 110–378, § 5(1)(A), substituted “priority” for “special consideration” in introductory provisions.
+2008—Subsec. (b). Pub. L. 110–378, § 5(1)(A), substituted “priority” for “special consideration” in introductory provisions.
 
-Subsec. (b)(8). Pub. L. 110–378, § 5(1)(B), substituted “to quality health” for “to health” and “behavioral health care” for “mental health care” and struck out “and” at end.
+Subsec. (b)(8). Pub. L. 110–378, § 5(1)(B), substituted “to quality health” for “to health” and “behavioral health care” for “mental health care” and struck out “and” at end.
 
-Subsec. (b)(9). Pub. L. 110–378, § 5(1)(C), substituted “, including access to educational and workforce programs to achieve outcomes such as decreasing secondary school dropout rates, increasing rates of attaining a secondary school diploma or its recognized equivalent, or increasing placement and retention in postsecondary education or advanced workforce training programs; and” for period at end.
+Subsec. (b)(9). Pub. L. 110–378, § 5(1)(C), substituted “, including access to educational and workforce programs to achieve outcomes such as decreasing secondary school dropout rates, increasing rates of attaining a secondary school diploma or its recognized equivalent, or increasing placement and retention in postsecondary education or advanced workforce training programs; and” for period at end.
 
-Subsec. (b)(10). Pub. L. 110–378, § 5(1)(D), added par. (10).
+Subsec. (b)(10). Pub. L. 110–378, § 5(1)(D), added par. (10).
 
-Subsec. (c). Pub. L. 110–378, § 5(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to applicants who have experience working with runaway youth or homeless youth.”
+Subsec. (c). Pub. L. 110–378, § 5(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In selecting among applicants for grants under subsection (a) of this section, the Secretary shall give priority to applicants who have experience working with runaway youth or homeless youth.”
 
 2003—Subsec. (a). Pub. L. 108–96 inserted “regarding activities under this subchapter” after “service projects”.
 
-1999—Pub. L. 106–71, § 3(h)(1), inserted “evaluation,” after “research,” in section catchline.
+1999—Pub. L. 106–71, § 3(h)(1), inserted “evaluation,” after “research,” in section catchline.
 
-Subsec. (a). Pub. L. 106–71, § 3(h)(2), inserted “evaluation,” after “research,”.
+Subsec. (a). Pub. L. 106–71, § 3(h)(2), inserted “evaluation,” after “research,”.
 
-Subsec. (b)(2) to (10). Pub. L. 106–71, § 3(h)(3), redesignated pars. (3) to (10) as (2) to (9), respectively, and struck out former par. (2) which read as follows: “home-based and street-based services for, and outreach to, runaway youth and homeless youth;”.
+Subsec. (b)(2) to (10). Pub. L. 106–71, § 3(h)(3), redesignated pars. (3) to (10) as (2) to (9), respectively, and struck out former par. (2) which read as follows: “home-based and street-based services for, and outreach to, runaway youth and homeless youth;”.
 
-#### § 11244. Demonstration projects to provide services to youth in rural areas
+#### § 11244. Demonstration projects to provide services to youth in rural areas
 
 **(a)**
 
@@ -4177,7 +4177,7 @@ Subsec. (b)(2) to (10). Pub. L. 106–71, § 3(h)(3), redesignated pars. (3) t
 
 **(iv)** such other information as the Secretary may require.
 
-(Pub. L. 93–415, title III, § 344, as added Pub. L. 102–586, § 3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5024; amended Pub. L. 106–71, § 3(r)(2), Oct. 12, 1999, 113 Stat. 1043; Pub. L. 108–96, title I, § 114, Oct. 10, 2003, 117 Stat. 1170.)
+(Pub. L. 93–415, title III, § 344, as added Pub. L. 102–586, § 3(g)(1)(C), Nov. 4, 1992, 106 Stat. 5024; amended Pub. L. 106–71, § 3(r)(2), Oct. 12, 1999, 113 Stat. 1043; Pub. L. 108–96, title I, § 114, Oct. 10, 2003, 117 Stat. 1170.)
 
 **Editorial Notes**
 
@@ -4191,7 +4191,7 @@ Section was formerly classified to section 5714–24 of Title 42, The Public Hea
 
 1999—Subsec. (a)(1). Pub. L. 106–71 substituted “The Secretary” for “With funds appropriated under section 5751(c) of this title, the Secretary”.
 
-#### § 11245. Periodic estimate of incidence and prevalence of youth homelessness
+#### § 11245. Periodic estimate of incidence and prevalence of youth homelessness
 
 **(a) Periodic estimate** Not later than 2 years after October 8, 2008, and at 5-year intervals thereafter, the Secretary, in consultation with the United States Interagency Council on Homelessness, shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate, and make available to the public, a report—
 
@@ -4219,7 +4219,7 @@ Section was formerly classified to section 5714–24 of Title 42, The Public Hea
 
 If the Secretary enters into any contract with a non-Federal entity for purposes of carrying out subsection (a), such entity shall be a nongovernmental organization, or an individual, determined by the Secretary to have appropriate expertise in quantitative and qualitative social science research.
 
-(Pub. L. 93–415, title III, § 345, as added Pub. L. 110–378, § 6, Oct. 8, 2008, 122 Stat. 4070.)
+(Pub. L. 93–415, title III, § 345, as added Pub. L. 110–378, § 6, Oct. 8, 2008, 122 Stat. 4070.)
 
 **Editorial Notes**
 
@@ -4229,7 +4229,7 @@ Section was formerly classified to section 5714–25 of Title 42, The Public Hea
 
 **Prior Provisions**
 
-A prior section 345 of title III of Pub. L. 93–415, as added Pub. L. 106–71, § 3(i), Oct. 12, 1999, 113 Stat. 1038, related to study of runaways to determine the percent who have been sexually abused, prior to repeal by Pub. L. 108–96, title I, § 115, Oct. 10, 2003, 117 Stat. 1170.
+A prior section 345 of title III of Pub. L. 93–415, as added Pub. L. 106–71, § 3(i), Oct. 12, 1999, 113 Stat. 1038, related to study of runaways to determine the percent who have been sexually abused, prior to repeal by Pub. L. 108–96, title I, § 115, Oct. 10, 2003, 117 Stat. 1170.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4243,33 +4243,33 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 **Codification**
 
-Pub. L. 106–71, § 3(n)(1)(C), Oct. 12, 1999, 113 Stat. 1040, added part heading.
+Pub. L. 106–71, § 3(n)(1)(C), Oct. 12, 1999, 113 Stat. 1040, added part heading.
 
 **Prior Provisions**
 
-A prior part E of title III of Pub. L. 93–415 was redesignated part F by Pub. L. 106–71, § 3(n)(1)(B), Oct. 12, 1999, 113 Stat. 1040.
+A prior part E of title III of Pub. L. 93–415 was redesignated part F by Pub. L. 106–71, § 3(n)(1)(B), Oct. 12, 1999, 113 Stat. 1040.
 
-#### § 11261. Authority to make grants
+#### § 11261. Authority to make grants
 
 **(a) In general**
 
-The Secretary may make grants to nonprofit private agencies for the purpose of providing street-based services to runaway and homeless, and street youth, who have been subjected to, or are at risk of being subjected to, sexual abuse, prostitution, sexual exploitation, severe forms of trafficking in persons (as defined in section 7102(9) 1
+The Secretary may make grants to nonprofit private agencies for the purpose of providing street-based services to runaway and homeless, and street youth, who have been subjected to, or are at risk of being subjected to, sexual abuse, prostitution, sexual exploitation, severe forms of trafficking in persons (as defined in section 7102(9) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 22), or sex trafficking (as defined in section 7102(10) 1 of title 22).
+of title 22), or sex trafficking (as defined in section 7102(10) 1 of title 22).
 
 **(b) Priority**
 
 In selecting applicants to receive grants under subsection (a), the Secretary shall give priority to public and nonprofit private agencies that have experience in providing services to runaway and homeless, and street youth.
 
-(Pub. L. 93–415, title III, § 351, as added Pub. L. 106–71, § 3(n)(1)(C), Oct. 12, 1999, 113 Stat. 1040; amended Pub. L. 110–378, § 7, Oct. 8, 2008, 122 Stat. 4071; Pub. L. 114–22, title II, § 201(2), May 29, 2015, 129 Stat. 248.)
+(Pub. L. 93–415, title III, § 351, as added Pub. L. 106–71, § 3(n)(1)(C), Oct. 12, 1999, 113 Stat. 1040; amended Pub. L. 110–378, § 7, Oct. 8, 2008, 122 Stat. 4071; Pub. L. 114–22, title II, § 201(2), May 29, 2015, 129 Stat. 248.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7102(9) and (10) of title 22, referred to in subsec. (a), was redesignated section 7102(11) and (12), respectively, of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
+Section 7102(9) and (10) of title 22, referred to in subsec. (a), was redesignated section 7102(11) and (12), respectively, of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
 **Codification**
 
@@ -4287,17 +4287,17 @@ Subsec. (a). Pub. L. 114–22 substituted “sexual exploitation, severe forms o
 
 **Codification**
 
-Pub. L. 106–71, § 3(n)(1)(B), Oct. 12, 1999, 113 Stat. 1040, redesignated part E as F.
+Pub. L. 106–71, § 3(n)(1)(B), Oct. 12, 1999, 113 Stat. 1040, redesignated part E as F.
 
-Pub. L. 102–586, § 3(g)(1)(B)(i), Nov. 4, 1992, 106 Stat. 5022, redesignated part C as E.
+Pub. L. 102–586, § 3(g)(1)(B)(i), Nov. 4, 1992, 106 Stat. 5022, redesignated part C as E.
 
-Pub. L. 100–690, title VII, §§ 7272(2), 7273(e)(1), Nov. 18, 1988, 102 Stat. 4454, 4455, added part C heading, set out above, and struck out part C heading “Authorization of Appropriations”.
+Pub. L. 100–690, title VII, §§ 7272(2), 7273(e)(1), Nov. 18, 1988, 102 Stat. 4454, 4455, added part C heading, set out above, and struck out part C heading “Authorization of Appropriations”.
 
-#### § 11271. Assistance to potential grantees
+#### § 11271. Assistance to potential grantees
 
 The Secretary shall provide informational assistance to potential grantees interested in establishing runaway and homeless youth centers and transitional living youth projects.
 
-(Pub. L. 93–415, title III, § 380, formerly § 315, as added Pub. L. 98–473, title II, § 655(2), Oct. 12, 1984, 98 Stat. 2124; renumbered § 341 and amended Pub. L. 100–690, title VII, § 7273(a), (e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455; renumbered § 371, Pub. L. 102–586, § 3(g)(1)(B)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered § 380 and amended Pub. L. 106–71, § 3(j), (q), Oct. 12, 1999, 113 Stat. 1038, 1042.)
+(Pub. L. 93–415, title III, § 380, formerly § 315, as added Pub. L. 98–473, title II, § 655(2), Oct. 12, 1984, 98 Stat. 2124; renumbered § 341 and amended Pub. L. 100–690, title VII, § 7273(a), (e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455; renumbered § 371, Pub. L. 102–586, § 3(g)(1)(B)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered § 380 and amended Pub. L. 106–71, § 3(j), (q), Oct. 12, 1999, 113 Stat. 1038, 1042.)
 
 **Editorial Notes**
 
@@ -4307,7 +4307,7 @@ Section was formerly classified to section 5714a of Title 42, The Public Health 
 
 **Amendments**
 
-1999—Pub. L. 106–71, § 3(j), struck out at end: “Such assistance shall consist of information on—
+1999—Pub. L. 106–71, § 3(j), struck out at end: “Such assistance shall consist of information on—
 
 “(1) steps necessary to establish a runaway and homeless youth center or transitional living youth project, including information on securing space for such center or such project, obtaining insurance, staffing, and establishing operating procedures;
 
@@ -4315,13 +4315,13 @@ Section was formerly classified to section 5714a of Title 42, The Public Health 
 
 “(3) the need for the establishment of additional runaway and homeless youth centers in the geographical area identified by the potential grantee involved.”
 
-1988—Pub. L. 100–690, § 7273(a)(1), inserted “and transitional living youth projects” after “homeless youth centers” in introductory provisions.
+1988—Pub. L. 100–690, § 7273(a)(1), inserted “and transitional living youth projects” after “homeless youth centers” in introductory provisions.
 
-Par. (1). Pub. L. 100–690, § 7273(a)(2), (3), inserted “or transitional living youth project” after “homeless youth center” and “or such project” after “such center”.
+Par. (1). Pub. L. 100–690, § 7273(a)(2), (3), inserted “or transitional living youth project” after “homeless youth center” and “or such project” after “such center”.
 
-Par. (2). Pub. L. 100–690, § 7273(a)(3), inserted “such project” after “such center”.
+Par. (2). Pub. L. 100–690, § 7273(a)(3), inserted “such project” after “such center”.
 
-Par. (3). Pub. L. 100–690, § 7273(a)(4), inserted “and homeless” after “runaway”.
+Par. (3). Pub. L. 100–690, § 7273(a)(4), inserted “and homeless” after “runaway”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4333,7 +4333,7 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pu
 
 Section effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out as an Effective Date of 1984 Amendment note under section 11101 of this title.
 
-#### § 11272. Lease of surplus Federal facilities for use as runaway and homeless youth centers or as transitional living youth shelter facilities
+#### § 11272. Lease of surplus Federal facilities for use as runaway and homeless youth centers or as transitional living youth shelter facilities
 
 **(a) Conditions of lease arrangements** The Secretary may enter into cooperative lease arrangements with States, localities, and nonprofit private agencies to provide for the use of appropriate surplus Federal facilities transferred by the General Services Administration to the Department of Health and Human Services for use as runaway and homeless youth centers or as transitional living youth shelter facilities if the Secretary determines that—
 
@@ -4349,7 +4349,7 @@ Section effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out
 
 **(2)** Any structural modifications or additions to facilities made available under this section shall become the property of the United States. All such modifications or additions may be made only after receiving the prior written consent of the Secretary or other appropriate officer of the Department of Health and Human Services.
 
-(Pub. L. 93–415, title III, § 381, formerly § 316, as added Pub. L. 98–473, title II, § 655(2), Oct. 12, 1984, 98 Stat. 2124; renumbered § 342 and amended Pub. L. 100–690, title VII, § 7273(b), (e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455; renumbered § 372, Pub. L. 102–586, § 3(g)(1)(B)(ii), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(E)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; renumbered § 381, Pub. L. 106–71, § 3(q), Oct. 12, 1999, 113 Stat. 1042.)
+(Pub. L. 93–415, title III, § 381, formerly § 316, as added Pub. L. 98–473, title II, § 655(2), Oct. 12, 1984, 98 Stat. 2124; renumbered § 342 and amended Pub. L. 100–690, title VII, § 7273(b), (e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455; renumbered § 372, Pub. L. 102–586, § 3(g)(1)(B)(ii), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(E)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; renumbered § 381, Pub. L. 106–71, § 3(q), Oct. 12, 1999, 113 Stat. 1042.)
 
 **Editorial Notes**
 
@@ -4365,9 +4365,9 @@ A prior section 381 of Pub. L. 93–415 was renumbered section 382 and is classi
 
 1998—Subsec. (a)(3). Pub. L. 105–277 substituted “unit of local government” for “unit of general local government”.
 
-1988—Pub. L. 100–690, § 7273(b)(1), inserted “or as transitional living youth shelter facilities” at end of section catchline.
+1988—Pub. L. 100–690, § 7273(b)(1), inserted “or as transitional living youth shelter facilities” at end of section catchline.
 
-Subsec. (a). Pub. L. 100–690, § 7273(b)(2), inserted “or as transitional living youth shelter facilities” after “runaway and homeless youth centers” in introductory provisions and “or transitional living youth project, as the case may be, under this subchapter” after “homeless youth center” in par. (1).
+Subsec. (a). Pub. L. 100–690, § 7273(b)(2), inserted “or as transitional living youth shelter facilities” after “runaway and homeless youth centers” in introductory provisions and “or transitional living youth project, as the case may be, under this subchapter” after “homeless youth center” in par. (1).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4379,7 +4379,7 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pu
 
 Section effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out as an Effective Date of 1984 Amendment note under section 11101 of this title.
 
-#### § 11273. Reports
+#### § 11273. Reports
 
 **(a) In general** Not later than April 1, 2000, and biennially thereafter, the Secretary shall submit, to the Committee on Education and the Workforce of the House of Representatives and the Committee on the Judiciary of the Senate, a report on the status, activities, and accomplishments of entities that receive grants under parts A, B, C, D, and E, with particular attention to—
 
@@ -4415,7 +4415,7 @@ Section effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out
 
 **(2)** descriptions of the qualifications of, and training provided to, individuals involved in carrying out such evaluations.
 
-(Pub. L. 93–415, title III, § 382, formerly § 315, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 96–509, § 18(f), Dec. 8, 1980, 94 Stat. 2762; renumbered § 317, Pub. L. 98–473, title II, § 655(1), Oct. 12, 1984, 98 Stat. 2124; renumbered § 361 and amended Pub. L. 100–690, title VII, §§ 7271(c)(5), 7273(c), (e)(2), 7274, Nov. 18, 1988, 102 Stat. 4453–4455, 4457; Pub. L. 101–204, title X, § 1003(1), (2), Dec. 7, 1989, 103 Stat. 1827; renumbered § 381 and amended Pub. L. 102–586, § 3(g)(1)(A)(ii), (h), Nov. 4, 1992, 106 Stat. 5022, 5025; renumbered § 382 and amended Pub. L. 106–71, § 3(k), (q), Oct. 12, 1999, 113 Stat. 1039, 1042.)
+(Pub. L. 93–415, title III, § 382, formerly § 315, Sept. 7, 1974, 88 Stat. 1131; Pub. L. 96–509, § 18(f), Dec. 8, 1980, 94 Stat. 2762; renumbered § 317, Pub. L. 98–473, title II, § 655(1), Oct. 12, 1984, 98 Stat. 2124; renumbered § 361 and amended Pub. L. 100–690, title VII, §§ 7271(c)(5), 7273(c), (e)(2), 7274, Nov. 18, 1988, 102 Stat. 4453–4455, 4457; Pub. L. 101–204, title X, § 1003(1), (2), Dec. 7, 1989, 103 Stat. 1827; renumbered § 381 and amended Pub. L. 102–586, § 3(g)(1)(A)(ii), (h), Nov. 4, 1992, 106 Stat. 5022, 5025; renumbered § 382 and amended Pub. L. 106–71, § 3(k), (q), Oct. 12, 1999, 113 Stat. 1039, 1042.)
 
 **Editorial Notes**
 
@@ -4431,15 +4431,15 @@ A prior section 382 of Pub. L. 93–415 was renumbered section 383 and is classi
 
 1999—Pub. L. 106–71 amended section generally, making reporting requirements biennial rather than annual and adding subsec. headings.
 
-1992—Pub. L. 102–586, § 3(h), which directed the amendment of section “361 of the Juvenile Justice and Delinquency Act of 1974 (42 U.S.C. 5715)” by amending it generally and adding subsec. (b), was executed to this section, which is section 381 of the Juvenile Justice and Delinquency Prevention Act of 1974 (Pub. L. 93–415), to reflect the probable intent of Congress and the intervening renumbering of section 361 of Pub. L. 93–415 as section 381 by section 3(g)(1)(A)(ii) of Pub. L. 102–586. Prior to amendment, this section consisted of subsecs. (a) and (b) which required annual reports to Congress on the status and accomplishments of the runaway and homeless youth centers funded under part A of this subchapter and of the transitional living youth projects funded under part B of this subchapter.
+1992—Pub. L. 102–586, § 3(h), which directed the amendment of section “361 of the Juvenile Justice and Delinquency Act of 1974 (42 U.S.C. 5715)” by amending it generally and adding subsec. (b), was executed to this section, which is section 381 of the Juvenile Justice and Delinquency Prevention Act of 1974 (Pub. L. 93–415), to reflect the probable intent of Congress and the intervening renumbering of section 361 of Pub. L. 93–415 as section 381 by section 3(g)(1)(A)(ii) of Pub. L. 102–586. Prior to amendment, this section consisted of subsecs. (a) and (b) which required annual reports to Congress on the status and accomplishments of the runaway and homeless youth centers funded under part A of this subchapter and of the transitional living youth projects funded under part B of this subchapter.
 
-1989—Subsec. (a). Pub. L. 101–204, § 1003(1), substituted “submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate” for “report to the Congress”.
+1989—Subsec. (a). Pub. L. 101–204, § 1003(1), substituted “submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate” for “report to the Congress”.
 
-Subsec. (b). Pub. L. 101–204, § 1003(2), substituted “Not later than 180 days after the end of each fiscal year, the Secretary shall submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate” for “The Secretary shall annually report to the Congress”.
+Subsec. (b). Pub. L. 101–204, § 1003(2), substituted “Not later than 180 days after the end of each fiscal year, the Secretary shall submit a report to the Committee on Education and Labor of the House of Representatives and the Committee on the Judiciary of the Senate” for “The Secretary shall annually report to the Congress”.
 
-1988—Subsec. (a). Pub. L. 100–690, §§ 7271(c)(5), 7273(c)(1), (2), 7274, designated existing provisions as subsec. (a), in introductory provisions substituted “Not later than 180 days after the end of each fiscal year, the Secretary shall” for “The Secretary shall annually”, “runaway and homeless youth centers” for “runaway centers”, and “part A of this subchapter” for “this part”, and in par. (1) substituted “runaway and homeless youth” for “runaway youth”.
+1988—Subsec. (a). Pub. L. 100–690, §§ 7271(c)(5), 7273(c)(1), (2), 7274, designated existing provisions as subsec. (a), in introductory provisions substituted “Not later than 180 days after the end of each fiscal year, the Secretary shall” for “The Secretary shall annually”, “runaway and homeless youth centers” for “runaway centers”, and “part A of this subchapter” for “this part”, and in par. (1) substituted “runaway and homeless youth” for “runaway youth”.
 
-Subsec. (b). Pub. L. 100–690, § 7273(c)(3), added subsec. (b).
+Subsec. (b). Pub. L. 100–690, § 7273(c)(3), added subsec. (b).
 
 1980—Pub. L. 96–509 substituted “centers” for “houses”.
 
@@ -4449,13 +4449,13 @@ Subsec. (b). Pub. L. 100–690, § 7273(c)(3), added subsec. (b).
 
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in this section, see section 7296(a), (b)(3) of Pub. L. 100–690, set out as a note under section 11101 of this title.
 
-#### § 11274. Federal and non-Federal share; methods of payment
+#### § 11274. Federal and non-Federal share; methods of payment
 
 **(a)** The Federal share for the renovation of existing structures, the provision of counseling services, staff training, and the general costs of operations of such facility’s budget for any fiscal year shall be 90 per centum. The non-Federal share may be in cash or in kind, fairly evaluated by the Secretary, including plant, equipment, or services.
 
 **(b)** Payments under this section may be made in installments, in advance, or by way of reimbursement, with necessary adjustments on account of overpayments or underpayments.
 
-(Pub. L. 93–415, title III, § 383, formerly § 316, Sept. 7, 1974, 88 Stat. 1132; renumbered § 318, Pub. L. 98–473, title II, § 655(1), Oct. 12, 1984, 98 Stat. 2124; renumbered § 362 and amended Pub. L. 100–690, title VII, §§ 7271(c)(6), 7273(e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455; renumbered § 382, Pub. L. 102–586, § 3(g)(1)(A)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered § 383, Pub. L. 106–71, § 3(q), Oct. 12, 1999, 113 Stat. 1042.)
+(Pub. L. 93–415, title III, § 383, formerly § 316, Sept. 7, 1974, 88 Stat. 1132; renumbered § 318, Pub. L. 98–473, title II, § 655(1), Oct. 12, 1984, 98 Stat. 2124; renumbered § 362 and amended Pub. L. 100–690, title VII, §§ 7271(c)(6), 7273(e)(2), Nov. 18, 1988, 102 Stat. 4454, 4455; renumbered § 382, Pub. L. 102–586, § 3(g)(1)(A)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered § 383, Pub. L. 106–71, § 3(q), Oct. 12, 1999, 113 Stat. 1042.)
 
 **Editorial Notes**
 
@@ -4469,7 +4469,7 @@ A prior section 383 of Pub. L. 93–415 was renumbered section 384 and is classi
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–690, § 7271(c)(6), struck out “acquisition and” before “renovation”.
+1988—Subsec. (a). Pub. L. 100–690, § 7271(c)(6), struck out “acquisition and” before “renovation”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4477,11 +4477,11 @@ A prior section 383 of Pub. L. 93–415 was renumbered section 384 and is classi
 
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under section 11101 of this title.
 
-#### § 11275. Restrictions on disclosure and transfer
+#### § 11275. Restrictions on disclosure and transfer
 
 Records containing the identity of individual youths pursuant to this chapter may under no circumstances be disclosed or transferred to any individual or to any public or private agency.
 
-(Pub. L. 93–415, title III, § 384, formerly § 321, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 95–115, § 7(b), Oct. 3, 1977, 91 Stat. 1058; renumbered § 363, Pub. L. 100–690, title VII, § 7273(e)(2), Nov. 18, 1988, 102 Stat. 4455; renumbered § 383, Pub. L. 102–586, § 3(g)(1)(A)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered § 384, Pub. L. 106–71, § 3(q), Oct. 12, 1999, 113 Stat. 1042.)
+(Pub. L. 93–415, title III, § 384, formerly § 321, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 95–115, § 7(b), Oct. 3, 1977, 91 Stat. 1058; renumbered § 363, Pub. L. 100–690, title VII, § 7273(e)(2), Nov. 18, 1988, 102 Stat. 4455; renumbered § 383, Pub. L. 102–586, § 3(g)(1)(A)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered § 384, Pub. L. 106–71, § 3(q), Oct. 12, 1999, 113 Stat. 1042.)
 
 **Editorial Notes**
 
@@ -4505,9 +4505,9 @@ A prior section 384 of Pub. L. 93–415 was renumbered section 386 and is classi
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
-#### § 11276. Consolidated review of applications
+#### § 11276. Consolidated review of applications
 
 With respect to funds available to carry out parts A, B, C, D, and E, nothing in this subchapter shall be construed to prohibit the Secretary from—
 
@@ -4515,7 +4515,7 @@ With respect to funds available to carry out parts A, B, C, D, and E, nothing in
 
 **(2)** reviewing applications for grants under 2 or more of such parts in a single, consolidated application review process.
 
-(Pub. L. 93–415, title III, § 385, as added Pub. L. 106–71, § 3(*o*), Oct. 12, 1999, 113 Stat. 1041.)
+(Pub. L. 93–415, title III, § 385, as added Pub. L. 106–71, § 3(*o*), Oct. 12, 1999, 113 Stat. 1041.)
 
 **Editorial Notes**
 
@@ -4527,7 +4527,7 @@ Section was formerly classified to section 5731a of Title 42, The Public Health 
 
 A prior section 385 of Pub. L. 93–415 was renumbered section 388 and is classified to section 11280 of this title.
 
-#### § 11277. Evaluation and information
+#### § 11277. Evaluation and information
 
 **(a) In general** If a grantee receives grants for 3 consecutive fiscal years under part A, B, C, D, or E (in the alternative), then the Secretary shall evaluate such grantee on-site, not less frequently than once in the period of such 3 consecutive fiscal years, for purposes of—
 
@@ -4541,7 +4541,7 @@ A prior section 385 of Pub. L. 93–415 was renumbered section 388 and is classi
 
 Recipients of grants under this subchapter shall cooperate with the Secretary’s efforts to carry out evaluations, and to collect information, under this subchapter.
 
-(Pub. L. 93–415, title III, § 386, formerly § 364, as added Pub. L. 100–690, title VII, § 7278, Nov. 18, 1988, 102 Stat. 4458; renumbered § 384, Pub. L. 102–586, § 3(g)(1)(A)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered § 386 and amended Pub. L. 106–71, § 3(*l*), Oct. 12, 1999, 113 Stat. 1039.)
+(Pub. L. 93–415, title III, § 386, formerly § 364, as added Pub. L. 100–690, title VII, § 7278, Nov. 18, 1988, 102 Stat. 4458; renumbered § 384, Pub. L. 102–586, § 3(g)(1)(A)(ii), Nov. 4, 1992, 106 Stat. 5022; renumbered § 386 and amended Pub. L. 106–71, § 3(*l*), Oct. 12, 1999, 113 Stat. 1039.)
 
 **Editorial Notes**
 
@@ -4563,7 +4563,7 @@ Section was formerly classified to section 5732 of Title 42, The Public Health a
 
 Section effective Oct. 1, 1988, but not applicable with respect to fiscal year 1989, see section 7296(a), (b)(2) of Pub. L. 100–690, set out as an Effective Date of 1988 Amendment note under section 11101 of this title.
 
-#### § 11278. Performance standards
+#### § 11278. Performance standards
 
 **(a) Establishment of performance standards**
 
@@ -4577,7 +4577,7 @@ The Secretary shall consult with representatives of public and nonprofit private
 
 The Secretary shall integrate the performance standards into the processes of the Department of Health and Human Services for grantmaking, monitoring, and evaluation for programs under sections 11211, 11221, and 11261 of this title.
 
-(Pub. L. 93–415, title III, § 386A, as added Pub. L. 110–378, § 8, Oct. 8, 2008, 122 Stat. 4071.)
+(Pub. L. 93–415, title III, § 386A, as added Pub. L. 110–378, § 8, Oct. 8, 2008, 122 Stat. 4071.)
 
 **Editorial Notes**
 
@@ -4585,7 +4585,7 @@ The Secretary shall integrate the performance standards into the processes of th
 
 Section was formerly classified to section 5732–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-#### § 11279. Definitions
+#### § 11279. Definitions
 
 In this subchapter:
 
@@ -4623,9 +4623,9 @@ In this subchapter:
 
 **(A)** who is—
 
-**(i)** less than 21 years of age, or, in the case of a youth seeking shelter in a center under part A, less than 18 years of age, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving 1
+**(i)** less than 21 years of age, or, in the case of a youth seeking shelter in a center under part A, less than 18 years of age, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 facilities; and
 
@@ -4693,7 +4693,7 @@ The term “transitional living youth project” means a project that provides s
 
 **(iii)** who is at risk of entering the child welfare system or juvenile justice system as a result of the lack of services available to the family to meet such needs.
 
-(Pub. L. 93–415, title III, § 387, as added Pub. L. 106–71, § 3(p), Oct. 12, 1999, 113 Stat. 1041; amended Pub. L. 108–96, title I, § 116, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, § 10, Oct. 8, 2008, 122 Stat. 4072.)
+(Pub. L. 93–415, title III, § 387, as added Pub. L. 106–71, § 3(p), Oct. 12, 1999, 113 Stat. 1041; amended Pub. L. 108–96, title I, § 116, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, § 10, Oct. 8, 2008, 122 Stat. 4072.)
 
 **Editorial Notes**
 
@@ -4703,17 +4703,17 @@ Section was formerly classified to section 5732a of Title 42, The Public Health 
 
 **Amendments**
 
-2008—Par. (3). Pub. L. 110–378, § 10(a)(1), substituted “The term ‘homeless’, used with respect to a youth, means” for “The term ‘homeless youth’ means” in introductory provisions.
+2008—Par. (3). Pub. L. 110–378, § 10(a)(1), substituted “The term ‘homeless’, used with respect to a youth, means” for “The term ‘homeless youth’ means” in introductory provisions.
 
-Par. (3)(A)(i). Pub. L. 110–378, § 10(a)(2)(A), substituted “less than” for “not more than” in two places and inserted “, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving facilities” after “18 years of age”.
+Par. (3)(A)(i). Pub. L. 110–378, § 10(a)(2)(A), substituted “less than” for “not more than” in two places and inserted “, or is less than a higher maximum age if the State where the center is located has an applicable State or local law (including a regulation) that permits such higher maximum age in compliance with licensure requirements for child-and youth-serving facilities” after “18 years of age”.
 
-Par. (3)(A)(ii). Pub. L. 110–378, § 10(a)(2)(B), substituted “age and either—” for “age;” and added subcls. (I) and (II).
+Par. (3)(A)(ii). Pub. L. 110–378, § 10(a)(2)(B), substituted “age and either—” for “age;” and added subcls. (I) and (II).
 
-Pars. (4) to (8). Pub. L. 110–378, § 10(b), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
+Pars. (4) to (8). Pub. L. 110–378, § 10(b), added par. (4) and redesignated former pars. (4) to (7) as (5) to (8), respectively.
 
-2003—Subsec. (3)(A)(i). Pub. L. 108–96 inserted “, or, in the case of a youth seeking shelter in a center under part A, not more than 18 years of age” after “of age”.
+2003—Subsec. (3)(A)(i). Pub. L. 108–96 inserted “, or, in the case of a youth seeking shelter in a center under part A, not more than 18 years of age” after “of age”.
 
-#### § 11280. Authorization of appropriations
+#### § 11280. Authorization of appropriations
 
 **(a) In general**
 
@@ -4749,7 +4749,7 @@ There are authorized to be appropriated to carry out part E $25,000,000 for each
 
 No funds appropriated to carry out this subchapter may be combined with funds appropriated under any other Act if the purpose of combining such funds is to make a single discretionary grant, or a single discretionary payment, unless such funds are separately identified in all grants and contracts and are used for the purposes specified in this subchapter.
 
-(Pub. L. 93–415, title III, § 388, formerly § 331, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 94–273, § 32(c), Apr. 21, 1976, 90 Stat. 380; renumbered § 341 and amended Pub. L. 95–115, § 7(c), (d), Oct. 3, 1977, 91 Stat. 1059, 1060; Pub. L. 96–509, § 2(b), Dec. 8, 1980, 94 Stat. 2750; renumbered § 331 and amended Pub. L. 98–473, title II, § 657(a)–(d), (f), Oct. 12, 1984, 98 Stat. 2124, 2125; renumbered § 366 and amended Pub. L. 100–690, title VII, §§ 7273(d), (e)(2), 7280, Nov. 18, 1988, 102 Stat. 4455, 4459; Pub. L. 101–204, title X, §§ 1001(e)(2), 1003(3), Dec. 7, 1989, 103 Stat. 1827; renumbered § 385 and amended Pub. L. 102–586, § 3(g)(1)(A)(ii), (i), Nov. 4, 1992, 106 Stat. 5022, 5026; renumbered § 388 and amended Pub. L. 106–71, § 3(m), (n)(2), Oct. 12, 1999, 113 Stat. 1040, 1041; Pub. L. 108–96, title I, § 117, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, § 11, Oct. 8, 2008, 122 Stat. 4073; Pub. L. 115–385, title IV, § 402(b), Dec. 21, 2018, 132 Stat. 5159.)
+(Pub. L. 93–415, title III, § 388, formerly § 331, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 94–273, § 32(c), Apr. 21, 1976, 90 Stat. 380; renumbered § 341 and amended Pub. L. 95–115, § 7(c), (d), Oct. 3, 1977, 91 Stat. 1059, 1060; Pub. L. 96–509, § 2(b), Dec. 8, 1980, 94 Stat. 2750; renumbered § 331 and amended Pub. L. 98–473, title II, § 657(a)–(d), (f), Oct. 12, 1984, 98 Stat. 2124, 2125; renumbered § 366 and amended Pub. L. 100–690, title VII, §§ 7273(d), (e)(2), 7280, Nov. 18, 1988, 102 Stat. 4455, 4459; Pub. L. 101–204, title X, §§ 1001(e)(2), 1003(3), Dec. 7, 1989, 103 Stat. 1827; renumbered § 385 and amended Pub. L. 102–586, § 3(g)(1)(A)(ii), (i), Nov. 4, 1992, 106 Stat. 5022, 5026; renumbered § 388 and amended Pub. L. 106–71, § 3(m), (n)(2), Oct. 12, 1999, 113 Stat. 1040, 1041; Pub. L. 108–96, title I, § 117, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, § 11, Oct. 8, 2008, 122 Stat. 4073; Pub. L. 115–385, title IV, § 402(b), Dec. 21, 2018, 132 Stat. 5159.)
 
 **Editorial Notes**
 
@@ -4759,59 +4759,59 @@ Section was formerly classified to section 5751 of Title 42, The Public Health a
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–385, § 402(b)(1), struck out “section 11245 of this title and” before “part E)” and substituted “$127,421,000 for each of fiscal years 2019 through 2020” for “$140,000,000 for fiscal year 2009, and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013”.
+2018—Subsec. (a)(1). Pub. L. 115–385, § 402(b)(1), struck out “section 11245 of this title and” before “part E)” and substituted “$127,421,000 for each of fiscal years 2019 through 2020” for “$140,000,000 for fiscal year 2009, and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013”.
 
-Subsec. (a)(3)(B). Pub. L. 115–385, § 402(b)(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out section 11245 of this title such sums as may be necessary for fiscal years 2009, 2010, 2011, 2012, and 2013.”
+Subsec. (a)(3)(B). Pub. L. 115–385, § 402(b)(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out section 11245 of this title such sums as may be necessary for fiscal years 2009, 2010, 2011, 2012, and 2013.”
 
-Subsec. (a)(4). Pub. L. 115–385, § 402(b)(3), substituted “each of fiscal years 2019 through 2020” for “fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013”.
+Subsec. (a)(4). Pub. L. 115–385, § 402(b)(3), substituted “each of fiscal years 2019 through 2020” for “fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013”.
 
-2008—Subsec. (a)(1). Pub. L. 110–378, § 11(1), substituted “are authorized” for “is authorized”, “section 5714–25 of this title and part E) $140,000,000 for fiscal year 2009” for “part E of this subchapter) $105,000,000 for fiscal year 2004”, and “2010, 2011, 2012, and 2013” for “2005, 2006, 2007, and 2008”.
+2008—Subsec. (a)(1). Pub. L. 110–378, § 11(1), substituted “are authorized” for “is authorized”, “section 5714–25 of this title and part E) $140,000,000 for fiscal year 2009” for “part E of this subchapter) $105,000,000 for fiscal year 2004”, and “2010, 2011, 2012, and 2013” for “2005, 2006, 2007, and 2008”.
 
-Subsec. (a)(3). Pub. L. 110–378, § 11(2), designated existing provisions as subpar. (A), inserted heading, inserted “(other than section 5714–25 of this title)” before period, and added subpar. (B).
+Subsec. (a)(3). Pub. L. 110–378, § 11(2), designated existing provisions as subpar. (A), inserted heading, inserted “(other than section 5714–25 of this title)” before period, and added subpar. (B).
 
-Subsec. (a)(4). Pub. L. 110–378, § 11(3), substituted “are authorized” for “is authorized” and “$25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013” for “such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008”.
+Subsec. (a)(4). Pub. L. 110–378, § 11(3), substituted “are authorized” for “is authorized” and “$25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013” for “such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008”.
 
-2003—Subsec. (a)(1). Pub. L. 108–96, § 117(a), substituted “$105,000,000 for fiscal year 2004, and such sums as may be necessary for fiscal years 2005, 2006, 2007, and 2008” for “such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003”.
+2003—Subsec. (a)(1). Pub. L. 108–96, § 117(a), substituted “$105,000,000 for fiscal year 2004, and such sums as may be necessary for fiscal years 2005, 2006, 2007, and 2008” for “such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003”.
 
-Subsec. (a)(2)(B). Pub. L. 108–96, § 117(c), substituted “45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B warrant not more than 55 percent” for “not less than 20 percent, and not more than 30 percent”.
+Subsec. (a)(2)(B). Pub. L. 108–96, § 117(c), substituted “45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B warrant not more than 55 percent” for “not less than 20 percent, and not more than 30 percent”.
 
-Subsec. (a)(4). Pub. L. 108–96, § 117(b), substituted “2004, 2005, 2006, 2007, and 2008” for “2000, 2001, 2002, and 2003”.
+Subsec. (a)(4). Pub. L. 108–96, § 117(b), substituted “2004, 2005, 2006, 2007, and 2008” for “2000, 2001, 2002, and 2003”.
 
-1999—Pub. L. 106–71, § 3(m), amended section catchline and text generally, substituting provisions relating to appropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
+1999—Pub. L. 106–71, § 3(m), amended section catchline and text generally, substituting provisions relating to appropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
 
-Subsec. (a)(4). Pub. L. 106–71, § 3(n)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 106–71, § 3(n)(2), added par. (4).
 
-1992—Pub. L. 102–586, § 3(i), which directed the amendment of section “366 of the Juvenile Justice and Delinquency Act of 1974 (42 U.S.C. 5751)”, was executed to this section, which is section 385 of the Juvenile Justice and Delinquency Prevention Act of 1974 (Pub. L. 93–415), to reflect the probable intent of Congress and the intervening renumbering of section 366 of Pub. L. 93–415 as section 385 by section 3(g)(1)(A)(ii) of Pub. L. 102–586. See notes below.
+1992—Pub. L. 102–586, § 3(i), which directed the amendment of section “366 of the Juvenile Justice and Delinquency Act of 1974 (42 U.S.C. 5751)”, was executed to this section, which is section 385 of the Juvenile Justice and Delinquency Prevention Act of 1974 (Pub. L. 93–415), to reflect the probable intent of Congress and the intervening renumbering of section 366 of Pub. L. 93–415 as section 385 by section 3(g)(1)(A)(ii) of Pub. L. 102–586. See notes below.
 
-Subsec. (a)(1). Pub. L. 102–586, § 3(i)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To carry out the purposes of part A of this subchapter there are authorized to be appropriated such sums as may be necessary for fiscal years 1989, 1990, 1991, and 1992.”
+Subsec. (a)(1). Pub. L. 102–586, § 3(i)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To carry out the purposes of part A of this subchapter there are authorized to be appropriated such sums as may be necessary for fiscal years 1989, 1990, 1991, and 1992.”
 
-Subsec. (a)(3) to (5). Pub. L. 102–586, § 3(i)(1)(B), added pars. (3) to (5).
+Subsec. (a)(3) to (5). Pub. L. 102–586, § 3(i)(1)(B), added pars. (3) to (5).
 
-Subsec. (b)(1). Pub. L. 102–586, § 3(i)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (2), to carry out the purposes of part B of this subchapter, there are authorized to be appropriated $5,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992.”
+Subsec. (b)(1). Pub. L. 102–586, § 3(i)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (2), to carry out the purposes of part B of this subchapter, there are authorized to be appropriated $5,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992.”
 
-Subsecs. (c) to (e). Pub. L. 102–586, § 3(i)(3), (4), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+Subsecs. (c) to (e). Pub. L. 102–586, § 3(i)(3), (4), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1989—Subsec. (a). Pub. L. 101–204, § 1001(e)(2), amended directory language of Pub. L. 100–690, § 7280(2), see 1988 Amendment note below.
+1989—Subsec. (a). Pub. L. 101–204, § 1001(e)(2), amended directory language of Pub. L. 100–690, § 7280(2), see 1988 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 101–204, § 1003(3), substituted “are authorized” for “is authorized”.
+Subsec. (a)(1). Pub. L. 101–204, § 1003(3), substituted “are authorized” for “is authorized”.
 
-1988—Subsec. (a). Pub. L. 100–690, § 7280, as amended by Pub. L. 101–204, § 1001(e)(2), designated existing provisions as par. (1), struck out “1985, 1986, 1987, and 1988” after “fiscal years”, inserted “1989, 1990, 1991, and 1992”, and added par. (2).
+1988—Subsec. (a). Pub. L. 100–690, § 7280, as amended by Pub. L. 101–204, § 1001(e)(2), designated existing provisions as par. (1), struck out “1985, 1986, 1987, and 1988” after “fiscal years”, inserted “1989, 1990, 1991, and 1992”, and added par. (2).
 
-Subsecs. (b) to (d). Pub. L. 100–690, § 7273(d), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+Subsecs. (b) to (d). Pub. L. 100–690, § 7273(d), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-1984—Pub. L. 98–473, § 657(a), amended section catchline.
+1984—Pub. L. 98–473, § 657(a), amended section catchline.
 
-Subsec. (a). Pub. L. 98–473, § 657(b), substituted “such sums as may be necessary for fiscal years 1985, 1986, 1987, and 1988” for “for each of the fiscal years ending September 30, 1981, September 30, 1982, September 30, 1983, and September 30, 1984 the sum of $25,000,000”.
+Subsec. (a). Pub. L. 98–473, § 657(b), substituted “such sums as may be necessary for fiscal years 1985, 1986, 1987, and 1988” for “for each of the fiscal years ending September 30, 1981, September 30, 1982, September 30, 1983, and September 30, 1984 the sum of $25,000,000”.
 
-Subsec. (b). Pub. L. 98–473, § 657(c), struck out “Associate” before “Administrator”.
+Subsec. (b). Pub. L. 98–473, § 657(c), struck out “Associate” before “Administrator”.
 
-Subsec. (c). Pub. L. 98–473, § 657(d), added subsec. (c).
+Subsec. (c). Pub. L. 98–473, § 657(d), added subsec. (c).
 
 1980—Subsec. (a). Pub. L. 96–509 substituted provisions authorizing appropriations of $25,000,000 for each of fiscal years ending Sept. 30, 1981, 1982, 1983, and 1984, for provisions that had authorized appropriations of $10,000,000 for each of fiscal years ending Sept. 30, 1975, 1976, and 1977, and $25,000,000 for each of fiscal years ending Sept. 30, 1978, 1979, and 1980.
 
-1977—Subsec. (a). Pub. L. 95–115, § 7(d)(1), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1978, 1979, and 1980.
+1977—Subsec. (a). Pub. L. 95–115, § 7(d)(1), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1978, 1979, and 1980.
 
-Subsec. (b). Pub. L. 95–115, § 7(d)(2), substituted provisions relating to consultative and coordinating requirements for funded programs and activities, for provisions relating to authorization for funding surveys under part B of this subchapter.
+Subsec. (b). Pub. L. 95–115, § 7(d)(2), substituted provisions relating to consultative and coordinating requirements for funded programs and activities, for provisions relating to authorization for funding surveys under part B of this subchapter.
 
 1976—Pub. L. 94–273 substituted “June 30, 1975, and 1976, and September 30, 1977” for “June 30, 1975, 1976, and 1977”.
 
@@ -4831,9 +4831,9 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, except that subsec. (c)(2
 
 **Effective Date of 1977 Amendment**
 
-Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
 
-#### § 11281. Restriction on use of funds
+#### § 11281. Restriction on use of funds
 
 **(a) In general**
 
@@ -4843,7 +4843,7 @@ None of the funds contained in this subchapter may be used for any program of di
 
 Any individual or entity who receives any funds contained in this subchapter and who carries out any program described in subsection (a) shall account for all funds used for such program separately from any funds contained in this subchapter.
 
-(Pub. L. 93–415, title III, § 389, as added Pub. L. 108–96, title I, § 120, Oct. 10, 2003, 117 Stat. 1171.)
+(Pub. L. 93–415, title III, § 389, as added Pub. L. 108–96, title I, § 120, Oct. 10, 2003, 117 Stat. 1171.)
 
 **Editorial Notes**
 
@@ -4853,7 +4853,7 @@ Section was formerly classified to section 5752 of Title 42, The Public Health a
 
 ## SUBCHAPTER IV—MISSING CHILDREN
 
-### § 11291. Findings
+### § 11291. Findings
 
 The Congress finds that—
 
@@ -4877,7 +4877,7 @@ The Congress finds that—
 
 **(C)** coordinates with each of the missing children clearinghouses operated by the 50 States, the District of Columbia, Puerto Rico, and international organizations to transmit images and information regarding missing and exploited children to law enforcement agencies, nongovernmental organizations, and corporate partners across the United States and around the world instantly.
 
-(Pub. L. 93–415, title IV, § 402, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2125; amended Pub. L. 106–71, § 2(a), Oct. 12, 1999, 113 Stat. 1032; Pub. L. 108–96, title II, § 201, Oct. 10, 2003, 117 Stat. 1171; Pub. L. 110–240, § 2, June 3, 2008, 122 Stat. 1560; Pub. L. 113–38, § 2(a), Sept. 30, 2013, 127 Stat. 527; Pub. L. 115–267, § 2(a), Oct. 11, 2018, 132 Stat. 3756; Pub. L. 115–393, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5267.)
+(Pub. L. 93–415, title IV, § 402, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2125; amended Pub. L. 106–71, § 2(a), Oct. 12, 1999, 113 Stat. 1032; Pub. L. 108–96, title II, § 201, Oct. 10, 2003, 117 Stat. 1171; Pub. L. 110–240, § 2, June 3, 2008, 122 Stat. 1560; Pub. L. 113–38, § 2(a), Sept. 30, 2013, 127 Stat. 527; Pub. L. 115–267, § 2(a), Oct. 11, 2018, 132 Stat. 3756; Pub. L. 115–393, title II, § 202(a), Dec. 21, 2018, 132 Stat. 5267.)
 
 **Editorial Notes**
 
@@ -4887,23 +4887,23 @@ Section was formerly classified to section 5771 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 402 of Pub. L. 93–415 amended section 3888 of Title 42, The Public Health and Welfare, and repealed section 3889 of Title 42, and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
+A prior section 402 of Pub. L. 93–415 amended section 3888 of Title 42, The Public Health and Welfare, and repealed section 3889 of Title 42, and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 **Amendments**
 
-2018—Pub. L. 115–393 made amendments to this section substantially identical to those made by Pub. L. 115–267, § 2(a). See Amendment notes below. Text of section is based on amendments by Pub. L. 115–267.
+2018—Pub. L. 115–393 made amendments to this section substantially identical to those made by Pub. L. 115–267, § 2(a). See Amendment notes below. Text of section is based on amendments by Pub. L. 115–267.
 
-Par. (1). Pub. L. 115–267, § 2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “each year thousands of children are abducted or removed from the control of a parent having legal custody without such parent’s consent, under circumstances which immediately place the child in grave danger;”.
+Par. (1). Pub. L. 115–267, § 2(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “each year thousands of children are abducted or removed from the control of a parent having legal custody without such parent’s consent, under circumstances which immediately place the child in grave danger;”.
 
-Par. (4). Pub. L. 115–267, § 2(a)(2)–(4), redesignated par. (6) as (4), inserted “, including child sex trafficking and sextortion” after “exploitation”, and struck out former par. (4) which read as follows: “in many cases, parents and local law enforcement officials have neither the resources nor the expertise to mount expanded search efforts;”.
+Par. (4). Pub. L. 115–267, § 2(a)(2)–(4), redesignated par. (6) as (4), inserted “, including child sex trafficking and sextortion” after “exploitation”, and struck out former par. (4) which read as follows: “in many cases, parents and local law enforcement officials have neither the resources nor the expertise to mount expanded search efforts;”.
 
-Par. (5). Pub. L. 115–267, § 2(a)(2), (3), redesignated par. (7) as (5) and struck out former par. (5) which read as follows: “abducted children are frequently moved from one locality to another, requiring the cooperation and coordination of local, State, and Federal law enforcement efforts;”.
+Par. (5). Pub. L. 115–267, § 2(a)(2), (3), redesignated par. (7) as (5) and struck out former par. (5) which read as follows: “abducted children are frequently moved from one locality to another, requiring the cooperation and coordination of local, State, and Federal law enforcement efforts;”.
 
-Par. (6). Pub. L. 115–267, § 2(a)(3), (5), redesignated par. (8) as (6) and inserted “and” at end. Former par. (6) redesignated (4).
+Par. (6). Pub. L. 115–267, § 2(a)(3), (5), redesignated par. (8) as (6) and inserted “and” at end. Former par. (6) redesignated (4).
 
-Par. (7). Pub. L. 115–267, § 2(a)(3), (6), redesignated par. (10) as (7) and amended it generally. Prior to amendment, text related to the National Center for Missing and Exploited Children. Former par. (7) redesignated (5).
+Par. (7). Pub. L. 115–267, § 2(a)(3), (6), redesignated par. (10) as (7) and amended it generally. Prior to amendment, text related to the National Center for Missing and Exploited Children. Former par. (7) redesignated (5).
 
-Pars. (8) to (10). Pub. L. 115–267, § 2(a)(2), (3), redesignated pars. (8) and (10) as (6) and (7), respectively, and struck out par. (9) which read as follows: “the Office of Juvenile Justice and Delinquency Prevention administers programs under this chapter through the Child Protection Division, including programs which prevent or address offenses committed against vulnerable children and which support missing children’s organizations; and”.
+Pars. (8) to (10). Pub. L. 115–267, § 2(a)(2), (3), redesignated pars. (8) and (10) as (6) and (7), respectively, and struck out par. (9) which read as follows: “the Office of Juvenile Justice and Delinquency Prevention administers programs under this chapter through the Child Protection Division, including programs which prevent or address offenses committed against vulnerable children and which support missing children’s organizations; and”.
 
 2013—Pub. L. 113–38 added par. (3) and redesignated former pars. (3) to (9) as (4) to (10), respectively.
 
@@ -4917,7 +4917,7 @@ Pars. (8) to (10). Pub. L. 115–267, § 2(a)(2), (3), redesignated pars. (8) 
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–267, § 4, Oct. 11, 2018, 132 Stat. 3760, provided that:
+Pub. L. 115–267, § 4, Oct. 11, 2018, 132 Stat. 3760, provided that:
 
 > **“(a) Effective Date.—** Except as provided in subsection (b), this Act [see section 1 of Pub. L. 115–267, set out as a Short Title of 2018 Amendment note under section 10101 of this title] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Oct. 11, 2018].
 
@@ -4931,7 +4931,7 @@ Subchapter effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set 
 
 For short title of title IV of Pub. L. 93–415, which is classified to this subchapter, as the “Missing Children’s Assistance Act”, see section 401 of Pub. L. 93–415, set out as a Short Title of 1974 Act note under section 10101 of this title.
 
-### § 11292. Definitions
+### § 11292. Definitions
 
 For the purpose of this subchapter—
 
@@ -4943,11 +4943,11 @@ For the purpose of this subchapter—
 
 **(4)** the term “parent” includes a legal guardian or other individual who may lawfully exercise parental rights with respect to the child; and
 
-**(5)** the term “child sexual abuse material” has the meaning given the term “child pornography” in section 2256 of title 18; 1
+**(5)** the term “child sexual abuse material” has the meaning given the term “child pornography” in section 2256 of title 18; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
-(Pub. L. 93–415, title IV, § 403, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 106–71, § 2(b), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 109–248, title I, § 154(b), July 27, 2006, 120 Stat. 611; Pub. L. 109–295, title VI, § 689b(c), Oct. 4, 2006, 120 Stat. 1450; Pub. L. 115–267, § 2(b), Oct. 11, 2018, 132 Stat. 3757; Pub. L. 115–393, title II, § 202(b), Dec. 21, 2018, 132 Stat. 5268; Pub. L. 118–65, § 2(a), June 17, 2024, 138 Stat. 1439.)
+(Pub. L. 93–415, title IV, § 403, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 106–71, § 2(b), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 109–248, title I, § 154(b), July 27, 2006, 120 Stat. 611; Pub. L. 109–295, title VI, § 689b(c), Oct. 4, 2006, 120 Stat. 1450; Pub. L. 115–267, § 2(b), Oct. 11, 2018, 132 Stat. 3757; Pub. L. 115–393, title II, § 202(b), Dec. 21, 2018, 132 Stat. 5268; Pub. L. 118–65, § 2(a), June 17, 2024, 138 Stat. 1439.)
 
 **Editorial Notes**
 
@@ -4957,15 +4957,15 @@ Section was formerly classified to section 5772 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 403 of Pub. L. 93–415 amended section 3883 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
+A prior section 403 of Pub. L. 93–415 amended section 3883 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 **Amendments**
 
 2024—Par. (5). Pub. L. 118–65 added par. (5).
 
-2018—Par. (1). Pub. L. 115–267, § 2(b)(1), and Pub. L. 115–393, § 202(b)(1), amended section identically, adding par. (1) and striking out former par. (1) which read as follows: “the term ‘missing child’ means any individual less than 18 years of age whose whereabouts are unknown to such individual’s legal custodian;”.
+2018—Par. (1). Pub. L. 115–267, § 2(b)(1), and Pub. L. 115–393, § 202(b)(1), amended section identically, adding par. (1) and striking out former par. (1) which read as follows: “the term ‘missing child’ means any individual less than 18 years of age whose whereabouts are unknown to such individual’s legal custodian;”.
 
-Par. (4). Pub. L. 115–267, § 2(b)(2)–(4), and Pub. L. 115–393, § 202(b)(2)–(4), amended section identically, adding par. (4).
+Par. (4). Pub. L. 115–267, § 2(b)(2)–(4), and Pub. L. 115–393, § 202(b)(2)–(4), amended section identically, adding par. (4).
 
 2006—Par. (1). Pub. L. 109–295, which directed amendment of par. (1) by striking out “or” at the end of subpar. (A), inserting “or” after the semicolon in subpar. (B), and adding after subpar. (B) subpar. (C) “the individual is an individual under 21 years of age who is displaced from the habitual residence of that individual as a result of an emergency or major disaster (as those terms are defined in section 5122 of this title).”, could not be executed because of the prior amendment by Pub. L. 109–248, see below.
 
@@ -4983,7 +4983,7 @@ Pub. L. 109–248, which directed amendment of “Section 403(1) of the Comprehe
 
 Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under section 11291 of this title.
 
-### § 11293. Duties and functions of the Administrator
+### § 11293. Duties and functions of the Administrator
 
 **(a) Description of activities** The Administrator shall—
 
@@ -5025,7 +5025,7 @@ Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal
 
 **(iv)** specifying the number and types of missing children cases handled (and the number of such cases resolved) by such clearinghouse in such fiscal year and summarizing the circumstances of each such cases.1
 
-<sup>1</sup>  So in original. Probably should be “case.”
+<sup>1</sup> So in original. Probably should be “case.”
 
 **(b) Annual grant to National Center for Missing and Exploited Children**
 
@@ -5169,13 +5169,13 @@ Notwithstanding any other provision of law, no Federal funds may be used to pay 
 
 **(1)** triennially conduct national incidence studies to determine for a given year the actual number of children reported missing each year, the number of children who are victims of abduction by strangers, the number of children who are the victims of parental kidnappings, and the number of children who are recovered each year;
 
-**(2)** provide to State and local governments, public and private nonprofit agencies, and individuals information to facilitate the lawful use of school records and birth certificates, in compliance with the Family Educational Rights and Privacy Act of 1974 (20 U.S.C. 1232g) 2
+**(2)** provide to State and local governments, public and private nonprofit agencies, and individuals information to facilitate the lawful use of school records and birth certificates, in compliance with the Family Educational Rights and Privacy Act of 1974 (20 U.S.C. 1232g) 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
-to identify and locate missing children 3
+to identify and locate missing children 3
 
-<sup>3</sup>  So in original. Probably should be followed by “; and”.
+<sup>3</sup> So in original. Probably should be followed by “; and”.
 
 **(3)** publish an analysis of the information determined under paragraph (1) that includes disaggregated demographic data and comparison of such data to demographic data from the census.
 
@@ -5183,7 +5183,7 @@ to identify and locate missing children 3
 
 Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
-(Pub. L. 93–415, title IV, § 404, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, § 7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, § 1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, § 2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, § 12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§ 321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, § 202(a), Oct. 10, 2003, 117 Stat. 1172; Pub. L. 110–240, § 3, June 3, 2008, 122 Stat. 1561; Pub. L. 113–38, § 2(b), Sept. 30, 2013, 127 Stat. 527; Pub. L. 114–22, title II, § 211, May 29, 2015, 129 Stat. 249; Pub. L. 115–141, div. Q, title II, § 201, Mar. 23, 2018, 132 Stat. 1120; Pub. L. 115–267, § 2(c), Oct. 11, 2018, 132 Stat. 3757; Pub. L. 115–393, title II, § 202(c), Dec. 21, 2018, 132 Stat. 5268; Pub. L. 118–65, § 2(b), June 17, 2024, 138 Stat. 1439.)
+(Pub. L. 93–415, title IV, § 404, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, § 7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, § 1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, § 2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, § 12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§ 321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, § 202(a), Oct. 10, 2003, 117 Stat. 1172; Pub. L. 110–240, § 3, June 3, 2008, 122 Stat. 1561; Pub. L. 113–38, § 2(b), Sept. 30, 2013, 127 Stat. 527; Pub. L. 114–22, title II, § 211, May 29, 2015, 129 Stat. 249; Pub. L. 115–141, div. Q, title II, § 201, Mar. 23, 2018, 132 Stat. 1120; Pub. L. 115–267, § 2(c), Oct. 11, 2018, 132 Stat. 3757; Pub. L. 115–393, title II, § 202(c), Dec. 21, 2018, 132 Stat. 5268; Pub. L. 118–65, § 2(b), June 17, 2024, 138 Stat. 1439.)
 
 **Editorial Notes**
 
@@ -5197,163 +5197,163 @@ Section was formerly classified to section 5773 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 404 of Pub. L. 93–415 amended section 3882 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
+A prior section 404 of Pub. L. 93–415 amended section 3882 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 **Amendments**
 
-2024—Subsec. (a)(6)(E). Pub. L. 118–65, § 2(b)(1), substituted “the CyberTipline established” for “the tipline established”.
+2024—Subsec. (a)(6)(E). Pub. L. 118–65, § 2(b)(1), substituted “the CyberTipline established” for “the tipline established”.
 
-Subsec. (b)(1)(A)(i). Pub. L. 118–65, § 2(b)(2)(A)(i), substituted “call center to which individuals may—” and subcls. (I) and (II) for “hotline by which individuals may report information regarding the location of any missing child, and request information pertaining to procedures necessary to reunite such child with such child’s parent; and”.
+Subsec. (b)(1)(A)(i). Pub. L. 118–65, § 2(b)(2)(A)(i), substituted “call center to which individuals may—” and subcls. (I) and (II) for “hotline by which individuals may report information regarding the location of any missing child, and request information pertaining to procedures necessary to reunite such child with such child’s parent; and”.
 
-Subsec. (b)(1)(A)(ii), (iii). Pub. L. 118–65, § 2(b)(2)(A)(ii), (iii), added cl. (ii) and redesignated former cl. (ii) as (iii).
+Subsec. (b)(1)(A)(ii), (iii). Pub. L. 118–65, § 2(b)(2)(A)(ii), (iii), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-Subsec. (b)(1)(D). Pub. L. 118–65, § 2(b)(2)(B), substituted “with their parents” for “with their families”.
+Subsec. (b)(1)(D). Pub. L. 118–65, § 2(b)(2)(B), substituted “with their parents” for “with their families”.
 
-Subsec. (b)(1)(F). Pub. L. 118–65, § 2(b)(2)(C), substituted “to parents” for “to families”.
+Subsec. (b)(1)(F). Pub. L. 118–65, § 2(b)(2)(C), substituted “to parents” for “to families”.
 
-Subsec. (b)(1)(G). Pub. L. 118–65, § 2(b)(2)(D), added subpar. (G) and struck out former subpar. (G) which read as follows: “provide support and technical assistance to child-serving professionals involved in helping to recover missing and exploited children by searching public records databases to help in the identification, location, and recovery of such children, and help in the location and identification of potential abductors and offenders;”.
+Subsec. (b)(1)(G). Pub. L. 118–65, § 2(b)(2)(D), added subpar. (G) and struck out former subpar. (G) which read as follows: “provide support and technical assistance to child-serving professionals involved in helping to recover missing and exploited children by searching public records databases to help in the identification, location, and recovery of such children, and help in the location and identification of potential abductors and offenders;”.
 
-Subsec. (b)(1)(H). Pub. L. 118–65, § 2(b)(2)(E), inserted “on long-term missing child cases” after “techniques to assist”.
+Subsec. (b)(1)(H). Pub. L. 118–65, § 2(b)(2)(E), inserted “on long-term missing child cases” after “techniques to assist”.
 
-Subsec. (b)(1)(I). Pub. L. 118–65, § 2(b)(2)(F), added subpar. (I) and struck out former subpar. (I) which read as follows: “provide training, technical assistance, and information to nongovernmental organizations relating to non-compliant sex offenders and to law enforcement agencies in identifying and locating such individuals;”.
+Subsec. (b)(1)(I). Pub. L. 118–65, § 2(b)(2)(F), added subpar. (I) and struck out former subpar. (I) which read as follows: “provide training, technical assistance, and information to nongovernmental organizations relating to non-compliant sex offenders and to law enforcement agencies in identifying and locating such individuals;”.
 
-Subsec. (b)(1)(J). Pub. L. 118–65, § 2(b)(2)(G), substituted “with their parents” for “with their families”.
+Subsec. (b)(1)(J). Pub. L. 118–65, § 2(b)(2)(G), substituted “with their parents” for “with their families”.
 
-Subsec. (b)(1)(K)(i). Pub. L. 118–65, § 2(b)(2)(H)(i)(I), substituted “CyberTipline” for “tipline” in introductory provisions.
+Subsec. (b)(1)(K)(i). Pub. L. 118–65, § 2(b)(2)(H)(i)(I), substituted “CyberTipline” for “tipline” in introductory provisions.
 
-Subsec. (b)(1)(K)(i)(I)(aa). Pub. L. 118–65, § 2(b)(2)(H)(i)(II)(aa), substituted “child sexual abuse material” for “child pornography”.
+Subsec. (b)(1)(K)(i)(I)(aa). Pub. L. 118–65, § 2(b)(2)(H)(i)(II)(aa), substituted “child sexual abuse material” for “child pornography”.
 
-Subsec. (b)(1)(K)(i)(I)(dd). Pub. L. 118–65, § 2(b)(2)(H)(i)(II)(bb), substituted “extraterritorial child sexual abuse and exploitation” for “sex tourism involving children”.
+Subsec. (b)(1)(K)(i)(I)(dd). Pub. L. 118–65, § 2(b)(2)(H)(i)(II)(bb), substituted “extraterritorial child sexual abuse and exploitation” for “sex tourism involving children”.
 
-Subsec. (b)(1)(K)(i)(I)(ee). Pub. L. 118–65, § 2(b)(2)(H)(i)(II)(cc), struck out “extra-familial” before “child”.
+Subsec. (b)(1)(K)(i)(I)(ee). Pub. L. 118–65, § 2(b)(2)(H)(i)(II)(cc), struck out “extra-familial” before “child”.
 
-Subsec. (b)(1)(K)(i)(II). Pub. L. 118–65, § 2(b)(2)(H)(i)(III), substituted “CyberTipline” for “tipline” and inserted “and” at end.
+Subsec. (b)(1)(K)(i)(II). Pub. L. 118–65, § 2(b)(2)(H)(i)(III), substituted “CyberTipline” for “tipline” and inserted “and” at end.
 
-Subsec. (b)(1)(K)(ii). Pub. L. 118–65, § 2(b)(2)(H)(ii), substituted “child sexual abuse material and other sexual crimes and” for “child pornography and other sexual crimes” and “, including by providing information on legal remedies available to such victims;” for “; and”.
+Subsec. (b)(1)(K)(ii). Pub. L. 118–65, § 2(b)(2)(H)(ii), substituted “child sexual abuse material and other sexual crimes and” for “child pornography and other sexual crimes” and “, including by providing information on legal remedies available to such victims;” for “; and”.
 
-Subsec. (b)(1)(K)(iii). Pub. L. 118–65, § 2(b)(2)(H)(iii), struck out cl. (iii) which read as follows: “by utilizing emerging technologies to provide additional outreach and educational materials to parents and families;”.
+Subsec. (b)(1)(K)(iii). Pub. L. 118–65, § 2(b)(2)(H)(iii), struck out cl. (iii) which read as follows: “by utilizing emerging technologies to provide additional outreach and educational materials to parents and families;”.
 
-Subsec. (b)(1)(L). Pub. L. 118–65, § 2(b)(2)(J), added subpar. (L). Former subpar. (L) redesignated (M).
+Subsec. (b)(1)(L). Pub. L. 118–65, § 2(b)(2)(J), added subpar. (L). Former subpar. (L) redesignated (M).
 
-Subsec. (b)(1)(M). Pub. L. 118–65, § 2(b)(2)(I), (K)(i), redesignated subpar. (L) as (M) and inserted “educational” before “information to families” in introductory provisions. Former subpar. (M) redesignated (N).
+Subsec. (b)(1)(M). Pub. L. 118–65, § 2(b)(2)(I), (K)(i), redesignated subpar. (L) as (M) and inserted “educational” before “information to families” in introductory provisions. Former subpar. (M) redesignated (N).
 
-Subsec. (b)(1)(M)(i). Pub. L. 118–65, § 2(b)(2)(K)(ii), substituted “missing children and child” for “child abduction and” and inserted “and” at end.
+Subsec. (b)(1)(M)(i). Pub. L. 118–65, § 2(b)(2)(K)(ii), substituted “missing children and child” for “child abduction and” and inserted “and” at end.
 
-Subsec. (b)(1)(M)(ii), (iii). Pub. L. 118–65, § 2(b)(2)(K)(iii), added cl. (ii) and struck out former cls. (ii) and (iii) which read as follows:
+Subsec. (b)(1)(M)(ii), (iii). Pub. L. 118–65, § 2(b)(2)(K)(iii), added cl. (ii) and struck out former cls. (ii) and (iii) which read as follows:
 
 “(ii) internet safety, including tips for social media and cyberbullying; and
 
 “(iii) sexting and sextortion;”.
 
-Subsec. (b)(1)(N). Pub. L. 118–65, § 2(b)(2)(I), (L), redesignated subpar. (M) as (N) and inserted “and preventing child sexual exploitation” after “recovering such children”. Former subpar. (N) redesignated (O).
+Subsec. (b)(1)(N). Pub. L. 118–65, § 2(b)(2)(I), (L), redesignated subpar. (M) as (N) and inserted “and preventing child sexual exploitation” after “recovering such children”. Former subpar. (N) redesignated (O).
 
-Subsec. (b)(1)(O). Pub. L. 118–65, § 2(b)(2)(M), added subpar. (O) and struck out former subpar. (O) which read as follows: “assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and”.
+Subsec. (b)(1)(O). Pub. L. 118–65, § 2(b)(2)(M), added subpar. (O) and struck out former subpar. (O) which read as follows: “assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and”.
 
-Pub. L. 118–65, § 2(b)(2)(I), redesignated subpar. (N) as (O). Former subpar. (O) redesignated (P).
+Pub. L. 118–65, § 2(b)(2)(I), redesignated subpar. (N) as (O). Former subpar. (O) redesignated (P).
 
-Subsec. (b)(1)(P). Pub. L. 118–65, § 2(b)(2)(I), (N), redesignated subpar. (O) as (P) and inserted “and recovery support services” after “technical assistance”.
+Subsec. (b)(1)(P). Pub. L. 118–65, § 2(b)(2)(I), (N), redesignated subpar. (O) as (P) and inserted “and recovery support services” after “technical assistance”.
 
-Subsec. (c)(3). Pub. L. 118–65, § 2(b)(3), added par. (3).
+Subsec. (c)(3). Pub. L. 118–65, § 2(b)(3), added par. (3).
 
-2018—Subsec. (a)(3). Pub. L. 115–267, § 2(c)(1)(A), and Pub. L. 115–393, § 202(c)(1)(A), amended par. (3) identically, substituting “hotline” for “telephone line”.
+2018—Subsec. (a)(3). Pub. L. 115–267, § 2(c)(1)(A), and Pub. L. 115–393, § 202(c)(1)(A), amended par. (3) identically, substituting “hotline” for “telephone line”.
 
-Subsec. (a)(6)(E). Pub. L. 115–267, § 2(c)(1)(B), and Pub. L. 115–393, § 202(c)(1)(B), amended subpar. (E) identically, substituting “hotline” for “telephone line” and “(b)(1)(A),” for “(b)(1)(A) and” and inserting “, and the number and types of reports to the tipline established under subsection (b)(1)(K)(i)” before semicolon at end.
+Subsec. (a)(6)(E). Pub. L. 115–267, § 2(c)(1)(B), and Pub. L. 115–393, § 202(c)(1)(B), amended subpar. (E) identically, substituting “hotline” for “telephone line” and “(b)(1)(A),” for “(b)(1)(A) and” and inserting “, and the number and types of reports to the tipline established under subsection (b)(1)(K)(i)” before semicolon at end.
 
-Subsec. (b)(1)(A)(i). Pub. L. 115–267, § 2(c)(2)(A), and Pub. L. 115–393, § 202(c)(2)(A), amended cl. (i) identically, substituting “hotline” for “telephone line” and “parent” for “legal custodian”.
+Subsec. (b)(1)(A)(i). Pub. L. 115–267, § 2(c)(2)(A), and Pub. L. 115–393, § 202(c)(2)(A), amended cl. (i) identically, substituting “hotline” for “telephone line” and “parent” for “legal custodian”.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 115–267, § 2(c)(2)(A)(i), and Pub. L. 115–393, § 202(c)(2)(A)(i), amended cl. (ii) identically, substituting “hotline” for “telephone line”.
+Subsec. (b)(1)(A)(ii). Pub. L. 115–267, § 2(c)(2)(A)(i), and Pub. L. 115–393, § 202(c)(2)(A)(i), amended cl. (ii) identically, substituting “hotline” for “telephone line”.
 
-Subsec. (b)(1)(C)(i). Pub. L. 115–267, § 2(c)(2)(B)(i), and Pub. L. 115–393, § 202(c)(2)(B)(i), amended cl. (i) identically, substituting “food” for “restaurant” and striking out “and” at end.
+Subsec. (b)(1)(C)(i). Pub. L. 115–267, § 2(c)(2)(B)(i), and Pub. L. 115–393, § 202(c)(2)(B)(i), amended cl. (i) identically, substituting “food” for “restaurant” and striking out “and” at end.
 
-Subsec. (b)(1)(C)(iii). Pub. L. 115–267, § 2(c)(2)(B)(ii), (iii), and Pub. L. 115–393, § 202(c)(2)(B)(ii), (iii), amended subsec. (b)(1)(C) identically, adding cl. (iii).
+Subsec. (b)(1)(C)(iii). Pub. L. 115–267, § 2(c)(2)(B)(ii), (iii), and Pub. L. 115–393, § 202(c)(2)(B)(ii), (iii), amended subsec. (b)(1)(C) identically, adding cl. (iii).
 
-Subsec. (b)(1)(E) to (V). Pub. L. 115–393, § 202(c)(2)(C)–(L), made amendments to subpars. (E) to (V) substantially identical to those made by Pub. L. 115–267, § 2(c)(2)(C)–(L). See Amendment notes below. Text of subsec. (b)(1)(E) to (V) is based on amendments by Pub. L. 115–267.
+Subsec. (b)(1)(E) to (V). Pub. L. 115–393, § 202(c)(2)(C)–(L), made amendments to subpars. (E) to (V) substantially identical to those made by Pub. L. 115–267, § 2(c)(2)(C)–(L). See Amendment notes below. Text of subsec. (b)(1)(E) to (V) is based on amendments by Pub. L. 115–267.
 
-Subsec. (b)(1)(E). Pub. L. 115–267, § 2(c)(2)(D), (H), redesignated subpar. (H) as (E) and amended it generally. Prior to amendment, text read as follows: “provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children, including cases involving children with developmental disabilities such as autism;”.
+Subsec. (b)(1)(E). Pub. L. 115–267, § 2(c)(2)(D), (H), redesignated subpar. (H) as (E) and amended it generally. Prior to amendment, text read as follows: “provide technical assistance and training to law enforcement agencies, State and local governments, elements of the criminal justice system, public and private nonprofit agencies, and individuals in the prevention, investigation, prosecution, and treatment of cases involving missing and exploited children, including cases involving children with developmental disabilities such as autism;”.
 
-Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (E) which read as follows: “disseminate, on a national basis, information relating to innovative and model programs, services, and legislation that benefit missing and exploited children;”.
+Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (E) which read as follows: “disseminate, on a national basis, information relating to innovative and model programs, services, and legislation that benefit missing and exploited children;”.
 
-Subsec. (b)(1)(F). Pub. L. 115–267, § 2(c)(2)(D), (I), redesignated subpar. (I) as (F) and amended it generally. Prior to amendment, text read as follows: “provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and, in cooperation with the Department of State, internationally;”.
+Subsec. (b)(1)(F). Pub. L. 115–267, § 2(c)(2)(D), (I), redesignated subpar. (I) as (F) and amended it generally. Prior to amendment, text read as follows: “provide assistance to families and law enforcement agencies in locating and recovering missing and exploited children, both nationally and, in cooperation with the Department of State, internationally;”.
 
-Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (F) which related to requirement to annually provide the Office of Juvenile Justice and Delinquency Prevention certain information based on reports received by the National Center for Missing and Exploited Children.
+Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (F) which related to requirement to annually provide the Office of Juvenile Justice and Delinquency Prevention certain information based on reports received by the National Center for Missing and Exploited Children.
 
-Subsec. (b)(1)(G). Pub. L. 115–267, § 2(c)(2)(D), (I), redesignated subpar. (J) as (G) and amended it generally. Prior to amendment, text read as follows: “provide analytical support and technical assistance to law enforcement agencies through searching public records databases in locating and recovering missing and exploited children and helping to locate and identify abductors;”.
+Subsec. (b)(1)(G). Pub. L. 115–267, § 2(c)(2)(D), (I), redesignated subpar. (J) as (G) and amended it generally. Prior to amendment, text read as follows: “provide analytical support and technical assistance to law enforcement agencies through searching public records databases in locating and recovering missing and exploited children and helping to locate and identify abductors;”.
 
-Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (G) which read as follows: “provide, at the request of State and local governments, and public and private nonprofit agencies, guidance on how to facilitate the lawful use of school records and birth certificates to identify and locate missing children;”.
+Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (G) which read as follows: “provide, at the request of State and local governments, and public and private nonprofit agencies, guidance on how to facilitate the lawful use of school records and birth certificates to identify and locate missing children;”.
 
-Subsec. (b)(1)(H). Pub. L. 115–267, § 2(c)(2)(D), (I), redesignated subpar. (K) as (H) and amended it generally. Prior to amendment, text read as follows: “provide direct on-site technical assistance and consultation to law enforcement agencies in child abduction and exploitation cases;”. Former subpar. (H) redesignated (E).
+Subsec. (b)(1)(H). Pub. L. 115–267, § 2(c)(2)(D), (I), redesignated subpar. (K) as (H) and amended it generally. Prior to amendment, text read as follows: “provide direct on-site technical assistance and consultation to law enforcement agencies in child abduction and exploitation cases;”. Former subpar. (H) redesignated (E).
 
-Pub. L. 115–141 inserted “, including cases involving children with developmental disabilities such as autism” before semicolon at end.
+Pub. L. 115–141 inserted “, including cases involving children with developmental disabilities such as autism” before semicolon at end.
 
-Subsec. (b)(1)(I). Pub. L. 115–267, § 2(c)(2)(E), (J), redesignated subpar. (N) as (I) and amended it generally. Prior to amendment, text read as follows: “provide training and assistance to law enforcement agencies in identifying and locating non-compliant sex offenders;”. Former subpar. (I) redesignated (F).
+Subsec. (b)(1)(I). Pub. L. 115–267, § 2(c)(2)(E), (J), redesignated subpar. (N) as (I) and amended it generally. Prior to amendment, text read as follows: “provide training and assistance to law enforcement agencies in identifying and locating non-compliant sex offenders;”. Former subpar. (I) redesignated (F).
 
-Subsec. (b)(1)(J). Pub. L. 115–267, § 2(c)(2)(E), redesignated subpar. (O) as (J). Former subpar. (J) redesignated (G).
+Subsec. (b)(1)(J). Pub. L. 115–267, § 2(c)(2)(E), redesignated subpar. (O) as (J). Former subpar. (J) redesignated (G).
 
-Subsec. (b)(1)(K). Pub. L. 115–267, § 2(c)(2)(F), (K), redesignated subpar. (Q) as (K) and amended it generally. Prior to amendment, text read as follows: “work with law enforcement, Internet service providers, electronic payment service providers, and others on methods to reduce the distribution on the Internet of images and videos of sexually exploited children;”. Former subpar. (K) redesignated (H).
+Subsec. (b)(1)(K). Pub. L. 115–267, § 2(c)(2)(F), (K), redesignated subpar. (Q) as (K) and amended it generally. Prior to amendment, text read as follows: “work with law enforcement, Internet service providers, electronic payment service providers, and others on methods to reduce the distribution on the Internet of images and videos of sexually exploited children;”. Former subpar. (K) redesignated (H).
 
-Subsec. (b)(1)(L). Pub. L. 115–267, § 2(c)(2)(G), (L), redesignated subpar. (S) as (L), and amended it generally. Prior to amendment, text related to development and dissemination of programs and information on prevention of child abduction and sexual exploitation and internet safety.
+Subsec. (b)(1)(L). Pub. L. 115–267, § 2(c)(2)(G), (L), redesignated subpar. (S) as (L), and amended it generally. Prior to amendment, text related to development and dissemination of programs and information on prevention of child abduction and sexual exploitation and internet safety.
 
-Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (L) which read as follows: “provide forensic technical assistance and consultation to law enforcement and other agencies in the identification of unidentified deceased children through facial reconstruction of skeletal remains and similar techniques;”.
+Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (L) which read as follows: “provide forensic technical assistance and consultation to law enforcement and other agencies in the identification of unidentified deceased children through facial reconstruction of skeletal remains and similar techniques;”.
 
-Subsec. (b)(1)(M). Pub. L. 115–267, § 2(c)(2)(G), (L), redesignated subpar. (T) as (M) and amended it generally. Prior to amendment, text read as follows: “provide technical assistance and training to State and local law enforcement agencies and statewide clearinghouses to coordinate with State and local educational agencies in identifying and recovering missing children;”.
+Subsec. (b)(1)(M). Pub. L. 115–267, § 2(c)(2)(G), (L), redesignated subpar. (T) as (M) and amended it generally. Prior to amendment, text read as follows: “provide technical assistance and training to State and local law enforcement agencies and statewide clearinghouses to coordinate with State and local educational agencies in identifying and recovering missing children;”.
 
-Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (M) which read as follows: “track the incidence of attempted child abductions in order to identify links and patterns, and provide such information to law enforcement agencies;”.
+Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (M) which read as follows: “track the incidence of attempted child abductions in order to identify links and patterns, and provide such information to law enforcement agencies;”.
 
-Subsec. (b)(1)(N). Pub. L. 115–267, § 2(c)(2)(G), redesignated subpar. (U) as (N). Former subpar. (N) redesignated (I).
+Subsec. (b)(1)(N). Pub. L. 115–267, § 2(c)(2)(G), redesignated subpar. (U) as (N). Former subpar. (N) redesignated (I).
 
-Subsec. (b)(1)(O). Pub. L. 115–267, § 2(c)(2)(G), redesignated subpar. (V) as (O). Former subpar. (O) redesignated (J).
+Subsec. (b)(1)(O). Pub. L. 115–267, § 2(c)(2)(G), redesignated subpar. (V) as (O). Former subpar. (O) redesignated (J).
 
-Subsec. (b)(1)(P). Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (P) which related to cyber tipline for reporting Internet-related child sexual exploitation.
+Subsec. (b)(1)(P). Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (P) which related to cyber tipline for reporting Internet-related child sexual exploitation.
 
-Subsec. (b)(1)(Q). Pub. L. 115–267, § 2(c)(2)(F), redesignated subpar. (Q) as (K).
+Subsec. (b)(1)(Q). Pub. L. 115–267, § 2(c)(2)(F), redesignated subpar. (Q) as (K).
 
-Subsec. (b)(1)(R). Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (R) which read as follows: “operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes;”.
+Subsec. (b)(1)(R). Pub. L. 115–267, § 2(c)(2)(C), struck out subpar. (R) which read as follows: “operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes;”.
 
-Subsec. (b)(1)(S) to (V). Pub. L. 115–267, § 2(c)(2)(G), redesignated subpars. (S) to (V) as (L) to (O), respectively.
+Subsec. (b)(1)(S) to (V). Pub. L. 115–267, § 2(c)(2)(G), redesignated subpars. (S) to (V) as (L) to (O), respectively.
 
 2015—Subsec. (b)(1)(P)(iii). Pub. L. 114–22 substituted “child sex trafficking, including child prostitution” for “child prostitution”.
 
-2013—Subsec. (a)(4). Pub. L. 113–38, § 2(b)(1)(C), added par. (4). Former par. (4) redesignated (5).
+2013—Subsec. (a)(4). Pub. L. 113–38, § 2(b)(1)(C), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 113–38, § 2(b)(1)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 113–38, § 2(b)(1)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Pub. L. 113–38, § 2(b)(1)(A), in introductory provisions, substituted “Representatives, the Committee on Education and the Workforce of the House of Representatives,” for “Representatives, and” and inserted “, and the Committee on the Judiciary of the Senate” after “Senate”.
+Pub. L. 113–38, § 2(b)(1)(A), in introductory provisions, substituted “Representatives, the Committee on Education and the Workforce of the House of Representatives,” for “Representatives, and” and inserted “, and the Committee on the Judiciary of the Senate” after “Senate”.
 
-Subsec. (a)(6). Pub. L. 113–38, § 2(b)(1)(B), redesignated par. (5) as (6).
+Subsec. (a)(6). Pub. L. 113–38, § 2(b)(1)(B), redesignated par. (5) as (6).
 
-Subsec. (b)(1)(C). Pub. L. 113–38, § 2(b)(2)(A)(i), in introductory provisions, struck out “and” after “governments,” and inserted “State and local educational agencies,” after “nonprofit agencies,”.
+Subsec. (b)(1)(C). Pub. L. 113–38, § 2(b)(2)(A)(i), in introductory provisions, struck out “and” after “governments,” and inserted “State and local educational agencies,” after “nonprofit agencies,”.
 
-Subsec. (b)(1)(T) to (V). Pub. L. 113–38, § 2(b)(2)(A)(ii)–(iv), added subpars. (T) to (V).
+Subsec. (b)(1)(T) to (V). Pub. L. 113–38, § 2(b)(2)(A)(ii)–(iv), added subpars. (T) to (V).
 
-Subsec. (b)(2). Pub. L. 113–38, § 2(b)(2)(B), amended par. (2) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Administrator to carry out this subsection, $40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013.”
+Subsec. (b)(2). Pub. L. 113–38, § 2(b)(2)(B), amended par. (2) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Administrator to carry out this subsection, $40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013.”
 
-Subsec. (c)(1). Pub. L. 113–38, § 2(b)(3), substituted “triennially” for “periodically” and “kidnappings” for “kidnapings”.
+Subsec. (c)(1). Pub. L. 113–38, § 2(b)(3), substituted “triennially” for “periodically” and “kidnappings” for “kidnapings”.
 
-Subsec. (c)(2). Pub. L. 113–38, § 2(b)(4), inserted “, in compliance with the Family Educational Rights and Privacy Act of 1974 (20 U.S.C. 1232g)” after “birth certificates”.
+Subsec. (c)(2). Pub. L. 113–38, § 2(b)(4), inserted “, in compliance with the Family Educational Rights and Privacy Act of 1974 (20 U.S.C. 1232g)” after “birth certificates”.
 
-2008—Subsec. (b)(1). Pub. L. 110–240, § 3(1), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (H) relating to annual grants to Center.
+2008—Subsec. (b)(1). Pub. L. 110–240, § 3(1), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (H) relating to annual grants to Center.
 
-Subsec. (b)(2). Pub. L. 110–240, § 3(2), substituted “$40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013” for “$20,000,000 for each of the fiscal years 2004 through 2008”.
+Subsec. (b)(2). Pub. L. 110–240, § 3(2), substituted “$40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013” for “$20,000,000 for each of the fiscal years 2004 through 2008”.
 
-2003—Subsec. (b)(1)(H). Pub. L. 108–21, § 323, added subpar. (H).
+2003—Subsec. (b)(1)(H). Pub. L. 108–21, § 323, added subpar. (H).
 
 Subsec. (b)(2). Pub. L. 108–96 substituted “2008” for “2005”.
 
-Pub. L. 108–21, § 321(b), substituted “$20,000,000 for each of the fiscal years 2004 through 2005” for “$10,000,000 for each of fiscal years 2000, 2001, 2002, and 2003”.
+Pub. L. 108–21, § 321(b), substituted “$20,000,000 for each of the fiscal years 2004 through 2005” for “$10,000,000 for each of fiscal years 2000, 2001, 2002, and 2003”.
 
 2002—Subsec. (a)(5)(E). Pub. L. 107–273 substituted “section 5714–11” for “section 5712a”.
 
 1999—Subsecs. (b) to (d). Pub. L. 106–71 added subsecs. (b) and (c), redesignated former subsec. (c) as (d), and struck out former subsec. (b) which related to the establishment of toll-free telephone line and national resource center and clearinghouse, conduct of national incidence studies, and use of school records and birth certificates.
 
-1989—Subsec. (a)(5)(C). Pub. L. 101–204, § 1004(2)(A), substituted semicolon for comma at end.
+1989—Subsec. (a)(5)(C). Pub. L. 101–204, § 1004(2)(A), substituted semicolon for comma at end.
 
-Subsec. (b)(2)(A). Pub. L. 101–204, § 1004(2)(B), inserted “to” before “provide to State”.
+Subsec. (b)(2)(A). Pub. L. 101–204, § 1004(2)(B), inserted “to” before “provide to State”.
 
-1988—Subsec. (a)(3). Pub. L. 100–690, § 7285(a)(1), struck out “law enforcement” before “entities”.
+1988—Subsec. (a)(3). Pub. L. 100–690, § 7285(a)(1), struck out “law enforcement” before “entities”.
 
-Subsec. (a)(4). Pub. L. 100–690, § 7285(a)(2), inserted “and” at end.
+Subsec. (a)(4). Pub. L. 100–690, § 7285(a)(2), inserted “and” at end.
 
-Subsec. (a)(5). Pub. L. 100–690, § 7285(a)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “analyze, compile, publish, and disseminate an annual summary of recently completed research, research being conducted, and Federal, State, and local demonstration projects relating to missing children with particular emphasis on—
+Subsec. (a)(5). Pub. L. 100–690, § 7285(a)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “analyze, compile, publish, and disseminate an annual summary of recently completed research, research being conducted, and Federal, State, and local demonstration projects relating to missing children with particular emphasis on—
 
 “(A) effective models of local, State, and Federal coordination and cooperation in locating missing children;
 
@@ -5363,15 +5363,15 @@ Subsec. (a)(5). Pub. L. 100–690, § 7285(a)(3), amended par. (5) generally. 
 
 “(D) effective program models which provide treatment, counseling, or other aid to parents of missing children or to children who have been the victims of abduction or sexual exploitation; and”.
 
-Subsec. (a)(6). Pub. L. 100–690, § 7285(a)(4), struck out par. (6), which read as follows: “prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan for facilitating cooperation and coordination among all agencies and organizations with responsibilities related to missing children.”
+Subsec. (a)(6). Pub. L. 100–690, § 7285(a)(4), struck out par. (6), which read as follows: “prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan for facilitating cooperation and coordination among all agencies and organizations with responsibilities related to missing children.”
 
-Subsec. (b)(1). Pub. L. 100–690, § 7285(b)(1), designated existing provisions as subpar. (A), inserted “24-hour” after “national” and “and” at end, and added subpar. (B).
+Subsec. (b)(1). Pub. L. 100–690, § 7285(b)(1), designated existing provisions as subpar. (A), inserted “24-hour” after “national” and “and” at end, and added subpar. (B).
 
-Subsec. (b)(2)(A). Pub. L. 100–690, § 7285(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “to provide technical assistance to local and State governments, public and private nonprofit agencies, and individuals in locating and recovering missing children;”.
+Subsec. (b)(2)(A). Pub. L. 100–690, § 7285(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “to provide technical assistance to local and State governments, public and private nonprofit agencies, and individuals in locating and recovering missing children;”.
 
-Subsec. (b)(2)(D). Pub. L. 100–690, § 7285(b)(2)(B), inserted “and training” after “assistance” and “and in locating and recovering missing children” before semicolon.
+Subsec. (b)(2)(D). Pub. L. 100–690, § 7285(b)(2)(B), inserted “and training” after “assistance” and “and in locating and recovering missing children” before semicolon.
 
-Subsec. (b)(4). Pub. L. 100–690, § 7285(b)(3), (4), added par. (4).
+Subsec. (b)(4). Pub. L. 100–690, § 7285(b)(3), (4), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5391,7 +5391,7 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required 
 
 For termination, effective May 15, 2000, of provisions in subsec. (a)(6) of this section relating to submittal of annual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
 
-### § 11294. Grants
+### § 11294. Grants
 
 **(a) Authority of Administrator; description of research, demonstration projects, and service programs** The Administrator is authorized to make grants to and enter into contracts with the Center and with public agencies or nonprofit private organizations, or combinations thereof, for research, demonstration projects, or service programs designed—
 
@@ -5435,7 +5435,7 @@ The Administrator shall give first priority to applicants qualifying under subpa
 
 In order to receive assistance under this subchapter for a fiscal year, applicants shall give assurance that they will expend, to the greatest extent practicable, for such fiscal year an amount of funds (without regard to any funds received under any Federal law) that is not less than the amount of funds they received in the preceding fiscal year from State, local, and private sources.
 
-(Pub. L. 93–415, title IV, § 405, formerly § 406, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2128; renumbered § 405 and amended Pub. L. 100–690, title VII, §§ 7287, 7290(a), Nov. 18, 1988, 102 Stat. 4460, 4461; Pub. L. 101–204, title X, § 1004(3), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, § 2(d), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 113–38, § 2(c), Sept. 30, 2013, 127 Stat. 528; Pub. L. 115–267, § 2(d), Oct. 11, 2018, 132 Stat. 3759; Pub. L. 115–393, title II, § 202(d), Dec. 21, 2018, 132 Stat. 5270.)
+(Pub. L. 93–415, title IV, § 405, formerly § 406, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2128; renumbered § 405 and amended Pub. L. 100–690, title VII, §§ 7287, 7290(a), Nov. 18, 1988, 102 Stat. 4460, 4461; Pub. L. 101–204, title X, § 1004(3), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, § 2(d), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 113–38, § 2(c), Sept. 30, 2013, 127 Stat. 528; Pub. L. 115–267, § 2(d), Oct. 11, 2018, 132 Stat. 3759; Pub. L. 115–393, title II, § 202(d), Dec. 21, 2018, 132 Stat. 5270.)
 
 **Editorial Notes**
 
@@ -5445,25 +5445,25 @@ Section was formerly classified to section 5775 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 405 of Pub. L. 93–415 was classified to section 5774 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 100–690, title VII, § 7286, Nov. 18, 1988, 102 Stat. 4460.
+A prior section 405 of Pub. L. 93–415 was classified to section 5774 of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 100–690, title VII, § 7286, Nov. 18, 1988, 102 Stat. 4460.
 
 **Amendments**
 
-2018—Subsec. (a)(7). Pub. L. 115–267, § 2(d)(1)(A), and Pub. L. 115–393, § 202(d)(1)(A), amended par. (7) identically, striking out “(as defined in section 11292(1)(A) of this title)” after “missing children”.
+2018—Subsec. (a)(7). Pub. L. 115–267, § 2(d)(1)(A), and Pub. L. 115–393, § 202(d)(1)(A), amended par. (7) identically, striking out “(as defined in section 11292(1)(A) of this title)” after “missing children”.
 
-Subsec. (a)(8). Pub. L. 115–267, § 2(d)(1)(B), and Pub. L. 115–393, § 202(d)(1)(B), amended par. (8) identically, substituting “parents” for “legal custodians” and “parents’ ” for “custodians’ ”.
+Subsec. (a)(8). Pub. L. 115–267, § 2(d)(1)(B), and Pub. L. 115–393, § 202(d)(1)(B), amended par. (8) identically, substituting “parents” for “legal custodians” and “parents’ ” for “custodians’ ”.
 
-Subsec. (b)(1)(A). Pub. L. 115–267, § 2(d)(2), and Pub. L. 115–393, § 202(d)(2), amended subpar. (A) identically, substituting “parents” for “legal custodians”.
+Subsec. (b)(1)(A). Pub. L. 115–267, § 2(d)(2), and Pub. L. 115–393, § 202(d)(2), amended subpar. (A) identically, substituting “parents” for “legal custodians”.
 
-2013—Subsec. (a)(1). Pub. L. 113–38, § 2(c)(1), inserted “schools, school leaders, teachers, State and local educational agencies, homeless shelters and service providers,” after “children,”.
+2013—Subsec. (a)(1). Pub. L. 113–38, § 2(c)(1), inserted “schools, school leaders, teachers, State and local educational agencies, homeless shelters and service providers,” after “children,”.
 
-Subsec. (a)(3). Pub. L. 113–38, § 2(c)(2), inserted “and schools” after “communities”.
+Subsec. (a)(3). Pub. L. 113–38, § 2(c)(2), inserted “and schools” after “communities”.
 
 1999—Subsec. (a). Pub. L. 106–71 inserted “the Center and with” before “public agencies” in introductory provisions.
 
 1989—Subsec. (a)(9). Pub. L. 101–204 substituted “clearinghouses” for “clearinghouse”.
 
-1988—Subsec. (a)(7) to (9). Pub. L. 100–690, § 7287, added pars. (7) to (9).
+1988—Subsec. (a)(7) to (9). Pub. L. 100–690, § 7287, added pars. (7) to (9).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5475,7 +5475,7 @@ Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal
 
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under section 11101 of this title.
 
-### § 11295. Criteria for grants
+### § 11295. Criteria for grants
 
 **(a) Establishment of priorities and criteria; publication in Federal Register** In carrying out the programs authorized by this subchapter, the Administrator shall establish—
 
@@ -5493,9 +5493,9 @@ No grant or contract exceeding $50,000 shall be made under this subchapter unles
 
 Multiple grants or contracts to the same grantee or contractor within any 1 year to support activities having the same general purpose shall be deemed to be a single grant for the purpose of this subsection, but multiple grants or contracts to the same grantee or contractor to support clearly distinct activities shall be considered separate grants or contractors.1
 
-<sup>1</sup>  So in original. Probably should be “contracts.”
+<sup>1</sup> So in original. Probably should be “contracts.”
 
-(Pub. L. 93–415, title IV, § 406, formerly § 407, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2129; renumbered § 406 and amended Pub. L. 100–690, title VII, §§ 7288, 7290, Nov. 18, 1988, 102 Stat. 4461.)
+(Pub. L. 93–415, title IV, § 406, formerly § 407, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2129; renumbered § 406 and amended Pub. L. 100–690, title VII, §§ 7288, 7290, Nov. 18, 1988, 102 Stat. 4461.)
 
 **Editorial Notes**
 
@@ -5509,9 +5509,9 @@ A prior section 406 of Pub. L. 93–415 was renumbered section 405 and is classi
 
 **Amendments**
 
-1988—Pub. L. 100–690, § 7290(b), which purported to make technical amendment to reference to section 5775 of this title to reflect renumbering of corresponding section of original act, could not be executed to text because of general amendment of section by Pub. L. 100–690, § 7288, see below.
+1988—Pub. L. 100–690, § 7290(b), which purported to make technical amendment to reference to section 5775 of this title to reflect renumbering of corresponding section of original act, could not be executed to text because of general amendment of section by Pub. L. 100–690, § 7288, see below.
 
-Pub. L. 100–690, § 7288, amended section generally. Prior to amendment, section read as follows: “The Administrator, in consultation with the Advisory Board, shall establish annual research, demonstration, and service program priorities for making grants and contracts pursuant to section 5775 of this title and, not less than 60 days before establishing such priorities, shall publish in the Federal Register for public comment a statement of such proposed priorities.”
+Pub. L. 100–690, § 7288, amended section generally. Prior to amendment, section read as follows: “The Administrator, in consultation with the Advisory Board, shall establish annual research, demonstration, and service program priorities for making grants and contracts pursuant to section 5775 of this title and, not less than 60 days before establishing such priorities, shall publish in the Federal Register for public comment a statement of such proposed priorities.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5519,7 +5519,7 @@ Pub. L. 100–690, § 7288, amended section generally. Prior to amendment, sec
 
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under section 11101 of this title.
 
-### § 11295a. Reporting
+### § 11295a. Reporting
 
 **(a) Required reporting** As a condition of receiving funds under section 11293(b) of this title, the grant recipient shall, based solely on reports received by the grantee and not involving any data collection by the grantee other than those reports, annually provide to the Administrator and make available to the general public, as appropriate—
 
@@ -5549,7 +5549,7 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pu
 
 As a condition of receiving funds under section 11293(b) of this title, the grant recipient shall annually provide to the Administrator and make available to the general public, as appropriate, the criteria and processes the grantee uses to establish forensic partnerships and recommend forensic resources to law enforcement and shall annually review these forensic partnerships and forensic referrals against the criteria and review new advancements in technology.
 
-(Pub. L. 93–415, title IV, § 407, as added Pub. L. 115–267, § 2(e)(2), Oct. 11, 2018, 132 Stat. 3760, and Pub. L. 115–393, title II, § 202(e)(2), Dec. 21, 2018, 132 Stat. 5271; amended Pub. L. 118–65, § 2(c), June 17, 2024, 138 Stat. 1442.)
+(Pub. L. 93–415, title IV, § 407, as added Pub. L. 115–267, § 2(e)(2), Oct. 11, 2018, 132 Stat. 3760, and Pub. L. 115–393, title II, § 202(e)(2), Dec. 21, 2018, 132 Stat. 5271; amended Pub. L. 118–65, § 2(c), June 17, 2024, 138 Stat. 1442.)
 
 **Editorial Notes**
 
@@ -5561,13 +5561,13 @@ Pub. L. 115–267 and Pub. L. 115–393 enacted identical sections.
 
 A prior section 407 of Pub. L. 93–415 was renumbered section 408 and is classified to section 11296 of this title.
 
-Another prior section 407 of title IV of Pub. L. 93–415, as added Pub. L. 103–322, title XVII, § 170303(2), Sept. 13, 1994, 108 Stat. 2043, established the Missing and Exploited Children’s Task Force, prior to repeal by Pub. L. 110–240, § 5(1), June 3, 2008, 122 Stat. 1564.
+Another prior section 407 of title IV of Pub. L. 93–415, as added Pub. L. 103–322, title XVII, § 170303(2), Sept. 13, 1994, 108 Stat. 2043, established the Missing and Exploited Children’s Task Force, prior to repeal by Pub. L. 110–240, § 5(1), June 3, 2008, 122 Stat. 1564.
 
 **Amendments**
 
-2024—Subsec. (a)(5) to (7). Pub. L. 118–65, § 2(c)(1), added pars. (5) to (7).
+2024—Subsec. (a)(5) to (7). Pub. L. 118–65, § 2(c)(1), added pars. (5) to (7).
 
-Subsec. (c). Pub. L. 118–65, § 2(c)(2), added subsec. (c).
+Subsec. (c). Pub. L. 118–65, § 2(c)(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5575,7 +5575,7 @@ Subsec. (c). Pub. L. 118–65, § 2(c)(2), added subsec. (c).
 
 Section effective Oct. 11, 2018, and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as an Effective Date of 2018 Amendment note under section 11291 of this title.
 
-### § 11296. Oversight and accountability
+### § 11296. Oversight and accountability
 
 All grants awarded by the Department of Justice that are authorized under this subchapter shall be subject to the following:
 
@@ -5643,13 +5643,13 @@ The Deputy Attorney General shall submit an annual report to the Committee on th
 
 For purposes of this paragraph, submitting an application for a grant under this subchapter shall not be considered lobbying activity in violation of subparagraph (A).
 
-(Pub. L. 93–415, title IV, § 408, formerly § 407, as added Pub. L. 113–38, § 4, Sept. 30, 2013, 127 Stat. 529; renumbered § 408, Pub. L. 115–267, § 2(e)(1), Oct. 11, 2018, 132 Stat. 3760, and Pub. L. 115–393, title II, § 202(e)(1), Dec. 21, 2018, 132 Stat. 5271; amended Pub. L. 115–267, § 3(b), Oct. 11, 2018, 132 Stat. 3760.)
+(Pub. L. 93–415, title IV, § 408, formerly § 407, as added Pub. L. 113–38, § 4, Sept. 30, 2013, 127 Stat. 529; renumbered § 408, Pub. L. 115–267, § 2(e)(1), Oct. 11, 2018, 132 Stat. 3760, and Pub. L. 115–393, title II, § 202(e)(1), Dec. 21, 2018, 132 Stat. 5271; amended Pub. L. 115–267, § 3(b), Oct. 11, 2018, 132 Stat. 3760.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 115–267, § 2(e)(1), and Pub. L. 115–393, § 202(e)(1), identically renumbered section 407 of Pub. L. 93–415 as section 408.
+Pub. L. 115–267, § 2(e)(1), and Pub. L. 115–393, § 202(e)(1), identically renumbered section 407 of Pub. L. 93–415 as section 408.
 
 Section was formerly classified to section 5776a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
@@ -5659,7 +5659,7 @@ A prior section 408 of Pub. L. 93–415 was renumbered section 409 and is classi
 
 **Amendments**
 
-2018—Par. (1). Pub. L. 115–267, § 3(b), substituted “2023” for “2018”.
+2018—Par. (1). Pub. L. 115–267, § 3(b), substituted “2023” for “2018”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5667,7 +5667,7 @@ A prior section 408 of Pub. L. 93–415 was renumbered section 409 and is classi
 
 Amendment by Pub. L. 115–267 effective Oct. 11, 2018, with amendment by section 2 of Pub. L. 115–267 applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under section 11291 of this title.
 
-### § 11297. Authorization of appropriations
+### § 11297. Authorization of appropriations
 
 **(a) In general**
 
@@ -5677,13 +5677,13 @@ To carry out the provisions of this subchapter, there are authorized to be appro
 
 The Administrator may use not more than 5 percent of the amount appropriated for a fiscal year under subsection (a) to conduct an evaluation of the effectiveness of the programs and activities established and operated under this subchapter.
 
-(Pub. L. 93–415, title IV, § 409, formerly § 408, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2129; renumbered § 407 and amended Pub. L. 100–690, title VII, §§ 7289, 7290(a), Nov. 18, 1988, 102 Stat. 4461; Pub. L. 101–204, title X, § 1001(e)(3), Dec. 7, 1989, 103 Stat. 1827; Pub. L. 102–586, § 4, Nov. 4, 1992, 106 Stat. 5027; renumbered § 408, Pub. L. 103–322, title XVII, § 170303(1), Sept. 13, 1994, 108 Stat. 2043; Pub. L. 104–235, title II, § 231(a), Oct. 3, 1996, 110 Stat. 3092; Pub. L. 106–71, § 2(e), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–21, title III, § 321(a), Apr. 30, 2003, 117 Stat. 664; Pub. L. 108–96, title II, § 202(b), Oct. 10, 2003, 117 Stat. 1172; renumbered § 407 and amended Pub. L. 110–240, §§ 4, 5(2), June 3, 2008, 122 Stat. 1563, 1564; renumbered § 408 and amended Pub. L. 113–38, § 3, Sept. 30, 2013, 127 Stat. 528; renumbered § 409, Pub. L. 115–267, § 2(e)(1), Oct. 11, 2018, 132 Stat. 3760, and Pub. L. 115–393, title II, § 202(e)(1), Dec. 21, 2018, 132 Stat. 5271; Pub. L. 115–267, § 3(a), Oct. 11, 2018, 132 Stat. 3760; Pub. L. 118–65, § 2(d), June 17, 2024, 138 Stat. 1442.)
+(Pub. L. 93–415, title IV, § 409, formerly § 408, as added Pub. L. 98–473, title II, § 660, Oct. 12, 1984, 98 Stat. 2129; renumbered § 407 and amended Pub. L. 100–690, title VII, §§ 7289, 7290(a), Nov. 18, 1988, 102 Stat. 4461; Pub. L. 101–204, title X, § 1001(e)(3), Dec. 7, 1989, 103 Stat. 1827; Pub. L. 102–586, § 4, Nov. 4, 1992, 106 Stat. 5027; renumbered § 408, Pub. L. 103–322, title XVII, § 170303(1), Sept. 13, 1994, 108 Stat. 2043; Pub. L. 104–235, title II, § 231(a), Oct. 3, 1996, 110 Stat. 3092; Pub. L. 106–71, § 2(e), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–21, title III, § 321(a), Apr. 30, 2003, 117 Stat. 664; Pub. L. 108–96, title II, § 202(b), Oct. 10, 2003, 117 Stat. 1172; renumbered § 407 and amended Pub. L. 110–240, §§ 4, 5(2), June 3, 2008, 122 Stat. 1563, 1564; renumbered § 408 and amended Pub. L. 113–38, § 3, Sept. 30, 2013, 127 Stat. 528; renumbered § 409, Pub. L. 115–267, § 2(e)(1), Oct. 11, 2018, 132 Stat. 3760, and Pub. L. 115–393, title II, § 202(e)(1), Dec. 21, 2018, 132 Stat. 5271; Pub. L. 115–267, § 3(a), Oct. 11, 2018, 132 Stat. 3760; Pub. L. 118–65, § 2(d), June 17, 2024, 138 Stat. 1442.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 115–267, § 2(e)(1), and Pub. L. 115–393, § 202(e)(1), identically renumbered section 408 of Pub. L. 93–415 as section 409.
+Pub. L. 115–267, § 2(e)(1), and Pub. L. 115–393, § 202(e)(1), identically renumbered section 408 of Pub. L. 93–415 as section 409.
 
 Section was formerly classified to section 5777 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
@@ -5691,11 +5691,11 @@ Section was formerly classified to section 5777 of Title 42, The Public Health a
 
 2024—Subsec. (a). Pub. L. 118–65 substituted “$49,300,000 for each of fiscal years 2024 through 2028, up to $41,500,000” for “$40,000,000 for each of the fiscal years 2014 through 2023, up to $32,200,000”.
 
-2018—Subsec. (a). Pub. L. 115–267, § 3(a), substituted “2023” for “2018”.
+2018—Subsec. (a). Pub. L. 115–267, § 3(a), substituted “2023” for “2018”.
 
-2013—Subsec. (a). Pub. L. 113–38, § 3(1), substituted “$40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out section 5773(b) of this title for each such fiscal year.” for “such sums as may be necessary for fiscal years 2008 through 2013.”
+2013—Subsec. (a). Pub. L. 113–38, § 3(1), substituted “$40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out section 5773(b) of this title for each such fiscal year.” for “such sums as may be necessary for fiscal years 2008 through 2013.”
 
-2008—Subsec. (a). Pub. L. 110–240, § 4, which directed substitution of “2008 through 2013” for “2007 through 2008”, was executed by making the substitution for “2004 through 2008”, to reflect the probable intent of Congress.
+2008—Subsec. (a). Pub. L. 110–240, § 4, which directed substitution of “2008 through 2013” for “2007 through 2008”, was executed by making the substitution for “2004 through 2008”, to reflect the probable intent of Congress.
 
 2003—Subsec. (a). Pub. L. 108–96 substituted “2008” for “2005.”
 
@@ -5707,9 +5707,9 @@ Pub. L. 108–21 substituted “fiscal years 2004 through 2005.” for “fiscal
 
 1992—Pub. L. 102–586 substituted “fiscal years 1993, 1994, 1995, and 1996” for “fiscal years 1989, 1990, 1991, and 1992”.
 
-1989—Pub. L. 101–204 amended directory language of Pub. L. 100–690, § 7289(3), see 1988 Amendment note below.
+1989—Pub. L. 101–204 amended directory language of Pub. L. 100–690, § 7289(3), see 1988 Amendment note below.
 
-1988—Pub. L. 100–690, § 7289, as amended by Pub. L. 101–204, struck out “$10,000,000 for fiscal year 1985, and” after “appropriated” and “1986, 1987, and 1988” after “fiscal years” and inserted “1989, 1990, 1991, and 1992”.
+1988—Pub. L. 100–690, § 7289, as amended by Pub. L. 101–204, struck out “$10,000,000 for fiscal year 1985, and” after “appropriated” and “1986, 1987, and 1988” after “fiscal years” and inserted “1989, 1990, 1991, and 1992”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5721,7 +5721,7 @@ Amendment by Pub. L. 115–267 effective Oct. 11, 2018, with amendment by sectio
 
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under section 11101 of this title.
 
-### § 11298. Authority of Inspectors General
+### § 11298. Authority of Inspectors General
 
 **(a) In general** An Inspector General appointed under section 403 or 415 of title 5 may authorize staff to assist the National Center for Missing and Exploited Children—
 
@@ -5739,7 +5739,7 @@ An Inspector General may not permit staff to engage in activities described in s
 
 No additional funds are authorized to be appropriated to carry out this section.
 
-(Pub. L. 101–647, title XXXVII, § 3703, as added Pub. L. 110–344, § 9, Oct. 7, 2008, 122 Stat. 3936; amended Pub. L. 117–286, § 4(b)(59), Dec. 27, 2022, 136 Stat. 4349.)
+(Pub. L. 101–647, title XXXVII, § 3703, as added Pub. L. 110–344, § 9, Oct. 7, 2008, 122 Stat. 3936; amended Pub. L. 117–286, § 4(b)(59), Dec. 27, 2022, 136 Stat. 4349.)
 
 **Editorial Notes**
 
@@ -5751,9 +5751,9 @@ Section was enacted as part of the Crime Control Act of 1990, and not as part of
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–286, § 4(b)(59)(A), substituted “section 403 or 415 of title 5” for “section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.)” in introductory provisions.
+2022—Subsec. (a). Pub. L. 117–286, § 4(b)(59)(A), substituted “section 403 or 415 of title 5” for “section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.)” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 117–286, § 4(b)(59)(B), substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (5 U.S.C. App.).”
+Subsec. (b)(1). Pub. L. 117–286, § 4(b)(59)(B), substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (5 U.S.C. App.).”
 
 ## SUBCHAPTER V—INCENTIVE GRANTS FOR LOCAL DELINQUENCY PREVENTION PROGRAMS
 
@@ -5761,11 +5761,11 @@ Subsec. (b)(1). Pub. L. 117–286, § 4(b)(59)(B), substituted “chapter 4 of
 
 **Codification**
 
-Title V of the Juvenile Justice and Delinquency Prevention Act of 1974, comprising this subchapter, was originally added to Pub. L. 93–415 by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, and amended by Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681. Title V is shown herein, however, as having been added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, without reference to the intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 107–273.
+Title V of the Juvenile Justice and Delinquency Prevention Act of 1974, comprising this subchapter, was originally added to Pub. L. 93–415 by Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, and amended by Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681. Title V is shown herein, however, as having been added by Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894, without reference to the intervening amendments because of the extensive revision of the title’s provisions by Pub. L. 107–273.
 
-Another title V of the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1133, enacted chapter 319 and sections 5038 to 5042 of Title 18, Crimes and Criminal Procedure, and former sections 3772 to 3774 of Title 42, The Public Health and Welfare, and amended sections 5031 to 5038 of Title 18, former sections 3701 and 3768 of Title 42, and sections 10123 and 10133 of this title, prior to repeal by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152. For complete classification of that title V to the Code, see Tables.
+Another title V of the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1133, enacted chapter 319 and sections 5038 to 5042 of Title 18, Crimes and Criminal Procedure, and former sections 3772 to 3774 of Title 42, The Public Health and Welfare, and amended sections 5031 to 5038 of Title 18, former sections 3701 and 3768 of Title 42, and sections 10123 and 10133 of this title, prior to repeal by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152. For complete classification of that title V to the Code, see Tables.
 
-### § 11311. Definitions
+### § 11311. Definitions
 
 In this subchapter—
 
@@ -5841,9 +5841,9 @@ In this subchapter—
 
 **(4)** the term “local policy board”, when used with respect to an eligible entity, means a policy board that the eligible entity will engage in the development of the eligible entity’s plan described in section 11313(e)(5) of this title, and that includes—
 
-**(A)** not fewer than 15 and not more than 21 members; and 1
+**(A)** not fewer than 15 and not more than 21 members; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 **(B)** a balanced representation of—
 
@@ -5861,7 +5861,7 @@ In this subchapter—
 
 **(7)** the term “State entity” means the State agency designated under section 11133(a)(1) of this title or the entity receiving funds under section 11133(d) of this title.
 
-(Pub. L. 93–415, title V, § 502, as added Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894; amended Pub. L. 115–385, title III, § 302, Dec. 21, 2018, 132 Stat. 5145.)
+(Pub. L. 93–415, title V, § 502, as added Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894; amended Pub. L. 115–385, title III, § 302, Dec. 21, 2018, 132 Stat. 5145.)
 
 **Editorial Notes**
 
@@ -5871,9 +5871,9 @@ Section was formerly classified to section 5781 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 502 of title V of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, related to findings, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
+A prior section 502 of title V of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, related to findings, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
 
-Another prior section 502 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1134, amended section 5032 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Another prior section 502 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1134, amended section 5032 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 **Amendments**
 
@@ -5887,7 +5887,7 @@ Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated
 
 **Effective Date**
 
-Pub. L. 107–273, div. C, title II, § 12222(b), Nov. 2, 2002, 116 Stat. 1896, as amended by Pub. L. 108–7, div. B, title I, § 110(1), Feb. 20, 2003, 117 Stat. 67, provided that: “The amendment made by subsection (a) [see Tables for classification] shall take effect on the effective date provided in section 12102(b) [set out as a note under section 10401 of this title], and shall not apply with respect to grants made before such date.”
+Pub. L. 107–273, div. C, title II, § 12222(b), Nov. 2, 2002, 116 Stat. 1896, as amended by Pub. L. 108–7, div. B, title I, § 110(1), Feb. 20, 2003, 117 Stat. 67, provided that: “The amendment made by subsection (a) [see Tables for classification] shall take effect on the effective date provided in section 12102(b) [set out as a note under section 10401 of this title], and shall not apply with respect to grants made before such date.”
 
 **Short Title**
 
@@ -5895,9 +5895,9 @@ For short title of title V of Pub. L. 93–415, which is classified to this subc
 
 **GAO Studies and Reports**
 
-Pub. L. 102–586, § 5(b), Nov. 4, 1992, 106 Stat. 5029, as amended by Pub. L. 104–316, title I, § 122(n), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that: “Under such conditions as the Comptroller General of the United States determines appropriate, the Government Accountability Office may conduct studies and report to Congress on the effects of the program established by subsection (a) [enacting former title V of Pub. L. 93–415, former 42 U.S.C. 5781–5785] in encouraging States and units of general local government to comply with the requirements of part B of title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5631–5633) [now 34 U.S.C. 11131–11133].”
+Pub. L. 102–586, § 5(b), Nov. 4, 1992, 106 Stat. 5029, as amended by Pub. L. 104–316, title I, § 122(n), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that: “Under such conditions as the Comptroller General of the United States determines appropriate, the Government Accountability Office may conduct studies and report to Congress on the effects of the program established by subsection (a) [enacting former title V of Pub. L. 93–415, former 42 U.S.C. 5781–5785] in encouraging States and units of general local government to comply with the requirements of part B of title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5631–5633) [now 34 U.S.C. 11131–11133].”
 
-### § 11312. Duties and functions of the Administrator
+### § 11312. Duties and functions of the Administrator
 
 The Administrator shall—
 
@@ -5915,7 +5915,7 @@ The Administrator shall—
 
 **(D)** identifying successful approaches and making recommendations for future activities to be conducted under this subchapter.
 
-(Pub. L. 93–415, title V, § 503, as added Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894; amended Pub. L. 115–385, title III, § 303, Dec. 21, 2018, 132 Stat. 5147.)
+(Pub. L. 93–415, title V, § 503, as added Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1894; amended Pub. L. 115–385, title III, § 303, Dec. 21, 2018, 132 Stat. 5147.)
 
 **Editorial Notes**
 
@@ -5925,9 +5925,9 @@ Section was formerly classified to section 5782 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 503 of title V of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, defined “State advisory group”, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
+A prior section 503 of title V of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, defined “State advisory group”, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
 
-Another prior section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5033 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Another prior section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5033 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 **Amendments**
 
@@ -5939,7 +5939,7 @@ Another prior section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 
 
 Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under section 11102 of this title.
 
-### § 11313. Grants for local delinquency prevention programs
+### § 11313. Grants for local delinquency prevention programs
 
 **(a) Purpose**
 
@@ -5949,7 +5949,7 @@ The purpose of this section is to enable local communities to address the unmet 
 
 **(1)** for each fiscal year for which less than $25,000,000 is appropriated under section 506,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 award grants to not fewer than 3 State entities, but not more than 5 State entities, that apply under subsection (c) and meet the requirements of subsection (d); or
 
@@ -6009,9 +6009,9 @@ Each State entity receiving a grant under this section shall award subgrants to 
 
 **(I)** may use not more than 18 months for completing the plan submitted by the eligible entity under paragraph (5); and
 
-**(II)** shall use the remainder of the subgrant period, after planning 2
+**(II)** shall use the remainder of the subgrant period, after planning 2
 
-<sup>2</sup>  So in original. Probably should be preceded by “the”.
+<sup>2</sup> So in original. Probably should be preceded by “the”.
 
 period described in subclause (I), for the implementation of such plan.
 
@@ -6027,9 +6027,9 @@ In awarding subgrants under this subsection, a State entity shall ensure, to the
 
 **(ii)** the unmet needs of at-risk or delinquent youth in the community;
 
-**(iii)** available resources in the community to meet the unmet needs identified in the needs assessment described in paragraph (5)(A); 3
+**(iii)** available resources in the community to meet the unmet needs identified in the needs assessment described in paragraph (5)(A); 3
 
-<sup>3</sup>  So in original. Probably should be followed by “and”.
+<sup>3</sup> So in original. Probably should be followed by “and”.
 
 **(iv)** potential costs to the community if the unmet needs are not addressed;
 
@@ -6081,7 +6081,7 @@ If the State entity finds through the review conducted under subparagraph (A) th
 
 **(F)** if such delinquency prevention programs are proven successful according to the performance evaluation process under subparagraph (D), a strategy to continue such programs after the subgrant period with non-Federal funds, including a description of how any estimated savings or efficiencies created by the implementation of the plan may be used to continue such programs.
 
-(Pub. L. 93–415, title V, § 504, as added Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1895; amended Pub. L. 111–211, title II, § 246(a), July 29, 2010, 124 Stat. 2295; Pub. L. 115–385, title III, § 304, Dec. 21, 2018, 132 Stat. 5147.)
+(Pub. L. 93–415, title V, § 504, as added Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1895; amended Pub. L. 111–211, title II, § 246(a), July 29, 2010, 124 Stat. 2295; Pub. L. 115–385, title III, § 304, Dec. 21, 2018, 132 Stat. 5147.)
 
 **Editorial Notes**
 
@@ -6095,17 +6095,17 @@ Section was formerly classified to section 5783 of Title 42, The Public Health a
 
 **Prior Provisions**
 
-A prior section 504 of title V of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, set out the duties and functions of the Administrator, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
+A prior section 504 of title V of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5027, set out the duties and functions of the Administrator, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
 
-Another prior section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
+Another prior section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
 
 **Amendments**
 
 2018—Pub. L. 115–385 amended section generally. Prior to amendment, section provided for grants to States and Indian tribes for delinquency prevention programs.
 
-2010—Subsec. (a). Pub. L. 111–211, § 246(a)(1), inserted “, or to federally recognized Indian tribe or consortia of federally recognized Indian tribes under subsection (d)” after “subsection (b)” in introductory provisions.
+2010—Subsec. (a). Pub. L. 111–211, § 246(a)(1), inserted “, or to federally recognized Indian tribe or consortia of federally recognized Indian tribes under subsection (d)” after “subsection (b)” in introductory provisions.
 
-Subsec. (d). Pub. L. 111–211, § 246(a)(2), added subsec. (d).
+Subsec. (d). Pub. L. 111–211, § 246(a)(2), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6115,7 +6115,7 @@ Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated
 
 **Youth Violence Reduction Demonstration Projects**
 
-Pub. L. 109–162, title XI, § 1199, Jan. 5, 2006, 119 Stat. 3132, provided that:
+Pub. L. 109–162, title XI, § 1199, Jan. 5, 2006, 119 Stat. 3132, provided that:
 
 > **“(a) Establishment of Youth Violence Reduction Demonstration Projects.—**
 
@@ -6223,7 +6223,7 @@ Pub. L. 109–162, title XI, § 1199, Jan. 5, 2006, 119 Stat. 3132, provided t
 
 **National Police Athletic/Activities League Youth Enrichment**
 
-Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–248, title VI, §§ 612–617, July 27, 2006, 120 Stat. 632, 633, provided that:
+Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–248, title VI, §§ 612–617, July 27, 2006, 120 Stat. 632, 633, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -6281,7 +6281,7 @@ Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–24
 
 > **“(1) Assistant attorney general.—** The term ‘Assistant Attorney General’ means the Assistant Attorney General for the Office of Justice Programs of the Department of Justice.
 
-> **“(2) Distressed area.—** The term ‘distressed area’ means an urban, suburban, or rural area with a high percentage of high-risk youth, as defined in section 509A of the Public Health Service Act (42 U.S.C. 290aa–8(f)) [transferred to 42 U.S.C. 290bb–23(g) and repealed by Pub. L. 114–255, div. B, title IX, § 9017, Dec. 13, 2016, 130 Stat. 1248].
+> **“(2) Distressed area.—** The term ‘distressed area’ means an urban, suburban, or rural area with a high percentage of high-risk youth, as defined in section 509A of the Public Health Service Act (42 U.S.C. 290aa–8(f)) [transferred to 42 U.S.C. 290bb–23(g) and repealed by Pub. L. 114–255, div. B, title IX, § 9017, Dec. 13, 2016, 130 Stat. 1248].
 
 > **“(3) PAL chapter.—** The term ‘PAL chapter’ means a chapter of a Police or Sheriff’s Athletic/Activities League.
 
@@ -6371,11 +6371,11 @@ Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–24
 
 > **“(3)** not less than 1 percent shall be used for the management and administration of the grant program under this Act, except that the total amount made available under this paragraph for administration of that program shall not exceed 6 percent.”
 
-[Pub. L. 109–248, title VI, § 612(3)(B), July 27, 2006, 120 Stat. 632, which directed amendment of section 2(3) of Pub. L. 106–367, set out above, by substituting “2,000,000 youth” for “1,500,000 youth”, was executed by making the substitution for “1,500,000 youths”, to reflect the probable intent of Congress.]
+[Pub. L. 109–248, title VI, § 612(3)(B), July 27, 2006, 120 Stat. 632, which directed amendment of section 2(3) of Pub. L. 106–367, set out above, by substituting “2,000,000 youth” for “1,500,000 youth”, was executed by making the substitution for “1,500,000 youths”, to reflect the probable intent of Congress.]
 
 **Kids 2000 Crime Prevention and Computer Education Initiative**
 
-Pub. L. 106–313, title I, § 112, Oct. 17, 2000, 114 Stat. 1260, provided that:
+Pub. L. 106–313, title I, § 112, Oct. 17, 2000, 114 Stat. 1260, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘Kids 2000 Act’.
 
@@ -6447,7 +6447,7 @@ Pub. L. 106–313, title I, § 112, Oct. 17, 2000, 114 Stat. 1260, provided th
 
 > **“(3) Continued availability.—** Amounts made available under this subsection shall remain available until expended.”
 
-### § 11314. Grants for tribal delinquency prevention and response programs
+### § 11314. Grants for tribal delinquency prevention and response programs
 
 **(a) In general** The Administrator shall make grants under this section, on a competitive basis, to eligible Indian Tribes (or consortia of Indian Tribes) as described in subsection (b)—
 
@@ -6475,17 +6475,17 @@ To be eligible to receive a grant under this section, an Indian Tribe or consort
 
 Of the amount available for a fiscal year to carry out this subchapter, 11 percent shall be available to carry out this section.
 
-(Pub. L. 93–415, title V, § 505, as added Pub. L. 115–385, title III, § 305, Dec. 21, 2018, 132 Stat. 5150.)
+(Pub. L. 93–415, title V, § 505, as added Pub. L. 115–385, title III, § 305, Dec. 21, 2018, 132 Stat. 5150.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 505 of Pub. L. 93–415, as added Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1896, which authorized appropriations for fiscal years 2004 to 2008, was renumbered section 506 and was classified to section 5784 of Title 42, The Public Health and Welfare, prior to omission from the Code and its subsequent repeal by Pub. L. 115–385, title IV, § 402(c)(2), Dec. 21, 2018, 132 Stat. 5160.
+A prior section 505 of Pub. L. 93–415, as added Pub. L. 107–273, div. C, title II, § 12222(a), Nov. 2, 2002, 116 Stat. 1896, which authorized appropriations for fiscal years 2004 to 2008, was renumbered section 506 and was classified to section 5784 of Title 42, The Public Health and Welfare, prior to omission from the Code and its subsequent repeal by Pub. L. 115–385, title IV, § 402(c)(2), Dec. 21, 2018, 132 Stat. 5160.
 
-Another prior section 505 of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5028; amended Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(F)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76, related to grants for prevention programs, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
+Another prior section 505 of Pub. L. 93–415, as added Pub. L. 102–586, § 5(a), Nov. 4, 1992, 106 Stat. 5028; amended Pub. L. 105–277, div. A, § 101(b) [title I, § 129(a)(2)(F)], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76, related to grants for prevention programs, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
 
-Another prior section 505 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5035 of Title 18, Crimes and Criminal Procedure, and was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
+Another prior section 505 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5035 of Title 18, Crimes and Criminal Procedure, and was repealed by Pub. L. 115–385, title III, § 307, Dec. 21, 2018, 132 Stat. 5152.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6495,11 +6495,11 @@ Section not applicable with respect to funds appropriated for any fiscal year th
 
 ## SUBCHAPTER VI—AUTHORIZATION OF APPROPRIATIONS; ACCOUNTABILITY AND OVERSIGHT
 
-### § 11321. Authorization of appropriations
+### § 11321. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter, except for subchapters III and IV, $176,000,000 for each of fiscal years 2019 through 2023, of which not more than $96,053,401 shall be used to carry out subchapter V for each such fiscal year.
 
-(Pub. L. 93–415, title VI, § 601, as added Pub. L. 115–385, title IV, § 402(a), Dec. 21, 2018, 132 Stat. 5154.)
+(Pub. L. 93–415, title VI, § 601, as added Pub. L. 115–385, title IV, § 402(a), Dec. 21, 2018, 132 Stat. 5154.)
 
 **Editorial Notes**
 
@@ -6513,15 +6513,15 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as an Effective Date of 2018 Amendment note under section 11102 of this title.
 
-### § 11322. Accountability and oversight
+### § 11322. Accountability and oversight
 
 **(a) Sense of Congress** It is the sense of Congress that, in order to ensure that at-risk youth, and youth who come into contact with the juvenile justice system or the criminal justice system, are treated fairly and that the outcome of that contact is beneficial to the Nation—
 
 **(1)** the Department of Justice, through its Office of Juvenile Justice and Delinquency Prevention, must restore meaningful enforcement of the core requirements in subchapter II; and
 
-**(2)** States, which are entrusted with a fiscal stewardship role if they accept funds under subchapter II 1
+**(2)** States, which are entrusted with a fiscal stewardship role if they accept funds under subchapter II 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 must exercise vigilant oversight to ensure full compliance with the core requirements for juveniles provided for in subchapter II.
 
@@ -6571,9 +6571,9 @@ must exercise vigilant oversight to ensure full compliance with the core require
 
 **(I)** submit to the Congress a report outlining the results of the analysis, evaluation, and audit conducted under clause (i), including supporting materials, to the Speaker of the House of Representatives and the President pro tempore of the Senate; and
 
-**(II)** shall 2
+**(II)** shall 2
 
-<sup>2</sup>  So in original. The word “shall” probably should not appear.
+<sup>2</sup> So in original. The word “shall” probably should not appear.
 
 make such report available to the public online, not later than 1 year after December 21, 2018.
 
@@ -6707,7 +6707,7 @@ For purposes of this paragraph, submitting an application for a grant under this
 
 Before the Attorney General awards a grant to an applicant under this chapter, the Attorney General shall compare potential grant awards with other grants awarded under this chapter to determine if duplicate grant awards are awarded for the same purpose.
 
-**(2) Report** If the Attorney General awards duplicate grants to the same applicant for the same purpose <sup>1</sup> the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on Education and the Workforce of the House of Representatives a report that includes—
+**(2) Report** If the Attorney General awards duplicate grants to the same applicant for the same purpose <sup>1</sup> the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on Education and the Workforce of the House of Representatives a report that includes—
 
 **(A)** a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
 
@@ -6717,7 +6717,7 @@ Before the Attorney General awards a grant to an applicant under this chapter, t
 
 The Administrator shall comply with the Generally Accepted Government Auditing Standards, published by the General Accountability Office (commonly known as the “Yellow Book”), in the conduct of fiscal, compliance, and programmatic audits of States.
 
-(Pub. L. 93–415, title VI, § 602, as added Pub. L. 115–385, title IV, § 402(a), Dec. 21, 2018, 132 Stat. 5154.)
+(Pub. L. 93–415, title VI, § 602, as added Pub. L. 115–385, title IV, § 402(a), Dec. 21, 2018, 132 Stat. 5154.)
 
 **Editorial Notes**
 

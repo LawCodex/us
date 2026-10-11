@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 3B—SOIL CONSERVATION
 
-## § 590a. Purpose
+## § 590a. Purpose
 
 It is recognized that the wastage of soil and moisture resources on farm, grazing, and forest lands of the Nation, resulting from soil erosion, is a menace to the national welfare and that it is declared to be the policy of Congress to provide permanently for the control and prevention of soil erosion to preserve soil, water, and related resources, promote soil and water quality, control floods, prevent impairment of reservoirs, and maintain the navigability of rivers and harbors, protect public health, public lands and relieve unemployment, and the Secretary of Agriculture, from now on, shall coordinate and direct all activities with relation to soil erosion and in order to effectuate this policy is authorized, from time to time—
 
@@ -27,7 +27,7 @@ It is recognized that the wastage of soil and moisture resources on farm, grazin
 
 **(4)** To acquire lands, or rights or interests therein, by purchase, gift, condemnation, or otherwise, whenever necessary for the purposes of this chapter.
 
-(Apr. 27, 1935, ch. 85, § 1, 49 Stat. 163; Pub. L. 110–234, title II, § 2802(a)(1), May 22, 2008, 122 Stat. 1085; Pub. L. 110–246, § 4(a), title II, § 2802(a)(1), June 18, 2008, 122 Stat. 1664, 1813.)
+(Apr. 27, 1935, ch. 85, § 1, 49 Stat. 163; Pub. L. 110–234, title II, § 2802(a)(1), May 22, 2008, 122 Stat. 1085; Pub. L. 110–246, § 4(a), title II, § 2802(a)(1), June 18, 2008, 122 Stat. 1664, 1813.)
 
 **Editorial Notes**
 
@@ -37,7 +37,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 2802(a)(1), inserted section catchline and substituted “to preserve soil, water, and related resources, promote soil and water quality,” for “and thereby to preserve natural resources,” in introductory provisions.
+2008—Pub. L. 110–246, § 2802(a)(1), inserted section catchline and substituted “to preserve soil, water, and related resources, promote soil and water quality,” for “and thereby to preserve natural resources,” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -57,13 +57,13 @@ Declaration of policy to continue the Soil Conservation and Domestic Allotment A
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-Functions of Soil Conservation Service in Department of Agriculture with respect to soil and moisture conservation operations conducted on lands under jurisdiction of Department of the Interior transferred to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior through such agency or agencies in Department of the Interior as Secretary shall designate, by Reorg. Plan No. IV of 1940, § 6, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Soil Conservation Service in Department of Agriculture with respect to soil and moisture conservation operations conducted on lands under jurisdiction of Department of the Interior transferred to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior through such agency or agencies in Department of the Interior as Secretary shall designate, by Reorg. Plan No. IV of 1940, § 6, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Soil Conservation Service consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of World War II, see Ex. Ord. No. 9069, Feb. 23, 1942.
 
-## § 590b. Lands on which preventive measures may be taken
+## § 590b. Lands on which preventive measures may be taken
 
 The acts authorized in section 590a(1) and (2) of this title may be performed—
 
@@ -71,9 +71,9 @@ The acts authorized in section 590a(1) and (2) of this title may be performed—
 
 **(b)** On any other lands, upon obtaining proper consent or the necessary rights or interests in such lands.
 
-(Apr. 27, 1935, ch. 85, § 2, 49 Stat. 163.)
+(Apr. 27, 1935, ch. 85, § 2, 49 Stat. 163.)
 
-## § 590c. Conditions under which benefits of law extended to nongovernment controlled lands
+## § 590c. Conditions under which benefits of law extended to nongovernment controlled lands
 
 As a condition to the extending of any benefits under this chapter to any lands not owned or controlled by the United States or any of its agencies, the Secretary of Agriculture may, insofar as he may deem necessary for the purposes of this chapter, require the following:
 
@@ -107,29 +107,29 @@ As a condition to the extending of any benefits under this chapter to any lands 
 
 **(v)** to comply with Federal, State, or local regulatory requirements.
 
-(Apr. 27, 1935, ch. 85, § 3, 49 Stat. 163; Pub. L. 113–67, div. A, title VII, § 705(a), Dec. 26, 2013, 127 Stat. 1192.)
+(Apr. 27, 1935, ch. 85, § 3, 49 Stat. 163; Pub. L. 113–67, div. A, title VII, § 705(a), Dec. 26, 2013, 127 Stat. 1192.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Pub. L. 113–67, § 705(a)(1), substituted “require the following:” for “require—” in introductory provisions.
+2013—Pub. L. 113–67, § 705(a)(1), substituted “require the following:” for “require—” in introductory provisions.
 
-Par. (1). Pub. L. 113–67, § 705(a)(2), substituted period for semicolon at end.
+Par. (1). Pub. L. 113–67, § 705(a)(2), substituted period for semicolon at end.
 
-Par. (2). Pub. L. 113–67, § 705(a)(3), substituted period at end for “; and”.
+Par. (2). Pub. L. 113–67, § 705(a)(3), substituted period at end for “; and”.
 
-Par. (4). Pub. L. 113–67, § 705(a)(4), added par. (4).
+Par. (4). Pub. L. 113–67, § 705(a)(4), added par. (4).
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-## § 590d. Cooperation of governmental agencies; officers and employees, appointment and compensation; expenditures for personal services and supplies
+## § 590d. Cooperation of governmental agencies; officers and employees, appointment and compensation; expenditures for personal services and supplies
 
 For the purposes of this chapter, the Secretary of Agriculture may—
 
@@ -139,19 +139,19 @@ For the purposes of this chapter, the Secretary of Agriculture may—
 
 **(3)** Make expenditures for personal services and rent in the District of Columbia and elsewhere, for the purchase of law books and books of reference, for printing and binding, for the purchase, operation, and maintenance of passenger-carrying vehicles, and perform such acts, and prescribe such regulations, as he may deem proper to carry out the provisions of this chapter.
 
-(Apr. 27, 1935, ch. 85, § 4, 49 Stat. 164; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784.)
+(Apr. 27, 1935, ch. 85, § 4, 49 Stat. 164; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Industrial Recovery Act, referred to in par. (2), is act June 16, 1933, ch. 90, 48 Stat. 195, which was classified generally to subchapter I (§ 401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943, by act June 27, 1942, ch. 450, § 1, 56 Stat. 410. Provisions of the Act that were classified to former Title 40 were repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. For complete classification of this Act to the Code, see Tables.
+The National Industrial Recovery Act, referred to in par. (2), is act June 16, 1933, ch. 90, 48 Stat. 195, which was classified generally to subchapter I (§ 401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943, by act June 27, 1942, ch. 450, § 1, 56 Stat. 410. Provisions of the Act that were classified to former Title 40 were repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. For complete classification of this Act to the Code, see Tables.
 
 The Classification Act, referred to in par. (2), is the Classification Act of 1923 (approved Mar. 4, 1923, ch. 265, 42 Stat. 1488), which was repealed by section 1202 of the Classification Act of 1949 (approved Oct. 28, 1949, ch. 782, 63 Stat. 972).
 
 **Codification**
 
-In par. (2), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In par. (2), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -161,23 +161,23 @@ In par. (2), “chapter 51 and subchapter III of chapter 53 of title 5” substi
 
 **Repeals**
 
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” and “Commission” in par. (2), pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” and “Commission” in par. (2), pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in the United States Civil Service Commission to the Director of the Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 Transfer of functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-## § 590e. Repealed. Pub. L. 103–354, title II, § 246(f)(1), Oct. 13, 1994, 108 Stat. 3225
+## § 590e. Repealed. Pub. L. 103–354, title II, § 246(f)(1), Oct. 13, 1994, 108 Stat. 3225
 
-Section, act Apr. 27, 1935, ch. 85, § 5, 49 Stat. 164, related to establishment of Soil Conservation Service.
+Section, act Apr. 27, 1935, ch. 85, § 5, 49 Stat. 164, related to establishment of Soil Conservation Service.
 
-## §§ 590e–1, 590e–2. Omitted
+## §§ 590e–1, 590e–2. Omitted
 
 **Editorial Notes**
 
@@ -205,15 +205,15 @@ Nov. 21, 1989, Pub. L. 101–161, title II, 103 Stat. 971.
 
 Oct. 1, 1988, Pub. L. 100–460, title II, 102 Stat. 2249.
 
-Dec. 22, 1987, Pub. L. 100–202, § 101(k) [title II], 101 Stat. 1329–322, 1329–343.
+Dec. 22, 1987, Pub. L. 100–202, § 101(k) [title II], 101 Stat. 1329–322, 1329–343.
 
-Oct. 18, 1986, Pub. L. 99–500, § 101(a) [title II], 100 Stat. 1783, 1783–18, and Oct. 30, 1986, Pub. L. 99–591, § 101(a) [title II], 100 Stat. 3341, 3341–18.
+Oct. 18, 1986, Pub. L. 99–500, § 101(a) [title II], 100 Stat. 1783, 1783–18, and Oct. 30, 1986, Pub. L. 99–591, § 101(a) [title II], 100 Stat. 3341, 3341–18.
 
-Dec. 19, 1985, Pub. L. 99–190, § 101(a) [H.R. 3037, title II], 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
+Dec. 19, 1985, Pub. L. 99–190, § 101(a) [H.R. 3037, title II], 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
 
-Oct. 12, 1984, Pub. L. 98–473, title I, § 101(a) [H.R. 5743, title II], 98 Stat. 1837.
+Oct. 12, 1984, Pub. L. 98–473, title I, § 101(a) [H.R. 5743, title II], 98 Stat. 1837.
 
-Nov. 14, 1983, Pub. L. 98–151, § 101(d) [H.R. 3223, title II], 97 Stat. 972.
+Nov. 14, 1983, Pub. L. 98–151, § 101(d) [H.R. 3223, title II], 97 Stat. 972.
 
 Dec. 18, 1982, Pub. L. 97–370, title II, 96 Stat. 1802.
 
@@ -323,15 +323,15 @@ Nov. 21, 1989, Pub. L. 101–161, title II, 103 Stat. 972.
 
 Oct. 1, 1988, Pub. L. 100–460, title II, 102 Stat. 2249.
 
-Dec. 22, 1987, Pub. L. 100–202, § 101(k) [title II], 101 Stat. 1329–322, 1329–343.
+Dec. 22, 1987, Pub. L. 100–202, § 101(k) [title II], 101 Stat. 1329–322, 1329–343.
 
-Oct. 18, 1986, Pub. L. 99–500, § 101(a) [title II], 100 Stat. 1783, 1783–18, and Oct. 30, 1986, Pub. L. 99–591, § 101(a) [title II], 100 Stat. 3341, 3341–18.
+Oct. 18, 1986, Pub. L. 99–500, § 101(a) [title II], 100 Stat. 1783, 1783–18, and Oct. 30, 1986, Pub. L. 99–591, § 101(a) [title II], 100 Stat. 3341, 3341–18.
 
-Dec. 19, 1985, Pub. L. 99–190, § 101(a) [H.R. 3037, title II], 99 Stat. 1185.
+Dec. 19, 1985, Pub. L. 99–190, § 101(a) [H.R. 3037, title II], 99 Stat. 1185.
 
-Oct. 12, 1984, Pub. L. 98–473, title I, § 101(a) [H.R. 5743, title II], 98 Stat. 1837.
+Oct. 12, 1984, Pub. L. 98–473, title I, § 101(a) [H.R. 5743, title II], 98 Stat. 1837.
 
-Nov. 14, 1983, Pub. L. 98–151, § 101(d) [H.R. 3223, title II], 97 Stat. 972.
+Nov. 14, 1983, Pub. L. 98–151, § 101(d) [H.R. 3223, title II], 97 Stat. 972.
 
 Dec. 18, 1982, Pub. L. 97–370, title II, 96 Stat. 1802.
 
@@ -395,7 +395,7 @@ July 28, 1953, ch. 251, title I, 67 Stat. 215.
 
 July 5, 1952, ch. 574, title I, 66 Stat. 346.
 
-## § 590f. Authorization of appropriations and conservation technical assistance funds
+## § 590f. Authorization of appropriations and conservation technical assistance funds
 
 **(a) Authorization of appropriations**
 
@@ -421,7 +421,7 @@ An amount equal to the amounts collected as fees under section 590c(4) of this t
 
 **(C)** remain available until expended.
 
-(Apr. 27, 1935, ch. 85, § 6, 49 Stat. 164; Sept. 21, 1944, ch. 412, title III, § 302(a), 58 Stat. 738; Pub. L. 113–67, div. A, title VII, § 705(b), Dec. 26, 2013, 127 Stat. 1193.)
+(Apr. 27, 1935, ch. 85, § 6, 49 Stat. 164; Sept. 21, 1944, ch. 412, title III, § 302(a), 58 Stat. 738; Pub. L. 113–67, div. A, title VII, § 705(b), Dec. 26, 2013, 127 Stat. 1193.)
 
 **Editorial Notes**
 
@@ -431,19 +431,19 @@ An amount equal to the amounts collected as fees under section 590c(4) of this t
 
 1944—Act Sept. 21, 1944, inserted second par.
 
-## § 590g. Additional policies and purposes of chapter
+## § 590g. Additional policies and purposes of chapter
 
 **(a) Purposes enumerated**
 
 It is hereby declared to be the policy of this chapter also to secure, and the purposes of this chapter shall also include, (1) preservation and improvement of soil and water quality and related resources; (2) promotion of the economic use and conservation of land; (3) diminution of exploitation and wasteful and unscientific use of national soil resources; (4) the protection of rivers and harbors against the results of soil erosion in aid of maintaining the navigability of waters and water courses and in aid of flood control; (5) reestablishment, at as rapid a rate as the Secretary of Agriculture determines to be practicable and in the general public interest, of the ratio between the purchasing power of the net income per person on farms and that of the income per person not on farms that prevailed during the five-year period August 1909–July 1914, inclusive, as determined from statistics available in the United States Department of Agriculture, and the maintenance of such ratio; (6) prevention and abatement of agricultural-related pollution,1
 
-<sup>1</sup>  So in original. The comma probably should be a semicolon.
+<sup>1</sup> So in original. The comma probably should be a semicolon.
 
 and (7) the promotion of energy and water conservation through dry land farming. The powers conferred under this section and sections 590h, 590i, and 590j to 590n of this title shall be used to assist voluntary action calculated to effectuate the purposes specified in this section. Such powers shall not be used to discourage the production of supplies of foods and fibers sufficient to maintain normal domestic human consumption as determined by the Secretary from the records of domestic human consumption in the years 1920 to 1929, inclusive, taking into consideration increased population, quantities of any commodity that were forced into domestic consumption by decline in exports during such period, current trends in domestic consumption and exports of particular commodities, and the quantities of substitutes available for domestic consumption within any general class of food commodities. In carrying out the purposes of this section due regard shall be given to the maintenance of a continuous and stable supply of agricultural commodities adequate to meet consumer demand at prices fair to both producers and consumers.
 
-**(b) to (g) Repealed. Pub. L. 87–703, title I, § 101(1), Sept. 27, 1962, 76 Stat. 605**
+**(b) to (g) Repealed. Pub. L. 87–703, title I, § 101(1), Sept. 27, 1962, 76 Stat. 605**
 
-(Apr. 27, 1935, ch. 85, § 7, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1148; amended June 28, 1937, ch. 395, § 1, 50 Stat. 329; Pub. L. 87–703, title I, § 101(1), Sept. 27, 1962, 76 Stat. 605; Pub. L. 92–419, title VI, § 606(1), Aug. 30, 1972, 86 Stat. 676; Pub. L. 99–198, title XII, § 1253, Dec. 23, 1985, 99 Stat. 1517; Pub. L. 110–234, title II, § 2802(a)(2), May 22, 2008, 122 Stat. 1085; Pub. L. 110–246, § 4(a), title II, § 2802(a)(2), June 18, 2008, 122 Stat. 1664, 1813.)
+(Apr. 27, 1935, ch. 85, § 7, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1148; amended June 28, 1937, ch. 395, § 1, 50 Stat. 329; Pub. L. 87–703, title I, § 101(1), Sept. 27, 1962, 76 Stat. 605; Pub. L. 92–419, title VI, § 606(1), Aug. 30, 1972, 86 Stat. 676; Pub. L. 99–198, title XII, § 1253, Dec. 23, 1985, 99 Stat. 1517; Pub. L. 110–234, title II, § 2802(a)(2), May 22, 2008, 122 Stat. 1085; Pub. L. 110–246, § 4(a), title II, § 2802(a)(2), June 18, 2008, 122 Stat. 1664, 1813.)
 
 **Editorial Notes**
 
@@ -453,7 +453,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 2802(a)(2), substituted “soil and water quality and related resources” for “soil fertility”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 2802(a)(2), substituted “soil and water quality and related resources” for “soil fertility”.
 
 1985—Subsec. (a)(7). Pub. L. 99–198 added cl. (7).
 
@@ -475,7 +475,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-## §§ 590g–1, 590g–2. Omitted
+## §§ 590g–1, 590g–2. Omitted
 
 **Editorial Notes**
 
@@ -485,9 +485,9 @@ Section 590g–1, acts July 5, 1952, ch. 574, title I, 66 Stat. 347; July 28, 19
 
 Section 590g–2, act July 5, 1952, ch. 574, title I, 66 Stat. 347, which related to allocations for State agricultural conservation programs to be utilized in determining the most needed conservation practices on individual farms, was apparently restricted to the appropriation act of which it was a part.
 
-## § 590h. Payments and grants of aid
+## § 590h. Payments and grants of aid
 
-**(a) Repealed. Pub. L. 87–703, title I, § 101(2), Sept. 27, 1962, 76 Stat. 605**
+**(a) Repealed. Pub. L. 87–703, title I, § 101(2), Sept. 27, 1962, 76 Stat. 605**
 
 **(b) Conservation and environmental assistance**
 
@@ -495,7 +495,7 @@ Section 590g–2, act July 5, 1952, ch. 574, title I, 66 Stat. 347, which relate
 
 The Secretary shall provide technical assistance, cost-share payments, and incentive payments to operators through the environmental quality incentives program in accordance with subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [16 U.S.C. 3839aa et seq.].
 
-**(2) to (4) Repealed. Pub. L. 104–127, title III, § 336(a)(1)(A)(i)(I), Apr. 4, 1996, 110 Stat. 1004**
+**(2) to (4) Repealed. Pub. L. 104–127, title III, § 336(a)(1)(A)(i)(I), Apr. 4, 1996, 110 Stat. 1004**
 
 **(5) State, county, and area committees**
 
@@ -557,7 +557,7 @@ To be eligible for nomination and election to the applicable county, area, or lo
 
 In addition to such nominating procedures as the Secretary may prescribe, the Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).1
 
-<sup>1</sup>  So in original. The period probably should be preceded by an additional closing parenthesis.
+<sup>1</sup> So in original. The period probably should be preceded by an additional closing parenthesis.
 
 **(IV) Opening of ballots**
 
@@ -669,21 +669,21 @@ In carrying out this section, the Secretary shall not have the authority to acqu
 
 **(6)** In determining normal yield per acre for any farm under this section in the case of wheat or corn, the normal yield shall be the average yield per acre thereon for such commodity during the ten calendar years immediately preceding the calendar year in which such yield is determined, adjusted for abnormal weather conditions and trends in yields. If for any such year the data are not available, or there is no actual yield, then the normal yield for the farm shall be appraised in accordance with regulations of the Secretary, taking into consideration abnormal weather conditions, the normal yield for the county, and the yield in years for which data are available.
 
-**(d) to (f) Repealed. Pub. L. 104–127, title III, § 336(a)(1)(A)(ii), Apr. 4, 1996, 110 Stat. 1004**
+**(d) to (f) Repealed. Pub. L. 104–127, title III, § 336(a)(1)(A)(ii), Apr. 4, 1996, 110 Stat. 1004**
 
 **(g) Assignment of payments**
 
 A payment that may be made to a producer under this section may be assigned only in accordance with regulations issued by the Secretary. This subsection shall not authorize any suit against or impose any liability on the Secretary, any disbursing agent, or any agency of the United States if payment is made to the producer without regard to the existence of any such assignment.
 
-(Apr. 27, 1935, ch. 85, § 8, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1149; amended June 28, 1937, ch. 395, § 1, 50 Stat. 329; Feb. 16, 1938, ch. 30, title I, §§ 101, 102, 103, 52 Stat. 31, 34, 35; Apr. 7, 1938, ch. 107, §§ 16–18, 52 Stat. 204, 205; Apr. 10, 1939, ch. 48, 53 Stat. 573; May 14, 1940, ch. 200, 54 Stat. 216; July 2, 1940, ch. 521, § 2, 54 Stat. 727; June 21, 1941, ch. 217, 55 Stat. 257; Dec. 26, 1941, ch. 626, § 1, 55 Stat. 860; Feb. 6, 1942, ch. 44, § 4, 56 Stat. 53; Sept. 29, 1942, ch. 568, 56 Stat. 761; Sept. 21, 1944, ch. 412, title III, § 301, 58 Stat. 737; July 25, 1946, ch. 642, 60 Stat. 663; July 3, 1948, ch. 827, title I, § 4, 62 Stat. 1250; Sept. 23, 1950, ch. 997, 64 Stat. 978; May 26, 1952, ch. 335, 66 Stat. 95; Aug. 28, 1954, ch. 1041, title V, § 501, 68 Stat. 907; Aug. 9, 1955, ch. 624, 69 Stat. 545; Apr. 6, 1956, ch. 186, 70 Stat. 105; July 24, 1956, ch. 668, 70 Stat. 597; Pub. L. 85–553, July 25, 1958, 72 Stat. 414; Pub. L. 86–70, § 13(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, § 8(a), July 12, 1960, 74 Stat. 412; Pub. L. 87–703, title I, § 101(2), (3), Sept. 27, 1962, 76 Stat. 605, 606; Pub. L. 88–534, § 1, Aug. 31, 1964, 78 Stat. 743; Pub. L. 89–742, Nov. 2, 1966, 80 Stat. 1167; Pub. L. 92–419, title VI, §§ 605, 606(2)–(5), Aug. 30, 1972, 86 Stat. 676, 677; Pub. L. 95–113, title XV, § 1501(a), Sept. 29, 1977, 91 Stat. 1019; Pub. L. 96–294, title II, § 259, June 30, 1980, 94 Stat. 709; Pub. L. 99–198, title XVII, §§ 1711(a), 1712, Dec. 23, 1985, 99 Stat. 1635, 1636; Pub. L. 99–253, § 3, Feb. 28, 1986, 100 Stat. 36; Pub. L. 99–500, § 101(a) [title VI, § 645], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, § 101(a) [title VI, § 645], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, § 204, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XI, § 1146, Nov. 28, 1990, 104 Stat. 3516; Pub. L. 102–237, title II, § 202, Dec. 13, 1991, 105 Stat. 1848; Pub. L. 103–354, title II, § 227(a), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title III, § 336(a)(1)(A), Apr. 4, 1996, 110 Stat. 1004; Pub. L. 107–171, title X, § 10708(b), May 13, 2002, 116 Stat. 522; Pub. L. 110–234, title I, § 1615, May 22, 2008, 122 Stat. 1021; Pub. L. 110–246, § 4(a), title I, § 1615, June 18, 2008, 122 Stat. 1664, 1749; Pub. L. 115–334, title II, § 2301(d)(2)(D), Dec. 20, 2018, 132 Stat. 4554.)
+(Apr. 27, 1935, ch. 85, § 8, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1149; amended June 28, 1937, ch. 395, § 1, 50 Stat. 329; Feb. 16, 1938, ch. 30, title I, §§ 101, 102, 103, 52 Stat. 31, 34, 35; Apr. 7, 1938, ch. 107, §§ 16–18, 52 Stat. 204, 205; Apr. 10, 1939, ch. 48, 53 Stat. 573; May 14, 1940, ch. 200, 54 Stat. 216; July 2, 1940, ch. 521, § 2, 54 Stat. 727; June 21, 1941, ch. 217, 55 Stat. 257; Dec. 26, 1941, ch. 626, § 1, 55 Stat. 860; Feb. 6, 1942, ch. 44, § 4, 56 Stat. 53; Sept. 29, 1942, ch. 568, 56 Stat. 761; Sept. 21, 1944, ch. 412, title III, § 301, 58 Stat. 737; July 25, 1946, ch. 642, 60 Stat. 663; July 3, 1948, ch. 827, title I, § 4, 62 Stat. 1250; Sept. 23, 1950, ch. 997, 64 Stat. 978; May 26, 1952, ch. 335, 66 Stat. 95; Aug. 28, 1954, ch. 1041, title V, § 501, 68 Stat. 907; Aug. 9, 1955, ch. 624, 69 Stat. 545; Apr. 6, 1956, ch. 186, 70 Stat. 105; July 24, 1956, ch. 668, 70 Stat. 597; Pub. L. 85–553, July 25, 1958, 72 Stat. 414; Pub. L. 86–70, § 13(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, § 8(a), July 12, 1960, 74 Stat. 412; Pub. L. 87–703, title I, § 101(2), (3), Sept. 27, 1962, 76 Stat. 605, 606; Pub. L. 88–534, § 1, Aug. 31, 1964, 78 Stat. 743; Pub. L. 89–742, Nov. 2, 1966, 80 Stat. 1167; Pub. L. 92–419, title VI, §§ 605, 606(2)–(5), Aug. 30, 1972, 86 Stat. 676, 677; Pub. L. 95–113, title XV, § 1501(a), Sept. 29, 1977, 91 Stat. 1019; Pub. L. 96–294, title II, § 259, June 30, 1980, 94 Stat. 709; Pub. L. 99–198, title XVII, §§ 1711(a), 1712, Dec. 23, 1985, 99 Stat. 1635, 1636; Pub. L. 99–253, § 3, Feb. 28, 1986, 100 Stat. 36; Pub. L. 99–500, § 101(a) [title VI, § 645], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, § 101(a) [title VI, § 645], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, § 204, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XI, § 1146, Nov. 28, 1990, 104 Stat. 3516; Pub. L. 102–237, title II, § 202, Dec. 13, 1991, 105 Stat. 1848; Pub. L. 103–354, title II, § 227(a), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title III, § 336(a)(1)(A), Apr. 4, 1996, 110 Stat. 1004; Pub. L. 107–171, title X, § 10708(b), May 13, 2002, 116 Stat. 522; Pub. L. 110–234, title I, § 1615, May 22, 2008, 122 Stat. 1021; Pub. L. 110–246, § 4(a), title I, § 1615, June 18, 2008, 122 Stat. 1664, 1749; Pub. L. 115–334, title II, § 2301(d)(2)(D), Dec. 20, 2018, 132 Stat. 4554.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 **Codification**
 
@@ -695,7 +695,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 2018—Subsec. (b)(1). Pub. L. 115–334 inserted “subchapter A of” before “chapter 4”.
 
-2008—Subsec. (b)(5)(B)(ii). Pub. L. 110–246, § 1615, designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), a committee established” for “A committee established” in introductory provisions, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
+2008—Subsec. (b)(5)(B)(ii). Pub. L. 110–246, § 1615, designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), a committee established” for “A committee established” in introductory provisions, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, and added subcls. (II) to (IV).
 
 2002—Subsec. (b)(5)(B). Pub. L. 107–171 added subpar. (B) and struck out former subpar. (B) which read as follows:
 
@@ -709,55 +709,55 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 “(v) Members of each county, area, or local committee shall serve for terms not to exceed 3 years.”
 
-1996—Subsec. (b)(1) to (4). Pub. L. 104–127, § 336(a)(1)(A)(i)(I), added par. (1) and struck out former pars. (1) to (4), which related to authorization to provide and eligibility for financial assistance in par. (1), description of purposes of assistance in par. (2), amount of assistance in par. (3), and factors to be considered in formulating national program in par. (4).
+1996—Subsec. (b)(1) to (4). Pub. L. 104–127, § 336(a)(1)(A)(i)(I), added par. (1) and struck out former pars. (1) to (4), which related to authorization to provide and eligibility for financial assistance in par. (1), description of purposes of assistance in par. (2), amount of assistance in par. (3), and factors to be considered in formulating national program in par. (4).
 
-Subsec. (b)(6) to (8). Pub. L. 104–127, § 336(a)(1)(A)(i)(II), struck out pars. (6) to (8), which related to payments for conservation materials and services in par. (6), appropriations for farming materials and soil-terracing services in par. (7), and agreements with agricultural producers creating obligations in advance of appropriations in par. (8).
+Subsec. (b)(6) to (8). Pub. L. 104–127, § 336(a)(1)(A)(i)(II), struck out pars. (6) to (8), which related to payments for conservation materials and services in par. (6), appropriations for farming materials and soil-terracing services in par. (7), and agreements with agricultural producers creating obligations in advance of appropriations in par. (8).
 
-Subsecs. (d) to (f). Pub. L. 104–127, § 336(a)(1)(A)(ii), struck out subsecs. (d) to (f), which related to conditions affecting payments or grants of aid in subsec. (d), distribution of payments among landlords, tenants, and sharecroppers in subsec. (e), and change between landlord and tenants or sharecroppers affecting landlord’s payments in subsec. (f).
+Subsecs. (d) to (f). Pub. L. 104–127, § 336(a)(1)(A)(ii), struck out subsecs. (d) to (f), which related to conditions affecting payments or grants of aid in subsec. (d), distribution of payments among landlords, tenants, and sharecroppers in subsec. (e), and change between landlord and tenants or sharecroppers affecting landlord’s payments in subsec. (f).
 
 1994—Subsec. (b). Pub. L. 103–354 designated first through eighth undesignated pars. as pars. (1) to (8), respectively, added par. (5), and struck out former par. (5) which related to State and local committees.
 
-1991—Subsec. (b). Pub. L. 102–237, in fourteenth sentence of fifth par., inserted before period “, except that, in the case of a person elected to be a national officer or State president of the National Association of Farmer Elected Committeemen, the limitation shall be four consecutive terms”.
+1991—Subsec. (b). Pub. L. 102–237, in fourteenth sentence of fifth par., inserted before period “, except that, in the case of a person elected to be a national officer or State president of the National Association of Farmer Elected Committeemen, the limitation shall be four consecutive terms”.
 
 1990—Subsec. (g). Pub. L. 101–624 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “A payment which may be made to a farmer under this section, may be assigned, without discount, by him in writing as security for cash or advances to finance making a crop, handling or marketing an agricultural commodity, or performing a conservation practice. Such assignment shall be signed by the farmer and witnessed by a member of the county committee or by an employee of such committee, except that where the assignee is a bank whose deposits are insured by the Federal Deposit Insurance Corporation, the Farmers Home Administration, or a production credit association supervised by the Farm Credit Administration, such assignment may be witnessed by a bonded officer of the lending institution. Such assignment shall be filed with the county committee. Such assignment shall not be made to pay or secure any preexisting indebtedness. This provision shall not authorize any suit against or impose any liability upon the Secretary or any disbursing agent if payment to the farmer is made without regard to the existence of any such assignment. The Secretary shall prescribe such regulations as he determines necessary to carry out the provisions of this subsection.”
 
-1986—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, Pub. L. 99–641, made substantially identical amendments to fifth par. of subsec. (b), inserting provisions which related to one local administrative area in any county for which there had been established less than three local administrative areas as of Dec. 23, 1985, and striking out “: *Provided*, That the foregoing requirement of this sentence shall not apply to any county that, on December 23, 1985, had less than three local administrative areas” after “committee for that area”.
+1986—Subsec. (b). Pub. L. 99–500, Pub. L. 99–591, Pub. L. 99–641, made substantially identical amendments to fifth par. of subsec. (b), inserting provisions which related to one local administrative area in any county for which there had been established less than three local administrative areas as of Dec. 23, 1985, and striking out “: *Provided*, That the foregoing requirement of this sentence shall not apply to any county that, on December 23, 1985, had less than three local administrative areas” after “committee for that area”.
 
 Pub. L. 99–253, in fifth par., substituted “local committee” for “community committee” and provisions that each local administrative area have one local committee of at least three members elected to three-year terms in a local election to be held every third year, with exception for more than one local committee per administrative area, that only one local administrative area hold an election in any given year, that only farmers who are producers who participate or cooperate in the programs within their area be eligible for nomination and election, with this requirement not applying to any county that, on Dec. 23, 1985, had less than three local administrative areas, and that only farmers who are participating or cooperating producers within an area be eligible to vote in the election in that area, for provisions that farmers within any local administrative area, participating or cooperating in programs administered within such area, elect from among their number a local committee of not more than three members, with each member elected for a three-year term.
 
-1985—Subsec. (b). Pub. L. 99–198, § 1712, in first sentence of fifth par., substituted “In carrying out the provisions of this section in the States of the Union, except Alaska, and as otherwise directed by law with respect to other programs and functions, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided; and the Secretary may use the services of such committees in carrying out other programs and functions of the Department of Agriculture” for “In carrying out the provisions of this section in the States of the Union, except Alaska, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided”.
+1985—Subsec. (b). Pub. L. 99–198, § 1712, in first sentence of fifth par., substituted “In carrying out the provisions of this section in the States of the Union, except Alaska, and as otherwise directed by law with respect to other programs and functions, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided; and the Secretary may use the services of such committees in carrying out other programs and functions of the Department of Agriculture” for “In carrying out the provisions of this section in the States of the Union, except Alaska, the Secretary is directed to utilize the services of local and State committees selected as hereinafter provided”.
 
-Pub. L. 99–198, § 1711(a)(1), in third sentence of fifth par., substituted “There shall be 3 local administrative areas in each county, except that, in counties with less than one hundred and fifty farmers, the county committee selected as hereinafter provided may reduce the number of local administrative areas to one, and except that the Secretary may include more than one county or parts of different counties in a local administrative area when the Secretary determines that there are insufficient farmers in an area to establish a slate of candidates for a community committee and hold an election” for “No such local area shall include more than one county or parts of different counties”.
+Pub. L. 99–198, § 1711(a)(1), in third sentence of fifth par., substituted “There shall be 3 local administrative areas in each county, except that, in counties with less than one hundred and fifty farmers, the county committee selected as hereinafter provided may reduce the number of local administrative areas to one, and except that the Secretary may include more than one county or parts of different counties in a local administrative area when the Secretary determines that there are insufficient farmers in an area to establish a slate of candidates for a community committee and hold an election” for “No such local area shall include more than one county or parts of different counties”.
 
-Pub. L. 99–198, § 1711(a)(2), in fourth sentence of fifth par., struck out “annually” after “shall elect”.
+Pub. L. 99–198, § 1711(a)(2), in fourth sentence of fifth par., struck out “annually” after “shall elect”.
 
-Pub. L. 99–198, § 1711(a)(3), in fifth par., inserted provisions directing that each member of a local committee be elected for a term of 3 years, that each local committee meet (A) once each year and shall receive compensation for such meeting by the Secretary at not less than the level in effect on December 31, 1985, and (B) at the direction of the county committee and with the approval of the State committee, such additional times during the year as may be necessary to carry out this section without compensation, and that the meetings of a local committee shall be held on different days of the year.
+Pub. L. 99–198, § 1711(a)(3), in fifth par., inserted provisions directing that each member of a local committee be elected for a term of 3 years, that each local committee meet (A) once each year and shall receive compensation for such meeting by the Secretary at not less than the level in effect on December 31, 1985, and (B) at the direction of the county committee and with the approval of the State committee, such additional times during the year as may be necessary to carry out this section without compensation, and that the meetings of a local committee shall be held on different days of the year.
 
-Pub. L. 99–198, § 1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas that contain agricultural producers who might be affected by such changes.
+Pub. L. 99–198, § 1711(a)(4), in fifth par., inserted provisions directing that the local committees in each county (A) in a county in which there is more than one local committee, serve as advisors and consultants to the county committee; (B) periodically meet with the county committee and State committee to be informed on farm program issues; (C) communicate with producers within their communities on issues or concerns regarding farm programs; (D) report to the county committee, the State committee, and other interested persons on changes to, or modifications of, farm programs recommended by producers in their communities; and (E) perform such other functions as are required by law or as the Secretary may specify, and that the Secretary ensure that information concerning changes in Federal laws in effect with respect to agricultural programs and the administration of such laws are communicated in a timely manner to local committees in areas that contain agricultural producers who might be affected by such changes.
 
 1980—Subsec. (b). Pub. L. 96–294 added applicability to energy conservation as an area of conservation subject to financial assistance, and provisions setting forth authority for financial assistance to agricultural producers for encouraging energy conservation through cost sharing and technical assistance for shelter belts, etc.
 
-1977—Subsec. (b). Pub. L. 95–113, § 1501(a)(1), (2), specified that financial assistance be provided to agricultural producers for carrying out enduring conservation and environmental enhancement measures, that eligibility for financial assistance be determined by the existence of conservation or environmental problems that reduce the productive capacity of the land and water or that cause environmental degradation, that financial assistance be a portion of the cost of the installation of conservation and environmental enhancement measures, that the Secretary of Agriculture be given discretion to set the level of payment based on a number of considerations relating to the level and distribution of benefits and costs accruing from the conservation problem and the applied remedy including the level of expected benefits to society, the total cost of the conservation practice, the degree to which the farmer benefits from other conservation programs, and the degree to which conservation would be applied in the absence of financial assistance, and that the Secretary be required to consider national and local needs and priorities in developing a national cost-share assistance program.
+1977—Subsec. (b). Pub. L. 95–113, § 1501(a)(1), (2), specified that financial assistance be provided to agricultural producers for carrying out enduring conservation and environmental enhancement measures, that eligibility for financial assistance be determined by the existence of conservation or environmental problems that reduce the productive capacity of the land and water or that cause environmental degradation, that financial assistance be a portion of the cost of the installation of conservation and environmental enhancement measures, that the Secretary of Agriculture be given discretion to set the level of payment based on a number of considerations relating to the level and distribution of benefits and costs accruing from the conservation problem and the applied remedy including the level of expected benefits to society, the total cost of the conservation practice, the degree to which the farmer benefits from other conservation programs, and the degree to which conservation would be applied in the absence of financial assistance, and that the Secretary be required to consider national and local needs and priorities in developing a national cost-share assistance program.
 
-Subsec. (e). Pub. L. 95–113, § 1501(a)(3), struck out first three pars. which related to allotment and production adjustment activities and for provisions making small cost-share payments, and substituted a new par. authorizing the Secretary to establish a payment limitation. The first three pars. were deemed by the codifiers to constitute the first par., the flush sentence at the end of the first par., and the second par. to reflect the probable intent of Congress. See pp. 192, 193, 400, 401 of Senate Report 95–180.
+Subsec. (e). Pub. L. 95–113, § 1501(a)(3), struck out first three pars. which related to allotment and production adjustment activities and for provisions making small cost-share payments, and substituted a new par. authorizing the Secretary to establish a payment limitation. The first three pars. were deemed by the codifiers to constitute the first par., the flush sentence at the end of the first par., and the second par. to reflect the probable intent of Congress. See pp. 192, 193, 400, 401 of Senate Report 95–180.
 
-1972—Subsec. (b). Pub. L. 92–419, §§ 605, 606(2), (3), added par. respecting long-term rural environmental protection contracts; included in first sentence reference to cl. (6) of section 590g of this title and in item (2) provided as a measure for amount of payments and grants the treatment or use of the land for the prevention or abatement of agriculture-related pollution; and included in the second paragraph provisions respecting making available pollution prevention or abatement aids and orders covering pollution prevention or abatement aids and carrying out by the producers or pollution prevention or abatement practices, respectfully.
+1972—Subsec. (b). Pub. L. 92–419, §§ 605, 606(2), (3), added par. respecting long-term rural environmental protection contracts; included in first sentence reference to cl. (6) of section 590g of this title and in item (2) provided as a measure for amount of payments and grants the treatment or use of the land for the prevention or abatement of agriculture-related pollution; and included in the second paragraph provisions respecting making available pollution prevention or abatement aids and orders covering pollution prevention or abatement aids and carrying out by the producers or pollution prevention or abatement practices, respectfully.
 
-Subsec. (d). Pub. L. 92–419, § 606(4), included reference to cl. (6) of section 590g(a) of this title in first par.
+Subsec. (d). Pub. L. 92–419, § 606(4), included reference to cl. (6) of section 590g(a) of this title in first par.
 
-Subsec. (e). Pub. L. 92–419, § 606(5), inserted in proviso provision for payments based on agriculture-related pollution prevention or abatement practices.
+Subsec. (e). Pub. L. 92–419, § 606(5), inserted in proviso provision for payments based on agriculture-related pollution prevention or abatement practices.
 
 1966—Subsec. (g). Pub. L. 89–742 permitted assignments for handling or marketing an agricultural commodity, or performing a conservation practice, broadened the qualifications as to who may witness the signature of a farmer assigning such payments, and directed the Secretary to promulgate such regulations necessary to carry out the provisions of this subsection.
 
 1964—Subsec. (b). Pub. L. 88–534 provided that members of local committees and not delegates from local areas shall nominate and elect a county committee of three farmers in the county, substituted three year staggered terms of office for county committeemen in place of one year terms, limited committeemen to a maximum of three consecutive terms, and eliminated provisions for the annual election of delegates to a county convention for the election of a county committee.
 
-1962—Subsec. (a). Pub. L. 87–703, § 101(2), repealed subsec. (a) which related to duration of authority of Secretary of Agriculture in the operation of a Federal program on a temporary basis.
+1962—Subsec. (a). Pub. L. 87–703, § 101(2), repealed subsec. (a) which related to duration of authority of Secretary of Agriculture in the operation of a Federal program on a temporary basis.
 
-Subsec. (b). Pub. L. 87–703, § 101(3), substituted introductory “The” for “subject to the limitations provided in subsection (a) of this section, the”.
+Subsec. (b). Pub. L. 87–703, § 101(3), substituted introductory “The” for “subject to the limitations provided in subsection (a) of this section, the”.
 
 1960—Subsec. (b). Pub. L. 86–624 substituted “in the States of the Union, except Alaska” for “in the continental United States, except in Alaska”.
 
-1959—Subsec. (b). Pub. L. 86–70 inserted “, except in Alaska” after “continental United States”.
+1959—Subsec. (b). Pub. L. 86–70 inserted “, except in Alaska” after “continental United States”.
 
 1958—Subsec. (a). Pub. L. 85–553 substituted “January 1, 1963” and “December 31, 1962” for “January 1, 1959” and “December 31, 1958”, respectively, whenever appearing.
 
@@ -767,9 +767,9 @@ Subsec. (b). Act Apr. 6, 1956, substituted “Clauses” for “In arid or semia
 
 1955—Subsec. (e). Act Aug. 9, 1955, authorized payments to persons carrying out conservation practices on federally owned noncropland.
 
-1954—Subsec. (a). Act Aug. 28, 1954, § 501(a), (b), substituted “January 1, 1957” and “December 31, 1956” for “January 1, 1955” and “December 31, 1954” wherever appearing, and inserted last two sentences.
+1954—Subsec. (a). Act Aug. 28, 1954, § 501(a), (b), substituted “January 1, 1957” and “December 31, 1956” for “January 1, 1955” and “December 31, 1954” wherever appearing, and inserted last two sentences.
 
-Subsec. (b). Act Aug. 28, 1954, § 501(c), struck out “at not to exceed a fair price fixed in accordance with regulations to be prescribed by the Secretary” after “furnished to producers” in second par., and inserted last sentence.
+Subsec. (b). Act Aug. 28, 1954, § 501(c), struck out “at not to exceed a fair price fixed in accordance with regulations to be prescribed by the Secretary” after “furnished to producers” in second par., and inserted last sentence.
 
 1952—Subsec. (a). Act May 26, 1952, substituted “January 1, 1955” for “January 1, 1953” wherever appearing and “December 31, 1954” for “December 31, 1952”.
 
@@ -821,7 +821,7 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XVII, § 1711(b)(1), Dec. 23, 1985, 99 Stat. 1636, provided that: “The amendments made by this section [amending this section] shall become effective on January 1, 1986, except that the amendments made by clauses (2) and (3) of subsection (a) [amending this section] shall not apply with respect to the term of office of any member of a local committee elected before January 1, 1986.”
+Pub. L. 99–198, title XVII, § 1711(b)(1), Dec. 23, 1985, 99 Stat. 1636, provided that: “The amendments made by this section [amending this section] shall become effective on January 1, 1986, except that the amendments made by clauses (2) and (3) of subsection (a) [amending this section] shall not apply with respect to the term of office of any member of a local committee elected before January 1, 1986.”
 
 **Effective Date of 1977 Amendment**
 
@@ -829,7 +829,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 **Effective Date of 1964 Amendment**
 
-Pub. L. 88–534, § 3, Aug. 31, 1964, 78 Stat. 743, provided that: “Section 1 of this Act [amending this section] shall become effective for elections of committeemen held on or after January 1, 1965.”
+Pub. L. 88–534, § 3, Aug. 31, 1964, 78 Stat. 743, provided that: “Section 1 of this Act [amending this section] shall become effective for elections of committeemen held on or after January 1, 1965.”
 
 **Effective Date of 1948 Amendment**
 
@@ -837,21 +837,21 @@ Amendment by act July 3, 1948, effective July 3, 1948, see section 6 of act July
 
 **Effective Date of 1938 Amendment**
 
-Act Feb. 16, 1938, ch. 30, title I, § 105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
+Act Feb. 16, 1938, ch. 30, title I, § 105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
 
 **Status of Permanent Employees of County Committees**
 
-Pub. L. 106–78, title VII, § 740, Oct. 22, 1999, 113 Stat. 1166, provided that: “Notwithstanding any other provision of law, in fiscal year 2000 and thereafter, permanent employees of county committees employed on or after October 1, 1998, pursuant to [section] 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be considered as having Federal Civil Service status only for the purpose of applying for United States Department of Agriculture Civil Service vacancies.”
+Pub. L. 106–78, title VII, § 740, Oct. 22, 1999, 113 Stat. 1166, provided that: “Notwithstanding any other provision of law, in fiscal year 2000 and thereafter, permanent employees of county committees employed on or after October 1, 1998, pursuant to [section] 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be considered as having Federal Civil Service status only for the purpose of applying for United States Department of Agriculture Civil Service vacancies.”
 
-Similar provisions were contained in the following prior appropriation act: Pub. L. 105–277, div. A, § 101(a) [title VII, § 765], Oct. 21, 1998, 112 Stat. 2681, 2681–37.
+Similar provisions were contained in the following prior appropriation act: Pub. L. 105–277, div. A, § 101(a) [title VII, § 765], Oct. 21, 1998, 112 Stat. 2681, 2681–37.
 
 **Local Committee Member Elected Before January 1, 1986; Completion of Unexpired Term in Administrative Area of Residence**
 
-Pub. L. 99–198, title XVII, § 1711(b)(2), Dec. 23, 1985, 99 Stat. 1636, provided that: “If the number of local administrative areas and local committees in a county increases as a result of a change in the number of local administrative areas in the county under section 8(b) of the Soil Conservation and Domestic Allotment Act [subsec. (b) of this section] (as amended by subsection (a)(1)), any member of a local committee in such county elected before January 1, 1986, shall serve the unexpired portion of any term commenced before the date of such increase as a member of the local committee for the administrative area in which such member resides.”
+Pub. L. 99–198, title XVII, § 1711(b)(2), Dec. 23, 1985, 99 Stat. 1636, provided that: “If the number of local administrative areas and local committees in a county increases as a result of a change in the number of local administrative areas in the county under section 8(b) of the Soil Conservation and Domestic Allotment Act [subsec. (b) of this section] (as amended by subsection (a)(1)), any member of a local committee in such county elected before January 1, 1986, shall serve the unexpired portion of any term commenced before the date of such increase as a member of the local committee for the administrative area in which such member resides.”
 
 **Congressional Findings Respecting the Agricultural Stabilization and Conservation County and Community Committee System**
 
-Pub. L. 97–218, title IV, § 401, July 20, 1982, 96 Stat. 216, provided that: “Congress finds that agricultural stabilization and conservation county and community committees have served, and should continue to serve, a vital function in implementing, at the local level, farm commodity, soil conservation, and related programs; and that, by assisting the United States Department of Agriculture to conduct such programs effectively, such committees provide substantial benefits to agriculture and the Nation. Congress further finds that the agricultural stabilization and conservation county and community committee system has developed, over the years, into a highly efficient mechanism for implementing such programs at the local level. Therefore, it is the sense of Congress that the Secretary of Agriculture should ensure that the structure and operations of the agricultural stabilization and conservation county and community committees, as heretofore developed to enable such committees to meet the responsibilities assigned them under section 8(b) of the Soil Conservation and Domestic Allotment Act [subsection (b) of this section], and related statutes and regulations, be preserved and strengthened.”
+Pub. L. 97–218, title IV, § 401, July 20, 1982, 96 Stat. 216, provided that: “Congress finds that agricultural stabilization and conservation county and community committees have served, and should continue to serve, a vital function in implementing, at the local level, farm commodity, soil conservation, and related programs; and that, by assisting the United States Department of Agriculture to conduct such programs effectively, such committees provide substantial benefits to agriculture and the Nation. Congress further finds that the agricultural stabilization and conservation county and community committee system has developed, over the years, into a highly efficient mechanism for implementing such programs at the local level. Therefore, it is the sense of Congress that the Secretary of Agriculture should ensure that the structure and operations of the agricultural stabilization and conservation county and community committees, as heretofore developed to enable such committees to meet the responsibilities assigned them under section 8(b) of the Soil Conservation and Domestic Allotment Act [subsection (b) of this section], and related statutes and regulations, be preserved and strengthened.”
 
 **1970 Increase in Rates of Compensation of Persons Employed by County Committees**
 
@@ -859,31 +859,31 @@ Adjustment by the Secretary of Agriculture, effective on the first day of the fi
 
 **1967 Increase in Rates of Compensation of Persons Employed by County Committees**
 
-Pub. L. 90–206, title II, § 210, Dec. 16, 1967, 81 Stat. 633, provided that: “The rates of pay of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 202(a) of this title [see section 5332(a) of Title 5, Government Organization and Employees] for corresponding rates of basic pay.”
+Pub. L. 90–206, title II, § 210, Dec. 16, 1967, 81 Stat. 633, provided that: “The rates of pay of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 202(a) of this title [see section 5332(a) of Title 5, Government Organization and Employees] for corresponding rates of basic pay.”
 
 [Section 210 of Pub. L. 90–206 effective as of beginning of first pay period which begins on or after Oct. 1, 1967, see section 220(a)(2) of Pub. L. 90–206, set out as a note under section 5332 of Title 5.]
 
 **1966 Increase in Rates of Compensation of Persons Employed by County Committees**
 
-Pub. L. 89–504, title I, § 107, July 18, 1966, 80 Stat. 293, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 102(a) of this title [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] for corresponding rates of compensation.”
+Pub. L. 89–504, title I, § 107, July 18, 1966, 80 Stat. 293, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 102(a) of this title [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] for corresponding rates of compensation.”
 
 **1965 Increase in Rates of Compensation of Persons Employed by County Committees**
 
-Pub. L. 89–301, § 10, Oct. 29, 1965, 79 Stat. 1120, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 2(a) of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] for corresponding rates of compensation.”
+Pub. L. 89–301, § 10, Oct. 29, 1965, 79 Stat. 1120, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 2(a) of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] for corresponding rates of compensation.”
 
 [Provision effective on first day of first pay period which begins on or after July 1, 1966, see section 109(2) of Pub. L. 89–504.]
 
 **1964 Increase in Rates of Compensation of Persons Employed by County Committees**
 
-Pub. L. 88–426, title I, § 122, Aug. 14, 1964, 78 Stat. 412, provided that: “The rates of compensation of persons employed by the county committees establish pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable to the increases provided by section 102 of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
+Pub. L. 88–426, title I, § 122, Aug. 14, 1964, 78 Stat. 412, provided that: “The rates of compensation of persons employed by the county committees establish pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable to the increases provided by section 102 of this Act [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
 
 **1962 Increase in Rates of Compensation of Persons Employed by County Committees**
 
-Pub. L. 87–793, § 1002, Oct. 11, 1962, 76 Stat. 865, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by title II of this part [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
+Pub. L. 87–793, § 1002, Oct. 11, 1962, 76 Stat. 865, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by title II of this part [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
 
 **1960 Increase in Rates of Compensation of Persons Employed by County Committees**
 
-Pub. L. 86–568, title I, § 115(a), July 1, 1960, 74 Stat. 302, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by this title [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
+Pub. L. 86–568, title I, § 115(a), July 1, 1960, 74 Stat. 302, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by this title [amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees] for corresponding rates of compensation in the appropriate schedule or scale of pay.”
 
 [“Increases provided by this title”, referred to above, means increases provided by title I of Pub. L. 86–568.]
 
@@ -897,7 +897,7 @@ Pub. L. 85–278, Sept. 2, 1957, 71 Stat. 601, provided: “That, notwithstandin
 
 Functions respecting lands under jurisdiction of Department of the Interior, transfer to Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-## §§ 590h–1, 590h–2. Omitted
+## §§ 590h–1, 590h–2. Omitted
 
 **Editorial Notes**
 
@@ -905,21 +905,21 @@ Functions respecting lands under jurisdiction of Department of the Interior, tra
 
 Section 590h–1, act June 16, 1938, ch. 464, title I, 52 Stat. 746 (the Department of Agriculture Appropriation Act, 1939), which authorized the utilization of certain agencies in administering the naval stores conservation programs and in making payments to gum naval stores producers, was not repeated in subsequent appropriation acts.
 
-Section 590h–2, act July 2, 1940, ch. 521, § 9, 54 Stat. 729, which related to correction of certain inequities in agricultural adjustment or conservation payments, was omitted as executed.
+Section 590h–2, act July 2, 1940, ch. 521, § 9, 54 Stat. 729, which related to correction of certain inequities in agricultural adjustment or conservation payments, was omitted as executed.
 
-## § 590h–3. Repealed. Pub. L. 88–534, § 2, Aug. 31, 1964, 78 Stat. 743
+## § 590h–3. Repealed. Pub. L. 88–534, § 2, Aug. 31, 1964, 78 Stat. 743
 
-Section, act Aug. 28, 1954, ch. 1041, title V, § 503, 68 Stat. 908, provided that nothing in section 590h(b) of this title or in any other law, shall be construed to authorize the imposition of limitations upon the number of terms for which members of county committees established under such section may be reelected. See section 590h(b) of this title.
+Section, act Aug. 28, 1954, ch. 1041, title V, § 503, 68 Stat. 908, provided that nothing in section 590h(b) of this title or in any other law, shall be construed to authorize the imposition of limitations upon the number of terms for which members of county committees established under such section may be reelected. See section 590h(b) of this title.
 
-## § 590h–4. Repealed. Pub. L. 104–127, title III, § 336(a)(2)(G), Apr. 4, 1996, 110 Stat. 1006
+## § 590h–4. Repealed. Pub. L. 104–127, title III, § 336(a)(2)(G), Apr. 4, 1996, 110 Stat. 1006
 
-Section, act Aug. 3, 1956, ch. 950, § 6(b), 70 Stat. 1033, provided conditions for payments of grants.
+Section, act Aug. 3, 1956, ch. 950, § 6(b), 70 Stat. 1033, provided conditions for payments of grants.
 
-## § 590i. Surveys and investigations; publication of information
+## § 590i. Surveys and investigations; publication of information
 
 The Secretary is authorized to conduct surveys, investigations, and research relating to the conditions and factors affecting, and methods of accomplishing most effectively, the policy and purposes of section 590g(a) of this title. Notwithstanding any provision of existing law, the Secretary is authorized to make public such information as he deems necessary to carry out the provisions of this chapter.
 
-(Apr. 27, 1935, ch. 85, § 9, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1150; amended June 28, 1937, ch. 395, § 2, 50 Stat. 329; Pub. L. 97–375, title I, § 103(c), Dec. 21, 1982, 96 Stat. 1819.)
+(Apr. 27, 1935, ch. 85, § 9, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1150; amended June 28, 1937, ch. 395, § 2, 50 Stat. 329; Pub. L. 97–375, title I, § 103(c), Dec. 21, 1982, 96 Stat. 1819.)
 
 **Editorial Notes**
 
@@ -935,7 +935,7 @@ The Secretary is authorized to conduct surveys, investigations, and research rel
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-## § 590i–1. Omitted
+## § 590i–1. Omitted
 
 **Editorial Notes**
 
@@ -953,7 +953,7 @@ June 16, 1938, ch. 464, title I, 52 Stat. 744.
 
 June 29, 1937, ch. 404, 50 Stat. 429.
 
-## § 590i–2. Omitted
+## § 590i–2. Omitted
 
 **Editorial Notes**
 
@@ -961,7 +961,7 @@ June 29, 1937, ch. 404, 50 Stat. 429.
 
 Section, act July 2, 1942, ch. 473, 56 Stat. 508 (the Department of the Interior Appropriation Act, 1943), which related to furnishing photographs, mosaics, and maps required in soil conservation operations of the Department of the Interior, was not repeated in subsequent appropriation acts. Similar provision was contained in prior appropriation act of June 28, 1941, ch. 259, 55 Stat. 306.
 
-## § 590j. Definitions
+## § 590j. Definitions
 
 In this chapter:
 
@@ -983,7 +983,7 @@ The term “technical assistance” means technical expertise, information, and 
 
 **(ii)** technical infrastructure, including activities, processes, tools, and agency functions needed to support delivery of technical services, such as technical standards, resource inventories, training, data, technology, monitoring, and effects analyses.
 
-(Apr. 27, 1935, ch. 85, § 10, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1150; amended Pub. L. 110–234, title II, § 2802(b), May 22, 2008, 122 Stat. 1085; Pub. L. 110–246, § 4(a), title II, § 2802(b), June 18, 2008, 122 Stat. 1664, 1813.)
+(Apr. 27, 1935, ch. 85, § 10, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1150; amended Pub. L. 110–234, title II, § 2802(b), May 22, 2008, 122 Stat. 1085; Pub. L. 110–246, § 4(a), title II, § 2802(b), June 18, 2008, 122 Stat. 1664, 1813.)
 
 **Editorial Notes**
 
@@ -993,7 +993,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 2802(b), amended section generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity’ as used in this chapter means any such commodity and any regional or market classification, type, or grade thereof.”
+2008—Pub. L. 110–246, § 2802(b), amended section generally. Prior to amendment, text read as follows: “The term ‘agricultural commodity’ as used in this chapter means any such commodity and any regional or market classification, type, or grade thereof.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1001,11 +1001,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-## § 590k. Availability of funds
+## § 590k. Availability of funds
 
 All funds available for carrying out this chapter shall be available for allotment to the bureaus and offices of the Department of Agriculture and for transfer to such other agencies of the Federal or State Governments, or to local public agencies, as the Secretary may request to cooperate or assist in carrying out this chapter, and for payments to committees or associations of producers in any region or regions to cover the estimated administrative expenses to be incurred by any such committee or association in cooperating in carrying out this chapter: *Provided*, That the Secretary may prescribe that all or part of such estimated expenses of any such committee or association may be deducted pro rata from the payments or grants made to the members thereof: *Provided further*, That the Secretary may make such payments in advance of determination of performance. Funds so transferred may be placed in a single account for each State.
 
-(Apr. 27, 1935, ch. 85, § 11, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1150; amended June 24, 1936, ch. 767, 49 Stat. 1915; Aug. 3, 1956, ch. 950, § 6(c), 70 Stat. 1033; Pub. L. 104–127, title III, § 336(a)(1)(B), Apr. 4, 1996, 110 Stat. 1005.)
+(Apr. 27, 1935, ch. 85, § 11, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1150; amended June 24, 1936, ch. 767, 49 Stat. 1915; Aug. 3, 1956, ch. 950, § 6(c), 70 Stat. 1033; Pub. L. 104–127, title III, § 336(a)(1)(B), Apr. 4, 1996, 110 Stat. 1005.)
 
 **Editorial Notes**
 
@@ -1023,7 +1023,7 @@ All funds available for carrying out this chapter shall be available for allotme
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-## § 590l. Expansion of domestic and foreign markets for agricultural commodities; advances for crop insurance; transfer of funds to corporation
+## § 590l. Expansion of domestic and foreign markets for agricultural commodities; advances for crop insurance; transfer of funds to corporation
 
 **(a) Market expansion and surplus disposition**
 
@@ -1033,7 +1033,7 @@ Whenever the Secretary finds that the exercise of the powers conferred in this s
 
 The Secretary is authorized to make advances to producers for the purpose of assisting them to insure their crops with the Federal Crop Insurance Corporation. The Secretary shall remit the amount of any such advances to a producer directly to such Corporation in payment of the premium on the insurance for which the producer has made application. Advances shall only be made to producers who are participating or who agree to participate in a program formulated pursuant to section 590h of this title. Except as otherwise provided in this subsection, the terms and conditions of such advances shall be fixed by the Secretary. In carrying out the provisions of this subsection, the Secretary may transfer to the Federal Crop Insurance Corporation, prior to the execution of applications for insurance or requests for advances by producers, the funds estimated as necessary to cover the advances which will be requested for the payment of premiums under a crop-insurance program, and any portion of such funds not used for advances to producers under such program shall be returned to the Secretary by the Federal Crop Insurance Corporation.
 
-(Apr. 27, 1935, ch. 85, § 12, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended Mar. 25, 1939, ch. 15, 53 Stat. 550; July 2, 1940, ch. 521, § 1, 54 Stat. 727.)
+(Apr. 27, 1935, ch. 85, § 12, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended Mar. 25, 1939, ch. 15, 53 Stat. 550; July 2, 1940, ch. 521, § 1, 54 Stat. 727.)
 
 **Editorial Notes**
 
@@ -1047,17 +1047,17 @@ The Secretary is authorized to make advances to producers for the purpose of ass
 
 **Transfer of Functions**
 
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by Reorg. Plan No. 3 of 1946, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by Reorg. Plan No. 3 of 1946, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Federal Crop Insurance Corporation consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of World War II, see Ex. Ord. No. 9069, Feb. 23, 1942.
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-## § 590m. Execution of powers of Secretary by Production and Marketing Administration
+## § 590m. Execution of powers of Secretary by Production and Marketing Administration
 
 Notwithstanding the foregoing provisions of this chapter, the Secretary is authorized and directed to provide for the execution by the Production and Marketing Administration of such powers conferred upon him under sections 590g, 590h, 590i, and 590j to 590n of this title as he deems may be appropriately exercised by such Administration, and for such purposes the provisions of law applicable to the appointment and compensation of persons employed by the Production and Marketing Administration shall apply.
 
-(Apr. 27, 1935, ch. 85, § 13, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100.)
+(Apr. 27, 1935, ch. 85, § 13, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended 1946 Reorg. Plan No. 3, § 501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100.)
 
 **Executive Documents**
 
@@ -1065,7 +1065,7 @@ Notwithstanding the foregoing provisions of this chapter, the Secretary is autho
 
 Production and Marketing Administration functions transferred to other units of Department of Agriculture under Secretary’s memorandum 1320, supp. 4, of Nov. 2, 1953.
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 Agriculture Adjustment Administration consolidated into Production and Marketing Administration by Secretary of Agriculture’s Memorandum No. 1118, Aug. 18, 1945, which consolidation was ratified by 1946 Reorg. Plan No. 3, set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -1073,11 +1073,11 @@ Federal Crop Insurance Corporation consolidated with other agencies into Agricul
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-## § 590n. Payments reviewable only by Secretary
+## § 590n. Payments reviewable only by Secretary
 
 The facts constituting the bases for any payment or grant or the amount thereof authorized to be made under section 590g of this title, when officially determined in conformity with rules or regulations prescribed by the Secretary of Agriculture, shall be reviewable only by the Secretary of Agriculture.
 
-(Apr. 27, 1935, ch. 85, § 14, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended Aug. 3, 1956, ch. 950, § 6(a), 70 Stat. 1033; Pub. L. 104–127, title III, § 336(a)(1)(C), Apr. 4, 1996, 110 Stat. 1005.)
+(Apr. 27, 1935, ch. 85, § 14, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended Aug. 3, 1956, ch. 950, § 6(a), 70 Stat. 1033; Pub. L. 104–127, title III, § 336(a)(1)(C), Apr. 4, 1996, 110 Stat. 1005.)
 
 **Editorial Notes**
 
@@ -1093,11 +1093,11 @@ The facts constituting the bases for any payment or grant or the amount thereof 
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-## § 590o. Authorization of appropriations; distribution of appropriated funds
+## § 590o. Authorization of appropriations; distribution of appropriated funds
 
 To enable the Secretary of Agriculture to carry out the purposes of section 590g of this title there is authorized to be appropriated for any fiscal year not exceeding $500,000,000. The amount appropriated shall be available until expended. The Secretary shall distribute the funds available for financial assistance among the several States in accordance with their conservation needs, as determined by the Secretary.
 
-(Apr. 27, 1935, ch. 85, § 15, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended Feb. 16, 1938, ch. 30, title I, § 104, 52 Stat. 35; Aug. 28, 1954, ch. 1041, title V, § 502, 68 Stat. 908; Pub. L. 92–419, title VI, § 606(6), Aug. 30, 1972, 86 Stat. 677; Pub. L. 95–113, title XV, § 1501(b), Sept. 29, 1977, 91 Stat. 1020; Pub. L. 104–127, title III, § 336(a)(1)(D), Apr. 4, 1996, 110 Stat. 1005.)
+(Apr. 27, 1935, ch. 85, § 15, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended Feb. 16, 1938, ch. 30, title I, § 104, 52 Stat. 35; Aug. 28, 1954, ch. 1041, title V, § 502, 68 Stat. 908; Pub. L. 92–419, title VI, § 606(6), Aug. 30, 1972, 86 Stat. 677; Pub. L. 95–113, title XV, § 1501(b), Sept. 29, 1977, 91 Stat. 1020; Pub. L. 104–127, title III, § 336(a)(1)(D), Apr. 4, 1996, 110 Stat. 1005.)
 
 **Editorial Notes**
 
@@ -1121,7 +1121,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 **Effective Date of 1938 Amendment**
 
-Act Feb. 16, 1938, ch. 30, title I, § 105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendment made by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
+Act Feb. 16, 1938, ch. 30, title I, § 105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendment made by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
 
 **Executive Documents**
 
@@ -1129,23 +1129,23 @@ Act Feb. 16, 1938, ch. 30, title I, § 105, 52 Stat. 36, as amended by section
 
 Functions respecting lands under jurisdiction of Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
-## § 590p. Repealed. Pub. L. 104–127, title III, § 336(b)(1), Apr. 4, 1996, 110 Stat. 1006
+## § 590p. Repealed. Pub. L. 104–127, title III, § 336(b)(1), Apr. 4, 1996, 110 Stat. 1006
 
-Section, act Apr. 27, 1935, ch. 85, § 16, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended Aug. 7, 1956, ch. 1030, § 1, 70 Stat. 1115; Sept. 14, 1960, Pub. L. 86–793, § 1, 74 Stat. 1030; Mar. 22, 1961, Pub. L. 87–5, § 2, 75 Stat. 6; Aug. 8, 1961, Pub. L. 87–128, title I, § 132, title IV, § 401, 75 Stat. 302, 319; Mar. 30, 1962, Pub. L. 87–425, § 2, 76 Stat. 50; May 15, 1962, Pub. L. 87–451, § 4, 76 Stat. 70; Sept. 27, 1962, Pub. L. 87–703, title I, § 101(4), (5), title III, § 302, 76 Stat. 606, 607, 612; May 20, 1963, Pub. L. 88–26, § 3, 77 Stat. 45; Nov. 3, 1965, Pub. L. 89–321, title III, § 302, title VI, § 602(g), 79 Stat. 1190, 1208; Oct. 11, 1968, Pub. L. 90–559, § 1(1), 82 Stat. 996; Nov. 18, 1969, Pub. L. 91–118, §§ 1–3, 83 Stat. 194, 195; Nov. 30, 1970, Pub. L. 91–524, title VIII, § 801, 84 Stat. 1379; June 6, 1980, Pub. L. 96–263, § 1, 94 Stat. 438; Nov. 28, 1990, Pub. L. 101–624, title XIV, § 1455, 104 Stat. 3614; Nov. 2, 1994, Pub. L. 103–437, § 6(s), 108 Stat. 4587, related to limitation on obligations incurred for purpose of carrying out certain sections and Great Plains conservation program.
+Section, act Apr. 27, 1935, ch. 85, § 16, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended Aug. 7, 1956, ch. 1030, § 1, 70 Stat. 1115; Sept. 14, 1960, Pub. L. 86–793, § 1, 74 Stat. 1030; Mar. 22, 1961, Pub. L. 87–5, § 2, 75 Stat. 6; Aug. 8, 1961, Pub. L. 87–128, title I, § 132, title IV, § 401, 75 Stat. 302, 319; Mar. 30, 1962, Pub. L. 87–425, § 2, 76 Stat. 50; May 15, 1962, Pub. L. 87–451, § 4, 76 Stat. 70; Sept. 27, 1962, Pub. L. 87–703, title I, § 101(4), (5), title III, § 302, 76 Stat. 606, 607, 612; May 20, 1963, Pub. L. 88–26, § 3, 77 Stat. 45; Nov. 3, 1965, Pub. L. 89–321, title III, § 302, title VI, § 602(g), 79 Stat. 1190, 1208; Oct. 11, 1968, Pub. L. 90–559, § 1(1), 82 Stat. 996; Nov. 18, 1969, Pub. L. 91–118, §§ 1–3, 83 Stat. 194, 195; Nov. 30, 1970, Pub. L. 91–524, title VIII, § 801, 84 Stat. 1379; June 6, 1980, Pub. L. 96–263, § 1, 94 Stat. 438; Nov. 28, 1990, Pub. L. 101–624, title XIV, § 1455, 104 Stat. 3614; Nov. 2, 1994, Pub. L. 103–437, § 6(s), 108 Stat. 4587, related to limitation on obligations incurred for purpose of carrying out certain sections and Great Plains conservation program.
 
-## § 590p–1. Limitation on wetlands drainage assistance to aid wildlife preservation; termination of limitation; redetermination of need for assistance upon change of ownership of lands
+## § 590p–1. Limitation on wetlands drainage assistance to aid wildlife preservation; termination of limitation; redetermination of need for assistance upon change of ownership of lands
 
 The Secretary of Agriculture shall not enter into an agreement in the States of North Dakota, South Dakota, and Minnesota to provide financial or technical assistance for wetland drainage on a farm under authority of this chapter, if the Secretary of the Interior has made a finding that wildlife preservation will be materially harmed on that farm by such drainage and that preservation of such land in its undrained status will materially contribute to wildlife preservation and such finding, identifying specifically the farm and the land on that farm with respect to which the finding was made, has been filed with the Secretary of Agriculture within ninety days after the filing of the application for drainage assistance: *Provided*, That the limitation against furnishing such financial or technical assistance shall terminate (1) at such time as the Secretary of the Interior notifies the Secretary of Agriculture that such limitation should not be applicable, (2) one year after the date on which the adverse finding of the Secretary of the Interior was filed unless during that time an offer has been made by the Secretary of the Interior or a State government agency to lease or to purchase the wetland area from the owner thereof as a waterfowl resource, or (3) five years after the date on which such adverse finding was filed if such an offer to lease or to purchase such wetland area has not been accepted by the owner thereof: *Provided further*, That upon any change in the ownership of the land with respect to which such adverse finding was filed, the eligibility of such land for such financial or technical assistance shall be redetermined in accordance with the provisions of this section.
 
-(Apr. 27, 1935, ch. 85, § 16A, as added Pub. L. 87–732, Oct. 2, 1962, 76 Stat. 696.)
+(Apr. 27, 1935, ch. 85, § 16A, as added Pub. L. 87–732, Oct. 2, 1962, 76 Stat. 696.)
 
-## § 590q. Coverage; “State” defined; short title
+## § 590q. Coverage; “State” defined; short title
 
 **(a)** This chapter shall apply to the States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands, and, as used in this chapter, the term “State” includes Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
 
 **(b)** This chapter may be cited as the “Soil Conservation and Domestic Allotment Act”.
 
-(Apr. 27, 1935, ch. 85, § 17, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended July 26, 1947, ch. 339, § 2, 61 Stat. 494; Pub. L. 86–70, § 13(b), June 25, 1959, 73 Stat. 143; Pub. L. 86–624. § 8(b), July 12, 1960, 74 Stat. 412; Pub. L. 98–454, title VI, § 601(d), Oct. 5, 1984, 98 Stat. 1736.)
+(Apr. 27, 1935, ch. 85, § 17, as added Feb. 29, 1936, ch. 104, § 1, 49 Stat. 1151; amended July 26, 1947, ch. 339, § 2, 61 Stat. 494; Pub. L. 86–70, § 13(b), June 25, 1959, 73 Stat. 143; Pub. L. 86–624. § 8(b), July 12, 1960, 74 Stat. 412; Pub. L. 98–454, title VI, § 601(d), Oct. 5, 1984, 98 Stat. 1736.)
 
 **Editorial Notes**
 
@@ -1165,11 +1165,11 @@ The Secretary of Agriculture shall not enter into an agreement in the States of 
 
 Section 3 of act July 26, 1947, repealed all laws in conflict therewith.
 
-## § 590q–1. Sale and distribution of supplies, materials, and equipment to other Government agencies; reimbursement
+## § 590q–1. Sale and distribution of supplies, materials, and equipment to other Government agencies; reimbursement
 
 The Soil Conservation Service subject to applicable regulations under chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41 may sell and distribute supplies, materials, and equipment to other Government activities, the cost of such supplies and materials or the value of such equipment (including the cost of transportation and handling) to be reimbursed to appropriations current at the time additional supplies, materials, or equipment are procured from the appropriations chargeable with the cost or value of such supplies, materials, or equipment.
 
-(Sept. 21, 1944, ch. 412, title III, § 302(b), 58 Stat. 738; Oct. 31, 1951, ch. 654, § 2(12), 65 Stat. 707.)
+(Sept. 21, 1944, ch. 412, title III, § 302(b), 58 Stat. 738; Oct. 31, 1951, ch. 654, § 2(12), 65 Stat. 707.)
 
 **Editorial Notes**
 
@@ -1177,17 +1177,17 @@ The Soil Conservation Service subject to applicable regulations under chapters 1
 
 Section was enacted as part of the Department of Agriculture Organic Act of 1944, and not as part of the Soil Conservation and Domestic Allotment Act which comprises this chapter.
 
-In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended,” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended,” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
 1951—Act Oct. 31, 1951, inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended.
 
-## § 590q–2. Voluntary relinquishment of allotments
+## § 590q–2. Voluntary relinquishment of allotments
 
 Notwithstanding any other provision of law, the Secretary may provide for the reduction or cancellation of any allotment or base when the owner of the farm states in writing that he has no further use of such allotment or base.
 
-(Pub. L. 91–524, title VIII, § 803, Nov. 30, 1970, 84 Stat. 1381.)
+(Pub. L. 91–524, title VIII, § 803, Nov. 30, 1970, 84 Stat. 1381.)
 
 **Editorial Notes**
 
@@ -1195,15 +1195,15 @@ Notwithstanding any other provision of law, the Secretary may provide for the re
 
 Section was enacted as part of the Agriculture Act of 1970, and not as part of the Soil Conservation and Domestic Allotment Act which comprises this chapter.
 
-## § 590q–3. Critical lands resource conservation program in Great Plains area
+## § 590q–3. Critical lands resource conservation program in Great Plains area
 
 Notwithstanding any other provision of law—
 
 **(a) Authorization for program**
 
-The Secretary of Agriculture is authorized to formulate and carry out a program with owners and operators of land in the Great Plains area as described in section 590p(b) 1
+The Secretary of Agriculture is authorized to formulate and carry out a program with owners and operators of land in the Great Plains area as described in section 590p(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title to reduce runoff, soil and water erosion, and otherwise to promote the conservation of soil and water resources in such area through the conversion of cropland from soil depleting uses to conserving uses including the production of soil conserving cover crops.
 
@@ -1243,13 +1243,13 @@ The Secretary shall prescribe such regulations as the Secretary determines neces
 
 There are authorized to be appropriated for the period beginning October 1, 1977, and ending September 30, 1981, such sums as may be necessary to carry out the program provided for in this section. The Secretary is authorized to utilize the facilities, services, and authorities of the Commodity Credit Corporation in discharging the Secretary’s functions and responsibilities under the program, including payment of costs of administration: *Provided*, That the Commodity Credit Corporation shall not make any expenditures for such purposes unless the Corporation has received funds to cover such expenditures from appropriations made to carry out this section.
 
-(Pub. L. 95–113, title XV, § 1511, Sept. 29, 1977, 91 Stat. 1022.)
+(Pub. L. 95–113, title XV, § 1511, Sept. 29, 1977, 91 Stat. 1022.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 590p of this title, referred to in subsec. (a), was repealed by Pub. L. 104–127, title III, § 336(b)(1), Apr. 4, 1996, 110 Stat. 1006.
+Section 590p of this title, referred to in subsec. (a), was repealed by Pub. L. 104–127, title III, § 336(b)(1), Apr. 4, 1996, 110 Stat. 1006.
 
 **Codification**
 

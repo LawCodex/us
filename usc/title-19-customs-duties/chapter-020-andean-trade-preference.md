@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 20—ANDEAN TRADE PREFERENCE
 
-## § 3201. Authority to grant duty-free treatment
+## § 3201. Authority to grant duty-free treatment
 
 The President may proclaim duty-free treatment (or other preferential treatment) for all eligible articles from any beneficiary country in accordance with the provisions of this chapter.
 
-(Pub. L. 102–182, title II, § 202, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 107–210, div. C, title XXXI, § 3103(c)(1), Aug. 6, 2002, 116 Stat. 1033.)
+(Pub. L. 102–182, title II, § 202, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 107–210, div. C, title XXXI, § 3103(c)(1), Aug. 6, 2002, 116 Stat. 1033.)
 
 **Editorial Notes**
 
@@ -31,19 +31,19 @@ The President may proclaim duty-free treatment (or other preferential treatment)
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–191, § 1, Feb. 29, 2008, 122 Stat. 646, provided that: “This Act [amending sections 58c, 3203, and 3206 of this title and enacting provisions set out as a note under section 6655 of Title 26, Internal Revenue Code] may be cited as the ‘Andean Trade Preference Extension Act of 2008’.”
+Pub. L. 110–191, § 1, Feb. 29, 2008, 122 Stat. 646, provided that: “This Act [amending sections 58c, 3203, and 3206 of this title and enacting provisions set out as a note under section 6655 of Title 26, Internal Revenue Code] may be cited as the ‘Andean Trade Preference Extension Act of 2008’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–432, div. D, title VII, § 7001, Dec. 20, 2006, 120 Stat. 3194, provided that: “This title [amending sections 3203 and 3206 of this title] may be cited as the ‘Andean Trade Preferences Extension Act’.”
+Pub. L. 109–432, div. D, title VII, § 7001, Dec. 20, 2006, 120 Stat. 3194, provided that: “This title [amending sections 3203 and 3206 of this title] may be cited as the ‘Andean Trade Preferences Extension Act’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–210, div. C, title XXXI, § 3101, Aug. 6, 2002, 116 Stat. 1023, provided that: “This title [amending sections 2703, 3201 to 3203, 3206, and 3721 of this title and enacting provisions set out as notes under this section and sections 2703, 3202, 3206, and 3721 of this title] may be cited as the ‘Andean Trade Promotion and Drug Eradication Act’.”
+Pub. L. 107–210, div. C, title XXXI, § 3101, Aug. 6, 2002, 116 Stat. 1023, provided that: “This title [amending sections 2703, 3201 to 3203, 3206, and 3721 of this title and enacting provisions set out as notes under this section and sections 2703, 3202, 3206, and 3721 of this title] may be cited as the ‘Andean Trade Promotion and Drug Eradication Act’.”
 
 **Short Title**
 
-Pub. L. 102–182, title II, § 201, Dec. 4, 1991, 105 Stat. 1236, provided that: “This title [enacting this chapter] may be cited as the ‘Andean Trade Preference Act’.”
+Pub. L. 102–182, title II, § 201, Dec. 4, 1991, 105 Stat. 1236, provided that: “This title [enacting this chapter] may be cited as the ‘Andean Trade Preference Act’.”
 
 **Termination of Preferential Treatment**
 
@@ -51,7 +51,7 @@ For termination of preferential treatment, see section 3206 of this title.
 
 **Findings**
 
-Pub. L. 107–210, div. C, title XXXI, § 3102, Aug. 6, 2002, 116 Stat. 1023, provided that:
+Pub. L. 107–210, div. C, title XXXI, § 3102, Aug. 6, 2002, 116 Stat. 1023, provided that:
 
 > “Congress makes the following findings:
 
@@ -71,7 +71,7 @@ Pub. L. 107–210, div. C, title XXXI, § 3102, Aug. 6, 2002, 116 Stat. 1023, 
 
 > **“(8)** Temporarily enhancing trade benefits for Andean beneficiary countries will promote the growth of free enterprise and economic opportunity in these countries and serve the security interests of the United States, the region, and the world.”
 
-## § 3202. Beneficiary country
+## § 3202. Beneficiary country
 
 **(a) Definitions** For purposes of this chapter—
 
@@ -159,9 +159,9 @@ Paragraphs (1), (2), (3), (5), and (7) shall not prevent the designation of any 
 
 **(10)** the extent to which such country prohibits its nationals from engaging in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent;
 
-**(11)** whether such country has met the narcotics cooperation certification criteria set forth in section 2291(h)(2)(A) 1
+**(11)** whether such country has met the narcotics cooperation certification criteria set forth in section 2291(h)(2)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 22 for eligibility for United States assistance; and
 
@@ -209,9 +209,9 @@ if, after such designation, the President determines that, as a result of change
 
 **(A)** with respect to subsections (c) and (d), the results of a general review of beneficiary countries based on the considerations described in such subsections; and
 
-**(B)** the performance of each beneficiary country or ATPEA 2
+**(B)** the performance of each beneficiary country or ATPEA 2
 
-<sup>2</sup>  So in original. Probably should be “ATPDEA”.
+<sup>2</sup> So in original. Probably should be “ATPDEA”.
 
 beneficiary country, as the case may be, under the criteria set forth in section 3203(b)(6)(B) of this title.
 
@@ -219,7 +219,7 @@ beneficiary country, as the case may be, under the criteria set forth in section
 
 Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 3203(b)(6)(B) of this title.
 
-(Pub. L. 102–182, title II, § 203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, § 621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, § 1954(a)(2), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, § 211(c)(2), May 18, 2000, 114 Stat. 287; Pub. L. 107–210, div. C, title XXXI, § 3103(b), (e), Aug. 6, 2002, 116 Stat. 1033; Pub. L. 111–124, § 2(c), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, § 201(d), Dec. 29, 2010, 124 Stat. 3616.)
+(Pub. L. 102–182, title II, § 203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, § 621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, § 1954(a)(2), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, § 211(c)(2), May 18, 2000, 114 Stat. 287; Pub. L. 107–210, div. C, title XXXI, § 3103(b), (e), Aug. 6, 2002, 116 Stat. 1033; Pub. L. 111–124, § 2(c), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, § 201(d), Dec. 29, 2010, 124 Stat. 3616.)
 
 **Editorial Notes**
 
@@ -227,7 +227,7 @@ Before submitting the report described in paragraph (1), the United States Trade
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-Subsec. (h) of section 2291 of title 22, referred to in subsec. (d)(11), was repealed by Pub. L. 102–583, § 6(b)(2), Nov. 2, 1992, 106 Stat. 4932. For successor provisions to former subsec. (h), see sections 2291j and 2291k of Title 22, Foreign Relations and Intercourse.
+Subsec. (h) of section 2291 of title 22, referred to in subsec. (d)(11), was repealed by Pub. L. 102–583, § 6(b)(2), Nov. 2, 1992, 106 Stat. 4932. For successor provisions to former subsec. (h), see sections 2291j and 2291k of Title 22, Foreign Relations and Intercourse.
 
 This chapter, referred to in subsec. (d)(12), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 102–182 which enacted this chapter, to reflect the probable intent of Congress.
 
@@ -237,9 +237,9 @@ This chapter, referred to in subsec. (d)(12), was in the original “this Act”
 
 2009—Subsec. (f)(1). Pub. L. 111–124 substituted “June 30, 2010” for “April 30, 2003”.
 
-2002—Subsec. (e)(1). Pub. L. 107–210, § 3103(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+2002—Subsec. (e)(1). Pub. L. 107–210, § 3103(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-Subsec. (f). Pub. L. 107–210, § 3103(e), substituted “Reporting requirements” for “Report” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter.”
+Subsec. (f). Pub. L. 107–210, § 3103(e), substituted “Reporting requirements” for “Report” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter.”
 
 2000—Subsec. (f). Pub. L. 106–200 substituted “Report” for “Triennial report” in heading and “Not later than January 31, 2001” for “On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991” in text.
 
@@ -259,7 +259,7 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 **Petitions for Review**
 
-Pub. L. 107–210, div. C, title XXXI, § 3103(d), Aug. 6, 2002, 116 Stat. 1033, provided that:
+Pub. L. 107–210, div. C, title XXXI, § 3103(d), Aug. 6, 2002, 116 Stat. 1033, provided that:
 
 > **“(1) In general.—** Not later than 180 days after the date of the enactment of this Act [Aug. 6, 2002], the President shall promulgate regulations regarding the review of eligibility of articles and countries under the Andean Trade Preference Act [19 U.S.C. 3201 et seq.], consistent with section 203(e) of such Act [19 U.S.C. 3202(e)], as amended by this title.
 
@@ -287,7 +287,7 @@ Colombia, Proc. No. 6455, July 2, 1992, 57 F.R. 30069.
 
 Peru, Proc. No. 6585, Aug. 11, 1993, 58 F.R. 43239.
 
-## § 3203. Eligible articles
+## § 3203. Eligible articles
 
 **(a) In general**
 
@@ -643,7 +643,7 @@ No proclamation issued pursuant to this chapter shall affect fees imposed pursua
 
 No quantity of an agricultural product subject to a tariff-rate quota that exceeds the in-quota quantity shall be eligible for duty-free treatment under this chapter.
 
-(Pub. L. 102–182, title II, § 204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, § 404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, § 3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, § 2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, § 5005(b), title VII, § 7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, § 2, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, § 2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, § 1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, § 2(b), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, § 201(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, § 501(b), Oct. 21, 2011, 125 Stat. 494.)
+(Pub. L. 102–182, title II, § 204, Dec. 4, 1991, 105 Stat. 1239; Pub. L. 103–465, title IV, § 404(e)(2), Dec. 8, 1994, 108 Stat. 4961; Pub. L. 107–210, div. C, title XXXI, § 3103(a), (c)(2), Aug. 6, 2002, 116 Stat. 1024, 1033; Pub. L. 108–429, title II, § 2004(e), Dec. 3, 2004, 118 Stat. 2593; Pub. L. 109–432, div. D, title V, § 5005(b), title VII, § 7003, Dec. 20, 2006, 120 Stat. 3190, 3194; Pub. L. 110–42, § 2, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, § 2(b), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, § 1(b), Oct. 16, 2008, 122 Stat. 4977; Pub. L. 111–124, § 2(b), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, § 201(c), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, § 501(b), Oct. 21, 2011, 125 Stat. 494.)
 
 **Editorial Notes**
 
@@ -651,71 +651,71 @@ No quantity of an agricultural product subject to a tariff-rate quota that excee
 
 This chapter, referred to in subsecs. (a)(1)(B) and (f), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 102–182 which enacted this chapter, to reflect the probable intent of Congress.
 
-The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(1)(B), (4), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(1)(B), (4), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 Section 223 of the Caribbean Basin Economic Recovery Expansion Act of 1990, referred to in subsec. (a)(4), is section 223 of Pub. L. 101–382, title II, Aug. 20, 1990, 104 Stat. 659, which is not classified to the Code.
 
 The effective date of this chapter, referred to in subsec. (b)(1)(A), means the date of enactment of Pub. L. 102–182, which was approved Dec. 4, 1991.
 
-The Trade Act of 1974, referred to in subsecs. (b)(1)(A), (D), and (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Act is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsecs. (b)(1)(A), (D), and (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. Title V of the Act is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 The Andean Trade Promotion and Drug Eradication Act, referred to in subsec. (b)(6)(E), is title XXXI of Pub. L. 107–210, div. C, Aug. 6, 2002, 116 Stat. 1023. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 3201 of this title and Tables.
 
 **Amendments**
 
-2011—Subsec. (b)(3)(B)(iii)(II). Pub. L. 112–42, § 501(b)(1)(A)(i), substituted “10 succeeding 1-year periods” for “8 succeeding 1-year periods”.
+2011—Subsec. (b)(3)(B)(iii)(II). Pub. L. 112–42, § 501(b)(1)(A)(i), substituted “10 succeeding 1-year periods” for “8 succeeding 1-year periods”.
 
-Subsec. (b)(3)(B)(iii)(III)(bb). Pub. L. 112–42, § 501(b)(1)(A)(ii), substituted “and for the succeeding 5-year period” for “and for the succeeding 3-year period”.
+Subsec. (b)(3)(B)(iii)(III)(bb). Pub. L. 112–42, § 501(b)(1)(A)(ii), substituted “and for the succeeding 5-year period” for “and for the succeeding 3-year period”.
 
-Subsec. (b)(3)(B)(v)(II). Pub. L. 112–42, § 501(b)(1)(B), substituted “9 succeeding 1-year periods” for “7 succeeding 1-year periods”.
+Subsec. (b)(3)(B)(v)(II). Pub. L. 112–42, § 501(b)(1)(B), substituted “9 succeeding 1-year periods” for “7 succeeding 1-year periods”.
 
-Subsec. (b)(3)(E)(ii)(II). Pub. L. 112–42, § 501(b)(2), substituted “July 31, 2013” for “February 12, 2011”.
+Subsec. (b)(3)(E)(ii)(II). Pub. L. 112–42, § 501(b)(2), substituted “July 31, 2013” for “February 12, 2011”.
 
 2010—Subsec. (b)(3)(E)(ii)(II). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”.
 
-2009—Subsec. (b)(3)(B)(iii)(II). Pub. L. 111–124, § 2(b)(1)(A)(i), substituted “8 succeeding 1-year periods” for “7 succeeding 1-year periods”.
+2009—Subsec. (b)(3)(B)(iii)(II). Pub. L. 111–124, § 2(b)(1)(A)(i), substituted “8 succeeding 1-year periods” for “7 succeeding 1-year periods”.
 
-Subsec. (b)(3)(B)(iii)(III)(bb). Pub. L. 111–124, § 2(b)(1)(A)(ii), substituted “and for the succeeding 3-year period” for “and for the succeeding 2-year period”.
+Subsec. (b)(3)(B)(iii)(III)(bb). Pub. L. 111–124, § 2(b)(1)(A)(ii), substituted “and for the succeeding 3-year period” for “and for the succeeding 2-year period”.
 
-Subsec. (b)(3)(B)(v)(II). Pub. L. 111–124, § 2(b)(1)(B), substituted “7 succeeding 1-year periods” for “6 succeeding 1-year periods”.
+Subsec. (b)(3)(B)(v)(II). Pub. L. 111–124, § 2(b)(1)(B), substituted “7 succeeding 1-year periods” for “6 succeeding 1-year periods”.
 
-Subsec. (b)(3)(E)(ii)(II). Pub. L. 111–124, § 2(b)(2), substituted “December 31, 2010” for “December 31, 2009”.
+Subsec. (b)(3)(E)(ii)(II). Pub. L. 111–124, § 2(b)(2), substituted “December 31, 2010” for “December 31, 2009”.
 
-2008—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–436, § 1(b)(1)(A)(i), substituted “7 succeeding 1-year periods” for “6 succeeding 1-year periods”.
+2008—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–436, § 1(b)(1)(A)(i), substituted “7 succeeding 1-year periods” for “6 succeeding 1-year periods”.
 
-Pub. L. 110–191, § 2(b)(1)(A)(i), substituted “6 succeeding 1-year periods” for “5 succeeding 1-year periods”.
+Pub. L. 110–191, § 2(b)(1)(A)(i), substituted “6 succeeding 1-year periods” for “5 succeeding 1-year periods”.
 
-Subsec. (b)(3)(B)(iii)(III)(bb). Pub. L. 110–436, § 1(b)(1)(A)(ii), substituted “and for the succeeding 2-year period” for “and for the succeeding 1-year period”.
+Subsec. (b)(3)(B)(iii)(III)(bb). Pub. L. 110–436, § 1(b)(1)(A)(ii), substituted “and for the succeeding 2-year period” for “and for the succeeding 1-year period”.
 
-Pub. L. 110–191, § 2(b)(1)(A)(ii), inserted “and for the succeeding 1-year period,” after “for the 1-year period beginning October 1, 2007,”.
+Pub. L. 110–191, § 2(b)(1)(A)(ii), inserted “and for the succeeding 1-year period,” after “for the 1-year period beginning October 1, 2007,”.
 
-Subsec. (b)(3)(B)(v)(II). Pub. L. 110–436, § 1(b)(1)(B), substituted “6 succeeding 1-year periods” for “5 succeeding 1-year periods”.
+Subsec. (b)(3)(B)(v)(II). Pub. L. 110–436, § 1(b)(1)(B), substituted “6 succeeding 1-year periods” for “5 succeeding 1-year periods”.
 
-Pub. L. 110–191, § 2(b)(1)(B), substituted “5 succeeding 1-year periods” for “4 succeeding 1-year periods”.
+Pub. L. 110–191, § 2(b)(1)(B), substituted “5 succeeding 1-year periods” for “4 succeeding 1-year periods”.
 
-Subsec. (b)(3)(E)(ii)(II). Pub. L. 110–436, § 1(b)(2), substituted “December 31, 2009” for “December 31, 2008”.
+Subsec. (b)(3)(E)(ii)(II). Pub. L. 110–436, § 1(b)(2), substituted “December 31, 2009” for “December 31, 2008”.
 
-Pub. L. 110–191, § 2(b)(2), substituted “December 31, 2008” for “December 31, 2006”.
+Pub. L. 110–191, § 2(b)(2), substituted “December 31, 2008” for “December 31, 2006”.
 
-2007—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–42, § 2(1)(A), substituted “The” for “Subject to section 3206 of this title, the” and “5 succeeding 1-year periods” for “4 succeeding 1-year periods”.
+2007—Subsec. (b)(3)(B)(iii)(II). Pub. L. 110–42, § 2(1)(A), substituted “The” for “Subject to section 3206 of this title, the” and “5 succeeding 1-year periods” for “4 succeeding 1-year periods”.
 
-Subsec. (b)(3)(B)(iii)(III). Pub. L. 110–42, § 2(1)(B), substituted “means—” for “means” and “; and” for period, inserted item (aa) designation, and added item (bb).
+Subsec. (b)(3)(B)(iii)(III). Pub. L. 110–42, § 2(1)(B), substituted “means—” for “means” and “; and” for period, inserted item (aa) designation, and added item (bb).
 
-Subsec. (b)(3)(B)(v)(II). Pub. L. 110–42, § 2(2), substituted “During” for “Subject to section 3206 of this title, during” and “4 succeeding 1-year periods” for “3 succeeding 1-year periods”.
+Subsec. (b)(3)(B)(v)(II). Pub. L. 110–42, § 2(2), substituted “During” for “Subject to section 3206 of this title, during” and “4 succeeding 1-year periods” for “3 succeeding 1-year periods”.
 
-2006—Subsec. (b)(3)(B)(iii)(II). Pub. L. 109–432, § 7003(1), substituted “Subject to section 3206 of this title, the preferential” for “The preferential”.
+2006—Subsec. (b)(3)(B)(iii)(II). Pub. L. 109–432, § 7003(1), substituted “Subject to section 3206 of this title, the preferential” for “The preferential”.
 
-Subsec. (b)(3)(B)(v)(II). Pub. L. 109–432, § 7003(2), substituted “Subject to section 3206 of this title, during” for “During”.
+Subsec. (b)(3)(B)(v)(II). Pub. L. 109–432, § 7003(2), substituted “Subject to section 3206 of this title, during” for “During”.
 
-Subsec. (b)(3)(B)(viii). Pub. L. 109–432, § 5005(b), added cl. (viii).
+Subsec. (b)(3)(B)(viii). Pub. L. 109–432, § 5005(b), added cl. (viii).
 
 2004—Subsec. (b)(4)(B)(i). Pub. L. 108–429 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A ‘United States vessel’ is a vessel having a certificate of documentation with a fishery endorsement under chapter 121 of title 46.”
 
-2002—Subsec. (a)(1). Pub. L. 107–210, § 3103(c)(2)(A), in introductory provisions, inserted “(or otherwise provided for)” after “eligibility” and “(or preferential treatment)” after “duty-free treatment”.
+2002—Subsec. (a)(1). Pub. L. 107–210, § 3103(c)(2)(A), in introductory provisions, inserted “(or otherwise provided for)” after “eligibility” and “(or preferential treatment)” after “duty-free treatment”.
 
-Subsec. (a)(2). Pub. L. 107–210, § 3103(c)(2)(B), substituted “paragraph (1)” for “subsection (a) of this section” in introductory provisions.
+Subsec. (a)(2). Pub. L. 107–210, § 3103(c)(2)(B), substituted “paragraph (1)” for “subsection (a) of this section” in introductory provisions.
 
-Subsec. (b). Pub. L. 107–210, § 3103(a)(2), substituted “Exceptions and special rules” for “Exceptions to duty-free treatment” in heading and amended text generally. Prior to amendment, text read as follows: “The duty-free treatment provided under this chapter shall not apply to—
+Subsec. (b). Pub. L. 107–210, § 3103(a)(2), substituted “Exceptions and special rules” for “Exceptions to duty-free treatment” in heading and amended text generally. Prior to amendment, text read as follows: “The duty-free treatment provided under this chapter shall not apply to—
 
 “(1) textile and apparel articles which are subject to textile agreements;
 
@@ -733,7 +733,7 @@ Subsec. (b). Pub. L. 107–210, § 3103(a)(2), substituted “Exceptions and s
 
 “(8) rum and tafia classified in subheading 2208.40.00 of the HTS.”
 
-Subsecs. (c) to (g). Pub. L. 107–210, § 3103(a)(1), redesignated subsecs. (d) to (g) as (c) to (f), respectively, and struck out former subsec. (c) which related to duty reductions for certain handbags, luggage, flat goods, work gloves, and leather wearing apparel of beneficiary countries.
+Subsecs. (c) to (g). Pub. L. 107–210, § 3103(a)(1), redesignated subsecs. (d) to (g) as (c) to (f), respectively, and struck out former subsec. (c) which related to duty reductions for certain handbags, luggage, flat goods, work gloves, and leather wearing apparel of beneficiary countries.
 
 1994—Subsec. (g). Pub. L. 103–465 added subsec. (g).
 
@@ -757,7 +757,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Articles Eligible for Preferential Treatment Under the Andean Trade Preference Act**
 
-Pub. L. 108–429, title II, § 2003, Dec. 3, 2004, 118 Stat. 2589, provided that:
+Pub. L. 108–429, title II, § 2003, Dec. 3, 2004, 118 Stat. 2589, provided that:
 
 > **“(a) In General.—** Notwithstanding section 514 of the Tariff Act of 1930 [19 U.S.C. 1514] or any other provision of law, and subject to subsection (c)—
 
@@ -775,7 +775,7 @@ Pub. L. 108–429, title II, § 2003, Dec. 3, 2004, 118 Stat. 2589, provided t
 
 **Duty Free or Preferential Treatment of Certain Apparel Articles**
 
-Pub. L. 107–206, title III, § 3001(b), Aug. 2, 2002, 116 Stat. 910, provided that: “Any duty free or other preferential treatment provided under the Andean Trade Preference Act [19 U.S.C. 3201 et seq.] to apparel articles assembled from fabric formed in the United States shall apply to such articles only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled if the fabrics are knit fabrics, is carried out in the United States. Any duty-free or other preferential treatment provided under the Andean Trade Preference Act to apparel articles assembled from fabric formed in the United States shall apply to such articles only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled if the fabrics are woven fabrics, is carried out in the United States.”
+Pub. L. 107–206, title III, § 3001(b), Aug. 2, 2002, 116 Stat. 910, provided that: “Any duty free or other preferential treatment provided under the Andean Trade Preference Act [19 U.S.C. 3201 et seq.] to apparel articles assembled from fabric formed in the United States shall apply to such articles only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled if the fabrics are knit fabrics, is carried out in the United States. Any duty-free or other preferential treatment provided under the Andean Trade Preference Act to apparel articles assembled from fabric formed in the United States shall apply to such articles only if all dyeing, printing, and finishing of the fabrics from which the articles are assembled if the fabrics are woven fabrics, is carried out in the United States.”
 
 [Section 3001(b) of Pub. L. 107–206, set out above, effective Sept. 1, 2002, see section 3001(c) of Pub. L. 107–206, set out as an Effective Date of 2002 Amendments note under section 2703 of this title.]
 
@@ -831,7 +831,7 @@ George W. Bush.
 
 Proc. No. 8323, Nov. 25, 2008, 73 F.R. 72679, provided in par. (4) that the designation of Bolivia as a beneficiary country for purposes of the Andean Trade Promotion and Drug Eradication Act, title XXXI of div. C of Pub. L. 107–210 (see Tables for classification), was suspended effective Dec. 15, 2008.
 
-## § 3204. International Trade Commission reports on impact of this chapter
+## § 3204. International Trade Commission reports on impact of this chapter
 
 **(a) Reporting requirements**
 
@@ -869,7 +869,7 @@ For purposes of this section, industries in the Commonwealth of Puerto Rico and 
 
 **(2)** The Commission shall provide an opportunity for the submission by the public, either orally or in writing, or both, of information relating to matters that will be addressed in the reports.
 
-(Pub. L. 102–182, title II, § 206, Dec. 4, 1991, 105 Stat. 1243; Pub. L. 106–200, title II, § 211(d)(2), May 18, 2000, 114 Stat. 287.)
+(Pub. L. 102–182, title II, § 206, Dec. 4, 1991, 105 Stat. 1243; Pub. L. 106–200, title II, § 211(d)(2), May 18, 2000, 114 Stat. 287.)
 
 **Editorial Notes**
 
@@ -883,11 +883,11 @@ For purposes of this section, industries in the Commonwealth of Puerto Rico and 
 
 For purposes of this section, industries in the Commonwealth of Puerto Rico and the insular possessions of the United States shall be considered to be United States industries.”
 
-## § 3205. Repealed. Pub. L. 113–188, title XII, § 1201, Nov. 26, 2014, 128 Stat. 2023
+## § 3205. Repealed. Pub. L. 113–188, title XII, § 1201, Nov. 26, 2014, 128 Stat. 2023
 
-Section, Pub. L. 102–182, title II, § 207, Dec. 4, 1991, 105 Stat. 1244, required impact studies and annual reports from the Secretary of Labor.
+Section, Pub. L. 102–182, title II, § 207, Dec. 4, 1991, 105 Stat. 1244, required impact studies and annual reports from the Secretary of Labor.
 
-## § 3206. Termination of preferential treatment
+## § 3206. Termination of preferential treatment
 
 **(a) In general** No duty-free treatment or other preferential treatment extended to beneficiary countries under this chapter shall—
 
@@ -915,7 +915,7 @@ Section, Pub. L. 102–182, title II, § 207, Dec. 4, 1991, 105 Stat. 1244, re
 
 **(2)** the reasons for such determinations.
 
-(Pub. L. 102–182, title II, § 208, Dec. 4, 1991, 105 Stat. 1244; Pub. L. 107–210, div. C, title XXXI, § 3104(a), Aug. 6, 2002, 116 Stat. 1034; Pub. L. 109–432, div. D, title VII, § 7002, Dec. 20, 2006, 120 Stat. 3194; Pub. L. 110–42, § 1, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, § 2(a), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, § 1(a), Oct. 16, 2008, 122 Stat. 4976; Pub. L. 111–124, § 2(a), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, § 201(a), (b), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, § 501(a), Oct. 21, 2011, 125 Stat. 494.)
+(Pub. L. 102–182, title II, § 208, Dec. 4, 1991, 105 Stat. 1244; Pub. L. 107–210, div. C, title XXXI, § 3104(a), Aug. 6, 2002, 116 Stat. 1034; Pub. L. 109–432, div. D, title VII, § 7002, Dec. 20, 2006, 120 Stat. 3194; Pub. L. 110–42, § 1, June 30, 2007, 121 Stat. 235; Pub. L. 110–191, § 2(a), Feb. 29, 2008, 122 Stat. 646; Pub. L. 110–436, § 1(a), Oct. 16, 2008, 122 Stat. 4976; Pub. L. 111–124, § 2(a), Dec. 28, 2009, 123 Stat. 3484; Pub. L. 111–344, title II, § 201(a), (b), Dec. 29, 2010, 124 Stat. 3616; Pub. L. 112–42, title V, § 501(a), Oct. 21, 2011, 125 Stat. 494.)
 
 **Editorial Notes**
 
@@ -923,9 +923,9 @@ Section, Pub. L. 102–182, title II, § 207, Dec. 4, 1991, 105 Stat. 1244, re
 
 2011—Subsec. (a)(1)(A), (2). Pub. L. 112–42 substituted “July 31, 2013” for “February 12, 2011”.
 
-2010—Subsec. (a)(1). Pub. L. 111–344, § 201(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “remain in effect with respect to Colombia or Peru after December 31, 2010;”.
+2010—Subsec. (a)(1). Pub. L. 111–344, § 201(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “remain in effect with respect to Colombia or Peru after December 31, 2010;”.
 
-Subsec. (a)(2). Pub. L. 111–344, § 201(b), substituted “February 12, 2011” for “December 31, 2010” in introductory provisions.
+Subsec. (a)(2). Pub. L. 111–344, § 201(b), substituted “February 12, 2011” for “December 31, 2010” in introductory provisions.
 
 2009—Subsec. (a)(1), (2). Pub. L. 111–124 substituted “December 31, 2010” for “December 31, 2009”.
 
@@ -947,7 +947,7 @@ Amendment by Pub. L. 112–42 applicable to articles entered on or after the 15t
 
 **Retroactive Application for Certain Liquidations and Reliquidations**
 
-Pub. L. 107–210, div. C, title XXXI, § 3104(b), Aug. 6, 2002, 116 Stat. 1034, provided that:
+Pub. L. 107–210, div. C, title XXXI, § 3104(b), Aug. 6, 2002, 116 Stat. 1034, provided that:
 
 > **“(1) In general.—** Notwithstanding section 514 of the Tariff Act of 1930 [19 U.S.C. 1514] or any other provision of law, and subject to paragraph (3), the entry—
 

@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 13—TEXTILE FOUNDATION
 
-## § 501. Creation of body corporate; directors; principal office; agencies
+## § 501. Creation of body corporate; directors; principal office; agencies
 
 The Secretary of Commerce, the Secretary of Agriculture, and three directors first appointed as provided in section 502 of this title and their successors, are created a body corporate of the District of Columbia by the name of the “Textile Foundation” (in this chapter referred to as the corporation). The incorporation shall be held effected upon the date of the first meeting of the board of directors. The corporation shall maintain its principal office in the District of Columbia and may establish such agencies or branch offices at such places as it deems advisable.
 
-(June 10, 1930, ch. 440, § 1, 46 Stat. 539.)
+(June 10, 1930, ch. 440, § 1, 46 Stat. 539.)
 
-## § 502. Board of directors of Textile Foundation
+## § 502. Board of directors of Textile Foundation
 
 **(a) Composition** The board of directors of the corporation (in this chapter referred to as the board) shall be constituted as follows:
 
@@ -51,9 +51,9 @@ The board at its first meeting and at each annual meeting thereafter shall elect
 
 The board shall direct the exercise of all the powers of the corporation.
 
-(June 10, 1930, ch. 440, § 2, 46 Stat. 539.)
+(June 10, 1930, ch. 440, § 2, 46 Stat. 539.)
 
-## § 503. Purpose of Foundation
+## § 503. Purpose of Foundation
 
 **(a) Scientific and economic research**
 
@@ -63,9 +63,9 @@ The purposes of the corporation shall be to administer and expend its funds and 
 
 The Textile Alliance, Incorporated, is authorized to pay to the corporation the amounts payable in accordance with the arrangement between the Textile Alliance, Incorporated, and the Department of State, in lieu of paying such amounts into the United States Treasury; except that any amounts payable in accordance with such arrangement, and paid into the United States Treasury before June 10, 1930, are authorized to be appropriated to the credit of the corporation. Upon the receipt by the corporation of such amounts the liability of the Textile Alliance, Incorporated, under such arrangement shall be extinguished.
 
-(June 10, 1930, ch. 440, § 3, 46 Stat. 539.)
+(June 10, 1930, ch. 440, § 3, 46 Stat. 539.)
 
-## § 504. Powers of Foundation
+## § 504. Powers of Foundation
 
 The corporation—
 
@@ -85,16 +85,16 @@ The corporation—
 
 **(h)** Generally, may do any and all lawful acts necessary or appropriate to carry out the purposes for which the corporation is created.
 
-(June 10, 1930, ch. 440, § 4, 46 Stat. 540.)
+(June 10, 1930, ch. 440, § 4, 46 Stat. 540.)
 
-## § 505. Report to Congress
+## § 505. Report to Congress
 
 The corporation shall, on or before the 1st day of December in each year, transmit to Congress and to the President a report of its proceedings and activities for the preceding calendar year, including a detailed statement of its receipts and expenditures. Such reports shall not be printed as public documents.
 
-(June 10, 1930, ch. 440, § 5, 46 Stat. 540.)
+(June 10, 1930, ch. 440, § 5, 46 Stat. 540.)
 
-## § 506. Amendment and repeal of chapter
+## § 506. Amendment and repeal of chapter
 
 The right to alter, amend, or repeal this chapter is expressly reserved.
 
-(June 10, 1930, ch. 440, § 6, 46 Stat. 540.)
+(June 10, 1930, ch. 440, § 6, 46 Stat. 540.)

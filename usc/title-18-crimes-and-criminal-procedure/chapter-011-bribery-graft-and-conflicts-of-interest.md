@@ -19,37 +19,37 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–271, title VIII, § 8122(b), Oct. 24, 2018, 132 Stat. 4110, added item 220.
+2018—Pub. L. 115–271, title VIII, § 8122(b), Oct. 24, 2018, 132 Stat. 4110, added item 220.
 
-2012—Pub. L. 112–105, § 18(b), Apr. 4, 2012, 126 Stat. 304, inserted “or an officer or employee of the legislative or executive branch” after “Congress” in item 227.
+2012—Pub. L. 112–105, § 18(b), Apr. 4, 2012, 126 Stat. 304, inserted “or an officer or employee of the legislative or executive branch” after “Congress” in item 227.
 
-2007—Pub. L. 110–81, title I, § 102(c), Sept. 14, 2007, 121 Stat. 739, added item 227.
+2007—Pub. L. 110–81, title I, § 102(c), Sept. 14, 2007, 121 Stat. 739, added item 227.
 
-2006—Pub. L. 109–177, title III, § 309(b), Mar. 9, 2006, 120 Stat. 242, added item 226.
+2006—Pub. L. 109–177, title III, § 309(b), Mar. 9, 2006, 120 Stat. 242, added item 226.
 
-2003—Pub. L. 108–198, § 2(b), Dec. 19, 2003, 117 Stat. 2900, added items 212 and 213 and struck out former items 212 “Offer of loan or gratuity to bank examiner” and 213 “Acceptance of loan or gratuity by bank examiner”.
+2003—Pub. L. 108–198, § 2(b), Dec. 19, 2003, 117 Stat. 2900, added items 212 and 213 and struck out former items 212 “Offer of loan or gratuity to bank examiner” and 213 “Acceptance of loan or gratuity by bank examiner”.
 
-1994—Pub. L. 103–322, title XXXIII, § 330010(12), Sept. 13, 1994, 108 Stat. 2144, substituted “officers, and others in” for “officers and others, in” in item 203 and inserted “the” after “Federal Claims or” in item 204.
+1994—Pub. L. 103–322, title XXXIII, § 330010(12), Sept. 13, 1994, 108 Stat. 2144, substituted “officers, and others in” for “officers and others, in” in item 203 and inserted “the” after “Federal Claims or” in item 204.
 
-1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item 204.
+1992—Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item 204.
 
-1990—Pub. L. 101–647, title XXV, § 2510(b), title XXXV, § 3509, Nov. 29, 1990, 104 Stat. 4863, 4922, substituted “to Members” for “of Members” in item 203, substituted “United States Claims Court or United States Court of Appeals for the Federal Circuit” for “Court of Claims” in item 204, and added item 225.
+1990—Pub. L. 101–647, title XXV, § 2510(b), title XXXV, § 3509, Nov. 29, 1990, 104 Stat. 4863, 4922, substituted “to Members” for “of Members” in item 203, substituted “United States Claims Court or United States Court of Appeals for the Federal Circuit” for “Court of Claims” in item 204, and added item 225.
 
-1989—Pub. L. 101–194, title I, § 101(b), title IV, § 407(b), Nov. 30, 1989, 103 Stat. 1724, 1753, substituted “Restrictions on former officers, employees, and elected officials of the executive and legislative branches” for “Disqualification of former officers and employees; disqualification of partners of current officers and employees” in item 207 and added item 216.
+1989—Pub. L. 101–194, title I, § 101(b), title IV, § 407(b), Nov. 30, 1989, 103 Stat. 1724, 1753, substituted “Restrictions on former officers, employees, and elected officials of the executive and legislative branches” for “Disqualification of former officers and employees; disqualification of partners of current officers and employees” in item 207 and added item 216.
 
-1984—Pub. L. 98–473, title II, § 1107(b), Oct. 12, 1984, 98 Stat. 2146, substituted “Repealed” for “Receipt or charge of commissions or gifts for farm loan, land bank, or small business transactions” in item 216.
+1984—Pub. L. 98–473, title II, § 1107(b), Oct. 12, 1984, 98 Stat. 2146, substituted “Repealed” for “Receipt or charge of commissions or gifts for farm loan, land bank, or small business transactions” in item 216.
 
-1978—Pub. L. 95–521, title V, § 501(b), Oct. 26, 1978, 92 Stat. 1867, struck out “in matters connected with former duties or official responsibilities” after “officers and employees” and inserted “of current officers and employees” after “partners of” in item 207.
+1978—Pub. L. 95–521, title V, § 501(b), Oct. 26, 1978, 92 Stat. 1867, struck out “in matters connected with former duties or official responsibilities” after “officers and employees” and inserted “of current officers and employees” after “partners of” in item 207.
 
-1966—Pub. L. 89–486, § 8(c)(2), July 4, 1966, 80 Stat. 249, added item 219.
+1966—Pub. L. 89–486, § 8(c)(2), July 4, 1966, 80 Stat. 249, added item 219.
 
-1964—Pub. L. 88–316, § 1(b), June 6, 1964, 78 Stat. 204, added item 224.
+1964—Pub. L. 88–316, § 1(b), June 6, 1964, 78 Stat. 204, added item 224.
 
-1962—Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1119, included conflicts of interests in chapter heading, and amended analysis generally to contain items 201 to 218. Prior to amendment, the analysis contained items 201 to 223.
+1962—Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1119, included conflicts of interests in chapter heading, and amended analysis generally to contain items 201 to 218. Prior to amendment, the analysis contained items 201 to 223.
 
-1958—Pub. L. 85–699, title VII, § 702(d), Aug. 21 1958, 72 Stat. 698, included small business transactions in item 221.
+1958—Pub. L. 85–699, title VII, § 702(d), Aug. 21 1958, 72 Stat. 698, included small business transactions in item 221.
 
-## § 201. Bribery of public officials and witnesses
+## § 201. Bribery of public officials and witnesses
 
 **(a)** For the purpose of this section—
 
@@ -101,7 +101,7 @@ shall be fined under this title or imprisoned for not more than two years, or bo
 
 **(e)** The offenses and penalties prescribed in this section are separate from and in addition to those prescribed in sections 1503, 1504, and 1505 of this title.
 
-(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1119; amended Pub. L. 91–405, title II, § 204(d)(1), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, § 46(a)–(*l*), Nov. 10, 1986, 100 Stat. 3601–3604; Pub. L. 103–322, title XXXIII, §§ 330011(b), 330016(2)(D), Sept. 13, 1994, 108 Stat. 2144, 2148; Pub. L. 118–31, div. E, title LI, § 5101, Dec. 22, 2023, 137 Stat. 931; Pub. L. 118–78, § 2(a), July 30, 2024, 138 Stat. 1512.)
+(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1119; amended Pub. L. 91–405, title II, § 204(d)(1), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, § 46(a)–(*l*), Nov. 10, 1986, 100 Stat. 3601–3604; Pub. L. 103–322, title XXXIII, §§ 330011(b), 330016(2)(D), Sept. 13, 1994, 108 Stat. 2144, 2148; Pub. L. 118–31, div. E, title LI, § 5101, Dec. 22, 2023, 137 Stat. 931; Pub. L. 118–78, § 2(a), July 30, 2024, 138 Stat. 1512.)
 
 **Editorial Notes**
 
@@ -111,47 +111,47 @@ A prior section 201, act June 25, 1948, ch. 645, 62 Stat. 691, prescribed penalt
 
 **Amendments**
 
-2024—Subsecs. (a)(4), (5), (f). Pub. L. 118–78, § 2(a), repealed Pub. L. 118–31, § 5101, and provided that each provision of law amended by that section is amended to read as it read on the day before the date of enactment. See 2023 Amendment notes below.
+2024—Subsecs. (a)(4), (5), (f). Pub. L. 118–78, § 2(a), repealed Pub. L. 118–31, § 5101, and provided that each provision of law amended by that section is amended to read as it read on the day before the date of enactment. See 2023 Amendment notes below.
 
-2023—Subsec. (a)(4), (5). Pub. L. 118–31, § 5101(1), which added pars. (4) and (5) providing definitions for “foreign official” and “public international organization”, respectively, was repealed by Pub. L. 118–78, § 2(a). See section 1352(a) of this title.
+2023—Subsec. (a)(4), (5). Pub. L. 118–31, § 5101(1), which added pars. (4) and (5) providing definitions for “foreign official” and “public international organization”, respectively, was repealed by Pub. L. 118–78, § 2(a). See section 1352(a) of this title.
 
-Subsec. (f). Pub. L. 118–31, § 5101(2), which added subsec. (f) relating to demands by foreign officials for bribes, was repealed by Pub. L. 118–78, § 2(a). See section 1352(b) of this title.
+Subsec. (f). Pub. L. 118–31, § 5101(2), which added subsec. (f) relating to demands by foreign officials for bribes, was repealed by Pub. L. 118–78, § 2(a). See section 1352(b) of this title.
 
-1994—Subsec. (b). Pub. L. 103–322, § 330016(2)(D), which directed the amendment of “section 201” by inserting “under this title or” after “be fined” and “whichever is greater,” before “or imprisoned”, was executed by making the insertions in text of last par. of subsec. (b), and not in last par. of subsec. (c), to reflect the probable intent of Congress.
+1994—Subsec. (b). Pub. L. 103–322, § 330016(2)(D), which directed the amendment of “section 201” by inserting “under this title or” after “be fined” and “whichever is greater,” before “or imprisoned”, was executed by making the insertions in text of last par. of subsec. (b), and not in last par. of subsec. (c), to reflect the probable intent of Congress.
 
-Pub. L. 103–322, § 330011(b)(A), amended Pub. L. 99–646, § 46(b)(1). See 1986 Amendment note below.
+Pub. L. 103–322, § 330011(b)(A), amended Pub. L. 99–646, § 46(b)(1). See 1986 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 103–322, § 330011(b), amended Pub. L. 99–646, § 46(b). See 1986 Amendment note below.
+Subsec. (b)(1). Pub. L. 103–322, § 330011(b), amended Pub. L. 99–646, § 46(b). See 1986 Amendment note below.
 
-1986—Pub. L. 99–646, § 46(*l*), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
+1986—Pub. L. 99–646, § 46(*l*), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
 
-Subsec. (a). Pub. L. 99–646, § 46(a), substituted “section—” for “section:”, designated provision defining “public official” as par. (1), inserted “the term” after “(1)”, and substituted “Delegate” for “Delegate from the District of Columbia”, “after such official has qualified” for “after he has qualified”, and “juror;” for “juror; and”; designated provision defining “person who has been selected to be a public official” as par. (2), inserted “the term” after “(2)”, and substituted “such person” for “he”; and designated provision defining “official act” as par. (3), inserted “the term” after “(3)”, and substituted “in such official’s official capacity, or in such official’s” for “in his official capacity, or in his”.
+Subsec. (a). Pub. L. 99–646, § 46(a), substituted “section—” for “section:”, designated provision defining “public official” as par. (1), inserted “the term” after “(1)”, and substituted “Delegate” for “Delegate from the District of Columbia”, “after such official has qualified” for “after he has qualified”, and “juror;” for “juror; and”; designated provision defining “person who has been selected to be a public official” as par. (2), inserted “the term” after “(2)”, and substituted “such person” for “he”; and designated provision defining “official act” as par. (3), inserted “the term” after “(3)”, and substituted “in such official’s official capacity, or in such official’s” for “in his official capacity, or in his”.
 
-Subsec. (b). Pub. L. 99–646, § 46(b)(1), as amended by Pub. L. 103–322, § 330011(b)(A), substituted “Whoever—” for “Whoever,” and inserted “(1)” before “directly”.
+Subsec. (b). Pub. L. 99–646, § 46(b)(1), as amended by Pub. L. 103–322, § 330011(b)(A), substituted “Whoever—” for “Whoever,” and inserted “(1)” before “directly”.
 
-Pub. L. 99–646, § 46(e)(5), redesignated the undesignated par. which followed former subsec. (e) as concluding par. of subsec. (b) and substituted “shall be fined not more than” for “Shall be fined not more than $20,000 or” and “thing of value,” for “thing of value, whichever is greater,”.
+Pub. L. 99–646, § 46(e)(5), redesignated the undesignated par. which followed former subsec. (e) as concluding par. of subsec. (b) and substituted “shall be fined not more than” for “Shall be fined not more than $20,000 or” and “thing of value,” for “thing of value, whichever is greater,”.
 
-Subsec. (b)(1). Pub. L. 99–646, § 46(b), as amended by Pub. L. 103–322, § 330011(b), redesignated former subsec. (b) as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, and in subpar. (C) substituted “the lawful duty of such official or person;” for “his lawful duty, or”.
+Subsec. (b)(1). Pub. L. 99–646, § 46(b), as amended by Pub. L. 103–322, § 330011(b), redesignated former subsec. (b) as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, and in subpar. (C) substituted “the lawful duty of such official or person;” for “his lawful duty, or”.
 
-Subsec. (b)(2). Pub. L. 99–646, § 46(c), redesignated former subsec. (c) as par. (2), struck out “Whoever,” before “being”, substituted “corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “corruptly asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, in subpar. (A) substituted “the performance” for “his performance” and struck out “or” after “act;”, and in subpar. (C) substituted “the official duty of such official or person;” for “his official duty; or”.
+Subsec. (b)(2). Pub. L. 99–646, § 46(c), redesignated former subsec. (c) as par. (2), struck out “Whoever,” before “being”, substituted “corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “corruptly asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and realigned their margins, in subpar. (A) substituted “the performance” for “his performance” and struck out “or” after “act;”, and in subpar. (C) substituted “the official duty of such official or person;” for “his official duty; or”.
 
-Subsec. (b)(3). Pub. L. 99–646, § 46(d), redesignated former subsec. (d) as par. (3) and substituted “directly” for “Whoever, directly” and “therefrom;” for “therefrom; or”.
+Subsec. (b)(3). Pub. L. 99–646, § 46(d), redesignated former subsec. (d) as par. (3) and substituted “directly” for “Whoever, directly” and “therefrom;” for “therefrom; or”.
 
-Subsec. (b)(4). Pub. L. 99–646, § 46(e), redesignated former subsec. (e) as par. (4), substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, “in testimony” for “in his testimony”, and “therefrom;” for “therefrom—”.
+Subsec. (b)(4). Pub. L. 99–646, § 46(e), redesignated former subsec. (e) as par. (4), substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, “in testimony” for “in his testimony”, and “therefrom;” for “therefrom—”.
 
-Subsec. (c). Pub. L. 99–646, § 46(f), (g)(1), (h)(1), (i)(1), redesignated former subsecs. (f) to (i) as subsec. (c)(1)(A), (B), (2), and (3), respectively. Former subsec. (c) redesignated (b)(2).
+Subsec. (c). Pub. L. 99–646, § 46(f), (g)(1), (h)(1), (i)(1), redesignated former subsecs. (f) to (i) as subsec. (c)(1)(A), (B), (2), and (3), respectively. Former subsec. (c) redesignated (b)(2).
 
-Pub. L. 99–646, § 46(i)(6), redesignated the undesignated par. which followed former subsec. (i) as concluding par. of subsec. (c) and substituted “shall be fined under this title” for “Shall be fined not more than $10,000”.
+Pub. L. 99–646, § 46(i)(6), redesignated the undesignated par. which followed former subsec. (i) as concluding par. of subsec. (c) and substituted “shall be fined under this title” for “Shall be fined not more than $10,000”.
 
-Subsec. (c)(1). Pub. L. 99–646, § 46(f), (g), redesignated former subsec. (f) as par. (1) and substituted “(1) otherwise” for “, otherwise” and “(A) directly” for “, directly”, redesignated former subsec. (g) as subpar. (B) and substituted “being” for “Whoever, being”, “indirectly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “indirectly asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, and “by such official or person;” for “by him; or”.
+Subsec. (c)(1). Pub. L. 99–646, § 46(f), (g), redesignated former subsec. (f) as par. (1) and substituted “(1) otherwise” for “, otherwise” and “(A) directly” for “, directly”, redesignated former subsec. (g) as subpar. (B) and substituted “being” for “Whoever, being”, “indirectly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally” for “indirectly asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive anything of value for himself”, and “by such official or person;” for “by him; or”.
 
-Subsec. (c)(2). Pub. L. 99–646, § 46(h), redesignated former subsec. (h) as par. (2) and substituted “directly” for “Whoever, directly” and “such person’s absence therefrom;” for “his absence therefrom; or”.
+Subsec. (c)(2). Pub. L. 99–646, § 46(h), redesignated former subsec. (h) as par. (2) and substituted “directly” for “Whoever, directly” and “such person’s absence therefrom;” for “his absence therefrom; or”.
 
-Subsec. (c)(3). Pub. L. 99–646, § 46(i), redesignated former subsec. (i) as par. (3) and substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive”, “personally” for “for himself”, “by such person” for “by him”, and “such person’s absence therefrom;” for “his absence therefrom—”.
+Subsec. (c)(3). Pub. L. 99–646, § 46(i), redesignated former subsec. (i) as par. (3) and substituted “directly” for “Whoever, directly”, “demands, seeks, receives, accepts, or agrees to receive or accept” for “asks, demands, exacts, solicits, seeks, accepts, receives, or agrees to receive”, “personally” for “for himself”, “by such person” for “by him”, and “such person’s absence therefrom;” for “his absence therefrom—”.
 
-Subsec. (d). Pub. L. 99–646, § 46(j), redesignated former subsec. (j) as (d), substituted “Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c)” for “Subsections (d), (e), (h), and (i)” and struck out “involving a technical or professional opinion,” after “expert witnesses,”. Former subsec. (d) redesignated (b)(3).
+Subsec. (d). Pub. L. 99–646, § 46(j), redesignated former subsec. (j) as (d), substituted “Paragraphs (3) and (4) of subsection (b) and paragraphs (2) and (3) of subsection (c)” for “Subsections (d), (e), (h), and (i)” and struck out “involving a technical or professional opinion,” after “expert witnesses,”. Former subsec. (d) redesignated (b)(3).
 
-Subsecs. (e) to (k). Pub. L. 99–646, § 46(f)–(k), redesignated former subsecs. (e) to (k) as (b)(4), (c)(1)(A), (B), (2), (3), (d), and (e), respectively.
+Subsecs. (e) to (k). Pub. L. 99–646, § 46(f)–(k), redesignated former subsecs. (e) to (k) as (b)(4), (c)(1)(A), (B), (2), (3), (d), and (e), respectively.
 
 1970—Subsec. (a). Pub. L. 91–405 included Delegate from District of Columbia in definition of “public official”.
 
@@ -159,11 +159,11 @@ Subsecs. (e) to (k). Pub. L. 99–646, § 46(f)–(k), redesignated former sub
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330011(b), Sept. 13, 1994, 108 Stat. 2144, provided that the amendment made by that section is effective as of the date on which section 46(b) of Pub. L. 99–646 took effect.
+Pub. L. 103–322, title XXXIII, § 330011(b), Sept. 13, 1994, 108 Stat. 2144, provided that the amendment made by that section is effective as of the date on which section 46(b) of Pub. L. 99–646 took effect.
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–646, § 46(m), Nov. 10, 1986, 100 Stat. 3604, provided that: “The amendments made by this section [amending this section] shall take effect 30 days after the date of enactment of this Act [Nov. 10, 1986].”
+Pub. L. 99–646, § 46(m), Nov. 10, 1986, 100 Stat. 3604, provided that: “The amendments made by this section [amending this section] shall take effect 30 days after the date of enactment of this Act [Nov. 10, 1986].”
 
 **Effective Date of 1970 Amendment**
 
@@ -171,19 +171,19 @@ Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pu
 
 **Effective Date**
 
-Pub. L. 87–849, § 4, Oct. 23, 1962, 76 Stat. 1126, provided that: “This Act [enacting this section and sections 202 to 209 and 218 of this title, redesignating sections 214, 215, 217 to 222 as 210, 211, 212 to 217 of this title respectively, repealing sections 223, 282, 284, 434, and 1914 of this title, and section 99 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provisions set out as notes under section 281 and 282 of this title] shall take effect ninety days after the date of its enactment [Oct. 23, 1962]”.
+Pub. L. 87–849, § 4, Oct. 23, 1962, 76 Stat. 1126, provided that: “This Act [enacting this section and sections 202 to 209 and 218 of this title, redesignating sections 214, 215, 217 to 222 as 210, 211, 212 to 217 of this title respectively, repealing sections 223, 282, 284, 434, and 1914 of this title, and section 99 of former Title 5, Executive Departments and Government Officers and Employees, and enacting provisions set out as notes under section 281 and 282 of this title] shall take effect ninety days after the date of its enactment [Oct. 23, 1962]”.
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–198, § 1, Dec. 19, 2003, 117 Stat. 2899, provided that: “This Act [enacting sections 212 and 213 of this title and repealing former sections 212 and 213 of this title] may be cited as the ‘Preserving Independence of Financial Institution Examinations Act of 2003’.”
+Pub. L. 108–198, § 1, Dec. 19, 2003, 117 Stat. 2899, provided that: “This Act [enacting sections 212 and 213 of this title and repealing former sections 212 and 213 of this title] may be cited as the ‘Preserving Independence of Financial Institution Examinations Act of 2003’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–177, § 1, Aug. 6, 1996, 110 Stat. 1563, provided that: “This Act [amending section 205 of this title] may be cited as the ‘Federal Employee Representation Improvement Act of 1996’.”
+Pub. L. 104–177, § 1, Aug. 6, 1996, 110 Stat. 1563, provided that: “This Act [amending section 205 of this title] may be cited as the ‘Federal Employee Representation Improvement Act of 1996’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–370, § 1, Aug. 4, 1986, 100 Stat. 779, provided that: “This Act [amending section 215 of this title and enacting provisions set out as a note under section 215 of this title] may be cited as the ‘Bank Bribery Amendments Act of 1985’.”
+Pub. L. 99–370, § 1, Aug. 4, 1986, 100 Stat. 779, provided that: “This Act [amending section 215 of this title and enacting provisions set out as a note under section 215 of this title] may be cited as the ‘Bank Bribery Amendments Act of 1985’.”
 
 **Executive Documents**
 
@@ -217,7 +217,7 @@ The Act accomplished its revisions by enacting new sections 203, 205, 207, 208 a
 
 **Special Government Employees [New 18 U.S.C. 202(a)]**
 
-In the main the prior conflict of interest laws imposed the same restrictions on individuals who serve the Government intermittently or for a short period of time as on those who serve full-time. The consequences of this generalized treatment were pointed out in the following paragraph of the Senate Judiciary Committee report on the bill which became Public Law 87–849: <sup>3</sup>
+In the main the prior conflict of interest laws imposed the same restrictions on individuals who serve the Government intermittently or for a short period of time as on those who serve full-time. The consequences of this generalized treatment were pointed out in the following paragraph of the Senate Judiciary Committee report on the bill which became Public Law 87–849: <sup>3</sup>
 
 In considering the application of present law in relation to the Government’s utilization of temporary or intermittent consultants and advisers, it must be emphasized that most of the existing conflict-of-interest statutes were enacted in the 19th century—that is, at a time when persons outside the Government rarely served it in this way. The laws were therefore directed at activities of regular Government employees, and their present impact on the occasionally needed experts—those whose main work is performed outside the Government—is unduly severe. This harsh impact constitutes an appreciable deterrent to the Government’s obtaining needed part-time services.
 
@@ -233,7 +233,7 @@ A regular officer or employee of the Government—that is, one appointed or empl
 
 \3. He may not, after his Government employment has ended, represent anyone other than the United States in connection with a matter in which the United States is a party or has an interest and in which he participated personally and substantially for the Government (18 U.S.C. 207(a)).
 
-\4. He may not, for 1 year after his Government employment has ended, represent anyone other than the United States in connection with a matter in which the United States is a party or has an interest and which was within the boundaries of his official responsibilities <sup>4</sup> during the last year of his Government service (18 U.S.C. 207(b)). This temporary restraint of course gives way to the permanent restraint described in paragraph 3 if the matter is one in which he participated personally and substantially.
+\4. He may not, for 1 year after his Government employment has ended, represent anyone other than the United States in connection with a matter in which the United States is a party or has an interest and which was within the boundaries of his official responsibilities <sup>4</sup> during the last year of his Government service (18 U.S.C. 207(b)). This temporary restraint of course gives way to the permanent restraint described in paragraph 3 if the matter is one in which he participated personally and substantially.
 
 \5. He may not receive any salary, or supplementation of his Government salary, from a private source as compensation for his services to the Government (18 U.S.C. 209).
 
@@ -313,7 +313,7 @@ Subsection (a) in substance requires an officer or employee of the executive bra
 
 Subsection (b) permits the agency of an officer or employee to grant him an *ad hoc* exemption from subsection (a) if the outside financial interest in a matter is deemed not substantial enough to have an effect on the integrity of his services. Financial interests of this kind may also be made nondisqualifying by a general regulation published in the Federal Register.
 
-Section 208 is similar in purpose to the former 18 U.S.C. 434 but prohibits a greater variety of conduct than the “transaction of business with \* \* \* [a] business entity” to which the prohibition of section 434 was limited. In addition, the provision in section 208 including the interests of a spouse and others is new, as is the provision authorizing exemptions for insignificant interest.
+Section 208 is similar in purpose to the former 18 U.S.C. 434 but prohibits a greater variety of conduct than the “transaction of business with \* \* \* [a] business entity” to which the prohibition of section 434 was limited. In addition, the provision in section 208 including the interests of a spouse and others is new, as is the provision authorizing exemptions for insignificant interest.
 
 *New 18 U.S.C. 209*. Subsection (a) prevents an officer or employee of the executive branch, an independent agency or the District of Columbia from receiving, and anyone from paying him, any salary or supplementation of salary from a private source as compensation for his services to the Government. This provision uses much of the language of the former 18 U.S.C. 1914 and does not vary from that statute in substance. The remainder of section 209 is new.
 
@@ -375,25 +375,25 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
 **Footnotes**
 
-<sup>1</sup> Section 190 of the Revised Statutes (5 U.S.C. 99), which was repealed by section 3 of Public Law 87–849, applied to a former officer or employee of the Government who had served in a department of the executive branch. It prohibited him, for a period of two years after his employment had ceased, from representing anyone in the prosecution of a claim against the United States which was pending in that or any other executive department during his period of employment. The subject of post-employment activities of former Government officers and employees was also dealt with in another statute which was repealed, 18 U.S.C. 284. Public Law 87–849 covers the subject in a single section enacted as the new 18 U.S.C. 207.
+<sup>1</sup> Section 190 of the Revised Statutes (5 U.S.C. 99), which was repealed by section 3 of Public Law 87–849, applied to a former officer or employee of the Government who had served in a department of the executive branch. It prohibited him, for a period of two years after his employment had ceased, from representing anyone in the prosecution of a claim against the United States which was pending in that or any other executive department during his period of employment. The subject of post-employment activities of former Government officers and employees was also dealt with in another statute which was repealed, 18 U.S.C. 284. Public Law 87–849 covers the subject in a single section enacted as the new 18 U.S.C. 207.
 
 18 U.S.C. 216, which was repealed by section 1(c) of Public Law 87–849, prohibited the payment to or acceptance by a Member of Congress or officer or employee of the Government of any money or thing of value for giving or procuring a Government contract. Since this offense is within the scope of the newly enacted 18 U.S.C. 201 and 18 U.S.C. 203, relating to bribery and conflicts of interest, respectively, section 216 is no longer necessary.
 
-<sup>2</sup> See section 2 of Public Law 87–849. 18 U.S.C. 281 and 18 U.S.C. 283 were not completely set aside by section 2 but remain in effect to the extent that they apply to retired officers of the Armed Forces (see “Retired Officers of the Armed Forces,” *infra*).
+<sup>2</sup> See section 2 of Public Law 87–849. 18 U.S.C. 281 and 18 U.S.C. 283 were not completely set aside by section 2 but remain in effect to the extent that they apply to retired officers of the Armed Forces (see “Retired Officers of the Armed Forces,” *infra*).
 
-<sup>3</sup> S. Rept. 2213, 87th Cong., 2d sess., p. 6.
+<sup>3</sup> S. Rept. 2213, 87th Cong., 2d sess., p. 6.
 
-<sup>4</sup> The term “official responsibility” is defined by the new 18 U.S.C. 202(b) to mean “the direct administrative or operating authority, whether intermediate or final, and either exercisable alone or with others, and either personally or through subordinates, to approve, disapprove, or otherwise direct Government action.”
+<sup>4</sup> The term “official responsibility” is defined by the new 18 U.S.C. 202(b) to mean “the direct administrative or operating authority, whether intermediate or final, and either exercisable alone or with others, and either personally or through subordinates, to approve, disapprove, or otherwise direct Government action.”
 
-<sup>5</sup> These two provisions of section 205 refer to an “officer or employee” and not, as do certain of the other provisions of the Act, to an “officer or employee, including a special Government employee.” However, it is plain from the definition in section 202(a) that a special Government employee is embraced within the comprehensive term “officer or employee.” There would seem to be little doubt, therefore, that the instant provisions of section 205 apply to special Government employees even in the absence of an explicit reference to them.
+<sup>5</sup> These two provisions of section 205 refer to an “officer or employee” and not, as do certain of the other provisions of the Act, to an “officer or employee, including a special Government employee.” However, it is plain from the definition in section 202(a) that a special Government employee is embraced within the comprehensive term “officer or employee.” There would seem to be little doubt, therefore, that the instant provisions of section 205 apply to special Government employees even in the absence of an explicit reference to them.
 
-<sup>6</sup> The prohibitions of the two subsections apply to persons ending service in these areas whether they leave the Government entirely or move to the legislative or judicial branch. As a practical matter, however, the prohibitions would rarely be significant in the latter situation because officers and employees of the legislative and judicial branches are covered by sections 203 and 205.
+<sup>6</sup> The prohibitions of the two subsections apply to persons ending service in these areas whether they leave the Government entirely or move to the legislative or judicial branch. As a practical matter, however, the prohibitions would rarely be significant in the latter situation because officers and employees of the legislative and judicial branches are covered by sections 203 and 205.
 
-<sup>7</sup> Neither section 203 nor section 205 prevents a special Government employee, during his period of affiliation with the Government, from representing another person before the Government in a particular matter only because it is within his official responsibility. Therefore the inclusion of a *former* special Government employee within the 1-year postemployment ban of subsection (b) may subject him to a temporary restraint from which he was free prior to the end of his Government service. However, since special Government employees usually do not have “official responsibility,” as that term is defined in section 202(b), their inclusion within the 1-year ban will not have a widespread effect.
+<sup>7</sup> Neither section 203 nor section 205 prevents a special Government employee, during his period of affiliation with the Government, from representing another person before the Government in a particular matter only because it is within his official responsibility. Therefore the inclusion of a *former* special Government employee within the 1-year postemployment ban of subsection (b) may subject him to a temporary restraint from which he was free prior to the end of his Government service. However, since special Government employees usually do not have “official responsibility,” as that term is defined in section 202(b), their inclusion within the 1-year ban will not have a widespread effect.
 
-<sup>8</sup> Subsection (a), as it first appeared in H.R. 8140, the bill which became Public Law 87–849, made it unlawful for a former officer or employee to act as agent or attorney for, *or aid or assist*, anyone in a matter in which he had participated. The House Judiciary Committee struck the underlined words, and the bill became law without them. It should be noted also that the repealed provisions of 18 U.S.C. 283 made the distinction between one’s acting as agent or attorney for another and his aiding or assisting another.
+<sup>8</sup> Subsection (a), as it first appeared in H.R. 8140, the bill which became Public Law 87–849, made it unlawful for a former officer or employee to act as agent or attorney for, *or aid or assist*, anyone in a matter in which he had participated. The House Judiciary Committee struck the underlined words, and the bill became law without them. It should be noted also that the repealed provisions of 18 U.S.C. 283 made the distinction between one’s acting as agent or attorney for another and his aiding or assisting another.
 
-## § 202. Definitions
+## § 202. Definitions
 
 **(a)** For the purpose of sections 203, 205, 207, 208, and 209 of this title the term “special Government employee” shall mean an officer or employee of the executive or legislative branch of the United States Government, of any independent agency of the United States or of the District of Columbia, who is retained, designated, appointed, or employed to perform, with or without compensation, for not to exceed one hundred and thirty days during any period of three hundred and sixty-five consecutive days, temporary duties either on a full-time or intermittent basis, a part-time United States commissioner, a part-time United States magistrate judge, or, regardless of the number of days of appointment, an independent counsel appointed under chapter 40 of title 28 and any person appointed by that independent counsel under section 594(c) of title 28. Notwithstanding the next preceding sentence, every person serving as a part-time local representative of a Member of Congress in the Member’s home district or State shall be classified as a special Government employee. Notwithstanding sections 502, 2105(d), and 5534 of title 5, a Reserve officer of the Armed Forces, an officer of the Space Force not serving on sustained duty pursuant to section 20105 of title 10, or an officer of the National Guard of the United States, unless otherwise an officer or employee of the United States, shall be classified as a special Government employee while on active duty solely for training. Such an officer who is voluntarily serving a period of extended active duty in excess of one hundred and thirty days shall be classified as an officer of the United States within the meaning of section 203 and sections 205 through 209 and 218. Such an officer who is serving involuntarily shall be classified as a special Government employee. The terms “officer or employee” and “special Government employee” as used in sections 203, 205, 207 through 209, and 218, shall not include enlisted members of the Armed Forces.
 
@@ -419,7 +419,7 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
 **(B)** the Office of the Architect of the Capitol, the United States Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, the Congressional Budget Office, the United States Capitol Police, and any other agency, entity, office, or commission established in the legislative branch.
 
-(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 90–578, title III, § 301(b), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 100–191, § 3(a), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 101–194, title IV, § 401, Nov. 30, 1989, 103 Stat. 1747; Pub. L. 101–280, § 5(a), May 4, 1990, 104 Stat. 158; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, § 924(d)(1)(B), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 118–159, div. A, title V, § 568(a), (c), Dec. 23, 2024, 138 Stat. 1905, 1906.)
+(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 90–578, title III, § 301(b), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 100–191, § 3(a), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 101–194, title IV, § 401, Nov. 30, 1989, 103 Stat. 1747; Pub. L. 101–280, § 5(a), May 4, 1990, 104 Stat. 158; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, § 924(d)(1)(B), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 118–159, div. A, title V, § 568(a), (c), Dec. 23, 2024, 138 Stat. 1905, 1906.)
 
 **Editorial Notes**
 
@@ -429,9 +429,9 @@ A prior section 202, act June 25, 1948, ch. 645, 62 Stat. 691, prescribed penalt
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–159, § 568(c), substituted “sections 502, 2105(d), and 5534 of title 5” for “section 29(c) and (d) of the Act of August 10, 1956 (70A Stat. 632; 5 U.S.C. 30r(c) and (d))”.
+2024—Subsec. (a). Pub. L. 118–159, § 568(c), substituted “sections 502, 2105(d), and 5534 of title 5” for “section 29(c) and (d) of the Act of August 10, 1956 (70A Stat. 632; 5 U.S.C. 30r(c) and (d))”.
 
-Pub. L. 118–159, § 568(a), inserted “an officer of the Space Force not serving on sustained duty pursuant to section 20105 of title 10,” after “of the Armed Forces,” in third sentence and substituted “Such an officer who is” for “A Reserve officer of the Armed Forces or an officer of the National Guard of the United States who is” in fourth and fifth sentences.
+Pub. L. 118–159, § 568(a), inserted “an officer of the Space Force not serving on sustained duty pursuant to section 20105 of title 10,” after “of the Armed Forces,” in third sentence and substituted “Such an officer who is” for “A Reserve officer of the Armed Forces or an officer of the National Guard of the United States who is” in fourth and fifth sentences.
 
 2004—Subsec. (e)(3)(B). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -439,15 +439,15 @@ Pub. L. 118–159, § 568(a), inserted “an officer of the Space Force not se
 
 1992—Subsec. (e)(2). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1990—Subsec. (c). Pub. L. 101–280, § 5(a)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except as otherwise provided in such sections, the terms ‘officer’ and ‘employee’ in sections 203, 205, 207, 208, and 209 of this title, mean those individuals defined in sections 2104 and 2105 of title 5. The terms ‘officer’ and ‘employee’ shall not include the President, the Vice President, a Member of Congress, or a Federal judge.”
+1990—Subsec. (c). Pub. L. 101–280, § 5(a)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except as otherwise provided in such sections, the terms ‘officer’ and ‘employee’ in sections 203, 205, 207, 208, and 209 of this title, mean those individuals defined in sections 2104 and 2105 of title 5. The terms ‘officer’ and ‘employee’ shall not include the President, the Vice President, a Member of Congress, or a Federal judge.”
 
-Subsec. (d). Pub. L. 101–280, § 5(a)(2), substituted “means” for “shall include”.
+Subsec. (d). Pub. L. 101–280, § 5(a)(2), substituted “means” for “shall include”.
 
-Subsec. (e)(1). Pub. L. 101–280, § 5(a)(3)(1), substituted “includes each” for “means any”.
+Subsec. (e)(1). Pub. L. 101–280, § 5(a)(3)(1), substituted “includes each” for “means any”.
 
-Subsec. (e)(3)(A). Pub. L. 101–280, § 5(a)(3)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a Member of Congress, or any officer or employee of the United States Senate or United States House of Representatives; and”.
+Subsec. (e)(3)(A). Pub. L. 101–280, § 5(a)(3)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a Member of Congress, or any officer or employee of the United States Senate or United States House of Representatives; and”.
 
-Subsec. (e)(3)(B). Pub. L. 101–280, § 5(a)(3)(2)(B), substituted “the Office” for “an officer or employee”.
+Subsec. (e)(3)(B). Pub. L. 101–280, § 5(a)(3)(2)(B), substituted “the Office” for “an officer or employee”.
 
 1989—Subsecs. (c) to (e). Pub. L. 101–194 added subsecs. (c) to (e).
 
@@ -479,7 +479,7 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 
 Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as a note under section 201 of this title.
 
-## § 203. Compensation to Members of Congress, officers, and others in matters affecting the Government
+## § 203. Compensation to Members of Congress, officers, and others in matters affecting the Government
 
 **(a)** Whoever, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly—
 
@@ -521,7 +521,7 @@ subject to approval by the Government official responsible for appointment to hi
 
 **(f)** Nothing in this section prevents an individual from giving testimony under oath or from making statements required to be made under penalty of perjury.
 
-(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 91–405, title II, § 204(d)(2), (3), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, § 47(a), Nov. 10, 1986, 100 Stat. 3604; Pub. L. 101–194, title IV, § 402, Nov. 30, 1989, 103 Stat. 1748; Pub. L. 101–280, § 5(b), May 4, 1990, 104 Stat. 159.)
+(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1121; amended Pub. L. 91–405, title II, § 204(d)(2), (3), Sept. 22, 1970, 84 Stat. 853; Pub. L. 99–646, § 47(a), Nov. 10, 1986, 100 Stat. 3604; Pub. L. 101–194, title IV, § 402, Nov. 30, 1989, 103 Stat. 1748; Pub. L. 101–280, § 5(b), May 4, 1990, 104 Stat. 159.)
 
 **Editorial Notes**
 
@@ -533,47 +533,47 @@ Provisions similar to those comprising this section were contained in section 28
 
 **Amendments**
 
-1990—Subsec. (a)(1)(B). Pub. L. 101–280, § 5(b)(1), inserted “or Federal judge” after “employee”.
+1990—Subsec. (a)(1)(B). Pub. L. 101–280, § 5(b)(1), inserted “or Federal judge” after “employee”.
 
-Subsec. (a)(2). Pub. L. 101–280, § 5(b)(2), inserted “Commissioner Elect, Federal judge,” after “Commissioner,”.
+Subsec. (a)(2). Pub. L. 101–280, § 5(b)(2), inserted “Commissioner Elect, Federal judge,” after “Commissioner,”.
 
-Subsec. (b)(2). Pub. L. 101–280, § 5(b)(3), inserted “representational” before “services”.
+Subsec. (b)(2). Pub. L. 101–280, § 5(b)(3), inserted “representational” before “services”.
 
-Subsec. (d)(1). Pub. L. 101–280, § 5(b)(4), substituted “Government employee or as a special Government employee” for “Government employee,”.
+Subsec. (d)(1). Pub. L. 101–280, § 5(b)(4), substituted “Government employee or as a special Government employee” for “Government employee,”.
 
-Subsec. (f). Pub. L. 101–280, § 5(b)(5), added subsec. (f).
+Subsec. (f). Pub. L. 101–280, § 5(b)(5), added subsec. (f).
 
-1989—Subsec. (a). Pub. L. 101–194, § 402(3), in concluding provisions, substituted “shall be subject to the penalties set forth in section 216 of this title” for “shall be fined under this title or imprisoned for not more than two years, or both; and shall be incapable of holding any office of honor, trust, or profit under the United States”.
+1989—Subsec. (a). Pub. L. 101–194, § 402(3), in concluding provisions, substituted “shall be subject to the penalties set forth in section 216 of this title” for “shall be fined under this title or imprisoned for not more than two years, or both; and shall be incapable of holding any office of honor, trust, or profit under the United States”.
 
-Subsec. (a)(1). Pub. L. 101–194, § 402(1), (2), (7), in introductory provisions, substituted “representational services, as agent or attorney or otherwise,” for “services”, in concluding provisions, inserted “court,” after “department, agency,” and in subpar. (B), struck out “including the District of Columbia,” after “agency of the United States”.
+Subsec. (a)(1). Pub. L. 101–194, § 402(1), (2), (7), in introductory provisions, substituted “representational services, as agent or attorney or otherwise,” for “services”, in concluding provisions, inserted “court,” after “department, agency,” and in subpar. (B), struck out “including the District of Columbia,” after “agency of the United States”.
 
-Subsec. (a)(2). Pub. L. 101–194, § 402(4)–(6), inserted “representational” before “services”, “Member Elect,” after “Member,” and “Delegate Elect,” after “Delegate,”.
+Subsec. (a)(2). Pub. L. 101–194, § 402(4)–(6), inserted “representational” before “services”, “Member Elect,” after “Member,” and “Delegate Elect,” after “Delegate,”.
 
-Subsec. (b). Pub. L. 101–194, § 402(9), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 101–194, § 402(9), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 101–194, § 402(8), redesignated subsec. (b) as (c) and substituted “subsections (a) and (b)” for “subsection (a)”.
+Subsec. (c). Pub. L. 101–194, § 402(8), redesignated subsec. (b) as (c) and substituted “subsections (a) and (b)” for “subsection (a)”.
 
-Subsecs. (d), (e). Pub. L. 101–194, § 402(10), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 101–194, § 402(10), added subsecs. (d) and (e).
 
-1986—Pub. L. 99–646, § 47(a)(3)(D), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
+1986—Pub. L. 99–646, § 47(a)(3)(D), provided for alignment of margins of each subsection, paragraph, and subparagraph of this section.
 
-Subsec. (a). Pub. L. 99–646, § 47(a)(1), (2), substituted “indirectly—” for “indirectly” in introductory provisions, redesignated the undesignated par. which followed former subsec. (b) as concluding par. of subsec. (a), and substituted “shall be fined under this title” for “Shall be fined not more than $10,000”.
+Subsec. (a). Pub. L. 99–646, § 47(a)(1), (2), substituted “indirectly—” for “indirectly” in introductory provisions, redesignated the undesignated par. which followed former subsec. (b) as concluding par. of subsec. (a), and substituted “shall be fined under this title” for “Shall be fined not more than $10,000”.
 
-Subsec. (a)(1). Pub. L. 99–646, § 47(a)(1), substituted “(1) demands, seeks, receives, accepts, or agrees to receive or accept any” for “receives or agrees to receive, or asks, demands, solicits, or seeks, any” and “personally or by” for “by himself or”, redesignated former par. (1) as subpar. (A) and substituted “such person” for “he” and “Delegate, Delegate Elect” for “Delegate from the District of Columbia, Delegate Elect from the District of Columbia”, redesignated former par. (2) as subpar. (B) and substituted “such person” for “he”, and in closing provisions substituted “commission; or” for “commission, or”.
+Subsec. (a)(1). Pub. L. 99–646, § 47(a)(1), substituted “(1) demands, seeks, receives, accepts, or agrees to receive or accept any” for “receives or agrees to receive, or asks, demands, solicits, or seeks, any” and “personally or by” for “by himself or”, redesignated former par. (1) as subpar. (A) and substituted “such person” for “he” and “Delegate, Delegate Elect” for “Delegate from the District of Columbia, Delegate Elect from the District of Columbia”, redesignated former par. (2) as subpar. (B) and substituted “such person” for “he”, and in closing provisions substituted “commission; or” for “commission, or”.
 
-Subsec. (a)(2). Pub. L. 99–646, § 47(a)(2), redesignated former subsec. (b) as par. (2) and substituted “knowingly gives” for “Whoever, knowingly, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly gives” and “employee;” for “employee—”.
+Subsec. (a)(2). Pub. L. 99–646, § 47(a)(2), redesignated former subsec. (b) as par. (2) and substituted “knowingly gives” for “Whoever, knowingly, otherwise than as provided by law for the proper discharge of official duties, directly or indirectly gives” and “employee;” for “employee—”.
 
-Subsecs. (b), (c). Pub. L. 99–646, § 47(a)(3), (4), redesignated former subsec. (c) as (b) and substituted “parties—” for “parties”, “such employee” for “he”, “otherwise; or” for “otherwise, or”, and “in which such employee is serving except that paragraph (2) of this subsection” for “in which he is serving: *Provided*, That clause (2)”. Former subsec. (b) redesignated (a)(2).
+Subsecs. (b), (c). Pub. L. 99–646, § 47(a)(3), (4), redesignated former subsec. (c) as (b) and substituted “parties—” for “parties”, “such employee” for “he”, “otherwise; or” for “otherwise, or”, and “in which such employee is serving except that paragraph (2) of this subsection” for “in which he is serving: *Provided*, That clause (2)”. Former subsec. (b) redesignated (a)(2).
 
-1970—Subsec. (a)(1). Pub. L. 91–405, § 204(d)(2), included references to Delegate from District of Columbia and Delegate Elect from District of Columbia.
+1970—Subsec. (a)(1). Pub. L. 91–405, § 204(d)(2), included references to Delegate from District of Columbia and Delegate Elect from District of Columbia.
 
-Subsec. (b). Pub. L. 91–405, § 204(d)(3), included reference to Delegate.
+Subsec. (b). Pub. L. 91–405, § 204(d)(3), included reference to Delegate.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–646, § 47(b), Nov. 10, 1986, 100 Stat. 3605, provided that: “The amendments made by this section [amending this section] shall take effect 30 days after the date of enactment of this Act [Nov. 10, 1986].”
+Pub. L. 99–646, § 47(b), Nov. 10, 1986, 100 Stat. 3605, provided that: “The amendments made by this section [amending this section] shall take effect 30 days after the date of enactment of this Act [Nov. 10, 1986].”
 
 **Effective Date of 1970 Amendment**
 
@@ -585,11 +585,11 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 **Exemptions**
 
-Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126, provided in part that: “All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act [see Effective Date note under section 201 of this title] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, as to whom they are no longer applicable.”
+Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126, provided in part that: “All exemptions from the provisions of sections 281, 282, 283, 284, 434, or 1914 of title 18 of the United States Code heretofore created or authorized by statute which are in force on the effective date of this Act [see Effective Date note under section 201 of this title] shall, on and after that date, be deemed to be exemptions from sections 203, 204, 205, 207, 208, or 209, respectively, of title 18 of the United States Code except to the extent that they affect officers or employees of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, as to whom they are no longer applicable.”
 
 **Private Sector Representatives on United States Delegations to International Telecommunications Meetings and Conferences**
 
-Pub. L. 97–241, title I, § 120, Aug. 24, 1982, 96 Stat. 280, provided that:
+Pub. L. 97–241, title I, § 120, Aug. 24, 1982, 96 Stat. 280, provided that:
 
 > **“(a)** Sections 203, 205, 207, and 208 of title 18, United States Code, shall not apply to a private sector representative on the United States delegation to an international telecommunications meeting or conference who is specifically designated to speak on behalf of or otherwise represent the interests of the United States at such meeting or conference with respect to a particular matter, if the Secretary of State (or the Secretary’s designee) certifies that no Government employee on the delegation is as well qualified to represent United States interests with respect to such matter and that such designation serves the national interest. All such representatives shall have on file with the Department of State the financial disclosure report required for special Government employees.
 
@@ -603,11 +603,11 @@ Authority of President under subsec. (d) of this section to grant exemptions or 
 
 Authority of President under subsec. (d) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to President, see section 402 of Ex Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5.
 
-## § 204. Practice in United States Court of Federal Claims or the United States Court of Appeals for the Federal Circuit by Members of Congress
+## § 204. Practice in United States Court of Federal Claims or the United States Court of Appeals for the Federal Circuit by Members of Congress
 
 Whoever, being a Member of Congress or Member of Congress Elect, practices in the United States Court of Federal Claims or the United States Court of Appeals for the Federal Circuit shall be subject to the penalties set forth in section 216 of this title.
 
-(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1122; amended Pub. L. 91–405, title II, § 204(d)(2), Sept. 22, 1970, 84 Stat. 853; Pub. L. 97–164, title I, § 147, Apr. 2, 1982, 96 Stat. 45; Pub. L. 101–194, title IV, § 403, Nov. 30, 1989, 103 Stat. 1749; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1122; amended Pub. L. 91–405, title II, § 204(d)(2), Sept. 22, 1970, 84 Stat. 853; Pub. L. 97–164, title I, § 147, Apr. 2, 1982, 96 Stat. 45; Pub. L. 101–194, title IV, § 403, Nov. 30, 1989, 103 Stat. 1749; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -649,7 +649,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 Exemptions from former section 282 of this title deemed to be exemptions from this section, see section 2 of Pub. L. 87–849, set out as a note under section 203 of this title.
 
-## § 205. Activities of officers and employees in claims against and other matters affecting the Government
+## § 205. Activities of officers and employees in claims against and other matters affecting the Government
 
 **(a)** Whoever, being an officer or employee of the United States in the executive, legislative, or judicial branch of the Government or in any agency of the United States, other than in the proper discharge of his official duties—
 
@@ -717,13 +717,13 @@ subject to approval by the Government official responsible for appointment to hi
 
 **(5)** any provision of any other Federal or District of Columbia law that authorizes labor-management relations between an agency or instrumentality of the United States or the District of Columbia and any labor organization that represents its employees.
 
-(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1122; amended Pub. L. 101–194, title IV, § 404, Nov. 30, 1989, 103 Stat. 1750; Pub. L. 101–280, § 5(c), May 4, 1990, 104 Stat. 159; Pub. L. 104–177, § 2, Aug. 6, 1996, 110 Stat. 1563; Pub. L. 107–273, div. B, title IV, § 4002(a)(9), Nov. 2, 2002, 116 Stat. 1807.)
+(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1122; amended Pub. L. 101–194, title IV, § 404, Nov. 30, 1989, 103 Stat. 1750; Pub. L. 101–280, § 5(c), May 4, 1990, 104 Stat. 159; Pub. L. 104–177, § 2, Aug. 6, 1996, 110 Stat. 1563; Pub. L. 107–273, div. B, title IV, § 4002(a)(9), Nov. 2, 2002, 116 Stat. 1807.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Service Act of 1980, referred to in subsec. (i)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 10 of title I of the Act is classified generally to subchapter X (§ 4101 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (i)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 10 of title I of the Act is classified generally to subchapter X (§ 4101 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 **Prior Provisions**
 
@@ -735,13 +735,13 @@ Provisions similar to those comprising this section were contained in section 28
 
 2002—Subsec. (d)(1)(B). Pub. L. 107–273 substituted “group’s” for “groups’s”.
 
-1996—Subsec. (d). Pub. L. 104–177, § 2(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Nothing in subsection (a) or (b) prevents an officer or employee, if not inconsistent with the faithful performance of his duties, from acting without compensation as agent or attorney for, or otherwise representing, any person who is the subject of disciplinary, loyalty, or other personnel administration proceedings in connection with those proceedings.”
+1996—Subsec. (d). Pub. L. 104–177, § 2(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Nothing in subsection (a) or (b) prevents an officer or employee, if not inconsistent with the faithful performance of his duties, from acting without compensation as agent or attorney for, or otherwise representing, any person who is the subject of disciplinary, loyalty, or other personnel administration proceedings in connection with those proceedings.”
 
-Subsec. (i). Pub. L. 104–177, § 2(b), added subsec. (i).
+Subsec. (i). Pub. L. 104–177, § 2(b), added subsec. (i).
 
-1990—Subsec. (a)(2). Pub. L. 101–280, § 5(c)(1), substituted “civil” for “any civil”.
+1990—Subsec. (a)(2). Pub. L. 101–280, § 5(c)(1), substituted “civil” for “any civil”.
 
-Subsec. (b)(2). Pub. L. 101–280, § 5(c)(2), substituted “commission” for “any commission”.
+Subsec. (b)(2). Pub. L. 101–280, § 5(c)(2), substituted “commission” for “any commission”.
 
 1989—Pub. L. 101–194 amended section generally, revising and restating as subsecs. (a) to (h) provisions formerly consisting of eight undesignated pars.
 
@@ -763,11 +763,11 @@ Authority of President under subsec. (e) of this section to grant exemptions or 
 
 Authority of President under subsec. (e) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to President, see section 402 of Ex Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5.
 
-## § 206. Exemption of retired officers of the uniformed services
+## § 206. Exemption of retired officers of the uniformed services
 
 Sections 203 and 205 of this title shall not apply to a retired officer of the uniformed services of the United States while not on active duty and not otherwise an officer or employee of the United States, or to any person specially excepted by Act of Congress.
 
-(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1123.)
+(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1123.)
 
 **Editorial Notes**
 
@@ -781,7 +781,7 @@ A prior section 206, act June 25, 1948, ch. 645, 62 Stat. 692, related to an off
 
 Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as a note under section 201 of this title.
 
-## § 207. Restrictions on former officers, employees, and elected officials of the executive and legislative branches
+## § 207. Restrictions on former officers, employees, and elected officials of the executive and legislative branches
 
 **(a) Restrictions on All Officers and Employees of the Executive Branch and Certain Other Agencies.—**
 
@@ -983,7 +983,7 @@ shall be punished as provided in section 216 of this title.
 
 **(B) Tribal organizations and inter-tribal consortiums.—** The restrictions contained in this section shall not apply to acts authorized by section 104(j) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450i(j)).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2) State and local governments and institutions, hospitals, and organizations.—** The restrictions contained in subsections (c), (d), and (e) shall not apply to acts done in carrying out official duties as an employee of—
 
@@ -1011,9 +1011,9 @@ shall be punished as provided in section 216 of this title.
 
 **(i)** any communication to, or appearance before, the Federal Election Commission by a former officer or employee of the Federal Election Commission; or
 
-**(ii)** a communication or appearance made by a person who is subject to the restrictions contained in subsections 2
+**(ii)** a communication or appearance made by a person who is subject to the restrictions contained in subsections 2
 
-<sup>2</sup>  So in original. Probably should be “subsection”.
+<sup>2</sup> So in original. Probably should be “subsection”.
 
 (c), (d), or (e) if, at the time of the communication or appearance, the person is employed by a person or entity other than—
 
@@ -1075,7 +1075,7 @@ A copy of the certification shall also be provided to the Director of the Office
 
 **(l) Contract Advice by Former Details.—** Whoever, being an employee of a private sector organization assigned to an agency under chapter 37 of title 5, within one year after the end of that assignment, knowingly represents or aids, counsels, or assists in representing any other person (except the United States) in connection with any contract with that agency shall be punished as provided in section 216 of this title.
 
-(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1123; amended Pub. L. 95–521, title V, § 501(a), Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–28, June 22, 1979, 93 Stat. 76; Pub. L. 101–189, div. A, title VIII, § 814(d)(2), Nov. 29, 1989, 103 Stat. 1499; Pub. L. 101–194, title I, § 101(a), Nov. 30, 1989, 103 Stat. 1716; Pub. L. 101–280, §§ 2(a), 5(d), May 4, 1990, 104 Stat. 149, 159; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(8)(A)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–25, title VII, § 705(a), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–190, div. C, title XXXI, § 3138(a), Dec. 5, 1991, 105 Stat. 1579; Pub. L. 102–395, title VI, § 609(a), Oct. 6, 1992, 106 Stat. 1873; Pub. L. 103–322, title XXXIII, §§ 330002(i), 330010(15), Sept. 13, 1994, 108 Stat. 2140, 2144; Pub. L. 104–65, § 21(a), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–179, §§ 5, 6, Aug. 6, 1996, 110 Stat. 1567, 1568; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 635], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–244, title I, § 102(a)(5), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–347, title II, § 209(d)(1), (3), Dec. 17, 2002, 116 Stat. 2930; Pub. L. 108–136, div. A, title XI, § 1125(b)(1), Nov. 24, 2003, 117 Stat. 1639; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–81, title I, §§ 101, 104(a), Sept. 14, 2007, 121 Stat. 736, 740; Pub. L. 111–148, title III, § 3403(a)(2), Mar. 23, 2010, 124 Stat. 506; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–123, div. E, title XI, § 52001(b)(1), Feb. 9, 2018, 132 Stat. 298.)
+(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1123; amended Pub. L. 95–521, title V, § 501(a), Oct. 26, 1978, 92 Stat. 1864; Pub. L. 96–28, June 22, 1979, 93 Stat. 76; Pub. L. 101–189, div. A, title VIII, § 814(d)(2), Nov. 29, 1989, 103 Stat. 1499; Pub. L. 101–194, title I, § 101(a), Nov. 30, 1989, 103 Stat. 1716; Pub. L. 101–280, §§ 2(a), 5(d), May 4, 1990, 104 Stat. 149, 159; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(8)(A)], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–25, title VII, § 705(a), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–190, div. C, title XXXI, § 3138(a), Dec. 5, 1991, 105 Stat. 1579; Pub. L. 102–395, title VI, § 609(a), Oct. 6, 1992, 106 Stat. 1873; Pub. L. 103–322, title XXXIII, §§ 330002(i), 330010(15), Sept. 13, 1994, 108 Stat. 2140, 2144; Pub. L. 104–65, § 21(a), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–179, §§ 5, 6, Aug. 6, 1996, 110 Stat. 1567, 1568; Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 635], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–244, title I, § 102(a)(5), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–347, title II, § 209(d)(1), (3), Dec. 17, 2002, 116 Stat. 2930; Pub. L. 108–136, div. A, title XI, § 1125(b)(1), Nov. 24, 2003, 117 Stat. 1639; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–81, title I, §§ 101, 104(a), Sept. 14, 2007, 121 Stat. 736, 740; Pub. L. 111–148, title III, § 3403(a)(2), Mar. 23, 2010, 124 Stat. 506; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–123, div. E, title XI, § 52001(b)(1), Feb. 9, 2018, 132 Stat. 298.)
 
 **Editorial Notes**
 
@@ -1089,7 +1089,7 @@ The National Defense Authorization Act for Fiscal Year 2004, referred to in subs
 
 Senior Executive Service, referred to in subsec. (c)(2)(A)(ii), see section 5382 of Title 5, Government Organization and Employees.
 
-The Lobbying Disclosure Act of 1995, referred to in subsec. (e)(8), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§ 1601 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
+The Lobbying Disclosure Act of 1995, referred to in subsec. (e)(8), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§ 1601 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
 
 Section 102(a) of the Ethics Reform Act of 1989, referred to in subsec. (e)(9)(L), (M), is section 102(a) of Pub. L. 101–194, which is set out below.
 
@@ -1103,7 +1103,7 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 **Codification**
 
-Another section 501(a) of Pub. L. 95–521, as added by Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1760, is set out in the Appendix to Title 5, Government Organization and Employees.
+Another section 501(a) of Pub. L. 95–521, as added by Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1760, is set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Prior Provisions**
 
@@ -1115,11 +1115,11 @@ Provisions similar to those comprising this section were contained in section 28
 
 2018—Subsec. (c)(3). Pub. L. 115–123 struck out par. (3) which related to members of the independent payment advisory board.
 
-2010—Subsec. (c)(3). Pub. L. 111–148, § 3403(a)(2), added par. (3).
+2010—Subsec. (c)(3). Pub. L. 111–148, § 3403(a)(2), added par. (3).
 
-2007—Subsec. (d)(1). Pub. L. 110–81, § 101(a), substituted “within 2 years” for “within 1 year” in concluding provisions.
+2007—Subsec. (d)(1). Pub. L. 110–81, § 101(a), substituted “within 2 years” for “within 1 year” in concluding provisions.
 
-Subsec. (e)(1). Pub. L. 110–81, § 101(b)(3), added par. (1) and struck out former par. (1) which read as follows:
+Subsec. (e)(1). Pub. L. 110–81, § 101(b)(3), added par. (1) and struck out former par. (1) which read as follows:
 
 “(1) Members of congress and elected officers.—(A) Any person who is a Member of Congress or an elected officer of either House of Congress and who, within 1 year after that person leaves office, knowingly makes, with the intent to influence, any communication to or appearance before any of the persons described in subparagraph (B) or (C), on behalf of any other person (except the United States) in connection with any matter on which such former Member of Congress or elected officer seeks action by a Member, officer, or employee of either House of Congress, in his or her official capacity, shall be punished as provided in section 216 of this title.
 
@@ -1127,67 +1127,67 @@ Subsec. (e)(1). Pub. L. 110–81, § 101(b)(3), added par. (1) and struck out 
 
 “(C) The persons referred to in subparagraph (A) with respect to appearances or communications by a former elected officer are any Member, officer, or employee of the House of Congress in which the elected officer served.”
 
-Subsec. (e)(2). Pub. L. 110–81, § 101(b)(3), added par. (2). Former par. (2) redesignated (3).
+Subsec. (e)(2). Pub. L. 110–81, § 101(b)(3), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (e)(3). Pub. L. 110–81, § 101(b)(2), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (e)(3). Pub. L. 110–81, § 101(b)(2), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (e)(3)(A). Pub. L. 110–81, § 101(b)(4)(A), substituted “of a Member of the House of Representatives to whom paragraph (7)(A) applies” for “of a Senator or an employee of a Member of the House of Representatives”.
+Subsec. (e)(3)(A). Pub. L. 110–81, § 101(b)(4)(A), substituted “of a Member of the House of Representatives to whom paragraph (7)(A) applies” for “of a Senator or an employee of a Member of the House of Representatives”.
 
-Subsec. (e)(3)(B). Pub. L. 110–81, § 101(b)(4)(B), struck out “Senator or” before “Member of the House” in cls. (i) and (ii).
+Subsec. (e)(3)(B). Pub. L. 110–81, § 101(b)(4)(B), struck out “Senator or” before “Member of the House” in cls. (i) and (ii).
 
-Subsec. (e)(4). Pub. L. 110–81, § 101(b)(5), substituted “committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies” for “committee of Congress” and inserted “or joint committee (as the case may be)” after “committee” wherever subsequently appearing.
+Subsec. (e)(4). Pub. L. 110–81, § 101(b)(5), substituted “committee of the House of Representatives, or an employee of a joint committee of the Congress whose pay is disbursed by the Clerk of the House of Representatives, to whom paragraph (7)(A) applies” for “committee of Congress” and inserted “or joint committee (as the case may be)” after “committee” wherever subsequently appearing.
 
-Pub. L. 110–81, § 101(b)(2), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Pub. L. 110–81, § 101(b)(2), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (e)(5). Pub. L. 110–81, § 101(b)(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (e)(5). Pub. L. 110–81, § 101(b)(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (e)(5)(A). Pub. L. 110–81, § 101(b)(6)(A), substituted “to whom paragraph (7)(A) applies” for “or an employee on the leadership staff of the Senate”.
+Subsec. (e)(5)(A). Pub. L. 110–81, § 101(b)(6)(A), substituted “to whom paragraph (7)(A) applies” for “or an employee on the leadership staff of the Senate”.
 
-Subsec. (e)(5)(B). Pub. L. 110–81, § 101(b)(6)(B), substituted “any Member of the leadership of the House of Representatives and any employee on the leadership staff of the House of Representatives.” for “the following:
+Subsec. (e)(5)(B). Pub. L. 110–81, § 101(b)(6)(B), substituted “any Member of the leadership of the House of Representatives and any employee on the leadership staff of the House of Representatives.” for “the following:
 
 “(i) in the case of a former employee on the leadership staff of the House of Representatives, those persons are any Member of the leadership of the House of Representatives and any employee on the leadership staff of the House of Representatives; and
 
 “(ii) in the case of a former employee on the leadership staff of the Senate, those persons are any Member of the leadership of the Senate and any employee on the leadership staff of the Senate.”
 
-Subsec. (e)(6). Pub. L. 110–81, § 101(b)(2), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (e)(6). Pub. L. 110–81, § 101(b)(2), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Subsec. (e)(6)(A). Pub. L. 110–81, § 101(b)(7), inserted “to whom paragraph (7)(B) applies” after “office of the Congress”.
+Subsec. (e)(6)(A). Pub. L. 110–81, § 101(b)(7), inserted “to whom paragraph (7)(B) applies” after “office of the Congress”.
 
-Subsec. (e)(7). Pub. L. 110–81, § 101(b)(2), redesignated par. (6) as (7). Former par. (7) redesignated (9).
+Subsec. (e)(7). Pub. L. 110–81, § 101(b)(2), redesignated par. (6) as (7). Former par. (7) redesignated (9).
 
-Subsec. (e)(7)(A). Pub. L. 110–81, § 101(b)(8)(A), substituted “(4), and (5)” for “and (4)”.
+Subsec. (e)(7)(A). Pub. L. 110–81, § 101(b)(8)(A), substituted “(4), and (5)” for “and (4)”.
 
-Subsec. (e)(7)(B). Pub. L. 110–81, § 101(b)(8)(B), substituted “paragraph (6)” for “paragraph (5)” and “level IV of the Executive Schedule” for “level 5 of the Senior Executive Service” and struck out “(or any comparable adjustment pursuant to interim authority of the President)” after “title 5”.
+Subsec. (e)(7)(B). Pub. L. 110–81, § 101(b)(8)(B), substituted “paragraph (6)” for “paragraph (5)” and “level IV of the Executive Schedule” for “level 5 of the Senior Executive Service” and struck out “(or any comparable adjustment pursuant to interim authority of the President)” after “title 5”.
 
-Subsec. (e)(8). Pub. L. 110–81, § 101(b)(9), added par. (8).
+Subsec. (e)(8). Pub. L. 110–81, § 101(b)(9), added par. (8).
 
-Subsec. (e)(9). Pub. L. 110–81, § 101(b)(1), redesignated par. (7) as (9).
+Subsec. (e)(9). Pub. L. 110–81, § 101(b)(1), redesignated par. (7) as (9).
 
-Subsec. (e)(9)(G). Pub. L. 110–81, § 101(b)(10), struck out “the Copyright Royalty Tribunal,” after “Congressional Budget Office,” and substituted “(4), or (5)” for “or (4)”.
+Subsec. (e)(9)(G). Pub. L. 110–81, § 101(b)(10), struck out “the Copyright Royalty Tribunal,” after “Congressional Budget Office,” and substituted “(4), or (5)” for “or (4)”.
 
-Subsec. (j)(1). Pub. L. 110–81, § 104(a), inserted subpar. (A) designation and heading, realigned margins, and added subpar. (B).
+Subsec. (j)(1). Pub. L. 110–81, § 104(a), inserted subpar. (A) designation and heading, realigned margins, and added subpar. (B).
 
 2004—Subsec. (e)(7)(G). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
 2003—Subsec. (c)(2)(A)(ii). Pub. L. 108–136 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “employed in a position which is not referred to in clause (i) and for which the basic rate of pay, exclusive of any locality-based pay adjustment under section 5302 of title 5 (or any comparable adjustment pursuant to interim authority of the President), is equal to or greater than the rate of basic pay payable for level 5 of the Senior Executive Service,”.
 
-2002—Subsec. (c)(2)(A)(v). Pub. L. 107–347, § 209(d)(1), added cl. (v).
+2002—Subsec. (c)(2)(A)(v). Pub. L. 107–347, § 209(d)(1), added cl. (v).
 
-Subsec. (*l*). Pub. L. 107–347, § 209(d)(3), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 107–347, § 209(d)(3), added subsec. (*l*).
 
 1998—Subsec. (j)(2)(B). Pub. L. 105–244 substituted “section 101” for “section 1201(a)”.
 
-1996—Subsec. (c)(2)(A)(ii). Pub. L. 104–179, § 6, substituted “level 5 of the Senior Executive Service,” for “level V of the Executive Schedule,”.
+1996—Subsec. (c)(2)(A)(ii). Pub. L. 104–179, § 6, substituted “level 5 of the Senior Executive Service,” for “level V of the Executive Schedule,”.
 
 Subsec. (e)(6)(B). Pub. L. 104–208 substituted “level 5 of the Senior Executive Service” for “level V of the Executive Schedule”.
 
-Subsec. (j). Pub. L. 104–179, § 5, added par. (7).
+Subsec. (j). Pub. L. 104–179, § 5, added par. (7).
 
 1995—Subsec. (f)(2). Pub. L. 104–65 inserted “or Deputy United States Trade Representative” after “is the United States Trade Representative” and substituted “at any time” for “within 3 years”.
 
-1994—Subsec. (a)(3). Pub. L. 103–322, § 330010(15), substituted “restrictions” for “Restrictions” in heading.
+1994—Subsec. (a)(3). Pub. L. 103–322, § 330010(15), substituted “restrictions” for “Restrictions” in heading.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 103–322, § 330002(i), substituted a comma for semicolon at end.
+Subsec. (c)(2)(A)(ii). Pub. L. 103–322, § 330002(i), substituted a comma for semicolon at end.
 
 1992—Subsec. (f)(2), (3). Pub. L. 102–395 added par. (2) and redesignated former par. (2) as (3).
 
@@ -1195,63 +1195,63 @@ Subsec. (c)(2)(A)(ii). Pub. L. 103–322, § 330002(i), substituted a comma fo
 
 Subsec. (k)(1)(B). Pub. L. 102–190 designated existing provisions as cl. (i) and added cl. (ii).
 
-1990—Subsec. (a)(1). Pub. L. 101–280, § 2(a)(1), amended subsec. (a)(1), as amended by Pub. L. 101–194, by inserting “(including any special Government employee)” after “who is an officer or employee”, striking out “Government” after “executive branch of the United States”, “and any special Government employee” after “independent agency of the United States”, “Government” after “employment with the United States”, “as the case may be,” before “knowingly makes” and before “on behalf of”, inserting “or the District of Columbia” after “(except the United States”, and in subpar. (A) inserting “or the District of Columbia” after “United States”.
+1990—Subsec. (a)(1). Pub. L. 101–280, § 2(a)(1), amended subsec. (a)(1), as amended by Pub. L. 101–194, by inserting “(including any special Government employee)” after “who is an officer or employee”, striking out “Government” after “executive branch of the United States”, “and any special Government employee” after “independent agency of the United States”, “Government” after “employment with the United States”, “as the case may be,” before “knowingly makes” and before “on behalf of”, inserting “or the District of Columbia” after “(except the United States”, and in subpar. (A) inserting “or the District of Columbia” after “United States”.
 
-Subsec. (a)(2). Pub. L. 101–280, § 2(a), amended subsec. (a)(2), as amended by Pub. L. 101–194, by substituting “or the District of Columbia, knowingly” for “Government, knowingly” and “(except the United States or the District of Columbia)” for “(except the United States)”, in subpar. (A) inserting “or the District of Columbia” after “United States)”, and in subpar. (B) striking out “Government” after “United States”.
+Subsec. (a)(2). Pub. L. 101–280, § 2(a), amended subsec. (a)(2), as amended by Pub. L. 101–194, by substituting “or the District of Columbia, knowingly” for “Government, knowingly” and “(except the United States or the District of Columbia)” for “(except the United States)”, in subpar. (A) inserting “or the District of Columbia” after “United States)”, and in subpar. (B) striking out “Government” after “United States”.
 
-Subsec. (a)(3). Pub. L. 101–280, § 2(a)(3), amended subsec. (a), as amended by Pub. L. 101–194, by adding par. (3).
+Subsec. (a)(3). Pub. L. 101–280, § 2(a)(3), amended subsec. (a), as amended by Pub. L. 101–194, by adding par. (3).
 
-Subsec. (b)(1). Pub. L. 101–280, § 2(a)(4), amended subsec. (b)(1), as amended by Pub. L. 101–194, by substituting “a former officer or employee of the executive branch of the United States (including any independent agency) and is” for “a former officer or employee”, substituting “or any person who is a former officer or employee of the legislative branch or a former Member of Congress” for “and any person described in subsection (e)(7)”, substituting “which is so designated by the appropriate department or agency, and which the person knew or should have known was so designated, shall not, on the basis of that information, knowingly represent” for “and which is so designated by the appropriate department or agency, shall not, on the basis of that information, which the person knew or should have known was so designated, knowingly represent”, inserting “a period of” before “1 year”, and striking out “Government” before “terminates”.
+Subsec. (b)(1). Pub. L. 101–280, § 2(a)(4), amended subsec. (b)(1), as amended by Pub. L. 101–194, by substituting “a former officer or employee of the executive branch of the United States (including any independent agency) and is” for “a former officer or employee”, substituting “or any person who is a former officer or employee of the legislative branch or a former Member of Congress” for “and any person described in subsection (e)(7)”, substituting “which is so designated by the appropriate department or agency, and which the person knew or should have known was so designated, shall not, on the basis of that information, knowingly represent” for “and which is so designated by the appropriate department or agency, shall not, on the basis of that information, which the person knew or should have known was so designated, knowingly represent”, inserting “a period of” before “1 year”, and striking out “Government” before “terminates”.
 
-Subsec. (c). Pub. L. 101–280, § 5(d), substituted “shall be subject to the penalties set forth in section 216 of this title” for “shall be fined not more than $10,000 or imprisoned for not more than two years, or both” in concluding provisions of subsec. (c) as in effect on May 4, 1990.
+Subsec. (c). Pub. L. 101–280, § 5(d), substituted “shall be subject to the penalties set forth in section 216 of this title” for “shall be fined not more than $10,000 or imprisoned for not more than two years, or both” in concluding provisions of subsec. (c) as in effect on May 4, 1990.
 
-Subsec. (c)(1). Pub. L. 101–280, § 2(a)(5)(A), amended subsec. (c)(1), as amended by Pub. L. 101–194, by substituting “(including any special Government employee) of the executive branch of the United States” for “of the executive branch”.
+Subsec. (c)(1). Pub. L. 101–280, § 2(a)(5)(A), amended subsec. (c)(1), as amended by Pub. L. 101–194, by substituting “(including any special Government employee) of the executive branch of the United States” for “of the executive branch”.
 
-Subsec. (c)(2)(A)(i). Pub. L. 101–280, § 2(a)(5)(B)(i), amended subsec. (c)(2)(A)(i), as amended by Pub. L. 101–194, by inserting “specified in or” after “employed at a rate of pay” and striking out “or a comparable or greater rate of pay under other authority,” after “chapter 53 of title 5,”.
+Subsec. (c)(2)(A)(i). Pub. L. 101–280, § 2(a)(5)(B)(i), amended subsec. (c)(2)(A)(i), as amended by Pub. L. 101–194, by inserting “specified in or” after “employed at a rate of pay” and striking out “or a comparable or greater rate of pay under other authority,” after “chapter 53 of title 5,”.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 101–509, § 529 [title I, § 101(b)(8)(A)(i)], added cl. (ii) and struck out former cl. (ii) which read as follows: “employed in a position which is not referred to in clause (i) and for which the rate of basic pay is equal to or greater than the rate of basic pay payable for GS–17 of the General Schedule,”.
+Subsec. (c)(2)(A)(ii). Pub. L. 101–509, § 529 [title I, § 101(b)(8)(A)(i)], added cl. (ii) and struck out former cl. (ii) which read as follows: “employed in a position which is not referred to in clause (i) and for which the rate of basic pay is equal to or greater than the rate of basic pay payable for GS–17 of the General Schedule,”.
 
-Pub. L. 101–280, § 2(a)(5)(B)(ii), amended subsec. (a)(2)(A)(ii), as amended by Pub. L. 101–194, by substituting “rate of basic” for “basic rate of” wherever appearing.
+Pub. L. 101–280, § 2(a)(5)(B)(ii), amended subsec. (a)(2)(A)(ii), as amended by Pub. L. 101–194, by substituting “rate of basic” for “basic rate of” wherever appearing.
 
-Subsec. (c)(2)(C), (D). Pub. L. 101–280, § 2(a)(5)(B)(iii), amended subsec. (c)(2)(C), (D), as amended by Pub. L. 101–194, by redesignating subpar. (D) as (C) and striking out former subpar. (C) which read as follows: “Subparagraph (A)(ii) includes persons employed in the Senior Executive Service at the basic rate of pay specified in that subparagraph.”
+Subsec. (c)(2)(C), (D). Pub. L. 101–280, § 2(a)(5)(B)(iii), amended subsec. (c)(2)(C), (D), as amended by Pub. L. 101–194, by redesignating subpar. (D) as (C) and striking out former subpar. (C) which read as follows: “Subparagraph (A)(ii) includes persons employed in the Senior Executive Service at the basic rate of pay specified in that subparagraph.”
 
-Subsec. (d)(1)(B). Pub. L. 101–280, § 2(a)(6)(A), amended subsec. (d)(1)(B), as amended by Pub. L. 101–194, by substituting “in the executive branch of the United States (including any independent agency)” for “paid”.
+Subsec. (d)(1)(B). Pub. L. 101–280, § 2(a)(6)(A), amended subsec. (d)(1)(B), as amended by Pub. L. 101–194, by substituting “in the executive branch of the United States (including any independent agency)” for “paid”.
 
-Subsec. (d)(2). Pub. L. 101–280, § 2(a)(6)(B), amended subsec. (d)(2), as amended by Pub. L. 101–194, by substituting “Persons who may not be contacted” for “Entities to which restrictions apply” in heading, and striking out “other” after “any” in subpar. (B).
+Subsec. (d)(2). Pub. L. 101–280, § 2(a)(6)(B), amended subsec. (d)(2), as amended by Pub. L. 101–194, by substituting “Persons who may not be contacted” for “Entities to which restrictions apply” in heading, and striking out “other” after “any” in subpar. (B).
 
-Subsec. (e)(6). Pub. L. 101–509, § 529 [title I, § 101(b)(8)(A)(ii)], added par. (6) and struck out former par. (6) which read as follows: “The restrictions contained in paragraphs (2), (3), (4), and (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee’s service as such employee terminated, was paid for such service at a rate of basic pay equal to or greater than the rate of basic pay payable for GS–17 of the General Schedule under section 5332 of title 5.”
+Subsec. (e)(6). Pub. L. 101–509, § 529 [title I, § 101(b)(8)(A)(ii)], added par. (6) and struck out former par. (6) which read as follows: “The restrictions contained in paragraphs (2), (3), (4), and (5) apply only to acts by a former employee who, for at least 60 days, in the aggregate, during the 1-year period before that former employee’s service as such employee terminated, was paid for such service at a rate of basic pay equal to or greater than the rate of basic pay payable for GS–17 of the General Schedule under section 5332 of title 5.”
 
-Pub. L. 101–280, § 2(a)(7)(A), amended subsec. (e)(6), as amended by Pub. L. 101–194, by substituting “rate of basic” for “basic rate of” wherever appearing.
+Pub. L. 101–280, § 2(a)(7)(A), amended subsec. (e)(6), as amended by Pub. L. 101–194, by substituting “rate of basic” for “basic rate of” wherever appearing.
 
-Subsec. (e)(7)(L), (M). Pub. L. 101–280, § 2(a)(7)(B), amended subsec. (e)(7)(L), (M), as amended by Pub. L. 101–194, by inserting “on or” before “after the effective date”.
+Subsec. (e)(7)(L), (M). Pub. L. 101–280, § 2(a)(7)(B), amended subsec. (e)(7)(L), (M), as amended by Pub. L. 101–194, by inserting “on or” before “after the effective date”.
 
-Subsec. (f)(1). Pub. L. 101–280, § 2(a)(8)(A), amended subsec. (f)(1), as amended by Pub. L. 101–194, by substituting “such subsection” for “subsection (c), (d), or (e), as the case may be”.
+Subsec. (f)(1). Pub. L. 101–280, § 2(a)(8)(A), amended subsec. (f)(1), as amended by Pub. L. 101–194, by substituting “such subsection” for “subsection (c), (d), or (e), as the case may be”.
 
-Subsec. (f)(1)(A). Pub. L. 101–280, § 2(a)(8)(B), amended subsec. (f)(1)(A), as amended by Pub. L. 101–194, by striking out “the interests of” after “represents” and “of the Government” after “department or agency”.
+Subsec. (f)(1)(A). Pub. L. 101–280, § 2(a)(8)(B), amended subsec. (f)(1)(A), as amended by Pub. L. 101–194, by striking out “the interests of” after “represents” and “of the Government” after “department or agency”.
 
-Subsec. (f)(1)(B). Pub. L. 101–280, § 2(a)(8)(C), amended subsec. (f)(1)(B), as amended by Pub. L. 101–194, by striking out “of the Government” after “department or agency”.
+Subsec. (f)(1)(B). Pub. L. 101–280, § 2(a)(8)(C), amended subsec. (f)(1)(B), as amended by Pub. L. 101–194, by striking out “of the Government” after “department or agency”.
 
-Subsec. (i)(1). Pub. L. 101–280, § 2(a)(9), amended subsec. (i)(1), as amended by Pub. L. 101–194, by adding par. (1) and striking out former par. (1) which read as follows: “the term ‘intent to influence’ means the intent to affect any official action by a Government entity of the United States through any officer or employee of the United States, including Members of Congress;”.
+Subsec. (i)(1). Pub. L. 101–280, § 2(a)(9), amended subsec. (i)(1), as amended by Pub. L. 101–194, by adding par. (1) and striking out former par. (1) which read as follows: “the term ‘intent to influence’ means the intent to affect any official action by a Government entity of the United States through any officer or employee of the United States, including Members of Congress;”.
 
-Subsec. (j)(1). Pub. L. 101–280, § 2(a)(10)(A), amended subsec. (j)(1), as amended by Pub. L. 101–194, by substituting “this section” for “subsections (a), (c), (d), and (e)”, “on behalf of” for “as an officer or employee of”, and “or the District of Columbia” for “Government”.
+Subsec. (j)(1). Pub. L. 101–280, § 2(a)(10)(A), amended subsec. (j)(1), as amended by Pub. L. 101–194, by substituting “this section” for “subsections (a), (c), (d), and (e)”, “on behalf of” for “as an officer or employee of”, and “or the District of Columbia” for “Government”.
 
-Subsec. (j)(3). Pub. L. 101–280, § 2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting “this section” for “subsections (c), (d), and (e)” and “in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States” for “of which the United States is a member”.
+Subsec. (j)(3). Pub. L. 101–280, § 2(a)(10)(B), amended subsec. (j)(3), as amended by Pub. L. 101–194, by substituting “this section” for “subsections (c), (d), and (e)” and “in which the United States participates, if the Secretary of State certifies in advance that such activity is in the interests of the United States” for “of which the United States is a member”.
 
-Subsec. (j)(4). Pub. L. 101–280, § 2(a)(10)(C), amended subsec. (j)(4), as amended by Pub. L. 101–194, by substituting “Special” for “Personal matters and special” in heading, substituting “prevent an individual” for “apply to appearances or communications by a former officer or employee concerning matters of a personal and individual nature, such as personal income taxes or pension benefits; nor shall the prohibitions of those subsections prevent a former officer or employee”, substituting “individual’s” for “former officer’s or employee’s”, and striking out “, other than that regularly provided for by law or regulation for witnesses” after “if no compensation is thereby received”.
+Subsec. (j)(4). Pub. L. 101–280, § 2(a)(10)(C), amended subsec. (j)(4), as amended by Pub. L. 101–194, by substituting “Special” for “Personal matters and special” in heading, substituting “prevent an individual” for “apply to appearances or communications by a former officer or employee concerning matters of a personal and individual nature, such as personal income taxes or pension benefits; nor shall the prohibitions of those subsections prevent a former officer or employee”, substituting “individual’s” for “former officer’s or employee’s”, and striking out “, other than that regularly provided for by law or regulation for witnesses” after “if no compensation is thereby received”.
 
-Subsec. (j)(5). Pub. L. 101–280, § 2(a)(10)(D), amended subsec. (j)(5), as amended by Pub. L. 101–194, by substituting “and (d)” for “(d), and (e)” and inserting “For purposes of this paragraph, the term ‘officer or employee’ includes the Vice President.”
+Subsec. (j)(5). Pub. L. 101–280, § 2(a)(10)(D), amended subsec. (j)(5), as amended by Pub. L. 101–194, by substituting “and (d)” for “(d), and (e)” and inserting “For purposes of this paragraph, the term ‘officer or employee’ includes the Vice President.”
 
-Subsec. (j)(6). Pub. L. 101–280, § 2(a)(10)(E)(ii), amended subsec. (j)(6), as amended by Pub. L. 101–194, by substituting “sentence—” for “sentence, a former officer or employee subject to the restrictions contained in subsection (a)(1) with respect to a particular matter may not, except pursuant to court order, serve as an expert witness for any other person (except the United States) in that matter.” and adding subpars. (A) and (B).
+Subsec. (j)(6). Pub. L. 101–280, § 2(a)(10)(E)(ii), amended subsec. (j)(6), as amended by Pub. L. 101–194, by substituting “sentence—” for “sentence, a former officer or employee subject to the restrictions contained in subsection (a)(1) with respect to a particular matter may not, except pursuant to court order, serve as an expert witness for any other person (except the United States) in that matter.” and adding subpars. (A) and (B).
 
-Pub. L. 101–280, § 2(a)(10)(E)(i), amended subsec. (j)(6), as amended by Pub. L. 101–194, by substituting “an individual” for “a former Member of Congress or officer or employee of the executive or legislative branch or an independent agency (including the Vice President and any special Government employee)”.
+Pub. L. 101–280, § 2(a)(10)(E)(i), amended subsec. (j)(6), as amended by Pub. L. 101–194, by substituting “an individual” for “a former Member of Congress or officer or employee of the executive or legislative branch or an independent agency (including the Vice President and any special Government employee)”.
 
 1989—Pub. L. 101–194 amended section generally, substituting “Restrictions on former officers, employees, and elected officials of the executive and legislative branches” for “Disqualification of former officers and employees; disqualification of partners of current officers and employees” as section catchline and making extensive changes in content and structure of text. For text of section as it existed prior to the general amendment by Pub. L. 101–194, see Effective Date of 1989 Amendment; Effect on Employment note set out below.
 
 Subsec. (k). Pub. L. 101–189 added subsec. (k).
 
-1979—Subsec. (b). Pub. L. 96–28, § 1, substituted “by personal presence at any formal or informal appearance” for “concerning any formal or informal appearance” in cl. (ii) of provisions before par. (1), and, in par. (3), inserted “as to (i),” before “which was actually pending” and “, as to (ii),” before “in which he participated”.
+1979—Subsec. (b). Pub. L. 96–28, § 1, substituted “by personal presence at any formal or informal appearance” for “concerning any formal or informal appearance” in cl. (ii) of provisions before par. (1), and, in par. (3), inserted “as to (i),” before “which was actually pending” and “, as to (ii),” before “in which he participated”.
 
-Subsec. (d). Pub. L. 96–28, § 2, designated existing provisions as par. (1), designated existing pars. (1) and (3) as subpars. (A) and (B) of par. (1) as so designated, and added subpar. (C) of par. (1) and par. (2), incorporating into the new par. and subpar. portions of former provisions relating to positions for which the basic rate of pay was equal to or greater than the basic rate of pay for GS–17 of the General Schedule prescribed by section 5332 of Title 5 and who had significant decision-making or supervisory responsibility, as designated by the Director of the Office of Government Ethics, in consultation with the head of the department or agency concerned, and provisions relating to the designation of positions by the Director of the Office of Government Ethics.
+Subsec. (d). Pub. L. 96–28, § 2, designated existing provisions as par. (1), designated existing pars. (1) and (3) as subpars. (A) and (B) of par. (1) as so designated, and added subpar. (C) of par. (1) and par. (2), incorporating into the new par. and subpar. portions of former provisions relating to positions for which the basic rate of pay was equal to or greater than the basic rate of pay for GS–17 of the General Schedule prescribed by section 5332 of Title 5 and who had significant decision-making or supervisory responsibility, as designated by the Director of the Office of Government Ethics, in consultation with the head of the department or agency concerned, and provisions relating to the designation of positions by the Director of the Office of Government Ethics.
 
 1978—Pub. L. 95–521 expanded section to include provisions designed to more effectively deal with the problem of the disproportionate influence former officers and employees might have upon the government processes and decision-making in their previous departments or agencies when they return in the role of representatives or advocates of nongovernmental groups or interests before those same departments or agencies.
 
@@ -1263,7 +1263,7 @@ Subsec. (d). Pub. L. 96–28, § 2, designated existing provisions as par. (1)
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–81, title I, § 105(a), Sept. 14, 2007, 121 Stat. 741, provided that: “The amendments made by section 101 [amending this section] shall apply to individuals who leave Federal office or employment to which such amendments apply on or after the date of adjournment of the first session of the 110th Congress sine die or December 31, 2007, whichever date is earlier.”
+Pub. L. 110–81, title I, § 105(a), Sept. 14, 2007, 121 Stat. 741, provided that: “The amendments made by section 101 [amending this section] shall apply to individuals who leave Federal office or employment to which such amendments apply on or after the date of adjournment of the first session of the 110th Congress sine die or December 31, 2007, whichever date is earlier.”
 
 **Effective Date of 2003 Amendment**
 
@@ -1279,27 +1279,27 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 **Effective Date of 1995 Amendment**
 
-Pub. L. 104–65, § 21(c), Dec. 19, 1995, 109 Stat. 705, provided that: “The amendments made by this section [amending this section and section 2171 of Title 19, Customs Duties] shall apply with respect to an individual appointed as United States Trade Representative or as a Deputy United States Trade Representative on or after the date of enactment of this Act [Dec. 19, 1995].”
+Pub. L. 104–65, § 21(c), Dec. 19, 1995, 109 Stat. 705, provided that: “The amendments made by this section [amending this section and section 2171 of Title 19, Customs Duties] shall apply with respect to an individual appointed as United States Trade Representative or as a Deputy United States Trade Representative on or after the date of enactment of this Act [Dec. 19, 1995].”
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–395, title VI, § 609(b), Oct. 6, 1992, 106 Stat. 1873, provided that: “This section [amending this section] shall not apply to the person serving as the United States Trade Representative at the date of enactment of this Act [Oct. 6, 1992].”
+Pub. L. 102–395, title VI, § 609(b), Oct. 6, 1992, 106 Stat. 1873, provided that: “This section [amending this section] shall not apply to the person serving as the United States Trade Representative at the date of enactment of this Act [Oct. 6, 1992].”
 
 **Effective Date of 1991 Amendments**
 
-Pub. L. 102–190, div. C, title XXXI, § 3138(b), Dec. 5, 1991, 105 Stat. 1580, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 5, 1991] and shall apply to persons granted waivers under section 207(k)(1) of title 18, United States Code, on or after that date.”
+Pub. L. 102–190, div. C, title XXXI, § 3138(b), Dec. 5, 1991, 105 Stat. 1580, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 5, 1991] and shall apply to persons granted waivers under section 207(k)(1) of title 18, United States Code, on or after that date.”
 
-Pub. L. 102–25, title VII, § 705(a), Apr. 6, 1991, 105 Stat. 120, provided that subsec. (k), added by Pub. L. 101–189 and omitted in the general amendment of this section by Pub. L. 101–194, is reinstated as originally enacted, effective as of Jan. 1, 1991.
+Pub. L. 102–25, title VII, § 705(a), Apr. 6, 1991, 105 Stat. 120, provided that subsec. (k), added by Pub. L. 101–189 and omitted in the general amendment of this section by Pub. L. 101–194, is reinstated as originally enacted, effective as of Jan. 1, 1991.
 
 **Effective Date of 1990 Amendments**
 
-Pub. L. 101–509, title V, § 529 [title I, § 101(b)(8)(B)], Nov. 5, 1990, 104 Stat. 1427, 1441, provided that: “The amendments made by subparagraph (A) [amending this section] take effect on January 1, 1991.”
+Pub. L. 101–509, title V, § 529 [title I, § 101(b)(8)(B)], Nov. 5, 1990, 104 Stat. 1427, 1441, provided that: “The amendments made by subparagraph (A) [amending this section] take effect on January 1, 1991.”
 
 Amendment by Pub. L. 101–280 effective May 4, 1990, see section 11 of Pub. L. 101–280, set out as a note under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees.
 
 **Effective Date of 1989 Amendment; Effect on Employment**
 
-Pub. L. 101–194, title I, § 102, Nov. 30, 1989, 103 Stat. 1724, as amended by Pub. L. 101–280, § 2(b), May 4, 1990, 104 Stat. 152, provided that:
+Pub. L. 101–194, title I, § 102, Nov. 30, 1989, 103 Stat. 1724, as amended by Pub. L. 101–280, § 2(b), May 4, 1990, 104 Stat. 152, provided that:
 
 > **“(a) In General.—**
 
@@ -1315,7 +1315,7 @@ Pub. L. 101–194, title I, § 102, Nov. 30, 1989, 103 Stat. 1724, as amended 
 
 Prior to the effective date of the amendment by Pub. L. 101–194, section 207 read as follows:
 
-> “§ 207. Disqualification of former officers and employees; disqualification of partners of current officers and employees
+> “§ 207. Disqualification of former officers and employees; disqualification of partners of current officers and employees
 
 > **“(a)** Whoever, having been an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, including a special Government employee, after his employment has ceased, knowingly acts as agent or attorney for, or otherwise represents, any other person (except the United States), in any formal or informal appearance before, or, with the intent to influence, makes any oral or written communication on behalf of any other person (except the United States) to—
 
@@ -1405,9 +1405,9 @@ Prior to the effective date of the amendment by Pub. L. 101–194, section 207 r
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–521, title V, § 502, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
+Pub. L. 95–521, title V, § 502, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall not apply to those individuals who left Government service prior to the effective date of such amendments (July 1, 1979) or, in the case of individuals who occupied positions designated pursuant to section 207(d) of title 18, United States Code, prior to the effective date of such designation; except that any such individual who returns to Government service on or after the effective date of such amendments or designation shall be thereafter covered by such amendments or designation, was amended generally by Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5.
 
-Pub. L. 95–521, title V, § 503, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall become effective on July 1, 1979, was amended generally by Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5, Government Organization and Employees.
+Pub. L. 95–521, title V, § 503, Oct. 26, 1978, 92 Stat. 1867, which provided that the amendments made by section 501 (amending this section) shall become effective on July 1, 1979, was amended generally by Pub. L. 101–194, title VI, § 601(a), Nov. 30, 1989, 103 Stat. 1761, and is now set out in the Appendix to Title 5, Government Organization and Employees.
 
 **Effective Date**
 
@@ -1419,7 +1419,7 @@ Responsibility of Office of Government Ethics for promulgating regulations and i
 
 **Construction of 2007 Amendment**
 
-Pub. L. 110–81, title I, § 104(c), Sept. 14, 2007, 121 Stat. 740, provided that: “Except as expressly identified in this section [amending this section and section 5323 of Title 25, Indians] and in the amendments made by this section, nothing in this section or the amendments made by this section affects any other provision of law.”
+Pub. L. 110–81, title I, § 104(c), Sept. 14, 2007, 121 Stat. 740, provided that: “Except as expressly identified in this section [amending this section and section 5323 of Title 25, Indians] and in the amendments made by this section, nothing in this section or the amendments made by this section affects any other provision of law.”
 
 **Transfer of Functions**
 
@@ -1437,9 +1437,9 @@ Exemptions from former section 284 of this title deemed to be exemptions from th
 
 **Agencies Within Executive Office of President**
 
-For provisions relating to treatment of agencies within the Executive Office of the President as one agency under subsec. (c) of this section, see Ex. Ord. No. 12674, § 202, Apr. 12, 1989, 54 F.R. 15160, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
+For provisions relating to treatment of agencies within the Executive Office of the President as one agency under subsec. (c) of this section, see Ex. Ord. No. 12674, § 202, Apr. 12, 1989, 54 F.R. 15160, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
-## § 208. Acts affecting a personal financial interest
+## § 208. Acts affecting a personal financial interest
 
 **(a)** Except as permitted by subsection (b) hereof, whoever, being an officer or employee of the executive branch of the United States Government, or of any independent agency of the United States, a Federal Reserve bank director, officer, or employee, or an officer or employee of the District of Columbia, including a special Government employee, participates personally and substantially as a Government officer or employee, through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, in a judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter in which, to his knowledge, he, his spouse, minor child, general partner, organization in which he is serving as officer, director, trustee, general partner or employee, or any person or organization with whom he is negotiating or has any arrangement concerning prospective employment, has a financial interest—
 
@@ -1479,13 +1479,13 @@ if the particular matter does not involve the Indian allotment or claims fund or
 
 **(B)** provide guidance with respect to the types of interests that are not so substantial as to be deemed likely to affect the integrity of the services the Government may expect from the employee.
 
-(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1124; amended Pub. L. 95–188, title II, § 205, Nov. 16, 1977, 91 Stat. 1388; Pub. L. 101–194, title IV, § 405, Nov. 30, 1989, 103 Stat. 1751; Pub. L. 101–280, § 5(e), May 4, 1990, 104 Stat. 159; Pub. L. 103–322, title XXXIII, §§ 330002(b), 330008(6), Sept. 13, 1994, 108 Stat. 2140, 2143; Pub. L. 117–286, § 4(a)(134), (c)(27), Dec. 27, 2022, 136 Stat. 4320, 4357.)
+(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1124; amended Pub. L. 95–188, title II, § 205, Nov. 16, 1977, 91 Stat. 1388; Pub. L. 101–194, title IV, § 405, Nov. 30, 1989, 103 Stat. 1751; Pub. L. 101–280, § 5(e), May 4, 1990, 104 Stat. 159; Pub. L. 103–322, title XXXIII, §§ 330002(b), 330008(6), Sept. 13, 1994, 108 Stat. 2140, 2143; Pub. L. 117–286, § 4(a)(134), (c)(27), Dec. 27, 2022, 136 Stat. 4320, 4357.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (b)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (b)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 **Prior Provisions**
 
@@ -1495,31 +1495,31 @@ Provisions similar to those comprising this section were contained in section 43
 
 **Amendments**
 
-2022—Subsec. (b)(3). Pub. L. 117–286, § 4(a)(134), (c)(27)(A), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act” and “chapter 131 of title 5,” for “the Ethics in Government Act of 1978,”.
+2022—Subsec. (b)(3). Pub. L. 117–286, § 4(a)(134), (c)(27)(A), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act” and “chapter 131 of title 5,” for “the Ethics in Government Act of 1978,”.
 
-Subsec. (d)(1). Pub. L. 117–286, § 4(c)(27)(B), substituted “section 13107 of title 5.” for “section 105 of the Ethics in Government Act of 1978.” and “chapter 131 of title 5.” for “the Ethics in Government Act of 1978.”
+Subsec. (d)(1). Pub. L. 117–286, § 4(c)(27)(B), substituted “section 13107 of title 5.” for “section 105 of the Ethics in Government Act of 1978.” and “chapter 131 of title 5.” for “the Ethics in Government Act of 1978.”
 
-1994—Subsec. (b)(4). Pub. L. 103–322, § 330008(6), inserted “if” after “(4)”.
+1994—Subsec. (b)(4). Pub. L. 103–322, § 330008(6), inserted “if” after “(4)”.
 
-Subsec. (c)(1). Pub. L. 103–322, § 330002(b), substituted “banks” for “Banks”.
+Subsec. (c)(1). Pub. L. 103–322, § 330002(b), substituted “banks” for “Banks”.
 
-1990—Subsec. (a). Pub. L. 101–280, § 5(e)(2), made technical correction to directory language of Pub. L. 101–194, § 405(1)(C). See 1989 Amendment note below.
+1990—Subsec. (a). Pub. L. 101–280, § 5(e)(2), made technical correction to directory language of Pub. L. 101–194, § 405(1)(C). See 1989 Amendment note below.
 
-Subsec. (b)(2). Pub. L. 101–280, § 5(e)(1)(A), substituted “subsection (a)” for “paragraph (1)”.
+Subsec. (b)(2). Pub. L. 101–280, § 5(e)(1)(A), substituted “subsection (a)” for “paragraph (1)”.
 
-Subsec. (b)(3). Pub. L. 101–280, § 5(e)(1)(B), struck out “section 107 of” after “individual pursuant to”.
+Subsec. (b)(3). Pub. L. 101–280, § 5(e)(1)(B), struck out “section 107 of” after “individual pursuant to”.
 
-Subsec. (d)(1). Pub. L. 101–280, § 5(e)(1)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A copy of any determination by other than the Director of the Office of Government Ethics granting an exemption pursuant to subsection (b)(1) or (b)(3) shall be submitted to the Director, who shall make all determinations available to the public pursuant to section 105 of the Ethics in Government Act of 1978. For determinations pursuant to subsection (b)(3), the information from the financial disclosure report of the officer or employee involved describing the asset or assets that necessitated the waiver shall also be made available to the public. This subsection shall not apply, however, if the head of the agency or his or her designee determines that the determination under subsection (b)(1) or (b)(3), as the case may be, involves classified information.”
+Subsec. (d)(1). Pub. L. 101–280, § 5(e)(1)(C), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A copy of any determination by other than the Director of the Office of Government Ethics granting an exemption pursuant to subsection (b)(1) or (b)(3) shall be submitted to the Director, who shall make all determinations available to the public pursuant to section 105 of the Ethics in Government Act of 1978. For determinations pursuant to subsection (b)(3), the information from the financial disclosure report of the officer or employee involved describing the asset or assets that necessitated the waiver shall also be made available to the public. This subsection shall not apply, however, if the head of the agency or his or her designee determines that the determination under subsection (b)(1) or (b)(3), as the case may be, involves classified information.”
 
-1989—Subsec. (a). Pub. L. 101–194, § 405(1), as amended by Pub. L. 101–280, § 5(e)(2), inserted “or” after “United States Government,” and “an officer or employee” before “of the District of Columbia”, substituted “general partner” for “partner” in two places, and substituted “Shall be subject to the penalties set forth in section 216 of this title” for “Shall be fined not more than $10,000, or imprisoned not more than two years, or both”.
+1989—Subsec. (a). Pub. L. 101–194, § 405(1), as amended by Pub. L. 101–280, § 5(e)(2), inserted “or” after “United States Government,” and “an officer or employee” before “of the District of Columbia”, substituted “general partner” for “partner” in two places, and substituted “Shall be subject to the penalties set forth in section 216 of this title” for “Shall be fined not more than $10,000, or imprisoned not more than two years, or both”.
 
-Subsec. (b). Pub. L. 101–194, § 405(2), added subsec. (b) and struck out former subsec. (b), which read as follows: “Subsection (a) hereof shall not apply (1) if the officer or employee first advises the Government official responsible for appointment to his position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee, or (2) if, by general rule or regulation published in the Federal Register, the financial interest has been exempted from the requirements of clause (1) hereof as being too remote or too inconsequential to affect the integrity of Government officers’ or employees’ services. In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment.”
+Subsec. (b). Pub. L. 101–194, § 405(2), added subsec. (b) and struck out former subsec. (b), which read as follows: “Subsection (a) hereof shall not apply (1) if the officer or employee first advises the Government official responsible for appointment to his position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee, or (2) if, by general rule or regulation published in the Federal Register, the financial interest has been exempted from the requirements of clause (1) hereof as being too remote or too inconsequential to affect the integrity of Government officers’ or employees’ services. In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment.”
 
-Subsecs. (c), (d). Pub. L. 101–194, § 405(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 101–194, § 405(2), added subsecs. (c) and (d).
 
-1977—Subsec. (a). Pub. L. 95–188, § 205(a), extended conflicts of interest prohibition to a Federal Reserve bank director, officer, or employee.
+1977—Subsec. (a). Pub. L. 95–188, § 205(a), extended conflicts of interest prohibition to a Federal Reserve bank director, officer, or employee.
 
-Subsec. (b). Pub. L. 95–188, § 205(b), inserted at end “In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment.”
+Subsec. (b). Pub. L. 95–188, § 205(b), inserted at end “In the case of class A and B directors of Federal Reserve banks, the Board of Governors of the Federal Reserve System shall be the Government official responsible for appointment.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1533,9 +1533,9 @@ Exemptions from former section 434 of this title deemed to be exemptions from th
 
 **“Particular Matter” Defined**
 
-Pub. L. 100–446, title III, § 319, Sept. 27, 1988, 102 Stat. 1826, which provided that notwithstanding any other provision of law, for the purposes of this section “particular matter”, as applied to employees of the Department of the Interior and the Indian Health Service, means “particular matter involving specific parties”, was repealed by Pub. L. 101–194, title V, § 505(b), Nov. 30, 1989, 103 Stat. 1756, as amended by Pub. L. 101–280, § 6(c), May 4, 1990, 104 Stat. 160.
+Pub. L. 100–446, title III, § 319, Sept. 27, 1988, 102 Stat. 1826, which provided that notwithstanding any other provision of law, for the purposes of this section “particular matter”, as applied to employees of the Department of the Interior and the Indian Health Service, means “particular matter involving specific parties”, was repealed by Pub. L. 101–194, title V, § 505(b), Nov. 30, 1989, 103 Stat. 1756, as amended by Pub. L. 101–280, § 6(c), May 4, 1990, 104 Stat. 160.
 
-Similar provisions were contained in Pub. L. 100–202, § 101(g) [title III, § 318], Dec. 22, 1987, 101 Stat. 1329–213, 1329–255.
+Similar provisions were contained in Pub. L. 100–202, § 101(g) [title III, § 318], Dec. 22, 1987, 101 Stat. 1329–213, 1329–255.
 
 **Executive Documents**
 
@@ -1549,7 +1549,7 @@ Authority of the President under subsec. (b) of this section to grant exemptions
 
 Authority of the President under subsec. (b) of this section to grant exemptions or approvals for Presidential appointees to committees, commissions, boards, or similar groups established by the President, and for individuals appointed pursuant to sections 105 and 107(a) of Title 3, The President, delegated to Counsel to the President, see section 402 of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5.
 
-## § 209. Salary of Government officials and employees payable only by United States
+## § 209. Salary of Government officials and employees payable only by United States
 
 **(a)** Whoever receives any salary, or any contribution to or supplementation of salary, as compensation for his services as an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, from any source other than the Government of the United States, except as may be contributed out of the treasury of any State, county, or municipality; or
 
@@ -1575,7 +1575,7 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 **(h)** This section does not prohibit a member of the reserve components of the armed forces, or a member of the Space Force, on active duty pursuant to a call or order to active duty under a provision of law referred to in section 101(a)(13) of title 10 from receiving from any person that employed such member before the call or order to active duty any payment of any part of the salary or wages that such person would have paid the member if the member’s employment had not been interrupted by such call or order to active duty.
 
-(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1125; amended Pub. L. 96–174, Dec. 29, 1979, 93 Stat. 1288; Pub. L. 97–171, Apr. 13, 1982, 96 Stat. 67; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–646, § 70, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 101–194, title IV, § 406, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 101–647, title XXXV, § 3510, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, § 330008(7), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 107–273, div. A, title III, § 302(3), Nov. 2, 2002, 116 Stat. 1781; Pub. L. 107–347, title II, § 209(g)(2), Dec. 17, 2002, 116 Stat. 2932; Pub. L. 108–375, div. A, title VI, § 663, Oct. 28, 2004, 118 Stat. 1974; Pub. L. 118–159, div. A, title V, § 568(b), Dec. 23, 2024, 138 Stat. 1906.)
+(Added Pub. L. 87–849, § 1(a), Oct. 23, 1962, 76 Stat. 1125; amended Pub. L. 96–174, Dec. 29, 1979, 93 Stat. 1288; Pub. L. 97–171, Apr. 13, 1982, 96 Stat. 67; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–646, § 70, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 101–194, title IV, § 406, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 101–647, title XXXV, § 3510, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, § 330008(7), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 107–273, div. A, title III, § 302(3), Nov. 2, 2002, 116 Stat. 1781; Pub. L. 107–347, title II, § 209(g)(2), Dec. 17, 2002, 116 Stat. 2932; Pub. L. 108–375, div. A, title VI, § 663, Oct. 28, 2004, 118 Stat. 1974; Pub. L. 118–159, div. A, title V, § 568(b), Dec. 23, 2024, 138 Stat. 1906.)
 
 **Editorial Notes**
 
@@ -1591,7 +1591,7 @@ Provisions similar to those comprising this section were contained in section 19
 
 **Amendments**
 
-2024—Subsec. (h). Pub. L. 118–159 inserted “, or a member of the Space Force,” after “a member of the reserve components of the armed forces”.
+2024—Subsec. (h). Pub. L. 118–159 inserted “, or a member of the Space Force,” after “a member of the reserve components of the armed forces”.
 
 2004—Subsec. (h). Pub. L. 108–375 added subsec. (h).
 
@@ -1633,15 +1633,15 @@ Exemptions from former section 1914 of this title deemed to be exemptions from t
 
 Responsibility of Office of Government Ethics for promulgating regulations and interpreting this section, see section 201(c) of Ex. Ord. No. 12674, Apr. 12, 1989, 54 F.R. 15159, as amended, set out as a note under section 7301 of Title 5, Government Organization and Employees.
 
-## § 210. Offer to procure appointive public office
+## § 210. Offer to procure appointive public office
 
 Whoever pays or offers or promises any money or thing of value, to any person, firm, or corporation in consideration of the use or promise to use any influence to procure any appointive office or place under the United States for any person, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 694, § 210, formerly § 214; renumbered § 210, Pub. L. 87–849, § 1(b), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 694, § 210, formerly § 214; renumbered § 210, Pub. L. 87–849, § 1(b), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on Title 18, U. S.C., 1940 ed., §§ 149 and 151 (Dec. 11, 1926, c. 3, §§ 1, 3, 44 Stat. 918).
+Based on Title 18, U. S.C., 1940 ed., §§ 149 and 151 (Dec. 11, 1926, c. 3, §§ 1, 3, 44 Stat. 918).
 
 Changes of style and substance were made in this section.
 
@@ -1659,17 +1659,17 @@ A prior section 210, act June 25, 1948, ch. 645, 62 Stat. 693, related to accept
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 211. Acceptance or solicitation to obtain appointive public office
+## § 211. Acceptance or solicitation to obtain appointive public office
 
 Whoever solicits or receives, either as a political contribution, or for personal emolument, any money or thing of value, in consideration of the promise of support or use of influence in obtaining for any person any appointive office or place under the United States, shall be fined under this title or imprisoned not more than one year, or both.
 
 Whoever solicits or receives any thing of value in consideration of aiding a person to obtain employment under the United States either by referring his name to an executive department or agency of the United States or by requiring the payment of a fee because such person has secured such employment shall be fined under this title, or imprisoned not more than one year, or both. This section shall not apply to such services rendered by an employment agency pursuant to the written request of an executive department or agency of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 694, § 211, formerly § 215; Sept. 13, 1951, ch. 380, 65 Stat. 320; renumbered § 211, Pub. L. 87–849, § 1(b), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 694, § 211, formerly § 215; Sept. 13, 1951, ch. 380, 65 Stat. 320; renumbered § 211, Pub. L. 87–849, § 1(b), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 150 and 151 (Dec. 11, 1926, ch. 3, §§ 2, 3, 44 Stat. 918).
+Based on title 18, U.S.C., 1940 ed., §§ 150 and 151 (Dec. 11, 1926, ch. 3, §§ 2, 3, 44 Stat. 918).
 
 Same changes of style and substance were made in this section as in section 214 of this title.
 
@@ -1685,7 +1685,7 @@ A prior section 211, act June 25, 1948, ch. 645, 62 Stat. 693, related to an off
 
 1951—Act Sept. 13, 1951, inserted second paragraph.
 
-## § 212. Offer of loan or gratuity to financial institution examiner
+## § 212. Offer of loan or gratuity to financial institution examiner
 
 **(a) In General.—** Except as provided in subsection (b), whoever, being an officer, director, or employee of a financial institution, makes or grants any loan or gratuity, to any examiner or assistant examiner who examines or has authority to examine such bank, branch, agency, organization, corporation, association, or institution—
 
@@ -1725,21 +1725,21 @@ A prior section 211, act June 25, 1948, ch. 645, 62 Stat. 693, related to an off
 
 **(A)** the applicant satisfies any financial requirements for the credit card account or residential real property loan that are generally applicable to all applicants for the same type of credit card account or residential real property loan;
 
-**(B)** the terms and conditions applicable with respect to such account or residential real property loan, and any credit extended to the examiner under such account or residential real property loan, are no more favorable generally to the examiner than the terms and conditions that are generally applicable to credit card accounts or residential real property loans offered by the same financial institution to other borrowers cardholders 1
+**(B)** the terms and conditions applicable with respect to such account or residential real property loan, and any credit extended to the examiner under such account or residential real property loan, are no more favorable generally to the examiner than the terms and conditions that are generally applicable to credit card accounts or residential real property loans offered by the same financial institution to other borrowers cardholders 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 in comparable circumstances under open end consumer credit plans or for residential real property loans; and
 
 **(C)** with respect to residential real property loans, the loan is with respect to the primary residence of the applicant.
 
-(Added Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899; amended Pub. L. 110–289, div. A, title II, § 1216(c), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, § 377(1), July 21, 2010, 124 Stat. 1569.)
+(Added Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899; amended Pub. L. 110–289, div. A, title II, § 1216(c), July 30, 2008, 122 Stat. 2792; Pub. L. 111–203, title III, § 377(1), July 21, 2010, 124 Stat. 1569.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 212, acts June 25, 1948, ch. 645, 62 Stat. 694, § 212, formerly § 217; Pub. L. 85–699, title VII, § 701(a), Aug. 21, 1958, 72 Stat. 698; Pub. L. 86–168, title I, § 104(h), Aug. 18, 1959, 73 Stat. 387; renumbered § 212, Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 101–73, title IX, § 962(a)(1), Aug. 9, 1989, 103 Stat. 501; Pub. L. 101–647, title XXV, § 2597(b), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 103–322, title XXXIII, §§ 330004(1), 330010(1), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2141, 2143, 2147, related to offer of loan or gratuity to bank examiner, prior to repeal by Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899.
+A prior section 212, acts June 25, 1948, ch. 645, 62 Stat. 694, § 212, formerly § 217; Pub. L. 85–699, title VII, § 701(a), Aug. 21, 1958, 72 Stat. 698; Pub. L. 86–168, title I, § 104(h), Aug. 18, 1959, 73 Stat. 387; renumbered § 212, Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 101–73, title IX, § 962(a)(1), Aug. 9, 1989, 103 Stat. 501; Pub. L. 101–647, title XXV, § 2597(b), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 103–322, title XXXIII, §§ 330004(1), 330010(1), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2141, 2143, 2147, related to offer of loan or gratuity to bank examiner, prior to repeal by Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899.
 
 Another prior section 212, act June 25, 1948, ch. 645, 62 Stat. 693, related to an offer or threat to a customs officer or employee, prior to the general amendment to this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
 
@@ -1755,7 +1755,7 @@ Another prior section 212, act June 25, 1948, ch. 645, 62 Stat. 693, related to 
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
-## § 213. Acceptance of loan or gratuity by financial institution examiner
+## § 213. Acceptance of loan or gratuity by financial institution examiner
 
 **(a) In General.—** Whoever, being an examiner or assistant examiner, accepts a loan or gratuity from any bank, branch, agency, organization, corporation, association, or institution examined by the examiner or from any person connected with it, shall—
 
@@ -1767,25 +1767,25 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 **(b) Definitions.—** In this section, the terms “examiner”, “Federal financial institution regulatory agency”, “financial institution”, and “loan” have the same meanings as in section 212.
 
-(Added Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2900.)
+(Added Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2900.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 213, acts June 25, 1948, ch. 645, 62 Stat. 695, § 213, formerly § 218; Pub. L. 85–699, title VII, § 701(b), Aug. 21, 1958, 72 Stat. 698; renumbered § 213, Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 101–73, title IX, § 962(a)(2), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XXV, § 2597(c), Nov. 29, 1990, 104 Stat. 4909; Pub. L. 103–322, title XXXIII, §§ 330004(2), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2141, 2147, related to acceptance of loan or gratuity by bank examiner, prior to repeal by Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899.
+A prior section 213, acts June 25, 1948, ch. 645, 62 Stat. 695, § 213, formerly § 218; Pub. L. 85–699, title VII, § 701(b), Aug. 21, 1958, 72 Stat. 698; renumbered § 213, Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 101–73, title IX, § 962(a)(2), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XXV, § 2597(c), Nov. 29, 1990, 104 Stat. 4909; Pub. L. 103–322, title XXXIII, §§ 330004(2), 330016(1)(K), Sept. 13, 1994, 108 Stat. 2141, 2147, related to acceptance of loan or gratuity by bank examiner, prior to repeal by Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899.
 
 Another prior section 213, act June 25, 1948, ch. 645, 62 Stat. 693, related to the acceptance or demand of a bribe by a customs officer or employee, prior to the general amendment to this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
 
-## § 214. Offer for procurement of Federal Reserve bank loan and discount of commercial paper
+## § 214. Offer for procurement of Federal Reserve bank loan and discount of commercial paper
 
 Whoever stipulates for or gives or receives, or consents or agrees to give or receive, any fee, commission, bonus, or thing of value for procuring or endeavoring to procure from any Federal Reserve bank any advance, loan, or extension of credit or discount or purchase of any obligation or commitment with respect thereto, either directly from such Federal Reserve bank or indirectly through any financing institution, unless such fee, commission, bonus, or thing of value and all material facts with respect to the arrangement or understanding therefor shall be disclosed in writing in the application or request for such advance, loan, extension of credit, discount, purchase, or commitment, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 695, § 214, formerly § 219; renumbered § 214, Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 695, § 214, formerly § 219; renumbered § 214, Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 599 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 22(k), as added by act June 19, 1934, ch. 653, § 3, 48 Stat. 1108).
+Based on section 599 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 22(k), as added by act June 19, 1934, ch. 653, § 3, 48 Stat. 1108).
 
 Final sentence of said section 599, imposing civil liability on violators, was omitted as unnecessary, being merely a declaration of that rule of common law which in the absence of statute fixes civil liability on the wrongdoer.
 
@@ -1801,7 +1801,7 @@ A prior section 214 of this title was renumbered section 210.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
-## § 215. Receipt of commissions or gifts for procuring loans
+## § 215. Receipt of commissions or gifts for procuring loans
 
 **(a)** Whoever—
 
@@ -1817,11 +1817,11 @@ shall be fined not more than $1,000,000 or three times the value of the thing gi
 
 **(d)** Federal agencies with responsibility for regulating a financial institution shall jointly establish such guidelines as are appropriate to assist an officer, director, employee, agent, or attorney of a financial institution to comply with this section. Such agencies shall make such guidelines available to the public.
 
-(June 25, 1948, ch. 645, 62 Stat. 695, § 215, formerly § 220; Sept. 21, 1950, ch. 967, § 4, 64 Stat. 894; renumbered § 215, Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 98–473, title II, § 1107(a), Oct. 12, 1984, 98 Stat. 2145; Pub. L. 99–370, § 2, Aug. 4, 1986, 100 Stat. 779; Pub. L. 101–73, title IX, §§ 961(a), 962(e)(1), Aug. 9, 1989, 103 Stat. 499, 503; Pub. L. 101–647, title XXV, § 2504(a), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 695, § 215, formerly § 220; Sept. 21, 1950, ch. 967, § 4, 64 Stat. 894; renumbered § 215, Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 98–473, title II, § 1107(a), Oct. 12, 1984, 98 Stat. 2145; Pub. L. 99–370, § 2, Aug. 4, 1986, 100 Stat. 779; Pub. L. 101–73, title IX, §§ 961(a), 962(e)(1), Aug. 9, 1989, 103 Stat. 499, 503; Pub. L. 101–647, title XXV, § 2504(a), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–294, title VI, § 606(a), Oct. 11, 1996, 110 Stat. 3511.)
 
 **Historical and Revision Notes**
 
-Based on sections 595, 1125, and 1315 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 22, first sentence of second paragraph, 38 Stat. 272; July 17, 1916, ch. 245, § 211(e), as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1460; June 21, 1917, ch. 32, § 11, 40 Stat. 240; Sept. 26, 1918, ch. 177, § 5, part 22(c), 40 Stat. 970; Mar. 4, 1923, ch. 252, title II, § 216(e), 42 Stat. 1472).
+Based on sections 595, 1125, and 1315 of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 23, 1913, ch. 6, § 22, first sentence of second paragraph, 38 Stat. 272; July 17, 1916, ch. 245, § 211(e), as added Mar. 4, 1923, ch. 252, § 2, 42 Stat. 1460; June 21, 1917, ch. 32, § 11, 40 Stat. 240; Sept. 26, 1918, ch. 177, § 5, part 22(c), 40 Stat. 970; Mar. 4, 1923, ch. 252, title II, § 216(e), 42 Stat. 1472).
 
 The punishment provisions of the three sections were identical, and all other provisions thereof were similar, except that section 595 of title 12, U.S.C., 1940 ed., Banks and Banking, relating to officers, directors, employees, or attorneys of member banks of the Federal Reserve System, did not include the terms “agent” and “acceptance” and did not include the phrase “or extension or renewal of loan or substitution of security”.
 
@@ -1845,9 +1845,9 @@ A prior section 215 of this title was renumbered section 211.
 
 1990—Subsec. (a). Pub. L. 101–647 substituted “30” for “20” before “years” in concluding provisions.
 
-1989—Subsec. (a). Pub. L. 101–73, § 961(a), in closing provisions, substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
+1989—Subsec. (a). Pub. L. 101–73, § 961(a), in closing provisions, substituted “$1,000,000” for “$5,000” and “20 years” for “five years”.
 
-Subsec. (b). Pub. L. 101–73, § 962(e)(1), transferred subsec. (b) to section 20 of this title.
+Subsec. (b). Pub. L. 101–73, § 962(e)(1), transferred subsec. (b) to section 20 of this title.
 
 1986—Pub. L. 99–370 amended section generally, combining in subsec. (a) the statement of prohibited activities formerly set out in subsecs. (a) and (b), transferring to subsec. (b) and expanding provisions formerly set out in subsec. (c) which defined “financial institution”, transferring to subsec. (c) and amending provisions formerly set out in subsec. (d) relating to applicability of section, and adding new subsec. (d) relating to establishment of guidelines to assist financial institutions in complying with this section.
 
@@ -1859,9 +1859,9 @@ Subsec. (b). Pub. L. 101–73, § 962(e)(1), transferred subsec. (b) to sectio
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–370, § 3, Aug. 4, 1986, 100 Stat. 780, provided that: “This Act and the amendments made by this Act [amending this section and enacting a provision set out as a note under section 201 of this title] shall take effect 30 days after the date of the enactment of this Act [Aug. 4, 1986].”
+Pub. L. 99–370, § 3, Aug. 4, 1986, 100 Stat. 780, provided that: “This Act and the amendments made by this Act [amending this section and enacting a provision set out as a note under section 201 of this title] shall take effect 30 days after the date of the enactment of this Act [Aug. 4, 1986].”
 
-## § 216. Penalties and injunctions
+## § 216. Penalties and injunctions
 
 **(a)** The punishment for an offense under section 203, 204, 205, 207, 208, or 209 of this title is the following:
 
@@ -1873,31 +1873,31 @@ Pub. L. 99–370, § 3, Aug. 4, 1986, 100 Stat. 780, provided that: “This Ac
 
 **(c)** If the Attorney General has reason to believe that a person is engaging in conduct constituting an offense under section 203, 204, 205, 207, 208, or 209 of this title, the Attorney General may petition an appropriate United States district court for an order prohibiting that person from engaging in such conduct. The court may issue an order prohibiting that person from engaging in such conduct if the court finds that the conduct constitutes such an offense. The filing of a petition under this section does not preclude any other remedy which is available by law to the United States or any other person.
 
-(Added Pub. L. 101–194, title IV, § 407(a), Nov. 30, 1989, 103 Stat. 1753; amended Pub. L. 101–280, § 5(f), May 4, 1990, 104 Stat. 159.)
+(Added Pub. L. 101–194, title IV, § 407(a), Nov. 30, 1989, 103 Stat. 1753; amended Pub. L. 101–280, § 5(f), May 4, 1990, 104 Stat. 159.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 216, acts June 25, 1948, ch. 645, 62 Stat. 695, § 216, formerly § 221, amended Aug. 21, 1958, Pub. L. 85–699, title VII, § 702(a)–(c), 72 Stat. 698; Aug. 18, 1959, Pub. L. 86–168, title I, § 104(h), 73 Stat. 387, and renumbered Oct. 23, 1962, Pub. L. 87–849, § 1(d), 76 Stat. 1125, related to receipt or charge of commissions or gifts for farm loan, land bank, or small business transactions, prior to repeal by Pub. L. 98–473, title II, § 1107(b), Oct. 12, 1984, 98 Stat. 2146.
+A prior section 216, acts June 25, 1948, ch. 645, 62 Stat. 695, § 216, formerly § 221, amended Aug. 21, 1958, Pub. L. 85–699, title VII, § 702(a)–(c), 72 Stat. 698; Aug. 18, 1959, Pub. L. 86–168, title I, § 104(h), 73 Stat. 387, and renumbered Oct. 23, 1962, Pub. L. 87–849, § 1(d), 76 Stat. 1125, related to receipt or charge of commissions or gifts for farm loan, land bank, or small business transactions, prior to repeal by Pub. L. 98–473, title II, § 1107(b), Oct. 12, 1984, 98 Stat. 2146.
 
 Another prior section 216, act June 25, 1948, ch. 645, 62 Stat. 694, which related to procurement of a contract by an officer or Member of Congress, was repealed by section 1(c) of Pub. L. 87–849.
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–280, § 5(f)(1), substituted “section 203, 204, 205, 207, 208, or 209” for “sections 203, 204, 205, 207, 208, and 209”.
+1990—Subsec. (a). Pub. L. 101–280, § 5(f)(1), substituted “section 203, 204, 205, 207, 208, or 209” for “sections 203, 204, 205, 207, 208, and 209”.
 
-Subsec. (b). Pub. L. 101–280, § 5(f)(2), substituted “section 203, 204, 205, 207, 208, or 209” for “sections 203, 204, 205, 207, 208, and 209”.
+Subsec. (b). Pub. L. 101–280, § 5(f)(2), substituted “section 203, 204, 205, 207, 208, or 209” for “sections 203, 204, 205, 207, 208, and 209”.
 
-## § 217. Acceptance of consideration for adjustment of farm indebtedness
+## § 217. Acceptance of consideration for adjustment of farm indebtedness
 
 Whoever, being an officer or employee of, or person acting for the United States or any agency thereof, accepts any fee, commission, gift, or other consideration in connection with the compromise, adjustment, or cancellation of any farm indebtedness as provided by sections 1150, 1150a, and 1150b of Title 12, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 696, § 217, formerly § 222; renumbered § 217, Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 696, § 217, formerly § 222; renumbered § 217, Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125; Pub. L. 103–322, title XXXIII, § 330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on section 1150c(b) of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 20, 1944, ch. 623, § 4(b), 58 Stat. 837).
+Based on section 1150c(b) of title 12, U.S.C., 1940 ed., Banks and Banking (Dec. 20, 1944, ch. 623, § 4(b), 58 Stat. 837).
 
 Words “upon conviction thereof” were omitted as surplusage, since punishment cannot be imposed until after conviction.
 
@@ -1913,11 +1913,11 @@ A prior section 217 was renumbered section 212 of this title and subsequently re
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 218. Voiding transactions in violation of chapter; recovery by the United States
+## § 218. Voiding transactions in violation of chapter; recovery by the United States
 
 In addition to any other remedies provided by law the President or, under regulations prescribed by him, the head of any department or agency involved, may declare void and rescind any contract, loan, grant, subsidy, license, right, permit, franchise, use, authority, privilege, benefit, certificate, ruling, decision, opinion, or rate schedule awarded, granted, paid, furnished, or published, or the performance of any service or transfer or delivery of any thing to, by or for any agency of the United States or officer or employee of the United States or person acting on behalf thereof, in relation to which there has been a final conviction for any violation of this chapter, and the United States shall be entitled to recover in addition to any penalty prescribed by law or in a contract the amount expended or the thing transferred or delivered on its behalf, or the reasonable value thereof.
 
-(Added Pub. L. 87–849, § 1(e), Oct. 23, 1962, 76 Stat. 1125.)
+(Added Pub. L. 87–849, § 1(e), Oct. 23, 1962, 76 Stat. 1125.)
 
 **Editorial Notes**
 
@@ -1955,7 +1955,7 @@ Sec. 3. Implementing regulations adopted pursuant to this Order shall, at a mini
 
 Ronald Reagan.
 
-## § 219. Officers and employees acting as agents of foreign principals
+## § 219. Officers and employees acting as agents of foreign principals
 
 **(a)** Whoever, being a public official, is or acts as an agent of a foreign principal required to register under the Foreign Agents Registration Act of 1938 or a lobbyist required to register under the Lobbying Disclosure Act of 1995 in connection with the representation of a foreign entity, as defined in section 3(6) of that Act shall be fined under this title or imprisoned for not more than two years, or both.
 
@@ -1963,15 +1963,15 @@ Ronald Reagan.
 
 **(c)** For the purpose of this section “public official” means Member of Congress, Delegate, or Resident Commissioner, either before or after he has qualified, or an officer or employee or person acting for or on behalf of the United States, or any department, agency, or branch of Government thereof, including the District of Columbia, in any official function, under or by authority of any such department, agency, or branch of Government.
 
-(Added Pub. L. 89–486, § 8(b), July 4, 1966, 80 Stat. 249; amended Pub. L. 98–473, title II, § 1116, Oct. 12, 1984, 98 Stat. 2149; Pub. L. 99–646, § 30, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 101–647, title XXXV, § 3511, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 104–65, § 12(b), Dec. 19, 1995, 109 Stat. 701.)
+(Added Pub. L. 89–486, § 8(b), July 4, 1966, 80 Stat. 249; amended Pub. L. 98–473, title II, § 1116, Oct. 12, 1984, 98 Stat. 2149; Pub. L. 99–646, § 30, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 101–647, title XXXV, § 3511, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 104–65, § 12(b), Dec. 19, 1995, 109 Stat. 701.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Agents Registration Act of 1938, as amended, referred to in subsec. (a), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. Section 6 of the Foreign Agents Registration Act of 1938 is classified to section 616 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+The Foreign Agents Registration Act of 1938, as amended, referred to in subsec. (a), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. Section 6 of the Foreign Agents Registration Act of 1938 is classified to section 616 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
-The Lobbying Disclosure Act of 1995, referred to in subsec. (a), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§ 1601 et seq.) of Title 2, The Congress. Section 3(6) of the Act is classified to section 1602(6) of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
+The Lobbying Disclosure Act of 1995, referred to in subsec. (a), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§ 1601 et seq.) of Title 2, The Congress. Section 3(6) of the Act is classified to section 1602(6) of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
 
 **Prior Provisions**
 
@@ -1979,15 +1979,15 @@ A prior section 219 was renumbered section 214.
 
 **Amendments**
 
-1995—Subsec. (a). Pub. L. 104–65 substituted “or a lobbyist required to register under the Lobbying Disclosure Act of 1995 in connection with the representation of a foreign entity, as defined in section 3(6) of that Act” for “, as amended,”.
+1995—Subsec. (a). Pub. L. 104–65 substituted “or a lobbyist required to register under the Lobbying Disclosure Act of 1995 in connection with the representation of a foreign entity, as defined in section 3(6) of that Act” for “, as amended,”.
 
 1990—Subsec. (c). Pub. L. 101–647 substituted “Government” for “Governments” before “thereof”.
 
-1986—Subsec. (a). Pub. L. 99–646, § 30(1), designated first par. as subsec. (a) and amended it generally, which prior to amendment read as follows: “Whoever, being a public official of the United States in the executive, legislative, or judicial branch of the Government or in any agency of the United States, including the District of Columbia, is or acts as an agent of a foreign principal required to register under the Foreign Agents Registration Act of 1938, as amended, shall be fined not more than $10,000 or imprisoned for not more than two years, or both.”
+1986—Subsec. (a). Pub. L. 99–646, § 30(1), designated first par. as subsec. (a) and amended it generally, which prior to amendment read as follows: “Whoever, being a public official of the United States in the executive, legislative, or judicial branch of the Government or in any agency of the United States, including the District of Columbia, is or acts as an agent of a foreign principal required to register under the Foreign Agents Registration Act of 1938, as amended, shall be fined not more than $10,000 or imprisoned for not more than two years, or both.”
 
-Subsec. (b). Pub. L. 99–646, § 30(2), designated second par. as subsec. (b).
+Subsec. (b). Pub. L. 99–646, § 30(2), designated second par. as subsec. (b).
 
-Subsec. (c). Pub. L. 99–646, § 30(2), (3), designated third par. as subsec. (c) and substituted “Delegate” for “Delegate from the District of Columbia” and “branch of Government” for “branch of Government, or a juror”.
+Subsec. (c). Pub. L. 99–646, § 30(2), (3), designated third par. as subsec. (c) and substituted “Delegate” for “Delegate from the District of Columbia” and “branch of Government” for “branch of Government, or a juror”.
 
 1984—Pub. L. 98–473 substituted “a public official” for “an officer or employee” in first par., and inserted par. defining “public official”.
 
@@ -2001,7 +2001,7 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 Section effective ninety days after July 4, 1966, see section 9 of Pub. L. 89–486, set out as an Effective Date of 1966 Amendment note under section 611 of Title 22, Foreign Relations and Intercourse.
 
-## § 220. Illegal remunerations for referrals to recovery homes, clinical treatment facilities, and laboratories
+## § 220. Illegal remunerations for referrals to recovery homes, clinical treatment facilities, and laboratories
 
 **(a) Offense.—** Except as provided in subsection (b), whoever, with respect to services covered by a health care benefit program, in or affecting interstate or foreign commerce, knowingly and willfully—
 
@@ -2063,7 +2063,7 @@ shall be fined not more than $200,000, imprisoned not more than 10 years, or bot
 
 **(5)** the term “recovery home” means a shared living environment that is, or purports to be, free from alcohol and illicit drug use and centered on peer support and connection to services that promote sustained recovery from substance use disorders.
 
-(Added Pub. L. 115–271, title VIII, § 8122(a), Oct. 24, 2018, 132 Stat. 4108.)
+(Added Pub. L. 115–271, title VIII, § 8122(a), Oct. 24, 2018, 132 Stat. 4108.)
 
 **Editorial Notes**
 
@@ -2077,9 +2077,9 @@ Section 1833(z)(3)(C) of the Social Security Act, referred to in subsec. (b)(7),
 
 A prior section 220 was renumbered section 215.
 
-## [§§ 221, 222. Renumbered §§ 216, 217]
+## [§§ 221, 222. Renumbered §§ 216, 217]
 
-## [§ 223. Repealed. Pub. L. 87–849, § 1(c), Oct. 23, 1962, 76 Stat. 1125]
+## [§ 223. Repealed. Pub. L. 87–849, § 1(c), Oct. 23, 1962, 76 Stat. 1125]
 
 Section, act June 25, 1948, ch. 645, 62 Stat. 696, related to transactions of the Home Owners’ Loan Corporation.
 
@@ -2089,7 +2089,7 @@ Section, act June 25, 1948, ch. 645, 62 Stat. 696, related to transactions of th
 
 Repeal effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as an Effective Date note under section 201 of this title.
 
-## § 224. Bribery in sporting contests
+## § 224. Bribery in sporting contests
 
 **(a)** Whoever carries into effect, attempts to carry into effect, or conspires with any other person to carry into effect any scheme in commerce to influence, in any way, by bribery any sporting contest, with knowledge that the purpose of such scheme is to influence by bribery that contest, shall be fined under this title, or imprisoned not more than 5 years, or both.
 
@@ -2103,7 +2103,7 @@ Repeal effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849,
 
 **(3)** The term “person” means any individual and any partnership, corporation, association, or other entity.
 
-(Added Pub. L. 88–316, § 1(a), June 6, 1964, 78 Stat. 203; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 88–316, § 1(a), June 6, 1964, 78 Stat. 203; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -2111,7 +2111,7 @@ Repeal effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849,
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 225. Continuing financial crimes enterprise
+## § 225. Continuing financial crimes enterprise
 
 **(a)** Whoever—
 
@@ -2123,9 +2123,9 @@ shall be fined not more than $10,000,000 if an individual, or $20,000,000 if an 
 
 **(b)** For purposes of subsection (a), the term “continuing financial crimes enterprise” means a series of violations under section 215, 656, 657, 1005, 1006, 1007, 1014, 1032, or 1344 of this title, or section 1341 or 1343 affecting a financial institution, committed by at least 4 persons acting in concert.
 
-(Added Pub. L. 101–647, title XXV, § 2510(a), Nov. 29, 1990, 104 Stat. 4863.)
+(Added Pub. L. 101–647, title XXV, § 2510(a), Nov. 29, 1990, 104 Stat. 4863.)
 
-## § 226. Bribery affecting port security
+## § 226. Bribery affecting port security
 
 **(a) In General.—** Whoever knowingly—
 
@@ -2145,9 +2145,9 @@ shall be fined under this title or imprisoned not more than 15 years, or both.
 
 **(b) Definition.—** In this section, the term “secure or restricted area” means an area of a vessel or facility designated as secure in an approved security plan, as required under section 70103 of title 46, United States Code, and the rules and regulations promulgated under that section.
 
-(Added Pub. L. 109–177, title III, § 309(a), Mar. 9, 2006, 120 Stat. 241.)
+(Added Pub. L. 109–177, title III, § 309(a), Mar. 9, 2006, 120 Stat. 241.)
 
-## § 227. Wrongfully influencing a private entity’s employment decisions by a Member of Congress or an officer or employee of the legislative or executive branch
+## § 227. Wrongfully influencing a private entity’s employment decisions by a Member of Congress or an officer or employee of the legislative or executive branch
 
 **(a)** Whoever, being a covered government person, with the intent to influence, solely on the basis of partisan political affiliation, an employment decision or employment practice of any private entity—
 
@@ -2165,7 +2165,7 @@ shall be fined under this title or imprisoned for not more than 15 years, or bot
 
 **(3)** the President, Vice President, an employee of the United States Postal Service or the Postal Regulatory Commission, or any other executive branch employee (as such term is defined under section 2105 of title 5, United States Code).
 
-(Added Pub. L. 110–81, title I, § 102(a), Sept. 14, 2007, 121 Stat. 739; amended Pub. L. 112–105, § 18(a), Apr. 4, 2012, 126 Stat. 304.)
+(Added Pub. L. 110–81, title I, § 102(a), Sept. 14, 2007, 121 Stat. 739; amended Pub. L. 112–105, § 18(a), Apr. 4, 2012, 126 Stat. 304.)
 
 **Editorial Notes**
 
@@ -2177,8 +2177,8 @@ shall be fined under this title or imprisoned for not more than 15 years, or bot
 
 **Effective Date**
 
-Pub. L. 110–81, title I, § 105(b), Sept. 14, 2007, 121 Stat. 741, provided that: “The amendments made by section 102 [enacting this section] shall take effect on the date of the enactment of this Act [Sept. 14, 2007].”
+Pub. L. 110–81, title I, § 105(b), Sept. 14, 2007, 121 Stat. 741, provided that: “The amendments made by section 102 [enacting this section] shall take effect on the date of the enactment of this Act [Sept. 14, 2007].”
 
 **Construction**
 
-Pub. L. 110–81, title I, § 102(b), Sept. 14, 2007, 121 Stat. 739, provided that: “Nothing in section 227 of title 18, United States Code, as added by this section, shall be construed to create any inference with respect to whether the activity described in section 227 of title 18, United States Code, was a criminal or civil offense before the enactment of this Act [Sept. 14, 2007], including under section 201(b), 201(c), any of sections 203 through 209, or section 872, of title 18, United States Code.”
+Pub. L. 110–81, title I, § 102(b), Sept. 14, 2007, 121 Stat. 739, provided that: “Nothing in section 227 of title 18, United States Code, as added by this section, shall be construed to create any inference with respect to whether the activity described in section 227 of title 18, United States Code, was a criminal or civil offense before the enactment of this Act [Sept. 14, 2007], including under section 201(b), 201(c), any of sections 203 through 209, or section 872, of title 18, United States Code.”

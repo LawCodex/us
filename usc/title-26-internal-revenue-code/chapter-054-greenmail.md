@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 54—GREENMAIL
 
-## § 5881. Greenmail
+## § 5881. Greenmail
 
 **(a) Imposition of tax**
 
@@ -57,19 +57,19 @@ The tax imposed by this section shall apply whether or not the gain or other inc
 
 For purposes of the deficiency procedures of subtitle F, any tax imposed by this section shall be treated as a tax imposed by subtitle A.
 
-(Added Pub. L. 100–203, title X, § 10228(a), Dec. 22, 1987, 101 Stat. 1330–417; amended Pub. L. 100–647, title II, § 2004(*o*)(1)(A), (B)(i), (C), (2), Nov. 10, 1988, 102 Stat. 3608.)
+(Added Pub. L. 100–203, title X, § 10228(a), Dec. 22, 1987, 101 Stat. 1330–417; amended Pub. L. 100–647, title II, § 2004(*o*)(1)(A), (B)(i), (C), (2), Nov. 10, 1988, 102 Stat. 3608.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–647, § 2004(*o*)(1)(A), substituted “gain or other income of such person by reason of such receipt” for “gain realized by such person on such receipt”.
+1988—Subsec. (a). Pub. L. 100–647, § 2004(*o*)(1)(A), substituted “gain or other income of such person by reason of such receipt” for “gain realized by such person on such receipt”.
 
-Subsec. (b). Pub. L. 100–647, § 2004(*o*)(1)(B)(i), substituted “a corporation (or any person acting in concert with such corporation) to directly or indirectly acquire stock of such corporation” for “a corporation to directly or indirectly acquire its stock”.
+Subsec. (b). Pub. L. 100–647, § 2004(*o*)(1)(B)(i), substituted “a corporation (or any person acting in concert with such corporation) to directly or indirectly acquire stock of such corporation” for “a corporation to directly or indirectly acquire its stock”.
 
-Subsec. (d). Pub. L. 100–647, § 2004(*o*)(1)(C), substituted “amount” for “gain” in heading and inserted “or other income” after “the gain” in text.
+Subsec. (d). Pub. L. 100–647, § 2004(*o*)(1)(C), substituted “amount” for “gain” in heading and inserted “or other income” after “the gain” in text.
 
-Subsec. (e). Pub. L. 100–647, § 2004(*o*)(2), added subsec. (e).
+Subsec. (e). Pub. L. 100–647, § 2004(*o*)(2), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -77,8 +77,8 @@ Subsec. (e). Pub. L. 100–647, § 2004(*o*)(2), added subsec. (e).
 
 Amendment by section 2004(*o*)(1)(A), (C), (2) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
-Pub. L. 100–647, title II, § 2004(*o*)(1)(B)(ii), Nov. 10, 1988, 102 Stat. 3608, provided that: “The amendment made by clause (i) [amending this section] shall apply to transactions occurring on or after March 31, 1988.”
+Pub. L. 100–647, title II, § 2004(*o*)(1)(B)(ii), Nov. 10, 1988, 102 Stat. 3608, provided that: “The amendment made by clause (i) [amending this section] shall apply to transactions occurring on or after March 31, 1988.”
 
 **Effective Date**
 
-Pub. L. 100–203, title X, § 10228(d), Dec. 22, 1987, 101 Stat. 1330–418, provided that: “The amendments made by this section [enacting this chapter and amending section 275 of this title] shall apply to consideration received after the date of the enactment of this Act [Dec. 22, 1987] in taxable years ending after such date; except that such amendments shall not apply in the case of any acquisition pursuant to a written binding contract in effect on December 15, 1987, and at all times thereafter before the acquisition.”
+Pub. L. 100–203, title X, § 10228(d), Dec. 22, 1987, 101 Stat. 1330–418, provided that: “The amendments made by this section [enacting this chapter and amending section 275 of this title] shall apply to consideration received after the date of the enactment of this Act [Dec. 22, 1987] in taxable years ending after such date; except that such amendments shall not apply in the case of any acquisition pursuant to a written binding contract in effect on December 15, 1987, and at all times thereafter before the acquisition.”

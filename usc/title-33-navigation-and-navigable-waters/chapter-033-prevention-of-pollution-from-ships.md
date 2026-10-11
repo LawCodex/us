@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 33—PREVENTION OF POLLUTION FROM SHIPS
 
-## § 1901. Definitions
+## § 1901. Definitions
 
 **(a)** Unless the context indicates otherwise, as used in this chapter—
 
@@ -59,7 +59,7 @@ in the case of a terminal, any person, except the owner, responsible for the ope
 
 **(c)** For the purposes of this chapter, the requirements of Annex IV to the Antarctic Protocol shall apply in Antarctica to all vessels over which the United States has jurisdiction.
 
-(Pub. L. 96–478, § 2, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, § 2101, Dec. 29, 1987, 101 Stat. 1460; Pub. L. 103–160, div. A, title X, § 1003(f), Nov. 30, 1993, 107 Stat. 1748; Pub. L. 104–227, title II, § 201(a), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 110–280, § 3, July 21, 2008, 122 Stat. 2611.)
+(Pub. L. 96–478, § 2, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, § 2101, Dec. 29, 1987, 101 Stat. 1460; Pub. L. 103–160, div. A, title X, § 1003(f), Nov. 30, 1993, 107 Stat. 1748; Pub. L. 104–227, title II, § 201(a), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 110–280, § 3, July 21, 2008, 122 Stat. 2611.)
 
 **Editorial Notes**
 
@@ -71,29 +71,29 @@ Presidential Proclamation 5928, referred to in subsec. (a)(7), is set out under 
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–280 added par. (1), redesignated pars. (1) to (5) as (2) to (6), respectively, in par. (5) substituted “V, and VI” for “and V”, in par. (6) substituted “ ‘discharge’, ‘emission’, ‘garbage’, ‘harmful substance’, and ‘incident’ ” for “ ‘discharge’ and ‘garbage’ and ‘harmful substance’ and ‘incident’ ”, added par. (7), and redesignated pars. (6) to (12) as (8) to (14), respectively.
+2008—Subsec. (a). Pub. L. 110–280 added par. (1), redesignated pars. (1) to (5) as (2) to (6), respectively, in par. (5) substituted “V, and VI” for “and V”, in par. (6) substituted “ ‘discharge’, ‘emission’, ‘garbage’, ‘harmful substance’, and ‘incident’ ” for “ ‘discharge’ and ‘garbage’ and ‘harmful substance’ and ‘incident’ ”, added par. (7), and redesignated pars. (6) to (12) as (8) to (14), respectively.
 
-1996—Subsec. (a). Pub. L. 104–227, § 201(a)(1), (2), added pars. (1) and (2) and redesignated former pars. (1) to (10) as (3) to (12), respectively.
+1996—Subsec. (a). Pub. L. 104–227, § 201(a)(1), (2), added pars. (1) and (2) and redesignated former pars. (1) to (10) as (3) to (12), respectively.
 
-Subsec. (c). Pub. L. 104–227, § 201(a)(3), added subsec. (c).
+Subsec. (c). Pub. L. 104–227, § 201(a)(3), added subsec. (c).
 
 1993—Subsec. (a)(9), (10). Pub. L. 103–160 added par. (9) and redesignated former par. (9) as (10).
 
-1987—Subsec. (a). Pub. L. 100–220, § 2101(1), designated existing provisions as subsec. (a).
+1987—Subsec. (a). Pub. L. 100–220, § 2101(1), designated existing provisions as subsec. (a).
 
-Subsec. (a)(1). Pub. L. 100–220, § 2101(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘MARPOL Protocol’ means the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, done at London on February 17, 1978. This Protocol incorporates and modifies the International Convention for the Prevention of Pollution from Ships, 1973, done at London on November 2, 1973;”.
+Subsec. (a)(1). Pub. L. 100–220, § 2101(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘MARPOL Protocol’ means the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, done at London on February 17, 1978. This Protocol incorporates and modifies the International Convention for the Prevention of Pollution from Ships, 1973, done at London on November 2, 1973;”.
 
-Subsec. (a)(2). Pub. L. 100–220, § 2101(3), substituted “Annexes I, II, and V thereto, including any modification or amendments to the Convention, Protocols, or Annexes which have entered into force for the United States” for “Annexes I and II attached thereto”.
+Subsec. (a)(2). Pub. L. 100–220, § 2101(3), substituted “Annexes I, II, and V thereto, including any modification or amendments to the Convention, Protocols, or Annexes which have entered into force for the United States” for “Annexes I and II attached thereto”.
 
-Subsec. (a)(3). Pub. L. 100–220, § 2101(4), inserted “and ‘garbage’ ”.
+Subsec. (a)(3). Pub. L. 100–220, § 2101(4), inserted “and ‘garbage’ ”.
 
-Subsec. (b). Pub. L. 100–220, § 2101(5), added subsec. (b).
+Subsec. (b). Pub. L. 100–220, § 2101(5), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–220, title II, § 2002, Dec. 29, 1987, 101 Stat. 1460, provided that:
+Pub. L. 100–220, title II, § 2002, Dec. 29, 1987, 101 Stat. 1460, provided that:
 
 > **“(a) In General.—** Except as provided in subsections (b) and (c), this title [enacting sections 1912 to 1915 of this title, amending this section and sections 1902, 1903, 1905, and 1907 to 1909 of this title, and enacting provisions set out as notes under this section, section 2267 of this title, and section 6981 of Title 42, The Public Health and Welfare] shall be effective on the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, enters into force for the United States. [Annex V entered into force for the United States Dec. 31, 1988.]
 
@@ -107,7 +107,7 @@ Pub. L. 100–220, title II, § 2002, Dec. 29, 1987, 101 Stat. 1460, provided 
 
 **Effective Date**
 
-Pub. L. 96–478, § 14(a), (b), Oct. 21, 1980, 94 Stat. 2303, provided:
+Pub. L. 96–478, § 14(a), (b), Oct. 21, 1980, 94 Stat. 2303, provided:
 
 > **“(a)** Except as provided in subsection (b) of this section, this Act [see Short Title note below] is effective upon the date of enactment [Oct. 21, 1980], or on the date the MARPOL Protocol becomes effective as to the United States, whichever is later. [The MARPOL Protocol became effective as to the United States Oct. 2, 1983.]
 
@@ -115,19 +115,19 @@ Pub. L. 96–478, § 14(a), (b), Oct. 21, 1980, 94 Stat. 2303, provided:
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–280, § 1, July 21, 2008, 122 Stat. 2611, provided that: “This Act [amending this section and sections 1902, 1903 to 1905, and 1907 to 1911 of this title] may be cited as the ‘Maritime Pollution Prevention Act of 2008’.”
+Pub. L. 110–280, § 1, July 21, 2008, 122 Stat. 2611, provided that: “This Act [amending this section and sections 1902, 1903 to 1905, and 1907 to 1911 of this title] may be cited as the ‘Maritime Pollution Prevention Act of 2008’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–220, title II, § 2001, Dec. 29, 1987, 101 Stat. 1460, provided that: “This title [see Effective Date of 1987 Amendment note above] may be cited as the ‘Marine Plastic Pollution Research and Control Act of 1987’.”
+Pub. L. 100–220, title II, § 2001, Dec. 29, 1987, 101 Stat. 1460, provided that: “This title [see Effective Date of 1987 Amendment note above] may be cited as the ‘Marine Plastic Pollution Research and Control Act of 1987’.”
 
 **Short Title**
 
-Pub. L. 96–478, § 1, Oct. 21, 1980, 94 Stat. 2297, provided: “That this Act [enacting this chapter, amending section 1321 of this title and section 742c(c) of Title 16, Conservation, and section 391a of former Title 46, Shipping, repealing sections 1001 to 1011 and 1013 to 1016 of this title, and enacting provisions set out as notes under section 1001 of this title, and section 742c of Title 16] may be cited as the ‘Act to Prevent Pollution from Ships’.”
+Pub. L. 96–478, § 1, Oct. 21, 1980, 94 Stat. 2297, provided: “That this Act [enacting this chapter, amending section 1321 of this title and section 742c(c) of Title 16, Conservation, and section 391a of former Title 46, Shipping, repealing sections 1001 to 1011 and 1013 to 1016 of this title, and enacting provisions set out as notes under section 1001 of this title, and section 742c of Title 16] may be cited as the ‘Act to Prevent Pollution from Ships’.”
 
 **Savings Provision: Regulations in Effect Until Superseded**
 
-Pub. L. 96–478, § 14(c), Oct. 21, 1980, 94 Stat. 2303, provided that: “Any rights or liabilities existing on the effective date of this Act [see Effective Date note above] shall not be affected by this enactment [see Short Title note above]. Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended [section 1001 et seq. of this title], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
+Pub. L. 96–478, § 14(c), Oct. 21, 1980, 94 Stat. 2303, provided that: “Any rights or liabilities existing on the effective date of this Act [see Effective Date note above] shall not be affected by this enactment [see Short Title note above]. Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended [section 1001 et seq. of this title], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
 
 **Transfer of Functions**
 
@@ -135,7 +135,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Interim Authority for Dry Bulk Cargo Residue Disposal**
 
-Pub. L. 108–293, title VI, § 623, Aug. 9, 2004, 118 Stat. 1063, provided that:
+Pub. L. 108–293, title VI, § 623, Aug. 9, 2004, 118 Stat. 1063, provided that:
 
 > **“(a) Extension of Interim Authority.—** The Secretary of the Department in which the Coast Guard is operating shall continue to implement and enforce United States Coast Guard 1997 Enforcement Policy for Cargo Residues on the Great Lakes (hereinafter in this section referred to as the ‘Policy’) or revisions thereto, in accordance with that policy, for the purpose of regulating incidental discharges from vessels of residues of dry bulk cargo into the waters of the Great Lakes under the jurisdiction of the United States, until the earlier of—
 
@@ -149,7 +149,7 @@ Pub. L. 108–293, title VI, § 623, Aug. 9, 2004, 118 Stat. 1063, provided th
 
 **Study and Regulation of Great Lakes Cargo Residues**
 
-Pub. L. 106–554, § 1(a)(4) [div. A, § 1117(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–209, provided that:
+Pub. L. 106–554, § 1(a)(4) [div. A, § 1117(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–209, provided that:
 
 > **“(b)** The Secretary shall conduct a study of the effectiveness of the United States 1997 Enforcement Policy for Cargo Residues on the Great Lakes (‘Policy’) by September 30, 2002.
 
@@ -157,7 +157,7 @@ Pub. L. 106–554, § 1(a)(4) [div. A, § 1117(b), (c)], Dec. 21, 2000, 114 
 
 **Certain Alaskan Cruise Ship Operations**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title XIV], Dec. 21, 2000, 114 Stat. 2763, 2763A–315, provided that:
+Pub. L. 106–554, § 1(a)(4) [div. B, title XIV], Dec. 21, 2000, 114 Stat. 2763, 2763A–315, provided that:
 
 > **“SEC. 1401. PURPOSE.**
 
@@ -379,13 +379,13 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title XIV], Dec. 21, 2000, 114 Stat. 27
 
 **Preemption; Additional State Requirements**
 
-Pub. L. 100–220, title II, § 2003, Dec. 29, 1987, 101 Stat. 1460, provided that:
+Pub. L. 100–220, title II, § 2003, Dec. 29, 1987, 101 Stat. 1460, provided that:
 
 > **“(a) Preemption.—** Except as specifically provided in this title [see Effective Date of 1987 Amendment note above], nothing in this title shall be interpreted or construed to supersede or preempt any other provision of Federal or State law, either statutory or common.
 
 > **“(b) Additional State Requirements.—** Nothing in this title shall be construed or interpreted as preempting any State from imposing any additional requirements.”
 
-## § 1902. Ships subject to preventive measures
+## § 1902. Ships subject to preventive measures
 
 **(a) Included vessels** This chapter shall apply—
 
@@ -543,9 +543,9 @@ The Secretary or the Administrator, consistent with section 1903 of this title, 
 
 **(h) Waiver authority**
 
-The President may waive the effective dates of the requirements set forth in subsection (c) 1
+The President may waive the effective dates of the requirements set forth in subsection (c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this section and in subsection 1003(e) of the National Defense Authorization Act for Fiscal Year 1994 if the President determines it to be in the paramount interest of the United States to do so. Any such waiver shall be for a period not in excess of one year. The President shall submit to the Congress each January a report on all waivers from the requirements of this section granted during the preceding calendar year, together with the reasons for granting such waivers.
 
@@ -557,7 +557,7 @@ The heads of Federal departments and agencies shall prescribe standards applicab
 
 Nothing in this section shall be construed to restrict in a manner inconsistent with international law navigational rights and freedoms as defined by United States law, treaty, convention, or customary international law.
 
-(Pub. L. 96–478, § 3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, § 2102, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 103–160, div. A, title X, § 1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, § 324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, § 201(b), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 105–261, div. A, title III, § 326, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 110–280, § 4, July 21, 2008, 122 Stat. 2611; Pub. L. 112–81, div. A, title III, § 313, Dec. 31, 2011, 125 Stat. 1355; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(a)(2), Jan. 1, 2021, 134 Stat. 4746.)
+(Pub. L. 96–478, § 3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, § 2102, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 103–160, div. A, title X, § 1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, § 324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, § 201(b), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 105–261, div. A, title III, § 326, Oct. 17, 1998, 112 Stat. 1965; Pub. L. 110–280, § 4, July 21, 2008, 122 Stat. 2611; Pub. L. 112–81, div. A, title III, § 313, Dec. 31, 2011, 125 Stat. 1355; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(a)(2), Jan. 1, 2021, 134 Stat. 4746.)
 
 **Editorial Notes**
 
@@ -567,61 +567,61 @@ This chapter, referred to in subsecs. (b)(1) and (e), was in the original “thi
 
 Section 1003(e) of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsecs. (g)(4)(B) and (h), is section 1003(e) of Pub. L. 103–160, which is set out below.
 
-Subsection (c) of this section, referred to in subsec. (h), was redesignated subsection (d) by Pub. L. 110–280, § 4(3), July 21, 2008, 122 Stat. 2613.
+Subsection (c) of this section, referred to in subsec. (h), was redesignated subsection (d) by Pub. L. 110–280, § 4(3), July 21, 2008, 122 Stat. 2613.
 
 **Amendments**
 
 2021—Subsecs. (e) to (j). Pub. L. 116–283 added subsec. (e) and redesignated former subsecs. (e) to (i) as (f) to (j), respectively.
 
-2011—Subsec. (b). Pub. L. 112–81, § 313(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to excluded vessels.
+2011—Subsec. (b). Pub. L. 112–81, § 313(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to excluded vessels.
 
-Subsec. (f)(1). Pub. L. 112–81, § 313(b)(1), substituted “subsection (b)” for “Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1)”.
+Subsec. (f)(1). Pub. L. 112–81, § 313(b)(1), substituted “subsection (b)” for “Annex V to the Convention on or before the dates referred to in subsections (b)(2)(A) and (c)(1)”.
 
-Subsec. (f)(2). Pub. L. 112–81, § 313(b)(2), inserted “and subsection (b)(3)(B)(i) of this section” after “Annex V to the Convention”.
+Subsec. (f)(2). Pub. L. 112–81, § 313(b)(2), inserted “and subsection (b)(3)(B)(i) of this section” after “Annex V to the Convention”.
 
-2008—Subsec. (a)(5). Pub. L. 110–280, § 4(1), added par. (5).
+2008—Subsec. (a)(5). Pub. L. 110–280, § 4(1), added par. (5).
 
-Subsec. (b)(1). Pub. L. 110–280, § 4(2)(A), substituted “paragraphs (2) and (3),” for “paragraph (2),” in introductory provisions.
+Subsec. (b)(1). Pub. L. 110–280, § 4(2)(A), substituted “paragraphs (2) and (3),” for “paragraph (2),” in introductory provisions.
 
-Subsec. (b)(3). Pub. L. 110–280, § 4(2)(B), added par. (3).
+Subsec. (b)(3). Pub. L. 110–280, § 4(2)(B), added par. (3).
 
-Subsecs. (c), (d). Pub. L. 110–280, § 4(3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsecs. (c), (d). Pub. L. 110–280, § 4(3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 110–280, § 4(4)(C), substituted “Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI” for “Protocol, including regulations conforming to and giving effect to the requirements of Annex V”.
+Subsec. (e). Pub. L. 110–280, § 4(4)(C), substituted “Protocol (or the applicable Annex), including regulations conforming to and giving effect to the requirements of Annex V and Annex VI” for “Protocol, including regulations conforming to and giving effect to the requirements of Annex V”.
 
-Pub. L. 110–280, § 4(4)(B), made technical amendment to reference in original act which appears in text as reference to “of this section” requiring no change in text.
+Pub. L. 110–280, § 4(4)(B), made technical amendment to reference in original act which appears in text as reference to “of this section” requiring no change in text.
 
-Pub. L. 110–280, § 4(4)(A), inserted “or the Administrator, consistent with section 1903 of this title,” after “Secretary”.
+Pub. L. 110–280, § 4(4)(A), inserted “or the Administrator, consistent with section 1903 of this title,” after “Secretary”.
 
-Pub. L. 110–280, § 4(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Pub. L. 110–280, § 4(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsecs. (f) to (h). Pub. L. 110–280, § 4(3), redesignated subsecs. (e) to (g) as (f) to (h), respectively.
+Subsecs. (f) to (h). Pub. L. 110–280, § 4(3), redesignated subsecs. (e) to (g) as (f) to (h), respectively.
 
-Subsec. (i). Pub. L. 110–280, § 4(5), added subsec. (i).
+Subsec. (i). Pub. L. 110–280, § 4(5), added subsec. (i).
 
-1998—Subsec. (c)(2)(A)(iii). Pub. L. 105–261, § 326(a)(1), added cl. (iii).
+1998—Subsec. (c)(2)(A)(iii). Pub. L. 105–261, § 326(a)(1), added cl. (iii).
 
-Subsec. (c)(2)(B)(ii). Pub. L. 105–261, § 326(a)(2), substituted “clauses (ii) and (iii) of subparagraph (A)” for “subparagraph (A)(ii)”.
+Subsec. (c)(2)(B)(ii). Pub. L. 105–261, § 326(a)(2), substituted “clauses (ii) and (iii) of subparagraph (A)” for “subparagraph (A)(ii)”.
 
-Subsec. (e)(3)(A). Pub. L. 105–261, § 326(b), struck out “garbage that contains more than the minimum amount practicable of” after “buoyant garbage or”.
+Subsec. (e)(3)(A). Pub. L. 105–261, § 326(b), struck out “garbage that contains more than the minimum amount practicable of” after “buoyant garbage or”.
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–227 inserted “or the Antarctic Protocol” after “MARPOL Protocol”.
 
-Subsec. (c)(1). Pub. L. 104–201, § 324(a)(1), substituted “Except as provided in paragraphs (2) and (3), not later than” for “Not later than”.
+Subsec. (c)(1). Pub. L. 104–201, § 324(a)(1), substituted “Except as provided in paragraphs (2) and (3), not later than” for “Not later than”.
 
-Subsec. (c)(2) to (4). Pub. L. 104–201, § 324(a)(2), added pars. (2) and (3) and struck out former pars. (2) to (4) which required the Secretary of the Navy to submit to Congress a plan for compliance of Navy ships with the requirements set forth in par. (1) of this subsec. and provided for modification of the applicability of par. (1) as appropriate.
+Subsec. (c)(2) to (4). Pub. L. 104–201, § 324(a)(2), added pars. (2) and (3) and struck out former pars. (2) to (4) which required the Secretary of the Navy to submit to Congress a plan for compliance of Navy ships with the requirements set forth in par. (1) of this subsec. and provided for modification of the applicability of par. (1) as appropriate.
 
-Subsec. (e)(4)(A). Pub. L. 104–201, § 324(d), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Beginning on October 1, 1994, and each year thereafter until October 1, 2000, the amount and nature of the discharges in special areas, not otherwise authorized under Annex V to the Convention, during the preceding year from ships referred to in subsection (b)(1)(A) of this section owned or operated by the Department of the Navy.”
+Subsec. (e)(4)(A). Pub. L. 104–201, § 324(d), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Beginning on October 1, 1994, and each year thereafter until October 1, 2000, the amount and nature of the discharges in special areas, not otherwise authorized under Annex V to the Convention, during the preceding year from ships referred to in subsection (b)(1)(A) of this section owned or operated by the Department of the Navy.”
 
-1993—Subsec. (b)(2)(A). Pub. L. 103–160, § 1003(a), substituted “as follows:” and cls. (i) to (iii) for “after 5 years after the effective date of this paragraph to a ship referred to in paragraph (1)(A).”
+1993—Subsec. (b)(2)(A). Pub. L. 103–160, § 1003(a), substituted “as follows:” and cls. (i) to (iii) for “after 5 years after the effective date of this paragraph to a ship referred to in paragraph (1)(A).”
 
-Subsecs. (c), (d). Pub. L. 103–160, § 1003(b), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (g).
+Subsecs. (c), (d). Pub. L. 103–160, § 1003(b), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (g).
 
-Subsecs. (e), (f). Pub. L. 103–160, § 1003(c), (d), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 103–160, § 1003(c), (d), added subsecs. (e) and (f).
 
-Subsec. (g). Pub. L. 103–160, § 1003(b)(1), redesignated subsec. (d) as (g).
+Subsec. (g). Pub. L. 103–160, § 1003(b)(1), redesignated subsec. (d) as (g).
 
-1987—Subsec. (a). Pub. L. 100–220, § 2102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This chapter applies to—
+1987—Subsec. (a). Pub. L. 100–220, § 2102(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “This chapter applies to—
 
 “(1) a ship of United States registry or nationality, or one operated under the authority of the United States, wherever located;
 
@@ -629,13 +629,13 @@ Subsec. (g). Pub. L. 103–160, § 1003(b)(1), redesignated subsec. (d) as (g)
 
 “(3) a ship registered in or of the nationality of a country not a party to the MARPOL Protocol, under subsection (c) of this section, while in the navigable waters of the United States.”
 
-Subsec. (b). Pub. L. 100–220, § 2102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “This chapter does not apply to—
+Subsec. (b). Pub. L. 100–220, § 2102(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “This chapter does not apply to—
 
 “(1) a warship, naval auxiliary, or other ship owned or operated by the United States when engaged in noncommercial service; or
 
 “(2) any other ship specifically excluded by the MARPOL Protocol.”
 
-Subsec. (c). Pub. L. 100–220, § 2102(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol to ensure that their treatment is not more favorable than that accorded ships of parties to the MARPOL Protocol.”
+Subsec. (c). Pub. L. 100–220, § 2102(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary shall prescribe regulations applicable to the ships of a country not a party to the MARPOL Protocol to ensure that their treatment is not more favorable than that accorded ships of parties to the MARPOL Protocol.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -649,7 +649,7 @@ Subsecs. (c) and (d) of this section effective Oct. 21, 1980, see section 14(b) 
 
 **Compliance With Annex V to the International Convention for the Prevention of Pollution From Ships, 1973**
 
-Pub. L. 104–201, div. A, title III, § 324(b), (c), Sept. 23, 1996, 110 Stat. 2480, as amended by Pub. L. 105–85, div. A, title X, § 1073(c)(1), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 108–136, div. A, title X, § 1031(f)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
+Pub. L. 104–201, div. A, title III, § 324(b), (c), Sept. 23, 1996, 110 Stat. 2480, as amended by Pub. L. 105–85, div. A, title X, § 1073(c)(1), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 108–136, div. A, title X, § 1031(f)(1), Nov. 24, 2003, 117 Stat. 1604, provided that:
 
 > **“(b) Sense of Congress.—**
 
@@ -657,11 +657,11 @@ Pub. L. 104–201, div. A, title III, § 324(b), (c), Sept. 23, 1996, 110 Stat
 
 > **“(2)** In this subsection and subsection (c), the terms ‘Convention’ and ‘ship’ have the meanings given such terms in section 2(a) of the Act to Prevent Pollution from Ships (33 U.S.C. 1901(a)).
 
-> **“[(c)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(f)(1), Nov. 24, 2003, 117 Stat. 1604.]”
+> **“[(c)** Repealed. Pub. L. 108–136, div. A, title X, § 1031(f)(1), Nov. 24, 2003, 117 Stat. 1604.]”
 
 **Installation Schedule for Plastics Processor Equipment Aboard Ships; Request for Proposals for Equipment**
 
-Pub. L. 103–160, div. A, title X, § 1003(e), Nov. 30, 1993, 107 Stat. 1747, provided that:
+Pub. L. 103–160, div. A, title X, § 1003(e), Nov. 30, 1993, 107 Stat. 1747, provided that:
 
 > **“(1)** Not later than October 1, 1994, the Secretary of the Navy shall release a request for proposals for equipment (hereinafter in this subsection referred to as ‘plastics processor’) required for the long-term collection and storage of plastic aboard ships owned or operated by the Navy.
 
@@ -675,11 +675,11 @@ Pub. L. 103–160, div. A, title X, § 1003(e), Nov. 30, 1993, 107 Stat. 1747,
 
 > **“(6)** Not later than December 31, 1998, the Secretary shall complete the installation of plastics processors on board all ships owned or operated by the Navy that require processors to comply with section 3 of such Act, as amended by subsections (a), (b), and (c) of this section.”
 
-## § 1902a. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(a)(1), Jan. 1, 2021, 134 Stat. 4746
+## § 1902a. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8502(a)(1), Jan. 1, 2021, 134 Stat. 4746
 
-Section, Pub. L. 107–295, title II, § 204, Nov. 25, 2002, 116 Stat. 2094, related to discharge of agricultural cargo residue. See section 1902(e) of this title.
+Section, Pub. L. 107–295, title II, § 204, Nov. 25, 2002, 116 Stat. 2094, related to discharge of agricultural cargo residue. See section 1902(e) of this title.
 
-## § 1903. Administration and enforcement
+## § 1903. Administration and enforcement
 
 **(a) Duty of Secretary; Annexes of Convention applicable to seagoing vessels**
 
@@ -723,33 +723,33 @@ Unless otherwise specified in this chapter, the Secretary shall administer and e
 
 The Secretary may utilize by agreement, with or without reimbursement, personnel, facilities, or equipment of other Federal departments and agencies in administering the MARPOL Protocol, this chapter, or the regulations thereunder.
 
-(Pub. L. 96–478, § 4, Oct. 21, 1980, 94 Stat. 2298; Pub. L. 100–220, title II, § 2107, Dec. 29, 1987, 101 Stat. 1464; Pub. L. 104–227, title II, § 201(c), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 110–280, § 5, July 21, 2008, 122 Stat. 2613.)
+(Pub. L. 96–478, § 4, Oct. 21, 1980, 94 Stat. 2298; Pub. L. 100–220, title II, § 2107, Dec. 29, 1987, 101 Stat. 1464; Pub. L. 104–227, title II, § 201(c), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 110–280, § 5, July 21, 2008, 122 Stat. 2613.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Clean Air Act, referred to in subsec. (b)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (b)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The effective date of this paragraph, referred to in subsec. (c)(4)(C), is Dec. 31, 1988, the effective date of section 2107(b) of Pub. L. 100–220. See Effective Date of 1987 Amendment note below.
 
 **Amendments**
 
-2008—Subsec. (b). Pub. L. 110–280, § 5(1), added subsec. (b). Former subsec. (b) redesignated (c).
+2008—Subsec. (b). Pub. L. 110–280, § 5(1), added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 110–280 redesignated subsec. (b) as (c), added pars. (2), (3), and (5), and redesignated former par. (2) as (4). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 110–280, § 5(1), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 110–280, § 5(1), redesignated subsec. (c) as (d).
 
-1996—Subsec. (a). Pub. L. 104–227, § 201(c)(1), inserted “, Annex IV to the Antarctic Protocol,” after “the MARPOL Protocol” in first sentence.
+1996—Subsec. (a). Pub. L. 104–227, § 201(c)(1), inserted “, Annex IV to the Antarctic Protocol,” after “the MARPOL Protocol” in first sentence.
 
-Subsec. (b)(1). Pub. L. 104–227, § 201(c)(2), inserted “, Annex IV to the Antarctic Protocol,” after “the MARPOL Protocol”.
+Subsec. (b)(1). Pub. L. 104–227, § 201(c)(2), inserted “, Annex IV to the Antarctic Protocol,” after “the MARPOL Protocol”.
 
-Subsec. (b)(2)(A). Pub. L. 104–227, § 201(c)(3), (4), struck out “within 1 year after the effective date of this paragraph,” before “prescribe” in introductory provisions and inserted “and of Annex IV to the Antarctic Protocol” after “the Convention” in cl. (i).
+Subsec. (b)(2)(A). Pub. L. 104–227, § 201(c)(3), (4), struck out “within 1 year after the effective date of this paragraph,” before “prescribe” in introductory provisions and inserted “and of Annex IV to the Antarctic Protocol” after “the Convention” in cl. (i).
 
-1987—Subsec. (a). Pub. L. 100–220, § 2107(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unless otherwise specified herein, the Secretary shall administer and enforce the MARPOL Protocol and this chapter. In the administration and enforcement of the MARPOL Protocol and this chapter, Annexes I and II of the MARPOL Protocol shall be applicable only to seagoing ships.”
+1987—Subsec. (a). Pub. L. 100–220, § 2107(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Unless otherwise specified herein, the Secretary shall administer and enforce the MARPOL Protocol and this chapter. In the administration and enforcement of the MARPOL Protocol and this chapter, Annexes I and II of the MARPOL Protocol shall be applicable only to seagoing ships.”
 
-Subsec. (b). Pub. L. 100–220, § 2107(b), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 100–220, § 2107(b), designated existing provisions as par. (1) and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -765,7 +765,7 @@ Subsec. (b) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1904. Certificates
+## § 1904. Certificates
 
 **(a) Issuance by authorized designees; restriction on issuance**
 
@@ -805,7 +805,7 @@ A person whose ship is subject to a detention order under this section may petit
 
 A ship unreasonably detained or delayed by the Secretary acting under the authority of this chapter is entitled to compensation for any loss or damage suffered thereby.
 
-(Pub. L. 96–478, § 5, Oct. 21, 1980, 94 Stat. 2298; Pub. L. 110–280, § 6, July 21, 2008, 122 Stat. 2614; Pub. L. 115–232, div. C, title XXXV, § 3548(c), Aug. 13, 2018, 132 Stat. 2328.)
+(Pub. L. 96–478, § 5, Oct. 21, 1980, 94 Stat. 2298; Pub. L. 110–280, § 6, July 21, 2008, 122 Stat. 2614; Pub. L. 115–232, div. C, title XXXV, § 3548(c), Aug. 13, 2018, 132 Stat. 2328.)
 
 **Editorial Notes**
 
@@ -813,11 +813,11 @@ A ship unreasonably detained or delayed by the Secretary acting under the author
 
 2018—Subsec. (f). Pub. L. 115–232 amended subsec. (f) generally. Prior to amendment, subsec. (f) related to refusal or revocation of ship clearance or permits.
 
-2008—Subsec. (a). Pub. L. 110–280, § 6(1), substituted “Except as provided in section 1903(b)(1) of this title, the Secretary” for “The Secretary”.
+2008—Subsec. (a). Pub. L. 110–280, § 6(1), substituted “Except as provided in section 1903(b)(1) of this title, the Secretary” for “The Secretary”.
 
-Subsec. (b). Pub. L. 110–280, § 6(2), substituted “Secretary or the Administrator under the authority of this chapter.” for “Secretary under the authority of the MARPOL Protocol.”
+Subsec. (b). Pub. L. 110–280, § 6(2), substituted “Secretary or the Administrator under the authority of this chapter.” for “Secretary under the authority of the MARPOL Protocol.”
 
-Subsec. (e). Pub. L. 110–280, § 6(3), substituted “environment or the public health and welfare.” for “environment.” in concluding provisions.
+Subsec. (e). Pub. L. 110–280, § 6(3), substituted “environment or the public health and welfare.” for “environment.” in concluding provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -825,7 +825,7 @@ Subsec. (e). Pub. L. 110–280, § 6(3), substituted “environment or the pub
 
 Subsec. (a) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L. 96–478, set out as a note under section 1901 of this title.
 
-## § 1905. Pollution reception facilities
+## § 1905. Pollution reception facilities
 
 **(a) Adequacy; criteria**
 
@@ -893,43 +893,43 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 **(2)** Not later than 18 months after October 19, 1996, the Secretary shall promulgate regulations that require the operator of each port or terminal that is subject to any requirement of the MARPOL Protocol relating to reception facilities to post a placard in a location that can easily be seen by port and terminal users. The placard shall state, at a minimum, that a user of a reception facility of the port or terminal should report to the Secretary any inadequacy of the reception facility.
 
-(Pub. L. 96–478, § 6, Oct. 21, 1980, 94 Stat. 2299; Pub. L. 100–220, title II, § 2103, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 101–225, title II, § 201(1), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–227, title II, § 201(d), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 104–324, title VIII, § 801, Oct. 19, 1996, 110 Stat. 3943; Pub. L. 110–280, § 7, July 21, 2008, 122 Stat. 2614.)
+(Pub. L. 96–478, § 6, Oct. 21, 1980, 94 Stat. 2299; Pub. L. 100–220, title II, § 2103, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 101–225, title II, § 201(1), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–227, title II, § 201(d), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 104–324, title VIII, § 801, Oct. 19, 1996, 110 Stat. 3943; Pub. L. 110–280, § 7, July 21, 2008, 122 Stat. 2614.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(3). Pub. L. 110–280, § 7(1), added par. (3).
+2008—Subsec. (a)(3). Pub. L. 110–280, § 7(1), added par. (3).
 
-Subsec. (b). Pub. L. 110–280, § 7(2), inserted “or the Administrator” after “Secretary”.
+Subsec. (b). Pub. L. 110–280, § 7(2), inserted “or the Administrator” after “Secretary”.
 
-Subsec. (e)(2). Pub. L. 110–280, § 7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary may deny the entry of a ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations.”
+Subsec. (e)(2). Pub. L. 110–280, § 7(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary may deny the entry of a ship to a port or terminal required by regulations issued under this section to provide adequate reception facilities for garbage if the port or terminal is not in compliance with those regulations.”
 
-Subsec. (f)(1). Pub. L. 110–280, § 7(4), substituted “Secretary and the Administrator are” for “Secretary is”.
+Subsec. (f)(1). Pub. L. 110–280, § 7(4), substituted “Secretary and the Administrator are” for “Secretary is”.
 
-Subsec. (f)(2). Pub. L. 110–280, § 7(5), struck out subpar. (A) designation before “Not later”.
+Subsec. (f)(2). Pub. L. 110–280, § 7(5), struck out subpar. (A) designation before “Not later”.
 
-1996—Subsec. (b). Pub. L. 104–227, § 201(d)(1), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
+1996—Subsec. (b). Pub. L. 104–227, § 201(d)(1), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
 
-Subsec. (c)(2). Pub. L. 104–324, § 801(a)(1), (2), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), if” for “If”, and added subpars. (B) and (C).
+Subsec. (c)(2). Pub. L. 104–324, § 801(a)(1), (2), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), if” for “If”, and added subpars. (B) and (C).
 
-Subsec. (c)(3)(A). Pub. L. 104–324, § 801(a)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: “is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and”.
+Subsec. (c)(3)(A). Pub. L. 104–324, § 801(a)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: “is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and”.
 
-Subsec. (d). Pub. L. 104–324, § 801(a)(4), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall periodically cause to be published in the Federal Register a list of the ports or terminals holding a valid certificate issued under this section.”
+Subsec. (d). Pub. L. 104–324, § 801(a)(4), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall periodically cause to be published in the Federal Register a list of the ports or terminals holding a valid certificate issued under this section.”
 
-Subsec. (e)(1). Pub. L. 104–227, § 201(d)(2), (3), inserted “or the Antarctic Protocol” after “the Convention” in introductory provisions and inserted “or Article 9 of Annex IV to the Antarctic Protocol” after “the Convention” in subpar. (A).
+Subsec. (e)(1). Pub. L. 104–227, § 201(d)(2), (3), inserted “or the Antarctic Protocol” after “the Convention” in introductory provisions and inserted “or Article 9 of Annex IV to the Antarctic Protocol” after “the Convention” in subpar. (A).
 
-Subsec. (f). Pub. L. 104–324, § 801(b), designated existing provisions as par. (1) and added par. (2)(A).
+Subsec. (f). Pub. L. 104–324, § 801(b), designated existing provisions as par. (1) and added par. (2)(A).
 
-Pub. L. 104–227, § 201(d)(4), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
+Pub. L. 104–227, § 201(d)(4), inserted “or the Antarctic Protocol” after “the MARPOL Protocol”.
 
 1989—Subsec. (c)(1). Pub. L. 101–225 substituted “Annex I and Annex II” for “Annex V”.
 
-1987—Subsec. (a). Pub. L. 100–220, § 2103(a), designated existing provisions as par. (1), substituted “a port’s or terminal’s reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
+1987—Subsec. (a). Pub. L. 100–220, § 2103(a), designated existing provisions as par. (1), substituted “a port’s or terminal’s reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
 
-Subsec. (b). Pub. L. 100–220, § 2103(b), inserted “and in establishing regulations under subsection (a) of this section,” and “ships or”.
+Subsec. (b). Pub. L. 100–220, § 2103(b), inserted “and in establishing regulations under subsection (a) of this section,” and “ships or”.
 
-Subsec. (c). Pub. L. 100–220, § 2103(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If, upon inspection, reception facilities of a port or terminal are adequate to meet the requirements of the MARPOL Protocol and the regulations established hereunder, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant. A certificate issued under this subsection—
+Subsec. (c). Pub. L. 100–220, § 2103(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If, upon inspection, reception facilities of a port or terminal are adequate to meet the requirements of the MARPOL Protocol and the regulations established hereunder, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant. A certificate issued under this subsection—
 
 “(1) is valid until suspended or revoked by the Secretary for cause or because of changed conditions; and
 
@@ -937,7 +937,7 @@ Subsec. (c). Pub. L. 100–220, § 2103(c), amended subsec. (c) generally. Pri
 
 The suspension or revocation of a certificate issued under this subsection may be appealed to the Secretary and acted on by him in the manner prescribed by regulation.”
 
-Subsec. (e). Pub. L. 100–220, § 2103(d), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
+Subsec. (e). Pub. L. 100–220, § 2103(d), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A), substituted “Annexes I and II of the Convention” for “the MARPOL Protocol”, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -949,7 +949,7 @@ Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex 
 
 Subsecs. (a), (c), and (f) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L. 96–478, set out as a note under section 1901 of this title.
 
-## § 1906. Incidents involving ships
+## § 1906. Incidents involving ships
 
 **(a) Requirement to report incident**
 
@@ -965,7 +965,7 @@ The master, person in charge, owner, charterer, manager, or operator of a ship i
 
 shall report a discharge, probable discharge, or presence of oil in the manner prescribed by Article 4 of the International Convention on Oil Pollution Preparedness, Response and Cooperation, 1990 (adopted at London, November 30, 1990), in accordance with regulations promulgated by the Secretary for that purpose.
 
-(Pub. L. 96–478, § 7, Oct. 21, 1980, 94 Stat. 2300; Pub. L. 102–241, § 39, Dec. 19, 1991, 105 Stat. 2225.)
+(Pub. L. 96–478, § 7, Oct. 21, 1980, 94 Stat. 2300; Pub. L. 102–241, § 39, Dec. 19, 1991, 105 Stat. 2225.)
 
 **Editorial Notes**
 
@@ -977,7 +977,7 @@ shall report a discharge, probable discharge, or presence of oil in the manner p
 
 “(b) Upon receipt of the report of an incident involving a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the Secretary shall take the action required by Article 8 of the Convention.”
 
-## § 1907. Violations
+## § 1907. Violations
 
 **(a) General prohibition; cooperation and enforcement; detection and monitoring measures; reports; evidence**
 
@@ -1019,7 +1019,7 @@ If an inspection under this subsection indicates that a violation has occurred, 
 
 **(3)** Notwithstanding subsection (b) and paragraph (2) of this subsection, the Administrator shall have all of the authorities of the Secretary, as specified in subsection (b) of this section, for the purposes of enforcing regulations 17 and 18 of Annex VI to the Convention to the extent that shoreside violations are the subject of the action and in any other matter referred to the Administrator by the Secretary.
 
-(Pub. L. 96–478, § 8, Oct. 21, 1980, 94 Stat. 2300; Pub. L. 100–220, title II, § 2104, Dec. 29, 1987, 101 Stat. 1462; Pub. L. 101–225, title II, § 201(2), (3), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–227, title II, § 201(e), Oct. 2, 1996, 110 Stat. 3043; Pub. L. 110–280, § 8, July 21, 2008, 122 Stat. 2614.)
+(Pub. L. 96–478, § 8, Oct. 21, 1980, 94 Stat. 2300; Pub. L. 100–220, title II, § 2104, Dec. 29, 1987, 101 Stat. 1462; Pub. L. 101–225, title II, § 201(2), (3), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–227, title II, § 201(e), Oct. 2, 1996, 110 Stat. 3043; Pub. L. 110–280, § 8, July 21, 2008, 122 Stat. 2614.)
 
 **Editorial Notes**
 
@@ -1027,25 +1027,25 @@ If an inspection under this subsection indicates that a violation has occurred, 
 
 2008—Subsec. (f). Pub. L. 110–280 amended subsec. (f) generally. Prior to amendment, text read as follows: “Remedies and requirements of this chapter supplement and neither amend nor repeal any other provisions of law, except as expressly provided in this chapter. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other remedy available to the United States or any other person, except as expressly provided in this chapter.”
 
-1996—Subsec. (a). Pub. L. 104–227, § 201(e)(1), (2), inserted “Annex IV to the Antarctic Protocol,” after “violation of the MARPOL Protocol,”, “or to the Antarctic Protocol” after “to the MARPOL Protocol”, and “and Annex IV to the Antarctic Protocol” after “enforcement of the MARPOL Protocol”.
+1996—Subsec. (a). Pub. L. 104–227, § 201(e)(1), (2), inserted “Annex IV to the Antarctic Protocol,” after “violation of the MARPOL Protocol,”, “or to the Antarctic Protocol” after “to the MARPOL Protocol”, and “and Annex IV to the Antarctic Protocol” after “enforcement of the MARPOL Protocol”.
 
-Subsec. (b). Pub. L. 104–227, § 201(e)(3), inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
+Subsec. (b). Pub. L. 104–227, § 201(e)(3), inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
 
-Subsec. (c)(1). Pub. L. 104–227, § 201(e)(4), inserted “, of Article 3 or Article 4 of Annex IV to the Antarctic Protocol,” after “to the Convention”.
+Subsec. (c)(1). Pub. L. 104–227, § 201(e)(4), inserted “, of Article 3 or Article 4 of Annex IV to the Antarctic Protocol,” after “to the Convention”.
 
-Subsec. (c)(2). Pub. L. 104–227, § 201(e)(5), (6), inserted “or the Antarctic Protocol” after “which the MARPOL Protocol” in introductory provisions, “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol” in subpar. (A), and “or the Antarctic Protocol” after “to the MARPOL Protocol” and “or Annex IV to the Antarctic Protocol” after “of the MARPOL Protocol” in subpar. (B).
+Subsec. (c)(2). Pub. L. 104–227, § 201(e)(5), (6), inserted “or the Antarctic Protocol” after “which the MARPOL Protocol” in introductory provisions, “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol” in subpar. (A), and “or the Antarctic Protocol” after “to the MARPOL Protocol” and “or Annex IV to the Antarctic Protocol” after “of the MARPOL Protocol” in subpar. (B).
 
-Subsec. (d)(1). Pub. L. 104–227, § 201(e)(8), inserted “, Article 5 of Annex IV to the Antarctic Protocol,” after “Convention”.
+Subsec. (d)(1). Pub. L. 104–227, § 201(e)(8), inserted “, Article 5 of Annex IV to the Antarctic Protocol,” after “Convention”.
 
-Subsec. (e)(1). Pub. L. 104–227, § 201(e)(9), inserted “or the Antarctic Protocol” after “MARPOL Protocol” and substituted “those Protocols” for “that Protocol”.
+Subsec. (e)(1). Pub. L. 104–227, § 201(e)(9), inserted “or the Antarctic Protocol” after “MARPOL Protocol” and substituted “those Protocols” for “that Protocol”.
 
-Subsec. (e)(2). Pub. L. 104–227, § 201(e)(10), inserted “, of Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
+Subsec. (e)(2). Pub. L. 104–227, § 201(e)(10), inserted “, of Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
 
 1989—Subsecs. (c)(1), (e)(2). Pub. L. 101–225 inserted “or of this chapter”.
 
-1987—Subsec. (c). Pub. L. 100–220, § 2104(a), added par. (1), designated existing provisions as par. (2), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and in closing provisions of par. (2) substituted “The” for “If a report made under this subsection involves a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the”.
+1987—Subsec. (c). Pub. L. 100–220, § 2104(a), added par. (1), designated existing provisions as par. (2), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and in closing provisions of par. (2) substituted “The” for “If a report made under this subsection involves a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the”.
 
-Subsecs. (d) to (f). Pub. L. 100–220, § 2104(b), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+Subsecs. (d) to (f). Pub. L. 100–220, § 2104(b), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1053,7 +1053,7 @@ Subsecs. (d) to (f). Pub. L. 100–220, § 2104(b), added subsecs. (d) and (e)
 
 Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under section 1901 of this title.
 
-## § 1908. Penalties for violations
+## § 1908. Penalties for violations
 
 **(a) Criminal penalties; payment for information leading to conviction**
 
@@ -1087,39 +1087,39 @@ Notwithstanding subsection (a), (b), or (d) of this section, if the violation is
 
 Any penalty collected under subsection (a) or (b) that is not paid under that subsection to the person giving information leading to the conviction or assessment of such penalties shall be deposited in the Abandoned Seafarers Fund established under section 11113 of title 46.
 
-(Pub. L. 96–478, § 9, Oct. 21, 1980, 94 Stat. 2301; Pub. L. 100–220, title II, § 2105, Dec. 29, 1987, 101 Stat. 1463; Pub. L. 101–380, title IV, § 4302(n), Aug. 18, 1990, 104 Stat. 539; Pub. L. 103–182, title VI, § 688, Dec. 8, 1993, 107 Stat. 2222; Pub. L. 104–227, title II, § 201(f), Oct. 2, 1996, 110 Stat. 3043; Pub. L. 110–280, § 10, July 21, 2008, 122 Stat. 2615; Pub. L. 113–281, title III, § 320(c), Dec. 18, 2014, 128 Stat. 3054.)
+(Pub. L. 96–478, § 9, Oct. 21, 1980, 94 Stat. 2301; Pub. L. 100–220, title II, § 2105, Dec. 29, 1987, 101 Stat. 1463; Pub. L. 101–380, title IV, § 4302(n), Aug. 18, 1990, 104 Stat. 539; Pub. L. 103–182, title VI, § 688, Dec. 8, 1993, 107 Stat. 2222; Pub. L. 104–227, title II, § 201(f), Oct. 2, 1996, 110 Stat. 3043; Pub. L. 110–280, § 10, July 21, 2008, 122 Stat. 2615; Pub. L. 113–281, title III, § 320(c), Dec. 18, 2014, 128 Stat. 3054.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (e), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (e), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 U.S.C. App. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 **Amendments**
 
 2014—Subsec. (g). Pub. L. 113–281 added subsec. (g).
 
-2008—Pub. L. 110–280, § 10(1), substituted “MARPOL Protocol,” for “MARPOL Protocol,,” wherever appearing in subsecs. (a), (b), and (d).
+2008—Pub. L. 110–280, § 10(1), substituted “MARPOL Protocol,” for “MARPOL Protocol,,” wherever appearing in subsecs. (a), (b), and (d).
 
-Subsec. (b). Pub. L. 110–280, § 10(2)(C), in concluding provisions, inserted “or the Administrator as provided for in this chapter” after “Secretary,” and “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
+Subsec. (b). Pub. L. 110–280, § 10(2)(C), in concluding provisions, inserted “or the Administrator as provided for in this chapter” after “Secretary,” and “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
 
-Pub. L. 110–280, § 10(2)(A), in introductory provisions, inserted “or the Administrator as provided for in this chapter,” after “Secretary,”.
+Pub. L. 110–280, § 10(2)(A), in introductory provisions, inserted “or the Administrator as provided for in this chapter,” after “Secretary,”.
 
-Subsec. (b)(2). Pub. L. 110–280, § 10(2)(B), inserted “, or the Administrator as provided for in this chapter,” after “Secretary”.
+Subsec. (b)(2). Pub. L. 110–280, § 10(2)(B), inserted “, or the Administrator as provided for in this chapter,” after “Secretary”.
 
-Subsec. (c). Pub. L. 110–280, § 10(3), inserted “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
+Subsec. (c). Pub. L. 110–280, § 10(3), inserted “, or the Administrator as provided for in this chapter,” after “Secretary” in two places.
 
-Subsec. (f). Pub. L. 110–280, § 10(4), inserted “or the Administrator as provided for in this chapter” after “Secretary,”.
+Subsec. (f). Pub. L. 110–280, § 10(4), inserted “or the Administrator as provided for in this chapter” after “Secretary,”.
 
-1996—Subsec. (a). Pub. L. 104–227, § 201(f)(1), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
+1996—Subsec. (a). Pub. L. 104–227, § 201(f)(1), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
 
-Subsec. (b). Pub. L. 104–227, § 201(f)(2), (3), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,” in pars. (1) and (2).
+Subsec. (b). Pub. L. 104–227, § 201(f)(2), (3), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,” in pars. (1) and (2).
 
-Subsec. (d). Pub. L. 104–227, § 201(f)(4), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
+Subsec. (d). Pub. L. 104–227, § 201(f)(4), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol,”.
 
-Subsec. (e). Pub. L. 104–227, § 201(f)(5), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
+Subsec. (e). Pub. L. 104–227, § 201(f)(5), inserted “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
 
-Subsec. (f). Pub. L. 104–227, § 201(f)(6), inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
+Subsec. (f). Pub. L. 104–227, § 201(f)(6), inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
 
 1993—Subsec. (e). Pub. L. 103–182 substituted “shall refuse or revoke the clearance required by section 91 of title 46, Appendix. Clearance may be granted upon the filing of a bond or other surety satisfactory to the Secretary.” for “shall refuse or revoke—
 
@@ -1131,11 +1131,11 @@ Clearance or a permit to proceed may be granted upon the filing of a bond or oth
 
 1990—Subsec. (a). Pub. L. 101–380 substituted “commits a class D felony” for “shall, for each violation, be fined not more than $50,000 or be imprisoned for not more than 5 years, or both”.
 
-1987—Subsec. (a). Pub. L. 100–220, § 2105(a)(1), inserted at end “In the discretion of the Court, an amount equal to not more than ½ of such fine may be paid to the person giving information leading to conviction.”
+1987—Subsec. (a). Pub. L. 100–220, § 2105(a)(1), inserted at end “In the discretion of the Court, an amount equal to not more than ½ of such fine may be paid to the person giving information leading to conviction.”
 
-Subsec. (b). Pub. L. 100–220, § 2105(a)(2), inserted at end “An amount equal to not more than ½ of such penalties may be paid by the Secretary to the person giving information leading to the assessment of such penalties.”
+Subsec. (b). Pub. L. 100–220, § 2105(a)(2), inserted at end “An amount equal to not more than ½ of such penalties may be paid by the Secretary to the person giving information leading to the assessment of such penalties.”
 
-Subsec. (f). Pub. L. 100–220, § 2105(b), substituted “to the government of the country of the ship’s registry or nationality, or under whose authority the ship is operating” for “to that country”.
+Subsec. (f). Pub. L. 100–220, § 2105(b), substituted “to the government of the country of the ship’s registry or nationality, or under whose authority the ship is operating” for “to that country”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1147,7 +1147,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under section 1901 of this title.
 
-## § 1909. MARPOL Protocol; proposed amendments
+## § 1909. MARPOL Protocol; proposed amendments
 
 **(a) Acceptance of certain amendments by the President**
 
@@ -1161,7 +1161,7 @@ A proposed amendment to Annex I, II, V, or VI to the Convention, appendices to t
 
 Following consultation with the Secretary, the Secretary of State may make a declaration that the United States does not accept an amendment proposed pursuant to Article VI of the MARPOL Protocol.
 
-(Pub. L. 96–478, § 10, Oct. 21, 1980, 94 Stat. 2302; Pub. L. 100–220, title II, § 2106, Dec. 29, 1987, 101 Stat. 1463; Pub. L. 110–280, § 9, July 21, 2008, 122 Stat. 2615.)
+(Pub. L. 96–478, § 10, Oct. 21, 1980, 94 Stat. 2302; Pub. L. 100–220, title II, § 2106, Dec. 29, 1987, 101 Stat. 1463; Pub. L. 110–280, § 9, July 21, 2008, 122 Stat. 2615.)
 
 **Editorial Notes**
 
@@ -1169,9 +1169,9 @@ Following consultation with the Secretary, the Secretary of State may make a dec
 
 2008—Subsec. (b). Pub. L. 110–280 substituted “Annex I, II, V, or VI” for “Annex I, II, or V” and inserted “or the Administrator as provided for in this chapter,” after “Secretary,”.
 
-1987—Subsec. (a). Pub. L. 100–220, § 2106(1), substituted “International Maritime Organization” for “Inter-Governmental Maritime Consultative Organization”.
+1987—Subsec. (a). Pub. L. 100–220, § 2106(1), substituted “International Maritime Organization” for “Inter-Governmental Maritime Consultative Organization”.
 
-Subsec. (b). Pub. L. 100–220, § 2106(2), substituted “Annex I, II, or V to the Convention, appendices to those Annexes, or Protocol I of the Convention” for “Annex I or II, appendices to the Annexes, or Protocol I of the MARPOL Protocol,” and “International Maritime Organization” for “Inter-Governmental Maritime Consultative Organization”.
+Subsec. (b). Pub. L. 100–220, § 2106(2), substituted “Annex I, II, or V to the Convention, appendices to those Annexes, or Protocol I of the Convention” for “Annex I or II, appendices to the Annexes, or Protocol I of the MARPOL Protocol,” and “International Maritime Organization” for “Inter-Governmental Maritime Consultative Organization”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1179,7 +1179,7 @@ Subsec. (b). Pub. L. 100–220, § 2106(2), substituted “Annex I, II, or V t
 
 Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex V to the International Convention for the Prevention of Pollution from Ships, 1973, entered into force for the United States, see section 2002(a) of Pub. L. 100–220, set out as a note under section 1901 of this title.
 
-## § 1910. Legal actions
+## § 1910. Legal actions
 
 **(a) Persons with adversely affected interests as plaintiffs; defendants** Except as provided in subsection (b) of this section, any person having an interest which is, or can be, adversely affected, may bring an action on his own behalf—
 
@@ -1215,23 +1215,23 @@ The court, in issuing any final order in any action brought pursuant to this sec
 
 In any action brought under this section, if the Secretary or Attorney General are not parties of record, the United States, through the Attorney General, shall have the right to intervene.
 
-(Pub. L. 96–478, § 11, Oct. 21, 1980, 94 Stat. 2302; Pub. L. 110–280, § 12, July 21, 2008, 122 Stat. 2615.)
+(Pub. L. 96–478, § 11, Oct. 21, 1980, 94 Stat. 2302; Pub. L. 110–280, § 12, July 21, 2008, 122 Stat. 2615.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(3), (4). Pub. L. 110–280, § 12(1), added par. (3) and redesignated former par. (3) as (4).
+2008—Subsec. (a)(3), (4). Pub. L. 110–280, § 12(1), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b)(1). Pub. L. 110–280, § 12(2), substituted “concerned or the Administrator,” for “concerned,”.
+Subsec. (b)(1). Pub. L. 110–280, § 12(2), substituted “concerned or the Administrator,” for “concerned,”.
 
-Subsec. (b)(2). Pub. L. 110–280, § 12(3), inserted “or the Administrator” after “Secretary”.
+Subsec. (b)(2). Pub. L. 110–280, § 12(3), inserted “or the Administrator” after “Secretary”.
 
-## § 1911. Effect on other laws
+## § 1911. Effect on other laws
 
 Authorities, requirements, and remedies of this chapter supplement and neither amend nor repeal any other authorities, requirements, or remedies conferred by any other provision of law. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other authority, requirement, or remedy available to the United States or any other person, except as expressly provided in this chapter.
 
-(Pub. L. 96–478, § 15, Oct. 21, 1980, 94 Stat. 2303; Pub. L. 110–280, § 11, July 21, 2008, 122 Stat. 2615.)
+(Pub. L. 96–478, § 15, Oct. 21, 1980, 94 Stat. 2303; Pub. L. 110–280, § 11, July 21, 2008, 122 Stat. 2615.)
 
 **Editorial Notes**
 
@@ -1239,13 +1239,13 @@ Authorities, requirements, and remedies of this chapter supplement and neither a
 
 2008—Pub. L. 110–280 amended section generally. Prior to amendment, section read as follows: “Nothing in this chapter shall be construed as limiting, diminishing, or otherwise restricting any of the authority of the Secretary under the Port and Tanker Safety Act of 1978.”
 
-## § 1912. International law
+## § 1912. International law
 
 Any action taken under this chapter shall be taken in accordance with international law.
 
-(Pub. L. 96–478, § 17, as added Pub. L. 100–220, title II, § 2108, Dec. 29, 1987, 101 Stat. 1464.)
+(Pub. L. 96–478, § 17, as added Pub. L. 100–220, title II, § 2108, Dec. 29, 1987, 101 Stat. 1464.)
 
-## § 1913. Compliance reports
+## § 1913. Compliance reports
 
 **(a) In general**
 
@@ -1265,7 +1265,7 @@ Within 1 year after the effective date of this section, and triennially thereaft
 
 Upon receipt of the compliance report under subsection (b), the Congress shall modify the applicability of Annex V to ships referred to in section 3(b)(1)(A) of the Act to Prevent Pollution from Ships [33 U.S.C. 1902(b)(1)(A)], as may be appropriate with respect to the requirements of Annex V to the Convention.
 
-(Pub. L. 100–220, title II, § 2201, Dec. 29, 1987, 101 Stat. 1464; Pub. L. 104–66, title I, § 1121(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 104–324, title VIII, § 802(a), Oct. 19, 1996, 110 Stat. 3944.)
+(Pub. L. 100–220, title II, § 2201, Dec. 29, 1987, 101 Stat. 1464; Pub. L. 104–66, title I, § 1121(c), Dec. 21, 1995, 109 Stat. 724; Pub. L. 104–324, title VIII, § 802(a), Oct. 19, 1996, 110 Stat. 3944.)
 
 **Editorial Notes**
 
@@ -1273,7 +1273,7 @@ Upon receipt of the compliance report under subsection (b), the Congress shall m
 
 For effective date of this section, referred to in subsecs. (a) and (b), see section 2002 of Pub. L. 100–220, set out as an Effective Date of 1987 Amendment note under section 1901 of this title.
 
-The Act to Prevent Pollution from Ships, referred to in subsec. (a), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to this chapter (§ 1901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsec. (a), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to this chapter (§ 1901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 **Codification**
 
@@ -1293,10 +1293,10 @@ Section was enacted as part of the Marine Plastic Pollution Research and Control
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 1914. Transferred
+## § 1914. Transferred
 
-Section, Pub. L. 100–220, title II, § 2203, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, § 802(b), Oct. 19, 1996, 110 Stat. 3944; Pub. L. 109–449, § 5(a), Dec. 22, 2006, 120 Stat. 3337, was redesignated section 5 of Pub. L. 109–449 and transferred to section 1954 of this title.
+Section, Pub. L. 100–220, title II, § 2203, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, § 802(b), Oct. 19, 1996, 110 Stat. 3944; Pub. L. 109–449, § 5(a), Dec. 22, 2006, 120 Stat. 3337, was redesignated section 5 of Pub. L. 109–449 and transferred to section 1954 of this title.
 
-## § 1915. Repealed. Pub. L. 112–213, title VI, § 604(d), Dec. 20, 2012, 126 Stat. 1577
+## § 1915. Repealed. Pub. L. 112–213, title VI, § 604(d), Dec. 20, 2012, 126 Stat. 1577
 
-Section, Pub. L. 100–220, title II, § 2204, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, § 802(c), Oct. 19, 1996, 110 Stat. 3945, related to creation of a plastic pollution public education program.
+Section, Pub. L. 100–220, title II, § 2204, Dec. 29, 1987, 101 Stat. 1466; Pub. L. 104–324, title VIII, § 802(c), Oct. 19, 1996, 110 Stat. 3945, related to creation of a plastic pollution public education program.

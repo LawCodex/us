@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 3—GRAIN STANDARDS
 
-## § 71. Short title
+## § 71. Short title
 
 This chapter may be cited as the “United States Grain Standards Act”.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 1, 39 Stat. 482; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 761.)
+(Aug. 11, 1916, ch. 313, pt. B, § 1, 39 Stat. 482; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 761.)
 
 **Editorial Notes**
 
@@ -41,49 +41,49 @@ Amendment by Pub. L. 90–487 effective 180 days after Aug. 15, 1968, see sectio
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–216, § 1, Dec. 11, 2020, 134 Stat. 1048, provided that: “This Act [amending sections 76, 79, 79a, 79d, 87f–2, 87h, and 87j of this title] may be cited as the ‘United States Grain Standards Reauthorization Act of 2020’.”
+Pub. L. 116–216, § 1, Dec. 11, 2020, 134 Stat. 1048, provided that: “This Act [amending sections 76, 79, 79a, 79d, 87f–2, 87h, and 87j of this title] may be cited as the ‘United States Grain Standards Reauthorization Act of 2020’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–54, § 1(a), Sept. 30, 2015, 129 Stat. 513, provided that: “This Act [amending sections 77, 79, 79a, 79d, 84, 87h, 87j, 1635i, 1635j, and 1636i of this title and sections 583j–2, 583j–3, 583j–5, and 583j–8 of Title 16, Conservation, enacting provisions set out as a note under section 1635m of this title, and amending provisions set out as a note under section 1635 of this title] may be cited as the ‘Agriculture Reauthorizations Act of 2015’.”
+Pub. L. 114–54, § 1(a), Sept. 30, 2015, 129 Stat. 513, provided that: “This Act [amending sections 77, 79, 79a, 79d, 84, 87h, 87j, 1635i, 1635j, and 1636i of this title and sections 583j–2, 583j–3, 583j–5, and 583j–8 of Title 16, Conservation, enacting provisions set out as a note under section 1635m of this title, and amending provisions set out as a note under section 1635 of this title] may be cited as the ‘Agriculture Reauthorizations Act of 2015’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–472, § 1(a), Nov. 9, 2000, 114 Stat. 2058, provided that: “This Act [enacting sections 228d, 241 to 256, 918a, and 1726b of this title and section 1012 of Title 16, Conservation, amending sections 15b, 77, 79, 79a, 79b, 79d, 84, 87b, 87h, 87j, 229, 1622, 1736a, 1926, 2009d, 5101, 5102, and 5106 of this title and sections 1766 and 1786 of Title 42, The Public Health and Welfare, repealing section 87e-1 of this title, enacting provisions set out as notes under sections 79, 181, 241, and 1314e of this title and section 1786 of Title 42, amending provisions set out as notes under sections 74, 612c, and 1421 of this title, and repealing provisions set out as notes under sections 75a, 76, and 79 of this title] may be cited as the ‘Grain Standards and Warehouse Improvement Act of 2000’.”
+Pub. L. 106–472, § 1(a), Nov. 9, 2000, 114 Stat. 2058, provided that: “This Act [enacting sections 228d, 241 to 256, 918a, and 1726b of this title and section 1012 of Title 16, Conservation, amending sections 15b, 77, 79, 79a, 79b, 79d, 84, 87b, 87h, 87j, 229, 1622, 1736a, 1926, 2009d, 5101, 5102, and 5106 of this title and sections 1766 and 1786 of Title 42, The Public Health and Welfare, repealing section 87e-1 of this title, enacting provisions set out as notes under sections 79, 181, 241, and 1314e of this title and section 1786 of Title 42, amending provisions set out as notes under sections 74, 612c, and 1421 of this title, and repealing provisions set out as notes under sections 75a, 76, and 79 of this title] may be cited as the ‘Grain Standards and Warehouse Improvement Act of 2000’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–156, § 1(a), Nov. 24, 1993, 107 Stat. 1525, provided that: “This Act [amending sections 75 to 77, 79 to 79b, 79d, 84 to 87e, 87f, 87f–1, 87h, 87j, and 87k of this title, enacting provisions set out as a note under section 75 of this title, and repealing provisions set out as a note under section 79 of this title] may be cited as the ‘United States Grain Standards Act Amendments of 1993’.”
+Pub. L. 103–156, § 1(a), Nov. 24, 1993, 107 Stat. 1525, provided that: “This Act [amending sections 75 to 77, 79 to 79b, 79d, 84 to 87e, 87f, 87f–1, 87h, 87j, and 87k of this title, enacting provisions set out as a note under section 75 of this title, and repealing provisions set out as a note under section 79 of this title] may be cited as the ‘United States Grain Standards Act Amendments of 1993’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–624, title XX, § 2001, Nov. 28, 1990, 104 Stat. 3928, provided that: “This title [enacting sections 75b, 87k, 1427–1, 1593a, and 1622a of this title, amending sections 74, 76, 77, 87b, 1423, and 1445e of this title, and enacting provisions set out as a note under section 76 of this title] may be cited as the ‘Grain Quality Incentives Act of 1990’.”
+Pub. L. 101–624, title XX, § 2001, Nov. 28, 1990, 104 Stat. 3928, provided that: “This title [enacting sections 75b, 87k, 1427–1, 1593a, and 1622a of this title, amending sections 74, 76, 77, 87b, 1423, and 1445e of this title, and enacting provisions set out as a note under section 76 of this title] may be cited as the ‘Grain Quality Incentives Act of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–518, § 1, Oct. 24, 1988, 102 Stat. 2584, provided that: “This Act [enacting sections 79d and 87j of this title, amending sections 55, 79, 79a, and 87h of this title, and enacting provisions set out as notes under sections 79 and 1421 of this title] may be cited as the ‘United States Grain Standards Act Amendments of 1988’.”
+Pub. L. 100–518, § 1, Oct. 24, 1988, 102 Stat. 2584, provided that: “This Act [enacting sections 79d and 87j of this title, amending sections 55, 79, 79a, and 87h of this title, and enacting provisions set out as notes under sections 79 and 1421 of this title] may be cited as the ‘United States Grain Standards Act Amendments of 1988’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–641, title III, § 301, Nov. 10, 1986, 100 Stat. 3564, provided that: “This title [amending sections 74 and 87b of this title and enacting provisions set out as notes under sections 76 and 87b of this title] may be cited as the ‘Grain Quality Improvement Act of 1986’.”
+Pub. L. 99–641, title III, § 301, Nov. 10, 1986, 100 Stat. 3564, provided that: “This title [amending sections 74 and 87b of this title and enacting provisions set out as notes under sections 76 and 87b of this title] may be cited as the ‘Grain Quality Improvement Act of 1986’.”
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–582, § 1, Oct. 21, 1976, 90 Stat. 2867, provided: “That this Act [enacting sections 75a, 79a, 79b, 87e–1, 87f–1, and 87f–2 of this title, amending sections 74, 75, 76, 77, 78, 79, 84, 85, 86, 87, 87a, 87b, 87c, 87e, 87f, 87g, and 87h of this title, section 5316 of Title 5, Government Organization and Employees, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 74, 75a, 76, and 79 of this title] may be cited as the ‘United States Grain Standards Act of 1976’.”
+Pub. L. 94–582, § 1, Oct. 21, 1976, 90 Stat. 2867, provided: “That this Act [enacting sections 75a, 79a, 79b, 87e–1, 87f–1, and 87f–2 of this title, amending sections 74, 75, 76, 77, 78, 79, 84, 85, 86, 87, 87a, 87b, 87c, 87e, 87f, 87g, and 87h of this title, section 5316 of Title 5, Government Organization and Employees, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 74, 75a, 76, and 79 of this title] may be cited as the ‘United States Grain Standards Act of 1976’.”
 
-## §§ 72, 73. Omitted
+## §§ 72, 73. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections were omitted in the general reorganization of this chapter by Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 761.
+Sections were omitted in the general reorganization of this chapter by Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 761.
 
-Section 72, act Aug. 11, 1916, ch. 313, pt. B, § 1 (part), 39 Stat. 482, defined the words “person” and “in interstate or foreign commerce”. See section 75 of this title.
+Section 72, act Aug. 11, 1916, ch. 313, pt. B, § 1 (part), 39 Stat. 482, defined the words “person” and “in interstate or foreign commerce”. See section 75 of this title.
 
-Section 73, act Aug. 11, 1916, ch. 313, pt. B, § 1 (part), 39 Stat. 482, made associations, partnerships, and corporations liable for the acts of their agents within the scope of their employment or office. See section 87d of this title.
+Section 73, act Aug. 11, 1916, ch. 313, pt. B, § 1 (part), 39 Stat. 482, made associations, partnerships, and corporations liable for the acts of their agents within the scope of their employment or office. See section 87d of this title.
 
-## § 74. Congressional findings and declaration of policy
+## § 74. Congressional findings and declaration of policy
 
 **(a)** Grain is an essential source of the world’s total supply of human food and animal feed and is merchandised in interstate and foreign commerce. It is declared to be the policy of the Congress, for the promotion and protection of such commerce in the interests of producers, merchandisers, warehousemen, processors, and consumers of grain, and the general welfare of the people of the United States, to provide for the establishment of official United States standards for grain, to promote the uniform application thereof by official inspection personnel, to provide for an official inspection system for grain, and to regulate the weighing and the certification of the weight of grain shipped in interstate or foreign commerce in the manner hereinafter provided; with the objectives that grain may be marketed in an orderly and timely manner and that trading in grain may be facilitated. It is hereby found that all grain and other articles and transactions in grain regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce and that regulation thereof as provided in this chapter is necessary to prevent or eliminate burdens on such commerce and to regulate effectively such commerce.
 
@@ -107,7 +107,7 @@ Section 73, act Aug. 11, 1916, ch. 313, pt. B, § 1 (part), 39 Stat. 482, made
 
 **(F)** accommodate scientific advances in testing and new knowledge concerning factors related to, or highly correlated with, the end use performance of grain.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 2, 39 Stat. 482; July 18, 1940, ch. 636, 54 Stat. 765; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 761; Pub. L. 94–582, § 2, Oct. 21, 1976, 90 Stat. 2867; Pub. L. 99–641, title III, § 302, Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, § 2004, Nov. 28, 1990, 104 Stat. 3929.)
+(Aug. 11, 1916, ch. 313, pt. B, § 2, 39 Stat. 482; July 18, 1940, ch. 636, 54 Stat. 765; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 761; Pub. L. 94–582, § 2, Oct. 21, 1976, 90 Stat. 2867; Pub. L. 99–641, title III, § 302, Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, § 2004, Nov. 28, 1990, 104 Stat. 3929.)
 
 **Editorial Notes**
 
@@ -127,13 +127,13 @@ Section 73, act Aug. 11, 1916, ch. 313, pt. B, § 1 (part), 39 Stat. 482, made
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–582, § 27, Oct. 21, 1976, 90 Stat. 2889, as amended by Pub. L. 95–113, title XVI, §§ 1602(d), 1605(b), 1607(b), 1608, Sept. 29, 1977, 91 Stat. 1025, 1030, 1031; Pub. L. 106–472, title I, § 110(c), Nov. 9, 2000, 114 Stat. 2061, provided that: “This Act [see Short Title of 1976 Amendment note set out under section 71 of this title] shall become effective thirty days after enactment hereof [Oct. 21, 1976].
+Pub. L. 94–582, § 27, Oct. 21, 1976, 90 Stat. 2889, as amended by Pub. L. 95–113, title XVI, §§ 1602(d), 1605(b), 1607(b), 1608, Sept. 29, 1977, 91 Stat. 1025, 1030, 1031; Pub. L. 106–472, title I, § 110(c), Nov. 9, 2000, 114 Stat. 2061, provided that: “This Act [see Short Title of 1976 Amendment note set out under section 71 of this title] shall become effective thirty days after enactment hereof [Oct. 21, 1976].
 
 **Effective Date of 1968 Amendment**
 
 For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
 
-## § 75. Definitions
+## § 75. Definitions
 
 When used in this chapter, except where the context requires otherwise—
 
@@ -189,7 +189,7 @@ When used in this chapter, except where the context requires otherwise—
 
 **(z)** the term “intracompany shipment” means the shipment, within the United States, of grain lots between facilities owned or controlled by the person owning the grain. The shipment of grain owned by a cooperative, from a facility owned by that cooperative, to an export facility which it jointly owns with other cooperatives, qualifies as an intracompany shipment.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 3, 39 Stat. 483; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 761; Pub. L. 94–582, § 3, Oct. 21, 1976, 90 Stat. 2867; Pub. L. 95–113, title XVI, §§ 1604(a), 1606(a), Sept. 29, 1977, 91 Stat. 1026, 1030; Pub. L. 96–437, § 1, Oct. 13, 1980, 94 Stat. 1870; Pub. L. 102–237, title X, § 1007(1), Dec. 13, 1991, 105 Stat. 1897; Pub. L. 103–156, § 12(a), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(1), (7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, § 3, 39 Stat. 483; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 761; Pub. L. 94–582, § 3, Oct. 21, 1976, 90 Stat. 2867; Pub. L. 95–113, title XVI, §§ 1604(a), 1606(a), Sept. 29, 1977, 91 Stat. 1026, 1030; Pub. L. 96–437, § 1, Oct. 13, 1980, 94 Stat. 1870; Pub. L. 102–237, title X, § 1007(1), Dec. 13, 1991, 105 Stat. 1897; Pub. L. 103–156, § 12(a), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(1), (7), Oct. 13, 1994, 108 Stat. 3237.)
 
 **Editorial Notes**
 
@@ -201,41 +201,41 @@ When used in this chapter, except where the context requires otherwise—
 
 “(aa) the term ‘Service’ means the Federal Grain Inspection Service; and”.
 
-1993—Pub. L. 103–156, § 12(a), which directed amendment of “Section 3”, without specifying the name of the Act being amended, was executed to this section, which is section 3 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+1993—Pub. L. 103–156, § 12(a), which directed amendment of “Section 3”, without specifying the name of the Act being amended, was executed to this section, which is section 3 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–156, § 12(a)(1), substituted “delegates of the Secretary” for “his delegates”.
+Subsec. (a). Pub. L. 103–156, § 12(a)(1), substituted “delegates of the Secretary” for “his delegates”.
 
-Subsec. (z). Pub. L. 103–156, § 12(a)(2), substituted “delegates of the Administrator” for “his delegates”.
+Subsec. (z). Pub. L. 103–156, § 12(a)(2), substituted “delegates of the Administrator” for “his delegates”.
 
 1991—Subsecs. (i) to (k), (u) to (x), (z), (aa). Pub. L. 102–237 substituted “the” for “The” before “term”.
 
 1980—Subsec. (bb). Pub. L. 96–437 added subsec. (bb).
 
-1977—Subsec. (g). Pub. L. 95–113, § 1604(a)(1), substituted “sorghum” for “grain sorghum”.
+1977—Subsec. (g). Pub. L. 95–113, § 1604(a)(1), substituted “sorghum” for “grain sorghum”.
 
-Subsec. (i). Pub. L. 95–113, § 1606(a), struck out reference to the determination of the quantity of sacks of grain upon the request of the interested party applying for inspection.
+Subsec. (i). Pub. L. 95–113, § 1606(a), struck out reference to the determination of the quantity of sacks of grain upon the request of the interested party applying for inspection.
 
-Subsec. (m). Pub. L. 95–113, § 1604(a)(2), substituted “or subsection (c) of section 79a of this title for the conduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of section 79a of this title for the conduct of supervision of weighing”.
+Subsec. (m). Pub. L. 95–113, § 1604(a)(2), substituted “or subsection (c) of section 79a of this title for the conduct of official weighing or supervision of weighing (other than appeal weighing)” for “or subsection (b) of section 79a of this title for the conduct of supervision of weighing”.
 
-Subsec. (x). Pub. L. 95–113, § 1604(a)(3), substituted “under standards provided for in this chapter” for “under standards provided in this chapter”.
+Subsec. (x). Pub. L. 95–113, § 1604(a)(3), substituted “under standards provided for in this chapter” for “under standards provided in this chapter”.
 
-Subsec. (y). Pub. L. 95–113, § 1604(a)(4), substituted “such supervision by official inspection personnel of the grain-weighing process as is determined by the Administrator to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance” for “the supervision of the weighing process and of the certification of the weight of grain, and the physical inspection of the premises at which the weighing is performed to assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance represented on the weight certificate or other document”.
+Subsec. (y). Pub. L. 95–113, § 1604(a)(4), substituted “such supervision by official inspection personnel of the grain-weighing process as is determined by the Administrator to be adequate to reasonably assure the integrity and accuracy of the weighing and of certificates which set forth the weight of the grain and such physical inspection by such personnel of the premises at which the grain weighing is performed as will reasonably assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance” for “the supervision of the weighing process and of the certification of the weight of grain, and the physical inspection of the premises at which the weighing is performed to assure that all the grain intended to be weighed has been weighed and discharged into the elevator or conveyance represented on the weight certificate or other document”.
 
-1976—Subsec. (i). Pub. L. 94–582, § 3(a), substituted “Administrator” for “Secretary”, and expanded definition of “official inspection” to include determination “(by original inspection, and when requested, reinspection and appeal inspection)” and determination and certification of the condition of vessels and other carriers or receptacles for the transportation of grain insofar as it may affect the quality or condition of the grain.
+1976—Subsec. (i). Pub. L. 94–582, § 3(a), substituted “Administrator” for “Secretary”, and expanded definition of “official inspection” to include determination “(by original inspection, and when requested, reinspection and appeal inspection)” and determination and certification of the condition of vessels and other carriers or receptacles for the transportation of grain insofar as it may affect the quality or condition of the grain.
 
-Subsec. (j). Pub. L. 94–582, § 3(b), in redefining “official inspection personnel”, substituted provision declaring term to mean “persons licensed or otherwise authorized by the Administrator pursuant to section 84 of this title to perform all or specified functions involved in official inspection, official weighing, or supervision of weighing, or in the supervision of official inspection, official weighing or supervision of weighing” for “employees of State or other governmental agencies or commercial agencies or other persons who are licensed to perform all or specified functions involved in official inspection under this chapter; employees of the Department of Agriculture who are authorized to supervise official inspection and to conduct appeal inspection or initial inspection of United States grain in Canadian ports”.
+Subsec. (j). Pub. L. 94–582, § 3(b), in redefining “official inspection personnel”, substituted provision declaring term to mean “persons licensed or otherwise authorized by the Administrator pursuant to section 84 of this title to perform all or specified functions involved in official inspection, official weighing, or supervision of weighing, or in the supervision of official inspection, official weighing or supervision of weighing” for “employees of State or other governmental agencies or commercial agencies or other persons who are licensed to perform all or specified functions involved in official inspection under this chapter; employees of the Department of Agriculture who are authorized to supervise official inspection and to conduct appeal inspection or initial inspection of United States grain in Canadian ports”.
 
-Subsec. (k). Pub. L. 94–582, § 3(c), substituted “Administrator” for “Secretary” and “official inspection or official weighing” for “an official inspection”.
+Subsec. (k). Pub. L. 94–582, § 3(c), substituted “Administrator” for “Secretary” and “official inspection or official weighing” for “an official inspection”.
 
-Subsec. (*l*). Pub. L. 94–582, § 3(d), substituted “standards relating to kind, class, quality, and condition of grain,” for “standards”.
+Subsec. (*l*). Pub. L. 94–582, § 3(d), substituted “standards relating to kind, class, quality, and condition of grain,” for “standards”.
 
-Subsec. (m). Pub. L. 94–582, § 3(e), substituted definition of “official agency” meaning “any State or local governmental agency, or any person, designated by the Administrator pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (b) of section 79a of this title for the conduct of supervision of weighing” for definition of “official inspection agency” meaning “the agency or person located at an inspection point designated by the Secretary for the conduct of official inspection under this chapter”.
+Subsec. (m). Pub. L. 94–582, § 3(e), substituted definition of “official agency” meaning “any State or local governmental agency, or any person, designated by the Administrator pursuant to subsection (f) of section 79 of this title for the conduct of official inspection (other than appeal inspection), or subsection (b) of section 79a of this title for the conduct of supervision of weighing” for definition of “official inspection agency” meaning “the agency or person located at an inspection point designated by the Secretary for the conduct of official inspection under this chapter”.
 
-Subsec. (n). Pub. L. 94–582, § 3(f), substituted “Administrator” for “Secretary”.
+Subsec. (n). Pub. L. 94–582, § 3(f), substituted “Administrator” for “Secretary”.
 
-Subsec. (u). Pub. L. 94–582, § 3(g), included within term defined and its definition the concept of “weighing” and substituted “Administrator” for “Secretary”.
+Subsec. (u). Pub. L. 94–582, § 3(g), included within term defined and its definition the concept of “weighing” and substituted “Administrator” for “Secretary”.
 
-Subsecs. (v) to (aa). Pub. L. 94–582, § 3(h), added subsecs. (v) to (aa).
+Subsecs. (v) to (aa). Pub. L. 94–582, § 3(h), added subsecs. (v) to (aa).
 
 1968—Pub. L. 90–487 substituted provisions defining terms used in the chapter for provisions that the standards fixed and established by the Secretary of Agriculture be known as the official grain standards of the United States.
 
@@ -243,7 +243,7 @@ Subsecs. (v) to (aa). Pub. L. 94–582, § 3(h), added subsecs. (v) to (aa).
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–156, § 16, Nov. 24, 1993, 107 Stat. 1530, provided that:
+Pub. L. 103–156, § 16, Nov. 24, 1993, 107 Stat. 1530, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), the amendments made by this Act [amending this section and sections 75a to 77, 79 to 79b, 79d, 84 to 87e, 87f, 87f–1, 87h, 87j, and 87k of this title and repealing provisions set out as a note under section 79 of this title] shall take effect on the date of the enactment of this Act [Nov. 24, 1993].
 
@@ -261,19 +261,19 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
 
-## § 75a. Repealed. Pub. L. 103–354, title II, § 293(a)(2), Oct. 13, 1994, 108 Stat. 3237
+## § 75a. Repealed. Pub. L. 103–354, title II, § 293(a)(2), Oct. 13, 1994, 108 Stat. 3237
 
-Section, act Aug. 11, 1916, ch. 313, pt. B, § 3A, as added Oct. 21, 1976, Pub. L. 94–582, § 4, 90 Stat. 2868; amended Sept. 29, 1977, Pub. L. 95–113, title XVI, § 1604(b), 91 Stat. 1026; Nov. 24, 1993, Pub. L. 103–156, § 15, 107 Stat. 1530, established Federal Grain Inspection Service in Department of Agriculture and provided for cost containment plan to make the Service more efficient.
+Section, act Aug. 11, 1916, ch. 313, pt. B, § 3A, as added Oct. 21, 1976, Pub. L. 94–582, § 4, 90 Stat. 2868; amended Sept. 29, 1977, Pub. L. 95–113, title XVI, § 1604(b), 91 Stat. 1026; Nov. 24, 1993, Pub. L. 103–156, § 15, 107 Stat. 1530, established Federal Grain Inspection Service in Department of Agriculture and provided for cost containment plan to make the Service more efficient.
 
-## § 75b. Omitted
+## § 75b. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 101–624, title XX, § 2002, Nov. 28, 1990, 104 Stat. 3928, provided for establishment of Committee on Grain Quality and Grain Quality Coordinator, established duties of Coordinator with respect to grain quality and competitiveness, and provided for termination of section on Jan. 1, 2001.
+Section, Pub. L. 101–624, title XX, § 2002, Nov. 28, 1990, 104 Stat. 3928, provided for establishment of Committee on Grain Quality and Grain Quality Coordinator, established duties of Coordinator with respect to grain quality and competitiveness, and provided for termination of section on Jan. 1, 2001.
 
-## § 76. Standards and procedures; establishment, amendment, and revocation
+## § 76. Standards and procedures; establishment, amendment, and revocation
 
 **(a) Authority of Secretary**
 
@@ -325,7 +325,7 @@ the Secretary shall establish or amend the standards to include economically and
 
 If the Government of any country requests that moisture content remain a criterion in the official grade designations of grain, such criterion shall be included in determining the official grade designation of grain shipped to such country.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 4, 39 Stat. 483; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 762; Pub. L. 94–582, § 5, Oct. 21, 1976, 90 Stat. 2869; Pub. L. 95–113, title XVI, § 1604(c), Sept. 29, 1977, 91 Stat. 1027; Pub. L. 99–198, title XVI, § 1671, Dec. 23, 1985, 99 Stat. 1632; Pub. L. 101–624, title XX, §§ 2005, 2006, Nov. 28, 1990, 104 Stat. 3930; Pub. L. 103–156, § 12(b), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 116–216, § 9, Dec. 11, 2020, 134 Stat. 1051.)
+(Aug. 11, 1916, ch. 313, pt. B, § 4, 39 Stat. 483; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 762; Pub. L. 94–582, § 5, Oct. 21, 1976, 90 Stat. 2869; Pub. L. 95–113, title XVI, § 1604(c), Sept. 29, 1977, 91 Stat. 1027; Pub. L. 99–198, title XVI, § 1671, Dec. 23, 1985, 99 Stat. 1632; Pub. L. 101–624, title XX, §§ 2005, 2006, Nov. 28, 1990, 104 Stat. 3930; Pub. L. 103–156, § 12(b), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 116–216, § 9, Dec. 11, 2020, 134 Stat. 1051.)
 
 **Editorial Notes**
 
@@ -337,17 +337,17 @@ If the Government of any country requests that moisture content remain a criteri
 
 1993—Subsec. (a)(1). Pub. L. 103–156, which directed amendment of “Section 4(a)(1)” by substituting “the judgment of the Administrator” for “his judgment”, without specifying the name of the Act being amended, was executed to this section, which is section 4 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-1990—Subsec. (b). Pub. L. 101–624, § 2005, designated existing provisions as par. (1) and added par. (2).
+1990—Subsec. (b). Pub. L. 101–624, § 2005, designated existing provisions as par. (1) and added par. (2).
 
-Subsecs. (c), (d). Pub. L. 101–624, § 2006, added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 101–624, § 2006, added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1985—Subsec. (c). Pub. L. 99–198 added subsec. (c).
 
 1977—Subsec. (a). Pub. L. 95–113 substituted “sorghum” for “grain sorghum”, “standards or procedures” for “standards”, “weight certification and controls” for “weight certification procedures and controls”, and “calibration and maintenance, for grain” for “calibration and maintenance for grain”.
 
-1976—Subsec. (a). Pub. L. 94–582, § 5(a), authorized weighing of grain, designated existing provisions as cl. (1), inserted cl. (2), and reenacted provision for amendment or revocation of standards.
+1976—Subsec. (a). Pub. L. 94–582, § 5(a), authorized weighing of grain, designated existing provisions as cl. (1), inserted cl. (2), and reenacted provision for amendment or revocation of standards.
 
-Subsec. (b). Pub. L. 94–582, § 5(b), substituted “Administrator” for “Secretary” in two places.
+Subsec. (b). Pub. L. 94–582, § 5(b), substituted “Administrator” for “Secretary” in two places.
 
 1968—Pub. L. 90–487 substituted provisions authorizing Secretary to establish, amend, and revoke standards for provisions making the use of official standards compulsory, setting out exceptions, and providing for the right of appeal.
 
@@ -367,15 +367,15 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 
 **Benefits and Costs Associated With Improved Grain Quality**
 
-Pub. L. 101–624, title XX, § 2003, Nov. 28, 1990, 104 Stat. 3929, provided that: “The Administrator of the Federal Grain Inspection Service shall estimate the economic impact, including the benefits and costs and the distribution of such benefits and costs, of any major changes necessary to carry out the amendments made under this title to sections 4 and 13 of the United States Grain Standards Act (7 U.S.C. 76 and 87b) prior to making such changes.”
+Pub. L. 101–624, title XX, § 2003, Nov. 28, 1990, 104 Stat. 3929, provided that: “The Administrator of the Federal Grain Inspection Service shall estimate the economic impact, including the benefits and costs and the distribution of such benefits and costs, of any major changes necessary to carry out the amendments made under this title to sections 4 and 13 of the United States Grain Standards Act (7 U.S.C. 76 and 87b) prior to making such changes.”
 
 **Revision of Grain Inspection Procedures To Reflect Levels of Insect Infestation**
 
-Pub. L. 99–641, title III, § 304, Nov. 10, 1986, 100 Stat. 3565, provided that: “Not later than 6 months after the date of enactment of this Act [Nov. 10, 1986], the Administrator of the Federal Grain Inspection Service shall issue a final rule that revises grain inspection procedures and standards established under the United States Grain Standards Act (7 U.S.C. 71 et seq.) to more accurately reflect levels of insect infestation.”
+Pub. L. 99–641, title III, § 304, Nov. 10, 1986, 100 Stat. 3565, provided that: “Not later than 6 months after the date of enactment of this Act [Nov. 10, 1986], the Administrator of the Federal Grain Inspection Service shall issue a final rule that revises grain inspection procedures and standards established under the United States Grain Standards Act (7 U.S.C. 71 et seq.) to more accurately reflect levels of insect infestation.”
 
 **Study of Uniform End-Use Value Tests for Grain**
 
-Pub. L. 99–641, title III, § 307, Nov. 10, 1986, 100 Stat. 3566, as amended by Pub. L. 104–66, title I, § 1011(i), Dec. 21, 1995, 109 Stat. 710, provided that:
+Pub. L. 99–641, title III, § 307, Nov. 10, 1986, 100 Stat. 3566, as amended by Pub. L. 104–66, title I, § 1011(i), Dec. 21, 1995, 109 Stat. 710, provided that:
 
 > **“(a) Study.—** The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to conduct a study of the need for and availability of uniform end-use value tests for grain. The study shall include the following:
 
@@ -397,7 +397,7 @@ Pub. L. 99–641, title III, § 307, Nov. 10, 1986, 100 Stat. 3566, as amended
 
 **New Grain Classifications**
 
-Pub. L. 99–198, title XVI, § 1672, Dec. 23, 1985, 99 Stat. 1632, provided that:
+Pub. L. 99–198, title XVI, § 1672, Dec. 23, 1985, 99 Stat. 1632, provided that:
 
 > **“(a)** The Secretary of Agriculture shall direct the Federal Grain Inspection Service and the Agricultural Research Service to cooperate in developing new means of establishing grain classifications taking into account characteristics other than those visually evident.
 
@@ -405,9 +405,9 @@ Pub. L. 99–198, title XVI, § 1672, Dec. 23, 1985, 99 Stat. 1632, provided t
 
 **Investigation and Study Regarding Adequacy of Grain Standards; Changes in Standards; Report to Congress by October 21, 1978**
 
-Pub. L. 94–582, § 24, Oct. 21, 1976, 90 Stat. 2888, which provided for investigation and study by Administrator of the Federal Grain Inspection Service regarding adequacy of grain standards established under this chapter in relation to needs and concerns of domestic and foreign grain buyers, with Administrator, as result of such study, to make necessary changes in grain standards, and to submit report to Congress setting forth findings of study and actions taken as result thereof not later than two years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, § 110(b), Nov. 9, 2000, 114 Stat. 2061.
+Pub. L. 94–582, § 24, Oct. 21, 1976, 90 Stat. 2888, which provided for investigation and study by Administrator of the Federal Grain Inspection Service regarding adequacy of grain standards established under this chapter in relation to needs and concerns of domestic and foreign grain buyers, with Administrator, as result of such study, to make necessary changes in grain standards, and to submit report to Congress setting forth findings of study and actions taken as result thereof not later than two years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, § 110(b), Nov. 9, 2000, 114 Stat. 2061.
 
-## § 77. Official inspection and weighing requirements; waiver; supervision by representatives of Secretary
+## § 77. Official inspection and weighing requirements; waiver; supervision by representatives of Secretary
 
 **(a) Official samples and certificates; waiver; excepted grains** Whenever standards or procedures are effective under section 76 of this title for any grain—
 
@@ -437,27 +437,27 @@ The Secretary is authorized and directed to require that all corn exported from 
 
 **(3)** once the initial report in paragraph (2) has been made, provide daily updates until official inspection or weighing services at the site of disruption have resumed.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 5, 39 Stat. 483; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, § 6, Oct. 21, 1976, 90 Stat. 2869; Pub. L. 95–113, title XVI, § 1606(b), Sept. 29, 1977, 91 Stat. 1030; Pub. L. 96–437, § 2, Oct. 13, 1980, 94 Stat. 1870; Pub. L. 101–624, title XX, § 2007, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, § 12(c), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(3), (7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 101, Nov. 9, 2000, 114 Stat. 2059; Pub. L. 114–54, title III, § 301(a), Sept. 30, 2015, 129 Stat. 516.)
+(Aug. 11, 1916, ch. 313, pt. B, § 5, 39 Stat. 483; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, § 6, Oct. 21, 1976, 90 Stat. 2869; Pub. L. 95–113, title XVI, § 1606(b), Sept. 29, 1977, 91 Stat. 1030; Pub. L. 96–437, § 2, Oct. 13, 1980, 94 Stat. 1870; Pub. L. 101–624, title XX, § 2007, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, § 12(c), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(3), (7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 101, Nov. 9, 2000, 114 Stat. 2059; Pub. L. 114–54, title III, § 301(a), Sept. 30, 2015, 129 Stat. 516.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (a)(1). Pub. L. 114–54, § 301(a)(1), substituted “shall waive the foregoing requirement in emergency or other circumstances that would not impair the objectives of this chapter whenever the parties to a contract for such shipment mutually agree to the waiver and documentation of such agreement is provided to the Secretary prior to shipment” for “may waive the foregoing requirement in emergency or other circumstances which would not impair the objectives of this chapter”.
+2015—Subsec. (a)(1). Pub. L. 114–54, § 301(a)(1), substituted “shall waive the foregoing requirement in emergency or other circumstances that would not impair the objectives of this chapter whenever the parties to a contract for such shipment mutually agree to the waiver and documentation of such agreement is provided to the Secretary prior to shipment” for “may waive the foregoing requirement in emergency or other circumstances which would not impair the objectives of this chapter”.
 
-Subsec. (a)(2). Pub. L. 114–54, § 301(a)(2), substituted “shipments of grain into an export elevator by any mode of transportation” for “intracompany shipments of grain into an export elevator by any mode of transportation, grain transferred into an export elevator by transportation modes other than barge,”.
+Subsec. (a)(2). Pub. L. 114–54, § 301(a)(2), substituted “shipments of grain into an export elevator by any mode of transportation” for “intracompany shipments of grain into an export elevator by any mode of transportation, grain transferred into an export elevator by transportation modes other than barge,”.
 
-Subsec. (d). Pub. L. 114–54, § 301(a)(3), added subsec. (d).
+Subsec. (d). Pub. L. 114–54, § 301(a)(3), added subsec. (d).
 
 2000—Subsec. (a)(1). Pub. L. 106–472 struck out “(on the basis of official samples taken after final elevation as near the final spout through which the grain passes as physically practicable as it is being loaded aboard, or while it is in, the final carrier in which it is to be transported from the United States)” after “officially inspected”.
 
 1994—Pub. L. 103–354 substituted “employees of the Secretary” for “Service employees” in subsec. (b) and “Secretary” for “Administrator” wherever appearing.
 
-1993—Pub. L. 103–156, § 12(c), which directed amendment of “Section 5”, without specifying the name of the Act being amended, was executed to this section, which is section 5 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+1993—Pub. L. 103–156, § 12(c), which directed amendment of “Section 5”, without specifying the name of the Act being amended, was executed to this section, which is section 5 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a)(1). Pub. L. 103–156, § 12(c)(1), substituted “the agent of the shipper” for “his agent”.
+Subsec. (a)(1). Pub. L. 103–156, § 12(c)(1), substituted “the agent of the shipper” for “his agent”.
 
-Subsec. (b). Pub. L. 103–156, § 12(c)(2), substituted “regulations as the Administrator” for “regulations as he”.
+Subsec. (b). Pub. L. 103–156, § 12(c)(2), substituted “regulations as the Administrator” for “regulations as he”.
 
 1990—Subsec. (c). Pub. L. 101–624 added subsec. (c).
 
@@ -485,13 +485,13 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
 
-## § 78. Use of official grade designations required; false or misleading grade designations for grain shipped out of the United States
+## § 78. Use of official grade designations required; false or misleading grade designations for grain shipped out of the United States
 
 **(a)** Whenever standards relating to kind, class, quality, or condition of grain are effective under section 76 of this title for any grain no person shall in any sale, offer for sale, or consignment for sale, which involves the shipment of such grain in interstate or foreign commerce, describe such grain as being of any grade in any advertising, price quotation, other negotiation of sale, contract of sale, invoice, bill of lading, other document, or description on bags or other containers of the grain, other than by an official grade designation, with or without additional information as to specified factors: *Provided*, That the description of such grain by any proprietary brand name or trademark that does not resemble an official grade designation, or with respect to interstate commerce, by the use of one or more grade factor designations set forth in the official United States standards for grain, or by other criteria shall not be deemed to be a description of grain as being of any grade.
 
 **(b)** No person shall, in any sale, offer for sale, or consignment for sale, of any grain which involves the shipment of such grain from the United States to any place outside thereof, knowingly describe such grain by any official grade designation, or other description, which is false or misleading.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 6, 39 Stat. 484; Pub. L. 85–509, July 11, 1958, 72 Stat. 352; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, § 7, Oct. 21, 1976, 90 Stat. 2870; Pub. L. 95–113, title XVI, § 1606(c), Sept. 29, 1977, 91 Stat. 1030.)
+(Aug. 11, 1916, ch. 313, pt. B, § 6, 39 Stat. 484; Pub. L. 85–509, July 11, 1958, 72 Stat. 352; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, § 7, Oct. 21, 1976, 90 Stat. 2870; Pub. L. 95–113, title XVI, § 1606(c), Sept. 29, 1977, 91 Stat. 1030.)
 
 **Editorial Notes**
 
@@ -517,9 +517,9 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act [amending this section and sections 71, 74, 75, 76, 77, 79, 84, 85, 86, and 87 of this title and enacting sections 87a to 87h of this title] shall become effective one hundred and eighty days after enactment hereof [Aug. 15, 1968], except that the repeal of the mandatory inspection provisions with respect to grain shipped or delivered for shipment in interstate commerce shall become effective thirty days after enactment hereof, and the provisions of sections 6(a) and 13(a)(5) of the United States Grain Standards Act, as amended by this Act [subsec. (a) of this section and section 87b(a)(5) of this title] shall then become effective with respect to such grain.”
+Pub. L. 90–487, § 2, Aug. 15, 1968, 82 Stat. 770, provided that: “This Act [amending this section and sections 71, 74, 75, 76, 77, 79, 84, 85, 86, and 87 of this title and enacting sections 87a to 87h of this title] shall become effective one hundred and eighty days after enactment hereof [Aug. 15, 1968], except that the repeal of the mandatory inspection provisions with respect to grain shipped or delivered for shipment in interstate commerce shall become effective thirty days after enactment hereof, and the provisions of sections 6(a) and 13(a)(5) of the United States Grain Standards Act, as amended by this Act [subsec. (a) of this section and section 87b(a)(5) of this title] shall then become effective with respect to such grain.”
 
-## § 79. Official inspection
+## § 79. Official inspection
 
 **(a) Grain required to be officially inspected**
 
@@ -667,9 +667,9 @@ The Secretary is authorized to cause official inspection under this chapter to b
 
 **(A) In general.—** The Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable inspection fees to cover the estimated cost to the Secretary incident to the performance of official inspection except when the official inspection is performed by a designated official agency or by a State under a delegation of authority.
 
-**(B) Amount of fees.—** The fees authorized by this subsection shall, as nearly as practicable and after taking into consideration any proceeds from the sale of samples, cover the costs of the Secretary incident to its 1
+**(B) Amount of fees.—** The fees authorized by this subsection shall, as nearly as practicable and after taking into consideration any proceeds from the sale of samples, cover the costs of the Secretary incident to its 1
 
-<sup>1</sup>  So in original. Probably should be “the Secretary’s”.
+<sup>1</sup> So in original. Probably should be “the Secretary’s”.
 
 performance of official inspection services in the United States and on United States grain in Canadian ports, including administrative and supervisory costs related to such official inspection of grain.
 
@@ -685,11 +685,11 @@ performance of official inspection services in the United States and on United S
 
 **(5)** The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2025.2
 
-<sup>2</sup>  See United States Grain Standards Act Extension note below.
+<sup>2</sup> See United States Grain Standards Act Extension note below.
 
 After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 7, 39 Stat. 484; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, § 8, formerly § 8(a), Oct. 21, 1976, 90 Stat. 2870, renumbered Pub. L. 106–472, title I, § 110(a)(1), Nov. 9, 2000, 114 Stat. 2060; Pub. L. 95–113, title XVI, §§ 1602(a), 1604(d), 1606(d), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, § 155(1), Aug. 13, 1981, 95 Stat. 371; Pub. L. 97–98, title IX, § 1113(a), Dec. 22, 1981, 95 Stat. 1268; Pub. L. 98–469, § 2(1), Oct. 11, 1984, 98 Stat. 1831; Pub. L. 100–518, § 2(1), Oct. 24, 1988, 102 Stat. 2584; Pub. L. 103–156, §§ 4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, 107 Stat. 1525, 1526, 1528, 1529; Pub. L. 103–354, title II, § 293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§ 102(a), 103(a), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–83, § 1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, § 301(b)(1)–(3)(A), (4), (5), Sept. 30, 2015, 129 Stat. 517, 518; Pub. L. 115–334, title XII, § 12610(a), (c), Dec. 20, 2018, 132 Stat. 5011, 5013; Pub. L. 116–216, § 2, Dec. 11, 2020, 134 Stat. 1048.)
+(Aug. 11, 1916, ch. 313, pt. B, § 7, 39 Stat. 484; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, § 8, formerly § 8(a), Oct. 21, 1976, 90 Stat. 2870, renumbered Pub. L. 106–472, title I, § 110(a)(1), Nov. 9, 2000, 114 Stat. 2060; Pub. L. 95–113, title XVI, §§ 1602(a), 1604(d), 1606(d), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, § 155(1), Aug. 13, 1981, 95 Stat. 371; Pub. L. 97–98, title IX, § 1113(a), Dec. 22, 1981, 95 Stat. 1268; Pub. L. 98–469, § 2(1), Oct. 11, 1984, 98 Stat. 1831; Pub. L. 100–518, § 2(1), Oct. 24, 1988, 102 Stat. 2584; Pub. L. 103–156, §§ 4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, 107 Stat. 1525, 1526, 1528, 1529; Pub. L. 103–354, title II, § 293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§ 102(a), 103(a), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–83, § 1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, § 301(b)(1)–(3)(A), (4), (5), Sept. 30, 2015, 129 Stat. 517, 518; Pub. L. 115–334, title XII, § 12610(a), (c), Dec. 20, 2018, 132 Stat. 5011, 5013; Pub. L. 116–216, § 2, Dec. 11, 2020, 134 Stat. 1048.)
 
 **Editorial Notes**
 
@@ -697,61 +697,61 @@ After that date, the fees established by the Secretary pursuant to paragraph (1)
 
 Section as originally enacted was composed of part of section 7 of part B of act Aug. 11, 1916. Other provisions of section 7 were classified to former sections 80 to 83 of this title.
 
-In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-2020—Subsec. (e)(2)(C)(i). Pub. L. 116–216, § 2(1), inserted “and affected customers or applicants for service of official inspection or weighing services provided by the State agency” after “notify the Secretary”.
+2020—Subsec. (e)(2)(C)(i). Pub. L. 116–216, § 2(1), inserted “and affected customers or applicants for service of official inspection or weighing services provided by the State agency” after “notify the Secretary”.
 
-Subsec. (j)(5). Pub. L. 116–216, § 2(2), substituted “2025” for “2020”.
+Subsec. (j)(5). Pub. L. 116–216, § 2(2), substituted “2025” for “2020”.
 
-2018—Subsec. (f)(1)(C). Pub. L. 115–334, § 12610(c), realigned margins.
+2018—Subsec. (f)(1)(C). Pub. L. 115–334, § 12610(c), realigned margins.
 
-Subsec. (f)(2). Pub. L. 115–334, § 12610(a)(1), inserted subpar. (A) designation and heading before “Not more” and subpar. (B) designation and heading before “the Secretary determines” in introductory provisions, substituted “Subject to subparagraph (B), not more” for “Not more” and “Secretary.” for “Secretary, except that, if” in subpar. (A) and “Subject to subsection (g)(4)(A), if the Secretary determines” for “the Secretary determines” in introductory provisions of subpar. (B), redesignated former subpars. (A), (B), and (C) as cls. (i), (iii), and (iv), respectively, of subpar. (B), added cl. (ii) of subpar. (B) and subpars. (C) and (D), and realigned margins.
+Subsec. (f)(2). Pub. L. 115–334, § 12610(a)(1), inserted subpar. (A) designation and heading before “Not more” and subpar. (B) designation and heading before “the Secretary determines” in introductory provisions, substituted “Subject to subparagraph (B), not more” for “Not more” and “Secretary.” for “Secretary, except that, if” in subpar. (A) and “Subject to subsection (g)(4)(A), if the Secretary determines” for “the Secretary determines” in introductory provisions of subpar. (B), redesignated former subpars. (A), (B), and (C) as cls. (i), (iii), and (iv), respectively, of subpar. (B), added cl. (ii) of subpar. (B) and subpars. (C) and (D), and realigned margins.
 
-Subsec. (g)(4). Pub. L. 115–334, § 12610(a)(2), added par. (4).
+Subsec. (g)(4). Pub. L. 115–334, § 12610(a)(2), added par. (4).
 
-2015—Subsec. (e)(2). Pub. L. 114–54, § 301(b)(1), inserted heading, designated existing provisions as subpar. (A) and inserted subpar. heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) to (iii) of subpar. (B) as subcls. (I) to (III), respectively, of cl. (ii), and added subpars. (B) and (C).
+2015—Subsec. (e)(2). Pub. L. 114–54, § 301(b)(1), inserted heading, designated existing provisions as subpar. (A) and inserted subpar. heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and former cls. (i) to (iii) of subpar. (B) as subcls. (I) to (III), respectively, of cl. (ii), and added subpars. (B) and (C).
 
-Subsec. (f)(1)(C). Pub. L. 114–54, § 301(b)(2), added subpar. (C).
+Subsec. (f)(1)(C). Pub. L. 114–54, § 301(b)(2), added subpar. (C).
 
-Subsec. (f)(2). Pub. L. 114–54, § 301(b)(3)(A), in introductory provisions, substituted “the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—” for “the Secretary may—”, added subpars. (A) to (C), and struck out former subpars. (A) and (B) which related to more than one designated official agency carrying out inspections in the same geographic area and a designated official agency crossing boundary lines to carry out inspections in another geographic area.
+Subsec. (f)(2). Pub. L. 114–54, § 301(b)(3)(A), in introductory provisions, substituted “the Secretary shall allow a designated official agency to cross boundary lines to carry out inspections in another geographic area if—” for “the Secretary may—”, added subpars. (A) to (C), and struck out former subpars. (A) and (B) which related to more than one designated official agency carrying out inspections in the same geographic area and a designated official agency crossing boundary lines to carry out inspections in another geographic area.
 
-Subsec. (g)(1). Pub. L. 114–54, § 301(b)(4), substituted “every 5 years” for “triennially”.
+Subsec. (g)(1). Pub. L. 114–54, § 301(b)(4), substituted “every 5 years” for “triennially”.
 
-Subsec. (j). Pub. L. 114–54, § 301(b)(5)(A), inserted heading.
+Subsec. (j). Pub. L. 114–54, § 301(b)(5)(A), inserted heading.
 
-Subsec. (j)(1). Pub. L. 114–54, § 301(b)(5)(A), (B), inserted heading, designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings, in subpar. (C), substituted “Fees described in this paragraph” for “Such fees”, and added subpar. (D).
+Subsec. (j)(1). Pub. L. 114–54, § 301(b)(5)(A), (B), inserted heading, designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings, in subpar. (C), substituted “Fees described in this paragraph” for “Such fees”, and added subpar. (D).
 
-Subsec. (j)(4). Pub. L. 114–54, § 301(b)(5)(D), added par. (4). Former par. (4) redesignated (5).
+Subsec. (j)(4). Pub. L. 114–54, § 301(b)(5)(D), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (j)(5). Pub. L. 114–54, § 301(b)(5)(C), (E), redesignated par. (4) as (5) and substituted “2020” for “2015”.
+Subsec. (j)(5). Pub. L. 114–54, § 301(b)(5)(C), (E), redesignated par. (4) as (5) and substituted “2020” for “2015”.
 
 2005—Subsec. (j)(4). Pub. L. 109–83 substituted “2015” for “2005”.
 
 2004—Subsec. (e)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-2000—Subsec. (f)(2). Pub. L. 106–472, § 102(a), added heading and text of par. (2) and struck out former par. (2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.”
+2000—Subsec. (f)(2). Pub. L. 106–472, § 102(a), added heading and text of par. (2) and struck out former par. (2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.”
 
-Subsec. (j)(4). Pub. L. 106–472, § 103(a), substituted “2005” for “2000” in first sentence.
+Subsec. (j)(4). Pub. L. 106–472, § 103(a), substituted “2005” for “2000” in first sentence.
 
 1994—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary’s field office personnel” for “supervision of Service personnel of its field office personnel” in first sentence of subsec. (j)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing.
 
-1993—Pub. L. 103–156, § 12(d), which directed amendment of “Section 7”, without specifying the name of the Act being amended, was executed to this section, which is section 7 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+1993—Pub. L. 103–156, § 12(d), which directed amendment of “Section 7”, without specifying the name of the Act being amended, was executed to this section, which is section 7 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–156, § 12(d)(1), substituted “regulations as the Administrator” for “regulations as he”.
+Subsec. (a). Pub. L. 103–156, § 12(d)(1), substituted “regulations as the Administrator” for “regulations as he”.
 
-Subsec. (b). Pub. L. 103–156, § 12(d)(2), substituted “regulations as the Administrator” for “regulations as he” and “the judgment of the Administrator” for “his judgment”.
+Subsec. (b). Pub. L. 103–156, § 12(d)(2), substituted “regulations as the Administrator” for “regulations as he” and “the judgment of the Administrator” for “his judgment”.
 
-Subsec. (e)(2). Pub. L. 103–156, § 12(d)(3), substituted “oversight as the Administrator” for “oversight as he” and “the discretion of the Administrator” for “his discretion”.
+Subsec. (e)(2). Pub. L. 103–156, § 12(d)(3), substituted “oversight as the Administrator” for “oversight as he” and “the discretion of the Administrator” for “his discretion”.
 
-Subsec. (f)(1)(A)(vi). Pub. L. 103–156, § 4(a)(1), substituted “of the State” for “or other agricultural programs operated by the State”.
+Subsec. (f)(1)(A)(vi). Pub. L. 103–156, § 4(a)(1), substituted “of the State” for “or other agricultural programs operated by the State”.
 
-Subsec. (f)(2). Pub. L. 103–156, § 5(a), inserted before period at end “, except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title”.
+Subsec. (f)(2). Pub. L. 103–156, § 5(a), inserted before period at end “, except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title”.
 
-Subsec. (i). Pub. L. 103–156, § 4(a)(2), inserted before period at end “or as otherwise provided by agreement with the Canadian Government”.
+Subsec. (i). Pub. L. 103–156, § 4(a)(2), inserted before period at end “or as otherwise provided by agreement with the Canadian Government”.
 
-Subsec. (j)(4). Pub. L. 103–156, § 14(a), added par. (4).
+Subsec. (j)(4). Pub. L. 103–156, § 14(a), added par. (4).
 
 1988—Subsec. (j). Pub. L. 100–518 reenacted subsec. (j) without change.
 
@@ -761,35 +761,35 @@ Subsec. (j)(4). Pub. L. 103–156, § 14(a), added par. (4).
 
 Subsec. (j). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature and provided for inclusion, rather than exclusion, of administrative and supervisory costs, and added par. (2). See Effective and Termination Dates of 1981 Amendments note below.
 
-1977—Subsec. (b). Pub. L. 95–113, § 1606(d), struck out reference to a determination of the quantity of sacks of grain.
+1977—Subsec. (b). Pub. L. 95–113, § 1606(d), struck out reference to a determination of the quantity of sacks of grain.
 
-Subsec. (e). Pub. L. 95–113, § 1604(d)(1), designated as par. (4) provisions, formerly forming a part of par. (2), authorizing the Administrator to provide that grain loaded at an interior point in the United States into a rail car, barge, or other container as the final carrier in which it is to be transported from the United States be inspected in the manner provided in this subsection or subsec. (f) of this section, as the Administrator determines best meets the objectives of this chapter.
+Subsec. (e). Pub. L. 95–113, § 1604(d)(1), designated as par. (4) provisions, formerly forming a part of par. (2), authorizing the Administrator to provide that grain loaded at an interior point in the United States into a rail car, barge, or other container as the final carrier in which it is to be transported from the United States be inspected in the manner provided in this subsection or subsec. (f) of this section, as the Administrator determines best meets the objectives of this chapter.
 
-Subsec. (f)(2). Pub. L. 95–113, § 1604(d)(2), substituted “official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter” for “official agency for carrying out the provisions of this chapter”, struck out “, but this paragraph shall not be applicable to prevent any inspection agency from operating in any area in which it was operative on August 15, 1968” after “section 74 of this title”, and redesignated other existing provisions as pars. (3) and (4).
+Subsec. (f)(2). Pub. L. 95–113, § 1604(d)(2), substituted “official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter” for “official agency for carrying out the provisions of this chapter”, struck out “, but this paragraph shall not be applicable to prevent any inspection agency from operating in any area in which it was operative on August 15, 1968” after “section 74 of this title”, and redesignated other existing provisions as pars. (3) and (4).
 
-Subsec. (f)(3). Pub. L. 95–113, § 1604(d)(2)(B), (C), redesignated a portion of existing par. (2) as (3) and substituted “Except as authorized by the Administrator, no” for “No”.
+Subsec. (f)(3). Pub. L. 95–113, § 1604(d)(2)(B), (C), redesignated a portion of existing par. (2) as (3) and substituted “Except as authorized by the Administrator, no” for “No”.
 
-Subsec. (f)(4). Pub. L. 95–113, § 1604(d)(2)(D), redesignated a portion of existing par. (2) as (4).
+Subsec. (f)(4). Pub. L. 95–113, § 1604(d)(2)(D), redesignated a portion of existing par. (2) as (4).
 
-Subsec. (g)(1). Pub. L. 95–113, § 1604(d)(3), substituted “prescribed in subsection (f)” for “prescribed in subsections (e) and (f)”.
+Subsec. (g)(1). Pub. L. 95–113, § 1604(d)(3), substituted “prescribed in subsection (f)” for “prescribed in subsections (e) and (f)”.
 
-Subsec. (i). Pub. L. 95–113, § 1604(d)(4), inserted provision that all or specified functions of the inspections be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
+Subsec. (i). Pub. L. 95–113, § 1604(d)(4), inserted provision that all or specified functions of the inspections be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
 
-Subsec. (j). Pub. L. 95–113, § 1602(a), revised provisions relating to fees so as to remove requirement that field supervision of inspection be supported by fees.
+Subsec. (j). Pub. L. 95–113, § 1602(a), revised provisions relating to fees so as to remove requirement that field supervision of inspection be supported by fees.
 
-1976—Subsec. (a). Pub. L. 94–582, § 8(1), formerly § 8(a)(1), as renumbered by Pub. L. 106–472, § 110(a)(1), substituted “Administrator” for “Secretary”.
+1976—Subsec. (a). Pub. L. 94–582, § 8(1), formerly § 8(a)(1), as renumbered by Pub. L. 106–472, § 110(a)(1), substituted “Administrator” for “Secretary”.
 
-Subsec. (b). Pub. L. 94–582, § 8(1), (2), formerly § 8(a)(1), (2), as renumbered by Pub. L. 106–472, § 110(a)(1), substituted “Administrator” for “Secretary” in two places and struck out from first sentence “or with respect to United States grain in Canadian ports” after “within the United States”.
+Subsec. (b). Pub. L. 94–582, § 8(1), (2), formerly § 8(a)(1), (2), as renumbered by Pub. L. 106–472, § 110(a)(1), substituted “Administrator” for “Secretary” in two places and struck out from first sentence “or with respect to United States grain in Canadian ports” after “within the United States”.
 
-Subsec. (c). Pub. L. 94–582, § 8(1), (3), formerly § 8(a)(1), (3), as renumbered by Pub. L. 106–472, § 110(a)(1), substituted “Administrator” for “Secretary” in two places; and substituted “Service” for “Department of Agriculture” and “cancellation and surrender” for “cancellation” and required regulation provision for use of standard forms for official certificates, respectively.
+Subsec. (c). Pub. L. 94–582, § 8(1), (3), formerly § 8(a)(1), (3), as renumbered by Pub. L. 106–472, § 110(a)(1), substituted “Administrator” for “Secretary” in two places; and substituted “Service” for “Department of Agriculture” and “cancellation and surrender” for “cancellation” and required regulation provision for use of standard forms for official certificates, respectively.
 
-Subsec. (d). Pub. L. 94–582, § 8(4), formerly § 8(a)(4), as renumbered by Pub. L. 106–472, § 110(a)(1), substituted “Official certificates setting out the results of official inspection” for “Certificates”.
+Subsec. (d). Pub. L. 94–582, § 8(4), formerly § 8(a)(4), as renumbered by Pub. L. 106–472, § 110(a)(1), substituted “Official certificates setting out the results of official inspection” for “Certificates”.
 
-Subsec. (e). Pub. L. 94–582, § 8(5), formerly § 8(a)(5), as renumbered by Pub. L. 106–472, § 110(a)(1), added subsec. (e) and struck out former subsec. (e) which authorized charging and collection of reasonable fees to cover cost of official inspection and to cover costs of Department of Agriculture incident to performance of appeal and Canadian port inspection services for which fees are collected, including supervisory and administrative costs, and for deposit of fees and proceeds from sale of samples obtained for purposes of official inspection which become property of the United States into a fund to be available without fiscal year limitation for expenses of the Department of Agriculture incident to providing official inspection services. Fee provisions are now covered in subsec. (j)(2) of this section.
+Subsec. (e). Pub. L. 94–582, § 8(5), formerly § 8(a)(5), as renumbered by Pub. L. 106–472, § 110(a)(1), added subsec. (e) and struck out former subsec. (e) which authorized charging and collection of reasonable fees to cover cost of official inspection and to cover costs of Department of Agriculture incident to performance of appeal and Canadian port inspection services for which fees are collected, including supervisory and administrative costs, and for deposit of fees and proceeds from sale of samples obtained for purposes of official inspection which become property of the United States into a fund to be available without fiscal year limitation for expenses of the Department of Agriculture incident to providing official inspection services. Fee provisions are now covered in subsec. (j)(2) of this section.
 
-Subsec. (f). Pub. L. 94–582, § 8(5), formerly § 8(a)(5), as renumbered by Pub. L. 106–472, § 110(a)(1), added par. (1) and second and third sentences of par. (2), and designated existing provisions as par. (2), substituting “one official agency for carrying out the provisions of this chapter shall be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title” for “one inspection agency for carrying out the provisions of this section shall be operative at one time for any one city, town, or other area”.
+Subsec. (f). Pub. L. 94–582, § 8(5), formerly § 8(a)(5), as renumbered by Pub. L. 106–472, § 110(a)(1), added par. (1) and second and third sentences of par. (2), and designated existing provisions as par. (2), substituting “one official agency for carrying out the provisions of this chapter shall be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title” for “one inspection agency for carrying out the provisions of this section shall be operative at one time for any one city, town, or other area”.
 
-Subsecs. (g) to (j). Pub. L. 94–582, § 8(5), formerly § 8(a)(5), as renumbered by Pub. L. 106–472, § 110(a)(1), added subsecs. (g) to (j).
+Subsecs. (g) to (j). Pub. L. 94–582, § 8(5), formerly § 8(a)(5), as renumbered by Pub. L. 106–472, § 110(a)(1), added subsecs. (g) to (j).
 
 1968—Pub. L. 90–487 substituted provisions covering the authority and funding of official inspections for provisions covering the licensing of inspectors and the utilization by the Secretary of Agriculture of State inspectors.
 
@@ -797,25 +797,25 @@ Subsecs. (g) to (j). Pub. L. 94–582, § 8(5), formerly § 8(a)(5), as renu
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–83, § 1(b), Sept. 30, 2005, 119 Stat. 2053, provided that: “The amendments made by subsection (a) [amending this section and sections 79a, 79d, 87h, and 87j of this title] take effect on September 30, 2005.”
+Pub. L. 109–83, § 1(b), Sept. 30, 2005, 119 Stat. 2053, provided that: “The amendments made by subsection (a) [amending this section and sections 79a, 79d, 87h, and 87j of this title] take effect on September 30, 2005.”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–472, title I, § 111, Nov. 9, 2000, 114 Stat. 2061, provided that: “The amendments made by sections 103, 105, 108, and 109 [amending this section and sections 79a, 79d, 87h, and 87j of this title] shall take effect as if enacted on September 30, 2000.”
+Pub. L. 106–472, title I, § 111, Nov. 9, 2000, 114 Stat. 2061, provided that: “The amendments made by sections 103, 105, 108, and 109 [amending this section and sections 79a, 79d, 87h, and 87j of this title] shall take effect as if enacted on September 30, 2000.”
 
 **Effective and Termination Dates of 1988 Amendment**
 
-That part of section 2 of Pub. L. 100–518 which provided that the amendment made by Pub. L. 100–518 was effective for period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530, eff. Sept. 30, 1993.
+That part of section 2 of Pub. L. 100–518 which provided that the amendment made by Pub. L. 100–518 was effective for period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530, eff. Sept. 30, 1993.
 
 **Effective and Termination Dates of 1984 Amendment**
 
-Pub. L. 98–469, § 2, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 98–469 is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
+Pub. L. 98–469, § 2, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 98–469 is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
 
 **Effective and Termination Dates of 1981 Amendment**
 
-Pub. L. 97–98, title XI, § 1113(b), Dec. 22, 1981, 95 Stat. 1268, provided that: “The provisions of this section [amending this section] shall become effective one hundred and eighty days after enactment of this Act [Dec. 22, 1981].”
+Pub. L. 97–98, title XI, § 1113(b), Dec. 22, 1981, 95 Stat. 1268, provided that: “The provisions of this section [amending this section] shall become effective one hundred and eighty days after enactment of this Act [Dec. 22, 1981].”
 
-Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 **Effective Date of 1977 Amendment**
 
@@ -831,13 +831,13 @@ For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90
 
 **United States Grain Standards Act Extension**
 
-Pub. L. 119–75, div. I, § 5001, Feb. 3, 2026, 140 Stat. 629, provided that: “Sections 7(j)(5), 7A(l)(4), and 21(e) of the United States Grain Standards Act (7 U.S.C. 79(j)(5), 79a(l)(4), 87j(e)) shall be applied by substituting ‘September 30, 2026’ for ‘September 30, 2025’ each place it appears.”
+Pub. L. 119–75, div. I, § 5001, Feb. 3, 2026, 140 Stat. 629, provided that: “Sections 7(j)(5), 7A(l)(4), and 21(e) of the United States Grain Standards Act (7 U.S.C. 79(j)(5), 79a(l)(4), 87j(e)) shall be applied by substituting ‘September 30, 2026’ for ‘September 30, 2025’ each place it appears.”
 
 **Investigations and Studies of Grain Inspection and Weighing in Interior of United States; Completion of Studies and Submission of Reports by May 20, 1979, and Nov. 20, 1979, Respectively**
 
-Pub. L. 94–582, § 8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 95–113, title XVI, §§ 1605(a), 1607(a), Sept. 29, 1977, 91 Stat. 1029, 1031, which directed the Administrator of the Federal Grain Inspection Service, the Director of the Office of Investigation of the United States Department of Agriculture, and the Comptroller General of the United States to severally conduct investigations into and study grain inspection and weighing in the interior of the United States, and required the Administrator and Director to submit reports to Congress not later than 30 months after Oct. 21, 1976, and the Comptroller General to submit a report not later than three years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, § 110(a)(2), Nov. 9, 2000, 114 Stat. 2060.
+Pub. L. 94–582, § 8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 95–113, title XVI, §§ 1605(a), 1607(a), Sept. 29, 1977, 91 Stat. 1029, 1031, which directed the Administrator of the Federal Grain Inspection Service, the Director of the Office of Investigation of the United States Department of Agriculture, and the Comptroller General of the United States to severally conduct investigations into and study grain inspection and weighing in the interior of the United States, and required the Administrator and Director to submit reports to Congress not later than 30 months after Oct. 21, 1976, and the Comptroller General to submit a report not later than three years after Oct. 21, 1976, was repealed by Pub. L. 106–472, title I, § 110(a)(2), Nov. 9, 2000, 114 Stat. 2060.
 
-## § 79a. Weighing authority
+## § 79a. Weighing authority
 
 **(a) Official weighing in accordance with prescribed regulations**
 
@@ -921,9 +921,9 @@ The representatives of the Secretary shall be afforded access to any elevator, w
 
 **(A) In general.—** The Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs to the Secretary incident to the performance of the functions provided for under this section except as otherwise provided in paragraph (2) of this subsection.
 
-**(B) Amount of fees.—** The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to performance of its 1
+**(B) Amount of fees.—** The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to performance of its 1
 
-<sup>1</sup>  So in original. Probably should be “the Secretary’s”.
+<sup>1</sup> So in original. Probably should be “the Secretary’s”.
 
 functions related to weighing, including administrative and supervisory costs directly related thereto.
 
@@ -937,17 +937,17 @@ functions related to weighing, including administrative and supervisory costs di
 
 **(4)** The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2025.2
 
-<sup>2</sup>  See United States Grain Standards Act Extension note below.
+<sup>2</sup> See United States Grain Standards Act Extension note below.
 
 After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 7A, as added Pub. L. 94–582, § 9, Oct. 21, 1976, 90 Stat. 2875; amended Pub. L. 95–113, title XVI, §§ 1602(b), 1604(e), 1606(e), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, § 155(2), Aug. 13, 1981, 95 Stat. 371; Pub. L. 100–518, § 2(2), Oct. 24, 1988, 102 Stat. 2585; Pub. L. 103–156, §§ 4(b), 5(b), 12(e), 14(b), Nov. 24, 1993, 107 Stat. 1526, 1528, 1530; Pub. L. 103–354, title II, § 293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§ 102(b), 103(b), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 109–83, § 1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, § 301(b)(3)(B), (c), Sept. 30, 2015, 129 Stat. 518, 519; Pub. L. 115–334, title XII, § 12610(b), Dec. 20, 2018, 132 Stat. 5012; Pub. L. 116–216, § 3, Dec. 11, 2020, 134 Stat. 1048.)
+(Aug. 11, 1916, ch. 313, pt. B, § 7A, as added Pub. L. 94–582, § 9, Oct. 21, 1976, 90 Stat. 2875; amended Pub. L. 95–113, title XVI, §§ 1602(b), 1604(e), 1606(e), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, § 155(2), Aug. 13, 1981, 95 Stat. 371; Pub. L. 100–518, § 2(2), Oct. 24, 1988, 102 Stat. 2585; Pub. L. 103–156, §§ 4(b), 5(b), 12(e), 14(b), Nov. 24, 1993, 107 Stat. 1526, 1528, 1530; Pub. L. 103–354, title II, § 293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§ 102(b), 103(b), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 109–83, § 1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, § 301(b)(3)(B), (c), Sept. 30, 2015, 129 Stat. 518, 519; Pub. L. 115–334, title XII, § 12610(b), Dec. 20, 2018, 132 Stat. 5012; Pub. L. 116–216, § 3, Dec. 11, 2020, 134 Stat. 1048.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The United States Warehouse Act, referred to in subsec. (j), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
+The United States Warehouse Act, referred to in subsec. (j), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
 
 **Amendments**
 
@@ -955,59 +955,59 @@ The United States Warehouse Act, referred to in subsec. (j), is part C of act Au
 
 2018—Subsec. (i)(2). Pub. L. 115–334 inserted subpar. (A) designation and heading before “Not more” and subpar. (B) designation and heading before “the Secretary determines” in introductory provisions, substituted “Subject to subparagraph (B), not more” for “Not more” and “Secretary.” for “Secretary, except that, if” in subpar. (A) and “If the Secretary determines” for “the Secretary determines” in subpar. (B), redesignated former subpars. (A) and (B) as cls. (i) and (iii), respectively, of subpar. (B), struck out “or” at end of cl. (i) of subpar. (B), added cl. (ii) of subpar. (B) and subpar. (C), and realigned margins.
 
-2015—Subsec. (c)(2). Pub. L. 114–54, § 301(c)(1), substituted “subsections (e) and (g) of section 79” for “subsection (g) of section 79”.
+2015—Subsec. (c)(2). Pub. L. 114–54, § 301(c)(1), substituted “subsections (e) and (g) of section 79” for “subsection (g) of section 79”.
 
-Subsec. (i)(2). Pub. L. 114–54, § 301(b)(3)(B), in introductory provisions, substituted “the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—” for “the Secretary may—”, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which related to more than one designated official agency providing weighing in the same geographic area and a designated official agency crossing boundary lines to provide weighing in another geographic area.
+Subsec. (i)(2). Pub. L. 114–54, § 301(b)(3)(B), in introductory provisions, substituted “the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—” for “the Secretary may—”, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which related to more than one designated official agency providing weighing in the same geographic area and a designated official agency crossing boundary lines to provide weighing in another geographic area.
 
-Subsec. (*l*). Pub. L. 114–54, § 301(c)(2)(A), inserted heading.
+Subsec. (*l*). Pub. L. 114–54, § 301(c)(2)(A), inserted heading.
 
-Subsec. (*l*)(1). Pub. L. 114–54, § 301(c)(2)(A), (B), inserted heading, designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings, in subpar. (C), substituted “Fees described in this paragraph” for “Such fees”, and added subpar. (D).
+Subsec. (*l*)(1). Pub. L. 114–54, § 301(c)(2)(A), (B), inserted heading, designated first to third sentences as subpars. (A) to (C), respectively, and inserted subpar. headings, in subpar. (C), substituted “Fees described in this paragraph” for “Such fees”, and added subpar. (D).
 
-Subsec. (*l*)(3). Pub. L. 114–54, § 301(c)(2)(D), added par. (3). Former par. (3) redesignated (4).
+Subsec. (*l*)(3). Pub. L. 114–54, § 301(c)(2)(D), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (*l*)(4). Pub. L. 114–54, § 301(c)(2)(C), (E), redesignated par. (3) as (4) and substituted “2020” for “2015”.
+Subsec. (*l*)(4). Pub. L. 114–54, § 301(c)(2)(C), (E), redesignated par. (3) as (4) and substituted “2020” for “2015”.
 
 2005—Subsec. (*l*)(3). Pub. L. 109–83 substituted “2015” for “2005”.
 
-2000—Subsec. (i). Pub. L. 106–472, § 102(b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, struck out second sentence, which prohibited more than one official agency or State delegated authority from operating at one time in any geographic area except as permitted in pilot programs, and added par. (2).
+2000—Subsec. (i). Pub. L. 106–472, § 102(b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, struck out second sentence, which prohibited more than one official agency or State delegated authority from operating at one time in any geographic area except as permitted in pilot programs, and added par. (2).
 
-Subsec. (*l*)(3). Pub. L. 106–472, § 103(b), substituted “2005” for “2000” in first sentence.
+Subsec. (*l*)(3). Pub. L. 106–472, § 103(b), substituted “2005” for “2000” in first sentence.
 
 1994—Pub. L. 103–354 substituted “supervision by the Secretary of the Secretary’s field office personnel” for “supervision by Service personnel of its field office personnel” in first sentence of subsec. (*l*)(2) and substituted “Secretary” for “Administrator” and “Service” wherever appearing in subsecs. (a) to (f) and (i) to (*l*).
 
-1993—Subsec. (c)(2). Pub. L. 103–156, § 4(b)(1), in second sentence, substituted “ ‘official weighing’ or ‘supervision of weighing’ ” for “ ‘supervision of weighing’ ”.
+1993—Subsec. (c)(2). Pub. L. 103–156, § 4(b)(1), in second sentence, substituted “ ‘official weighing’ or ‘supervision of weighing’ ” for “ ‘supervision of weighing’ ”.
 
-Subsec. (d). Pub. L. 103–156, § 4(b)(2), inserted before period at end of second sentence “or as otherwise provided by agreement with the Canadian Government”.
+Subsec. (d). Pub. L. 103–156, § 4(b)(2), inserted before period at end of second sentence “or as otherwise provided by agreement with the Canadian Government”.
 
-Subsec. (e). Pub. L. 103–156, § 12(e), which directed amendment of “Section 7A(e)” by substituting “regulations as the Administrator” for “regulations as he”, without specifying the name of the Act being amended, was executed to this section, which is section 7A of the United States Grain Standards Act, to reflect the probable intent of Congress.
+Subsec. (e). Pub. L. 103–156, § 12(e), which directed amendment of “Section 7A(e)” by substituting “regulations as the Administrator” for “regulations as he”, without specifying the name of the Act being amended, was executed to this section, which is section 7A of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (i). Pub. L. 103–156, §§ 4(b)(3), 5(b), inserted before period at end of first sentence “or as otherwise provided in section 79(i) of this title and subsection (d) of this section” and inserted before period at end of second sentence “, except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out the weighing provisions within a single geographic area without undermining the policy stated in section 74 of this title”.
+Subsec. (i). Pub. L. 103–156, §§ 4(b)(3), 5(b), inserted before period at end of first sentence “or as otherwise provided in section 79(i) of this title and subsection (d) of this section” and inserted before period at end of second sentence “, except that the Administrator may conduct pilot programs to allow more than 1 official agency to carry out the weighing provisions within a single geographic area without undermining the policy stated in section 74 of this title”.
 
-Subsec. (*l*)(3). Pub. L. 103–156, § 14(b), added par. (3).
+Subsec. (*l*)(3). Pub. L. 103–156, § 14(b), added par. (3).
 
 1988—Subsec. (*l*). Pub. L. 100–518 amended subsec. (*l*) generally, substituting “cover the costs of the Service” for “cover the costs of the service” in par. (1).
 
 1981—Subsec. (*l*). Pub. L. 97–35 temporarily designated existing provisions as par. (1), made changes in nomenclature, provided for inclusion, rather than exclusion, of administrative and supervisory costs, and struck out provisions respecting availability of deposited funds, and added par. (2). See Effective and Termination Dates of 1981 Amendment note below.
 
-1977—Subsec. (a). Pub. L. 95–113, § 1606(e), substituted “standards or procedures” for “standards”.
+1977—Subsec. (a). Pub. L. 95–113, § 1606(e), substituted “standards or procedures” for “standards”.
 
-Subsec. (b). Pub. L. 95–113, §§ 1604(e)(1), 1606(e), substituted “The Administrator is authorized to cause official weighing or supervision of weighing under standards or procedures” for “The Administrator is authorized to cause supervision of weighing under standards” and “other than at export elevators at export port locations” for “other than at export port locations”.
+Subsec. (b). Pub. L. 95–113, §§ 1604(e)(1), 1606(e), substituted “The Administrator is authorized to cause official weighing or supervision of weighing under standards or procedures” for “The Administrator is authorized to cause supervision of weighing under standards” and “other than at export elevators at export port locations” for “other than at export port locations”.
 
-Subsec. (c)(2). Pub. L. 95–113, § 1604(e)(2), made technical amendments to conform par. (2) to increased authority granted in subsec. (b) to cause official weighing as well as supervision of weighing at interior inspection points and corrected a typographical error in which “number” had been erroneously used for “under” in text as originally enacted by Pub. L. 94–582.
+Subsec. (c)(2). Pub. L. 95–113, § 1604(e)(2), made technical amendments to conform par. (2) to increased authority granted in subsec. (b) to cause official weighing as well as supervision of weighing at interior inspection points and corrected a typographical error in which “number” had been erroneously used for “under” in text as originally enacted by Pub. L. 94–582.
 
-Subsec. (d). Pub. L. 95–113, § 1604(e)(3), inserted requirement that all or specified functions of Canadian weighing be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
+Subsec. (d). Pub. L. 95–113, § 1604(e)(3), inserted requirement that all or specified functions of Canadian weighing be performed by official inspection personnel employed by the Service or, except for appeals, by persons operating under a contract with the Service.
 
-Subsec. (e). Pub. L. 95–113, §§ 1604(e)(4), 1606(e), substituted “under standards or procedures provided” for “under standards provided” and struck out provisions which had required that the weighing service not be provided for periods of less than a year, that the fees therefor be set separately from the fees provided for in subsec. (*l*), and that they be reasonable, nondiscriminatory, and equal, as nearly as possible, to the cost of providing the service.
+Subsec. (e). Pub. L. 95–113, §§ 1604(e)(4), 1606(e), substituted “under standards or procedures provided” for “under standards provided” and struck out provisions which had required that the weighing service not be provided for periods of less than a year, that the fees therefor be set separately from the fees provided for in subsec. (*l*), and that they be reasonable, nondiscriminatory, and equal, as nearly as possible, to the cost of providing the service.
 
-Subsec. (f)(2). Pub. L. 95–113, § 1604(e)(5)(A), substituted “permit only competent persons with a reputation for honesty and integrity and who are approved by the Administrator” for “employ only competent persons with a reputation for honesty and integrity”.
+Subsec. (f)(2). Pub. L. 95–113, § 1604(e)(5)(A), substituted “permit only competent persons with a reputation for honesty and integrity and who are approved by the Administrator” for “employ only competent persons with a reputation for honesty and integrity”.
 
-Subsec. (f)(3). Pub. L. 95–113, § 1604(e)(5)(B), substituted “when weighing is to be done by persons other than official inspection personnel, will require such persons to operate the scales” for “when weighing is to be done by employees of the facility, will require employees to operate the scales”.
+Subsec. (f)(3). Pub. L. 95–113, § 1604(e)(5)(B), substituted “when weighing is to be done by persons other than official inspection personnel, will require such persons to operate the scales” for “when weighing is to be done by employees of the facility, will require employees to operate the scales”.
 
-Subsec. (g). Pub. L. 95–113, § 1604(e)(6), substituted “official weighing or supervision of weighing” for “official weighing”.
+Subsec. (g). Pub. L. 95–113, § 1604(e)(6), substituted “official weighing or supervision of weighing” for “official weighing”.
 
-Subsec. (i). Pub. L. 95–113, § 1604(e)(7), (8), substituted “No State or local governmental agency” for “No State” and inserted provision that not more than one official agency or State delegated authority pursuant to subsection (c)(2) of this section for carrying out the weighing provisions of this chapter be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title.
+Subsec. (i). Pub. L. 95–113, § 1604(e)(7), (8), substituted “No State or local governmental agency” for “No State” and inserted provision that not more than one official agency or State delegated authority pursuant to subsection (c)(2) of this section for carrying out the weighing provisions of this chapter be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title.
 
-Subsec. (*l*). Pub. L. 95–113, § 1602(b), revised provisions relating to fees so as to remove requirement that field supervision of weighing be supported by fees.
+Subsec. (*l*). Pub. L. 95–113, § 1602(b), revised provisions relating to fees so as to remove requirement that field supervision of weighing be supported by fees.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1017,11 +1017,11 @@ Amendment by section 103(b) of Pub. L. 106–472 effective as if enacted Sept. 3
 
 **Effective and Termination Dates of 1988 Amendment**
 
-That part of section 2 of Pub. L. 100–518 which provided that the amendment made by Pub. L. 100–518 was effective for period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530, eff. Sept. 30, 1993.
+That part of section 2 of Pub. L. 100–518 which provided that the amendment made by Pub. L. 100–518 was effective for period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530, eff. Sept. 30, 1993.
 
 **Effective and Termination Dates of 1981 Amendment**
 
-Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 **Effective Date of 1977 Amendment**
 
@@ -1035,7 +1035,7 @@ Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–58
 
 Subsec. (*l*)(4) of this section to be applied by substituting “September 30, 2026” for “September 30, 2025”, see section 5001 of div. I of Pub. L. 119–75, set out as a note under section 79 of this title.
 
-## § 79b. Testing of equipment
+## § 79b. Testing of equipment
 
 **(a) Random and periodic testing at least annually; fees**
 
@@ -1049,7 +1049,7 @@ The Secretary is authorized to cause such testing provided for in subsection (a)
 
 Notwithstanding any other provision of law, no person shall use for the purposes of this chapter any such equipment not approved by the Secretary.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 7B, as added Pub. L. 94–582, § 9, Oct. 21, 1976, 90 Stat. 2877; amended Pub. L. 95–113, title XVI, § 1604(f), Sept. 29, 1977, 91 Stat. 1028; Pub. L. 103–156, § 12(f), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 104, Nov. 9, 2000, 114 Stat. 2060.)
+(Aug. 11, 1916, ch. 313, pt. B, § 7B, as added Pub. L. 94–582, § 9, Oct. 21, 1976, 90 Stat. 2877; amended Pub. L. 95–113, title XVI, § 1604(f), Sept. 29, 1977, 91 Stat. 1028; Pub. L. 103–156, § 12(f), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 104, Nov. 9, 2000, 114 Stat. 2060.)
 
 **Editorial Notes**
 
@@ -1061,9 +1061,9 @@ Notwithstanding any other provision of law, no person shall use for the purposes
 
 1993—Subsec. (a). Pub. L. 103–156, which directed amendment of “Section 7B(a)” by substituting “as the Administrator deems necessary” for “as he deems necessary”, without specifying the name of the Act being amended, was executed to this section, which is section 7B of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-1977—Subsec. (a). Pub. L. 95–113, § 1604(f)(1), (2), substituted “and weighing for the purpose of official inspection, official weighing, or supervision of weighing of grain located at all grain elevators” for “and weighing of grain located at all grain elevators” and inserted provisions that regulations provide for the charging and collection of reasonable fees to cover the estimated costs to the Service incident to the performance of testing by employees of the Service and that the fees be deposited into the fund created by section 79(j) of this title.
+1977—Subsec. (a). Pub. L. 95–113, § 1604(f)(1), (2), substituted “and weighing for the purpose of official inspection, official weighing, or supervision of weighing of grain located at all grain elevators” for “and weighing of grain located at all grain elevators” and inserted provisions that regulations provide for the charging and collection of reasonable fees to cover the estimated costs to the Service incident to the performance of testing by employees of the Service and that the fees be deposited into the fund created by section 79(j) of this title.
 
-Subsec. (c). Pub. L. 95–113, § 1604(f)(3), substituted “shall use for the purposes of this chapter” for “shall use”.
+Subsec. (c). Pub. L. 95–113, § 1604(f)(3), substituted “shall use for the purposes of this chapter” for “shall use”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1075,23 +1075,23 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under section 74 of this title.
 
-## § 79c. Omitted
+## § 79c. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Aug. 11, 1916, ch. 313, pt. B, § 7C, as added Aug. 13, 1981, Pub. L. 97–35, title I, § 155(3), 95 Stat. 372; amended Oct. 11, 1984, Pub. L. 98–469, § 2(2), 98 Stat. 1831, which limited the total administrative and supervisory costs which could be incurred under this chapter for fiscal years 1982 through 1988, was effective for the period Oct. 1, 1981, through Sept. 30, 1988, pursuant to section 155 of Pub. L. 97–35, as amended. See section 79d of this title.
+Section, act Aug. 11, 1916, ch. 313, pt. B, § 7C, as added Aug. 13, 1981, Pub. L. 97–35, title I, § 155(3), 95 Stat. 372; amended Oct. 11, 1984, Pub. L. 98–469, § 2(2), 98 Stat. 1831, which limited the total administrative and supervisory costs which could be incurred under this chapter for fiscal years 1982 through 1988, was effective for the period Oct. 1, 1981, through Sept. 30, 1988, pursuant to section 155 of Pub. L. 97–35, as amended. See section 79d of this title.
 
-## § 79d. Limitation on administrative and supervisory costs
+## § 79d. Limitation on administrative and supervisory costs
 
-The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2025 1
+The total administrative and supervisory costs which may be incurred under this chapter for services performed (excluding standardization, compliance, and foreign monitoring activities) for each of the fiscal years 1989 through 2025 1
 
-<sup>1</sup>  See Application of Section note below.
+<sup>1</sup> See Application of Section note below.
 
 shall not exceed 30 percent of the total costs for such activities carried out by the Secretary for such year.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 7D, as added Pub. L. 100–518, § 2(3), Oct. 24, 1988, 102 Stat. 2585; amended Pub. L. 103–156, § 2, Nov. 24, 1993, 107 Stat. 1525; Pub. L. 103–354, title II, § 293(a)(8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 105, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, § 1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, § 301(d), Sept. 30, 2015, 129 Stat. 520; Pub. L. 116–216, § 4, Dec. 11, 2020, 134 Stat. 1048.)
+(Aug. 11, 1916, ch. 313, pt. B, § 7D, as added Pub. L. 100–518, § 2(3), Oct. 24, 1988, 102 Stat. 2585; amended Pub. L. 103–156, § 2, Nov. 24, 1993, 107 Stat. 1525; Pub. L. 103–354, title II, § 293(a)(8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 105, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, § 1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, § 301(d), Sept. 30, 2015, 129 Stat. 520; Pub. L. 116–216, § 4, Dec. 11, 2020, 134 Stat. 1048.)
 
 **Editorial Notes**
 
@@ -1121,29 +1121,29 @@ Amendment by Pub. L. 103–156 effective as of Sept. 30, 1993, see section 16(b)
 
 **Effective and Termination Dates**
 
-That part of section 2 of Pub. L. 100–518 which provided that section was effective for the period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530, eff. Sept. 30, 1993.
+That part of section 2 of Pub. L. 100–518 which provided that section was effective for the period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530, eff. Sept. 30, 1993.
 
 **Application of Section**
 
-Pub. L. 119–37, div. E, § 5001(b), Nov. 12, 2025, 139 Stat. 626, provided that: “Sections 7D and 19(a) of the United States Grain Standards Act (7 U.S.C. 79d, 87h(a)) shall be applied by substituting ‘2026’ for ‘2025’ each place it appears.”
+Pub. L. 119–37, div. E, § 5001(b), Nov. 12, 2025, 139 Stat. 626, provided that: “Sections 7D and 19(a) of the United States Grain Standards Act (7 U.S.C. 79d, 87h(a)) shall be applied by substituting ‘2026’ for ‘2025’ each place it appears.”
 
-## §§ 80 to 83. Omitted
+## §§ 80 to 83. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections were omitted in the general reorganization of this chapter by Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 761.
+Sections were omitted in the general reorganization of this chapter by Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 761.
 
-Section 80, act Aug. 11, 1916, ch. 313, pt. B, § 7 (part), 39 Stat. 484, provided for revocation and suspension of licenses issued by the Secretary of Agriculture. See section 85 of this title.
+Section 80, act Aug. 11, 1916, ch. 313, pt. B, § 7 (part), 39 Stat. 484, provided for revocation and suspension of licenses issued by the Secretary of Agriculture. See section 85 of this title.
 
-Section 81, act Aug. 11, 1916, ch. 313, pt. B, § 7 (part), 39 Stat. 484, prohibited the existence of an interest, financial or otherwise, direct or indirect, on the part of inspectors in grain elevators or warehouses or in the merchandising of grain. See section 87 of this title.
+Section 81, act Aug. 11, 1916, ch. 313, pt. B, § 7 (part), 39 Stat. 484, prohibited the existence of an interest, financial or otherwise, direct or indirect, on the part of inspectors in grain elevators or warehouses or in the merchandising of grain. See section 87 of this title.
 
-Section 82, act Aug. 11, 1916, ch. 313, pt. B, § 7 (part), 39 Stat. 484, required maintenance of records and reports by inspectors. See section 87a of this title.
+Section 82, act Aug. 11, 1916, ch. 313, pt. B, § 7 (part), 39 Stat. 484, required maintenance of records and reports by inspectors. See section 87a of this title.
 
-Section 83, act Aug. 11, 1916, ch. 313, pt. B, § 7 (part), 39 Stat. 484, called for a semiannual report by the Secretary of Agriculture on the delivery of grain in the nation.
+Section 83, act Aug. 11, 1916, ch. 313, pt. B, § 7 (part), 39 Stat. 484, called for a semiannual report by the Secretary of Agriculture on the delivery of grain in the nation.
 
-## § 84. Licensing of inspectors
+## § 84. Licensing of inspectors
 
 **(a) Authorization**
 
@@ -1173,7 +1173,7 @@ The Secretary shall provide for the periodic rotation of supervisory personnel a
 
 The Secretary shall develop and effectuate standards for the recruiting, training, and supervising of official inspection personnel and appropriate work production standards for such personnel, which shall be applicable to the Secretary, all State agencies under delegation of authority pursuant to this chapter, and all official agencies and all persons licensed or authorized to perform functions under this chapter: *Provided*, That persons licensed or authorized on October 21, 1976, to perform any official function under this chapter, shall be exempted from the uniform recruiting and training provisions of this subsection and regulations or standards issued pursuant thereto if the Secretary determines that such persons are technically and professionally qualified for the duties to which they will be assigned and they agree to complete whatever additional training the Secretary deems necessary.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 8, 39 Stat. 485; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 764; Pub. L. 94–582, § 10, Oct. 21, 1976, 90 Stat. 2877; Pub. L. 95–113, title XVI, §§ 1604(g), 1606(f), Sept. 29, 1977, 91 Stat. 1028, 1030; Pub. L. 103–156, §§ 6, 12(g), Nov. 24, 1993, 107 Stat. 1526, 1528; Pub. L. 103–354, title II, § 293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 106, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 114–54, title III, § 301(e), Sept. 30, 2015, 129 Stat. 520.)
+(Aug. 11, 1916, ch. 313, pt. B, § 8, 39 Stat. 485; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 764; Pub. L. 94–582, § 10, Oct. 21, 1976, 90 Stat. 2877; Pub. L. 95–113, title XVI, §§ 1604(g), 1606(f), Sept. 29, 1977, 91 Stat. 1028, 1030; Pub. L. 103–156, §§ 6, 12(g), Nov. 24, 1993, 107 Stat. 1526, 1528; Pub. L. 103–354, title II, § 293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 106, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 114–54, title III, § 301(e), Sept. 30, 2015, 129 Stat. 520.)
 
 **Editorial Notes**
 
@@ -1189,27 +1189,27 @@ The General Schedule, referred to in subsec. (e), is set out under section 5332 
 
 1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” and “Service” wherever appearing.
 
-1993—Pub. L. 103–156, § 12(g), which directed amendment of “Section 8”, without specifying the name of the Act being amended, was executed to this section, which is section 8 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+1993—Pub. L. 103–156, § 12(g), which directed amendment of “Section 8”, without specifying the name of the Act being amended, was executed to this section, which is section 8 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–156, §§ 6(1), 12(g)(1), in cl. (1), substituted “presentation to the Administrator” for “presentation to him” and inserted “(or is supervised under a contractual arrangement)” after “and is employed”, and in second sentence, substituted “Except as otherwise provided in sections 79(i) and 79a(d) of this title, no person” for “No person”.
+Subsec. (a). Pub. L. 103–156, §§ 6(1), 12(g)(1), in cl. (1), substituted “presentation to the Administrator” for “presentation to him” and inserted “(or is supervised under a contractual arrangement)” after “and is employed”, and in second sentence, substituted “Except as otherwise provided in sections 79(i) and 79a(d) of this title, no person” for “No person”.
 
-Subsec. (b). Pub. L. 103–156, § 6(2), substituted “under the terms of a contract for the conduct of any functions” for “independently under the terms of a contract for the conduct of any functions involved in official inspection”.
+Subsec. (b). Pub. L. 103–156, § 6(2), substituted “under the terms of a contract for the conduct of any functions” for “independently under the terms of a contract for the conduct of any functions involved in official inspection”.
 
-Subsec. (c). Pub. L. 103–156, § 12(g)(2), substituted “the Administrator” for “he”.
+Subsec. (c). Pub. L. 103–156, § 12(g)(2), substituted “the Administrator” for “he”.
 
-Subsec. (d). Pub. L. 103–156, § 6(3), inserted “or supervised under a contractual arrangement” after “Persons employed” and after “including persons employed”.
+Subsec. (d). Pub. L. 103–156, § 6(3), inserted “or supervised under a contractual arrangement” after “Persons employed” and after “including persons employed”.
 
-Subsec. (f). Pub. L. 103–156, § 12(g)(2), substituted “the Administrator” for “he”.
+Subsec. (f). Pub. L. 103–156, § 12(g)(2), substituted “the Administrator” for “he”.
 
-1977—Subsec. (a)(1). Pub. L. 95–113, § 1604(g)(1)(A), substituted “weighing, other than appeal weighing, of grain” for “weighing of grain”.
+1977—Subsec. (a)(1). Pub. L. 95–113, § 1604(g)(1)(A), substituted “weighing, other than appeal weighing, of grain” for “weighing of grain”.
 
-Subsec. (a)(2)(B). Pub. L. 95–113, § 1604(g)(1)(B), substituted “weighing (including appeal weighing) of grain in the United States, or of United States grain in Canadian ports” for “weighing of grain”.
+Subsec. (a)(2)(B). Pub. L. 95–113, § 1604(g)(1)(B), substituted “weighing (including appeal weighing) of grain in the United States, or of United States grain in Canadian ports” for “weighing of grain”.
 
-Subsec. (a)(3). Pub. L. 95–113, § 1604(g)(1)(C), substituted “any person or governmental agency specified sampling, laboratory testing, and similar technical functions” for “any person to perform specified sampling and laboratory testing”.
+Subsec. (a)(3). Pub. L. 95–113, § 1604(g)(1)(C), substituted “any person or governmental agency specified sampling, laboratory testing, and similar technical functions” for “any person to perform specified sampling and laboratory testing”.
 
-Subsec. (e). Pub. L. 95–113, § 1604(g)(2), inserted provisions authorizing the Administrator to compensate the personnel at any rate within the appropriate grade of the General Schedule as the Administrator deems necessary without regard to section 5333 of title 5.
+Subsec. (e). Pub. L. 95–113, § 1604(g)(2), inserted provisions authorizing the Administrator to compensate the personnel at any rate within the appropriate grade of the General Schedule as the Administrator deems necessary without regard to section 5333 of title 5.
 
-Subsec. (f). Pub. L. 95–113, § 1606(f), substituted “official inspection and weighing system” for “official inspection system”.
+Subsec. (f). Pub. L. 95–113, § 1606(f), substituted “official inspection and weighing system” for “official inspection system”.
 
 1976—Subsec. (a). Pub. L. 94–582 substituted “Administrator” for “Secretary” in two places; designated existing provisions as item (1) and substituted “official agency or a State agency delegated authority under section 79 or 79a of this title, to perform all or specified functions involved in original inspection or reinspection functions involved in official inspection, or in the official weighing or the supervision of weighing of grain in the United States” for “official inspection agency to perform all or specified functions involved in official inspection”; substituted provisions designated as item (2) for “to authorize any competent employee of the Department of Agriculture to perform all or specified functions involved in supervisory or appeal inspection or initial inspection of United States grain in Canadian ports”; inserted items (3) and (4); struck out authorization to license any competent individual to perform specified functions involved in official inspection under a contract with the Department of Agriculture; and conditioned performance of any official weighing function on the holding of a license or authorization.
 
@@ -1237,11 +1237,11 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
 
-## § 85. Suspension, revocation, and refusal to renew licenses; hearing; grounds; temporary suspension
+## § 85. Suspension, revocation, and refusal to renew licenses; hearing; grounds; temporary suspension
 
 The Secretary may refuse to renew, or may suspend or revoke, any license issued under this chapter whenever, after the licensee has been afforded an opportunity for a hearing, the Secretary shall determine that such licensee is incompetent, or has inspected or weighed or supervised the weighing of grain for purposes of this chapter, by any standard or criteria other than as provided for in this chapter, or has issued, or caused the issuance of, any false or incorrect official certificate or other official form, or has knowingly or carelessly inspected or weighed or supervised the weighing of grain improperly under this chapter, or has accepted any money or other consideration, directly or indirectly, for any neglect or improper performance of duty, or has used the license or allowed it to be used for any improper purpose, or has otherwise violated any provision of this chapter or of the regulations prescribed or instructions issued to the licensee by the Secretary under this chapter. The Secretary may, without first affording the licensee an opportunity for a hearing, suspend any license temporarily pending final determination whenever the Secretary deems such action to be in the best interests of the official inspection system under this chapter. The Secretary may summarily revoke any license whenever the licensee has been convicted of any offense prohibited by section 87b of this title or convicted of any offense proscribed by title 18, with respect to performance of functions under this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 9, 39 Stat. 485; Aug. 1, 1956, ch. 812, 70 Stat. 780; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 765; Pub. L. 94–582, § 11, Oct. 21, 1976, 90 Stat. 2879; Pub. L. 103–156, § 12(h), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, § 9, 39 Stat. 485; Aug. 1, 1956, ch. 812, 70 Stat. 780; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 765; Pub. L. 94–582, § 11, Oct. 21, 1976, 90 Stat. 2879; Pub. L. 103–156, § 12(h), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 **Editorial Notes**
 
@@ -1267,7 +1267,7 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
 
-## § 86. Refusal of inspection and weighing services; civil penalties
+## § 86. Refusal of inspection and weighing services; civil penalties
 
 **(a) Grounds for refusal of services**
 
@@ -1289,7 +1289,7 @@ Before official inspection or services related to weighing is refused to any per
 
 Moneys received in payment of such civil penalties shall be deposited in the general fund of the United States Treasury. Upon any failure to pay the penalties assessed under this section, the Secretary may request the Attorney General of the United States to institute a civil action to collect the penalties in the appropriate court identified in subsection (h) of section 87f of this title for the jurisdiction in which the respondent is found or resides or transacts business, and such court shall have jurisdiction to hear and decide any such action.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 10, 39 Stat. 485; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 765; Pub. L. 94–582, § 12, Oct. 21, 1976, 90 Stat. 2879; Pub. L. 103–156, § 12(i), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, § 10, 39 Stat. 485; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 765; Pub. L. 94–582, § 12, Oct. 21, 1976, 90 Stat. 2879; Pub. L. 103–156, § 12(i), Nov. 24, 1993, 107 Stat. 1528; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 **Editorial Notes**
 
@@ -1297,11 +1297,11 @@ Moneys received in payment of such civil penalties shall be deposited in the gen
 
 1994—Subsecs. (a), (c) to (e). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Pub. L. 103–156, § 12(i), which directed amendment of “Section 10”, without specifying the name of the Act being amended, was executed to this section, which is section 10 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+1993—Pub. L. 103–156, § 12(i), which directed amendment of “Section 10”, without specifying the name of the Act being amended, was executed to this section, which is section 10 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–156, § 12(i)(1), substituted “the Administrator” for “he” in two places.
+Subsec. (a). Pub. L. 103–156, § 12(i)(1), substituted “the Administrator” for “he” in two places.
 
-Subsec. (b). Pub. L. 103–156, § 12(i)(2), substituted “the person” for “he”.
+Subsec. (b). Pub. L. 103–156, § 12(i)(2), substituted “the person” for “he”.
 
 1976—Subsec. (a). Pub. L. 94–582 substituted “Administrator” for “Secretary”, “grain offered for such services” for “grain offered for inspection”, “has knowingly committed any violation of section 87b of this title or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused” for “has been convicted of any violation of section 87b of this title, or that official inspection has been refused”, and “integrity of the service” for “integrity of the official inspection service”, and authorized refusal of provision of services relating to weighing.
 
@@ -1323,7 +1323,7 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
 
-## § 87. Conflicts of interest
+## § 87. Conflicts of interest
 
 **(a) Prohibition with respect to persons licensed or authorized by Secretary to perform official functions**
 
@@ -1345,7 +1345,7 @@ No person licensed or authorized by the Secretary to perform any official functi
 
 The provisions of this section shall not prevent an official agency or State agency delegated authority under this chapter from engaging in the business of weighing grain.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 11, 39 Stat. 485; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 766; Pub. L. 94–582, § 13, Oct. 21, 1976, 90 Stat. 2880; Pub. L. 95–113, title XVI, §§ 1604(h), 1606(g), Sept. 29, 1977, 91 Stat. 1028, 1030; Pub. L. 103–156, § 12(j), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 103–437, § 4(a)(1), Nov. 2, 1994, 108 Stat. 4581.)
+(Aug. 11, 1916, ch. 313, pt. B, § 11, 39 Stat. 485; Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 766; Pub. L. 94–582, § 13, Oct. 21, 1976, 90 Stat. 2880; Pub. L. 95–113, title XVI, §§ 1604(h), 1606(g), Sept. 29, 1977, 91 Stat. 1028, 1030; Pub. L. 103–156, § 12(j), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 103–437, § 4(a)(1), Nov. 2, 1994, 108 Stat. 4581.)
 
 **Editorial Notes**
 
@@ -1355,25 +1355,25 @@ The provisions of this section shall not prevent an official agency or State age
 
 Subsec. (b)(5). Pub. L. 103–437 substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
-1993—Pub. L. 103–156, § 12(j), which directed amendment of “Section 11”, without specifying the name of the Act being amended, was executed to this section, which is section 11 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+1993—Pub. L. 103–156, § 12(j), which directed amendment of “Section 11”, without specifying the name of the Act being amended, was executed to this section, which is section 11 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–156, § 12(j)(1), substituted “the Administrator” for “he” before “determines”.
+Subsec. (a). Pub. L. 103–156, § 12(j)(1), substituted “the Administrator” for “he” before “determines”.
 
-Subsec. (b)(1). Pub. L. 103–156, § 12(j)(2)(A), substituted “the producer” for “he”.
+Subsec. (b)(1). Pub. L. 103–156, § 12(j)(2)(A), substituted “the producer” for “he”.
 
-Subsec. (b)(5). Pub. L. 103–156, § 12(j)(2)(B), substituted “the Administrator” for “he” in two places.
+Subsec. (b)(5). Pub. L. 103–156, § 12(j)(2)(B), substituted “the Administrator” for “he” in two places.
 
-1977—Subsec. (b)(3). Pub. L. 95–113, § 1604(h)(1), substituted “to perform official weighing or supervision of weighing” for “to perform supervision of weighing”.
+1977—Subsec. (b)(3). Pub. L. 95–113, § 1604(h)(1), substituted “to perform official weighing or supervision of weighing” for “to perform supervision of weighing”.
 
-Subsec. (b)(4). Pub. L. 95–113, § 1606(g), substituted “official weighing or supervision of weighing” for “official weighing”.
+Subsec. (b)(4). Pub. L. 95–113, § 1606(g), substituted “official weighing or supervision of weighing” for “official weighing”.
 
-Subsec. (b)(5). Pub. L. 95–113, § 1604(h)(2), substituted “to perform official inspection or perform official weighing or supervision of weighing except that” for “to perform official inspection or perform supervision of weighing except that” and “member, director, officer” for “member, officer”.
+Subsec. (b)(5). Pub. L. 95–113, § 1604(h)(2), substituted “to perform official inspection or perform official weighing or supervision of weighing except that” for “to perform official inspection or perform supervision of weighing except that” and “member, director, officer” for “member, officer”.
 
-Subsec. (c). Pub. L. 95–113, § 1604(h)(3), inserted “or State agency delegated authority under this chapter” after “official agency”.
+Subsec. (c). Pub. L. 95–113, § 1604(h)(3), inserted “or State agency delegated authority under this chapter” after “official agency”.
 
-1976—Subsec. (a). Pub. L. 94–582, § 13(a)–(c), substituted “Administrator” for “Secretary” wherever appearing and “perform any official function” for “perform any official inspection function”, and designated first paragraph provisions, as amended, as subsec. (a), respectively.
+1976—Subsec. (a). Pub. L. 94–582, § 13(a)–(c), substituted “Administrator” for “Secretary” wherever appearing and “perform any official function” for “perform any official inspection function”, and designated first paragraph provisions, as amended, as subsec. (a), respectively.
 
-Subsecs. (b), (c). Pub. L. 94–582, § 13(c), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 94–582, § 13(c), added subsecs. (b) and (c).
 
 1968—Pub. L. 90–487 substituted provisions prohibiting a conflict of interest on the part of inspectors who are interested financially in a grain elevator or in grain merchandising, for provisions covering the separability of provisions of this chapter.
 
@@ -1391,7 +1391,7 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 For effective date of amendment by Pub. L. 90–487, see section 2 of Pub. L. 90–487, set out as a note under section 78 of this title.
 
-## § 87a. Records
+## § 87a. Records
 
 **(a) Samples of grain**
 
@@ -1409,7 +1409,7 @@ Every official agency, every State agency delegated authority under this chapter
 
 Every State, political subdivision thereof, or person who is the owner or operator of a commercial grain elevator, warehouse, or other storage or handling facility or is engaged in the merchandising of grain other than as a producer, and who, at any time, has obtained or obtains official inspection or weighing services shall maintain such complete and accurate rec­ords for such period of time as the Secretary may, by regulation, prescribe for the purpose of the administration and enforcement of this chapter, and permit any authorized representative of the Secretary, at all reasonable times, to have access to, and to copy, such records and to have access to any grain elevator, warehouse, or other storage or handling facility used by such persons for handling of grain.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 12, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 766; amended Pub. L. 94–582, § 14, Oct. 21, 1976, 90 Stat. 2882; Pub. L. 95–113, title XVI, §§ 1601, 1604(i), Sept. 29, 1977, 91 Stat. 1024, 1029; Pub. L. 103–156, § 12(k), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, § 293(a)(5)–(7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, § 12, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 766; amended Pub. L. 94–582, § 14, Oct. 21, 1976, 90 Stat. 2882; Pub. L. 95–113, title XVI, §§ 1601, 1604(i), Sept. 29, 1977, 91 Stat. 1024, 1029; Pub. L. 103–156, § 12(k), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, § 293(a)(5)–(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 **Editorial Notes**
 
@@ -1421,17 +1421,17 @@ A prior section 12 of act Aug. 11, 1916, ch. 313, pt. B, 39 Stat. 485, which app
 
 1994—Pub. L. 103–354 struck out “or Administrator” after “representative of the Secretary” in subsec. (c), struck out “or the Administrator” after “representative of the Secretary” in subsec. (d), and substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Pub. L. 103–156, § 12(k), which directed amendment of “Section 12”, without specifying the name of the Act being amended, was executed to this section, which is section 12 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+1993—Pub. L. 103–156, § 12(k), which directed amendment of “Section 12”, without specifying the name of the Act being amended, was executed to this section, which is section 12 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 103–156, § 12(k)(1), substituted “the judgment of the Administrator” for “his judgment”.
+Subsec. (b). Pub. L. 103–156, § 12(k)(1), substituted “the judgment of the Administrator” for “his judgment”.
 
-Subsec. (c). Pub. L. 103–156, § 12(k)(2), substituted “the Administrator” for “he”.
+Subsec. (c). Pub. L. 103–156, § 12(k)(2), substituted “the Administrator” for “he”.
 
-1977—Subsecs. (a), (b). Pub. L. 95–113, § 1604(i)(1), inserted “, every State agency delegated authority under this chapter,” after “official agency”.
+1977—Subsecs. (a), (b). Pub. L. 95–113, § 1604(i)(1), inserted “, every State agency delegated authority under this chapter,” after “official agency”.
 
-Subsec. (c). Pub. L. 95–113, § 1604(i)(1), (2), inserted “, every State delegated authority under this chapter,” after “official agency” and corrected a typographical error in Pub. L. 94–582 under which “delegate authority of this chapter” had been erroneously used instead of “delegated authority under this chapter”.
+Subsec. (c). Pub. L. 95–113, § 1604(i)(1), (2), inserted “, every State delegated authority under this chapter,” after “official agency” and corrected a typographical error in Pub. L. 94–582 under which “delegate authority of this chapter” had been erroneously used instead of “delegated authority under this chapter”.
 
-Subsec. (d). Pub. L. 95–113, § 1601, substituted “shall maintain such complete and accurate records for such period of time as the Administrator may, by regulation, prescribe for the purpose of the administration and enforcement of this chapter” for “shall, within the five-year period thereafter, maintain complete and accurate records of purchases, sales, transportation, storage, weighing, handling, treating, cleaning, drying, blending, and other processing, and official inspection and official weighing of grain,”.
+Subsec. (d). Pub. L. 95–113, § 1601, substituted “shall maintain such complete and accurate records for such period of time as the Administrator may, by regulation, prescribe for the purpose of the administration and enforcement of this chapter” for “shall, within the five-year period thereafter, maintain complete and accurate records of purchases, sales, transportation, storage, weighing, handling, treating, cleaning, drying, blending, and other processing, and official inspection and official weighing of grain,”.
 
 1976—Subsec. (a). Pub. L. 94–582 substituted “official agency” for “official inspection agency” and “Administrator” for “Secretary” and inserted reference to licensed performance of official weighing or supervision of weighing function.
 
@@ -1471,7 +1471,7 @@ Pub. L. 101–161, title I, Nov. 21, 1989, 103 Stat. 960.
 
 Pub. L. 100–460, title I, Oct. 1, 1988, 102 Stat. 2238.
 
-## § 87b. Prohibited acts
+## § 87b. Prohibited acts
 
 **(a)** No person shall—
 
@@ -1571,63 +1571,63 @@ Pub. L. 100–460, title I, Oct. 1, 1988, 102 Stat. 2238.
 
 **(5)** In implementing paragraph (1)(C), the Secretary shall report any prohibitions to other appropriate public health agencies.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 13, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 766; amended Pub. L. 94–582, § 15, Oct. 21, 1976, 90 Stat. 2883; Pub. L. 95–113, title XVI, §§ 1604(j), 1606(h), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 99–641, title III, § 303(a), Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, § 2008, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, §§ 7, 12(*l*), Nov. 24, 1993, 107 Stat. 1526, 1529; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 107, Nov. 9, 2000, 114 Stat. 2060.)
+(Aug. 11, 1916, ch. 313, pt. B, § 13, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 766; amended Pub. L. 94–582, § 15, Oct. 21, 1976, 90 Stat. 2883; Pub. L. 95–113, title XVI, §§ 1604(j), 1606(h), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 99–641, title III, § 303(a), Nov. 10, 1986, 100 Stat. 3564; Pub. L. 101–624, title XX, § 2008, Nov. 28, 1990, 104 Stat. 3931; Pub. L. 103–156, §§ 7, 12(*l*), Nov. 24, 1993, 107 Stat. 1526, 1529; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 107, Nov. 9, 2000, 114 Stat. 2060.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (e)(1). Pub. L. 106–472 inserted “, or prohibit disguising the quality of grain,” after “sound and pure grain” in introductory provisions.
+2000—Subsec. (e)(1). Pub. L. 106–472 inserted “, or prohibit disguising the quality of grain,” after “sound and pure grain” in introductory provisions.
 
 1994—Subsecs. (a)(2), (13), (d)(2)(D), (E)(iii), (e)(1), (3) to (5). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Pub. L. 103–156, § 12(*l*), which directed amendment of “Section 13”, without specifying the name of the Act being amended, was executed to this section, which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+1993—Pub. L. 103–156, § 12(*l*), which directed amendment of “Section 13”, without specifying the name of the Act being amended, was executed to this section, which is section 13 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a)(2). Pub. L. 103–156, § 12(*l*)(1), substituted “the representative of the Administrator” for “his representative”.
+Subsec. (a)(2). Pub. L. 103–156, § 12(*l*)(1), substituted “the representative of the Administrator” for “his representative”.
 
-Subsec. (a)(7), (8). Pub. L. 103–156, § 12(*l*)(2), substituted “the duties of the officer, employee, or other person” for “his duties”.
+Subsec. (a)(7), (8). Pub. L. 103–156, § 12(*l*)(2), substituted “the duties of the officer, employee, or other person” for “his duties”.
 
-Subsec. (a)(9). Pub. L. 103–156, § 12(*l*)(3), substituted “the person” for “he”.
+Subsec. (a)(9). Pub. L. 103–156, § 12(*l*)(3), substituted “the person” for “he”.
 
-Subsec. (a)(11). Pub. L. 103–156, § 7, amended par. (11) generally. Prior to amendment, par. (11) read as follows: “violate any provision of section 77; 78; 79(f)(2), (3), or (4); 79a; 79b(c); 84; 87; 87a; or 87f–1 of this title;”.
+Subsec. (a)(11). Pub. L. 103–156, § 7, amended par. (11) generally. Prior to amendment, par. (11) read as follows: “violate any provision of section 77; 78; 79(f)(2), (3), or (4); 79a; 79b(c); 84; 87; 87a; or 87f–1 of this title;”.
 
 1990—Subsec. (e). Pub. L. 101–624 added subsec. (e).
 
 1986—Subsec. (d). Pub. L. 99–641 added subsec. (d).
 
-1977—Subsec. (a)(6). Pub. L. 95–113, §§ 1604(j)(1), 1606(h), substituted “or condition” for “condition, or quantity” and inserted “, or that any weighing service under this chapter has been performed with respect to grain” after “official inspection under this chapter”.
+1977—Subsec. (a)(6). Pub. L. 95–113, §§ 1604(j)(1), 1606(h), substituted “or condition” for “condition, or quantity” and inserted “, or that any weighing service under this chapter has been performed with respect to grain” after “official inspection under this chapter”.
 
-Subsec. (a)(11). Pub. L. 95–113, § 1604(j)(2), inserted references to sections 79(f)(3) and (4) and 87f–1 of this title.
+Subsec. (a)(11). Pub. L. 95–113, § 1604(j)(2), inserted references to sections 79(f)(3) and (4) and 87f–1 of this title.
 
-Subsec. (a)(12). Pub. L. 95–113, § 1604(j)(3), substituted “weighing equipment” for “testing equipment”.
+Subsec. (a)(12). Pub. L. 95–113, § 1604(j)(3), substituted “weighing equipment” for “testing equipment”.
 
-Subsec. (a)(13). Pub. L. 95–113, § 1604(j)(4), substituted “financial interest in grain” for “financial interest in the grain” and “loading of the grain” for “loading of grain”.
+Subsec. (a)(13). Pub. L. 95–113, § 1604(j)(4), substituted “financial interest in grain” for “financial interest in the grain” and “loading of the grain” for “loading of grain”.
 
-1976—Subsec. (a)(1). Pub. L. 94–582, § 15(a)(1), substituted “official mark” for “official inspection mark”.
+1976—Subsec. (a)(1). Pub. L. 94–582, § 15(a)(1), substituted “official mark” for “official inspection mark”.
 
-Subsec. (a)(2). Pub. L. 94–582, § 15(a)(2), substituted “official mark” for “official inspection mark” in three places, “official certificate” for “official inspection certificate” and “Administrator” for “Secretary”.
+Subsec. (a)(2). Pub. L. 94–582, § 15(a)(2), substituted “official mark” for “official inspection mark” in three places, “official certificate” for “official inspection certificate” and “Administrator” for “Secretary”.
 
-Subsec. (a)(3). Pub. L. 94–582, § 15(a)(2), prohibited deceptive weighing of grain or submitting grain for official weighing or supervision of weighing knowing it has been deceptively weighed without disclosure before official weighing or supervision of weighing.
+Subsec. (a)(3). Pub. L. 94–582, § 15(a)(2), prohibited deceptive weighing of grain or submitting grain for official weighing or supervision of weighing knowing it has been deceptively weighed without disclosure before official weighing or supervision of weighing.
 
-Subsec. (a)(5). Pub. L. 94–582, § 15(a)(3), substituted “official mark” for “official inspection mark” and inserted “or officially weighed, respectively,” after “such container”.
+Subsec. (a)(5). Pub. L. 94–582, § 15(a)(3), substituted “official mark” for “official inspection mark” and inserted “or officially weighed, respectively,” after “such container”.
 
-Subsecs. (a)(7), (8). Pub. L. 94–582, § 15(a)(4), inserted “or personnel of agencies delegated authority or of agencies or other persons designated under this chapter” after “personnel”.
+Subsecs. (a)(7), (8). Pub. L. 94–582, § 15(a)(4), inserted “or personnel of agencies delegated authority or of agencies or other persons designated under this chapter” after “personnel”.
 
-Subsec. (a)(9). Pub. L. 94–582, § 15(a)(5), inserted “or official weighing or supervision of weighing” after “official inspection”.
+Subsec. (a)(9). Pub. L. 94–582, § 15(a)(5), inserted “or official weighing or supervision of weighing” after “official inspection”.
 
-Subsec. (a)(10). Pub. L. 94–582, § 15(a)(5), (6), inserted “or official weighing or supervision of weighing” after “official inspection” and struck out “or” at end.
+Subsec. (a)(10). Pub. L. 94–582, § 15(a)(5), (6), inserted “or official weighing or supervision of weighing” after “official inspection” and struck out “or” at end.
 
-Subsec. (a)(11). Pub. L. 94–582, § 15(a)(5), inserted after “sections 77, 78,” references to “79(f)(2), 79a, 79b(c)”.
+Subsec. (a)(11). Pub. L. 94–582, § 15(a)(5), inserted after “sections 77, 78,” references to “79(f)(2), 79a, 79b(c)”.
 
-Subsecs. (a)(12), (13). Pub. L. 94–582, § 15(a)(6), added pars. (12) and (13).
+Subsecs. (a)(12), (13). Pub. L. 94–582, § 15(a)(6), added pars. (12) and (13).
 
-Subsec. (b)(2). Pub. L. 94–582, § 15(b), substituted “inspection or weighing function” for “inspection function”.
+Subsec. (b)(2). Pub. L. 94–582, § 15(b), substituted “inspection or weighing function” for “inspection function”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–641, title III, § 303(b), Nov. 10, 1986, 100 Stat. 3565, provided that: “The amendments made by this section [amending this section] shall become effective on May 1, 1987.”
+Pub. L. 99–641, title III, § 303(b), Nov. 10, 1986, 100 Stat. 3565, provided that: “The amendments made by this section [amending this section] shall become effective on May 1, 1987.”
 
 **Effective Date of 1977 Amendment**
 
@@ -1645,7 +1645,7 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
 
 Administrator of Federal Grain Inspection Service to estimate economic impact, including benefits and costs and distribution of such benefits and costs, of any major changes necessary to carry out amendments to this section by title XX of Pub. L. 101–624 prior to making such changes, see section 2003 of Pub. L. 101–624, set out as a note under section 76 of this title.
 
-## § 87c. Criminal penalties
+## § 87c. Criminal penalties
 
 **(a)** Any person who commits any offense prohibited by section 87b of this title (except an offense prohibited by paragraphs (a)(7), (a)(8), and (b)(4) in which case the person shall be subject to the general penal statutes in title 18 relating to crimes and offenses against the United States) shall be guilty of a felony and shall, on conviction thereof, be subject to imprisonment for not more than five years, or a fine of not more than $20,000, or both such imprisonment and fine.
 
@@ -1653,7 +1653,7 @@ Administrator of Federal Grain Inspection Service to estimate economic impact, i
 
 **(c)** Any officer or employee of the Department of Agriculture assigned to perform weighing functions under this chapter shall be considered as an employee of the Department of Agriculture assigned to perform inspection functions for the purposes of sections 1114 and 111 of Title 18.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 14, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 767; amended Pub. L. 94–582, § 17, Oct. 21, 1976, 90 Stat. 2884; Pub. L. 103–156, §§ 8, 12(m), Nov. 24, 1993, 107 Stat. 1527, 1529; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, § 14, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 767; amended Pub. L. 94–582, § 17, Oct. 21, 1976, 90 Stat. 2884; Pub. L. 103–156, §§ 8, 12(m), Nov. 24, 1993, 107 Stat. 1527, 1529; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 **Editorial Notes**
 
@@ -1661,11 +1661,11 @@ Administrator of Federal Grain Inspection Service to estimate economic impact, i
 
 1994—Subsec. (b). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Pub. L. 103–156, § 12(m), which directed amendment of “Section 14”, without specifying the name of the Act being amended, was executed to this section, which is section 14 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+1993—Pub. L. 103–156, § 12(m), which directed amendment of “Section 14”, without specifying the name of the Act being amended, was executed to this section, which is section 14 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a). Pub. L. 103–156, §§ 8, 12(m)(1), substituted “the person” for “he”, and struck out “shall be guilty of a misdemeanor and shall, on conviction thereof, be subject to imprisonment for not more than twelve months, or a fine of not more than $10,000, or both such imprisonment and fine; but, for each subsequent offense subject to this subsection, such person” before “shall be guilty of a felony”.
+Subsec. (a). Pub. L. 103–156, §§ 8, 12(m)(1), substituted “the person” for “he”, and struck out “shall be guilty of a misdemeanor and shall, on conviction thereof, be subject to imprisonment for not more than twelve months, or a fine of not more than $10,000, or both such imprisonment and fine; but, for each subsequent offense subject to this subsection, such person” before “shall be guilty of a felony”.
 
-Subsec. (b). Pub. L. 103–156, § 12(m)(2), substituted “the Administrator” for “he” in three places.
+Subsec. (b). Pub. L. 103–156, § 12(m)(2), substituted “the Administrator” for “he” in three places.
 
 1976—Subsec. (a). Pub. L. 94–582 inserted “(except an offense prohibited by paragraphs (a)(7), (a)(8), and (b)(4) in which case he shall be subject to the general penal statutes in Title 18 relating to crimes and offenses against the United States)”, increased the punishment for misdemeanors from six months to twelve months and the fine from $3,000 to $10,000, and denominated subsequent offenses as felonies, substituting “but, for each subsequent offense subject to this subsection, such person shall be guilty of a felony and shall, on conviction thereof, be subject to imprisonment for not more than five years, or a fine of not more than $20,000, or both such imprisonment and fine” for “but if such offense is committed after one conviction of such person under this section has become final, such person shall be subject to imprisonment for not more than one year, or a fine of not more than $5,000, or both such imprisonment and fine”.
 
@@ -1683,11 +1683,11 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 For effective date of section, see section 2 of Pub. L. 90–487, set out as an Effective Date of 1968 Amendment note under section 78 of this title.
 
-## § 87d. Responsibility for acts of others
+## § 87d. Responsibility for acts of others
 
 When construing and enforcing the provisions of this chapter, the act, omission, or failure of any official, agent, or other person acting for or employed by any association, partnership, or corporation within the scope of the employment or office of the official, agent, or other person shall, in every case, also be deemed the act, omission, or failure of such association, partnership, or corporation as well as that of the person.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 15, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 768; amended Pub. L. 103–156, § 12(n), Nov. 24, 1993, 107 Stat. 1529.)
+(Aug. 11, 1916, ch. 313, pt. B, § 15, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 768; amended Pub. L. 103–156, § 12(n), Nov. 24, 1993, 107 Stat. 1529.)
 
 **Editorial Notes**
 
@@ -1701,7 +1701,7 @@ When construing and enforcing the provisions of this chapter, the act, omission,
 
 For effective date of section, see section 2 of Pub. L. 90–487, set out as an Effective Date of 1968 Amendment note under section 78 of this title.
 
-## § 87e. General authorities
+## § 87e. General authorities
 
 **(a) Authority of Secretary**
 
@@ -1763,7 +1763,7 @@ Fees collected under subsections (g), (h), and (i) shall be deposited into the f
 
 The Secretary may extend appropriate courtesies to official representatives of foreign countries in order to establish and maintain relationships to carry out the policy stated in section 74 of this title. No gift offered or accepted pursuant to this subsection shall exceed $20 in value.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 16, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 768; amended Pub. L. 94–582, § 18, Oct. 21, 1976, 90 Stat. 2884; Pub. L. 95–113, title XVI, §§ 1604(k), 1606(i), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 102–237, title X, § 1007(2), Dec. 13, 1991, 105 Stat. 1897; Pub. L. 103–156, § 9, Nov. 24, 1993, 107 Stat. 1527; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, § 16, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 768; amended Pub. L. 94–582, § 18, Oct. 21, 1976, 90 Stat. 2884; Pub. L. 95–113, title XVI, §§ 1604(k), 1606(i), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 102–237, title X, § 1007(2), Dec. 13, 1991, 105 Stat. 1897; Pub. L. 103–156, § 9, Nov. 24, 1993, 107 Stat. 1527; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 **Editorial Notes**
 
@@ -1771,17 +1771,17 @@ The Secretary may extend appropriate courtesies to official representatives of f
 
 1994—Subsecs. (a) to (c), (e) to (i), (k). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Subsec. (b). Pub. L. 103–156, § 9(1), struck out at end “The Administrator shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate at the end of every three-month period with respect to investigative action taken on complaints, during the immediately preceding three-month period.”
+1993—Subsec. (b). Pub. L. 103–156, § 9(1), struck out at end “The Administrator shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate at the end of every three-month period with respect to investigative action taken on complaints, during the immediately preceding three-month period.”
 
-Subsecs. (g) to (k). Pub. L. 103–156, § 9(2), added subsecs. (g) to (k).
+Subsecs. (g) to (k). Pub. L. 103–156, § 9(2), added subsecs. (g) to (k).
 
 1991—Subsec. (a). Pub. L. 102–237 substituted “Administrator” for “Administrtor” at end of second sentence.
 
-1977—Subsec. (a). Pub. L. 95–113, § 1604(k)(1), rearranged existing provisions and inserted references to the installation of handling and weighing equipment and to warehouses and other grain storage or handling facilities.
+1977—Subsec. (a). Pub. L. 95–113, § 1604(k)(1), rearranged existing provisions and inserted references to the installation of handling and weighing equipment and to warehouses and other grain storage or handling facilities.
 
-Subsec. (b). Pub. L. 95–113, § 1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
+Subsec. (b). Pub. L. 95–113, § 1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
-Subsec. (f). Pub. L. 95–113, § 1604(k)(2), struck out “additional” before “inspection and weighing requirements”.
+Subsec. (f). Pub. L. 95–113, § 1604(k)(2), struck out “additional” before “inspection and weighing requirements”.
 
 1976—Subsec. (a). Pub. L. 94–582 substituted authorizations of “Administrator” for authorizations of “Secretary”, “official agency” for “official inspection agency”, and “other person” for “any person” respecting reporting requirement, required reports from State agencies delegated authority under this chapter and from licensees, inserted items (1) to (3) relating to conditions for official inspection, authorized issuance of instructions, and struck out reference to section 86 of this title, including proceedings for refusal of official inspection service not required by section 77 of this title, as not being subject to administrative procedure provisions.
 
@@ -1805,11 +1805,11 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
 
 Powers, duties, and authorizations of the Administrator of the Federal Grain Inspection Service to be exercised by the Secretary of Agriculture pending the appointment of the Administrator, see section 25 of Pub. L. 94–582, set out as a note under section 75a of this title.
 
-## § 87e–1. Repealed. Pub. L. 106–472, title I, § 110(b), Nov. 9, 2000, 114 Stat. 2061
+## § 87e–1. Repealed. Pub. L. 106–472, title I, § 110(b), Nov. 9, 2000, 114 Stat. 2061
 
-Section, Pub. L. 94–582, § 23, Oct. 21, 1976, 90 Stat. 2888, authorized purchase or lease of inspection equipment.
+Section, Pub. L. 94–582, § 23, Oct. 21, 1976, 90 Stat. 2888, authorized purchase or lease of inspection equipment.
 
-## § 87f. Enforcement provisions
+## § 87f. Enforcement provisions
 
 **(a) Subpena power**
 
@@ -1831,15 +1831,15 @@ Witnesses summoned before the Secretary shall be paid the same fees and mileage 
 
 Any person who shall neglect or refuse to attend and testify, or to answer any lawful inquiry, or to produce documentary evidence, if in the power of the person to do so, in obedience to the subpena or lawful requirement of the Secretary, shall be guilty of a misdemeanor, and upon conviction thereof be subject to imprisonment for not more than 1 year or a fine of not more than $10,000 or both the imprisonment and fine.
 
-**(f) Repealed. Pub. L. 91–452, title II, § 203, Oct. 15, 1970, 84 Stat. 928**
+**(f) Repealed. Pub. L. 91–452, title II, § 203, Oct. 15, 1970, 84 Stat. 928**
 
-**(g) Repealed. Pub. L. 94–582, § 19(d), Oct. 21, 1976, 90 Stat. 2886**
+**(g) Repealed. Pub. L. 94–582, § 19(d), Oct. 21, 1976, 90 Stat. 2886**
 
 **(h) District court jurisdiction**
 
 The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories and possessions of the United States shall have jurisdiction in cases arising under this chapter.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 17, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 768; amended Pub. L. 91–452, title II, § 203, Oct. 15, 1970, 84 Stat. 928; Pub. L. 94–582, § 19, Oct. 21, 1976, 90 Stat. 2885; Pub. L. 103–156, §§ 10, 12(*o*), Nov. 24, 1993, 107 Stat. 1528, 1529; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, § 17, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 768; amended Pub. L. 91–452, title II, § 203, Oct. 15, 1970, 84 Stat. 928; Pub. L. 94–582, § 19, Oct. 21, 1976, 90 Stat. 2885; Pub. L. 103–156, §§ 10, 12(*o*), Nov. 24, 1993, 107 Stat. 1528, 1529; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 **Editorial Notes**
 
@@ -1847,17 +1847,17 @@ The United States district courts, the District Court of Guam, the District Cour
 
 1994—Subsecs. (a) to (e). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Subsec. (e). Pub. L. 103–156, § 12(*o*), which directed amendment of “Section 17(e)” by substituting “the power of the person” for “his power”, without specifying the name of the Act being amended, was executed to this section, which is section 17 of the United States Grain Standards Act, to reflect the probable intent of Congress.
+1993—Subsec. (e). Pub. L. 103–156, § 12(*o*), which directed amendment of “Section 17(e)” by substituting “the power of the person” for “his power”, without specifying the name of the Act being amended, was executed to this section, which is section 17 of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Pub. L. 103–156, § 10, substituted “imprisonment for not more than 1 year or a fine of not more than $10,000 or both the imprisonment and fine” for “the penalties set forth in subsection (a) of section 87c of this title”.
+Pub. L. 103–156, § 10, substituted “imprisonment for not more than 1 year or a fine of not more than $10,000 or both the imprisonment and fine” for “the penalties set forth in subsection (a) of section 87c of this title”.
 
-1976—Subsec. (a). Pub. L. 94–582, § 19(a), (b), substituted “Administrator” for “Secretary” in two places and inserted “by the Administrator” after “under investigation”, respectively.
+1976—Subsec. (a). Pub. L. 94–582, § 19(a), (b), substituted “Administrator” for “Secretary” in two places and inserted “by the Administrator” after “under investigation”, respectively.
 
-Subsecs. (b) to (d). Pub. L. 94–582, § 19(a), substituted “Administrator” for “Secretary” in subsecs. (b) to (d).
+Subsecs. (b) to (d). Pub. L. 94–582, § 19(a), substituted “Administrator” for “Secretary” in subsecs. (b) to (d).
 
-Subsec. (e). Pub. L. 94–582, § 19(a), (c), substituted “Administrator” for “Secretary” and inserted “subsection (a) of” before “section 87c of this title”.
+Subsec. (e). Pub. L. 94–582, § 19(a), (c), substituted “Administrator” for “Secretary” and inserted “subsection (a) of” before “section 87c of this title”.
 
-Subsec. (g). Pub. L. 94–582, § 19(d), struck out subsec. (g) which made unlawful disclosure of information by an officer or employee of the Department of Agriculture a misdemeanor, subject to the penalties set forth in section 87c of this title.
+Subsec. (g). Pub. L. 94–582, § 19(d), struck out subsec. (g) which made unlawful disclosure of information by an officer or employee of the Department of Agriculture a misdemeanor, subject to the penalties set forth in section 87c of this title.
 
 1970—Subsec. (f). Pub. L. 91–452 struck out subsec. (f) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after having claimed his privilege against self-incrimination.
 
@@ -1875,7 +1875,7 @@ For effective date of amendment by Pub. L. 91–452, and amendment not to affect
 
 For effective date of section, see section 2 of Pub. L. 90–487, set out as an Effective Date of 1968 Amendment note under section 78 of this title.
 
-## § 87f–1. Registration requirements
+## § 87f–1. Registration requirements
 
 **(a) General requirement** The Secretary shall provide, by regulation, for the registration of all persons engaged in the business of buying grain for sale in foreign commerce, and in the business of handling, weighing, or transporting of grain for sale in foreign commerce. This section shall not apply to—
 
@@ -1925,7 +1925,7 @@ The Secretary may suspend or revoke any certificate of registration issued under
 
 The Secretary shall charge and collect fees from any person registered under this section. The amount of such fees shall be determined on the basis of the costs of the Secretary in administering the registration required by this section. Such fees shall be deposited in, and used as part of, the fund described in section 79(j) of this title.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 17A, as added Pub. L. 94–582, § 22, Oct. 21, 1976, 90 Stat. 2886; amended Pub. L. 95–113, title XVI, § 1604(*l*), Sept. 29, 1977, 91 Stat. 1029; Pub. L. 103–156, § 12(p), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, § 17A, as added Pub. L. 94–582, § 22, Oct. 21, 1976, 90 Stat. 2886; amended Pub. L. 95–113, title XVI, § 1604(*l*), Sept. 29, 1977, 91 Stat. 1029; Pub. L. 103–156, § 12(p), Nov. 24, 1993, 107 Stat. 1529; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237.)
 
 **Editorial Notes**
 
@@ -1933,11 +1933,11 @@ The Secretary shall charge and collect fees from any person registered under thi
 
 1994—Subsecs. (a), (b)(1), (c) to (e). Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing.
 
-1993—Pub. L. 103–156, § 12(p), which directed amendment of “Section 17A”, without specifying the name of the Act being amended, was executed to this section, which is section 17A of the United States Grain Standards Act, to reflect the probable intent of Congress.
+1993—Pub. L. 103–156, § 12(p), which directed amendment of “Section 17A”, without specifying the name of the Act being amended, was executed to this section, which is section 17A of the United States Grain Standards Act, to reflect the probable intent of Congress.
 
-Subsec. (a)(2). Pub. L. 103–156, § 12(p)(1), substituted “the producer” for “he”.
+Subsec. (a)(2). Pub. L. 103–156, § 12(p)(1), substituted “the producer” for “he”.
 
-Subsec. (c). Pub. L. 103–156, § 12(p)(2), substituted “the person” for “he” in last sentence.
+Subsec. (c). Pub. L. 103–156, § 12(p)(2), substituted “the person” for “he” in last sentence.
 
 1977—Subsec. (b)(1). Pub. L. 95–113 substituted “All persons required to register” for “All persons registered” in provisions preceding subpar. (A).
 
@@ -1951,7 +1951,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under section 74 of this title.
 
-## § 87f–2. Reporting requirements
+## § 87f–2. Reporting requirements
 
 **(a) General requirements; annual report to Congressional committees**
 
@@ -1959,13 +1959,13 @@ On December 1 of each year, the Secretary shall submit a report to the Committee
 
 **(b) Notification of Congressional committees of complaints regarding faulty grain deliveries and cancellation of export contracts**
 
-The Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate (1) of any complaint regarding faulty grain delivery made to the Department of Agriculture by a foreign purchaser of United States grain, within thirty days after a determination by the Secretary that there is reasonable cause to believe that the grain delivery was in fact faulty, and (2) notwithstanding the provisions of section 612c–3 1
+The Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate (1) of any complaint regarding faulty grain delivery made to the Department of Agriculture by a foreign purchaser of United States grain, within thirty days after a determination by the Secretary that there is reasonable cause to believe that the grain delivery was in fact faulty, and (2) notwithstanding the provisions of section 612c–3 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title, within thirty days after receipt by the Secretary or the Secretary 2
+of this title, within thirty days after receipt by the Secretary or the Secretary 2
 
-<sup>2</sup>  So in original. The words “or the Secretary” probably should not appear.
+<sup>2</sup> So in original. The words “or the Secretary” probably should not appear.
 
 of notice of the cancellation of any contract for the export of more than one hundred thousand metric tons of grain.
 
@@ -2007,13 +2007,13 @@ Beginning not later than 1 year after December 11, 2020, the Secretary shall pub
 
 Any trade secrets or information described in section 552(b)(4) of title 5 that is provided to or collected by the Secretary in carrying out subsection (d) or (e) shall not be included in a report under subsection (d) or (e) or otherwise publicly disclosed.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 17B, as added Pub. L. 94–582, § 22, Oct. 21, 1976, 90 Stat. 2888; amended Pub. L. 95–113, title XVI, §§ 1604(m), 1606(i), (j), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 102–237, title X, § 1007(3), Dec. 13, 1991, 105 Stat. 1897; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 116–216, § 5, Dec. 11, 2020, 134 Stat. 1048.)
+(Aug. 11, 1916, ch. 313, pt. B, § 17B, as added Pub. L. 94–582, § 22, Oct. 21, 1976, 90 Stat. 2888; amended Pub. L. 95–113, title XVI, §§ 1604(m), 1606(i), (j), Sept. 29, 1977, 91 Stat. 1029, 1030; Pub. L. 102–237, title X, § 1007(3), Dec. 13, 1991, 105 Stat. 1897; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 116–216, § 5, Dec. 11, 2020, 134 Stat. 1048.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 612c–3 of this title, referred to in subsec. (b), was repealed by Pub. L. 101–624, title XV, § 1578, Nov. 28, 1990, 104 Stat. 3702.
+Section 612c–3 of this title, referred to in subsec. (b), was repealed by Pub. L. 101–624, title XV, § 1578, Nov. 28, 1990, 104 Stat. 3702.
 
 **Amendments**
 
@@ -2023,11 +2023,11 @@ Section 612c–3 of this title, referred to in subsec. (b), was repealed by Pub.
 
 1991—Subsec. (a). Pub. L. 102–237 substituted “On December 1 of each year, the” for “The” and “Committee on Agriculture” for “committee on Agriculture” before “of the House” and struck out “one year after the effective date of the United States Grain Standards Act of 1976 setting forth the actions taken by him in implementing the provisions of that Act; and, on December 1 of each year thereafter, the Administrator shall report to such committees” before “regarding”.
 
-1977—Subsec. (a). Pub. L. 95–113, § 1606(i), (j), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry” and “inspection and weighing” for “inspection”.
+1977—Subsec. (a). Pub. L. 95–113, § 1606(i), (j), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry” and “inspection and weighing” for “inspection”.
 
-Subsec. (b). Pub. L. 95–113, §§ 1604(m), 1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry” in provisions preceding cl. (1) and, in cl. (2) substituted “notwithstanding the provisions of section 612c–3 of this title, within thirty days after receipt by the Administrator or the Secretary of notice of the cancellation” for “within thirty days after receipt by the Administrator or the Secretary of the cancellation”.
+Subsec. (b). Pub. L. 95–113, §§ 1604(m), 1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry” in provisions preceding cl. (1) and, in cl. (2) substituted “notwithstanding the provisions of section 612c–3 of this title, within thirty days after receipt by the Administrator or the Secretary of notice of the cancellation” for “within thirty days after receipt by the Administrator or the Secretary of the cancellation”.
 
-Subsec. (c). Pub. L. 95–113, § 1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
+Subsec. (c). Pub. L. 95–113, § 1606(i), substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2039,13 +2039,13 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Section effective 30 days after Oct. 21, 1976, see section 27 of Pub. L. 94–582, as amended, set out as an Effective Date of 1976 Amendment note under section 74 of this title.
 
-## § 87g. Relation to State and local laws; separability
+## § 87g. Relation to State and local laws; separability
 
 **(a)** No State or subdivision thereof may require the inspection or description in accordance with any standards of kind, class, quality, condition, or other characteristics of grain as a condition of shipment, or sale, of such grain in interstate or foreign commerce, or require any license for, or impose any other restrictions upon the performance of any official inspection or weighing function under this chapter by official inspection personnel. Otherwise nothing in this chapter shall invalidate any law or other provision of any State or subdivision thereof in the absence of a conflict with this chapter.
 
 **(b)** If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the chapter and of the application of such provision to other persons and circumstances shall not be affected thereby.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 18, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 769; amended Pub. L. 94–582, § 20, Oct. 21, 1976, 90 Stat. 2886.)
+(Aug. 11, 1916, ch. 313, pt. B, § 18, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 769; amended Pub. L. 94–582, § 20, Oct. 21, 1976, 90 Stat. 2886.)
 
 **Editorial Notes**
 
@@ -2063,13 +2063,13 @@ Amendment by Pub. L. 94–582 effective 30 days after Oct. 21, 1976, see section
 
 For effective date of section, see section 2 of Pub. L. 90–487, set out as an Effective Date of 1968 Amendment note under section 78 of this title.
 
-## § 87h. Funding
+## § 87h. Funding
 
 **(a) Authorization of appropriations**
 
 There are authorized to be appropriated $23,000,000 for standardization and compliance activities, monitoring in foreign ports grain officially inspected and weighed under this chapter, and any other expenses necessary to carry out the provisions of this chapter for each of the fiscal years 2021 through 2025,1
 
-<sup>1</sup>  See Application of Section note below.
+<sup>1</sup> See Application of Section note below.
 
 to the extent that financing is not obtained from fees and sales of samples as provided for in sections 79, 79a, 79b, 87e, and 87f–1 of this title.
 
@@ -2099,17 +2099,17 @@ The term “user fee” means a fee collected by the Secretary under section 79,
 
 **(ii)** any other activity that is not directly related to the performance of official inspection or weighing services.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 19, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 769; amended Pub. L. 94–582, § 21, Oct. 21, 1976, 90 Stat. 2886; Pub. L. 95–113, title XVI, §§ 1602(c), 1604(n), Sept. 29, 1977, 91 Stat. 1025, 1029; Pub. L. 97–35, title I, § 155(4), Aug. 13, 1981, 95 Stat. 372; Pub. L. 98–469, § 2(3), Oct. 11, 1984, 98 Stat. 1832; Pub. L. 100–518, § 2(4), Oct. 24, 1988, 102 Stat. 2586; Pub. L. 103–156, § 3, Nov. 24, 1993, 107 Stat. 1525; Pub. L. 106–472, title I, § 108, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, § 1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, § 301(f), Sept. 30, 2015, 129 Stat. 520; Pub. L. 116–216, § 6, Dec. 11, 2020, 134 Stat. 1049.)
+(Aug. 11, 1916, ch. 313, pt. B, § 19, as added Pub. L. 90–487, § 1, Aug. 15, 1968, 82 Stat. 769; amended Pub. L. 94–582, § 21, Oct. 21, 1976, 90 Stat. 2886; Pub. L. 95–113, title XVI, §§ 1602(c), 1604(n), Sept. 29, 1977, 91 Stat. 1025, 1029; Pub. L. 97–35, title I, § 155(4), Aug. 13, 1981, 95 Stat. 372; Pub. L. 98–469, § 2(3), Oct. 11, 1984, 98 Stat. 1832; Pub. L. 100–518, § 2(4), Oct. 24, 1988, 102 Stat. 2586; Pub. L. 103–156, § 3, Nov. 24, 1993, 107 Stat. 1525; Pub. L. 106–472, title I, § 108, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, § 1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, § 301(f), Sept. 30, 2015, 129 Stat. 520; Pub. L. 116–216, § 6, Dec. 11, 2020, 134 Stat. 1049.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Pub. L. 116–216, § 6(1), substituted “Funding” for “Appropriations” in section catchline.
+2020—Pub. L. 116–216, § 6(1), substituted “Funding” for “Appropriations” in section catchline.
 
-Subsec. (a). Pub. L. 116–216, § 6(1), (2), designated existing provisions as subsec. (a), inserted heading, and substituted “There are authorized” for “There are hereby authorized”, “$23,000,000” for “such sums as are necessary”, and “2021 through 2025” for “1988 through 2020”.
+Subsec. (a). Pub. L. 116–216, § 6(1), (2), designated existing provisions as subsec. (a), inserted heading, and substituted “There are authorized” for “There are hereby authorized”, “$23,000,000” for “such sums as are necessary”, and “2021 through 2025” for “1988 through 2020”.
 
-Subsec. (b). Pub. L. 116–216, § 6(3), added subsec. (b).
+Subsec. (b). Pub. L. 116–216, § 6(3), added subsec. (b).
 
 2015—Pub. L. 114–54 substituted “2020” for “2015”.
 
@@ -2141,15 +2141,15 @@ Amendment by Pub. L. 103–156 effective as of Sept. 30, 1993, see section 16(b)
 
 **Effective and Termination Dates of 1988 Amendment**
 
-That part of section 2 of Pub. L. 100–518 which provided that amendment made by Pub. L. 100–518 was effective for the period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed, effective Sept. 30, 1993, by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530.
+That part of section 2 of Pub. L. 100–518 which provided that amendment made by Pub. L. 100–518 was effective for the period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed, effective Sept. 30, 1993, by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530.
 
 **Effective and Termination Dates of 1984 Amendment**
 
-Pub. L. 98–469, § 2, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 98–469 is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
+Pub. L. 98–469, § 2, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 98–469 is effective for period beginning Oct. 11, 1984, and ending Sept. 30, 1988.
 
 **Effective and Termination Dates of 1981 Amendment**
 
-Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
+Pub. L. 97–35, title I, § 155, Aug. 13, 1981, 95 Stat. 371, as amended by Pub. L. 98–469, § 1, Oct. 11, 1984, 98 Stat. 1831, provided that the amendment made by Pub. L. 97–35 is effective for period beginning Oct. 1, 1981, and ending Sept. 30, 1988.
 
 **Effective Date of 1977 Amendment**
 
@@ -2167,15 +2167,15 @@ For effective date of section, see section 2 of Pub. L. 90–487, set out as an 
 
 Subsec. (a) of this section to be applied by substituting “2026” for “2025”, see section 5001(b) of Pub. L. 119–37, set out as a note under section 79d of this title.
 
-## § 87i. Omitted
+## § 87i. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Aug. 11, 1916, ch. 313, pt. B, § 20, as added Aug. 13, 1981, Pub. L. 97–35, title I, § 155(5), 95 Stat. 372, which established an advisory committee, was effective for the period Oct. 1, 1981, through Sept. 30, 1988, pursuant to section 155 of Pub. L. 97–35, as amended. See section 87j of this title.
+Section, act Aug. 11, 1916, ch. 313, pt. B, § 20, as added Aug. 13, 1981, Pub. L. 97–35, title I, § 155(5), 95 Stat. 372, which established an advisory committee, was effective for the period Oct. 1, 1981, through Sept. 30, 1988, pursuant to section 155 of Pub. L. 97–35, as amended. See section 87j of this title.
 
-## § 87j. Advisory committee
+## § 87j. Advisory committee
 
 **(a) Establishment; number and terms of members**
 
@@ -2197,9 +2197,9 @@ Members of the advisory committee shall serve without compensation, if not other
 
 The authority provided to the Secretary for the establishment and maintenance of an advisory committee under this section shall expire on September 30, 2025.1
 
-<sup>1</sup>  See United States Grain Standards Act Extension note below.
+<sup>1</sup> See United States Grain Standards Act Extension note below.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 21, as added Pub. L. 100–518, § 2(5), Oct. 24, 1988, 102 Stat. 2586; amended Pub. L. 103–156, §§ 13(b)(1), 14(c), Nov. 24, 1993, 107 Stat. 1529, 1530; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 109, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, § 1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, § 301(g), Sept. 30, 2015, 129 Stat. 520; Pub. L. 116–216, § 7, Dec. 11, 2020, 134 Stat. 1050; Pub. L. 117–286, § 4(a)(20), Dec. 27, 2022, 136 Stat. 4307.)
+(Aug. 11, 1916, ch. 313, pt. B, § 21, as added Pub. L. 100–518, § 2(5), Oct. 24, 1988, 102 Stat. 2586; amended Pub. L. 103–156, §§ 13(b)(1), 14(c), Nov. 24, 1993, 107 Stat. 1529, 1530; Pub. L. 103–354, title II, § 293(a)(7), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, § 109, Nov. 9, 2000, 114 Stat. 2060; Pub. L. 109–83, § 1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, § 301(g), Sept. 30, 2015, 129 Stat. 520; Pub. L. 116–216, § 7, Dec. 11, 2020, 134 Stat. 1050; Pub. L. 117–286, § 4(a)(20), Dec. 27, 2022, 136 Stat. 4307.)
 
 **Editorial Notes**
 
@@ -2211,9 +2211,9 @@ The enactment of this section, referred to in subsec. (a), means Oct. 24, 1988, 
 
 2022—Subsec. (b). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
 
-2020—Subsec. (a). Pub. L. 116–216, § 7(1), in last sentence, substituted “successively for more than 2 terms” for “successive terms”.
+2020—Subsec. (a). Pub. L. 116–216, § 7(1), in last sentence, substituted “successively for more than 2 terms” for “successive terms”.
 
-Subsec. (e). Pub. L. 116–216, § 7(2), substituted “2025” for “2020”.
+Subsec. (e). Pub. L. 116–216, § 7(2), substituted “2025” for “2020”.
 
 2015—Subsec. (e). Pub. L. 114–54 substituted “2020” for “2015”.
 
@@ -2223,9 +2223,9 @@ Subsec. (e). Pub. L. 116–216, § 7(2), substituted “2025” for “2020”
 
 1994—Subsecs. (a), (c). Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
-1993—Subsec. (a). Pub. L. 103–156, § 13(b)(1), struck out “(1)” before “Not later than” and struck out par. (2) which read as follows: “To ensure a smooth transition, the advisory committee established under section 87i of this title (as in effect prior to October 1, 1988) shall continue in existence until all members of the advisory committee established under this section are appointed; and the Secretary may appoint members of the advisory committee established under section 87i of this title to serve on the advisory committee established under this section, without regard to the time of service of such members on the advisory committee established under section 87i of this title.”
+1993—Subsec. (a). Pub. L. 103–156, § 13(b)(1), struck out “(1)” before “Not later than” and struck out par. (2) which read as follows: “To ensure a smooth transition, the advisory committee established under section 87i of this title (as in effect prior to October 1, 1988) shall continue in existence until all members of the advisory committee established under this section are appointed; and the Secretary may appoint members of the advisory committee established under section 87i of this title to serve on the advisory committee established under this section, without regard to the time of service of such members on the advisory committee established under section 87i of this title.”
 
-Subsec. (e). Pub. L. 103–156, § 14(c), added subsec. (e).
+Subsec. (e). Pub. L. 103–156, § 14(c), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2235,13 +2235,13 @@ Amendment by Pub. L. 106–472 effective as if enacted Sept. 30, 2000, see secti
 
 **Effective and Termination Dates**
 
-That part of section 2 of Pub. L. 100–518 which provided that section was effective for period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed, effective Sept. 30, 1993, by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530.
+That part of section 2 of Pub. L. 100–518 which provided that section was effective for period Oct. 1, 1988, through Sept. 30, 1993, inclusive, was repealed, effective Sept. 30, 1993, by Pub. L. 103–156, §§ 13(a), 16(b), Nov. 24, 1993, 107 Stat. 1529, 1530.
 
 **United States Grain Standards Act Extension**
 
 Subsec. (e) of this section to be applied by substituting “September 30, 2026” for “September 30, 2025”, see section 5001 of div. I of Pub. L. 119–75, set out as a note under section 79 of this title.
 
-## § 87k. Standardizing commercial inspections
+## § 87k. Standardizing commercial inspections
 
 **(a) Testing equipment** To promote greater uniformity in commercial grain inspection results, the Secretary may work in conjunction with the National Institute for Standards and Technology, the National Conference on Weights and Measures, or other appropriate governmental, scientific, or technical organizations to—
 
@@ -2269,7 +2269,7 @@ To encourage the use of equipment and procedures developed in accordance with su
 
 that may be used by processors, refiners, operators of grain elevators and terminals, and others to accurately detect the level of aflatoxin contamination of corn in the United States.
 
-(Aug. 11, 1916, ch. 313, pt. B, § 22, as added Pub. L. 101–624, title XX, § 2009, Nov. 28, 1990, 104 Stat. 3931; amended Pub. L. 103–156, §§ 11, 13(b)(2), Nov. 24, 1993, 107 Stat. 1528, 1529; Pub. L. 103–354, title II, § 293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237.)
+(Aug. 11, 1916, ch. 313, pt. B, § 22, as added Pub. L. 101–624, title XX, § 2009, Nov. 28, 1990, 104 Stat. 3931; amended Pub. L. 103–156, §§ 11, 13(b)(2), Nov. 24, 1993, 107 Stat. 1528, 1529; Pub. L. 103–354, title II, § 293(a)(7), (8), Oct. 13, 1994, 108 Stat. 3237.)
 
 **Editorial Notes**
 
@@ -2281,6 +2281,6 @@ This chapter, referred to in subsec. (c), was in the original “this Act” and
 
 1994—Pub. L. 103–354 substituted “Secretary” for “Administrator” wherever appearing and “Secretary” for “Service” in subsec. (c).
 
-1993—Subsec. (a). Pub. L. 103–156, § 11, substituted “, the National Conference on Weights and Measures, or other appropriate governmental, scientific, or technical organizations” for “and the National Conference on Weights and Measures” in introductory provisions.
+1993—Subsec. (a). Pub. L. 103–156, § 11, substituted “, the National Conference on Weights and Measures, or other appropriate governmental, scientific, or technical organizations” for “and the National Conference on Weights and Measures” in introductory provisions.
 
-Subsec. (c). Pub. L. 103–156, § 13(b)(2), substituted “subsections (a) and (b)” for “subsection (a) and (b)”.
+Subsec. (c). Pub. L. 103–156, § 13(b)(2), substituted “subsections (a) and (b)” for “subsection (a) and (b)”.

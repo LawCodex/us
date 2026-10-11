@@ -19,33 +19,33 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2020—Pub. L. 116–260, div. Q, title II, § 211(b), Dec. 27, 2020, 134 Stat. 2176, added item 2319C.
+2020—Pub. L. 116–260, div. Q, title II, § 211(b), Dec. 27, 2020, 134 Stat. 2176, added item 2319C.
 
-2008—Pub. L. 110–403, title II, § 206(b), Oct. 13, 2008, 122 Stat. 4263, added item 2323.
+2008—Pub. L. 110–403, title II, § 206(b), Oct. 13, 2008, 122 Stat. 4263, added item 2323.
 
-2005—Pub. L. 109–9, title I, § 102(b), Apr. 27, 2005, 119 Stat. 220, added item 2319B.
+2005—Pub. L. 109–9, title I, § 102(b), Apr. 27, 2005, 119 Stat. 220, added item 2319B.
 
-2004—Pub. L. 108–482, title I, § 102(c), Dec. 23, 2004, 118 Stat. 3915, substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” in item 2318.
+2004—Pub. L. 108–482, title I, § 102(c), Dec. 23, 2004, 118 Stat. 3915, substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” in item 2318.
 
-1996—Pub. L. 104–153, § 4(b)(2), July 2, 1996, 110 Stat. 1387, substituted “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in item 2318.
+1996—Pub. L. 104–153, § 4(b)(2), July 2, 1996, 110 Stat. 1387, substituted “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in item 2318.
 
-1994—Pub. L. 103–465, title V, § 513(b), Dec. 8, 1994, 108 Stat. 4976, added item 2319A.
+1994—Pub. L. 103–465, title V, § 513(b), Dec. 8, 1994, 108 Stat. 4976, added item 2319A.
 
-1992—Pub. L. 102–519, title I, § 105(b), Oct. 25, 1992, 106 Stat. 3386, added item 2322.
+1992—Pub. L. 102–519, title I, § 105(b), Oct. 25, 1992, 106 Stat. 3386, added item 2322.
 
-1986—Pub. L. 99–646, § 42(b), Nov. 10, 1986, 100 Stat. 3601, renumbered item 2320 relating to trafficking in certain motor vehicles or motor vehicle parts as item 2321.
+1986—Pub. L. 99–646, § 42(b), Nov. 10, 1986, 100 Stat. 3601, renumbered item 2320 relating to trafficking in certain motor vehicles or motor vehicle parts as item 2321.
 
-1984—Pub. L. 98–547, title II, § 204(b), Oct. 25, 1984, 98 Stat. 2770, added item 2320 relating to trafficking in certain motor vehicles or motor vehicle parts.
+1984—Pub. L. 98–547, title II, § 204(b), Oct. 25, 1984, 98 Stat. 2770, added item 2320 relating to trafficking in certain motor vehicles or motor vehicle parts.
 
-Pub. L. 98–473, title II, §§ 1115, 1502(b), Oct. 12, 1984, 98 Stat. 2149, 2179, substituted “livestock” for “cattle” in items 2316 and 2317 and added item 2320 relating to trafficking in counterfeit goods or services.
+Pub. L. 98–473, title II, §§ 1115, 1502(b), Oct. 12, 1984, 98 Stat. 2149, 2179, substituted “livestock” for “cattle” in items 2316 and 2317 and added item 2320 relating to trafficking in counterfeit goods or services.
 
-1982—Pub. L. 97–180, § 4, May 24, 1982, 96 Stat. 92, substituted “Trafficking in counterfeit labels for phono­records and copies of motion pictures or other audiovisual works” for “Transportation, sale, or receipt of phonograph records bearing forged or counterfeit labels” in item 2318 and added item 2319.
+1982—Pub. L. 97–180, § 4, May 24, 1982, 96 Stat. 92, substituted “Trafficking in counterfeit labels for phono­records and copies of motion pictures or other audiovisual works” for “Transportation, sale, or receipt of phonograph records bearing forged or counterfeit labels” in item 2318 and added item 2319.
 
-1962—Pub. L. 87–773, § 2, Oct. 9, 1962, 76 Stat. 775, added item 2318.
+1962—Pub. L. 87–773, § 2, Oct. 9, 1962, 76 Stat. 775, added item 2318.
 
-1961—Pub. L. 87–371, § 4, Oct. 4, 1961, 75 Stat. 802, inserted “fraudulent State tax stamps,” in item 2314, and substituted “moneys, or fraudulent State tax stamps” for “or monies” in item 2315.
+1961—Pub. L. 87–371, § 4, Oct. 4, 1961, 75 Stat. 802, inserted “fraudulent State tax stamps,” in item 2314, and substituted “moneys, or fraudulent State tax stamps” for “or monies” in item 2315.
 
-## § 2311. Definitions
+## § 2311. Definitions
 
 As used in this chapter:
 
@@ -67,11 +67,11 @@ As used in this chapter:
 
 “Vessel” means any watercraft or other contrivance used or designed for transportation or navigation on, under, or immediately above, water.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, § 1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, § 202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, § 320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, § 604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, § 4002(b)(8), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–177, title III, § 307(b)(1), Mar. 9, 2006, 120 Stat. 240.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, § 1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, § 202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, § 320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, § 604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, § 4002(b)(8), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 109–177, title III, § 307(b)(1), Mar. 9, 2006, 120 Stat. 240.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 408, 414(b), (c), 417, 419a(a) (Oct. 29, 1919, ch. 89, § 2(a), 41 Stat. 324; May 22, 1934, ch. 333, §§ 2(b), (c), 5, 48 Stat. 794, 795; Aug. 3, 1939, ch. 413, § 3, 53 Stat. 1178; Aug. 18, 1941, ch. 366, § 2(a), 55 Stat. 631; Sept. 24, 1945, ch. 383, § 1, 59 Stat. 536).
+Based on title 18, U.S.C., 1940 ed., §§ 408, 414(b), (c), 417, 419a(a) (Oct. 29, 1919, ch. 89, § 2(a), 41 Stat. 324; May 22, 1934, ch. 333, §§ 2(b), (c), 5, 48 Stat. 794, 795; Aug. 3, 1939, ch. 413, § 3, 53 Stat. 1178; Aug. 18, 1941, ch. 366, § 2(a), 55 Stat. 631; Sept. 24, 1945, ch. 383, § 1, 59 Stat. 536).
 
 The definitive provisions in each of said sections were separated therefrom and consolidated into this one section defining terms used in this chapter.
 
@@ -109,33 +109,33 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–482, title I, § 101, Dec. 23, 2004, 118 Stat. 3912, provided that: “This title [amending section 2318 of this title and enacting provisions set out as a note under section 2318 of this title] may be cited as the ‘Anti-counterfeiting Amendments Act of 2004’.”
+Pub. L. 108–482, title I, § 101, Dec. 23, 2004, 118 Stat. 3912, provided that: “This title [amending section 2318 of this title and enacting provisions set out as a note under section 2318 of this title] may be cited as the ‘Anti-counterfeiting Amendments Act of 2004’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–147, § 1, Dec. 16, 1997, 111 Stat. 2678, provided that: “This Act [amending sections 2319 to 2320 of this title, sections 101, 506, and 507 of Title 17, Copyrights, and section 1498 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 994 of Title 28] may be cited as the ‘No Electronic Theft (NET) Act’.”
+Pub. L. 105–147, § 1, Dec. 16, 1997, 111 Stat. 2678, provided that: “This Act [amending sections 2319 to 2320 of this title, sections 101, 506, and 507 of Title 17, Copyrights, and section 1498 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under section 994 of Title 28] may be cited as the ‘No Electronic Theft (NET) Act’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–153, § 1, July 2, 1996, 110 Stat. 1386, provided that: “This Act [amending sections 1961, 2318, and 2320 of this title, sections 1116 and 1117 of Title 15, Commerce and Trade, section 603 of Title 17, Copyrights, sections 1431, 1484, and 1526 of Title 19, Customs Duties, and section 80302 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of Title 19] may be cited as the ‘Anticounterfeiting Consumer Protection Act of 1996’.”
+Pub. L. 104–153, § 1, July 2, 1996, 110 Stat. 1386, provided that: “This Act [amending sections 1961, 2318, and 2320 of this title, sections 1116 and 1117 of Title 15, Commerce and Trade, section 603 of Title 17, Copyrights, sections 1431, 1484, and 1526 of Title 19, Customs Duties, and section 80302 of Title 49, Transportation, and enacting provisions set out as notes under this section and section 1431 of Title 19] may be cited as the ‘Anticounterfeiting Consumer Protection Act of 1996’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–519, § 1, Oct. 25, 1992, 106 Stat. 3384, provided that: “This Act [enacting sections 2119 and 2322 of this title, sections 2026a to 2026c and 2041 to 2044 of Title 15, Commerce and Trade, sections 1646b and 1646c of Title 19, Customs Duties, and sections 3750a to 3750d of Title 42, The Public Health and Welfare, amending sections 553, 981, 982, 2312, and 2313 of this title, sections 2021 to 2023, 2025, 2027, and 2034 of Title 15, and enacting provisions set out as notes under section 2119 of this title, sections 2026a, 2026b, and 2041 of Title 15, and section 1646b of Title 19] may be cited as the ‘Anti Car Theft Act of 1992’.”
+Pub. L. 102–519, § 1, Oct. 25, 1992, 106 Stat. 3384, provided that: “This Act [enacting sections 2119 and 2322 of this title, sections 2026a to 2026c and 2041 to 2044 of Title 15, Commerce and Trade, sections 1646b and 1646c of Title 19, Customs Duties, and sections 3750a to 3750d of Title 42, The Public Health and Welfare, amending sections 553, 981, 982, 2312, and 2313 of this title, sections 2021 to 2023, 2025, 2027, and 2034 of Title 15, and enacting provisions set out as notes under section 2119 of this title, sections 2026a, 2026b, and 2041 of Title 15, and section 1646b of Title 19] may be cited as the ‘Anti Car Theft Act of 1992’.”
 
 **Short Title of 1984 Amendments**
 
-Pub. L. 98–547, § 1(a), Oct. 25, 1984, 98 Stat. 2754, provided that: “This Act [enacting sections 511, 512, 553, and 2320 [now 2321] of this title, sections 2021 to 2034 of Title 15, Commerce and Trade, and section 1627 of Title 19, Customs Duties, amending this section, sections 1961 and 2313 of this title, and section 1901 of Title 15, and enacting provisions set out as a note under section 2021 of Title 15] may be cited as the ‘Motor Vehicle Theft Law Enforcement Act of 1984’.”
+Pub. L. 98–547, § 1(a), Oct. 25, 1984, 98 Stat. 2754, provided that: “This Act [enacting sections 511, 512, 553, and 2320 [now 2321] of this title, sections 2021 to 2034 of Title 15, Commerce and Trade, and section 1627 of Title 19, Customs Duties, amending this section, sections 1961 and 2313 of this title, and section 1901 of Title 15, and enacting provisions set out as a note under section 2021 of Title 15] may be cited as the ‘Motor Vehicle Theft Law Enforcement Act of 1984’.”
 
-Pub. L. 98–473, title II, § 1501, Oct. 12, 1984, 98 Stat. 2178, provided that: “This chapter [chapter XV (§§ 1501–1503) of title II of Pub. L. 98–473, enacting section 2320 of this title and amending sections 1116, 1117, and 1118 of Title 15, Commerce and Trade] may be cited as the ‘Trademark Counterfeiting Act of 1984’.”
+Pub. L. 98–473, title II, § 1501, Oct. 12, 1984, 98 Stat. 2178, provided that: “This chapter [chapter XV (§§ 1501–1503) of title II of Pub. L. 98–473, enacting section 2320 of this title and amending sections 1116, 1117, and 1118 of Title 15, Commerce and Trade] may be cited as the ‘Trademark Counterfeiting Act of 1984’.”
 
 **Short Title of 1982 Amendment**
 
-Pub. L. 97–180, § 1, May 24, 1982, 96 Stat. 91, provided: “That this Act [enacting section 2319 of this title and amending section 2318 of this title and section 506 of Title 17, Copyrights] may be cited as the ‘Piracy and Counterfeiting Amendments Act of 1982’.”
+Pub. L. 97–180, § 1, May 24, 1982, 96 Stat. 91, provided: “That this Act [enacting section 2319 of this title and amending section 2318 of this title and section 506 of Title 17, Copyrights] may be cited as the ‘Piracy and Counterfeiting Amendments Act of 1982’.”
 
 **Counterfeiting of Trademarked and Copyrighted Merchandise; Congressional Statement of Findings**
 
-Pub. L. 104–153, § 2, July 2, 1996, 110 Stat. 1386, provided that:
+Pub. L. 104–153, § 2, July 2, 1996, 110 Stat. 1386, provided that:
 
 > “The counterfeiting of trademarked and copyrighted merchandise—
 
@@ -151,7 +151,7 @@ Pub. L. 104–153, § 2, July 2, 1996, 110 Stat. 1386, provided that:
 
 **Congressional Declaration of Purpose of 1984 Amendment**
 
-Pub. L. 98–547, § 2, Oct. 25, 1984, 98 Stat. 2754, provided that:
+Pub. L. 98–547, § 2, Oct. 25, 1984, 98 Stat. 2754, provided that:
 
 > “It is the purpose of this Act [see Short Title of 1984 Amendments note above]—
 
@@ -163,15 +163,15 @@ Pub. L. 98–547, § 2, Oct. 25, 1984, 98 Stat. 2754, provided that:
 
 > **“(4)** to reduce opportunities for exporting or importing stolen motor vehicles and off-highway mobile equipment.”
 
-## § 2312. Transportation of stolen vehicles
+## § 2312. Transportation of stolen vehicles
 
 Whoever transports in interstate or foreign commerce a motor vehicle, vessel, or aircraft, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 102–519, title I, § 103, Oct. 25, 1992, 106 Stat. 3385; Pub. L. 109–177, title III, § 307(b)(2)(A), Mar. 9, 2006, 120 Stat. 240.)
+(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 102–519, title I, § 103, Oct. 25, 1992, 106 Stat. 3385; Pub. L. 109–177, title III, § 307(b)(2)(A), Mar. 9, 2006, 120 Stat. 240.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 408 (Oct. 29, 1919, ch. 89, §§ 1, 3, 5, 41 Stat. 324, 325; Sept. 24, 1945, ch. 383, §§ 2, 3, 59 Stat. 536).
+Based on title 18, U.S.C., 1940 ed., § 408 (Oct. 29, 1919, ch. 89, §§ 1, 3, 5, 41 Stat. 324, 325; Sept. 24, 1945, ch. 383, §§ 2, 3, 59 Stat. 536).
 
 The first sentence of said section 408, providing the short title “An Act to punish the transportation of stolen motor vehicles or aircraft in interstate or foreign commerce,” and derived from section 1 of said act of October 29, 1919, as amended, was omitted as not appropriate in a revision.
 
@@ -193,17 +193,17 @@ Minor changes were made in phraseology.
 
 1992—Pub. L. 102–519 substituted “fined under this title or imprisoned not more than 10 years” for “fined not more than $5,000 or imprisoned not more than five years”.
 
-## § 2313. Sale or receipt of stolen vehicles
+## § 2313. Sale or receipt of stolen vehicles
 
 **(a)** Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any motor vehicle, vessel, or aircraft, which has crossed a State or United States boundary after being stolen, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than 10 years, or both.
 
 **(b)** For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 98–547, title II, § 203, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 101–647, title XII, § 1205(*l*), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 102–519, title I, § 103, Oct. 25, 1992, 106 Stat. 3385; Pub. L. 109–177, title III, § 307(b)(2)(B), Mar. 9, 2006, 120 Stat. 240.)
+(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 98–547, title II, § 203, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 101–647, title XII, § 1205(*l*), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 102–519, title I, § 103, Oct. 25, 1992, 106 Stat. 3385; Pub. L. 109–177, title III, § 307(b)(2)(B), Mar. 9, 2006, 120 Stat. 240.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 408 (Oct. 29, 1919, ch. 89, § 4, 41 Stat. 325; Sept. 24, 1945, ch. 383, §§ 2, 3, 59 Stat. 536).
+Based on title 18, U.S.C., 1940 ed., § 408 (Oct. 29, 1919, ch. 89, § 4, 41 Stat. 325; Sept. 24, 1945, ch. 383, §§ 2, 3, 59 Stat. 536).
 
 Section constitutes the fourth sentence of said section 408 of title 18, U.S.C., 1940 ed.
 
@@ -227,7 +227,7 @@ Minor changes were made in phraseology.
 
 1984—Pub. L. 98–547 inserted “possesses,” after “receives,” and substituted “which has crossed a State or United States boundary after being stolen,” for “moving as, or which is a part of, or which constitutes interstate or foreign commerce,”.
 
-## § 2314. Transportation of stolen goods, securities, moneys, fraudulent State tax stamps, or articles used in counterfeiting
+## § 2314. Transportation of stolen goods, securities, moneys, fraudulent State tax stamps, or articles used in counterfeiting
 
 Whoever transports, transmits, or transfers in interstate or foreign commerce any goods, wares, merchandise, securities or money, of the value of $5,000 or more, knowing the same to have been stolen, converted or taken by fraud; or
 
@@ -247,13 +247,13 @@ This section shall not apply to any falsely made, forged, altered, counterfeited
 
 For purposes of this section the term “veterans’ memorial object” means a grave marker, headstone, monument, or other object, intended to permanently honor a veteran or mark a veteran’s grave, or any monument that signifies an event of national military historical significance.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; May 24, 1949, ch. 139, § 45, 63 Stat. 96; July 9, 1956, ch. 519, 70 Stat. 507; Pub. L. 87–371, § 2, Oct. 4, 1961, 75 Stat. 802; Pub. L. 90–535, Sept. 28, 1968, 82 Stat. 885; Pub. L. 100–690, title VII, §§ 7057, 7080, Nov. 18, 1988, 102 Stat. 4402, 4406; Pub. L. 101–647, title XII, § 1208, Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 112–186, § 4(d)(1), Oct. 5, 2012, 126 Stat. 1429; Pub. L. 112–239, div. A, title X, § 1084(a), Jan. 2, 2013, 126 Stat. 1963.)
+(June 25, 1948, ch. 645, 62 Stat. 806; May 24, 1949, ch. 139, § 45, 63 Stat. 96; July 9, 1956, ch. 519, 70 Stat. 507; Pub. L. 87–371, § 2, Oct. 4, 1961, 75 Stat. 802; Pub. L. 90–535, Sept. 28, 1968, 82 Stat. 885; Pub. L. 100–690, title VII, §§ 7057, 7080, Nov. 18, 1988, 102 Stat. 4402, 4406; Pub. L. 101–647, title XII, § 1208, Nov. 29, 1990, 104 Stat. 4832; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 112–186, § 4(d)(1), Oct. 5, 2012, 126 Stat. 1429; Pub. L. 112–239, div. A, title X, § 1084(a), Jan. 2, 2013, 126 Stat. 1963.)
 
 **Historical and Revision Notes**
 
 **1948 Act**
 
-Based on title 18, U.S.C., 1940 ed., §§ 413, 415, 418, 418a, 419 (May 22, 1934, ch. 333, §§ 1, 3, 6, 48 Stat. 794, 795; May 22, 1934, ch. 333, § 7, as added Aug. 3, 1939, ch. 413, § 5, 53 Stat. 1179; May 22, 1934, ch. 333, § 7, renumbered § 8 by Aug. 3, 1939, ch. 413, § 6, 53 Stat. 1179; Aug. 3, 1939, ch. 413, §§ 1, 4, 5, 53 Stat. 1178, 1179).
+Based on title 18, U.S.C., 1940 ed., §§ 413, 415, 418, 418a, 419 (May 22, 1934, ch. 333, §§ 1, 3, 6, 48 Stat. 794, 795; May 22, 1934, ch. 333, § 7, as added Aug. 3, 1939, ch. 413, § 5, 53 Stat. 1179; May 22, 1934, ch. 333, § 7, renumbered § 8 by Aug. 3, 1939, ch. 413, § 6, 53 Stat. 1179; Aug. 3, 1939, ch. 413, §§ 1, 4, 5, 53 Stat. 1178, 1179).
 
 Section consolidates sections 413, 415, 417, 418, 418a, and 419 of title 18, U.S.C., 1940 ed.
 
@@ -283,25 +283,25 @@ This amendment [see section 45] restates and clarifies the first paragraph of se
 
 **Amendments**
 
-2013—Pub. L. 112–239, § 1084(a)(4), inserted par. at end defining “veterans’ memorial object”.
+2013—Pub. L. 112–239, § 1084(a)(4), inserted par. at end defining “veterans’ memorial object”.
 
-Pub. L. 112–239, § 1084(a)(3), inserted at end of seventh par. “If the offense involves the transportation, transmission, or transfer in interstate or foreign commerce of veterans’ memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both.”
+Pub. L. 112–239, § 1084(a)(3), inserted at end of seventh par. “If the offense involves the transportation, transmission, or transfer in interstate or foreign commerce of veterans’ memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both.”
 
-Pub. L. 112–239, § 1084(a)(1), (2), inserted sixth par. relating to veterans’ memorial objects.
+Pub. L. 112–239, § 1084(a)(1), (2), inserted sixth par. relating to veterans’ memorial objects.
 
 2012—Pub. L. 112–186 inserted at end of sixth par. “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater.”
 
-1994—Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in sixth par.
+1994—Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in sixth par.
 
-Pub. L. 103–322, § 330016(1)(K), which directed the amendment of this section by striking “not more than $5,000” and inserting “under this title”, could not be executed because the phrase “not more than $5,000” did not appear in text.
+Pub. L. 103–322, § 330016(1)(K), which directed the amendment of this section by striking “not more than $5,000” and inserting “under this title”, could not be executed because the phrase “not more than $5,000” did not appear in text.
 
 1990—Pub. L. 101–647 inserted “or foreign” after “interstate” in second par.
 
-1988—Pub. L. 100–690, § 7057(a), substituted “transports, transmits, or transfers” for “transports” in first par.
+1988—Pub. L. 100–690, § 7057(a), substituted “transports, transmits, or transfers” for “transports” in first par.
 
-Pub. L. 100–690, § 7080, inserted “or persons” after “any person” and “or those persons” after “that person” in second par.
+Pub. L. 100–690, § 7080, inserted “or persons” after “any person” and “or those persons” after “that person” in second par.
 
-Pub. L. 100–690, § 7057(b), struck out “or by a bank or corporation of any foreign country” after “foreign government” in last par. and inserted at end “This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.”
+Pub. L. 100–690, § 7057(b), struck out “or by a bank or corporation of any foreign country” after “foreign government” in last par. and inserted at end “This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.”
 
 1968—Pub. L. 90–535 prohibited transportation with unlawful or fraudulent intent in interstate or foreign commerce of traveler’s checks bearing forged countersignatures.
 
@@ -311,7 +311,7 @@ Pub. L. 100–690, § 7057(b), struck out “or by a bank or corporation of an
 
 1949—Act May 24, 1949, substituted “knowing the same to have been stolen, converted or taken by fraud” for “theretofore stolen, converted, or taken by fraud” in first par.
 
-## § 2315. Sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps
+## § 2315. Sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps
 
 Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any goods, wares, or merchandise, securities, or money of the value of $5,000 or more, or pledges or accepts as security for a loan any goods, wares, or merchandise, or securities, of the value of $500 or more, which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken, knowing the same to have been stolen, unlawfully converted, or taken; or
 
@@ -319,11 +319,11 @@ Whoever receives, possesses, conceals, stores, barters, sells, or disposes of an
 
 Whoever receives in interstate or foreign commerce, or conceals, stores, barters, sells, or disposes of, any tool, implement, or thing used or intended to be used in falsely making, forging, altering, or counterfeiting any security or tax stamp, or any part thereof, moving as, or which is a part of, or which constitutes interstate or foreign commerce, knowing that the same is fitted to be used, or has been used, in falsely making, forging, altering, or counterfeiting any security or tax stamp, or any part thereof; or
 
-‘Whoever 1
+‘Whoever 1
 
-<sup>1</sup>  So in original. The quotation mark probably should not appear.
+<sup>1</sup> So in original. The quotation mark probably should not appear.
 
-receives, possesses, conceals, stores, barters, sells, or disposes of any veterans’ memorial object which has crossed a State or United States boundary after being stolen, unlawfully converted, or taken, knowing the same to have been stolen, unlawfully converted, or taken—’ 1
+receives, possesses, conceals, stores, barters, sells, or disposes of any veterans’ memorial object which has crossed a State or United States boundary after being stolen, unlawfully converted, or taken, knowing the same to have been stolen, unlawfully converted, or taken—’ 1
 
 Shall be fined under this title or imprisoned not more than ten years, or both. If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater. If the offense involves the receipt, possession, concealment, storage, barter, sale, or disposal of veterans’ memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -331,11 +331,11 @@ This section shall not apply to any falsely made, forged, altered, counterfeited
 
 For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States. For purposes of this section the term “veterans’ memorial object” means a grave marker, headstone, monument, or other object, intended to permanently honor a veteran or mark a veteran’s grave, or any monument that signifies an event of national military historical significance.
 
-(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 87–371, § 3, Oct. 4, 1961, 75 Stat. 802; Pub. L. 99–646, § 76, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title VII, §§ 7048, 7057(b), Nov. 18, 1988, 102 Stat. 4401, 4402; Pub. L. 101–647, title XII, § 1205(m), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 112–186, § 4(d)(2), Oct. 5, 2012, 126 Stat. 1429; Pub. L. 112–239, div. A, title X, § 1084(b), Jan. 2, 2013, 126 Stat. 1963.)
+(June 25, 1948, ch. 645, 62 Stat. 806; Pub. L. 87–371, § 3, Oct. 4, 1961, 75 Stat. 802; Pub. L. 99–646, § 76, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title VII, §§ 7048, 7057(b), Nov. 18, 1988, 102 Stat. 4401, 4402; Pub. L. 101–647, title XII, § 1205(m), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 112–186, § 4(d)(2), Oct. 5, 2012, 126 Stat. 1429; Pub. L. 112–239, div. A, title X, § 1084(b), Jan. 2, 2013, 126 Stat. 1963.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 416 (May 22, 1934, ch. 333, § 4, 48 Stat. 795; Aug. 3, 1939, ch. 413, § 2, 53 Stat. 1178).
+Based on title 18, U.S.C., 1940 ed., § 416 (May 22, 1934, ch. 333, § 4, 48 Stat. 795; Aug. 3, 1939, ch. 413, § 2, 53 Stat. 1178).
 
 (See reviser’s notes under sections 10, 2311 and 2314 of this title for explanation of consolidation or omission of other sections of title 18, U.S.C., 1940 ed., which were derived from the National Stolen Property Act.)
 
@@ -345,11 +345,11 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-2013—Pub. L. 112–239, § 1084(b)(4), inserted at end “For purposes of this section the term ‘veterans’ memorial object’ means a grave marker, headstone, monument, or other object, intended to permanently honor a veteran or mark a veteran’s grave, or any monument that signifies an event of national military historical significance.”
+2013—Pub. L. 112–239, § 1084(b)(4), inserted at end “For purposes of this section the term ‘veterans’ memorial object’ means a grave marker, headstone, monument, or other object, intended to permanently honor a veteran or mark a veteran’s grave, or any monument that signifies an event of national military historical significance.”
 
-Pub. L. 112–239, § 1084(b)(3), inserted at end of fifth par. “If the offense involves the receipt, possession, concealment, storage, barter, sale, or disposal of veterans’ memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both.”
+Pub. L. 112–239, § 1084(b)(3), inserted at end of fifth par. “If the offense involves the receipt, possession, concealment, storage, barter, sale, or disposal of veterans’ memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both.”
 
-Pub. L. 112–239, § 1084(b)(1), (2), inserted fourth par. relating to veterans’ memorial objects.
+Pub. L. 112–239, § 1084(b)(1), (2), inserted fourth par. relating to veterans’ memorial objects.
 
 2012—Pub. L. 112–186 inserted at end of fourth par. “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater.”
 
@@ -357,23 +357,23 @@ Pub. L. 112–239, § 1084(b)(1), (2), inserted fourth par. relating to vetera
 
 1990—Pub. L. 101–647 inserted par. at end defining “State”.
 
-1988—Pub. L. 100–690, § 7048, substituted “moving as, or which are a part of, or which constitute interstate or foreign commerce” for “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” in second par.
+1988—Pub. L. 100–690, § 7048, substituted “moving as, or which are a part of, or which constitute interstate or foreign commerce” for “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” in second par.
 
-Pub. L. 100–690, § 7057(b), struck out “or by a bank or corporation of any foreign country” after “foreign government” in last par. and inserted at end “This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.”
+Pub. L. 100–690, § 7057(b), struck out “or by a bank or corporation of any foreign country” after “foreign government” in last par. and inserted at end “This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.”
 
 1986—Pub. L. 99–646 substituted “receives, possesses, conceals” for “receives, conceals” and “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” for “moving as, or which are part of, or which constitute interstate or foreign commerce” in first and second pars.
 
 1961—Pub. L. 87–371 inserted “or tax stamps” after “securities”, wherever appearing, in second par., and “or tax stamp” after “security”, wherever appearing, in third par., and substituted “moneys, or fraudulent State tax stamps” for “or monies” in section catchline.
 
-## § 2316. Transportation of livestock
+## § 2316. Transportation of livestock
 
 Whoever transports in interstate or foreign commerce any livestock, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 807; Pub. L. 98–473, title II, § 1113, Oct. 12, 1984, 98 Stat. 2149; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 807; Pub. L. 98–473, title II, § 1113, Oct. 12, 1984, 98 Stat. 2149; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 419b, 419d (Aug. 18, 1941, ch. 366, §§ 3, 5, 55 Stat. 631).
+Based on title 18, U.S.C., 1940 ed., §§ 419b, 419d (Aug. 18, 1941, ch. 366, §§ 3, 5, 55 Stat. 631).
 
 This section consolidates sections 419b and 419d of title 18, U.S.C., 1940 ed.
 
@@ -395,15 +395,15 @@ Minor changes were made in phraseology.
 
 1984—Pub. L. 98–473 substituted “livestock” for “cattle” in section catchline and text.
 
-## § 2317. Sale or receipt of livestock
+## § 2317. Sale or receipt of livestock
 
 Whoever receives, conceals, stores, barters, buys, sells, or disposes of any livestock, moving in or constituting a part of interstate or foreign commerce, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 807; Pub. L. 98–473, title II, § 1114, Oct. 12, 1984, 98 Stat. 2149; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 807; Pub. L. 98–473, title II, § 1114, Oct. 12, 1984, 98 Stat. 2149; Pub. L. 103–322, title XXXIII, § 330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 419c, 419d (Aug. 18, 1941, ch. 366, §§ 4, 5, 55 Stat. 632).
+Based on title 18, U.S.C., 1940 ed., §§ 419c, 419d (Aug. 18, 1941, ch. 366, §§ 4, 5, 55 Stat. 632).
 
 Definitions of “cattle” and “interstate or foreign commerce”, contained in section 419a of title 18, U.S.C., 1940 ed., are incorporated in sections 10 and 2311 of this title.
 
@@ -419,13 +419,13 @@ Minor changes were made in phraseology.
 
 1984—Pub. L. 98–473 substituted “livestock” for “cattle” in section catchline and text.
 
-## § 2318. Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging
+## § 2318. Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging
 
 **(a)**
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. No par. (2) has been enacted.
+<sup>1</sup> So in original. No par. (2) has been enacted.
 
 Whoever, in any of the circumstances described in subsection (c), knowingly traffics in—
 
@@ -551,7 +551,7 @@ shall be fined under this title or imprisoned for not more than 5 years, or both
 
 **(6) Limitation on actions.—** A civil action may not be commenced under this subsection unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).
 
-(Added Pub. L. 87–773, § 1, Oct. 9, 1962, 76 Stat. 775; amended Pub. L. 93–573, title I, § 103, Dec. 31, 1974, 88 Stat. 1873; Pub. L. 94–553, title I, § 111, Oct. 19, 1976, 90 Stat. 2600; Pub. L. 97–180, § 2, May 24, 1982, 96 Stat. 91; Pub. L. 101–647, title XXXV, § 3567, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 103–272, § 5(e)(10), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, § 330016(1)(U), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–153, § 4(a), (b)(1), July 2, 1996, 110 Stat. 1386, 1387; Pub. L. 108–482, title I, § 102(a), (b), Dec. 23, 2004, 118 Stat. 3912, 3914; Pub. L. 109–181, § 2(c)(2), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, § 202, Oct. 13, 2008, 122 Stat. 4260; Pub. L. 111–295, § 6(i), Dec. 9, 2010, 124 Stat. 3182; Pub. L. 114–154, § 3(1), May 16, 2016, 130 Stat. 387.)
+(Added Pub. L. 87–773, § 1, Oct. 9, 1962, 76 Stat. 775; amended Pub. L. 93–573, title I, § 103, Dec. 31, 1974, 88 Stat. 1873; Pub. L. 94–553, title I, § 111, Oct. 19, 1976, 90 Stat. 2600; Pub. L. 97–180, § 2, May 24, 1982, 96 Stat. 91; Pub. L. 101–647, title XXXV, § 3567, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 103–272, § 5(e)(10), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, § 330016(1)(U), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–153, § 4(a), (b)(1), July 2, 1996, 110 Stat. 1386, 1387; Pub. L. 108–482, title I, § 102(a), (b), Dec. 23, 2004, 118 Stat. 3912, 3914; Pub. L. 109–181, § 2(c)(2), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, § 202, Oct. 13, 2008, 122 Stat. 4260; Pub. L. 111–295, § 6(i), Dec. 9, 2010, 124 Stat. 3182; Pub. L. 114–154, § 3(1), May 16, 2016, 130 Stat. 387.)
 
 **Editorial Notes**
 
@@ -561,43 +561,43 @@ shall be fined under this title or imprisoned for not more than 5 years, or both
 
 2010—Subsec. (e)(6). Pub. L. 111–295 substituted “under this subsection” for “under section”.
 
-2008—Subsec. (a). Pub. L. 110–403, § 202(1), designated existing provisions as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A).
+2008—Subsec. (a). Pub. L. 110–403, § 202(1), designated existing provisions as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A).
 
-Subsec. (d). Pub. L. 110–403, § 202(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels or illicit labels and all articles to which counterfeit labels or illicit labels have been affixed or which were intended to have had such labels affixed, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels.”
+Subsec. (d). Pub. L. 110–403, § 202(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels or illicit labels and all articles to which counterfeit labels or illicit labels have been affixed or which were intended to have had such labels affixed, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels.”
 
-Subsecs. (e), (f). Pub. L. 110–403, § 202(3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Except to the extent they are inconsistent with the provisions of this title, all provisions of section 509, title 17, United States Code, are applicable to violations of subsection (a).”
+Subsecs. (e), (f). Pub. L. 110–403, § 202(3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Except to the extent they are inconsistent with the provisions of this title, all provisions of section 509, title 17, United States Code, are applicable to violations of subsection (a).”
 
 2006—Subsec. (b)(2). Pub. L. 109–181 added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic’ means to transport, transfer or otherwise dispose of, to another, as consideration for anything of value or to make or obtain control of with intent to so transport, transfer or dispose of;”.
 
-2004—Pub. L. 108–482, § 102(a)(1), substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” in section catchline.
+2004—Pub. L. 108–482, § 102(a)(1), substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” in section catchline.
 
-Subsec. (a). Pub. L. 108–482, § 102(a)(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “Whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in a counterfeit label affixed or designed to be affixed to a phonorecord, or a copy of a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program, shall be fined under this title or imprisoned for not more than five years, or both.”
+Subsec. (a). Pub. L. 108–482, § 102(a)(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “Whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in a counterfeit label affixed or designed to be affixed to a phonorecord, or a copy of a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program, shall be fined under this title or imprisoned for not more than five years, or both.”
 
-Subsec. (b)(2). Pub. L. 108–482, § 102(a)(3)(A), struck out “and” after the semicolon at end.
+Subsec. (b)(2). Pub. L. 108–482, § 102(a)(3)(A), struck out “and” after the semicolon at end.
 
-Subsec. (b)(3). Pub. L. 108–482, § 102(a)(3)(B), substituted “ ‘audiovisual work’, ‘literary work’, ‘pictorial, graphic, or sculptural work’, ‘sound recording’, ‘work of visual art’, and ‘copyright owner’ have” for “and ‘audiovisual work’ have” and a semicolon for the period at end.
+Subsec. (b)(3). Pub. L. 108–482, § 102(a)(3)(B), substituted “ ‘audiovisual work’, ‘literary work’, ‘pictorial, graphic, or sculptural work’, ‘sound recording’, ‘work of visual art’, and ‘copyright owner’ have” for “and ‘audiovisual work’ have” and a semicolon for the period at end.
 
-Subsec. (b)(4) to (6). Pub. L. 108–482, § 102(a)(3)(C), added pars. (4) to (6).
+Subsec. (b)(4) to (6). Pub. L. 108–482, § 102(a)(3)(C), added pars. (4) to (6).
 
-Subsec. (c)(3). Pub. L. 108–482, § 102(a)(4)(A), added par. (3) and struck former par. (3) which read as follows: “the counterfeit label is affixed to or encloses, or is designed to be affixed to or enclose, a copy of a copyrighted computer program or copyrighted documentation or packaging for a computer program, a copyrighted motion picture or other audiovisual work, or a phonorecord of a copyrighted sound recording; or”.
+Subsec. (c)(3). Pub. L. 108–482, § 102(a)(4)(A), added par. (3) and struck former par. (3) which read as follows: “the counterfeit label is affixed to or encloses, or is designed to be affixed to or enclose, a copy of a copyrighted computer program or copyrighted documentation or packaging for a computer program, a copyrighted motion picture or other audiovisual work, or a phonorecord of a copyrighted sound recording; or”.
 
-Subsec. (c)(4). Pub. L. 108–482, § 102(a)(4)(B), struck out “for a computer program” after “packaging”.
+Subsec. (c)(4). Pub. L. 108–482, § 102(a)(4)(B), struck out “for a computer program” after “packaging”.
 
-Subsec. (d). Pub. L. 108–482, § 102(a)(5), inserted “or illicit labels” after “counterfeit labels” in two places and inserted “, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels” before period at end.
+Subsec. (d). Pub. L. 108–482, § 102(a)(5), inserted “or illicit labels” after “counterfeit labels” in two places and inserted “, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels” before period at end.
 
-Subsec. (f). Pub. L. 108–482, § 102(b), added subsec. (f).
+Subsec. (f). Pub. L. 108–482, § 102(b), added subsec. (f).
 
-1996—Pub. L. 104–153, § 4(b)(1), substituted “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in section catchline.
+1996—Pub. L. 104–153, § 4(b)(1), substituted “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in section catchline.
 
-Subsec. (a). Pub. L. 104–153, § 4(a)(1), substituted “a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program,” for “a motion picture or other audiovisual work,”.
+Subsec. (a). Pub. L. 104–153, § 4(a)(1), substituted “a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program,” for “a motion picture or other audiovisual work,”.
 
-Subsec. (b)(3). Pub. L. 104–153, § 4(a)(2), inserted “ ‘computer program’,” after “ ‘motion picture’,”.
+Subsec. (b)(3). Pub. L. 104–153, § 4(a)(2), inserted “ ‘computer program’,” after “ ‘motion picture’,”.
 
-Subsec. (c)(2). Pub. L. 104–153, § 4(a)(3)(A), struck out “or” at end.
+Subsec. (c)(2). Pub. L. 104–153, § 4(a)(3)(A), struck out “or” at end.
 
-Subsec. (c)(3). Pub. L. 104–153, § 4(a)(3)(B), inserted “a copy of a copyrighted computer program or copyrighted documentation or packaging for a computer program,” after “enclose,” and substituted “; or” for period at end.
+Subsec. (c)(3). Pub. L. 104–153, § 4(a)(3)(B), inserted “a copy of a copyrighted computer program or copyrighted documentation or packaging for a computer program,” after “enclose,” and substituted “; or” for period at end.
 
-Subsec. (c)(4). Pub. L. 104–153, § 4(a)(3)(C), added par. (4).
+Subsec. (c)(4). Pub. L. 104–153, § 4(a)(3)(C), added par. (4).
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250,000”.
 
@@ -623,7 +623,7 @@ Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L.
 
 **Other Rights Not Affected by Anti-Counterfeiting Provisions**
 
-Pub. L. 108–482, title I, § 103, Dec. 23, 2004, 118 Stat. 3915, provided that:
+Pub. L. 108–482, title I, § 103, Dec. 23, 2004, 118 Stat. 3915, provided that:
 
 > **“(a) Chapters 5 and 12 of Title 17; Electronic Transmissions.—** The amendments made by this title [amending this section]—
 
@@ -637,7 +637,7 @@ Pub. L. 108–482, title I, § 103, Dec. 23, 2004, 118 Stat. 3915, provided th
 
 > **“(b) Fair Use.—** The amendments made by this title shall not affect the fair use, under section 107 of title 17, United States Code, of a genuine certificate, licensing document, registration card, similar labeling component, or documentation or packaging described in paragraph (4) or (5) of section 2318(b) of title 18, United States Code, as amended by this title.”
 
-## § 2319. Criminal infringement of a copyright
+## § 2319. Criminal infringement of a copyright
 
 **(a)** Any person who violates section 506(a) (relating to criminal offenses) of title 17 shall be punished as provided in subsections (b), (c), and (d) and such penalties shall be in addition to any other provisions of title 17 or any other law.
 
@@ -689,7 +689,7 @@ Pub. L. 108–482, title I, § 103, Dec. 23, 2004, 118 Stat. 3915, provided th
 
 **(4)** the term “work being prepared for commercial distribution” has the meaning given the term in section 506(a) of title 17.
 
-(Added Pub. L. 97–180, § 3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106 Stat. 4233; Pub. L. 105–80, § 12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, § 2(d), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 107–273, div. C, title III, § 13211(a), Nov. 2, 2002, 116 Stat. 1910; Pub. L. 109–9, title I, § 103(b), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, § 208, Oct. 13, 2008, 122 Stat. 4263.)
+(Added Pub. L. 97–180, § 3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106 Stat. 4233; Pub. L. 105–80, § 12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, § 2(d), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 107–273, div. C, title III, § 13211(a), Nov. 2, 2002, 116 Stat. 1910; Pub. L. 109–9, title I, § 103(b), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, § 208, Oct. 13, 2008, 122 Stat. 4263.)
 
 **Editorial Notes**
 
@@ -699,35 +699,35 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set 
 
 **Amendments**
 
-2008—Subsecs. (b)(2), (c)(2). Pub. L. 110–403, § 208(1), (2), inserted “is a felony and” after “the offense” and substituted “subsection (a)” for “paragraph (1)”.
+2008—Subsecs. (b)(2), (c)(2). Pub. L. 110–403, § 208(1), (2), inserted “is a felony and” after “the offense” and substituted “subsection (a)” for “paragraph (1)”.
 
-Subsec. (d)(3). Pub. L. 110–403, § 208(3), inserted “is a felony and” after “the offense” and “under subsection (a)” before the semicolon.
+Subsec. (d)(3). Pub. L. 110–403, § 208(3), inserted “is a felony and” after “the offense” and “under subsection (a)” before the semicolon.
 
-Subsec. (d)(4). Pub. L. 110–403, § 208(4), inserted “is a felony and” after “the offense”.
+Subsec. (d)(4). Pub. L. 110–403, § 208(4), inserted “is a felony and” after “the offense”.
 
-2005—Subsec. (a). Pub. L. 109–9, § 103(b)(1), substituted “Any person who” for “Whoever” and “, (c), and (d)” for “and (c) of this section”.
+2005—Subsec. (a). Pub. L. 109–9, § 103(b)(1), substituted “Any person who” for “Whoever” and “, (c), and (d)” for “and (c) of this section”.
 
-Subsec. (b). Pub. L. 109–9, § 103(b)(2), substituted “section 506(a)(1)(A)” for “section 506(a)(1)” in introductory provisions.
+Subsec. (b). Pub. L. 109–9, § 103(b)(2), substituted “section 506(a)(1)(A)” for “section 506(a)(1)” in introductory provisions.
 
-Subsec. (c). Pub. L. 109–9, § 103(b)(3), substituted “section 506(a)(1)(B) of title 17” for “section 506(a)(2) of title 17, United States Code” in introductory provisions.
+Subsec. (c). Pub. L. 109–9, § 103(b)(3), substituted “section 506(a)(1)(B) of title 17” for “section 506(a)(2) of title 17, United States Code” in introductory provisions.
 
-Subsecs. (d), (e). Pub. L. 109–9, § 103(b)(4), (5), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsecs. (d), (e). Pub. L. 109–9, § 103(b)(4), (5), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 109–9, § 103(b)(4), (6), redesignated subsec. (e) as (f) and added pars. (3) and (4).
+Subsec. (f). Pub. L. 109–9, § 103(b)(4), (6), redesignated subsec. (e) as (f) and added pars. (3) and (4).
 
 2002—Subsec. (e)(2). Pub. L. 107–273 substituted “107 through 122” for “107 through 120”.
 
-1997—Subsec. (a). Pub. L. 105–147, § 2(d)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
+1997—Subsec. (a). Pub. L. 105–147, § 2(d)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
 
-Subsec. (b). Pub. L. 105–147, § 2(d)(2)(A), substituted “section 506(a)(1) of title 17” for “subsection (a) of this section” in introductory provisions.
+Subsec. (b). Pub. L. 105–147, § 2(d)(2)(A), substituted “section 506(a)(1) of title 17” for “subsection (a) of this section” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 105–147, § 2(d)(2)(B), inserted “including by electronic means,” after “if the offense consists of the reproduction or distribution,” and substituted “which have a total retail value of more than $2,500” for “with a retail value of more than $2,500”.
+Subsec. (b)(1). Pub. L. 105–147, § 2(d)(2)(B), inserted “including by electronic means,” after “if the offense consists of the reproduction or distribution,” and substituted “which have a total retail value of more than $2,500” for “with a retail value of more than $2,500”.
 
 Pub. L. 105–80, substituted “at least 10 copies” for “at last 10 copies”.
 
-Subsecs. (c) to (e). Pub. L. 105–147, § 2(d)(3), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+Subsecs. (c) to (e). Pub. L. 105–147, § 2(d)(3), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
-1992—Subsec. (b). Pub. L. 102–561, § 1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person who commits an offense under subsection (a) of this section—
+1992—Subsec. (b). Pub. L. 102–561, § 1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person who commits an offense under subsection (a) of this section—
 
 “(1) shall be fined not more than $250,000 or imprisoned for not more than five years, or both, if the offense—
 
@@ -745,9 +745,9 @@ Subsecs. (c) to (e). Pub. L. 105–147, § 2(d)(3), added subsecs. (c) and (d)
 
 “(3) shall be fined not more than $25,000 or imprisoned for not more than one year, or both, in any other case.”
 
-Subsec. (c). Pub. L. 102–561, § 2, substituted “ ‘phonorecord’ ” for “ ‘sound recording’, ‘motion picture’, ‘audiovisual work’, ‘phonorecord’,” in par. (1) and “120” for “118” in par. (2).
+Subsec. (c). Pub. L. 102–561, § 2, substituted “ ‘phonorecord’ ” for “ ‘sound recording’, ‘motion picture’, ‘audiovisual work’, ‘phonorecord’,” in par. (1) and “120” for “118” in par. (2).
 
-## § 2319A. Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances
+## § 2319A. Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances
 
 **(a) Offense.—** Whoever, without the consent of the performer or performers involved, knowingly and for purposes of commercial advantage or private financial gain—
 
@@ -779,15 +779,15 @@ shall be imprisoned for not more than 5 years or fined in the amount set forth i
 
 **(1)** the terms “copy”, “fixed”, “musical work”, “phonorecord”, “reproduce”, “sound recordings”, and “transmit” mean those terms within the meaning of title 17; and
 
-**(2)** the term “traffic” has the same meaning as in section 2320(e) 1
+**(2)** the term “traffic” has the same meaning as in section 2320(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
 **(f) Applicability.—** This section shall apply to any Act or Acts that occur on or after the date of the enactment of the Uruguay Round Agreements Act.
 
-(Added Pub. L. 103–465, title V, § 513(a), Dec. 8, 1994, 108 Stat. 4974; amended Pub. L. 105–147, § 2(e), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 109–181, § 2(c)(1), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, § 203, Oct. 13, 2008, 122 Stat. 4261.)
+(Added Pub. L. 103–465, title V, § 513(a), Dec. 8, 1994, 108 Stat. 4974; amended Pub. L. 105–147, § 2(e), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 109–181, § 2(c)(1), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, § 203, Oct. 13, 2008, 122 Stat. 4261.)
 
 **Editorial Notes**
 
@@ -795,15 +795,15 @@ of this title.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
 
-Section 2320 of this title, referred to in subsec. (e)(2), was amended generally by Pub. L. 112–81, div. A, title VIII, § 818(h), Dec. 31, 2011, 125 Stat. 1497, and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
+Section 2320 of this title, referred to in subsec. (e)(2), was amended generally by Pub. L. 112–81, div. A, title VIII, § 818(h), Dec. 31, 2011, 125 Stat. 1497, and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (f), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 **Amendments**
 
-2008—Subsec. (b). Pub. L. 110–403, § 203(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “When a person is convicted of a violation of subsection (a), the court shall order the forfeiture and destruction of any copies or phonorecords created in violation thereof, as well as any plates, molds, matrices, masters, tapes, and film negatives by means of which such copies or phonorecords may be made. The court may also, in its discretion, order the forfeiture and destruction of any other equipment by means of which such copies or phonorecords may be reproduced, taking into account the nature, scope, and proportionality of the use of the equipment in the offense.”
+2008—Subsec. (b). Pub. L. 110–403, § 203(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “When a person is convicted of a violation of subsection (a), the court shall order the forfeiture and destruction of any copies or phonorecords created in violation thereof, as well as any plates, molds, matrices, masters, tapes, and film negatives by means of which such copies or phonorecords may be made. The court may also, in its discretion, order the forfeiture and destruction of any other equipment by means of which such copies or phonorecords may be reproduced, taking into account the nature, scope, and proportionality of the use of the equipment in the offense.”
 
-Subsec. (c). Pub. L. 110–403, § 203(b), substituted “The Secretary of Homeland Security shall issue regulations by which any performer may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.” for “The Secretary of the Treasury shall, not later than 60 days after the date of the enactment of the Uruguay Round Agreements Act, issue regulations to carry out this subsection, including regulations by which any performer may, upon payment of a specified fee, be entitled to notification by the United States Customs Service of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.”
+Subsec. (c). Pub. L. 110–403, § 203(b), substituted “The Secretary of Homeland Security shall issue regulations by which any performer may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.” for “The Secretary of the Treasury shall, not later than 60 days after the date of the enactment of the Uruguay Round Agreements Act, issue regulations to carry out this subsection, including regulations by which any performer may, upon payment of a specified fee, be entitled to notification by the United States Customs Service of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.”
 
 2006—Subsec. (e)(2). Pub. L. 109–181 added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic in’ means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent to transport, transfer, or dispose of.”
 
@@ -815,7 +815,7 @@ Subsec. (c). Pub. L. 110–403, § 203(b), substituted “The Secretary of Hom
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-## § 2319B. Unauthorized recording of Motion pictures in a Motion picture exhibition facility
+## § 2319B. Unauthorized recording of Motion pictures in a Motion picture exhibition facility
 
 **(a) Offense.—** Any person who, without the authorization of the copyright owner, knowingly uses or attempts to use an audiovisual recording device to transmit or make a copy of a motion picture or other audiovisual work protected under title 17, or any part thereof, from a performance of such work in a motion picture exhibition facility, shall—
 
@@ -855,7 +855,7 @@ The possession by a person of an audiovisual recording device in a motion pictur
 
 **(2) Audiovisual recording device.—** The term “audiovisual recording device” means a digital or analog photographic or video camera, or any other technology or device capable of enabling the recording or transmission of a copyrighted motion picture or other audiovisual work, or any part thereof, regardless of whether audiovisual recording is the sole or primary purpose of the device.
 
-(Added Pub. L. 109–9, title I, § 102(a), Apr. 27, 2005, 119 Stat. 218; amended Pub. L. 110–403, title II, § 204, Oct. 13, 2008, 122 Stat. 4261.)
+(Added Pub. L. 109–9, title I, § 102(a), Apr. 27, 2005, 119 Stat. 218; amended Pub. L. 110–403, title II, § 204, Oct. 13, 2008, 122 Stat. 4261.)
 
 **Editorial Notes**
 
@@ -867,7 +867,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set 
 
 2008—Subsec. (b). Pub. L. 110–403 amended subsec. (b) generally. Prior to amendment, text read as follows: “When a person is convicted of a violation of subsection (a), the court in its judgment of conviction shall, in addition to any penalty provided, order the forfeiture and destruction or other disposition of all unauthorized copies of motion pictures or other audiovisual works protected under title 17, or parts thereof, and any audiovisual recording devices or other equipment used in connection with the offense.”
 
-## § 2319C. Illicit digital transmission services
+## § 2319C. Illicit digital transmission services
 
 **(a) Definitions.—** In this section—
 
@@ -921,9 +921,9 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set 
 
 **(2)** prevent any Federal or State authority from enforcing cable theft or theft of service laws that are not subject to preemption under section 301 of title 17.
 
-(Added Pub. L. 116–260, div. Q, title II, § 211(a), Dec. 27, 2020, 134 Stat. 2175.)
+(Added Pub. L. 116–260, div. Q, title II, § 211(a), Dec. 27, 2020, 134 Stat. 2175.)
 
-## § 2320. Trafficking in counterfeit goods or services
+## § 2320. Trafficking in counterfeit goods or services
 
 **(a) Offenses.—** Whoever intentionally—
 
@@ -1041,13 +1041,13 @@ but such term does not include any mark or designation used in connection with g
 
 **(i) Transshipment and Exportation.—** No goods or services, the trafficking in of which is prohibited by this section, shall be transshipped through or exported from the United States. Any such transshipment or exportation shall be deemed a violation of section 42 of an Act to provide for the registration of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes, approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946” or the “Lanham Act”).
 
-(Added Pub. L. 98–473, title II, § 1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, § 320104(a), title XXXIII, § 330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, § 5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, § 2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, § 4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, § 2(c)(1), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–140, § 1, Feb. 8, 2002, 116 Stat. 12; Pub. L. 107–273, div. A, title II, § 205(e), Nov. 2, 2002, 116 Stat. 1778; Pub. L. 109–181, §§ 1(b), 2(b), Mar. 16, 2006, 120 Stat. 285, 288; Pub. L. 110–403, title II, § 205, Oct. 13, 2008, 122 Stat. 4261; Pub. L. 112–81, div. A, title VIII, § 818(h), Dec. 31, 2011, 125 Stat. 1497; Pub. L. 112–144, title VII, § 717(a)(1)–(3), July 9, 2012, 126 Stat. 1076; Pub. L. 114–154, § 3(2), May 16, 2016, 130 Stat. 387.)
+(Added Pub. L. 98–473, title II, § 1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, § 320104(a), title XXXIII, § 330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, § 5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, § 2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, § 4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, § 2(c)(1), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–140, § 1, Feb. 8, 2002, 116 Stat. 12; Pub. L. 107–273, div. A, title II, § 205(e), Nov. 2, 2002, 116 Stat. 1778; Pub. L. 109–181, §§ 1(b), 2(b), Mar. 16, 2006, 120 Stat. 285, 288; Pub. L. 110–403, title II, § 205, Oct. 13, 2008, 122 Stat. 4261; Pub. L. 112–81, div. A, title VIII, § 818(h), Dec. 31, 2011, 125 Stat. 1497; Pub. L. 112–144, title VII, § 717(a)(1)–(3), July 9, 2012, 126 Stat. 1076; Pub. L. 114–154, § 3(2), May 16, 2016, 130 Stat. 387.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Lanham Act, referred to in subsecs. (d), (f)(1)(B), (3), and (i), also known as the Trademark Act of 1946, is act July 5, 1946, ch. 540, 60 Stat. 427, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Lanham Act, referred to in subsecs. (d), (f)(1)(B), (3), and (i), also known as the Trademark Act of 1946, is act July 5, 1946, ch. 540, 60 Stat. 427, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set out in the Appendix to this title.
 
@@ -1059,33 +1059,33 @@ Another section 2320 was renumbered section 2321 of this title.
 
 **Amendments**
 
-2016—Subsec. (a)(4). Pub. L. 114–154, § 3(2)(A), added par. (4) and struck out former par. (4) which read as follows: “traffics in a counterfeit drug,”.
+2016—Subsec. (a)(4). Pub. L. 114–154, § 3(2)(A), added par. (4) and struck out former par. (4) which read as follows: “traffics in a counterfeit drug,”.
 
-Subsec. (b)(3). Pub. L. 114–154, § 3(2)(B), substituted “drug that uses a counterfeit mark on or in connection with the drug” for “counterfeit drug” in introductory provisions.
+Subsec. (b)(3). Pub. L. 114–154, § 3(2)(B), substituted “drug that uses a counterfeit mark on or in connection with the drug” for “counterfeit drug” in introductory provisions.
 
-Subsec. (f)(6). Pub. L. 114–154, § 3(2)(C), added par. (6) and struck out former par. (6) which defined “counterfeit drug”.
+Subsec. (f)(6). Pub. L. 114–154, § 3(2)(C), added par. (6) and struck out former par. (6) which defined “counterfeit drug”.
 
-2012—Subsec. (a). Pub. L. 112–144, § 717(a)(1), added par. (4) and substituted “through (4)” for “through (3)” in concluding provisions.
+2012—Subsec. (a). Pub. L. 112–144, § 717(a)(1), added par. (4) and substituted “through (4)” for “through (3)” in concluding provisions.
 
-Subsec. (b)(3). Pub. L. 112–144, § 717(a)(2), inserted “and counterfeit drugs” after “services” in heading and “or counterfeit drug” after “service” in introductory provisions.
+Subsec. (b)(3). Pub. L. 112–144, § 717(a)(2), inserted “and counterfeit drugs” after “services” in heading and “or counterfeit drug” after “service” in introductory provisions.
 
-Subsec. (f)(6). Pub. L. 112–144, § 717(a)(3), added par. (6).
+Subsec. (f)(6). Pub. L. 112–144, § 717(a)(3), added par. (6).
 
 2011—Pub. L. 112–81 amended section generally, adding provisions relating to counterfeit military goods and services.
 
-2008—Subsec. (a). Pub. L. 110–403, § 205(a)(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted “Whoever;” for “Whoever”, realigned margin, and added par. (2).
+2008—Subsec. (a). Pub. L. 110–403, § 205(a)(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted “Whoever;” for “Whoever”, realigned margin, and added par. (2).
 
-Subsec. (b). Pub. L. 110–403, § 205(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to property subject to forfeiture, forfeiture procedures, and restitution.
+Subsec. (b). Pub. L. 110–403, § 205(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to property subject to forfeiture, forfeiture procedures, and restitution.
 
-Subsec. (h). Pub. L. 110–403, § 205(a)(2), added subsec. (h).
+Subsec. (h). Pub. L. 110–403, § 205(a)(2), added subsec. (h).
 
-2006—Subsec. (a). Pub. L. 109–181, § 1(b)(1), inserted “, or intentionally traffics or attempts to traffic in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,” after “such goods or services”.
+2006—Subsec. (a). Pub. L. 109–181, § 1(b)(1), inserted “, or intentionally traffics or attempts to traffic in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,” after “such goods or services”.
 
-Subsec. (b). Pub. L. 109–181, § 1(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon a determination by a preponderance of the evidence that any articles in the possession of a defendant in a prosecution under this section bear counterfeit marks, the United States may obtain an order for the destruction of such articles.”
+Subsec. (b). Pub. L. 109–181, § 1(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon a determination by a preponderance of the evidence that any articles in the possession of a defendant in a prosecution under this section bear counterfeit marks, the United States may obtain an order for the destruction of such articles.”
 
-Subsec. (e)(1). Pub. L. 109–181, § 1(b)(3)(B), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “but such term does not include any mark or designation used in connection with goods or services of which the manufacturer or producer was, at the time of the manufacture or production in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;”.
+Subsec. (e)(1). Pub. L. 109–181, § 1(b)(3)(B), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “but such term does not include any mark or designation used in connection with goods or services of which the manufacturer or producer was, at the time of the manufacture or production in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;”.
 
-Subsec. (e)(1)(A). Pub. L. 109–181, § 1(b)(3)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “a spurious mark—
+Subsec. (e)(1)(A). Pub. L. 109–181, § 1(b)(3)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “a spurious mark—
 
 “(i) that is used in connection with trafficking in goods or services;
 
@@ -1093,37 +1093,37 @@ Subsec. (e)(1)(A). Pub. L. 109–181, § 1(b)(3)(A), added subpar. (A) and str
 
 “(iii) the use of which is likely to cause confusion, to cause mistake, or to deceive; or”.
 
-Subsec. (e)(2). Pub. L. 109–181, § 2(b)(1), added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic’ means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent so to transport, transfer, or dispose of; and”.
+Subsec. (e)(2). Pub. L. 109–181, § 2(b)(1), added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic’ means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent so to transport, transfer, or dispose of; and”.
 
-Subsec. (e)(3), (4). Pub. L. 109–181, § 2(b)(2), (3), added par. (3) and redesignated former par. (3) as (4).
+Subsec. (e)(3), (4). Pub. L. 109–181, § 2(b)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-Subsecs. (f), (g). Pub. L. 109–181, § 1(b)(4), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 109–181, § 1(b)(4), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 2002—Subsec. (e)(1)(B). Pub. L. 107–140 substituted “section 220506 of title 36” for “section 220706 of title 36”.
 
-Subsec. (f). Pub. L. 107–273, § 205(e), designated existing provisions as par. (1), substituted “this title” for “title 18” wherever appearing, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
+Subsec. (f). Pub. L. 107–273, § 205(e), designated existing provisions as par. (1), substituted “this title” for “title 18” wherever appearing, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
 
-1998—Subsec. (e)(1)(B). Pub. L. 105–225, § 4(b)(1), as amended by Pub. L. 105–354, § 2(c)(1), substituted “section 220706 of title 36” for “section 110 of the Olympic Charter Act”.
+1998—Subsec. (e)(1)(B). Pub. L. 105–225, § 4(b)(1), as amended by Pub. L. 105–354, § 2(c)(1), substituted “section 220706 of title 36” for “section 110 of the Olympic Charter Act”.
 
-Subsec. (e)(2). Pub. L. 105–225, § 4(b)(2), as amended by Pub. L. 105–354, § 2(c)(1), inserted “and” after semicolon at end.
+Subsec. (e)(2). Pub. L. 105–225, § 4(b)(2), as amended by Pub. L. 105–354, § 2(c)(1), inserted “and” after semicolon at end.
 
-Subsec. (e)(3). Pub. L. 105–225, § 4(b)(3), as amended by Pub. L. 105–354, § 2(c)(1), substituted a period for “; and” at end.
+Subsec. (e)(3). Pub. L. 105–225, § 4(b)(3), as amended by Pub. L. 105–354, § 2(c)(1), substituted a period for “; and” at end.
 
-Subsec. (e)(4). Pub. L. 105–225, § 4(b)(4), as amended by Pub. L. 105–354, § 2(c)(1), struck out par. (4) which read as follows: “the term ‘Olympic Charter Act’ means the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 371 et seq.).”
+Subsec. (e)(4). Pub. L. 105–225, § 4(b)(4), as amended by Pub. L. 105–354, § 2(c)(1), struck out par. (4) which read as follows: “the term ‘Olympic Charter Act’ means the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 371 et seq.).”
 
 1997—Subsecs. (d) to (f). Pub. L. 105–147 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
 1996—Subsec. (e). Pub. L. 104–153 added subsec. (e).
 
-1994—Pub. L. 103–322, § 330016(1)(U), which directed the amendment of this section by striking “not more than $250,000” and inserting “under this title”, could not be executed because the phrase “not more than $250,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, § 320104(a). See below.
+1994—Pub. L. 103–322, § 330016(1)(U), which directed the amendment of this section by striking “not more than $250,000” and inserting “under this title”, could not be executed because the phrase “not more than $250,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, § 320104(a). See below.
 
-Subsec. (a). Pub. L. 103–322, § 320104(a), in first sentence, substituted “$2,000,000 or imprisoned not more than 10 years” for “$250,000 or imprisoned not more than five years” and “$5,000,000” for “$1,000,000”, and in second sentence, substituted “$5,000,000 or imprisoned not more than 20 years” for “$1,000,000 or imprisoned not more than fifteen years” and “$15,000,000” for “$5,000,000”.
+Subsec. (a). Pub. L. 103–322, § 320104(a), in first sentence, substituted “$2,000,000 or imprisoned not more than 10 years” for “$250,000 or imprisoned not more than five years” and “$5,000,000” for “$1,000,000”, and in second sentence, substituted “$5,000,000 or imprisoned not more than 20 years” for “$1,000,000 or imprisoned not more than fifteen years” and “$15,000,000” for “$5,000,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–354, § 2(c), Nov. 3, 1998, 112 Stat. 3244, provided that the amendment made by section 2(c) is effective Aug. 12, 1998.
+Pub. L. 105–354, § 2(c), Nov. 3, 1998, 112 Stat. 3244, provided that the amendment made by section 2(c) is effective Aug. 12, 1998.
 
 **Transfer of Functions**
 
@@ -1131,11 +1131,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 **Priority Given to Certain Investigations and Prosecutions**
 
-Pub. L. 112–144, title VII, § 717(a)(4), July 9, 2012, 126 Stat. 1076, provided that: “The Attorney General shall give increased priority to efforts to investigate and prosecute offenses under section 2320 of title 18, United States Code, that involve counterfeit drugs.”
+Pub. L. 112–144, title VII, § 717(a)(4), July 9, 2012, 126 Stat. 1076, provided that: “The Attorney General shall give increased priority to efforts to investigate and prosecute offenses under section 2320 of title 18, United States Code, that involve counterfeit drugs.”
 
 **Findings**
 
-Pub. L. 109–181, § 1(a)(2), Mar. 16, 2006, 120 Stat. 285, provided that:
+Pub. L. 109–181, § 1(a)(2), Mar. 16, 2006, 120 Stat. 285, provided that:
 
 > “The Congress finds that—
 
@@ -1153,7 +1153,7 @@ Pub. L. 109–181, § 1(a)(2), Mar. 16, 2006, 120 Stat. 285, provided that:
 
 > **“(G)** strong domestic criminal remedies against counterfeiting will permit the United States to seek stronger anticounterfeiting provisions in bilateral and international agreements with trading partners.”
 
-## § 2321. Trafficking in certain motor vehicles or motor vehicle parts
+## § 2321. Trafficking in certain motor vehicles or motor vehicle parts
 
 **(a)** Whoever buys, receives, possesses, or obtains control of, with intent to sell or otherwise dispose of, a motor vehicle or motor vehicle part, knowing that an identification number for such motor vehicle or part has been removed, obliterated, tampered with, or altered, shall be fined under this title or imprisoned not more than ten years, or both.
 
@@ -1165,7 +1165,7 @@ Pub. L. 109–181, § 1(a)(2), Mar. 16, 2006, 120 Stat. 285, provided that:
 
 **(c)** As used in this section, the terms “identification number” and “motor vehicle” have the meaning given those terms in section 511 of this title.
 
-(Added Pub. L. 98–547, title II, § 204(a), Oct. 25, 1984, 98 Stat. 2770, § 2320; renumbered § 2321, Pub. L. 99–646, § 42(a), Nov. 10, 1986, 100 Stat. 3601; amended Pub. L. 103–322, title XXXIII, § 330016(1)(N), Sept. 13, 1994, 108 Stat. 2148.)
+(Added Pub. L. 98–547, title II, § 204(a), Oct. 25, 1984, 98 Stat. 2770, § 2320; renumbered § 2321, Pub. L. 99–646, § 42(a), Nov. 10, 1986, 100 Stat. 3601; amended Pub. L. 103–322, title XXXIII, § 330016(1)(N), Sept. 13, 1994, 108 Stat. 2148.)
 
 **Editorial Notes**
 
@@ -1173,7 +1173,7 @@ Pub. L. 109–181, § 1(a)(2), Mar. 16, 2006, 120 Stat. 285, provided that:
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $20,000”.
 
-## § 2322. Chop shops
+## § 2322. Chop shops
 
 **(a) In General.—**
 
@@ -1183,9 +1183,9 @@ Pub. L. 109–181, § 1(a)(2), Mar. 16, 2006, 120 Stat. 285, provided that:
 
 **(b) Definition.—** For purposes of this section, the term “chop shop” means any building, lot, facility, or other structure or premise where one or more persons engage in receiving, concealing, destroying, disassembling, dismantling, reassembling, or storing any passenger motor vehicle or passenger motor vehicle part which has been unlawfully obtained in order to alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate, or remove the identity, including the vehicle identification number or derivative thereof, of such vehicle or vehicle part and to distribute, sell, or dispose of such vehicle or vehicle part in interstate or foreign commerce.
 
-(Added Pub. L. 102–519, title I, § 105(a), Oct. 25, 1992, 106 Stat. 3385.)
+(Added Pub. L. 102–519, title I, § 105(a), Oct. 25, 1992, 106 Stat. 3385.)
 
-## § 2323. Forfeiture, destruction, and restitution
+## § 2323. Forfeiture, destruction, and restitution
 
 **(a) Civil Forfeiture.—**
 
@@ -1215,4 +1215,4 @@ Pub. L. 109–181, § 1(a)(2), Mar. 16, 2006, 120 Stat. 285, provided that:
 
 **(c) Restitution.—** When a person is convicted of an offense under section 506 of title 17 or section 2318, 2319, 2319A, 2319B, or 2320, or chapter 90, of this title, the court, pursuant to sections 3556, 3663A, and 3664 of this title, shall order the person to pay restitution to any victim of the offense as an offense against property referred to in section 3663A(c)(1)(A)(ii) of this title.
 
-(Added Pub. L. 110–403, title II, § 206(a), Oct. 13, 2008, 122 Stat. 4262.)
+(Added Pub. L. 110–403, title II, § 206(a), Oct. 13, 2008, 122 Stat. 4262.)

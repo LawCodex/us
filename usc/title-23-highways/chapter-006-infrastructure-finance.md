@@ -23,9 +23,9 @@ This chapter, consisting of sections 601 to 610 of this title, was previously se
 
 **Amendments**
 
-2021—Pub. L. 117–58, div. G, title X, § 71001(a)(2), Nov. 15, 2021, 135 Stat. 1320, added item 611.
+2021—Pub. L. 117–58, div. G, title X, § 71001(a)(2), Nov. 15, 2021, 135 Stat. 1320, added item 611.
 
-## § 601. Generally applicable provisions
+## § 601. Generally applicable provisions
 
 **(a) Definitions.—** The following definitions apply to sections 601 through 609:
 
@@ -141,9 +141,9 @@ This chapter, consisting of sections 601 to 610 of this title, was previously se
 
 **(i)** that—
 
-**(I)** is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(4)(G)(v) 1
+**(I)** is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(4)(G)(v) 1
 
-<sup>1</sup>  So in original. Probably should be “section 5302(4)(G)(vi)”.
+<sup>1</sup> So in original. Probably should be “section 5302(4)(G)(vi)”.
 
 of title 49, and related infrastructure; or
 
@@ -213,51 +213,51 @@ of title 49, and related infrastructure; or
 
 **(b) Treatment of Chapter.—** For purposes of this title, this chapter shall be treated as being part of chapter 1.
 
-(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 241, § 181; renumbered § 601 and amended Pub. L. 109–59, title I, §§ 1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, § 4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, § 101(r), June 6, 2008, 122 Stat. 1577; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 607; Pub. L. 114–94, div. A, title II, § 2001(a), Dec. 4, 2015, 129 Stat. 1439; Pub. L. 117–58, div. A, title II, § 12001(a), div. C, § 30001(b)(1), Nov. 15, 2021, 135 Stat. 617, 890.)
+(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 241, § 181; renumbered § 601 and amended Pub. L. 109–59, title I, §§ 1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005, 119 Stat. 1239, 1246, 1247; Pub. L. 109–291, § 4(b)(6), Sept. 29, 2006, 120 Stat. 1338; Pub. L. 110–244, title I, § 101(r), June 6, 2008, 122 Stat. 1577; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 607; Pub. L. 114–94, div. A, title II, § 2001(a), Dec. 4, 2015, 129 Stat. 1439; Pub. L. 117–58, div. A, title II, § 12001(a), div. C, § 30001(b)(1), Nov. 15, 2021, 135 Stat. 617, 890.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in subsec. (a)(5), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(5), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(5), is set out in Title 26, Internal Revenue Code.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(10)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(10)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (a)(20)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a)(20)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 **Amendments**
 
-2021—Subsec. (a)(10)(E). Pub. L. 117–58, § 12001(a)(1), substituted “5 years” for “3 years”.
+2021—Subsec. (a)(10)(E). Pub. L. 117–58, § 12001(a)(1), substituted “5 years” for “3 years”.
 
-Subsec. (a)(12)(E). Pub. L. 117–58, § 30001(b)(1), substituted “section 5302(4)(G)(v)” for “section 5302(3)(G)(v)”.
+Subsec. (a)(12)(E). Pub. L. 117–58, § 30001(b)(1), substituted “section 5302(4)(G)(v)” for “section 5302(3)(G)(v)”.
 
-Pub. L. 117–58, § 12001(a)(2)(A), added subpar. (E) and struck out former subpar. (E) which read as follows: “a project to improve or construct public infrastructure that is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(3)(G)(v) of title 49, and related infrastructure; and”.
+Pub. L. 117–58, § 12001(a)(2)(A), added subpar. (E) and struck out former subpar. (E) which read as follows: “a project to improve or construct public infrastructure that is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(3)(G)(v) of title 49, and related infrastructure; and”.
 
-Subsec. (a)(12)(G), (H). Pub. L. 117–58, § 12001(a)(2)(B), (C), added subpars. (G) and (H).
+Subsec. (a)(12)(G), (H). Pub. L. 117–58, § 12001(a)(2)(B), (C), added subpars. (G) and (H).
 
-2015—Subsec. (a). Pub. L. 114–94, § 2001(a)(1), in introductory provisions, substituted “The” for “In this chapter, the” and inserted “to sections 601 through 609” after “apply”.
+2015—Subsec. (a). Pub. L. 114–94, § 2001(a)(1), in introductory provisions, substituted “The” for “In this chapter, the” and inserted “to sections 601 through 609” after “apply”.
 
-Subsec. (a)(2)(D). Pub. L. 114–94, § 2001(a)(2), added subpar. (D).
+Subsec. (a)(2)(D). Pub. L. 114–94, § 2001(a)(2), added subpar. (D).
 
-Subsec. (a)(3). Pub. L. 114–94, § 2001(a)(3), substituted “the TIFIA program” for “this chapter”.
+Subsec. (a)(3). Pub. L. 114–94, § 2001(a)(3), substituted “the TIFIA program” for “this chapter”.
 
-Subsec. (a)(10). Pub. L. 114–94, § 2001(a)(4)(A), inserted heading and introductory provisions and struck out former heading and introductory provisions. Prior to amendment, introductory provisions read as follows: “The term ‘master credit agreement’ means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—”.
+Subsec. (a)(10). Pub. L. 114–94, § 2001(a)(4)(A), inserted heading and introductory provisions and struck out former heading and introductory provisions. Prior to amendment, introductory provisions read as follows: “The term ‘master credit agreement’ means an agreement to extend credit assistance for a program of projects secured by a common security pledge (which shall receive an investment grade rating from a rating agency), or for a single project covered under section 602(b)(2) that would—”.
 
-Subsec. (a)(10)(A). Pub. L. 114–94, § 2001(a)(4)(B), substituted “subject to—” for “subject to the availability of future funds being made available to carry out this chapter;” and added cls. (i) and (ii).
+Subsec. (a)(10)(A). Pub. L. 114–94, § 2001(a)(4)(B), substituted “subject to—” for “subject to the availability of future funds being made available to carry out this chapter;” and added cls. (i) and (ii).
 
-Subsec. (a)(10)(D)(ii). Pub. L. 114–94, § 2001(a)(4)(C)(ii), added cl. (ii). Former cl. (ii) redesignated (iii).
+Subsec. (a)(10)(D)(ii). Pub. L. 114–94, § 2001(a)(4)(C)(ii), added cl. (ii). Former cl. (ii) redesignated (iii).
 
-Subsec. (a)(10)(D)(iii). Pub. L. 114–94, § 2001(a)(4)(C)(i), (iii), redesignated cl. (ii) as (iii) and substituted “under the TIFIA program, including sections 602(c) and 603(b)(1)” for “in section 602(c)”. Former cl. (iii) redesignated (iv).
+Subsec. (a)(10)(D)(iii). Pub. L. 114–94, § 2001(a)(4)(C)(i), (iii), redesignated cl. (ii) as (iii) and substituted “under the TIFIA program, including sections 602(c) and 603(b)(1)” for “in section 602(c)”. Former cl. (iii) redesignated (iv).
 
-Subsec. (a)(10)(D)(iv). Pub. L. 114–94, § 2001(a)(4)(C)(i), (iv), redesignated cl. (iii) as (iv) and substituted “the TIFIA program” for “this chapter”.
+Subsec. (a)(10)(D)(iv). Pub. L. 114–94, § 2001(a)(4)(C)(i), (iv), redesignated cl. (iii) as (iv) and substituted “the TIFIA program” for “this chapter”.
 
-Subsec. (a)(12)(E), (F). Pub. L. 114–94, § 2001(a)(5), added subpars. (E) and (F).
+Subsec. (a)(12)(E), (F). Pub. L. 114–94, § 2001(a)(5), added subpars. (E) and (F).
 
-Subsec. (a)(15). Pub. L. 114–94, § 2001(a)(6), substituted “means a surface transportation infrastructure project located in an area that is outside of an urbanized area with a population greater than 150,000 individuals, as determined by the Bureau of the Census.” for “means a surface transportation infrastructure project located in any area other than a city with a population of more than 250,000 inhabitants within the city limits.”
+Subsec. (a)(15). Pub. L. 114–94, § 2001(a)(6), substituted “means a surface transportation infrastructure project located in an area that is outside of an urbanized area with a population greater than 150,000 individuals, as determined by the Bureau of the Census.” for “means a surface transportation infrastructure project located in any area other than a city with a population of more than 250,000 inhabitants within the city limits.”
 
-Subsec. (a)(16) to (22). Pub. L. 114–94, § 2001(a)(7)–(10), added pars. (16) and (19), redesignated former pars. (16), (17), (18), (19), and (20) as pars. (17), (18), (20), (21), and (22), respectively, and inserted “established under sections 602 through 609” after “Department” in par. (22).
+Subsec. (a)(16) to (22). Pub. L. 114–94, § 2001(a)(7)–(10), added pars. (16) and (19), redesignated former pars. (16), (17), (18), (19), and (20) as pars. (17), (18), (20), (21), and (22), respectively, and inserted “established under sections 602 through 609” after “Department” in par. (22).
 
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to generally applicable provisions.
 
@@ -265,25 +265,25 @@ Subsec. (a)(16) to (22). Pub. L. 114–94, § 2001(a)(7)–(10), added pars. (
 
 2006—Subsec. (a)(10). Pub. L. 109–291, which directed amendment of section 181(11) of this title by substituting “registered with the Securities and Exchange Commission as a nationally recognized statistical rating organization, as that term is defined in section 3(a) of the Securities Exchange Act of 1934” for “identified by the Securities and Exchange Commission as a nationally recognized statistical rating organization”, was executed to subsec. (a)(10) of this section by making the substitution for “identified by the Securities and Exchange Commission as a Nationally Recognized Statistical Rating Organization” to reflect the probable intent of Congress and the amendment by Pub. L. 109–59. See 2005 Amendment notes below.
 
-2005—Pub. L. 109–59, § 1602(d), renumbered section 181 of this title as this section.
+2005—Pub. L. 109–59, § 1602(d), renumbered section 181 of this title as this section.
 
-Pub. L. 109–59, § 1602(b)(1), (5), substituted “Generally applicable provisions” for “Definitions” in section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “In this chapter” for “In this subchapter” in introductory provisions, “this chapter” for “this subchapter” in par. (2), “604” for “184” in par. (5), “603” for “183” in par. (11), and added subsec. (b).
+Pub. L. 109–59, § 1602(b)(1), (5), substituted “Generally applicable provisions” for “Definitions” in section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “In this chapter” for “In this subchapter” in introductory provisions, “this chapter” for “this subchapter” in par. (2), “604” for “184” in par. (5), “603” for “183” in par. (11), and added subsec. (b).
 
-Par (3). Pub. L. 109–59, § 1601(a)(1), struck out “category” after “rating” and “offered into the capital markets” after “obligations”.
+Par (3). Pub. L. 109–59, § 1601(a)(1), struck out “category” after “rating” and “offered into the capital markets” after “obligations”.
 
-Par. (7). Pub. L. 109–59, § 1601(a)(2), redesignated par. (8) as (7) and struck out heading and text of former par. (7). Text read as follows: “The term ‘local servicer’ means—
+Par. (7). Pub. L. 109–59, § 1601(a)(2), redesignated par. (8) as (7) and struck out heading and text of former par. (7). Text read as follows: “The term ‘local servicer’ means—
 
 “(A) a State infrastructure bank established under this title; or
 
 “(B) a State or local government or any agency of a State or local government that is responsible for servicing a Federal credit instrument on behalf of the Secretary.”
 
-Par. (8). Pub. L. 109–59, § 1601(a)(2), (3), redesignated par. (9) as (8), substituted semicolon for period at end of subpar. (B), added subpar. (D), and struck out former subpar. (D) which read as follows: “a project for publicly owned intermodal surface freight transfer facilities, other than seaports and airports, if the facilities are located on or adjacent to National Highway System routes or connections to the National Highway System.” Former par. (8) redesignated (7).
+Par. (8). Pub. L. 109–59, § 1601(a)(2), (3), redesignated par. (9) as (8), substituted semicolon for period at end of subpar. (B), added subpar. (D), and struck out former subpar. (D) which read as follows: “a project for publicly owned intermodal surface freight transfer facilities, other than seaports and airports, if the facilities are located on or adjacent to National Highway System routes or connections to the National Highway System.” Former par. (8) redesignated (7).
 
-Par. (9). Pub. L. 109–59, § 1601(a)(2), redesignated par. (10) as (9). Former par. (9) redesignated (8).
+Par. (9). Pub. L. 109–59, § 1601(a)(2), redesignated par. (10) as (9). Former par. (9) redesignated (8).
 
-Par. (10). Pub. L. 109–59, § 1601(a)(2), (4), redesignated par. (11) as (10) and substituted “credit” for “bond”. Former par. (10) redesignated (9).
+Par. (10). Pub. L. 109–59, § 1601(a)(2), (4), redesignated par. (11) as (10) and substituted “credit” for “bond”. Former par. (10) redesignated (9).
 
-Pars. (11) to (15). Pub. L. 109–59, § 1601(a)(2), redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
+Pars. (11) to (15). Pub. L. 109–59, § 1601(a)(2), redesignated pars. (12) to (15) as (11) to (14), respectively. Former par. (11) redesignated (10).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -301,7 +301,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **Value for Money Analysis**
 
-Pub. L. 117–58, div. G, title VII, § 70701, Nov. 15, 2021, 135 Stat. 1286, provided that:
+Pub. L. 117–58, div. G, title VII, § 70701, Nov. 15, 2021, 135 Stat. 1286, provided that:
 
 > **“(a) In General.—** Notwithstanding any other provision of law, in the case of a project described in subsection (b), the entity carrying out the project shall, during the planning and project development process and prior to signing any Project Development Agreement, conduct a value for money analysis or comparable analysis of the project, which shall include an evaluation of—
 
@@ -375,7 +375,7 @@ Pub. L. 117–58, div. G, title VII, § 70701, Nov. 15, 2021, 135 Stat. 1286, 
 
 **Regional Infrastructure Accelerator Demonstration Program**
 
-Pub. L. 114–94, div. A, title I, § 1441, Dec. 4, 2015, 129 Stat. 1435, provided that:
+Pub. L. 114–94, div. A, title I, § 1441, Dec. 4, 2015, 129 Stat. 1435, provided that:
 
 > **“(a) In General.—** The Secretary [of Transportation] shall establish a regional infrastructure demonstration program (referred to in this section as the ‘program’) to assist entities in developing improved infrastructure priorities and financing strategies for the accelerated development of a project that is eligible for funding under the TIFIA program under chapter 6 of title 23, United States Code.
 
@@ -417,7 +417,7 @@ Pub. L. 114–94, div. A, title I, § 1441, Dec. 4, 2015, 129 Stat. 1435, prov
 
 **Congressional Findings**
 
-Pub. L. 105–178, title I, § 1502, June 9, 1998, 112 Stat. 241, provided that:
+Pub. L. 105–178, title I, § 1502, June 9, 1998, 112 Stat. 241, provided that:
 
 > “Congress finds that—
 
@@ -433,7 +433,7 @@ Pub. L. 105–178, title I, § 1502, June 9, 1998, 112 Stat. 241, provided tha
 
 **State Infrastructure Bank Pilot Programs**
 
-Pub. L. 105–178, title I, § 1511, June 9, 1998, 112 Stat. 251, as amended by Pub. L. 107–117, div. B, § 1108, Jan. 10, 2002, 115 Stat. 2332, provided that:
+Pub. L. 105–178, title I, § 1511, June 9, 1998, 112 Stat. 251, as amended by Pub. L. 107–117, div. B, § 1108, Jan. 10, 2002, 115 Stat. 2332, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -563,7 +563,7 @@ Pub. L. 105–178, title I, § 1511, June 9, 1998, 112 Stat. 251, as amended b
 
 > **“(2) Non-federal funds.—** The limitation described in paragraph (1) shall not apply to non-Federal funds.”
 
-Pub. L. 104–59, title III, § 350, Nov. 28, 1995, 109 Stat. 618, provided that:
+Pub. L. 104–59, title III, § 350, Nov. 28, 1995, 109 Stat. 618, provided that:
 
 > **“(a) In General.—**
 
@@ -667,7 +667,7 @@ Pub. L. 104–59, title III, § 350, Nov. 28, 1995, 109 Stat. 618, provided th
 
 > **“(4) State.—** The term ‘State’ has the meaning such term has under section 101 of title 23, United States Code.”
 
-## § 602. Determination of eligibility and project selection
+## § 602. Determination of eligibility and project selection
 
 **(a) Eligibility.—**
 
@@ -807,97 +807,97 @@ Pub. L. 104–59, title III, § 350, Nov. 28, 1995, 109 Stat. 618, provided th
 
 **(e) Development Phase Activities.—** Any credit instrument secured under the TIFIA program may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(2)(A).
 
-(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 243, § 182; renumbered § 602 and amended Pub. L. 109–59, title I, §§ 1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 611; Pub. L. 114–94, div. A, title II, § 2001(b), Dec. 4, 2015, 129 Stat. 1440; Pub. L. 117–58, div. A, title I, § 11508(d)(3), title II, §§ 12001(b)–(d), (g), 12002(a), Nov. 15, 2021, 135 Stat. 588, 618, 619, 622.)
+(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 243, § 182; renumbered § 602 and amended Pub. L. 109–59, title I, §§ 1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 611; Pub. L. 114–94, div. A, title II, § 2001(b), Dec. 4, 2015, 129 Stat. 1440; Pub. L. 117–58, div. A, title I, § 11508(d)(3), title II, §§ 12001(b)–(d), (g), 12002(a), Nov. 15, 2021, 135 Stat. 588, 618, 619, 622.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in subsec. (c)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (c)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(B), (2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(B), (2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(1)(C), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, and which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(1)(C), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, and which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 **Amendments**
 
-2021—Subsec. (a)(2)(A)(iv). Pub. L. 117–58, § 12001(b)(1), substituted “an investment-grade rating” for “a rating” and “$150,000,000” for “$75,000,000”.
+2021—Subsec. (a)(2)(A)(iv). Pub. L. 117–58, § 12001(b)(1), substituted “an investment-grade rating” for “a rating” and “$150,000,000” for “$75,000,000”.
 
-Subsec. (a)(2)(B). Pub. L. 117–58, § 12001(b)(2), substituted “is senior debt” for “is the senior debt” and “total amount of other senior debt and the Federal credit instrument is less than $150,000,000” for “credit instrument is for an amount less than $75,000,000”.
+Subsec. (a)(2)(B). Pub. L. 117–58, § 12001(b)(2), substituted “is senior debt” for “is the senior debt” and “total amount of other senior debt and the Federal credit instrument is less than $150,000,000” for “credit instrument is for an amount less than $75,000,000”.
 
-Subsec. (a)(11). Pub. L. 117–58, § 11508(d)(3), added par. (11).
+Subsec. (a)(11). Pub. L. 117–58, § 11508(d)(3), added par. (11).
 
-Subsec. (c)(1). Pub. L. 117–58, § 12001(c), substituted “the requirements of section 5333(a) of title 49 for rail projects, and the requirements of sections 47112(b) and 50101 of title 49 for airport-related projects,” for “and the requirements of section 5333(a) of title 49 for rail projects,” in introductory provisions.
+Subsec. (c)(1). Pub. L. 117–58, § 12001(c), substituted “the requirements of section 5333(a) of title 49 for rail projects, and the requirements of sections 47112(b) and 50101 of title 49 for airport-related projects,” for “and the requirements of section 5333(a) of title 49 for rail projects,” in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 117–58, § 12002(a), added par. (3).
+Subsec. (c)(3). Pub. L. 117–58, § 12002(a), added par. (3).
 
-Subsec. (d). Pub. L. 117–58, § 12001(d), added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and, in par. (3), substituted “paragraph (2)” for “paragraph (1)”.
+Subsec. (d). Pub. L. 117–58, § 12001(d), added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and, in par. (3), substituted “paragraph (2)” for “paragraph (1)”.
 
-Subsec. (e). Pub. L. 117–58, § 12001(g), substituted “section 601(a)(2)(A)” for “section 601(a)(1)(A)”.
+Subsec. (e). Pub. L. 117–58, § 12001(g), substituted “section 601(a)(2)(A)” for “section 601(a)(1)(A)”.
 
-2015—Subsec. (a)(1), (2)(A), (3). Pub. L. 114–94, § 2001(b)(1)(A)–(C), substituted “the TIFIA program” for “this chapter”.
+2015—Subsec. (a)(1), (2)(A), (3). Pub. L. 114–94, § 2001(b)(1)(A)–(C), substituted “the TIFIA program” for “this chapter”.
 
-Subsec. (a)(5). Pub. L. 114–94, § 2001(b)(1)(D)(i), substituted “Eligible project cost parameters” for “Eligible project costs” in heading.
+Subsec. (a)(5). Pub. L. 114–94, § 2001(b)(1)(D)(i), substituted “Eligible project cost parameters” for “Eligible project costs” in heading.
 
-Subsec. (a)(5)(A). Pub. L. 114–94, § 2001(b)(1)(D)(ii)(I), substituted “subparagraph (B), a project under the TIFIA program” for “subparagraph (B), to be eligible for assistance under this chapter, a project” in introductory provisions.
+Subsec. (a)(5)(A). Pub. L. 114–94, § 2001(b)(1)(D)(ii)(I), substituted “subparagraph (B), a project under the TIFIA program” for “subparagraph (B), to be eligible for assistance under this chapter, a project” in introductory provisions.
 
-Subsec. (a)(5)(A)(i). Pub. L. 114–94, § 2001(b)(1)(D)(ii)(II), added cl. (i) and struck out former cl. (i) which read as follows:
+Subsec. (a)(5)(A)(i). Pub. L. 114–94, § 2001(b)(1)(D)(ii)(II), added cl. (i) and struck out former cl. (i) which read as follows:
 
 “(I) $50,000,000; or
 
 “(II) in the case of a rural infrastructure project, $25,000,000; and”.
 
-Subsec. (a)(5)(A)(ii). Pub. L. 114–94, § 2001(b)(1)(D)(ii)(III), struck out “assistance” after “highway”.
+Subsec. (a)(5)(A)(ii). Pub. L. 114–94, § 2001(b)(1)(D)(ii)(III), struck out “assistance” after “highway”.
 
-Subsec. (a)(5)(B). Pub. L. 114–94, § 2001(b)(1)(D)(iii), substituted “Exceptions” for “Intelligent transportation system projects” in heading, designated existing provisions as cl. (i), inserted cl. (i) heading, and added cls. (ii) to (iv).
+Subsec. (a)(5)(B). Pub. L. 114–94, § 2001(b)(1)(D)(iii), substituted “Exceptions” for “Intelligent transportation system projects” in heading, designated existing provisions as cl. (i), inserted cl. (i) heading, and added cls. (ii) to (iv).
 
-Subsec. (a)(9). Pub. L. 114–94, § 2001(b)(1)(E), substituted “the TIFIA program” for “this chapter” in introductory provisions.
+Subsec. (a)(9). Pub. L. 114–94, § 2001(b)(1)(E), substituted “the TIFIA program” for “this chapter” in introductory provisions.
 
-Subsec. (a)(10). Pub. L. 114–94, § 2001(b)(1)(F), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted “Except as provided in subparagraph (B), to be eligible” for “To be eligible”, “the TIFIA program” for “this chapter” in two places, and “no later than” for “not later than”, and added subpar. (B).
+Subsec. (a)(10). Pub. L. 114–94, § 2001(b)(1)(F), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted “Except as provided in subparagraph (B), to be eligible” for “To be eligible”, “the TIFIA program” for “this chapter” in two places, and “no later than” for “not later than”, and added subpar. (B).
 
-Subsec. (b)(2). Pub. L. 114–94, § 2001(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
+Subsec. (b)(2). Pub. L. 114–94, § 2001(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “If the Secretary fully obligates funding to eligible projects in a fiscal year, and adequate funding is not available to fund a credit instrument, a project sponsor of an eligible project may elect to enter into a master credit agreement and wait until the earlier of—
 
 “(A) the following fiscal year; and
 
 “(B) the fiscal year during which additional funds are available to receive credit assistance.”
 
-Subsecs. (c)(1), (e). Pub. L. 114–94, § 2001(b)(3), (4), substituted “the TIFIA program” for “this chapter”.
+Subsecs. (c)(1), (e). Pub. L. 114–94, § 2001(b)(3), (4), substituted “the TIFIA program” for “this chapter”.
 
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to determination of eligibility and project selection, consisting of subsecs. (a) to (c).
 
-2005—Pub. L. 109–59, § 1602(d), renumbered section 182 of this title as this section.
+2005—Pub. L. 109–59, § 1602(d), renumbered section 182 of this title as this section.
 
-Subsec. (a). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
+Subsec. (a). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
+Subsec. (a)(1). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
 
-Pub. L. 109–59, § 1601(b)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The project—
+Pub. L. 109–59, § 1601(b)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The project—
 
 “(A) shall be included in the State transportation plan required under section 135; and
 
 “(B) at such time as an agreement to make available a Federal credit instrument is entered into under this subchapter, shall be included in the approved State transportation improvement program required under section 134.”
 
-Subsec. (a)(2). Pub. L. 109–59, § 1601(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “A State, a local servicer identified under section 185(a), or the entity undertaking the project shall submit a project application to the Secretary.”
+Subsec. (a)(2). Pub. L. 109–59, § 1601(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “A State, a local servicer identified under section 185(a), or the entity undertaking the project shall submit a project application to the Secretary.”
 
-Subsec. (a)(3)(A). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
+Subsec. (a)(3)(A). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
 
-Subsec. (a)(3)(A)(i). Pub. L. 109–59, § 1601(b)(2), substituted “$50,000,000” for “$100,000,000”.
+Subsec. (a)(3)(A)(i). Pub. L. 109–59, § 1601(b)(2), substituted “$50,000,000” for “$100,000,000”.
 
-Subsec. (a)(3)(A)(ii). Pub. L. 109–59, § 1601(b)(3), substituted “33⅓” for “50”.
+Subsec. (a)(3)(A)(ii). Pub. L. 109–59, § 1601(b)(3), substituted “33⅓” for “50”.
 
-Subsec. (a)(3)(B). Pub. L. 109–59, § 1601(b)(4), substituted “$15,000,000” for “$30,000,000”.
+Subsec. (a)(3)(B). Pub. L. 109–59, § 1601(b)(4), substituted “$15,000,000” for “$30,000,000”.
 
-Subsec. (a)(4). Pub. L. 109–59, § 1601(b)(5), substituted “The Federal credit instrument” for “Project financing” and inserted “that also secure the project obligations” before period at end.
+Subsec. (a)(4). Pub. L. 109–59, § 1601(b)(5), substituted “The Federal credit instrument” for “Project financing” and inserted “that also secure the project obligations” before period at end.
 
-Subsec. (b)(1). Pub. L. 109–59, § 1601(c)(1), substituted “eligibility requirements” for “eligibility criteria”.
+Subsec. (b)(1). Pub. L. 109–59, § 1601(c)(1), substituted “eligibility requirements” for “eligibility criteria”.
 
-Subsec. (b)(2)(A)(iii), (iv), (vi). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
+Subsec. (b)(2)(A)(iii), (iv), (vi). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
 
-Subsec. (b)(2)(A)(viii). Pub. L. 109–59, § 1602(b)(2), inserted “and chapter 1” after “this chapter”.
+Subsec. (b)(2)(A)(viii). Pub. L. 109–59, § 1602(b)(2), inserted “and chapter 1” after “this chapter”.
 
-Subsec. (b)(2)(B). Pub. L. 109–59, § 1601(c)(2), inserted “, which may be the Federal credit instrument,” after “obligations”.
+Subsec. (b)(2)(B). Pub. L. 109–59, § 1601(c)(2), inserted “, which may be the Federal credit instrument,” after “obligations”.
 
-Subsec. (c). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
+Subsec. (c). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -907,7 +907,7 @@ Amendment by section 11508(d)(3) of Pub. L. 117–58 only applicable to a public
 
 Amendment by section 12001(b)–(d), (g) of Pub. L. 117–58 effective Oct. 1, 2021, except as otherwise provided, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
-Pub. L. 117–58, div. A, title II, § 12002(b), Nov. 15, 2021, 135 Stat. 622, provided that: “The amendments made by this section [amending this section] shall apply with respect to any agreement for credit assistance entered into on or after the date of enactment of this Act [Nov. 15, 2021].”
+Pub. L. 117–58, div. A, title II, § 12002(b), Nov. 15, 2021, 135 Stat. 622, provided that: “The amendments made by this section [amending this section] shall apply with respect to any agreement for credit assistance entered into on or after the date of enactment of this Act [Nov. 15, 2021].”
 
 **Effective Date of 2015 Amendment**
 
@@ -917,7 +917,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 603. Secured loans
+## § 603. Secured loans
 
 **(a) In General.—**
 
@@ -1117,7 +1117,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **(C) Written notice.—** The Secretary shall provide to an applicant seeking a secured loan under the expedited decision process under this paragraph a written notice informing the applicant whether the Secretary has approved or disapproved the application by not later than 180 days after the date on which the Secretary submits to the applicant a letter indicating that the National Surface Transportation Innovative Finance Bureau has commenced the creditworthiness review of the project.
 
-(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 245, § 183; renumbered § 603 and amended Pub. L. 109–59, title I, §§ 1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, § 2001(c), Dec. 4, 2015, 129 Stat. 1442; Pub. L. 117–58, div. A, title II, § 12001(e), (f), (h), Nov. 15, 2021, 135 Stat. 619.)
+(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 245, § 183; renumbered § 603 and amended Pub. L. 109–59, title I, §§ 1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, § 2001(c), Dec. 4, 2015, 129 Stat. 1442; Pub. L. 117–58, div. A, title II, § 12001(e), (f), (h), Nov. 15, 2021, 135 Stat. 619.)
 
 **Editorial Notes**
 
@@ -1127,59 +1127,59 @@ The date of enactment of the Surface Transportation Reauthorization Act of 2021 
 
 The date of enactment of the FAST Act, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (f)(3)(B)(v), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (f)(3)(B)(v), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
-2021—Subsec. (b)(5)(A). Pub. L. 117–58, § 12001(e)(1), substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in introductory provisions.
+2021—Subsec. (b)(5)(A). Pub. L. 117–58, § 12001(e)(1), substituted “subparagraphs (B) and (C)” for “subparagraph (B)” in introductory provisions.
 
-Subsec. (b)(5)(C). Pub. L. 117–58, § 12001(e)(2), added subpar. (C).
+Subsec. (b)(5)(C). Pub. L. 117–58, § 12001(e)(2), added subpar. (C).
 
-Subsec. (c)(4)(A). Pub. L. 117–58, § 12001(f), designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), any excess” for “Any excess”, and added cl. (ii).
+Subsec. (c)(4)(A). Pub. L. 117–58, § 12001(f), designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), any excess” for “Any excess”, and added cl. (ii).
 
-Subsec. (f)(3). Pub. L. 117–58, § 12001(h), added par. (3).
+Subsec. (f)(3). Pub. L. 117–58, § 12001(h), added par. (3).
 
-2015—Subsec. (a)(2). Pub. L. 114–94, § 2001(c)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project.”
+2015—Subsec. (a)(2). Pub. L. 114–94, § 2001(c)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project.”
 
-Subsec. (b)(2). Pub. L. 114–94, § 2001(c)(2)(A), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted “Except as provided in subparagraph (B), the amount of” for “The amount of”, and added subpar. (B).
+Subsec. (b)(2). Pub. L. 114–94, § 2001(c)(2)(A), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted “Except as provided in subparagraph (B), the amount of” for “The amount of”, and added subpar. (B).
 
-Subsec. (b)(3)(A)(i)(V). Pub. L. 114–94, § 2001(c)(2)(B), added subcl. (V).
+Subsec. (b)(3)(A)(i)(V). Pub. L. 114–94, § 2001(c)(2)(B), added subcl. (V).
 
-Subsec. (b)(4)(B)(i). Pub. L. 114–94, § 2001(c)(2)(C)(i), substituted “or a rural projects fund under the TIFIA program” for “under this chapter”.
+Subsec. (b)(4)(B)(i). Pub. L. 114–94, § 2001(c)(2)(C)(i), substituted “or a rural projects fund under the TIFIA program” for “under this chapter”.
 
-Subsec. (b)(4)(B)(ii). Pub. L. 114–94, § 2001(c)(2)(C)(ii), inserted “and rural project funds” after “rural infrastructure projects”.
+Subsec. (b)(4)(B)(ii). Pub. L. 114–94, § 2001(c)(2)(C)(ii), inserted “and rural project funds” after “rural infrastructure projects”.
 
-Subsec. (b)(5). Pub. L. 114–94, § 2001(c)(2)(D), designated existing provisions as subpar. (A) and inserted heading, substituted “Except as provided in subparagraph (B), the final” for “The final”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+Subsec. (b)(5). Pub. L. 114–94, § 2001(c)(2)(D), designated existing provisions as subpar. (A) and inserted heading, substituted “Except as provided in subparagraph (B), the final” for “The final”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
 
-Subsec. (b)(8). Pub. L. 114–94, § 2001(c)(2)(E), substituted “the TIFIA program” for “this chapter”.
+Subsec. (b)(8). Pub. L. 114–94, § 2001(c)(2)(E), substituted “the TIFIA program” for “this chapter”.
 
-Subsec. (b)(9). Pub. L. 114–94, § 2001(c)(2)(F), designated existing provisions as subpar. (A) and inserted heading, substituted “The total Federal assistance provided for a project receiving a loan under the TIFIA program” for “The total Federal assistance provided on a project receiving a loan under this chapter”, and added subpar. (B).
+Subsec. (b)(9). Pub. L. 114–94, § 2001(c)(2)(F), designated existing provisions as subpar. (A) and inserted heading, substituted “The total Federal assistance provided for a project receiving a loan under the TIFIA program” for “The total Federal assistance provided on a project receiving a loan under this chapter”, and added subpar. (B).
 
-Subsec. (f). Pub. L. 114–94, § 2001(c)(3), added subsec. (f).
+Subsec. (f). Pub. L. 114–94, § 2001(c)(3), added subsec. (f).
 
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to secured loans.
 
-2005—Pub. L. 109–59, § 1602(d), renumbered section 183 of this title as this section.
+2005—Pub. L. 109–59, § 1602(d), renumbered section 183 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 109–59, § 1601(d)(1), in subpars. (A) and (B) inserted “of any project selected under section 602” after “costs”, added subpar. (C), and struck out concluding provisions which read as follows: “of any project selected under section 182.”
+Subsec. (a)(1). Pub. L. 109–59, § 1601(d)(1), in subpars. (A) and (B) inserted “of any project selected under section 602” after “costs”, added subpar. (C), and struck out concluding provisions which read as follows: “of any project selected under section 182.”
 
-Subsec. (a)(3). Pub. L. 109–59, § 1602(b)(3), substituted “602(b)(2)(B)” for “182(b)(2)(B)”.
+Subsec. (a)(3). Pub. L. 109–59, § 1602(b)(3), substituted “602(b)(2)(B)” for “182(b)(2)(B)”.
 
-Subsec. (a)(4). Pub. L. 109–59, § 1601(d)(2), substituted “The execution” for “The funding” and struck out before period at end “, except that—
+Subsec. (a)(4). Pub. L. 109–59, § 1601(d)(2), substituted “The execution” for “The funding” and struck out before period at end “, except that—
 
 “(A) the Secretary may fund an amount of the secured loan not to exceed the capital reserve subsidy amount determined under paragraph (3) prior to the obligations receiving an investment-grade rating; and
 
 “(B) the Secretary may fund the remaining portion of the secured loan only after the obligations have received an investment-grade rating by at least 1 rating agency”.
 
-Subsec. (b)(2). Pub. L. 109–59, § 1601(d)(3)(A), inserted “the lesser of” before “33 percent” and “or, if the secured loan does not receive an investment grade rating, the amount of the senior project obligations” before period at end.
+Subsec. (b)(2). Pub. L. 109–59, § 1601(d)(3)(A), inserted “the lesser of” before “33 percent” and “or, if the secured loan does not receive an investment grade rating, the amount of the senior project obligations” before period at end.
 
-Subsec. (b)(3)(A)(i). Pub. L. 109–59, § 1601(d)(3)(B), inserted “that also secure the senior project obligations” after “sources”.
+Subsec. (b)(3)(A)(i). Pub. L. 109–59, § 1601(d)(3)(B), inserted “that also secure the senior project obligations” after “sources”.
 
-Subsec. (b)(4). Pub. L. 109–59, § 1601(d)(3)(C), struck out “marketable” before “United States Treasury securities”.
+Subsec. (b)(4). Pub. L. 109–59, § 1601(d)(3)(C), struck out “marketable” before “United States Treasury securities”.
 
-Subsec. (b)(8). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
+Subsec. (b)(8). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
 
-Subsec. (c)(3) to (5). Pub. L. 109–59, § 1601(d)(4), redesignated pars. (4) and (5) as (3) and (4), respectively, in par. (3)(A), struck out “during the 10 years” after “at any time”, in par. (3)(B)(ii), substituted “loan” for “loan beginning not later than 10 years after the date of substantial completion of the project in accordance with paragraph (1)”, and struck out heading and text of former par. (3). Text read as follows: “The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.”
+Subsec. (c)(3) to (5). Pub. L. 109–59, § 1601(d)(4), redesignated pars. (4) and (5) as (3) and (4), respectively, in par. (3)(A), struck out “during the 10 years” after “at any time”, in par. (3)(B)(ii), substituted “loan” for “loan beginning not later than 10 years after the date of substantial completion of the project in accordance with paragraph (1)”, and struck out heading and text of former par. (3). Text read as follows: “The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1195,7 +1195,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 604. Lines of credit
+## § 604. Lines of credit
 
 **(a) In General.—**
 
@@ -1289,7 +1289,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **(B)** to conclude, with full repayment of principal and interest, by the date that is 25 years after the end of the period of availability specified in subsection (b)(6).
 
-(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 247, § 184; renumbered § 604 and amended Pub. L. 109–59, title I, §§ 1601(e), 1602(b)(4), (d), Aug. 10, 2005, 119 Stat. 1241, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 617.)
+(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 247, § 184; renumbered § 604 and amended Pub. L. 109–59, title I, §§ 1601(e), 1602(b)(4), (d), Aug. 10, 2005, 119 Stat. 1241, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 617.)
 
 **Editorial Notes**
 
@@ -1297,31 +1297,31 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to lines of credit.
 
-2005—Pub. L. 109–59, § 1602(d), renumbered section 184 of this title as this section.
+2005—Pub. L. 109–59, § 1602(d), renumbered section 184 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 109–59, § 1602(b)(4)(A), substituted “602” for “182”.
+Subsec. (a)(1). Pub. L. 109–59, § 1602(b)(4)(A), substituted “602” for “182”.
 
-Subsec. (a)(3). Pub. L. 109–59, § 1602(b)(4)(B), substituted “602(b)(2)(B)” for “182(b)(2)(B)”.
+Subsec. (a)(3). Pub. L. 109–59, § 1602(b)(4)(B), substituted “602(b)(2)(B)” for “182(b)(2)(B)”.
 
-Subsec. (b)(2). Pub. L. 109–59, § 1601(e)(1)(A), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
+Subsec. (b)(2). Pub. L. 109–59, § 1601(e)(1)(A), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 
 “(A) Total amount.—The total amount of the line of credit shall not exceed 33 percent of the reasonably anticipated eligible project costs.
 
 “(B) 1-year draws.—The amount drawn in any 1 year shall not exceed 20 percent of the total amount of the line of credit.”
 
-Subsec. (b)(3). Pub. L. 109–59, § 1601(e)(1)(B), substituted “but not including reasonably required financing reserves” for “, any debt service reserve fund, and any other available reserve”.
+Subsec. (b)(3). Pub. L. 109–59, § 1601(e)(1)(B), substituted “but not including reasonably required financing reserves” for “, any debt service reserve fund, and any other available reserve”.
 
-Subsec. (b)(4). Pub. L. 109–59, § 1601(e)(1)(C), struck out “marketable” before “United States Treasury securities” and substituted “date of execution of the line of credit agreement” for “date on which the line of credit is obligated”.
+Subsec. (b)(4). Pub. L. 109–59, § 1601(e)(1)(C), struck out “marketable” before “United States Treasury securities” and substituted “date of execution of the line of credit agreement” for “date on which the line of credit is obligated”.
 
-Subsec. (b)(5)(A)(i). Pub. L. 109–59, § 1601(e)(1)(D), inserted “that also secure the senior project obligations” after “sources”.
+Subsec. (b)(5)(A)(i). Pub. L. 109–59, § 1601(e)(1)(D), inserted “that also secure the senior project obligations” after “sources”.
 
-Subsec. (b)(6). Pub. L. 109–59, § 1601(e)(1)(E), substituted “The full amount of the line of credit, to the extent not drawn upon,” for “The line of credit”.
+Subsec. (b)(6). Pub. L. 109–59, § 1601(e)(1)(E), substituted “The full amount of the line of credit, to the extent not drawn upon,” for “The line of credit”.
 
-Subsec. (b)(10). Pub. L. 109–59, § 1602(b)(4)(C), substituted “603” for “183”.
+Subsec. (b)(10). Pub. L. 109–59, § 1602(b)(4)(C), substituted “603” for “183”.
 
-Subsec. (c)(2). Pub. L. 109–59, § 1601(e)(2)(A), struck out “scheduled” before “repayments”, inserted “be scheduled to” after “shall”, and substituted “to conclude, with full repayment of principal and interest,” for “be fully repaid, with interest,”.
+Subsec. (c)(2). Pub. L. 109–59, § 1601(e)(2)(A), struck out “scheduled” before “repayments”, inserted “be scheduled to” after “shall”, and substituted “to conclude, with full repayment of principal and interest,” for “be fully repaid, with interest,”.
 
-Subsec. (c)(3). Pub. L. 109–59, § 1601(e)(2)(B), struck out heading and text of par. (3). Text read as follows: “The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.”
+Subsec. (c)(3). Pub. L. 109–59, § 1601(e)(2)(B), struck out heading and text of par. (3). Text read as follows: “The sources of funds for scheduled loan repayments under this section shall include tolls, user fees, or other dedicated revenue sources.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1329,7 +1329,7 @@ Subsec. (c)(3). Pub. L. 109–59, § 1601(e)(2)(B), struck out heading and tex
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 605. Program administration
+## § 605. Program administration
 
 **(a) Requirement.—** The Secretary shall establish a uniform system to service the Federal credit instruments made available under the TIFIA program.
 
@@ -1357,7 +1357,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **(2) Release of funds.—** Any funds not used under paragraph (1) in a fiscal year shall be made available on October 1 of the following fiscal year to provide credit assistance to any project under the TIFIA program.
 
-(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 249, § 185; renumbered § 605 and amended Pub. L. 109–59, title I, §§ 1601(f), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1241, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 619; Pub. L. 114–94, div. A, title II, § 2001(d), Dec. 4, 2015, 129 Stat. 1443; Pub. L. 117–58, div. A, title II, § 12001(i)(2), Nov. 15, 2021, 135 Stat. 621.)
+(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 249, § 185; renumbered § 605 and amended Pub. L. 109–59, title I, §§ 1601(f), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1241, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 619; Pub. L. 114–94, div. A, title II, § 2001(d), Dec. 4, 2015, 129 Stat. 1443; Pub. L. 117–58, div. A, title II, § 12001(i)(2), Nov. 15, 2021, 135 Stat. 621.)
 
 **Editorial Notes**
 
@@ -1365,17 +1365,17 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 2021—Subsec. (f)(1). Pub. L. 117–58 substituted “section 608(a)(6)” for “section 608(a)(5)”.
 
-2015—Subsecs. (a), (e). Pub. L. 114–94, § 2001(d)(1), substituted “the TIFIA program” for “this chapter”.
+2015—Subsecs. (a), (e). Pub. L. 114–94, § 2001(d)(1), substituted “the TIFIA program” for “this chapter”.
 
-Subsec. (f). Pub. L. 114–94, § 2001(d)(2), added subsec. (f).
+Subsec. (f). Pub. L. 114–94, § 2001(d)(2), added subsec. (f).
 
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to program administration, consisting of subsecs. (a) to (d).
 
-2005—Pub. L. 109–59, § 1602(d), renumbered section 185 of this title as this section.
+2005—Pub. L. 109–59, § 1602(d), renumbered section 185 of this title as this section.
 
-Pub. L. 109–59, § 1601(f), amended section catchline and text generally, substituting provisions relating to establishment by the Secretary of a uniform system to service the Federal credit instruments made available under this subchapter for provisions authorizing a State to identify a local servicer to assist the Secretary in servicing the Federal credit instrument made available under this subchapter.
+Pub. L. 109–59, § 1601(f), amended section catchline and text generally, substituting provisions relating to establishment by the Secretary of a uniform system to service the Federal credit instruments made available under this subchapter for provisions authorizing a State to identify a local servicer to assist the Secretary in servicing the Federal credit instrument made available under this subchapter.
 
-Subsec. (a). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
+Subsec. (a). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1391,7 +1391,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 606. State and local permits
+## § 606. State and local permits
 
 The provision of credit assistance under the TIFIA program with respect to a project shall not—
 
@@ -1401,7 +1401,7 @@ The provision of credit assistance under the TIFIA program with respect to a pro
 
 **(3)** otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the project.
 
-(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 249, § 186; renumbered § 606 and amended Pub. L. 109–59, title I, § 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 620; Pub. L. 114–94, div. A, title II, § 2001(e), Dec. 4, 2015, 129 Stat. 1444.)
+(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 249, § 186; renumbered § 606 and amended Pub. L. 109–59, title I, § 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 620; Pub. L. 114–94, div. A, title II, § 2001(e), Dec. 4, 2015, 129 Stat. 1444.)
 
 **Editorial Notes**
 
@@ -1417,9 +1417,9 @@ The provision of credit assistance under the TIFIA program with respect to a pro
 
 “(3) otherwise supersede any State or local law (including any regulation) applicable to the construction or operation of the project.”
 
-2005—Pub. L. 109–59, § 1602(d), renumbered section 186 of this title as this section.
+2005—Pub. L. 109–59, § 1602(d), renumbered section 186 of this title as this section.
 
-Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
+Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1431,11 +1431,11 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 607. Regulations
+## § 607. Regulations
 
 The Secretary may promulgate such regulations as the Secretary determines to be appropriate to carry out the TIFIA program.
 
-(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 249, § 187; renumbered § 607 and amended Pub. L. 109–59, title I, § 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 620; Pub. L. 114–94, div. A, title II, § 2001(f), Dec. 4, 2015, 129 Stat. 1444.)
+(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 249, § 187; renumbered § 607 and amended Pub. L. 109–59, title I, § 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 620; Pub. L. 114–94, div. A, title II, § 2001(f), Dec. 4, 2015, 129 Stat. 1444.)
 
 **Editorial Notes**
 
@@ -1445,9 +1445,9 @@ The Secretary may promulgate such regulations as the Secretary determines to be 
 
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows: “The Secretary may issue such regulations as the Secretary determines appropriate to carry out this chapter.”
 
-2005—Pub. L. 109–59, § 1602(d), renumbered section 187 of this title as this section.
+2005—Pub. L. 109–59, § 1602(d), renumbered section 187 of this title as this section.
 
-Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
+Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1459,7 +1459,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 608. Funding
+## § 608. Funding
 
 **(a) Funding.—**
 
@@ -1493,113 +1493,113 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **(2) Availability.—** Amounts made available to carry out the TIFIA program for a fiscal year shall be available for obligation on October 1 of the fiscal year.
 
-(Added and amended Pub. L. 105–178, title I, § 1503(a), (c), June 9, 1998, 112 Stat. 249, § 188; Pub. L. 105–206, title IX, § 9007(a), July 22, 1998, 112 Stat. 849; Pub. L. 108–88, § 5(a)(10), Sept. 30, 2003, 117 Stat. 1115; Pub. L. 108–202, § 5(a)(10), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, § 4(a)(10), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, § 4(a)(10), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, § 4(a)(10), July 30, 2004, 118 Stat. 879; Pub. L. 108–310, § 5(a)(10), Sept. 30, 2004, 118 Stat. 1149; Pub. L. 109–14, § 4(a)(10), May 31, 2005, 119 Stat. 327; Pub. L. 109–20, § 4(a)(10), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, § 4(a)(10), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, § 4(a)(10), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, § 4(a)(10), July 28, 2005, 119 Stat. 413; renumbered § 608 and amended Pub. L. 109–59, title I, §§ 1601(g), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1242, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 620; Pub. L. 114–94, div. A, title II, § 2001(g), Dec. 4, 2015, 129 Stat. 1444; Pub. L. 117–58, div. A, title II, § 12001(i)(1), Nov. 15, 2021, 135 Stat. 620.)
+(Added and amended Pub. L. 105–178, title I, § 1503(a), (c), June 9, 1998, 112 Stat. 249, § 188; Pub. L. 105–206, title IX, § 9007(a), July 22, 1998, 112 Stat. 849; Pub. L. 108–88, § 5(a)(10), Sept. 30, 2003, 117 Stat. 1115; Pub. L. 108–202, § 5(a)(10), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, § 4(a)(10), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, § 4(a)(10), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, § 4(a)(10), July 30, 2004, 118 Stat. 879; Pub. L. 108–310, § 5(a)(10), Sept. 30, 2004, 118 Stat. 1149; Pub. L. 109–14, § 4(a)(10), May 31, 2005, 119 Stat. 327; Pub. L. 109–20, § 4(a)(10), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, § 4(a)(10), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, § 4(a)(10), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, § 4(a)(10), July 28, 2005, 119 Stat. 413; renumbered § 608 and amended Pub. L. 109–59, title I, §§ 1601(g), 1602(b)(5), (d), Aug. 10, 2005, 119 Stat. 1242, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 620; Pub. L. 114–94, div. A, title II, § 2001(g), Dec. 4, 2015, 129 Stat. 1444; Pub. L. 117–58, div. A, title II, § 12001(i)(1), Nov. 15, 2021, 135 Stat. 620.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Surface Transportation Reauthorization Act of 2021, referred to in subsec. (a)(4)(B)(i), is Pub. L. 117–58, div. A, § 10001, Nov. 15, 2021, 135 Stat. 443. For complete classification of this Act to the Code, see Short Title of 2021 Amendment note set out under section 101 of this title and Tables.
+The Surface Transportation Reauthorization Act of 2021, referred to in subsec. (a)(4)(B)(i), is Pub. L. 117–58, div. A, § 10001, Nov. 15, 2021, 135 Stat. 443. For complete classification of this Act to the Code, see Short Title of 2021 Amendment note set out under section 101 of this title and Tables.
 
 **Amendments**
 
-2021—Subsec. (a)(4), (5). Pub. L. 117–58, § 12001(i)(1)(A), (B), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
+2021—Subsec. (a)(4), (5). Pub. L. 117–58, § 12001(i)(1)(A), (B), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (a)(6). Pub. L. 117–58, § 12001(i)(1)(A), (C), redesignated par. (5) as (6), struck it out, and added a new par. (6). Prior to amendment, text read as follows: “Of the amounts made available to carry out the TIFIA program, the Secretary may use not more than $6,875,000 for fiscal year 2016, $7,081,000 for fiscal year 2017, $7,559,000 for fiscal year 2018, $8,195,000 for fiscal year 2019, and $8,441,000 for fiscal year 2020 for the administration of the TIFIA program.”
+Subsec. (a)(6). Pub. L. 117–58, § 12001(i)(1)(A), (C), redesignated par. (5) as (6), struck it out, and added a new par. (6). Prior to amendment, text read as follows: “Of the amounts made available to carry out the TIFIA program, the Secretary may use not more than $6,875,000 for fiscal year 2016, $7,081,000 for fiscal year 2017, $7,559,000 for fiscal year 2018, $8,195,000 for fiscal year 2019, and $8,441,000 for fiscal year 2020 for the administration of the TIFIA program.”
 
-2015—Pub. L. 114–94, § 2001(g)(1), substituted “the TIFIA program” for “this chapter” wherever appearing.
+2015—Pub. L. 114–94, § 2001(g)(1), substituted “the TIFIA program” for “this chapter” wherever appearing.
 
-Subsec. (a)(2). Pub. L. 114–94, § 2001(g)(2)(A), inserted “of” after “504(f)”.
+Subsec. (a)(2). Pub. L. 114–94, § 2001(g)(2)(A), inserted “of” after “504(f)”.
 
-Subsec. (a)(3)(A), (B). Pub. L. 114–94, § 2001(g)(2)(B), inserted “or rural projects funds” after “rural infrastructure projects”.
+Subsec. (a)(3)(A), (B). Pub. L. 114–94, § 2001(g)(2)(B), inserted “or rural projects funds” after “rural infrastructure projects”.
 
-Subsec. (a)(4). Pub. L. 114–94, § 2001(g)(2)(C), redesignated par. (5) as (4) and struck out former par. (4) which related to redistribution of authorized funding.
+Subsec. (a)(4). Pub. L. 114–94, § 2001(g)(2)(C), redesignated par. (5) as (4) and struck out former par. (4) which related to redistribution of authorized funding.
 
-Subsec. (a)(5). Pub. L. 114–94, § 2001(g)(2)(D), added par. (5). Former par. (5) redesignated (4).
+Subsec. (a)(5). Pub. L. 114–94, § 2001(g)(2)(D), added par. (5). Former par. (5) redesignated (4).
 
-Subsec. (a)(6). Pub. L. 114–94, § 2001(g)(2)(C), struck out par. (6). Text read as follows: “Of the amounts made available to carry out this chapter, the Secretary may use not more than 0.50 percent for each fiscal year for the administration of this chapter.”
+Subsec. (a)(6). Pub. L. 114–94, § 2001(g)(2)(C), struck out par. (6). Text read as follows: “Of the amounts made available to carry out this chapter, the Secretary may use not more than 0.50 percent for each fiscal year for the administration of this chapter.”
 
 2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to funding for fiscal years 2005 through 2009 and contract authority.
 
-2005—Pub. L. 109–59, § 1602(d), renumbered section 188 of this title as this section.
+2005—Pub. L. 109–59, § 1602(d), renumbered section 188 of this title as this section.
 
-Pub. L. 109–59, § 1601(g), reenacted section catchline without change and amended text generally, substituting provisions relating to funding for fiscal years 2005 through 2009 and contract authority, consisting of subsecs. (a) and (b), for provisions relating to funding for fiscal years 1999 through 2004 and for the period of Oct. 1, 2004, through July 30, 2005, contract authority, and limitations on credit amounts, consisting of subsecs. (a) to (c).
+Pub. L. 109–59, § 1601(g), reenacted section catchline without change and amended text generally, substituting provisions relating to funding for fiscal years 2005 through 2009 and contract authority, consisting of subsecs. (a) and (b), for provisions relating to funding for fiscal years 1999 through 2004 and for the period of Oct. 1, 2004, through July 30, 2005, contract authority, and limitations on credit amounts, consisting of subsecs. (a) to (c).
 
-Subsec. (a)(1). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
+Subsec. (a)(1). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
 
-Subsec. (a)(1)(G). Pub. L. 109–40, § 4(a)(10)(A), added subpar. (G) and struck out former subpar. (G) which read as follows: “$106,849,340 for the period of October 1, 2004, through July 27, 2005.”
+Subsec. (a)(1)(G). Pub. L. 109–40, § 4(a)(10)(A), added subpar. (G) and struck out former subpar. (G) which read as follows: “$106,849,340 for the period of October 1, 2004, through July 27, 2005.”
 
-Pub. L. 109–37, § 4(a)(10)(A), added subpar. (G) and struck out former subpar. (G) which read as follows: “$105,300,000 for the period of October 1, 2004, through July 21, 2005.”
+Pub. L. 109–37, § 4(a)(10)(A), added subpar. (G) and struck out former subpar. (G) which read as follows: “$105,300,000 for the period of October 1, 2004, through July 21, 2005.”
 
-Pub. L. 109–35, § 4(a)(10)(A), added subpar. (G) and struck out former subpar. (G) which read as follows: “$104,000,000 for the period of October 1, 2004, through July 19, 2005.”
+Pub. L. 109–35, § 4(a)(10)(A), added subpar. (G) and struck out former subpar. (G) which read as follows: “$104,000,000 for the period of October 1, 2004, through July 19, 2005.”
 
-Pub. L. 109–20, § 4(a)(10)(A), added subpar. (G) and struck out former subpar. (G) which read as follows: “$97,500,000 for the period of October 1, 2004, through June 30, 2005.”
+Pub. L. 109–20, § 4(a)(10)(A), added subpar. (G) and struck out former subpar. (G) which read as follows: “$97,500,000 for the period of October 1, 2004, through June 30, 2005.”
 
-Pub. L. 109–14, § 4(a)(10)(A), added subpar. (G) and struck out former subpar. (G) which read as follows: “$86,666,667 for the period of October 1, 2004, through May 31, 2005.”
+Pub. L. 109–14, § 4(a)(10)(A), added subpar. (G) and struck out former subpar. (G) which read as follows: “$86,666,667 for the period of October 1, 2004, through May 31, 2005.”
 
-Subsec. (a)(2). Pub. L. 109–40, § 4(a)(10)(B), substituted “$1,660,000 for the period of October 1, 2004, through July 30, 2005” for “$1,643,836 for the period of October 1, 2004, through July 27, 2005”.
+Subsec. (a)(2). Pub. L. 109–40, § 4(a)(10)(B), substituted “$1,660,000 for the period of October 1, 2004, through July 30, 2005” for “$1,643,836 for the period of October 1, 2004, through July 27, 2005”.
 
-Pub. L. 109–37, § 4(a)(10)(B), substituted “$1,643,836 for the period of October 1, 2004, through July 27, 2005” for “$1,620,000 for the period of October 1, 2004, through July 21, 2005”.
+Pub. L. 109–37, § 4(a)(10)(B), substituted “$1,643,836 for the period of October 1, 2004, through July 27, 2005” for “$1,620,000 for the period of October 1, 2004, through July 21, 2005”.
 
-Pub. L. 109–35, § 4(a)(10)(B), substituted “$1,620,000 for the period of October 1, 2004, through July 21, 2005” for “$1,600,000 for the period of October 1, 2004, through July 19, 2005”.
+Pub. L. 109–35, § 4(a)(10)(B), substituted “$1,620,000 for the period of October 1, 2004, through July 21, 2005” for “$1,600,000 for the period of October 1, 2004, through July 19, 2005”.
 
-Pub. L. 109–20, § 4(a)(10)(B), substituted “$1,600,000 for the period of October 1, 2004, through July 19, 2005” for “$1,500,000 for the period of October 1, 2004, through June 30, 2005”.
+Pub. L. 109–20, § 4(a)(10)(B), substituted “$1,600,000 for the period of October 1, 2004, through July 19, 2005” for “$1,500,000 for the period of October 1, 2004, through June 30, 2005”.
 
-Pub. L. 109–14, § 4(a)(10)(B), substituted “$1,500,000 for the period of October 1, 2004, through June 30, 2005” for “$1,333,333 for the period of October 1, 2004, through May 31, 2005”.
+Pub. L. 109–14, § 4(a)(10)(B), substituted “$1,500,000 for the period of October 1, 2004, through June 30, 2005” for “$1,333,333 for the period of October 1, 2004, through May 31, 2005”.
 
-Subsec. (a)(3). Pub. L. 109–59, § 1602(b)(5), substituted “administration of this chapter” for “administration of this subchapter”.
+Subsec. (a)(3). Pub. L. 109–59, § 1602(b)(5), substituted “administration of this chapter” for “administration of this subchapter”.
 
-Subsec. (b)(1). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
+Subsec. (b)(1). Pub. L. 109–59, § 1602(b)(5), substituted “this chapter” for “this subchapter”.
 
-Subsec. (c). Pub. L. 109–40, § 4(a)(10)(C), substituted “$2,158,000,000” for “$2,136,986,800” in item relating to fiscal year 2005 in table.
+Subsec. (c). Pub. L. 109–40, § 4(a)(10)(C), substituted “$2,158,000,000” for “$2,136,986,800” in item relating to fiscal year 2005 in table.
 
-Pub. L. 109–37, § 4(a)(10)(C), substituted “$2,136,986,800” for “$2,106,000,000” in item relating to fiscal year 2005 in table.
+Pub. L. 109–37, § 4(a)(10)(C), substituted “$2,136,986,800” for “$2,106,000,000” in item relating to fiscal year 2005 in table.
 
-Pub. L. 109–35, § 4(a)(10)(C), substituted “$2,106,000,000” for “$2,080,000,000” in item relating to fiscal year 2005 in table.
+Pub. L. 109–35, § 4(a)(10)(C), substituted “$2,106,000,000” for “$2,080,000,000” in item relating to fiscal year 2005 in table.
 
-Pub. L. 109–20, § 4(a)(10)(C), substituted “$2,080,000,000” for “$1,950,000,000” in item relating to fiscal year 2005 in table.
+Pub. L. 109–20, § 4(a)(10)(C), substituted “$2,080,000,000” for “$1,950,000,000” in item relating to fiscal year 2005 in table.
 
-Pub. L. 109–14, § 4(a)(10)(C), substituted “$1,950,000,000” for “$1,733,333,333” in item relating to fiscal year 2005 in table.
+Pub. L. 109–14, § 4(a)(10)(C), substituted “$1,950,000,000” for “$1,733,333,333” in item relating to fiscal year 2005 in table.
 
-2004—Subsec. (a)(1)(F). Pub. L. 108–280, § 4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$116,666,667 for the period of October 1, 2003, through July 31, 2004.”
+2004—Subsec. (a)(1)(F). Pub. L. 108–280, § 4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$116,666,667 for the period of October 1, 2003, through July 31, 2004.”
 
-Pub. L. 108–263, § 4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$105,000,000 for the period of October 1, 2003, through June 30, 2004.”
+Pub. L. 108–263, § 4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$105,000,000 for the period of October 1, 2003, through June 30, 2004.”
 
-Pub. L. 108–224, § 4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$81,666,666 for the period of October 1, 2003, through April 30, 2004.”
+Pub. L. 108–224, § 4(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$81,666,666 for the period of October 1, 2003, through April 30, 2004.”
 
-Pub. L. 108–202, § 5(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$58,333,333 for the period of October 1, 2003, through February 29, 2004.”
+Pub. L. 108–202, § 5(a)(10)(A), added subpar. (F) and struck out former subpar. (F) which read as follows: “$58,333,333 for the period of October 1, 2003, through February 29, 2004.”
 
-Subsec. (a)(1)(G). Pub. L. 108–310, § 5(a)(10)(A), added subpar. (G).
+Subsec. (a)(1)(G). Pub. L. 108–310, § 5(a)(10)(A), added subpar. (G).
 
-Subsec. (a)(2). Pub. L. 108–310, § 5(a)(10)(B), inserted “and $1,333,333 for the period of October 1, 2004, through May 31, 2005” before period at end.
+Subsec. (a)(2). Pub. L. 108–310, § 5(a)(10)(B), inserted “and $1,333,333 for the period of October 1, 2004, through May 31, 2005” before period at end.
 
-Pub. L. 108–280, § 4(a)(10)(B), struck out “2003 and $1,666,667 for the period of October 1, 2003, through July 31,” before “2004.”
+Pub. L. 108–280, § 4(a)(10)(B), struck out “2003 and $1,666,667 for the period of October 1, 2003, through July 31,” before “2004.”
 
-Pub. L. 108–263, § 4(a)(10)(B), substituted “$1,666,667 for the period of October 1, 2003, through July 31, 2004” for “$1,500,000 for the period of October 1, 2003, through June 30, 2004”.
+Pub. L. 108–263, § 4(a)(10)(B), substituted “$1,666,667 for the period of October 1, 2003, through July 31, 2004” for “$1,500,000 for the period of October 1, 2003, through June 30, 2004”.
 
-Pub. L. 108–224, § 4(a)(10)(B), substituted “$1,500,000 for the period of October 1, 2003, through June 30, 2004” for “$1,166,667 for the period of October 1, 2003, through April 30, 2004”.
+Pub. L. 108–224, § 4(a)(10)(B), substituted “$1,500,000 for the period of October 1, 2003, through June 30, 2004” for “$1,166,667 for the period of October 1, 2003, through April 30, 2004”.
 
-Pub. L. 108–202, § 5(a)(10)(B), substituted “$1,166,667 for the period of October 1, 2003, through April 30, 2004” for “$833,333 for the period of October 1, 2003, through February 29, 2004”.
+Pub. L. 108–202, § 5(a)(10)(B), substituted “$1,166,667 for the period of October 1, 2003, through April 30, 2004” for “$833,333 for the period of October 1, 2003, through February 29, 2004”.
 
-Subsec. (c). Pub. L. 108–310, § 5(a)(10)(C), substituted “2005” for “2004” in introductory provisions and inserted item in table relating to fiscal year 2005.
+Subsec. (c). Pub. L. 108–310, § 5(a)(10)(C), substituted “2005” for “2004” in introductory provisions and inserted item in table relating to fiscal year 2005.
 
-Pub. L. 108–280, § 4(a)(10)(C), substituted “$2,600,000,000” for “$2,166,666,667” in item relating to fiscal year 2004 in table.
+Pub. L. 108–280, § 4(a)(10)(C), substituted “$2,600,000,000” for “$2,166,666,667” in item relating to fiscal year 2004 in table.
 
-Pub. L. 108–263, § 4(a)(10)(C), substituted “$2,166,666,667” for “$1,950,000,000” in item relating to fiscal year 2004 in table.
+Pub. L. 108–263, § 4(a)(10)(C), substituted “$2,166,666,667” for “$1,950,000,000” in item relating to fiscal year 2004 in table.
 
-Pub. L. 108–224, § 4(a)(10)(C), substituted “$1,950,000,000” for “$1,516,666,667” in item relating to fiscal year 2004 in table.
+Pub. L. 108–224, § 4(a)(10)(C), substituted “$1,950,000,000” for “$1,516,666,667” in item relating to fiscal year 2004 in table.
 
-Pub. L. 108–202, § 5(a)(10)(C), substituted “$1,516,666,667” for “$1,083,333,333” in item relating to fiscal year 2004 in table.
+Pub. L. 108–202, § 5(a)(10)(C), substituted “$1,516,666,667” for “$1,083,333,333” in item relating to fiscal year 2004 in table.
 
-2003—Subsec. (a)(1)(F). Pub. L. 108–88, § 5(a)(10)(A), added subpar. (F).
+2003—Subsec. (a)(1)(F). Pub. L. 108–88, § 5(a)(10)(A), added subpar. (F).
 
-Subsec. (a)(2). Pub. L. 108–88, § 5(a)(10)(B), inserted “and $833,333 for the period of October 1, 2003, through February 29, 2004” after “2003”.
+Subsec. (a)(2). Pub. L. 108–88, § 5(a)(10)(B), inserted “and $833,333 for the period of October 1, 2003, through February 29, 2004” after “2003”.
 
-Subsec. (c). Pub. L. 108–88, § 5(a)(10)(C), substituted “2004” for “2003” and inserted item in table relating to fiscal year 2004.
+Subsec. (c). Pub. L. 108–88, § 5(a)(10)(C), substituted “2004” for “2003” and inserted item in table relating to fiscal year 2004.
 
-1998—Subsec. (a)(2). Pub. L. 105–178, § 1503(c)(1), as added by Pub. L. 105–206, § 9007(a), substituted “1999” for “1998”.
+1998—Subsec. (a)(2). Pub. L. 105–178, § 1503(c)(1), as added by Pub. L. 105–206, § 9007(a), substituted “1999” for “1998”.
 
-Subsec. (c). Pub. L. 105–178, § 1503(c)(2), as added by Pub. L. 105–206, § 9007(a), substituted “1999” for “1998” in introductory provisions, and substituted table for former table which read as follows:
+Subsec. (c). Pub. L. 105–178, § 1503(c)(2), as added by Pub. L. 105–206, § 9007(a), substituted “1999” for “1998” in introductory provisions, and substituted table for former table which read as follows:
 
 | “Fiscal year: | **Maximum amount of credit:** |
 |---|---|
@@ -1628,7 +1628,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
-## § 609. Reports to Congress
+## § 609. Reports to Congress
 
 **(a) In General.—** On June 1, 2012, and every 2 years thereafter, the Secretary shall submit to Congress a report summarizing the financial performance of the projects that are receiving, or have received, assistance under the TIFIA program, including a recommendation as to whether the objectives of the TIFIA program are best served by—
 
@@ -1680,7 +1680,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 **(F)** the anticipated fiscal year and quarter for closing of the credit assistance.
 
-(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 250, § 189; renumbered § 609 and amended Pub. L. 109–59, title I, §§ 1601(h), 1602(d), Aug. 10, 2005, 119 Stat. 1242, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 621; Pub. L. 114–94, div. A, title II, § 2001(h), Dec. 4, 2015, 129 Stat. 1444; Pub. L. 117–58, div. A, title II, § 12001(j), Nov. 15, 2021, 135 Stat. 621.)
+(Added Pub. L. 105–178, title I, § 1503(a), June 9, 1998, 112 Stat. 250, § 189; renumbered § 609 and amended Pub. L. 109–59, title I, §§ 1601(h), 1602(d), Aug. 10, 2005, 119 Stat. 1242, 1247; Pub. L. 112–141, div. A, title II, § 2002, July 6, 2012, 126 Stat. 621; Pub. L. 114–94, div. A, title II, § 2001(h), Dec. 4, 2015, 129 Stat. 1444; Pub. L. 117–58, div. A, title II, § 12001(j), Nov. 15, 2021, 135 Stat. 621.)
 
 **Editorial Notes**
 
@@ -1698,9 +1698,9 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 “(3) by phasing out the program and relying on the capital markets to fund the types of infrastructure investments assisted by this chapter (other than section 610) without Federal participation.”
 
-2005—Pub. L. 109–59, § 1602(d), renumbered section 189 of this title as this section.
+2005—Pub. L. 109–59, § 1602(d), renumbered section 189 of this title as this section.
 
-Pub. L. 109–59, § 1601(h), substituted “Reports” for “Report” in section catchline, “On June 1, 2006, and every 2 years thereafter,” for “Not later than 4 years after the date of enactment of this subchapter,” in introductory provisions, and “chapter (other than section 610)” for “subchapter” wherever appearing.
+Pub. L. 109–59, § 1601(h), substituted “Reports” for “Report” in section catchline, “On June 1, 2006, and every 2 years thereafter,” for “Not later than 4 years after the date of enactment of this subchapter,” in introductory provisions, and “chapter (other than section 610)” for “subchapter” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1716,7 +1716,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 610. State infrastructure bank program
+## § 610. State infrastructure bank program
 
 **(a) Definitions.—** In this section, the following definitions apply:
 
@@ -1852,37 +1852,37 @@ except to the extent that the Secretary determines that any requirement of such 
 
 **(k) Program Administration.—** For each of fiscal years 2022 through 2026, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
 
-(Added Pub. L. 109–59, title I, § 1602(a), Aug. 10, 2005, 119 Stat. 1243, § 190; renumbered § 610, Pub. L. 109–59, title I, § 1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110–244, title I, § 101(f), June 6, 2008, 122 Stat. 1574; Pub. L. 112–141, div. A, title I, § 1519(c)(11), formerly § 1519(c)(12), July 6, 2012, 126 Stat. 577, renumbered § 1519(c)(11), Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title II, § 2001(i), Dec. 4, 2015, 129 Stat. 1444; Pub. L. 117–58, div. A, title II, § 12001(k), Nov. 15, 2021, 135 Stat. 621.)
+(Added Pub. L. 109–59, title I, § 1602(a), Aug. 10, 2005, 119 Stat. 1243, § 190; renumbered § 610, Pub. L. 109–59, title I, § 1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110–244, title I, § 101(f), June 6, 2008, 122 Stat. 1574; Pub. L. 112–141, div. A, title I, § 1519(c)(11), formerly § 1519(c)(12), July 6, 2012, 126 Stat. 577, renumbered § 1519(c)(11), Pub. L. 114–94, div. A, title I, § 1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title II, § 2001(i), Dec. 4, 2015, 129 Stat. 1444; Pub. L. 117–58, div. A, title II, § 12001(k), Nov. 15, 2021, 135 Stat. 621.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (d)(1)(A), (2), (3). Pub. L. 117–58, § 12001(k)(1), substituted “fiscal years 2022 through 2026” for “fiscal years 2016 through 2020”.
+2021—Subsec. (d)(1)(A), (2), (3). Pub. L. 117–58, § 12001(k)(1), substituted “fiscal years 2022 through 2026” for “fiscal years 2016 through 2020”.
 
-Subsec. (k). Pub. L. 117–58, § 12001(k)(2), substituted “fiscal years 2022 through 2026” for “fiscal years 2016 through 2020”.
+Subsec. (k). Pub. L. 117–58, § 12001(k)(2), substituted “fiscal years 2022 through 2026” for “fiscal years 2016 through 2020”.
 
-2015—Subsec. (a)(11), (12). Pub. L. 114–94, § 2001(i)(1), added pars. (11) and (12).
+2015—Subsec. (a)(11), (12). Pub. L. 114–94, § 2001(i)(1), added pars. (11) and (12).
 
-Subsec. (d)(1)(A). Pub. L. 114–94, § 2001(i)(2)(A), substituted “each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and” for “fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and”.
+Subsec. (d)(1)(A). Pub. L. 114–94, § 2001(i)(2)(A), substituted “each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and” for “fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and”.
 
-Subsec. (d)(1)(B). Pub. L. 114–94, § 1446(d)(5)(B), amended Pub. L. 112–141, div. A, title I, § 1519(c). See 2012 Amendment note below.
+Subsec. (d)(1)(B). Pub. L. 114–94, § 1446(d)(5)(B), amended Pub. L. 112–141, div. A, title I, § 1519(c). See 2012 Amendment note below.
 
-Subsec. (d)(2), (3). Pub. L. 114–94, § 2001(i)(2)(B), (C), substituted “fiscal years 2016 through 2020” for “fiscal years 2005 through 2009”.
+Subsec. (d)(2), (3). Pub. L. 114–94, § 2001(i)(2)(B), (C), substituted “fiscal years 2016 through 2020” for “fiscal years 2005 through 2009”.
 
-Subsec. (d)(4) to (7). Pub. L. 114–94, § 2001(i)(2)(D)–(F), added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and substituted “section 133(d)(1)(A)(i)” for “section 133(d)(3)” in par. (6).
+Subsec. (d)(4) to (7). Pub. L. 114–94, § 2001(i)(2)(D)–(F), added par. (4), redesignated former pars. (4) to (6) as (5) to (7), respectively, and substituted “section 133(d)(1)(A)(i)” for “section 133(d)(3)” in par. (6).
 
-Subsec. (e). Pub. L. 114–94, § 2001(i)(3), added subsec. (e) and struck out former subsec. (e) which related to forms of assistance from infrastructure banks.
+Subsec. (e). Pub. L. 114–94, § 2001(i)(3), added subsec. (e) and struck out former subsec. (e) which related to forms of assistance from infrastructure banks.
 
-Subsec. (g)(1). Pub. L. 114–94, § 2001(i)(4)(A), substituted “the highway account, the transit account, and the rail account” for “each account”.
+Subsec. (g)(1). Pub. L. 114–94, § 2001(i)(4)(A), substituted “the highway account, the transit account, and the rail account” for “each account”.
 
-Subsec. (g)(4). Pub. L. 114–94, § 2001(i)(4)(B), inserted “, except that any loan funded from the rural projects fund of the bank shall bear interest at or below the interest rate charged for the TIFIA loan provided to the bank under section 603” after “feasible”.
+Subsec. (g)(4). Pub. L. 114–94, § 2001(i)(4)(B), inserted “, except that any loan funded from the rural projects fund of the bank shall bear interest at or below the interest rate charged for the TIFIA loan provided to the bank under section 603” after “feasible”.
 
-Subsec. (k). Pub. L. 114–94, § 2001(i)(5), substituted “fiscal years 2016 through 2020” for “fiscal years 2005 through 2009”.
+Subsec. (k). Pub. L. 114–94, § 2001(i)(5), substituted “fiscal years 2016 through 2020” for “fiscal years 2005 through 2009”.
 
-2012—Subsec. (d)(1)(B). Pub. L. 112–141, § 1519(c)(11), formerly § 1519(c)(12), as renumbered by Pub. L. 114–94, § 1446(d)(5)(B), struck out “under section 105” before period at end.
+2012—Subsec. (d)(1)(B). Pub. L. 112–141, § 1519(c)(11), formerly § 1519(c)(12), as renumbered by Pub. L. 114–94, § 1446(d)(5)(B), struck out “under section 105” before period at end.
 
-2008—Pub. L. 110–244 amended Pub. L. 109–59, § 1602(d). See 2005 Amendment note below.
+2008—Pub. L. 110–244 amended Pub. L. 109–59, § 1602(d). See 2005 Amendment note below.
 
 2005—Pub. L. 109–59, as amended by Pub. L. 110–244, renumbered section 190 of this title as this section.
 
@@ -1896,7 +1896,7 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. 
 
 Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
-Pub. L. 114–94, div. A, title I, § 1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
+Pub. L. 114–94, div. A, title I, § 1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(5)(B) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
 
 **Effective Date of 2012 Amendment**
 
@@ -1906,7 +1906,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under section 101 of this title.
 
-## § 611. Asset concessions and innovative finance assistance
+## § 611. Asset concessions and innovative finance assistance
 
 **(a) Definitions.—** In this section:
 
@@ -2050,4 +2050,4 @@ Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 
 
 **(2) Receipt and acceptance.—** The Secretary shall be entitled to receive, shall accept, and shall use to carry out this section the funds transferred under paragraph (1), without further appropriation.
 
-(Added Pub. L. 117–58, div. G, title X, § 71001(a)(1), Nov. 15, 2021, 135 Stat. 1316.)
+(Added Pub. L. 117–58, div. G, title X, § 71001(a)(1), Nov. 15, 2021, 135 Stat. 1316.)

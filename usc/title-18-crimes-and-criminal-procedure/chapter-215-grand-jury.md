@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1989—Pub. L. 101–73, title IX, § 964(b), Aug. 9, 1989, 103 Stat. 506, added item 3322 “Disclosure of certain matters occurring before grand jury” and struck out former items 3322 “Number; summoning—Rule”, 3323 “Objections and motions—Rule”, 3324 “Foreman and deputy; powers and duties; rec­ords—Rule”, 3325 “Persons present at proceedings—Rule”, 3326 “Secrecy of proceedings and disclosure—Rule”, 3327 “Indictment; finding and return—Rule”, and 3328 “Discharging jury and excusing juror—Rule”.
+1989—Pub. L. 101–73, title IX, § 964(b), Aug. 9, 1989, 103 Stat. 506, added item 3322 “Disclosure of certain matters occurring before grand jury” and struck out former items 3322 “Number; summoning—Rule”, 3323 “Objections and motions—Rule”, 3324 “Foreman and deputy; powers and duties; rec­ords—Rule”, 3325 “Persons present at proceedings—Rule”, 3326 “Secrecy of proceedings and disclosure—Rule”, 3327 “Indictment; finding and return—Rule”, and 3328 “Discharging jury and excusing juror—Rule”.
 
-## § 3321. Number of grand jurors; summoning additional jurors
+## § 3321. Number of grand jurors; summoning additional jurors
 
 Every grand jury impaneled before any district court shall consist of not less than sixteen nor more than twenty-three persons. If less than sixteen of the persons summoned attend, they shall be placed on the grand jury, and the court shall order the marshal to summon, either immediately or for a day fixed, from the body of the district, and not from the bystanders, a sufficient number of persons to complete the grand jury. Whenever a challenge to a grand juror is allowed, and there are not in attendance other jurors sufficient to complete the grand jury, the court shall make a like order to the marshal to summon a sufficient number of persons for that purpose.
 
@@ -29,11 +29,11 @@ Every grand jury impaneled before any district court shall consist of not less t
 
 **Historical and Revision Notes**
 
-Based on section 419 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 282, 36 Stat. 1165).
+Based on section 419 of title 28, U.S.C., 1940 ed., Judicial Code and Judiciary (Mar. 3, 1911, ch. 231, § 282, 36 Stat. 1165).
 
 The provisions of the first sentence are embodied in rule 6(a) of the Federal Rules of Criminal Procedure, but it has been retained because of its relation to the remainder of the text which is not covered by said rule.
 
-## § 3322. Disclosure of certain matters occurring before grand jury
+## § 3322. Disclosure of certain matters occurring before grand jury
 
 **(a)** A person who is privy to grand jury information—
 
@@ -69,7 +69,7 @@ may disclose that information to an attorney for the government for use in enfor
 
 **(3)** the term “grand jury information” means matters occurring before a grand jury other than the deliberations of the grand jury or the vote of any grand juror.
 
-(Added Pub. L. 101–73, title IX, § 964(a), Aug. 9, 1989, 103 Stat. 505; amended Pub. L. 106–102, title VII, § 740, Nov. 12, 1999, 113 Stat. 1480; Pub. L. 106–185, § 10, Apr. 25, 2000, 114 Stat. 217; Pub. L. 107–273, div. C, title I, § 11002, Nov. 2, 2002, 116 Stat. 1816.)
+(Added Pub. L. 101–73, title IX, § 964(a), Aug. 9, 1989, 103 Stat. 505; amended Pub. L. 106–102, title VII, § 740, Nov. 12, 1999, 113 Stat. 1480; Pub. L. 106–185, § 10, Apr. 25, 2000, 114 Stat. 217; Pub. L. 107–273, div. C, title I, § 11002, Nov. 2, 2002, 116 Stat. 1816.)
 
 **Editorial Notes**
 
@@ -81,19 +81,19 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (a)(2) and (d)(
 
 **Prior Provisions**
 
-A prior section 3322, act June 25, 1948, ch. 645, 62 Stat. 829, related to the summoning of and number of grand jurors, prior to repeal by Pub. L. 101–73, § 964(a). See Rule 6(a) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+A prior section 3322, act June 25, 1948, ch. 645, 62 Stat. 829, related to the summoning of and number of grand jurors, prior to repeal by Pub. L. 101–73, § 964(a). See Rule 6(a) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
 
 **Amendments**
 
-2002—Subsec. (d)(1)(A). Pub. L. 107–273, § 11002(1), substituted “1344, 1956, or 1957;” for “or 1344; or”.
+2002—Subsec. (d)(1)(A). Pub. L. 107–273, § 11002(1), substituted “1344, 1956, or 1957;” for “or 1344; or”.
 
-Subsec. (d)(1)(C). Pub. L. 107–273, § 11002(2), (3), added subpar. (C).
+Subsec. (d)(1)(C). Pub. L. 107–273, § 11002(2), (3), added subpar. (C).
 
 2000—Subsec. (a). Pub. L. 106–185 struck out “concerning a banking law violation” after “grand jury information” in introductory provisions and substituted “any civil forfeiture provision of Federal law” for “civil forfeiture under section 981 of title 18, United States Code, of property described in section 981(a)(1)(C) of such title” in concluding provisions.
 
-1999—Subsec. (b)(1). Pub. L. 106–102, § 740(1), inserted “Federal or State” before “financial institution” in introductory provisions.
+1999—Subsec. (b)(1). Pub. L. 106–102, § 740(1), inserted “Federal or State” before “financial institution” in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 106–102, § 740(2), inserted “at any time during or after the completion of the investigation of the grand jury,” after “paragraph (1)”.
+Subsec. (b)(2). Pub. L. 106–102, § 740(2), inserted “at any time during or after the completion of the investigation of the grand jury,” after “paragraph (1)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -101,7 +101,7 @@ Subsec. (b)(2). Pub. L. 106–102, § 740(2), inserted “at any time during o
 
 Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as a note under section 1324 of Title 8, Aliens and Nationality.
 
-## [§§ 3323 to 3328. Repealed. Pub. L. 101–73, title IX, § 964(a), Aug. 9, 1989, 103 Stat. 505]
+## [§§ 3323 to 3328. Repealed. Pub. L. 101–73, title IX, § 964(a), Aug. 9, 1989, 103 Stat. 505]
 
 Section 3323, act June 25, 1948, ch. 645, 62 Stat. 829, related to challenging the array of grand jurors or individual grand jurors and motions to dismiss. See Rule 6(b) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
 

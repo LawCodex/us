@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 217—THE AMERICAN LEGION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 217—THE AMERICAN LEGION"
 identifier: "/us/usc/t36/stII/ptB/ch217"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 217—THE AMERICAN LEGION
 
@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2019—Pub. L. 116–35, § 4(b), July 30, 2019, 133 Stat. 1047, added item 21704A.
+2019—Pub. L. 116–35, § 4(b), July 30, 2019, 133 Stat. 1047, added item 21704A.
 
-## § 21701. Organization
+## § 21701. Organization
 
 **(a) Federal Charter.—** The American Legion (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -33,13 +33,13 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21701(a) | 36:41. | Sept. 16, 1919, ch. 59, §§ 1, 2, 41 Stat. 284. |
+| 21701(a) | 36:41. | Sept. 16, 1919, ch. 59, §§ 1, 2, 41 Stat. 284. |
 |  | 36:42. |  |
-| 21701(b) | 36:44 (words before 4th semicolon related to perpetual succession). | Sept. 16, 1919, ch. 59, § 4 (words before 4th semicolon related to perpetual succession), 41 Stat. 285; June 26, 1953, ch. 153, § 1, 67 Stat. 82. |
+| 21701(b) | 36:44 (words before 4th semicolon related to perpetual succession). | Sept. 16, 1919, ch. 59, § 4 (words before 4th semicolon related to perpetual succession), 41 Stat. 285; June 26, 1953, ch. 153, § 1, 67 Stat. 82. |
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and obsolete language.
 
-## § 21702. Purposes
+## § 21702. Purposes
 
 The purposes of the corporation are—
 
@@ -59,11 +59,11 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21702 | 36:43. | Sept. 16, 1919, ch. 59, § 3, 41 Stat. 285; Oct. 29, 1942, ch. 633, § 1, 56 Stat. 1012; July 26, 1955, ch. 386, § 1, 69 Stat. 379; Sept. 1, 1966, Pub. L. 89–550, § 1, 80 Stat. 371. |
+| 21702 | 36:43. | Sept. 16, 1919, ch. 59, § 3, 41 Stat. 285; Oct. 29, 1942, ch. 633, § 1, 56 Stat. 1012; July 26, 1955, ch. 386, § 1, 69 Stat. 379; Sept. 1, 1966, Pub. L. 89–550, § 1, 80 Stat. 371. |
 
 In clause (1), the words “of America” are omitted.
 
-## § 21703. Membership
+## § 21703. Membership
 
 An individual is eligible for membership in the corporation only if the individual—
 
@@ -79,7 +79,7 @@ An individual is eligible for membership in the corporation only if the individu
 
 **(2)** was honorably discharged or separated from that service or continues to serve honorably during or after that period or time.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1297; Pub. L. 105–354, § 1(6), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–309, § 1, Dec. 2, 2002, 116 Stat. 2449; Pub. L. 116–35, § 3, July 30, 2019, 133 Stat. 1046.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1297; Pub. L. 105–354, § 1(6), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–309, § 1, Dec. 2, 2002, 116 Stat. 2449; Pub. L. 116–35, § 3, July 30, 2019, 133 Stat. 1046.)
 
 **Historical and Revision Notes**
 
@@ -87,9 +87,9 @@ An individual is eligible for membership in the corporation only if the individu
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21703 | 36:45. | Sept. 16, 1919, ch. 59, § 5, 41 Stat. 285; Oct. 29, 1942, ch. 633, § 2, 56 Stat. 1012; July 9, 1946, ch. 546, 60 Stat. 524; Dec. 28, 1950, ch. 1177, 64 Stat. 1122; July 26, 1955, ch. 386, § 2, 69 Stat. 380; Sept. 1, 1966, Pub. L. 89–550, § 2, 80 Stat. 372; Dec. 27, 1974, Pub. L. 93–557, 88 Stat. 1792; Aug. 17, 1978, Pub. L. 95–346, 92 Stat. 485; Dec. 21, 1979, Pub. L. 96–155, 93 Stat. 1165; Oct. 30, 1990, Pub. L. 101–478, 104 Stat. 1157; Dec. 2, 1991, Pub. L. 102–179, 105 Stat. 1229. |
+| 21703 | 36:45. | Sept. 16, 1919, ch. 59, § 5, 41 Stat. 285; Oct. 29, 1942, ch. 633, § 2, 56 Stat. 1012; July 9, 1946, ch. 546, 60 Stat. 524; Dec. 28, 1950, ch. 1177, 64 Stat. 1122; July 26, 1955, ch. 386, § 2, 69 Stat. 380; Sept. 1, 1966, Pub. L. 89–550, § 2, 80 Stat. 372; Dec. 27, 1974, Pub. L. 93–557, 88 Stat. 1792; Aug. 17, 1978, Pub. L. 95–346, 92 Stat. 485; Dec. 21, 1979, Pub. L. 96–155, 93 Stat. 1165; Oct. 30, 1990, Pub. L. 101–478, 104 Stat. 1157; Dec. 2, 1991, Pub. L. 102–179, 105 Stat. 1229. |
 
-In clause (1), the words “armed forces” are substituted for “naval or military services” and “military or naval service” for clarity. In subclause (A), the word “through” is substituted for “all dates inclusive” for clarity. In subclause (B), the words “a government associated with the United States during a period referred to in subclause (A) of this clause and was a citizen of the United States when the individual entered that service” are substituted for “who, being a citizen of the United States at the time of entry therein . . . of any governments associated with the United States during said wars or hostilities” for clarity.
+In clause (1), the words “armed forces” are substituted for “naval or military services” and “military or naval service” for clarity. In subclause (A), the word “through” is substituted for “all dates inclusive” for clarity. In subclause (B), the words “a government associated with the United States during a period referred to in subclause (A) of this clause and was a citizen of the United States when the individual entered that service” are substituted for “who, being a citizen of the United States at the time of entry therein . . . of any governments associated with the United States during said wars or hostilities” for clarity.
 
 In clause (2), the words “after that period” are substituted for “after any of the aforesaid terminal dates” to eliminate unnecessary words.
 
@@ -101,11 +101,11 @@ This amends section 21703(1)(A)(iv) of title 36 to reflect changes made by Publi
 
 **Amendments**
 
-2019—Par. (1)(A). Pub. L. 116–35, § 3(1)(A), substituted “during—” for “during any period from—” in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) to (vii) which set out specific time periods one had to serve in the United States Armed Forces in order to be eligible for membership in the corporation.
+2019—Par. (1)(A). Pub. L. 116–35, § 3(1)(A), substituted “during—” for “during any period from—” in introductory provisions, added cls. (i) and (ii), and struck out former cls. (i) to (vii) which set out specific time periods one had to serve in the United States Armed Forces in order to be eligible for membership in the corporation.
 
-Par. (1)(B). Pub. L. 116–35, § 3(1)(B), inserted “or time” after “a period”.
+Par. (1)(B). Pub. L. 116–35, § 3(1)(B), inserted “or time” after “a period”.
 
-Par. (2). Pub. L. 116–35, § 3(2), inserted “or time” after “that period”.
+Par. (2). Pub. L. 116–35, § 3(2), inserted “or time” after “that period”.
 
 2002—Par. (2). Pub. L. 107–309 inserted “during or” after “continues to serve honorably”.
 
@@ -115,7 +115,7 @@ Par. (2). Pub. L. 116–35, § 3(2), inserted “or time” after “that peri
 
 **Findings and Sense of Congress**
 
-Pub. L. 116–35, § 2, July 30, 2019, 133 Stat. 1043, provided that:
+Pub. L. 116–35, § 2, July 30, 2019, 133 Stat. 1043, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -201,7 +201,7 @@ Pub. L. 116–35, § 2, July 30, 2019, 133 Stat. 1043, provided that:
 
 > **“(b) Sense of Congress.—** It is the sense of Congress that, in accordance with the history, tradition, and purposes of The American Legion, it is fair, proper, and reasonable that the privilege of membership in The American Legion should be extended to all military personnel who served on active military duty during all of the unrecognized war eras involving active United States military personnel.”
 
-## § 21704. Powers
+## § 21704. Powers
 
 The corporation may—
 
@@ -223,14 +223,14 @@ The corporation may—
 
 **(9)** do any other act necessary and proper to carry out the purposes of the corporation.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1297; Pub. L. 112–66, § 1, Dec. 13, 2011, 125 Stat. 768.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1297; Pub. L. 112–66, § 1, Dec. 13, 2011, 125 Stat. 768.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21704 | 36:44 (words before 4th semicolon less perpetual succession, words after 5th semicolon). | Sept. 16, 1919, ch. 59, § 4 (words before 4th semicolon less perpetual succession, words after 5th semicolon), 41 Stat. 285; June 26, 1953, ch. 153, § 1, 67 Stat. 82. |
-|  | 36:47. | Sept. 16, 1919, ch. 59, § 7, 41 Stat. 285. |
+| 21704 | 36:44 (words before 4th semicolon less perpetual succession, words after 5th semicolon). | Sept. 16, 1919, ch. 59, § 4 (words before 4th semicolon less perpetual succession, words after 5th semicolon), 41 Stat. 285; June 26, 1953, ch. 153, § 1, 67 Stat. 82. |
+|  | 36:47. | Sept. 16, 1919, ch. 59, § 7, 41 Stat. 285. |
 
 In this section, the text of 36:47 is omitted as executed and obsolete.
 
@@ -252,13 +252,13 @@ In clause (8), the words “do any other act” are substituted for “generally
 
 2011—Pars. (5) to (9). Pub. L. 112–66 added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
 
-## § 21704A. Nondiscrimination
+## § 21704A. Nondiscrimination
 
 The requirements for holding a staff position in the corporation may not discriminate on the basis of race, color, religion, sex, or national origin.
 
-(Added Pub. L. 116–35, § 4(a), July 30, 2019, 133 Stat. 1046.)
+(Added Pub. L. 116–35, § 4(a), July 30, 2019, 133 Stat. 1046.)
 
-## § 21705. Exclusive right to name, emblems, and badges
+## § 21705. Exclusive right to name, emblems, and badges
 
 The corporation and its State and local subdivisions have the exclusive right to use the name “The American Legion” or “American Legion”. The corporation has the exclusive right to use, manufacture, and control the right to manufacture, emblems and badges the corporation adopts.
 
@@ -268,12 +268,12 @@ The corporation and its State and local subdivisions have the exclusive right to
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21705 | 36:44 (words between 4th and 5th semicolons). | Sept. 16, 1919, ch. 59, §§ 4 (words between 4th and 5th semicolons), 8, 41 Stat. 285; June 26, 1953, ch. 153, 67 Stat. 82. |
+| 21705 | 36:44 (words between 4th and 5th semicolons). | Sept. 16, 1919, ch. 59, §§ 4 (words between 4th and 5th semicolons), 8, 41 Stat. 285; June 26, 1953, ch. 153, 67 Stat. 82. |
 |  | 36:48. |  |
 
 The word “sole” is omitted as included in “exclusive”. The words “to have and”, “in carrying out its purposes”, and “in carrying out the purposes of the corporation” are omitted as unnecessary.
 
-## § 21706. Political activities
+## § 21706. Political activities
 
 The corporation shall be nonpolitical and may not promote the candidacy of an individual seeking public office.
 
@@ -283,11 +283,11 @@ The corporation shall be nonpolitical and may not promote the candidacy of an in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21706 | 36:46. | Sept. 16, 1919, ch. 59, § 6, 41 Stat. 285. |
+| 21706 | 36:46. | Sept. 16, 1919, ch. 59, § 6, 41 Stat. 285. |
 
 The words “as an organization” are omitted as unnecessary.
 
-## § 21707. Service of process
+## § 21707. Service of process
 
 As a condition to the exercise of any power or privilege granted by this chapter, the corporation shall file, with the secretary of state or other designated official of each State, the name and address of an agent in that State on whom legal process or demands against the corporation may be served.
 
@@ -297,11 +297,11 @@ As a condition to the exercise of any power or privilege granted by this chapter
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21707 | 36:50. | Sept. 16, 1919, ch. 59, § 9 1/2, 41 Stat. 285. |
+| 21707 | 36:50. | Sept. 16, 1919, ch. 59, § 9 1/2, 41 Stat. 285. |
 
 The word “precedent” is omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the secretary of state” for consistency in the revised title. The words “post-office” and “authorized” are omitted as unnecessary.
 
-## § 21708. Annual report
+## § 21708. Annual report
 
 Not later than January 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior calendar year. The report may not be printed as a public document.
 
@@ -311,7 +311,7 @@ Not later than January 1 of each year, the corporation shall submit a report to 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21708 | 36:49. | Sept. 16, 1919, ch. 59, § 9, 41 Stat. 285; Aug. 30, 1964, Pub. L. 88–504, § 4(3), 78 Stat. 636. |
+| 21708 | 36:49. | Sept. 16, 1919, ch. 59, § 9, 41 Stat. 285; Aug. 30, 1964, Pub. L. 88–504, § 4(3), 78 Stat. 636. |
 
 **Statutory Notes and Related Subsidiaries**
 

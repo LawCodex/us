@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERALLY
 
-### § 1301. Definitions
+### § 1301. Definitions
 
 For purposes of this subchapter, the term—
 
@@ -29,15 +29,15 @@ For purposes of this subchapter, the term—
 
 **(4)** “Indian” means any person who would be subject to the jurisdiction of the United States as an Indian under section 1153, title 18, if that person were to commit an offense listed in that section in Indian country to which that section applies.
 
-(Pub. L. 90–284, title II, § 201, Apr. 11, 1968, 82 Stat. 77; Pub. L. 101–511, title VIII, § 8077(b), (c), Nov. 5, 1990, 104 Stat. 1892.)
+(Pub. L. 90–284, title II, § 201, Apr. 11, 1968, 82 Stat. 77; Pub. L. 101–511, title VIII, § 8077(b), (c), Nov. 5, 1990, 104 Stat. 1892.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Par. (2). Pub. L. 101–511, § 8077(b), inserted at end “means the inherent power of Indian tribes, hereby recognized and affirmed, to exercise criminal jurisdiction over all Indians;”.
+1990—Par. (2). Pub. L. 101–511, § 8077(b), inserted at end “means the inherent power of Indian tribes, hereby recognized and affirmed, to exercise criminal jurisdiction over all Indians;”.
 
-Par. (4). Pub. L. 101–511, § 8077(c), added par. (4).
+Par. (4). Pub. L. 101–511, § 8077(c), added par. (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -47,9 +47,9 @@ Title II of Pub. L. 90–284, which is classified generally to this subchapter, 
 
 **Time Limitation on Criminal Misdemeanor Ju­risdiction of Tribal Courts Over Non-Member Indians**
 
-Pub. L. 101–511, title VIII, § 8077(d), Nov. 5, 1990, 104 Stat. 1893, as amended by Pub. L. 102–124, § 1, Oct. 9, 1991, 105 Stat. 616, which provided that the effects of subsecs. (b) and (c), which amended this section, as those subsections affect the criminal misdemeanor jurisdiction of tribal courts over non-member Indians have no effect after Oct. 18, 1991, was repealed by Pub. L. 102–137, Oct. 28, 1991, 105 Stat. 646. Subsequent to repeal, Pub. L. 102–172, title VIII, § 8112A(b), Nov. 26, 1991, 105 Stat. 1202, purported to amend section 8077(d) of Pub. L. 101–511 by substituting “1993” for “1991”.
+Pub. L. 101–511, title VIII, § 8077(d), Nov. 5, 1990, 104 Stat. 1893, as amended by Pub. L. 102–124, § 1, Oct. 9, 1991, 105 Stat. 616, which provided that the effects of subsecs. (b) and (c), which amended this section, as those subsections affect the criminal misdemeanor jurisdiction of tribal courts over non-member Indians have no effect after Oct. 18, 1991, was repealed by Pub. L. 102–137, Oct. 28, 1991, 105 Stat. 646. Subsequent to repeal, Pub. L. 102–172, title VIII, § 8112A(b), Nov. 26, 1991, 105 Stat. 1202, purported to amend section 8077(d) of Pub. L. 101–511 by substituting “1993” for “1991”.
 
-### § 1302. Constitutional rights
+### § 1302. Constitutional rights
 
 **(a) In general** No Indian tribe in exercising powers of self-government shall—
 
@@ -109,9 +109,9 @@ Pub. L. 101–511, title VIII, § 8077(d), Nov. 5, 1990, 104 Stat. 1893, as am
 
 **(A)** in a tribal correctional center that has been approved by the Bureau of Indian Affairs for long-term incarceration, in accordance with guidelines to be developed by the Bureau of Indian Affairs (in consultation with Indian tribes) not later than 180 days after July 29, 2010;
 
-**(B)** in the nearest appropriate Federal facility, at the expense of the United States pursuant to the Bureau of Prisons tribal prisoner pilot program described in section 304(c) 1
+**(B)** in the nearest appropriate Federal facility, at the expense of the United States pursuant to the Bureau of Prisons tribal prisoner pilot program described in section 304(c) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Tribal Law and Order Act of 2010;
 
@@ -129,7 +129,7 @@ In this section, the term “offense” means a violation of a criminal law.
 
 Nothing in this section affects the obligation of the United States, or any State government that has been delegated authority by the United States, to investigate and prosecute any criminal violation in Indian country.
 
-(Pub. L. 90–284, title II, § 202, Apr. 11, 1968, 82 Stat. 77; Pub. L. 99–570, title IV, § 4217, Oct. 27, 1986, 100 Stat. 3207–146; Pub. L. 111–211, title II, § 234(a), July 29, 2010, 124 Stat. 2279.)
+(Pub. L. 90–284, title II, § 202, Apr. 11, 1968, 82 Stat. 77; Pub. L. 99–570, title IV, § 4217, Oct. 27, 1986, 100 Stat. 3207–146; Pub. L. 111–211, title II, § 234(a), July 29, 2010, 124 Stat. 2279.)
 
 **Editorial Notes**
 
@@ -139,13 +139,13 @@ Section 304(c) of the Tribal Law and Order Act of 2010, referred to in subsec. (
 
 **Amendments**
 
-2010—Pub. L. 111–211, § 234(a)(1), designated existing provisions as subsec. (a) and inserted subsec. heading.
+2010—Pub. L. 111–211, § 234(a)(1), designated existing provisions as subsec. (a) and inserted subsec. heading.
 
-Subsec. (a)(6). Pub. L. 111–211, § 234(a)(2)(A), inserted “(except as provided in subsection (b))” after “assistance of counsel for his defense”. Amendment was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language in quoting the text to be inserted.
+Subsec. (a)(6). Pub. L. 111–211, § 234(a)(2)(A), inserted “(except as provided in subsection (b))” after “assistance of counsel for his defense”. Amendment was executed to reflect the probable intent of Congress, notwithstanding errors in the directory language in quoting the text to be inserted.
 
-Subsec. (a)(7). Pub. L. 111–211, § 234(a)(2)(B), added par. (7) and struck out former par. (7) which read as follows: “require excessive bail, impose excessive fines, inflict cruel and unusual punishments, and in no event impose for conviction of any one offense any penalty or punishment greater than imprisonment for a term of one year and a fine of $5,000, or both;”.
+Subsec. (a)(7). Pub. L. 111–211, § 234(a)(2)(B), added par. (7) and struck out former par. (7) which read as follows: “require excessive bail, impose excessive fines, inflict cruel and unusual punishments, and in no event impose for conviction of any one offense any penalty or punishment greater than imprisonment for a term of one year and a fine of $5,000, or both;”.
 
-Subsecs. (b) to (f). Pub. L. 111–211, § 234(a)(3), added subsecs. (b) to (f).
+Subsecs. (b) to (f). Pub. L. 111–211, § 234(a)(3), added subsecs. (b) to (f).
 
 1986—Par. (7). Pub. L. 99–570, which directed that “for a term of one year and a fine of $5,000, or both” be substituted for “for a term of six months and a fine of $500, or both”, was executed by making the substitution for “for a term of six months or a fine of $500, or both” as the probable intent of Congress.
 
@@ -153,13 +153,13 @@ Subsecs. (b) to (f). Pub. L. 111–211, § 234(a)(3), added subsecs. (b) to (f
 
 **Bureau of Prisons Tribal Prisoner Pilot Program**
 
-Pub. L. 111–211, title II, § 234(c), July 29, 2010, 124 Stat. 2281, which related to establishment of tribal prisoner pilot program, was transferred to section 1302a of this title.
+Pub. L. 111–211, title II, § 234(c), July 29, 2010, 124 Stat. 2281, which related to establishment of tribal prisoner pilot program, was transferred to section 1302a of this title.
 
 **Purpose of 1986 Amendment**
 
-Pub. L. 99–570, title IV, § 4217, Oct. 27, 1986, 100 Stat. 3207–146, provided in part that amendment of par. (7) of this section was to “enhance the ability of tribal governments to prevent and penalize the traffic of illegal narcotics on Indian reservations”.
+Pub. L. 99–570, title IV, § 4217, Oct. 27, 1986, 100 Stat. 3207–146, provided in part that amendment of par. (7) of this section was to “enhance the ability of tribal governments to prevent and penalize the traffic of illegal narcotics on Indian reservations”.
 
-### § 1302a. Bureau of Prisons tribal prisoner program
+### § 1302a. Bureau of Prisons tribal prisoner program
 
 **(1) In general**
 
@@ -197,7 +197,7 @@ On rescission of a request under subparagraph (A), a tribal offender shall be re
 
 If tribal court demand for participation in this program exceeds 100 tribal offenders, a representative of the Bureau of Prisons shall notify Congress.
 
-(Pub. L. 111–211, title II, § 234(c), July 29, 2010, 124 Stat. 2281; Pub. L. 117–103, div. W, title VIII, § 803, Mar. 15, 2022, 136 Stat. 898.)
+(Pub. L. 111–211, title II, § 234(c), July 29, 2010, 124 Stat. 2281; Pub. L. 117–103, div. W, title VIII, § 803, Mar. 15, 2022, 136 Stat. 898.)
 
 **Editorial Notes**
 
@@ -213,13 +213,13 @@ Section was enacted as part of the Tribal Law and Order Act of 2010, and not as 
 
 **Amendments**
 
-2022—Pub. L. 117–103, § 803(1), (2), struck out “pilot” before “program” in section catchline and wherever appearing in text.
+2022—Pub. L. 117–103, § 803(1), (2), struck out “pilot” before “program” in section catchline and wherever appearing in text.
 
-Par. (1). Pub. L. 117–103, § 803(3), substituted “Not later than 120 days after March 15, 2022” for “Not later than 120 days after July 29, 2010”.
+Par. (1). Pub. L. 117–103, § 803(3), substituted “Not later than 120 days after March 15, 2022” for “Not later than 120 days after July 29, 2010”.
 
-Par. (2)(B). Pub. L. 117–103, § 803(4), substituted “1 or more years” for “2 or more years”.
+Par. (2)(B). Pub. L. 117–103, § 803(4), substituted “1 or more years” for “2 or more years”.
 
-Pars. (5), (6). Pub. L. 117–103, § 803(5), struck out pars. (5) and (6) which read as follows:
+Pars. (5), (6). Pub. L. 117–103, § 803(5), struck out pars. (5) and (6) which read as follows:
 
 “(5) Report.—Not later than 3 years after the date of establishment of the pilot program, the Attorney General shall submit to Congress a report describing the status of the program, including recommendations regarding the future of the program, if any.
 
@@ -231,13 +231,13 @@ Pars. (5), (6). Pub. L. 117–103, § 803(5), struck out pars. (5) and (6) whi
 
 For definition of “tribal government” as used in this section, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of this title.
 
-### § 1303. Habeas corpus
+### § 1303. Habeas corpus
 
 The privilege of the writ of habeas corpus shall be available to any person, in a court of the United States, to test the legality of his detention by order of an Indian tribe.
 
-(Pub. L. 90–284, title II, § 203, Apr. 11, 1968, 82 Stat. 78.)
+(Pub. L. 90–284, title II, § 203, Apr. 11, 1968, 82 Stat. 78.)
 
-### § 1304. Tribal jurisdiction over covered crimes
+### § 1304. Tribal jurisdiction over covered crimes
 
 **(a) Definitions** In this section:
 
@@ -517,7 +517,7 @@ Amounts made available under this section shall supplement and not supplant any 
 
 Of the total amount made available under paragraph (1) for each fiscal year, not more than 40 percent shall be used for reimbursements under subsection (h)(1).
 
-(Pub. L. 90–284, title II, § 204, as added Pub. L. 113–4, title IX, § 904, Mar. 7, 2013, 127 Stat. 120; amended Pub. L. 117–103, div. W, title VIII, § 804, Mar. 15, 2022, 136 Stat. 898.)
+(Pub. L. 90–284, title II, § 204, as added Pub. L. 113–4, title IX, § 904, Mar. 7, 2013, 127 Stat. 120; amended Pub. L. 117–103, div. W, title VIII, § 804, Mar. 15, 2022, 136 Stat. 898.)
 
 **Editorial Notes**
 
@@ -525,43 +525,43 @@ Of the total amount made available under paragraph (1) for each fiscal year, not
 
 This Act, referred to in subsec. (d)(1), probably means title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, popularly known as the Indian Civil Rights Act of 1968, which is classified generally to this subchapter.
 
-Subtitle B of title VIII of the Violence Against Women Act Reauthorization Act of 2022, referred to in subsec. (h)(1)(D), (2), is subtitle B (§§ 811–813) of title VIII of div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 904, which enacted section 1305 of this title and provisions set out as notes under section 1305 of this title. For complete classification of subtitle B to the Code, see Tables.
+Subtitle B of title VIII of the Violence Against Women Act Reauthorization Act of 2022, referred to in subsec. (h)(1)(D), (2), is subtitle B (§§ 811–813) of title VIII of div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 904, which enacted section 1305 of this title and provisions set out as notes under section 1305 of this title. For complete classification of subtitle B to the Code, see Tables.
 
 **Amendments**
 
-2022—Pub. L. 117–103, § 804(1), (2), substituted “covered crimes” for “crimes of domestic violence” in section catchline and, in text, substituted “special Tribal criminal jurisdiction” for “special domestic violence criminal jurisdiction” wherever appearing.
+2022—Pub. L. 117–103, § 804(1), (2), substituted “covered crimes” for “crimes of domestic violence” in section catchline and, in text, substituted “special Tribal criminal jurisdiction” for “special domestic violence criminal jurisdiction” wherever appearing.
 
-Subsec. (a)(1) to (5). Pub. L. 117–103, § 804(3)(B), added pars. (1) to (5). Former pars. (1) to (5) redesignated (6) to (8), (10), and (11), respectively.
+Subsec. (a)(1) to (5). Pub. L. 117–103, § 804(3)(B), added pars. (1) to (5). Former pars. (1) to (5) redesignated (6) to (8), (10), and (11), respectively.
 
-Subsec. (a)(6). Pub. L. 117–103, § 804(3)(A), (C), redesignated par. (1) as (6) and substituted “any violation of the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs that is committed” for “violence committed”. Former par. (6) redesignated (14).
+Subsec. (a)(6). Pub. L. 117–103, § 804(3)(A), (C), redesignated par. (1) as (6) and substituted “any violation of the criminal law of the Indian tribe that has jurisdiction over the Indian country where the violation occurs that is committed” for “violence committed”. Former par. (6) redesignated (14).
 
-Subsec. (a)(7). Pub. L. 117–103, § 804(3)(D), added par. (7) and struck out former par. (7). Prior to amendment, text defined the term “domestic violence”.
+Subsec. (a)(7). Pub. L. 117–103, § 804(3)(D), added par. (7) and struck out former par. (7). Prior to amendment, text defined the term “domestic violence”.
 
-Pub. L. 117–103, § 804(3)(A), redesignated par. (2) as (7). Former par. (7) redesignated (15).
+Pub. L. 117–103, § 804(3)(A), redesignated par. (2) as (7). Former par. (7) redesignated (15).
 
-Subsec. (a)(8). Pub. L. 117–103, § 804(3)(A), redesignated par. (3) as (8).
+Subsec. (a)(8). Pub. L. 117–103, § 804(3)(A), redesignated par. (3) as (8).
 
-Subsec. (a)(9). Pub. L. 117–103, § 804(3)(E), added par. (9).
+Subsec. (a)(9). Pub. L. 117–103, § 804(3)(E), added par. (9).
 
-Subsec. (a)(10), (11). Pub. L. 117–103, § 804(3)(A), redesignated pars. (4) and (5) as (10) and (11), respectively.
+Subsec. (a)(10), (11). Pub. L. 117–103, § 804(3)(A), redesignated pars. (4) and (5) as (10) and (11), respectively.
 
-Subsec. (a)(12), (13). Pub. L. 117–103, § 804(3)(F), added pars. (12) and (13).
+Subsec. (a)(12), (13). Pub. L. 117–103, § 804(3)(F), added pars. (12) and (13).
 
-Subsec. (a)(14). Pub. L. 117–103, § 804(3)(A), (G), redesignated par. (6) as (14) and substituted “Special tribal criminal jurisdiction” for “Special domestic violence criminal jurisdiction” in heading.
+Subsec. (a)(14). Pub. L. 117–103, § 804(3)(A), (G), redesignated par. (6) as (14) and substituted “Special tribal criminal jurisdiction” for “Special domestic violence criminal jurisdiction” in heading.
 
-Subsec. (a)(15). Pub. L. 117–103, § 804(3)(A), redesignated par. (7) as (15).
+Subsec. (a)(15). Pub. L. 117–103, § 804(3)(A), redesignated par. (7) as (15).
 
-Subsec. (a)(16), (17). Pub. L. 117–103, § 804(3)(H), added pars. (16) and (17).
+Subsec. (a)(16), (17). Pub. L. 117–103, § 804(3)(H), added pars. (16) and (17).
 
-Subsec. (b)(1). Pub. L. 117–103, § 804(4), inserted “, including any participating tribes in the State of Maine,” after “the powers of self-government of a participating tribe”.
+Subsec. (b)(1). Pub. L. 117–103, § 804(4), inserted “, including any participating tribes in the State of Maine,” after “the powers of self-government of a participating tribe”.
 
-Subsec. (b)(4). Pub. L. 117–103, § 804(5), substituted “Exception if victim and defendant are both non-Indians” for “Exceptions” in par. heading and “In general” for “Victim and defendant are both non-Indians” in subpar. (A) heading, struck out cl. (i) designation and heading before “A participating”, inserted “, other than obstruction of justice or assault of Tribal justice personnel,” after “over an alleged offense”, redesignated cl. (ii) of subpar. (A) as subpar. (B), substituted “paragraph” for “subparagraph”, and struck out former subpar. (B) which related to defendant lacking ties to the Indian tribe.
+Subsec. (b)(4). Pub. L. 117–103, § 804(5), substituted “Exception if victim and defendant are both non-Indians” for “Exceptions” in par. heading and “In general” for “Victim and defendant are both non-Indians” in subpar. (A) heading, struck out cl. (i) designation and heading before “A participating”, inserted “, other than obstruction of justice or assault of Tribal justice personnel,” after “over an alleged offense”, redesignated cl. (ii) of subpar. (A) as subpar. (B), substituted “paragraph” for “subparagraph”, and struck out former subpar. (B) which related to defendant lacking ties to the Indian tribe.
 
-Subsec. (c). Pub. L. 117–103, § 804(6), added subsec. (c) and struck out former subsec. (c) which related to categories of criminal conduct in which a participating tribe may exercise special domestic violence criminal jurisdiction over a defendant.
+Subsec. (c). Pub. L. 117–103, § 804(6), added subsec. (c) and struck out former subsec. (c) which related to categories of criminal conduct in which a participating tribe may exercise special domestic violence criminal jurisdiction over a defendant.
 
-Subsec. (e)(3). Pub. L. 117–103, § 804(7), struck out par. (3). Prior to amendment, text read as follows: “An Indian tribe that has ordered the detention of any person has a duty to timely notify such person of his rights and privileges under this subsection and under section 1303 of this title.”
+Subsec. (e)(3). Pub. L. 117–103, § 804(7), struck out par. (3). Prior to amendment, text read as follows: “An Indian tribe that has ordered the detention of any person has a duty to timely notify such person of his rights and privileges under this subsection and under section 1303 of this title.”
 
-Subsecs. (f) to (j). Pub. L. 117–103, § 804(8), added subsecs. (f) to (j) and struck out former pars. (f) to (h), which related to grants to tribal governments, requirement that amounts made available supplement not supplant other funding, and authorization of appropriations for fiscal years 2014 through 2018, respectively.
+Subsecs. (f) to (j). Pub. L. 117–103, § 804(8), added subsecs. (f) to (j) and struck out former pars. (f) to (h), which related to grants to tribal governments, requirement that amounts made available supplement not supplant other funding, and authorization of appropriations for fiscal years 2014 through 2018, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -571,7 +571,7 @@ Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal ye
 
 **Effective Dates; Pilot Project**
 
-Pub. L. 113–4, title IX, § 908, Mar. 7, 2013, 127 Stat. 125, provided that:
+Pub. L. 113–4, title IX, § 908, Mar. 7, 2013, 127 Stat. 125, provided that:
 
 > **“(a) General Effective Date.—** Except as provided in section 4 [18 U.S.C. 2261 note] and subsection (b) of this section, the amendments made by this title [see Tables for classification] shall take effect on the date of enactment of this Act [Mar. 7, 2013].
 
@@ -589,7 +589,7 @@ Pub. L. 113–4, title IX, § 908, Mar. 7, 2013, 127 Stat. 125, provided that:
 
 **Findings and Purposes**
 
-Pub. L. 117–103, div. W, title VIII, § 801, Mar. 15, 2022, 136 Stat. 895, provided that:
+Pub. L. 117–103, div. W, title VIII, § 801, Mar. 15, 2022, 136 Stat. 895, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -645,7 +645,7 @@ Pub. L. 117–103, div. W, title VIII, § 801, Mar. 15, 2022, 136 Stat. 895, p
 
 > **“(15)** Native Hawaiians experience a disproportionately high rate of human trafficking, with 64 percent of human trafficking victims in the State of Hawai’i identifying as at least part Native Hawaiian.
 
-> **“(b) Purposes.—** The purposes of this subtitle [subtitle A (§§ 801–804) of title VIII of div. W of Pub. L. 117–103, see Tables for classification] are—
+> **“(b) Purposes.—** The purposes of this subtitle [subtitle A (§§ 801–804) of title VIII of div. W of Pub. L. 117–103, see Tables for classification] are—
 
 > **“(1)** to clarify the responsibilities of Federal, State, Tribal, and local law enforcement agencies with respect to responding to cases of domestic violence, dating violence, stalking, sex trafficking, sexual violence, crimes against children, and assault against Tribal law enforcement officers;
 
@@ -657,7 +657,7 @@ Pub. L. 117–103, div. W, title VIII, § 801, Mar. 15, 2022, 136 Stat. 895, p
 
 [For definitions of terms used in section 801 of div. W of Pub. L. 117–103, set out above, see section 12291 of Title 34, Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of Title 34].
 
-### § 1305. Tribal jurisdiction in Alaska
+### § 1305. Tribal jurisdiction in Alaska
 
 **(a) In general**
 
@@ -817,9 +817,9 @@ A member of the Committee shall be allowed travel expenses, including per diem i
 
 **(5) Nonapplicability of FACA**
 
-The Federal Advisory Committee Act (5 U.S.C. App.) 1
+The Federal Advisory Committee Act (5 U.S.C. App.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall not apply to the Committee.
 
@@ -839,7 +839,7 @@ Not later than 5 years after March 15, 2022, the Attorney General, in consultati
 
 **(3)** affects the authority of the United States or any authority delegated by the United States to the State to investigate and prosecute a criminal violation in a Village.
 
-(Pub. L. 117–103, div. W, title VIII, § 813, Mar. 15, 2022, 136 Stat. 906.)
+(Pub. L. 117–103, div. W, title VIII, § 813, Mar. 15, 2022, 136 Stat. 906.)
 
 **Editorial Notes**
 
@@ -847,9 +847,9 @@ Not later than 5 years after March 15, 2022, the Attorney General, in consultati
 
 The Indian Civil Rights Act of 1968, referred to in subsecs. (a) and (d)(1), is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
-This subtitle, referred to in subsecs. (d)(3)(A)(iii) and (i), is subtitle B (§§ 811–813) of title VIII of div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 904, which enacted this section and provisions set out as notes below. For complete classification of subtitle B to the Code, see Tables.
+This subtitle, referred to in subsecs. (d)(3)(A)(iii) and (i), is subtitle B (§§ 811–813) of title VIII of div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 904, which enacted this section and provisions set out as notes below. For complete classification of subtitle B to the Code, see Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (g)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (g)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 **Codification**
 
@@ -863,7 +863,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 **Findings; Purposes**
 
-Pub. L. 117–103, div. W, title VIII, § 811, Mar. 15, 2022, 136 Stat. 904, provided that:
+Pub. L. 117–103, div. W, title VIII, § 811, Mar. 15, 2022, 136 Stat. 904, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -897,7 +897,7 @@ Pub. L. 117–103, div. W, title VIII, § 811, Mar. 15, 2022, 136 Stat. 904, p
 
 > **“(4)** the unique legal relationship of the United States to Indian Tribes creates a Federal trust responsibility to assist Tribal governments in safeguarding the lives of Indian women.
 
-> **“(b) Purposes.—** The purposes of this subtitle [subtitle B (§§ 811–813) of title VIII of div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 904, which enacted this section and provisions set out as a note below] are—
+> **“(b) Purposes.—** The purposes of this subtitle [subtitle B (§§ 811–813) of title VIII of div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 904, which enacted this section and provisions set out as a note below] are—
 
 > **“(1)** to increase coordination and communication among Federal, State, Tribal, and local law enforcement agencies; and
 
@@ -909,9 +909,9 @@ Pub. L. 117–103, div. W, title VIII, § 811, Mar. 15, 2022, 136 Stat. 904, p
 
 For definitions of terms used in this section, see section 12291 of Title 34, Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of Title 34.
 
-Pub. L. 117–103, div. W, title VIII, § 812, Mar. 15, 2022, 136 Stat. 905, provided that:
+Pub. L. 117–103, div. W, title VIII, § 812, Mar. 15, 2022, 136 Stat. 905, provided that:
 
-> “In this subtitle [subtitle B (§§ 811–813) of title VIII of div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 904, which enacted this section and provisions set out as a note above]:
+> “In this subtitle [subtitle B (§§ 811–813) of title VIII of div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 904, which enacted this section and provisions set out as a note above]:
 
 > **“(1) Assault of tribal justice personnel; covered crime; obstruction of justice; protection order; violation of a protection order.—**
 
@@ -933,21 +933,21 @@ Pub. L. 117–103, div. W, title VIII, § 812, Mar. 15, 2022, 136 Stat. 905, p
 
 ## SUBCHAPTER II—MODEL CODE GOVERNING COURTS OF INDIAN OFFENSES
 
-### § 1311. Model code
+### § 1311. Model code
 
 The Secretary of the Interior is authorized and directed to recommend to the Congress, on or before July 1, 1968, a model code to govern the administration of justice by courts of Indian offenses on Indian reservations. Such code shall include provisions which will (1) assure that any individual being tried for an offense by a court of Indian offenses shall have the same rights, privileges, and immunities under the United States Constitution as would be guaranteed any citizen of the United States being tried in a Federal court for any similar offense, (2) assure that any individual being tried for an offense by a court of Indian offenses will be advised and made aware of his rights under the United States Constitution, and under any tribal constitution applicable to such individual, (3) establish proper qualifications for the office of judge of the court of Indian offenses, and (4) provide for the establishing of educational classes for the training of judges of courts of Indian offenses. In carrying out the provisions of this subchapter, the Secretary of the Interior shall consult with the Indians, Indian tribes, and interested agencies of the United States.
 
-(Pub. L. 90–284, title III, § 301, Apr. 11, 1968, 82 Stat. 78.)
+(Pub. L. 90–284, title III, § 301, Apr. 11, 1968, 82 Stat. 78.)
 
-### § 1312. Authorization of appropriations
+### § 1312. Authorization of appropriations
 
 There is hereby authorized to be appropriated such sum as may be necessary to carry out the provisions of this subchapter.
 
-(Pub. L. 90–284, title III, § 302, Apr. 11, 1968, 82 Stat. 78.)
+(Pub. L. 90–284, title III, § 302, Apr. 11, 1968, 82 Stat. 78.)
 
 ## SUBCHAPTER III—JURISDICTION OVER CRIMINAL AND CIVIL ACTIONS
 
-### § 1321. Assumption by State of criminal jurisdiction
+### § 1321. Assumption by State of criminal jurisdiction
 
 **(a) Consent of United States**
 
@@ -963,7 +963,7 @@ At the request of an Indian tribe, and after consultation with and consent by th
 
 Nothing in this section shall authorize the alienation, encumbrance, or taxation of any real or personal property, including water rights, belonging to any Indian or any Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States; or shall authorize regulation of the use of such property in a manner inconsistent with any Federal treaty, agreement, or statute or with any regulation made pursuant thereto; or shall deprive any Indian or any Indian tribe, band, or community of any right, privilege, or immunity afforded under Federal treaty, agreement, or statute with respect to hunting, trapping, or fishing or the control, licensing, or regulation thereof.
 
-(Pub. L. 90–284, title IV, § 401, Apr. 11, 1968, 82 Stat. 78; Pub. L. 111–211, title II, § 221(a), July 29, 2010, 124 Stat. 2271.)
+(Pub. L. 90–284, title IV, § 401, Apr. 11, 1968, 82 Stat. 78; Pub. L. 111–211, title II, § 221(a), July 29, 2010, 124 Stat. 2271.)
 
 **Editorial Notes**
 
@@ -971,7 +971,7 @@ Nothing in this section shall authorize the alienation, encumbrance, or taxation
 
 2010—Pub. L. 111–211 substituted “Assumption by State of criminal jurisdiction” for “Assumption by State” in section catchline, inserted subsec. (a) heading, inserted par. (1) designation and heading, and added par. (2). Amendment to section catchline was executed as the probable intent of Congress, notwithstanding directory language which erroneously directed the amendment to subsec. (a).
 
-### § 1322. Assumption by State of civil jurisdiction
+### § 1322. Assumption by State of civil jurisdiction
 
 **(a) Consent of United States; force and effect of civil laws**
 
@@ -985,9 +985,9 @@ Nothing in this section shall authorize the alienation, encumbrance, or taxation
 
 Any tribal ordinance or custom heretofore or hereafter adopted by an Indian tribe, band, or community in the exercise of any authority which it may possess shall, if not inconsistent with any applicable civil law of the State, be given full force and effect in the determination of civil causes of action pursuant to this section.
 
-(Pub. L. 90–284, title IV, § 402, Apr. 11, 1968, 82 Stat. 79.)
+(Pub. L. 90–284, title IV, § 402, Apr. 11, 1968, 82 Stat. 79.)
 
-### § 1323. Retrocession of jurisdiction by State
+### § 1323. Retrocession of jurisdiction by State
 
 **(a) Acceptance by United States**
 
@@ -997,7 +997,7 @@ The United States is authorized to accept a retrocession by any State of all or 
 
 Section 7 of the Act of August 15, 1953 (67 Stat. 588), is hereby repealed, but such repeal shall not affect any cession of jurisdiction made pursuant to such section prior to its repeal.
 
-(Pub. L. 90–284, title IV, § 403, Apr. 11, 1968, 82 Stat. 79.)
+(Pub. L. 90–284, title IV, § 403, Apr. 11, 1968, 82 Stat. 79.)
 
 **Editorial Notes**
 
@@ -1015,13 +1015,13 @@ By virtue of the authority vested in me by section 465 of the Revised Statutes (
 
 Lyndon B. Johnson.
 
-### § 1324. Amendment of State constitutions or statutes to remove legal impediment; effective date
+### § 1324. Amendment of State constitutions or statutes to remove legal impediment; effective date
 
 Notwithstanding the provisions of any enabling Act for the admission of a State, the consent of the United States is hereby given to the people of any State to amend, where necessary, their State constitution or existing statutes, as the case may be, to remove any legal impediment to the assumption of civil or criminal jurisdiction in accordance with the provisions of this subchapter. The provisions of this subchapter shall not become effective with respect to such assumption of jurisdiction by any such State until the people thereof have appropriately amended their State constitution or statutes, as the case may be.
 
-(Pub. L. 90–284, title IV, § 404, Apr. 11, 1968, 82 Stat. 79.)
+(Pub. L. 90–284, title IV, § 404, Apr. 11, 1968, 82 Stat. 79.)
 
-### § 1325. Abatement of actions
+### § 1325. Abatement of actions
 
 **(a) Pending actions or proceedings; effect of cession**
 
@@ -1031,25 +1031,25 @@ No action or proceeding pending before any court or agency of the United States 
 
 No cession made by the United States under this subchapter shall deprive any court of the United States of jurisdiction to hear, determine, render judgment, or impose sentence in any criminal action instituted against any person for any offense committed before the effective date of such cession, if the offense charged in such action was cognizable under any law of the United States at the time of the commission of such offense. For the purposes of any such criminal action, such cession shall take effect on the day following the date of final determination of such action.
 
-(Pub. L. 90–284, title IV, § 405, Apr. 11, 1968, 82 Stat. 80.)
+(Pub. L. 90–284, title IV, § 405, Apr. 11, 1968, 82 Stat. 80.)
 
-### § 1326. Special election
+### § 1326. Special election
 
 State jurisdiction acquired pursuant to this subchapter with respect to criminal offenses or civil causes of action, or with respect to both, shall be applicable in Indian country only where the enrolled Indians within the affected area of such Indian country accept such jurisdiction by a majority vote of the adult Indians voting at a special election held for that purpose. The Secretary of the Interior shall call such special election under such rules and regulations as he may prescribe, when requested to do so by the tribal council or other governing body, or by 20 per centum of such enrolled adults.
 
-(Pub. L. 90–284, title IV, § 406, Apr. 11, 1968, 82 Stat. 80.)
+(Pub. L. 90–284, title IV, § 406, Apr. 11, 1968, 82 Stat. 80.)
 
 ## SUBCHAPTER IV—EMPLOYMENT OF LEGAL COUNSEL
 
-### § 1331. Approval
+### § 1331. Approval
 
 Notwithstanding any other provision of law, if any application made by an Indian, Indian tribe, Indian council, or any band or group of Indians under any law requiring the approval of the Secretary of the Interior or the Commissioner of Indian Affairs of contracts or agreements relating to the employment of legal counsel (including the choice of counsel and the fixing of fees) by any such Indians, tribe, council, band, or group is neither granted nor denied within ninety days following the making of such application, such approval shall be deemed to have been granted.
 
-(Pub. L. 90–284, title VI, § 601, Apr. 11, 1968, 82 Stat. 80.)
+(Pub. L. 90–284, title VI, § 601, Apr. 11, 1968, 82 Stat. 80.)
 
 ## SUBCHAPTER V—MATERIALS AND PUBLICATIONS
 
-### § 1341. Authorization of Secretary
+### § 1341. Authorization of Secretary
 
 **(a) Revision of document on “Indian Affairs, Laws and Treaties” and treatise on “Federal Indian Laws”; compilation of official opinions; printing and republication** In order that the constitutional rights of Indians might be fully protected, the Secretary of the Interior is authorized and directed to—
 
@@ -1067,13 +1067,13 @@ With respect to the document entitled “Indian Affairs, Laws and Treaties” as
 
 There is authorized to be appropriated for carrying out the provisions of this subchapter such sum as may be necessary.
 
-(Pub. L. 90–284, title VII, § 701, Apr. 11, 1968, 82 Stat. 80; Pub. L. 93–265, Apr. 12, 1974, 88 Stat. 84; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 90–284, title VII, § 701, Apr. 11, 1968, 82 Stat. 80; Pub. L. 93–265, Apr. 12, 1974, 88 Stat. 84; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1974—Subsec. (c). Pub. L. 93–265 struck out “, with respect to the preparation but not including printing,” before “such sum”.
+1974—Subsec. (c). Pub. L. 93–265 struck out “, with respect to the preparation but not including printing,” before “such sum”.
 
 **Statutory Notes and Related Subsidiaries**
 

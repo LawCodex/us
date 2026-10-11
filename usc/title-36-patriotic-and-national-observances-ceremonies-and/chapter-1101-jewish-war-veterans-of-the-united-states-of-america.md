@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1101—JEWISH WAR VETERANS OF THE UNITED STATES OF AMERICA, INCORPORATED"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1101—JEWISH WAR VETERANS OF THE UNITED STATES OF AMERICA, INCORPORATED"
 identifier: "/us/usc/t36/stII/ptB/ch1101"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1101—JEWISH WAR VETERANS OF THE UNITED STATES OF AMERICA, INCORPORATED
 
-## § 110101. Definition
+## § 110101. Definition
 
 For purposes of this chapter, “State” includes the District of Columbia and the territories and possessions of the United States.
 
@@ -25,11 +25,11 @@ For purposes of this chapter, “State” includes the District of Columbia and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110101 | 36:2713. | Aug. 21, 1984, Pub. L. 98–391, § 14, 98 Stat. 1360. |
+| 110101 | 36:2713. | Aug. 21, 1984, Pub. L. 98–391, § 14, 98 Stat. 1360. |
 
 The words “the Commonwealth of Puerto Rico” are omitted as included in “the territories and possessions of the United States”.
 
-## § 110102. Organization
+## § 110102. Organization
 
 **(a) Federal Charter.—** Jewish War Veterans of the United States of America, Incorporated (in this chapter, the “corporation”), a nonprofit corporation incorporated in New York, is a federally chartered corporation.
 
@@ -41,14 +41,14 @@ The words “the Commonwealth of Puerto Rico” are omitted as included in “th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110102(a) | 36:2701(a). | Aug. 21, 1984, Pub. L. 98–391, §§ 1(a), 15 (last sentence), 16, 98 Stat. 1358, 1361. |
+| 110102(a) | 36:2701(a). | Aug. 21, 1984, Pub. L. 98–391, §§ 1(a), 15 (last sentence), 16, 98 Stat. 1358, 1361. |
 | 110102(b) | 36:2714 (last sentence). 36:2715. |  |
 
 In subsection (a), the words “a nonprofit corporation incorporated in New York” are substituted for “organized and incorporated as a nonprofit entity under the laws of the State of New York”, and the words “is a federally chartered corporation” are substituted for “is hereby recognized as such and is granted a Federal charter”, for consistency in the revised title and to eliminate unnecessary words.
 
 In subsection (b), the text of 36:2714 (last sentence) is omitted as included in 36:2715. The words “restrictions or” are omitted as unnecessary.
 
-## § 110103. Purposes
+## § 110103. Purposes
 
 The purposes of the corporation are as provided in its articles of incorporation and include a continuing commitment, on a national basis, to—
 
@@ -84,11 +84,11 @@ The purposes of the corporation are as provided in its articles of incorporation
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110103 | 36:2703. | Aug. 21, 1984, Pub. L. 98–391, § 3, 98 Stat. 1358. |
+| 110103 | 36:2703. | Aug. 21, 1984, Pub. L. 98–391, § 3, 98 Stat. 1358. |
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
-## § 110104. Membership
+## § 110104. Membership
 
 Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
@@ -98,9 +98,9 @@ Except as provided in this chapter, eligibility for membership in the corporatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110104 | 36:2705. | Aug. 21, 1984, Pub. L. 98–391, § 5, 98 Stat. 1359. |
+| 110104 | 36:2705. | Aug. 21, 1984, Pub. L. 98–391, § 5, 98 Stat. 1359. |
 
-## § 110105. Governing body
+## § 110105. Governing body
 
 **(a) Board of Directors.—** The board of directors and the responsibilities of the board are as provided in the articles of incorporation.
 
@@ -112,10 +112,10 @@ Except as provided in this chapter, eligibility for membership in the corporatio
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110105(a) | 36:2706. | Aug. 21, 1984, Pub. L. 98–391, §§ 6, 7, 98 Stat. 1359. |
+| 110105(a) | 36:2706. | Aug. 21, 1984, Pub. L. 98–391, §§ 6, 7, 98 Stat. 1359. |
 | 110105(b) | 36:2707. |  |
 
-## § 110106. Powers
+## § 110106. Powers
 
 The corporation has only the powers provided in its bylaws and articles of incorporation filed in each State in which it is incorporated.
 
@@ -125,11 +125,11 @@ The corporation has only the powers provided in its bylaws and articles of incor
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110106 | 36:2702. | Aug. 21, 1984, Pub. L. 98–391, § 2, 98 Stat. 1358. |
+| 110106 | 36:2702. | Aug. 21, 1984, Pub. L. 98–391, § 2, 98 Stat. 1358. |
 
 The words “and subject to the laws of such State or States” are omitted as unnecessary.
 
-## § 110107. Restrictions
+## § 110107. Restrictions
 
 **(a) Stock and Dividends.—** The corporation may not issue stock or declare or pay a dividend.
 
@@ -145,13 +145,13 @@ The words “and subject to the laws of such State or States” are omitted as u
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110107 | 36:2708. | Aug. 21, 1984, Pub. L. 98–391, § 8, 98 Stat. 1359. |
+| 110107 | 36:2708. | Aug. 21, 1984, Pub. L. 98–391, § 8, 98 Stat. 1359. |
 
 In subsection (a), the words “any shares of” are omitted as unnecessary.
 
 In subsection (b), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “This subsection does not prevent” are substituted for “Nothing in this subsection shall be construed to prevent” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 110108. Duty to maintain corporate and tax-exempt status
+## § 110108. Duty to maintain corporate and tax-exempt status
 
 **(a) Corporate Status.—** The corporation shall maintain its status as a corporation incorporated under the laws of New York.
 
@@ -163,12 +163,12 @@ In subsection (b), the words “inure to the benefit of” are substituted for �
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110108(a) | 36:2701(b). | Aug. 21, 1984, Pub. L. 98–391, §§ 1(b), 15 (1st sentence), 98 Stat. 1358, 1361. |
+| 110108(a) | 36:2701(b). | Aug. 21, 1984, Pub. L. 98–391, §§ 1(b), 15 (1st sentence), 98 Stat. 1358, 1361. |
 | 110108(b) | 36:2714 (1st sentence). |  |
 
 In subsection (a), the words “retain and” and “organized and” are omitted as unnecessary.
 
-## § 110109. Records and inspection
+## § 110109. Records and inspection
 
 **(a) Records.—** The corporation shall keep—
 
@@ -186,11 +186,11 @@ In subsection (a), the words “retain and” and “organized and” are omitte
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110109 | 36:2710. | Aug. 21, 1984, Pub. L. 98–391, § 10, 98 Stat. 1360. |
+| 110109 | 36:2710. | Aug. 21, 1984, Pub. L. 98–391, § 10, 98 Stat. 1360. |
 
 The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code. The words “Nothing in this section shall be construed to contravene any applicable State law” are omitted as unnecessary.
 
-## § 110110. Service of process
+## § 110110. Service of process
 
 The corporation shall comply with the law on service of process of each State in which it is incorporated and each State in which it carries on activities.
 
@@ -200,11 +200,11 @@ The corporation shall comply with the law on service of process of each State in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110110 | 36:2704. | Aug. 21, 1984, Pub. L. 98–391, § 4, 98 Stat. 1359. |
+| 110110 | 36:2704. | Aug. 21, 1984, Pub. L. 98–391, § 4, 98 Stat. 1359. |
 
 The words “in furtherance of its corporate purposes” are omitted as unnecessary.
 
-## § 110111. Liability for acts of officers and agents
+## § 110111. Liability for acts of officers and agents
 
 The corporation is liable for the acts of its officers and agents acting within the scope of their authority.
 
@@ -214,9 +214,9 @@ The corporation is liable for the acts of its officers and agents acting within 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110111 | 36:2709. | Aug. 21, 1984, Pub. L. 98–391, § 9, 98 Stat. 1359. |
+| 110111 | 36:2709. | Aug. 21, 1984, Pub. L. 98–391, § 9, 98 Stat. 1359. |
 
-## § 110112. Annual report
+## § 110112. Annual report
 
 The corporation shall submit an annual report to Congress on the activities of the corporation during the prior fiscal year. The report shall be submitted at the same time as the report of the audit required by section 10101 of this title. The report may not be printed as a public document.
 
@@ -226,7 +226,7 @@ The corporation shall submit an annual report to Congress on the activities of t
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 110112 | 36:2711. | Aug. 21, 1984, Pub. L. 98–391, § 12, 98 Stat. 1360. |
+| 110112 | 36:2711. | Aug. 21, 1984, Pub. L. 98–391, § 12, 98 Stat. 1360. |
 
 **Statutory Notes and Related Subsidiaries**
 

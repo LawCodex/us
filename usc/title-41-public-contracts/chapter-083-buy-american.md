@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 83—BUY AMERICAN
 
-## § 8301. Definitions
+## § 8301. Definitions
 
 In this chapter:
 
@@ -25,13 +25,13 @@ In this chapter:
 
 **(3) Federal agency.—** The term “Federal agency” has the meaning given the term “executive agency” in section 133 of this title.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3830; Pub. L. 117–58, div. G, title IX, § 70922(d), Nov. 15, 2021, 135 Stat. 1304.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3830; Pub. L. 117–58, div. G, title IX, § 70922(d), Nov. 15, 2021, 135 Stat. 1304.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8301 | 41:10c. | Mar. 3, 1933, ch. 212, title III, § 1, 47 Stat. 1520; Pub. L. 86–70, § 43, June 25, 1959, 73 Stat. 151; Pub. L. 86–624, § 28, July 12, 1960, 74 Stat. 419; Pub. L. 100–418, title VII, § 7005(a), Aug. 23, 1988, 102 Stat. 1552. |
+| 8301 | 41:10c. | Mar. 3, 1933, ch. 212, title III, § 1, 47 Stat. 1520; Pub. L. 86–70, § 43, June 25, 1959, 73 Stat. 151; Pub. L. 86–624, § 28, July 12, 1960, 74 Stat. 419; Pub. L. 100–418, title VII, § 7005(a), Aug. 23, 1988, 102 Stat. 1552. |
 
 In paragraph (1), the words “the Philippine Islands” are omitted because of Proclamation No. 2695 (22 U.S.C. 1394 note). The words “the Canal Zone” are omitted because of the Panama Canal Treaty of 1977.
 
@@ -47,7 +47,7 @@ In paragraph (2), the words “when used in a geographical sense” are omitted 
 
 **Build America, Buy America**
 
-Pub. L. 117–58, div. G, title IX, Nov. 15, 2021, 135 Stat. 1294, as amended by Pub. L. 117–167, div. B, title II, § 10254, Aug. 9, 2022, 136 Stat. 1502; Pub. L. 118–159, div. A, title XVII, § 1704, Dec. 23, 2024, 138 Stat. 2208, provided that:
+Pub. L. 117–58, div. G, title IX, Nov. 15, 2021, 135 Stat. 1294, as amended by Pub. L. 117–167, div. B, title II, § 10254, Aug. 9, 2022, 136 Stat. 1502; Pub. L. 118–159, div. A, title XVII, § 1704, Dec. 23, 2024, 138 Stat. 2208, provided that:
 
 **“Subtitle A—Build America, Buy America**
 
@@ -713,7 +713,7 @@ Pub. L. 117–58, div. G, title IX, Nov. 15, 2021, 135 Stat. 1294, as amended by
 
 **Implementation of Buy American Act With Respect to Certain Water Resource Projects**
 
-Pub. L. 100–371, title V, § 508, July 19, 1988, 102 Stat. 875, provided that:
+Pub. L. 100–371, title V, § 508, July 19, 1988, 102 Stat. 875, provided that:
 
 > **“(a) General Rule.—** For purposes of title III of the Act of March 3, 1933 (47 Stat. 1520; [former] 41 U.S.C. 10a–10c) [see 41 U.S.C. 8301 et seq.], commonly known as the Buy American Act, a cofferdam or any other temporary structure to be constructed by the Secretary of the Army, acting through the Chief of Engineers, shall be treated in the same manner as a permanent dam constructed by the Secretary of the Army.
 
@@ -723,11 +723,11 @@ Pub. L. 100–371, title V, § 508, July 19, 1988, 102 Stat. 875, provided tha
 
 **Executive Order No. 13788**
 
-Ex. Ord. No. 13788, Apr. 18, 2017, 82 F.R. 18837, as amended by Ex. Ord. No. 13858, § 5, Jan. 31, 2019, 84 F.R. 2040, which related to Buy American and entry into the United States of workers from abroad, was revoked by Ex. Ord. No. 14005, § 14(a), Jan. 25, 2021, 86 F.R. 7478, set out below.
+Ex. Ord. No. 13788, Apr. 18, 2017, 82 F.R. 18837, as amended by Ex. Ord. No. 13858, § 5, Jan. 31, 2019, 84 F.R. 2040, which related to Buy American and entry into the United States of workers from abroad, was revoked by Ex. Ord. No. 14005, § 14(a), Jan. 25, 2021, 86 F.R. 7478, set out below.
 
 **Ex. Ord. No. 13858. Strengthening Buy-American Preferences for Infrastructure Projects**
 
-Ex. Ord. No. 13858, Jan. 31, 2019, 84 F.R. 2039, as amended by Ex. Ord. No. 14005, § 14(a), Jan. 25, 2021, 86 F.R. 7478, provided:
+Ex. Ord. No. 13858, Jan. 31, 2019, 84 F.R. 2039, as amended by Ex. Ord. No. 14005, § 14(a), Jan. 25, 2021, 86 F.R. 7478, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to strengthen Buy-American principles in Federal financial assistance programs, it is hereby ordered as follows:
 
@@ -757,7 +757,7 @@ Sec. 3. *Application of Buy-American Principles to Covered Programs*. (a) Within
 
 Sec. 4. *Identification of Opportunities to Maximize the Use of Buy-American Principles*. Within 120 days of the date of this order, the head of each agency administering a covered program shall identify in a report to the President, through the Assistant to the President for Trade and Manufacturing Policy, any tools, techniques, terms, or conditions that have been used or could be used, consistent with law and in furtherance of the policy set forth in section 1 of this order, to maximize the use of iron and aluminum as well as steel, cement, and other manufactured products produced in the United States in contracts, sub-contracts, purchase orders, or sub-awards that are chargeable against Federal financial assistance awards for infrastructure projects. In preparing this report, the agency head shall take care to analyze whether covered programs within the agency head’s jurisdiction would support, through terms and conditions on new Federal financial assistance awards under such covered programs, the imposition of a requirement to use iron and aluminum as well as steel, cement, and other manufactured products produced in the United States in contracts, sub-contracts, purchase orders, or sub-awards that are chargeable against such Federal financial assistance awards.
 
-Sec. 5. [Amended Ex. Ord. No. 13788, set out above; revoked by Ex. Ord. No. 14005, § 14(a), Jan. 25, 2021, 86 F.R. 7478.]
+Sec. 5. [Amended Ex. Ord. No. 13788, set out above; revoked by Ex. Ord. No. 14005, § 14(a), Jan. 25, 2021, 86 F.R. 7478.]
 
 Sec. 6. *General Provisions*. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -1033,7 +1033,7 @@ Sec. 8. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 J.R. Biden, Jr.
 
-## § 8302. American materials required for public use
+## § 8302. American materials required for public use
 
 **(a) In General.—**
 
@@ -1059,13 +1059,13 @@ J.R. Biden, Jr.
 
 **(2) Limitation on exception for commercially available off-the-shelf items.—** Notwithstanding any law or regulation to the contrary, including section 1907 of this title and the Federal Acquisition Regulation, the requirements of this section apply to all iron and steel articles, materials, and supplies.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3831; Pub. L. 117–58, div. G, title IX, § 70922(a), (c), (e)(1), Nov. 15, 2021, 135 Stat. 1303, 1304.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3831; Pub. L. 117–58, div. G, title IX, § 70922(a), (c), (e)(1), Nov. 15, 2021, 135 Stat. 1303, 1304.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8302 | 41:10a. | Mar. 3, 1933, ch. 212, title III, § 2, 47 Stat. 1520; Pub. L. 100–418, title VII, § 7005(b), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–355, title IV, § 4301(b), Oct. 13, 1994, 108 Stat. 3347; Pub. L. 110–28 title VIII, § 8306, May 25, 2007, 121 Stat. 211. |
+| 8302 | 41:10a. | Mar. 3, 1933, ch. 212, title III, § 2, 47 Stat. 1520; Pub. L. 100–418, title VII, § 7005(b), Aug. 23, 1988, 102 Stat. 1553; Pub. L. 103–355, title IV, § 4301(b), Oct. 13, 1994, 108 Stat. 3347; Pub. L. 110–28 title VIII, § 8306, May 25, 2007, 121 Stat. 211. |
 
 In subsection (a), the words “Notwithstanding any other provision of law” are omitted as unnecessary.
 
@@ -1079,13 +1079,13 @@ The Build America, Buy America Act, referred to in subsec. (b)(1), is Pub. L. 11
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 117–58, § 70922(e)(1)(A), substituted “Federal agency” for “department or independent establishment” and “their acquisition to be inconsistent with the public interest, their cost to be unreasonable, or that the articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality” for “their acquisition to be inconsistent with the public interest or their cost to be unreasonable”.
+2021—Subsec. (a)(1). Pub. L. 117–58, § 70922(e)(1)(A), substituted “Federal agency” for “department or independent establishment” and “their acquisition to be inconsistent with the public interest, their cost to be unreasonable, or that the articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality” for “their acquisition to be inconsistent with the public interest or their cost to be unreasonable”.
 
-Subsec. (a)(2)(B). Pub. L. 117–58, § 70922(e)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; and”.
+Subsec. (a)(2)(B). Pub. L. 117–58, § 70922(e)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; and”.
 
-Subsec. (b). Pub. L. 117–58, § 70922(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to submission of reports no later than 180 days after the end of each of fiscal years 2009 through 2011.
+Subsec. (b). Pub. L. 117–58, § 70922(c), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to submission of reports no later than 180 days after the end of each of fiscal years 2009 through 2011.
 
-Subsec. (c). Pub. L. 117–58, § 70922(a), added subsec. (c).
+Subsec. (c). Pub. L. 117–58, § 70922(a), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1093,7 +1093,7 @@ Subsec. (c). Pub. L. 117–58, § 70922(a), added subsec. (c).
 
 Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-## § 8303. Contracts for public works
+## § 8303. Contracts for public works
 
 **(a) In General.—** Every contract for the construction, alteration, or repair of any public building or public work in the United States shall contain a provision that in the performance of the work the contractor, subcontractors, material men, or suppliers shall use only—
 
@@ -1123,16 +1123,16 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **(d) Results of Failure To Comply.—** If the head of a Federal agency that has made a contract containing the provision required by subsection (a) finds that there has been a failure to comply with the provision in the performance of the contract, the head of the Federal agency shall make the findings public. The findings shall include the name of the contractor obligated under the contract. The contractor, and any subcontractor, material man, or supplier associated or affiliated with the contractor, shall not be awarded another contract for the construction, alteration, or repair of any public building or public work for 3 years after the findings are made public.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3832; Pub. L. 117–58, div. G, title IX, § 70922(b), (e)(2), Nov. 15, 2021, 135 Stat. 1303, 1305.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3832; Pub. L. 117–58, div. G, title IX, § 70922(b), (e)(2), Nov. 15, 2021, 135 Stat. 1303, 1305.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8303(a) | 41:10b(a) (words before “except as provided”). | Mar. 3, 1933, ch. 212, title III, § 3, 47 Stat. 1520; Pub. L. 100–418, title VII, § 7005(c), Aug. 23, 1988, 102 Stat. 1553. |
+| 8303(a) | 41:10b(a) (words before “except as provided”). | Mar. 3, 1933, ch. 212, title III, § 3, 47 Stat. 1520; Pub. L. 100–418, title VII, § 7005(c), Aug. 23, 1988, 102 Stat. 1553. |
 | 8303(b)(1) | 41:10b(a) (“except as provided in section 10a of this title”). |  |
 | 8303(b)(2) | 41:10b(a) (proviso). |  |
-| 8303(b)(3) | 41:10d. | Oct. 29, 1949, ch. 787, title VI, § 633, 63 Stat. 1024; Pub. L. 100–418, title VII, § 7005(d), Aug. 23, 1988, 102 Stat. 1553. |
+| 8303(b)(3) | 41:10d. | Oct. 29, 1949, ch. 787, title VI, § 633, 63 Stat. 1024; Pub. L. 100–418, title VII, § 7005(d), Aug. 23, 1988, 102 Stat. 1553. |
 | 8303(c) | 41:10b(b). |  |
 
 In subsection (a), before paragraph (1), the words “growing out of an appropriation heretofore made or hereafter to be made” are omitted as unnecessary.
@@ -1147,21 +1147,21 @@ In subsection (c), the words “in the United States or elsewhere” are omitted
 
 **Amendments**
 
-2021—Subsec. (b)(1)(B). Pub. L. 117–58, § 70922(e)(2)(A)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; and”.
+2021—Subsec. (b)(1)(B). Pub. L. 117–58, § 70922(e)(2)(A)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; and”.
 
-Subsec. (b)(2). Pub. L. 117–58, § 70922(e)(2)(A)(i), substituted “Federal agency” for “department or independent establishment”.
+Subsec. (b)(2). Pub. L. 117–58, § 70922(e)(2)(A)(i), substituted “Federal agency” for “department or independent establishment”.
 
-Subsec. (b)(3). Pub. L. 117–58, § 70922(e)(2)(A)(i), (iii), in heading, substituted “Waiver authority” for “Inconsistent with public interest” and, in text, substituted “Federal agency” for “department or independent establishment” and “their acquisition to be inconsistent with the public interest, their cost to be unreasonable, or that the articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality” for “their purchase to be inconsistent with the public interest or their cost to be unreasonable”.
+Subsec. (b)(3). Pub. L. 117–58, § 70922(e)(2)(A)(i), (iii), in heading, substituted “Waiver authority” for “Inconsistent with public interest” and, in text, substituted “Federal agency” for “department or independent establishment” and “their acquisition to be inconsistent with the public interest, their cost to be unreasonable, or that the articles, materials, or supplies of the class or kind to be used, or the articles, materials, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and of a satisfactory quality” for “their purchase to be inconsistent with the public interest or their cost to be unreasonable”.
 
-Subsec. (c). Pub. L. 117–58, § 70922(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 117–58, § 70922(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 117–58, § 70922(b)(1), (e)(2)(B), redesignated subsec. (c) as (d) and substituted “Federal agency” for “department, bureau, agency, or independent establishment” in two places.
+Subsec. (d). Pub. L. 117–58, § 70922(b)(1), (e)(2)(B), redesignated subsec. (c) as (d) and substituted “Federal agency” for “department, bureau, agency, or independent establishment” in two places.
 
 **Executive Documents**
 
 **Ex. Ord. No. 10582. Uniform Procedures for Determinations**
 
-Ex. Ord. No. 10582, Dec. 17, 1954, 19 F.R. 8723, as amended by Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13881, § 3, July 15, 2019, 84 F.R. 34258, provided:
+Ex. Ord. No. 10582, Dec. 17, 1954, 19 F.R. 8723, as amended by Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13881, § 3, July 15, 2019, 84 F.R. 34258, provided:
 
 Section 1. As used in this order, (a) the term “materials” includes articles and supplies, (b) the term “executive agency” includes executive department, independent establishment, and other instrumentality of the executive branch of the Government, and (c) the term “bid or offered price of materials of foreign origin” means the bid or offered price of such materials delivered at the place specified in the invitation to bid including applicable duty and all costs incurred after arrival in the United States.
 
@@ -1193,19 +1193,19 @@ Sec. 5. This order shall apply only to contracts entered into after the date her
 
 [Ex. Ord. No. 10582, set out above, superseded to the extent that it is inconsistent with Ex. Ord. No. 13881, and section 2(a) and (c) of Ex. Ord. No. 10582 revoked upon issuance of final rule pursuant to section 2 of Ex. Ord. No. 13881, see section 3 of Ex. Ord. No. 13881, July 15, 2019, 84 F.R. 34258, set out in a note under section 8301 of this title.]
 
-## § 8304. Waiver rescission
+## § 8304. Waiver rescission
 
 **(a) Type of Agreement.—** An agreement referred to in subsection (b) is a reciprocal defense procurement memorandum of understanding between the United States and a foreign country pursuant to which the Secretary of Defense has prospectively waived this chapter for certain products in that country.
 
 **(b) Determination by Secretary of Defense.—** If the Secretary of Defense, after consultation with the United States Trade Representative, determines that a foreign country that is party to an agreement described in subsection (a) has violated the agreement by discriminating against certain types of products produced in the United States that are covered by the agreement, the Secretary of Defense shall rescind the Secretary’s blanket waiver of this chapter with respect to those types of products produced in that country.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3833.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3833.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8304(a) | 41:10b–2(a)(2), (b). | Pub. L. 103–160, div. A, title VIII, § 849(c), (d), Nov. 30, 1993, 107 Stat. 1725. |
+| 8304(a) | 41:10b–2(a)(2), (b). | Pub. L. 103–160, div. A, title VIII, § 849(c), (d), Nov. 30, 1993, 107 Stat. 1725. |
 | 8304(b) | 41:10b–2(a)(1). |  |
 
 In subsection (a), the text of 41:10b–2(b) is omitted as unnecessary.
@@ -1216,79 +1216,79 @@ In subsection (a), the text of 41:10b–2(b) is omitted as unnecessary.
 
 Provisions similar to those in this section and section 8305 of this title were contained in the following acts:
 
-Pub. L. 119–75, div. A, title VIII, § 8032, Feb. 3, 2026, 140 Stat. 205.
+Pub. L. 119–75, div. A, title VIII, § 8032, Feb. 3, 2026, 140 Stat. 205.
 
-Pub. L. 118–47, div. A, title VIII, § 8032, Mar. 23, 2024, 138 Stat. 490.
+Pub. L. 118–47, div. A, title VIII, § 8032, Mar. 23, 2024, 138 Stat. 490.
 
-Pub. L. 117–328, div. C, title VIII, § 8032, Dec. 29, 2022, 136 Stat. 4593.
+Pub. L. 117–328, div. C, title VIII, § 8032, Dec. 29, 2022, 136 Stat. 4593.
 
-Pub. L. 117–103, div. C, title VIII, § 8033, Mar. 15, 2022, 136 Stat. 182.
+Pub. L. 117–103, div. C, title VIII, § 8033, Mar. 15, 2022, 136 Stat. 182.
 
-Pub. L. 116–260, div. C, title VIII, § 8030, Dec. 27, 2020, 134 Stat. 1310.
+Pub. L. 116–260, div. C, title VIII, § 8030, Dec. 27, 2020, 134 Stat. 1310.
 
-Pub. L. 116–93, div. A, title VIII, § 8029, Dec. 20, 2019, 133 Stat. 2342.
+Pub. L. 116–93, div. A, title VIII, § 8029, Dec. 20, 2019, 133 Stat. 2342.
 
-Pub. L. 115–245, div. A, title VIII, § 8028, Sept. 28, 2018, 132 Stat. 3006.
+Pub. L. 115–245, div. A, title VIII, § 8028, Sept. 28, 2018, 132 Stat. 3006.
 
-Pub. L. 115–141, div. C, title VIII, § 8028, Mar. 23, 2018, 132 Stat. 469.
+Pub. L. 115–141, div. C, title VIII, § 8028, Mar. 23, 2018, 132 Stat. 469.
 
-Pub. L. 115–31, div. C, title VIII, § 8029, May 5, 2017, 131 Stat. 253.
+Pub. L. 115–31, div. C, title VIII, § 8029, May 5, 2017, 131 Stat. 253.
 
-Pub. L. 114–113, div. C, title VIII, § 8028, Dec. 18, 2015, 129 Stat. 2357.
+Pub. L. 114–113, div. C, title VIII, § 8028, Dec. 18, 2015, 129 Stat. 2357.
 
-Pub. L. 113–235, div. C, title VIII, § 8028, Dec. 16, 2014, 128 Stat. 2258.
+Pub. L. 113–235, div. C, title VIII, § 8028, Dec. 16, 2014, 128 Stat. 2258.
 
-Pub. L. 113–76, div. C, title VIII, § 8027, Jan. 17, 2014, 128 Stat. 110.
+Pub. L. 113–76, div. C, title VIII, § 8027, Jan. 17, 2014, 128 Stat. 110.
 
-Pub. L. 113–6, div. C, title VIII, § 8027, Mar. 26, 2013, 127 Stat. 302.
+Pub. L. 113–6, div. C, title VIII, § 8027, Mar. 26, 2013, 127 Stat. 302.
 
-Pub. L. 112–74, div. A, title VIII, § 8027, Dec. 23, 2011, 125 Stat. 811.
+Pub. L. 112–74, div. A, title VIII, § 8027, Dec. 23, 2011, 125 Stat. 811.
 
-Pub. L. 112–10, div. A, title VIII, § 8028, Apr. 15, 2011, 125 Stat. 63.
+Pub. L. 112–10, div. A, title VIII, § 8028, Apr. 15, 2011, 125 Stat. 63.
 
-Pub. L. 111–118, div. A, title VIII, § 8030, Dec. 19, 2009, 123 Stat. 3435.
+Pub. L. 111–118, div. A, title VIII, § 8030, Dec. 19, 2009, 123 Stat. 3435.
 
-Pub. L. 110–329, div. C, title VIII, § 8030, Sept. 30, 2008, 122 Stat. 3627.
+Pub. L. 110–329, div. C, title VIII, § 8030, Sept. 30, 2008, 122 Stat. 3627.
 
-Pub. L. 110–116, div. A, title VIII, § 8029, Nov. 13, 2007, 121 Stat. 1321.
+Pub. L. 110–116, div. A, title VIII, § 8029, Nov. 13, 2007, 121 Stat. 1321.
 
-Pub. L. 109–289, div. A, title VIII, § 8027, Sept. 29, 2006, 120 Stat. 1279.
+Pub. L. 109–289, div. A, title VIII, § 8027, Sept. 29, 2006, 120 Stat. 1279.
 
-Pub. L. 109–148, div. A, title VIII, § 8030, Dec. 30, 2005, 119 Stat. 2705.
+Pub. L. 109–148, div. A, title VIII, § 8030, Dec. 30, 2005, 119 Stat. 2705.
 
-Pub. L. 108–287, title VIII, § 8032, Aug. 5, 2004, 118 Stat. 977.
+Pub. L. 108–287, title VIII, § 8032, Aug. 5, 2004, 118 Stat. 977.
 
-Pub. L. 108–87, title VIII, § 8033, Sept. 30, 2003, 117 Stat. 1079.
+Pub. L. 108–87, title VIII, § 8033, Sept. 30, 2003, 117 Stat. 1079.
 
-Pub. L. 107–248, title VIII, § 8033, Oct. 23, 2002, 116 Stat. 1544.
+Pub. L. 107–248, title VIII, § 8033, Oct. 23, 2002, 116 Stat. 1544.
 
-Pub. L. 107–117, div. A, title VIII, § 8036, Jan. 10, 2002, 115 Stat. 2255.
+Pub. L. 107–117, div. A, title VIII, § 8036, Jan. 10, 2002, 115 Stat. 2255.
 
-Pub. L. 106–259, title VIII, § 8036, Aug. 9, 2000, 114 Stat. 682.
+Pub. L. 106–259, title VIII, § 8036, Aug. 9, 2000, 114 Stat. 682.
 
-Pub. L. 106–79, title VIII, § 8038, Oct. 25, 1999, 113 Stat. 1239.
+Pub. L. 106–79, title VIII, § 8038, Oct. 25, 1999, 113 Stat. 1239.
 
-Pub. L. 105–262, title VIII, § 8038, Oct. 17, 1998, 112 Stat. 2305.
+Pub. L. 105–262, title VIII, § 8038, Oct. 17, 1998, 112 Stat. 2305.
 
-Pub. L. 105–56, title VIII, § 8040, Oct. 8, 1997, 111 Stat. 1229.
+Pub. L. 105–56, title VIII, § 8040, Oct. 8, 1997, 111 Stat. 1229.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8042], Sept. 30, 1996, 110 Stat. 3009–71, 3009–97.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8042], Sept. 30, 1996, 110 Stat. 3009–71, 3009–97.
 
-Pub. L. 104–61, title VIII, § 8051, Dec. 1, 1995, 109 Stat. 662.
+Pub. L. 104–61, title VIII, § 8051, Dec. 1, 1995, 109 Stat. 662.
 
-Pub. L. 103–335, title VIII, § 8058, Sept. 30, 1994, 108 Stat. 2631.
+Pub. L. 103–335, title VIII, § 8058, Sept. 30, 1994, 108 Stat. 2631.
 
-Pub. L. 103–139, title VIII, § 8069, Nov. 11, 1993, 107 Stat. 1455.
+Pub. L. 103–139, title VIII, § 8069, Nov. 11, 1993, 107 Stat. 1455.
 
-Pub. L. 102–396, title IX, § 9096, Oct. 6, 1992, 106 Stat. 1924, as amended by Pub. L. 103–355, title VII, § 7206(b), Oct. 13, 1994, 108 Stat. 3382.
+Pub. L. 102–396, title IX, § 9096, Oct. 6, 1992, 106 Stat. 1924, as amended by Pub. L. 103–355, title VII, § 7206(b), Oct. 13, 1994, 108 Stat. 3382.
 
-Pub. L. 102–190, div. A, title VIII, § 833, Dec. 5, 1991, 105 Stat. 1447.
+Pub. L. 102–190, div. A, title VIII, § 833, Dec. 5, 1991, 105 Stat. 1447.
 
-Pub. L. 102–172, title VIII, § 8123, Nov. 26, 1991, 105 Stat. 1205.
+Pub. L. 102–172, title VIII, § 8123, Nov. 26, 1991, 105 Stat. 1205.
 
-Pub. L. 101–189, div. A, title VIII, § 823, Nov. 29, 1989, 103 Stat. 1504.
+Pub. L. 101–189, div. A, title VIII, § 823, Nov. 29, 1989, 103 Stat. 1504.
 
-## § 8305. Annual report
+## § 8305. Annual report
 
 Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report on the amount of purchases by the Department of Defense from foreign entities in that fiscal year. The report shall separately indicate the dollar value of items for which this chapter was waived pursuant to—
 
@@ -1298,13 +1298,13 @@ Not later than 60 days after the end of each fiscal year, the Secretary of Defen
 
 **(3)** an international agreement to which the United States is a party.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3833.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3833.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8305 | 41:10b–3. | Pub. L. 104–201, div. A, title VIII, § 827, Sept. 23, 1996, 110 Stat. 2611; Pub. L. 105–85, div. A, title VIII, § 846, Nov. 18, 1997, 111 Stat. 1845; Pub. L. 105–261, div. A, title VIII, § 812, Oct. 17, 1998, 112 Stat. 2086. |
+| 8305 | 41:10b–3. | Pub. L. 104–201, div. A, title VIII, § 827, Sept. 23, 1996, 110 Stat. 2611; Pub. L. 105–85, div. A, title VIII, § 846, Nov. 18, 1997, 111 Stat. 1845; Pub. L. 105–261, div. A, title VIII, § 812, Oct. 17, 1998, 112 Stat. 2086. |
 
 **Statutory Notes and Related Subsidiaries**
 

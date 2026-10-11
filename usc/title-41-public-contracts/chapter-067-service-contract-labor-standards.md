@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 67—SERVICE CONTRACT LABOR STANDARDS
 
-## § 6701. Definitions
+## § 6701. Definitions
 
 In this chapter:
 
@@ -33,17 +33,17 @@ In this chapter:
 
 **(4) United states.—** The term “United States”—
 
-**(A)** includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, the outer Continental Shelf as defined in the Outer Continental Shelf Lands Act (43 U.S.C. § 1331 et seq.), American Samoa, Guam, Wake Island, and Johnston Island; but
+**(A)** includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, the outer Continental Shelf as defined in the Outer Continental Shelf Lands Act (43 U.S.C. § 1331 et seq.), American Samoa, Guam, Wake Island, and Johnston Island; but
 
 **(B)** does not include any other territory under the jurisdiction of the United States or any United States base or possession within a foreign country.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3811.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3811.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6701 | 41:357. | Pub. L. 89–286, § 8, Oct. 22, 1965, 79 Stat. 1036; Pub. L. 93–57, § 1, July 6, 1973, 87 Stat. 140; Pub. L. 94–489, § 3, Oct. 13, 1976, 90 Stat. 2358. |
+| 6701 | 41:357. | Pub. L. 89–286, § 8, Oct. 22, 1965, 79 Stat. 1036; Pub. L. 93–57, § 1, July 6, 1973, 87 Stat. 140; Pub. L. 94–489, § 3, Oct. 13, 1976, 90 Stat. 2358. |
 
 In paragraph (3), the word “individual” is substituted for “person” because of the definition of “person” in 1:1. The words “contract made by the Federal Government” are substituted for “contract entered into by the United States” for consistency in the revised title. The words “as of July 30, 1976, and any subsequent revision of those regulations” are omitted as obsolete.
 
@@ -53,9 +53,9 @@ In paragraph (4)(A), the words “the outer Continental Shelf” are substituted
 
 **References in Text**
 
-The Outer Continental Shelf Lands Act, referred to in par. (4)(A), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in par. (4)(A), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
-## § 6702. Contracts to which this chapter applies
+## § 6702. Contracts to which this chapter applies
 
 **(a) In General.—** Except as provided in subsection (b), this chapter applies to any contract or bid specification for a contract, whether negotiated or advertised, that—
 
@@ -81,14 +81,14 @@ The Outer Continental Shelf Lands Act, referred to in par. (4)(A), is act Aug. 7
 
 **(7)** a contract with the United States Postal Service, the principal purpose of which is the operation of postal contract stations.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3812.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3812.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6702(a) | 41:351(a) (words before par. (1) related to applicability). | Pub. L. 89–286, § 2(a) (words before par. (1) related to applicability), Oct. 22, 1965, 79 Stat. 1034; Pub. L. 94–489, § 1(a), Oct. 13, 1976, 90 Stat. 2358. |
-| 6702(b) | 41:356. | Pub. L. 89–286, § 7, Oct. 22, 1965, 79 Stat. 1035. |
+| 6702(a) | 41:351(a) (words before par. (1) related to applicability). | Pub. L. 89–286, § 2(a) (words before par. (1) related to applicability), Oct. 22, 1965, 79 Stat. 1034; Pub. L. 94–489, § 1(a), Oct. 13, 1976, 90 Stat. 2358. |
+| 6702(b) | 41:356. | Pub. L. 89–286, § 7, Oct. 22, 1965, 79 Stat. 1035. |
 
 In subsection (b)(2), the words “the Walsh-Healey Public Contracts Act (49 Stat. 2036)”, which appear in section 7(2) of Public Law 89–286 (79 Stat. 1036), are treated as a reference to the Act of June 30, 1936 (ch. 881, 49 Stat. 2036), which was known as the Walsh-Healey Act and which was subsequently designated as the Walsh-Healey Act by section 12 of the Act of June 30, 1936, which was added by section 10005(f)(5) of Public Law 103–355 (108 Stat. 3409).
 
@@ -98,9 +98,9 @@ In subsection (b)(7), the words “United States Postal Service” are substitut
 
 **References in Text**
 
-The Communications Act of 1934, referred to in subsec. (b)(4), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (b)(4), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
-## § 6703. Required contract terms
+## § 6703. Required contract terms
 
 A contract, and bid specification for a contract, to which this chapter applies under section 6702 of this title shall contain the following terms:
 
@@ -114,43 +114,43 @@ A contract, and bid specification for a contract, to which this chapter applies 
 
 **(5) General schedule pay rates and prevailing rate systems.—** The contract and bid specification shall contain a statement of the rates that would be paid by the Federal agency to each class of service employee if section 5332 or 5341 of title 5 were applicable to them. The Secretary shall give due consideration to these rates in making the wage and fringe benefit determinations specified in this section.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3812.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3812.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6703 | 41:351(a) (words before par. (1) related to required contract terms), (1)–(5). | Pub. L. 89–286, § 2(a) (words before par. (1) related to required contract terms), (1)–(5), Oct. 22, 1965, 79 Stat. 1034; Pub. L. 92–473, §§ 1, 2, Oct. 9, 1972, 86 Stat. 789; Pub. L. 94–489, § 2, Oct. 13, 1976, 90 Stat. 2358. |
+| 6703 | 41:351(a) (words before par. (1) related to required contract terms), (1)–(5). | Pub. L. 89–286, § 2(a) (words before par. (1) related to required contract terms), (1)–(5), Oct. 22, 1965, 79 Stat. 1034; Pub. L. 92–473, §§ 1, 2, Oct. 9, 1972, 86 Stat. 789; Pub. L. 94–489, § 2, Oct. 13, 1976, 90 Stat. 2358. |
 
 **Executive Documents**
 
 **Executive Order No. 13495**
 
-Ex. Ord. No. 13495, Jan. 30, 2009, 74 F.R. 6103, which provided for nondisplacement of qualified workers under a successor service contract upon the expiration of the predecessor contract, was revoked by Ex. Ord. No. 13897, § 1, Oct. 31, 2019, 84 F.R. 59709, formerly set out below.
+Ex. Ord. No. 13495, Jan. 30, 2009, 74 F.R. 6103, which provided for nondisplacement of qualified workers under a successor service contract upon the expiration of the predecessor contract, was revoked by Ex. Ord. No. 13897, § 1, Oct. 31, 2019, 84 F.R. 59709, formerly set out below.
 
 **Executive Order No. 13897**
 
-Ex. Ord. No. 13897, Oct. 31, 2019, 84 F.R. 59709, which related to the revocation of Ex. Ord. No. 13495, formerly set out above, was revoked by Ex. Ord. No. 14055, § 9, Nov. 18, 2021, 86 F.R. 66400, set out below.
+Ex. Ord. No. 13897, Oct. 31, 2019, 84 F.R. 59709, which related to the revocation of Ex. Ord. No. 13495, formerly set out above, was revoked by Ex. Ord. No. 14055, § 9, Nov. 18, 2021, 86 F.R. 66400, set out below.
 
 **Executive Order No. 14055**
 
-Ex. Ord. No. 14055, Nov. 18, 2021, 86 F.R. 66397, which required agencies to ensure that service contracts and subcontracts that succeed a contract for performance of the same or similar work, and solicitations for such contracts and subcontracts, include a clause requiring the contractor and its subcontractors offer a right of first refusal of employment to service employees employed under the predecessor contract and its subcontracts, was revoked by Ex. Ord. No. 14148, § 2(qq), Jan. 20, 2025, 90 F.R. 8239.
+Ex. Ord. No. 14055, Nov. 18, 2021, 86 F.R. 66397, which required agencies to ensure that service contracts and subcontracts that succeed a contract for performance of the same or similar work, and solicitations for such contracts and subcontracts, include a clause requiring the contractor and its subcontractors offer a right of first refusal of employment to service employees employed under the predecessor contract and its subcontracts, was revoked by Ex. Ord. No. 14148, § 2(qq), Jan. 20, 2025, 90 F.R. 8239.
 
-## § 6704. Limitation on minimum wage
+## § 6704. Limitation on minimum wage
 
 **(a) In General.—** A contractor that makes a contract with the Federal Government, the principal purpose of which is to furnish services through the use of service employees, and any subcontractor, may not pay less than the minimum wage specified under section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) to an employee engaged in performing work on the contract.
 
 **(b) Violations.—** Sections 6705 to 6707(d) of this title are applicable to a violation of this section.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3813.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3813.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6704 | 41:351(b). | Pub. L. 89–286, § 2(b), Oct. 22, 1965, 79 Stat. 1034; Pub. L. 94–489, § 1(b), Oct. 13, 1976, 90 Stat. 2358. |
+| 6704 | 41:351(b). | Pub. L. 89–286, § 2(b), Oct. 22, 1965, 79 Stat. 1034; Pub. L. 94–489, § 1(b), Oct. 13, 1976, 90 Stat. 2358. |
 
-## § 6705. Violations
+## § 6705. Violations
 
 **(a) Liability of Responsible Party.—** A party responsible for a violation of a contract provision required under section 6703(1) or (2) of this title or a violation of section 6704 of this title is liable for an amount equal to the sum of any deduction, rebate, refund, or underpayment of compensation due any employee engaged in the performance of the contract.
 
@@ -164,13 +164,13 @@ Ex. Ord. No. 14055, Nov. 18, 2021, 86 F.R. 66397, which required agencies to ens
 
 **(d) Enforcement of Section.—** In accordance with regulations prescribed pursuant to section 6707(a)–(d) of this title, the Secretary or the head of a Federal agency may carry out this section.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3814.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3814.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6705(a) | 41:352(a) (1st sentence). | Pub. L. 89–286, §§ 3, 5(b), Oct. 22, 1965, 79 Stat. 1035. |
+| 6705(a) | 41:352(a) (1st sentence). | Pub. L. 89–286, §§ 3, 5(b), Oct. 22, 1965, 79 Stat. 1035. |
 | 6705(b)(1) | 41:352(a) (2d–last sentences). |  |
 | 6705(b)(2) | 41:354(b) |  |
 | 6705(c) | 41:352(c). |  |
@@ -178,24 +178,24 @@ Ex. Ord. No. 14055, Nov. 18, 2021, 86 F.R. 66397, which required agencies to ens
 
 In subsection (c), the words “to other actions in accordance with this section” are added for clarity.
 
-## § 6706. Three-year prohibition on new contracts in case of violation
+## § 6706. Three-year prohibition on new contracts in case of violation
 
 **(a) Distribution of List.—** The Comptroller General shall distribute to each agency of the Federal Government a list containing the names of persons or firms that a Federal agency or the Secretary has found to have violated this chapter.
 
 **(b) Three-Year Prohibition.—** Unless the Secretary recommends otherwise because of unusual circumstances, a Federal Government contract may not be awarded to a person or firm named on the list under subsection (a), or to an entity in which the person or firm has a substantial interest, until 3 years have elapsed from the date of publication of the list. If the Secretary does not recommend otherwise because of unusual circumstances, the Secretary shall, not later than 90 days after a hearing examiner has made a finding of a violation of this chapter, forward to the Comptroller General the name of the person or firm found to have violated this chapter.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3814.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3814.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6706(a) | 41:354(a) (1st sentence). | Pub. L. 89–286, § 5(a) (1st sentence), Oct. 22, 1965, 79 Stat. 1035. |
-| 6706(b) | 41:354(a) (2d–last sentences). | Pub. L. 89–286, § 5(a) (2d–last sentences), Oct. 22, 1965, 79 Stat. 1035; Pub. L. 92–473, § 4, Oct. 9, 1972, 86 Stat. 790. |
+| 6706(a) | 41:354(a) (1st sentence). | Pub. L. 89–286, § 5(a) (1st sentence), Oct. 22, 1965, 79 Stat. 1035. |
+| 6706(b) | 41:354(a) (2d–last sentences). | Pub. L. 89–286, § 5(a) (2d–last sentences), Oct. 22, 1965, 79 Stat. 1035; Pub. L. 92–473, § 4, Oct. 9, 1972, 86 Stat. 790. |
 
 In subsection (b), the word “entity” is substituted for “firm, corporation, partnership, or association” to use a single broad term clarifying that the prohibition applies to any kind of organization in which the person or firm has a substantial interest. The words “containing the name of such persons or firms” are omitted as unnecessary. The word “person” is substituted for “individual” for consistency in the subsection.
 
-## § 6707. Enforcement and administration of chapter
+## § 6707. Enforcement and administration of chapter
 
 **(a) Enforcement of Chapter.—** Sections 6506 and 6507 of this title govern the Secretary’s authority to enforce this chapter, including the Secretary’s authority to prescribe regulations, issue orders, hold hearings, make decisions based on findings of fact, and take other appropriate action under this chapter.
 
@@ -213,16 +213,16 @@ In subsection (b), the word “entity” is substituted for “firm, corporation
 
 **(f) Timeliness of Wage and Fringe Benefit Determinations.—** It is the intent of Congress that determinations of minimum wages and fringe benefits under section 6703(1) and (2) of this title should be made as soon as administratively feasible for all contracts subject to this chapter. In any event, the Secretary shall at least make the determinations for contracts under which more than 5 service employees are to be employed.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3815.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3815.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 6707(a)–(d) | 41:353. | Pub. L. 89–286, § 4, Oct. 22, 1965, 79 Stat. 1035; Pub. L. 92–473, § 3, Oct. 9, 1972, 86 Stat. 789. |
-| 6707(e) | 41:355. | Pub. L. 89–286, § 6, Oct. 22, 1965, 79 Stat. 1035. |
-| 6707(f) | 41:358. | Pub. L. 89–286, § 10, as added Pub. L. 92–473, § 5, Oct. 9, 1972, 86 Stat. 790; Pub. L. 94–273, § 29, Apr. 21, 1976, 90 Stat. 380. |
+| 6707(a)–(d) | 41:353. | Pub. L. 89–286, § 4, Oct. 22, 1965, 79 Stat. 1035; Pub. L. 92–473, § 3, Oct. 9, 1972, 86 Stat. 789. |
+| 6707(e) | 41:355. | Pub. L. 89–286, § 6, Oct. 22, 1965, 79 Stat. 1035. |
+| 6707(f) | 41:358. | Pub. L. 89–286, § 10, as added Pub. L. 92–473, § 5, Oct. 9, 1972, 86 Stat. 790; Pub. L. 94–273, § 29, Apr. 21, 1976, 90 Stat. 380. |
 
-In subsection (e), the words “the definition of ‘regular rate’ under section 7(e) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(e))” are substituted for “the regular rate under the Fair Labor Standards Act by provisions of section 7(d) thereof ” for clarity, to correct the reference to “the Fair Labor Standards Act” in accordance with section 1 of the Fair Labor Standards Act of 1938 (29:201), which provided the short title for the Act, and to correct the reference to “section 7(d) thereof ” in accordance with section 204(d)(1) of the Fair Labor Standards Amendments of 1966 (Public Law 89–601, 80 Stat. 836), which amended the Fair Labor Standards Act of 1938 by redesignating section 7(d) as 7(e).
+In subsection (e), the words “the definition of ‘regular rate’ under section 7(e) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(e))” are substituted for “the regular rate under the Fair Labor Standards Act by provisions of section 7(d) thereof ” for clarity, to correct the reference to “the Fair Labor Standards Act” in accordance with section 1 of the Fair Labor Standards Act of 1938 (29:201), which provided the short title for the Act, and to correct the reference to “section 7(d) thereof ” in accordance with section 204(d)(1) of the Fair Labor Standards Amendments of 1966 (Public Law 89–601, 80 Stat. 836), which amended the Fair Labor Standards Act of 1938 by redesignating section 7(d) as 7(e).
 
 In subsection (f), the words “paragraphs (1) and (2) of section 2”, which appear in section 10 of the Service Contract Act of 1965, as added by section 5 of Public Law 92–473 (86 Stat. 790), are treated as a reference to paragraphs (1) and (2) of section 2(a) of the Service Contract Act of 1965 to reflect the probable intent of Congress. The words “which are entered into during the applicable fiscal year”, 41:358(1)–(4), and the words “On and after July 1, 1976” are omitted as obsolete.

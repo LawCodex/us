@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 83—UNITED STATES LEADERSHIP AGAINST HIV/AIDS, TUBERCULOSIS, AND MALARIA
 
-## § 7601. Findings
+## § 7601. Findings
 
 Congress makes the following findings:
 
@@ -111,7 +111,7 @@ Congress makes the following findings:
 
 **(26)** In this address to Congress, the President stated the following: “Today, on the continent of Africa, nearly 30,000,000 people have the AIDS virus—including 3,000,000 children under the age of 15. There are whole countries in Africa where more than one-third of the adult population carries the infection. More than 4,000,000 require immediate drug treatment. Yet across that continent, only 50,000 AIDS victims—only 50,000—are receiving the medicine they need.”.
 
-**(27)** Furthermore, the President focused on care and treatment of HIV/AIDS in his address to Congress, stating the following: “Because the AIDS diagnosis is considered a death sentence, many do not seek treatment. Almost all who do are turned away. A doctor in rural South Africa describes his frustration. He says, ‘We have no medicines. Many hospitals tell people, you’ve got AIDS, we can’t help you. Go home and die.’ In an age of miraculous medicines, no person should have to hear those words. AIDS can be prevented. Anti-retroviral drugs can extend life for many years \* \* \* Ladies and gentlemen, seldom has history offered a greater opportunity to do so much for so many.”.
+**(27)** Furthermore, the President focused on care and treatment of HIV/AIDS in his address to Congress, stating the following: “Because the AIDS diagnosis is considered a death sentence, many do not seek treatment. Almost all who do are turned away. A doctor in rural South Africa describes his frustration. He says, ‘We have no medicines. Many hospitals tell people, you’ve got AIDS, we can’t help you. Go home and die.’ In an age of miraculous medicines, no person should have to hear those words. AIDS can be prevented. Anti-retroviral drugs can extend life for many years \* \* \* Ladies and gentlemen, seldom has history offered a greater opportunity to do so much for so many.”.
 
 **(28)** Finally, the President stated that “[w]e have confronted, and will continue to confront, HIV/AIDS in our own country”, proposing now that the United States should lead the world in sparing innocent people from a plague of nature, and asking Congress “to commit $15,000,000,000 over the next five years, including nearly $10,000,000,000 in new money, to turn the tide against AIDS in the most afflicted nations of Africa and the Caribbean”.
 
@@ -187,7 +187,7 @@ Congress makes the following findings:
 
 **(D)** pledged “to set a target of allocating at least 15% of our annual budget to the improvement of the health sector”.
 
-(Pub. L. 108–25, § 2, May 27, 2003, 117 Stat. 712; Pub. L. 110–293, § 2, July 30, 2008, 122 Stat. 2919.)
+(Pub. L. 108–25, § 2, May 27, 2003, 117 Stat. 712; Pub. L. 110–293, § 2, July 30, 2008, 122 Stat. 2919.)
 
 **Editorial Notes**
 
@@ -203,19 +203,19 @@ This chapter, referred to in pars. (29) and (41), was in the original “this Ac
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–305, § 1, Dec. 11, 2018, 132 Stat. 4402, provided that: “This Act [amending sections 7611, 7622, and 7673 of this title] may be cited as the ‘PEPFAR Extension Act of 2018’.”
+Pub. L. 115–305, § 1, Dec. 11, 2018, 132 Stat. 4402, provided that: “This Act [amending sections 7611, 7622, and 7673 of this title] may be cited as the ‘PEPFAR Extension Act of 2018’.”
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 113–56, § 1, Dec. 2, 2013, 127 Stat. 648, provided that: “This Act [amending sections 2151b–2, 7611, 7622, and 7673 of this title] may be cited as the ‘PEPFAR Stewardship and Oversight Act of 2013’.”
+Pub. L. 113–56, § 1, Dec. 2, 2013, 127 Stat. 648, provided that: “This Act [amending sections 2151b–2, 7611, 7622, and 7673 of this title] may be cited as the ‘PEPFAR Stewardship and Oversight Act of 2013’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–293, § 1(a), July 30, 2008, 122 Stat. 2918, provided that: “This Act [see Tables for classification] may be cited as the ‘Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008’.”
+Pub. L. 110–293, § 1(a), July 30, 2008, 122 Stat. 2918, provided that: “This Act [see Tables for classification] may be cited as the ‘Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008’.”
 
 **Short Title**
 
-Pub. L. 108–25, § 1(a), May 27, 2003, 117 Stat. 711, provided that: “This Act [enacting this chapter and sections 262p–8 and 2151b–2 to 2151b–4 of this title and amending sections 2151b, 2222, and 2651a of this title and section 242l of Title 42, The Public Health and Welfare] may be cited as the ‘United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003’.”
+Pub. L. 108–25, § 1(a), May 27, 2003, 117 Stat. 711, provided that: “This Act [enacting this chapter and sections 262p–8 and 2151b–2 to 2151b–4 of this title and amending sections 2151b, 2222, and 2651a of this title and section 242l of Title 42, The Public Health and Welfare] may be cited as the ‘United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003’.”
 
 **Executive Documents**
 
@@ -223,7 +223,7 @@ Pub. L. 108–25, § 1(a), May 27, 2003, 117 Stat. 711, provided that: “This
 
 For delegation of functions of President under this chapter, except for functions set forth in section 7622(d)(4)(C)(i), (ii) of this title, to Secretary of State, see section 1–100(a)(16) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-## § 7602. Definitions
+## § 7602. Definitions
 
 In this chapter:
 
@@ -277,7 +277,7 @@ The term “partner government” means a government with which the United State
 
 The term “relevant executive branch agencies” means the Department of State, the United States Agency for International Development, and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.].
 
-(Pub. L. 108–25, § 3, May 27, 2003, 117 Stat. 717; Pub. L. 110–293, § 3, July 30, 2008, 122 Stat. 2921.)
+(Pub. L. 108–25, § 3, May 27, 2003, 117 Stat. 717; Pub. L. 110–293, § 3, July 30, 2008, 122 Stat. 2921.)
 
 **Editorial Notes**
 
@@ -285,13 +285,13 @@ The term “relevant executive branch agencies” means the Department of State,
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in par. (12), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (12), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
 2008—Pub. L. 110–293 substituted “Committee on Foreign Affairs of the House of Representatives, the Committee on Appropriations of the Senate, and the Committee on Appropriations” for “Committee on International Relations” in par. (2), added pars. (3) and (7) to (11), and redesignated former pars. (3) to (5) and (6) as (4) to (6) and (12), respectively.
 
-## § 7603. Purpose
+## § 7603. Purpose
 
 The purpose of this chapter is to strengthen and enhance United States leadership and the effectiveness of the United States response to the HIV/AIDS, tuberculosis, and malaria pandemics and other related and preventable infectious diseases as part of the overall United States health and development agenda by—
 
@@ -331,7 +331,7 @@ The purpose of this chapter is to strengthen and enhance United States leadershi
 
 **(C)** address infrastructural weaknesses.
 
-(Pub. L. 108–25, § 4, May 27, 2003, 117 Stat. 717; Pub. L. 110–293, § 4, July 30, 2008, 122 Stat. 2922.)
+(Pub. L. 108–25, § 4, May 27, 2003, 117 Stat. 717; Pub. L. 110–293, § 4, July 30, 2008, 122 Stat. 2922.)
 
 **Editorial Notes**
 
@@ -343,11 +343,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 2008—Pub. L. 110–293 amended section generally. Prior to amendment, section stated the purpose of this chapter.
 
-## § 7604. Authority to consolidate and combine reports
+## § 7604. Authority to consolidate and combine reports
 
 With respect to the reports required by this chapter to be submitted by the President, to ensure an efficient use of resources, the President may, in his discretion and notwithstanding any other provision of this chapter, consolidate or combine any of these reports, except for the report required by section 7611 of this title, so long as the required elements of each report are addressed and reported within a 90-day period from the original deadline date for submission of the report specified in this chapter. The President may also enter into contracts with organizations with relevant expertise to develop, originate, or contribute to any of the reports required by this chapter to be submitted by the President, with the exception of the 5-year strategy.
 
-(Pub. L. 108–25, § 5, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, § 5, July 30, 2008, 122 Stat. 2922.)
+(Pub. L. 108–25, § 5, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, § 5, July 30, 2008, 122 Stat. 2922.)
 
 **Editorial Notes**
 
@@ -357,7 +357,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Amendments**
 
-2008—Pub. L. 110–293 inserted “, with the exception of the 5-year strategy” before the period at end.
+2008—Pub. L. 110–293 inserted “, with the exception of the 5-year strategy” before the period at end.
 
 **Executive Documents**
 
@@ -367,7 +367,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 ## SUBCHAPTER I—POLICY PLANNING AND COORDINATION
 
-### § 7611. Development of a comprehensive, five-year, global strategy
+### § 7611. Development of a comprehensive, five-year, global strategy
 
 **(a) Strategy** The President shall establish a comprehensive, integrated, 5-year strategy to expand and improve efforts to combat global HIV/AIDS. This strategy shall—
 
@@ -809,7 +809,7 @@ In this subsection, the term “partner country” means a country with a minimu
 
 **(2)** enhances awareness by program recipients that the program is an effort on behalf of the citizens of the United States.
 
-(Pub. L. 108–25, title I, § 101, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, title I, § 101, July 30, 2008, 122 Stat. 2923; Pub. L. 113–56, §§ 2, 3(a), Dec. 2, 2013, 127 Stat. 648; Pub. L. 115–305, § 2, Dec. 11, 2018, 132 Stat. 4402; Pub. L. 118–47, div. F, title VII, § 7072(a), Mar. 23, 2024, 138 Stat. 852.)
+(Pub. L. 108–25, title I, § 101, May 27, 2003, 117 Stat. 718; Pub. L. 110–293, title I, § 101, July 30, 2008, 122 Stat. 2923; Pub. L. 113–56, §§ 2, 3(a), Dec. 2, 2013, 127 Stat. 648; Pub. L. 115–305, § 2, Dec. 11, 2018, 132 Stat. 4402; Pub. L. 118–47, div. F, title VII, § 7072(a), Mar. 23, 2024, 138 Stat. 852.)
 
 **Editorial Notes**
 
@@ -819,43 +819,43 @@ This chapter, referred to in subsecs. (c)(2)(B)(vi), (vii), (f)(1)(A), (g)(1)(B)
 
 **Amendments**
 
-2024—Subsec. (f)(1)(A). Pub. L. 118–47, § 7072(a)(1)(A), substituted “March 25 of fiscal year 2025” for “2023”.
+2024—Subsec. (f)(1)(A). Pub. L. 118–47, § 7072(a)(1)(A), substituted “March 25 of fiscal year 2025” for “2023”.
 
-Subsec. (f)(1)(C)(iv). Pub. L. 118–47, § 7072(a)(1)(B), substituted “eleven” for “nine” and “2025” for “2023”.
+Subsec. (f)(1)(C)(iv). Pub. L. 118–47, § 7072(a)(1)(B), substituted “eleven” for “nine” and “2025” for “2023”.
 
-Subsec. (g)(1). Pub. L. 118–47, § 7072(a)(2)(A), substituted “March 25, 2025” for “September 30, 2024” in introductory provisions.
+Subsec. (g)(1). Pub. L. 118–47, § 7072(a)(2)(A), substituted “March 25, 2025” for “September 30, 2024” in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 118–47, § 7072(a)(2)(B), substituted “2025” for “2024” in heading and “March 25, 2025” for “September 30, 2024” in introductory provisions.
+Subsec. (g)(2). Pub. L. 118–47, § 7072(a)(2)(B), substituted “2025” for “2024” in heading and “March 25, 2025” for “September 30, 2024” in introductory provisions.
 
-2018—Subsec. (f)(1)(A). Pub. L. 115–305, § 2(1)(A), substituted “2023” for “2018”.
+2018—Subsec. (f)(1)(A). Pub. L. 115–305, § 2(1)(A), substituted “2023” for “2018”.
 
-Subsec. (f)(1)(C)(iv). Pub. L. 115–305, § 2(1)(B), substituted “nine” for “four” and “2023” for “2018”.
+Subsec. (f)(1)(C)(iv). Pub. L. 115–305, § 2(1)(B), substituted “nine” for “four” and “2023” for “2018”.
 
-Subsec. (g)(1). Pub. L. 115–305, § 2(2)(A), substituted “2024” for “2019” in introductory provisions.
+Subsec. (g)(1). Pub. L. 115–305, § 2(2)(A), substituted “2024” for “2019” in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 115–305, § 2(2)(B), substituted “2024” for “2018” in heading and introductory provisions.
+Subsec. (g)(2). Pub. L. 115–305, § 2(2)(B), substituted “2024” for “2018” in heading and introductory provisions.
 
-2013—Subsec. (f)(1)(A). Pub. L. 113–56, § 2(1), substituted “coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018” for “5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013”.
+2013—Subsec. (f)(1)(A). Pub. L. 113–56, § 2(1), substituted “coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2018” for “5 coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2013”.
 
-Subsec. (f)(1)(C)(ii). Pub. L. 113–56, § 2(2)(A), substituted “2010 through 2013 plans” for “Subsequent plans” in heading and “the plans for fiscal years 2010 through 2013” for “the last four plans” in text.
+Subsec. (f)(1)(C)(ii). Pub. L. 113–56, § 2(2)(A), substituted “2010 through 2013 plans” for “Subsequent plans” in heading and “the plans for fiscal years 2010 through 2013” for “the last four plans” in text.
 
-Subsec. (f)(1)(C)(iii), (iv). Pub. L. 113–56, § 2(2)(B), added cls. (iii) and (iv).
+Subsec. (f)(1)(C)(iii), (iv). Pub. L. 113–56, § 2(2)(B), added cls. (iii) and (iv).
 
-Subsec. (g)(1). Pub. L. 113–56, § 3(a)(1), substituted “through September 30, 2019” for “through September 30, 2013” in introductory provisions.
+Subsec. (g)(1). Pub. L. 113–56, § 3(a)(1), substituted “through September 30, 2019” for “through September 30, 2013” in introductory provisions.
 
-Subsec. (g)(2), (3). Pub. L. 113–56, § 3(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (g)(2), (3). Pub. L. 113–56, § 3(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (g)(4). Pub. L. 113–56, § 3(a)(4), added par. (4).
+Subsec. (g)(4). Pub. L. 113–56, § 3(a)(4), added par. (4).
 
-2008—Subsec. (a). Pub. L. 110–293, § 101(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) required the President to establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthened the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS and set out standards in pars. (1) to (10) for this strategy.
+2008—Subsec. (a). Pub. L. 110–293, § 101(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) required the President to establish a comprehensive, integrated, five-year strategy to combat global HIV/AIDS that strengthened the capacity of the United States to be an effective leader of the international campaign against HIV/AIDS and set out standards in pars. (1) to (10) for this strategy.
 
-Subsec. (b). Pub. L. 110–293, § 101(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to presidential submission of a report to Congress setting forth the strategy described in subsec. (a).
+Subsec. (b). Pub. L. 110–293, § 101(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to presidential submission of a report to Congress setting forth the strategy described in subsec. (a).
 
-Subsec. (c). Pub. L. 110–293, § 101(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the study of success rates and distribution of resources under the strategy described in subsec. (a).
+Subsec. (c). Pub. L. 110–293, § 101(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the study of success rates and distribution of resources under the strategy described in subsec. (a).
 
-Subsecs. (d) to (f). Pub. L. 110–293, § 101(d), added subsecs. (d) to (f).
+Subsecs. (d) to (f). Pub. L. 110–293, § 101(d), added subsecs. (d) to (f).
 
-Subsecs. (g), (h). Pub. L. 110–293, § 101(e), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 110–293, § 101(e), added subsecs. (g) and (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -879,7 +879,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.
 
-### § 7612. HIV/AIDS response Coordinator
+### § 7612. HIV/AIDS response Coordinator
 
 **(a) Omitted**
 
@@ -899,7 +899,7 @@ There is established in the general fund of the Treasury a separate account whic
 
 **(3)** staffing levels for United States country-level HIV/AIDS teams should be adequately maintained to fulfill oversight and other obligations of the positions.
 
-(Pub. L. 108–25, title I, § 102, May 27, 2003, 117 Stat. 721; Pub. L. 110–293, title I, § 103, July 30, 2008, 122 Stat. 2935.)
+(Pub. L. 108–25, title I, § 102, May 27, 2003, 117 Stat. 721; Pub. L. 110–293, title I, § 103, July 30, 2008, 122 Stat. 2935.)
 
 **Editorial Notes**
 
@@ -921,7 +921,7 @@ Section is comprised of section 102 of Pub. L. 108–25. Subsec. (a) of section 
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-### § 7612a. HIV/AIDS Working Capital Fund
+### § 7612a. HIV/AIDS Working Capital Fund
 
 **(1)** In furtherance of the purposes of section 2151b–2 of this title, and to assist in providing a safe, secure, reliable, and sustainable supply chain of pharmaceuticals and other products needed to provide care and treatment of persons with HIV/AIDS and related infections, the Coordinator of the United States Government Activities to Combat HIV/AIDS Globally (the “Coordinator”) is authorized to establish an HIV/AIDS Working Capital Fund (in this section referred to as the “HIV/AIDS Fund”).
 
@@ -947,7 +947,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 **(6)** At the close of each fiscal year the Coordinator shall submit a report to the Committees on Appropriations detailing the financial activities of the HIV/AIDS Fund, including sources of income and information regarding disbursements.
 
-(Pub. L. 108–447, div. D, title V, § 525(b), Dec. 8, 2004, 118 Stat. 3000.)
+(Pub. L. 108–447, div. D, title V, § 525(b), Dec. 8, 2004, 118 Stat. 3000.)
 
 **Editorial Notes**
 
@@ -957,7 +957,7 @@ Section was enacted as part of the Foreign Operations, Export Financing, and Rel
 
 ## SUBCHAPTER II—SUPPORT FOR MULTILATERAL FUNDS, PROGRAMS, AND PUBLIC-PRIVATE PARTNERSHIPS
 
-### § 7621. Sense of Congress on public-private partnerships
+### § 7621. Sense of Congress on public-private partnerships
 
 **(a) Findings** Congress makes the following findings:
 
@@ -975,9 +975,9 @@ Section was enacted as part of the Foreign Operations, Export Financing, and Rel
 
 **(2)** the United States should systematically track the evolution of these partnerships and work with others in the public and private sector to profile and build upon those models that are most effective.
 
-(Pub. L. 108–25, title II, § 201, May 27, 2003, 117 Stat. 723.)
+(Pub. L. 108–25, title II, § 201, May 27, 2003, 117 Stat. 723.)
 
-### § 7622. Participation in the Global Fund to Fight AIDS, Tuberculosis and Malaria
+### § 7622. Participation in the Global Fund to Fight AIDS, Tuberculosis and Malaria
 
 **(a) Findings; sense of Congress**
 
@@ -1059,7 +1059,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 In addition to any other funds authorized to be appropriated for bilateral or multilateral HIV/AIDS, tuberculosis, or malaria programs, of the amounts authorized to be appropriated under section 7671 of this title, there are authorized to be appropriated to the President up to $2,000,000,000 for fiscal year 2009,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and such sums as may be necessary for each of the fiscal years 2010 through 2013, for contributions to the Global Fund.
 
@@ -1079,9 +1079,9 @@ Amounts appropriated under paragraph (1) are authorized to remain available unti
 
 **(i)** At any time during fiscal years 2004 through March 25 of fiscal year 2025, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
 
-**(ii)** If, at any time during any of the fiscal years 2009 through March 25 of fiscal year 2025, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 4605(j)(1) 2
+**(ii)** If, at any time during any of the fiscal years 2009 through March 25 of fiscal year 2025, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 4605(j)(1) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 50, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
 
@@ -1235,85 +1235,85 @@ The Comptroller General shall on a biennial basis shall prepare and submit to th
 
 **(B)** making public service announcements on radio and television.
 
-(Pub. L. 108–25, title II, § 202, May 27, 2003, 117 Stat. 724; Pub. L. 108–199, div. D, title V, § 595(1), (2), Jan. 23, 2004, 118 Stat. 209; Pub. L. 110–293, title II, § 202, July 30, 2008, 122 Stat. 2936; Pub. L. 113–56, § 4, Dec. 2, 2013, 127 Stat. 649; Pub. L. 115–305, § 3, Dec. 11, 2018, 132 Stat. 4402; Pub. L. 118–47, div. F, title VII, § 7072(b), Mar. 23, 2024, 138 Stat. 853.)
+(Pub. L. 108–25, title II, § 202, May 27, 2003, 117 Stat. 724; Pub. L. 108–199, div. D, title V, § 595(1), (2), Jan. 23, 2004, 118 Stat. 209; Pub. L. 110–293, title II, § 202, July 30, 2008, 122 Stat. 2936; Pub. L. 113–56, § 4, Dec. 2, 2013, 127 Stat. 649; Pub. L. 115–305, § 3, Dec. 11, 2018, 132 Stat. 4402; Pub. L. 118–47, div. F, title VII, § 7072(b), Mar. 23, 2024, 138 Stat. 853.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Global AIDS and Tuberculosis Relief Act of 2000, referred to in subsec. (a)(1)(A), is Pub. L. 106–264, Aug. 19, 2000, 114 Stat. 748, which is classified principally to chapter 76 (§ 6801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+The Global AIDS and Tuberculosis Relief Act of 2000, referred to in subsec. (a)(1)(A), is Pub. L. 106–264, Aug. 19, 2000, 114 Stat. 748, which is classified principally to chapter 76 (§ 6801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 This chapter, referred to in subsecs. (a)(1)(B)(ii), (d)(5), and (e)(2)(B), was in the original a reference to this Act, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
-Section 4605(j)(1) of title 50, referred to in subsec. (d)(4)(A)(ii), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j)(1) of title 50 can be found in section 4813(c)(1)(A) of title 50, as enacted by Pub. L. 115–232.
+Section 4605(j)(1) of title 50, referred to in subsec. (d)(4)(A)(ii), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former section 4605(j)(1) of title 50 can be found in section 4813(c)(1)(A) of title 50, as enacted by Pub. L. 115–232.
 
 **Amendments**
 
-2024—Subsec. (d)(4)(A)(i), (ii). Pub. L. 118–47, § 7072(b)(1)(A), substituted “March 25 of fiscal year 2025” for “2023”.
+2024—Subsec. (d)(4)(A)(i), (ii). Pub. L. 118–47, § 7072(b)(1)(A), substituted “March 25 of fiscal year 2025” for “2023”.
 
-Subsec. (d)(4)(B)(iii). Pub. L. 118–47, § 7072(b)(1)(B), substituted “2024 and March 25 of fiscal year 2025” for “2023”.
+Subsec. (d)(4)(B)(iii). Pub. L. 118–47, § 7072(b)(1)(B), substituted “2024 and March 25 of fiscal year 2025” for “2023”.
 
-Subsec. (d)(5). Pub. L. 118–47, § 7072(b)(2), in introductory provisions, substituted “2024 and for fiscal year 2025 through March 25 of such fiscal year” for “2023”.
+Subsec. (d)(5). Pub. L. 118–47, § 7072(b)(2), in introductory provisions, substituted “2024 and for fiscal year 2025 through March 25 of such fiscal year” for “2023”.
 
-2018—Subsec. (d)(4)(A)(i). Pub. L. 115–305, § 3(1)(A)(i), substituted “fiscal years 2004 through 2023” for “fiscal years 2009 through 2018”.
+2018—Subsec. (d)(4)(A)(i). Pub. L. 115–305, § 3(1)(A)(i), substituted “fiscal years 2004 through 2023” for “fiscal years 2009 through 2018”.
 
-Subsec. (d)(4)(A)(ii). Pub. L. 115–305, § 3(1)(A)(ii), substituted “2023” for “2018”.
+Subsec. (d)(4)(A)(ii). Pub. L. 115–305, § 3(1)(A)(ii), substituted “2023” for “2018”.
 
-Subsec. (d)(4)(A)(vi). Pub. L. 115–305, § 3(1)(A)(iii), struck out cl. (vi) which read as follows: “For the purposes of clause (i), ‘funds contributed to the Global Fund from all sources’ means funds contributed to the Global Fund at any time during fiscal years 2009 through 2018 that are not contributed to fulfill a commitment made for a fiscal year before fiscal year 2009.”
+Subsec. (d)(4)(A)(vi). Pub. L. 115–305, § 3(1)(A)(iii), struck out cl. (vi) which read as follows: “For the purposes of clause (i), ‘funds contributed to the Global Fund from all sources’ means funds contributed to the Global Fund at any time during fiscal years 2009 through 2018 that are not contributed to fulfill a commitment made for a fiscal year before fiscal year 2009.”
 
-Subsec. (d)(4)(B)(ii). Pub. L. 115–305, § 3(1)(B)(i)–(iii), redesignated cl. (iii) as (ii), inserted “or section 2151b–3 or 2151b–4 of this title” after “section 2151b–2 of this title”, struck out “for HIV/AIDS assistance” after “section 7671 of this title”, and struck out former cl. (ii) which read as follows: “Any amount made available that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated to carry out section 2151b–2 of this title for HIV/AIDS assistance.”
+Subsec. (d)(4)(B)(ii). Pub. L. 115–305, § 3(1)(B)(i)–(iii), redesignated cl. (iii) as (ii), inserted “or section 2151b–3 or 2151b–4 of this title” after “section 2151b–2 of this title”, struck out “for HIV/AIDS assistance” after “section 7671 of this title”, and struck out former cl. (ii) which read as follows: “Any amount made available that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated to carry out section 2151b–2 of this title for HIV/AIDS assistance.”
 
-Subsec. (d)(4)(B)(iii), (iv). Pub. L. 115–305, § 3(1)(B)(ii), (iv), redesignated cl. (iv) as (iii) and substituted “2023” for “2018”. Former cl. (iii) redesignated (ii).
+Subsec. (d)(4)(B)(iii), (iv). Pub. L. 115–305, § 3(1)(B)(ii), (iv), redesignated cl. (iv) as (iii) and substituted “2023” for “2018”. Former cl. (iii) redesignated (ii).
 
-Subsec. (d)(5). Pub. L. 115–305, § 3(2), substituted “2023” for “2018” in introductory provisions.
+Subsec. (d)(5). Pub. L. 115–305, § 3(2), substituted “2023” for “2018” in introductory provisions.
 
-2013—Subsec. (d)(4)(A)(i). Pub. L. 113–56, § 4(a)(1)(A), substituted “2018” for “2013”.
+2013—Subsec. (d)(4)(A)(i). Pub. L. 113–56, § 4(a)(1)(A), substituted “2018” for “2013”.
 
-Subsec. (d)(4)(A)(ii). Pub. L. 113–56, § 4(a)(1)(B), substituted “2018” for “2013” and struck out at end “The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.”
+Subsec. (d)(4)(A)(ii). Pub. L. 113–56, § 4(a)(1)(B), substituted “2018” for “2013” and struck out at end “The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.”
 
-Subsec. (d)(4)(A)(vi). Pub. L. 113–56, § 4(a)(1)(C), substituted “2018” for “2013”.
+Subsec. (d)(4)(A)(vi). Pub. L. 113–56, § 4(a)(1)(C), substituted “2018” for “2013”.
 
-Subsec. (d)(4)(B). Pub. L. 113–56, § 4(a)(2)(A), struck out “under this subsection” after “amount made available” in cls. (i) to (iv).
+Subsec. (d)(4)(B). Pub. L. 113–56, § 4(a)(2)(A), struck out “under this subsection” after “amount made available” in cls. (i) to (iv).
 
-Subsec. (d)(4)(B)(ii). Pub. L. 113–56, § 4(a)(2)(B), substituted “to carry out section 2151b–2 of this title” for “pursuant to the authorization of appropriations under section 7671 of this title”.
+Subsec. (d)(4)(B)(ii). Pub. L. 113–56, § 4(a)(2)(B), substituted “to carry out section 2151b–2 of this title” for “pursuant to the authorization of appropriations under section 7671 of this title”.
 
-Subsec. (d)(4)(B)(iv). Pub. L. 113–56, § 4(a)(2)(C), substituted “2018” for “2013”.
+Subsec. (d)(4)(B)(iv). Pub. L. 113–56, § 4(a)(2)(C), substituted “2018” for “2013”.
 
-Subsec. (d)(5). Pub. L. 113–56, § 4(b)(1)(A), substituted “2018” for “2013” in introductory provisions.
+Subsec. (d)(5). Pub. L. 113–56, § 4(b)(1)(A), substituted “2018” for “2013” in introductory provisions.
 
-Subsec. (d)(5)(C). Pub. L. 113–56, § 4(b)(1)(B)(i), inserted “in an open, machine readable format” after “site” in introductory provisions.
+Subsec. (d)(5)(C). Pub. L. 113–56, § 4(b)(1)(B)(i), inserted “in an open, machine readable format” after “site” in introductory provisions.
 
-Subsec. (d)(5)(C)(v). Pub. L. 113–56, § 4(b)(1)(B)(ii), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “a regular collection and analysis of performance data and funding of grants of the Global Fund, which shall cover all principal recipients and all subrecipients;”.
+Subsec. (d)(5)(C)(v). Pub. L. 113–56, § 4(b)(1)(B)(ii), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “a regular collection and analysis of performance data and funding of grants of the Global Fund, which shall cover all principal recipients and all subrecipients;”.
 
-Subsec. (d)(5)(D)(ii). Pub. L. 113–56, § 4(b)(1)(C), inserted “, in an open, machine readable format,” after “audits”.
+Subsec. (d)(5)(D)(ii). Pub. L. 113–56, § 4(b)(1)(C), inserted “, in an open, machine readable format,” after “audits”.
 
-Subsec. (d)(5)(E). Pub. L. 113–56, § 4(b)(1)(D), inserted “, in an open, machine readable format,” after “publicly”.
+Subsec. (d)(5)(E). Pub. L. 113–56, § 4(b)(1)(D), inserted “, in an open, machine readable format,” after “publicly”.
 
-Subsec. (d)(5)(F)(ii) to (iv). Pub. L. 113–56, § 4(b)(1)(E), added cls. (ii) to (iv) and struck out former cl. (ii) which read as follows: “the distribution of resources, by grant and principal recipient, for prevention, care, treatment, drugs and commodities purchase, and other purposes;”.
+Subsec. (d)(5)(F)(ii) to (iv). Pub. L. 113–56, § 4(b)(1)(E), added cls. (ii) to (iv) and struck out former cl. (ii) which read as follows: “the distribution of resources, by grant and principal recipient, for prevention, care, treatment, drugs and commodities purchase, and other purposes;”.
 
-Subsec. (d)(5)(G). Pub. L. 113–56, § 4(b)(1)(F), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “has established a policy on tariffs imposed by national governments on all goods and services financed by the Global Fund;”.
+Subsec. (d)(5)(G). Pub. L. 113–56, § 4(b)(1)(F), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “has established a policy on tariffs imposed by national governments on all goods and services financed by the Global Fund;”.
 
-2008—Subsec. (a). Pub. L. 110–293, § 202(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) stated findings of Congress.
+2008—Subsec. (a). Pub. L. 110–293, § 202(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) stated findings of Congress.
 
-Subsec. (b)(3). Pub. L. 110–293, § 202(b), added par. (3).
+Subsec. (b)(3). Pub. L. 110–293, § 202(b), added par. (3).
 
-Subsec. (d)(1). Pub. L. 110–293, § 202(c)(1), substituted “$2,000,000,000 for fiscal year 2009,” for “$1,000,000,000 for the period of fiscal year 2004 beginning on January 1, 2004” and “each of the fiscal years 2010 through 2013” for “the fiscal years 2005–2008”.
+Subsec. (d)(1). Pub. L. 110–293, § 202(c)(1), substituted “$2,000,000,000 for fiscal year 2009,” for “$1,000,000,000 for the period of fiscal year 2004 beginning on January 1, 2004” and “each of the fiscal years 2010 through 2013” for “the fiscal years 2005–2008”.
 
-Subsec. (d)(4)(A)(i). Pub. L. 110–293, § 202(c)(2)(A)(i), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+Subsec. (d)(4)(A)(i). Pub. L. 110–293, § 202(c)(2)(A)(i), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
-Subsec. (d)(4)(A)(ii). Pub. L. 110–293, § 202(c)(2)(A)(ii), substituted “during any of the fiscal years 2009 through 2013” for “during any of the fiscal years 2004 through 2008” and inserted at end “The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.”
+Subsec. (d)(4)(A)(ii). Pub. L. 110–293, § 202(c)(2)(A)(ii), substituted “during any of the fiscal years 2009 through 2013” for “during any of the fiscal years 2004 through 2008” and inserted at end “The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.”
 
-Subsec. (d)(4)(A)(vi). Pub. L. 110–293, § 202(c)(2)(A)(iii), substituted “For the purposes” for “for the purposes”, “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”, and “before fiscal year 2009” for “prior to fiscal year 2004”.
+Subsec. (d)(4)(A)(vi). Pub. L. 110–293, § 202(c)(2)(A)(iii), substituted “For the purposes” for “for the purposes”, “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”, and “before fiscal year 2009” for “prior to fiscal year 2004”.
 
-Subsec. (d)(4)(B)(iv). Pub. L. 110–293, § 202(c)(2)(B), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+Subsec. (d)(4)(B)(iv). Pub. L. 110–293, § 202(c)(2)(B), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
-Subsec. (d)(4)(C)(ii). Pub. L. 110–293, § 202(c)(2)(C), substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+Subsec. (d)(4)(C)(ii). Pub. L. 110–293, § 202(c)(2)(C), substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
-Subsec. (d)(5), (6). Pub. L. 110–293, § 202(c)(3), added pars. (5) and (6).
+Subsec. (d)(5), (6). Pub. L. 110–293, § 202(c)(3), added pars. (5) and (6).
 
-2004—Subsec. (d)(4)(A)(vi). Pub. L. 108–199, § 595(1), added cl. (vi).
+2004—Subsec. (d)(4)(A)(vi). Pub. L. 108–199, § 595(1), added cl. (vi).
 
-Subsec. (d)(4)(B)(iv). Pub. L. 108–199, § 595(2), added cl. (iv).
+Subsec. (d)(4)(B)(iv). Pub. L. 108–199, § 595(2), added cl. (iv).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1327,7 +1327,7 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title, and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
 
-### § 7623. Combating HIV/AIDS, tuberculosis, and malaria by strengthening health policies and health systems of partner countries
+### § 7623. Combating HIV/AIDS, tuberculosis, and malaria by strengthening health policies and health systems of partner countries
 
 **(a) Statement of policy** It shall be the policy of the United States Government—
 
@@ -1363,7 +1363,7 @@ Of the amounts authorized to be appropriated under section 7671 of this title fo
 
 The Global AIDS Coordinator, in collaboration with the Administrator of the United States Agency for International Development (USAID), shall develop and implement a plan to combat HIV/AIDS by strengthening health policies and health systems of partner countries as part of USAID’s “Health Systems 2020” project. Recognizing that human and institutional capacity form the core of any health care system that can sustain the fight against HIV/AIDS, tuberculosis, and malaria, the plan shall include a strategy to encourage postsecondary educational institutions in partner countries, particularly in Africa, in collaboration with United States postsecondary educational institutions, including historically black colleges and universities, to develop such human and institutional capacity and in the process further build their capacity to sustain the fight against these diseases.
 
-(Pub. L. 108–25, title II, § 204 as added Pub. L. 110–293, title II, § 204(a), July 30, 2008, 122 Stat. 2942.)
+(Pub. L. 108–25, title II, § 204 as added Pub. L. 110–293, title II, § 204(a), July 30, 2008, 122 Stat. 2942.)
 
 **Editorial Notes**
 
@@ -1371,7 +1371,7 @@ The Global AIDS Coordinator, in collaboration with the Administrator of the Unit
 
 This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
-### § 7624. Facilitating vaccine development
+### § 7624. Facilitating vaccine development
 
 **(a) Technical assistance for developing countries** The Administrator of the United States Agency for International Development, utilizing public-private partners, as appropriate, and working in coordination with other international development agencies, is authorized to strengthen the capacity of developing countries’ governmental institutions to—
 
@@ -1415,7 +1415,7 @@ The Secretary of the Treasury shall enter into negotiations with the appropriate
 
 **(iii)** efforts to maximize United States capabilities to support clinical trials of vaccines in developing countries and to address the challenges of delivering vaccines in developing countries to minimize delays in access once vaccines are available.
 
-(Pub. L. 110–293, title II, § 206, July 30, 2008, 122 Stat. 2944.)
+(Pub. L. 110–293, title II, § 206, July 30, 2008, 122 Stat. 2944.)
 
 **Editorial Notes**
 
@@ -1427,7 +1427,7 @@ Section was enacted as part of the Tom Lantos and Henry J. Hyde United States Gl
 
 ### Part A—General Assistance and Programs
 
-#### § 7631. Assistance to combat HIV/AIDS
+#### § 7631. Assistance to combat HIV/AIDS
 
 **(a) Omitted**
 
@@ -1505,13 +1505,13 @@ No funds made available to carry out this chapter, or any amendment made by this
 
 It is therefore the sense of Congress that United States food assistance should be accepted by countries with large populations of individuals infected or living with HIV/AIDS, particularly African countries, in order to help feed such individuals.
 
-(Pub. L. 108–25, title III, § 301, May 27, 2003, 117 Stat. 728; Pub. L. 108–199, div. D, title V, § 595(3), Jan. 23, 2004, 118 Stat. 209; Pub. L. 110–293, title III, § 301(f)–(h), July 30, 2008, 122 Stat. 2956, 2957.)
+(Pub. L. 108–25, title III, § 301, May 27, 2003, 117 Stat. 728; Pub. L. 108–199, div. D, title V, § 595(3), Jan. 23, 2004, 118 Stat. 209; Pub. L. 110–293, title III, § 301(f)–(h), July 30, 2008, 122 Stat. 2956, 2957.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsecs. (d) to (f), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
@@ -1527,9 +1527,9 @@ For information regarding the constitutionality of certain provisions of this se
 
 **Amendments**
 
-2008—Subsec. (b)(1), (3). Pub. L. 110–293, § 301(f), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+2008—Subsec. (b)(1), (3). Pub. L. 110–293, § 301(f), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
-Subsec. (c). Pub. L. 110–293, § 301(g), amended subsec. (c) generally. Prior to amendment, text read as follows: “In recognition of the fact that malnutrition may hasten the progression of HIV to AIDS and may exacerbate the decline among AIDS patients leading to a shorter life span, the Administrator of the United States Agency for International Development shall, as appropriate—
+Subsec. (c). Pub. L. 110–293, § 301(g), amended subsec. (c) generally. Prior to amendment, text read as follows: “In recognition of the fact that malnutrition may hasten the progression of HIV to AIDS and may exacerbate the decline among AIDS patients leading to a shorter life span, the Administrator of the United States Agency for International Development shall, as appropriate—
 
 “(1) integrate nutrition programs with HIV/AIDS activities, generally;
 
@@ -1537,11 +1537,11 @@ Subsec. (c). Pub. L. 110–293, § 301(g), amended subsec. (c) generally. Prio
 
 “(3) provide support for food and nutrition for children affected by HIV/AIDS and to communities and households caring for children affected by HIV/AIDS.”
 
-Subsec. (d). Pub. L. 110–293, § 301(h), amended subsec. (d) generally. Prior to amendment, text read as follows: “An organization that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 (as added by subsection (a)) or under any other provision of this chapter (or any amendment made by this chapter) to prevent, treat, or monitor HIV/AIDS shall not be required, as a condition of receiving the assistance, to endorse or utilize a multisectoral approach to combatting HIV/AIDS, or to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection.”
+Subsec. (d). Pub. L. 110–293, § 301(h), amended subsec. (d) generally. Prior to amendment, text read as follows: “An organization that is otherwise eligible to receive assistance under section 104A of the Foreign Assistance Act of 1961 (as added by subsection (a)) or under any other provision of this chapter (or any amendment made by this chapter) to prevent, treat, or monitor HIV/AIDS shall not be required, as a condition of receiving the assistance, to endorse or utilize a multisectoral approach to combatting HIV/AIDS, or to endorse, utilize, or participate in a prevention method or treatment program to which the organization has a religious or moral objection.”
 
-2004—Subsec. (f). Pub. L. 108–199, § 595(3), inserted “, except that this subsection shall not apply to the Global Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency” after “trafficking”.
+2004—Subsec. (f). Pub. L. 108–199, § 595(3), inserted “, except that this subsection shall not apply to the Global Fund to Fight AIDS, Tuberculosis and Malaria, the World Health Organization, the International AIDS Vaccine Initiative or to any United Nations agency” after “trafficking”.
 
-#### § 7631a. United States Agency for International Development
+#### § 7631a. United States Agency for International Development
 
 **(1) In general** The Administrator of the United States Agency for International Development, in coordination with the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, may facilitate availability and accessibility of microbicides, provided that such pharmaceuticals are approved, tentatively approved, or otherwise authorized for use by—
 
@@ -1555,7 +1555,7 @@ Subsec. (d). Pub. L. 110–293, § 301(h), amended subsec. (d) generally. Prio
 
 Of the amounts authorized to be appropriated under section 7671 of this title for HIV/AIDS assistance, there are authorized to be appropriated to the President such sums as may be necessary for each of the fiscal years 2009 through 2013 to carry out this section.
 
-(Pub. L. 110–293, title II, § 203(e), July 30, 2008, 122 Stat. 2941.)
+(Pub. L. 110–293, title II, § 203(e), July 30, 2008, 122 Stat. 2941.)
 
 **Editorial Notes**
 
@@ -1563,13 +1563,13 @@ Of the amounts authorized to be appropriated under section 7671 of this title fo
 
 Section was enacted as part of the Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008, and not as part of the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 which comprises this chapter.
 
-#### § 7632. Authorization of appropriations to combat tuberculosis
+#### § 7632. Authorization of appropriations to combat tuberculosis
 
 **(1) In general**
 
 In addition to funds available under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)) for such purpose or under any other provision of that Act [22 U.S.C. 2151 et seq.], there are authorized to be appropriated to the President, from amounts authorized to be appropriated under section 7671 of this title, a total of $4,000,000,000 for the 5-year period beginning on October 1, 2008.1
 
-<sup>1</sup>  So in original. The period probably should not appear.
+<sup>1</sup> So in original. The period probably should not appear.
 
 to carry out section 104B of the Foreign Assistance Act of 1961, as added by subsection (a) [22 U.S.C. 2151b–3].
 
@@ -1581,21 +1581,21 @@ Amounts appropriated pursuant to the authorization of appropriations under parag
 
 Unobligated balances of funds made available for fiscal year 2001, 2002, or 2003 under section 104(c)(7) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c)(7) (as in effect immediately before May 27, 2003) shall be transferred to, merged with, and made available for the same purposes as funds made available for fiscal years 2009 through 2013.<sup>1</sup> under paragraph (1).
 
-(Pub. L. 108–25, title III, § 302(b), May 27, 2003, 117 Stat. 736; Pub. L. 110–293, title III, § 302(f), July 30, 2008, 122 Stat. 2959.)
+(Pub. L. 108–25, title III, § 302(b), May 27, 2003, 117 Stat. 736; Pub. L. 110–293, title III, § 302(f), July 30, 2008, 122 Stat. 2959.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in par. (1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
-2008—Par. (1). Pub. L. 110–293, § 302(f)(1), substituted “a total of $4,000,000,000 for the 5-year period beginning on October 1, 2008.” for “such sums as may be necessary for each of the fiscal years 2004 through 2008”.
+2008—Par. (1). Pub. L. 110–293, § 302(f)(1), substituted “a total of $4,000,000,000 for the 5-year period beginning on October 1, 2008.” for “such sums as may be necessary for each of the fiscal years 2004 through 2008”.
 
-Par. (3). Pub. L. 110–293, § 302(f)(2), substituted “fiscal years 2009 through 2013.” for “fiscal years 2004 through 2008”.
+Par. (3). Pub. L. 110–293, § 302(f)(2), substituted “fiscal years 2009 through 2013.” for “fiscal years 2004 through 2008”.
 
-#### § 7633. Assistance to combat malaria
+#### § 7633. Assistance to combat malaria
 
 **(a) Omitted**
 
@@ -1611,9 +1611,9 @@ Amounts appropriated pursuant to paragraph (1) are authorized to remain availabl
 
 **(3) Transfer of prior year funds**
 
-Unobligated balances of funds made available for fiscal year 2001, 2002, or 2003 under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c) 1
+Unobligated balances of funds made available for fiscal year 2001, 2002, or 2003 under section 104(c) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151b(c) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a second closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a second closing parenthesis.
 
 (as in effect immediately before May 27, 2003) and made available for the control of malaria shall be transferred to, merged with, and made available for the same purposes as funds made available for fiscal years 2009 through 2013 under paragraph (1).
 
@@ -1625,9 +1625,9 @@ Unobligated balances of funds made available for fiscal year 2001, 2002, or 2003
 
 **(d) Development of a comprehensive 5-Year strategy** The President shall establish a comprehensive, 5-year strategy to combat global malaria that—
 
-**(1)** strengthens the capacity of the United States to be an effective leader of international efforts to reduce 2
+**(1)** strengthens the capacity of the United States to be an effective leader of international efforts to reduce 2
 
-<sup>2</sup>  So in original. Probably should be followed by “the”.
+<sup>2</sup> So in original. Probably should be followed by “the”.
 
 malaria burden;
 
@@ -1657,13 +1657,13 @@ malaria burden;
 
 **(D)** the ability to closely coordinate United States Government efforts with national malaria control plans of partner countries.
 
-(Pub. L. 108–25, title III, § 303, May 27, 2003, 117 Stat. 736; Pub. L. 110–293, title III, § 303(b), July 30, 2008, 122 Stat. 2960.)
+(Pub. L. 108–25, title III, § 303, May 27, 2003, 117 Stat. 736; Pub. L. 110–293, title III, § 303(b), July 30, 2008, 122 Stat. 2960.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsec. (d)(5), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
@@ -1673,13 +1673,13 @@ Section is comprised of section 303 of Pub. L. 108–25. Subsec. (a) and another
 
 **Amendments**
 
-2008—Subsec. (b)(1). Pub. L. 110–293, § 303(b)(1)(A), substituted “$5,000,000,000 during the 5-year period beginning on October 1, 2008” for “such sums as may be necessary for fiscal years 2004 through 2008”.
+2008—Subsec. (b)(1). Pub. L. 110–293, § 303(b)(1)(A), substituted “$5,000,000,000 during the 5-year period beginning on October 1, 2008” for “such sums as may be necessary for fiscal years 2004 through 2008”.
 
-Subsec. (b)(3). Pub. L. 110–293, § 303(b)(1)(B), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+Subsec. (b)(3). Pub. L. 110–293, § 303(b)(1)(B), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
 
-Subsecs. (c), (d). Pub. L. 110–293, § 303(b)(2), added subsecs. (c) relating to statement of policy and (d).
+Subsecs. (c), (d). Pub. L. 110–293, § 303(b)(2), added subsecs. (c) relating to statement of policy and (d).
 
-#### § 7634. Malaria response Coordinator
+#### § 7634. Malaria response Coordinator
 
 **(a) In general**
 
@@ -1781,7 +1781,7 @@ Not later than 1 year after July 30, 2008, and annually thereafter, the Presiden
 
 **(I)** the number of personnel trained as health workers and the training levels achieved.
 
-(Pub. L. 108–25, title III, § 304, May 27, 2003, 117 Stat. 737; Pub. L. 110–293, title III, § 304, July 30, 2008, 122 Stat. 2961.)
+(Pub. L. 108–25, title III, § 304, May 27, 2003, 117 Stat. 737; Pub. L. 110–293, title III, § 304, July 30, 2008, 122 Stat. 2961.)
 
 **Editorial Notes**
 
@@ -1799,7 +1799,7 @@ This chapter, referred to in subsecs. (f) and (g), was in the original “this A
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-#### § 7635. Report on treatment activities by relevant executive branch agencies
+#### § 7635. Report on treatment activities by relevant executive branch agencies
 
 **(a) In general**
 
@@ -1825,7 +1825,7 @@ Not later than 15 months after May 27, 2003, the President shall submit to appro
 
 **(3)** an explanation of how those activities relate to efforts to prevent the transmission of the HIV infection.
 
-(Pub. L. 108–25, title III, § 305, May 27, 2003, 117 Stat. 739.)
+(Pub. L. 108–25, title III, § 305, May 27, 2003, 117 Stat. 739.)
 
 **Executive Documents**
 
@@ -1833,7 +1833,7 @@ Not later than 15 months after May 27, 2003, the President shall submit to appro
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title, and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
 
-#### § 7636. Study on illegal diversions of prescription drugs
+#### § 7636. Study on illegal diversions of prescription drugs
 
 Not later than 180 days after May 27, 2003, the Secretary of Health and Human Services, in coordination with other agencies, shall submit a report to the Congress that includes the following:
 
@@ -1843,11 +1843,11 @@ Not later than 180 days after May 27, 2003, the Secretary of Health and Human Se
 
 **(3)** Recommendations and guidelines to advise and provide technical assistance to developing countries on how to implement a program that minimizes diversion into the United States of prescription drugs donated or sold for humanitarian efforts.
 
-(Pub. L. 108–25, title III, § 307, May 27, 2003, 117 Stat. 740.)
+(Pub. L. 108–25, title III, § 307, May 27, 2003, 117 Stat. 740.)
 
 ### Part B—Assistance for Women, Children, and Families
 
-#### § 7651. Findings
+#### § 7651. Findings
 
 Congress makes the following findings:
 
@@ -1867,9 +1867,9 @@ Congress makes the following findings:
 
 **(8)** HIV/AIDS also targets young people between the ages of 15 to 24, particularly young women, many of whom carry the burden of caring for family members living with HIV/AIDS. An estimated 10,300,000 young people are now living with HIV/AIDS. One-half of all new infections are occurring among this age group.
 
-(Pub. L. 108–25, title III, § 311, May 27, 2003, 117 Stat. 740.)
+(Pub. L. 108–25, title III, § 311, May 27, 2003, 117 Stat. 740.)
 
-#### § 7652. Policy and requirements
+#### § 7652. Policy and requirements
 
 **(a) Policy**
 
@@ -1951,7 +1951,7 @@ There are authorized to be appropriated to the Panel such sums as may be necessa
 
 The Panel shall terminate on the date that is 60 days after the date on which the Panel submits the report to the appropriate congressional committees under paragraph (4).
 
-(Pub. L. 108–25, title III, § 312, May 27, 2003, 117 Stat. 741; Pub. L. 110–293, title III, §§ 307, 309, July 30, 2008, 122 Stat. 2963, 2964.)
+(Pub. L. 108–25, title III, § 312, May 27, 2003, 117 Stat. 741; Pub. L. 110–293, title III, §§ 307, 309, July 30, 2008, 122 Stat. 2963, 2964.)
 
 **Editorial Notes**
 
@@ -1961,7 +1961,7 @@ This chapter, referred to in subsecs. (b)(2), (6) and (c)(1), (2), was in the or
 
 **Amendments**
 
-2008—Subsec. (b)(1) to (6). Pub. L. 110–293, § 307, added pars. (1) to (6) and struck out former pars. (1) to (3) which read as follows:
+2008—Subsec. (b)(1) to (6). Pub. L. 110–293, § 307, added pars. (1) to (6) and struck out former pars. (1) to (3) which read as follows:
 
 “(1) provide for meeting or exceeding the goal to reduce the rate of mother-to-child transmission of HIV by 20 percent by 2005 and by 50 percent by 2010;
 
@@ -1969,9 +1969,9 @@ This chapter, referred to in subsecs. (b)(2), (6) and (c)(1), (2), was in the or
 
 “(3) expand programs designed to care for children orphaned by AIDS.”
 
-Subsec. (c). Pub. L. 110–293, § 309, added subsec. (c).
+Subsec. (c). Pub. L. 110–293, § 309, added subsec. (c).
 
-#### § 7653. Annual reports on prevention of mother-to-child transmission of the HIV infection
+#### § 7653. Annual reports on prevention of mother-to-child transmission of the HIV infection
 
 **(a) In general**
 
@@ -1995,7 +1995,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for a period o
 
 In this section, the term “reporting period” means, in the case of the initial report, the period since May 27, 2003, and, in the case of any subsequent report, the period since the date of submission of the most recent report.
 
-(Pub. L. 108–25, title III, § 313, May 27, 2003, 117 Stat. 741; Pub. L. 110–293, title III, § 308, July 30, 2008, 122 Stat. 2964.)
+(Pub. L. 108–25, title III, § 313, May 27, 2003, 117 Stat. 741; Pub. L. 110–293, title III, § 308, July 30, 2008, 122 Stat. 2964.)
 
 **Editorial Notes**
 
@@ -2009,7 +2009,7 @@ In this section, the term “reporting period” means, in the case of the initi
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title, and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under section 7611 of this title.
 
-#### § 7654. Pilot program of assistance for children and families affected by HIV/AIDS
+#### § 7654. Pilot program of assistance for children and families affected by HIV/AIDS
 
 **(a) In general**
 
@@ -2047,7 +2047,7 @@ In addition to amounts otherwise available for such purpose, there are authorize
 
 Amounts appropriated pursuant to paragraph (1) are authorized to remain available until expended.
 
-(Pub. L. 108–25, title III, § 314, May 27, 2003, 117 Stat. 742.)
+(Pub. L. 108–25, title III, § 314, May 27, 2003, 117 Stat. 742.)
 
 **Executive Documents**
 
@@ -2055,7 +2055,7 @@ Amounts appropriated pursuant to paragraph (1) are authorized to remain availabl
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-#### § 7655. Pilot program on family survival partnerships
+#### § 7655. Pilot program on family survival partnerships
 
 **(a) Purpose**
 
@@ -2155,7 +2155,7 @@ There are authorized to be appropriated to the President, from amounts authorize
 
 An organization shall ensure that not more than 7 percent of the amount of a grant received under this section by the organization is used for administrative expenses.
 
-(Pub. L. 108–25, title III, § 315, May 27, 2003, 117 Stat. 743.)
+(Pub. L. 108–25, title III, § 315, May 27, 2003, 117 Stat. 743.)
 
 **Executive Documents**
 
@@ -2165,7 +2165,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 ## SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS
 
-### § 7671. Authorization of appropriations
+### § 7671. Authorization of appropriations
 
 **(a) In general**
 
@@ -2179,7 +2179,7 @@ Amounts appropriated pursuant to the authorization of appropriations in subsecti
 
 Authorizations of appropriations under subsection (a) shall remain available until the appropriations are made.
 
-(Pub. L. 108–25, title IV, § 401, May 27, 2003, 117 Stat. 745; Pub. L. 110–293, title IV, § 401(a), July 30, 2008, 122 Stat. 2966.)
+(Pub. L. 108–25, title IV, § 401, May 27, 2003, 117 Stat. 745; Pub. L. 110–293, title IV, § 401(a), July 30, 2008, 122 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -2191,7 +2191,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 2008—Subsec. (a). Pub. L. 110–293 substituted “$48,000,000,000 for the 5-year period beginning on October 1, 2008” for “$3,000,000,000 for each of the fiscal years 2004 through 2008”.
 
-### § 7672. Sense of Congress
+### § 7672. Sense of Congress
 
 **(a) Increase in HIV/AIDS antiretroviral treatment** It is a sense of the Congress that an urgent priority of United States assistance programs to fight HIV/AIDS should be the rapid increase in distribution of antiretroviral treatment so that—
 
@@ -2205,7 +2205,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 It is the sense of Congress that, of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance, 10 percent should be used for orphans and vulnerable children.
 
-(Pub. L. 108–25, title IV, § 402, May 27, 2003, 117 Stat. 745; Pub. L. 110–293, title IV, § 402, July 30, 2008, 122 Stat. 2966.)
+(Pub. L. 108–25, title IV, § 402, May 27, 2003, 117 Stat. 745; Pub. L. 110–293, title IV, § 402, July 30, 2008, 122 Stat. 2966.)
 
 **Editorial Notes**
 
@@ -2221,7 +2221,7 @@ It is the sense of Congress that, of the amounts appropriated pursuant to the au
 
 “(4) 10 percent of such amounts”.
 
-### § 7673. Allocation of funds
+### § 7673. Allocation of funds
 
 **(a) Balanced funding requirement**
 
@@ -2229,9 +2229,9 @@ It is the sense of Congress that, of the amounts appropriated pursuant to the au
 
 **(A)** provide balanced funding for prevention activities for sexual transmission of HIV/AIDS; and
 
-**(B)** ensure that activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction are implemented and funded in a meaningful and equitable way in the strategy for each host country based on objective epidemiological evidence as to the source of infections and in consultation with the government of each host county 1
+**(B)** ensure that activities promoting abstinence, delay of sexual debut, monogamy, fidelity, and partner reduction are implemented and funded in a meaningful and equitable way in the strategy for each host country based on objective epidemiological evidence as to the source of infections and in consultation with the government of each host county 1
 
-<sup>1</sup>  So in original. Probably should be “country”.
+<sup>1</sup> So in original. Probably should be “country”.
 
 involved in HIV/AIDS prevention activities.
 
@@ -2281,7 +2281,7 @@ For fiscal years 2009 through 2024 and fiscal year 2025 through March 25 of such
 
 **(4)** the prevention and care goals established in clauses (i) and (iv) of section 2151b–2(b)(1)(A) of this title shall be increased consistent with epidemiological evidence and available resources.
 
-(Pub. L. 108–25, title IV, § 403, May 27, 2003, 117 Stat. 746; Pub. L. 110–293, title IV, § 403, July 30, 2008, 122 Stat. 2966; Pub. L. 113–56, § 6, Dec. 2, 2013, 127 Stat. 654; Pub. L. 115–305, § 4, Dec. 11, 2018, 132 Stat. 4403; Pub. L. 118–47, div. F, title VII, § 7072(c), Mar. 23, 2024, 138 Stat. 853.)
+(Pub. L. 108–25, title IV, § 403, May 27, 2003, 117 Stat. 746; Pub. L. 110–293, title IV, § 403, July 30, 2008, 122 Stat. 2966; Pub. L. 113–56, § 6, Dec. 2, 2013, 127 Stat. 654; Pub. L. 115–305, § 4, Dec. 11, 2018, 132 Stat. 4403; Pub. L. 118–47, div. F, title VII, § 7072(c), Mar. 23, 2024, 138 Stat. 853.)
 
 **Editorial Notes**
 
@@ -2291,33 +2291,33 @@ This chapter, referred to in subsec. (a)(2)(A), was in the original “this Act�
 
 **Amendments**
 
-2024—Subsec. (b). Pub. L. 118–47, § 7072(c)(1), substituted “2024 and fiscal year 2025 through March 25 of such fiscal year” for “2023”.
+2024—Subsec. (b). Pub. L. 118–47, § 7072(c)(1), substituted “2024 and fiscal year 2025 through March 25 of such fiscal year” for “2023”.
 
-Subsec. (c). Pub. L. 118–47, § 7072(c)(2), substituted “2024 and for fiscal year 2025 through March 25 of such fiscal year” for “2023” in introductory provisions.
+Subsec. (c). Pub. L. 118–47, § 7072(c)(2), substituted “2024 and for fiscal year 2025 through March 25 of such fiscal year” for “2023” in introductory provisions.
 
-2018—Subsec. (b). Pub. L. 115–305, § 4(1), substituted “2023” for “2018”.
+2018—Subsec. (b). Pub. L. 115–305, § 4(1), substituted “2023” for “2018”.
 
-Subsec. (c). Pub. L. 115–305, § 4(2), substituted “2023” for “2018” in introductory provisions.
+Subsec. (c). Pub. L. 115–305, § 4(2), substituted “2023” for “2018” in introductory provisions.
 
-2013—Subsec. (b). Pub. L. 113–56, § 6(a), substituted “2018” for “2013” and “amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title” for “amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title”.
+2013—Subsec. (b). Pub. L. 113–56, § 6(a), substituted “2018” for “2013” and “amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title” for “amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title”.
 
-Subsec. (c). Pub. L. 113–56, § 6(b), substituted “2018” for “2013” and “amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title” for “amounts appropriated for bilateral global HIV/AIDS assistance pursuant to section 7671 of this title” in introductory provisions.
+Subsec. (c). Pub. L. 113–56, § 6(b), substituted “2018” for “2013” and “amounts appropriated or otherwise made available to carry out the provisions of section 2151b–2 of this title” for “amounts appropriated for bilateral global HIV/AIDS assistance pursuant to section 7671 of this title” in introductory provisions.
 
-2008—Subsec. (a). Pub. L. 110–293, § 403(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “For fiscal years 2006 through 2008, not less than 55 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for therapeutic medical care of individuals infected with HIV, of which such amount at least 75 percent should be expended for the purchase and distribution of antiretroviral pharmaceuticals and at least 25 percent should be expended for related care. For fiscal years 2006 through 2008, not less than 33 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS prevention consistent with section 2151b–2(d) of this title for each such fiscal year shall be expended for abstinence-until-marriage programs.”
+2008—Subsec. (a). Pub. L. 110–293, § 403(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “For fiscal years 2006 through 2008, not less than 55 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance for each such fiscal year shall be expended for therapeutic medical care of individuals infected with HIV, of which such amount at least 75 percent should be expended for the purchase and distribution of antiretroviral pharmaceuticals and at least 25 percent should be expended for related care. For fiscal years 2006 through 2008, not less than 33 percent of the amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS prevention consistent with section 2151b–2(d) of this title for each such fiscal year shall be expended for abstinence-until-marriage programs.”
 
-Subsec. (b). Pub. L. 110–293, § 403(2), substituted “fiscal years 2009 through 2013” for “fiscal years 2006 through 2008” and “other children affected by, or vulnerable to,” for “vulnerable children affected by”.
+Subsec. (b). Pub. L. 110–293, § 403(2), substituted “fiscal years 2009 through 2013” for “fiscal years 2006 through 2008” and “other children affected by, or vulnerable to,” for “vulnerable children affected by”.
 
-Subsecs. (c), (d). Pub. L. 110–293, § 403(3), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 110–293, § 403(3), added subsecs. (c) and (d).
 
-### § 7674. Assistance from the United States private sector to prevent and reduce HIV/AIDS in sub-Saharan Africa
+### § 7674. Assistance from the United States private sector to prevent and reduce HIV/AIDS in sub-Saharan Africa
 
 It is the sense of Congress that United States businesses should be encouraged to provide assistance to sub-Saharan African countries to prevent and reduce the incidence of HIV/AIDS in sub-Saharan Africa. In providing such assistance, United States businesses should be encouraged to consider the establishment of an HIV/AIDS Response Fund in order to provide for coordination among such businesses in the collection and distribution of the assistance to sub-Saharan African countries.
 
-(Pub. L. 108–25, title IV, § 404, May 27, 2003, 117 Stat. 746.)
+(Pub. L. 108–25, title IV, § 404, May 27, 2003, 117 Stat. 746.)
 
 ## SUBCHAPTER V—INTERNATIONAL FINANCIAL INSTITUTIONS
 
-### § 7681. Report on expansion of debt relief to non-HIPC countries
+### § 7681. Report on expansion of debt relief to non-HIPC countries
 
 **(a) In general** Not later than 90 days after May 27, 2003, the Secretary of the Treasury shall submit to Congress a report on—
 
@@ -2335,9 +2335,9 @@ Among the options for the expansion of debt relief provided by the Enhanced HIPC
 
 In this section, the term “Enhanced HIPC Initiative” means the multilateral debt initiative for heavily indebted poor countries presented in the Report of G–7 Finance Ministers on the Cologne Debt Initiative to the Cologne Economic Summit, Cologne, June 18–20, 1999.
 
-(Pub. L. 108–25, title V, § 502, May 27, 2003, 117 Stat. 749.)
+(Pub. L. 108–25, title V, § 502, May 27, 2003, 117 Stat. 749.)
 
-### § 7682. Authorization of appropriations
+### § 7682. Authorization of appropriations
 
 **(a) In general**
 
@@ -2347,4 +2347,4 @@ There are authorized to be appropriated to the President such sums as may be nec
 
 Amounts appropriated pursuant to subsection (a) are authorized to remain available until expended.
 
-(Pub. L. 108–25, title V, § 503, May 27, 2003, 117 Stat. 749.)
+(Pub. L. 108–25, title V, § 503, May 27, 2003, 117 Stat. 749.)

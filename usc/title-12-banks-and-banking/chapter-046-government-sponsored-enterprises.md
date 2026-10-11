@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 46—GOVERNMENT SPONSORED ENTERPRISES
 
-## § 4501. Congressional findings
+## § 4501. Congressional findings
 
 The Congress finds that—
 
@@ -35,27 +35,27 @@ The Congress finds that—
 
 **(8)** the Federal Home Loan Bank Act [12 U.S.C. 1421 et seq.] should be amended to emphasize that providing for financial safety and soundness of the Federal Home Loan Banks is the primary mission of the Federal Housing Finance Board.
 
-(Pub. L. 102–550, title XIII, § 1302, Oct. 28, 1992, 106 Stat. 3941.)
+(Pub. L. 102–550, title XIII, § 1302, Oct. 28, 1992, 106 Stat. 3941.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Home Loan Bank Act, referred to in par. (8), is act July 22, 1932, ch. 522, 47 Stat. 725, which is classified generally to chapter 11 (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see section 1421 of this title and Tables.
+The Federal Home Loan Bank Act, referred to in par. (8), is act July 22, 1932, ch. 522, 47 Stat. 725, which is classified generally to chapter 11 (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see section 1421 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–289, § 1(a), July 30, 2008, 122 Stat. 2654, provided that: “This Act [see Tables for classification] may be cited as the ‘Housing and Economic Recovery Act of 2008’.”
+Pub. L. 110–289, § 1(a), July 30, 2008, 122 Stat. 2654, provided that: “This Act [see Tables for classification] may be cited as the ‘Housing and Economic Recovery Act of 2008’.”
 
-Pub. L. 110–289, div. A, § 1001, July 30, 2008, 122 Stat. 2659, provided that: “This division [see Tables for classification] may be cited as the ‘Federal Housing Finance Regulatory Reform Act of 2008’.”
+Pub. L. 110–289, div. A, § 1001, July 30, 2008, 122 Stat. 2659, provided that: “This division [see Tables for classification] may be cited as the ‘Federal Housing Finance Regulatory Reform Act of 2008’.”
 
 **Short Title**
 
-Pub. L. 102–550, title XIII, § 1301, Oct. 28, 1992, 106 Stat. 3941, provided that: “This title [enacting this chapter, amending sections 1422a, 1430, 1430b, 1451 to 1456, 1716 to 1719, 1723, 1723a, and 1723c of this title, sections 3132 and 5313 of Title 5, Government Organization and Employees, section 1905 of Title 18, Crimes and Criminal Procedure, and section 3534 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1451, 1452, 1723, and 4562 of this title, and amending provisions set out as a note under section 1451 of this title] may be cited as the ‘Federal Housing Enterprises Financial Safety and Soundness Act of 1992’.”
+Pub. L. 102–550, title XIII, § 1301, Oct. 28, 1992, 106 Stat. 3941, provided that: “This title [enacting this chapter, amending sections 1422a, 1430, 1430b, 1451 to 1456, 1716 to 1719, 1723, 1723a, and 1723c of this title, sections 3132 and 5313 of Title 5, Government Organization and Employees, section 1905 of Title 18, Crimes and Criminal Procedure, and section 3534 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1451, 1452, 1723, and 4562 of this title, and amending provisions set out as a note under section 1451 of this title] may be cited as the ‘Federal Housing Enterprises Financial Safety and Soundness Act of 1992’.”
 
-## § 4502. Definitions
+## § 4502. Definitions
 
 For purposes of this chapter:
 
@@ -211,9 +211,9 @@ The term “State” means the States of the United States, the District of Colu
 
 **(23) Total capital** The term “total capital” means, with respect to an enterprise, the sum of the following:
 
-**(A)** The core capital of the enterprise; 1
+**(A)** The core capital of the enterprise; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a period.
+<sup>1</sup> So in original. The semicolon probably should be a period.
 
 **(B)** A general allowance for foreclosure losses, which—
 
@@ -231,9 +231,9 @@ The term “State” means the States of the United States, the District of Colu
 
 **(ii)** in the case of rental units, families having incomes not greater than 50 percent of the area median income, with adjustments for smaller and larger families, as determined by the Director.
 
-**(B) Rule of construction** For purposes of section 2
+**(B) Rule of construction** For purposes of section 2
 
-<sup>2</sup>  So in original. Probably should be “sections”.
+<sup>2</sup> So in original. Probably should be “sections”.
 
 4568 and 4569 of this title, the term “very low-income” means—
 
@@ -289,7 +289,7 @@ If the number of units described in subparagraph (A)(i) exceeds the number of ex
 
 If the number of units described in subparagraph (A)(i) exceeds the number of extremely low- and very low-income households as described in subparagraph (A)(ii), there is no shortage.
 
-(Pub. L. 102–550, title XIII, § 1303, Oct. 28, 1992, 106 Stat. 3942; Pub. L. 110–289, div. A, § 1002(a), title I, § 1128(d), July 30, 2008, 122 Stat. 2659, 2702.)
+(Pub. L. 102–550, title XIII, § 1303, Oct. 28, 1992, 106 Stat. 3942; Pub. L. 110–289, div. A, § 1002(a), title I, § 1128(d), July 30, 2008, 122 Stat. 2659, 2702.)
 
 **Editorial Notes**
 
@@ -297,21 +297,21 @@ If the number of units described in subparagraph (A)(i) exceeds the number of ex
 
 This chapter, referred to in text, was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-The Federal National Mortgage Association Charter Act, referred to in par. (3)(A), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
+The Federal National Mortgage Association Charter Act, referred to in par. (3)(A), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 
-The Federal Home Loan Mortgage Corporation Act, referred to in par. (3)(B), is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
+The Federal Home Loan Mortgage Corporation Act, referred to in par. (3)(B), is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
 
-The Federal Home Loan Bank Act, referred to in par. (3)(C), is act July 22, 1932, ch. 522, 47 Stat. 725, which is classified generally to chapter 11 (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see section 1421 of this title and Tables.
+The Federal Home Loan Bank Act, referred to in par. (3)(C), is act July 22, 1932, ch. 522, 47 Stat. 725, which is classified generally to chapter 11 (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see section 1421 of this title and Tables.
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1002(a)(2)–(14), added pars. (2) to (4), (8), (11), (13), (19), (20), and (25), redesignated former pars. (2) to (12) and (16) to (19) as (5) to (7), (9), (10), (12), (14) to (18), and (21) to (24), respectively, substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development” in par. (9), and struck out former pars. (13) to (15) which defined the terms “new program”, “Office”, and “Secretary”, respectively.
+2008—Pub. L. 110–289, § 1002(a)(2)–(14), added pars. (2) to (4), (8), (11), (13), (19), (20), and (25), redesignated former pars. (2) to (12) and (16) to (19) as (5) to (7), (9), (10), (12), (14) to (18), and (21) to (24), respectively, substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development” in par. (9), and struck out former pars. (13) to (15) which defined the terms “new program”, “Office”, and “Secretary”, respectively.
 
-Pars. (8)(B), (9), (10)(B), (19)(B). Pub. L. 110–289, § 1002(a)(1), substituted “Director” for “Secretary”.
+Pars. (8)(B), (9), (10)(B), (19)(B). Pub. L. 110–289, § 1002(a)(1), substituted “Director” for “Secretary”.
 
-Par. (24). Pub. L. 110–289, § 1128(d)(1), added par. (24) and struck out former par. (24) which defined the term “very low-income”.
+Par. (24). Pub. L. 110–289, § 1128(d)(1), added par. (24) and struck out former par. (24) which defined the term “very low-income”.
 
-Pars. (26) to (31). Pub. L. 110–289, § 1128(d)(2), added pars. (26) to (31).
+Pars. (26) to (31). Pub. L. 110–289, § 1128(d)(2), added pars. (26) to (31).
 
 **Executive Documents**
 
@@ -319,11 +319,11 @@ Pars. (26) to (31). Pub. L. 110–289, § 1128(d)(2), added pars. (26) to (31)
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 4503. Protection of taxpayers against liability
+## § 4503. Protection of taxpayers against liability
 
 This chapter may not be construed as obligating the Federal Government, either directly or indirectly, to provide any funds to the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, or the Federal Home Loan Banks, or to honor, reimburse, or otherwise guarantee any obligation or liability of the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, or the Federal Home Loan Banks. This chapter may not be construed as implying that any such enterprise or Bank, or any obligations or securities of such an enterprise or Bank, are backed by the full faith and credit of the United States.
 
-(Pub. L. 102–550, title XIII, § 1304, Oct. 28, 1992, 106 Stat. 3944.)
+(Pub. L. 102–550, title XIII, § 1304, Oct. 28, 1992, 106 Stat. 3944.)
 
 **Editorial Notes**
 
@@ -335,7 +335,7 @@ This chapter, referred to in text, was in the original “This title and the ame
 
 ### Part A—Financial Safety and Soundness Regulator
 
-#### § 4511. Establishment of the Federal Housing Finance Agency
+#### § 4511. Establishment of the Federal Housing Finance Agency
 
 **(a) Establishment**
 
@@ -355,7 +355,7 @@ The Director shall have general regulatory authority over each regulated entity 
 
 The authority of the Director to take actions under subchapters II and III shall not in any way limit the general supervisory and regulatory authority granted to the Director under subsection (b).
 
-(Pub. L. 102–550, title XIII, § 1311, as added Pub. L. 110–289, div. A, title I, § 1101, July 30, 2008, 122 Stat. 2661.)
+(Pub. L. 102–550, title XIII, § 1311, as added Pub. L. 110–289, div. A, title I, § 1101, July 30, 2008, 122 Stat. 2661.)
 
 **Editorial Notes**
 
@@ -367,15 +367,15 @@ This Act, referred to in subsec. (b)(2), is Pub. L. 102–550, Oct. 28, 1992, 10
 
 **Prior Provisions**
 
-A prior section 4511, Pub. L. 102–550, title XIII, § 1311, Oct. 28, 1992, 106 Stat. 3944, related to establishment of the Office of Federal Housing Enterprise Oversight, prior to repeal by Pub. L. 110–289, div. A, title I, § 1101, July 30, 2008, 122 Stat. 2661.
+A prior section 4511, Pub. L. 102–550, title XIII, § 1311, Oct. 28, 1992, 106 Stat. 3944, related to establishment of the Office of Federal Housing Enterprise Oversight, prior to repeal by Pub. L. 110–289, div. A, title I, § 1101, July 30, 2008, 122 Stat. 2661.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer and Rights of Certain HUD Employees**
 
-Pub. L. 110–289, div. A, title I, § 1133, July 30, 2008, 122 Stat. 2728, provided that:
+Pub. L. 110–289, div. A, title I, § 1133, July 30, 2008, 122 Stat. 2728, provided that:
 
-> **“(a) Transfer.—** Each employee of the Department of Housing and Urban Development whose position responsibilities primarily involve the establishment and enforcement of the housing goals under subpart B of part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4561 et seq.) shall be transferred to the Federal Housing Finance Agency for employment, not later than the effective date of the Federal Housing Finance Regulatory Reform Act of 2008 [div. A (§§ 1001–1605) of Pub. L. 110–289, approved July 30, 2008], and such transfer shall be deemed a transfer of function for purposes of section 3503 of title 5, United States Code.
+> **“(a) Transfer.—** Each employee of the Department of Housing and Urban Development whose position responsibilities primarily involve the establishment and enforcement of the housing goals under subpart B of part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4561 et seq.) shall be transferred to the Federal Housing Finance Agency for employment, not later than the effective date of the Federal Housing Finance Regulatory Reform Act of 2008 [div. A (§§ 1001–1605) of Pub. L. 110–289, approved July 30, 2008], and such transfer shall be deemed a transfer of function for purposes of section 3503 of title 5, United States Code.
 
 > **“(b) Guaranteed Positions.—**
 
@@ -393,7 +393,7 @@ Pub. L. 110–289, div. A, title I, § 1133, July 30, 2008, 122 Stat. 2728, pr
 
 > **“(B)** a noncareer position in the Senior Executive Service (within the meaning of section 3132(a)(7) of title 5, United States Code).
 
-> **“(d) Reorganization.—** If the Director determines, after the end of the 1-year period beginning on the effective date of the Federal Housing Finance Regulatory Reform Act of 2008 [div. A (§§ 1001–1605) of Pub. L. 110–289, approved July 30, 2008], that a reorganization of the combined workforce is required, that reorganization shall be deemed a major reorganization for purposes of affording affected employee retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5, United States Code.
+> **“(d) Reorganization.—** If the Director determines, after the end of the 1-year period beginning on the effective date of the Federal Housing Finance Regulatory Reform Act of 2008 [div. A (§§ 1001–1605) of Pub. L. 110–289, approved July 30, 2008], that a reorganization of the combined workforce is required, that reorganization shall be deemed a major reorganization for purposes of affording affected employee retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5, United States Code.
 
 > **“(e) Employee Benefit Programs.—**
 
@@ -427,7 +427,7 @@ Pub. L. 110–289, div. A, title III, July 30, 2008, 122 Stat. 2794–2799, prov
 
 > **“(2)** may take any other action necessary for the purpose of winding up the affairs of the Office.
 
-> **“(c) Status of Employees Before Transfer.—** The amendments made by title I [title I (§§ 1101–1163) of div. A of Pub. L. 110–289, see Tables for classification] and the abolishment of the Office of Federal Housing Enterprise Oversight under subsection (a) of this section may not be construed to affect the status of any employee of such Office as an employee of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee under section 1303.
+> **“(c) Status of Employees Before Transfer.—** The amendments made by title I [title I (§§ 1101–1163) of div. A of Pub. L. 110–289, see Tables for classification] and the abolishment of the Office of Federal Housing Enterprise Oversight under subsection (a) of this section may not be construed to affect the status of any employee of such Office as an employee of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee under section 1303.
 
 > **“(d) Use of Property and Services.—**
 
@@ -533,7 +533,7 @@ Pub. L. 110–289, div. A, title III, July 30, 2008, 122 Stat. 2794–2799, prov
 
 > **“(2)** may take any other action necessary for the purpose of winding up the affairs of the Board.
 
-> **“(c) Status of Employees Before Transfer.—** The amendments made by titles I and II [titles I (§§ 1101–1163) and II (§§ 1201–1218) of div. A of Pub. L. 110–289, see Tables for classification] and the abolishment of the Board under subsection (a) may not be construed to affect the status of any employee of the Board as an employee of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee under section 1313.
+> **“(c) Status of Employees Before Transfer.—** The amendments made by titles I and II [titles I (§§ 1101–1163) and II (§§ 1201–1218) of div. A of Pub. L. 110–289, see Tables for classification] and the abolishment of the Board under subsection (a) may not be construed to affect the status of any employee of the Board as an employee of an agency of the United States for purposes of any other provision of law before the effective date of the transfer of any such employee under section 1313.
 
 > **“(d) Use of Property and Services.—**
 
@@ -611,7 +611,7 @@ Pub. L. 110–289, div. A, title III, July 30, 2008, 122 Stat. 2794–2799, prov
 
 **Definitions**
 
-Pub. L. 110–289, div. A, § 1002(b), July 30, 2008, 122 Stat. 2661, provided that:
+Pub. L. 110–289, div. A, § 1002(b), July 30, 2008, 122 Stat. 2661, provided that:
 
 > “As used in this Act [see Tables for classification], unless otherwise specified—
 
@@ -621,7 +621,7 @@ Pub. L. 110–289, div. A, § 1002(b), July 30, 2008, 122 Stat. 2661, provided
 
 > **“(3)** the terms ‘enterprise’, ‘regulated entity’, and ‘authorizing statutes’ have the same meanings as in section 1303 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 [12 U.S.C. 4502], as amended by this Act.”
 
-#### § 4512. Director
+#### § 4512. Director
 
 **(a) Establishment of position**
 
@@ -695,7 +695,7 @@ In the event of the death, resignation, sickness, or absence of the Director, th
 
 **(3)** have served as an executive officer or director of any regulated entity or entity-affiliated party at any time during the 3-year period preceding the date of appointment or designation of such individual as Director or Deputy Director, as applicable.
 
-(Pub. L. 102–550, title XIII, § 1312, as added Pub. L. 110–289, div. A, title I, § 1101, July 30, 2008, 122 Stat. 2662.)
+(Pub. L. 102–550, title XIII, § 1312, as added Pub. L. 110–289, div. A, title I, § 1101, July 30, 2008, 122 Stat. 2662.)
 
 **Editorial Notes**
 
@@ -709,9 +709,9 @@ For information regarding the constitutionality of provisions of subsection (b)(
 
 **Prior Provisions**
 
-A prior section 4512, Pub. L. 102–550, title XIII, § 1312, Oct. 28, 1992, 106 Stat. 3945, related to the Director and Deputy Director of the Office of Federal Housing Enterprise Oversight, prior to repeal by Pub. L. 110–289, div. A, title I, § 1101, July 30, 2008, 122 Stat. 2661.
+A prior section 4512, Pub. L. 102–550, title XIII, § 1312, Oct. 28, 1992, 106 Stat. 3945, related to the Director and Deputy Director of the Office of Federal Housing Enterprise Oversight, prior to repeal by Pub. L. 110–289, div. A, title I, § 1101, July 30, 2008, 122 Stat. 2661.
 
-#### § 4513. Duties and authorities of Director
+#### § 4513. Duties and authorities of Director
 
 **(a) Duties**
 
@@ -765,15 +765,15 @@ In enforcing any provision of this chapter, any regulation or order prescribed u
 
 Except as otherwise provided by law, the Director shall be subject to suit (other than suits on claims for money damages) by a regulated entity with respect to any matter under this chapter or any other applicable provision of law, rule, order, or regulation under this chapter, in the United States district court for the judicial district in which the regulated entity has its principal place of business, or in the United States District Court for the District of Columbia, and the Director may be served with process in the manner prescribed by the Federal Rules of Civil Procedure.
 
-**(f) 1 [footnote: 1 So in original. No subsecs. (d) and (e) have been enacted.] Recognition of distinctions between the enterprises and the Federal Home Loan Banks** Prior to promulgating any regulation or taking any other formal or informal agency action of general applicability and future effect relating to the Federal Home Loan Banks (other than any regulation, advisory document, or examination guidance of the Federal Housing Finance Board that the Director reissues after the authority of the Director over the Federal Home Loan Banks takes effect), including the issuance of an advisory document or examination guidance, the Director shall consider the differences between the Federal Home Loan Banks and the enterprises with respect to—
+**(f) 1 [footnote: 1 So in original. No subsecs. (d) and (e) have been enacted.] Recognition of distinctions between the enterprises and the Federal Home Loan Banks** Prior to promulgating any regulation or taking any other formal or informal agency action of general applicability and future effect relating to the Federal Home Loan Banks (other than any regulation, advisory document, or examination guidance of the Federal Housing Finance Board that the Director reissues after the authority of the Director over the Federal Home Loan Banks takes effect), including the issuance of an advisory document or examination guidance, the Director shall consider the differences between the Federal Home Loan Banks and the enterprises with respect to—
 
 **(1)** the Banks’—
 
 **(A)** cooperative ownership structure;
 
-**(B)** the 2
+**(B)** the 2
 
-<sup>2</sup>  So in original. The word “the” probably should not appear.
+<sup>2</sup> So in original. The word “the” probably should not appear.
 
 mission of providing liquidity to members;
 
@@ -785,7 +785,7 @@ mission of providing liquidity to members;
 
 **(2)** any other differences that the Director considers appropriate.
 
-(Pub. L. 102–550, title XIII, § 1313, Oct. 28, 1992, 106 Stat. 3945; Pub. L. 105–276, title II, § 202(b), Oct. 21, 1998, 112 Stat. 2483; Pub. L. 105–277, div. A, § 122, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 110–289, div. A, title I, §§ 1102(a), 1118, title II, § 1201, July 30, 2008, 122 Stat. 2663, 2688, 2782.)
+(Pub. L. 102–550, title XIII, § 1313, Oct. 28, 1992, 106 Stat. 3945; Pub. L. 105–276, title II, § 202(b), Oct. 21, 1998, 112 Stat. 2483; Pub. L. 105–277, div. A, § 122, Oct. 21, 1998, 112 Stat. 2681–546; Pub. L. 110–289, div. A, title I, §§ 1102(a), 1118, title II, § 1201, July 30, 2008, 122 Stat. 2663, 2688, 2782.)
 
 **Editorial Notes**
 
@@ -799,11 +799,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (c)(2), are set out
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1102(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to duty and authority of the Director of Office of Federal Housing Enterprise Oversight.
+2008—Pub. L. 110–289, § 1102(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to duty and authority of the Director of Office of Federal Housing Enterprise Oversight.
 
-Subsec. (a)(3). Pub. L. 110–289, § 1118, added par. (3).
+Subsec. (a)(3). Pub. L. 110–289, § 1118, added par. (3).
 
-Subsec. (f). Pub. L. 110–289, § 1201, added subsec. (f).
+Subsec. (f). Pub. L. 110–289, § 1201, added subsec. (f).
 
 1998—Subsec. (b)(9) to (12). Pub. L. 105–276, which directed the amendment of subsec. (b) by redesignating pars. (9) to (11) as (10) to (12), respectively, and adding a new par. (9) which read “default loss protection levels under section 1454(a)(2)(D) of this title;” was repealed by Pub. L. 105–277, effective upon enactment of Pub. L. 105–276.
 
@@ -811,9 +811,9 @@ Subsec. (f). Pub. L. 110–289, § 1201, added subsec. (f).
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–277, div. A, § 122, Oct. 21, 1998, 112 Stat. 2681–546, provided that the amendment made by section 122 is effective upon enactment of Pub. L. 105–276 (Oct. 21, 1998).
+Pub. L. 105–277, div. A, § 122, Oct. 21, 1998, 112 Stat. 2681–546, provided that the amendment made by section 122 is effective upon enactment of Pub. L. 105–276 (Oct. 21, 1998).
 
-#### § 4513a. Federal Housing Finance Oversight Board
+#### § 4513a. Federal Housing Finance Oversight Board
 
 **(a) In general**
 
@@ -857,7 +857,7 @@ Either the Secretary of the Treasury, the Secretary of Housing and Urban Develop
 
 **(6)** such other matters relating to the Agency and its fulfillment of its mission, as the Board determines appropriate.
 
-(Pub. L. 102–550, title XIII, § 1313A, as added Pub. L. 110–289, div. A, title I, § 1103(a), July 30, 2008, 122 Stat. 2665.)
+(Pub. L. 102–550, title XIII, § 1313A, as added Pub. L. 110–289, div. A, title I, § 1103(a), July 30, 2008, 122 Stat. 2665.)
 
 **Editorial Notes**
 
@@ -865,7 +865,7 @@ Either the Secretary of the Treasury, the Secretary of Housing and Urban Develop
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-#### § 4513b. Prudential management and operations standards
+#### § 4513b. Prudential management and operations standards
 
 **(a) Standards** The Director shall establish standards, by regulation or guideline, for each regulated entity relating to—
 
@@ -941,7 +941,7 @@ The Director shall, by order, require the regulated entity to correct the defici
 
 The authority of the Director under this section is in addition to any other authority of the Director.
 
-(Pub. L. 102–550, title XIII, § 1313B, as added Pub. L. 110–289, div. A, title I, § 1108, July 30, 2008, 122 Stat. 2672.)
+(Pub. L. 102–550, title XIII, § 1313B, as added Pub. L. 110–289, div. A, title I, § 1108, July 30, 2008, 122 Stat. 2672.)
 
 **Editorial Notes**
 
@@ -949,7 +949,7 @@ The authority of the Director under this section is in addition to any other aut
 
 This chapter, referred to in subsec. (a)(7), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-#### § 4514. Authority to require reports by regulated entities
+#### § 4514. Authority to require reports by regulated entities
 
 **(a) Regular and special reports**
 
@@ -1011,7 +1011,7 @@ Any penalty imposed under this subsection shall be in lieu of a penalty under se
 
 A regulated entity against which a penalty is assessed under this section shall be afforded an agency hearing if the regulated entity submits a request for a hearing not later than 20 days after the date of the issuance of the notice of assessment. Section 4634 of this title shall apply to any such proceedings.
 
-(Pub. L. 102–550, title XIII, § 1314, Oct. 28, 1992, 106 Stat. 3946; Pub. L. 110–289, div. A, title I, § 1104(a), July 30, 2008, 122 Stat. 2666.)
+(Pub. L. 102–550, title XIII, § 1314, Oct. 28, 1992, 106 Stat. 3946; Pub. L. 110–289, div. A, title I, § 1104(a), July 30, 2008, 122 Stat. 2666.)
 
 **Editorial Notes**
 
@@ -1021,23 +1021,23 @@ This chapter, referred to in subsec. (a)(2), was in the original “this title�
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1104(a)(1), substituted “regulated entities” for “enterprises” in section catchline.
+2008—Pub. L. 110–289, § 1104(a)(1), substituted “regulated entities” for “enterprises” in section catchline.
 
-Subsec. (a). Pub. L. 110–289, § 1104(a)(4)(A), substituted “Regular and special reports” for “Special reports and reports of financial condition” in subsec. heading, “Regular reports” for “Financial condition” in par. (1) heading, and “The Director may require, by general or specific orders, a regulated entity to submit regular reports, including financial statements determined on a fair value basis, on the condition (including financial condition), management, activities, or operations of the regulated entity, as the Director considers appropriate” for “The Director may require an enterprise to submit reports of financial condition and operations” in par. (1).
+Subsec. (a). Pub. L. 110–289, § 1104(a)(4)(A), substituted “Regular and special reports” for “Special reports and reports of financial condition” in subsec. heading, “Regular reports” for “Financial condition” in par. (1) heading, and “The Director may require, by general or specific orders, a regulated entity to submit regular reports, including financial statements determined on a fair value basis, on the condition (including financial condition), management, activities, or operations of the regulated entity, as the Director considers appropriate” for “The Director may require an enterprise to submit reports of financial condition and operations” in par. (1).
 
-Subsec. (a)(2). Pub. L. 110–289, § 1104(a)(4)(B), inserted “, by general or specific orders,” after “may also require” and substituted “on any of the topics specified in paragraph (1) or any other relevant topics, if” for “whenever”.
+Subsec. (a)(2). Pub. L. 110–289, § 1104(a)(4)(B), inserted “, by general or specific orders,” after “may also require” and substituted “on any of the topics specified in paragraph (1) or any other relevant topics, if” for “whenever”.
 
-Pub. L. 110–289, § 1104(a)(2), substituted “a regulated entity” for “an enterprise”.
+Pub. L. 110–289, § 1104(a)(2), substituted “a regulated entity” for “an enterprise”.
 
-Subsec. (a)(3), (4). Pub. L. 110–289, § 1104(a)(3), which directed amendment of this section by substituting “the regulated entity” for “the enterprise”, was executed by making the substitution wherever appearing to reflect the probable intent of Congress.
+Subsec. (a)(3), (4). Pub. L. 110–289, § 1104(a)(3), which directed amendment of this section by substituting “the regulated entity” for “the enterprise”, was executed by making the substitution wherever appearing to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 110–289, § 1104(a)(3), which directed amendment of this section by substituting “the regulated entity” for “the enterprise”, was executed by making the substitution wherever appearing to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 110–289, § 1104(a)(3), which directed amendment of this section by substituting “the regulated entity” for “the enterprise”, was executed by making the substitution wherever appearing to reflect the probable intent of Congress.
 
-Pub. L. 110–289, § 1104(a)(2), substituted “a regulated entity” for “an enterprise”.
+Pub. L. 110–289, § 1104(a)(2), substituted “a regulated entity” for “an enterprise”.
 
-Subsec. (c). Pub. L. 110–289, § 1104(a)(5), added subsec. (c).
+Subsec. (c). Pub. L. 110–289, § 1104(a)(5), added subsec. (c).
 
-#### § 4514a. Study and reports on guarantee fees
+#### § 4514a. Study and reports on guarantee fees
 
 **(a) Ongoing study of fees**
 
@@ -1047,7 +1047,7 @@ The Director shall conduct an ongoing study of fees charged by enterprises for g
 
 The Director shall, by regulation or order, establish procedures for the collection of data from enterprises for purposes of this subsection,1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 including the format and the process for collection of such data.
 
@@ -1075,7 +1075,7 @@ The Director shall annually submit a report to Congress on the results of the st
 
 Nothing in this section may be construed to require or authorize the Director to publicly disclose information that is confidential or proprietary.
 
-(Pub. L. 110–289, div. A, title VI, § 1601, July 30, 2008, 122 Stat. 2824.)
+(Pub. L. 110–289, div. A, title VI, § 1601, July 30, 2008, 122 Stat. 2824.)
 
 **Editorial Notes**
 
@@ -1089,7 +1089,7 @@ Section was enacted as part of the Federal Housing Finance Regulatory Reform Act
 
 For definitions of terms used in this section, see section 1002(b) of Pub. L. 110–289, set out as a note under section 4511 of this title.
 
-#### § 4515. Personnel
+#### § 4515. Personnel
 
 **(a) In general**
 
@@ -1107,7 +1107,7 @@ In carrying out the duties of the Agency, the Director may use information, serv
 
 Notwithstanding any provision of law limiting pay or compensation, the Director may appoint and compensate such outside experts and consultants as the Director determines necessary to assist the work of the Agency.
 
-(Pub. L. 102–550, title XIII, § 1315, Oct. 28, 1992, 106 Stat. 3947; Pub. L. 110–289, div. A, title I, § 1161(a)(1), July 30, 2008, 122 Stat. 2778; Pub. L. 111–203, title III, § 365(1), July 21, 2010, 124 Stat. 1555.)
+(Pub. L. 102–550, title XIII, § 1315, Oct. 28, 1992, 106 Stat. 3947; Pub. L. 110–289, div. A, title I, § 1161(a)(1), July 30, 2008, 122 Stat. 2778; Pub. L. 111–203, title III, § 365(1), July 21, 2010, 124 Stat. 1555.)
 
 **Editorial Notes**
 
@@ -1119,15 +1119,15 @@ The Federal Housing Finance Regulatory Reform Act of 2008, referred to in subsec
 
 2010—Subsec. (b). Pub. L. 111–203 substituted “and the Federal Deposit Insurance Corporation.” for “the Federal Deposit Insurance Corporation, and the Office of Thrift Supervision.”
 
-2008—Subsec. (a). Pub. L. 110–289, § 1161(a)(1)(A), substituted “In General” for “Office personnel” in heading, “Subject to title III of the Federal Housing Finance Regulatory Reform Act of 2008, the” for “The”, and “the Agency” for “the Office” in two places.
+2008—Subsec. (a). Pub. L. 110–289, § 1161(a)(1)(A), substituted “In General” for “Office personnel” in heading, “Subject to title III of the Federal Housing Finance Regulatory Reform Act of 2008, the” for “The”, and “the Agency” for “the Office” in two places.
 
-Subsec. (c). Pub. L. 110–289, § 1161(a)(1)(B), substituted “the Agency” for “the Office”.
+Subsec. (c). Pub. L. 110–289, § 1161(a)(1)(B), substituted “the Agency” for “the Office”.
 
-Subsec. (d). Pub. L. 110–289, § 1161(a)(1)(D), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Director shall reimburse the Department of Housing and Urban Development for reasonable costs incurred by the Department that are directly related to the operations of the Office.”
+Subsec. (d). Pub. L. 110–289, § 1161(a)(1)(D), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Director shall reimburse the Department of Housing and Urban Development for reasonable costs incurred by the Department that are directly related to the operations of the Office.”
 
-Subsec. (e). Pub. L. 110–289, § 1161(a)(1)(C), (D), substituted “the Agency” for “the Office” and redesignated subsec. (e) as (d).
+Subsec. (e). Pub. L. 110–289, § 1161(a)(1)(C), (D), substituted “the Agency” for “the Office” and redesignated subsec. (e) as (d).
 
-Subsec. (f). Pub. L. 110–289, § 1161(a)(1)(E), struck out subsec. (f). Text read as follows: “Not later than the expiration of the 180-day period beginning upon the appointment of the Director under section 4512 of this title, the Director shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing—
+Subsec. (f). Pub. L. 110–289, § 1161(a)(1)(E), struck out subsec. (f). Text read as follows: “Not later than the expiration of the 180-day period beginning upon the appointment of the Director under section 4512 of this title, the Director shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing—
 
 “(1) a complete description of the equal opportunity, affirmative action, and minority business enterprise utilization programs of the Office; and
 
@@ -1139,7 +1139,7 @@ Subsec. (f). Pub. L. 110–289, § 1161(a)(1)(E), struck out subsec. (f). Text
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
-#### § 4516. Funding
+#### § 4516. Funding
 
 **(a) Annual assessments** The Director shall establish and collect from the regulated entities annual assessments in an amount not exceeding the amount sufficient to provide for reasonable costs (including administrative costs) and expenses of the Agency, including—
 
@@ -1155,9 +1155,9 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 **(1) Amount of payment**
 
-Each enterprise shall pay to the Director a proportion of the annual assessment made pursuant to subsection (a) that bears the same ratio to the total annual assessment that the total assets of each enterprise bears 1
+Each enterprise shall pay to the Director a proportion of the annual assessment made pursuant to subsection (a) that bears the same ratio to the total annual assessment that the total assets of each enterprise bears 1
 
-<sup>1</sup>  So in original. Probably should be “bear”.
+<sup>1</sup> So in original. Probably should be “bear”.
 
 to the total assets of both enterprises.
 
@@ -1219,9 +1219,9 @@ The Director may use any amounts received by the Director from assessments under
 
 **(5) Availability of oversight fund amounts**
 
-Notwithstanding any other provision of law, any amounts remaining in the Federal Housing Enterprises Oversight Fund established under this section (as in effect before the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, and any amounts remaining from assessments on the Federal Home Loan Banks pursuant to section 1438(b) 2
+Notwithstanding any other provision of law, any amounts remaining in the Federal Housing Enterprises Oversight Fund established under this section (as in effect before the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, and any amounts remaining from assessments on the Federal Home Loan Banks pursuant to section 1438(b) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title), shall, upon such effective date, be treated for purposes of this subsection as amounts received from assessments under this section.
 
@@ -1277,7 +1277,7 @@ The Comptroller General shall submit to the Congress a report of each annual aud
 
 For the purpose of conducting an audit under this subsection, the Comptroller General may, in the discretion of the Comptroller General, employ by contract, without regard to section 6101 of title 41, professional services of firms and organizations of certified public accountants for temporary periods or for special purposes. Upon the request of the Comptroller General, the Director of the Agency shall transfer to the Government Accountability Office from funds available, the amount requested by the Comptroller General to cover the full costs of any audit and report conducted by the Comptroller General. The Comptroller General shall credit funds transferred to the account established for salaries and expenses of the Government Accountability Office, and such amount shall be available upon receipt and without fiscal year limitation to cover the full costs of the audit and report.
 
-(Pub. L. 102–550, title XIII, § 1316, Oct. 28, 1992, 106 Stat. 3947; Pub. L. 104–134, title I, § 101(e) [title II, § 211], Apr. 26, 1996, 110 Stat. 1321–257, 1321–288; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–289, div. A, title I, § 1106, July 30, 2008, 122 Stat. 2669.)
+(Pub. L. 102–550, title XIII, § 1316, Oct. 28, 1992, 106 Stat. 3947; Pub. L. 104–134, title I, § 101(e) [title II, § 211], Apr. 26, 1996, 110 Stat. 1321–257, 1321–288; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 110–289, div. A, title I, § 1106, July 30, 2008, 122 Stat. 2669.)
 
 **Editorial Notes**
 
@@ -1289,23 +1289,23 @@ This Act, referred to in subsec. (c)(2), (3), is Pub. L. 102–550, Oct. 28, 199
 
 The effective date of the Federal Housing Finance Regulatory Reform Act of 2008, referred to in subsec. (f)(5), probably means the date of enactment of div. A of Pub. L. 110–289, which was approved July 30, 2008.
 
-Section 1438(b) of this title, referred to in subsec. (f)(5), was repealed by Pub. L. 110–289, div. A, title II, § 1204(2), July 30, 2008, 122 Stat. 2786.
+Section 1438(b) of this title, referred to in subsec. (f)(5), was repealed by Pub. L. 110–289, div. A, title II, § 1204(2), July 30, 2008, 122 Stat. 2786.
 
 **Codification**
 
-In subsec. (h)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (h)(3), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1106(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient to provide for reasonable costs and expenses of the Office, including the expenses of any examinations under section 4517 of this title. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.”
+2008—Subsec. (a). Pub. L. 110–289, § 1106(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director may, to the extent provided in appropriation Acts, establish and collect from the enterprises annual assessments in an amount not exceeding the amount sufficient to provide for reasonable costs and expenses of the Office, including the expenses of any examinations under section 4517 of this title. The initial annual assessment shall include any startup costs of the Office and any anticipated costs and expenses of the Office for the following fiscal year.”
 
-Subsec. (b)(2) to (4). Pub. L. 110–289, § 1106(2), realigned margins, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (b)(2) to (4). Pub. L. 110–289, § 1106(2), realigned margins, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (c). Pub. L. 110–289, § 1106(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapter II of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the enterprise.”
+Subsec. (c). Pub. L. 110–289, § 1106(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapter II of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the enterprise.”
 
-Subsec. (d). Pub. L. 110–289, § 1106(4), substituted “Except with respect to amounts collected pursuant to subsection (a)(3), if” for “If”.
+Subsec. (d). Pub. L. 110–289, § 1106(4), substituted “Except with respect to amounts collected pursuant to subsection (a)(3), if” for “If”.
 
-Subsecs. (e) to (h). Pub. L. 110–289, § 1106(5), added subsecs. (e) to (h) and struck out former subsecs. (e) to (g) which related, respectively, to initial special assessment, the Federal Housing Enterprises Oversight Fund, and budget and financial reports.
+Subsecs. (e) to (h). Pub. L. 110–289, § 1106(5), added subsecs. (e) to (h) and struck out former subsecs. (e) to (g) which related, respectively, to initial special assessment, the Federal Housing Enterprises Oversight Fund, and budget and financial reports.
 
 1996—Subsec. (b)(2). Pub. L. 104–134 added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The annual assessment shall be payable semiannually on September 1 and March 1 of the year for which the assessment is made.”
 
@@ -1315,7 +1315,7 @@ Subsecs. (e) to (h). Pub. L. 110–289, § 1106(5), added subsecs. (e) to (h) 
 
 Pub. L. 103–124, title II, Oct. 28, 1993, 107 Stat. 1290, provided that notwithstanding the last sentence of subsec. (e) of this section, the amount of this first annual assessment was not to be reduced by any part of the amount of the initial special assessment under subsec. (e).
 
-#### § 4517. Examinations
+#### § 4517. Examinations
 
 **(a) Annual examination**
 
@@ -1361,7 +1361,7 @@ This section shall apply with respect to any position of examiner, accountant, e
 
 The Director shall establish, by regulation, an Office of the Ombudsman within the Agency, which shall be responsible for considering complaints and appeals, from any regulated entity and any person that has a business relationship with a regulated entity, regarding any matter relating to the regulation and supervision of such regulated entity by the Agency. The regulation issued by the Director under this subsection shall specify the authority and duties of the Office of the Ombudsman.
 
-(Pub. L. 102–550, title XIII, § 1317, Oct. 28, 1992, 106 Stat. 3949; Pub. L. 110–289, div. A, title I, §§ 1105(a), (b), (e), 1153(b)(1)(A), July 30, 2008, 122 Stat. 2667, 2668, 2774; Pub. L. 111–203, title III, § 365(2), July 21, 2010, 124 Stat. 1555; Pub. L. 117–286, § 4(b)(34), Dec. 27, 2022, 136 Stat. 4347.)
+(Pub. L. 102–550, title XIII, § 1317, Oct. 28, 1992, 106 Stat. 3949; Pub. L. 110–289, div. A, title I, §§ 1105(a), (b), (e), 1153(b)(1)(A), July 30, 2008, 122 Stat. 2667, 2668, 2774; Pub. L. 111–203, title III, § 365(2), July 21, 2010, 124 Stat. 1555; Pub. L. 117–286, § 4(b)(34), Dec. 27, 2022, 136 Stat. 4347.)
 
 **Editorial Notes**
 
@@ -1371,21 +1371,21 @@ The Director shall establish, by regulation, an Office of the Ombudsman within t
 
 2010—Subsec. (c). Pub. L. 111–203 substituted “or the Federal Deposit Insurance Corporation” for “the Federal Deposit Insurance Corporation, or the Director of the Office of Thrift Supervision”.
 
-2008—Subsec. (a). Pub. L. 110–289, § 1105(a)(1), substituted “regulated entity” for “enterprise” in two places.
+2008—Subsec. (a). Pub. L. 110–289, § 1105(a)(1), substituted “regulated entity” for “enterprise” in two places.
 
-Subsec. (b). Pub. L. 110–289, § 1105(a)(2), inserted “of a regulated entity” after “under this section” and substituted “or appropriate” for “to determine the condition of an enterprise for the purpose of ensuring its financial safety and soundness”.
+Subsec. (b). Pub. L. 110–289, § 1105(a)(2), inserted “of a regulated entity” after “under this section” and substituted “or appropriate” for “to determine the condition of an enterprise for the purpose of ensuring its financial safety and soundness”.
 
-Subsec. (c). Pub. L. 110–289, § 1105(a)(3), inserted “to conduct examinations under this section” after “services of examiners”.
+Subsec. (c). Pub. L. 110–289, § 1105(a)(3), inserted “to conduct examinations under this section” after “services of examiners”.
 
-Subsecs. (d) to (f). Pub. L. 110–289, § 1105(a)(4), (5), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
+Subsecs. (d) to (f). Pub. L. 110–289, § 1105(a)(4), (5), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 110–289, § 1153(b)(1)(A), which directed technical amendment in subsec. (f) to reference in original act which appears in text as reference to section 4641 of this title, was executed by making the amendment in subsec. (g), to reflect the probable intent of Congress and the redesignation of subsec. (f) as (g) by Pub. L. 110–289, § 1105(a)(4). See below.
+Subsec. (g). Pub. L. 110–289, § 1153(b)(1)(A), which directed technical amendment in subsec. (f) to reference in original act which appears in text as reference to section 4641 of this title, was executed by making the amendment in subsec. (g), to reflect the probable intent of Congress and the redesignation of subsec. (f) as (g) by Pub. L. 110–289, § 1105(a)(4). See below.
 
-Pub. L. 110–289, § 1105(a)(4), redesignated subsec. (f) as (g).
+Pub. L. 110–289, § 1105(a)(4), redesignated subsec. (f) as (g).
 
-Subsec. (h). Pub. L. 110–289, § 1105(b), added subsec. (h).
+Subsec. (h). Pub. L. 110–289, § 1105(b), added subsec. (h).
 
-Subsec. (i). Pub. L. 110–289, § 1105(e), added subsec. (i).
+Subsec. (i). Pub. L. 110–289, § 1105(e), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1393,7 +1393,7 @@ Subsec. (i). Pub. L. 110–289, § 1105(e), added subsec. (i).
 
 Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 of Pub. L. 111–203, set out as a note under section 906 of Title 2, The Congress.
 
-#### § 4518. Prohibition and withholding of executive compensation
+#### § 4518. Prohibition and withholding of executive compensation
 
 **(a) In general**
 
@@ -1501,19 +1501,19 @@ Any payment which would be a golden parachute payment but for the fact that such
 
 No provision of this subsection shall be construed as prohibiting any regulated entity from purchasing any commercial insurance policy or fidelity bond, except that, subject to any requirement described in paragraph (5)(A)(iii), such insurance policy or bond shall not cover any legal or liability expense of the regulated entity which is described in paragraph (5)(A).
 
-(Pub. L. 102–550, title XIII, § 1318, Oct. 28, 1992, 106 Stat. 3949; Pub. L. 110–289, div. A, title I, §§ 1113(a), 1114, July 30, 2008, 122 Stat. 2678, 2679.)
+(Pub. L. 102–550, title XIII, § 1318, Oct. 28, 1992, 106 Stat. 3949; Pub. L. 110–289, div. A, title I, §§ 1113(a), 1114, July 30, 2008, 122 Stat. 2678, 2679.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1113(a)(1), substituted “and withholding of executive” for “of excessive” in section catchline.
+2008—Pub. L. 110–289, § 1113(a)(1), substituted “and withholding of executive” for “of excessive” in section catchline.
 
-Subsec. (a). Pub. L. 110–289, § 1113(a)(2), substituted “regulated entity” for “enterprise” and “regulated entities” for “enterprises”.
+Subsec. (a). Pub. L. 110–289, § 1113(a)(2), substituted “regulated entity” for “enterprise” and “regulated entities” for “enterprises”.
 
-Subsecs. (b) to (d). Pub. L. 110–289, § 1113(a)(3), (4), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+Subsecs. (b) to (d). Pub. L. 110–289, § 1113(a)(3), (4), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-Subsec. (e). Pub. L. 110–289, § 1114, added subsec. (e).
+Subsec. (e). Pub. L. 110–289, § 1114, added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1549,11 +1549,11 @@ Pub. L. 114–93, Nov. 25, 2015, 129 Stat. 1310, provided that:
 
 > “Any chief executive officer affected by any provision under section 3 shall not be considered a Federal employee.”
 
-#### § 4518a. Limitation on bonuses to executives of Fannie Mae and Freddie Mac
+#### § 4518a. Limitation on bonuses to executives of Fannie Mae and Freddie Mac
 
 Notwithstanding any other provision in law, senior executives at the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation are prohibited from receiving bonuses during any period of conservatorship for those entities on or after April 4, 2012.
 
-(Pub. L. 112–105, § 16, Apr. 4, 2012, 126 Stat. 303.)
+(Pub. L. 112–105, § 16, Apr. 4, 2012, 126 Stat. 303.)
 
 **Editorial Notes**
 
@@ -1561,11 +1561,11 @@ Notwithstanding any other provision in law, senior executives at the Federal Nat
 
 Section was enacted as part of the Representative Louise McIntosh Slaughter Stop Trading on Congressional Knowledge Act, also known as the STOCK Act, and not as part of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 which comprises this chapter.
 
-#### § 4519. Authority to provide for review of regulated entities
+#### § 4519. Authority to provide for review of regulated entities
 
 The Director may, on such terms and conditions as the Director deems appropriate, contract with any entity to conduct a review of the regulated entities.
 
-(Pub. L. 102–550, title XIII, § 1319, Oct. 28, 1992, 106 Stat. 3950; Pub. L. 109–291, § 4(b)(4), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 110–289, div. A, title I, § 1105(d), July 30, 2008, 122 Stat. 2668; Pub. L. 111–203, title IX, § 939(b), July 21, 2010, 124 Stat. 1886.)
+(Pub. L. 102–550, title XIII, § 1319, Oct. 28, 1992, 106 Stat. 3950; Pub. L. 109–291, § 4(b)(4), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 110–289, div. A, title I, § 1105(d), July 30, 2008, 122 Stat. 2668; Pub. L. 111–203, title IX, § 939(b), July 21, 2010, 124 Stat. 1886.)
 
 **Editorial Notes**
 
@@ -1583,7 +1583,7 @@ The Director may, on such terms and conditions as the Director deems appropriate
 
 Amendment by Pub. L. 111–203 effective 2 years after July 21, 2010, see section 939(g) of Pub. L. 111–203, set out as a note under section 24a of this title.
 
-#### § 4520. Minority and women inclusion; diversity requirements
+#### § 4520. Minority and women inclusion; diversity requirements
 
 **(a) Office of Minority and Women Inclusion**
 
@@ -1591,9 +1591,9 @@ Each regulated entity shall establish an Office of Minority and Women Inclusion,
 
 **(b) Inclusion in all levels of business activities**
 
-Each regulated entity shall develop and implement standards and procedures to ensure, to the maximum extent possible, the inclusion and utilization of minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note)) and women, and minority- and women-owned businesses (as such terms are defined in section 1441a(r)(4) 1
+Each regulated entity shall develop and implement standards and procedures to ensure, to the maximum extent possible, the inclusion and utilization of minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note)) and women, and minority- and women-owned businesses (as such terms are defined in section 1441a(r)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) (including financial institutions, investment banking firms, mortgage banking firms, asset management firms, broker-dealers, financial services firms, underwriters, accountants, brokers, investment consultants, and providers of legal services) in all business and activities of the regulated entity at all levels, including in procurement, insurance, and all types of contracts (including contracts for the issuance or guarantee of any debt, equity, or mortgage-related securities, the management of its mortgage and securities portfolios, the making of its equity investments, the purchase, sale and servicing of single- and multi-family mortgage loans, and the implementation of its affordable housing program and initiatives). The processes established by each regulated entity for review and evaluation for contract proposals and to hire service providers shall include a component that gives consideration to the diversity of the applicant.
 
@@ -1619,7 +1619,7 @@ Each regulated entity shall establish a minority outreach program to ensure the 
 
 **(4)** where feasible, partnering with inner-city high schools, girls’ high schools, and high schools with majority minority populations to establish or enhance financial literacy programs and provide mentoring.
 
-(Pub. L. 102–550, title XIII, § 1319A, Oct. 28, 1992, 106 Stat. 3950; Pub. L. 110–289, div. A, title I, §§ 1116, 1161(a)(2), July 30, 2008, 122 Stat. 2681, 2779.)
+(Pub. L. 102–550, title XIII, § 1319A, Oct. 28, 1992, 106 Stat. 3950; Pub. L. 110–289, div. A, title I, §§ 1116, 1161(a)(2), July 30, 2008, 122 Stat. 2681, 2779.)
 
 **Editorial Notes**
 
@@ -1627,27 +1627,27 @@ Each regulated entity shall establish a minority outreach program to ensure the 
 
 Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (b), is section 1204(c) of Pub. L. 101–73, which is set out as a note under section 1811 of this title.
 
-Section 1441a(r)(4) of this title, referred to in subsec. (b), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
+Section 1441a(r)(4) of this title, referred to in subsec. (b), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1116(1), substituted “Minority and women inclusion; diversity requirements” for “Equal opportunity in solicitation of contracts” in section catchline.
+2008—Pub. L. 110–289, § 1116(1), substituted “Minority and women inclusion; diversity requirements” for “Equal opportunity in solicitation of contracts” in section catchline.
 
-Subsec. (a). Pub. L. 110–289, § 1161(a)(2)(A), which directed amendment of this section by striking out subsec. (a) designation and “In general” in subsec. (a) heading, could not be executed because of the prior amendment by Pub. L. 110–289, § 1116(2), (4). See below.
+Subsec. (a). Pub. L. 110–289, § 1161(a)(2)(A), which directed amendment of this section by striking out subsec. (a) designation and “In general” in subsec. (a) heading, could not be executed because of the prior amendment by Pub. L. 110–289, § 1116(2), (4). See below.
 
-Pub. L. 110–289, § 1116(2), (4), added subsec. (a) and redesignated former subsec. (a) as (e).
+Pub. L. 110–289, § 1116(2), (4), added subsec. (a) and redesignated former subsec. (a) as (e).
 
-Subsec. (b). Pub. L. 110–289, § 1161(a)(2)(B), which directed the striking out of subsec. (b), was not executed to reflect the probable intent of Congress. The amendment was probably intended to strike out subsec. (b) as it existed prior to being struck out by Pub. L. 110–289, § 1116(3). See below.
+Subsec. (b). Pub. L. 110–289, § 1161(a)(2)(B), which directed the striking out of subsec. (b), was not executed to reflect the probable intent of Congress. The amendment was probably intended to strike out subsec. (b) as it existed prior to being struck out by Pub. L. 110–289, § 1116(3). See below.
 
-Pub. L. 110–289, § 1116(3), (4), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than the expiration of the 180-day period beginning on October 28, 1992, each enterprise shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the actions taken by the enterprise pursuant to subsection (a) of this section.”
+Pub. L. 110–289, § 1116(3), (4), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than the expiration of the 180-day period beginning on October 28, 1992, each enterprise shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the actions taken by the enterprise pursuant to subsection (a) of this section.”
 
-Subsecs. (c), (d). Pub. L. 110–289, § 1116(4), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 110–289, § 1116(4), added subsecs. (c) and (d).
 
-Subsec. (e). Pub. L. 110–289, § 1116(2), redesignated subsec. (a) as (e) and substituted “Outreach” for “In general” in heading and “Each regulated entity” for “Each enterprise” in text.
+Subsec. (e). Pub. L. 110–289, § 1116(2), redesignated subsec. (a) as (e) and substituted “Outreach” for “In general” in heading and “Each regulated entity” for “Each enterprise” in text.
 
-Subsec. (f). Pub. L. 110–289, § 1116(5), added subsec. (f).
+Subsec. (f). Pub. L. 110–289, § 1116(5), added subsec. (f).
 
-#### § 4521. Annual reports by Director
+#### § 4521. Annual reports by Director
 
 **(a) General report** The Director shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, not later than June 15 of each year, a written report, which shall include—
 
@@ -1663,9 +1663,9 @@ Subsec. (f). Pub. L. 110–289, § 1116(5), added subsec. (f).
 
 **(B)** the results and conclusions of any examination, as determined necessary by the Director, to determine the compliance of the regulated entities with the requirements of section 4012a(b)(3) of title 42, which shall include a description of the methods used to determine compliance and the types and sources of deficiencies (if any), and identify any corrective measures that have been taken to remedy any such deficiencies,
 
-except that the information described in this paragraph shall be included only in each of the first, third, and fifth annual reports under this subsection required to be submitted after the expiration of the 1-year period beginning on September 23, 1994; and 1
+except that the information described in this paragraph shall be included only in each of the first, third, and fifth annual reports under this subsection required to be submitted after the expiration of the 1-year period beginning on September 23, 1994; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 **(5)** the assessment of the Board or any of its members with respect to—
 
@@ -1697,7 +1697,7 @@ except that the information described in this paragraph shall be included only i
 
 **(5)** the number of litigation requests pending at the beginning of the calendar year, the number of requests made during the calendar year, the number of requests for which action was completed during the calendar year, and the number of requests pending at the end of the calendar year.
 
-(Pub. L. 102–550, title XIII, § 1319B, Oct. 28, 1992, 106 Stat. 3950; Pub. L. 103–325, title V, § 529(c), Sept. 23, 1994, 108 Stat. 2267; Pub. L. 110–289, div. A, title I, §§ 1103(b), 1161(a)(6), July 30, 2008, 122 Stat. 2665, 2779.)
+(Pub. L. 102–550, title XIII, § 1319B, Oct. 28, 1992, 106 Stat. 3950; Pub. L. 103–325, title V, § 529(c), Sept. 23, 1994, 108 Stat. 2267; Pub. L. 110–289, div. A, title I, §§ 1103(b), 1161(a)(6), July 30, 2008, 122 Stat. 2665, 2779.)
 
 **Editorial Notes**
 
@@ -1707,17 +1707,17 @@ This chapter, referred to in subsec. (a)(1), was in the original “this title�
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1161(a)(6), substituted “Committee on Financial Services” for “Committee on Banking, Finance and Urban Affairs” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–289, § 1161(a)(6), substituted “Committee on Financial Services” for “Committee on Banking, Finance and Urban Affairs” in introductory provisions.
 
-Subsec. (a)(2) to (4). Pub. L. 110–289, § 1103(b)(1)–(4), substituted “regulated entity” for “enterprise” and “regulated entities” for “enterprises” wherever appearing and substituted a semicolon for “; and” at end of par. (3) and “1994; and” for “1994.” at end of par. (4).
+Subsec. (a)(2) to (4). Pub. L. 110–289, § 1103(b)(1)–(4), substituted “regulated entity” for “enterprise” and “regulated entities” for “enterprises” wherever appearing and substituted a semicolon for “; and” at end of par. (3) and “1994; and” for “1994.” at end of par. (4).
 
-Subsec. (a)(5) to (7). Pub. L. 110–289, § 1103(b)(5), added pars. (5) to (7).
+Subsec. (a)(5) to (7). Pub. L. 110–289, § 1103(b)(5), added pars. (5) to (7).
 
-Subsec. (b). Pub. L. 110–289, § 1161(a)(6), substituted “Committee on Financial Services” for “Committee on Banking, Finance and Urban Affairs” in introductory provisions.
+Subsec. (b). Pub. L. 110–289, § 1161(a)(6), substituted “Committee on Financial Services” for “Committee on Banking, Finance and Urban Affairs” in introductory provisions.
 
 1994—Subsec. (a)(4). Pub. L. 103–325 added par. (4).
 
-#### § 4522. Public disclosure of final orders and agreements
+#### § 4522. Public disclosure of final orders and agreements
 
 **(a) In general** The Director shall make available to the public—
 
@@ -1747,13 +1747,13 @@ The Director shall keep and maintain a record, for not less than 6 years, of all
 
 This section may not be construed to authorize the withholding of any information from, or to prohibit the disclosure of any information to, the Congress or any committee or subcommittee thereof.
 
-(Pub. L. 102–550, title XIII, § 1319C, Oct. 28, 1992, 106 Stat. 3951.)
+(Pub. L. 102–550, title XIII, § 1319C, Oct. 28, 1992, 106 Stat. 3951.)
 
-#### § 4523. Limitation on subsequent employment
+#### § 4523. Limitation on subsequent employment
 
 Neither the Director nor any former officer or employee of the Agency who, while employed by the Agency, was compensated at a rate in excess of the lowest rate for a position classified higher than GS–15 of the General Schedule under section 5107 of title 5 may accept compensation from an enterprise during the 2-year period beginning on the date of separation from employment by the Agency.
 
-(Pub. L. 102–550, title XIII, § 1319D, Oct. 28, 1992, 106 Stat. 3951; Pub. L. 110–289, div. A, title I, § 1161(a)(5), July 30, 2008, 122 Stat. 2779.)
+(Pub. L. 102–550, title XIII, § 1319D, Oct. 28, 1992, 106 Stat. 3951; Pub. L. 110–289, div. A, title I, § 1161(a)(5), July 30, 2008, 122 Stat. 2779.)
 
 **Editorial Notes**
 
@@ -1761,11 +1761,11 @@ Neither the Director nor any former officer or employee of the Agency who, while
 
 2008—Pub. L. 110–289 substituted “the Agency” for “the Office” wherever appearing.
 
-#### § 4524. Audits by GAO
+#### § 4524. Audits by GAO
 
 The Comptroller General may audit the operations of the Agency, and any such audit shall be conducted in accordance with generally accepted Government auditing standards. All books, records, accounts, reports, files, and property belonging to, or used by, the Agency shall be made available to the Comptroller General.
 
-(Pub. L. 102–550, title XIII, § 1319E, Oct. 28, 1992, 106 Stat. 3952; Pub. L. 104–316, title I, § 106(h), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 110–289, div. A, title I, § 1161(a)(5), July 30, 2008, 122 Stat. 2779.)
+(Pub. L. 102–550, title XIII, § 1319E, Oct. 28, 1992, 106 Stat. 3952; Pub. L. 104–316, title I, § 106(h), Oct. 19, 1996, 110 Stat. 3831; Pub. L. 110–289, div. A, title I, § 1161(a)(5), July 30, 2008, 122 Stat. 2779.)
 
 **Editorial Notes**
 
@@ -1773,9 +1773,9 @@ The Comptroller General may audit the operations of the Agency, and any such aud
 
 2008—Pub. L. 110–289 substituted “the Agency” for “the Office” in two places.
 
-1996—Pub. L. 104–316, in first sentence, substituted “may audit” for “shall audit” and inserted “, and any such audit shall be conducted” after “Office”, and struck out at end “Audits under this section shall be conducted annually for the first 2 fiscal years following October 28, 1992, and as appropriate thereafter.”
+1996—Pub. L. 104–316, in first sentence, substituted “may audit” for “shall audit” and inserted “, and any such audit shall be conducted” after “Office”, and struck out at end “Audits under this section shall be conducted annually for the first 2 fiscal years following October 28, 1992, and as appropriate thereafter.”
 
-#### § 4525. Information, records, and meetings
+#### § 4525. Information, records, and meetings
 
 For purposes of subchapter II of chapter 5 of title 5—
 
@@ -1785,7 +1785,7 @@ For purposes of subchapter II of chapter 5 of title 5—
 
 shall be considered agencies responsible for the regulation or supervision of financial institutions.
 
-(Pub. L. 102–550, title XIII, § 1319F, Oct. 28, 1992, 106 Stat. 3952; Pub. L. 110–289, div. A, title I, § 1161(a)(5), July 30, 2008, 122 Stat. 2779.)
+(Pub. L. 102–550, title XIII, § 1319F, Oct. 28, 1992, 106 Stat. 3952; Pub. L. 110–289, div. A, title I, § 1161(a)(5), July 30, 2008, 122 Stat. 2779.)
 
 **Editorial Notes**
 
@@ -1797,7 +1797,7 @@ This chapter, referred to in par. (2), was in the original “this title”, mea
 
 2008—Par. (1). Pub. L. 110–289 substituted “the Agency” for “the Office”.
 
-#### § 4526. Regulations and orders
+#### § 4526. Regulations and orders
 
 **(a) Authority**
 
@@ -1807,7 +1807,7 @@ The Director shall issue any regulations, guidelines, or orders necessary to car
 
 Any regulations issued by the Director under this section shall be issued after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5.
 
-(Pub. L. 102–550, title XIII, § 1319G, Oct. 28, 1992, 106 Stat. 3952; Pub. L. 110–289, div. A, title I, § 1107, July 30, 2008, 122 Stat. 2672.)
+(Pub. L. 102–550, title XIII, § 1319G, Oct. 28, 1992, 106 Stat. 3952; Pub. L. 110–289, div. A, title I, § 1107, July 30, 2008, 122 Stat. 2672.)
 
 **Editorial Notes**
 
@@ -1817,11 +1817,11 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1107(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director shall issue any regulations and orders necessary to carry out the duties of the Director and to carry out this chapter before the expiration of the 18-month period beginning on the appointment of the Director under section 4512 of this title. Such regulations and orders shall be subject to the approval of the Secretary only to the extent provided in subsections (b) and (c) of section 4513 of this title.”
+2008—Subsec. (a). Pub. L. 110–289, § 1107(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director shall issue any regulations and orders necessary to carry out the duties of the Director and to carry out this chapter before the expiration of the 18-month period beginning on the appointment of the Director under section 4512 of this title. Such regulations and orders shall be subject to the approval of the Secretary only to the extent provided in subsections (b) and (c) of section 4513 of this title.”
 
-Subsec. (c). Pub. L. 110–289, § 1107(2), struck out subsec. (c). Text read as follows: “The Director may not publish any regulation for comment under subsection (b) of this section unless, not less than 15 days before it is published for comment, the Director has submitted a copy of the regulation, in the form it is intended to be proposed, to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.”
+Subsec. (c). Pub. L. 110–289, § 1107(2), struck out subsec. (c). Text read as follows: “The Director may not publish any regulation for comment under subsection (b) of this section unless, not less than 15 days before it is published for comment, the Director has submitted a copy of the regulation, in the form it is intended to be proposed, to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.”
 
-#### § 4527. Data standards
+#### § 4527. Data standards
 
 **(a) Requirement**
 
@@ -1831,23 +1831,23 @@ The Agency shall, by rule, adopt data standards for all collections of informati
 
 The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
 
-(Pub. L. 102–550, title XIII, § 1319H, as added Pub. L. 117–263, div. E, title LVIII, § 5881, Dec. 23, 2022, 136 Stat. 3437.)
+(Pub. L. 102–550, title XIII, § 1319H, as added Pub. L. 117–263, div. E, title LVIII, § 5881, Dec. 23, 2022, 136 Stat. 3437.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rulemaking**
 
-Pub. L. 117–263, div. E, title LVIII, § 5883, Dec. 23, 2022, 136 Stat. 3437, provided that:
+Pub. L. 117–263, div. E, title LVIII, § 5883, Dec. 23, 2022, 136 Stat. 3437, provided that:
 
-> **“(a) In General.—** The Director of the Federal Housing Finance Agency shall issue rules to carry out the amendments made by this subtitle [subtitle H (§§ 5881–5884) of title LVIII of div. E of Pub. L. 117–263, enacting this section and section 4528 of this title], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title.
+> **“(a) In General.—** The Director of the Federal Housing Finance Agency shall issue rules to carry out the amendments made by this subtitle [subtitle H (§§ 5881–5884) of title LVIII of div. E of Pub. L. 117–263, enacting this section and section 4528 of this title], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [12 U.S.C. 5334(b)(2)], as added by section 5811(a) of this title.
 
 > **“(b) Minimizing Disruption.—** In issuing the regulations required under subsection (a), the Director of the Federal Housing Finance Agency shall seek to minimize disruptive changes to the persons affected by those rules.”
 
 **Rule of Construction Regarding No New Disclosure Requirements**
 
-Pub. L. 117–263, div. E, title LVIII, § 5884, Dec. 23, 2022, 136 Stat. 3438, provided that: “Nothing in this subtitle [subtitle H (§§ 5881–5884) of title LVIII of div. E of Pub. L. 117–263, enacting this section, section 4528 of this title, and provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the Federal Housing Finance Agency to collect or make publicly available additional information under the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
+Pub. L. 117–263, div. E, title LVIII, § 5884, Dec. 23, 2022, 136 Stat. 3438, provided that: “Nothing in this subtitle [subtitle H (§§ 5881–5884) of title LVIII of div. E of Pub. L. 117–263, enacting this section, section 4528 of this title, and provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the Federal Housing Finance Agency to collect or make publicly available additional information under the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4501 et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
 
-#### § 4528. Open data publication
+#### § 4528. Open data publication
 
 All public data assets published by the Agency shall be—
 
@@ -1859,7 +1859,7 @@ All public data assets published by the Agency shall be—
 
 **(4)** accessible via application programming interface where appropriate.
 
-(Pub. L. 102–550, title XIII, § 1319I, as added Pub. L. 117–263, div. E, title LVIII, § 5882, Dec. 23, 2022, 136 Stat. 3437.)
+(Pub. L. 102–550, title XIII, § 1319I, as added Pub. L. 117–263, div. E, title LVIII, § 5882, Dec. 23, 2022, 136 Stat. 3437.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1871,7 +1871,7 @@ Enactment of section not to be construed to require certain additional informati
 
 #### subpart 1—general authority
 
-##### § 4541. Prior approval authority for products
+##### § 4541. Prior approval authority for products
 
 **(a) In general**
 
@@ -1953,19 +1953,19 @@ If the Director fails to determine whether such activity is a product within the
 
 **(2)** the authority of the Director to review all new and existing products or activities to determine that such products or activities are consistent with the statutory mission of an enterprise.
 
-(Pub. L. 102–550, title XIII, § 1321, as added Pub. L. 110–289, div. A, title I, § 1123, July 30, 2008, 122 Stat. 2689.)
+(Pub. L. 102–550, title XIII, § 1321, as added Pub. L. 110–289, div. A, title I, § 1123, July 30, 2008, 122 Stat. 2689.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4541, Pub. L. 102–550, title XIII, § 1321, Oct. 28, 1992, 106 Stat. 3952, related to the Secretary of Housing and Urban Development’s regulatory authority, prior to repeal by Pub. L. 110–289, div. A, title I, § 1121(2), July 30, 2008, 122 Stat. 2689.
+A prior section 4541, Pub. L. 102–550, title XIII, § 1321, Oct. 28, 1992, 106 Stat. 3952, related to the Secretary of Housing and Urban Development’s regulatory authority, prior to repeal by Pub. L. 110–289, div. A, title I, § 1121(2), July 30, 2008, 122 Stat. 2689.
 
-##### § 4542. Housing Price Index
+##### § 4542. Housing Price Index
 
 The Director shall establish and maintain a method of assessing the national average 1-family house price for use for adjusting the conforming loan limitations of the enterprises. In establishing such method, the Director shall take into consideration the monthly survey of all major lenders conducted by the Federal Housing Finance Agency to determine the national average 1-family house price, the House Price Index maintained by the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development before the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, any appropriate house price indexes of the Bureau of the Census of the Department of Commerce, and any other indexes or measures that the Director considers appropriate.
 
-(Pub. L. 102–550, title XIII, § 1322, as added Pub. L. 110–289, div. A, title I, § 1124(d), July 30, 2008, 122 Stat. 2693.)
+(Pub. L. 102–550, title XIII, § 1322, as added Pub. L. 110–289, div. A, title I, § 1124(d), July 30, 2008, 122 Stat. 2693.)
 
 **Editorial Notes**
 
@@ -1975,9 +1975,9 @@ The effective date of the Federal Housing Finance Regulatory Reform Act of 2008,
 
 **Prior Provisions**
 
-A prior section 4542, Pub. L. 102–550, title XIII, § 1322, Oct. 28, 1992, 106 Stat. 3953, related to the Secretary of Housing and Urban Development’s prior approval authority for new programs, prior to repeal by Pub. L. 110–289, div. A, title I, § 1121(2), July 30, 2008, 122 Stat. 2689.
+A prior section 4542, Pub. L. 102–550, title XIII, § 1322, Oct. 28, 1992, 106 Stat. 3953, related to the Secretary of Housing and Urban Development’s prior approval authority for new programs, prior to repeal by Pub. L. 110–289, div. A, title I, § 1121(2), July 30, 2008, 122 Stat. 2689.
 
-##### § 4543. Public access to mortgage information
+##### § 4543. Public access to mortgage information
 
 **(a) Availability**
 
@@ -2007,25 +2007,25 @@ The Director may charge reasonable fees to cover the cost of making data availab
 
 Data submitted under this section by an enterprise in connection with a provision referred to in subsection (a) shall be made publicly available in accordance with this section not later than September 30 of the year following the year to which the data relates.
 
-(Pub. L. 102–550, title XIII, § 1323, Oct. 28, 1992, 106 Stat. 3954; Pub. L. 110–289, div. A, title I, §§ 1122(a)(1), 1126, July 30, 2008, 122 Stat. 2689, 2695.)
+(Pub. L. 102–550, title XIII, § 1323, Oct. 28, 1992, 106 Stat. 3954; Pub. L. 110–289, div. A, title I, §§ 1122(a)(1), 1126, July 30, 2008, 122 Stat. 2689, 2695.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Home Mortgage Disclosure Act of 1975, referred to in subsec. (a)(2), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
+The Home Mortgage Disclosure Act of 1975, referred to in subsec. (a)(2), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1122(a)(1), substituted “Director” for “Secretary” wherever appearing in subsecs. (a) to (c).
+2008—Pub. L. 110–289, § 1122(a)(1), substituted “Director” for “Secretary” wherever appearing in subsecs. (a) to (c).
 
-Subsec. (a). Pub. L. 110–289, § 1126(1), substituted “Availability” for “In general” in subsec. heading, inserted par. (1) designation and heading, and added par. (2). The amendment was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language which did not take into consideration the prior amendment by Pub. L. 110–289, § 1122(a)(1). See above.
+Subsec. (a). Pub. L. 110–289, § 1126(1), substituted “Availability” for “In general” in subsec. heading, inserted par. (1) designation and heading, and added par. (2). The amendment was executed to reflect the probable intent of Congress, notwithstanding an error in the directory language which did not take into consideration the prior amendment by Pub. L. 110–289, § 1122(a)(1). See above.
 
-Subsec. (b)(2). Pub. L. 110–289, § 1126(2), inserted “or with subsection (a)(2)” before period at end.
+Subsec. (b)(2). Pub. L. 110–289, § 1126(2), inserted “or with subsection (a)(2)” before period at end.
 
-Subsec. (d). Pub. L. 110–289, § 1126(3), added subsec. (d).
+Subsec. (d). Pub. L. 110–289, § 1126(3), added subsec. (d).
 
-##### § 4544. Annual housing report
+##### § 4544. Annual housing report
 
 **(a) In general**
 
@@ -2103,15 +2103,15 @@ To assist the Director in analyzing the matters described in subsection (b), the
 
 For purposes of this subsection, the term “identifiable form” means any representation of information that permits the identity of a borrower to which the information relates to be reasonably inferred by either direct or indirect means.
 
-(Pub. L. 102–550, title XIII, § 1324, as added Pub. L. 110–289, div. A, title I, § 1125(b), July 30, 2008, 122 Stat. 2693.)
+(Pub. L. 102–550, title XIII, § 1324, as added Pub. L. 110–289, div. A, title I, § 1125(b), July 30, 2008, 122 Stat. 2693.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4544, Pub. L. 102–550, title XIII, § 1324, Oct. 28, 1992, 106 Stat. 3954, related to annual housing report, prior to repeal by Pub. L. 110–289, div. A, title I, § 1125(a), July 30, 2008, 122 Stat. 2693.
+A prior section 4544, Pub. L. 102–550, title XIII, § 1324, Oct. 28, 1992, 106 Stat. 3954, related to annual housing report, prior to repeal by Pub. L. 110–289, div. A, title I, § 1125(a), July 30, 2008, 122 Stat. 2693.
 
-##### § 4545. Fair housing
+##### § 4545. Fair housing
 
 The Secretary of Housing and Urban Development shall—
 
@@ -2127,21 +2127,21 @@ The Secretary of Housing and Urban Development shall—
 
 **(6)** periodically review and comment on the underwriting and appraisal guidelines of each enterprise to ensure that such guidelines are consistent with the Fair Housing Act and this section.
 
-(Pub. L. 102–550, title XIII, § 1325, Oct. 28, 1992, 106 Stat. 3955; Pub. L. 110–289, div. A, title I, § 1122(b), July 30, 2008, 122 Stat. 2689.)
+(Pub. L. 102–550, title XIII, § 1325, Oct. 28, 1992, 106 Stat. 3955; Pub. L. 110–289, div. A, title I, § 1122(b), July 30, 2008, 122 Stat. 2689.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Fair Housing Act, referred to in pars. (2) and (4) to (6), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in pars. (2) and (4) to (6), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
-The Equal Credit Opportunity Act, referred to in pars. (3) to (5), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Equal Credit Opportunity Act, referred to in pars. (3) to (5), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 **Amendments**
 
 2008—Pub. L. 110–289 inserted “of Housing and Urban Development” after “The Secretary” in introductory provisions.
 
-##### § 4546. Prohibition of public disclosure of proprietary information
+##### § 4546. Prohibition of public disclosure of proprietary information
 
 **(a) In general**
 
@@ -2161,23 +2161,23 @@ This section may not be construed to authorize the disclosure of information to,
 
 **(2)** information collected by the Director under section 4544(b)(6) of this title.
 
-(Pub. L. 102–550, title XIII, § 1326, Oct. 28, 1992, 106 Stat. 3955; Pub. L. 110–289, div. A, title I, §§ 1122(a)(1), 1127, July 30, 2008, 122 Stat. 2689, 2695.)
+(Pub. L. 102–550, title XIII, § 1326, Oct. 28, 1992, 106 Stat. 3955; Pub. L. 110–289, div. A, title I, §§ 1122(a)(1), 1127, July 30, 2008, 122 Stat. 2689, 2695.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Home Mortgage Disclosure Act of 1975, referred to in subsec. (d)(1), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
+The Home Mortgage Disclosure Act of 1975, referred to in subsec. (d)(1), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1122(a)(1), substituted “Director” for “Secretary” wherever appearing in subsecs. (a) and (b).
+2008—Pub. L. 110–289, § 1122(a)(1), substituted “Director” for “Secretary” wherever appearing in subsecs. (a) and (b).
 
-Subsec. (a). Pub. L. 110–289, § 1127(1), substituted “Subject to subsection (d), the Director” for “The Director”.
+Subsec. (a). Pub. L. 110–289, § 1127(1), substituted “Subject to subsection (d), the Director” for “The Director”.
 
-Subsec. (d). Pub. L. 110–289, § 1127(2), added subsec. (d).
+Subsec. (d). Pub. L. 110–289, § 1127(2), added subsec. (d).
 
-##### § 4547. Enterprise guarantee fees
+##### § 4547. Enterprise guarantee fees
 
 **(a) Definitions** For purposes of this section, the following definitions shall apply:
 
@@ -2205,9 +2205,9 @@ Subject to subsection (c), the Director shall require each enterprise to charge 
 
 **(B) Amount**
 
-The amount of the increase required under this section shall be determined by the Director to appropriately reflect the risk of loss, as well 1
+The amount of the increase required under this section shall be determined by the Director to appropriately reflect the risk of loss, as well 1
 
-<sup>1</sup>  So in original. Probably should be followed by “as”.
+<sup>1</sup> So in original. Probably should be followed by “as”.
 
 the cost of capital allocated to similar assets held by other fully private regulated financial institutions, but such amount shall be not less than an average increase of 10 basis points for each origination year or book year above the average fees imposed in 2011 for such guarantees. The Director shall prohibit an enterprise from offsetting the cost of the fee to mortgage originators, borrowers, and investors by decreasing other charges, fees, or premiums, or in any other manner.
 
@@ -2265,19 +2265,19 @@ Nothing in this subsection shall be interpreted as preventing the Director from 
 
 The provisions of this section shall expire on October 1, 2032.
 
-(Pub. L. 102–550, title XIII, § 1327, as added Pub. L. 112–78, title IV, § 401, Dec. 23, 2011, 125 Stat. 1287; Pub. L. 117–58, div. I, § 90005, Nov. 15, 2021, 135 Stat. 1346.)
+(Pub. L. 102–550, title XIII, § 1327, as added Pub. L. 112–78, title IV, § 401, Dec. 23, 2011, 125 Stat. 1287; Pub. L. 117–58, div. I, § 90005, Nov. 15, 2021, 135 Stat. 1346.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4547, Pub. L. 102–550, title XIII, § 1327, Oct. 28, 1992, 106 Stat. 3956; Pub. L. 110–289, div. A, title I, § 1122(a)(1), July 30, 2008, 122 Stat. 2689, related to authority to require reports by enterprises, prior to repeal by Pub. L. 110–289, div. A , title I, § 1104(b), July 30, 2008, 122 Stat. 2667.
+A prior section 4547, Pub. L. 102–550, title XIII, § 1327, Oct. 28, 1992, 106 Stat. 3956; Pub. L. 110–289, div. A, title I, § 1122(a)(1), July 30, 2008, 122 Stat. 2689, related to authority to require reports by enterprises, prior to repeal by Pub. L. 110–289, div. A , title I, § 1104(b), July 30, 2008, 122 Stat. 2667.
 
 **Amendments**
 
 2021—Subsec. (f). Pub. L. 117–58 substituted “2032” for “2021”.
 
-##### § 4548. Regulations for use of credit scores
+##### § 4548. Regulations for use of credit scores
 
 The Director shall—
 
@@ -2285,17 +2285,17 @@ The Director shall—
 
 **(2)** ensure that any credit scoring model that is validated and approved by an enterprise under section 1717(b)(7) of this title or section 1454(d) of this title meets the requirements of clauses (i), (ii), and (iii) of section 1717(b)(7)(C) of this title and subparagraphs (A), (B), and (C) of section 1454(d) of this title, respectively.
 
-(Pub. L. 102–550, title XIII, § 1328, as added Pub. L. 115–174, title III, § 310(c), May 24, 2018, 132 Stat. 1355.)
+(Pub. L. 102–550, title XIII, § 1328, as added Pub. L. 115–174, title III, § 310(c), May 24, 2018, 132 Stat. 1355.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4548, Pub. L. 102–550, title XIII, § 1328, Oct. 28, 1992, 106 Stat. 3956; Pub. L. 110–289, div. A, title I, § 1122(a)(1), July 30, 2008, 122 Stat. 2689, related to required annual reports, prior to repeal by Pub. L. 110–289, div. A , title I, § 1104(b), July 30, 2008, 122 Stat. 2667.
+A prior section 4548, Pub. L. 102–550, title XIII, § 1328, Oct. 28, 1992, 106 Stat. 3956; Pub. L. 110–289, div. A, title I, § 1122(a)(1), July 30, 2008, 122 Stat. 2689, related to required annual reports, prior to repeal by Pub. L. 110–289, div. A , title I, § 1104(b), July 30, 2008, 122 Stat. 2667.
 
 #### subpart 2—housing goals
 
-##### § 4561. Establishment of housing goals
+##### § 4561. Establishment of housing goals
 
 **(a) In general** The Director shall, by regulation, establish effective for 2010 and each year thereafter, annual housing goals, with respect to the mortgage purchases by the enterprises, as follows:
 
@@ -2323,7 +2323,7 @@ Upon request by the Director, an enterprise shall provide to the Director, in a 
 
 **(2) Remedial actions upon preliminary finding** Upon a preliminary finding by the Director that a pattern of disparities in interest rates with respect to any lender or lenders exists pursuant to the data provided by an enterprise in paragraph (1), the Director shall\_1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(A)** refer the preliminary finding to the appropriate regulatory or enforcement agency for further review; and
 
@@ -2337,15 +2337,15 @@ The Director shall submit to the Committee on Financial Services of the House of
 
 In carrying out this subsection, the Director shall ensure that no property-related or financial information that would enable a borrower to be identified shall be made public.
 
-(Pub. L. 102–550, title XIII, § 1331, as added Pub. L. 110–289, div. A, title I, § 1128(b), July 30, 2008, 122 Stat. 2696.)
+(Pub. L. 102–550, title XIII, § 1331, as added Pub. L. 110–289, div. A, title I, § 1128(b), July 30, 2008, 122 Stat. 2696.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4561, Pub. L. 102–550, title XIII, § 1331, Oct. 28, 1992, 106 Stat. 3956, related to establishment of housing goals, prior to repeal by Pub. L. 110–289, div. A, title I, § 1128(a), July 30, 2008, 122 Stat. 2696.
+A prior section 4561, Pub. L. 102–550, title XIII, § 1331, Oct. 28, 1992, 106 Stat. 3956, related to establishment of housing goals, prior to repeal by Pub. L. 110–289, div. A, title I, § 1128(a), July 30, 2008, 122 Stat. 2696.
 
-##### § 4562. Single-family housing goals
+##### § 4562. Single-family housing goals
 
 **(a) In general** The Director shall, by regulation, establish annual goals for the purchase by each enterprise of the following types of mortgages for the following categories of families:
 
@@ -2449,25 +2449,25 @@ Mortgages financing two- to four-unit owner-occupied properties shall count towa
 
 The Director shall determine whether an enterprise shall receive full, partial, or no credit for a transaction toward achievement of any of the housing goals established pursuant to section 4562 and 4563 of this title. In making any such determination, the Director shall consider whether a transaction or activity of an enterprise is substantially equivalent to a mortgage purchase and either (1) creates a new market, or (2) adds liquidity to an existing market. No credit toward the achievement of the housing goals and subgoals established under this section may be given to the purchase of mortgages, including any transaction or activity of an enterprise determined to be substantially equivalent to a mortgage purchase, that is determined to be unacceptable or contrary to good lending practices, inconsistent with safety and soundness, or unauthorized for purchase by the enterprises, pursuant to regulations issued by the Director.
 
-(Pub. L. 102–550, title XIII, § 1332, as added Pub. L. 110–289, div. A, title I, § 1128(b), July 30, 2008, 122 Stat. 2697.)
+(Pub. L. 102–550, title XIII, § 1332, as added Pub. L. 110–289, div. A, title I, § 1128(b), July 30, 2008, 122 Stat. 2697.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Home Mortgage Disclosure Act of 1975, referred to in subsec. (e)(2)(A), (4), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
+The Home Mortgage Disclosure Act of 1975, referred to in subsec. (e)(2)(A), (4), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 4562, Pub. L. 102–550, title XIII, § 1332, Oct. 28, 1992, 106 Stat. 3956, related to low- and moderate-income housing goal, prior to repeal by Pub. L. 110–289, div. A, title I, § 1128(a), July 30, 2008, 122 Stat. 2696.
+A prior section 4562, Pub. L. 102–550, title XIII, § 1332, Oct. 28, 1992, 106 Stat. 3956, related to low- and moderate-income housing goal, prior to repeal by Pub. L. 110–289, div. A, title I, § 1128(a), July 30, 2008, 122 Stat. 2696.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 102–550, title XIII, § 1338, Oct. 28, 1992, 106 Stat. 3964, which provided the effective date for housing goals established under former sections 4562(d), 4563(d), and 4564(d) of this title, was repealed by Pub. L. 110–289, div. A, title I, § 1122(a)(2), July 30, 2008, 122 Stat. 2689.
+Pub. L. 102–550, title XIII, § 1338, Oct. 28, 1992, 106 Stat. 3964, which provided the effective date for housing goals established under former sections 4562(d), 4563(d), and 4564(d) of this title, was repealed by Pub. L. 110–289, div. A, title I, § 1122(a)(2), July 30, 2008, 122 Stat. 2689.
 
-##### § 4563. Multifamily special affordable housing goal
+##### § 4563. Multifamily special affordable housing goal
 
 **(a) Establishment of goal**
 
@@ -2481,9 +2481,9 @@ When establishing the goal under this section, the Director shall establish addi
 
 **(3) Reporting on smaller properties**
 
-The Director shall require each enterprise to report on the purchase by each enterprise of multifamily housing of a smaller or limited size that is affordable to low-income families, which may be based on multifamily projects of 5 to 50 units (as such numbers may be adjusted by the Director) or on mortgages of up to $5,000,000 (as such amount may be adjusted by the Director), and may, by regulation, establish such aditional 1
+The Director shall require each enterprise to report on the purchase by each enterprise of multifamily housing of a smaller or limited size that is affordable to low-income families, which may be based on multifamily projects of 5 to 50 units (as such numbers may be adjusted by the Director) or on mortgages of up to $5,000,000 (as such amount may be adjusted by the Director), and may, by regulation, establish such aditional 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 requirements related to such units.
 
@@ -2515,15 +2515,15 @@ The Director shall monitor the performance of each enterprise in meeting the goa
 
 The Director shall determine, for each year that the housing goal under this section is in effect pursuant to section 4561(a) of this title, whether each enterprise has complied with such goal and the additional requirements under subsection (a)(2).
 
-(Pub. L. 102–550, title XIII, § 1333, as added Pub. L. 110–289, div. A, title I, § 1128(b), July 30, 2008, 122 Stat. 2700.)
+(Pub. L. 102–550, title XIII, § 1333, as added Pub. L. 110–289, div. A, title I, § 1128(b), July 30, 2008, 122 Stat. 2700.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 4563, Pub. L. 102–550, title XIII, § 1333, Oct. 28, 1992, 106 Stat. 3958, related to special affordable housing goal, prior to repeal by Pub. L. 110–289, div. A, title I, § 1128(a), July 30, 2008, 122 Stat. 2696.
+A prior section 4563, Pub. L. 102–550, title XIII, § 1333, Oct. 28, 1992, 106 Stat. 3958, related to special affordable housing goal, prior to repeal by Pub. L. 110–289, div. A, title I, § 1128(a), July 30, 2008, 122 Stat. 2696.
 
-##### § 4564. Discretionary adjustment of housing goals
+##### § 4564. Discretionary adjustment of housing goals
 
 **(a) Authority**
 
@@ -2539,7 +2539,7 @@ An enterprise may petition the Director in writing at any time during a year to 
 
 The Director shall, promptly upon receipt of a petition regarding a reduction, seek public comment on the reduction for a period of 30 days. The Director shall make a determination regarding any proposed reduction within 30 days after the expiration of such public comment period. The Director may extend such determination period for a single additional 15-day period, but only if the Director requests additional information from the enterprise.
 
-(Pub. L. 102–550, title XIII, § 1334, as added Pub. L. 110–289, div. A, title I, § 1128(b), July 30, 2008, 122 Stat. 2701.)
+(Pub. L. 102–550, title XIII, § 1334, as added Pub. L. 110–289, div. A, title I, § 1128(b), July 30, 2008, 122 Stat. 2701.)
 
 **Editorial Notes**
 
@@ -2549,13 +2549,13 @@ Section 301(b)(3) of the Federal Home Loan Mortgage Corporation Act, referred to
 
 **Prior Provisions**
 
-A prior section 4564, Pub. L. 102–550, title XIII, § 1334, Oct. 28, 1992, 106 Stat. 3960, related to central cities, rural areas, and other underserved areas housing goal, prior to repeal by Pub. L. 110–289, div. A, title I, § 1128(a), July 30, 2008, 122 Stat. 2696.
+A prior section 4564, Pub. L. 102–550, title XIII, § 1334, Oct. 28, 1992, 106 Stat. 3960, related to central cities, rural areas, and other underserved areas housing goal, prior to repeal by Pub. L. 110–289, div. A, title I, § 1128(a), July 30, 2008, 122 Stat. 2696.
 
-##### § 4565. Duty to serve underserved markets and other requirements
+##### § 4565. Duty to serve underserved markets and other requirements
 
 **(a) Duty to serve underserved markets**
 
-**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] Duty** To increase the liquidity of mortgage investments and improve the distribution of investment capital available for mortgage financing for underserved markets, each enterprise shall provide leadership to the market in developing loan products and flexible underwriting guidelines to facilitate a secondary market for mortgages for very low-, low-, and moderate-income families with respect to the following underserved markets:
+**(1) 1 [footnote: 1 So in original. No par. (2) has been enacted.] Duty** To increase the liquidity of mortgage investments and improve the distribution of investment capital available for mortgage financing for underserved markets, each enterprise shall provide leadership to the market in developing loan products and flexible underwriting guidelines to facilitate a secondary market for mortgages for very low-, low-, and moderate-income families with respect to the following underserved markets:
 
 **(A) Manufactured housing**
 
@@ -2563,7 +2563,7 @@ The enterprise shall develop loan products and flexible underwriting guidelines 
 
 **(B) Affordable housing preservation** The enterprise shall develop loan products and flexible underwriting guidelines to facilitate a secondary market to preserve housing affordable to very low-, low-, and moderate-income families, including housing projects subsidized under\_2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 **(i)** the project-based and tenant-based rental assistance programs under section 1437f of title 42;
 
@@ -2581,9 +2581,9 @@ The enterprise shall develop loan products and flexible underwriting guidelines 
 
 **(viii)** the low-income housing tax credit under section 42 of title 26; and
 
-**(ix)** comparable state 3
+**(ix)** comparable state 3
 
-<sup>3</sup>  So in original. Probably should be capitalized.
+<sup>3</sup> So in original. Probably should be capitalized.
 
 and local affordable housing programs.
 
@@ -2635,39 +2635,39 @@ In determining whether an enterprise has complied with the duty under subparagra
 
 In determining whether an enterprise has complied with the duty referred to in paragraph (1), the Director may not consider any affordable housing fund grant amounts used under section 4567 of this title for eligible activities under subsection (g) of such section.
 
-(Pub. L. 102–550, title XIII, § 1335, Oct. 28, 1992, 106 Stat. 3961; Pub. L. 105–65, title V, § 517(c), Oct. 27, 1997, 111 Stat. 1403; Pub. L. 110–289, div. A, title I, §§ 1128(c)(1), 1129(a), July 30, 2008, 122 Stat. 2701, 2703.)
+(Pub. L. 102–550, title XIII, § 1335, Oct. 28, 1992, 106 Stat. 3961; Pub. L. 105–65, title V, § 517(c), Oct. 27, 1997, 111 Stat. 1403; Pub. L. 110–289, div. A, title I, §§ 1128(c)(1), 1129(a), July 30, 2008, 122 Stat. 2701, 2703.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1)(B)(vi), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§ 11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1)(B)(vi), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§ 11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
-The Community Reinvestment Act of 1977, referred to in subsec. (b)(3)(B), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Community Reinvestment Act of 1977, referred to in subsec. (b)(3)(B), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1129(a)(1), inserted “Duty to serve underserved markets and” before “other” in section catchline.
+2008—Pub. L. 110–289, § 1129(a)(1), inserted “Duty to serve underserved markets and” before “other” in section catchline.
 
-Subsec. (a). Pub. L. 110–289, § 1129(a)(4), added subsec. (a). Former subsec. (a) redesignated (b).
+Subsec. (a). Pub. L. 110–289, § 1129(a)(4), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Pub. L. 110–289, § 1129(a)(3)(A)–(D), inserted “and to carry out the duty under subsection (a) of this section” before “, each enterprise shall” in introductory provisions and struck out par. (5) which read as follows: “assist in maintaining the affordability of assisted units in eligible multifamily housing projects with expiring contracts, as defined under the Multifamily Assisted Housing Reform and Affordability Act of 1997.”
+Pub. L. 110–289, § 1129(a)(3)(A)–(D), inserted “and to carry out the duty under subsection (a) of this section” before “, each enterprise shall” in introductory provisions and struck out par. (5) which read as follows: “assist in maintaining the affordability of assisted units in eligible multifamily housing projects with expiring contracts, as defined under the Multifamily Assisted Housing Reform and Affordability Act of 1997.”
 
-Pub. L. 110–289, § 1128(c)(1), substituted “housing goals established under this subpart” for “low- and moderate-income housing goal under section 4562 of this title, the special affordable housing goal under section 4563 of this title, and the central cities, rural areas, and other underserved areas housing goal under section 4564 of this title” in introductory provisions.
+Pub. L. 110–289, § 1128(c)(1), substituted “housing goals established under this subpart” for “low- and moderate-income housing goal under section 4562 of this title, the special affordable housing goal under section 4563 of this title, and the central cities, rural areas, and other underserved areas housing goal under section 4564 of this title” in introductory provisions.
 
-Subsec. (b). Pub. L. 110–289, § 1129(a)(3)(E), redesignated subsec. (a) as (b).
+Subsec. (b). Pub. L. 110–289, § 1129(a)(3)(E), redesignated subsec. (a) as (b).
 
-Pub. L. 110–289, § 1129(a)(2), struck out subsec. (b). Text read as follows: “Actions taken under subsection (a)(5) of this section shall constitute part of the contribution of each entity in meeting its affordable housing goals under sections 4562, 4563, and 4564 of this title for any fiscal year, as determined by the Secretary.”
+Pub. L. 110–289, § 1129(a)(2), struck out subsec. (b). Text read as follows: “Actions taken under subsection (a)(5) of this section shall constitute part of the contribution of each entity in meeting its affordable housing goals under sections 4562, 4563, and 4564 of this title for any fiscal year, as determined by the Secretary.”
 
-Subsecs. (c), (d). Pub. L. 110–289, § 1129(a)(5), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 110–289, § 1129(a)(5), added subsecs. (c) and (d).
 
-1997—Subsec. (a). Pub. L. 105–65, § 517(c)(3), designated existing provisions as subsec. (a) and inserted heading.
+1997—Subsec. (a). Pub. L. 105–65, § 517(c)(3), designated existing provisions as subsec. (a) and inserted heading.
 
-Subsec. (a)(5). Pub. L. 105–65, § 517(c)(1), (2), (4), added par. (5).
+Subsec. (a)(5). Pub. L. 105–65, § 517(c)(1), (2), (4), added par. (5).
 
-Subsec. (b). Pub. L. 105–65, § 517(c)(4), added subsec. (b).
+Subsec. (b). Pub. L. 105–65, § 517(c)(4), added subsec. (b).
 
-##### § 4566. Monitoring and enforcing compliance with housing goals
+##### § 4566. Monitoring and enforcing compliance with housing goals
 
 **(a) In general**
 
@@ -2773,7 +2773,7 @@ If the initial housing plan submitted by an enterprise under this section is dis
 
 Solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, if the Director requires an enterprise to submit a housing plan under this subsection and the enterprise refuses to submit such a plan, submits an unacceptable plan, or fails to comply with the plan, the Director may issue a cease and desist order in accordance with section 4581 of this title, impose civil money penalties in accordance with section 4585 of this title, exercise other appropriate enforcement authority or seek other appropriate actions.
 
-(Pub. L. 102–550, title XIII, § 1336, Oct. 28, 1992, 106 Stat. 3962; Pub. L. 110–289, div. A, title I, §§ 1122(a)(1), 1128(c)(2), 1129(b), (c), 1130(a), July 30, 2008, 122 Stat. 2689, 2702, 2705, 2706.)
+(Pub. L. 102–550, title XIII, § 1336, Oct. 28, 1992, 106 Stat. 3962; Pub. L. 110–289, div. A, title I, §§ 1122(a)(1), 1128(c)(2), 1129(b), (c), 1130(a), July 30, 2008, 122 Stat. 2689, 2702, 2705, 2706.)
 
 **Editorial Notes**
 
@@ -2781,27 +2781,27 @@ Solely with respect to the housing goals established under sections 4562(a) and 
 
 This chapter, referred to in subsecs. (a)(4) and (c)(4), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-The Federal National Mortgage Association Charter Act, referred to in subsecs. (a)(4) and (c)(4), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
+The Federal National Mortgage Association Charter Act, referred to in subsecs. (a)(4) and (c)(4), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 
-The Federal Home Loan Mortgage Corporation Act, referred to in subsecs. (a)(4) and (c)(4), is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
+The Federal Home Loan Mortgage Corporation Act, referred to in subsecs. (a)(4) and (c)(4), is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1122(a)(1), substituted “Director” for “Secretary” wherever appearing in pars. (1) to (3).
+2008—Subsec. (a). Pub. L. 110–289, § 1122(a)(1), substituted “Director” for “Secretary” wherever appearing in pars. (1) to (3).
 
-Subsec. (a)(1). Pub. L. 110–289, § 1129(b)(1), inserted “and with the duty under section 4565(a) of this title of each enterprise with respect to underserved markets,” before “as provided in this section”.
+Subsec. (a)(1). Pub. L. 110–289, § 1129(b)(1), inserted “and with the duty under section 4565(a) of this title of each enterprise with respect to underserved markets,” before “as provided in this section”.
 
-Pub. L. 110–289, § 1128(c)(2), substituted “this subpart” for “sections 4562, 4563, and 4564 of this title,”.
+Pub. L. 110–289, § 1128(c)(2), substituted “this subpart” for “sections 4562, 4563, and 4564 of this title,”.
 
-Subsec. (a)(2). Pub. L. 110–289, § 1129(c)(1), inserted “, except as provided in paragraph (5),” before “may assign”.
+Subsec. (a)(2). Pub. L. 110–289, § 1129(c)(1), inserted “, except as provided in paragraph (5),” before “may assign”.
 
-Subsec. (a)(4). Pub. L. 110–289, § 1129(b)(2), added par. (4).
+Subsec. (a)(4). Pub. L. 110–289, § 1129(b)(2), added par. (4).
 
-Subsec. (a)(5). Pub. L. 110–289, § 1129(c)(2), added par. (5).
+Subsec. (a)(5). Pub. L. 110–289, § 1129(c)(2), added par. (5).
 
-Subsecs. (b), (c). Pub. L. 110–289, § 1130(a), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to notice and determination of failure to meet housing goals and submission of housing plans, respectively.
+Subsecs. (b), (c). Pub. L. 110–289, § 1130(a), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to notice and determination of failure to meet housing goals and submission of housing plans, respectively.
 
-##### § 4567. Affordable housing allocations
+##### § 4567. Affordable housing allocations
 
 **(a) Set aside and allocation of amounts by enterprises** Subject to subsection (b), in each fiscal year—
 
@@ -2849,7 +2849,7 @@ Of the aggregate amount allocated under subsection (a), 25 percent shall be depo
 
 No funds under this chapter may be used in conjunction with property taken by eminent domain, unless eminent domain is employed only for a public use, except that, for purposes of this section, public use shall not be construed to include economic development that primarily benefits any private entity.
 
-(Pub. L. 102–550, title XIII, § 1337, as added Pub. L. 110–289, div. A, title I, § 1131(b), July 30, 2008, 122 Stat. 2711.)
+(Pub. L. 102–550, title XIII, § 1337, as added Pub. L. 110–289, div. A, title I, § 1131(b), July 30, 2008, 122 Stat. 2711.)
 
 **Editorial Notes**
 
@@ -2859,9 +2859,9 @@ This chapter, referred to in subsec. (f), was in the original “this title”, 
 
 **Prior Provisions**
 
-A prior section 4567, Pub. L. 102–550, title XIII, § 1337, Oct. 28, 1992, 106 Stat. 3964, related to reports during transition, prior to repeal by Pub. L. 110–289, div. A, title I, § 1131(a), July 30, 2008, 122 Stat. 2711.
+A prior section 4567, Pub. L. 102–550, title XIII, § 1337, Oct. 28, 1992, 106 Stat. 3964, related to reports during transition, prior to repeal by Pub. L. 110–289, div. A, title I, § 1131(a), July 30, 2008, 122 Stat. 2711.
 
-##### § 4568. Housing Trust Fund
+##### § 4568. Housing Trust Fund
 
 **(a) Establishment and purpose**
 
@@ -2921,7 +2921,7 @@ The Secretary shall, by regulation, establish a formula within 12 months of July
 
 **(v)** The resulting sum calculated from the factors described in clauses (i) through (iv) shall be multiplied by the relative cost of construction in the State. For purposes of this subclause,1
 
-<sup>1</sup>  So in original. Probably should be “this clause,”.
+<sup>1</sup> So in original. Probably should be “this clause,”.
 
 the term “cost of construction”—
 
@@ -2937,9 +2937,9 @@ The formula required under subparagraph (A) shall give priority emphasis and con
 
 **(A) Notice**
 
-Not later than 60 days after the date that the Secretary determines the formula amounts described in paragraph (3), the Secretary shall caused 2
+Not later than 60 days after the date that the Secretary determines the formula amounts described in paragraph (3), the Secretary shall caused 2
 
-<sup>2</sup>  So in original. Probably should be “cause”.
+<sup>2</sup> So in original. Probably should be “cause”.
 
 to be published in the Federal Register a notice that such amounts shall be so available.
 
@@ -3005,7 +3005,7 @@ If the formula amount determined under paragraph (3) for a fiscal year would all
 
 **(iv)** is made available for purchase only by, or in the case of assistance under this subsection, is made available only to homebuyers who have, before purchase completed a program of independent financial education and counseling from an eligible organization that meets the requirements of section 132 of the Federal Housing Finance Regulatory Reform Act of 2008.3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 **(8) Tenant protections and public participation** All amounts from the Trust Fund shall be allocated in accordance with, and any eligible activities carried out in whole or in part with grant amounts under this subchapter (including housing provided with such grant amounts) shall comply with and be operated in compliance with—
 
@@ -3119,9 +3119,9 @@ If any recipient of assistance under this section is determined, in accordance w
 
 **(I)** describes the activities funded under this section during such year with such grant amounts; and
 
-**(II)** the 4
+**(II)** the 4
 
-<sup>4</sup>  So in original. A word appears to be missing before “the”.
+<sup>4</sup> So in original. A word appears to be missing before “the”.
 
 manner in which the State or State designated entity complied during such year with any allocation plan established pursuant to subsection (c).
 
@@ -3221,7 +3221,7 @@ If, after July 30, 2008, in any year, there is enacted any provision of Federal 
 
 Any grant under this section to a grantee by a State or State designated entity, any assistance provided to a recipient by a State or State designated entity, and any grant, award, or other assistance from an affordable housing trust fund referred to in subsection (h) shall be considered a Federal award for purposes of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note). Upon the request of the Director of the Office of Management and Budget, the Secretary shall obtain and provide such information regarding any such grants, assistance, and awards as the Director of the Office of Management and Budget considers necessary to comply with the requirements of such Act, as applicable, pursuant to the preceding sentence.
 
-(Pub. L. 102–550, title XIII, § 1338, as added Pub. L. 110–289, div. A, title I, § 1131(b), July 30, 2008, 122 Stat. 2712.)
+(Pub. L. 102–550, title XIII, § 1338, as added Pub. L. 110–289, div. A, title I, § 1131(b), July 30, 2008, 122 Stat. 2712.)
 
 **Editorial Notes**
 
@@ -3229,7 +3229,7 @@ Any grant under this section to a grantee by a State or State designated entity,
 
 Section 4103 of title 25, referred to in subsec. (c)(2), was in the original “section 4 of the Native American Housing Assistance and Self-Determination Act of 1997 (25 U.S.C. 4103)”, and was translated as meaning section 4 of the Native American Housing Assistance and Self-Determination Act of 1996, to reflect the probable intent of Congress.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(7)(B)(i)(II), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(7)(B)(i)(II), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
 Section 132 of the Federal Housing Finance Regulatory Reform Act of 2008, referred to in subsec. (c)(7)(B)(iv), probably means section 1132 of Pub. L. 110–289, which is set out as a note under section 1701x of this title.
 
@@ -3239,9 +3239,9 @@ The Federal Funding Accountability and Transparency Act of 2006, referred to in 
 
 **Prior Provisions**
 
-A prior section 1338 of Pub. L. 102–550, title XIII, Oct. 28, 1992, 106 Stat. 3964, was set out as a note under section 4562 of this title, prior to repeal by Pub. L. 110–289, div. A, title I, § 1122(a)(2), July 30, 2008, 122 Stat. 2689.
+A prior section 1338 of Pub. L. 102–550, title XIII, Oct. 28, 1992, 106 Stat. 3964, was set out as a note under section 4562 of this title, prior to repeal by Pub. L. 110–289, div. A, title I, § 1122(a)(2), July 30, 2008, 122 Stat. 2689.
 
-##### § 4569. Capital Magnet Fund
+##### § 4569. Capital Magnet Fund
 
 **(a) Establishment**
 
@@ -3409,17 +3409,17 @@ The Secretary of the Treasury shall issue regulations to carry out this section.
 
 **(III)** ability to obligate amounts and undertake activities so funded in a timely manner.
 
-(Pub. L. 102–550, title XIII, § 1339, as added Pub. L. 110–289, div. A, title I, § 1131(b), July 30, 2008, 122 Stat. 2723.)
+(Pub. L. 102–550, title XIII, § 1339, as added Pub. L. 110–289, div. A, title I, § 1131(b), July 30, 2008, 122 Stat. 2723.)
 
 #### subpart 3—enforcement
 
-##### § 4581. Cease and desist proceedings
+##### § 4581. Cease and desist proceedings
 
 **(a) Grounds for issuance** The Director may issue and serve a notice of charges under this section upon an enterprise if the Director determines that—
 
-**(1)** the enterprise has failed to submit a report under section 4547 1
+**(1)** the enterprise has failed to submit a report under section 4547 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, following a notice of such failure, an opportunity for comment by the enterprise, and a final determination by the Director;
 
@@ -3437,7 +3437,7 @@ Each notice of charges issued under this section shall contain a statement of th
 
 **(2) Issuance of order** If the Director finds on the record made at a hearing described in paragraph (1) that any conduct specified in the notice of charges has been established (or the enterprise consents pursuant to section 4582(a)(4) of this title), the Director may issue and serve upon the enterprise an order requiring the enterprise to—
 
-**(A)** submit a report under section 4547 <sup>1</sup> of this title;
+**(A)** submit a report under section 4547 <sup>1</sup> of this title;
 
 **(B)** solely with respect to the housing goals established under sections 4562(a) and 4563(a)(1) of this title, submit a housing plan in compliance with section 4566(c) of this title;
 
@@ -3449,19 +3449,19 @@ Each notice of charges issued under this section shall contain a statement of th
 
 An order under this section shall become effective upon the expiration of the 30-day period beginning on the date of service of the order upon the enterprise (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subpart.
 
-(Pub. L. 102–550, title XIII, § 1341, as added Pub. L. 110–289, div. A, title I, § 1130(c)(2), July 30, 2008, 122 Stat. 2708.)
+(Pub. L. 102–550, title XIII, § 1341, as added Pub. L. 110–289, div. A, title I, § 1130(c)(2), July 30, 2008, 122 Stat. 2708.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4547 of this title, referred to in subsecs. (a)(1) and (b)(2)(A), was repealed by Pub. L. 110–289, div. A, title I, § 1104(b), July 30, 2008, 122 Stat. 2667.
+Section 4547 of this title, referred to in subsecs. (a)(1) and (b)(2)(A), was repealed by Pub. L. 110–289, div. A, title I, § 1104(b), July 30, 2008, 122 Stat. 2667.
 
 **Prior Provisions**
 
-A prior section 4581, Pub. L. 102–550, title XIII, § 1341, Oct. 28, 1992, 106 Stat. 3964, related to cease-and-desist proceedings, prior to repeal by Pub. L. 110–289, div. A, title I, § 1130(c)(1), July 30, 2008, 122 Stat. 2708.
+A prior section 4581, Pub. L. 102–550, title XIII, § 1341, Oct. 28, 1992, 106 Stat. 3964, related to cease-and-desist proceedings, prior to repeal by Pub. L. 110–289, div. A, title I, § 1130(c)(1), July 30, 2008, 122 Stat. 2708.
 
-##### § 4582. Hearings
+##### § 4582. Hearings
 
 **(a) Requirements**
 
@@ -3491,7 +3491,7 @@ After any such hearing, and within 90 days after the enterprise has been notifie
 
 Judicial review of any such order shall be exclusively as provided in section 4583 of this title. Unless such a petition for review is timely filed as provided in section 4583 of this title, and thereafter until the record in the proceeding has been filed as so provided, the Director may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Director considers proper. Upon such filing of the record, the Director may modify, terminate, or set aside any such order with permission of the court.
 
-(Pub. L. 102–550, title XIII, § 1342, Oct. 28, 1992, 106 Stat. 3965; Pub. L. 110–289, div. A, title I, § 1130(e)(3)(A), July 30, 2008, 122 Stat. 2711.)
+(Pub. L. 102–550, title XIII, § 1342, Oct. 28, 1992, 106 Stat. 3965; Pub. L. 110–289, div. A, title I, § 1130(e)(3)(A), July 30, 2008, 122 Stat. 2711.)
 
 **Editorial Notes**
 
@@ -3499,7 +3499,7 @@ Judicial review of any such order shall be exclusively as provided in section 45
 
 2008—Subsec. (b). Pub. L. 110–289 substituted “Director” for “Secretary” wherever appearing.
 
-##### § 4583. Judicial review
+##### § 4583. Judicial review
 
 **(a) Commencement**
 
@@ -3525,7 +3525,7 @@ Such court shall have the authority in any such review to order payment of any p
 
 The commencement of proceedings for judicial review under this section shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Director.
 
-(Pub. L. 102–550, title XIII, § 1343, Oct. 28, 1992, 106 Stat. 3966; Pub. L. 110–289, div. A, title I, § 1130(e)(3)(B), July 30, 2008, 122 Stat. 2711.)
+(Pub. L. 102–550, title XIII, § 1343, Oct. 28, 1992, 106 Stat. 3966; Pub. L. 110–289, div. A, title I, § 1130(e)(3)(B), July 30, 2008, 122 Stat. 2711.)
 
 **Editorial Notes**
 
@@ -3533,7 +3533,7 @@ The commencement of proceedings for judicial review under this section shall not
 
 2008—Pub. L. 110–289 substituted “Director” for “Secretary” wherever appearing.
 
-##### § 4584. Enforcement and jurisdiction
+##### § 4584. Enforcement and jurisdiction
 
 **(a) Enforcement**
 
@@ -3543,7 +3543,7 @@ The Director may bring a civil action in the United States District Court for th
 
 Except as otherwise provided in this subpart, no court shall have jurisdiction to affect, by injunction or otherwise, the issuance or enforcement of any notice or order under section 4581 or 4585 of this title, or to review, modify, suspend, terminate, or set aside any such notice or order.
 
-(Pub. L. 102–550, title XIII, § 1344, Oct. 28, 1992, 106 Stat. 3966; Pub. L. 110–289, div. A, title I, § 1130(e)(1), July 30, 2008, 122 Stat. 2711.)
+(Pub. L. 102–550, title XIII, § 1344, Oct. 28, 1992, 106 Stat. 3966; Pub. L. 110–289, div. A, title I, § 1130(e)(1), July 30, 2008, 122 Stat. 2711.)
 
 **Editorial Notes**
 
@@ -3551,13 +3551,13 @@ Except as otherwise provided in this subpart, no court shall have jurisdiction t
 
 2008—Subsec. (a). Pub. L. 110–289, which directed substitution of “The Director may bring a civil action” for “The Secretary may request the Attorney General of the United States to bring a civil action”, was executed by making the substitution for “The Secretary may request the Attorney General of the United States to bring an action” to reflect the probable intent of Congress.
 
-##### § 4585. Civil money penalties
+##### § 4585. Civil money penalties
 
 **(a) Authority** The Director may impose a civil money penalty, in accordance with the provisions of this section, on any enterprise that has failed to—
 
-**(1)** submit a report under section 4547 1
+**(1)** submit a report under section 4547 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, following a notice of such failure, an opportunity for comment by the enterprise, and a final determination by the Director;
 
@@ -3613,25 +3613,25 @@ The Director may compromise, modify, or remit any civil money penalty which may 
 
 The Director shall use any civil money penalties collected under this section to help fund the Housing Trust Fund established under section 4568 of this title.
 
-(Pub. L. 102–550, title XIII, § 1345, as added Pub. L. 110–289, div. A, title I, § 1130(d)(2), July 30, 2008, 122 Stat. 2709.)
+(Pub. L. 102–550, title XIII, § 1345, as added Pub. L. 110–289, div. A, title I, § 1130(d)(2), July 30, 2008, 122 Stat. 2709.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4547 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 110–289, div. A, title I, § 1104(b), July 30, 2008, 122 Stat. 2667.
+Section 4547 of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 110–289, div. A, title I, § 1104(b), July 30, 2008, 122 Stat. 2667.
 
 **Prior Provisions**
 
-A prior section 4585, Pub. L. 102–550, title XIII, § 1345, Oct. 28, 1992, 106 Stat. 3966, related to civil money penalties, prior to repeal by Pub. L. 110–289, div. A, title I, § 1130(d)(1), July 30, 2008, 122 Stat. 2709.
+A prior section 4585, Pub. L. 102–550, title XIII, § 1345, Oct. 28, 1992, 106 Stat. 3966, related to civil money penalties, prior to repeal by Pub. L. 110–289, div. A, title I, § 1130(d)(1), July 30, 2008, 122 Stat. 2709.
 
-##### § 4586. Public disclosure of final orders and agreements
+##### § 4586. Public disclosure of final orders and agreements
 
 **(a) In general** The Director shall make available to the public—
 
-**(1)** any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, in the Secretary’s 1
+**(1)** any written agreement or other written statement for which a violation may be redressed by the Director or any modification to or termination thereof, unless the Director, in the Secretary’s 1
 
-<sup>1</sup>  So in original. Probably should be “Director’s”.
+<sup>1</sup> So in original. Probably should be “Director’s”.
 
 discretion, determines that public disclosure would be contrary to the public interest or determines under subsection (c) that public disclosure would seriously threaten the financial health or security of the enterprise;
 
@@ -3641,7 +3641,7 @@ discretion, determines that public disclosure would be contrary to the public in
 
 **(b) Hearings**
 
-All hearings with respect to any notice of charges issued by the Director shall be open to the public, unless the Director, in the Secretary’s <sup>1</sup> discretion, determines that holding an open hearing would be contrary to the public interest.
+All hearings with respect to any notice of charges issued by the Director shall be open to the public, unless the Director, in the Secretary’s <sup>1</sup> discretion, determines that holding an open hearing would be contrary to the public interest.
 
 **(c) Delay of public disclosure under exceptional circumstances**
 
@@ -3659,7 +3659,7 @@ The Director shall keep and maintain a record, for not less than 6 years, of all
 
 This section may not be construed to authorize the withholding, or to prohibit the disclosure, of any information to the Congress or any committee or subcommittee thereof.
 
-(Pub. L. 102–550, title XIII, § 1346, Oct. 28, 1992, 106 Stat. 3968; Pub. L. 110–289, div. A, title I, § 1130(e)(3)(C), July 30, 2008, 122 Stat. 2711.)
+(Pub. L. 102–550, title XIII, § 1346, Oct. 28, 1992, 106 Stat. 3968; Pub. L. 110–289, div. A, title I, § 1130(e)(3)(C), July 30, 2008, 122 Stat. 2711.)
 
 **Editorial Notes**
 
@@ -3667,11 +3667,11 @@ This section may not be construed to authorize the withholding, or to prohibit t
 
 2008—Subsecs. (a) to (e). Pub. L. 110–289 substituted “Director” for “Secretary” wherever appearing.
 
-##### § 4587. Notice of service
+##### § 4587. Notice of service
 
 Any service required or authorized to be made by the Director under this subpart may be made by registered mail or in such other manner reasonably calculated to give actual notice, as the Director may by regulation or otherwise provide.
 
-(Pub. L. 102–550, title XIII, § 1347, Oct. 28, 1992, 106 Stat. 3968; Pub. L. 110–289, div. A, title I, § 1130(e)(3)(D), July 30, 2008, 122 Stat. 2711.)
+(Pub. L. 102–550, title XIII, § 1347, Oct. 28, 1992, 106 Stat. 3968; Pub. L. 110–289, div. A, title I, § 1130(e)(3)(D), July 30, 2008, 122 Stat. 2711.)
 
 **Editorial Notes**
 
@@ -3679,7 +3679,7 @@ Any service required or authorized to be made by the Director under this subpart
 
 2008—Pub. L. 110–289 substituted “Director” for “Secretary” in two places in text.
 
-##### § 4588. Subpoena authority
+##### § 4588. Subpoena authority
 
 **(a) In general** In the course of or in connection with any administrative proceeding under this subpart, the Director shall have the authority—
 
@@ -3703,25 +3703,25 @@ The Director may bring an action or may request the Attorney General of the Unit
 
 Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. Any court having jurisdiction of any proceeding instituted under this section by an enterprise may allow to any such party such reasonable expenses and attorneys fees as the court deems just and proper. Such expenses and fees shall be paid by the enterprise or from its assets.
 
-(Pub. L. 102–550, title XIII, § 1348, Oct. 28, 1992, 106 Stat. 3968; Pub. L. 110–289, div. A, title I, § 1130(e)(2), (3)(E), July 30, 2008, 122 Stat. 2711.)
+(Pub. L. 102–550, title XIII, § 1348, Oct. 28, 1992, 106 Stat. 3968; Pub. L. 110–289, div. A, title I, § 1130(e)(2), (3)(E), July 30, 2008, 122 Stat. 2711.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1130(e)(3)(E), substituted “Director” for “Secretary” in introductory provisions and in par. (4).
+2008—Subsec. (a). Pub. L. 110–289, § 1130(e)(3)(E), substituted “Director” for “Secretary” in introductory provisions and in par. (4).
 
-Subsec. (c). Pub. L. 110–289, § 1130(e)(3)(E), substituted “Director” for “Secretary”.
+Subsec. (c). Pub. L. 110–289, § 1130(e)(3)(E), substituted “Director” for “Secretary”.
 
-Pub. L. 110–289, § 1130(e)(2), inserted “may bring an action or” before “may request”.
+Pub. L. 110–289, § 1130(e)(2), inserted “may bring an action or” before “may request”.
 
-##### § 4589. Repealed. Pub. L. 110–289, div. A, title I, § 1122(a)(2), July 30, 2008, 122 Stat. 2689
+##### § 4589. Repealed. Pub. L. 110–289, div. A, title I, § 1122(a)(2), July 30, 2008, 122 Stat. 2689
 
-Section, Pub. L. 102–550, title XIII, § 1349, Oct. 28, 1992, 106 Stat. 3969, related to issuance by Secretary of final regulations to implement this part.
+Section, Pub. L. 102–550, title XIII, § 1349, Oct. 28, 1992, 106 Stat. 3969, related to issuance by Secretary of final regulations to implement this part.
 
 ### Part C—Miscellaneous Provisions
 
-#### § 4601. Review of underwriting guidelines
+#### § 4601. Review of underwriting guidelines
 
 **(a) Study** Each of the enterprises shall conduct a study to review the underwriting guidelines of the enterprise. The studies shall examine—
 
@@ -3741,7 +3741,7 @@ Section, Pub. L. 102–550, title XIII, § 1349, Oct. 28, 1992, 106 Stat. 3969
 
 Not later than the expiration of the 1-year period beginning on October 28, 1992, each enterprise shall submit to the Secretary, the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Banking, Housing, and Urban Affairs of the Senate a report regarding the study conducted by the enterprise under subsection (a). Each report shall include any recommendations of the enterprise for better meeting the housing needs of low- and moderate-income families.
 
-(Pub. L. 102–550, title XIII, § 1354, Oct. 28, 1992, 106 Stat. 3970.)
+(Pub. L. 102–550, title XIII, § 1354, Oct. 28, 1992, 106 Stat. 3970.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3749,7 +3749,7 @@ Not later than the expiration of the 1-year period beginning on October 28, 1992
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-#### § 4602. Studies of effects of privatization of FNMA and FHLMC
+#### § 4602. Studies of effects of privatization of FNMA and FHLMC
 
 **(a) In general**
 
@@ -3785,7 +3785,7 @@ In conducting the studies under this section, the Comptroller General, the Secre
 
 The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation may each report directly to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on its own analysis of the desirability and feasibility of repealing the Federal charters of the enterprises, eliminating any Federal sponsorship, and allowing the enterprises to continue to operate as fully private entities.
 
-(Pub. L. 102–550, title XIII, § 1355, Oct. 28, 1992, 106 Stat. 3970.)
+(Pub. L. 102–550, title XIII, § 1355, Oct. 28, 1992, 106 Stat. 3970.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3793,23 +3793,23 @@ The Federal National Mortgage Association and the Federal Home Loan Mortgage Cor
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-#### § 4603. Transition
+#### § 4603. Transition
 
 Before the expiration of the period ending 18 months after the appointment of the Director under section 4512 of this title, any rules and regulations promulgated before October 28, 1992, by the Secretary pursuant to the Federal National Mortgage Association Charter Act [12 U.S.C. 1716 et seq.] or the Federal Home Loan Mortgage Corporation Act [12 U.S.C. 1451 et seq.] shall remain in effect unless modified, terminated, superseded, or revoked by operation of law or in accordance with law. Such rules and regulations shall terminate, effective upon the expiration of such period.
 
-(Pub. L. 102–550, title XIII, § 1356, Oct. 28, 1992, 106 Stat. 3971.)
+(Pub. L. 102–550, title XIII, § 1356, Oct. 28, 1992, 106 Stat. 3971.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal National Mortgage Association Charter Act, referred to in text, is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
+The Federal National Mortgage Association Charter Act, referred to in text, is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 
-The Federal Home Loan Mortgage Corporation Act, referred to in text, is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
+The Federal Home Loan Mortgage Corporation Act, referred to in text, is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
 
 ## SUBCHAPTER II—REQUIRED CAPITAL LEVELS FOR REGULATED ENTITIES, SPECIAL ENFORCEMENT POWERS, AND REVIEWS OF ASSETS AND LIABILITIES
 
-### § 4611. Risk-based capital levels for regulated entities
+### § 4611. Risk-based capital levels for regulated entities
 
 **(a) In general**
 
@@ -3825,7 +3825,7 @@ The Director shall establish risk-based capital standards under section 1426 of 
 
 Nothing in this section shall limit the authority of the Director to require other reports or undertakings, or take other action, in furtherance of the responsibilities of the Director under this Act.
 
-(Pub. L. 102–550, title XIII, § 1361, Oct. 28, 1992, 106 Stat. 3972; Pub. L. 110–289, div. A, title I, § 1110(a), July 30, 2008, 122 Stat. 2675.)
+(Pub. L. 102–550, title XIII, § 1361, Oct. 28, 1992, 106 Stat. 3972; Pub. L. 110–289, div. A, title I, § 1110(a), July 30, 2008, 122 Stat. 2675.)
 
 **Editorial Notes**
 
@@ -3837,7 +3837,7 @@ This Act, referred to in subsec. (b), is Pub. L. 102–550, Oct. 28, 1992, 106 S
 
 2008—Pub. L. 110–289 amended section generally. Prior to amendment, section related to risk-based capital levels for enterprises.
 
-### § 4612. Minimum capital levels
+### § 4612. Minimum capital levels
 
 **(a) Enterprises** For purposes of this subchapter, the minimum capital level for each enterprise shall be the sum of—
 
@@ -3881,17 +3881,17 @@ The Director may, at any time by order or regulation, establish such capital or 
 
 The Director shall periodically review the amount of core capital maintained by the enterprises, the amount of capital retained by the Federal Home Loan Banks, and the minimum capital levels established for such regulated entities pursuant to this section.
 
-(Pub. L. 102–550, title XIII, § 1362, Oct. 28, 1992, 106 Stat. 3975; Pub. L. 110–289, div. A, title I, § 1111, July 30, 2008, 122 Stat. 2676.)
+(Pub. L. 102–550, title XIII, § 1362, Oct. 28, 1992, 106 Stat. 3975; Pub. L. 110–289, div. A, title I, § 1111, July 30, 2008, 122 Stat. 2676.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1111(1), substituted “Enterprises” for “In general” in heading.
+2008—Subsec. (a). Pub. L. 110–289, § 1111(1), substituted “Enterprises” for “In general” in heading.
 
-Subsecs. (b) to (f). Pub. L. 110–289, § 1111(2), added subsecs. (b) to (f) and struck out former subsec. (b) which related to minimum capital level during transition period.
+Subsecs. (b) to (f). Pub. L. 110–289, § 1111(2), added subsecs. (b) to (f) and struck out former subsec. (b) which related to minimum capital level during transition period.
 
-### § 4613. Critical capital levels
+### § 4613. Critical capital levels
 
 **(a) Enterprises** For purposes of this subchapter, the critical capital level for each enterprise shall be the sum of—
 
@@ -3911,7 +3911,7 @@ For purposes of this subchapter, the critical capital level for each Federal Hom
 
 In establishing the critical capital level under paragraph (1) for the Federal Home Loan Banks, the Director shall take due consideration of the critical capital level established under subsection (a) for the enterprises, with such modifications as the Director determines to be appropriate to reflect the difference in operations between the banks and the enterprises.
 
-(Pub. L. 102–550, title XIII, § 1363, Oct. 28, 1992, 106 Stat. 3976; Pub. L. 110–289, div. A, title I, § 1141(a), July 30, 2008, 122 Stat. 2730.)
+(Pub. L. 102–550, title XIII, § 1363, Oct. 28, 1992, 106 Stat. 3976; Pub. L. 110–289, div. A, title I, § 1141(a), July 30, 2008, 122 Stat. 2730.)
 
 **Editorial Notes**
 
@@ -3923,9 +3923,9 @@ In establishing the critical capital level under paragraph (1) for the Federal H
 
 **Regulations**
 
-Pub. L. 110–289, div. A, title I, § 1141(b), July 30, 2008, 122 Stat. 2730, provided that: “Not later than the expiration of the 180-day period beginning on the date of enactment of this Act [July 30, 2008], the Director of the Federal Housing Finance Agency shall issue regulations pursuant to section 1363(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 [12 U.S.C. 4613(b)] (as added by this section) establishing the critical capital level under such section.”
+Pub. L. 110–289, div. A, title I, § 1141(b), July 30, 2008, 122 Stat. 2730, provided that: “Not later than the expiration of the 180-day period beginning on the date of enactment of this Act [July 30, 2008], the Director of the Federal Housing Finance Agency shall issue regulations pursuant to section 1363(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 [12 U.S.C. 4613(b)] (as added by this section) establishing the critical capital level under such section.”
 
-### § 4614. Capital classifications
+### § 4614. Capital classifications
 
 **(a) Enterprises** For purposes of this subchapter, the Director shall classify the enterprises according to the following capital classifications:
 
@@ -3965,9 +3965,9 @@ Pub. L. 110–289, div. A, title I, § 1141(b), July 30, 2008, 122 Stat. 2730,
 
 **(ii)** does not maintain an amount of core capital that is equal to or exceeds the critical capital level for the enterprise; or
 
-**(B)** is otherwise classified as critically undercapitalized under subsection (b)(3) of this section or section 4616(b)(5) 1
+**(B)** is otherwise classified as critically undercapitalized under subsection (b)(3) of this section or section 4616(b)(5) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -4027,47 +4027,47 @@ A regulated entity shall make no capital distribution if, after making the distr
 
 **(f) Implementation**
 
-Notwithstanding any other provision of this section, during the period beginning on October 28, 1992, and ending upon the effective date of section 4615 of this title (as provided in section 4615(c) <sup>1</sup> of this title), an enterprise shall be classified as adequately capitalized if the enterprise maintains an amount of core capital that is equal to or exceeds the minimum capital level for the enterprise under section 4612 of this title.
+Notwithstanding any other provision of this section, during the period beginning on October 28, 1992, and ending upon the effective date of section 4615 of this title (as provided in section 4615(c) <sup>1</sup> of this title), an enterprise shall be classified as adequately capitalized if the enterprise maintains an amount of core capital that is equal to or exceeds the minimum capital level for the enterprise under section 4612 of this title.
 
-(Pub. L. 102–550, title XIII, § 1364, Oct. 28, 1992, 106 Stat. 3976; Pub. L. 110–289, div. A, title I, §§ 1142(a), 1161(a)(3), July 30, 2008, 122 Stat. 2730, 2779.)
+(Pub. L. 102–550, title XIII, § 1364, Oct. 28, 1992, 106 Stat. 3976; Pub. L. 110–289, div. A, title I, §§ 1142(a), 1161(a)(3), July 30, 2008, 122 Stat. 2730, 2779.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4616(b)(5) of this title, referred to in subsec. (a)(4)(B), was redesignated section 4616(b)(6) of this title by Pub. L. 110–289, div. A, title I, § 1144(5)(D), July 30, 2008, 122 Stat. 2733.
+Section 4616(b)(5) of this title, referred to in subsec. (a)(4)(B), was redesignated section 4616(b)(6) of this title by Pub. L. 110–289, div. A, title I, § 1144(5)(D), July 30, 2008, 122 Stat. 2733.
 
 This chapter, referred to in subsec. (c)(2), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
-Section 4615(c) of this title, referred to in subsec. (f), was repealed and a new section 4615(c) was added by Pub. L. 110–289, div. A, title I, § 1143(6), July 30, 2008, 122 Stat. 2734. The new section 4615(c) does not relate to effective date.
+Section 4615(c) of this title, referred to in subsec. (f), was repealed and a new section 4615(c) was added by Pub. L. 110–289, div. A, title I, § 1143(6), July 30, 2008, 122 Stat. 2734. The new section 4615(c) does not relate to effective date.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1142(a)(1), substituted “Enterprises” for “In general” in heading.
+2008—Subsec. (a). Pub. L. 110–289, § 1142(a)(1), substituted “Enterprises” for “In general” in heading.
 
-Subsec. (b). Pub. L. 110–289, § 1142(a)(4), added subsec. (b) and struck out former subsec. (b) which related to discretionary classification.
+Subsec. (b). Pub. L. 110–289, § 1142(a)(4), added subsec. (b) and struck out former subsec. (b) which related to discretionary classification.
 
-Subsec. (c). Pub. L. 110–289, § 1161(a)(3), which directed amendment of subsec. (c) by striking out the last sentence, was not executed as the probable intent of Congress. The amendment was probably intended to strike out the last sentence of former subsec. (c), now subsec. (d), as it existed prior to being struck out by Pub. L. 110–289, § 1142(a)(2)(C). See below.
+Subsec. (c). Pub. L. 110–289, § 1161(a)(3), which directed amendment of subsec. (c) by striking out the last sentence, was not executed as the probable intent of Congress. The amendment was probably intended to strike out the last sentence of former subsec. (c), now subsec. (d), as it existed prior to being struck out by Pub. L. 110–289, § 1142(a)(2)(C). See below.
 
-Pub. L. 110–289, § 1142(a)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
+Pub. L. 110–289, § 1142(a)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-Pub. L. 110–289, § 1142(a)(2)(C), struck out last sentence which read as follows: “The first such determination shall be made during the 3-month period beginning on the appointment of the Director.”
+Pub. L. 110–289, § 1142(a)(2)(C), struck out last sentence which read as follows: “The first such determination shall be made during the 3-month period beginning on the appointment of the Director.”
 
-Pub. L. 110–289, § 1142(a)(2)(A), (B), substituted “regulated entities” for “enterprises” and “subsection (c)” for “subsection (b)”.
+Pub. L. 110–289, § 1142(a)(2)(A), (B), substituted “regulated entities” for “enterprises” and “subsection (c)” for “subsection (b)”.
 
-Subsec. (d). Pub. L. 110–289, § 1142(a)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 110–289, § 1142(a)(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
-Subsec. (e). Pub. L. 110–289, § 1142(a)(5), added subsec. (e).
+Subsec. (e). Pub. L. 110–289, § 1142(a)(5), added subsec. (e).
 
-Subsec. (f). Pub. L. 110–289, § 1142(a)(3), redesignated subsec. (d) as (f).
+Subsec. (f). Pub. L. 110–289, § 1142(a)(3), redesignated subsec. (d) as (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 110–289, div. A, title I, § 1142(b), July 30, 2008, 122 Stat. 2732, provided that: “Not later than the expiration of the 180-day period beginning on the date of enactment of this Act [July 30, 2008], the Director of the Federal Housing Finance Agency shall issue regulations to carry out section 1364(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 [12 U.S.C. 4614(b)] (as added by this section), relating to capital classifications for the Federal Home Loan Banks.”
+Pub. L. 110–289, div. A, title I, § 1142(b), July 30, 2008, 122 Stat. 2732, provided that: “Not later than the expiration of the 180-day period beginning on the date of enactment of this Act [July 30, 2008], the Director of the Federal Housing Finance Agency shall issue regulations to carry out section 1364(b) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 [12 U.S.C. 4614(b)] (as added by this section), relating to capital classifications for the Federal Home Loan Banks.”
 
-### § 4615. Supervisory actions applicable to undercapitalized regulated entities
+### § 4615. Supervisory actions applicable to undercapitalized regulated entities
 
 **(a) Mandatory actions**
 
@@ -4111,37 +4111,37 @@ A regulated entity that is classified as undercapitalized may not make any capit
 
 The Director may take, with respect to an undercapitalized regulated entity, any of the actions authorized to be taken under section 4616 of this title with respect to a significantly undercapitalized regulated entity, if the Director determines that such actions are necessary to carry out the purpose of this subchapter.
 
-(Pub. L. 102–550, title XIII, § 1365, Oct. 28, 1992, 106 Stat. 3978; Pub. L. 110–289, div. A, title I, § 1143, July 30, 2008, 122 Stat. 2732.)
+(Pub. L. 102–550, title XIII, § 1365, Oct. 28, 1992, 106 Stat. 3978; Pub. L. 110–289, div. A, title I, § 1143, July 30, 2008, 122 Stat. 2732.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–289, § 1143(4)(B), added par. (1). Former par. (1) redesignated (2).
+2008—Subsec. (a)(1). Pub. L. 110–289, § 1143(4)(B), added par. (1). Former par. (1) redesignated (2).
 
-Pub. L. 110–289, § 1143(2), substituted “A regulated entity” for “An enterprise”.
+Pub. L. 110–289, § 1143(2), substituted “A regulated entity” for “An enterprise”.
 
-Subsec. (a)(2). Pub. L. 110–289, § 1143(4)(A), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+Subsec. (a)(2). Pub. L. 110–289, § 1143(4)(A), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
-Pub. L. 110–289, § 1143(1), (2), substituted “the regulated entity” for “the enterprise” and “A regulated entity” for “An enterprise”.
+Pub. L. 110–289, § 1143(1), (2), substituted “the regulated entity” for “the enterprise” and “A regulated entity” for “An enterprise”.
 
-Subsec. (a)(3). Pub. L. 110–289, § 1143(4)(A), redesignated par. (2) as (3).
+Subsec. (a)(3). Pub. L. 110–289, § 1143(4)(A), redesignated par. (2) as (3).
 
-Subsec. (a)(4), (5). Pub. L. 110–289, § 1143(4)(C), added pars. (4) and (5).
+Subsec. (a)(4), (5). Pub. L. 110–289, § 1143(4)(C), added pars. (4) and (5).
 
-Subsec. (b). Pub. L. 110–289, § 1143(5)(A), (B), substituted “Reclassification” for “Discretionary reclassification” in heading and “shall” for “may” in introductory provisions.
+Subsec. (b). Pub. L. 110–289, § 1143(5)(A), (B), substituted “Reclassification” for “Discretionary reclassification” in heading and “shall” for “may” in introductory provisions.
 
-Pub. L. 110–289, § 1143(1), (3), substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise” in introductory provisions.
+Pub. L. 110–289, § 1143(1), (3), substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 110–289, § 1143(1), substituted “the regulated entity” for “the enterprise” in two places.
+Subsec. (b)(1). Pub. L. 110–289, § 1143(1), substituted “the regulated entity” for “the enterprise” in two places.
 
-Subsec. (b)(2). Pub. L. 110–289, § 1143(5)(C), struck out “make, in good faith, reasonable efforts necessary to” before “comply with” and inserted “in any material respect” before period at end.
+Subsec. (b)(2). Pub. L. 110–289, § 1143(5)(C), struck out “make, in good faith, reasonable efforts necessary to” before “comply with” and inserted “in any material respect” before period at end.
 
-Pub. L. 110–289, § 1143(1), substituted “the regulated entity” for “the enterprise”.
+Pub. L. 110–289, § 1143(1), substituted “the regulated entity” for “the enterprise”.
 
-Subsec. (c). Pub. L. 110–289, § 1143(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “This section shall take effect upon the expiration of the 1-year period beginning on the date of the effectiveness of the regulations issued under section 4611(e) of this title establishing the risk-based capital test.”
+Subsec. (c). Pub. L. 110–289, § 1143(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “This section shall take effect upon the expiration of the 1-year period beginning on the date of the effectiveness of the regulations issued under section 4611(e) of this title establishing the risk-based capital test.”
 
-### § 4616. Supervisory actions applicable to significantly undercapitalized regulated entities
+### § 4616. Supervisory actions applicable to significantly undercapitalized regulated entities
 
 **(a) Mandatory supervisory actions**
 
@@ -4207,33 +4207,33 @@ Require the regulated entity to take any other action that the Director determin
 
 **(2)** provide compensation to any executive officer at a rate exceeding the average rate of compensation of that officer (excluding bonuses, stock options, and profit sharing) during the 12 calendar months preceding the calendar month in which the regulated entity became significantly undercapitalized.
 
-(Pub. L. 102–550, title XIII, § 1366, Oct. 28, 1992, 106 Stat. 3978; Pub. L. 110–289, div. A, title I, § 1144, July 30, 2008, 122 Stat. 2733.)
+(Pub. L. 102–550, title XIII, § 1366, Oct. 28, 1992, 106 Stat. 3978; Pub. L. 110–289, div. A, title I, § 1144, July 30, 2008, 122 Stat. 2733.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–289, § 1144(3), substituted “A regulated entity” for “An enterprise”.
+2008—Subsec. (a)(1). Pub. L. 110–289, § 1144(3), substituted “A regulated entity” for “An enterprise”.
 
-Subsec. (a)(2)(A). Pub. L. 110–289, § 1144(1)–(3), substituted “A regulated entity” for “An enterprise” in two places, “the regulated entity” for “the enterprise”, and, in second sentence, “undercapitalized” for “undercapitalized enterprise”.
+Subsec. (a)(2)(A). Pub. L. 110–289, § 1144(1)–(3), substituted “A regulated entity” for “An enterprise” in two places, “the regulated entity” for “the enterprise”, and, in second sentence, “undercapitalized” for “undercapitalized enterprise”.
 
-Subsec. (a)(2)(B). Pub. L. 110–289, § 1144(2), (4), substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise” wherever appearing.
+Subsec. (a)(2)(B). Pub. L. 110–289, § 1144(2), (4), substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise” wherever appearing.
 
-Subsec. (b). Pub. L. 110–289, § 1144(4), (5)(A), (B), substituted “Specific” for “Discretionary supervisory” in heading and “shall carry out this section by taking, at any time, 1 or more” for “may, at any time, take any” and “a regulated entity” for “an enterprise” in introductory provisions.
+Subsec. (b). Pub. L. 110–289, § 1144(4), (5)(A), (B), substituted “Specific” for “Discretionary supervisory” in heading and “shall carry out this section by taking, at any time, 1 or more” for “may, at any time, take any” and “a regulated entity” for “an enterprise” in introductory provisions.
 
-Subsec. (b)(1) to (4). Pub. L. 110–289, § 1144(2), substituted “the regulated entity” for “the enterprise” wherever appearing.
+Subsec. (b)(1) to (4). Pub. L. 110–289, § 1144(2), substituted “the regulated entity” for “the enterprise” wherever appearing.
 
-Subsec. (b)(5). Pub. L. 110–289, § 1144(5)(E), added par. (5). Former par. (5) redesignated (6).
+Subsec. (b)(5). Pub. L. 110–289, § 1144(5)(E), added par. (5). Former par. (5) redesignated (6).
 
-Pub. L. 110–289, § 1144(2), (4), substituted “a regulated entity” for “an enterprise” in introductory provisions and “the regulated entity” for “the enterprise” wherever appearing.
+Pub. L. 110–289, § 1144(2), (4), substituted “a regulated entity” for “an enterprise” in introductory provisions and “the regulated entity” for “the enterprise” wherever appearing.
 
-Subsec. (b)(6). Pub. L. 110–289, § 1144(5)(C), (D), redesignated par. (5) as (6) and struck out former par. (6) which permitted the Director to appoint a conservator.
+Subsec. (b)(6). Pub. L. 110–289, § 1144(5)(C), (D), redesignated par. (5) as (6) and struck out former par. (6) which permitted the Director to appoint a conservator.
 
-Subsec. (b)(7). Pub. L. 110–289, § 1144(5)(F), added par. (7).
+Subsec. (b)(7). Pub. L. 110–289, § 1144(5)(F), added par. (7).
 
-Subsec. (c). Pub. L. 110–289, § 1144(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “This section shall take effect upon the first classification of the enterprises within capital classifications that occurs under section 4614 of this title.”
+Subsec. (c). Pub. L. 110–289, § 1144(6), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “This section shall take effect upon the first classification of the enterprises within capital classifications that occurs under section 4614 of this title.”
 
-### § 4617. Authority over critically undercapitalized regulated entities
+### § 4617. Authority over critically undercapitalized regulated entities
 
 **(a) Appointment of the Agency as conservator or receiver**
 
@@ -4755,7 +4755,7 @@ Nothing in this paragraph shall be construed to limit the power of the conservat
 
 The rights of the conservator or receiver appointed under this section shall be subject to the limitations on the powers of a receiver under sections 4402 through 4407 of this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(B) Mortgages held in trust**
 
@@ -4779,7 +4779,7 @@ The liability of the conservator or receiver appointed under this section for da
 
 **(B)** Any other general or senior liability of the regulated entity (which is not a liability described under subparagraph (C) or (D).2
 
-<sup>2</sup>  So in original. A second closing parenthesis probably should precede the period.
+<sup>2</sup> So in original. A second closing parenthesis probably should precede the period.
 
 **(C)** Any obligation subordinated to general creditors (which is not an obligation described under subparagraph (D)).
 
@@ -5225,7 +5225,7 @@ In any proceeding related to any claim against a director, officer, employee, ag
 
 **(ii) Freddie Mac** If the Agency is appointed as receiver for the Federal Home Loan Mortgage Corporation, the limited-life regulated entity established under this subsection with respect to such enterprise shall, by operation of law and immediately upon its organization—
 
-**(I)** succeed to the charter of the Federal Home Loan Mortgage Corporation, as set forth in the Federal Home Loan Mortgage Corporation Charter Act <sup>1</sup> [12 U.S.C. 1451 et seq.]; and
+**(I)** succeed to the charter of the Federal Home Loan Mortgage Corporation, as set forth in the Federal Home Loan Mortgage Corporation Charter Act <sup>1</sup> [12 U.S.C. 1451 et seq.]; and
 
 **(II)** thereafter operate in accordance with, and subject to, such charter, this Act, and any other provision of law to which the Federal Home Loan Mortgage Corporation is subject, except as otherwise provided in this subsection.
 
@@ -5383,7 +5383,7 @@ A limited-life regulated entity may obtain unsecured credit and issue unsecured 
 
 **(C) Limitations**
 
-**(i) 3 [footnote: 3 So in original. No cl. (ii) has been enacted.] In general** The Director, after notice and a hearing, may authorize the obtaining of credit or the issuance of debt by a limited-life regulated entity that is secured by a senior or equal lien on property of the limited-life regulated entity that is subject to a lien (other than mortgages that collateralize the mortgage-backed securities issued or guaranteed by an enterprise) only if—
+**(i) 3 [footnote: 3 So in original. No cl. (ii) has been enacted.] In general** The Director, after notice and a hearing, may authorize the obtaining of credit or the issuance of debt by a limited-life regulated entity that is secured by a senior or equal lien on property of the limited-life regulated entity that is subject to a lien (other than mortgages that collateralize the mortgage-backed securities issued or guaranteed by an enterprise) only if—
 
 **(I)** the limited-life regulated entity is unable to otherwise obtain such credit or issue such debt; and
 
@@ -5419,7 +5419,7 @@ The Agency shall not be liable for any amounts in the nature of penalties or fin
 
 In no case may the receiver appointed pursuant to this section revoke, annul, or terminate the charter of an enterprise.
 
-(Pub. L. 102–550, title XIII, § 1367, Oct. 28, 1992, 106 Stat. 3980; Pub. L. 110–289, div. A, title I, § 1145(a), July 30, 2008, 122 Stat. 2734.)
+(Pub. L. 102–550, title XIII, § 1367, Oct. 28, 1992, 106 Stat. 3980; Pub. L. 110–289, div. A, title I, § 1145(a), July 30, 2008, 122 Stat. 2734.)
 
 **Editorial Notes**
 
@@ -5429,25 +5429,25 @@ This chapter, referred to in subsecs. (a)(4)(D) and (d)(8)(A), was in the origin
 
 Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b)(16), (17), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Sections 4402 through 4407 of this title, referred to in subsec. (b)(19)(A), was in the original “sections 402 through 407 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4402 through 4407)”, and was translated as reading “sections 402 through 407A of the Federal Deposit Insurance Corporation Improvement Act of 1991”, meaning sections 402 to 407A of Pub. L. 102–242, which are classified to sections 4402 to 4407 of this title, to reflect the probable intent of Congress and the renumbering of section 407 of the Act as section 407A by Pub. L. 109–8, title IX, § 906(d)(1), Apr. 20, 2005, 119 Stat. 169.
+Sections 4402 through 4407 of this title, referred to in subsec. (b)(19)(A), was in the original “sections 402 through 407 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4402 through 4407)”, and was translated as reading “sections 402 through 407A of the Federal Deposit Insurance Corporation Improvement Act of 1991”, meaning sections 402 to 407A of Pub. L. 102–242, which are classified to sections 4402 to 4407 of this title, to reflect the probable intent of Congress and the renumbering of section 407 of the Act as section 407A by Pub. L. 109–8, title IX, § 906(d)(1), Apr. 20, 2005, 119 Stat. 169.
 
 The Gramm-Leach-Bliley Act, referred to in subsec. (d)(14), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
-The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (d)(14), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
+The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (d)(14), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1 of Title 7 and Tables.
 
-The Commodity Exchange Act, referred to in subsec. (d)(14), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (d)(14), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
-The Federal National Mortgage Association Charter Act, referred to in subsec. (i)(2)(A)(i)(I), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
+The Federal National Mortgage Association Charter Act, referred to in subsec. (i)(2)(A)(i)(I), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 
 This Act, referred to in subsec. (i)(2)(A)(i)(II), (ii)(II), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672, known as the Housing and Community Development Act of 1992. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
-The Federal Home Loan Mortgage Corporation Charter Act, referred to in subsec. (i)(2)(A)(ii)(I), probably means the Federal Home Loan Mortgage Corporation Act, title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
+The Federal Home Loan Mortgage Corporation Charter Act, referred to in subsec. (i)(2)(A)(ii)(I), probably means the Federal Home Loan Mortgage Corporation Act, title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under section 1451 of this title and Tables.
 
 **Amendments**
 
 2008—Pub. L. 110–289 amended section generally. Prior to amendment, section related to appointment of conservators for critically undercapitalized enterprises.
 
-### § 4618. Notice of classification and enforcement action
+### § 4618. Notice of classification and enforcement action
 
 **(a) Notice**
 
@@ -5459,9 +5459,9 @@ Before taking any action referred to in subsection (b), the Director shall provi
 
 **(2)** Any discretionary supervisory action pursuant to section 4615 of this title.
 
-**(3)** Any discretionary supervisory action pursuant to section 4616 of this title except a decision to appoint a conservator under section 4616(b)(6) 1
+**(3)** Any discretionary supervisory action pursuant to section 4616 of this title except a decision to appoint a conservator under section 4616(b)(6) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -5493,13 +5493,13 @@ After the expiration of the response period under subsection (c) or upon receipt
 
 An action referred to in subsection (b) shall take effect upon receipt by the regulated entity of notice of the determination of the Director under subsection (d), unless otherwise provided in such notice.
 
-(Pub. L. 102–550, title XIII, § 1368, Oct. 28, 1992, 106 Stat. 3980; Pub. L. 110–289, div. A, title I, § 1145(b)(1), July 30, 2008, 122 Stat. 2767.)
+(Pub. L. 102–550, title XIII, § 1368, Oct. 28, 1992, 106 Stat. 3980; Pub. L. 110–289, div. A, title I, § 1145(b)(1), July 30, 2008, 122 Stat. 2767.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4616(b)(6) of this title, referred to in subsec. (b)(3), was repealed and a new par. (6) added by Pub. L. 110–289, div. A, title I, § 1144(5)(C), (D), July 30, 2008, 122 Stat. 2733. The new par. (6) does not relate to appointment of a conservator.
+Section 4616(b)(6) of this title, referred to in subsec. (b)(3), was repealed and a new par. (6) added by Pub. L. 110–289, div. A, title I, § 1144(5)(C), (D), July 30, 2008, 122 Stat. 2733. The new par. (6) does not relate to appointment of a conservator.
 
 **Amendments**
 
@@ -5511,15 +5511,15 @@ Section 4616(b)(6) of this title, referred to in subsec. (b)(3), was repealed an
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-### §§ 4619 to 4621. Repealed. Pub. L. 110–289, div. A, title I, § 1145(b)(4), July 30, 2008, 122 Stat. 2767
+### §§ 4619 to 4621. Repealed. Pub. L. 110–289, div. A, title I, § 1145(b)(4), July 30, 2008, 122 Stat. 2767
 
-Section 4619, Pub. L. 102–550, title XIII, § 1369, Oct. 28, 1992, 106 Stat. 3981; Pub. L. 110–289, div. A, title I, § 1161(a)(6), July 30, 2008, 122 Stat. 2779, related to appointment of conservators.
+Section 4619, Pub. L. 102–550, title XIII, § 1369, Oct. 28, 1992, 106 Stat. 3981; Pub. L. 110–289, div. A, title I, § 1161(a)(6), July 30, 2008, 122 Stat. 2779, related to appointment of conservators.
 
-Section 4620, Pub. L. 102–550, title XIII, § 1369A, Oct. 28, 1992, 106 Stat. 3983, related to powers of conservators.
+Section 4620, Pub. L. 102–550, title XIII, § 1369A, Oct. 28, 1992, 106 Stat. 3983, related to powers of conservators.
 
-Section 4621, Pub. L. 102–550, title XIII, § 1369B, Oct. 28, 1992, 106 Stat. 3984, related to liability protection for conservators.
+Section 4621, Pub. L. 102–550, title XIII, § 1369B, Oct. 28, 1992, 106 Stat. 3984, related to liability protection for conservators.
 
-### § 4622. Capital restoration plans
+### § 4622. Capital restoration plans
 
 **(a) Contents** Each capital restoration plan submitted under this subchapter shall set forth a feasible plan for restoring the core capital of the regulated entity subject to the plan to an amount not less than the minimum capital level for the regulated entity and for restoring the total capital of the regulated entity to an amount not less than the risk-based capital level for the regulated entity. Each capital restoration plan shall—
 
@@ -5545,7 +5545,7 @@ The Director shall review each capital restoration plan submitted under this sec
 
 If the Director disapproves the initial capital restoration plan submitted by the regulated entity, the regulated entity shall submit an amended plan acceptable to the Director within 30 days or such longer period that the Director determines is in the public interest.
 
-(Pub. L. 102–550, title XIII, § 1369C, Oct. 28, 1992, 106 Stat. 3985; Pub. L. 110–289, div. A, title I, § 1145(b)(2), July 30, 2008, 122 Stat. 2767.)
+(Pub. L. 102–550, title XIII, § 1369C, Oct. 28, 1992, 106 Stat. 3985; Pub. L. 110–289, div. A, title I, § 1145(b)(2), July 30, 2008, 122 Stat. 2767.)
 
 **Editorial Notes**
 
@@ -5553,15 +5553,15 @@ If the Director disapproves the initial capital restoration plan submitted by th
 
 2008—Pub. L. 110–289 substituted “regulated entity” for “enterprise” wherever appearing.
 
-### § 4623. Judicial review of Director action
+### § 4623. Judicial review of Director action
 
 **(a) Jurisdiction**
 
 **(1) Filing of petition**
 
-A regulated entity that is not classified as critically undercapitalized and is the subject of a classification under section 4614 of this title or a discretionary supervisory action taken under this subchapter by the Director (other than action to appoint a conservator under section 4616 or 4617 of this title or action under section 4619 1
+A regulated entity that is not classified as critically undercapitalized and is the subject of a classification under section 4614 of this title or a discretionary supervisory action taken under this subchapter by the Director (other than action to appoint a conservator under section 4616 or 4617 of this title or action under section 4619 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) may obtain review of the classification or action by filing, within 10 days after receiving written notice of the Director’s action, a written petition requesting that the classification or action of the Director be modified, terminated, or set aside.
 
@@ -5579,23 +5579,23 @@ The commencement of proceedings for judicial review pursuant to this section sha
 
 **(d) Limitation on jurisdiction**
 
-Except as provided in this section, no court shall have jurisdiction to affect, by injunction or otherwise, the issuance or effectiveness of any classification or action of the Director under this subchapter (other than appointment of a conservator under section 4616 or 4617 of this title or action under section 4619 <sup>1</sup> of this title) or to review, modify, suspend, terminate, or set aside such classification or action.
+Except as provided in this section, no court shall have jurisdiction to affect, by injunction or otherwise, the issuance or effectiveness of any classification or action of the Director under this subchapter (other than appointment of a conservator under section 4616 or 4617 of this title or action under section 4619 <sup>1</sup> of this title) or to review, modify, suspend, terminate, or set aside such classification or action.
 
-(Pub. L. 102–550, title XIII, § 1369D, Oct. 28, 1992, 106 Stat. 3985; Pub. L. 110–289, div. A, title I, § 1145(b)(3), July 30, 2008, 122 Stat. 2767.)
+(Pub. L. 102–550, title XIII, § 1369D, Oct. 28, 1992, 106 Stat. 3985; Pub. L. 110–289, div. A, title I, § 1145(b)(3), July 30, 2008, 122 Stat. 2767.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4619 of this title, referred to in subsecs. (a)(1) and (d), was repealed by Pub. L. 110–289, div. A, title I, § 1145(b)(4), July 30, 2008, 122 Stat. 2767.
+Section 4619 of this title, referred to in subsecs. (a)(1) and (d), was repealed by Pub. L. 110–289, div. A, title I, § 1145(b)(4), July 30, 2008, 122 Stat. 2767.
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–289, § 1145(b)(3)(B), substituted “A regulated entity” for “An enterprise”.
+2008—Subsec. (a)(1). Pub. L. 110–289, § 1145(b)(3)(B), substituted “A regulated entity” for “An enterprise”.
 
-Subsec. (c). Pub. L. 110–289, § 1145(b)(3)(A), substituted “a regulated entity” for “an enterprise” in two places.
+Subsec. (c). Pub. L. 110–289, § 1145(b)(3)(A), substituted “a regulated entity” for “an enterprise” in two places.
 
-### § 4624. Reviews of enterprise assets and liabilities
+### § 4624. Reviews of enterprise assets and liabilities
 
 **(a) In general**
 
@@ -5609,7 +5609,7 @@ The Director may, by order, make temporary adjustments to the established standa
 
 The Director shall monitor the portfolio of each enterprise. Pursuant to subsection (a) and notwithstanding the capital classifications of the enterprises, the Director may, by order, require an enterprise, under such terms and conditions as the Director determines to be appropriate, to dispose of or acquire any asset, if the Director determines that such action is consistent with the purposes of this Act or any of the authorizing statutes.
 
-(Pub. L. 102–550, title XIII, § 1369E, as added Pub. L. 110–289, div. A, title I, § 1109(a)(2), July 30, 2008, 122 Stat. 2675.)
+(Pub. L. 102–550, title XIII, § 1369E, as added Pub. L. 110–289, div. A, title I, § 1109(a)(2), July 30, 2008, 122 Stat. 2675.)
 
 **Editorial Notes**
 
@@ -5621,11 +5621,11 @@ This Act, referred to in subsec. (c), is Pub. L. 102–550, Oct. 28, 1992, 106 S
 
 **Regulations**
 
-Pub. L. 110–289, div. A, title I, § 1109(b), July 30, 2008, 122 Stat. 2675, provided that: “Not later than the expiration of the 180-day period beginning on the effective date of this Act [probably means date of enactment of Pub. L. 110–289, approved July 30, 2008], the Director [of the Federal Housing Finance Agency] shall issue regulations pursuant to section 1369E(a) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 [12 U.S.C. 4624(a)] (as added by subsection (a) of this section) establishing the portfolio holdings standards under such section.”
+Pub. L. 110–289, div. A, title I, § 1109(b), July 30, 2008, 122 Stat. 2675, provided that: “Not later than the expiration of the 180-day period beginning on the effective date of this Act [probably means date of enactment of Pub. L. 110–289, approved July 30, 2008], the Director [of the Federal Housing Finance Agency] shall issue regulations pursuant to section 1369E(a) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 [12 U.S.C. 4624(a)] (as added by subsection (a) of this section) establishing the portfolio holdings standards under such section.”
 
 ## SUBCHAPTER III—ENFORCEMENT PROVISIONS
 
-### § 4631. Cease-and-desist proceedings
+### § 4631. Cease-and-desist proceedings
 
 **(a) Issuance for unsafe or unsound practices and violations**
 
@@ -5653,9 +5653,9 @@ If the Director finds on the record made at such hearing that any practice or vi
 
 **(d) Affirmative action to correct conditions resulting from violations or activities** The authority under this section and section 4632 of this title to issue any order requiring a regulated entity, executive officer, director, or entity-affiliated party to take affirmative action to correct or remedy any condition resulting from any practice or violation with respect to which such order is issued includes the authority to require a regulated entity or entity-affiliated party—
 
-**(1)** make 1
+**(1)** make 1
 
-<sup>1</sup>  So in original. Probably should be “to make”.
+<sup>1</sup> So in original. Probably should be “to make”.
 
 restitution to, or provide reimbursement, indemnification, or guarantee against loss, if—
 
@@ -5683,11 +5683,11 @@ The authority to issue an order under this section or section 4632 of this title
 
 An order under this section shall become effective upon the expiration of the 30-day period beginning on the service of the order upon the regulated entity, finance facility,,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 executive officer, director, or entity-affiliated party concerned (except in the case of an order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided in the order, except to the extent that the order is stayed, modified, terminated, or set aside by action of the Director or otherwise, as provided in this subchapter.
 
-(Pub. L. 102–550, title XIII, § 1371, Oct. 28, 1992, 106 Stat. 3986; Pub. L. 110–289, div. A, title I, § 1151, July 30, 2008, 122 Stat. 2767.)
+(Pub. L. 102–550, title XIII, § 1371, Oct. 28, 1992, 106 Stat. 3986; Pub. L. 110–289, div. A, title I, § 1151, July 30, 2008, 122 Stat. 2767.)
 
 **Editorial Notes**
 
@@ -5697,33 +5697,33 @@ This chapter, referred to in subsec. (a)(2), was in the original “this title�
 
 **Amendments**
 
-2008—Subsecs. (a), (b). Pub. L. 110–289, § 1151(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to grounds for issuance against adequately capitalized enterprises and grounds for issuance against undercapitalized, significantly undercapitalized, and critically undercapitalized enterprises, respectively.
+2008—Subsecs. (a), (b). Pub. L. 110–289, § 1151(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to grounds for issuance against adequately capitalized enterprises and grounds for issuance against undercapitalized, significantly undercapitalized, and critically undercapitalized enterprises, respectively.
 
-Subsec. (c)(1). Pub. L. 110–289, § 1151(2)(A), (3)(C), substituted “practice” for “conduct” in two places and inserted “, unless the party served with a notice of charges shall appear at the hearing personally or by a duly authorized representative, the party shall be deemed to have consented to the issuance of the cease and desist order” before period at end.
+Subsec. (c)(1). Pub. L. 110–289, § 1151(2)(A), (3)(C), substituted “practice” for “conduct” in two places and inserted “, unless the party served with a notice of charges shall appear at the hearing personally or by a duly authorized representative, the party shall be deemed to have consented to the issuance of the cease and desist order” before period at end.
 
-Subsec. (c)(2). Pub. L. 110–289, § 1151(2)(B), (3)(A), (C), inserted “or entity-affiliated party” before “consents” and substituted “director, or entity-affiliated party” for “or director”, “the regulated entity” for “the enterprise” in two places, and “practice” for “conduct” wherever appearing.
+Subsec. (c)(2). Pub. L. 110–289, § 1151(2)(B), (3)(A), (C), inserted “or entity-affiliated party” before “consents” and substituted “director, or entity-affiliated party” for “or director”, “the regulated entity” for “the enterprise” in two places, and “practice” for “conduct” wherever appearing.
 
-Subsec. (d). Pub. L. 110–289, § 1151(3)(B), (C), (4)(A), in introductory provisions, substituted “a regulated entity” for “an enterprise”, “director, or entity-affiliated party” for “or director”, and “practice” for “conduct”, and inserted “to require a regulated entity or entity-affiliated party” after “includes the authority”.
+Subsec. (d). Pub. L. 110–289, § 1151(3)(B), (C), (4)(A), in introductory provisions, substituted “a regulated entity” for “an enterprise”, “director, or entity-affiliated party” for “or director”, and “practice” for “conduct”, and inserted “to require a regulated entity or entity-affiliated party” after “includes the authority”.
 
-Subsec. (d)(1). Pub. L. 110–289, § 1151(4)(B)(i), (ii), in introductory provisions, struck out “to require an executive officer or a director to” before “make restitution” and substituted “loss, if” for “loss to the enterprise to the extent that such person”.
+Subsec. (d)(1). Pub. L. 110–289, § 1151(4)(B)(i), (ii), in introductory provisions, struck out “to require an executive officer or a director to” before “make restitution” and substituted “loss, if” for “loss to the enterprise to the extent that such person”.
 
-Subsec. (d)(1)(A). Pub. L. 110–289, § 1151(3)(C), (4)(B)(iii), inserted “such entity or party or finance facility” before “was unjustly” and substituted “practice” for “conduct”.
+Subsec. (d)(1)(A). Pub. L. 110–289, § 1151(3)(C), (4)(B)(iii), inserted “such entity or party or finance facility” before “was unjustly” and substituted “practice” for “conduct”.
 
-Subsec. (d)(1)(B). Pub. L. 110–289, § 1151(4)(B)(iv), added subpar. (B) and struck out former subpar. (B) which read as follows: “engaged in conduct or a violation that would subject such person to a civil penalty pursuant to section 4636(b)(3) of this title;”.
+Subsec. (d)(1)(B). Pub. L. 110–289, § 1151(4)(B)(iv), added subpar. (B) and struck out former subpar. (B) which read as follows: “engaged in conduct or a violation that would subject such person to a civil penalty pursuant to section 4636(b)(3) of this title;”.
 
-Subsec. (d)(2). Pub. L. 110–289, § 1151(3)(B), substituted “a regulated entity” for “an enterprise”.
+Subsec. (d)(2). Pub. L. 110–289, § 1151(3)(B), substituted “a regulated entity” for “an enterprise”.
 
-Subsec. (d)(3). Pub. L. 110–289, § 1151(3)(A), substituted “the regulated entity” for “the enterprise”.
+Subsec. (d)(3). Pub. L. 110–289, § 1151(3)(A), substituted “the regulated entity” for “the enterprise”.
 
-Subsec. (d)(4). Pub. L. 110–289, § 1151(3)(A), (4)(C), substituted “the regulated entity” for “the enterprise” and inserted “loan or” before “asset”.
+Subsec. (d)(4). Pub. L. 110–289, § 1151(3)(A), (4)(C), substituted “the regulated entity” for “the enterprise” and inserted “loan or” before “asset”.
 
-Subsec. (d)(5) to (7). Pub. L. 110–289, § 1151(3)(A), substituted “the regulated entity” for “the enterprise”.
+Subsec. (d)(5) to (7). Pub. L. 110–289, § 1151(3)(A), substituted “the regulated entity” for “the enterprise”.
 
-Subsec. (e). Pub. L. 110–289, § 1151(3)(A), (5), substituted “the regulated entity” for “the enterprise” in two places and inserted “or entity-affiliated party” before “or any executive” and before period at end.
+Subsec. (e). Pub. L. 110–289, § 1151(3)(A), (5), substituted “the regulated entity” for “the enterprise” in two places and inserted “or entity-affiliated party” before “or any executive” and before period at end.
 
-Subsec. (f). Pub. L. 110–289, § 1151(6), substituted “regulated entity, finance facility,” for “enterprise” and “director, or entity-affiliated party” for “or director”.
+Subsec. (f). Pub. L. 110–289, § 1151(6), substituted “regulated entity, finance facility,” for “enterprise” and “director, or entity-affiliated party” for “or director”.
 
-### § 4632. Temporary cease-and-desist orders
+### § 4632. Temporary cease-and-desist orders
 
 **(a) Grounds for issuance**
 
@@ -5767,25 +5767,25 @@ A regulated entity, executive officer, director, or entity-affiliated party that
 
 In the case of violation or threatened violation of, or failure to obey, a temporary order issued pursuant to this section, the Director may bring an action in the United States District Court for the District of Columbia for an injunction to enforce such order. If the court finds any such violation, threatened violation, or failure to obey, the court shall issue such injunction.
 
-(Pub. L. 102–550, title XIII, § 1372, Oct. 28, 1992, 106 Stat. 3988; Pub. L. 110–289, div. A, title I, § 1152, July 30, 2008, 122 Stat. 2769.)
+(Pub. L. 102–550, title XIII, § 1372, Oct. 28, 1992, 106 Stat. 3988; Pub. L. 110–289, div. A, title I, § 1152, July 30, 2008, 122 Stat. 2769.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1152(1), added subsec. (a) and struck out former subsec. (a) which related to grounds for issuance and scope of temporary cease-and-desist orders.
+2008—Subsec. (a). Pub. L. 110–289, § 1152(1), added subsec. (a) and struck out former subsec. (a) which related to grounds for issuance and scope of temporary cease-and-desist orders.
 
-Subsec. (b). Pub. L. 110–289, § 1152(2), substituted “director, or entity-affiliated party” for “or director” and “regulated entity” for “enterprise”.
+Subsec. (b). Pub. L. 110–289, § 1152(2), substituted “director, or entity-affiliated party” for “or director” and “regulated entity” for “enterprise”.
 
-Subsec. (c). Pub. L. 110–289, § 1152(3), substituted “regulated entity” for “enterprise” wherever appearing.
+Subsec. (c). Pub. L. 110–289, § 1152(3), substituted “regulated entity” for “enterprise” wherever appearing.
 
-Subsec. (d). Pub. L. 110–289, § 1152(4), substituted “A regulated entity” for “An enterprise” and “director, or entity-affiliated party” for “or director” in two places.
+Subsec. (d). Pub. L. 110–289, § 1152(4), substituted “A regulated entity” for “An enterprise” and “director, or entity-affiliated party” for “or director” in two places.
 
-Subsec. (e). Pub. L. 110–289, § 1152(5)(B), which directed the striking of “or may, under the direction and control of the Attorney General, bring such action”, was executed by striking “or may, under the direction and control of the Attorney General, bring such an action” after “such order” to reflect the probable intent of Congress.
+Subsec. (e). Pub. L. 110–289, § 1152(5)(B), which directed the striking of “or may, under the direction and control of the Attorney General, bring such action”, was executed by striking “or may, under the direction and control of the Attorney General, bring such an action” after “such order” to reflect the probable intent of Congress.
 
-Pub. L. 110–289, § 1152(5)(A), struck out “request the Attorney General of the United States to” after “Director may”.
+Pub. L. 110–289, § 1152(5)(A), struck out “request the Attorney General of the United States to” after “Director may”.
 
-### § 4633. Hearings
+### § 4633. Hearings
 
 **(a) Requirements**
 
@@ -5815,25 +5815,25 @@ After any such hearing, and within 90 days after the parties have been notified 
 
 Judicial review of any such order shall be exclusively as provided in section 4634 of this title. Unless such a petition for review is timely filed as provided in section 4634 of this title, and thereafter until the record in the proceeding has been filed as so provided, the Director may at any time, modify, terminate, or set aside any such order, upon such notice and in such manner as the Director considers proper. Upon such filing of the record, the Director may modify, terminate, or set aside any such order with permission of the court.
 
-(Pub. L. 102–550, title XIII, § 1373, Oct. 28, 1992, 106 Stat. 3989; Pub. L. 110–289, div. A, title I, § 1153(b)(1)(B), July 30, 2008, 122 Stat. 2774.)
+(Pub. L. 102–550, title XIII, § 1373, Oct. 28, 1992, 106 Stat. 3989; Pub. L. 110–289, div. A, title I, § 1153(b)(1)(B), July 30, 2008, 122 Stat. 2774.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–289, § 1153(b)(1)(B)(i), substituted “section 4631, 4636(c), or 4636a of this title” for “section 4631 or 4636(c) of this title”.
+2008—Subsec. (a)(1). Pub. L. 110–289, § 1153(b)(1)(B)(i), substituted “section 4631, 4636(c), or 4636a of this title” for “section 4631 or 4636(c) of this title”.
 
-Subsec. (a)(2). Pub. L. 110–289, § 1153(b)(1)(B)(ii), inserted “or 4636a” after “section 4631”.
+Subsec. (a)(2). Pub. L. 110–289, § 1153(b)(1)(B)(ii), inserted “or 4636a” after “section 4631”.
 
-Subsec. (a)(4). Pub. L. 110–289, § 1153(b)(1)(B)(iii), which directed amendment of par. (4) by inserting “or removal or prohibition” after “cease and desist”, was executed by making the insertion after “cease-and-desist” to reflect the probable intent of Congress.
+Subsec. (a)(4). Pub. L. 110–289, § 1153(b)(1)(B)(iii), which directed amendment of par. (4) by inserting “or removal or prohibition” after “cease and desist”, was executed by making the insertion after “cease-and-desist” to reflect the probable intent of Congress.
 
-### § 4634. Judicial review
+### § 4634. Judicial review
 
 **(a) Commencement**
 
-Any party to a proceeding under section 4631 1
+Any party to a proceeding under section 4631 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 4513b, 4636, or 4636a of this title may obtain review of any final order issued under this chapter by filing in the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the date of service of such order, a written petition praying that the order of the Director be modified, terminated, or set aside. The clerk of the court shall transmit a copy of the petition to the Director.
 
@@ -5857,7 +5857,7 @@ Such court shall have the authority in any such review to order payment of any p
 
 The commencement of proceedings for judicial review under this section shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Director.
 
-(Pub. L. 102–550, title XIII, § 1374, Oct. 28, 1992, 106 Stat. 3990; Pub. L. 110–289, div. A, title I, § 1153(b)(1)(C), July 30, 2008, 122 Stat. 2775.)
+(Pub. L. 102–550, title XIII, § 1374, Oct. 28, 1992, 106 Stat. 3990; Pub. L. 110–289, div. A, title I, § 1153(b)(1)(C), July 30, 2008, 122 Stat. 2775.)
 
 **Editorial Notes**
 
@@ -5869,7 +5869,7 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 2008—Subsec. (a). Pub. L. 110–289 substituted “4513b, 4636, or 4636a of this title” for “or 4636 of this title” and “this chapter” for “such section”.
 
-### § 4635. Enforcement and jurisdiction
+### § 4635. Enforcement and jurisdiction
 
 **(a) Enforcement**
 
@@ -5877,27 +5877,27 @@ The Director may, in the discretion of the Director, apply to the United States 
 
 **(b) Limitation on jurisdiction**
 
-Except as otherwise provided in this subchapter and sections 4619 1
+Except as otherwise provided in this subchapter and sections 4619 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and 4623 of this title, no court shall have jurisdiction to affect, by injunction or otherwise, the issuance or enforcement of any notice or order under section 4631, 4632, 4513b, 4636, or 4636a of this title, or subchapter II, or to review, modify, suspend, terminate, or set aside any such notice or order.
 
-(Pub. L. 102–550, title XIII, § 1375, Oct. 28, 1992, 106 Stat. 3990; Pub. L. 110–289, div. A, title I, § 1154, July 30, 2008, 122 Stat. 2775.)
+(Pub. L. 102–550, title XIII, § 1375, Oct. 28, 1992, 106 Stat. 3990; Pub. L. 110–289, div. A, title I, § 1154, July 30, 2008, 122 Stat. 2775.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4619 of this title, referred to in subsec. (b), was repealed by Pub. L. 110–289, div. A, title I, § 1145(b)(4), July 30, 2008, 122 Stat. 2767.
+Section 4619 of this title, referred to in subsec. (b), was repealed by Pub. L. 110–289, div. A, title I, § 1145(b)(4), July 30, 2008, 122 Stat. 2767.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1154(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director may request the Attorney General of the United States to bring an action in the United States District Court for the District of Columbia for the enforcement of any effective notice or order issued under this subchapter or subchapter II of this chapter or may, under the direction and control of the Attorney General, bring such an action. Such court shall have jurisdiction and power to order and require compliance herewith.”
+2008—Subsec. (a). Pub. L. 110–289, § 1154(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director may request the Attorney General of the United States to bring an action in the United States District Court for the District of Columbia for the enforcement of any effective notice or order issued under this subchapter or subchapter II of this chapter or may, under the direction and control of the Attorney General, bring such an action. Such court shall have jurisdiction and power to order and require compliance herewith.”
 
-Subsec. (b). Pub. L. 110–289, § 1154(2), substituted “4513b, 4636, or 4636a of this title” for “or 4636 of this title”.
+Subsec. (b). Pub. L. 110–289, § 1154(2), substituted “4513b, 4636, or 4636a of this title” for “or 4636 of this title”.
 
-### § 4636. Civil money penalties
+### § 4636. Civil money penalties
 
 **(a) In general**
 
@@ -5993,7 +5993,7 @@ The Director shall deposit any civil money penalties collected under this sectio
 
 A penalty under this section may be imposed only for conduct or violations under subsection (a) occurring after October 28, 1992.
 
-(Pub. L. 102–550, title XIII, § 1376, Oct. 28, 1992, 106 Stat. 3991; Pub. L. 110–289, div. A, title I, § 1155, July 30, 2008, 122 Stat. 2775.)
+(Pub. L. 102–550, title XIII, § 1376, Oct. 28, 1992, 106 Stat. 3991; Pub. L. 110–289, div. A, title I, § 1155, July 30, 2008, 122 Stat. 2775.)
 
 **Editorial Notes**
 
@@ -6003,25 +6003,25 @@ This chapter, referred to in subsec. (b)(1)(A), (B), was in the original “this
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1155(1), added subsec. (a) and struck out former subsec. (a) which related to violations or conduct for which the Director could impose a civil money penalty in accordance with this section.
+2008—Subsec. (a). Pub. L. 110–289, § 1155(1), added subsec. (a) and struck out former subsec. (a) which related to violations or conduct for which the Director could impose a civil money penalty in accordance with this section.
 
-Subsec. (b). Pub. L. 110–289, § 1155(2), added subsec. (b) and struck out former subsec. (b) which related to the amount of penalty the Director could impose for violations or conduct described in former subsection (a).
+Subsec. (b). Pub. L. 110–289, § 1155(2), added subsec. (b) and struck out former subsec. (b) which related to the amount of penalty the Director could impose for violations or conduct described in former subsection (a).
 
-Subsec. (c)(1)(A). Pub. L. 110–289, § 1155(3)(A), (B), substituted “regulated entity” for “enterprise” and inserted “or entity-affiliated party” before “in writing”.
+Subsec. (c)(1)(A). Pub. L. 110–289, § 1155(3)(A), (B), substituted “regulated entity” for “enterprise” and inserted “or entity-affiliated party” before “in writing”.
 
-Subsec. (c)(1)(B). Pub. L. 110–289, § 1155(3)(A), (C), substituted “regulated entity” for “enterprise” and inserted “or entity-affiliated party” before “has been given”.
+Subsec. (c)(1)(B). Pub. L. 110–289, § 1155(3)(A), (C), substituted “regulated entity” for “enterprise” and inserted “or entity-affiliated party” before “has been given”.
 
-Subsec. (c)(2). Pub. L. 110–289, § 1155(3)(A), substituted “regulated entity” for “enterprise”.
+Subsec. (c)(2). Pub. L. 110–289, § 1155(3)(A), substituted “regulated entity” for “enterprise”.
 
-Subsec. (d). Pub. L. 110–289, § 1155(4)(G), struck out “and section 4634 of this title” after “subsection (c)(1)”.
+Subsec. (d). Pub. L. 110–289, § 1155(4)(G), struck out “and section 4634 of this title” after “subsection (c)(1)”.
 
-Pub. L. 110–289, § 1155(4)(F), which directed the striking out of “, or may, under the direction and control of the Attorney General of the United States, bring such an action”, was executed by striking out “, or may, under the direction and control of the Attorney General, bring such an action” after “may be available”, to reflect the probable intent of Congress.
+Pub. L. 110–289, § 1155(4)(F), which directed the striking out of “, or may, under the direction and control of the Attorney General of the United States, bring such an action”, was executed by striking out “, or may, under the direction and control of the Attorney General, bring such an action” after “may be available”, to reflect the probable intent of Congress.
 
-Pub. L. 110–289, § 1155(4)(A)–(E), substituted “director, or entity-affiliated party” for “or director” in two places, “a regulated entity” for “an enterprise”, and “the regulated entity” for “the enterprise”, inserted “, or the United States district court within the jurisdiction of which the headquarters of the regulated entity is located,” after “District of Columbia”, and struck out “request the Attorney General of the United States to” after “Director may”.
+Pub. L. 110–289, § 1155(4)(A)–(E), substituted “director, or entity-affiliated party” for “or director” in two places, “a regulated entity” for “an enterprise”, and “the regulated entity” for “the enterprise”, inserted “, or the United States district court within the jurisdiction of which the headquarters of the regulated entity is located,” after “District of Columbia”, and struck out “request the Attorney General of the United States to” after “Director may”.
 
-Subsec. (g). Pub. L. 110–289, § 1155(5), substituted “A regulated entity” for “An enterprise”.
+Subsec. (g). Pub. L. 110–289, § 1155(5), substituted “A regulated entity” for “An enterprise”.
 
-### § 4636a. Removal and prohibition authority
+### § 4636a. Removal and prohibition authority
 
 **(a) Authority to issue order**
 
@@ -6205,7 +6205,7 @@ Not later than 60 days after the date of a hearing under subparagraph (B), the D
 
 The Director is authorized to prescribe such rules as may be necessary to carry out this subsection.
 
-(Pub. L. 102–550, title XIII, § 1377, as added Pub. L. 110–289, div. A, title I, § 1153(a)(2), July 30, 2008, 122 Stat. 2770.)
+(Pub. L. 102–550, title XIII, § 1377, as added Pub. L. 110–289, div. A, title I, § 1153(a)(2), July 30, 2008, 122 Stat. 2770.)
 
 **Editorial Notes**
 
@@ -6213,11 +6213,11 @@ The Director is authorized to prescribe such rules as may be necessary to carry 
 
 A prior section 1377 of Pub. L. 102–550 was renumbered section 1379 and is classified to section 4637 of this title.
 
-### § 4636b. Criminal penalty
+### § 4636b. Criminal penalty
 
 Whoever, being subject to an order in effect under section 4636a of this title, without the prior written approval of the Director, knowingly participates, directly or indirectly, in any manner (including by engaging in an activity specifically prohibited in such an order) in the conduct of the affairs of any regulated entity shall, notwithstanding section 3571 of title 18, be fined not more than $1,000,000, imprisoned for not more than 5 years, or both.
 
-(Pub. L. 102–550, title XIII, § 1378, as added Pub. L. 110–289, div. A, title I, § 1156(a), July 30, 2008, 122 Stat. 2777.)
+(Pub. L. 102–550, title XIII, § 1378, as added Pub. L. 110–289, div. A, title I, § 1156(a), July 30, 2008, 122 Stat. 2777.)
 
 **Editorial Notes**
 
@@ -6225,11 +6225,11 @@ Whoever, being subject to an order in effect under section 4636a of this title, 
 
 A prior section 1378 of Pub. L. 102–550 was renumbered section 1379A and is classified to section 4638 of this title.
 
-### § 4637. Notice after separation from service
+### § 4637. Notice after separation from service
 
 The resignation, termination of employment or participation, or separation of an entity-affiliated party shall not affect the jurisdiction and authority of the Director to issue any notice and proceed under this subchapter against any such entity-affiliated party, if such notice is served before the end of the 6-year period beginning on the date such entity-affiliated party ceases to be associated with the regulated entity.
 
-(Pub. L. 102–550, title XIII, § 1379, formerly § 1377, Oct. 28, 1992, 106 Stat. 3992; renumbered § 1379 and amended Pub. L. 110–289, div. A, title I, §§ 1153(a)(1), 1156(b)(1), 1157, July 30, 2008, 122 Stat. 2770, 2777.)
+(Pub. L. 102–550, title XIII, § 1379, formerly § 1377, Oct. 28, 1992, 106 Stat. 3992; renumbered § 1379 and amended Pub. L. 110–289, div. A, title I, §§ 1153(a)(1), 1156(b)(1), 1157, July 30, 2008, 122 Stat. 2770, 2777.)
 
 **Editorial Notes**
 
@@ -6239,21 +6239,21 @@ A prior section 1379 of Pub. L. 102–550 was renumbered section 1379B and is cl
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1157(4), which directed the substitution of “regulated entity.” for “enterprise.” could not be executed because of the prior amendment by Pub. L. 110–289, § 1156(b)(1). See below.
+2008—Pub. L. 110–289, § 1157(4), which directed the substitution of “regulated entity.” for “enterprise.” could not be executed because of the prior amendment by Pub. L. 110–289, § 1156(b)(1). See below.
 
-Pub. L. 110–289, § 1157(3), which directed the substitution of “entity-affiliated party” for “director or officer” wherever appearing, was executed by making the substitution for “director or executive officer” in two places, to reflect the probable intent of Congress.
+Pub. L. 110–289, § 1157(3), which directed the substitution of “entity-affiliated party” for “director or officer” wherever appearing, was executed by making the substitution for “director or executive officer” in two places, to reflect the probable intent of Congress.
 
-Pub. L. 110–289, § 1157(2), which directed the substitution of “an entity-affiliated party” for “a director or executive officer of an enterprise”, was executed by making the substitution for “a director or executive officer of a regulated entity”, to reflect the probable intent of Congress and the prior amendment by Pub. L. 110–289, § 1156(b)(1). See below.
+Pub. L. 110–289, § 1157(2), which directed the substitution of “an entity-affiliated party” for “a director or executive officer of an enterprise”, was executed by making the substitution for “a director or executive officer of a regulated entity”, to reflect the probable intent of Congress and the prior amendment by Pub. L. 110–289, § 1156(b)(1). See below.
 
-Pub. L. 110–289, § 1157(1), substituted “6-year” for “2-year”.
+Pub. L. 110–289, § 1157(1), substituted “6-year” for “2-year”.
 
-Pub. L. 110–289, § 1156(b)(1), substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise”.
+Pub. L. 110–289, § 1156(b)(1), substituted “a regulated entity” for “an enterprise” and “the regulated entity” for “the enterprise”.
 
-### § 4638. Private rights of action
+### § 4638. Private rights of action
 
 This chapter shall not create any private right of action on behalf of any person against a regulated entity, or any director or executive officer of a regulated entity, or impair any existing private right of action under other applicable law.
 
-(Pub. L. 102–550, title XIII, § 1379A, formerly § 1378, Oct. 28, 1992, 106 Stat. 3993; renumbered § 1379A and amended Pub. L. 110–289, div. A, title I, §§ 1153(a)(1), 1156(b)(2), July 30, 2008, 122 Stat. 2770, 2777.)
+(Pub. L. 102–550, title XIII, § 1379A, formerly § 1378, Oct. 28, 1992, 106 Stat. 3993; renumbered § 1379A and amended Pub. L. 110–289, div. A, title I, §§ 1153(a)(1), 1156(b)(2), July 30, 2008, 122 Stat. 2770, 2777.)
 
 **Editorial Notes**
 
@@ -6267,9 +6267,9 @@ A prior section 1379A of Pub. L. 102–550 was renumbered section 1379C and is c
 
 **Amendments**
 
-2008—Pub. L. 110–289, § 1156(b)(2), which directed substitution of “a regulated entity” for “an enterprise”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+2008—Pub. L. 110–289, § 1156(b)(2), which directed substitution of “a regulated entity” for “an enterprise”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-### § 4639. Public disclosure of final orders and agreements
+### § 4639. Public disclosure of final orders and agreements
 
 **(a) In general** The Director shall make available to the public—
 
@@ -6299,7 +6299,7 @@ The Director shall keep and maintain a record, for not less than 6 years, of all
 
 This section may not be construed to authorize the withholding, or to prohibit the disclosure, of any information to the Congress or any committee or subcommittee thereof.
 
-(Pub. L. 102–550, title XIII, § 1379B, formerly § 1379, Oct. 28, 1992, 106 Stat. 3993; renumbered § 1379B and amended Pub. L. 110–289, div. A, title I, §§ 1153(a)(1), 1156(b)(3), July 30, 2008, 122 Stat. 2770, 2777.)
+(Pub. L. 102–550, title XIII, § 1379B, formerly § 1379, Oct. 28, 1992, 106 Stat. 3993; renumbered § 1379B and amended Pub. L. 110–289, div. A, title I, §§ 1153(a)(1), 1156(b)(3), July 30, 2008, 122 Stat. 2770, 2777.)
 
 **Editorial Notes**
 
@@ -6309,15 +6309,15 @@ A prior section 1379B of Pub. L. 102–550 was renumbered section 1379D and is c
 
 **Amendments**
 
-2008—Subsec. (c). Pub. L. 110–289, § 1156(b)(3), substituted “regulated entity” for “enterprise”.
+2008—Subsec. (c). Pub. L. 110–289, § 1156(b)(3), substituted “regulated entity” for “enterprise”.
 
-### § 4640. Notice of service
+### § 4640. Notice of service
 
 Any service required or authorized to be made by the Director under this subchapter may be made by registered mail, or in such other manner reasonably calculated to give actual notice as the Director may by regulation or otherwise provide.
 
-(Pub. L. 102–550, title XIII, § 1379C, formerly § 1379A, Oct. 28, 1992, 106 Stat. 3993; renumbered § 1379C, Pub. L. 110–289, div. A, title I, § 1153(a)(1), July 30, 2008, 122 Stat. 2770.)
+(Pub. L. 102–550, title XIII, § 1379C, formerly § 1379A, Oct. 28, 1992, 106 Stat. 3993; renumbered § 1379C, Pub. L. 110–289, div. A, title I, § 1153(a)(1), July 30, 2008, 122 Stat. 2770.)
 
-### § 4641. Subpoena authority
+### § 4641. Subpoena authority
 
 **(a) In general** In the course of or in connection with any proceeding, examination, or investigation under this chapter, the Director or any designated representative thereof, including any person designated to conduct any hearing under this subchapter shall have the authority—
 
@@ -6345,9 +6345,9 @@ The courts described under paragraph (1) shall have the jurisdiction and power t
 
 **(d) Fees and expenses**
 
-Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. Any court having jurisdiction of any proceeding instituted under this section by an regulated entity enterprise-affiliated party 1
+Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. Any court having jurisdiction of any proceeding instituted under this section by an regulated entity enterprise-affiliated party 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 may allow to any such party such reasonable expenses and attorneys fees as the court deems just and proper. Such expenses and fees shall be paid by the regulated entity or from its assets.
 
@@ -6361,7 +6361,7 @@ may allow to any such party such reasonable expenses and attorneys fees as the c
 
 **(4)** produce books, papers, correspondence, contracts, agreements, or such other records as requested in the subpoena.
 
-(Pub. L. 102–550, title XIII, § 1379D, formerly § 1379B, Oct. 28, 1992, 106 Stat. 3994; renumbered § 1379D and amended Pub. L. 110–289, div. A, title I, §§ 1153(a)(1), 1156(b)(4), 1158, July 30, 2008, 122 Stat. 2770, 2777, 2778.)
+(Pub. L. 102–550, title XIII, § 1379D, formerly § 1379B, Oct. 28, 1992, 106 Stat. 3994; renumbered § 1379D and amended Pub. L. 110–289, div. A, title I, §§ 1153(a)(1), 1156(b)(4), 1158, July 30, 2008, 122 Stat. 2770, 2777, 2778.)
 
 **Editorial Notes**
 
@@ -6371,25 +6371,25 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 **Codification**
 
-Pub. L. 110–289, § 1158, which directed amendment of section “1379B of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4641)”, was executed to this section, which is section 1379D, formerly section 1379B, of the Act, to reflect the probable intent of Congress and the renumbering by Pub. L. 110–289, § 1153(a)(1). See 2008 Amendment notes below.
+Pub. L. 110–289, § 1158, which directed amendment of section “1379B of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4641)”, was executed to this section, which is section 1379D, formerly section 1379B, of the Act, to reflect the probable intent of Congress and the renumbering by Pub. L. 110–289, § 1153(a)(1). See 2008 Amendment notes below.
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–289, § 1158(a)(1)(A), in introductory provisions, struck out “administrative” after “with any”, inserted “, examination, or investigation” after “proceeding”, substituted “chapter” for “subchapter”, and inserted “or any designated representative thereof, including any person designated to conduct any hearing under this subchapter” after “Director”. See Codification note above.
+2008—Subsec. (a). Pub. L. 110–289, § 1158(a)(1)(A), in introductory provisions, struck out “administrative” after “with any”, inserted “, examination, or investigation” after “proceeding”, substituted “chapter” for “subchapter”, and inserted “or any designated representative thereof, including any person designated to conduct any hearing under this subchapter” after “Director”. See Codification note above.
 
-Subsec. (a)(4). Pub. L. 110–289, § 1158(a)(1)(B), struck out “issued by the Director” before period at end. See Codification note above.
+Subsec. (a)(4). Pub. L. 110–289, § 1158(a)(1)(B), struck out “issued by the Director” before period at end. See Codification note above.
 
-Subsec. (b). Pub. L. 110–289, § 1158(a)(2), inserted “or in any territory or other place subject to the jurisdiction of the United States” after “State”. See Codification note above.
+Subsec. (b). Pub. L. 110–289, § 1158(a)(2), inserted “or in any territory or other place subject to the jurisdiction of the United States” after “State”. See Codification note above.
 
-Subsec. (c). Pub. L. 110–289, § 1158(a)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Director may request the Attorney General of the United States to bring an action in the United States district court for the judicial district in which such proceeding is being conducted, or where the witness resides or conducts business, or the United States District Court for the District of Columbia, for enforcement of any subpoena or subpoena duces tecum issued pursuant to this section or may, under the direction and control of the Attorney General, bring such an action. Such courts shall have jurisdiction and power to order and require compliance therewith.” See Codification note above.
+Subsec. (c). Pub. L. 110–289, § 1158(a)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Director may request the Attorney General of the United States to bring an action in the United States district court for the judicial district in which such proceeding is being conducted, or where the witness resides or conducts business, or the United States District Court for the District of Columbia, for enforcement of any subpoena or subpoena duces tecum issued pursuant to this section or may, under the direction and control of the Attorney General, bring such an action. Such courts shall have jurisdiction and power to order and require compliance therewith.” See Codification note above.
 
-Subsec. (d). Pub. L. 110–289, § 1158(a)(4), inserted “enterprise-affiliated party” before “may allow”. See Codification note above.
+Subsec. (d). Pub. L. 110–289, § 1158(a)(4), inserted “enterprise-affiliated party” before “may allow”. See Codification note above.
 
-Pub. L. 110–289, § 1156(b)(4), which directed substitution of “regulated entity” for “enterprise”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+Pub. L. 110–289, § 1156(b)(4), which directed substitution of “regulated entity” for “enterprise”, was executed by making the substitution in two places to reflect the probable intent of Congress.
 
-Subsec. (e). Pub. L. 110–289, § 1158(a)(5), added subsec. (e). See Codification note above.
+Subsec. (e). Pub. L. 110–289, § 1158(a)(5), added subsec. (e). See Codification note above.
 
-### § 4642. Reporting of fraudulent loans
+### § 4642. Reporting of fraudulent loans
 
 **(a) Requirement to report**
 
@@ -6399,4 +6399,4 @@ The Director shall require a regulated entity to submit to the Director a timely
 
 Any regulated entity that, in good faith, makes a report pursuant to subsection (a), and any entity-affiliated party, that, in good faith, makes or requires another to make any such report, shall not be liable to any person under any provision of law or regulation, any constitution, law, or regulation of any State or political subdivision of any State, or under any contract or other legally enforceable agreement (including any arbitration agreement) for such report or for any failure to provide notice of such report to the person who is the subject of such report or any other persons identified in the report.
 
-(Pub. L. 102–550, title XIII, § 1379E, as added Pub. L. 110–289, div. A, title I, § 1115, July 30, 2008, 122 Stat. 2681.)
+(Pub. L. 102–550, title XIII, § 1379E, as added Pub. L. 110–289, div. A, title I, § 1115, July 30, 2008, 122 Stat. 2681.)

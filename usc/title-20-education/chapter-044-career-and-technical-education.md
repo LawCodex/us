@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Codification**
 
-The Carl D. Perkins Career and Technical Education Act of 2006, comprising this chapter, was originally enacted as part A of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, known as the Vocational Education Act of 1963, and classified to sections 35 to 35n of this title. Part A of Pub. L. 88–210 was subsequently redesignated as title I and amended generally by Pub. L. 90–576, title I, § 101, Oct. 16, 1968, 82 Stat. 1064, further amended by Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 121; Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 93–567, Dec. 31, 1974, 88 Stat. 1845; Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 713; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375, and reclassified to chapter 32 (§§ 1241–1393f) of this title. Title I of Pub. L. 88–210 was subsequently amended generally by Pub. L. 94–482, title II, § 202(a), Oct. 12, 1976, 90 Stat. 2169, and reclassified to this chapter. Pub. L. 88–210 was subsequently amended by Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2435, by striking out all after the enacting clause and inserting in lieu thereof titles I to V (§§ 1–521), to be cited as the Carl D. Perkins Vocational Education Act, and further amended by Pub. L. 99–159, Nov. 22, 1985, 99 Stat. 887; Pub. L. 99–357, July 8, 1986, 100 Stat. 761; Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329; Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130; Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1107. Pub. L. 88–210 was subsequently extensively amended by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, including an amendment to provide that the Act be cited as the Carl D. Perkins Vocational and Applied Technology Education Act, and was further amended by Pub. L. 101–476, Oct. 30, 1990, 104 Stat. 1103; Pub. L. 102–103, Aug. 17, 1991, 105 Stat. 497; Pub. L. 102–367, Sept. 7, 1992, 106 Stat. 1021; Pub. L. 103–208, Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125; Pub. L. 103–239, May 4, 1994, 108 Stat. 568; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518; Pub. L. 104–66, Dec. 21, 1995, 109 Stat. 707; Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105; Pub. L. 105–244, Oct. 7, 1998, 112 Stat. 1581. Pub. L. 88–210 was subsequently amended generally by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076, including an amendment to provide that the Act be cited as the Carl D. Perkins Vocational and Technical Education Act of 1998, and was further amended by Pub. L. 106–246, July 13, 2000, 114 Stat. 511; Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763; Pub. L. 107–20, July 24, 2001, 115 Stat. 155; Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425. Pub. L. 88–210 was subsequently amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, including an amendment to provide that the Act be cited as the Carl D. Perkins Career and Technical Education Act of 2006. Pub. L. 88–210 is shown herein, however, as having been added by Pub. L. 109–270 without reference to the intervening amendments listed above because of the extensive revision of Pub. L. 88–210 by Pub. L. 109–270.
+The Carl D. Perkins Career and Technical Education Act of 2006, comprising this chapter, was originally enacted as part A of Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, known as the Vocational Education Act of 1963, and classified to sections 35 to 35n of this title. Part A of Pub. L. 88–210 was subsequently redesignated as title I and amended generally by Pub. L. 90–576, title I, § 101, Oct. 16, 1968, 82 Stat. 1064, further amended by Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 121; Pub. L. 92–318, June 23, 1972, 86 Stat. 235; Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484; Pub. L. 93–567, Dec. 31, 1974, 88 Stat. 1845; Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 713; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375, and reclassified to chapter 32 (§§ 1241–1393f) of this title. Title I of Pub. L. 88–210 was subsequently amended generally by Pub. L. 94–482, title II, § 202(a), Oct. 12, 1976, 90 Stat. 2169, and reclassified to this chapter. Pub. L. 88–210 was subsequently amended by Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2435, by striking out all after the enacting clause and inserting in lieu thereof titles I to V (§§ 1–521), to be cited as the Carl D. Perkins Vocational Education Act, and further amended by Pub. L. 99–159, Nov. 22, 1985, 99 Stat. 887; Pub. L. 99–357, July 8, 1986, 100 Stat. 761; Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329; Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 130; Pub. L. 100–418, Aug. 23, 1988, 102 Stat. 1107. Pub. L. 88–210 was subsequently extensively amended by Pub. L. 101–392, Sept. 25, 1990, 104 Stat. 753, including an amendment to provide that the Act be cited as the Carl D. Perkins Vocational and Applied Technology Education Act, and was further amended by Pub. L. 101–476, Oct. 30, 1990, 104 Stat. 1103; Pub. L. 102–103, Aug. 17, 1991, 105 Stat. 497; Pub. L. 102–367, Sept. 7, 1992, 106 Stat. 1021; Pub. L. 103–208, Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125; Pub. L. 103–239, May 4, 1994, 108 Stat. 568; Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 3518; Pub. L. 104–66, Dec. 21, 1995, 109 Stat. 707; Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2105; Pub. L. 105–244, Oct. 7, 1998, 112 Stat. 1581. Pub. L. 88–210 was subsequently amended generally by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076, including an amendment to provide that the Act be cited as the Carl D. Perkins Vocational and Technical Education Act of 1998, and was further amended by Pub. L. 106–246, July 13, 2000, 114 Stat. 511; Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763; Pub. L. 107–20, July 24, 2001, 115 Stat. 155; Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425. Pub. L. 88–210 was subsequently amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, including an amendment to provide that the Act be cited as the Carl D. Perkins Career and Technical Education Act of 2006. Pub. L. 88–210 is shown herein, however, as having been added by Pub. L. 109–270 without reference to the intervening amendments listed above because of the extensive revision of Pub. L. 88–210 by Pub. L. 109–270.
 
-## § 2301. Purpose
+## § 2301. Purpose
 
 The purpose of this chapter is to develop more fully the academic knowledge and technical and employability skills of secondary education students and postsecondary education students who elect to enroll in career and technical education programs and programs of study, by—
 
@@ -45,65 +45,65 @@ The purpose of this chapter is to develop more fully the academic knowledge and 
 
 **(8)** increasing the employment opportunities for populations who are chronically unemployed or underemployed, including individuals with disabilities, individuals from economically disadvantaged families, out-of-workforce individuals, youth who are in, or have aged out of, the foster care system, and homeless individuals.
 
-(Pub. L. 88–210, § 2, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 684; amended Pub. L. 115–224, § 6, July 31, 2018, 132 Stat. 1565.)
+(Pub. L. 88–210, § 2, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 684; amended Pub. L. 115–224, § 6, July 31, 2018, 132 Stat. 1565.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2301, Pub. L. 88–210, § 2, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3077, stated purpose of this chapter, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2301, Pub. L. 88–210, § 2, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3077, stated purpose of this chapter, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2301, Pub. L. 88–210, § 2, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 101–392, § 2, Sept. 25, 1990, 104 Stat. 756, stated purpose of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2301, Pub. L. 88–210, § 2, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 101–392, § 2, Sept. 25, 1990, 104 Stat. 756, stated purpose of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
-2018—Pub. L. 115–224, § 6(1), in introductory provisions, substituted “academic knowledge and technical and employability skills” for “academic and career and technical skills” and inserted “and programs of study” after “technical education programs”.
+2018—Pub. L. 115–224, § 6(1), in introductory provisions, substituted “academic knowledge and technical and employability skills” for “academic and career and technical skills” and inserted “and programs of study” after “technical education programs”.
 
-Par. (1). Pub. L. 115–224, § 6(2), substituted “in-demand occupations” for “high demand occupations”.
+Par. (1). Pub. L. 115–224, § 6(2), substituted “in-demand occupations” for “high demand occupations”.
 
-Par. (3). Pub. L. 115–224, § 6(3), struck out “, including tech prep education” after “technical education”.
+Par. (3). Pub. L. 115–224, § 6(3), struck out “, including tech prep education” after “technical education”.
 
-Par. (4). Pub. L. 115–224, § 6(4), inserted “and programs of study” after “technical education programs”.
+Par. (4). Pub. L. 115–224, § 6(4), inserted “and programs of study” after “technical education programs”.
 
-Par. (8). Pub. L. 115–224, § 6(5)–(7), added par. (8).
+Par. (8). Pub. L. 115–224, § 6(5)–(7), added par. (8).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–224, § 4, July 31, 2018, 132 Stat. 1564, provided that: “This Act [see Short Title of 2018 Amendment note below], and the amendments made by this Act, shall take effect beginning on July 1, 2019.”
+Pub. L. 115–224, § 4, July 31, 2018, 132 Stat. 1564, provided that: “This Act [see Short Title of 2018 Amendment note below], and the amendments made by this Act, shall take effect beginning on July 1, 2019.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–224, § 1, July 31, 2018, 132 Stat. 1563, provided that: “This Act [enacting section 2399 of this title, amending numerous sections throughout this chapter, sections 6311, 7425, and 7544 of this title, and sections 49*l*–2 and 3174 of Title 29 Labor, repealing subchapter II of this chapter, and enacting provisions set out as a note under this section] may be cited as the ‘Strengthening Career and Technical Education for the 21st Century Act’.”
+Pub. L. 115–224, § 1, July 31, 2018, 132 Stat. 1563, provided that: “This Act [enacting section 2399 of this title, amending numerous sections throughout this chapter, sections 6311, 7425, and 7544 of this title, and sections 49*l*–2 and 3174 of Title 29 Labor, repealing subchapter II of this chapter, and enacting provisions set out as a note under this section] may be cited as the ‘Strengthening Career and Technical Education for the 21st Century Act’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–270, § 1(a), Aug. 12, 2006, 120 Stat. 683, provided that: “This Act [see Tables for classification] may be cited as the ‘Carl D. Perkins Career and Technical Education Improvement Act of 2006’.”
+Pub. L. 109–270, § 1(a), Aug. 12, 2006, 120 Stat. 683, provided that: “This Act [see Tables for classification] may be cited as the ‘Carl D. Perkins Career and Technical Education Improvement Act of 2006’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–332, § 1(a), Oct. 31, 1998, 112 Stat. 3076, provided that: “This Act [see Tables for classification] may be cited as the ‘Carl D. Perkins Vocational and Applied Technology Education Amendments of 1998’.”
+Pub. L. 105–332, § 1(a), Oct. 31, 1998, 112 Stat. 3076, provided that: “This Act [see Tables for classification] may be cited as the ‘Carl D. Perkins Vocational and Applied Technology Education Amendments of 1998’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–392, § 1(a), Sept. 25, 1990, 104 Stat. 753, provided that: “This Act [see Tables for classification] may be cited as the ‘Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990’.”
+Pub. L. 101–392, § 1(a), Sept. 25, 1990, 104 Stat. 753, provided that: “This Act [see Tables for classification] may be cited as the ‘Carl D. Perkins Vocational and Applied Technology Education Act Amendments of 1990’.”
 
 **Short Title of 1968 Amendment**
 
-Pub. L. 90–576, § 1, Oct. 16, 1968, 82 Stat. 1064, provided that: “This Act [enacting sections 6, 1119c to 1119c–4, 1226, 1241 to 1248, 1261 to 1264, 1281 to 1284, 1301 to 1305, 1321 to 1323, 1341, 1351 to 1355, 1371 to 1374, and 1391 of this title, amending sections 237, 237 note, 238, 239, 240, 241, 403, 421, 422, 423, 423 note, 425, 425 note, 426, 441, 442, 442 note, 443, 444, 462, 464, 481, 482, 482 note, 483, 484, 491, 511, 521, 541, 551, 561, 563, 588, 589, 611, 633, 644, 645, 1202, and 1221 of this title, repealing sections 15i, 15i note, 15j to 15q, 15aa to 15jj, 15aaa to 15ggg, 30, 31 to 33, and 34 of this title and section 1667 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 6, 11, 240, 886, 1202, 1321, and 2301 of this title and section 2809 of Title 42, The Public Health and Welfare may be cited as the ‘Vocational Education Amendments of 1968’.”
+Pub. L. 90–576, § 1, Oct. 16, 1968, 82 Stat. 1064, provided that: “This Act [enacting sections 6, 1119c to 1119c–4, 1226, 1241 to 1248, 1261 to 1264, 1281 to 1284, 1301 to 1305, 1321 to 1323, 1341, 1351 to 1355, 1371 to 1374, and 1391 of this title, amending sections 237, 237 note, 238, 239, 240, 241, 403, 421, 422, 423, 423 note, 425, 425 note, 426, 441, 442, 442 note, 443, 444, 462, 464, 481, 482, 482 note, 483, 484, 491, 511, 521, 541, 551, 561, 563, 588, 589, 611, 633, 644, 645, 1202, and 1221 of this title, repealing sections 15i, 15i note, 15j to 15q, 15aa to 15jj, 15aaa to 15ggg, 30, 31 to 33, and 34 of this title and section 1667 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under sections 6, 11, 240, 886, 1202, 1321, and 2301 of this title and section 2809 of Title 42, The Public Health and Welfare may be cited as the ‘Vocational Education Amendments of 1968’.”
 
 **Short Title**
 
-Pub. L. 88–210, § 1(a), as added by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, provided that: “This Act [enacting this chapter] may be cited as the ‘Carl D. Perkins Career and Technical Education Act of 2006’.”
+Pub. L. 88–210, § 1(a), as added by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, provided that: “This Act [enacting this chapter] may be cited as the ‘Carl D. Perkins Career and Technical Education Act of 2006’.”
 
-Pub. L. 88–210, title II, § 201, as added by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3117, which provided that title II of Pub. L. 88–210, enacting subchapter II of this chapter, could be cited as the “Tech-Prep Education Act”, was omitted in the general amendment of Pub. L. 88–210 by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683.
+Pub. L. 88–210, title II, § 201, as added by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3117, which provided that title II of Pub. L. 88–210, enacting subchapter II of this chapter, could be cited as the “Tech-Prep Education Act”, was omitted in the general amendment of Pub. L. 88–210 by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683.
 
 **Vocational Education Policy**
 
-Pub. L. 98–524, § 6, Oct. 19, 1984, 98 Stat. 2491, provided that: “It is the sense of the Congress that effective vocational education programs are essential to our future as a free and democratic society; that such programs are best administered by local communities, and community colleges school boards, where the primacy of parental control can be emphasized with a minimum of Federal interference; and that as a means to strengthening vocational education and training programs, nongovernmental alternatives promoting links between public school needs and private sector sources of support should be encouraged and implemented.”
+Pub. L. 98–524, § 6, Oct. 19, 1984, 98 Stat. 2491, provided that: “It is the sense of the Congress that effective vocational education programs are essential to our future as a free and democratic society; that such programs are best administered by local communities, and community colleges school boards, where the primacy of parental control can be emphasized with a minimum of Federal interference; and that as a means to strengthening vocational education and training programs, nongovernmental alternatives promoting links between public school needs and private sector sources of support should be encouraged and implemented.”
 
-## § 2302. Definitions
+## § 2302. Definitions
 
 Unless otherwise specified, in this chapter:
 
@@ -555,107 +555,107 @@ The term “universal design for learning” has the meaning given the term in s
 
 The term “work-based learning” means sustained interactions with industry or community professionals in real workplace settings, to the extent practicable, or simulated environments at an educational institution that foster in-depth, firsthand engagement with the tasks required in a given career field, that are aligned to curriculum and instruction.
 
-(Pub. L. 88–210, § 3, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 685; amended Pub. L. 110–315, title IX, § 941(k)(2)(D)(i), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 114–95, title IX, § 9215(n)(1), Dec. 10, 2015, 129 Stat. 2168; Pub. L. 115–224, § 7, July 31, 2018, 132 Stat. 1565; Pub. L. 116–6, div. H, title II, § 201(a), Feb. 15, 2019, 133 Stat. 475.)
+(Pub. L. 88–210, § 3, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 685; amended Pub. L. 110–315, title IX, § 941(k)(2)(D)(i), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 114–95, title IX, § 9215(n)(1), Dec. 10, 2015, 129 Stat. 2168; Pub. L. 115–224, § 7, July 31, 2018, 132 Stat. 1565; Pub. L. 116–6, div. H, title II, § 201(a), Feb. 15, 2019, 133 Stat. 475.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in par. (20)(F), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in par. (20)(F), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 Act of April 16, 1934, referred to in par. (20)(F), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O’Malley Act, which is classified generally to section 5342 et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-The Social Security Act, referred to in par. (36)(B)(i)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (36)(B)(i)(II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in par. (38)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (38)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in par. (38)(B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in par. (38)(B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in par. (38)(B)(ii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in par. (38)(B)(ii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 2302, Pub. L. 88–210, § 3, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3077; amended Pub. L. 107–110, title X, § 1076(k), Jan. 8, 2002, 115 Stat. 2091, related to definitions, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2302, Pub. L. 88–210, § 3, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3077; amended Pub. L. 107–110, title X, § 1076(k), Jan. 8, 2002, 115 Stat. 2091, related to definitions, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2302, Pub. L. 88–210, § 3, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§ 6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, § 3, Sept. 25, 1990, 104 Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2302, Pub. L. 88–210, § 3, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§ 6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, § 3, Sept. 25, 1990, 104 Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
-2019—Par. (20)(B). Pub. L. 116–6 inserted “, except that, for the purpose of section 2352 of this title, the term ‘recognized postsecondary credential’ as used in this subparagraph shall not include a baccalaureate degree” after “associate degree”.
+2019—Par. (20)(B). Pub. L. 116–6 inserted “, except that, for the purpose of section 2352 of this title, the term ‘recognized postsecondary credential’ as used in this subparagraph shall not include a baccalaureate degree” after “associate degree”.
 
-2018—Pub. L. 115–224, § 7(1), (2), struck out pars. (10) defining “displaced homemaker”, (16) defining “individual with limited English proficiency”, (23) defining “postsecondary education tech prep student”, (24) defining “school dropout”, (25) defining “scientifically based research”, (26) defining “secondary education tech prep student”, and (32) defining “tech prep program” and redesignated other pars. throughout section to accommodate pars. repealed and added by Pub. L. 115–224 so as to maintain alphabetical order of defined terms.
+2018—Pub. L. 115–224, § 7(1), (2), struck out pars. (10) defining “displaced homemaker”, (16) defining “individual with limited English proficiency”, (23) defining “postsecondary education tech prep student”, (24) defining “school dropout”, (25) defining “scientifically based research”, (26) defining “secondary education tech prep student”, and (32) defining “tech prep program” and redesignated other pars. throughout section to accommodate pars. repealed and added by Pub. L. 115–224 so as to maintain alphabetical order of defined terms.
 
-Par. (2). Pub. L. 115–224, § 7(3), struck out “, including information as described in section 2328 of this title” before period at end.
+Par. (2). Pub. L. 115–224, § 7(3), struck out “, including information as described in section 2328 of this title” before period at end.
 
-Par. (3)(B). Pub. L. 115–224, § 7(4)(A), substituted “3 different fields that are available to all students, especially in high-skill, high-wage, or in-demand industry sectors or occupations” for “5 different occupational fields to individuals who are available for study in preparation for entering the labor market”.
+Par. (3)(B). Pub. L. 115–224, § 7(4)(A), substituted “3 different fields that are available to all students, especially in high-skill, high-wage, or in-demand industry sectors or occupations” for “5 different occupational fields to individuals who are available for study in preparation for entering the labor market”.
 
-Par. (3)(D). Pub. L. 115–224, § 7(4)(B), substituted “not fewer than 3 different occupational fields” for “not fewer than 5 different occupational fields”.
+Par. (3)(D). Pub. L. 115–224, § 7(4)(B), substituted “not fewer than 3 different occupational fields” for “not fewer than 5 different occupational fields”.
 
-Par. (5)(A)(i). Pub. L. 115–224, § 7(5)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “provides individuals with coherent and rigorous content aligned with challenging academic standards and relevant technical knowledge and skills needed to prepare for further education and careers in current or emerging professions;”.
+Par. (5)(A)(i). Pub. L. 115–224, § 7(5)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “provides individuals with coherent and rigorous content aligned with challenging academic standards and relevant technical knowledge and skills needed to prepare for further education and careers in current or emerging professions;”.
 
-Par. (5)(A)(ii). Pub. L. 115–224, § 7(5)(A)(ii), substituted “or a recognized postsecondary credential, which may include an industry-recognized credential, a certificate, or an associate degree” for “, an industry-recognized credential, a certificate, or an associate degree”.
+Par. (5)(A)(ii). Pub. L. 115–224, § 7(5)(A)(ii), substituted “or a recognized postsecondary credential, which may include an industry-recognized credential, a certificate, or an associate degree” for “, an industry-recognized credential, a certificate, or an associate degree”.
 
-Par. (5)(B). Pub. L. 115–224, § 7(5)(B), inserted “, work-based, or other” after “competency-based”, struck out “general” before “employability skills”, and substituted “supports the development of” for “contributes to the” and semicolon for period at end.
+Par. (5)(B). Pub. L. 115–224, § 7(5)(B), inserted “, work-based, or other” after “competency-based”, struck out “general” before “employability skills”, and substituted “supports the development of” for “contributes to the” and semicolon for period at end.
 
-Par. (5)(C), (D). Pub. L. 115–224, § 7(5)(A)(iii), (C), added subpars. (C) and (D).
+Par. (5)(C), (D). Pub. L. 115–224, § 7(5)(A)(iii), (C), added subpars. (C) and (D).
 
-Par. (7)(A). Pub. L. 115–224, § 7(6)(A), substituted “(and, as appropriate, parents and out-of-school youth)” for “(and parents, as appropriate” and “future;” for “future; and” and inserted “exploration opportunities” after “regarding career awareness”.
+Par. (7)(A). Pub. L. 115–224, § 7(6)(A), substituted “(and, as appropriate, parents and out-of-school youth)” for “(and parents, as appropriate” and “future;” for “future; and” and inserted “exploration opportunities” after “regarding career awareness”.
 
-Par. (7)(B). Pub. L. 115–224, § 7(6)(B), substituted “provides information to students (and, as appropriate, parents and out-of-school youth) with respect to career options, financial aid, job training, secondary and postsecondary options (including associate and baccalaureate degree programs), dual or concurrent enrollment programs, work-based learning opportunities, early college high schools, financial literacy, and support services, as appropriate; and” for “provides information with respect to career options, financial aid, and postsecondary options, including baccalaureate degree programs.”
+Par. (7)(B). Pub. L. 115–224, § 7(6)(B), substituted “provides information to students (and, as appropriate, parents and out-of-school youth) with respect to career options, financial aid, job training, secondary and postsecondary options (including associate and baccalaureate degree programs), dual or concurrent enrollment programs, work-based learning opportunities, early college high schools, financial literacy, and support services, as appropriate; and” for “provides information with respect to career options, financial aid, and postsecondary options, including baccalaureate degree programs.”
 
-Par. (7)(C). Pub. L. 115–224, § 7(6)(C), added subpar. (C).
+Par. (7)(C). Pub. L. 115–224, § 7(6)(C), added subpar. (C).
 
-Par. (8). Pub. L. 115–224, § 7(7), added par. (8).
+Par. (8). Pub. L. 115–224, § 7(7), added par. (8).
 
-Pars. (11) to (16). Pub. L. 115–224, § 7(8), added pars. (11) to (16).
+Pars. (11) to (16). Pub. L. 115–224, § 7(8), added pars. (11) to (16).
 
-Par. (19). Pub. L. 115–224, § 7(9), added par. (19).
+Par. (19). Pub. L. 115–224, § 7(9), added par. (19).
 
-Par. (20). Pub. L. 115–224, § 7(10), amended par. (20) generally. Prior to amendment, par. (20), which had been par. (13), consisted of subpars. (A) to (F) defining “eligible institution”.
+Par. (20). Pub. L. 115–224, § 7(10), amended par. (20) generally. Prior to amendment, par. (20), which had been par. (13), consisted of subpars. (A) to (F) defining “eligible institution”.
 
-Par. (21). Pub. L. 115–224, § 7(11), inserted “an Indian Tribe, Tribal organization, or Tribal educational agency” after “service agency,”.
+Par. (21). Pub. L. 115–224, § 7(11), inserted “an Indian Tribe, Tribal organization, or Tribal educational agency” after “service agency,”.
 
-Pars. (22), (23). Pub. L. 115–224, § 7(12), added pars. (22) and (23).
+Pars. (22), (23). Pub. L. 115–224, § 7(12), added pars. (22) and (23).
 
-Pars. (25) to (27). Pub. L. 115–224, § 7(13), added pars. (25) to (27).
+Pars. (25) to (27). Pub. L. 115–224, § 7(13), added pars. (25) to (27).
 
-Par. (29). Pub. L. 115–224, § 7(14), added par. (29).
+Par. (29). Pub. L. 115–224, § 7(14), added par. (29).
 
-Par. (32). Pub. L. 115–224, § 7(15), added par. (32).
+Par. (32). Pub. L. 115–224, § 7(15), added par. (32).
 
-Par. (33). Pub. L. 115–224, § 7(16), substituted “such as careers” for “including careers”.
+Par. (33). Pub. L. 115–224, § 7(16), substituted “such as careers” for “including careers”.
 
-Pars. (35) to (38). Pub. L. 115–224, § 7(17), added pars. (35) to (38).
+Pars. (35) to (38). Pub. L. 115–224, § 7(17), added pars. (35) to (38).
 
-Par. (39)(C). Pub. L. 115–224, § 7(18), substituted “other skilled training” for “apprenticeship”.
+Par. (39)(C). Pub. L. 115–224, § 7(18), substituted “other skilled training” for “apprenticeship”.
 
-Pars. (40) to (43). Pub. L. 115–224, § 7(19), added pars. (40) to (43).
+Pars. (40) to (43). Pub. L. 115–224, § 7(19), added pars. (40) to (43).
 
-Pars. (46), (47). Pub. L. 115–224, § 7(20), added pars. (46) and (47).
+Pars. (46), (47). Pub. L. 115–224, § 7(20), added pars. (46) and (47).
 
-Par. (48)(B). Pub. L. 115–224, § 7(21)(A), substituted “low-income youth and adults” for “foster children”.
+Par. (48)(B). Pub. L. 115–224, § 7(21)(A), substituted “low-income youth and adults” for “foster children”.
 
-Par. (48)(E). Pub. L. 115–224, § 7(21)(B), added subpar. (E) and struck out former subpar. (E) which read as follows: “displaced homemakers; and”.
+Par. (48)(E). Pub. L. 115–224, § 7(21)(B), added subpar. (E) and struck out former subpar. (E) which read as follows: “displaced homemakers; and”.
 
-Par. (48)(F). Pub. L. 115–224, § 7(21)(C), substituted “English learners;” for “individuals with limited English proficiency.”
+Par. (48)(F). Pub. L. 115–224, § 7(21)(C), substituted “English learners;” for “individuals with limited English proficiency.”
 
-Par. (48)(G) to (I). Pub. L. 115–224, § 7(21)(D), added subpars. (G) to (I).
+Par. (48)(G) to (I). Pub. L. 115–224, § 7(21)(D), added subpars. (G) to (I).
 
-Par. (50). Pub. L. 115–224, § 7(22), inserted “(including paraprofessionals and specialized instructional support personnel)” after “supportive personnel”.
+Par. (50). Pub. L. 115–224, § 7(22), inserted “(including paraprofessionals and specialized instructional support personnel)” after “supportive personnel”.
 
-Par. (52)(A). Pub. L. 115–224, § 7(23)(A), substituted “Indian Tribe or Indian Tribes” for “Indian tribe or Indian tribes”.
+Par. (52)(A). Pub. L. 115–224, § 7(23)(A), substituted “Indian Tribe or Indian Tribes” for “Indian tribe or Indian tribes”.
 
-Par. (52)(D). Pub. L. 115–224, § 7(23)(B), substituted “Tribal” for “tribal” and inserted “or tribal lands” after “reservations”.
+Par. (52)(D). Pub. L. 115–224, § 7(23)(B), substituted “Tribal” for “tribal” and inserted “or tribal lands” after “reservations”.
 
-Pars. (53) to (55). Pub. L. 115–224, § 7(24), added pars. (53) to (55).
+Pars. (53) to (55). Pub. L. 115–224, § 7(24), added pars. (53) to (55).
 
-2015—Par. (8). Pub. L. 114–95, § 9215(n)(1)(A), made technical amendment to reference in original act which appears in text as reference to section 7221i of this title.
+2015—Par. (8). Pub. L. 114–95, § 9215(n)(1)(A), made technical amendment to reference in original act which appears in text as reference to section 7221i of this title.
 
-Par. (11). Pub. L. 114–95, § 9215(n)(1)(B), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+Par. (11). Pub. L. 114–95, § 9215(n)(1)(B), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
-Par. (19). Pub. L. 114–95, § 9215(n)(1)(C), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+Par. (19). Pub. L. 114–95, § 9215(n)(1)(C), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
-Par. (27). Pub. L. 114–95, § 9215(n)(1)(D), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
+Par. (27). Pub. L. 114–95, § 9215(n)(1)(D), made technical amendment to reference in original act which appears in text as reference to section 7801 of this title.
 
 2008—Par. (33). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to section 1801(a) of title 25.
 
@@ -663,7 +663,7 @@ Par. (27). Pub. L. 114–95, § 9215(n)(1)(D), made technical amendment to ref
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–6, div. H, title II, § 201(b), Feb. 15, 2019, 133 Stat. 475, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 2019, as if included in the Strengthening Career and Technical Education for the 21st Century Act (Public Law 115–224).”
+Pub. L. 116–6, div. H, title II, § 201(b), Feb. 15, 2019, 133 Stat. 475, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on July 1, 2019, as if included in the Strengthening Career and Technical Education for the 21st Century Act (Public Law 115–224).”
 
 **Effective Date of 2018 Amendment**
 
@@ -673,15 +673,15 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-## § 2303. Transition provisions
+## § 2303. Transition provisions
 
 The Secretary shall take such steps as are necessary to provide for the orderly transition to the authority of this chapter (as amended by the Strengthening Career and Technical Education for the 21st Century Act) from any authority under the provisions of the Carl D. Perkins Vocational and Technical Education Act of 2006,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 as in effect on the day before July 31, 2018. The Secretary shall give each eligible agency the opportunity to submit a transition plan for the first fiscal year following July 31, 2018.
 
-(Pub. L. 88–210, § 4, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 690; amended Pub. L. 115–224, § 8, July 31, 2018, 132 Stat. 1574.)
+(Pub. L. 88–210, § 4, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 690; amended Pub. L. 115–224, § 8, July 31, 2018, 132 Stat. 1574.)
 
 **Editorial Notes**
 
@@ -693,17 +693,17 @@ The Carl D. Perkins Vocational and Technical Education Act of 2006, as in effect
 
 **Prior Provisions**
 
-A prior section 2303, Pub. L. 88–210, § 4, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3082, related to transition provisions, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2303, Pub. L. 88–210, § 4, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3082, related to transition provisions, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2303, Pub. L. 101–392, § 4, Sept. 25, 1990, 104 Stat. 758; Pub. L. 104–66, title I, § 1041(f), Dec. 21, 1995, 109 Stat. 715, which related to the Interdepartmental Task Force on Vocational Education and Related Programs, was transferred to section 2308 of this title.
+Another prior section 2303, Pub. L. 101–392, § 4, Sept. 25, 1990, 104 Stat. 758; Pub. L. 104–66, title I, § 1041(f), Dec. 21, 1995, 109 Stat. 715, which related to the Interdepartmental Task Force on Vocational Education and Related Programs, was transferred to section 2308 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–224, § 8(1), substituted “are necessary” for “the Secretary determines to be appropriate”.
+2018—Pub. L. 115–224, § 8(1), substituted “are necessary” for “the Secretary determines to be appropriate”.
 
-Pub. L. 115–224, § 8(2), substituted “as amended by the Strengthening Career and Technical Education for the 21st Century Act” for “as amended by the Carl D. Perkins Career and Technical Education Improvement Act of 2006” and substituted “July 31, 2018” for “August 12, 2006” in two places.
+Pub. L. 115–224, § 8(2), substituted “as amended by the Strengthening Career and Technical Education for the 21st Century Act” for “as amended by the Carl D. Perkins Career and Technical Education Improvement Act of 2006” and substituted “July 31, 2018” for “August 12, 2006” in two places.
 
-Pub. L. 115–224, § 8(3), substituted “Carl D. Perkins Vocational and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+Pub. L. 115–224, § 8(3), substituted “Carl D. Perkins Vocational and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -711,7 +711,7 @@ Pub. L. 115–224, § 8(3), substituted “Carl D. Perkins Vocational and Tech
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-## § 2304. Privacy
+## § 2304. Privacy
 
 **(a) GEPA**
 
@@ -721,39 +721,39 @@ Nothing in this chapter shall be construed to supersede the privacy protections 
 
 Nothing in this chapter shall be construed to permit the development of a national database of personally identifiable information on individuals receiving services under this chapter.
 
-(Pub. L. 88–210, § 5, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 690.)
+(Pub. L. 88–210, § 5, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 690.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2304, Pub. L. 88–210, § 5, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3082, related to privacy, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2304, Pub. L. 88–210, § 5, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3082, related to privacy, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-## § 2305. Limitation
+## § 2305. Limitation
 
 All of the funds made available under this chapter shall be used in accordance with the requirements of this chapter.
 
-(Pub. L. 88–210, § 6, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 690.)
+(Pub. L. 88–210, § 6, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 690.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2305, Pub. L. 88–210, § 6, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3082, related to limitation on use of funds, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2305, Pub. L. 88–210, § 6, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3082, related to limitation on use of funds, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-## § 2306. Special rule
+## § 2306. Special rule
 
 In the case of a local community in which no employees are represented by a labor organization, for purposes of this chapter, the term “representatives of employees” shall be substituted for “labor organization”.
 
-(Pub. L. 88–210, § 7, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 690.)
+(Pub. L. 88–210, § 7, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 690.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2306, Pub. L. 88–210, § 7, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3083, related to special rule, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2306, Pub. L. 88–210, § 7, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3083, related to special rule, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-## § 2306a. Prohibitions
+## § 2306a. Prohibitions
 
 **(a) Local control** Nothing in this chapter shall be construed to authorize an officer or employee of the Federal Government—
 
@@ -777,9 +777,9 @@ Notwithstanding any other provision of Federal law, no State shall be required t
 
 **(d) Rule of construction**
 
-Nothing in this section affects the applicability of subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”) or chapter 8 of title 5, commonly 1
+Nothing in this section affects the applicability of subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the “Administrative Procedure Act”) or chapter 8 of title 5, commonly 1
 
-<sup>1</sup>  So in original. Probably should be “title 5 (commonly”.
+<sup>1</sup> So in original. Probably should be “title 5 (commonly”.
 
 known as the “Congressional Review Act”).
 
@@ -817,7 +817,7 @@ For the purposes of this chapter, coherent and rigorous content shall be determi
 
 **(C)** conduct immediately thereafter regional meetings to review such proposed regulation before issuing any final regulation.
 
-(Pub. L. 88–210, § 8, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 690; amended Pub. L. 114–95, title IX, § 9215(n)(2), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, § 9, title II, § 201(b), July 31, 2018, 132 Stat. 1574, 1622.)
+(Pub. L. 88–210, § 8, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 690; amended Pub. L. 114–95, title IX, § 9215(n)(2), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, § 9, title II, § 201(b), July 31, 2018, 132 Stat. 1574, 1622.)
 
 **Editorial Notes**
 
@@ -827,13 +827,13 @@ A prior section 8 of Pub. L. 88–210 was classified to section 2307 of this tit
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–224, § 201(b), which made technical amendment to references in original Act which appeared in text as references to sections 2391(b) and 2413 of this title, could not be executed because of the intervening amendment by Pub. L. 115–224, § 9(1), which had already amended those references. See below.
+2018—Subsec. (a). Pub. L. 115–224, § 201(b), which made technical amendment to references in original Act which appeared in text as references to sections 2391(b) and 2413 of this title, could not be executed because of the intervening amendment by Pub. L. 115–224, § 9(1), which had already amended those references. See below.
 
-Pub. L. 115–224, § 9(1), substituted “Federal Government—” for “Federal Government to mandate, direct, or control a State, local educational agency, or school’s curriculum, program of instruction, or allocation of State or local resources, or mandate a State or any subdivision thereof to spend any funds or incur any costs not paid for under this chapter, except as required under sections 2322(b), 2391(b), and 2413 of this title.” and added pars. (1) to (3).
+Pub. L. 115–224, § 9(1), substituted “Federal Government—” for “Federal Government to mandate, direct, or control a State, local educational agency, or school’s curriculum, program of instruction, or allocation of State or local resources, or mandate a State or any subdivision thereof to spend any funds or incur any costs not paid for under this chapter, except as required under sections 2322(b), 2391(b), and 2413 of this title.” and added pars. (1) to (3).
 
-Subsec. (d). Pub. L. 115–224, § 9(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Nothing in this section shall be construed to affect the requirements under section 2323 of this title.”
+Subsec. (d). Pub. L. 115–224, § 9(2), amended subsec. (d) generally. Prior to amendment, text read as follows: “Nothing in this section shall be construed to affect the requirements under section 2323 of this title.”
 
-Subsec. (f). Pub. L. 115–224, § 9(3), added subsec. (f).
+Subsec. (f). Pub. L. 115–224, § 9(3), added subsec. (f).
 
 2015—Subsec. (e). Pub. L. 114–95 substituted “section 6311(b)(1) of this title” for “section 6311(b)(1)(D) of this title”.
 
@@ -847,7 +847,7 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-## § 2307. Authorization of appropriations
+## § 2307. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this chapter (other than sections 2324 and 2327 of this title)—
 
@@ -863,13 +863,13 @@ There are authorized to be appropriated to carry out this chapter (other than se
 
 **(6)** $1,318,082,266 for fiscal year 2024.
 
-(Pub. L. 88–210, § 9, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 691; amended Pub. L. 115–224, § 10, July 31, 2018, 132 Stat. 1576.)
+(Pub. L. 88–210, § 9, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 691; amended Pub. L. 115–224, § 10, July 31, 2018, 132 Stat. 1576.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2307, Pub. L. 88–210, § 8, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3083, related to authorization of appropriations, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2307, Pub. L. 88–210, § 8, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3083, related to authorization of appropriations, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 **Amendments**
 
@@ -881,7 +881,7 @@ A prior section 2307, Pub. L. 88–210, § 8, as added Pub. L. 105–332, §�
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-## § 2308. Interdepartmental Task Force on Vocational Education and Related Programs
+## § 2308. Interdepartmental Task Force on Vocational Education and Related Programs
 
 **(a) Establishment**
 
@@ -899,21 +899,21 @@ The Task Force shall consist of the Secretary of Education, the Secretary of Lab
 
 **(3)** consider integration of research and development conducted with Federal assistance in the area of vocational education and related areas, including areas of emerging technologies.
 
-(Pub. L. 101–392, § 4, Sept. 25, 1990, 104 Stat. 758; Pub. L. 104–66, title I, § 1041(f), Dec. 21, 1995, 109 Stat. 715.)
+(Pub. L. 101–392, § 4, Sept. 25, 1990, 104 Stat. 758; Pub. L. 104–66, title I, § 1041(f), Dec. 21, 1995, 109 Stat. 715.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Adult Education Act, referred to in subsec. (c)(1), was title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, which was classified generally to chapter 30 (§ 1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, § 251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
+The Adult Education Act, referred to in subsec. (c)(1), was title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, which was classified generally to chapter 30 (§ 1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, § 251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
-The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (c)(1), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, which was classified generally to this chapter, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076, and amended generally and renamed the Carl D. Perkins Career and Technical Education Act of 2006 by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Vocational and Applied Technology Education Act, referred to in subsec. (c)(1), was Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, which was classified generally to this chapter, prior to being amended generally and renamed the Carl D. Perkins Vocational and Technical Education Act of 1998 by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076, and amended generally and renamed the Carl D. Perkins Career and Technical Education Act of 2006 by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683. For complete classification of Pub. L. 88–210 to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
-The Job Training Partnership Act, referred to in subsec. (c)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Job Training Partnership Act, referred to in subsec. (c)(1), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (c)(1), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified principally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+The Wagner-Peyser Act, referred to in subsec. (c)(1), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified principally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 **Codification**
 
@@ -925,13 +925,13 @@ Section was formerly classified to section 2303 of this title.
 
 Prior sections 2311 to 2313 were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2311, Pub. L. 88–210, title I, § 101, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2438; amended Pub. L. 99–159, title VII, § 701, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–357, July 8, 1986, 100 Stat. 761; Pub. L. 101–392, title I, § 101(a), Sept. 25, 1990, 104 Stat. 759, related to allotments to States. See section 2321 of this title.
+Section 2311, Pub. L. 88–210, title I, § 101, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2438; amended Pub. L. 99–159, title VII, § 701, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–357, July 8, 1986, 100 Stat. 761; Pub. L. 101–392, title I, § 101(a), Sept. 25, 1990, 104 Stat. 759, related to allotments to States. See section 2321 of this title.
 
-Section 2311a, Pub. L. 88–210, title I, § 101A, as added Pub. L. 101–392, title I, § 101(b), Sept. 25, 1990, 104 Stat. 760; amended Pub. L. 103–208, § 3, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103–382, title III, § 369, Oct. 20, 1994, 108 Stat. 3976, related to grants to the territories. See section 2325 of this title.
+Section 2311a, Pub. L. 88–210, title I, § 101A, as added Pub. L. 101–392, title I, § 101(b), Sept. 25, 1990, 104 Stat. 760; amended Pub. L. 103–208, § 3, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103–382, title III, § 369, Oct. 20, 1994, 108 Stat. 3976, related to grants to the territories. See section 2325 of this title.
 
-Section 2312, Pub. L. 88–210, title I, § 102, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2440; amended Pub. L. 99–159, title VII, § 702, Nov. 22, 1985, 99 Stat. 904; Pub. L. 101–392, title I, § 102, Sept. 25, 1990, 104 Stat. 761; Pub. L. 102–103, title III, § 311(a), Aug. 17, 1991, 105 Stat. 505, related to within State allocations. See section 2322 of this title.
+Section 2312, Pub. L. 88–210, title I, § 102, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2440; amended Pub. L. 99–159, title VII, § 702, Nov. 22, 1985, 99 Stat. 904; Pub. L. 101–392, title I, § 102, Sept. 25, 1990, 104 Stat. 761; Pub. L. 102–103, title III, § 311(a), Aug. 17, 1991, 105 Stat. 505, related to within State allocations. See section 2322 of this title.
 
-Section 2313, Pub. L. 88–210, title I, § 103, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2440; amended Pub. L. 101–392, title I, § 103, Sept. 25, 1990, 104 Stat. 762; Pub. L. 102–103, title III, § 311(b), Aug. 17, 1991, 105 Stat. 505, related to Indian and Hawaiian natives programs.
+Section 2313, Pub. L. 88–210, title I, § 103, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2440; amended Pub. L. 101–392, title I, § 103, Sept. 25, 1990, 104 Stat. 762; Pub. L. 102–103, title III, § 311(b), Aug. 17, 1991, 105 Stat. 505, related to Indian and Hawaiian natives programs.
 
 **Amendments**
 
@@ -941,7 +941,7 @@ Section 2313, Pub. L. 88–210, title I, § 103, as added Pub. L. 98–524, §
 
 ### Part A—Allotment and Allocation
 
-#### § 2321. Reservations and State allotment
+#### § 2321. Reservations and State allotment
 
 **(a) Reservations and State allotment**
 
@@ -1037,15 +1037,15 @@ For the purposes of this section, population shall be determined by the Secretar
 
 For the purpose of this section, the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
 
-(Pub. L. 88–210, title I, § 111, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 691; amended Pub. L. 115–224, title I, § 110, July 31, 2018, 132 Stat. 1576.)
+(Pub. L. 88–210, title I, § 111, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 691; amended Pub. L. 115–224, title I, § 110, July 31, 2018, 132 Stat. 1576.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2321, Pub. L. 88–210, title I, § 111, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3083; amended Pub. L. 106–246, div. B, title II, § 2403(b), July 13, 2000, 114 Stat. 555, related to reservations and State allotment, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2321, Pub. L. 88–210, title I, § 111, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3083; amended Pub. L. 106–246, div. B, title II, § 2403(b), July 13, 2000, 114 Stat. 555, related to reservations and State allotment, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2321, Pub. L. 88–210, title I, § 111, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2441; amended Pub. L. 101–392, title I, § 111, Sept. 25, 1990, 104 Stat. 763; Pub. L. 103–382, title III, § 391(s)(1), Oct. 20, 1994, 108 Stat. 4024, related to State administration, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2321, Pub. L. 88–210, title I, § 111, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2441; amended Pub. L. 101–392, title I, § 111, Sept. 25, 1990, 104 Stat. 763; Pub. L. 103–382, title III, § 391(s)(1), Oct. 20, 1994, 108 Stat. 4024, related to State administration, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
@@ -1057,7 +1057,7 @@ Another prior section 2321, Pub. L. 88–210, title I, § 111, as added Pub. L
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2322. Within State allocation
+#### § 2322. Within State allocation
 
 **(a) In general** From the amount allotted to each State under section 2321 of this title for a fiscal year, the eligible agency shall make available—
 
@@ -1111,27 +1111,27 @@ Each eligible agency receiving funds made available under subsection (a)(3) shal
 
 **(B)** promote the development, implementation, and adoption of programs of study or career pathways aligned with State-identified high-skill, high-wage, or in-demand occupations or industries.
 
-(Pub. L. 88–210, title I, § 112, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 695; amended Pub. L. 115–224, title I, § 111, July 31, 2018, 132 Stat. 1579.)
+(Pub. L. 88–210, title I, § 112, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 695; amended Pub. L. 115–224, title I, § 111, July 31, 2018, 132 Stat. 1579.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2322, Pub. L. 88–210, title I, § 112, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3086, related to allocations within States, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2322, Pub. L. 88–210, title I, § 112, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3086, related to allocations within States, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2322, Pub. L. 88–210, title I, § 112, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2443; amended Pub. L. 99–159, title VII, § 703, Nov. 22, 1985, 99 Stat. 905; Pub. L. 101–392, title I, § 112, Sept. 25, 1990, 104 Stat. 765; Pub. L. 102–367, title VI, § 601(b)(1), Sept. 7, 1992, 106 Stat. 1102, related to State councils on vocational education, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2322, Pub. L. 88–210, title I, § 112, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2443; amended Pub. L. 99–159, title VII, § 703, Nov. 22, 1985, 99 Stat. 905; Pub. L. 101–392, title I, § 112, Sept. 25, 1990, 104 Stat. 765; Pub. L. 102–367, title VI, § 601(b)(1), Sept. 7, 1992, 106 Stat. 1102, related to State councils on vocational education, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–224, § 111(1)(A), substituted “15 percent” for “10 percent”.
+2018—Subsec. (a)(1). Pub. L. 115–224, § 111(1)(A), substituted “15 percent” for “10 percent”.
 
-Subsec. (a)(2)(A). Pub. L. 115–224, § 111(1)(B)(i), substituted “2 percent” for “1 percent”, “State correctional institutions, juvenile justice facilities, and educational institutions” for “State correctional institutions and institutions”, and “disabilities;” for “disabilities; and”.
+Subsec. (a)(2)(A). Pub. L. 115–224, § 111(1)(B)(i), substituted “2 percent” for “1 percent”, “State correctional institutions, juvenile justice facilities, and educational institutions” for “State correctional institutions and institutions”, and “disabilities;” for “disabilities; and”.
 
-Subsec. (a)(2)(C). Pub. L. 115–224, § 111(1)(B)(ii), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 115–224, § 111(1)(B)(ii), added subpar. (C).
 
-Subsec. (a)(3)(B). Pub. L. 115–224, § 111(1)(C), substituted “local applications;” for “a local plan;”.
+Subsec. (a)(3)(B). Pub. L. 115–224, § 111(1)(C), substituted “local applications;” for “a local plan;”.
 
-Subsec. (c). Pub. L. 115–224, § 111(2), substituted “section 2355 of this title—” for “section 2355 of this title in—”, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
+Subsec. (c). Pub. L. 115–224, § 111(2), substituted “section 2355 of this title—” for “section 2355 of this title in—”, added pars. (1) and (2), and struck out former pars. (1) to (3) which read as follows:
 
 “(1) rural areas;
 
@@ -1145,7 +1145,7 @@ Subsec. (c). Pub. L. 115–224, § 111(2), substituted “section 2355 of this
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2323. Accountability
+#### § 2323. Accountability
 
 **(a) Purpose**
 
@@ -1333,7 +1333,7 @@ Each eligible recipient shall identify, in the local application submitted under
 
 Prior to the third program year covered by the local application, the eligible recipient may, if the eligible recipient reaches an agreement with the eligible agency, adjust the local levels of performance for any of the core indicators of performance for the subsequent program years covered by the local application, in accordance with that agreement and with this subparagraph. The local adjusted levels of performance agreed to under this clause shall be considered to be the local levels of performance for the eligible recipient for such years and shall be incorporated into the local application.
 
-**(v) 1 [footnote: 1 So in original. There is no cl. (iv).] Revisions**
+**(v) 1 [footnote: 1 So in original. There is no cl. (iv).] Revisions**
 
 If unanticipated circumstances arise, or changes occur related to improvements in data or measurement approaches, the eligible recipient may request that the local levels of performance agreed to under clauses (i) and (iii) be revised. The eligible agency shall issue objective criteria and methods for making such revisions.
 
@@ -1373,85 +1373,85 @@ The disaggregation of data under this paragraph shall not be required when the n
 
 The report described in clause (i) shall be made available by the eligible recipient through a variety of formats, including electronically through the Internet, to students, parents, educators, and the public, and the information contained in such report shall be in a format that is understandable and uniform, and to the extent practicable, provided in a language that students, parents, and educators can understand.
 
-(Pub. L. 88–210, title I, § 113, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 696; amended Pub. L. 114–95, title IX, § 9215(n)(3), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, § 112, July 31, 2018, 132 Stat. 1579.)
+(Pub. L. 88–210, title I, § 113, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 696; amended Pub. L. 114–95, title IX, § 9215(n)(3), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, § 112, July 31, 2018, 132 Stat. 1579.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A)(iii), (B)(i), (3)(C)(ii)(III)(cc), (4)(B)(ii)(IV)(cc), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Title I of the Act is classified principally to subchapter I (§ 12511 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A)(iii), (B)(i), (3)(C)(ii)(III)(cc), (4)(B)(ii)(IV)(cc), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Title I of the Act is classified principally to subchapter I (§ 12511 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 2323, Pub. L. 88–210, title I, § 113, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3087, related to accountability, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2323, Pub. L. 88–210, title I, § 113, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3087, related to accountability, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2323, Pub. L. 88–210, title I, § 113, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2445; amended Pub. L. 99–159, title VII, §§ 704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, § 113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, § 391(s)(2), Oct. 20, 1994, 108 Stat. 4024, required submission of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2323, Pub. L. 88–210, title I, § 113, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2445; amended Pub. L. 99–159, title VII, §§ 704, 713(a)(1), (2), Nov. 22, 1985, 99 Stat. 905, 907; Pub. L. 101–392, title I, § 113, Sept. 25, 1990, 104 Stat. 766; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, § 391(s)(2), Oct. 20, 1994, 108 Stat. 4024, required submission of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
-2018—Subsec. (b). Pub. L. 115–224, § 112(1)(A), inserted “determined” after “State” in heading.
+2018—Subsec. (b). Pub. L. 115–224, § 112(1)(A), inserted “determined” after “State” in heading.
 
-Subsec. (b)(1). Pub. L. 115–224, § 112(1)(B)(i), inserted “State determined” before “performance” in introductory provisions.
+Subsec. (b)(1). Pub. L. 115–224, § 112(1)(B)(i), inserted “State determined” before “performance” in introductory provisions.
 
-Subsec. (b)(1)(B), (C). Pub. L. 115–224, § 112(1)(B)(ii)–(iv), redesignated subpar. (C) as (B), substituted “a State determined level of performance” for “a State adjusted level of performance” and struck out “, and State levels of performance described in paragraph (3)(B) for each additional indicator of performance” before period at end, and struck out former subpar. (B) which read as follows: “any additional indicators of performance (if any) identified by the eligible agency under paragraph (2)(C); and”.
+Subsec. (b)(1)(B), (C). Pub. L. 115–224, § 112(1)(B)(ii)–(iv), redesignated subpar. (C) as (B), substituted “a State determined level of performance” for “a State adjusted level of performance” and struck out “, and State levels of performance described in paragraph (3)(B) for each additional indicator of performance” before period at end, and struck out former subpar. (B) which read as follows: “any additional indicators of performance (if any) identified by the eligible agency under paragraph (2)(C); and”.
 
-Subsec. (b)(2). Pub. L. 115–224, § 112(1)(C), added par. (2) and struck out former par. (2) which described various indicators of performance.
+Subsec. (b)(2). Pub. L. 115–224, § 112(1)(C), added par. (2) and struck out former par. (2) which described various indicators of performance.
 
-Subsec. (b)(3). Pub. L. 115–224, § 112(1)(D)(i), inserted “determined” after “State” in heading.
+Subsec. (b)(3). Pub. L. 115–224, § 112(1)(D)(i), inserted “determined” after “State” in heading.
 
-Subsec. (b)(3)(A). Pub. L. 115–224, § 112(1)(D)(ii), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to State adjusted levels of performance for core indicators of performance.
+Subsec. (b)(3)(A). Pub. L. 115–224, § 112(1)(D)(ii), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to State adjusted levels of performance for core indicators of performance.
 
-Subsec. (b)(3)(B). Pub. L. 115–224, § 112(1)(D)(iii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “Each eligible agency shall identify in the State plan State levels of performance for each of the additional indicators of performance described in paragraph (2)(C). Such levels shall be considered to be the State levels of performance for purposes of this subchapter.”
+Subsec. (b)(3)(B). Pub. L. 115–224, § 112(1)(D)(iii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “Each eligible agency shall identify in the State plan State levels of performance for each of the additional indicators of performance described in paragraph (2)(C). Such levels shall be considered to be the State levels of performance for purposes of this subchapter.”
 
-Subsec. (b)(3)(C) to (E). Pub. L. 115–224, § 112(1)(D)(iv), added subpars. (C) to (E).
+Subsec. (b)(3)(C) to (E). Pub. L. 115–224, § 112(1)(D)(iv), added subpars. (C) to (E).
 
-Subsec. (b)(4)(A). Pub. L. 115–224, § 112(1)(E)(i)(I), struck out “adjusted” before “levels of performance” in heading.
+Subsec. (b)(4)(A). Pub. L. 115–224, § 112(1)(E)(i)(I), struck out “adjusted” before “levels of performance” in heading.
 
-Subsec. (b)(4)(A)(i). Pub. L. 115–224, § 112(1)(E)(i)(III)(aa), in introductory provisions, substituted “State determined levels of performance for each year of the plan” for “State adjusted levels of performance” and substituted “local levels” for “local adjusted levels” in two places.
+Subsec. (b)(4)(A)(i). Pub. L. 115–224, § 112(1)(E)(i)(III)(aa), in introductory provisions, substituted “State determined levels of performance for each year of the plan” for “State adjusted levels of performance” and substituted “local levels” for “local adjusted levels” in two places.
 
-Subsec. (b)(4)(A)(i)(I). Pub. L. 115–224, § 112(1)(E)(i)(III)(bb), substituted “consistent with the form expressed in the State determined levels, so as” for “consistent with the State levels of performance established under paragraph (3), so as” and struck out “and” at end.
+Subsec. (b)(4)(A)(i)(I). Pub. L. 115–224, § 112(1)(E)(i)(III)(bb), substituted “consistent with the form expressed in the State determined levels, so as” for “consistent with the State levels of performance established under paragraph (3), so as” and struck out “and” at end.
 
-Subsec. (b)(4)(A)(i)(II). Pub. L. 115–224, § 112(1)(E)(i)(III)(cc), substituted “continually make meaningful progress toward improving the performance of all CTE concentrators, including subgroups of students described in section 6311(h)(1)(C)(ii) of this title and special populations, as described in section 2302(48) of this title;” for “continually make progress toward improving the performance of career and technical education students.”
+Subsec. (b)(4)(A)(i)(II). Pub. L. 115–224, § 112(1)(E)(i)(III)(cc), substituted “continually make meaningful progress toward improving the performance of all CTE concentrators, including subgroups of students described in section 6311(h)(1)(C)(ii) of this title and special populations, as described in section 2302(48) of this title;” for “continually make progress toward improving the performance of career and technical education students.”
 
-Subsec. (b)(4)(A)(i)(III) to (V). Pub. L. 115–224, § 112(1)(E)(i)(III)(dd), added subcls. (III) to (V).
+Subsec. (b)(4)(A)(i)(III) to (V). Pub. L. 115–224, § 112(1)(E)(i)(III)(dd), added subcls. (III) to (V).
 
-Subsec. (b)(4)(A)(ii). Pub. L. 115–224, § 112(1)(E)(i)(IV)(aa), (cc), substituted “application” for “plan” in heading and “each of the” for “the first 2” in text.
+Subsec. (b)(4)(A)(ii). Pub. L. 115–224, § 112(1)(E)(i)(IV)(aa), (cc), substituted “application” for “plan” in heading and “each of the” for “the first 2” in text.
 
-Pub. L. 115–224, § 112(1)(E)(i)(IV)(bb), which directed substitution of “application” for “plan”, was executed by making the substitution both places it appeared to reflect the probable intent of Congress.
+Pub. L. 115–224, § 112(1)(E)(i)(IV)(bb), which directed substitution of “application” for “plan”, was executed by making the substitution both places it appeared to reflect the probable intent of Congress.
 
-Subsec. (b)(4)(A)(iii). Pub. L. 115–224, § 112(1)(E)(i)(V), amended cl. (iii) generally. Prior to amendment, text read as follows: “Prior to the third and fifth program years covered by the local plan, the eligible agency and each eligible recipient shall reach agreement on the local adjusted levels of performance for each of the core indicators of performance for the corresponding subsequent program years covered by the local plan, taking into account the factors described in clause (v). The local adjusted levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan.”
+Subsec. (b)(4)(A)(iii). Pub. L. 115–224, § 112(1)(E)(i)(V), amended cl. (iii) generally. Prior to amendment, text read as follows: “Prior to the third and fifth program years covered by the local plan, the eligible agency and each eligible recipient shall reach agreement on the local adjusted levels of performance for each of the core indicators of performance for the corresponding subsequent program years covered by the local plan, taking into account the factors described in clause (v). The local adjusted levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan.”
 
-Pub. L. 115–224, § 112(1)(E)(i)(II), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text of cl. (iii) read as follows: “The eligible agency and each eligible recipient shall reach agreement, as described in clause (i), on the eligible recipient’s levels of performance for each of the core indicators of performance for the first 2 program years covered by the local plan, taking into account the levels identified in the local plan under clause (ii) and the factors described in clause (v). The levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan prior to the approval of such plan.”
+Pub. L. 115–224, § 112(1)(E)(i)(II), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text of cl. (iii) read as follows: “The eligible agency and each eligible recipient shall reach agreement, as described in clause (i), on the eligible recipient’s levels of performance for each of the core indicators of performance for the first 2 program years covered by the local plan, taking into account the levels identified in the local plan under clause (ii) and the factors described in clause (v). The levels of performance agreed to under this clause shall be considered to be the local adjusted levels of performance for the eligible recipient for such years and shall be incorporated into the local plan prior to the approval of such plan.”
 
-Subsec. (b)(4)(A)(iv). Pub. L. 115–224, § 112(1)(E)(i)(II), redesignated cl. (iv) as (iii).
+Subsec. (b)(4)(A)(iv). Pub. L. 115–224, § 112(1)(E)(i)(II), redesignated cl. (iv) as (iii).
 
-Subsec. (b)(4)(A)(v), (vi). Pub. L. 115–224, § 112(1)(E)(i)(II), (VI), redesignated cl. (vi) as (v), substituted “If unanticipated circumstances arise, or changes occur related to improvements in data or measurement approaches, the eligible recipient may request that the local levels of performance agreed to under clauses (i) and (iii) be revised.” for “If unanticipated circumstances arise with respect to an eligible recipient resulting in a significant change in the factors described in clause (v), the eligible recipient may request that the local adjusted levels of performance agreed to under clause (iii) or (iv) be revised.”, and struck out former cl. (v) which set out factors the agreements in this subpar. were to take into account.
+Subsec. (b)(4)(A)(v), (vi). Pub. L. 115–224, § 112(1)(E)(i)(II), (VI), redesignated cl. (vi) as (v), substituted “If unanticipated circumstances arise, or changes occur related to improvements in data or measurement approaches, the eligible recipient may request that the local levels of performance agreed to under clauses (i) and (iii) be revised.” for “If unanticipated circumstances arise with respect to an eligible recipient resulting in a significant change in the factors described in clause (v), the eligible recipient may request that the local adjusted levels of performance agreed to under clause (iii) or (iv) be revised.”, and struck out former cl. (v) which set out factors the agreements in this subpar. were to take into account.
 
-Subsec. (b)(4)(B). Pub. L. 115–224, § 112(1)(E)(ii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Each eligible recipient may identify, in the local plan, local levels of performance for any additional indicators of performance described in paragraph (2)(C). Such levels shall be considered to be the local levels of performance for purposes of this subchapter.”
+Subsec. (b)(4)(B). Pub. L. 115–224, § 112(1)(E)(ii), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “Each eligible recipient may identify, in the local plan, local levels of performance for any additional indicators of performance described in paragraph (2)(C). Such levels shall be considered to be the local levels of performance for purposes of this subchapter.”
 
-Subsec. (b)(4)(B)(i). Pub. L. 115–224, § 112(1)(E)(iii)(I), substituted “the data on the actual performance levels described in clause (ii), including the progress of such recipient in achieving the local levels of performance” for “the data described in clause (ii)(I), regarding the progress of such recipient in achieving the local adjusted levels of performance”.
+Subsec. (b)(4)(B)(i). Pub. L. 115–224, § 112(1)(E)(iii)(I), substituted “the data on the actual performance levels described in clause (ii), including the progress of such recipient in achieving the local levels of performance” for “the data described in clause (ii)(I), regarding the progress of such recipient in achieving the local adjusted levels of performance”.
 
-Subsec. (b)(4)(B)(ii)(I). Pub. L. 115–224, § 112(1)(E)(iii)(II)(aa), substituted “section 6311(h)(1)(C)(ii)” for “section 6311(h)(1)(C)(i)” and “section 2302(48)” for “section 2302(29)” and struck out “and” at end.
+Subsec. (b)(4)(B)(ii)(I). Pub. L. 115–224, § 112(1)(E)(iii)(II)(aa), substituted “section 6311(h)(1)(C)(ii)” for “section 6311(h)(1)(C)(i)” and “section 2302(48)” for “section 2302(29)” and struck out “and” at end.
 
-Subsec. (b)(4)(B)(ii)(II). Pub. L. 115–224, § 112(1)(E)(iii)(II)(bb)(AA)–(CC), inserted “, as described in paragraph 3(C)(ii)(II),” after “gaps in performance” and “as described in subclause (I) (including special populations)” after “category of students” and substituted “all CTE concentrators” for “all students”.
+Subsec. (b)(4)(B)(ii)(II). Pub. L. 115–224, § 112(1)(E)(iii)(II)(bb)(AA)–(CC), inserted “, as described in paragraph 3(C)(ii)(II),” after “gaps in performance” and “as described in subclause (I) (including special populations)” after “category of students” and substituted “all CTE concentrators” for “all students”.
 
-Subsec. (b)(4)(B)(ii)(III), (IV). Pub. L. 115–224, § 112(1)(E)(iii)(II)(bb)(DD), added subcls. (III) and (IV).
+Subsec. (b)(4)(B)(ii)(III), (IV). Pub. L. 115–224, § 112(1)(E)(iii)(II)(bb)(DD), added subcls. (III) and (IV).
 
-Subsec. (b)(4)(B)(iii). Pub. L. 115–224, § 112(1)(E)(iii)(III), substituted “paragraph (3)(C)(iii)” for “subsection (c)(3)”.
+Subsec. (b)(4)(B)(iii). Pub. L. 115–224, § 112(1)(E)(iii)(III), substituted “paragraph (3)(C)(iii)” for “subsection (c)(3)”.
 
-Subsec. (b)(4)(B)(iv). Pub. L. 115–224, § 112(1)(E)(iii)(IV), substituted “this paragraph” for “clause (ii)”.
+Subsec. (b)(4)(B)(iv). Pub. L. 115–224, § 112(1)(E)(iii)(IV), substituted “this paragraph” for “clause (ii)”.
 
-Subsec. (b)(4)(B)(v). Pub. L. 115–224, § 112(1)(E)(iii)(V), added cl. (v) and struck out former cl. (v). Prior to amendment, text read as follows: “The report described in clause (i) shall be made available to the public through a variety of formats, including electronically through the Internet.”
+Subsec. (b)(4)(B)(v). Pub. L. 115–224, § 112(1)(E)(iii)(V), added cl. (v) and struck out former cl. (v). Prior to amendment, text read as follows: “The report described in clause (i) shall be made available to the public through a variety of formats, including electronically through the Internet.”
 
-Subsec. (b)(4)(C). Pub. L. 115–224, § 112(1)(E)(ii), redesignated subpar. (C) as (B).
+Subsec. (b)(4)(C). Pub. L. 115–224, § 112(1)(E)(ii), redesignated subpar. (C) as (B).
 
-Subsec. (c). Pub. L. 115–224, § 112(2), struck out subsec. (c) which related to annual reports from eligible agencies receiving allotments.
+Subsec. (c). Pub. L. 115–224, § 112(2), struck out subsec. (c) which related to annual reports from eligible agencies receiving allotments.
 
-2015—Subsec. (b)(2)(A)(i). Pub. L. 114–95, § 9215(n)(3)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “Student attainment of challenging academic content standards and student academic achievement standards, as adopted by a State in accordance with section 6311(b)(1) of this title and measured by the State determined proficient levels on the academic assessments described in section 6311(b)(3) of this title.”
+2015—Subsec. (b)(2)(A)(i). Pub. L. 114–95, § 9215(n)(3)(A)(i), added cl. (i) and struck out former cl. (i) which read as follows: “Student attainment of challenging academic content standards and student academic achievement standards, as adopted by a State in accordance with section 6311(b)(1) of this title and measured by the State determined proficient levels on the academic assessments described in section 6311(b)(3) of this title.”
 
-Subsec. (b)(2)(A)(iv). Pub. L. 114–95, § 9215(n)(3)(A)(ii), substituted “(as described in section 6311(c)(4)(A)(i)(I)(bb) of this title)” for “(as described in section 6311(b)(2)(C)(vi) of this title)”.
+Subsec. (b)(2)(A)(iv). Pub. L. 114–95, § 9215(n)(3)(A)(ii), substituted “(as described in section 6311(c)(4)(A)(i)(I)(bb) of this title)” for “(as described in section 6311(b)(2)(C)(vi) of this title)”.
 
-Subsec. (b)(4)(C)(ii)(I). Pub. L. 114–95, § 9215(n)(3)(B), substituted “subgroups” for “categories”.
+Subsec. (b)(4)(C)(ii)(I). Pub. L. 114–95, § 9215(n)(3)(B), substituted “subgroups” for “categories”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1463,7 +1463,7 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-#### § 2324. National activities
+#### § 2324. National activities
 
 **(a) Program performance information**
 
@@ -1589,9 +1589,9 @@ Notwithstanding any other provision of law, the reports required by this subsect
 
 **(iii) Dissemination**
 
-In addition to submitting the reports required under clause (i), the Secretary shall disseminate the results of the evaluation widely and on a timely basis in order to increase the understanding among State and local officials and educators of the effectiveness of programs and activities supported under the 1
+In addition to submitting the reports required under clause (i), the Secretary shall disseminate the results of the evaluation widely and on a timely basis in order to increase the understanding among State and local officials and educators of the effectiveness of programs and activities supported under the 1
 
-<sup>1</sup>  So in original. Probably should be “this”.
+<sup>1</sup> So in original. Probably should be “this”.
 
 chapter and of the career and technical education programs and programs of study that are most likely to produce positive educational and employment outcomes.
 
@@ -1625,7 +1625,7 @@ From amounts made available under subsection (f), the Secretary, after consultat
 
 **(II)** the implementation of programs of study;
 
-**(III)** how States have implemented provisions of the <sup>1</sup> chapter, including both fiscal and programmatic elements;
+**(III)** how States have implemented provisions of the <sup>1</sup> chapter, including both fiscal and programmatic elements;
 
 **(IV)** career and technical education funding and finance models; and
 
@@ -1809,7 +1809,7 @@ The Secretary may extend such grants for not more than 1 additional 2-year perio
 
 **(6)** $8,201,832 for fiscal year 2024.
 
-(Pub. L. 88–210, title I, § 114, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 702; amended Pub. L. 113–76, div. H, title III, § 307(d), Jan. 17, 2014, 128 Stat. 399; Pub. L. 114–95, title IX, § 9215(n)(4), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, § 113, July 31, 2018, 132 Stat. 1588; Pub. L. 117–286, § 4(a)(149), Dec. 27, 2022, 136 Stat. 4322.)
+(Pub. L. 88–210, title I, § 114, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 702; amended Pub. L. 113–76, div. H, title III, § 307(d), Jan. 17, 2014, 128 Stat. 399; Pub. L. 114–95, title IX, § 9215(n)(4), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, § 113, July 31, 2018, 132 Stat. 1588; Pub. L. 117–286, § 4(a)(149), Dec. 27, 2022, 136 Stat. 4322.)
 
 **Editorial Notes**
 
@@ -1817,59 +1817,59 @@ The Secretary may extend such grants for not more than 1 additional 2-year perio
 
 The Strengthening Career and Technical Education for the 21st Century Act, referred to in subsec. (d)(2)(A), (B)(viii), (4)(B)(ii), is Pub. L. 115–224, July 31, 2018, 132 Stat. 1563. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 2301 of this title and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (d)(2)(B)(viii)(III), (4)(B)(ii)(V), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (d)(2)(B)(viii)(III), (4)(B)(ii)(V), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(B)(viii)(III), (4)(B)(ii)(V), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2)(B)(viii)(III), (4)(B)(ii)(V), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(ii)(V), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(ii)(V), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2324, Pub. L. 88–210, title I, § 114, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3089, related to national activities, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2324, Pub. L. 88–210, title I, § 114, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3089, related to national activities, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2324, Pub. L. 88–210, title I, § 114, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, § 114, Sept. 25, 1990, 104 Stat. 769, related to development and approval of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2324, Pub. L. 88–210, title I, § 114, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, § 114, Sept. 25, 1990, 104 Stat. 769, related to development and approval of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
 2022—Subsec. (d)(1)(D). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2018—Subsec. (a)(1). Pub. L. 115–224, § 113(1), substituted “The Secretary shall, in consultation with the Director, collect” for “The Secretary shall collect” and inserted “from eligible agencies under section 2323(b)(3)(C) of this title” after “pursuant to this subchapter”.
+2018—Subsec. (a)(1). Pub. L. 115–224, § 113(1), substituted “The Secretary shall, in consultation with the Director, collect” for “The Secretary shall collect” and inserted “from eligible agencies under section 2323(b)(3)(C) of this title” after “pursuant to this subchapter”.
 
-Subsec. (b). Pub. L. 115–224, § 113(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) required the collection of information at reasonable cost and the cooperation of eligible agencies receiving assistance under this chapter.
+Subsec. (b). Pub. L. 115–224, § 113(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) required the collection of information at reasonable cost and the cooperation of eligible agencies receiving assistance under this chapter.
 
-Subsec. (c)(1). Pub. L. 115–224, § 113(3)(A), substituted “Secretary shall, directly” for “Secretary may, directly”.
+Subsec. (c)(1). Pub. L. 115–224, § 113(3)(A), substituted “Secretary shall, directly” for “Secretary may, directly”.
 
-Subsec. (c)(2)(B). Pub. L. 115–224, § 113(3)(B)(i), inserted “, acting through the Director,” after “describe how the Secretary”.
+Subsec. (c)(2)(B). Pub. L. 115–224, § 113(3)(B)(i), inserted “, acting through the Director,” after “describe how the Secretary”.
 
-Subsec. (c)(2)(C). Pub. L. 115–224, § 113(3)(B)(ii), inserted “, in consultation with the Director,” after “Secretary”.
+Subsec. (c)(2)(C). Pub. L. 115–224, § 113(3)(B)(ii), inserted “, in consultation with the Director,” after “Secretary”.
 
-Subsec. (d)(1)(A). Pub. L. 115–224, § 113(4)(A)(i), inserted “, acting through the Director,” after “The Secretary” and “and the plan developed under subsection (c)” after “described in paragraph (2)” and substituted “evaluation” for “assessment” in two places.
+Subsec. (d)(1)(A). Pub. L. 115–224, § 113(4)(A)(i), inserted “, acting through the Director,” after “The Secretary” and “and the plan developed under subsection (c)” after “described in paragraph (2)” and substituted “evaluation” for “assessment” in two places.
 
-Subsec. (d)(1)(B)(vi). Pub. L. 115–224, § 113(4)(A)(ii)(II), inserted “qualified” before “intermediaries” and substituted “expertise, which may include individuals with expertise in addressing inequities in access to, and in opportunities for, academic and technical skill attainment;” for “expertise.”
+Subsec. (d)(1)(B)(vi). Pub. L. 115–224, § 113(4)(A)(ii)(II), inserted “qualified” before “intermediaries” and substituted “expertise, which may include individuals with expertise in addressing inequities in access to, and in opportunities for, academic and technical skill attainment;” for “expertise.”
 
-Subsec. (d)(1)(B)(vii), (viii). Pub. L. 115–224, § 113(4)(A)(ii)(I), (III), added cls. (vii) and (viii).
+Subsec. (d)(1)(B)(vii), (viii). Pub. L. 115–224, § 113(4)(A)(ii)(I), (III), added cls. (vii) and (viii).
 
-Subsec. (d)(1)(C). Pub. L. 115–224, § 113(4)(A)(iii), inserted “the Director,” after “the Secretary,” and substituted “evaluation” for “assessment”.
+Subsec. (d)(1)(C). Pub. L. 115–224, § 113(4)(A)(iii), inserted “the Director,” after “the Secretary,” and substituted “evaluation” for “assessment”.
 
-Subsec. (d)(2). Pub. L. 115–224, § 113(4)(B)(i), struck out “and assessment” after “Evaluation” in heading.
+Subsec. (d)(2). Pub. L. 115–224, § 113(4)(B)(i), struck out “and assessment” after “Evaluation” in heading.
 
-Subsec. (d)(2)(A). Pub. L. 115–224, § 113(4)(B)(ii), substituted “subsection (f), the Secretary, acting through the Director,” for “subsection (e), the Secretary”, “a series of research and evaluation initiatives for each year for which funds are appropriated to carry out this chapter, which are aligned with the plan in subsection (c)(2),” for “an independent evaluation and assessment”, and “Strengthening Career and Technical Education for the 21st Century Act” for “Carl D. Perkins Career and Technical Education Improvement Act of 2006” and inserted at end “Whenever possible, data used for the evaluation for a fiscal year shall be data from the most recent fiscal year for which such data are available, and from the 5-year period preceding that fiscal year.”
+Subsec. (d)(2)(A). Pub. L. 115–224, § 113(4)(B)(ii), substituted “subsection (f), the Secretary, acting through the Director,” for “subsection (e), the Secretary”, “a series of research and evaluation initiatives for each year for which funds are appropriated to carry out this chapter, which are aligned with the plan in subsection (c)(2),” for “an independent evaluation and assessment”, and “Strengthening Career and Technical Education for the 21st Century Act” for “Carl D. Perkins Career and Technical Education Improvement Act of 2006” and inserted at end “Whenever possible, data used for the evaluation for a fiscal year shall be data from the most recent fiscal year for which such data are available, and from the 5-year period preceding that fiscal year.”
 
-Subsec. (d)(2)(B). Pub. L. 115–224, § 113(4)(B)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) set out the contents of the assessment required under subpar. (A).
+Subsec. (d)(2)(B). Pub. L. 115–224, § 113(4)(B)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) set out the contents of the assessment required under subpar. (A).
 
-Subsec. (d)(2)(C)(i). Pub. L. 115–224, § 113(4)(B)(iv)(I), inserted “, in consultation with the Director,” after “The Secretary” in introductory provisions, added subcls. (I) to (III), and struck out former subcls. (I) and (II) which required an interim report by Jan. 1, 2010, and a final report by July 1, 2011.
+Subsec. (d)(2)(C)(i). Pub. L. 115–224, § 113(4)(B)(iv)(I), inserted “, in consultation with the Director,” after “The Secretary” in introductory provisions, added subcls. (I) to (III), and struck out former subcls. (I) and (II) which required an interim report by Jan. 1, 2010, and a final report by July 1, 2011.
 
-Subsec. (d)(2)(C)(ii). Pub. L. 115–224, § 113(4)(B)(iv)(II), inserted “the Director,” after “the President, the Secretary,” in two places.
+Subsec. (d)(2)(C)(ii). Pub. L. 115–224, § 113(4)(B)(iv)(II), inserted “the Director,” after “the President, the Secretary,” in two places.
 
-Subsec. (d)(2)(C)(iii). Pub. L. 115–224, § 113(4)(B)(iv)(III), added cl. (iii).
+Subsec. (d)(2)(C)(iii). Pub. L. 115–224, § 113(4)(B)(iv)(III), added cl. (iii).
 
-Subsec. (d)(3)(A). Pub. L. 115–224, § 113(4)(C), substituted “State determined levels of performance described in section 2323(b) of this title, as long as such information does not reveal any personally identifiable information” for “State adjusted levels of performance described in section 2323(b) of this title”.
+Subsec. (d)(3)(A). Pub. L. 115–224, § 113(4)(C), substituted “State determined levels of performance described in section 2323(b) of this title, as long as such information does not reveal any personally identifiable information” for “State adjusted levels of performance described in section 2323(b) of this title”.
 
-Subsec. (d)(4), (5). Pub. L. 115–224, § 113(4)(D), added par. (4) and struck out former pars. (4) and (5) which related to grants for research and demonstration programs and dissemination of information.
+Subsec. (d)(4), (5). Pub. L. 115–224, § 113(4)(D), added par. (4) and struck out former pars. (4) and (5) which related to grants for research and demonstration programs and dissemination of information.
 
-Subsec. (e). Pub. L. 115–224, § 113(6), added subsec. (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 115–224, § 113(6), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 115–224, § 113(5), (7), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2007 through 2012.”
+Subsec. (f). Pub. L. 115–224, § 113(5), (7), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2007 through 2012.”
 
 2015—Subsec. (d)(4)(A)(iii)(I)(aa). Pub. L. 114–95 substituted “integrating those programs with challenging State academic standards, as adopted by States under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965;” for “integrating those programs with academic content standards and student academic achievement standards, as adopted by States under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965;”.
 
@@ -1885,7 +1885,7 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-#### § 2325. Assistance for the outlying areas
+#### § 2325. Assistance for the outlying areas
 
 **(a) Outlying areas** From funds reserved pursuant to section 2321(a)(1)(A) of this title, the Secretary shall—
 
@@ -1899,21 +1899,21 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 The Republic of Palau shall cease to be eligible to receive funding under this section upon entering into an agreement for an extension of United States educational assistance under the Compact of Free Association, unless otherwise provided in such agreement.
 
-(Pub. L. 88–210, title I, § 115, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 706; amended Pub. L. 115–224, title I, § 114, July 31, 2018, 132 Stat. 1597.)
+(Pub. L. 88–210, title I, § 115, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 706; amended Pub. L. 115–224, title I, § 114, July 31, 2018, 132 Stat. 1597.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2325, Pub. L. 88–210, title I, § 115, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3094, related to assistance for outlying areas, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2325, Pub. L. 88–210, title I, § 115, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3094, related to assistance for outlying areas, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2325, Pub. L. 88–210, title I, § 115, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, § 115, Sept. 25, 1990, 104 Stat. 770; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, § 391(s)(3), Oct. 20, 1994, 108 Stat. 4024, related to State and local standards and measures, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2325, Pub. L. 88–210, title I, § 115, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, § 115, Sept. 25, 1990, 104 Stat. 770; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–382, title III, § 391(s)(3), Oct. 20, 1994, 108 Stat. 4024, related to State and local standards and measures, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
-2018—Subsec. (a)(3). Pub. L. 115–224, § 114(1), substituted “subject to subsection (b)” for “subject to subsection (d)”.
+2018—Subsec. (a)(3). Pub. L. 115–224, § 114(1), substituted “subject to subsection (b)” for “subject to subsection (d)”.
 
-Subsecs. (b) to (d). Pub. L. 115–224, § 114(2), (3), redesignated subsec. (d) as (b) and struck out former subsecs. (b) and (c) which provided for grants of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title and established a limitation on use.
+Subsecs. (b) to (d). Pub. L. 115–224, § 114(2), (3), redesignated subsec. (d) as (b) and struck out former subsecs. (b) and (c) which provided for grants of the remainder of funds reserved pursuant to section 2321(a)(1)(A) of this title and established a limitation on use.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1921,7 +1921,7 @@ Subsecs. (b) to (d). Pub. L. 115–224, § 114(2), (3), redesignated subsec. (
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2326. Native American programs
+#### § 2326. Native American programs
 
 **(a) Definitions** In this section:
 
@@ -2017,41 +2017,41 @@ Each organization, Tribe, or entity receiving assistance under this section may 
 
 From the funds reserved pursuant to section 2321(a)(1)(B)(ii) of this title, the Secretary shall award grants to or enter into contracts with community-based organizations primarily serving and representing Native Hawaiians to plan, conduct, and administer programs, or portions thereof, which are authorized by and consistent with the provisions of this section for the benefit of Native Hawaiians.
 
-(Pub. L. 88–210, title I, § 116, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 707; amended Pub. L. 114–95, title IX, § 9215(n)(5), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, § 115, July 31, 2018, 132 Stat. 1598.)
+(Pub. L. 88–210, title I, § 116, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 707; amended Pub. L. 114–95, title IX, § 9215(n)(5), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, § 115, July 31, 2018, 132 Stat. 1598.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§ 3401 et seq.) of Title 25, Indians. The Act was renamed the Indian Employment, Training and Related Services Act of 1992 by Pub. L. 115–93, § 2, Dec. 18, 2017, 131 Stat. 2026. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
+The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§ 3401 et seq.) of Title 25, Indians. The Act was renamed the Indian Employment, Training and Related Services Act of 1992 by Pub. L. 115–93, § 2, Dec. 18, 2017, 131 Stat. 2026. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
 
 **Prior Provisions**
 
-A prior section 2326, Pub. L. 88–210, title I, § 116, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3094; amended Pub. L. 107–110, title VII, § 702(b), (c), Jan. 8, 2002, 115 Stat. 1946, 1947, related to Native American program, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2326, Pub. L. 88–210, title I, § 116, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3094; amended Pub. L. 107–110, title VII, § 702(b), (c), Jan. 8, 2002, 115 Stat. 1946, 1947, related to Native American program, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2326, Pub. L. 88–210, title I, § 116, as added Pub. L. 101–392, title I, § 116, Sept. 25, 1990, 104 Stat. 772, related to State assessments of program quality, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2326, Pub. L. 88–210, title I, § 116, as added Pub. L. 101–392, title I, § 116, Sept. 25, 1990, 104 Stat. 772, related to State assessments of program quality, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–224, § 115(1), redesignated pars. (4) and (5) as (3) and (4), respectively, made technical amendments to capitalization of “Native” and “Hawaiian” in headings of pars. (1), (3), and (4) of original Act requiring no change in text and to reference in par. (4) of original Act which appears in text as reference to section 7517 of this title, and struck out former par. (3) which defined “Indian”, “Indian tribe”, and “tribal organization” as having the meanings given those terms in section 5304 of title 25.
+2018—Subsec. (a). Pub. L. 115–224, § 115(1), redesignated pars. (4) and (5) as (3) and (4), respectively, made technical amendments to capitalization of “Native” and “Hawaiian” in headings of pars. (1), (3), and (4) of original Act requiring no change in text and to reference in par. (4) of original Act which appears in text as reference to section 7517 of this title, and struck out former par. (3) which defined “Indian”, “Indian tribe”, and “tribal organization” as having the meanings given those terms in section 5304 of title 25.
 
-Subsec. (b)(1). Pub. L. 115–224, § 115(2)(A), substituted “Indian Tribes, Tribal organizations,” for “Indian tribes, tribal organizations,”.
+Subsec. (b)(1). Pub. L. 115–224, § 115(2)(A), substituted “Indian Tribes, Tribal organizations,” for “Indian tribes, tribal organizations,”.
 
-Subsec. (b)(2). Pub. L. 115–224, § 115(2)(B)(iii), (iv), made technical amendment to references in original Act which appear in text as references to section 5321 of title 25 and sections 5345, 5346, and 5347 of title 25.
+Subsec. (b)(2). Pub. L. 115–224, § 115(2)(B)(iii), (iv), made technical amendment to references in original Act which appear in text as references to section 5321 of title 25 and sections 5345, 5346, and 5347 of title 25.
 
-Pub. L. 115–224, § 115(2)(B)(i), (ii), substituted “Indian tribes and tribal organizations” for “Indian tribes and tribal organizations” in heading of original Act which appears in heading as “Indian Tribes and Tribal organizations” and substituted “Indian Tribe or Tribal organization” for “Indian tribe or tribal organization” in text.
+Pub. L. 115–224, § 115(2)(B)(i), (ii), substituted “Indian tribes and tribal organizations” for “Indian tribes and tribal organizations” in heading of original Act which appears in heading as “Indian Tribes and Tribal organizations” and substituted “Indian Tribe or Tribal organization” for “Indian tribe or tribal organization” in text.
 
-Subsec. (b)(3). Pub. L. 115–224, § 115(2)(C), substituted “Bureau of Indian Education” for “Bureau of Indian Affairs” in heading and text and substituted “An Indian Tribe, a Tribal organization,” for “An Indian tribe, a tribal organization,”.
+Subsec. (b)(3). Pub. L. 115–224, § 115(2)(C), substituted “Bureau of Indian Education” for “Bureau of Indian Affairs” in heading and text and substituted “An Indian Tribe, a Tribal organization,” for “An Indian tribe, a tribal organization,”.
 
-Subsec. (b)(4). Pub. L. 115–224, § 115(2)(D), substituted “Bureau of Indian Education” for “Bureau of Indian Affairs” wherever appearing and “Director of the Bureau of Indian Education” for “Assistant Secretary of the Interior for Indian Affairs”.
+Subsec. (b)(4). Pub. L. 115–224, § 115(2)(D), substituted “Bureau of Indian Education” for “Bureau of Indian Affairs” wherever appearing and “Director of the Bureau of Indian Education” for “Assistant Secretary of the Interior for Indian Affairs”.
 
-Subsec. (b)(5)(A). Pub. L. 115–224, § 115(2)(E), substituted “Indian Tribes, Tribal organizations, and individual Tribal members” for “Indian tribes, tribal organizations, and individual tribal members”.
+Subsec. (b)(5)(A). Pub. L. 115–224, § 115(2)(E), substituted “Indian Tribes, Tribal organizations, and individual Tribal members” for “Indian tribes, tribal organizations, and individual tribal members”.
 
-Subsec. (b)(6). Pub. L. 115–224, § 115(2)(F), substituted “Indian Tribe, Tribal organization,” for “Indian tribe, tribal organization,” in two places.
+Subsec. (b)(6). Pub. L. 115–224, § 115(2)(F), substituted “Indian Tribe, Tribal organization,” for “Indian tribe, tribal organization,” in two places.
 
-Subsec. (c)(2), (3). Pub. L. 115–224, § 115(3), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (c)(2), (3). Pub. L. 115–224, § 115(3), added par. (2) and redesignated former par. (2) as (3).
 
-Subsecs. (d) to (g). Pub. L. 115–224, § 115(4)–(7), substituted “Tribe” for “tribe” and “Tribal” for “tribal” wherever appearing.
+Subsecs. (d) to (g). Pub. L. 115–224, § 115(4)–(7), substituted “Tribe” for “tribe” and “Tribal” for “tribal” wherever appearing.
 
 2015—Subsec. (a)(5). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7517 of this title.
 
@@ -2065,7 +2065,7 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-#### § 2327. Tribally controlled postsecondary career and technical institutions
+#### § 2327. Tribally controlled postsecondary career and technical institutions
 
 **(a) Grant program** Subject to the availability of appropriations, the Secretary shall make grants under this section, to provide basic support for the education and training of Indian students, to tribally controlled postsecondary career and technical institutions that are not receiving Federal assistance as of the date on which the grant is provided under—
 
@@ -2191,41 +2191,41 @@ Any credit earned by an Indian student in a continuing education program of a tr
 
 **(6)** $10,465,321 for fiscal year 2024.
 
-(Pub. L. 88–210, title I, § 117, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 710; amended Pub. L. 110–315, title IX, § 941(j)(2), (k)(2)(D)(ii), Aug. 14, 2008, 122 Stat. 3465, 3466; Pub. L. 115–224, title I, § 116, July 31, 2018, 132 Stat. 1599.)
+(Pub. L. 88–210, title I, § 117, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 710; amended Pub. L. 110–315, title IX, § 941(j)(2), (k)(2)(D)(ii), Aug. 14, 2008, 122 Stat. 3465, 3466; Pub. L. 115–224, title I, § 116, July 31, 2018, 132 Stat. 1599.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsecs. (a)(1) and (d), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325. Title I of the Act is classified generally to subchapter I (§ 1802 et seq.) of chapter 20 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsecs. (a)(1) and (d), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325. Title I of the Act is classified generally to subchapter I (§ 1802 et seq.) of chapter 20 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 The Navajo Community College Act, referred to in subsecs. (a)(2) and (d), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of Title 25, Indians, and was omitted from the Code as being of special and not general application.
 
-The Higher Education Act of 1965, referred to in subsec. (f)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 **Prior Provisions**
 
-A prior section 2327, Pub. L. 88–210, title I, § 117, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3097; amended Pub. L. 106–554, § 1(a)(1) [title III, § 310], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 107–20, title II, § 2701(a), July 24, 2001, 115 Stat. 181, related to tribally controlled postsecondary vocational and technical institutions, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2327, Pub. L. 88–210, title I, § 117, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3097; amended Pub. L. 106–554, § 1(a)(1) [title III, § 310], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 107–20, title II, § 2701(a), July 24, 2001, 115 Stat. 181, related to tribally controlled postsecondary vocational and technical institutions, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2327, Pub. L. 88–210, title I, § 117, as added Pub. L. 101–392, title I, § 116, Sept. 25, 1990, 104 Stat. 772, related to program evaluation and improvement, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2327, Pub. L. 88–210, title I, § 117, as added Pub. L. 101–392, title I, § 116, Sept. 25, 1990, 104 Stat. 772, related to program evaluation and improvement, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
-2018—Subsecs. (a)(2), (d). Pub. L. 115–224, § 116(1), (2), substituted “(Public Law 92–189; 85 Stat. 646)” for “(25 U.S.C. 640a et seq.)”.
+2018—Subsecs. (a)(2), (d). Pub. L. 115–224, § 116(1), (2), substituted “(Public Law 92–189; 85 Stat. 646)” for “(25 U.S.C. 640a et seq.)”.
 
-Subsec. (f)(3). Pub. L. 115–224, § 116(3), substituted “Tribe” for “tribe” in two places.
+Subsec. (f)(3). Pub. L. 115–224, § 116(3), substituted “Tribe” for “tribe” in two places.
 
-Subsec. (h). Pub. L. 115–224, § 116(4), substituted “Indian tribe” for “indian tribe” in heading of original Act which appears in heading as “Indian Tribe” and substituted “terms ‘Indian’ and ‘Indian Tribe’ have the meanings given the terms ‘Indian’ and ‘Indian tribe’, respectively, in” for “terms ‘Indian’ and ‘Indian tribe’ have the meanings given the terms in” in text.
+Subsec. (h). Pub. L. 115–224, § 116(4), substituted “Indian tribe” for “indian tribe” in heading of original Act which appears in heading as “Indian Tribe” and substituted “terms ‘Indian’ and ‘Indian Tribe’ have the meanings given the terms ‘Indian’ and ‘Indian tribe’, respectively, in” for “terms ‘Indian’ and ‘Indian tribe’ have the meanings given the terms in” in text.
 
-Subsec. (i). Pub. L. 115–224, § 116(5), added subsec. (i) and struck out former subsec. (i) which authorized appropriations as necessary for fiscal years 2007 through 2012.
+Subsec. (i). Pub. L. 115–224, § 116(5), added subsec. (i) and struck out former subsec. (i) which authorized appropriations as necessary for fiscal years 2007 through 2012.
 
-2008—Subsec. (a). Pub. L. 110–315, § 941(j)(2)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary career and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) to provide basic support for the education and training of Indian students.”
+2008—Subsec. (a). Pub. L. 110–315, § 941(j)(2)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary career and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) to provide basic support for the education and training of Indian students.”
 
-Subsec. (d). Pub. L. 110–315, § 941(j)(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Any tribally controlled postsecondary career and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require.”
+Subsec. (d). Pub. L. 110–315, § 941(j)(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Any tribally controlled postsecondary career and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require.”
 
-Subsec. (h)(1). Pub. L. 110–315, § 941(k)(2)(D)(ii), substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+Subsec. (h)(1). Pub. L. 110–315, § 941(k)(2)(D)(ii), substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2233,35 +2233,35 @@ Subsec. (h)(1). Pub. L. 110–315, § 941(k)(2)(D)(ii), substituted “the Tri
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2328. Repealed. Pub. L. 115–224, title I, § 117, July 31, 2018, 132 Stat. 1599
+#### § 2328. Repealed. Pub. L. 115–224, title I, § 117, July 31, 2018, 132 Stat. 1599
 
-Section, Pub. L. 88–210, title I, § 118, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 713; amended Pub. L. 113–128, title V, § 512(e)(1), July 22, 2014, 128 Stat. 1706, Pub. L. 115 related to occupational and employment information and grants to States.
+Section, Pub. L. 88–210, title I, § 118, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 713; amended Pub. L. 113–128, title V, § 512(e)(1), July 22, 2014, 128 Stat. 1706, Pub. L. 115 related to occupational and employment information and grants to States.
 
-A prior section 2328, Pub. L. 88–210, title I, § 118, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3100, related to occupational and employment information, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2328, Pub. L. 88–210, title I, § 118, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3100, related to occupational and employment information, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2328, Pub. L. 88–210, title I, § 118, as added Pub. L. 101–392, title I, § 116, Sept. 25, 1990, 104 Stat. 773, related to criteria for services and activities for individuals who are members of special populations, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2328, Pub. L. 88–210, title I, § 118, as added Pub. L. 101–392, title I, § 116, Sept. 25, 1990, 104 Stat. 773, related to criteria for services and activities for individuals who are members of special populations, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-A prior section 2331, Pub. L. 88–210, title II, § 201, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 776, related to State programs and State leadership activities, prior to the general amendment of this chapter by Pub. L. 105–332.
+A prior section 2331, Pub. L. 88–210, title II, § 201, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 776, related to State programs and State leadership activities, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 Another prior section 2331 and prior sections 2332 to 2334 were omitted in the general amendment of this subchapter by Pub. L. 101–392.
 
-Section 2331, Pub. L. 88–210, title II, § 201, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2450; amended Pub. L. 100–297, title II, § 2401(a), Apr. 28, 1988, 102 Stat. 324, related to use of a portion of a State’s allotment to provide vocational education services and activities to meet special needs of handicapped individuals, disadvantaged individuals, single parents, homemakers, or single pregnant women, and other groups.
+Section 2331, Pub. L. 88–210, title II, § 201, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2450; amended Pub. L. 100–297, title II, § 2401(a), Apr. 28, 1988, 102 Stat. 324, related to use of a portion of a State’s allotment to provide vocational education services and activities to meet special needs of handicapped individuals, disadvantaged individuals, single parents, homemakers, or single pregnant women, and other groups.
 
-Section 2332, Pub. L. 88–210, title II, § 202, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2452; amended Pub. L. 100–202, § 101(h) [title III, § 300], Dec. 22, 1987, 101 Stat. 1329–256, 1329–279; Pub. L. 100–297, title II, § 2401(b), (c), Apr. 28, 1988, 102 Stat. 324, related to distribution of assistance from State allotment to provide vocational education opportunities.
+Section 2332, Pub. L. 88–210, title II, § 202, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2452; amended Pub. L. 100–202, § 101(h) [title III, § 300], Dec. 22, 1987, 101 Stat. 1329–256, 1329–279; Pub. L. 100–297, title II, § 2401(b), (c), Apr. 28, 1988, 102 Stat. 324, related to distribution of assistance from State allotment to provide vocational education opportunities.
 
-Section 2333, Pub. L. 88–210, title II, § 203, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2453; amended Pub. L. 99–159, title VII, § 705, Nov. 22, 1985, 99 Stat. 905, related to allocation within individual States of the funds available for vocational education services and activities for the handicapped.
+Section 2333, Pub. L. 88–210, title II, § 203, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2453; amended Pub. L. 99–159, title VII, § 705, Nov. 22, 1985, 99 Stat. 905, related to allocation within individual States of the funds available for vocational education services and activities for the handicapped.
 
-Section 2334, Pub. L. 88–210, title II, § 204, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2454; amended Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, related to criteria for services and activities for the handicapped and for the disadvantaged.
+Section 2334, Pub. L. 88–210, title II, § 204, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2454; amended Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, related to criteria for services and activities for the handicapped and for the disadvantaged.
 
 Prior sections 2335 to 2336 were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2335, Pub. L. 88–210, title II, § 221, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 777, related to programs for single parents, displaced homemakers, and single pregnant women.
+Section 2335, Pub. L. 88–210, title II, § 221, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 777, related to programs for single parents, displaced homemakers, and single pregnant women.
 
-Section 2335a, Pub. L. 88–210, title II, § 222, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 778, related to sex equity programs.
+Section 2335a, Pub. L. 88–210, title II, § 222, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 778, related to sex equity programs.
 
-Section 2335b, Pub. L. 88–210, title II, § 223, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 778, related to competitive award of amounts and evaluation of programs.
+Section 2335b, Pub. L. 88–210, title II, § 223, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 778, related to competitive award of amounts and evaluation of programs.
 
-Section 2336, Pub. L. 88–210, title II, § 225, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 778, related to programs for criminal offenders.
+Section 2336, Pub. L. 88–210, title II, § 225, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 778, related to programs for criminal offenders.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2271,7 +2271,7 @@ Repeal effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as an
 
 ### Part B—State Provisions
 
-#### § 2341. State administration
+#### § 2341. State administration
 
 **(a) Eligible agency responsibilities** The responsibilities of an eligible agency under this subchapter shall include—
 
@@ -2291,33 +2291,33 @@ Repeal effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as an
 
 Except with respect to the responsibilities set forth in subsection (a), the eligible agency may delegate any of the other responsibilities of the eligible agency that involve the administration, operation, or supervision of activities assisted under this subchapter, in whole or in part, to 1 or more appropriate State agencies.
 
-(Pub. L. 88–210, title I, § 121, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 715; amended Pub. L. 113–128, title V, § 512(e)(2), July 22, 2014, 128 Stat. 1706; Pub. L. 115–224, title I, § 121, July 31, 2018, 132 Stat. 1599.)
+(Pub. L. 88–210, title I, § 121, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 715; amended Pub. L. 113–128, title V, § 512(e)(2), July 22, 2014, 128 Stat. 1706; Pub. L. 115–224, title I, § 121, July 31, 2018, 132 Stat. 1599.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2341, Pub. L. 88–210, title I, § 121, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3102, related to State administration, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2341, Pub. L. 88–210, title I, § 121, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3102, related to State administration, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2341 and prior sections 2341a to 2341c were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2341, Pub. L. 88–210, title II, § 231, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 779; amended Pub. L. 103–382, title III, § 391(s)(4), (5), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 104–193, title I, § 110(i)(1), Aug. 22, 1996, 110 Stat. 2172, related to distribution of funds to secondary school programs. See section 2351 of this title.
+Section 2341, Pub. L. 88–210, title II, § 231, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 779; amended Pub. L. 103–382, title III, § 391(s)(4), (5), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 104–193, title I, § 110(i)(1), Aug. 22, 1996, 110 Stat. 2172, related to distribution of funds to secondary school programs. See section 2351 of this title.
 
-Another prior section 2341, Pub. L. 88–210, title II, § 251, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2455; amended Pub. L. 100–418, title VI, § 6132, Aug. 23, 1988, 102 Stat. 1511, related to the uses of the portion of a State’s allotment available for vocational education program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
+Another prior section 2341, Pub. L. 88–210, title II, § 251, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2455; amended Pub. L. 100–418, title VI, § 6132, Aug. 23, 1988, 102 Stat. 1511, related to the uses of the portion of a State’s allotment available for vocational education program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
 
-Section 2341a, Pub. L. 88–210, title II, § 232, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 781; amended Pub. L. 103–208, § 4, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103–382, title III, § 351(a)(1), Oct. 20, 1994, 108 Stat. 3966; Pub. L. 104–193, title I, § 110(i)(2), Aug. 22, 1996, 110 Stat. 2172, related to distribution of funds to postsecondary and adult programs. See section 2352 of this title.
+Section 2341a, Pub. L. 88–210, title II, § 232, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 781; amended Pub. L. 103–208, § 4, Dec. 20, 1993, 107 Stat. 2487; Pub. L. 103–382, title III, § 351(a)(1), Oct. 20, 1994, 108 Stat. 3966; Pub. L. 104–193, title I, § 110(i)(2), Aug. 22, 1996, 110 Stat. 2172, related to distribution of funds to postsecondary and adult programs. See section 2352 of this title.
 
-Section 2341b, Pub. L. 88–210, title II, § 233, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 782, related to special rule for minimal allocations. See section 2353 of this title.
+Section 2341b, Pub. L. 88–210, title II, § 233, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 782, related to special rule for minimal allocations. See section 2353 of this title.
 
-Section 2341c, Pub. L. 88–210, title II, § 234, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 783, related to reallocations. See section 2353 of this title.
+Section 2341c, Pub. L. 88–210, title II, § 234, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 783, related to reallocations. See section 2353 of this title.
 
 **Amendments**
 
 2018—Subsec. (a)(2). Pub. L. 115–224 substituted “teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies and charter school leaders (consistent with State law), employers, representatives of business (including small businesses), labor organizations, eligible recipients, local program administrators, State and local officials, Indian Tribes or Tribal organizations present in the State, parents, students, and community organizations;” for “parents, students, teachers, teacher and faculty preparation programs, representatives of businesses (including small businesses), labor organizations, eligible recipients, State and local officials, and local program administrators, involved in the planning, administration, evaluation, and coordination of programs funded under this subchapter;”.
 
-2014—Subsec. (a)(4)(A). Pub. L. 113–128, § 512(e)(2)(A), substituted “activities undertaken by the State boards under section 3111 of title 29” for “activities undertaken by the State boards under section 2821 of title 29”.
+2014—Subsec. (a)(4)(A). Pub. L. 113–128, § 512(e)(2)(A), substituted “activities undertaken by the State boards under section 3111 of title 29” for “activities undertaken by the State boards under section 2821 of title 29”.
 
-Subsec. (a)(4)(B). Pub. L. 113–128, § 512(e)(2)(B), substituted “the one-stop delivery system under section 3151 of title 29” for “the service delivery system under section 2841 of title 29”.
+Subsec. (a)(4)(B). Pub. L. 113–128, § 512(e)(2)(B), substituted “the one-stop delivery system under section 3151 of title 29” for “the service delivery system under section 2841 of title 29”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2329,7 +2329,7 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
-#### § 2342. State plan
+#### § 2342. State plan
 
 **(a) State plan**
 
@@ -2481,13 +2481,13 @@ The eligible agency shall develop effective activities and procedures, including
 
 **(11)** a description of how the eligible agency will address disparities or gaps in performance, as described in section 2323(b)(3)(C)(ii)(II) of this title, in each of the plan years, and if no meaningful progress has been achieved prior to the third program year, a description of the additional actions the eligible agency will take to eliminate these disparities or gaps;
 
-**(12)** describes 1
+**(12)** describes 1
 
-<sup>1</sup>  So in original. Probably should be “a description of”.
+<sup>1</sup> So in original. Probably should be “a description of”.
 
-how the eligible agency will involve parents, academic and career and technical education teachers, administrators, faculty, career guidance and academic counselors, local business (including small businesses), labor organizations, and representatives of Indian Tribes and Tribal organizations, as appropriate, in the planning, development, implementation, and evaluation of such career and technical education programs; and 2
+how the eligible agency will involve parents, academic and career and technical education teachers, administrators, faculty, career guidance and academic counselors, local business (including small businesses), labor organizations, and representatives of Indian Tribes and Tribal organizations, as appropriate, in the planning, development, implementation, and evaluation of such career and technical education programs; and 2
 
-<sup>2</sup>  So in original. The word “and” probably should not appear.
+<sup>2</sup> So in original. The word “and” probably should not appear.
 
 **(13)** assurances that—
 
@@ -2539,45 +2539,45 @@ A Governor shall have 30 days prior to the eligible agency submitting the State 
 
 **(B)** shall not finally disapprove a State plan, except after making the determination and providing the information described in subparagraph (A), and giving the eligible agency notice and an opportunity for a hearing.
 
-(Pub. L. 88–210, title I, § 122, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 715; amended Pub. L. 113–128, title V, § 512(e)(3), July 22, 2014, 128 Stat. 1706; Pub. L. 114–95, title IX, § 9215(n)(6), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, § 122, July 31, 2018, 132 Stat. 1600.)
+(Pub. L. 88–210, title I, § 122, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 715; amended Pub. L. 113–128, title V, § 512(e)(3), July 22, 2014, 128 Stat. 1706; Pub. L. 114–95, title IX, § 9215(n)(6), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, § 122, July 31, 2018, 132 Stat. 1600.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title II of the Act is classified generally to subchapter II (§ 6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(3)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title II of the Act is classified generally to subchapter II (§ 6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (d)(3)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (d)(3)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2342, Pub. L. 88–210, title I, § 122, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3102, related to State plan, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2342, Pub. L. 88–210, title I, § 122, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3102, related to State plan, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2342, Pub. L. 88–210, title II, § 235, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 783, related to uses of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2342, Pub. L. 88–210, title II, § 235, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 783, related to uses of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-Another prior section 2342, Pub. L. 88–210, title II, § 252, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2457, related to criteria for program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
+Another prior section 2342, Pub. L. 88–210, title II, § 252, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2457, related to criteria for program improvement, innovation, and expansion, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–224, § 122(1)(A), substituted “4-year period, consistent with subsection (b) and paragraph (5),” for “6-year period,” and “July 31, 2018” for “August 12, 2006”.
+2018—Subsec. (a)(1). Pub. L. 115–224, § 122(1)(A), substituted “4-year period, consistent with subsection (b) and paragraph (5),” for “6-year period,” and “July 31, 2018” for “August 12, 2006”.
 
-Subsec. (a)(2)(B). Pub. L. 115–224, § 122(1)(B), substituted “4-year period” for “6-year period”.
+Subsec. (a)(2)(B). Pub. L. 115–224, § 122(1)(B), substituted “4-year period” for “6-year period”.
 
-Subsec. (a)(3). Pub. L. 115–224, § 122(1)(C), substituted “(including teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies and charter school leaders (consistent with State law), employers, labor organizations, parents, students, Indian Tribes and Tribal organizations that may be present in the State, and community organizations)” for “(including charter school authorizers and organizers consistent with State law, employers, labor organizations, parents, students, and community organizations)”.
+Subsec. (a)(3). Pub. L. 115–224, § 122(1)(C), substituted “(including teachers, faculty, specialized instructional support personnel, paraprofessionals, school leaders, authorized public chartering agencies and charter school leaders (consistent with State law), employers, labor organizations, parents, students, Indian Tribes and Tribal organizations that may be present in the State, and community organizations)” for “(including charter school authorizers and organizers consistent with State law, employers, labor organizations, parents, students, and community organizations)”.
 
-Subsec. (a)(4), (5). Pub. L. 115–224, § 122(1)(D), added pars. (4) and (5).
+Subsec. (a)(4), (5). Pub. L. 115–224, § 122(1)(D), added pars. (4) and (5).
 
-Subsecs. (b) to (f). Pub. L. 115–224, § 122(2), added subsecs. (b) to (f) and struck out former subsecs. (b) to (e) which related to development, contents, options, and approval of State plans.
+Subsecs. (b) to (f). Pub. L. 115–224, § 122(2), added subsecs. (b) to (f) and struck out former subsecs. (b) to (e) which related to development, contents, options, and approval of State plans.
 
-2015—Subsec. (c)(1)(I)(i). Pub. L. 114–95, § 9215(n)(6)(A), substituted “aligned with challenging State academic standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965” for “aligned with rigorous and challenging academic content standards and student academic achievement standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965”.
+2015—Subsec. (c)(1)(I)(i). Pub. L. 114–95, § 9215(n)(6)(A), substituted “aligned with challenging State academic standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965” for “aligned with rigorous and challenging academic content standards and student academic achievement standards adopted by the State under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965”.
 
-Subsec. (c)(7)(A)(i). Pub. L. 114–95, § 9215(n)(6)(B), substituted “a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965)” for “the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965)”.
+Subsec. (c)(7)(A)(i). Pub. L. 114–95, § 9215(n)(6)(B), substituted “a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965)” for “the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965)”.
 
-2014—Subsec. (b)(1)(A)(viii). Pub. L. 113–128, § 512(e)(3)(A), substituted “entities participating in activities described in section 3111 of title 29” for “entities participating in activities described in section 2821 of title 29”.
+2014—Subsec. (b)(1)(A)(viii). Pub. L. 113–128, § 512(e)(3)(A), substituted “entities participating in activities described in section 3111 of title 29” for “entities participating in activities described in section 2821 of title 29”.
 
-Subsec. (c)(20). Pub. L. 113–128, § 512(e)(3)(B), substituted “the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts” for “the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts”.
+Subsec. (c)(20). Pub. L. 113–128, § 512(e)(3)(B), substituted “the description and information specified in subparagraphs (B) and (C)(iii) of section 3112(b)(2), and, as appropriate, section 3113(b)(3)(A), and section 3151(c), of title 29 concerning the provision of services only for postsecondary students and school dropouts” for “the description and information specified in sections 2822(b)(8) and 2841(c) of title 29 concerning the provision of services only for postsecondary students and school dropouts”.
 
-Subsec. (d)(2). Pub. L. 113–128, § 512(e)(3)(C), substituted “combined plan” for “501 plan” in heading and “as part of the plan submitted under section 3113 of title 29” for “as part of the plan submitted under section 501 of Public Law 105–220” in text.
+Subsec. (d)(2). Pub. L. 113–128, § 512(e)(3)(C), substituted “combined plan” for “501 plan” in heading and “as part of the plan submitted under section 3113 of title 29” for “as part of the plan submitted under section 501 of Public Law 105–220” in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2593,15 +2593,15 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
-#### § 2343. Improvement plans
+#### § 2343. Improvement plans
 
 **(a) State program improvement**
 
 **(1) Plan**
 
-If a State fails to meet at least 90 percent of the State determined level of performance for any of the core indicators of performance described in 2323(b)(2) 1
+If a State fails to meet at least 90 percent of the State determined level of performance for any of the core indicators of performance described in 2323(b)(2) 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “section”.
+<sup>1</sup> So in original. Probably should be preceded by “section”.
 
 of this title for all CTE concentrators, the eligible agency shall develop and implement a program improvement plan (that includes an analysis of the performance disparities or gaps identified under section 2323(b)(3)(C)(ii)(II) of this title, and actions that will be taken to address such gaps) in consultation with the appropriate agencies, individuals, and organizations during the first program year succeeding the program year for which the eligible agency failed to so meet the State determined level of performance for any of the core indicators of performance.
 
@@ -2609,7 +2609,7 @@ of this title for all CTE concentrators, the eligible agency shall develop and i
 
 If the Secretary determines that an eligible agency is not properly implementing the eligible agency’s responsibilities under section 2342 of this title, or is not making substantial progress in meeting the purposes of this section, including after implementation of the improvement plan described in paragraph (1),,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 based on the State determined levels of performance, the Secretary shall work with the eligible agency to implement the improvement activities consistent with the requirements of this chapter.
 
@@ -2671,45 +2671,45 @@ The eligible agency shall use funds withheld under paragraph (4) from an eligibl
 
 An eligible recipient shall not be eligible to adjust performance levels while executing an improvement plan under this section.
 
-(Pub. L. 88–210, title I, § 123, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 721; amended Pub. L. 115–224, title I, § 123, July 31, 2018, 132 Stat. 1606.)
+(Pub. L. 88–210, title I, § 123, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 721; amended Pub. L. 115–224, title I, § 123, July 31, 2018, 132 Stat. 1606.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2343, Pub. L. 88–210, title I, § 123, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3106, related to improvement plans, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2343, Pub. L. 88–210, title I, § 123, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3106, related to improvement plans, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2343, Pub. L. 88–210, title II, § 240, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 784, related to local applications, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2343, Pub. L. 88–210, title II, § 240, as added Pub. L. 101–392, title II, § 201, Sept. 25, 1990, 104 Stat. 784, related to local applications, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–224, § 123(1)(A), substituted “percent of the” for “percent of an agreed upon”, “State determined level of performance” for “State adjusted level of performance” in two places, “2323(b)(2) of this title for all CTE concentrators” for “section 2323(b)(3) of this title”, and “(that includes an analysis of the performance disparities or gaps identified under section 2323(b)(3)(C)(ii)(II) of this title, and actions that will be taken to address such gaps)” for “(with special consideration to performance gaps identified under section 2323(c)(2) of this title)”.
+2018—Subsec. (a)(1). Pub. L. 115–224, § 123(1)(A), substituted “percent of the” for “percent of an agreed upon”, “State determined level of performance” for “State adjusted level of performance” in two places, “2323(b)(2) of this title for all CTE concentrators” for “section 2323(b)(3) of this title”, and “(that includes an analysis of the performance disparities or gaps identified under section 2323(b)(3)(C)(ii)(II) of this title, and actions that will be taken to address such gaps)” for “(with special consideration to performance gaps identified under section 2323(c)(2) of this title)”.
 
-Subsec. (a)(2). Pub. L. 115–224, § 123(1)(B), substituted “purposes of this section, including after implementation of the improvement plan described in paragraph (1),” for “purposes of this chapter” and “State determined levels of performance” for “State’s adjusted levels of performance”.
+Subsec. (a)(2). Pub. L. 115–224, § 123(1)(B), substituted “purposes of this section, including after implementation of the improvement plan described in paragraph (1),” for “purposes of this chapter” and “State determined levels of performance” for “State’s adjusted levels of performance”.
 
-Subsec. (a)(3)(A)(ii), (iii). Pub. L. 115–224, § 123(1)(C), added cl. (ii) and struck out former cls. (ii) and (iii) which read as follows:
+Subsec. (a)(3)(A)(ii), (iii). Pub. L. 115–224, § 123(1)(C), added cl. (ii) and struck out former cls. (ii) and (iii) which read as follows:
 
 “(ii) fails to make any improvement in meeting any of the State adjusted levels of performance for the core indicators of performance identified under paragraph (1) within the first program year of implementation of its improvement plan described in paragraph (1); or
 
 “(iii) fails to meet at least 90 percent of an agreed upon State adjusted level of performance for the same core indicator of performance for 3 consecutive years.”
 
-Subsec. (a)(5). Pub. L. 115–224, § 123(1)(D), added par. (5).
+Subsec. (a)(5). Pub. L. 115–224, § 123(1)(D), added par. (5).
 
-Subsec. (b). Pub. L. 115–224, § 123(2)(A), substituted “local level” for “local adjusted level” and “local levels” for “local adjusted levels” wherever appearing.
+Subsec. (b). Pub. L. 115–224, § 123(2)(A), substituted “local level” for “local adjusted level” and “local levels” for “local adjusted levels” wherever appearing.
 
-Subsec. (b)(2). Pub. L. 115–224, § 123(2)(B)(ii), which directed substitution of “(that includes an analysis of the performance disparities or gaps identified under section 2323(b)(3)(C)(ii)(II) of this title, and actions that will be taken to address such gaps) in consultation with local stakeholders described in section 2354(d)(1) of this title, the eligible agency, and” for “(with special consideration to performance gaps identified under section 2323(b)(4)(C)(ii)(II) of this title in consultation with the eligible agency,”, was executed by making the substitution for text containing another closing parenthesis after “of this title”, to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 115–224, § 123(2)(B)(ii), which directed substitution of “(that includes an analysis of the performance disparities or gaps identified under section 2323(b)(3)(C)(ii)(II) of this title, and actions that will be taken to address such gaps) in consultation with local stakeholders described in section 2354(d)(1) of this title, the eligible agency, and” for “(with special consideration to performance gaps identified under section 2323(b)(4)(C)(ii)(II) of this title in consultation with the eligible agency,”, was executed by making the substitution for text containing another closing parenthesis after “of this title”, to reflect the probable intent of Congress.
 
-Pub. L. 115–224, § 123(2)(B)(i), inserted “for all CTE concentrators” after “section 2323(b)(4) of this title”.
+Pub. L. 115–224, § 123(2)(B)(i), inserted “for all CTE concentrators” after “section 2323(b)(4) of this title”.
 
-Subsec. (b)(4)(A)(ii), (iii). Pub. L. 115–224, § 123(2)(C)(i), added cl. (ii) and struck out former cls. (ii) and (iii) which read as follows:
+Subsec. (b)(4)(A)(ii), (iii). Pub. L. 115–224, § 123(2)(C)(i), added cl. (ii) and struck out former cls. (ii) and (iii) which read as follows:
 
 “(ii) fails to make any improvement in meeting any of the local adjusted levels of performance for the core indicators of performance identified under paragraph (2) within the first program year of implementation of its improvement plan described in paragraph (2); or
 
 “(iii) fails to meet at least 90 percent of an agreed upon local adjusted level of performance for the same core indicator of performance for 3 consecutive years.”
 
-Subsec. (b)(4)(B)(iii). Pub. L. 115–224, § 123(2)(C)(ii), added cl. (iii).
+Subsec. (b)(4)(B)(iii). Pub. L. 115–224, § 123(2)(C)(ii), added cl. (iii).
 
-Subsec. (b)(6). Pub. L. 115–224, § 123(2)(D), added par. (6).
+Subsec. (b)(6). Pub. L. 115–224, § 123(2)(D), added par. (6).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2717,7 +2717,7 @@ Subsec. (b)(6). Pub. L. 115–224, § 123(2)(D), added par. (6).
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2344. State leadership activities
+#### § 2344. State leadership activities
 
 **(a) General authority** From amounts reserved under section 2322(a)(2) of this title, each eligible agency shall—
 
@@ -2831,27 +2831,27 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 An eligible agency that receives funds under section 2322(a)(2) of this title may not use any of such funds for administrative costs, unless expressly authorized under subsection (a).
 
-(Pub. L. 88–210, title I, § 124, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 723; amended Pub. L. 113–128, title V, § 512(e)(4), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, § 9215(n)(7), Dec. 10, 2015, 129 Stat. 2170; Pub. L. 115–224, title I, § 124, July 31, 2018, 132 Stat. 1608.)
+(Pub. L. 88–210, title I, § 124, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 723; amended Pub. L. 113–128, title V, § 512(e)(4), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, § 9215(n)(7), Dec. 10, 2015, 129 Stat. 2170; Pub. L. 115–224, title I, § 124, July 31, 2018, 132 Stat. 1608.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title II of the Act is classified generally to subchapter II (§ 6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title II of the Act is classified generally to subchapter II (§ 6601 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2344, Pub. L. 88–210, title I, § 124, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3107, related to State leadership activities, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2344, Pub. L. 88–210, title I, § 124, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3107, related to State leadership activities, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–224, § 124(1), substituted “shall—” for “shall conduct State leadership activities.” and added pars. (1) and (2).
+2018—Subsec. (a). Pub. L. 115–224, § 124(1), substituted “shall—” for “shall conduct State leadership activities.” and added pars. (1) and (2).
 
-Subsec. (b). Pub. L. 115–224, § 124(2), substituted “Permissible” for “Required” in heading and “may” for “shall” in introductory provisions, added pars. (1) to (25), and struck out former pars. (1) to (9) which set out activities required to be included in State leadership activities.
+Subsec. (b). Pub. L. 115–224, § 124(2), substituted “Permissible” for “Required” in heading and “may” for “shall” in introductory provisions, added pars. (1) to (25), and struck out former pars. (1) to (9) which set out activities required to be included in State leadership activities.
 
-Subsecs. (c), (d). Pub. L. 115–224, § 124(3)–(5), redesignated subsec. (d) as (c), inserted “, unless expressly authorized under subsection (a)” before period at end, and struck out former subsec. (c) which set out permissible uses of funds for State leadership activities.
+Subsecs. (c), (d). Pub. L. 115–224, § 124(3)–(5), redesignated subsec. (d) as (c), inserted “, unless expressly authorized under subsection (a)” before period at end, and struck out former subsec. (c) which set out permissible uses of funds for State leadership activities.
 
 2015—Subsec. (b)(4)(A). Pub. L. 114–95 substituted “a well-rounded education (as defined in section 8101 of the Elementary and Secondary Education Act of 1965)” for “the core academic subjects (as defined in section 9101 of the Elementary and Secondary Education Act of 1965)”.
 
@@ -2873,7 +2873,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 ### Part C—Local Provisions
 
-#### § 2351. Distribution of funds to secondary education programs
+#### § 2351. Distribution of funds to secondary education programs
 
 **(a) Distribution rules** Except as provided in section 2353 of this title and as otherwise provided in this section, each eligible agency shall distribute the portion of funds made available under section 2322(a)(1) of this title to carry out this section to local educational agencies within the State as follows:
 
@@ -2967,29 +2967,29 @@ The Secretary shall collect information from eligible agencies regarding the spe
 
 Each eligible agency distributing funds under this section shall treat a secondary school funded by the Bureau of Indian Education within the State as if such school were a local educational agency within the State for the purpose of receiving a distribution under this section.
 
-(Pub. L. 88–210, title I, § 131, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 727; amended Pub. L. 115–224, title I, § 131, July 31, 2018, 132 Stat. 1612.)
+(Pub. L. 88–210, title I, § 131, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 727; amended Pub. L. 115–224, title I, § 131, July 31, 2018, 132 Stat. 1612.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 **Prior Provisions**
 
-A prior section 2351, Pub. L. 88–210, title I, § 131, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3109, related to distribution of funds to secondary school programs, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2351, Pub. L. 88–210, title I, § 131, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3109, related to distribution of funds to secondary school programs, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2351, Pub. L. 88–210, title III, § 301, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2457, related to applications by community-based organizations, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2351, Pub. L. 88–210, title III, § 301, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2457, related to applications by community-based organizations, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
-2018—Subsec. (a)(3)(B). Pub. L. 115–224, § 131(1), substituted “Bureau of Indian Education” for “Bureau of Indian Affairs”.
+2018—Subsec. (a)(3)(B). Pub. L. 115–224, § 131(1), substituted “Bureau of Indian Education” for “Bureau of Indian Affairs”.
 
-Subsec. (c)(2)(A)(ii). Pub. L. 115–224, § 131(2), inserted “or programs of study” after “technical education programs”.
+Subsec. (c)(2)(A)(ii). Pub. L. 115–224, § 131(2), inserted “or programs of study” after “technical education programs”.
 
-Subsec. (g). Pub. L. 115–224, § 131(3), inserted “and programs of study” after “technical education programs”.
+Subsec. (g). Pub. L. 115–224, § 131(3), inserted “and programs of study” after “technical education programs”.
 
-Subsec. (h). Pub. L. 115–224, § 131(4), substituted “Bureau of Indian Education” for “Bureau of Indian Affairs”.
+Subsec. (h). Pub. L. 115–224, § 131(4), substituted “Bureau of Indian Education” for “Bureau of Indian Affairs”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2997,7 +2997,7 @@ Subsec. (h). Pub. L. 115–224, § 131(4), substituted “Bureau of Indian Edu
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2352. Distribution of funds for postsecondary education programs
+#### § 2352. Distribution of funds for postsecondary education programs
 
 **(a) Allocation**
 
@@ -3041,17 +3041,17 @@ No institution or consortium shall receive an allocation under this section in a
 
 Any amounts that are not distributed by reason of paragraph (1) shall be redistributed to eligible institutions or consortia in accordance with this section.
 
-(Pub. L. 88–210, title I, § 132, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 730.)
+(Pub. L. 88–210, title I, § 132, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 730.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2352, Pub. L. 88–210, title I, § 132, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3112, related to distribution of funds for postsecondary vocational and technical education programs, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2352, Pub. L. 88–210, title I, § 132, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3112, related to distribution of funds for postsecondary vocational and technical education programs, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2352, Pub. L. 88–210, title III, § 302, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 101–392, title III, § 301, Sept. 25, 1990, 104 Stat. 786, related to use of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2352, Pub. L. 88–210, title III, § 302, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 101–392, title III, § 301, Sept. 25, 1990, 104 Stat. 786, related to use of funds, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-#### § 2353. Special rules for career and technical education
+#### § 2353. Special rules for career and technical education
 
 **(a) Special rule for minimal allocation**
 
@@ -3087,13 +3087,13 @@ In any academic year in which amounts are returned to the eligible agency under 
 
 For purposes of this section, the eligible agency shall provide funds to charter schools offering career and technical education programs or programs of study in the same manner as the eligible agency provides those funds to other schools. Such career and technical education programs or programs of study within a charter school shall be of sufficient size, scope, and quality to be effective.
 
-(Pub. L. 88–210, title I, § 133, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 731; amended Pub. L. 115–224, title I, § 132, July 31, 2018, 132 Stat. 1612.)
+(Pub. L. 88–210, title I, § 133, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 731; amended Pub. L. 115–224, title I, § 132, July 31, 2018, 132 Stat. 1612.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2353, Pub. L. 88–210, title I, § 133, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3113, related to special rules for vocational and technical education, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2353, Pub. L. 88–210, title I, § 133, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3113, related to special rules for vocational and technical education, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 **Amendments**
 
@@ -3105,7 +3105,7 @@ A prior section 2353, Pub. L. 88–210, title I, § 133, as added Pub. L. 105�
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2354. Local application for career and technical education programs
+#### § 2354. Local application for career and technical education programs
 
 **(a) Local application required**
 
@@ -3223,25 +3223,25 @@ Any eligible recipient desiring financial assistance under this part shall, in a
 
 **(4)** ensure funding under this part is used in a coordinated manner with other local resources.
 
-(Pub. L. 88–210, title I, § 134, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 732; amended Pub. L. 113–128, title V, § 512(e)(5), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, § 9215(n)(8), Dec. 10, 2015, 129 Stat. 2170; Pub. L. 115–224, title I, § 133, July 31, 2018, 132 Stat. 1612.)
+(Pub. L. 88–210, title I, § 134, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 732; amended Pub. L. 113–128, title V, § 512(e)(5), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, § 9215(n)(8), Dec. 10, 2015, 129 Stat. 2170; Pub. L. 115–224, title I, § 133, July 31, 2018, 132 Stat. 1612.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2354, Pub. L. 88–210, title I, § 134, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3114, related to local plan for vocational and technical education programs, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2354, Pub. L. 88–210, title I, § 134, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3114, related to local plan for vocational and technical education programs, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 **Amendments**
 
-2018—Pub. L. 115–224, § 133(1), substituted “Local application” for “Local plan” in section catchline.
+2018—Pub. L. 115–224, § 133(1), substituted “Local application” for “Local plan” in section catchline.
 
-Subsec. (a). Pub. L. 115–224, § 133(2), substituted “Local Application” for “Local plan” in heading and “local application” for “local plan” in two places in text.
+Subsec. (a). Pub. L. 115–224, § 133(2), substituted “Local Application” for “Local plan” in heading and “local application” for “local plan” in two places in text.
 
-Subsecs. (b) to (e). Pub. L. 115–224, § 133(3), added subsecs. (b) to (e) and struck out former subsec. (b) which related to contents of local plans.
+Subsecs. (b) to (e). Pub. L. 115–224, § 133(3), added subsecs. (b) to (e) and struck out former subsec. (b) which related to contents of local plans.
 
-2015—Subsec. (b)(3)(B)(i). Pub. L. 114–95, § 9215(n)(8)(A), substituted “a well-rounded education (as defined in section 7801 of this title)” for “the core academic subjects (as defined in section 7801 of this title)”.
+2015—Subsec. (b)(3)(B)(i). Pub. L. 114–95, § 9215(n)(8)(A), substituted “a well-rounded education (as defined in section 7801 of this title)” for “the core academic subjects (as defined in section 7801 of this title)”.
 
-Subsec. (b)(3)(E). Pub. L. 114–95, § 9215(n)(8)(B), substituted “in order to provide a well-rounded education (as defined in section 7801 of this title)” for “in core academic subjects (as defined in section 7801 of this title)”.
+Subsec. (b)(3)(E). Pub. L. 114–95, § 9215(n)(8)(B), substituted “in order to provide a well-rounded education (as defined in section 7801 of this title)” for “in core academic subjects (as defined in section 7801 of this title)”.
 
 2014—Subsec. (b)(5). Pub. L. 113–128 substituted “entities participating in activities described in section 3122 of title 29 (if applicable)” for “entities participating in activities described in section 2832 of title 29 (if applicable)”.
 
@@ -3259,7 +3259,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
-#### § 2355. Local uses of funds
+#### § 2355. Local uses of funds
 
 **(a) General authority**
 
@@ -3369,29 +3369,29 @@ An eligible recipient may pool a portion of funds received under this chapter wi
 
 Each eligible recipient receiving funds under this part shall not use more than 5 percent of such funds for costs associated with the administration of activities under this section.
 
-(Pub. L. 88–210, title I, § 135, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 734; amended Pub. L. 113–128, title V, § 512(e)(6), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, § 9215(n)(9), Dec. 10, 2015, 129 Stat. 2170; Pub. L. 115–224, title I, § 134, July 31, 2018, 132 Stat. 1616.)
+(Pub. L. 88–210, title I, § 135, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 734; amended Pub. L. 113–128, title V, § 512(e)(6), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, § 9215(n)(9), Dec. 10, 2015, 129 Stat. 2170; Pub. L. 115–224, title I, § 134, July 31, 2018, 132 Stat. 1616.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(G), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(G), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(G), (5)(H), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(G), (5)(H), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5)(H), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5)(H), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 **Prior Provisions**
 
-A prior section 2355, Pub. L. 88–210, title I, § 135, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3115, related to local uses of funds, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2355, Pub. L. 88–210, title I, § 135, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3115, related to local uses of funds, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Prior sections 2361 to 2363 were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2361, Pub. L. 88–210, title III, § 311, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 99–159, title VII, § 706(b), Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, § 302, Sept. 25, 1990, 104 Stat. 786, related to consumer and homemaking education grants.
+Section 2361, Pub. L. 88–210, title III, § 311, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 99–159, title VII, § 706(b), Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, § 302, Sept. 25, 1990, 104 Stat. 786, related to consumer and homemaking education grants.
 
-Section 2362, Pub. L. 88–210, title III, § 312, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 99–159, title VII, § 706(c), Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, § 303, Sept. 25, 1990, 104 Stat. 786, related to use of funds from consumer and homemaking education grants.
+Section 2362, Pub. L. 88–210, title III, § 312, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2458; amended Pub. L. 99–159, title VII, § 706(c), Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, § 303, Sept. 25, 1990, 104 Stat. 786, related to use of funds from consumer and homemaking education grants.
 
-Section 2363, Pub. L. 88–210, title III, § 313, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2459; amended Pub. L. 99–159, title VII, § 707, Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, § 304, Sept. 25, 1990, 104 Stat. 786, related to information dissemination and leadership.
+Section 2363, Pub. L. 88–210, title III, § 313, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2459; amended Pub. L. 99–159, title VII, § 707, Nov. 22, 1985, 99 Stat. 906; Pub. L. 101–392, title III, § 304, Sept. 25, 1990, 104 Stat. 786, related to information dissemination and leadership.
 
 For prior sections 2371 to 2383, see Prior Provisions note preceding section 2391 of this title.
 
@@ -3423,81 +3423,81 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 **Codification**
 
-Pub. L. 115–224, title II, § 201(a)(5), July 31, 2018, 132 Stat. 1621, redesignated subchapter III (§ 2391 et seq.) of this chapter as this subchapter.
+Pub. L. 115–224, title II, § 201(a)(5), July 31, 2018, 132 Stat. 1621, redesignated subchapter III (§ 2391 et seq.) of this chapter as this subchapter.
 
 **Prior Provisions**
 
-A prior subchapter II, consisting of sections 2371 to 2376, related to tech prep education, prior to repeal by Pub. L. 115–224, § 4, title II, § 201(a)(5), July 31, 2018, 132 Stat. 1564, 1621, effective July 1, 2019.
+A prior subchapter II, consisting of sections 2371 to 2376, related to tech prep education, prior to repeal by Pub. L. 115–224, § 4, title II, § 201(a)(5), July 31, 2018, 132 Stat. 1564, 1621, effective July 1, 2019.
 
-Section 2371, Pub. L. 88–210, title II, § 201, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 737, related to state allotment and application.
+Section 2371, Pub. L. 88–210, title II, § 201, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 737, related to state allotment and application.
 
-Another prior section 2371, Pub. L. 88–210, title II, § 202, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3117, provided definitions, prior to the general amendment of this chapter by Pub. L. 109–270.
+Another prior section 2371, Pub. L. 88–210, title II, § 202, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3117, provided definitions, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2371, Pub. L. 88–210, title III, § 321, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2459; amended Pub. L. 100–418, title VI, § 6131(a)(2), Aug. 23, 1988, 102 Stat. 1509, provided findings and purposes of program, prior to repeal by Pub. L. 101–392, title III, § 305, title VII, § 702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
+Another prior section 2371, Pub. L. 88–210, title III, § 321, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2459; amended Pub. L. 100–418, title VI, § 6131(a)(2), Aug. 23, 1988, 102 Stat. 1509, provided findings and purposes of program, prior to repeal by Pub. L. 101–392, title III, § 305, title VII, § 702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
 
-A prior section 201 of Pub. L. 88–210, as added by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3117, which provided that former title II of Pub. L. 88–210 could be cited as the “Tech-Prep Education Act”, was set out as a note under former section 2301 of this title, prior to the general amendment of Pub. L. 88–210 by Pub. L. 109–270.
+A prior section 201 of Pub. L. 88–210, as added by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3117, which provided that former title II of Pub. L. 88–210 could be cited as the “Tech-Prep Education Act”, was set out as a note under former section 2301 of this title, prior to the general amendment of Pub. L. 88–210 by Pub. L. 109–270.
 
-Section 2372, Pub. L. 88–210, title II, § 202, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 738, related to consolidation of funds.
+Section 2372, Pub. L. 88–210, title II, § 202, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 738, related to consolidation of funds.
 
-Another prior section 2372, Pub. L. 88–210, title II, § 203, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3118, related to State allotment and application, prior to the general amendment of this chapter by Pub. L. 109–270.
+Another prior section 2372, Pub. L. 88–210, title II, § 203, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3118, related to State allotment and application, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2372, Pub. L. 88–210, title III, § 322, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2460; amended Pub. L. 100–418, title VI, § 6131(a)(2), Aug. 23, 1988, 102 Stat. 1509; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, authorized Secretary to make grants and specified uses of funds for program, prior to repeal by Pub. L. 101–392, title III, § 305, title VII, § 702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
+Another prior section 2372, Pub. L. 88–210, title III, § 322, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2460; amended Pub. L. 100–418, title VI, § 6131(a)(2), Aug. 23, 1988, 102 Stat. 1509; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, authorized Secretary to make grants and specified uses of funds for program, prior to repeal by Pub. L. 101–392, title III, § 305, title VII, § 702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
 
 A prior section 202 of Pub. L. 88–210 was classified to section 2371 of this title, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 202 of Pub. L. 88–210 was classified to section 2332 of this title, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
 
-Section 2373, Pub. L. 88–210, title II, § 203, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 738; amended Pub. L. 110–315, title IX, § 941(k)(2)(D)(iii), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 114–95, title IX, § 9215(n)(10), Dec. 10, 2015, 129 Stat. 2170, related to tech prep program.
+Section 2373, Pub. L. 88–210, title II, § 203, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 738; amended Pub. L. 110–315, title IX, § 941(k)(2)(D)(iii), Aug. 14, 2008, 122 Stat. 3466; Pub. L. 114–95, title IX, § 9215(n)(10), Dec. 10, 2015, 129 Stat. 2170, related to tech prep program.
 
-Another prior section 2373, Pub. L. 88–210, title II, § 204, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3118, related to tech-prep education, prior to the general amendment of this chapter by Pub. L. 109–270.
+Another prior section 2373, Pub. L. 88–210, title II, § 204, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3118, related to tech-prep education, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2373, Pub. L. 88–210, title III, § 323, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2461; amended Pub. L. 100–418, title VI, § 6131(a)(2), Aug. 23, 1988, 102 Stat. 1509, provided for coordination of program with Job Training Partnership Act, prior to repeal by Pub. L. 101–392, title III, § 305, title VII, § 702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
+Another prior section 2373, Pub. L. 88–210, title III, § 323, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2461; amended Pub. L. 100–418, title VI, § 6131(a)(2), Aug. 23, 1988, 102 Stat. 1509, provided for coordination of program with Job Training Partnership Act, prior to repeal by Pub. L. 101–392, title III, § 305, title VII, § 702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
 
 A prior section 203 of Pub. L. 88–210 was classified to section 2372 of this title, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 203 of Pub. L. 88–210 was classified to section 2333 of this title, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
 
-Section 2374, Pub. L. 88–210, title II, § 204, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 741, related to consortium applications.
+Section 2374, Pub. L. 88–210, title II, § 204, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 741, related to consortium applications.
 
-Another prior section 2374, Pub. L. 88–210, title II, § 205, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3120, related to consortium applications, prior to the general amendment of this chapter by Pub. L. 109–270.
+Another prior section 2374, Pub. L. 88–210, title II, § 205, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3120, related to consortium applications, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 A prior section 204 of Pub. L. 88–210 was classified to section 2373 of this title, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 204 of Pub. L. 88–210 was classified to section 2334 of this title, prior to the general amendment of former subchapter II of this chapter by Pub. L. 101–392.
 
-Section 2375, Pub. L. 88–210, title II, § 205, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 742, related to annual report on effectiveness of the tech prep programs.
+Section 2375, Pub. L. 88–210, title II, § 205, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 742, related to annual report on effectiveness of the tech prep programs.
 
-Another prior section 2375, Pub. L. 88–210, title II, § 206, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3120, required a report from grantees, prior to the general amendment of this chapter by Pub. L. 109–270.
+Another prior section 2375, Pub. L. 88–210, title II, § 206, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3120, required a report from grantees, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 A prior section 205 of Pub. L. 88–210 was classified to section 2374 of this title, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Section 2376, Pub. L. 88–210, title II, § 206, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 742, related to authorization of appropriations.
+Section 2376, Pub. L. 88–210, title II, § 206, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 742, related to authorization of appropriations.
 
-Another prior section 2376, Pub. L. 88–210, title II, § 207, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3121, related to demonstration programs, prior to the general amendment of this chapter by Pub. L. 109–270.
+Another prior section 2376, Pub. L. 88–210, title II, § 207, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3121, related to demonstration programs, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2376, Pub. L. 88–210, title III, § 326, as added Pub. L. 100–418, title VI, § 6131(a)(3), Aug. 23, 1988, 102 Stat. 1509, provided findings and purpose of special program of financial assistance to States to enable them to expand and improve vocational education programs designed to meet current needs for training, retraining, and employment development of adults who had completed or left high school and were preparing to enter or had entered the labor market, including workers who were 55 years of age and older, in order to equip adults with competencies and skills required for productive employment, prior to repeal by Pub. L. 101–392, title III, § 305, title VII, § 702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
+Another prior section 2376, Pub. L. 88–210, title III, § 326, as added Pub. L. 100–418, title VI, § 6131(a)(3), Aug. 23, 1988, 102 Stat. 1509, provided findings and purpose of special program of financial assistance to States to enable them to expand and improve vocational education programs designed to meet current needs for training, retraining, and employment development of adults who had completed or left high school and were preparing to enter or had entered the labor market, including workers who were 55 years of age and older, in order to equip adults with competencies and skills required for productive employment, prior to repeal by Pub. L. 101–392, title III, § 305, title VII, § 702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
 
 A prior section 206 of Pub. L. 88–210 was classified to section 2375 of this title, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-A prior section 2377, Pub. L. 88–210, title II, § 208, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3121, which related to authorization of appropriations, was omitted in the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2377, Pub. L. 88–210, title II, § 208, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3121, which related to authorization of appropriations, was omitted in the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2377 and prior section 2378 were repealed by Pub. L. 101–392, title III, § 305, title VII, § 702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
+Another prior section 2377 and prior section 2378 were repealed by Pub. L. 101–392, title III, § 305, title VII, § 702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
 
-Section 2377, Pub. L. 88–210, title III, § 327, as added Pub. L. 100–418, title VI, § 6131(a)(3), Aug. 23, 1988, 102 Stat. 1509; amended Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, authorized giving of grants and uses of funds in connection with special program.
+Section 2377, Pub. L. 88–210, title III, § 327, as added Pub. L. 100–418, title VI, § 6131(a)(3), Aug. 23, 1988, 102 Stat. 1509; amended Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142, authorized giving of grants and uses of funds in connection with special program.
 
-Section 2378, Pub. L. 88–210, title III, § 328, as added Pub. L. 100–418, title VI, § 6131(a)(3), Aug. 23, 1988, 102 Stat. 1510, provided for coordination of special program with Job Training Partnership Act.
+Section 2378, Pub. L. 88–210, title III, § 328, as added Pub. L. 100–418, title VI, § 6131(a)(3), Aug. 23, 1988, 102 Stat. 1510, provided for coordination of special program with Job Training Partnership Act.
 
 Prior sections 2381 to 2383 were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2381, Pub. L. 88–210, title III, § 321, formerly § 331, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2462; renumbered § 321, Pub. L. 101–392, title III, § 306(a)(2), Sept. 25, 1990, 104 Stat. 786, related to grants for career guidance and counseling.
+Section 2381, Pub. L. 88–210, title III, § 321, formerly § 331, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2462; renumbered § 321, Pub. L. 101–392, title III, § 306(a)(2), Sept. 25, 1990, 104 Stat. 786, related to grants for career guidance and counseling.
 
-Section 2382, Pub. L. 88–210, title III, § 322, formerly § 332, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2462; renumbered § 322 and amended Pub. L. 101–392, title III, § 306(a)(2), (c), Sept. 25, 1990, 104 Stat. 786, 787, related to use of funds from career guidance and counseling grants.
+Section 2382, Pub. L. 88–210, title III, § 322, formerly § 332, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2462; renumbered § 322 and amended Pub. L. 101–392, title III, § 306(a)(2), (c), Sept. 25, 1990, 104 Stat. 786, 787, related to use of funds from career guidance and counseling grants.
 
-Section 2383, Pub. L. 88–210, title III, § 323, formerly § 333, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2463; amended Pub. L. 99–159, title VII, § 708, Nov. 22, 1985, 99 Stat. 906; renumbered § 323, Pub. L. 101–392, title III, § 306(a)(2), Sept. 25, 1990, 104 Stat. 786, related to information dissemination and leadership.
+Section 2383, Pub. L. 88–210, title III, § 323, formerly § 333, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2463; amended Pub. L. 99–159, title VII, § 708, Nov. 22, 1985, 99 Stat. 906; renumbered § 323, Pub. L. 101–392, title III, § 306(a)(2), Sept. 25, 1990, 104 Stat. 786, related to information dissemination and leadership.
 
 ### Part A—Federal Administrative Provisions
 
-#### § 2391. Fiscal requirements
+#### § 2391. Fiscal requirements
 
 **(a) Supplement not supplant**
 
@@ -3539,27 +3539,27 @@ No such lesser amount shall be used for computing the effort required under para
 
 The Secretary may waive paragraph (2) due to exceptional or uncontrollable circumstances affecting the ability of the State to meet the requirement of paragraph (1) such as a natural disaster or an unforeseen and precipitous decline in financial resources. No level of funding permitted under such a waiver may be used as the basis for computing the fiscal effort or aggregate expenditures required under this section for years subsequent to the year covered by such waiver. The fiscal effort or aggregate expenditures for the subsequent years shall be computed on the basis of the level of funding that would, but for such waiver, have been required.
 
-(Pub. L. 88–210, title II, § 211, formerly title III, § 311, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 742; renumbered title II, § 211, and amended Pub. L. 115–224, title II, § 201(a)(1), (5), (6), July 31, 2018, 132 Stat. 1620, 1621.)
+(Pub. L. 88–210, title II, § 211, formerly title III, § 311, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 742; renumbered title II, § 211, and amended Pub. L. 115–224, title II, § 201(a)(1), (5), (6), July 31, 2018, 132 Stat. 1620, 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2391, Pub. L. 88–210, title III, § 311, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3121, related to fiscal requirements, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2391, Pub. L. 88–210, title III, § 311, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3121, related to fiscal requirements, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2391, Pub. L. 88–210, title III, § 331, formerly § 341, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2463; renumbered § 331 and amended Pub. L. 101–392, title III, § 307(a)(2), (c), Sept. 25, 1990, 104 Stat. 787, stated findings of Congress, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2391, Pub. L. 88–210, title III, § 331, formerly § 341, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2463; renumbered § 331 and amended Pub. L. 101–392, title III, § 307(a)(2), (c), Sept. 25, 1990, 104 Stat. 787, stated findings of Congress, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–224, § 201(a)(1)(A), struck out “and tech prep program activities” before period at end.
+2018—Subsec. (a). Pub. L. 115–224, § 201(a)(1)(A), struck out “and tech prep program activities” before period at end.
 
-Subsec. (b)(1)(A). Pub. L. 115–224, § 201(a)(1)(B)(i)(I), amended subpar. (A) generally. Prior to amendment, text read as follows: “Except as provided in subparagraphs (B) and (C), no payments shall be made under this chapter for any fiscal year to a State for career and technical education programs or tech prep programs unless the Secretary determines that the fiscal effort per student or the aggregate expenditures of such State for career and technical education programs for the fiscal year preceding the fiscal year for which the determination is made, equaled or exceeded such effort or expenditures for career and technical education programs for the second fiscal year preceding the fiscal year for which the determination is made.”
+Subsec. (b)(1)(A). Pub. L. 115–224, § 201(a)(1)(B)(i)(I), amended subpar. (A) generally. Prior to amendment, text read as follows: “Except as provided in subparagraphs (B) and (C), no payments shall be made under this chapter for any fiscal year to a State for career and technical education programs or tech prep programs unless the Secretary determines that the fiscal effort per student or the aggregate expenditures of such State for career and technical education programs for the fiscal year preceding the fiscal year for which the determination is made, equaled or exceeded such effort or expenditures for career and technical education programs for the second fiscal year preceding the fiscal year for which the determination is made.”
 
-Subsec. (b)(1)(B). Pub. L. 115–224, § 201(a)(1)(B)(i)(II), substituted “shall, at the request of the State, exclude competitive or incentive-based programs established by the State, capital expenditures, special one-time project costs, and the cost of pilot programs.” for “shall exclude capital expenditures, special 1-time project costs, and the cost of pilot programs.”
+Subsec. (b)(1)(B). Pub. L. 115–224, § 201(a)(1)(B)(i)(II), substituted “shall, at the request of the State, exclude competitive or incentive-based programs established by the State, capital expenditures, special one-time project costs, and the cost of pilot programs.” for “shall exclude capital expenditures, special 1-time project costs, and the cost of pilot programs.”
 
-Subsec. (b)(1)(D). Pub. L. 115–224, § 201(a)(1)(B)(i)(III), added subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 115–224, § 201(a)(1)(B)(i)(III), added subpar. (D).
 
-Subsec. (b)(2), (3). Pub. L. 115–224, § 201(a)(1)(B)(ii), added pars. (2) and (3) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary may waive the requirements of this section, with respect to not more than 5 percent of expenditures by any eligible agency for 1 fiscal year only, on making a determination that such waiver would be equitable due to exceptional or uncontrollable circumstances affecting the ability of the eligible agency to meet such requirements, such as a natural disaster or an unforeseen and precipitous decline in financial resources. No level of funding permitted under such a waiver may be used as the basis for computing the fiscal effort or aggregate expenditures required under this section for years subsequent to the year covered by such waiver. The fiscal effort or aggregate expenditures for the subsequent years shall be computed on the basis of the level of funding that would, but for such waiver, have been required.”
+Subsec. (b)(2), (3). Pub. L. 115–224, § 201(a)(1)(B)(ii), added pars. (2) and (3) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Secretary may waive the requirements of this section, with respect to not more than 5 percent of expenditures by any eligible agency for 1 fiscal year only, on making a determination that such waiver would be equitable due to exceptional or uncontrollable circumstances affecting the ability of the eligible agency to meet such requirements, such as a natural disaster or an unforeseen and precipitous decline in financial resources. No level of funding permitted under such a waiver may be used as the basis for computing the fiscal effort or aggregate expenditures required under this section for years subsequent to the year covered by such waiver. The fiscal effort or aggregate expenditures for the subsequent years shall be computed on the basis of the level of funding that would, but for such waiver, have been required.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3567,19 +3567,19 @@ Subsec. (b)(2), (3). Pub. L. 115–224, § 201(a)(1)(B)(ii), added pars. (2) a
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2392. Authority to make payments
+#### § 2392. Authority to make payments
 
 Any authority to make payments or to enter into contracts under this chapter shall be available only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
-(Pub. L. 88–210, title II, § 212, formerly title III, § 312, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 743; renumbered title II, § 212, Pub. L. 115–224, title II, § 201(a)(5), (6), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 212, formerly title III, § 312, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 743; renumbered title II, § 212, Pub. L. 115–224, title II, § 201(a)(5), (6), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2392, Pub. L. 88–210, title III, § 312, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3122, related to authority to make payments, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2392, Pub. L. 88–210, title III, § 312, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3122, related to authority to make payments, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2392, Pub. L. 88–210, title III, § 332, formerly § 342, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2464; amended Pub. L. 99–159, title VII, § 709, Nov. 22, 1985, 99 Stat. 906; renumbered § 332 and amended Pub. L. 101–392, title III, § 307(a)(2), (d), Sept. 25, 1990, 104 Stat. 787, authorized business-labor-education partnership training grants, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2392, Pub. L. 88–210, title III, § 332, formerly § 342, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2464; amended Pub. L. 99–159, title VII, § 709, Nov. 22, 1985, 99 Stat. 906; renumbered § 332 and amended Pub. L. 101–392, title III, § 307(a)(2), (d), Sept. 25, 1990, 104 Stat. 787, authorized business-labor-education partnership training grants, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3587,19 +3587,19 @@ Another prior section 2392, Pub. L. 88–210, title III, § 332, formerly §�
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2393. Construction
+#### § 2393. Construction
 
 Nothing in this chapter shall be construed to permit, allow, encourage, or authorize any Federal control over any aspect of a private, religious, or home school, regardless of whether a home school is treated as a private school or home school under State law. This section shall not be construed to bar students attending private, religious, or home schools from participation in programs or services under this chapter.
 
-(Pub. L. 88–210, title II, § 213, formerly title III, § 313, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 743; renumbered title II, § 213, Pub. L. 115–224, title II, § 201(a)(5), (6), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 213, formerly title III, § 313, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 743; renumbered title II, § 213, Pub. L. 115–224, title II, § 201(a)(5), (6), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2393, Pub. L. 88–210, title III, § 313, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3122, related to construction of this chapter, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2393, Pub. L. 88–210, title III, § 313, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3122, related to construction of this chapter, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2393, Pub. L. 88–210, title III, § 333, formerly § 343, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2465; amended Pub. L. 100–418, title VI, § 6134(a), Aug. 23, 1988, 102 Stat. 1512; renumbered § 333, Pub. L. 101–392, title III, § 307(a)(2), Sept. 25, 1990, 104 Stat. 787, related to use of grant funds, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2393, Pub. L. 88–210, title III, § 333, formerly § 343, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2465; amended Pub. L. 100–418, title VI, § 6134(a), Aug. 23, 1988, 102 Stat. 1512; renumbered § 333, Pub. L. 101–392, title III, § 307(a)(2), Sept. 25, 1990, 104 Stat. 787, related to use of grant funds, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3607,7 +3607,7 @@ Another prior section 2393, Pub. L. 88–210, title III, § 333, formerly §�
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2394. Voluntary selection and participation
+#### § 2394. Voluntary selection and participation
 
 No funds made available under this chapter shall be used—
 
@@ -3615,31 +3615,31 @@ No funds made available under this chapter shall be used—
 
 **(2)** to mandate that any individual participate in a career and technical education program, including a career and technical education program that requires the attainment of a federally funded skill level, standard, or certificate of mastery.
 
-(Pub. L. 88–210, title II, § 214, formerly title III, § 314, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 743; renumbered title II, § 214, and amended Pub. L. 115–224, title II, § 201(a)(2), (5), (6), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 214, formerly title III, § 314, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 743; renumbered title II, § 214, and amended Pub. L. 115–224, title II, § 201(a)(2), (5), (6), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2394, Pub. L. 88–210, title III, § 314, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, related to voluntary selection and participation, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2394, Pub. L. 88–210, title III, § 314, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, related to voluntary selection and participation, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2394 and prior sections 2394a to 2394e were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2394, Pub. L. 88–210, title III, § 342, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 789, stated findings and purpose of Congress.
+Section 2394, Pub. L. 88–210, title III, § 342, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 789, stated findings and purpose of Congress.
 
-Section 2394a, Pub. L. 88–210, title III, § 343, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 789; amended Pub. L. 102–103, title III, § 315, Aug. 17, 1991, 105 Stat. 508, authorized grants for tech-prep education programs.
+Section 2394a, Pub. L. 88–210, title III, § 343, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 789; amended Pub. L. 102–103, title III, § 315, Aug. 17, 1991, 105 Stat. 508, authorized grants for tech-prep education programs.
 
-Section 2394b, Pub. L. 88–210, title III, § 344, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 790; amended Pub. L. 103–239, title VII, § 711(a), May 4, 1994, 108 Stat. 606, related to use of grant funds.
+Section 2394b, Pub. L. 88–210, title III, § 344, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 790; amended Pub. L. 103–239, title VII, § 711(a), May 4, 1994, 108 Stat. 606, related to use of grant funds.
 
-Section 2394c, Pub. L. 88–210, title III, § 345, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 791; amended Pub. L. 103–239, title VII, § 711(b), May 4, 1994, 108 Stat. 606, related to applications for grants.
+Section 2394c, Pub. L. 88–210, title III, § 345, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 791; amended Pub. L. 103–239, title VII, § 711(b), May 4, 1994, 108 Stat. 606, related to applications for grants.
 
-Section 2394d, Pub. L. 88–210, title III, § 346, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 792, related to reports.
+Section 2394d, Pub. L. 88–210, title III, § 346, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 792, related to reports.
 
-Section 2394e, Pub. L. 88–210, title III, § 347, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 792; amended Pub. L. 105–244, title I, § 102(a)(6)(E), Oct. 7, 1998, 112 Stat. 1618, defined terms for purposes of tech-prep education grant program.
+Section 2394e, Pub. L. 88–210, title III, § 347, as added Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 792; amended Pub. L. 105–244, title I, § 102(a)(6)(E), Oct. 7, 1998, 112 Stat. 1618, defined terms for purposes of tech-prep education grant program.
 
 **Amendments**
 
-2018—Par. (1). Pub. L. 115–224, § 201(a)(2), substituted “career pathway or program of study” for “career path or major”.
+2018—Par. (1). Pub. L. 115–224, § 201(a)(2), substituted “career pathway or program of study” for “career path or major”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3649,41 +3649,41 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 **Short Title**
 
-Pub. L. 88–210, title III, § 341, as added by Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 788, which provided that part E of title III of Pub. L. 88–210, enacting part E (§ 2394 et seq.) of former subchapter III of this chapter, could be cited as the “Tech-Prep Education Act”, was omitted in the general amendment of Pub. L. 88–210 by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076.
+Pub. L. 88–210, title III, § 341, as added by Pub. L. 101–392, title III, § 308, Sept. 25, 1990, 104 Stat. 788, which provided that part E of title III of Pub. L. 88–210, enacting part E (§ 2394 et seq.) of former subchapter III of this chapter, could be cited as the “Tech-Prep Education Act”, was omitted in the general amendment of Pub. L. 88–210 by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076.
 
-#### § 2395. Limitation for certain students
+#### § 2395. Limitation for certain students
 
-No funds received under this chapter may be used to provide career and technical education programs or programs of study to students prior to the the 1
+No funds received under this chapter may be used to provide career and technical education programs or programs of study to students prior to the the 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 middle grades (as such term is defined in section 7801 of this title), except that equipment and facilities purchased with funds under this chapter may be used by such students.
 
-(Pub. L. 88–210, title II, § 215, formerly title III, § 315, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 744; renumbered title II, § 215, and amended Pub. L. 115–224, title II, § 201(a)(3), (5), (6), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 215, formerly title III, § 315, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 744; renumbered title II, § 215, and amended Pub. L. 115–224, title II, § 201(a)(3), (5), (6), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2395, Pub. L. 88–210, title III, § 315, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, imposed a limitation for certain students, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2395, Pub. L. 88–210, title III, § 315, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, imposed a limitation for certain students, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2395 and prior sections 2395a to 2395e were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2395, Pub. L. 88–210, title III, § 351, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 792, stated purpose of supplementary State grant program.
+Section 2395, Pub. L. 88–210, title III, § 351, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 792, stated purpose of supplementary State grant program.
 
-Section 2395a, Pub. L. 88–210, title III, § 352, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 793, related to allotment to States.
+Section 2395a, Pub. L. 88–210, title III, § 352, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 793, related to allotment to States.
 
-Section 2395b, Pub. L. 88–210, title III, § 353, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 793, related to allocations to local educational agencies.
+Section 2395b, Pub. L. 88–210, title III, § 353, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 793, related to allocations to local educational agencies.
 
-Section 2395c, Pub. L. 88–210, title III, § 354, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 793, related to use of grant funds.
+Section 2395c, Pub. L. 88–210, title III, § 354, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 793, related to use of grant funds.
 
-Section 2395d, Pub. L. 88–210, title III, § 355, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 793, related to State applications for grants.
+Section 2395d, Pub. L. 88–210, title III, § 355, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 793, related to State applications for grants.
 
-Section 2395e, Pub. L. 88–210, title III, § 356, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 794, related to local applications for grants.
+Section 2395e, Pub. L. 88–210, title III, § 356, as added Pub. L. 101–392, title III, § 309, Sept. 25, 1990, 104 Stat. 794, related to local applications for grants.
 
 **Amendments**
 
-2018—Pub. L. 115–224, § 201(a)(3), inserted “or programs of study” after “career and technical education programs” and substituted “the middle grades (as such term is defined in section 7801 of this title)” for “seventh grade”.
+2018—Pub. L. 115–224, § 201(a)(3), inserted “or programs of study” after “career and technical education programs” and substituted “the middle grades (as such term is defined in section 7801 of this title)” for “seventh grade”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3691,41 +3691,41 @@ Section 2395e, Pub. L. 88–210, title III, § 356, as added Pub. L. 101–392
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2396. Federal laws guaranteeing civil rights
+#### § 2396. Federal laws guaranteeing civil rights
 
 Nothing in this chapter shall be construed to be inconsistent with applicable Federal law prohibiting discrimination on the basis of race, color, sex, national origin, age, or disability in the provision of Federal programs or services.
 
-(Pub. L. 88–210, title II, § 216, formerly title III, § 316, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 744; renumbered title II, § 216, Pub. L. 115–224, title II, § 201(a)(5), (6), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 216, formerly title III, § 316, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 744; renumbered title II, § 216, Pub. L. 115–224, title II, § 201(a)(5), (6), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2396, Pub. L. 88–210, title III, § 316, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, related to Federal laws guaranteeing civil rights, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2396, Pub. L. 88–210, title III, § 316, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, related to Federal laws guaranteeing civil rights, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2396 and prior sections 2396a to 2396m were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2396, Pub. L. 88–210, title III, § 362, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 794, stated purpose of community education employment centers and vocational education lighthouse schools program.
+Section 2396, Pub. L. 88–210, title III, § 362, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 794, stated purpose of community education employment centers and vocational education lighthouse schools program.
 
-Section 2396a, Pub. L. 88–210, title III, § 363, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 794, authorized grants to establish and operate community education employment centers.
+Section 2396a, Pub. L. 88–210, title III, § 363, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 794, authorized grants to establish and operate community education employment centers.
 
-Section 2396b, Pub. L. 88–210, title III, § 364, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 794, related to program requirements.
+Section 2396b, Pub. L. 88–210, title III, § 364, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 794, related to program requirements.
 
-Section 2396c, Pub. L. 88–210, title III, § 365, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 795, related to support services requirements.
+Section 2396c, Pub. L. 88–210, title III, § 365, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 795, related to support services requirements.
 
-Section 2396d, Pub. L. 88–210, title III, § 366, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 796, related to parental and community participation.
+Section 2396d, Pub. L. 88–210, title III, § 366, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 796, related to parental and community participation.
 
-Section 2396e, Pub. L. 88–210, title III, § 367, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 797, related to employment and training of professional staff.
+Section 2396e, Pub. L. 88–210, title III, § 367, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 797, related to employment and training of professional staff.
 
-Section 2396f, Pub. L. 88–210, title III, § 368, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 797, related to eligibility for grants.
+Section 2396f, Pub. L. 88–210, title III, § 368, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 797, related to eligibility for grants.
 
-Section 2396g, Pub. L. 88–210, title III, § 369, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 797, related to applications to participate in grant program.
+Section 2396g, Pub. L. 88–210, title III, § 369, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 797, related to applications to participate in grant program.
 
-Section 2396h, Pub. L. 88–210, title III, § 370, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 798; amended Pub. L. 104–66, title I, § 1041(d), Dec. 21, 1995, 109 Stat. 714, related to evaluation of student learning progress.
+Section 2396h, Pub. L. 88–210, title III, § 370, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 798; amended Pub. L. 104–66, title I, § 1041(d), Dec. 21, 1995, 109 Stat. 714, related to evaluation of student learning progress.
 
-Section 2396i, Pub. L. 88–210, title III, § 371, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 798, defined terms “eligible recipient” and “parent”.
+Section 2396i, Pub. L. 88–210, title III, § 371, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 798, defined terms “eligible recipient” and “parent”.
 
-Section 2396m, Pub. L. 88–210, title III, § 375, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 798, authorized grants to establish and operate vocational education lighthouse schools.
+Section 2396m, Pub. L. 88–210, title III, § 375, as added Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 798, authorized grants to establish and operate vocational education lighthouse schools.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3735,9 +3735,9 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 **Short Title**
 
-Pub. L. 88–210, title III, § 361, as added by Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 794, which provided that part G of title III of Pub. L. 88–210, enacting part G (§ 2396 et seq.) of former subchapter III of this chapter, could be cited as the “Community Education Employment Center Act of 1990”, was omitted in the general amendment of Pub. L. 88–210 by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076.
+Pub. L. 88–210, title III, § 361, as added by Pub. L. 101–392, title III, § 310, Sept. 25, 1990, 104 Stat. 794, which provided that part G of title III of Pub. L. 88–210, enacting part G (§ 2396 et seq.) of former subchapter III of this chapter, could be cited as the “Community Education Employment Center Act of 1990”, was omitted in the general amendment of Pub. L. 88–210 by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076.
 
-#### § 2397. Participation of private school personnel and children
+#### § 2397. Participation of private school personnel and children
 
 **(a) Personnel**
 
@@ -3753,39 +3753,39 @@ Except as prohibited by State or local law, an eligible recipient may, upon writ
 
 An eligible recipient shall consult, upon written request, in a timely and meaningful manner with representatives of nonprofit private schools in areas served by the eligible recipient described in paragraph (1) regarding the meaningful participation, in career and technical education programs and activities, including programs of study, receiving funding under this chapter, of secondary school students attending nonprofit private schools.
 
-(Pub. L. 88–210, title II, § 217, formerly title III, § 317, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 744; renumbered title II, § 217, and amended Pub. L. 115–224, title II, § 201(a)(4)–(6), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 217, formerly title III, § 317, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 744; renumbered title II, § 217, and amended Pub. L. 115–224, title II, § 201(a)(4)–(6), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2397, Pub. L. 88–210, title III, § 317, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, related to authorization of Secretary, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2397, Pub. L. 88–210, title III, § 317, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, related to authorization of Secretary, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2397 and prior sections 2397a to 2397h were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2397, Pub. L. 88–210, title III, § 382, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 800, stated purpose of program to assist tribally controlled postsecondary vocational institutions.
+Section 2397, Pub. L. 88–210, title III, § 382, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 800, stated purpose of program to assist tribally controlled postsecondary vocational institutions.
 
-Section 2397a, Pub. L. 88–210, title III, § 383, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 800, authorized grants to tribally controlled postsecondary vocational institutions.
+Section 2397a, Pub. L. 88–210, title III, § 383, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 800, authorized grants to tribally controlled postsecondary vocational institutions.
 
-Section 2397b, Pub. L. 88–210, title III, § 384, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 800, related to eligible grant recipients.
+Section 2397b, Pub. L. 88–210, title III, § 384, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 800, related to eligible grant recipients.
 
-Section 2397c, Pub. L. 88–210, title III, § 385, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 800, related to applications for grants, consultation, and use of grants.
+Section 2397c, Pub. L. 88–210, title III, § 385, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 800, related to applications for grants, consultation, and use of grants.
 
-Section 2397d, Pub. L. 88–210, title III, § 386, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 801, related to amount of grants.
+Section 2397d, Pub. L. 88–210, title III, § 386, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 801, related to amount of grants.
 
-Section 2397e, Pub. L. 88–210, title III, § 387, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 802, related to effect of grant receipt on eligibility under other programs.
+Section 2397e, Pub. L. 88–210, title III, § 387, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 802, related to effect of grant receipt on eligibility under other programs.
 
-Section 2397f, Pub. L. 88–210, title III, § 388, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 802, related to grant adjustments.
+Section 2397f, Pub. L. 88–210, title III, § 388, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 802, related to grant adjustments.
 
-Section 2397g, Pub. L. 88–210, title III, § 389, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 803, related to report on facilities and facilities improvement.
+Section 2397g, Pub. L. 88–210, title III, § 389, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 803, related to report on facilities and facilities improvement.
 
-Section 2397h, Pub. L. 88–210, title III, § 390, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 803, defined terms for purposes of tribally controlled postsecondary vocational institutions grant program.
+Section 2397h, Pub. L. 88–210, title III, § 390, as added Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 803, defined terms for purposes of tribally controlled postsecondary vocational institutions grant program.
 
 **Amendments**
 
-2018—Subsec. (b)(1). Pub. L. 115–224, § 201(a)(4)(A), inserted “, including programs of study,” after “activities” and substituted “in areas served by” for “who reside in the geographical area served by”.
+2018—Subsec. (b)(1). Pub. L. 115–224, § 201(a)(4)(A), inserted “, including programs of study,” after “activities” and substituted “in areas served by” for “who reside in the geographical area served by”.
 
-Subsec. (b)(2). Pub. L. 115–224, § 201(a)(4)(B), substituted “areas” for “the geographical area” and inserted “, including programs of study,” after “activities”.
+Subsec. (b)(2). Pub. L. 115–224, § 201(a)(4)(B), substituted “areas” for “the geographical area” and inserted “, including programs of study,” after “activities”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3795,19 +3795,19 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 **Short Title**
 
-Pub. L. 88–210, title III, § 381, as added by Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 799, which provided that part H of title III of Pub. L. 88–210, enacting part H (§ 2397 et seq.) of former subchapter III of this chapter, could be cited as the “Tribally Controlled Vocational Institutions Support Act of 1990”, was omitted in the general amendment of Pub. L. 88–210 by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076.
+Pub. L. 88–210, title III, § 381, as added by Pub. L. 101–392, title III, § 311, Sept. 25, 1990, 104 Stat. 799, which provided that part H of title III of Pub. L. 88–210, enacting part H (§ 2397 et seq.) of former subchapter III of this chapter, could be cited as the “Tribally Controlled Vocational Institutions Support Act of 1990”, was omitted in the general amendment of Pub. L. 88–210 by Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3076.
 
-#### § 2398. Limitation on Federal regulations
+#### § 2398. Limitation on Federal regulations
 
 The Secretary may issue regulations under this chapter only to the extent necessary to administer and ensure compliance with the specific requirements of this chapter.
 
-(Pub. L. 88–210, title II, § 218, formerly title III, § 318, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 744; renumbered title II, § 218, Pub. L. 115–224, title II, § 201(a)(5), (6), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 218, formerly title III, § 318, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 744; renumbered title II, § 218, Pub. L. 115–224, title II, § 201(a)(5), (6), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2398, Pub. L. 88–210, title III, § 318, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, related to participation of private school personnel, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2398, Pub. L. 88–210, title III, § 318, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, related to participation of private school personnel, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3815,7 +3815,7 @@ A prior section 2398, Pub. L. 88–210, title III, § 318, as added Pub. L. 10
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2399. Study on programs of study aligned to high-skill, high-wage occupations
+#### § 2399. Study on programs of study aligned to high-skill, high-wage occupations
 
 **(a) Scope of study** The Comptroller General of the United States shall conduct a study to evaluate—
 
@@ -3845,7 +3845,7 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 Upon completion, the Comptroller General of the United States shall submit the study conducted under subsection (a) to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
-(Pub. L. 88–210, title II, § 219, as added Pub. L. 115–224, title II, § 201(a)(8), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 219, as added Pub. L. 115–224, title II, § 201(a)(8), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
@@ -3853,13 +3853,13 @@ Upon completion, the Comptroller General of the United States shall submit the s
 
 Prior sections 2401 to 2404 were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2401, Pub. L. 88–210, title IV, § 401, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2466; amended Pub. L. 101–392, title IV, § 402, Sept. 25, 1990, 104 Stat. 806, related to research objectives.
+Section 2401, Pub. L. 88–210, title IV, § 401, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2466; amended Pub. L. 101–392, title IV, § 402, Sept. 25, 1990, 104 Stat. 806, related to research objectives.
 
-Section 2402, Pub. L. 88–210, title IV, § 402, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2466; amended Pub. L. 101–392, title IV, § 403, Sept. 25, 1990, 104 Stat. 806, related to research activities.
+Section 2402, Pub. L. 88–210, title IV, § 402, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2466; amended Pub. L. 101–392, title IV, § 403, Sept. 25, 1990, 104 Stat. 806, related to research activities.
 
-Section 2403, Pub. L. 88–210, title IV, § 403, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2467; amended Pub. L. 101–392, title IV, § 404, Sept. 25, 1990, 104 Stat. 807, related to national assessment of vocational education programs.
+Section 2403, Pub. L. 88–210, title IV, § 403, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2467; amended Pub. L. 101–392, title IV, § 404, Sept. 25, 1990, 104 Stat. 807, related to national assessment of vocational education programs.
 
-Section 2404, Pub. L. 88–210, title IV, § 404, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2468; amended Pub. L. 101–392, title IV, § 405, Sept. 25, 1990, 104 Stat. 809; Pub. L. 103–382, title III, § 351(a)(2), Oct. 20, 1994, 108 Stat. 3966, related to National Center or Centers for Research in Vocational Education.
+Section 2404, Pub. L. 88–210, title IV, § 404, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2468; amended Pub. L. 101–392, title IV, § 405, Sept. 25, 1990, 104 Stat. 809; Pub. L. 103–382, title III, § 351(a)(2), Oct. 20, 1994, 108 Stat. 3966, related to National Center or Centers for Research in Vocational Education.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3869,7 +3869,7 @@ Section effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a
 
 ### Part B—State Administrative Provisions
 
-#### § 2411. Joint funding
+#### § 2411. Joint funding
 
 **(a) General authority** Funds made available to eligible agencies under this chapter may be used to provide additional funds under an applicable program if—
 
@@ -3891,23 +3891,23 @@ Section effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a
 
 For the purposes of this section, the term “additional funds” does not include funds used as matching funds.
 
-(Pub. L. 88–210, title II, § 221, formerly title III, § 321, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 745; amended Pub. L. 113–128, title V, § 512(e)(7), July 22, 2014, 128 Stat. 1707; renumbered title II, § 221, Pub. L. 115–224, title II, § 201(a)(5), (7), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 221, formerly title III, § 321, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 745; amended Pub. L. 113–128, title V, § 512(e)(7), July 22, 2014, 128 Stat. 1707; renumbered title II, § 221, Pub. L. 115–224, title II, § 201(a)(5), (7), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Chapters 2 and 3 of subtitle B of title I of the Act are classified generally to subparts 2 (§ 3161 et seq.) and 3 (§ 3171 et seq.), respectively, of part B of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Chapters 2 and 3 of subtitle B of title I of the Act are classified generally to subparts 2 (§ 3161 et seq.) and 3 (§ 3171 et seq.), respectively, of part B of subchapter I of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (b)(2), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+The Wagner-Peyser Act, referred to in subsec. (b)(2), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
 **Prior Provisions**
 
-A prior section 2411, Pub. L. 88–210, title III, § 321, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, related to joint funding, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2411, Pub. L. 88–210, title III, § 321, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3123, related to joint funding, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2411, Pub. L. 88–210, title IV, § 411, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 812, authorized grants for demonstration programs, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2411, Pub. L. 88–210, title IV, § 411, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 812, authorized grants for demonstration programs, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-Another prior section 2411, Pub. L. 88–210, title IV, § 411, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2470, related to programs and projects Secretary was authorized to carry out from available funds, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
+Another prior section 2411, Pub. L. 88–210, title IV, § 411, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2470, related to programs and projects Secretary was authorized to carry out from available funds, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
 
 **Amendments**
 
@@ -3923,19 +3923,19 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
-#### § 2412. Prohibition on use of funds to induce out-of-State relocation of businesses
+#### § 2412. Prohibition on use of funds to induce out-of-State relocation of businesses
 
 No funds provided under this chapter shall be used for the purpose of directly providing incentives or inducements to an employer to relocate a business enterprise from one State to another State if such relocation will result in a reduction in the number of jobs available in the State where the business enterprise is located before such incentives or inducements are offered.
 
-(Pub. L. 88–210, title II, § 222, formerly title III, § 322, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 745; renumbered title II, § 222, Pub. L. 115–224, title II, § 201(a)(5), (7), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 222, formerly title III, § 322, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 745; renumbered title II, § 222, Pub. L. 115–224, title II, § 201(a)(5), (7), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2412, Pub. L. 88–210, title III, § 322, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3124, prohibited use of funds to induce out-of-State relocation of businesses, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2412, Pub. L. 88–210, title III, § 322, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3124, prohibited use of funds to induce out-of-State relocation of businesses, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2412, Pub. L. 88–210, title IV, § 412, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 812, authorized grants for development, production, and distribution of instructional telecommunications materials and services, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2412, Pub. L. 88–210, title IV, § 412, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 812, authorized grants for development, production, and distribution of instructional telecommunications materials and services, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3943,7 +3943,7 @@ Another prior section 2412, Pub. L. 88–210, title IV, § 412, as added Pub. 
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2413. State administrative costs
+#### § 2413. State administrative costs
 
 **(a) General rule**
 
@@ -3953,17 +3953,17 @@ Except as provided in subsection (b), for each fiscal year for which an eligible
 
 If the amount made available from Federal sources for the administration of programs under this chapter for a fiscal year (referred to in this section as the “determination year”) is less than the amount made available from Federal sources for the administration of programs under this chapter for the preceding fiscal year, then the amount the eligible agency is required to provide from non-Federal sources for costs the eligible agency incurs for the administration of programs under this chapter for the determination year under subsection (a) shall bear the same ratio to the amount the eligible agency provided from non-Federal sources for such costs for the preceding fiscal year, as the amount made available from Federal sources for the administration of programs under this chapter for the determination year bears to the amount made available from Federal sources for the administration of programs under this chapter for the preceding fiscal year.
 
-(Pub. L. 88–210, title II, § 223, formerly title III, § 323, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 745; renumbered title II, § 223, Pub. L. 115–224, title II, § 201(a)(5), (7), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 223, formerly title III, § 323, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 745; renumbered title II, § 223, Pub. L. 115–224, title II, § 201(a)(5), (7), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2413, Pub. L. 88–210, title III, § 323, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3124, related to State administrative costs, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2413, Pub. L. 88–210, title III, § 323, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3124, related to State administrative costs, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2413, Pub. L. 88–210, title IV, § 413, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 813, authorized establishment of demonstration centers for training of dislocated workers, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2413, Pub. L. 88–210, title IV, § 413, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 813, authorized establishment of demonstration centers for training of dislocated workers, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-Another prior section 2413, Pub. L. 88–210, title IV, § 413, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2471, related to program of competitive grants to State boards for State programs involving loan of high-technology, state-of-the-art equipment to eligible recipients for use in local vocational education programs, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
+Another prior section 2413, Pub. L. 88–210, title IV, § 413, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2471, related to program of competitive grants to State boards for State programs involving loan of high-technology, state-of-the-art equipment to eligible recipients for use in local vocational education programs, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3971,7 +3971,7 @@ Another prior section 2413, Pub. L. 88–210, title IV, § 413, as added Pub. 
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of this title.
 
-#### § 2414. Student assistance and other Federal programs
+#### § 2414. Student assistance and other Federal programs
 
 **(a) Attendance costs not treated as income or resources**
 
@@ -3987,93 +3987,93 @@ The portion of any student financial assistance received under this chapter that
 
 Funds made available under this chapter may be used to pay for the costs of career and technical education services required in an individualized education program developed pursuant to section 1414(d) of this title and services necessary to meet the requirements of section 794 of title 29 with respect to ensuring equal access to career and technical education.
 
-(Pub. L. 88–210, title II, § 224, title III, § 324, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 746; renumbered title II, § 224, Pub. L. 115–224, title II, § 201(a)(5), (7), July 31, 2018, 132 Stat. 1621.)
+(Pub. L. 88–210, title II, § 224, title III, § 324, as added Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 746; renumbered title II, § 224, Pub. L. 115–224, title II, § 201(a)(5), (7), July 31, 2018, 132 Stat. 1621.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2414, Pub. L. 88–210, title III, § 324, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3124, limited Federal regulations, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2414, Pub. L. 88–210, title III, § 324, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3124, limited Federal regulations, prior to the general amendment of this chapter by Pub. L. 109–270.
 
-Another prior section 2414, Pub. L. 88–210, title IV, § 414, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 813, authorized grants for professional development, prior to the general amendment of this chapter by Pub. L. 105–332.
+Another prior section 2414, Pub. L. 88–210, title IV, § 414, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 813, authorized grants for professional development, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-A prior section 2415, Pub. L. 88–210, title III, § 325, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3124, which related to student assistance and other Federal programs, was omitted in the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2415, Pub. L. 88–210, title III, § 325, as added Pub. L. 105–332, § 1(b), Oct. 31, 1998, 112 Stat. 3124, which related to student assistance and other Federal programs, was omitted in the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2415 and prior sections 2416 to 2424 were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2415, Pub. L. 88–210, title IV, § 415, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 817, related to Blue Ribbon Vocational Education Programs.
+Section 2415, Pub. L. 88–210, title IV, § 415, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 817, related to Blue Ribbon Vocational Education Programs.
 
-Another prior section 2415, Pub. L. 88–210, title IV, § 415, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2471, related to establishment by Secretary of demonstration centers for retraining of dislocated workers, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
+Another prior section 2415, Pub. L. 88–210, title IV, § 415, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2471, related to establishment by Secretary of demonstration centers for retraining of dislocated workers, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
 
-Section 2416, Pub. L. 88–210, title IV, § 416, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 818, related to development of business and education standards.
+Section 2416, Pub. L. 88–210, title IV, § 416, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 818, related to development of business and education standards.
 
-Section 2417, Pub. L. 88–210, title IV, § 417, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 818, related to educational programs for Federal correctional institutions.
+Section 2417, Pub. L. 88–210, title IV, § 417, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 818, related to educational programs for Federal correctional institutions.
 
-Another prior section 2417, Pub. L. 88–210, title IV, § 417, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2471; amended Pub. L. 99–159, title VII, § 710, Nov. 22, 1985, 99 Stat. 907, related to establishment of grant program to establish and operate model centers for vocational education for older individuals, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
+Another prior section 2417, Pub. L. 88–210, title IV, § 417, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2471; amended Pub. L. 99–159, title VII, § 710, Nov. 22, 1985, 99 Stat. 907, related to establishment of grant program to establish and operate model centers for vocational education for older individuals, prior to the general amendment of part B of former subchapter IV of this chapter by Pub. L. 101–392.
 
-Section 2418, Pub. L. 88–210, title IV, § 418, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 819, related to dropout prevention.
+Section 2418, Pub. L. 88–210, title IV, § 418, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 819, related to dropout prevention.
 
-Section 2419, Pub. L. 88–210, title IV, § 419, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 819, related to model programs of regional training for skilled trades.
+Section 2419, Pub. L. 88–210, title IV, § 419, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 819, related to model programs of regional training for skilled trades.
 
-Section 2420, Pub. L. 88–210, title IV, § 420, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 820; amended Pub. L. 103–382, title III, § 391(s)(6), Oct. 20, 1994, 108 Stat. 4025, related to demonstration projects for integration of vocational and academic learning.
+Section 2420, Pub. L. 88–210, title IV, § 420, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 820; amended Pub. L. 103–382, title III, § 391(s)(6), Oct. 20, 1994, 108 Stat. 4025, related to demonstration projects for integration of vocational and academic learning.
 
-Section 2420a, Pub. L. 88–210, title IV, § 420A, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 820, related to cooperative demonstration programs.
+Section 2420a, Pub. L. 88–210, title IV, § 420A, as added Pub. L. 101–392, title IV, § 406(a), Sept. 25, 1990, 104 Stat. 820, related to cooperative demonstration programs.
 
-Section 2421, Pub. L. 88–210, title IV, § 421, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2472; amended Pub. L. 101–392, title IV, § 407, Sept. 25, 1990, 104 Stat. 822; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–227, title X, § 1021, Mar. 31, 1994, 108 Stat. 269, authorized vocational education and occupational information data systems.
+Section 2421, Pub. L. 88–210, title IV, § 421, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2472; amended Pub. L. 101–392, title IV, § 407, Sept. 25, 1990, 104 Stat. 822; Pub. L. 101–476, title IX, § 901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 103–227, title X, § 1021, Mar. 31, 1994, 108 Stat. 269, authorized vocational education and occupational information data systems.
 
-Section 2422, Pub. L. 88–210, title IV, § 422, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2473; amended Pub. L. 101–392, title IV, § 408, Sept. 25, 1990, 104 Stat. 825; Pub. L. 103–227, title IX, § 991, Mar. 31, 1994, 108 Stat. 264, related to National Occupational Information Coordinating Committee.
+Section 2422, Pub. L. 88–210, title IV, § 422, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2473; amended Pub. L. 101–392, title IV, § 408, Sept. 25, 1990, 104 Stat. 825; Pub. L. 103–227, title IX, § 991, Mar. 31, 1994, 108 Stat. 264, related to National Occupational Information Coordinating Committee.
 
-Section 2423, Pub. L. 88–210, title IV, § 423, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2474; amended Pub. L. 101–392, title IV, § 409, Sept. 25, 1990, 104 Stat. 827, related to information base for vocational education data system.
+Section 2423, Pub. L. 88–210, title IV, § 423, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2474; amended Pub. L. 101–392, title IV, § 409, Sept. 25, 1990, 104 Stat. 827, related to information base for vocational education data system.
 
-Section 2424, Pub. L. 88–210, title IV, § 424, as added Pub. L. 101–392, title IV, § 410, Sept. 25, 1990, 104 Stat. 829, related to collection of information at reasonable cost and cooperation of States.
+Section 2424, Pub. L. 88–210, title IV, § 424, as added Pub. L. 101–392, title IV, § 410, Sept. 25, 1990, 104 Stat. 829, related to collection of information at reasonable cost and cooperation of States.
 
-A prior section 2431, Pub. L. 88–210, title IV, § 431, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2474, established National Council on Vocational Education, prior to repeal by Pub. L. 101–392, title IV, § 411(a), (c), Sept. 25, 1990, 104 Stat. 829, effective Oct. 1, 1991.
+A prior section 2431, Pub. L. 88–210, title IV, § 431, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2474, established National Council on Vocational Education, prior to repeal by Pub. L. 101–392, title IV, § 411(a), (c), Sept. 25, 1990, 104 Stat. 829, effective Oct. 1, 1991.
 
 Prior sections 2441 to 2461 were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2441, Pub. L. 88–210, title IV, § 441, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2477; amended Pub. L. 104–66, title I, § 1041(h), Dec. 21, 1995, 109 Stat. 715, authorized grants for bilingual vocational training.
+Section 2441, Pub. L. 88–210, title IV, § 441, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2477; amended Pub. L. 104–66, title I, § 1041(h), Dec. 21, 1995, 109 Stat. 715, authorized grants for bilingual vocational training.
 
-Section 2451, Pub. L. 88–210, title IV, § 451, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2479; amended Pub. L. 101–392, title IV, § 412, Sept. 25, 1990, 104 Stat. 829, related to distribution of assistance.
+Section 2451, Pub. L. 88–210, title IV, § 451, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2479; amended Pub. L. 101–392, title IV, § 412, Sept. 25, 1990, 104 Stat. 829, related to distribution of assistance.
 
-Section 2461, Pub. L. 88–210, title V, § 501, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2479, related to Federal payments to States.
+Section 2461, Pub. L. 88–210, title V, § 501, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2479, related to Federal payments to States.
 
-A prior section 2462, Pub. L. 88–210, title V, § 502, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2479; amended Pub. L. 99–159, title VII, § 711, Nov. 22, 1985, 99 Stat. 907, related to Federal share of, and non-Federal contributions for, costs of vocational education programs, prior to repeal by Pub. L. 101–392, title V, § 501(a)(1), title VII, § 702(a), Sept. 25, 1990, 104 Stat. 830, 843, effective July 1, 1991.
+A prior section 2462, Pub. L. 88–210, title V, § 502, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2479; amended Pub. L. 99–159, title VII, § 711, Nov. 22, 1985, 99 Stat. 907, related to Federal share of, and non-Federal contributions for, costs of vocational education programs, prior to repeal by Pub. L. 101–392, title V, § 501(a)(1), title VII, § 702(a), Sept. 25, 1990, 104 Stat. 830, 843, effective July 1, 1991.
 
-A prior section 2463, Pub. L. 88–210, title V, § 502, formerly § 503, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2480; renumbered § 502 and amended Pub. L. 101–392, title V, § 501(a)(2), (b), Sept. 25, 1990, 104 Stat. 830, related to maintenance of effort, prior to the general amendment of this chapter by Pub. L. 105–332.
+A prior section 2463, Pub. L. 88–210, title V, § 502, formerly § 503, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2480; renumbered § 502 and amended Pub. L. 101–392, title V, § 501(a)(2), (b), Sept. 25, 1990, 104 Stat. 830, related to maintenance of effort, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-Prior sections 2464 and 2465 were repealed by Pub. L. 101–392, title V, § 501(a)(1), title VII, § 702(a), Sept. 25, 1990, 104 Stat. 830, 843, effective July 1, 1991.
+Prior sections 2464 and 2465 were repealed by Pub. L. 101–392, title V, § 501(a)(1), title VII, § 702(a), Sept. 25, 1990, 104 Stat. 830, 843, effective July 1, 1991.
 
-Section 2464, Pub. L. 88–210, title V, § 504, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2480; amended Pub. L. 99–159, title VII, § 713(a)(3), Nov. 22, 1985, 99 Stat. 907, related to withholding of payments and judicial review of such action.
+Section 2464, Pub. L. 88–210, title V, § 504, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2480; amended Pub. L. 99–159, title VII, § 713(a)(3), Nov. 22, 1985, 99 Stat. 907, related to withholding of payments and judicial review of such action.
 
-Section 2465, Pub. L. 88–210, title V, § 505, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2482, required States to conduct biennial audits.
+Section 2465, Pub. L. 88–210, title V, § 505, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2482, required States to conduct biennial audits.
 
 Prior sections 2466 to 2471 were omitted in the general amendment of this chapter by Pub. L. 105–332.
 
-Section 2466, Pub. L. 88–210, title V, § 503, formerly § 506, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2482; renumbered § 503, Pub. L. 101–392, title V, § 501(a)(2), Sept. 25, 1990, 104 Stat. 830, related to authority to make payments. See section 2392 of this title.
+Section 2466, Pub. L. 88–210, title V, § 503, formerly § 506, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2482; renumbered § 503, Pub. L. 101–392, title V, § 501(a)(2), Sept. 25, 1990, 104 Stat. 830, related to authority to make payments. See section 2392 of this title.
 
-Section 2466a, Pub. L. 88–210, title V, § 504, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 830; amended Pub. L. 103–382, title II, § 261(i)(1), Oct. 20, 1994, 108 Stat. 3929, related to regional meetings and negotiated rulemaking.
+Section 2466a, Pub. L. 88–210, title V, § 504, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 830; amended Pub. L. 103–382, title II, § 261(i)(1), Oct. 20, 1994, 108 Stat. 3929, related to regional meetings and negotiated rulemaking.
 
-Section 2466b, Pub. L. 88–210, title V, § 505, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 831, contained requirements relating to reports, plans, and regulations.
+Section 2466b, Pub. L. 88–210, title V, § 505, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 831, contained requirements relating to reports, plans, and regulations.
 
-Section 2466c, Pub. L. 88–210, title V, § 506, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 831, provided for consistency of this chapter with Federal laws guaranteeing civil rights.
+Section 2466c, Pub. L. 88–210, title V, § 506, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 831, provided for consistency of this chapter with Federal laws guaranteeing civil rights.
 
-Section 2466d, Pub. L. 88–210, title V, § 507, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 831, related to student assistance and other Federal programs.
+Section 2466d, Pub. L. 88–210, title V, § 507, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 831, related to student assistance and other Federal programs.
 
-Section 2466e, Pub. L. 88–210, title V, § 508, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 831, related to Federal monitoring of compliance with this chapter.
+Section 2466e, Pub. L. 88–210, title V, § 508, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 831, related to Federal monitoring of compliance with this chapter.
 
-Section 2468, Pub. L. 88–210, title V, § 511, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 832, related to use of funds for joint funding of programs.
+Section 2468, Pub. L. 88–210, title V, § 511, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 832, related to use of funds for joint funding of programs.
 
-Section 2468a, Pub. L. 88–210, title V, § 512, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 832, related to review of regulations.
+Section 2468a, Pub. L. 88–210, title V, § 512, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 832, related to review of regulations.
 
-Section 2468b, Pub. L. 88–210, title V, § 513, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 833, related to identification of State-imposed requirements.
+Section 2468b, Pub. L. 88–210, title V, § 513, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 833, related to identification of State-imposed requirements.
 
-Section 2468c, Pub. L. 88–210, title V, § 514, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 833, prohibited use of funds to induce out-of-State relocation of businesses. See section 2412 of this title.
+Section 2468c, Pub. L. 88–210, title V, § 514, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 833, prohibited use of funds to induce out-of-State relocation of businesses. See section 2412 of this title.
 
-Section 2468d, Pub. L. 88–210, title V, § 515, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 833, related to State administrative costs. See section 2413 of this title.
+Section 2468d, Pub. L. 88–210, title V, § 515, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 833, related to State administrative costs. See section 2413 of this title.
 
-Section 2468e, Pub. L. 88–210, title V, § 516, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 833, contained additional administrative provisions.
+Section 2468e, Pub. L. 88–210, title V, § 516, as added Pub. L. 101–392, title V, § 501(c)(2), Sept. 25, 1990, 104 Stat. 833, contained additional administrative provisions.
 
-Section 2471, Pub. L. 88–210, title V, § 521, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2482; amended Pub. L. 99–159, title VII, § 713(a)(4), Nov. 22, 1985, 99 Stat. 907; Pub. L. 101–392, title V, § 502, Sept. 25, 1990, 104 Stat. 834; Pub. L. 103–382, title III, § 391(s)(7), (8), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 104–193, title I, § 110(i)(3), Aug. 22, 1996, 110 Stat. 2172, defined terms for purposes of this chapter.
+Section 2471, Pub. L. 88–210, title V, § 521, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2482; amended Pub. L. 99–159, title VII, § 713(a)(4), Nov. 22, 1985, 99 Stat. 907; Pub. L. 101–392, title V, § 502, Sept. 25, 1990, 104 Stat. 834; Pub. L. 103–382, title III, § 391(s)(7), (8), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 104–193, title I, § 110(i)(3), Aug. 22, 1996, 110 Stat. 2172, defined terms for purposes of this chapter.
 
 **Statutory Notes and Related Subsidiaries**
 

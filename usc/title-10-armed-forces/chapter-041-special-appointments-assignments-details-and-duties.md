@@ -19,55 +19,55 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title X, § 1043(b)(2), Dec. 18, 2025, 139 Stat. 1037, added item 723 and struck out former item 723 “Support of Federal authorities in response to civil disturbances: requirement for use of members of the Armed Forces and Federal law enforcement personnel”.
+2025—Pub. L. 119–60, div. A, title X, § 1043(b)(2), Dec. 18, 2025, 139 Stat. 1037, added item 723 and struck out former item 723 “Support of Federal authorities in response to civil disturbances: requirement for use of members of the Armed Forces and Federal law enforcement personnel”.
 
-2024—Pub. L. 118–159, div. A, title V, § 522(a)(1), Dec. 23, 2024, 138 Stat. 1883, struck out “within the United States” after “provide protection” in item 714. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title V, § 522(a)(1), Dec. 23, 2024, 138 Stat. 1883, struck out “within the United States” after “provide protection” in item 714. Amendment was made pursuant to operation of section 102 of this title.
 
-2021—Pub. L. 116–283, div. A, title X, §§ 1064(b), 1081(a)(19), Jan. 1, 2021, 134 Stat. 3860, 3871, moved item 714 to appear immediately after item 713, inserted period at end of item 715, and added item 723.
+2021—Pub. L. 116–283, div. A, title X, §§ 1064(b), 1081(a)(19), Jan. 1, 2021, 134 Stat. 3860, 3871, moved item 714 to appear immediately after item 713, inserted period at end of item 715, and added item 723.
 
-2018—Pub. L. 115–232, div. A, title V, § 508(b), Aug. 13, 2018, 132 Stat. 1749, added item 715.
+2018—Pub. L. 115–232, div. A, title V, § 508(b), Aug. 13, 2018, 132 Stat. 1749, added item 715.
 
-2016—Pub. L. 114–328, div. A, title IX, § 952(c)(2), Dec. 23, 2016, 130 Stat. 2375, added item 714 at the end of this analysis.
+2016—Pub. L. 114–328, div. A, title IX, § 952(c)(2), Dec. 23, 2016, 130 Stat. 2375, added item 714 at the end of this analysis.
 
-Pub. L. 114–328, div. A, title V, § 502(g)(2), (h)(2), Dec. 23, 2016, 130 Stat. 2103, struck out items 720 “Chief of Staff to President: appointment” and 722 “Attending Physician to the Congress: grade”.
+Pub. L. 114–328, div. A, title V, § 502(g)(2), (h)(2), Dec. 23, 2016, 130 Stat. 2103, struck out items 720 “Chief of Staff to President: appointment” and 722 “Attending Physician to the Congress: grade”.
 
-2009—Pub. L. 111–84, div. A, title V, § 502(i)(2), Oct. 28, 2009, 123 Stat. 2277, struck out item 721 “General and flag officers: limitation on appointments, assignments, details, and duties outside an officer’s own service”.
+2009—Pub. L. 111–84, div. A, title V, § 502(i)(2), Oct. 28, 2009, 123 Stat. 2277, struck out item 721 “General and flag officers: limitation on appointments, assignments, details, and duties outside an officer’s own service”.
 
-2006—Pub. L. 109–364, div. A, title V, § 507(a)(1)(B), Oct. 17, 2006, 120 Stat. 2180, added item 722.
+2006—Pub. L. 109–364, div. A, title V, § 507(a)(1)(B), Oct. 17, 2006, 120 Stat. 2180, added item 722.
 
-2003—Pub. L. 108–136, div. A, title V, § 503(b), Nov. 24, 2003, 117 Stat. 1456, struck out item 714 “Defense attaché in France: required grade”.
+2003—Pub. L. 108–136, div. A, title V, § 503(b), Nov. 24, 2003, 117 Stat. 1456, struck out item 714 “Defense attaché in France: required grade”.
 
-1997—Pub. L. 105–85, div. A, title V, §§ 501(b), 597(b), Nov. 18, 1997, 111 Stat. 1724, 1766, added items 714 and 721.
+1997—Pub. L. 105–85, div. A, title V, §§ 501(b), 597(b), Nov. 18, 1997, 111 Stat. 1724, 1766, added items 714 and 721.
 
-1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(8), Oct. 5, 1994, 108 Stat. 3013, struck out item 715 “Reserve components: detail of members of regular and reserve components to assist”.
+1994—Pub. L. 103–337, div. A, title XVI, § 1671(b)(8), Oct. 5, 1994, 108 Stat. 3013, struck out item 715 “Reserve components: detail of members of regular and reserve components to assist”.
 
-1986—Pub. L. 99–433, title I, § 110(a)(2), Oct. 1, 1986, 100 Stat. 1001, struck out item 718 “Secretary of Defense: detail of officers to assist”.
+1986—Pub. L. 99–433, title I, § 110(a)(2), Oct. 1, 1986, 100 Stat. 1001, struck out item 718 “Secretary of Defense: detail of officers to assist”.
 
-1983—Pub. L. 98–94, title X, § 1007(a)(2), Sept. 24, 1983, 97 Stat. 662, included reference to the Public Health Service in item 716.
+1983—Pub. L. 98–94, title X, § 1007(a)(2), Sept. 24, 1983, 97 Stat. 662, included reference to the Public Health Service in item 716.
 
-1980—Pub. L. 96–513, title V, §§ 501(9)(B), 511(23)(C), Dec. 12, 1980, 94 Stat. 2908, 2922, substituted “assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration” for “assignment or detail to Environmental Science Services Administration” in item 719 and added item 720.
+1980—Pub. L. 96–513, title V, §§ 501(9)(B), 511(23)(C), Dec. 12, 1980, 94 Stat. 2908, 2922, substituted “assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration” for “assignment or detail to Environmental Science Services Administration” in item 719 and added item 720.
 
-Pub. L. 96–215, § 2(b), Mar. 25, 1980, 94 Stat. 123, inserted “and to and from National Oceanic and Atmospheric Administration” after “between armed forces” in item 716.
+Pub. L. 96–215, § 2(b), Mar. 25, 1980, 94 Stat. 123, inserted “and to and from National Oceanic and Atmospheric Administration” after “between armed forces” in item 716.
 
-1970—Pub. L. 91–392, § 2, Sept. 1, 1970, 84 Stat. 834, substituted “armed forces” for “Army, Navy, Air Force, and Marine Corps” in item 716.
+1970—Pub. L. 91–392, § 2, Sept. 1, 1970, 84 Stat. 834, substituted “armed forces” for “Army, Navy, Air Force, and Marine Corps” in item 716.
 
-1968—Pub. L. 90–235, § 4(a)(1)(B), Jan. 2, 1968, 81 Stat. 759, added item 711a.
+1968—Pub. L. 90–235, § 4(a)(1)(B), Jan. 2, 1968, 81 Stat. 759, added item 711a.
 
-1966—Pub. L. 89–683, § 1(2), Oct. 15, 1966, 80 Stat. 960, added item 719.
+1966—Pub. L. 89–683, § 1(2), Oct. 15, 1966, 80 Stat. 960, added item 719.
 
-1962—Pub. L. 87–651, title I, § 103(b), title II, § 205(b), Sept. 7, 1962, 76 Stat. 508, 519, redesignated item 716, relating to participation of members of the armed forces in international sports, as 717, and added item 718.
+1962—Pub. L. 87–651, title I, § 103(b), title II, § 205(b), Sept. 7, 1962, 76 Stat. 508, 519, redesignated item 716, relating to participation of members of the armed forces in international sports, as 717, and added item 718.
 
-1960—Pub. L. 86–533, § 1(5)(B), June 29, 1960, 74 Stat. 246, repealed item 714 “Reports to Congress on length of tours of duty outside United States by members of Army and Air Force”.
+1960—Pub. L. 86–533, § 1(5)(B), June 29, 1960, 74 Stat. 246, repealed item 714 “Reports to Congress on length of tours of duty outside United States by members of Army and Air Force”.
 
-1958—Pub. L. 85–861, § 1(18), Sept. 2, 1958, 72 Stat. 1442, added item 716, relating to participation of members of the armed forces in international sports.
+1958—Pub. L. 85–861, § 1(18), Sept. 2, 1958, 72 Stat. 1442, added item 716, relating to participation of members of the armed forces in international sports.
 
-Pub. L. 85–599, § 11(1), Aug. 6, 1958, 72 Stat. 521, added item 716, relating to transfers of commissioned officers.
+Pub. L. 85–599, § 11(1), Aug. 6, 1958, 72 Stat. 521, added item 716, relating to transfers of commissioned officers.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Pilot Program Authority To Enhance Cybersecurity and Resiliency of Critical Infrastructure**
 
-Pub. L. 115–232, div. A, title XVI, § 1650, Aug. 13, 2018, 132 Stat. 2138, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1650, Aug. 13, 2018, 132 Stat. 2138, provided that:
 
 > **“(a) Authority.—** The Secretary of Defense, in coordination with the Secretary of Homeland Security, is authorized to provide, detail, or assign technical personnel to the Department of Homeland Security on a non-reimbursable basis to enhance cybersecurity cooperation, collaboration, and unity of Government efforts.
 
@@ -89,7 +89,7 @@ Pub. L. 115–232, div. A, title XVI, § 1650, Aug. 13, 2018, 132 Stat. 2138, 
 
 **Exchange Program for Nuclear Weapons Program Employees**
 
-Pub. L. 115–232, div. A, title XVI, § 1667, Aug. 13, 2018, 132 Stat. 2155, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1667, Aug. 13, 2018, 132 Stat. 2155, provided that:
 
 > **“(a) Program Authorized.—** The Chairman of the Nuclear Weapons Council established under section 179 of title 10, United States Code, and the Administrator for Nuclear Security, shall jointly establish an exchange program under which—
 
@@ -129,7 +129,7 @@ Pub. L. 115–232, div. A, title XVI, § 1667, Aug. 13, 2018, 132 Stat. 2155, 
 
 **Reports on Members of the Armed Forces and Civilian Employees of the Department of Defense Serving in the Legislative Branch**
 
-Pub. L. 109–364, div. A, title XI, § 1104, Oct. 17, 2006, 120 Stat. 2409, as amended by Pub. L. 112–81, div. A, title X, § 1066(c), Dec. 31, 2011, 125 Stat. 1588, provided that:
+Pub. L. 109–364, div. A, title XI, § 1104, Oct. 17, 2006, 120 Stat. 2409, as amended by Pub. L. 112–81, div. A, title X, § 1066(c), Dec. 31, 2011, 125 Stat. 1588, provided that:
 
 > **“(a) Reports on Details and Fellowships of Long Duration.—** Whenever a member of the Armed Forces or a civilian employee of the Department of Defense serves continuously in the Legislative Branch for more than 12 consecutive months in one or a combination of covered legislative details or fellowships, the Secretary of Defense shall submit to the congressional defense committees, within 90 days, and quarterly thereafter for as long as the service continues, a report on the service of the member or employee.
 
@@ -153,19 +153,19 @@ Pub. L. 109–364, div. A, title XI, § 1104, Oct. 17, 2006, 120 Stat. 2409, a
 
 > **“(2)** A legislative fellowship (including a legislative fellowship under the provisions of Department of Defense Directive 1322.6).”
 
-## § 711. Senior members of Military Staff Committee of United Nations: appointment
+## § 711. Senior members of Military Staff Committee of United Nations: appointment
 
 The President, by and with the advice and consent of the Senate, may appoint an officer of the Army, an officer of the Navy or the Marine Corps, and an officer of the Air Force or the Space Force, as senior members of the Military Staff Committee of the United Nations.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 32; Pub. L. 114–328, div. A, title V, § 502(f), Dec. 23, 2016, 130 Stat. 2103; Pub. L. 116–283, div. A, title IX, § 924(b)(19), Jan. 1, 2021, 134 Stat. 3823.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 32; Pub. L. 114–328, div. A, title V, § 502(f), Dec. 23, 2016, 130 Stat. 2103; Pub. L. 116–283, div. A, title IX, § 924(b)(19), Jan. 1, 2021, 134 Stat. 3823.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 711 | 10:506b(c) (less last 12 words). | Aug. 7, 1947, ch. 512, § 504(c) (less last 12 words), 61 Stat 886. |
+| 711 | 10:506b(c) (less last 12 words). | Aug. 7, 1947, ch. 512, § 504(c) (less last 12 words), 61 Stat 886. |
 
-The words “Within the limitations as to numbers in grade prescribed in this Act”, so far as they relate to the Army and the Air Force, are omitted as executed by the declaration of the national emergency on December 16, 1950, in accordance with an opinion of the Judge Advocate General of the Army (JAGA 1951/6180, 17 Oct. 1951). So far as they relate to the Navy and the Marine Corps they are omitted as surplusage. The words “may appoint” are inserted to make it explicit that the revised section prescribes the appointment as well as the rank and pay that go with it. The word “grade” is substituted for the word “rank”. The words “Navy or Marine Corps” are substituted for the words “Navy, including the Marine Corps”. The words “Army, \* \* \* Air Force” are substituted for the words “Army less the Air Corps \* \* \* Air Corps”. The words “pay and allowances of a vice admiral or lieutenant general” are omitted as surplusage, since this is implicit upon appointment to the grade. The words “and Naval” are omitted to conform to the name “Military Staff Committee” established by Article 47 of the United Nations Charter.
+The words “Within the limitations as to numbers in grade prescribed in this Act”, so far as they relate to the Army and the Air Force, are omitted as executed by the declaration of the national emergency on December 16, 1950, in accordance with an opinion of the Judge Advocate General of the Army (JAGA 1951/6180, 17 Oct. 1951). So far as they relate to the Navy and the Marine Corps they are omitted as surplusage. The words “may appoint” are inserted to make it explicit that the revised section prescribes the appointment as well as the rank and pay that go with it. The word “grade” is substituted for the word “rank”. The words “Navy or Marine Corps” are substituted for the words “Navy, including the Marine Corps”. The words “Army, \* \* \* Air Force” are substituted for the words “Army less the Air Corps \* \* \* Air Corps”. The words “pay and allowances of a vice admiral or lieutenant general” are omitted as surplusage, since this is implicit upon appointment to the grade. The words “and Naval” are omitted to conform to the name “Military Staff Committee” established by Article 47 of the United Nations Charter.
 
 **Editorial Notes**
 
@@ -179,7 +179,7 @@ The words “Within the limitations as to numbers in grade prescribed in this Ac
 
 2016—Pub. L. 114–328 struck out second sentence which read as follows: “An officer so appointed has the grade of lieutenant general or vice admiral, as the case may be, while serving under that appointment.”
 
-## § 711a. American National Red Cross: detail of commissioned officers
+## § 711a. American National Red Cross: detail of commissioned officers
 
 Commissioned officers of the Army, Navy, and Air Force may be detailed for duty with the American National Red Cross, by the Secretary of the military department concerned, as follows:
 
@@ -199,7 +199,7 @@ Commissioned officers of the Army, Navy, and Air Force may be detailed for duty 
 
 **(C)** a medical officer of the Air Force.
 
-(Added Pub. L. 90–235, § 4(a)(1)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, § 511(21), Dec. 12, 1980, 94 Stat. 2921.)
+(Added Pub. L. 90–235, § 4(a)(1)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, § 511(21), Dec. 12, 1980, 94 Stat. 2921.)
 
 **Editorial Notes**
 
@@ -215,7 +215,7 @@ Commissioned officers of the Army, Navy, and Air Force may be detailed for duty 
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## § 712. Foreign governments: detail to assist
+## § 712. Foreign governments: detail to assist
 
 **(a)** Upon the application of the country concerned, the President, whenever he considers it in the public interest, may detail members of the Army, Navy, Air Force, Marine Corps, and Space Force to assist in military matters—
 
@@ -227,13 +227,13 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 **(b)** Subject to the prior approval of the Secretary of the military department concerned, a member detailed under this section may accept any office from the country to which he is detailed. He is entitled to credit for all service while so detailed, as if serving with the armed forces of the United States. Arrangements may be made by the President, with countries to which such members are detailed to perform functions under this section, for reimbursement to the United States or other sharing of the cost of performing such functions.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 32; Pub. L. 85–477, ch. V, § 502(k), June 30, 1958, 72 Stat. 275; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(E), Jan. 1, 2021, 134 Stat. 3820.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 32; Pub. L. 85–477, ch. V, § 502(k), June 30, 1958, 72 Stat. 275; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(E), Jan. 1, 2021, 134 Stat. 3820.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 712(a)   712(b) | 10:540 (less provisos). 34:441a (less provisos). 10:540 (provisos). 34:441a (provisos). | May 19, 1926, ch. 334, 44 Stat, 565; May 14, 1935, ch. 109, 49 Stat. 218; Oct. 1, 1942, ch. 571, 56 Stat. 763. |
+| 712(a) 712(b) | 10:540 (less provisos). 34:441a (less provisos). 10:540 (provisos). 34:441a (provisos). | May 19, 1926, ch. 334, 44 Stat, 565; May 14, 1935, ch. 109, 49 Stat. 218; Oct. 1, 1942, ch. 571, 56 Stat. 763. |
 
 In subsection (a), the words “and the Commonwealth of the Philippine Islands”, in the Act of May 19, 1926, ch. 334, added by the Act of May 14, 1935, ch. 109, 49 Stat. 218, are not contained in 10:540 or 34:441a. They are also omitted from the revised section, since Proclamation No. 2695, effective July 4, 1946, 60 Stat. 1352 (48 U.S.C. 1240 (note)), proclaimed the independence of the Philippine Islands. Similar provisions relating to the Philippines are now contained in section 5 of the Act of June 26, 1946, ch. 500, 60 Stat. 315. The word “members” is substituted for the words “officers and enlisted men”, in 10:540 and 34:441a.
 
@@ -251,9 +251,9 @@ In subsection (b), the words “entitled to credit for all service” are substi
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–477, ch. V, § 502(k), June 30, 1958, 72 Stat. 275, provided that the amendment made by that section is effective nine months after June 30, 1958.
+Pub. L. 85–477, ch. V, § 502(k), June 30, 1958, 72 Stat. 275, provided that the amendment made by that section is effective nine months after June 30, 1958.
 
-## § 713. State Department: assignment or detail as couriers and building inspectors
+## § 713. State Department: assignment or detail as couriers and building inspectors
 
 **(a)** Upon the request of the Secretary of State, the Secretary of a military department may assign or detail members of the armed forces under his jurisdiction for duty—
 
@@ -271,14 +271,14 @@ Pub. L. 85–477, ch. V, § 502(k), June 30, 1958, 72 Stat. 275, provided that
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 713(a) | 22:956 (words before semicolon of 1st sentence). | Aug. 13, 1946, ch. 957, § 561, 60 Stat. 1011. |
+| 713(a) | 22:956 (words before semicolon of 1st sentence). | Aug. 13, 1946, ch. 957, § 561, 60 Stat. 1011. |
 | 713(b) | 22:956 (less words before semicolon of 1st sentence). |  |
 
 In subsection (a), the words “members of the armed forces under his jurisdiction” are substituted for the words “military and naval personnel serving under their supervision”.
 
 In subsection (b), the words “The Secretary concerned may” are substituted for the words “in the discretion of the head of the department concerned”.
 
-## § 714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection
+## § 714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection
 
 **(a) Protection for Department Leadership.—** The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security to the following persons who, by nature of their positions, require continuous security and protection:
 
@@ -298,9 +298,9 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
 **(b) Protection for Former or Retired Department Leadership.—** The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security to a former or retired official who—
 
-**(1)** previously served in a position identified in paragraphs (1) through (7) 1
+**(1)** previously served in a position identified in paragraphs (1) through (7) 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of subsection (a)”.
+<sup>1</sup> So in original. Probably should be followed by “of subsection (a)”.
 
 ; and
 
@@ -402,109 +402,109 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
 **(j) Reimbursement.—** The Secretary of Defense may reimburse a former or retired official who faces serious and credible threats arising from duties performed while employed by the Department for security services and equipment procured at the personal expense of the official, not to exceed an aggregate of $15,000,000 in any fiscal year for all former and retired officials authorized by the Secretary of Defense for such reimbursement.
 
-(Added and amended Pub. L. 114–328, div. A, title IX, § 952(c)(1), (4)–(6), Dec. 23, 2016, 130 Stat. 2375, 2376; Pub. L. 118–31, div. A, title V, § 529A, Dec. 22, 2023, 137 Stat. 256; Pub. L. 118–159, div. A, title V, § 522, title XVII, § 1701(a)(16), Dec. 23, 2024, 138 Stat. 1883, 2204; Pub. L. 119–60, div. A, title X, § 1042, title XVII, § 1701(a)(12), Dec. 18, 2025, 139 Stat. 1035, 1208.)
+(Added and amended Pub. L. 114–328, div. A, title IX, § 952(c)(1), (4)–(6), Dec. 23, 2016, 130 Stat. 2375, 2376; Pub. L. 118–31, div. A, title V, § 529A, Dec. 22, 2023, 137 Stat. 256; Pub. L. 118–159, div. A, title V, § 522, title XVII, § 1701(a)(16), Dec. 23, 2024, 138 Stat. 1883, 2204; Pub. L. 119–60, div. A, title X, § 1042, title XVII, § 1701(a)(12), Dec. 18, 2025, 139 Stat. 1035, 1208.)
 
 **Editorial Notes**
 
 **Codification**
 
-Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (d) of section 1074 of Pub. L. 110–181, div. A, title X, Jan. 28, 2008, 122 Stat. 330, as amended, which was formerly set out as a note under section 113 of this title, prior to repeal by Pub. L. 114–328, div. A, title IX, § 952(c)(3), Dec. 23, 2016, 130 Stat. 2375.
+Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (d) of section 1074 of Pub. L. 110–181, div. A, title X, Jan. 28, 2008, 122 Stat. 330, as amended, which was formerly set out as a note under section 113 of this title, prior to repeal by Pub. L. 114–328, div. A, title IX, § 952(c)(3), Dec. 23, 2016, 130 Stat. 2375.
 
 **Prior Provisions**
 
-A prior section 714, added Pub. L. 105–85, div. A, title V, § 597(a), Nov. 18, 1997, 111 Stat. 1766, related to required grade of officer selected for assignment to position of defense attaché to United States embassy in France, prior to repeal by Pub. L. 108–136, div. A, title V, § 503(a), Nov. 24, 2003, 117 Stat. 1456.
+A prior section 714, added Pub. L. 105–85, div. A, title V, § 597(a), Nov. 18, 1997, 111 Stat. 1766, related to required grade of officer selected for assignment to position of defense attaché to United States embassy in France, prior to repeal by Pub. L. 108–136, div. A, title V, § 503(a), Nov. 24, 2003, 117 Stat. 1456.
 
-Another prior section 714, act Aug. 10, 1956, ch. 1041, 70A Stat. 33, related to reports to Congress on length of tours of duty outside the United States by members of the Army and Air Force, prior to repeal by Pub. L. 86–533, § 1(5)(A), June 29, 1960, 74 Stat. 246.
+Another prior section 714, act Aug. 10, 1956, ch. 1041, 70A Stat. 33, related to reports to Congress on length of tours of duty outside the United States by members of the Army and Air Force, prior to repeal by Pub. L. 86–533, § 1(5)(A), June 29, 1960, 74 Stat. 246.
 
 **Amendments**
 
-2025—Subsec. (b). Pub. L. 119–60, § 1042(3), added subsec. (b). Former subsec. (b) redesignated (c).
+2025—Subsec. (b). Pub. L. 119–60, § 1042(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 119–60, § 1042(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (h).
+Subsec. (c). Pub. L. 119–60, § 1042(2), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (h).
 
-Subsec. (c)(1). Pub. L. 119–60, § 1042(4)(A), substituted “subsection (a) or (b)” for “paragraphs (1) through (7) of subsection (a)”.
+Subsec. (c)(1). Pub. L. 119–60, § 1042(4)(A), substituted “subsection (a) or (b)” for “paragraphs (1) through (7) of subsection (a)”.
 
-Subsec. (c)(4), (5). Pub. L. 119–60, § 1042(4)(B), redesignated par. (7) as (4) and struck out former pars. (4) and (5) which related to requirement for written determination and duration of protection, respectively.
+Subsec. (c)(4), (5). Pub. L. 119–60, § 1042(4)(B), redesignated par. (7) as (4) and struck out former pars. (4) and (5) which related to requirement for written determination and duration of protection, respectively.
 
-Subsec. (c)(6). Pub. L. 119–60, § 1042(4)(B), struck out par. (6) which related to submission to Congress of certain determinations and regulations and guidelines.
+Subsec. (c)(6). Pub. L. 119–60, § 1042(4)(B), struck out par. (6) which related to submission to Congress of certain determinations and regulations and guidelines.
 
-Subsec. (c)(6)(A). Pub. L. 119–60, § 1701(a)(12), which directed amendment of subsec. (b)(6)(A) by inserting “a” before “determination” in the second sentence, could not be executed because of the intervening amendment by Pub. L. 119–60, § 1042(2), (4)(B), redesignating subsec. (b) as (c) and striking par. (6). See above.
+Subsec. (c)(6)(A). Pub. L. 119–60, § 1701(a)(12), which directed amendment of subsec. (b)(6)(A) by inserting “a” before “determination” in the second sentence, could not be executed because of the intervening amendment by Pub. L. 119–60, § 1042(2), (4)(B), redesignating subsec. (b) as (c) and striking par. (6). See above.
 
-Subsec. (c)(7). Pub. L. 119–60, § 1042(4)(B), redesignated par. (7) as (4).
+Subsec. (c)(7). Pub. L. 119–60, § 1042(4)(B), redesignated par. (7) as (4).
 
-Subsecs. (d) to (g). Pub. L. 119–60, § 1042(5), added subsecs. (d) to (g). Former subsecs. (d) and (e) redesignated (i) and (j).
+Subsecs. (d) to (g). Pub. L. 119–60, § 1042(5), added subsecs. (d) to (g). Former subsecs. (d) and (e) redesignated (i) and (j).
 
-Subsecs. (h) to (j). Pub. L. 119–60, § 1042(1), redesignated subsecs. (c) to (e) as (h) to (j), respectively.
+Subsecs. (h) to (j). Pub. L. 119–60, § 1042(1), redesignated subsecs. (c) to (e) as (h) to (j), respectively.
 
-2024—Pub. L. 118–159, § 522(a)(1), which directed striking out “within the united states” in section catchline, was executed by striking out “within the United States” after “provide protection” to reflect the probable intent of Congress and the style used in the catchline of this section.
+2024—Pub. L. 118–159, § 522(a)(1), which directed striking out “within the united states” in section catchline, was executed by striking out “within the United States” after “provide protection” to reflect the probable intent of Congress and the style used in the catchline of this section.
 
-Subsecs. (a), (b)(1). Pub. L. 118–159, § 522(a)(2), (3), struck out “within the United States” after “personal security” in introductory provisions.
+Subsecs. (a), (b)(1). Pub. L. 118–159, § 522(a)(2), (3), struck out “within the United States” after “personal security” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 118–159, § 1701(a)(16), substituted “a serious” for “an serious”.
+Subsec. (b)(1)(A). Pub. L. 118–159, § 1701(a)(16), substituted “a serious” for “an serious”.
 
-Subsec. (b)(3). Pub. L. 118–159, § 522(b), inserted “or the Under Secretary of Defense for Intelligence and Security” after “only to the Deputy Secretary of Defense”.
+Subsec. (b)(3). Pub. L. 118–159, § 522(b), inserted “or the Under Secretary of Defense for Intelligence and Security” after “only to the Deputy Secretary of Defense”.
 
-Subsec. (b)(4). Pub. L. 118–159, § 522(c), inserted “whether” before “to provide”, and substituted “any authorized” for “the authorized” and “any arrangements for such” for “the arrangements for the”.
+Subsec. (b)(4). Pub. L. 118–159, § 522(c), inserted “whether” before “to provide”, and substituted “any authorized” for “the authorized” and “any arrangements for such” for “the arrangements for the”.
 
-Subsec. (b)(6)(A). Pub. L. 118–159, § 522(d), substituted “an initial determination made under paragraph (4), or a determination to deny the renewal of protection and security” for “each determination made under paragraph (4) to provide protection and security to an individual” and inserted at end “In the case of determination to continue protection and security, the Secretary shall make such submission not less than twice each year.”
+Subsec. (b)(6)(A). Pub. L. 118–159, § 522(d), substituted “an initial determination made under paragraph (4), or a determination to deny the renewal of protection and security” for “each determination made under paragraph (4) to provide protection and security to an individual” and inserted at end “In the case of determination to continue protection and security, the Secretary shall make such submission not less than twice each year.”
 
-Subsec. (b)(7). Pub. L. 118–159, § 522(e), added par. (7).
+Subsec. (b)(7). Pub. L. 118–159, § 522(e), added par. (7).
 
-2023—Subsec. (b)(1)(A). Pub. L. 118–31, § 529A(a)(1), substituted “serious and credible threat” for “imminent and credible threat”.
+2023—Subsec. (b)(1)(A). Pub. L. 118–31, § 529A(a)(1), substituted “serious and credible threat” for “imminent and credible threat”.
 
-Subsec. (b)(2)(B). Pub. L. 118–31, § 529A(a)(2), struck out “for a period of up to two years beginning on the date on which the official separates from the Department” before period at end.
+Subsec. (b)(2)(B). Pub. L. 118–31, § 529A(a)(2), struck out “for a period of up to two years beginning on the date on which the official separates from the Department” before period at end.
 
-Subsec. (b)(5). Pub. L. 118–31, § 529A(a)(3), amended par. (5) generally. Prior to amendment, par. (5) consisted of subpars. (A) to (C) relating to initial period of protection, subsequent period of protection, and requirement for compliance with regulations, respectively.
+Subsec. (b)(5). Pub. L. 118–31, § 529A(a)(3), amended par. (5) generally. Prior to amendment, par. (5) consisted of subpars. (A) to (C) relating to initial period of protection, subsequent period of protection, and requirement for compliance with regulations, respectively.
 
-Subsec. (b)(6)(A). Pub. L. 118–31, § 529A(a)(4), struck out “and of each determination under paragraph (5)(B) to extend such protection and security” after “an individual”.
+Subsec. (b)(6)(A). Pub. L. 118–31, § 529A(a)(4), struck out “and of each determination under paragraph (5)(B) to extend such protection and security” after “an individual”.
 
-Subsec. (e). Pub. L. 118–31, § 529A(b), added subsec. (e).
+Subsec. (e). Pub. L. 118–31, § 529A(b), added subsec. (e).
 
-2016—Subsec. (a). Pub. L. 114–328, § 952(c)(4)(A), substituted “armed forces” for “Armed Forces” in introductory provisions.
+2016—Subsec. (a). Pub. L. 114–328, § 952(c)(4)(A), substituted “armed forces” for “Armed Forces” in introductory provisions.
 
-Subsec. (a)(6). Pub. L. 114–328, § 952(c)(5)(A)(i), substituted “Members of the Joint Chiefs of Staff in addition to the Chairman and Vice Chairman” for “Chiefs of the Services”.
+Subsec. (a)(6). Pub. L. 114–328, § 952(c)(5)(A)(i), substituted “Members of the Joint Chiefs of Staff in addition to the Chairman and Vice Chairman” for “Chiefs of the Services”.
 
-Subsec. (a)(7), (8). Pub. L. 114–328, § 952(c)(5)(A)(ii), (iii), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “Chief of the National Guard Bureau.”.
+Subsec. (a)(7), (8). Pub. L. 114–328, § 952(c)(5)(A)(ii), (iii), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “Chief of the National Guard Bureau.”.
 
-Subsec. (b)(1). Pub. L. 114–328, § 952(c)(4)(A), (5)(B), in introductory provisions, substituted “armed forces” for “Armed Forces” and “through (7)” for “through (8)”.
+Subsec. (b)(1). Pub. L. 114–328, § 952(c)(4)(A), (5)(B), in introductory provisions, substituted “armed forces” for “Armed Forces” and “through (7)” for “through (8)”.
 
-Subsec. (b)(2)(A). Pub. L. 114–328, § 952(c)(6), struck out “, military member,” after “official” and inserted “or member of the armed forces” after “of the Department of Defense”.
+Subsec. (b)(2)(A). Pub. L. 114–328, § 952(c)(6), struck out “, military member,” after “official” and inserted “or member of the armed forces” after “of the Department of Defense”.
 
-Subsec. (c). Pub. L. 114–328, § 952(c)(4)(B), substituted “section, the terms ‘qualified members of the armed forces’ and” for “section:
+Subsec. (c). Pub. L. 114–328, § 952(c)(4)(B), substituted “section, the terms ‘qualified members of the armed forces’ and” for “section:
 
 “(1) Congressional defense committees.—The term ‘congressional defense committees’ means the Committee on Appropriations and the Committee on Armed Services of the Senate and the Committee on Appropriations and the Committee on Armed Services of the House of Representatives.
 
 “(2) Qualified members of the armed forces and qualified civilian employees of the department of defense.—The terms ‘qualified members of the Armed Forces’ and”; redesignated subpars. (A) to (E) of former par. (2) as pars. (1) to (5), respectively, of subsec. (c); and realigned margins.
 
-Subsec. (d)(1). Pub. L. 114–328, § 952(c)(4)(A), substituted “armed forces” for “Armed Forces”.
+Subsec. (d)(1). Pub. L. 114–328, § 952(c)(4)(A), substituted “armed forces” for “Armed Forces”.
 
-Subsec. (d)(2). Pub. L. 114–328, § 952(c)(4)(C), struck out “, United States Code” after “title 18”.
+Subsec. (d)(2). Pub. L. 114–328, § 952(c)(4)(C), struck out “, United States Code” after “title 18”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Temporary Extension of Authority To Provide Security for Former Department of Defense Officials**
 
-Pub. L. 117–263, div. A, title XI, § 1105, Dec. 23, 2022, 136 Stat. 2817, provided authority to provide security for former Department of Defense Officials from Dec. 23, 2022, to Jan. 1, 2024.
+Pub. L. 117–263, div. A, title XI, § 1105, Dec. 23, 2022, 136 Stat. 2817, provided authority to provide security for former Department of Defense Officials from Dec. 23, 2022, to Jan. 1, 2024.
 
-## § 715. Attending Physician to the Congress: grade
+## § 715. Attending Physician to the Congress: grade
 
 A general officer serving as Attending Physician to the Congress, while so serving, holds the grade of major general. A flag officer serving as Attending Physician to the Congress, while so serving, holds the grade of rear admiral (upper half).
 
-(Added Pub. L. 115–232, div. A, title V, § 508(a), Aug. 13, 2018, 132 Stat. 1749.)
+(Added Pub. L. 115–232, div. A, title V, § 508(a), Aug. 13, 2018, 132 Stat. 1749.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 715, act Aug. 10, 1956, ch. 1041, 70A Stat. 33, related to detail of members of regular and reserve components to assist those components prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(g)(2), 1691, Oct. 5, 1994, 108 Stat. 2996, 3026, effective Dec. 1, 1994. See section 12501 of this title.
+A prior section 715, act Aug. 10, 1956, ch. 1041, 70A Stat. 33, related to detail of members of regular and reserve components to assist those components prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(g)(2), 1691, Oct. 5, 1994, 108 Stat. 2996, 3026, effective Dec. 1, 1994. See section 12501 of this title.
 
-## § 716. Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service
+## § 716. Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service
 
 **(a)** Notwithstanding any other provision of law, the President, within authorized strengths and with the consent of the officer involved, may transfer any commissioned officer of a uniformed service from his uniformed service to, and appoint him in, another uniformed service. The Secretary of Defense, the Secretary of Homeland Security, the Secretary of Commerce, and the Secretary of Health and Human Services shall jointly establish, by regulations approved by the President, policies and procedures for such transfers and appointments.
 
 **(b)** An officer transferred under this section may not be assigned precedence or relative rank higher than that which he held on the day before the transfer.
 
-(Added Pub. L. 85–599, § 11(2), Aug. 6, 1958, 72 Stat. 521; amended Pub. L. 91–392, § 1, Sept. 1, 1970, 84 Stat. 834; Pub. L. 96–215, § 2(a), Mar. 25, 1980, 94 Stat. 123; Pub. L. 97–295, § 1(10), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–94, title X, § 1007(a)(1), Sept. 24, 1983, 97 Stat. 661; Pub. L. 99–348, title III, § 304(a)(1), July 1, 1986, 100 Stat. 703; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 85–599, § 11(2), Aug. 6, 1958, 72 Stat. 521; amended Pub. L. 91–392, § 1, Sept. 1, 1970, 84 Stat. 834; Pub. L. 96–215, § 2(a), Mar. 25, 1980, 94 Stat. 123; Pub. L. 97–295, § 1(10), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–94, title X, § 1007(a)(1), Sept. 24, 1983, 97 Stat. 661; Pub. L. 99–348, title III, § 304(a)(1), July 1, 1986, 100 Stat. 703; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 **Editorial Notes**
 
@@ -546,7 +546,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Functions of President under subsec. (a) of this section delegated to Secretary of Commerce by section 1(m) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under section 301 of Title 3, The President.
 
-## § 717. Members of the armed forces: participation in international sports
+## § 717. Members of the armed forces: participation in international sports
 
 **(a)** The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may permit members of the armed forces under his jurisdiction to train for, attend, and participate in any of the following sports competitions:
 
@@ -572,7 +572,7 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 
 **(d)** Appropriations available to the Department of Defense or to the Department of Homeland Security, as the case may be, may be used to carry out this section.
 
-(Added Pub. L. 85–861, § 1(17), Sept. 2, 1958, 72 Stat. 1442, § 716; renumbered § 717, Pub. L. 87–651, title I, § 103(a), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 89–348, § 1(12), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 89–718, § 7, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 511(22), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–525, title XV, § 1534, Oct. 19, 1984, 98 Stat. 2632; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, § 561, Jan. 6, 2006, 119 Stat. 3266; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(F), Jan. 1, 2021, 134 Stat. 3820.)
+(Added Pub. L. 85–861, § 1(17), Sept. 2, 1958, 72 Stat. 1442, § 716; renumbered § 717, Pub. L. 87–651, title I, § 103(a), Sept. 7, 1962, 76 Stat. 508; amended Pub. L. 89–348, § 1(12), Nov. 8, 1965, 79 Stat. 1311; Pub. L. 89–718, § 7, Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title V, § 511(22), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–525, title XV, § 1534, Oct. 19, 1984, 98 Stat. 2632; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, § 561, Jan. 6, 2006, 119 Stat. 3266; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(F), Jan. 1, 2021, 134 Stat. 3820.)
 
 **Historical and Revision Notes**
 
@@ -582,7 +582,7 @@ Functions of President under subsec. (a) of this section delegated to Secretary 
 |---|---|---|
 | 716 [now 717] | 22:1981. 22:1982. 22:1983. | Mar. 14, 1955, ch. 11 (less last 2 pars.), 69 Stat. 11. |
 
-In subsection (a), the first 27 words are substituted for section 1 of the source statute. The reference to the Second Pan-American Games, the Seventh Olympic Winter Games, and the Games of the XVI Olympiad are omitted as covered by clause (1) of the revised subsection. The words “subject to the limitation contained in subsection (b) herein” are omitted as covered by revised subsection (b). The words “any other” are substituted for the words “other \* \* \* not specified in (1) above”.
+In subsection (a), the first 27 words are substituted for section 1 of the source statute. The reference to the Second Pan-American Games, the Seventh Olympic Winter Games, and the Games of the XVI Olympiad are omitted as covered by clause (1) of the revised subsection. The words “subject to the limitation contained in subsection (b) herein” are omitted as covered by revised subsection (b). The words “any other” are substituted for the words “other \* \* \* not specified in (1) above”.
 
 In subsection (b), the word “entry” is substituted for the word “commitment” for clarity. The words “or the Secretary of the Treasury, as the case may be” are inserted since, under subsection (a), the Secretary of the Treasury has the prescribed authority with respect to members of the Coast Guard when it is not operating as a service in the Navy.
 
@@ -614,25 +614,25 @@ for “participate in—
 
 2002—Subsecs. (a), (b), (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-1984—Subsec. (a)(1). Pub. L. 98–525, § 1534(1), included qualifying events and preparatory competition.
+1984—Subsec. (a)(1). Pub. L. 98–525, § 1534(1), included qualifying events and preparatory competition.
 
-Subsec. (a)(2). Pub. L. 98–525, § 1534(2), included qualifying events and preparatory competition.
+Subsec. (a)(2). Pub. L. 98–525, § 1534(2), included qualifying events and preparatory competition.
 
-Subsec. (b). Pub. L. 98–525, § 1534(3), struck out reference to subsec. (e).
+Subsec. (b). Pub. L. 98–525, § 1534(3), struck out reference to subsec. (e).
 
-Subsec. (c). Pub. L. 98–525, § 1534(4), (6), designated existing provisions as par. (1), substituted “$3,000,000” for “$800,000” and “October 1, 1980” for “March 14, 1955”, redesignated subsec. (d) as par. (2), and substituted “October 1, 1980” for “March 14, 1955”.
+Subsec. (c). Pub. L. 98–525, § 1534(4), (6), designated existing provisions as par. (1), substituted “$3,000,000” for “$800,000” and “October 1, 1980” for “March 14, 1955”, redesignated subsec. (d) as par. (2), and substituted “October 1, 1980” for “March 14, 1955”.
 
-Subsecs. (d), (e). Pub. L. 98–525, § 1534(7), redesignated subsec. (e) as (d). Former subsec. (d) redesignated par. (2) of subsec. (c).
+Subsecs. (d), (e). Pub. L. 98–525, § 1534(7), redesignated subsec. (e) as (d). Former subsec. (d) redesignated par. (2) of subsec. (c).
 
-1980—Subsec. (a). Pub. L. 96–513, § 511(22)(A), substituted “Transportation” for “the Treasury”.
+1980—Subsec. (a). Pub. L. 96–513, § 511(22)(A), substituted “Transportation” for “the Treasury”.
 
-Subsec. (b). Pub. L. 96–513, § 511(22), redesignated subsec. (c) as (b) and substituted reference to subsec. (c) for reference to subsec. (f), and “Transportation” for “the Treasury”.
+Subsec. (b). Pub. L. 96–513, § 511(22), redesignated subsec. (c) as (b) and substituted reference to subsec. (c) for reference to subsec. (f), and “Transportation” for “the Treasury”.
 
-Subsecs. (c), (d). Pub. L. 96–513, § 511(22)(C), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
+Subsecs. (c), (d). Pub. L. 96–513, § 511(22)(C), redesignated subsecs. (d) and (e) as (c) and (d), respectively. Former subsec. (c) redesignated (b).
 
-Subsecs. (e), (f). Pub. L. 96–513, § 511(22) (A), (C), redesignated subsec. (f) as (e) and substituted “Transportation” for “the Treasury”. Former subsection (e) redesignated (d).
+Subsecs. (e), (f). Pub. L. 96–513, § 511(22) (A), (C), redesignated subsec. (f) as (e) and substituted “Transportation” for “the Treasury”. Former subsection (e) redesignated (d).
 
-1966—Subsec. (b). Pub. L. 89–718 repealed subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury to report to the Committees on Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition. See also Pub. L. 89–348, § 1(12), Nov. 8, 1965, 79 Stat. 1311, which earlier repealed the reporting requirement of subsec. (b).
+1966—Subsec. (b). Pub. L. 89–718 repealed subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury to report to the Committees on Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition. See also Pub. L. 89–348, § 1(12), Nov. 8, 1965, 79 Stat. 1311, which earlier repealed the reporting requirement of subsec. (b).
 
 1965—Subsec. (b). Pub. L. 89–348 repealed provision of subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury, as the case may be, to report to the Committees on the Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition.
 
@@ -646,15 +646,15 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## [§ 718. Repealed. Pub. L. 99–433, title I, § 110(a)(1), Oct. 1, 1986, 100 Stat. 1001]
+## [§ 718. Repealed. Pub. L. 99–433, title I, § 110(a)(1), Oct. 1, 1986, 100 Stat. 1001]
 
-Section, added Pub. L. 87–651, title II, § 205(a), Sept. 7, 1962, 76 Stat. 519, provided that officers of the armed forces could be detailed for duty as assistants or personal aides to the Secretary of Defense.
+Section, added Pub. L. 87–651, title II, § 205(a), Sept. 7, 1962, 76 Stat. 519, provided that officers of the armed forces could be detailed for duty as assistants or personal aides to the Secretary of Defense.
 
-## § 719. Department of Commerce: assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration
+## § 719. Department of Commerce: assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration
 
 Upon the request of the Secretary of Commerce, the Secretary of a military department may assign or detail members of the armed forces under his jurisdiction for duty in the National Oceanic and Atmospheric Administration, Department of Commerce, with reimbursement from the Department of Commerce. Notwithstanding any other provision of law, a member so assigned or detailed may exercise the functions, and assume the title, of any position in that Administration without affecting his status as a member of an armed force, but he is not entitled to the compensation fixed for that position.
 
-(Added Pub. L. 89–683, § 1(1), Oct. 15, 1966, 80 Stat. 960; amended Pub. L. 96–513, title I, § 511(23)(A), (B), Dec. 12, 1980, 94 Stat. 2921.)
+(Added Pub. L. 89–683, § 1(1), Oct. 15, 1966, 80 Stat. 960; amended Pub. L. 96–513, title I, § 511(23)(A), (B), Dec. 12, 1980, 94 Stat. 2921.)
 
 **Editorial Notes**
 
@@ -668,19 +668,19 @@ Upon the request of the Secretary of Commerce, the Secretary of a military depar
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-## [§ 720. Repealed. Pub. L. 114–328, div. A, title V, § 502(g)(1), Dec. 23, 2016, 130 Stat. 2103]
+## [§ 720. Repealed. Pub. L. 114–328, div. A, title V, § 502(g)(1), Dec. 23, 2016, 130 Stat. 2103]
 
-Section, added Pub. L. 96–513, title V, § 501(9)(A), Dec. 12, 1980, 94 Stat. 2907, related to appointment of Chief of Staff to President.
+Section, added Pub. L. 96–513, title V, § 501(9)(A), Dec. 12, 1980, 94 Stat. 2907, related to appointment of Chief of Staff to President.
 
-## [§ 721. Repealed. Pub. L. 111–84, div. A, title V, § 502(i)(1), Oct. 28, 2009, 123 Stat. 2276]
+## [§ 721. Repealed. Pub. L. 111–84, div. A, title V, § 502(i)(1), Oct. 28, 2009, 123 Stat. 2276]
 
-Section, added Pub. L. 105–85, div. A, title V, § 501(a), Nov. 18, 1997, 111 Stat. 1723; amended Pub. L. 107–314, div. A, title X, § 1041(a)(4), Dec. 2, 2002, 116 Stat. 2645, related to limitation on appointments, assignments, details, and duties outside a general or flag officer’s own service.
+Section, added Pub. L. 105–85, div. A, title V, § 501(a), Nov. 18, 1997, 111 Stat. 1723; amended Pub. L. 107–314, div. A, title X, § 1041(a)(4), Dec. 2, 2002, 116 Stat. 2645, related to limitation on appointments, assignments, details, and duties outside a general or flag officer’s own service.
 
-## [§ 722. Repealed. Pub. L. 114–328, div. A, title V, § 502(h)(1), Dec. 23, 2016, 130 Stat. 2103]
+## [§ 722. Repealed. Pub. L. 114–328, div. A, title V, § 502(h)(1), Dec. 23, 2016, 130 Stat. 2103]
 
-Section, added Pub. L. 109–364, div. A, title V, § 507(a)(1)(A), Oct. 17, 2006, 120 Stat. 2180, related to grade of Attending Physician to the Congress.
+Section, added Pub. L. 109–364, div. A, title V, § 507(a)(1)(A), Oct. 17, 2006, 120 Stat. 2180, related to grade of Attending Physician to the Congress.
 
-## § 723. Support of civil authorities: requirement for use of members of the Armed Forces and Federal law enforcement personnel
+## § 723. Support of civil authorities: requirement for use of members of the Armed Forces and Federal law enforcement personnel
 
 **(a) Response to Civil Disturbances.—** Whenever a member of the armed forces (including the National Guard) or Federal law enforcement personnel provide support to Federal authorities to respond to a civil disturbance, each individual employed in the capacity of providing such support shall visibly display—
 
@@ -696,16 +696,16 @@ Section, added Pub. L. 109–364, div. A, title V, § 507(a)(1)(A), Oct. 17, 2
 
 **(2)** are engaged in undercover operations in the regular performance of their official duties.
 
-(Added Pub. L. 116–283, div. A, title X, § 1064(a), Jan. 1, 2021, 134 Stat. 3860; amended Pub. L. 119–60, div. A, title X, § 1043(a)(1), (b)(1), Dec. 18, 2025, 139 Stat. 1037.)
+(Added Pub. L. 116–283, div. A, title X, § 1064(a), Jan. 1, 2021, 134 Stat. 3860; amended Pub. L. 119–60, div. A, title X, § 1043(a)(1), (b)(1), Dec. 18, 2025, 139 Stat. 1037.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 1043(b)(1), substituted “civil authorities” for “Federal authorities in response to civil disturbances” in section catchline.
+2025—Pub. L. 119–60, § 1043(b)(1), substituted “civil authorities” for “Federal authorities in response to civil disturbances” in section catchline.
 
-Subsec. (a). Pub. L. 119–60, § 1043(a)(1), substituted “Response to Civil Disturbances” for “Requirement” in heading.
+Subsec. (a). Pub. L. 119–60, § 1043(a)(1), substituted “Response to Civil Disturbances” for “Requirement” in heading.
 
-Subsec. (b). Pub. L. 119–60, § 1043(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 119–60, § 1043(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 119–60, § 1043(a)(2), (4), redesignated subsec. (b) as (c) and, in introductory provisions, substituted “requirements under subsections (a) and (b)” for “requirement under subsection (a)” and “any such subsection” for “such subsection”.
+Subsec. (c). Pub. L. 119–60, § 1043(a)(2), (4), redesignated subsec. (b) as (c) and, in introductory provisions, substituted “requirements under subsections (a) and (b)” for “requirement under subsection (a)” and “any such subsection” for “such subsection”.

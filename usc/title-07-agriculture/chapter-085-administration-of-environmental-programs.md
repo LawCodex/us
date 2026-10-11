@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 85—ADMINISTRATION OF ENVIRONMENTAL PROGRAMS
 
-## § 5401. Establishment of Agricultural Council on Environmental Quality
+## § 5401. Establishment of Agricultural Council on Environmental Quality
 
 **(a) Establishment**
 
@@ -25,9 +25,9 @@ The Secretary shall establish an Agricultural Council on Environmental Quality i
 
 Membership of the Council shall consist of the Secretary, the Deputy Secretary, the Assistant Secretary for Natural Resources and Environment, the Assistant Secretary for Science and Education, other under and assistant secretaries as may be designated by the Secretary, and the Director of the Office of Agricultural Environmental Quality, established in section 5402 of this title, who shall serve as the Executive Director of the Council. The Secretary shall designate a member of the Council, other than the Executive Director, as chair of the Council.
 
-(Pub. L. 101–624, title XIV, § 1471, Nov. 28, 1990, 104 Stat. 3619.)
+(Pub. L. 101–624, title XIV, § 1471, Nov. 28, 1990, 104 Stat. 3619.)
 
-## § 5402. Office of Agricultural Environmental Quality
+## § 5402. Office of Agricultural Environmental Quality
 
 **(a) Establishment**
 
@@ -71,9 +71,9 @@ The Director shall assist the Council in developing a departmental and agency-sp
 
 **(F)** providing such staff as may be necessary to support the activities of the Council.
 
-(Pub. L. 101–624, title XIV, § 1472, Nov. 28, 1990, 104 Stat. 3619.)
+(Pub. L. 101–624, title XIV, § 1472, Nov. 28, 1990, 104 Stat. 3619.)
 
-## § 5403. Environmental Quality Policy Statement
+## § 5403. Environmental Quality Policy Statement
 
 **(a) Environmental Quality Policy Statement, implementation plan, and annual report**
 
@@ -109,15 +109,15 @@ The Director, subject to the approval of the Council, shall prepare a plan to im
 
 There are hereby authorized to be appropriated annually not to exceed $2,000,000 to carry out this chapter.
 
-(Pub. L. 101–624, title XIV, § 1473, Nov. 28, 1990, 104 Stat. 3620; Pub. L. 102–237, title II, § 201(d), Dec. 13, 1991, 105 Stat. 1847.)
+(Pub. L. 101–624, title XIV, § 1473, Nov. 28, 1990, 104 Stat. 3620; Pub. L. 102–237, title II, § 201(d), Dec. 13, 1991, 105 Stat. 1847.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (a)(1). Pub. L. 102–237, § 201(d)(1), substituted “paragraph (2)” for “subparagraph (B)”.
+1991—Subsec. (a)(1). Pub. L. 102–237, § 201(d)(1), substituted “paragraph (2)” for “subparagraph (B)”.
 
-Subsec. (a)(2). Pub. L. 102–237, § 201(d)(2), substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
+Subsec. (a)(2). Pub. L. 102–237, § 201(d)(2), substituted “paragraph (1)” for “subparagraph (A)” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -129,7 +129,7 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to submittal of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 49 of House Document No. 103–7.
 
-## § 5404. Good Neighbor Environmental Board
+## § 5404. Good Neighbor Environmental Board
 
 **(a) Establishment**
 
@@ -161,13 +161,13 @@ The purpose of the Board shall be to advise the President and the Congress on th
 
 **(B)** allow each member of the Board to have 14 days within which to prepare and submit supplemental views with respect to the recommendations of the Board for inclusion in such report.
 
-(Pub. L. 102–532, § 6, Oct. 27, 1992, 106 Stat. 3513.)
+(Pub. L. 102–532, § 6, Oct. 27, 1992, 106 Stat. 3513.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was enacted as part of the Enterprise for the Americas Initiative Act of 1992, and not as part of subtitle F (§ 1471 et seq.) of title XIV of Pub. L. 101–624 which comprises this chapter.
+Section was enacted as part of the Enterprise for the Americas Initiative Act of 1992, and not as part of subtitle F (§ 1471 et seq.) of title XIV of Pub. L. 101–624 which comprises this chapter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -181,7 +181,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 Authority of President under this section delegated to Administrator of Environmental Protection Agency by section 10 of Ex. Ord. No. 12916, May 13, 1994, 59 F.R. 25780, set out as a note under section 3473 of Title 19, Customs Duties.
 
-## § 5405. Agricultural air quality research oversight
+## § 5405. Agricultural air quality research oversight
 
 **(a) Findings** Congress finds that—
 
@@ -221,10 +221,10 @@ The task force shall be comprised of employees of the Department of Agriculture,
 
 The task force shall advise the Secretary with respect to the role of the Secretary for providing oversight and coordination related to agricultural air quality.
 
-(Pub. L. 104–127, title III, § 391, Apr. 4, 1996, 110 Stat. 1025.)
+(Pub. L. 104–127, title III, § 391, Apr. 4, 1996, 110 Stat. 1025.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was enacted as part of the Federal Agriculture Improvement and Reform Act of 1996, and not as part of subtitle F (§ 1471 et seq.) of title XIV of Pub. L. 101–624 which comprises this chapter.
+Section was enacted as part of the Federal Agriculture Improvement and Reform Act of 1996, and not as part of subtitle F (§ 1471 et seq.) of title XIV of Pub. L. 101–624 which comprises this chapter.

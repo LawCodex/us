@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Bridge Permits**
 
-Pub. L. 112–213, title VII, § 712(a), Dec. 20, 2012, 126 Stat. 1582, provided that:
+Pub. L. 112–213, title VII, § 712(a), Dec. 20, 2012, 126 Stat. 1582, provided that:
 
 > **“(a) In General.—** For the purposes of reviewing a permit application pursuant to section 9 of the Act of March 3, 1899, popularly known as the Rivers and Harbors Appropriation Act of 1899 (33 U.S.C. 401), the Act of March 23, 1906, popularly known as the Bridge Act of 1906 (33 U.S.C. 491 et seq.), the Act of June 21, 1940, popularly known as the Truman-Hobbs Act (33 U.S.C. 511 et seq.), or the General Bridge Act of 1946 (33 U.S.C. 525 et seq.), the Secretary of the department in which the Coast Guard is operating may—
 
@@ -29,11 +29,11 @@ Pub. L. 112–213, title VII, § 712(a), Dec. 20, 2012, 126 Stat. 1582, provid
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 491. Approval of and deviation from plans; exemptions
+### § 491. Approval of and deviation from plans; exemptions
 
 When, after March 23, 1906, authority is granted by Congress to any persons to construct and maintain a bridge across or over any of the navigable waters of the United States, such bridge shall not be built or commenced until the plans and specifications for its construction, together with such drawings of the proposed construction and such map of the proposed location as may be required for a full understanding of the subject, have been submitted to the Secretary of the department in which the Coast Guard is operating for the Secretary’s approval, nor until the Secretary shall have approved such plans and specifications and the location of such bridge and accessory works; and when the plans for any bridge to be constructed under the provisions of sections 491 to 494 and 495 to 498 of this title, have been approved by the Secretary it shall not be lawful to deviate from such plans, either before or after completion of the structure, unless the modification of such plans has previously been submitted to and received the approval of the Secretary. This section shall not apply to any bridge over waters which are not subject to the ebb and flow of the tide and which are not used and are not susceptible to use in their natural condition or by reasonable improvement as a means to transport interstate or foreign commerce.
 
-(Mar. 23, 1906, ch. 1130, § 1, 34 Stat. 84; Pub. L. 97–322, title I, § 107(c), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 98–557, § 17(g)(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 114–120, title III, § 306(b)(2)(A), Feb. 8, 2016, 130 Stat. 55.)
+(Mar. 23, 1906, ch. 1130, § 1, 34 Stat. 84; Pub. L. 97–322, title I, § 107(c), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 98–557, § 17(g)(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 114–120, title III, § 306(b)(2)(A), Feb. 8, 2016, 130 Stat. 55.)
 
 **Editorial Notes**
 
@@ -55,19 +55,19 @@ Sections 491 to 494 and 495 to 498 of this title are popularly known as the “B
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(B), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(B) of Pub. L. 89–670, and repealed section 6(g)(6)(B).
+Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(B), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(B) of Pub. L. 89–670, and repealed section 6(g)(6)(B).
 
-### § 492. Bridge as post route; limitation as to charges against Government; telegraph and telephone lines
+### § 492. Bridge as post route; limitation as to charges against Government; telegraph and telephone lines
 
 Any bridge built in accordance with the provisions of sections 491 to 494 and 495 to 498 of this title, shall be a lawful structure and shall be recognized and known as a post route, upon which no higher charge shall be made for the transmission over the same of the mails, the troops, and the munitions of war of the United States than the rate per mile paid for the transportation over any railroad, street railway, or public highway leading to said bridge; and the United States shall have the right to construct, maintain, and repair, without any charge therefor, telegraph and telephone lines across and upon said bridge and its approaches; and equal privileges in the use of said bridge and its approaches shall be granted to all telegraph and telephone companies.
 
-(Mar. 23, 1906, ch. 1130, § 2, 34 Stat. 85.)
+(Mar. 23, 1906, ch. 1130, § 2, 34 Stat. 85.)
 
-### § 493. Use of railroad bridges by other railroad companies
+### § 493. Use of railroad bridges by other railroad companies
 
 All railroad companies desiring the use of any railroad bridge built in accordance with the provisions of sections 491 to 494 and 495 to 498 of this title, shall be entitled to equal rights and privileges relative to the passage of railway trains or cars over the same and over the approaches thereto upon payment of a reasonable compensation for such use; and in case of any disagreement between the parties in regard to the terms of such use or the sums to be paid all matters at issue shall be determined by the Secretary of Transportation upon hearing the allegations and proofs submitted to him.
 
-(Mar. 23, 1906, ch. 1130, § 3, 34 Stat. 85; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440.)
+(Mar. 23, 1906, ch. 1130, § 3, 34 Stat. 85; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440.)
 
 **Editorial Notes**
 
@@ -79,29 +79,29 @@ All railroad companies desiring the use of any railroad bridge built in accordan
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(B), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(B) of Pub. L. 89–670, and repealed section 6(g)(6)(B).
+Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(B), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(B) of Pub. L. 89–670, and repealed section 6(g)(6)(B).
 
-### § 494. Obstruction of navigation; alterations and removals; lights and signals; draws
+### § 494. Obstruction of navigation; alterations and removals; lights and signals; draws
 
 No bridge erected or maintained under the provisions of sections 491 to 494 and 495 to 498 of this title, shall at any time unreasonably obstruct the free navigation of the waters over which it is constructed, and if any bridge erected in accordance with the provisions of said sections, shall, in the opinion of the Secretary of the department in which the Coast Guard is operating at any time unreasonably obstruct such navigation, either on account of insufficient height, width of span, or otherwise, or if there be difficulty in passing the draw opening or the drawspan of such bridge by rafts, steamboats, or other water craft, it shall be the duty of the Secretary of the department in which the Coast Guard is operating after giving the parties interested reasonable opportunity to be heard, to notify the persons owning or controlling such bridge to so alter the same as to render navigation through or under it reasonably free, easy, and unobstructed, stating in such notice the changes required to be made, and prescribing in each case a reasonable time in which to make such changes, and if at the end of the time so specified the changes so required have not been made, the persons owning or controlling such bridge shall be deemed guilty of a violation of said sections; and all such alterations shall be made and all such obstructions shall be removed at the expense of the persons owning or operating said bridge. The persons owning or operating any such bridge shall maintain, at their own expense, such lights and other signals thereon as the Commandant of the Coast Guard shall prescribe. If the bridge shall be constructed with a draw, then the draw shall be opened promptly by the persons owning or operating such bridge upon reasonable signal for the passage of boats and other water craft.
 
-(Mar. 23, 1906, ch. 1130, § 4, 34 Stat. 85; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 100–17, title I, § 135(a), Apr. 2, 1987, 101 Stat. 173; Pub. L. 109–241, title IX, § 902(k), July 11, 2006, 120 Stat. 568; Pub. L. 111–281, title IX, § 903(a)(9), Oct. 15, 2010, 124 Stat. 3010; Pub. L. 114–120, title III, § 306(b)(2)(B), Feb. 8, 2016, 130 Stat. 55.)
+(Mar. 23, 1906, ch. 1130, § 4, 34 Stat. 85; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 100–17, title I, § 135(a), Apr. 2, 1987, 101 Stat. 173; Pub. L. 109–241, title IX, § 902(k), July 11, 2006, 120 Stat. 568; Pub. L. 111–281, title IX, § 903(a)(9), Oct. 15, 2010, 124 Stat. 3010; Pub. L. 114–120, title III, § 306(b)(2)(B), Feb. 8, 2016, 130 Stat. 55.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Act July 5, 1884, ch. 229, § 8, 23 Stat. 148, relating to authority of Secretary of War to require owners of bridges which obstruct navigation to relieve the situation or be penalized, was probably omitted from the Code as superseded by this section and section 495 of this title, which by section 498b of this title were made applicable to bridges authorized prior to March 23, 1906.
+Act July 5, 1884, ch. 229, § 8, 23 Stat. 148, relating to authority of Secretary of War to require owners of bridges which obstruct navigation to relieve the situation or be penalized, was probably omitted from the Code as superseded by this section and section 495 of this title, which by section 498b of this title were made applicable to bridges authorized prior to March 23, 1906.
 
-Section would seem to supersede a provision of act Aug. 7, 1882, ch. 433, § 1, 22 Stat. 309, which read as follows: “That all parties owning, occupying, or operating bridges over any navigable river shall maintain at their own expense, from sunset to sunrise, throughout the year, such lights on their bridges as may be required by the Light-House Board for the security of navigation: and in addition thereto all persons owning, occupying, or operating any bridge over any navigable river shall, in any event, maintain all lights on their bridge that may be necessary for the security of navigation.”
+Section would seem to supersede a provision of act Aug. 7, 1882, ch. 433, § 1, 22 Stat. 309, which read as follows: “That all parties owning, occupying, or operating bridges over any navigable river shall maintain at their own expense, from sunset to sunrise, throughout the year, such lights on their bridges as may be required by the Light-House Board for the security of navigation: and in addition thereto all persons owning, occupying, or operating any bridge over any navigable river shall, in any event, maintain all lights on their bridge that may be necessary for the security of navigation.”
 
 **Amendments**
 
 2016—Pub. L. 114–120 substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary of Homeland Security” in two places.
 
-2010—Pub. L. 111–281 amended directory language of Pub. L. 109–241, § 902(k). See 2006 Amendment note below.
+2010—Pub. L. 111–281 amended directory language of Pub. L. 109–241, § 902(k). See 2006 Amendment note below.
 
-2006—Pub. L. 109–241, § 902(k), as amended by Pub. L. 111–281, substituted “Secretary of Homeland Security” for “Secretary of Transportation” in two places.
+2006—Pub. L. 109–241, § 902(k), as amended by Pub. L. 111–281, substituted “Secretary of Homeland Security” for “Secretary of Transportation” in two places.
 
 1987—Pub. L. 100–17 struck out last sentence relating to tolls.
 
@@ -111,7 +111,7 @@ Section would seem to supersede a provision of act Aug. 7, 1882, ch. 433, § 1
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–281, title IX, § 903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(9) is effective with enactment of Pub. L. 109–241.
+Pub. L. 111–281, title IX, § 903(a), Oct. 15, 2010, 124 Stat. 3010, provided that the amendment by section 903(a)(9) is effective with enactment of Pub. L. 109–241.
 
 **Connecticut River Bridges**
 
@@ -123,7 +123,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] relating to reasonableness of tolls and to location and clearances of bridges and causeways in navigable waters of United States under this section transferred to and vested in Secretary of Transportation by section 6(g)(4)(A), (6)(B) of Pub. L. 89–670. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(4)(A), (6)(B) of Pub. L. 89–670, and repealed section 6(g)(4)(A), (6)(B).
 
-Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when the President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
+Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when the President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 
 Secretary of Commerce and Labor redesignated Secretary of Labor by act Mar. 4, 1913, which enacted Department of Labor.
 
@@ -131,15 +131,15 @@ Secretary of Commerce and Labor redesignated Secretary of Labor by act Mar. 4, 1
 
 **Transfer of Functions**
 
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
+For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Coast Guard, and Commandant of Coast Guard, excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
 
-“Commandant of the Coast Guard” substituted in text for “Secretary of Commerce” on authority of Reorg. Plan No. 3 of 1946, §§ 101 to 104, set out in the Appendix to Title 5, Government Organization and Employees.
+“Commandant of the Coast Guard” substituted in text for “Secretary of Commerce” on authority of Reorg. Plan No. 3 of 1946, §§ 101 to 104, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 494a. Study of bridges over navigable waters
+### § 494a. Study of bridges over navigable waters
 
 The Commandant of the Coast Guard shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a comprehensive study on the construction or alteration of any bridge, drawbridge, or causeway over the navigable waters of the United States with a channel depth of 25 feet or greater that may impede or obstruct future navigation to or from port facilities and for which a permit under the Act of March 23, 1906 (33 U.S.C. 491 et seq.), popularly known as the Bridge Act of 1906, was requested during the period beginning on January 1, 2006, and ending on August 3, 2011.
 
-(Pub. L. 111–281, title IX, § 905, Oct. 15, 2010, 124 Stat. 3012; Pub. L. 112–213, title VII, § 702(a), Dec. 20, 2012, 126 Stat. 1580.)
+(Pub. L. 111–281, title IX, § 905, Oct. 15, 2010, 124 Stat. 3012; Pub. L. 112–213, title VII, § 702(a), Dec. 20, 2012, 126 Stat. 1580.)
 
 **Editorial Notes**
 
@@ -151,7 +151,7 @@ Act of March 23, 1906 (33 U.S.C. 491 et seq.), popularly known as the Bridge Act
 
 2012—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: “The Commandant of the Coast Guard shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a comprehensive study on the proposed construction or alteration of any bridge, drawbridge, or causeway over navigable waters with a channel depth of 25 feet or greater of the United States that may impede or obstruct future navigation to or from port facilities.”
 
-### § 495. Violations of orders respecting bridges and accessory works
+### § 495. Violations of orders respecting bridges and accessory works
 
 **(a) Criminal penalties for violation; misdemeanor; fine; new offenses; jurisdiction: suits for recovery of removal expenses, enforcement of removal, and obstruction-to-navigation causes or questions**
 
@@ -161,7 +161,7 @@ Any persons who shall willfully fail or refuse to comply with the lawful order o
 
 Whoever violates any provision of sections 491 to 494 and 495 to 498 of this title, or any order issued under sections 491 to 494 and 495 to 498 of this title, shall be liable to a civil penalty of not more than $25,000 for a violation occurring in 2008 and any year thereafter. Each day a violation continues shall be deemed a separate offense. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of the department in which the Coast Guard is operating may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
 
-(Mar. 23, 1906, ch. 1130, § 5, 34 Stat. 85; Mar. 3, 1911, ch. 231, §§ 289, 291, 36 Stat. 1167; Pub. L. 97–322, title I, § 108(c), Oct. 15, 1982, 96 Stat. 1584; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 108–293, title VI, § 601(a), Aug. 9, 2004, 118 Stat. 1050; Pub. L. 114–120, title III, § 306(b)(2)(C), Feb. 8, 2016, 130 Stat. 55; Pub. L. 115–232, div. C, title XXXV, § 3548(b), Aug. 13, 2018, 132 Stat. 2328.)
+(Mar. 23, 1906, ch. 1130, § 5, 34 Stat. 85; Mar. 3, 1911, ch. 231, §§ 289, 291, 36 Stat. 1167; Pub. L. 97–322, title I, § 108(c), Oct. 15, 1982, 96 Stat. 1584; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 108–293, title VI, § 601(a), Aug. 9, 2004, 118 Stat. 1050; Pub. L. 114–120, title III, § 306(b)(2)(C), Feb. 8, 2016, 130 Stat. 55; Pub. L. 115–232, div. C, title XXXV, § 3548(b), Aug. 13, 2018, 132 Stat. 2328.)
 
 **Editorial Notes**
 
@@ -179,43 +179,43 @@ The words “district court” were substituted for “circuit court,” upon in
 
 1983—Subsec. (a). Pub. L. 97–449 substituted “Secretary of Transportation” for “Secretary of War” wherever appearing. See Transfer of Functions note below.
 
-1982—Subsec. (a). Pub. L. 97–322, § 108(c)(1)–(3), designated existing provisions as subsec. (a), provided for punishment of persons who shall “willfully” fail to comply with lawful orders, and struck out “shall be deemed guilty of a violation of said sections, and any persons who shall be guilty of a violation of said sections” before “shall be deemed guilty of a misdemeanor”.
+1982—Subsec. (a). Pub. L. 97–322, § 108(c)(1)–(3), designated existing provisions as subsec. (a), provided for punishment of persons who shall “willfully” fail to comply with lawful orders, and struck out “shall be deemed guilty of a violation of said sections, and any persons who shall be guilty of a violation of said sections” before “shall be deemed guilty of a misdemeanor”.
 
-Subsec. (b). Pub. L. 97–322, § 108(c)(4), added subsec. (b).
+Subsec. (b). Pub. L. 97–322, § 108(c)(4), added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department the Army [formerly War] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(B), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(B) of Pub. L. 89–670, and repealed section 6(g)(6)(B).
+Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department the Army [formerly War] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(B), Oct. 15, 1966, 80 Stat. 941. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(B) of Pub. L. 89–670, and repealed section 6(g)(6)(B).
 
-### § 496. Time for commencement and completion of bridge
+### § 496. Time for commencement and completion of bridge
 
 Whenever Congress shall after March 23, 1906, by law authorize the construction of any bridge over or across any of the navigable waters of the United States, and no time for the commencement and completion of such bridge is named in said Act, the authority thereby granted shall cease and be null and void unless the actual construction of the bridge authorized in such Act be commenced within one year and completed within three years from the date of the passage of such Act.
 
-(Mar. 23, 1906, ch. 1130, § 6, 34 Stat. 86.)
+(Mar. 23, 1906, ch. 1130, § 6, 34 Stat. 86.)
 
-### § 497. “Persons” defined
+### § 497. “Persons” defined
 
 The word “persons” as used in sections 491 to 494 and 495 to 498 of this title, shall be construed to import both the singular and the plural, as the case demands, and shall include municipalities, quasi-municipal corporations, corporations, companies, and associations.
 
-(Mar. 23, 1906, ch. 1130, § 7, 34 Stat. 86.)
+(Mar. 23, 1906, ch. 1130, § 7, 34 Stat. 86.)
 
-### § 498. Reservation of right to alter or repeal
+### § 498. Reservation of right to alter or repeal
 
 The right to alter, amend, or repeal sections 491 to 494 and 495 to 498 of this title, is expressly reserved as to any and all bridges which may be built in accordance with the provisions of said sections, and the United States shall incur no liability for the alteration, amendment, or repeal thereof to the owner or owners or any other persons interested in any bridge which shall have been constructed in accordance with its provisions.
 
-(Mar. 23, 1906, ch. 1130, § 8, 34 Stat. 86.)
+(Mar. 23, 1906, ch. 1130, § 8, 34 Stat. 86.)
 
-### § 498a. Repealed. Pub. L. 100–17, title I, § 135(b), Apr. 2, 1987, 101 Stat. 174
+### § 498a. Repealed. Pub. L. 100–17, title I, § 135(b), Apr. 2, 1987, 101 Stat. 174
 
-Section, act June 10, 1930, ch. 441, § 17, 46 Stat. 552, provided that, in the case of bridges authorized prior to June 10, 1930, by Acts of Congress, where Congress has specifically reserved the right to regulate tolls, such bridges, with respect to regulation of all tolls, be subject to sections 491 to 494 and 495 to 498 of this title.
+Section, act June 10, 1930, ch. 441, § 17, 46 Stat. 552, provided that, in the case of bridges authorized prior to June 10, 1930, by Acts of Congress, where Congress has specifically reserved the right to regulate tolls, such bridges, with respect to regulation of all tolls, be subject to sections 491 to 494 and 495 to 498 of this title.
 
-### § 498b. Repealed. Pub. L. 100–17, title I, § 135(c), Apr. 2, 1987, 101 Stat. 174
+### § 498b. Repealed. Pub. L. 100–17, title I, § 135(c), Apr. 2, 1987, 101 Stat. 174
 
-Section, act June 27, 1930, ch. 640, § 1, 46 Stat. 821, provided that, in case of any bridge authorized prior to Mar. 23, 1906, by Act of Congress, where Congress has specifically reserved the right to alter, amend, or repeal such Act, regulation of all tolls be subject to sections 491 to 494 and 495 to 498 of this title.
+Section, act June 27, 1930, ch. 640, § 1, 46 Stat. 821, provided that, in case of any bridge authorized prior to Mar. 23, 1906, by Act of Congress, where Congress has specifically reserved the right to alter, amend, or repeal such Act, regulation of all tolls be subject to sections 491 to 494 and 495 to 498 of this title.
 
-### § 499. Regulations for drawbridges
+### § 499. Regulations for drawbridges
 
 **(a) Criminal penalties for violations; enforcement; rules and regulations**
 
@@ -317,7 +317,7 @@ At the request of the Secretary of the department in which the Coast Guard is op
 
 The requirements under paragraph (1) shall be exempt from sections 3501 to 3521 of title 44.
 
-(Aug. 18, 1894, ch. 299, § 5, 28 Stat. 362; June 13, 1902, ch. 1079, § 6, 32 Stat. 374; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 97–322, title I, § 108(a), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 100–448, § 21, Sept. 28, 1988, 102 Stat. 1846; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 108–293, title VI, § 601(b), Aug. 9, 2004, 118 Stat. 1050; Pub. L. 114–120, title III, § 306(b)(3), Feb. 8, 2016, 130 Stat. 55; Pub. L. 115–282, title VIII, § 832, Dec. 4, 2018, 132 Stat. 4316.)
+(Aug. 18, 1894, ch. 299, § 5, 28 Stat. 362; June 13, 1902, ch. 1079, § 6, 32 Stat. 374; Pub. L. 90–578, title IV, § 402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 97–322, title I, § 108(a), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 100–448, § 21, Sept. 28, 1988, 102 Stat. 1846; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 108–293, title VI, § 601(b), Aug. 9, 2004, 118 Stat. 1050; Pub. L. 114–120, title III, § 306(b)(3), Feb. 8, 2016, 130 Stat. 55; Pub. L. 115–282, title VIII, § 832, Dec. 4, 2018, 132 Stat. 4316.)
 
 **Editorial Notes**
 
@@ -341,25 +341,25 @@ Except for the last proviso of subsec. (a), this section was from act Aug. 18, 1
 
 1983—Subsec. (a). Pub. L. 97–449 substituted “Secretary of Transportation” for “Secretary of War” wherever appearing. See Transfer of Functions note below.
 
-1982—Subsec. (a). Pub. L. 97–322, § 108(a)(1)–(4), designated existing provisions as subsec. (a); struck out from second sentence after “boats,” the clause “or who shall unreasonably delay the opening of said draw after reasonable signal shall have been given,”; substituted in first proviso “subsection” for “section”; and in second proviso provided for punishment of “willful” violation of rules and regulations.
+1982—Subsec. (a). Pub. L. 97–322, § 108(a)(1)–(4), designated existing provisions as subsec. (a); struck out from second sentence after “boats,” the clause “or who shall unreasonably delay the opening of said draw after reasonable signal shall have been given,”; substituted in first proviso “subsection” for “section”; and in second proviso provided for punishment of “willful” violation of rules and regulations.
 
-Subsecs. (b), (c). Pub. L. 97–322, § 108(a)(5), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 97–322, § 108(a)(5), added subsecs. (b) and (c).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
+“Magistrate judge” substituted in text for “magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “magistrate” substituted for “commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 **Transfer of Functions**
 
 Section 6(g)(2) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army [formerly War] and other officers and offices of Department of the Army [formerly War] relating to drawbridge operating regulations under this section to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(2) of Pub. L. 89–670, and repealed section 6(g)(2).
 
-### § 500. Deflection of current; liability to riparian owners
+### § 500. Deflection of current; liability to riparian owners
 
 Whenever complaint shall be made to the Secretary of the Army that by reason of the placing in any navigable waters of the United States of any bridge pier or abutment, the current of such waters has been so deflected from its natural course as to cause by producing caving of banks or otherwise serious damage or danger to property, it shall be his duty to make inquiry, and if it shall be ascertained that the complaint is well founded, he shall cause the owners or persons operating such bridge to repair such damage or prevent such danger to property by such means as he shall indicate and within such time as he may name, and in default thereof the owners or persons operating such bridge shall be liable in any court of competent jurisdiction to the persons injured in a sum double the amount of said injury: *Provided, however*, That nothing herein contained shall be construed so as to affect any rights of action which may have existed prior to August 11, 1888.
 
-(Aug. 11, 1888, ch. 860, § 2, 25 Stat. 423; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat 501.)
+(Aug. 11, 1888, ch. 860, § 2, 25 Stat. 423; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat 501.)
 
 **Editorial Notes**
 
@@ -375,17 +375,17 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 **Transfer of Functions**
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under sections 491 to 494 and 495 to 498 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(B), Oct. 15, 1966, 80 Stat. 931. Pub. L. 97–449 amended sections 491 to 494 and 495 to 498 of this title to reflect transfer made by section 6(g)(6)(B) of Pub. L. 89–670, and repealed section 6(g)(6)(B).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under sections 491 to 494 and 495 to 498 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, § 6(g)(6)(B), Oct. 15, 1966, 80 Stat. 931. Pub. L. 97–449 amended sections 491 to 494 and 495 to 498 of this title to reflect transfer made by section 6(g)(6)(B) of Pub. L. 89–670, and repealed section 6(g)(6)(B).
 
-### § 501. Omitted
+### § 501. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, R.S. § 5250, gave assent of Congress to construction of bridges across the Maquoketa River in Iowa.
+Section, R.S. § 5250, gave assent of Congress to construction of bridges across the Maquoketa River in Iowa.
 
-### § 502. Alteration, removal, or repair of bridge or accessory obstructions to navigation
+### § 502. Alteration, removal, or repair of bridge or accessory obstructions to navigation
 
 **(a) Criminal penalties for violation; alteration or removal requirements; notice and hearing; specification of changes; time for compliance; notice to United States attorney; misdemeanor; fine; new offenses**
 
@@ -399,7 +399,7 @@ No owner or operator of any bridge, drawbridge, or causeway shall endanger, unre
 
 Whoever violates any provision of this section, or any order issued under this section, shall be liable to a civil penalty of not more than $5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter. Each day a violation continues shall be deemed a separate offense. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of the department in which the Coast Guard is operating may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
 
-(Mar. 3, 1899, ch. 425, § 18, 30 Stat. 1153; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; June 25, 1948, ch. 646, §§ 1, 39, 62 Stat. 909, 992; Pub. L. 97–322, title I, § 108(b), Oct. 15, 1982, 96 Stat. 1583; Pub. L. 108–293, title VI, § 601(c), Aug. 9, 2004, 118 Stat. 1050; Pub. L. 114–120, title III, § 306(b)(1)(B), Feb. 8, 2016, 130 Stat. 55.)
+(Mar. 3, 1899, ch. 425, § 18, 30 Stat. 1153; Mar. 3, 1911, ch. 231, § 291, 36 Stat. 1167; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; June 25, 1948, ch. 646, §§ 1, 39, 62 Stat. 909, 992; Pub. L. 97–322, title I, § 108(b), Oct. 15, 1982, 96 Stat. 1583; Pub. L. 108–293, title VI, § 601(c), Aug. 9, 2004, 118 Stat. 1050; Pub. L. 114–120, title III, § 306(b)(1)(B), Feb. 8, 2016, 130 Stat. 55.)
 
 **Editorial Notes**
 
@@ -411,9 +411,9 @@ The words “or from the existing circuit courts,” which followed “district 
 
 **Prior Provisions**
 
-This section superseded act Aug. 11, 1888, ch. 860, §§ 9, 10, 25 Stat. 424, as amended by act Sept. 19, 1890, ch. 907, §§ 4, 5, 26 Stat. 453, which required the Secretary of War to provide against obstructions to navigation by bridges, and prescribed a punishment on the owner’s default in making the required alterations.
+This section superseded act Aug. 11, 1888, ch. 860, §§ 9, 10, 25 Stat. 424, as amended by act Sept. 19, 1890, ch. 907, §§ 4, 5, 26 Stat. 453, which required the Secretary of War to provide against obstructions to navigation by bridges, and prescribed a punishment on the owner’s default in making the required alterations.
 
-The Secretary of War was authorized to make the required changes in bridges obstructing navigation on the owner’s failure to do so, and the Attorney General was required to institute proceedings against the owner for the recovery of the cost of such changes, by act July 5, 1884, ch. 229, § 8, 23 Stat. 148.
+The Secretary of War was authorized to make the required changes in bridges obstructing navigation on the owner’s failure to do so, and the Attorney General was required to institute proceedings against the owner for the recovery of the cost of such changes, by act July 5, 1884, ch. 229, § 8, 23 Stat. 148.
 
 **Amendments**
 
@@ -425,7 +425,7 @@ The Secretary of War was authorized to make the required changes in bridges obst
 
 Subsecs. (b), (c). Pub. L. 97–322 added subsecs. (b) and (c).
 
-1948—Act June 25, 1948, § 39, repealed proviso at end relating to appeals. See sections 1252 and 1253 of title 28.
+1948—Act June 25, 1948, § 39, repealed proviso at end relating to appeals. See sections 1252 and 1253 of title 28.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -441,23 +441,23 @@ Amendment by act June 25, 1948 effective Sept. 1, 1948, see section 38 of act Ju
 
 Section as not applicable to bridges constructed under sections 491 to 494 and 495 to 498 of this title, see section 494 of this title.
 
-### § 503 to 507. Repealed. Pub. L. 100–17, title I, § 135(d), Apr. 2, 1987, 101 Stat. 174
+### § 503 to 507. Repealed. Pub. L. 100–17, title I, § 135(d), Apr. 2, 1987, 101 Stat. 174
 
-Section 503, act Aug. 21, 1935, ch. 597, § 1, 49 Stat. 670, provided that, on and after Aug. 21, 1935, tolls over any bridge over any of the navigable waters of the United States, if such bridge is used for travel or transportation in interstate or foreign commerce, be just and reasonable and specified bridges to which sections 503 to 507 of this title not apply.
+Section 503, act Aug. 21, 1935, ch. 597, § 1, 49 Stat. 670, provided that, on and after Aug. 21, 1935, tolls over any bridge over any of the navigable waters of the United States, if such bridge is used for travel or transportation in interstate or foreign commerce, be just and reasonable and specified bridges to which sections 503 to 507 of this title not apply.
 
-Section 504, acts Aug. 21, 1935, ch. 597, § 2, 49 Stat. 671; Jan. 12, 1983, Pub. L. 97–449, § 2(d)(1), 96 Stat. 2440, authorized Secretary of Transportation to determine reasonableness of any toll charged for passage or transit over any bridge to which sections 503 to 507 of this title applied and to prescribe an order establishing a reasonable toll, which order was to take effect thirty days after issuance.
+Section 504, acts Aug. 21, 1935, ch. 597, § 2, 49 Stat. 671; Jan. 12, 1983, Pub. L. 97–449, § 2(d)(1), 96 Stat. 2440, authorized Secretary of Transportation to determine reasonableness of any toll charged for passage or transit over any bridge to which sections 503 to 507 of this title applied and to prescribe an order establishing a reasonable toll, which order was to take effect thirty days after issuance.
 
-Section 505, acts Aug. 21, 1935, ch. 597, § 3, 49 Stat. 671; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Jan. 12, 1983, Pub. L. 97–449, § 2(d)(1), 96 Stat. 2440, provided for judicial review of orders of the Secretary of Transportation prescribing reasonable tolls.
+Section 505, acts Aug. 21, 1935, ch. 597, § 3, 49 Stat. 671; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107; Jan. 12, 1983, Pub. L. 97–449, § 2(d)(1), 96 Stat. 2440, provided for judicial review of orders of the Secretary of Transportation prescribing reasonable tolls.
 
-Section 506, acts Aug. 21, 1935, ch. 597, § 4, 49 Stat. 671; Oct. 15, 1970, Pub. L. 91–452, title II, § 235, 84 Stat. 930; Jan. 12, 1983, Pub. L. 97–449, § 2(d)(1), 96 Stat. 2440, authorized Secretary of Transportation to hold hearings in determining reasonableness of tolls, to require attendance of witnesses, and to punish witnesses for failure to attend such hearings.
+Section 506, acts Aug. 21, 1935, ch. 597, § 4, 49 Stat. 671; Oct. 15, 1970, Pub. L. 91–452, title II, § 235, 84 Stat. 930; Jan. 12, 1983, Pub. L. 97–449, § 2(d)(1), 96 Stat. 2440, authorized Secretary of Transportation to hold hearings in determining reasonableness of tolls, to require attendance of witnesses, and to punish witnesses for failure to attend such hearings.
 
-Section 507, act Aug. 21, 1935, ch. 597, § 5, 49 Stat. 672, related to punishment for failure to obey an order prescribing toll.
+Section 507, act Aug. 21, 1935, ch. 597, § 5, 49 Stat. 672, related to punishment for failure to obey an order prescribing toll.
 
-### § 508. Amount of tolls
+### § 508. Amount of tolls
 
 Tolls for passage or transit over any bridge constructed under the authority of the Act of March 23, 1906, commonly known as the “Bridge Act of 1906”, the General Bridge Act of 1946 [33 U.S.C. 525 et seq.], and the International Bridge Act of 1972 [33 U.S.C. 535 et seq.] shall be just and reasonable.
 
-(Pub. L. 100–17, title I, § 135(i), Apr. 2, 1987, 101 Stat. 174.)
+(Pub. L. 100–17, title I, § 135(i), Apr. 2, 1987, 101 Stat. 174.)
 
 **Editorial Notes**
 
@@ -465,13 +465,13 @@ Tolls for passage or transit over any bridge constructed under the authority of 
 
 Act of March 23, 1906, commonly known as the “Bridge Act of 1906”, referred to in text, is act Mar. 23, 1906, ch. 1130, 34 Stat. 84, which enacted sections 491 to 494 and 495 to 498 of this title. For complete classification of this Act of the Code, see Short Title note set out under section 491 of this title and Tables.
 
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 525 of this title and Tables.
 
-The International Bridge Act of 1972, referred to in text, is Pub. L. 92–434, Sept. 26, 1972, 86 Stat. 731, which is classified principally to subchapter IV (§ 535 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 535 of this title and Tables.
+The International Bridge Act of 1972, referred to in text, is Pub. L. 92–434, Sept. 26, 1972, 86 Stat. 731, which is classified principally to subchapter IV (§ 535 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 535 of this title and Tables.
 
 ## SUBCHAPTER II—ALTERATION OF BRIDGES
 
-### § 511. Definitions
+### § 511. Definitions
 
 When used in this subchapter, unless the context indicates otherwise—
 
@@ -485,7 +485,7 @@ The term “Secretary” means the Secretary of the department in which the Coas
 
 The term “United States”, when used in a geographical sense, includes the Territories and possessions of the United States.
 
-(June 21, 1940, ch. 409, § 1, 54 Stat. 497; July 16, 1952, ch. 889, § 1, 66 Stat. 732; Pub. L. 95–598, title III, § 323, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 97–449, § 2(d)(2), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 114–120, title III, § 306(b)(4)(A), Feb. 8, 2016, 130 Stat. 55.)
+(June 21, 1940, ch. 409, § 1, 54 Stat. 497; July 16, 1952, ch. 889, § 1, 66 Stat. 732; Pub. L. 95–598, title III, § 323, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 97–449, § 2(d)(2), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 114–120, title III, § 306(b)(4)(A), Feb. 8, 2016, 130 Stat. 55.)
 
 **Editorial Notes**
 
@@ -513,23 +513,23 @@ Sections 511 to 523 of this title are popularly known as the “Hobbs Bridge Act
 
 Section 6(g)(3) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army [formerly War] and other officers and offices of Department of the Army [formerly War] relating to obstructive bridges under this subchapter to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(3) of Pub. L. 89–670, and repealed section 6(g)(3).
 
-### § 512. Obstruction of navigation
+### § 512. Obstruction of navigation
 
 No bridge shall at any time unreasonably obstruct the free navigation of any navigable waters of the United States.
 
-(June 21, 1940, ch. 409, § 2, 54 Stat. 498.)
+(June 21, 1940, ch. 409, § 2, 54 Stat. 498.)
 
-### § 513. Notice, hearings, and findings
+### § 513. Notice, hearings, and findings
 
 Whenever any bridge shall, in the opinion of the Secretary, at any time unreasonably obstruct such navigation, it shall be the duty of the Secretary, after notice to interested parties, to hold a hearing at which the bridge owner, those interested in water navigation thereunder or therethrough, those interested in either railroad or highway traffic thereover, and any other party or parties in interest shall have full opportunity to offer evidence and be heard as to whether any alteration of such bridge is needed, and if so what alterations are needed, having due regard to the necessity of free and unobstructed water navigation and to the necessities of the rail or highway traffic. If, upon such hearing, the Secretary determines that any alterations of such bridge are necessary in order to render navigation through or under it reasonably free, easy, and unobstructed, having due regard also for the necessities of rail or highway traffic thereover, he shall so find and shall issue and cause to be served upon interested parties an order requiring such alterations of such bridge as he finds to be reasonably necessary for the purposes of navigation.
 
-(June 21, 1940, ch. 409, § 3, 54 Stat. 498.)
+(June 21, 1940, ch. 409, § 3, 54 Stat. 498.)
 
-### § 514. Submission and approval of general plans and specifications
+### § 514. Submission and approval of general plans and specifications
 
 After the service of an order under this subchapter, it shall be the duty of the bridge owner to prepare and submit to the Secretary of the department in which the Coast Guard is operating, within a reasonable time as prescribed by the Secretary, general plans and specifications to provide for the alteration of such bridge in accordance with such order, and for such additional alteration of such bridge as the bridge owner may desire to meet the necessities of railroad or highway traffic, or both. The Secretary may approve or reject such general plans and specifications, in whole or in part, and may require the submission of new or additional plans and specifications, but when the Secretary shall have approved general plans and specifications, they shall be final and binding upon all parties unless changes therein be afterward approved by the Secretary and the bridge owner.
 
-(June 21, 1940, ch. 409, § 4, 54 Stat. 498; Pub. L. 94–587, § 119, Oct. 22, 1976, 90 Stat. 2924; Pub. L. 114–120, title III, § 306(b)(4)(B), Feb. 8, 2016, 130 Stat. 55.)
+(June 21, 1940, ch. 409, § 4, 54 Stat. 498; Pub. L. 94–587, § 119, Oct. 22, 1976, 90 Stat. 2924; Pub. L. 114–120, title III, § 306(b)(4)(B), Feb. 8, 2016, 130 Stat. 55.)
 
 **Editorial Notes**
 
@@ -539,11 +539,11 @@ After the service of an order under this subchapter, it shall be the duty of the
 
 1976—Pub. L. 94–587 substituted provision for preparation and submission of general plans and specifications within a reasonable time as prescribed by the Secretary after the service of an order for provision for such action within ninety days after service of his order.
 
-### § 515. Contracts for project; guaranty of cost
+### § 515. Contracts for project; guaranty of cost
 
 After approval of such general plans and specifications by the Secretary, and after notification of such approval, the bridge owner shall, in such manner and within such times as the Secretary may prescribe, take bids for the alteration of such bridge in accordance with such general plans and specifications. All bids, including any bid for all or part of the project submitted by the bridge owner, shall be submitted to the Secretary, together with a recommendation by the bridge owner as to the most competent bid or bids, and at the same time the bridge owner shall submit to the Secretary a written guaranty that the total cost of the project, including the cost of such work as is to be performed by the bridge owner and not included in the work to be performed by contract, shall not exceed the sum stated in said guaranty. The Secretary may direct the bridge owner to reject all bids and to take new bids, or may authorize the bridge owner to proceed with the project, by contract, or partly by contract and partly by the bridge owner, or wholly by the bridge owner. Upon such authorization and fixing of the proportionate shares of the cost as provided in section 516 of this title, the bridge owner shall, within a reasonable time to be prescribed by the Secretary, proceed with the work of alteration; and the cost thereof shall be borne by the United States and by the bridge owner, as provided in sections 516 and 517 of this title: *Provided*, That where funds have been appropriated for part only of a project, the bridge owner may take bids for part only of the work. In the event the bridge owner proceeds with the alteration through the taking of successive partial bids, the bridge owner shall, if required by the Secretary, submit a revised guaranty of cost after bids are accepted for successive parts of the work.
 
-(June 21, 1940, ch. 409, § 5, 54 Stat. 498; Pub. L. 85–640, § 1(a), (b), Aug. 14, 1958, 72 Stat. 595.)
+(June 21, 1940, ch. 409, § 5, 54 Stat. 498; Pub. L. 85–640, § 1(a), (b), Aug. 14, 1958, 72 Stat. 595.)
 
 **Editorial Notes**
 
@@ -551,11 +551,11 @@ After approval of such general plans and specifications by the Secretary, and af
 
 1958—Pub. L. 85–640 struck out provisions which required bridge owner to take bids within 90 days after notification of approval of general plans and specifications, and inserted provisions permitting the taking of partial bids where funds have been appropriated for part of a project, and requiring the bridge owner, if requested, to submit a revised guaranty of cost.
 
-### § 516. Apportionment of cost
+### § 516. Apportionment of cost
 
 At the time the Secretary shall authorize the bridge owner to proceed with the project, as provided in section 515 of this title, and after an opportunity to the bridge owner to be heard thereon, the Secretary shall determine and issue an order specifying the proportionate shares of the total cost of the project to be borne by the United States and by the bridge owner. Such apportionment shall be made on the following basis: The bridge owner shall bear such part of the cost as is attributable to the direct and special benefits which will accrue to the bridge owner as a result of the alteration, including the expectable savings in repair or maintenance costs; and that part of the cost attributable to the requirements of traffic by railroad or highway, or both, including any expenditure for increased carrying capacity of the bridge, and including such proportion of the actual capital cost of the old bridge or of such part of the old bridge as may be altered or changed or rebuilt, as the used service life of the whole or a part, as the case may be, bears to the total estimated service life of the whole or such part: *Provided*, That in the event the alteration or relocation of any bridge may be desirable for the reason that the bridge unreasonably obstructs navigation, but also for some other reason, the Secretary may require equitable contribution from any interested person, firm, association, corporation, municipality, county, or State desiring such alteration or relocation for such other reason, as a condition precedent to the making of an order for such alteration or relocation. The United States shall bear the balance of the cost, including that part attributable to the necessities of navigation: *And provided further*, That where the bridge owner proceeds with the alteration on a successive partial bid basis the Secretary is authorized to issue an order of apportionment of cost for the entire alteration based on the accepted bid for the first part of the alteration and an estimate of cost for the remainder of the work. The Secretary is authorized to revise the order of apportionment of cost, to the extent he deems reasonable and proper, to meet any changed conditions.
 
-(June 21, 1940, ch. 409, § 6, 54 Stat. 499; July 16, 1952, ch. 889, § 2, 66 Stat. 733; Pub. L. 85–640, § 1(c), Aug. 14, 1958, 72 Stat. 595.)
+(June 21, 1940, ch. 409, § 6, 54 Stat. 499; July 16, 1952, ch. 889, § 2, 66 Stat. 733; Pub. L. 85–640, § 1(c), Aug. 14, 1958, 72 Stat. 595.)
 
 **Editorial Notes**
 
@@ -565,11 +565,11 @@ At the time the Secretary shall authorize the bridge owner to proceed with the p
 
 1952—Act July 16, 1952, made railroads share equally with proprietors of highways in bearing cost of alterations necessary to remove obstacles to navigation.
 
-### § 517. Payment of share of United States
+### § 517. Payment of share of United States
 
 Following service of the order requiring alteration of the bridge, the Secretary of the department in which the Coast Guard is operating may make partial payments as the work progresses to the extent that funds have been appropriated. The total payments out of Federal funds shall not exceed the proportionate share of the United States of the total cost of the project paid or incurred by the bridge owner, and, if such total cost exceeds the cost guaranteed by the bridge owner, shall not exceed the proportionate share of the United States of such guaranteed cost, except that if the cost of the work exceeds the guaranteed cost by reason of emergencies, conditions beyond the control of the owner, or unforeseen or undetermined conditions, the Secretary of the department in which the Coast Guard is operating may, after full review of all the circumstances, provide for additional payments by the United States to help defray such excess cost to the extent he deems to be reasonable and proper, and shall certify such additional payments to the Secretary of the Treasury for payment. All payments to any bridge owner herein provided for shall be made by the Secretary of the Treasury through the Fiscal Service upon certifications of the Secretary of the department in which the Coast Guard is operating.
 
-(June 21, 1940, ch. 409, § 7, 54 Stat. 499; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Pub. L. 85–640, § 1(d), Aug. 14, 1958, 72 Stat. 596; Pub. L. 91–605, title I, § 118, Dec. 31, 1970, 84 Stat. 1725; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 114–120, title III, § 306(b)(4)(C), Feb. 8, 2016, 130 Stat. 55.)
+(June 21, 1940, ch. 409, § 7, 54 Stat. 499; 1940 Reorg. Plan No. III, § 1(a)(1), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231; Pub. L. 85–640, § 1(d), Aug. 14, 1958, 72 Stat. 596; Pub. L. 91–605, title I, § 118, Dec. 31, 1970, 84 Stat. 1725; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 114–120, title III, § 306(b)(4)(C), Feb. 8, 2016, 130 Stat. 55.)
 
 **Editorial Notes**
 
@@ -595,11 +595,11 @@ Section 6(g)(3) of Pub. L. 89–670 transferred functions, powers, and duties of
 
 “Fiscal Service” substituted in text for “Division of Disbursement” on authority of section 1(a)(1) of Reorg. Plan No. III of 1940, eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees, which consolidated such division into Fiscal Service of Department of the Treasury. See section 306 of Title 31, Money and Finance.
 
-### § 518. Authorization of appropriations
+### § 518. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this subchapter.
 
-(June 21, 1940, ch. 409, § 8, 54 Stat. 500.)
+(June 21, 1940, ch. 409, § 8, 54 Stat. 500.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -611,17 +611,17 @@ Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 108–7, div. I, title I, Feb. 20, 2003, 117 Stat. 389.
 
-### § 519. Noncompliance with orders; penalties; removal of bridge
+### § 519. Noncompliance with orders; penalties; removal of bridge
 
 Any bridge owner who shall willfully fail or refuse to comply with any lawful order of the Secretary, made in accordance with the provisions of this subchapter, shall be deemed guilty of a misdemeanor and on conviction thereof shall be punished in any court of competent jurisdiction by a fine not exceeding $5,000, and every month such bridge owner shall remain in default shall be deemed a new offense and subject such bridge owner to additional penalties therefor. In addition to the penalties above prescribed the Secretary may, upon the failure or refusal of any bridge owner to comply with any lawful order issued by the Secretary in regard thereto, cause the removal of any such bridge and accessory works at the expense of the bridge owner; and suit for such expense may be brought in the name of the United States against such bridge owner and recovery had for such expense in any court of competent jurisdiction. The removal of any bridge erected or maintained in violation of the provisions of this subchapter or the order or direction of the Secretary made in pursuance thereof, and compliance with any order of the Secretary made with respect to any bridge in accordance with the provisions of this subchapter, may be enforced by injunction, mandamus, or other summary process upon application to the district court of any district in which such bridge may, in whole or in part, exist, and proper proceedings to this end may be instituted under the direction of the Attorney General of the United States at the request of the Secretary.
 
-(June 21, 1940, ch. 409, § 9, 54 Stat. 500.)
+(June 21, 1940, ch. 409, § 9, 54 Stat. 500.)
 
-### § 520. Review of findings and orders
+### § 520. Review of findings and orders
 
 Any order made or issued under section 516 of this title may be reviewed by the court of appeals for any judicial circuit in which the bridge in question is wholly or partly located, if a petition for such review is filed within three months after the date such order is issued. The judgment of any such court shall be final except that it shall be subject to review by the Supreme Court of the United States upon certification or certiorari, in the manner provided in section 1254 of title 28. The review by such Court shall be limited to questions of law, and the findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive. Upon such review, such Court shall have power to affirm or, if the order is not in accordance with law, to modify or to reverse the order, with or without remanding the case for a rehearing as justice may require. Proceedings under this section shall not operate as a stay of any order of the Secretary issued under provisions of this subchapter other than section 516 of this title, or relieve any bridge owner of any liability or penalty under such provisions.
 
-(June 21, 1940, ch. 409, § 10, 54 Stat. 501; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
+(June 21, 1940, ch. 409, § 10, 54 Stat. 501; June 25, 1948, ch. 646, § 32(a), 62 Stat. 991; May 24, 1949, ch. 139, § 127, 63 Stat. 107.)
 
 **Editorial Notes**
 
@@ -635,25 +635,25 @@ Any order made or issued under section 516 of this title may be reviewed by the 
 
 Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
 
-### § 521. Regulations and orders
+### § 521. Regulations and orders
 
 The Secretary is authorized to prescribe such rules and regulations, and to make and issue such orders, as may be necessary or appropriate for carrying out the provisions of this subchapter.
 
-(June 21, 1940, ch. 409, § 11, 54 Stat. 501.)
+(June 21, 1940, ch. 409, § 11, 54 Stat. 501.)
 
-### § 522. Existing provisions of law
+### § 522. Existing provisions of law
 
 The first sentence of section 494 of this title, and section 502 of this title, shall be inapplicable with respect to any bridge to which the provisions of this subchapter are applicable.
 
-(June 21, 1940, ch. 409, § 12, 54 Stat. 501; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8507(b), Jan. 1, 2021, 134 Stat. 4754; Pub. L. 117–263, div. K, title CXVIII, § 11805(a), (c), Dec. 23, 2022, 136 Stat. 4164, 4165.)
+(June 21, 1940, ch. 409, § 12, 54 Stat. 501; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8507(b), Jan. 1, 2021, 134 Stat. 4754; Pub. L. 117–263, div. K, title CXVIII, § 11805(a), (c), Dec. 23, 2022, 136 Stat. 4164, 4165.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–263, § 11805(c), struck out “, except to the extent provided in this section” before period at end.
+2022—Pub. L. 117–263, § 11805(c), struck out “, except to the extent provided in this section” before period at end.
 
-Pub. L. 117–263, § 11805(a), reinstated section 12(a) of the act of June 21, 1940, as it appeared before repeal by Pub. L. 116–283, and redesignated it as the sole text of section 12.
+Pub. L. 117–263, § 11805(a), reinstated section 12(a) of the act of June 21, 1940, as it appeared before repeal by Pub. L. 116–283, and redesignated it as the sole text of section 12.
 
 2021—Pub. L. 116–283 repealed this section. Text of subsec. (a) was reinstated by Pub. L. 117–263 and redesignated as text of entire section. See above.
 
@@ -661,13 +661,13 @@ Pub. L. 117–263, § 11805(a), reinstated section 12(a) of the act of June 21
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. K, title CXVIII, § 11805(b), Dec. 23, 2022, 136 Stat. 4165, provided that: “The provision reinstated under subsection (a) [this section] shall be treated as if such section 8507(b) [of Pub. L. 116–283, which had repealed this section] had never taken effect.”
+Pub. L. 117–263, div. K, title CXVIII, § 11805(b), Dec. 23, 2022, 136 Stat. 4165, provided that: “The provision reinstated under subsection (a) [this section] shall be treated as if such section 8507(b) [of Pub. L. 116–283, which had repealed this section] had never taken effect.”
 
-### § 523. Relocation of bridges
+### § 523. Relocation of bridges
 
 If the owner of any bridge and the Secretary shall agree that in order to remove an obstruction to navigation, or for any other purpose, a relocation of such bridge or the construction of a new bridge upon a new location would be preferable to an alteration of the existing bridge, such relocation or new construction may be carried out at such new site and upon such terms as may be acceptable to the bridge owner and the Secretary, and the cost of such relocation or new construction, including also any expense of changes in and additions to rights-of-way, stations, tracks, spurs, sidings, switches, signals, and other railroad facilities and property, and relocation of shippers required for railroad connection with the bridge at the new site, shall be apportioned as between the bridge owner and the United States in the manner which is provided for in section 516 of this title in the case of an alteration and the share of the United States paid from the appropriation authorized in section 518 of this title: *Provided*, That nothing in this section shall be construed as requiring the United States to pay any part of the expense of building any bridge across a navigable stream which the Secretary of the department in which the Coast Guard is operating shall not find to be, in fact, a relocation of an existing bridge.
 
-(June 21, 1940, ch. 409, § 13, 54 Stat. 502; July 16, 1952, ch. 889, § 4, 66 Stat. 733; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 114–120, title III, § 306(b)(4)(D), Feb. 8, 2016, 130 Stat. 55.)
+(June 21, 1940, ch. 409, § 13, 54 Stat. 502; July 16, 1952, ch. 889, § 4, 66 Stat. 733; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 114–120, title III, § 306(b)(4)(D), Feb. 8, 2016, 130 Stat. 55.)
 
 **Editorial Notes**
 
@@ -685,11 +685,11 @@ If the owner of any bridge and the Secretary shall agree that in order to remove
 
 Section 6(g)(3) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army [formerly War] and other officers and offices of Department of the Army [formerly War] relating to obstructive bridges under this subchapter to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(3) of Pub. L. 89–670, and repealed section 6(g)(3).
 
-### § 524. Applicability of administrative procedure provisions
+### § 524. Applicability of administrative procedure provisions
 
 In the administration of this Act, hearings and other procedures shall be exempted from the provisions of subchapter II of chapter 5, and chapter 7, of title 5, except as to the requirements of section 552 of title 5.
 
-(July 16, 1952, ch. 889, § 3, 66 Stat. 733.)
+(July 16, 1952, ch. 889, § 3, 66 Stat. 733.)
 
 **Editorial Notes**
 
@@ -701,11 +701,11 @@ This Act, referred to in text, is act July 16, 1952, ch. 889, 66 Stat. 732, whic
 
 Section was not enacted as part of act June 21, 1940, ch. 409, 54 Stat. 497, which comprises this subchapter.
 
-“Subchapter II of chapter 5, and chapter 7, of title 5” and “section 552 of title 5” substituted in text for “the Administrative Procedure Act (60 Stat. 237)” and “section 3 thereof”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+“Subchapter II of chapter 5, and chapter 7, of title 5” and “section 552 of title 5” substituted in text for “the Administrative Procedure Act (60 Stat. 237)” and “section 3 thereof”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 ## SUBCHAPTER III—GENERAL BRIDGE AUTHORITY
 
-### § 525. Construction and operation of bridges
+### § 525. Construction and operation of bridges
 
 **(a) Consent of Congress**
 
@@ -719,7 +719,7 @@ The location and plans for such bridges shall be approved by the Secretary of th
 
 Notwithstanding the provisions of subsections (a) and (b), it shall be unlawful to construct or commence the construction of any privately owned highway toll bridge until the location and plans thereof shall also have been submitted to and approved by the highway department or departments of the State or States in which the bridge and its approaches are situated; and where such bridge shall be between two or more States and the highway departments thereof shall be unable to agree upon the location and plans therefor, or if they, or either of them, shall fail or refuse to act upon the location and plans submitted, such location and plans then shall be submitted to the Secretary of Transportation and, if approved by the Secretary of Transportation, approval by the highway departments shall not be required.
 
-(Aug. 2, 1946, ch. 753, title V, § 502, 60 Stat. 847; June 30, 1949, ch. 288, title I, § 103(a), 63 Stat. 380; 1949 Reorg. Plan No. 7, § 1, eff. Aug. 19, 1949, 14 F.R. 5288, 63 Stat. 1070; Pub. L. 97–322, title I, § 107(a), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, § 2(d)(1), (3), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 98–557, § 17(g)(2), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 114–120, title III, § 306(b)(5)(A), Feb. 8, 2016, 130 Stat. 55.)
+(Aug. 2, 1946, ch. 753, title V, § 502, 60 Stat. 847; June 30, 1949, ch. 288, title I, § 103(a), 63 Stat. 380; 1949 Reorg. Plan No. 7, § 1, eff. Aug. 19, 1949, 14 F.R. 5288, 63 Stat. 1070; Pub. L. 97–322, title I, § 107(a), Oct. 15, 1982, 96 Stat. 1582; Pub. L. 97–449, § 2(d)(1), (3), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 98–557, § 17(g)(2), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 114–120, title III, § 306(b)(5)(A), Feb. 8, 2016, 130 Stat. 55.)
 
 **Editorial Notes**
 
@@ -729,9 +729,9 @@ Notwithstanding the provisions of subsections (a) and (b), it shall be unlawful 
 
 1984—Subsec. (b). Pub. L. 98–557 struck out “the Chief of Engineers and” before “the Secretary of Transportation” and substituted “the Secretary” for “they” wherever appearing.
 
-1983—Subsec. (b). Pub. L. 97–449, § 2(d)(1), substituted “Secretary of Transportation” for “Secretary of War”. See Transfer of Functions note below.
+1983—Subsec. (b). Pub. L. 97–449, § 2(d)(1), substituted “Secretary of Transportation” for “Secretary of War”. See Transfer of Functions note below.
 
-Subsec. (c). Pub. L. 97–449, § 2(d)(3), substituted “Secretary of Transportation” for “Public Roads Administration” wherever appearing. See Transfer of Functions note below.
+Subsec. (c). Pub. L. 97–449, § 2(d)(3), substituted “Secretary of Transportation” for “Public Roads Administration” wherever appearing. See Transfer of Functions note below.
 
 1982—Subsec. (b). Pub. L. 97–322 inserted exemption provision at end.
 
@@ -749,7 +749,7 @@ Section 511 of title V of act Aug. 2, 1946, provided that: “The right to alter
 
 Functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by section 6(g)(6)(C) of Pub. L. 89–670. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(C) of Pub. L. 89–670, and repealed section 6(g)(6)(C).
 
-Functions of Public Roads Administration transferred to Bureau of Public Roads within General Services Administration by section 103(a) of act June 30, 1949. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
+Functions of Public Roads Administration transferred to Bureau of Public Roads within General Services Administration by section 103(a) of act June 30, 1949. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, § 2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 
 Functions, powers, and duties of Secretary of Commerce and other offices and officers of Department of Commerce under subsec. (c) of this section relating generally to highways transferred to and vested in Secretary of Transportation by section 6(g)(6)(C) of Pub. L. 89–670. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(C) of Pub. L. 89–670, and repealed section 6(g)(6)(C).
 
@@ -759,27 +759,27 @@ Functions, powers, and duties of Secretary of Commerce and other offices and off
 
 Bureau of Public Roads within General Services Administration transferred to Department of Commerce by section 1 of Reorg. Plan No. 7 of 1949.
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 526. Repealed. Pub. L. 100–17, title I, § 135(e), Apr. 2, 1987, 101 Stat. 174
+### § 526. Repealed. Pub. L. 100–17, title I, § 135(e), Apr. 2, 1987, 101 Stat. 174
 
-Section, acts Aug. 2, 1946, ch. 753, title V, § 503, 60 Stat. 847; Jan. 12, 1983, Pub. L. 97–449, § 2(d)(1), 96 Stat. 2440, provided that tolls charged for transit over any interstate bridge be just and reasonable and authorized Secretary of Transportation to prescribe reasonable rates of toll for such transit, which rates were to be legal rates demanded and received. See section 508 of this title.
+Section, acts Aug. 2, 1946, ch. 753, title V, § 503, 60 Stat. 847; Jan. 12, 1983, Pub. L. 97–449, § 2(d)(1), 96 Stat. 2440, provided that tolls charged for transit over any interstate bridge be just and reasonable and authorized Secretary of Transportation to prescribe reasonable rates of toll for such transit, which rates were to be legal rates demanded and received. See section 508 of this title.
 
-### § 526a. Repealed. Pub. L. 100–17, title I, § 135(f), Apr. 2, 1987, 101 Stat. 174
+### § 526a. Repealed. Pub. L. 100–17, title I, § 135(f), Apr. 2, 1987, 101 Stat. 174
 
-Section, act Pub. L. 93–87, title I, § 133(b), Aug. 13, 1973, 87 Stat. 267, authorized Secretary of Transportation to promulgate regulations establishing guidelines governing any increase in tolls for use of any bridge constructed pursuant to either the General Bridge Act of 1906 or the General Bridge Act of 1946.
+Section, act Pub. L. 93–87, title I, § 133(b), Aug. 13, 1973, 87 Stat. 267, authorized Secretary of Transportation to promulgate regulations establishing guidelines governing any increase in tolls for use of any bridge constructed pursuant to either the General Bridge Act of 1906 or the General Bridge Act of 1946.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Study of Toll Bridge Authority; Investigation and Study of Federal Statutes and Regulations; Report to Congress**
 
-Section 133(a) of Pub. L. 93–87 directed Secretary of Transportation to study the existing Federal laws and regulations governing toll bridges over navigable waters of United States and submit a report containing recommendations regarding action to be taken to assure reasonable nationwide tolls no later than July 1, 1974, except in the case of the toll bridge at Chester, Illinois, where the Secretary was directed to submit a similar report no later than Dec. 31, 1973, prior to repeal by Pub. L. 100–17, title I, § 135(f), Apr. 2, 1987, 101 Stat. 174.
+Section 133(a) of Pub. L. 93–87 directed Secretary of Transportation to study the existing Federal laws and regulations governing toll bridges over navigable waters of United States and submit a report containing recommendations regarding action to be taken to assure reasonable nationwide tolls no later than July 1, 1974, except in the case of the toll bridge at Chester, Illinois, where the Secretary was directed to submit a similar report no later than Dec. 31, 1973, prior to repeal by Pub. L. 100–17, title I, § 135(f), Apr. 2, 1987, 101 Stat. 174.
 
-### § 527. Acquisition of interstate bridges by public agencies; amount of damages
+### § 527. Acquisition of interstate bridges by public agencies; amount of damages
 
 After the completion of any interstate toll bridge constructed by an individual, firm, or corporation, as determined by the Secretary of Transportation, either of the States in which the bridge is located, or any public agency or political subdivision of either of such States, within or adjoining which any part of such bridge is located, or any two or more of them jointly, may at any time acquire and take over all right, title, and interest in such bridge and its approaches, and any interest in real property for public purposes by condemnation or expropriation. If at any time after the expiration of five years after the completion of such bridge the same is acquired by condemnation or expropriation, the amount of damages or compensation to be allowed shall not include good will, going value, or prospective revenues or profits, but shall be limited to the sum of (1) the actual cost of constructing such bridge and its approaches, less a reasonable deduction for actual depreciation in value; (2) the actual costs of acquiring such interests in real property; (3) actual financing and promotion costs, not to exceed 10 per centum of the sum of the cost of constructing the bridge and its approaches and acquiring such interests in real property; and (4) actual expenditures for necessary improvements.
 
-(Aug. 2, 1946, ch. 753, title V, § 504, 60 Stat. 848; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440.)
+(Aug. 2, 1946, ch. 753, title V, § 504, 60 Stat. 848; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440.)
 
 **Editorial Notes**
 
@@ -793,11 +793,11 @@ After the completion of any interstate toll bridge constructed by an individual,
 
 Section 6(g)(6)(C) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] under this subchapter to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(C) of Pub. L. 89–670, and repealed section 6(g)(6)(C).
 
-### § 528. Statement of construction costs of privately owned interstate bridges; investigation of costs; conclusiveness of findings; review
+### § 528. Statement of construction costs of privately owned interstate bridges; investigation of costs; conclusiveness of findings; review
 
 Within ninety days after the completion of a privately owned interstate toll bridge, the owner shall file with the Secretary of Transportation and with the highway departments of the States in which the bridge is located, a sworn itemized statement showing the actual original cost of constructing the bridge and its approaches, the actual cost of acquiring any interest in real property necessary therefor, and the actual financing and promotion costs. The Secretary of Transportation may, and upon request of a highway department shall, at any time within three years after the completion of such bridge, investigate such costs and determine the accuracy and the reasonableness of the costs alleged in the statement of costs so filed, and shall make a finding of the actual and reasonable costs of constructing, financing, and promoting such bridge. For the purpose of such investigation the said individual, firm, or corporation, its successors and assigns, shall make available all of its records in connection with the construction, financing, and promotion thereof. The findings of the Secretary of Transportation as to the reasonable costs of the construction, financing, and promotion of the bridge shall be conclusive for the purposes mentioned in section 527 of this title subject only to review in a court of equity for fraud or gross mistake.
 
-(Aug. 2, 1946, ch. 753, title V, § 505, 60 Stat. 848; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440.)
+(Aug. 2, 1946, ch. 753, title V, § 505, 60 Stat. 848; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440.)
 
 **Editorial Notes**
 
@@ -811,29 +811,29 @@ Within ninety days after the completion of a privately owned interstate toll bri
 
 Section 6(g)(6)(C) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] under this subchapter to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(C) of Pub. L. 89–670, and repealed section 6(g)(6)(C).
 
-### § 529. Repealed. Pub. L. 100–17, title I, § 135(e), Apr. 2, 1987, 101 Stat. 174
+### § 529. Repealed. Pub. L. 100–17, title I, § 135(e), Apr. 2, 1987, 101 Stat. 174
 
-Section, acts Aug. 2, 1946, ch. 753, title V, § 506, 60 Stat. 848; May 25, 1948, ch. 336, 62 Stat. 267, related to adjusting rates of tolls charged on an interstate bridge constructed or taken over by State or political subdivision thereof to provide fund to pay reasonable costs of maintaining and operating such bridge and a sinking fund to amortize amount paid for such bridge, with such bridge to be operated and maintained free of tolls after a sinking fund sufficient for such amortization had been provided.
+Section, acts Aug. 2, 1946, ch. 753, title V, § 506, 60 Stat. 848; May 25, 1948, ch. 336, 62 Stat. 267, related to adjusting rates of tolls charged on an interstate bridge constructed or taken over by State or political subdivision thereof to provide fund to pay reasonable costs of maintaining and operating such bridge and a sinking fund to amortize amount paid for such bridge, with such bridge to be operated and maintained free of tolls after a sinking fund sufficient for such amortization had been provided.
 
-### § 530. Bridges included and excluded
+### § 530. Bridges included and excluded
 
 The provisions of this subchapter shall apply only to bridges over navigable waters of the United States, the construction of which is approved after August 2, 1946, under the provisions of this subchapter; and the provisions of the first proviso of section 401 of this title, and the provisions of sections 491 to 494 and 495 to 498 of this title, shall not apply to such bridges.
 
-(Aug. 2, 1946, ch. 753, title V, § 507, 60 Stat. 849.)
+(Aug. 2, 1946, ch. 753, title V, § 507, 60 Stat. 849.)
 
-### § 531. International bridges
+### § 531. International bridges
 
 This subchapter shall not be construed to authorize the construction of any bridge which will connect the United States, or any Territory or possession of the United States, with any foreign country.
 
-(Aug. 2, 1946, ch. 753, title V, § 508, 60 Stat. 849.)
+(Aug. 2, 1946, ch. 753, title V, § 508, 60 Stat. 849.)
 
-### § 532. Eminent domain
+### § 532. Eminent domain
 
 There are conferred upon any individual, his heirs, legal representatives, or assigns, any firm or corporation, its successors or assigns, or any State, political subdivision, or municipality authorized in accordance with the provisions of this subchapter to build a bridge between two or more States, all such rights and powers to enter upon lands and acquire, condemn, occupy, possess, and use real estate and other property in the respective States needed for the location, construction, operation, and maintenance of such bridge and its approaches, as are possessed by railroad corporations for railroad purposes or by bridge corporations for bridge purposes in the State in which such real estate or other property is situated, upon making just compensation therefor to be ascertained and paid according to the laws of such State, and the proceedings therefor shall be the same as in the condemnation or expropriation of property for public purposes in such State.
 
-(Aug. 2, 1946, ch. 753, title V, § 509, 60 Stat. 849.)
+(Aug. 2, 1946, ch. 753, title V, § 509, 60 Stat. 849.)
 
-### § 533. Penalties for violations
+### § 533. Penalties for violations
 
 **(a) Criminal penalties for violation**
 
@@ -843,7 +843,7 @@ Any person who willfully fails or refuses to comply with any lawful order of the
 
 Whoever violates any provision of this subchapter, or any order issued under this subchapter, shall be liable to a civil penalty of not more than $5,000 for a violation occurring in 2004; $10,000 for a violation occurring in 2005; $15,000 for a violation occurring in 2006; $20,000 for a violation occurring in 2007; and $25,000 for a violation occurring in 2008 and any year thereafter. Each day a violation continues shall be deemed a separate offense. No penalty may be assessed under this subsection until the person charged is given notice and an opportunity for a hearing on the charge. The Secretary of the department in which the Coast Guard is operating may assess and collect any civil penalty incurred under this subsection and, in his discretion, may remit, mitigate, or compromise any penalty until the matter is referred to the Attorney General. If a person against whom a civil penalty is assessed under this subsection fails to pay that penalty, an action may be commenced in the district court of the United States for any district in which the violation occurs for such penalty.
 
-(Aug. 2, 1946, ch. 753, title V, § 510, 60 Stat. 849; Pub. L. 97–322, title I, § 108(d), Oct. 15, 1982, 96 Stat. 1584; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 108–293, title VI, § 601(d), Aug. 9, 2004, 118 Stat. 1050; Pub. L. 114–120, title III, § 306(b)(5)(B), Feb. 8, 2016, 130 Stat. 56.)
+(Aug. 2, 1946, ch. 753, title V, § 510, 60 Stat. 849; Pub. L. 97–322, title I, § 108(d), Oct. 15, 1982, 96 Stat. 1584; Pub. L. 97–449, § 2(d)(1), Jan. 12, 1983, 96 Stat. 2440; Pub. L. 108–293, title VI, § 601(d), Aug. 9, 2004, 118 Stat. 1050; Pub. L. 114–120, title III, § 306(b)(5)(B), Feb. 8, 2016, 130 Stat. 56.)
 
 **Editorial Notes**
 
@@ -863,11 +863,11 @@ Whoever violates any provision of this subchapter, or any order issued under thi
 
 Section 6(g)(6)(C) of Pub. L. 89–670 transferred functions, powers, and duties of Secretary of the Army [formerly War] and other offices and officers of Department of the Army [formerly War] under this subchapter to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(C) of Pub. L. 89–670, and repealed section 6(g)(6)(C).
 
-### § 534. Conveyance of right, title, and interest of United States in bridges transferred to States or political subdivisions; terms and conditions
+### § 534. Conveyance of right, title, and interest of United States in bridges transferred to States or political subdivisions; terms and conditions
 
 The Secretary of the Army is authorized to transfer or convey to State authorities or political subdivisions thereof all right, title, and interest of the United States, in and to any and all bridges heretofore or hereafter constructed or acquired in connection with the improvement of canals, rivers and harbors, or works of flood control, together with the necessary lands, easements, or rights-of-way, upon such terms and conditions and with or without consideration, as may be determined to be in the best interest of the United States by the Chief of Engineers: *Provided*, That such transferred bridges shall be toll-free.
 
-(May 17, 1950, ch. 188, title I, § 109, 64 Stat. 168.)
+(May 17, 1950, ch. 188, title I, § 109, 64 Stat. 168.)
 
 **Editorial Notes**
 
@@ -877,19 +877,19 @@ Section was not enacted as part of the General Bridge Act of 1946 which comprise
 
 ## SUBCHAPTER IV—INTERNATIONAL BRIDGES
 
-### § 535. Congressional consent to construction, maintenance, and operation of international bridges; conditions of consent
+### § 535. Congressional consent to construction, maintenance, and operation of international bridges; conditions of consent
 
 The consent of Congress is hereby granted to the construction, maintenance, and operation of any bridge and approaches thereto, which will connect the United States with any foreign country (hereinafter in this subchapter referred to as an “international bridge”) and to the collection of tolls for its use, so far as the United States has jurisdiction. Such consent shall be subject to (1) the approval of the proper authorities in the foreign country concerned; (2) the provisions of sections 491 to 494 and 495 to 498 of this title, except section 496 of this title, whether or not such bridge is to be built across or over any of the navigable waters of the United States; and (3) of the provisions of this subchapter.
 
-(Pub. L. 92–434, § 2, Sept. 26, 1972, 86 Stat. 731.)
+(Pub. L. 92–434, § 2, Sept. 26, 1972, 86 Stat. 731.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 92–434, § 1, Sept. 26, 1972, 86 Stat. 731, provided: “That this Act [enacting this subchapter and amending section 129 of Title 23, Highways] may be cited as the ‘International Bridge Act of 1972’.”
+Pub. L. 92–434, § 1, Sept. 26, 1972, 86 Stat. 731, provided: “That this Act [enacting this subchapter and amending section 129 of Title 23, Highways] may be cited as the ‘International Bridge Act of 1972’.”
 
-### § 535a. Congressional consent to State agreements with Canada and Mexico; Secretary of State’s approval of agreements
+### § 535a. Congressional consent to State agreements with Canada and Mexico; Secretary of State’s approval of agreements
 
 The consent of Congress is hereby granted for a State or a subdivision or instrumentality thereof to enter into agreements—
 
@@ -899,19 +899,19 @@ The consent of Congress is hereby granted for a State or a subdivision or instru
 
 for the construction, operation, and maintenance of such bridge in accordance with the applicable provisions of this subchapter. The effectiveness of such agreement shall be conditioned on its approval by the Secretary of State.
 
-(Pub. L. 92–434, § 3, Sept. 26, 1972, 86 Stat. 731.)
+(Pub. L. 92–434, § 3, Sept. 26, 1972, 86 Stat. 731.)
 
-### § 535b. Presidential approval; recommendations of Federal officials
+### § 535b. Presidential approval; recommendations of Federal officials
 
 No bridge may be constructed, maintained, and operated as provided in section 535 of this title unless the President has given his approval thereto. In the course of determining whether to grant such approval, the President shall secure the advice and recommendations of (1) the United States section of the International Boundary and Water Commission, United States and Mexico, in the case of a bridge connecting the United States and Mexico, and (2) the heads of such departments and agencies of the Federal Government as he deems appropriate to determine the necessity for such bridge.
 
-(Pub. L. 92–434, § 4, Sept. 26, 1972, 86 Stat. 731.)
+(Pub. L. 92–434, § 4, Sept. 26, 1972, 86 Stat. 731.)
 
-### § 535c. Approval of Secretary; commencement and completion requirements; extension of time limits
+### § 535c. Approval of Secretary; commencement and completion requirements; extension of time limits
 
 The approval of the Secretary of the department in which the Coast Guard is operating, as required by section 491 of this title, shall be given only subsequent to the President’s approval, as provided for in section 535b of this title, and shall be null and void unless the construction of the bridge is commenced within two years and completed within five years from the date of the Secretary’s approval: *Provided, however*, That the Secretary, for good cause shown, may extend for a reasonable time either or both of the time limits herein provided.
 
-(Pub. L. 92–434, § 5, Sept. 26, 1972, 86 Stat. 732; Pub. L. 114–120, title III, § 306(b)(6)(A), Feb. 8, 2016, 130 Stat. 56.)
+(Pub. L. 92–434, § 5, Sept. 26, 1972, 86 Stat. 732; Pub. L. 114–120, title III, § 306(b)(6)(A), Feb. 8, 2016, 130 Stat. 56.)
 
 **Editorial Notes**
 
@@ -919,7 +919,7 @@ The approval of the Secretary of the department in which the Coast Guard is oper
 
 2016—Pub. L. 114–120 substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary of Transportation”.
 
-### § 535d. Permitting for international bridges
+### § 535d. Permitting for international bridges
 
 **(a) Definitions** In this section:
 
@@ -997,7 +997,7 @@ As a condition on a Presidential permit considered to be granted under subparagr
 
 **(4)** exempts an eligible applicant from complying with Public Law 91–190 (42 U.S.C. 4321 et seq.) or any other law.
 
-(Pub. L. 92–434, § 6, as added Pub. L. 118–31, div. E, title LIV, § 5414, Dec. 22, 2023, 137 Stat. 954.)
+(Pub. L. 92–434, § 6, as added Pub. L. 118–31, div. E, title LIV, § 5414, Dec. 22, 2023, 137 Stat. 954.)
 
 **Editorial Notes**
 
@@ -1005,13 +1005,13 @@ As a condition on a Presidential permit considered to be granted under subparagr
 
 Executive Order 13867, referred to in subsec. (a)(2)(A)(ii), is Ex. Ord. No. 13867, Apr. 10, 2019, 84 F.R. 15491, which is set out as a note under section 301 of Title 3, The President.
 
-Public Law 91–190, referred to in subsecs. (d)(2)(B), (e), and (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+Public Law 91–190, referred to in subsecs. (d)(2)(B), (e), and (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 535d, Pub. L. 92–434, § 6, Sept. 26, 1972, 86 Stat. 732, directed that tolls charged for use of an international bridge constructed or acquired under this subchapter by private individual, company, or other private entity be collected for a reasonable period for amortization of construction or acquisition costs, plus interest and reasonable return, that at end of such period the United States portion of bridge become the property of the State having jurisdiction over such United States portion, and that accurate records on expenditures and tolls collected be kept and annually reported to Secretary of Transportation, with authority for Secretary to conduct audits, prior to repeal by Pub. L. 100–17, title I, § 135(g), Apr. 2, 1987, 101 Stat. 174.
+A prior section 535d, Pub. L. 92–434, § 6, Sept. 26, 1972, 86 Stat. 732, directed that tolls charged for use of an international bridge constructed or acquired under this subchapter by private individual, company, or other private entity be collected for a reasonable period for amortization of construction or acquisition costs, plus interest and reasonable return, that at end of such period the United States portion of bridge become the property of the State having jurisdiction over such United States portion, and that accurate records on expenditures and tolls collected be kept and annually reported to Secretary of Transportation, with authority for Secretary to conduct audits, prior to repeal by Pub. L. 100–17, title I, § 135(g), Apr. 2, 1987, 101 Stat. 174.
 
-### § 535e. Ownership
+### § 535e. Ownership
 
 **(a) Sale, assignment, or transfer; approval of Secretary**
 
@@ -1019,42 +1019,42 @@ Nothing in this subchapter shall be deemed to prevent the individual, corporatio
 
 **(b) State status of original applicant upon acquisition of right, title, and interest after termination of private entity licenses, contracts, or orders**
 
-Upon the acquisition by a State or States, or by a subdivision or instrumentality thereof, of the right, title, and interest of a private individual, corporation, or other private entity, in and to an international bridge, any license, contract, or order issued or entered into by the Secretary of the department in which the Coast Guard is operating, to or with such private individual, corporation, or other private entity, shall be deemed terminated forthwith. Thereafter, the State, subdivision, or instrumentality so acquiring shall operate and maintain such bridge in the same manner as if it had been the original applicant, and the provisions of section 535d 1
+Upon the acquisition by a State or States, or by a subdivision or instrumentality thereof, of the right, title, and interest of a private individual, corporation, or other private entity, in and to an international bridge, any license, contract, or order issued or entered into by the Secretary of the department in which the Coast Guard is operating, to or with such private individual, corporation, or other private entity, shall be deemed terminated forthwith. Thereafter, the State, subdivision, or instrumentality so acquiring shall operate and maintain such bridge in the same manner as if it had been the original applicant, and the provisions of section 535d 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall not apply.
 
-(Pub. L. 92–434, § 8, Sept. 26, 1972, 86 Stat. 732; Pub. L. 114–120, title III, § 306(b)(6)(B), Feb. 8, 2016, 130 Stat. 56.)
+(Pub. L. 92–434, § 8, Sept. 26, 1972, 86 Stat. 732; Pub. L. 114–120, title III, § 306(b)(6)(B), Feb. 8, 2016, 130 Stat. 56.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 535d of this title, referred to in subsec. (b), was repealed by Pub. L. 100–17, title I, § 135(g), Apr. 2, 1987, 101 Stat. 174.
+Section 535d of this title, referred to in subsec. (b), was repealed by Pub. L. 100–17, title I, § 135(g), Apr. 2, 1987, 101 Stat. 174.
 
 **Amendments**
 
 2016—Subsecs. (a), (b). Pub. L. 114–120 substituted “Secretary of the department in which the Coast Guard is operating” for “Secretary of Transportation”.
 
-### § 535f. Applicability of provisions
+### § 535f. Applicability of provisions
 
 This subchapter shall apply to all international bridges constructed under the authority of this subchapter. Section 535a of this title and section 129(a)(3) of title 23, shall apply to all international bridges the construction of which has been heretofore approved by Congress, notwithstanding any conflicting provision in any Act authorizing the construction of such a bridge or in any agreement entered into by the Federal Government and a State.
 
-(Pub. L. 92–434, § 9, Sept. 26, 1972, 86 Stat. 733.)
+(Pub. L. 92–434, § 9, Sept. 26, 1972, 86 Stat. 733.)
 
-### § 535g. Federal navigable waters and commerce jurisdiction unaffected
+### § 535g. Federal navigable waters and commerce jurisdiction unaffected
 
 Nothing in this subchapter shall be construed to affect, impair, or diminish any right, power, or jurisdiction of the United States over or in regard to any navigable water or any interstate or foreign commerce.
 
-(Pub. L. 92–434, § 10, Sept. 26, 1972, 86 Stat. 733.)
+(Pub. L. 92–434, § 10, Sept. 26, 1972, 86 Stat. 733.)
 
-### § 535h. Repealed. Pub. L. 114–120, title III, § 306(b)(6)(C), Feb. 8, 2016, 130 Stat. 56
+### § 535h. Repealed. Pub. L. 114–120, title III, § 306(b)(6)(C), Feb. 8, 2016, 130 Stat. 56
 
-Section, Pub. L. 92–434, § 11, Sept. 26, 1972, 86 Stat. 733, related to report of Secretary of Transportation’s approvals granted during fiscal year pursuant to section 535c of this title.
+Section, Pub. L. 92–434, § 11, Sept. 26, 1972, 86 Stat. 733, related to report of Secretary of Transportation’s approvals granted during fiscal year pursuant to section 535c of this title.
 
-### § 535i. Reservation of right to alter or repeal
+### § 535i. Reservation of right to alter or repeal
 
 The right to alter, amend, or repeal this subchapter is expressly reserved.
 
-(Pub. L. 92–434, § 12, Sept. 26, 1972, 86 Stat. 733.)
+(Pub. L. 92–434, § 12, Sept. 26, 1972, 86 Stat. 733.)

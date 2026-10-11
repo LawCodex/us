@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 201 “DEFINITIONS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3001, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), Jan. 1, 2021, 134 Stat. 4151.
+A prior chapter 201 “DEFINITIONS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3001, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), Jan. 1, 2021, 134 Stat. 4151.
 
 ## SUBCHAPTER I—DEFINITIONS RELATING TO DEFENSE ACQUISITION SYSTEM GENERALLY
 
@@ -27,9 +27,9 @@ A prior chapter 201 “DEFINITIONS”, as added by Pub. L. 115–232, div. A, ti
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(1)(A), Dec. 27, 2021, 135 Stat. 2140, amended Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), Jan. 1, 2021, 134 Stat. 4151, which added this analysis, by substituting “[Reserved]” for “Defense Federal Acquisition Regulation Supplement” in item 3003 and for “Service chief concerned” in item 3005.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(i)(1)(A), Dec. 27, 2021, 135 Stat. 2140, amended Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), Jan. 1, 2021, 134 Stat. 4151, which added this analysis, by substituting “[Reserved]” for “Defense Federal Acquisition Regulation Supplement” in item 3003 and for “Service chief concerned” in item 3005.
 
-### § 3001. Defense acquisition system; element of the defense acquisition system
+### § 3001. Defense acquisition system; element of the defense acquisition system
 
 **(a) Defense Acquisition System.—** In this part, the term “defense acquisition system” means—
 
@@ -49,15 +49,15 @@ A prior chapter 201 “DEFINITIONS”, as added by Pub. L. 115–232, div. A, ti
 
 **(c) Acquisition.—** In this part, the term “acquisition” has the meaning provided in section 131 of title 41.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1)–(4), Jan. 1, 2021, 134 Stat. 4152; Pub. L. 117–81, div. A, title XVII, § 1701(b)(1), Dec. 27, 2021, 135 Stat. 2132; Pub. L. 119–60, div. A, title XVIII, § 1801(e)(2), Dec. 18, 2025, 139 Stat. 1225.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1)–(4), Jan. 1, 2021, 134 Stat. 4152; Pub. L. 117–81, div. A, title XVII, § 1701(b)(1), Dec. 27, 2021, 135 Stat. 2132; Pub. L. 119–60, div. A, title XVIII, § 1801(e)(2), Dec. 18, 2025, 139 Stat. 1225.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of pars. (2), (3), and (1) of section 2545 of this title, which were transferred or copied to this section, redesignated as subsecs. (a), (b), and (c), respectively, and amended by Pub. L. 116–283, § 1806(a)(2)–(4), was based on Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4288; Pub. L. 113–291, div. A, title X, § 1071(a)(11), Dec. 19, 2014, 128 Stat. 3505.
+The text of pars. (2), (3), and (1) of section 2545 of this title, which were transferred or copied to this section, redesignated as subsecs. (a), (b), and (c), respectively, and amended by Pub. L. 116–283, § 1806(a)(2)–(4), was based on Pub. L. 111–383, div. A, title VIII, § 861(a), Jan. 7, 2011, 124 Stat. 4288; Pub. L. 113–291, div. A, title X, § 1071(a)(11), Dec. 19, 2014, 128 Stat. 3505.
 
-Section 2545 of this title, which was transferred or copied in large part to this section by Pub. L. 116–283, § 1806(a)(2)–(4), was also transferred to section 3101 of this title by Pub. L. 116–283, § 1808(a)(2).
+Section 2545 of this title, which was transferred or copied in large part to this section by Pub. L. 116–283, § 1806(a)(2)–(4), was also transferred to section 3101 of this title by Pub. L. 116–283, § 1808(a)(2).
 
 **Prior Provisions**
 
@@ -67,11 +67,11 @@ A prior section 3001 was renumbered section 7001 of this title.
 
 2025—Subsec. (c). Pub. L. 119–60 substituted “this part” for “this section”.
 
-2021—Subsec. (a). Pub. L. 116–283, § 1806(a)(2), redesignated par. (2) of section 2545 of this title as subsec. (a) of this section, inserted heading and realigned margin, substituted “In this part, the term” for “The term”, and inserted dash after “means”, par. (1) designation before “the workforce”, par. (2) designation before “the management”, and par. (3) designation before “the statutory,”.
+2021—Subsec. (a). Pub. L. 116–283, § 1806(a)(2), redesignated par. (2) of section 2545 of this title as subsec. (a) of this section, inserted heading and realigned margin, substituted “In this part, the term” for “The term”, and inserted dash after “means”, par. (1) designation before “the workforce”, par. (2) designation before “the management”, and par. (3) designation before “the statutory,”.
 
-Subsec. (b). Pub. L. 116–283, § 1806(a)(3), redesignated par. (3) of section 2545 of this title as subsec. (b) of this section, inserted heading and realigned margin, substituted “In this part, the term” for “The term”, “workforce;” for “workforce,”, and “functions;” for “functions,”, and inserted dash after “organization that”, par. (1) designation before “employs”, par. (2) designation before “carries out”, and par. (3) designation before “focuses”.
+Subsec. (b). Pub. L. 116–283, § 1806(a)(3), redesignated par. (3) of section 2545 of this title as subsec. (b) of this section, inserted heading and realigned margin, substituted “In this part, the term” for “The term”, “workforce;” for “workforce,”, and “functions;” for “functions,”, and inserted dash after “organization that”, par. (1) designation before “employs”, par. (2) designation before “carries out”, and par. (3) designation before “focuses”.
 
-Subsec. (c). Pub. L. 116–283, § 1806(a)(4), as amended by Pub. L. 117–81, § 1701(b)(1), added subsec. (c) consisting of text of par. (1) of section 2545 of this title, inserted heading, and substituted “In this section, the term” for “The term”.
+Subsec. (c). Pub. L. 116–283, § 1806(a)(4), as amended by Pub. L. 117–81, § 1701(b)(1), added subsec. (c) consisting of text of par. (1) of section 2545 of this title, inserted heading, and substituted “In this section, the term” for “The term”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -83,21 +83,21 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding this section.
 
-### § 3002. Federal Acquisition Regulation
+### § 3002. Federal Acquisition Regulation
 
 In this part, the term “Federal Acquisition Regulation” means the Federal Acquisition Regulation issued pursuant to section 1303(a)(1) of title 41.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), (5), Jan. 1, 2021, 134 Stat. 4152.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), (5), Jan. 1, 2021, 134 Stat. 4152.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of par. (6) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(a)(5), was based on Pub. L. 101–189, div. A, title VIII, § 853(b)(1), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 111–350, § 5(b)(8)(B), Jan. 4, 2011, 124 Stat. 3843.
+The text of par. (6) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(a)(5), was based on Pub. L. 101–189, div. A, title VIII, § 853(b)(1), Nov. 29, 1989, 103 Stat. 1518; Pub. L. 111–350, § 5(b)(8)(B), Jan. 4, 2011, 124 Stat. 3843.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1806(a)(5), transferred par. (6) of section 2302 of this title to this section, realigned margin, struck out par. (6) designation at beginning, and substituted “In this part, the term” for “The term”.
+2021—Pub. L. 116–283, § 1806(a)(5), transferred par. (6) of section 2302 of this title to this section, realigned margin, struck out par. (6) designation at beginning, and substituted “In this part, the term” for “The term”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -105,15 +105,15 @@ The text of par. (6) of section 2302 of this title, which was transferred to thi
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-### § 3003. [Reserved]
+### § 3003. [Reserved]
 
-(Added Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), Jan. 1, 2021, 134 Stat. 4152; amended Pub. L. 117–81, div. A, title XVII, § 1701(i)(1)(B), Dec. 27, 2021, 135 Stat. 2140.)
+(Added Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), Jan. 1, 2021, 134 Stat. 4152; amended Pub. L. 117–81, div. A, title XVII, § 1701(i)(1)(B), Dec. 27, 2021, 135 Stat. 2140.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 1701(i)(1)(B), amended Pub. L. 116–283, § 1806(a)(1), which enacted this section, by adding section 3003 designation and catchline “[Reserved]” and striking out former section 3003 designation and catchline “Defense Federal Acquisition Regulation Supplement”.
+2021—Pub. L. 117–81, § 1701(i)(1)(B), amended Pub. L. 116–283, § 1806(a)(1), which enacted this section, by adding section 3003 designation and catchline “[Reserved]” and striking out former section 3003 designation and catchline “Defense Federal Acquisition Regulation Supplement”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -125,21 +125,21 @@ Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission o
 
 Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-### § 3004. Head of an agency
+### § 3004. Head of an agency
 
 In this part, the term “head of an agency” means the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of Homeland Security, and the Administrator of the National Aeronautics and Space Administration.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), (6), Jan. 1, 2021, 134 Stat. 4152, 4153.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), (6), Jan. 1, 2021, 134 Stat. 4152, 4153.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of par. (1) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(a)(6), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 127; Pub. L. 85–568, title III, § 301(b), July 29, 1958, 72 Stat. 432; 96–513, title V, § 511(74), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–369, div. B, title VII, § 2722(a), July 18, 1984, 98 Stat. 1186; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.
+The text of par. (1) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(a)(6), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 127; Pub. L. 85–568, title III, § 301(b), July 29, 1958, 72 Stat. 432; 96–513, title V, § 511(74), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–369, div. B, title VII, § 2722(a), July 18, 1984, 98 Stat. 1186; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1806(a)(6), transferred par. (1) of section 2302 of this title to this section, realigned margin, struck out par. (1) designation at beginning, and substituted “In this part, the term” for “The term”.
+2021—Pub. L. 116–283, § 1806(a)(6), transferred par. (1) of section 2302 of this title to this section, realigned margin, struck out par. (1) designation at beginning, and substituted “In this part, the term” for “The term”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,15 +147,15 @@ The text of par. (1) of section 2302 of this title, which was transferred to thi
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-### § 3005. [Reserved]
+### § 3005. [Reserved]
 
-(Added Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), Jan. 1, 2021, 134 Stat. 4152; amended Pub. L. 117–81, div. A, title XVII, § 1701(i)(1)(C), Dec. 27, 2021, 135 Stat. 2141.)
+(Added Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), Jan. 1, 2021, 134 Stat. 4152; amended Pub. L. 117–81, div. A, title XVII, § 1701(i)(1)(C), Dec. 27, 2021, 135 Stat. 2141.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 1701(i)(1)(C), amended Pub. L. 116–283, § 1806(a)(1), which enacted this section, by adding section 3005 designation and heading “[Reserved]” and striking out former section 3005 heading and catchline “Service chief concerned”.
+2021—Pub. L. 117–81, § 1701(i)(1)(C), amended Pub. L. 116–283, § 1806(a)(1), which enacted this section, by adding section 3005 designation and heading “[Reserved]” and striking out former section 3005 heading and catchline “Service chief concerned”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -167,11 +167,11 @@ Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission o
 
 Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-### § 3006. Acquisition workforce
+### § 3006. Acquisition workforce
 
 For the definition of the term “acquisition workforce” for the purposes of this part, see section 101(a)(18) of this title.
 
-(Added Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), Jan. 1, 2021, 134 Stat. 4152.)
+(Added Pub. L. 116–283, div. A, title XVIII, § 1806(a)(1), Jan. 1, 2021, 134 Stat. 4152.)
 
 **Editorial Notes**
 
@@ -187,7 +187,7 @@ Section effective Jan. 1, 2022, with additional provisions for delayed implement
 
 ## SUBCHAPTER II—DEFINITIONS APPLICABLE TO PROCUREMENT GENERALLY
 
-### § 3011. Definitions incorporated from title 41
+### § 3011. Definitions incorporated from title 41
 
 In any chapter 137 legacy provision, the following terms have the meanings provided such terms in chapter 1 of title 41:
 
@@ -217,13 +217,13 @@ In any chapter 137 legacy provision, the following terms have the meanings provi
 
 **(13)** The term “component”.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1), (2), Jan. 1, 2021, 134 Stat. 4153.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1), (2), Jan. 1, 2021, 134 Stat. 4153.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of par. (3) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(b)(2), was based on Pub. L. 103–355, title I, § 1502(1), Oct. 13, 1994, 108 Stat. 3296; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(3), Feb. 10, 1996, 110 Stat. 672; Pub. L. 111–350, § 5(b)(8), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 115–232, div. A, title VIII, § 836(c)(1), Aug. 13, 2018, 132 Stat. 1864.
+The text of par. (3) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(b)(2), was based on Pub. L. 103–355, title I, § 1502(1), Oct. 13, 1994, 108 Stat. 3296; Pub. L. 104–106, div. D, title XLIII, § 4321(b)(3), Feb. 10, 1996, 110 Stat. 672; Pub. L. 111–350, § 5(b)(8), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 115–232, div. A, title VIII, § 836(c)(1), Aug. 13, 2018, 132 Stat. 1864.
 
 **Prior Provisions**
 
@@ -233,7 +233,7 @@ Another prior section 3011 was renumbered section 7012 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1806(b)(2), transferred par. (3) of section 2302 of this title to this section, realigned margin, struck out par. (3) designation at beginning, substituted “In any chapter 137 legacy provision, the following” for “The following” in introductory provisions, and redesignated subpars. (A) to (M) as pars. (1) to (13), respectively.
+2021—Pub. L. 116–283, § 1806(b)(2), transferred par. (3) of section 2302 of this title to this section, realigned margin, struck out par. (3) designation at beginning, substituted “In any chapter 137 legacy provision, the following” for “The following” in introductory provisions, and redesignated subpars. (A) to (M) as pars. (1) to (13), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -241,7 +241,7 @@ Another prior section 3011 was renumbered section 7012 of this title.
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-### § 3012. Competitive procedures
+### § 3012. Competitive procedures
 
 In this part, the term “competitive procedures” means procedures under which the head of an agency enters into a contract pursuant to full and open competition. Such term also includes—
 
@@ -259,13 +259,13 @@ In this part, the term “competitive procedures” means procedures under which
 
 **(5)** a competitive selection of research proposals resulting from a general solicitation and peer review or scientific review (as appropriate) solicited pursuant to section 9 of the Small Business Act (15 U.S.C. 638).
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1), (3), Jan. 1, 2021, 134 Stat. 4153; Pub. L. 119–60, div. A, title VIII, § 812(a)(3), Dec. 18, 2025, 139 Stat. 951.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1), (3), Jan. 1, 2021, 134 Stat. 4153; Pub. L. 119–60, div. A, title VIII, § 812(a)(3), Dec. 18, 2025, 139 Stat. 951.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of par. (2) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(b)(3), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 127; Pub. L. 98–369, div. B, title VII, § 2722(a), July 18, 1984, 98 Stat. 1186; Pub. L. 98–577, title V, § 504(b)(3), Oct. 30, 1984, 98 Stat. 3087; Pub. L. 99–661, div. A, title XIII, § 1343(a)(13), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 107–217, § 3(b)(2), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 115–91, div. A, title II, § 221, Dec. 12, 2017, 131 Stat. 1333.
+The text of par. (2) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(b)(3), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 127; Pub. L. 98–369, div. B, title VII, § 2722(a), July 18, 1984, 98 Stat. 1186; Pub. L. 98–577, title V, § 504(b)(3), Oct. 30, 1984, 98 Stat. 3087; Pub. L. 99–661, div. A, title XIII, § 1343(a)(13), Nov. 14, 1986, 100 Stat. 3993; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 107–217, § 3(b)(2), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 115–91, div. A, title II, § 221, Dec. 12, 2017, 131 Stat. 1333.
 
 **Prior Provisions**
 
@@ -277,7 +277,7 @@ Another prior section 3012 was renumbered section 3013 of this title and subsequ
 
 2025—Par. (3)(B). Pub. L. 119–60 substituted “best value” for “lowest overall cost alternative”.
 
-2021—Pub. L. 116–283, § 1806(b)(3), transferred par. (2) of section 2302 of this title to this section, realigned margin, struck out par. (2) designation at beginning, substituted “In this part, the term” for “The term” in introductory provisions, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and, in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
+2021—Pub. L. 116–283, § 1806(b)(3), transferred par. (2) of section 2302 of this title to this section, realigned margin, struck out par. (2) designation at beginning, substituted “In this part, the term” for “The term” in introductory provisions, redesignated subpars. (A) to (E) as pars. (1) to (5), respectively, and, in par. (3), redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -285,29 +285,29 @@ Another prior section 3012 was renumbered section 3013 of this title and subsequ
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-### § 3013. Technical data
+### § 3013. Technical data
 
 In any chapter 137 legacy provision, the term “technical data” means recorded information (regardless of the form or method of the recording) of a scientific or technical nature (including computer software documentation) relating to supplies procured by an agency. Such term does not include computer software or financial, administrative, cost or pricing, or management data or other information incidental to contract administration.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1), (4), Jan. 1, 2021, 134 Stat. 4153.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1), (4), Jan. 1, 2021, 134 Stat. 4153.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of par. (4) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(b)(4), was based on Pub. L. 98–525, title XII, § 1211, Oct. 19, 1984, 98 Stat. 2589; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284.
+The text of par. (4) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(b)(4), was based on Pub. L. 98–525, title XII, § 1211, Oct. 19, 1984, 98 Stat. 2589; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284.
 
 **Prior Provisions**
 
 A prior section 3013 was renumbered section 7013 of this title.
 
-Another prior section 3013, acts Aug. 10, 1956, ch. 1041, 70A Stat. 157, § 3012; Sept. 2, 1958, Pub. L. 85–861, § 1(57), 72 Stat. 1462; Sept. 7, 1962, Pub. L. 87–651, title II, § 211, 76 Stat. 524; Aug. 14, 1964, Pub. L. 88–426, title III, §§ 305(2), 306(j)(1), 78 Stat. 422, 431; Nov. 2, 1966, Pub. L. 89–718, § 22, 80 Stat. 1118; renumbered § 3013, Oct. 1, 1986, Pub. L. 99–433, title V, § 501(a)(2), 100 Stat. 1034, related to Secretary of the Army, powers and duties, and delegations, prior to repeal by Pub. L. 99–433, § 501(a)(5).
+Another prior section 3013, acts Aug. 10, 1956, ch. 1041, 70A Stat. 157, § 3012; Sept. 2, 1958, Pub. L. 85–861, § 1(57), 72 Stat. 1462; Sept. 7, 1962, Pub. L. 87–651, title II, § 211, 76 Stat. 524; Aug. 14, 1964, Pub. L. 88–426, title III, §§ 305(2), 306(j)(1), 78 Stat. 422, 431; Nov. 2, 1966, Pub. L. 89–718, § 22, 80 Stat. 1118; renumbered § 3013, Oct. 1, 1986, Pub. L. 99–433, title V, § 501(a)(2), 100 Stat. 1034, related to Secretary of the Army, powers and duties, and delegations, prior to repeal by Pub. L. 99–433, § 501(a)(5).
 
 Another prior section 3013 was renumbered section 3014 of this title and subsequently repealed.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1806(b)(4), transferred par. (4) of section 2302 of this title to this section, realigned margin, struck out par. (4) designation at beginning, and substituted “In any chapter 137 legacy provision, the term” for “The term”.
+2021—Pub. L. 116–283, § 1806(b)(4), transferred par. (4) of section 2302 of this title to this section, realigned margin, struck out par. (4) designation at beginning, and substituted “In any chapter 137 legacy provision, the term” for “The term”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -315,23 +315,23 @@ Another prior section 3013 was renumbered section 3014 of this title and subsequ
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-### § 3014. Nontraditional defense contractor
+### § 3014. Nontraditional defense contractor
 
 In this part, the term “nontraditional defense contractor”, with respect to a procurement or with respect to a transaction authorized under section 4021(a) or 4022 of this title, means an entity that is not currently performing and has not performed, for at least the one-year period preceding the solicitation of sources by the Department of Defense for the procurement or transaction, any contract or subcontract for the Department of Defense that is subject to full coverage under the cost accounting standards prescribed pursuant to section 1502 of title 41 and the regulations implementing such section.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1), (5), Jan. 1, 2021, 134 Stat. 4153, 4154; Pub. L. 117–263, div. A, title X, § 1081(a)(4), Dec. 23, 2022, 136 Stat. 2797.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1), (5), Jan. 1, 2021, 134 Stat. 4153, 4154; Pub. L. 117–263, div. A, title X, § 1081(a)(4), Dec. 23, 2022, 136 Stat. 2797.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of par. (9) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(b)(5), was based on Pub. L. 111–383, div. A, title VIII, § 866(g)(1), Jan. 7, 2011, 124 Stat. 4298; Pub. L. 113–291, div. A, title X, § 1071(a)(2)(B), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, § 815(b), Nov. 25, 2015, 129 Stat. 896.
+The text of par. (9) of section 2302 of this title, which was transferred to this section and amended by Pub. L. 116–283, § 1806(b)(5), was based on Pub. L. 111–383, div. A, title VIII, § 866(g)(1), Jan. 7, 2011, 124 Stat. 4298; Pub. L. 113–291, div. A, title X, § 1071(a)(2)(B), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, § 815(b), Nov. 25, 2015, 129 Stat. 896.
 
 **Prior Provisions**
 
 A prior section 3014 was renumbered section 7014 of this title.
 
-Another prior section 3014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 158, § 3013; Aug. 6, 1958, Pub. L. 85–599, § 8(a), 72 Stat. 519; Sept. 2, 1958, Pub. L. 85–861, § 1(58), 72 Stat. 1462; Aug. 14, 1964, Pub. L. 88–426, title III, § 305(3), 78 Stat. 422; Dec. 1, 1967, Pub. L. 90–168, § 2(12), 81 Stat. 523; Dec. 31, 1970, Pub. L. 91–611, title II, § 211(a), 84 Stat. 1829; Nov. 9, 1979, Pub. L. 96–107, title VIII, § 820(b), 93 Stat. 819; Sept. 24, 1983, Pub. L. 98–94, title XII, § 1212(c)(1), 97 Stat. 687; renumbered § 3014, Oct. 1, 1986, Pub. L. 99–433, title V, § 501(a)(2), 100 Stat. 1034, related to Under Secretary and Assistant Secretaries of the Army, appointment, and duties, prior to repeal by Pub. L. 99–433, § 501(a)(5).
+Another prior section 3014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 158, § 3013; Aug. 6, 1958, Pub. L. 85–599, § 8(a), 72 Stat. 519; Sept. 2, 1958, Pub. L. 85–861, § 1(58), 72 Stat. 1462; Aug. 14, 1964, Pub. L. 88–426, title III, § 305(3), 78 Stat. 422; Dec. 1, 1967, Pub. L. 90–168, § 2(12), 81 Stat. 523; Dec. 31, 1970, Pub. L. 91–611, title II, § 211(a), 84 Stat. 1829; Nov. 9, 1979, Pub. L. 96–107, title VIII, § 820(b), 93 Stat. 819; Sept. 24, 1983, Pub. L. 98–94, title XII, § 1212(c)(1), 97 Stat. 687; renumbered § 3014, Oct. 1, 1986, Pub. L. 99–433, title V, § 501(a)(2), 100 Stat. 1034, related to Under Secretary and Assistant Secretaries of the Army, appointment, and duties, prior to repeal by Pub. L. 99–433, § 501(a)(5).
 
 Another prior section 3014 was renumbered section 3015 of this title and subsequently repealed.
 
@@ -339,7 +339,7 @@ Another prior section 3014 was renumbered section 3015 of this title and subsequ
 
 2022—Pub. L. 117–263 substituted “section 4021(a) or 4022” for “section 4002(a) or 4003”.
 
-2021—Pub. L. 116–283, § 1806(b)(5), transferred par. (9) of section 2302 of this title to this section, realigned margin, struck out par. (9) designation at beginning, and substituted “In this part, the term” for “The term” and “section 4002(a) or 4003” for “section 2371(a) or 2371b”.
+2021—Pub. L. 116–283, § 1806(b)(5), transferred par. (9) of section 2302 of this title to this section, realigned margin, struck out par. (9) designation at beginning, and substituted “In this part, the term” for “The term” and “section 4002(a) or 4003” for “section 2371(a) or 2371b”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -349,7 +349,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **Exemptions for Nontraditional Defense Contractors**
 
-Pub. L. 119–60, div. A, title XVIII, § 1826, Dec. 18, 2025, 139 Stat. 1249, provided that:
+Pub. L. 119–60, div. A, title XVIII, § 1826, Dec. 18, 2025, 139 Stat. 1249, provided that:
 
 > **“(a) Exemption.—** For the purposes of contracts, subcontracts, or agreements of the Department of Defense, products and services provided by nontraditional defense contractors (as defined in section 3014 of title 10, United States Code) shall be exempt from the following requirements:
 
@@ -383,7 +383,7 @@ Pub. L. 119–60, div. A, title XVIII, § 1826, Dec. 18, 2025, 139 Stat. 1249,
 
 > **“(4) Congressional notice.—** Not later than 60 days after the date on which a waiver is issued under this section, the Secretary of Defense shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notice of the waiver, including with a discussion of efforts made to adapt the acquisition approach for the product or service with respect to which the such waiver was granted so that such waiver would not be necessary.”
 
-### § 3015. Simplified acquisition threshold
+### § 3015. Simplified acquisition threshold
 
 In this part:
 
@@ -391,25 +391,25 @@ In this part:
 
 **(2)** The term “humanitarian or peacekeeping operation” means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1), (6), Jan. 1, 2021, 134 Stat. 4153, 4154.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(b)(1), (6), Jan. 1, 2021, 134 Stat. 4153, 4154.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of pars. (7) and (8) of section 2302 of this title, which were transferred to this section, redesignated as pars. (1) and (2), respectively, and amended by Pub. L. 116–283, § 1806(b)(6), was based on Pub. L. 103–355, title I, § 1502, Oct. 13, 1994, 108 Stat. 3296; Pub. L. 104–201, div. A, title VIII, § 807(a), Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title VIII, § 803(b), Nov. 18, 1997, 111 Stat. 1832; Pub. L. 111–350, § 5(b)(8)(C), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 113–291, div. A, title X, § 1071(a)(2)(A), Dec. 19, 2014, 128 Stat. 3504.
+The text of pars. (7) and (8) of section 2302 of this title, which were transferred to this section, redesignated as pars. (1) and (2), respectively, and amended by Pub. L. 116–283, § 1806(b)(6), was based on Pub. L. 103–355, title I, § 1502, Oct. 13, 1994, 108 Stat. 3296; Pub. L. 104–201, div. A, title VIII, § 807(a), Sept. 23, 1996, 110 Stat. 2606; Pub. L. 105–85, div. A, title VIII, § 803(b), Nov. 18, 1997, 111 Stat. 1832; Pub. L. 111–350, § 5(b)(8)(C), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 113–291, div. A, title X, § 1071(a)(2)(A), Dec. 19, 2014, 128 Stat. 3504.
 
 **Prior Provisions**
 
 A prior section 3015 was renumbered section 7015 of this title.
 
-Another prior section 3015, acts Aug. 10, 1956, ch. 1041, 70A Stat. 158, § 3014; renumbered § 3015, Oct. 1, 1986, Pub. L. 99–433, title V, § 501(a)(2), 100 Stat. 1034, related to Comptroller and Deputy Comptroller of the Army, powers and duties, and appointment, prior to repeal by Pub. L. 99–433, § 501(a)(5).
+Another prior section 3015, acts Aug. 10, 1956, ch. 1041, 70A Stat. 158, § 3014; renumbered § 3015, Oct. 1, 1986, Pub. L. 99–433, title V, § 501(a)(2), 100 Stat. 1034, related to Comptroller and Deputy Comptroller of the Army, powers and duties, and appointment, prior to repeal by Pub. L. 99–433, § 501(a)(5).
 
 Another prior section 3015 was renumbered section 3040 of this title and subsequently repealed.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1806(b)(6), redesignated pars. (7) and (8) of section 2302 of this title as pars. (1) and (2), respectively, of this section and inserted introductory provisions.
+2021—Pub. L. 116–283, § 1806(b)(6), redesignated pars. (7) and (8) of section 2302 of this title as pars. (1) and (2), respectively, of this section and inserted introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -417,11 +417,11 @@ Another prior section 3015 was renumbered section 3040 of this title and subsequ
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-### § 3016. Chapter 137 legacy provisions
+### § 3016. Chapter 137 legacy provisions
 
 In this part, the term “chapter 137 legacy provisions” means the following sections of this title: sections 3002, 3004, 3011–3015, 3041, 3063–3069, 3134, 3151–3157, 3201–3208, 3221–3227, 3241, 3243, 3249, 3252, 3301–3309, 3321–3323, 3344, 3345, 3371–3375, 3377, 3401, 3403, 3405, 3406, 3501–3511, 3531–3535, 3571, 3572, 3573, 3701–3708, 3741–3750, 3761, 3771–3775, 3781–3786, 3791, 3794, 3801–3807, 3841, 3842, 3847, 3881, 3901, 3902, 4202(b), 4324, 4325, 4501, 4502, 4505, 4506, 4507, 4576, 4657, 4660, 4751, 4752, and 8751.
 
-(Added Pub. L. 116–283, div. A, title XVIII, § 1806(b)(7), Jan. 1, 2021, 134 Stat. 4154.)
+(Added Pub. L. 116–283, div. A, title XVIII, § 1806(b)(7), Jan. 1, 2021, 134 Stat. 4154.)
 
 **Editorial Notes**
 
@@ -433,7 +433,7 @@ Another prior section 3016 was renumbered section 7018 of this title.
 
 Prior sections 3017 and 3018 were renumbered sections 7017 and 7018 of this title, respectively.
 
-Another prior section 3018, added Pub. L. 85–861, § 1(59)(A), Sept. 2, 1958, 72 Stat. 1462, prescribed compensation of General Counsel of Department of the Army, prior to repeal by Pub. L. 88–426, title III, § 305(40)(A), Aug. 14, 1964, 78 Stat. 427, eff. first day of first pay period beginning on or after July 1, 1964.
+Another prior section 3018, added Pub. L. 85–861, § 1(59)(A), Sept. 2, 1958, 72 Stat. 1462, prescribed compensation of General Counsel of Department of the Army, prior to repeal by Pub. L. 88–426, title III, § 305(40)(A), Aug. 14, 1964, 78 Stat. 427, eff. first day of first pay period beginning on or after July 1, 1964.
 
 A prior section 3019 was renumbered section 7019 of this title.
 
@@ -463,13 +463,13 @@ Prior sections 3036 and 3037 were renumbered sections 7036 and 7037 of this titl
 
 A prior section 3038 was renumbered section 7038 of this title.
 
-Another prior section 3038, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, charged Chief of Engineers with responsibility for Army construction, real estate acquisition and management, and the operation of water, gas, electric, and sewer utilities, prior to repeal by Pub. L. 89–718, § 25(a), Nov. 2, 1966, 80 Stat. 1119.
+Another prior section 3038, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, charged Chief of Engineers with responsibility for Army construction, real estate acquisition and management, and the operation of water, gas, electric, and sewer utilities, prior to repeal by Pub. L. 89–718, § 25(a), Nov. 2, 1966, 80 Stat. 1119.
 
-A prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 165, § 3040; Pub. L. 95–485, title VIII, § 805(a), Oct. 20, 1978, 92 Stat. 1621; renumbered § 3039 and amended Pub. L. 99–433, title V, § 502(f)(2), Oct. 1, 1986, 100 Stat. 1042, related to deputy and assistant chiefs of branches, prior to repeal by Pub. L. 114–328, div. A, title V, § 502(n)(1), Dec. 23, 2016, 130 Stat. 2103.
+A prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 165, § 3040; Pub. L. 95–485, title VIII, § 805(a), Oct. 20, 1978, 92 Stat. 1621; renumbered § 3039 and amended Pub. L. 99–433, title V, § 502(f)(2), Oct. 1, 1986, 100 Stat. 1042, related to deputy and assistant chiefs of branches, prior to repeal by Pub. L. 114–328, div. A, title V, § 502(n)(1), Dec. 23, 2016, 130 Stat. 2103.
 
-Another prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, related to Inspector General and Provost Marshal General, prior to repeal by Pub. L. 99–433, § 502(f)(1). See section 7020 of this title.
+Another prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, related to Inspector General and Provost Marshal General, prior to repeal by Pub. L. 99–433, § 502(f)(1). See section 7020 of this title.
 
-A prior section 3040, acts Aug. 10, 1956, ch. 1041, 70A Stat. 159, § 3015; Aug. 6, 1958, Pub. L. 85–599, § 12, 72 Stat. 521; renumbered § 3040, Oct. 1, 1986, Pub. L. 99–433, title V, § 501(a)(1), 100 Stat. 1034; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to National Guard Bureau, Chief of Bureau, appointment and acting Chief, prior to repeal by Pub. L. 103–337, div. A, title IX, § 904(b)(1), (d), Oct. 5, 1994, 108 Stat. 2827, effective at the end of the 90-day period beginning on Oct. 5, 1994. See sections 10501, 10502, and 10505 of this title.
+A prior section 3040, acts Aug. 10, 1956, ch. 1041, 70A Stat. 159, § 3015; Aug. 6, 1958, Pub. L. 85–599, § 12, 72 Stat. 521; renumbered § 3040, Oct. 1, 1986, Pub. L. 99–433, title V, § 501(a)(1), 100 Stat. 1034; Sept. 29, 1988, Pub. L. 100–456, div. A, title XII, § 1234(a)(1), 102 Stat. 2059, related to National Guard Bureau, Chief of Bureau, appointment and acting Chief, prior to repeal by Pub. L. 103–337, div. A, title IX, § 904(b)(1), (d), Oct. 5, 1994, 108 Stat. 2827, effective at the end of the 90-day period beginning on Oct. 5, 1994. See sections 10501, 10502, and 10505 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -479,7 +479,7 @@ Section effective Jan. 1, 2022, with additional provisions for delayed implement
 
 ## SUBCHAPTER III—DEFINITIONS RELATING TO MAJOR SYSTEMS AND MAJOR DEFENSE ACQUISITION PROGRAMS
 
-### § 3041. Major system
+### § 3041. Major system
 
 **(a) In General.—** In this part (other than in sections 4292(e) and 4321), the term “major system” means a combination of elements that will function together to produce the capabilities required to fulfill a mission need. The elements may include hardware, equipment, software or any combination thereof, but excludes construction or other improvements to real property.
 
@@ -505,31 +505,31 @@ Section effective Jan. 1, 2022, with additional provisions for delayed implement
 
 **(2)** the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(c), Jan. 1, 2021, 134 Stat. 4154; Pub. L. 119–60, div. A, title XVIII, § 1804(a), Dec. 18, 2025, 139 Stat. 1234.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1806(c), Jan. 1, 2021, 134 Stat. 4154; Pub. L. 119–60, div. A, title XVIII, § 1804(a), Dec. 18, 2025, 139 Stat. 1234.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of par. (5) of section 2302 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, § 1806(c)(2), was based on Pub. L. 98–525, title XII, § 1211, Oct. 19, 1984, 98 Stat. 2589; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 104–201, div. A, title VIII, § 805(a)(1), Sept. 23, 1996, 110 Stat. 2605.
+The text of par. (5) of section 2302 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, § 1806(c)(2), was based on Pub. L. 98–525, title XII, § 1211, Oct. 19, 1984, 98 Stat. 2589; Pub. L. 100–26, § 7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 104–201, div. A, title VIII, § 805(a)(1), Sept. 23, 1996, 110 Stat. 2605.
 
-The text of subsecs. (a) and (b) of section 2302d of this title, which were transferred to this section, redesignated as subsecs. (c) and (d), respectively, and amended by Pub. L. 116–283, § 1806(c)(3), was based on Pub. L. 104–201, div. A, title VIII, § 805(a)(2), Sept. 23, 1996, 110 Stat. 2605; Pub. L. 105–85, div. A, title X, § 1073(a)(41), Nov. 18, 1997, 111 Stat. 1902.
+The text of subsecs. (a) and (b) of section 2302d of this title, which were transferred to this section, redesignated as subsecs. (c) and (d), respectively, and amended by Pub. L. 116–283, § 1806(c)(3), was based on Pub. L. 104–201, div. A, title VIII, § 805(a)(2), Sept. 23, 1996, 110 Stat. 2605; Pub. L. 105–85, div. A, title X, § 1073(a)(41), Nov. 18, 1997, 111 Stat. 1902.
 
 **Amendments**
 
-2025—Subsec. (c)(1)(A). Pub. L. 119–60, § 1804(a)(1)(A), substituted “$275,000,000 (based on fiscal year 2024 constant dollars)” for “$115,000,000 (based on fiscal year 1990 constant dollars)”.
+2025—Subsec. (c)(1)(A). Pub. L. 119–60, § 1804(a)(1)(A), substituted “$275,000,000 (based on fiscal year 2024 constant dollars)” for “$115,000,000 (based on fiscal year 1990 constant dollars)”.
 
-Subsec. (c)(1)(B). Pub. L. 119–60, § 1804(a)(1)(B), substituted “$1,300,000,000 (based on fiscal year 2024 constant dollars)” for “$540,000,000 (based on fiscal year 1990 constant dollars)”.
+Subsec. (c)(1)(B). Pub. L. 119–60, § 1804(a)(1)(B), substituted “$1,300,000,000 (based on fiscal year 2024 constant dollars)” for “$540,000,000 (based on fiscal year 1990 constant dollars)”.
 
-Subsec. (d)(1). Pub. L. 119–60, § 1804(a)(2), substituted “$2,000,000 (based on fiscal year 2024 constant dollars)” for “$750,000 (based on fiscal year 1980 constant dollars)”.
+Subsec. (d)(1). Pub. L. 119–60, § 1804(a)(2), substituted “$2,000,000 (based on fiscal year 2024 constant dollars)” for “$750,000 (based on fiscal year 1980 constant dollars)”.
 
-2021—Subsec. (a). Pub. L. 116–283, § 1806(c)(2)(A), redesignated par. (5) of section 2302 of this title as subsec. (a) of this section, realigned margin, inserted heading, and substituted “In this part (other than in sections 4292(e) and 4321), the term” for “The term”. Former third sentence of subsec. (a) designated (b).
+2021—Subsec. (a). Pub. L. 116–283, § 1806(c)(2)(A), redesignated par. (5) of section 2302 of this title as subsec. (a) of this section, realigned margin, inserted heading, and substituted “In this part (other than in sections 4292(e) and 4321), the term” for “The term”. Former third sentence of subsec. (a) designated (b).
 
-Subsec. (b). Pub. L. 116–283, § 1806(c)(2)(B), (C), after transfer of section 2302(5) of this title to subsec. (a) of this section, designated third sentence of subsec. (a) as (b), inserted heading, and substituted “system if—” and pars. (1) and (2) for “system if (A) the conditions of section 2302d of this title are satisfied, or (B) the system is designated a ‘major system’ by the head of the agency responsible for the system.”
+Subsec. (b). Pub. L. 116–283, § 1806(c)(2)(B), (C), after transfer of section 2302(5) of this title to subsec. (a) of this section, designated third sentence of subsec. (a) as (b), inserted heading, and substituted “system if—” and pars. (1) and (2) for “system if (A) the conditions of section 2302d of this title are satisfied, or (B) the system is designated a ‘major system’ by the head of the agency responsible for the system.”
 
-Subsec. (c). Pub. L. 116–283, § 1806(c)(3), redesignated subsec. (a) of section 2302d of this title as subsec. (c) of this section, substituted “subsection (b)” for “section 2302(5) of this title” in introductory provisions, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+Subsec. (c). Pub. L. 116–283, § 1806(c)(3), redesignated subsec. (a) of section 2302d of this title as subsec. (c) of this section, substituted “subsection (b)” for “section 2302(5) of this title” in introductory provisions, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-Subsec. (d). Pub. L. 116–283, § 1806(c)(3), redesignated subsec. (b) of section 2302d of this title as subsec. (d) of this section and substituted “subsection (b)” for “section 2302(5) of this title” in introductory provisions.
+Subsec. (d). Pub. L. 116–283, § 1806(c)(3), redesignated subsec. (b) of section 2302d of this title as subsec. (d) of this section and substituted “subsection (b)” for “section 2302(5) of this title” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -537,11 +537,11 @@ Subsec. (d). Pub. L. 116–283, § 1806(c)(3), redesignated subsec. (b) of sec
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-### § 3042. Major defense acquisition program
+### § 3042. Major defense acquisition program
 
 For the definition of the term “major defense acquisition program” for purposes of this part, see section 4201 of this title.
 
-(Added Pub. L. 116–283, div. A, title XVIII, § 1806(c)(1), Jan. 1, 2021, 134 Stat. 4154.)
+(Added Pub. L. 116–283, div. A, title XVIII, § 1806(c)(1), Jan. 1, 2021, 134 Stat. 4154.)
 
 **Editorial Notes**
 

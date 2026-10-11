@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1988—Pub. L. 100–690, title VII, § 7101(c), Nov. 18, 1988, 102 Stat. 4415, added item 4106A.
+1988—Pub. L. 100–690, title VII, § 7101(c), Nov. 18, 1988, 102 Stat. 4415, added item 4106A.
 
-## § 4100. Scope and limitation of chapter
+## § 4100. Scope and limitation of chapter
 
 **(a)** The provisions of this chapter relating to the transfer of offenders shall be applicable only when a treaty providing for such a transfer is in force, and shall only be applicable to transfers of offenders to and from a foreign country pursuant to such a treaty. A sentence imposed by a foreign country upon an offender who is subsequently transferred to the United States pursuant to a treaty shall be subject to being fully executed in the United States even though the treaty under which the offender was transferred is no longer in force.
 
@@ -31,23 +31,23 @@ retrieved: 2026-10-11
 
 **(d)** The United States upon receiving notice from the country which imposed the sentence that the offender has been granted a pardon, commutation, or amnesty, or that there has been an ameliorating modification or a revocation of the sentence shall give the offender the benefit of the action taken by the sentencing country.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1212; amended Pub. L. 100–690, title VII, § 7101(e), Nov. 18, 1988, 102 Stat. 4416.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1212; amended Pub. L. 100–690, title VII, § 7101(e), Nov. 18, 1988, 102 Stat. 4416.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Subsec. (b). Pub. L. 100–690 inserted “, or is deemed by the verifying officer to be mentally incompetent or otherwise incapable of knowingly and voluntarily consenting to the transfer,” after “under eighteen years of age”, “, guardian ad litem,” after “guardian”, and “The appointment of a guardian ad litem shall be independent of the appointment of counsel under section 4109 of this title.”
+1988—Subsec. (b). Pub. L. 100–690 inserted “, or is deemed by the verifying officer to be mentally incompetent or otherwise incapable of knowingly and voluntarily consenting to the transfer,” after “under eighteen years of age”, “, guardian ad litem,” after “guardian”, and “The appointment of a guardian ad litem shall be independent of the appointment of counsel under section 4109 of this title.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Authorization of Appropriations**
 
-Pub. L. 95–144, § 5(a), Oct. 28, 1977, 91 Stat. 1221, provided that: “There is authorized to be appropriated such funds as may be required to carry out the purposes of this Act [which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title]”.
+Pub. L. 95–144, § 5(a), Oct. 28, 1977, 91 Stat. 1221, provided that: “There is authorized to be appropriated such funds as may be required to carry out the purposes of this Act [which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title]”.
 
 **Prisoner Transfer Treaties**
 
-Pub. L. 104–208, div. C, title III, § 330, Sept. 30, 1996, 110 Stat. 3009–631, provided that:
+Pub. L. 104–208, div. C, title III, § 330, Sept. 30, 1996, 110 Stat. 3009–631, provided that:
 
 > **“(a) Negotiations With Other Countries.—**
 
@@ -101,7 +101,7 @@ Pub. L. 104–208, div. C, title III, § 330, Sept. 30, 1996, 110 Stat. 3009�
 
 [For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.]
 
-## § 4101. Definitions
+## § 4101. Definitions
 
 As used in this chapter the term—
 
@@ -135,7 +135,7 @@ As used in this chapter the term—
 
 **(k)** “treaty” means a treaty under which an offender sentenced in the courts of one country may be transferred to the country of which he is a citizen or national for the purpose of serving the sentence.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1213; amended Pub. L. 98–473, title II, § 223(m)(1), Oct. 12, 1984, 98 Stat. 2029.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1213; amended Pub. L. 98–473, title II, § 223(m)(1), Oct. 12, 1984, 98 Stat. 2029.)
 
 **Editorial Notes**
 
@@ -151,7 +151,7 @@ Subsec. (g). Pub. L. 98–473 substituted “under which” for “to a penalty 
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 4102. Authority of the Attorney General
+## § 4102. Authority of the Attorney General
 
 The Attorney General is authorized—
 
@@ -177,25 +177,25 @@ The Attorney General is authorized—
 
 **(11)** to delegate the authority conferred by this chapter to officers of the Department of Justice.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1214.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1214.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Change of Name**
 
-Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
+Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695, which is classified to section 3508(b) of Title 20, Education.
 
 **Certification by Attorney General to Secretary of State for Reimbursement of Expenses Incurred Under Transfer Treaty**
 
-Pub. L. 95–144, § 5(b), Oct. 28, 1977, 91 Stat. 1221, provided that: “The Attorney General shall certify to the Secretary of State the expenses of the United States related to the return of an offender to the foreign country of which the offender is a citizen or national for which the United States is entitled to seek reimbursement from that country under a treaty providing for transfer and reimbursement.”
+Pub. L. 95–144, § 5(b), Oct. 28, 1977, 91 Stat. 1221, provided that: “The Attorney General shall certify to the Secretary of State the expenses of the United States related to the return of an offender to the foreign country of which the offender is a citizen or national for which the United States is entitled to seek reimbursement from that country under a treaty providing for transfer and reimbursement.”
 
-## § 4103. Applicability of United States laws
+## § 4103. Applicability of United States laws
 
 All laws of the United States, as appropriate, pertaining to prisoners, probationers, parolees, and juvenile offenders shall be applicable to offenders transferred to the United States, unless a treaty or this chapter provides otherwise.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1215.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1215.)
 
-## § 4104. Transfer of offenders on probation
+## § 4104. Transfer of offenders on probation
 
 **(a)** Prior to consenting to the transfer to the United States of an offender who is on probation, the Attorney General shall determine that the appropriate United States district court is willing to undertake the supervision of the offender.
 
@@ -209,7 +209,7 @@ All laws of the United States, as appropriate, pertaining to prisoners, probatio
 
 **(f)** Prior to consenting to the transfer from the United States of an offender who is on probation, the Attorney General shall obtain the assent of the court exercising jurisdiction over the probationer.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1215; amended Pub. L. 107–273, div. B, title IV, § 4002(e)(6), Nov. 2, 2002, 116 Stat. 1810.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1215; amended Pub. L. 107–273, div. B, title IV, § 4002(e)(6), Nov. 2, 2002, 116 Stat. 1810.)
 
 **Editorial Notes**
 
@@ -217,7 +217,7 @@ All laws of the United States, as appropriate, pertaining to prisoners, probatio
 
 2002—Subsec. (d). Pub. L. 107–273 substituted “section 3565 of this title and the applicable provisions of” for “section 3653 of this title and rule 32(f) of”.
 
-## § 4105. Transfer of offenders serving sentence of imprisonment
+## § 4105. Transfer of offenders serving sentence of imprisonment
 
 **(a)** Except as provided elsewhere in this section, an offender serving a sentence of imprisonment in a foreign country transferred to the custody of the Attorney General shall remain in the custody of the Attorney General under the same conditions and for the same period of time as an offender who had been committed to the custody of the Attorney General by a court of the United States for the period of time imposed by the sentencing court.
 
@@ -233,7 +233,7 @@ All laws of the United States, as appropriate, pertaining to prisoners, probatio
 
 **(4)** Any sentence for an offense against the United States, imposed while the transferred offender is serving the sentence of imprisonment imposed in a foreign country, shall be aggregated with the foreign sentence, in the same manner as if the foreign sentence was one imposed by a United States district court for an offense against the United States.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1215; amended Pub. L. 98–473, title II, § 223(m)(2), Oct. 12, 1984, 98 Stat. 2029.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1215; amended Pub. L. 98–473, title II, § 223(m)(2), Oct. 12, 1984, 98 Stat. 2029.)
 
 **Editorial Notes**
 
@@ -257,13 +257,13 @@ Subsec. (c)(5). Pub. L. 98–473 redesignated par. (5) as (4).
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 4106. Transfer of offenders on parole; parole of offenders transferred
+## § 4106. Transfer of offenders on parole; parole of offenders transferred
 
 **(a)** Upon the receipt of an offender who is on parole from the authorities of a foreign country, the Attorney General shall assign the offender to the United States Parole Commission for supervision.
 
-**(b)** The United States Parole Commission and the Chairman of the Commission shall have the same powers and duties with reference to an offender transferred to the United States to serve a sentence of imprisonment or who at the time of transfer is on parole as they have with reference to an offender convicted in a court of the United States except as otherwise provided in this chapter or in the pertinent treaty. Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4215; and 4218 1
+**(b)** The United States Parole Commission and the Chairman of the Commission shall have the same powers and duties with reference to an offender transferred to the United States to serve a sentence of imprisonment or who at the time of transfer is on parole as they have with reference to an offender convicted in a court of the United States except as otherwise provided in this chapter or in the pertinent treaty. Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4215; and 4218 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title shall be applicable.
 
@@ -271,13 +271,13 @@ of this title shall be applicable.
 
 **(d)** This section shall apply only to offenses committed before November 1, 1987, and the Parole Commission’s performance of its responsibilities under this section shall be subject to section 235 of the Comprehensive Crime Control Act of 1984.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1216; amended Pub. L. 98–473, title II, § 223(m)(3), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 100–182, § 14, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–690, title VII, § 7072(c), Nov. 18, 1988, 102 Stat. 4405.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1216; amended Pub. L. 98–473, title II, § 223(m)(3), Oct. 12, 1984, 98 Stat. 2029; Pub. L. 100–182, § 14, Dec. 7, 1987, 101 Stat. 1268; Pub. L. 100–690, title VII, § 7072(c), Nov. 18, 1988, 102 Stat. 4405.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4215; and 4218 of this title, referred to in subsec. (b), were repealed effective Nov. 1, 1987, by Pub. L. 98–473, title II, §§ 218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
+Sections 4201 through 4204; 4205(d), (e), and (h); 4206 through 4215; and 4218 of this title, referred to in subsec. (b), were repealed effective Nov. 1, 1987, by Pub. L. 98–473, title II, §§ 218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances.
 
 Section 235 of the Comprehensive Crime Control Act of 1984, referred to in subsec. (d), is set out as an Effective Date note under section 3551 of this title.
 
@@ -303,7 +303,7 @@ Subsec. (c). Pub. L. 98–473 struck out subsec. (c) which read as follows: “A
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 4106A. Transfer of offenders on parole; parole of offenders transferred
+## § 4106A. Transfer of offenders on parole; parole of offenders transferred
 
 **(a)** Upon the receipt of an offender who is on parole from the authorities of a foreign country, the Attorney General shall assign the offender to the United States Parole Commission for supervision.
 
@@ -335,17 +335,17 @@ relating to that offender.
 
 **(c)** This section shall apply only to offenses committed on or after November 1, 1987.
 
-(Added Pub. L. 100–690, title VII, § 7101(a), Nov. 18, 1988, 102 Stat. 4415; amended Pub. L. 101–647, title XXXV, §§ 3599B, 3599C, Nov. 29, 1990, 104 Stat. 4931, 4932.)
+(Added Pub. L. 100–690, title VII, § 7101(a), Nov. 18, 1988, 102 Stat. 4415; amended Pub. L. 101–647, title XXXV, §§ 3599B, 3599C, Nov. 29, 1990, 104 Stat. 4931, 4932.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1990—Pub. L. 101–647, § 3599B, inserted “of” before second reference to “offenders” in section catchline.
+1990—Pub. L. 101–647, § 3599B, inserted “of” before second reference to “offenders” in section catchline.
 
-Subsec. (b)(1)(C). Pub. L. 101–647, § 3599C, inserted period at end.
+Subsec. (b)(1)(C). Pub. L. 101–647, § 3599C, inserted period at end.
 
-## § 4107. Verification of consent of offender to transfer from the United States
+## § 4107. Verification of consent of offender to transfer from the United States
 
 **(a)** Prior to the transfer of an offender from the United States, the fact that the offender consents to such transfer and that such consent is voluntary and with full knowledge of the consequences thereof shall be verified by a United States magistrate judge or a judge as defined in section 451 of title 28, United States Code.
 
@@ -365,7 +365,7 @@ Subsec. (b)(1)(C). Pub. L. 101–647, § 3599C, inserted period at end.
 
 **(e)** The proceedings shall be taken down by a reporter or recorded by suitable sound recording equipment. The Attorney General shall maintain custody of the records.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1216; amended Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1216; amended Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -373,7 +373,7 @@ Subsec. (b)(1)(C). Pub. L. 101–647, § 3599C, inserted period at end.
 
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 4108. Verification of consent of offender to transfer to the United States
+## § 4108. Verification of consent of offender to transfer to the United States
 
 **(a)** Prior to the transfer of an offender to the United States, the fact that the offender consents to such transfer and that such consent is voluntary and with full knowledge of the consequences thereof, shall be verified in the country in which the sentence was imposed by a United States magistrate judge, or by a citizen specifically designated by a judge of the United States as defined in section 451 of title 28, United States Code. The designation of a citizen who is an employee or officer of a department or agency of the United States shall be with the approval of the head of that department or agency.
 
@@ -393,7 +393,7 @@ Subsec. (b)(1)(C). Pub. L. 101–647, § 3599C, inserted period at end.
 
 **(e)** The proceedings shall be taken down by a reporter or recorded by suitable sound recording equipment. The Attorney General shall maintain custody of the records.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1217; amended Pub. L. 98–473, title II, § 223(m)(4), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–690, title VII, § 7101(b), Nov. 18, 1988, 102 Stat. 4415; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1217; amended Pub. L. 98–473, title II, § 223(m)(4), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 100–690, title VII, § 7101(b), Nov. 18, 1988, 102 Stat. 4415; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -401,7 +401,7 @@ Subsec. (b)(1)(C). Pub. L. 101–647, § 3599C, inserted period at end.
 
 1988—Subsec. (a). Pub. L. 100–690 struck out “including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 944(a)(1),” after “consequences thereof,”.
 
-1984—Subsec. (a). Pub. L. 98–473 inserted “, including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 994(a)(1),” after “consequences thereof”.
+1984—Subsec. (a). Pub. L. 98–473 inserted “, including any term of imprisonment or term of supervised release specified in the applicable sentencing guideline promulgated pursuant to 28 U.S.C. 994(a)(1),” after “consequences thereof”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -413,13 +413,13 @@ Subsec. (b)(1)(C). Pub. L. 101–647, § 3599C, inserted period at end.
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 4109. Right to counsel, appointment of counsel
+## § 4109. Right to counsel, appointment of counsel
 
 **(a)** In proceedings to verify consent of an offender for transfer, the offender shall have the right to advice of counsel. If the offender is financially unable to obtain counsel—
 
-**(1)** counsel for proceedings conducted under section 4107 shall be appointed in accordance with section 3006A of this title. Such appointment shall be considered an appointment in a misdemeanor case for purposes of compensation under the Act; 1
+**(1)** counsel for proceedings conducted under section 4107 shall be appointed in accordance with section 3006A of this title. Such appointment shall be considered an appointment in a misdemeanor case for purposes of compensation under the Act; 1
 
-<sup>1</sup>  So in original. Probably should be “section 3006A of this title;”. See 1990 Amendment note below.
+<sup>1</sup> So in original. Probably should be “section 3006A of this title;”. See 1990 Amendment note below.
 
 **(2)** counsel for proceedings conducted under section 4108 shall be appointed by the verifying officer pursuant to such regulations as may be prescribed by the Director of the Administrative Office of the United States Courts. The Secretary of State shall make payments of fees and expenses of the appointed counsel, in amounts approved by the verifying officer, which shall not exceed the amounts authorized under section 3006A of this title for representation in a misdemeanor case. Payment in excess of the maximum amount authorized may be made for extended or complex representation whenever the verifying officer certifies that the amount of the excess payment is necessary to provide fair compensation, and the payment is approved by the chief judge of the United States court of appeals for the appropriate circuit. Counsel from other agencies in any branch of the Government may be appointed: *Provided*, That in such cases the Secretary of State shall pay counsel directly, or reimburse the employing agency for travel and transportation expenses. Notwithstanding section 3324(a) and (b) of title 31, the Secretary may make advance payments of travel and transportation expenses to counsel appointed under this subsection.
 
@@ -427,7 +427,7 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 **(c)** The offender shall have the right to advice of counsel in proceedings before the United States Parole Commission under section 4106A of this title and in an appeal from a determination of such Commission under such section. If the offender is financially unable to obtain counsel, counsel for such proceedings and appeal shall be appointed under section 3006A of this title.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1218; amended Pub. L. 97–258, § 3(e)(2), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 100–690, title VII, § 7101(d), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, § 3598, Nov. 29, 1990, 104 Stat. 4931.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1218; amended Pub. L. 97–258, § 3(e)(2), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 100–690, title VII, § 7101(d), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, § 3598, Nov. 29, 1990, 104 Stat. 4931.)
 
 **Editorial Notes**
 
@@ -439,25 +439,25 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 1982—Par. (2). Pub. L. 97–258 substituted “section 3324(a) and (b) of title 31” for “section 3648 of the Revised Statutes as amended (31 U.S.C. 529)”.
 
-## § 4110. Transfer of juveniles
+## § 4110. Transfer of juveniles
 
 An offender transferred to the United States because of an act which would have been an act of juvenile delinquency had it been committed in the United States or any State thereof shall be subject to the provisions of chapter 403 of this title except as otherwise provided in the relevant treaty or in an agreement pursuant to such treaty between the Attorney General and the authority of the foreign country.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1218.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1218.)
 
-## § 4111. Prosecution barred by foreign conviction
+## § 4111. Prosecution barred by foreign conviction
 
 An offender transferred to the United States shall not be detained, prosecuted, tried, or sentenced by the United States, or any State thereof for any offense the prosecution of which would have been barred if the sentence upon which the transfer was based had been by a court of the jurisdiction seeking to prosecute the transferred offender, or if prosecution would have been barred by the laws of the jurisdiction seeking to prosecute the transferred offender if the sentence on which the transfer was based had been issued by a court of the United States or by a court of another State.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1218.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1218.)
 
-## § 4112. Loss of rights, disqualification
+## § 4112. Loss of rights, disqualification
 
 An offender transferred to the United States to serve a sentence imposed by a foreign court shall not incur any loss of civil, political, or civic rights nor incur any disqualification other than those which under the laws of the United States or of the State in which the issue arises would result from the fact of the conviction in the foreign country.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1218.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1218.)
 
-## § 4113. Status of alien offender transferred to a foreign country
+## § 4113. Status of alien offender transferred to a foreign country
 
 **(a)** An alien who is deportable from the United States but who has been granted voluntary departure pursuant to section 240B of the Immigration and Nationality Act and who is transferred to a foreign country pursuant to this chapter shall be deemed for all purposes to have voluntarily departed from this country.
 
@@ -465,7 +465,7 @@ An offender transferred to the United States to serve a sentence imposed by a fo
 
 **(c)** An alien who is the subject of an order of removal from the United States pursuant to section 240 of the Immigration and Nationality Act, who is transferred to a foreign country pursuant to this chapter shall be deemed for all purposes to have been excluded from admission and removed from the United States.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1219; amended Pub. L. 104–208, div. C, title III, § 308(d)(4)(U), (e)(1)(Q), (2)(I), (g)(3)(B), (5)(A)(iv), Sept. 30, 1996, 110 Stat. 3009–619, 3009–620, 3009–622, 3009–623.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1219; amended Pub. L. 104–208, div. C, title III, § 308(d)(4)(U), (e)(1)(Q), (2)(I), (g)(3)(B), (5)(A)(iv), Sept. 30, 1996, 110 Stat. 3009–619, 3009–620, 3009–622, 3009–623.)
 
 **Editorial Notes**
 
@@ -477,15 +477,15 @@ Section 240 of the Immigration and Nationality Act, referred to in subsecs. (b) 
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–208, § 308(g)(5)(A)(iv)(I), substituted “section 240B of the Immigration and Nationality Act” for “section 1252(b) or section 1254(e) of title 8, United States Code,”.
+1996—Subsec. (a). Pub. L. 104–208, § 308(g)(5)(A)(iv)(I), substituted “section 240B of the Immigration and Nationality Act” for “section 1252(b) or section 1254(e) of title 8, United States Code,”.
 
-Subsec. (b). Pub. L. 104–208, § 308(g)(5)(A)(iv)(II), substituted “section 240 of the Immigration and Nationality Act” for “section 1252 of title 8, United States Code,”.
+Subsec. (b). Pub. L. 104–208, § 308(g)(5)(A)(iv)(II), substituted “section 240 of the Immigration and Nationality Act” for “section 1252 of title 8, United States Code,”.
 
-Pub. L. 104–208, § 308(e)(1)(Q), (2)(I), substituted “removal” for “deportation” and “removed” for “deported”.
+Pub. L. 104–208, § 308(e)(1)(Q), (2)(I), substituted “removal” for “deportation” and “removed” for “deported”.
 
-Subsec. (c). Pub. L. 104–208, § 308(g)(3)(B), substituted “240 of the Immigration and Nationality Act” for “1226 of title 8, United States Code”.
+Subsec. (c). Pub. L. 104–208, § 308(g)(3)(B), substituted “240 of the Immigration and Nationality Act” for “1226 of title 8, United States Code”.
 
-Pub. L. 104–208, § 308(d)(4)(U), (e)(2)(I), substituted “removal” for “exclusion and deportation” and “removed” for “deported”.
+Pub. L. 104–208, § 308(d)(4)(U), (e)(2)(I), substituted “removal” for “exclusion and deportation” and “removed” for “deported”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -493,7 +493,7 @@ Pub. L. 104–208, § 308(d)(4)(U), (e)(2)(I), substituted “removal” for �
 
 Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
-## § 4114. Return of transferred offenders
+## § 4114. Return of transferred offenders
 
 **(a)** Upon a final decision by the courts of the United States that the transfer of the offender to the United States was not in accordance with the treaty or the laws of the United States and ordering the offender released from serving the sentence in the United States the offender may be returned to the country from which he was transferred to complete the sentence if the country in which the sentence was imposed requests his return. The Attorney General shall notify the appropriate authority of the country which imposed the sentence, within ten days, of a final decision of a court of the United States ordering the offender released. The notification shall specify the time within which the sentencing country must request the return of the offender which shall be no longer than thirty days.
 
@@ -511,7 +511,7 @@ A summons or a warrant shall be issued by the justice, judge or magistrate judge
 
 **(g)** An offender whose return is sought pursuant to this section may be admitted to bail or be released on his own recognizance at any stage of the proceedings.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1219; amended Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1219; amended Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -519,8 +519,8 @@ A summons or a warrant shall be issued by the justice, judge or magistrate judge
 
 Words “magistrate judge” substituted for “magistrate” wherever appearing in subsec. (b) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-## § 4115. Execution of sentences imposing an obligation to make restitution or reparations
+## § 4115. Execution of sentences imposing an obligation to make restitution or reparations
 
 If in a sentence issued in a penal proceeding of a transferring country an offender transferred to the United States has been ordered to pay a sum of money to the victim of the offense for damage caused by the offense, that penalty or award of damages may be enforced as though it were a civil judgment rendered by a United States district court. Proceedings to collect the moneys ordered to be paid may be instituted by the Attorney General in any United States district court. Moneys recovered pursuant to such proceedings shall be transmitted through diplomatic channels to the treaty authority of the transferring country for distribution to the victim.
 
-(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1220.)
+(Added Pub. L. 95–144, § 1, Oct. 28, 1977, 91 Stat. 1220.)

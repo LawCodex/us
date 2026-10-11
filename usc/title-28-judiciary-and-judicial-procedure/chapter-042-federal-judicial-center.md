@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1988—Pub. L. 100–702, title III, §§ 301(b), 304(b)(2), Nov. 19, 1988, 102 Stat. 4647, 4648, inserted “and Deputy Director” after “Director” in item 626 and added item 629.
+1988—Pub. L. 100–702, title III, §§ 301(b), 304(b)(2), Nov. 19, 1988, 102 Stat. 4647, 4648, inserted “and Deputy Director” after “Director” in item 626 and added item 629.
 
-1978—Pub. L. 95–598, title II, § 230(2), Nov. 6, 1978, 92 Stat. 2665, struck out item 629 “Organizational provisions”.
+1978—Pub. L. 95–598, title II, § 230(2), Nov. 6, 1978, 92 Stat. 2665, struck out item 629 “Organizational provisions”.
 
-1967—Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 664, added chapter 42 and items 620 to 629.
+1967—Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 664, added chapter 42 and items 620 to 629.
 
-## § 620. Federal Judicial Center
+## § 620. Federal Judicial Center
 
 **(a)** There is established within the judicial branch of the Government a Federal Judicial Center, whose purpose it shall be to further the development and adoption of improved judicial administration in the courts of the United States.
 
@@ -39,15 +39,15 @@ retrieved: 2026-10-11
 
 **(4)** insofar as may be consistent with the performance of the other functions set forth in this section, to provide staff, research, and planning assistance to the Judicial Conference of the United States and its committees;
 
-**(5)** Insofar 1
+**(5)** Insofar 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 as may be consistent with the performance of the other functions set forth in this section, to cooperate with the State Justice Institute in the establishment and coordination of research and programs concerning the administration of justice; and
 
 **(6)** insofar as may be consistent with the performance of the other functions set forth in this section, to cooperate with and assist agencies of the Federal Government and other appropriate organizations in providing information and advice to further improvement in the administration of justice in the courts of foreign countries and to acquire information about judicial administration in foreign countries that may contribute to performing the other functions set forth in this section.
 
-(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 664; amended Pub. L. 95–598, title II, § 227, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 98–620, title II, § 214, Nov. 8, 1984, 98 Stat. 3346; Pub. L. 99–336, § 6(b), June 19, 1986, 100 Stat. 639; Pub. L. 100–702, title III, § 303, Nov. 19, 1988, 102 Stat. 4648; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title VI, § 602(a), Oct. 29, 1992, 106 Stat. 4514.)
+(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 664; amended Pub. L. 95–598, title II, § 227, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 98–620, title II, § 214, Nov. 8, 1984, 98 Stat. 3346; Pub. L. 99–336, § 6(b), June 19, 1986, 100 Stat. 639; Pub. L. 100–702, title III, § 303, Nov. 19, 1988, 102 Stat. 4648; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title VI, § 602(a), Oct. 29, 1992, 106 Stat. 4514.)
 
 **Editorial Notes**
 
@@ -75,7 +75,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pu
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–336, § 6(c), June 19, 1986, 100 Stat. 639, provided that: “The amendments made by this section [amending this section and section 288d of Title 2, The Congress, and redesignating sections 1364 to 1366 of this title] shall take effect on the date of the enactment of this Act [June 19, 1986].”
+Pub. L. 99–336, § 6(c), June 19, 1986, 100 Stat. 639, provided that: “The amendments made by this section [amending this section and section 288d of Title 2, The Congress, and redesignating sections 1364 to 1366 of this title] shall take effect on the date of the enactment of this Act [June 19, 1986].”
 
 **Effective Date of 1984 Amendment**
 
@@ -83,7 +83,7 @@ Amendment by Pub. L. 98–620 effective Oct. 1, 1985, see section 216 of Pub. L.
 
 **Best Practices**
 
-Pub. L. 114–153, § 6, May 11, 2016, 130 Stat. 384, provided that:
+Pub. L. 114–153, § 6, May 11, 2016, 130 Stat. 384, provided that:
 
 > **“(a) In General.—** Not later than 2 years after the date of enactment of this Act [May 11, 2016], the Federal Judicial Center, using existing resources, shall develop recommended best practices for—
 
@@ -101,9 +101,9 @@ Pub. L. 114–153, § 6, May 11, 2016, 130 Stat. 384, provided that:
 
 **Study of Intercircuit Conflicts and Structural Alternatives for Courts of Appeals by Federal Judicial Center**
 
-Pub. L. 101–650, title III, § 302, Dec. 1, 1990, 104 Stat. 5104, as amended by Pub. L. 102–572, title V, § 502(c), Oct. 29, 1992, 106 Stat. 4513, directed Board of the Federal Judicial Center to conduct study and submit report to Congress by Jan. 1, 1992, on number and frequency of conflicts among judicial circuits in interpreting law that remain unresolved because they are not heard by the Supreme Court, and further directed Board to study full range of structural alternatives for Federal Courts of Appeals and submit report on the study to Congress and Judicial Conference of the United States, no later than 2 years and 9 months after Dec. 1, 1990.
+Pub. L. 101–650, title III, § 302, Dec. 1, 1990, 104 Stat. 5104, as amended by Pub. L. 102–572, title V, § 502(c), Oct. 29, 1992, 106 Stat. 4513, directed Board of the Federal Judicial Center to conduct study and submit report to Congress by Jan. 1, 1992, on number and frequency of conflicts among judicial circuits in interpreting law that remain unresolved because they are not heard by the Supreme Court, and further directed Board to study full range of structural alternatives for Federal Courts of Appeals and submit report on the study to Congress and Judicial Conference of the United States, no later than 2 years and 9 months after Dec. 1, 1990.
 
-## § 621. Board; composition, tenure of members, compensation
+## § 621. Board; composition, tenure of members, compensation
 
 **(a)** The activities of the Center shall be supervised by a Board to be composed of—
 
@@ -119,19 +119,19 @@ Pub. L. 101–650, title III, § 302, Dec. 1, 1990, 104 Stat. 5104, as amended
 
 **(d)** Members of the Board shall serve without additional compensation, but shall be reimbursed for actual and necessary expenses incurred in the performance of their official duties.
 
-(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 664; amended Pub. L. 95–598, title II, §§ 228, 229, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 104–317, title VI, § 601(b), Oct. 19, 1996, 110 Stat. 3857.)
+(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 664; amended Pub. L. 95–598, title II, §§ 228, 229, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 104–317, title VI, § 601(b), Oct. 19, 1996, 110 Stat. 3857.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (a)(2). Pub. L. 104–317, § 601(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “two active judges of the courts of appeals of the United States, three active judges of the district courts of the United States, one active judge of the bankruptcy courts of the United States elected by vote of the members of the Judicial Conference of the United States: *Provided, however*, That the judges so elected shall not be members of the Judicial Conference of the United States; and”.
+1996—Subsec. (a)(2). Pub. L. 104–317, § 601(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “two active judges of the courts of appeals of the United States, three active judges of the district courts of the United States, one active judge of the bankruptcy courts of the United States elected by vote of the members of the Judicial Conference of the United States: *Provided, however*, That the judges so elected shall not be members of the Judicial Conference of the United States; and”.
 
-Subsec. (b). Pub. L. 104–317, § 601(b)(2), substituted “retirement pursuant to section 371(a) or section 372(a) of this title,” for “retirement,”.
+Subsec. (b). Pub. L. 104–317, § 601(b)(2), substituted “retirement pursuant to section 371(a) or section 372(a) of this title,” for “retirement,”.
 
-1978—Subsec. (a)(2). Pub. L. 95–598, § 228, inserted reference to one active judge of the bankruptcy courts of the United States.
+1978—Subsec. (a)(2). Pub. L. 95–598, § 228, inserted reference to one active judge of the bankruptcy courts of the United States.
 
-Subsec. (b). Pub. L. 95–598, § 229, struck out provisions requiring that section 629 of this title govern the terms of office of the first members elected to the Board.
+Subsec. (b). Pub. L. 95–598, § 229, struck out provisions requiring that section 629 of this title govern the terms of office of the first members elected to the Board.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -139,15 +139,15 @@ Subsec. (b). Pub. L. 95–598, § 229, struck out provisions requiring that se
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 622. Meetings; conduct of business
+## § 622. Meetings; conduct of business
 
 **(a)** Regular meetings of the Board shall be held quarterly. Special meetings shall be held from time to time upon the call of the Chairman, acting at his own discretion or pursuant to the petition of any four members.
 
 **(b)** Each member of the Board shall be entitled to one vote. A simple majority of the membership shall constitute a quorum for the conduct of business. The Board shall act upon the concurrence of a simple majority of the members present and voting.
 
-(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 665.)
+(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 665.)
 
-## § 623. Duties of the Board
+## § 623. Duties of the Board
 
 **(a)** In its direction and supervision of the activities of the Federal Judicial Center, the Board shall—
 
@@ -167,7 +167,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub.
 
 **(b)** The Board shall transmit to Congress and to the Attorney General of the United States copies of all reports and recommendations submitted to the Judicial Conference of the United States. The Board shall also keep the Committees on the Judiciary of the United States Senate and House of Representatives fully and currently informed with respect to the activities of the Center.
 
-(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 665; amended Pub. L. 100–702, title III, § 302, Nov. 19, 1988, 102 Stat. 4648.)
+(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 665; amended Pub. L. 100–702, title III, § 302, Nov. 19, 1988, 102 Stat. 4648.)
 
 **Editorial Notes**
 
@@ -181,7 +181,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub.
 
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to requirement that the Board transmit to Congress copies of all reports and recommendations submitted to the Judicial Conference of the United States, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 12 of House Document No. 103–7.
 
-## § 624. Powers of the Board
+## § 624. Powers of the Board
 
 The Board is authorized—
 
@@ -191,7 +191,7 @@ The Board is authorized—
 
 **(3)** to contract with and compensate government and private agencies or persons for research projects and other services, without regard to section 6101(b) to (d) of title 41, and to delegate such contract authority to the Director of the Federal Judicial Center, who is hereby empowered to exercise such delegated authority.
 
-(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title III, § 304(a), Nov. 19, 1988, 102 Stat. 4648; Pub. L. 111–350, § 5(g)(3), Jan. 4, 2011, 124 Stat. 3848.)
+(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title III, § 304(a), Nov. 19, 1988, 102 Stat. 4648; Pub. L. 111–350, § 5(g)(3), Jan. 4, 2011, 124 Stat. 3848.)
 
 **Editorial Notes**
 
@@ -201,13 +201,13 @@ The Board is authorized—
 
 1988—Par. (1). Pub. L. 100–702 inserted “and the Deputy Director” after “Director”.
 
-## § 625. Director and staff
+## § 625. Director and staff
 
 **(a)** The Director shall supervise the activities of persons employed by the Center and perform other duties assigned to him by the Board.
 
-**(b)** The Director shall appoint and fix the compensation of such additional professional personnel as the Board may deem necessary, without regard to the provisions of title 5, United States Code, governing appointments in competitive service, or the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates: *Provided, however*, That the compensation of any person appointed under this subsection shall not exceed the annual rate of basic pay of level V of the Executive Schedule pay rates, section 5316, title 5, United States Code: *And provided further*, That the salary of a reemployed annuitant under the Civil Servive 1
+**(b)** The Director shall appoint and fix the compensation of such additional professional personnel as the Board may deem necessary, without regard to the provisions of title 5, United States Code, governing appointments in competitive service, or the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates: *Provided, however*, That the compensation of any person appointed under this subsection shall not exceed the annual rate of basic pay of level V of the Executive Schedule pay rates, section 5316, title 5, United States Code: *And provided further*, That the salary of a reemployed annuitant under the Civil Servive 1
 
-<sup>1</sup>  So in original. Should be “Service”.
+<sup>1</sup> So in original. Should be “Service”.
 
 Retirement Act shall be adjusted pursuant to the provisions of section 8344, title 5, United States Code.
 
@@ -215,7 +215,7 @@ Retirement Act shall be adjusted pursuant to the provisions of section 8344, tit
 
 **(d)** The Director may procure personal services as authorized by section 3109 of title 5, United States Code, at rates not to exceed the daily equivalent of the highest rate payable under General Schedule pay rates, section 5332, title 5, United States Code. (e) The Director is authorized to incur necessary travel and other miscellaneous expenses incident to the operation of the Center.
 
-(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 102–572, title VI, § 602(b), Oct. 29, 1992, 106 Stat. 4514.)
+(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 102–572, title VI, § 602(b), Oct. 29, 1992, 106 Stat. 4514.)
 
 **Editorial Notes**
 
@@ -223,7 +223,7 @@ Retirement Act shall be adjusted pursuant to the provisions of section 8344, tit
 
 The General Schedule, referred to in subsec. (b), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-The Civil Service Retirement Act, referred to in subsec. (b), is act May 29, 1930, ch. 349, 46 Stat. 468, as amended by act July 31, 1956, ch. 804, § 401, 70 Stat. 743, which was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as subchapter III (§ 8331 et seq.) of chapter 83 of Title 5.
+The Civil Service Retirement Act, referred to in subsec. (b), is act May 29, 1930, ch. 349, 46 Stat. 468, as amended by act July 31, 1956, ch. 804, § 401, 70 Stat. 743, which was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as subchapter III (§ 8331 et seq.) of chapter 83 of Title 5.
 
 **Amendments**
 
@@ -233,17 +233,17 @@ The Civil Service Retirement Act, referred to in subsec. (b), is act May 29, 193
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Effective Date of 1992 Amendment**
 
 Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pub. L. 102–572, set out as a note under section 905 of Title 2, The Congress.
 
-## § 626. Compensation of the Director and Deputy Director
+## § 626. Compensation of the Director and Deputy Director
 
 The compensation of the Director of the Federal Judicial Center shall be the same as that of the Director of the Administrative Office of the United States Courts, and his appointment and salary shall not be subject to the provisions of title 5, United States Code, governing appointments in competitive service, or the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates: *Provided, however*, That any Director who is a justice or judge of the United States in active or retired status shall serve without additional compensation. The compensation of the Deputy Director of the Federal Judicial Center shall be the same as that of the Deputy Director of the Administrative Office of the United States Courts.
 
-(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title III, § 304(b)(1), Nov. 19, 1988, 102 Stat. 4648.)
+(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title III, § 304(b)(1), Nov. 19, 1988, 102 Stat. 4648.)
 
 **Editorial Notes**
 
@@ -259,9 +259,9 @@ The General Schedule, referred to in text, is set out under section 5332 of Titl
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–702, title III, § 304(c), Nov. 19, 1988, 102 Stat. 4648, provided that: “The amendment made by subsection (b) [amending this section] shall be effective for fiscal years beginning on or after October 1, 1988.”
+Pub. L. 100–702, title III, § 304(c), Nov. 19, 1988, 102 Stat. 4648, provided that: “The amendment made by subsection (b) [amending this section] shall be effective for fiscal years beginning on or after October 1, 1988.”
 
-## § 627. Retirement; employee benefits
+## § 627. Retirement; employee benefits
 
 **(a)** The Director, Deputy Director, the professional staff, and the clerical and secretarial employees of the Federal Judicial Center shall be deemed to be officers and employees of the judicial branch of the United States Government within the meaning of subchapter III of chapter 83 (relating to civil service retirement), chapter 84 (relating to the Federal Employees’ Retirement System), chapter 87 (relating to Federal employees’ life insurance program), and chapter 89 (relating to Federal employees’ health benefits program) of title 5, United States Code: *Provided, however*, That the Director, upon written notice filed with the Director of the Administrative Office of the United States Courts within 6 months after the date on which he takes office, may waive coverage under chapter 83 of title 5, subchapter III (the Civil Service Retirement System) or chapter 84 of title 5 (the Federal Employees’ Retirement System), whichever is applicable, and elect coverage under the retirement and disability provisions of this section. A Director who elects coverage under this section shall be deemed an “employee” for purposes of chapter 84 of title 5, subchapter III, regardless of whether he has waived the coverage of chapter 83, subchapter III, or chapter 84: *And provided further*, That upon his nonretirement separation from the Federal Judicial Center, waiver of coverage under chapter 83, subchapter III, and election of this section shall not operate to foreclose to the Director such opportunity as the law may provide to secure retirement credit under chapter 83 for service as Director by depositing with interest the amount required by section 8334 of title 5. A Director who waives coverage under chapter 84 and elects this section may secure retirement credit under chapter 84 for service as Director by depositing with interest 1.3 percent of basic pay for service from January 1, 1984, through December 31, 1986, and the amount referred to in section 8422(a) of title 5, for service after December 31, 1986. Interest shall be computed under section 8334(e) of title 5.
 
@@ -275,35 +275,35 @@ Upon the retirement of a Director who has elected coverage under this section an
 
 **(e)** Each annuity payable under this section shall be increased by the same percentage amount and effective on the same date as annuities payable under chapter 83 of title 5, are increased as provided by section 8340 of title 5.
 
-(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title X, §§ 1004(a), 1006(a)(2), Nov. 19, 1988, 102 Stat. 4665, 4666; Pub. L. 104–317, title VI, § 604, Oct. 19, 1996, 110 Stat. 3857; Pub. L. 106–518, title III, §§ 301(b), 312(a), Nov. 13, 2000, 114 Stat. 2416, 2421.)
+(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title X, §§ 1004(a), 1006(a)(2), Nov. 19, 1988, 102 Stat. 4665, 4666; Pub. L. 104–317, title VI, § 604, Oct. 19, 1996, 110 Stat. 3857; Pub. L. 106–518, title III, §§ 301(b), 312(a), Nov. 13, 2000, 114 Stat. 2416, 2421.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2000—Subsec. (a). Pub. L. 106–518, § 312(a), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “A Director of the Federal Judicial Center who attains the age of seventy years shall be retired from that office.”
+2000—Subsec. (a). Pub. L. 106–518, § 312(a), redesignated subsec. (b) as (a) and struck out former subsec. (a) which read as follows: “A Director of the Federal Judicial Center who attains the age of seventy years shall be retired from that office.”
 
-Subsec. (b). Pub. L. 106–518, § 312(a)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+Subsec. (b). Pub. L. 106–518, § 312(a)(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-Subsec. (c). Pub. L. 106–518, § 312(a)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 106–518, § 312(a)(2), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Pub. L. 106–518, § 301(b)(2), in first par., substituted “who has at least fifteen years of service and has” for “who has served at least fifteen years and” and, in second par., substituted “who has at least ten years of service,” for “who has served at least ten years,”.
+Pub. L. 106–518, § 301(b)(2), in first par., substituted “who has at least fifteen years of service and has” for “who has served at least fifteen years and” and, in second par., substituted “who has at least ten years of service,” for “who has served at least ten years,”.
 
-Subsec. (d). Pub. L. 106–518, § 312(a)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 106–518, § 312(a)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Pub. L. 106–518, § 301(b)(3), substituted “at least fifteen years of service,” for “served at least fifteen years,” and “less than fifteen years of service,” for “served less than fifteen years,”.
+Pub. L. 106–518, § 301(b)(3), substituted “at least fifteen years of service,” for “served at least fifteen years,” and “less than fifteen years of service,” for “served less than fifteen years,”.
 
-Subsec. (e). Pub. L. 106–518, § 312(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 106–518, § 312(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 106–518, § 301(b)(1), inserted “a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives,” after “Congress,”.
+Pub. L. 106–518, § 301(b)(1), inserted “a congressional employee in the capacity of primary administrative assistant to a Member of Congress or in the capacity of staff director or chief counsel for the majority or the minority of a committee or subcommittee of the Senate or House of Representatives,” after “Congress,”.
 
-Subsec. (f). Pub. L. 106–518, § 312(a)(2), redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 106–518, § 312(a)(2), redesignated subsec. (f) as (e).
 
 1996—Subsec. (b). Pub. L. 104–317, in first sentence, inserted “Deputy Director,” before “the professional staff” and “chapter 84 (relating to the Federal Employees’ Retirement System),” after “(relating to civil service retirement),”.
 
-1988—Subsec. (b). Pub. L. 100–702, § 1006(a)(2), amended provisions after “*Provided, however*,” generally. Prior to amendment, those provisions read as follows: “That the Director, upon written notice filed with the Director of the Administrative Office of the United States Courts within six months after the date on which he takes office, may waive coverage under subchapter III of chapter 83 of title 5, United States Code (relating to civil service retirement), and elect coverage under the retirement and disability provisions of this section: *And provided further*, That upon his non-retirement separation from the Federal Judicial Center, such waiver and election shall not operate to foreclose to the Director such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by section 8334 of title 5, United States Code.”
+1988—Subsec. (b). Pub. L. 100–702, § 1006(a)(2), amended provisions after “*Provided, however*,” generally. Prior to amendment, those provisions read as follows: “That the Director, upon written notice filed with the Director of the Administrative Office of the United States Courts within six months after the date on which he takes office, may waive coverage under subchapter III of chapter 83 of title 5, United States Code (relating to civil service retirement), and elect coverage under the retirement and disability provisions of this section: *And provided further*, That upon his non-retirement separation from the Federal Judicial Center, such waiver and election shall not operate to foreclose to the Director such opportunity as the law may provide to secure civil service retirement credit for service as Director by depositing with interest the amount required by section 8334 of title 5, United States Code.”
 
-Subsec. (f). Pub. L. 100–702, § 1004(a), added subsec. (f).
+Subsec. (f). Pub. L. 100–702, § 1004(a), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -313,13 +313,13 @@ Amendment by section 1004(a) of Pub. L. 100–702 applicable to cost-of-living i
 
 Amendment by section 1006(a)(2) of Pub. L. 100–702 applicable to persons holding offices of Director of the Administrative Office of the United States Courts, Director of the Federal Judicial Center, and Administrative Assistant to the Chief Justice on Nov. 19, 1988, see section 1006(b) of Pub. L. 100–702, set out as a note under section 611 of this title.
 
-## § 628. Appropriations and accounting
+## § 628. Appropriations and accounting
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this chapter. The Administrative Office of the United States Courts shall provide accounting, disbursing, auditing, and other fiscal services for the Federal Judicial Center.
 
-(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 667.)
+(Added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 667.)
 
-## § 629. Federal Judicial Center Foundation
+## § 629. Federal Judicial Center Foundation
 
 **(a)** There is established a private nonprofit corporation which shall be known as the Federal Judicial Center Foundation (hereafter in this section referred to as the “Foundation”) and which shall be incorporated in the District of Columbia. The purpose of the Foundation shall be to have sole authority to accept and receive gifts of real and personal property and services made for the purpose of aiding or facilitating the work of the Federal Judicial Center. The Foundation shall not accept conditional or otherwise restricted gifts, except gifts that are designated for the support of specific projects previously approved by the Board of the Center may be accepted. The Foundation shall have no authority to administer or otherwise determine the use of gifts accepted under this section.
 
@@ -333,10 +333,10 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 **(f)** For the purpose of Federal income, estate, and gift taxes, property accepted under this section shall be considered as a gift or bequest to or for the use of the United States.
 
-(Added Pub. L. 100–702, title III, § 301(a), Nov. 19, 1988, 102 Stat. 4646.)
+(Added Pub. L. 100–702, title III, § 301(a), Nov. 19, 1988, 102 Stat. 4646.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 629, added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 667, related to organization provisions for the Board, prior to repeal by Pub. L. 95–598, title II, § 230(1), Nov. 6, 1978, 92 Stat. 2665, effective Nov. 6, 1978.
+A prior section 629, added Pub. L. 90–219, title I, § 101, Dec. 20, 1967, 81 Stat. 667, related to organization provisions for the Board, prior to repeal by Pub. L. 95–598, title II, § 230(1), Nov. 6, 1978, 92 Stat. 2665, effective Nov. 6, 1978.

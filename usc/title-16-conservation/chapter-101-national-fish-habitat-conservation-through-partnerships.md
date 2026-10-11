@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 101—NATIONAL FISH HABITAT CONSERVATION THROUGH PARTNERSHIPS
 
-## § 8201. Purpose
+## § 8201. Purpose
 
 The purpose of this chapter is to encourage partnerships among public agencies and other interested persons to promote fish conservation—
 
@@ -49,19 +49,19 @@ The purpose of this chapter is to encourage partnerships among public agencies a
 
 **(B)** new opportunities and voluntary approaches for conserving fish habitat.
 
-(Pub. L. 116–188, title II, § 201, Oct. 30, 2020, 134 Stat. 924.)
+(Pub. L. 116–188, title II, § 201, Oct. 30, 2020, 134 Stat. 924.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–198, § 1(a), Dec. 23, 2024, 138 Stat. 2678, provided that: “This Act [amending sections 666c–1, 667h, 3709, 4406, 8203 to 8206, 8209, 8211, and 8212 of this title, sections 8355 and 8356 of Title 7, Agriculture, and section 1267 of Title 33, Navigation and Navigable Waters, and provisions set out as notes under section 2601 of Title 15, Commerce and Trade, section 1267 of Title 33, and section 320101 of Title 54, National Park Service and Related Programs] may be cited as the ‘America’s Conservation Enhancement Reauthorization Act of 2024’.”
+Pub. L. 118–198, § 1(a), Dec. 23, 2024, 138 Stat. 2678, provided that: “This Act [amending sections 666c–1, 667h, 3709, 4406, 8203 to 8206, 8209, 8211, and 8212 of this title, sections 8355 and 8356 of Title 7, Agriculture, and section 1267 of Title 33, Navigation and Navigable Waters, and provisions set out as notes under section 2601 of Title 15, Commerce and Trade, section 1267 of Title 33, and section 320101 of Title 54, National Park Service and Related Programs] may be cited as the ‘America’s Conservation Enhancement Reauthorization Act of 2024’.”
 
 **Short Title**
 
-Pub. L. 116–188, § 1(a), Oct. 30, 2020, 134 Stat. 905, provided that: “This Act [enacting this chapter, sections 667h and 669*l* of this title, and sections 8355 and 8356 of Title 7, Agriculture, amending sections 666c–1, 3702, 3703, 3709, 3710, 4403, and 4406 of this title and section 1267 of Title 33, Navigation and Navigable Waters, enacting provisions set out as notes under section 2601 of Title 15, Commerce and Trade, and section 1267 of Title 33, and amending provisions set out as notes under sections 669 and 742b of this title and section 320101 of Title 54, National Park Service and Related Programs] may be cited as the ‘America’s Conservation Enhancement Act’.”
+Pub. L. 116–188, § 1(a), Oct. 30, 2020, 134 Stat. 905, provided that: “This Act [enacting this chapter, sections 667h and 669*l* of this title, and sections 8355 and 8356 of Title 7, Agriculture, amending sections 666c–1, 3702, 3703, 3709, 3710, 4403, and 4406 of this title and section 1267 of Title 33, Navigation and Navigable Waters, enacting provisions set out as notes under section 2601 of Title 15, Commerce and Trade, and section 1267 of Title 33, and amending provisions set out as notes under sections 669 and 742b of this title and section 320101 of Title 54, National Park Service and Related Programs] may be cited as the ‘America’s Conservation Enhancement Act’.”
 
-## § 8202. Definitions
+## § 8202. Definitions
 
 In this chapter:
 
@@ -123,9 +123,9 @@ The term “State” means each of the several States, Puerto Rico, American Sam
 
 **(B)** any department or division of a department or agency of a State that manages in the public trust the inland or marine fishery resources of the State or sustains the habitat for those fishery resources pursuant to State law or the constitution of the State.
 
-(Pub. L. 116–188, title II, § 202, Oct. 30, 2020, 134 Stat. 925.)
+(Pub. L. 116–188, title II, § 202, Oct. 30, 2020, 134 Stat. 925.)
 
-## § 8203. National Fish Habitat Board
+## § 8203. National Fish Habitat Board
 
 **(a) Establishment**
 
@@ -293,17 +293,17 @@ All meetings of the Board shall be open to the public.
 
 A majority of the members of the Board shall constitute a quorum.
 
-(Pub. L. 116–188, title II, § 203, Oct. 30, 2020, 134 Stat. 926; Pub. L. 118–198, title II, § 201, Dec. 23, 2024, 138 Stat. 2681.)
+(Pub. L. 116–188, title II, § 203, Oct. 30, 2020, 134 Stat. 926; Pub. L. 118–198, title II, § 201, Dec. 23, 2024, 138 Stat. 2681.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a)(2). Pub. L. 118–198, § 201(1)(A), substituted “28 members” for “26 members” in introductory provisions.
+2024—Subsec. (a)(2). Pub. L. 118–198, § 201(1)(A), substituted “28 members” for “26 members” in introductory provisions.
 
-Subsec. (a)(2)(A). Pub. L. 118–198, § 201(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “1 shall be a representative of the Department of the Interior;”.
+Subsec. (a)(2)(A). Pub. L. 118–198, § 201(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “1 shall be a representative of the Department of the Interior;”.
 
-Subsec. (a)(2)(G), (H). Pub. L. 118–198, § 201(1)(C), added subpars. (G) and (H) and struck out former subpars. (G) and (H) which read as follows:
+Subsec. (a)(2)(G), (H). Pub. L. 118–198, § 201(1)(C), added subpars. (G) and (H) and struck out former subpars. (G) and (H) which read as follows:
 
 “(G) 2 shall be representatives of either—
 
@@ -317,9 +317,9 @@ Subsec. (a)(2)(G), (H). Pub. L. 118–198, § 201(1)(C), added subpars. (G) an
 
 “(ii) a representative of the Marine Fisheries Commissions;”.
 
-Subsec. (e)(1)(B). Pub. L. 118–198, § 201(2), substituted “the members present” for “all members”.
+Subsec. (e)(1)(B). Pub. L. 118–198, § 201(2), substituted “the members present” for “all members”.
 
-## § 8204. Fish Habitat Partnerships
+## § 8204. Fish Habitat Partnerships
 
 **(a) Authority to recommend**
 
@@ -395,9 +395,9 @@ The Board may recommend to Congress the designation of Fish Habitat Partnerships
 
 **(ii)** the Board recommends to Congress for designation as a Partnership;
 
-**(B)** describes any proposed modifications to a Partnership previously designated by Congress under subsection (f); 1
+**(B)** describes any proposed modifications to a Partnership previously designated by Congress under subsection (f); 1
 
-<sup>1</sup>  So in original. Probably should be followed by “and”.
+<sup>1</sup> So in original. Probably should be followed by “and”.
 
 **(C)** with respect to each entity recommended for designation as a Partnership, describes, to the maximum extent practicable—
 
@@ -435,19 +435,19 @@ Not later than 5 years after October 30, 2020, any partnership receiving Federal
 
 A partnership referred to in paragraph (1) that Congress does not designate as described in that paragraph shall be ineligible to receive Federal funds under this chapter.
 
-(Pub. L. 116–188, title II, § 204, Oct. 30, 2020, 134 Stat. 928; Pub. L. 118–198, title II, § 202, Dec. 23, 2024, 138 Stat. 2681.)
+(Pub. L. 116–188, title II, § 204, Oct. 30, 2020, 134 Stat. 928; Pub. L. 118–198, title II, § 202, Dec. 23, 2024, 138 Stat. 2681.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (e)(1). Pub. L. 118–198, § 202(1)(A), inserted “, subject to paragraph (3),” after “October 30, 2020, and” in introductory provisions.
+2024—Subsec. (e)(1). Pub. L. 118–198, § 202(1)(A), inserted “, subject to paragraph (3),” after “October 30, 2020, and” in introductory provisions.
 
-Subsec. (e)(3). Pub. L. 118–198, § 202(1)(B), added par. (3).
+Subsec. (e)(3). Pub. L. 118–198, § 202(1)(B), added par. (3).
 
-Subsec. (f). Pub. L. 118–198, § 202(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “Congress shall have the exclusive authority to designate or modify a Partnership.”
+Subsec. (f). Pub. L. 118–198, § 202(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “Congress shall have the exclusive authority to designate or modify a Partnership.”
 
-## § 8205. Fish habitat conservation projects
+## § 8205. Fish habitat conservation projects
 
 **(a) Submission to Board**
 
@@ -573,23 +573,23 @@ If the Secretary approves a fish habitat conservation project under paragraph (1
 
 If the Secretary rejects under paragraph (1) any fish habitat conservation project recommended by the Board, not later than 90 days after the date of receipt of the recommendation, the Secretary shall provide to the Board, the appropriate Partnership, and the appropriate congressional committees a written statement of the reasons that the Secretary rejected the fish habitat conservation project.
 
-(Pub. L. 116–188, title II, § 205, Oct. 30, 2020, 134 Stat. 931; Pub. L. 118–198, title II, § 203, Dec. 23, 2024, 138 Stat. 2682.)
+(Pub. L. 116–188, title II, § 205, Oct. 30, 2020, 134 Stat. 931; Pub. L. 118–198, title II, § 203, Dec. 23, 2024, 138 Stat. 2682.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(5)(E), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(5)(E), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Amendments**
 
-2024—Subsec. (b). Pub. L. 118–198, § 203(1), struck out “for the following fiscal year” before period at end.
+2024—Subsec. (b). Pub. L. 118–198, § 203(1), struck out “for the following fiscal year” before period at end.
 
-Subsec. (e)(1). Pub. L. 118–198, § 203(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Except as provided in paragraphs (2) and (4), no fish habitat conservation project may be recommended by the Board under subsection (b) or provided financial assistance under this chapter unless at least 50 percent of the cost of the fish habitat conservation project will be funded with non-Federal funds.”
+Subsec. (e)(1). Pub. L. 118–198, § 203(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Except as provided in paragraphs (2) and (4), no fish habitat conservation project may be recommended by the Board under subsection (b) or provided financial assistance under this chapter unless at least 50 percent of the cost of the fish habitat conservation project will be funded with non-Federal funds.”
 
-Subsec. (e)(2). Pub. L. 118–198, § 203(2)(B), substituted “The non-Federal share described in paragraph (1)” for “Such non-Federal share of the cost of a fish habitat conservation project” in introductory provisions.
+Subsec. (e)(2). Pub. L. 118–198, § 203(2)(B), substituted “The non-Federal share described in paragraph (1)” for “Such non-Federal share of the cost of a fish habitat conservation project” in introductory provisions.
 
-## § 8206. Technical and scientific assistance
+## § 8206. Technical and scientific assistance
 
 **(a) In general**
 
@@ -611,21 +611,21 @@ The Director, the National Oceanic and Atmospheric Administration Assistant Admi
 
 **(7)** providing resources to secure State agency scientific and technical assistance to support Partnerships, participants in fish habitat conservation projects, and the Board.
 
-(Pub. L. 116–188, title II, § 206, Oct. 30, 2020, 134 Stat. 934; Pub. L. 118–198, title II, § 204, Dec. 23, 2024, 138 Stat. 2682.)
+(Pub. L. 116–188, title II, § 206, Oct. 30, 2020, 134 Stat. 934; Pub. L. 118–198, title II, § 204, Dec. 23, 2024, 138 Stat. 2682.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–198 inserted “, the Bureau of Land Management,” after “the Forest Service”.
+2024—Subsec. (a). Pub. L. 118–198 inserted “, the Bureau of Land Management,” after “the Forest Service”.
 
-## § 8207. Coordination with States and Indian Tribes
+## § 8207. Coordination with States and Indian Tribes
 
 The Secretary shall provide a notice to, and cooperate with, the appropriate State agency or Tribal agency, as applicable, of each State and Indian Tribe within the boundaries of which an activity is planned to be carried out pursuant to this chapter, including notification, by not later than 30 days before the date on which the activity is implemented.
 
-(Pub. L. 116–188, title II, § 207, Oct. 30, 2020, 134 Stat. 934.)
+(Pub. L. 116–188, title II, § 207, Oct. 30, 2020, 134 Stat. 934.)
 
-## § 8208. Interagency operational plan
+## § 8208. Interagency operational plan
 
 Not later than 1 year after October 30, 2020, and every 5 years thereafter, the Director, in cooperation with the National Oceanic and Atmospheric Administration Assistant Administrator, the Environmental Protection Agency Assistant Administrator, the Director of the United States Geological Survey, and the heads of other appropriate Federal departments and agencies (including, at a minimum, those agencies represented on the Board) shall develop an interagency operational plan that describes—
 
@@ -633,9 +633,9 @@ Not later than 1 year after October 30, 2020, and every 5 years thereafter, the 
 
 **(2)** any interagency agreements between or among Federal departments and agencies to address those needs.
 
-(Pub. L. 116–188, title II, § 208, Oct. 30, 2020, 134 Stat. 935.)
+(Pub. L. 116–188, title II, § 208, Oct. 30, 2020, 134 Stat. 935.)
 
-## § 8209. Accountability and reporting
+## § 8209. Accountability and reporting
 
 **(a) In general**
 
@@ -667,25 +667,25 @@ Not later than 5 years after October 30, 2020, and every 5 years thereafter, the
 
 **(E)** an accounting of expenditures by Federal, State, or local governments, Indian Tribes, or other entities to carry out fish habitat conservation projects under this chapter.
 
-(Pub. L. 116–188, title II, § 209, Oct. 30, 2020, 134 Stat. 935; Pub. L. 118–198, title II, § 205, Dec. 23, 2024, 138 Stat. 2682.)
+(Pub. L. 116–188, title II, § 209, Oct. 30, 2020, 134 Stat. 935; Pub. L. 118–198, title II, § 205, Dec. 23, 2024, 138 Stat. 2682.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2024—Subsec. (a). Pub. L. 118–198, § 205(2)(A), inserted subsec. (a) designation and heading and struck out former subsec. (a) designation and heading “Reporting” and former par. (1) designation and heading “In general” before “Not later than”.
+2024—Subsec. (a). Pub. L. 118–198, § 205(2)(A), inserted subsec. (a) designation and heading and struck out former subsec. (a) designation and heading “Reporting” and former par. (1) designation and heading “In general” before “Not later than”.
 
-Subsec. (a)(2). Pub. L. 118–198, § 205(2)(B), redesignated par. (2) of subsec. (a) as subsec. (b) and realigned margins.
+Subsec. (a)(2). Pub. L. 118–198, § 205(2)(B), redesignated par. (2) of subsec. (a) as subsec. (b) and realigned margins.
 
-Subsec. (b). Pub. L. 118–198, § 205(1), (2)(B), (3)(A), (B), redesignated par. (2) of subsec. (a) as subsec. (b) and subpars. (A), (B), (C), and (D) of former par. (2) of subsec. (a) as pars. (1), (2), (3), and (5), respectively, of subsec. (b), realigned margins, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and struck out former subsec. (b) which authorized the Board to submit status and trends report to appropriate congressional committees.
+Subsec. (b). Pub. L. 118–198, § 205(1), (2)(B), (3)(A), (B), redesignated par. (2) of subsec. (a) as subsec. (b) and subpars. (A), (B), (C), and (D) of former par. (2) of subsec. (a) as pars. (1), (2), (3), and (5), respectively, of subsec. (b), realigned margins, substituted “subsection (a)” for “paragraph (1)” in introductory provisions, and struck out former subsec. (b) which authorized the Board to submit status and trends report to appropriate congressional committees.
 
-Subsec. (b)(4). Pub. L. 118–198, § 205(3)(C), (D), added par. (4).
+Subsec. (b)(4). Pub. L. 118–198, § 205(3)(C), (D), added par. (4).
 
-Subsec. (b)(5). Pub. L. 118–198, § 205(3)(E)(i), redesignated cls. (i) to (v) as subpars. (A) to (E), respectively, and realigned margins.
+Subsec. (b)(5). Pub. L. 118–198, § 205(3)(E)(i), redesignated cls. (i) to (v) as subpars. (A) to (E), respectively, and realigned margins.
 
-Subsec. (b)(5)(C). Pub. L. 118–198, § 205(3)(E)(ii), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and realigned margins.
+Subsec. (b)(5)(C). Pub. L. 118–198, § 205(3)(E)(ii), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and realigned margins.
 
-## § 8210. Effect of this chapter
+## § 8210. Effect of this chapter
 
 **(a) Water rights** Nothing in this chapter—
 
@@ -745,21 +745,21 @@ Nothing in this chapter permits the use of funds made available to carry out thi
 
 Nothing in this chapter affects any provision of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), including any definition in that Act.
 
-(Pub. L. 116–188, title II, § 210, Oct. 30, 2020, 134 Stat. 936.)
+(Pub. L. 116–188, title II, § 210, Oct. 30, 2020, 134 Stat. 936.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (g)(2)(A), (3), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (g)(2)(A), (3), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (g)(2)(B), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 The Water Resources Development Act of 1986, referred to in subsec. (g)(2)(C), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 99–662, set out as a Short Title note under section 2201 of Title 33, Navigation and Navigable Waters, and Tables.
 
-## § 8211. Nonapplicability of Federal Advisory Committee Act
+## § 8211. Nonapplicability of Federal Advisory Committee Act
 
 Chapter 10 of title 5 (commonly known as the “Federal Advisory Committee Act”), shall not apply to—
 
@@ -767,7 +767,7 @@ Chapter 10 of title 5 (commonly known as the “Federal Advisory Committee Act�
 
 **(2)** any Partnership.
 
-(Pub. L. 116–188, title II, § 211, Oct. 30, 2020, 134 Stat. 937; Pub. L. 118–198, title II, § 207, Dec. 23, 2024, 138 Stat. 2683.)
+(Pub. L. 116–188, title II, § 211, Oct. 30, 2020, 134 Stat. 937; Pub. L. 118–198, title II, § 207, Dec. 23, 2024, 138 Stat. 2683.)
 
 **Editorial Notes**
 
@@ -775,7 +775,7 @@ Chapter 10 of title 5 (commonly known as the “Federal Advisory Committee Act�
 
 2024—Pub. L. 118–198 substituted “Chapter 10 of title 5 (commonly known as the ‘Federal Advisory Committee Act’),” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in introductory provisions.
 
-## § 8212. Funding
+## § 8212. Funding
 
 **(a) Authorization of appropriations**
 
@@ -827,7 +827,7 @@ There is authorized to be appropriated to the Secretary $7,200,000 for each of f
 
 **(ii)** provided to another Federal department or agency through an interagency agreement.
 
-(Pub. L. 116–188, title II, § 212, Oct. 30, 2020, 134 Stat. 937; Pub. L. 118–198, title II, § 206, Dec. 23, 2024, 138 Stat. 2683.)
+(Pub. L. 116–188, title II, § 212, Oct. 30, 2020, 134 Stat. 937; Pub. L. 118–198, title II, § 206, Dec. 23, 2024, 138 Stat. 2683.)
 
 **Editorial Notes**
 
@@ -839,13 +839,13 @@ This Act, referred to in subsec. (b)(3), is Pub. L. 116–188, Oct. 30, 2020, 13
 
 **Amendments**
 
-2024—Subsec. (a)(1). Pub. L. 118–198, § 206(1), inserted “Partnerships and” after “habitat” in heading and “Partnership operations under section 8204 of this title and” after “to provide funds for” in text and substituted “2030” for “2025”.
+2024—Subsec. (a)(1). Pub. L. 118–198, § 206(1), inserted “Partnerships and” after “habitat” in heading and “Partnership operations under section 8204 of this title and” after “to provide funds for” in text and substituted “2030” for “2025”.
 
-Subsec. (a)(2). Pub. L. 118–198, § 206(2), substituted “2030” for “2025” in introductory provisions.
+Subsec. (a)(2). Pub. L. 118–198, § 206(2), substituted “2030” for “2025” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 118–198, § 206(3), substituted “2030” for “2025” in introductory provisions.
+Subsec. (a)(3). Pub. L. 118–198, § 206(3), substituted “2030” for “2025” in introductory provisions.
 
-## § 8213. Prohibition against implementation of regulatory authority by Federal agencies through partnerships
+## § 8213. Prohibition against implementation of regulatory authority by Federal agencies through partnerships
 
 Any Partnership designated under this chapter—
 
@@ -853,4 +853,4 @@ Any Partnership designated under this chapter—
 
 **(2)** shall not be used to implement any regulatory authority of any Federal agency.
 
-(Pub. L. 116–188, title II, § 213, Oct. 30, 2020, 134 Stat. 938.)
+(Pub. L. 116–188, title II, § 213, Oct. 30, 2020, 134 Stat. 938.)

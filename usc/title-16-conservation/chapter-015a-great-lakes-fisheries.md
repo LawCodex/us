@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 15A—GREAT LAKES FISHERIES
 
-## § 931. Definitions
+## § 931. Definitions
 
 As used in this chapter, the term—
 
@@ -29,19 +29,19 @@ As used in this chapter, the term—
 
 **(e)** “Great Lakes” means any of the following bodies of water: Lake Ontario (including the Saint Lawrence River from Lake Ontario to the forty-fifth parallel of latitude), Lake Erie, Lake Huron (including Lake Saint Clair), Lake Michigan, or Lake Superior.
 
-(June 4, 1956, ch. 358, § 2, 70 Stat. 242.)
+(June 4, 1956, ch. 358, § 2, 70 Stat. 242.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Act June 4, 1956, ch. 358, § 1, 70 Stat. 242, provided: “That this Act [enacting this chapter] may be cited as the ‘Great Lakes Fishery Act of 1956’.”
+Act June 4, 1956, ch. 358, § 1, 70 Stat. 242, provided: “That this Act [enacting this chapter] may be cited as the ‘Great Lakes Fishery Act of 1956’.”
 
 **Separability**
 
-Act June 4, 1956, ch. 358, § 14, 70 Stat. 244, provided that: “If any provision of this Act [this chapter] or the application of such provision to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby”.
+Act June 4, 1956, ch. 358, § 14, 70 Stat. 244, provided that: “If any provision of this Act [this chapter] or the application of such provision to any circumstances or persons shall be held invalid, the validity of the remainder of the Act and the applicability of such provision to other circumstances or persons shall not be affected thereby”.
 
-## § 932. Commissioners; appointment, number, and compensation; term of office; vacancy
+## § 932. Commissioners; appointment, number, and compensation; term of office; vacancy
 
 **(a)**
 
@@ -49,9 +49,9 @@ Act June 4, 1956, ch. 358, § 14, 70 Stat. 244, provided that: “If any provi
 
 **(A)** 1 shall be an official of the United States Government; and
 
-**(B)** 3 shall be individuals who reside in different Great Lakes States and who are knowledgeable regarding the fisheries of the Great Lakes, except that 1 of them must also be an official of 1
+**(B)** 3 shall be individuals who reside in different Great Lakes States and who are knowledgeable regarding the fisheries of the Great Lakes, except that 1 of them must also be an official of 1
 
-<sup>1</sup>  So in original. Probably should be followed by “a”.
+<sup>1</sup> So in original. Probably should be followed by “a”.
 
 Great Lakes State.
 
@@ -71,7 +71,7 @@ Great Lakes State.
 
 **(3)** Whenever a vacancy occurs among Commissioners appointed under subsection (a)(1)(B), the President shall appoint an individual to fill that vacancy for the remainder of the applicable term.
 
-(June 4, 1956, ch. 358, § 3, 70 Stat. 242; Pub. L. 99–659, title IV, § 405(a), Nov. 14, 1986, 100 Stat. 3737; Pub. L. 106–562, title III, § 301, Dec. 23, 2000, 114 Stat. 2806.)
+(June 4, 1956, ch. 358, § 3, 70 Stat. 242; Pub. L. 99–659, title IV, § 405(a), Nov. 14, 1986, 100 Stat. 3737; Pub. L. 106–562, title III, § 301, Dec. 23, 2000, 114 Stat. 2806.)
 
 **Editorial Notes**
 
@@ -89,13 +89,13 @@ Great Lakes State.
 
 **Termination and Transitional Service of Incumbent Commissioners**
 
-Pub. L. 99–659, title IV, § 405(b), Nov. 14, 1986, 100 Stat. 3738, provided that: “The term of office of each United States Commissioner on the Great Lakes Fishery Commission who is serving on the date of enactment of this Act [Nov. 14, 1986] is terminated (except the United States Government official appointed under section 3(a) of the Great Lakes Fishery Act of 1956 (16 U.S.C. 932(a), as in effect before the date of enactment). However, the individuals appointed to those terms shall continue to serve as Commissioners until the President makes appointments under section 3(b)(2) of the Act of 1956 (as added by subsection (a)), which appointments shall be made within 60 days after the date of enactment.”
+Pub. L. 99–659, title IV, § 405(b), Nov. 14, 1986, 100 Stat. 3738, provided that: “The term of office of each United States Commissioner on the Great Lakes Fishery Commission who is serving on the date of enactment of this Act [Nov. 14, 1986] is terminated (except the United States Government official appointed under section 3(a) of the Great Lakes Fishery Act of 1956 (16 U.S.C. 932(a), as in effect before the date of enactment). However, the individuals appointed to those terms shall continue to serve as Commissioners until the President makes appointments under section 3(b)(2) of the Act of 1956 (as added by subsection (a)), which appointments shall be made within 60 days after the date of enactment.”
 
 **Alternate United States Commissioners**
 
 Secretary of State authorized to designate Alternate United States Commissioners, see sections 2672a and 2672b of Title 22, Foreign Relations and Intercourse.
 
-## § 933. Advisory Committee
+## § 933. Advisory Committee
 
 **(a) Appointment and number of members; factors in selection** The United States Section shall appoint an advisory committee for each of the Great Lakes, upon which committee each State bordering on the lake may be represented by not more than four members. In making such appointments, the United States Section shall make its selection for each State from a list proposed by the Governor of that State; and shall give due consideration to the interests of—
 
@@ -119,7 +119,7 @@ The members of the advisory committee shall receive no compensation from the Gov
 
 The members of the advisory committee for each lake shall be invited to attend all nonexecutive meetings of the United States Section relating to that lake and at such meetings shall be granted opportunity to examine and be heard on all proposed recommendations, programs, and activities relating to that lake.
 
-(June 4, 1956, ch. 358, § 4, 70 Stat. 242; Pub. L. 107–228, div. A, title II, § 208, Sept. 30, 2002, 116 Stat. 1364.)
+(June 4, 1956, ch. 358, § 4, 70 Stat. 242; Pub. L. 107–228, div. A, title II, § 208, Sept. 30, 2002, 116 Stat. 1364.)
 
 **Editorial Notes**
 
@@ -133,11 +133,11 @@ The members of the advisory committee for each lake shall be invited to attend a
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-## § 934. Repealed. Pub. L. 92–471, title II, § 203(a), Oct. 9, 1972, 86 Stat. 787
+## § 934. Repealed. Pub. L. 92–471, title II, § 203(a), Oct. 9, 1972, 86 Stat. 787
 
-Section, act June 4, 1956, ch. 358, § 5, 70 Stat. 243, provided that service of individuals appointed as United States Commissioners shall not be treated as service for the purposes of certain sections of Title 18, Crimes and Criminal Procedure, and Title 5, Government Organization and Employees.
+Section, act June 4, 1956, ch. 358, § 5, 70 Stat. 243, provided that service of individuals appointed as United States Commissioners shall not be treated as service for the purposes of certain sections of Title 18, Crimes and Criminal Procedure, and Title 5, Government Organization and Employees.
 
-## § 935. Acquisition of real property; construction and operation of lamprey control works; entry into agreements for construction and operation of works
+## § 935. Acquisition of real property; construction and operation of lamprey control works; entry into agreements for construction and operation of works
 
 In order to carry out the obligations of the United States under the Convention, the United States Section is authorized—
 
@@ -147,7 +147,7 @@ In order to carry out the obligations of the United States under the Convention,
 
 **(c)** to enter into contract or agreement with any State or other public agency or private agency or individual for the construction, operation, or maintenance of any such project or works.
 
-(June 4, 1956, ch. 358, § 6, 70 Stat. 243.)
+(June 4, 1956, ch. 358, § 6, 70 Stat. 243.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -155,7 +155,7 @@ In order to carry out the obligations of the United States under the Convention,
 
 Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1918, provided in part that: “beginning October 1, 1990, and thereafter, the United States Fish and Wildlife Service can perform work for the Great Lakes Fishery Commission, authorized by 16 U.S.C. 931–939c, Great Lakes Fisheries [Fishery] Act of 1956, on the sea lamprey program on a reimbursable basis: *Provided further*, That such reimbursements are to be treated as Intragovernmental funds as defined in the publication titled ‘A Glossary of Terms Used in the Federal Budget Process’.”
 
-## § 936. Secretary of the Interior; authority to transfer lamprey control projects and act on behalf of United States Section
+## § 936. Secretary of the Interior; authority to transfer lamprey control projects and act on behalf of United States Section
 
 The Secretary of the Interior is authorized, upon the request of the United States Section—
 
@@ -163,17 +163,17 @@ The Secretary of the Interior is authorized, upon the request of the United Stat
 
 **(b)** to act for or on behalf of the United States Section in the exercise of the powers granted by this chapter.
 
-(June 4, 1956, ch. 358, § 7, 70 Stat. 243.)
+(June 4, 1956, ch. 358, § 7, 70 Stat. 243.)
 
-## § 937. United States Section as agency of United States
+## § 937. United States Section as agency of United States
 
-The United States Section shall, for the purposes of these 1
+The United States Section shall, for the purposes of these 1
 
-<sup>1</sup>  So in original. Probably should be “those”.
+<sup>1</sup> So in original. Probably should be “those”.
 
 provisions of title 28, relating to claims against the United States and tort claims procedure, be deemed to be an agency of the United States.
 
-(June 4, 1956, ch. 358, § 8, 70 Stat. 243.)
+(June 4, 1956, ch. 358, § 8, 70 Stat. 243.)
 
 **Editorial Notes**
 
@@ -181,32 +181,32 @@ provisions of title 28, relating to claims against the United States and tort cl
 
 Provisions of title 28, relating to claims against the United States, referred to in text, include sections 1346(b), 2501 et seq., and 2671 et seq., of Title 28, Judiciary and Judicial Procedure.
 
-## § 938. Notice of proposals
+## § 938. Notice of proposals
 
 At least thirty days before approving a proposal to utilize a lamprey control measure or install a device in any stream, the United States Section shall cause notice of such proposal to be sent to the official agency having jurisdiction over fisheries in each of the States through which the stream flows.
 
-(June 4, 1956, ch. 358, § 9, 70 Stat. 243.)
+(June 4, 1956, ch. 358, § 9, 70 Stat. 243.)
 
-## § 939. Transmission of recommendations
+## § 939. Transmission of recommendations
 
 The Secretary of State shall upon the receipt from the Commission of any recommendation of a conservation measure made in accordance with article IV of the Convention transmit a copy of the recommendation with his comments thereon to the Governor of each Great Lakes State for consideration and such action as may be found to be appropriate. The Secretary of State shall also inform such other public agencies as he may deem appropriate.
 
-(June 4, 1956, ch. 358, § 10, 70 Stat. 244.)
+(June 4, 1956, ch. 358, § 10, 70 Stat. 244.)
 
-## § 939a. Cooperation with other agencies
+## § 939a. Cooperation with other agencies
 
 Any agency of the United States Government is authorized to cooperate with the United States Section in the conduct of research programs and related activities and, on a reimbursable or other basis, to enter into agreements with the United States Section for the purpose of assisting it in carrying out the program for the control of lamprey populations.
 
-(June 4, 1956, ch. 358, § 11, 70 Stat. 244.)
+(June 4, 1956, ch. 358, § 11, 70 Stat. 244.)
 
-## § 939b. State laws and regulations
+## § 939b. State laws and regulations
 
 Nothing in this chapter shall be construed as preventing any of the Great Lakes States from making or enforcing laws or regulations within their respective jurisdictions so far as such laws or regulations do not conflict with the Convention or this chapter.
 
-(June 4, 1956, ch. 358, § 12, 70 Stat. 244.)
+(June 4, 1956, ch. 358, § 12, 70 Stat. 244.)
 
-## § 939c. Authorization of appropriations
+## § 939c. Authorization of appropriations
 
 There is hereby authorized to be appropriated from time to time such sums as may be necessary for carrying out the purposes and provisions of the Convention and this chapter.
 
-(June 4, 1956, ch. 358, § 13, 70 Stat. 244.)
+(June 4, 1956, ch. 358, § 13, 70 Stat. 244.)

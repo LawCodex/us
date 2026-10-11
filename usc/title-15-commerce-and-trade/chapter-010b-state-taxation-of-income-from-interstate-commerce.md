@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—NET INCOME TAXES
 
-### § 381. Imposition of net income tax
+### § 381. Imposition of net income tax
 
 **(a) Minimum standards** No State, or political subdivision thereof, shall have power to impose, for any taxable year ending after September 14, 1959, a net income tax on the income derived within such State by any person from interstate commerce if the only business activities within such State by or on behalf of such person during such taxable year are either, or both, of the following:
 
@@ -41,15 +41,15 @@ For purposes of subsection (a), a person shall not be considered to have engaged
 
 **(2)** the term “representative” does not include an independent contractor.
 
-(Pub. L. 86–272, title I, § 101, Sept. 14, 1959, 73 Stat. 555.)
+(Pub. L. 86–272, title I, § 101, Sept. 14, 1959, 73 Stat. 555.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Study and Report by Congressional Committees of State Taxation From Interstate Commerce**
 
-Title II of Pub. L. 86–272, as amended by Pub. L. 87–17, Apr. 7, 1961, 75 Stat. 41; Pub. L. 87–435, Apr. 21, 1962, 76 Stat. 55; Pub. L. 88–42, June 21, 1963, 77 Stat. 67; Pub. L. 88–286, Mar. 18, 1964, 78 Stat. 166, and repealed by Pub. L. 94–455, title XXI, § 2121(a), Oct. 4, 1976, 90 Stat. 1914, provided for a study by the Committee on the Judiciary of the House of Representatives and the Committee on Finance of the United States Senate, acting separately or jointly, or any duly authorized subcommittee thereof, of all matters pertaining to the taxation of interstate commerce by the States, territories, and possessions of the United States, the District of Columbia, and the Commonwealth of Puerto Rico, or any political or taxing subdivision of the foregoing, and for a report together with their proposals for legislation on or before June 30, 1965.
+Title II of Pub. L. 86–272, as amended by Pub. L. 87–17, Apr. 7, 1961, 75 Stat. 41; Pub. L. 87–435, Apr. 21, 1962, 76 Stat. 55; Pub. L. 88–42, June 21, 1963, 77 Stat. 67; Pub. L. 88–286, Mar. 18, 1964, 78 Stat. 166, and repealed by Pub. L. 94–455, title XXI, § 2121(a), Oct. 4, 1976, 90 Stat. 1914, provided for a study by the Committee on the Judiciary of the House of Representatives and the Committee on Finance of the United States Senate, acting separately or jointly, or any duly authorized subcommittee thereof, of all matters pertaining to the taxation of interstate commerce by the States, territories, and possessions of the United States, the District of Columbia, and the Commonwealth of Puerto Rico, or any political or taxing subdivision of the foregoing, and for a report together with their proposals for legislation on or before June 30, 1965.
 
-### § 382. Assessment of net income taxes
+### § 382. Assessment of net income taxes
 
 **(a) Limitations**
 
@@ -61,30 +61,30 @@ No State, or political subdivision thereof, shall have power to assess, after Se
 
 **(2)** to prohibit the collection, after September 14, 1959, of any net income tax which was assessed on or before such date for a taxable year ending on or before such date.
 
-(Pub. L. 86–272, title I, § 102, Sept. 14, 1959, 73 Stat. 556.)
+(Pub. L. 86–272, title I, § 102, Sept. 14, 1959, 73 Stat. 556.)
 
-### § 383. “Net income tax” defined
+### § 383. “Net income tax” defined
 
 For purposes of this chapter, the term “net income tax” means any tax imposed on, or measured by, net income.
 
-(Pub. L. 86–272, title I, § 103, Sept. 14, 1959, 73 Stat. 556.)
+(Pub. L. 86–272, title I, § 103, Sept. 14, 1959, 73 Stat. 556.)
 
-### § 384. Separability
+### § 384. Separability
 
 If any provision of this chapter or the application of such provision to any person or circumstance is held invalid, the remainder of this chapter or the application of such provision to persons or circumstances other than those to which it is held invalid, shall not be affected thereby.
 
-(Pub. L. 86–272, title I, § 104, Sept. 14, 1959, 73 Stat. 556.)
+(Pub. L. 86–272, title I, § 104, Sept. 14, 1959, 73 Stat. 556.)
 
 ## SUBCHAPTER II—DISCRIMINATORY TAXES
 
-### § 391. Tax on or with respect to generation or transmission of electricity
+### § 391. Tax on or with respect to generation or transmission of electricity
 
 No State, or political subdivision thereof, may impose or assess a tax on or with respect to the generation or transmission of electricity which discriminates against out-of-State manufacturers, producers, wholesalers, retailers, or consumers of that electricity. For purposes of this section a tax is discriminatory if it results, either directly or indirectly, in a greater tax burden on electricity which is generated and transmitted in interstate commerce than on electricity which is generated and transmitted in intrastate commerce.
 
-(Pub. L. 86–272, title II, § 201, as added Pub. L. 94–455, title XXI, § 2121(a), Oct. 4, 1976, 90 Stat. 1914.)
+(Pub. L. 86–272, title II, § 201, as added Pub. L. 94–455, title XXI, § 2121(a), Oct. 4, 1976, 90 Stat. 1914.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 94–455, title XXI, § 2121(b), Oct. 4, 1976, 90 Stat. 1914, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect beginning June 30, 1974.”
+Pub. L. 94–455, title XXI, § 2121(b), Oct. 4, 1976, 90 Stat. 1914, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect beginning June 30, 1974.”

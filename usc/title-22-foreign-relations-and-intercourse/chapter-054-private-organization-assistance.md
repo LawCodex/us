@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—THE ASIA FOUNDATION
 
-### § 4401. Findings
+### § 4401. Findings
 
 The Congress finds that—
 
@@ -31,29 +31,29 @@ The Congress finds that—
 
 **(5)** it is in the interest of the United States, and the further strengthening of Asian-American friendship and cooperation, to establish a more permanent mechanism for United States Government financial support for the ongoing activities of The Asia Foundation, while preserving the independent character of the Foundation.
 
-(Pub. L. 98–164, title IV, § 402, Nov. 22, 1983, 97 Stat. 1038.)
+(Pub. L. 98–164, title IV, § 402, Nov. 22, 1983, 97 Stat. 1038.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 98–164, title IV, § 401, Nov. 22, 1983, 97 Stat. 1038, provided that: “This title [enacting this subchapter] may be cited as ‘The Asia Foundation Act’.”
+Pub. L. 98–164, title IV, § 401, Nov. 22, 1983, 97 Stat. 1038, provided that: “This title [enacting this subchapter] may be cited as ‘The Asia Foundation Act’.”
 
 For short title of title V of Pub. L. 98–164, which enacted subchapter II of this chapter, as the “National Endowment for Democracy Act”, see section 501 of Pub. L. 98–164, set out as a Short Title note under section 4411 of this title.
 
-### § 4402. Grants; authorization; purposes; terms and conditions; deposit of interest
+### § 4402. Grants; authorization; purposes; terms and conditions; deposit of interest
 
 **(a)** The Secretary of State shall make an annual grant to The Asia Foundation with the funds made available under section 4403 of this title. Such grants shall be in general support of the Foundation’s programs and operations. The terms and conditions of grants pursuant to this section shall be set forth in a grant agreement between the Secretary of State and The Asia Foundation.
 
 **(b)** If funds made available to The Asia Foundation pursuant to this subchapter or pursuant to any other provision of law are, with the permission of the head of the Federal agency making the funds available, invested by the Foundation or any of its subgrantees pending disbursement, the resulting interest is not required to be deposited in the United States Treasury if that interest is used for the purposes for which the funds were made available.
 
-(Pub. L. 98–164, title IV, § 403, Nov. 22, 1983, 97 Stat. 1038.)
+(Pub. L. 98–164, title IV, § 403, Nov. 22, 1983, 97 Stat. 1038.)
 
-### § 4403. Funding
+### § 4403. Funding
 
 There is authorized to be appropriated to the Secretary of State $15,000,000 for the fiscal year 2003 for grants to The Asia Foundation pursuant to this subchapter.
 
-(Pub. L. 98–164, title IV, § 404, Nov. 22, 1983, 97 Stat. 1039; Pub. L. 99–93, title IV, § 401, Aug. 16, 1985, 99 Stat. 437; Pub. L. 100–204, title VI, § 601, Dec. 22, 1987, 101 Stat. 1383; Pub. L. 101–246, title V, § 501, Feb. 16, 1990, 104 Stat. 73; Pub. L. 105–277, div. G, subdiv. B, title XXI, § 2103, Oct. 21, 1998, 112 Stat. 2681–803; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title I, § 105], Nov. 29, 1999, 113 Stat. 1536, 1501A–414; Pub. L. 107–228, div. A, title I, § 116, Sept. 30, 2002, 116 Stat. 1360.)
+(Pub. L. 98–164, title IV, § 404, Nov. 22, 1983, 97 Stat. 1039; Pub. L. 99–93, title IV, § 401, Aug. 16, 1985, 99 Stat. 437; Pub. L. 100–204, title VI, § 601, Dec. 22, 1987, 101 Stat. 1383; Pub. L. 101–246, title V, § 501, Feb. 16, 1990, 104 Stat. 73; Pub. L. 105–277, div. G, subdiv. B, title XXI, § 2103, Oct. 21, 1998, 112 Stat. 2681–803; Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title I, § 105], Nov. 29, 1999, 113 Stat. 1536, 1501A–414; Pub. L. 107–228, div. A, title I, § 116, Sept. 30, 2002, 116 Stat. 1360.)
 
 **Editorial Notes**
 
@@ -77,7 +77,7 @@ There is authorized to be appropriated to the Secretary of State $15,000,000 for
 
 ## SUBCHAPTER II—NATIONAL ENDOWMENT FOR DEMOCRACY
 
-### § 4411. Findings; statement of purposes
+### § 4411. Findings; statement of purposes
 
 **(a)** The Congress finds that there has been established in the District of Columbia a private, nonprofit corporation known as the National Endowment for Democracy (hereafter in this subchapter referred to as the “Endowment”) which is not an agency or establishment of the United States Government.
 
@@ -95,15 +95,15 @@ There is authorized to be appropriated to the Secretary of State $15,000,000 for
 
 **(6)** to encourage the establishment and growth of democratic development in a manner consistent both with the broad concerns of United States national interests and with the specific requirements of the democratic groups in other countries which are aided by programs funded by the Endowment.
 
-(Pub. L. 98–164, title V, § 502, Nov. 22, 1983, 97 Stat. 1039.)
+(Pub. L. 98–164, title V, § 502, Nov. 22, 1983, 97 Stat. 1039.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 98–164, title V, § 501, Nov. 22, 1983, 97 Stat. 1039, provided that: “This title [enacting this subchapter] may be cited as the ‘National Endowment for Democracy Act’.”
+Pub. L. 98–164, title V, § 501, Nov. 22, 1983, 97 Stat. 1039, provided that: “This title [enacting this subchapter] may be cited as the ‘National Endowment for Democracy Act’.”
 
-### § 4412. Grants to the Endowment
+### § 4412. Grants to the Endowment
 
 **(a) Authorization; funding; grant agreement**
 
@@ -131,7 +131,7 @@ The Endowment and its grantees shall be subject to the appropriate oversight pro
 
 Nothing in this subchapter shall preclude the Endowment from making grants to independent labor unions.
 
-(Pub. L. 98–164, title V, § 503, Nov. 22, 1983, 97 Stat. 1040; Pub. L. 100–204, title II, § 212, Dec. 22, 1987, 101 Stat. 1376.)
+(Pub. L. 98–164, title V, § 503, Nov. 22, 1983, 97 Stat. 1040; Pub. L. 100–204, title II, § 212, Dec. 22, 1987, 101 Stat. 1376.)
 
 **Editorial Notes**
 
@@ -149,7 +149,7 @@ This Act, referred to in subsec. (e), is Pub. L. 98–164, Nov. 22, 1983, 97 Sta
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 4413. Eligibility of the Endowment for grants
+### § 4413. Eligibility of the Endowment for grants
 
 **(a) Compliance with statutory requirements**
 
@@ -203,7 +203,7 @@ Not later than February 1 of each year, the Endowment shall submit an annual rep
 
 After January 31, 1993, no member of the Board of the Endowment may be a member of the board of directors or an officer of any grantee of the National Endowment for Democracy which receives more than 5 percent of the funds of the Endowment for any fiscal year.
 
-(Pub. L. 98–164, title V, § 504, Nov. 22, 1983, 97 Stat. 1040; Pub. L. 99–93, title II, § 210(b), (d), Aug. 16, 1985, 99 Stat. 432; Pub. L. 100–204, title II, § 211, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 102–138, title II, §§ 211(d), 215, Oct. 28, 1991, 105 Stat. 695, 697; Pub. L. 103–236, title II, § 228, Apr. 30, 1994, 108 Stat. 423; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 98–164, title V, § 504, Nov. 22, 1983, 97 Stat. 1040; Pub. L. 99–93, title II, § 210(b), (d), Aug. 16, 1985, 99 Stat. 432; Pub. L. 100–204, title II, § 211, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 102–138, title II, §§ 211(d), 215, Oct. 28, 1991, 105 Stat. 695, 697; Pub. L. 103–236, title II, § 228, Apr. 30, 1994, 108 Stat. 423; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Editorial Notes**
 
@@ -213,9 +213,9 @@ After January 31, 1993, no member of the Board of the Endowment may be a member 
 
 1994—Subsec. (h)(1). Pub. L. 103–236 substituted “bank accounts or separate self-balancing ledger accounts” for “accounts”.
 
-1991—Subsec. (g). Pub. L. 102–138, § 211(d), substituted “shall” for “may also” before “be audited”.
+1991—Subsec. (g). Pub. L. 102–138, § 211(d), substituted “shall” for “may also” before “be audited”.
 
-Subsec. (j). Pub. L. 102–138, § 215, added subsec. (j).
+Subsec. (j). Pub. L. 102–138, § 215, added subsec. (j).
 
 1987—Subsec. (h)(1). Pub. L. 100–204 inserted “separate accounts with respect to such assistance and” after “keeps”.
 
@@ -227,7 +227,7 @@ Subsec. (j). Pub. L. 102–138, § 215, added subsec. (j).
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 4414. Requirements relating to the Endowment and its grantees
+### § 4414. Requirements relating to the Endowment and its grantees
 
 **(a) Partisan politics**
 
@@ -241,9 +241,9 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 The Endowment shall consult with the Department of State on any overseas program funded by the Endowment prior to the commencement of the activities of that program.
 
-(Pub. L. 98–164, title V, § 505, as added Pub. L. 99–93, title II, § 210(a), Aug. 16, 1985, 99 Stat. 431.)
+(Pub. L. 98–164, title V, § 505, as added Pub. L. 99–93, title II, § 210(a), Aug. 16, 1985, 99 Stat. 431.)
 
-### § 4415. Freedom of information
+### § 4415. Freedom of information
 
 **(a) Compliance with Freedom of Information Act**
 
@@ -261,7 +261,7 @@ For purposes of complying pursuant to subsection (a) with section 552(a)(1) of s
 
 **(3)** If the Director disapproves the determination not to comply with such request, the Endowment shall comply with such request.
 
-(Pub. L. 98–164, title V, § 506, as added Pub. L. 99–93, title II, § 210(a), Aug. 16, 1985, 99 Stat. 432.)
+(Pub. L. 98–164, title V, § 506, as added Pub. L. 99–93, title II, § 210(a), Aug. 16, 1985, 99 Stat. 432.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -269,11 +269,11 @@ For purposes of complying pursuant to subsection (a) with section 552(a)(1) of s
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-### § 4416. Retention of interest
+### § 4416. Retention of interest
 
 Notwithstanding any other provision of law, with the approval of the National Endowment for Democracy, grant funds made available by the National Endowment for Democracy may be deposited in interest-bearing accounts pending disbursement, and any interest which accrues may be retained by the grantee without returning such interest to the Treasury of the United States and interest earned may be obligated and expended for the purposes for which the grant was made without further appropriation.
 
-(Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2411, Oct. 21, 1998, 112 Stat. 2681–831.)
+(Pub. L. 105–277, div. G, subdiv. B, title XXIV, § 2411, Oct. 21, 1998, 112 Stat. 2681–831.)
 
 **Editorial Notes**
 

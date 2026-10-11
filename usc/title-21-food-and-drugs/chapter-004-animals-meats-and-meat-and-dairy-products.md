@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—EXAMINATION OF ANIMALS, MEATS, AND MEAT AND DAIRY PRODUCTS
 
-### §§ 71 to 92. Transferred
+### §§ 71 to 92. Transferred
 
 **Editorial Notes**
 
@@ -29,7 +29,7 @@ Section 72, act Mar. 4, 1907, ch. 2907, 34 Stat. 1260, which related to post mor
 
 Section 73, act Mar. 4, 1907, ch. 2907, 34 Stat. 1261, which related to examination of carcasses brought into slaughtering or packing establishments and of meat food products issued from and returned thereto, was transferred to section 605 of this title.
 
-Section 74, act Mar. 4, 1907, ch. 2907, 34 Stat. 1261, which related to examination and inspection of meat food products, marks of inspection, destruction of condemned products, and products for export, was transferred to section 606 of this title and was subsequently repealed by Pub. L. 110–234, title XI, § 11016(b)(1)(B), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(1)(B), June 18, 2008, 122 Stat. 1664, 2131.
+Section 74, act Mar. 4, 1907, ch. 2907, 34 Stat. 1261, which related to examination and inspection of meat food products, marks of inspection, destruction of condemned products, and products for export, was transferred to section 606 of this title and was subsequently repealed by Pub. L. 110–234, title XI, § 11016(b)(1)(B), May 22, 2008, 122 Stat. 1369, and Pub. L. 110–246, § 4(a), title XI, § 11016(b)(1)(B), June 18, 2008, 122 Stat. 1664, 2131.
 
 Section 75, act Mar. 4, 1907, ch. 2907, 34 Stat. 1262, which related to labeling of receptacles and coverings of meat and meat food products inspected and passed, supervision by inspectors, prohibition of sales under false names, was transferred to section 607 of this title.
 
@@ -41,11 +41,11 @@ Section 78, act Mar. 4, 1907, ch. 2907, 34 Stat. 1262, which related to prohibit
 
 Section 79, act Mar. 4, 1907, ch. 2907, 34 Stat. 1263, which related to forgery, alteration, and unauthorized use of marks, labels, and certificates, was transferred to section 611 of this title.
 
-Section 80, act Mar. 4, 1907, ch. 2907, 34 Stat. 1263, which related to inspection of animals for export, was transferred to section 612 of this title and was subsequently repealed by Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508.
+Section 80, act Mar. 4, 1907, ch. 2907, 34 Stat. 1263, which related to inspection of animals for export, was transferred to section 612 of this title and was subsequently repealed by Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508.
 
-Section 81, act Mar. 4, 1907, ch. 2907, 34 Stat. 1263, which related to certificates of condition of animals for export, was transferred to section 613 of this title and was subsequently repealed by Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508.
+Section 81, act Mar. 4, 1907, ch. 2907, 34 Stat. 1263, which related to certificates of condition of animals for export, was transferred to section 613 of this title and was subsequently repealed by Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508.
 
-Section 82, act Mar. 4, 1907, ch. 2907, 34 Stat. 1263, which related to clearance to vessels carrying cattle for export with proper certificate of inspection, was transferred to section 614 of this title and was subsequently repealed by Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508.
+Section 82, act Mar. 4, 1907, ch. 2907, 34 Stat. 1263, which related to clearance to vessels carrying cattle for export with proper certificate of inspection, was transferred to section 614 of this title and was subsequently repealed by Pub. L. 107–171, title X, § 10418(a)(19), May 13, 2002, 116 Stat. 508.
 
 Section 83, act Mar. 4, 1907, ch. 2907, 34 Stat. 1263, which related to inspection of carcasses, the meat of which is intended for export, was transferred to section 615 of this title.
 
@@ -67,11 +67,11 @@ Section 91, acts Mar. 4, 1907, ch. 2907, 34 Stat. 1265; June 29, 1938, ch. 810, 
 
 Section 92, act Mar. 4, 1907, ch. 2907, 34 Stat. 1265, which was a proviso following the first sentence of section 91 of this title, was restored to that section and has been transferred to section 623 of this title.
 
-### § 93. Repealed. May 29, 1928, ch. 901, § 1(92), 45 Stat. 993
+### § 93. Repealed. May 29, 1928, ch. 901, § 1(92), 45 Stat. 993
 
 Section, act Mar. 4, 1907, ch. 2907, 34 Stat. 1265, related to statement in annual estimates as to persons employed, their compensation and expenses.
 
-### §§ 94 to 95. Transferred
+### §§ 94 to 95. Transferred
 
 **Editorial Notes**
 
@@ -81,9 +81,9 @@ Section 94, act June 30, 1914, ch. 131, 38 Stat. 420, which related to inspectio
 
 Section 94a, act May 23, 1908, ch. 192, 35 Stat. 254, which related to inspection of dairy products for export, was transferred to section 693 of this title.
 
-Section 95, acts June 30, 1906, ch. 3913, 34 Stat. 679; June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which related to authorization of appropriations for expenses of inspection, was transferred to section 694 of this title.
+Section 95, acts June 30, 1906, ch. 3913, 34 Stat. 679; June 26, 1934, ch. 756, § 2, 48 Stat. 1225, which related to authorization of appropriations for expenses of inspection, was transferred to section 694 of this title.
 
-### § 96. Repealed. Pub. L. 90–201, § 18, Dec. 15, 1967, 81 Stat. 600
+### § 96. Repealed. Pub. L. 90–201, § 18, Dec. 15, 1967, 81 Stat. 600
 
 Section, act July 24, 1919, ch. 26, 41 Stat. 241, provided for marking horse meat transported in interstate commerce. See section 619 of this title.
 
@@ -93,15 +93,15 @@ Section, act July 24, 1919, ch. 26, 41 Stat. 241, provided for marking horse mea
 
 Repeal effective Dec. 15, 1967, see section 20 of Pub. L. 90–201, set out as an Effective Date note under section 601 of this title.
 
-### §§ 97 to 97d. Omitted
+### §§ 97 to 97d. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections 97 to 97d, act July 30, 1947, ch. 356, title I, § 1, 61 Stat. 531, 532, set up a meat inspection fund and provided for payment for meat inspection service by the persons or organizations who were furnished such inspection on and after July 1, 1947. These provisions ceased to be effective on July 1, 1948, under section 98 of this title which requires the cost of such inspection to be borne by the United States. The unobligated balance in the meat inspection fund was carried to the general fund of the Treasury by act June 19, 1948, ch. 543, § 1, 62 Stat. 515.
+Sections 97 to 97d, act July 30, 1947, ch. 356, title I, § 1, 61 Stat. 531, 532, set up a meat inspection fund and provided for payment for meat inspection service by the persons or organizations who were furnished such inspection on and after July 1, 1947. These provisions ceased to be effective on July 1, 1948, under section 98 of this title which requires the cost of such inspection to be borne by the United States. The unobligated balance in the meat inspection fund was carried to the general fund of the Treasury by act June 19, 1948, ch. 543, § 1, 62 Stat. 515.
 
-### § 98. Transferred
+### § 98. Transferred
 
 **Editorial Notes**
 
@@ -109,43 +109,43 @@ Sections 97 to 97d, act July 30, 1947, ch. 356, title I, § 1, 61 Stat. 531, 5
 
 Section, act June 5, 1948, ch. 423, 62 Stat. 344, which related to payment of cost of meat inspection, was transferred to section 695 of this title.
 
-### § 99. Repealed. July 28, 1953, ch. 251, title I, § 101, 67 Stat. 208
+### § 99. Repealed. July 28, 1953, ch. 251, title I, § 101, 67 Stat. 208
 
-Section, act Aug. 31, 1951, ch. 374, title I, § 101, 65 Stat. 229, related to reimbursement for excess expenses of meat inspection.
+Section, act Aug. 31, 1951, ch. 374, title I, § 101, 65 Stat. 229, related to reimbursement for excess expenses of meat inspection.
 
 ## SUBCHAPTER II—IMPORTATION OF CATTLE AND QUARANTINE
 
-### § 101. Suspension of importation of all animals
+### § 101. Suspension of importation of all animals
 
 Whenever, in the opinion of the President, it shall be necessary for the protection of animals in the United States against infectious or contagious diseases, he may, by proclamation, suspend the importation of all or any class of animals for a limited time, and may change, modify, revoke, or renew such proclamation, as the public good may require; and during the time of such suspension the importation of any such animals shall be unlawful.
 
-(Aug. 30, 1890, ch. 839, § 9, 26 Stat. 416.)
+(Aug. 30, 1890, ch. 839, § 9, 26 Stat. 416.)
 
-### §§ 102 to 105. Repealed. Pub. L. 107–171, title X, § 10418(a)(6), May 13, 2002, 116 Stat. 507
+### §§ 102 to 105. Repealed. Pub. L. 107–171, title X, § 10418(a)(6), May 13, 2002, 116 Stat. 507
 
-Section 102, act Aug. 30, 1890, ch. 839, § 7, 26 Stat. 416, related to quarantine of imported animals.
+Section 102, act Aug. 30, 1890, ch. 839, § 7, 26 Stat. 416, related to quarantine of imported animals.
 
-Section 103, act Aug. 30, 1890, ch. 839, § 8, 26 Stat. 416, related to prohibition of importation of animals except at quarantine ports, slaughter of infected animals, appraisal, and payment.
+Section 103, act Aug. 30, 1890, ch. 839, § 8, 26 Stat. 416, related to prohibition of importation of animals except at quarantine ports, slaughter of infected animals, appraisal, and payment.
 
-Section 104, act Aug. 30, 1890, ch. 839, § 6, 26 Stat. 416; June 28, 1926, ch. 700, § 2, 44 Stat. 775; Feb. 28, 1931, ch. 348, 46 Stat. 1460; July 22, 1954, ch. 558, § 32, 68 Stat. 510; Jan. 28, 1956, ch. 12, § 1, 70 Stat. 5; Pub. L. 97–461, § 4, Jan. 12, 1983, 96 Stat. 2524; Pub. L. 103–182, title III, § 361(b), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title IV, § 431(h), Dec. 8, 1994, 108 Stat. 4969, related to importation of animals.
+Section 104, act Aug. 30, 1890, ch. 839, § 6, 26 Stat. 416; June 28, 1926, ch. 700, § 2, 44 Stat. 775; Feb. 28, 1931, ch. 348, 46 Stat. 1460; July 22, 1954, ch. 558, § 32, 68 Stat. 510; Jan. 28, 1956, ch. 12, § 1, 70 Stat. 5; Pub. L. 97–461, § 4, Jan. 12, 1983, 96 Stat. 2524; Pub. L. 103–182, title III, § 361(b), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title IV, § 431(h), Dec. 8, 1994, 108 Stat. 4969, related to importation of animals.
 
-Section 105, act Aug. 30, 1890, ch. 839, § 10, 26 Stat. 417; Pub. L. 103–182, title III, § 361(c), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title IV, § 431(i), Dec. 8, 1994, 108 Stat. 4969, related to inspection of animals.
+Section 105, act Aug. 30, 1890, ch. 839, § 10, 26 Stat. 417; Pub. L. 103–182, title III, § 361(c), Dec. 8, 1993, 107 Stat. 2122; Pub. L. 103–465, title IV, § 431(i), Dec. 8, 1994, 108 Stat. 4969, related to inspection of animals.
 
-### §§ 106, 107. Omitted
+### §§ 106, 107. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections, acts Aug. 10, 1917, ch. 52, § 9, 40 Stat. 275; Nov. 21, 1918, ch. 212, § 3, 40 Stat. 1048, related to slaughter of tick-infested cattle. Section 12 of act Aug. 10, 1917, provided that the act should cease to be in effect when the national emergency resulting from World War I had passed.
+Sections, acts Aug. 10, 1917, ch. 52, § 9, 40 Stat. 275; Nov. 21, 1918, ch. 212, § 3, 40 Stat. 1048, related to slaughter of tick-infested cattle. Section 12 of act Aug. 10, 1917, provided that the act should cease to be in effect when the national emergency resulting from World War I had passed.
 
 ## SUBCHAPTER III—PREVENTION OF INTRODUCTION AND SPREAD OF CONTAGION
 
-### §§ 111, 112. Repealed. Pub. L. 107–171, title X, § 10418(a)(7), (8), May 13, 2002, 116 Stat. 507, 508
+### §§ 111, 112. Repealed. Pub. L. 107–171, title X, § 10418(a)(7), (8), May 13, 2002, 116 Stat. 507, 508
 
-Section 111, act Feb. 2, 1903, ch. 349, § 2, 32 Stat. 792; July 22, 1954, ch. 558, § 33, 68 Stat. 510; Jan. 28, 1956, ch. 12, § 2, 70 Stat. 5, related to regulations to prevent contagious diseases.
+Section 111, act Feb. 2, 1903, ch. 349, § 2, 32 Stat. 792; July 22, 1954, ch. 558, § 33, 68 Stat. 510; Jan. 28, 1956, ch. 12, § 2, 70 Stat. 5, related to regulations to prevent contagious diseases.
 
-Section 112, act May 29, 1884, ch. 60, § 4, 23 Stat. 32; Feb. 2, 1903, ch. 349, § 1, 32 Stat. 791; Feb. 7, 1928, ch. 30, 45 Stat. 59, related to investigations as to pleuropneumonia and other diseases and regulations.
+Section 112, act May 29, 1884, ch. 60, § 4, 23 Stat. 32; Feb. 2, 1903, ch. 349, § 1, 32 Stat. 791; Feb. 7, 1928, ch. 30, 45 Stat. 59, related to investigations as to pleuropneumonia and other diseases and regulations.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -155,7 +155,7 @@ Act Feb. 2, 1903, ch. 349, 32 Stat. 791, classified to former sections 112 and 1
 
 Act May 29, 1884, ch. 60, 23 Stat. 31, classified to former sections 112, 113 to 114a–1, 115, 116, 117 to 120, and 130 of this title and section 391 of Title 7, Agriculture, is popularly known as the Animal Industry Act.
 
-### § 112a. Omitted
+### § 112a. Omitted
 
 **Editorial Notes**
 
@@ -163,21 +163,21 @@ Act May 29, 1884, ch. 60, 23 Stat. 31, classified to former sections 112, 113 to
 
 Section, act Feb. 7, 1928, ch. 30, 45 Stat. 59, amended acts May 29, 1884, ch. 60, 23 Stat. 31; Feb. 2, 1903, ch. 349, 32 Stat. 791; and Mar. 3, 1905, ch. 1496, 33 Stat. 1264, to include live poultry in their provisions, added “and/or live poultry” following “live stock” wherever the term “live stock” appeared, and extended the penalties, terms, and provisions of said acts to live poultry. For complete classification of such acts to the Code, see Short Title note set out under section 112 of this title and Tables.
 
-### § 113. Repealed. Pub. L. 107–171, title X, § 10418(a)(7), (8), May 13, 2002, 116 Stat. 507, 508
+### § 113. Repealed. Pub. L. 107–171, title X, § 10418(a)(7), (8), May 13, 2002, 116 Stat. 507, 508
 
-Section, act May 29, 1884, ch. 60, § 5, 23 Stat. 32; Feb. 2, 1903, ch. 349, § 1, 32 Stat. 791; Feb. 7, 1928, ch. 30, 45 Stat. 59, related to measures to prevent exportation of diseased livestock and live poultry.
+Section, act May 29, 1884, ch. 60, § 5, 23 Stat. 32; Feb. 2, 1903, ch. 349, § 1, 32 Stat. 791; Feb. 7, 1928, ch. 30, 45 Stat. 59, related to measures to prevent exportation of diseased livestock and live poultry.
 
-### § 113a. Establishment of research laboratories for foot-and-mouth disease and other animal diseases; research contracts; employment of technicians and scientists; appropriations
+### § 113a. Establishment of research laboratories for foot-and-mouth disease and other animal diseases; research contracts; employment of technicians and scientists; appropriations
 
 The Secretary of Agriculture is authorized to establish research laboratories, including the acquisition of necessary land, buildings, or facilities, and also the making of research contracts under the authority contained in section 3105(a) of title 7, for research and study, in the United States or elsewhere, of foot-and-mouth disease and other animal diseases which in the opinion of the Secretary constitute a threat to the livestock industry of the United States: *Provided*, That no live virus of foot-and-mouth disease may be introduced for any purpose into any part of the mainland of the United States (except coastal islands separated therefrom by water navigable for deep-water navigation and which shall not be connected with the mainland by any tunnel) unless the Secretary determines that it is necessary and in the public interest for the conduct of research and study in the United States (except at Brookhaven National Laboratory in Upton, New York) and issues a permit under such rules as the Secretary shall promulgate to protect animal health, except that the Secretary of Agriculture may transport said virus in the original package across the mainland under adequate safeguards, and except further, that in the event of outbreak of foot-and-mouth disease in this country, the Secretary of Agriculture may, at his discretion, permit said virus to be brought into the United States under adequate safeguards. To carry out the provisions of this section, the Secretary is authorized to employ technical experts or scientists: *Provided*, That the number so employed shall not exceed five and that the maximum compensation for each shall not exceed the highest rate of grade 18 of the General Schedule. There is authorized to be appropriated such sums as Congress may deem necessary; in addition, the Secretary is authorized to utilize in carrying out this section, funds otherwise available for the control or eradication of such diseases.
 
-(May 29, 1884, ch. 60, § 12, as added Apr. 24, 1948, ch. 229, 62 Stat. 198; amended July 31, 1956, ch. 804, title I, § 119, 70 Stat. 742; Pub. L. 85–573, July 31, 1958, 72 Stat. 454; Pub. L. 87–793, § 1001(e), Oct. 11, 1962, 76 Stat. 864; Pub. L. 88–426, title III, § 305(1), Aug. 14, 1964, 78 Stat. 422; Pub. L. 101–624, title XVI, § 1618(b), Nov. 28, 1990, 104 Stat. 3733.)
+(May 29, 1884, ch. 60, § 12, as added Apr. 24, 1948, ch. 229, 62 Stat. 198; amended July 31, 1956, ch. 804, title I, § 119, 70 Stat. 742; Pub. L. 85–573, July 31, 1958, 72 Stat. 454; Pub. L. 87–793, § 1001(e), Oct. 11, 1962, 76 Stat. 864; Pub. L. 88–426, title III, § 305(1), Aug. 14, 1964, 78 Stat. 422; Pub. L. 101–624, title XVI, § 1618(b), Nov. 28, 1990, 104 Stat. 3733.)
 
 **Editorial Notes**
 
 **Codification**
 
-Provisions that authorized the Secretary to employ technical experts and scientists “without regard to the Classification Act”, meaning the Classification Act of 1923, were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exception contained in this section because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632 (the first section of which revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+Provisions that authorized the Secretary to employ technical experts and scientists “without regard to the Classification Act”, meaning the Classification Act of 1923, were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exception contained in this section because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632 (the first section of which revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 **Amendments**
 
@@ -195,11 +195,11 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 **Repeals**
 
-Act July 31, 1956, ch. 804, title I, § 119, 70 Stat. 742, which increased the maximum compensation of technical experts or scientists, was repealed by Pub. L. 88–426, title III, § 305(1), Aug. 14, 1964, 78 Stat. 422.
+Act July 31, 1956, ch. 804, title I, § 119, 70 Stat. 742, which increased the maximum compensation of technical experts or scientists, was repealed by Pub. L. 88–426, title III, § 305(1), Aug. 14, 1964, 78 Stat. 422.
 
 **Live Virus Foot and Mouth Disease Research**
 
-Pub. L. 110–234, title VII, § 7524, May 22, 2008, 122 Stat. 1273, and Pub. L. 110–246, § 4(a), title VII, § 7524, June 18, 2008, 122 Stat. 1664, 2034, provided that:
+Pub. L. 110–234, title VII, § 7524, May 22, 2008, 122 Stat. 1273, and Pub. L. 110–246, § 4(a), title VII, § 7524, June 18, 2008, 122 Stat. 1664, 2034, provided that:
 
 > **“(a) In General.—** The Secretary [of Agriculture] shall issue a permit required under section 12 of the Act of May 29, 1884 (21 U.S.C. 113a) to the Secretary of Homeland Security for work on the live virus of foot and mouth disease at any facility that is a successor to the Plum Island Animal Disease Center and charged with researching high-consequence biological threats involving zoonotic and foreign animal diseases (referred to in this section as the ‘successor facility’).
 
@@ -217,57 +217,57 @@ Pub. L. 110–234, title VII, § 7524, May 22, 2008, 122 Stat. 1273, and Pub. 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-### §§ 114 to 114d–1. Repealed. Pub. L. 107–171, title X, § 10418(a)(8), (9), May 13, 2002, 116 Stat. 508
+### §§ 114 to 114d–1. Repealed. Pub. L. 107–171, title X, § 10418(a)(8), (9), May 13, 2002, 116 Stat. 508
 
-Section 114, act May 29, 1884, ch. 60, § 3, 23 Stat. 32, related to regulations for suppression of diseases and cooperation of States and Territories.
+Section 114, act May 29, 1884, ch. 60, § 3, 23 Stat. 32, related to regulations for suppression of diseases and cooperation of States and Territories.
 
-Section 114a, act May 29, 1884, ch. 60, § 11, as added Sept. 21, 1944, ch. 412, title I, § 101(a), 58 Stat. 734; amended Oct. 30, 1951, ch. 637, § 1, 65 Stat. 693; Aug. 8, 1953, ch. 381, 67 Stat. 493; Aug. 3, 1956, ch. 950, § 2, 70 Stat. 1032; Pub. L. 87–518, § 7, July 2, 1962, 76 Stat. 131; Pub. L. 101–624, title XXV, § 2509(c)(2), Nov. 28, 1990, 104 Stat. 4071, related to control and eradication of diseases, cooperation of States and farmers’ associations, purchase and destruction of diseased animals, and defined “State” for statutory purposes.
+Section 114a, act May 29, 1884, ch. 60, § 11, as added Sept. 21, 1944, ch. 412, title I, § 101(a), 58 Stat. 734; amended Oct. 30, 1951, ch. 637, § 1, 65 Stat. 693; Aug. 8, 1953, ch. 381, 67 Stat. 493; Aug. 3, 1956, ch. 950, § 2, 70 Stat. 1032; Pub. L. 87–518, § 7, July 2, 1962, 76 Stat. 131; Pub. L. 101–624, title XXV, § 2509(c)(2), Nov. 28, 1990, 104 Stat. 4071, related to control and eradication of diseases, cooperation of States and farmers’ associations, purchase and destruction of diseased animals, and defined “State” for statutory purposes.
 
-A prior section 11 of act May 29, 1884, required annual reports to Congress concerning the suppression of contagious diseases among domestic animals, and was classified to section 560 of former Title 5, prior to repeal by act May 29, 1928, ch. 901, § 1, 45 Stat. 993.
+A prior section 11 of act May 29, 1884, required annual reports to Congress concerning the suppression of contagious diseases among domestic animals, and was classified to section 560 of former Title 5, prior to repeal by act May 29, 1928, ch. 901, § 1, 45 Stat. 993.
 
-Section 114a–1, act May 29, 1884, ch. 60, § 13, as added Oct. 30, 1951, ch. 637, § 2, 65 Stat. 693, related to interstate movement of domestic animals reacting to tests for brucellosis, immediate slaughter, and rules and regulations.
+Section 114a–1, act May 29, 1884, ch. 60, § 13, as added Oct. 30, 1951, ch. 637, § 2, 65 Stat. 693, related to interstate movement of domestic animals reacting to tests for brucellosis, immediate slaughter, and rules and regulations.
 
-Section 114b, act Feb. 28, 1947, ch. 8, § 1, 61 Stat. 7; Pub. L. 89–521, § 1, July 27, 1966, 80 Stat. 330; Pub. L. 92–152, § 1, Nov. 5, 1971, 85 Stat. 418; Pub. L. 94–231, § 3, Mar. 15, 1976, 90 Stat. 216; Pub. L. 101–255, § 1(1), Mar. 15, 1990, 104 Stat. 114; Pub. L. 101–624, title XXV, § 2505, Nov. 28, 1990, 104 Stat. 4068, related to cooperation in animal disease control.
+Section 114b, act Feb. 28, 1947, ch. 8, § 1, 61 Stat. 7; Pub. L. 89–521, § 1, July 27, 1966, 80 Stat. 330; Pub. L. 92–152, § 1, Nov. 5, 1971, 85 Stat. 418; Pub. L. 94–231, § 3, Mar. 15, 1976, 90 Stat. 216; Pub. L. 101–255, § 1(1), Mar. 15, 1990, 104 Stat. 114; Pub. L. 101–624, title XXV, § 2505, Nov. 28, 1990, 104 Stat. 4068, related to cooperation in animal disease control.
 
-Section 114c, act Feb. 28, 1947, ch. 8, § 2, 61 Stat. 7; Aug. 3, 1956, ch. 950, § 3, 70 Stat. 1033; Pub. L. 92–152, § 2, Nov. 5, 1971, 85 Stat. 419; Pub. L. 101–255, § 1(2), Mar. 15, 1990, 104 Stat. 114, related to use of funds.
+Section 114c, act Feb. 28, 1947, ch. 8, § 2, 61 Stat. 7; Aug. 3, 1956, ch. 950, § 3, 70 Stat. 1033; Pub. L. 92–152, § 2, Nov. 5, 1971, 85 Stat. 419; Pub. L. 101–255, § 1(2), Mar. 15, 1990, 104 Stat. 114, related to use of funds.
 
-Section 114d, act Feb. 28, 1947, ch. 8, § 3, as added Pub. L. 101–255, § 1(3), Mar. 15, 1990, 104 Stat. 114, related to sale of sterile screwworms.
+Section 114d, act Feb. 28, 1947, ch. 8, § 3, as added Pub. L. 101–255, § 1(3), Mar. 15, 1990, 104 Stat. 114, related to sale of sterile screwworms.
 
-A prior section 114d, act Feb. 28, 1947, ch. 8, § 3, 61 Stat. 8, related to reports by Secretary of Agriculture to Congress with respect to activities carried on under sections 114b and 114c of this title, prior to repeal by Pub. L. 86–533, § 1(20), June 29, 1960, 74 Stat. 249.
+A prior section 114d, act Feb. 28, 1947, ch. 8, § 3, 61 Stat. 8, related to reports by Secretary of Agriculture to Congress with respect to activities carried on under sections 114b and 114c of this title, prior to repeal by Pub. L. 86–533, § 1(20), June 29, 1960, 74 Stat. 249.
 
-Section 114d–1, act Feb. 28, 1947, ch. 8, § 5, as added Pub. L. 89–521, § 2, July 27, 1966, 80 Stat. 330; amended Pub. L. 101–255, § 1(5), Mar. 15, 1990, 104 Stat. 114, related to cooperation with public and private entities.
+Section 114d–1, act Feb. 28, 1947, ch. 8, § 5, as added Pub. L. 89–521, § 2, July 27, 1966, 80 Stat. 330; amended Pub. L. 101–255, § 1(5), Mar. 15, 1990, 104 Stat. 114, related to cooperation with public and private entities.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Section 6 of act Feb. 28, 1947, ch. 8, as added by Pub. L. 101–255, § 1(6), Mar. 15, 1990, 104 Stat. 114, provided that the act Feb. 28, 1947, ch. 8, which enacted sections 114b to 114d–1 of this title and provisions set out as a note under former section 114b of this title, could be referred to as the “Animal Disease Control Cooperation Act of 1947”.
+Section 6 of act Feb. 28, 1947, ch. 8, as added by Pub. L. 101–255, § 1(6), Mar. 15, 1990, 104 Stat. 114, provided that the act Feb. 28, 1947, ch. 8, which enacted sections 114b to 114d–1 of this title and provisions set out as a note under former section 114b of this title, could be referred to as the “Animal Disease Control Cooperation Act of 1947”.
 
-### §§ 114d–2 to 114d–6. Repealed. Pub. L. 92–152, § 3, Nov. 5, 1971, 85 Stat. 419
+### §§ 114d–2 to 114d–6. Repealed. Pub. L. 92–152, § 3, Nov. 5, 1971, 85 Stat. 419
 
-Section 114d–2, Pub. L. 90–388, § 1, July 6, 1968, 82 Stat. 294, provided for cooperation with Central America in control and eradication of foot-and-mouth disease or rinderpest.
+Section 114d–2, Pub. L. 90–388, § 1, July 6, 1968, 82 Stat. 294, provided for cooperation with Central America in control and eradication of foot-and-mouth disease or rinderpest.
 
-Section 114d–3, Pub. L. 90–388, § 2, July 6, 1968, 82 Stat. 294, provided for uses of funds.
+Section 114d–3, Pub. L. 90–388, § 2, July 6, 1968, 82 Stat. 294, provided for uses of funds.
 
-Section 114d–4, Pub. L. 90–388, § 3, July 6, 1968, 82 Stat. 294, defined governments of Central America.
+Section 114d–4, Pub. L. 90–388, § 3, July 6, 1968, 82 Stat. 294, defined governments of Central America.
 
-Section 114d–5, Pub. L. 90–388, § 4, July 6, 1968, 82 Stat. 294, provided for cooperation with public and private organizations and individuals.
+Section 114d–5, Pub. L. 90–388, § 4, July 6, 1968, 82 Stat. 294, provided for cooperation with public and private organizations and individuals.
 
-Section 114d–6, Pub. L. 90–388, § 5, July 6, 1968, 82 Stat. 294, provided for authorization of appropriations.
+Section 114d–6, Pub. L. 90–388, § 5, July 6, 1968, 82 Stat. 294, provided for authorization of appropriations.
 
-### §§ 114e to 114h. Repealed. Pub. L. 107–171, title X, § 10418(a)(10), (11), May 13, 2002, 116 Stat. 508
+### §§ 114e to 114h. Repealed. Pub. L. 107–171, title X, § 10418(a)(10), (11), May 13, 2002, 116 Stat. 508
 
-Section 114e, act June 16, 1948, ch. 477, § 1, 62 Stat. 458, related to research and investigations into the control and eradication of cattle grubs.
+Section 114e, act June 16, 1948, ch. 477, § 1, 62 Stat. 458, related to research and investigations into the control and eradication of cattle grubs.
 
-Section 114f, act June 16, 1948, ch. 477, § 2, 62 Stat. 458, defined the term “State” and authorized appropriations.
+Section 114f, act June 16, 1948, ch. 477, § 2, 62 Stat. 458, defined the term “State” and authorized appropriations.
 
-Section 114g, Pub. L. 87–209, § 1, Sept. 6, 1961, 75 Stat. 481, related to hog cholera eradication program.
+Section 114g, Pub. L. 87–209, § 1, Sept. 6, 1961, 75 Stat. 481, related to hog cholera eradication program.
 
-Section 114h, Pub. L. 87–209, § 2, Sept. 6, 1961, 75 Stat. 481, related to advisory committee.
+Section 114h, Pub. L. 87–209, § 2, Sept. 6, 1961, 75 Stat. 481, related to advisory committee.
 
-### § 114i. Pseudorabies eradication
+### § 114i. Pseudorabies eradication
 
 **(a) Findings**
 
@@ -285,7 +285,7 @@ The Secretary shall ensure that not less than 65 percent of the funds appropriat
 
 There are authorized to be appropriated for each of the fiscal years 1991 through 2007 such sums as may be necessary for the purpose of carrying out the program established under subsection (b).
 
-(Pub. L. 101–624, title XXV, § 2506, Nov. 28, 1990, 104 Stat. 4068; Pub. L. 104–127, title IX, § 916, Apr. 4, 1996, 110 Stat. 1187; Pub. L. 107–171, title X, § 10505, May 13, 2002, 116 Stat. 511.)
+(Pub. L. 101–624, title XXV, § 2506, Nov. 28, 1990, 104 Stat. 4068; Pub. L. 104–127, title IX, § 916, Apr. 4, 1996, 110 Stat. 1187; Pub. L. 107–171, title X, § 10505, May 13, 2002, 116 Stat. 511.)
 
 **Editorial Notes**
 
@@ -295,35 +295,35 @@ There are authorized to be appropriated for each of the fiscal years 1991 throug
 
 1996—Subsec. (d). Pub. L. 104–127 substituted “2002” for “1995”.
 
-### §§ 115 to 128. Repealed. Pub. L. 107–171, title X, § 10418(a)(7), (8), (12)–(14), May 13, 2002, 116 Stat. 507, 508
+### §§ 115 to 128. Repealed. Pub. L. 107–171, title X, § 10418(a)(7), (8), (12)–(14), May 13, 2002, 116 Stat. 507, 508
 
-Section 115, act May 29, 1884, ch. 60, § 6, 23 Stat. 32; June 28, 1926, ch. 700, § 1, 44 Stat. 774; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–763, Oct. 9, 1962, 76 Stat. 762, prohibited transportation of diseased livestock and live poultry.
+Section 115, act May 29, 1884, ch. 60, § 6, 23 Stat. 32; June 28, 1926, ch. 700, § 1, 44 Stat. 774; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–763, Oct. 9, 1962, 76 Stat. 762, prohibited transportation of diseased livestock and live poultry.
 
 Section 116, act May 29, 1884, ch. 60, 23 Stat. 31; May 31, 1920, ch. 217, 41 Stat. 699, related to excepted shipment of certain cattle.
 
-Section 117, act May 29, 1884, ch. 60, § 7, 23 Stat. 32; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 95–439, § 1, Oct. 10, 1978, 92 Stat. 1061; Pub. L. 97–461, § 5, Jan. 12, 1983, 96 Stat. 2524, related to penalties for transportation of diseased livestock or live poultry.
+Section 117, act May 29, 1884, ch. 60, § 7, 23 Stat. 32; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 95–439, § 1, Oct. 10, 1978, 92 Stat. 1061; Pub. L. 97–461, § 5, Jan. 12, 1983, 96 Stat. 2524, related to penalties for transportation of diseased livestock or live poultry.
 
-Section 118, act May 29, 1884, ch. 60, § 9, 23 Stat. 33; June 25, 1948, ch. 646, § 1, 62 Stat. 909, related to duty of United States attorneys.
+Section 118, act May 29, 1884, ch. 60, § 9, 23 Stat. 33; June 25, 1948, ch. 646, § 1, 62 Stat. 909, related to duty of United States attorneys.
 
-Section 119, act May 29, 1884, ch. 60, § 2, 23 Stat. 31; Feb. 9, 1889, ch. 122, § 1, 25 Stat. 659; July 14, 1890, ch. 707, 26 Stat. 288; Feb. 7, 1928, ch. 30, 45 Stat. 59, related to appointment of agents to examine and report on methods of treatment of animals, and means for suppression of diseases.
+Section 119, act May 29, 1884, ch. 60, § 2, 23 Stat. 31; Feb. 9, 1889, ch. 122, § 1, 25 Stat. 659; July 14, 1890, ch. 707, 26 Stat. 288; Feb. 7, 1928, ch. 30, 45 Stat. 59, related to appointment of agents to examine and report on methods of treatment of animals, and means for suppression of diseases.
 
-Section 120, act May 29, 1884, ch. 60, §§ 4, 5, 23 Stat. 32; Feb. 2, 1903, ch. 349, § 1, 32 Stat. 791; Feb. 7, 1928, ch. 30, 45 Stat. 59, related to regulation of exportation and transportation of infected livestock and live poultry.
+Section 120, act May 29, 1884, ch. 60, §§ 4, 5, 23 Stat. 32; Feb. 2, 1903, ch. 349, § 1, 32 Stat. 791; Feb. 7, 1928, ch. 30, 45 Stat. 59, related to regulation of exportation and transportation of infected livestock and live poultry.
 
-Section 121, act Feb. 2, 1903, ch. 349, § 1, 32 Stat. 791; Feb. 7, 1928, ch. 30, 45 Stat. 59, related to shipments from areas suspected to be infected and to control of animals and live poultry.
+Section 121, act Feb. 2, 1903, ch. 349, § 1, 32 Stat. 791; Feb. 7, 1928, ch. 30, 45 Stat. 59, related to shipments from areas suspected to be infected and to control of animals and live poultry.
 
-Section 122, act Feb. 2, 1903, ch. 349, § 3, 32 Stat. 792; Pub. L. 97–461, § 6, Jan. 12, 1983, 96 Stat. 2525, related to offenses and penalties.
+Section 122, act Feb. 2, 1903, ch. 349, § 3, 32 Stat. 792; Pub. L. 97–461, § 6, Jan. 12, 1983, 96 Stat. 2525, related to offenses and penalties.
 
-Section 123, act Mar. 3, 1905, ch. 1496, § 1, 33 Stat. 1264; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, § 8(a), July 2, 1962, 76 Stat. 131; Pub. L. 95–439, § 2, Oct. 10, 1978, 92 Stat. 1061, related to quarantine.
+Section 123, act Mar. 3, 1905, ch. 1496, § 1, 33 Stat. 1264; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, § 8(a), July 2, 1962, 76 Stat. 131; Pub. L. 95–439, § 2, Oct. 10, 1978, 92 Stat. 1061, related to quarantine.
 
-Section 124, act Mar. 3, 1905, ch. 1496, § 2, 33 Stat. 1264; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, § 8(b), July 2, 1962, 76 Stat. 131, prohibited transportation or delivery therefor from quarantined State or Territory or portion thereof, of quarantined animals and live poultry.
+Section 124, act Mar. 3, 1905, ch. 1496, § 2, 33 Stat. 1264; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, § 8(b), July 2, 1962, 76 Stat. 131, prohibited transportation or delivery therefor from quarantined State or Territory or portion thereof, of quarantined animals and live poultry.
 
-Section 125, act Mar. 3, 1905, ch. 1496, § 3, 33 Stat. 1265; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, § 8(b), July 2, 1962, 76 Stat. 131; Pub. L. 95–439, § 3, Oct. 10, 1978, 92 Stat. 1061, related to regulations for inspection, disinfection, and certification, and delivery and shipment of quarantined animals and live poultry from State or Territory.
+Section 125, act Mar. 3, 1905, ch. 1496, § 3, 33 Stat. 1265; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, § 8(b), July 2, 1962, 76 Stat. 131; Pub. L. 95–439, § 3, Oct. 10, 1978, 92 Stat. 1061, related to regulations for inspection, disinfection, and certification, and delivery and shipment of quarantined animals and live poultry from State or Territory.
 
-Section 126, act Mar. 3, 1905, ch. 1496, § 4, 33 Stat. 1265; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, § 8(b), July 2, 1962, 76 Stat. 131, related to moving quarantined animals and live poultry from State or Territory, under regulations.
+Section 126, act Mar. 3, 1905, ch. 1496, § 4, 33 Stat. 1265; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, § 8(b), July 2, 1962, 76 Stat. 131, related to moving quarantined animals and live poultry from State or Territory, under regulations.
 
-Section 127, act Mar. 3, 1905, ch. 1496, § 6, 33 Stat. 1265; Pub. L. 97–461, § 7, Jan. 12, 1983, 96 Stat. 2525, related to penalties for transportation from quarantined State, Territory, etc.
+Section 127, act Mar. 3, 1905, ch. 1496, § 6, 33 Stat. 1265; Pub. L. 97–461, § 7, Jan. 12, 1983, 96 Stat. 2525, related to penalties for transportation from quarantined State, Territory, etc.
 
-Section 128, act June 30, 1914, ch. 131, 38 Stat. 419; Pub. L. 87–518, § 9, July 2, 1962, 76 Stat. 131, related to extension of quarantine law to carriers in interstate commerce.
+Section 128, act June 30, 1914, ch. 131, 38 Stat. 419; Pub. L. 87–518, § 9, July 2, 1962, 76 Stat. 131, related to extension of quarantine law to carriers in interstate commerce.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -331,7 +331,7 @@ Section 128, act June 30, 1914, ch. 131, 38 Stat. 419; Pub. L. 87–518, § 9,
 
 Act Mar. 3, 1905, ch. 1496, 33 Stat. 1264, which enacted sections 123 to 127 of this title, was popularly known as the “Cattle Contagious Diseases Act of 1905”.
 
-### § 129. Omitted
+### § 129. Omitted
 
 **Editorial Notes**
 
@@ -343,11 +343,11 @@ Section, Pub. L. 107–76, title I, Nov. 28, 2001, 115 Stat. 712, related to tra
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 106–387, § 1(a) [title I], Oct. 28, 2000, 114 Stat. 1549, 1549A–9, repealed by Pub. L. 107–171, title X, § 10418(a)(15), May 13, 2002, 116 Stat. 508.
+Pub. L. 106–387, § 1(a) [title I], Oct. 28, 2000, 114 Stat. 1549, 1549A–9, repealed by Pub. L. 107–171, title X, § 10418(a)(15), May 13, 2002, 116 Stat. 508.
 
 Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1143.
 
-Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681, 2681–8.
+Pub. L. 105–277, div. A, § 101(a) [title I], Oct. 21, 1998, 112 Stat. 2681, 2681–8.
 
 Pub. L. 105–86, title I, Nov. 18, 1997, 111 Stat. 2086.
 
@@ -369,11 +369,11 @@ Pub. L. 101–161, title I, Nov. 21, 1989, 103 Stat. 959.
 
 Pub. L. 100–460, title I, Oct. 1, 1988, 102 Stat. 2237.
 
-Pub. L. 100–202, § 101(k) [title I], Dec. 22, 1987, 101 Stat. 1329–322, 1329–331.
+Pub. L. 100–202, § 101(k) [title I], Dec. 22, 1987, 101 Stat. 1329–322, 1329–331.
 
-Pub. L. 99–500, § 101(a) [title I], Oct. 18, 1986, 100 Stat. 1783, 1783–8, and Pub. L. 99–591, § 101(a) [title I], Oct. 30, 1986, 100 Stat. 3341, 3341–8.
+Pub. L. 99–500, § 101(a) [title I], Oct. 18, 1986, 100 Stat. 1783, 1783–8, and Pub. L. 99–591, § 101(a) [title I], Oct. 30, 1986, 100 Stat. 3341, 3341–8.
 
-Pub. L. 99–190, § 101(a) [H.R. 3037, title I], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
+Pub. L. 99–190, § 101(a) [H.R. 3037, title I], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
 
 Pub. L. 97–370, title I, Dec. 18, 1982, 96 Stat. 1792.
 
@@ -503,11 +503,11 @@ May 11, 1922, ch. 185, 42 Stat. 536.
 
 Mar. 4, 1917, ch. 179, 39 Stat. 1167.
 
-### §§ 129a to 131. Repealed. Pub. L. 107–171, title X, § 10418(a)(1), (8), (16), May 13, 2002, 116 Stat. 507, 508
+### §§ 129a to 131. Repealed. Pub. L. 107–171, title X, § 10418(a)(1), (8), (16), May 13, 2002, 116 Stat. 507, 508
 
-Section 129a, Pub. L. 97–46, § 1, Sept. 25, 1981, 95 Stat. 953; Pub. L. 106–224, title IV, § 438(b), June 20, 2000, 114 Stat. 454, related to transfer of funds for emergency arrest of animal or poultry diseases. Section was formerly classified to section 147b of Title 7, Agriculture.
+Section 129a, Pub. L. 97–46, § 1, Sept. 25, 1981, 95 Stat. 953; Pub. L. 106–224, title IV, § 438(b), June 20, 2000, 114 Stat. 454, related to transfer of funds for emergency arrest of animal or poultry diseases. Section was formerly classified to section 147b of Title 7, Agriculture.
 
-Section 130, act May 29, 1884, ch. 60, § 8, 23 Stat. 33; 1967 Reorg. Plan No. 3, § 402(430), eff. Aug. 11, 1967, 32 F.R. 11669, 81 Stat. 948; Pub. L. 93–198, title IV, § 401, Dec. 24, 1973, 87 Stat. 793, related to pleuropneumonia in District of Columbia and duties of Council of the District of Columbia.
+Section 130, act May 29, 1884, ch. 60, § 8, 23 Stat. 33; 1967 Reorg. Plan No. 3, § 402(430), eff. Aug. 11, 1967, 32 F.R. 11669, 81 Stat. 948; Pub. L. 93–198, title IV, § 401, Dec. 24, 1973, 87 Stat. 793, related to pleuropneumonia in District of Columbia and duties of Council of the District of Columbia.
 
 Section 131, act May 26, 1910, ch. 256, 36 Stat. 440, related to fences along international boundary lines to keep out diseased animals.
 
@@ -515,9 +515,9 @@ Section 131, act May 26, 1910, ch. 256, 36 Stat. 440, related to fences along in
 
 **Effective Date**
 
-Pub. L. 97–46, § 2, Sept. 25, 1981, 95 Stat. 953, provided that section 129a of this title was to become effective Sept. 25, 1981, prior to repeal by Pub. L. 107–171, title X, § 10418(a)(1), May 13, 2002, 116 Stat. 507.
+Pub. L. 97–46, § 2, Sept. 25, 1981, 95 Stat. 953, provided that section 129a of this title was to become effective Sept. 25, 1981, prior to repeal by Pub. L. 107–171, title X, § 10418(a)(1), May 13, 2002, 116 Stat. 507.
 
-### § 132. Transferred
+### § 132. Transferred
 
 **Editorial Notes**
 
@@ -525,43 +525,43 @@ Pub. L. 97–46, § 2, Sept. 25, 1981, 95 Stat. 953, provided that section 129
 
 Section, act May 23, 1908, ch. 192, 35 Stat. 254, which related to inspection of dairy products for export, was transferred to section 693 of this title.
 
-### § 133. Repealed. July 13, 1949, ch. 307, 63 Stat. 410
+### § 133. Repealed. July 13, 1949, ch. 307, 63 Stat. 410
 
 Section, act July 24, 1946, ch. 592, 60 Stat. 633, related to establishment of a quarantine station on Swan Island.
 
-### §§ 134 to 135b. Repealed. Pub. L. 107–171, title X, § 10418(a)(17), (18), May 13, 2002, 116 Stat. 508
+### §§ 134 to 135b. Repealed. Pub. L. 107–171, title X, § 10418(a)(17), (18), May 13, 2002, 116 Stat. 508
 
-Section 134, Pub. L. 87–518, § 1, July 2, 1962, 76 Stat. 129, related to definitions for Pub. L. 87–518.
+Section 134, Pub. L. 87–518, § 1, July 2, 1962, 76 Stat. 129, related to definitions for Pub. L. 87–518.
 
-Section 134a, Pub. L. 87–518, § 2, July 2, 1962, 76 Stat. 129, related to seizure, quarantine, and disposal of livestock or poultry to guard against introduction or dissemination of communicable disease.
+Section 134a, Pub. L. 87–518, § 2, July 2, 1962, 76 Stat. 129, related to seizure, quarantine, and disposal of livestock or poultry to guard against introduction or dissemination of communicable disease.
 
-Section 134b, Pub. L. 87–518, § 3, July 2, 1962, 76 Stat. 130, related to regulations for clean and sanitary movement of animals.
+Section 134b, Pub. L. 87–518, § 3, July 2, 1962, 76 Stat. 130, related to regulations for clean and sanitary movement of animals.
 
-Section 134c, Pub. L. 87–518, § 4, July 2, 1962, 76 Stat. 130, related to regulations for movement of animals affected or exposed to communicable disease.
+Section 134c, Pub. L. 87–518, § 4, July 2, 1962, 76 Stat. 130, related to regulations for movement of animals affected or exposed to communicable disease.
 
-Section 134d, Pub. L. 87–518, § 5, July 2, 1962, 76 Stat. 130, related to inspections, seizures, and issuance of warrants.
+Section 134d, Pub. L. 87–518, § 5, July 2, 1962, 76 Stat. 130, related to inspections, seizures, and issuance of warrants.
 
-Section 134e, Pub. L. 87–518, § 6, July 2, 1962, 76 Stat. 131; Pub. L. 97–461, § 8, Jan. 12, 1983, 96 Stat. 2525, related to enforcement provisions.
+Section 134e, Pub. L. 87–518, § 6, July 2, 1962, 76 Stat. 131; Pub. L. 97–461, § 8, Jan. 12, 1983, 96 Stat. 2525, related to enforcement provisions.
 
-Section 134f, Pub. L. 87–518, § 11, July 2, 1962, 76 Stat. 132, related to promulgation of regulations.
+Section 134f, Pub. L. 87–518, § 11, July 2, 1962, 76 Stat. 132, related to promulgation of regulations.
 
-Section 134g, Pub. L. 87–518, § 12, July 2, 1962, 76 Stat. 132, related to authority in addition to other laws and repeal of inconsistent provisions.
+Section 134g, Pub. L. 87–518, § 12, July 2, 1962, 76 Stat. 132, related to authority in addition to other laws and repeal of inconsistent provisions.
 
-Section 134h, Pub. L. 87–518, § 13, July 2, 1962, 76 Stat. 132, related to separability.
+Section 134h, Pub. L. 87–518, § 13, July 2, 1962, 76 Stat. 132, related to separability.
 
-Section 135, Pub. L. 91–239, § 1, May 6, 1970, 84 Stat. 202; Pub. L. 103–465, title IV, § 431(j), Dec. 8, 1994, 108 Stat. 4969, related to the establishment of international animal quarantine station, acceptance of gifts, cooperation with breeders’ organizations, and collection of fees.
+Section 135, Pub. L. 91–239, § 1, May 6, 1970, 84 Stat. 202; Pub. L. 103–465, title IV, § 431(j), Dec. 8, 1994, 108 Stat. 4969, related to the establishment of international animal quarantine station, acceptance of gifts, cooperation with breeders’ organizations, and collection of fees.
 
-Section 135a, Pub. L. 91–239, § 2, May 6, 1970, 84 Stat. 202; Pub. L. 97–461, § 9, Jan. 12, 1983, 96 Stat. 2525, related to smuggling penalties.
+Section 135a, Pub. L. 91–239, § 2, May 6, 1970, 84 Stat. 202; Pub. L. 97–461, § 9, Jan. 12, 1983, 96 Stat. 2525, related to smuggling penalties.
 
-Section 135b, Pub. L. 91–239, § 3, May 6, 1970, 84 Stat. 202, related to authorization of appropriations.
+Section 135b, Pub. L. 91–239, § 3, May 6, 1970, 84 Stat. 202, related to authorization of appropriations.
 
-### § 136. Additional inspection services
+### § 136. Additional inspection services
 
 The Secretary of Agriculture, in carrying out regulations prohibiting or restricting the entry of materials that may harbor pests, or diseases, is authorized to enter into agreements with operators or owners of vessels or aircraft for the purpose of providing inspection services at points of entry in the United States in addition to the regular or on-call basis currently available in connection with such vessels or aircraft. Any such agreement shall provide for the payment by the operator or owner of an amount determined by the Secretary to be necessary to defray the costs of providing additional service pursuant to such agreement.
 
-(Pub. L. 101–624, title XXV, § 2508, Nov. 28, 1990, 104 Stat. 4069.)
+(Pub. L. 101–624, title XXV, § 2508, Nov. 28, 1990, 104 Stat. 4069.)
 
-### § 136a. Collection of fees for inspection services
+### § 136a. Collection of fees for inspection services
 
 **(a) Quarantine and inspection fees**
 
@@ -627,7 +627,7 @@ All fees collected pursuant to this subsection and any late payment penalties or
 
 Any person for whom an activity related to the importation, entry, or exportation of an animal, article, or means of conveyance or relating to veterinary diagnostics, is performed pursuant to the section, shall be liable for payment of fees assessed. Upon failure to pay such fees when due, the Secretary shall assess a late payment penalty, and such overdue fees shall accrue interest, as required by section 3717 of title 31. All fees, late payment penalties, and accrued interest collected shall be credited to such accounts that incur the costs and shall remain available until expended without fiscal year limitation.
 
-**(5) Leins 1 [footnote: 1 So in original. Probably should be “Liens”.]**
+**(5) Leins 1 [footnote: 1 So in original. Probably should be “Liens”.]**
 
 **(A) In general**
 
@@ -635,9 +635,9 @@ The Secretary shall have a lien against the animal, article, means of conveyance
 
 **(B) Other animals, etc.**
 
-In the case of any person who fails to make payment when due under this subsection, the Secretary shall have a lien against any animal, article, or means of conveyance thereafter imported, moved in interstate commerce, or attempted to be exported by the person after the date of such failure until the date on which such owner or operator make 2
+In the case of any person who fails to make payment when due under this subsection, the Secretary shall have a lien against any animal, article, or means of conveyance thereafter imported, moved in interstate commerce, or attempted to be exported by the person after the date of such failure until the date on which such owner or operator make 2
 
-<sup>2</sup>  So in original. Probably should be “makes”.
+<sup>2</sup> So in original. Probably should be “makes”.
 
 full payment to the Secretary under this subsection.
 
@@ -663,9 +663,9 @@ An action may be brought for the recovery of fees, late payment penalties, and a
 
 **(1) Animal quarantine laws** For purposes of this section, the term “animal quarantine laws” means—
 
-**(A)** section 306 of the Tariff Act of 1930 3
+**(A)** section 306 of the Tariff Act of 1930 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 (19 U.S.C. 1306);
 
@@ -691,15 +691,15 @@ For the purposes of subsection (b), the term “United States” means the sever
 
 For the purposes of subsection (a), the term “vessel” does not include any ferry.
 
-(Pub. L. 101–624, title XXV, § 2509, Nov. 28, 1990, 104 Stat. 4069; Pub. L. 101–508, title I, § 1203, Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title X, § 1015, Dec. 13, 1991, 105 Stat. 1902; Pub. L. 104–127, title IX, § 917, Apr. 4, 1996, 110 Stat. 1187; Pub. L. 107–171, title X, § 10418(b)(5), May 13, 2002, 116 Stat. 509.)
+(Pub. L. 101–624, title XXV, § 2509, Nov. 28, 1990, 104 Stat. 4069; Pub. L. 101–508, title I, § 1203, Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title X, § 1015, Dec. 13, 1991, 105 Stat. 1902; Pub. L. 104–127, title IX, § 917, Apr. 4, 1996, 110 Stat. 1187; Pub. L. 107–171, title X, § 10418(b)(5), May 13, 2002, 116 Stat. 509.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Animal Health Protection Act, referred to in subsecs. (c)(2), (f)(1)(C), is subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§ 8301 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 7 and Tables.
+The Animal Health Protection Act, referred to in subsecs. (c)(2), (f)(1)(C), is subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§ 8301 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 7 and Tables.
 
-Section 306 of the Tariff Act of 1930 (19 U.S.C. 1306), referred to in subsec. (f)(1)(A), was repealed by Pub. L. 107–171, title X, § 10418(a)(5), May 13, 2002, 116 Stat. 507.
+Section 306 of the Tariff Act of 1930 (19 U.S.C. 1306), referred to in subsec. (f)(1)(A), was repealed by Pub. L. 107–171, title X, § 10418(a)(5), May 13, 2002, 116 Stat. 507.
 
 **Codification**
 
@@ -707,9 +707,9 @@ Section is comprised of section 2509 of Pub. L. 101–624. Subsec. (b) and anoth
 
 **Amendments**
 
-2002—Subsec. (c)(2). Pub. L. 107–171, § 10418(b)(5)(A), added par. (2) relating to veterinary diagnostics.
+2002—Subsec. (c)(2). Pub. L. 107–171, § 10418(b)(5)(A), added par. (2) relating to veterinary diagnostics.
 
-Subsec. (f)(1)(B) to (O). Pub. L. 107–171, § 10418(b)(5)(B), added subpars. (B) to (D) and struck out former subpars. (B) to (O), which read as follows:
+Subsec. (f)(1)(B) to (O). Pub. L. 107–171, § 10418(b)(5)(B), added subpars. (B) to (D) and struck out former subpars. (B) to (O), which read as follows:
 
 “(B) sections 6 through 10 of the Act of August 30, 1890 (26 Stat. 416, chapter 839; 21 U.S.C. 101–105);
 
@@ -741,17 +741,17 @@ Subsec. (f)(1)(B) to (O). Pub. L. 107–171, § 10418(b)(5)(B), added subpars.
 
 1996—Subsec. (a). Pub. L. 104–127 added subsec. (a) and struck out heading and text of former subsec. (a) which consisted of pars. (1) to (4) relating to quarantine, inspection, and transportation fees.
 
-1991—Subsec. (a)(1). Pub. L. 102–237, § 1015(1), designated existing provisions as subpar. (A), realigned margin, added heading, and added subpars. (B) to (D).
+1991—Subsec. (a)(1). Pub. L. 102–237, § 1015(1), designated existing provisions as subpar. (A), realigned margin, added heading, and added subpars. (B) to (D).
 
-Subsec. (a)(3)(B)(ii). Pub. L. 102–237, § 1015(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “The Secretary of Treasury shall use the Account to provide reimbursements to any appropriations accounts that incur the costs associated with the services authorized in paragraph (1). Any such reimbursement shall be subject to appropriations under clause (v).”
+Subsec. (a)(3)(B)(ii). Pub. L. 102–237, § 1015(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “The Secretary of Treasury shall use the Account to provide reimbursements to any appropriations accounts that incur the costs associated with the services authorized in paragraph (1). Any such reimbursement shall be subject to appropriations under clause (v).”
 
-Subsec. (a)(4). Pub. L. 102–237, § 1015(3), substituted “Subject to the limits set forth in paragraph (1), the” for “The”.
+Subsec. (a)(4). Pub. L. 102–237, § 1015(3), substituted “Subject to the limits set forth in paragraph (1), the” for “The”.
 
-1990—Subsec. (a)(1). Pub. L. 101–508, § 1203(1), substituted “an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car.” for “a commercial vessel, commercial aircraft, commercial truck, or railroad car,”.
+1990—Subsec. (a)(1). Pub. L. 101–508, § 1203(1), substituted “an international passenger, commercial vessel, commercial aircraft, commercial truck, or railroad car.” for “a commercial vessel, commercial aircraft, commercial truck, or railroad car,”.
 
-Subsec. (a)(3)(B)(ii). Pub. L. 101–508, § 1203(2)(A), inserted at end “Any such reimbursement shall be subject to appropriations under clause (v).”
+Subsec. (a)(3)(B)(ii). Pub. L. 101–508, § 1203(2)(A), inserted at end “Any such reimbursement shall be subject to appropriations under clause (v).”
 
-Subsec. (a)(3)(B)(v). Pub. L. 101–508, § 1203(2)(B), added cl. (v).
+Subsec. (a)(3)(B)(v). Pub. L. 101–508, § 1203(2)(B), added cl. (v).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -761,7 +761,7 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 **Report on Agricultural Quarantine Inspection Fund**
 
-Pub. L. 104–66, title I, § 1012(c), Dec. 21, 1995, 109 Stat. 712, provided that: “The Secretary of Agriculture shall not be required to submit a report to the appropriate committees of Congress on the status of the Agricultural Quarantine Inspection fund more frequently than annually.”
+Pub. L. 104–66, title I, § 1012(c), Dec. 21, 1995, 109 Stat. 712, provided that: “The Secretary of Agriculture shall not be required to submit a report to the appropriate committees of Congress on the status of the Agricultural Quarantine Inspection fund more frequently than annually.”
 
 ## SUBCHAPTER IV—IMPORTATION OF MILK AND CREAM
 
@@ -769,13 +769,13 @@ Pub. L. 104–66, title I, § 1012(c), Dec. 21, 1995, 109 Stat. 712, provided 
 
 **Federal Food, Drug, and Cosmetic Act**
 
-Nothing contained in chapter 9 (§ 301 et seq.) of this title shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of this subchapter, see section 392(b) of this title.
+Nothing contained in chapter 9 (§ 301 et seq.) of this title shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of this subchapter, see section 392(b) of this title.
 
-### § 141. Prohibition of importation without permit
+### § 141. Prohibition of importation without permit
 
 On and after May 16, 1927, the importation into the United States of milk and cream is prohibited unless the person by whom such milk or cream is shipped or transported into the United States holds a valid permit from the Secretary of Health and Human Services.
 
-(Feb. 15, 1927, ch. 155, § 1, 44 Stat. 1101; 1940 Reorg. Plan No. IV, § 12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Feb. 15, 1927, ch. 155, § 1, 44 Stat. 1101; 1940 Reorg. Plan No. IV, § 12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -793,11 +793,11 @@ Act July 12, 1943, ch. 221, title II, 57 Stat. 499, provided in part that act Fe
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare [now Health and Human Services], and of Food and Drug Administration to Federal Security Agency, see notes set out under section 321 of this title.
 
-### § 142. Milk or cream when unfit for importation
+### § 142. Milk or cream when unfit for importation
 
 Milk or cream shall be considered unfit for importation (1) when all cows producing such milk or cream are not healthy and a physical examination of all such cows has not been made within one year previous to such milk being offered for importation; (2) when such milk or cream, if raw, is not produced from cows which have passed a tuberculin test applied by a duly authorized official veterinarian of the United States, or of the country in which such milk or cream is produced, within one year previous to the time of the importation, showing that such cows are free from tuberculosis; (3) when the sanitary conditions of the dairy farm or plant in which such milk or cream is produced or handled do not score at least fifty points out of one hundred points according to the methods for scoring as provided by the score cards used by the Bureau of Dairy Industry of the United States Department of Agriculture at the time such dairy farms or plants are scored; (4) in the case of raw milk if the number of bacteria per cubic centimeter exceeds three hundred thousand and in the case of raw cream seven hundred and fifty thousand, in the case of pasteurized milk if the number of bacteria per cubic centimeter exceeds one hundred thousand, and in the case of pasteurized cream five hundred thousand; (5) when the temperature of milk or cream at the time of importation exceeds fifty degrees Fahrenheit.
 
-(Feb. 15, 1927, ch. 155, § 2, 44 Stat. 1101.)
+(Feb. 15, 1927, ch. 155, § 2, 44 Stat. 1101.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -805,7 +805,7 @@ Milk or cream shall be considered unfit for importation (1) when all cows produc
 
 Agricultural Research Service became the successor to functions of Bureau of Dairy Industry under Secretary of Agriculture’s Memorandum 1320, Supplement 4, Nov. 2, 1953.
 
-### § 143. Inspection; certified statement in lieu thereof; waiver of requirements of section 142; regulations; suspension and revocation of permits
+### § 143. Inspection; certified statement in lieu thereof; waiver of requirements of section 142; regulations; suspension and revocation of permits
 
 The Secretary of Health and Human Services shall cause such inspections to be made as are necessary to insure that milk and cream are so produced and handled as to comply with the provisions of section 142 of this title, and in all cases when he finds that such milk and/or cream is produced and handled so as not to be unfit for importation under clauses 1, 2, and 3 of section 142 of this title, he shall issue to persons making application therefor permits to ship milk and/or cream into the United States: *Provided*, That in lieu of the inspections to be made by or under the direction of the Secretary he may, in his discretion, accept a duly certified statement signed by a duly accredited official of an authorized department of any foreign government and/or of any State of the United States or any municipality thereof that the provisions in clauses 1, 2, and 3 of section 142 of this title have been complied with. Such certificate of the accredited official of an authorized department of any foreign government shall be in the form prescribed by the Secretary, who is authorized and directed to prescribe such form as well as rules and regulations regulating the issuance of permits to import milk or cream into the United States.
 
@@ -817,7 +817,7 @@ The Secretary is authorized and directed to make and enforce such regulations as
 
 The Secretary is authorized to suspend or revoke any permit for the shipment of milk or cream into the United States when he shall find that the holder thereof has failed to comply with the provisions of or has violated this subchapter or any of the regulations made hereunder, or that the milk and/or cream brought or shipped by the holder of such permit into the United States is not produced and handled in conformity with, or that the quality thereof does not conform to, all of the provisions of section 142 of this title.
 
-(Feb. 15, 1927, ch. 155, § 3, 44 Stat. 1102; 1940 Reorg. Plan No. IV, § 12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Feb. 15, 1927, ch. 155, § 3, 44 Stat. 1102; 1940 Reorg. Plan No. IV, § 12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -831,23 +831,23 @@ The Secretary is authorized to suspend or revoke any permit for the shipment of 
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare [now Health and Human Services], and of Food and Drug Administration to Federal Security Agency, see notes set out under section 321 of this title.
 
-### § 144. Unlawful receiving of imported milk or cream
+### § 144. Unlawful receiving of imported milk or cream
 
 It shall be unlawful for any person in the United States to receive milk or cream imported into the United States unless the importation is in accordance with the provisions of this subchapter.
 
-(Feb. 15, 1927, ch. 155, § 4, 44 Stat. 1103.)
+(Feb. 15, 1927, ch. 155, § 4, 44 Stat. 1103.)
 
-### § 145. Penalties
+### § 145. Penalties
 
 Any person who knowingly violates any provision of this subchapter shall, in addition to all other penalties prescribed by law, be punished by a fine of not less than $50 nor more than $2,000, or by imprisonment for not more than one year, or by both such fine and imprisonment.
 
-(Feb. 15, 1927, ch. 155, § 5, 44 Stat. 1103.)
+(Feb. 15, 1927, ch. 155, § 5, 44 Stat. 1103.)
 
-### § 146. Authorization of appropriations
+### § 146. Authorization of appropriations
 
 There is authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, the sum of $50,000 per annum, to enable the Secretary of Health and Human Services to carry out the provisions of this subchapter.
 
-(Feb. 15, 1927, ch. 155, § 6, 44 Stat. 1103; 1940 Reorg. Plan No. IV, § 12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Feb. 15, 1927, ch. 155, § 6, 44 Stat. 1103; 1940 Reorg. Plan No. IV, § 12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -861,19 +861,19 @@ There is authorized to be appropriated, out of any moneys in the Treasury not ot
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare [now Health and Human Services], and of Food and Drug Administration to Federal Security Agency, see Transfer of Functions notes set out under section 321 of this title.
 
-### § 147. Repeal of inconsistent laws
+### § 147. Repeal of inconsistent laws
 
 Any laws or parts of laws inconsistent with this subchapter are repealed.
 
-(Feb. 15, 1927, ch. 155, § 7, 44 Stat. 1103.)
+(Feb. 15, 1927, ch. 155, § 7, 44 Stat. 1103.)
 
-### § 148. Powers of State with respect to milk or cream lawfully imported
+### § 148. Powers of State with respect to milk or cream lawfully imported
 
 Nothing in this subchapter is intended nor shall be construed to affect the powers of any State, or any political subdivision thereof, to regulate the shipment of milk or cream into, or the handling, sale, or other disposition of milk or cream in, such State or political subdivision after the milk and/or cream shall have been lawfully imported under the provisions of this subchapter.
 
-(Feb. 15, 1927, ch. 155, § 8, 44 Stat. 1103.)
+(Feb. 15, 1927, ch. 155, § 8, 44 Stat. 1103.)
 
-### § 149. Definitions
+### § 149. Definitions
 
 When used in this subchapter—
 
@@ -881,7 +881,7 @@ When used in this subchapter—
 
 **(b)** The term “United States” means the fifty States and the District of Columbia.
 
-(Feb. 15, 1927, ch. 155, § 9, 44 Stat. 1103; Pub. L. 86–70, § 19, June 25, 1959, 73 Stat. 145; Pub. L. 86–624, § 15, July 12, 1960, 74 Stat. 415.)
+(Feb. 15, 1927, ch. 155, § 9, 44 Stat. 1103; Pub. L. 86–70, § 19, June 25, 1959, 73 Stat. 145; Pub. L. 86–624, § 15, July 12, 1960, 74 Stat. 415.)
 
 **Editorial Notes**
 
@@ -889,4 +889,4 @@ When used in this subchapter—
 
 1960—Subsec. (b). Pub. L. 86–624 substituted “means the fifty States and the District of Columbia” for “means continental United States, including Alaska”.
 
-1959—Subsec. (b). Pub. L. 86–70 inserted “, including Alaska” after “continental United States”.
+1959—Subsec. (b). Pub. L. 86–70 inserted “, including Alaska” after “continental United States”.

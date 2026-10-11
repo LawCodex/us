@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 90—PROPANE EDUCATION AND RESEARCH
 
-## § 6401. Findings
+## § 6401. Findings
 
 The Congress finds that—
 
@@ -27,19 +27,19 @@ The Congress finds that—
 
 **(4)** propane is primarily domestically produced and its use provides energy security and jobs for Americans.
 
-(Pub. L. 104–284, § 2, Oct. 11, 1996, 110 Stat. 3370.)
+(Pub. L. 104–284, § 2, Oct. 11, 1996, 110 Stat. 3370.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–269, § 1, Dec. 18, 2014, 128 Stat. 2947, provided that: “This Act [amending sections 6404 and 6408 of this title] may be cited as the ‘Propane Education and Research Enhancement Act of 2014’.”
+Pub. L. 113–269, § 1, Dec. 18, 2014, 128 Stat. 2947, provided that: “This Act [amending sections 6404 and 6408 of this title] may be cited as the ‘Propane Education and Research Enhancement Act of 2014’.”
 
 **Short Title**
 
-Pub. L. 104–284, § 1, Oct. 11, 1996, 110 Stat. 3370, provided that: “This Act [enacting this chapter] may be cited as the ‘Propane Education and Research Act of 1996’.”
+Pub. L. 104–284, § 1, Oct. 11, 1996, 110 Stat. 3370, provided that: “This Act [enacting this chapter] may be cited as the ‘Propane Education and Research Act of 1996’.”
 
-## § 6402. Definitions
+## § 6402. Definitions
 
 For the purposes of this chapter—
 
@@ -65,9 +65,9 @@ For the purposes of this chapter—
 
 **(11)** the term “Secretary” means the Secretary of Energy.
 
-(Pub. L. 104–284, § 3, Oct. 11, 1996, 110 Stat. 3370.)
+(Pub. L. 104–284, § 3, Oct. 11, 1996, 110 Stat. 3370.)
 
-## § 6403. Referenda
+## § 6403. Referenda
 
 **(a) Creation of program**
 
@@ -77,9 +77,9 @@ The qualified industry organizations may conduct, at their own expense, a refere
 
 On the Council’s own initiative, or on petition to the Council by producers and retail marketers representing 35 percent of the volume of propane in each class, the Council shall, at its own expense, hold a referendum, to be conducted by an independent auditing firm selected by the Council, to determine whether the industry favors termination or suspension of the Council. Termination or suspension shall not take effect unless it is approved by persons representing more than one-half of the total volume of odorized propane in the retail marketer class and more than one-half of the total volume of propane in the producer class, or is approved by persons representing more than two-thirds of the total volume of propane in either such class.
 
-(Pub. L. 104–284, § 4, Oct. 11, 1996, 110 Stat. 3371.)
+(Pub. L. 104–284, § 4, Oct. 11, 1996, 110 Stat. 3371.)
 
-## § 6404. Propane Education and Research Council
+## § 6404. Propane Education and Research Council
 
 **(a) Selection of members**
 
@@ -147,7 +147,7 @@ The Council shall keep minutes, books, and records that clearly reflect all of t
 
 Each year the Council shall prepare and make publicly available a report which includes an identification and description of all programs and projects undertaken by the Council during the previous year as well as those planned for the coming year. Such report shall also detail the allocation or planned allocation of Council resources for each such program and project.
 
-(Pub. L. 104–284, § 5, Oct. 11, 1996, 110 Stat. 3371; Pub. L. 113–269, § 2(a), Dec. 18, 2014, 128 Stat. 2947.)
+(Pub. L. 104–284, § 5, Oct. 11, 1996, 110 Stat. 3371; Pub. L. 113–269, § 2(a), Dec. 18, 2014, 128 Stat. 2947.)
 
 **Editorial Notes**
 
@@ -155,7 +155,7 @@ Each year the Council shall prepare and make publicly available a report which i
 
 2014—Subsec. (f). Pub. L. 113–269 inserted “to train propane distributors and consumers in strategies to mitigate negative effects of future propane price spikes,” after “to enhance consumer and employee safety and training,”.
 
-## § 6405. Assessments
+## § 6405. Assessments
 
 **(a) Amount**
 
@@ -179,21 +179,21 @@ Pending disbursement pursuant to a program, plan, or project, the Council may in
 
 **(2)** a similar entity, such as a foundation established by the retail propane gas industry in that State, that meets requirements established by the Council for specific programs approved by the Council.
 
-(Pub. L. 104–284, § 6, Oct. 11, 1996, 110 Stat. 3374.)
+(Pub. L. 104–284, § 6, Oct. 11, 1996, 110 Stat. 3374.)
 
-## § 6406. Compliance
+## § 6406. Compliance
 
 The Council may bring suit in Federal court to compel compliance with an assessment levied by the Council under this chapter. A successful action for compliance under this section may also require payment by the defendant of the costs incurred by the Council in bringing such action.
 
-(Pub. L. 104–284, § 7, Oct. 11, 1996, 110 Stat. 3374.)
+(Pub. L. 104–284, § 7, Oct. 11, 1996, 110 Stat. 3374.)
 
-## § 6407. Lobbying restrictions
+## § 6407. Lobbying restrictions
 
 No funds collected by the Council shall be used in any manner for influencing legislation or elections, except that the Council may recommend to the Secretary changes in this chapter or other statutes that would further the purposes of this chapter.
 
-(Pub. L. 104–284, § 8, Oct. 11, 1996, 110 Stat. 3375.)
+(Pub. L. 104–284, § 8, Oct. 11, 1996, 110 Stat. 3375.)
 
-## § 6408. Market survey and consumer protection
+## § 6408. Market survey and consumer protection
 
 **(a) Price analysis**
 
@@ -203,7 +203,7 @@ Beginning 2 years after establishment of the Council and annually thereafter, th
 
 If in any year the 5-year average rolling price index of consumer grade propane exceeds the 5-year rolling average price composite index of residential electricity, residential natural gas, and refiner price to end users of No. 2 fuel oil in an amount greater than 10.1 percent, the activities of the Council shall be restricted to research and development, training, and safety matters. The Council shall inform the Secretary of Energy and the Congress of any restriction of activities under this subsection. Upon expiration of 180 days after the beginning of any such restriction of activities, the Secretary of Commerce shall again conduct the propane price analysis described in subsection (a). Activities of the Council shall continue to be restricted under this subsection until the price index excess is 10.1 percent or less.
 
-(Pub. L. 104–284, § 9, Oct. 11, 1996, 110 Stat. 3375; Pub. L. 113–269, § 2(b), Dec. 18, 2014, 128 Stat. 2947.)
+(Pub. L. 104–284, § 9, Oct. 11, 1996, 110 Stat. 3375; Pub. L. 113–269, § 2(b), Dec. 18, 2014, 128 Stat. 2947.)
 
 **Editorial Notes**
 
@@ -211,20 +211,20 @@ If in any year the 5-year average rolling price index of consumer grade propane 
 
 2014—Subsec. (a). Pub. L. 113–269 substituted “the refiner price to end users of consumer grade propane, as published by the Energy Information Administration” for “only data provided by the Energy Information Administration”.
 
-## § 6409. Pricing
+## § 6409. Pricing
 
 In all cases, the price of propane shall be determined by market forces. Consistent with the antitrust laws, the Council may take no action, nor may any provision of this chapter be interpreted as establishing an agreement to pass along to consumers the cost of the assessment provided for in section 6405 of this title.
 
-(Pub. L. 104–284, § 10, Oct. 11, 1996, 110 Stat. 3375.)
+(Pub. L. 104–284, § 10, Oct. 11, 1996, 110 Stat. 3375.)
 
-## § 6410. Relation to other programs
+## § 6410. Relation to other programs
 
 Nothing in this chapter may be construed to preempt or supersede any other program relating to propane education and research organized and operated under the laws of the United States or any State.
 
-(Pub. L. 104–284, § 11, Oct. 11, 1996, 110 Stat. 3375.)
+(Pub. L. 104–284, § 11, Oct. 11, 1996, 110 Stat. 3375.)
 
-## § 6411. Reports
+## § 6411. Reports
 
 Within 2 years after October 11, 1996, and at least once every 2 years thereafter, the Secretary of Commerce shall prepare and submit to the Congress and the Secretary a report examining whether operation of the Council, in conjunction with the cumulative effects of market changes and Federal programs, has had an effect on propane consumers, including residential, agriculture, process, and nonfuel users of propane. The Secretary of Commerce shall consider and, to the extent practicable, shall include in the report submissions by propane consumers, and shall consider whether there have been long-term and short-term effects on propane prices as a result of Council activities and Federal programs, and whether there have been changes in the proportion of propane demand attributable to various market segments. To the extent that the report demonstrates that there has been an adverse effect, the Secretary of Commerce shall include recommendations for correcting the situation. Upon petition by affected parties or upon request by the Secretary of Energy, the Secretary of Commerce may prepare and submit the report required by this section at less than 2-year intervals.
 
-(Pub. L. 104–284, § 12, Oct. 11, 1996, 110 Stat. 3375.)
+(Pub. L. 104–284, § 12, Oct. 11, 1996, 110 Stat. 3375.)

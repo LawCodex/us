@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 50—AGRICULTURAL CREDIT
 
-## § 1921. Congressional findings
+## § 1921. Congressional findings
 
 The Congress finds that the statutory authority of the Secretary of Agriculture, hereinafter referred to in this chapter as the “Secretary,” for making and insuring loans to farmers and ranchers should be revised and consolidated to provide for more effective credit services to farmers.
 
-(Pub. L. 87–128, title III, § 301(b), Aug. 8, 1961, 75 Stat. 307.)
+(Pub. L. 87–128, title III, § 301(b), Aug. 8, 1961, 75 Stat. 307.)
 
 **Editorial Notes**
 
@@ -39,55 +39,55 @@ Former section 300.1 of Title 6, Code of Federal Regulations, promulgated on Oct
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 501], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that: “This title [enacting subchapter VI of this chapter and amending provisions set out as a note under section 3121 of Title 42, The Public Health and Welfare] may be cited as the ‘Delta Regional Authority Act of 2000’.”
+Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 501], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that: “This title [enacting subchapter VI of this chapter and amending provisions set out as a note under section 3121 of Title 42, The Public Health and Welfare] may be cited as the ‘Delta Regional Authority Act of 2000’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–248, § 1, May 11, 1994, 108 Stat. 619, provided that: “This Act [amending section 1981 of this title] may be cited as the ‘Farmers Home Administration Improvement Act of 1994’.”
+Pub. L. 103–248, § 1, May 11, 1994, 108 Stat. 619, provided that: “This Act [amending section 1981 of this title] may be cited as the ‘Farmers Home Administration Improvement Act of 1994’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–554, § 1(a), Oct. 28, 1992, 106 Stat. 4142, provided that: “This Act [enacting sections 1935, 1936, 1948, 1949, and 2008d of this title, amending sections 1925, 1926c, 1929, 1932, 1981d, 1982, 1983, 1983a, 1985, 1989, 1991, 1994, 2003, and 5102 of this title, and enacting provisions set out as notes under sections 1929 and 1989 of this title] may be cited as the ‘Agricultural Credit Improvement Act of 1992’.”
+Pub. L. 102–554, § 1(a), Oct. 28, 1992, 106 Stat. 4142, provided that: “This Act [enacting sections 1935, 1936, 1948, 1949, and 2008d of this title, amending sections 1925, 1926c, 1929, 1932, 1981d, 1982, 1983, 1983a, 1985, 1989, 1991, 1994, 2003, and 5102 of this title, and enacting provisions set out as notes under sections 1929 and 1989 of this title] may be cited as the ‘Agricultural Credit Improvement Act of 1992’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–624, title XXIII, § 2301, Nov. 28, 1990, 104 Stat. 3979, provided that: “This title [see Tables for classification] may be cited as the ‘Rural Economic Development Act of 1990’.”
+Pub. L. 101–624, title XXIII, § 2301, Nov. 28, 1990, 104 Stat. 3979, provided that: “This title [see Tables for classification] may be cited as the ‘Rural Economic Development Act of 1990’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–409, § 1, Aug. 28, 1986, 100 Stat. 923, provided: “That this Act [amending section 1932 of this title and enacting provisions set out as a note under section 1932 of this title] may be cited as the ‘Rural Industrial Assistance Act of 1986’.”
+Pub. L. 99–409, § 1, Aug. 28, 1986, 100 Stat. 923, provided: “That this Act [amending section 1932 of this title and enacting provisions set out as a note under section 1932 of this title] may be cited as the ‘Rural Industrial Assistance Act of 1986’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–258, title VI, § 601, Apr. 10, 1984, 98 Stat. 138, provided that: “This title [enacting section 1981b of this title, amending sections 1943, 1946, 1961, 1964, 1986, and 1994 of this title, enacting provisions set out as notes under sections 1961 and 1981 of this title, and amending provisions set out as a note preceding section 1961 of this title] may be cited as the ‘Emergency Agricultural Credit Act of 1984’.”
+Pub. L. 98–258, title VI, § 601, Apr. 10, 1984, 98 Stat. 138, provided that: “This title [enacting section 1981b of this title, amending sections 1943, 1946, 1961, 1964, 1986, and 1994 of this title, enacting provisions set out as notes under sections 1961 and 1981 of this title, and amending provisions set out as a note preceding section 1961 of this title] may be cited as the ‘Emergency Agricultural Credit Act of 1984’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–334, § 1, Aug. 4, 1978, 92 Stat. 420, provided: “That this Act [enacting sections 1929b, 1934, 1981a, 1994, and 1995 of this title and sections 2201 to 2205 of Title 16, Conservation, amending sections 1309, 1922, 1924 to 1927, 1929, 1929a, 1932, 1941 to 1943, 1946, 1961, 1964, 1968, 1981, 1983, 1991, and 2908 of this title, repealing section 1965 of this title, and enacting provisions set out as notes under this section and sections 1309, 1926, preceding 1961, and 1964 of this title and section 2201 of Title 16] may be cited as the ‘Agricultural Credit Act of 1978’.”
+Pub. L. 95–334, § 1, Aug. 4, 1978, 92 Stat. 420, provided: “That this Act [enacting sections 1929b, 1934, 1981a, 1994, and 1995 of this title and sections 2201 to 2205 of Title 16, Conservation, amending sections 1309, 1922, 1924 to 1927, 1929, 1929a, 1932, 1941 to 1943, 1946, 1961, 1964, 1968, 1981, 1983, 1991, and 2908 of this title, repealing section 1965 of this title, and enacting provisions set out as notes under this section and sections 1309, 1926, preceding 1961, and 1964 of this title and section 2201 of Title 16] may be cited as the ‘Agricultural Credit Act of 1978’.”
 
 **Short Title of 1972 Amendment**
 
-Pub. L. 92–419, § 1, Aug. 30, 1972, 86 Stat. 657, provided: “That this Act [enacting sections 1010a, 1929a, 1931 to 1933, 1947, 1992, 2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590*o*, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section] may be cited as the ‘Rural Development Act of 1972’.”
+Pub. L. 92–419, § 1, Aug. 30, 1972, 86 Stat. 657, provided: “That this Act [enacting sections 1010a, 1929a, 1931 to 1933, 1947, 1992, 2204a, 2212a, 2651 to 2654, and 2661 to 2668 of this title, amending sections 1006a, 1011, 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, 1991, 2201, and 2204 of this title, section 5315 of Title 5, Government Organization and Employees, sections 590g, 590h, 590*o*, and 1001 to 1005 of Title 16, Conservation, and section 3122 of Title 42, The Public Health and Welfare, and amending provisions set out as a note under this section] may be cited as the ‘Rural Development Act of 1972’.”
 
 **Short Title**
 
-Pub. L. 87–128, title III, § 301(a), Aug. 8, 1961, 75 Stat. 307, as amended by Pub. L. 92–419, title I, § 101, Aug. 30, 1972, 86 Stat. 657, provided that: “This title [enacting this section and sections 1013a, 1922 to 1933, 1941 to 1947, 1961 to 1968, 1969, 1970, 1971, and 1981 to 1993 of this title, amending sections 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, and 1991 of this title, repealing sections 1001 to 1005d, 1006c to 1006e, 1007, 1008, 1009, 1014 to 1025, 1027 to 1029 of this title, sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, and sections 590r to 590x–4 of Title 16, Conservation, and enacting provisions set out as a note under this section] may be cited as the ‘Consolidated Farm and Rural Development Act’.”
+Pub. L. 87–128, title III, § 301(a), Aug. 8, 1961, 75 Stat. 307, as amended by Pub. L. 92–419, title I, § 101, Aug. 30, 1972, 86 Stat. 657, provided that: “This title [enacting this section and sections 1013a, 1922 to 1933, 1941 to 1947, 1961 to 1968, 1969, 1970, 1971, and 1981 to 1993 of this title, amending sections 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, and 1991 of this title, repealing sections 1001 to 1005d, 1006c to 1006e, 1007, 1008, 1009, 1014 to 1025, 1027 to 1029 of this title, sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, and sections 590r to 590x–4 of Title 16, Conservation, and enacting provisions set out as a note under this section] may be cited as the ‘Consolidated Farm and Rural Development Act’.”
 
 **Farm Loan Assistance for Socially Disadvantaged Farmers and Ranchers**
 
-Pub. L. 117–2, title I, § 1005, Mar. 11, 2021, 135 Stat. 12, which related to loan modifications and payments for socially disadvantaged farmers and ranchers, was repealed by Pub. L. 117–169, title II, § 22008, Aug. 16, 2022, 136 Stat. 2023.
+Pub. L. 117–2, title I, § 1005, Mar. 11, 2021, 135 Stat. 12, which related to loan modifications and payments for socially disadvantaged farmers and ranchers, was repealed by Pub. L. 117–169, title II, § 22008, Aug. 16, 2022, 136 Stat. 2023.
 
 **Regulations**
 
-Pub. L. 101–624, title XXIII, § 2396, Nov. 28, 1990, 104 Stat. 4058, provided that: “Except as otherwise provided in this title [see Short Title of 1990 Amendment note set out above], no later than 180 days after the date of the enactment of this Act [Nov. 28, 1990], the Secretary shall promulgate such regulations as may be necessary to carry out this title and the amendments made by this title.”
+Pub. L. 101–624, title XXIII, § 2396, Nov. 28, 1990, 104 Stat. 4058, provided that: “Except as otherwise provided in this title [see Short Title of 1990 Amendment note set out above], no later than 180 days after the date of the enactment of this Act [Nov. 28, 1990], the Secretary shall promulgate such regulations as may be necessary to carry out this title and the amendments made by this title.”
 
 **Preservation of Eligibility for Credit Assistance Under Federal Law**
 
-Pub. L. 101–624, title XXIII, § 2395, Nov. 28, 1990, 104 Stat. 4058, provided that: “Notwithstanding any other provision of law, this title [see Short Title of 1990 Amendment note set out above] shall not be construed to adversely affect the eligibility, as it existed on the date of enactment of this Act [Nov. 28, 1990], of cooperatives and other entities for any other credit assistance under Federal law.”
+Pub. L. 101–624, title XXIII, § 2395, Nov. 28, 1990, 104 Stat. 4058, provided that: “Notwithstanding any other provision of law, this title [see Short Title of 1990 Amendment note set out above] shall not be construed to adversely affect the eligibility, as it existed on the date of enactment of this Act [Nov. 28, 1990], of cooperatives and other entities for any other credit assistance under Federal law.”
 
 **Use of Qualified Personnel by the Department of Agriculture**
 
-Pub. L. 95–334, title I, § 126, Aug. 4, 1978, 92 Stat. 429, provided that:
+Pub. L. 95–334, title I, § 126, Aug. 4, 1978, 92 Stat. 429, provided that:
 
 > “It is the sense of Congress that, in carrying out the provisions of the Consolidated Farm and Rural Development Act [see Short Title note set out above], the Secretary of Agriculture should ensure that—
 
@@ -97,7 +97,7 @@ Pub. L. 95–334, title I, § 126, Aug. 4, 1978, 92 Stat. 429, provided that:
 
 **References in Other Laws to Bankhead-Jones Farm Tenant Act or Water Facilities Act; Repeals; Savings and Separability Provisions**
 
-Pub. L. 87–128, title III, § 341, Aug. 8, 1961, 75 Stat. 318, provided that:
+Pub. L. 87–128, title III, § 341, Aug. 8, 1961, 75 Stat. 318, provided that:
 
 > **“(a)** Reference to any provisions of the Bankhead-Jones Farm Tenant Act [see section 1000 of this title] or the Act of August 28, 1937 (50 Stat. 869), as amended, superseded by any provision of this title [this chapter] shall be construed as referring to the appropriate provision of this title [this chapter]. Titles I, II, and IV of the Bankhead-Jones Farm Tenant Act, as amended, and the Act of August 28, 1937 (50 Stat. 869), as amended, the Act of April 6, 1949 (63 Stat. 43), as amended, and the Act of August 31, 1954 (68 Stat. 999), as amended, are hereby repealed effective one hundred and twenty days after enactment hereof [Aug. 8, 1961], or such earlier date as the provisions of this title [this chapter] are made effective by the Secretary’s regulations except that the repeal of section 2(c) of the Act of April 6, 1949, shall not be effective prior to January 1, 1962. The foregoing provisions shall not have the effect of repealing the amendments to section 24, chapter 6 of the Federal Reserve Act [section 371 of Title 12], as amended, section 5200 of the Revised Statutes [section 84 of Title 12], section 35 of chapter III of the Act approved June 19, 1934 (D.C. Code, title 35, section 535), enacted by section 15 of the Bankhead-Jones Farm Tenant Act, as amended, and by section 10(f) of the Act of August 28, 1937 (50 Stat. 869), as amended.
 
@@ -111,7 +111,7 @@ Pub. L. 87–128, title III, § 341, Aug. 8, 1961, 75 Stat. 318, provided that
 
 ## SUBCHAPTER I—REAL ESTATE LOANS
 
-### § 1922. Persons eligible for real estate loans
+### § 1922. Persons eligible for real estate loans
 
 **(a) In general**
 
@@ -183,7 +183,7 @@ Beginning with fiscal year 2000 not later than 12 months before a borrower will 
 
 **(B)** waive the 3-year requirement in paragraph (1) if the farmer or rancher meets the requirements of clauses (iii) and (viii) of subparagraph (A).
 
-(Pub. L. 87–128, title III, § 302, Aug. 8, 1961, 75 Stat. 307; Pub. L. 91–620, § 2, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 95–334, title I, § 101, Aug. 4, 1978, 92 Stat. 420; Pub. L. 97–98, title XVI, § 1601(a), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§ 1301(a), 1302(a), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, § 601, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–277, div. A, § 101(a) [title VIII, §§ 804, 805(1)], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§ 5001, 5302(a), May 13, 2002, 116 Stat. 341, 344; Pub. L. 110–234, title V, § 5001, May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, § 4(a), title V, § 5001, June 18, 2008, 122 Stat. 1664, 1903; Pub. L. 113–79, title V, § 5001(a), (b), Feb. 7, 2014, 128 Stat. 832, 833; Pub. L. 115–334, title V, § 5101, Dec. 20, 2018, 132 Stat. 4668.)
+(Pub. L. 87–128, title III, § 302, Aug. 8, 1961, 75 Stat. 307; Pub. L. 91–620, § 2, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 95–334, title I, § 101, Aug. 4, 1978, 92 Stat. 420; Pub. L. 97–98, title XVI, § 1601(a), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§ 1301(a), 1302(a), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, § 601, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–277, div. A, § 101(a) [title VIII, §§ 804, 805(1)], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§ 5001, 5302(a), May 13, 2002, 116 Stat. 341, 344; Pub. L. 110–234, title V, § 5001, May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, § 4(a), title V, § 5001, June 18, 2008, 122 Stat. 1664, 1903; Pub. L. 113–79, title V, § 5001(a), (b), Feb. 7, 2014, 128 Stat. 832, 833; Pub. L. 115–334, title V, § 5101, Dec. 20, 2018, 132 Stat. 4668.)
 
 **Editorial Notes**
 
@@ -195,37 +195,37 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (b)(4). Pub. L. 115–334 added par. (4).
 
-2014—Subsec. (a)(1). Pub. L. 113–79, § 5001(a)(1)–(5), designated existing provisions as par. (1) and inserted heading, in first sentence, substituted “limited liability companies, and such other legal entities as the Secretary considers appropriate,” for “and limited liability companies”, in second sentence, redesignated pars. (1) to (4) as subpars. (A) to (D), respectively, and substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, and, in third sentence, substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, “subparagraph (C)” for “clause (3)”, and “subparagraph (D)” for “clause (4)”.
+2014—Subsec. (a)(1). Pub. L. 113–79, § 5001(a)(1)–(5), designated existing provisions as par. (1) and inserted heading, in first sentence, substituted “limited liability companies, and such other legal entities as the Secretary considers appropriate,” for “and limited liability companies”, in second sentence, redesignated pars. (1) to (4) as subpars. (A) to (D), respectively, and substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, and, in third sentence, substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, “subparagraph (C)” for “clause (3)”, and “subparagraph (D)” for “clause (4)”.
 
-Subsec. (a)(2). Pub. L. 113–79, § 5001(a)(6), added par. (2).
+Subsec. (a)(2). Pub. L. 113–79, § 5001(a)(6), added par. (2).
 
-Subsec. (b)(1). Pub. L. 113–79, § 5001(b), in introductory provisions, inserted “or has other acceptable experience for a period of time, as determined by the Secretary,” after “3 years”.
+Subsec. (b)(1). Pub. L. 113–79, § 5001(b), in introductory provisions, inserted “or has other acceptable experience for a period of time, as determined by the Secretary,” after “3 years”.
 
-2008—Pub. L. 110–246, § 5001(1), inserted “real estate” before “loans” in section catchline.
+2008—Pub. L. 110–246, § 5001(1), inserted “real estate” before “loans” in section catchline.
 
-Subsec. (a). Pub. L. 110–246, § 5001, inserted subsec. heading, substituted “The Secretary may” for “The Secretary is authorized to” in introductory provisions, and inserted “, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences” after “farming operations” in cl. (2).
+Subsec. (a). Pub. L. 110–246, § 5001, inserted subsec. heading, substituted “The Secretary may” for “The Secretary is authorized to” in introductory provisions, and inserted “, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences” after “farming operations” in cl. (2).
 
-2002—Subsec. (a). Pub. L. 107–171, § 5302(a), substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
+2002—Subsec. (a). Pub. L. 107–171, § 5302(a), substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 107–171, § 5001, substituted “participated in the business operations of” for “operated” in introductory provisions.
+Subsec. (b)(1). Pub. L. 107–171, § 5001, substituted “participated in the business operations of” for “operated” in introductory provisions.
 
-1998—Subsec. (a). Pub. L. 105–277, § 101(a) [title VIII, § 805(1)], inserted “for direct loans only,” before “have either” in cl. (2).
+1998—Subsec. (a). Pub. L. 105–277, § 101(a) [title VIII, § 805(1)], inserted “for direct loans only,” before “have either” in cl. (2).
 
-Subsec. (b)(3)(D). Pub. L. 105–277, § 101(a) [title VIII, § 804], added subpar. (D).
+Subsec. (b)(3)(D). Pub. L. 105–277, § 101(a) [title VIII, § 804], added subpar. (D).
 
 1996—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1923 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
 
-1985—Subsec. (a). Pub. L. 99–198, §§ 1301(a), 1302(a)(1), designated existing provisions as subsec. (a) and substituted—
+1985—Subsec. (a). Pub. L. 99–198, §§ 1301(a), 1302(a)(1), designated existing provisions as subsec. (a) and substituted—
 
-(1) “, partnerships, and joint operations” for “and partnerships” wherever appearing after “corporations”;
+(1) “, partnerships, and joint operations” for “and partnerships” wherever appearing after “corporations”;
 
-(2) “, partnerships, and joint operations” for “, and partnerships” wherever appearing after “corporations”; and
+(2) “, partnerships, and joint operations” for “, and partnerships” wherever appearing after “corporations”; and
 
 (3) “individuals” for “members, stockholders, or partners, as applicable,” wherever appearing.
 
-Pub. L. 99–198, § 1303, in cl. (3) parenthetical, inserted provision treating blood or marriage related owner-operators of the entire farm interest as separate interest holders of not larger than family farms though collective ownership constitutes a larger than a family farm.
+Pub. L. 99–198, § 1303, in cl. (3) parenthetical, inserted provision treating blood or marriage related owner-operators of the entire farm interest as separate interest holders of not larger than family farms though collective ownership constitutes a larger than a family farm.
 
-Subsec. (b). Pub. L. 99–198, § 1302(a)(2), added subsec. (b).
+Subsec. (b). Pub. L. 99–198, § 1302(a)(2), added subsec. (b).
 
 1981—Pub. L. 97–98 substituted “corporations and partnerships, the family farm” for “cooperatives, corporations, and partnerships, the family farm”, and inserted “in the case of cooperatives, corporations, and partnerships” at end.
 
@@ -241,7 +241,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–127, title VI, § 663, Apr. 4, 1996, 110 Stat. 1108, provided that:
+Pub. L. 104–127, title VI, § 663, Apr. 4, 1996, 110 Stat. 1108, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), the amendments made by this title [enacting sections 2008g to 2008i of this title, amending this section and sections 1631, 1923, 1924, 1927, 1928, 1929, 1929a, 1932, 1934, 1941, 1942, 1946, 1949, 1961 to 1964, 1981, 1981d, 1983, 1983a, 1985, 1991, 1992, 1994, 1997, 1999, 2000, 2001, 2002, and 2003 of this title, repealing sections 1936, 1945, 1947, 1948, and 1968 of this title, and repealing provisions set out as a note under section 1999 of this title] shall become effective on the date of enactment of this Act [Apr. 4, 1996].
 
@@ -257,9 +257,9 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 **Evaluations of Direct and Guaranteed Loan Programs**
 
-Pub. L. 107–171, title V, § 5301, May 13, 2002, 116 Stat. 344, directed the Secretary of Agriculture to conduct two 1-year studies of the direct and guaranteed loan programs under this section and section 1941 of this title, with each study examining the number, average principal amount, and delinquency and default rates of loans provided or guaranteed during the periods beginning 1 year after May 13, 2002, and 3 years after that date, and to submit a final evaluation report at the end of each study.
+Pub. L. 107–171, title V, § 5301, May 13, 2002, 116 Stat. 344, directed the Secretary of Agriculture to conduct two 1-year studies of the direct and guaranteed loan programs under this section and section 1941 of this title, with each study examining the number, average principal amount, and delinquency and default rates of loans provided or guaranteed during the periods beginning 1 year after May 13, 2002, and 3 years after that date, and to submit a final evaluation report at the end of each study.
 
-### § 1923. Purposes of loans
+### § 1923. Purposes of loans
 
 **(a) Allowed purposes**
 
@@ -309,7 +309,7 @@ After the Secretary makes the determination required by paragraph (2), the Secre
 
 Not later than 180 days after April 4, 1996, the Secretary shall determine the appropriate level of insurance to be required under paragraph (1).
 
-(Pub. L. 87–128, title III, § 303, Aug. 8, 1961, 75 Stat. 307; Pub. L. 87–703, title IV, § 401(1), Sept. 27, 1962, 76 Stat. 631; Pub. L. 90–488, § 1, Aug. 15, 1968, 82 Stat. 770; Pub. L. 95–113, title XIV, § 1448(a), Sept. 29, 1977, 91 Stat. 1011; Pub. L. 96–438, § 1(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 97–98, title XVI, § 1602, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 104–127, title VI, § 602(a), Apr. 4, 1996, 110 Stat. 1085; Pub. L. 107–171, title V, § 5002, May 13, 2002, 116 Stat. 341.)
+(Pub. L. 87–128, title III, § 303, Aug. 8, 1961, 75 Stat. 307; Pub. L. 87–703, title IV, § 401(1), Sept. 27, 1962, 76 Stat. 631; Pub. L. 90–488, § 1, Aug. 15, 1968, 82 Stat. 770; Pub. L. 95–113, title XIV, § 1448(a), Sept. 29, 1977, 91 Stat. 1011; Pub. L. 96–438, § 1(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 97–98, title XVI, § 1602, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 104–127, title VI, § 602(a), Apr. 4, 1996, 110 Stat. 1085; Pub. L. 107–171, title V, § 5002, May 13, 2002, 116 Stat. 341.)
 
 **Editorial Notes**
 
@@ -333,7 +333,7 @@ Not later than 180 days after April 4, 1996, the Secretary shall determine the a
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–127, title VI, § 602(b), Apr. 4, 1996, 110 Stat. 1085, provided that: “Section 303(c)(1) of the Consolidated Farm and Rural Development Act [7 U.S.C. 1923(c)(1)] shall not apply until the Secretary of Agriculture makes the determination required by section 303(c)(2) of the Act.” [The Secretary’s determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.]
+Pub. L. 104–127, title VI, § 602(b), Apr. 4, 1996, 110 Stat. 1085, provided that: “Section 303(c)(1) of the Consolidated Farm and Rural Development Act [7 U.S.C. 1923(c)(1)] shall not apply until the Secretary of Agriculture makes the determination required by section 303(c)(2) of the Act.” [The Secretary’s determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.]
 
 **Effective Date of 1981 Amendment**
 
@@ -347,7 +347,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Powers, duties, and assets of agencies, offices, and other entities within Department of Agriculture relating to rural development functions transferred to Rural Development Administration by section 2302(b) of Pub. L. 101–624.
 
-### § 1924. Conservation loan and loan guarantee program
+### § 1924. Conservation loan and loan guarantee program
 
 **(a) In general**
 
@@ -415,7 +415,7 @@ The provisions of paragraphs (1) and (3) of section 1983 of this title shall not
 
 There is authorized to be appropriated to the Secretary to carry out this section $150,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 87–128, title III, § 304, Aug. 8, 1961, 75 Stat. 308; Pub. L. 90–488, § 2, Aug. 15, 1968, 82 Stat. 770; Pub. L. 92–419, title I, § 102, Aug. 30, 1972, 86 Stat. 657; Pub. L. 95–334, title I, § 102, Aug. 4, 1978, 92 Stat. 421; Pub. L. 101–624, title XVIII, § 1802(a), Nov. 28, 1990, 104 Stat. 3817; Pub. L. 102–237, title V, § 501(a), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VI, § 603, Apr. 4, 1996, 110 Stat. 1085; Pub. L. 110–234, title V, § 5002, May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, § 4(a), title V, § 5002, June 18, 2008, 122 Stat. 1664, 1904; Pub. L. 113–79, title V, §§ 5001(c)(1), 5002, Feb. 7, 2014, 128 Stat. 833; Pub. L. 115–334, title V, § 5102, Dec. 20, 2018, 132 Stat. 4669.)
+(Pub. L. 87–128, title III, § 304, Aug. 8, 1961, 75 Stat. 308; Pub. L. 90–488, § 2, Aug. 15, 1968, 82 Stat. 770; Pub. L. 92–419, title I, § 102, Aug. 30, 1972, 86 Stat. 657; Pub. L. 95–334, title I, § 102, Aug. 4, 1978, 92 Stat. 421; Pub. L. 101–624, title XVIII, § 1802(a), Nov. 28, 1990, 104 Stat. 3817; Pub. L. 102–237, title V, § 501(a), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VI, § 603, Apr. 4, 1996, 110 Stat. 1085; Pub. L. 110–234, title V, § 5002, May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, § 4(a), title V, § 5002, June 18, 2008, 122 Stat. 1664, 1904; Pub. L. 113–79, title V, §§ 5001(c)(1), 5002, Feb. 7, 2014, 128 Stat. 833; Pub. L. 115–334, title V, § 5102, Dec. 20, 2018, 132 Stat. 4669.)
 
 **Editorial Notes**
 
@@ -427,31 +427,31 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (h). Pub. L. 115–334 substituted “2023” for “2018”.
 
-2014—Subsec. (c)(1). Pub. L. 113–79, § 5002(a), substituted “limited liability companies, or such other legal entities as the Secretary considers appropriate” for “or limited liability companies”.
+2014—Subsec. (c)(1). Pub. L. 113–79, § 5002(a), substituted “limited liability companies, or such other legal entities as the Secretary considers appropriate” for “or limited liability companies”.
 
-Subsec. (c)(2). Pub. L. 113–79, § 5001(c)(1), substituted “subparagraphs (A) and (B) of section 1922(a)(1)” for “paragraphs (1) and (2) of section 1922(a)”.
+Subsec. (c)(2). Pub. L. 113–79, § 5001(c)(1), substituted “subparagraphs (A) and (B) of section 1922(a)(1)” for “paragraphs (1) and (2) of section 1922(a)”.
 
-Subsec. (e). Pub. L. 113–79, § 5002(b), substituted “shall be—” for “shall be 75 percent of the principal amount of the loan.” and added pars. (1) and (2).
+Subsec. (e). Pub. L. 113–79, § 5002(b), substituted “shall be—” for “shall be 75 percent of the principal amount of the loan.” and added pars. (1) and (2).
 
-Subsec. (h). Pub. L. 113–79, § 5002(c), added subsec. (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “For each of fiscal years 2008 through 2012, there are authorized to be appropriated to the Secretary such funds as are necessary to carry out this section.”
+Subsec. (h). Pub. L. 113–79, § 5002(c), added subsec. (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “For each of fiscal years 2008 through 2012, there are authorized to be appropriated to the Secretary such funds as are necessary to carry out this section.”
 
-2008—Pub. L. 110–246, § 5002, amended section generally, substituting provisions relating to conservation loans and loan guarantee programs for former provisions which related to, in subsec. (a), authority to make or insure loans for soil and water conservation and protection, in subsec. (b), priority of producers who would build conservation structures or establish conservation practices to comply with section 3812 of title 16, and in subsec. (c), maximum amount of a loan.
+2008—Pub. L. 110–246, § 5002, amended section generally, substituting provisions relating to conservation loans and loan guarantee programs for former provisions which related to, in subsec. (a), authority to make or insure loans for soil and water conservation and protection, in subsec. (b), priority of producers who would build conservation structures or establish conservation practices to comply with section 3812 of title 16, and in subsec. (c), maximum amount of a loan.
 
-1996—Pub. L. 104–127, § 603(2), inserted section catchline.
+1996—Pub. L. 104–127, § 603(2), inserted section catchline.
 
-Subsec. (a). Pub. L. 104–127, § 603(2), (5), redesignated subsec. (a)(1) as (a), inserted heading, and redesignated subpars. (A) to (F) as pars. (1) to (6), respectively. Former pars. (2) and (3) redesignated subsecs. (b) and (c), respectively.
+Subsec. (a). Pub. L. 104–127, § 603(2), (5), redesignated subsec. (a)(1) as (a), inserted heading, and redesignated subpars. (A) to (F) as pars. (1) to (6), respectively. Former pars. (2) and (3) redesignated subsecs. (b) and (c), respectively.
 
-Subsec. (b). Pub. L. 104–127, § 603(1), (3), redesignated subsec. (a)(2) as (b), inserted heading, substituted “guaranteeing loans” for “insuring loans”, and struck out former subsec. (b) which read as follows: “Loans may also be made or insured under this subchapter to residents of rural areas without regard to the requirements of clauses (2) and (3) of section 1922 of this title to acquire or establish in rural areas small business enterprises to provide such residents with essential income.”
+Subsec. (b). Pub. L. 104–127, § 603(1), (3), redesignated subsec. (a)(2) as (b), inserted heading, substituted “guaranteeing loans” for “insuring loans”, and struck out former subsec. (b) which read as follows: “Loans may also be made or insured under this subchapter to residents of rural areas without regard to the requirements of clauses (2) and (3) of section 1922 of this title to acquire or establish in rural areas small business enterprises to provide such residents with essential income.”
 
-Subsec. (c). Pub. L. 104–127, § 603(1), (4), (6), redesignated subsec. (a)(3) as (c), inserted heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former subsec. (c) which read as follows: “Loans may also be made or insured under this subchapter to any farm owners or tenants without regard to the requirements of clauses (1), (2), and (3) of section 1922 of this title for the purposes of meeting Federal, State, or local requirements for agricultural, animal, or poultry waste pollution abatement and control facilities, including the construction, modification, or relocation of farm or other structures necessary to comply with such pollution abatement requirements.”
+Subsec. (c). Pub. L. 104–127, § 603(1), (4), (6), redesignated subsec. (a)(3) as (c), inserted heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former subsec. (c) which read as follows: “Loans may also be made or insured under this subchapter to any farm owners or tenants without regard to the requirements of clauses (1), (2), and (3) of section 1922 of this title for the purposes of meeting Federal, State, or local requirements for agricultural, animal, or poultry waste pollution abatement and control facilities, including the construction, modification, or relocation of farm or other structures necessary to comply with such pollution abatement requirements.”
 
 1991—Subsecs. (a), (d). Pub. L. 102–237 redesignated subsec. (d) as (a) and moved it to appear before subsec. (b) and struck out former subsec. (a) which read as follows: “Loans may also be made or insured under this subchapter to any farmowners or tenants without regard to the requirements of section 1922(1), (2), and (3) of this title for the purposes only of land and water development, use and conservation, not including recreational uses and facilities, and without regard to the requirements of section 1922(2) and (3) of this title, to farmowners or tenants to finance outdoor recreational enterprises or to convert to recreational uses their farming or ranching operations, including those heretofore financed under this chapter.”
 
 1990—Subsec. (d). Pub. L. 101–624 added subsec. (d).
 
-1978—Subsec. (a). Pub. L. 95–334, § 102(1), struck out “individual” after “title, to”.
+1978—Subsec. (a). Pub. L. 95–334, § 102(1), struck out “individual” after “title, to”.
 
-Subsec. (c). Pub. L. 95–334, § 102(2), added subsec. (c).
+Subsec. (c). Pub. L. 95–334, § 102(2), added subsec. (c).
 
 1972—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designations appearing before “to any farmowners” and “without regard to”, respectively, and added subsec. (b).
 
@@ -467,7 +467,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(3) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
-### § 1925. Limitations on amount of farm ownership loans
+### § 1925. Limitations on amount of farm ownership loans
 
 **(a) In general**
 
@@ -483,7 +483,7 @@ In determining the value of the farm, the Secretary shall consider appraisals ma
 
 **(2)** the average of such index (as so defined) for the 12-month period that immediately precedes the 12-month period described in paragraph (1).
 
-(Pub. L. 87–128, title III, § 305, Aug. 8, 1961, 75 Stat. 308; Pub. L. 91–620, § 1, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 92–419, title I, § 103, Aug. 30, 1972, 86 Stat. 658; Pub. L. 91–524, title VIII, § 807, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 237; Pub. L. 95–334, title I, § 103, Aug. 4, 1978, 92 Stat. 421; Pub. L. 102–554, § 3, Oct. 28, 1992, 106 Stat. 4142; Pub. L. 105–277, div. A, § 101(a) [title VIII, § 806(a)], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, § 5003, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, § 4(a), title V, § 5003, June 18, 2008, 122 Stat. 1664, 1905; Pub. L. 115–334, title V, § 5103, Dec. 20, 2018, 132 Stat. 4669.)
+(Pub. L. 87–128, title III, § 305, Aug. 8, 1961, 75 Stat. 308; Pub. L. 91–620, § 1, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 92–419, title I, § 103, Aug. 30, 1972, 86 Stat. 658; Pub. L. 91–524, title VIII, § 807, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 237; Pub. L. 95–334, title I, § 103, Aug. 4, 1978, 92 Stat. 421; Pub. L. 102–554, § 3, Oct. 28, 1992, 106 Stat. 4142; Pub. L. 105–277, div. A, § 101(a) [title VIII, § 806(a)], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, § 5003, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, § 4(a), title V, § 5003, June 18, 2008, 122 Stat. 1664, 1905; Pub. L. 115–334, title V, § 5103, Dec. 20, 2018, 132 Stat. 4669.)
 
 **Editorial Notes**
 
@@ -493,13 +493,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a)(2). Pub. L. 115–334, § 5103(1), substituted “$600,000” for “$300,000”, “$1,750,000” for “$700,000”, and “2019” for “2000”.
+2018—Subsec. (a)(2). Pub. L. 115–334, § 5103(1), substituted “$600,000” for “$300,000”, “$1,750,000” for “$700,000”, and “2019” for “2000”.
 
-Subsec. (c)(1). Pub. L. 115–334, § 5103(2)(A), substituted “July” for “August”.
+Subsec. (c)(1). Pub. L. 115–334, § 5103(2)(A), substituted “July” for “August”.
 
-Subsec. (c)(2). Pub. L. 115–334, § 5103(2)(B), substituted “that immediately precedes the 12-month period described in paragraph (1)” for “ending on August 31, 1996”.
+Subsec. (c)(2). Pub. L. 115–334, § 5103(2)(B), substituted “that immediately precedes the 12-month period described in paragraph (1)” for “ending on August 31, 1996”.
 
-2008—Subsec. (a)(2). Pub. L. 110–246, § 5003, substituted “$300,000” for “$200,000”.
+2008—Subsec. (a)(2). Pub. L. 110–246, § 5003, substituted “$300,000” for “$200,000”.
 
 1998—Pub. L. 105–277 inserted section catchline, designated first sentence as subsec. (a), inserted heading, and substituted “$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the amount of any unpaid indebtedness of the borrower on loans under subchapter II that are guaranteed by the Secretary)” for “$300,000”, designated second sentence as subsec. (b) and inserted heading, and added subsec. (c).
 
@@ -507,7 +507,7 @@ Subsec. (c)(2). Pub. L. 115–334, § 5103(2)(B), substituted “that immediat
 
 1978—Pub. L. 95–334 substituted provisions setting forth requirements for loans under sections 1922, 1923, 1924, and 1934 of this title for provisions setting forth requirements for loans under sections 1922, 1923, and 1924 of this title.
 
-1973—Pub. L. 91–524, § 807, as added by Pub. L. 93–86, substituted “$225,000” for “$100,000” in cl. (a), added cl. (b), and redesignated former cl. (b) as (c).
+1973—Pub. L. 91–524, § 807, as added by Pub. L. 93–86, substituted “$225,000” for “$100,000” in cl. (a), added cl. (b), and redesignated former cl. (b) as (c).
 
 1972—Pub. L. 92–419 struck out “normal” before “value” in first and second sentences and before “market value” in last sentence.
 
@@ -519,7 +519,7 @@ Subsec. (c)(2). Pub. L. 115–334, § 5103(2)(B), substituted “that immediat
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1926. Water and waste facility loans and grants
+### § 1926. Water and waste facility loans and grants
 
 **(a) In general**
 
@@ -585,7 +585,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(6)** The Secretary may make grants aggregating not to exceed $30,000,000 in any fiscal year to public bodies or such other agencies as the Secretary may determine having authority to prepare comprehensive plans for the development of water or waste disposal systems in rural areas which do not have funds available for immediate undertaking of the preparation of such plan.
 
-**(7)** Repealed. Pub. L. 107–171, title VI, § 6020(b)(1), May 13, 2002, 116 Stat. 363.
+**(7)** Repealed. Pub. L. 107–171, title VI, § 6020(b)(1), May 13, 2002, 116 Stat. 363.
 
 **(8)** In each instance where the Secretary receives two or more applications for financial assistance for projects that would serve substantially the same group of residents within a single rural area, and one such application is submitted by a city, town, county or other unit of general local government, he shall, in the absence of substantial reasons to the contrary, provide such assistance to such city, town, county or other unit of general local government.
 
@@ -593,7 +593,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(10) Conformity with federal and state water pollution control standards.—** No Federal funds shall be made available under this section for a water treatment discharge or waste disposal system unless the Secretary determines that the effluent from the system conforms with applicable Federal and State water pollution control standards.
 
-**(11)** Repealed. Pub. L. 113–79, title VI, § 6012(b), Feb. 7, 2014, 128 Stat. 845.
+**(11)** Repealed. Pub. L. 113–79, title VI, § 6012(b), Feb. 7, 2014, 128 Stat. 845.
 
 **(12)**
 
@@ -663,9 +663,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(D) Authorization of appropriations.—** There are authorized to be appropriated to carry out this paragraph $50,000,000 for fiscal year 2001 and such sums as are necessary for each subsequent fiscal year, of which not more than 5 percent of the amount made available for a fiscal year shall be available for community planning and implementation.
 
-**(E) Rural broadband.—** Notwithstanding subparagraph (C), the Secretary may make grants to State agencies for use by regulatory commissions in states 1
+**(E) Rural broadband.—** Notwithstanding subparagraph (C), the Secretary may make grants to State agencies for use by regulatory commissions in states 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 with rural communities without local broadband service to establish a competitively, technologically neutral grant program to telecommunications carriers or cable operators that establish common carrier facilities and services which, in the commission’s determination, will result in the long-term availability to such communities of affordable broadband services which are used for the provision of high speed Internet access.
 
@@ -681,9 +681,9 @@ with rural communities without local broadband service to establish a competitiv
 
 **(III)** other federally recognized Indian tribal group;
 
-**(ii)** that is located in a rural area (as defined in section 2009 2
+**(ii)** that is located in a rural area (as defined in section 2009 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title);
 
@@ -705,7 +705,7 @@ of this title);
 
 **(B) Authorization of appropriations.—** There is authorized to be appropriated to carry out this paragraph $25,000,000 for each of fiscal years 2019 through 2023.
 
-**(23)** Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(A), Dec. 20, 2018, 132 Stat. 4775.
+**(23)** Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(A), Dec. 20, 2018, 132 Stat. 4775.
 
 **(24) Loan guarantees for water, wastewater, and essential community facilities loans.—**
 
@@ -765,29 +765,29 @@ except that, to the extent that the Secretary demonstrates that the funds so res
 
 The service provided or made available through any such association shall not be curtailed or limited by inclusion of the area served by such association within the boundaries of any municipal corporation or other public body, or by the granting of any private franchise for similar service within such area during the term of such loan; nor shall the happening of any such event be the basis of requiring such association to secure any franchise, license, or permit as a condition to continuing to serve the area served by the association at the time of the occurrence of such event.
 
-**(c) Repealed. Pub. L. 91–606, title III, § 302(2), Dec. 31, 1970, 84 Stat. 1759**
+**(c) Repealed. Pub. L. 91–606, title III, § 302(2), Dec. 31, 1970, 84 Stat. 1759**
 
 **(d) Carryover of unused authorizations for appropriations**
 
 Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal year under this section but not appropriated may be appropriated for any succeeding fiscal year.
 
-(Pub. L. 87–128, title III, § 306, Aug. 8, 1961, 75 Stat. 308; Pub. L. 87–703, title IV, § 401(2), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, § 1, Oct. 7, 1965, 79 Stat. 931; Pub. L. 89–769, § 6(b), Nov. 6, 1966, 80 Stat. 1318; Pub. L. 90–488, §§ 3–5, Aug. 15, 1968, 82 Stat. 770; Pub. L. 91–524, title VIII, § 806(a), Nov. 30, 1970, 84 Stat. 1383; Pub. L. 91–606, title III, § 302(2), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–617, § 1(a), Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–419, title I, §§ 104–112, Aug. 30, 1972, 86 Stat. 658, 659; Pub. L. 91–524, title VIII, § 816(c), as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 240; Pub. L. 95–334, title I, §§ 104–107(a), Aug. 4, 1978, 92 Stat. 421, 422; Pub. L. 96–355, § 7, Sept. 24, 1980, 94 Stat. 1174; Pub. L. 96–438, § 2(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 97–35, title I, § 121, Aug. 13, 1981, 95 Stat. 368; Pub. L. 99–198, title XIII, § 1304(a), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–624, title XXIII, §§ 2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, 104 Stat. 4008, 4010, 4017, 4026, 4027, 4057; Pub. L. 102–237, title VII, § 701(a), (h)(1)(A), (B), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 103–129, § 3, Nov. 1, 1993, 107 Stat. 1366; Pub. L. 103–354, title II, § 235(b)(5), Oct. 13, 1994, 108 Stat. 3222; Pub. L. 104–127, title VII, §§ 741(a), 758, 763, Apr. 4, 1996, 110 Stat. 1122, 1132, 1148; Pub. L. 106–387, § 1(a) [title VII, § 773], Oct. 28, 2000, 114 Stat. 1549, 1549A–45; Pub. L. 106–472, title III, §§ 304(a), 305(a), Nov. 9, 2000, 114 Stat. 2070, 2071; Pub. L. 107–76, title VII, § 762, Nov. 28, 2001, 115 Stat. 743; Pub. L. 107–171, title VI, §§ 6001–6007(a), 6008, 6020(b)(1), May 13, 2002, 116 Stat. 352–355, 363; Pub. L. 110–234, title VI, §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), May 22, 2008, 122 Stat. 1161, 1162, 1267; Pub. L. 110–246, § 4(a), title VI, §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), June 18, 2008, 122 Stat. 1664, 1923, 1924, 2029; Pub. L. 113–79, title VI, §§ 6001–6006, 6012(b), Feb. 7, 2014, 128 Stat. 841, 842, 845; Pub. L. 115–334, title VI, §§ 6402(b)–6406, 6601(a)(1)(A), 6701(a)(1), Dec. 20, 2018, 132 Stat. 4757–4759, 4775, 4778.)
+(Pub. L. 87–128, title III, § 306, Aug. 8, 1961, 75 Stat. 308; Pub. L. 87–703, title IV, § 401(2), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, § 1, Oct. 7, 1965, 79 Stat. 931; Pub. L. 89–769, § 6(b), Nov. 6, 1966, 80 Stat. 1318; Pub. L. 90–488, §§ 3–5, Aug. 15, 1968, 82 Stat. 770; Pub. L. 91–524, title VIII, § 806(a), Nov. 30, 1970, 84 Stat. 1383; Pub. L. 91–606, title III, § 302(2), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–617, § 1(a), Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–419, title I, §§ 104–112, Aug. 30, 1972, 86 Stat. 658, 659; Pub. L. 91–524, title VIII, § 816(c), as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 240; Pub. L. 95–334, title I, §§ 104–107(a), Aug. 4, 1978, 92 Stat. 421, 422; Pub. L. 96–355, § 7, Sept. 24, 1980, 94 Stat. 1174; Pub. L. 96–438, § 2(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 97–35, title I, § 121, Aug. 13, 1981, 95 Stat. 368; Pub. L. 99–198, title XIII, § 1304(a), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–624, title XXIII, §§ 2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, 104 Stat. 4008, 4010, 4017, 4026, 4027, 4057; Pub. L. 102–237, title VII, § 701(a), (h)(1)(A), (B), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 103–129, § 3, Nov. 1, 1993, 107 Stat. 1366; Pub. L. 103–354, title II, § 235(b)(5), Oct. 13, 1994, 108 Stat. 3222; Pub. L. 104–127, title VII, §§ 741(a), 758, 763, Apr. 4, 1996, 110 Stat. 1122, 1132, 1148; Pub. L. 106–387, § 1(a) [title VII, § 773], Oct. 28, 2000, 114 Stat. 1549, 1549A–45; Pub. L. 106–472, title III, §§ 304(a), 305(a), Nov. 9, 2000, 114 Stat. 2070, 2071; Pub. L. 107–76, title VII, § 762, Nov. 28, 2001, 115 Stat. 743; Pub. L. 107–171, title VI, §§ 6001–6007(a), 6008, 6020(b)(1), May 13, 2002, 116 Stat. 352–355, 363; Pub. L. 110–234, title VI, §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), May 22, 2008, 122 Stat. 1161, 1162, 1267; Pub. L. 110–246, § 4(a), title VI, §§ 6001, 6002(a), 6003–6007, title VII, § 7511(c)(3), June 18, 2008, 122 Stat. 1664, 1923, 1924, 2029; Pub. L. 113–79, title VI, §§ 6001–6006, 6012(b), Feb. 7, 2014, 128 Stat. 841, 842, 845; Pub. L. 115–334, title VI, §§ 6402(b)–6406, 6601(a)(1)(A), 6701(a)(1), Dec. 20, 2018, 132 Stat. 4757–4759, 4775, 4778.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, referred to in subsec. (a)(1), is Pub. L. 105–277, div. A, § 101(a)[title VII, § 766], Oct. 21, 1998, 112 Stat. 2681, 2681–37, which is not classified to the Code.
+Section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, referred to in subsec. (a)(1), is Pub. L. 105–277, div. A, § 101(a)[title VII, § 766], Oct. 21, 1998, 112 Stat. 2681, 2681–37, which is not classified to the Code.
 
-The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
 This chapter, referred to in subsec. (a)(2)(C)(iii), (12)(D), (18), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(9), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XIV of the Act, known as the Safe Drinking Water Act, is classified principally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of these Acts to the Code, see Short Title note and Short Title of 1974 Amendments note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(9), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XIV of the Act, known as the Safe Drinking Water Act, is classified principally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of these Acts to the Code, see Short Title note and Short Title of 1974 Amendments note set out under section 201 of Title 42 and Tables.
 
-Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), referred to in subsec. (a)(12)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), referred to in subsec. (a)(12)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), referred to in subsec. (a)(12)(A), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), referred to in subsec. (a)(12)(A), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 Section 2009 of this title, referred to in subsec. (a)(21)(A)(ii), was subsequently amended, and no longer defines the term “rural area”.
 
@@ -797,133 +797,133 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a)(2)(B)(iii). Pub. L. 115–334, § 6403(1), substituted “$200,000” for “$100,000” in subcls. (I) and (II).
+2018—Subsec. (a)(2)(B)(iii). Pub. L. 115–334, § 6403(1), substituted “$200,000” for “$100,000” in subcls. (I) and (II).
 
-Subsec. (a)(2)(B)(vii). Pub. L. 115–334, § 6403(2), substituted “$15,000,000 for each of fiscal years 2019 through 2023” for “$30,000,000 for each of fiscal years 2008 through 2018”.
+Subsec. (a)(2)(B)(vii). Pub. L. 115–334, § 6403(2), substituted “$15,000,000 for each of fiscal years 2019 through 2023” for “$30,000,000 for each of fiscal years 2008 through 2018”.
 
-Subsec. (a)(14)(A)(iv), (v). Pub. L. 115–334, § 6404(1), added cls. (iv) and (v).
+Subsec. (a)(14)(A)(iv), (v). Pub. L. 115–334, § 6404(1), added cls. (iv) and (v).
 
-Subsec. (a)(14)(C). Pub. L. 115–334, § 6404(2), substituted “3 percent and not more than 5” for “1 nor more than 3” and “3 percent” for “1 per centum”.
+Subsec. (a)(14)(C). Pub. L. 115–334, § 6404(2), substituted “3 percent and not more than 5” for “1 nor more than 3” and “3 percent” for “1 per centum”.
 
-Subsec. (a)(19)(A). Pub. L. 115–334, § 6701(a)(1), inserted “, Indian Tribes (as defined in section 5304(e) of title 25)” after “nonprofit corporations”.
+Subsec. (a)(19)(A). Pub. L. 115–334, § 6701(a)(1), inserted “, Indian Tribes (as defined in section 5304(e) of title 25)” after “nonprofit corporations”.
 
-Subsec. (a)(22)(B). Pub. L. 115–334, § 6405, substituted “$25,000,000 for each of fiscal years 2019 through 2023” for “$20,000,000 for fiscal year 2014 and each fiscal year thereafter”.
+Subsec. (a)(22)(B). Pub. L. 115–334, § 6405, substituted “$25,000,000 for each of fiscal years 2019 through 2023” for “$20,000,000 for fiscal year 2014 and each fiscal year thereafter”.
 
-Subsec. (a)(23). Pub. L. 115–334, § 6601(a)(1)(A), struck out par. (23) which related to multijurisdictional regional planning organizations.
+Subsec. (a)(23). Pub. L. 115–334, § 6601(a)(1)(A), struck out par. (23) which related to multijurisdictional regional planning organizations.
 
-Subsec. (a)(24)(D). Pub. L. 115–334, § 6402(b), added subpar. (D).
+Subsec. (a)(24)(D). Pub. L. 115–334, § 6402(b), added subpar. (D).
 
-Subsec. (a)(25)(C). Pub. L. 115–334, § 6406, substituted “2023” for “2018”.
+Subsec. (a)(25)(C). Pub. L. 115–334, § 6406, substituted “2023” for “2018”.
 
-2014—Subsec. (a)(2)(B)(vii). Pub. L. 113–79, § 6001, substituted “2018” for “2012”.
+2014—Subsec. (a)(2)(B)(vii). Pub. L. 113–79, § 6001, substituted “2018” for “2012”.
 
-Subsec. (a)(11). Pub. L. 113–79, § 6012(b), struck out par. (11) which related to rural business opportunity grants.
+Subsec. (a)(11). Pub. L. 113–79, § 6012(b), struck out par. (11) which related to rural business opportunity grants.
 
-Subsec. (a)(19)(C). Pub. L. 113–79, § 6002, struck out subpar. (C) which related to reservation of funds for child day care facilities.
+Subsec. (a)(19)(C). Pub. L. 113–79, § 6002, struck out subpar. (C) which related to reservation of funds for child day care facilities.
 
-Subsec. (a)(22). Pub. L. 113–79, § 6003, added par. (22) and struck out former par. (22) which related to rural water and wastewater circuit rider program.
+Subsec. (a)(22). Pub. L. 113–79, § 6003, added par. (22) and struck out former par. (22) which related to rural water and wastewater circuit rider program.
 
-Subsec. (a)(24)(C). Pub. L. 113–79, § 6004, added subpar. (C).
+Subsec. (a)(24)(C). Pub. L. 113–79, § 6004, added subpar. (C).
 
-Subsec. (a)(25)(C). Pub. L. 113–79, § 6005, substituted “2018” for “2012”.
+Subsec. (a)(25)(C). Pub. L. 113–79, § 6005, substituted “2018” for “2012”.
 
-Subsec. (a)(26). Pub. L. 113–79, § 6006, added par. (26).
+Subsec. (a)(26). Pub. L. 113–79, § 6006, added par. (26).
 
-2008—Subsec. (a)(2)(B)(vii). Pub. L. 110–246, § 6001, substituted “2008 through 2012” for “2002 through 2007”.
+2008—Subsec. (a)(2)(B)(vii). Pub. L. 110–246, § 6001, substituted “2008 through 2012” for “2002 through 2007”.
 
-Subsec. (a)(2)(C). Pub. L. 110–246, § 6002(a), added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 110–246, § 6002(a), added subpar. (C).
 
-Subsec. (a)(11)(C). Pub. L. 110–246, § 7511(c)(3), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
+Subsec. (a)(11)(C). Pub. L. 110–246, § 7511(c)(3), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
 
-Subsec. (a)(11)(D). Pub. L. 110–246, § 6003, substituted “2008 through 2012” for “1996 through 2007”.
+Subsec. (a)(11)(D). Pub. L. 110–246, § 6003, substituted “2008 through 2012” for “1996 through 2007”.
 
-Subsec. (a)(19)(C)(ii). Pub. L. 110–246, § 6004, substituted “June” for “April”.
+Subsec. (a)(19)(C)(ii). Pub. L. 110–246, § 6004, substituted “June” for “April”.
 
-Subsec. (a)(20)(E). Pub. L. 110–246, § 6005, substituted “State” for “state” and struck out “dial-up Internet access or” before “broadband service”.
+Subsec. (a)(20)(E). Pub. L. 110–246, § 6005, substituted “State” for “state” and struck out “dial-up Internet access or” before “broadband service”.
 
-Subsec. (a)(22)(C). Pub. L. 110–246, § 6006, substituted “$25,000,000 for fiscal year 2008” for “$15,000,000 for fiscal year 2003”.
+Subsec. (a)(22)(C). Pub. L. 110–246, § 6006, substituted “$25,000,000 for fiscal year 2008” for “$15,000,000 for fiscal year 2003”.
 
-Subsec. (a)(25)(A). Pub. L. 110–246, § 6007(1), substituted “grants to an entity that is a Tribal College or University” for “grants to tribal colleges and universities” and “specific Tribal College or University” for “specific tribal college or university”.
+Subsec. (a)(25)(A). Pub. L. 110–246, § 6007(1), substituted “grants to an entity that is a Tribal College or University” for “grants to tribal colleges and universities” and “specific Tribal College or University” for “specific tribal college or university”.
 
-Subsec. (a)(25)(B). Pub. L. 110–246, § 6007(2), added subpar. (B) and struck out former subpar. (B) which directed the Secretary to establish the maximum percentage of the cost of the facility that could be covered by a grant, provided that the amount of a grant was not to exceed 75 percent of the cost of developing the facility, and directed the Secretary to provide for a graduated scale that would provide higher percentages for facilities in communities with lower community population and income levels.
+Subsec. (a)(25)(B). Pub. L. 110–246, § 6007(2), added subpar. (B) and struck out former subpar. (B) which directed the Secretary to establish the maximum percentage of the cost of the facility that could be covered by a grant, provided that the amount of a grant was not to exceed 75 percent of the cost of developing the facility, and directed the Secretary to provide for a graduated scale that would provide higher percentages for facilities in communities with lower community population and income levels.
 
-Subsec. (a)(25)(C). Pub. L. 110–246, § 6007(3), substituted “2008 through 2012” for “2003 through 2007”.
+Subsec. (a)(25)(C). Pub. L. 110–246, § 6007(3), substituted “2008 through 2012” for “2003 through 2007”.
 
-2002—Subsec. (a)(1). Pub. L. 107–171, § 6001, inserted after first sentence “The Secretary may also make or insure loans to communities that have been designated as rural empowerment zones or rural enterprise communities pursuant to part I of subchapter U of chapter 1 of title 26, or as rural enterprise communities pursuant to section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (Public Law 105–277; 112 Stat. 2681, 2681–37), to provide for the installation or improvement of essential community facilities including necessary related equipment, and to furnish financial assistance or other aid in planning projects for such purposes.”
+2002—Subsec. (a)(1). Pub. L. 107–171, § 6001, inserted after first sentence “The Secretary may also make or insure loans to communities that have been designated as rural empowerment zones or rural enterprise communities pursuant to part I of subchapter U of chapter 1 of title 26, or as rural enterprise communities pursuant to section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (Public Law 105–277; 112 Stat. 2681, 2681–37), to provide for the installation or improvement of essential community facilities including necessary related equipment, and to furnish financial assistance or other aid in planning projects for such purposes.”
 
-Subsec. (a)(2). Pub. L. 107–171, § 6002, inserted heading, designated existing provisions as subpar. (A) and inserted heading, designated first sentence of subpar. (A) as cl. (i), inserted heading, and struck out “aggregating not to exceed $590,000,000 in any fiscal year” after “authorized to make grants”, designated second sentence of subpar. (A) as cl. (ii), inserted heading, and substituted “subparagraph” for “paragraph”, designated third sentence of subpar. (A) as cl. (iii) and inserted heading, and added subpar. (B).
+Subsec. (a)(2). Pub. L. 107–171, § 6002, inserted heading, designated existing provisions as subpar. (A) and inserted heading, designated first sentence of subpar. (A) as cl. (i), inserted heading, and struck out “aggregating not to exceed $590,000,000 in any fiscal year” after “authorized to make grants”, designated second sentence of subpar. (A) as cl. (ii), inserted heading, and substituted “subparagraph” for “paragraph”, designated third sentence of subpar. (A) as cl. (iii) and inserted heading, and added subpar. (B).
 
-Subsec. (a)(7). Pub. L. 107–171, § 6020(b)(1), struck out heading and text of par. (7). Text read as follows: “For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1) and (2), the terms ‘rural’ and ‘rural area’ mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.”
+Subsec. (a)(7). Pub. L. 107–171, § 6020(b)(1), struck out heading and text of par. (7). Text read as follows: “For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1) and (2), the terms ‘rural’ and ‘rural area’ mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.”
 
-Subsec. (a)(11)(D). Pub. L. 107–171, § 6003, substituted “$15,000,000” for “$7,500,000” and “2007” for “2002”.
+Subsec. (a)(11)(D). Pub. L. 107–171, § 6003, substituted “$15,000,000” for “$7,500,000” and “2007” for “2002”.
 
-Subsec. (a)(19)(C). Pub. L. 107–171, § 6004, added subpar. (C).
+Subsec. (a)(19)(C). Pub. L. 107–171, § 6004, added subpar. (C).
 
-Subsec. (a)(22) to (25). Pub. L. 107–171, §§ 6005–6007(a), 6008, added pars. (22) to (25).
+Subsec. (a)(22) to (25). Pub. L. 107–171, §§ 6005–6007(a), 6008, added pars. (22) to (25).
 
 2001—Subsec. (a)(20)(E). Pub. L. 107–76 added subpar. (E).
 
-2000—Subsec. (a)(19)(A). Pub. L. 106–387, which directed amendment of section 306(a)(19)(A) of the Consolidated Farmers Home Administration Act of 1961 by inserting “, Indian tribes (as such term is defined under section 5304(e) of title 25),” after “nonprofit corporations” and could not be executed as directed, was superseded by Pub. L. 115–334, § 6701(a)(1). See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
+2000—Subsec. (a)(19)(A). Pub. L. 106–387, which directed amendment of section 306(a)(19)(A) of the Consolidated Farmers Home Administration Act of 1961 by inserting “, Indian tribes (as such term is defined under section 5304(e) of title 25),” after “nonprofit corporations” and could not be executed as directed, was superseded by Pub. L. 115–334, § 6701(a)(1). See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
-Subsec. (a)(20). Pub. L. 106–472, § 304(a), added par. (20).
+Subsec. (a)(20). Pub. L. 106–472, § 304(a), added par. (20).
 
-Subsec. (a)(21). Pub. L. 106–472, § 305(a), added par. (21).
+Subsec. (a)(21). Pub. L. 106–472, § 305(a), added par. (21).
 
-1996—Subsec. (a)(2). Pub. L. 104–127, § 741(a)(1), substituted “$590,000,000” for “$500,000,000”.
+1996—Subsec. (a)(2). Pub. L. 104–127, § 741(a)(1), substituted “$590,000,000” for “$500,000,000”.
 
-Subsec. (a)(5). Pub. L. 104–127, § 758, added par. (5).
+Subsec. (a)(5). Pub. L. 104–127, § 758, added par. (5).
 
-Subsec. (a)(7). Pub. L. 104–127, § 741(a)(2), added par. (7) and struck out former par. (7) which read as follows: “As used in this chapter, the terms ‘rural’ and ‘rural area’ shall not include any area in any city or town which has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) of this section, the terms ‘rural’ and ‘rural area’ may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms ‘rural’ and ‘rural area’ may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of the United States: *Provided*, That special consideration for such loans and grants shall be given to areas other than cities having a population of more than twenty-five thousand.”
+Subsec. (a)(7). Pub. L. 104–127, § 741(a)(2), added par. (7) and struck out former par. (7) which read as follows: “As used in this chapter, the terms ‘rural’ and ‘rural area’ shall not include any area in any city or town which has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) of this section, the terms ‘rural’ and ‘rural area’ may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms ‘rural’ and ‘rural area’ may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of the United States: *Provided*, That special consideration for such loans and grants shall be given to areas other than cities having a population of more than twenty-five thousand.”
 
-Subsec. (a)(9), (10). Pub. L. 104–127, § 741(a)(3), added pars. (9) and (10) and struck out former pars. (9) and (10) which read as follows:
+Subsec. (a)(9), (10). Pub. L. 104–127, § 741(a)(3), added pars. (9) and (10) and struck out former pars. (9) and (10) which read as follows:
 
 “(9) No Federal funds shall be authorized for use unless it be certified by the appropriate State water pollution control agency that the water supply system authorized will not result in pollution of waters of the State in excess of standards established by that agency.
 
 “(10) In the case of sewers and waste disposal systems, no Federal funds shall be advanced hereunder unless the appropriate State water pollution control agency shall certify that the effluent therefrom shall conform with appropriate State and Federal water pollution control standards when and where established.”
 
-Subsec. (a)(11). Pub. L. 104–127, § 741(a)(3), added par. (11) and struck out former par. (11) which authorized grants to public bodies, private nonprofit community development corporations or entities, or other agencies to enable such recipients to (1) identify and analyze business opportunities, including opportunities in export markets, that would use local rural economic and human resources, (2) identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers, (3) establish business support centers and otherwise assist in creation of new rural businesses, development of methods of financing local businesses, and enhancing capacity of local individuals and entities to engage in sound economic activities, and (4) conduct regional, community, and local economic development planning and coordination, and leadership development.
+Subsec. (a)(11). Pub. L. 104–127, § 741(a)(3), added par. (11) and struck out former par. (11) which authorized grants to public bodies, private nonprofit community development corporations or entities, or other agencies to enable such recipients to (1) identify and analyze business opportunities, including opportunities in export markets, that would use local rural economic and human resources, (2) identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers, (3) establish business support centers and otherwise assist in creation of new rural businesses, development of methods of financing local businesses, and enhancing capacity of local individuals and entities to engage in sound economic activities, and (4) conduct regional, community, and local economic development planning and coordination, and leadership development.
 
-Subsec. (a)(14). Pub. L. 104–127, § 741(a)(6)(A)–(D)(i), inserted par. heading and headings for subpars. (A) to (C), and realigned margins of subpars. and cls. (i) to (iii) of subpar. (A).
+Subsec. (a)(14). Pub. L. 104–127, § 741(a)(6)(A)–(D)(i), inserted par. heading and headings for subpars. (A) to (C), and realigned margins of subpars. and cls. (i) to (iii) of subpar. (A).
 
-Pub. L. 104–127, § 741(a)(4), (5), redesignated par. (16) as (14) and struck out former par. (14) which read as follows:
+Pub. L. 104–127, § 741(a)(4), (5), redesignated par. (16) as (14) and struck out former par. (14) which read as follows:
 
 “(14)(A) The Secretary, under such reasonable rules and conditions as he shall establish, shall make grants to eligible volunteer fire departments for up to 50 per centum of the cost of firefighting equipment needed by such departments but which such departments are unable to purchase through the resources otherwise available to them, and for the cost of the training necessary to enable such departments to use such equipment efficiently.
 
 “(B) For the purposes of this subsection, the term ‘eligible volunteer fire department’ means any established volunteer fire department in a rural town, village, or unincorporated area where the population is less than two thousand but greater than two hundred, as reasonably determined by the Secretary.”
 
-Subsec. (a)(14)(C). Pub. L. 104–127, § 741(a)(6)(D)(ii), which directed substitution of “3 percent of any funds appropriated” for “2 per centum of any funds provided in appropriations Acts”, was executed by making the substitution for “2 per centum of any funds provided in Appropriations Acts”, to reflect the probable intent of Congress.
+Subsec. (a)(14)(C). Pub. L. 104–127, § 741(a)(6)(D)(ii), which directed substitution of “3 percent of any funds appropriated” for “2 per centum of any funds provided in appropriations Acts”, was executed by making the substitution for “2 per centum of any funds provided in Appropriations Acts”, to reflect the probable intent of Congress.
 
-Subsec. (a)(15). Pub. L. 104–127, § 741(a)(4), (5), redesignated par. (17) as (15) and struck out former par. (15) which authorized making or insuring of loans to associations, including corporations not operated for profit, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public and quasi-public agencies, for purpose of financing construction, acquisition, and operation of transmission facilities for any electric system owned and operated by a public body located in a rural area which was, as of October 1, 1976, receiving bulk power from designated agencies of Department of the Interior.
+Subsec. (a)(15). Pub. L. 104–127, § 741(a)(4), (5), redesignated par. (17) as (15) and struck out former par. (15) which authorized making or insuring of loans to associations, including corporations not operated for profit, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public and quasi-public agencies, for purpose of financing construction, acquisition, and operation of transmission facilities for any electric system owned and operated by a public body located in a rural area which was, as of October 1, 1976, receiving bulk power from designated agencies of Department of the Interior.
 
-Subsec. (a)(16) to (18). Pub. L. 104–127, § 741(a)(5), redesignated pars. (18) to (20) as (16) to (18), respectively. Former pars. (16) to (18) redesignated (14) to (16), respectively.
+Subsec. (a)(16) to (18). Pub. L. 104–127, § 741(a)(5), redesignated pars. (18) to (20) as (16) to (18), respectively. Former pars. (16) to (18) redesignated (14) to (16), respectively.
 
-Subsec. (a)(19). Pub. L. 104–127, § 763, added par. (19).
+Subsec. (a)(19). Pub. L. 104–127, § 763, added par. (19).
 
-Pub. L. 104–127, § 741(a)(5), redesignated par. (19) as (17).
+Pub. L. 104–127, § 741(a)(5), redesignated par. (19) as (17).
 
-Subsec. (a)(20). Pub. L. 104–127, § 741(a)(5), redesignated par. (20) as (18).
+Subsec. (a)(20). Pub. L. 104–127, § 741(a)(5), redesignated par. (20) as (18).
 
 1994—Subsec. (a)(15)(C), (D). Pub. L. 103–354 redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The Administrator of the Rural Electrification Administration shall administer loans made or insured under this paragraph.”
 
 1993—Subsec. (a)(1). Pub. L. 103–129 inserted after first sentence “The Secretary may also make loans to any borrower to whom a loan has been made under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), for the conservation, development, use, and control of water, and the installation of drainage or waste disposal facilities, primarily serving farmers, ranchers, farm tenants, farm laborers, rural businesses, and other rural residents.”
 
-1991—Subsec. (a)(11)(B)(ii). Pub. L. 102–237, § 701(a)(1), in subcl. (I) inserted “and” after semicolon and in subcl. (II) substituted a period for “; and”.
+1991—Subsec. (a)(11)(B)(ii). Pub. L. 102–237, § 701(a)(1), in subcl. (I) inserted “and” after semicolon and in subcl. (II) substituted a period for “; and”.
 
-Subsec. (a)(12)(D), (20). Pub. L. 102–237, § 701(h)(1)(A), (B), substituted “this chapter” for “this Act”.
+Subsec. (a)(12)(D), (20). Pub. L. 102–237, § 701(h)(1)(A), (B), substituted “this chapter” for “this Act”.
 
-Subsec. (a)(21). Pub. L. 102–237, § 701(a)(2), struck out par. (21) which was identical to par. (20).
+Subsec. (a)(21). Pub. L. 102–237, § 701(a)(2), struck out par. (21) which was identical to par. (20).
 
-1990—Subsec. (a)(1). Pub. L. 101–624, § 2328, inserted “rural businesses,” after “farm laborers,”.
+1990—Subsec. (a)(1). Pub. L. 101–624, § 2328, inserted “rural businesses,” after “farm laborers,”.
 
-Subsec. (a)(2). Pub. L. 101–624, § 2321, struck out “: *Provided*, That for fiscal years commencing after September 30, 1981, such grants may not exceed $154,900,000 in any fiscal year” after “in rural areas”.
+Subsec. (a)(2). Pub. L. 101–624, § 2321, struck out “: *Provided*, That for fiscal years commencing after September 30, 1981, such grants may not exceed $154,900,000 in any fiscal year” after “in rural areas”.
 
-Subsec. (a)(3). Pub. L. 101–624, § 2316(b), struck out “and not inconsistent with any planned development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority for the area in which the rural community is located, and the Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government. No loan under this section shall be made that is inconsistent with any multijurisdictional planning and development district areawide plan of such agency. The Secretary is authorized to reimburse such agency or government for the cost of making the required review. Until October 1, 1973, the Secretary may make grants prior to the completion of the comprehensive plan, if the preparation of such plan has been undertaken for the area” after “of the rural area”.
+Subsec. (a)(3). Pub. L. 101–624, § 2316(b), struck out “and not inconsistent with any planned development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority for the area in which the rural community is located, and the Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government. No loan under this section shall be made that is inconsistent with any multijurisdictional planning and development district areawide plan of such agency. The Secretary is authorized to reimburse such agency or government for the cost of making the required review. Until October 1, 1973, the Secretary may make grants prior to the completion of the comprehensive plan, if the preparation of such plan has been undertaken for the area” after “of the rural area”.
 
-Subsec. (a)(11). Pub. L. 101–624, §§ 2341, 2342, amended par. (11) generally. Prior to amendment, par. (11) read as follows: “The Secretary may make grants, not to exceed $15,000,000 annually, to public bodies or such other agencies as the Secretary may select to provide rural development technical assist­ance, rural community leadership development, and community and areawide rural development planning.”
+Subsec. (a)(11). Pub. L. 101–624, §§ 2341, 2342, amended par. (11) generally. Prior to amendment, par. (11) read as follows: “The Secretary may make grants, not to exceed $15,000,000 annually, to public bodies or such other agencies as the Secretary may select to provide rural development technical assist­ance, rural community leadership development, and community and areawide rural development planning.”
 
-Subsec. (a)(20). Pub. L. 101–624, § 2329, added par. (20).
+Subsec. (a)(20). Pub. L. 101–624, § 2329, added par. (20).
 
-Subsec. (a)(21). Pub. L. 101–624, § 2393, added par. (21).
+Subsec. (a)(21). Pub. L. 101–624, § 2393, added par. (21).
 
 1986—Subsec. (a)(1), (15)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -937,33 +937,33 @@ Subsec. (a)(16) to (19). Pub. L. 99–198 added pars. (16) to (19).
 
 Subsec. (a)(11) to (15). Pub. L. 96–355 in par. (11) substituted provisions authorizing annual grants not to exceed $15,000,000 for rural development technical assistance, rural community leadership development, etc., for provisions authorizing annual grants not to exceed $10,000,000 for preparation of comprehensive plans for rural development or designated aspects of such rural development, added par. (12), and redesignated former pars. (12) to (14) as (13) to (15), respectively.
 
-1978—Subsec. (a)(1). Pub. L. 95–334, § 104, inserted provisions respecting bond counsel requirements for loans under $500,000.
+1978—Subsec. (a)(1). Pub. L. 95–334, § 104, inserted provisions respecting bond counsel requirements for loans under $500,000.
 
-Subsec. (a)(2). Pub. L. 95–334, § 105, substituted “$500,000,000” for “$300,000,000” and “75” for “50”.
+Subsec. (a)(2). Pub. L. 95–334, § 105, substituted “$500,000,000” for “$300,000,000” and “75” for “50”.
 
-Subsec. (a)(7). Pub. L. 95–334, § 106, struck out references to the Commonwealth of Puerto Rico and the Virgin Islands.
+Subsec. (a)(7). Pub. L. 95–334, § 106, struck out references to the Commonwealth of Puerto Rico and the Virgin Islands.
 
-Subsec. (a)(14). Pub. L. 95–334, § 107(a), added par. (14).
+Subsec. (a)(14). Pub. L. 95–334, § 107(a), added par. (14).
 
-1973—Subsec. (a)(13). Pub. L. 91–524, title VIII, § 816(c), as added by Pub. L. 93–86 added par. (13).
+1973—Subsec. (a)(13). Pub. L. 91–524, title VIII, § 816(c), as added by Pub. L. 93–86 added par. (13).
 
-1972—Subsec. (a)(1). Pub. L. 92–419, § 104(1), (2), authorized loans to Indian tribes on Federal and State reservations and other federally recognized Indian tribes and included as an allowable use provision for essential community facilities including necessary related equipment, respectively.
+1972—Subsec. (a)(1). Pub. L. 92–419, § 104(1), (2), authorized loans to Indian tribes on Federal and State reservations and other federally recognized Indian tribes and included as an allowable use provision for essential community facilities including necessary related equipment, respectively.
 
-Subsec. (a)(2). Pub. L. 92–419, § 105, substituted “$300,000,000” for “$100,000,000”.
+Subsec. (a)(2). Pub. L. 92–419, § 105, substituted “$300,000,000” for “$100,000,000”.
 
-Subsec. (a)(3). Pub. L. 92–419, §§ 106, 107, substituted “project” for “facility” where first appearing; in item (i), substituted “project” for “facility” and inserted in such text “, if such project is carried out,”; in item (ii), substituted “will or can be” for “will be or can be”; substituted “and (iii)” for “or (iii)” and in such item (iii), substituted “an orderly community development consistent with a comprehensive community water, waste disposal, or other development plan” and “development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority” for “orderly community development consistent with a comprehensive community water or sewer development plan” and “development under State, county, or municipal plans approved as official plans by competent authority”, substituted “Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government” for “Secretary shall establish regulations requiring the submission of all applications for financial assistance under this chapter to the county or municipal government in which the proposed project is to be located for review and comment by such agency within a designated period of time”; prohibited loans inconsistent with multijurisdictional planning and development district areawide plan of the agency; authorized agency or government reimbursement for cost of making the review; and extended authority for making grants prior to completion of the comprehensive plan from Oct. 1, 1971 to Oct. 1, 1973.
+Subsec. (a)(3). Pub. L. 92–419, §§ 106, 107, substituted “project” for “facility” where first appearing; in item (i), substituted “project” for “facility” and inserted in such text “, if such project is carried out,”; in item (ii), substituted “will or can be” for “will be or can be”; substituted “and (iii)” for “or (iii)” and in such item (iii), substituted “an orderly community development consistent with a comprehensive community water, waste disposal, or other development plan” and “development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority” for “orderly community development consistent with a comprehensive community water or sewer development plan” and “development under State, county, or municipal plans approved as official plans by competent authority”, substituted “Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government” for “Secretary shall establish regulations requiring the submission of all applications for financial assistance under this chapter to the county or municipal government in which the proposed project is to be located for review and comment by such agency within a designated period of time”; prohibited loans inconsistent with multijurisdictional planning and development district areawide plan of the agency; authorized agency or government reimbursement for cost of making the review; and extended authority for making grants prior to completion of the comprehensive plan from Oct. 1, 1971 to Oct. 1, 1973.
 
-Subsec. (a)(5). Pub. L. 92–419, § 110, struck out provisions of former par. (5) which prohibited any loan or grant under subsec. (a) of this section which would cause the unpaid principal indebtedness of any association under this chapter and Act Aug. 28, 1937, as amended (superseded by this chapter), together with amount of any assistance in the form of a grant to exceed $4,000,000 at any one time.
+Subsec. (a)(5). Pub. L. 92–419, § 110, struck out provisions of former par. (5) which prohibited any loan or grant under subsec. (a) of this section which would cause the unpaid principal indebtedness of any association under this chapter and Act Aug. 28, 1937, as amended (superseded by this chapter), together with amount of any assistance in the form of a grant to exceed $4,000,000 at any one time.
 
-Subsec. (a)(6). Pub. L. 92–419, § 108, substituted “$30,000,000” for “$15,000,000”, struck out “official” before “comprehensive plans”, and substituted “waste disposal systems” for “sewer systems”.
+Subsec. (a)(6). Pub. L. 92–419, § 108, substituted “$30,000,000” for “$15,000,000”, struck out “official” before “comprehensive plans”, and substituted “waste disposal systems” for “sewer systems”.
 
-Subsec. (a)(7). Pub. L. 92–419, § 109, substituted definition of “rural” and “rural area” as excluding an area in a city or town with a population in excess of ten thousand inhabitants for prior provision for rural areas for purposes of water and waste disposal projects excluding an area in a city or town with a population in excess of 5,500 inhabitants, provided exception provision and special consideration for loans and grants to areas other than cities having a population of more than twenty-five thousand.
+Subsec. (a)(7). Pub. L. 92–419, § 109, substituted definition of “rural” and “rural area” as excluding an area in a city or town with a population in excess of ten thousand inhabitants for prior provision for rural areas for purposes of water and waste disposal projects excluding an area in a city or town with a population in excess of 5,500 inhabitants, provided exception provision and special consideration for loans and grants to areas other than cities having a population of more than twenty-five thousand.
 
-Subsec. (a)(11), (12). Pub. L. 92–419, §§ 111, 112, added pars. (11) and (12).
+Subsec. (a)(11), (12). Pub. L. 92–419, §§ 111, 112, added pars. (11) and (12).
 
 1970—Subsec. (a)(1). Pub. L. 91–617 required inclusion in gross income of the interest or other income paid to an insured holder when any loan made for a purpose specified in subsec. (a)(1) is sold out of the Agricultural Credit Insurance Fund as an insured loan.
 
-Subsec. (c). Pub. L. 91–606 repealed subsec. (c), added by Pub. L. 89–769, § 6(b), Nov. 6, 1966, 80 Stat. 1318, which related to loans to associations in areas suffering major disasters. See section 4401 et seq. of Title 42, The Public Health and Welfare.
+Subsec. (c). Pub. L. 91–606 repealed subsec. (c), added by Pub. L. 89–769, § 6(b), Nov. 6, 1966, 80 Stat. 1318, which related to loans to associations in areas suffering major disasters. See section 4401 et seq. of Title 42, The Public Health and Welfare.
 
 Subsec. (d). Pub. L. 91–524 added subsec. (d).
 
@@ -979,7 +979,7 @@ Subsec. (d). Pub. L. 91–524 added subsec. (d).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title VI, § 6701(a)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in section 773 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001 (H.R. 5426 of the 106th Congress, as enacted by Public Law 106–387 (114 Stat. 1549A–45)) in lieu of the amendment made by such section [see 2000 Amendment note above].”
+Pub. L. 115–334, title VI, § 6701(a)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in section 773 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001 (H.R. 5426 of the 106th Congress, as enacted by Public Law 106–387 (114 Stat. 1549A–45)) in lieu of the amendment made by such section [see 2000 Amendment note above].”
 
 **Effective Date of 2008 Amendment**
 
@@ -997,11 +997,11 @@ Amendment by Pub. L. 96–355 effective Oct. 1, 1980, see section 10 of Pub. L. 
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–334, title I, § 105, Aug. 4, 1978, 92 Stat. 421, provided that the amendment made by that section is effective Oct. 1, 1978.
+Pub. L. 95–334, title I, § 105, Aug. 4, 1978, 92 Stat. 421, provided that the amendment made by that section is effective Oct. 1, 1978.
 
 **Effective Date of 1970 Amendments**
 
-Pub. L. 91–617, § 1(b), Dec. 31, 1970, 84 Stat. 1855, provided that: “The amendment made by subsection (a) [amending this section] shall apply to the insured loans sold out of the Agricultural Credit Insurance Fund after the date of the enactment of this Act [Dec. 31, 1970].”
+Pub. L. 91–617, § 1(b), Dec. 31, 1970, 84 Stat. 1855, provided that: “The amendment made by subsection (a) [amending this section] shall apply to the insured loans sold out of the Agricultural Credit Insurance Fund after the date of the enactment of this Act [Dec. 31, 1970].”
 
 Amendment by Pub. L. 91–606 effective Dec. 31, 1970, see section 304 of Pub. L. 91–606, set out as a note under section 165 of Title 26, Internal Revenue Code.
 
@@ -1015,7 +1015,7 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 **Assistance in Rural Alaska**
 
-Pub. L. 106–387, § 1(a) [title VII, § 736], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that:
+Pub. L. 106–387, § 1(a) [title VII, § 736], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that:
 
 > “Notwithstanding any other provision of law, for any fiscal year, in the case of a high cost, isolated rural area of the State of Alaska that is not connected to a road system—
 
@@ -1053,21 +1053,21 @@ Pub. L. 103–427, Oct. 31, 1994, 108 Stat. 4373, provided that:
 
 **Rural Wastewater Treatment Circuit Rider Program**
 
-Pub. L. 101–624, title XXIII, § 2324, Nov. 28, 1990, 104 Stat. 4013, directed Secretary to establish national rural wastewater circuit rider grant program that was to be modeled after existing National Rural Water Association Rural Water Circuit Rider Program that received funding from Farmers Home Administration and authorized $4,000,000 for each fiscal year to carry out such program, prior to repeal by Pub. L. 104–127, title VII, § 703, Apr. 4, 1996, 110 Stat. 1108.
+Pub. L. 101–624, title XXIII, § 2324, Nov. 28, 1990, 104 Stat. 4013, directed Secretary to establish national rural wastewater circuit rider grant program that was to be modeled after existing National Rural Water Association Rural Water Circuit Rider Program that received funding from Farmers Home Administration and authorized $4,000,000 for each fiscal year to carry out such program, prior to repeal by Pub. L. 104–127, title VII, § 703, Apr. 4, 1996, 110 Stat. 1108.
 
 **Interest Rate Restructuring for Certain Borrowers**
 
-Pub. L. 100–233, title VI, § 615(b)(2), Jan. 6, 1988, 101 Stat. 1682, provided that: “Effective July 29, 1987, the interest rate charged on any loan of $2,000,000 or more made on such date under section 306 [7 U.S.C. 1926] to any nonprofit corporation shall be the interest rate quoted to such nonprofit corporation by the Farmers Home Administration on June 22, 1987, in the request for obligation of funds made with respect to the loan.”
+Pub. L. 100–233, title VI, § 615(b)(2), Jan. 6, 1988, 101 Stat. 1682, provided that: “Effective July 29, 1987, the interest rate charged on any loan of $2,000,000 or more made on such date under section 306 [7 U.S.C. 1926] to any nonprofit corporation shall be the interest rate quoted to such nonprofit corporation by the Farmers Home Administration on June 22, 1987, in the request for obligation of funds made with respect to the loan.”
 
 **Lease of Certain Acquired Property**
 
-Pub. L. 100–233, title VI, § 620, Jan. 6, 1988, 101 Stat. 1684, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture may lease to public or private nonprofit organizations, for a nominal rent, any facilities acquired in connection with the disposition of a loan made by the Secretary under section 306 [7 U.S.C. 1926]. Any such lease shall be for such reasonable period of time as the Secretary determines is appropriate.”
+Pub. L. 100–233, title VI, § 620, Jan. 6, 1988, 101 Stat. 1684, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture may lease to public or private nonprofit organizations, for a nominal rent, any facilities acquired in connection with the disposition of a loan made by the Secretary under section 306 [7 U.S.C. 1926]. Any such lease shall be for such reasonable period of time as the Secretary determines is appropriate.”
 
-### § 1926–1. Repealed. Pub. L. 104–127, title VII, § 702, Apr. 4, 1996, 110 Stat. 1108
+### § 1926–1. Repealed. Pub. L. 104–127, title VII, § 702, Apr. 4, 1996, 110 Stat. 1108
 
-Section, Pub. L. 101–624, title XXIII, § 2322, Nov. 28, 1990, 104 Stat. 4010; Pub. L. 102–237, title VII, § 702(f), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 103–354, title II, § 235(b)(6), Oct. 13, 1994, 108 Stat. 3222, related to water and waste facility financing, including provisions relating to authority, limitation, priority, coordination, terms, private sector capital, appropriations, repayment, full use, and replenishment of water and waste facility fund.
+Section, Pub. L. 101–624, title XXIII, § 2322, Nov. 28, 1990, 104 Stat. 4010; Pub. L. 102–237, title VII, § 702(f), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 103–354, title II, § 235(b)(6), Oct. 13, 1994, 108 Stat. 3222, related to water and waste facility financing, including provisions relating to authority, limitation, priority, coordination, terms, private sector capital, appropriations, repayment, full use, and replenishment of water and waste facility fund.
 
-### § 1926a. Emergency and imminent community water assistance grant program
+### § 1926a. Emergency and imminent community water assistance grant program
 
 **(a) In general** The Secretary shall provide grants in accordance with this section to assist the residents of rural areas and small communities to secure adequate quantities of safe water—
 
@@ -1175,15 +1175,15 @@ Notwithstanding clause (i), in response to an eligible community where the drink
 
 In addition to funds made available under paragraph (1), there is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 87–128, title III, § 306A, as added Pub. L. 101–82, title V, § 501(a), Aug. 14, 1989, 103 Stat. 584; amended Pub. L. 104–127, title VII, § 742, Apr. 4, 1996, 110 Stat. 1124; Pub. L. 107–171, title VI, § 6009, May 13, 2002, 116 Stat. 356; Pub. L. 110–234, title VI, § 6008, May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, § 4(a), title VI, § 6008, June 18, 2008, 122 Stat. 1664, 1924; Pub. L. 113–79, title VI, § 6007, Feb. 7, 2014, 128 Stat. 843; Pub. L. 115–334, title VI, § 6407(a), Dec. 20, 2018, 132 Stat. 4759.)
+(Pub. L. 87–128, title III, § 306A, as added Pub. L. 101–82, title V, § 501(a), Aug. 14, 1989, 103 Stat. 584; amended Pub. L. 104–127, title VII, § 742, Apr. 4, 1996, 110 Stat. 1124; Pub. L. 107–171, title VI, § 6009, May 13, 2002, 116 Stat. 356; Pub. L. 110–234, title VI, § 6008, May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, § 4(a), title VI, § 6008, June 18, 2008, 122 Stat. 1664, 1924; Pub. L. 113–79, title VI, § 6007, Feb. 7, 2014, 128 Stat. 843; Pub. L. 115–334, title VI, § 6407(a), Dec. 20, 2018, 132 Stat. 4759.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(C), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(C), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (d)(1)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (d)(1)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (h)(2)(B), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
@@ -1193,49 +1193,49 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (b)(1). Pub. L. 115–334, § 6407(a)(1), substituted “, particularly to projects to address contamination that—” for “; and” and added subpars. (A) and (B).
+2018—Subsec. (b)(1). Pub. L. 115–334, § 6407(a)(1), substituted “, particularly to projects to address contamination that—” for “; and” and added subpars. (A) and (B).
 
-Subsec. (d)(1)(D). Pub. L. 115–334, § 6407(a)(2), inserted before period at end “, other than those covered above for not to exceed 120 days when a more permanent solution is not feasible in a shorter time frame. Where drinking water supplies are inadequate due to an event, as determined by the Secretary, including drought, severe weather, or contamination, the Secretary may provide potable water for an additional period of time not to exceed an additional 120 days in order to protect public health”.
+Subsec. (d)(1)(D). Pub. L. 115–334, § 6407(a)(2), inserted before period at end “, other than those covered above for not to exceed 120 days when a more permanent solution is not feasible in a shorter time frame. Where drinking water supplies are inadequate due to an event, as determined by the Secretary, including drought, severe weather, or contamination, the Secretary may provide potable water for an additional period of time not to exceed an additional 120 days in order to protect public health”.
 
-Subsec. (e)(1)(B). Pub. L. 115–334, § 6407(a)(3), struck out “according to the most recent decennial census of the United States” before period at end.
+Subsec. (e)(1)(B). Pub. L. 115–334, § 6407(a)(3), struck out “according to the most recent decennial census of the United States” before period at end.
 
-Subsec. (f)(1). Pub. L. 115–334, § 6407(a)(4), substituted “$1,000,000” for “$500,000”.
+Subsec. (f)(1). Pub. L. 115–334, § 6407(a)(4), substituted “$1,000,000” for “$500,000”.
 
-Subsec. (i)(1)(A). Pub. L. 115–334, § 6407(a)(5)(A)(i), substituted “5 percent and not more than 7” for “3 nor more than 5”.
+Subsec. (i)(1)(A). Pub. L. 115–334, § 6407(a)(5)(A)(i), substituted “5 percent and not more than 7” for “3 nor more than 5”.
 
-Subsec. (i)(1)(B). Pub. L. 115–334, § 6407(a)(5)(A)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “Funds reserved under subparagraph (A) for a fiscal year shall be reserved only until July 1 of the fiscal year.”
+Subsec. (i)(1)(B). Pub. L. 115–334, § 6407(a)(5)(A)(ii), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “Funds reserved under subparagraph (A) for a fiscal year shall be reserved only until July 1 of the fiscal year.”
 
-Subsec. (i)(2). Pub. L. 115–334, § 6407(a)(5)(B), substituted “$50,000,000 for each of fiscal years 2019 through 2023” for “$35,000,000 for each of fiscal years 2008 through 2018”.
+Subsec. (i)(2). Pub. L. 115–334, § 6407(a)(5)(B), substituted “$50,000,000 for each of fiscal years 2019 through 2023” for “$35,000,000 for each of fiscal years 2008 through 2018”.
 
 2014—Subsec. (i)(2). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (i)(2). Pub. L. 110–246, § 6008, substituted “2008 through 2012” for “2003 through 2007”.
+2008—Subsec. (i)(2). Pub. L. 110–246, § 6008, substituted “2008 through 2012” for “2003 through 2007”.
 
-2002—Pub. L. 107–171, § 6009(1), inserted “and imminent” before “community water assistance” in section catchline.
+2002—Pub. L. 107–171, § 6009(1), inserted “and imminent” before “community water assistance” in section catchline.
 
-Subsec. (a)(1). Pub. L. 107–171, § 6009(2)(A), inserted “, or when such a decline is imminent” before semicolon at end.
+Subsec. (a)(1). Pub. L. 107–171, § 6009(2)(A), inserted “, or when such a decline is imminent” before semicolon at end.
 
-Subsec. (a)(2)(A). Pub. L. 107–171, § 6009(2)(B)(i), substituted “acute, or imminent,” for “acute”.
+Subsec. (a)(2)(A). Pub. L. 107–171, § 6009(2)(B)(i), substituted “acute, or imminent,” for “acute”.
 
-Subsec. (a)(2)(B). Pub. L. 107–171, § 6009(2)(B)(ii), substituted “decline, or imminent decline,” for “decline”.
+Subsec. (a)(2)(B). Pub. L. 107–171, § 6009(2)(B)(ii), substituted “decline, or imminent decline,” for “decline”.
 
-Subsec. (c)(2). Pub. L. 107–171, § 6009(3), substituted “occurred, or will occur,” for “occurred”.
+Subsec. (c)(2). Pub. L. 107–171, § 6009(3), substituted “occurred, or will occur,” for “occurred”.
 
-Subsec. (d)(1). Pub. L. 107–171, § 6009(4), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Grants made under this section may be used for waterline extensions from existing systems, laying of new waterlines, repairs, significant maintenance, digging of new wells, equipment replacement, hook and tap fees, and any other appropriate purpose associated with developing sources of, or treating, storing, or distributing water, and to assist communities in complying with the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) or the Safe Drinking Water Act (42 U.S.C. 300f et seq.).”
+Subsec. (d)(1). Pub. L. 107–171, § 6009(4), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Grants made under this section may be used for waterline extensions from existing systems, laying of new waterlines, repairs, significant maintenance, digging of new wells, equipment replacement, hook and tap fees, and any other appropriate purpose associated with developing sources of, or treating, storing, or distributing water, and to assist communities in complying with the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) or the Safe Drinking Water Act (42 U.S.C. 300f et seq.).”
 
-Subsec. (f)(2). Pub. L. 107–171, § 6009(5), substituted “$150,000” for “$75,000”.
+Subsec. (f)(2). Pub. L. 107–171, § 6009(5), substituted “$150,000” for “$75,000”.
 
-Subsec. (h)(1). Pub. L. 107–171, § 6009(6)(A), substituted “decline, or imminent decline,” for “decline” in second sentence.
+Subsec. (h)(1). Pub. L. 107–171, § 6009(6)(A), substituted “decline, or imminent decline,” for “decline” in second sentence.
 
-Subsec. (h)(2). Pub. L. 107–171, § 6009(6)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Secretary shall make every effort to review and act on applications within 60 days of the date that such applications are submitted.”
+Subsec. (h)(2). Pub. L. 107–171, § 6009(6)(B), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “The Secretary shall make every effort to review and act on applications within 60 days of the date that such applications are submitted.”
 
-Subsec. (i). Pub. L. 107–171, § 6009(7), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 1996 through 2002.”
+Subsec. (i). Pub. L. 107–171, § 6009(7), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 1996 through 2002.”
 
-1996—Subsec. (e)(1)(A). Pub. L. 104–127, § 742(1)(A), substituted “10,000” for “15,000”.
+1996—Subsec. (e)(1)(A). Pub. L. 104–127, § 742(1)(A), substituted “10,000” for “15,000”.
 
-Subsec. (e)(2). Pub. L. 104–127, § 742(1)(B), substituted “3,000” for “5,000”.
+Subsec. (e)(2). Pub. L. 104–127, § 742(1)(B), substituted “3,000” for “5,000”.
 
-Subsec. (i). Pub. L. 104–127, § 742(2), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section, $35,000,000 for each of the fiscal years 1990 and 1991, such sums to remain authorized until fully appropriated.”
+Subsec. (i). Pub. L. 104–127, § 742(2), added subsec. (i) and struck out heading and text of former subsec. (i). Text read as follows: “There are authorized to be appropriated to carry out this section, $35,000,000 for each of the fiscal years 1990 and 1991, such sums to remain authorized until fully appropriated.”
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1245,7 +1245,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Implementation**
 
-Pub. L. 101–82, title V, § 501(b), Aug. 14, 1989, 103 Stat. 585, provided that:
+Pub. L. 101–82, title V, § 501(b), Aug. 14, 1989, 103 Stat. 585, provided that:
 
 > **“(1) Regulations.—** The Secretary of Agriculture shall publish—
 
@@ -1259,11 +1259,11 @@ Pub. L. 101–82, title V, § 501(b), Aug. 14, 1989, 103 Stat. 585, provided t
 
 > **“(B) Release.—** The Secretary may release funds prior to the issuance of final regulations under paragraph (1)(B) for grants under section 306A(a)(1) of the Consolidated Farm and Rural Development Act.”
 
-### § 1926b. Repealed. Pub. L. 104–127, title VII, § 743, Apr. 4, 1996, 110 Stat. 1125
+### § 1926b. Repealed. Pub. L. 104–127, title VII, § 743, Apr. 4, 1996, 110 Stat. 1125
 
-Section, Pub. L. 87–128, title III, § 306B, as added Pub. L. 101–624, title XXIII, § 2326(a), Nov. 28, 1990, 104 Stat. 4014, related to emergency community water assistance grant program, including general provisions and provisions relating to priority, eligibility, uses, restrictions, maximum grants, full funding, application, and limitations on authorization of appropriations.
+Section, Pub. L. 87–128, title III, § 306B, as added Pub. L. 101–624, title XXIII, § 2326(a), Nov. 28, 1990, 104 Stat. 4014, related to emergency community water assistance grant program, including general provisions and provisions relating to priority, eligibility, uses, restrictions, maximum grants, full funding, application, and limitations on authorization of appropriations.
 
-### § 1926c. Water and waste facility loans and grants to alleviate health risks
+### § 1926c. Water and waste facility loans and grants to alleviate health risks
 
 **(a) Loans and grants to persons other than individuals**
 
@@ -1325,7 +1325,7 @@ An entity eligible to receive funding through a grant made under section 1926d o
 
 Not later than 30 days after October 28, 1992, the Secretary shall issue interim final regulations, with a request for public comments, implementing this section.
 
-(Pub. L. 87–128, title III, § 306C, as added Pub. L. 101–624, title XXIII, § 2327, Nov. 28, 1990, 104 Stat. 4015; amended Pub. L. 102–237, title VII, § 701(b), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 102–552, title V, § 516(*l*), (m), Oct. 28, 1992, 106 Stat. 4139; Pub. L. 102–554, § 24, Oct. 28, 1992, 106 Stat. 4161; Pub. L. 107–171, title VI, § 6010, May 13, 2002, 116 Stat. 357.)
+(Pub. L. 87–128, title III, § 306C, as added Pub. L. 101–624, title XXIII, § 2327, Nov. 28, 1990, 104 Stat. 4015; amended Pub. L. 102–237, title VII, § 701(b), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 102–552, title V, § 516(*l*), (m), Oct. 28, 1992, 106 Stat. 4139; Pub. L. 102–554, § 24, Oct. 28, 1992, 106 Stat. 4161; Pub. L. 107–171, title VI, § 6010, May 13, 2002, 116 Stat. 357.)
 
 **Editorial Notes**
 
@@ -1343,9 +1343,9 @@ Not later than 30 days after October 28, 1992, the Secretary shall issue interim
 
 “(B) the unemployment rate of the residents of which is not less than 125 percent of the national average unemployment rate, as determined by the Bureau of Labor Statistics.”
 
-Subsec. (b)(1). Pub. L. 102–552, § 516(*l*), substituted “, connecting the systems to the residences of the individuals, or installing plumbing and fixtures within the residences of the individuals to facilitate the use of the water supply and waste disposal systems” for “or connecting such systems to the residences of such individuals”.
+Subsec. (b)(1). Pub. L. 102–552, § 516(*l*), substituted “, connecting the systems to the residences of the individuals, or installing plumbing and fixtures within the residences of the individuals to facilitate the use of the water supply and waste disposal systems” for “or connecting such systems to the residences of such individuals”.
 
-Subsec. (f). Pub. L. 102–552, § 516(m), added subsec. (f).
+Subsec. (f). Pub. L. 102–552, § 516(m), added subsec. (f).
 
 1991—Subsec. (a)(2). Pub. L. 102–237 realigned margins of subpars. (A) and (B).
 
@@ -1355,7 +1355,7 @@ Subsec. (f). Pub. L. 102–552, § 516(m), added subsec. (f).
 
 Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(6) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
-### § 1926d. Water systems for rural and Native villages in Alaska
+### § 1926d. Water systems for rural and Native villages in Alaska
 
 **(a) In general**
 
@@ -1383,7 +1383,7 @@ Not more than 2 percent of the amount made available under paragraph (1) for a f
 
 Funds appropriated pursuant to the authorization of appropriations in paragraph (1) shall be available until expended.
 
-(Pub. L. 87–128, title III, § 306D, as added Pub. L. 104–127, title VII, § 757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, § 101(a) [title VII, § 745], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 106–224, title II, § 256, June 20, 2000, 114 Stat. 424; Pub. L. 107–171, title VI, § 6011, May 13, 2002, 116 Stat. 357; Pub. L. 110–234, title VI, § 6009(a), May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, § 4(a), title VI, § 6009(a), June 18, 2008, 122 Stat. 1664, 1924; Pub. L. 113–79, title VI, § 6008, Feb. 7, 2014, 128 Stat. 843; Pub. L. 115–334, title VI, § 6408, Dec. 20, 2018, 132 Stat. 4761.)
+(Pub. L. 87–128, title III, § 306D, as added Pub. L. 104–127, title VII, § 757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, § 101(a) [title VII, § 745], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 106–224, title II, § 256, June 20, 2000, 114 Stat. 424; Pub. L. 107–171, title VI, § 6011, May 13, 2002, 116 Stat. 357; Pub. L. 110–234, title VI, § 6009(a), May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, § 4(a), title VI, § 6009(a), June 18, 2008, 122 Stat. 1664, 1924; Pub. L. 113–79, title VI, § 6008, Feb. 7, 2014, 128 Stat. 843; Pub. L. 115–334, title VI, § 6408, Dec. 20, 2018, 132 Stat. 4761.)
 
 **Editorial Notes**
 
@@ -1397,17 +1397,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 6408(1), substituted “Alaska, a consortium formed pursuant to section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597), and Native villages (as defined in section 1602 of title 43) for” for “Alaska for”.
+2018—Subsec. (a). Pub. L. 115–334, § 6408(1), substituted “Alaska, a consortium formed pursuant to section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597), and Native villages (as defined in section 1602 of title 43) for” for “Alaska for”.
 
-Subsec. (b). Pub. L. 115–334, § 6408(2), inserted “for any grant awarded under subsection (a)” before period at end.
+Subsec. (b). Pub. L. 115–334, § 6408(2), inserted “for any grant awarded under subsection (a)” before period at end.
 
-Subsec. (d)(1). Pub. L. 115–334, § 6408(3)(A), substituted “2023” for “2018”.
+Subsec. (d)(1). Pub. L. 115–334, § 6408(3)(A), substituted “2023” for “2018”.
 
-Subsec. (d)(2). Pub. L. 115–334, § 6408(3)(B), substituted “Alaska, and not more than 2 percent of the amount made available under paragraph (1) for a fiscal year may be used by a consortium formed pursuant to section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597),” for “Alaska”.
+Subsec. (d)(2). Pub. L. 115–334, § 6408(3)(B), substituted “Alaska, and not more than 2 percent of the amount made available under paragraph (1) for a fiscal year may be used by a consortium formed pursuant to section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597),” for “Alaska”.
 
 2014—Subsec. (d)(1). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (d)(1). Pub. L. 110–246, § 6009(a), substituted “2008 through 2012” for “2001 through 2007”.
+2008—Subsec. (d)(1). Pub. L. 110–246, § 6009(a), substituted “2008 through 2012” for “2001 through 2007”.
 
 2002—Subsec. (d)(1). Pub. L. 107–171 substituted “through 2007” for “and 2002”.
 
@@ -1423,7 +1423,7 @@ Subsec. (d). Pub. L. 105–277 substituted “$20,000,000” for “$15,000,000�
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1926e. Rural decentralized water systems
+### § 1926e. Rural decentralized water systems
 
 **(a) Definition of eligible individual**
 
@@ -1463,7 +1463,7 @@ In awarding grants under this section, the Secretary shall give priority to an a
 
 There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 87–128, title III, § 306E, as added Pub. L. 107–171, title VI, § 6012(a), May 13, 2002, 116 Stat. 357; amended Pub. L. 110–234, title VI, § 6010, May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, § 4(a), title VI, § 6010, June 18, 2008, 122 Stat. 1664, 1925; Pub. L. 113–79, title VI, § 6009, Feb. 7, 2014, 128 Stat. 843; Pub. L. 115–334, title VI, § 6409, Dec. 20, 2018, 132 Stat. 4761.)
+(Pub. L. 87–128, title III, § 306E, as added Pub. L. 107–171, title VI, § 6012(a), May 13, 2002, 116 Stat. 357; amended Pub. L. 110–234, title VI, § 6010, May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, § 4(a), title VI, § 6010, June 18, 2008, 122 Stat. 1664, 1925; Pub. L. 113–79, title VI, § 6009, Feb. 7, 2014, 128 Stat. 843; Pub. L. 115–334, title VI, § 6409, Dec. 20, 2018, 132 Stat. 4761.)
 
 **Editorial Notes**
 
@@ -1473,13 +1473,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Pub. L. 115–334, § 6409(1), substituted “Rural decentralized water systems” for “Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well systems in rural areas for individuals with low or moderate incomes” in section catchline.
+2018—Pub. L. 115–334, § 6409(1), substituted “Rural decentralized water systems” for “Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well systems in rural areas for individuals with low or moderate incomes” in section catchline.
 
-Subsec. (a). Pub. L. 115–334, § 6409(2), substituted “60” for “100”.
+Subsec. (a). Pub. L. 115–334, § 6409(2), substituted “60” for “100”.
 
-Subsec. (b)(1). Pub. L. 115–334, § 6409(3)(A), inserted “and subgrants” after “loans” and “and individually owned household decentralized wastewater systems” after “well systems”.
+Subsec. (b)(1). Pub. L. 115–334, § 6409(3)(A), inserted “and subgrants” after “loans” and “and individually owned household decentralized wastewater systems” after “well systems”.
 
-Subsec. (b)(2). Pub. L. 115–334, § 6409(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A loan made with grant funds under this section—
+Subsec. (b)(2). Pub. L. 115–334, § 6409(3)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “A loan made with grant funds under this section—
 
 “(A) shall have an interest rate of 1 percent;
 
@@ -1487,17 +1487,17 @@ Subsec. (b)(2). Pub. L. 115–334, § 6409(3)(B), added par. (2) and struck ou
 
 “(C) shall not exceed $11,000 for each water well system described in paragraph (1).”
 
-Subsec. (b)(4). Pub. L. 115–334, § 6409(3)(C), added par. (4).
+Subsec. (b)(4). Pub. L. 115–334, § 6409(3)(C), added par. (4).
 
-Subsec. (c). Pub. L. 115–334, § 6409(4), substituted “effective use of individually owned household water well systems, individually owned household decentralized wastewater systems,” for “productive use of individually-owned household water well systems”.
+Subsec. (c). Pub. L. 115–334, § 6409(4), substituted “effective use of individually owned household water well systems, individually owned household decentralized wastewater systems,” for “productive use of individually-owned household water well systems”.
 
-Subsec. (d). Pub. L. 115–334, § 6409(5), substituted “$20,000,000” for “$5,000,000” and “2019 through 2023” for “2014 through 2018”.
+Subsec. (d). Pub. L. 115–334, § 6409(5), substituted “$20,000,000” for “$5,000,000” and “2019 through 2023” for “2014 through 2018”.
 
 2014—Subsec. (d). Pub. L. 113–79 substituted “$5,000,000 for each of fiscal years 2014 through 2018” for “$10,000,000 for each of fiscal years 2008 through 2012”.
 
-2008—Subsec. (b)(2)(C). Pub. L. 110–246, § 6010(1), substituted “$11,000” for “$8,000”.
+2008—Subsec. (b)(2)(C). Pub. L. 110–246, § 6010(1), substituted “$11,000” for “$8,000”.
 
-Subsec. (d). Pub. L. 110–246, § 6010(2), substituted “2008 through 2012” for “2003 through 2007”.
+Subsec. (d). Pub. L. 110–246, § 6010(2), substituted “2008 through 2012” for “2003 through 2007”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1507,13 +1507,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date**
 
-Pub. L. 107–171, title VI, § 6012(b), May 13, 2002, 116 Stat. 358, provided that: “The amendment made by subsection (a) [enacting this section] takes effect on October 1, 2002.”
+Pub. L. 107–171, title VI, § 6012(b), May 13, 2002, 116 Stat. 358, provided that: “The amendment made by subsection (a) [enacting this section] takes effect on October 1, 2002.”
 
-### § 1926f. Contracts with not-for-profit third parties
+### § 1926f. Contracts with not-for-profit third parties
 
 On and after November 10, 2005, notwithstanding the provisions of the Consolidated Farm and Rural Development Act [7 U.S.C. 1921 et seq.] (including the associated regulations) governing the Community Facilities Program, the Secretary may allow all Community Facility Program facility borrowers and grantees to enter into contracts with not-for-profit third parties for services consistent with the requirements of the Program, grant, and/or loan: *Provided*, That the contracts protect the interests of the Government regarding cost, liability, maintenance, and administrative fees.
 
-(Pub. L. 109–97, title VII, § 756, Nov. 10, 2005, 119 Stat. 2157.)
+(Pub. L. 109–97, title VII, § 756, Nov. 10, 2005, 119 Stat. 2157.)
 
 **Editorial Notes**
 
@@ -1529,11 +1529,11 @@ Section was enacted as part of the Agriculture, Rural Development, Food and Drug
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
-Pub. L. 108–447, div. A, title VII, § 770, Dec. 8, 2004, 118 Stat. 2848.
+Pub. L. 108–447, div. A, title VII, § 770, Dec. 8, 2004, 118 Stat. 2848.
 
-Pub. L. 108–199, div. A, title VII, § 775, Jan. 23, 2004, 118 Stat. 40.
+Pub. L. 108–199, div. A, title VII, § 775, Jan. 23, 2004, 118 Stat. 40.
 
-### § 1927. Repayment requirements
+### § 1927. Repayment requirements
 
 **(a) Period of repayment; interest rates**
 
@@ -1593,9 +1593,9 @@ Pub. L. 108–199, div. A, title VII, § 775, Jan. 23, 2004, 118 Stat. 40.
 
 **(i)** the provisions of section 1926(a)(1) of this title relating to loans for recreational developments and essential community facilities,
 
-**(ii)** section 1932(a)(2)(A) of this title; 1
+**(ii)** section 1932(a)(2)(A) of this title; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a comma.
+<sup>1</sup> So in original. The semicolon probably should be a comma.
 
 and
 
@@ -1617,7 +1617,7 @@ The Secretary shall take as security for the obligations entered into in connect
 
 **(2)** bring any action to foreclose, or otherwise liquidate, any such loan as a result of the failure of a borrower to provide additional collateral to secure a loan, if the borrower was current in the payment of principal and interest on the loan at the time the additional collateral was requested.
 
-(Pub. L. 87–128, title III, § 307, Aug. 8, 1961, 75 Stat. 308; Pub. L. 92–419, title I, §§ 113, 114, 128(b), Aug. 30, 1972, 86 Stat. 660, 666; Pub. L. 95–334, title I, § 108, Aug. 4, 1978, 92 Stat. 422; Pub. L. 97–35, title I, § 160(a), Aug. 13, 1981, 95 Stat. 376; Pub. L. 99–198, title XIII, §§ 1304A, 1305, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 100–233, title VI, §§ 603, 604, Jan. 6, 1988, 101 Stat. 1665, 1666; Pub. L. 101–624, title XVIII, § 1803(a), title XXIII, § 2383, Nov. 28, 1990, 104 Stat. 3818, 4050; Pub. L. 102–552, title V, § 516(c)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 103–328, title I, § 113(a), Sept. 29, 1994, 108 Stat. 2366; Pub. L. 104–127, title VI, §§ 604, 661(a), title VII, § 747(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1128; Pub. L. 110–234, title VI, §§ 6011, 6012(b)(1), May 22, 2008, 122 Stat. 1163, 1165; Pub. L. 110–246, § 4(a), title VI, §§ 6011, 6012(b)(1), June 18, 2008, 122 Stat. 1664, 1925, 1927; Pub. L. 113–79, title V, §§ 5003, 5004, Feb. 7, 2014, 128 Stat. 834.)
+(Pub. L. 87–128, title III, § 307, Aug. 8, 1961, 75 Stat. 308; Pub. L. 92–419, title I, §§ 113, 114, 128(b), Aug. 30, 1972, 86 Stat. 660, 666; Pub. L. 95–334, title I, § 108, Aug. 4, 1978, 92 Stat. 422; Pub. L. 97–35, title I, § 160(a), Aug. 13, 1981, 95 Stat. 376; Pub. L. 99–198, title XIII, §§ 1304A, 1305, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 100–233, title VI, §§ 603, 604, Jan. 6, 1988, 101 Stat. 1665, 1666; Pub. L. 101–624, title XVIII, § 1803(a), title XXIII, § 2383, Nov. 28, 1990, 104 Stat. 3818, 4050; Pub. L. 102–552, title V, § 516(c)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 103–328, title I, § 113(a), Sept. 29, 1994, 108 Stat. 2366; Pub. L. 104–127, title VI, §§ 604, 661(a), title VII, § 747(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1128; Pub. L. 110–234, title VI, §§ 6011, 6012(b)(1), May 22, 2008, 122 Stat. 1163, 1165; Pub. L. 110–246, § 4(a), title VI, §§ 6011, 6012(b)(1), June 18, 2008, 122 Stat. 1664, 1925, 1927; Pub. L. 113–79, title V, §§ 5003, 5004, Feb. 7, 2014, 128 Stat. 834.)
 
 **Editorial Notes**
 
@@ -1633,21 +1633,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2014—Subsec. (a)(3)(D). Pub. L. 113–79, § 5003, added subpar. (D) and struck out former subpar. (D). Prior to amendment, text read as follows: “If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be at least 4 percent annually.”
+2014—Subsec. (a)(3)(D). Pub. L. 113–79, § 5003, added subpar. (D) and struck out former subpar. (D). Prior to amendment, text read as follows: “If a direct farm ownership loan is made under this subchapter as part of a joint financing arrangement and the amount of the direct farm ownership loan does not exceed 50 percent of the total principal amount financed under the arrangement, the interest rate on the direct farm ownership loan shall be at least 4 percent annually.”
 
-Subsecs. (d), (e). Pub. L. 113–79, § 5004, redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “With respect to a farm ownership loan made after December 23, 1985, unless appraised values of the rights to oil, gas, or other minerals are specifically included as part of the appraised value of collateral securing the loan, the rights to oil, gas, or other minerals located under the property shall not be considered part of the collateral securing the loan. Nothing in this subsection shall prevent the inclusion of, as part of the collateral securing the loan, any payment or other compensation the borrower may receive for damages to the surface of the collateral real estate resulting from the exploration for or recovery of minerals.”
+Subsecs. (d), (e). Pub. L. 113–79, § 5004, redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “With respect to a farm ownership loan made after December 23, 1985, unless appraised values of the rights to oil, gas, or other minerals are specifically included as part of the appraised value of collateral securing the loan, the rights to oil, gas, or other minerals located under the property shall not be considered part of the collateral securing the loan. Nothing in this subsection shall prevent the inclusion of, as part of the collateral securing the loan, any payment or other compensation the borrower may receive for damages to the surface of the collateral real estate resulting from the exploration for or recovery of minerals.”
 
-2008—Subsec. (a)(3)(E). Pub. L. 110–246, § 6011, added subpar. (E).
+2008—Subsec. (a)(3)(E). Pub. L. 110–246, § 6011, added subpar. (E).
 
-Subsec. (a)(6)(B)(ii). Pub. L. 110–246, § 6012(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “clause (1) of section 1932(a) of this title, and”.
+Subsec. (a)(6)(B)(ii). Pub. L. 110–246, § 6012(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “clause (1) of section 1932(a) of this title, and”.
 
-1996—Subsec. (a)(3)(B). Pub. L. 104–127, § 604(1), inserted “subparagraph (D) and in” after “Except as provided in”.
+1996—Subsec. (a)(3)(B). Pub. L. 104–127, § 604(1), inserted “subparagraph (D) and in” after “Except as provided in”.
 
-Subsec. (a)(3)(D). Pub. L. 104–127, § 604(2), added subpar. (D).
+Subsec. (a)(3)(D). Pub. L. 104–127, § 604(2), added subpar. (D).
 
-Subsec. (a)(4). Pub. L. 104–127, § 661(a)(1), substituted “1926(a)(1) and 1932 of this title” for “1924(b), 1926(a)(1), and 1932 of this title”.
+Subsec. (a)(4). Pub. L. 104–127, § 661(a)(1), substituted “1926(a)(1) and 1932 of this title” for “1924(b), 1926(a)(1), and 1932 of this title”.
 
-Subsec. (a)(6)(B). Pub. L. 104–127, § 661(a)(2), inserted “and” at end of cl. (v), substituted a period for “, and” at end of cl. (vi), redesignated cls. (iii), (v), and (vi) as (i), (ii), and (iii), respectively, and struck out cls. (i), (ii), (iv), and (vii) which read as follows:
+Subsec. (a)(6)(B). Pub. L. 104–127, § 661(a)(2), inserted “and” at end of cl. (v), substituted a period for “, and” at end of cl. (vi), redesignated cls. (iii), (v), and (vi) as (i), (ii), and (iii), respectively, and struck out cls. (i), (ii), (iv), and (vii) which read as follows:
 
 “(i) clauses (2) and (3) of section 1923(a) of this title,
 
@@ -1657,37 +1657,37 @@ Subsec. (a)(6)(B). Pub. L. 104–127, § 661(a)(2), inserted “and” at end 
 
 “(vii) section 1934(a) of this title as it relates to the making or insuring of loans under clauses (2) and (3) of section 1923(a) of this title.”
 
-Subsec. (a)(6)(B)(iii). Pub. L. 104–127, § 747(b)(1), substituted “section 1932(d) of this title” for “subsections (d) and (e) of section 1932 of this title”.
+Subsec. (a)(6)(B)(iii). Pub. L. 104–127, § 747(b)(1), substituted “section 1932(d) of this title” for “subsections (d) and (e) of section 1932 of this title”.
 
-1994—Subsec. (a)(3)(A). Pub. L. 103–328, § 113(a)(1), substituted “Notwithstanding the provisions of the constitution or laws of any State limiting the rate or amount of interest that may be charged, taken, received, or reserved, except” for “Except”.
+1994—Subsec. (a)(3)(A). Pub. L. 103–328, § 113(a)(1), substituted “Notwithstanding the provisions of the constitution or laws of any State limiting the rate or amount of interest that may be charged, taken, received, or reserved, except” for “Except”.
 
-Subsec. (a)(5). Pub. L. 103–328, § 113(a)(2), substituted “(5)(A) Except as provided in subparagraph (B), the” for “(5) The” and added subpar. (B).
+Subsec. (a)(5). Pub. L. 103–328, § 113(a)(2), substituted “(5)(A) Except as provided in subparagraph (B), the” for “(5) The” and added subpar. (B).
 
 1992—Subsec. (a)(6)(B)(ii) to (viii). Pub. L. 102–552 redesignated cls. (iii) to (viii) as (ii) to (vii) and struck out former cl. (ii) which read as follows: “the provisions of section 1924(a) of this title, relating to the financing of outdoor recreational enterprises or the conversion of farming or ranching operations to recreational uses,”.
 
-1990—Subsec. (a)(3)(A). Pub. L. 101–624, § 2383(1), substituted “guaranteed” for “guranteed”.
+1990—Subsec. (a)(3)(A). Pub. L. 101–624, § 2383(1), substituted “guaranteed” for “guranteed”.
 
-Subsec. (a)(3)(B). Pub. L. 101–624, § 1803(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Except as provided in paragraph (6), the interest rates on loans (other than guaranteed loans) under section 1934 of this title shall be as determined by the Secretary, but not in excess of one-half of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, nor less than 5 per centum per annum.”
+Subsec. (a)(3)(B). Pub. L. 101–624, § 1803(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Except as provided in paragraph (6), the interest rates on loans (other than guaranteed loans) under section 1934 of this title shall be as determined by the Secretary, but not in excess of one-half of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, nor less than 5 per centum per annum.”
 
-Subsec. (a)(3)(C). Pub. L. 101–624, § 2383(2), added subpar. (C).
+Subsec. (a)(3)(C). Pub. L. 101–624, § 2383(2), added subpar. (C).
 
-1988—Subsec. (c). Pub. L. 100–233, § 603, inserted provisions at end relating to use of same collateral to secure two or more loans made, insured, or guaranteed under this subchapter.
+1988—Subsec. (c). Pub. L. 100–233, § 603, inserted provisions at end relating to use of same collateral to secure two or more loans made, insured, or guaranteed under this subchapter.
 
-Subsec. (e). Pub. L. 100–233, § 604, added subsec. (e).
+Subsec. (e). Pub. L. 100–233, § 604, added subsec. (e).
 
-1985—Subsec. (a)(3)(A). Pub. L. 99–198, § 1304A, substituted “where the median household income of the persons to be served by such facility is below the higher of 80 per centum of the statewide nonmetropolitan median household income or the poverty line established by the Office of Management and Budget, as revised under section 9902(2) of title 42” for “where the median family income of the persons to be served by such facility is below the poverty line prescribed by the Office of Management and Budget as adjusted under section 2971d of title 42” and prescribed a 7 per centum per annum ceiling on loans for facilities that do not qualify for the 5 per centum per annum interest rate but are located in areas where the median household income of the persons to be served by the facility does not exceed 100 per centum of the statewide nonmetropolitan median household income.
+1985—Subsec. (a)(3)(A). Pub. L. 99–198, § 1304A, substituted “where the median household income of the persons to be served by such facility is below the higher of 80 per centum of the statewide nonmetropolitan median household income or the poverty line established by the Office of Management and Budget, as revised under section 9902(2) of title 42” for “where the median family income of the persons to be served by such facility is below the poverty line prescribed by the Office of Management and Budget as adjusted under section 2971d of title 42” and prescribed a 7 per centum per annum ceiling on loans for facilities that do not qualify for the 5 per centum per annum interest rate but are located in areas where the median household income of the persons to be served by the facility does not exceed 100 per centum of the statewide nonmetropolitan median household income.
 
-Subsec. (d). Pub. L. 99–198, § 1305, added subsec. (d).
+Subsec. (d). Pub. L. 99–198, § 1305, added subsec. (d).
 
 1981—Subsec. (a). Pub. L. 97–35 in par. (2) inserted reference to par. (6), in par. (3) designated existing provisions as subpar. (A), expanded provisions to take into account provisions of par. (6) and revised criteria for determination of applicable interest rates, and added subpar. (B), in par. (4) inserted exception for par. (6), and added par. (6).
 
-1978—Subsec. (a). Pub. L. 95–334, § 108(1), substituted provisions relating to determination of interest rates on loans, except as provided in pars. (3) to (5), as not in excess of the current average market yield on outstanding marketable obligations of the United States, with comparable remaining periods of maturity to the average maturities of such loans plus additional adjusted amounts, for provisions relating to establishment of interest rates on loans, except as specifically provided, but not in excess of 5 per centum per annum.
+1978—Subsec. (a). Pub. L. 95–334, § 108(1), substituted provisions relating to determination of interest rates on loans, except as provided in pars. (3) to (5), as not in excess of the current average market yield on outstanding marketable obligations of the United States, with comparable remaining periods of maturity to the average maturities of such loans plus additional adjusted amounts, for provisions relating to establishment of interest rates on loans, except as specifically provided, but not in excess of 5 per centum per annum.
 
-Subsecs. (b), (c). Pub. L. 95–334, § 108(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 95–334, § 108(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1972—Subsec. (a). Pub. L. 92–419, §§ 113, 114, prescribed interest rates on rural development other than guaranteed and guaranteed loans and escrow payment of taxes and insurance, respectively.
+1972—Subsec. (a). Pub. L. 92–419, §§ 113, 114, prescribed interest rates on rural development other than guaranteed and guaranteed loans and escrow payment of taxes and insurance, respectively.
 
-Subsec. (b). Pub. L. 92–419, § 128(b), substituted “may” for “shall” in second sentence.
+Subsec. (b). Pub. L. 92–419, § 128(b), substituted “may” for “shall” in second sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1697,7 +1697,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–328, title I, § 113(b), Sept. 29, 1994, 108 Stat. 2366, provided that:
+Pub. L. 103–328, title I, § 113(b), Sept. 29, 1994, 108 Stat. 2366, provided that:
 
 > **“(1) In general.—** Except as provided in paragraphs (2) and (3), the amendments made by subsection (a) [amending this section] shall apply to a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) in a State on or after the date of enactment of this Act [Sept. 29, 1994].
 
@@ -1707,17 +1707,17 @@ Pub. L. 103–328, title I, § 113(b), Sept. 29, 1994, 108 Stat. 2366, provide
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–552, title V, § 516(c)(2), Oct. 28, 1992, 106 Stat. 4137, provided that: “The amendments made by paragraph (1) of this subsection [amending this section] shall take effect at the same time as the amendments made by section 501(a) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1865) [amending section 1924 of this title] took effect.
+Pub. L. 102–552, title V, § 516(c)(2), Oct. 28, 1992, 106 Stat. 4137, provided that: “The amendments made by paragraph (1) of this subsection [amending this section] shall take effect at the same time as the amendments made by section 501(a) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1865) [amending section 1924 of this title] took effect.
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title I, § 160(c), Aug. 13, 1981, 95 Stat. 378, provided that: “The amendments made by this section [amending this section and section 1946 of this title] shall apply to loans approved after September 30, 1981.”
+Pub. L. 97–35, title I, § 160(c), Aug. 13, 1981, 95 Stat. 378, provided that: “The amendments made by this section [amending this section and section 1946 of this title] shall apply to loans approved after September 30, 1981.”
 
-### § 1927a. Loan interest rates charged by Farmers Home Administration; grant funds associated with loans
+### § 1927a. Loan interest rates charged by Farmers Home Administration; grant funds associated with loans
 
 Effective October 1, 1981, and thereafter, in the case of water and waste disposal and community facility borrowers, and effective November 12, 1983, and thereafter, in the case of housing and farm borrowers, upon request of the borrower, the interest rate charged by the Farmers Home Administration to such borrowers shall be the lower of the rates in effect at either the time of loan approval or loan closing and any Farmers Home Administration grant funds associated with such loans shall be set in amount based on the interest rate in effect at the time of loan approval.
 
-(Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 296; Pub. L. 100–233, title VI, § 615(b)(1)(A), Jan. 6, 1988, 101 Stat. 1681.)
+(Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 296; Pub. L. 100–233, title VI, § 615(b)(1)(A), Jan. 6, 1988, 101 Stat. 1681.)
 
 **Editorial Notes**
 
@@ -1733,9 +1733,9 @@ Section was enacted as part of the Supplemental Appropriations Act, 1985, and no
 
 **Applicability of 1988 Amendment**
 
-Pub. L. 100–233, title VI, § 615(b)(1)(B), Jan. 6, 1988, 101 Stat. 1682, provided that: “The amendment made by subparagraph (A) [amending this section] shall not apply to any note or other obligation sold under section 1001 of the Omnibus [Budget] Reconciliation Act of 1986 [Pub. L. 99–509, 7 U.S.C. 1929a note] on or before the date of the enactment of this paragraph [Jan. 6, 1988].”
+Pub. L. 100–233, title VI, § 615(b)(1)(B), Jan. 6, 1988, 101 Stat. 1682, provided that: “The amendment made by subparagraph (A) [amending this section] shall not apply to any note or other obligation sold under section 1001 of the Omnibus [Budget] Reconciliation Act of 1986 [Pub. L. 99–509, 7 U.S.C. 1929a note] on or before the date of the enactment of this paragraph [Jan. 6, 1988].”
 
-### § 1928. Full faith and credit
+### § 1928. Full faith and credit
 
 **(a) In general**
 
@@ -1747,7 +1747,7 @@ A contract of insurance or guarantee executed by the Secretary under this chapte
 
 **(2)** participates in or condones.
 
-(Pub. L. 87–128, title III, § 308, Aug. 8, 1961, 75 Stat. 308; Pub. L. 87–798, Oct. 11, 1962, 76 Stat. 908; Pub. L. 89–240, § 2(a), Oct. 7, 1965, 79 Stat. 932; Pub. L. 90–488, § 6, Aug. 15, 1968, 82 Stat. 770; Pub. L. 92–133, Oct. 5, 1971, 85 Stat. 364; Pub. L. 101–624, title XXIII, § 2388(a), Nov. 28, 1990, 104 Stat. 4052; Pub. L. 104–127, title VI, § 605, Apr. 4, 1996, 110 Stat. 1086.)
+(Pub. L. 87–128, title III, § 308, Aug. 8, 1961, 75 Stat. 308; Pub. L. 87–798, Oct. 11, 1962, 76 Stat. 908; Pub. L. 89–240, § 2(a), Oct. 7, 1965, 79 Stat. 932; Pub. L. 90–488, § 6, Aug. 15, 1968, 82 Stat. 770; Pub. L. 92–133, Oct. 5, 1971, 85 Stat. 364; Pub. L. 101–624, title XXIII, § 2388(a), Nov. 28, 1990, 104 Stat. 4052; Pub. L. 104–127, title VI, § 605, Apr. 4, 1996, 110 Stat. 1086.)
 
 **Editorial Notes**
 
@@ -1775,7 +1775,7 @@ Any contract of insurance executed by the Secretary under this subchapter shall 
 
 1962—Pub. L. 87–798 increased aggregate amount of loans that may be insured in any one year from $150,000,000 to $200,000,000.
 
-### § 1929. Agricultural Credit Insurance Fund
+### § 1929. Agricultural Credit Insurance Fund
 
 **(a) Revolving fund**
 
@@ -1863,13 +1863,13 @@ The Secretary shall deposit in the fund all or a portion, not to exceed one-half
 
 The Secretary may guarantee under this chapter a loan made under a State beginning farmer or rancher program, including a loan financed by the net proceeds of a qualified small issue agricultural bond for land or property described in section 144(a)(12)(B)(ii) of title 26.
 
-(Pub. L. 87–128, title III, § 309, Aug. 8, 1961, 75 Stat. 309; Pub. L. 87–703, title IV, § 401(3), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, § 2(b), (c), Oct. 7, 1965, 79 Stat. 932; Pub. L. 89–633, Oct. 8, 1966, 80 Stat. 879; Pub. L. 90–488, § 7, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, § 115, Aug. 30, 1972, 86 Stat. 660; Pub. L. 95–113, title XV, § 1510(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, § 109(a), Aug. 4, 1978, 92 Stat. 423; Pub. L. 101–624, title XXIII, § 2302(a)(2), Nov. 28, 1990, 104 Stat. 3980; Pub. L. 102–554, §§ 4, 5(a), Oct. 28, 1992, 106 Stat. 4143; Pub. L. 104–127, title VI, §§ 606, 661(b), title VII, §§ 744, 749(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1125, 1129; Pub. L. 107–171, title V, §§ 5003, 5004, May 13, 2002, 116 Stat. 342.)
+(Pub. L. 87–128, title III, § 309, Aug. 8, 1961, 75 Stat. 309; Pub. L. 87–703, title IV, § 401(3), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, § 2(b), (c), Oct. 7, 1965, 79 Stat. 932; Pub. L. 89–633, Oct. 8, 1966, 80 Stat. 879; Pub. L. 90–488, § 7, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, § 115, Aug. 30, 1972, 86 Stat. 660; Pub. L. 95–113, title XV, § 1510(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, § 109(a), Aug. 4, 1978, 92 Stat. 423; Pub. L. 101–624, title XXIII, § 2302(a)(2), Nov. 28, 1990, 104 Stat. 3980; Pub. L. 102–554, §§ 4, 5(a), Oct. 28, 1992, 106 Stat. 4143; Pub. L. 104–127, title VI, §§ 606, 661(b), title VII, §§ 744, 749(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1125, 1129; Pub. L. 107–171, title V, §§ 5003, 5004, May 13, 2002, 116 Stat. 342.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 11(a) of the Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, § 5, 60 Stat. 1072, which was classified to section 1005a of this title and was repealed by section 341(a) of Pub. L. 87–128.
+Section 11(a) of the Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, § 5, 60 Stat. 1072, which was classified to section 1005a of this title and was repealed by section 341(a) of Pub. L. 87–128.
 
 This chapter, referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
@@ -1877,27 +1877,27 @@ Section 1988(c) of this title (before the amendment made by section 749(a)(1) of
 
 **Codification**
 
-In subsec. (c), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-2002—Subsec. (h)(4). Pub. L. 107–171, § 5003(1), substituted “paragraphs (5), (6), and (7)” for “paragraphs (5) and (6)”.
+2002—Subsec. (h)(4). Pub. L. 107–171, § 5003(1), substituted “paragraphs (5), (6), and (7)” for “paragraphs (5) and (6)”.
 
-Subsec. (h)(7). Pub. L. 107–171, § 5003(2), added par. (7).
+Subsec. (h)(7). Pub. L. 107–171, § 5003(2), added par. (7).
 
-Subsec. (j). Pub. L. 107–171, § 5004, added subsec. (j).
+Subsec. (j). Pub. L. 107–171, § 5004, added subsec. (j).
 
-1996—Subsec. (f). Pub. L. 104–127, § 744, redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “to make loans which could be insured under this subchapter whenever the Secretary has reasonable assurance that they can be sold without undue delay, and may sell and insure such loans;”.
+1996—Subsec. (f). Pub. L. 104–127, § 744, redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “to make loans which could be insured under this subchapter whenever the Secretary has reasonable assurance that they can be sold without undue delay, and may sell and insure such loans;”.
 
-Subsec. (g)(1). Pub. L. 104–127, § 749(b)(1), inserted “(before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996)” after “section 1988(c) of this title”.
+Subsec. (g)(1). Pub. L. 104–127, § 749(b)(1), inserted “(before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996)” after “section 1988(c) of this title”.
 
-Pub. L. 104–127, § 661(b), struck out “section 1928,” after “provisions of this section,”.
+Pub. L. 104–127, § 661(b), struck out “section 1928,” after “provisions of this section,”.
 
-Subsec. (h)(4) to (6). Pub. L. 104–127, § 606, added pars. (4) to (6).
+Subsec. (h)(4) to (6). Pub. L. 104–127, § 606, added pars. (4) to (6).
 
-1992—Subsec. (h). Pub. L. 102–554, § 4, designated existing provisions as par. (1) and added pars. (2) and (3).
+1992—Subsec. (h). Pub. L. 102–554, § 4, designated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (i). Pub. L. 102–554, § 5(a), added subsec. (i).
+Subsec. (i). Pub. L. 102–554, § 5(a), added subsec. (i).
 
 1990—Subsec. (e). Pub. L. 101–624 inserted “and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency” and substituted “expenses for such agency” for “expenses”.
 
@@ -1905,21 +1905,21 @@ Subsec. (i). Pub. L. 102–554, § 5(a), added subsec. (i).
 
 1977—Subsec. (f)(3). Pub. L. 95–113 substituted “any deferred or defaulted installment” for “any defaulted installment”.
 
-1972—Subsec. (f)(1). Pub. L. 92–419, § 115(a)(1), substituted “$500,000,000” for “$100,000,000”.
+1972—Subsec. (f)(1). Pub. L. 92–419, § 115(a)(1), substituted “$500,000,000” for “$100,000,000”.
 
-Subsec. (f)(2). Pub. L. 92–419, § 115(a)(2), substituted “amounts” for “the interest” and “payments” for “prepayments” in three places and inserted “or until the next agreed annual or semi-annual remittance date” after “until due”.
+Subsec. (f)(2). Pub. L. 92–419, § 115(a)(2), substituted “amounts” for “the interest” and “payments” for “prepayments” in three places and inserted “or until the next agreed annual or semi-annual remittance date” after “until due”.
 
-Subsec. (f)(5). Pub. L. 92–419, § 115(a)(3), (4), substituted “connection with insured loans, including the difference between interest payable to borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance” for “section 1985(a) of this title in connection with insured loans,” and provided payment for contract services.
+Subsec. (f)(5). Pub. L. 92–419, § 115(a)(3), (4), substituted “connection with insured loans, including the difference between interest payable to borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance” for “section 1985(a) of this title in connection with insured loans,” and provided payment for contract services.
 
-Subsecs. (g), (h). Pub. L. 92–419, § 115(b), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 92–419, § 115(b), added subsecs. (g) and (h).
 
 1968—Subsec. (f)(1). Pub. L. 90–488 increased from $50,000,000 to $100,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
 
 1966—Subsec. (f)(2). Pub. L. 89–633 substituted “until due” for “until the due date of the annual installment”.
 
-1965—Subsec. (e). Pub. L. 89–240, § 2(b), substituted “all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance of loans; and any remainder of any such charge” for “such portion of the charge collected in connection with the insurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge”.
+1965—Subsec. (e). Pub. L. 89–240, § 2(b), substituted “all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan of any charge collected in connection with the insurance of loans; and any remainder of any such charge” for “such portion of the charge collected in connection with the insurance of loans at least equal to a rate of one-half of 1 per centum per annum on the outstanding principal obligations and the remainder of such charge”.
 
-Subsec. (f)(1). Pub. L. 89–240, § 2(c), substituted “$50,000,000” for “$25,000,000”.
+Subsec. (f)(1). Pub. L. 89–240, § 2(c), substituted “$50,000,000” for “$25,000,000”.
 
 1962—Subsec. (f)(1). Pub. L. 87–703 increased from $10,000,000 to $25,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
 
@@ -1935,7 +1935,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 **Advisory Committee on Beginning Farmers and Ranchers**
 
-Pub. L. 102–554, § 5(b), Oct. 28, 1992, 106 Stat. 4143, as amended by Pub. L. 110–234, title VII, § 7511(c)(4), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(4), June 18, 2008, 122 Stat. 1664, 2029, provided that:
+Pub. L. 102–554, § 5(b), Oct. 28, 1992, 106 Stat. 4143, as amended by Pub. L. 110–234, title VII, § 7511(c)(4), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(4), June 18, 2008, 122 Stat. 1664, 2029, provided that:
 
 > **“(1) Establishment; purpose.—** Not later than 18 months after the date of enactment of this Act [Oct. 28, 1992], the Secretary of Agriculture shall establish an advisory committee, to be known as the ‘Advisory Committee on Beginning Farmers and Ranchers’, which shall provide advice to the Secretary on—
 
@@ -1967,13 +1967,13 @@ Pub. L. 102–554, § 5(b), Oct. 28, 1992, 106 Stat. 4143, as amended by Pub. 
 
 **Limitation on Sales From Agricultural Credit Insurance Fund**
 
-Pub. L. 99–509, title I, § 1002, Oct. 21, 1986, 100 Stat. 1875, provided that: “During fiscal years 1987 through 1989, no note shall be sold out of the Agricultural Credit Insurance Fund, except in connection with transactions with the Secretary of the Treasury, without prior approval by Congress.”
+Pub. L. 99–509, title I, § 1002, Oct. 21, 1986, 100 Stat. 1875, provided that: “During fiscal years 1987 through 1989, no note shall be sold out of the Agricultural Credit Insurance Fund, except in connection with transactions with the Secretary of the Treasury, without prior approval by Congress.”
 
 **Loans to Indians**
 
 Authority of the Secretary of Agriculture to make loans to Indian tribes and tribal corporations to acquire land within reservations, see sections 5136 to 5143 of Title 25, Indians.
 
-### § 1929–1. Level of loan programs under Agricultural Credit Insurance Fund
+### § 1929–1. Level of loan programs under Agricultural Credit Insurance Fund
 
 On and after October 28, 1991, no funds in this Act or any other Act shall be available to carry out loan programs under the Agricultural Credit Insurance Fund at levels other than those provided for in advance in appropriations Acts.
 
@@ -1985,7 +1985,7 @@ On and after October 28, 1991, no funds in this Act or any other Act shall be av
 
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1992, and not as part of the Consolidated Farm and Rural Development Act which comprises this chapter.
 
-### § 1929a. Rural Development Insurance Fund
+### § 1929a. Rural Development Insurance Fund
 
 **(a) Creation; revolving fund; rural development loans**
 
@@ -2031,7 +2031,7 @@ The Secretary shall deposit in the Insurance Fund any charges collected for loan
 
 When any loan is sold out of the Insurance Fund as an insured loan, the interest or other income thereon paid to an insured holder shall be included in gross income for purposes of chapter 1 of title 26.
 
-(Pub. L. 87–128, title III, § 309A, as added Pub. L. 92–419, title I, § 116, Aug. 30, 1972, 86 Stat. 661; amended Pub. L. 95–113, title XV, § 1510(b), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §§ 107(b), 110, Aug. 4, 1978, 92 Stat. 422, 424; Pub. L. 99–500, title III, § 381(b), Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, § 381(b), Oct. 30, 1986, 100 Stat. 3341–372; Pub. L. 99–509, title I, § 1001(b), Oct. 21, 1986, 100 Stat. 1874; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–127, title VI, § 661(c), title VII, §§ 741(b), 745, Apr. 4, 1996, 110 Stat. 1106, 1124, 1125; Pub. L. 115–334, title VI, § 6701(b)(1), Dec. 20, 2018, 132 Stat. 4778.)
+(Pub. L. 87–128, title III, § 309A, as added Pub. L. 92–419, title I, § 116, Aug. 30, 1972, 86 Stat. 661; amended Pub. L. 95–113, title XV, § 1510(b), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §§ 107(b), 110, Aug. 4, 1978, 92 Stat. 422, 424; Pub. L. 99–500, title III, § 381(b), Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, § 381(b), Oct. 30, 1986, 100 Stat. 3341–372; Pub. L. 99–509, title I, § 1001(b), Oct. 21, 1986, 100 Stat. 1874; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–127, title VI, § 661(c), title VII, §§ 741(b), 745, Apr. 4, 1996, 110 Stat. 1106, 1124, 1125; Pub. L. 115–334, title VI, § 6701(b)(1), Dec. 20, 2018, 132 Stat. 4778.)
 
 **Editorial Notes**
 
@@ -2045,27 +2045,27 @@ This chapter, referred to in subsecs. (b), (d), (e), (f), and (g)(5), (7), was i
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
-In subsec. (d), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
 2018—Subsec. (b). Pub. L. 115–334 struck out “and section 1928 of this title” after “provisions of this section”.
 
-1996—Subsec. (a). Pub. L. 104–127, § 741(b), struck out “, 1926(a)(14),” after “1926(a)(1)”.
+1996—Subsec. (a). Pub. L. 104–127, § 741(b), struck out “, 1926(a)(14),” after “1926(a)(1)”.
 
-Pub. L. 104–127, § 661(c)(1), substituted “1926(a)(1), 1926(a)(14), and 1932 of this title” for “1924(b), 1926(a)(1), 1926(a)(14), 1932, and 1942(b) of this title”.
+Pub. L. 104–127, § 661(c)(1), substituted “1926(a)(1), 1926(a)(14), and 1932 of this title” for “1924(b), 1926(a)(1), 1926(a)(14), 1932, and 1942(b) of this title”.
 
-Subsec. (b). Pub. L. 104–127, § 661(c)(2), which directed amendment of the first sentence of subsection (b) by striking “and section 1928 of this title”, could not be executed because “and section 1928 of this title” did not appear in such sentence. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 104–127. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
+Subsec. (b). Pub. L. 104–127, § 661(c)(2), which directed amendment of the first sentence of subsection (b) by striking “and section 1928 of this title”, could not be executed because “and section 1928 of this title” did not appear in such sentence. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 104–127. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
-Subsec. (g). Pub. L. 104–127, § 745, redesignated pars. (2) to (8) as (1) to (7), respectively, and struck out former par. (1) which read as follows: “to make rural development loans which could be insured under this chapter whenever he has a reasonable assurance that they can be sold without undue delay, and he may sell and insure such loans;”.
+Subsec. (g). Pub. L. 104–127, § 745, redesignated pars. (2) to (8) as (1) to (7), respectively, and struck out former par. (1) which read as follows: “to make rural development loans which could be insured under this chapter whenever he has a reasonable assurance that they can be sold without undue delay, and he may sell and insure such loans;”.
 
-1986—Subsec. (e). Pub. L. 99–500, Pub. L. 99–509, and Pub. L. 99–591 amended second sentence of subsec. (e) identically, substituting “Notes and other obligations” for “Notes” and substituting “, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes or other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilities that might have been imposed had the borrower remained indebted to the Secretary.” for period at end.
+1986—Subsec. (e). Pub. L. 99–500, Pub. L. 99–509, and Pub. L. 99–591 amended second sentence of subsec. (e) identically, substituting “Notes and other obligations” for “Notes” and substituting “, including sale on a nonrecourse basis. The Secretary and any subsequent purchaser of such notes or other obligations sold by the Secretary on a nonrecourse basis shall be relieved of any responsibilities that might have been imposed had the borrower remained indebted to the Secretary.” for period at end.
 
 Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1978—Subsec. (a). Pub. L. 95–334, § 107(b), inserted reference to section 1926(a)(14) of this title.
+1978—Subsec. (a). Pub. L. 95–334, § 107(b), inserted reference to section 1926(a)(14) of this title.
 
-Subsec. (g)(8). Pub. L. 95–334, § 110, substituted provisions relating to payment of costs of administration necessary to insure loans under subsec. (a) of this section, make grants under sections 1926(a) and 1932 of this title, and otherwise carry out such programs for provisions relating to payment of costs of administration of the rural loan development program.
+Subsec. (g)(8). Pub. L. 95–334, § 110, substituted provisions relating to payment of costs of administration necessary to insure loans under subsec. (a) of this section, make grants under sections 1926(a) and 1932 of this title, and otherwise carry out such programs for provisions relating to payment of costs of administration of the rural loan development program.
 
 1977—Subsec. (g)(3). Pub. L. 95–113 substituted “any deferred or defaulted installment” for “any defaulted installment”.
 
@@ -2073,7 +2073,7 @@ Subsec. (g)(8). Pub. L. 95–334, § 110, substituted provisions relating to p
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title VI, § 6701(b)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 661(c)(2) of the Federal Agricultural Improvement and Reform Act of 1996 (Public Law 104–127).”
+Pub. L. 115–334, title VI, § 6701(b)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 661(c)(2) of the Federal Agricultural Improvement and Reform Act of 1996 (Public Law 104–127).”
 
 **Effective Date of 1977 Amendment**
 
@@ -2081,7 +2081,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 **Disaster Assistance for Rural Business Enterprises**
 
-Pub. L. 101–82, title IV, § 401, Aug. 14, 1989, 103 Stat. 583, as amended by Pub. L. 101–220, § 9(d), Dec. 12, 1989, 103 Stat. 1882, provided that:
+Pub. L. 101–82, title IV, § 401, Aug. 14, 1989, 103 Stat. 583, as amended by Pub. L. 101–220, § 9(d), Dec. 12, 1989, 103 Stat. 1882, provided that:
 
 > **“(a) Loan Guarantees.—** The Secretary of Agriculture shall guarantee loans made in rural areas to—
 
@@ -2105,11 +2105,11 @@ Pub. L. 101–82, title IV, § 401, Aug. 14, 1989, 103 Stat. 583, as amended b
 
 Similar provisions were contained in the following prior act:
 
-Pub. L. 100–387, title III, § 331, Aug. 11, 1988, 102 Stat. 951.
+Pub. L. 100–387, title III, § 331, Aug. 11, 1988, 102 Stat. 951.
 
 **Sale of Rural Development Notes and Other Obligations**
 
-Pub. L. 99–509, title I, § 1001, Oct. 21, 1986, 100 Stat. 1874, as amended by Pub. L. 100–233, title VIII, § 803, Jan. 6, 1988, 101 Stat. 1714; Pub. L. 101–220, § 12, Dec. 12, 1989, 103 Stat. 1883, provided that:
+Pub. L. 99–509, title I, § 1001, Oct. 21, 1986, 100 Stat. 1874, as amended by Pub. L. 100–233, title VIII, § 803, Jan. 6, 1988, 101 Stat. 1714; Pub. L. 101–220, § 12, Dec. 12, 1989, 103 Stat. 1883, provided that:
 
 > **“(a) Sales Required.—** The Secretary of Agriculture, under such terms as the Secretary may prescribe, shall sell notes and other obligations held in the Rural Development Insurance Fund established under section 309A of the Consolidated Farm and Rural Development Act [7 U.S.C. 1929a] in such amounts as to realize net proceeds to the Government of not less than—
 
@@ -2167,7 +2167,7 @@ Pub. L. 99–509, title I, § 1001, Oct. 21, 1986, 100 Stat. 1874, as amended 
 
 > **“(3)** The opportunity to purchase any such note or other obligation shall be held open, under the policies and procedures in effect under subsections (f)(2) and (f)(3) immediately prior to May 9, 1989, for 150 days after the date of enactment of this subsection [Dec. 12, 1989]. The Secretary shall not require any further good faith deposit from issuers who qualify under this subsection. The Secretary shall notify eligible issuers of the opportunity afforded under this subsection within 30 days after the date of enactment of this subsection and may require such issuers to express an intention to purchase their note or other obligation by a date certain.”
 
-Pub. L. 99–500, title III, § 381, Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, § 381, Oct. 30, 1986, 100 Stat. 3341–372, provided that:
+Pub. L. 99–500, title III, § 381, Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, § 381, Oct. 30, 1986, 100 Stat. 3341–372, provided that:
 
 > **“(a) In General.—** The Secretary of Agriculture shall, under such terms as the Secretary may prescribe, sell notes and other obligations held in the Rural Development Insurance Fund established under section 309A of the Consolidated Farm and Rural Development Act (7 U.S.C. 1929a) in such amounts as to realize net proceeds of not less than—
 
@@ -2183,11 +2183,11 @@ Pub. L. 99–500, title III, § 381, Oct. 18, 1986, 100 Stat. 1783–369, and 
 
 > **“(c) Farm Credit System Institutions.—** Notwithstanding any other provision of law, institutions of the Farm Credit System operating under the Farm Credit Act of 1971 (12 U.S.C. 2001) shall be eligible to purchase notes and other obligations held in the Rural Development Insurance Fund and to service (including the extension of additional credit and all other actions necessary to preserve, conserve, or protect the institutions’ interests in such notes and other obligations), collect, and dispose of such notes and other obligations, subject only to such terms and conditions as may be agreed to by the Secretary of Agriculture and such purchasing institutions and as are approved by the Farm Credit Administration.”
 
-### § 1929b. Purchase of guaranteed portions of loans; terms and conditions; exercise of authorities
+### § 1929b. Purchase of guaranteed portions of loans; terms and conditions; exercise of authorities
 
 The Secretary may purchase, on such terms and conditions as the Secretary deems appropriate, the guaranteed portion of any loan guaranteed under this chapter: *Provided*, That the Secretary may not pay for any such guaranteed portion of a loan in excess of an amount equal to the unpaid principal balance and accrued interest on the guaranteed portion of the loan. The Secretary may use for such purchases funds from the Rural Development Insurance Fund with respect to rural development loans as defined in section 1929a(a) of this title and funds from the Agricultural Credit Insurance Fund with respect to all other loans under this chapter. This authority may be exercised only if the Secretary determines that an adequate secondary market is not available in the private sector.
 
-(Pub. L. 87–128, title III, § 309B, as added Pub. L. 95–334, title I, § 111, Aug. 4, 1978, 92 Stat. 424.)
+(Pub. L. 87–128, title III, § 309B, as added Pub. L. 95–334, title I, § 111, Aug. 4, 1978, 92 Stat. 424.)
 
 **Editorial Notes**
 
@@ -2195,17 +2195,17 @@ The Secretary may purchase, on such terms and conditions as the Secretary deems 
 
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-### § 1930. Continued availability of appropriated funds for direct real estate loans to farmers and ranchers
+### § 1930. Continued availability of appropriated funds for direct real estate loans to farmers and ranchers
 
 Funds appropriated for the purpose of making direct real estate loans to farmers and ranchers under this subchapter shall remain available until expended.
 
-(Pub. L. 87–128, title III, § 310, as added Pub. L. 91–524, title VIII, § 806(b), Nov. 30, 1970, 84 Stat. 1383.)
+(Pub. L. 87–128, title III, § 310, as added Pub. L. 91–524, title VIII, § 806(b), Nov. 30, 1970, 84 Stat. 1383.)
 
-### § 1931. Repealed. Pub. L. 104–127, title VII, § 746, Apr. 4, 1996, 110 Stat. 1125
+### § 1931. Repealed. Pub. L. 104–127, title VII, § 746, Apr. 4, 1996, 110 Stat. 1125
 
-Section, Pub. L. 87–128, title III, § 310A, as added Pub. L. 92–419, title I, § 117, Aug. 30, 1972, 86 Stat. 663, related to insured watershed and resource conservation and development loans.
+Section, Pub. L. 87–128, title III, § 310A, as added Pub. L. 92–419, title I, § 117, Aug. 30, 1972, 86 Stat. 663, related to insured watershed and resource conservation and development loans.
 
-### § 1932. Assistance for rural entities
+### § 1932. Assistance for rural entities
 
 **(a) Loans to private business enterprises**
 
@@ -2351,7 +2351,7 @@ The goals of a center funded under this subsection shall be to facilitate the cr
 
 **(vi)** Programs providing for the coordination of services and sharing of information among the center.1
 
-<sup>1</sup>  So in original. Probably should be “centers.”
+<sup>1</sup> So in original. Probably should be “centers.”
 
 **(D)** A description of the contributions that the activities are likely to make to the improvement of the economic conditions of the rural areas for which the center will provide services.
 
@@ -2435,7 +2435,7 @@ Not later than 90 days after February 7, 2014, the Secretary shall coordinate an
 
 There are authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2014 through 2023.
 
-**(f) Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(B), Dec. 20, 2018, 132 Stat. 4775**
+**(f) Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(B), Dec. 20, 2018, 132 Stat. 4775**
 
 **(g) Business and industry direct and guaranteed loans**
 
@@ -2587,9 +2587,9 @@ The Secretary may guarantee loans made under subsection (a) to finance the issua
 
 **(1) Definition of national nonprofit agricultural assistance institution** In this subsection, the term “national nonprofit agricultural assistance institution” means an organization that—
 
-**(A)** is described in section 501(c)(3) of title 26 and exempt from taxation under 2
+**(A)** is described in section 501(c)(3) of title 26 and exempt from taxation under 2
 
-<sup>2</sup>  So in original. The word “section” probably should appear.
+<sup>2</sup> So in original. The word “section” probably should appear.
 
 501(a) of that title;
 
@@ -2629,23 +2629,23 @@ There are authorized to be appropriated to carry out this subsection $5,000,000 
 
 Effective beginning on the date of enactment of this subsection through September 30, 2023, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
 
-(Pub. L. 87–128, title III, § 310B, as added Pub. L. 92–419, title I, § 118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, § 817, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, § 1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, § 112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, § 5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, § 1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, § 2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, § 1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§ 2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, § 701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, § 516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, § 6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§ 635(b), 661(d), title VII, §§ 705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, § 731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§ 6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§ 6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, § 4(a), title VI, §§ 6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931; Pub. L. 113–79, title VI, §§ 6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, 128 Stat. 843–845; Pub. L. 113–188, title I, § 101(c), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title VI, §§ 6410–6415, 6601(a)(1)(B), 6701(c), (d)(1), Dec. 20, 2018, 132 Stat. 4762, 4775, 4778.)
+(Pub. L. 87–128, title III, § 310B, as added Pub. L. 92–419, title I, § 118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, § 817, as added Pub. L. 93–86, § 1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, § 1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, § 112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, § 5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, § 1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, § 2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, § 1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§ 2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, § 701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, § 516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, § 6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§ 635(b), 661(d), title VII, §§ 705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, § 731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§ 6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§ 6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, § 4(a), title VI, §§ 6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931; Pub. L. 113–79, title VI, §§ 6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, 128 Stat. 843–845; Pub. L. 113–188, title I, § 101(c), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title VI, §§ 6410–6415, 6601(a)(1)(B), 6701(c), (d)(1), Dec. 20, 2018, 132 Stat. 4762, 4775, 4778.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(1)(B), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(1)(B), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (d)(5), (7), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-Title V of the Housing Act of 1949, referred to in subsec. (d)(7), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, which is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the code, see References in Text note set out under section 1441 of Title 42 and Tables.
+Title V of the Housing Act of 1949, referred to in subsec. (d)(7), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, which is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the code, see References in Text note set out under section 1441 of Title 42 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (j), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 **Codification**
 
-In subsec. (d)(7), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921 [31 U.S.C. 1 et seq.]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d)(7), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921 [31 U.S.C. 1 et seq.]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
 
@@ -2655,93 +2655,93 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (b)(2). Pub. L. 115–334, § 6410, substituted “2023” for “2018”.
+2018—Subsec. (b)(2). Pub. L. 115–334, § 6410, substituted “2023” for “2018”.
 
-Subsec. (c)(3)(A)(v). Pub. L. 115–334, § 6701(c), substituted “markets; or” for “markets; and”.
+Subsec. (c)(3)(A)(v). Pub. L. 115–334, § 6701(c), substituted “markets; or” for “markets; and”.
 
-Subsec. (c)(4)(A). Pub. L. 115–334, § 6411, substituted “2023” for “2018”.
+Subsec. (c)(4)(A). Pub. L. 115–334, § 6411, substituted “2023” for “2018”.
 
-Subsec. (e)(5)(F). Pub. L. 115–334, § 6701(d)(1), inserted before period at end “, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))”.
+Subsec. (e)(5)(F). Pub. L. 115–334, § 6701(d)(1), inserted before period at end “, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))”.
 
-Subsec. (e)(10). Pub. L. 115–334, § 6412(a)(1), inserted “(including research and analysis based on data from the latest available Economic Census conducted by the Bureau of the Census)” after “conduct research”.
+Subsec. (e)(10). Pub. L. 115–334, § 6412(a)(1), inserted “(including research and analysis based on data from the latest available Economic Census conducted by the Bureau of the Census)” after “conduct research”.
 
-Subsec. (e)(11)(B)(i). Pub. L. 115–334, § 6412(b), substituted “(13)” for “(12)” in introductory provisions.
+Subsec. (e)(11)(B)(i). Pub. L. 115–334, § 6412(b), substituted “(13)” for “(12)” in introductory provisions.
 
-Subsec. (e)(13). Pub. L. 115–334, § 6412(a)(2), substituted “2023” for “2018”.
+Subsec. (e)(13). Pub. L. 115–334, § 6412(a)(2), substituted “2023” for “2018”.
 
-Subsec. (f). Pub. L. 115–334, § 6601(a)(1)(B), struck out subsec. (f) which related to grants to broadcasting systems.
+Subsec. (f). Pub. L. 115–334, § 6601(a)(1)(B), struck out subsec. (f) which related to grants to broadcasting systems.
 
-Subsec. (g)(9)(B)(iv)(I). Pub. L. 115–334, § 6413, substituted “2023” for “2018”.
+Subsec. (g)(9)(B)(iv)(I). Pub. L. 115–334, § 6413, substituted “2023” for “2018”.
 
-Subsec. (i)(4). Pub. L. 115–334, § 6414, substituted “2023” for “2018”.
+Subsec. (i)(4). Pub. L. 115–334, § 6414, substituted “2023” for “2018”.
 
-Subsec. (j). Pub. L. 115–334, § 6415, substituted “2023” for “2018”.
+Subsec. (j). Pub. L. 115–334, § 6415, substituted “2023” for “2018”.
 
-2014—Subsec. (a)(2)(A). Pub. L. 113–79, § 6010(a), inserted “(including through the financing of working capital)” after “employment”.
+2014—Subsec. (a)(2)(A). Pub. L. 113–79, § 6010(a), inserted “(including through the financing of working capital)” after “employment”.
 
-Subsec. (b). Pub. L. 113–79, § 6011, designated existing provisions as par. (1), inserted heading, and added par. (2).
+Subsec. (b). Pub. L. 113–79, § 6011, designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (c). Pub. L. 113–79, § 6012(a), added subsec. (c) and struck out former subsec. (c) which related to rural business enterprise grants.
+Subsec. (c). Pub. L. 113–79, § 6012(a), added subsec. (c) and struck out former subsec. (c) which related to rural business enterprise grants.
 
-Subsec. (e)(12), (13). Pub. L. 113–79, § 6013, added par. (12), redesignated former par. (12) as (13), and substituted “$40,000,000 for each of fiscal years 2014 through 2018” for “$50,000,000 for each of fiscal years 2008 through 2012”.
+Subsec. (e)(12), (13). Pub. L. 113–79, § 6013, added par. (12), redesignated former par. (12) as (13), and substituted “$40,000,000 for each of fiscal years 2014 through 2018” for “$50,000,000 for each of fiscal years 2008 through 2012”.
 
-Subsec. (g)(7). Pub. L. 113–79, § 6010(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (g)(7). Pub. L. 113–79, § 6010(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 Subsec. (g)(9)(B)(iv), (v). Pub. L. 113–188 redesignated cl. (v) as (iv) and struck out former cl. (iv) which required annual reports describing projects carried out using loans or loan guarantees made under cl. (i).
 
-Subsec. (g)(9)(B)(v)(I). Pub. L. 113–79, § 6014, substituted “2018” for “2012”.
+Subsec. (g)(9)(B)(v)(I). Pub. L. 113–79, § 6014, substituted “2018” for “2012”.
 
-Subsec. (i)(4). Pub. L. 113–79, § 6015, substituted “2018” for “2012”.
+Subsec. (i)(4). Pub. L. 113–79, § 6015, substituted “2018” for “2012”.
 
-Subsec. (j). Pub. L. 113–79, § 6016, substituted “2018” for “2012”.
+Subsec. (j). Pub. L. 113–79, § 6016, substituted “2018” for “2012”.
 
-2008—Pub. L. 110–246, § 6012(a)(1), inserted section catchline.
+2008—Pub. L. 110–246, § 6012(a)(1), inserted section catchline.
 
-Subsec. (a). Pub. L. 110–246, § 6012(a)(1), (2), inserted subsec. heading, inserted par. (1) heading and introductory provisions, designated former fourth sentence as subpar. (A), inserted subpar. heading, substituted “The” for “As used in this subsection, the”, designated former second sentence as subpar. (B), inserted subpar. heading, substituted “The” for “For the purposes of this subsection, the”, designated former first sentence as par. (2), inserted par. heading, in introductory provisions, substituted “The Secretary may” for “The Secretary may also” and inserted “and private investment funds that invest primarily in cooperative organizations” after “nonprofit”, redesignated former cls. (1) to (4) as subpars. (A) to (D), respectively, designated former third sentence as par. (3), inserted par. heading, substituted “Loans described in paragraph (2)” for “Such loans”, and designated former fifth sentence as par. (4) and inserted par. heading.
+Subsec. (a). Pub. L. 110–246, § 6012(a)(1), (2), inserted subsec. heading, inserted par. (1) heading and introductory provisions, designated former fourth sentence as subpar. (A), inserted subpar. heading, substituted “The” for “As used in this subsection, the”, designated former second sentence as subpar. (B), inserted subpar. heading, substituted “The” for “For the purposes of this subsection, the”, designated former first sentence as par. (2), inserted par. heading, in introductory provisions, substituted “The Secretary may” for “The Secretary may also” and inserted “and private investment funds that invest primarily in cooperative organizations” after “nonprofit”, redesignated former cls. (1) to (4) as subpars. (A) to (D), respectively, designated former third sentence as par. (3), inserted par. heading, substituted “Loans described in paragraph (2)” for “Such loans”, and designated former fifth sentence as par. (4) and inserted par. heading.
 
-Subsec. (e)(5)(A). Pub. L. 110–246, § 6013(a)(1), substituted “carrying out activities to promote and assist the development of cooperatively and mutually owned businesses” for “administering a nationally coordinated, regionally or State-wide operated project”.
+Subsec. (e)(5)(A). Pub. L. 110–246, § 6013(a)(1), substituted “carrying out activities to promote and assist the development of cooperatively and mutually owned businesses” for “administering a nationally coordinated, regionally or State-wide operated project”.
 
-Subsec. (e)(5)(B). Pub. L. 110–246, § 6013(a)(2), inserted “to promote and assist the development of cooperatively and mutually owned businesses” before semicolon at end.
+Subsec. (e)(5)(B). Pub. L. 110–246, § 6013(a)(2), inserted “to promote and assist the development of cooperatively and mutually owned businesses” before semicolon at end.
 
-Subsec. (e)(5)(D), (E). Pub. L. 110–246, § 6013(a)(3)–(6), added subpar. (E), redesignated former subpar. (E) as (D), struck out “and” at end, and struck out former subpar. (D) which read as follows: “demonstrate the ability to create horizontal linkages among businesses within and among various sectors in rural areas of the United States and vertical linkages to domestic and international markets;”.
+Subsec. (e)(5)(D), (E). Pub. L. 110–246, § 6013(a)(3)–(6), added subpar. (E), redesignated former subpar. (E) as (D), struck out “and” at end, and struck out former subpar. (D) which read as follows: “demonstrate the ability to create horizontal linkages among businesses within and among various sectors in rural areas of the United States and vertical linkages to domestic and international markets;”.
 
-Subsec. (e)(5)(F). Pub. L. 110–246, § 6013(a)(7), struck out “greater than” before “a 25 percent”.
+Subsec. (e)(5)(F). Pub. L. 110–246, § 6013(a)(7), struck out “greater than” before “a 25 percent”.
 
-Subsec. (e)(6). Pub. L. 110–246, § 6013(b), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “The Secretary shall make grants under this subsection for a period of 1 year. The Secretary shall evaluate programs receiving assistance under this subsection. If the Secretary determines it to be in the best interest of the program, the Secretary may award an additional grant to the program for the immediately succeeding year without application for the grant.”
+Subsec. (e)(6). Pub. L. 110–246, § 6013(b), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “The Secretary shall make grants under this subsection for a period of 1 year. The Secretary shall evaluate programs receiving assistance under this subsection. If the Secretary determines it to be in the best interest of the program, the Secretary may award an additional grant to the program for the immediately succeeding year without application for the grant.”
 
-Subsec. (e)(7) to (12). Pub. L. 110–246, § 6013(c)–(f), added pars. (7), (10), and (11), redesignated former pars. (7) to (9) as (8), (9), and (12), respectively, and in par. (12), substituted “2008 through 2012” for “1996 through 2007”.
+Subsec. (e)(7) to (12). Pub. L. 110–246, § 6013(c)–(f), added pars. (7), (10), and (11), redesignated former pars. (7) to (9) as (8), (9), and (12), respectively, and in par. (12), substituted “2008 through 2012” for “1996 through 2007”.
 
-Subsec. (f)(3). Pub. L. 110–246, § 6014, substituted “2008 through 2012” for “2002 through 2007”.
+Subsec. (f)(3). Pub. L. 110–246, § 6014, substituted “2008 through 2012” for “2002 through 2007”.
 
-Subsec. (g)(1). Pub. L. 110–246, § 6012(a)(3)(A), (b)(2), substituted “subsection (a)(2)(A)” for “subsection (a)(1)” and inserted “, including guarantees described in paragraph (3)(A)(ii)” before period at end.
+Subsec. (g)(1). Pub. L. 110–246, § 6012(a)(3)(A), (b)(2), substituted “subsection (a)(2)(A)” for “subsection (a)(1)” and inserted “, including guarantees described in paragraph (3)(A)(ii)” before period at end.
 
-Subsec. (g)(3)(A). Pub. L. 110–246, § 6012(a)(3)(B), substituted “Eligibility” for “In general” in subpar. heading, designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+Subsec. (g)(3)(A). Pub. L. 110–246, § 6012(a)(3)(B), substituted “Eligibility” for “In general” in subpar. heading, designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-Subsec. (g)(6)(A)(iii). Pub. L. 110–246, § 6012(b)(2), substituted “subsection (a)(2)(A)” for “subsection (a)(1)”.
+Subsec. (g)(6)(A)(iii). Pub. L. 110–246, § 6012(b)(2), substituted “subsection (a)(2)(A)” for “subsection (a)(1)”.
 
-Subsec. (g)(8)(A)(ii). Pub. L. 110–246, § 6012(a)(3)(C), inserted “that” after “project” in introductory provisions, added subcls. (I) and (II), and struck out former subcls. (I) and (II) which read as follows:
+Subsec. (g)(8)(A)(ii). Pub. L. 110–246, § 6012(a)(3)(C), inserted “that” after “project” in introductory provisions, added subcls. (I) and (II), and struck out former subcls. (I) and (II) which read as follows:
 
 “(I) in a rural area; and
 
 “(II) that provides for the value-added processing of agricultural commodities.”
 
-Subsec. (g)(8)(C). Pub. L. 110–246, § 6012(b)(2), substituted “subsection (a)(2)(A)” for “subsection (a)(1)”.
+Subsec. (g)(8)(C). Pub. L. 110–246, § 6012(b)(2), substituted “subsection (a)(2)(A)” for “subsection (a)(1)”.
 
-Subsec. (g)(9). Pub. L. 110–246, § 6015, added par. (9).
+Subsec. (g)(9). Pub. L. 110–246, § 6015, added par. (9).
 
-Subsecs. (i), (j). Pub. L. 110–246, §§ 6016, 6017, added subsecs. (i) and (j).
+Subsecs. (i), (j). Pub. L. 110–246, §§ 6016, 6017, added subsecs. (i) and (j).
 
-2002—Subsec. (a)(3). Pub. L. 107–171, § 6013, inserted “and other renewable energy systems (including wind energy systems and anaerobic digestors for the purpose of energy generation)” after “solar energy systems”.
+2002—Subsec. (a)(3). Pub. L. 107–171, § 6013, inserted “and other renewable energy systems (including wind energy systems and anaerobic digestors for the purpose of energy generation)” after “solar energy systems”.
 
-Subsec. (c)(1). Pub. L. 107–171, § 6014, substituted “Grants” for “In general” in heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
+Subsec. (c)(1). Pub. L. 107–171, § 6014, substituted “Grants” for “In general” in heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
-Subsec. (e)(5)(F). Pub. L. 107–171, § 6015(1), which directed amendment of this section “in paragraph (5)(F), before the period at the end the following: ‘, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))’ ”, could not be executed because the phrase “by inserting” did not appear. Corrected amendment was made by Pub. L. 115–334, § 6701(d)(1), effective as if included in Pub. L. 107–171, § 6015. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
+Subsec. (e)(5)(F). Pub. L. 107–171, § 6015(1), which directed amendment of this section “in paragraph (5)(F), before the period at the end the following: ‘, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))’ ”, could not be executed because the phrase “by inserting” did not appear. Corrected amendment was made by Pub. L. 115–334, § 6701(d)(1), effective as if included in Pub. L. 107–171, § 6015. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
-Subsec. (e)(9). Pub. L. 107–171, § 6015(2), substituted “2007” for “2002”.
+Subsec. (e)(9). Pub. L. 107–171, § 6015(2), substituted “2007” for “2002”.
 
-Subsec. (f)(3). Pub. L. 107–171, § 6016, added par. (3).
+Subsec. (f)(3). Pub. L. 107–171, § 6016, added par. (3).
 
-Subsec. (g). Pub. L. 107–171, § 6017, added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows:
+Subsec. (g). Pub. L. 107–171, § 6017, added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows:
 
 “(1) Definition of farmer.—In this subsection, the term ‘farmer’ means any farmer that the Secretary determines is a family farmer.
 
@@ -2749,65 +2749,65 @@ Subsec. (g). Pub. L. 107–171, § 6017, added subsec. (g) and struck out head
 
 “(3) Eligibility.—To be eligible for a loan guarantee under this subsection, a farmer must produce the agricultural commodity that will be processed by the cooperative.”
 
-Subsec. (h). Pub. L. 107–171, § 6007(b), added subsec. (h).
+Subsec. (h). Pub. L. 107–171, § 6007(b), added subsec. (h).
 
-1996—Subsec. (a). Pub. L. 104–127, § 747(a)(1), in first sentence, struck out “and” before “(3)” and inserted before period at end “, and (4) to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade”.
+1996—Subsec. (a). Pub. L. 104–127, § 747(a)(1), in first sentence, struck out “and” before “(3)” and inserted before period at end “, and (4) to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade”.
 
-Pub. L. 104–127, § 635(b), in third sentence, substituted “(4) of” for “(3) of”.
+Pub. L. 104–127, § 635(b), in third sentence, substituted “(4) of” for “(3) of”.
 
-Subsec. (b). Pub. L. 104–127, § 747(a)(2), inserted heading, redesignated par. (2) as subsec. (b), struck out “(2)” before “The Secretary”, and struck out par. (1) which read as follows: “Secretary may make grants, not to exceed $50,000,000 annually, to eligible applicants under this section for pollution abatement and control projects in rural areas. No such grant shall exceed 50 per centum of the development cost of such a project.”
+Subsec. (b). Pub. L. 104–127, § 747(a)(2), inserted heading, redesignated par. (2) as subsec. (b), struck out “(2)” before “The Secretary”, and struck out par. (1) which read as follows: “Secretary may make grants, not to exceed $50,000,000 annually, to eligible applicants under this section for pollution abatement and control projects in rural areas. No such grant shall exceed 50 per centum of the development cost of such a project.”
 
-Subsec. (c). Pub. L. 104–127, § 747(a)(3), inserted heading, in par. (1), inserted par. heading and inserted “(including nonprofit entities)” after “private business enterprises”, in par. (2), inserted par. heading and substituted “award grants on a competitive basis” for “make grants”, and added par. (3).
+Subsec. (c). Pub. L. 104–127, § 747(a)(3), inserted heading, in par. (1), inserted par. heading and inserted “(including nonprofit entities)” after “private business enterprises”, in par. (2), inserted par. heading and substituted “award grants on a competitive basis” for “make grants”, and added par. (3).
 
-Subsec. (d)(2) to (4). Pub. L. 104–127, § 661(d)(1), substituted “provision of this section” for “provision of this section and sections 1924(b) and 1942(b) of this title”.
+Subsec. (d)(2) to (4). Pub. L. 104–127, § 661(d)(1), substituted “provision of this section” for “provision of this section and sections 1924(b) and 1942(b) of this title”.
 
-Subsec. (d)(6). Pub. L. 104–127, § 661(d)(2), substituted “this section” for “this section, section 1924 of this title, or section 1942 of this title”.
+Subsec. (d)(6). Pub. L. 104–127, § 661(d)(2), substituted “this section” for “this section, section 1924 of this title, or section 1942 of this title”.
 
-Subsec. (e). Pub. L. 104–127, § 747(a)(4), added subsec. (e) and struck out former subsec. (e) which authorized the insuring or guaranteeing of loans for the purpose of constructing or improving subterminal facilities.
+Subsec. (e). Pub. L. 104–127, § 747(a)(4), added subsec. (e) and struck out former subsec. (e) which authorized the insuring or guaranteeing of loans for the purpose of constructing or improving subterminal facilities.
 
-Subsec. (e)(2). Pub. L. 104–180 amended Pub. L. 104–127, § 747(a)(4), which enacted subsec. (e), to insert “effective October 1, 1996,” after “The Secretary shall make grants” in par. (2).
+Subsec. (e)(2). Pub. L. 104–180 amended Pub. L. 104–127, § 747(a)(4), which enacted subsec. (e), to insert “effective October 1, 1996,” after “The Secretary shall make grants” in par. (2).
 
-Subsec. (f). Pub. L. 104–127, § 759B, added par. (1), redesignated existing provisions as par. (2), and added par. heading.
+Subsec. (f). Pub. L. 104–127, § 759B, added par. (1), redesignated existing provisions as par. (2), and added par. heading.
 
-Pub. L. 104–127, § 747(a)(5), (6), redesignated subsec. (j) as (f) and struck out former subsec. (f) which authorized grants to nonprofit institutions for the purpose of establishing and operating centers for rural technology or cooperative development. See subsec. (e) of this section.
+Pub. L. 104–127, § 747(a)(5), (6), redesignated subsec. (j) as (f) and struck out former subsec. (f) which authorized grants to nonprofit institutions for the purpose of establishing and operating centers for rural technology or cooperative development. See subsec. (e) of this section.
 
-Pub. L. 104–127, § 705(1), made technical amendment to directory language of Pub. L. 101–624, § 2347(a). See 1990 Amendment note below.
+Pub. L. 104–127, § 705(1), made technical amendment to directory language of Pub. L. 101–624, § 2347(a). See 1990 Amendment note below.
 
-Subsec. (g). Pub. L. 104–127, § 747(a)(5), (7), added subsec. (g) and struck out former subsec. (g) which read as follows: “In carrying out subsection (f) of this section, the Secretary may provide technical assistance to alleviate or prevent conditions of excessive unemployment or underemployment of persons residing in economically distressed rural areas that the Secretary determines have a substantial need for such assistance. Such assistance shall include planning and feasibility studies, management and operational assistance, and studies evaluating the needs for development potential of projects that increase employment and improve economic growth in such areas.”
+Subsec. (g). Pub. L. 104–127, § 747(a)(5), (7), added subsec. (g) and struck out former subsec. (g) which read as follows: “In carrying out subsection (f) of this section, the Secretary may provide technical assistance to alleviate or prevent conditions of excessive unemployment or underemployment of persons residing in economically distressed rural areas that the Secretary determines have a substantial need for such assistance. Such assistance shall include planning and feasibility studies, management and operational assistance, and studies evaluating the needs for development potential of projects that increase employment and improve economic growth in such areas.”
 
-Pub. L. 104–127, § 705(1), made technical amendment to directory language of Pub. L. 101–624, § 2347(a). See 1990 Amendment note below.
+Pub. L. 104–127, § 705(1), made technical amendment to directory language of Pub. L. 101–624, § 2347(a). See 1990 Amendment note below.
 
-Subsec. (h). Pub. L. 104–127, § 747(a)(5), struck out subsec. (h) which read as follows: “The Secretary may make grants to defray not to exceed 75 percent of the administrative costs incurred by organizations and public bodies to carry out projects for which grants or loans are made under subsection (f) of this section. For purposes of determining the non-Federal share of such costs, the Secretary shall consider contributions in cash and in kind, fairly evaluated, including but not limited to premises, equipment, and services.”
+Subsec. (h). Pub. L. 104–127, § 747(a)(5), struck out subsec. (h) which read as follows: “The Secretary may make grants to defray not to exceed 75 percent of the administrative costs incurred by organizations and public bodies to carry out projects for which grants or loans are made under subsection (f) of this section. For purposes of determining the non-Federal share of such costs, the Secretary shall consider contributions in cash and in kind, fairly evaluated, including but not limited to premises, equipment, and services.”
 
-Pub. L. 104–127, § 705(1), made technical amendment to directory language of Pub. L. 101–624, § 2347(a). See 1990 Amendment note below.
+Pub. L. 104–127, § 705(1), made technical amendment to directory language of Pub. L. 101–624, § 2347(a). See 1990 Amendment note below.
 
-Subsec. (i). Pub. L. 104–127, § 747(a)(5), struck out subsec. (i) which authorized making of loans at low interest rates and at market rates to 1 or more businesses, local governments, or public agencies in rural areas to fund facilities in which recipients of such loans share telecommunications terminal equipment, computers, computer software, and computer hardware.
+Subsec. (i). Pub. L. 104–127, § 747(a)(5), struck out subsec. (i) which authorized making of loans at low interest rates and at market rates to 1 or more businesses, local governments, or public agencies in rural areas to fund facilities in which recipients of such loans share telecommunications terminal equipment, computers, computer software, and computer hardware.
 
-Subsec. (j). Pub. L. 104–127, § 747(a)(6), redesignated subsec. (j) as (f).
+Subsec. (j). Pub. L. 104–127, § 747(a)(6), redesignated subsec. (j) as (f).
 
 1992—Subsec. (c). Pub. L. 102–554 designated existing provisions as par. (1) and added par. (2).
 
 Pub. L. 102–552, which directed the substitution of “business enterprises or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students,” for “business enterprises,” in section 310B(c) without specifying the name of the act, was executed to this section, which is section 310B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
 
-1991—Subsec. (d)(5), (7). Pub. L. 102–237, § 701(h)(1)(C), (D), substituted “this chapter” for “this Act”.
+1991—Subsec. (d)(5), (7). Pub. L. 102–237, § 701(h)(1)(C), (D), substituted “this chapter” for “this Act”.
 
-Subsec. (f)(4). Pub. L. 102–237, § 701(c)(3), (4), redesignated par. (4), relating to grants to statewide private nonprofit public television systems, as subsec. (j), and transferred such provision to follow subsec. (i).
+Subsec. (f)(4). Pub. L. 102–237, § 701(c)(3), (4), redesignated par. (4), relating to grants to statewide private nonprofit public television systems, as subsec. (j), and transferred such provision to follow subsec. (i).
 
-Subsec. (i)(2)(B)(iv). Pub. L. 102–237, § 701(c)(1), substituted “(iii) of this subparagraph” for “(ii) of this subsection”.
+Subsec. (i)(2)(B)(iv). Pub. L. 102–237, § 701(c)(1), substituted “(iii) of this subparagraph” for “(ii) of this subsection”.
 
-Subsec. (i)(5)(A). Pub. L. 102–237, § 701(c)(2), inserted closing parenthesis after “section 2008(b)(3) of this title”.
+Subsec. (i)(5)(A). Pub. L. 102–237, § 701(c)(2), inserted closing parenthesis after “section 2008(b)(3) of this title”.
 
-Subsec. (j). Pub. L. 102–237, § 701(c)(3)–(5), redesignated subsec. (f)(4), relating to grants to statewide private nonprofit public television systems, as subsec. (j), transferred such provision to follow subsec. (i), and inserted heading.
+Subsec. (j). Pub. L. 102–237, § 701(c)(3)–(5), redesignated subsec. (f)(4), relating to grants to statewide private nonprofit public television systems, as subsec. (j), transferred such provision to follow subsec. (i), and inserted heading.
 
-1990—Subsec. (a). Pub. L. 101–624, § 2388(b), substituted “paragraphs (1) and (3)” for “subsections (a) and (c)”.
+1990—Subsec. (a). Pub. L. 101–624, § 2388(b), substituted “paragraphs (1) and (3)” for “subsections (a) and (c)”.
 
-Subsec. (b). Pub. L. 101–624, § 2325, designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 101–624, § 2325, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d). Pub. L. 101–624, § 2388(c), designated first par. and pars. (1) to (6) as (1) to (7), respectively, substituted “paragraphs (2) and (3)” for “paragraph (1) and (2)” in par. (4), and realigned margins of pars. (5) to (7).
+Subsec. (d). Pub. L. 101–624, § 2388(c), designated first par. and pars. (1) to (6) as (1) to (7), respectively, substituted “paragraphs (2) and (3)” for “paragraph (1) and (2)” in par. (4), and realigned margins of pars. (5) to (7).
 
-Subsec. (f). Pub. L. 101–624, § 2386, added par. (4) relating to grants to statewide private nonprofit public television systems.
+Subsec. (f). Pub. L. 101–624, § 2386, added par. (4) relating to grants to statewide private nonprofit public television systems.
 
-Pub. L. 101–624, § 2347, formerly § 2347(a), as renumbered by Pub. L. 104–127, § 705(1), added subsec. (f) and struck out former subsec. (f) which read as follows:
+Pub. L. 101–624, § 2347, formerly § 2347(a), as renumbered by Pub. L. 104–127, § 705(1), added subsec. (f) and struck out former subsec. (f) which read as follows:
 
 “(1) The Secretary may make grants under this subsection to public and nonprofit private institutions for the purpose of enabling them to establish and operate centers of rural technology development that have, as a primary objective, the improvement of the economic condition of rural areas by promoting the development (through technological innovation and adaptation of existing technology) and commercialization of (A) new products that can be produced in rural areas, and (B) new processes that can be used in such production.
 
@@ -2815,33 +2815,33 @@ Pub. L. 101–624, § 2347, formerly § 2347(a), as renumbered by Pub. L. 10
 
 “(3) If grants are to be made under this subsection, the Secretary shall issue regulations implementing this subsection that shall include provisions for the monitoring and evaluation of the rural technology development activities carried out by institutions that receive grants under this subsection.”
 
-Subsecs. (g), (h). Pub. L. 101–624, § 2347, formerly § 2347(a), as renumbered by Pub. L. 104–127, § 705(1), added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 101–624, § 2347, formerly § 2347(a), as renumbered by Pub. L. 104–127, § 705(1), added subsecs. (g) and (h).
 
-Subsec. (i). Pub. L. 101–624, § 2337, added subsec. (i).
+Subsec. (i). Pub. L. 101–624, § 2337, added subsec. (i).
 
 1987—Subsec. (c). Pub. L. 100–203 inserted “and private nonprofit corporations” after “to public bodies” and substituted “to finance and facilitate development of small and emerging” for “to facilitate development of”.
 
-1986—Subsec. (a). Pub. L. 99–409, § 2(1), inserted provision that no loan may be made, insured, or guaranteed under this subsection that exceeds $25,000,000 in principal amount.
+1986—Subsec. (a). Pub. L. 99–409, § 2(1), inserted provision that no loan may be made, insured, or guaranteed under this subsection that exceeds $25,000,000 in principal amount.
 
-Subsec. (f). Pub. L. 99–409, § 2(2), added subsec. (f).
+Subsec. (f). Pub. L. 99–409, § 2(2), added subsec. (f).
 
 1980—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term “solar energy”, for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended.
 
 Subsec. (e). Pub. L. 96–358 added subsec. (e).
 
-1978—Subsec. (d)(1), (2). Pub. L. 95–334, § 112(1), inserted exception for assistance less than $1,000,000, or where direct employment will not be increased by more than 50 employees.
+1978—Subsec. (d)(1), (2). Pub. L. 95–334, § 112(1), inserted exception for assistance less than $1,000,000, or where direct employment will not be increased by more than 50 employees.
 
-Subsec. (d)(3). Pub. L. 95–334, § 112, inserted exception for assistance less than $1,000,000, or where direct employment will not be increased by more than 50 employees and substituted “30” for “60”.
+Subsec. (d)(3). Pub. L. 95–334, § 112, inserted exception for assistance less than $1,000,000, or where direct employment will not be increased by more than 50 employees and substituted “30” for “60”.
 
 1977—Subsec. (a). Pub. L. 95–113 inserted reference to the conservation, development, and utilization of water for aquaculture purposes and inserted definition of “aquaculture”.
 
-1973—Subsec. (d)(4) to (6). Pub. L. 91–524, § 817, as added by Pub. L. 93–86, added pars. (4) to (6).
+1973—Subsec. (d)(4) to (6). Pub. L. 91–524, § 817, as added by Pub. L. 93–86, added pars. (4) to (6).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title VI, § 6701(d)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 6015 of the Farm Security and Rural Investment Act of 2002 (Public Law 107–171).”
+Pub. L. 115–334, title VI, § 6701(d)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 6015 of the Farm Security and Rural Investment Act of 2002 (Public Law 107–171).”
 
 **Effective Date of 2008 Amendment**
 
@@ -2849,7 +2849,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–180, title VII, § 731, Aug. 6, 1996, 110 Stat. 1600, provided in part: “That this section [amending this section] shall take effect upon enactment of this Act into law [Aug. 6, 1996].”
+Pub. L. 104–180, title VII, § 731, Aug. 6, 1996, 110 Stat. 1600, provided in part: “That this section [amending this section] shall take effect upon enactment of this Act into law [Aug. 6, 1996].”
 
 **Effective Date of 1991 Amendment**
 
@@ -2857,7 +2857,7 @@ Amendment by section 701(c) of Pub. L. 102–237 effective as if included in the
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–409, § 2(2), Aug. 28, 1986, 100 Stat. 923, provided that the amendment made by section 2(2) is effective Oct. 1, 1986.
+Pub. L. 99–409, § 2(2), Aug. 28, 1986, 100 Stat. 923, provided that the amendment made by section 2(2) is effective Oct. 1, 1986.
 
 **Effective Date of 1980 Amendment**
 
@@ -2873,13 +2873,13 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 **Regulations**
 
-Pub. L. 113–79, title VI, § 6010(c), Feb. 7, 2014, 128 Stat. 843, provided that: “Not later than 180 days after the date of enactment of this Act [Feb. 7, 2014], the Secretary [of Agriculture] shall promulgate such regulations as are necessary to implement the amendments made by this section.”
+Pub. L. 113–79, title VI, § 6010(c), Feb. 7, 2014, 128 Stat. 843, provided that: “Not later than 180 days after the date of enactment of this Act [Feb. 7, 2014], the Secretary [of Agriculture] shall promulgate such regulations as are necessary to implement the amendments made by this section.”
 
 **Business Development**
 
-Pub. L. 101–624, title XXIII, § 2336, Nov. 28, 1990, 104 Stat. 4022, provided that:
+Pub. L. 101–624, title XXIII, § 2336, Nov. 28, 1990, 104 Stat. 4022, provided that:
 
-> “The purposes of this chapter [chapter 2 (§§ 2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624, amending this section] are to—
+> “The purposes of this chapter [chapter 2 (§§ 2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624, amending this section] are to—
 
 > **“(1)** provide funds to improve telecommunications service in rural areas; and
 
@@ -2887,7 +2887,7 @@ Pub. L. 101–624, title XXIII, § 2336, Nov. 28, 1990, 104 Stat. 4022, provid
 
 **Guarantee by Secretary of Agriculture of Loans to Nonprofit National Rural Development and Finance Corporations**
 
-Pub. L. 99–198, title XIII, § 1323, Dec. 23, 1985, 99 Stat. 1534, as amended by Pub. L. 99–425, title IV, § 407(c), Sept. 30, 1986, 100 Stat. 971; Pub. L. 99–500, § 101(a) [title VI, § 641], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, § 101(a) [title VI, § 641], Oct. 30, 1986, 100 Stat. 3341, 3341–35; Pub. L. 100–202, § 101(k) [title VI, § 636], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357; Pub. L. 113–79, title VI, § 6017(b), Feb. 7, 2014, 128 Stat. 846, provided that:
+Pub. L. 99–198, title XIII, § 1323, Dec. 23, 1985, 99 Stat. 1534, as amended by Pub. L. 99–425, title IV, § 407(c), Sept. 30, 1986, 100 Stat. 971; Pub. L. 99–500, § 101(a) [title VI, § 641], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, § 101(a) [title VI, § 641], Oct. 30, 1986, 100 Stat. 3341, 3341–35; Pub. L. 100–202, § 101(k) [title VI, § 636], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357; Pub. L. 113–79, title VI, § 6017(b), Feb. 7, 2014, 128 Stat. 846, provided that:
 
 > **“(a)**
 
@@ -2917,53 +2917,53 @@ Pub. L. 99–198, title XIII, § 1323, Dec. 23, 1985, 99 Stat. 1534, as amende
 
 > **“(B)** notwithstanding any other provision of law, all loans to intermediary borrowers made prior to date of enactment, shall upon date of enactment, for the life of such loan, bear a rate of interest not to exceed that in effect upon the date of issuance of such loans.”
 
-Pub. L. 99–500, § 101(a) [title VI, § 641], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, § 101(a) [title VI, § 641], Oct. 30, 1986, 100 Stat. 3341, 3341–35, provided in part: “That such grant funds [probably means grant funds under section 1323(b)(1) of Pub. L. 99–198, set out above] may be used by such corporation to provide technical assistance and financial assistance, including capitalizing revolving loan programs, pursuant to the Act.”
+Pub. L. 99–500, § 101(a) [title VI, § 641], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, § 101(a) [title VI, § 641], Oct. 30, 1986, 100 Stat. 3341, 3341–35, provided in part: “That such grant funds [probably means grant funds under section 1323(b)(1) of Pub. L. 99–198, set out above] may be used by such corporation to provide technical assistance and financial assistance, including capitalizing revolving loan programs, pursuant to the Act.”
 
 **Limits on Grants for Fiscal Years 1982, 1983, and 1984**
 
-Pub. L. 97–35, title I, § 120, Aug. 13, 1981, 95 Stat. 367, provided in part that, notwithstanding any other provision of law, there was authorized to be appropriated for grants pursuant to section 310B(c) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932) not to exceed: $5,007,000 for fiscal year 1982, $5,280,000 for fiscal year 1983, and $5,553,000 for fiscal year 1984.
+Pub. L. 97–35, title I, § 120, Aug. 13, 1981, 95 Stat. 367, provided in part that, notwithstanding any other provision of law, there was authorized to be appropriated for grants pursuant to section 310B(c) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932) not to exceed: $5,007,000 for fiscal year 1982, $5,280,000 for fiscal year 1983, and $5,553,000 for fiscal year 1984.
 
-### § 1933. Guaranteed rural housing loans; Hawaiian home lands
+### § 1933. Guaranteed rural housing loans; Hawaiian home lands
 
-**(a)** Rural Housing Loans which (1) are guaranteed by the Secretary under section 517(a)(2) 1
+**(a)** Rural Housing Loans which (1) are guaranteed by the Secretary under section 517(a)(2) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Housing Act of 1949 [42 U.S.C. 1487(a)(2)], (2) are made by other lenders approved by the Secretary to provide dwellings in rural areas for the applicants’ own use, and (3) bear interest and other charges at rates not above the maximum rates prescribed by the Secretary of Housing and Urban Development for loans made by private lenders for similar purposes and guaranteed by the Secretary of Housing and Urban Development under the National Housing Act [12 U.S.C. 1701 et seq.] or superseding legislation shall not be subject to sections 501(c) and 502(b)(3) of the Housing Act of 1949 [42 U.S.C. 1471(c) and 1472(b)(3)].
 
 **(b)** For the purposes of title V of the Housing Act of 1949 [42 U.S.C. 1471 et seq.] or this chapter, a guarantee of payment given under the color of law by the Department of Hawaiian Home Lands (or its successor in function) shall be found by the Secretary reasonably to assure repayment of any indebtedness so guaranteed.
 
-(Pub. L. 87–128, title III, § 310C, as added Pub. L. 92–419, title I, § 119, Aug. 30, 1972, 86 Stat. 664; amended Pub. L. 101–624, title XVIII, § 1804, Nov. 28, 1990, 104 Stat. 3819.)
+(Pub. L. 87–128, title III, § 310C, as added Pub. L. 92–419, title I, § 119, Aug. 30, 1972, 86 Stat. 664; amended Pub. L. 101–624, title XVIII, § 1804, Nov. 28, 1990, 104 Stat. 3819.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 517(a) of the Housing Act of 1949 [42 U.S.C. 1487(a)], referred to in subsec. (a), was amended by Pub. L. 98–181, title I [title V, § 514(a)(1)], Nov. 30, 1983, 98 Stat. 1247, and, as so amended, does not contain a par. (2).
+Section 517(a) of the Housing Act of 1949 [42 U.S.C. 1487(a)], referred to in subsec. (a), was amended by Pub. L. 98–181, title I [title V, § 514(a)(1)], Nov. 30, 1983, 98 Stat. 1247, and, as so amended, does not contain a par. (2).
 
-The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under section 1701 of Title 12 and Tables.
 
-Title V of the Housing Act of 1949, referred to in subsec. (b), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, which is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see References in Text note set out under section 1441 of Title 42 and Tables.
+Title V of the Housing Act of 1949, referred to in subsec. (b), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, which is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see References in Text note set out under section 1441 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 **Amendments**
 
-1990—Subsec. (b). Pub. L. 101–624 substituted “or this chapter” for “, as amended”.
+1990—Subsec. (b). Pub. L. 101–624 substituted “or this chapter” for “, as amended”.
 
-### § 1934. Low-income farm ownership loan program; eligibility; repayment requirements
+### § 1934. Low-income farm ownership loan program; eligibility; repayment requirements
 
 **(a)** The Secretary is authorized to make and insure loans for any of the purposes referred to in section 1923(a) of this title, or paragraphs (1) through (5) of section 1924(a) of this title, to farmers and ranchers in the United States who (1) are citizens of the United States, (2) meet the requirements of paragraphs (2) through (4) of section 1922 of this title, (3) are unable to obtain sufficient credit under section 1922 of this title to finance their actual needs, (4) are owners or operators of small or family farms (including new owners or operators), (5) are farmers or ranchers with a low income, and (6) demonstrate a need to maximize their income from farming or ranching operations. The Secretary is also authorized to make such loans to any farm cooperative or private domestic corporation or partnership, or such other legal entities as the Secretary considers appropriate, that is controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States if all of its members, stockholders, partners, or owners, as applicable, are citizens of the United States and the entity and all such members, stockholders, partners, or owners meet the requirements of paragraphs (2) through (6) of the preceding sentence.
 
 **(b)** Each loan made or insured under this section shall be repayable in such installments as the Secretary determines will provide for reduced payments during the initial repayment period of the loan and larger payments during the remainder of the repayment period of the loan.
 
-(Pub. L. 87–128, title III, § 310D, as added Pub. L. 95–334, title I, § 113, Aug. 4, 1978, 92 Stat. 424; amended Pub. L. 101–624, title XVIII, § 1802(b), Nov. 28, 1990, 104 Stat. 3818; Pub. L. 102–552, title V, § 516(e)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 104–127, title VI, § 661(e), Apr. 4, 1996, 110 Stat. 1107; Pub. L. 113–79, title V, § 5001(c)(2), Feb. 7, 2014, 128 Stat. 833.)
+(Pub. L. 87–128, title III, § 310D, as added Pub. L. 95–334, title I, § 113, Aug. 4, 1978, 92 Stat. 424; amended Pub. L. 101–624, title XVIII, § 1802(b), Nov. 28, 1990, 104 Stat. 3818; Pub. L. 102–552, title V, § 516(e)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 104–127, title VI, § 661(e), Apr. 4, 1996, 110 Stat. 1107; Pub. L. 113–79, title V, § 5001(c)(2), Feb. 7, 2014, 128 Stat. 833.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–79 inserted “, or such other legal entities as the Secretary considers appropriate,” after “partnership” and substituted “partners, or owners” for “or partners” in two places.
+2014—Subsec. (a). Pub. L. 113–79 inserted “, or such other legal entities as the Secretary considers appropriate,” after “partnership” and substituted “partners, or owners” for “or partners” in two places.
 
 1996—Subsec. (a). Pub. L. 104–127 substituted “section 1923(a) of this title, or paragraphs (1) through (5) of section 1924(a) of this title” for “paragraphs (1) through (5) of section 1923(a) of this title, or subparagraphs (A) through (E) of section 1924(a)(1) of this title”.
 
@@ -2975,9 +2975,9 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–552, title V, § 516(e)(2), Oct. 28, 1992, 106 Stat. 4137, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect at the same time as the amendments made by section 501(a) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1865) [amending section 1924 of this title] took effect.”
+Pub. L. 102–552, title V, § 516(e)(2), Oct. 28, 1992, 106 Stat. 4137, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect at the same time as the amendments made by section 501(a) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1865) [amending section 1924 of this title] took effect.”
 
-### § 1935. Down payment loan program
+### § 1935. Down payment loan program
 
 **(a) In general**
 
@@ -3053,9 +3053,9 @@ The Secretary shall not make a loan under this section to any borrower with resp
 
 **(B)** socially disadvantaged farmers or ranchers, as defined in section 2003(e) of this title; or
 
-**(C)** veteran farmers or ranchers, as defined in section 2279(a) of this title; and; and 1
+**(C)** veteran farmers or ranchers, as defined in section 2279(a) of this title; and; and 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 **(5)** establish annual performance goals to promote the use of the down payment loan program and other joint financing arrangements as the preferred choice for direct real estate loans made by any lender to an eligible farmer or rancher.
 
@@ -3067,7 +3067,7 @@ The Secretary shall not make a loan under this section to any borrower with resp
 
 **(3)** a veteran farmer or rancher, as defined in section 2279(a) of this title.
 
-(Pub. L. 87–128, title III, § 310E, as added Pub. L. 102–554, § 7(a), Oct. 28, 1992, 106 Stat. 4144; amended Pub. L. 107–171, title V, § 5005, May 13, 2002, 116 Stat. 342; Pub. L. 110–234, title V, § 5004, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, § 4(a), title V, § 5004, June 18, 2008, 122 Stat. 1664, 1905; Pub. L. 113–79, title V, § 5005, Feb. 7, 2014, 128 Stat. 834; Pub. L. 115–334, title XII, § 12306(c), Dec. 20, 2018, 132 Stat. 4969.)
+(Pub. L. 87–128, title III, § 310E, as added Pub. L. 102–554, § 7(a), Oct. 28, 1992, 106 Stat. 4144; amended Pub. L. 107–171, title V, § 5005, May 13, 2002, 116 Stat. 342; Pub. L. 110–234, title V, § 5004, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, § 4(a), title V, § 5004, June 18, 2008, 122 Stat. 1664, 1905; Pub. L. 113–79, title V, § 5005, Feb. 7, 2014, 128 Stat. 834; Pub. L. 115–334, title XII, § 12306(c), Dec. 20, 2018, 132 Stat. 4969.)
 
 **Editorial Notes**
 
@@ -3077,47 +3077,47 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–334, § 12306(c)(1), substituted “eligible farmers or ranchers” for “qualified beginning farmers or ranchers and socially disadvantaged farmers or ranchers”.
+2018—Subsec. (a)(1). Pub. L. 115–334, § 12306(c)(1), substituted “eligible farmers or ranchers” for “qualified beginning farmers or ranchers and socially disadvantaged farmers or ranchers”.
 
-Subsec. (d)(2)(A). Pub. L. 115–334, § 12306(c)(2)(A), substituted “farmers or ranchers” for “recipients of the loans”.
+Subsec. (d)(2)(A). Pub. L. 115–334, § 12306(c)(2)(A), substituted “farmers or ranchers” for “recipients of the loans”.
 
-Subsec. (d)(3). Pub. L. 115–334, § 12306(c)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “encourage retiring farmers and ranchers to assist in the sale of their farms and ranches to qualified beginning farmers and ranchers and socially disadvantaged farmers or ranchers by providing seller financing;”.
+Subsec. (d)(3). Pub. L. 115–334, § 12306(c)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “encourage retiring farmers and ranchers to assist in the sale of their farms and ranches to qualified beginning farmers and ranchers and socially disadvantaged farmers or ranchers by providing seller financing;”.
 
-Subsec. (d)(4). Pub. L. 115–334, § 12306(c)(2)(C), substituted “for—” for “for beginning farmers or ranchers or socially disadvantaged farmers or ranchers”, added subpars. (A) and (B) and subpar. (C) designation, and inserted “veteran farmers or ranchers, as defined in section 2279(a) of this title; and” before “; and” in subpar. (C).
+Subsec. (d)(4). Pub. L. 115–334, § 12306(c)(2)(C), substituted “for—” for “for beginning farmers or ranchers or socially disadvantaged farmers or ranchers”, added subpars. (A) and (B) and subpar. (C) designation, and inserted “veteran farmers or ranchers, as defined in section 2279(a) of this title; and” before “; and” in subpar. (C).
 
-Subsec. (d)(5). Pub. L. 115–334, § 12306(c)(2)(D), substituted “an eligible farmer or rancher” for “a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher”.
+Subsec. (d)(5). Pub. L. 115–334, § 12306(c)(2)(D), substituted “an eligible farmer or rancher” for “a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher”.
 
-Subsec. (e). Pub. L. 115–334, § 12306(c)(3), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In this section, the term ‘socially disadvantaged farmer or rancher’ has the meaning given that term in section 2003(e)(2) of this title.”
+Subsec. (e). Pub. L. 115–334, § 12306(c)(3), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In this section, the term ‘socially disadvantaged farmer or rancher’ has the meaning given that term in section 2003(e)(2) of this title.”
 
-2014—Subsec. (b)(1)(C). Pub. L. 113–79, § 5005(a), substituted “$667,000” for “$500,000”.
+2014—Subsec. (b)(1)(C). Pub. L. 113–79, § 5005(a), substituted “$667,000” for “$500,000”.
 
-Subsec. (b)(2). Pub. L. 113–79, § 5005(b), struck out second par. (2) which read as follows: “The interest rate on any loan made by the Secretary under this section shall be 4 percent.”
+Subsec. (b)(2). Pub. L. 113–79, § 5005(b), struck out second par. (2) which read as follows: “The interest rate on any loan made by the Secretary under this section shall be 4 percent.”
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 5004(1), substituted “or ranchers and socially disadvantaged farmers or ranchers” for “and ranchers”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 5004(1), substituted “or ranchers and socially disadvantaged farmers or ranchers” for “and ranchers”.
 
-Subsec. (b)(1), (2). Pub. L. 110–246, § 5004(2)(A), added par. (1) and par. (2) consisting of subpars. (A) and (B) and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount.”
+Subsec. (b)(1), (2). Pub. L. 110–246, § 5004(2)(A), added par. (1) and par. (2) consisting of subpars. (A) and (B) and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount.”
 
-Subsec. (b)(3). Pub. L. 110–246, § 5004(2)(B), substituted “20” for “15”.
+Subsec. (b)(3). Pub. L. 110–246, § 5004(2)(B), substituted “20” for “15”.
 
-Subsec. (c)(1). Pub. L. 110–246, § 5004(3)(A), substituted “5” for “10”.
+Subsec. (c)(1). Pub. L. 110–246, § 5004(3)(A), substituted “5” for “10”.
 
-Subsec. (c)(2), (3). Pub. L. 110–246, § 5004(3)(B), (C), redesignated par. (3) as (2), in subpar. (B), substituted “20-year” for “15-year”, and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall not make a loan under this section with respect to a farm or ranch for which the purchase price or appraisal value, whichever is lower, exceeds $250,000.”
+Subsec. (c)(2), (3). Pub. L. 110–246, § 5004(3)(B), (C), redesignated par. (3) as (2), in subpar. (B), substituted “20-year” for “15-year”, and struck out former par. (2). Prior to amendment, text read as follows: “The Secretary shall not make a loan under this section with respect to a farm or ranch for which the purchase price or appraisal value, whichever is lower, exceeds $250,000.”
 
-Subsec. (d)(3). Pub. L. 110–246, § 5004(4)(A)(ii), struck out “and” at end.
+Subsec. (d)(3). Pub. L. 110–246, § 5004(4)(A)(ii), struck out “and” at end.
 
-Pub. L. 110–246, § 5004(4)(A)(i), which directed the insertion of “and socially disadvantaged farmers or ranchers” after “ranchers”, was executed by making the insertion after “ranchers” the second place it appeared to reflect the probable intent of Congress.
+Pub. L. 110–246, § 5004(4)(A)(i), which directed the insertion of “and socially disadvantaged farmers or ranchers” after “ranchers”, was executed by making the insertion after “ranchers” the second place it appeared to reflect the probable intent of Congress.
 
-Subsec. (d)(4). Pub. L. 110–246, § 5004(4)(B), substituted “or ranchers or socially disadvantaged farmers or ranchers; and” for “and ranchers.”
+Subsec. (d)(4). Pub. L. 110–246, § 5004(4)(B), substituted “or ranchers or socially disadvantaged farmers or ranchers; and” for “and ranchers.”
 
-Subsec. (d)(5). Pub. L. 110–246, § 5004(4)(C), added par. (5).
+Subsec. (d)(5). Pub. L. 110–246, § 5004(4)(C), added par. (5).
 
-Subsec. (e). Pub. L. 110–246, § 5004(5), added subsec. (e).
+Subsec. (e). Pub. L. 110–246, § 5004(5), added subsec. (e).
 
-2002—Subsec. (b)(1). Pub. L. 107–171, § 5005(1)(A), substituted “40 percent” for “30 percent”.
+2002—Subsec. (b)(1). Pub. L. 107–171, § 5005(1)(A), substituted “40 percent” for “30 percent”.
 
-Subsec. (b)(3). Pub. L. 107–171, § 5005(1)(B), substituted “15 years” for “10 years”.
+Subsec. (b)(3). Pub. L. 107–171, § 5005(1)(B), substituted “15 years” for “10 years”.
 
-Subsec. (c)(3)(B). Pub. L. 107–171, § 5005(2), substituted “15-year” for “10-year”.
+Subsec. (c)(3)(B). Pub. L. 107–171, § 5005(2), substituted “15-year” for “10-year”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3125,7 +3125,7 @@ Subsec. (c)(3)(B). Pub. L. 107–171, § 5005(2), substituted “15-year” fo
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1936. Beginning farmer or rancher and socially disadvantaged farmer or rancher contract land sales program
+### § 1936. Beginning farmer or rancher and socially disadvantaged farmer or rancher contract land sales program
 
 **(a) In general**
 
@@ -3173,7 +3173,7 @@ The period during which a loan guarantee under this section is in effect shall b
 
 **(B)** a standard guarantee plan, which shall cover an amount equal to 90 percent of the outstanding principal of the loan.
 
-**(2) Eligiblity 1 [footnote: 1 So in original. Probably should be “Eligibility”.] for standard guarantee plan** In order for a private seller to be eligible for a standard guarantee plan referred to in paragraph (1)(B), the private seller shall—
+**(2) Eligiblity 1 [footnote: 1 So in original. Probably should be “Eligibility”.] for standard guarantee plan** In order for a private seller to be eligible for a standard guarantee plan referred to in paragraph (1)(B), the private seller shall—
 
 **(A)** secure a commercial lending institution or similar entity, as determined by the Secretary, to serve as an escrow agent; or
 
@@ -3189,7 +3189,7 @@ The Secretary may phase-in the implementation of the changes to the Beginning Fa
 
 All changes to the Beginning Farmer and Rancher and Socially Disadvantaged Farmer or Rancher Contract Land Sales Program must be implemented for the 2011 Fiscal Year.
 
-(Pub. L. 87–128, title III, § 310F, as added Pub. L. 107–171, title V, § 5006, May 13, 2002, 116 Stat. 342; amended Pub. L. 110–234, title V, § 5005, May 22, 2008, 122 Stat. 1145; Pub. L. 110–246, § 4(a), title V, § 5005, June 18, 2008, 122 Stat. 1664, 1906.)
+(Pub. L. 87–128, title III, § 310F, as added Pub. L. 107–171, title V, § 5006, May 13, 2002, 116 Stat. 342; amended Pub. L. 110–234, title V, § 5005, May 22, 2008, 122 Stat. 1145; Pub. L. 110–246, § 4(a), title V, § 5005, June 18, 2008, 122 Stat. 1664, 1906.)
 
 **Editorial Notes**
 
@@ -3199,11 +3199,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 1936, Pub. L. 87–128, title III, § 310F, as added Pub. L. 102–554, § 7(b), Oct. 28, 1992, 106 Stat. 4146, related to availability of farm ownership loans and loan guarantees for certain qualified beginning farmers and ranchers, prior to repeal by Pub. L. 104–127, title VI, § 616(b), Apr. 4, 1996, 110 Stat. 1090.
+A prior section 1936, Pub. L. 87–128, title III, § 310F, as added Pub. L. 102–554, § 7(b), Oct. 28, 1992, 106 Stat. 4146, related to availability of farm ownership loans and loan guarantees for certain qualified beginning farmers and ranchers, prior to repeal by Pub. L. 104–127, title VI, § 616(b), Apr. 4, 1996, 110 Stat. 1090.
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 5005, amended section generally, substituting provisions relating to guarantee of a loan made by a private seller of a farm or ranch to a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher on a contract land sales basis, for similar provisions relating to a pilot program in fiscal years 2003 through 2007.
+2008—Pub. L. 110–246, § 5005, amended section generally, substituting provisions relating to guarantee of a loan made by a private seller of a farm or ranch to a qualified beginning farmer or rancher or socially disadvantaged farmer or rancher on a contract land sales basis, for similar provisions relating to a pilot program in fiscal years 2003 through 2007.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3211,7 +3211,7 @@ A prior section 1936, Pub. L. 87–128, title III, § 310F, as added Pub. L. 1
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1936a. Use of rural development loans and grants for other purposes
+### § 1936a. Use of rural development loans and grants for other purposes
 
 If, after making a loan or a grant described in section 2009d(d) of this title, the Secretary determines that the circumstances under which the loan or grant was made have sufficiently changed to make the project or activity for which the loan or grant was made available no longer appropriate, the Secretary may allow the loan borrower or grant recipient to use property (real and personal) purchased or improved with the loan or grant funds, or proceeds from the sale of property (real and personal) purchased with such funds, for another project or activity that (as determined by the Secretary)—
 
@@ -3221,9 +3221,9 @@ If, after making a loan or a grant described in section 2009d(d) of this title, 
 
 **(3)** satisfies such additional requirements as are established by the Secretary.
 
-(Pub. L. 87–128, title III, § 310G, as added Pub. L. 107–171, title VI, § 6018, May 13, 2002, 116 Stat. 361.)
+(Pub. L. 87–128, title III, § 310G, as added Pub. L. 107–171, title VI, § 6018, May 13, 2002, 116 Stat. 361.)
 
-### § 1936b. Intermediary relending program
+### § 1936b. Intermediary relending program
 
 **(a) In general**
 
@@ -3293,7 +3293,7 @@ The Secretary shall promulgate regulations and establish procedures reducing the
 
 There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 87–128, title III, § 310H, as added Pub. L. 113–79, title VI, § 6017(a), Feb. 7, 2014, 128 Stat. 845; amended Pub. L. 115–334, title VI, § 6416, Dec. 20, 2018, 132 Stat. 4762.)
+(Pub. L. 87–128, title III, § 310H, as added Pub. L. 113–79, title VI, § 6017(a), Feb. 7, 2014, 128 Stat. 845; amended Pub. L. 115–334, title VI, § 6416, Dec. 20, 2018, 132 Stat. 4762.)
 
 **Editorial Notes**
 
@@ -3303,11 +3303,11 @@ The amendments made to this section by the Agriculture Improvement Act of 2018, 
 
 **Amendments**
 
-2018—Subsecs. (e) to (h). Pub. L. 115–334, § 6416(2), added subsecs. (e) to (h). Former subsec. (e) redesignated (i).
+2018—Subsecs. (e) to (h). Pub. L. 115–334, § 6416(2), added subsecs. (e) to (h). Former subsec. (e) redesignated (i).
 
-Subsec. (i). Pub. L. 115–334, § 6416(1), (3), redesignated subsec. (e) as (i) and substituted “2023” for “2018”.
+Subsec. (i). Pub. L. 115–334, § 6416(1), (3), redesignated subsec. (e) as (i) and substituted “2023” for “2018”.
 
-### § 1936c. Relending program to resolve ownership and succession on farmland
+### § 1936c. Relending program to resolve ownership and succession on farmland
 
 **(a) In general**
 
@@ -3355,11 +3355,11 @@ Not later than 1 year after December 20, 2018, the Secretary shall submit to the
 
 There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 87–128, title III, § 310I, as added Pub. L. 115–334, title V, § 5104, Dec. 20, 2018, 132 Stat. 4669.)
+(Pub. L. 87–128, title III, § 310I, as added Pub. L. 115–334, title V, § 5104, Dec. 20, 2018, 132 Stat. 4669.)
 
 ## SUBCHAPTER II—OPERATING LOANS
 
-### § 1941. Persons eligible for loans
+### § 1941. Persons eligible for loans
 
 **(a) In general**
 
@@ -3405,9 +3405,9 @@ An entity that is an operator described in paragraph (1) that is owned, in whole
 
 **(A)** a loan made to a youth under subsection (b); or
 
-**(B)** a microloan made to a beginning farmer or rancher or a veteran farmer or rancher (as defined in section 2279(e) 1
+**(B)** a microloan made to a beginning farmer or rancher or a veteran farmer or rancher (as defined in section 2279(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title).
 
@@ -3467,7 +3467,7 @@ The available demographic information shall include, to the maximum extent pract
 
 **(ii)** make the report available to the public, including posting the report on the website of the Department of Agriculture.
 
-(Pub. L. 87–128, title III, § 311, Aug. 8, 1961, 75 Stat. 310; Pub. L. 92–419, title I, § 120(a), Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, § 114, Aug. 4, 1978, 92 Stat. 425; Pub. L. 97–98, title XVI, § 1601(b), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§ 1301(a), 1302(b), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, §§ 611, 661(f), Apr. 4, 1996, 110 Stat. 1087, 1107; Pub. L. 105–277, div. A, § 101(a) [title VIII, § 805(2)], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§ 5101, 5302(a), May 13, 2002, 116 Stat. 343, 344; Pub. L. 110–234, title V, § 5101, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, § 4(a), title V, § 5101, June 18, 2008, 122 Stat. 1664, 1907; Pub. L. 113–79, title V, §§ 5101–5104, 5106(b)(1), Feb. 7, 2014, 128 Stat. 834–836, 838.)
+(Pub. L. 87–128, title III, § 311, Aug. 8, 1961, 75 Stat. 310; Pub. L. 92–419, title I, § 120(a), Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, § 114, Aug. 4, 1978, 92 Stat. 425; Pub. L. 97–98, title XVI, § 1601(b), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§ 1301(a), 1302(b), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, §§ 611, 661(f), Apr. 4, 1996, 110 Stat. 1087, 1107; Pub. L. 105–277, div. A, § 101(a) [title VIII, § 805(2)], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§ 5101, 5302(a), May 13, 2002, 116 Stat. 343, 344; Pub. L. 110–234, title V, § 5101, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, § 4(a), title V, § 5101, June 18, 2008, 122 Stat. 1664, 1907; Pub. L. 113–79, title V, §§ 5101–5104, 5106(b)(1), Feb. 7, 2014, 128 Stat. 834–836, 838.)
 
 **Editorial Notes**
 
@@ -3483,47 +3483,47 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2014—Subsec. (a)(1). Pub. L. 113–79, § 5101(1)–(5), designated existing provisions as par. (1) and inserted heading, in first sentence, substituted “limited liability companies, and such other legal entities as the Secretary considers appropriate,” for “and limited liability companies”, in second sentence, redesignated pars. (1) to (4) as subpars. (A) to (D), respectively, and substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, and, in third sentence, substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, “subparagraph (C)” for “clause (3)” and “subparagraph (D)” for “clause (4)”.
+2014—Subsec. (a)(1). Pub. L. 113–79, § 5101(1)–(5), designated existing provisions as par. (1) and inserted heading, in first sentence, substituted “limited liability companies, and such other legal entities as the Secretary considers appropriate,” for “and limited liability companies”, in second sentence, redesignated pars. (1) to (4) as subpars. (A) to (D), respectively, and substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, and, in third sentence, substituted “limited liability companies, and such other legal entities” for “and limited liability companies” in two places, “subparagraph (C)” for “clause (3)” and “subparagraph (D)” for “clause (4)”.
 
-Subsec. (a)(2). Pub. L. 113–79, § 5101(6), added par. (2).
+Subsec. (a)(2). Pub. L. 113–79, § 5101(6), added par. (2).
 
-Subsec. (b)(1). Pub. L. 113–79, § 5102, struck out “who are rural residents” after “youths”.
+Subsec. (b)(1). Pub. L. 113–79, § 5102, struck out “who are rural residents” after “youths”.
 
-Subsec. (b)(5). Pub. L. 113–79, § 5103, added par. (5).
+Subsec. (b)(5). Pub. L. 113–79, § 5103, added par. (5).
 
-Subsec. (c)(2). Pub. L. 113–79, § 5106(b)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In this subsection, the term ‘direct operating loan’ shall not include a loan made to a youth under subsection (b) of this section.”
+Subsec. (c)(2). Pub. L. 113–79, § 5106(b)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In this subsection, the term ‘direct operating loan’ shall not include a loan made to a youth under subsection (b) of this section.”
 
-Subsec. (c)(5). Pub. L. 113–79, § 5104, added par. (5).
+Subsec. (c)(5). Pub. L. 113–79, § 5104, added par. (5).
 
-2008—Pub. L. 110–246, § 5101, inserted section catchline and, in subsec. (a), inserted heading, substituted “The Secretary may” for “The Secretary is authorized to” in introductory provisions, and inserted “, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences” after “farming operations” in cl. (2).
+2008—Pub. L. 110–246, § 5101, inserted section catchline and, in subsec. (a), inserted heading, substituted “The Secretary may” for “The Secretary is authorized to” in introductory provisions, and inserted “, taking into consideration all farming experience of the applicant, without regard to any lapse between farming experiences” after “farming operations” in cl. (2).
 
-2002—Subsec. (a). Pub. L. 107–171, § 5302(a), substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
+2002—Subsec. (a). Pub. L. 107–171, § 5302(a), substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
 
-Subsec. (c)(1). Pub. L. 107–171, § 5101(1)(A), substituted “paragraphs (3) and (4)” for “paragraph (3)” in introductory provisions.
+Subsec. (c)(1). Pub. L. 107–171, § 5101(1)(A), substituted “paragraphs (3) and (4)” for “paragraph (3)” in introductory provisions.
 
-Subsec. (c)(1)(A). Pub. L. 107–171, § 5101(1)(B), struck out “who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 5 years” before semicolon.
+Subsec. (c)(1)(A). Pub. L. 107–171, § 5101(1)(B), struck out “who has not operated a farm or ranch, or who has operated a farm or ranch for not more than 5 years” before semicolon.
 
-Subsec. (c)(4). Pub. L. 107–171, § 5101(2), added par. (4).
+Subsec. (c)(4). Pub. L. 107–171, § 5101(2), added par. (4).
 
 1998—Subsec. (a). Pub. L. 105–277 inserted “for direct loans only,” before “have either” in cl. (2).
 
-1996—Subsec. (b)(1). Pub. L. 104–127, § 661(f), struck out “and for the purposes specified in section 1942 of this title” before period at end.
+1996—Subsec. (b)(1). Pub. L. 104–127, § 661(f), struck out “and for the purposes specified in section 1942 of this title” before period at end.
 
-Subsec. (b)(4). Pub. L. 104–127, § 611(b), added par. (4).
+Subsec. (b)(4). Pub. L. 104–127, § 611(b), added par. (4).
 
-Subsec. (c). Pub. L. 104–127, § 611(a), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1942 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
+Subsec. (c). Pub. L. 104–127, § 611(a), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may not restrict eligibility for loans made or insured under this subchapter for purposes set forth in section 1942 of this title solely to borrowers of loans that are outstanding on December 23, 1985.”
 
-1985—Subsec. (a). Pub. L. 99–198, § 1301(a), substituted—
+1985—Subsec. (a). Pub. L. 99–198, § 1301(a), substituted—
 
-(1) “, partnerships, and joint operations” for “and partnerships” wherever appearing after “corporations”;
+(1) “, partnerships, and joint operations” for “and partnerships” wherever appearing after “corporations”;
 
-(2) “, partnerships, and joint operations” for “, and partnerships” wherever appearing after “corporations”; and
+(2) “, partnerships, and joint operations” for “, and partnerships” wherever appearing after “corporations”; and
 
 (3) “individuals” for “members, stockholders, or partners, as applicable,” wherever appearing.
 
-Pub. L. 99–198, § 1303, in cl. (3) parenthetical, inserted provision treating blood or marriage related owner-operators of the entire farm interest as separate interest holders of not larger than family farms though collective ownership constitutes a larger than a family farm.
+Pub. L. 99–198, § 1303, in cl. (3) parenthetical, inserted provision treating blood or marriage related owner-operators of the entire farm interest as separate interest holders of not larger than family farms though collective ownership constitutes a larger than a family farm.
 
-Subsec. (c). Pub. L. 99–198, § 1302(b), added subsec. (c).
+Subsec. (c). Pub. L. 99–198, § 1302(b), added subsec. (c).
 
 1981—Subsec. (a). Pub. L. 97–98 substituted “corporations and partnerships, the family farm” for “cooperatives, corporations, and partnerships, the family farm” and “as well to the entity in the case of cooperatives, corporations, and partnerships” for “as well to the entity”.
 
@@ -3547,7 +3547,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 **Farm Operating Loan Eligibility**
 
-Pub. L. 106–224, title II, § 255, June 20, 2000, 114 Stat. 424, provided that:
+Pub. L. 106–224, title II, § 255, June 20, 2000, 114 Stat. 424, provided that:
 
 > “During the period beginning on the date of the enactment of this Act [June 20, 2000] and ending on December 31, 2002—
 
@@ -3557,17 +3557,17 @@ Pub. L. 106–224, title II, § 255, June 20, 2000, 114 Stat. 424, provided th
 
 **Authority of Secretary To Make or Guarantee Certain Loans**
 
-Pub. L. 104–134, title II, § 2002, Apr. 26, 1996, 110 Stat. 1321–313, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture is hereby authorized to make or guarantee an operating loan under Subtitle B [7 U.S.C. 1941 et seq.] or an emergency loan under Subtitle C [7 U.S.C. 1961 et seq.] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1922 et. seq.), as in effect prior to April 4, 1996, to a loan applicant who was less than 90 days delinquent on April 4, 1996, if the loan applicant had submitted an application for the loan prior to April 5, 1996.”
+Pub. L. 104–134, title II, § 2002, Apr. 26, 1996, 110 Stat. 1321–313, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture is hereby authorized to make or guarantee an operating loan under Subtitle B [7 U.S.C. 1941 et seq.] or an emergency loan under Subtitle C [7 U.S.C. 1961 et seq.] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1922 et. seq.), as in effect prior to April 4, 1996, to a loan applicant who was less than 90 days delinquent on April 4, 1996, if the loan applicant had submitted an application for the loan prior to April 5, 1996.”
 
 **1989 Farm Operating Loans**
 
-Pub. L. 101–82, title III, § 302, Aug. 14, 1989, 103 Stat. 582, required the Secretary of Agriculture to ensure that direct operating loans made or insured under this subchapter for 1990 crop production were to be made available to farmers and ranchers suffering major losses due to excess moisture, freeze, storm, or related condition occurring in 1989 or drought or related condition occurring in 1988 or 1989.
+Pub. L. 101–82, title III, § 302, Aug. 14, 1989, 103 Stat. 582, required the Secretary of Agriculture to ensure that direct operating loans made or insured under this subchapter for 1990 crop production were to be made available to farmers and ranchers suffering major losses due to excess moisture, freeze, storm, or related condition occurring in 1989 or drought or related condition occurring in 1988 or 1989.
 
 Similar provisions were contained in the following prior act:
 
-Pub. L. 100–387, title III, § 312, Aug. 11, 1988, 102 Stat. 948.
+Pub. L. 100–387, title III, § 312, Aug. 11, 1988, 102 Stat. 948.
 
-### § 1942. Purposes of loans
+### § 1942. Purposes of loans
 
 **(a) In general** A direct loan (including a microloan, as defined by the Secretary) may be made under this subchapter only for—
 
@@ -3653,7 +3653,7 @@ The Secretary shall develop ways to determine unit prices (or other appropriate 
 
 The Secretary shall implement a mechanism for local and regional food producers to establish price history for the crops and other agricultural products produced by local and regional food producers.
 
-(Pub. L. 87–128, title III, § 312, Aug. 8, 1961, 75 Stat. 310; Pub. L. 87–703, title IV, § 401(4), Sept. 27, 1962, 76 Stat. 632; Pub. L. 90–488, § 8, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §§ 120(b), 121, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–113, title XIV, § 1448(b), Sept. 29, 1977, 91 Stat. 1012; Pub. L. 95–334, title I, § 115, Aug. 4, 1978, 92 Stat. 425; Pub. L. 96–438, § 1(3), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–198, title XIII, §§ 1306, 1307, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 101–624, title XVIII, § 1818(b), Nov. 28, 1990, 104 Stat. 3830; Pub. L. 102–237, title V, § 501(b), Dec. 13, 1991, 105 Stat. 1866; Pub. L. 102–552, title V, § 516(f)(1)(A), (2), Oct. 28, 1992, 106 Stat. 4137, 4138; Pub. L. 104–127, title VI, § 612(a), Apr. 4, 1996, 110 Stat. 1087; Pub. L. 113–79, title V, §§ 5105, 5106(b)(2), Feb. 7, 2014, 128 Stat. 836, 838.)
+(Pub. L. 87–128, title III, § 312, Aug. 8, 1961, 75 Stat. 310; Pub. L. 87–703, title IV, § 401(4), Sept. 27, 1962, 76 Stat. 632; Pub. L. 90–488, § 8, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §§ 120(b), 121, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–113, title XIV, § 1448(b), Sept. 29, 1977, 91 Stat. 1012; Pub. L. 95–334, title I, § 115, Aug. 4, 1978, 92 Stat. 425; Pub. L. 96–438, § 1(3), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–198, title XIII, §§ 1306, 1307, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 101–624, title XVIII, § 1818(b), Nov. 28, 1990, 104 Stat. 3830; Pub. L. 102–237, title V, § 501(b), Dec. 13, 1991, 105 Stat. 1866; Pub. L. 102–552, title V, § 516(f)(1)(A), (2), Oct. 28, 1992, 106 Stat. 4137, 4138; Pub. L. 104–127, title VI, § 612(a), Apr. 4, 1996, 110 Stat. 1087; Pub. L. 113–79, title V, §§ 5105, 5106(b)(2), Feb. 7, 2014, 128 Stat. 836, 838.)
 
 **Editorial Notes**
 
@@ -3661,27 +3661,27 @@ The Secretary shall implement a mechanism for local and regional food producers 
 
 This chapter, referred to in subsecs. (a)(9)(B)(i) and (d)(1), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(9)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(9)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–79, § 5106(b)(2), inserted “(including a microloan, as defined by the Secretary)” after “A direct loan” in introductory provisions.
+2014—Subsec. (a). Pub. L. 113–79, § 5106(b)(2), inserted “(including a microloan, as defined by the Secretary)” after “A direct loan” in introductory provisions.
 
-Subsec. (e). Pub. L. 113–79, § 5105, added subsec. (e).
+Subsec. (e). Pub. L. 113–79, § 5105, added subsec. (e).
 
 1996—Pub. L. 104–127 amended section generally, substituting present provisions for provisions outlining purposes of loans made under this subchapter, authorizing loans to rural area residents to operate small business enterprises, authorizing loans for pollution abatement and control projects in rural areas and providing for limitations on such loans, and authorizing creation, from loan funds, of nonsupervised bank accounts to be used at discretion of borrower for necessary family living expenses.
 
-1992—Subsec. (a). Pub. L. 102–552, § 516(f)(2), repealed amendment by Pub. L. 102–237, § 501(b). See 1991 Amendment note below.
+1992—Subsec. (a). Pub. L. 102–552, § 516(f)(2), repealed amendment by Pub. L. 102–237, § 501(b). See 1991 Amendment note below.
 
-Pub. L. 102–552, § 516(f)(1)(A), made technical correction to directory language of Pub. L. 101–624, § 1818(b). See 1990 Amendment note below.
+Pub. L. 102–552, § 516(f)(1)(A), made technical correction to directory language of Pub. L. 101–624, § 1818(b). See 1990 Amendment note below.
 
-1991—Subsec. (a). Pub. L. 102–237, § 501(b), which directed the substitution of “systems (for purposes of this subchapter, the term ‘solar energy’ means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974) (42 U.S.C. 5901 et seq.), (12) training in maintaining records of farming and ranching operations for limited resource borrowers receiving loans under section 1934 of this title, and (13) borrower training under section 2006a of this title.” for “ ‘systems.’ and all that follows”, could not be executed because “systems.” does not appear in subsec. (a) was repealed by Pub. L. 102–552, § 516(f)(2). See Construction of 1991 Amendment note below.
+1991—Subsec. (a). Pub. L. 102–237, § 501(b), which directed the substitution of “systems (for purposes of this subchapter, the term ‘solar energy’ means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974) (42 U.S.C. 5901 et seq.), (12) training in maintaining records of farming and ranching operations for limited resource borrowers receiving loans under section 1934 of this title, and (13) borrower training under section 2006a of this title.” for “ ‘systems.’ and all that follows”, could not be executed because “systems.” does not appear in subsec. (a) was repealed by Pub. L. 102–552, § 516(f)(2). See Construction of 1991 Amendment note below.
 
-1990—Subsec. (a). Pub. L. 101–624, § 1818(b), as amended by Pub. L. 102–552, § 516(f)(1)(A), added cl. (13).
+1990—Subsec. (a). Pub. L. 101–624, § 1818(b), as amended by Pub. L. 102–552, § 516(f)(1)(A), added cl. (13).
 
-1985—Subsec. (a). Pub. L. 99–198, § 1306, added cl. (12).
+1985—Subsec. (a). Pub. L. 99–198, § 1306, added cl. (12).
 
-Subsec. (e). Pub. L. 99–198, § 1307, added subsec. (e).
+Subsec. (e). Pub. L. 99–198, § 1307, added subsec. (e).
 
 1980—Subsec. (a). Pub. L. 96–438 added cl. (11).
 
@@ -3689,9 +3689,9 @@ Subsec. (e). Pub. L. 99–198, § 1307, added subsec. (e).
 
 1977—Subsec. (a). Pub. L. 95–113 inserted parenthetical provision extending the section to include farm equipment which utilizes solar energy and inserted definition of “solar energy”.
 
-1972—Subsec. (a). Pub. L. 92–419, §§ 120(b), 121(1), (2), substituted “section 1941(a) for “section 1941”, designated existing provisions as subsec. (a), and added cl. (10).
+1972—Subsec. (a). Pub. L. 92–419, §§ 120(b), 121(1), (2), substituted “section 1941(a) for “section 1941”, designated existing provisions as subsec. (a), and added cl. (10).
 
-Subsecs. (b) to (d). Pub. L. 92–419, § 121(3), added subsecs. (b) to (d).
+Subsecs. (b) to (d). Pub. L. 92–419, § 121(3), added subsecs. (b) to (d).
 
 1968—Pub. L. 90–488 struck out from cl. (4) the concluding phrase, “including recreational uses and facilities”, added cls. (5) and (6), and redesignated former cls. (5) to (7) as (7) to (9), respectively.
 
@@ -3701,13 +3701,13 @@ Subsecs. (b) to (d). Pub. L. 92–419, § 121(3), added subsecs. (b) to (d).
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–127, title VI, § 612(b), Apr. 4, 1996, 110 Stat. 1089, provided that: “Section 312(c)(1) of the Consolidated Farm and Rural Development Act [7 U.S.C. 1942(c)(1)] shall not apply until the Secretary of Agriculture makes the determination required by section 312(c)(2) of the Act.” [The Secretary’s determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.]
+Pub. L. 104–127, title VI, § 612(b), Apr. 4, 1996, 110 Stat. 1089, provided that: “Section 312(c)(1) of the Consolidated Farm and Rural Development Act [7 U.S.C. 1942(c)(1)] shall not apply until the Secretary of Agriculture makes the determination required by section 312(c)(2) of the Act.” [The Secretary’s determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.]
 
 Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–552, title V, § 516(f)(1)(B), Oct. 28, 1992, 106 Stat. 4137, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the Food, Agriculture, Conservation, and Trade Act of 1990 [Pub. L. 101–624] at the time such Act became law.”
+Pub. L. 102–552, title V, § 516(f)(1)(B), Oct. 28, 1992, 106 Stat. 4137, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the Food, Agriculture, Conservation, and Trade Act of 1990 [Pub. L. 101–624] at the time such Act became law.”
 
 **Effective Date of 1977 Amendment**
 
@@ -3719,9 +3719,9 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 **Construction of 1991 Amendment**
 
-Pub. L. 102–552, title V, § 516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) [amending this section] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied and administered as if such subsection had never become law.”
+Pub. L. 102–552, title V, § 516(f)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “Subsection (b) of section 501 of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) [amending this section] is repealed. The Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) shall be applied and administered as if such subsection had never become law.”
 
-### § 1943. Limitations on amount of operating loans
+### § 1943. Limitations on amount of operating loans
 
 **(a) In general** The Secretary shall make or insure no loan under this subchapter—
 
@@ -3783,7 +3783,7 @@ Not less often than annually, on a date determined by the Secretary, an institut
 
 The Secretary shall not make more than $10,000,000 in loans under this paragraph in any fiscal year.
 
-(Pub. L. 87–128, title III, § 313, Aug. 8, 1961, 75 Stat. 310; Pub. L. 90–488, § 9, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, § 122, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, § 116, Aug. 4, 1978, 92 Stat. 426; Pub. L. 98–258, title VI, § 604(a), Apr. 10, 1984, 98 Stat. 139; Pub. L. 105–277, div. A, § 101(a) [title VIII, § 806(b)], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, § 5102, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, § 4(a), title V, § 5102, June 18, 2008, 122 Stat. 1664, 1908; Pub. L. 113–79, title V, § 5106(a), Feb. 7, 2014, 128 Stat. 837; Pub. L. 115–334, title V, §§ 5201–5203, Dec. 20, 2018, 132 Stat. 4671.)
+(Pub. L. 87–128, title III, § 313, Aug. 8, 1961, 75 Stat. 310; Pub. L. 90–488, § 9, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, § 122, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, § 116, Aug. 4, 1978, 92 Stat. 426; Pub. L. 98–258, title VI, § 604(a), Apr. 10, 1984, 98 Stat. 139; Pub. L. 105–277, div. A, § 101(a) [title VIII, § 806(b)], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, § 5102, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, § 4(a), title V, § 5102, June 18, 2008, 122 Stat. 1664, 1908; Pub. L. 113–79, title V, § 5106(a), Feb. 7, 2014, 128 Stat. 837; Pub. L. 115–334, title V, §§ 5201–5203, Dec. 20, 2018, 132 Stat. 4671.)
 
 **Editorial Notes**
 
@@ -3795,19 +3795,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a)(1). Pub. L. 115–334, § 5201(1), substituted “$400,000” for “$300,000”, “$1,750,000” for “$700,000”, and “2019” for “2000”.
+2018—Subsec. (a)(1). Pub. L. 115–334, § 5201(1), substituted “$400,000” for “$300,000”, “$1,750,000” for “$700,000”, and “2019” for “2000”.
 
-Subsec. (b)(1). Pub. L. 115–334, § 5201(2)(A), substituted “July” for “August”.
+Subsec. (b)(1). Pub. L. 115–334, § 5201(2)(A), substituted “July” for “August”.
 
-Subsec. (b)(2). Pub. L. 115–334, § 5201(2)(B), substituted “that immediately precedes the 12-month period described in paragraph (1)” for “ending on August 31, 1996”.
+Subsec. (b)(2). Pub. L. 115–334, § 5201(2)(B), substituted “that immediately precedes the 12-month period described in paragraph (1)” for “ending on August 31, 1996”.
 
-Subsec. (c)(2). Pub. L. 115–334, § 5202, substituted “subsection to any 1 borrower” for “chapter to any 1 borrower”.
+Subsec. (c)(2). Pub. L. 115–334, § 5202, substituted “subsection to any 1 borrower” for “chapter to any 1 borrower”.
 
-Subsec. (c)(4)(A). Pub. L. 115–334, § 5203, substituted “2023” for “2018” in introductory provisions.
+Subsec. (c)(4)(A). Pub. L. 115–334, § 5203, substituted “2023” for “2018” in introductory provisions.
 
 2014—Subsec. (c). Pub. L. 113–79 added subsec. (c).
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 5102, substituted “$300,000” for “$200,000”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 5102, substituted “$300,000” for “$200,000”.
 
 1998—Pub. L. 105–277 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “this subchapter—” for “this subchapter”, in introductory provisions, realigned margin of par. (1) and substituted “$700,000 (increased, beginning with fiscal year 2000, by the inflation percentage applicable to the fiscal year in which the loan is guaranteed and reduced by the unpaid indebtedness of the borrower on loans under the sections specified in section 1925 of this title that are guaranteed by the Secretary); or” for “$400,000; or”, realigned margin of par. (2), and added subsec. (b).
 
@@ -3825,27 +3825,27 @@ Subsec. (c)(4)(A). Pub. L. 115–334, § 5203, substituted “2023” for “2
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 1944. Soil conservation district loans; limitation; purchase of conservation equipment
+### § 1944. Soil conservation district loans; limitation; purchase of conservation equipment
 
 Loans aggregating not more than $500,000 in any one year may also be made to soil conservation districts which cannot obtain necessary credit elsewhere upon reasonable terms and conditions for the purchase of equipment customarily used for soil conservation purposes.
 
-(Pub. L. 87–128, title III, § 314, Aug. 8, 1961, 75 Stat. 311.)
+(Pub. L. 87–128, title III, § 314, Aug. 8, 1961, 75 Stat. 311.)
 
-### § 1945. Repealed. Pub. L. 104–127, title VI, § 613, Apr. 4, 1996, 110 Stat. 1089
+### § 1945. Repealed. Pub. L. 104–127, title VI, § 613, Apr. 4, 1996, 110 Stat. 1089
 
-Section, Pub. L. 87–128, title III, § 315, Aug. 8, 1961, 75 Stat. 311, authorized Secretary to participate in certain loans made under this subchapter.
+Section, Pub. L. 87–128, title III, § 315, Aug. 8, 1961, 75 Stat. 311, authorized Secretary to participate in certain loans made under this subchapter.
 
-### § 1946. Liability of borrower
+### § 1946. Liability of borrower
 
 **(a) Determination of interest rates**
 
 **(1)** The Secretary shall make all loans under this subchapter upon the full personal liability of the borrower and upon such security as the Secretary may prescribe. The interest rates on such loans, except for guaranteed loans and loans as provided in paragraphs (2) and (3),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 shall be as determined by the Secretary, but not in excess of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, plus an additional charge not to exceed 1 per centum as determined by the Secretary, which charge shall be deposited in the Rural Development Insurance Fund or the Agricultural Credit Insurance Fund, as appropriate, and adjusted to the nearest one-eighth of 1 per centum. The interest rate on any guaranteed loan made under this subchapter shall be such rate as may be agreed upon by the borrower and lender, but not in excess of a rate as may be determined by the Secretary.
 
-**(2)** The interest rate on a microloan to a beginning farmer or rancher or veteran farmer or rancher (as defined in section 2279(e) <sup>1</sup> of this title), or any loan (other than a guaranteed loan) to a low income, limited resource borrower under this subchapter shall not be—
+**(2)** The interest rate on a microloan to a beginning farmer or rancher or veteran farmer or rancher (as defined in section 2279(e) <sup>1</sup> of this title), or any loan (other than a guaranteed loan) to a low income, limited resource borrower under this subchapter shall not be—
 
 **(A)** greater than the sum of—
 
@@ -3889,13 +3889,13 @@ For purposes of determining eligibility for a farm operating loan under this sub
 
 **(B)** was eligible for a price support program of the Department of Agriculture on the day before April 4, 1996.
 
-(Pub. L. 87–128, title III, § 316, Aug. 8, 1961, 75 Stat. 311; Pub. L. 90–488, § 10, Aug. 15, 1968, 82 Stat. 771; Pub. L. 95–334, title I, § 117, Aug. 4, 1978, 92 Stat. 426; Pub. L. 97–35, title I, § 160(b), Aug. 13, 1981, 95 Stat. 377; Pub. L. 98–258, title VI, § 604(b), Apr. 10, 1984, 98 Stat. 139; Pub. L. 101–624, title XVIII, § 1803(b), Nov. 28, 1990, 104 Stat. 3818; Pub. L. 104–127, title VI, §§ 614, 661(g), Apr. 4, 1996, 110 Stat. 1089, 1107; Pub. L. 113–79, title V, § 5106(b)(3), Feb. 7, 2014, 128 Stat. 838.)
+(Pub. L. 87–128, title III, § 316, Aug. 8, 1961, 75 Stat. 311; Pub. L. 90–488, § 10, Aug. 15, 1968, 82 Stat. 771; Pub. L. 95–334, title I, § 117, Aug. 4, 1978, 92 Stat. 426; Pub. L. 97–35, title I, § 160(b), Aug. 13, 1981, 95 Stat. 377; Pub. L. 98–258, title VI, § 604(b), Apr. 10, 1984, 98 Stat. 139; Pub. L. 101–624, title XVIII, § 1803(b), Nov. 28, 1990, 104 Stat. 3818; Pub. L. 104–127, title VI, §§ 614, 661(g), Apr. 4, 1996, 110 Stat. 1089, 1107; Pub. L. 113–79, title V, § 5106(b)(3), Feb. 7, 2014, 128 Stat. 838.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Paragraph (3), referred to in subsec. (a)(1), was repealed by Pub. L. 104–127, title VI, § 661(g), Apr. 4, 1996, 110 Stat. 1107.
+Paragraph (3), referred to in subsec. (a)(1), was repealed by Pub. L. 104–127, title VI, § 661(g), Apr. 4, 1996, 110 Stat. 1107.
 
 Section 2279(e) of this title, referred to in subsec. (a)(2), was redesignated section 2279(a) of this title by section 12301(b)(3) of Pub. L. 115–334.
 
@@ -3903,9 +3903,9 @@ Section 2279(e) of this title, referred to in subsec. (a)(2), was redesignated s
 
 2014—Subsec. (a)(2). Pub. L. 113–79 inserted “a microloan to a beginning farmer or rancher or veteran farmer or rancher (as defined in section 2279(e) of this title), or” after “The interest rate on”.
 
-1996—Subsec. (a)(3). Pub. L. 104–127, § 661(g), struck out par. (3) which read as follows: “The interest rate on any loan (other than a guaranteed loan) made or insured under clause (5) of section 1942(a) of this title for activities that involve the use of prime farmland as defined in section 1927(a)(6)(C) of this title shall be the interest rate otherwise applicable under this section increased by 2 per centum per annum.”
+1996—Subsec. (a)(3). Pub. L. 104–127, § 661(g), struck out par. (3) which read as follows: “The interest rate on any loan (other than a guaranteed loan) made or insured under clause (5) of section 1942(a) of this title for activities that involve the use of prime farmland as defined in section 1927(a)(6)(C) of this title shall be the interest rate otherwise applicable under this section increased by 2 per centum per annum.”
 
-Subsec. (c). Pub. L. 104–127, § 614, added subsec. (c).
+Subsec. (c). Pub. L. 104–127, § 614, added subsec. (c).
 
 1990—Subsec. (a)(2). Pub. L. 101–624 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The interest rate on any loan (other than a guaranteed loan) to a low-income, limited resource borrower under this subchapter shall be the interest rate otherwise applicable under this section reduced by 3 per centum per annum.”
 
@@ -3923,17 +3923,17 @@ Subsec. (c). Pub. L. 104–127, § 614, added subsec. (c).
 
 Amendment by Pub. L. 97–35 applicable to loans made after Sept. 30, 1981, see section 160(c) of Pub. L. 97–35, set out as a note under section 1927 of this title.
 
-### §§ 1947, 1948. Repealed. Pub. L. 104–127, title VI, §§ 615, 616(a), Apr. 4, 1996, 110 Stat. 1090
+### §§ 1947, 1948. Repealed. Pub. L. 104–127, title VI, §§ 615, 616(a), Apr. 4, 1996, 110 Stat. 1090
 
-Section 1947, Pub. L. 87–128, title III, § 317, as added Pub. L. 92–419, title I, § 123, Aug. 30, 1972, 86 Stat. 665, related to insured operating loans.
+Section 1947, Pub. L. 87–128, title III, § 317, as added Pub. L. 92–419, title I, § 123, Aug. 30, 1972, 86 Stat. 665, related to insured operating loans.
 
-Section 1948, Pub. L. 87–128, title III, § 318, as added Pub. L. 102–554, § 8, Oct. 28, 1992, 106 Stat. 4146, related to special assistance to certain qualified beginning farmers and ranchers.
+Section 1948, Pub. L. 87–128, title III, § 318, as added Pub. L. 102–554, § 8, Oct. 28, 1992, 106 Stat. 4146, related to special assistance to certain qualified beginning farmers and ranchers.
 
-### § 1949. Graduation of borrowers with operating loans or guarantees to private commercial credit
+### § 1949. Graduation of borrowers with operating loans or guarantees to private commercial credit
 
 The Secretary shall establish a plan, in coordination with activities under sections 2006a, 2006b, 2006c, and 2006d of this title, to encourage each borrower with an outstanding loan under this subchapter or with respect to whom there is an outstanding guarantee under this subchapter to graduate to private commercial or other sources of credit.
 
-(Pub. L. 87–128, title III, § 319, as added Pub. L. 102–554, § 9, Oct. 28, 1992, 106 Stat. 4150; amended Pub. L. 104–127, title VI, § 617, Apr. 4, 1996, 110 Stat. 1090; Pub. L. 113–79, title V, § 5107, Feb. 7, 2014, 128 Stat. 838.)
+(Pub. L. 87–128, title III, § 319, as added Pub. L. 102–554, § 9, Oct. 28, 1992, 106 Stat. 4150; amended Pub. L. 104–127, title VI, § 617, Apr. 4, 1996, 110 Stat. 1090; Pub. L. 113–79, title V, § 5107, Feb. 7, 2014, 128 Stat. 838.)
 
 **Editorial Notes**
 
@@ -3947,7 +3947,7 @@ The Secretary shall establish a plan, in coordination with activities under sect
 
 **Suspension of Limitation on Period for Which Borrowers Are Eligible for Guaranteed Assistance**
 
-Pub. L. 107–171, title V, § 5102, May 13, 2002, 116 Stat. 343, as amended by Pub. L. 109–467, § 1, Dec. 22, 2006, 120 Stat. 3485; Pub. L. 110–234, title V, § 5103, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, § 4(a), title V, § 5103, June 18, 2008, 122 Stat. 1664, 1908, provided for the suspension of former 7 U.S.C. 1949(b) limitation on period borrowers were eligible for guaranteed assistance, beginning Jan. 1, 2002, and ending Dec. 31, 2010.
+Pub. L. 107–171, title V, § 5102, May 13, 2002, 116 Stat. 343, as amended by Pub. L. 109–467, § 1, Dec. 22, 2006, 120 Stat. 3485; Pub. L. 110–234, title V, § 5103, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, § 4(a), title V, § 5103, June 18, 2008, 122 Stat. 1664, 1908, provided for the suspension of former 7 U.S.C. 1949(b) limitation on period borrowers were eligible for guaranteed assistance, beginning Jan. 1, 2002, and ending Dec. 31, 2010.
 
 ## SUBCHAPTER III—EMERGENCY LOANS
 
@@ -3955,13 +3955,13 @@ Pub. L. 107–171, title V, § 5102, May 13, 2002, 116 Stat. 343, as amended b
 
 **Emergency Agricultural Credit**
 
-Pub. L. 95–334, title II, §§ 201–211, Aug. 4, 1978, 92 Stat. 429–433, as amended by Pub. L. 96–220, § 1, Mar. 30, 1980, 94 Stat. 129; Pub. L. 97–98, title XVI, § 1605, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 98–258, title VI, § 603, Apr. 10, 1984, 98 Stat. 139; Pub. L. 99–198, title XIII, § 1310(b), Dec. 23, 1985, 99 Stat. 1523, which authorized the Secretary of Agriculture to insure or guarantee loans to (1) bona fide farmers and ranchers who were primarily and directly engaged in agricultural production and who were citizens of the United States and (2) farm cooperatives and private domestic corporations and partnerships that were primarily and directly engaged in agricultural production and in which a majority interest was held by members, stockholders, or partners, as applicable, who themselves were citizens of the United States and were primarily and directly engaged in agricultural production, if the applicant for such loan: (A) had the experience or training and resources necessary to assure a reasonable prospect for successful operation with the assistance of such loan; (B) needed such credit in order to maintain a viable agricultural production operation; and (C) was not able to obtain sufficient credit elsewhere due to economic stresses, such as a general tightening of agricultural credit or an unfavorable relationship between production costs and prices received for agricultural commodities; and which provided requirements as to purposes of loans, loan limits, interest rates, repayment period, loan certifications and conditions, loan security, funding, maximum amount of outstanding loans, full faith and credit of the United States, issuance of certificates of beneficial ownership, assignment of contracts of guarantee, geographical availability, the conduct of a study and report on the program, and termination of authority to make new contracts of insurance or guarantee on Sept. 30, 1982, except with respect to the economic emergency loan program operated from Dec. 22, 1983, to Sept. 30, 1984, was repealed by Pub. L. 101–624, title XVIII, § 1851, Nov. 28, 1990, 104 Stat. 3837.
+Pub. L. 95–334, title II, §§ 201–211, Aug. 4, 1978, 92 Stat. 429–433, as amended by Pub. L. 96–220, § 1, Mar. 30, 1980, 94 Stat. 129; Pub. L. 97–98, title XVI, § 1605, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 98–258, title VI, § 603, Apr. 10, 1984, 98 Stat. 139; Pub. L. 99–198, title XIII, § 1310(b), Dec. 23, 1985, 99 Stat. 1523, which authorized the Secretary of Agriculture to insure or guarantee loans to (1) bona fide farmers and ranchers who were primarily and directly engaged in agricultural production and who were citizens of the United States and (2) farm cooperatives and private domestic corporations and partnerships that were primarily and directly engaged in agricultural production and in which a majority interest was held by members, stockholders, or partners, as applicable, who themselves were citizens of the United States and were primarily and directly engaged in agricultural production, if the applicant for such loan: (A) had the experience or training and resources necessary to assure a reasonable prospect for successful operation with the assistance of such loan; (B) needed such credit in order to maintain a viable agricultural production operation; and (C) was not able to obtain sufficient credit elsewhere due to economic stresses, such as a general tightening of agricultural credit or an unfavorable relationship between production costs and prices received for agricultural commodities; and which provided requirements as to purposes of loans, loan limits, interest rates, repayment period, loan certifications and conditions, loan security, funding, maximum amount of outstanding loans, full faith and credit of the United States, issuance of certificates of beneficial ownership, assignment of contracts of guarantee, geographical availability, the conduct of a study and report on the program, and termination of authority to make new contracts of insurance or guarantee on Sept. 30, 1982, except with respect to the economic emergency loan program operated from Dec. 22, 1983, to Sept. 30, 1984, was repealed by Pub. L. 101–624, title XVIII, § 1851, Nov. 28, 1990, 104 Stat. 3837.
 
 **Emergency Livestock Credit**
 
-Pub. L. 93–357, July 25, 1974, 88 Stat. 391, as amended by Pub. L. 94–35, § 1, June 16, 1975, 89 Stat. 213; Pub. L. 94–517, Oct. 15, 1976, 90 Stat. 2446; Pub. L. 95–334, title III, § 301, Aug. 4, 1978, 92 Stat. 433; Pub. L. 96–470, title I, § 102(d), Oct. 19, 1980, 94 Stat. 2237, authorized the Secretary of Agriculture to provide financial assistance to bona fide farmers and ranchers, including bona fide farmers or ranchers owning livestock that were fed in custom feedyards, who were primarily and directly engaged in agricultural production and who had substantial operations in breeding, raising, fattening, or marketing livestock, and to corporations or partnerships when a majority interest in such corporations or partnerships was held by stockholders or partners who themselves were primarily and directly engaged in such agricultural production and required the Secretary to guarantee loans, including both principal and interest, made by any legally organized lending agency. The provisions also provided requirements as to loan limits, fees or charges, interest rates, repayment period, loan certifications and conditions, loan security, maximum amount of outstanding loans, exclusion from budget totals, full faith and credit of the United States, issuance of certificates of beneficial ownership, assignment of contracts of guarantee, rules and regulations, and termination of authority to make new guarantees on Sept. 30, 1979.
+Pub. L. 93–357, July 25, 1974, 88 Stat. 391, as amended by Pub. L. 94–35, § 1, June 16, 1975, 89 Stat. 213; Pub. L. 94–517, Oct. 15, 1976, 90 Stat. 2446; Pub. L. 95–334, title III, § 301, Aug. 4, 1978, 92 Stat. 433; Pub. L. 96–470, title I, § 102(d), Oct. 19, 1980, 94 Stat. 2237, authorized the Secretary of Agriculture to provide financial assistance to bona fide farmers and ranchers, including bona fide farmers or ranchers owning livestock that were fed in custom feedyards, who were primarily and directly engaged in agricultural production and who had substantial operations in breeding, raising, fattening, or marketing livestock, and to corporations or partnerships when a majority interest in such corporations or partnerships was held by stockholders or partners who themselves were primarily and directly engaged in such agricultural production and required the Secretary to guarantee loans, including both principal and interest, made by any legally organized lending agency. The provisions also provided requirements as to loan limits, fees or charges, interest rates, repayment period, loan certifications and conditions, loan security, maximum amount of outstanding loans, exclusion from budget totals, full faith and credit of the United States, issuance of certificates of beneficial ownership, assignment of contracts of guarantee, rules and regulations, and termination of authority to make new guarantees on Sept. 30, 1979.
 
-### § 1961. Eligibility for loans
+### § 1961. Eligibility for loans
 
 **(a) Persons eligible**
 
@@ -4023,15 +4023,15 @@ The Secretary shall conduct the emergency loan program under this subchapter in 
 
 **(2)** “able to obtain sufficient credit elsewhere” means able to obtain sufficient credit elsewhere to finance the applicant’s actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time.
 
-(Pub. L. 87–128, title III, § 321, Aug. 8, 1961, 75 Stat. 311; Pub. L. 87–832, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–24, §§ 2, 3, 6, Apr. 20, 1973, 87 Stat. 24, 25; Pub. L. 93–237, § 10(a), (d), Jan. 2, 1974, 87 Stat. 1025; Pub. L. 94–68, §§ 2, 3, Aug. 5, 1975, 89 Stat. 381; Pub. L. 95–334, title I, § 118, Aug. 4, 1978, 92 Stat. 426; Pub. L. 96–302, title I, § 120(a), July 2, 1980, 94 Stat. 841; Pub. L. 96–438, § 3(a), (b)(1), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 97–35, title I, § 161, Aug. 13, 1981, 95 Stat. 378; Pub. L. 98–258, title VI, § 602(a), Apr. 10, 1984, 98 Stat. 138; Pub. L. 99–198, title XIII, § 1308(a), (b)(1), Dec. 23, 1985, 99 Stat. 1522; Pub. L. 100–707, title I, § 109(c)(1), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 104–127, title VI, § 621(a), Apr. 4, 1996, 110 Stat. 1091; Pub. L. 106–387, § 1(a) [title VIII, § 833], Oct. 28, 2000, 114 Stat. 1549, 1549A–61; Pub. L. 107–171, title V, §§ 5201(a), 5302, 5501(a), May 13, 2002, 116 Stat. 344, 351; Pub. L. 110–234, title V, § 5201, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, § 4(a), title V, § 5201, June 18, 2008, 122 Stat. 1664, 1908; Pub. L. 113–79, title V, § 5201, Feb. 7, 2014, 128 Stat. 838; Pub. L. 115–334, title V, § 5401(a)(1), Dec. 20, 2018, 132 Stat. 4674.)
+(Pub. L. 87–128, title III, § 321, Aug. 8, 1961, 75 Stat. 311; Pub. L. 87–832, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–24, §§ 2, 3, 6, Apr. 20, 1973, 87 Stat. 24, 25; Pub. L. 93–237, § 10(a), (d), Jan. 2, 1974, 87 Stat. 1025; Pub. L. 94–68, §§ 2, 3, Aug. 5, 1975, 89 Stat. 381; Pub. L. 95–334, title I, § 118, Aug. 4, 1978, 92 Stat. 426; Pub. L. 96–302, title I, § 120(a), July 2, 1980, 94 Stat. 841; Pub. L. 96–438, § 3(a), (b)(1), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 97–35, title I, § 161, Aug. 13, 1981, 95 Stat. 378; Pub. L. 98–258, title VI, § 602(a), Apr. 10, 1984, 98 Stat. 138; Pub. L. 99–198, title XIII, § 1308(a), (b)(1), Dec. 23, 1985, 99 Stat. 1522; Pub. L. 100–707, title I, § 109(c)(1), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 104–127, title VI, § 621(a), Apr. 4, 1996, 110 Stat. 1091; Pub. L. 106–387, § 1(a) [title VIII, § 833], Oct. 28, 2000, 114 Stat. 1549, 1549A–61; Pub. L. 107–171, title V, §§ 5201(a), 5302, 5501(a), May 13, 2002, 116 Stat. 344, 351; Pub. L. 110–234, title V, § 5201, May 22, 2008, 122 Stat. 1146; Pub. L. 110–246, § 4(a), title V, § 5201, June 18, 2008, 122 Stat. 1664, 1908; Pub. L. 113–79, title V, § 5201, Feb. 7, 2014, 128 Stat. 838; Pub. L. 115–334, title V, § 5401(a)(1), Dec. 20, 2018, 132 Stat. 4674.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Plant Protection Act, referred to in subsec. (a), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+The Plant Protection Act, referred to in subsec. (a), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Codification**
 
@@ -4041,17 +4041,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (a). Pub. L. 115–334, in second sentence, substituted “limited liability companies, and such other legal entities” for “and limited liability companies”.
 
-2014—Subsec. (a). Pub. L. 113–79, § 5201(4), inserted before period at end “An entity that is an owner-operator or operator described in this subsection shall be considered to meet the direct ownership requirement imposed under this subsection if at least 75 percent of the ownership interests of each embedded entity of the entity is owned directly or indirectly by the individuals that own the family farm.”
+2014—Subsec. (a). Pub. L. 113–79, § 5201(4), inserted before period at end “An entity that is an owner-operator or operator described in this subsection shall be considered to meet the direct ownership requirement imposed under this subsection if at least 75 percent of the ownership interests of each embedded entity of the entity is owned directly or indirectly by the individuals that own the family farm.”
 
-Pub. L. 113–79, § 5201(3), in second sentence, substituted “ownership or operator” for “ownership and operator”.
+Pub. L. 113–79, § 5201(3), in second sentence, substituted “ownership or operator” for “ownership and operator”.
 
-Pub. L. 113–79, § 5201(2)(C), which directed substitution of “limited liability companies, and such other legal entities” for “and limited liability companies,” in first sentence and could not be executed as directed, was superseded by Pub. L. 115–334, § 5401(a)(1). See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
+Pub. L. 113–79, § 5201(2)(C), which directed substitution of “limited liability companies, and such other legal entities” for “and limited liability companies,” in first sentence and could not be executed as directed, was superseded by Pub. L. 115–334, § 5401(a)(1). See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
-Pub. L. 113–79, § 5201(1), (2)(A), (B), in first sentence, substituted “(in the case of farm ownership loans in accordance with subchapter I) owner-operators or operators, or (in the case of loans for a purpose under subchapter II) operators” for “owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter)” in two places, and inserted “, or such other legal entities as the Secretary considers appropriate” after “limited liability companies” the first place appearing and “, or other legal entities” after “limited liability companies” the second place appearing.
+Pub. L. 113–79, § 5201(1), (2)(A), (B), in first sentence, substituted “(in the case of farm ownership loans in accordance with subchapter I) owner-operators or operators, or (in the case of loans for a purpose under subchapter II) operators” for “owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter)” in two places, and inserted “, or such other legal entities as the Secretary considers appropriate” after “limited liability companies” the first place appearing and “, or other legal entities” after “limited liability companies” the second place appearing.
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 5201(1), substituted “farmers or ranchers (including equine farmers or ranchers)” for “farmers, ranchers”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 5201(1), substituted “farmers or ranchers (including equine farmers or ranchers)” for “farmers, ranchers”.
 
-Subsec. (a)(2)(A). Pub. L. 110–246, § 5201(2), substituted “farming or ranching (including equine farming or ranching)” for “farming, ranching,”.
+Subsec. (a)(2)(A). Pub. L. 110–246, § 5201(2), substituted “farming or ranching (including equine farming or ranching)” for “farming, ranching,”.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “a quarantine imposed by the Secretary under the Plant Protection Act or the animal quarantine laws (as defined in section 136a of title 21), a natural disaster in the United States, or” for “a natural disaster in the United States or by” in two places, “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)” for “Disaster Relief and Emergency Assistance Act” in two places, “joint operations, trusts, or limited liability companies” for “or joint operations” in two places, “joint operations, trusts, and limited liability companies” for “and joint operations”, “such a quarantine or natural disaster at any time” for “a natural disaster at any time”, and “by such quarantine or natural disaster or (B)” for “by such natural disaster or (B)”.
 
@@ -4061,33 +4061,33 @@ Subsec. (a)(2)(A). Pub. L. 110–246, § 5201(2), substituted “farming or ra
 
 1988—Subsec. (a). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974” in two places.
 
-1985—Subsec. (a)(1). Pub. L. 99–198, § 1308(a), inserted “and who are owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter) of not larger than family farms” after “United States” in cl. (1) of first sentence, extended applicability to joint operations, and substituted requirement that a majority interest be held by individuals who are citizens of the United States and who are owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter) of not larger than family farms (or in the case of such cooperatives, corporations, partnerships, or joint operations in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, that such individuals must be either owners or operators of not larger than a family farm and at least one such individual must be an operator of not larger than a family farm) for requirement that a majority interest be held by members, stockholders or partners who are citizens of the United States, in cl. (2) of first sentence, and inserted provision extending the family farm requirement to all farms in which the entity has an ownership and operator interest (in the case of loans for a purpose under subchapter I of this chapter) or an operator interest (in the case of loans for a purpose under subchapter II of this chapter).
+1985—Subsec. (a)(1). Pub. L. 99–198, § 1308(a), inserted “and who are owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter) of not larger than family farms” after “United States” in cl. (1) of first sentence, extended applicability to joint operations, and substituted requirement that a majority interest be held by individuals who are citizens of the United States and who are owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter) of not larger than family farms (or in the case of such cooperatives, corporations, partnerships, or joint operations in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, that such individuals must be either owners or operators of not larger than a family farm and at least one such individual must be an operator of not larger than a family farm) for requirement that a majority interest be held by members, stockholders or partners who are citizens of the United States, in cl. (2) of first sentence, and inserted provision extending the family farm requirement to all farms in which the entity has an ownership and operator interest (in the case of loans for a purpose under subchapter I of this chapter) or an operator interest (in the case of loans for a purpose under subchapter II of this chapter).
 
-Subsec. (b). Pub. L. 99–198, § 1308(b)(1), amended subsec. (b) generally, substituting provision declaring a loan applicant ineligible for financial assistance for crop losses where crop insurance was available to the applicant for former provision which made applicants eligible for loans, though able to obtain credit elsewhere, subject to the other terms and conditions for loans under this subchapter and as prescribed under regulations by the Secretary.
+Subsec. (b). Pub. L. 99–198, § 1308(b)(1), amended subsec. (b) generally, substituting provision declaring a loan applicant ineligible for financial assistance for crop losses where crop insurance was available to the applicant for former provision which made applicants eligible for loans, though able to obtain credit elsewhere, subject to the other terms and conditions for loans under this subchapter and as prescribed under regulations by the Secretary.
 
 1984—Subsec. (a). Pub. L. 98–258 inserted provisions directing the Secretary to accept applications from, and make or insure loans pursuant to the requirements of this subchapter to, applicants, otherwise eligible under this subchapter, that conduct farming, ranching, or aquaculture operations in any county contiguous to a county where the Secretary has found that farming, ranching, or aquaculture operations have been substantially affected by a natural disaster in the United States or by a major disaster or emergency designated by the President under the Disaster Relief Act of 1974, and further directing the Secretary to accept applications for assistance under this subchapter from persons affected by a natural disaster at any time during the eight-month period beginning (A) on the date on which the Secretary determines that farming, ranching, or aquaculture operations have been substantially affected by such natural disaster or (B) on the date the President makes the major disaster or emergency designation with respect to such natural disaster, as the case may be.
 
 1981—Subsec. (a). Pub. L. 97–35 inserted provisions relating to requirement for advance appropriation of amounts.
 
-1980—Subsec. (a). Pub. L. 96–348, § 3(a), (b)(1), repealed section 120 of Pub. L. 96–302 (see par. below) and amended section generally, designating existing provisions as subsec. (a) and, as so designated, restoring provision to proviso requiring loan recipients to be unable to obtain sufficient credit elsewhere.
+1980—Subsec. (a). Pub. L. 96–348, § 3(a), (b)(1), repealed section 120 of Pub. L. 96–302 (see par. below) and amended section generally, designating existing provisions as subsec. (a) and, as so designated, restoring provision to proviso requiring loan recipients to be unable to obtain sufficient credit elsewhere.
 
-Pub. L. 96–302, § 120(a) (see par. above), struck out from proviso requirement that persons to be eligible for loans be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which they reside for loans for similar purposes and periods of time.
+Pub. L. 96–302, § 120(a) (see par. above), struck out from proviso requirement that persons to be eligible for loans be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which they reside for loans for similar purposes and periods of time.
 
-Subsecs. (b) to (d). Pub. L. 96–438, § 3(b)(1), added subsecs. (b) to (d).
+Subsecs. (b) to (d). Pub. L. 96–438, § 3(b)(1), added subsecs. (b) to (d).
 
 1978—Pub. L. 95–334 struck out subsec. (a) which set forth provisions relating to designation of emergency areas and definition of term “aquaculture”, and incorporated provisions of subsec. (b) as entire section and, as so incorporated, substituted provisions relating to criteria authorizing the Secretary to make and insure loans, for provisions relating to criteria authorizing the Secretary to make loans in designated areas.
 
-1975—Subsec. (a). Pub. L. 94–68, § 2, substituted provisions authorizing the Secretary to designate an emergency area if he finds that a natural disaster has occurred in that area which substantially affected farming, ranching, or aquaculture operations for provisions authorizing the Secretary to designate an emergency area if he finds that there exists in that area a general need for agricultural credit and that the need for such credit in that area is the result of a natural disaster, and inserted definition of “aquaculture”.
+1975—Subsec. (a). Pub. L. 94–68, § 2, substituted provisions authorizing the Secretary to designate an emergency area if he finds that a natural disaster has occurred in that area which substantially affected farming, ranching, or aquaculture operations for provisions authorizing the Secretary to designate an emergency area if he finds that there exists in that area a general need for agricultural credit and that the need for such credit in that area is the result of a natural disaster, and inserted definition of “aquaculture”.
 
-Subsec. (b). Pub. L. 94–68, § 3, extended the authority of the Secretary to make loans to areas designated by the President as “Emergency” pursuant to Disaster Relief Act of 1970, substituted reference to persons engaged in aquaculture and aquaculture for reference to oyster planters and oyster planting respectively, struck out provision that such loans be made without regard to whether the required financial assistance is otherwise available from private, cooperative, or other responsible sources, inserted requirement that the loan applicant be unable to obtain credit elsewhere at reasonable rates and terms, and inserted sentence that the provisions of this subsection shall not apply to loan applications filed prior to July 9, 1975.
+Subsec. (b). Pub. L. 94–68, § 3, extended the authority of the Secretary to make loans to areas designated by the President as “Emergency” pursuant to Disaster Relief Act of 1970, substituted reference to persons engaged in aquaculture and aquaculture for reference to oyster planters and oyster planting respectively, struck out provision that such loans be made without regard to whether the required financial assistance is otherwise available from private, cooperative, or other responsible sources, inserted requirement that the loan applicant be unable to obtain credit elsewhere at reasonable rates and terms, and inserted sentence that the provisions of this subsection shall not apply to loan applications filed prior to July 9, 1975.
 
-1974—Subsec. (a). Pub. L. 93–237, § 10(d), struck out “which cannot be met for temporary periods of time by private, cooperative, or other responsible sources (including loans the Secretary is authorized to make or insure under subchapters I and II of this chapter or any other Act of Congress), at reasonable rates and terms for loans for similar purposes and periods of time” after “a general need for agricultural credit”.
+1974—Subsec. (a). Pub. L. 93–237, § 10(d), struck out “which cannot be met for temporary periods of time by private, cooperative, or other responsible sources (including loans the Secretary is authorized to make or insure under subchapters I and II of this chapter or any other Act of Congress), at reasonable rates and terms for loans for similar purposes and periods of time” after “a general need for agricultural credit”.
 
-Subsec. (b). Pub. L. 93–237, § 10(a), struck out “, and are unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing practice and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time” after “a reasonable prospect for successful operation with the assistance of such loan” and inserted provision that the loans be made without regard to whether the required financial assistance is otherwise available from the private, cooperative, or other responsible sources.
+Subsec. (b). Pub. L. 93–237, § 10(a), struck out “, and are unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing practice and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time” after “a reasonable prospect for successful operation with the assistance of such loan” and inserted provision that the loans be made without regard to whether the required financial assistance is otherwise available from the private, cooperative, or other responsible sources.
 
-1973—Subsec. (a). Pub. L. 93–24, §§ 2, 6, substituted in parenthetical text “authorized to make or insure under subchapters I and II of this chapter” for “authorized to make under subchapter II of this chapter or to make or insure under subchapter I of this chapter” and introductory words “shall designate” for “may designate”.
+1973—Subsec. (a). Pub. L. 93–24, §§ 2, 6, substituted in parenthetical text “authorized to make or insure under subchapters I and II of this chapter” for “authorized to make under subchapter II of this chapter or to make or insure under subchapter I of this chapter” and introductory words “shall designate” for “may designate”.
 
-Subsec. (b). Pub. L. 93–24, § 3, substituted introductory text “shall make loans in any such area designated by the Secretary in accordance with subsection (a) of this section and in any area designated as a major disaster by the President pursuant to the provisions of the Disaster Relief Act of 1970, as amended,” for “is authorized to make loans in any such area” and “: *Provided*, That” for “provided” before “they have experience”.
+Subsec. (b). Pub. L. 93–24, § 3, substituted introductory text “shall make loans in any such area designated by the Secretary in accordance with subsection (a) of this section and in any area designated as a major disaster by the President pursuant to the provisions of the Disaster Relief Act of 1970, as amended,” for “is authorized to make loans in any such area” and “: *Provided*, That” for “provided” before “they have experience”.
 
 1962—Subsec. (b). Pub. L. 87–832 authorized loans to established oyster planters and to private domestic corporations or partnerships engaged primarily in oyster planting.
 
@@ -4095,7 +4095,7 @@ Subsec. (b). Pub. L. 93–24, § 3, substituted introductory text “shall mak
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title V, § 5401(a)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 5201(2)(C) of the Agricultural Act of 2014 (Public Law 113–79) in lieu of the amendment made by such section.”
+Pub. L. 115–334, title V, § 5401(a)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 5201(2)(C) of the Agricultural Act of 2014 (Public Law 113–79) in lieu of the amendment made by such section.”
 
 **Effective Date of 2008 Amendment**
 
@@ -4103,19 +4103,19 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–127, title VI, § 621(b), Apr. 4, 1996, 110 Stat. 1091, provided that: “Section 321(b)(1) of the Consolidated Farm and Rural Development Act [7 U.S.C. 1961(b)(1)] shall not apply until the Secretary of Agriculture makes the determination required by section 321(b)(2) of the Act.” [The Secretary’s determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.]
+Pub. L. 104–127, title VI, § 621(b), Apr. 4, 1996, 110 Stat. 1091, provided that: “Section 321(b)(1) of the Consolidated Farm and Rural Development Act [7 U.S.C. 1961(b)(1)] shall not apply until the Secretary of Agriculture makes the determination required by section 321(b)(2) of the Act.” [The Secretary’s determination relating to hazard insurance under this provision was contained in interim rules published Mar. 3, 1997, and effective Mar. 24, 1997, see 62 F.R. 9351.]
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XIII, § 1308(b)(2), Dec. 23, 1985, 99 Stat. 1522, provided that: “The amendment made by paragraph (1) [amending this section] shall not apply to a person whose eligibility for an emergency loan is the result of damage to an annual crop planted or harvested before the end of 1986.”
+Pub. L. 99–198, title XIII, § 1308(b)(2), Dec. 23, 1985, 99 Stat. 1522, provided that: “The amendment made by paragraph (1) [amending this section] shall not apply to a person whose eligibility for an emergency loan is the result of damage to an annual crop planted or harvested before the end of 1986.”
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–258, title VI, § 602(c), Apr. 10, 1984, 98 Stat. 139, provided that: “the amendments made by this section [amending this section and section 1964 of this title] shall be applicable to disasters occurring after May 30, 1983.”
+Pub. L. 98–258, title VI, § 602(c), Apr. 10, 1984, 98 Stat. 139, provided that: “the amendments made by this section [amending this section and section 1964 of this title] shall be applicable to disasters occurring after May 30, 1983.”
 
 **Effective Date of 1980 Amendments**
 
-Pub. L. 96–438, § 3(d), Oct. 13, 1980, 94 Stat. 1875, provided that:
+Pub. L. 96–438, § 3(d), Oct. 13, 1980, 94 Stat. 1875, provided that:
 
 > “The amendments to subtitle C of the Consolidated Farm and Rural Development Act made by subsection (b) of this section [amending this section and sections 1962 to 1964 and 1971 of this title] shall be effective with respect to loans approved by the Secretary of Agriculture under subtitle C [this subchapter] after the date of enactment of this Act [Oct. 13, 1980], except that, for borrowers with loans outstanding under subtitle C as of December 15, 1979—
 
@@ -4129,29 +4129,29 @@ Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L.
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–237, § 10(b), Jan. 2, 1974, 87 Stat. 1025, provided that: “The provisions of subsection (a) of this section [amending this section] shall be given effect with respect to all loan applications and loans made in connection with a disaster occurring on or after April 20, 1973.”
+Pub. L. 93–237, § 10(b), Jan. 2, 1974, 87 Stat. 1025, provided that: “The provisions of subsection (a) of this section [amending this section] shall be given effect with respect to all loan applications and loans made in connection with a disaster occurring on or after April 20, 1973.”
 
-Pub. L. 93–237, § 10(d), Jan. 2, 1974, 87 Stat. 1025, provided in part that: “The provisions of this subsection [amending this section] shall be given effect with respect to all loan applications and loans made in connection with a disaster occurring on or after December 27, 1972.”
+Pub. L. 93–237, § 10(d), Jan. 2, 1974, 87 Stat. 1025, provided in part that: “The provisions of this subsection [amending this section] shall be given effect with respect to all loan applications and loans made in connection with a disaster occurring on or after December 27, 1972.”
 
 **Ineligibility for Emergency Loans**
 
-Pub. L. 101–82, title III, § 301, Aug. 14, 1989, 103 Stat. 581, provided that: “Section 321(b) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961(b)) shall not apply to a person who otherwise would be eligible for an emergency loan under subtitle C of such Act [7 U.S.C. 1961 et seq.], if such eligibility is the result of damage to an annual crop planted for harvest in 1989.”
+Pub. L. 101–82, title III, § 301, Aug. 14, 1989, 103 Stat. 581, provided that: “Section 321(b) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961(b)) shall not apply to a person who otherwise would be eligible for an emergency loan under subtitle C of such Act [7 U.S.C. 1961 et seq.], if such eligibility is the result of damage to an annual crop planted for harvest in 1989.”
 
 Similar provisions were contained in the following prior act:
 
-Pub. L. 100–387, title III, § 311, Aug. 11, 1988, 102 Stat. 948.
+Pub. L. 100–387, title III, § 311, Aug. 11, 1988, 102 Stat. 948.
 
 **Ninety-Day Extension After January 2, 1974, of Deadline for Seeking Assistance With Regard to Disasters Occurring on or After December 27, 1972**
 
-Pub. L. 93–237, § 10(c), Jan. 2, 1974, 87 Stat. 1025, provided that: “With regard to all disasters occurring on or after December 27, 1972, the Secretary of Agriculture shall extend for ninety days after the date of enactment of this section [Jan. 2, 1974] the deadline for seeking assistance under section 321 of the Consolidated Farm and Rural Development Act [this section] as amended by this section [amending this section].”
+Pub. L. 93–237, § 10(c), Jan. 2, 1974, 87 Stat. 1025, provided that: “With regard to all disasters occurring on or after December 27, 1972, the Secretary of Agriculture shall extend for ninety days after the date of enactment of this section [Jan. 2, 1974] the deadline for seeking assistance under section 321 of the Consolidated Farm and Rural Development Act [this section] as amended by this section [amending this section].”
 
-### § 1962. Loan determination factors; written credit declinations
+### § 1962. Loan determination factors; written credit declinations
 
 **(a)** For the purpose of determining whether to make or insure any loan under this subchapter, the Secretary shall take into consideration the net worth of the applicant involved, including all the assets and liabilities of the applicant.
 
 **(b)** For the purpose of determining whether an applicant under this subchapter is not able to obtain sufficient credit elsewhere, the Secretary shall require at least one written indication of declination of credit, from a legally organized lending institution within reasonable proximity to the applicant, that specifies the reasons for the declination: *Provided*, That for loans in excess of $300,000, the Secretary shall require at least two such written declinations: *Provided further*, That for loans of $100,000 or less, the Secretary may waive the requirement of this subsection if the Secretary determines that it would impose an undue burden on the applicant.
 
-(Pub. L. 87–128, title III, § 322, Aug. 8, 1961, 75 Stat. 311; Pub. L. 94–68, § 4, Aug. 5, 1975, 89 Stat. 381; Pub. L. 96–438, § 3(b)(1), Oct. 13, 1980, 94 Stat. 1873; Pub. L. 104–127, title VI, § 622, Apr. 4, 1996, 110 Stat. 1091.)
+(Pub. L. 87–128, title III, § 322, Aug. 8, 1961, 75 Stat. 311; Pub. L. 94–68, § 4, Aug. 5, 1975, 89 Stat. 381; Pub. L. 96–438, § 3(b)(1), Oct. 13, 1980, 94 Stat. 1873; Pub. L. 104–127, title VI, § 622, Apr. 4, 1996, 110 Stat. 1091.)
 
 **Editorial Notes**
 
@@ -4173,11 +4173,11 @@ Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section
 
 Amendment by Pub. L. 96–438 effective with respect to loans approved after Oct. 13, 1980, except for certain subsequent emergency loans, see section 3(d) of Pub. L. 96–438, set out as a note under section 1961 of this title.
 
-### § 1963. Purpose and extent of loans
+### § 1963. Purpose and extent of loans
 
 Loans may be made or insured under this subchapter for any purpose authorized for loans under subchapter I or II of this chapter and for crop or livestock changes that are necessitated by a quarantine, natural disaster, major disaster, or emergency and that are deemed desirable by the applicant, subject to the limitations on the amounts of loans provided in section 1964(a) of this title.
 
-(Pub. L. 87–128, title III, § 323, Aug. 8, 1961, 75 Stat. 311; Pub. L. 96–438, § 3(b)(1), Oct. 13, 1980, 94 Stat. 1873; Pub. L. 104–127, title VI, § 623, Apr. 4, 1996, 110 Stat. 1091; Pub. L. 107–171, title V, § 5201(b), May 13, 2002, 116 Stat. 344.)
+(Pub. L. 87–128, title III, § 323, Aug. 8, 1961, 75 Stat. 311; Pub. L. 96–438, § 3(b)(1), Oct. 13, 1980, 94 Stat. 1873; Pub. L. 104–127, title VI, § 623, Apr. 4, 1996, 110 Stat. 1091; Pub. L. 107–171, title V, § 5201(b), May 13, 2002, 116 Stat. 344.)
 
 **Editorial Notes**
 
@@ -4203,7 +4203,7 @@ Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section
 
 Amendment by Pub. L. 96–438 effective with respect to loans approved after Oct. 13, 1980, except for certain subsequent emergency loans, see section 3(d) of Pub. L. 96–438, set out as a note under section 1961 of this title.
 
-### § 1964. Terms of loans
+### § 1964. Terms of loans
 
 **(a) Maximum amount of loan** The Secretary may not make a loan under this subchapter to a borrower who has suffered a loss in an amount that—
 
@@ -4241,7 +4241,7 @@ The Secretary may deny or cancel a loan under this subchapter if a borrower refu
 
 Any political subdivision of a State with a population of less than ten thousand inhabitants that, if such subdivision had a population of ten thousand or more inhabitants, would be eligible for a grant under the first title of the Community Emergency Drought Relief Act of 1977 shall be eligible for a grant under this chapter during any period in which the Community Emergency Drought Relief Act of 1977 is or has been in effect.
 
-(Pub. L. 87–128, title III, § 324, Aug. 8, 1961, 75 Stat. 311; Pub. L. 93–24, § 4, Apr. 20, 1973, 87 Stat. 25; Pub. L. 94–68, § 5, Aug. 5, 1975, 89 Stat. 381; Pub. L. 95–89, title IV, § 406, Aug. 4, 1977, 91 Stat. 561; Pub. L. 95–334, title I, § 119, Aug. 4, 1978, 92 Stat. 427; Pub. L. 96–302, title I, § 120(b), July 2, 1980, 94 Stat. 841; Pub. L. 96–438, § 3(a), (b)(1), Oct. 13, 1980, 94 Stat. 1872, 1873; Pub. L. 97–35, title I, § 162(a), Aug. 13, 1981, 95 Stat. 378; Pub. L. 98–258, title VI, § 602(b), Apr. 10, 1984, 98 Stat. 138; Pub. L. 99–198, title XIII, § 1308(b)(3), (c), Dec. 23, 1985, 99 Stat. 1523; Pub. L. 100–707, title I, § 109(c)(2), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 104–127, title VI, §§ 624, 625, Apr. 4, 1996, 110 Stat. 1091; Pub. L. 105–277, div. A, § 101(a) [title VIII, § 802], Oct. 21, 1998, 112 Stat. 2681, 2681–38.)
+(Pub. L. 87–128, title III, § 324, Aug. 8, 1961, 75 Stat. 311; Pub. L. 93–24, § 4, Apr. 20, 1973, 87 Stat. 25; Pub. L. 94–68, § 5, Aug. 5, 1975, 89 Stat. 381; Pub. L. 95–89, title IV, § 406, Aug. 4, 1977, 91 Stat. 561; Pub. L. 95–334, title I, § 119, Aug. 4, 1978, 92 Stat. 427; Pub. L. 96–302, title I, § 120(b), July 2, 1980, 94 Stat. 841; Pub. L. 96–438, § 3(a), (b)(1), Oct. 13, 1980, 94 Stat. 1872, 1873; Pub. L. 97–35, title I, § 162(a), Aug. 13, 1981, 95 Stat. 378; Pub. L. 98–258, title VI, § 602(b), Apr. 10, 1984, 98 Stat. 138; Pub. L. 99–198, title XIII, § 1308(b)(3), (c), Dec. 23, 1985, 99 Stat. 1523; Pub. L. 100–707, title I, § 109(c)(2), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 104–127, title VI, §§ 624, 625, Apr. 4, 1996, 110 Stat. 1091; Pub. L. 105–277, div. A, § 101(a) [title VIII, § 802], Oct. 21, 1998, 112 Stat. 2681, 2681–38.)
 
 **Editorial Notes**
 
@@ -4249,7 +4249,7 @@ Any political subdivision of a State with a population of less than ten thousand
 
 This chapter, referred to in subsecs. (d) and (e), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The Community Emergency Drought Relief Act of 1977, referred to in subsec. (e), is Pub. L. 95–31, May 23, 1977, 91 Stat. 169. Title I of the Community Emergency Drought Relief Act of 1977 is set out as a note under section 5184 of Title 42. For complete classification of this Act to the Code, see Tables.
 
@@ -4257,29 +4257,29 @@ The Community Emergency Drought Relief Act of 1977, referred to in subsec. (e), 
 
 1998—Subsec. (d). Pub. L. 105–277 inserted heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
 
-1996—Pub. L. 104–127, § 624, inserted section catchline.
+1996—Pub. L. 104–127, § 624, inserted section catchline.
 
-Subsec. (a). Pub. L. 104–127, § 624, added subsec. (a) and struck out former subsec. (a) which read as follows: “No loan made or insured under this subchapter may exceed the amount of the actual loss caused by the disaster or $500,000, whichever is less, for each disaster.”
+Subsec. (a). Pub. L. 104–127, § 624, added subsec. (a) and struck out former subsec. (a) which read as follows: “No loan made or insured under this subchapter may exceed the amount of the actual loss caused by the disaster or $500,000, whichever is less, for each disaster.”
 
-Subsec. (d). Pub. L. 104–127, § 625, in last sentence, substituted “establish the value of the assets as of the day before the occurrence of the natural disaster, major disaster, or emergency that is the basis for a request for assistance under this subchapter or the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).” for “value the assets based on the higher of (A) the value of the assets on the day before the date the governor of the State in which the farm is located requests assistance under this subchapter or the Disaster Relief and Emergency Assistance Act for any portion of such State affected by the disaster with respect to which the application for the loan is made, or (B) the value of the assets one year before such day.”
+Subsec. (d). Pub. L. 104–127, § 625, in last sentence, substituted “establish the value of the assets as of the day before the occurrence of the natural disaster, major disaster, or emergency that is the basis for a request for assistance under this subchapter or the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).” for “value the assets based on the higher of (A) the value of the assets on the day before the date the governor of the State in which the farm is located requests assistance under this subchapter or the Disaster Relief and Emergency Assistance Act for any portion of such State affected by the disaster with respect to which the application for the loan is made, or (B) the value of the assets one year before such day.”
 
 1988—Subsec. (d). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
 
-1985—Subsec. (a). Pub. L. 99–198, § 1308(c), in amending subsec. (a) generally, struck out par. (1) designation, substituted “No loan” for “Except as otherwise provided in paragraph (2) of this subsection, no loan”, and struck out par. (2) authorization of loans through Sept. 30, 1982 for applicants unable to obtain sufficient credit elsewhere, limited to an amount that would not cause the total unpaid principal indebtedness of the loan applicant to exceed: $1,500,000 through end of fiscal year 1980; $1,000,000 during fiscal year 1981; and $500,000 during fiscal year 1982; and restricted loans in excess of amount of actual loss that were for more than $300,000 without a prior determination of the Secretary of applicant’s inability to obtain loans to finance actual needs at reasonable rates and terms in the residential community of the applicant for loans for similar purposes and periods of time.
+1985—Subsec. (a). Pub. L. 99–198, § 1308(c), in amending subsec. (a) generally, struck out par. (1) designation, substituted “No loan” for “Except as otherwise provided in paragraph (2) of this subsection, no loan”, and struck out par. (2) authorization of loans through Sept. 30, 1982 for applicants unable to obtain sufficient credit elsewhere, limited to an amount that would not cause the total unpaid principal indebtedness of the loan applicant to exceed: $1,500,000 through end of fiscal year 1980; $1,000,000 during fiscal year 1981; and $500,000 during fiscal year 1982; and restricted loans in excess of amount of actual loss that were for more than $300,000 without a prior determination of the Secretary of applicant’s inability to obtain loans to finance actual needs at reasonable rates and terms in the residential community of the applicant for loans for similar purposes and periods of time.
 
-Subsec. (b)(1). Pub. L. 99–198, § 1308(b)(3), substituted provision for interest rates prescribed by the Secretary but “not in excess of 8 percent per annum” for former such provision but “(A) if the applicant is not able to obtain sufficient credit elsewhere, not in excess of 8 per centum per annum, and (B) if the applicant is able to obtain sufficient credit elsewhere, not in excess of the rate prevailing in the private market for similar loans, as determined by the Secretary”.
+Subsec. (b)(1). Pub. L. 99–198, § 1308(b)(3), substituted provision for interest rates prescribed by the Secretary but “not in excess of 8 percent per annum” for former such provision but “(A) if the applicant is not able to obtain sufficient credit elsewhere, not in excess of 8 per centum per annum, and (B) if the applicant is able to obtain sufficient credit elsewhere, not in excess of the rate prevailing in the private market for similar loans, as determined by the Secretary”.
 
 1984—Subsec. (d). Pub. L. 98–258 inserted provision that, if farm assets (including land, livestock, and equipment) are used as collateral to secure a loan made under this subchapter, the Secretary shall value the assets based on the higher of (A) the value of the assets on the day before the date the governor of the State in which the farm is located requests assistance under this subchapter or the Disaster Relief Act of 1974 for any portion of such State affected by the disaster with respect to which the application for the loan is made, or (B) the value of the assets one year before such day.
 
 1981—Subsec. (b)(1). Pub. L. 97–35 in cl. (A) increased amount from 5 to 8 per centum, and in cl. (B) substituted provisions relating to a rate not in excess of the rate prevailing in the private market for similar loans, for provisions relating to a rate not in excess of current average market yield on outstanding United States marketable obligations, plus additional charges and adjustments.
 
-1980—Subsec. (a). Pub. L. 96–348, § 3(a), (b)(1), repealed section 120 of Pub. L. 96–302 (see par. below) and amended subsec. (a) generally, substituting provisions relating to the limitation on loans made or insured under this subchapter and authorizing excess loan amounts for provisions relating to the interest rates, maturity and security of loans made or insured under this chapter.
+1980—Subsec. (a). Pub. L. 96–348, § 3(a), (b)(1), repealed section 120 of Pub. L. 96–302 (see par. below) and amended subsec. (a) generally, substituting provisions relating to the limitation on loans made or insured under this subchapter and authorizing excess loan amounts for provisions relating to the interest rates, maturity and security of loans made or insured under this chapter.
 
-Pub. L. 96–302, § 120(b) (see par. above), substituted interest rate provisions of first sentence for prior provision for loans “(1) at a rate of interest not in excess of 5 per centum per annum on loans up to the amount of the actual loss caused by the disaster, and (2) for any loans or portions of loans in excess of that amount, the interest rate will be that prevailing in the private market for similar loans, as determined by the Secretary” and inserted proviso in second sentence for repayment of subsec. (a)(1)(B) loans.
+Pub. L. 96–302, § 120(b) (see par. above), substituted interest rate provisions of first sentence for prior provision for loans “(1) at a rate of interest not in excess of 5 per centum per annum on loans up to the amount of the actual loss caused by the disaster, and (2) for any loans or portions of loans in excess of that amount, the interest rate will be that prevailing in the private market for similar loans, as determined by the Secretary” and inserted proviso in second sentence for repayment of subsec. (a)(1)(B) loans.
 
-Subsec. (b). Pub. L. 96–438, § 3(b)(1), substituted provisions relating to interest rates on loans made or insured under this subchapter for provisions relating to eligibility of political subdivisions of states for grants under this chapter.
+Subsec. (b). Pub. L. 96–438, § 3(b)(1), substituted provisions relating to interest rates on loans made or insured under this subchapter for provisions relating to eligibility of political subdivisions of states for grants under this chapter.
 
-Subsecs. (c) to (e). Pub. L. 96–438, § 3(b)(1), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 96–438, § 3(b)(1), added subsecs. (c) to (e).
 
 1978—Subsecs. (b), (c). Pub. L. 95–334 redesignated subsec. (c) as (b). Former subsec. (b), which related to reductions in the interest rate based on interest rate of the Small Business Administration, was struck out.
 
@@ -4303,7 +4303,7 @@ Amendment by Pub. L. 98–258 applicable to disasters occurring after May 30, 19
 
 **Effective Date of 1981 Amendment**
 
-Section 162(b) of Pub. L. 97–35 provided that: “The amendments made by this section [amending this section] shall  apply  to  loans  made  with  respect  to  disasters occurring after September 30, 1981”.
+Section 162(b) of Pub. L. 97–35 provided that: “The amendments made by this section [amending this section] shall apply to loans made with respect to disasters occurring after September 30, 1981”.
 
 **Effective Date of 1980 Amendments**
 
@@ -4313,41 +4313,41 @@ Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L.
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–334, title I, § 119, Aug. 4, 1978, 92 Stat. 427, provided that the amendment made by that section is effective Oct. 1, 1978.
+Pub. L. 95–334, title I, § 119, Aug. 4, 1978, 92 Stat. 427, provided that the amendment made by that section is effective Oct. 1, 1978.
 
 **Small Business Disaster Loans; Interest Rate; Cancellation of Loans**
 
 Loans by Small Business Administration in connection with any disaster occurring on or after Apr. 20, 1973 made under section 636(b)(1), (2), or (4) of Title 15, as subject to interest rate determined under this section and prohibition against cancellation of such loan under any provision of law, see section 9 of Pub. L. 93–24, set out as a note under section 636 of Title 15, Commerce and Trade.
 
-### § 1965. Repealed. Pub. L. 95–334, title I, § 120, Aug. 4, 1978, 92 Stat. 427
+### § 1965. Repealed. Pub. L. 95–334, title I, § 120, Aug. 4, 1978, 92 Stat. 427
 
-Section, Pub. L. 87–128, title III, § 325, Aug. 8, 1961, 75 Stat. 311; Pub. L. 94–68, § 6, Aug. 5, 1975, 89 Stat. 382, authorized delegation of authority to State Directors of Farmers Home Administration for making emergency loans.
+Section, Pub. L. 87–128, title III, § 325, Aug. 8, 1961, 75 Stat. 311; Pub. L. 94–68, § 6, Aug. 5, 1975, 89 Stat. 382, authorized delegation of authority to State Directors of Farmers Home Administration for making emergency loans.
 
-### § 1966. Emergency Credit Revolving Fund utilization
+### § 1966. Emergency Credit Revolving Fund utilization
 
-The Secretary is authorized to utilize the revolving fund created by section 1148a 1
+The Secretary is authorized to utilize the revolving fund created by section 1148a 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 12 (hereinafter in this subchapter referred to as the “Emergency Credit Revolving Fund”) for carrying out the purposes of this subchapter.
 
-(Pub. L. 87–128, title III, § 326, Aug. 8, 1961, 75 Stat. 312.)
+(Pub. L. 87–128, title III, § 326, Aug. 8, 1961, 75 Stat. 312.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1148a of title 12, referred to in text, was repealed by Pub. L. 92–181, title V, § 5.26(a), Dec. 10, 1971, 85 Stat. 624. See section 2252 of Title 12, Banks and Banking.
+Section 1148a of title 12, referred to in text, was repealed by Pub. L. 92–181, title V, § 5.26(a), Dec. 10, 1971, 85 Stat. 624. See section 2252 of Title 12, Banks and Banking.
 
 The Emergency Credit Revolving Fund, referred to in text, was abolished and its assets and liabilities transferred to the Agricultural Credit Insurance Fund by section 1929 of this title.
 
-### § 1967. Addition to Emergency Credit Revolving Fund of sums from liquidation of loans; authorization of appropriations
+### § 1967. Addition to Emergency Credit Revolving Fund of sums from liquidation of loans; authorization of appropriations
 
 **(a)** All sums received by the Secretary from the liquidation of loans made under the provisions of this subchapter or under the Act of April 6, 1949, as amended, or the Act of August 31, 1954, and from the liquidation of any other assets acquired with money from the Emergency Credit Revolving Fund shall be added to and become a part of such fund.
 
 **(b)** There are authorized to be appropriated to the Emergency Credit Revolving Fund such additional sums as the Congress shall from time to time determine to be necessary.
 
-(Pub. L. 87–128, title III, § 327, Aug. 8, 1961, 75 Stat. 312.)
+(Pub. L. 87–128, title III, § 327, Aug. 8, 1961, 75 Stat. 312.)
 
 **Editorial Notes**
 
@@ -4361,29 +4361,29 @@ Act of August 31, 1954, referred to in subsec. (a), is act Aug. 31, 1954, ch. 11
 
 The Emergency Credit Revolving Fund, referred to in this section and in section 1966 of this title, was abolished and its assets and liabilities transferred to the Agricultural Credit Insurance Fund by section 1929 of this title.
 
-### § 1968. Repealed. Pub. L. 104–127, title VI, § 626, Apr. 4, 1996, 110 Stat. 1092
+### § 1968. Repealed. Pub. L. 104–127, title VI, § 626, Apr. 4, 1996, 110 Stat. 1092
 
-Section, Pub. L. 87–128, title III, § 328, as added Pub. L. 92–173, Nov. 24, 1971, 85 Stat. 491; amended Pub. L. 93–24, § 5, Apr. 20, 1973, 87 Stat. 25; Pub. L. 95–334, title I, § 109(b), Aug. 4, 1978, 92 Stat. 423, related to insurance of loans.
+Section, Pub. L. 87–128, title III, § 328, as added Pub. L. 92–173, Nov. 24, 1971, 85 Stat. 491; amended Pub. L. 93–24, § 5, Apr. 20, 1973, 87 Stat. 25; Pub. L. 95–334, title I, § 109(b), Aug. 4, 1978, 92 Stat. 423, related to insurance of loans.
 
-### § 1969. Repealed. Pub. L. 93–24, § 1, Apr. 20, 1973, 87 Stat. 24
+### § 1969. Repealed. Pub. L. 93–24, § 1, Apr. 20, 1973, 87 Stat. 24
 
-Section, Pub. L. 87–128, title III, § 328, as added Pub. L. 92–385, § 5, Aug. 16, 1972, 86 Stat. 557, provided for emergency loans for major and natural disasters occurring between June 30, 1971, and July 1, 1973, providing in: subsec. (a) for cancellation of existing loans and the considerations in making grants, loans, and refinancing of loans; subsec. (b) for loans for loss or damage to agricultural crops; subsec. (c) for amount of loans and interest rates; subsec. (d) for availability of benefits irrespective of age; subsec. (e) for availability of benefits irrespective of approval date; and subsec. (f) for report to Congress.
+Section, Pub. L. 87–128, title III, § 328, as added Pub. L. 92–385, § 5, Aug. 16, 1972, 86 Stat. 557, provided for emergency loans for major and natural disasters occurring between June 30, 1971, and July 1, 1973, providing in: subsec. (a) for cancellation of existing loans and the considerations in making grants, loans, and refinancing of loans; subsec. (b) for loans for loss or damage to agricultural crops; subsec. (c) for amount of loans and interest rates; subsec. (d) for availability of benefits irrespective of age; subsec. (e) for availability of benefits irrespective of approval date; and subsec. (f) for report to Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Loans to Eligible Applicants in Areas Determined as Natural Disaster Areas After January 1, 1972, and Before December 27, 1972; Time for Acceptance of Applications**
 
-Pub. L. 93–24, § 8, Apr. 20, 1973, 87 Stat. 25, provided that: “Notwithstanding the repeal herein of section 5 of Public Law 92–385 [this section], and notwithstanding any other provision of law, the Secretary of Agriculture shall make loans in accordance with the provisions of section 5 of Public Law 92–385 [this section] to eligible applicants in natural disaster areas determined or designated by the Secretary of Agriculture where such determination or designation had been made after January 1, 1972 and prior to December 27, 1972. The authority to accept applications for such loans shall expire 18 days after the effective date of this Act [Apr. 20, 1973].”
+Pub. L. 93–24, § 8, Apr. 20, 1973, 87 Stat. 25, provided that: “Notwithstanding the repeal herein of section 5 of Public Law 92–385 [this section], and notwithstanding any other provision of law, the Secretary of Agriculture shall make loans in accordance with the provisions of section 5 of Public Law 92–385 [this section] to eligible applicants in natural disaster areas determined or designated by the Secretary of Agriculture where such determination or designation had been made after January 1, 1972 and prior to December 27, 1972. The authority to accept applications for such loans shall expire 18 days after the effective date of this Act [Apr. 20, 1973].”
 
 **Continuation of Secretary’s Authority With Respect to Natural Disasters Occurring After December 26, 1972, and Prior to April 20, 1973**
 
-Pub. L. 93–237, § 4, Jan. 2, 1974, 87 Stat. 1024, provided that: “Notwithstanding the provisions of Public Law 93–24 [which repealed this section], the Secretary of Agriculture shall continue to exercise his authority with respect to natural disasters which occurred after December 26, 1972, but prior to April 20, 1973, in accordance with the provisions of section 5 of Public Law 92–385 [this section] as such section was in effect prior to April 20, 1973.”
+Pub. L. 93–237, § 4, Jan. 2, 1974, 87 Stat. 1024, provided that: “Notwithstanding the provisions of Public Law 93–24 [which repealed this section], the Secretary of Agriculture shall continue to exercise his authority with respect to natural disasters which occurred after December 26, 1972, but prior to April 20, 1973, in accordance with the provisions of section 5 of Public Law 92–385 [this section] as such section was in effect prior to April 20, 1973.”
 
-### § 1970. Eligibility for assistance based on production loss
+### § 1970. Eligibility for assistance based on production loss
 
 The Secretary shall make financial assistance under this subchapter available to any applicant seeking assistance based on production losses if the applicant shows that a single enterprise which constitutes a basic part of the applicant’s farming, ranching, or aquaculture operation has sustained at least a 30 per centum loss of normal per acre or per animal production, or such lesser per centum of loss as the Secretary may determine, as a result of the disaster based upon the average monthly price in effect for the previous year and the applicant otherwise meets the conditions of eligibility prescribed under this subchapter. Such loans shall be made available based upon 80 per centum, or such greater per centum as the Secretary may determine, of the total calculated actual production loss sustained by the applicant.
 
-(Pub. L. 87–128, title III, § 329, as added Pub. L. 94–68, § 7, Aug. 5, 1975, 89 Stat. 382; amended Pub. L. 97–35, title I, § 163, Aug. 13, 1981, 95 Stat. 378.)
+(Pub. L. 87–128, title III, § 329, as added Pub. L. 94–68, § 7, Aug. 5, 1975, 89 Stat. 382; amended Pub. L. 97–35, title I, § 163, Aug. 13, 1981, 95 Stat. 378.)
 
 **Editorial Notes**
 
@@ -4391,13 +4391,13 @@ The Secretary shall make financial assistance under this subchapter available to
 
 1981—Pub. L. 97–35 increased specific per centum loss from 20 to 30, and authorized a lesser per centum loss pursuant to determinations by the Secretary under applicable criteria.
 
-### § 1971. Repealed. Pub. L. 99–198, title XIII, § 1308(d), Dec. 23, 1985, 99 Stat. 1523
+### § 1971. Repealed. Pub. L. 99–198, title XIII, § 1308(d), Dec. 23, 1985, 99 Stat. 1523
 
-Section, Pub. L. 87–128, title III, § 330, as added Pub. L. 94–68, § 8, Aug. 5, 1975, 89 Stat. 382; amended Pub. L. 96–438, § 3(b)(2), Oct. 13, 1980, 94 Stat. 1875, authorized additional emergency loans.
+Section, Pub. L. 87–128, title III, § 330, as added Pub. L. 94–68, § 8, Aug. 5, 1975, 89 Stat. 382; amended Pub. L. 96–438, § 3(b)(2), Oct. 13, 1980, 94 Stat. 1875, authorized additional emergency loans.
 
 ## SUBCHAPTER IV—ADMINISTRATIVE PROVISIONS
 
-### § 1981. Farmers Home Administration
+### § 1981. Farmers Home Administration
 
 **(a) Appointment and compensation of Administrator; transfer of powers, duties, and assets pertaining to agricultural credit**
 
@@ -4413,7 +4413,7 @@ In accordance with section 2006a of this title, for purposes of this chapter, an
 
 **(4)** compromise, adjust, reduce, or charge-off debts or claims (including debts and claims arising from loan guarantees), and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Consolidated Farm Service Agency,1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Service, or a successor agency, or the Rural Development Administration, except for activities under the Housing Act of 1949 [42 U.S.C. 1441 et seq.]. In the case of a security instrument entered into under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), the Secretary shall notify the Attorney General of the intent of the Secretary to exercise the authority of the Secretary under this paragraph. The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection. After consultation with a local or area county committee, the Secretary may release borrowers or others obligated on a debt, except for debt incurred under the Housing Act of 1949, from personal liability with or without payment of any consideration at the time of the compromise, adjustment, reduction, or charge-off of any claim, except that no compromise, adjustment, reduction, or charge-off of any claim may be made or carried out after the claim has been referred to the Attorney General, unless the Attorney General approves;
 
@@ -4421,9 +4421,9 @@ Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Servi
 
 **(6)** release mortgage and other contract liens if it appears that they have no present or prospective value or that their enforcement likely would be ineffectual or uneconomical;
 
-**(7)** obtain fidelity bonds protecting the Government against fraud and dishonesty of officers and employees of the Farmers Home Administration in lieu of faithful performance of duties bonds under section 14 2
+**(7)** obtain fidelity bonds protecting the Government against fraud and dishonesty of officers and employees of the Farmers Home Administration in lieu of faithful performance of duties bonds under section 14 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 6, and regulations issued pursuant thereto, but otherwise in accordance with the provisions thereof;
 
@@ -4469,7 +4469,7 @@ The Secretary shall use the coordinated strategy and information developed for t
 
 The Secretary and the designees of the Secretary are hereby granted the same access to information and subject to the same requirements applicable to the Secretary of Housing and Urban Development as provided in section 653 of title 42 and section 6103(*l*)(7)(D)(ix) of title 26 to verify income for individuals participating in sections 502, 504, 521, and 542 of the Housing Act of 1949 (42 U.S.C. 1472, 1474, 1490a, and 1490r), notwithstanding section 653(*l*) of title 42.
 
-(Pub. L. 87–128, title III, § 331, Aug. 8, 1961, 75 Stat. 312; Pub. L. 90–488, § 11, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, § 124, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, § 121, Aug. 4, 1978, 92 Stat. 427; Pub. L. 97–98, title XVI, § 1603, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, § 1309, Dec. 23, 1985, 99 Stat. 1523; Pub. L. 100–233, title VI, § 615(c), Jan. 6, 1988, 101 Stat. 1682; Pub. L. 101–624, title XVIII, §§ 1805, 1806, title XXIII, §§ 2303(a), 2388(d)(1), Nov. 28, 1990, 104 Stat. 3819, 3981, 4052; Pub. L. 102–237, title V, § 501(c), title VII, § 701(h)(1)(E), Dec. 13, 1991, 105 Stat. 1866, 1880; Pub. L. 103–248, § 2, May 11, 1994, 108 Stat. 619; Pub. L. 103–354, title II, § 226(h), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title VI, §§ 631, 632, title VII, § 748, Apr. 4, 1996, 110 Stat. 1092, 1128; Pub. L. 107–171, title V, §§ 5303, 5304(a), May 13, 2002, 116 Stat. 345; Pub. L. 113–79, title VI, § 6018, Feb. 7, 2014, 128 Stat. 846; Pub. L. 115–334, title VI, §§ 6210(a), 6417, Dec. 20, 2018, 132 Stat. 4743, 4763.)
+(Pub. L. 87–128, title III, § 331, Aug. 8, 1961, 75 Stat. 312; Pub. L. 90–488, § 11, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, § 124, Aug. 30, 1972, 86 Stat. 665; Pub. L. 95–334, title I, § 121, Aug. 4, 1978, 92 Stat. 427; Pub. L. 97–98, title XVI, § 1603, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, § 1309, Dec. 23, 1985, 99 Stat. 1523; Pub. L. 100–233, title VI, § 615(c), Jan. 6, 1988, 101 Stat. 1682; Pub. L. 101–624, title XVIII, §§ 1805, 1806, title XXIII, §§ 2303(a), 2388(d)(1), Nov. 28, 1990, 104 Stat. 3819, 3981, 4052; Pub. L. 102–237, title V, § 501(c), title VII, § 701(h)(1)(E), Dec. 13, 1991, 105 Stat. 1866, 1880; Pub. L. 103–248, § 2, May 11, 1994, 108 Stat. 619; Pub. L. 103–354, title II, § 226(h), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title VI, §§ 631, 632, title VII, § 748, Apr. 4, 1996, 110 Stat. 1092, 1128; Pub. L. 107–171, title V, §§ 5303, 5304(a), May 13, 2002, 116 Stat. 345; Pub. L. 113–79, title VI, § 6018, Feb. 7, 2014, 128 Stat. 846; Pub. L. 115–334, title VI, §§ 6210(a), 6417, Dec. 20, 2018, 132 Stat. 4743, 4763.)
 
 **Editorial Notes**
 
@@ -4487,153 +4487,153 @@ Act of April 6, 1949, as amended, referred to in subsec. (a), is act Apr. 6, 194
 
 Act of August 31, 1954, as amended, referred to in subsec. (a), is act Aug. 31, 1954, ch. 1145, 68 Stat. 999, which was formerly classified as a note under section 1148a–1 of Title 12, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
-The Housing Act of 1949, as amended, referred to in subsec. (b)(4), (5), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, as amended, referred to in subsec. (b)(4), (5), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The Rural Electrification Act of 1936, referred to in subsecs. (b)(4) and (e)(3), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsecs. (b)(4) and (e)(3), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
-Section 14 of title 6, referred to in subsec. (b)(7), was repealed by Pub. L. 92–310, title II, § 203(1), June 6, 1972, 86 Stat. 202. For provisions relating to surety bonds of Federal personnel, see section 9301 et seq. of Title 31, Money and Finance.
+Section 14 of title 6, referred to in subsec. (b)(7), was repealed by Pub. L. 92–310, title II, § 203(1), June 6, 1972, 86 Stat. 202. For provisions relating to surety bonds of Federal personnel, see section 9301 et seq. of Title 31, Money and Finance.
 
 **Amendments**
 
-2018—Subsec. (e). Pub. L. 115–334, § 6210(a), added subsec. (e).
+2018—Subsec. (e). Pub. L. 115–334, § 6210(a), added subsec. (e).
 
-Subsec. (f). Pub. L. 115–334, § 6417, added subsec. (f).
+Subsec. (f). Pub. L. 115–334, § 6417, added subsec. (f).
 
 2014—Subsec. (d). Pub. L. 113–79 added subsec. (d).
 
-2002—Subsec. (b)(4). Pub. L. 107–171, § 5303, substituted “After consultation with a local or area county committee, the Secretary may release” for “The Secretary may release” and “carried out after” for “carried out—
+2002—Subsec. (b)(4). Pub. L. 107–171, § 5303, substituted “After consultation with a local or area county committee, the Secretary may release” for “The Secretary may release” and “carried out after” for “carried out—
 
 “(A) with respect to farmer program loans, on terms more favorable than those recommended by the appropriate county committee utilized pursuant to section 1982 of this title; or
 
 “(B) after”.
 
-Subsecs. (d), (e). Pub. L. 107–171, § 5304(a), struck out subsecs. (d) and (e) which related to temporary authority to enter into contracts, and private collection agency, respectively.
+Subsecs. (d), (e). Pub. L. 107–171, § 5304(a), struck out subsecs. (d) and (e) which related to temporary authority to enter into contracts, and private collection agency, respectively.
 
-1996—Subsec. (b)(4). Pub. L. 104–127, § 748, inserted “(including debts and claims arising from loan guarantees)” after “debts or claims”, substituted “Consolidated Farm Service Agency, Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Service, or a successor agency, or” for “Farmers Home Administration or”, and inserted “In the case of a security instrument entered into under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), the Secretary shall notify the Attorney General of the intent of the Secretary to exercise the authority of the Secretary under this paragraph.” after “activities under the Housing Act of 1949 [42 U.S.C. 1441 et seq.].”
+1996—Subsec. (b)(4). Pub. L. 104–127, § 748, inserted “(including debts and claims arising from loan guarantees)” after “debts or claims”, substituted “Consolidated Farm Service Agency, Rural Utilities Service, Rural Housing Service, Rural Business-Cooperative Service, or a successor agency, or” for “Farmers Home Administration or”, and inserted “In the case of a security instrument entered into under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), the Secretary shall notify the Attorney General of the intent of the Secretary to exercise the authority of the Secretary under this paragraph.” after “activities under the Housing Act of 1949 [42 U.S.C. 1441 et seq.].”
 
-Subsec. (d). Pub. L. 104–127, § 631, added subsec. (d).
+Subsec. (d). Pub. L. 104–127, § 631, added subsec. (d).
 
-Subsec. (e). Pub. L. 104–127, § 632, added subsec. (e).
+Subsec. (e). Pub. L. 104–127, § 632, added subsec. (e).
 
 1994—Subsec. (a). Pub. L. 103–354 substituted “assets to such officers or agencies of the Department of Agriculture as the Secretary considers appropriate.” for “assets to the Farmers Home Administration, to be headed by an Administrator, appointed by the President, by and with the advice and consent of the Senate, without regard to the civil service laws or chapter 51 and subchapter III of chapter 53 of title 5, who shall receive basic compensation as provided by law for that office, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office.”
 
 Subsec. (c). Pub. L. 103–248 added subsec. (c).
 
-1991—Pub. L. 102–237, § 501(c)(2)(B)(i), amended directory language of Pub. L. 101–624, § 2388(d)(1). See 1990 Amendment note below.
+1991—Pub. L. 102–237, § 501(c)(2)(B)(i), amended directory language of Pub. L. 101–624, § 2388(d)(1). See 1990 Amendment note below.
 
-Subsec. (b)(1), (2). Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
+Subsec. (b)(1), (2). Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
 
-Subsec. (b)(3). Pub. L. 102–237, § 701(h)(1)(E), substituted “this chapter” for “this Act”.
+Subsec. (b)(3). Pub. L. 102–237, § 701(h)(1)(E), substituted “this chapter” for “this Act”.
 
-Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
+Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
 
-Subsec. (b)(4). Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
+Subsec. (b)(4). Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
 
-Pub. L. 102–237, § 501(c)(1), struck out “this chapter” after “activities under the Housing Act of 1949” and substituted “1949, from” for “1949 from”.
+Pub. L. 102–237, § 501(c)(1), struck out “this chapter” after “activities under the Housing Act of 1949” and substituted “1949, from” for “1949 from”.
 
-Subsec. (b)(4)(A). Pub. L. 102–237, § 501(c)(2)(B)(iii), redesignated Pub. L. 101–624, § 2388(d)(1)(A)(vi), as (v). See 1990 Amendment note below.
+Subsec. (b)(4)(A). Pub. L. 102–237, § 501(c)(2)(B)(iii), redesignated Pub. L. 101–624, § 2388(d)(1)(A)(vi), as (v). See 1990 Amendment note below.
 
-Subsec. (b)(4)(B). Pub. L. 102–237, § 501(c)(2)(B)(iii), redesignated Pub. L. 101–624, § 2388(d)(1)(A)(vi), as (v). See 1990 Amendment note below.
+Subsec. (b)(4)(B). Pub. L. 102–237, § 501(c)(2)(B)(iii), redesignated Pub. L. 101–624, § 2388(d)(1)(A)(vi), as (v). See 1990 Amendment note below.
 
-Subsec. (b)(5). Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
+Subsec. (b)(5). Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
 
-Subsec. (b)(6). Pub. L. 102–237, § 501(c)(2)(B)(ii), (iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(i), (vi). See 1990 Amendment note below.
+Subsec. (b)(6). Pub. L. 102–237, § 501(c)(2)(B)(ii), (iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(i), (vi). See 1990 Amendment note below.
 
-Pub. L. 102–237, § 501(c)(2)(A), repealed Pub. L. 101–624, § 1805(c)(1), (2). See 1990 Amendment note below.
+Pub. L. 102–237, § 501(c)(2)(A), repealed Pub. L. 101–624, § 1805(c)(1), (2). See 1990 Amendment note below.
 
-Subsec. (b)(7). Pub. L. 102–237, § 501(c)(2)(B)(ii), (iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(i), (vi). See 1990 Amendment note below.
+Subsec. (b)(7). Pub. L. 102–237, § 501(c)(2)(B)(ii), (iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(i), (vi). See 1990 Amendment note below.
 
-Pub. L. 102–237, § 501(c)(2)(A), repealed Pub. L. 101–624, § 1805(c)(1), (3). See 1990 Amendment note below.
+Pub. L. 102–237, § 501(c)(2)(A), repealed Pub. L. 101–624, § 1805(c)(1), (3). See 1990 Amendment note below.
 
-Subsec. (b)(8). Pub. L. 102–237, § 501(c)(2)(B)(ii)–(v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(i), (iv), (vi). See 1990 Amendment note below.
+Subsec. (b)(8). Pub. L. 102–237, § 501(c)(2)(B)(ii)–(v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(i), (iv), (vi). See 1990 Amendment note below.
 
-Pub. L. 102–237, § 501(c)(2)(A), repealed Pub. L. 101–624, § 1805(c)(1), (4). See 1990 Amendment note below.
+Pub. L. 102–237, § 501(c)(2)(A), repealed Pub. L. 101–624, § 1805(c)(1), (4). See 1990 Amendment note below.
 
-Subsec. (b)(9). Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
+Subsec. (b)(9). Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
 
-Pars. (c) to (g). Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
+Pars. (c) to (g). Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), amended directory language of Pub. L. 101–624, § 2388(d)(1)(A)(vi). See 1990 Amendment note below.
 
-Par. (h). Pub. L. 102–237, § 501(c)(2)(B)(iii), repealed Pub. L. 101–624, § 2388(d)(1)(A)(iv). See 1990 Amendment note below.
+Par. (h). Pub. L. 102–237, § 501(c)(2)(B)(iii), repealed Pub. L. 101–624, § 2388(d)(1)(A)(iv). See 1990 Amendment note below.
 
-Pub. L. 102–237, § 501(c)(2)(A), amended Pub. L. 101–624, § 1805(b), and repealed Pub. L. 101–624, § 1805(c)(5). See 1990 Amendment note below.
+Pub. L. 102–237, § 501(c)(2)(A), amended Pub. L. 101–624, § 1805(b), and repealed Pub. L. 101–624, § 1805(c)(5). See 1990 Amendment note below.
 
-Pars. (i), (j). Pub. L. 102–237, § 501(c)(2)(A), amended Pub. L. 101–624, § 1805(b), and repealed Pub. L. 101–624, § 1805(c)(5). See 1990 Amendment note below.
+Pars. (i), (j). Pub. L. 102–237, § 501(c)(2)(A), amended Pub. L. 101–624, § 1805(b), and repealed Pub. L. 101–624, § 1805(c)(5). See 1990 Amendment note below.
 
-1990—Pub. L. 101–624, § 2388(d)(1), was amended in its directory language by Pub. L. 102–237, § 501(c)(2)(B)(i), resulting in no change in text.
+1990—Pub. L. 101–624, § 2388(d)(1), was amended in its directory language by Pub. L. 102–237, § 501(c)(2)(B)(i), resulting in no change in text.
 
-Subsec. (a). Pub. L. 101–624, §§ 2303(a)(1), 2388(d)(1)(B), designated first undesignated par. as subsec. (a) and substituted “In accordance with section 2006a of this title, for purposes of this chapter, and” for “For the purposes of this chapter and”, and inserted before period at end “, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office”.
+Subsec. (a). Pub. L. 101–624, §§ 2303(a)(1), 2388(d)(1)(B), designated first undesignated par. as subsec. (a) and substituted “In accordance with section 2006a of this title, for purposes of this chapter, and” for “For the purposes of this chapter and”, and inserted before period at end “, or may assign and transfer such powers, duties, and assets to the Rural Development Administration as provided by law for that office”.
 
-Subsec. (b). Pub. L. 101–624, § 2388(d)(1)(B), designated second undesignated par. beginning “The Secretary may—” as subsec. (b).
+Subsec. (b). Pub. L. 101–624, § 2388(d)(1)(B), designated second undesignated par. beginning “The Secretary may—” as subsec. (b).
 
-Subsec. (b)(1) to (3). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated pars. (a) to (c) as (1) to (3), respectively, of subsec. (b).
+Subsec. (b)(1) to (3). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated pars. (a) to (c) as (1) to (3), respectively, of subsec. (b).
 
-Subsec. (b)(4). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (d) as (4) of subsec. (b).
+Subsec. (b)(4). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (d) as (4) of subsec. (b).
 
-Pub. L. 101–624, §§ 1805(a)(1)(A), (B), 2303(a)(2), inserted “or the Rural Development Administration” after “Farmers Home Administration” in first sentence, substituted “, except for activities under the Housing Act of 1949” for “under any of its programs, as circumstances may require, to carry out” in first sentence, and substituted “, except for debt incurred under the Housing Act of 1949” for “incurred under this chapter” in third sentence.
+Pub. L. 101–624, §§ 1805(a)(1)(A), (B), 2303(a)(2), inserted “or the Rural Development Administration” after “Farmers Home Administration” in first sentence, substituted “, except for activities under the Housing Act of 1949” for “under any of its programs, as circumstances may require, to carry out” in first sentence, and substituted “, except for debt incurred under the Housing Act of 1949” for “incurred under this chapter” in third sentence.
 
-Subsec. (b)(4)(A). Pub. L. 101–624, § 2388(d)(1)(A)(v), formerly (vi), as redesignated by Pub. L. 102–237, § 501(c)(2)(B)(iii), redesignated subpar. (1) as (A).
+Subsec. (b)(4)(A). Pub. L. 101–624, § 2388(d)(1)(A)(v), formerly (vi), as redesignated by Pub. L. 102–237, § 501(c)(2)(B)(iii), redesignated subpar. (1) as (A).
 
-Pub. L. 101–624, § 1805(a)(1)(C), inserted “with respect to farmer program loans,” before “on terms”.
+Pub. L. 101–624, § 1805(a)(1)(C), inserted “with respect to farmer program loans,” before “on terms”.
 
-Subsec. (b)(4)(B). Pub. L. 101–624, § 2388(d)(1)(A)(v), formerly (vi), as redesignated by Pub. L. 102–237, § 501(c)(2)(B)(iii), redesignated subpar. (2) as (B).
+Subsec. (b)(4)(B). Pub. L. 101–624, § 2388(d)(1)(A)(v), formerly (vi), as redesignated by Pub. L. 102–237, § 501(c)(2)(B)(iii), redesignated subpar. (2) as (B).
 
-Subsec. (b)(5). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (e) as (5) of subsec. (b).
+Subsec. (b)(5). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (e) as (5) of subsec. (b).
 
-Pub. L. 101–624, § 1805(a)(2), inserted “except for activities conducted under the Housing Act of 1949,” before “collect”, struck out “arising or” after “obligations”, substituted “by the Farmers Home Administration” for “under this chapter” before “, or under any” and “by the Farmers Home Administration” for “pursuant to this chapter” before “and, if in his”.
+Pub. L. 101–624, § 1805(a)(2), inserted “except for activities conducted under the Housing Act of 1949,” before “collect”, struck out “arising or” after “obligations”, substituted “by the Farmers Home Administration” for “under this chapter” before “, or under any” and “by the Farmers Home Administration” for “pursuant to this chapter” before “and, if in his”.
 
-Subsec. (b)(6). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (f) as (6) of subsec. (b).
+Subsec. (b)(6). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (f) as (6) of subsec. (b).
 
-Pub. L. 101–624, § 2388(d)(1)(A)(ii), substituted “release” for “Release”.
+Pub. L. 101–624, § 2388(d)(1)(A)(ii), substituted “release” for “Release”.
 
-Pub. L. 101–624, § 2388(d)(1)(A)(i), as amended by Pub. L. 102–237, § 501(c)(2)(B)(ii), realigned margin.
+Pub. L. 101–624, § 2388(d)(1)(A)(i), as amended by Pub. L. 102–237, § 501(c)(2)(B)(ii), realigned margin.
 
-Pub. L. 101–624, § 1805(c)(1), (2), which made amendments identical to those by Pub. L. 101–624, § 2388(d)(1)(A)(i), (ii), was repealed by Pub. L. 102–237, § 501(c)(2)(A).
+Pub. L. 101–624, § 1805(c)(1), (2), which made amendments identical to those by Pub. L. 101–624, § 2388(d)(1)(A)(i), (ii), was repealed by Pub. L. 102–237, § 501(c)(2)(A).
 
-Subsec. (b)(7). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (g) as (7) of subsec. (b).
+Subsec. (b)(7). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (g) as (7) of subsec. (b).
 
-Pub. L. 101–624, § 2388(d)(1)(A)(iii), substituted “obtain” for “Obtain”.
+Pub. L. 101–624, § 2388(d)(1)(A)(iii), substituted “obtain” for “Obtain”.
 
-Pub. L. 101–624, § 2388(d)(1)(A)(i), as amended by Pub. L. 102–237, § 501(c)(2)(B)(ii), realigned margin.
+Pub. L. 101–624, § 2388(d)(1)(A)(i), as amended by Pub. L. 102–237, § 501(c)(2)(B)(ii), realigned margin.
 
-Pub. L. 101–624, § 1805(c)(1), (3), which made amendments identical to those by Pub. L. 101–624, § 2388(d)(1)(A)(i), (iii), was repealed by Pub. L. 102–237, § 501(c)(2)(A).
+Pub. L. 101–624, § 1805(c)(1), (3), which made amendments identical to those by Pub. L. 101–624, § 2388(d)(1)(A)(i), (iii), was repealed by Pub. L. 102–237, § 501(c)(2)(A).
 
-Subsec. (b)(8). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (h) [par. (i) prior to redesignation by Pub. L. 101–624, § 1805(b), as amended] as (8) of subsec. (b).
+Subsec. (b)(8). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (h) [par. (i) prior to redesignation by Pub. L. 101–624, § 1805(b), as amended] as (8) of subsec. (b).
 
-Pub. L. 101–624, § 2388(d)(1)(A)(iv)(II), formerly (v)(II), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (iv), redesignated former subpars. (1) and (2) as (A) and (B), respectively.
+Pub. L. 101–624, § 2388(d)(1)(A)(iv)(II), formerly (v)(II), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (iv), redesignated former subpars. (1) and (2) as (A) and (B), respectively.
 
-Pub. L. 101–624, § 2303(a)(3), inserted “Rural Development Administration under this chapter or by the” before “Farmers Home Administration”.
+Pub. L. 101–624, § 2303(a)(3), inserted “Rural Development Administration under this chapter or by the” before “Farmers Home Administration”.
 
-Pub. L. 101–624, § 1806, inserted before semicolon at end “, and shall document the consent of the Secretary for the transfer of the property of a borrower in the file of the borrower”.
+Pub. L. 101–624, § 1806, inserted before semicolon at end “, and shall document the consent of the Secretary for the transfer of the property of a borrower in the file of the borrower”.
 
-Pub. L. 101–624, § 2388(d)(1)(A)(i), (iv)(I), formerly (v)(I), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(ii)–(iv), realigned margin and substituted “consent” for “Consent”.
+Pub. L. 101–624, § 2388(d)(1)(A)(i), (iv)(I), formerly (v)(I), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(ii)–(iv), realigned margin and substituted “consent” for “Consent”.
 
-Pub. L. 101–624, § 1805(c)(1), (4), which made amendments identical to those by Pub. L. 101–624, § 2388(d)(1)(A)(i), (iv)(I), was repealed by Pub. L. 102–237, § 501(c)(2)(A).
+Pub. L. 101–624, § 1805(c)(1), (4), which made amendments identical to those by Pub. L. 101–624, § 2388(d)(1)(A)(i), (iv)(I), was repealed by Pub. L. 102–237, § 501(c)(2)(A).
 
-Subsec. (b)(9). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (i) [par. (j) prior to redesignation by Pub. L. 101–624, § 1805(b), as amended] as (9) of subsec. (b).
+Subsec. (b)(9). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated par. (i) [par. (j) prior to redesignation by Pub. L. 101–624, § 1805(b), as amended] as (9) of subsec. (b).
 
-Pars. (c) to (g). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), (B), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated former pars. (c) to (g) as (3) to (7), respectively, of subsec. (b). See above.
+Pars. (c) to (g). Pub. L. 101–624, § 2388(d)(1)(A)(vi), formerly (vii), (B), as redesignated and amended by Pub. L. 102–237, § 501(c)(2)(B)(iii), (v), redesignated former pars. (c) to (g) as (3) to (7), respectively, of subsec. (b). See above.
 
-Par. (h). Pub. L. 101–624, § 2388(d)(1)(A)(iv), which directed substitution of “not” for “Not” before “require”, was repealed by Pub. L. 102–237, § 501(c)(2)(B)(iii).
+Par. (h). Pub. L. 101–624, § 2388(d)(1)(A)(iv), which directed substitution of “not” for “Not” before “require”, was repealed by Pub. L. 102–237, § 501(c)(2)(B)(iii).
 
-Pub. L. 101–624, § 1805(c)(5), which redesignated par. (i) as (h), was repealed by Pub. L. 102–237, § 501(c)(2)(A).
+Pub. L. 101–624, § 1805(c)(5), which redesignated par. (i) as (h), was repealed by Pub. L. 102–237, § 501(c)(2)(A).
 
-Pub. L. 101–624, § 1805(b), as amended by Pub. L. 102–237, § 501(c)(2)(A), redesignated par. (i) as (h) and struck out par. (h) which read as follows: “Not require borrowers to pay interest accrued after December 31, 1972, on interest which is not more than 90 days overdue on any loan held or insured by the Farmers Home Administration;”.
+Pub. L. 101–624, § 1805(b), as amended by Pub. L. 102–237, § 501(c)(2)(A), redesignated par. (i) as (h) and struck out par. (h) which read as follows: “Not require borrowers to pay interest accrued after December 31, 1972, on interest which is not more than 90 days overdue on any loan held or insured by the Farmers Home Administration;”.
 
-Pars. (i), (j). Pub. L. 101–624, § 1805(c)(5), which redesignated pars. (i) and (j) as (h) and (i), respectively, was repealed by Pub. L. 102–237, § 501(c)(2)(A).
+Pars. (i), (j). Pub. L. 101–624, § 1805(c)(5), which redesignated pars. (i) and (j) as (h) and (i), respectively, was repealed by Pub. L. 102–237, § 501(c)(2)(A).
 
-Pub. L. 101–624, § 1805(b), as amended by Pub. L. 102–237, § 501(c)(2)(A), redesignated pars. (i) and (j) as (h) and (i), respectively. Pars. (h) and (i) subsequently redesignated pars. (8) and (9) of subsec. (b). See above.
+Pub. L. 101–624, § 1805(b), as amended by Pub. L. 102–237, § 501(c)(2)(A), redesignated pars. (i) and (j) as (h) and (i), respectively. Pars. (h) and (i) subsequently redesignated pars. (8) and (9) of subsec. (b). See above.
 
 1988—Par. (d). Pub. L. 100–233 inserted “or debts” before “claims”, and inserted “The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection.”
 
-1985—Par. (d). Pub. L. 99–198, § 1309, in amending par. (d) generally, substituted provisions authorizing the Secretary to compromise, adjust, reduce, or charge-off claims, and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Farmers Home Administration to carry out this chapter for provisions which had authorized the Secretary to compromise, adjust, or reduce claims, and adjust and modify the terms of mortgages, leases, contracts and agreements entered into or administered by the Administration under any of its programs, but not in the event of claims of $25,000 or more without the approval of the Administrator, substituted provisions authorizing the Secretary to release borrowers or others obligated on a debt incurred under this chapter from personal liability with or without consideration at the time of the compromise, adjustment, reduction or charge-off of any claim for provisions authorizing the Secretary to release from personal liability, with or without payment of any consideration at the time of adjustment of the claims, borrowers who transferred the security property to approved applicants, to other than approved applicants, or for amounts less than the indebtedness secured thereby, struck out provisions that compromise, adjustment, or reduction of the claim shall be based on the value of the security and a determination of the debtor’s reasonable ability to pay considering his other assets and income, and struck out provisions relating to any claim due and payable for five years or more and to partial releases and subordination of mortgages.
+1985—Par. (d). Pub. L. 99–198, § 1309, in amending par. (d) generally, substituted provisions authorizing the Secretary to compromise, adjust, reduce, or charge-off claims, and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Farmers Home Administration to carry out this chapter for provisions which had authorized the Secretary to compromise, adjust, or reduce claims, and adjust and modify the terms of mortgages, leases, contracts and agreements entered into or administered by the Administration under any of its programs, but not in the event of claims of $25,000 or more without the approval of the Administrator, substituted provisions authorizing the Secretary to release borrowers or others obligated on a debt incurred under this chapter from personal liability with or without consideration at the time of the compromise, adjustment, reduction or charge-off of any claim for provisions authorizing the Secretary to release from personal liability, with or without payment of any consideration at the time of adjustment of the claims, borrowers who transferred the security property to approved applicants, to other than approved applicants, or for amounts less than the indebtedness secured thereby, struck out provisions that compromise, adjustment, or reduction of the claim shall be based on the value of the security and a determination of the debtor’s reasonable ability to pay considering his other assets and income, and struck out provisions relating to any claim due and payable for five years or more and to partial releases and subordination of mortgages.
 
 1981—Par. (i). Pub. L. 97–98 designated existing provisions following “consent to” as cl. (2) and added cl. (1).
 
 1978—Pub. L. 95–334 in par. (a) struck out references to Puerto Rico and the Virgin Islands, in par. (d) substituted “$25,000” for “$15,000”, and added par. (j).
 
-1972—Par. (a). Pub. L. 92–419, § 124(1), authorized the Secretary of Agriculture, until Jan. 1, 1975, to make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter, and required the Secretary, prior to June 30, 1974, to report to Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit.
+1972—Par. (a). Pub. L. 92–419, § 124(1), authorized the Secretary of Agriculture, until Jan. 1, 1975, to make contracts for services incident to making, insuring, collecting, and servicing loans and property as determined by the Secretary to be necessary for carrying out the purposes of this chapter, and required the Secretary, prior to June 30, 1974, to report to Congress through the President on the experience in using such contracts, together with recommendations for such legislation as he may see fit.
 
-Pars. (d) to (i). Pub. L. 92–419, § 124(2), substituted a semicolon for a period at end of lettered pars. (d), (e) and (f) and added pars. (g) to (i).
+Pars. (d) to (i). Pub. L. 92–419, § 124(2), substituted a semicolon for a period at end of lettered pars. (d), (e) and (f) and added pars. (g) to (i).
 
 1968—Par. (f). Pub. L. 90–488 added par. (f).
 
@@ -4641,11 +4641,11 @@ Pars. (d) to (i). Pub. L. 92–419, § 124(2), substituted a semicolon for a p
 
 **Change of Name**
 
-Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of this title by Pub. L. 115–334, title XII, § 12404(a), Dec. 20, 2018, 132 Stat. 4974.
+Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of this title by Pub. L. 115–334, title XII, § 12404(a), Dec. 20, 2018, 132 Stat. 4974.
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–171, title V, § 5304(b), May 13, 2002, 116 Stat. 345, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to a contract entered into before the effective date of this Act [May 13, 2002].”
+Pub. L. 107–171, title V, § 5304(b), May 13, 2002, 116 Stat. 345, provided that: “The amendment made by subsection (a) [amending this section] shall not apply to a contract entered into before the effective date of this Act [May 13, 2002].”
 
 **Effective Date of 1991 Amendment**
 
@@ -4657,11 +4657,11 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 **Continuation of Small Farmer Training and Technical Assistance Program**
 
-Pub. L. 99–198, title XIII, § 1328, Dec. 23, 1985, 99 Stat. 1541, provided that: “The Secretary of Agriculture shall, during the period beginning on the date of enactment of this Act [Dec. 23, 1985] and ending on September 30, 1988, maintain at substantially current levels the small farmer training and technical assistance program in the office of the Administrator of the Farmers Home Administration.”
+Pub. L. 99–198, title XIII, § 1328, Dec. 23, 1985, 99 Stat. 1541, provided that: “The Secretary of Agriculture shall, during the period beginning on the date of enactment of this Act [Dec. 23, 1985] and ending on September 30, 1988, maintain at substantially current levels the small farmer training and technical assistance program in the office of the Administrator of the Farmers Home Administration.”
 
 **Reamortization of Distressed Farmers Home Administration Loans From Revenues From Softwood Timber Crop Plantings on Marginal Land**
 
-Pub. L. 98–258, title VI, § 608, Apr. 10, 1984, 98 Stat. 140, as amended by Pub. L. 99–198, title XII, § 1254, Dec. 23, 1985, 99 Stat. 1517, provided that:
+Pub. L. 98–258, title VI, § 608, Apr. 10, 1984, 98 Stat. 140, as amended by Pub. L. 99–198, title XII, § 1254, Dec. 23, 1985, 99 Stat. 1517, provided that:
 
 > **“(a)**
 
@@ -4711,7 +4711,7 @@ Pub. L. 98–258, title VI, § 608, Apr. 10, 1984, 98 Stat. 140, as amended by
 
 > **“(g)** No more than 50,000 acres may be placed in such program.”
 
-### § 1981a. Loan moratorium and policy on foreclosures
+### § 1981a. Loan moratorium and policy on foreclosures
 
 **(a) In general**
 
@@ -4739,7 +4739,7 @@ During the period of the moratorium, the Secretary shall waive the accrual of in
 
 If a farmer or rancher does not prevail on a claim of discrimination described in paragraph (1), the farmer or rancher shall be liable for any interest and offsets that accrued during the period that loan acceleration or foreclosure proceedings have been suspended under paragraph (1).
 
-(Pub. L. 87–128, title III, § 331A, as added Pub. L. 95–334, title I, § 122, Aug. 4, 1978, 92 Stat. 427; amended Pub. L. 101–624, title XXIII, § 2303(b), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 110–234, title XIV, § 14002(a), May 22, 2008, 122 Stat. 1442; Pub. L. 110–246, § 4(a), title XIV, § 14002(a), June 18, 2008, 122 Stat. 1664, 2204.)
+(Pub. L. 87–128, title III, § 331A, as added Pub. L. 95–334, title I, § 122, Aug. 4, 1978, 92 Stat. 427; amended Pub. L. 101–624, title XXIII, § 2303(b), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 110–234, title XIV, § 14002(a), May 22, 2008, 122 Stat. 1442; Pub. L. 110–246, § 4(a), title XIV, § 14002(a), June 18, 2008, 122 Stat. 1664, 2204.)
 
 **Editorial Notes**
 
@@ -4767,17 +4767,17 @@ Pub. L. 101–161, title II, Nov. 21, 1989, 103 Stat. 969.
 
 Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246.
 
-Pub. L. 100–202, § 101(k) [title II], Dec. 22, 1987, 101 Stat. 1329–322, 1329–340.
+Pub. L. 100–202, § 101(k) [title II], Dec. 22, 1987, 101 Stat. 1329–322, 1329–340.
 
-Pub. L. 99–500, § 101(a) [title II], Oct. 18, 1986, 100 Stat. 1783, 1783–16, and Pub. L. 99–591, § 101(a) [title II], Oct. 30, 1986, 100 Stat. 3341, 3341–16.
+Pub. L. 99–500, § 101(a) [title II], Oct. 18, 1986, 100 Stat. 1783, 1783–16, and Pub. L. 99–591, § 101(a) [title II], Oct. 30, 1986, 100 Stat. 3341, 3341–16.
 
-Pub. L. 99–190, § 101(a) [H.R. 3037, title II], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
+Pub. L. 99–190, § 101(a) [H.R. 3037, title II], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433.
 
 Pub. L. 97–370, title II, Dec. 18, 1982, 96 Stat. 1800.
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 14002(a), designated existing provisions as subsec. (a) and added subsec. (b).
+2008—Pub. L. 110–246, § 14002(a), designated existing provisions as subsec. (a) and added subsec. (b).
 
 1990—Pub. L. 101–624 inserted “or by the Rural Development Administration” after “Farmers Home Administration”.
 
@@ -4789,7 +4789,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Forbearance and Restructuring for Farm Loans**
 
-Pub. L. 100–387, title III, § 313(a), Aug. 11, 1988, 102 Stat. 949, provided that:
+Pub. L. 100–387, title III, § 313(a), Aug. 11, 1988, 102 Stat. 949, provided that:
 
 > “It is the sense of Congress that the Secretary of Agriculture should, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
 
@@ -4799,7 +4799,7 @@ Pub. L. 100–387, title III, § 313(a), Aug. 11, 1988, 102 Stat. 949, provide
 
 > **“(3)** encourage commercial lenders participating in guaranteed farmer lending programs under the Consolidated Farm and Rural Development Act to exercise forbearance before declaring loans to such farmers and ranchers under such programs in default.”
 
-### § 1981b. Farm loan interest rates
+### § 1981b. Farm loan interest rates
 
 Any loan for farm ownership purposes under subchapter I of this chapter, farm operating purposes under subchapter II of this chapter, or disaster emergency purposes under subchapter III of this chapter, other than a guaranteed loan, that is deferred, consolidated, rescheduled, or reamortized under this chapter shall, notwithstanding any other provision of this chapter, bear interest on the balance of the original loan and for the term of the original loan at a rate that is the lowest of—
 
@@ -4809,7 +4809,7 @@ Any loan for farm ownership purposes under subchapter I of this chapter, farm op
 
 **(3)** the rate being charged by the Secretary for loans, other than guaranteed loans, of the same type at the time of the deferral, consolidation, rescheduling, or reamortization.
 
-(Pub. L. 87–128, title III, § 331B, as added Pub. L. 98–258, title VI, § 605, Apr. 10, 1984, 98 Stat. 139; amended Pub. L. 107–171, title V, § 5305, May 13, 2002, 116 Stat. 345.)
+(Pub. L. 87–128, title III, § 331B, as added Pub. L. 98–258, title VI, § 605, Apr. 10, 1984, 98 Stat. 139; amended Pub. L. 107–171, title V, § 5305, May 13, 2002, 116 Stat. 345.)
 
 **Editorial Notes**
 
@@ -4827,7 +4827,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, provided that: “The Secretary may adjust interest rates on existing nonsubsidized loans if he determines such interest rates are excessive in relation to prevailing commercial rates for comparable loans: *Provided*, That such rate adjustments shall constitute a change in the loan agreement and not a new loan.”
 
-### § 1981c. Oil and gas royalty payments on loans
+### § 1981c. Oil and gas royalty payments on loans
 
 **(a)** The Secretary shall permit a borrower of a loan made or insured under this chapter to make a prospective payment on such loan with proceeds from—
 
@@ -4837,7 +4837,7 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, provided that: “The S
 
 **(b)** Subsection (a) shall not apply to a borrower of a loan made or insured under this chapter with respect to which a liquidation or foreclosure proceeding is pending on December 23, 1985.
 
-(Pub. L. 87–128, title III, § 331C, as added Pub. L. 99–198, title XIII, § 1310(a), Dec. 23, 1985, 99 Stat. 1523.)
+(Pub. L. 87–128, title III, § 331C, as added Pub. L. 99–198, title XIII, § 1310(a), Dec. 23, 1985, 99 Stat. 1523.)
 
 **Editorial Notes**
 
@@ -4845,7 +4845,7 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, provided that: “The S
 
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-### § 1981d. Notice of loan service programs
+### § 1981d. Notice of loan service programs
 
 **(a) Requirement**
 
@@ -4893,7 +4893,7 @@ All notices required by this section shall be contained in the regulations imple
 
 The Secretary shall consider a farmer program borrower for all loan service programs if, within 60 days after receipt of the notice required in this section or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period, the borrower requests such consideration in writing. In considering a borrower for loan service programs, the Secretary shall place the highest priority on the preservation of the borrower’s farming operations.
 
-(Pub. L. 87–128, title III, § 331D, as added Pub. L. 100–233, title VI, § 605, Jan. 6, 1988, 101 Stat. 1666; amended Pub. L. 101–624, title XVIII, § 1807, Nov. 28, 1990, 104 Stat. 3819; Pub. L. 102–554, § 10, Oct. 28, 1992, 106 Stat. 4151; Pub. L. 104–127, title VI, § 633, Apr. 4, 1996, 110 Stat. 1092; Pub. L. 115–334, title V, § 5401(b)(1), Dec. 20, 2018, 132 Stat. 4674.)
+(Pub. L. 87–128, title III, § 331D, as added Pub. L. 100–233, title VI, § 605, Jan. 6, 1988, 101 Stat. 1666; amended Pub. L. 101–624, title XVIII, § 1807, Nov. 28, 1990, 104 Stat. 3819; Pub. L. 102–554, § 10, Oct. 28, 1992, 106 Stat. 4151; Pub. L. 104–127, title VI, § 633, Apr. 4, 1996, 110 Stat. 1092; Pub. L. 115–334, title V, § 5401(b)(1), Dec. 20, 2018, 132 Stat. 4674.)
 
 **Editorial Notes**
 
@@ -4909,15 +4909,15 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this t
 
 1992—Subsec. (e). Pub. L. 102–554, which directed the insertion of “or, in extraordinary circumstances as determined by the applicable State director, after the 60-day period” after “not later than 60 days after receipt of the notice required in this section”, could not be executed because the phrase “not later than 60 days after receipt of the notice required in this section” did not appear in text. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 102–554. See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
-1990—Subsec. (b)(1). Pub. L. 101–624, § 1807(1), inserted “debt settlement programs,” after “preservation loan service programs”.
+1990—Subsec. (b)(1). Pub. L. 101–624, § 1807(1), inserted “debt settlement programs,” after “preservation loan service programs”.
 
-Subsec. (e). Pub. L. 101–624, § 1807(2), substituted “60 days” for “45 days”.
+Subsec. (e). Pub. L. 101–624, § 1807(2), substituted “60 days” for “45 days”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title V, § 5401(b)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 10 of the Agricultural Credit Improvement Act of 1992 (Public Law 102–554).”
+Pub. L. 115–334, title V, § 5401(b)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 10 of the Agricultural Credit Improvement Act of 1992 (Public Law 102–554).”
 
 **Effective Date of 1996 Amendment**
 
@@ -4927,7 +4927,7 @@ Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section
 
 Amendment by section 1807(1) of Pub. L. 101–624 effective 120 days after Nov. 28, 1990, see section 1861(b) of Pub. L. 101–624, set out as a note under section 2001 of this title.
 
-### § 1981e. Planting and production history guidelines
+### § 1981e. Planting and production history guidelines
 
 **(a) In general**
 
@@ -4947,21 +4947,21 @@ For purposes of paragraph (1), a borrower or applicant was affected by a disaste
 
 Paragraph (1) shall apply to all actions taken by the Secretary to carry out this chapter (except for loans under subchapter III) that involve the yields of a farm of a borrower or applicant, including making loans and loan guarantees, servicing loans, and making credit sales.
 
-(Pub. L. 87–128, title III, § 331E, as added Pub. L. 100–233, title VI, § 606, Jan. 6, 1988, 101 Stat. 1667; amended Pub. L. 102–237, title V, § 501(d)(1), Dec. 13, 1991, 105 Stat. 1866; Pub. L. 102–552, title V, § 516(g)(1), Oct. 28, 1992, 106 Stat. 4138.)
+(Pub. L. 87–128, title III, § 331E, as added Pub. L. 100–233, title VI, § 606, Jan. 6, 1988, 101 Stat. 1667; amended Pub. L. 102–237, title V, § 501(d)(1), Dec. 13, 1991, 105 Stat. 1866; Pub. L. 102–552, title V, § 516(g)(1), Oct. 28, 1992, 106 Stat. 4138.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (b)(1), (3), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–552, § 516(g)(1)(A), substituted “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)” for “Disaster Relief Act of 1974”.
+1992—Subsec. (a). Pub. L. 102–552, § 516(g)(1)(A), substituted “Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.)” for “Disaster Relief Act of 1974”.
 
-Subsec. (b)(2). Pub. L. 102–552, § 516(g)(1)(B), inserted “Robert T. Stafford” before “Disaster Relief”.
+Subsec. (b)(2). Pub. L. 102–552, § 516(g)(1)(B), inserted “Robert T. Stafford” before “Disaster Relief”.
 
 1991—Pub. L. 102–237 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -4969,11 +4969,11 @@ Subsec. (b)(2). Pub. L. 102–552, § 516(g)(1)(B), inserted “Robert T. Staf
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–552, title V, § 516(g)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “The amendments made by paragraph (1) of this subsection [amending this section] shall take effect immediately after section 501(d) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) [amending this section and enacting provisions set out below] took effect.”
+Pub. L. 102–552, title V, § 516(g)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “The amendments made by paragraph (1) of this subsection [amending this section] shall take effect immediately after section 501(d) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1866) [amending this section and enacting provisions set out below] took effect.”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–237, title V, § 501(d)(3), Dec. 13, 1991, 105 Stat. 1867, provided that:
+Pub. L. 102–237, title V, § 501(d)(3), Dec. 13, 1991, 105 Stat. 1867, provided that:
 
 > **“(A) In general.—** Except as provided in subparagraph (B), the amendment made by paragraph (1) [amending this section] shall become effective on the date of publication of the interim regulations issued pursuant to paragraph (2)(A) [set out below].
 
@@ -4981,17 +4981,17 @@ Pub. L. 102–237, title V, § 501(d)(3), Dec. 13, 1991, 105 Stat. 1867, provi
 
 **Regulations**
 
-Pub. L. 102–237, title V, § 501(d)(2), Dec. 13, 1991, 105 Stat. 1867, provided that:
+Pub. L. 102–237, title V, § 501(d)(2), Dec. 13, 1991, 105 Stat. 1867, provided that:
 
 > **“(A) Interim regulations.—** Notwithstanding section 553 of title 5, United States Code, as soon as practicable after the date of enactment of this Act [Dec. 13, 1991] and without a requirement for prior public notice and comment, the Secretary of Agriculture shall issue interim regulations that provide for the implementation of the amendment made by paragraph (1) [amending this section] beginning in crop year 1992.
 
 > **“(B) Final regulations.—** The Secretary of Agriculture shall provide for public notice and comment before the issuance of final regulations to implement the amendment made by paragraph (1).”
 
-### § 1981f. Underwriting forms and standards
+### § 1981f. Underwriting forms and standards
 
 In the administration of this chapter, the Secretary shall, to the extent practicable, use underwriting forms, standards, practices, and terminology similar to the forms, standards, practices, and terminology used by lenders in the private sector.
 
-(Pub. L. 87–128, title III, § 331F, as added Pub. L. 101–624, title XVIII, § 1808(a), Nov. 28, 1990, 104 Stat. 3820.)
+(Pub. L. 87–128, title III, § 331F, as added Pub. L. 101–624, title XVIII, § 1808(a), Nov. 28, 1990, 104 Stat. 3820.)
 
 **Editorial Notes**
 
@@ -5003,9 +5003,9 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Regulations**
 
-Pub. L. 101–624, title XVIII, § 1808(b), Nov. 28, 1990, 104 Stat. 3820, provided that: “The Secretary of Agriculture shall not issue final regulations providing for the use of ratios and standards for determining the degree of potential loan risk under section 331F of the Consolidated Farm and Rural Development Act [7 U.S.C. 1981f] (as added by subsection (a) of this section), prior to the submission of the study and report on the effects of the regulations required by section 621 of the Agricultural Credit Act of 1987 (7 U.S.C. 1989 note).”
+Pub. L. 101–624, title XVIII, § 1808(b), Nov. 28, 1990, 104 Stat. 3820, provided that: “The Secretary of Agriculture shall not issue final regulations providing for the use of ratios and standards for determining the degree of potential loan risk under section 331F of the Consolidated Farm and Rural Development Act [7 U.S.C. 1981f] (as added by subsection (a) of this section), prior to the submission of the study and report on the effects of the regulations required by section 621 of the Agricultural Credit Act of 1987 (7 U.S.C. 1989 note).”
 
-### § 1982. Relief for mobilized military reservists from certain agricultural loan obligations
+### § 1982. Relief for mobilized military reservists from certain agricultural loan obligations
 
 **(a) Definition of mobilized military reservist** In this section, the term “mobilized military reservist” means an individual who—
 
@@ -5029,7 +5029,7 @@ Interest on a direct loan made to a borrower described in this section shall not
 
 Notwithstanding section 2008h of this title or any other provision of this chapter, a borrower who receives assistance under this section shall not, as a result of the assistance, be considered to be delinquent or receiving debt forgiveness for purposes of receiving a direct or guaranteed loan under this chapter.
 
-(Pub. L. 87–128, title III, § 332, as added Pub. L. 108–375, div. A, title VI, § 664, Oct. 28, 2004, 118 Stat. 1974; amended Pub. L. 115–232, div. A, title XII, § 1204(a)(2), Aug. 13, 2018, 132 Stat. 2017.)
+(Pub. L. 87–128, title III, § 332, as added Pub. L. 108–375, div. A, title VI, § 664, Oct. 28, 2004, 118 Stat. 1974; amended Pub. L. 115–232, div. A, title XII, § 1204(a)(2), Aug. 13, 2018, 132 Stat. 2017.)
 
 **Editorial Notes**
 
@@ -5039,13 +5039,13 @@ This chapter, referred to in subsecs. (b), (c), and (e), was in the original “
 
 **Prior Provisions**
 
-A prior section 1982, Pub. L. 87–128, title III, § 332, Aug. 8, 1961, 75 Stat. 314; Pub. L. 99–198, title XIII, § 1311, Dec. 23, 1985, 99 Stat. 1524; Pub. L. 100–233, title VI, § 607, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII, § 1809, Nov. 28, 1990, 104 Stat. 3820; Pub. L. 102–554, § 11, Oct. 28, 1992, 106 Stat. 4151, related to county committees, prior to repeal by Pub. L. 103–354, title II, § 227(b)(1), Oct. 13, 1994, 108 Stat. 3218.
+A prior section 1982, Pub. L. 87–128, title III, § 332, Aug. 8, 1961, 75 Stat. 314; Pub. L. 99–198, title XIII, § 1311, Dec. 23, 1985, 99 Stat. 1524; Pub. L. 100–233, title VI, § 607, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII, § 1809, Nov. 28, 1990, 104 Stat. 3820; Pub. L. 102–554, § 11, Oct. 28, 1992, 106 Stat. 4151, related to county committees, prior to repeal by Pub. L. 103–354, title II, § 227(b)(1), Oct. 13, 1994, 108 Stat. 3218.
 
 **Amendments**
 
 2018—Subsec. (a)(1). Pub. L. 115–232 substituted “chapter 13” for “chapter 15”.
 
-### § 1983. Special conditions and limitations on loans
+### § 1983. Special conditions and limitations on loans
 
 In connection with loans made or insured under this chapter, the Secretary shall—
 
@@ -5077,7 +5077,7 @@ In connection with loans made or insured under this chapter, the Secretary shall
 
 **(7)** in the case of an insured or guaranteed loan issued or modified under section 1926(a) of this title, charge and collect from the lender fees in such amounts as to bring down the costs of subsidies for the insured or guaranteed loan, except that the fees shall not act as a bar to participation in the programs nor be inconsistent with current practices in the marketplace.
 
-(Pub. L. 87–128, title III, § 333, Aug. 8, 1961, 75 Stat. 314; Pub. L. 90–488, § 12, Aug. 15, 1968, 82 Stat. 771; Pub. L. 91–620, § 3, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 92–419, title I, §§ 118(b), 125, 126, Aug. 30, 1972, 86 Stat. 664, 666; Pub. L. 95–334, title I, § 123, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, § 3(c), Oct. 13, 1980, 94 Stat. 1875; Pub. L. 97–98, title XVI, § 1604, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 101–624, title XVIII, § 1810, title XXIII, § 2388(e), Nov. 28, 1990, 104 Stat. 3820, 4053; Pub. L. 102–237, title V, § 501(e), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–554, § 12, Oct. 28, 1992, 106 Stat. 4151; Pub. L. 103–354, title II, § 227(b)(2), Oct. 13, 1994, 108 Stat. 3218; Pub. L. 104–127, title VI, §§ 634, 635(a), 636, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, § 5306, May 13, 2002, 116 Stat. 345; Pub. L. 113–79, title VI, § 6019, Feb. 7, 2014, 128 Stat. 846; Pub. L. 115–334, title VI, § 6418, Dec. 20, 2018, 132 Stat. 4764.)
+(Pub. L. 87–128, title III, § 333, Aug. 8, 1961, 75 Stat. 314; Pub. L. 90–488, § 12, Aug. 15, 1968, 82 Stat. 771; Pub. L. 91–620, § 3, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 92–419, title I, §§ 118(b), 125, 126, Aug. 30, 1972, 86 Stat. 664, 666; Pub. L. 95–334, title I, § 123, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, § 3(c), Oct. 13, 1980, 94 Stat. 1875; Pub. L. 97–98, title XVI, § 1604, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 101–624, title XVIII, § 1810, title XXIII, § 2388(e), Nov. 28, 1990, 104 Stat. 3820, 4053; Pub. L. 102–237, title V, § 501(e), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–554, § 12, Oct. 28, 1992, 106 Stat. 4151; Pub. L. 103–354, title II, § 227(b)(2), Oct. 13, 1994, 108 Stat. 3218; Pub. L. 104–127, title VI, §§ 634, 635(a), 636, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, § 5306, May 13, 2002, 116 Stat. 345; Pub. L. 113–79, title VI, § 6019, Feb. 7, 2014, 128 Stat. 846; Pub. L. 115–334, title VI, § 6418, Dec. 20, 2018, 132 Stat. 4764.)
 
 **Editorial Notes**
 
@@ -5089,19 +5089,19 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 2018—Par. (7). Pub. L. 115–334 added par. (7).
 
-2014—Pub. L. 113–79, § 6019(1), struck out “require” after “shall” in introductory provisions.
+2014—Pub. L. 113–79, § 6019(1), struck out “require” after “shall” in introductory provisions.
 
-Par. (1). Pub. L. 113–79, § 6019(2), inserted “require” after “(1)”.
+Par. (1). Pub. L. 113–79, § 6019(2), inserted “require” after “(1)”.
 
-Par. (2). Pub. L. 113–79, § 6019(3), inserted “, require” after “1944 of this title”.
+Par. (2). Pub. L. 113–79, § 6019(3), inserted “, require” after “1944 of this title”.
 
-Par. (3). Pub. L. 113–79, § 6019(4), inserted “require” after “loans,”.
+Par. (3). Pub. L. 113–79, § 6019(4), inserted “require” after “loans,”.
 
-Par. (4). Pub. L. 113–79, § 6019(5)(A), inserted “require” after “(4)”.
+Par. (4). Pub. L. 113–79, § 6019(5)(A), inserted “require” after “(4)”.
 
-Par. (5). Pub. L. 113–79, § 6019(6)(A), inserted “require” after “(5)”.
+Par. (5). Pub. L. 113–79, § 6019(6)(A), inserted “require” after “(5)”.
 
-Par. (6). Pub. L. 113–79, § 6019(5)(B), (6)(B), (7), added par. (6).
+Par. (6). Pub. L. 113–79, § 6019(5)(B), (6)(B), (7), added par. (6).
 
 2002—Par. (2). Pub. L. 107–171 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “except with respect to a loan under section 1926, 1932, or 1944 of this title, the county or area committee established under section 590h(b)(5)(B) of title 16 to certify in writing—
 
@@ -5109,13 +5109,13 @@ Par. (6). Pub. L. 113–79, § 6019(5)(B), (6)(B), (7), added par. (6).
 
 “(B) that a review of the continued eligibility of the borrower for the loan has been conducted;”.
 
-1996—Par. (1)(B). Pub. L. 104–127, § 634, substituted “an appropriate written financial statement” for “a written statement showing the applicant’s net worth”.
+1996—Par. (1)(B). Pub. L. 104–127, § 634, substituted “an appropriate written financial statement” for “a written statement showing the applicant’s net worth”.
 
-Pars. (2) to (4). Pub. L. 104–127, § 635(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
+Pars. (2) to (4). Pub. L. 104–127, § 635(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-Par. (5). Pub. L. 104–127, § 636, added par. (5) and struck out former par. (5) which read as follows: “the applications of veterans for loans under subchapter I or II of this chapter to be given preference over similar applications of nonveterans on file in any county or area office at the same time. Veterans as used herein shall mean persons who served in the Armed Forces of the United States during any war between the United States and any other nation, during the Korean conflict or the Vietnam era and who were discharged or released therefrom under conditions other than dishonorable.”
+Par. (5). Pub. L. 104–127, § 636, added par. (5) and struck out former par. (5) which read as follows: “the applications of veterans for loans under subchapter I or II of this chapter to be given preference over similar applications of nonveterans on file in any county or area office at the same time. Veterans as used herein shall mean persons who served in the Armed Forces of the United States during any war between the United States and any other nation, during the Korean conflict or the Vietnam era and who were discharged or released therefrom under conditions other than dishonorable.”
 
-Pub. L. 104–127, § 635(a)(1), redesignated par. (4) as (5).
+Pub. L. 104–127, § 635(a)(1), redesignated par. (4) as (5).
 
 1994—Pars. (2) to (5). Pub. L. 103–354 redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) relating to certification by county committee of applicant’s eligibility for loan.
 
@@ -5123,21 +5123,21 @@ Pub. L. 104–127, § 635(a)(1), redesignated par. (4) as (5).
 
 1991—Par. (2)(A). Pub. L. 102–237 redesignated cls. (1) to (3) as (i) to (iii), respectively.
 
-1990—Pub. L. 101–624, § 2388(e), redesignated pars. (a) to (e) as (1) to (5), respectively, and in par. (1) redesignated subpars. (1) and (2) as (A) and (B), respectively; in par. (2) redesignated subpars. (1) and (2) as (A) and (B), respectively, and in subpar. (A) redesignated cls. (A) to (C) as (1) to (3), respectively; in par. (3) made technical amendments to references to sections 1934 and 1922 of this title involving original act and requiring no change in text; and in par. (5) made technical amendments to reference to subchapter I or II of this chapter involving original act and requiring no change in text.
+1990—Pub. L. 101–624, § 2388(e), redesignated pars. (a) to (e) as (1) to (5), respectively, and in par. (1) redesignated subpars. (1) and (2) as (A) and (B), respectively; in par. (2) redesignated subpars. (1) and (2) as (A) and (B), respectively, and in subpar. (A) redesignated cls. (A) to (C) as (1) to (3), respectively; in par. (3) made technical amendments to references to sections 1934 and 1922 of this title involving original act and requiring no change in text; and in par. (5) made technical amendments to reference to subchapter I or II of this chapter involving original act and requiring no change in text.
 
-Pub. L. 101–624, § 1810, amended par. (b) generally. Prior to amendment, par. (b) read as follows: “except for loans under sections 1926, 1932, 1944 and 1961(a)(2) of this title, the county committee to certify in writing that the applicant meets the eligibility requirements for the loan, and has the character, industry, and ability to carry out the proposed operations, and will, in the opinion of the committee, honestly endeavor to carry out his undertakings and obligations; and for loans under section 1961(a)(2) of this title, the Secretary shall require the recommendation of the county committee as to the making or insuring of the loan: *Provided*, That the Secretary may provide a procedure for appeal and review of any determination relating to a certification or recommendation required to be made by the county committee, and for reversal or modification thereof should the facts warrant such action;”.
+Pub. L. 101–624, § 1810, amended par. (b) generally. Prior to amendment, par. (b) read as follows: “except for loans under sections 1926, 1932, 1944 and 1961(a)(2) of this title, the county committee to certify in writing that the applicant meets the eligibility requirements for the loan, and has the character, industry, and ability to carry out the proposed operations, and will, in the opinion of the committee, honestly endeavor to carry out his undertakings and obligations; and for loans under section 1961(a)(2) of this title, the Secretary shall require the recommendation of the county committee as to the making or insuring of the loan: *Provided*, That the Secretary may provide a procedure for appeal and review of any determination relating to a certification or recommendation required to be made by the county committee, and for reversal or modification thereof should the facts warrant such action;”.
 
 1981—Par. (a). Pub. L. 97–98 designated existing provisions after “the applicant” as cl. (1), and added cl. (2).
 
 1980—Par. (b). Pub. L. 96–438 substituted “section 1961(a)(2)” for “section 1961(b)(2)” in two places.
 
-1978—Par. (b). Pub. L. 95–334, § 123(1), inserted proviso relating to appeal and review procedure for any determination regarding a certification, etc.
+1978—Par. (b). Pub. L. 95–334, § 123(1), inserted proviso relating to appeal and review procedure for any determination regarding a certification, etc.
 
-Par. (c). Pub. L. 95–334, § 123(2), (3), inserted provisions excepting guaranteed loans and provisions relating to borrowers under section 1934 of this title obtaining loans under section 1922 of this title.
+Par. (c). Pub. L. 95–334, § 123(2), (3), inserted provisions excepting guaranteed loans and provisions relating to borrowers under section 1934 of this title obtaining loans under section 1922 of this title.
 
-1972—Par. (a). Pub. L. 92–419, § 125, inserted “, and the Secretary shall determine,” after “in writing”.
+1972—Par. (a). Pub. L. 92–419, § 125, inserted “, and the Secretary shall determine,” after “in writing”.
 
-Par. (b). Pub. L. 92–419, §§ 118(b), 126, inserted reference to section 1932 of this title and substituted “section 1961(b)(2) of this title” for “said sections”, respectively.
+Par. (b). Pub. L. 92–419, §§ 118(b), 126, inserted reference to section 1932 of this title and substituted “section 1961(b)(2) of this title” for “said sections”, respectively.
 
 1970—Pub. L. 91–620 included persons who served during the Vietnam era within the definition of “Veterans” in par. (e).
 
@@ -5153,7 +5153,7 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
 
-### § 1983a. Prompt approval of loans and loan guarantees
+### § 1983a. Prompt approval of loans and loan guarantees
 
 **(a) Applications; time for action by Secretary; notice; statement of reasons**
 
@@ -5275,7 +5275,7 @@ The Secretary shall develop an application process that accelerates, to the maxi
 
 Except as provided in subsection (g)(2), the Secretary shall, to the maximum extent practicable, develop a simplified application process, including a single page application if practicable, for grants and relending authorized under sections 1926, 1926c, 1926d, 1926e, 1932(b), 1932(c), 1932(e), 1936b, 2008p, and 2008s of this title.
 
-(Pub. L. 87–128, title III, § 333A, as added Pub. L. 99–198, title XIII, § 1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, § 1811, title XXIII, § 2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§ 13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, § 637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, § 5307, title VI, § 6019, May 13, 2002, 116 Stat. 345, 362; Pub. L. 110–234, title VI, § 6012(b)(3), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, § 4(a), title VI, § 6012(b)(3), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 113–79, title VI, § 6020(a), Feb. 7, 2014, 128 Stat. 847; Pub. L. 115–334, title V, § 5401(c)(1), title VI, § 6601(a)(2), Dec. 20, 2018, 132 Stat. 4674, 4776.)
+(Pub. L. 87–128, title III, § 333A, as added Pub. L. 99–198, title XIII, § 1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, § 1811, title XXIII, § 2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§ 13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, § 637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, § 5307, title VI, § 6019, May 13, 2002, 116 Stat. 345, 362; Pub. L. 110–234, title VI, § 6012(b)(3), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, § 4(a), title VI, § 6012(b)(3), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 113–79, title VI, § 6020(a), Feb. 7, 2014, 128 Stat. 847; Pub. L. 115–334, title V, § 5401(c)(1), title VI, § 6601(a)(2), Dec. 20, 2018, 132 Stat. 4674, 4776.)
 
 **Editorial Notes**
 
@@ -5289,15 +5289,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (f)(1)(A). Pub. L. 115–334, § 5401(c)(1), made technical amendment to reference in original act which appears in text as reference to section 1989 of this title.
+2018—Subsec. (f)(1)(A). Pub. L. 115–334, § 5401(c)(1), made technical amendment to reference in original act which appears in text as reference to section 1989 of this title.
 
-Subsec. (h). Pub. L. 115–334, § 6601(a)(2), struck out “1932(f),” after “1932(e),”.
+Subsec. (h). Pub. L. 115–334, § 6601(a)(2), struck out “1932(f),” after “1932(e),”.
 
 2014—Subsec. (h). Pub. L. 113–79 added subsec. (h).
 
-2008—Subsec. (g)(1)(B). Pub. L. 110–246, § 6012(b)(3), substituted “1932(a)(2)(A)” for “1932(a)(1)” in introductory provisions.
+2008—Subsec. (g)(1)(B). Pub. L. 110–246, § 6012(b)(3), substituted “1932(a)(2)(A)” for “1932(a)(1)” in introductory provisions.
 
-2002—Subsec. (g). Pub. L. 107–171, § 6019, added subsec. (g) and struck out former subsec. (g) which read as follows:
+2002—Subsec. (g). Pub. L. 107–171, § 6019, added subsec. (g) and struck out former subsec. (g) which read as follows:
 
 “(1) The Secretary shall provide to lenders a short, simplified application form for guarantees under this chapter of loans the principal amount of which is $125,000 or less.
 
@@ -5315,29 +5315,29 @@ Subsec. (h). Pub. L. 115–334, § 6601(a)(2), struck out “1932(f),” after
 
 “(iv) the form can be completed and processed in an expeditious manner.”
 
-Subsec. (g)(1). Pub. L. 107–171, § 5307, substituted “$125,000” for “$50,000”.
+Subsec. (g)(1). Pub. L. 107–171, § 5307, substituted “$125,000” for “$50,000”.
 
-1996—Subsec. (f)(4). Pub. L. 104–127, § 637(1), inserted heading.
+1996—Subsec. (f)(4). Pub. L. 104–127, § 637(1), inserted heading.
 
-Subsec. (f)(4)(A). Pub. L. 104–127, § 637(1), designated first sentence of par. (4) as subpar. (A), inserted heading, and directed the substitution of “The Secretary shall provide a prospectus of a seasoned” for “With” and all that follows through “seasoned”, which was executed by making the substitution for all that follows through “seasoned” the first place appearing resulting in making the substitution for “With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned”, to reflect the probable intent of Congress.
+Subsec. (f)(4)(A). Pub. L. 104–127, § 637(1), designated first sentence of par. (4) as subpar. (A), inserted heading, and directed the substitution of “The Secretary shall provide a prospectus of a seasoned” for “With” and all that follows through “seasoned”, which was executed by making the substitution for all that follows through “seasoned” the first place appearing resulting in making the substitution for “With the approval of the borrower, the Secretary shall provide the prospectus of the seasoned”, to reflect the probable intent of Congress.
 
-Subsec. (f)(4)(B), (C). Pub. L. 104–127, § 637(2), added subpar. (B), designated second sentence of par. (4) as subpar. (C), and inserted heading.
+Subsec. (f)(4)(B), (C). Pub. L. 104–127, § 637(2), added subpar. (B), designated second sentence of par. (4) as subpar. (C), and inserted heading.
 
-1992—Subsec. (a)(2). Pub. L. 102–554, § 13, designated existing provisions as subpar. (A), inserted “(other than under subchapter II of this chapter)” after “under this chapter”, and added subpar. (B).
+1992—Subsec. (a)(2). Pub. L. 102–554, § 13, designated existing provisions as subpar. (A), inserted “(other than under subchapter II of this chapter)” after “under this chapter”, and added subpar. (B).
 
-Subsec. (f). Pub. L. 102–554, § 14, added subsec. (f).
+Subsec. (f). Pub. L. 102–554, § 14, added subsec. (f).
 
-Subsec. (g). Pub. L. 102–554, § 15, added subsec. (g).
+Subsec. (g). Pub. L. 102–554, § 15, added subsec. (g).
 
-1990—Subsec. (a)(4). Pub. L. 101–624, § 1811, added par. (4).
+1990—Subsec. (a)(4). Pub. L. 101–624, § 1811, added par. (4).
 
-Subsec. (c). Pub. L. 101–624, § 2388(f), substituted “If” for “In”.
+Subsec. (c). Pub. L. 101–624, § 2388(f), substituted “If” for “In”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title V, § 5401(c)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 14 of the Agricultural Credit Improvement Act of 1992 (Public Law 102–554).”
+Pub. L. 115–334, title V, § 5401(c)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 14 of the Agricultural Credit Improvement Act of 1992 (Public Law 102–554).”
 
 **Effective Date of 2008 Amendment**
 
@@ -5345,9 +5345,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date**
 
-Pub. L. 99–198, title XIII, § 1312(b), Dec. 23, 1985, 99 Stat. 1525, provided that: “The amendment made by subsection (a) [enacting this section] shall be effective with respect to applications for loans or loan guarantees under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) received by the Secretary of Agriculture after the date of enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–198, title XIII, § 1312(b), Dec. 23, 1985, 99 Stat. 1525, provided that: “The amendment made by subsection (a) [enacting this section] shall be effective with respect to applications for loans or loan guarantees under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) received by the Secretary of Agriculture after the date of enactment of this Act [Dec. 23, 1985].”
 
-### § 1983b. Beginning farmer and rancher individual development accounts pilot program
+### § 1983b. Beginning farmer and rancher individual development accounts pilot program
 
 **(a) Definitions** In this section:
 
@@ -5571,7 +5571,7 @@ Not later than 1 year after the date on which all demonstration programs under t
 
 There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2008 through 2023.
 
-(Pub. L. 87–128, title III, § 333B, as added Pub. L. 110–234, title V, § 5301, May 22, 2008, 122 Stat. 1147, and Pub. L. 110–246, § 4(a), title V, § 5301, June 18, 2008, 122 Stat. 1664, 1908; amended Pub. L. 113–79, title V, § 5301, Feb. 7, 2014, 128 Stat. 839; Pub. L. 115–334, title V, § 5301, Dec. 20, 2018, 132 Stat. 4671.)
+(Pub. L. 87–128, title III, § 333B, as added Pub. L. 110–234, title V, § 5301, May 22, 2008, 122 Stat. 1147, and Pub. L. 110–246, § 4(a), title V, § 5301, June 18, 2008, 122 Stat. 1664, 1908; amended Pub. L. 113–79, title V, § 5301, Feb. 7, 2014, 128 Stat. 839; Pub. L. 115–334, title V, § 5301, Dec. 20, 2018, 132 Stat. 4671.)
 
 **Editorial Notes**
 
@@ -5585,7 +5585,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 1983b, Pub. L. 87–128, title III, § 333B, as added Pub. L. 99–198, title XIII, § 1313(a), Dec. 23, 1985, 99 Stat. 1525; amended Pub. L. 100–233, title VI, § 608, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII, § 1812, Nov. 28, 1990, 104 Stat. 3821, related to appeals from adverse decisions under the Consolidated Farm and Rural Development Act, prior to repeal by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233. See section 6991 et seq. of this title.
+A prior section 1983b, Pub. L. 87–128, title III, § 333B, as added Pub. L. 99–198, title XIII, § 1313(a), Dec. 23, 1985, 99 Stat. 1525; amended Pub. L. 100–233, title VI, § 608, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII, § 1812, Nov. 28, 1990, 104 Stat. 3821, related to appeals from adverse decisions under the Consolidated Farm and Rural Development Act, prior to repeal by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233. See section 6991 et seq. of this title.
 
 **Amendments**
 
@@ -5599,7 +5599,7 @@ A prior section 1983b, Pub. L. 87–128, title III, § 333B, as added Pub. L. 
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 1983c. Provision of information to borrowers
+### § 1983c. Provision of information to borrowers
 
 **(a) In general** On request of a farm borrower of a farmer program loan, the Secretary shall make available to the borrower the following:
 
@@ -5613,9 +5613,9 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Subsection (a) shall not be construed to supersede any duty imposed on the Secretary by any law or rule of law in effect immediately before January 6, 1988, unless such duty is in direct conflict with any duty imposed by subsection (a).
 
-(Pub. L. 87–128, title III, § 333C, as added Pub. L. 100–233, title VI, § 609, Jan. 6, 1988, 101 Stat. 1668.)
+(Pub. L. 87–128, title III, § 333C, as added Pub. L. 100–233, title VI, § 609, Jan. 6, 1988, 101 Stat. 1668.)
 
-### § 1983d. Farmer loan pilot projects
+### § 1983d. Farmer loan pilot projects
 
 **(a) In general**
 
@@ -5627,9 +5627,9 @@ The Secretary may conduct pilot projects of limited scope and duration that are 
 
 **(2)** consider any recommendations or feedback provided to the Secretary in response to the notice provided under paragraph (1).
 
-(Pub. L. 87–128, title III, § 333D, as added Pub. L. 113–79, title V, § 5302, Feb. 7, 2014, 128 Stat. 839.)
+(Pub. L. 87–128, title III, § 333D, as added Pub. L. 113–79, title V, § 5302, Feb. 7, 2014, 128 Stat. 839.)
 
-### § 1984. Taxation
+### § 1984. Taxation
 
 All property subject to a lien held by the United States or the title to which is acquired or held by the Secretary under this chapter other than property used for administrative purposes shall be subject to taxation by State, territory, district, and local political subdivisions in the same manner and to the same extent as other property is taxed: *Provided, however*, That no tax shall be imposed or collected on or with respect to any instrument if the tax is based on—
 
@@ -5641,7 +5641,7 @@ All property subject to a lien held by the United States or the title to which i
 
 whether as a tax on the instrument, the privilege of conveying or transferring or the recordation thereof; nor shall the failure to pay or collect any such tax be a ground for refusal to record or file such instruments, or for failure to impart notice, or prevent the enforcement of its provisions in any State or Federal court.
 
-(Pub. L. 87–128, title III, § 334, Aug. 8, 1961, 75 Stat. 315.)
+(Pub. L. 87–128, title III, § 334, Aug. 8, 1961, 75 Stat. 315.)
 
 **Editorial Notes**
 
@@ -5649,7 +5649,7 @@ whether as a tax on the instrument, the privilege of conveying or transferring o
 
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-### § 1985. Security servicing
+### § 1985. Security servicing
 
 **(a) Preservation and protection of security, lien, or priority of lien securing loan**
 
@@ -5839,9 +5839,9 @@ the Secretary shall dispose of or administer the property only as provided in su
 
 **(iii)** The Secretary shall provide the borrower-owner of the real property with written notice of the rights and protections provided under this chapter to the borrower-owner, and the Indian tribe that has jurisdiction over the reservation in which the real property is located, from foreclosure or liquidation of the real property, including written notice of—
 
-**(I)** the provisions of subparagraph (A), this subparagraph, and subsection (g)(6); 1
+**(I)** the provisions of subparagraph (A), this subparagraph, and subsection (g)(6); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(II)** if the borrower-owner does not voluntarily convey the real property to the Secretary, that—
 
@@ -5965,7 +5965,7 @@ The Secretary shall provide prior written notification to a borrower considering
 
 The appraised value of the farm shall reflect the value of the land due to the placement of wetland conservation easements.
 
-(Pub. L. 87–128, title III, § 335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, § 127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§ 1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§ 610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§ 1813(a)–(h)(1), 1816(e), title XXIII, §§ 2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, § 501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, § 516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§ 16, 17, Oct. 28, 1992, 106 Stat. 4154; Pub. L. 104–127, title VI, §§ 638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, § 5308, May 13, 2002, 116 Stat. 345; Pub. L. 110–234, title V, § 5302(a), May 22, 2008, 122 Stat. 1151; Pub. L. 110–246, § 4(a), title V, § 5302(a), June 18, 2008, 122 Stat. 1664, 1913.)
+(Pub. L. 87–128, title III, § 335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, § 127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§ 1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§ 610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§ 1813(a)–(h)(1), 1816(e), title XXIII, §§ 2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, § 501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, § 516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§ 16, 17, Oct. 28, 1992, 106 Stat. 4154; Pub. L. 104–127, title VI, §§ 638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, § 5308, May 13, 2002, 116 Stat. 345; Pub. L. 110–234, title V, § 5302(a), May 22, 2008, 122 Stat. 1151; Pub. L. 110–246, § 4(a), title V, § 5302(a), June 18, 2008, 122 Stat. 1664, 1913.)
 
 **Editorial Notes**
 
@@ -5975,51 +5975,51 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) of this section by Pub. L. 104–127, title VI, § 639(4), Apr. 4, 1996, 110 Stat. 1097.
+Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) of this section by Pub. L. 104–127, title VI, § 639(4), Apr. 4, 1996, 110 Stat. 1097.
 
 **Codification**
 
-In subsec. (c)(4), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(4), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 **Amendments**
 
-2008—Subsec. (c)(1)(B). Pub. L. 110–246, § 5302(a)(1)(A), in heading, inserted “; socially disadvantaged farmer or rancher” at end, in cls. (i) and (iii), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, in cl. (ii), inserted “or socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, and, in cl. (iv), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers”.
+2008—Subsec. (c)(1)(B). Pub. L. 110–246, § 5302(a)(1)(A), in heading, inserted “; socially disadvantaged farmer or rancher” at end, in cls. (i) and (iii), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, in cl. (ii), inserted “or socially disadvantaged farmer or rancher” after “beginning farmer or rancher”, and, in cl. (iv), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers”.
 
-Subsec. (c)(1)(C). Pub. L. 110–246, § 5302(a)(1)(B), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
+Subsec. (c)(1)(C). Pub. L. 110–246, § 5302(a)(1)(B), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
 
-Subsec. (c)(5)(B)(i). Pub. L. 110–246, § 5302(a)(2)(A), in heading, inserted “; socially disadvantaged farmer or rancher” at end and, in text, inserted “or a socially disadvantaged farmer or rancher” after “a beginning farmer or rancher” and “or the socially disadvantaged farmer or rancher” after “the beginning farmer or rancher”.
+Subsec. (c)(5)(B)(i). Pub. L. 110–246, § 5302(a)(2)(A), in heading, inserted “; socially disadvantaged farmer or rancher” at end and, in text, inserted “or a socially disadvantaged farmer or rancher” after “a beginning farmer or rancher” and “or the socially disadvantaged farmer or rancher” after “the beginning farmer or rancher”.
 
-Subsec. (c)(5)(B)(ii). Pub. L. 110–246, § 5302(a)(2)(B), in introductory provisions, inserted “or a socially disadvantaged farmer or rancher” after “a beginning farmer or rancher” and, in subcl. (II), inserted “or the socially disadvantaged farmer or rancher” after “the beginning farmer or rancher”.
+Subsec. (c)(5)(B)(ii). Pub. L. 110–246, § 5302(a)(2)(B), in introductory provisions, inserted “or a socially disadvantaged farmer or rancher” after “a beginning farmer or rancher” and, in subcl. (II), inserted “or the socially disadvantaged farmer or rancher” after “the beginning farmer or rancher”.
 
-Subsec. (c)(6)(A). Pub. L. 110–246, § 5302(a)(3)(A), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
+Subsec. (c)(6)(A). Pub. L. 110–246, § 5302(a)(3)(A), inserted “or a socially disadvantaged farmer or rancher” after “beginning farmer or rancher”.
 
-Subsec. (c)(6)(C). Pub. L. 110–246, § 5302(a)(3)(B), in cl. (i)(I), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers” and, in cl. (ii), inserted “or socially disadvantaged farmers or ranchers” after “beginning farmers or ranchers”.
+Subsec. (c)(6)(C). Pub. L. 110–246, § 5302(a)(3)(B), in cl. (i)(I), substituted “beginning farmers or ranchers and socially disadvantaged farmers or ranchers” for “beginning farmers and ranchers” and, in cl. (ii), inserted “or socially disadvantaged farmers or ranchers” after “beginning farmers or ranchers”.
 
-2002—Subsec. (c)(1)(B)(i). Pub. L. 107–171, § 5308(1)(A)(i), substituted “135 days” for “75 days”.
+2002—Subsec. (c)(1)(B)(i). Pub. L. 107–171, § 5308(1)(A)(i), substituted “135 days” for “75 days”.
 
-Subsec. (c)(1)(B)(iv). Pub. L. 107–171, § 5308(1)(A)(ii), added cl. (iv).
+Subsec. (c)(1)(B)(iv). Pub. L. 107–171, § 5308(1)(A)(ii), added cl. (iv).
 
-Subsec. (c)(1)(C). Pub. L. 107–171, § 5308(1)(B), substituted “135 days” for “75 days” and “135-day period” for “75-day period”.
+Subsec. (c)(1)(C). Pub. L. 107–171, § 5308(1)(B), substituted “135 days” for “75 days” and “135-day period” for “75-day period”.
 
-Subsec. (c)(2). Pub. L. 107–171, § 5308(2), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
+Subsec. (c)(2). Pub. L. 107–171, § 5308(2), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
 
 “(A) Previous lease.—In the case of real property acquired prior to April 4, 1996, that the Secretary leased prior to April 4, 1996, not later than 60 days after the lease expires, the Secretary shall offer to sell the property in accordance with paragraph (1).
 
 “(B) Previously in inventory.—In the case of real property acquired prior to April 4, 1996, that the Secretary has not leased, not later than 60 days after April 4, 1996, the Secretary shall offer to sell the property in accordance with paragraph (1).”
 
-1996—Subsec. (b). Pub. L. 104–127, § 638(1), substituted “subsections (c) and (e)” for “subsection (e)”.
+1996—Subsec. (b). Pub. L. 104–127, § 638(1), substituted “subsections (c) and (e)” for “subsection (e)”.
 
-Subsec. (c). Pub. L. 104–127, § 638(2), added subsec. (c) and struck out former subsec. (c) which authorized Secretary to determine whether real property administered under this chapter was suitable for disposition to persons eligible for assistance under provisions of any law administered by Farmers Home Administration or Rural Development Administration.
+Subsec. (c). Pub. L. 104–127, § 638(2), added subsec. (c) and struck out former subsec. (c) which authorized Secretary to determine whether real property administered under this chapter was suitable for disposition to persons eligible for assistance under provisions of any law administered by Farmers Home Administration or Rural Development Administration.
 
-Subsec. (e)(1)(A). Pub. L. 104–127, § 638(3)(A)(i)–(iii), redesignated subpar. (D) as (A), in cl. (i), substituted “(D)” for “(G)” in introductory provisions, added subcl. (I) and struck out former subcl. (I) which read as follows: “the real property described in subparagraph (A)(i) is located within an Indian reservation,”, in subcl. (II), substituted a semicolon for “, and” at end, and struck out subcl. (III) which read as follows: “the period in which the right to purchase or lease such real property provided in clauses (i) and (ii) of subparagraph (A) has expired,”, in cl. (iii), substituted “Not later than 90 days after acquiring the property, the Secretary shall” for “The Secretary shall, within 90 days after the expiration of the period for which the right to purchase or lease real property described in clause (i) is provided in clauses (i) and (ii) of subparagraph (A),”, and struck out former subpar. (A) which authorized the Secretary, during 180-day period beginning on date of acquisition, or during applicable period under State law, to allow borrower-owner to purchase or lease property, if such borrower-owner had acted in good faith with the Secretary.
+Subsec. (e)(1)(A). Pub. L. 104–127, § 638(3)(A)(i)–(iii), redesignated subpar. (D) as (A), in cl. (i), substituted “(D)” for “(G)” in introductory provisions, added subcl. (I) and struck out former subcl. (I) which read as follows: “the real property described in subparagraph (A)(i) is located within an Indian reservation,”, in subcl. (II), substituted a semicolon for “, and” at end, and struck out subcl. (III) which read as follows: “the period in which the right to purchase or lease such real property provided in clauses (i) and (ii) of subparagraph (A) has expired,”, in cl. (iii), substituted “Not later than 90 days after acquiring the property, the Secretary shall” for “The Secretary shall, within 90 days after the expiration of the period for which the right to purchase or lease real property described in clause (i) is provided in clauses (i) and (ii) of subparagraph (A),”, and struck out former subpar. (A) which authorized the Secretary, during 180-day period beginning on date of acquisition, or during applicable period under State law, to allow borrower-owner to purchase or lease property, if such borrower-owner had acted in good faith with the Secretary.
 
-Subsec. (e)(1)(B). Pub. L. 104–127, § 638(3)(A)(i), (ii), redesignated subpar. (E) as (B) and struck out former subpar. (B) which read as follows: “Any purchase or lease under subparagraph (A) shall be on such terms and conditions as are established in regulations promulgated by the Secretary.”
+Subsec. (e)(1)(B). Pub. L. 104–127, § 638(3)(A)(i), (ii), redesignated subpar. (E) as (B) and struck out former subpar. (B) which read as follows: “Any purchase or lease under subparagraph (A) shall be on such terms and conditions as are established in regulations promulgated by the Secretary.”
 
-Subsec. (e)(1)(C). Pub. L. 104–127, § 638(3)(A)(i), (ii), redesignated subpar. (F) as (C) and struck out former subpar. (C) which authorized Secretary to give preference in sale or lease, with option to purchase, of property that had been foreclosed, purchased, redeemed, or otherwise acquired by the Secretary to persons in specified order.
+Subsec. (e)(1)(C). Pub. L. 104–127, § 638(3)(A)(i), (ii), redesignated subpar. (F) as (C) and struck out former subpar. (C) which authorized Secretary to give preference in sale or lease, with option to purchase, of property that had been foreclosed, purchased, redeemed, or otherwise acquired by the Secretary to persons in specified order.
 
-Subsec. (e)(1)(D). Pub. L. 104–127, § 638(3)(A)(ii), (iv), redesignated subpar. (G) as (D), in cl. (i), substituted “(A)” for “(D)” in concluding provisions, in cl. (iii)(I), substituted “subparagraph (A)” for “subparagraphs (C)(i), (C)(ii), and (D)”, and added cl. (v) and struck out former cl. (v) which read as follows: “If a borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), at least 30 days before a foreclosure sale of the property, the Secretary shall provide written notice to the Indian tribe that has jurisdiction over the reservation in which the real property is located of—
+Subsec. (e)(1)(D). Pub. L. 104–127, § 638(3)(A)(ii), (iv), redesignated subpar. (G) as (D), in cl. (i), substituted “(A)” for “(D)” in concluding provisions, in cl. (iii)(I), substituted “subparagraph (A)” for “subparagraphs (C)(i), (C)(ii), and (D)”, and added cl. (v) and struck out former cl. (v) which read as follows: “If a borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), at least 30 days before a foreclosure sale of the property, the Secretary shall provide written notice to the Indian tribe that has jurisdiction over the reservation in which the real property is located of—
 
 “(I) the sale;
 
@@ -6029,19 +6029,19 @@ Subsec. (e)(1)(D). Pub. L. 104–127, § 638(3)(A)(ii), (iv), redesignated sub
 
 Former subpar. (D) redesignated (A).
 
-Subsec. (e)(1)(E) to (G). Pub. L. 104–127, § 638(3)(A)(ii), redesignated subpars. (E) to (G) as (B) to (D), respectively.
+Subsec. (e)(1)(E) to (G). Pub. L. 104–127, § 638(3)(A)(ii), redesignated subpars. (E) to (G) as (B) to (D), respectively.
 
-Subsec. (e)(3). Pub. L. 104–127, § 638(3)(B), (C), (E), redesignated par. (4) as (3), struck out “(i)” before “The Secretary may sell”, redesignated cl. (ii) of subpar. (A) as subpar. (B) and substituted “subparagraph (A)” for “clause (i)”, struck out former subpar. (B) which read as follows: “If two or more qualified operators of not larger than family-size farms desire to purchase, or lease with an option to purchase, such land, the appropriate county committee shall randomly select the operator who may purchase such land, on such basis as the Secretary may prescribe by regulation, in accordance with subsection (c)(2)(B)(iii) of this section.”, and struck out former par. (3) which directed the Secretary to issue regulations providing for leasing of real property, or leasing such property with option to purchase, on fair and equitable basis.
+Subsec. (e)(3). Pub. L. 104–127, § 638(3)(B), (C), (E), redesignated par. (4) as (3), struck out “(i)” before “The Secretary may sell”, redesignated cl. (ii) of subpar. (A) as subpar. (B) and substituted “subparagraph (A)” for “clause (i)”, struck out former subpar. (B) which read as follows: “If two or more qualified operators of not larger than family-size farms desire to purchase, or lease with an option to purchase, such land, the appropriate county committee shall randomly select the operator who may purchase such land, on such basis as the Secretary may prescribe by regulation, in accordance with subsection (c)(2)(B)(iii) of this section.”, and struck out former par. (3) which directed the Secretary to issue regulations providing for leasing of real property, or leasing such property with option to purchase, on fair and equitable basis.
 
-Subsec. (e)(4). Pub. L. 104–127, § 638(3)(E), redesignated par. (7) as (4). Former par. (4) redesignated (3).
+Subsec. (e)(4). Pub. L. 104–127, § 638(3)(E), redesignated par. (7) as (4). Former par. (4) redesignated (3).
 
-Subsec. (e)(5). Pub. L. 104–127, § 638(3)(D), (E), redesignated par. (8) as (5) and struck out former par. (5) which read as follows:
+Subsec. (e)(5). Pub. L. 104–127, § 638(3)(D), (E), redesignated par. (8) as (5) and struck out former par. (5) which read as follows:
 
 “(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable for sale under subsection (c) of this section. Such land shall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under section 1925 of this title.
 
 “(B) The Secretary shall dispose of such subdivided farmland in accordance with this subsection.”
 
-Subsec. (e)(6). Pub. L. 104–127, § 638(3)(D), (E), redesignated par. (10) as (6) and struck out former par. (6) which read as follows: “If suitable farmland is available for disposition under this subsection, the Secretary shall—
+Subsec. (e)(6). Pub. L. 104–127, § 638(3)(D), (E), redesignated par. (10) as (6) and struck out former par. (6) which read as follows: “If suitable farmland is available for disposition under this subsection, the Secretary shall—
 
 “(A) publish an announcement of the availability of such farmland in at least one newspaper that is widely circulated in the county in which the farmland is located;
 
@@ -6049,19 +6049,19 @@ Subsec. (e)(6). Pub. L. 104–127, § 638(3)(D), (E), redesignated par. (10) a
 
 “(C) provide written notice reasonably calculated to inform the immediate previous owner or immediate previous family-size farm operator of such farmland, of the availability of such farmland.”
 
-Subsec. (e)(7), (8). Pub. L. 104–127, § 638(3)(E), redesignated pars. (7) and (8) as (4) and (5), respectively.
+Subsec. (e)(7), (8). Pub. L. 104–127, § 638(3)(E), redesignated pars. (7) and (8) as (4) and (5), respectively.
 
-Subsec. (e)(9). Pub. L. 104–127, § 638(3)(D), struck out par. (9) which read as follows: “Denials of applications for or disputes over terms and conditions of a lease or purchase agreement under this section are appealable under section 1983b of this title.”
+Subsec. (e)(9). Pub. L. 104–127, § 638(3)(D), struck out par. (9) which read as follows: “Denials of applications for or disputes over terms and conditions of a lease or purchase agreement under this section are appealable under section 1983b of this title.”
 
-Subsec. (e)(10). Pub. L. 104–127, § 638(3)(E), redesignated par. (10) as (6).
+Subsec. (e)(10). Pub. L. 104–127, § 638(3)(E), redesignated par. (10) as (6).
 
-Subsec. (g). Pub. L. 104–127, § 639(1)(A), inserted heading.
+Subsec. (g). Pub. L. 104–127, § 639(1)(A), inserted heading.
 
-Subsec. (g)(1). Pub. L. 104–127, § 639(1), inserted heading, substituted “Subject to paragraph (2)” for “Subject to paragraphs (2) through (5)”, and struck out “, as determined by the Secretary in accordance with title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.)” after “inventoried property”.
+Subsec. (g)(1). Pub. L. 104–127, § 639(1), inserted heading, substituted “Subject to paragraph (2)” for “Subject to paragraphs (2) through (5)”, and struck out “, as determined by the Secretary in accordance with title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.)” after “inventoried property”.
 
-Subsec. (g)(2). Pub. L. 104–127, § 639(2), added par. (2) and struck out former par. (2) which read as follows: “In establishing the wetland conservation easements on land that is considered to be cropland as of November 28, 1990, the Secretary shall avoid, to the extent practicable, an adverse impact on the productivity of the croplands, as provided in this subsection.”
+Subsec. (g)(2). Pub. L. 104–127, § 639(2), added par. (2) and struck out former par. (2) which read as follows: “In establishing the wetland conservation easements on land that is considered to be cropland as of November 28, 1990, the Secretary shall avoid, to the extent practicable, an adverse impact on the productivity of the croplands, as provided in this subsection.”
 
-Subsec. (g)(3). Pub. L. 104–127, § 639(3), (4), redesignated par. (6) as (3), inserted heading, and struck out former par. (3) which read as follows: “In order to avoid the adverse impact, the Secretary shall—
+Subsec. (g)(3). Pub. L. 104–127, § 639(3), (4), redesignated par. (6) as (3), inserted heading, and struck out former par. (3) which read as follows: “In order to avoid the adverse impact, the Secretary shall—
 
 “(A) not establish the wetland conservation easements with respect to wetlands that were converted prior to December 23, 1985, and that have been in cropland use, as determined by the Secretary, in excess of 10 percent of the existing cropland available for production of agricultural commodities on the particular parcel of inventoried property;
 
@@ -6071,93 +6071,93 @@ Subsec. (g)(3). Pub. L. 104–127, § 639(3), (4), redesignated par. (6) as (3
 
 “(D) ensure that access to other portions of the property for farming and other uses is provided.”
 
-Subsec. (g)(4). Pub. L. 104–127, § 639(3), (5), redesignated par. (7) as (4), inserted heading, and struck out former par. (4) which read as follows: “The wetland conservation easements shall be placed on wetlands that have a history of haying and grazing, as determined by the Secretary, except that in no case shall the quantity of the wetland subject to the easements exceed 50 percent of the existing forage lands on the parcel of inventoried property. All haying and grazing practices on the wetlands (including the timing and intensity of haying and grazing) shall conform to forage management standards designed to protect wetlands.”
+Subsec. (g)(4). Pub. L. 104–127, § 639(3), (5), redesignated par. (7) as (4), inserted heading, and struck out former par. (4) which read as follows: “The wetland conservation easements shall be placed on wetlands that have a history of haying and grazing, as determined by the Secretary, except that in no case shall the quantity of the wetland subject to the easements exceed 50 percent of the existing forage lands on the parcel of inventoried property. All haying and grazing practices on the wetlands (including the timing and intensity of haying and grazing) shall conform to forage management standards designed to protect wetlands.”
 
-Subsec. (g)(5). Pub. L. 104–127, § 639(3), struck out par. (5) which read as follows: “If, despite the limitations contained in paragraph (3), wetland conservation easements established under paragraph (1) would prevent a particular parcel of inventoried property that is to be sold or leased to a borrower described in clause (i), (ii), or (iii) of subsection (e)(1)(C) of this section, or to a borrower who is a beginning farmer or rancher, from being a marketable agricultural production unit that is comparable to the parcel as acquired, the Secretary may—
+Subsec. (g)(5). Pub. L. 104–127, § 639(3), struck out par. (5) which read as follows: “If, despite the limitations contained in paragraph (3), wetland conservation easements established under paragraph (1) would prevent a particular parcel of inventoried property that is to be sold or leased to a borrower described in clause (i), (ii), or (iii) of subsection (e)(1)(C) of this section, or to a borrower who is a beginning farmer or rancher, from being a marketable agricultural production unit that is comparable to the parcel as acquired, the Secretary may—
 
 “(A) establish wetland conservation easements on wetland that was converted prior to December 23, 1985, in a quantity that is less than 10 percent of the existing croplands available for production of agricultural commodities on the particular parcel; and
 
 “(B) if the reduction provided in subparagraph (A) is not applicable, or is not sufficient to ensure that the particular parcel would be a marketable agricultural production unit, amend the wetland conservation easements established on the wetlands that have been frequently planted to agricultural commodities to permit the production of agricultural commodities (consistent with title XII of the Food Security Act of 1985) on the wetlands, to the extent necessary to maintain the parcel as a marketable agricultural production unit.”
 
-Subsec. (g)(6), (7). Pub. L. 104–127, § 639(4), (5), redesignated pars. (6) and (7) as (3) and (4), respectively.
+Subsec. (g)(6), (7). Pub. L. 104–127, § 639(4), (5), redesignated pars. (6) and (7) as (3) and (4), respectively.
 
-Subsec. (g)(8). Pub. L. 104–127, § 639(3), struck out par. (8) which read as follows: “Notwithstanding the limitations described under paragraphs (3) and (4), the limitations may be voluntarily, knowingly waived by any person with respect to real property described in paragraph (3) or (4).”
+Subsec. (g)(8). Pub. L. 104–127, § 639(3), struck out par. (8) which read as follows: “Notwithstanding the limitations described under paragraphs (3) and (4), the limitations may be voluntarily, knowingly waived by any person with respect to real property described in paragraph (3) or (4).”
 
-1992—Subsec. (c)(1). Pub. L. 102–554, § 16, in fourth sentence, inserted “(A)” after “shall be” and “or (B) leased to persons eligible for assistance under the provisions of any law administered by the Farmers Home Administration or the Rural Development Administration under an annual lease or a lease with an option to purchase, with a preference for sale” before period at end.
+1992—Subsec. (c)(1). Pub. L. 102–554, § 16, in fourth sentence, inserted “(A)” after “shall be” and “or (B) leased to persons eligible for assistance under the provisions of any law administered by the Farmers Home Administration or the Rural Development Administration under an annual lease or a lease with an option to purchase, with a preference for sale” before period at end.
 
-Subsec. (e)(1)(A)(i). Pub. L. 102–552, which, in amending directory language of Pub. L. 102–237, § 501(f)(1), directed the substitution of “the borrower-owner (as defined in subparagraph (F))” for “borrower-owner (as defined in subparagraph (F))”, was executed by making the substitution in text which did not contain a closing parenthesis after “(F)”, to reflect the probable intent of Congress. See 1991 Amendment note below.
+Subsec. (e)(1)(A)(i). Pub. L. 102–552, which, in amending directory language of Pub. L. 102–237, § 501(f)(1), directed the substitution of “the borrower-owner (as defined in subparagraph (F))” for “borrower-owner (as defined in subparagraph (F))”, was executed by making the substitution in text which did not contain a closing parenthesis after “(F)”, to reflect the probable intent of Congress. See 1991 Amendment note below.
 
-Subsec. (e)(1)(D)(i). Pub. L. 102–554, § 17(1), substituted “Except as provided in subparagraph (G), if” for “If”.
+Subsec. (e)(1)(D)(i). Pub. L. 102–554, § 17(1), substituted “Except as provided in subparagraph (G), if” for “If”.
 
-Subsec. (e)(1)(G). Pub. L. 102–554, § 17(2), added subpar. (G).
+Subsec. (e)(1)(G). Pub. L. 102–554, § 17(2), added subpar. (G).
 
-1991—Subsec. (e)(1)(A)(i). Pub. L. 102–237, § 501(f)(1), as amended by Pub. L. 102–552, substituted “the borrower-owner (as defined in subparagraph (F))” for “the borrower from whom the Secretary acquired real farm or ranch property (including the principal residence of the borrower) used to secure any loan made to the borrower under this chapter (hereinafter referred to in this paragraph as the ‘borrower-owner’)”. See 1992 Amendment note above.
+1991—Subsec. (e)(1)(A)(i). Pub. L. 102–237, § 501(f)(1), as amended by Pub. L. 102–552, substituted “the borrower-owner (as defined in subparagraph (F))” for “the borrower from whom the Secretary acquired real farm or ranch property (including the principal residence of the borrower) used to secure any loan made to the borrower under this chapter (hereinafter referred to in this paragraph as the ‘borrower-owner’)”. See 1992 Amendment note above.
 
-Subsec. (e)(1)(F). Pub. L. 102–237, § 501(f)(2), added subpar. (F).
+Subsec. (e)(1)(F). Pub. L. 102–237, § 501(f)(2), added subpar. (F).
 
-1990—Subsec. (a). Pub. L. 101–624, §§ 1813(a), 2303(c)(1), inserted “or the Rural Development Administration” after “Farmers Home Administration” and substituted “12 months from the date first published under paragraph (2)(D)” for “three years from the date of acquisition”.
+1990—Subsec. (a). Pub. L. 101–624, §§ 1813(a), 2303(c)(1), inserted “or the Rural Development Administration” after “Farmers Home Administration” and substituted “12 months from the date first published under paragraph (2)(D)” for “three years from the date of acquisition”.
 
-Subsec. (c)(1). Pub. L. 101–624, § 2303(c)(2), inserted “or the Rural Development Administration” after “Farmers Home Administration”.
+Subsec. (c)(1). Pub. L. 101–624, § 2303(c)(2), inserted “or the Rural Development Administration” after “Farmers Home Administration”.
 
-Subsec. (c)(2)(A), (B). Pub. L. 101–624, § 1813(e)(1), added subpar. (A) and subpar. (B) introductory provisions, redesignated former subpars. (A) through (D) as cls. (i) through (iv), respectively, of subpar. (B), and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the Secretary shall sell suitable farmland administered under this subchapter to operators (as of the time immediately after such contract for sale or lease is entered into) of not larger than family sized farms, as determined by the county committee. In selling such land, the county committee shall—”.
+Subsec. (c)(2)(A), (B). Pub. L. 101–624, § 1813(e)(1), added subpar. (A) and subpar. (B) introductory provisions, redesignated former subpars. (A) through (D) as cls. (i) through (iv), respectively, of subpar. (B), and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the Secretary shall sell suitable farmland administered under this subchapter to operators (as of the time immediately after such contract for sale or lease is entered into) of not larger than family sized farms, as determined by the county committee. In selling such land, the county committee shall—”.
 
-Subsec. (c)(2)(B)(ii). Pub. L. 101–624, § 1813(g)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “offer suitable land at a price not greater than that which reflects the appraised market value of such land;”.
+Subsec. (c)(2)(B)(ii). Pub. L. 101–624, § 1813(g)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “offer suitable land at a price not greater than that which reflects the appraised market value of such land;”.
 
-Subsec. (c)(2)(B)(iii). Pub. L. 101–624, § 1813(b)(1), inserted before semicolon “, except that if the committee determines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
+Subsec. (c)(2)(B)(iii). Pub. L. 101–624, § 1813(b)(1), inserted before semicolon “, except that if the committee determines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
 
-Subsec. (c)(2)(B)(iv). Pub. L. 101–624, § 2388(g), substituted “cause” for “caused”.
+Subsec. (c)(2)(B)(iv). Pub. L. 101–624, § 2388(g), substituted “cause” for “caused”.
 
-Subsec. (e)(1)(A)(i). Pub. L. 101–624, § 1813(c), substituted “real farm or ranch property (including the principal residence of the borrower)” for “real property”.
+Subsec. (e)(1)(A)(i). Pub. L. 101–624, § 1813(c), substituted “real farm or ranch property (including the principal residence of the borrower)” for “real property”.
 
-Pub. L. 101–624, § 1816(e)(1), inserted before period at end “, if such borrower-owner has acted in good faith with the Secretary, as defined in regulations issued by the Secretary, in connection with such loan”.
+Pub. L. 101–624, § 1816(e)(1), inserted before period at end “, if such borrower-owner has acted in good faith with the Secretary, as defined in regulations issued by the Secretary, in connection with such loan”.
 
-Subsec. (e)(1)(A)(iv). Pub. L. 101–624, § 1813(d), added cl. (iv).
+Subsec. (e)(1)(A)(iv). Pub. L. 101–624, § 1813(d), added cl. (iv).
 
-Subsec. (e)(1)(C)(i). Pub. L. 101–624, § 1816(e)(2), inserted before period at end “, if such borrower-owner has acted in good faith with the Secretary, as defined in regulations issued by the Secretary, in connection with the loan of such borrower-owner for which such property served as security”.
+Subsec. (e)(1)(C)(i). Pub. L. 101–624, § 1816(e)(2), inserted before period at end “, if such borrower-owner has acted in good faith with the Secretary, as defined in regulations issued by the Secretary, in connection with the loan of such borrower-owner for which such property served as security”.
 
-Subsec. (e)(1)(C)(iv), (v). Pub. L. 101–624, § 1813(e)(2), added cl. (iv) and redesignated former cl. (iv) as (v).
+Subsec. (e)(1)(C)(iv), (v). Pub. L. 101–624, § 1813(e)(2), added cl. (iv) and redesignated former cl. (iv) as (v).
 
-Subsec. (e)(1)(D)(x). Pub. L. 101–624, § 1813(f), added cl. (x).
+Subsec. (e)(1)(D)(x). Pub. L. 101–624, § 1813(f), added cl. (x).
 
-Subsec. (e)(4)(B). Pub. L. 101–624, § 1813(g)(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary shall offer such land for sale to operators of not larger than family-size farms at a price that reflects the average annual income that may be reasonably anticipated to be generated from farming such land.”
+Subsec. (e)(4)(B). Pub. L. 101–624, § 1813(g)(2), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary shall offer such land for sale to operators of not larger than family-size farms at a price that reflects the average annual income that may be reasonably anticipated to be generated from farming such land.”
 
-Subsec. (e)(4)(C). Pub. L. 101–624, § 1813(g)(2), redesignated former subpar. (C) as (B).
+Subsec. (e)(4)(C). Pub. L. 101–624, § 1813(g)(2), redesignated former subpar. (C) as (B).
 
-Pub. L. 101–624, § 1813(b)(2), substituted “shall randomly” for “shall, by majority vote,” and inserted “, in accordance with subsection (c)(2)(B)(iii) of this section”.
+Pub. L. 101–624, § 1813(b)(2), substituted “shall randomly” for “shall, by majority vote,” and inserted “, in accordance with subsection (c)(2)(B)(iii) of this section”.
 
-Subsec. (g). Pub. L. 101–624, § 1813(h)(1), added subsec. (g).
+Subsec. (g). Pub. L. 101–624, § 1813(h)(1), added subsec. (g).
 
-1988—Subsec. (c). Pub. L. 100–233, § 610(a), designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless property cannot be used to meet any of the purposes of section 1923 of this title, and added par. (2).
+1988—Subsec. (c). Pub. L. 100–233, § 610(a), designated existing provisions as par. (1), inserted provisions requiring the County Committee to classify or reclassify real property that is farmland, as being suitable for farming operation for such disposition unless property cannot be used to meet any of the purposes of section 1923 of this title, and added par. (2).
 
-Subsec. (e)(1). Pub. L. 100–233, § 610(b)(1), added par. (1) and struck out former par. (1) which read as follows: “The Secretary shall to the extent practicable sell or lease farmland administered under this chapter in the following order of priority:
+Subsec. (e)(1). Pub. L. 100–233, § 610(b)(1), added par. (1) and struck out former par. (1) which read as follows: “The Secretary shall to the extent practicable sell or lease farmland administered under this chapter in the following order of priority:
 
 “(A) Sale of such farmland to operators (as of the time immediately before such sale) of not larger than family-size farms.
 
 “(B) Lease of such farmland to operators (as of the time immediately before such lease is entered into) of not larger than family-size farms.”
 
-Subsec. (e)(3). Pub. L. 100–233, § 610(b)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, in subpar. (B) substituted “Secretary shall determine if the lessee” for “Secretary shall give special consideration to a previous owner or operator of such land if such owner or operator”, added subpar. (D), and struck out former subpar. (A) which read as follows: “The Secretary shall consider granting, and may grant, to an operator of not larger than a family-size farm, in conjunction with paragraph (3), a lease with an option to purchase farmland administered under this chapter.”
+Subsec. (e)(3). Pub. L. 100–233, § 610(b)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, in subpar. (B) substituted “Secretary shall determine if the lessee” for “Secretary shall give special consideration to a previous owner or operator of such land if such owner or operator”, added subpar. (D), and struck out former subpar. (A) which read as follows: “The Secretary shall consider granting, and may grant, to an operator of not larger than a family-size farm, in conjunction with paragraph (3), a lease with an option to purchase farmland administered under this chapter.”
 
-Subsec. (e)(5)(A). Pub. L. 100–233, § 610(b)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to an operator of not larger than a family-size farm because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for family-size farms, the Secretary shall subdivide such land into tracts suitable for such operator.”
+Subsec. (e)(5)(A). Pub. L. 100–233, § 610(b)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to an operator of not larger than a family-size farm because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for family-size farms, the Secretary shall subdivide such land into tracts suitable for such operator.”
 
-Subsec. (e)(6)(C). Pub. L. 100–233, § 610(b)(4), added subpar. (C).
+Subsec. (e)(6)(C). Pub. L. 100–233, § 610(b)(4), added subpar. (C).
 
-Subsec. (e)(9), (10). Pub. L. 100–233, § 610(b)(5), added pars. (9) and (10).
+Subsec. (e)(9), (10). Pub. L. 100–233, § 610(b)(5), added pars. (9) and (10).
 
-Subsec. (f). Pub. L. 100–233, § 611, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
+Subsec. (f). Pub. L. 100–233, § 611, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
 “(1) As used in this subsection, the term ‘normal income security’ has the same meaning given such term in section 1962.17(b) of title 7, Code of Federal Regulations (as of January 1, 1985).
 
 “(2) Until such time as the Secretary accelerates a loan made or insured under this chapter, the Secretary shall release from the normal income security provided for such loan an amount sufficient to pay the essential household and farm operating expenses of the borrower, as determined by the Secretary.”
 
-1985—Subsec. (b). Pub. L. 99–198, § 1314(a)(1), substituted “Except as provided in subsection (e), real property” for “Real property”.
+1985—Subsec. (b). Pub. L. 99–198, § 1314(a)(1), substituted “Except as provided in subsection (e), real property” for “Real property”.
 
-Subsec. (c). Pub. L. 99–198, § 1314(a)(2), substituted “Except as provided in subsection (e) of this section, the Secretary” for “The Secretary” and inserted sentence at end providing that notwithstanding the preceding sentence, the Secretary may for conservation purposes grant or sell an easement, restriction, development rights, or the equivalent thereof, to a unit of local or State government or a private nonprofit organization separately from the underlying fee or sum of all other rights possessed by the United States.
+Subsec. (c). Pub. L. 99–198, § 1314(a)(2), substituted “Except as provided in subsection (e) of this section, the Secretary” for “The Secretary” and inserted sentence at end providing that notwithstanding the preceding sentence, the Secretary may for conservation purposes grant or sell an easement, restriction, development rights, or the equivalent thereof, to a unit of local or State government or a private nonprofit organization separately from the underlying fee or sum of all other rights possessed by the United States.
 
-Pub. L. 99–198, § 1318(b)(1), which directed insertion of “, other than easements acquired under section 1997 of this title” at end of last sentence, was executed to fifth sentence of subsec. (c), and not to sixth and last sentence as added by section 1314(a)(2)(B) of Pub. L. 99–198, to reflect the probable intent of Congress.
+Pub. L. 99–198, § 1318(b)(1), which directed insertion of “, other than easements acquired under section 1997 of this title” at end of last sentence, was executed to fifth sentence of subsec. (c), and not to sixth and last sentence as added by section 1314(a)(2)(B) of Pub. L. 99–198, to reflect the probable intent of Congress.
 
-Subsec. (e). Pub. L. 99–198, § 1314(a)(3), added subsec. (e).
+Subsec. (e). Pub. L. 99–198, § 1314(a)(3), added subsec. (e).
 
-Subsec. (f). Pub. L. 99–198, § 1315, added subsec. (f).
+Subsec. (f). Pub. L. 99–198, § 1315, added subsec. (f).
 
 1972—Subsec. (c). Pub. L. 92–419 substituted “the provisions of any law administered by the Farmers Home Administration” for “subchapter I of this chapter” in first sentence and “such provisions” for “the provisions of subchapter I of this chapter” in second sentence, struck out from fourth sentence initial minimum 20 per centum downpayment requirement and provision for payment of remainder in not more than five annual installments, and provided in such fourth sentence for interest rates and terms not more favorable than legally permissible for eligible borrowers.
 
@@ -6173,7 +6173,7 @@ Amendment by section 638 of Pub. L. 104–127 effective Apr. 4, 1996, but not ap
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–552, title V, § 516(h)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “The amendments made by paragraph (1) of this subsection [amending section 501(f) of Pub. L. 102–237, see 1992 Amendment note above] shall take effect immediately after section 501(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 [probably should be Food, Agriculture, Conservation, and Trade Act Amendments of 1991 [Pub. L. 102–237]] took effect.”
+Pub. L. 102–552, title V, § 516(h)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “The amendments made by paragraph (1) of this subsection [amending section 501(f) of Pub. L. 102–237, see 1992 Amendment note above] shall take effect immediately after section 501(f) of the Food, Agriculture, Conservation, and Trade Act of 1990 [probably should be Food, Agriculture, Conservation, and Trade Act Amendments of 1991 [Pub. L. 102–237]] took effect.”
 
 **Effective Date of 1990 Amendment**
 
@@ -6181,15 +6181,15 @@ Amendment by section 1816 of Pub. L. 101–624 applicable to new applications su
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XIII, § 1314(b), Dec. 23, 1985, 99 Stat. 1528, provided that: “The Secretary of Agriculture shall implement the amendments made by this section [amending this section] not later than 90 days after the date of enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–198, title XIII, § 1314(b), Dec. 23, 1985, 99 Stat. 1528, provided that: “The Secretary of Agriculture shall implement the amendments made by this section [amending this section] not later than 90 days after the date of enactment of this Act [Dec. 23, 1985].”
 
 **Completion of Sales of Farmers Home Administration Inventory Farms**
 
-Pub. L. 102–142, title VII, § 740, Oct. 28, 1991, 105 Stat. 915, provided that: “Hereafter, the Secretary shall complete the sales of Farmers Home Administration inventory farms, in accordance with the law and regulations in effect before November 28, 1990, in situations in which a County Committee, acting pursuant to section 335 of the Consolidated Farm and Rural Development Act [7 U.S.C. 1985], had made its initial selection of a buyer before November 28, 1990. Such sales shall be completed as soon as the selection decision is administratively final and all terms and conditions have been agreed to. In carrying out sales of inventory property, priority shall be given to the former owner and members of the immediate family.”
+Pub. L. 102–142, title VII, § 740, Oct. 28, 1991, 105 Stat. 915, provided that: “Hereafter, the Secretary shall complete the sales of Farmers Home Administration inventory farms, in accordance with the law and regulations in effect before November 28, 1990, in situations in which a County Committee, acting pursuant to section 335 of the Consolidated Farm and Rural Development Act [7 U.S.C. 1985], had made its initial selection of a buyer before November 28, 1990. Such sales shall be completed as soon as the selection decision is administratively final and all terms and conditions have been agreed to. In carrying out sales of inventory property, priority shall be given to the former owner and members of the immediate family.”
 
 **Farm Ownership Outreach Program to Socially Disadvantaged Individuals**
 
-Pub. L. 100–233, title VI, § 623, Jan. 6, 1988, 101 Stat. 1685, as amended by Pub. L. 101–624, title XVIII, § 1852, Nov. 28, 1990, 104 Stat. 3837, provided that:
+Pub. L. 100–233, title VI, § 623, Jan. 6, 1988, 101 Stat. 1685, as amended by Pub. L. 101–624, title XVIII, § 1852, Nov. 28, 1990, 104 Stat. 3837, provided that:
 
 > **“(a) In General.—** The Secretary of Agriculture, in coordination with the limited resource farmers’ initiative in the office of the Director of the Office of Advocacy and Enterprise, shall establish a farm ownership outreach program for persons who are members of any group with respect to which an individual may be identified as a socially disadvantaged individual under section 8(a)(5) of the Small Business Act (15 U.S.C. 637(a)(5)) to encourage the acquisition of inventory farmland of the Farmers Home Administration by—
 
@@ -6203,7 +6203,7 @@ Pub. L. 100–233, title VI, § 623, Jan. 6, 1988, 101 Stat. 1685, as amended 
 
 > **“(b) Authorization of Appropriations.—** There are authorized to be appropriated to carry out this section $2,500,000 for each of the fiscal years 1991 through 1995.”
 
-### § 1986. Conflicts of interests
+### § 1986. Conflicts of interests
 
 **(a) Acceptance of fees, commissions, gifts, or other considerations prohibited**
 
@@ -6221,7 +6221,7 @@ No member of a county committee shall knowingly make or join in making any certi
 
 Any persons violating any provision of this section shall, upon conviction thereof, be punished by a fine of not more than $2,000 or imprisonment for not more than two years, or both.
 
-(Pub. L. 87–128, title III, § 336, Aug. 8, 1961, 75 Stat. 316; Pub. L. 98–258, title VI, § 606, Apr. 10, 1984, 98 Stat. 140; Pub. L. 107–171, title V, § 5501(b), May 13, 2002, 116 Stat. 351.)
+(Pub. L. 87–128, title III, § 336, Aug. 8, 1961, 75 Stat. 316; Pub. L. 98–258, title VI, § 606, Apr. 10, 1984, 98 Stat. 140; Pub. L. 107–171, title V, § 5501(b), May 13, 2002, 116 Stat. 351.)
 
 **Editorial Notes**
 
@@ -6235,7 +6235,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this t
 
 1984—Pub. L. 98–258 designated first, second, and third sentences of existing provisions as subsecs. (a), (c), and (d), respectively, and added subsec. (b).
 
-### § 1987. Debt adjustment and credit counseling; “summary period” defined; loan summary statements
+### § 1987. Debt adjustment and credit counseling; “summary period” defined; loan summary statements
 
 **(a)** The Secretary may provide voluntary debt adjustment assistance between farmers and their creditors and may cooperate with State, territorial, and local agencies and committees engaged in such debt adjustment, and may give credit counseling.
 
@@ -6265,7 +6265,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this t
 
 **(H)** the procedure the borrower may use to obtain more information concerning the status of such loans.
 
-(Pub. L. 87–128, title III, § 337, Aug. 8, 1961, 75 Stat. 316; Pub. L. 99–198, title XIII, § 1316, Dec. 23, 1985, 99 Stat. 1528.)
+(Pub. L. 87–128, title III, § 337, Aug. 8, 1961, 75 Stat. 316; Pub. L. 99–198, title XIII, § 1316, Dec. 23, 1985, 99 Stat. 1528.)
 
 **Editorial Notes**
 
@@ -6277,7 +6277,7 @@ This chapter, referred to in subsec. (b)(2), was in the original “this title�
 
 1985—Pub. L. 99–198 designated existing provisions as subsec. (a) and added subsec. (b).
 
-### § 1988. Appropriations
+### § 1988. Appropriations
 
 **(a) Authorization**
 
@@ -6341,7 +6341,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 **(4)** The Secretary may contract for goods and services to be used for the purposes of this subsection without regard to the provisions of titles 5, 40, and 41, and any regulations issued thereunder.
 
-(Pub. L. 87–128, title III, § 338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, § 5, May 24, 1966, 80 Stat. 167; Pub. L. 100–233, title VII, § 711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, § 605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, § 2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, § 749(a), Apr. 4, 1996, 110 Stat. 1129; Pub. L. 105–362, title I, § 101(a), Nov. 10, 1998, 112 Stat. 3281.)
+(Pub. L. 87–128, title III, § 338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, § 5, May 24, 1966, 80 Stat. 167; Pub. L. 100–233, title VII, § 711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, § 605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, § 2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, § 749(a), Apr. 4, 1996, 110 Stat. 1129; Pub. L. 105–362, title I, § 101(a), Nov. 10, 1998, 112 Stat. 3281.)
 
 **Editorial Notes**
 
@@ -6371,17 +6371,17 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 **Regulations**
 
-Pub. L. 100–233, title VII, § 711(b), Jan. 6, 1988, 101 Stat. 1709, provided that: “Within 180 days after the date of the enactment of this Act [Jan. 6, 1988], the Secretary shall develop and promulgate final regulations to implement this section and the amendment made by this section [amending this section and enacting provisions set out below].”
+Pub. L. 100–233, title VII, § 711(b), Jan. 6, 1988, 101 Stat. 1709, provided that: “Within 180 days after the date of the enactment of this Act [Jan. 6, 1988], the Secretary shall develop and promulgate final regulations to implement this section and the amendment made by this section [amending this section and enacting provisions set out below].”
 
 **Pool Certificates Not To Be Issued Until Final Regulations Take Effect**
 
-Pub. L. 100–233, title VII, § 711(c), Jan. 6, 1988, 101 Stat. 1709, provided that: “The Secretary of Agriculture shall not implement paragraph (2) of section 338(f) [now 338(b)] of the Consolidated Farm and Rural Development Act [7 U.S.C. 1988(f) [now 1988(b)]], as added by subsection (a), until the final regulations governing the administration of such paragraph take effect.”
+Pub. L. 100–233, title VII, § 711(c), Jan. 6, 1988, 101 Stat. 1709, provided that: “The Secretary of Agriculture shall not implement paragraph (2) of section 338(f) [now 338(b)] of the Consolidated Farm and Rural Development Act [7 U.S.C. 1988(f) [now 1988(b)]], as added by subsection (a), until the final regulations governing the administration of such paragraph take effect.”
 
 **Loans to Indians**
 
 Authority of the Secretary of Agriculture to make loans to Indian tribes and tribal corporations to acquire land within reservations, see sections 5136 to 5143 of Title 25, Indians.
 
-### § 1989. Rules and regulations
+### § 1989. Rules and regulations
 
 **(a) In general**
 
@@ -6457,7 +6457,7 @@ As a condition of such preferred certification, the Secretary shall require the 
 
 The Secretary may administer the loan guarantee programs under subsections (c) and (d) through central offices established in States or in multi-State areas.
 
-(Pub. L. 87–128, title III, § 339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, § 18, Oct. 28, 1992, 106 Stat. 4155; Pub. L. 106–31, title III, § 3019(a), May 21, 1999, 113 Stat. 99; Pub. L. 107–171, title V, § 5309, May 13, 2002, 116 Stat. 346; Pub. L. 115–334, title V, § 5401(d), Dec. 20, 2018, 132 Stat. 4674.)
+(Pub. L. 87–128, title III, § 339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, § 18, Oct. 28, 1992, 106 Stat. 4155; Pub. L. 106–31, title III, § 3019(a), May 21, 1999, 113 Stat. 99; Pub. L. 107–171, title V, § 5309, May 13, 2002, 116 Stat. 346; Pub. L. 115–334, title V, § 5401(d), Dec. 20, 2018, 132 Stat. 4674.)
 
 **Editorial Notes**
 
@@ -6471,7 +6471,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 2002—Subsec. (e). Pub. L. 107–171 added subsec. (e).
 
-1999—Subsec. (b)(3). Pub. L. 106–31 struck out “, including expenses of replacing capital items (determined after taking into account depreciation of the items)” after “paragraph (1)”.
+1999—Subsec. (b)(3). Pub. L. 106–31 struck out “, including expenses of replacing capital items (determined after taking into account depreciation of the items)” after “paragraph (1)”.
 
 1992—Pub. L. 102–554, inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
 
@@ -6479,17 +6479,17 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Regulations**
 
-Pub. L. 102–554, § 23, Oct. 28, 1992, 106 Stat. 4161, provided that:
+Pub. L. 102–554, § 23, Oct. 28, 1992, 106 Stat. 4161, provided that:
 
 > **“(a) Interim Regulations.—** Not later than 180 days after the date of enactment of this Act [Oct. 28, 1992], the Secretary of Agriculture shall issue such interim regulations as are necessary to implement this Act [see Short Title of 1992 Amendment note set out under section 1921 of this title] and the amendments made by this Act.
 
 > **“(b) Final Regulations.—** Not later than October 1, 1993, the Secretary of Agriculture shall issue such final regulations as are necessary to implement this Act and the amendments made by this Act.”
 
-Pub. L. 100–233, title VI, § 624, Jan. 6, 1988, 101 Stat. 1685, provided that: “Within 150 days after the date of the enactment of this title [Jan. 6, 1988], and after considering public comment obtained under section 553 of title 5, United States Code, the Secretary shall issue final regulations to carry out the amendments made by this title [enacting sections 1981d, 1981e, 1983c, and 2001 to 2005 of this title, amending sections 1927, 1927a, 1981, 1982, 1983b, 1985, 1991, 1997, 1999, and 2000 of this title, and amending provisions set out as a note under section 1999 of this title].”
+Pub. L. 100–233, title VI, § 624, Jan. 6, 1988, 101 Stat. 1685, provided that: “Within 150 days after the date of the enactment of this title [Jan. 6, 1988], and after considering public comment obtained under section 553 of title 5, United States Code, the Secretary shall issue final regulations to carry out the amendments made by this title [enacting sections 1981d, 1981e, 1983c, and 2001 to 2005 of this title, amending sections 1927, 1927a, 1981, 1982, 1983b, 1985, 1991, 1997, 1999, and 2000 of this title, and amending provisions set out as a note under section 1999 of this title].”
 
 **Study and Report to Congress Before Issuance of Certain Final Regulations**
 
-Pub. L. 100–233, title VI, § 621, Jan. 6, 1988, 101 Stat. 1684, provided that: “Not later than 60 days before the Secretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act [7 U.S.C. 1921 et seq.], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of the enactment of this Act [Jan. 6, 1988], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act.”
+Pub. L. 100–233, title VI, § 621, Jan. 6, 1988, 101 Stat. 1684, provided that: “Not later than 60 days before the Secretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act [7 U.S.C. 1921 et seq.], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of the enactment of this Act [Jan. 6, 1988], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act.”
 
 **Availability of Funds for Continuing Assistance to Delinquent Borrowers; Prohibition on Use of Funds**
 
@@ -6501,13 +6501,13 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that:
 
 **Coordinated Financial Statements; Use of Submission Requirement Prohibited**
 
-Pub. L. 99–198, title XIII, § 1325, Dec. 23, 1985, 99 Stat. 1540, provided that: “The Secretary of Agriculture shall not use or require the submission of the coordinated financial statement referred to in the proposed regulations of the Farmers Home Administration published in the Federal Register of November 8, 1983 (48 F.R. 51312–51317) in connection with an application submitted on or after the date of the enactment of this Act [Dec. 23, 1985] for any loan under any program of the Department of Agriculture carried out by the Farmers Home Administration.”
+Pub. L. 99–198, title XIII, § 1325, Dec. 23, 1985, 99 Stat. 1540, provided that: “The Secretary of Agriculture shall not use or require the submission of the coordinated financial statement referred to in the proposed regulations of the Farmers Home Administration published in the Federal Register of November 8, 1983 (48 F.R. 51312–51317) in connection with an application submitted on or after the date of the enactment of this Act [Dec. 23, 1985] for any loan under any program of the Department of Agriculture carried out by the Farmers Home Administration.”
 
-### § 1990. Transfer of lands to Secretary
+### § 1990. Transfer of lands to Secretary
 
 The President may at any time in his discretion transfer to the Secretary any right, interest, or title held by the United States in any lands acquired in the program of national defense and no longer needed therefor, which the President shall find suitable for the purposes of this chapter, and the Secretary shall dispose of such lands in the manner and subject to the terms and conditions of the chapter.
 
-(Pub. L. 87–128, title III, § 340, Aug. 8, 1961, 75 Stat. 318.)
+(Pub. L. 87–128, title III, § 340, Aug. 8, 1961, 75 Stat. 318.)
 
 **Editorial Notes**
 
@@ -6521,11 +6521,11 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Authority of President under this section in his discretion to transfer to Secretary of Agriculture any right, interest or title held by United States in any lands acquired in program of national defense and no longer needed for that program, and to determine suitability of lands to be transferred, for purposes referred to in this section, delegated to Administrator of General Services, provided, that exercise by Administrator of authority delegated to him herein shall require concurrence of Secretary of Defense as to absence of further need of lands for national defense program, see section 1(15) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, set out as a note under section 301 of Title 3, The President.
 
-### § 1990a. Refinancing of certain rural hospital debt
+### § 1990a. Refinancing of certain rural hospital debt
 
 Assistance under section 1926(a) of this title for a community facility, or under section 1932 of this title, may include the refinancing of a debt obligation of a rural hospital as an eligible loan or loan guarantee purpose if the assistance would help preserve access to a health service in a rural community, meaningfully improve the financial position of the hospital, and otherwise meet the financial feasibility and adequacy of security requirements of the Rural Development Agency.
 
-(Pub. L. 87–128, title III, § 342, as added Pub. L. 115–334, title VI, § 6103, Dec. 20, 2018, 132 Stat. 4728.)
+(Pub. L. 87–128, title III, § 342, as added Pub. L. 115–334, title VI, § 6103, Dec. 20, 2018, 132 Stat. 4728.)
 
 **Editorial Notes**
 
@@ -6533,7 +6533,7 @@ Assistance under section 1926(a) of this title for a community facility, or unde
 
 Another section 342 of Pub. L. 87–128 amended section 1013a of this title.
 
-### § 1991. Definitions
+### § 1991. Definitions
 
 **(a)** As used in this chapter:
 
@@ -6565,7 +6565,7 @@ Another section 342 of Pub. L. 87–128 amended section 1013a of this title.
 
 **(C)** in the case of a cooperative, corporation, partnership, joint operation, or such other legal entity as the Secretary considers appropriate, who has members, stockholders, partners, joint operator,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 or owners who are all related to one another by blood or marriage;
 
@@ -6713,7 +6713,7 @@ or owners who are all related to one another by blood or marriage;
 
 **(4) Preservation loan service program.—** The term “preservation loan service program” means homestead retention as authorized under section 2000 of this title.
 
-(Pub. L. 87–128, title III, § 343, as added Pub. L. 87–703, title IV, § 401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, § 128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, § 124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, § 2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, § 1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, § 602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, § 1814, title XXIII, § 2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, § 702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, § 19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§ 640, 661(h), title VII, § 749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, § 3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, § 5310, title VI, § 6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, § 6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, § 4(a), title VI, § 6018(a), June 18, 2008, 122 Stat. 1664, 1931; Pub. L. 113–79, title V, § 5303, Feb. 7, 2014, 128 Stat. 839; Pub. L. 115–334, title V, § 5401(e)(1), (f)(1), title VI, §§ 6301(a), 6402(a), Dec. 20, 2018, 132 Stat. 4674, 4748, 4757.)
+(Pub. L. 87–128, title III, § 343, as added Pub. L. 87–703, title IV, § 401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, § 128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, § 124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, § 2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, § 1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, § 602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, § 1814, title XXIII, § 2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, § 702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, § 19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§ 640, 661(h), title VII, § 749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, § 3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, § 5310, title VI, § 6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, § 6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, § 4(a), title VI, § 6018(a), June 18, 2008, 122 Stat. 1664, 1931; Pub. L. 113–79, title V, § 5303, Feb. 7, 2014, 128 Stat. 839; Pub. L. 115–334, title V, § 5401(e)(1), (f)(1), title VI, §§ 6301(a), 6402(a), Dec. 20, 2018, 132 Stat. 4674, 4748, 4757.)
 
 **Editorial Notes**
 
@@ -6721,11 +6721,11 @@ or owners who are all related to one another by blood or marriage;
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-Section 202 of the Emergency Agricultural Credit Adjustment Act, referred to in subsec. (a)(10), is section 202 of Pub. L. 95–334, title II, Aug. 4, 1978, 92 Stat. 429, which was set out in a note preceding section 1961 of this title prior to repeal by Pub. L. 101–624, title XVIII, § 1851, Nov. 28, 1990, 104 Stat. 3837.
+Section 202 of the Emergency Agricultural Credit Adjustment Act, referred to in subsec. (a)(10), is section 202 of Pub. L. 95–334, title II, Aug. 4, 1978, 92 Stat. 429, which was set out in a note preceding section 1961 of this title prior to repeal by Pub. L. 101–624, title XVIII, § 1851, Nov. 28, 1990, 104 Stat. 3837.
 
-The Economic Opportunity Act of 1961, referred to in subsec. (a)(10), probably means the Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1961, referred to in subsec. (a)(10), probably means the Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
-Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), is section 1254 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1517, which amended Pub. L. 98–258, § 608, set out as a note under section 1981 of this title.
+Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), is section 1254 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1517, which amended Pub. L. 98–258, § 608, set out as a note under section 1981 of this title.
 
 **Codification**
 
@@ -6733,69 +6733,69 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a)(11)(C). Pub. L. 115–334, § 5401(e)(1), substituted “joint operator, or owners” for “or joint operators”.
+2018—Subsec. (a)(11)(C). Pub. L. 115–334, § 5401(e)(1), substituted “joint operator, or owners” for “or joint operators”.
 
-Subsec. (a)(13)(A). Pub. L. 115–334, § 6301(a)(1), substituted “through (I)” for “through (G)” in introductory provisions.
+Subsec. (a)(13)(A). Pub. L. 115–334, § 6301(a)(1), substituted “through (I)” for “through (G)” in introductory provisions.
 
-Subsec. (a)(13)(B). Pub. L. 115–334, § 6402(a)(1), struck out “and guaranteed” before “loans” in heading and text and substituted “(1) and (2)” for “(1), (2), and (24)”.
+Subsec. (a)(13)(B). Pub. L. 115–334, § 6402(a)(1), struck out “and guaranteed” before “loans” in heading and text and substituted “(1) and (2)” for “(1), (2), and (24)”.
 
-Subsec. (a)(13)(C). Pub. L. 115–334, § 6402(a)(2), struck out “and guaranteed” before “loans” and substituted “and (21)” for “(21), and (24)”.
+Subsec. (a)(13)(C). Pub. L. 115–334, § 6402(a)(2), struck out “and guaranteed” before “loans” and substituted “and (21)” for “(21), and (24)”.
 
-Subsec. (a)(13)(H), (I). Pub. L. 115–334, § 6301(a)(2), added subpars. (H) and (I).
+Subsec. (a)(13)(H), (I). Pub. L. 115–334, § 6301(a)(2), added subpars. (H) and (I).
 
-Subsec. (b). Pub. L. 115–334, § 5401(f)(1), substituted “1927(d)” for “1927(e)” in introductory provisions.
+Subsec. (b). Pub. L. 115–334, § 5401(f)(1), substituted “1927(d)” for “1927(e)” in introductory provisions.
 
-2014—Subsec. (a)(11)(C). Pub. L. 113–79, § 5303(a)(2), which directed substitution of “joint operators, or owners,” for “or joint operators,” could not be executed because “or joint operators,” did not appear in text. Corrected amendment was made by Pub. L. 115–334, § 5401(e)(1), effective as of the effective date of Pub. L. 113–79, § 5303(a)(2). See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
+2014—Subsec. (a)(11)(C). Pub. L. 113–79, § 5303(a)(2), which directed substitution of “joint operators, or owners,” for “or joint operators,” could not be executed because “or joint operators,” did not appear in text. Corrected amendment was made by Pub. L. 115–334, § 5401(e)(1), effective as of the effective date of Pub. L. 113–79, § 5303(a)(2). See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
-Pub. L. 113–79, § 5303(a)(1), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,”.
+Pub. L. 113–79, § 5303(a)(1), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,”.
 
-Subsec. (a)(11)(D)(i)(II)(aa). Pub. L. 113–79, § 5303(a)(1), (2), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,” and “joint operators, or owners,” for “or joint operators,”.
+Subsec. (a)(11)(D)(i)(II)(aa). Pub. L. 113–79, § 5303(a)(1), (2), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,” and “joint operators, or owners,” for “or joint operators,”.
 
-Subsec. (a)(11)(D)(i)(II)(bb). Pub. L. 113–79, § 5303(a)(3), substituted “cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators,” for “corporation, has stockholders,”.
+Subsec. (a)(11)(D)(i)(II)(bb). Pub. L. 113–79, § 5303(a)(3), substituted “cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators,” for “corporation, has stockholders,”.
 
-Subsec. (a)(11)(D)(ii)(II)(aa). Pub. L. 113–79, § 5303(a)(1), (2), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,”and “joint operators, or owners,” for “or joint operators,”.
+Subsec. (a)(11)(D)(ii)(II)(aa). Pub. L. 113–79, § 5303(a)(1), (2), substituted “joint operation, or such other legal entity as the Secretary considers appropriate,” for “or joint operation,”and “joint operators, or owners,” for “or joint operators,”.
 
-Subsec. (a)(11)(D)(ii)(II)(bb). Pub. L. 113–79, § 5303(a)(3), substituted “cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators,” for “corporation, has stockholders,”.
+Subsec. (a)(11)(D)(ii)(II)(bb). Pub. L. 113–79, § 5303(a)(3), substituted “cooperative, corporation, partnership, joint operation, or other such legal entity as the Secretary considers appropriate, has members, stockholders, partners, or joint operators,” for “corporation, has stockholders,”.
 
-Subsec. (a)(11)(F). Pub. L. 113–79, § 5303(b), substituted “average acreage” for “median acreage”.
+Subsec. (a)(11)(F). Pub. L. 113–79, § 5303(b), substituted “average acreage” for “median acreage”.
 
-2008—Subsec. (a)(13). Pub. L. 110–246, § 6018(a), amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
+2008—Subsec. (a)(13). Pub. L. 110–246, § 6018(a), amended par. (13) generally, substituting provisions defining “rural” and “rural area”, provisions defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans and community facility loans and grants, and provisions relating to areas rural in character, exclusions, urban area growth, and designations in Hawaii and Puerto Rico, for provisions defining “rural” and “rural area” and defining such terms for the purpose of water and waste disposal grants and direct and guaranteed loans, community facility loans and grants, multijurisdictional regional planning organizations, and the rural business investment program.
 
-2002—Subsec. (a)(11)(F). Pub. L. 107–171, § 5310(a), substituted “30 percent” for “25 percent”.
+2002—Subsec. (a)(11)(F). Pub. L. 107–171, § 5310(a), substituted “30 percent” for “25 percent”.
 
-Subsec. (a)(12)(B). Pub. L. 107–171, § 5310(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘debt forgiveness’ does not include consolidation, rescheduling, reamortization, or deferral.”
+Subsec. (a)(12)(B). Pub. L. 107–171, § 5310(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘debt forgiveness’ does not include consolidation, rescheduling, reamortization, or deferral.”
 
-Subsec. (a)(13). Pub. L. 107–171, § 6020(a), added par. (13).
+Subsec. (a)(13). Pub. L. 107–171, § 6020(a), added par. (13).
 
 1997—Subsec. (a)(11)(F). Pub. L. 105–113 struck out “taken under section 142 of title 13” after “census of agriculture”.
 
-1996—Subsec. (a)(10). Pub. L. 104–127, § 661(h)(1), struck out “recreation loan (RL) under section 1924 of this title,” before “emergency loan (EM)”.
+1996—Subsec. (a)(10). Pub. L. 104–127, § 661(h)(1), struck out “recreation loan (RL) under section 1924 of this title,” before “emergency loan (EM)”.
 
-Subsec. (a)(11). Pub. L. 104–127, § 640(1)(A), in introductory provisions, substituted “applicant, regardless of whether the applicant is participating in a program under section 1935 of this title” for “applicant”.
+Subsec. (a)(11). Pub. L. 104–127, § 640(1)(A), in introductory provisions, substituted “applicant, regardless of whether the applicant is participating in a program under section 1935 of this title” for “applicant”.
 
-Subsec. (a)(11)(F). Pub. L. 104–127, § 640(1)(B), substituted “25 percent” for “15 percent” and inserted before semicolon at end “, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II”.
+Subsec. (a)(11)(F). Pub. L. 104–127, § 640(1)(B), substituted “25 percent” for “15 percent” and inserted before semicolon at end “, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II”.
 
-Subsec. (a)(12). Pub. L. 104–127, § 640(2), added par. (12).
+Subsec. (a)(12). Pub. L. 104–127, § 640(2), added par. (12).
 
-Subsec. (b). Pub. L. 104–127, §§ 661(h)(2)(A), 749(b)(2), in introductory provisions, substituted “1988(b), 2000(b) and (c)” for “1988(f), 1999(h), 2000(b) and (c)”.
+Subsec. (b). Pub. L. 104–127, §§ 661(h)(2)(A), 749(b)(2), in introductory provisions, substituted “1988(b), 2000(b) and (c)” for “1988(f), 1999(h), 2000(b) and (c)”.
 
-Subsec. (b)(4). Pub. L. 104–127, § 661(h)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “The term ‘preservation loan service program’ means—
+Subsec. (b)(4). Pub. L. 104–127, § 661(h)(2)(B), added par. (4) and struck out former par. (4) which read as follows: “The term ‘preservation loan service program’ means—
 
 “(A) homestead retention as authorized under section 2000 of this title; and
 
 “(B) a leaseback or buyback of farmland authorized under section 1985 of this title.”
 
-1992—Subsec. (a). Pub. L. 102–554 substituted “this chapter:” and par. (1) for “this chapter (1) the term ‘farmers’ shall be deemed to include persons who are engaged in, or who, with assistance afforded under this chapter, intend to engage in, fish farming,”, in pars. (2) to (8), realigned margins and substituted “The” for “the” first place appearing in each par. and a period for a comma at end of each par., in par. (9), realigned margin and substituted “The” for “the” first place appearing and a period for “, and” at end, in par. (10), realigned margin and substituted “The” for “the” first place appearing, and added par. (11).
+1992—Subsec. (a). Pub. L. 102–554 substituted “this chapter:” and par. (1) for “this chapter (1) the term ‘farmers’ shall be deemed to include persons who are engaged in, or who, with assistance afforded under this chapter, intend to engage in, fish farming,”, in pars. (2) to (8), realigned margins and substituted “The” for “the” first place appearing in each par. and a period for a comma at end of each par., in par. (9), realigned margin and substituted “The” for “the” first place appearing and a period for “, and” at end, in par. (10), realigned margin and substituted “The” for “the” first place appearing, and added par. (11).
 
-1991—Subsec. (a)(1), (3). Pub. L. 102–237, § 702(h)(1)(A), (B), made technical amendment to directory language of Pub. L. 101–624, § 2388(h)(1), (2). See 1990 Amendment note below.
+1991—Subsec. (a)(1), (3). Pub. L. 102–237, § 702(h)(1)(A), (B), made technical amendment to directory language of Pub. L. 101–624, § 2388(h)(1), (2). See 1990 Amendment note below.
 
-Subsec. (a)(5). Pub. L. 102–237, § 702(h)(1)(C), repealed Pub. L. 101–624, § 2388(h)(3). See 1990 Amendment note below.
+Subsec. (a)(5). Pub. L. 102–237, § 702(h)(1)(C), repealed Pub. L. 101–624, § 2388(h)(3). See 1990 Amendment note below.
 
-1990—Subsec. (a)(1), (3). Pub. L. 101–624, § 2388(h)(1), (2), as amended by Pub. L. 102–237, § 702(h)(1)(A), (B), struck out “and” after “fish farming,” in par. (1), and “and” after “such loan,” in par. (3).
+1990—Subsec. (a)(1), (3). Pub. L. 101–624, § 2388(h)(1), (2), as amended by Pub. L. 102–237, § 702(h)(1)(A), (B), struck out “and” after “fish farming,” in par. (1), and “and” after “such loan,” in par. (3).
 
-Subsec. (a)(5). Pub. L. 101–624, § 2388(h)(3), which directed substitution of “ ‘contract of insurance’ ” for “contract of insurance”, was repealed by Pub. L. 102–237, § 702(h)(1)(C). See Construction of 1990 Amendment note below.
+Subsec. (a)(5). Pub. L. 101–624, § 2388(h)(3), which directed substitution of “ ‘contract of insurance’ ” for “contract of insurance”, was repealed by Pub. L. 102–237, § 702(h)(1)(C). See Construction of 1990 Amendment note below.
 
-Subsec. (a)(8) to (10). Pub. L. 101–624, § 1814, added pars. (8) to (10).
+Subsec. (a)(8) to (10). Pub. L. 101–624, § 1814, added pars. (8) to (10).
 
 1988—Pub. L. 100–233 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -6813,9 +6813,9 @@ Subsec. (a)(8) to (10). Pub. L. 101–624, § 1814, added pars. (8) to (10).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title V, § 5401(e)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as of the effective date of section 5303(a)(2) of the Agricultural Act of 2014 (Public Law 113–79) [probably means the date of enactment of Pub. L. 113–79, which was approved Feb. 7, 2014].”
+Pub. L. 115–334, title V, § 5401(e)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by this subsection [amending this section] shall take effect as of the effective date of section 5303(a)(2) of the Agricultural Act of 2014 (Public Law 113–79) [probably means the date of enactment of Pub. L. 113–79, which was approved Feb. 7, 2014].”
 
-Pub. L. 115–334, title V, § 5401(f)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of the date of enactment of the Agricultural Act of 2014 (Public Law 113–79) [Feb. 7, 2014].”
+Pub. L. 115–334, title V, § 5401(f)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as of the date of enactment of the Agricultural Act of 2014 (Public Law 113–79) [Feb. 7, 2014].”
 
 **Effective Date of 2008 Amendment**
 
@@ -6823,7 +6823,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–113, § 3(d), Nov. 21, 1997, 111 Stat. 2276, provided that: “This section [amending this section and repealing section 142 of Title 13, Census] and the amendments made by this section shall take effect October 1, 1998.”
+Pub. L. 105–113, § 3(d), Nov. 21, 1997, 111 Stat. 2276, provided that: “This section [amending this section and repealing section 142 of Title 13, Census] and the amendments made by this section shall take effect October 1, 1998.”
 
 **Effective Date of 1996 Amendment**
 
@@ -6839,7 +6839,7 @@ Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809, as amended by Pub. L. 90–426, 
 
 **Construction of 1990 Amendment**
 
-Pub. L. 102–237, title VII, § 702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V, § 516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: “The Consolidated Farm and Rural Development Act [title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 [Pub. L. 101–624, amending this section] had never been enacted.”
+Pub. L. 102–237, title VII, § 702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V, § 516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: “The Consolidated Farm and Rural Development Act [title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 [Pub. L. 101–624, amending this section] had never been enacted.”
 
 **Executive Documents**
 
@@ -6847,11 +6847,11 @@ Pub. L. 102–237, title VII, § 702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as 
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 1992. Loan limitations
+### § 1992. Loan limitations
 
 No loan (other than one to a public body or nonprofit association (including Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups) for community facilities or one of a type authorized by section 1926(a)(1) of this title prior to its amendment by the Rural Development Act of 1972) shall be made by the Secretary either for sale as an insured loan or otherwise under sections 1926(a)(1), 1932, or 1942(c) of this title unless the Secretary shall have determined that no other lender is willing to make such loan and assume 10 per centum of any loss sustained thereon. No contract guaranteeing any such loan by such other lender shall require the Secretary to guarantee more than 90 per centum of the principal and interest on such loan.
 
-(Pub. L. 87–128, title III, § 344, as added Pub. L. 92–419, title I, § 129, Aug. 30, 1972, 86 Stat. 666; amended Pub. L. 94–35, § 2, June 16, 1975, 89 Stat. 214; Pub. L. 104–127, title VI, § 661(i), Apr. 4, 1996, 110 Stat. 1107.)
+(Pub. L. 87–128, title III, § 344, as added Pub. L. 92–419, title I, § 129, Aug. 30, 1972, 86 Stat. 666; amended Pub. L. 94–35, § 2, June 16, 1975, 89 Stat. 214; Pub. L. 104–127, title VI, § 661(i), Apr. 4, 1996, 110 Stat. 1107.)
 
 **Editorial Notes**
 
@@ -6865,7 +6865,7 @@ For statutory changes to section 1926(a)(1) of this title by the Rural Developme
 
 1975—Pub. L. 94–35 substituted “guaranteed more than 90 per centum of the principal and interest on such loan” for “participate in more than 90 per centum of any loss sustained thereon”.
 
-### § 1993. Transition to private commercial or other sources of credit
+### § 1993. Transition to private commercial or other sources of credit
 
 **(a) In general**
 
@@ -6883,7 +6883,7 @@ In making or insuring a farm loan under subchapter I or II, the Secretary shall 
 
 **(5)** other appropriate programs and authorities, as determined by the Secretary.
 
-(Pub. L. 87–128, title III, § 345, as added Pub. L. 110–234, title V, § 5304, May 22, 2008, 122 Stat. 1153, and Pub. L. 110–246, § 4(a), title V, § 5304, June 18, 2008, 122 Stat. 1664, 1914.)
+(Pub. L. 87–128, title III, § 345, as added Pub. L. 110–234, title V, § 5304, May 22, 2008, 122 Stat. 1153, and Pub. L. 110–246, § 4(a), title V, § 5304, June 18, 2008, 122 Stat. 1664, 1914.)
 
 **Editorial Notes**
 
@@ -6893,7 +6893,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 1993, Pub. L. 87–128, title III, § 345, as added Pub. L. 94–68, § 9, Aug. 5, 1975, 89 Stat. 382; amended Pub. L. 103–437, § 4(a)(7), Nov. 2, 1994, 108 Stat. 4582, related to testimony by Secretary of Agriculture before congressional committees, prior to repeal by Pub. L. 104–127, title VII, § 750, Apr. 4, 1996, 110 Stat. 1129.
+A prior section 1993, Pub. L. 87–128, title III, § 345, as added Pub. L. 94–68, § 9, Aug. 5, 1975, 89 Stat. 382; amended Pub. L. 103–437, § 4(a)(7), Nov. 2, 1994, 108 Stat. 4582, related to testimony by Secretary of Agriculture before congressional committees, prior to repeal by Pub. L. 104–127, title VII, § 750, Apr. 4, 1996, 110 Stat. 1129.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6901,7 +6901,7 @@ A prior section 1993, Pub. L. 87–128, title III, § 345, as added Pub. L. 94
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 1994. Maximum amounts for loans authorized; long-term cost projections
+### § 1994. Maximum amounts for loans authorized; long-term cost projections
 
 **(a) Maximum aggregate principal amounts for loans authorized**
 
@@ -7023,7 +7023,7 @@ The Secretary shall develop long-term cost projections for loan program authoriz
 
 **(2)** The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons may apply for loans under the low-income, limited-resource borrower program.
 
-(Pub. L. 87–128, title III, § 346, as added Pub. L. 95–334, title I, § 125, Aug. 4, 1978, 92 Stat. 428; amended Pub. L. 96–438, § 4, Oct. 13, 1980, 94 Stat. 1876; Pub. L. 97–35, title I, § 164, Aug. 13, 1981, 95 Stat. 379; Pub. L. 98–258, title VI, § 607, Apr. 10, 1984, 98 Stat. 140; Pub. L. 99–198, title XIII, § 1317, Dec. 23, 1985, 99 Stat. 1529; Pub. L. 101–508, title I, § 1202(a), Nov. 5, 1990, 104 Stat. 1388–9; Pub. L. 101–624, title XXIII, § 2388(i), Nov. 28, 1990, 104 Stat. 4053; Pub. L. 102–237, title VII, §§ 701(h)(1)(F), 702(i), Dec. 13, 1991, 105 Stat. 1880, 1881; Pub. L. 102–554, § 20, Oct. 28, 1992, 106 Stat. 4159; Pub. L. 104–127, title VI, § 641, Apr. 4, 1996, 110 Stat. 1098; Pub. L. 107–171, title V, §§ 5311, 5312, May 13, 2002, 116 Stat. 346, 347; Pub. L. 110–234, title V, §§ 5302(b), 5303, May 22, 2008, 122 Stat. 1152; Pub. L. 110–246, § 4(a), title V, §§ 5302(b), 5303, June 18, 2008, 122 Stat. 1664, 1913, 1914; Pub. L. 113–79, title V, §§ 5304, 5305, Feb. 7, 2014, 128 Stat. 840; Pub. L. 115–334, title V, §§ 5302–5304, 5401(g), Dec. 20, 2018, 132 Stat. 4671, 4672, 4674.)
+(Pub. L. 87–128, title III, § 346, as added Pub. L. 95–334, title I, § 125, Aug. 4, 1978, 92 Stat. 428; amended Pub. L. 96–438, § 4, Oct. 13, 1980, 94 Stat. 1876; Pub. L. 97–35, title I, § 164, Aug. 13, 1981, 95 Stat. 379; Pub. L. 98–258, title VI, § 607, Apr. 10, 1984, 98 Stat. 140; Pub. L. 99–198, title XIII, § 1317, Dec. 23, 1985, 99 Stat. 1529; Pub. L. 101–508, title I, § 1202(a), Nov. 5, 1990, 104 Stat. 1388–9; Pub. L. 101–624, title XXIII, § 2388(i), Nov. 28, 1990, 104 Stat. 4053; Pub. L. 102–237, title VII, §§ 701(h)(1)(F), 702(i), Dec. 13, 1991, 105 Stat. 1880, 1881; Pub. L. 102–554, § 20, Oct. 28, 1992, 106 Stat. 4159; Pub. L. 104–127, title VI, § 641, Apr. 4, 1996, 110 Stat. 1098; Pub. L. 107–171, title V, §§ 5311, 5312, May 13, 2002, 116 Stat. 346, 347; Pub. L. 110–234, title V, §§ 5302(b), 5303, May 22, 2008, 122 Stat. 1152; Pub. L. 110–246, § 4(a), title V, §§ 5302(b), 5303, June 18, 2008, 122 Stat. 1664, 1913, 1914; Pub. L. 113–79, title V, §§ 5304, 5305, Feb. 7, 2014, 128 Stat. 840; Pub. L. 115–334, title V, §§ 5302–5304, 5401(g), Dec. 20, 2018, 132 Stat. 4671, 4672, 4674.)
 
 **Editorial Notes**
 
@@ -7039,53 +7039,53 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 5401(g), struck out comma before period at end.
+2018—Subsec. (a). Pub. L. 115–334, § 5401(g), struck out comma before period at end.
 
-Subsec. (b)(1). Pub. L. 115–334, § 5302, substituted “$10,000,000,000 for each of fiscal years 2019 through 2023” for “$4,226,000,000 for each of fiscal years 2008 through 2018” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which set aside, out of the $4,226,000,000 loan amount authorized, $1,200,000,000 for direct loans and $3,026,000,000 for guaranteed loans.
+Subsec. (b)(1). Pub. L. 115–334, § 5302, substituted “$10,000,000,000 for each of fiscal years 2019 through 2023” for “$4,226,000,000 for each of fiscal years 2008 through 2018” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which set aside, out of the $4,226,000,000 loan amount authorized, $1,200,000,000 for direct loans and $3,026,000,000 for guaranteed loans.
 
-Subsec. (b)(2)(A)(ii)(III). Pub. L. 115–334, § 5303, substituted “2023” for “2018”.
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 115–334, § 5303, substituted “2023” for “2018”.
 
-Subsec. (b)(5). Pub. L. 115–334, § 5304, added par. (5).
+Subsec. (b)(5). Pub. L. 115–334, § 5304, added par. (5).
 
-2014—Subsec. (b)(1). Pub. L. 113–79, § 5304, substituted “2018” for “2012” in introductory provisions.
+2014—Subsec. (b)(1). Pub. L. 113–79, § 5304, substituted “2018” for “2012” in introductory provisions.
 
-Subsec. (b)(2)(A)(ii)(III). Pub. L. 113–79, § 5305, substituted “2018” for “2012” and struck out “of the total amount” before period at end.
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 113–79, § 5305, substituted “2018” for “2012” and struck out “of the total amount” before period at end.
 
-2008—Subsec. (b)(1). Pub. L. 110–246, § 5303(1), substituted “$4,226,000,000 for each of fiscal years 2008 through 2012” for “$3,796,000,000 for each of fiscal years 2003 through 2007” in introductory provisions.
+2008—Subsec. (b)(1). Pub. L. 110–246, § 5303(1), substituted “$4,226,000,000 for each of fiscal years 2008 through 2012” for “$3,796,000,000 for each of fiscal years 2003 through 2007” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 110–246, § 5303(2), in introductory provisions, substituted “$1,200,000,000” for “$770,000,000”, in cl. (i), substituted “$350,000,000” for “$205,000,000”, and, in cl. (ii), substituted “$850,000,000” for “$565,000,000”.
+Subsec. (b)(1)(A). Pub. L. 110–246, § 5303(2), in introductory provisions, substituted “$1,200,000,000” for “$770,000,000”, in cl. (i), substituted “$350,000,000” for “$205,000,000”, and, in cl. (ii), substituted “$850,000,000” for “$565,000,000”.
 
-Subsec. (b)(2)(A)(i). Pub. L. 110–246, § 5302(b)(1)(A), in subcl. (I), substituted “an amount that is not less than 75 percent of the total amount” for “70 percent” and, in subcl. (II), inserted “; joint financing arrangements” at end of heading and, in text, substituted “an amount not less than ⅔ of the amount” for “60 percent” and inserted “and joint financing arrangements under section 1927(a)(3)(D) of this title” after “section 1935 of this title”.
+Subsec. (b)(2)(A)(i). Pub. L. 110–246, § 5302(b)(1)(A), in subcl. (I), substituted “an amount that is not less than 75 percent of the total amount” for “70 percent” and, in subcl. (II), inserted “; joint financing arrangements” at end of heading and, in text, substituted “an amount not less than ⅔ of the amount” for “60 percent” and inserted “and joint financing arrangements under section 1927(a)(3)(D) of this title” after “section 1935 of this title”.
 
-Subsec. (b)(2)(A)(ii)(III). Pub. L. 110–246, § 5302(b)(1)(B), substituted “2008 through 2012, an amount that is not less than 50 percent of the total amount” for “2003 through 2007, 35 percent”.
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 110–246, § 5302(b)(1)(B), substituted “2008 through 2012, an amount that is not less than 50 percent of the total amount” for “2003 through 2007, 35 percent”.
 
-Subsec. (b)(2)(B)(i). Pub. L. 110–246, § 5302(b)(2), substituted “an amount that is not less than 40 percent of the total amount” for “25 percent”.
+Subsec. (b)(2)(B)(i). Pub. L. 110–246, § 5302(b)(2), substituted “an amount that is not less than 40 percent of the total amount” for “25 percent”.
 
-2002—Subsec. (b)(1). Pub. L. 107–171, § 5311, reenacted heading without change and amended text generally. Prior to amendment, text related to guaranteed loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for fiscal years 1996 to 2002.
+2002—Subsec. (b)(1). Pub. L. 107–171, § 5311, reenacted heading without change and amended text generally. Prior to amendment, text related to guaranteed loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for fiscal years 1996 to 2002.
 
-Subsec. (b)(2)(A)(ii)(III). Pub. L. 107–171, § 5312, substituted “2003 through 2007” for “2000 through 2002”.
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 107–171, § 5312, substituted “2003 through 2007” for “2000 through 2002”.
 
-1996—Subsec. (a). Pub. L. 104–127, § 641(1), in second sentence, struck out “with or without authority for the Secretary to transfer amounts between such categories within a given program for more effective administration” before period at end.
+1996—Subsec. (a). Pub. L. 104–127, § 641(1), in second sentence, struck out “with or without authority for the Secretary to transfer amounts between such categories within a given program for more effective administration” before period at end.
 
-Subsec. (b). Pub. L. 104–127, § 641(2), added subsec. (b) and struck out former subsec. (b), which set forth maximum amounts for direct and guaranteed loans under the Agricultural Credit Insurance Fund for fiscal years 1991 to 1995.
+Subsec. (b). Pub. L. 104–127, § 641(2), added subsec. (b) and struck out former subsec. (b), which set forth maximum amounts for direct and guaranteed loans under the Agricultural Credit Insurance Fund for fiscal years 1991 to 1995.
 
-1992—Subsec. (b)(2). Pub. L. 102–554, § 20(b), inserted sentence at end.
+1992—Subsec. (b)(2). Pub. L. 102–554, § 20(b), inserted sentence at end.
 
-Subsec. (b)(3)(D) to (G). Pub. L. 102–554, § 20(c), (d), added subpars. (D) to (G).
+Subsec. (b)(3)(D) to (G). Pub. L. 102–554, § 20(c), (d), added subpars. (D) to (G).
 
-Subsec. (b)(5), (6). Pub. L. 102–554, § 20(a), (e), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 102–554, § 20(a), (e), added pars. (5) and (6).
 
-1991—Subsec. (b). Pub. L. 102–237, § 702(i), repealed Pub. L. 101–624, § 2388(i). See 1990 Amendment note below.
+1991—Subsec. (b). Pub. L. 102–237, § 702(i), repealed Pub. L. 101–624, § 2388(i). See 1990 Amendment note below.
 
-Subsec. (b)(3)(C). Pub. L. 102–237, § 701(h)(1)(F), substituted “this chapter” for “this Act” in two places.
+Subsec. (b)(3)(C). Pub. L. 102–237, § 701(h)(1)(F), substituted “this chapter” for “this Act” in two places.
 
-1990—Subsec. (b). Pub. L. 101–624, § 2388(i), which amended subsec. (b), in par. (1)(B), by striking “subparagraph (C)” and inserting “paragraph (3)”; in par. (1)(C), by striking “subparagraph (A)” and inserting “paragraph (1)”; by redesignating pars. (1)(A), (B), (C), (D)(i), and (E) as (1), (2), (3), (4), and (5), respectively; in par. (2), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively; in subpars. (A) to (C) of par. (2), by redesignating subcls. (I) and (II) as cls. (i) and (ii), respectively; and in par. (5), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, was repealed by Pub. L. 102–237, § 702(i). See Construction of 1990 Amendment note below.
+1990—Subsec. (b). Pub. L. 101–624, § 2388(i), which amended subsec. (b), in par. (1)(B), by striking “subparagraph (C)” and inserting “paragraph (3)”; in par. (1)(C), by striking “subparagraph (A)” and inserting “paragraph (1)”; by redesignating pars. (1)(A), (B), (C), (D)(i), and (E) as (1), (2), (3), (4), and (5), respectively; in par. (2), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively; in subpars. (A) to (C) of par. (2), by redesignating subcls. (I) and (II) as cls. (i) and (ii), respectively; and in par. (5), by redesignating cls. (i), (ii), and (iii) as subpars. (A), (B), and (C), respectively, was repealed by Pub. L. 102–237, § 702(i). See Construction of 1990 Amendment note below.
 
-Pub. L. 101–508, § 1202(a), amended subsec. (b) generally, substituting present provisions for provisions relating to maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for fiscal years 1986 through 1988.
+Pub. L. 101–508, § 1202(a), amended subsec. (b) generally, substituting present provisions for provisions relating to maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for fiscal years 1986 through 1988.
 
-1985—Subsec. (b). Pub. L. 99–198, § 1317(a), amended subsec. (b) generally, substituting provisions setting maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for each of fiscal years ending September 30, 1986, through September 30, 1988, for provisions setting such amounts for each of fiscal years 1980, 1981, and 1982.
+1985—Subsec. (b). Pub. L. 99–198, § 1317(a), amended subsec. (b) generally, substituting provisions setting maximum amounts for loans under the Agricultural Credit Insurance Fund and the Rural Development Insurance Fund for each of fiscal years ending September 30, 1986, through September 30, 1988, for provisions setting such amounts for each of fiscal years 1980, 1981, and 1982.
 
-Subsecs. (d), (e). Pub. L. 99–198, § 1317, struck out subsec. (d) which authorized special amounts for fiscal year 1982, redesignated subsec. (e) as (d), and in par. (1) substituted “25 per centum” for “20 per centum” wherever appearing and “each fiscal year” for “fiscal year 1984”.
+Subsecs. (d), (e). Pub. L. 99–198, § 1317, struck out subsec. (d) which authorized special amounts for fiscal year 1982, redesignated subsec. (e) as (d), and in par. (1) substituted “25 per centum” for “20 per centum” wherever appearing and “each fiscal year” for “fiscal year 1984”.
 
 1984—Subsec. (e). Pub. L. 98–258 added subsec. (e).
 
@@ -7105,27 +7105,27 @@ Amendment by section 701(h)(1)(F) of Pub. L. 102–237 to any provision specifie
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title I, § 1301, Nov. 5, 1990, 104 Stat. 1388–12, provided that: “This title and the amendments made by this title [enacting section 940d of this title, amending this section, sections 511r, 1441–2, 1444–2, 1444f, 1445, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f to 1446h, 1722, 1736, 1736a, 1783, 1999, and 5822 of this title, and section 136a of Title 21, Food and Drugs, enacting provisions set out as notes under sections 136w, 1421, and 1445b–3a of this title, and amending provisions set out as notes under sections 1421 and 1999 of this title] shall become effective 1 day after the date of enactment of the Food, Agriculture, Conservation, and Trade Act of 1990 [Nov. 28, 1990], or December 1, 1990, whichever is earlier.”
+Pub. L. 101–508, title I, § 1301, Nov. 5, 1990, 104 Stat. 1388–12, provided that: “This title and the amendments made by this title [enacting section 940d of this title, amending this section, sections 511r, 1441–2, 1444–2, 1444f, 1445, 1445b–3a, 1445c–3, 1445j, 1446e, 1446f to 1446h, 1722, 1736, 1736a, 1783, 1999, and 5822 of this title, and section 136a of Title 21, Food and Drugs, enacting provisions set out as notes under sections 136w, 1421, and 1445b–3a of this title, and amending provisions set out as notes under sections 1421 and 1999 of this title] shall become effective 1 day after the date of enactment of the Food, Agriculture, Conservation, and Trade Act of 1990 [Nov. 28, 1990], or December 1, 1990, whichever is earlier.”
 
 **Construction of 1990 Amendment**
 
-Pub. L. 102–237, title VII, § 702(i), Dec. 13, 1991, 105 Stat. 1881, provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) [Pub. L. 101–624, amending this section] is hereby repealed and the Consolidated Farm and Rural Development Act [title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
+Pub. L. 102–237, title VII, § 702(i), Dec. 13, 1991, 105 Stat. 1881, provided that: “Subsection (i) of section 2388 of the Food, Agriculture, Conservation, and Trade Act of 1990 (104 Stat. 4053) [Pub. L. 101–624, amending this section] is hereby repealed and the Consolidated Farm and Rural Development Act [title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title] shall be applied and administered as if the amendments made by such subsection had never been enacted.”
 
 **Nullification of Reservation of Funds During Fiscal Year 1999 for Guaranteed Loans for Qualified Beginning Farmers and Ranchers**
 
-Pub. L. 106–2, § 1, Mar. 15, 1999, 113 Stat. 5, provided that: “Amounts shall be made available pursuant to section 346(b)(1)(D) of the Consolidated Farm and Rural Development Act [7 U.S.C. 1994(b)(1)(D)] for guaranteed loans, without regard to any reservation under section 346(b)(2)(B) of such Act.”
+Pub. L. 106–2, § 1, Mar. 15, 1999, 113 Stat. 5, provided that: “Amounts shall be made available pursuant to section 346(b)(1)(D) of the Consolidated Farm and Rural Development Act [7 U.S.C. 1994(b)(1)(D)] for guaranteed loans, without regard to any reservation under section 346(b)(2)(B) of such Act.”
 
-### § 1995. Participation and financial and technical assistance by other Federal departments, etc., to program participants
+### § 1995. Participation and financial and technical assistance by other Federal departments, etc., to program participants
 
 Notwithstanding any other provision of law, other departments, agencies, and executive establishments of the Federal Government may participate and provide financial and technical assistance jointly with the Secretary to any applicant to whom assistance is being provided under any program administered by the Farmers Home Administration. Participation by any other department, agency, or executive establishment shall be only to the extent authorized for, and subject to the authorities of, such other department, agency, or executive establishment, except that any limitation on joint participation is superseded by this section.
 
-(Pub. L. 87–128, title III, § 347, as added Pub. L. 95–334, title I, § 125, Aug. 4, 1978, 92 Stat. 429.)
+(Pub. L. 87–128, title III, § 347, as added Pub. L. 95–334, title I, § 125, Aug. 4, 1978, 92 Stat. 429.)
 
-### § 1996. Loans to resident aliens
+### § 1996. Loans to resident aliens
 
 Notwithstanding the provisions of this chapter limiting the making and insuring of loans to citizens of the United States, the Secretary may make and insure loans under this chapter to aliens lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act [8 U.S.C. 1101 et seq.]: *Provided*, That no loans may be made or insured under this chapter to such aliens until the Secretary issues regulations establishing the terms and conditions under which such aliens may receive loans: *Provided further*, That the Secretary shall submit the regulations to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate at least thirty days prior to the date the regulations are published in the Federal Register.
 
-(Pub. L. 87–128, title III, § 348, as added Pub. L. 96–438, § 2(3), Oct. 13, 1980, 94 Stat. 1872.)
+(Pub. L. 87–128, title III, § 348, as added Pub. L. 96–438, § 2(3), Oct. 13, 1980, 94 Stat. 1872.)
 
 **Editorial Notes**
 
@@ -7133,9 +7133,9 @@ Notwithstanding the provisions of this chapter limiting the making and insuring 
 
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-### § 1997. Conservation easements
+### § 1997. Conservation easements
 
 **(a) Definitions** For purposes of this section:
 
@@ -7197,7 +7197,7 @@ Subject to subsection (c), the Secretary may enter into a contract related to re
 
 The Secretary, and any person or governmental entity designated by the Secretary, may enforce a contract entered into by the Secretary under this section.
 
-(Pub. L. 87–128, title III, § 349, as added Pub. L. 99–198, title XIII, § 1318(a), Dec. 23, 1985, 99 Stat. 1530; amended Pub. L. 100–233, title VI, § 612, Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–624, title XVIII, § 1815, title XXIII, § 2388(j), Nov. 28, 1990, 104 Stat. 3825, 4053; Pub. L. 104–127, title VI, § 642, Apr. 4, 1996, 110 Stat. 1102; Pub. L. 117–243, § 2(b)(1), Dec. 20, 2022, 136 Stat. 2336.)
+(Pub. L. 87–128, title III, § 349, as added Pub. L. 99–198, title XIII, § 1318(a), Dec. 23, 1985, 99 Stat. 1530; amended Pub. L. 100–233, title VI, § 612, Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–624, title XVIII, § 1815, title XXIII, § 2388(j), Nov. 28, 1990, 104 Stat. 3825, 4053; Pub. L. 104–127, title VI, § 642, Apr. 4, 1996, 110 Stat. 1102; Pub. L. 117–243, § 2(b)(1), Dec. 20, 2022, 136 Stat. 2336.)
 
 **Editorial Notes**
 
@@ -7205,37 +7205,37 @@ The Secretary, and any person or governmental entity designated by the Secretary
 
 2022—Subsec. (a)(3). Pub. L. 117–243 substituted “section 3371” for “section 3371(a)”.
 
-1996—Subsec. (b). Pub. L. 104–127, § 642(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to subsection (c) of this section, the Secretary may acquire and retain an easement in real property, for a term of not less than 50 years, for conservation, recreational, and wildlife purposes.”
+1996—Subsec. (b). Pub. L. 104–127, § 642(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to subsection (c) of this section, the Secretary may acquire and retain an easement in real property, for a term of not less than 50 years, for conservation, recreational, and wildlife purposes.”
 
-Subsec. (c). Pub. L. 104–127, § 642(2)(A), inserted heading and substituted “The Secretary may enter into a contract under subsection (b) if” for “Such easement may be acquired or retained for real property if”.
+Subsec. (c). Pub. L. 104–127, § 642(2)(A), inserted heading and substituted “The Secretary may enter into a contract under subsection (b) if” for “Such easement may be acquired or retained for real property if”.
 
-Subsec. (c)(2). Pub. L. 104–127, § 642(2)(B), inserted “and” at end.
+Subsec. (c)(2). Pub. L. 104–127, § 642(2)(B), inserted “and” at end.
 
-Subsec. (c)(3). Pub. L. 104–127, § 642(2)(C), struck out “(i)” after “(3)(A)”, substituted “administered by the Secretary” for “administered by the Farmers Home Administration”, redesignated cl. (ii) of subpar. (A) as subpar. (B), substituted “such contract” for “such easement” and a period for “; or” at end, and struck out former subpar. (B) which read as follows: “such property is administered under this chapter by the Secretary; and”.
+Subsec. (c)(3). Pub. L. 104–127, § 642(2)(C), struck out “(i)” after “(3)(A)”, substituted “administered by the Secretary” for “administered by the Farmers Home Administration”, redesignated cl. (ii) of subpar. (A) as subpar. (B), substituted “such contract” for “such easement” and a period for “; or” at end, and struck out former subpar. (B) which read as follows: “such property is administered under this chapter by the Secretary; and”.
 
-Subsec. (c)(4). Pub. L. 104–127, § 642(2)(D), struck out par. (4) which read as follows: “such property was (except in the case of wetland and other wildlife habitat) row cropped each year of the 3-year period ending on December 23, 1985.”
+Subsec. (c)(4). Pub. L. 104–127, § 642(2)(D), struck out par. (4) which read as follows: “such property was (except in the case of wetland and other wildlife habitat) row cropped each year of the 3-year period ending on December 23, 1985.”
 
-Subsec. (d). Pub. L. 104–127, § 642(3), substituted “contract” for “easement” in introductory provisions and par. (3).
+Subsec. (d). Pub. L. 104–127, § 642(3), substituted “contract” for “easement” in introductory provisions and par. (3).
 
-Subsec. (e). Pub. L. 104–127, § 642(4), in par. (1), substituted “reduce or forgive the outstanding debt of a borrower” for “purchase any such easement from the borrower” in introductory provisions, in subpars. (A) and (B), substituted “administered by the Secretary” for “administered by the Farmers Home Administration” and “contract bears” for “easement bears”, and in par. (2)(A), substituted “contract is entered into” for “easement is acquired”.
+Subsec. (e). Pub. L. 104–127, § 642(4), in par. (1), substituted “reduce or forgive the outstanding debt of a borrower” for “purchase any such easement from the borrower” in introductory provisions, in subpars. (A) and (B), substituted “administered by the Secretary” for “administered by the Farmers Home Administration” and “contract bears” for “easement bears”, and in par. (2)(A), substituted “contract is entered into” for “easement is acquired”.
 
-Subsec. (f). Pub. L. 104–127, § 642(5), in par. (1), substituted “enter into contracts” for “acquire easements” and in pars. (2) and (3), substituted “contracts” for “easements”.
+Subsec. (f). Pub. L. 104–127, § 642(5), in par. (1), substituted “enter into contracts” for “acquire easements” and in pars. (2) and (3), substituted “contracts” for “easements”.
 
-Subsec. (g). Pub. L. 104–127, § 642(6), substituted “a contract entered into” for “an easement acquired”.
+Subsec. (g). Pub. L. 104–127, § 642(6), substituted “a contract entered into” for “an easement acquired”.
 
-1990—Subsec. (a)(4), (5). Pub. L. 101–624, § 2388(j), redesignated par. (5) as (4).
+1990—Subsec. (a)(4), (5). Pub. L. 101–624, § 2388(j), redesignated par. (5) as (4).
 
-Subsec. (c). Pub. L. 101–624, § 1815(1)(A)–(D), (F), (G), in introductory provision, struck out “such property” after “real property if”, and inserted “such property” after par. (1), (2), (3)(A)(i), (3)(B), and (4) designations.
+Subsec. (c). Pub. L. 101–624, § 1815(1)(A)–(D), (F), (G), in introductory provision, struck out “such property” after “real property if”, and inserted “such property” after par. (1), (2), (3)(A)(i), (3)(B), and (4) designations.
 
-Subsec. (c)(3)(A)(ii). Pub. L. 101–624, § 1815(1)(E), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the borrower of such loan is unable, as determined by the Secretary, to repay such loan in a timely manner; or”.
+Subsec. (c)(3)(A)(ii). Pub. L. 101–624, § 1815(1)(E), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “the borrower of such loan is unable, as determined by the Secretary, to repay such loan in a timely manner; or”.
 
-Subsec. (e). Pub. L. 101–624, § 1815(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any such easement acquired by the Secretary shall be purchased from the borrower involved by canceling that part of the aggregate amount of such outstanding loans of the borrower held by the Secretary under laws administered by the Farmers Home Administration that bears the same ratio to the aggregate amount of the outstanding loans of such borrower held by the Secretary under all such laws as the number of acres of the real property of such borrower that are subject to such easement bears to the aggregate number of acres securing such loans. In no case shall the amount so cancelled exceed the value of the land on which the easement is acquired or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater.”
+Subsec. (e). Pub. L. 101–624, § 1815(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “Any such easement acquired by the Secretary shall be purchased from the borrower involved by canceling that part of the aggregate amount of such outstanding loans of the borrower held by the Secretary under laws administered by the Farmers Home Administration that bears the same ratio to the aggregate amount of the outstanding loans of such borrower held by the Secretary under all such laws as the number of acres of the real property of such borrower that are subject to such easement bears to the aggregate number of acres securing such loans. In no case shall the amount so cancelled exceed the value of the land on which the easement is acquired or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater.”
 
-Subsec. (h). Pub. L. 101–624, § 1815(9), struck out subsec. (h) which read as follows: “This section shall not apply with respect to the cancellation of any part of any loan that was made after December 25, 1985.”
+Subsec. (h). Pub. L. 101–624, § 1815(9), struck out subsec. (h) which read as follows: “This section shall not apply with respect to the cancellation of any part of any loan that was made after December 25, 1985.”
 
-1988—Subsec. (c)(4). Pub. L. 100–233, § 612(1), inserted “and other wildlife habitat” after “wetland”.
+1988—Subsec. (c)(4). Pub. L. 100–233, § 612(1), inserted “and other wildlife habitat” after “wetland”.
 
-Subsec. (e). Pub. L. 100–233, § 612(2), inserted “or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater” at end of second sentence.
+Subsec. (e). Pub. L. 100–233, § 612(2), inserted “or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater” at end of second sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7243,11 +7243,11 @@ Subsec. (e). Pub. L. 100–233, § 612(2), inserted “or the difference betwe
 
 Amendment by Pub. L. 104–127 effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
-### § 1998. Guaranteed farm loan programs
+### § 1998. Guaranteed farm loan programs
 
 Notwithstanding any other provision of this chapter, the Secretary shall ensure that farm loan guarantee programs carried out under this chapter are designed so as to be responsive to borrower and lender needs and to include provisions under reasonable terms and conditions for advances, before completion of the liquidation process, of guarantee proceeds on loans in default.
 
-(Pub. L. 87–128, title III, § 350, as added Pub. L. 99–198, title XIII, § 1319, Dec. 23, 1985, 99 Stat. 1531.)
+(Pub. L. 87–128, title III, § 350, as added Pub. L. 99–198, title XIII, § 1319, Dec. 23, 1985, 99 Stat. 1531.)
 
 **Editorial Notes**
 
@@ -7255,7 +7255,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall ensure 
 
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-### § 1999. Interest rate reduction program
+### § 1999. Interest rate reduction program
 
 **(a) Establishment of program**
 
@@ -7303,7 +7303,7 @@ The Secretary shall make available to farmers, on request, a list of lenders in 
 
 Notwithstanding any other provision of law, each contract of guarantee on a farm loan entered into under this chapter after January 6, 1988, shall contain a condition that the lender of the guaranteed loan may not initiate foreclosure action on the loan until 60 days after a determination is made with respect to the eligibility of the borrower thereof to participate in the program under this section.
 
-(Pub. L. 87–128, title III, § 351, as added Pub. L. 99–198, title XIII, § 1320, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, § 613(b), (c), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, § 1202(b)(1), (c), Nov. 5, 1990, 104 Stat. 1388–10, 1388–11; Pub. L. 104–105, title II, § 220, Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VI, § 643(a), Apr. 4, 1996, 110 Stat. 1102; Pub. L. 107–171, title V, § 5313, May 13, 2002, 116 Stat. 347; Pub. L. 115–334, title XII, § 12306(d), Dec. 20, 2018, 132 Stat. 4970.)
+(Pub. L. 87–128, title III, § 351, as added Pub. L. 99–198, title XIII, § 1320, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, § 613(b), (c), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, § 1202(b)(1), (c), Nov. 5, 1990, 104 Stat. 1388–10, 1388–11; Pub. L. 104–105, title II, § 220, Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VI, § 643(a), Apr. 4, 1996, 110 Stat. 1102; Pub. L. 107–171, title V, § 5313, May 13, 2002, 116 Stat. 347; Pub. L. 115–334, title XII, § 12306(d), Dec. 20, 2018, 132 Stat. 4970.)
 
 **Editorial Notes**
 
@@ -7313,33 +7313,33 @@ This chapter, referred to in subsecs. (a)(1), (e)(1), and (g), was in the origin
 
 **Amendments**
 
-2018—Subsec. (e)(2)(B). Pub. L. 115–334, § 12306(d)(1), inserted “and veteran” after “Beginning” in heading.
+2018—Subsec. (e)(2)(B). Pub. L. 115–334, § 12306(d)(1), inserted “and veteran” after “Beginning” in heading.
 
-Subsec. (e)(2)(B)(i). Pub. L. 115–334, § 12306(d)(2), inserted before period at end “or veteran farmers and ranchers (as defined in section 2279(a) of this title)”.
+Subsec. (e)(2)(B)(i). Pub. L. 115–334, § 12306(d)(2), inserted before period at end “or veteran farmers and ranchers (as defined in section 2279(a) of this title)”.
 
-Subsec. (e)(2)(B)(ii). Pub. L. 115–334, § 12306(d)(3), struck out “beginning” before “farmers or ranchers”.
+Subsec. (e)(2)(B)(ii). Pub. L. 115–334, § 12306(d)(3), struck out “beginning” before “farmers or ranchers”.
 
-2002—Subsec. (a). Pub. L. 107–171, § 5313(1), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: “The authority provided by this subsection shall terminate on September 30, 2002.”
+2002—Subsec. (a). Pub. L. 107–171, § 5313(1), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: “The authority provided by this subsection shall terminate on September 30, 2002.”
 
-Subsec. (e)(2). Pub. L. 107–171, § 5313(2), added par. (2) and struck out former par. (2) which read as follows: “The total amount of funds used by the Secretary to carry out this section may not exceed $490,000,000.”
+Subsec. (e)(2). Pub. L. 107–171, § 5313(2), added par. (2) and struck out former par. (2) which read as follows: “The total amount of funds used by the Secretary to carry out this section may not exceed $490,000,000.”
 
 1996—Subsec. (a). Pub. L. 104–105 inserted heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
 
-Subsec. (f). Pub. L. 104–127, § 643(a)(1), substituted “The Secretary” for “Each Farmers Home Administration county supervisor” and “list of lenders” for “list of approved lenders” and struck out “the Farmers Home Administration” before “guaranteed farm loan programs”.
+Subsec. (f). Pub. L. 104–127, § 643(a)(1), substituted “The Secretary” for “Each Farmers Home Administration county supervisor” and “list of lenders” for “list of approved lenders” and struck out “the Farmers Home Administration” before “guaranteed farm loan programs”.
 
-Subsec. (h). Pub. L. 104–127, § 643(a)(2), struck out subsec. (h) which established a demonstration project during 4-year period beginning Jan. 6, 1988, for purchase of Farm Credit System land.
+Subsec. (h). Pub. L. 104–127, § 643(a)(2), struck out subsec. (h) which established a demonstration project during 4-year period beginning Jan. 6, 1988, for purchase of Farm Credit System land.
 
-1990—Subsec. (c). Pub. L. 101–508, § 1202(b)(1)(A), substituted “100 percent” for “50 percent” and “4 percent” for “2 percent”.
+1990—Subsec. (c). Pub. L. 101–508, § 1202(b)(1)(A), substituted “100 percent” for “50 percent” and “4 percent” for “2 percent”.
 
-Subsec. (d). Pub. L. 101–508, § 1202(b)(1)(B), struck out “, or 3 years, whichever is less” after “term of such loan”.
+Subsec. (d). Pub. L. 101–508, § 1202(b)(1)(B), struck out “, or 3 years, whichever is less” after “term of such loan”.
 
-Subsec. (h)(1). Pub. L. 101–508, § 1202(c), substituted “4-year” for “3-year”.
+Subsec. (h)(1). Pub. L. 101–508, § 1202(c), substituted “4-year” for “3-year”.
 
-1988—Subsec. (b)(1)(C). Pub. L. 100–233, § 613(b)(1), substituted “24-month” for “12-month”.
+1988—Subsec. (b)(1)(C). Pub. L. 100–233, § 613(b)(1), substituted “24-month” for “12-month”.
 
-Subsecs. (f), (g). Pub. L. 100–233, § 613(b)(2), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 100–233, § 613(b)(2), added subsecs. (f) and (g).
 
-Subsec. (h). Pub. L. 100–233, § 613(c), added subsec. (h).
+Subsec. (h). Pub. L. 100–233, § 613(c), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7349,9 +7349,9 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 
 **Effective and Termination Dates**
 
-That part of section 1320 of Pub. L. 99–198, as amended by Pub. L. 100–233, title VI, § 613(a), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, § 1202(b)(2), Nov. 5, 1990, 104 Stat. 1388–11, which provided that this section was effective only for the period beginning Dec. 23, 1985, and ending Sept. 30, 1995, was repealed by Pub. L. 104–127, title VI, § 643(b), Apr. 4, 1996, 110 Stat. 1103.
+That part of section 1320 of Pub. L. 99–198, as amended by Pub. L. 100–233, title VI, § 613(a), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, § 1202(b)(2), Nov. 5, 1990, 104 Stat. 1388–11, which provided that this section was effective only for the period beginning Dec. 23, 1985, and ending Sept. 30, 1995, was repealed by Pub. L. 104–127, title VI, § 643(b), Apr. 4, 1996, 110 Stat. 1103.
 
-### § 2000. Homestead protection
+### § 2000. Homestead protection
 
 **(a) Definitions** As used in this section:
 
@@ -7363,9 +7363,9 @@ That part of section 1320 of Pub. L. 99–198, as amended by Pub. L. 100–233, 
 
 **(B)** in any case in which an owner of homestead property pledged the property to secure the loan and the owner is different than the borrower, the owner.
 
-**(3)** The term “farm program loan” means any loan made by the Administrator under the Small Business Act (15 U.S.C. 631 et seq.) for any of the purposes authorized for loans under subchapters 1
+**(3)** The term “farm program loan” means any loan made by the Administrator under the Small Business Act (15 U.S.C. 631 et seq.) for any of the purposes authorized for loans under subchapters 1
 
-<sup>1</sup>  So in original. Probably should be “subchapter”.
+<sup>1</sup> So in original. Probably should be “subchapter”.
 
 I or II.
 
@@ -7411,9 +7411,9 @@ I or II.
 
 **(2)** For purposes of subparagraphs (B) and (C) of paragraph (1), the term “farming or ranching operations” shall include rent paid by lessees of agricultural land during any period in which the borrower-owner, due to circumstances beyond the control of the borrower-owner, is unable to actively farm such land.
 
-**(3)** For the purposes of paragraph (1)(E), the failure of the borrower-owner to make timely rental payments shall constitute cause for the termination of all rights of such borrower-owner to possession and occupancy of the homestead property under this section. In effecting any such termination, the Secretary shall afford the borrower-owner or lessee the notice and hearing procedural rights described in section 1983b 2
+**(3)** For the purposes of paragraph (1)(E), the failure of the borrower-owner to make timely rental payments shall constitute cause for the termination of all rights of such borrower-owner to possession and occupancy of the homestead property under this section. In effecting any such termination, the Secretary shall afford the borrower-owner or lessee the notice and hearing procedural rights described in section 1983b 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of this title and shall comply with all applicable State and local laws governing eviction from residential property.
 
@@ -7443,17 +7443,17 @@ The Secretary may enter into contracts authorized by this section before the Sec
 
 In the event of any conflict between this section and any provision of the law of any State relating to the right of a borrower-owner to designate for separate sale or redeem part or all of the real property securing a loan foreclosed on by the lender thereof, such provision of State law shall prevail.
 
-(Pub. L. 87–128, title III, § 352, as added Pub. L. 99–198, title XIII, § 1321, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, § 614, Jan. 6, 1988, 101 Stat. 1675; Pub. L. 102–237, title V, § 501(g), title VII, § 701(h)(2), Dec. 13, 1991, 105 Stat. 1867, 1880; Pub. L. 102–552, title V, § 516(i), (j)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 104–127, title VI, § 644, Apr. 4, 1996, 110 Stat. 1103; Pub. L. 110–234, title V, § 5305, May 22, 2008, 122 Stat. 1153; Pub. L. 110–246, § 4(a), title V, § 5305, June 18, 2008, 122 Stat. 1664, 1915.)
+(Pub. L. 87–128, title III, § 352, as added Pub. L. 99–198, title XIII, § 1321, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, § 614, Jan. 6, 1988, 101 Stat. 1675; Pub. L. 102–237, title V, § 501(g), title VII, § 701(h)(2), Dec. 13, 1991, 105 Stat. 1867, 1880; Pub. L. 102–552, title V, § 516(i), (j)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 104–127, title VI, § 644, Apr. 4, 1996, 110 Stat. 1103; Pub. L. 110–234, title V, § 5305, May 22, 2008, 122 Stat. 1153; Pub. L. 110–246, § 4(a), title V, § 5305, June 18, 2008, 122 Stat. 1664, 1915.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Small Business Act, referred to in subsecs. (a)(3) and (b)(1)(B), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsecs. (a)(3) and (b)(1)(B), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 This chapter, referred to in subsecs. (b)(1)(A) and (c)(6), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-Section 1983b of this title, referred to in subsec. (c)(3), was repealed by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233.
+Section 1983b of this title, referred to in subsec. (c)(3), was repealed by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233.
 
 **Codification**
 
@@ -7461,33 +7461,33 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (c)(4)(B). Pub. L. 110–246, § 5305, substituted “period of occupancy of a borrower-owner who is a socially disadvantaged farmer or rancher (as defined in section 2003(e)(2) of this title), the borrower-owner or a member of the immediate family of the borrower-owner” for “period of occupancy, the borrower-owner” and inserted “or immediate family member, as the case may be,” after “selected by the borrower-owner”.
+2008—Subsec. (c)(4)(B). Pub. L. 110–246, § 5305, substituted “period of occupancy of a borrower-owner who is a socially disadvantaged farmer or rancher (as defined in section 2003(e)(2) of this title), the borrower-owner or a member of the immediate family of the borrower-owner” for “period of occupancy, the borrower-owner” and inserted “or immediate family member, as the case may be,” after “selected by the borrower-owner”.
 
-1996—Subsec. (c)(1)(A). Pub. L. 104–127, § 644(1), substituted “30” for “90” in two places.
+1996—Subsec. (c)(1)(A). Pub. L. 104–127, § 644(1), substituted “30” for “90” in two places.
 
-Subsec. (c)(6). Pub. L. 104–127, § 644(2), substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
+Subsec. (c)(6). Pub. L. 104–127, § 644(2), substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
 
-1992—Subsec. (a)(4), (5). Pub. L. 102–552, § 516(i), redesignated par. (4), defining “Secretary”, as (5).
+1992—Subsec. (a)(4), (5). Pub. L. 102–552, § 516(i), redesignated par. (4), defining “Secretary”, as (5).
 
-Subsec. (b)(2). Pub. L. 102–552, § 516(j)(1), substituted “borrower-owner’s” for “borrower’s”.
+Subsec. (b)(2). Pub. L. 102–552, § 516(j)(1), substituted “borrower-owner’s” for “borrower’s”.
 
-1991—Subsec. (a)(2) to (4). Pub. L. 102–237, § 501(g), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “borrower-owner” for “borrower” in redesignated par. (4).
+1991—Subsec. (a)(2) to (4). Pub. L. 102–237, § 501(g), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “borrower-owner” for “borrower” in redesignated par. (4).
 
-Subsec. (b)(1). Pub. L. 102–237, § 501(g)(2), substituted “borrower-owner” for “borrower” wherever appearing.
+Subsec. (b)(1). Pub. L. 102–237, § 501(g)(2), substituted “borrower-owner” for “borrower” wherever appearing.
 
-Subsec. (b)(3). Pub. L. 102–237, § 701(h)(2), struck out “be” after “shall”.
+Subsec. (b)(3). Pub. L. 102–237, § 701(h)(2), struck out “be” after “shall”.
 
-Subsecs. (c), (d), (g). Pub. L. 102–237, § 501(g)(2), substituted “borrower-owner” for “borrower” wherever appearing.
+Subsecs. (c), (d), (g). Pub. L. 102–237, § 501(g)(2), substituted “borrower-owner” for “borrower” wherever appearing.
 
-1988—Subsec. (a)(3). Pub. L. 100–233, § 614(1), inserted “, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead, and no more than 10 acres of adjoining land that is used to maintain the family of the individual”.
+1988—Subsec. (a)(3). Pub. L. 100–233, § 614(1), inserted “, including a reasonable number of farm outbuildings located on the adjoining land that are useful to the occupants of the homestead, and no more than 10 acres of adjoining land that is used to maintain the family of the individual”.
 
-Subsec. (b)(1). Pub. L. 100–233, § 614(2), added par. (1) and struck out former par. (1) which read as follows: “If the Secretary forecloses a loan made or insured under this chapter, the Administrator forecloses a farm program loan made under the Small Business Act (15 U.S.C. 631 et seq.), or a borrower of a loan made or insured by either agency declares bankruptcy or goes into voluntary liquidation to avoid foreclosure or bankruptcy, the Secretary or Administrator may upon application by the borrower, permit the borrower to retain possession and occupancy of any principal residence of the borrower, and a reasonable amount of adjoining land for the purpose of family maintenance.”
+Subsec. (b)(1). Pub. L. 100–233, § 614(2), added par. (1) and struck out former par. (1) which read as follows: “If the Secretary forecloses a loan made or insured under this chapter, the Administrator forecloses a farm program loan made under the Small Business Act (15 U.S.C. 631 et seq.), or a borrower of a loan made or insured by either agency declares bankruptcy or goes into voluntary liquidation to avoid foreclosure or bankruptcy, the Secretary or Administrator may upon application by the borrower, permit the borrower to retain possession and occupancy of any principal residence of the borrower, and a reasonable amount of adjoining land for the purpose of family maintenance.”
 
-Subsec. (c). Pub. L. 100–233, § 614(3), completely revised and restated subsec. (c), substituting pars. (1) to (6) for former pars. (1) to (8).
+Subsec. (c). Pub. L. 100–233, § 614(3), completely revised and restated subsec. (c), substituting pars. (1) to (6) for former pars. (1) to (8).
 
-Subsec. (d). Pub. L. 100–233, § 614(3), inserted at end “Such terms and conditions shall not be less favorable than those intended to be offered to any other buyer.”
+Subsec. (d). Pub. L. 100–233, § 614(3), inserted at end “Such terms and conditions shall not be less favorable than those intended to be offered to any other buyer.”
 
-Subsecs. (f), (g). Pub. L. 100–233, § 614(4), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 100–233, § 614(4), added subsecs. (f) and (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7501,13 +7501,13 @@ Amendment by Pub. L. 104–127 effective Apr. 4, 1996, but not applicable with r
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–552, title V, § 516(j)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect at the same time as the amendments made by section 501(f) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1867) [amending section 1985 of this title] took effect.”
+Pub. L. 102–552, title V, § 516(j)(2), Oct. 28, 1992, 106 Stat. 4138, provided that: “The amendment made by paragraph (1) of this subsection [amending this section] shall take effect at the same time as the amendments made by section 501(f) of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 105 Stat. 1867) [amending section 1985 of this title] took effect.”
 
 **Effective Date of 1991 Amendment**
 
 Amendment by section 701(h)(2) of Pub. L. 102–237 to any provision specified therein effective as if included in act that added provision so specified at the time such act became law, see section 1101(c) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
-### § 2001. Debt restructuring and loan servicing
+### § 2001. Debt restructuring and loan servicing
 
 **(a) In general** The Secretary shall modify delinquent farmer program loans made or insured under this chapter, or purchased from the lender or the Federal Deposit Insurance Corporation under section 1929b of this title, to the maximum extent possible—
 
@@ -7703,9 +7703,9 @@ If the appeal process results in a determination that a loan is eligible for res
 
 **(h) Time limits for restructuring**
 
-Once an appeal has been filed under section 1983b 1
+Once an appeal has been filed under section 1983b 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, a decision shall be made at each level in the appeals process within 45 days after the receipt of the appeal or request for further review.
 
@@ -7761,7 +7761,7 @@ The Secretary may not use the authority provided by this section to reduce or te
 
 The Secretary may provide not more than $300,000 in principal and interest forgiveness under this section per borrower.
 
-(Pub. L. 87–128, title III, § 353, as added Pub. L. 100–233, title VI, § 615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, § 1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, § 501(h), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VI, §§ 645, 661(j), Apr. 4, 1996, 110 Stat. 1103, 1107; Pub. L. 105–277, div. A, § 101(a) [title VIII, §§ 807, 808], Oct. 21, 1998, 112 Stat. 2681, 2681–40; Pub. L. 106–31, title III, § 3019(b), May 21, 1999, 113 Stat. 99; Pub. L. 106–387, § 1(a) [title VIII, § 818(a)], Oct. 28, 2000, 114 Stat. 1549, 1549A–58; Pub. L. 107–171, title V, § 5314, May 13, 2002, 116 Stat. 347.)
+(Pub. L. 87–128, title III, § 353, as added Pub. L. 100–233, title VI, § 615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, § 1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, § 501(h), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VI, §§ 645, 661(j), Apr. 4, 1996, 110 Stat. 1103, 1107; Pub. L. 105–277, div. A, § 101(a) [title VIII, §§ 807, 808], Oct. 21, 1998, 112 Stat. 2681, 2681–40; Pub. L. 106–31, title III, § 3019(b), May 21, 1999, 113 Stat. 99; Pub. L. 106–387, § 1(a) [title VIII, § 818(a)], Oct. 28, 2000, 114 Stat. 1549, 1549A–58; Pub. L. 107–171, title V, § 5314, May 13, 2002, 116 Stat. 347.)
 
 **Editorial Notes**
 
@@ -7769,7 +7769,7 @@ The Secretary may provide not more than $300,000 in principal and interest forgi
 
 This chapter, referred to in subsecs. (a), (c)(5), and (k), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-Section 1983b of this title, referred to in subsec. (h), was repealed by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233.
+Section 1983b of this title, referred to in subsec. (h), was repealed by Pub. L. 103–354, title II, § 281(c), Oct. 13, 1994, 108 Stat. 3233.
 
 **Amendments**
 
@@ -7779,47 +7779,47 @@ Section 1983b of this title, referred to in subsec. (h), was repealed by Pub. L.
 
 1999—Subsec. (c)(3)(C). Pub. L. 106–31 substituted “110 percent” for “100 percent”.
 
-1998—Subsec. (c)(3)(C). Pub. L. 105–277, § 101(a) [title VIII, § 808], substituted “100 percent” for “110 percent”.
+1998—Subsec. (c)(3)(C). Pub. L. 105–277, § 101(a) [title VIII, § 808], substituted “100 percent” for “110 percent”.
 
-Subsec. (e)(6). Pub. L. 105–277, § 101(a) [title VIII, § 807], added par. (6).
+Subsec. (e)(6). Pub. L. 105–277, § 101(a) [title VIII, § 807], added par. (6).
 
-1996—Subsec. (c)(3)(C). Pub. L. 104–127, § 645(1)(A), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows:
+1996—Subsec. (c)(3)(C). Pub. L. 104–127, § 645(1)(A), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows:
 
 “(i) Assumption.—For the purpose of assessing under subparagraph (A) the ability of a borrower to meet debt obligations and continue farming operations, the Secretary shall assume that the borrower needs up to 105 percent of the amount indicated for payment of debt obligations.
 
 “(ii) Available income.—If an amount up to 105 percent of the debt payments of the borrower has been earmarked for such payments, the Secretary shall consider the income of the borrower to be adequate to meet the debt obligations of the borrower.”
 
-Subsec. (c)(6). Pub. L. 104–127, § 645(1)(B), added par. (6) and struck out former par. (6), which specified required conditions for termination of loan obligations, limited applicability of good faith requirement, authorized recapture by requiring borrower to enter into agreement before terminating loan obligations, and provided for limitation on recapture amount and treatment of intrafamily transfers.
+Subsec. (c)(6). Pub. L. 104–127, § 645(1)(B), added par. (6) and struck out former par. (6), which specified required conditions for termination of loan obligations, limited applicability of good faith requirement, authorized recapture by requiring borrower to enter into agreement before terminating loan obligations, and provided for limitation on recapture amount and treatment of intrafamily transfers.
 
-Subsec. (k). Pub. L. 104–127, § 645(2), (3), redesignated subsec. (*l*) as (k) and struck out heading and text of former subsec. (k). Text read as follows: “The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring.”
+Subsec. (k). Pub. L. 104–127, § 645(2), (3), redesignated subsec. (*l*) as (k) and struck out heading and text of former subsec. (k). Text read as follows: “The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring.”
 
-Subsec. (*l*). Pub. L. 104–127, § 661(j), struck out “and subparagraphs (A)(i) and (C)(i) of section 1985(e)(1) of this title,” before “if a borrower” in introductory provisions.
+Subsec. (*l*). Pub. L. 104–127, § 661(j), struck out “and subparagraphs (A)(i) and (C)(i) of section 1985(e)(1) of this title,” before “if a borrower” in introductory provisions.
 
-Pub. L. 104–127, § 645(3), redesignated subsec. (m) as (*l*).
+Pub. L. 104–127, § 645(3), redesignated subsec. (m) as (*l*).
 
-Subsecs. (m) to (p). Pub. L. 104–127, § 645(3), redesignated subsecs. (m) to (p) as (*l*) to (*o*), respectively.
+Subsecs. (m) to (p). Pub. L. 104–127, § 645(3), redesignated subsecs. (m) to (p) as (*l*) to (*o*), respectively.
 
-1991—Subsec. (c)(6)(A)(ii). Pub. L. 102–237, § 501(h)(1), substituted “November 28, 1990” for “the date of enactment of this paragraph”.
+1991—Subsec. (c)(6)(A)(ii). Pub. L. 102–237, § 501(h)(1), substituted “November 28, 1990” for “the date of enactment of this paragraph”.
 
-Subsec. (m). Pub. L. 102–237, § 501(h)(2), substituted “section 1985(e)(1)” for “section 1985(e)(1)(A)”.
+Subsec. (m). Pub. L. 102–237, § 501(h)(2), substituted “section 1985(e)(1)” for “section 1985(e)(1)(A)”.
 
-1990—Subsec. (b)(1). Pub. L. 101–624, § 1816(a), inserted before semicolon at end “, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a)”.
+1990—Subsec. (b)(1). Pub. L. 101–624, § 1816(a), inserted before semicolon at end “, except that the regulations shall require that, if the value of the assets calculated under subsection (c)(2)(A)(ii) that may be realized through liquidation or other methods would produce enough income to make the delinquent loan current, the borrower shall not be eligible for assistance under subsection (a)”.
 
-Subsec. (c)(2)(A). Pub. L. 101–624, § 1816(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of the current appraised value of the property securing the loan; less”.
+Subsec. (c)(2)(A). Pub. L. 101–624, § 1816(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the amount of the current appraised value of the property securing the loan; less”.
 
-Subsec. (c)(2)(B)(iv). Pub. L. 101–624, § 1816(b)(2)(A), substituted “costs; plus” for “costs.”
+Subsec. (c)(2)(B)(iv). Pub. L. 101–624, § 1816(b)(2)(A), substituted “costs; plus” for “costs.”
 
-Subsec. (c)(2)(C). Pub. L. 101–624, § 1816(b)(2)(B), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 101–624, § 1816(b)(2)(B), added subpar. (C).
 
-Subsec. (c)(3)(C). Pub. L. 101–624, § 1816(c), added subpar. (C).
+Subsec. (c)(3)(C). Pub. L. 101–624, § 1816(c), added subpar. (C).
 
-Subsec. (c)(4). Pub. L. 101–624, § 1816(d), substituted “90” for “60” in introductory provisions.
+Subsec. (c)(4). Pub. L. 101–624, § 1816(d), substituted “90” for “60” in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 101–624, § 1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwise conveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement.”
+Subsec. (c)(6). Pub. L. 101–624, § 1816(f), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “If the value of the restructured loan is less than the recovery value and if, within 45 days after receipt of the notification described in paragraph (4)(B), the borrower pays (or obtains third-party financing to pay) the Secretary an amount equal to the recovery value, the obligations of the borrower to the Secretary under the loan shall terminate, except that the Secretary may require, as a condition of such termination of loan obligations, that the borrower enter into an agreement with the Secretary if the borrower sells or otherwise conveys the real property used to secure such loan within 2 years after the date of such agreement. Any such agreement shall provide for the recapture of part or all of the difference between the recovery value of the loan and the fair market value (on the date of such agreement) of the property securing the loan if the borrower realizes a gain on the sale or conveyance over the amount of the recovery value of the loan. In no event shall any such agreement provide for recapture of an amount that exceeds the difference between such recovery value and the fair market value of the property securing the loan on the date of such agreement.”
 
-Subsec. (c)(7). Pub. L. 101–624, § 1816(g), added par. (7).
+Subsec. (c)(7). Pub. L. 101–624, § 1816(g), added par. (7).
 
-Subsecs. (*l*) to (p). Pub. L. 101–624, § 1816(h), added subsecs. (*l*) to (p).
+Subsecs. (*l*) to (p). Pub. L. 101–624, § 1816(h), added subsecs. (*l*) to (p).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7833,7 +7833,7 @@ Amendment by Pub. L. 102–237 effective as if included in the provision of the 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–624, title XVIII, § 1861, Nov. 28, 1990, 104 Stat. 3837, provided that:
+Pub. L. 101–624, title XVIII, § 1861, Nov. 28, 1990, 104 Stat. 3837, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this title, this title and the amendments made by this title [enacting sections 1981f and 2006a to 2006e of this title, section 2076a of Title 12, Banks and Banking, and section 5143 of Title 25, Indians, amending this section, sections 1924, 1927, 1933, 1934, 1942, 1946, 1981, 1981d, 1982, 1983, 1983a, 1983b, 1985, 1991, 1997, 2003, and 5106 of this title, section 3132 of Title 5, Government Organization and Employees, sections 2019, 2075, 2077, 2218, 2252, 2254, 2277a–5, 2277a–9, 2277a–10, 2277a–14, 2278a–6, 2279aa, and 2279aa–11 of Title 12, and section 5141 of Title 25, enacting provisions set out as notes under section 1981f of this title and section 2001 of Title 12, amending provisions set out as a note under section 1985 of this title, and repealing provisions set out as a note preceding section 1961 of this title] shall become effective on the date of enactment of this Act [Nov. 28, 1990].
 
@@ -7851,27 +7851,27 @@ Pub. L. 101–624, title XVIII, § 1861, Nov. 28, 1990, 104 Stat. 3837, provid
 
 > **“(e) Regulations.—** As soon as practicable after the date of enactment of this Act [Nov. 28, 1990]—
 
-> **“(1)** the Secretary of Agriculture shall issue such regulations as are necessary to carry out subtitles A and C of this Act [probably means subtitles A (§§ 1801–1824) and C (§§ 1851–1854) of title XVIII of Pub. L. 101–624, enacting sections 1981f and 2006a to 2006e of this title and section 5143 of Title 25, amending this section, sections 1924, 1927, 1933, 1934, 1942, 1946, 1981, 1981d, 1982, 1983, 1983a, 1983b, 1985, 1991, 1997, 2003, and 5106 of this title and section 5141 of Title 25, enacting provisions set out as a note under section 1981f of this title, amending provisions set out as a note under section 1985 of this title, and repealing provisions set out as a note preceding section 1961 of this title] and the amendments made by such subtitles; and
+> **“(1)** the Secretary of Agriculture shall issue such regulations as are necessary to carry out subtitles A and C of this Act [probably means subtitles A (§§ 1801–1824) and C (§§ 1851–1854) of title XVIII of Pub. L. 101–624, enacting sections 1981f and 2006a to 2006e of this title and section 5143 of Title 25, amending this section, sections 1924, 1927, 1933, 1934, 1942, 1946, 1981, 1981d, 1982, 1983, 1983a, 1983b, 1985, 1991, 1997, 2003, and 5106 of this title and section 5141 of Title 25, enacting provisions set out as a note under section 1981f of this title, amending provisions set out as a note under section 1985 of this title, and repealing provisions set out as a note preceding section 1961 of this title] and the amendments made by such subtitles; and
 
-> **“(2)** the Farm Credit Administration shall issue such regulations as are necessary to carry out subtitle B of this Act [probably means subtitle B (§§ 1831–1843) of title XVIII of Pub. L. 101–624, enacting section 2076a of Title 12, amending section 3132 of Title 5 and sections 2019, 2075, 2077, 2218, 2252, 2254, 2277a–5, 2277a–9, 2277a–10, 2277a–14, 2278a–6, 2279aa, and 2279aa–11 of Title 12, and enacting provisions set out as a note under section 2001 of Title 12] and the amendments made by such subtitle.”
+> **“(2)** the Farm Credit Administration shall issue such regulations as are necessary to carry out subtitle B of this Act [probably means subtitle B (§§ 1831–1843) of title XVIII of Pub. L. 101–624, enacting section 2076a of Title 12, amending section 3132 of Title 5 and sections 2019, 2075, 2077, 2218, 2252, 2254, 2277a–5, 2277a–9, 2277a–10, 2277a–14, 2278a–6, 2279aa, and 2279aa–11 of Title 12, and enacting provisions set out as a note under section 2001 of Title 12] and the amendments made by such subtitle.”
 
 **Suspension of Collection Activities During Transition Period**
 
-Pub. L. 100–233, title VI, § 615(d), Jan. 6, 1988, 101 Stat. 1682, provided that: “The Secretary of Agriculture shall not initiate any acceleration, foreclosure, or liquidation in connection with any delinquent farmer program loan before the date the Secretary has issued final regulations to carry out the amendments made by this section [enacting section 2001 of this title and amending sections 1927a and 1981 of this title]. The preceding sentence shall not prohibit the Secretary from taking any action with respect to waste, fraud, or abuse by the borrower.”
+Pub. L. 100–233, title VI, § 615(d), Jan. 6, 1988, 101 Stat. 1682, provided that: “The Secretary of Agriculture shall not initiate any acceleration, foreclosure, or liquidation in connection with any delinquent farmer program loan before the date the Secretary has issued final regulations to carry out the amendments made by this section [enacting section 2001 of this title and amending sections 1927a and 1981 of this title]. The preceding sentence shall not prohibit the Secretary from taking any action with respect to waste, fraud, or abuse by the borrower.”
 
-### § 2001a. Debt restructuring and loan servicing for community facility loans
+### § 2001a. Debt restructuring and loan servicing for community facility loans
 
 The Secretary shall establish and implement a program that is similar to the program established under section 2001 of this title, except that the debt restructuring and loan servicing procedures shall apply to delinquent community facility program loans (rather than delinquent farmer program loans) made by the Farmers Home Administration to a hospital or health care facility under section 1926(a) of this title.
 
-(Pub. L. 87–128, title III, § 353A, as added Pub. L. 101–624, title XXIII, § 2384(a), Nov. 28, 1990, 104 Stat. 4050.)
+(Pub. L. 87–128, title III, § 353A, as added Pub. L. 101–624, title XXIII, § 2384(a), Nov. 28, 1990, 104 Stat. 4050.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 101–624, title XXIII, § 2384(b), Nov. 28, 1990, 104 Stat. 4050, provided that: “Not later than 120 days after the date of enactment of this Act [Nov. 28, 1990], the Secretary shall promulgate regulations, modeled after those promulgated under such section 353 [7 U.S.C. 2001], that implement the program established under section 353A of the Consolidated Farm and Rural Development Act [7 U.S.C. 2001a].”
+Pub. L. 101–624, title XXIII, § 2384(b), Nov. 28, 1990, 104 Stat. 4050, provided that: “Not later than 120 days after the date of enactment of this Act [Nov. 28, 1990], the Secretary shall promulgate regulations, modeled after those promulgated under such section 353 [7 U.S.C. 2001], that implement the program established under section 353A of the Consolidated Farm and Rural Development Act [7 U.S.C. 2001a].”
 
-### § 2002. Transfer of inventory lands
+### § 2002. Transfer of inventory lands
 
 **(a) In general** Subject to subsection (b), the Secretary may transfer to any Federal or State agency, for conservation purposes any real property, or interest therein, administered by the Secretary under this Act—
 
@@ -7895,7 +7895,7 @@ Pub. L. 101–624, title XXIII, § 2384(b), Nov. 28, 1990, 104 Stat. 4050, pro
 
 **(3)** the Governor and at least 1 elected county official of the State and county where the property is located are consulted prior to the transfer.
 
-(Pub. L. 87–128, title III, § 354, as added Pub. L. 100–233, title VI, § 616, Jan. 6, 1988, 101 Stat. 1682; amended Pub. L. 104–127, title VI, § 646, Apr. 4, 1996, 110 Stat. 1103.)
+(Pub. L. 87–128, title III, § 354, as added Pub. L. 100–233, title VI, § 616, Jan. 6, 1988, 101 Stat. 1682; amended Pub. L. 104–127, title VI, § 646, Apr. 4, 1996, 110 Stat. 1103.)
 
 **Editorial Notes**
 
@@ -7907,7 +7907,7 @@ This Act, referred to in subsec. (a), refers to the Agricultural Act of 1961, Pu
 
 1996—Pub. L. 104–127 designated existing provisions as subsec. (a), inserted heading, substituted “Subject to subsection (b), the Secretary” for “The Secretary, without reimbursement,” in introductory provisions, added par. (2) and struck out former par. (2) which read as follows: “that is determined by the Secretary to be suitable or surplus; and”, and added subsec. (b).
 
-### § 2003. Target participation rates
+### § 2003. Target participation rates
 
 **(a) Establishment**
 
@@ -7965,7 +7965,7 @@ As used in this section, the term “socially disadvantaged farmer or rancher”
 
 Not later than 180 days after April 4, 1996, the Secretary shall ensure that the implementation of this section is consistent with the holding of the Supreme Court in Adarand Constructors, Inc. v. Federico Pena, Secretary of Transportation, 115 S. Ct. 2097 (1995).
 
-(Pub. L. 87–128, title III, § 355, as added Pub. L. 100–233, title VI, § 617, Jan. 6, 1988, 101 Stat. 1682; amended Pub. L. 101–624, title XVIII, § 1817, title XXV, § 2501(f), Nov. 28, 1990, 104 Stat. 3829, 4065; Pub. L. 102–554, § 21(a), (b), Oct. 28, 1992, 106 Stat. 4161; Pub. L. 104–127, title VI, § 647, Apr. 4, 1996, 110 Stat. 1104; Pub. L. 107–171, title V, § 5315, May 13, 2002, 116 Stat. 348.)
+(Pub. L. 87–128, title III, § 355, as added Pub. L. 100–233, title VI, § 617, Jan. 6, 1988, 101 Stat. 1682; amended Pub. L. 101–624, title XVIII, § 1817, title XXV, § 2501(f), Nov. 28, 1990, 104 Stat. 3829, 4065; Pub. L. 102–554, § 21(a), (b), Oct. 28, 1992, 106 Stat. 4161; Pub. L. 104–127, title VI, § 647, Apr. 4, 1996, 110 Stat. 1104; Pub. L. 107–171, title V, § 5315, May 13, 2002, 116 Stat. 348.)
 
 **Editorial Notes**
 
@@ -7979,17 +7979,17 @@ For definition of “this chapter”, referred to in subsecs. (c)(2), see note s
 
 1996—Subsec. (f). Pub. L. 104–127 added subsec. (f).
 
-1992—Subsec. (a)(2). Pub. L. 102–554, § 21(a)(1), substituted “Except as provided in paragraph (3), in establishing” for “In establishing”.
+1992—Subsec. (a)(2). Pub. L. 102–554, § 21(a)(1), substituted “Except as provided in paragraph (3), in establishing” for “In establishing”.
 
-Subsec. (a)(3). Pub. L. 102–554, § 21(a)(2), added par. (3).
+Subsec. (a)(3). Pub. L. 102–554, § 21(a)(2), added par. (3).
 
-Subsec. (e)(1). Pub. L. 102–554, § 21(b), substituted “, ethnic, or gender” for “or ethnic”.
+Subsec. (e)(1). Pub. L. 102–554, § 21(b), substituted “, ethnic, or gender” for “or ethnic”.
 
-1990—Subsec. (b)(3). Pub. L. 101–624, § 1817, added par. (3).
+1990—Subsec. (b)(3). Pub. L. 101–624, § 1817, added par. (3).
 
-Subsecs. (c), (d). Pub. L. 101–624, § 2501(f)(1)–(3), added subsec. (c), redesignated former subsec. (c) as (d), and struck out former subsec. (d) which read as follows: “As used in this section, the term ‘socially disadvantaged group’ means a group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.”
+Subsecs. (c), (d). Pub. L. 101–624, § 2501(f)(1)–(3), added subsec. (c), redesignated former subsec. (c) as (d), and struck out former subsec. (d) which read as follows: “As used in this section, the term ‘socially disadvantaged group’ means a group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities.”
 
-Subsec. (e). Pub. L. 101–624, § 2501(f)(4), added subsec. (e).
+Subsec. (e). Pub. L. 101–624, § 2501(f)(4), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7997,13 +7997,13 @@ Subsec. (e). Pub. L. 101–624, § 2501(f)(4), added subsec. (e).
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report required by subsec. (d) of this section is listed on page 44), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-### § 2004. Expedited clearing of title to inventory property
+### § 2004. Expedited clearing of title to inventory property
 
 The Farmers Home Administration may employ local attorneys, on a case-by-case basis, to process all legal procedures necessary to clear the title to foreclosed properties in the inventory of the Farmers Home Administration. Such attorneys shall be compensated at not more than their usual and customary charges for such work.
 
-(Pub. L. 87–128, title III, § 356, as added Pub. L. 100–233, title VI, § 618, Jan. 6, 1988, 101 Stat. 1683.)
+(Pub. L. 87–128, title III, § 356, as added Pub. L. 100–233, title VI, § 618, Jan. 6, 1988, 101 Stat. 1683.)
 
-### § 2005. Payment of losses on guaranteed loans
+### § 2005. Payment of losses on guaranteed loans
 
 **(a) Payments to lenders**
 
@@ -8033,7 +8033,7 @@ Any amount paid to a lender under this subsection with respect to a loan guarant
 
 This subsection shall not be construed to limit the authority of the Secretary to enter into a shared appreciation arrangement with a borrower, or the terms and conditions which shall be required of a borrower, under section 2001(e) of this title.
 
-(Pub. L. 87–128, title III, § 357, as added Pub. L. 100–233, title VI, § 619, Jan. 6, 1988, 101 Stat. 1683; amended Pub. L. 101–624, title XXIII, § 2388(d)(2), Nov. 28, 1990, 104 Stat. 4053.)
+(Pub. L. 87–128, title III, § 357, as added Pub. L. 100–233, title VI, § 619, Jan. 6, 1988, 101 Stat. 1683; amended Pub. L. 101–624, title XXIII, § 2388(d)(2), Nov. 28, 1990, 104 Stat. 4053.)
 
 **Editorial Notes**
 
@@ -8045,11 +8045,11 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 1990—Subsec. (b)(1), (2). Pub. L. 101–624 substituted “1981(b)(4)” for “1981(d)”.
 
-### § 2006. Waiver of mediation rights by borrowers
+### § 2006. Waiver of mediation rights by borrowers
 
 The Secretary may not make, insure, or guarantee any farmer program loan to a farm borrower on the condition that the borrower waive any right under the mediation program of any State.
 
-(Pub. L. 87–128, title III, § 358, as added Pub. L. 100–233, title V, § 512, Jan. 6, 1988, 101 Stat. 1664; amended Pub. L. 103–354, title II, § 282(f)(3), Oct. 13, 1994, 108 Stat. 3235.)
+(Pub. L. 87–128, title III, § 358, as added Pub. L. 100–233, title V, § 512, Jan. 6, 1988, 101 Stat. 1664; amended Pub. L. 103–354, title II, § 282(f)(3), Oct. 13, 1994, 108 Stat. 3235.)
 
 **Editorial Notes**
 
@@ -8057,7 +8057,7 @@ The Secretary may not make, insure, or guarantee any farmer program loan to a fa
 
 1994—Pub. L. 103–354 struck out “agricultural loan” before “mediation program”.
 
-### § 2006a. Borrower training
+### § 2006a. Borrower training
 
 **(a) In general**
 
@@ -8101,7 +8101,7 @@ The Secretary may waive the requirements of this section for an individual borro
 
 The Secretary shall establish criteria providing for the application of paragraph (1) consistently in all counties nationwide.
 
-(Pub. L. 87–128, title III, § 359, as added Pub. L. 101–624, title XVIII, § 1818(a), Nov. 28, 1990, 104 Stat. 3829; amended Pub. L. 105–277, div. A, § 101(a) [title VIII, § 805(3)], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§ 5316, 5501(c), May 13, 2002, 116 Stat. 348, 351; Pub. L. 113–79, title V, § 5306, Feb. 7, 2014, 128 Stat. 840.)
+(Pub. L. 87–128, title III, § 359, as added Pub. L. 101–624, title XVIII, § 1818(a), Nov. 28, 1990, 104 Stat. 3829; amended Pub. L. 105–277, div. A, § 101(a) [title VIII, § 805(3)], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§ 5316, 5501(c), May 13, 2002, 116 Stat. 348, 351; Pub. L. 113–79, title V, § 5306, Feb. 7, 2014, 128 Stat. 840.)
 
 **Editorial Notes**
 
@@ -8113,15 +8113,15 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this t
 
 2014—Subsec. (c)(2). Pub. L. 113–79 substituted “section 1922(a)(1)(B) or 1941(a)(1)(B)” for “section 1922(a)(2) or 1941(a)(2)”.
 
-2002—Subsec. (c)(1). Pub. L. 107–171, § 5501(c), struck out “established pursuant to section 1982 of this title,” after “appropriate county committee”.
+2002—Subsec. (c)(1). Pub. L. 107–171, § 5501(c), struck out “established pursuant to section 1982 of this title,” after “appropriate county committee”.
 
-Subsec. (f). Pub. L. 107–171, § 5316, added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “The Secretary may waive the requirements of this section for an individual borrower on a determination by the county committee that the borrower demonstrates adequate knowledge in areas described in this section.”
+Subsec. (f). Pub. L. 107–171, § 5316, added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “The Secretary may waive the requirements of this section for an individual borrower on a determination by the county committee that the borrower demonstrates adequate knowledge in areas described in this section.”
 
-1998—Subsec. (a). Pub. L. 105–277, § 101(a) [title VIII, § 805(3)(A)], struck out “and guaranteed” after “direct”.
+1998—Subsec. (a). Pub. L. 105–277, § 101(a) [title VIII, § 805(3)(A)], struck out “and guaranteed” after “direct”.
 
-Subsec. (c). Pub. L. 105–277, § 101(a) [title VIII, § 805(3)(B)], struck out “or guaranteed” after “direct” in pars. (1) and (2).
+Subsec. (c). Pub. L. 105–277, § 101(a) [title VIII, § 805(3)(B)], struck out “or guaranteed” after “direct” in pars. (1) and (2).
 
-### § 2006b. Loan assessments
+### § 2006b. Loan assessments
 
 **(a) In general**
 
@@ -8161,7 +8161,7 @@ If a borrower is delinquent in payments on a direct or guaranteed loan made unde
 
 The Secretary shall issue regulations providing guidelines for loan assessments conducted under this section.
 
-(Pub. L. 87–128, title III, § 360, as added Pub. L. 101–624, title XVIII, § 1819, Nov. 28, 1990, 104 Stat. 3830; amended Pub. L. 107–171, title V, §§ 5317, 5318, May 13, 2002, 116 Stat. 348.)
+(Pub. L. 87–128, title III, § 360, as added Pub. L. 101–624, title XVIII, § 1819, Nov. 28, 1990, 104 Stat. 3830; amended Pub. L. 107–171, title V, §§ 5317, 5318, May 13, 2002, 116 Stat. 348.)
 
 **Editorial Notes**
 
@@ -8171,11 +8171,11 @@ This chapter, referred to in subsecs. (a), (b)(5), and (d)(1), (3), was in the o
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–171, § 5317, substituted “The Secretary” for “After an applicant is determined eligible for assistance under this chapter by the appropriate county committee established pursuant to section 1982 of this title, the Secretary”.
+2002—Subsec. (a). Pub. L. 107–171, § 5317, substituted “The Secretary” for “After an applicant is determined eligible for assistance under this chapter by the appropriate county committee established pursuant to section 1982 of this title, the Secretary”.
 
-Subsec. (d)(1). Pub. L. 107–171, § 5318, substituted “annual review” for “biannual review”.
+Subsec. (d)(1). Pub. L. 107–171, § 5318, substituted “annual review” for “biannual review”.
 
-### § 2006c. Supervised credit
+### § 2006c. Supervised credit
 
 The Secretary shall provide adequate training to employees of the Farmers Home Administration on credit analysis and financial and farm management to—
 
@@ -8183,13 +8183,13 @@ The Secretary shall provide adequate training to employees of the Farmers Home A
 
 **(2)** ensure proper supervision of farmer program loans.
 
-(Pub. L. 87–128, title III, § 361, as added Pub. L. 101–624, title XVIII, § 1820, Nov. 28, 1990, 104 Stat. 3830.)
+(Pub. L. 87–128, title III, § 361, as added Pub. L. 101–624, title XVIII, § 1820, Nov. 28, 1990, 104 Stat. 3830.)
 
-### § 2006d. Market placement
+### § 2006d. Market placement
 
 The Secretary shall establish a market placement program for qualified beginning farmers and ranchers and other borrowers of farmer program loans that the Secretary believes have a reasonable chance of qualifying for commercial credit with a guarantee provided under this chapter.
 
-(Pub. L. 87–128, title III, § 362, as added Pub. L. 101–624, title XVIII, § 1821, Nov. 28, 1990, 104 Stat. 3831.)
+(Pub. L. 87–128, title III, § 362, as added Pub. L. 101–624, title XVIII, § 1821, Nov. 28, 1990, 104 Stat. 3831.)
 
 **Editorial Notes**
 
@@ -8197,15 +8197,15 @@ The Secretary shall establish a market placement program for qualified beginning
 
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-### § 2006e. Prohibition on use of loans for certain purposes
+### § 2006e. Prohibition on use of loans for certain purposes
 
-The Secretary shall not approve any loan under this chapter to drain, dredge, fill, level, or otherwise manipulate a wetland (as defined in section 3801(a)(16) 1
+The Secretary shall not approve any loan under this chapter to drain, dredge, fill, level, or otherwise manipulate a wetland (as defined in section 3801(a)(16) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 16), or to engage in any activity that results in impairing or reducing the flow, circulation, or reach of water, except in the case of activity related to the maintenance of previously converted wetlands, or in the case of such activity that is already commenced before November 28, 1990. This section shall not apply to a loan made or guaranteed under this chapter for a utility line.
 
-(Pub. L. 87–128, title III, § 363, as added Pub. L. 101–624, title XVIII, § 1824, Nov. 28, 1990, 104 Stat. 3831; amended Pub. L. 102–237, title V, § 501(i), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VII, § 751, Apr. 4, 1996, 110 Stat. 1129.)
+(Pub. L. 87–128, title III, § 363, as added Pub. L. 101–624, title XVIII, § 1824, Nov. 28, 1990, 104 Stat. 3831; amended Pub. L. 102–237, title V, § 501(i), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VII, § 751, Apr. 4, 1996, 110 Stat. 1129.)
 
 **Editorial Notes**
 
@@ -8227,7 +8227,7 @@ Section 3801(a) of title 16, referred to in text, was subsequently amended, and 
 
 Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(3) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
-### § 2006f. Rural development certified lenders program
+### § 2006f. Rural development certified lenders program
 
 **(a) Certified lenders program**
 
@@ -8285,33 +8285,33 @@ As a condition of the preferred certification, the Secretary shall require the l
 
 **(B)** permit preferred certified lenders to make all decisions, with respect to loans to be guaranteed by the Secretary under this subsection relating to creditworthiness, the closing, monitoring, collection, and liquidation of loans, and to accept appropriate certifications, as provided in regulations issued by the Secretary, that the borrower is in compliance with all requirements of law and regulations issued by the Secretary.
 
-(Pub. L. 87–128, title III, § 364, as added Pub. L. 104–127, title VII, § 752, Apr. 4, 1996, 110 Stat. 1129.)
+(Pub. L. 87–128, title III, § 364, as added Pub. L. 104–127, title VII, § 752, Apr. 4, 1996, 110 Stat. 1129.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2006f, Pub. L. 87–128, title III, § 364, as added Pub. L. 101–624, title XXIII, § 2302(a)(1), Nov. 28, 1990, 104 Stat. 3979; amended Pub. L. 102–237, title VII, § 701(d), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 103–129, § 4, Nov. 1, 1993, 107 Stat. 1366, established Rural Development Administration in Department of Agriculture and provided for the performance of specified functions, prior to repeal by Pub. L. 103–354, title II, § 231(f)(3), Oct. 13, 1994, 108 Stat. 3219. See section 6912 et seq. of this title.
+A prior section 2006f, Pub. L. 87–128, title III, § 364, as added Pub. L. 101–624, title XXIII, § 2302(a)(1), Nov. 28, 1990, 104 Stat. 3979; amended Pub. L. 102–237, title VII, § 701(d), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 103–129, § 4, Nov. 1, 1993, 107 Stat. 1366, established Rural Development Administration in Department of Agriculture and provided for the performance of specified functions, prior to repeal by Pub. L. 103–354, title II, § 231(f)(3), Oct. 13, 1994, 108 Stat. 3219. See section 6912 et seq. of this title.
 
-### §§ 2007 to 2007e. Repealed. Pub. L. 104–127, title VII, § 701, Apr. 4, 1996, 110 Stat. 1108
+### §§ 2007 to 2007e. Repealed. Pub. L. 104–127, title VII, § 701, Apr. 4, 1996, 110 Stat. 1108
 
-Section 2007, Pub. L. 101–624, title XXIII, § 2310, Nov. 28, 1990, 104 Stat. 3982, related to general provisions for programs under former sections 2007a to 2007e and 2008 to 2008c of this title, including applications, selection of States, duration of projects, and effective dates.
+Section 2007, Pub. L. 101–624, title XXIII, § 2310, Nov. 28, 1990, 104 Stat. 3982, related to general provisions for programs under former sections 2007a to 2007e and 2008 to 2008c of this title, including applications, selection of States, duration of projects, and effective dates.
 
-Section 2007a, Pub. L. 101–624, title XXIII, § 2311, Nov. 28, 1990, 104 Stat. 3982; Pub. L. 102–237, title VII, § 702(b), Dec. 13, 1991, 105 Stat. 1880, defined terms for purposes of former sections 2007a to 2007e of this title.
+Section 2007a, Pub. L. 101–624, title XXIII, § 2311, Nov. 28, 1990, 104 Stat. 3982; Pub. L. 102–237, title VII, § 702(b), Dec. 13, 1991, 105 Stat. 1880, defined terms for purposes of former sections 2007a to 2007e of this title.
 
-Section 2007b, Pub. L. 101–624, title XXIII, § 2312, Nov. 28, 1990, 104 Stat. 3984, related to establishment and powers of Rural Partnerships Investment Board.
+Section 2007b, Pub. L. 101–624, title XXIII, § 2312, Nov. 28, 1990, 104 Stat. 3984, related to establishment and powers of Rural Partnerships Investment Board.
 
-Section 2007c, Pub. L. 101–624, title XXIII, § 2313, Nov. 28, 1990, 104 Stat. 3986; Pub. L. 102–237, title VII, § 702(c), Dec. 13, 1991, 105 Stat. 1880, established Rural Business Investment Fund.
+Section 2007c, Pub. L. 101–624, title XXIII, § 2313, Nov. 28, 1990, 104 Stat. 3986; Pub. L. 102–237, title VII, § 702(c), Dec. 13, 1991, 105 Stat. 1880, established Rural Business Investment Fund.
 
-Section 2007d, Pub. L. 101–624, title XXIII, § 2314, Nov. 28, 1990, 104 Stat. 3991; Pub. L. 102–237, title VII, § 702(d), Dec. 13, 1991, 105 Stat. 1880, related to establishment of local revolving funds.
+Section 2007d, Pub. L. 101–624, title XXIII, § 2314, Nov. 28, 1990, 104 Stat. 3991; Pub. L. 102–237, title VII, § 702(d), Dec. 13, 1991, 105 Stat. 1880, related to establishment of local revolving funds.
 
-Section 2007e, Pub. L. 101–624, title XXIII, § 2315, Nov. 28, 1990, 104 Stat. 3994; Pub. L. 102–237, title VII, § 702(e), Dec. 13, 1991, 105 Stat. 1880, related to compliance with and enforcement of former sections 2007a to 2007e of this title and regulations promulgated thereunder.
+Section 2007e, Pub. L. 101–624, title XXIII, § 2315, Nov. 28, 1990, 104 Stat. 3994; Pub. L. 102–237, title VII, § 702(e), Dec. 13, 1991, 105 Stat. 1880, related to compliance with and enforcement of former sections 2007a to 2007e of this title and regulations promulgated thereunder.
 
-### § 2008. Rural development and farm loan program activities
+### § 2008. Rural development and farm loan program activities
 
 The Secretary may not complete a study of, or enter into a contract with a private party to carry out, without specific authorization in a subsequent Act of Congress, a competitive sourcing activity of the Secretary, including support personnel of the Department of Agriculture, relating to rural development or farm loan programs.
 
-(Pub. L. 87–128, title III, § 365, as added Pub. L. 110–234, title V, § 5306, May 22, 2008, 122 Stat. 1153, and Pub. L. 110–246, § 4(a), title V, § 5306, June 18, 2008, 122 Stat. 1664, 1915.)
+(Pub. L. 87–128, title III, § 365, as added Pub. L. 110–234, title V, § 5306, May 22, 2008, 122 Stat. 1153, and Pub. L. 110–246, § 4(a), title V, § 5306, June 18, 2008, 122 Stat. 1664, 1915.)
 
 **Editorial Notes**
 
@@ -8321,7 +8321,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 2008, Pub. L. 87–128, title III, § 365, as added Pub. L. 101–624, title XXIII, § 2316(a), Nov. 28, 1990, 104 Stat. 4000; amended Pub. L. 102–237, title VII, § 701(e), Dec. 13, 1991, 105 Stat. 1879, related to system for delivery of certain rural development programs, prior to repeal by Pub. L. 104–127, title VII, § 753(a), Apr. 4, 1996, 110 Stat. 1131.
+A prior section 2008, Pub. L. 87–128, title III, § 365, as added Pub. L. 101–624, title XXIII, § 2316(a), Nov. 28, 1990, 104 Stat. 4000; amended Pub. L. 102–237, title VII, § 701(e), Dec. 13, 1991, 105 Stat. 1879, related to system for delivery of certain rural development programs, prior to repeal by Pub. L. 104–127, title VII, § 753(a), Apr. 4, 1996, 110 Stat. 1131.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8329,7 +8329,7 @@ A prior section 2008, Pub. L. 87–128, title III, § 365, as added Pub. L. 10
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 2008a. Equitable relief
+### § 2008a. Equitable relief
 
 **(a) In general** Subject to subsection (b), the Secretary may provide a form of relief described in subsection (c) to any farmer or rancher who—
 
@@ -8359,7 +8359,7 @@ As a condition of receiving relief under this section, the Secretary may require
 
 **(2)** shall not be subject to administrative appeal or judicial review under chapter 7 of title 5.
 
-(Pub. L. 87–128, title III, § 366, as added Pub. L. 115–334, title V, § 5305, Dec. 20, 2018, 132 Stat. 4672.)
+(Pub. L. 87–128, title III, § 366, as added Pub. L. 115–334, title V, § 5305, Dec. 20, 2018, 132 Stat. 4672.)
 
 **Editorial Notes**
 
@@ -8369,21 +8369,21 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 
 **Prior Provisions**
 
-A prior section 2008a, Pub. L. 87–128, title III, § 366, as added Pub. L. 101–624, title XXIII, § 2316(a), Nov. 28, 1990, 104 Stat. 4004; amended Pub. L. 102–237, title VII, § 701(f), Dec. 13, 1991, 105 Stat. 1879, related to State rural economic development review panel, prior to repeal by Pub. L. 104–127, title VII, § 754, Apr. 4, 1996, 110 Stat. 1131.
+A prior section 2008a, Pub. L. 87–128, title III, § 366, as added Pub. L. 101–624, title XXIII, § 2316(a), Nov. 28, 1990, 104 Stat. 4004; amended Pub. L. 102–237, title VII, § 701(f), Dec. 13, 1991, 105 Stat. 1879, related to State rural economic development review panel, prior to repeal by Pub. L. 104–127, title VII, § 754, Apr. 4, 1996, 110 Stat. 1131.
 
-### § 2008b. Socially disadvantaged farmers and ranchers; qualified beginning farmers and ranchers
+### § 2008b. Socially disadvantaged farmers and ranchers; qualified beginning farmers and ranchers
 
 In the case of a loan guaranteed by the Secretary under subchapter I or II to a socially disadvantaged farmer or rancher (as defined in section 2003(e) of this title) or a qualified beginning farmer or rancher, the Secretary may provide for a standard guarantee plan, which shall cover an amount equal to 95 percent of the outstanding principal of the loan.
 
-(Pub. L. 87–128, title III, § 367, as added Pub. L. 115–334, title V, § 5306, Dec. 20, 2018, 132 Stat. 4673.)
+(Pub. L. 87–128, title III, § 367, as added Pub. L. 115–334, title V, § 5306, Dec. 20, 2018, 132 Stat. 4673.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2008b, Pub. L. 87–128, title III, § 367, as added Pub. L. 101–624, title XXIII, § 2317, Nov. 28, 1990, 104 Stat. 4008; amended Pub. L. 102–237, title VII, § 701(g), Dec. 13, 1991, 105 Stat. 1879, related to limited transfer authority of loan amounts, prior to repeal by Pub. L. 104–127, title VII, § 755, Apr. 4, 1996, 110 Stat. 1131.
+A prior section 2008b, Pub. L. 87–128, title III, § 367, as added Pub. L. 101–624, title XXIII, § 2317, Nov. 28, 1990, 104 Stat. 4008; amended Pub. L. 102–237, title VII, § 701(g), Dec. 13, 1991, 105 Stat. 1879, related to limited transfer authority of loan amounts, prior to repeal by Pub. L. 104–127, title VII, § 755, Apr. 4, 1996, 110 Stat. 1131.
 
-### § 2008c. Rural Business-Cooperative Service programs technical assistance and training
+### § 2008c. Rural Business-Cooperative Service programs technical assistance and training
 
 **(a) In general**
 
@@ -8413,19 +8413,19 @@ There is authorized to be appropriated to carry out this section $5,000,000 for 
 
 Any amounts authorized to be appropriated under paragraph (1) for any fiscal year that are not appropriated for that fiscal year may be appropriated for the immediately succeeding fiscal year.
 
-(Pub. L. 87–128, title III, § 368, as added Pub. L. 115–334, title VI, § 6419, Dec. 20, 2018, 132 Stat. 4764.)
+(Pub. L. 87–128, title III, § 368, as added Pub. L. 115–334, title VI, § 6419, Dec. 20, 2018, 132 Stat. 4764.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2008c, Pub. L. 87–128, title III, § 368, as added Pub. L. 101–624, title XXIII, § 2317, Nov. 28, 1990, 104 Stat. 4009, related to allocation and transfer of loan guarantee authority, prior to repeal by Pub. L. 104–127, title VII, § 756, Apr. 4, 1996, 110 Stat. 1131.
+A prior section 2008c, Pub. L. 87–128, title III, § 368, as added Pub. L. 101–624, title XXIII, § 2317, Nov. 28, 1990, 104 Stat. 4009, related to allocation and transfer of loan guarantee authority, prior to repeal by Pub. L. 104–127, title VII, § 756, Apr. 4, 1996, 110 Stat. 1131.
 
-### § 2008d. Recordkeeping of loans by borrower’s gender
+### § 2008d. Recordkeeping of loans by borrower’s gender
 
 The Secretary shall classify, by gender, records of applicants for loans and loan guarantees under this chapter.
 
-(Pub. L. 87–128, title III, § 369, as added Pub. L. 102–554, § 21(c), Oct. 28, 1992, 106 Stat. 4161.)
+(Pub. L. 87–128, title III, § 369, as added Pub. L. 102–554, § 21(c), Oct. 28, 1992, 106 Stat. 4161.)
 
 **Editorial Notes**
 
@@ -8433,7 +8433,7 @@ The Secretary shall classify, by gender, records of applicants for loans and loa
 
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-### § 2008e. Prohibition under rural development programs
+### § 2008e. Prohibition under rural development programs
 
 **(a) Prohibition**
 
@@ -8447,9 +8447,9 @@ The Secretary shall establish, by regulation, adequate safeguards to ensure that
 
 Not later than 6 months after November 1, 1993, the Secretary shall issue interim final regulations to ensure compliance with subsection (a).
 
-(Pub. L. 87–128, title III, § 370, as added Pub. L. 103–129, § 5, Nov. 1, 1993, 107 Stat. 1366.)
+(Pub. L. 87–128, title III, § 370, as added Pub. L. 103–129, § 5, Nov. 1, 1993, 107 Stat. 1366.)
 
-### § 2008f. Crop insurance requirement
+### § 2008f. Crop insurance requirement
 
 **(a) In general**
 
@@ -8463,7 +8463,7 @@ As a condition of obtaining any benefit (including a direct loan, loan guarantee
 
 **(3)** an emergency loan (EM) under section 1961 of this title.
 
-(Pub. L. 87–128, title III, § 371, as added Pub. L. 103–354, title I, § 119(b), Oct. 13, 1994, 108 Stat. 3208.)
+(Pub. L. 87–128, title III, § 371, as added Pub. L. 103–354, title I, § 119(b), Oct. 13, 1994, 108 Stat. 3208.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8471,11 +8471,11 @@ As a condition of obtaining any benefit (including a direct loan, loan guarantee
 
 Section effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as an Effective Date of 1994 Amendment note under section 1502 of this title.
 
-### § 2008g. Payment of interest as condition of loan servicing for borrowers
+### § 2008g. Payment of interest as condition of loan servicing for borrowers
 
 The Secretary may not reschedule or reamortize a loan for a borrower under this chapter who has not requested consideration under section 1981d(e) of this title unless the borrower pays a portion, as determined by the Secretary, of the interest due on the loan.
 
-(Pub. L. 87–128, title III, § 372, as added Pub. L. 104–127, title VI, § 648(a), Apr. 4, 1996, 110 Stat. 1104.)
+(Pub. L. 87–128, title III, § 372, as added Pub. L. 104–127, title VI, § 648(a), Apr. 4, 1996, 110 Stat. 1104.)
 
 **Editorial Notes**
 
@@ -8489,7 +8489,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Section effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104–127, set out as an Effective Date of 1996 Amendment note under section 1922 of this title.
 
-### § 2008h. Loan and loan servicing limitations
+### § 2008h. Loan and loan servicing limitations
 
 **(a) Delinquent borrowers prohibited from obtaining direct operating loans**
 
@@ -8513,9 +8513,9 @@ The Secretary may not make a direct operating loan under subchapter II to a borr
 
 **(i)** was restructured with a write-down under section 2001 of this title;
 
-**(ii)** is current on payments under a confirmed reorganization plan under chapters 1
+**(ii)** is current on payments under a confirmed reorganization plan under chapters 1
 
-<sup>1</sup>  So in original. Probably should be “chapter”.
+<sup>1</sup> So in original. Probably should be “chapter”.
 
 11, 12, or 13 of title 11; or
 
@@ -8537,7 +8537,7 @@ For purposes of clause (i), a borrower who was restructured with a write-down or
 
 The Secretary may not provide to a borrower debt forgiveness on a direct loan made under this chapter if the borrower has received debt forgiveness on another direct loan made under this chapter.
 
-(Pub. L. 87–128, title III, § 373, as added Pub. L. 104–127, title VI, § 648(b), Apr. 4, 1996, 110 Stat. 1104; amended Pub. L. 105–277, div. A, § 101(a) [title VIII, § 801], Oct. 21, 1998, 112 Stat. 2681, 2681–37; Pub. L. 107–171, title V, § 5319, May 13, 2002, 116 Stat. 348; Pub. L. 115–334, title V, § 5307, Dec. 20, 2018, 132 Stat. 4673.)
+(Pub. L. 87–128, title III, § 373, as added Pub. L. 104–127, title VI, § 648(b), Apr. 4, 1996, 110 Stat. 1104; amended Pub. L. 105–277, div. A, § 101(a) [title VIII, § 801], Oct. 21, 1998, 112 Stat. 2681, 2681–37; Pub. L. 107–171, title V, § 5319, May 13, 2002, 116 Stat. 348; Pub. L. 115–334, title V, § 5307, Dec. 20, 2018, 132 Stat. 4673.)
 
 **Editorial Notes**
 
@@ -8545,7 +8545,7 @@ The Secretary may not provide to a borrower debt forgiveness on a direct loan ma
 
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 **Amendments**
 
@@ -8559,11 +8559,11 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 “(2) Exception.—The Secretary may make a direct or guaranteed farm operating loan for paying annual farm or ranch operating expenses of a borrower who was restructured with a write-down under section 2001 of this title.”
 
-### § 2008i. Short form certification of farm program borrower compliance
+### § 2008i. Short form certification of farm program borrower compliance
 
 The Secretary shall develop and utilize a consolidated short form for farm program borrowers to use in certifying compliance with any applicable provision of law (including a regulation) that serves as an eligibility prerequisite for a loan made under this chapter.
 
-(Pub. L. 87–128, title III, § 374, as added Pub. L. 104–127, title VI, § 649, Apr. 4, 1996, 110 Stat. 1105.)
+(Pub. L. 87–128, title III, § 374, as added Pub. L. 104–127, title VI, § 649, Apr. 4, 1996, 110 Stat. 1105.)
 
 **Editorial Notes**
 
@@ -8577,15 +8577,15 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Section effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104–127, set out as an Effective Date of 1996 Amendment note under section 1922 of this title.
 
-### § 2008j. Transferred
+### § 2008j. Transferred
 
-Section, Pub. L. 87–128, title III, § 375, as added Pub. L. 104–127, title VII, § 759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, § 816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, § 1(a) [title VII, § 756], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 107–76, title VII, § 731, Nov. 28, 2001, 115 Stat. 736; Pub. L. 108–7, div. A, title VII, § 728, Feb. 20, 2003, 117 Stat. 42; Pub. L. 108–199, div. A, title VII, § 726, Jan. 23, 2004, 118 Stat. 35; Pub. L. 108–447, div. A, title VII, § 725, Dec. 8, 2004, 118 Stat. 2842; Pub. L. 110–234, title XI, § 11009(a), (b)(1), May 22, 2008, 122 Stat. 1359; Pub. L. 110–246, § 4(a), title XI, § 11009(a), (b)(1), June 18, 2008, 122 Stat. 1664, 2120, 2121; Pub. L. 113–79, title XII, § 12102(b)(1), Feb. 7, 2014, 128 Stat. 979, was renumbered section 210 of act Aug. 14, 1946, ch. 966, by Pub. L. 113–79, title XII, § 12102(b)(2), (3), Feb. 7, 2014, 128 Stat. 979, and transferred to section 1627b of this title.
+Section, Pub. L. 87–128, title III, § 375, as added Pub. L. 104–127, title VII, § 759, Apr. 4, 1996, 110 Stat. 1132; amended Pub. L. 106–78, title VIII, § 816, Oct. 22, 1999, 113 Stat. 1182; Pub. L. 106–387, § 1(a) [title VII, § 756], Oct. 28, 2000, 114 Stat. 1549, 1549A–43; Pub. L. 107–76, title VII, § 731, Nov. 28, 2001, 115 Stat. 736; Pub. L. 108–7, div. A, title VII, § 728, Feb. 20, 2003, 117 Stat. 42; Pub. L. 108–199, div. A, title VII, § 726, Jan. 23, 2004, 118 Stat. 35; Pub. L. 108–447, div. A, title VII, § 725, Dec. 8, 2004, 118 Stat. 2842; Pub. L. 110–234, title XI, § 11009(a), (b)(1), May 22, 2008, 122 Stat. 1359; Pub. L. 110–246, § 4(a), title XI, § 11009(a), (b)(1), June 18, 2008, 122 Stat. 1664, 2120, 2121; Pub. L. 113–79, title XII, § 12102(b)(1), Feb. 7, 2014, 128 Stat. 979, was renumbered section 210 of act Aug. 14, 1946, ch. 966, by Pub. L. 113–79, title XII, § 12102(b)(2), (3), Feb. 7, 2014, 128 Stat. 979, and transferred to section 1627b of this title.
 
-### § 2008k. Making and servicing of loans by personnel of State, county, or area committees
+### § 2008k. Making and servicing of loans by personnel of State, county, or area committees
 
 The Secretary shall use personnel of a State, county or area committee established under section 590h(b)(5) of title 16 to make and service loans under this chapter to the extent the personnel have been trained to do so.
 
-(Pub. L. 87–128, title III, § 376, as added Pub. L. 107–171, title V, § 5320, May 13, 2002, 116 Stat. 349.)
+(Pub. L. 87–128, title III, § 376, as added Pub. L. 107–171, title V, § 5320, May 13, 2002, 116 Stat. 349.)
 
 **Editorial Notes**
 
@@ -8593,7 +8593,7 @@ The Secretary shall use personnel of a State, county or area committee establish
 
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-### § 2008l. Eligibility of employees of State, county, or area committee for loans and loan guarantees
+### § 2008l. Eligibility of employees of State, county, or area committee for loans and loan guarantees
 
 **(a) In general**
 
@@ -8609,9 +8609,9 @@ In the case of a loan application from an employee in a county or area office, t
 
 In the case of a loan application from an employee of a State office, the Farm Service Agency national office shall be responsible for reviewing and approving the application.
 
-(Pub. L. 87–128, title III, § 377, as added Pub. L. 107–171, title V, § 5321, May 13, 2002, 116 Stat. 349.)
+(Pub. L. 87–128, title III, § 377, as added Pub. L. 107–171, title V, § 5321, May 13, 2002, 116 Stat. 349.)
 
-### § 2008m. National Rural Development Partnership
+### § 2008m. National Rural Development Partnership
 
 **(a) Definitions** In this section:
 
@@ -8813,7 +8813,7 @@ The Coordinating Committee and a State rural development council may accept priv
 
 The authority provided under this section shall terminate on September 30, 2023.
 
-(Pub. L. 87–128, title III, § 378, as added Pub. L. 107–171, title VI, § 6021, May 13, 2002, 116 Stat. 363; amended Pub. L. 110–234, title VI, § 6019, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, § 4(a), title VI, § 6019, June 18, 2008, 122 Stat. 1664, 1933; Pub. L. 113–79, title VI, § 6021, Feb. 7, 2014, 128 Stat. 847; Pub. L. 115–334, title VI, § 6420, Dec. 20, 2018, 132 Stat. 4765.)
+(Pub. L. 87–128, title III, § 378, as added Pub. L. 107–171, title VI, § 6021, May 13, 2002, 116 Stat. 363; amended Pub. L. 110–234, title VI, § 6019, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, § 4(a), title VI, § 6019, June 18, 2008, 122 Stat. 1664, 1933; Pub. L. 113–79, title VI, § 6021, Feb. 7, 2014, 128 Stat. 847; Pub. L. 115–334, title VI, § 6420, Dec. 20, 2018, 132 Stat. 4765.)
 
 **Editorial Notes**
 
@@ -8829,13 +8829,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsecs. (g)(1), (h). Pub. L. 115–334 substituted “2023” for “2018”.
 
-2014—Subsec. (g)(1). Pub. L. 113–79, § 6021(1), substituted “2018” for “2012”.
+2014—Subsec. (g)(1). Pub. L. 113–79, § 6021(1), substituted “2018” for “2012”.
 
-Subsec. (h). Pub. L. 113–79, § 6021(2), substituted “2018” for “2012”.
+Subsec. (h). Pub. L. 113–79, § 6021(2), substituted “2018” for “2012”.
 
-2008—Subsec. (g)(1). Pub. L. 110–246, § 6019(1), substituted “2008 through 2012” for “2003 through 2007”.
+2008—Subsec. (g)(1). Pub. L. 110–246, § 6019(1), substituted “2008 through 2012” for “2003 through 2007”.
 
-Subsec. (h). Pub. L. 110–246, § 6019(2), substituted “September 30, 2012” for “the date that is 5 years after May 13, 2002”.
+Subsec. (h). Pub. L. 110–246, § 6019(2), substituted “September 30, 2012” for “the date that is 5 years after May 13, 2002”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8843,15 +8843,15 @@ Subsec. (h). Pub. L. 110–246, § 6019(2), substituted “September 30, 2012�
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2008n. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(C), Dec. 20, 2018, 132 Stat. 4775
+### § 2008n. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(C), Dec. 20, 2018, 132 Stat. 4775
 
-Section, Pub. L. 87–128, title III, § 379, as added Pub. L. 107–171, title VI, § 6022, May 13, 2002, 116 Stat. 368, related to rural telework.
+Section, Pub. L. 87–128, title III, § 379, as added Pub. L. 107–171, title VI, § 6022, May 13, 2002, 116 Stat. 368, related to rural telework.
 
-### § 2008o. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(D), Dec. 20, 2018, 132 Stat. 4775
+### § 2008o. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(D), Dec. 20, 2018, 132 Stat. 4775
 
-Section, Pub. L. 87–128, title III, § 379A, as added Pub. L. 107–171, title VI, § 6023, May 13, 2002, 116 Stat. 370; amended Pub. L. 110–234, title VI, § 6020, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, § 4(a), title VI, § 6020, June 18, 2008, 122 Stat. 1664, 1934, related to historic barn preservation.
+Section, Pub. L. 87–128, title III, § 379A, as added Pub. L. 107–171, title VI, § 6023, May 13, 2002, 116 Stat. 370; amended Pub. L. 110–234, title VI, § 6020, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, § 4(a), title VI, § 6020, June 18, 2008, 122 Stat. 1664, 1934, related to historic barn preservation.
 
-### § 2008p. Grants for NOAA weather radio transmitters
+### § 2008p. Grants for NOAA weather radio transmitters
 
 **(a) In general**
 
@@ -8871,7 +8871,7 @@ A grant provided under this section shall be not more than 75 percent of the tot
 
 There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 87–128, title III, § 379B, as added Pub. L. 107–171, title VI, § 6024, May 13, 2002, 116 Stat. 371; amended Pub. L. 110–234, title VI, § 6021, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, § 4(a), title VI, § 6021, June 18, 2008, 122 Stat. 1664, 1934; Pub. L. 113–79, title VI, § 6022, Feb. 7, 2014, 128 Stat. 848; Pub. L. 115–334, title VI, § 6421, Dec. 20, 2018, 132 Stat. 4765.)
+(Pub. L. 87–128, title III, § 379B, as added Pub. L. 107–171, title VI, § 6024, May 13, 2002, 116 Stat. 371; amended Pub. L. 110–234, title VI, § 6021, May 22, 2008, 122 Stat. 1172; Pub. L. 110–246, § 4(a), title VI, § 6021, June 18, 2008, 122 Stat. 1664, 1934; Pub. L. 113–79, title VI, § 6022, Feb. 7, 2014, 128 Stat. 848; Pub. L. 115–334, title VI, § 6421, Dec. 20, 2018, 132 Stat. 4765.)
 
 **Editorial Notes**
 
@@ -8885,7 +8885,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (d). Pub. L. 113–79 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2008 through 2012.”
 
-2008—Subsec. (d). Pub. L. 110–246, § 6021, substituted “2008 through 2012” for “2002 through 2007”.
+2008—Subsec. (d). Pub. L. 110–246, § 6021, substituted “2008 through 2012” for “2002 through 2007”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8893,17 +8893,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2008q. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(E), Dec. 20, 2018, 132 Stat. 4775
+### § 2008q. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(E), Dec. 20, 2018, 132 Stat. 4775
 
-Section, Pub. L. 87–128, title III, § 379C, as added Pub. L. 107–171, title VI, § 6025, May 13, 2002, 116 Stat. 372, related to grants to train farm workers in new technologies and to train farm workers in specialized skills necessary for higher value crops.
+Section, Pub. L. 87–128, title III, § 379C, as added Pub. L. 107–171, title VI, § 6025, May 13, 2002, 116 Stat. 372, related to grants to train farm workers in new technologies and to train farm workers in specialized skills necessary for higher value crops.
 
-### § 2008q–1. Grants to improve supply, stability, safety, and training of agricultural labor force
+### § 2008q–1. Grants to improve supply, stability, safety, and training of agricultural labor force
 
 **(a) Definition of eligible entity**
 
-In this section, the term “eligible entity” means an entity described in section 2008q(a) 1
+In this section, the term “eligible entity” means an entity described in section 2008q(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -8939,13 +8939,13 @@ Not more than 15 percent of the funds made available to carry out this section f
 
 **(2)** $10,000,000 for each of fiscal years 2014 through 2018.
 
-(Pub. L. 110–234, title XIV, § 14204, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, § 4(a), title XIV, § 14204, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 113–79, title XII, § 12301, Feb. 7, 2014, 128 Stat. 984.)
+(Pub. L. 110–234, title XIV, § 14204, May 22, 2008, 122 Stat. 1459; Pub. L. 110–246, § 4(a), title XIV, § 14204, June 18, 2008, 122 Stat. 1664, 2221; Pub. L. 113–79, title XII, § 12301, Feb. 7, 2014, 128 Stat. 984.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2008q(a) of this title, referred to in subsec. (a), was repealed by Pub. L. 115–334, title VI, § 6601(a)(1)(E), Dec. 20, 2018, 132 Stat. 4775.
+Section 2008q(a) of this title, referred to in subsec. (a), was repealed by Pub. L. 115–334, title VI, § 6601(a)(1)(E), Dec. 20, 2018, 132 Stat. 4775.
 
 **Codification**
 
@@ -8967,11 +8967,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-### § 2008r. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(F), Dec. 20, 2018, 132 Stat. 4776
+### § 2008r. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(F), Dec. 20, 2018, 132 Stat. 4776
 
-Section, Pub. L. 87–128, title III, § 379D, as added Pub. L. 107–171, title VI, § 6027(i), May 13, 2002, 116 Stat. 374, related to Delta region agricultural economic development.
+Section, Pub. L. 87–128, title III, § 379D, as added Pub. L. 107–171, title VI, § 6027(i), May 13, 2002, 116 Stat. 374, related to Delta region agricultural economic development.
 
-### § 2008s. Rural microentrepreneur assistance program
+### § 2008s. Rural microentrepreneur assistance program
 
 **(a) Definitions** In this section:
 
@@ -9115,7 +9115,7 @@ At a minimum, not later than December 1 of each fiscal year, a microenterprise d
 
 There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 87–128, title III, § 379E, as added Pub. L. 110–234, title VI, § 6022, May 22, 2008, 122 Stat. 1173, and Pub. L. 110–246, § 4(a), title VI, § 6022, June 18, 2008, 122 Stat. 1664, 1934; amended Pub. L. 113–79, title VI, § 6023, Feb. 7, 2014, 128 Stat. 848; Pub. L. 115–334, title VI, § 6422, Dec. 20, 2018, 132 Stat. 4765.)
+(Pub. L. 87–128, title III, § 379E, as added Pub. L. 110–234, title VI, § 6022, May 22, 2008, 122 Stat. 1173, and Pub. L. 110–246, § 4(a), title VI, § 6022, June 18, 2008, 122 Stat. 1664, 1934; amended Pub. L. 113–79, title VI, § 6023, Feb. 7, 2014, 128 Stat. 848; Pub. L. 115–334, title VI, § 6422, Dec. 20, 2018, 132 Stat. 4765.)
 
 **Editorial Notes**
 
@@ -9125,13 +9125,13 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2018—Subsec. (b)(4)(B)(ii). Pub. L. 115–334, § 6422(1), substituted “Amount” for “Maximum amount” in heading and, in text, inserted “not less than 20 percent and” before “not more than 25 percent”, substituted “, subject to—” for period at end, and added subcls. (I) and (II).
+2018—Subsec. (b)(4)(B)(ii). Pub. L. 115–334, § 6422(1), substituted “Amount” for “Maximum amount” in heading and, in text, inserted “not less than 20 percent and” before “not more than 25 percent”, substituted “, subject to—” for period at end, and added subcls. (I) and (II).
 
-Subsec. (d). Pub. L. 115–334, § 6422(2), added subsec. (d) and struck out former subsec. (d) which related to funding for fiscal years 2009 through 2018.
+Subsec. (d). Pub. L. 115–334, § 6422(2), added subsec. (d) and struck out former subsec. (d) which related to funding for fiscal years 2009 through 2018.
 
-2014—Subsec. (d)(1)(C). Pub. L. 113–79, § 6023(1), added subpar. (C).
+2014—Subsec. (d)(1)(C). Pub. L. 113–79, § 6023(1), added subpar. (C).
 
-Subsec. (d)(2). Pub. L. 113–79, § 6023(2), substituted “2018” for “2012”.
+Subsec. (d)(2). Pub. L. 113–79, § 6023(2), substituted “2018” for “2012”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9139,11 +9139,11 @@ Subsec. (d)(2). Pub. L. 113–79, § 6023(2), substituted “2018” for “20
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 2008t. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(G), Dec. 20, 2018, 132 Stat. 4776
+### § 2008t. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(G), Dec. 20, 2018, 132 Stat. 4776
 
-Section, Pub. L. 87–128, title III, § 379F, as added Pub. L. 110–234, title VI, § 6023, May 22, 2008, 122 Stat. 1176, and Pub. L. 110–246, § 4(a), title VI, § 6023, June 18, 2008, 122 Stat. 1664, 1937, related to grants for expansion of employment opportunities for individuals with disabilities in rural areas.
+Section, Pub. L. 87–128, title III, § 379F, as added Pub. L. 110–234, title VI, § 6023, May 22, 2008, 122 Stat. 1176, and Pub. L. 110–246, § 4(a), title VI, § 6023, June 18, 2008, 122 Stat. 1664, 1937, related to grants for expansion of employment opportunities for individuals with disabilities in rural areas.
 
-### § 2008u. Health care services
+### § 2008u. Health care services
 
 **(a) Purpose**
 
@@ -9173,7 +9173,7 @@ As a condition of the receipt of the grant, the eligible entity shall use the gr
 
 There is authorized to be appropriated to the Secretary to carry out this section, $3,000,000 for each of fiscal years 2008 through 2023.
 
-(Pub. L. 87–128, title III, § 379G, as added Pub. L. 110–234, title VI, § 6024, May 22, 2008, 122 Stat. 1176, and Pub. L. 110–246, § 4(a), title VI, § 6024, June 18, 2008, 122 Stat. 1664, 1938; amended Pub. L. 113–79, title VI, § 6024, Feb. 7, 2014, 128 Stat. 848; Pub. L. 115–334, title VI, § 6423, Dec. 20, 2018, 132 Stat. 4765.)
+(Pub. L. 87–128, title III, § 379G, as added Pub. L. 110–234, title VI, § 6024, May 22, 2008, 122 Stat. 1176, and Pub. L. 110–246, § 4(a), title VI, § 6024, June 18, 2008, 122 Stat. 1664, 1938; amended Pub. L. 113–79, title VI, § 6024, Feb. 7, 2014, 128 Stat. 848; Pub. L. 115–334, title VI, § 6423, Dec. 20, 2018, 132 Stat. 4765.)
 
 **Editorial Notes**
 
@@ -9193,7 +9193,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 2008v. Strategic economic and community development
+### § 2008v. Strategic economic and community development
 
 **(a) In general** In the case of any program under this chapter or administered by the Secretary, acting through the rural development mission area, as determined by the Secretary (referred to in this section as a “covered program”), the Secretary shall give priority to an application for a project that, as determined and approved by the Secretary—
 
@@ -9217,13 +9217,13 @@ Any funds reserved under paragraph (1) shall only be reserved for the 1-year per
 
 **(1) In general**
 
-Subject to paragraph (2), any applicant who submitted an application under a covered program that was approved before the date of enactment of this section 1
+Subject to paragraph (2), any applicant who submitted an application under a covered program that was approved before the date of enactment of this section 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 may amend the application to qualify for the funds reserved under subsection (b).
 
-**(2) Rural utilities** Any applicant who submitted an application under paragraph (2), (14), or (24) of section 1926(a) of this title, or section 1926a or 1932(b) of this title, that was approved by the Secretary before the date of enactment of this section <sup>1</sup> shall be eligible for the funds reserved under subsection (b)—
+**(2) Rural utilities** Any applicant who submitted an application under paragraph (2), (14), or (24) of section 1926(a) of this title, or section 1926a or 1932(b) of this title, that was approved by the Secretary before the date of enactment of this section <sup>1</sup> shall be eligible for the funds reserved under subsection (b)—
 
 **(A)** on the same basis as an application submitted under this section; and
 
@@ -9269,7 +9269,7 @@ The Secretary shall coordinate with Indian Tribes and local, State, regional, an
 
 There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.
 
-(Pub. L. 87–128, title III, § 379H, as added Pub. L. 113–79, title VI, § 6025, Feb. 7, 2014, 128 Stat. 848; amended Pub. L. 115–334, title VI, § 6401, Dec. 20, 2018, 132 Stat. 4756.)
+(Pub. L. 87–128, title III, § 379H, as added Pub. L. 113–79, title VI, § 6025, Feb. 7, 2014, 128 Stat. 848; amended Pub. L. 115–334, title VI, § 6401, Dec. 20, 2018, 132 Stat. 4756.)
 
 **Editorial Notes**
 
@@ -9283,7 +9283,7 @@ The date of enactment of this section, referred to in subsec. (c), probably mean
 
 2018—Pub. L. 115–334 amended section generally. Prior to amendment, section related to strategic economic and community development.
 
-### § 2008w. Rural Innovation Stronger Economy Grant Program
+### § 2008w. Rural Innovation Stronger Economy Grant Program
 
 **(a) Definitions** In this section:
 
@@ -9509,15 +9509,15 @@ The Secretary may increase the percentage described in subparagraph (A) on a cas
 
 There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 87–128, title III, § 379I, as added Pub. L. 115–334, title VI, § 6424, Dec. 20, 2018, 132 Stat. 4765.)
+(Pub. L. 87–128, title III, § 379I, as added Pub. L. 115–334, title VI, § 6424, Dec. 20, 2018, 132 Stat. 4765.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Rural Electrification Act of 1936, referred to in subsec. (a)(1)(B)(ii)(III)(bb), is act May 20, 1936, ch. 432, 49 Stat. 1363. Title VI of the Act is classified generally to subchapter VI (§ 950bb et seq.) of chapter 31 of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (a)(1)(B)(ii)(III)(bb), is act May 20, 1936, ch. 432, 49 Stat. 1363. Title VI of the Act is classified generally to subchapter VI (§ 950bb et seq.) of chapter 31 of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
-### § 2008x. Reporting
+### § 2008x. Reporting
 
 **(a) Definition of farm loan** In this section, the term “farm loan” means—
 
@@ -9597,13 +9597,13 @@ The Rural Electrification Act of 1936, referred to in subsec. (a)(1)(B)(ii)(III)
 
 In preparing any report or review under this section, the Secretary shall aggregate or de-identify the data in a manner sufficient to ensure that the identity of a recipient producer associated with the data cannot be ascertained.
 
-(Pub. L. 115–334, title V, § 5413, Dec. 20, 2018, 132 Stat. 4722.)
+(Pub. L. 115–334, title V, § 5413, Dec. 20, 2018, 132 Stat. 4722.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitles A and B of the Act are classified generally to subchapters I (§ 1922 et seq.) and II (§ 1941 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitles A and B of the Act are classified generally to subchapters I (§ 1922 et seq.) and II (§ 1941 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 **Codification**
 
@@ -9617,7 +9617,7 @@ Section was enacted as part of the Agriculture Improvement Act of 2018, and not 
 
 ## SUBCHAPTER V—RURAL COMMUNITY ADVANCEMENT PROGRAM
 
-### § 2009. Definitions
+### § 2009. Definitions
 
 In this subchapter:
 
@@ -9629,7 +9629,7 @@ The term “State” means each of the 50 States, the District of Columbia, the 
 
 The term “State director” means, with respect to a State, the Director of the Rural Economic and Community Development State Office.
 
-(Pub. L. 87–128, title III, § 381A, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1139; amended Pub. L. 107–171, title VI, § 6020(b)(2), May 13, 2002, 116 Stat. 363.)
+(Pub. L. 87–128, title III, § 381A, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1139; amended Pub. L. 107–171, title VI, § 6020(b)(2), May 13, 2002, 116 Stat. 363.)
 
 **Editorial Notes**
 
@@ -9641,9 +9641,9 @@ The term “State director” means, with respect to a State, the Director of th
 
 **Definition of Rural Areas for Certain Business and Community Facilities Programs**
 
-Pub. L. 106–78, title VII, § 730, Oct. 22, 1999, 113 Stat. 1164, provided that: “Notwithstanding section 381A of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009), in fiscal year 2000 and thereafter, the definitions of rural areas for certain business programs administered by the Rural Business-Cooperative Service and the community facilities programs administered by the Rural Housing Service shall be those provided for in statute and regulations prior to the enactment of Public Law 104–127 [Apr. 4, 1996].”
+Pub. L. 106–78, title VII, § 730, Oct. 22, 1999, 113 Stat. 1164, provided that: “Notwithstanding section 381A of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009), in fiscal year 2000 and thereafter, the definitions of rural areas for certain business programs administered by the Rural Business-Cooperative Service and the community facilities programs administered by the Rural Housing Service shall be those provided for in statute and regulations prior to the enactment of Public Law 104–127 [Apr. 4, 1996].”
 
-Similar provisions were contained in Pub. L. 105–277, div. A, § 101(a) [title VII, § 735], Oct. 21, 1998, 112 Stat. 2681, 2681–29, prior to repeal by Pub. L. 107–171, title VI, § 6020(b)(3), May 13, 2002, 116 Stat. 363.
+Similar provisions were contained in Pub. L. 105–277, div. A, § 101(a) [title VII, § 735], Oct. 21, 1998, 112 Stat. 2681, 2681–29, prior to repeal by Pub. L. 107–171, title VI, § 6020(b)(3), May 13, 2002, 116 Stat. 363.
 
 **Executive Documents**
 
@@ -9651,13 +9651,13 @@ Similar provisions were contained in Pub. L. 105–277, div. A, § 101(a) [tit
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-### § 2009a. Establishment
+### § 2009a. Establishment
 
 The Secretary shall establish a rural community advancement program to provide grants, loans, loan guarantees, and other assistance to meet the rural development needs of local communities in States and federally recognized Indian tribes.
 
-(Pub. L. 87–128, title III, § 381B, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1139.)
+(Pub. L. 87–128, title III, § 381B, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1139.)
 
-### § 2009b. National objectives
+### § 2009b. National objectives
 
 The national objectives of the program established under this subchapter shall be to—
 
@@ -9671,9 +9671,9 @@ The national objectives of the program established under this subchapter shall b
 
 **(5)** adopt flexible and innovative approaches to solving rural development problems.
 
-(Pub. L. 87–128, title III, § 381C, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1139.)
+(Pub. L. 87–128, title III, § 381C, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1139.)
 
-### § 2009c. Strategic plans
+### § 2009c. Strategic plans
 
 **(a) In general** The Secretary shall direct each of the Directors of Rural Economic and Community Development State Offices to prepare a strategic plan—
 
@@ -9713,9 +9713,9 @@ The Secretary shall review the strategic plan of each State and federally recogn
 
 **(6)** includes such other information as may be required by the Secretary.
 
-(Pub. L. 87–128, title III, § 381D, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1140.)
+(Pub. L. 87–128, title III, § 381D, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1140.)
 
-### § 2009d. Rural Development Trust Fund
+### § 2009d. Rural Development Trust Fund
 
 **(a) Establishment**
 
@@ -9781,7 +9781,7 @@ The Secretary shall allocate the amounts in each account specified in subsection
 
 The Secretary shall make available to each State the total amount allocated for the State under subsection (f) that remains after applying section 2009f of this title.
 
-(Pub. L. 87–128, title III, § 381E, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§ 304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, § 6026(a), May 13, 2002, 116 Stat. 372; Pub. L. 110–234, title VI, § 6012(b)(4), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, § 4(a), title VI, § 6012(b)(4), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 115–334, title VI, § 6701(e)(1), Dec. 20, 2018, 132 Stat. 4778.)
+(Pub. L. 87–128, title III, § 381E, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§ 304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, § 6026(a), May 13, 2002, 116 Stat. 372; Pub. L. 110–234, title VI, § 6012(b)(4), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, § 4(a), title VI, § 6012(b)(4), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 115–334, title VI, § 6701(e)(1), Dec. 20, 2018, 132 Stat. 4778.)
 
 **Editorial Notes**
 
@@ -9793,19 +9793,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (d)(3). Pub. L. 115–334 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “rural business opportunity grants under section 1926(a)(11)(A) of this title;”.
 
-2008—Subsec. (d)(3)(B). Pub. L. 110–246, § 6012(b)(4), substituted “1932(a)(2)(A)” for “1932(a)(1)”.
+2008—Subsec. (d)(3)(B). Pub. L. 110–246, § 6012(b)(4), substituted “1932(a)(2)(A)” for “1932(a)(1)”.
 
-2002—Subsec. (b)(4), (5). Pub. L. 107–171, § 6026(a)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The national reserve account.”
+2002—Subsec. (b)(4), (5). Pub. L. 107–171, § 6026(a)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The national reserve account.”
 
-Subsec. (e). Pub. L. 107–171, § 6026(a)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e) which related to national reserve account.
+Subsec. (e). Pub. L. 107–171, § 6026(a)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e) which related to national reserve account.
 
-Subsec. (f). Pub. L. 107–171, § 6026(a)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 107–171, § 6026(a)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsecs. (g), (h). Pub. L. 107–171, § 6026(a)(3), (4), redesignated subsec. (h) as (g) and substituted “subsection (f)” for “subsection (g) of this section”. Former subsec. (g) redesignated (f).
+Subsecs. (g), (h). Pub. L. 107–171, § 6026(a)(3), (4), redesignated subsec. (h) as (g) and substituted “subsection (f)” for “subsection (g) of this section”. Former subsec. (g) redesignated (f).
 
-2000—Subsec. (d)(1)(B). Pub. L. 106–472, § 305(b), substituted “paragraph (19), (20), or (21)” for “paragraph (19) or (20)”.
+2000—Subsec. (d)(1)(B). Pub. L. 106–472, § 305(b), substituted “paragraph (19), (20), or (21)” for “paragraph (19) or (20)”.
 
-Pub. L. 106–472, § 304(b), substituted “paragraph (19) or (20) of section 1926(a)” for “section 1926(a)(19)”.
+Pub. L. 106–472, § 304(b), substituted “paragraph (19) or (20) of section 1926(a)” for “section 1926(a)(19)”.
 
 1997—Subsec. (d)(3)(B). Pub. L. 105–86 inserted “direct and” after “business and industry”.
 
@@ -9813,7 +9813,7 @@ Pub. L. 106–472, § 304(b), substituted “paragraph (19) or (20) of section
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title VI, § 6701(e)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the enactment of section 6012(b) of the Agricultural Act of 2014 (Public Law 113–79).”
+Pub. L. 115–334, title VI, § 6701(e)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in the enactment of section 6012(b) of the Agricultural Act of 2014 (Public Law 113–79).”
 
 **Effective Date of 2008 Amendment**
 
@@ -9821,7 +9821,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **Transfer of Account Balances**
 
-Pub. L. 112–55, div. A, title VII, § 747, Nov. 18, 2011, 125 Stat. 590, provided that:
+Pub. L. 112–55, div. A, title VII, § 747, Nov. 18, 2011, 125 Stat. 590, provided that:
 
 > “For 2012 and subsequent fiscal years—
 
@@ -9833,13 +9833,13 @@ Pub. L. 112–55, div. A, title VII, § 747, Nov. 18, 2011, 125 Stat. 590, pro
 
 > **“(4)** Any prior balances in the Rural Development, Rural Community Advancement Program account programs authorized by sections 306, 306A, 306C, 306D, 306E, and 310B [7 U.S.C. 1926, 1926a, 1926c, 1926d, 1926e, 1932] and described in sections 306C(a)(2), 306D, 306E, and 381E(d)(2) of such Act be transferred to and merged with the ‘Rural Water and Waste Disposal Program Account’ and any other prior balances from the Rural Development, Rural Community Advancement Program account that the Secretary determines are appropriate to transfer.”
 
-### § 2009e. Transfers of funds
+### § 2009e. Transfers of funds
 
 **(a) General authority**
 
-Subject to subsection (b) of this section, the State Director 1
+Subject to subsection (b) of this section, the State Director 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 of any State may, during any fiscal year, transfer from each account specified in section 2009d(c) of this title a total of not more than 25 percent of the amount in the account that is allocated for the State for the fiscal year to any other account in which amounts are allocated for the State for the fiscal year.
 
@@ -9857,9 +9857,9 @@ Except as provided in subsection (c) of this section, a transfer otherwise autho
 
 **(B)** the community that would benefit from the project has a smaller population and a lesser per capita income than any community that would benefit from a project in the function category from which the funds are to be transferred.
 
-(Pub. L. 87–128, title III, § 381F, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1142.)
+(Pub. L. 87–128, title III, § 381F, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1142.)
 
-### § 2009f. Grants to States
+### § 2009f. Grants to States
 
 **(a) Simple grants**
 
@@ -9939,17 +9939,17 @@ In the case of a finding of noncompliance made pursuant to subparagraph (B), the
 
 **(2)** limits the right of a State to impose additional limitations or conditions on assistance or a contract or grant under this section.
 
-(Pub. L. 87–128, title III, § 381G, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1143; amended Pub. L. 107–171, title VI, § 6026(c), May 13, 2002, 116 Stat. 372.)
+(Pub. L. 87–128, title III, § 381G, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1143; amended Pub. L. 107–171, title VI, § 6026(c), May 13, 2002, 116 Stat. 372.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a)(1), (2). Pub. L. 107–171, § 6026(c)(1), substituted “section 2009d(f) of this title” for “section 2009d(g) of this title”.
+2002—Subsec. (a)(1), (2). Pub. L. 107–171, § 6026(c)(1), substituted “section 2009d(f) of this title” for “section 2009d(g) of this title”.
 
-Subsec. (b)(1). Pub. L. 107–171, § 6026(c)(2), substituted “section 2009d(g) of this title” for “section 2009d(h) of this title”.
+Subsec. (b)(1). Pub. L. 107–171, § 6026(c)(2), substituted “section 2009d(g) of this title” for “section 2009d(h) of this title”.
 
-### § 2009g. Guarantee and commitment to guarantee loans
+### § 2009g. Guarantee and commitment to guarantee loans
 
 **(a) “Eligible public entity” defined**
 
@@ -9997,21 +9997,21 @@ Notes or other obligations guaranteed under this section may not be purchased by
 
 The full faith and credit of the United States is pledged to the payment of all guarantees made under this section. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligations for the guarantee with respect to principal and interest. The validity of the guarantee shall be incontestable in the hands of a holder of the guaranteed obligations.
 
-(Pub. L. 87–128, title III, § 381H, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1145.)
+(Pub. L. 87–128, title III, § 381H, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1145.)
 
-### § 2009h. Local involvement
+### § 2009h. Local involvement
 
 An application for assistance under this subchapter shall include evidence of significant community support for the project for which the assistance is requested. In the case of assistance for a community facilities or infrastructure project, the evidence shall be in the form of a certification of support for the project from each affected general purpose local government.
 
-(Pub. L. 87–128, title III, § 381I, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1146.)
+(Pub. L. 87–128, title III, § 381I, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1146.)
 
-### § 2009i. Interstate collaboration
+### § 2009i. Interstate collaboration
 
 The Secretary shall permit the establishment of voluntary pooling arrangements among States, and regional fund-sharing agreements, to carry out projects receiving assistance under this subchapter.
 
-(Pub. L. 87–128, title III, § 381J, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1146.)
+(Pub. L. 87–128, title III, § 381J, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1146.)
 
-### § 2009j. Annual report
+### § 2009j. Annual report
 
 **(a) In general**
 
@@ -10023,9 +10023,9 @@ The Secretary, in collaboration with State, local, public, and private entities,
 
 **(2)** make the report available to State and local participants.
 
-(Pub. L. 87–128, title III, § 381K, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1146.)
+(Pub. L. 87–128, title III, § 381K, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1146.)
 
-### § 2009k. Rural development interagency working group
+### § 2009k. Rural development interagency working group
 
 **(a) In general**
 
@@ -10035,9 +10035,9 @@ The Secretary shall provide leadership within the Executive branch for, and assu
 
 The working group shall establish policy for, coordinate, make recommendations with respect to, and evaluate the performance of, all Federal rural development efforts.
 
-(Pub. L. 87–128, title III, § 381L, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1146.)
+(Pub. L. 87–128, title III, § 381L, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1146.)
 
-### § 2009l. Duties of Rural Economic and Community Development State Offices
+### § 2009l. Duties of Rural Economic and Community Development State Offices
 
 In carrying out this subchapter, the Director of a Rural Economic and Community Development State Office shall—
 
@@ -10051,21 +10051,21 @@ In carrying out this subchapter, the Director of a Rural Economic and Community 
 
 **(5)** integrate State development programs with assistance under this subchapter.
 
-(Pub. L. 87–128, title III, § 381M, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1146.)
+(Pub. L. 87–128, title III, § 381M, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1146.)
 
-### § 2009m. Electronic transfer
+### § 2009m. Electronic transfer
 
 The Secretary shall transfer funds in accordance with this subchapter through electronic transfer as soon as practicable after April 4, 1996.
 
-(Pub. L. 87–128, title III, § 381N, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1147.)
+(Pub. L. 87–128, title III, § 381N, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1147.)
 
-### § 2009n. Repealed. Pub. L. 107–171, title VI, § 6026(b), May 13, 2002, 116 Stat. 372
+### § 2009n. Repealed. Pub. L. 107–171, title VI, § 6026(b), May 13, 2002, 116 Stat. 372
 
-Section, Pub. L. 87–128, title III, § 381O, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1147, related to rural venture capital demonstration program.
+Section, Pub. L. 87–128, title III, § 381O, as added Pub. L. 104–127, title VII, § 761, Apr. 4, 1996, 110 Stat. 1147, related to rural venture capital demonstration program.
 
 ## SUBCHAPTER VI—DELTA REGIONAL AUTHORITY
 
-### § 2009aa. Definitions
+### § 2009aa. Definitions
 
 In this subchapter:
 
@@ -10089,7 +10089,7 @@ The term “region” means the Lower Mississippi (as defined in section 4 of th
 
 Notwithstanding any other provision of law, the State of Alabama shall be a full member of the Delta Regional Authority and shall be entitled to all rights and privileges that said membership affords to all other participating States in the Delta Regional Authority.
 
-(Pub. L. 87–128, title III, § 382A, as added and amended Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 153(b), title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–269; Pub. L. 115–334, title VI, § 6701(f)(1), Dec. 20, 2018, 132 Stat. 4778.)
+(Pub. L. 87–128, title III, § 382A, as added and amended Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 153(b), title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–269; Pub. L. 115–334, title VI, § 6701(f)(1), Dec. 20, 2018, 132 Stat. 4778.)
 
 **Editorial Notes**
 
@@ -10101,17 +10101,17 @@ The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Cong
 
 2018—Par. (4). Pub. L. 115–334 added par. (4).
 
-2000—Par. (4). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 153(b)], which directed amendment of “section 382A of ‘The Delta Regional Authority Act of 2000’ as incorporated in this Act” by adding par. (4), could not be executed as directed because this section is not section 382A of such Act, but rather section 382A of the Consolidated Farm and Rural Development Act, as added by section 503 of the Delta Regional Authority Act of 2000. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 106–554. See 2018 Amendment note above and 2018 Effective Date of 2018 Amendment note below.
+2000—Par. (4). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 153(b)], which directed amendment of “section 382A of ‘The Delta Regional Authority Act of 2000’ as incorporated in this Act” by adding par. (4), could not be executed as directed because this section is not section 382A of such Act, but rather section 382A of the Consolidated Farm and Rural Development Act, as added by section 503 of the Delta Regional Authority Act of 2000. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 106–554. See 2018 Amendment note above and 2018 Effective Date of 2018 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–334, title VI, § 6701(f)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 153(b) of division B of H.R. 5666, as introduced in the 106th Congress, and as enacted by section 1(4) of the Consolidated Appropriations Act, 2001 (Appendix D of Public Law 106–554; 114 Stat. 2763A–252).”
+Pub. L. 115–334, title VI, § 6701(f)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: “The amendment made by this subsection [amending this section] shall take effect as if included in the enactment of section 153(b) of division B of H.R. 5666, as introduced in the 106th Congress, and as enacted by section 1(4) of the Consolidated Appropriations Act, 2001 (Appendix D of Public Law 106–554; 114 Stat. 2763A–252).”
 
 **Findings and Purposes**
 
-Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 502], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that:
+Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 502], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -10149,7 +10149,7 @@ Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 502], Dec. 21, 2000, 114 
 
 > **“(7)** to focus special attention on areas of the region that suffer from the greatest economic distress.”
 
-### § 2009aa–1. Delta Regional Authority
+### § 2009aa–1. Delta Regional Authority
 
 **(a) Establishment**
 
@@ -10401,15 +10401,15 @@ Any person that violates this subsection shall be fined not more than $10,000, i
 
 The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4), subsection (i), or sections 202 through 209 of title 18.
 
-(Pub. L. 87–128, title III, § 382B, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–269; amended Pub. L. 107–171, title VI, § 6027(a), (b), May 13, 2002, 116 Stat. 373; Pub. L. 108–447, div. C, title V, § 506, Dec. 8, 2004, 118 Stat. 2963; Pub. L. 111–85, title IV, § 402, Oct. 28, 2009, 123 Stat. 2878; Pub. L. 118–272, div. B, title II, § 2253(c), (d), Jan. 4, 2025, 138 Stat. 3213.)
+(Pub. L. 87–128, title III, § 382B, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–269; amended Pub. L. 107–171, title VI, § 6027(a), (b), May 13, 2002, 116 Stat. 373; Pub. L. 108–447, div. C, title V, § 506, Dec. 8, 2004, 118 Stat. 2963; Pub. L. 111–85, title IV, § 402, Oct. 28, 2009, 123 Stat. 2878; Pub. L. 118–272, div. B, title II, § 2253(c), (d), Jan. 4, 2025, 138 Stat. 3213.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (e)(11). Pub. L. 118–272, § 2253(c), added par. (11).
+2025—Subsec. (e)(11). Pub. L. 118–272, § 2253(c), added par. (11).
 
-Subsec. (h)(5)(B)(iii), (iv). Pub. L. 118–272, § 2253(d), added cl. (iii) and redesignated former cl. (iii) as (iv).
+Subsec. (h)(5)(B)(iii), (iv). Pub. L. 118–272, § 2253(d), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
 2009—Subsec. (c)(1). Pub. L. 111–85, which directed amendment of section 382B(c) of the Delta Regional Authority Act of 2000 by adding par. (1) and striking out former par. (1), was executed to this section, which is section 382B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress. Prior to amendment, text read as follows:
 
@@ -10417,15 +10417,15 @@ Subsec. (h)(5)(B)(iii), (iv). Pub. L. 118–272, § 2253(d), added cl. (iii) a
 
 “(B) Permanent method.—Effective beginning on January 1, 2009, a decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
 
-2004—Subsec. (c)(1)(A). Pub. L. 108–447, § 506(1), substituted “2008” for “2004”.
+2004—Subsec. (c)(1)(A). Pub. L. 108–447, § 506(1), substituted “2008” for “2004”.
 
-Subsec. (c)(1)(B). Pub. L. 108–447, § 506(2), substituted “2009” for “2005”.
+Subsec. (c)(1)(B). Pub. L. 108–447, § 506(2), substituted “2009” for “2005”.
 
-2002—Subsec. (c)(1). Pub. L. 107–171, § 6027(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
+2002—Subsec. (c)(1). Pub. L. 107–171, § 6027(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
 
-Subsec. (e)(4). Pub. L. 107–171, § 6027(b), substituted “, rules, and regulations” for “and rules”.
+Subsec. (e)(4). Pub. L. 107–171, § 6027(b), substituted “, rules, and regulations” for “and rules”.
 
-### § 2009aa–2. Economic and community development grants
+### § 2009aa–2. Economic and community development grants
 
 **(a) In general** The Authority may approve grants to States, Indian Tribes, and public and nonprofit entities for projects, approved in accordance with section 2009aa–8 of this title—
 
@@ -10459,19 +10459,19 @@ Subsec. (e)(4). Pub. L. 107–171, § 6027(b), substituted “, rules, and r
 
 **(D)** Job training or employment-related education, with emphasis on use of existing public educational institutions located in the region.
 
-(Pub. L. 87–128, title III, § 382C, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–274; amended Pub. L. 107–171, title VI, § 6027(c), May 13, 2002, 116 Stat. 373; Pub. L. 118–272, div. B, title II, § 2253(e), Jan. 4, 2025, 138 Stat. 3213.)
+(Pub. L. 87–128, title III, § 382C, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–274; amended Pub. L. 107–171, title VI, § 6027(c), May 13, 2002, 116 Stat. 373; Pub. L. 118–272, div. B, title II, § 2253(e), Jan. 4, 2025, 138 Stat. 3213.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 118–272, § 2253(e)(1), inserted “, Indian Tribes,” after “States” in introductory provisions.
+2025—Subsec. (a). Pub. L. 118–272, § 2253(e)(1), inserted “, Indian Tribes,” after “States” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 118–272, § 2253(e)(2), inserted “, Tribal,” after “State”.
+Subsec. (a)(1). Pub. L. 118–272, § 2253(e)(2), inserted “, Tribal,” after “State”.
 
 2002—Subsec. (b)(3). Pub. L. 107–171 struck out heading and text of par. (3). Text read as follows: “Notwithstanding any provision of law limiting the Federal share in any grant program, funds appropriated to carry out this section may be used to increase a Federal share in a grant program, as the Authority determines appropriate.”
 
-### § 2009aa–3. Supplements to Federal grant programs
+### § 2009aa–3. Supplements to Federal grant programs
 
 **(a) Finding** Congress finds that certain States and local communities of the region, including local development districts, may be unable to take maximum advantage of Federal grant programs for which the States and communities are eligible because—
 
@@ -10505,7 +10505,7 @@ Subsec. (a)(1). Pub. L. 118–272, § 2253(e)(2), inserted “, Tribal,” a
 
 In the case of any project described in paragraph (1), any finding, report, certification, or documentation required to be submitted with respect to the project to the head of the department, agency, or instrumentality of the Federal Government responsible for the administration of the Federal grant program under which the project is carried out shall be accepted by the Federal cochairperson.
 
-(Pub. L. 87–128, title III, § 382D, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–275; amended Pub. L. 107–171, title VI, § 6027(d), May 13, 2002, 116 Stat. 373.)
+(Pub. L. 87–128, title III, § 382D, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–275; amended Pub. L. 107–171, title VI, § 6027(d), May 13, 2002, 116 Stat. 373.)
 
 **Editorial Notes**
 
@@ -10521,9 +10521,9 @@ This Act, referred to in subsec. (c)(2)(A), refers to the Agricultural Act of 19
 
 **Waiver of Requirements Relating to Non-Federal Cost-Share Grants and Cooperative Agreements for the Delta Regional Authority**
 
-Pub. L. 116–260, div. D, title V, § 505(a), Dec. 27, 2020, 134 Stat. 1379, provided that: “Requirements relating to non-Federal cost-share grants and cooperative agreements for the Delta Regional Authority under section 382D of the Agricultural Act of 1961 and Consolidated Farm and Rural Development Act (7 U.S.C. 2009aa–3) are waived for grants awarded in fiscal year 2020 and in subsequent years in response to economic distress directly related to the impacts of the Coronavirus Disease (COVID–19).”
+Pub. L. 116–260, div. D, title V, § 505(a), Dec. 27, 2020, 134 Stat. 1379, provided that: “Requirements relating to non-Federal cost-share grants and cooperative agreements for the Delta Regional Authority under section 382D of the Agricultural Act of 1961 and Consolidated Farm and Rural Development Act (7 U.S.C. 2009aa–3) are waived for grants awarded in fiscal year 2020 and in subsequent years in response to economic distress directly related to the impacts of the Coronavirus Disease (COVID–19).”
 
-### § 2009aa–4. Local development districts; certification and administrative expenses
+### § 2009aa–4. Local development districts; certification and administrative expenses
 
 **(a) Definition of local development district** In this section, the term “local development district” means an entity that—
 
@@ -10591,7 +10591,7 @@ The contributions of a local development district for administrative expenses ma
 
 **(C)** provide leadership and civic development assistance.
 
-(Pub. L. 87–128, title III, § 382E, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–276; amended Pub. L. 107–171, title VI, § 6027(e), May 13, 2002, 116 Stat. 374; Pub. L. 115–334, title VI, § 6701(g), Dec. 20, 2018, 132 Stat. 4779.)
+(Pub. L. 87–128, title III, § 382E, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–276; amended Pub. L. 107–171, title VI, § 6027(e), May 13, 2002, 116 Stat. 374; Pub. L. 115–334, title VI, § 6701(g), Dec. 20, 2018, 132 Stat. 4779.)
 
 **Editorial Notes**
 
@@ -10601,7 +10601,7 @@ The contributions of a local development district for administrative expenses ma
 
 2002—Subsec. (b)(1). Pub. L. 107–171 substituted “Authority shall” for “Authority may”.
 
-### § 2009aa–5. Distressed counties and areas and nondistressed counties
+### § 2009aa–5. Distressed counties and areas and nondistressed counties
 
 **(a) Designations** Not later than 90 days after December 21, 2000, and annually thereafter, the Authority, in accordance with such criteria as the Authority may establish, shall designate—
 
@@ -10651,9 +10651,9 @@ if the Authority determines that the project could bring significant benefits to
 
 The Authority shall allocate at least 50 percent of any funds made available under section 2009aa–12 of this title for transportation and basic public infrastructure projects authorized under paragraphs (1) and (3) of section 2009aa–2(a) of this title.
 
-(Pub. L. 87–128, title III, § 382F, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–277.)
+(Pub. L. 87–128, title III, § 382F, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–277.)
 
-### § 2009aa–6. Development planning process
+### § 2009aa–6. Development planning process
 
 **(a) State development plan**
 
@@ -10683,9 +10683,9 @@ The Authority and applicable State and local development districts shall encoura
 
 The Authority shall develop guidelines for providing public participation described in paragraph (1), including public hearings.
 
-(Pub. L. 87–128, title III, § 382G, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–278.)
+(Pub. L. 87–128, title III, § 382G, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–278.)
 
-### § 2009aa–7. Program development criteria
+### § 2009aa–7. Program development criteria
 
 **(a) In general** In considering programs and projects to be provided assistance under this subchapter, and in establishing a priority ranking of the requests for assistance provided by the Authority, the Authority shall follow procedures that ensure, to the maximum extent practicable, consideration of—
 
@@ -10709,7 +10709,7 @@ No financial assistance authorized by this subchapter shall be used to assist a 
 
 Funds may be provided for a program or project in a State under this subchapter only if the Authority determines that the level of Federal or State financial assistance provided under a law other than this subchapter, for the same type of program or project in the same area of the State within the region, will not be reduced as a result of funds made available by this subchapter.
 
-(Pub. L. 87–128, title III, § 382H, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–279.)
+(Pub. L. 87–128, title III, § 382H, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–279.)
 
 **Editorial Notes**
 
@@ -10717,7 +10717,7 @@ Funds may be provided for a program or project in a State under this subchapter 
 
 This chapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-### § 2009aa–8. Approval of development plans and projects
+### § 2009aa–8. Approval of development plans and projects
 
 **(a) In general**
 
@@ -10741,23 +10741,23 @@ An application for a grant or any other assistance for a project under this subc
 
 On certification by a State member of the Authority of an application for a grant or other assistance for a specific project under this section, an affirmative vote of the Authority under section 2009aa–1(c) of this title shall be required for approval of the application.
 
-(Pub. L. 87–128, title III, § 382I, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–279; amended Pub. L. 107–171, title VI, § 6027(f), May 13, 2002, 116 Stat. 374.)
+(Pub. L. 87–128, title III, § 382I, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–279; amended Pub. L. 107–171, title VI, § 6027(f), May 13, 2002, 116 Stat. 374.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2002—Subsec. (a). Pub. L. 107–171, § 6027(f)(1), inserted “and approved” after “reviewed”.
+2002—Subsec. (a). Pub. L. 107–171, § 6027(f)(1), inserted “and approved” after “reviewed”.
 
-Subsec. (d). Pub. L. 107–171, § 6027(f)(2), substituted “Approval of grant applications” for “Votes for decisions” in heading.
+Subsec. (d). Pub. L. 107–171, § 6027(f)(2), substituted “Approval of grant applications” for “Votes for decisions” in heading.
 
-### § 2009aa–9. Consent of States
+### § 2009aa–9. Consent of States
 
 Nothing in this subchapter requires any State to engage in or accept any program under this subchapter without the consent of the State.
 
-(Pub. L. 87–128, title III, § 382J, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–280.)
+(Pub. L. 87–128, title III, § 382J, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–280.)
 
-### § 2009aa–10. Records
+### § 2009aa–10. Records
 
 **(a) Records of the Authority**
 
@@ -10779,7 +10779,7 @@ A recipient of Federal funds under this subchapter shall, as required by the Aut
 
 All records required under paragraph (1) shall be available for audit by the Comptroller General of the United States, the Inspector General of the Department of Agriculture, and the Authority (including authorized representatives of the Comptroller General, the Inspector General of the Department of Agriculture, and the Authority).
 
-(Pub. L. 87–128, title III, § 382K, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–280; amended Pub. L. 111–8, div. A, title VII, § 733, Mar. 11, 2009, 123 Stat. 558.)
+(Pub. L. 87–128, title III, § 382K, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–280; amended Pub. L. 111–8, div. A, title VII, § 733, Mar. 11, 2009, 123 Stat. 558.)
 
 **Editorial Notes**
 
@@ -10787,13 +10787,13 @@ All records required under paragraph (1) shall be available for audit by the Com
 
 2009—Pub. L. 111–8 struck out subsec. (c). Text read as follows: “The Inspector General of the Department of Agriculture shall audit the activities, transactions, and records of the Authority on an annual basis.”
 
-### § 2009aa–11. Annual report
+### § 2009aa–11. Annual report
 
 Not later than 180 days after the end of each fiscal year, the Authority shall submit to the President and to Congress a report describing the activities carried out under this subchapter.
 
-(Pub. L. 87–128, title III, § 382L, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–280.)
+(Pub. L. 87–128, title III, § 382L, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–280.)
 
-### § 2009aa–12. Authorization of appropriations
+### § 2009aa–12. Authorization of appropriations
 
 **(a) In general**
 
@@ -10803,7 +10803,7 @@ There is authorized to be appropriated to the Authority to carry out this subcha
 
 Not more than 5 percent of the amount appropriated under subsection (a) for a fiscal year shall be used for administrative expenses of the Authority.
 
-(Pub. L. 87–128, title III, § 382M, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–280; amended Pub. L. 107–171, title VI, § 6027(g), May 13, 2002, 116 Stat. 374; Pub. L. 110–234, title VI, § 6025(a), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, § 4(a), title VI, § 6025(a), June 18, 2008, 122 Stat. 1664, 1938; Pub. L. 113–79, title VI, § 6026(a), Feb. 7, 2014, 128 Stat. 850; Pub. L. 115–334, title VI, § 6425(a), Dec. 20, 2018, 132 Stat. 4770; Pub. L. 118–272, div. B, title II, § 2253(a), Jan. 4, 2025, 138 Stat. 3213.)
+(Pub. L. 87–128, title III, § 382M, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–280; amended Pub. L. 107–171, title VI, § 6027(g), May 13, 2002, 116 Stat. 374; Pub. L. 110–234, title VI, § 6025(a), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, § 4(a), title VI, § 6025(a), June 18, 2008, 122 Stat. 1664, 1938; Pub. L. 113–79, title VI, § 6026(a), Feb. 7, 2014, 128 Stat. 850; Pub. L. 115–334, title VI, § 6425(a), Dec. 20, 2018, 132 Stat. 4770; Pub. L. 118–272, div. B, title II, § 2253(a), Jan. 4, 2025, 138 Stat. 3213.)
 
 **Editorial Notes**
 
@@ -10819,7 +10819,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 6025(a), substituted “2008 through 2012” for “2001 through 2007”.
+2008—Subsec. (a). Pub. L. 110–246, § 6025(a), substituted “2008 through 2012” for “2001 through 2007”.
 
 2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
@@ -10829,13 +10829,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009aa–13. Repealed. Pub. L. 118–272, div. B, title II, § 2253(b), Jan. 4, 2025, 138 Stat. 3213
+### § 2009aa–13. Repealed. Pub. L. 118–272, div. B, title II, § 2253(b), Jan. 4, 2025, 138 Stat. 3213
 
-Section, Pub. L. 87–128, title III, § 382N, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–281; amended Pub. L. 107–171, title VI, § 6027(h), May 13, 2002, 116 Stat. 374; Pub. L. 110–234, title VI, 6025(b), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, § 4(a), title VI, § 6025(b), June 18, 2008, 122 Stat. 1664, 1939; Pub. L. 113–79, title VI, § 6026(b), Feb. 7, 2014, 128 Stat. 850; Pub. L. 115–334, title VI, § 6425(b), Dec. 20, 2018, 132 Stat. 4770, terminated this subchapter and authority under this subchapter.
+Section, Pub. L. 87–128, title III, § 382N, as added Pub. L. 106–554, § 1(a)(4) [div. B, title V, § 503], Dec. 21, 2000, 114 Stat. 2763, 2763A–281; amended Pub. L. 107–171, title VI, § 6027(h), May 13, 2002, 116 Stat. 374; Pub. L. 110–234, title VI, 6025(b), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, § 4(a), title VI, § 6025(b), June 18, 2008, 122 Stat. 1664, 1939; Pub. L. 113–79, title VI, § 6026(b), Feb. 7, 2014, 128 Stat. 850; Pub. L. 115–334, title VI, § 6425(b), Dec. 20, 2018, 132 Stat. 4770, terminated this subchapter and authority under this subchapter.
 
 ## SUBCHAPTER VII—NORTHERN GREAT PLAINS REGIONAL AUTHORITY
 
-### § 2009bb. Definitions
+### § 2009bb. Definitions
 
 In this subchapter:
 
@@ -10863,7 +10863,7 @@ The term “Indian tribe” has the meaning given the term in section 5304 of ti
 
 The term “region” means the States of Iowa, Minnesota, Missouri (other than counties included in the Delta Regional Authority), Nebraska, North Dakota, and South Dakota.
 
-(Pub. L. 87–128, title III, § 383A, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 375; amended Pub. L. 110–234, title VI, § 6026(a), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, § 4(a), title VI, § 6026(a), June 18, 2008, 122 Stat. 1664, 1939.)
+(Pub. L. 87–128, title III, § 383A, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 375; amended Pub. L. 110–234, title VI, § 6026(a), May 22, 2008, 122 Stat. 1177; Pub. L. 110–246, § 4(a), title VI, § 6026(a), June 18, 2008, 122 Stat. 1664, 1939.)
 
 **Editorial Notes**
 
@@ -10873,7 +10873,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Par. (4). Pub. L. 110–246, § 6026(a), inserted “Missouri (other than counties included in the Delta Regional Authority),” after “Minnesota,”.
+2008—Par. (4). Pub. L. 110–246, § 6026(a), inserted “Missouri (other than counties included in the Delta Regional Authority),” after “Minnesota,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10881,7 +10881,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009bb–1. Northern Great Plains Regional Authority
+### § 2009bb–1. Northern Great Plains Regional Authority
 
 **(a) Establishment**
 
@@ -11167,13 +11167,13 @@ Any person that violates this subsection shall be fined not more than $10,000, i
 
 **(j) Validity of contracts, loans, and grants**
 
-The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4) or subsection (i) of this subtitle 1
+The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4) or subsection (i) of this subtitle 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 , or sections 202 through 209 of title 18.
 
-(Pub. L. 87–128, title III, § 383B, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 375; amended Pub. L. 110–234, title VI, § 6026(b), (c)(2)(A), May 22, 2008, 122 Stat. 1177, 1179; Pub. L. 110–246, § 4(a), title VI, § 6026(b), (c)(2)(A), June 18, 2008, 122 Stat. 1664, 1939, 1940.)
+(Pub. L. 87–128, title III, § 383B, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 375; amended Pub. L. 110–234, title VI, § 6026(b), (c)(2)(A), May 22, 2008, 122 Stat. 1177, 1179; Pub. L. 110–246, § 4(a), title VI, § 6026(b), (c)(2)(A), June 18, 2008, 122 Stat. 1664, 1939, 1940.)
 
 **Editorial Notes**
 
@@ -11187,27 +11187,27 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a)(4). Pub. L. 110–246, § 6026(b)(1), added par. (4).
+2008—Subsec. (a)(4). Pub. L. 110–246, § 6026(b)(1), added par. (4).
 
-Subsec. (c)(3)(B). Pub. L. 110–246, § 6026(c)(2)(A), made technical amendment to reference in original act which appears in text as reference to section 2009bb–8 of this title.
+Subsec. (c)(3)(B). Pub. L. 110–246, § 6026(c)(2)(A), made technical amendment to reference in original act which appears in text as reference to section 2009bb–8 of this title.
 
-Subsec. (d)(1). Pub. L. 110–246, § 6026(b)(2)(A), substituted “programs for multistate cooperation to advance the economic and social well-being of the region and to” for “programs to establish priorities and”.
+Subsec. (d)(1). Pub. L. 110–246, § 6026(b)(2)(A), substituted “programs for multistate cooperation to advance the economic and social well-being of the region and to” for “programs to establish priorities and”.
 
-Subsec. (d)(3). Pub. L. 110–246, § 6026(b)(2)(B), substituted “regional and local development districts or organizations, regional boards established under subchapter IX,” for “local development districts,”.
+Subsec. (d)(3). Pub. L. 110–246, § 6026(b)(2)(B), substituted “regional and local development districts or organizations, regional boards established under subchapter IX,” for “local development districts,”.
 
-Subsec. (d)(4). Pub. L. 110–246, § 6026(b)(2)(C), substituted “cooperation for—” for “cooperation;” in introductory provisions and added cls. (i) to (vi).
+Subsec. (d)(4). Pub. L. 110–246, § 6026(b)(2)(C), substituted “cooperation for—” for “cooperation;” in introductory provisions and added cls. (i) to (vi).
 
-Subsec. (d)(6). Pub. L. 110–246, § 6026(b)(2)(D), added par. (6) and struck out former par. (6) which read as follows:
+Subsec. (d)(6). Pub. L. 110–246, § 6026(b)(2)(D), added par. (6) and struck out former par. (6) which read as follows:
 
 “(A) enhance the capacity of, and provide support for, local development districts in the region; or
 
 “(B) if no local development district exists in an area in a participating State in the region, foster the creation of a local development district;”.
 
-Subsec. (d)(7). Pub. L. 110–246, § 6026(b)(2)(E), inserted “renewable energy,” after “commercial,”.
+Subsec. (d)(7). Pub. L. 110–246, § 6026(b)(2)(E), inserted “renewable energy,” after “commercial,”.
 
-Subsec. (f)(2). Pub. L. 110–246, § 6026(b)(3), substituted “a cochairperson” for “the Federal cochairperson”.
+Subsec. (f)(2). Pub. L. 110–246, § 6026(b)(3), substituted “a cochairperson” for “the Federal cochairperson”.
 
-Subsec. (g)(1). Pub. L. 110–246, § 6026(b)(4), added subpars. (A) to (C) and struck out former subpars. (A) to (C) which read as follows:
+Subsec. (g)(1). Pub. L. 110–246, § 6026(b)(4), added subpars. (A) to (C) and struck out former subpars. (A) to (C) which read as follows:
 
 “(A) for fiscal year 2002, 100 percent;
 
@@ -11221,7 +11221,7 @@ Subsec. (g)(1). Pub. L. 110–246, § 6026(b)(4), added subpars. (A) to (C) an
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009bb–1a. Interstate cooperation for economic opportunity and efficiency
+### § 2009bb–1a. Interstate cooperation for economic opportunity and efficiency
 
 **(a) In general** The Authority shall provide assistance to States in developing regional plans to address multistate economic issues, including plans—
 
@@ -11247,7 +11247,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(6)** conservation land management.
 
-(Pub. L. 87–128, title III, § 383C, as added Pub. L. 110–234, title VI, § 6026(c)(1)(B), May 22, 2008, 122 Stat. 1178, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(B), June 18, 2008, 122 Stat. 1664, 1940.)
+(Pub. L. 87–128, title III, § 383C, as added Pub. L. 110–234, title VI, § 6026(c)(1)(B), May 22, 2008, 122 Stat. 1178, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(B), June 18, 2008, 122 Stat. 1664, 1940.)
 
 **Editorial Notes**
 
@@ -11265,7 +11265,7 @@ A prior section 383C of Pub. L. 87–128, title III, was renumbered section 383D
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-### § 2009bb–2. Economic and community development grants
+### § 2009bb–2. Economic and community development grants
 
 **(a) In general** The Authority may approve grants to States, Indian tribes, local governments, and public and nonprofit organizations for projects, approved in accordance with section 2009bb–8 of this title—
 
@@ -11299,7 +11299,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(D)** Job training or employment-related education, with emphasis on use of existing public educational institutions located in the region.
 
-(Pub. L. 87–128, title III, § 383D, formerly § 383C, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 380; renumbered § 383D and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (2)(B), (d), May 22, 2008, 122 Stat. 1178, 1179, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (2)(B), (d), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
+(Pub. L. 87–128, title III, § 383D, formerly § 383C, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 380; renumbered § 383D and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (2)(B), (d), May 22, 2008, 122 Stat. 1178, 1179, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (2)(B), (d), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
 
 **Editorial Notes**
 
@@ -11313,11 +11313,11 @@ A prior section 383D of Pub. L. 87–128, title III, was renumbered section 383E
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 6026(c)(2)(B), made technical amendment to reference in original act which appears in introductory provisions as reference to section 2009bb–8 of this title.
+2008—Subsec. (a). Pub. L. 110–246, § 6026(c)(2)(B), made technical amendment to reference in original act which appears in introductory provisions as reference to section 2009bb–8 of this title.
 
-Subsec. (a)(1), (2). Pub. L. 110–246, § 6026(d)(1), redesignated pars. (2) and (1) as (1) and (2), respectively, and, in par. (2), substituted “transportation, renewable energy transmission, and telecommunication” for “transportation and telecommunication”.
+Subsec. (a)(1), (2). Pub. L. 110–246, § 6026(d)(1), redesignated pars. (2) and (1) as (1) and (2), respectively, and, in par. (2), substituted “transportation, renewable energy transmission, and telecommunication” for “transportation and telecommunication”.
 
-Subsec. (b)(2). Pub. L. 110–246, § 6026(d)(2), substituted “the following activities” for “the activities in the following order or priority” in introductory provisions.
+Subsec. (b)(2). Pub. L. 110–246, § 6026(d)(2), substituted “the following activities” for “the activities in the following order or priority” in introductory provisions.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11325,7 +11325,7 @@ Subsec. (b)(2). Pub. L. 110–246, § 6026(d)(2), substituted “the following
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009bb–3. Supplements to Federal grant programs
+### § 2009bb–3. Supplements to Federal grant programs
 
 **(a) Finding** Congress finds that certain States and local communities of the region may be unable to take maximum advantage of Federal grant programs for which the States and communities are eligible because—
 
@@ -11359,7 +11359,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 In the case of any project described in paragraph (1), any finding, report, certification, or documentation required to be submitted with respect to the project to the head of the department, agency, or instrumentality of the Federal Government responsible for the administration of the Federal grant program under which the project is carried out shall be accepted by the Federal cochairperson.
 
-(Pub. L. 87–128, title III, § 383E, formerly § 383D, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 381; renumbered § 383E and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (2)(C), (e), May 22, 2008, 122 Stat. 1178–1180, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (2)(C), (e), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
+(Pub. L. 87–128, title III, § 383E, formerly § 383D, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 381; renumbered § 383E and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (2)(C), (e), May 22, 2008, 122 Stat. 1178–1180, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (2)(C), (e), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
 
 **Editorial Notes**
 
@@ -11377,11 +11377,11 @@ A prior section 383E of Pub. L. 87–128, title III, was renumbered section 383F
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 6026(e), struck out “, including local development districts,” after “region” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–246, § 6026(e), struck out “, including local development districts,” after “region” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 110–246, § 6026(c)(2)(C)(i), made technical amendment to reference in original act which appears in text as reference to section 2009bb–5(b) of this title.
+Subsec. (b)(1). Pub. L. 110–246, § 6026(c)(2)(C)(i), made technical amendment to reference in original act which appears in text as reference to section 2009bb–5(b) of this title.
 
-Subsec. (c)(2)(A). Pub. L. 110–246, § 6026(c)(2)(C)(ii), made technical amendment to reference in original act which appears in introductory provisions as reference to section 2009bb–8 of this title.
+Subsec. (c)(2)(A). Pub. L. 110–246, § 6026(c)(2)(C)(ii), made technical amendment to reference in original act which appears in introductory provisions as reference to section 2009bb–8 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11389,7 +11389,7 @@ Subsec. (c)(2)(A). Pub. L. 110–246, § 6026(c)(2)(C)(ii), made technical ame
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009bb–4. Multistate and local development districts and organizations and Northern Great Plains Inc.
+### § 2009bb–4. Multistate and local development districts and organizations and Northern Great Plains Inc.
 
 **(a) Definition of multistate and local development district or organization** In this section, the term “multistate and local development district or organization” means an entity—
 
@@ -11457,7 +11457,7 @@ The Federal cochairperson may designate an Indian tribe or multijurisdictional o
 
 **(4)** may carry out other activities on its own behalf or on behalf of other entities.
 
-(Pub. L. 87–128, title III, § 383F, formerly § 383E, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 382; renumbered § 383F and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (f), May 22, 2008, 122 Stat. 1178, 1180, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (f), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
+(Pub. L. 87–128, title III, § 383F, formerly § 383E, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 382; renumbered § 383F and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (f), May 22, 2008, 122 Stat. 1178, 1180, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (f), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
 
 **Editorial Notes**
 
@@ -11471,9 +11471,9 @@ A prior section 383F of Pub. L. 87–128, title III, was renumbered section 383G
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 6026(f)(1), substituted “Multistate and local” for “Local” in section catchline.
+2008—Pub. L. 110–246, § 6026(f)(1), substituted “Multistate and local” for “Local” in section catchline.
 
-Subsecs. (a) to (c). Pub. L. 110–246, § 6026(f)(2), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to definition of local development district, grants to local development districts, and duties of local development districts, respectively.
+Subsecs. (a) to (c). Pub. L. 110–246, § 6026(f)(2), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to definition of local development district, grants to local development districts, and duties of local development districts, respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11481,7 +11481,7 @@ Subsecs. (a) to (c). Pub. L. 110–246, § 6026(f)(2), added subsecs. (a) to (
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009bb–5. Distressed counties and areas and nondistressed counties
+### § 2009bb–5. Distressed counties and areas and nondistressed counties
 
 **(a) Designations** Not later than 90 days after May 13, 2002, and annually thereafter, the Authority, in accordance with such criteria as the Authority may establish, shall designate—
 
@@ -11505,7 +11505,7 @@ The funding limitations under section 2009bb–3(b) of this title shall not appl
 
 The Authority shall allocate at least 50 percent of any funds made available under section 2009bb–12 of this title for transportation, telecommunication, renewable energy, and basic public infrastructure projects authorized under paragraphs (1) and (3) of section 2009bb–2(a) of this title.
 
-(Pub. L. 87–128, title III, § 383G, formerly § 383F, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 384; renumbered § 383G and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (2)(D), (g), May 22, 2008, 122 Stat. 1178, 1179, 1181, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (2)(D), (g), June 18, 2008, 122 Stat. 1664, 1940–1942; Pub. L. 115–334, title VI, § 6701(h), Dec. 20, 2018, 132 Stat. 4779.)
+(Pub. L. 87–128, title III, § 383G, formerly § 383F, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 384; renumbered § 383G and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (2)(D), (g), May 22, 2008, 122 Stat. 1178, 1179, 1181, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (2)(D), (g), June 18, 2008, 122 Stat. 1664, 1940–1942; Pub. L. 115–334, title VI, § 6701(h), Dec. 20, 2018, 132 Stat. 4779.)
 
 **Editorial Notes**
 
@@ -11521,19 +11521,19 @@ A prior section 383G of Pub. L. 87–128, title III, was renumbered section 383H
 
 2018—Subsec. (c). Pub. L. 115–334 substituted “telecommunication, renewable energy,” for “telecommunication renewable energy,,” in heading and “telecommunication,” for “telecommunication,,” in text.
 
-2008—Subsec. (b)(1). Pub. L. 110–246, § 6026(g)(1), substituted “50” for “75”.
+2008—Subsec. (b)(1). Pub. L. 110–246, § 6026(g)(1), substituted “50” for “75”.
 
-Pub. L. 110–246, § 6026(c)(2)(D)(i)(I), made technical amendment to reference in original act which appears in text as reference to section 2009bb–12 of this title.
+Pub. L. 110–246, § 6026(c)(2)(D)(i)(I), made technical amendment to reference in original act which appears in text as reference to section 2009bb–12 of this title.
 
-Subsec. (b)(2). Pub. L. 110–246, § 6026(c)(2)(D)(i)(II), made technical amendment to reference in original act which appears in text as reference to section 2009bb–3(b) of this title.
+Subsec. (b)(2). Pub. L. 110–246, § 6026(c)(2)(D)(i)(II), made technical amendment to reference in original act which appears in text as reference to section 2009bb–3(b) of this title.
 
-Subsec. (c). Pub. L. 110–246, § 6026(g)(2)–(4), redesignated subsec. (d) as (c), inserted “renewable energy,” after “telecommunication” in heading and “, renewable energy,” after “telecommunication,” in text, and struck out former subsec. (c) which prohibited provision of funds for a project located in a county designated as a nondistressed county.
+Subsec. (c). Pub. L. 110–246, § 6026(g)(2)–(4), redesignated subsec. (d) as (c), inserted “renewable energy,” after “telecommunication” in heading and “, renewable energy,” after “telecommunication,” in text, and struck out former subsec. (c) which prohibited provision of funds for a project located in a county designated as a nondistressed county.
 
-Subsec. (c)(2)(A). Pub. L. 110–246, § 6026(c)(2)(D)(ii), made technical amendment to reference in original act which appears in text as reference to section 2009bb–4(b) of this title.
+Subsec. (c)(2)(A). Pub. L. 110–246, § 6026(c)(2)(D)(ii), made technical amendment to reference in original act which appears in text as reference to section 2009bb–4(b) of this title.
 
-Subsec. (d). Pub. L. 110–246, § 6026(g)(3), redesignated subsec. (d) as (c).
+Subsec. (d). Pub. L. 110–246, § 6026(g)(3), redesignated subsec. (d) as (c).
 
-Pub. L. 110–246, § 6026(c)(2)(D)(iii), made technical amendments to references in original act which appear in text as references to section 2009bb–12 of this title and section 2009bb–2(a) of this title.
+Pub. L. 110–246, § 6026(c)(2)(D)(iii), made technical amendments to references in original act which appear in text as references to section 2009bb–12 of this title and section 2009bb–2(a) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11541,7 +11541,7 @@ Pub. L. 110–246, § 6026(c)(2)(D)(iii), made technical amendments to referen
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009bb–6. Development planning process
+### § 2009bb–6. Development planning process
 
 **(a) State development plan**
 
@@ -11571,7 +11571,7 @@ The Authority and applicable multistate, regional, and local development distric
 
 The Authority shall develop guidelines for providing public participation described in paragraph (1), including public hearings.
 
-(Pub. L. 87–128, title III, § 383H, formerly § 383G, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 385; renumbered § 383H and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (h), May 22, 2008, 122 Stat. 1178, 1181, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (h), June 18, 2008, 122 Stat. 1664, 1940, 1943.)
+(Pub. L. 87–128, title III, § 383H, formerly § 383G, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 385; renumbered § 383H and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (h), May 22, 2008, 122 Stat. 1178, 1181, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (h), June 18, 2008, 122 Stat. 1664, 1940, 1943.)
 
 **Editorial Notes**
 
@@ -11585,9 +11585,9 @@ A prior section 383H of Pub. L. 87–128, title III, was renumbered section 383I
 
 **Amendments**
 
-2008—Subsec. (c)(1)(A). Pub. L. 110–246, § 6026(h)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “local development districts; and”.
+2008—Subsec. (c)(1)(A). Pub. L. 110–246, § 6026(h)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “local development districts; and”.
 
-Subsec. (d)(1). Pub. L. 110–246, § 6026(h)(2), substituted “multistate, regional, and local development districts and organizations” for “State and local development districts”.
+Subsec. (d)(1). Pub. L. 110–246, § 6026(h)(2), substituted “multistate, regional, and local development districts and organizations” for “State and local development districts”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11595,7 +11595,7 @@ Subsec. (d)(1). Pub. L. 110–246, § 6026(h)(2), substituted “multistate, r
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009bb–7. Program development criteria
+### § 2009bb–7. Program development criteria
 
 **(a) In general** In considering programs and projects to be provided assistance under this subchapter, and in establishing a priority ranking of the requests for assistance provided to the Authority, the Authority shall follow procedures that ensure, to the maximum extent practicable, consideration of—
 
@@ -11619,7 +11619,7 @@ No financial assistance authorized by this subchapter shall be used to assist a 
 
 Funds may be provided for a program or project in a State under this subchapter only if the Authority determines that the level of Federal or State financial assistance provided under a law other than this subchapter, for the same type of program or project in the same area of the State within the region, will not be reduced as a result of funds made available by this subchapter.
 
-(Pub. L. 87–128, title III, § 383I, formerly § 383H, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 385; renumbered § 383I and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (i), May 22, 2008, 122 Stat. 1178, 1181, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (i), June 18, 2008, 122 Stat. 1664, 1940, 1943.)
+(Pub. L. 87–128, title III, § 383I, formerly § 383H, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 385; renumbered § 383I and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (i), May 22, 2008, 122 Stat. 1178, 1181, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (i), June 18, 2008, 122 Stat. 1664, 1940, 1943.)
 
 **Editorial Notes**
 
@@ -11637,7 +11637,7 @@ A prior section 383I of Pub. L. 87–128, title III, was renumbered section 383J
 
 **Amendments**
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 6026(i), inserted “multistate or” before “regional”.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 6026(i), inserted “multistate or” before “regional”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11645,7 +11645,7 @@ A prior section 383I of Pub. L. 87–128, title III, was renumbered section 383J
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009bb–8. Approval of development plans and projects
+### § 2009bb–8. Approval of development plans and projects
 
 **(a) In general**
 
@@ -11669,7 +11669,7 @@ An application for a grant or any other assistance for a project under this subc
 
 On certification by a State member of the Authority of an application for a grant or other assistance for a specific project under this section, an affirmative vote of the Authority under section 2009bb–1(c) of this title shall be required for approval of the application.
 
-(Pub. L. 87–128, title III, § 383J, formerly § 383I, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 386; renumbered § 383J and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (2)(E), May 22, 2008, 122 Stat. 1178, 1179, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (2)(E), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
+(Pub. L. 87–128, title III, § 383J, formerly § 383I, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 386; renumbered § 383J and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (2)(E), May 22, 2008, 122 Stat. 1178, 1179, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (2)(E), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
 
 **Editorial Notes**
 
@@ -11683,7 +11683,7 @@ A prior section 383J of Pub. L. 87–128, title III, was renumbered section 383K
 
 **Amendments**
 
-2008—Subsec. (c)(2). Pub. L. 110–246, § 6026(c)(2)(E), made technical amendment to reference in original act which appears in text as reference to section 2009bb–7 of this title.
+2008—Subsec. (c)(2). Pub. L. 110–246, § 6026(c)(2)(E), made technical amendment to reference in original act which appears in text as reference to section 2009bb–7 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11691,11 +11691,11 @@ A prior section 383J of Pub. L. 87–128, title III, was renumbered section 383K
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009bb–9. Consent of States
+### § 2009bb–9. Consent of States
 
 Nothing in this subchapter requires any State to engage in or accept any program under this subchapter without the consent of the State.
 
-(Pub. L. 87–128, title III, § 383K, formerly § 383J, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 386; renumbered § 383K, Pub. L. 110–234, title VI, § 6026(c)(1)(A), May 22, 2008, 122 Stat. 1178, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), June 18, 2008, 122 Stat. 1664, 1940.)
+(Pub. L. 87–128, title III, § 383K, formerly § 383J, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 386; renumbered § 383K, Pub. L. 110–234, title VI, § 6026(c)(1)(A), May 22, 2008, 122 Stat. 1178, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), June 18, 2008, 122 Stat. 1664, 1940.)
 
 **Editorial Notes**
 
@@ -11707,7 +11707,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 A prior section 383K of Pub. L. 87–128, title III, was renumbered section 383L and is classified to section 2009bb–10 of this title.
 
-### § 2009bb–10. Records
+### § 2009bb–10. Records
 
 **(a) Records of the Authority**
 
@@ -11733,7 +11733,7 @@ All records required under paragraph (1) shall be available for audit by the Com
 
 The Inspector General of the Department of Agriculture shall audit the activities, transactions, and records of the Authority on an annual basis for any fiscal year for which funds are appropriated.
 
-(Pub. L. 87–128, title III, § 383L, formerly § 383K, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 386; renumbered § 383L, Pub. L. 110–234, title VI, § 6026(c)(1)(A), May 22, 2008, 122 Stat. 1178, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), June 18, 2008, 122 Stat. 1664, 1940; amended Pub. L. 113–79, title VI, § 6027(a), Feb. 7, 2014, 128 Stat. 850.)
+(Pub. L. 87–128, title III, § 383L, formerly § 383K, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 386; renumbered § 383L, Pub. L. 110–234, title VI, § 6026(c)(1)(A), May 22, 2008, 122 Stat. 1178, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), June 18, 2008, 122 Stat. 1664, 1940; amended Pub. L. 113–79, title VI, § 6027(a), Feb. 7, 2014, 128 Stat. 850.)
 
 **Editorial Notes**
 
@@ -11749,11 +11749,11 @@ A prior section 383L of Pub. L. 87–128, title III, was renumbered section 383M
 
 2014—Subsec. (c). Pub. L. 113–79 inserted “for any fiscal year for which funds are appropriated” after “annual basis”.
 
-### § 2009bb–11. Annual report
+### § 2009bb–11. Annual report
 
 Not later than 180 days after the end of each fiscal year, the Authority shall submit to the President and to Congress a report describing the activities carried out under this subchapter.
 
-(Pub. L. 87–128, title III, § 383M, formerly § 383L, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 387; renumbered § 383M, Pub. L. 110–234, title VI, § 6026(c)(1)(A), May 22, 2008, 122 Stat. 1178, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), June 18, 2008, 122 Stat. 1664, 1940.)
+(Pub. L. 87–128, title III, § 383M, formerly § 383L, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 387; renumbered § 383M, Pub. L. 110–234, title VI, § 6026(c)(1)(A), May 22, 2008, 122 Stat. 1178, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), June 18, 2008, 122 Stat. 1664, 1940.)
 
 **Editorial Notes**
 
@@ -11765,7 +11765,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 A prior section 383M of Pub. L. 87–128, title III, was renumbered section 383N and is classified to section 2009bb–12 of this title.
 
-### § 2009bb–12. Authorization of appropriations
+### § 2009bb–12. Authorization of appropriations
 
 **(a) In general**
 
@@ -11785,7 +11785,7 @@ Not more than 5 percent of the amount appropriated under subsection (a) for a fi
 
 **(B)** the population of the region (as so determined).
 
-(Pub. L. 87–128, title III, § 383N, formerly § 383M, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 387; renumbered § 383N and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (j), May 22, 2008, 122 Stat. 1178, 1182, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (j), June 18, 2008, 122 Stat. 1664, 1940, 1943; Pub. L. 113–79, title VI, § 6027(b), Feb. 7, 2014, 128 Stat. 850; Pub. L. 118–272, div. B, title II, § 2254(a), Jan. 4, 2025, 138 Stat. 3213.)
+(Pub. L. 87–128, title III, § 383N, formerly § 383M, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 387; renumbered § 383N and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (j), May 22, 2008, 122 Stat. 1178, 1182, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (j), June 18, 2008, 122 Stat. 1664, 1940, 1943; Pub. L. 113–79, title VI, § 6027(b), Feb. 7, 2014, 128 Stat. 850; Pub. L. 118–272, div. B, title II, § 2254(a), Jan. 4, 2025, 138 Stat. 3213.)
 
 **Editorial Notes**
 
@@ -11803,7 +11803,7 @@ A prior section 383N of Pub. L. 87–128, title III, was renumbered section 383O
 
 2014—Subsec. (a). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 6026(j), substituted “2008 through 2012” for “2002 through 2007”.
+2008—Subsec. (a). Pub. L. 110–246, § 6026(j), substituted “2008 through 2012” for “2002 through 2007”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -11811,13 +11811,13 @@ A prior section 383N of Pub. L. 87–128, title III, was renumbered section 383O
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009bb–13. Repealed. Pub. L. 118–272, div. B, title II, § 2254(b), Jan. 4, 2025, 138 Stat. 3213
+### § 2009bb–13. Repealed. Pub. L. 118–272, div. B, title II, § 2254(b), Jan. 4, 2025, 138 Stat. 3213
 
-Section, Pub. L. 87–128, title III, § 383O, formerly § 383N, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 387; renumbered § 383O and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (k), May 22, 2008, 122 Stat. 1178, 1182, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (k), June 18, 2008, 122 Stat. 1664, 1940, 1943; Pub. L. 113–79, title VI, § 6027(c), Feb. 7, 2014, 128 Stat. 850, terminated authority under this subchapter.
+Section, Pub. L. 87–128, title III, § 383O, formerly § 383N, as added Pub. L. 107–171, title VI, § 6028, May 13, 2002, 116 Stat. 387; renumbered § 383O and amended Pub. L. 110–234, title VI, § 6026(c)(1)(A), (k), May 22, 2008, 122 Stat. 1178, 1182, and Pub. L. 110–246, § 4(a), title VI, § 6026(c)(1)(A), (k), June 18, 2008, 122 Stat. 1664, 1940, 1943; Pub. L. 113–79, title VI, § 6027(c), Feb. 7, 2014, 128 Stat. 850, terminated authority under this subchapter.
 
 ## SUBCHAPTER VIII—RURAL BUSINESS INVESTMENT PROGRAM
 
-### § 2009cc. Definitions
+### § 2009cc. Definitions
 
 In this subchapter:
 
@@ -11943,7 +11943,7 @@ that primarily operates in a rural area, as determined by the Secretary.
 
 **(B)** satisfies the standard industrial classification size standards established by the Administrator of the Small Business Administration for the industry in which the rural business concern is primarily engaged.
 
-(Pub. L. 87–128, title III, § 384A, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 388; amended Pub. L. 115–334, title VI, § 6426(a), Dec. 20, 2018, 132 Stat. 4770.)
+(Pub. L. 87–128, title III, § 384A, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 388; amended Pub. L. 115–334, title VI, § 6426(a), Dec. 20, 2018, 132 Stat. 4770.)
 
 **Editorial Notes**
 
@@ -11953,11 +11953,11 @@ This Act, referred to in par. (4)(B), means Pub. L. 87–128, Aug. 8, 1961, 75 S
 
 **Amendments**
 
-2018—Par. (2). Pub. L. 115–334, § 6426(a)(1), struck out “venture” after “Developmental” in heading and after “ ‘developmental” in text.
+2018—Par. (2). Pub. L. 115–334, § 6426(a)(1), struck out “venture” after “Developmental” in heading and after “ ‘developmental” in text.
 
-Par. (4). Pub. L. 115–334, § 6426(a)(2), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘equity capital’ means common or preferred stock or a similar instrument, including subordinated debt with equity features.”
+Par. (4). Pub. L. 115–334, § 6426(a)(2), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The term ‘equity capital’ means common or preferred stock or a similar instrument, including subordinated debt with equity features.”
 
-### § 2009cc–1. Purposes
+### § 2009cc–1. Purposes
 
 The purposes of the Rural Business Investment Program established under this subchapter are—
 
@@ -11971,19 +11971,19 @@ The purposes of the Rural Business Investment Program established under this sub
 
 **(C)** to make grants to rural business investment companies, and to other entities, for the purpose of providing operational assistance to smaller enterprises financed, or expected to be financed, by rural business investment companies.
 
-(Pub. L. 87–128, title III, § 384B, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 391; amended Pub. L. 115–334, title VI, § 6426(b), Dec. 20, 2018, 132 Stat. 4770.)
+(Pub. L. 87–128, title III, § 384B, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 391; amended Pub. L. 115–334, title VI, § 6426(b), Dec. 20, 2018, 132 Stat. 4770.)
 
 **Editorial Notes**
 
 **Amendments**
 
-Par. (1). Pub. L. 115–334, § 6426(b)(1), struck out “venture” before “capital investments”.
+Par. (1). Pub. L. 115–334, § 6426(b)(1), struck out “venture” before “capital investments”.
 
-Par. (2). Pub. L. 115–334, § 6426(b)(2)(A), struck out “venture” before “capital program” in introductory provisions.
+Par. (2). Pub. L. 115–334, § 6426(b)(2)(A), struck out “venture” before “capital program” in introductory provisions.
 
-Par. (2)(B). Pub. L. 115–334, § 6426(b)(2)(B), struck out “venture” before “capital investments”.
+Par. (2)(B). Pub. L. 115–334, § 6426(b)(2)(B), struck out “venture” before “capital investments”.
 
-### § 2009cc–2. Establishment
+### § 2009cc–2. Establishment
 
 In accordance with this subchapter, the Secretary shall establish a Rural Business Investment Program, under which the Secretary may—
 
@@ -11993,9 +11993,9 @@ In accordance with this subchapter, the Secretary shall establish a Rural Busine
 
 **(3)** make grants to rural business investment companies, and to other entities, under section 2009cc–7 of this title.
 
-(Pub. L. 87–128, title III, § 384C, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 391.)
+(Pub. L. 87–128, title III, § 384C, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 391.)
 
-### § 2009cc–3. Selection of rural business investment companies
+### § 2009cc–3. Selection of rural business investment companies
 
 **(a) Eligibility** A company shall be eligible to apply to participate, as a rural business investment company, in the program established under this subchapter if—
 
@@ -12077,7 +12077,7 @@ An applicant approved under subparagraph (A) shall not be eligible to receive le
 
 An applicant approved under subparagraph (A) shall be eligible for grants under section 2009cc–7 of this title in proportion to the private capital of the applicant, as determined by the Secretary.
 
-(Pub. L. 87–128, title III, § 384D, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 391; amended Pub. L. 115–334, title VI, § 6426(c), Dec. 20, 2018, 132 Stat. 4770.)
+(Pub. L. 87–128, title III, § 384D, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 391; amended Pub. L. 115–334, title VI, § 6426(c), Dec. 20, 2018, 132 Stat. 4770.)
 
 **Editorial Notes**
 
@@ -12085,7 +12085,7 @@ An applicant approved under subparagraph (A) shall be eligible for grants under 
 
 2018—Subsec. (b)(1). Pub. L. 115–334 substituted “developmental” for “developmental venture”.
 
-### § 2009cc–4. Debentures
+### § 2009cc–4. Debentures
 
 **(a) In general**
 
@@ -12109,9 +12109,9 @@ Section 2009g(i) of this title shall apply to any guarantee under this section.
 
 **(2)** provide for the use of discounted debentures.
 
-(Pub. L. 87–128, title III, § 384E, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 393.)
+(Pub. L. 87–128, title III, § 384E, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 393.)
 
-### § 2009cc–5. Issuance and guarantee of trust certificates
+### § 2009cc–5. Issuance and guarantee of trust certificates
 
 **(a) Issuance**
 
@@ -12185,7 +12185,7 @@ The Secretary may regulate brokers and dealers in trust certificates issued unde
 
 Nothing in this subsection prohibits the use of a book-entry or other electronic form of registration for trust certificates issued under this section.
 
-(Pub. L. 87–128, title III, § 384F, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 393; amended Pub. L. 110–234, title VI, § 6027(a), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, § 4(a), title VI, § 6027(a), June 18, 2008, 122 Stat. 1664, 1943.)
+(Pub. L. 87–128, title III, § 384F, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 393; amended Pub. L. 110–234, title VI, § 6027(a), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, § 4(a), title VI, § 6027(a), June 18, 2008, 122 Stat. 1664, 1943.)
 
 **Editorial Notes**
 
@@ -12195,7 +12195,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (b)(3)(A). Pub. L. 110–246, § 6027(a), added cl. (i), designated existing provisions as cl. (ii), inserted heading, and substituted “Subject to clause (i), if” for “In the event”.
+2008—Subsec. (b)(3)(A). Pub. L. 110–246, § 6027(a), added cl. (i), designated existing provisions as cl. (ii), inserted heading, and substituted “Subject to clause (i), if” for “In the event”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12203,7 +12203,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009cc–6. Fees
+### § 2009cc–6. Fees
 
 **(a) In general**
 
@@ -12231,7 +12231,7 @@ Except as provided in paragraph (3), the Secretary may prescribe fees to be paid
 
 In the case of a license described in paragraph (1) that was approved before July 1, 2007, the Secretary shall not collect any fees due on or after the date of enactment of this paragraph.
 
-(Pub. L. 87–128, title III, § 384G, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 395; amended Pub. L. 110–234, title VI, § 6027(b), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, § 4(a), title VI, § 6027(b), June 18, 2008, 122 Stat. 1664, 1943; Pub. L. 115–334, title VI, § 6426(d), Dec. 20, 2018, 132 Stat. 4771.)
+(Pub. L. 87–128, title III, § 384G, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 395; amended Pub. L. 110–234, title VI, § 6027(b), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, § 4(a), title VI, § 6027(b), June 18, 2008, 122 Stat. 1664, 1943; Pub. L. 115–334, title VI, § 6426(d), Dec. 20, 2018, 132 Stat. 4771.)
 
 **Editorial Notes**
 
@@ -12245,21 +12245,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsecs. (a), (b). Pub. L. 115–334, § 6426(d)(1), substituted “such fees as the Secretary considers appropriate, so long as those fees are proportionally equal for each rural business investment company,” for “a fee that does not exceed $500”.
+2018—Subsecs. (a), (b). Pub. L. 115–334, § 6426(d)(1), substituted “such fees as the Secretary considers appropriate, so long as those fees are proportionally equal for each rural business investment company,” for “a fee that does not exceed $500”.
 
-Subsec. (c)(2)(B). Pub. L. 115–334, § 6426(d)(2)(A), substituted “as the Secretary considers appropriate” for “solely to cover the costs of licensing examinations”.
+Subsec. (c)(2)(B). Pub. L. 115–334, § 6426(d)(2)(A), substituted “as the Secretary considers appropriate” for “solely to cover the costs of licensing examinations”.
 
-Subsec. (c)(2)(C). Pub. L. 115–334, § 6426(d)(2)(B), added subpar. (C) and struck out former subpar. (C) which read as follows: “shall not exceed $500 for any fee collected under this subsection.”
+Subsec. (c)(2)(C). Pub. L. 115–334, § 6426(d)(2)(B), added subpar. (C) and struck out former subpar. (C) which read as follows: “shall not exceed $500 for any fee collected under this subsection.”
 
-2008—Subsec. (a). Pub. L. 110–246, § 6027(b)(1), substituted “a fee that does not exceed $500” for “such fees as the Secretary considers appropriate”.
+2008—Subsec. (a). Pub. L. 110–246, § 6027(b)(1), substituted “a fee that does not exceed $500” for “such fees as the Secretary considers appropriate”.
 
-Subsec. (b). Pub. L. 110–246, § 6027(b)(2), substituted “that does not exceed $500” for “approved by the Secretary”.
+Subsec. (b). Pub. L. 110–246, § 6027(b)(2), substituted “that does not exceed $500” for “approved by the Secretary”.
 
-Subsec. (c)(1). Pub. L. 110–246, § 6027(b)(3)(A), substituted “Except as provided in paragraph (3), the” for “The”.
+Subsec. (c)(1). Pub. L. 110–246, § 6027(b)(3)(A), substituted “Except as provided in paragraph (3), the” for “The”.
 
-Subsec. (c)(2)(C). Pub. L. 110–246, § 6027(b)(3)(B), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 110–246, § 6027(b)(3)(B), added subpar. (C).
 
-Subsec. (c)(3). Pub. L. 110–246, § 6027(b)(3)(C), added par. (3).
+Subsec. (c)(3). Pub. L. 110–246, § 6027(b)(3)(C), added par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12267,7 +12267,7 @@ Subsec. (c)(3). Pub. L. 110–246, § 6027(b)(3)(C), added par. (3).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009cc–7. Operational assistance grants
+### § 2009cc–7. Operational assistance grants
 
 **(a) In general**
 
@@ -12297,9 +12297,9 @@ A rural business investment company shall be eligible for a grant under this sec
 
 The amount of a grant made under this section to any entity other than a rural business investment company shall be equal to the resources (in cash or in kind) raised by the entity in accordance with the requirements applicable to rural business investment companies under this subchapter.
 
-(Pub. L. 87–128, title III, § 384H, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 395.)
+(Pub. L. 87–128, title III, § 384H, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 395.)
 
-### § 2009cc–8. Rural business investment companies
+### § 2009cc–8. Rural business investment companies
 
 **(a) Organization** For the purpose of this subchapter, a rural business investment company shall—
 
@@ -12363,7 +12363,7 @@ Each rural business investment company shall have a period of 2 years to meet th
 
 The Secretary shall ensure that the management of each rural business investment company licensed after May 13, 2002, is sufficiently diversified from and unaffiliated with the ownership of the rural business investment company so as to ensure independence and objectivity in the financial management and oversight of the investments and operations of the rural business investment company.
 
-(Pub. L. 87–128, title III, § 384I, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 396; amended Pub. L. 110–234, title VI, § 6027(c), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, § 4(a), title VI, § 6027(c), June 18, 2008, 122 Stat. 1664, 1944.)
+(Pub. L. 87–128, title III, § 384I, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 396; amended Pub. L. 110–234, title VI, § 6027(c), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, § 4(a), title VI, § 6027(c), June 18, 2008, 122 Stat. 1664, 1944.)
 
 **Editorial Notes**
 
@@ -12373,7 +12373,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (c)(3), (4). Pub. L. 110–246, § 6027(c), added par. (3) and redesignated former par. (3) as (4).
+2008—Subsec. (c)(3), (4). Pub. L. 110–246, § 6027(c), added par. (3) and redesignated former par. (3) as (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12381,7 +12381,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009cc–9. Financial institution investments
+### § 2009cc–9. Financial institution investments
 
 **(a) Investment**
 
@@ -12403,15 +12403,15 @@ No bank, association, or institution described in subsection (a) may make invest
 
 If a Farm Credit System institution described in section 1.2(a) of the Farm Credit Act of 1971 (12 U.S.C. 2002(a)) holds more than 50 percent of the shares of a rural business investment company, either alone or in conjunction with other System institutions (or affiliates), the rural business investment company shall not provide equity investments in, or provide other financial assistance to, entities that are not otherwise eligible to receive financing from the Farm Credit System under that Act (12 U.S.C. 2001 et seq.).
 
-(Pub. L. 87–128, title III, § 384J, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 397; amended Pub. L. 110–234, title VI, § 6027(d), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, § 4(a), title VI, § 6027(d), June 18, 2008, 122 Stat. 1664, 1944; Pub. L. 115–334, title VI, § 6426(e), (f), Dec. 20, 2018, 132 Stat. 4771.)
+(Pub. L. 87–128, title III, § 384J, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 397; amended Pub. L. 110–234, title VI, § 6027(d), May 22, 2008, 122 Stat. 1182; Pub. L. 110–246, § 4(a), title VI, § 6027(d), June 18, 2008, 122 Stat. 1664, 1944; Pub. L. 115–334, title VI, § 6426(e), (f), Dec. 20, 2018, 132 Stat. 4771.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Deposit Insurance Act, referred to in subsec. (a)(1)(A), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a)(1)(A), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (c), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (c), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
 **Codification**
 
@@ -12419,13 +12419,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–334, § 6426(f), substituted “Investment” for “In general” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), added par. (2), and realigned margins.
+2018—Subsec. (a). Pub. L. 115–334, § 6426(f), substituted “Investment” for “In general” in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), added par. (2), and realigned margins.
 
-Subsec. (c). Pub. L. 115–334, § 6426(e), substituted “50” for “25”.
+Subsec. (c). Pub. L. 115–334, § 6426(e), substituted “50” for “25”.
 
-2008—Subsec. (a)(1). Pub. L. 110–246, § 6027(d)(1), inserted “, including an investment pool created entirely by such bank or savings association” before period at end.
+2008—Subsec. (a)(1). Pub. L. 110–246, § 6027(d)(1), inserted “, including an investment pool created entirely by such bank or savings association” before period at end.
 
-Subsec. (c). Pub. L. 110–246, § 6027(d)(2), substituted “25” for “15”.
+Subsec. (c). Pub. L. 110–246, § 6027(d)(2), substituted “25” for “15”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -12433,7 +12433,7 @@ Subsec. (c). Pub. L. 110–246, § 6027(d)(2), substituted “25” for “15�
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009cc–10. Reporting requirements
+### § 2009cc–10. Reporting requirements
 
 **(a) Rural business investment companies** Each rural business investment company that participates in the program established under this subchapter shall provide to the Secretary such information as the Secretary may require, including—
 
@@ -12469,9 +12469,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(B)** may not release any information that is prohibited under section 1905 of title 18.
 
-(Pub. L. 87–128, title III, § 384K, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 398.)
+(Pub. L. 87–128, title III, § 384K, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 398.)
 
-### § 2009cc–11. Examinations
+### § 2009cc–11. Examinations
 
 **(a) In general**
 
@@ -12499,9 +12499,9 @@ Any rural business investment company against which the Secretary assesses costs
 
 **(3)** remain available until expended.
 
-(Pub. L. 87–128, title III, § 384L, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 399.)
+(Pub. L. 87–128, title III, § 384L, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 399.)
 
-### § 2009cc–12. Injunctions and other orders
+### § 2009cc–12. Injunctions and other orders
 
 **(a) In general**
 
@@ -12533,9 +12533,9 @@ The Secretary may act as trustee or receiver of a rural business investment comp
 
 On the request of the Secretary, the court shall appoint the Secretary to act as a trustee or receiver of a rural business investment company unless the court considers the appointment inequitable or otherwise inappropriate by reason of any special circumstances involved.
 
-(Pub. L. 87–128, title III, § 384M, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 399.)
+(Pub. L. 87–128, title III, § 384M, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 399.)
 
-### § 2009cc–13. Additional penalties for noncompliance
+### § 2009cc–13. Additional penalties for noncompliance
 
 **(a) In general** With respect to any rural business investment company that violates or fails to comply with this subchapter (including any rule, regulation, order, or participation agreement under this subchapter), the Secretary may, in accordance with this section—
 
@@ -12553,9 +12553,9 @@ Before the Secretary may cause a rural business investment company to forfeit ri
 
 Each cause of action brought by the United States under this subsection shall be brought by the Secretary or by the Attorney General.
 
-(Pub. L. 87–128, title III, § 384N, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 400.)
+(Pub. L. 87–128, title III, § 384N, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 400.)
 
-### § 2009cc–14. Unlawful acts and omissions; breach of fiduciary duty
+### § 2009cc–14. Unlawful acts and omissions; breach of fiduciary duty
 
 **(a) Parties deemed to commit a violation**
 
@@ -12579,17 +12579,17 @@ It shall be unlawful for any officer, director, employee, agent, or other partic
 
 **(B)** the person is found liable in a civil action for damages, or is permanently or temporarily enjoined by an order, judgment, or decree of a court of competent jurisdiction, by reason of any act or practice involving fraud or breach of trust.
 
-(Pub. L. 87–128, title III, § 384O, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 400.)
+(Pub. L. 87–128, title III, § 384O, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 400.)
 
-### § 2009cc–15. Removal or suspension of directors or officers
+### § 2009cc–15. Removal or suspension of directors or officers
 
 Using the procedures established by the Secretary for removing or suspending a director or an officer of a rural business investment company, the Secretary may remove or suspend any director or officer of any rural business investment company.
 
-(Pub. L. 87–128, title III, § 384P, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 401.)
+(Pub. L. 87–128, title III, § 384P, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 401.)
 
-### § 2009cc–16. Repealed. Pub. L. 110–234, title VI, § 6027(e), May 22, 2008, 122 Stat. 1183, and Pub. L. 110–246, § 4(a), title VI, § 6027(e), June 18, 2008, 122 Stat. 1664, 1944
+### § 2009cc–16. Repealed. Pub. L. 110–234, title VI, § 6027(e), May 22, 2008, 122 Stat. 1183, and Pub. L. 110–246, § 4(a), title VI, § 6027(e), June 18, 2008, 122 Stat. 1664, 1944
 
-Section, Pub. L. 87–128, title III, § 384Q, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 401, related to interagency agreement to carry out day-to-day management and operation of the program.
+Section, Pub. L. 87–128, title III, § 384Q, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 401, related to interagency agreement to carry out day-to-day management and operation of the program.
 
 **Editorial Notes**
 
@@ -12603,17 +12603,17 @@ Pub. L. 110–234 and Pub. L. 110–246 repealed this section. Pub. L. 110–234
 
 Repeal of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-### § 2009cc–17. Regulations
+### § 2009cc–17. Regulations
 
 The Secretary may promulgate such regulations as the Secretary considers necessary to carry out this subchapter.
 
-(Pub. L. 87–128, title III, § 384R, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 401.)
+(Pub. L. 87–128, title III, § 384R, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 401.)
 
-### § 2009cc–18. Authorization of appropriations
+### § 2009cc–18. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this subchapter $20,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 87–128, title III, § 384S, as added Pub. L. 110–234, title VI, § 6027(f), May 22, 2008, 122 Stat. 1183, and Pub. L. 110–246, § 4(a), title VI, § 6027(f), June 18, 2008, 122 Stat. 1664, 1944; amended Pub. L. 113–79, title VI, § 6028, Feb. 7, 2014, 128 Stat. 850; Pub. L. 115–334, title VI, § 6427, Dec. 20, 2018, 132 Stat. 4771.)
+(Pub. L. 87–128, title III, § 384S, as added Pub. L. 110–234, title VI, § 6027(f), May 22, 2008, 122 Stat. 1183, and Pub. L. 110–246, § 4(a), title VI, § 6027(f), June 18, 2008, 122 Stat. 1664, 1944; amended Pub. L. 113–79, title VI, § 6028, Feb. 7, 2014, 128 Stat. 850; Pub. L. 115–334, title VI, § 6427, Dec. 20, 2018, 132 Stat. 4771.)
 
 **Editorial Notes**
 
@@ -12623,7 +12623,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Prior Provisions**
 
-A prior section 2009cc–18, Pub. L. 87–128, title III, § 384S, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 402; amended Pub. L. 109–171, title I, § 1403(a), Feb. 8, 2006, 120 Stat. 6, related to subchapter funding through fiscal year 2006, prior to repeal by Pub. L. 110–234, title VI, § 6027(f), May 22, 2008, 122 Stat. 1183, and Pub. L. 110–246, § 4, title VI, § 6027(f), June 18, 2008, 122 Stat. 1664, 1944, effective May 22, 2008.
+A prior section 2009cc–18, Pub. L. 87–128, title III, § 384S, as added Pub. L. 107–171, title VI, § 6029, May 13, 2002, 116 Stat. 402; amended Pub. L. 109–171, title I, § 1403(a), Feb. 8, 2006, 120 Stat. 6, related to subchapter funding through fiscal year 2006, prior to repeal by Pub. L. 110–234, title VI, § 6027(f), May 22, 2008, 122 Stat. 1183, and Pub. L. 110–246, § 4, title VI, § 6027(f), June 18, 2008, 122 Stat. 1664, 1944, effective May 22, 2008.
 
 **Amendments**
 
@@ -12639,35 +12639,35 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ## SUBCHAPTER IX—RURAL COLLABORATIVE INVESTMENT PROGRAM
 
-### §§ 2009dd to 2009dd–7. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(H), Dec. 20, 2018, 132 Stat. 4776
+### §§ 2009dd to 2009dd–7. Repealed. Pub. L. 115–334, title VI, § 6601(a)(1)(H), Dec. 20, 2018, 132 Stat. 4776
 
-Section 2009dd, Pub. L. 87–128, title III, § 385A, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 402; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1183; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1944, related to purpose of subchapter.
+Section 2009dd, Pub. L. 87–128, title III, § 385A, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 402; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1183; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1944, related to purpose of subchapter.
 
-Section 2009dd–1, Pub. L. 87–128, title III, § 385B, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 402; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1183; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1945, related to definitions.
+Section 2009dd–1, Pub. L. 87–128, title III, § 385B, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 402; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1183; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1945, related to definitions.
 
-Section 2009dd–2, Pub. L. 87–128, title III, § 385C, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 403; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1184; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1945; Pub. L. 113–188, title I, § 101(e)(1), Nov. 26, 2014, 128 Stat. 2017, related to establishment and administration of Rural Collaborative Investment Program.
+Section 2009dd–2, Pub. L. 87–128, title III, § 385C, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 403; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1184; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1945; Pub. L. 113–188, title I, § 101(e)(1), Nov. 26, 2014, 128 Stat. 2017, related to establishment and administration of Rural Collaborative Investment Program.
 
-Section 2009dd–3, Pub. L. 87–128, title III, § 385D, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 405; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1187; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1948; Pub. L. 113–188, title I, § 101(e)(2), Nov. 26, 2014, 128 Stat. 2017, related to Regional Rural Investment Boards.
+Section 2009dd–3, Pub. L. 87–128, title III, § 385D, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 405; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1187; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1948; Pub. L. 113–188, title I, § 101(e)(2), Nov. 26, 2014, 128 Stat. 2017, related to Regional Rural Investment Boards.
 
-Section 2009dd–4, Pub. L. 87–128, title III, § 385E, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 407; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1189; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1950, related to regional investment strategy grants.
+Section 2009dd–4, Pub. L. 87–128, title III, § 385E, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 407; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1189; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1950, related to regional investment strategy grants.
 
-Section 2009dd–5, Pub. L. 87–128, title III, § 385F, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 407; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1190; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1951, related to regional innovation grants program.
+Section 2009dd–5, Pub. L. 87–128, title III, § 385F, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 407; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1190; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1951, related to regional innovation grants program.
 
-Section 2009dd–6, Pub. L. 87–128, title III, § 385G, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 408; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1193; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1955, related to rural endowment loans program.
+Section 2009dd–6, Pub. L. 87–128, title III, § 385G, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 408; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1193; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1955, related to rural endowment loans program.
 
-Section 2009dd–7, Pub. L. 87–128, title III, § 385H, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 411; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1194; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1955, authorized appropriations for fiscal years 2009 through 2012.
+Section 2009dd–7, Pub. L. 87–128, title III, § 385H, as added Pub. L. 107–171, title VI, § 6030, May 13, 2002, 116 Stat. 411; amended Pub. L. 110–234, title VI, § 6028, May 22, 2008, 122 Stat. 1194; Pub. L. 110–246, § 4(a), title VI, § 6028, June 18, 2008, 122 Stat. 1664, 1955, authorized appropriations for fiscal years 2009 through 2012.
 
 ## SUBCHAPTER X—SEARCH GRANTS FOR SMALL COMMUNITIES
 
-### §§ 2009ee to 2009ee–3. Repealed. Pub. L. 110–234, title VI, § 6002(b), May 22, 2008, 122 Stat. 1162, and Pub. L. 110–246, § 4(a), title VI, § 6002(b), June 18, 2008, 122 Stat. 1664, 1923
+### §§ 2009ee to 2009ee–3. Repealed. Pub. L. 110–234, title VI, § 6002(b), May 22, 2008, 122 Stat. 1162, and Pub. L. 110–246, § 4(a), title VI, § 6002(b), June 18, 2008, 122 Stat. 1664, 1923
 
-Section 2009ee, Pub. L. 107–171, title VI, § 6301, May 13, 2002, 116 Stat. 421, defined terms.
+Section 2009ee, Pub. L. 107–171, title VI, § 6301, May 13, 2002, 116 Stat. 421, defined terms.
 
-Section 2009ee–1, Pub. L. 107–171, title VI, § 6302, May 13, 2002, 116 Stat. 422, related to SEARCH grant program. See section 1926 of this title.
+Section 2009ee–1, Pub. L. 107–171, title VI, § 6302, May 13, 2002, 116 Stat. 422, related to SEARCH grant program. See section 1926 of this title.
 
-Section 2009ee–2, Pub. L. 107–171, title VI, § 6303, May 13, 2002, 116 Stat. 424, related to annual report on projects.
+Section 2009ee–2, Pub. L. 107–171, title VI, § 6303, May 13, 2002, 116 Stat. 424, related to annual report on projects.
 
-Section 2009ee–3, Pub. L. 107–171, title VI, § 6304, May 13, 2002, 116 Stat. 424, related to funding.
+Section 2009ee–3, Pub. L. 107–171, title VI, § 6304, May 13, 2002, 116 Stat. 424, related to funding.
 
 **Editorial Notes**
 

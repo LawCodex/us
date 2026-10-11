@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 23—TRAINING AND FELLOWSHIP PROGRAMS FOR COMMUNITY DEVELOPMENT
 
-## § 801. Congressional findings and purpose
+## § 801. Congressional findings and purpose
 
 **(a) Need for training and research related to community development**
 
@@ -25,13 +25,13 @@ The Congress finds that the rapid expansion of the Nation’s urban areas and ur
 
 It is the purpose of this chapter to provide fellowships for the graduate training of professional city and regional planning, management, and housing specialists, and professionally trained personnel with a general capacity in urban affairs and problems: to make grants to and contracts with institutions of higher education (or combinations of such institutions) to assist them in planning, developing, strengthening, improving, or carrying out programs or projects for the preparation of graduate or professional students to enter the public service; and to assist and encourage the States and localities, in cooperation with public and private universities and colleges and urban centers and with business firms and associations, labor unions, and other interested associations and organizations, to (1) organize, initiate, develop, and expand programs which will provide special training in skills needed for economic and efficient community development to those technical, professional, and other persons with the capacity to master and employ such skills who are, or are training to be, employed by a governmental or public body which has responsibility for community development, or by a private nonprofit organization which is conducting or has responsibility for housing and community development programs, and (2) support State and local research that is needed in connection with housing programs and needs, public improvement programing, code problems, efficient land use, urban transportation, and similar community development problems.
 
-(Pub. L. 88–560, title VIII, § 801, Sept. 2, 1964, 78 Stat. 802; Pub. L. 90–448, title XVII, § 1707(a), Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 392; Pub. L. 93–383, title IV, § 402(a), Aug. 22, 1974, 88 Stat. 691.)
+(Pub. L. 88–560, title VIII, § 801, Sept. 2, 1964, 78 Stat. 802; Pub. L. 90–448, title XVII, § 1707(a), Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 392; Pub. L. 93–383, title IV, § 402(a), Aug. 22, 1974, 88 Stat. 691.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 93–383, § 402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
+Pub. L. 93–383, § 402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
 
 **Amendments**
 
@@ -43,7 +43,7 @@ Subsec. (b). Pub. L. 91–152 inserted provision that it is the purpose of this 
 
 1968—Subsec. (b). Pub. L. 90–448 provided for cooperation with business firms and associations, labor unions, and other interested associations or organizations, included employment by a private nonprofit organization which is conducting or has responsibility for housing and community development programs, and substituted “technical, professional, and other persons with the capacity to master and employ such skills” for “technical and professional people.”
 
-## § 802. Fellowships for city planning, management, housing specialists, and persons with general capacity in urban affairs and problems
+## § 802. Fellowships for city planning, management, housing specialists, and persons with general capacity in urban affairs and problems
 
 **(a) Criteria**
 
@@ -53,13 +53,13 @@ The Secretary is authorized to provide fellowships for the graduate training of 
 
 There is hereby established the Urban Studies Fellowship Advisory Board (hereinafter referred to as the “Board”), which shall consist of nine members to be appointed by the Secretary as follows: Three from public institutions of higher learning and three from private nonprofit institutions of higher education, who are the heads of departments which provide academic courses appropriately related to the fields referred to in subsection (a), and three from national organizations which are directly concerned with problems relating to urban, regional, and community development. The Board shall meet upon the request of the Secretary and shall make recommendations to him with respect to persons to be selected for fellowships under this section. Members of the Board shall be entitled to receive transportation expenses and a per diem in lieu of subsistence as authorized for members of advisory committees created pursuant to section 1701h of title 12.
 
-(Pub. L. 88–560, title VIII, § 802, Sept. 2, 1964, 78 Stat. 802; Pub. L. 89–117, title XI, § 1103(a), Aug. 10, 1965, 79 Stat. 503; Pub. L. 90–19, § 21(d), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title XVII, § 1707(a)(2), (3), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 392; Pub. L. 93–383, title IV, § 402(b), Aug. 22, 1974, 88 Stat. 691.)
+(Pub. L. 88–560, title VIII, § 802, Sept. 2, 1964, 78 Stat. 802; Pub. L. 89–117, title XI, § 1103(a), Aug. 10, 1965, 79 Stat. 503; Pub. L. 90–19, § 21(d), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title XVII, § 1707(a)(2), (3), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 392; Pub. L. 93–383, title IV, § 402(b), Aug. 22, 1974, 88 Stat. 691.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 93–383, § 402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
+Pub. L. 93–383, § 402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
 
 **Amendments**
 
@@ -79,7 +79,7 @@ Pub. L. 93–383, § 402, provided for amendments to title VIII of the Housing
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-## § 803. Matching grants to States
+## § 803. Matching grants to States
 
 **(a) Purposes** Subject to the provisions of this chapter and in accordance with regulations prescribed by him, the Secretary may make matching grants to States to assist in—
 
@@ -107,7 +107,7 @@ Grants may be made under subsection (a) to support (1) the training of persons, 
 
 No grant may be made under this section for any use unless an amount at least equal to such grant is made available from non-Federal sources for the same purpose and for concurrent use.
 
-(Pub. L. 88–560, title VIII, § 803, Sept. 2, 1964, 78 Stat. 803; Pub. L. 89–117, title XI, § 1103(b), Aug. 10, 1965, 79 Stat. 503; Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 393; Pub. L. 91–609, title IX, § 904, Dec. 31, 1970, 84 Stat. 1809.)
+(Pub. L. 88–560, title VIII, § 803, Sept. 2, 1964, 78 Stat. 803; Pub. L. 89–117, title XI, § 1103(b), Aug. 10, 1965, 79 Stat. 503; Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 393; Pub. L. 91–609, title IX, § 904, Dec. 31, 1970, 84 Stat. 1809.)
 
 **Editorial Notes**
 
@@ -119,7 +119,7 @@ No grant may be made under this section for any use unless an amount at least eq
 
 1965—Pub. L. 89–117 substituted “appropriated for the purposes of this subchapter” for “authorized to be appropriated by section 802(d) of this title”.
 
-## § 803a. Project grants and contracts
+## § 803a. Project grants and contracts
 
 **(a) Authorization; purposes; application**
 
@@ -137,19 +137,19 @@ The Secretary is authorized to make grants to or contracts with institutions of 
 
 **(2)** Payments under this section may be used, in accordance with regulations of the Secretary, and subject to the terms and conditions set forth in an application approved under paragraph (1), to pay part of the compensation of students employed in professions referred to in subsection (a)(1), except students employed in any branch of the Government of the United States, as part of a program for which a grant has been approved pursuant to this subsection.
 
-(Pub. L. 88–560, title VIII, § 804, as added Pub. L. 93–383, title IV, § 402(c)(2), Aug. 22, 1974, 88 Stat. 692.)
+(Pub. L. 88–560, title VIII, § 804, as added Pub. L. 93–383, title IV, § 402(c)(2), Aug. 22, 1974, 88 Stat. 692.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 93–383, § 402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
+Pub. L. 93–383, § 402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
 
-## § 804. Limitation on grants to any one State
+## § 804. Limitation on grants to any one State
 
 Not more than 10 per centum of the total amount appropriated for the purposes of this chapter may be used for making grants to any one State.
 
-(Pub. L. 88–560, title VII, § 805, formerly § 804, Sept. 2, 1964, 78 Stat. 803; Pub. L. 90–19, § 21(d), May 25, 1967, 81 Stat. 26; Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 394; renumbered § 805, Pub. L. 93–383, title IV, § 402(c)(1), Aug. 22, 1974, 88 Stat. 692.)
+(Pub. L. 88–560, title VII, § 805, formerly § 804, Sept. 2, 1964, 78 Stat. 803; Pub. L. 90–19, § 21(d), May 25, 1967, 81 Stat. 26; Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 394; renumbered § 805, Pub. L. 93–383, title IV, § 402(c)(1), Aug. 22, 1974, 88 Stat. 692.)
 
 **Editorial Notes**
 
@@ -159,11 +159,11 @@ Not more than 10 per centum of the total amount appropriated for the purposes of
 
 1967—Pub. L. 90–19 substituted “Secretary” for “Administrator” wherever appearing.
 
-## § 805. Technical assistance, studies, and publication of information
+## § 805. Technical assistance, studies, and publication of information
 
 In order to carry out the purpose of this chapter, the Secretary is authorized to provide technical assistance to State and local governmental or public bodies and to undertake such studies and publish and distribute such information, either directly or by contract, as he shall determine to be desirable. Nothing contained in this chapter shall limit any authority of the Secretary under any other provision of law.
 
-(Pub. L. 88–560, title VIII, § 806, formerly § 805, Sept. 2, 1964, 78 Stat. 803; Pub. L. 90–19, § 21(e), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title XVII, § 1707(b), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 394; renumbered § 806, Pub. L. 93–383, title IV, § 402(c)(1), Aug. 22, 1974, 88 Stat. 692.)
+(Pub. L. 88–560, title VIII, § 806, formerly § 805, Sept. 2, 1964, 78 Stat. 803; Pub. L. 90–19, § 21(e), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title XVII, § 1707(b), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 394; renumbered § 806, Pub. L. 93–383, title IV, § 402(c)(1), Aug. 22, 1974, 88 Stat. 692.)
 
 **Editorial Notes**
 
@@ -175,35 +175,35 @@ In order to carry out the purpose of this chapter, the Secretary is authorized t
 
 1967—Subsec. (a). Pub. L. 90–19 substituted definition of “Secretary” meaning the Secretary of Housing and Urban Development for “Administrator” meaning the Housing and Home Finance Administrator.
 
-## § 806. Authorization of appropriations; availability of funds
+## § 806. Authorization of appropriations; availability of funds
 
 There is authorized to be appropriated for the purpose of making grants and providing fellowships under this chapter, without fiscal year limitation, not to exceed $30,000,000, which amount shall be increased by $3,500,000 on July 1, 1974, and by $3,500,000 on July 1, 1975. Any amounts appropriated under this section shall remain available until expended.
 
-(Pub. L. 88–560, title VIII, § 807, formerly § 806, as added Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 394; renumbered § 807 and amended Pub. L. 93–383, title IV, § 402(c)(1), (d), Aug. 22, 1974, 88 Stat. 692.)
+(Pub. L. 88–560, title VIII, § 807, formerly § 806, as added Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 394; renumbered § 807 and amended Pub. L. 93–383, title IV, § 402(c)(1), (d), Aug. 22, 1974, 88 Stat. 692.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 93–383, § 402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
+Pub. L. 93–383, § 402, provided for amendments to title VIII of the Housing and Urban Development Act of 1964. The amendments of the enumerated sections of such title VIII have been executed to comparable sections of title VIII of the Housing Act of 1964 as the probable intent of Congress.
 
 **Amendments**
 
-1974—Pub. L. 93–383, § 402(d), inserted provisions increasing amount by $3,500,000 on July 1, 1974, and by $3,500,000 on July 1, 1975.
+1974—Pub. L. 93–383, § 402(d), inserted provisions increasing amount by $3,500,000 on July 1, 1974, and by $3,500,000 on July 1, 1975.
 
-## § 807. Definitions; authorization of appropriations for administrative and other expenses
+## § 807. Definitions; authorization of appropriations for administrative and other expenses
 
 **(a)** As used in this chapter the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Virgin Islands; and the term “Secretary” means the Secretary of Housing and Urban Development.
 
 **(b)** There are authorized to be appropriated such sums as may be necessary for administrative and other expenses in carrying out this chapter.
 
-(Pub. L. 88–560, title VIII, § 808, formerly § 807, as added Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 394; renumbered § 808, Pub. L. 93–383, title IV, § 402(c)(1), Aug. 22, 1974, 88 Stat. 692.)
+(Pub. L. 88–560, title VIII, § 808, formerly § 807, as added Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 394; renumbered § 808, Pub. L. 93–383, title IV, § 402(c)(1), Aug. 22, 1974, 88 Stat. 692.)
 
 **Editorial Notes**
 
 **Codification**
 
-This chapter formerly consisted of subchapters I and II prior to its general reorganization by Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 394. Former subchapter II, consisting of section 811, Pub. L. 88–560, VIII, § 810, Sept. 2, 1964, 78 Stat. 803; Pub. L. 90–19, § 21(d), (f), May 25, 1967, 81 Stat. 26; Pub. L. 90–66, Aug. 19, 1967, 81 Stat. 167, was omitted in the general reorganization of this chapter by Pub. L. 91–152. For subject matter of former section 811, see section 802 of this title.
+This chapter formerly consisted of subchapters I and II prior to its general reorganization by Pub. L. 91–152, title III, § 307, Dec. 24, 1969, 83 Stat. 394. Former subchapter II, consisting of section 811, Pub. L. 88–560, VIII, § 810, Sept. 2, 1964, 78 Stat. 803; Pub. L. 90–19, § 21(d), (f), May 25, 1967, 81 Stat. 26; Pub. L. 90–66, Aug. 19, 1967, 81 Stat. 167, was omitted in the general reorganization of this chapter by Pub. L. 91–152. For subject matter of former section 811, see section 802 of this title.
 
 **Executive Documents**
 

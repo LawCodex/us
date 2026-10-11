@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 32—WORKFORCE INNOVATION AND OPPORTUNITY
 
-## § 3101. Purposes
+## § 3101. Purposes
 
 The purposes of this Act are the following:
 
@@ -31,19 +31,19 @@ The purposes of this Act are the following:
 
 **(6)** For purposes of parts A and B of subchapter I, to provide workforce investment activities, through statewide and local workforce development systems, that increase the employment, retention, and earnings of participants, and increase attainment of recognized postsecondary credentials by participants, and as a result, improve the quality of the workforce, reduce welfare dependency, increase economic self-sufficiency, meet the skill requirements of employers, and enhance the productivity and competitiveness of the Nation.
 
-(Pub. L. 113–128, § 2, July 22, 2014, 128 Stat. 1428.)
+(Pub. L. 113–128, § 2, July 22, 2014, 128 Stat. 1428.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 113–128, title V, § 506, July 22, 2014, 128 Stat. 1703, provided that:
+Pub. L. 113–128, title V, § 506, July 22, 2014, 128 Stat. 1703, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this Act, this Act [see Tables for classification], including the amendments made by this Act, shall take effect on the first day of the first full program year after the date of enactment of this Act [July 22, 2014].
 
@@ -87,17 +87,17 @@ Pub. L. 113–128, title V, § 506, July 22, 2014, 128 Stat. 1703, provided th
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–18, § 1, May 22, 2015, 129 Stat. 213, provided that: “This Act [amending sections 780, 3112, 3121, 3122, 3141, 3164, 3172, and 3174 of this title and enacting provisions set out as notes under sections 780 and 3112 of this title] may be cited as the ‘WIOA Technical Amendments Act’.”
+Pub. L. 114–18, § 1, May 22, 2015, 129 Stat. 213, provided that: “This Act [amending sections 780, 3112, 3121, 3122, 3141, 3164, 3172, and 3174 of this title and enacting provisions set out as notes under sections 780 and 3112 of this title] may be cited as the ‘WIOA Technical Amendments Act’.”
 
 **Short Title**
 
-Pub. L. 113–128, § 1(a), July 22, 2014, 128 Stat. 1425, provided that: “This Act [see Tables for classification] may be cited as the ‘Workforce Innovation and Opportunity Act’.”
+Pub. L. 113–128, § 1(a), July 22, 2014, 128 Stat. 1425, provided that: “This Act [see Tables for classification] may be cited as the ‘Workforce Innovation and Opportunity Act’.”
 
-Pub. L. 113–128, title II, § 201, July 22, 2014, 128 Stat. 1608, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Adult Education and Family Literacy Act’.”
+Pub. L. 113–128, title II, § 201, July 22, 2014, 128 Stat. 1608, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘Adult Education and Family Literacy Act’.”
 
 **Declaration of Policy**
 
-Pub. L. 102–367, title I, § 101(a), Sept. 7, 1992, 106 Stat. 1022, provided that:
+Pub. L. 102–367, title I, § 101(a), Sept. 7, 1992, 106 Stat. 1022, provided that:
 
 > “In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to—
 
@@ -111,11 +111,11 @@ Pub. L. 102–367, title I, § 101(a), Sept. 7, 1992, 106 Stat. 1022, provided
 
 **Executive Order No. 13845**
 
-Ex. Ord. No. 13845, July 19, 2018, 83 F.R. 35099, as amended by Ex. Ord. No. 13853, § 5, Dec. 12, 2018, 83 F.R. 65073; Ex. Ord. No. 13931, § 1, June 26, 2020, 85 F.R. 39455, which established the President’s National Council for the American Worker and the American Workforce Policy Advisory Board, was revoked by Ex. Ord. No. 14025, § 4(a), Apr. 26, 2021, 86 F.R. 22831, set out in a note under section 141 of this title.
+Ex. Ord. No. 13845, July 19, 2018, 83 F.R. 35099, as amended by Ex. Ord. No. 13853, § 5, Dec. 12, 2018, 83 F.R. 65073; Ex. Ord. No. 13931, § 1, June 26, 2020, 85 F.R. 39455, which established the President’s National Council for the American Worker and the American Workforce Policy Advisory Board, was revoked by Ex. Ord. No. 14025, § 4(a), Apr. 26, 2021, 86 F.R. 22831, set out in a note under section 141 of this title.
 
-[Ex. Ord. No. 13931, June 26, 2020, 85 F.R. 39455, which continued the President’s National Council for the American Worker and the American Workforce Policy Advisory Board until Sept. 30, 2021, was revoked by Ex. Ord. No. 14025, § 4(a), Apr. 26, 2021, 86 F.R. 22831.]
+[Ex. Ord. No. 13931, June 26, 2020, 85 F.R. 39455, which continued the President’s National Council for the American Worker and the American Workforce Policy Advisory Board until Sept. 30, 2021, was revoked by Ex. Ord. No. 14025, § 4(a), Apr. 26, 2021, 86 F.R. 22831.]
 
-## § 3102. Definitions
+## § 3102. Definitions
 
 In this Act, and the core program provisions that are not in this Act, except as otherwise expressly provided:
 
@@ -591,25 +591,25 @@ The term “workplace learning advisor” means an individual employed by an org
 
 The term “youth workforce investment activity” means an activity described in section 3164 of this title that is carried out for eligible youth (or as described in section 3164(a)(3)(A) of this title).
 
-(Pub. L. 113–128, § 3, July 22, 2014, 128 Stat. 1429; Pub. L. 114–95, title IX, § 9215(yyy)(1), Dec. 10, 2015, 129 Stat. 2191.)
+(Pub. L. 113–128, § 3, July 22, 2014, 128 Stat. 1429; Pub. L. 114–95, title IX, § 9215(yyy)(1), Dec. 10, 2015, 129 Stat. 2191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The National Apprenticeship Act, referred to in par. (7)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
+The National Apprenticeship Act, referred to in par. (7)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
-The Wagner-Peyser Act, referred to in par. (13)(C), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. Sections 1 to 13 of the Act are classified to sections 49 to 49c, 49d, and 49e to 49*l* of this title, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in par. (13)(C), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. Sections 1 to 13 of the Act are classified to sections 49 to 49c, 49d, and 49e to 49*l* of this title, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in par. (13)(D), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in par. (13)(D), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Social Security Act, referred to in pars. (24)(K) and (36)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in pars. (24)(K) and (36)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in par. (36)(A)(i), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in par. (36)(A)(i), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in par. (36)(A)(iv), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in par. (36)(A)(iv), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 **Amendments**
 
@@ -631,7 +631,7 @@ Section effective on the first day of the first full program year after July 22,
 
 #### subpart 1—state provisions
 
-##### § 3111. State workforce development boards
+##### § 3111. State workforce development boards
 
 **(a) In general**
 
@@ -799,15 +799,15 @@ The State board shall establish and apply a set of objective qualifications for 
 
 The director and staff described in paragraph (1) shall be subject to the limitations on the payment of salary and bonuses described in section 3254(15) of this title.
 
-(Pub. L. 113–128, title I, § 101, July 22, 2014, 128 Stat. 1440.)
+(Pub. L. 113–128, title I, § 101, July 22, 2014, 128 Stat. 1440.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsecs. (d)(7)(A) and (e)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (d)(7)(A) and (e)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (e)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (e)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -817,7 +817,7 @@ Section effective on the first day of the first full program year after July 22,
 
 **Telecommunications Workforce Guidance**
 
-Pub. L. 117–58, div. F, title VI, § 60603, Nov. 15, 2021, 135 Stat. 1249, provided that:
+Pub. L. 117–58, div. F, title VI, § 60603, Nov. 15, 2021, 135 Stat. 1249, provided that:
 
 > “Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], the Secretary of Labor, in partnership with the Chairman of the Federal Communications Commission, shall establish and issue guidance on how States can address the workforce needs and safety of the telecommunications industry, including guidance on how a State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3111) can—
 
@@ -827,7 +827,7 @@ Pub. L. 117–58, div. F, title VI, § 60603, Nov. 15, 2021, 135 Stat. 1249, p
 
 > **“(3)** ensure the safety of the telecommunications workforce, including tower climbers.”
 
-##### § 3112. Unified State plan
+##### § 3112. Unified State plan
 
 **(a) Plan**
 
@@ -1007,19 +1007,19 @@ A modified unified State plan submitted for the review required under subparagra
 
 The Secretary of Labor, in conjunction with the Secretary of Education, shall establish a process for approving and may approve unified State plans that meet the requirements of this section and are submitted to cover periods commencing prior to the second full program year described in paragraph (1)(A).
 
-(Pub. L. 113–128, title I, § 102, July 22, 2014, 128 Stat. 1444; Pub. L. 114–18, § 2(e)(1), May 22, 2015, 129 Stat. 213; Pub. L. 114–95, title IX, § 9215(yyy)(2), Dec. 10, 2015, 129 Stat. 2191.)
+(Pub. L. 113–128, title I, § 102, July 22, 2014, 128 Stat. 1444; Pub. L. 114–18, § 2(e)(1), May 22, 2015, 129 Stat. 213; Pub. L. 114–95, title IX, § 9215(yyy)(2), Dec. 10, 2015, 129 Stat. 2191.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2)(C)(vii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2)(C)(vii), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(D)(iii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(D)(iii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(iv), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(iv), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-This Act, referred to in subsec. (b)(2)(E)(v), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (b)(2)(E)(v), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Amendments**
 
@@ -1033,13 +1033,13 @@ Subsec. (b)(2)(D)(ii)(I). Pub. L. 114–95 substituted “with challenging State
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
-Pub. L. 114–18, § 2(f), May 22, 2015, 129 Stat. 214, provided that: “The amendments made by this section [amending this section and sections 3121, 3122, 3141, 3164, 3172, and 3174 of this title] shall take effect as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128].”
+Pub. L. 114–18, § 2(f), May 22, 2015, 129 Stat. 214, provided that: “The amendments made by this section [amending this section and sections 3121, 3122, 3141, 3164, 3172, and 3174 of this title] shall take effect as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128].”
 
 **Effective Date**
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-##### § 3113. Combined State plan
+##### § 3113. Combined State plan
 
 **(a) In general**
 
@@ -1069,9 +1069,9 @@ A State may develop and submit to the appropriate Secretaries a combined State p
 
 **(J)** Employment and training activities carried out under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.).
 
-**(K)** Programs authorized under section 60532 1
+**(K)** Programs authorized under section 60532 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 34.
 
@@ -1125,23 +1125,23 @@ In paragraph (3), the term “criteria for approval of a plan or application”,
 
 **(2)** with respect to the portion of a combined plan relating to a program or activity described in subsection (a)(2) (including a description, and an assurance concerning that program or activity, specified in subsection (b)(3)), the head of the Federal agency who exercises plan or application approval authority for the program or activity under the Federal law authorizing the program or activity, or, if there are no planning or application requirements for such program or activity, exercises administrative authority over the program or activity under that Federal law.
 
-(Pub. L. 113–128, title I, § 103, July 22, 2014, 128 Stat. 1450.)
+(Pub. L. 113–128, title I, § 103, July 22, 2014, 128 Stat. 1450.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (a)(2)(A) and (c)(4), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (a)(2)(A) and (c)(4), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (a)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Trade Act of 1974, referred to in subsec. (a)(2)(E), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 2 of title II of the Act is classified generally to part 2 (§ 2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (a)(2)(E), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 2 of title II of the Act is classified generally to part 2 (§ 2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (a)(2)(H), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a)(2)(H), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-The Community Services Block Grant Act, referred to in subsec. (a)(2)(J), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in subsec. (a)(2)(J), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
 
-Section 60532 of title 34, referred to in subsec. (a)(2)(K), was repealed by Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233.
+Section 60532 of title 34, referred to in subsec. (a)(2)(K), was repealed by Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1151,7 +1151,7 @@ Section effective on the first day of the first full program year after July 22,
 
 #### subpart 2—local provisions
 
-##### § 3121. Workforce development areas
+##### § 3121. Workforce development areas
 
 **(a) Regions**
 
@@ -1231,9 +1231,9 @@ On the request of all of the local areas in a planning region, the State shall p
 
 **(G)** the coordination of services with regional economic development services and providers; and
 
-**(H)** the establishment of an agreement concerning how the planning region will collectively negotiate and reach agreement with Governor 1
+**(H)** the establishment of an agreement concerning how the planning region will collectively negotiate and reach agreement with Governor 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 on local levels of performance for, and report on, the performance accountability measures described in section 3141(c) of this title, for local areas or the planning region.
 
@@ -1271,15 +1271,15 @@ The term “performed successfully”, used with respect to a local area, means 
 
 The term “sustained fiscal integrity”, used with respect to a local area, means that the Secretary has not made a formal determination, during either of the last 2 consecutive years preceding the determination regarding such integrity, that either the grant recipient or the administrative entity of the area misexpended funds provided under part B (or, if applicable, title I of the Workforce Investment Act of 1998 as in effect prior to the effective date of such part B) due to willful disregard of the requirements of the provision involved, gross negligence, or failure to comply with accepted standards of administration.
 
-(Pub. L. 113–128, title I, § 106, July 22, 2014, 128 Stat. 1452; Pub. L. 114–18, § 2(a)(1), May 22, 2015, 129 Stat. 213.)
+(Pub. L. 113–128, title I, § 106, July 22, 2014, 128 Stat. 1452; Pub. L. 114–18, § 2(a)(1), May 22, 2015, 129 Stat. 213.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsecs. (a)(2), (b)(1)(B)(iii), (c)(3), and (d)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (a)(2), (b)(1)(B)(iii), (c)(3), and (d)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsecs. (b)(2), (d)(1), and (e)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to chapter 30 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (b)(2), (d)(1), and (e)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to chapter 30 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 The effective date of such part B, referred to in subsec. (e)(2), is the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
@@ -1291,13 +1291,13 @@ The effective date of such part B, referred to in subsec. (e)(2), is the first d
 
 **Effective Date of 2015 Amendment**
 
-Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
 
 **Effective Date**
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-##### § 3122. Local workforce development boards
+##### § 3122. Local workforce development boards
 
 **(a) Establishment**
 
@@ -1685,19 +1685,19 @@ Nothing in this Act shall be construed to provide a local board with the authori
 
 A reference in this Act or a core program provision to a local board, shall include a reference to such an entity.
 
-(Pub. L. 113–128, title I, § 107, July 22, 2014, 128 Stat. 1456; Pub. L. 114–18, § 2(b), May 22, 2015, 129 Stat. 213.)
+(Pub. L. 113–128, title I, § 107, July 22, 2014, 128 Stat. 1456; Pub. L. 114–18, § 2(b), May 22, 2015, 129 Stat. 213.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsecs. (a), (c)(1)(C), (4)(A), (B)(i), (d)(12)(B)(ii), (iii), (g)(3), and (i)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (a), (c)(1)(C), (4)(A), (B)(i), (d)(12)(B)(ii), (iii), (g)(3), and (i)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(ii), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (b)(2)(D)(ii), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsecs. (b)(2)(D)(iii) and (d)(11)(A), (B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (b)(2)(D)(iii) and (d)(11)(A), (B)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(4)(A)(iii) and (d)(6)(A), (13), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(4)(A)(iii) and (d)(6)(A), (13), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Amendments**
 
@@ -1707,13 +1707,13 @@ The Americans with Disabilities Act of 1990, referred to in subsecs. (b)(4)(A)(i
 
 **Effective Date of 2015 Amendment**
 
-Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
 
 **Effective Date**
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-##### § 3123. Local plan
+##### § 3123. Local plan
 
 **(a) In general**
 
@@ -1821,21 +1821,21 @@ As appropriate, a local area may use an existing analysis in order to carry out 
 
 **(3)** the plan does not align with the State plan, including failing to provide for alignment of the core programs to support the strategy identified in the State plan in accordance with section 3112(b)(1)(E) of this title.
 
-(Pub. L. 113–128, title I, § 108, July 22, 2014, 128 Stat. 1466.)
+(Pub. L. 113–128, title I, § 108, July 22, 2014, 128 Stat. 1466.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (b)(2), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(6)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(6)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (b)(12), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (b)(12), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(14), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(14), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-This Act, referred to in subsecs. (b)(21) and (e)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (b)(21) and (e)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1845,7 +1845,7 @@ Section effective on the first day of the first full program year after July 22,
 
 #### subpart 3—board provisions
 
-##### § 3131. Funding of State and local boards
+##### § 3131. Funding of State and local boards
 
 **(a) State boards** In funding a State board under this part, a State—
 
@@ -1859,7 +1859,7 @@ Section effective on the first day of the first full program year after July 22,
 
 **(2)** may use non-Federal funds available to the local area that the chief elected official and local board determine are appropriate and available for that use.
 
-(Pub. L. 113–128, title I, § 111, July 22, 2014, 128 Stat. 1471.)
+(Pub. L. 113–128, title I, § 111, July 22, 2014, 128 Stat. 1471.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1869,7 +1869,7 @@ Section effective on the first day of the first full program year after July 22,
 
 #### subpart 4—performance accountability
 
-##### § 3141. Performance accountability system
+##### § 3141. Performance accountability system
 
 **(a) Purpose**
 
@@ -2179,31 +2179,31 @@ In measuring the progress of the State on State and local performance accountabi
 
 In carrying out the requirements of this Act, the State shall comply with section 1232g of title 20.
 
-(Pub. L. 113–128, title I, § 116, July 22, 2014, 128 Stat. 1471; Pub. L. 114–18, § 2(c), May 22, 2015, 129 Stat. 213.)
+(Pub. L. 113–128, title I, § 116, July 22, 2014, 128 Stat. 1471; Pub. L. 114–18, § 2(c), May 22, 2015, 129 Stat. 213.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Wagner-Peyser Act, referred to in subsec. (b)(2)(A)(i), (3)(A)(ii)(V), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. Sections 1 to 13 of the Act are classified to sections 49 to 49c, 49d, and 49e to 49*l* of this title, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (b)(2)(A)(i), (3)(A)(ii)(V), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. Sections 1 to 13 of the Act are classified to sections 49 to 49c, 49d, and 49e to 49*l* of this title, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsecs. (b)(2)(A)(i), (3)(A)(ii)(VI) and (e)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (b)(2)(A)(i), (3)(A)(ii)(VI) and (e)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Government Performance and Results Act of 1993, referred to in subsec. (b)(3)(A)(vi), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
-This Act, referred to in subsec. (i)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (i)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Amendments**
 
-2015—Subsec. (b)(2)(A)(iv). Pub. L. 114–18, § 2(c)(1), substituted “clause (i)(VI)” for “clause (i)(IV)”.
+2015—Subsec. (b)(2)(A)(iv). Pub. L. 114–18, § 2(c)(1), substituted “clause (i)(VI)” for “clause (i)(IV)”.
 
-Subsec. (g)(1). Pub. L. 114–18, § 2(c)(2), struck out “for a program described in subsection (d)(2)(A)” after “part B”.
+Subsec. (g)(1). Pub. L. 114–18, § 2(c)(2), struck out “for a program described in subsection (d)(2)(A)” after “part B”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
 
 **Effective Date**
 
@@ -2219,7 +2219,7 @@ In this part, Secretary means the Secretary of Labor, see section 3151(b)(1)(C)(
 
 #### subpart 1—workforce investment activities and providers
 
-##### § 3151. Establishment of one-stop delivery systems
+##### § 3151. Establishment of one-stop delivery systems
 
 **(a) In general** Consistent with an approved State plan, the local board for a local area, with the agreement of the chief elected official for the local area, shall—
 
@@ -2253,9 +2253,9 @@ In this part, Secretary means the Secretary of Labor, see section 3151(b)(1)(C)(
 
 **(iii)** adult education and literacy activities authorized under subchapter II;
 
-**(iv)** programs authorized under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.) (other than section 112 or part C of title I of such Act (29 U.S.C. 732, 741); 1
+**(iv)** programs authorized under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.) (other than section 112 or part C of title I of such Act (29 U.S.C. 732, 741); 1
 
-<sup>1</sup>  So in original. Another closing parenthesis probably should precede the semicolon.
+<sup>1</sup> So in original. Another closing parenthesis probably should precede the semicolon.
 
 **(v)** activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.);
 
@@ -2271,9 +2271,9 @@ In this part, Secretary means the Secretary of Labor, see section 3151(b)(1)(C)(
 
 **(xi)** programs authorized under State unemployment compensation laws (in accordance with applicable Federal law);
 
-**(xii)** programs authorized under section 60532 2
+**(xii)** programs authorized under section 60532 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 of title 34; and
 
@@ -2537,9 +2537,9 @@ The portion of funds required to be contributed under this paragraph from a prog
 
 **(iii) Federal direct spending programs**
 
-For local areas in a State that are not covered by paragraph (1)(A)(i)(I), an entity administering a program funded with direct spending as defined in section 900(c)(8) of title 2, as in effect on February 15, 2014 3
+For local areas in a State that are not covered by paragraph (1)(A)(i)(I), an entity administering a program funded with direct spending as defined in section 900(c)(8) of title 2, as in effect on February 15, 2014 3
 
-<sup>3</sup>  So in original. Probably should be “2014,”.
+<sup>3</sup> So in original. Probably should be “2014,”.
 
 shall not be required to provide, for purposes of this paragraph, an amount in excess of the amount determined under subparagraph (C)(i) to be equivalent to the cost of the proportionate use of the one-stop centers for the one-stop partner for such program in the State.
 
@@ -2579,33 +2579,33 @@ The costs described under paragraph (1) may include costs of services that are a
 
 The method for determining the appropriate portion of funds and noncash resources to be provided by the one-stop partner for each program under paragraph (1) for a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum. The State board shall provide guidance to facilitate the determination, for purposes of the memorandum of understanding, of an appropriate allocation of the funds and noncash resources in local areas, consistent with the requirements of section 3111(d)(6)(C) of this title.
 
-(Pub. L. 113–128, title I, § 121, July 22, 2014, 128 Stat. 1481.)
+(Pub. L. 113–128, title I, § 121, July 22, 2014, 128 Stat. 1481.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Wagner-Peyser Act, referred to in subsecs. (b)(1)(B)(ii), (d)(2)(B)(ii), (e)(1)(E), and (h)(2)(D)(ii)(I), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsecs. (b)(1)(B)(ii), (d)(2)(B)(ii), (e)(1)(E), and (h)(2)(D)(ii)(I), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§ 741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Older Americans Act of 1965, referred to in subsecs. (b)(1)(B)(v) and (h)(2)(D)(i)(II), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (b)(1)(B)(v) and (h)(2)(D)(i)(II), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(1)(B)(vi) and (h)(2)(C)(ii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(1)(B)(vi) and (h)(2)(C)(ii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Trade Act of 1974, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 2 of title II of the Act is classified generally to part 2 (§ 2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 2 of title II of the Act is classified generally to part 2 (§ 2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
-The Community Services Block Grant Act, referred to in subsec. (b)(1)(B)(ix), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in subsec. (b)(1)(B)(ix), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short title note set out under section 9901 of Title 42 and Tables.
 
-Section 60532 of title 34, referred to in subsec. (b)(1)(B)(xii), was repealed by Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233.
+Section 60532 of title 34, referred to in subsec. (b)(1)(B)(xii), was repealed by Pub. L. 115–391, title V, § 504(a), Dec. 21, 2018, 132 Stat. 5233.
 
-The Social Security Act, referred to in subsec. (b)(1)(B)(xiii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(1)(B)(xiii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-This Act, referred to in subsecs. (b)(1)(C)(i) and (f)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (b)(1)(C)(i) and (f)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(vi), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§ 12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(vi), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§ 12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (g)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (g)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2613,7 +2613,7 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (g)(1), is P
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-##### § 3152. Identification of eligible providers of training services
+##### § 3152. Identification of eligible providers of training services
 
 **(a) Eligibility**
 
@@ -2791,15 +2791,15 @@ A one-stop operator in a local area shall collect such performance information f
 
 The Governor and local boards shall implement the requirements of this section not later than 12 months after July 22, 2014. In order to facilitate early implementation of this section, the Governor may establish transition procedures under which providers eligible to provide training services under chapter 5 of subtitle B of title I of the Workforce Investment Act of 1998 [29 U.S.C. 2861 et seq.], as such chapter was in effect on the day before July 22, 2014, may continue to be eligible to provide such services until December 31, 2015, or until such earlier date as the Governor determines to be appropriate.
 
-(Pub. L. 113–128, title I, § 122, July 22, 2014, 128 Stat. 1492.)
+(Pub. L. 113–128, title I, § 122, July 22, 2014, 128 Stat. 1492.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
+The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsecs. (f)(1)(B), (C), and (i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to chapter 30 (§ 2801 et seq.) of this title. Chapter 5 of subtitle B of title I of the Act was classified generally to part E (§ 2861 et seq.) of subchapter II of chapter 30 of this title. For complete classification of this Act to the Code, see Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (f)(1)(B), (C), and (i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to chapter 30 (§ 2801 et seq.) of this title. Chapter 5 of subtitle B of title I of the Act was classified generally to part E (§ 2861 et seq.) of subchapter II of chapter 30 of this title. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2807,7 +2807,7 @@ The Workforce Investment Act of 1998, referred to in subsecs. (f)(1)(B), (C), an
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-##### § 3153. Eligible providers of youth workforce investment activities
+##### § 3153. Eligible providers of youth workforce investment activities
 
 **(a) In general**
 
@@ -2817,7 +2817,7 @@ From the funds allocated under section 3163(b) of this title to a local area, th
 
 A local board may award grants or contracts on a sole-source basis if such board determines there is an insufficient number of eligible providers of youth workforce investment activities in the local area involved (such as a rural area) for grants and contracts to be awarded on a competitive basis under subsection (a).
 
-(Pub. L. 113–128, title I, § 123, July 22, 2014, 128 Stat. 1498.)
+(Pub. L. 113–128, title I, § 123, July 22, 2014, 128 Stat. 1498.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2827,11 +2827,11 @@ Section effective on the first day of the first full program year after July 22,
 
 #### subpart 2—youth workforce investment activities
 
-##### § 3161. General authorization
+##### § 3161. General authorization
 
 The Secretary shall make an allotment under section 3162(b)(1)(C) of this title to each State that meets the requirements of section 3112 or 3113 of this title and a grant under section 3162(b)(1)(B) of this title to each outlying area that complies with the requirements of this subchapter, to assist the State or outlying area, and to enable the State or outlying area to assist local areas, for the purpose of providing workforce investment activities for eligible youth in the State or outlying area and in the local areas.
 
-(Pub. L. 113–128, title I, § 126, July 22, 2014, 128 Stat. 1498.)
+(Pub. L. 113–128, title I, § 126, July 22, 2014, 128 Stat. 1498.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2839,7 +2839,7 @@ The Secretary shall make an allotment under section 3162(b)(1)(C) of this title 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-##### § 3162. State allotments
+##### § 3162. State allotments
 
 **(a) In general** The Secretary shall—
 
@@ -2973,13 +2973,13 @@ For purposes of this subsection, an eligible State means a State that does not h
 
 The Governor shall prescribe uniform procedures for the obligation of funds by local areas within the State in order to avoid the requirement that funds be made available for reallotment under this subsection. The Governor shall further prescribe equitable procedures for making funds available from the State and local areas in the event that a State is required to make funds available for reallotment under this subsection.
 
-(Pub. L. 113–128, title I, § 127, July 22, 2014, 128 Stat. 1498.)
+(Pub. L. 113–128, title I, § 127, July 22, 2014, 128 Stat. 1498.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2987,7 +2987,7 @@ The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-##### § 3163. Within State allocations
+##### § 3163. Within State allocations
 
 **(a) Reservations for statewide activities**
 
@@ -3075,13 +3075,13 @@ In making reallocations to eligible local areas of amounts available pursuant to
 
 For purposes of this subsection, an eligible local area means a local area that does not have an amount available for reallocation under paragraph (2) for the program year for which the determination under paragraph (2) is made.
 
-(Pub. L. 113–128, title I, § 128, July 22, 2014, 128 Stat. 1502.)
+(Pub. L. 113–128, title I, § 128, July 22, 2014, 128 Stat. 1502.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3091,7 +3091,7 @@ Section effective on the first day of the first full program year after July 22,
 
 **Workforce Response Activities**
 
-Pub. L. 116–136, div. A, title III, § 3515, Mar. 27, 2020, 134 Stat. 407, provided that:
+Pub. L. 116–136, div. A, title III, § 3515, Mar. 27, 2020, 134 Stat. 407, provided that:
 
 > **“(a) Administrative Costs.—** Notwithstanding section 128(b)(4) of the Workforce Innovation [and] Opportunity Act (29 U.S.C. 3163(b)(4)), of the total amount allocated to a local area (including the total amount allotted to a single State local area) under subtitle B of title I of such Act (29 U.S.C. 3151 et seq.) for program year 2019, not more than 20 percent of the total amount may be used for the administrative costs of carrying out local workforce investment activities under chapter 2 [29 U.S.C. 3161 et seq.] or chapter 3 [29 U.S.C. 3171 et seq.] of subtitle B of title I of such Act, if the portion of the total amount that exceeds 10 percent of the total amount is used to respond to a qualifying emergency.
 
@@ -3105,7 +3105,7 @@ Pub. L. 116–136, div. A, title III, § 3515, Mar. 27, 2020, 134 Stat. 407, p
 
 [For definitions of “qualifying emergency” and “coronavirus” as used in section 3515 of Pub. L. 116–136, set out above, see section 3502 of Pub. L. 116–136, set out in a note under section 1001 of Title 20, Education.]
 
-##### § 3164. Use of funds for youth workforce investment activities
+##### § 3164. Use of funds for youth workforce investment activities
 
 **(a) Youth participant eligibility**
 
@@ -3135,9 +3135,9 @@ To be eligible to participate in activities carried out under this subpart durin
 
 **(IV)** An individual who is subject to the juvenile or adult justice system.
 
-**(V)** A homeless individual (as defined in section 12473(6) of title 34), a homeless child or youth (as defined in section 11434a(2) of title 42), a runaway, in foster care or has 1
+**(V)** A homeless individual (as defined in section 12473(6) of title 34), a homeless child or youth (as defined in section 11434a(2) of title 42), a runaway, in foster care or has 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “who”.
+<sup>1</sup> So in original. Probably should be preceded by “who”.
 
 aged out of the foster care system, a child eligible for assistance under section 677 of title 42, or in an out-of-home placement.
 
@@ -3163,7 +3163,7 @@ aged out of the foster care system, a child eligible for assistance under sectio
 
 **(III)** An offender.
 
-**(IV)** A homeless individual (as defined in section 12473(6) of title 34), a homeless child or youth (as defined in section 11434a(2) of title 42), a runaway, in foster care or has <sup>1</sup> aged out of the foster care system, a child eligible for assistance under section 677 of title 42, or in an out-of-home placement.
+**(IV)** A homeless individual (as defined in section 12473(6) of title 34), a homeless child or youth (as defined in section 11434a(2) of title 42), a runaway, in foster care or has <sup>1</sup> aged out of the foster care system, a child eligible for assistance under section 677 of title 42, or in an out-of-home placement.
 
 **(V)** Pregnant or parenting.
 
@@ -3271,9 +3271,9 @@ Not more than 5 percent of the funds allotted to a State under section 3162(b)(1
 
 **(ii)** preparation for postsecondary educational and training opportunities;
 
-**(iii)** strong linkages between academic instruction (based on challenging State academic standards established under section 6311(b)(1) of title 20 2
+**(iii)** strong linkages between academic instruction (based on challenging State academic standards established under section 6311(b)(1) of title 20 2
 
-<sup>2</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>2</sup> So in original. Probably should be followed by a closing parenthesis.
 
 and occupational education that lead to the attainment of recognized postsecondary credentials;
 
@@ -3363,13 +3363,13 @@ In coordinating the programs authorized under this section, local boards shall e
 
 The local board shall make opportunities available for individuals who have successfully participated in programs carried out under this section to volunteer assistance to participants in the form of mentoring, tutoring, and other activities.
 
-(Pub. L. 113–128, title I, § 129, July 22, 2014, 128 Stat. 1504; Pub. L. 114–18, § 2(e)(2), May 22, 2015, 129 Stat. 213; Pub. L. 114–95, title IX, § 9215(yyy)(3), Dec. 10, 2015, 129 Stat. 2192.)
+(Pub. L. 113–128, title I, § 129, July 22, 2014, 128 Stat. 1504; Pub. L. 114–18, § 2(e)(2), May 22, 2015, 129 Stat. 213; Pub. L. 114–95, title IX, § 9215(yyy)(3), Dec. 10, 2015, 129 Stat. 2192.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Amendments**
 
@@ -3383,7 +3383,7 @@ Subsec. (c)(1)(C)(iii). Pub. L. 114–95 substituted “(based on challenging St
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
 
-Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
 
 **Effective Date**
 
@@ -3391,11 +3391,11 @@ Section effective on the first day of the first full program year after July 22,
 
 #### subpart 3—adult and dislocated worker employment and training activities
 
-##### § 3171. General authorization
+##### § 3171. General authorization
 
 The Secretary shall make allotments under paragraphs (1)(B) and (2)(B) of section 3172(b) of this title to each State that meets the requirements of section 3112 or 3113 of this title and grants under paragraphs (1)(A) and (2)(A) of section 3172(b) of this title to each outlying area that complies with the requirements of this subchapter, to assist the State or outlying area, and to enable the State or outlying area to assist local areas, for the purpose of providing workforce investment activities for adults, and dislocated workers, in the State or outlying area and in the local areas.
 
-(Pub. L. 113–128, title I, § 131, July 22, 2014, 128 Stat. 1511.)
+(Pub. L. 113–128, title I, § 131, July 22, 2014, 128 Stat. 1511.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3405,7 +3405,7 @@ Section effective on the first day of the first full program year after July 22,
 
 **Veterans Energy-Related Employment Program**
 
-Pub. L. 111–275, title I, § 106, Oct. 13, 2010, 124 Stat. 2870, provided that:
+Pub. L. 111–275, title I, § 106, Oct. 13, 2010, 124 Stat. 2870, provided that:
 
 > **“(a) Establishment of Pilot Program.—** To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veterans Workforce Investment Program, shall carry out a pilot program to be known as the ‘Veterans Energy-Related Employment Program’. Under the pilot program, the Secretary shall award competitive grants to not more than three States for the establishment and administration of a State program to make grants to energy employers that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a ‘State Energy-Related Employment Program’.
 
@@ -3487,7 +3487,7 @@ Pub. L. 111–275, title I, § 106, Oct. 13, 2010, 124 Stat. 2870, provided th
 
 **Coordination of Information and Assistance**
 
-Pub. L. 100–689, title IV, § 402, Nov. 18, 1988, 100 Stat. 4178, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(24), (f)(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
+Pub. L. 100–689, title IV, § 402, Nov. 18, 1988, 100 Stat. 4178, as amended by Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(24), (f)(16)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
 
 > **“(a) Purpose.—** It is the purpose of this section to ensure that veterans who are dislocated workers eligible for assistance under title I of the Workforce Investment Act of 1998 [former 29 U.S.C. 2801 et seq.] or are otherwise unemployed receive, to the extent feasible, assistance (including information on vocational guidance or vocational counseling, or information on both vocational guidance or vocational counseling), including information on counseling, needed by such veterans—
 
@@ -3537,7 +3537,7 @@ Pub. L. 100–689, title IV, § 402, Nov. 18, 1988, 100 Stat. 4178, as amended
 
 **Veterans’ Job Training Act**
 
-Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, § 704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, § 212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, § 4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, § 201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, § 901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, § 201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§ 11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(25), (f)(17)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
+Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, title VII, § 704, Nov. 21, 1983, 97 Stat. 1011; Pub. L. 98–543, title II, § 212, Oct. 24, 1984, 98 Stat. 2744; Pub. L. 99–108, § 4, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–238, title II, § 201(a)(1), (b)–(e), Jan. 13, 1986, 99 Stat. 1767, 1768; Pub. L. 100–77, title IX, § 901, July 22, 1987, 101 Stat. 538; Pub. L. 100–227, title II, § 201, Dec. 31, 1987, 101 Stat. 1555; Pub. L. 100–323, §§ 11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, 102 Stat. 567–570, 574; Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, § 5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(25), (f)(17)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–423, 2681–432, provided that:
 
 > **“short title**
 
@@ -3913,7 +3913,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 [Amendment of Pub. L. 98–77, set out above, by Pub. L. 100–323 effective on 60th day after May 20, 1988, see section 16(b)(2) of Pub. L. 100–323, set out as a note under section 3104 of Title 38, Veterans’ Benefits.]
 
-[Pub. L. 99–238, title II, § 201(f), Jan. 13, 1986, 99 Stat. 1768, provided that:
+[Pub. L. 99–238, title II, § 201(f), Jan. 13, 1986, 99 Stat. 1768, provided that:
 
 [“(1) Except as provided in paragraph (2), the amendments made by this section [amending Pub. L. 98–77 above] shall take effect on the date of the enactment of this Act [Jan. 13, 1986].
 
@@ -3923,7 +3923,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 For provisions requiring coordination of programs under section 3116(b) of Title 38, Veterans’ Benefits, with programs under the Veterans’ Job Training Act, Pub. L. 98–77, set out above, see section 202 of Pub. L. 99–238, set out as a note under section 3116 of Title 38.
 
-##### § 3172. State allotments
+##### § 3172. State allotments
 
 **(a) In general** The Secretary shall—
 
@@ -4093,13 +4093,13 @@ In making reallotments to eligible States of amounts available pursuant to parag
 
 The Governor shall prescribe uniform procedures for the obligation of funds by local areas within the State in order to avoid the requirement that funds be made available for reallotment under this subsection. The Governor shall further prescribe equitable procedures for making funds available from the State and local areas in the event that a State is required to make funds available for reallotment under this subsection.
 
-(Pub. L. 113–128, title I, § 132, July 22, 2014, 128 Stat. 1511; Pub. L. 114–18, § 2(d), May 22, 2015, 129 Stat. 213.)
+(Pub. L. 113–128, title I, § 132, July 22, 2014, 128 Stat. 1511; Pub. L. 114–18, § 2(d), May 22, 2015, 129 Stat. 213.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Amendments**
 
@@ -4109,13 +4109,13 @@ The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 
 
 **Effective Date of 2015 Amendment**
 
-Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
 
 **Effective Date**
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-##### § 3173. Within State allocations
+##### § 3173. Within State allocations
 
 **(a) Reservations for State activities**
 
@@ -4241,13 +4241,13 @@ The Governor may, in accordance with this subsection and after consultation with
 
 **(B)** with respect to funds allocated through a local allocation for dislocated worker employment and training activities, a local area that does not have an amount of such funds available for reallocation under paragraph (2) for the program year for which the determination under paragraph (2) is made.
 
-(Pub. L. 113–128, title I, § 133, July 22, 2014, 128 Stat. 1516.)
+(Pub. L. 113–128, title I, § 133, July 22, 2014, 128 Stat. 1516.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4255,7 +4255,7 @@ The Workforce Investment Act of 1998, referred to in subsec. (c)(1), is Pub. L. 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-##### § 3174. Use of funds for employment and training activities
+##### § 3174. Use of funds for employment and training activities
 
 **(a) Statewide employment and training activities**
 
@@ -4767,7 +4767,7 @@ Employers participating in the program carried out under this paragraph shall be
 
 Subject to clause (ii), the local board shall establish the non-Federal share of such cost (taking into consideration such other factors as the number of employees participating in the training, the wage and benefit levels of the employees (at the beginning and anticipated upon completion of the training), the relationship of the training to the competitiveness of the employer and employees, and the availability of other employer-provided training and advancement opportunities.1
 
-<sup>1</sup>  So in original. A closing parenthesis probably should precede the period.
+<sup>1</sup> So in original. A closing parenthesis probably should precede the period.
 
 **(ii) Limits** The non-Federal share shall not be less than—
 
@@ -4789,27 +4789,27 @@ The non-Federal share provided by an employer participating in the program may i
 
 **(C)** are designed to assist the individuals described in subparagraph (A) to establish a work history, demonstrate success in the workplace, and develop the skills that lead to entry into and retention in unsubsidized employment.
 
-(Pub. L. 113–128, title I, § 134, July 22, 2014, 128 Stat. 1520; Pub. L. 114–18, § 2(e)(3), May 22, 2015, 129 Stat. 214; Pub. L. 115–224, title III, § 303, July 31, 2018, 132 Stat. 1623.)
+(Pub. L. 113–128, title I, § 134, July 22, 2014, 128 Stat. 1520; Pub. L. 114–18, § 2(e)(3), May 22, 2015, 129 Stat. 214; Pub. L. 115–224, title III, § 303, July 31, 2018, 132 Stat. 1623.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsecs. (a)(2)(B)(i)(I) and (c)(2)(A)(xi), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (a)(2)(B)(i)(I) and (c)(2)(A)(xi), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(2)(B)(v)(VI), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(2)(B)(v)(VI), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Social Security Act, referred to in subsecs. (a)(3)(A)(viii)(II)(aa), (c)(2)(A)(ix)(I), and (d)(1)(A)(vi)(I), (II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§ 601 et seq.) and D (§ 651 et seq.), respectively, of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(A)(viii)(II)(aa), (c)(2)(A)(ix)(I), and (d)(1)(A)(vi)(I), (II), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§ 601 et seq.) and D (§ 651 et seq.), respectively, of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsecs. (a)(3)(A)(viii)(II)(cc), (c)(2)(A)(vii), and (d)(1)(A)(xi), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part B of chapter 1 of title VII of the Act is classified generally to subpart 2 (§ 796e et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (a)(3)(A)(viii)(II)(cc), (c)(2)(A)(vii), and (d)(1)(A)(xi), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part B of chapter 1 of title VII of the Act is classified generally to subpart 2 (§ 796e et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Wagner-Peyser Act, referred to in (c)(1)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in (c)(1)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (c)(2)(A)(vii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (c)(2)(A)(vii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(A)(ix)(I), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(A)(ix)(I), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (c)(3)(B)(i)(I), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(3)(B)(i)(I), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§ 1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 **Amendments**
 
@@ -4825,7 +4825,7 @@ Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 
 
 **Effective Date of 2015 Amendment**
 
-Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
+Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under section 3112 of this title.
 
 **Effective Date**
 
@@ -4833,7 +4833,7 @@ Section effective on the first day of the first full program year after July 22,
 
 #### subpart 4—general workforce investment provisions
 
-##### § 3181. Authorization of appropriations
+##### § 3181. Authorization of appropriations
 
 **(a) Youth workforce investment activities**
 
@@ -4847,7 +4847,7 @@ There are authorized to be appropriated to carry out the activities described in
 
 There are authorized to be appropriated to carry out the activities described in section 3172(a)(2) of this title, $1,222,457,000 for fiscal year 2015, $1,316,880,000 for fiscal year 2016, $1,344,205,000 for fiscal year 2017, $1,374,019,000 for fiscal year 2018, $1,406,322,000 for fiscal year 2019, and $1,436,137,000 for fiscal year 2020.
 
-(Pub. L. 113–128, title I, § 136, July 22, 2014, 128 Stat. 1537.)
+(Pub. L. 113–128, title I, § 136, July 22, 2014, 128 Stat. 1537.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4863,7 +4863,7 @@ Section effective on the first day of the first full program year after July 22,
 
 In this part, “Secretary” means the Secretary of Labor, see section 3151(b)(1)(C)(ii)(II) of this title.
 
-#### § 3191. Purposes
+#### § 3191. Purposes
 
 The purposes of this part are—
 
@@ -4883,7 +4883,7 @@ The purposes of this part are—
 
 **(4)** to prescribe various other powers, duties, and responsibilities incident to the operation and continuing development of the Job Corps.
 
-(Pub. L. 113–128, title I, § 141, July 22, 2014, 128 Stat. 1537.)
+(Pub. L. 113–128, title I, § 141, July 22, 2014, 128 Stat. 1537.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4891,7 +4891,7 @@ The purposes of this part are—
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3192. Definitions
+#### § 3192. Definitions
 
 In this part:
 
@@ -4937,7 +4937,7 @@ The term “region” means an area defined by the Secretary.
 
 The term “service provider” means an entity selected under this part to provide services described in this part to a Job Corps center.
 
-(Pub. L. 113–128, title I, § 142, July 22, 2014, 128 Stat. 1538.)
+(Pub. L. 113–128, title I, § 142, July 22, 2014, 128 Stat. 1538.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4945,11 +4945,11 @@ The term “service provider” means an entity selected under this part to prov
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3193. Establishment
+#### § 3193. Establishment
 
 There shall be within the Department of Labor a “Job Corps”.
 
-(Pub. L. 113–128, title I, § 143, July 22, 2014, 128 Stat. 1539.)
+(Pub. L. 113–128, title I, § 143, July 22, 2014, 128 Stat. 1539.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4957,21 +4957,21 @@ There shall be within the Department of Labor a “Job Corps”.
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3193a. Transfer of administration of Job Corps program to Employment and Training Administration
+#### § 3193a. Transfer of administration of Job Corps program to Employment and Training Administration
 
-The Secretary of Labor shall submit to the Committees on Appropriations of the House of Representatives and the Senate a plan for the transfer of the administration of the Job Corps program authorized under title I–C of the Workforce Investment Act of 1998 1
+The Secretary of Labor shall submit to the Committees on Appropriations of the House of Representatives and the Senate a plan for the transfer of the administration of the Job Corps program authorized under title I–C of the Workforce Investment Act of 1998 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 from the Office of the Secretary to the Employment and Training Administration. As of the date that is 30 days after the date of submission of such plan, the Secretary may transfer the administration and appropriated funds of the program from the Office of the Secretary and the provisions of section 2883a of this title shall no longer be applicable.
 
-(Pub. L. 111–117, div. D, title I, § 108, Dec. 16, 2009, 123 Stat. 3238.)
+(Pub. L. 111–117, div. D, title I, § 108, Dec. 16, 2009, 123 Stat. 3238.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I–C of the Act probably means subtitle C of title I of Pub. L. 105–220, which was classified generally to subchapter III (former § 2881 et seq.) of former chapter 30 of this title. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in text, is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I–C of the Act probably means subtitle C of title I of Pub. L. 105–220, which was classified generally to subchapter III (former § 2881 et seq.) of former chapter 30 of this title. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 Section 2883a of this title, referred to in text, was omitted from the Code pursuant to this section.
 
@@ -4981,7 +4981,7 @@ Section was enacted as part of the Department of Labor Appropriations Act, 2010,
 
 Section was formerly classified to section 2883b of this title.
 
-#### § 3194. Individuals eligible for the Job Corps
+#### § 3194. Individuals eligible for the Job Corps
 
 **(a) In general** To be eligible to become an enrollee, an individual shall be—
 
@@ -5011,13 +5011,13 @@ Section was formerly classified to section 2883b of this title.
 
 **(1)** meets the requirements of paragraphs (1) and (3) of such subsection; and
 
-**(2)** does not meet the requirement of subsection (a)(2) because the military income earned by such individual within the 6-month period prior to the individual’s application for Job 1
+**(2)** does not meet the requirement of subsection (a)(2) because the military income earned by such individual within the 6-month period prior to the individual’s application for Job 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 Corps prevents the individual from meeting such requirement.
 
-(Pub. L. 113–128, title I, § 144, July 22, 2014, 128 Stat. 1539; Pub. L. 114–22, title VI, § 604, May 29, 2015, 129 Stat. 260.)
+(Pub. L. 113–128, title I, § 144, July 22, 2014, 128 Stat. 1539; Pub. L. 114–22, title VI, § 604, May 29, 2015, 129 Stat. 260.)
 
 **Editorial Notes**
 
@@ -5033,7 +5033,7 @@ Section effective on the first day of the first full program year after July 22,
 
 **Job Corps Flexibilities During Qualifying Emergency**
 
-Pub. L. 116–260, div. N, title VI, § 601, Dec. 27, 2020, 134 Stat. 2091, provided that:
+Pub. L. 116–260, div. N, title VI, § 601, Dec. 27, 2020, 134 Stat. 2091, provided that:
 
 > **“(a) Enrollment.—** During the period beginning on the date of enactment of this Act [Dec. 27, 2020] and ending when all qualifying emergencies have expired, notwithstanding any other provision of law, the requirements described in sections 145(a)(2)(A) and 152(b)(2)(B) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3195(a)(2)(A), 3202(b)(2)(B)) shall be applicable only for enrollees in the Job Corps—
 
@@ -5049,7 +5049,7 @@ Pub. L. 116–260, div. N, title VI, § 601, Dec. 27, 2020, 134 Stat. 2091, pr
 
 > **“(c) Qualifying Emergency Defined.—** In this section, the term ‘qualifying emergency’ has the meaning given the term in section 3502(a)(4) of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136 [20 U.S.C. 1001 note]).”
 
-#### § 3195. Recruitment, screening, selection, and assignment of enrollees
+#### § 3195. Recruitment, screening, selection, and assignment of enrollees
 
 **(a) Standards and procedures**
 
@@ -5117,9 +5117,9 @@ An individual shall not be selected as an enrollee if the individual has been co
 
 **(2) Analysis** In order to develop the plan described in paragraph (1), every 2 years the Secretary, in consultation with operators of Job Corps centers, shall analyze relevant factors relating to each Job Corps center, including—
 
-**(A)** the size of the population of individuals eligible to participate in Job 1
+**(A)** the size of the population of individuals eligible to participate in Job 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 Corps in the State and region in which the Job Corps center is located, and in surrounding regions;
 
@@ -5141,7 +5141,7 @@ Corps in the State and region in which the Job Corps center is located, and in s
 
 An enrollee who is younger than 18 shall not be assigned to a Job Corps center other than the center closest to the home that offers the career and technical education and training desired by the enrollee pursuant to paragraph (1) if the parent or guardian of the enrollee objects to the assignment.
 
-(Pub. L. 113–128, title I, § 145, July 22, 2014, 128 Stat. 1539.)
+(Pub. L. 113–128, title I, § 145, July 22, 2014, 128 Stat. 1539.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5149,7 +5149,7 @@ An enrollee who is younger than 18 shall not be assigned to a Job Corps center o
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3196. Enrollment
+#### § 3196. Enrollment
 
 **(a) Relationship between enrollment and military obligations**
 
@@ -5165,13 +5165,13 @@ Enrollment in the Job Corps shall not relieve any individual of obligations unde
 
 **(4)** as the Secretary may authorize in a special case.
 
-(Pub. L. 113–128, title I, § 146, July 22, 2014, 128 Stat. 1542.)
+(Pub. L. 113–128, title I, § 146, July 22, 2014, 128 Stat. 1542.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§ 3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Military Selective Service Act, referred to in subsec. (a), is act June 24, 1948, ch. 625, 62 Stat. 604, which was classified principally to section 451 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 49 (§ 3801 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5179,7 +5179,7 @@ The Military Selective Service Act, referred to in subsec. (a), is act June 24, 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3197. Job Corps centers
+#### § 3197. Job Corps centers
 
 **(a) Operators and service providers**
 
@@ -5341,13 +5341,13 @@ If the Secretary exercises an option under paragraph (2), the Secretary shall pr
 
 **(D)** is otherwise qualified and eligible under applicable laws and regulations, including that the contractor is not under suspension or debarred from eligibility for Federal contracts.
 
-(Pub. L. 113–128, title I, § 147, July 22, 2014, 128 Stat. 1542.)
+(Pub. L. 113–128, title I, § 147, July 22, 2014, 128 Stat. 1542.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(3)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Subtitle C of title I of the Act was classified generally to subchapter III (§ 2881 et seq.) of chapter 30 of this title. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(3)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Subtitle C of title I of the Act was classified generally to subchapter III (§ 2881 et seq.) of chapter 30 of this title. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (d)(2), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see section 661(a) of Title 16, Short Title note set out under section 661 of Title 16, and Tables.
 
@@ -5357,7 +5357,7 @@ The Fish and Wildlife Coordination Act, referred to in subsec. (d)(2), is act Ma
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3198. Program activities
+#### § 3198. Program activities
 
 **(a) Activities provided by Job Corps centers**
 
@@ -5405,7 +5405,7 @@ In order to promote the retention of graduates in employment or postsecondary ed
 
 The Secretary shall, to the extent practicable, provide child care at or near Job Corps centers, for individuals who require child care for their children in order to participate in the Job Corps.
 
-(Pub. L. 113–128, title I, § 148, July 22, 2014, 128 Stat. 1547.)
+(Pub. L. 113–128, title I, § 148, July 22, 2014, 128 Stat. 1547.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5413,7 +5413,7 @@ The Secretary shall, to the extent practicable, provide child care at or near Jo
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3199. Counseling and job placement
+#### § 3199. Counseling and job placement
 
 **(a) Assessment and counseling**
 
@@ -5431,7 +5431,7 @@ The Secretary shall determine the status and progress of enrollees scheduled for
 
 The Secretary may provide such services as the Secretary determines to be appropriate under this part to former enrollees.
 
-(Pub. L. 113–128, title I, § 149, July 22, 2014, 128 Stat. 1548.)
+(Pub. L. 113–128, title I, § 149, July 22, 2014, 128 Stat. 1548.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5439,7 +5439,7 @@ The Secretary may provide such services as the Secretary determines to be approp
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3200. Support
+#### § 3200. Support
 
 **(a) Personal allowances**
 
@@ -5453,7 +5453,7 @@ The Secretary shall arrange for a transition allowance to be paid to graduates. 
 
 The Secretary may arrange for the provision of 3 months of employment services for former enrollees.
 
-(Pub. L. 113–128, title I, § 150, July 22, 2014, 128 Stat. 1549.)
+(Pub. L. 113–128, title I, § 150, July 22, 2014, 128 Stat. 1549.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5461,7 +5461,7 @@ The Secretary may arrange for the provision of 3 months of employment services f
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3201. Operations
+#### § 3201. Operations
 
 **(a) Operating plan**
 
@@ -5475,7 +5475,7 @@ The Secretary may require the operator, in order to remain eligible to operate t
 
 The Secretary shall make the operating plan described in subsections (a) and (b), excluding any proprietary information, available to the public.
 
-(Pub. L. 113–128, title I, § 151, July 22, 2014, 128 Stat. 1549.)
+(Pub. L. 113–128, title I, § 151, July 22, 2014, 128 Stat. 1549.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5483,7 +5483,7 @@ The Secretary shall make the operating plan described in subsections (a) and (b)
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3202. Standards of conduct
+#### § 3202. Standards of conduct
 
 **(a) Provision and enforcement**
 
@@ -5519,7 +5519,7 @@ The term “zero tolerance policy” means a policy under which an enrollee shal
 
 A disciplinary measure taken by a director under this section shall be subject to expeditious appeal in accordance with procedures established by the Secretary.
 
-(Pub. L. 113–128, title I, § 152, July 22, 2014, 128 Stat. 1549.)
+(Pub. L. 113–128, title I, § 152, July 22, 2014, 128 Stat. 1549.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5527,7 +5527,7 @@ A disciplinary measure taken by a director under this section shall be subject t
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3203. Community participation
+#### § 3203. Community participation
 
 **(a) Business and community participation**
 
@@ -5561,7 +5561,7 @@ The director of each Job Corps center shall ensure the establishment and develop
 
 The director of a Job Corps center that is not yet operating shall ensure the establishment and development of the relationships and networks described in subsection (b) at least 3 months prior to the date on which the center accepts the first enrollee at the center.
 
-(Pub. L. 113–128, title I, § 153, July 22, 2014, 128 Stat. 1550.)
+(Pub. L. 113–128, title I, § 153, July 22, 2014, 128 Stat. 1550.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5569,7 +5569,7 @@ The director of a Job Corps center that is not yet operating shall ensure the es
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3204. Workforce councils
+#### § 3204. Workforce councils
 
 **(a) In general**
 
@@ -5621,7 +5621,7 @@ In the case of a single State local area designated under section 3121(d) of thi
 
 The workforce council for a Job Corps center that is not yet operating shall carry out the responsibilities described in subsection (c) at least 3 months prior to the date on which the center accepts the first enrollee at the center.
 
-(Pub. L. 113–128, title I, § 154, July 22, 2014, 128 Stat. 1551.)
+(Pub. L. 113–128, title I, § 154, July 22, 2014, 128 Stat. 1551.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5629,11 +5629,11 @@ The workforce council for a Job Corps center that is not yet operating shall car
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3205. Advisory committees
+#### § 3205. Advisory committees
 
 The Secretary may establish and use advisory committees in connection with the operation of the Job Corps program, and the operation of Job Corps centers, whenever the Secretary determines that the availability of outside advice and counsel on a regular basis would be of substantial benefit in identifying and overcoming problems, in planning program or center development, or in strengthening relationships between the Job Corps and agencies, institutions, or groups engaged in related activities.
 
-(Pub. L. 113–128, title I, § 155, July 22, 2014, 128 Stat. 1552.)
+(Pub. L. 113–128, title I, § 155, July 22, 2014, 128 Stat. 1552.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5641,7 +5641,7 @@ The Secretary may establish and use advisory committees in connection with the o
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3206. Experimental projects and technical assistance
+#### § 3206. Experimental projects and technical assistance
 
 **(a) Projects**
 
@@ -5659,7 +5659,7 @@ The Secretary may carry out experimental, research, or demonstration projects re
 
 **(2)** assisting entities, including entities not currently operating a Job Corps center, in developing the additional selection factors information described in section 3197(a)(3) of this title.
 
-(Pub. L. 113–128, title I, § 156, July 22, 2014, 128 Stat. 1552.)
+(Pub. L. 113–128, title I, § 156, July 22, 2014, 128 Stat. 1552.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5667,7 +5667,7 @@ The Secretary may carry out experimental, research, or demonstration projects re
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3207. Application of provisions of Federal law
+#### § 3207. Application of provisions of Federal law
 
 **(a) Enrollees not considered to be Federal employees**
 
@@ -5695,13 +5695,13 @@ Whenever the Secretary finds a claim for damages to a person or property resulti
 
 Personnel of the uniformed services who are detailed or assigned to duty in the performance of agreements made by the Secretary for the support of the Job Corps shall not be counted in computing strength under any law limiting the strength of such services or in computing the percentage authorized by law for any grade in such services.
 
-(Pub. L. 113–128, title I, § 157, July 22, 2014, 128 Stat. 1552.)
+(Pub. L. 113–128, title I, § 157, July 22, 2014, 128 Stat. 1552.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5709,7 +5709,7 @@ The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3208. Special provisions
+#### § 3208. Special provisions
 
 **(a) Enrollment**
 
@@ -5745,13 +5745,13 @@ The Secretary may accept on behalf of the Job Corps or individual Job Corps cent
 
 Notwithstanding any other provision of law, if the Administrator of General Services sells a Job Corps center facility, the Administrator shall transfer the proceeds from the sale to the Secretary, who shall use the proceeds to carry out the Job Corps program.
 
-(Pub. L. 113–128, title I, § 158, July 22, 2014, 128 Stat. 1553.)
+(Pub. L. 113–128, title I, § 158, July 22, 2014, 128 Stat. 1553.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5759,7 +5759,7 @@ This Act, referred to in subsec. (c)(1), is Pub. L. 113–128, July 22, 2014, 12
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3209. Management information
+#### § 3209. Management information
 
 **(a) Financial management information system**
 
@@ -5915,13 +5915,13 @@ The Secretary shall include in the report described in subsection (c)(4) availab
 
 **(3)** that the Member of Congress who represents the district in which such center is located is notified within a reasonable period of time in advance of any final decision to close the center.
 
-(Pub. L. 113–128, title I, § 159, July 22, 2014, 128 Stat. 1554.)
+(Pub. L. 113–128, title I, § 159, July 22, 2014, 128 Stat. 1554.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 651 of this title and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 651 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5929,7 +5929,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (g)(2), i
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3210. General provisions
+#### § 3210. General provisions
 
 The Secretary is authorized to—
 
@@ -5947,7 +5947,7 @@ The Secretary is authorized to—
 
 **(ii)** prior to having given written notification to the Administrator of General Services (if the expenditure would affect an activity that otherwise would be under the jurisdiction of the General Services Administration) of the intention of the Secretary to make the expenditure, and the reasons and justifications for the expenditure.
 
-(Pub. L. 113–128, title I, § 160, July 22, 2014, 128 Stat. 1558.)
+(Pub. L. 113–128, title I, § 160, July 22, 2014, 128 Stat. 1558.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5955,7 +5955,7 @@ The Secretary is authorized to—
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3211. Job Corps oversight and reporting
+#### § 3211. Job Corps oversight and reporting
 
 **(a) Temporary financial reporting**
 
@@ -5995,7 +5995,7 @@ By not later than December 1, 2014, the Secretary shall establish written criter
 
 **(4)** the Subcommittee on Labor, Health and Human Services, Education, and Related Agencies of the Committee of Appropriations of the Senate.
 
-(Pub. L. 113–128, title I, § 161, July 22, 2014, 128 Stat. 1558.)
+(Pub. L. 113–128, title I, § 161, July 22, 2014, 128 Stat. 1558.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6003,7 +6003,7 @@ By not later than December 1, 2014, the Secretary shall establish written criter
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3212. Authorization of appropriations
+#### § 3212. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this part—
 
@@ -6019,7 +6019,7 @@ There are authorized to be appropriated to carry out this part—
 
 **(6)** $1,983,236,000 for fiscal year 2020.
 
-(Pub. L. 113–128, title I, § 162, July 22, 2014, 128 Stat. 1559.)
+(Pub. L. 113–128, title I, § 162, July 22, 2014, 128 Stat. 1559.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6035,7 +6035,7 @@ Section effective on the first day of the first full program year after July 22,
 
 In this part, “Secretary” means the Secretary of Labor, see section 3151(b)(1)(C)(ii)(II) of this title.
 
-#### § 3221. Native American programs
+#### § 3221. Native American programs
 
 **(a) Purpose**
 
@@ -6049,9 +6049,9 @@ In this part, “Secretary” means the Secretary of Labor, see section 3151(b)(
 
 **(2) Indian policy**
 
-All programs assisted under this section shall be administered in a manner consistent with the principles of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
+All programs assisted under this section shall be administered in a manner consistent with the principles of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and the government-to-government relationship between the Federal Government and Indian tribal governments.
 
@@ -6229,19 +6229,19 @@ Notwithstanding any other provision of law, the Secretary is authorized to award
 
 **(F)** $542,000 for fiscal year 2020.
 
-(Pub. L. 113–128, title I, § 166, July 22, 2014, 128 Stat. 1560; Pub. L. 114–95, title IX, § 9215(yyy)(4), Dec. 10, 2015, 129 Stat. 2192; Pub. L. 117–286, § 4(a)(192), Dec. 27, 2022, 136 Stat. 4327.)
+(Pub. L. 113–128, title I, § 166, July 22, 2014, 128 Stat. 1560; Pub. L. 114–95, title IX, § 9215(yyy)(4), Dec. 10, 2015, 129 Stat. 2192; Pub. L. 117–286, § 4(a)(192), Dec. 27, 2022, 136 Stat. 4327.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (b)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. Section 4 of the Act was classified to section 450b of Title 25 prior to editorial reclassification as section 5304 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (b)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. Section 4 of the Act was classified to section 450b of Title 25 prior to editorial reclassification as section 5304 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-Section 1671 of this title, referred to in subsec. (d)(2)(B), was repealed by Pub. L. 105–220, title I, § 199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
+Section 1671 of this title, referred to in subsec. (d)(2)(B), was repealed by Pub. L. 105–220, title I, § 199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 
-The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§ 3401 et seq.) of Title 25, Indians. The Act was renamed the Indian Employment, Training and Related Services Act of 1992 by Pub. L. 115–93, § 2, Dec. 18, 2017, 131 Stat. 2026. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
+The Indian Employment, Training and Related Services Demonstration Act of 1992, referred to in subsec. (f), is Pub. L. 102–477, Oct. 23, 1992, 106 Stat. 2302, which is classified generally to chapter 36 (§ 3401 et seq.) of Title 25, Indians. The Act was renamed the Indian Employment, Training and Related Services Act of 1992 by Pub. L. 115–93, § 2, Dec. 18, 2017, 131 Stat. 2026. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 25 and Tables.
 
-This Act, referred to in subsec. (g)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (g)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Amendments**
 
@@ -6259,7 +6259,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3222. Migrant and seasonal farmworker programs
+#### § 3222. Migrant and seasonal farmworker programs
 
 **(a) In general**
 
@@ -6345,7 +6345,7 @@ The term “eligible migrant and seasonal farmworkers” means individuals who a
 
 **(B)** a dependent of the person described in subparagraph (A).
 
-(Pub. L. 113–128, title I, § 167, July 22, 2014, 128 Stat. 1564.)
+(Pub. L. 113–128, title I, § 167, July 22, 2014, 128 Stat. 1564.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6353,7 +6353,7 @@ The term “eligible migrant and seasonal farmworkers” means individuals who a
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3223. Technical assistance
+#### § 3223. Technical assistance
 
 **(a) General technical assistance**
 
@@ -6403,13 +6403,13 @@ Amounts reserved under this subsection may be used to provide for the training o
 
 **(3)** commission research under section 3224(b) of this title to address knowledge gaps identified under paragraph (2).
 
-(Pub. L. 113–128, title I, § 168, July 22, 2014, 128 Stat. 1566.)
+(Pub. L. 113–128, title I, § 168, July 22, 2014, 128 Stat. 1566.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsecs. (a)(1)(E), (H) and (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (a)(1)(E), (H) and (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6417,7 +6417,7 @@ This Act, referred to in subsecs. (a)(1)(E), (H) and (c)(1), is Pub. L. 113–12
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3224. Evaluations and research
+#### § 3224. Evaluations and research
 
 **(a) Evaluations**
 
@@ -6585,13 +6585,13 @@ In awarding grants or contracts under this subsection, priority shall be provide
 
 Of the amount made available pursuant to section 3172(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (b)(6)(C). Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered by the Secretary, acting through the Assistant Secretary for Employment and Training.
 
-(Pub. L. 113–128, title I, § 169, July 22, 2014, 128 Stat. 1568.)
+(Pub. L. 113–128, title I, § 169, July 22, 2014, 128 Stat. 1568.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6599,7 +6599,7 @@ This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3224a. Job training grants
+#### § 3224a. Job training grants
 
 **(1) In general**
 
@@ -6653,7 +6653,7 @@ The Secretary of Labor may require the provision of specified levels of a matchi
 
 The Secretary of Labor shall require grantees to report on the employment outcomes obtained by workers receiving training under this section using indicators of performance that are consistent with other indicators used for employment and training programs administered by the Secretary, such as entry into employment, retention in employment, and increases in earnings. The Secretary of Labor may also require grantees to participate in evaluations of projects carried out under this section.
 
-(Pub. L. 105–277, div. C, title IV, § 414(c), Oct. 21, 1998, 112 Stat. 2681–653; Pub. L. 106–313, title I, § 111, Oct. 17, 2000, 114 Stat. 1257; Pub. L. 108–447, div. J, title IV, § 428, Dec. 8, 2004, 118 Stat. 3358; Pub. L. 113–128, title V, § 512(a), July 22, 2014, 128 Stat. 1705.)
+(Pub. L. 105–277, div. C, title IV, § 414(c), Oct. 21, 1998, 112 Stat. 2681–653; Pub. L. 106–313, title I, § 111, Oct. 17, 2000, 114 Stat. 1257; Pub. L. 108–447, div. J, title IV, § 428, Dec. 8, 2004, 118 Stat. 3358; Pub. L. 113–128, title V, § 512(a), July 22, 2014, 128 Stat. 1705.)
 
 **Editorial Notes**
 
@@ -6691,7 +6691,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 Amendment by Pub. L. 108–447 effective 90 days after Dec. 8, 2004, see section 430(a) of Pub. L. 108–447, set out as a note under section 1182 of Title 8, Aliens and Nationality.
 
-#### § 3225. National dislocated worker grants
+#### § 3225. National dislocated worker grants
 
 **(a) Definitions** In this section:
 
@@ -6815,13 +6815,13 @@ Funds made available under subsection (b)(1)(B) shall be available to assist wor
 
 Nothing in this Act shall be construed to relieve liability, by a responsible party that is liable under Federal law, for any costs incurred by the United States under subsection (b)(1)(B) or this subsection, including the responsibility to provide reimbursement for such costs to the United States.
 
-(Pub. L. 113–128, title I, § 170, July 22, 2014, 128 Stat. 1573.)
+(Pub. L. 113–128, title I, § 170, July 22, 2014, 128 Stat. 1573.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (d)(5), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (d)(5), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6829,7 +6829,7 @@ This Act, referred to in subsec. (d)(5), is Pub. L. 113–128, July 22, 2014, 12
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3225a. Addressing economic and workforce impacts of the opioid crisis
+#### § 3225a. Addressing economic and workforce impacts of the opioid crisis
 
 **(a) Definitions** Except as otherwise expressly provided, in this section:
 
@@ -6913,9 +6913,9 @@ The term “substance use disorder” has the meaning given such term by the Ass
 
 **(iii)** a Federally qualified health center (as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x));
 
-**(iv)** an Indian health program (as defined in section 3 1
+**(iv)** an Indian health program (as defined in section 3 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Indian Health Care Improvement Act (25 U.S.C. 1603)), including an Indian health program that serves an urban center (as defined in such section); and
 
@@ -7033,7 +7033,7 @@ A local board desiring to receive a subgrant under this subsection from an eligi
 
 **(aa)** primary indicators of performance described in section 116(c)(1)(A)(i) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3141(c)(1)(A)(i),2
 
-<sup>2</sup>  So in original. Another closing parenthesis probably should precede the comma.
+<sup>2</sup> So in original. Another closing parenthesis probably should precede the comma.
 
 to assess estimated effectiveness of the proposed services and activities, including the estimated number of individuals with a substance use disorder who may be served by the proposed services and activities;
 
@@ -7083,7 +7083,7 @@ Each local board that receives a subgrant under subsection (d) shall carry out t
 
 **(i)** seek to transition to professions that support individuals with a substance use disorder or at risk for developing such disorder,3
 
-<sup>3</sup>  So in original. Probably should be “such a disorder,”.
+<sup>3</sup> So in original. Probably should be “such a disorder,”.
 
 such as professions that provide—
 
@@ -7233,7 +7233,7 @@ The independent evaluation required under this paragraph shall use experimental 
 
 In this subsection, the term “covered fiscal year” means any of fiscal years 2019 through 2030.
 
-**(2) Using funding for national dislocated worker grants** Subject to paragraph (4) and notwithstanding section 132(a)(2)(A) and subtitle D <sup>1</sup> of the Workforce Innovation and Opportunity Act (29 U.S.C. 3172(a)(2)(A), 3221 et seq.), the Secretary may use, to carry out the pilot program under this section for a covered fiscal year—
+**(2) Using funding for national dislocated worker grants** Subject to paragraph (4) and notwithstanding section 132(a)(2)(A) and subtitle D <sup>1</sup> of the Workforce Innovation and Opportunity Act (29 U.S.C. 3172(a)(2)(A), 3221 et seq.), the Secretary may use, to carry out the pilot program under this section for a covered fiscal year—
 
 **(A)** funds made available to carry out section 170 of such Act (29 U.S.C. 3225) for that fiscal year;
 
@@ -7249,15 +7249,15 @@ Funds appropriated under section 136(c) of such Act (29 U.S.C. 3181(c)) and made
 
 The Secretary may not use more than $100,000,000 of the funds described in paragraph (2) for any covered fiscal year under this section.
 
-(Pub. L. 115–271, title VIII, § 8041, Oct. 24, 2018, 132 Stat. 4083; Pub. L. 119–44, title III, § 306, Dec. 1, 2025, 139 Stat. 689.)
+(Pub. L. 115–271, title VIII, § 8041, Oct. 24, 2018, 132 Stat. 4083; Pub. L. 119–44, title III, § 306, Dec. 1, 2025, 139 Stat. 689.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(8), (e)(3)(C)(i), (F)(i)(II), and (g)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Chapters 2 and 3 of subtitle B of title I of the Act are classified generally to subparts 2 (§ 3161 et seq.) and 3 (§ 3171 et seq.) of part B of subchapter I of this chapter. Subtitle D of the Act probably means subtitle D of title I of the Act, which is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(8), (e)(3)(C)(i), (F)(i)(II), and (g)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Chapters 2 and 3 of subtitle B of title I of the Act are classified generally to subparts 2 (§ 3161 et seq.) and 3 (§ 3171 et seq.) of part B of subchapter I of this chapter. Subtitle D of the Act probably means subtitle D of title I of the Act, which is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (a)(10)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(10)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 3 of the Indian Health Care Improvement Act, referred to in subsec. (a)(10)(B)(iv), probably means section 4 of that Act, which is classified to section 1603 of Title 25, Indians, and defines terms, including “Indian health program” and “urban center”.
 
@@ -7269,7 +7269,7 @@ Section was enacted as part of the Substance Use–Disorder Prevention that Prom
 
 2025—Subsec. (g)(1). Pub. L. 119–44 substituted “2030” for “2023”.
 
-#### § 3226. YouthBuild program
+#### § 3226. YouthBuild program
 
 **(a) Statement of purpose** The purposes of this section are—
 
@@ -7347,9 +7347,9 @@ The term “low-income family” means a family described in section 1437a(b)(2)
 
 **(11) Transitional housing**
 
-The term “transitional housing” has the meaning given the term in section 11360(29) 1
+The term “transitional housing” has the meaning given the term in section 11360(29) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 42.
 
@@ -7609,17 +7609,17 @@ Each recipient of a grant under subsection (c) to carry out a YouthBuild program
 
 **(6)** $91,087,000 for fiscal year 2020.
 
-(Pub. L. 113–128, title I, § 171, July 22, 2014, 128 Stat. 1576.)
+(Pub. L. 113–128, title I, § 171, July 22, 2014, 128 Stat. 1576.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (b)(10)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
+Act of August 16, 1937, commonly known as the National Apprenticeship Act, referred to in subsec. (b)(10)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
-Section 11360(29) of title 42, referred to in subsec. (b)(11), was redesignated section 11360(31) of title 42 by Pub. L. 116–260, div. Q, title I, § 102(a)(1)(A), Dec. 27, 2020, 134 Stat. 2165.
+Section 11360(29) of title 42, referred to in subsec. (b)(11), was redesignated section 11360(31) of title 42 by Pub. L. 116–260, div. Q, title I, § 102(a)(1)(A), Dec. 27, 2020, 134 Stat. 2165.
 
-The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (c)(3)(B)(xxi), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7629,7 +7629,7 @@ Section effective on the first day of the first full program year after July 22,
 
 **Transfer of Functions and Savings Provisions**
 
-Pub. L. 109–281, § 3, Sept. 22, 2006, 120 Stat. 1182, provided that:
+Pub. L. 109–281, § 3, Sept. 22, 2006, 120 Stat. 1182, provided that:
 
 > **“(a) Definitions.—** For purposes of this section, unless otherwise provided or indicated by the context—
 
@@ -7703,7 +7703,7 @@ Pub. L. 109–281, § 3, Sept. 22, 2006, 120 Stat. 1182, provided that:
 
 > **“(2)** September 30, 2006.”
 
-#### § 3226a. Re-enrollment in alternative school by high-school dropout
+#### § 3226a. Re-enrollment in alternative school by high-school dropout
 
 For program year 2010 and each program year thereafter, the YouthBuild program may serve an individual who has dropped out of high school and re-enrolled in an alternative school, if that re-enrollment is part of a sequential service strategy.
 
@@ -7717,7 +7717,7 @@ Section was enacted as part of the Department of Labor Appropriations Act, 2010,
 
 Section was formerly classified to section 2918b of this title.
 
-#### § 3227. Authorization of appropriations
+#### § 3227. Authorization of appropriations
 
 **(a) Native American programs** There are authorized to be appropriated to carry out section 3221 of this title (not including subsection (k) of such section)—
 
@@ -7783,13 +7783,13 @@ If, as of July 22, 2014, any unobligated funds appropriated to carry out section
 
 If, as of July 22, 2014, any unobligated funds appropriated to carry out subsections (f) and (g) of section 2918 of this title, as in effect on the day before July 22, 2014, remain available, the Secretary of Labor shall continue to use such funds to carry out such subsections, as in effect on such day, until all of such funds are expended.
 
-(Pub. L. 113–128, title I, § 172, July 22, 2014, 128 Stat. 1585.)
+(Pub. L. 113–128, title I, § 172, July 22, 2014, 128 Stat. 1585.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 2913 and 2918 of this title, referred to in subsecs. (e) and (f), were repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015.
+Sections 2913 and 2918 of this title, referred to in subsecs. (e) and (f), were repealed by Pub. L. 113–128, title V, § 511(a), July 22, 2014, 128 Stat. 1705, effective July 1, 2015.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7797,7 +7797,7 @@ Sections 2913 and 2918 of this title, referred to in subsecs. (e) and (f), were 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3228. Worker ownership, readiness, and knowledge
+#### § 3228. Worker ownership, readiness, and knowledge
 
 **(a) Definitions** In this section:
 
@@ -7993,7 +7993,7 @@ The Secretary is authorized to reserve not more than 10 percent of the funds app
 
 **(ii)** 5.0 percent of the maximum amount available under paragraph (1) for that fiscal year.
 
-(Pub. L. 117–328, div. T, title III, § 346, Dec. 29, 2022, 136 Stat. 5381.)
+(Pub. L. 117–328, div. T, title III, § 346, Dec. 29, 2022, 136 Stat. 5381.)
 
 **Editorial Notes**
 
@@ -8009,7 +8009,7 @@ Section was enacted as part of the SECURE 2.0 Act of 2022, and also as part of t
 
 In this part, “Secretary” means the Secretary of Labor, see section 3151(b)(1)(C)(ii)(II) of this title.
 
-#### § 3241. Requirements and restrictions
+#### § 3241. Requirements and restrictions
 
 **(a) Benefits**
 
@@ -8149,13 +8149,13 @@ In testing and sanctioning of participants for the use of controlled substances 
 
 A recipient of grant funds under this subchapter shall have the authority to enter into subgrants in order to carry out the grant, subject to such conditions as the Secretary may establish.
 
-(Pub. L. 113–128, title I, § 181, July 22, 2014, 128 Stat. 1586.)
+(Pub. L. 113–128, title I, § 181, July 22, 2014, 128 Stat. 1586.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8163,7 +8163,7 @@ The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3242. Prompt allocation of funds
+#### § 3242. Prompt allocation of funds
 
 **(a) Allotments based on latest available data**
 
@@ -8185,7 +8185,7 @@ Whenever the Secretary utilizes a formula to allot or allocate funds made availa
 
 Funds shall be made available under section 3163 of this title, and funds shall be made available under section 3173 of this title, for a local area not later than 30 days after the date the funds are made available to the Governor involved, under section 3162 or 3172 of this title (as the case may be), or 7 days after the date the local plan for the area is approved, whichever is later.
 
-(Pub. L. 113–128, title I, § 182, July 22, 2014, 128 Stat. 1589.)
+(Pub. L. 113–128, title I, § 182, July 22, 2014, 128 Stat. 1589.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8193,7 +8193,7 @@ Funds shall be made available under section 3163 of this title, and funds shall 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3243. Monitoring
+#### § 3243. Monitoring
 
 **(a) In general**
 
@@ -8207,7 +8207,7 @@ The Secretary may investigate any matter the Secretary determines to be necessar
 
 For the purpose of any investigation or hearing conducted under this subchapter by the Secretary, the provisions of section 49 of title 15 (relating to the attendance of witnesses and the production of documents) apply to the Secretary, in the same manner and to the same extent as the provisions apply to the Federal Trade Commission.
 
-(Pub. L. 113–128, title I, § 183, July 22, 2014, 128 Stat. 1590.)
+(Pub. L. 113–128, title I, § 183, July 22, 2014, 128 Stat. 1590.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8215,7 +8215,7 @@ For the purpose of any investigation or hearing conducted under this subchapter 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3244. Fiscal controls; sanctions
+#### § 3244. Fiscal controls; sanctions
 
 **(a) Establishment of fiscal controls by States**
 
@@ -8319,7 +8319,7 @@ If the Secretary determines that a State has expended funds received under this 
 
 If the Secretary requires a State to repay funds as a result of a determination that a local area of the State has expended funds in a manner contrary to the requirements of this subchapter, the Governor of the State may use an amount deducted under paragraph (4) to repay the funds, except as provided under subsection (e).1
 
-<sup>1</sup>  So in original. Subsec. (e) relates to termination or suspension of financial assistance.
+<sup>1</sup> So in original. Subsec. (e) relates to termination or suspension of financial assistance.
 
 **(4) Deduction by State**
 
@@ -8361,7 +8361,7 @@ If the Secretary determines that any recipient under this subchapter has dischar
 
 The remedies described in this section shall not be considered to be the exclusive remedies available for violations described in this section.
 
-(Pub. L. 113–128, title I, § 184, July 22, 2014, 128 Stat. 1590.)
+(Pub. L. 113–128, title I, § 184, July 22, 2014, 128 Stat. 1590.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8369,7 +8369,7 @@ The remedies described in this section shall not be considered to be the exclusi
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3245. Reports; recordkeeping; investigations
+#### § 3245. Reports; recordkeeping; investigations
 
 **(a) Recipient recordkeeping and reports**
 
@@ -8487,7 +8487,7 @@ Each State shall submit to the Secretary, and the Secretary shall submit to the 
 
 In requiring entities to maintain records of costs by cost category under this subchapter, the Secretary shall require only that the costs be categorized as administrative or programmatic costs.
 
-(Pub. L. 113–128, title I, § 185, July 22, 2014, 128 Stat. 1594; Pub. L. 117–286, § 4(b)(48), Dec. 27, 2022, 136 Stat. 4348.)
+(Pub. L. 113–128, title I, § 185, July 22, 2014, 128 Stat. 1594; Pub. L. 117–286, § 4(b)(48), Dec. 27, 2022, 136 Stat. 4348.)
 
 **Editorial Notes**
 
@@ -8501,7 +8501,7 @@ In requiring entities to maintain records of costs by cost category under this s
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3246. Administrative adjudication
+#### § 3246. Administrative adjudication
 
 **(a) In general**
 
@@ -8519,7 +8519,7 @@ Any case accepted for review by the Secretary under subsection (b) shall be deci
 
 The provisions of section 3247 of this title shall apply to any final action of the Secretary under this section.
 
-(Pub. L. 113–128, title I, § 186, July 22, 2014, 128 Stat. 1596.)
+(Pub. L. 113–128, title I, § 186, July 22, 2014, 128 Stat. 1596.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8527,7 +8527,7 @@ The provisions of section 3247 of this title shall apply to any final action of 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3247. Judicial review
+#### § 3247. Judicial review
 
 **(a) Review**
 
@@ -8547,7 +8547,7 @@ No objection to the order of the Secretary shall be considered by the court unle
 
 The court shall have jurisdiction to make and enter a decree affirming, modifying, or setting aside the order of the Secretary in whole or in part. The judgment of the court regarding the order shall be final, subject to certiorari review by the Supreme Court as provided in section 1254(1) of title 28.
 
-(Pub. L. 113–128, title I, § 187, July 22, 2014, 128 Stat. 1597.)
+(Pub. L. 113–128, title I, § 187, July 22, 2014, 128 Stat. 1597.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8555,7 +8555,7 @@ The court shall have jurisdiction to make and enter a decree affirming, modifyin
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3248. Nondiscrimination
+#### § 3248. Nondiscrimination
 
 **(a) In general**
 
@@ -8597,19 +8597,19 @@ For the purposes of this section, Job Corps members shall be considered to be th
 
 The Secretary shall issue regulations necessary to implement this section not later than 1 year after July 22, 2014. Such regulations shall adopt standards for determining discrimination and procedures for enforcement that are consistent with the Acts referred to in subsection (a)(1), as well as procedures to ensure that complaints filed under this section and such Acts are processed in a manner that avoids duplication of effort.
 
-(Pub. L. 113–128, title I, § 188, July 22, 2014, 128 Stat. 1597.)
+(Pub. L. 113–128, title I, § 188, July 22, 2014, 128 Stat. 1597.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Age Discrimination Act of 1975, referred to in subsec. (a)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (a)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (a)(1), (2), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (a)(1), (2), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-This Act, referred to in subsec. (a)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsec. (a)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8617,7 +8617,7 @@ This Act, referred to in subsec. (a)(1), is Pub. L. 113–128, July 22, 2014, 12
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3249. Secretarial administrative authorities and responsibilities
+#### § 3249. Secretarial administrative authorities and responsibilities
 
 **(a) In general**
 
@@ -8729,7 +8729,7 @@ A State that has enacted, not later than December 31, 1997, a State law providin
 
 If the Secretary has approved a waiver of statutory or regulatory requirements for a State or local area pursuant to this subsection, the Secretary shall expedite the determination regarding the provision of that waiver, for another State or local area if such waiver is in accordance with the approved State or local plan, as appropriate.
 
-(Pub. L. 113–128, title I, § 189, July 22, 2014, 128 Stat. 1599.)
+(Pub. L. 113–128, title I, § 189, July 22, 2014, 128 Stat. 1599.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8737,7 +8737,7 @@ If the Secretary has approved a waiver of statutory or regulatory requirements f
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3250. Workforce flexibility plans
+#### § 3250. Workforce flexibility plans
 
 **(a) Plans** A State may submit to the Secretary, and the Secretary may approve, a workforce flexibility plan under which the State is authorized to waive, in accordance with the plan—
 
@@ -8771,13 +8771,13 @@ The Secretary may approve a workforce flexibility plan for a period of not more 
 
 Prior to submitting a workforce flexibility plan to the Secretary for approval, the State shall provide to all interested parties and to the general public adequate notice of and a reasonable opportunity for comment on the waiver requests proposed to be implemented pursuant to such plan.
 
-(Pub. L. 113–128, title I, § 190, July 22, 2014, 128 Stat. 1602.)
+(Pub. L. 113–128, title I, § 190, July 22, 2014, 128 Stat. 1602.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Older Americans Act of 1965, referred to in subsecs. (a)(3) and (b)(3), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (a)(3) and (b)(3), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8789,13 +8789,13 @@ Section effective on the first day of the first full program year after July 22,
 
 Pub. L. 105–78, title I, Nov. 13, 1997, 111 Stat. 1469, provided in part: “That the Secretary of Labor shall establish a workforce flexibility (work-flex) partnership demonstration program under which the Secretary shall authorize not more than six States, of which at least three States shall each have populations not in excess of 3,500,000, with a preference given to those States that have been designated Ed-Flex Partnership States under section 311(e) of Public Law 103–227 [former 20 U.S.C. 5891(e)], to waive any statutory or regulatory requirement applicable to service delivery areas or substate areas within the State under titles I–III of the Job Training Partnership Act [former 29 U.S.C. 1511 et seq., 1601 et seq., 1651 et seq.] (except for requirements relating to wage and labor standards, grievance procedures and judicial review, nondiscrimination, allotment of funds, and eligibility), and any of the statutory or regulatory requirements of sections 8–10 of the Wagner-Peyser Act [29 U.S.C. 49g–49i] (except for requirements relating to the provision of services to unemployment insurance claimants and veterans, and to universal access to basic labor exchange services without cost to job seekers), for a duration not to exceed the waiver period authorized under section 311(e) of Public Law 103–227, pursuant to a plan submitted by such States and approved by the Secretary for the provision of workforce employment and training activities in the States, which includes a description of the process by which service delivery areas and substate areas may apply for and have waivers approved by the State, the requirements of the Wagner-Peyser Act [29 U.S.C. 49 et seq.] to be waived, the outcomes to be achieved and other measures to be taken to ensure appropriate accountability for Federal funds.”
 
-[References to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998, see former section 2940(b) of this title. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.]
+[References to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998, see former section 2940(b) of this title. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.]
 
 Similar provisions were contained in the following prior appropriations act:
 
-Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Stat. 3009–233, 3009–234.
+Pub. L. 104–208, div. A, title I, § 101(e) [title I], Sept. 30, 1996, 110 Stat. 3009–233, 3009–234.
 
-#### § 3251. State legislative authority
+#### § 3251. State legislative authority
 
 **(a) Authority of State legislature**
 
@@ -8805,7 +8805,7 @@ Nothing in this subchapter shall be interpreted to preclude the enactment of Sta
 
 In the event that compliance with provisions of this subchapter would be enhanced by compacts and cooperative agreements between States, the consent of Congress is given to States to enter into such compacts and agreements to facilitate such compliance, subject to the approval of the Secretary.
 
-(Pub. L. 113–128, title I, § 191, July 22, 2014, 128 Stat. 1603.)
+(Pub. L. 113–128, title I, § 191, July 22, 2014, 128 Stat. 1603.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8813,7 +8813,7 @@ In the event that compliance with provisions of this subchapter would be enhance
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3252. Transfer of Federal equity in State employment security agency real property to the States
+#### § 3252. Transfer of Federal equity in State employment security agency real property to the States
 
 **(a) Transfer of Federal equity**
 
@@ -8823,17 +8823,17 @@ Notwithstanding any other provision of law, any Federal equity acquired in real 
 
 A State shall not use funds awarded under this Act, title III of the Social Security Act, or the Wagner-Peyser Act to amortize the costs of real property that is purchased by any State on or after February 15, 2007.
 
-(Pub. L. 113–128, title I, § 192, July 22, 2014, 128 Stat. 1604.)
+(Pub. L. 113–128, title I, § 192, July 22, 2014, 128 Stat. 1604.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title III of the Act is classified generally to subchapter III (§ 501 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title III of the Act is classified generally to subchapter III (§ 501 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Wagner-Peyser Act, referred to in text, is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in text, is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8841,7 +8841,7 @@ This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 14
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3253. Continuation of State activities and policies
+#### § 3253. Continuation of State activities and policies
 
 **(a) In general** Notwithstanding any other provision of this subchapter, the Secretary may not deny approval of a State plan for a covered State, or an application of a covered State for financial assistance, under this subchapter, or find a covered State (including a State board or Governor), or a local area (including a local board or chief elected official) in a covered State, in violation of a provision of this subchapter, on the basis that—
 
@@ -8871,13 +8871,13 @@ The term “covered State” means a State that enacted State laws described in 
 
 The term “prior consistent State laws” means State laws, not inconsistent with the Job Training Partnership Act or any other applicable Federal law, that took effect on September 1, 1993, September 1, 1995, and September 1, 1997.
 
-(Pub. L. 113–128, title I, § 193, July 22, 2014, 128 Stat. 1604.)
+(Pub. L. 113–128, title I, § 193, July 22, 2014, 128 Stat. 1604.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Job Training Partnership Act, referred to in subsec. (b)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of this title and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of this title, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables.
+The Job Training Partnership Act, referred to in subsec. (b)(2), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, which was classified generally to chapter 19 (§ 1501 et seq.) of this title and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of this title, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8885,7 +8885,7 @@ The Job Training Partnership Act, referred to in subsec. (b)(2), is Pub. L. 97�
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3254. General program requirements
+#### § 3254. General program requirements
 
 Except as otherwise provided in this subchapter, the following conditions apply to all programs under this subchapter:
 
@@ -8953,15 +8953,15 @@ Except as otherwise provided in this subchapter, the following conditions apply 
 
 **(B)** The limitation described in subparagraph (A) shall not apply to vendors providing goods and services as defined in Office of Management and Budget Circular A–133. In a case in which a State is a recipient of such funds, the State may establish a lower limit than is provided in subparagraph (A) for salaries and bonuses of those receiving salaries and bonuses from a subrecipient of such funds, taking into account factors including the relative cost of living in the State, the compensation levels for comparable State or local government employees, and the size of the organizations that administer the Federal programs involved.
 
-(Pub. L. 113–128, title I, § 194, July 22, 2014, 128 Stat. 1605.)
+(Pub. L. 113–128, title I, § 194, July 22, 2014, 128 Stat. 1605.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in par. (4), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in par. (4), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Workforce Investment Act of 1998, referred to in par. (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+The Workforce Investment Act of 1998, referred to in par. (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8969,7 +8969,7 @@ The Workforce Investment Act of 1998, referred to in par. (4), is Pub. L. 105–
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3255. Restrictions on lobbying activities
+#### § 3255. Restrictions on lobbying activities
 
 **(a) Publicity restrictions**
 
@@ -9003,13 +9003,13 @@ No funds provided under this Act shall be used to pay the salary or expenses of 
 
 **(B)** participation by an agency or officer of a State, local, or tribal government in policymaking and administrative processes within the executive branch of that government.
 
-(Pub. L. 113–128, title I, § 195, July 22, 2014, 128 Stat. 1607.)
+(Pub. L. 113–128, title I, § 195, July 22, 2014, 128 Stat. 1607.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9019,7 +9019,7 @@ Section effective on the first day of the first full program year after July 22,
 
 ## SUBCHAPTER II—ADULT EDUCATION AND LITERACY
 
-### § 3271. Purpose
+### § 3271. Purpose
 
 It is the purpose of this subchapter to create a partnership among the Federal Government, States, and localities to provide, on a voluntary basis, adult education and literacy activities, in order to—
 
@@ -9043,7 +9043,7 @@ It is the purpose of this subchapter to create a partnership among the Federal G
 
 **(B)** acquiring an understanding of the American system of Government, individual freedom, and the responsibilities of citizenship.
 
-(Pub. L. 113–128, title II, § 202, July 22, 2014, 128 Stat. 1608.)
+(Pub. L. 113–128, title II, § 202, July 22, 2014, 128 Stat. 1608.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9215,7 +9215,7 @@ Sec. 5. *General Provisions.*
 
 Barack Obama.
 
-### § 3272. Definitions
+### § 3272. Definitions
 
 In this subchapter:
 
@@ -9349,7 +9349,7 @@ The term “workplace adult education and literacy activities” means adult edu
 
 The term “workforce preparation activities” means activities, programs, or services designed to help an individual acquire a combination of basic academic skills, critical thinking skills, digital literacy skills, and self-management skills, including competencies in utilizing resources, using information, working with others, understanding systems, and obtaining skills necessary for successful transition into and completion of postsecondary education or training, or employment.
 
-(Pub. L. 113–128, title II, § 203, July 22, 2014, 128 Stat. 1609; Pub. L. 114–95, title IX, § 9215(c), Dec. 10, 2015, 129 Stat. 2166.)
+(Pub. L. 113–128, title II, § 203, July 22, 2014, 128 Stat. 1609; Pub. L. 114–95, title IX, § 9215(c), Dec. 10, 2015, 129 Stat. 2166.)
 
 **Editorial Notes**
 
@@ -9367,11 +9367,11 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-### § 3273. Home schools
+### § 3273. Home schools
 
 Nothing in this subchapter shall be construed to affect home schools, whether a home school is treated as a home school or a private school under State law, or to compel a parent or family member engaged in home schooling to participate in adult education and literacy activities.
 
-(Pub. L. 113–128, title II, § 204, July 22, 2014, 128 Stat. 1611.)
+(Pub. L. 113–128, title II, § 204, July 22, 2014, 128 Stat. 1611.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9379,11 +9379,11 @@ Nothing in this subchapter shall be construed to affect home schools, whether a 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-### § 3274. Rule of construction regarding postsecondary transition and concurrent enrollment activities
+### § 3274. Rule of construction regarding postsecondary transition and concurrent enrollment activities
 
 Nothing in this subchapter shall be construed to prohibit or discourage the use of funds provided under this subchapter for adult education and literacy activities that help eligible individuals transition to postsecondary education and training or employment, or for concurrent enrollment activities.
 
-(Pub. L. 113–128, title II, § 205, July 22, 2014, 128 Stat. 1612.)
+(Pub. L. 113–128, title II, § 205, July 22, 2014, 128 Stat. 1612.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9391,11 +9391,11 @@ Nothing in this subchapter shall be construed to prohibit or discourage the use 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-### § 3275. Authorization of appropriations
+### § 3275. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter $577,667,000 for fiscal year 2015, $622,286,000 for fiscal year 2016, $635,198,000 for fiscal year 2017, $649,287,000 for fiscal year 2018, $664,552,000 for fiscal year 2019, and $678,640,000 for fiscal year 2020.
 
-(Pub. L. 113–128, title II, § 206, July 22, 2014, 128 Stat. 1612.)
+(Pub. L. 113–128, title II, § 206, July 22, 2014, 128 Stat. 1612.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9405,7 +9405,7 @@ Section effective on the first day of the first full program year after July 22,
 
 ### Part A—Federal Provisions
 
-#### § 3291. Reservation of funds; grants to eligible agencies; allotments
+#### § 3291. Reservation of funds; grants to eligible agencies; allotments
 
 **(a) Reservation of funds** From the sum appropriated under section 3275 of this title for a fiscal year, the Secretary—
 
@@ -9477,7 +9477,7 @@ If for any fiscal year the amount available for allotment under this subchapter 
 
 The portion of any eligible agency’s allotment under this subchapter for a fiscal year that the Secretary determines will not be required for the period such allotment is available for carrying out activities under this subchapter, shall be available for reallotment from time to time, on such dates during such period as the Secretary shall fix, to other eligible agencies in proportion to the original allotments to such agencies under this subchapter for such year.
 
-(Pub. L. 113–128, title II, § 211, July 22, 2014, 128 Stat. 1612.)
+(Pub. L. 113–128, title II, § 211, July 22, 2014, 128 Stat. 1612.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9485,11 +9485,11 @@ The portion of any eligible agency’s allotment under this subchapter for a fis
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3292. Performance accountability system
+#### § 3292. Performance accountability system
 
 Programs and activities authorized in this subchapter are subject to the performance accountability provisions described in section 3141 of this title.
 
-(Pub. L. 113–128, title II, § 212, July 22, 2014, 128 Stat. 1614.)
+(Pub. L. 113–128, title II, § 212, July 22, 2014, 128 Stat. 1614.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9497,7 +9497,7 @@ Programs and activities authorized in this subchapter are subject to the perform
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3293. Educational assistance and training
+#### § 3293. Educational assistance and training
 
 **(a) Use of fund**
 
@@ -9529,7 +9529,7 @@ The Secretary of Labor shall report annually to the Congress on the grants to St
 
 In this section, the term “State” has the meaning given such term in section 1101(a)(36) of title 8.
 
-(Pub. L. 101–649, title VIII, § 801, Nov. 29, 1990, 104 Stat. 5087.)
+(Pub. L. 101–649, title VIII, § 801, Nov. 29, 1990, 104 Stat. 5087.)
 
 **Editorial Notes**
 
@@ -9541,7 +9541,7 @@ Section was formerly classified to section 2920 of this title and to section 150
 
 ### Part B—State Provisions
 
-#### § 3301. State administration
+#### § 3301. State administration
 
 Each eligible agency shall be responsible for the State or outlying area administration of activities under this subchapter, including—
 
@@ -9551,7 +9551,7 @@ Each eligible agency shall be responsible for the State or outlying area adminis
 
 **(3)** coordination and nonduplication with other Federal and State education, training, corrections, public housing, and social service programs.
 
-(Pub. L. 113–128, title II, § 221, July 22, 2014, 128 Stat. 1614.)
+(Pub. L. 113–128, title II, § 221, July 22, 2014, 128 Stat. 1614.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9559,7 +9559,7 @@ Each eligible agency shall be responsible for the State or outlying area adminis
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3302. State distribution of funds; matching requirement
+#### § 3302. State distribution of funds; matching requirement
 
 **(a) State distribution of funds** Each eligible agency receiving a grant under section 3291(b) of this title for a fiscal year—
 
@@ -9581,7 +9581,7 @@ Section effective on the first day of the first full program year after July 22,
 
 An eligible agency’s non-Federal contribution required under paragraph (1) may be provided in cash or in kind, fairly evaluated, and shall include only non-Federal funds that are used for adult education and literacy activities in a manner that is consistent with the purpose of this subchapter.
 
-(Pub. L. 113–128, title II, § 222, July 22, 2014, 128 Stat. 1614.)
+(Pub. L. 113–128, title II, § 222, July 22, 2014, 128 Stat. 1614.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9589,7 +9589,7 @@ An eligible agency’s non-Federal contribution required under paragraph (1) may
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3303. State leadership activities
+#### § 3303. State leadership activities
 
 **(a) Activities**
 
@@ -9659,7 +9659,7 @@ In carrying out this section, eligible agencies shall collaborate where possible
 
 Whenever a State or outlying area implements any rule or policy relating to the administration or operation of a program authorized under this subchapter that has the effect of imposing a requirement that is not imposed under Federal law (including any rule or policy based on a State or outlying area interpretation of a Federal statute, regulation, or guideline), the State or outlying area shall identify, to eligible providers, the rule or policy as being imposed by the State or outlying area.
 
-(Pub. L. 113–128, title II, § 223, July 22, 2014, 128 Stat. 1615.)
+(Pub. L. 113–128, title II, § 223, July 22, 2014, 128 Stat. 1615.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9667,11 +9667,11 @@ Whenever a State or outlying area implements any rule or policy relating to the 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3304. State plan
+#### § 3304. State plan
 
 Each State desiring to receive funds under this subchapter for any fiscal year shall submit and have approved a unified State plan in accordance with section 3112 of this title or a combined State plan in accordance with section 3113 of this title.
 
-(Pub. L. 113–128, title II, § 224, July 22, 2014, 128 Stat. 1617.)
+(Pub. L. 113–128, title II, § 224, July 22, 2014, 128 Stat. 1617.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9679,7 +9679,7 @@ Each State desiring to receive funds under this subchapter for any fiscal year s
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3305. Programs for corrections education and other institutionalized individuals
+#### § 3305. Programs for corrections education and other institutionalized individuals
 
 **(a) Program authorized**
 
@@ -9731,7 +9731,7 @@ In addition to any report required under section 3141 of this title, each eligib
 
 The term “criminal offender” means any individual who is charged with or convicted of any criminal offense.
 
-(Pub. L. 113–128, title II, § 225, July 22, 2014, 128 Stat. 1617.)
+(Pub. L. 113–128, title II, § 225, July 22, 2014, 128 Stat. 1617.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9741,7 +9741,7 @@ Section effective on the first day of the first full program year after July 22,
 
 ### Part C—Local Provisions
 
-#### § 3321. Grants and contracts for eligible providers
+#### § 3321. Grants and contracts for eligible providers
 
 **(a) Grants and contracts**
 
@@ -9801,7 +9801,7 @@ Each eligible agency awarding a grant or contract under this section shall not u
 
 **(13)** whether the local areas in which the eligible provider is located have a demonstrated need for additional English language acquisition programs and civics education programs.
 
-(Pub. L. 113–128, title II, § 231, July 22, 2014, 128 Stat. 1618.)
+(Pub. L. 113–128, title II, § 231, July 22, 2014, 128 Stat. 1618.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9809,7 +9809,7 @@ Each eligible agency awarding a grant or contract under this section shall not u
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3322. Local application
+#### § 3322. Local application
 
 Each eligible provider desiring a grant or contract from an eligible agency shall submit an application to the eligible agency containing such information and assurances as the eligible agency may require, including—
 
@@ -9827,7 +9827,7 @@ Each eligible provider desiring a grant or contract from an eligible agency shal
 
 **(7)** information that addresses the considerations described under section 3321(e) of this title, as applicable.
 
-(Pub. L. 113–128, title II, § 232, July 22, 2014, 128 Stat. 1620.)
+(Pub. L. 113–128, title II, § 232, July 22, 2014, 128 Stat. 1620.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9835,7 +9835,7 @@ Each eligible provider desiring a grant or contract from an eligible agency shal
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3323. Local administrative cost limits
+#### § 3323. Local administrative cost limits
 
 **(a) In general** Subject to subsection (b), of the amount that is made available under this subchapter to an eligible provider—
 
@@ -9847,7 +9847,7 @@ Section effective on the first day of the first full program year after July 22,
 
 In cases where the cost limits described in subsection (a) are too restrictive to allow for the activities described in subsection (a)(2), the eligible provider shall negotiate with the eligible agency in order to determine an adequate level of funds to be used for noninstructional purposes.
 
-(Pub. L. 113–128, title II, § 233, July 22, 2014, 128 Stat. 1620.)
+(Pub. L. 113–128, title II, § 233, July 22, 2014, 128 Stat. 1620.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9857,7 +9857,7 @@ Section effective on the first day of the first full program year after July 22,
 
 ### Part D—General Provisions
 
-#### § 3331. Administrative provisions
+#### § 3331. Administrative provisions
 
 **(a) Supplement not supplant**
 
@@ -9889,7 +9889,7 @@ If the amount made available for adult education and literacy activities under t
 
 The Secretary may waive the requirements of this subsection for not more than 1 fiscal year, if the Secretary determines that a waiver would be equitable due to exceptional or uncontrollable circumstances, such as a natural disaster or an unforeseen and precipitous decline in the financial resources of the State or outlying area of the eligible agency. If the Secretary grants a waiver under the preceding sentence for a fiscal year, the level of effort required under paragraph (1) shall not be reduced in the subsequent fiscal year because of the waiver.
 
-(Pub. L. 113–128, title II, § 241, July 22, 2014, 128 Stat. 1620.)
+(Pub. L. 113–128, title II, § 241, July 22, 2014, 128 Stat. 1620.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9897,7 +9897,7 @@ The Secretary may waive the requirements of this subsection for not more than 1 
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3332. National leadership activities
+#### § 3332. National leadership activities
 
 **(a) In general**
 
@@ -9971,7 +9971,7 @@ The Secretary shall establish and carry out a program of national leadership act
 
 **(G)** other activities designed to enhance the quality of adult education and literacy activities nationwide.
 
-(Pub. L. 113–128, title II, § 242, July 22, 2014, 128 Stat. 1621.)
+(Pub. L. 113–128, title II, § 242, July 22, 2014, 128 Stat. 1621.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9979,7 +9979,7 @@ The Secretary shall establish and carry out a program of national leadership act
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3333. Integrated English literacy and civics education
+#### § 3333. Integrated English literacy and civics education
 
 **(a) In general**
 
@@ -10007,7 +10007,7 @@ No State shall receive an allotment under paragraph (1) in an amount that is les
 
 The Secretary shall prepare and submit to the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate and make available to the public, a report on the activities carried out under this section.
 
-(Pub. L. 113–128, title II, § 243, July 22, 2014, 128 Stat. 1623.)
+(Pub. L. 113–128, title II, § 243, July 22, 2014, 128 Stat. 1623.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10019,7 +10019,7 @@ Section effective on the first day of the first full program year after July 22,
 
 ### Part A—Workforce Investment
 
-#### § 3341. Privacy
+#### § 3341. Privacy
 
 **(a) Section 1232g of title 20**
 
@@ -10035,15 +10035,15 @@ Nothing in this Act (including the amendments made by this Act) shall be constru
 
 Nothing in paragraph (1) shall be construed to prevent the proper administration of national programs under parts C and D of subchapter I, or the amendments made by title IV (as the case may be), or to carry out program management activities consistent with subchapter I or the amendments made by title IV (as the case may be).
 
-(Pub. L. 113–128, title V, § 501, July 22, 2014, 128 Stat. 1700.)
+(Pub. L. 113–128, title V, § 501, July 22, 2014, 128 Stat. 1700.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsecs. (a) and (b)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (a) and (b)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The amendments made by title IV, referred to in subsec. (b), mean the amendments made by title IV of Pub. L. 113–128, which primarily amended the Rehabilitation Act of 1973, Pub. L. 93–112, which is classified generally to chapter 16 (§ 701 et seq.) of this title. For complete classification of title IV of Pub. L. 113–128 to the Code, see Tables.
+The amendments made by title IV, referred to in subsec. (b), mean the amendments made by title IV of Pub. L. 113–128, which primarily amended the Rehabilitation Act of 1973, Pub. L. 93–112, which is classified generally to chapter 16 (§ 701 et seq.) of this title. For complete classification of title IV of Pub. L. 113–128 to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10051,7 +10051,7 @@ The amendments made by title IV, referred to in subsec. (b), mean the amendments
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3342. Buy-American requirements
+#### § 3342. Buy-American requirements
 
 **(a) Compliance with Buy American Act**
 
@@ -10071,13 +10071,13 @@ In providing financial assistance using funds made available under subchapter I 
 
 If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a “Made in America” inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the person shall be ineligible to receive any contract or subcontract made with funds made available under subchapter I or II or under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations, as such sections were in effect on August 7, 1998, or pursuant to any successor regulations.
 
-(Pub. L. 113–128, title V, § 502, July 22, 2014, 128 Stat. 1700.)
+(Pub. L. 113–128, title V, § 502, July 22, 2014, 128 Stat. 1700.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Wagner-Peyser Act, referred to in text, is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in text, is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10085,7 +10085,7 @@ The Wagner-Peyser Act, referred to in text, is act June 6, 1933, ch. 49, 48 Stat
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3343. Transition provisions
+#### § 3343. Transition provisions
 
 **(a) Workforce development systems and investment activities**
 
@@ -10127,23 +10127,23 @@ Subject to paragraph (2) and in accordance with regulations developed under subs
 
 Not more than 2 percent of any allotment to any State from amounts appropriated under the Workforce Investment Act of 1998 for fiscal year 2014 may be made available to carry out activities authorized under paragraph (1) and not less than 50 percent of any amount used to carry out activities authorized under paragraph (1) shall be made available to local entities for the purposes of the activities described in such paragraph.
 
-(Pub. L. 113–128, title V, § 503, July 22, 2014, 128 Stat. 1701.)
+(Pub. L. 113–128, title V, § 503, July 22, 2014, 128 Stat. 1701.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Workforce Investment Act of 1998, referred to in subsecs. (a), (b), and (g), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in subsecs. (a), (b), and (g), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. For complete classification of the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Adult Education and Family Literacy Act, referred to in subsec. (c), was repealed, and a new Adult Education and Family Literacy Act was enacted, by Pub. L. 113–128. The former Act is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of Title 20, Education, prior to repeal by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. The new Act is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of this chapter. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Adult Education and Family Literacy Act, referred to in subsec. (c), was repealed, and a new Adult Education and Family Literacy Act was enacted, by Pub. L. 113–128. The former Act is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, which was classified principally to subchapter I (§ 9201 et seq.) of chapter 73 of Title 20, Education, prior to repeal by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. The new Act is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§ 3271 et seq.) of this chapter. For complete classification of title II of Pub. L. 105–220 to the Code, see Tables. For complete classification of title II of Pub. L. 113–128 to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 As in effect on the day before July 22, 2014, referred to in subsecs. (c) and (d), was in the original “as in effect on the day before the date of enactment of this Act”, meaning the date of enactment of Pub. L. 113–128, which was approved July 22, 2014. However, the repeal and reenactment of the Adult Education and Family Literacy Act, see note above, and the amendments to the Wagner-Peyser Act made by title III of Pub. L. 113–128 are effective on the first day of the first full program year after July 22, 2014, which is probably July 1, 2015. See section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
-This Act, referred to in subsecs. (c) to (g)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (c) to (g)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10151,17 +10151,17 @@ The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112,
 
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-#### § 3344. Reduction of reporting burdens and requirements
+#### § 3344. Reduction of reporting burdens and requirements
 
 In order to simplify reporting requirements and reduce reporting burdens, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services shall establish procedures and criteria under which a State board and local board may reduce reporting burdens and requirements under this Act (including the amendments made by this Act).
 
-(Pub. L. 113–128, title V, § 504, July 22, 2014, 128 Stat. 1702.)
+(Pub. L. 113–128, title V, § 504, July 22, 2014, 128 Stat. 1702.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -10171,7 +10171,7 @@ Section effective on the first day of the first full program year after July 22,
 
 ### Part B—Miscellaneous Provisions
 
-#### § 3361. References
+#### § 3361. References
 
 **(a) Workforce Investment Act of 1998 references**
 
@@ -10185,19 +10185,19 @@ Except as otherwise specified, a reference in a Federal law to a provision of th
 
 Except as otherwise specified, a reference in a Federal law to a provision of the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) shall be deemed to refer to the corresponding provision of such Act, as amended by this Act.
 
-(Pub. L. 113–128, title V, § 513, July 22, 2014, 128 Stat. 1722.)
+(Pub. L. 113–128, title V, § 513, July 22, 2014, 128 Stat. 1722.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (a), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
-The Wagner-Peyser Act, referred to in subsec. (b), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title and was amended extensively by title III of Pub. L. 113–128. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
+The Wagner-Peyser Act, referred to in subsec. (b), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title and was amended extensively by title III of Pub. L. 113–128. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of this title and was amended extensively by title IV of Pub. L. 113–128. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of this title and was amended extensively by title IV of Pub. L. 113–128. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 

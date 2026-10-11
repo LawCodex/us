@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 110—ENHANCED PERSONNEL SECURITY PROGRAMS
 
-## § 11001. Enhanced personnel security programs
+## § 11001. Enhanced personnel security programs
 
 **(a) Enhanced Personnel Security Program.—** The Director of National Intelligence shall direct each agency to implement a program to provide enhanced security review of covered individuals—
 
@@ -71,7 +71,7 @@ retrieved: 2026-10-11
 
 **(4)** the term “enhanced personnel security program” means a program implemented by an agency at the direction of the Director of National Intelligence under subsection (a).
 
-(Added Pub. L. 114–113, div. M, title III, § 306(a)(1), Dec. 18, 2015, 129 Stat. 2914; amended Pub. L. 116–92, div. E, title LXVII, § 6711, Dec. 20, 2019, 133 Stat. 2225; Pub. L. 118–31, div. G, title III, § 7327(b), Dec. 22, 2023, 137 Stat. 1044.)
+(Added Pub. L. 114–113, div. M, title III, § 306(a)(1), Dec. 18, 2015, 129 Stat. 2914; amended Pub. L. 116–92, div. E, title LXVII, § 6711, Dec. 20, 2019, 133 Stat. 2225; Pub. L. 118–31, div. G, title III, § 7327(b), Dec. 22, 2023, 137 Stat. 1044.)
 
 **Editorial Notes**
 
@@ -81,11 +81,11 @@ The date of the enactment of the Intelligence Authorization Act for Fiscal Year 
 
 **Amendments**
 
-2023—Subsec. (d). Pub. L. 118–31, § 7327(b)(1), redesignated subsec. (e) as (d) and struck out former subsec. (d) which provided for review by the Inspector General of each agency of the enhanced personnel security program.
+2023—Subsec. (d). Pub. L. 118–31, § 7327(b)(1), redesignated subsec. (e) as (d) and struck out former subsec. (d) which provided for review by the Inspector General of each agency of the enhanced personnel security program.
 
-Subsec. (d)(3), (4). Pub. L. 118–31, § 7327(b)(2), inserted “and” after the semicolon at end of par. (3) and substituted a period for “; and” at end of par. (4).
+Subsec. (d)(3), (4). Pub. L. 118–31, § 7327(b)(2), inserted “and” after the semicolon at end of par. (3) and substituted a period for “; and” at end of par. (4).
 
-Subsec. (e). Pub. L. 118–31, § 7327(b)(1)(B), redesignated subsec. (e) as (d).
+Subsec. (e). Pub. L. 118–31, § 7327(b)(1)(B), redesignated subsec. (e) as (d).
 
 2019—Subsec. (d). Pub. L. 116–92 substituted “Review” for “Audit” in heading and “review” for “audit” in text of pars. (1) and (2).
 
@@ -93,7 +93,7 @@ Subsec. (e). Pub. L. 118–31, § 7327(b)(1)(B), redesignated subsec. (e) as (
 
 **Resolution of Backlog of Overdue Periodic Reinvestigations**
 
-Pub. L. 114–113, div. M, title III, § 306(b), Dec. 18, 2015, 129 Stat. 2916, provided that:
+Pub. L. 114–113, div. M, title III, § 306(b), Dec. 18, 2015, 129 Stat. 2916, provided that:
 
 > **“(1) In general.—** The Director of National Intelligence shall develop and implement a plan to eliminate the backlog of overdue periodic reinvestigations of covered individuals.
 

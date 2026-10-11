@@ -19,25 +19,25 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VI, § 601(g)(2)(A), Dec. 18, 2025, 139 Stat. 905, inserted “and members of the Space Force” after “reserve component members” in item 910. Amendment was made pursuant to operation of section 102 of Title 10, Armed Forces.
+2025—Pub. L. 119–60, div. A, title VI, § 601(g)(2)(A), Dec. 18, 2025, 139 Stat. 905, inserted “and members of the Space Force” after “reserve component members” in item 910. Amendment was made pursuant to operation of section 102 of Title 10, Armed Forces.
 
-2021—Pub. L. 116–283, div. A, title VI, § 641(c)(2), Jan. 1, 2021, 134 Stat. 3684, substituted “Reserves and retired members: acceptance of employment, payments, and awards from foreign governments” for “Employment of reserves and retired members by foreign governments” in item 908.
+2021—Pub. L. 116–283, div. A, title VI, § 641(c)(2), Jan. 1, 2021, 134 Stat. 3684, substituted “Reserves and retired members: acceptance of employment, payments, and awards from foreign governments” for “Employment of reserves and retired members by foreign governments” in item 908.
 
-2006—Pub. L. 109–163, div. A, title VI, § 614(b), Jan. 6, 2006, 119 Stat. 3293, added item 910.
+2006—Pub. L. 109–163, div. A, title VI, § 614(b), Jan. 6, 2006, 119 Stat. 3293, added item 910.
 
-2001—Pub. L. 107–107, div. A, title VI, § 623(a)(2), Dec. 28, 2001, 115 Stat. 1143, added item 909.
+2001—Pub. L. 107–107, div. A, title VI, § 623(a)(2), Dec. 28, 2001, 115 Stat. 1143, added item 909.
 
-1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
+1990—Pub. L. 101–510, div. A, title XIV, § 1484(f)(1), Nov. 5, 1990, 104 Stat. 1717, revised chapter heading so as to appear in all capital letters.
 
-1982—Pub. L. 97–295, § 3(6)(B), Oct. 12, 1982, 96 Stat. 1304, added item 908.
+1982—Pub. L. 97–295, § 3(6)(B), Oct. 12, 1982, 96 Stat. 1304, added item 908.
 
-1980—Pub. L. 96–513, title V, § 506(8), Dec. 12, 1980, 94 Stat. 2919, struck out item 904 “Officers of Navy or Marine Corps promoted under chapter 545 of title 10: effective date of beginning of pay and allowances” and substituted “Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances” for “Officers of Navy or Marine Corps not covered by section 904 of this title: effective date of beginning of pay and allowances” in item 905.
+1980—Pub. L. 96–513, title V, § 506(8), Dec. 12, 1980, 94 Stat. 2919, struck out item 904 “Officers of Navy or Marine Corps promoted under chapter 545 of title 10: effective date of beginning of pay and allowances” and substituted “Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances” for “Officers of Navy or Marine Corps not covered by section 904 of this title: effective date of beginning of pay and allowances” in item 905.
 
-Pub. L. 96–343, § 6(a)(2), Sept. 8, 1980, 94 Stat. 1127, substituted “and warrant officers appointed as officers:” for “appointed as officers;” in item 907.
+Pub. L. 96–343, § 6(a)(2), Sept. 8, 1980, 94 Stat. 1127, substituted “and warrant officers appointed as officers:” for “appointed as officers;” in item 907.
 
-1970—Pub. L. 91–484, § 1(2), Oct. 21, 1970, 84 Stat. 1084, added item 907.
+1970—Pub. L. 91–484, § 1(2), Oct. 21, 1970, 84 Stat. 1084, added item 907.
 
-## § 901. Wartime pay of officer of armed force exercising command higher than his grade
+## § 901. Wartime pay of officer of armed force exercising command higher than his grade
 
 In time of war, an officer of an armed force who is serving with troops operating against an enemy and who exercises, under assignment in orders issued by competent authority, a command above that pertaining to his grade, is entitled to the pay and allowances (not above that of pay grade O–7) appropriate to the command so exercised.
 
@@ -47,11 +47,11 @@ In time of war, an officer of an armed force who is serving with troops operatin
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 901 | 37:235a. | Apr. 26, 1898, ch. 191, § 7 (less last proviso), 30 Stat. 365. |
+| 901 | 37:235a. | Apr. 26, 1898, ch. 191, § 7 (less last proviso), 30 Stat. 365. |
 
 Applicability of the source law to the Air Force is based on Transfer Order No. 25(zzz), of the Secretary of Defense, dated October 14, 1948. Its applicability, other than to the Army and the Air Force, is based upon an opinion of the Judge Advocate General of the Navy, JAG 135: DDC; dmt.; 4229, dated July 29, 1960. The words “(but not above that of pay grade O–7)” are substituted for section 235a (proviso) of existing title 37.
 
-## § 902. Pay of crews of wrecked or lost naval vessels
+## § 902. Pay of crews of wrecked or lost naval vessels
 
 **(a)** When the accounts of the disbursing officer of a naval vessel are lost as a result of the destruction of the vessel, his return for the last month may, unless there is official evidence to the contrary, be used in computing later credits to and settling accounts of persons, other than officers, carried on his accounts. If the return for the last month has not been made, the pay accounts may be settled on principles of equity and justice.
 
@@ -59,7 +59,7 @@ Applicability of the source law to the Air Force is based on Transfer Order No. 
 
 **(c)** When the crew of a naval vessel is separated from that vessel because of her wreck, loss, or destruction, the pay and emoluments of those officers and enlisted members that the Secretary considers (because of the sentence of a court-martial or the finding of a court of inquiry, or by other satisfactory evidence) to have done their utmost to save the vessel and, after the wreck, loss, or destruction, to have behaved themselves according to the discipline of the Navy, continue and shall be paid to them until their discharge or death, whichever is earlier.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 486; Pub. L. 104–316, title I, § 118, Oct. 19, 1996, 110 Stat. 3836.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 486; Pub. L. 104–316, title I, § 118, Oct. 19, 1996, 110 Stat. 3836.)
 
 **Historical and Revision Notes**
 
@@ -77,7 +77,7 @@ In subsection (c), the word “continues” is substituted for the words “go o
 
 1996—Subsec. (b). Pub. L. 104–316 substituted “the Secretary of the Navy may” for “the General Accounting Office, under the direction of the Secretary of the Navy, may”.
 
-## § 903. Retired members recalled to active duty; former members
+## § 903. Retired members recalled to active duty; former members
 
 A retired member or former member of a uniformed service, or a member of the Fleet Reserve or Fleet Marine Corps Reserve, who is serving on active duty is entitled to the pay and allowances to which he is entitled, under this title, for the grade, rank, or rating in which he is serving. In addition, while on active duty, he is entitled to the pay and allowances, while on leave of absence or while sick, of a member of a uniformed service of similar grade, rank, or rating who is entitled to basic pay.
 
@@ -87,13 +87,13 @@ A retired member or former member of a uniformed service, or a member of the Fle
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 903 | 37:314. | Oct. 12, 1949, ch. 681, § 514, 63 Stat. 831. |
+| 903 | 37:314. | Oct. 12, 1949, ch. 681, § 514, 63 Stat. 831. |
 
-The word “rating” is inserted for clarity. The words “is entitled to” are substituted for the words “shall . . . be entitled to receive and have the same . . . rights”. The last 41 words of section 314 of existing title 37 are omitted, since the sections mentioned therein were repealed by section 53(b) of the Act of August 10, 1956, ch. 1041 (70A Stat. 646). The subject of death benefits and entitlement thereto is now covered by chapter 75 of title 10.
+The word “rating” is inserted for clarity. The words “is entitled to” are substituted for the words “shall . . . be entitled to receive and have the same . . . rights”. The last 41 words of section 314 of existing title 37 are omitted, since the sections mentioned therein were repealed by section 53(b) of the Act of August 10, 1956, ch. 1041 (70A Stat. 646). The subject of death benefits and entitlement thereto is now covered by chapter 75 of title 10.
 
-## [§ 904. Repealed. Pub. L. 96–513, title IV, § 403(a), Dec. 12, 1980, 94 Stat. 2904]
+## [§ 904. Repealed. Pub. L. 96–513, title IV, § 403(a), Dec. 12, 1980, 94 Stat. 2904]
 
-Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 487; Pub. L. 90–130, § 3(2), Nov. 8, 1967, 81 Stat. 383; Pub. L. 90–623, § 3(8), Oct. 22, 1968, 82 Stat. 1315, set forth provisions relating to effective date of beginning of pay and allowances of officers of Navy or Marine Corps promoted under chapter 545 of Title 10, Armed Forces.
+Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 487; Pub. L. 90–130, § 3(2), Nov. 8, 1967, 81 Stat. 383; Pub. L. 90–623, § 3(8), Oct. 22, 1968, 82 Stat. 1315, set forth provisions relating to effective date of beginning of pay and allowances of officers of Navy or Marine Corps promoted under chapter 545 of Title 10, Armed Forces.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -101,13 +101,13 @@ Section, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 487; Pub. L. 90–130, § 3
 
 Repeal effective Sept. 15, 1981, but with authority to prescribe regulations under the amendment by section 403(a) of Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of Title 10, Armed Forces.
 
-## § 905. Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances
+## § 905. Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances
 
 **(a)** A reserve officer who is promoted under chapter 1405 of title 10 to a grade above lieutenant (junior grade) in the Navy Reserve or above first lieutenant in the Marine Corps Reserve is entitled to the pay and allowances of the grade to which promoted for duty performed from the date on which he becomes eligible for promotion to that grade.
 
 **(b)** A reserve officer who is promoted under section 14308(b) of title 10 to the grade of lieutenant (junior grade) in the Navy Reserve or first lieutenant in the Marine Corps Reserve is entitled to the pay and allowances of the higher grade for duty performed from the date given him as his date of rank.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 488; Pub. L. 95–377, § 9, Sept. 19, 1978, 92 Stat. 721; Pub. L. 96–513, title IV, § 403(b), Dec. 12, 1980, 94 Stat. 2904; Pub. L. 103–337, div. A, title XVI, § 1676(b)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 109–163, div. A, title V, § 515(d)(1)(F), Jan. 6, 2006, 119 Stat. 3236.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 488; Pub. L. 95–377, § 9, Sept. 19, 1978, 92 Stat. 721; Pub. L. 96–513, title IV, § 403(b), Dec. 12, 1980, 94 Stat. 2904; Pub. L. 103–337, div. A, title XVI, § 1676(b)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 109–163, div. A, title V, § 515(d)(1)(F), Jan. 6, 2006, 119 Stat. 3236.)
 
 **Historical and Revision Notes**
 
@@ -130,9 +130,9 @@ Repeal effective Sept. 15, 1981, but with authority to prescribe regulations und
 
 2006—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in two places.
 
-1994—Subsec. (a). Pub. L. 103–337, § 1676(b)(3)(A), substituted “chapter 1405” for “chapter 549”.
+1994—Subsec. (a). Pub. L. 103–337, § 1676(b)(3)(A), substituted “chapter 1405” for “chapter 549”.
 
-Subsec. (b). Pub. L. 103–337, § 1676(b)(3)(B), substituted “section 14308(b)” for “section 5908”.
+Subsec. (b). Pub. L. 103–337, § 1676(b)(3)(B), substituted “section 14308(b)” for “section 5908”.
 
 1980—Pub. L. 96–513 substituted “Reserve officers of the Navy or Marine Corps not on the active-duty list: effective date of pay and allowances” for “Officers of Navy or Marine Corps not covered by section 904 of this title: effective date of beginning of pay and allowances” in section catchline, and generally revised and restructured section, and as part of such restructuring struck out former subsec. (a), redesignated former subsecs. (b) and (c) as subsecs. (a) and (b), respectively, and, in subsec. (a) as so redesignated, struck out second sentence which related to establishment of an officer’s professional and moral qualifications, and struck out former subsecs. (d) to (h).
 
@@ -152,11 +152,11 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513, and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under section 611 of Title 10, Armed Forces.
 
-## § 906. Extension of enlistment: effect on pay and allowances
+## § 906. Extension of enlistment: effect on pay and allowances
 
 A member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard, as the case may be, who extends his enlistment under section 509 of title 10 is entitled to the same pay and allowances as though he had reenlisted. For the purposes of determining entitlement to reenlistment bonus or to travel and transportation allowances upon discharge, all such extensions of an enlistment are considered one continuous extension.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 90–235, § 2(c), Jan. 2, 1968, 81 Stat. 757; Pub. L. 116–283, div. A, title IX, § 925(j), Jan. 1, 2021, 134 Stat. 3829.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 489; Pub. L. 90–235, § 2(c), Jan. 2, 1968, 81 Stat. 757; Pub. L. 116–283, div. A, title IX, § 925(j), Jan. 1, 2021, 134 Stat. 3829.)
 
 **Historical and Revision Notes**
 
@@ -182,7 +182,7 @@ In subsection (a), the words “who extends his enlistment” are substituted fo
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 907. Enlisted members and warrant officers appointed as officers: pay and allowances stabilized
+## § 907. Enlisted members and warrant officers appointed as officers: pay and allowances stabilized
 
 **(a)** An enlisted member who accepts an appointment as an officer shall, for service as an officer, be paid the greater of—
 
@@ -232,9 +232,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(J)** Foreign language proficiency pay under section 353(b) of this title.
 
-**(K)** Critical skill retention bonus under section section 1
+**(K)** Critical skill retention bonus under section section 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 355 of this title.
 
@@ -250,47 +250,47 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(e)** The clothing allowance under section 418 of this title may not be considered in determining the amount of the pay and allowances of a grade formerly held by an officer if the officer is entitled to a uniform allowance under section 415 of this title.
 
-(Added Pub. L. 91–484, § 1(1), Oct. 21, 1970, 84 Stat. 1083; amended Pub. L. 96–343, § 6(a)(1), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–85, div. A, title VI, § 619(d), Nov. 18, 1997, 111 Stat. 1790; Pub. L. 105–261, div. A, title VI, § 617(b), Oct. 17, 1998, 112 Stat. 2041; Pub. L. 109–163, div. A, title VI, § 686(a), (b), Jan. 6, 2006, 119 Stat. 3325, 3326; Pub. L. 114–328, div. A, title VI, § 618(h)(4), Dec. 23, 2016, 130 Stat. 2161; Pub. L. 115–91, div. A, title VI, § 618(h), Dec. 12, 2017, 131 Stat. 1427.)
+(Added Pub. L. 91–484, § 1(1), Oct. 21, 1970, 84 Stat. 1083; amended Pub. L. 96–343, § 6(a)(1), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–85, div. A, title VI, § 619(d), Nov. 18, 1997, 111 Stat. 1790; Pub. L. 105–261, div. A, title VI, § 617(b), Oct. 17, 1998, 112 Stat. 2041; Pub. L. 109–163, div. A, title VI, § 686(a), (b), Jan. 6, 2006, 119 Stat. 3325, 3326; Pub. L. 114–328, div. A, title VI, § 618(h)(4), Dec. 23, 2016, 130 Stat. 2161; Pub. L. 115–91, div. A, title VI, § 618(h), Dec. 12, 2017, 131 Stat. 1427.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2017—Subsec. (d)(1)(A). Pub. L. 115–91, § 618(h)(1)(A), inserted “or 351” after “section 301”.
+2017—Subsec. (d)(1)(A). Pub. L. 115–91, § 618(h)(1)(A), inserted “or 351” after “section 301”.
 
-Subsec. (d)(1)(B). Pub. L. 115–91, § 618(h)(1)(B), inserted “or 352” after “section 301c”.
+Subsec. (d)(1)(B). Pub. L. 115–91, § 618(h)(1)(B), inserted “or 352” after “section 301c”.
 
-Subsec. (d)(1)(C). Pub. L. 115–91, § 618(h)(1)(C), inserted “or 353(a)” after “section 304”.
+Subsec. (d)(1)(C). Pub. L. 115–91, § 618(h)(1)(C), inserted “or 353(a)” after “section 304”.
 
-Subsec. (d)(1)(D). Pub. L. 115–91, § 618(h)(1)(D), inserted “or 352” after “section 305”.
+Subsec. (d)(1)(D). Pub. L. 115–91, § 618(h)(1)(D), inserted “or 352” after “section 305”.
 
-Subsec. (d)(1)(E). Pub. L. 115–91, § 618(h)(1)(E), inserted “or 352” after “section 305a”.
+Subsec. (d)(1)(E). Pub. L. 115–91, § 618(h)(1)(E), inserted “or 352” after “section 305a”.
 
-Subsec. (d)(1)(F). Pub. L. 115–91, § 618(h)(1)(F), inserted “or 352” after “section 305b”.
+Subsec. (d)(1)(F). Pub. L. 115–91, § 618(h)(1)(F), inserted “or 352” after “section 305b”.
 
-Subsec. (d)(1)(G). Pub. L. 115–91, § 618(h)(1)(G), inserted “or 352” after “section 307a”.
+Subsec. (d)(1)(G). Pub. L. 115–91, § 618(h)(1)(G), inserted “or 352” after “section 307a”.
 
-Subsec. (d)(1)(I). Pub. L. 115–91, § 618(h)(1)(H), inserted “or 352” after “section 314”.
+Subsec. (d)(1)(I). Pub. L. 115–91, § 618(h)(1)(H), inserted “or 352” after “section 314”.
 
-Subsec. (d)(1)(J). Pub. L. 115–91, § 618(h)(1)(I), substituted “353(b)” for “316”.
+Subsec. (d)(1)(J). Pub. L. 115–91, § 618(h)(1)(I), substituted “353(b)” for “316”.
 
-Subsec. (d)(1)(K). Pub. L. 115–91, § 618(h)(1)(J), substituted “section 355” for “323”.
+Subsec. (d)(1)(K). Pub. L. 115–91, § 618(h)(1)(J), substituted “section 355” for “323”.
 
-Subsec. (d)(2)(A). Pub. L. 115–91, § 618(h)(2)(A), inserted “or 352” after “section 307”.
+Subsec. (d)(2)(A). Pub. L. 115–91, § 618(h)(2)(A), inserted “or 352” after “section 307”.
 
-Subsec. (d)(2)(B). Pub. L. 115–91, § 618(h)(2)(B), substituted “331” for “308”.
+Subsec. (d)(2)(B). Pub. L. 115–91, § 618(h)(2)(B), substituted “331” for “308”.
 
-Subsec. (d)(2)(C). Pub. L. 115–91, § 618(h)(2)(C), substituted “331” for “309”.
+Subsec. (d)(2)(C). Pub. L. 115–91, § 618(h)(2)(C), substituted “331” for “309”.
 
-Subsec. (d)(2)(D). Pub. L. 115–91, § 618(h)(2)(D), inserted “or 353” after “section 320”.
+Subsec. (d)(2)(D). Pub. L. 115–91, § 618(h)(2)(D), inserted “or 353” after “section 320”.
 
 2016—Subsec. (d)(1)(H). Pub. L. 114–328 inserted “or 351” after “section 310”.
 
-2006—Subsecs. (a), (b). Pub. L. 109–163, § 686(b)(1), substituted “the officer” for “he” wherever appearing and “the appointment” for “his appointment” wherever appearing.
+2006—Subsecs. (a), (b). Pub. L. 109–163, § 686(b)(1), substituted “the officer” for “he” wherever appearing and “the appointment” for “his appointment” wherever appearing.
 
-Subsec. (c)(2). Pub. L. 109–163, § 686(b)(2), substituted “the officer remained” for “he remained”.
+Subsec. (c)(2). Pub. L. 109–163, § 686(b)(2), substituted “the officer remained” for “he remained”.
 
-Subsec. (d). Pub. L. 109–163, § 686(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining the amount of the pay and allowances of a grade formerly held by an officer, incentive pay for hazardous duty under section 301 of this title, special pay for diving duty under section 304 of this title, for hardship duty under section 305 of this title, and for sea duty under section 305a of this title, and proficiency pay under section 307 of this title may be considered only so long as the officer continues to perform the duty creating the entitlement to or eligibility for that pay and would otherwise be eligible to receive that pay in his former grade.”
+Subsec. (d). Pub. L. 109–163, § 686(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining the amount of the pay and allowances of a grade formerly held by an officer, incentive pay for hazardous duty under section 301 of this title, special pay for diving duty under section 304 of this title, for hardship duty under section 305 of this title, and for sea duty under section 305a of this title, and proficiency pay under section 307 of this title may be considered only so long as the officer continues to perform the duty creating the entitlement to or eligibility for that pay and would otherwise be eligible to receive that pay in his former grade.”
 
 1998—Subsec. (d). Pub. L. 105–261 substituted “hardship duty” for “duty at a hardship duty location”.
 
@@ -304,13 +304,13 @@ Subsec. (d). Pub. L. 109–163, § 686(a), amended subsec. (d) generally. Prio
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title VI, § 686(c), Jan. 6, 2006, 119 Stat. 3326, provided that: “Subsection (d) of section 907 of title 37, United States Code, as amended by subsection (a), shall apply with respect to any acceptance by an enlisted member of the Armed Forces of an appointment as an officer made on or after the date of the enactment of this Act [Jan. 6, 2006].”
+Pub. L. 109–163, div. A, title VI, § 686(c), Jan. 6, 2006, 119 Stat. 3326, provided that: “Subsection (d) of section 907 of title 37, United States Code, as amended by subsection (a), shall apply with respect to any acceptance by an enlisted member of the Armed Forces of an appointment as an officer made on or after the date of the enactment of this Act [Jan. 6, 2006].”
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–343, § 6(c), Sept. 8, 1980, 94 Stat. 1127, provided that: “The amendments made by this section [amending this section and section 203 of this title] shall be effective with respect to periods for which pay and allowances are payable which begin after August 31, 1980.”
+Pub. L. 96–343, § 6(c), Sept. 8, 1980, 94 Stat. 1127, provided that: “The amendments made by this section [amending this section and section 203 of this title] shall be effective with respect to periods for which pay and allowances are payable which begin after August 31, 1980.”
 
-## § 908. Reserves and retired members: acceptance of employment, payments, and awards from foreign governments
+## § 908. Reserves and retired members: acceptance of employment, payments, and awards from foreign governments
 
 **(a) Congressional Consent.—** Subject to subsections (b) and (c), Congress consents to the following persons accepting civil employment (and compensation for that employment), accepting payment for speeches, travel, meals, lodging, or registration fees, or accepting a non-cash award, for which the consent of Congress is required by the last paragraph of section 9 of article I of the Constitution, related to acceptance of emoluments, offices, or titles from a foreign government:
 
@@ -318,9 +318,9 @@ Pub. L. 96–343, § 6(c), Sept. 8, 1980, 94 Stat. 1127, provided that: “The
 
 **(2)** Members of a reserve component of the armed forces and members of the Space Force in space force active status not on sustained duty, except members serving on active duty under a call or order to active duty for a period in excess of 30 days.
 
-**(3)** Members of the Commissioned Reserve Corps 1
+**(3)** Members of the Commissioned Reserve Corps 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 of the Public Health Service.
 
@@ -352,13 +352,13 @@ of the Public Health Service.
 
 **(f) Prohibition on Former Members of Armed Forces Accepting Employment With Certain Foreign Governments.—** For a provision of law prohibiting former members of the armed forces from accepting post-service employment with certain foreign governments, see section 989 of title 10.
 
-(Added Pub. L. 97–295, § 3(6)(A), Oct. 12, 1982, 96 Stat. 1304; amended Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–160, div. A, title XIV, § 1433(c), Nov. 30, 1993, 107 Stat. 1834; Pub. L. 103–337, div. A, title X, § 1070(d)(6), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 116–92, div. A, title VI, § 651(a), Dec. 20, 2019, 133 Stat. 1431; Pub. L. 116–283, div. A, title VI, § 641(a)–(c)(1), Jan. 1, 2021, 134 Stat. 3683; Pub. L. 118–31, div. A, title V, §§ 523(c), 525, Dec. 22, 2023, 137 Stat. 252, 254; Pub. L. 119–60, div. A, title VI, § 601(g)(1), Dec. 18, 2025, 139 Stat. 905.)
+(Added Pub. L. 97–295, § 3(6)(A), Oct. 12, 1982, 96 Stat. 1304; amended Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–160, div. A, title XIV, § 1433(c), Nov. 30, 1993, 107 Stat. 1834; Pub. L. 103–337, div. A, title X, § 1070(d)(6), Oct. 5, 1994, 108 Stat. 2858; Pub. L. 116–92, div. A, title VI, § 651(a), Dec. 20, 2019, 133 Stat. 1431; Pub. L. 116–283, div. A, title VI, § 641(a)–(c)(1), Jan. 1, 2021, 134 Stat. 3683; Pub. L. 118–31, div. A, title V, §§ 523(c), 525, Dec. 22, 2023, 137 Stat. 252, 254; Pub. L. 119–60, div. A, title VI, § 601(g)(1), Dec. 18, 2025, 139 Stat. 905.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 908 | 37:801 (note). | Aug. 17, 1977, Pub. L. 95–105, § 509(a)–(c), 91 Stat. 859. |
+| 908 | 37:801 (note). | Aug. 17, 1977, Pub. L. 95–105, § 509(a)–(c), 91 Stat. 859. |
 
 In subsection (a), the words “for which” are substituted for “with respect to which” for clarity.
 
@@ -370,35 +370,35 @@ The text of section 509(c) of the Act of August 17, 1977, is omitted as unnecess
 
 2025—Subsec. (a)(2). Pub. L. 119–60 inserted “and members of the Space Force in space force active status not on sustained duty” after “of the armed forces”.
 
-2023—Subsec. (b). Pub. L. 118–31, § 525(1), designated existing provisions as par. (1), inserted “after determining that such approval is not contrary to the national interests of the United States” after “approve the employment”, and added par. (2).
+2023—Subsec. (b). Pub. L. 118–31, § 525(1), designated existing provisions as par. (1), inserted “after determining that such approval is not contrary to the national interests of the United States” after “approve the employment”, and added par. (2).
 
-Subsec. (d)(2). Pub. L. 118–31, § 525(2)(A)(i), substituted “a person” for “an officer” in introductory provisions.
+Subsec. (d)(2). Pub. L. 118–31, § 525(2)(A)(i), substituted “a person” for “an officer” in introductory provisions.
 
-Subsec. (d)(2)(B) to (D). Pub. L. 118–31, § 525(2)(A)(ii), added subpars. (B) to (D) and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (d)(2)(B) to (D). Pub. L. 118–31, § 525(2)(A)(ii), added subpars. (B) to (D) and struck out former subpars. (B) and (C) which read as follows:
 
 “(B) The duties, if any, to be performed in connection with the employment or compensation or payment or award.
 
 “(C) The total amount of compensation, if any, or payment to be provided.”
 
-Subsec. (d)(3). Pub. L. 118–31, § 525(2)(B), added par. (3).
+Subsec. (d)(3). Pub. L. 118–31, § 525(2)(B), added par. (3).
 
-Subsec. (f). Pub. L. 118–31, § 523(c), added subsec. (f).
+Subsec. (f). Pub. L. 118–31, § 523(c), added subsec. (f).
 
-2021—Pub. L. 116–283, § 641(c)(1), amended section catchline generally, substituting “Reserves and retired members: acceptance of employment, payments, and awards from foreign governments” for “Employment of reserves and retired members by foreign governments”.
+2021—Pub. L. 116–283, § 641(c)(1), amended section catchline generally, substituting “Reserves and retired members: acceptance of employment, payments, and awards from foreign governments” for “Employment of reserves and retired members by foreign governments”.
 
-Subsec. (a). Pub. L. 116–283, § 641(a)(1)(A), in introductory provisions, substituted “subsections (b) and (c)” for “subsection (b)” and inserted “, accepting payment for speeches, travel, meals, lodging, or registration fees, or accepting a non-cash award,” after “that employment)”.
+Subsec. (a). Pub. L. 116–283, § 641(a)(1)(A), in introductory provisions, substituted “subsections (b) and (c)” for “subsection (b)” and inserted “, accepting payment for speeches, travel, meals, lodging, or registration fees, or accepting a non-cash award,” after “that employment)”.
 
-Subsec. (a)(2). Pub. L. 116–283, § 641(a)(1)(B), substituted “armed forces, except members serving on active duty under a call or order to active duty for a period in excess of 30 days” for “armed forces”.
+Subsec. (a)(2). Pub. L. 116–283, § 641(a)(1)(B), substituted “armed forces, except members serving on active duty under a call or order to active duty for a period in excess of 30 days” for “armed forces”.
 
-Subsec. (b). Pub. L. 116–283, § 641(a)(2), inserted “for Employment and Compensation” after “Approval Required” in heading.
+Subsec. (b). Pub. L. 116–283, § 641(a)(2), inserted “for Employment and Compensation” after “Approval Required” in heading.
 
-Subsec. (c). Pub. L. 116–283, § 641(a)(4), added subsec. (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 116–283, § 641(a)(4), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 116–283, § 641(a)(3), (b), redesignated subsec. (c) as (d), designated existing provisions as par. (1), inserted “, and each approval under subsection (c) for a payment or award described in subsection (a),” after “in subsection (a)”, and added par. (2). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 116–283, § 641(a)(3), (b), redesignated subsec. (c) as (d), designated existing provisions as par. (1), inserted “, and each approval under subsection (c) for a payment or award described in subsection (a),” after “in subsection (a)”, and added par. (2). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 116–283, § 641(a)(3), redesignated subsec. (d) as (e).
+Subsec. (e). Pub. L. 116–283, § 641(a)(3), redesignated subsec. (d) as (e).
 
-2019—Subsecs. (c), (d). Pub. L. 116–92, § 651(a), added subsec. (c) and redesignated former subsec. (c) as (d).
+2019—Subsecs. (c), (d). Pub. L. 116–92, § 651(a), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1994—Subsec. (c). Pub. L. 103–337 substituted “1060” for “1058”.
 
@@ -416,9 +416,9 @@ Reference to Reserve Corps of the Public Health Service deemed to be a reference
 
 **Scope of First Report**
 
-Pub. L. 116–92, div. A, title VI, § 651(b), Dec. 20, 2019, 133 Stat. 1431, provided that: “The first report submitted pursuant to subsection (c) of section 908 of title 37, United States Code (as amended by subsection (a) of this section), after the date of the enactment of this Act [Dec. 20, 2019] shall cover the five-year period ending with the year before the year in which such report is submitted.”
+Pub. L. 116–92, div. A, title VI, § 651(b), Dec. 20, 2019, 133 Stat. 1431, provided that: “The first report submitted pursuant to subsection (c) of section 908 of title 37, United States Code (as amended by subsection (a) of this section), after the date of the enactment of this Act [Dec. 20, 2019] shall cover the five-year period ending with the year before the year in which such report is submitted.”
 
-## § 909. Special and incentive pay: payment at unreduced rates during suspension of personnel laws
+## § 909. Special and incentive pay: payment at unreduced rates during suspension of personnel laws
 
 **(a) Authority To Continue Payment at Unreduced Rates.—** To ensure fairness and recognize the contributions of members of the armed forces to military essential missions, the Secretary of the military department concerned may authorize members who are involuntarily retained on active duty under section 123 or 12305 of title 10 or any other provision of law and who, immediately before retention on active duty, were entitled or eligible for special pay or incentive pay under chapter 5 of this title, to receive that special pay or incentive pay for qualifying service performed during the retention period, without a reduction in the payment rate below the rate the members received immediately before retention on active duty, notwithstanding any requirement otherwise applicable to that special pay or incentive pay that would reduce the payment rate by reason of the years of service of the members.
 
@@ -426,15 +426,15 @@ Pub. L. 116–92, div. A, title VI, § 651(b), Dec. 20, 2019, 133 Stat. 1431, 
 
 **(c) Qualifying Service Defined.—** In this section, the term “qualifying service” means service for which a particular special pay or incentive pay is payable under the authority of a provision of chapter 5 of this title.
 
-(Added Pub. L. 107–107, div. A, title VI, § 623(a)(1), Dec. 28, 2001, 115 Stat. 1142.)
+(Added Pub. L. 107–107, div. A, title VI, § 623(a)(1), Dec. 28, 2001, 115 Stat. 1142.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 107–107, div. A, title VI, § 623(b), Dec. 28, 2001, 115 Stat. 1143, provided that: “Section 909 of title 37, United States Code, as added by subsection (a)(1), shall apply with respect to pay periods beginning after September 11, 2001.”
+Pub. L. 107–107, div. A, title VI, § 623(b), Dec. 28, 2001, 115 Stat. 1143, provided that: “Section 909 of title 37, United States Code, as added by subsection (a)(1), shall apply with respect to pay periods beginning after September 11, 2001.”
 
-## § 910. Replacement of lost income: involuntarily mobilized reserve component members and members of the Space Force subject to extended and frequent active duty service
+## § 910. Replacement of lost income: involuntarily mobilized reserve component members and members of the Space Force subject to extended and frequent active duty service
 
 **(a) Payment Required.—** The Secretary concerned shall pay to an eligible member of a reserve component of the armed forces or of the Space Force an amount equal to the monthly active-duty income differential of the member, as determined by the Secretary, when the total monthly military compensation of the member is less than the average monthly civilian income of the member. The payments shall be made on a monthly basis.
 
@@ -486,21 +486,21 @@ Pub. L. 107–107, div. A, title VI, § 623(b), Dec. 28, 2001, 115 Stat. 1143,
 
 **(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2026, unless the entitlement of the member to payments under this section commenced on or before that date.
 
-(Added Pub. L. 109–163, div. A, title VI, § 614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, § 604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, [div. A], title VI, § 605, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 111–84, div. A, title VI, § 611(7), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §§ 601(a), 611(7), Jan. 7, 2011, 124 Stat. 4235, 4236; Pub. L. 112–81, div. A, title VI, § 611(7), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, § 611(8), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, § 611(8), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, § 611(8), Dec. 19, 2014, 128 Stat. 3399; Pub. L. 114–92, div. A, title VI, § 611(8), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §§ 611(8), 618(h)(5), Dec. 23, 2016, 130 Stat. 2157, 2161; Pub. L. 115–91, div. A, title VI, § 611(8), Dec. 12, 2017, 131 Stat. 1421; Pub. L. 115–232, div. A, title VI, § 611(a), Aug. 13, 2018, 132 Stat. 1796; Pub. L. 116–92, div. A, title VI, § 611(a), Dec. 20, 2019, 133 Stat. 1425; Pub. L. 116–283, div. A, title VI, § 611(a), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, § 611(a), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, § 601(a), Dec. 23, 2022, 136 Stat. 2619; Pub. L. 118–31, div. A, title VI, § 613(a), Dec. 22, 2023, 137 Stat. 291; Pub. L. 118–159, div. A, title VI, § 611(a), Dec. 23, 2024, 138 Stat. 1932; Pub. L. 119–60, div. A, title VI, §§ 601(g)(2), 611(a), Dec. 18, 2025, 139 Stat. 905, 906.)
+(Added Pub. L. 109–163, div. A, title VI, § 614(a), Jan. 6, 2006, 119 Stat. 3292; amended Pub. L. 110–181, div. A, title VI, § 604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110–417, [div. A], title VI, § 605, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 111–84, div. A, title VI, § 611(7), Oct. 28, 2009, 123 Stat. 2352; Pub. L. 111–383, div. A, title VI, §§ 601(a), 611(7), Jan. 7, 2011, 124 Stat. 4235, 4236; Pub. L. 112–81, div. A, title VI, § 611(7), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, § 611(8), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, § 611(8), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, § 611(8), Dec. 19, 2014, 128 Stat. 3399; Pub. L. 114–92, div. A, title VI, § 611(8), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §§ 611(8), 618(h)(5), Dec. 23, 2016, 130 Stat. 2157, 2161; Pub. L. 115–91, div. A, title VI, § 611(8), Dec. 12, 2017, 131 Stat. 1421; Pub. L. 115–232, div. A, title VI, § 611(a), Aug. 13, 2018, 132 Stat. 1796; Pub. L. 116–92, div. A, title VI, § 611(a), Dec. 20, 2019, 133 Stat. 1425; Pub. L. 116–283, div. A, title VI, § 611(a), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, § 611(a), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, § 601(a), Dec. 23, 2022, 136 Stat. 2619; Pub. L. 118–31, div. A, title VI, § 613(a), Dec. 22, 2023, 137 Stat. 291; Pub. L. 118–159, div. A, title VI, § 611(a), Dec. 23, 2024, 138 Stat. 1932; Pub. L. 119–60, div. A, title VI, §§ 601(g)(2), 611(a), Dec. 18, 2025, 139 Stat. 905, 906.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 601(g)(2)(A), inserted “and members of the Space Force” after “reserve component members” in section catchline. Catchline text was editorially conformed to the style used in this title.
+2025—Pub. L. 119–60, § 601(g)(2)(A), inserted “and members of the Space Force” after “reserve component members” in section catchline. Catchline text was editorially conformed to the style used in this title.
 
-Subsec. (a). Pub. L. 119–60, § 601(g)(2)(B), inserted “or of the Space Force” after “of the armed forces”.
+Subsec. (a). Pub. L. 119–60, § 601(g)(2)(B), inserted “or of the Space Force” after “of the armed forces”.
 
-Subsec. (b)(1) to (3). Pub. L. 119–60, § 601(g)(2)(C), inserted “or the Space Force” after “a reserve component” in introductory provisions.
+Subsec. (b)(1) to (3). Pub. L. 119–60, § 601(g)(2)(C), inserted “or the Space Force” after “a reserve component” in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 119–60, § 601(g)(2)(C), inserted “or the Space Force” after “a reserve component”.
+Subsec. (e)(1). Pub. L. 119–60, § 601(g)(2)(C), inserted “or the Space Force” after “a reserve component”.
 
-Subsec. (g). Pub. L. 119–60, § 611(a), substituted “December 31, 2026” for “December 31, 2025”.
+Subsec. (g). Pub. L. 119–60, § 611(a), substituted “December 31, 2026” for “December 31, 2025”.
 
 2024—Subsec. (g). Pub. L. 118–159 substituted “December 31, 2025” for “December 31, 2024”.
 
@@ -518,9 +518,9 @@ Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020�
 
 2017—Subsec. (g). Pub. L. 115–91 substituted “December 31, 2018” for “December 31, 2017”.
 
-2016—Subsec. (b)(2)(B). Pub. L. 114–328, § 618(h)(5), inserted “, or paragraph (1) or (3) of section 351(a),” after “section 310”.
+2016—Subsec. (b)(2)(B). Pub. L. 114–328, § 618(h)(5), inserted “, or paragraph (1) or (3) of section 351(a),” after “section 310”.
 
-Subsec. (g). Pub. L. 114–328, § 611(8), substituted “December 31, 2017” for “December 31, 2016”.
+Subsec. (g). Pub. L. 114–328, § 611(8), substituted “December 31, 2017” for “December 31, 2016”.
 
 2015—Subsec. (g). Pub. L. 114–92 substituted “December 31, 2016” for “December 31, 2015”.
 
@@ -530,17 +530,17 @@ Subsec. (g). Pub. L. 114–328, § 611(8), substituted “December 31, 2017”
 
 Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
 
-2011—Subsec. (b)(3). Pub. L. 111–383, § 601(a), added par. (3).
+2011—Subsec. (b)(3). Pub. L. 111–383, § 601(a), added par. (3).
 
 Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
 
-Pub. L. 111–383, § 611(7), substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383, § 611(7), substituted “December 31, 2011” for “December 31, 2010”.
 
 2009—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
 
-2008—Subsec. (a). Pub. L. 110–181, § 604(a), inserted before period at end of first sentence “, when the total monthly military compensation of the member is less than the average monthly civilian income of the member”.
+2008—Subsec. (a). Pub. L. 110–181, § 604(a), inserted before period at end of first sentence “, when the total monthly military compensation of the member is less than the average monthly civilian income of the member”.
 
-Subsec. (b). Pub. L. 110–181, § 604(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “Subject to subsection (c), a reserve component member is entitled to a payment under this section for any full month of active duty of the member, while on active duty under an involuntary mobilization order, following the date on which the member—
+Subsec. (b). Pub. L. 110–181, § 604(b), amended subsec. (b) generally. Prior to amendment, text read as follows: “Subject to subsection (c), a reserve component member is entitled to a payment under this section for any full month of active duty of the member, while on active duty under an involuntary mobilization order, following the date on which the member—
 
 “(1) completes 18 continuous months of service on active duty under such an order;
 
@@ -550,14 +550,14 @@ Subsec. (b). Pub. L. 110–181, § 604(b), amended subsec. (b) generally. Prio
 
 Subsec. (g). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
 
-Pub. L. 110–181, § 604(c), amended subsec. (g) generally. Prior to amendment, text read as follows: “No payment shall be made under this section after December 31, 2008.”
+Pub. L. 110–181, § 604(c), amended subsec. (g) generally. Prior to amendment, text read as follows: “No payment shall be made under this section after December 31, 2008.”
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title VI, § 601(b), Jan. 7, 2011, 124 Stat. 4235, provided that: “Subsection (b)(3) of section 910 of title 37, United States Code, as added by subsection (a), shall apply with respect to payments under such section for months beginning on or after the date of the enactment of this Act [Jan. 7, 2011].”
+Pub. L. 111–383, div. A, title VI, § 601(b), Jan. 7, 2011, 124 Stat. 4235, provided that: “Subsection (b)(3) of section 910 of title 37, United States Code, as added by subsection (a), shall apply with respect to payments under such section for months beginning on or after the date of the enactment of this Act [Jan. 7, 2011].”
 
 **Effective Date**
 
-Pub. L. 109–163, div. A, title VI, § 614(c), Jan. 6, 2006, 119 Stat. 3293, provided that: “Section 910 of title 37, United States Code, as added by subsection (a), may apply only with respect to months beginning after the end of the 180-day period beginning on the date of the enactment of this Act [Jan. 6, 2006].”
+Pub. L. 109–163, div. A, title VI, § 614(c), Jan. 6, 2006, 119 Stat. 3293, provided that: “Section 910 of title 37, United States Code, as added by subsection (a), may apply only with respect to months beginning after the end of the 180-day period beginning on the date of the enactment of this Act [Jan. 6, 2006].”

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 32A—CULTURAL AND HERITAGE COOPERATION AUTHORITY
 
-## § 3051. Purposes
+## § 3051. Purposes
 
 The purposes of this chapter are—
 
@@ -33,13 +33,13 @@ The purposes of this chapter are—
 
 **(7)** to strengthen support for the policy of the United States of protecting and preserving the traditional, cultural, and ceremonial rites and practices of Indian tribes, in accordance with Public Law 95–341 (commonly known as the American Indian Religious Freedom Act; 42 U.S.C. 1996).
 
-(Pub. L. 110–234, title VIII, § 8101, May 22, 2008, 122 Stat. 1286; Pub. L. 110–246, § 4(a), title VIII, § 8101, June 18, 2008, 122 Stat. 1664, 2048.)
+(Pub. L. 110–234, title VIII, § 8101, May 22, 2008, 122 Stat. 1286; Pub. L. 110–246, § 4(a), title VIII, § 8101, June 18, 2008, 122 Stat. 1664, 2048.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Native American Graves Protection and Repatriation Act, referred to in par. (1), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Native American Graves Protection and Repatriation Act, referred to in par. (1), is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 The American Indian Religious Freedom Act, referred to in par. (7), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
 
@@ -57,7 +57,7 @@ Section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
 
-## § 3052. Definitions
+## § 3052. Definitions
 
 In this chapter:
 
@@ -97,7 +97,7 @@ The term “reburial site” means a specific physical location at which cultura
 
 The term “traditional and cultural purpose”, with respect to a definable use, area, or practice, means that the use, area, or practice is identified by an Indian tribe as traditional or cultural because of the long-established significance or ceremonial nature of the use, area, or practice to the Indian tribe.
 
-(Pub. L. 110–234, title VIII, § 8102, May 22, 2008, 122 Stat. 1287; Pub. L. 110–246, § 4(a), title VIII, § 8102, June 18, 2008, 122 Stat. 1664, 2048.)
+(Pub. L. 110–234, title VIII, § 8102, May 22, 2008, 122 Stat. 1287; Pub. L. 110–246, § 4(a), title VIII, § 8102, June 18, 2008, 122 Stat. 1664, 2048.)
 
 **Editorial Notes**
 
@@ -111,7 +111,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-## § 3053. Reburial of human remains and cultural items
+## § 3053. Reburial of human remains and cultural items
 
 **(a) Reburial sites**
 
@@ -131,7 +131,7 @@ Subject to paragraph (2), the Secretary may authorize such uses of reburial site
 
 In carrying out paragraph (1), the Secretary shall avoid adverse impacts to cultural items and human remains, to the maximum extent practicable.
 
-(Pub. L. 110–234, title VIII, § 8103, May 22, 2008, 122 Stat. 1287; Pub. L. 110–246, § 4(a), title VIII, § 8103, June 18, 2008, 122 Stat. 1664, 2049.)
+(Pub. L. 110–234, title VIII, § 8103, May 22, 2008, 122 Stat. 1287; Pub. L. 110–246, § 4(a), title VIII, § 8103, June 18, 2008, 122 Stat. 1664, 2049.)
 
 **Editorial Notes**
 
@@ -149,7 +149,7 @@ Section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
 
-## § 3054. Temporary closure for traditional and cultural purposes
+## § 3054. Temporary closure for traditional and cultural purposes
 
 **(a) Recognition of historic use**
 
@@ -169,7 +169,7 @@ A closure of National Forest System land under paragraph (1) shall affect the sm
 
 Access by Indian tribes to National Forest System land under this subsection shall be consistent with the purposes of Public Law 95–341 (commonly known as the American Indian Religious Freedom Act; 42 U.S.C. 1996).
 
-(Pub. L. 110–234, title VIII, § 8104, May 22, 2008, 122 Stat. 1288; Pub. L. 110–246, § 4(a), title VIII, § 8104, June 18, 2008, 122 Stat. 1664, 2049.)
+(Pub. L. 110–234, title VIII, § 8104, May 22, 2008, 122 Stat. 1288; Pub. L. 110–246, § 4(a), title VIII, § 8104, June 18, 2008, 122 Stat. 1664, 2049.)
 
 **Editorial Notes**
 
@@ -191,7 +191,7 @@ Section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
 
-## § 3055. Forest products for traditional and cultural purposes
+## § 3055. Forest products for traditional and cultural purposes
 
 **(a) In general**
 
@@ -201,7 +201,7 @@ Notwithstanding section 472a of title 16, the Secretary may provide free of char
 
 Trees, portions of trees, or forest products provided under subsection (a) may not be used for commercial purposes.
 
-(Pub. L. 110–234, title VIII, § 8105, May 22, 2008, 122 Stat. 1288; Pub. L. 110–246, § 4(a), title VIII, § 8105, June 18, 2008, 122 Stat. 1664, 2050.)
+(Pub. L. 110–234, title VIII, § 8105, May 22, 2008, 122 Stat. 1288; Pub. L. 110–246, § 4(a), title VIII, § 8105, June 18, 2008, 122 Stat. 1664, 2050.)
 
 **Editorial Notes**
 
@@ -219,7 +219,7 @@ Section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
 
-## § 3056. Prohibition on disclosure
+## § 3056. Prohibition on disclosure
 
 **(a) Nondisclosure of information**
 
@@ -227,7 +227,7 @@ Section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2
 
 **(A)** subject to subsection (b)(l),1
 
-<sup>1</sup>  So in original. Probably should be “(b)(1),”.
+<sup>1</sup> So in original. Probably should be “(b)(1),”.
 
 human remains or cultural items reburied on National Forest System land under section 3053 of this title; or
 
@@ -245,9 +245,9 @@ human remains or cultural items reburied on National Forest System land under se
 
 **(b) Limited release of information**
 
-**(1) Reburial** The Secretary may disclose information described in subsection (a)(l)(A) 2
+**(1) Reburial** The Secretary may disclose information described in subsection (a)(l)(A) 2
 
-<sup>2</sup>  So in original. Probably should be “(a)(1)(A)”.
+<sup>2</sup> So in original. Probably should be “(a)(1)(A)”.
 
 if, before the disclosure, the Secretary—
 
@@ -269,7 +269,7 @@ if, before the disclosure, the Secretary—
 
 **(C)** would be consistent with other applicable laws.
 
-(Pub. L. 110–234, title VIII, § 8106, May 22, 2008, 122 Stat. 1288; Pub. L. 110–246, § 4(a), title VIII, § 8106, June 18, 2008, 122 Stat. 1664, 2050.)
+(Pub. L. 110–234, title VIII, § 8106, May 22, 2008, 122 Stat. 1288; Pub. L. 110–246, § 4(a), title VIII, § 8106, June 18, 2008, 122 Stat. 1664, 2050.)
 
 **Editorial Notes**
 
@@ -287,7 +287,7 @@ Section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
 
-## § 3057. Severability and savings provisions
+## § 3057. Severability and savings provisions
 
 **(a) Severability**
 
@@ -303,7 +303,7 @@ If any provision of this chapter, or the application of any provision of this ch
 
 **(4)** alters, abridges, diminishes, repeals, or affects any other valid existing right relating to National Forest System land or other public land.
 
-(Pub. L. 110–234, title VIII, § 8107, May 22, 2008, 122 Stat. 1289; Pub. L. 110–246, § 4(a), title VIII, § 8107, June 18, 2008, 122 Stat. 1664, 2051.)
+(Pub. L. 110–234, title VIII, § 8107, May 22, 2008, 122 Stat. 1289; Pub. L. 110–246, § 4(a), title VIII, § 8107, June 18, 2008, 122 Stat. 1664, 2051.)
 
 **Editorial Notes**
 

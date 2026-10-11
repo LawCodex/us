@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 12—MULTIPLE MINERAL DEVELOPMENT OF THE SAME TRACTS
 
-## § 521. Mineral leasing claims
+## § 521. Mineral leasing claims
 
 **(a) Preference categories** Subject to the conditions and provisions of this chapter and to any valid intervening rights acquired under the laws of the United States, any mining claim located under the mining laws of the United States subsequent to July 31, 1939, and prior to February 10, 1954, on lands of the United States, which at the time of location were—
 
@@ -35,7 +35,7 @@ Labor performed or improvements made after the original location of and upon or 
 
 As to any land covered by any mining claim which is entitled to the benefits of this chapter under the provisions of subsection (a) of this section, any withdrawal or reservation of lands made after the original location of such mining claim is hereby modified and amended so that the effect thereof upon such mining claim shall be the same as if such mining claim had been located upon lands of the United States which, subsequent to July 31, 1939, and prior to the date of such withdrawal or reservation, were subject to location under the mining laws of the United States.
 
-(Aug. 13, 1954, ch. 730, § 1, 68 Stat. 708.)
+(Aug. 13, 1954, ch. 730, § 1, 68 Stat. 708.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -49,17 +49,17 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 **Separability**
 
-Act Aug. 13, 1954, ch. 730, § 13, 68 Stat. 717, provided that: “If any provision of this Act [enacting this chapter], or the application of such provision to any person or circumstances, is held unconstitutional, invalid, or unenforcible [sic], the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held unconstitutional, invalid, or unenforcible [sic], shall not be affected thereby.”
+Act Aug. 13, 1954, ch. 730, § 13, 68 Stat. 717, provided that: “If any provision of this Act [enacting this chapter], or the application of such provision to any person or circumstances, is held unconstitutional, invalid, or unenforcible [sic], the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held unconstitutional, invalid, or unenforcible [sic], shall not be affected thereby.”
 
-## § 522. Conflicting periods of location of claims
+## § 522. Conflicting periods of location of claims
 
 **(a)** If any mining claim which shall have been located subsequent to December 31, 1952, and prior to December 11, 1953, and which shall be entitled to the benefits of this chapter, shall cover any lands embraced within any mining claim which shall have been located prior to January 1, 1953, and which shall be entitled to the benefits of this chapter, then as to such area of conflict said mining claim so located subsequent to December 31, 1952, shall be deemed to have been located December 11, 1953.
 
 **(b)** If any mining claim hereafter located shall cover any lands embraced within any mining claim which shall have been located prior to February 10, 1954, and which shall be entitled to the benefits of this chapter, then as to such area of conflict said mining claim hereafter located shall be deemed to have been located one hundred and twenty-one days after August 13, 1954.
 
-(Aug. 13, 1954, ch. 730, § 2, 68 Stat. 709.)
+(Aug. 13, 1954, ch. 730, § 2, 68 Stat. 709.)
 
-## § 523. Uranium leases
+## § 523. Uranium leases
 
 **(a) Right to locate mining claims**
 
@@ -73,7 +73,7 @@ Any rights under any such mining claim so hereafter located pursuant to the prov
 
 Except as otherwise provided in subsections (a) and (b) of this section, no mining claim hereafter located shall be valid as to any lands which at the time of such location were covered by a uranium lease application or a uranium lease. Any tract upon which a notice of lease application has been posted in accordance with said paragraph (c) of said Circular 7 shall be deemed to have been included in a uranium lease application from and after the time of the posting of such notice of lease application: *Provided*, That there shall have been timely compliance with the other provisions of said paragraph (c) or, if there shall not have been such timely compliance, then from and after the time of the filing of a uranium lease application with the Atomic Energy Commission.
 
-(Aug. 13, 1954, ch. 730, § 3, 68 Stat. 709.)
+(Aug. 13, 1954, ch. 730, § 3, 68 Stat. 709.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -81,7 +81,7 @@ Except as otherwise provided in subsections (a) and (b) of this section, no mini
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
-## § 524. Reservation of minerals to United States
+## § 524. Reservation of minerals to United States
 
 Every mining claim or millsite—
 
@@ -101,9 +101,9 @@ covered by an application or offer for a permit or lease filed under the mineral
 
 known to be valuable for minerals subject to disposition under the mineral leasing laws.
 
-(Aug. 13, 1954, ch. 730, § 4, 68 Stat. 710.)
+(Aug. 13, 1954, ch. 730, § 4, 68 Stat. 710.)
 
-## § 525. Future location of claims on mineral lands
+## § 525. Future location of claims on mineral lands
 
 Subject to the conditions and provisions of this chapter, mining claims and millsites may hereafter be located under the mining laws of the United States on lands of the United States which at the time of location are—
 
@@ -115,9 +115,9 @@ Subject to the conditions and provisions of this chapter, mining claims and mill
 
 to the same extent in all respects as if such lands were not so included or covered or known.
 
-(Aug. 13, 1954, ch. 730, § 5, 68 Stat. 710.)
+(Aug. 13, 1954, ch. 730, § 5, 68 Stat. 710.)
 
-## § 526. Mining and Leasing Act operations
+## § 526. Mining and Leasing Act operations
 
 **(a) Multiple use**
 
@@ -139,9 +139,9 @@ If, upon petition of either the mining operator or the Leasing Act operator, any
 
 Where the same lands are being utilized for mining operations and Leasing Act operations, then upon request of the party conducting either of said operations, the party conducting the other of said operations shall furnish to and at the expense of such requesting party copies of any information which said other party may have, as to the situs of any improvements, workings, or facilities theretofore made upon such lands, and upon like request, shall permit such requesting party, at the risk of such requesting party, to have access at reasonable times to any such improvements, workings, or facilities for the purpose of surveying and checking or determining the situs thereof. If damage to or material interference with a party’s improvements, workings, facilities, or with the utilization thereof shall result from such party’s failure, after request, to so furnish to the requesting party such information or from denial of such access, such failure or denial shall relieve the requesting party of any liability for the damage or interference resulting by reason of such failure or denial. Failure of a party to furnish requested information or access shall not impose upon such party any liability to the requesting party other than for such costs of court and attorney’s fees as may be allowed to the requesting party in enforcing by court action the obligations of this section as to the furnishing of information and access. The obligation hereunder of any party to furnish requested information shall be limited to map and survey information then available to such party with respect to the situs of improvements, workings, and facilities and the furnishing thereof shall not be deemed to constitute any representation as to the accuracy of such information.
 
-(Aug. 13, 1954, ch. 730, § 6, 68 Stat. 710.)
+(Aug. 13, 1954, ch. 730, § 6, 68 Stat. 710.)
 
-## § 527. Determination of unpatented mining claims
+## § 527. Determination of unpatented mining claims
 
 (a) Filing of notice
 
@@ -195,7 +195,7 @@ Other than in respect to the requirements of subsection (a) of this section as t
 
 If any applicant, offeror, permittee, or lessee shall fail to comply with the requirements of subsection (a) of this section as to the personal delivery or mailing of a copy of notice to any person, the publication of such notice shall be deemed wholly ineffectual as to that person or as to the rights asserted by that person and the failure of that person to file a verified statement, as provided in such notice, shall in no manner affect, diminish, prejudice or bar any rights of that person.
 
-(Aug. 13, 1954, ch. 730, § 7, 68 Stat. 711; Pub. L. 86–507, § 1(25), June 11, 1960, 74 Stat. 201.)
+(Aug. 13, 1954, ch. 730, § 7, 68 Stat. 711; Pub. L. 86–507, § 1(25), June 11, 1960, 74 Stat. 201.)
 
 **Editorial Notes**
 
@@ -203,53 +203,53 @@ If any applicant, offeror, permittee, or lessee shall fail to comply with the re
 
 1960—Subsec. (a). Pub. L. 86–507 inserted “or by certified mail” after “registered mail” in two places in last paragraph.
 
-## § 528. Waiver and relinquishment of mineral rights
+## § 528. Waiver and relinquishment of mineral rights
 
 The owner or owners of any mining claim heretofore located may, at any time prior to issuance of patent therefor, waive and relinquish all rights thereunder to Leasing Act minerals. The execution and acknowledgment of such a waiver and relinquishment by such owner or owners and the recordation thereof in the office where the notice or certificate of location of such mining claim is of record shall render such mining claim thereafter subject to the reservation referred to in section 524 of this title and any patent issued therefor shall contain such a reservation, but no such waiver or relinquishment shall be deemed in any manner to constitute any concession as to the date of priority of rights under said mining claim or as to the validity thereof.
 
-(Aug. 13, 1954, ch. 730, § 8, 68 Stat. 715.)
+(Aug. 13, 1954, ch. 730, § 8, 68 Stat. 715.)
 
-## § 529. Helium lands subject to entry
+## § 529. Helium lands subject to entry
 
 Lands withdrawn from the public domain which are within (a) Helium Reserve Numbered 1, pursuant to Executive orders of March 21, 1924, and January 28, 1926, and (b) Helium Reserve Numbered 2 pursuant to Executive Order 6184 of June 26, 1933, shall be subject to entry and location under the mining laws of the United States, and to permit and lease under the mineral leasing laws, upon determination by the Secretary of the Interior, based upon available geologic and other information, that there is no reasonable probability that operations pursuant to entry or location of the particular lands under the mining laws, or pursuant to a permit or lease of the particular lands under the Mineral Leasing Act [30 U.S.C. 181 et seq.], will result in the extraction or cause loss or waste of the helium-bearing gas in the lands of such reserves: *Provided*, That the lands shall not become subject to entry, location, permit or lease until such time as the Secretary designates in an order published in the Federal Register: *And provided further*, That the Secretary may at any time as a condition to continued mineral operations require the entryman, locator, permittee or lessee to take such measures either above or below the surface of the lands as the Secretary deems necessary to prevent loss or waste of the helium-bearing gas.
 
-(Aug. 13, 1954, ch. 730, § 9, 68 Stat. 715.)
+(Aug. 13, 1954, ch. 730, § 9, 68 Stat. 715.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mineral Leasing Act, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Mineral Leasing Act, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
-## § 530. Definitions
+## § 530. Definitions
 
 As used in this chapter “mineral leasing laws” shall mean the Act of February 25, 1920 (41 Stat. 437) [30 U.S.C. 181 et seq.]; the Act of April 17, 1926 (44 Stat. 301) [30 U.S.C. 271 et seq.]; the Act of February 7, 1927 (44 Stat. 1057) [30 U.S.C. 281 et seq.]; Geothermal Steam Act of 1970 [30 U.S.C. 1001 et seq.]; and all Acts heretofore or hereafter enacted which are amendatory of or supplementary to any of the foregoing Acts; “Leasing Act minerals” shall mean all minerals which, upon August 13, 1954, are provided in the mineral leasing laws to be disposed of thereunder and all geothermal steam and associated geothermal resources which, upon the effective date of the Geothermal Steam Act of 1970, are provided in that Act to be disposed of thereunder; “Leasing Act operations” shall mean operations conducted under a lease, permit, or license issued under the mineral leasing laws in or incidental to prospecting for, drilling for, mining, treating, storing, transporting, or removing Leasing Act minerals; “mining operations” shall mean operations under any unpatented or patented mining claim or millsite in or incidental to prospecting for, mining, treating, storing, transporting, or removing minerals other than Leasing Act minerals and any other use under any claim of right or title based upon such mining claim or millsite; “Leasing Act operator” shall mean any party who shall conduct Leasing Act operations; “mining operator” shall mean any party who shall conduct mining operations; “Atomic Energy Act” shall mean the Act of August 1, 1946 (60 Stat. 755), as amended [42 U.S.C. 2011 et seq.]; “Atomic Energy Commission” shall mean the United States Atomic Energy Commission established under the Atomic Energy Act or any amendments thereof; “fissionable source material” shall mean uranium, thorium, and all other materials referred to in section 5(b)(1) of the Atomic Energy Act, as amended, as reserved or to be reserved to the United States; “uranium lease application” shall mean an application for a uranium lease filed with said Commission with respect to lands which would be open for entry under the mining laws except for their being lands embraced within an offer, application, permit, or lease under the mineral leasing laws or lands known to be valuable for minerals leasable under those laws; “uranium lease” shall mean a uranium mining lease issued by said Commission with respect to any such lands; and “person” shall mean any individual, corporation, partnership, or other legal entity.
 
-(Aug. 13, 1954, ch. 730, § 11, 68 Stat. 716; Pub. L. 91–581, § 26, Dec. 24, 1970, 84 Stat. 1573; Pub. L. 109–58, title II, § 236(24), Aug. 8, 2005, 119 Stat. 673.)
+(Aug. 13, 1954, ch. 730, § 11, 68 Stat. 716; Pub. L. 91–581, § 26, Dec. 24, 1970, 84 Stat. 1573; Pub. L. 109–58, title II, § 236(24), Aug. 8, 2005, 119 Stat. 673.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
-Act of April 17, 1926, referred to in text, is act Apr. 17, 1926, ch. 158, 44 Stat. 301, which is classified generally to subchapter VIII (§ 271 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code, see Tables.
+Act of April 17, 1926, referred to in text, is act Apr. 17, 1926, ch. 158, 44 Stat. 301, which is classified generally to subchapter VIII (§ 271 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code, see Tables.
 
-Act of February 7, 1927, referred to in text, is act Feb. 7, 1927, ch. 66, 44 Stat. 1057, which enacted subchapter IX (§ 281 et seq.) of chapter 3A of this title, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
+Act of February 7, 1927, referred to in text, is act Feb. 7, 1927, ch. 66, 44 Stat. 1057, which enacted subchapter IX (§ 281 et seq.) of chapter 3A of this title, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Geothermal Steam Act of 1970, referred to in text, is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Geothermal Steam Act of 1970, referred to in text, is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The effective date of the Geothermal Steam Act of 1970, referred to in text, probably means the date of enactment of Pub. L. 91–581, which was approved Dec. 24, 1970.
 
-The Atomic Energy Act, referred to in text, is a reference to the Atomic Energy Act of 1946 (act Aug. 1, 1946, ch. 724, 60 Stat. 755), prior to its complete amendment and revision by act Aug. 30, 1954, ch. 1073, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For further details, see Codification note set out under sections 1801 to 1819 of Title 42 and Short Title note set out under section 2011 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Atomic Energy Act, referred to in text, is a reference to the Atomic Energy Act of 1946 (act Aug. 1, 1946, ch. 724, 60 Stat. 755), prior to its complete amendment and revision by act Aug. 30, 1954, ch. 1073, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For further details, see Codification note set out under sections 1801 to 1819 of Title 42 and Short Title note set out under section 2011 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 Section 5(b)(1) of the Atomic Energy Act, as amended, referred to in text, was formerly classified to section 1805(b)(1) of Title 42 and defined “source material”. The term is defined in section 11(z) of the Atomic Energy Act of 1954, as amended, which is classified to section 2014(z) of Title 42.
 
 **Amendments**
 
-2005—Pub. L. 109–58 amended directory language of Pub. L. 91–581, § 26. See 1970 Amendment note below.
+2005—Pub. L. 109–58 amended directory language of Pub. L. 91–581, § 26. See 1970 Amendment note below.
 
-1970—Pub. L. 91–581, § 26, as amended by Pub. L. 109–58, redefined “mineral leasing laws” to exclude “the Act of October 20, 1914” and to include “Geothermal Steam Act of 1970” and “Leasing Act minerals” to include “all geothermal steam and associated geothermal resources which, upon the effective date of the Geothermal Steam Act of 1970, are provided in that Act to be disposed of thereunder”.
+1970—Pub. L. 91–581, § 26, as amended by Pub. L. 109–58, redefined “mineral leasing laws” to exclude “the Act of October 20, 1914” and to include “Geothermal Steam Act of 1970” and “Leasing Act minerals” to include “all geothermal steam and associated geothermal resources which, upon the effective date of the Geothermal Steam Act of 1970, are provided in that Act to be disposed of thereunder”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -257,8 +257,8 @@ Section 5(b)(1) of the Atomic Energy Act, as amended, referred to in text, was f
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
-## § 531. Approval of United States officials
+## § 531. Approval of United States officials
 
 Nothing in this chapter shall be construed to waive, amend, or repeal the requirement of any provision of any law for approval of any official of the United States whose approval prior to prospecting, exploring, or mining would be required.
 
-(Aug. 13, 1954, ch. 730, § 12, 68 Stat. 717.)
+(Aug. 13, 1954, ch. 730, § 12, 68 Stat. 717.)

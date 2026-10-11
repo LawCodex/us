@@ -27,7 +27,7 @@ Chapter analysis added pursuant to operation of section 102 of this title.
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6271. Definitions
+### § 6271. Definitions
 
 In this subchapter:
 
@@ -45,19 +45,19 @@ In this subchapter:
 
 **(iii)** publishes the adjusted amount in the Federal Register.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1425.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1425.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2741 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2741 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6272. Reprogramming
+### § 6272. Reprogramming
 
-**(a) In General.—** Except as provided in subsection (b) and in sections 5791 and 5792 1
+**(a) In General.—** Except as provided in subsection (b) and in sections 5791 and 5792 1
 
-<sup>1</sup>  So in original. Probably should be “sections 6281 and 6282”. See References in Text note below.
+<sup>1</sup> So in original. Probably should be “sections 6281 and 6282”. See References in Text note below.
 
 of this title, the Secretary of Energy may not use amounts appropriated pursuant to a DOE national security authorization for a program—
 
@@ -85,25 +85,25 @@ of this title, the Secretary of Energy may not use amounts appropriated pursuant
 
 **(2)** Funds appropriated pursuant to a DOE national security authorization may not be used for an item for which Congress has specifically denied funds.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1426, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1426, 1462.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Sections 5791 and 5792, referred to in subsec. (a), were, prior to repeal and restatement as this section, references to sections 4710 and 4711, respectively, of Pub. L. 107–314, which were repealed and restated as sections 6281 and 6282, respectively, of this title by Pub. L. 119–60, § 3111(a), (b)(1).
+Sections 5791 and 5792, referred to in subsec. (a), were, prior to repeal and restatement as this section, references to sections 4710 and 4711, respectively, of Pub. L. 107–314, which were repealed and restated as sections 6281 and 6282, respectively, of this title by Pub. L. 119–60, § 3111(a), (b)(1).
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2742 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2742 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (e). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Total amount obligated” and “Prohibited items”, respectively.
+Subsec. (e). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Total amount obligated” and “Prohibited items”, respectively.
 
-### § 6273. Minor construction projects
+### § 6273. Minor construction projects
 
 **(a) Authority.—** Using operation and maintenance funds or facilities and infrastructure funds authorized by a DOE national security authorization, the Secretary of Energy may carry out minor construction projects.
 
@@ -125,23 +125,23 @@ Subsec. (e). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) 
 
 **(e) Minor Construction Project Defined.—** In this section, the term “minor construction project” means any plant project not specifically authorized by law for which the approved total estimated cost does not exceed the minor construction threshold.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1426.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1426.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2743 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2743 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6274. General plant projects
+### § 6274. General plant projects
 
-Plant or construction projects for which amounts are made available under this and subsequent appropriation Acts 1
+Plant or construction projects for which amounts are made available under this and subsequent appropriation Acts 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 with a current estimated cost of less than $10,000,000 are considered for purposes of section 6273 as a plant project for which the approved total estimated cost does not exceed the minor construction threshold and for purposes of section 6275 as a construction project with a current estimated cost of less than a minor construction threshold.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1427.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1427.)
 
 **Editorial Notes**
 
@@ -151,9 +151,9 @@ This Act, referred to in text, was, prior to repeal and restatement as this sect
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2743a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(5).
+Provisions similar to those in this section were contained in section 2743a of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(5).
 
-### § 6275. Limits on construction projects
+### § 6275. Limits on construction projects
 
 **(a) Construction Cost Ceiling.—** Except as provided in subsection (b), construction on a construction project which is in support of national security programs of the Department of Energy and was authorized by a DOE national security authorization may not be started, and additional obligations in connection with the project above the total estimated cost may not be incurred, whenever the current estimated cost of the construction project exceeds by more than 25 percent the higher of—
 
@@ -171,15 +171,15 @@ Provisions similar to those in this section were contained in section 2743a of T
 
 **(d) Exception for Minor Projects.—** Subsection (a) does not apply to a construction project with a current estimated cost of less than the minor construction threshold.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1427.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1427.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2744 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2744 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6276. Fund transfer authority
+### § 6276. Fund transfer authority
 
 **(a) Transfer to Other Federal Agencies.—** The Secretary of Energy may transfer funds authorized to be appropriated to the Department of Energy pursuant to a DOE national security authorization to other Federal agencies for the performance of work for which the funds were authorized. Funds so transferred may be merged with and be available for the same purposes and for the same time period as the authorizations of the Federal agency to which the amounts are transferred.
 
@@ -197,21 +197,21 @@ Provisions similar to those in this section were contained in section 2744 of Ti
 
 **(d) Notice to Congress.—** The Secretary of Energy shall promptly notify the congressional defense committees of any transfer of funds to or from any DOE national security authorization.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1428, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1428, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2745 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2745 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Transfers permitted” and “Maximum amounts”, respectively.
+Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Transfers permitted” and “Maximum amounts”, respectively.
 
-### § 6277. Conceptual and construction design
+### § 6277. Conceptual and construction design
 
 **(a) Conceptual Design.—**
 
@@ -231,23 +231,23 @@ Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) 
 
 **(2)** If the total estimated cost for construction design in connection with any construction project exceeds $5,000,000, funds for that design must be specifically authorized by law.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1428, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1428, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2746 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2746 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (a). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “Requirement”, “Requests for conceptual design funds”, and “Exceptions”, respectively.
+Subsec. (a). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “Requirement”, “Requests for conceptual design funds”, and “Exceptions”, respectively.
 
-Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Authority” and “Limitation on availability of funds for certain projects”, respectively.
+Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Authority” and “Limitation on availability of funds for certain projects”, respectively.
 
-### § 6278. Authority for emergency planning, design, and construction activities
+### § 6278. Authority for emergency planning, design, and construction activities
 
 **(a) Authority.—** The Secretary of Energy may use any funds available to the Department of Energy pursuant to a DOE national security authorization, including funds authorized to be appropriated for advance planning, engineering, and construction design, and for plant projects, to perform planning, design, and construction activities for any Department of Energy national security program construction project that, as determined by the Secretary, must proceed expeditiously in order to protect public health and safety, to meet the needs of national defense, or to protect property.
 
@@ -255,41 +255,41 @@ Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) 
 
 **(c) Specific Authority.—** The requirement of section 6277(b)(2) does not apply to emergency planning, design, and construction activities conducted under this section.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1429.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1429.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2747 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2747 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6279. Scope of authority to carry out plant projects
+### § 6279. Scope of authority to carry out plant projects
 
 In carrying out programs necessary for national security, the authority of the Secretary of Energy to carry out plant projects includes authority for maintenance, restoration, planning, construction, acquisition, modification of facilities, and the continuation of projects authorized in prior years, and land acquisition related thereto.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1429.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1429.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2748 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2748 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6280. Availability of funds
+### § 6280. Availability of funds
 
 **(a) In General.—** Except as provided in subsection (b), amounts appropriated pursuant to a DOE national security authorization for operation and maintenance or for plant projects may, when so specified in an appropriations Act, remain available until expended.
 
 **(b) Exception for Program Direction Funds.—** Amounts appropriated for program direction pursuant to a DOE national security authorization for a fiscal year shall remain available to be obligated only until the end of that fiscal year.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1429.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1429.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2749 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2749 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6281. Transfer of defense environmental cleanup funds
+### § 6281. Transfer of defense environmental cleanup funds
 
 **(a) Transfer Authority for Defense Environmental Cleanup Funds.—** The Secretary of Energy shall provide the manager of each field office of the Department of Energy with the authority to transfer defense environmental cleanup funds from a program or project under the jurisdiction of that office to another such program or project.
 
@@ -317,21 +317,21 @@ Provisions similar to those in this section were contained in section 2749 of Ti
 
 **(2)** The term “defense environmental cleanup funds” means funds appropriated to the Department of Energy pursuant to an authorization for carrying out defense environmental cleanup activities necessary for national security programs.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1430, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1430, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2750 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2750 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (4) headings which read as follows: “Number of transfers”, “Amounts transferred”, “Determination required”, and “Impermissible uses”, respectively.
+Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (4) headings which read as follows: “Number of transfers”, “Amounts transferred”, “Determination required”, and “Impermissible uses”, respectively.
 
-### § 6282. Transfer of weapons activities funds
+### § 6282. Transfer of weapons activities funds
 
 **(a) Transfer Authority for Weapons Activities Funds.—** The Secretary of Energy shall provide the manager of each field office of the Department of Energy with the authority to transfer weapons activities funds from a program or project under the jurisdiction of that office to another such program or project.
 
@@ -361,33 +361,33 @@ Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (4) h
 
 **(2)** The term “weapons activities funds” means funds appropriated to the Department of Energy pursuant to an authorization for carrying out weapons activities necessary for national security programs.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1430, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1430, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2751 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2751 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (5) headings which read as follows: “Number of transfers”, “Amounts transferred”, “Determination required”, “Limitation”, and “Impermissible uses”, respectively.
+Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (5) headings which read as follows: “Number of transfers”, “Amounts transferred”, “Determination required”, “Limitation”, and “Impermissible uses”, respectively.
 
-### § 6283. Funds available for all national security programs of the Department of Energy
+### § 6283. Funds available for all national security programs of the Department of Energy
 
 Subject to the provisions of appropriation Acts and section 6272, amounts appropriated pursuant to a DOE national security authorization for management and support activities and for general plant projects are available for use, when necessary, in connection with all national security programs of the Department of Energy.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1431.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1431.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2752 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2752 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6284. Notification of cost overruns for certain Department of Energy projects
+### § 6284. Notification of cost overruns for certain Department of Energy projects
 
 **(a) Establishment of Cost and Schedule Baselines.—**
 
@@ -473,7 +473,7 @@ Provisions similar to those in this section were contained in section 2752 of Ti
 
 **(2)** be subject to the notification requirements of subsections (b) and (c) in the same manner and to the same extent as a cost and schedule baseline established under subsection (a).
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(1)(G), (2), 3116, Dec. 18, 2025, 139 Stat. 1431, 1462, 1464.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(1)(G), (2), 3116, Dec. 18, 2025, 139 Stat. 1431, 1462, 1464.)
 
 **Editorial Notes**
 
@@ -483,27 +483,27 @@ Amendment by section 3116 of Pub. L. 119–60 directed to section 4713 of Pub. L
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2753 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2753 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (a)(1). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (1) “Establishment of Cost and Schedule Baselines” and subpars. (A) to (C) “In general”, “Per unit cost”, and “Notification to congressional defense committees”, respectively.
+Subsec. (a)(1). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (1) “Establishment of Cost and Schedule Baselines” and subpars. (A) to (C) “In general”, “Per unit cost”, and “Notification to congressional defense committees”, respectively.
 
-Subsec. (a)(1)(A). Pub. L. 119–60, §§ 3111(d)(1)(G), 3116(1)(A), inserted “prior to entry into Phase 6.4 or Phase 4, as appropriate” after “Administration” in first sentence. See Codification note above.
+Subsec. (a)(1)(A). Pub. L. 119–60, §§ 3111(d)(1)(G), 3116(1)(A), inserted “prior to entry into Phase 6.4 or Phase 4, as appropriate” after “Administration” in first sentence. See Codification note above.
 
-Subsec. (a)(2). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (2) “Major alteration projects” and subpars. (A) to (D) “In general”, “Per unit cost”, “Notification to congressional defense committees”, and “Major alteration project defined”, respectively.
+Subsec. (a)(2). Pub. L. 119–60, § 3111(d)(2)(A), struck out headings for par. (2) “Major alteration projects” and subpars. (A) to (D) “In general”, “Per unit cost”, “Notification to congressional defense committees”, and “Major alteration project defined”, respectively.
 
-Subsec. (a)(2)(A). Pub. L. 119–60, §§ 3111(d)(1)(G), 3116(1)(B), inserted “prior to entry into Phase 6.4” after “project”. See Codification note above.
+Subsec. (a)(2)(A). Pub. L. 119–60, §§ 3111(d)(1)(G), 3116(1)(B), inserted “prior to entry into Phase 6.4” after “project”. See Codification note above.
 
-Subsec. (a)(3), (4). Pub. L. 119–60, § 3111(d)(2)(A), struck out subpars. (A) and (B) headings which read as follows: “In general” and “Notification to congressional defense committees”, respectively.
+Subsec. (a)(3), (4). Pub. L. 119–60, § 3111(d)(2)(A), struck out subpars. (A) and (B) headings which read as follows: “In general” and “Notification to congressional defense committees”, respectively.
 
-Subsec. (c)(2)(B) to (D). Pub. L. 119–60, §§ 3111(d)(1)(G), 3116(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively. See Codification note above.
+Subsec. (c)(2)(B) to (D). Pub. L. 119–60, §§ 3111(d)(1)(G), 3116(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively. See Codification note above.
 
-Subsec. (d)(1). Pub. L. 119–60, §§ 3111(d)(1)(G), 3116(3), inserted “and the results of the review conducted by the Director of Cost Estimating and Program Evaluation under subsection (c)(2)(B)” after “subsection (c)(2)”. See Codification note above.
+Subsec. (d)(1). Pub. L. 119–60, §§ 3111(d)(1)(G), 3116(3), inserted “and the results of the review conducted by the Director of Cost Estimating and Program Evaluation under subsection (c)(2)(B)” after “subsection (c)(2)”. See Codification note above.
 
-### § 6285. Life-cycle cost estimates of certain atomic energy defense capital assets
+### § 6285. Life-cycle cost estimates of certain atomic energy defense capital assets
 
 **(a) In General.—** The Secretary of Energy shall ensure that an independent life-cycle cost estimate under Department of Energy Order 413.3B (relating to program management and project management for the acquisition of capital assets), or a successor order, of each capital asset described in subsection (b) is conducted before the asset achieves critical decision 2 in the acquisition process.
 
@@ -515,15 +515,15 @@ Subsec. (d)(1). Pub. L. 119–60, §§ 3111(d)(1)(G), 3116(3), inserted “and
 
 **(c) Independent Defined.—** For purposes of subsection (a), the term “independent”, with respect to a life-cycle cost estimate of a capital asset, means that the life-cycle cost estimate is prepared by an organization independent of the project sponsor, using the same detailed technical and procurement information as the sponsor, to determine if the life-cycle cost estimate of the sponsor is accurate and reasonable.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1434.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1434.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2754 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2754 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6286. Use of best practices for capital asset projects and nuclear weapon life extension programs
+### § 6286. Use of best practices for capital asset projects and nuclear weapon life extension programs
 
 **(a) Analyses of Alternatives.—** Not later than 30 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 726), the Secretary of Energy, in coordination with the Administrator, shall ensure that analyses of alternatives are conducted (including through contractors, as appropriate) in accordance with best practices for capital asset projects and life extension programs of the Administration and capital asset projects relating to defense environmental management.
 
@@ -535,7 +535,7 @@ Provisions similar to those in this section were contained in section 2754 of Ti
 
 **(2)** the nuclear weapon life extension program procedures of the Department to require the use of best practices for preparing cost estimates and conducting analyses of alternatives for Administration life extension programs.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1434.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1434.)
 
 **Editorial Notes**
 
@@ -545,9 +545,9 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3117 of Pub. L. 114–92, which was set out as a note under section 2754 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(18).
+Provisions similar to those in this section were contained in section 3117 of Pub. L. 114–92, which was set out as a note under section 2754 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(18).
 
-### § 6287. Matters relating to critical decisions
+### § 6287. Matters relating to critical decisions
 
 **(a) Post-critical Decision 2 Changes.—** After the date on which a plant project specifically authorized by law and carried out under Department of Energy Order 413.3B (relating to program management and project management for the acquisition of capital assets), or a successor order, achieves critical decision 2, the Administrator may not change the requirements for such project if such change increases the cost of such project by more than the lesser of $5,000,000 or 15 percent, unless—
 
@@ -565,15 +565,15 @@ Provisions similar to those in this section were contained in section 3117 of Pu
 
 **(b) Review and Approval.—** The Administrator shall ensure that critical decision packages are timely reviewed and either approved or disapproved.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1435.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1435.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2755 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2755 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6288. Unfunded priorities of the Administration
+### § 6288. Unfunded priorities of the Administration
 
 **(a) Annual Report or Certification.—** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105(a) of title 31, the Administrator shall submit to the Secretary of Energy and the congressional defense committees either—
 
@@ -605,21 +605,21 @@ Provisions similar to those in this section were contained in section 2755 of Ti
 
 **(B)** in the case of a program, activity, or mission requirement that emerged after the budget was formulated, if the program, activity, or mission requirement had emerged before the budget was formulated.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1435, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, §§ 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1435, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2756 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2756 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Prioritization of priorities”, respectively.
+Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Prioritization of priorities”, respectively.
 
-### § 6289. Review of adequacy of nuclear weapons budget
+### § 6289. Review of adequacy of nuclear weapons budget
 
 **(a) Review of Adequacy of Administration Budget by Nuclear Weapons Council.—**
 
@@ -639,23 +639,23 @@ Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) 
 
 **(b) Review and Certification of Department of Energy Budget by Nuclear Weapons Council.—** At the time the Secretary of Energy submits the budget request of the Department of Energy for that fiscal year to the Director of the Office of Management and Budget in relation to the preparation of the budget of the President, the Secretary shall transmit a copy of the budget request of the Department to the Council.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1436, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1436, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2757 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2757 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (a). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “Transmission to council”, “Review”, and “Department of energy response”, respectively.
+Subsec. (a). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “Transmission to council”, “Review”, and “Department of energy response”, respectively.
 
-Subsec. (a)(3). Pub. L. 119–60, § 3111(d)(2)(A), struck out subpars. (A) and (B) headings which read as follows: “In general” and “Transmission to congress”, respectively.
+Subsec. (a)(3). Pub. L. 119–60, § 3111(d)(2)(A), struck out subpars. (A) and (B) headings which read as follows: “In general” and “Transmission to congress”, respectively.
 
-### § 6290. Improvements to cost estimates informing analyses of alternatives
+### § 6290. Improvements to cost estimates informing analyses of alternatives
 
 **(a) Requirement for Analyses of Alternatives.—** The Administrator shall ensure that any cost estimate used in an analysis of alternatives for a project carried out using funds authorized by a DOE national security authorization is designed to fully satisfy the requirements outlined in the mission needs statement approved at critical decision 0 in the acquisition process, as set forth in Department of Energy Order 413.3B (relating to program management and project management for the acquisition of capital assets) or a successor order.
 
@@ -669,23 +669,23 @@ Subsec. (a)(3). Pub. L. 119–60, § 3111(d)(2)(A), struck out subpars. (A) an
 
 **(2)** a period of 15 days has elapsed after the date on which such committees receive the notification.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1437.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1437.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2758 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2758 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-A prior section 6291, act Aug. 10, 1956, ch. 1041, 70A Stat. 391, provided for honorable discharges for enlisted members of the naval service, prior to repeal by Pub. L. 90–235, § 3(b)(1), Jan. 2, 1968, 81 Stat. 758.
+A prior section 6291, act Aug. 10, 1956, ch. 1041, 70A Stat. 391, provided for honorable discharges for enlisted members of the naval service, prior to repeal by Pub. L. 90–235, § 3(b)(1), Jan. 2, 1968, 81 Stat. 758.
 
 A prior section 6292 was renumbered section 8317 of this title.
 
-A prior section 6293, act Aug. 10, 1956, ch. 1041, 70A Stat. 392, provided for discharges for minors enlisted in the naval service or in the Regular Navy as seamen, seamen apprentices or seamen recruits. See section 1170 of this title, prior to repeal by Pub. L. 90–235, § 3(a)(2), Jan. 2, 1968, 81 Stat. 757.
+A prior section 6293, act Aug. 10, 1956, ch. 1041, 70A Stat. 392, provided for discharges for minors enlisted in the naval service or in the Regular Navy as seamen, seamen apprentices or seamen recruits. See section 1170 of this title, prior to repeal by Pub. L. 90–235, § 3(a)(2), Jan. 2, 1968, 81 Stat. 757.
 
-A prior section 6294, act Aug. 10, 1956, ch. 1041, 70A Stat. 392, authorized Secretary of Navy to terminate enlistment of and discharge any enlisted woman in Regular Navy or Regular Marine Corps, prior to repeal by Pub. L. 96–513, title III, § 373(g), Dec. 12, 1980, 94 Stat. 2903, effective Sept. 15, 1981.
+A prior section 6294, act Aug. 10, 1956, ch. 1041, 70A Stat. 392, authorized Secretary of Navy to terminate enlistment of and discharge any enlisted woman in Regular Navy or Regular Marine Corps, prior to repeal by Pub. L. 96–513, title III, § 373(g), Dec. 12, 1980, 94 Stat. 2903, effective Sept. 15, 1981.
 
-Prior sections 6295 to 6298 were repealed by Pub. L. 90–235, §§ 3(a)(2), (b)(1), 8(3), Jan. 2, 1968, 81 Stat. 757, 758, 764.
+Prior sections 6295 to 6298 were repealed by Pub. L. 90–235, §§ 3(a)(2), (b)(1), 8(3), Jan. 2, 1968, 81 Stat. 757, 758, 764.
 
 Section 6295, act Aug. 10, 1956, ch. 1041, 70A Stat. 392, provided for early discharges from the Regular Navy. See section 1171 of this title.
 
@@ -703,7 +703,7 @@ Section 6298, act Aug. 10, 1956, ch. 1041, 70A Stat. 393, authorized Secretary o
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6301. Restriction on use of funds to pay penalties under environmental laws
+### § 6301. Restriction on use of funds to pay penalties under environmental laws
 
 **(a) Restriction.—** Funds appropriated to the Department of Energy for the Naval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy may not be used to pay a penalty, fine, or forfeiture in regard to a defense activity or facility of the Department of Energy due to a failure to comply with any environmental requirement.
 
@@ -713,15 +713,15 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 **(2)** Congress has appropriated funds for such purpose (and such funds have not been sequestered, deferred, or rescinded) and the Secretary of Energy fails to use the funds for such purpose.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1437.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1437.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2761 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2761 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-### § 6302. Restriction on use of funds to pay penalties under Clean Air Act
+### § 6302. Restriction on use of funds to pay penalties under Clean Air Act
 
 None of the funds authorized to be appropriated by the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (Public Law 96–540; 94 Stat. 3197) or any other Act may be used to pay any penalty, fine, forfeiture, or settlement resulting from a failure to comply with the Clean Air Act (42 U.S.C. 7401 et seq.) with respect to any defense activity of the Department of Energy if—
 
@@ -733,13 +733,13 @@ None of the funds authorized to be appropriated by the Department of Energy Nati
 
 **References in Text**
 
-The Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981, referred to in text, is Pub. L. 96–540, Dec. 17, 1980, 94 Stat. 3197, which enacted sections 2513 and 2762 of Title 50, War and National Defense, and other provisions not classified to the Code. Section 2513 of Title 50 was repealed and restated as section 6106 of this title by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1343, 1458. Section 2762 of Title 50 was repealed and restated as this section by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1437, 1458. For complete classification of this Act to the Code, see Tables.
+The Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981, referred to in text, is Pub. L. 96–540, Dec. 17, 1980, 94 Stat. 3197, which enacted sections 2513 and 2762 of Title 50, War and National Defense, and other provisions not classified to the Code. Section 2513 of Title 50 was repealed and restated as section 6106 of this title by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1343, 1458. Section 2762 of Title 50 was repealed and restated as this section by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1437, 1458. For complete classification of this Act to the Code, see Tables.
 
-The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2762 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2762 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 ## SUBCHAPTER III—OTHER MATTERS
 
@@ -749,7 +749,7 @@ Provisions similar to those in this section were contained in section 2762 of Ti
 
 Subchapter analysis added pursuant to operation of section 102 of this title.
 
-### § 6311. Reports on financial balances for atomic energy defense activities
+### § 6311. Reports on financial balances for atomic energy defense activities
 
 **(a) Reports Required.—**
 
@@ -817,25 +817,25 @@ Subchapter analysis added pursuant to operation of section 102 of this title.
 
 **(C)** current fiscal year deobligations.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1438, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1438, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2772 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2772 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (a). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Presentation of information”, respectively.
+Subsec. (a). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “In general” and “Presentation of information”, respectively.
 
-Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “Format”, “Part 1”, and “Part 2”, respectively.
+Subsec. (b). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “Format”, “Part 1”, and “Part 2”, respectively.
 
-Subsec. (c). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (6) headings which corresponded to the defined term in each par.
+Subsec. (c). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (6) headings which corresponded to the defined term in each par.
 
-### § 6312. Independent acquisition project reviews of capital assets acquisition projects
+### § 6312. Independent acquisition project reviews of capital assets acquisition projects
 
 **(a) Reviews.—** The appropriate head shall ensure that an independent entity conducts reviews of each capital assets acquisition project as the project moves toward the approval of each of critical decision 0, critical decision 1, and critical decision 2 in the acquisition process.
 
@@ -863,10 +863,10 @@ Subsec. (c). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (6) h
 
 **(B)** that is covered by Department of Energy Order 413.3B, or a successor order, for the acquisition of capital assets for atomic energy defense activities.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1439.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1439.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2773 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2773 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).

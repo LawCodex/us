@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 205—AMERICAN CHEMICAL SOCIETY"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 205—AMERICAN CHEMICAL SOCIETY"
 identifier: "/us/usc/t36/stII/ptB/ch205"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 205—AMERICAN CHEMICAL SOCIETY
 
-## § 20501. Organization
+## § 20501. Organization
 
 American Chemical Society (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -25,14 +25,14 @@ American Chemical Society (in this chapter, the “corporation”) is a federall
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20501 | 36:3201. | Aug. 25, 1937, ch. 762, §§ 1, 7, 50 Stat. 798, 799. |
+| 20501 | 36:3201. | Aug. 25, 1937, ch. 762, §§ 1, 7, 50 Stat. 798, 799. |
 |  | 36:3207. |  |
 
 This section is substituted for the source provision for consistency in the revised title and to eliminate executed and unnecessary words.
 
 The text of 36:3207 is omitted as executed and obsolete.
 
-## § 20502. Purposes
+## § 20502. Purposes
 
 The purposes of the corporation are—
 
@@ -52,9 +52,9 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20502 | 36:3202. | Aug. 25, 1937, ch. 762, § 2, 50 Stat. 798. |
+| 20502 | 36:3202. | Aug. 25, 1937, ch. 762, § 2, 50 Stat. 798. |
 
-## § 20503. Powers
+## § 20503. Powers
 
 The corporation may—
 
@@ -74,7 +74,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20503 | 36:3203 (1st sentence). | Aug. 25, 1937, ch. 762, §§ 3 (1st sentence), 5, 50 Stat. 799. |
+| 20503 | 36:3203 (1st sentence). | Aug. 25, 1937, ch. 762, §§ 3 (1st sentence), 5, 50 Stat. 799. |
 |  | 36:3205. |  |
 
 Before clause (1), the word “may” is substituted for “shall have power to” in 36:3203 and “be, and the same is hereby, authorized and empowered to” in 36:3205 for consistency in the revised title and to eliminate unnecessary words.
@@ -83,11 +83,11 @@ In clause (1), the word “adopt” is substituted for “make” for consistenc
 
 In clause (2), the words “created by death, resignation, or otherwise” are omitted as unnecessary.
 
-In clause (4), the words “by devise, bequest, donation, or otherwise, either real or personal” and “reinvest” are omitted as unnecessary. The words “use . . . to carry out the purposes of the corporation” are substituted for “apply . . . to the objects of its creation” for clarity and consistency.
+In clause (4), the words “by devise, bequest, donation, or otherwise, either real or personal” and “reinvest” are omitted as unnecessary. The words “use . . . to carry out the purposes of the corporation” are substituted for “apply . . . to the objects of its creation” for clarity and consistency.
 
 Clause (5) is substituted for “all other matters needful and useful to promote the objects of the society” for consistency in the revised title.
 
-## § 20504. Cooperation with the military
+## § 20504. Cooperation with the military
 
 **(a) Investigations, Examinations, Experiments, and Reports.—** When requested by the Secretary of the Army, Air Force, or Navy, the corporation shall investigate, examine, experiment, and report on any subject in pure or applied chemistry connected with the national defense.
 
@@ -101,7 +101,7 @@ Clause (5) is substituted for “all other matters needful and useful to promote
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20504 | 36:3204. | Aug. 25, 1937, ch. 762, § 4, 50 Stat. 799. |
+| 20504 | 36:3204. | Aug. 25, 1937, ch. 762, § 4, 50 Stat. 799. |
 
 In subsection (a), the words “When requested by the Secretary of the Army, Air Force, or Navy, the corporation” are substituted for “The American Chemical Society shall, whenever called upon by the Army, Air Force, or Navy Department” because under 10:3013, 5013, and 8013 the Secretaries are the heads of the Departments. The Secretary of the Air Force is added because of section 207 of the National Security Act of 1947 (ch. 343, 61 Stat. 502).
 
@@ -109,7 +109,7 @@ In subsection (b), the words “shall be paid from amounts appropriated for thos
 
 In subsection (c), the words “that the appropriate Secretary believes” are substituted for “that, in the opinion of the Secretary of the Navy, the Secretary of the Air Force, or the Secretary of the Army” to eliminate unnecessary words.
 
-## § 20505. Annual meeting
+## § 20505. Annual meeting
 
 The corporation shall hold an annual meeting at a place in the United States as may from time to time be designated.
 
@@ -119,9 +119,9 @@ The corporation shall hold an annual meeting at a place in the United States as 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20505 | 36:3203 (last sentence). | Aug. 25, 1937, ch. 762, § 3 (last sentence), 50 Stat. 799. |
+| 20505 | 36:3203 (last sentence). | Aug. 25, 1937, ch. 762, § 3 (last sentence), 50 Stat. 799. |
 
-## § 20506. Annual report
+## § 20506. Annual report
 
 Not later than December 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior calendar year, including a complete statement of its receipts and expenditures. The report may not be printed as a public document.
 
@@ -131,6 +131,6 @@ Not later than December 1 of each year, the corporation shall submit a report to
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 20506 | 36:3208. | Aug. 25, 1937, ch. 762, § 8, 50 Stat. 800; Aug. 30, 1964, Pub. L. 88–504, § 4(38), 78 Stat. 638. |
+| 20506 | 36:3208. | Aug. 25, 1937, ch. 762, § 8, 50 Stat. 800; Aug. 30, 1964, Pub. L. 88–504, § 4(38), 78 Stat. 638. |
 
 The words “proceedings and” are omitted as unnecessary.

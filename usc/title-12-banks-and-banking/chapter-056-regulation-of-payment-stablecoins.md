@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 56—REGULATION OF PAYMENT STABLECOINS
 
-## § 5901. Definitions
+## § 5901. Definitions
 
 In this chapter:
 
@@ -239,7 +239,7 @@ The term “subsidiary” has the meaning given that term in section 1813 of thi
 
 **(C)** a subsidiary of a State chartered insured credit union authorized under State law.
 
-(Pub. L. 119–27, § 2, July 18, 2025, 139 Stat. 419.)
+(Pub. L. 119–27, § 2, July 18, 2025, 139 Stat. 419.)
 
 **Delayed Effective Date of Section**
 
@@ -251,7 +251,7 @@ For delayed effective date of section, see Effective Date note below.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 119–27, July 18, 2025, 139 Stat. 419, known as the Guiding and Establishing National Innovation for U.S. Stablecoins Act and also as the GENIUS Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-Title LXII of the Revised Statutes, referred to in pars. (11)(B)(i) and (31)(B), consists of R.S. §§ 5133 to 5244, which are classified to sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title LXII of the Revised Statutes, referred to in pars. (11)(B)(i) and (31)(B), consists of R.S. §§ 5133 to 5244, which are classified to sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 Section 17 of this Act, referred to in par. (22)(B)(iii), is section 17 of Pub. L. 119–27, which amended section 1a of Title 7, Agriculture, and sections 77b, 78c, 78*lll*, 80a–2, 80a–3, and 80b–2 of Title 15, Commerce and Trade.
 
@@ -259,7 +259,7 @@ Section 17 of this Act, referred to in par. (22)(B)(iii), is section 17 of Pub. 
 
 **Effective Date**
 
-Pub. L. 119–27, § 20, July 18, 2025, 139 Stat. 466, provided that:
+Pub. L. 119–27, § 20, July 18, 2025, 139 Stat. 466, provided that:
 
 > “This Act [see Short Title note set out below], and the amendments made by this Act, shall take effect on the earlier of
 
@@ -269,9 +269,9 @@ Pub. L. 119–27, § 20, July 18, 2025, 139 Stat. 466, provided that:
 
 **Short Title**
 
-Pub. L. 119–27, § 1, July 18, 2025, 139 Stat. 419, provided that: “This Act [enacting this chapter, amending section 1 of this title, section 13104 of Title 5, Government Organization and Employees, section 1a of Title 7, Agriculture, sections 101, 362, 507, 541, and 1109 of Title 11, Bankruptcy, and sections 77b, 78c, 78*lll*, 80a–2, 80a–3, 80b–2 of Title 15, Commerce and Trade, and enacting provisions set out as a note under this section] may be cited as the ‘Guiding and Establishing National Innovation for U.S. Stablecoins Act’ or the ‘GENIUS Act’.”
+Pub. L. 119–27, § 1, July 18, 2025, 139 Stat. 419, provided that: “This Act [enacting this chapter, amending section 1 of this title, section 13104 of Title 5, Government Organization and Employees, section 1a of Title 7, Agriculture, sections 101, 362, 507, 541, and 1109 of Title 11, Bankruptcy, and sections 77b, 78c, 78*lll*, 80a–2, 80a–3, 80b–2 of Title 15, Commerce and Trade, and enacting provisions set out as a note under this section] may be cited as the ‘Guiding and Establishing National Innovation for U.S. Stablecoins Act’ or the ‘GENIUS Act’.”
 
-## § 5902. Issuance and treatment of payment stablecoins
+## § 5902. Issuance and treatment of payment stablecoins
 
 **(a) Limitation on issuers**
 
@@ -291,17 +291,17 @@ It shall be unlawful for any digital asset service provider to offer, sell, or o
 
 **(1) In general** The Secretary of the Treasury may issue regulations providing safe harbors from subsection (a) that are—
 
-**(A)** consistent with the purposes of the 1
+**(A)** consistent with the purposes of the 1
 
-<sup>1</sup>  So in original. Probably should be “this”.
+<sup>1</sup> So in original. Probably should be “this”.
 
 chapter;
 
 **(B)** limited in scope; and
 
-**(C)** apply 2
+**(C)** apply 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 to a de minimis volume of transactions, as determined by the Secretary of the Treasury.
 
@@ -347,19 +347,19 @@ If a primary Federal payment stablecoin regulator has reason to believe that any
 
 **(A)** the direct transfer of digital assets between 2 individuals acting on their own behalf and for their own lawful purposes, without the involvement of an intermediary;
 
-**(B)** to 3
+**(B)** to 3
 
-<sup>3</sup>  So in original. The word “to” probably should not appear.
+<sup>3</sup> So in original. The word “to” probably should not appear.
 
 any transaction involving the receipt of digital assets by an individual between an account owned by the individual in the United States and an account owned by the individual abroad that are offered by the same parent company; or
 
-**(C)** to <sup>3</sup> any transaction by means of a software or hardware wallet that facilitates an individual’s own custody of digital assets.
+**(C)** to <sup>3</sup> any transaction by means of a software or hardware wallet that facilitates an individual’s own custody of digital assets.
 
 **(2) Treasury authority**
 
 Nothing in this chapter shall alter the existing authority of the Secretary of the Treasury to block, restrict, or limit transactions involving payment stablecoins that reference or are denominated in United States dollars that are subject to the jurisdiction of the United States.
 
-(Pub. L. 119–27, § 3, July 18, 2025, 139 Stat. 423.)
+(Pub. L. 119–27, § 3, July 18, 2025, 139 Stat. 423.)
 
 **Delayed Effective Date of Section**
 
@@ -377,7 +377,7 @@ This chapter, referred to in subsecs. (c)(1)(A) and (h)(2), was in the original 
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5903. Requirements for issuing payment stablecoins
+## § 5903. Requirements for issuing payment stablecoins
 
 **(a) Standards for the issuance of payment stablecoins**
 
@@ -409,11 +409,11 @@ Section effective on the earlier of the date that is 18 months after July 18, 20
 
 **(vii)** any other similarly liquid Federal Government-issued asset approved by the primary Federal payment stablecoin regulator, in consultation with the State payment stablecoin regulator, if applicable, of the permitted payment stablecoin issuer; or
 
-**(viii)** any reserve described in clause 1
+**(viii)** any reserve described in clause 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
-(i) through (iii) or clause 1 (vi) through (vii) in tokenized form, provided that such reserves comply with all applicable laws and regulations;
+(i) through (iii) or clause 1 (vi) through (vii) in tokenized form, provided that such reserves comply with all applicable laws and regulations;
 
 **(B)** publicly disclose the issuer’s redemption policy, which shall—
 
@@ -443,9 +443,9 @@ Section effective on the earlier of the date that is 18 months after July 18, 20
 
 **(A) In general**
 
-A permitted payment stablecoin issuer shall, each month, have the information disclosed in the previous month-end report required under paragraph (1)(D) 2
+A permitted payment stablecoin issuer shall, each month, have the information disclosed in the previous month-end report required under paragraph (1)(D) 2
 
-<sup>2</sup>  So in original. Probably should be “paragraph (1)(C)”.
+<sup>2</sup> So in original. Probably should be “paragraph (1)(C)”.
 
 examined by a registered public accounting firm.
 
@@ -571,7 +571,7 @@ Nothing in this paragraph shall be construed to alter or affect the authority of
 
 Nothing in subparagraph (A) shall limit a permitted payment stablecoin issuer from engaging in payment stablecoin activities or digital asset service provider activities specified by this chapter, and activities incidental thereto, that are authorized by the primary Federal payment stablecoin regulator or the State payment stablecoin regulator, as applicable, consistent with all other Federal and State laws, provided that the claims of payment stablecoin holders rank senior to any potential claims of non-stablecoin creditors with respect to the reserve assets, consistent with section 11.3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 **(8) Prohibition on tying**
 
@@ -685,7 +685,7 @@ The term “public company” means an issuer that is required to file reports u
 
 **(bb)** sold to any third party; or
 
-**(cc)** shared with non-affiliates; except <sup>1</sup>
+**(cc)** shared with non-affiliates; except <sup>1</sup>
 
 **(III)** the public company and the affiliates of the public company will comply with the tying prohibitions under paragraph (8).
 
@@ -753,7 +753,7 @@ Not later than a date to be determined by the Secretary of the Treasury each yea
 
 **(ii)** deny such certification and provide the State payment stablecoin regulator with a written explanation of the denial, describing the reasoned basis for the denial with sufficient detail to enable the State payment stablecoin regulator and State-level regulatory regime to make any changes necessary to meet or exceed the standards and requirements described in subsection (a).
 
-**(B) Recertifications** With respect to any recertification certification <sup>1</sup> submitted by a State payment stablecoin regulator under paragraph (4), the Stablecoin Certification Review Committee shall only deny the recertification if—
+**(B) Recertifications** With respect to any recertification certification <sup>1</sup> submitted by a State payment stablecoin regulator under paragraph (4), the Stablecoin Certification Review Committee shall only deny the recertification if—
 
 **(i)** the State-level regulatory regime has materially changed from the prior certification or there has been a significant change in circumstances; and
 
@@ -901,7 +901,7 @@ All regulations issued to carry out this section shall be issued in coordination
 
 **(2)** to limit or prevent the continued application of applicable ethics statutes and regulations administered by the Office of Government Ethics, or the ethics rules of the Senate and the House of Representatives, including section 208 of title 18 and sections 2635.702 and 2635.802 of title 5, Code of Federal Regulations. For the avoidance of doubt, existing Office of Government Ethics laws and the ethics rules of the Senate and the House of Representatives prohibit any member of Congress or senior executive branch official from issuing a payment stablecoin during their time in public service. For the purposes of this paragraph, an employee described in section 202 of title 18 shall be deemed an executive branch employee for purposes of complying with section 208 of that title.
 
-(Pub. L. 119–27, § 4, July 18, 2025, 139 Stat. 425.)
+(Pub. L. 119–27, § 4, July 18, 2025, 139 Stat. 425.)
 
 **Delayed Effective Date of Section**
 
@@ -915,11 +915,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section 11, referred to in subsec. (a)(7)(B), means section 11 of Pub. L. 119–27, which enacted sections 5910 and 5911 of this title and amended sections 101, 362, 507, 541, and 1109 of Title 11, Bankruptcy.
 
-The Federal Reserve Act, referred to in subsec. (a)(13), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in subsec. (a)(13), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 For the effective date of this chapter, referred to in subsec. (c)(4)(A), (7), see Effective Date note set out under section 5901 of this title.
 
-The Home Owners’ Loan Act, referred to in subsec. (g), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Home Owners’ Loan Act, referred to in subsec. (g), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
@@ -931,7 +931,7 @@ Section is comprised of section 4 of Pub. L. 119–27. Subsec. (b)(2) of section
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5904. Approval of subsidiaries of insured depository institutions and Federal qualified payment stablecoin issuers
+## § 5904. Approval of subsidiaries of insured depository institutions and Federal qualified payment stablecoin issuers
 
 **(a) Application**
 
@@ -1081,7 +1081,7 @@ Any person that knowingly submits a certification pursuant to paragraph (1) that
 
 If a Federal payment stablecoin regulator or State payment stablecoin regulator has reason to believe that any person has knowingly violated paragraph (1), the applicable regulator may refer the matter to the Attorney General or to the attorney general of the payment stablecoin issuer’s host State.
 
-(Pub. L. 119–27, § 5, July 18, 2025, 139 Stat. 439.)
+(Pub. L. 119–27, § 5, July 18, 2025, 139 Stat. 439.)
 
 **Delayed Effective Date of Section**
 
@@ -1091,7 +1091,7 @@ For delayed effective date of section, see Effective Date note below.
 
 **References in Text**
 
-Title LXII of the Revised Statutes, referred to in subsec. (a)(1)(A), consists of R.S. §§ 5133 to 5244, which are classified to sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
+Title LXII of the Revised Statutes, referred to in subsec. (a)(1)(A), consists of R.S. §§ 5133 to 5244, which are classified to sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
 This chapter, referred to in subsecs. (a)(3), (e)(1), (f), and (i)(1), was in the original “this Act”, meaning Pub. L. 119–27, July 18, 2025, 139 Stat. 419, known as the Guiding and Establishing National Innovation for U.S. Stablecoins Act and also as the GENIUS Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
@@ -1103,7 +1103,7 @@ For the effective date of this chapter, referred to in subsec. (f), see Effectiv
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5905. Supervision and enforcement with respect to Federal qualified payment stablecoin issuers and subsidiaries of insured depository institutions
+## § 5905. Supervision and enforcement with respect to Federal qualified payment stablecoin issuers and subsidiaries of insured depository institutions
 
 **(a) Supervision**
 
@@ -1215,7 +1215,7 @@ Notwithstanding anything in this subsection to the contrary, this subsection sha
 
 Nothing in this chapter may be construed to modify or otherwise affect any right or remedy under any Federal consumer financial law, including 12 U.S.C. 5515 and 15 U.S.C. 41 et seq.
 
-(Pub. L. 119–27, § 6, July 18, 2025, 139 Stat. 443.)
+(Pub. L. 119–27, § 6, July 18, 2025, 139 Stat. 443.)
 
 **Delayed Effective Date of Section**
 
@@ -1229,7 +1229,7 @@ This chapter, referred to in subsecs. (a)(2)(C), (b) and (c), was in the origina
 
 12 U.S.C. 5515, referred to in subsec. (c), was so in the original, but probably should have been a reference to section 1025 of the Consumer Financial Protection Act of 2010, title X of Pub. L. 111–203, which is classified to section 5515 of this title.
 
-15 U.S.C. 41 et seq., referred to in subsec. (c), was so in the original, but probably should have been a reference to the Federal Trade Commission Act, act Sept. 26, 1914, ch. 311, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade.
+15 U.S.C. 41 et seq., referred to in subsec. (c), was so in the original, but probably should have been a reference to the Federal Trade Commission Act, act Sept. 26, 1914, ch. 311, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1237,7 +1237,7 @@ This chapter, referred to in subsecs. (a)(2)(C), (b) and (c), was in the origina
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5906. State qualified payment stablecoin issuers
+## § 5906. State qualified payment stablecoin issuers
 
 **(a) In general**
 
@@ -1357,7 +1357,7 @@ The laws applicable to an out-of-State qualified payment stablecoin issuer under
 
 Except for State laws relating to the chartering, licensure, or other authorization to do business as a permitted payment stablecoin issuer, nothing in this chapter shall preempt State consumer protection laws, including common law, and the remedies available thereunder.
 
-(Pub. L. 119–27, § 7, July 18, 2025, 139 Stat. 447.)
+(Pub. L. 119–27, § 7, July 18, 2025, 139 Stat. 447.)
 
 **Delayed Effective Date of Section**
 
@@ -1375,7 +1375,7 @@ This chapter, referred to in subsecs. (b), (e)(1)(A), (2)(A), and (f)(3)(B), (4)
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5907. Anti-money laundering protections
+## § 5907. Anti-money laundering protections
 
 **(a) Payment stablecoins issued by a foreign payment stablecoin issuer**
 
@@ -1471,7 +1471,7 @@ Not later than 7 days after issuing a waiver or a license under paragraph (1), (
 
 Nothing in this chapter shall be construed as altering the existing authority of the Secretary of the Treasury to block, restrict, or limit transactions involving payment stablecoins that reference or are denominated in United States dollars that are subject to the jurisdiction of the United States.
 
-(Pub. L. 119–27, § 8, July 18, 2025, 139 Stat. 450.)
+(Pub. L. 119–27, § 8, July 18, 2025, 139 Stat. 450.)
 
 **Delayed Effective Date of Section**
 
@@ -1481,7 +1481,7 @@ For delayed effective date of section, see Effective Date note below.
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (c)(3)(A), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c)(3)(A), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 119–27, July 18, 2025, 139 Stat. 419, known as the Guiding and Establishing National Innovation for U.S. Stablecoins Act and also as the GENIUS Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
@@ -1491,7 +1491,7 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5908. Anti-money laundering innovation
+## § 5908. Anti-money laundering innovation
 
 **(a) Public comment** Beginning on the date that is 30 days after July 18, 2025, and for a period of 60 days thereafter, the Secretary of the Treasury shall seek public comment to identify innovative or novel methods, techniques, or strategies that regulated financial institutions use, or have the potential to use, to detect illicit activity, such as money laundering, involving digital assets, including comments with respect to—
 
@@ -1567,7 +1567,7 @@ A report under this section may include a classified annex, if applicable.
 
 Nothing in this section shall be construed to limit the existing authority of the Secretary of the Treasury or the primary Federal payment stablecoin regulators to, prior to the submission of a report required under this section, use existing exemptive authorities, the no-action letter process, or rulemaking authorities in a manner that encourages regulated financial institutions to adopt novel or innovative methods, techniques, or strategies to detect illicit activity, such as money laundering, involving digital assets.
 
-(Pub. L. 119–27, § 9, July 18, 2025, 139 Stat. 453.)
+(Pub. L. 119–27, § 9, July 18, 2025, 139 Stat. 453.)
 
 **Delayed Effective Date of Section**
 
@@ -1585,7 +1585,7 @@ Sections 261 and 262 of the Countering America’s Adversaries Through Sanctions
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5909. Custody of payment stablecoin reserve and collateral
+## § 5909. Custody of payment stablecoin reserve and collateral
 
 **(a) In general** A person may only engage in the business of providing custodial or safekeeping services for the payment stablecoin reserve, the payment stablecoins used as collateral, or the private keys used to issue permitted payment stablecoins if the person—
 
@@ -1631,7 +1631,7 @@ A person described under subsection (a) shall submit to the applicable primary F
 
 The requirements of this section shall not apply to any person solely on the basis that such person engages in the business of providing hardware or software to facilitate a customer’s own custody or safekeeping of the customer’s payment stablecoins or private keys.
 
-(Pub. L. 119–27, § 10, July 18, 2025, 139 Stat. 455.)
+(Pub. L. 119–27, § 10, July 18, 2025, 139 Stat. 455.)
 
 **Delayed Effective Date of Section**
 
@@ -1649,7 +1649,7 @@ Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (a
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5910. Treatment of payment stablecoin issuers in insolvency proceedings
+## § 5910. Treatment of payment stablecoin issuers in insolvency proceedings
 
 Subject to section 507(e) of title 11, as added by subsection (d), in any insolvency proceeding of a permitted payment stablecoin issuer under Federal or State law, including any proceeding under that title and any insolvency proceeding administered by a State payment stablecoin regulator with respect to a permitted payment stablecoin issuer—
 
@@ -1659,7 +1659,7 @@ Subject to section 507(e) of title 11, as added by subsection (d), in any insolv
 
 **(3)** the priority under paragraph (1) shall not apply to claims other than those arising directly from the holding of payment stablecoins.
 
-(Pub. L. 119–27, § 11(a), July 18, 2025, 139 Stat. 457.)
+(Pub. L. 119–27, § 11(a), July 18, 2025, 139 Stat. 457.)
 
 **Delayed Effective Date of Section**
 
@@ -1677,7 +1677,7 @@ Subsection (d), referred to in introductory provisions, means subsec. (d) of sec
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5911. Application of existing insolvency law
+## § 5911. Application of existing insolvency law
 
 In accordance with otherwise applicable law, an insolvency proceeding with respect to a permitted payment stablecoin issuer shall occur as follows:
 
@@ -1685,7 +1685,7 @@ In accordance with otherwise applicable law, an insolvency proceeding with respe
 
 **(2)** A subsidiary of a depository institution (as defined in section 1813 of this title) or a nonbank entity may be considered a debtor under title 11.
 
-(Pub. L. 119–27, § 11(g), July 18, 2025, 139 Stat. 458.)
+(Pub. L. 119–27, § 11(g), July 18, 2025, 139 Stat. 458.)
 
 **Delayed Effective Date of Section**
 
@@ -1697,7 +1697,7 @@ For delayed effective date of section, see Effective Date note below.
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5912. Interoperability standards
+## § 5912. Interoperability standards
 
 The primary Federal payment stablecoin regulators, in consultation with the National Institute of Standards and Technology, other relevant standard-setting organizations, and State bank and credit union regulators, shall assess and, if necessary, may, pursuant to section 553 of title 5, and in a manner consistent with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113), prescribe standards for permitted payment stablecoin issuers to promote compatibility and interoperability with—
 
@@ -1705,7 +1705,7 @@ The primary Federal payment stablecoin regulators, in consultation with the Nati
 
 **(2)** the broader digital finance ecosystem, including accepted communications protocols and blockchains, permissioned or public.
 
-(Pub. L. 119–27, § 12, July 18, 2025, 139 Stat. 459.)
+(Pub. L. 119–27, § 12, July 18, 2025, 139 Stat. 459.)
 
 **Delayed Effective Date of Section**
 
@@ -1723,7 +1723,7 @@ The National Technology Transfer and Advancement Act of 1995, referred to in tex
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5913. Rulemaking
+## § 5913. Rulemaking
 
 **(a) In general**
 
@@ -1737,7 +1737,7 @@ Federal payment stablecoin regulators, the Secretary of the Treasury, and State 
 
 Not later than 180 days after the effective date of this chapter, each Federal banking agency shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that confirms and describes the regulations promulgated to carry out this chapter.
 
-(Pub. L. 119–27, § 13, July 18, 2025, 139 Stat. 459.)
+(Pub. L. 119–27, § 13, July 18, 2025, 139 Stat. 459.)
 
 **Delayed Effective Date of Section**
 
@@ -1757,7 +1757,7 @@ For the effective date of this chapter, referred to in subsec. (c), see Effectiv
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5914. Reports
+## § 5914. Reports
 
 **(a) Annual reporting requirement** Beginning on the date that is 1 year after July 18, 2025, and annually thereafter, the primary Federal payment stablecoin regulators, in consultation with State payment stablecoin regulators, as necessary, shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Financial Services of the House of Representatives, and the Director of the Office of Financial Research a report, which may include a classified annex, if applicable, on the status of the payment stablecoin industry, including—
 
@@ -1771,7 +1771,7 @@ Section effective on the earlier of the date that is 18 months after July 18, 20
 
 The Financial Stability Oversight Council shall incorporate the findings in the report under subsection (a) into the annual report of the Council required under section 5322(a)(2)(N) of this title.
 
-(Pub. L. 119–27, § 15, July 18, 2025, 139 Stat. 460.)
+(Pub. L. 119–27, § 15, July 18, 2025, 139 Stat. 460.)
 
 **Delayed Effective Date of Section**
 
@@ -1783,7 +1783,7 @@ For delayed effective date of section, see Effective Date note below.
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5915. Authority of banking institutions
+## § 5915. Authority of banking institutions
 
 **(a) Rule of construction** Nothing in this chapter may be construed to limit the authority of a depository institution, Federal credit union, State credit union, national bank, or trust company to engage in activities permissible pursuant to applicable State and Federal law, including—
 
@@ -1833,7 +1833,7 @@ The term “home State” means the State by which the depository institution is
 
 The term “host State” means a State in which a depository institution establishes a branch, solicits customers, or otherwise engages in business activities, other than the home State.
 
-(Pub. L. 119–27, § 16, July 18, 2025, 139 Stat. 461.)
+(Pub. L. 119–27, § 16, July 18, 2025, 139 Stat. 461.)
 
 **Delayed Effective Date of Section**
 
@@ -1851,7 +1851,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 Section effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, see section 20 of Pub. L. 119–27, set out as a note under section 5901 of this title.
 
-## § 5916. Exception for foreign payment stablecoin issuers and reciprocity for payment stablecoins issued in overseas jurisdictions
+## § 5916. Exception for foreign payment stablecoin issuers and reciprocity for payment stablecoins issued in overseas jurisdictions
 
 **(a) In general** The prohibitions under section 5902 of this title shall not apply to a foreign payment stablecoin issuer if all of the following apply:
 
@@ -1907,9 +1907,9 @@ A foreign payment stablecoin issuer may offer or sell payment stablecoins using 
 
 A registration of a foreign payment stablecoin issuer filed in accordance with this section shall be deemed approved on the date that is 30 days after the date the Comptroller receives the registration, unless the Comptroller notifies the foreign payment stablecoin issuer in writing that such registration has been rejected.
 
-**(C) Standards for rejection** In determining whether to reject a foreign payment stablecoin issuer’s registration, the Comptroller shall consider 1
+**(C) Standards for rejection** In determining whether to reject a foreign payment stablecoin issuer’s registration, the Comptroller shall consider 1
 
-<sup>1</sup>  So in original. Probably should be followed by a dash.
+<sup>1</sup> So in original. Probably should be followed by a dash.
 
 **(i)** the final determination of the Secretary of the Treasury under this section;
 
@@ -1933,7 +1933,7 @@ Pursuant to section 5913 of this title, the Comptroller shall issue rules relati
 
 The Comptroller shall keep and make publicly available a current list of foreign payment stablecoin issuer registrations that have been approved.
 
-**(2) Ongoing monitoring** A foreign payment stablecoin issuer shall <sup>1</sup>
+**(2) Ongoing monitoring** A foreign payment stablecoin issuer shall <sup>1</sup>
 
 **(A)** be subject to reporting, supervision, and examination requirements as determined by the Comptroller; and
 
@@ -1951,7 +1951,7 @@ The Secretary of the Treasury, in consultation with the Comptroller, may revoke 
 
 **(d) Reciprocity**
 
-**(1) In general** The Secretary of the Treasury may create and implement reciprocal arrangements or other bilateral agreements between the United States and jurisdictions with payment stablecoin regulatory regimes that are comparable to the requirements established under this chapter. The Secretary of the Treasury shall consider whether the jurisdiction’s requirements for payment stablecoin issuers include <sup>1</sup>
+**(1) In general** The Secretary of the Treasury may create and implement reciprocal arrangements or other bilateral agreements between the United States and jurisdictions with payment stablecoin regulatory regimes that are comparable to the requirements established under this chapter. The Secretary of the Treasury shall consider whether the jurisdiction’s requirements for payment stablecoin issuers include <sup>1</sup>
 
 **(A)** similar requirements to those under section 5903(a) of this title;
 
@@ -1967,7 +1967,7 @@ Not later than 90 days prior to the entry into force of any arrangement or agree
 
 The Secretary of the Treasury should complete the arrangements under this subsection not later than the date that is 2 years after July 18, 2025.
 
-(Pub. L. 119–27, § 18, July 18, 2025, 139 Stat. 463.)
+(Pub. L. 119–27, § 18, July 18, 2025, 139 Stat. 463.)
 
 **Delayed Effective Date of Section**
 

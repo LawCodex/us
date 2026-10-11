@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 323 “INNOVATION”, consisting of reserved section 4301, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
+A prior chapter 323 “INNOVATION”, consisting of reserved section 4301, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(9), Dec. 27, 2021, 135 Stat. 2140, added item 4324 and struck out former item 4324 “Major systems: life-cycle management and product support”.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(9), Dec. 27, 2021, 135 Stat. 2140, added item 4324 and struck out former item 4324 “Major systems: life-cycle management and product support”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Standardized Policy Guidance for Calculating Aircraft Operation and Sustainment Costs**
 
-Pub. L. 116–92, div. A, title XVII, § 1747, Dec. 20, 2019, 133 Stat. 1847, provided that:
+Pub. L. 116–92, div. A, title XVII, § 1747, Dec. 20, 2019, 133 Stat. 1847, provided that:
 
 > “Not later than 270 days after the date of the enactment of this Act [Dec. 20, 2019], the Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Director of Cost Analysis and Program Evaluation and in consultation with the Secretary of each of the military services, shall develop and implement standardized policy guidance for calculating aircraft operation and sustainment costs for the Department of Defense. Such guidance shall provide for a standardized calculation of—
 
@@ -45,11 +45,11 @@ Pub. L. 116–92, div. A, title XVII, § 1747, Dec. 20, 2019, 133 Stat. 1847, 
 
 **Requirements Prior to Low-Rate Initial Production**
 
-Pub. L. 112–81, div. A, title VIII, § 801(c), Dec. 31, 2011, 125 Stat. 1483, as amended by Pub. L. 112–239, div. A, title III, § 322(e)(3), Jan. 2, 2013, 126 Stat. 1695, provided that: “Prior to entering into a contract for low-rate initial production of a major defense acquisition program, the Secretary of Defense shall ensure that the detailed requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements, have been defined.”
+Pub. L. 112–81, div. A, title VIII, § 801(c), Dec. 31, 2011, 125 Stat. 1483, as amended by Pub. L. 112–239, div. A, title III, § 322(e)(3), Jan. 2, 2013, 126 Stat. 1695, provided that: “Prior to entering into a contract for low-rate initial production of a major defense acquisition program, the Secretary of Defense shall ensure that the detailed requirements for core logistics capabilities and the associated sustaining workloads required to support such requirements, have been defined.”
 
 **Acquisition Strategies To Ensure Competition Throughout the Lifecycle of Major Defense Acquisition Programs**
 
-Pub. L. 111–23, title II, § 202, May 22, 2009, 123 Stat. 1720, as amended by Pub. L. 112–81, div. A, title VIII, § 837, Dec. 31, 2011, 125 Stat. 1509; Pub. L. 112–239, div. A, title VIII, § 825, Jan. 2, 2013, 126 Stat. 1833, provided that:
+Pub. L. 111–23, title II, § 202, May 22, 2009, 123 Stat. 1720, as amended by Pub. L. 112–81, div. A, title VIII, § 837, Dec. 31, 2011, 125 Stat. 1509; Pub. L. 112–239, div. A, title VIII, § 825, Jan. 2, 2013, 126 Stat. 1833, provided that:
 
 > **“(a) Acquisition Strategies To Ensure Competition.—** The Secretary of Defense shall ensure that the acquisition strategy for each major defense acquisition program includes—
 
@@ -99,11 +99,11 @@ Pub. L. 111–23, title II, § 202, May 22, 2009, 123 Stat. 1720, as amended b
 
 **Preservation of Tooling for Major Defense Acquisition Programs**
 
-Pub. L. 110–417, [div. A], title VIII, § 815, Oct. 14, 2008, 122 Stat. 4530, directed the Secretary of Defense to issue, not later than 270 days after Oct. 14, 2008, guidance requiring the preservation and storage of unique tooling associated with the production of hardware for a major defense acquisition program through the end of the service life of the end item associated with such a program.
+Pub. L. 110–417, [div. A], title VIII, § 815, Oct. 14, 2008, 122 Stat. 4530, directed the Secretary of Defense to issue, not later than 270 days after Oct. 14, 2008, guidance requiring the preservation and storage of unique tooling associated with the production of hardware for a major defense acquisition program through the end of the service life of the end item associated with such a program.
 
 **Definitions**
 
-Pub. L. 111–23, § 2, May 22, 2009, 123 Stat. 1704, as amended by Pub. L. 119–60, div. A, title VIII, § 811(c)(3)(A), Dec. 18, 2025, 139 Stat. 950, provided that:
+Pub. L. 111–23, § 2, May 22, 2009, 123 Stat. 1704, as amended by Pub. L. 119–60, div. A, title VIII, § 811(c)(3)(A), Dec. 18, 2025, 139 Stat. 950, provided that:
 
 > “In this Act [see Short Title of 2009 Amendment note set out under section 101 of this title]:
 
@@ -113,7 +113,7 @@ Pub. L. 111–23, § 2, May 22, 2009, 123 Stat. 1704, as amended by Pub. L. 11
 
 > **“(3)** The term ‘major weapon system’ has the meaning given that term in section 101(a) of title 10, United States Code.”
 
-## § 4321. Development of major defense acquisition programs: sustainment of system to be replaced
+## § 4321. Development of major defense acquisition programs: sustainment of system to be replaced
 
 **(a) Requirement for Sustaining Existing Forces.—**
 
@@ -151,7 +151,7 @@ Pub. L. 111–23, § 2, May 22, 2009, 123 Stat. 1704, as amended by Pub. L. 11
 
 **(d) Waiver.—** The Secretary of Defense may waive the applicability of subsection (a) to a major defense acquisition program if the Secretary determines that, but for such a waiver, the Department would be unable to meet national security objectives. Whenever the Secretary makes such a determination and authorizes such a waiver, the Secretary shall submit notice of such waiver and of the Secretary’s determination and the reasons therefor in writing to the congressional defense committees.
 
-(Added Pub. L. 108–375, div. A, title VIII, § 805(a)(1), Oct. 28, 2004, 118 Stat. 2008, § 2437; renumbered § 4321, Pub. L. 116–283, div. A, title XVIII, § 1848(b), Jan. 1, 2021, 134 Stat. 4258.)
+(Added Pub. L. 108–375, div. A, title VIII, § 805(a)(1), Oct. 28, 2004, 118 Stat. 2008, § 2437; renumbered § 4321, Pub. L. 116–283, div. A, title XVIII, § 1848(b), Jan. 1, 2021, 134 Stat. 4258.)
 
 **Editorial Notes**
 
@@ -171,9 +171,9 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 108–375, div. A, title VIII, § 805(b), Oct. 28, 2004, 118 Stat. 2009, provided that: “Section 2437 of title 10, United States Code [now 10 U.S.C. 4321], as added by subsection (a), shall apply with respect to a major defense acquisition program for a system that is under development as of the date of the enactment of this Act [Oct. 28, 2004] and is not expected to reach initial operational capability before October 1, 2008. The Secretary of Defense shall require that a sustainment plan under that section be developed not later than one year after the date of the enactment of this Act for the existing system that the system under development is intended to replace.”
+Pub. L. 108–375, div. A, title VIII, § 805(b), Oct. 28, 2004, 118 Stat. 2009, provided that: “Section 2437 of title 10, United States Code [now 10 U.S.C. 4321], as added by subsection (a), shall apply with respect to a major defense acquisition program for a system that is under development as of the date of the enactment of this Act [Oct. 28, 2004] and is not expected to reach initial operational capability before October 1, 2008. The Secretary of Defense shall require that a sustainment plan under that section be developed not later than one year after the date of the enactment of this Act for the existing system that the system under development is intended to replace.”
 
-## § 4323. Sustainment reviews
+## § 4323. Sustainment reviews
 
 **(a) Review Required.—** The Secretary of Defense shall require each Secretary of a military department, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, to conduct an assessment of the actual performance of each major weapon system against the operational readiness requirements and materiel readiness objectives (established under section 118(c) of this title). Each Secretary of a military department shall use such assessment to—
 
@@ -201,7 +201,7 @@ Pub. L. 108–375, div. A, title VIII, § 805(b), Oct. 28, 2004, 118 Stat. 200
 
 **(c) Covered System Defined.—** In this section, the term “covered system” has the meaning given in section 4324 of this title.
 
-(Added Pub. L. 114–328, div. A, title VIII, § 849(c)(1), Dec. 23, 2016, 130 Stat. 2293, § 2441; amended Pub. L. 115–91, div. A, title VIII, §§ 816, 836(b)(2), Dec. 12, 2017, 131 Stat. 1462, 1473; renumbered § 4323 and amended Pub. L. 116–283, div. A, title VIII, § 802(c), title XVIII, §§ 1848(c), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3732, 4258, 4294; Pub. L. 119–60, div. A, title XVIII, § 1803(b), Dec. 18, 2025, 139 Stat. 1229.)
+(Added Pub. L. 114–328, div. A, title VIII, § 849(c)(1), Dec. 23, 2016, 130 Stat. 2293, § 2441; amended Pub. L. 115–91, div. A, title VIII, §§ 816, 836(b)(2), Dec. 12, 2017, 131 Stat. 1462, 1473; renumbered § 4323 and amended Pub. L. 116–283, div. A, title VIII, § 802(c), title XVIII, §§ 1848(c), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3732, 4258, 4294; Pub. L. 119–60, div. A, title XVIII, § 1803(b), Dec. 18, 2025, 139 Stat. 1229.)
 
 **Editorial Notes**
 
@@ -209,27 +209,27 @@ Pub. L. 108–375, div. A, title VIII, § 805(b), Oct. 28, 2004, 118 Stat. 200
 
 2025—Pub. L. 119–60 amended section generally. Prior to amendment, section required a sustainment review of each covered system not later than five years after declaration of initial operational capability of a major defense acquisition program, and every five years thereafter throughout the life cycle of the covered system.
 
-2021—Pub. L. 116–283, § 1848(c), renumbered section 2441 of this title as this section.
+2021—Pub. L. 116–283, § 1848(c), renumbered section 2441 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 802(c)(1), in first sentence, substituted “covered system” for “major weapon system”, “, and every five years thereafter throughout the life cycle of the covered system,” for “and throughout the life cycle of the weapon system”, and “costs of the covered system” for “costs of the weapon system” and struck out second sentence which read as follows: “For any review after the first one, the Secretary concerned shall use availability and reliability thresholds and cost estimates as the basis for the circumstances that prompt such a review.”
+Subsec. (a). Pub. L. 116–283, § 802(c)(1), in first sentence, substituted “covered system” for “major weapon system”, “, and every five years thereafter throughout the life cycle of the covered system,” for “and throughout the life cycle of the weapon system”, and “costs of the covered system” for “costs of the weapon system” and struck out second sentence which read as follows: “For any review after the first one, the Secretary concerned shall use availability and reliability thresholds and cost estimates as the basis for the circumstances that prompt such a review.”
 
-Subsec. (b). Pub. L. 116–283, § 802(c)(2)(A), inserted “assess execution of the life cycle sustainment plan of the covered system and” before “include the following elements:” in introductory provisions.
+Subsec. (b). Pub. L. 116–283, § 802(c)(2)(A), inserted “assess execution of the life cycle sustainment plan of the covered system and” before “include the following elements:” in introductory provisions.
 
-Subsec. (b)(10). Pub. L. 116–283, § 802(c)(2)(B), added par. (10).
+Subsec. (b)(10). Pub. L. 116–283, § 802(c)(2)(B), added par. (10).
 
-Subsec. (c). Pub. L. 116–283, § 1848(c), substituted “sections 4324 and 4325” for “sections 2337 and 2337a”.
+Subsec. (c). Pub. L. 116–283, § 1848(c), substituted “sections 4324 and 4325” for “sections 2337 and 2337a”.
 
-Subsec. (d). Pub. L. 116–283, § 802(c)(3), added subsec. (d).
+Subsec. (d). Pub. L. 116–283, § 802(c)(3), added subsec. (d).
 
-Subsec. (e). Pub. L. 116–283, § 802(c)(3), added subsec. (e).
+Subsec. (e). Pub. L. 116–283, § 802(c)(3), added subsec. (e).
 
-Subsec. (e)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 4324” for “section 2337”.
+Subsec. (e)(1). Pub. L. 116–283, § 1883(b)(2), substituted “section 4324” for “section 2337”.
 
-Subsec. (e)(2)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 4214(d)” for “section 2435(d)”.
+Subsec. (e)(2)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 4214(d)” for “section 2435(d)”.
 
-2017—Subsec. (a). Pub. L. 115–91, § 816, inserted at end “The Secretary concerned shall make the memorandum and supporting documentation for each sustainment review available to the Under Secretary of Defense for Acquisition and Sustainment within 30 days after the review is completed.”
+2017—Subsec. (a). Pub. L. 115–91, § 816, inserted at end “The Secretary concerned shall make the memorandum and supporting documentation for each sustainment review available to the Under Secretary of Defense for Acquisition and Sustainment within 30 days after the review is completed.”
 
-Subsec. (c). Pub. L. 115–91, § 836(b)(2), substituted “sections 2337 and 2337a of this title” for “section 2337 of this title and section 832 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 10 U.S.C. 2430 note)”.
+Subsec. (c). Pub. L. 115–91, § 836(b)(2), substituted “sections 2337 and 2337a of this title” for “section 2337 of this title and section 832 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 10 U.S.C. 2430 note)”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -237,7 +237,7 @@ Subsec. (c). Pub. L. 115–91, § 836(b)(2), substituted “sections 2337 and 
 
 Amendment by sections 1848(c) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4324. Life-cycle management and product support
+## § 4324. Life-cycle management and product support
 
 **(a) In General.—** The Secretary of Defense shall ensure that each covered system is supported by a performance-based life-cycle sustainment plan—
 
@@ -291,7 +291,7 @@ Amendment by sections 1848(c) and 1883(b)(2) of Pub. L. 116–283 effective Jan.
 
 **(E)** seek to maintain a robust, resilient, and innovative defense industrial base to support requirements throughout the life cycle of the covered system.
 
-**(d) 1 [footnote: 1 So in original. No subsec. (c) has been enacted.] Definitions.—** In this chapter:
+**(d) 1 [footnote: 1 So in original. No subsec. (c) has been enacted.] Definitions.—** In this chapter:
 
 **(1)** The terms “milestone decision authority” and “Milestone A approval” have the meanings given, respectively, in section 4251 of this title.
 
@@ -357,61 +357,61 @@ Amendment by sections 1848(c) and 1883(b)(2) of Pub. L. 116–283 effective Jan.
 
 **(9)** The term “product support provider” means an entity that provides product support functions.
 
-(Added Pub. L. 112–239, div. A, title VIII, § 823(a)(1), Jan. 2, 2013, 126 Stat. 1830, § 2337; amended Pub. L. 113–66, div. A, title VIII, § 823, Dec. 26, 2013, 127 Stat. 809; renumbered § 4324 and amended Pub. L. 116–283, div. A, title VIII, § 802(a), title XVIII, §§ 1848(d)(1), (2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3731, 4258, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(b)(17), (d)(11), Dec. 27, 2021, 135 Stat. 2135, 2137; Pub. L. 117–263, div. A, title VIII, § 806, Dec. 23, 2022, 136 Stat. 2702; Pub. L. 118–159, div. A, title VIII, § 804(c)(3), Dec. 23, 2024, 138 Stat. 1968; Pub. L. 119–60, div. A, title XVIII, §§ 1803(c), 1805(b)(1), Dec. 18, 2025, 139 Stat. 1230, 1236.)
+(Added Pub. L. 112–239, div. A, title VIII, § 823(a)(1), Jan. 2, 2013, 126 Stat. 1830, § 2337; amended Pub. L. 113–66, div. A, title VIII, § 823, Dec. 26, 2013, 127 Stat. 809; renumbered § 4324 and amended Pub. L. 116–283, div. A, title VIII, § 802(a), title XVIII, §§ 1848(d)(1), (2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3731, 4258, 4294; Pub. L. 117–81, div. A, title XVII, § 1701(b)(17), (d)(11), Dec. 27, 2021, 135 Stat. 2135, 2137; Pub. L. 117–263, div. A, title VIII, § 806, Dec. 23, 2022, 136 Stat. 2702; Pub. L. 118–159, div. A, title VIII, § 804(c)(3), Dec. 23, 2024, 138 Stat. 1968; Pub. L. 119–60, div. A, title XVIII, §§ 1803(c), 1805(b)(1), Dec. 18, 2025, 139 Stat. 1230, 1236.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 1803(c), amended section generally. Prior to amendment, section related to guidance on life-cycle management, life cycle sustainment plans, and product support managers for covered systems.
+2025—Pub. L. 119–60, § 1803(c), amended section generally. Prior to amendment, section related to guidance on life-cycle management, life cycle sustainment plans, and product support managers for covered systems.
 
-Subsec. (d)(8). Pub. L. 119–60, § 1805(b)(1), which directed the insertion of “the term ‘decision authority’ ” after “meaning given”, could not be executed following the general amendment of the section by Pub. L. 119–60, § 1803(c). See above.
+Subsec. (d)(8). Pub. L. 119–60, § 1805(b)(1), which directed the insertion of “the term ‘decision authority’ ” after “meaning given”, could not be executed following the general amendment of the section by Pub. L. 119–60, § 1803(c). See above.
 
 2024—Subsec. (d)(5)(B). Pub. L. 118–159 substituted “section 3602 of this title” for “section 804 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2302 note)”.
 
-2022—Subsec. (b). Pub. L. 117–263, § 806(a), designated existing provisions as par. (1) and inserted heading; inserted “for which the milestone decision authority has received views from appropriate materiel, logistics, or fleet representatives” after “approved life cycle sustainment plan”; designated former pars. (1) to (8) as subpars. (A) to (G) and (J), respectively, of par. (1); amended subpar. (G) generally, prior to which text read “a technical data and intellectual property management plan for product support; and”; added subpars. (H) and (I) of par. (1); and added par. (2). Amendment adding par. (2) “at the end of” par. (1) was executed by adding par. (2) after par. (1) to reflect the probable intent of Congress.
+2022—Subsec. (b). Pub. L. 117–263, § 806(a), designated existing provisions as par. (1) and inserted heading; inserted “for which the milestone decision authority has received views from appropriate materiel, logistics, or fleet representatives” after “approved life cycle sustainment plan”; designated former pars. (1) to (8) as subpars. (A) to (G) and (J), respectively, of par. (1); amended subpar. (G) generally, prior to which text read “a technical data and intellectual property management plan for product support; and”; added subpars. (H) and (I) of par. (1); and added par. (2). Amendment adding par. (2) “at the end of” par. (1) was executed by adding par. (2) after par. (1) to reflect the probable intent of Congress.
 
-Subsec. (d)(7), (8). Pub. L. 117–263, § 806(b), added par. (7) and redesignated former par. (7) as (8).
+Subsec. (d)(7), (8). Pub. L. 117–263, § 806(b), added par. (7) and redesignated former par. (7) as (8).
 
-2021—Pub. L. 116–283, § 1848(d)(1), renumbered section 2337 of this title as this section.
+2021—Pub. L. 116–283, § 1848(d)(1), renumbered section 2337 of this title as this section.
 
-Pub. L. 116–283, § 802(a)(1)–(3), substituted “covered system” for “major weapon system” and “weapon system” and “covered systems” for “major weapon systems” wherever appearing.
+Pub. L. 116–283, § 802(a)(1)–(3), substituted “covered system” for “major weapon system” and “weapon system” and “covered systems” for “major weapon systems” wherever appearing.
 
-Subsec. (b). Pub. L. 116–283, § 802(a)(5), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 116–283, § 802(a)(5), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 116–283, § 802(a)(4), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 116–283, § 802(a)(4), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(2)(A). Pub. L. 116–283, § 802(a)(6)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “develop and implement a comprehensive product support strategy for the weapon system;”.
+Subsec. (c)(2)(A). Pub. L. 116–283, § 802(a)(6)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “develop and implement a comprehensive product support strategy for the weapon system;”.
 
-Subsec. (c)(2)(B). Pub. L. 116–283, § 802(a)(6)(B), substituted “ensure the life cycle sustainment plan is informed by” for “use”.
+Subsec. (c)(2)(B). Pub. L. 116–283, § 802(a)(6)(B), substituted “ensure the life cycle sustainment plan is informed by” for “use”.
 
-Subsec. (c)(2)(C). Pub. L. 116–283, § 802(a)(6)(C), inserted “and life cycle sustainment plan” after “product support strategy”.
+Subsec. (c)(2)(C). Pub. L. 116–283, § 802(a)(6)(C), inserted “and life cycle sustainment plan” after “product support strategy”.
 
-Subsec. (c)(5). Pub. L. 116–283, § 1848(d)(2), which directed amendment of subsec. (c)(5) by substituting “section 3041(c)(1)” for “section 2302d(a)” and could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(17).
+Subsec. (c)(5). Pub. L. 116–283, § 1848(d)(2), which directed amendment of subsec. (c)(5) by substituting “section 3041(c)(1)” for “section 2302d(a)” and could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(17).
 
-Subsec. (d). Pub. L. 116–283, § 802(a)(4), redesignated subsec. (c) as (d).
+Subsec. (d). Pub. L. 116–283, § 802(a)(4), redesignated subsec. (c) as (d).
 
-Subsec. (d)(5). Pub. L. 116–283, § 802(a)(7)(A), amended par. (5) generally. Prior to amendment, par. (5) defined “major weapon system”.
+Subsec. (d)(5). Pub. L. 116–283, § 802(a)(7)(A), amended par. (5) generally. Prior to amendment, par. (5) defined “major weapon system”.
 
-Subsec. (d)(5)(A). Pub. L. 117–81, § 1701(d)(11)(A), substituted “section 4201” for “section 2430”.
+Subsec. (d)(5)(A). Pub. L. 117–81, § 1701(d)(11)(A), substituted “section 4201” for “section 2430”.
 
-Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2430”, which was redesignated as multiple sections.
+Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2430”, which was redesignated as multiple sections.
 
-Subsec. (d)(5)(B). Pub. L. 117–81, § 1701(d)(11)(A), which directed the substitution of “section 4201(a)(2) of this title” for “section 2430(a)(1)(B)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
+Subsec. (d)(5)(B). Pub. L. 117–81, § 1701(d)(11)(A), which directed the substitution of “section 4201(a)(2) of this title” for “section 2430(a)(1)(B)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
 
-Pub. L. 116–283, § 1883(b)(2), substituted “section 4201(a)(2)” for “section 2430(a)(1)(B)”.
+Pub. L. 116–283, § 1883(b)(2), substituted “section 4201(a)(2)” for “section 2430(a)(1)(B)”.
 
-Subsec. (d)(6). Pub. L. 117–81, § 1701(d)(11)(B), which directed the substitution of “section 4172(e)(7)” for “section 2366(e)(7)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
+Subsec. (d)(6). Pub. L. 117–81, § 1701(d)(11)(B), which directed the substitution of “section 4172(e)(7)” for “section 2366(e)(7)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
 
-Pub. L. 116–283, § 1883(b)(2), substituted “section 4172(e)(7)” for “section 2366(e)(7)”.
+Pub. L. 116–283, § 1883(b)(2), substituted “section 4172(e)(7)” for “section 2366(e)(7)”.
 
-Pub. L. 116–283, § 802(a)(7)(B), added par. (6).
+Pub. L. 116–283, § 802(a)(7)(B), added par. (6).
 
-Subsec. (d)(7). Pub. L. 117–81, § 1701(d)(11)(C), which directed the substitution of “section 4211(e)(3)” for “section 2431a(e)(5)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
+Subsec. (d)(7). Pub. L. 117–81, § 1701(d)(11)(C), which directed the substitution of “section 4211(e)(3)” for “section 2431a(e)(5)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
 
-Pub. L. 116–283, § 1883(b)(2), substituted “section 4211(e)(3)” for “section 2431a(e)(5)”.
+Pub. L. 116–283, § 1883(b)(2), substituted “section 4211(e)(3)” for “section 2431a(e)(5)”.
 
-Pub. L. 116–283, § 802(a)(7)(B), added par. (7).
+Pub. L. 116–283, § 802(a)(7)(B), added par. (7).
 
 2013—Subsec. (b)(2)(I). Pub. L. 113–66 added subpar. (I).
 
@@ -425,9 +425,9 @@ Amendment by sections 1848(d)(1), (2) and 1883(b)(2) of Pub. L. 116–283 effect
 
 **Similar Provisions**
 
-Provisions similar to those in this section were contained in section 805 of Pub. L. 111–84, which was set out as a note under section 2302 of this title prior to repeal by Pub. L. 112–239, div. A, title VIII, § 823(b), Jan. 2, 2013, 126 Stat. 1832.
+Provisions similar to those in this section were contained in section 805 of Pub. L. 111–84, which was set out as a note under section 2302 of this title prior to repeal by Pub. L. 112–239, div. A, title VIII, § 823(b), Jan. 2, 2013, 126 Stat. 1832.
 
-## § 4325. Major weapon systems: assessment, management, and control of operating and support costs
+## § 4325. Major weapon systems: assessment, management, and control of operating and support costs
 
 **(a) Guidance Required.—** The Secretary of Defense shall issue and maintain guidance on actions to be taken to assess, manage, and control Department of Defense costs for the operation and support of major weapon systems.
 
@@ -459,17 +459,17 @@ Provisions similar to those in this section were contained in section 805 of Pub
 
 **(c) Major Weapon System Defined.—** In this section, the term “major weapon system” has the meaning given that term in section 101(a) of this title.
 
-(Added Pub. L. 115–91, div. A, title VIII, § 836(a)(1), Dec. 12, 2017, 131 Stat. 1472, § 2337a; amended Pub. L. 115–232, div. A, title X, § 1081(a)(20), Aug. 13, 2018, 132 Stat. 1984; renumbered § 4325 and amended Pub. L. 116–283, div. A, title XVIII, § 1848(d)(1), (3), Jan. 1, 2021, 134 Stat. 4258; Pub. L. 119–60, div. A, title VIII, § 811(c)(2)(C), title XVIII, § 1803(e), Dec. 18, 2025, 139 Stat. 950, 1233.)
+(Added Pub. L. 115–91, div. A, title VIII, § 836(a)(1), Dec. 12, 2017, 131 Stat. 1472, § 2337a; amended Pub. L. 115–232, div. A, title X, § 1081(a)(20), Aug. 13, 2018, 132 Stat. 1984; renumbered § 4325 and amended Pub. L. 116–283, div. A, title XVIII, § 1848(d)(1), (3), Jan. 1, 2021, 134 Stat. 4258; Pub. L. 119–60, div. A, title VIII, § 811(c)(2)(C), title XVIII, § 1803(e), Dec. 18, 2025, 139 Stat. 950, 1233.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (b)(1). Pub. L. 119–60, § 1803(e)(1)(A), inserted “in accordance with the requirements of section 118 of this title and” after “be issued”.
+2025—Subsec. (b)(1). Pub. L. 119–60, § 1803(e)(1)(A), inserted “in accordance with the requirements of section 118 of this title and” after “be issued”.
 
-Subsec. (b)(3). Pub. L. 119–60, § 1803(e)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “require the military departments to update estimates of operating and support costs periodically throughout the life cycle of a major weapon system, to determine whether preliminary information and assumptions remain relevant and accurate, and identify and record reasons for variances;”.
+Subsec. (b)(3). Pub. L. 119–60, § 1803(e)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “require the military departments to update estimates of operating and support costs periodically throughout the life cycle of a major weapon system, to determine whether preliminary information and assumptions remain relevant and accurate, and identify and record reasons for variances;”.
 
-Subsec. (b)(9). Pub. L. 119–60, § 1803(e)(1)(C), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “include—
+Subsec. (b)(9). Pub. L. 119–60, § 1803(e)(1)(C), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “include—
 
 “(A) reliability metrics for major weapon systems; and
 
@@ -479,21 +479,21 @@ Subsec. (b)(9). Pub. L. 119–60, § 1803(e)(1)(C), amended par. (9) generally
 
 “(ii) to develop strategies for improving reliability, availability, and maintainability of such systems at an affordable cost; and”.
 
-Subsec. (b)(10). Pub. L. 119–60, § 1803(e)(1)(D), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “require the military departments to conduct periodic reviews of operating and support costs of major weapon systems after such systems achieve initial operational capability to identify and address factors resulting in growth in operating and support costs and adapt support strategies to reduce such costs.”
+Subsec. (b)(10). Pub. L. 119–60, § 1803(e)(1)(D), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “require the military departments to conduct periodic reviews of operating and support costs of major weapon systems after such systems achieve initial operational capability to identify and address factors resulting in growth in operating and support costs and adapt support strategies to reduce such costs.”
 
-Subsec. (c). Pub. L. 119–60, § 1803(e)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to retention of data on operating and support costs.
+Subsec. (c). Pub. L. 119–60, § 1803(e)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to retention of data on operating and support costs.
 
-Subsec. (d). Pub. L. 119–60, § 1803(e)(3), redesignated subsec. (d) as (c).
+Subsec. (d). Pub. L. 119–60, § 1803(e)(3), redesignated subsec. (d) as (c).
 
-Pub. L. 119–60, § 811(c)(2)(C), substituted “section 101(a)” for “section 3455(f)”.
+Pub. L. 119–60, § 811(c)(2)(C), substituted “section 101(a)” for “section 3455(f)”.
 
-2021—Pub. L. 116–283, § 1848(d)(3)(B), amended section catchline generally. Prior to amendment, section catchline read as follows: “Assessment, management, and control of operating and support costs for major weapon systems”.
+2021—Pub. L. 116–283, § 1848(d)(3)(B), amended section catchline generally. Prior to amendment, section catchline read as follows: “Assessment, management, and control of operating and support costs for major weapon systems”.
 
-Pub. L. 116–283, § 1848(d)(1), renumbered section 2337a of this title as this section.
+Pub. L. 116–283, § 1848(d)(1), renumbered section 2337a of this title as this section.
 
-Subsec. (b)(1). Pub. L. 116–283, § 1848(d)(3)(A)(i), substituted “section 4324” for “section 2337”.
+Subsec. (b)(1). Pub. L. 116–283, § 1848(d)(3)(A)(i), substituted “section 4324” for “section 2337”.
 
-Subsec. (d). Pub. L. 116–283, § 1848(d)(3)(A)(ii), substituted “section 3455(f)” for “section 2379(f)”.
+Subsec. (d). Pub. L. 116–283, § 1848(d)(3)(A)(ii), substituted “section 3455(f)” for “section 2379(f)”.
 
 2018—Subsec. (d). Pub. L. 115–232 substituted “this title” for “title 10, United States Code”.
 
@@ -505,7 +505,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Retention of Data on Operating and Support Costs**
 
-Pub. L. 119–60, div. A, title XVIII, § 1803(f), Dec. 18, 2025, 139 Stat. 1233, provided that:
+Pub. L. 119–60, div. A, title XVIII, § 1803(f), Dec. 18, 2025, 139 Stat. 1233, provided that:
 
 > **“(1) In general.—** The Director of Cost Assessment and Program Evaluation shall develop and maintain a database on operating and support estimates, supporting documentation, and actual operating and support costs for major weapon systems (as defined in section 101 of title 10, United States Code, as added by section 811 of this Act).
 
@@ -519,9 +519,9 @@ Pub. L. 119–60, div. A, title XVIII, § 1803(f), Dec. 18, 2025, 139 Stat. 12
 
 **Pilot Program on Time-Certain Development in Acquisition of Major Weapon Systems**
 
-Pub. L. 109–364, div. A, title VIII, § 812, Oct. 17, 2006, 120 Stat. 2317, as amended by Pub. L. 110–417, [div. A], title VIII, § 813(d)(3), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–84, div. A, title X, § 1073(c)(5), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(2)(D), Jan. 1, 2021, 134 Stat. 4155, which authorized a pilot program on the use of time-certain development in the acquisition of major weapon systems in order to deliver new capabilities to warfighters more rapidly, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(16)(A), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 109–364, div. A, title VIII, § 812, Oct. 17, 2006, 120 Stat. 2317, as amended by Pub. L. 110–417, [div. A], title VIII, § 813(d)(3), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–84, div. A, title X, § 1073(c)(5), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 116–283, div. A, title XVIII, § 1806(e)(2)(D), Jan. 1, 2021, 134 Stat. 4155, which authorized a pilot program on the use of time-certain development in the acquisition of major weapon systems in order to deliver new capabilities to warfighters more rapidly, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(16)(A), Dec. 18, 2025, 139 Stat. 949.
 
-## § 4328. Weapon system design: sustainment factors
+## § 4328. Weapon system design: sustainment factors
 
 **(a) In General.—** The Secretary of Defense shall ensure that the defense acquisition system gives ample emphasis to sustainment factors, particularly those factors that are affected principally by the design of a weapon system, in the development of a weapon system.
 
@@ -551,7 +551,7 @@ Pub. L. 109–364, div. A, title VIII, § 812, Oct. 17, 2006, 120 Stat. 2317, 
 
 **(2)** for the production of a weapon system, including embedded software.
 
-(Added Pub. L. 115–91, div. A, title VIII, § 834(a)(1), Dec. 12, 2017, 131 Stat. 1469, § 2443; renumbered § 4328 and amended Pub. L. 116–283, div. A, title XVIII, § 1848(e), Jan. 1, 2021, 134 Stat. 4259.)
+(Added Pub. L. 115–91, div. A, title VIII, § 834(a)(1), Dec. 12, 2017, 131 Stat. 1469, § 2443; renumbered § 4328 and amended Pub. L. 116–283, div. A, title XVIII, § 1848(e), Jan. 1, 2021, 134 Stat. 4259.)
 
 **Editorial Notes**
 
@@ -559,27 +559,27 @@ Pub. L. 109–364, div. A, title VIII, § 812, Oct. 17, 2006, 120 Stat. 2317, 
 
 Prior sections 4331 to 4338 were renumbered sections 7431 to 7438 of this title, respectively.
 
-A prior section 4339, act Aug. 10, 1956, ch. 1041, 70A Stat. 240, authorized public quarters and fuel and light therefor for the organist and choirmaster of the Academy and for civilian instructors in the departments of foreign languages and tactics, prior to repeal by Pub. L. 89–716, § 1, Nov. 2, 1966, 80 Stat. 1114.
+A prior section 4339, act Aug. 10, 1956, ch. 1041, 70A Stat. 240, authorized public quarters and fuel and light therefor for the organist and choirmaster of the Academy and for civilian instructors in the departments of foreign languages and tactics, prior to repeal by Pub. L. 89–716, § 1, Nov. 2, 1966, 80 Stat. 1114.
 
 Prior sections 4340 to 4343 were renumbered sections 7440 to 7443 of this title, respectively.
 
-Prior sections 4344 to 4345a were repealed by Pub. L. 114–328, div. A, title XII, § 1248(b)(1), Dec. 23, 2016, 130 Stat. 2525.
+Prior sections 4344 to 4345a were repealed by Pub. L. 114–328, div. A, title XII, § 1248(b)(1), Dec. 23, 2016, 130 Stat. 2525.
 
-Section 4344, act Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 98–94, title X, § 1004(a)(1), Sept. 24, 1983, 97 Stat. 657; Pub. L. 105–85, div. A, title V, § 543(a), Nov. 18, 1997, 111 Stat. 1743; Pub. L. 106–65, div. A, title V, § 534(a), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, § 1 [[div. A], title V, § 532(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A-110; Pub. L. 107–107, div. A, title V, § 533(a)(1), (2), Dec. 28, 2001, 115 Stat. 1105, related to selection of persons from foreign countries to receive instruction at the United States Military Academy. See section 347 of this title.
+Section 4344, act Aug. 10, 1956, ch. 1041, 70A Stat. 242; Pub. L. 98–94, title X, § 1004(a)(1), Sept. 24, 1983, 97 Stat. 657; Pub. L. 105–85, div. A, title V, § 543(a), Nov. 18, 1997, 111 Stat. 1743; Pub. L. 106–65, div. A, title V, § 534(a), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, § 1 [[div. A], title V, § 532(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A-110; Pub. L. 107–107, div. A, title V, § 533(a)(1), (2), Dec. 28, 2001, 115 Stat. 1105, related to selection of persons from foreign countries to receive instruction at the United States Military Academy. See section 347 of this title.
 
-Section 4345, added Pub. L. 105–85, div. A, title V, § 542(a)(1), Nov. 18, 1997, 111 Stat. 1740; amended Pub. L. 106–65, div. A, title V, § 535(a), Oct. 5, 1999, 113 Stat. 605; Pub. L. 109–364, div. A, title V, § 531(a), Oct. 17, 2006, 120 Stat. 2198, related to an exchange program with foreign military academies.
+Section 4345, added Pub. L. 105–85, div. A, title V, § 542(a)(1), Nov. 18, 1997, 111 Stat. 1740; amended Pub. L. 106–65, div. A, title V, § 535(a), Oct. 5, 1999, 113 Stat. 605; Pub. L. 109–364, div. A, title V, § 531(a), Oct. 17, 2006, 120 Stat. 2198, related to an exchange program with foreign military academies.
 
-A prior section 4345, act Aug. 10, 1956, ch. 1041, 70A Stat. 242, related to selection of Filipinos for instruction at the Military Academy, prior to repeal by Pub. L. 98–94, title X, § 1004(a)(2), (d), Sept. 24, 1983, 97 Stat. 658, 660, effective one year after Sept. 24, 1983.
+A prior section 4345, act Aug. 10, 1956, ch. 1041, 70A Stat. 242, related to selection of Filipinos for instruction at the Military Academy, prior to repeal by Pub. L. 98–94, title X, § 1004(a)(2), (d), Sept. 24, 1983, 97 Stat. 658, 660, effective one year after Sept. 24, 1983.
 
-Section 4345a, added Pub. L. 110–417, [div. A], title V, § 541(a)(1), Oct. 14, 2008, 122 Stat. 4454; amended Pub. L. 113–291, div. A, title V, § 553(a), Dec. 19, 2014, 128 Stat. 3377, related to foreign and cultural exchange activities.
+Section 4345a, added Pub. L. 110–417, [div. A], title V, § 541(a)(1), Oct. 14, 2008, 122 Stat. 4454; amended Pub. L. 113–291, div. A, title V, § 553(a), Dec. 19, 2014, 128 Stat. 3377, related to foreign and cultural exchange activities.
 
 Prior sections 4346 to 4349 were renumbered sections 7446 to 7449 of this title, respectively.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1848(e)(2), amended section catchline generally. Prior to amendment, section catchline read as follows: “Sustainment factors in weapon system design”.
+2021—Pub. L. 116–283, § 1848(e)(2), amended section catchline generally. Prior to amendment, section catchline read as follows: “Sustainment factors in weapon system design”.
 
-Pub. L. 116–283, § 1848(e)(1), renumbered section 2443 of this title as this section. Section was inserted after section 4325 of this title to reflect the probable intent of Congress, notwithstanding directory language inserting it after section “4235”.
+Pub. L. 116–283, § 1848(e)(1), renumbered section 2443 of this title as this section. Section was inserted after section 4325 of this title to reflect the probable intent of Congress, notwithstanding directory language inserting it after section “4235”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -589,11 +589,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date**
 
-Pub. L. 115–91, div. A, title VIII, § 834(b), Dec. 12, 2017, 131 Stat. 1470, provided that: “Subsections (c) and (d) of section 2443 of title 10, United States Code [now 10 U.S.C. 4328], as added by subsection (a), shall apply with respect to any covered contract (as defined in that section) for which the contract solicitation is issued on or after the date occurring one year after the date of the enactment of this Act [Dec. 12, 2017].”
+Pub. L. 115–91, div. A, title VIII, § 834(b), Dec. 12, 2017, 131 Stat. 1470, provided that: “Subsections (c) and (d) of section 2443 of title 10, United States Code [now 10 U.S.C. 4328], as added by subsection (a), shall apply with respect to any covered contract (as defined in that section) for which the contract solicitation is issued on or after the date occurring one year after the date of the enactment of this Act [Dec. 12, 2017].”
 
 **Implementation of Recommendations of the Independent Study on Consideration of Sustainment in Weapons Systems Life Cycle**
 
-Pub. L. 115–232, div. A, title VIII, § 832, Aug. 13, 2018, 132 Stat. 1857, provided that:
+Pub. L. 115–232, div. A, title VIII, § 832, Aug. 13, 2018, 132 Stat. 1857, provided that:
 
 > **“(a) Implementation Required.—** Not later than 18 months after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall, except as provided under subsection (b), commence implementation of each recommendation submitted as part of the independent assessment produced under section 844 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2290).
 
@@ -615,4 +615,4 @@ Pub. L. 115–232, div. A, title VIII, § 832, Aug. 13, 2018, 132 Stat. 1857, 
 
 **Engineering Change Authorized**
 
-Pub. L. 115–91, div. A, title VIII, § 834(c), Dec. 12, 2017, 131 Stat. 1470, provided that: “Subject to the availability of appropriations, the Secretary of Defense may fund engineering changes to the design of a weapon system in the engineering and manufacturing development phase or in the production phase of an acquisition program to improve reliability or maintainability of the weapon system and reduce projected operating and support costs.”
+Pub. L. 115–91, div. A, title VIII, § 834(c), Dec. 12, 2017, 131 Stat. 1470, provided that: “Subject to the availability of appropriations, the Secretary of Defense may fund engineering changes to the design of a weapon system in the engineering and manufacturing development phase or in the production phase of an acquisition program to improve reliability or maintainability of the weapon system and reduce projected operating and support costs.”

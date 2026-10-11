@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—FORESTRY RURAL REVITALIZATION
 
-### § 6601. Forestry rural revitalization
+### § 6601. Forestry rural revitalization
 
 **(a) Establishment of economic development and global marketing program**
 
@@ -53,7 +53,7 @@ The Secretary of Agriculture, acting through the National Institute of Food and 
 
 There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2008 through 2023.
 
-(Pub. L. 101–624, title XXIII, § 2371, Nov. 28, 1990, 104 Stat. 4045; Pub. L. 108–148, title II, § 202, Dec. 3, 2003, 117 Stat. 1902; Pub. L. 110–234, title VII, § 7511(c)(25), title VIII, § 8201, May 22, 2008, 122 Stat. 1269, 1290; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(25), title VIII, § 8201, June 18, 2008, 122 Stat. 1664, 2031, 2051; Pub. L. 113–79, title VIII, § 8201, Feb. 7, 2014, 128 Stat. 914; Pub. L. 115–334, title VIII, § 8701, Dec. 20, 2018, 132 Stat. 4875.)
+(Pub. L. 101–624, title XXIII, § 2371, Nov. 28, 1990, 104 Stat. 4045; Pub. L. 108–148, title II, § 202, Dec. 3, 2003, 117 Stat. 1902; Pub. L. 110–234, title VII, § 7511(c)(25), title VIII, § 8201, May 22, 2008, 122 Stat. 1269, 1290; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(25), title VIII, § 8201, June 18, 2008, 122 Stat. 1664, 2031, 2051; Pub. L. 113–79, title VIII, § 8201, Feb. 7, 2014, 128 Stat. 914; Pub. L. 115–334, title VIII, § 8701, Dec. 20, 2018, 132 Stat. 4875.)
 
 **Editorial Notes**
 
@@ -67,11 +67,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (d)(2). Pub. L. 113–79 substituted “2018” for “2012”.
 
-2008—Subsec. (a). Pub. L. 110–246, § 7511(c)(25)(A), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+2008—Subsec. (a). Pub. L. 110–246, § 7511(c)(25)(A), substituted “National Institute of Food and Agriculture” for “Extension Service”.
 
-Subsec. (c)(3). Pub. L. 110–246, § 7511(c)(25)(B), substituted “System” for “Service”.
+Subsec. (c)(3). Pub. L. 110–246, § 7511(c)(25)(B), substituted “System” for “Service”.
 
-Subsec. (d)(2). Pub. L. 110–246, § 8201, substituted “2008 through 2012” for “2004 through 2008”.
+Subsec. (d)(2). Pub. L. 110–246, § 8201, substituted “2008 through 2012” for “2004 through 2008”.
 
 2003—Subsec. (d). Pub. L. 108–148 added subsec. (d).
 
@@ -85,11 +85,11 @@ Amendment by section 7511(c)(25) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 **Short Title**
 
-Pub. L. 101–624, title XXIII, § 2372, Nov. 28, 1990, 104 Stat. 4046, provided that: “This chapter [chapter 2 (§§ 2372–2379) of subtitle G of title XXIII of Pub. L. 101–624, enacting subchapter II (§ 6611 et seq.) of this chapter] may be cited as the ‘National Forest-Dependent Rural Communities Economic Diversification Act of 1990’.”
+Pub. L. 101–624, title XXIII, § 2372, Nov. 28, 1990, 104 Stat. 4046, provided that: “This chapter [chapter 2 (§§ 2372–2379) of subtitle G of title XXIII of Pub. L. 101–624, enacting subchapter II (§ 6611 et seq.) of this chapter] may be cited as the ‘National Forest-Dependent Rural Communities Economic Diversification Act of 1990’.”
 
 ## SUBCHAPTER II—NATIONAL FOREST-DEPENDENT RURAL COMMUNITIES
 
-### § 6611. Findings and purposes
+### § 6611. Findings and purposes
 
 **(a) Findings** The Congress finds that—
 
@@ -115,23 +115,23 @@ Pub. L. 101–624, title XXIII, § 2372, Nov. 28, 1990, 104 Stat. 4046, provid
 
 **(3)** to improve the economic, social, and environmental well-being of rural America.
 
-(Pub. L. 101–624, title XXIII, § 2373, Nov. 28, 1990, 104 Stat. 4046; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–203.)
+(Pub. L. 101–624, title XXIII, § 2373, Nov. 28, 1990, 104 Stat. 4046; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(a)], Nov. 29, 1999, 113 Stat. 1535, 1501A–203.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1999—Subsec. (a)(2). Pub. L. 106–113, § 1000(a)(3) [title III, § 345(a)(1)(A)], substituted “National Forest System land;” for “national forests;”.
+1999—Subsec. (a)(2). Pub. L. 106–113, § 1000(a)(3) [title III, § 345(a)(1)(A)], substituted “National Forest System land;” for “national forests;”.
 
-Subsec. (a)(4). Pub. L. 106–113, § 1000(a)(3) [title III, § 345(a)(1)(B)], substituted “National Forest System land” for “the national forests”.
+Subsec. (a)(4). Pub. L. 106–113, § 1000(a)(3) [title III, § 345(a)(1)(B)], substituted “National Forest System land” for “the national forests”.
 
-Subsec. (a)(5). Pub. L. 106–113, § 1000(a)(3) [title III, § 345(a)(1)(C)], substituted “natural resources;” for “forest resources;”.
+Subsec. (a)(5). Pub. L. 106–113, § 1000(a)(3) [title III, § 345(a)(1)(C)], substituted “natural resources;” for “forest resources;”.
 
-Subsec. (a)(6). Pub. L. 106–113, § 1000(a)(3) [title III, § 345(a)(1)(D)], substituted “National Forest System land resources” for “national forest resources”.
+Subsec. (a)(6). Pub. L. 106–113, § 1000(a)(3) [title III, § 345(a)(1)(D)], substituted “National Forest System land resources” for “national forest resources”.
 
-Subsec. (b)(1). Pub. L. 106–113, § 1000(a)(3) [title III, § 345(a)(2)], substituted “National Forest System land” for “national forests” and “natural resources” for “forest resources”.
+Subsec. (b)(1). Pub. L. 106–113, § 1000(a)(3) [title III, § 345(a)(2)], substituted “National Forest System land” for “national forests” and “natural resources” for “forest resources”.
 
-### § 6612. Definitions
+### § 6612. Definitions
 
 As used in this subchapter:
 
@@ -147,7 +147,7 @@ As used in this subchapter:
 
 **(4)** The term “Secretary” means the Secretary of Agriculture.
 
-(Pub. L. 101–624, title XXIII, § 2374, Nov. 28, 1990, 104 Stat. 4046; Pub. L. 103–115, Oct. 26, 1993, 107 Stat. 1117; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(b)], Nov. 29, 1999, 113 Stat. 1535, 1501A–203.)
+(Pub. L. 101–624, title XXIII, § 2374, Nov. 28, 1990, 104 Stat. 4046; Pub. L. 103–115, Oct. 26, 1993, 107 Stat. 1117; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(b)], Nov. 29, 1999, 113 Stat. 1535, 1501A–203.)
 
 **Editorial Notes**
 
@@ -163,7 +163,7 @@ As used in this subchapter:
 
 that is located within the boundary, or within 100 miles of the boundary, of a national forest.”
 
-### § 6613. Rural natural resources and economic diversification action teams
+### § 6613. Rural natural resources and economic diversification action teams
 
 **(a) Requests for assistance**
 
@@ -193,7 +193,7 @@ After reviewing requests under this section for financial and economic feasibili
 
 In this section, the term “designated rural development program” means a program carried out under section 1924(b), 1926(a), or 1932(e) of this title for which funds are available at any time during the fiscal year.
 
-(Pub. L. 101–624, title XXIII, § 2375, Nov. 28, 1990, 104 Stat. 4047; Pub. L. 104–127, title VII, § 753(b)(1), Apr. 4, 1996, 110 Stat. 1131; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(c)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
+(Pub. L. 101–624, title XXIII, § 2375, Nov. 28, 1990, 104 Stat. 4047; Pub. L. 104–127, title VII, § 753(b)(1), Apr. 4, 1996, 110 Stat. 1131; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(c)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
 
 **Editorial Notes**
 
@@ -201,11 +201,11 @@ In this section, the term “designated rural development program” means a pro
 
 1999—Subsec. (b). Pub. L. 106–113 substituted “natural resources” for “forestry” and substituted “National Forest System land resources” for “national forest resources” in two places.
 
-1996—Subsec. (e). Pub. L. 104–127, § 753(b)(1)(A), struck out “, as defined in section 2008(b)(2) of this title,” before “during any”.
+1996—Subsec. (e). Pub. L. 104–127, § 753(b)(1)(A), struck out “, as defined in section 2008(b)(2) of this title,” before “during any”.
 
-Subsec. (g). Pub. L. 104–127, § 753(b)(1)(B), added subsec. (g).
+Subsec. (g). Pub. L. 104–127, § 753(b)(1)(B), added subsec. (g).
 
-### § 6614. Action plan implementation
+### § 6614. Action plan implementation
 
 **(a) In general**
 
@@ -227,19 +227,19 @@ The Secretary may use the Secretary’s authority under the Cooperative Forestry
 
 The implementation of action plans shall be consistent with land and resource management plans.
 
-(Pub. L. 101–624, title XXIII, § 2376, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(d)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
+(Pub. L. 101–624, title XXIII, § 2376, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(d)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (d), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§ 2101 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 16 and Tables.
+The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (d), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§ 2101 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 16 and Tables.
 
 **Amendments**
 
 1999—Subsec. (a). Pub. L. 106–113 substituted “natural resources” for “forest resources” and “National Forest System land resources” for “national forest resources”.
 
-### § 6615. Training and education
+### § 6615. Training and education
 
 **(a) Programs** In furtherance of an action plan, the Secretary may use the National Institute of Food and Agriculture and other appropriate agencies of the Department of Agriculture to develop and conduct education programs that assist businesses, elected or appointed officials, and individuals in rural communities to deal with the effects of a transition from being economically disadvantaged to economic diversification. These programs may include—
 
@@ -255,7 +255,7 @@ The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (d), is 
 
 Insofar as practicable, the Secretary shall use existing Federal, State, and private education resources in carrying out these programs.
 
-(Pub. L. 101–624, title XXIII, § 2377, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(e)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204; Pub. L. 110–234, title VII, § 7511(c)(26), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(26), June 18, 2008, 122 Stat. 1664, 2031.)
+(Pub. L. 101–624, title XXIII, § 2377, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(e)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204; Pub. L. 110–234, title VII, § 7511(c)(26), May 22, 2008, 122 Stat. 1270; Pub. L. 110–246, § 4(a), title VII, § 7511(c)(26), June 18, 2008, 122 Stat. 1664, 2031.)
 
 **Editorial Notes**
 
@@ -265,7 +265,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–246, § 7511(c)(26), substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
+2008—Subsec. (a). Pub. L. 110–246, § 7511(c)(26), substituted “National Institute of Food and Agriculture” for “Extension Service” in introductory provisions.
 
 1999—Subsec. (a)(2), (3). Pub. L. 106–113, which directed substitution of “National Forest System land resources” for “national forest resources” in pars. (3) and (4), was executed by making the substitution in pars. (2) and (3) to reflect the probable intent of Congress.
 
@@ -277,7 +277,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by section 7511(c)(26) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under section 1522 of this title.
 
-### § 6616. Loans to economically disadvantaged rural communities
+### § 6616. Loans to economically disadvantaged rural communities
 
 **(a) In general** The Secretary, under such terms and conditions as the Secretary shall establish, may make loans to economically disadvantaged rural communities for the purposes of securing technical assistance and services to aid in the development and implementation of action plans, including planning for—
 
@@ -291,7 +291,7 @@ Amendment by section 7511(c)(26) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 The interest rates on a loan made pursuant to this section shall be as determined by the Secretary, but not in excess of the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the maturity of such loan, plus not to exceed 1 percent, as determined by the Secretary, and rounded to the nearest one-eighth of 1 percent.
 
-(Pub. L. 101–624, title XXIII, § 2378, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(f)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
+(Pub. L. 101–624, title XXIII, § 2378, Nov. 28, 1990, 104 Stat. 4048; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 345(f)], Nov. 29, 1999, 113 Stat. 1535, 1501A–204.)
 
 **Editorial Notes**
 
@@ -299,7 +299,7 @@ The interest rates on a loan made pursuant to this section shall be as determine
 
 1999—Subsec. (a)(2), (3). Pub. L. 106–113 substituted “National Forest System land resources” for “national forest resources”.
 
-### § 6617. Authorization of appropriations and spending authority
+### § 6617. Authorization of appropriations and spending authority
 
 **(a) Authorization of appropriations** Except as provided in subsection (b), there are authorized to be appropriated—
 
@@ -319,4 +319,4 @@ Subsection (a) shall not in any way affect payments to the States pursuant to se
 
 Any spending authority (as defined in section 651 of title 2) provided in this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-(Pub. L. 101–624, title XXIII, § 2379, Nov. 28, 1990, 104 Stat. 4049.)
+(Pub. L. 101–624, title XXIII, § 2379, Nov. 28, 1990, 104 Stat. 4049.)

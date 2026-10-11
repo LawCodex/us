@@ -23,7 +23,7 @@ This chapter contains the Agricultural Marketing Act, approved June 15, 1929.
 
 In view of the amendments to the Agricultural Marketing Act made by the Farm Credit Act of 1933, approved June 16, 1933, and by the Farm Credit Act of 1935, approved June 3, 1935, and of the transfer of its administration to the Governor of the Farm Credit Administration by Executive Order No. 6084, set out preceding section 2241 of this title, the provisions of the Agricultural Marketing Act, as amended, have been transferred to this chapter from Title 7, Agriculture.
 
-## § 1141. Declaration of policy; effective merchandising of agricultural commodities; speculation; cooperative marketing; surpluses; administration of chapter
+## § 1141. Declaration of policy; effective merchandising of agricultural commodities; speculation; cooperative marketing; surpluses; administration of chapter
 
 **(a)** It is declared to be the policy of Congress to promote the effective merchandising of agricultural commodities in interstate and foreign commerce so that the industry of agriculture will be placed on a basis of economic equality with other industries, and to that end to protect, control, and stabilize the currents of interstate and foreign commerce in the marketing of agricultural commodities and their food products—
 
@@ -39,7 +39,7 @@ In view of the amendments to the Agricultural Marketing Act made by the Farm Cre
 
 **(c)** The Farm Credit Administration shall execute the powers vested in it by this chapter only in such manner as will, in the judgment of the administration, aid to the fullest practicable extent in carrying out the policy above declared.
 
-(June 15, 1929, ch. 24, § 1, 46 Stat. 11; Ex. Ord. No. 6084, Mar. 27, 1933.)
+(June 15, 1929, ch. 24, § 1, 46 Stat. 11; Ex. Ord. No. 6084, Mar. 27, 1933.)
 
 **Editorial Notes**
 
@@ -65,25 +65,25 @@ Establishment of Farm Credit Administration as an independent agency, compositio
 
 **Exceptions From Transfer of Functions**
 
-Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 1141a. Repealed. Aug. 6, 1953, ch. 335, § 19, 67 Stat. 400
+## § 1141a. Repealed. Aug. 6, 1953, ch. 335, § 19, 67 Stat. 400
 
-Section, act June 15, 1929, ch. 24, § 2, 46 Stat. 11; Ex. Ord. No. 6084, Mar. 27, 1943; act Oct. 15, 1949, ch. 695, § 6(a), 63 Stat. 881, related to appointment, compensation, qualifications, term of office, and expenses of the Governor of the Farm Credit Administration. See section 2244 et seq. of this title.
+Section, act June 15, 1929, ch. 24, § 2, 46 Stat. 11; Ex. Ord. No. 6084, Mar. 27, 1943; act Oct. 15, 1949, ch. 695, § 6(a), 63 Stat. 881, related to appointment, compensation, qualifications, term of office, and expenses of the Governor of the Farm Credit Administration. See section 2244 et seq. of this title.
 
-## §§ 1141b to 1141f. Repealed. Pub. L. 115–334, title V, § 5411(52)–(56), (58), Dec. 20, 2018, 132 Stat. 4685
+## §§ 1141b to 1141f. Repealed. Pub. L. 115–334, title V, § 5411(52)–(56), (58), Dec. 20, 2018, 132 Stat. 4685
 
-Section 1141b, act June 15, 1929, ch. 24, § 4, 46 Stat. 13; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 19, 1937, ch. 704, § 37, 50 Stat. 717; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 96–592, title V, § 510, Dec. 24, 1980, 94 Stat. 3451, set out general powers of the Farm Credit Administration.
+Section 1141b, act June 15, 1929, ch. 24, § 4, 46 Stat. 13; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 19, 1937, ch. 704, § 37, 50 Stat. 717; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 96–592, title V, § 510, Dec. 24, 1980, 94 Stat. 3451, set out general powers of the Farm Credit Administration.
 
-Section 1141c, act June 15, 1929, ch. 24, § 5, 46 Stat. 13; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, § 50(a), 48 Stat. 265, set out special powers of the Farm Credit Administration.
+Section 1141c, act June 15, 1929, ch. 24, § 5, 46 Stat. 13; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, § 50(a), 48 Stat. 265, set out special powers of the Farm Credit Administration.
 
-Section 1141d, act June 15, 1929, ch. 24, § 6, 46 Stat. 14; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title III, §§ 33, 34, title IV, §§ 40, 41, 48 Stat. 262, 264; Aug. 19, 1937, ch. 704, § 38, 50 Stat. 718; Pub. L. 87–494, June 25, 1962, 76 Stat. 109, established and authorized an appropriation for a revolving fund.
+Section 1141d, act June 15, 1929, ch. 24, § 6, 46 Stat. 14; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title III, §§ 33, 34, title IV, §§ 40, 41, 48 Stat. 262, 264; Aug. 19, 1937, ch. 704, § 38, 50 Stat. 718; Pub. L. 87–494, June 25, 1962, 76 Stat. 109, established and authorized an appropriation for a revolving fund.
 
 Section 1141d–1, act June 22, 1939, ch. 239, 53 Stat. 853, related to limits on interest rates charged on loans made from the revolving fund.
 
-Section 1141e, act June 15, 1929, ch. 24, § 7, 46 Stat. 14; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, §§ 50–53, 48 Stat. 265; June 3, 1935, ch. 164, §§ 9, 10, 49 Stat. 316, related to loans made to cooperative associations.
+Section 1141e, act June 15, 1929, ch. 24, § 7, 46 Stat. 14; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, §§ 50–53, 48 Stat. 265; June 3, 1935, ch. 164, §§ 9, 10, 49 Stat. 316, related to loans made to cooperative associations.
 
-Section 1141f, act June 15, 1929, ch. 24, § 8, 46 Stat. 14; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, § 54, 48 Stat. 266; June 3, 1935, ch. 164, § 11, 49 Stat. 316; Aug. 19, 1937, ch. 704, § 5(a), 50 Stat. 704; Aug. 11, 1955, ch. 785, title I, § 109, 69 Stat. 662; Pub. L. 89–525, § 4(b), Aug. 2, 1966, 80 Stat. 334, set out miscellaneous loan provisions.
+Section 1141f, act June 15, 1929, ch. 24, § 8, 46 Stat. 14; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, § 54, 48 Stat. 266; June 3, 1935, ch. 164, § 11, 49 Stat. 316; Aug. 19, 1937, ch. 704, § 5(a), 50 Stat. 704; Aug. 11, 1955, ch. 785, title I, § 109, 69 Stat. 662; Pub. L. 89–525, § 4(b), Aug. 2, 1966, 80 Stat. 334, set out miscellaneous loan provisions.
 
 **Editorial Notes**
 
@@ -91,15 +91,15 @@ Section 1141f, act June 15, 1929, ch. 24, § 8, 46 Stat. 14; Ex. Ord. No. 6084
 
 Sections 1141b to 1141d, 1141e, and 1141f were formerly classified to sections 524 to 526, 527, and 528, respectively, of Title 7, Agriculture.
 
-## § 1141g. Omitted
+## § 1141g. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act June 15, 1929, ch. 24, § 9, 46 Stat. 15; Ex. Ord. No. 6084, Mar. 27, 1933, provided for the recognition, upon application of the advisory commodity committee, of stabilization corporations for commodities, and prescribed functions and operations in connection therewith. Ex. Ord. No. 6084 abolished the authority conferred by this section and ordered the Farm Credit Administration to take appropriate steps for winding up the activities of such corporations. The order is set out as a note preceding section 2241 of this title.
+Section, act June 15, 1929, ch. 24, § 9, 46 Stat. 15; Ex. Ord. No. 6084, Mar. 27, 1933, provided for the recognition, upon application of the advisory commodity committee, of stabilization corporations for commodities, and prescribed functions and operations in connection therewith. Ex. Ord. No. 6084 abolished the authority conferred by this section and ordered the Farm Credit Administration to take appropriate steps for winding up the activities of such corporations. The order is set out as a note preceding section 2241 of this title.
 
-## § 1141h. Avoidance of duplication; cooperation with other governmental establishments; obtaining information and data; cooperation with States, Territories, and agencies or subdivisions thereof; indicating research problems; transfer of offices, functions, etc.
+## § 1141h. Avoidance of duplication; cooperation with other governmental establishments; obtaining information and data; cooperation with States, Territories, and agencies or subdivisions thereof; indicating research problems; transfer of offices, functions, etc.
 
 **(a)** The administration shall, in cooperation with any governmental establishment in the Executive branch of the Government, including any field service thereof at home or abroad, avail itself of the services and facilities thereof in order to avoid preventable expense or duplication of effort.
 
@@ -111,7 +111,7 @@ Section, act June 15, 1929, ch. 24, § 9, 46 Stat. 15; Ex. Ord. No. 6084, Mar.
 
 **(e)** The President is authorized, by Executive order, to transfer to or retransfer from the jurisdiction and control of the administration the whole or any part of (1) any office, bureau, service, division, commission, or board in the Executive branch of the Government engaged in scientific or extension work, or the furnishing of services, with respect to the marketing of agricultural commodities, (2) its functions pertaining to such work or services, and (3) the rec­ords, property, including office equipment, personnel, and unexpended balances of appropriation, pertaining to such work or services.
 
-(June 15, 1929, ch. 24, § 13, 46 Stat. 17; Ex. Ord. No. 6084, Mar. 27, 1933.)
+(June 15, 1929, ch. 24, § 13, 46 Stat. 17; Ex. Ord. No. 6084, Mar. 27, 1933.)
 
 **Editorial Notes**
 
@@ -133,15 +133,15 @@ Establishment of Farm Credit Administration as an independent agency, compositio
 
 **Exceptions From Transfer of Functions**
 
-Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 
-## § 1141i. Repealed. Pub. L. 115–334, title V, § 5411(57), Dec. 20, 2018, 132 Stat. 4685
+## § 1141i. Repealed. Pub. L. 115–334, title V, § 5411(57), Dec. 20, 2018, 132 Stat. 4685
 
-Section, act June 15, 1929, ch. 24, § 14, 46 Stat. 18; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 30, 1954, ch. 1076, § 1(30), 68 Stat. 968; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, related to finality of certain vouchers approved for expenditures and examination of financial transactions.
+Section, act June 15, 1929, ch. 24, § 14, 46 Stat. 18; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 30, 1954, ch. 1076, § 1(30), 68 Stat. 968; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, related to finality of certain vouchers approved for expenditures and examination of financial transactions.
 
 Section was formerly classified to section 534 of Title 7, Agriculture.
 
-## § 1141j. Miscellaneous provisions
+## § 1141j. Miscellaneous provisions
 
 **(a) “Cooperative association” defined**
 
@@ -175,7 +175,7 @@ This chapter may be cited as the “Agricultural Marketing Act.”
 
 As used in this chapter, the term “agricultural commodity” includes, in addition to other agricultural commodities, crude gum (oleoresin) from a living tree, and the following products as processed by the original producer of the crude gum (oleoresin) from which derived: Gum spirits of turpentine and gum rosin, as defined in section 92 of title 7.
 
-(June 15, 1929, ch. 24, § 15, 46 Stat. 18; Mar. 4, 1931, ch. 520, § 3, 46 Stat. 1550; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, § 55, 48 Stat. 266; June 3, 1935, ch. 164, § 12, 49 Stat. 317; Pub. L. 110–234, title I, § 1610, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, § 4(a), title I, § 1610, June 18, 2008, 122 Stat. 1664, 1746.)
+(June 15, 1929, ch. 24, § 15, 46 Stat. 18; Mar. 4, 1931, ch. 520, § 3, 46 Stat. 1550; Ex. Ord. No. 6084, Mar. 27, 1933; June 16, 1933, ch. 98, title V, § 55, 48 Stat. 266; June 3, 1935, ch. 164, § 12, 49 Stat. 317; Pub. L. 110–234, title I, § 1610, May 22, 2008, 122 Stat. 1018; Pub. L. 110–246, § 4(a), title I, § 1610, June 18, 2008, 122 Stat. 1664, 1746.)
 
 **Editorial Notes**
 
@@ -187,7 +187,7 @@ Section was formerly classified to section 535 of Title 7, Agriculture.
 
 **Amendments**
 
-2008—Subsecs. (d) to (g). Pub. L. 110–246, § 1610, redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respect to cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: *Provided*, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.”
+2008—Subsecs. (d) to (g). Pub. L. 110–246, § 1610, redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “The inclusion in any governmental report, bulletin, or other such publication hereafter issued or published of any prediction with respect to cotton prices is prohibited. Any officer or employee of the United States who authorizes or is responsible for the inclusion in any such report, bulletin, or other publication of any such prediction, or who knowingly causes the issuance or publication of any such report, bulletin, or other publication containing any such prediction, shall, upon conviction thereof, be fined not less than $500 or more than $5,000, or imprisoned for not more than five years, or both: *Provided*, That this subdivision shall not apply to the Governor of the Farm Credit Administration when engaged in the performance of his duties herein provided.”
 
 1935—Subsec. (a). Act June 3, 1935, amended definition of cooperative association and inserted second sentence in par. “Third”.
 
@@ -213,4 +213,4 @@ Establishment of Farm Credit Administration as an independent agency, compositio
 
 **Exceptions From Transfer of Functions**
 
-Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.

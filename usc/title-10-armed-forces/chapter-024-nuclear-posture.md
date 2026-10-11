@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2024—Pub. L. 118–159, div. A, title XVI, § 1624(1), Dec. 23, 2024, 138 Stat. 2173, substituted “Biennial” for “Annual” in item 492a. Amendment was made pursuant to operation of section 102 of this title.
+2024—Pub. L. 118–159, div. A, title XVI, § 1624(1), Dec. 23, 2024, 138 Stat. 2173, substituted “Biennial” for “Annual” in item 492a. Amendment was made pursuant to operation of section 102 of this title.
 
-2022—Pub. L. 117–263, div. A, title XVI, §§ 1631, 1632, 1634(a), Dec. 23, 2022, 136 Stat. 2934, 2938, added items 492b, 493a, and 499c.
+2022—Pub. L. 117–263, div. A, title XVI, §§ 1631, 1632, 1634(a), Dec. 23, 2022, 136 Stat. 2934, 2938, added items 492b, 493a, and 499c.
 
-2021—Pub. L. 117–81, div. A, title XVI, § 1631, Dec. 27, 2021, 135 Stat. 2089, added item 499b.
+2021—Pub. L. 117–81, div. A, title XVI, § 1631, Dec. 27, 2021, 135 Stat. 2089, added item 499b.
 
-2019—Pub. L. 116–92, div. A, title XVI, § 1665(c)(2), Dec. 20, 2019, 133 Stat. 1774, added item 492a.
+2019—Pub. L. 116–92, div. A, title XVI, § 1665(c)(2), Dec. 20, 2019, 133 Stat. 1774, added item 492a.
 
-2017—Pub. L. 115–91, div. A, title XVI, §§ 1651(b), 1652(b), Dec. 12, 2017, 131 Stat. 1757, 1758, added items 499 and 499a.
+2017—Pub. L. 115–91, div. A, title XVI, §§ 1651(b), 1652(b), Dec. 12, 2017, 131 Stat. 1757, 1758, added items 499 and 499a.
 
-2013—Pub. L. 113–66, div. A, title X, § 1051(b)(2), Dec. 26, 2013, 127 Stat. 859, added item 497a.
+2013—Pub. L. 113–66, div. A, title X, § 1051(b)(2), Dec. 26, 2013, 127 Stat. 859, added item 497a.
 
-Pub. L. 112–239, div. A, title X, §§ 1031(b)(1), (3)(C)(i), 1033(b)(2)(A), 1035(b), 1036(b), 1037(b)(2), 1038(b), Jan. 2, 2013, 126 Stat. 1918, 1919, 1921, 1924, 1925, 1927, added chapter heading and items 491 to 498.
+Pub. L. 112–239, div. A, title X, §§ 1031(b)(1), (3)(C)(i), 1033(b)(2)(A), 1035(b), 1036(b), 1037(b)(2), 1038(b), Jan. 2, 2013, 126 Stat. 1918, 1919, 1921, 1924, 1925, 1927, added chapter heading and items 491 to 498.
 
-## § 491. Nuclear weapons employment strategy of the United States: reports on modification of strategy
+## § 491. Nuclear weapons employment strategy of the United States: reports on modification of strategy
 
 **(a) Reports.—** By not later than 60 days before the date on which the President implements a nuclear weapons employment strategy of the United States that differs from the nuclear weapons employment strategy of the United States then in force, the President shall submit to Congress a report setting forth the following:
 
@@ -55,49 +55,49 @@ Pub. L. 112–239, div. A, title X, §§ 1031(b)(1), (3)(C)(i), 1033(b)(2)(A),
 
 **(3)** transmit to the congressional defense committees a report providing the high-, medium-, and low- confidence assessments of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4))) as to whether the United States will have significant warning of a strategic surprise or breakout caused by foreign nuclear weapons developments.
 
-(Added Pub. L. 112–81, div. A, title X, § 1046(b)(1), Dec. 31, 2011, 125 Stat. 1579; amended Pub. L. 112–239, div. A, title X, §§ 1031(a), 1032, Jan. 2, 2013, 126 Stat. 1917, 1919; Pub. L. 113–66, div. A, title X, § 1052(b), Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title X, § 1071(c)(10), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 117–263, div. A, title XVI, § 1637, Dec. 23, 2022, 136 Stat. 2940; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(8), Dec. 22, 2023, 137 Stat. 684.)
+(Added Pub. L. 112–81, div. A, title X, § 1046(b)(1), Dec. 31, 2011, 125 Stat. 1579; amended Pub. L. 112–239, div. A, title X, §§ 1031(a), 1032, Jan. 2, 2013, 126 Stat. 1917, 1919; Pub. L. 113–66, div. A, title X, § 1052(b), Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title X, § 1071(c)(10), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 117–263, div. A, title XVI, § 1637, Dec. 23, 2022, 136 Stat. 2940; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(8), Dec. 22, 2023, 137 Stat. 684.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section was formerly part of chapter 23 of this title, prior to being transferred to this chapter by Pub. L. 112–239, § 1031(a)(1).
+Section was formerly part of chapter 23 of this title, prior to being transferred to this chapter by Pub. L. 112–239, § 1031(a)(1).
 
 **Amendments**
 
 2023—Subsec. (c). Pub. L. 118–31 substituted “pursuant to a” for “pursuant to the a” in introductory provisions.
 
-2022—Subsec. (c). Pub. L. 117–263, § 1637(1), (2), struck out “2010” after “Reports on” in heading and substituted “2022 through 2031” for “2012 through 2021” and “a” for “2010” in introductory provisions.
+2022—Subsec. (c). Pub. L. 117–263, § 1637(1), (2), struck out “2010” after “Reports on” in heading and substituted “2022 through 2031” for “2012 through 2021” and “a” for “2010” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 117–263, § 1637(3), added par. (1) and struck out former par. (1) which read as follows: “ensure that the annual report required under section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576) is transmitted to Congress, if so required;”.
+Subsec. (c)(1). Pub. L. 117–263, § 1637(3), added par. (1) and struck out former par. (1) which read as follows: “ensure that the annual report required under section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576) is transmitted to Congress, if so required;”.
 
 2014—Subsec. (c)(3). Pub. L. 113–291 substituted “(50 U.S.C. 3003(4))” for “(50 U.S.C. 401a(4))”.
 
-2013—Pub. L. 112–239, § 1031(a)(2)(A)–(D), inserted “weapons” after “Nuclear” in section catchline, substituted “nuclear weapons employment strategy” for “nuclear employment strategy” in two places in introductory provisions and “to the nuclear weapons employment strategy, plans, and options of” for “to nuclear employment strategy of” in par. (1), and added par. (4).
+2013—Pub. L. 112–239, § 1031(a)(2)(A)–(D), inserted “weapons” after “Nuclear” in section catchline, substituted “nuclear weapons employment strategy” for “nuclear employment strategy” in two places in introductory provisions and “to the nuclear weapons employment strategy, plans, and options of” for “to nuclear employment strategy of” in par. (1), and added par. (4).
 
-Subsec. (a). Pub. L. 112–239, § 1032(a), substituted “By not later than 60 days before the date on which the President implements” for “On the date on which the President issues” in introductory provisions.
+Subsec. (a). Pub. L. 112–239, § 1032(a), substituted “By not later than 60 days before the date on which the President implements” for “On the date on which the President issues” in introductory provisions.
 
-Pub. L. 112–239, § 1031(a)(2)(E), designated existing provisions as subsec. (a) and inserted heading.
+Pub. L. 112–239, § 1031(a)(2)(E), designated existing provisions as subsec. (a) and inserted heading.
 
-Subsec. (b). Pub. L. 112–239, § 1031(a)(2)(F), added subsec. (b).
+Subsec. (b). Pub. L. 112–239, § 1031(a)(2)(F), added subsec. (b).
 
-Subsec. (c). Pub. L. 113–66, § 1052(b), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows:
+Subsec. (c). Pub. L. 113–66, § 1052(b), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows:
 
 “(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
 
 “(2) In this subsection, the term ‘anomaly’ means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.”
 
-Pub. L. 112–239, § 1031(a)(2)(F), added subsec. (c).
+Pub. L. 112–239, § 1031(a)(2)(F), added subsec. (c).
 
-Subsec. (d). Pub. L. 113–66, § 1052(b)(2), redesignated subsec. (d) as (c).
+Subsec. (d). Pub. L. 113–66, § 1052(b)(2), redesignated subsec. (d) as (c).
 
-Pub. L. 112–239, § 1032(b), added subsec. (d).
+Pub. L. 112–239, § 1032(b), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Reports and Briefings on Recommendations of the Congressional Commission on the Strategic Posture of the United States**
 
-Pub. L. 118–159, div. A, title XVI, § 1637(a), Dec. 23, 2024, 138 Stat. 2180, provided that:
+Pub. L. 118–159, div. A, title XVI, § 1637(a), Dec. 23, 2024, 138 Stat. 2180, provided that:
 
 > **“(a) Statement of Policy.—** It is the policy of the United States that—
 
@@ -107,11 +107,11 @@ Pub. L. 118–159, div. A, title XVI, § 1637(a), Dec. 23, 2024, 138 Stat. 218
 
 **Statement of Policy on Use of Artificial Intelligence Efforts**
 
-Pub. L. 118–159, div. A, title XVI, § 1638(b), Dec. 23, 2024, 138 Stat. 2181, provided that: “It is the policy of the United States that the use of artificial intelligence efforts should not compromise the integrity of nuclear safeguards, whether through the functionality of weapons systems, the validation of communications from command authorities, or the principle of requiring positive human actions in execution of decisions by the President with respect to the employment of nuclear weapons.”
+Pub. L. 118–159, div. A, title XVI, § 1638(b), Dec. 23, 2024, 138 Stat. 2181, provided that: “It is the policy of the United States that the use of artificial intelligence efforts should not compromise the integrity of nuclear safeguards, whether through the functionality of weapons systems, the validation of communications from command authorities, or the principle of requiring positive human actions in execution of decisions by the President with respect to the employment of nuclear weapons.”
 
 **Congressional Notification of Nuclear Cooperation Between Russia and China**
 
-Pub. L. 118–31, div. A, title XVI, § 1649, Dec. 22, 2023, 137 Stat. 601, provided that:
+Pub. L. 118–31, div. A, title XVI, § 1649, Dec. 22, 2023, 137 Stat. 601, provided that:
 
 > “If the Commander of the United States Strategic Command determines, after consultation with the Director of the Defense Intelligence Agency, that militarily significant cooperation between the Russian Federation and the People’s Republic of China related to nuclear or strategic capabilities is likely to occur or has likely occurred, the Commander shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notification of such determination that includes—
 
@@ -121,7 +121,7 @@ Pub. L. 118–31, div. A, title XVI, § 1649, Dec. 22, 2023, 137 Stat. 601, pr
 
 **Plan To Train Officers in Nuclear Command, Control, and Communications**
 
-Pub. L. 115–232, div. A, title XVI, § 1668, Aug. 13, 2018, 132 Stat. 2156, provided that:
+Pub. L. 115–232, div. A, title XVI, § 1668, Aug. 13, 2018, 132 Stat. 2156, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in consultation with the Secretary of the Air Force, the Secretary of the Navy, the Chairman of the Joint Chiefs of Staff, and the Commander of the United States Strategic Command, shall develop a plan to train, educate, manage, and track officers of the Armed Forces in nuclear command, control, and communications.
 
@@ -139,7 +139,7 @@ Pub. L. 115–232, div. A, title XVI, § 1668, Aug. 13, 2018, 132 Stat. 2156, 
 
 **Establishment of Nuclear Command and Control Intelligence Fusion Center**
 
-Pub. L. 115–91, div. A, title XVI, § 1655, Dec. 12, 2017, 131 Stat. 1760, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1655, Dec. 12, 2017, 131 Stat. 1760, provided that:
 
 > **“(a) Establishment.—** Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense and the Director of National Intelligence shall jointly establish an intelligence fusion center to effectively integrate and unify the protection of nuclear command, control, and communications programs, systems, and processes and continuity of government programs, systems, and processes.
 
@@ -189,7 +189,7 @@ Pub. L. 115–91, div. A, title XVI, § 1655, Dec. 12, 2017, 131 Stat. 1760, p
 
 **Security of Nuclear Command, Control, and Communications System From Commercial Dependencies**
 
-Pub. L. 115–91, div. A, title XVI, § 1656, Dec. 12, 2017, 131 Stat. 1761, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1656, Dec. 12, 2017, 131 Stat. 1761, provided that:
 
 > **“(a) Certification.—** Not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall certify to the congressional defense committees whether the Secretary uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, to carry out—
 
@@ -233,7 +233,7 @@ Pub. L. 115–91, div. A, title XVI, § 1656, Dec. 12, 2017, 131 Stat. 1761, p
 
 **Security Classification Guide for Programs Relating to Nuclear Command, Control, and Communications and Nuclear Deterrence**
 
-Pub. L. 115–91, div. A, title XVI, § 1658, Dec. 12, 2017, 131 Stat. 1763, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1658, Dec. 12, 2017, 131 Stat. 1763, provided that:
 
 > **“(a) Requirement for Security Classification Guide.—** Not later than 90 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall require the issuance of a security classification guide for each covered program to ensure the protection of sensitive information from public disclosure.
 
@@ -261,7 +261,7 @@ Pub. L. 115–91, div. A, title XVI, § 1658, Dec. 12, 2017, 131 Stat. 1763, p
 
 **Evaluation and Enhanced Security of Supply Chain for Nuclear Command, Control, and Communications and Continuity of Government Programs**
 
-Pub. L. 115–91, div. A, title XVI, § 1659, Dec. 12, 2017, 131 Stat. 1764, provided that:
+Pub. L. 115–91, div. A, title XVI, § 1659, Dec. 12, 2017, 131 Stat. 1764, provided that:
 
 > **“(a) Evaluations of Supply Chain Vulnerabilities.—**
 
@@ -307,7 +307,7 @@ Pub. L. 115–91, div. A, title XVI, § 1659, Dec. 12, 2017, 131 Stat. 1764, p
 
 **Statement of Policy on the Nuclear Triad**
 
-Pub. L. 114–92, div. A, title XVI, § 1664, Nov. 25, 2015, 129 Stat. 1128, provided that:
+Pub. L. 114–92, div. A, title XVI, § 1664, Nov. 25, 2015, 129 Stat. 1128, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that—
 
@@ -333,7 +333,7 @@ Pub. L. 114–92, div. A, title XVI, § 1664, Nov. 25, 2015, 129 Stat. 1128, p
 
 > **“(5)** to achieve a modern and responsive nuclear infrastructure to support the full spectrum of deterrence requirements.”
 
-Pub. L. 113–291, div. A, title XVI, § 1652, Dec. 19, 2014, 128 Stat. 3654, provided that:
+Pub. L. 113–291, div. A, title XVI, § 1652, Dec. 19, 2014, 128 Stat. 3654, provided that:
 
 > “It is the policy of the United States—
 
@@ -365,7 +365,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-## § 492. Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system
+## § 492. Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system
 
 **(a) Biennial Assessments.—**
 
@@ -419,7 +419,7 @@ Barack Obama.
 
 **(4)** the Commander of the United States Air Forces in Europe.
 
-(Added Pub. L. 112–81, div. A, title X, § 1041(a), Dec. 31, 2011, 125 Stat. 1573, § 490a; renumbered § 492, Pub. L. 112–239, div. A, title X, § 1031(b)(3)(A)(i), Jan. 2, 2013, 126 Stat. 1918; amended Pub. L. 113–291, div. A, title XVI, § 1642, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 116–92, div. A, title XVI, § 1666, Dec. 20, 2019, 133 Stat. 1774.)
+(Added Pub. L. 112–81, div. A, title X, § 1041(a), Dec. 31, 2011, 125 Stat. 1573, § 490a; renumbered § 492, Pub. L. 112–239, div. A, title X, § 1031(b)(3)(A)(i), Jan. 2, 2013, 126 Stat. 1918; amended Pub. L. 113–291, div. A, title XVI, § 1642, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 116–92, div. A, title XVI, § 1666, Dec. 20, 2019, 133 Stat. 1774.)
 
 **Editorial Notes**
 
@@ -427,7 +427,7 @@ Barack Obama.
 
 2019—Subsec. (d)(4). Pub. L. 116–92 added par. (4).
 
-2014—Subsec. (a)(1). Pub. L. 113–291 inserted “, and the ability to meet operational availability requirements for,” after “military effectiveness of”.
+2014—Subsec. (a)(1). Pub. L. 113–291 inserted “, and the ability to meet operational availability requirements for,” after “military effectiveness of”.
 
 2013—Pub. L. 112–239 renumbered section 490a of this title as this section.
 
@@ -435,11 +435,11 @@ Barack Obama.
 
 **Initial Assessment and Reports**
 
-Pub. L. 112–81, div. A, title X, § 1041(b), Dec. 31, 2011, 125 Stat. 1574, as amended by Pub. L. 112–239, div. A, title X, § 1031(b)(4), Jan. 2, 2013, 126 Stat. 1919; Pub. L. 113–66, div. A, title X, § 1091(b)(6), Dec. 26, 2013, 127 Stat. 876, provided that: “Not later than 30 days after the date of enactment of this Act [Dec. 31, 2011], each covered official, as such term is defined in subsection (d) of section 492 of title 10, United States Code, shall conduct an initial assessment as described by subsection (a) of such section and submit an initial report as described by subsection (b) of such section. The requirements of subsection (c) of such section shall apply with respect to the report submitted under this subsection.”
+Pub. L. 112–81, div. A, title X, § 1041(b), Dec. 31, 2011, 125 Stat. 1574, as amended by Pub. L. 112–239, div. A, title X, § 1031(b)(4), Jan. 2, 2013, 126 Stat. 1919; Pub. L. 113–66, div. A, title X, § 1091(b)(6), Dec. 26, 2013, 127 Stat. 876, provided that: “Not later than 30 days after the date of enactment of this Act [Dec. 31, 2011], each covered official, as such term is defined in subsection (d) of section 492 of title 10, United States Code, shall conduct an initial assessment as described by subsection (a) of such section and submit an initial report as described by subsection (b) of such section. The requirements of subsection (c) of such section shall apply with respect to the report submitted under this subsection.”
 
-[Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(6) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.]
+[Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(6) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.]
 
-## § 492a. Biennial report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system
+## § 492a. Biennial report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system
 
 **(a) Report Required.—**
 
@@ -513,37 +513,37 @@ Pub. L. 112–81, div. A, title X, § 1041(b), Dec. 31, 2011, 125 Stat. 1574, 
 
 **(B) Submission to congress.—** Not later than 15 days after the Chairman of the Nuclear Weapons Council receives an assessment required by paragraph (1), the Chairman shall transmit the assessment, without change, to the congressional defense committees.
 
-(Added and amended Pub. L. 116–92, div. A, title XVI, § 1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, § 1633, Jan. 1, 2021, 134 Stat. 4059; Pub. L. 117–263, div. A, title XVI, § 1635, Dec. 23, 2022, 136 Stat. 2939; Pub. L. 118–31, div. A, title XVI, § 1633, Dec. 22, 2023, 137 Stat. 592; Pub. L. 118–159, div. A, title XVI, § 1624, Dec. 23, 2024, 138 Stat. 2173.)
+(Added and amended Pub. L. 116–92, div. A, title XVI, § 1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, § 1633, Jan. 1, 2021, 134 Stat. 4059; Pub. L. 117–263, div. A, title XVI, § 1635, Dec. 23, 2022, 136 Stat. 2939; Pub. L. 118–31, div. A, title XVI, § 1633, Dec. 22, 2023, 137 Stat. 592; Pub. L. 118–159, div. A, title XVI, § 1624, Dec. 23, 2024, 138 Stat. 2173.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, § 1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, § 1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, § 1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, § 1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, § 1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, § 1670, Aug. 13, 2018, 132 Stat. 2157; Pub. L. 116–92, div. A, title XVI, § 1665(a), (b), Dec. 20, 2019, 133 Stat. 1773, which was transferred to this chapter and renumbered as this section.
+Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, § 1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, § 1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, § 1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, § 1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, § 1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, § 1670, Aug. 13, 2018, 132 Stat. 2157; Pub. L. 116–92, div. A, title XVI, § 1665(a), (b), Dec. 20, 2019, 133 Stat. 1773, which was transferred to this chapter and renumbered as this section.
 
 **Amendments**
 
-2024—Pub. L. 118–159, § 1624(1), substituted “Biennial” for “Annual” in section catchline.
+2024—Pub. L. 118–159, § 1624(1), substituted “Biennial” for “Annual” in section catchline.
 
-Subsec. (a)(1). Pub. L. 118–159, § 1624(2)(A), inserted “the odd-numbered” after “for each of”.
+Subsec. (a)(1). Pub. L. 118–159, § 1624(2)(A), inserted “the odd-numbered” after “for each of”.
 
-Subsec. (a)(2)(G). Pub. L. 118–159, § 1624(2)(B), substituted “report” for “year” in two places.
+Subsec. (a)(2)(G). Pub. L. 118–159, § 1624(2)(B), substituted “report” for “year” in two places.
 
-Subsec. (b). Pub. L. 118–159, § 1624(3), struck out par. (1) designation and heading “Budgets for odd-numbered fiscal years” before “Not later than July 1”; redesignated subpars. (A) to (D) of former par. (1) as pars. (1) to (4), respectively; substituted “report required under subsection (a)” for “covered odd-numbered fiscal year report” in introductory provisions; struck out “covered odd-numbered fiscal year” before “report” in pars. (1) and (2); and struck out former pars. (2) and (3) which provided for budget updates in even-numbered fiscal years and defined terms for covered even-numbered and odd-numbered fiscal year reports, respectively.
+Subsec. (b). Pub. L. 118–159, § 1624(3), struck out par. (1) designation and heading “Budgets for odd-numbered fiscal years” before “Not later than July 1”; redesignated subpars. (A) to (D) of former par. (1) as pars. (1) to (4), respectively; substituted “report required under subsection (a)” for “covered odd-numbered fiscal year report” in introductory provisions; struck out “covered odd-numbered fiscal year” before “report” in pars. (1) and (2); and struck out former pars. (2) and (3) which provided for budget updates in even-numbered fiscal years and defined terms for covered even-numbered and odd-numbered fiscal year reports, respectively.
 
 2023—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 
 2022—Subsec. (a)(1). Pub. L. 117–263 substituted “2029” for “2024”.
 
-2021—Subsec. (c)(1). Pub. L. 116–283, § 1633(1), substituted “periodically review reports submitted” for “review each report”.
+2021—Subsec. (c)(1). Pub. L. 116–283, § 1633(1), substituted “periodically review reports submitted” for “review each report”.
 
-Subsec. (c)(2). Pub. L. 116–283, § 1633(2), struck out “not later than 180 days after the date on which such report under subsection (a) is submitted,” before “submit to the congressional defense committees”.
+Subsec. (c)(2). Pub. L. 116–283, § 1633(2), struck out “not later than 180 days after the date on which such report under subsection (a) is submitted,” before “submit to the congressional defense committees”.
 
-2019—Pub. L. 116–92, § 1665(c)(1)(D), conformed section designation and catchline to the style of this title.
+2019—Pub. L. 116–92, § 1665(c)(1)(D), conformed section designation and catchline to the style of this title.
 
-Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 112–81, as amended, to this chapter and renumbered it as this section. See Codification note above.
+Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 112–81, as amended, to this chapter and renumbered it as this section. See Codification note above.
 
-## § 492b. Biannual briefing on nuclear weapons and related activities
+## § 492b. Biannual briefing on nuclear weapons and related activities
 
 **(a) In General.—** On or about May 1 and November 1 of each year, the officials specified in subsection (b) shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on matters relating to nuclear weapons policies, operations, technology development, and other similar topics as requested by such committees.
 
@@ -565,7 +565,7 @@ Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 
 
 **(d) Termination.—** The requirement to provide a briefing under subsection (a) shall terminate on January 1, 2028.
 
-(Added Pub. L. 117–263, div. A, title XVI, § 1631, Dec. 23, 2022, 136 Stat. 2934; amended Pub. L. 118–159, div. A, title XVI, § 1621(d)(2), Dec. 23, 2024, 138 Stat. 2171.)
+(Added Pub. L. 117–263, div. A, title XVI, § 1631, Dec. 23, 2022, 136 Stat. 2934; amended Pub. L. 118–159, div. A, title XVI, § 1621(d)(2), Dec. 23, 2024, 138 Stat. 2171.)
 
 **Editorial Notes**
 
@@ -577,33 +577,33 @@ As enacted by Pub. L. 117–263, “SEC.” preceding section designation and ca
 
 2024—Subsec. (b)(2). Pub. L. 118–159 substituted “Nuclear Deterrence, Chemical, and Biological Defense Policy and Programs” for “Nuclear, Chemical, and Biological Defense Programs”.
 
-## § 493. Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States
+## § 493. Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States
 
 Whenever after December 31, 2011, the President proposes a modification of the force structure for the strategic nuclear weapons delivery systems of the United States, the President shall submit to Congress a report on the modification not less than 180 days before the intended effective date of the modification. The report shall include a description of the manner in which such modification will maintain for the United States a range of strategic nuclear weapons delivery systems appropriate for the current and anticipated threats faced by the United States when compared with the current force structure of strategic nuclear weapons delivery systems.
 
-(Added and amended Pub. L. 112–239, div. A, title X, § 1031(b)(3)(B), (C)(ii), Jan. 2, 2013, 126 Stat. 1918, 1919; Pub. L. 113–66, div. A, title X, § 1091(b)(5), Dec. 26, 2013, 127 Stat. 876; Pub. L. 117–81, div. A, title XVI, § 1634, Dec. 27, 2021, 135 Stat. 2091.)
+(Added and amended Pub. L. 112–239, div. A, title X, § 1031(b)(3)(B), (C)(ii), Jan. 2, 2013, 126 Stat. 1918, 1919; Pub. L. 113–66, div. A, title X, § 1091(b)(5), Dec. 26, 2013, 127 Stat. 876; Pub. L. 117–81, div. A, title XVI, § 1634, Dec. 27, 2021, 135 Stat. 2091.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of this section is based on Pub. L. 112–81, div. A, title X, § 1077, Dec. 31, 2011, 125 Stat. 1596. Section 1077 of Pub. L. 112–81, formerly classified to section 2514 of Title 50, War and National Defense, was transferred to this section by Pub. L. 112–239, § 1031(b)(3)(B)(i)–(iii).
+The text of this section is based on Pub. L. 112–81, div. A, title X, § 1077, Dec. 31, 2011, 125 Stat. 1596. Section 1077 of Pub. L. 112–81, formerly classified to section 2514 of Title 50, War and National Defense, was transferred to this section by Pub. L. 112–239, § 1031(b)(3)(B)(i)–(iii).
 
 **Amendments**
 
 2021—Pub. L. 117–81 inserted “not less than 180 days before the intended effective date of the modification” after “report on the modification”.
 
-2013—Pub. L. 112–239, § 1031(b)(3)(C)(ii), made technical amendments to conform section enumerator and catchline to the style of this title. See Codification note above.
+2013—Pub. L. 112–239, § 1031(b)(3)(C)(ii), made technical amendments to conform section enumerator and catchline to the style of this title. See Codification note above.
 
-Pub. L. 112–239, § 1031(b)(3)(B)(iv), as amended by Pub. L. 113–66, § 1091(b)(5), substituted “December 31, 2011,” for “the date of the enactment of this Act”.
+Pub. L. 112–239, § 1031(b)(3)(B)(iv), as amended by Pub. L. 113–66, § 1091(b)(5), substituted “December 31, 2011,” for “the date of the enactment of this Act”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(5) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
+Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(5) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
 
-## § 493a. Industrial base monitoring for B–21 and Sentinel programs
+## § 493a. Industrial base monitoring for B–21 and Sentinel programs
 
 **(a) Designation.—** The Secretary of the Air Force, acting through the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, shall designate a senior official, who shall report to the Assistant Secretary, to monitor the combined industrial base supporting the acquisition of—
 
@@ -627,13 +627,13 @@ Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, p
 
 **(c) Annual Report.—** At the same time as the submission of the budget of the President pursuant to section 1105(a) of title 31 for a fiscal year, the Secretary shall submit to the congressional defense committees a report with respect to the status of the combined industrial base described in subsection (a).
 
-(Added Pub. L. 117–263, div. A, title XVI, § 1632, Dec. 23, 2022, 136 Stat. 2934.)
+(Added Pub. L. 117–263, div. A, title XVI, § 1632, Dec. 23, 2022, 136 Stat. 2934.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Conditional Requirements for Sentinel Intercontinental Ballistic Missile Program**
 
-Pub. L. 118–159, div. A, title XVI, § 1629, Dec. 23, 2024, 138 Stat. 2176, provided that:
+Pub. L. 118–159, div. A, title XVI, § 1629, Dec. 23, 2024, 138 Stat. 2176, provided that:
 
 > **“(a) In General.—** The Under Secretary of Defense for Acquisition and Sustainment shall ensure, to the maximum extent practicable that—
 
@@ -657,7 +657,7 @@ Pub. L. 118–159, div. A, title XVI, § 1629, Dec. 23, 2024, 138 Stat. 2176, 
 
 > **“(c) Milestone B Approval Defined.—** In this section, the term ‘Milestone B approval’ has the meaning given in section 4172 of title 10, United States Code.”
 
-## § 494. Nuclear force reductions
+## § 494. Nuclear force reductions
 
 **(a) Implementation of New START Treaty.—**
 
@@ -757,7 +757,7 @@ Pub. L. 118–159, div. A, title XVI, § 1629, Dec. 23, 2024, 138 Stat. 2176, 
 
 **(4) Additional views.—** On the date on which the President transmits to the congressional defense committees a report by the Commander of the United States Strategic Command under paragraph (2), the President may transmit to such committees a report by the President with respect to whether the recommended reductions covered by the report of the Commander will impact the deterrence or extended deterrence capabilities of the United States.
 
-(Added and amended Pub. L. 112–239, div. A, title X, §§ 1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922; Pub. L. 113–66, div. A, title X, § 1091(a)(7), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, § 1071(c)(10), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 115–91, div. A, title X, § 1081(a)(19), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title X, § 1081(a)(5), Aug. 13, 2018, 132 Stat. 1983; Pub. L. 117–81, div. A, title XVI, § 1632, Dec. 27, 2021, 135 Stat. 2090.)
+(Added and amended Pub. L. 112–239, div. A, title X, §§ 1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922; Pub. L. 113–66, div. A, title X, § 1091(a)(7), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, § 1071(c)(10), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 115–91, div. A, title X, § 1081(a)(19), Dec. 12, 2017, 131 Stat. 1595; Pub. L. 115–232, div. A, title X, § 1081(a)(5), Aug. 13, 2018, 132 Stat. 1983; Pub. L. 117–81, div. A, title XVI, § 1632, Dec. 27, 2021, 135 Stat. 2090.)
 
 **Editorial Notes**
 
@@ -767,13 +767,13 @@ Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, ref
 
 **Codification**
 
-The text of this section is based on Pub. L. 112–81, div. A, title X, § 1045, Dec. 31, 2011, 125 Stat. 1577; Pub. L. 112–239, div. A, title X, § 1076(a)(19), Jan. 2, 2013, 126 Stat. 1949. Section 1045 of Pub. L. 112–81, formerly classified to section 2523b of Title 50, War and National Defense, was transferred to this section by Pub. L. 112–239, § 1033(b)(1)(A)–(C).
+The text of this section is based on Pub. L. 112–81, div. A, title X, § 1045, Dec. 31, 2011, 125 Stat. 1577; Pub. L. 112–239, div. A, title X, § 1076(a)(19), Jan. 2, 2013, 126 Stat. 1949. Section 1045 of Pub. L. 112–81, formerly classified to section 2523b of Title 50, War and National Defense, was transferred to this section by Pub. L. 112–239, § 1033(b)(1)(A)–(C).
 
 **Amendments**
 
-2021—Subsec. (c)(1), (2)(A), (B)(ii). Pub. L. 117–81, § 1632(1), substituted “December 31, 2021” for “December 31, 2011”.
+2021—Subsec. (c)(1), (2)(A), (B)(ii). Pub. L. 117–81, § 1632(1), substituted “December 31, 2021” for “December 31, 2011”.
 
-Subsec. (c)(3). Pub. L. 117–81, § 1632(2), substituted “February 1, 2025” for “December 31, 2017”.
+Subsec. (c)(3). Pub. L. 117–81, § 1632(2), substituted “February 1, 2025” for “December 31, 2017”.
 
 2018—Subsec. (b)(2). Pub. L. 115–232 substituted “March 1 of each year” for “March 1, 2012, and annually thereafter” in introductory provisions.
 
@@ -781,19 +781,19 @@ Subsec. (c)(3). Pub. L. 117–81, § 1632(2), substituted “February 1, 2025�
 
 2014—Subsec. (d)(1). Pub. L. 113–291 substituted “(50 U.S.C. 3003(4))” for “(50 U.S.C. 401a(4))”.
 
-2013—Pub. L. 112–239, § 1033(b)(2)(B), made technical amendments to conform section enumerator and catchline to the style of this title. See Codification note above.
+2013—Pub. L. 112–239, § 1033(b)(2)(B), made technical amendments to conform section enumerator and catchline to the style of this title. See Codification note above.
 
-Subsec. (a)(2). Pub. L. 112–239, § 1033(b)(1)(D), amended par. (2) generally. Prior to amendment, par. (2) related to a Presidential report to Congress regarding resource shortfalls.
+Subsec. (a)(2). Pub. L. 112–239, § 1033(b)(1)(D), amended par. (2) generally. Prior to amendment, par. (2) related to a Presidential report to Congress regarding resource shortfalls.
 
 Subsec. (c)(1), (2)(A), (B)(ii). Pub. L. 113–66 substituted “December 31, 2011” for “the date of the enactment of this Act”.
 
-Subsec. (d). Pub. L. 112–239, § 1034, added subsec. (d).
+Subsec. (d). Pub. L. 112–239, § 1034, added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–239, div. A, title X, § 1033(b)(4), Jan. 2, 2013, 126 Stat. 1922, provided that: “The amendment made by paragraph (1)(D) [amending this section] shall take effect on October 1, 2012.”
+Pub. L. 112–239, div. A, title X, § 1033(b)(4), Jan. 2, 2013, 126 Stat. 1922, provided that: “The amendment made by paragraph (1)(D) [amending this section] shall take effect on October 1, 2012.”
 
 **Termination of Reporting Requirements**
 
@@ -801,7 +801,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (b) of this s
 
 **Report on Implementation of the New START Treaty**
 
-Pub. L. 114–92, div. A, title XII, § 1247, Nov. 25, 2015, 129 Stat. 1066, provided that:
+Pub. L. 114–92, div. A, title XII, § 1247, Nov. 25, 2015, 129 Stat. 1066, provided that:
 
 > **“(a) Report.—**
 
@@ -837,7 +837,7 @@ Pub. L. 114–92, div. A, title XII, § 1247, Nov. 25, 2015, 129 Stat. 1066, p
 
 **Retention of Missile Silos**
 
-Pub. L. 113–291, div. A, title XVI, § 1644, Dec. 19, 2014, 128 Stat. 3651, provided that:
+Pub. L. 113–291, div. A, title XVI, § 1644, Dec. 19, 2014, 128 Stat. 3651, provided that:
 
 > **“(a) Requirement.—** During the period in which the New START Treaty (as defined in section 494(a)(2)(D) of title 10, United States Code) is in effect, the Secretary of Defense shall preserve each intercontinental ballistic missile silo that contains a deployed missile as of the date of the enactment of this Act [Dec. 19, 2014] in, at minimum, a warm status that enables such silo to—
 
@@ -849,7 +849,7 @@ Pub. L. 113–291, div. A, title XVI, § 1644, Dec. 19, 2014, 128 Stat. 3651, 
 
 **Implementation of New START Treaty**
 
-Pub. L. 113–66, div. A, title X, § 1056(a)(2), (3), (f), Dec. 26, 2013, 127 Stat. 862–864, provided that:
+Pub. L. 113–66, div. A, title X, § 1056(a)(2), (3), (f), Dec. 26, 2013, 127 Stat. 862–864, provided that:
 
 > **“(a) Implementation.—**
 
@@ -873,7 +873,7 @@ Congressional defense committees has the meaning given that term in section 101(
 
 Memorandum of President of the United States, Mar. 16, 2012, 77 F.R. 16649, provided:
 
-Memorandum for the Secretary of State[,] the Secretary of Defense[, and] the Secretary of Energy
+Memorandum for the Secretary of State[,] the Secretary of Defense[, and] the Secretary of Energy
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretaries of Defense and Energy the reporting functions conferred upon the President by section 1045 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81) [see Codification note above], and by section (a)(9)(B) of the Resolution of Advice and Consent to Ratification of the New START Treaty. Subsection (a)(9)(B)(iv) of the Resolution shall be fulfilled in coordination with the Secretary of State.
 
@@ -897,7 +897,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-## § 495. Strategic delivery systems
+## § 495. Strategic delivery systems
 
 **(a) Annual Certification.—** The President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549), including plans regarding—
 
@@ -911,9 +911,9 @@ Barack Obama.
 
 **(5)** maintaining the nuclear command and control system (as first reported under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576)).
 
-**(b) Additional Report Matters Following Certain Certifications.—** If in any year prior to the expiration of the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011 (commonly referred to as the “New START Treaty”), the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 492(a) 1
+**(b) Additional Report Matters Following Certain Certifications.—** If in any year prior to the expiration of the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011 (commonly referred to as the “New START Treaty”), the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 492(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title the following:
 
@@ -951,7 +951,7 @@ of this title the following:
 
 **(2)** The term “strategic delivery system” means a delivery system for nuclear weapons.
 
-(Added Pub. L. 112–239, div. A, title X, § 1035(a), Jan. 2, 2013, 126 Stat. 1923; amended Pub. L. 112–240, title VIII, § 801(a), Jan. 2, 2013, 126 Stat. 2369; Pub. L. 115–232, div. A, title X, § 1081(a)(6), Aug. 13, 2018, 132 Stat. 1983; Pub. L. 118–31, div. A, title XVI, § 1632, Dec. 22, 2023, 137 Stat. 592.)
+(Added Pub. L. 112–239, div. A, title X, § 1035(a), Jan. 2, 2013, 126 Stat. 1923; amended Pub. L. 112–240, title VIII, § 801(a), Jan. 2, 2013, 126 Stat. 2369; Pub. L. 115–232, div. A, title X, § 1081(a)(6), Aug. 13, 2018, 132 Stat. 1983; Pub. L. 118–31, div. A, title XVI, § 1632, Dec. 22, 2023, 137 Stat. 592.)
 
 **Editorial Notes**
 
@@ -975,11 +975,11 @@ Section 492(a) of this title, referred to in subsec. (b), relates to biennial as
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–240, title VIII, § 801(b), Jan. 2, 2013, 126 Stat. 2369, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2013 [Pub. L. 112–239].”
+Pub. L. 112–240, title VIII, § 801(b), Jan. 2, 2013, 126 Stat. 2369, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2013 [Pub. L. 112–239].”
 
 **Congressional Notification of Decision To Delay Strategic Delivery System Test Event**
 
-Pub. L. 118–31, div. A, title XVI, § 1648, Dec. 22, 2023, 137 Stat. 600, provided that:
+Pub. L. 118–31, div. A, title XVI, § 1648, Dec. 22, 2023, 137 Stat. 600, provided that:
 
 > **“(a) Notification.—** Not later than five days after the Secretary of Defense makes a decision to delay a scheduled test event for a strategic delivery system, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] written notice of such decision.
 
@@ -1015,7 +1015,7 @@ Pub. L. 118–31, div. A, title XVI, § 1648, Dec. 22, 2023, 137 Stat. 600, pr
 
 **Retention of Capability To Redeploy Multiple Independently Targetable Reentry Vehicles**
 
-Pub. L. 113–66, div. A, title X, § 1057, Dec. 26, 2013, 127 Stat. 864, as amended by Pub. L. 118–31, div. A, title XVI, § 1638, Dec. 22, 2023, 137 Stat. 594, provided that:
+Pub. L. 113–66, div. A, title X, § 1057, Dec. 26, 2013, 127 Stat. 864, as amended by Pub. L. 118–31, div. A, title XVI, § 1638, Dec. 22, 2023, 137 Stat. 594, provided that:
 
 > **“(a) Deployment Capability.—** The Secretary of the Air Force shall ensure that the Air Force is capable of—
 
@@ -1031,7 +1031,7 @@ Pub. L. 113–66, div. A, title X, § 1057, Dec. 26, 2013, 127 Stat. 864, as a
 
 **Senses of Congress on Ensuring the Modernization of the Nuclear Forces of the United States**
 
-Pub. L. 113–66, div. A, title X, § 1062(a), Dec. 26, 2013, 127 Stat. 866, provided that:
+Pub. L. 113–66, div. A, title X, § 1062(a), Dec. 26, 2013, 127 Stat. 866, provided that:
 
 > “It is the policy of the United States to—
 
@@ -1061,7 +1061,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-## § 496. Consideration of expansion of nuclear forces of other countries
+## § 496. Consideration of expansion of nuclear forces of other countries
 
 **(a) Report and Certification.—** Not later than 60 days before the President recommends any reductions to the nuclear forces of the United States—
 
@@ -1095,7 +1095,7 @@ Barack Obama.
 
 **(2)** The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(Added Pub. L. 112–239, div. A, title X, § 1036(a), Jan. 2, 2013, 126 Stat. 1924; amended Pub. L. 113–291, div. A, title X, § 1071(c)(10), Dec. 19, 2014, 128 Stat. 3509.)
+(Added Pub. L. 112–239, div. A, title X, § 1036(a), Jan. 2, 2013, 126 Stat. 1924; amended Pub. L. 113–291, div. A, title X, § 1071(c)(10), Dec. 19, 2014, 128 Stat. 3509.)
 
 **Editorial Notes**
 
@@ -1103,7 +1103,7 @@ Barack Obama.
 
 2014—Subsec. (a)(1). Pub. L. 113–291 substituted “(50 U.S.C. 3003(4))” for “(50 U.S.C. 401a(4))” in introductory provisions.
 
-## § 497. Notification required for reduction, consolidation, or withdrawal of nuclear forces based in Europe
+## § 497. Notification required for reduction, consolidation, or withdrawal of nuclear forces based in Europe
 
 **(a) Notification.—** Upon any decision to reduce, consolidate, or withdraw the nuclear forces of the United States that are based in Europe, the President shall transmit to the appropriate congressional committees a notification containing—
 
@@ -1123,7 +1123,7 @@ Barack Obama.
 
 **(2)** the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
-(Added Pub. L. 112–239, div. A, title X, § 1037(b)(1), Jan. 2, 2013, 126 Stat. 1926; amended Pub. L. 117–81, div. A, title XVI, § 1635, Dec. 27, 2021, 135 Stat. 2091.)
+(Added Pub. L. 112–239, div. A, title X, § 1037(b)(1), Jan. 2, 2013, 126 Stat. 1926; amended Pub. L. 117–81, div. A, title XVI, § 1635, Dec. 27, 2021, 135 Stat. 2091.)
 
 **Editorial Notes**
 
@@ -1131,7 +1131,7 @@ Barack Obama.
 
 2021—Subsec. (b)(1). Pub. L. 117–81 substituted “120 days” for “60 days”.
 
-## § 497a. Notification required for reduction or consolidation of dual-capable aircraft based in Europe
+## § 497a. Notification required for reduction or consolidation of dual-capable aircraft based in Europe
 
 **(a) Notification.—** Not less than 90 days before the date on which the Secretary of Defense reduces or consolidates the dual-capable aircraft of the United States that are based in Europe, the Secretary shall submit to the congressional defense committees a notification of such planned reduction or consolidation, including the following:
 
@@ -1147,9 +1147,9 @@ Barack Obama.
 
 **(b) Dual-capable Aircraft Defined.—** In this section, the term “dual-capable aircraft” means aircraft that can perform both conventional and nuclear missions.
 
-(Added Pub. L. 113–66, div. A, title X, § 1051(b)(1), Dec. 26, 2013, 127 Stat. 858.)
+(Added Pub. L. 113–66, div. A, title X, § 1051(b)(1), Dec. 26, 2013, 127 Stat. 858.)
 
-## § 498. Unilateral change in nuclear weapons stockpile of the United States
+## § 498. Unilateral change in nuclear weapons stockpile of the United States
 
 **(a) In General.—** Other than pursuant to a treaty to which the Senate has provided advice and consent pursuant to section 2 of article II of the Constitution of the United States, if the President has under consideration to unilaterally change the size of the total stockpile of nuclear weapons of the United States, or the total number of deployed nuclear weapons (as defined under the New START Treaty), by more than 20 percent, prior to doing so the President shall initiate a Nuclear Posture Review.
 
@@ -1163,23 +1163,23 @@ Barack Obama.
 
 **(f) New START Treaty Defined.—** In this section, the term “New START Treaty” means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.
 
-(Added Pub. L. 112–239, div. A, title X, § 1038(a), Jan. 2, 2013, 126 Stat. 1927; amended Pub. L. 113–66, div. A, title X, § 1091(a)(6), Dec. 26, 2013, 127 Stat. 875; Pub. L. 117–81, div. A, title XVI, § 1633, Dec. 27, 2021, 135 Stat. 2090.)
+(Added Pub. L. 112–239, div. A, title X, § 1038(a), Jan. 2, 2013, 126 Stat. 1927; amended Pub. L. 113–66, div. A, title X, § 1091(a)(6), Dec. 26, 2013, 127 Stat. 875; Pub. L. 117–81, div. A, title XVI, § 1633, Dec. 27, 2021, 135 Stat. 2090.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 117–81, § 1633(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Other than pursuant to a treaty, if the President has under consideration to unilaterally change the size of the total stockpile of nuclear weapons of the United States by more than 25 percent, prior to doing so the President shall initiate a Nuclear Posture Review.”
+2021—Subsec. (a). Pub. L. 117–81, § 1633(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Other than pursuant to a treaty, if the President has under consideration to unilaterally change the size of the total stockpile of nuclear weapons of the United States by more than 25 percent, prior to doing so the President shall initiate a Nuclear Posture Review.”
 
-Subsec. (c). Pub. L. 117–81, § 1633(2), substituted “described in subsection (a)” for “in the nuclear weapons stockpile by more than 25 percent”.
+Subsec. (c). Pub. L. 117–81, § 1633(2), substituted “described in subsection (a)” for “in the nuclear weapons stockpile by more than 25 percent”.
 
-Subsec. (d). Pub. L. 117–81, § 1633(3), substituted “obligations pursuant to a treaty to which the Senate has provided advice and consent pursuant to section 2 of article II of the Constitution” for “treaty obligations”.
+Subsec. (d). Pub. L. 117–81, § 1633(3), substituted “obligations pursuant to a treaty to which the Senate has provided advice and consent pursuant to section 2 of article II of the Constitution” for “treaty obligations”.
 
-Subsec. (f). Pub. L. 117–81, § 1633(4), added subsec. (f).
+Subsec. (f). Pub. L. 117–81, § 1633(4), added subsec. (f).
 
 2013—Pub. L. 113–66 inserted a period after the enumerator in section catchline.
 
-## § 499. Annual assessment of cyber resiliency of nuclear command and control system
+## § 499. Annual assessment of cyber resiliency of nuclear command and control system
 
 **(a) In General.—** Not less frequently than annually, the Commander of the United States Strategic Command and the Commander of the United States Cyber Command (in this section referred to collectively as the “Commanders”) shall jointly conduct an assessment of the cyber resiliency of the nuclear command and control system.
 
@@ -1225,29 +1225,29 @@ Subsec. (f). Pub. L. 117–81, § 1633(4), added subsec. (f).
 
 **(e) Termination.—** The requirements of this section shall terminate on December 31, 2032.
 
-(Added Pub. L. 115–91, div. A, title XVI, § 1651(a), Dec. 12, 2017, 131 Stat. 1756; amended Pub. L. 117–81, div. A, title XV, § 1534, Dec. 27, 2021, 135 Stat. 2054; Pub. L. 117–263, div. A, title XVI, § 1636(a), (b), Dec. 23, 2022, 136 Stat. 2940.)
+(Added Pub. L. 115–91, div. A, title XVI, § 1651(a), Dec. 12, 2017, 131 Stat. 1756; amended Pub. L. 117–81, div. A, title XV, § 1534, Dec. 27, 2021, 135 Stat. 2054; Pub. L. 117–263, div. A, title XVI, § 1636(a), (b), Dec. 23, 2022, 136 Stat. 2940.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Subsec. (d). Pub. L. 117–263, § 1636(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on any known or suspected critical intelligence parameter breaches that were identified during the previous quarter, including an assessment of any known or suspected impacts of such breaches to the mission effectiveness of military capabilities as of the date of the briefing or thereafter.”
+2022—Subsec. (d). Pub. L. 117–263, § 1636(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on any known or suspected critical intelligence parameter breaches that were identified during the previous quarter, including an assessment of any known or suspected impacts of such breaches to the mission effectiveness of military capabilities as of the date of the briefing or thereafter.”
 
-Subsec. (e). Pub. L. 117–263, § 1636(b), substituted “December 31, 2032” for “December 31, 2027”.
+Subsec. (e). Pub. L. 117–263, § 1636(b), substituted “December 31, 2032” for “December 31, 2027”.
 
-2021—Subsec. (c). Pub. L. 117–81, § 1534(1), substituted “Reports” for “Report” in heading.
+2021—Subsec. (c). Pub. L. 117–81, § 1534(1), substituted “Reports” for “Report” in heading.
 
-Subsec. (c)(1). Pub. L. 117–81, § 1534(2), substituted “For each assessment conducted under subsection (a), the Commanders” for “The Commanders” and “the assessment” for “the assessment required by subsection (a)” in introductory provisions.
+Subsec. (c)(1). Pub. L. 117–81, § 1534(2), substituted “For each assessment conducted under subsection (a), the Commanders” for “The Commanders” and “the assessment” for “the assessment required by subsection (a)” in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 117–81, § 1534(3), which directed substitution of “each report” for “the report”, was executed by making the substitution in both places it appeared, to reflect the probable intent of Congress.
+Subsec. (c)(2). Pub. L. 117–81, § 1534(3), which directed substitution of “each report” for “the report”, was executed by making the substitution in both places it appeared, to reflect the probable intent of Congress.
 
-Subsec. (c)(3). Pub. L. 117–81, § 1534(4), substituted “Not later than 90 days after the date of the submission of a report under paragraph (1), the Secretary” for “The Secretary” and struck out “required by paragraph (1)” before “, any comments”.
+Subsec. (c)(3). Pub. L. 117–81, § 1534(4), substituted “Not later than 90 days after the date of the submission of a report under paragraph (1), the Secretary” for “The Secretary” and struck out “required by paragraph (1)” before “, any comments”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Cybersecurity Enhancements for Nuclear Command, Control, and Communications Network**
 
-Pub. L. 118–31, div. A, title XV, § 1512, Dec. 22, 2023, 137 Stat. 542, provided that:
+Pub. L. 118–31, div. A, title XV, § 1512, Dec. 22, 2023, 137 Stat. 542, provided that:
 
 > **“(a) Establishment of Cross-functional Team.—**
 
@@ -1287,7 +1287,7 @@ Pub. L. 118–31, div. A, title XV, § 1512, Dec. 22, 2023, 137 Stat. 542, pro
 
 **Ensuring Cyber Resiliency of Nuclear Command and Control System**
 
-Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, provided that:
+Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, provided that:
 
 > **“(a) Plan for Implementation of Findings and Recommendations From First Annual Assessment of Cyber Resiliency of Nuclear Command and Control System.—** Not later than October 1, 2021, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a comprehensive plan, including a schedule and resourcing plan, for the implementation of the findings and recommendations included in the first report submitted under section 499(c)(3) of title 10, United States Code.
 
@@ -1311,7 +1311,7 @@ Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, 
 
 > **“(C)** processes for coordination of activities, policies, and programs relating to the cybersecurity and defense of the nuclear command and control system.”
 
-## § 499a. Collection, storage, and sharing of data relating to nuclear security enterprise and nuclear forces
+## § 499a. Collection, storage, and sharing of data relating to nuclear security enterprise and nuclear forces
 
 **(a) In General.—** The Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation, and the Administrator for Nuclear Security, acting through the Director for Cost Estimating and Program Evaluation, shall collect and store cost, programmatic, and technical data relating to programs and projects of the nuclear security enterprise and nuclear forces.
 
@@ -1337,7 +1337,7 @@ Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, 
 
 **(e) Nuclear Security Enterprise Defined.—** In this section, the term “nuclear security enterprise” has the meaning given that term in section 6101.
 
-(Added Pub. L. 115–91, div. A, title XVI, § 1652(a), Dec. 12, 2017, 131 Stat. 1757; amended Pub. L. 115–232, div. A, title X, § 1081(a)(7), Aug. 13, 2018, 132 Stat. 1983; Pub. L. 119–60, div. C, title XXXI, § 3111(c)(1)(B), Dec. 18, 2025, 139 Stat. 1460.)
+(Added Pub. L. 115–91, div. A, title XVI, § 1652(a), Dec. 12, 2017, 131 Stat. 1757; amended Pub. L. 115–232, div. A, title X, § 1081(a)(7), Aug. 13, 2018, 132 Stat. 1983; Pub. L. 119–60, div. C, title XXXI, § 3111(c)(1)(B), Dec. 18, 2025, 139 Stat. 1460.)
 
 **Editorial Notes**
 
@@ -1347,7 +1347,7 @@ Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, 
 
 2018—Subsec. (d). Pub. L. 115–232 substituted “after December 11, 2017,” for “on or after the date of the enactment of this section” in introductory provisions.
 
-## § 499b. Participation in United States Strategic Command strategic deterrence exercises
+## § 499b. Participation in United States Strategic Command strategic deterrence exercises
 
 **(a) Participation.—** In the case of annual strategic deterrence exercises held by the United States Strategic Command during fiscal years 2022 through 2032—
 
@@ -1393,9 +1393,9 @@ Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, 
 
 **(B)** any additional recommendations or other matters the Secretary considers appropriate.
 
-(Added Pub. L. 117–81, div. A, title XVI, § 1631, Dec. 27, 2021, 135 Stat. 2089.)
+(Added Pub. L. 117–81, div. A, title XVI, § 1631, Dec. 27, 2021, 135 Stat. 2089.)
 
-## § 499c. Portfolio management framework for nuclear forces
+## § 499c. Portfolio management framework for nuclear forces
 
 **(a) Requirement.—** Not later than January 1, 2024, the Secretary of Defense shall—
 
@@ -1447,4 +1447,4 @@ Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, 
 
 **(4)** the infrastructure and facilities of the Department of Defense and the National Nuclear Security Administration that support nuclear weapons, the delivery platforms and systems for nuclear weapons, and nuclear command, control, and communications systems, including with respect to personnel, construction, operation, and maintenance.
 
-(Added Pub. L. 117–263, div. A, title XVI, § 1634(a), Dec. 23, 2022, 136 Stat. 2938.)
+(Added Pub. L. 117–263, div. A, title XVI, § 1634(a), Dec. 23, 2022, 136 Stat. 2938.)

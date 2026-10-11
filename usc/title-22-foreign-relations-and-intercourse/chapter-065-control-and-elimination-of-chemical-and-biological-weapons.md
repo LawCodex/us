@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 65, enacted by Pub. L. 102–138, title V, Oct. 28, 1991, 105 Stat. 722, contained provisions substantially identical to those enacted by Pub. L. 102–182, title III, Dec. 4, 1991, 105 Stat. 1245, prior to repeal by Pub. L. 102–182, title III, § 309(a), Dec. 4, 1991, 105 Stat. 1258.
+A prior chapter 65, enacted by Pub. L. 102–138, title V, Oct. 28, 1991, 105 Stat. 722, contained provisions substantially identical to those enacted by Pub. L. 102–182, title III, Dec. 4, 1991, 105 Stat. 1245, prior to repeal by Pub. L. 102–182, title III, § 309(a), Dec. 4, 1991, 105 Stat. 1258.
 
-## § 5601. Purposes
+## § 5601. Purposes
 
 The purposes of this chapter are—
 
@@ -33,7 +33,7 @@ The purposes of this chapter are—
 
 **(4)** to require Presidential reports on efforts that threaten United States interests or regional stability by Iran, Iraq, Syria, Libya, and others to acquire the materials and technology to develop, produce, stockpile, deliver, transfer, or use chemical or biological weapons.
 
-(Pub. L. 102–182, title III, § 302, Dec. 4, 1991, 105 Stat. 1245.)
+(Pub. L. 102–182, title III, § 302, Dec. 4, 1991, 105 Stat. 1245.)
 
 **Editorial Notes**
 
@@ -45,13 +45,13 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Short Title**
 
-Pub. L. 102–182, title III, § 301, Dec. 4, 1991, 105 Stat. 1245, provided that: “This title [enacting this chapter, section 2798 of this title, and section 4613 of Title 50, War and National Defense, amending sections 2798 and 5604 of this title and sections 4605 and 4613 of Title 50, and repealing provisions which enacted this chapter, section 2798 of this title, and section 4613 of Title 50, and which amended section 4605 of Title 50] may be cited as the ‘Chemical and Biological Weapons Control and Warfare Elimination Act of 1991’.”
+Pub. L. 102–182, title III, § 301, Dec. 4, 1991, 105 Stat. 1245, provided that: “This title [enacting this chapter, section 2798 of this title, and section 4613 of Title 50, War and National Defense, amending sections 2798 and 5604 of this title and sections 4605 and 4613 of Title 50, and repealing provisions which enacted this chapter, section 2798 of this title, and section 4613 of Title 50, and which amended section 4605 of Title 50] may be cited as the ‘Chemical and Biological Weapons Control and Warfare Elimination Act of 1991’.”
 
-Pub. L. 102–138, title V, § 501, Oct. 28, 1991, 105 Stat. 722, which provided that title V of Pub. L. 102–138, which enacted this chapter, section 2798 of this title, and section 4613 of Title 50, War and National Defense, and amended section 4605 of Title 50, was to be cited as the “Chemical and Biological Weapons Control and Warfare Elimination Act of 1991”, was repealed by Pub. L. 102–182, title III, § 309(a), Dec. 4, 1991, 105 Stat. 1258.
+Pub. L. 102–138, title V, § 501, Oct. 28, 1991, 105 Stat. 722, which provided that title V of Pub. L. 102–138, which enacted this chapter, section 2798 of this title, and section 4613 of Title 50, War and National Defense, and amended section 4605 of Title 50, was to be cited as the “Chemical and Biological Weapons Control and Warfare Elimination Act of 1991”, was repealed by Pub. L. 102–182, title III, § 309(a), Dec. 4, 1991, 105 Stat. 1258.
 
 **Matters Relating to the Control of Biological Weapons**
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, chapter 2], Nov. 29, 1999, 113 Stat. 1536, 1501A–490, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, chapter 2], Nov. 29, 1999, 113 Stat. 1536, 1501A–490, provided that:
 
 > **“SEC. 1121. SHORT TITLE.**
 
@@ -133,7 +133,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, chapter 2], Nov. 2
 
 > **“(B)** the results of trial investigations and trial visits conducted pursuant to subsections (a) and (b).”
 
-## § 5602. Multilateral efforts
+## § 5602. Multilateral efforts
 
 **(a) Multilateral controls on proliferation** It is the policy of the United States to seek multilaterally coordinated efforts with other countries to control the proliferation of chemical and biological weapons. In furtherance of this policy, the United States shall—
 
@@ -169,9 +169,9 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, chapter 2], Nov. 2
 
 **(4)** to adopt the imposition of stricter controls on the export of chemical agents, precursors, and equipment and to adopt tougher multilateral sanctions against firms and individuals who violate these controls or against countries that use chemical weapons.
 
-(Pub. L. 102–182, title III, § 303, Dec. 4, 1991, 105 Stat. 1245.)
+(Pub. L. 102–182, title III, § 303, Dec. 4, 1991, 105 Stat. 1245.)
 
-## § 5603. United States export controls
+## § 5603. United States export controls
 
 The President shall—
 
@@ -181,17 +181,17 @@ The President shall—
 
 that the President determines would assist the government of any foreign country in acquiring the capability to develop, produce, stockpile, deliver, or use chemical or biological weapons.
 
-(Pub. L. 102–182, title III, § 304(a), Dec. 4, 1991, 105 Stat. 1246.)
+(Pub. L. 102–182, title III, § 304(a), Dec. 4, 1991, 105 Stat. 1246.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act, referred to in par. (1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in par. (1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in par. (2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
-## § 5604. Determinations regarding use of chemical or biological weapons
+## § 5604. Determinations regarding use of chemical or biological weapons
 
 **(a) Determination by President**
 
@@ -225,13 +225,13 @@ The Chairman of the Committee on Foreign Relations of the Senate (upon consultat
 
 Not later than 60 days after receiving such a request, the President shall provide to the Chairman of the Committee on Foreign Relations of the Senate and the Chairman of the Committee on Foreign Affairs of the House of Representatives a written report on the information held by the executive branch which is pertinent to the issue of whether the specified government, on or after December 4, 1991, has used chemical or biological weapons in violation of international law or has used lethal chemical or biological weapons against its own nationals. This report shall contain an analysis of each of the items enumerated in subsection (a)(2).
 
-(Pub. L. 102–182, title III, §§ 306, 309(b)(3), Dec. 4, 1991, 105 Stat. 1252, 1259.)
+(Pub. L. 102–182, title III, §§ 306, 309(b)(3), Dec. 4, 1991, 105 Stat. 1252, 1259.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1991—Subsec. (a)(1). Pub. L. 101–182, § 309(b)(3), substituted “October 28, 1991” for reference to the “date of the enactment of this title”, meaning the date of the enactment of title V of Pub. L. 101–182 which was enacted Dec. 4, 1991. “October 28, 1991”, the second time appearing, was substituted for “such date of enactment” for purposes of codification.
+1991—Subsec. (a)(1). Pub. L. 101–182, § 309(b)(3), substituted “October 28, 1991” for reference to the “date of the enactment of this title”, meaning the date of the enactment of title V of Pub. L. 101–182 which was enacted Dec. 4, 1991. “October 28, 1991”, the second time appearing, was substituted for “such date of enactment” for purposes of codification.
 
 **Executive Documents**
 
@@ -239,7 +239,7 @@ Not later than 60 days after receiving such a request, the President shall provi
 
 Functions of President under this section delegated to Secretary of State, with certain exceptions, by section 1(b) of Ex. Ord. No. 12851, June 11, 1993, 58 F.R. 33181, set out as a note under section 2797 of this title.
 
-## § 5605. Sanctions against use of chemical or biological weapons
+## § 5605. Sanctions against use of chemical or biological weapons
 
 **(a) Initial sanctions** If, at any time, the President makes a determination pursuant to section 5604(a)(1) of this title with respect to the government of a foreign country, the President shall forthwith impose the following sanctions:
 
@@ -263,11 +263,11 @@ The United States Government shall deny to that country any credit, credit guara
 
 **(5) Exports of national security-sensitive goods and technology**
 
-The authorities of section 4605 1
+The authorities of section 4605 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 50 shall be used to prohibit the export to that country of any goods or technology on that part of the control list established under section 4604(c)(1) 1 of title 50.
+of title 50 shall be used to prohibit the export to that country of any goods or technology on that part of the control list established under section 4604(c)(1) 1 of title 50.
 
 **(b) Additional sanctions if certain conditions not met**
 
@@ -293,7 +293,7 @@ The United States Government shall prohibit any United States bank from making a
 
 **(C) Further export restrictions**
 
-The authorities of section 4605 <sup>1</sup> of title 50 shall be used to prohibit exports to that country of all other goods and technology (excluding food and other agricultural commodities and products).
+The authorities of section 4605 <sup>1</sup> of title 50 shall be used to prohibit exports to that country of all other goods and technology (excluding food and other agricultural commodities and products).
 
 **(D) Import restrictions**
 
@@ -353,29 +353,29 @@ In the event that the President decides to exercise the waiver authority provide
 
 **(A)** A sanction described in paragraph (4) or (5) of subsection (a) or in any of subparagraphs (A) through (D) of subsection (b)(2) shall not apply to any activity pursuant to any contract or international agreement entered into before the date of the presidential determination under section 5604(a)(1) of this title unless the President determines, on a case-by-case basis, that to apply such sanction to that activity would prevent the performance of a contract or agreement that would have the effect of assisting a country in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals.
 
-**(B)** The same restrictions of subsection (p) of section 4605 <sup>1</sup> of title 50, as that subsection is so redesignated by section 304(b) of this title, which are applicable to exports prohibited under section 4605 <sup>1</sup> of title 50, shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by the President) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, within the meaning of subparagraph (A) of section 4605(p) <sup>1</sup> of title 50.
+**(B)** The same restrictions of subsection (p) of section 4605 <sup>1</sup> of title 50, as that subsection is so redesignated by section 304(b) of this title, which are applicable to exports prohibited under section 4605 <sup>1</sup> of title 50, shall apply to exports prohibited under subsection (a)(5) or (b)(2)(C) of this section. For purposes of this subparagraph, any contract or agreement the performance of which (as determined by the President) would have the effect of assisting a foreign government in using chemical or biological weapons in violation of international law or in using lethal chemical or biological weapons against its own nationals shall be treated as constituting a breach of the peace that poses a serious and direct threat to the strategic interest of the United States, within the meaning of subparagraph (A) of section 4605(p) <sup>1</sup> of title 50.
 
 **(2) Sanctions applied to existing contracts**
 
 The sanctions described in paragraphs (1), (2), and (3) of subsection (a) shall apply to contracts, agreements, and licenses without regard to the date the contract or agreement was entered into or the license was issued (as the case may be), except that such sanctions shall not apply to any contract or agreement entered into or license issued before the date of the presidential determination under section 5604(a)(1) of this title if the President determines that the application of such sanction would be detrimental to the national security interests of the United States.
 
-(Pub. L. 102–182, title III, § 307, Dec. 4, 1991, 105 Stat. 1254.)
+(Pub. L. 102–182, title III, § 307, Dec. 4, 1991, 105 Stat. 1254.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (a)(2)(A), (3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(2)(A), (3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-Sections 4604(c)(1) and 4605 of title 50, referred to in subsecs. (a)(5), (b)(2)(C), and (e)(1)(B), were repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Sections 4604(c)(1) and 4605 of title 50, referred to in subsecs. (a)(5), (b)(2)(C), and (e)(1)(B), were repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 Section 304(b) of this title, referred to in subsec. (e)(1)(B), is section 304(b) of Pub. L. 102–182, title III, Dec. 4, 1991, 105 Stat. 1246, which amended former section 4605 of Title 50, War and National Defense.
 
 **Codification**
 
-In subsec. (b)(2)(F)(iv), “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (b)(2)(F)(iv), “section 40102(a) of title 49” substituted for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 **Executive Documents**
 
@@ -427,6 +427,6 @@ Sec. 6. (a) Nothing in this order shall be construed to impair or otherwise affe
 
 Donald J. Trump.
 
-## § 5606. Repealed. Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(B), Sept. 30, 2002, 116 Stat. 1441
+## § 5606. Repealed. Pub. L. 107–228, div. B, title XIII, § 1308(g)(1)(B), Sept. 30, 2002, 116 Stat. 1441
 
-Section, Pub. L. 102–182, title III, § 308, Dec. 4, 1991, 105 Stat. 1257, related to Presidential reporting requirements.
+Section, Pub. L. 102–182, title III, § 308, Dec. 4, 1991, 105 Stat. 1257, related to Presidential reporting requirements.

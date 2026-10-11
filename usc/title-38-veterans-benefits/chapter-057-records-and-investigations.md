@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2015—Pub. L. 114–31, § 2(c), July 20, 2015, 129 Stat. 430, added item 5706.
+2015—Pub. L. 114–31, § 2(c), July 20, 2015, 129 Stat. 430, added item 5706.
 
-2006—Pub. L. 109–461, title IX, § 902(b), Dec. 22, 2006, 120 Stat. 3460, added item for subchapter III and items 5721 to 5728.
+2006—Pub. L. 109–461, title IX, § 902(b), Dec. 22, 2006, 120 Stat. 3460, added item for subchapter III and items 5721 to 5728.
 
-1991—Pub. L. 102–54, § 14(d)(5)(B), (6)(C), June 13, 1991, 105 Stat. 286, amended table of sections at beginning of chapter as in effect immediately before the enactment of Pub. L. 102–40 by substituting “subpoenas” for “subpenas” in item 3311 and “subpoena” for “subpena” in item 3313.
+1991—Pub. L. 102–54, § 14(d)(5)(B), (6)(C), June 13, 1991, 105 Stat. 286, amended table of sections at beginning of chapter as in effect immediately before the enactment of Pub. L. 102–40 by substituting “subpoenas” for “subpenas” in item 3311 and “subpoena” for “subpena” in item 3313.
 
-Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 3301 to 3313 as 5701 to 5713, respectively.
+Pub. L. 102–40, title IV, § 402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 3301 to 3313 as 5701 to 5713, respectively.
 
-1980—Pub. L. 96–385, title V, § 505(b), Oct. 7, 1980, 94 Stat. 1537, added item 3305.
+1980—Pub. L. 96–385, title V, § 505(b), Oct. 7, 1980, 94 Stat. 1537, added item 3305.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Plan on Adoption of Certain Health Information Standards for Department of Veterans Affairs and Certain Health Care Providers**
 
-Pub. L. 118–210, title I, § 108, Jan. 2, 2025, 138 Stat. 2720, provided that:
+Pub. L. 118–210, title I, § 108, Jan. 2, 2025, 138 Stat. 2720, provided that:
 
 > **“(a) Plan for Certain Health Information Standards.—**
 
@@ -119,7 +119,7 @@ Pub. L. 118–210, title I, § 108, Jan. 2, 2025, 138 Stat. 2720, provided tha
 
 **Removal of Dependents From Award of Compensation or Pension**
 
-Pub. L. 116–315, title II, § 2008, Jan. 5, 2021, 134 Stat. 4977, provided that:
+Pub. L. 116–315, title II, § 2008, Jan. 5, 2021, 134 Stat. 4977, provided that:
 
 > “Beginning not later than 90 days after the date of the enactment of this Act [Jan. 5, 2021], the Secretary of Veterans Affairs shall ensure that—
 
@@ -129,11 +129,11 @@ Pub. L. 116–315, title II, § 2008, Jan. 5, 2021, 134 Stat. 4977, provided t
 
 **Updating Dependent Information**
 
-Pub. L. 115–407, title V, § 502, Dec. 31, 2018, 132 Stat. 5376, provided that: “The Secretary of Veterans Affairs shall make such changes to such information technology systems of the Department of Veterans Affairs, including the eBenefits system or successor system, as may be necessary so that whenever the Secretary records in such systems information about a dependent of a person, the person is able to review and revise such information.”
+Pub. L. 115–407, title V, § 502, Dec. 31, 2018, 132 Stat. 5376, provided that: “The Secretary of Veterans Affairs shall make such changes to such information technology systems of the Department of Veterans Affairs, including the eBenefits system or successor system, as may be necessary so that whenever the Secretary records in such systems information about a dependent of a person, the person is able to review and revise such information.”
 
 **Oversight of Electronic Health Record Modernization Program**
 
-Pub. L. 115–407, title V, § 503, Dec. 31, 2018, 132 Stat. 5376, as amended by Pub. L. 117–154, § 2(a), June 23, 2022, 136 Stat. 1303, provided that:
+Pub. L. 115–407, title V, § 503, Dec. 31, 2018, 132 Stat. 5376, as amended by Pub. L. 117–154, § 2(a), June 23, 2022, 136 Stat. 1303, provided that:
 
 > **“(a) Program Documents.—** Not later than 30 days after the date of the enactment of this Act [Dec. 31, 2018], the Secretary of Veterans Affairs shall submit to the appropriate congressional committees the following documents concerning the Electronic Health Record Modernization Program:
 
@@ -257,7 +257,7 @@ Pub. L. 115–407, title V, § 503, Dec. 31, 2018, 132 Stat. 5376, as amended 
 
 **Discontinuation of Use of Social Security Numbers To Identify Individuals in Department of Veterans Affairs Information Systems**
 
-Pub. L. 119–37, div. D, title II, § 237, Nov. 12, 2025, 139 Stat. 616, provided that:
+Pub. L. 119–37, div. D, title II, § 237, Nov. 12, 2025, 139 Stat. 616, provided that:
 
 > **“(a)** The Secretary of Veterans Affairs, in consultation with the Secretary of Defense and the Secretary of Labor, shall discontinue collecting and using Social Security account numbers to authenticate individuals in all information systems of the Department of Veterans Affairs for all individuals not later than September 30, 2026.
 
@@ -275,23 +275,23 @@ Pub. L. 119–37, div. D, title II, § 237, Nov. 12, 2025, 139 Stat. 616, prov
 
 Similar provisions were contained in the following acts:
 
-Pub. L. 118–42, div. A, title II, § 237, Mar. 9, 2024, 138 Stat. 55.
+Pub. L. 118–42, div. A, title II, § 237, Mar. 9, 2024, 138 Stat. 55.
 
-Pub. L. 117–328, div. J, title II, § 237, Dec. 29, 2022, 136 Stat. 4965.
+Pub. L. 117–328, div. J, title II, § 237, Dec. 29, 2022, 136 Stat. 4965.
 
-Pub. L. 117–103, div. J, title II, § 237, Mar. 15, 2022, 136 Stat. 556.
+Pub. L. 117–103, div. J, title II, § 237, Mar. 15, 2022, 136 Stat. 556.
 
-Pub. L. 116–260, div. J, title II, § 237, Dec. 27, 2020, 134 Stat. 1681.
+Pub. L. 116–260, div. J, title II, § 237, Dec. 27, 2020, 134 Stat. 1681.
 
-Pub. L. 116–94, div. F, title II, § 238, Dec. 20, 2019, 133 Stat. 2804.
+Pub. L. 116–94, div. F, title II, § 238, Dec. 20, 2019, 133 Stat. 2804.
 
-Pub. L. 115–244, div. C, title II, § 239, Sept. 21, 2018, 132 Stat. 2972.
+Pub. L. 115–244, div. C, title II, § 239, Sept. 21, 2018, 132 Stat. 2972.
 
-Pub. L. 115–141, div. J, title II, § 240, Mar. 23, 2018, 132 Stat. 822.
+Pub. L. 115–141, div. J, title II, § 240, Mar. 23, 2018, 132 Stat. 822.
 
 ## SUBCHAPTER I—RECORDS
 
-### § 5701. Confidential nature of claims
+### § 5701. Confidential nature of claims
 
 **(a)** All files, records, reports, and other papers and documents pertaining to any claim under any of the laws administered by the Secretary and the names and addresses of present or former members of the Armed Forces, and their dependents, in the possession of the Department shall be confidential and privileged, and no disclosure thereof shall be made except as provided in this section.
 
@@ -421,7 +421,7 @@ of any substantial change in the status or amount of such indebtedness and, upon
 
 **(2)** In this subsection, a “covered individual” is an individual who is dispensed medication prescribed by an employee of the Department or by a non-Department provider authorized to prescribe such medication by the Department.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, § 3301; Pub. L. 87–671, § 2, Sept. 19, 1962, 76 Stat. 557; Pub. L. 91–24, § 11, June 11, 1969, 83 Stat. 34; Pub. L. 92–540, title IV, § 412, Oct. 24, 1972, 86 Stat. 1093; Pub. L. 94–321, § 1(a), June 29, 1976, 90 Stat. 713; Pub. L. 94–581, title II, § 210(b), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 96–466, title VI, § 606, Oct. 17, 1980, 94 Stat. 2212; Pub. L. 101–94, title III, § 302(a), Aug. 16, 1989, 103 Stat. 628; renumbered § 5701 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§ 2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 107–14, § 8(a)(13), June 5, 2001, 115 Stat. 35; Pub. L. 109–461, title II, § 204(a), Dec. 22, 2006, 120 Stat. 3411; Pub. L. 112–74, div. H, title II, § 230(a), Dec. 23, 2011, 125 Stat. 1159; Pub. L. 114–198, title IX, § 914, July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, § 246, Sept. 29, 2016, 130 Stat. 884; Pub. L. 115–55, § 2(u)(2), Aug. 23, 2017, 131 Stat. 1113; Pub. L. 115–86, § 2, Nov. 21, 2017, 131 Stat. 1276.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, § 3301; Pub. L. 87–671, § 2, Sept. 19, 1962, 76 Stat. 557; Pub. L. 91–24, § 11, June 11, 1969, 83 Stat. 34; Pub. L. 92–540, title IV, § 412, Oct. 24, 1972, 86 Stat. 1093; Pub. L. 94–321, § 1(a), June 29, 1976, 90 Stat. 713; Pub. L. 94–581, title II, § 210(b), Oct. 21, 1976, 90 Stat. 2863; Pub. L. 96–466, title VI, § 606, Oct. 17, 1980, 94 Stat. 2212; Pub. L. 101–94, title III, § 302(a), Aug. 16, 1989, 103 Stat. 628; renumbered § 5701 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§ 2(c)(6), 4(a)(1), (2)(A)(xi), (3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 402–406; Pub. L. 107–14, § 8(a)(13), June 5, 2001, 115 Stat. 35; Pub. L. 109–461, title II, § 204(a), Dec. 22, 2006, 120 Stat. 3411; Pub. L. 112–74, div. H, title II, § 230(a), Dec. 23, 2011, 125 Stat. 1159; Pub. L. 114–198, title IX, § 914, July 22, 2016, 130 Stat. 765; Pub. L. 114–223, div. A, title II, § 246, Sept. 29, 2016, 130 Stat. 884; Pub. L. 115–55, § 2(u)(2), Aug. 23, 2017, 131 Stat. 1113; Pub. L. 115–86, § 2, Nov. 21, 2017, 131 Stat. 1276.)
 
 **Editorial Notes**
 
@@ -445,87 +445,87 @@ Subsec. (*l*). Pub. L. 115–86 designated existing provisions as par. (1), subs
 
 Subsec. (g)(3). Pub. L. 107–14 substituted “subparagraph (A) or (B)” for “clause (A) or (B)”.
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3301 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3301 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (a). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in pars. (1), (5), and (6).
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in introductory provisions and in pars. (1), (5), and (6).
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in par. (6).
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration” in par. (6).
 
-Pub. L. 102–40, § 402(d)(1), substituted “5109” and “7109” for “3009” and “4009”, respectively, in par. (1).
+Pub. L. 102–40, § 402(d)(1), substituted “5109” and “7109” for “3009” and “4009”, respectively, in par. (1).
 
-Subsec. (c)(1). Pub. L. 102–83, § 4(a)(2)(A)(xi), substituted “Secretary” for first reference to “Veterans’ Administration”.
+Subsec. (c)(1). Pub. L. 102–83, § 4(a)(2)(A)(xi), substituted “Secretary” for first reference to “Veterans’ Administration”.
 
-Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsec. (c)(2). Pub. L. 102–83, § 4(a)(2)(A)(xi), substituted “Secretary” for “Veterans’ Administration”.
+Subsec. (c)(2). Pub. L. 102–83, § 4(a)(2)(A)(xi), substituted “Secretary” for “Veterans’ Administration”.
 
-Subsec. (c)(3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (c)(3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(2)(A)(xi), substituted “Secretary” for “Veterans’ Administration” after “with the”.
+Pub. L. 102–83, § 4(a)(2)(A)(xi), substituted “Secretary” for “Veterans’ Administration” after “with the”.
 
-Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s”.
+Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary’s” for “Administrator’s”.
 
-Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (g)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (g)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsec. (g)(2)(A)(i). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
+Subsec. (g)(2)(A)(i). Pub. L. 102–83, § 4(a)(1), substituted “administered by the Secretary” for “administered by the Veterans’ Administration”.
 
-Subsec. (g)(2)(A)(ii). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (g)(2)(A)(ii). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 2(c)(6), substituted “section 527” for “section 219”.
+Pub. L. 102–83, § 2(c)(6), substituted “section 527” for “section 219”.
 
-Subsec. (g)(2)(B), (3), (4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (g)(2)(B), (3), (4). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (g)(4)(A)(i). Pub. L. 102–40, § 402(d)(1), substituted “5302” for “3102”.
+Subsec. (g)(4)(A)(i). Pub. L. 102–40, § 402(d)(1), substituted “5302” for “3102”.
 
-Subsec. (h). Pub. L. 102–83, § 5(c)(1), substituted “3720(a)(5)” for “1820(a)(5)” in par. (2)(A) and “3720” for “1820” in par. (2)(C).
+Subsec. (h). Pub. L. 102–83, § 5(c)(1), substituted “3720(a)(5)” for “1820(a)(5)” in par. (2)(A) and “3720” for “1820” in par. (2)(C).
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (i)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (i)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 1989—Subsec. (b)(1). Pub. L. 101–94 substituted “section 3009 or 4009” for “section 4009”.
 
-1980—Subsec. (a). Pub. L. 96–466, § 606(a), substituted “members of the Armed Forces” for “personnel of the armed services”.
+1980—Subsec. (a). Pub. L. 96–466, § 606(a), substituted “members of the Armed Forces” for “personnel of the armed services”.
 
-Subsec. (b)(6). Pub. L. 96–466, § 606(b), added par. (6).
+Subsec. (b)(6). Pub. L. 96–466, § 606(b), added par. (6).
 
-Subsec. (c). Pub. L. 96–466, § 606(c), designated existing provisions as pars. (1) and (3) with minor changes in language, and in par. (1) as so designated, substituted reference to the amount of any payment made by the Veterans’ Administration to any person receiving benefits under a program administered by the Veterans’ Administration for reference to the amount of pension, compensation, or dependency and indemnity compensation of any beneficiary, and added par. (2).
+Subsec. (c). Pub. L. 96–466, § 606(c), designated existing provisions as pars. (1) and (3) with minor changes in language, and in par. (1) as so designated, substituted reference to the amount of any payment made by the Veterans’ Administration to any person receiving benefits under a program administered by the Veterans’ Administration for reference to the amount of pension, compensation, or dependency and indemnity compensation of any beneficiary, and added par. (2).
 
-Subsec. (f). Pub. L. 96–466, § 606(d), substituted “name or address, or both, of any present or former member of the Armed Forces, or a dependent of a present or former member of the Armed Forces” for “names or addresses, or both, of any present or former members of the Armed Forces, and/or their dependents” and “written request that such name or address” for “written request that such names or addresses”.
+Subsec. (f). Pub. L. 96–466, § 606(d), substituted “name or address, or both, of any present or former member of the Armed Forces, or a dependent of a present or former member of the Armed Forces” for “names or addresses, or both, of any present or former members of the Armed Forces, and/or their dependents” and “written request that such name or address” for “written request that such names or addresses”.
 
-Subsecs. (g) to (i). Pub. L. 96–466, § 606(e), added subsecs. (g) to (i). Former subsec. (g) redesignated (j).
+Subsecs. (g) to (i). Pub. L. 96–466, § 606(e), added subsecs. (g) to (i). Former subsec. (g) redesignated (j).
 
-Subsec. (j). Pub. L. 96–466, § 606(e), (f), redesignated former subsec. (g) as (j) and substituted “Except as provided in subsection (i)(1) of this section, any” for “Any”.
+Subsec. (j). Pub. L. 96–466, § 606(e), (f), redesignated former subsec. (g) as (j) and substituted “Except as provided in subsection (i)(1) of this section, any” for “Any”.
 
-1976—Subsec. (a). Pub. L. 94–321, § 1(a)(1), (2), designated introductory par. as subsec. (a) and as so designated, substituted “provided in this section.” for “follows:”.
+1976—Subsec. (a). Pub. L. 94–321, § 1(a)(1), (2), designated introductory par. as subsec. (a) and as so designated, substituted “provided in this section.” for “follows:”.
 
-Subsec. (b). Pub. L. 94–321, § 1(a)(2), added subsec. (b). Pars. (1) to (5), formerly set out following introductory par., became part of such subsec. (b).
+Subsec. (b). Pub. L. 94–321, § 1(a)(2), added subsec. (b). Pars. (1) to (5), formerly set out following introductory par., became part of such subsec. (b).
 
-Subsec. (b)(1). Pub. L. 94–581, § 210(b)(1), substituted “claimant or duly authorized agent or representative of a claimant as to matters concerning the claimant alone” for “claimant or his duly authorized agent or representative as to matters concerning himself alone”.
+Subsec. (b)(1). Pub. L. 94–581, § 210(b)(1), substituted “claimant or duly authorized agent or representative of a claimant as to matters concerning the claimant alone” for “claimant or his duly authorized agent or representative as to matters concerning himself alone”.
 
-Subsec. (c). Pub. L. 94–321, § 1(a)(3), redesignated par. (6) as subsec. (c).
+Subsec. (c). Pub. L. 94–321, § 1(a)(3), redesignated par. (6) as subsec. (c).
 
-Subsec. (d). Pub. L. 94–581, § 210(b)(2), substituted “as a matter of discretion” for “in his discretion”.
+Subsec. (d). Pub. L. 94–581, § 210(b)(2), substituted “as a matter of discretion” for “in his discretion”.
 
-Pub. L. 94–321, § 1(a)(3), redesignated par. (7) as subsec. (d).
+Pub. L. 94–321, § 1(a)(3), redesignated par. (7) as subsec. (d).
 
-Subsec. (e). Pub. L. 94–581, § 210(b)(3), substituted “in the Administrator’s judgment” for “in his judgment”.
+Subsec. (e). Pub. L. 94–581, § 210(b)(3), substituted “in the Administrator’s judgment” for “in his judgment”.
 
-Pub. L. 94–321, § 1(a)(3), (4), redesignated par. (8) as subsec. (e) and substituted “Except as otherwise specifically provided in this section with respect to certain information, the” for “The”.
+Pub. L. 94–321, § 1(a)(3), (4), redesignated par. (8) as subsec. (e) and substituted “Except as otherwise specifically provided in this section with respect to certain information, the” for “The”.
 
-Subsec. (f). Pub. L. 94–321, § 1(a)(3), (5), redesignated par. (9) as subsec. (f) and inserted provision relating to the release of information pursuant to this subsection to criminal or civil law enforcement governmental agencies and increased the penalty for misuse of such information to the status of a misdemeanor, with a fine of not more than $5,000 for the first offense and not more than $20,000 for any subsequent offense.
+Subsec. (f). Pub. L. 94–321, § 1(a)(3), (5), redesignated par. (9) as subsec. (f) and inserted provision relating to the release of information pursuant to this subsection to criminal or civil law enforcement governmental agencies and increased the penalty for misuse of such information to the status of a misdemeanor, with a fine of not more than $5,000 for the first offense and not more than $20,000 for any subsequent offense.
 
-Subsec. (g). Pub. L. 94–321, § 1(a)(5), added subsec. (g).
+Subsec. (g). Pub. L. 94–321, § 1(a)(5), added subsec. (g).
 
 1972—Pub. L. 92–540 in introductory provision inserted reference to the names and addresses of present or former personnel of the armed forces, and their dependents, in the possession of the Veterans’ Administration, and added par. (9).
 
@@ -541,7 +541,7 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–94, title III, § 302(c), Aug. 16, 1989, 103 Stat. 628, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4092 [now 7292] of this title] shall take effect as if included in the Veterans’ Judicial Review Act [div. A of Pub. L. 100–687].”
+Pub. L. 101–94, title III, § 302(c), Aug. 16, 1989, 103 Stat. 628, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 4092 [now 7292] of this title] shall take effect as if included in the Veterans’ Judicial Review Act [div. A of Pub. L. 100–687].”
 
 **Effective Date of 1980 Amendment**
 
@@ -551,17 +551,17 @@ Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specif
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
 
-Pub. L. 94–321, § 1(b), June 29, 1976, 90 Stat. 714, provided that: “The amendments made by subsection (a) of this section with respect to subsection (f) (as redesignated by subsection (a)(3) of this section) of section 3301 [now 5701] of title 38, United States Code (except for the increase in criminal penalties for a violation of the second sentence of such subsection (f)), shall be effective with respect to names or addresses released on and after October 24, 1972.”
+Pub. L. 94–321, § 1(b), June 29, 1976, 90 Stat. 714, provided that: “The amendments made by subsection (a) of this section with respect to subsection (f) (as redesignated by subsection (a)(3) of this section) of section 3301 [now 5701] of title 38, United States Code (except for the increase in criminal penalties for a violation of the second sentence of such subsection (f)), shall be effective with respect to names or addresses released on and after October 24, 1972.”
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–671, § 4, Sept. 19, 1962, 76 Stat. 557, provided that: “The amendments made by this Act [enacting section 4009 [now 7109] of this title and amending this section] shall be effective January 1, 1963.”
+Pub. L. 87–671, § 4, Sept. 19, 1962, 76 Stat. 557, provided that: “The amendments made by this Act [enacting section 4009 [now 7109] of this title and amending this section] shall be effective January 1, 1963.”
 
 **Regulations**
 
-Pub. L. 109–461, title II, § 204(c), Dec. 22, 2006, 120 Stat. 3411, provided that: “The Secretary of Veterans Affairs shall prescribe regulations under subsection (k) of section 5701 of title 38, United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act [Dec. 22, 2006].”
+Pub. L. 109–461, title II, § 204(c), Dec. 22, 2006, 120 Stat. 3411, provided that: “The Secretary of Veterans Affairs shall prescribe regulations under subsection (k) of section 5701 of title 38, United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act [Dec. 22, 2006].”
 
-### § 5702. Furnishing of records
+### § 5702. Furnishing of records
 
 **(a)** Any person desiring a copy of any record, paper, and so forth, in the custody of the Secretary that may be disclosed under section 5701 of this title must submit to the Secretary an application in writing, including an electronic request submitted through the website or online tool established under subsection (b), for such copy. The application shall state specifically—
 
@@ -583,41 +583,41 @@ Pub. L. 109–461, title II, § 204(c), Dec. 22, 2006, 120 Stat. 3411, provide
 
 **(c)** The Secretary may establish a schedule of fees for copies and certification of such records.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, § 3302; renumbered § 5702 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(2)(A)(xii), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 103–446, title XII, § 1201(e)(16), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 118–21, § 2(a),(b), Nov. 13, 2023, 137 Stat. 109.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1236, § 3302; renumbered § 5702 and amended Pub. L. 102–40, title IV, § 402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, § 4(a)(2)(A)(xii), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 103–446, title XII, § 1201(e)(16), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 118–21, § 2(a),(b), Nov. 13, 2023, 137 Stat. 109.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 118–21, § 2(b)(1), substituted “in writing, including an electronic request submitted through the website or online tool established under subsection (b),” for “in writing” in introductory provisions.
+2023—Subsec. (a). Pub. L. 118–21, § 2(b)(1), substituted “in writing, including an electronic request submitted through the website or online tool established under subsection (b),” for “in writing” in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 118–21, § 2(b)(2)–(4), added par. (3).
+Subsec. (a)(3). Pub. L. 118–21, § 2(b)(2)–(4), added par. (3).
 
-Subsecs. (b), (c). Pub. L. 118–21, § 2(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 118–21, § 2(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1994—Pub. L. 103–446, § 1201(e)(16)(A), (B), inserted “(a)” before “Any person desiring” and substituted “custody of the Secretary that may be disclosed under section 5701 of this title must submit to the Secretary an application in writing for such copy. The application shall state” for “custody of the Secretary, which may be disclosed under section 5701 of this title, must make written application therefor to the Secretary, stating”.
+1994—Pub. L. 103–446, § 1201(e)(16)(A), (B), inserted “(a)” before “Any person desiring” and substituted “custody of the Secretary that may be disclosed under section 5701 of this title must submit to the Secretary an application in writing for such copy. The application shall state” for “custody of the Secretary, which may be disclosed under section 5701 of this title, must make written application therefor to the Secretary, stating”.
 
-Subsec. (b). Pub. L. 103–446, § 1201(e)(16)(C), which directed amendment of subsec. (c) by substituting “may establish” for “is authorized to fix”, was executed to subsec. (b) to reflect the probable intent of Congress, because the language sought to be amended appears in subsec. (b) and this section does not contain a subsec. (c).
+Subsec. (b). Pub. L. 103–446, § 1201(e)(16)(C), which directed amendment of subsec. (c) by substituting “may establish” for “is authorized to fix”, was executed to subsec. (b) to reflect the probable intent of Congress, because the language sought to be amended appears in subsec. (b) and this section does not contain a subsec. (c).
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3302 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3302 of this title as this section.
 
-Pub. L. 102–83, § 4(a)(2)(A)(xii), which directed amendment of subsec. (a) of this section by substituting “Secretary” for “Veterans’ Administration” in two places, was executed to the undesignated first par., to reflect the probable intent of Congress.
+Pub. L. 102–83, § 4(a)(2)(A)(xii), which directed amendment of subsec. (a) of this section by substituting “Secretary” for “Veterans’ Administration” in two places, was executed to the undesignated first par., to reflect the probable intent of Congress.
 
-Pub. L. 102–40, § 402(d)(1), substituted “5701” for “3301” in undesignated first par.
+Pub. L. 102–40, § 402(d)(1), substituted “5701” for “3301” in undesignated first par.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Deadline; Establishment of Website or Online Tool**
 
-Pub. L. 118–21, § 2(c), Nov. 13, 2023, 137 Stat. 109, provided that: “Not later than one year after the date of the enactment of this Act [Nov. 13, 2023], the Secretary of Veterans Affairs shall establish the website or online tool required under section 5702(b)(1) of title 38, United States Code, as added by this Act, and, to the extent practicable, the Secretary shall utilize existing online resources of the Department of Veterans Affairs for the purposes of such establishment.”
+Pub. L. 118–21, § 2(c), Nov. 13, 2023, 137 Stat. 109, provided that: “Not later than one year after the date of the enactment of this Act [Nov. 13, 2023], the Secretary of Veterans Affairs shall establish the website or online tool required under section 5702(b)(1) of title 38, United States Code, as added by this Act, and, to the extent practicable, the Secretary shall utilize existing online resources of the Department of Veterans Affairs for the purposes of such establishment.”
 
-### § 5703. Certification of records of District of Columbia
+### § 5703. Certification of records of District of Columbia
 
 When a copy of any public record of the District of Columbia is required by the Secretary to be used in determining the eligibility of any person for benefits under laws administered by the Secretary, the official custodian of such public record shall without charge provide the applicant for such benefits or any person (including any veterans’ organization) acting on the veteran’s behalf or the authorized representative of the Secretary with a certified copy of such record.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1237, § 3303; Pub. L. 99–576, title VII, § 701(78), Oct. 28, 1986, 100 Stat. 3298; renumbered § 5703, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (2)(A)(xiii), Aug. 6, 1991, 105 Stat. 403.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1237, § 3303; Pub. L. 99–576, title VII, § 701(78), Oct. 28, 1986, 100 Stat. 3298; renumbered § 5703, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(1), (2)(A)(xiii), Aug. 6, 1991, 105 Stat. 403.)
 
 **Editorial Notes**
 
@@ -629,11 +629,11 @@ Pub. L. 102–83 substituted “Secretary” for “Veterans’ Administration�
 
 1986—Pub. L. 99–576 substituted “the veteran’s” for “his”.
 
-### § 5704. Transcript of trial records
+### § 5704. Transcript of trial records
 
 The Secretary may purchase transcripts of the record, including all evidence, of trial of litigated cases.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1237, § 3304; renumbered § 5704, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1237, § 3304; renumbered § 5704, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
@@ -643,11 +643,11 @@ The Secretary may purchase transcripts of the record, including all evidence, of
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator”.
 
-### § 5705. Confidentiality of medical quality-assurance records
+### § 5705. Confidentiality of medical quality-assurance records
 
-**(a)** Records and documents created by the Department as part of a medical quality-assurance program (other than reports submitted pursuant to section 7311(g) 1
+**(a)** Records and documents created by the Department as part of a medical quality-assurance program (other than reports submitted pursuant to section 7311(g) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title) are confidential and privileged and may not be disclosed to any person or entity except as provided in subsection (b) of this section.
 
@@ -687,53 +687,53 @@ of this title) are confidential and privileged and may not be disclosed to any p
 
 **(e)** Any person who, knowing that a document or record is a document or record described in subsection (a) of this section, willfully discloses such record or document except as provided for in subsection (b) of this section shall be fined not more than $5,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 
-(Added Pub. L. 96–385, title V, § 505(a), Oct. 7, 1980, 94 Stat. 1535, § 3305; amended Pub. L. 99–166, title II, § 201, Dec. 3, 1985, 99 Stat. 949; renumbered § 5705 and amended Pub. L. 102–40, title IV, §§ 402(b)(1), 403(b)(2), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(d)(4), June 13, 1991, 105 Stat. 285; Pub. L. 102–83, § 4(a)(2)(F), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(Added Pub. L. 96–385, title V, § 505(a), Oct. 7, 1980, 94 Stat. 1535, § 3305; amended Pub. L. 99–166, title II, § 201, Dec. 3, 1985, 99 Stat. 949; renumbered § 5705 and amended Pub. L. 102–40, title IV, §§ 402(b)(1), 403(b)(2), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, § 14(d)(4), June 13, 1991, 105 Stat. 285; Pub. L. 102–83, § 4(a)(2)(F), (3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 7311(g) of this title, referred to in subsec. (a), was repealed by Pub. L. 103–446, title XII, § 1201(g)(5), Nov. 2, 1994, 108 Stat. 4687.
+Section 7311(g) of this title, referred to in subsec. (a), was repealed by Pub. L. 103–446, title XII, § 1201(g)(5), Nov. 2, 1994, 108 Stat. 4687.
 
 **Amendments**
 
-1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3305 of this title as this section.
+1991—Pub. L. 102–40, § 402(b)(1), renumbered section 3305 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (a). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–40, § 403(b)(2), substituted “section 7311(g)” for “section 4152(b)”.
+Pub. L. 102–40, § 403(b)(2), substituted “section 7311(g)” for “section 4152(b)”.
 
-Subsec. (b)(1)(A), (B). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Subsec. (b)(1)(A), (B). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Subsec. (b)(2). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Subsec. (b)(2). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Pub. L. 102–83, § 4(a)(2)(F)(i), substituted “patient or employee of the Department” for “Veterans’ Administration patient or employee”.
+Pub. L. 102–83, § 4(a)(2)(F)(i), substituted “patient or employee of the Department” for “Veterans’ Administration patient or employee”.
 
-Subsec. (b)(5). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Subsec. (b)(5). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Subsec. (b)(6). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Subsec. (b)(6). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Pub. L. 102–83, § 4(a)(2)(F)(ii), substituted “patients or employees of the Department,” for “Veterans’ Administration patients or employees”.
+Pub. L. 102–83, § 4(a)(2)(F)(ii), substituted “patients or employees of the Department,” for “Veterans’ Administration patients or employees”.
 
-Subsec. (c)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
+Subsec. (c)(1). Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” wherever appearing.
 
-Pub. L. 102–54, § 14(d)(4)(A), amended subsec. (c)(1) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “October 7, 1980” for “the date of the enactment of this section”.
+Pub. L. 102–54, § 14(d)(4)(A), amended subsec. (c)(1) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “October 7, 1980” for “the date of the enactment of this section”.
 
-Subsec. (c)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (c)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
-Pub. L. 102–54, § 14(d)(4)(A), amended subsec. (c)(2) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “October 7, 1980” for “the date of the enactment of this section”.
+Pub. L. 102–54, § 14(d)(4)(A), amended subsec. (c)(2) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “October 7, 1980” for “the date of the enactment of this section”.
 
-Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsec. (d)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Pub. L. 102–54, § 14(d)(4)(B)(i)–(iii), amended subsec. (d)(1) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “The” for “Not later than 180 days after the date of the enactment of this section, the” in first sentence, substituting “October 7, 1980,” for “such enactment date” in second sentence, and striking out “existing” after “provisions of the” and inserting “in existence on October 7, 1980” after “such programs” in last sentence.
+Pub. L. 102–54, § 14(d)(4)(B)(i)–(iii), amended subsec. (d)(1) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “The” for “Not later than 180 days after the date of the enactment of this section, the” in first sentence, substituting “October 7, 1980,” for “such enactment date” in second sentence, and striking out “existing” after “provisions of the” and inserting “in existence on October 7, 1980” after “such programs” in last sentence.
 
-Subsec. (d)(2). Pub. L. 102–54, § 14(d)(4)(B)(iv), amended subsec. (d)(2) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “An activity may not be considered” for “After the date on which such regulations are first prescribed, no activity shall be considered”.
+Subsec. (d)(2). Pub. L. 102–54, § 14(d)(4)(B)(iv), amended subsec. (d)(2) as in effect immediately before the enactment of Pub. L. 102–40 by substituting “An activity may not be considered” for “After the date on which such regulations are first prescribed, no activity shall be considered”.
 
-1985—Subsec. (a). Pub. L. 99–166, § 201(1), inserted “(other than reports submitted pursuant to section 4152(b) of this title)” after “program”.
+1985—Subsec. (a). Pub. L. 99–166, § 201(1), inserted “(other than reports submitted pursuant to section 4152(b) of this title)” after “program”.
 
-Subsec. (b)(6). Pub. L. 99–166, § 201(2), added par. (6).
+Subsec. (b)(6). Pub. L. 99–166, § 201(2), added par. (6).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -741,7 +741,7 @@ Subsec. (b)(6). Pub. L. 99–166, § 201(2), added par. (6).
 
 Section effective Oct. 7, 1980, see section 601(d) of Pub. L. 96–385, set out as an Effective Date of 1980 Amendment note under section 1114 of this title.
 
-### § 5706. Veterans identification card
+### § 5706. Veterans identification card
 
 **(a) In General.—** The Secretary of Veterans Affairs shall issue an identification card described in subsection (b) to each veteran who—
 
@@ -805,17 +805,17 @@ Section effective Oct. 7, 1980, see section 601(d) of Pub. L. 96–385, set out 
 
 **(f) Construction.—** This section shall not be construed to affect identification cards otherwise provided by the Secretary to veterans enrolled in the health care system established under section 1705(a) of this title.
 
-(Added Pub. L. 114–31, § 2(b), July 20, 2015, 129 Stat. 428.)
+(Added Pub. L. 114–31, § 2(b), July 20, 2015, 129 Stat. 428.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 114–31, § 2(d), July 20, 2015, 129 Stat. 430, provided that: “The amendments made by this Act [enacting this section] shall take effect on the date that is 60 days after the date of the enactment of this Act [July 20, 2015].”
+Pub. L. 114–31, § 2(d), July 20, 2015, 129 Stat. 430, provided that: “The amendments made by this Act [enacting this section] shall take effect on the date that is 60 days after the date of the enactment of this Act [July 20, 2015].”
 
 **Veterans Identification Card; Findings**
 
-Pub. L. 114–31, § 2(a), July 20, 2015, 129 Stat. 428, provided that:
+Pub. L. 114–31, § 2(a), July 20, 2015, 129 Stat. 428, provided that:
 
 > “Congress makes the following findings:
 
@@ -831,7 +831,7 @@ Pub. L. 114–31, § 2(a), July 20, 2015, 129 Stat. 428, provided that:
 
 ## SUBCHAPTER II—INVESTIGATIONS
 
-### § 5711. Authority to issue subpoenas
+### § 5711. Authority to issue subpoenas
 
 **(a)** For the purposes of the laws administered by the Secretary, the Secretary, and those employees to whom the Secretary may delegate such authority, to the extent of the authority so delegated, shall have the power to—
 
@@ -847,7 +847,7 @@ Pub. L. 114–31, § 2(a), July 20, 2015, 129 Stat. 428, provided that:
 
 **(b)** Any person required by such subpoena to attend as a witness shall be allowed and paid the same fees and mileage as are paid witnesses in the district courts of the United States.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1237, § 3311; renumbered § 5711, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(d)(5)(A), June 13, 1991, 105 Stat. 286.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1237, § 3311; renumbered § 5711, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(d)(5)(A), June 13, 1991, 105 Stat. 286.)
 
 **Editorial Notes**
 
@@ -857,11 +857,11 @@ Pub. L. 114–31, § 2(a), July 20, 2015, 129 Stat. 428, provided that:
 
 Pub. L. 102–54 amended section as in effect immediately before the enactment of Pub. L. 102–40 by substituting “subpoenas” for “subpenas” in section catchline and amending text generally. Prior to amendment, text read as follows: “For the purposes of the laws administered by the Veterans’ Administration, the Administrator, and those employees to whom the Administrator may delegate such authority, to the extent of the authority so delegated, shall have the power to issue subpenas for and compel the attendance of witnesses within a radius of one hundred miles from the place of hearing, to require the production of books, papers, documents, and other evidence, to take affidavits, to administer oaths and affirmations, to aid claimants in the preparation and presentation of claims, and to make investigations and examine witnesses upon any matter within the jurisdiction of the Veterans’ Administration. Any person required by such subpena to attend as a witness shall be allowed and paid the same fees and mileage as are paid witnesses in the district courts of the United States.”
 
-### § 5712. Validity of affidavits
+### § 5712. Validity of affidavits
 
 Any such oath, affirmation, affidavit, or examination, when certified under the hand of any such employee by whom it was administered or taken and authenticated by the seal of the Department, may be offered or used in any court of the United States and without further proof of the identity or authority of such employee shall have like force and effect as if administered or taken before a clerk of such court.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1237, § 3312; renumbered § 5712, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1237, § 3312; renumbered § 5712, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404.)
 
 **Editorial Notes**
 
@@ -871,11 +871,11 @@ Any such oath, affirmation, affidavit, or examination, when certified under the 
 
 Pub. L. 102–83 substituted “Department” for “Veterans’ Administration”.
 
-### § 5713. Disobedience to subpoena
+### § 5713. Disobedience to subpoena
 
 In case of disobedience to any such subpoena, the aid of any district court of the United States may be invoked in requiring the attendance and testimony of witnesses and the production of documentary evidence, and such court within the jurisdiction of which the inquiry is carried on may, in case of contumacy or refusal to obey a subpoena issued to any officer, agent, or employee of any corporation or to any other person, issue an order requiring such corporation or other person to appear or to give evidence touching the matter in question; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1237, § 3313; renumbered § 5713, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(d)(6)(A), (B), June 13, 1991, 105 Stat. 286.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1237, § 3313; renumbered § 5713, Pub. L. 102–40, title IV, § 402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, § 14(d)(6)(A), (B), June 13, 1991, 105 Stat. 286.)
 
 **Editorial Notes**
 
@@ -887,11 +887,11 @@ Pub. L. 102–54 amended section as in effect immediately before the enactment o
 
 ## SUBCHAPTER III—INFORMATION SECURITY
 
-### § 5721. Purpose
+### § 5721. Purpose
 
 The purpose of the Information Security Program is to establish a program to provide security for Department information and information systems commensurate to the risk of harm, and to communicate the responsibilities of the Secretary, Under Secretaries, Assistant Secretaries, other key officials, Assistant Secretary for Information and Technology, Associate Deputy Assistant Secretary for Cyber and Information Security, and Inspector General of the Department of Veterans Affairs as outlined in the provisions of subchapter III of chapter 35 of title 44 (also known as the “Federal Information Security Management Act of 2002”, which was enacted as part of the E-Government Act of 2002 (Public Law 107–347)).
 
-(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3450.)
+(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3450.)
 
 **Editorial Notes**
 
@@ -905,9 +905,9 @@ The E-Government Act of 2002, referred to in text, is Pub. L. 107–347, Dec. 17
 
 **Regulations**
 
-Pub. L. 109–461, title IX, § 902(c), Dec. 22, 2006, 120 Stat. 3460, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 22, 2006], the Secretary of Veterans Affairs shall prescribe regulations to carry out subchapter III of chapter 57 of title 38, United States Code, as added by subsection (a).”
+Pub. L. 109–461, title IX, § 902(c), Dec. 22, 2006, 120 Stat. 3460, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 22, 2006], the Secretary of Veterans Affairs shall prescribe regulations to carry out subchapter III of chapter 57 of title 38, United States Code, as added by subsection (a).”
 
-### § 5722. Policy
+### § 5722. Policy
 
 **(a) In General.—** The security of Department information and information systems is vital to the success of the mission of the Department. To that end, the Secretary shall establish and maintain a comprehensive Department-wide information security program to provide for the development and maintenance of cost-effective security controls needed to protect Department information, in any media or format, and Department information systems.
 
@@ -939,9 +939,9 @@ Pub. L. 109–461, title IX, § 902(c), Dec. 22, 2006, 120 Stat. 3460, provide
 
 **(c) Compliance With Certain Requirements.—** The Secretary shall comply with the provisions of subchapter III of chapter 35 of title 44 and other related information security requirements promulgated by the National Institute of Standards and Technology and the Office of Management and Budget that define Department information system mandates.
 
-(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3450.)
+(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3450.)
 
-### § 5723. Responsibilities
+### § 5723. Responsibilities
 
 **(a) Secretary of Veterans Affairs.—** In accordance with the provisions of subchapter III of chapter 35 of title 44, the Secretary is responsible for the following:
 
@@ -1061,7 +1061,7 @@ Pub. L. 109–461, title IX, § 902(c), Dec. 22, 2006, 120 Stat. 3460, provide
 
 **(3)** Conducting investigations of complaints and referrals of violations as considered appropriate by the Inspector General.
 
-(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3451; amended Pub. L. 111–275, title X, § 1001(m)(1), Oct. 13, 2010, 124 Stat. 2897.)
+(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3451; amended Pub. L. 111–275, title X, § 1001(m)(1), Oct. 13, 2010, 124 Stat. 2897.)
 
 **Editorial Notes**
 
@@ -1075,7 +1075,7 @@ Pub. L. 109–461, title IX, § 902(c), Dec. 22, 2006, 120 Stat. 3460, provide
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 5724. Provision of credit protection and other services
+### § 5724. Provision of credit protection and other services
 
 **(a) Independent Risk Analysis.—**
 
@@ -1105,7 +1105,7 @@ Committee on Government Reform of House of Representatives changed to Committee 
 
 **(2)** In the event of a data breach with respect to sensitive personal information processed or maintained by the Secretary that is the sensitive personal information of a member of the Army, Navy, Air Force, Marine Corps, or Space Force or a civilian officer or employee of the Department of Defense, the Secretary shall submit the report required under paragraph (1) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in addition to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
 
-(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3455; amended Pub. L. 116–283, div. A, title IX, § 926(h), Jan. 1, 2021, 134 Stat. 3831.)
+(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3455; amended Pub. L. 116–283, div. A, title IX, § 926(h), Jan. 1, 2021, 134 Stat. 3831.)
 
 **Editorial Notes**
 
@@ -1117,7 +1117,7 @@ The date of the enactment of the Veterans Benefits, Health Care, and Information
 
 2021—Subsec. (c)(2). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
-### § 5725. Contracts for data processing or maintenance
+### § 5725. Contracts for data processing or maintenance
 
 **(a) Contract Requirements.—** If the Secretary enters into a contract for the performance of any Department function that requires access to sensitive personal information, the Secretary shall require as a condition of the contract that—
 
@@ -1129,9 +1129,9 @@ The date of the enactment of the Veterans Benefits, Health Care, and Information
 
 **(c) Provision of Credit Protection Services.—** Any amount collected by the Secretary under subsection (b) shall be deposited in or credited to the Department account from which the contractor was paid and shall remain available for obligation without fiscal year limitation exclusively for the purpose of providing credit protection services pursuant to section 5724(b) of this title.
 
-(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3456.)
+(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3456.)
 
-### § 5726. Reports and notice to Congress on data breaches
+### § 5726. Reports and notice to Congress on data breaches
 
 **(a) Quarterly Reports.—**
 
@@ -1151,9 +1151,9 @@ The date of the enactment of the Veterans Benefits, Health Care, and Information
 
 **(3)** Notice under paragraphs (1) and (2) shall be provided promptly following the discovery of such a data breach and the implementation of any measures necessary to determine the scope of the breach, prevent any further breach or unauthorized disclosures, and reasonably restore the integrity of the data system.
 
-(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3457.)
+(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3457.)
 
-### § 5727. Definitions
+### § 5727. Definitions
 
 In this subchapter:
 
@@ -1223,7 +1223,7 @@ In this subchapter:
 
 **(23) Va sensitive data.—** The term “VA sensitive data” means all Department data, on any storage media or in any form or format, which requires protection due to the risk of harm that could result from inadvertent or deliberate disclosure, alteration, or destruction of the information and includes information whose improper use or disclosure could adversely affect the ability of an agency to accomplish its mission, proprietary information, and records about individuals requiring protection under applicable confidentiality provisions.
 
-(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3457; amended Pub. L. 111–275, title X, § 1001(m)(2), Oct. 13, 2010, 124 Stat. 2897.)
+(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3457; amended Pub. L. 111–275, title X, § 1001(m)(2), Oct. 13, 2010, 124 Stat. 2897.)
 
 **Editorial Notes**
 
@@ -1231,8 +1231,8 @@ In this subchapter:
 
 2010—Par. (20). Pub. L. 111–275 substituted “plan that defines” for “subordinate plan defines”.
 
-### § 5728. Authorization of appropriations
+### § 5728. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter such sums as may be necessary for each fiscal year.
 
-(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3460.)
+(Added Pub. L. 109–461, title IX, § 902(a), Dec. 22, 2006, 120 Stat. 3460.)

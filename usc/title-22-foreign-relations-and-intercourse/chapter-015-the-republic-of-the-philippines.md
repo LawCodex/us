@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 ### Part 1—Customs Duties
 
-#### §§ 1251 to 1255. Omitted
+#### §§ 1251 to 1255. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1251, act Apr. 30, 1946, ch. 244, title II, § 201, 60 Stat. 143, provided for entry of Philippine articles into the United States, between May 1, 1946 and July 3, 1954, free of ordinary customs duty.
+Section 1251, act Apr. 30, 1946, ch. 244, title II, § 201, 60 Stat. 143, provided for entry of Philippine articles into the United States, between May 1, 1946 and July 3, 1954, free of ordinary customs duty.
 
-Section 1252, act Apr. 30, 1946, ch. 244, title II, § 202, 60 Stat. 143. Subsec. (a), related to ordinary customs duties on Philippine articles between July 4, 1954 and July 3, 1974. Subsec. (b), which related to ordinary customs duties on Philippine articles for the period after July 3, 1974, was omitted on authority of former section 1345 of this title which nullified subchapter I of this chapter upon the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section 1252, act Apr. 30, 1946, ch. 244, title II, § 202, 60 Stat. 143. Subsec. (a), related to ordinary customs duties on Philippine articles between July 4, 1954 and July 3, 1974. Subsec. (b), which related to ordinary customs duties on Philippine articles for the period after July 3, 1974, was omitted on authority of former section 1345 of this title which nullified subchapter I of this chapter upon the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
-Section 1253, act Apr. 30, 1946, ch. 244, title II, § 203, 60 Stat. 144, related to customs duties on Philippines articles other than ordinary customs duties. See note above for section 1252(b) of this title.
+Section 1253, act Apr. 30, 1946, ch. 244, title II, § 203, 60 Stat. 144, related to customs duties on Philippines articles other than ordinary customs duties. See note above for section 1252(b) of this title.
 
-Section 1254, act Apr. 30, 1946, ch. 244, title II, § 204, 60 Stat. 144, related to equality in special import duties. See note above for section 1252(b) of this title.
+Section 1254, act Apr. 30, 1946, ch. 244, title II, § 204, 60 Stat. 144, related to equality in special import duties. See note above for section 1252(b) of this title.
 
-Section 1255, act Apr. 30, 1946, ch. 244, title II, § 205, 60 Stat. 144, related to equality in duties for products of the Philippines which did not come within the definition of Philippine articles. See note above for section 1252(b) of this title.
+Section 1255, act Apr. 30, 1946, ch. 244, title II, § 205, 60 Stat. 144, related to equality in duties for products of the Philippines which did not come within the definition of Philippine articles. See note above for section 1252(b) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -49,49 +49,49 @@ Proc. No. 3060, July 10, 1954, 19 F.R. 4397, provided that United States article
 
 ### Part 2—Quotas
 
-#### §§ 1261 to 1266. Omitted
+#### §§ 1261 to 1266. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1261, act Apr. 30, 1946, ch. 244, title II, § 211, 60 Stat. 144, related to amount and allocation of quotas for refined and unrefined Philippine sugar, between the period Jan. 1, 1946 and July 3, 1974.
+Section 1261, act Apr. 30, 1946, ch. 244, title II, § 211, 60 Stat. 144, related to amount and allocation of quotas for refined and unrefined Philippine sugar, between the period Jan. 1, 1946 and July 3, 1974.
 
-Section 1262, act Apr. 30, 1946, ch. 244, title II, § 212, 60 Stat. 145, related to amount and allocation of quotas for Philippine cordage, between the period Jan. 1, 1946 and July 3, 1974.
+Section 1262, act Apr. 30, 1946, ch. 244, title II, § 212, 60 Stat. 145, related to amount and allocation of quotas for Philippine cordage, between the period Jan. 1, 1946 and July 3, 1974.
 
-Section 1263, act Apr. 30, 1946, ch. 244, title II, § 213, 60 Stat. 145, related to quota on Philippine rice, between the period Jan. 1, 1946 and July 3, 1974.
+Section 1263, act Apr. 30, 1946, ch. 244, title II, § 213, 60 Stat. 145, related to quota on Philippine rice, between the period Jan. 1, 1946 and July 3, 1974.
 
-Section 1264, act Apr. 30, 1946, ch. 244, title II, § 214, 60 Stat. 146, related to duty-free quotas on cigars, scrap tobacco, coconut oil and buttons of pearl or shell, between the period Jan. 1, 1946 and July 3, 1974.
+Section 1264, act Apr. 30, 1946, ch. 244, title II, § 214, 60 Stat. 146, related to duty-free quotas on cigars, scrap tobacco, coconut oil and buttons of pearl or shell, between the period Jan. 1, 1946 and July 3, 1974.
 
-Section 1265, act Apr. 30, 1946, ch. 244, title II, § 215, 60 Stat. 147, which related to enactment of laws and regulations necessary to put into effect allocations of quotas, was omitted on authority of former section 1345 of this title which nullified subchapter I of this chapter upon expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section 1265, act Apr. 30, 1946, ch. 244, title II, § 215, 60 Stat. 147, which related to enactment of laws and regulations necessary to put into effect allocations of quotas, was omitted on authority of former section 1345 of this title which nullified subchapter I of this chapter upon expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
-Section 1266, act Apr. 30, 1946, ch. 244, title II, § 216, 60 Stat. 147, related to transfers and assignments of quota allotments. See note above for section 1265 of this title.
+Section 1266, act Apr. 30, 1946, ch. 244, title II, § 216, 60 Stat. 147, related to transfers and assignments of quota allotments. See note above for section 1265 of this title.
 
 ### Part 3—Internal Taxes
 
-#### §§ 1271 to 1274. Omitted
+#### §§ 1271 to 1274. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1271, act Apr. 30, 1946, ch. 244, title II, § 221, 60 Stat. 147, which related to equality in internal taxes for Philippine products coming into the United States, was omitted on authority of former section 1345 of this title which nullified subchapter I of this chapter upon expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section 1271, act Apr. 30, 1946, ch. 244, title II, § 221, 60 Stat. 147, which related to equality in internal taxes for Philippine products coming into the United States, was omitted on authority of former section 1345 of this title which nullified subchapter I of this chapter upon expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
-Section 1272, act Apr. 30, 1946, ch. 244, title II, § 222, 60 Stat. 148, related to exemption from tax of manila fiber. See note above for section 1271 of this title.
+Section 1272, act Apr. 30, 1946, ch. 244, title II, § 222, 60 Stat. 148, related to exemption from tax of manila fiber. See note above for section 1271 of this title.
 
-Section 1273, act Apr. 30, 1946, ch. 244, title II, § 223, 60 Stat. 148, prohibited export taxes by the United States on articles exported to the Philippines. See note above for section 1271 of this title.
+Section 1273, act Apr. 30, 1946, ch. 244, title II, § 223, 60 Stat. 148, prohibited export taxes by the United States on articles exported to the Philippines. See note above for section 1271 of this title.
 
-Section 1274, act Apr. 30, 1946, ch. 244, title II, § 224, 60 Stat. 148, provided an exemption from taxes for articles for official use of the Philippine Government. See note above for section 1271 of this title.
+Section 1274, act Apr. 30, 1946, ch. 244, title II, § 224, 60 Stat. 148, provided an exemption from taxes for articles for official use of the Philippine Government. See note above for section 1271 of this title.
 
 ### Part 4—Immigration
 
-#### § 1281. Omitted
+#### § 1281. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Apr. 30, 1946, ch. 244, title II, § 231, 60 Stat. 148, which provided that certain Philippine citizens be granted non-quota status, was omitted on authority of former section 1345 of this title which nullified subchapter I of this chapter upon the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section, act Apr. 30, 1946, ch. 244, title II, § 231, 60 Stat. 148, which provided that certain Philippine citizens be granted non-quota status, was omitted on authority of former section 1345 of this title which nullified subchapter I of this chapter upon the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -111,121 +111,121 @@ The immigration quota of 50 authorized by section 8(a)(1) of the Act approved Ma
 
 The immigration quota assigned to the Philippine Islands is designed solely for purposes of compliance with the pertinent provisions of the Immigration Act of 1924 [section 145 et seq. of Title 8, Aliens and Nationality] and is not to be regarded as having any significance extraneous to this subject.
 
-#### § 1281a. Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(35), 666 Stat. 279
+#### § 1281a. Repealed. June 27, 1952, ch. 477, title IV, § 403(a)(35), 666 Stat. 279
 
-Section, act Mar. 24, 1934, ch. 84, § 14, 48 Stat. 464, related to immigration after independence. See section 1151 et seq. of Title 8, Aliens and Nationality.
+Section, act Mar. 24, 1934, ch. 84, § 14, 48 Stat. 464, related to immigration after independence. See section 1151 et seq. of Title 8, Aliens and Nationality.
 
 ## SUBCHAPTER II—OBLIGATIONS OF PHILIPPINES
 
 ### Part 1—Purposes
 
-#### § 1291. Omitted
+#### § 1291. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Apr. 30, 1946, ch. 244, title III, § 301, 60 Stat. 148, which stated the purposes of this subchapter, was omitted on authority of subsec. (b)(1) of this section which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section, act Apr. 30, 1946, ch. 244, title III, § 301, 60 Stat. 148, which stated the purposes of this subchapter, was omitted on authority of subsec. (b)(1) of this section which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
 ### Part 2—Customs Duties
 
-#### §§ 1301 to 1305. Omitted
+#### §§ 1301 to 1305. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1301, act Apr. 30, 1946, ch. 244, title III, § 311, 60 Stat. 149, provided for entry of United States articles into Philippines, between May 1, 1946, and July 3, 1954, free of ordinary customs duties.
+Section 1301, act Apr. 30, 1946, ch. 244, title III, § 311, 60 Stat. 149, provided for entry of United States articles into Philippines, between May 1, 1946, and July 3, 1954, free of ordinary customs duties.
 
-Section 1302, act Apr. 30, 1946, ch. 244, title III, § 312, 60 Stat. 149. Subsec. (a) related to ordinary customs duties on United States articles between July 4, 1954, and July 3, 1974. Subsec. (b), which related ordinary customs duties on United States articles after July 3, 1974, was omitted on authority of section 1291(b)(1) of this title which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section 1302, act Apr. 30, 1946, ch. 244, title III, § 312, 60 Stat. 149. Subsec. (a) related to ordinary customs duties on United States articles between July 4, 1954, and July 3, 1974. Subsec. (b), which related ordinary customs duties on United States articles after July 3, 1974, was omitted on authority of section 1291(b)(1) of this title which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
-Section 1303, act Apr. 30, 1946, ch. 244, title III, § 313, 60 Stat. 149, related to customs duties on United States articles other than ordinary customs duties. See note above for section 1302(b) of this title.
+Section 1303, act Apr. 30, 1946, ch. 244, title III, § 313, 60 Stat. 149, related to customs duties on United States articles other than ordinary customs duties. See note above for section 1302(b) of this title.
 
-Section 1304, act Apr. 30, 1946, ch. 244, title III, § 314, 60 Stat. 150, related to equality in special import duties. See note above for section 1302(b) of this title.
+Section 1304, act Apr. 30, 1946, ch. 244, title III, § 314, 60 Stat. 150, related to equality in special import duties. See note above for section 1302(b) of this title.
 
-Section 1305, act Apr. 30, 1946, ch. 244, title III, § 315, 60 Stat. 150, related to equality in duties for products of the United States which did not come within the definition of United States articles. See note above for section 1302(b) of this title.
+Section 1305, act Apr. 30, 1946, ch. 244, title III, § 315, 60 Stat. 150, related to equality in duties for products of the United States which did not come within the definition of United States articles. See note above for section 1302(b) of this title.
 
 ### Part 3—Internal Taxes
 
-#### §§ 1311 to 1313. Omitted
+#### §§ 1311 to 1313. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1311, act Apr. 30, 1946, ch. 244, title III, § 321, 60 Stat. 150, which related to equality in internal taxes for United States products coming into the Philippines, was omitted on authority of section 1291(b)(1) of this title which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section 1311, act Apr. 30, 1946, ch. 244, title III, § 321, 60 Stat. 150, which related to equality in internal taxes for United States products coming into the Philippines, was omitted on authority of section 1291(b)(1) of this title which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
-Section 1312, act Apr. 30, 1946, ch. 244, title III, § 322, 60 Stat. 150, prohibited export taxes by the Philippines on articles exported to the United States. See note above for section 1311 of this title.
+Section 1312, act Apr. 30, 1946, ch. 244, title III, § 322, 60 Stat. 150, prohibited export taxes by the Philippines on articles exported to the United States. See note above for section 1311 of this title.
 
-Section 1313, act Apr. 30, 1946, ch. 244, title III, § 323, 60 Stat. 150, provided an exemption from taxes for articles for official use of the United States Government. See note above for section 1311 of this title.
+Section 1313, act Apr. 30, 1946, ch. 244, title III, § 323, 60 Stat. 150, provided an exemption from taxes for articles for official use of the United States Government. See note above for section 1311 of this title.
 
 ### Part 4—Immigration
 
-#### §§ 1321, 1322. Omitted
+#### §§ 1321, 1322. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1321, act Apr. 30, 1946, ch. 244, title III, § 331, 60 Stat. 151, which provided that certain United States citizens be granted non-quota status, was omitted on authority of section 1291(b)(1) of this title which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section 1321, act Apr. 30, 1946, ch. 244, title III, § 331, 60 Stat. 151, which provided that certain United States citizens be granted non-quota status, was omitted on authority of section 1291(b)(1) of this title which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
-Section 1322, act Apr. 30, 1946, ch. 244, title III, § 332, 60 Stat. 151, provided for immigration of United States citizens into the Philippines. See note above for section 1321 of this title.
+Section 1322, act Apr. 30, 1946, ch. 244, title III, § 332, 60 Stat. 151, provided for immigration of United States citizens into the Philippines. See note above for section 1321 of this title.
 
 ### Part 5—General Provisions
 
-#### §§ 1331 to 1334. Omitted
+#### §§ 1331 to 1334. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1331, act Apr. 30, 1946, ch. 244, title III, § 341, 60 Stat. 151, which related to rights of United States citizens and business enterprises to natural resources in the Philippines, was omitted on authority of section 1291(b)(1) of this title which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section 1331, act Apr. 30, 1946, ch. 244, title III, § 341, 60 Stat. 151, which related to rights of United States citizens and business enterprises to natural resources in the Philippines, was omitted on authority of section 1291(b)(1) of this title which provided that this subchapter be effective until the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
-Section 1332, act Apr. 30, 1946, ch. 244, title III, § 342, 60 Stat. 151, provided for currency stabilization between the United States and the Philippines. See note above for section 1331 of this title.
+Section 1332, act Apr. 30, 1946, ch. 244, title III, § 342, 60 Stat. 151, provided for currency stabilization between the United States and the Philippines. See note above for section 1331 of this title.
 
-Section 1333, acts June 11, 1934, ch. 445, 48 Stat. 929; Aug. 7, 1946, ch. 809, § 1, 60 Stat. 901, which related to deposits of and interest on public moneys, terminated on July 1, 1951, under the provisions of section 2 of act Aug. 7, 1946.
+Section 1333, acts June 11, 1934, ch. 445, 48 Stat. 929; Aug. 7, 1946, ch. 809, § 1, 60 Stat. 901, which related to deposits of and interest on public moneys, terminated on July 1, 1951, under the provisions of section 2 of act Aug. 7, 1946.
 
-Section 1334, act Apr. 30, 1946, ch. 244, title III, § 343, 60 Stat. 151, related to allocation of quotas established by sections 1261, 1262, and 1264 of this title. See note above for section 1331 of this title.
+Section 1334, act Apr. 30, 1946, ch. 244, title III, § 343, 60 Stat. 151, related to allocation of quotas established by sections 1261, 1262, and 1264 of this title. See note above for section 1331 of this title.
 
 ## SUBCHAPTER III—EXECUTIVE AGREEMENT BETWEEN UNITED STATES AND PHILIPPINES
 
-### §§ 1341 to 1348. Omitted
+### §§ 1341 to 1348. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1341, act Apr. 30, 1946, ch. 244, title IV, § 401, 60 Stat. 151, which provided authorization for an executive agreement between United States and Republic of Philippines concerning trade and other related matters, was omitted in view of expiration of revised agreement concerning trade and other related matters which occurred on July 4, 1974.
+Section 1341, act Apr. 30, 1946, ch. 244, title IV, § 401, 60 Stat. 151, which provided authorization for an executive agreement between United States and Republic of Philippines concerning trade and other related matters, was omitted in view of expiration of revised agreement concerning trade and other related matters which occurred on July 4, 1974.
 
-Section 1342, act Apr. 30, 1946, ch. 244, title IV, § 402, 60 Stat. 152, specified obligations of Philippines. See note above for section 1341 of this title.
+Section 1342, act Apr. 30, 1946, ch. 244, title IV, § 402, 60 Stat. 152, specified obligations of Philippines. See note above for section 1341 of this title.
 
-Section 1343, act Apr. 30, 1946, ch. 244, title IV, § 403, 60 Stat. 153, specified obligations of United States. See note above for section 1341 of this title.
+Section 1343, act Apr. 30, 1946, ch. 244, title IV, § 403, 60 Stat. 153, specified obligations of United States. See note above for section 1341 of this title.
 
-Section 1344, act Apr. 30, 1946, ch. 244, title IV, § 404, 60 Stat. 153, related to provisions concerning termination of agreement. See note above for section 1341 of this title.
+Section 1344, act Apr. 30, 1946, ch. 244, title IV, § 404, 60 Stat. 153, related to provisions concerning termination of agreement. See note above for section 1341 of this title.
 
-Section 1345, act Apr. 30, 1946, ch. 244, title IV, § 405, 60 Stat. 154, provided that upon expiration of agreement the provisions of subchapter I of this chapter shall cease to have effect. See note above for section 1341 of this title.
+Section 1345, act Apr. 30, 1946, ch. 244, title IV, § 405, 60 Stat. 154, provided that upon expiration of agreement the provisions of subchapter I of this chapter shall cease to have effect. See note above for section 1341 of this title.
 
-Section 1346, act Apr. 30, 1946, ch. 244, title IV, § 406, 60 Stat. 154, related to interpretation of agreement. See note above for section 1341 of this title.
+Section 1346, act Apr. 30, 1946, ch. 244, title IV, § 406, 60 Stat. 154, related to interpretation of agreement. See note above for section 1341 of this title.
 
-Section 1347, act Apr. 30, 1946, ch. 244, title IV, § 407, 60 Stat. 154, related to termination of authority to make the agreement. See note above for section 1341 of this title.
+Section 1347, act Apr. 30, 1946, ch. 244, title IV, § 407, 60 Stat. 154, related to termination of authority to make the agreement. See note above for section 1341 of this title.
 
-Section 1348, act Apr. 30, 1946, ch. 244, title IV, § 408, 60 Stat. 154, related to effective date of the agreement. See note above for section 1341 of this title.
+Section 1348, act Apr. 30, 1946, ch. 244, title IV, § 408, 60 Stat. 154, related to effective date of the agreement. See note above for section 1341 of this title.
 
 ## SUBCHAPTER IV—GENERAL PROVISIONS RELATING TO TRADE RELATIONS
 
-### §§ 1351 to 1353. Omitted
+### §§ 1351 to 1353. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1351, act Apr. 30, 1946, ch. 244, title V, § 501, 60 Stat. 155, which related to suspension and termination of trade agreement in case of discrimination, was omitted in view of the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section 1351, act Apr. 30, 1946, ch. 244, title V, § 501, 60 Stat. 155, which related to suspension and termination of trade agreement in case of discrimination, was omitted in view of the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
-Section 1352, act Apr. 30, 1946, ch. 244, title V, § 502, 60 Stat. 155, which related to suspension of provisions of subchapter I of this chapter, was omitted on authority of former section 1345 of this title which nullified subchapter I of this chapter upon the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section 1352, act Apr. 30, 1946, ch. 244, title V, § 502, 60 Stat. 155, which related to suspension of provisions of subchapter I of this chapter, was omitted on authority of former section 1345 of this title which nullified subchapter I of this chapter upon the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
-Section 1353, act Apr. 30, 1946, ch. 244, title V, § 503, 60 Stat. 156, related to customs duties on imports from Philippines during period subchapter I of this chapter was in effect. See note above for section 1352 of this title.
+Section 1353, act Apr. 30, 1946, ch. 244, title V, § 503, 60 Stat. 156, related to customs duties on imports from Philippines during period subchapter I of this chapter was in effect. See note above for section 1352 of this title.
 
-### § 1354. Quotas on Philippine articles
+### § 1354. Quotas on Philippine articles
 
 **(a) to (c) Omitted**
 
@@ -233,7 +233,7 @@ Section 1353, act Apr. 30, 1946, ch. 244, title V, § 503, 60 Stat. 156, relat
 
 The United States International Trade Commission shall at the request of the President, upon resolution of either House of Congress or concurrent resolution of both Houses of Congress, upon its own motion, or when in its judgment there is good reason therefor, upon application of any interested party, make an investigation to ascertain (1) whether imports of a Philippine article (other than an article for which a quota is established by part 2 of subchapter I) are coming, or are likely to come, into substantial competition with like articles which are the product of the United States; (2) what is the greatest amount of such article which may be entered, or withdrawn from warehouse, in the United States for consumption, without coming into substantial competition with like articles which are the product of the United States; and (3) the total amount of such article which (during the twelve months ended on the last day of the month preceding the month in which occurs the date of the beginning of the investigation) was entered, or withdrawn from warehouse, in the United States for consumption. During the course of the investigation the Commission shall hold a public hearing, of which reasonable public notice shall be given and at which parties interested shall be afforded reasonable opportunity to be present, to produce evidence, and to be heard. The Commission shall give precedence to such investigations. The Commission shall report the results of its investigations to the President, and shall send copies of such report to each House of the Congress.
 
-(Apr. 30, 1946, ch. 244, title V, § 504, 60 Stat. 156; Pub. L. 93–618, title I, § 171(b), Jan. 3, 1975, 88 Stat. 2009.)
+(Apr. 30, 1946, ch. 244, title V, § 504, 60 Stat. 156; Pub. L. 93–618, title I, § 171(b), Jan. 3, 1975, 88 Stat. 2009.)
 
 **Suspension of Provisions**
 
@@ -257,17 +257,17 @@ Subsec. (a) of this section, which provided that the President establish quotas 
 
 **Effective Date**
 
-Act Apr. 30, 1946, ch. 244, title V, § 512, 60 Stat. 158, provided that: “This Act [enacting subchapters I to IV of this chapter; sections 2470(a)(2) and 2800(a)(4)(B) of the Internal Revenue Code of 1939; and section 734 of Title 48, Territories and Insular Possessions] shall take effect on the day after the date of its enactment [Apr. 30, 1946], except Part 2 of Title II [enacting sections 1261 to 1266 of this title], which shall take effect as of January 1, 1946.”
+Act Apr. 30, 1946, ch. 244, title V, § 512, 60 Stat. 158, provided that: “This Act [enacting subchapters I to IV of this chapter; sections 2470(a)(2) and 2800(a)(4)(B) of the Internal Revenue Code of 1939; and section 734 of Title 48, Territories and Insular Possessions] shall take effect on the day after the date of its enactment [Apr. 30, 1946], except Part 2 of Title II [enacting sections 1261 to 1266 of this title], which shall take effect as of January 1, 1946.”
 
 **Short Title**
 
-Act Apr. 30, 1946, ch. 244, title I, § 1, 60 Stat. 141, provided that: “This Act [enacting subchapters I to IV of this chapter, amending section 1393 of this title, sections 2470 and 2800 of the Internal Revenue Code of 1939, and section 734 of Title 48, Territories and Insular Possessions, repealing section 1301 of Title 19, Customs Duties, sections 2476, and 3340 to 3343 of the Internal Revenue Code of 1939, and section 1243 of Title 48] may be cited as the ‘Philippine Trade Act of 1946’.”
+Act Apr. 30, 1946, ch. 244, title I, § 1, 60 Stat. 141, provided that: “This Act [enacting subchapters I to IV of this chapter, amending section 1393 of this title, sections 2470 and 2800 of the Internal Revenue Code of 1939, and section 734 of Title 48, Territories and Insular Possessions, repealing section 1301 of Title 19, Customs Duties, sections 2476, and 3340 to 3343 of the Internal Revenue Code of 1939, and section 1243 of Title 48] may be cited as the ‘Philippine Trade Act of 1946’.”
 
-### § 1355. Suspension of processing tax on coconut oil
+### § 1355. Suspension of processing tax on coconut oil
 
 Whenever the President, after consultation with the President of the Philippines, finds that adequate supplies of neither copra nor coconut oil, the product of the Philippines, are readily available for processing in the United States, he shall so proclaim, and after the date of such proclamation the provisions of section 2470(a)(2) of the Internal Revenue Code shall be suspended until the expiration of 30 days after he proclaims that, after consultation with the President of the Philippines, he has found that such adequate supplies are so readily available.
 
-(Apr. 30, 1946, ch. 244, title V, § 505(b), 60 Stat. 157.)
+(Apr. 30, 1946, ch. 244, title V, § 505(b), 60 Stat. 157.)
 
 **Suspension of Provisions**
 
@@ -277,7 +277,7 @@ Section not applicable during such time as the revised agreement between the Uni
 
 **References in Text**
 
-Section 2470(a)(2) of the Internal Revenue Code, referred to in text, is a reference to section 2470(a)(2) of the Internal Revenue Code of 1939. Section 2470 was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26, and was reenacted as sections 4511 and 4513 of Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. Sections 4511 and 4513 of Title 26 were repealed by Pub. L. 87–456, title III, § 302(d), May 24, 1962, 76 Stat. 77, effective Aug. 31, 1963.
+Section 2470(a)(2) of the Internal Revenue Code, referred to in text, is a reference to section 2470(a)(2) of the Internal Revenue Code of 1939. Section 2470 was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26, and was reenacted as sections 4511 and 4513 of Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. Sections 4511 and 4513 of Title 26 were repealed by Pub. L. 87–456, title III, § 302(d), May 24, 1962, 76 Stat. 77, effective Aug. 31, 1963.
 
 **Executive Documents**
 
@@ -289,11 +289,11 @@ By Proc. No. 2847, July 28, 1949, 14 F.R. 4773, 63 Stat. 1279, the President fou
 
 By Proc. No. 2693, June 28, 1946, 11 F.R. 7255, 60 Stat. 1349, the President found that “adequate supplies of neither copra nor coconut oil, the product of the Philippines, are readily available for processing in the United States,” and therefore the provisions of section 2470(a)(2) of the Internal Revenue Code of 1939 are suspended.
 
-### § 1356. Termination of payments into Philippine treasury
+### § 1356. Termination of payments into Philippine treasury
 
 Notwithstanding the provisions of section 4 of the Act of March 8, 1902 (32 Stat. 54, ch. 140), or of section 19 of the Act of March 24, 1934 (48 Stat. 456, ch. 84), as added to such Act by section 6 of the Act of August 7, 1939 (53 Stat. 1232, ch. 502), or of the Act of November 8, 1945 (59 Stat. 577, ch. 454) or of any other provision of law, the proceeds of any duties or taxes, collected subsequent to July 3, 1946, which but for the enactment of this Act would be required to be paid into the general funds of the Treasury of the Philippines or would be held in separate or special funds and paid into the Treasury of the Philippines, shall be covered into the general fund of the Treasury of the United States.
 
-(Apr. 30, 1946, ch. 244, title V, § 506(a), 60 Stat. 157.)
+(Apr. 30, 1946, ch. 244, title V, § 506(a), 60 Stat. 157.)
 
 **Suspension of Provisions**
 
@@ -303,7 +303,7 @@ Section not applicable during such time as the revised agreement between the Uni
 
 **References in Text**
 
-Section 4 of the Act of March 8, 1902 (32 Stat. 54, ch. 140), referred to in text, was classified to section 123a of Title 19, Customs Duties, and was transferred to section 3343(b) of the Internal Revenue Code of 1939, and subsequently repealed by act Apr. 30, 1946, ch. 244, title V, § 506(b), 60 Stat. 157, eff. July 4, 1946.
+Section 4 of the Act of March 8, 1902 (32 Stat. 54, ch. 140), referred to in text, was classified to section 123a of Title 19, Customs Duties, and was transferred to section 3343(b) of the Internal Revenue Code of 1939, and subsequently repealed by act Apr. 30, 1946, ch. 244, title V, § 506(b), 60 Stat. 157, eff. July 4, 1946.
 
 Section 19 of the Act of March 24, 1934 (48 Stat. 456, ch. 84), as added to such Act by section 6 of the Act of August 7, 1939 (53 Stat. 1232, ch. 502), referred to in text, was classified to section 1248 of Title 48, Territories and Insular Possessions, which was omitted from the Code.
 
@@ -311,11 +311,11 @@ Act of November 8, 1945 (59 Stat. 577, ch. 454), referred to in text, was classi
 
 This Act, referred to in text, is act Apr. 30, 1946, ch. 244, 60 Stat. 141, known as the Philippine Trade Act of 1946, which is classified principally to subchapters I to IV of this chapter. Subchapters I, II, and III of this chapter were omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1354 of this title and Tables.
 
-### § 1357. Trade agreements with the Philippines
+### § 1357. Trade agreements with the Philippines
 
 Until July 4, 1974, no trade agreement shall be made with the Philippines under section 1351 of title 19, unless, prior to such time, the President of the United States has made the proclamation provided for in section 1347 of this title, or the executive agreement provided for in subchapter III of this chapter has been terminated.
 
-(Apr. 30, 1946, ch. 244, title V, § 508, 60 Stat. 158.)
+(Apr. 30, 1946, ch. 244, title V, § 508, 60 Stat. 158.)
 
 **Suspension of Provisions**
 
@@ -327,11 +327,11 @@ Section not applicable during such time as the revised agreement between the Uni
 
 The executive agreement provided for in subchapter III of this chapter, referred to in text, expired July 4, 1974.
 
-### § 1358. Rights of third countries
+### § 1358. Rights of third countries
 
 The benefits granted by subchapters I to IV of this chapter, and by the executive agreement provided for in subchapter III, to the Philippines, Philippine articles or products, and Philippine citizens, shall not, by reason of any provision of any existing treaty or agreement with any third country, be extended to such country or its products, citizens, or subjects.
 
-(Apr. 30, 1946, ch. 244, title V, § 509, 60 Stat. 158.)
+(Apr. 30, 1946, ch. 244, title V, § 509, 60 Stat. 158.)
 
 **Suspension of Provisions**
 
@@ -345,15 +345,15 @@ Subchapters I to IV of this chapter, referred to in text, was in the original �
 
 The executive agreement provided for in subchapter III of this chapter, referred to in text, expired July 4, 1974.
 
-### § 1359. Omitted
+### § 1359. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Apr. 30, 1946, ch. 244, title V, § 510, 60 Stat. 158, related to administration of subchapter I of this chapter. See Codification note for section 1352 of this title.
+Section, act Apr. 30, 1946, ch. 244, title V, § 510, 60 Stat. 158, related to administration of subchapter I of this chapter. See Codification note for section 1352 of this title.
 
-### § 1360. Definitions
+### § 1360. Definitions
 
 **(a)** For the purposes of subchapters I to IV of this chapter—
 
@@ -397,7 +397,7 @@ Section, act Apr. 30, 1946, ch. 244, title V, § 510, 60 Stat. 158, related to
 
 **(d)** The terms “includes” and “including” when used in a definition contained in subchapters I to IV of this chapter shall not be deemed to exclude other things otherwise within the meaning of the term defined.
 
-(Apr. 30, 1946, ch. 244, title I, § 2, 60 Stat. 141.)
+(Apr. 30, 1946, ch. 244, title I, § 2, 60 Stat. 141.)
 
 **Suspension of Provisions**
 
@@ -409,9 +409,9 @@ Section not applicable during such time as the revised agreement between the Uni
 
 Subchapters I to IV of this chapter, referred to in subsecs. (a) and (d), was in the original “this Act”, meaning act Apr. 30, 1946, ch. 244, 60 Stat. 141, known as the Philippine Trade Act of 1946, which is classified principally to subchapters I to IV of this chapter. Subchapters I, II, and III of this chapter, which include sections 1271 and 1311 of this title, referred to in subsec. (b), were omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1354 of this title and Tables.
 
-Sections 2470 and 2491(c) of the Internal Revenue Code, referred to in subsec. (a)(3)(E), (8)(A), are references to sections 2470 and 2491(c) of the Internal Revenue Code of 1939, which were repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. Section 2470 was reenacted as sections 4511 and 4513 of Title 26, and section 2491 was reenacted as part of sections 4581 and 4582 of Title 26. Sections 4511, 4513, 4581, and 4582 of Title 26 were repealed by Pub. L. 87–456, title III, § 302(d), May 24, 1962, 76 Stat. 77, effective Aug. 31, 1963.
+Sections 2470 and 2491(c) of the Internal Revenue Code, referred to in subsec. (a)(3)(E), (8)(A), are references to sections 2470 and 2491(c) of the Internal Revenue Code of 1939, which were repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. Section 2470 was reenacted as sections 4511 and 4513 of Title 26, and section 2491 was reenacted as part of sections 4581 and 4582 of Title 26. Sections 4511, 4513, 4581, and 4582 of Title 26 were repealed by Pub. L. 87–456, title III, § 302(d), May 24, 1962, 76 Stat. 77, effective Aug. 31, 1963.
 
-Section 3500 of the Internal Revenue Code, referred to in subsec. (a)(3)(E), (8)(A), is reference to section 3500 of the Internal Revenue Code of 1939, which was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. See section 4501 of Title 26, Internal Revenue Code.
+Section 3500 of the Internal Revenue Code, referred to in subsec. (a)(3)(E), (8)(A), is reference to section 3500 of the Internal Revenue Code of 1939, which was repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. See section 4501 of Title 26, Internal Revenue Code.
 
 **Executive Documents**
 
@@ -421,35 +421,35 @@ Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 326
 
 ## SUBCHAPTER IV–A—TRADE RELATIONS UNDER REVISED AGREEMENT
 
-### §§ 1371, 1372. Omitted
+### §§ 1371, 1372. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1371, act Aug. 1, 1955, ch. 438, title I, § 2, 69 Stat. 413, which defined revised agreement, was omitted in view of the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
+Section 1371, act Aug. 1, 1955, ch. 438, title I, § 2, 69 Stat. 413, which defined revised agreement, was omitted in view of the expiration of the revised agreement between the United States and the Republic of the Philippines which occurred on July 4, 1974.
 
-Section 1372, act Aug. 1, 1955, ch. 438, title II, § 201, 69 Stat. 413, authorized revised agreement. See Codification note for section 1371 of this title.
+Section 1372, act Aug. 1, 1955, ch. 438, title II, § 201, 69 Stat. 413, authorized revised agreement. See Codification note for section 1371 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Revised Agreement Between United States and Philippines**
 
-Act Aug. 1, 1955, ch. 438, title II, § 201, 69 Stat. 413, provided in part for a revised agreement, accompanied by a protocol, between the United States and the Republic of the Philippines concerning trade and other related matters during a transitional period following the institution of Philippine Independence on July 4, 1946, which agreement by the terms of Article XI thereof, was to have no effect after July 3, 1974.
+Act Aug. 1, 1955, ch. 438, title II, § 201, 69 Stat. 413, provided in part for a revised agreement, accompanied by a protocol, between the United States and the Republic of the Philippines concerning trade and other related matters during a transitional period following the institution of Philippine Independence on July 4, 1946, which agreement by the terms of Article XI thereof, was to have no effect after July 3, 1974.
 
 **Modification of Text of Revised Agreement**
 
-Act Aug. 1, 1955, ch. 438, title II, § 202, 69 Stat. 425, provided that the text of the revised agreement between the United States and the Republic of the Philippines concerning trade and other related matters during a transitional period after Philippine independence was to be modified only to the extent necessary to correct errors or references to laws, to reflect executive or legislative action taken by the Philippines, or merely as changes in style.
+Act Aug. 1, 1955, ch. 438, title II, § 202, 69 Stat. 425, provided that the text of the revised agreement between the United States and the Republic of the Philippines concerning trade and other related matters during a transitional period after Philippine independence was to be modified only to the extent necessary to correct errors or references to laws, to reflect executive or legislative action taken by the Philippines, or merely as changes in style.
 
 **Duty-Free Treatment for Scrap Tobacco and Filler Tobacco**
 
 Pub. L. 87–47, June 16, 1961, 75 Stat. 92, provided that the duty-free treatment for scrap tobacco and filler tobacco described in item B in the schedule to paragraph 2 of article II of the agreement between the United States and the Republic of the Philippines concerning trade and other related matters during a transitional period after Philippine independence, as revised, was to apply only to articles certified by the Philippines as having been allocated for exportation to the United States free of duty under that paragraph.
 
-### § 1373. Suspension of Philippine Trade Act of 1946
+### § 1373. Suspension of Philippine Trade Act of 1946
 
 The Philippine Trade Act of 1946 [22 U.S.C. 1251 et seq.] (except section 506(a) of this title [22 U.S.C. 1356] relating to termination of payments into Philippine Treasury, and except amendments and repeals made by such Act) shall not apply during such time as the revised agreement is in effect.
 
-(Aug. 1, 1955, ch. 438, title III, § 302, 69 Stat. 426.)
+(Aug. 1, 1955, ch. 438, title III, § 302, 69 Stat. 426.)
 
 **Editorial Notes**
 
@@ -463,55 +463,55 @@ The revised agreement, referred to in text, was set out as a note under section 
 
 **Effective Date**
 
-Act Aug. 1, 1955, ch. 438, title III, § 301(b), 69 Stat. 426, provided that: “The provisions of this title [enacting sections 1373 to 1379 of this title and amending section 734 of Title 48, Territories and Insular Possessions] shall take effect on January 1, 1956, but only if the President of the United States has made the proclamation referred to in subsection (a) [section 1379 of this title].”
+Act Aug. 1, 1955, ch. 438, title III, § 301(b), 69 Stat. 426, provided that: “The provisions of this title [enacting sections 1373 to 1379 of this title and amending section 734 of Title 48, Territories and Insular Possessions] shall take effect on January 1, 1956, but only if the President of the United States has made the proclamation referred to in subsection (a) [section 1379 of this title].”
 
 **Short Title**
 
-Act Aug. 1, 1955, ch. 438, title I, § 1, 69 Stat. 413, provided that: “This Act [enacting this subchapter and amending section 734 of Title 48, Territories and Insular Possessions] may be cited as the ‘Philippine Trade Agreement Revision Act of 1955’.”
+Act Aug. 1, 1955, ch. 438, title I, § 1, 69 Stat. 413, provided that: “This Act [enacting this subchapter and amending section 734 of Title 48, Territories and Insular Possessions] may be cited as the ‘Philippine Trade Agreement Revision Act of 1955’.”
 
-### §§ 1374 to 1379. Omitted
+### §§ 1374 to 1379. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section 1374, act Aug. 1, 1955, ch. 438, title III, § 303, 69 Stat. 426, related to quotas established by article III of the revised agreement. See Codification note for section 1371 of this title.
+Section 1374, act Aug. 1, 1955, ch. 438, title III, § 303, 69 Stat. 426, related to quotas established by article III of the revised agreement. See Codification note for section 1371 of this title.
 
-Section 1375, act Aug. 1, 1955, ch. 438, title III, § 304, 69 Stat. 426, related to suspension of processing tax on coconut oil. See Codification note for section 1371 of this title.
+Section 1375, act Aug. 1, 1955, ch. 438, title III, § 304, 69 Stat. 426, related to suspension of processing tax on coconut oil. See Codification note for section 1371 of this title.
 
-Section 1376, act Aug. 1, 1955, ch. 438, title III, § 305, 69 Stat. 426, provided that prior to July 4, 1974, no trade agreement be entered into with Republic of Philippines that would be inconsistent with this subchapter or revised agreement. See Codification note for section 1371 of this title.
+Section 1376, act Aug. 1, 1955, ch. 438, title III, § 305, 69 Stat. 426, provided that prior to July 4, 1974, no trade agreement be entered into with Republic of Philippines that would be inconsistent with this subchapter or revised agreement. See Codification note for section 1371 of this title.
 
-Section 1377, act Aug. 1, 1955, ch. 438, title III, § 306, 69 Stat. 426, related to rights of third countries to benefits granted Philippines by revised agreement. See Codification note for section 1371 of this title.
+Section 1377, act Aug. 1, 1955, ch. 438, title III, § 306, 69 Stat. 426, related to rights of third countries to benefits granted Philippines by revised agreement. See Codification note for section 1371 of this title.
 
-Section 1378, act Aug. 1, 1955, ch. 438, title III, § 307, 69 Stat. 426, related to administration of revised agreement. See Codification note for section 1371 of this title.
+Section 1378, act Aug. 1, 1955, ch. 438, title III, § 307, 69 Stat. 426, related to administration of revised agreement. See Codification note for section 1371 of this title.
 
-Section 1379, act Aug. 1, 1955, ch. 438, title III, § 301(a), 69 Stat. 426, related to effective date of revised agreement. See Codification note for section 1371 of this title.
+Section 1379, act Aug. 1, 1955, ch. 438, title III, § 301(a), 69 Stat. 426, related to effective date of revised agreement. See Codification note for section 1371 of this title.
 
 ## SUBCHAPTER V—PROPERTY RETAINED BY THE UNITED STATES
 
-### § 1381. Retention by United States of title to real and personal property
+### § 1381. Retention by United States of title to real and personal property
 
 There shall remain vested in the Government of the United States or its agencies or instrumentalities all the right, title, and interest of the said Government or its agencies or instrumentalities to all real and personal property within the Philippine Islands as may now be vested in, or later be acquired by the Government of the United States or any of its agencies or instrumentalities.
 
-(July 3, 1946, ch. 536, § 2, 60 Stat. 418.)
+(July 3, 1946, ch. 536, § 2, 60 Stat. 418.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Act July 3, 1946, ch. 536, § 1, 60 Stat. 418, provided that: “This Act [enacting this subchapter] may be cited as the ‘Philippine Property Act of 1946’.”
+Act July 3, 1946, ch. 536, § 1, 60 Stat. 418, provided that: “This Act [enacting this subchapter] may be cited as the ‘Philippine Property Act of 1946’.”
 
-### § 1382. Administration of the Trading With the Enemy Act in Philippines
+### § 1382. Administration of the Trading With the Enemy Act in Philippines
 
 The Trading With the Enemy Act of October 6, 1917 (40 Stat. 411), as amended, shall continue in force in the Philippines after July 4, 1946, and all powers and authority conferred upon the President of the United States or the Alien Property Custodian by the terms of the said Trading With the Enemy Act, as amended, with respect to the Philippines, shall continue thereafter to be exercised by the President of the United States, or such officer or agency as he may designate: *Provided*, That all property vested in or transferred to the President of the United States, the Alien Property Custodian, or any such officer or agency as the President of the United States may designate under the Trading With the Enemy Act, as amended, which was located in the Philippines at the time of such vesting, or the proceeds thereof, and which shall remain after the satisfaction of any claim payable under the Trading With the Enemy Act, as amended, and after the payment of such costs and expenses of administration as may by law be charged against such property or proceeds, shall be transferred by the President of the United States to the Republic of the Philippines: *Provided further*, That such property, or proceeds thereof, may be transferred by the President of the United States to the Republic of the Philippines upon indemnification acceptable to the President of the United States by the Republic of the Philippines for such claims, costs, and expenses of administration as may by law be charged against such property or proceeds thereof before final adjudication of such claims, costs, and expenses of administration: *Provided further*, That the courts of first instance of the Republic of the Philippines are given jurisdiction to make and enter all such rules as to notice or otherwise, and all such orders and decrees, and to issue such process as may be necessary and proper in the premises to enforce any orders, rules, and regulations issued by the President of the United States, the Alien Property Custodian, or such officer or agency designated by the President of the United States pursuant to the Trading With the Enemy Act, as amended, with such right of appeal therefrom as may be provided by law: *And provided further*, That any suit authorized under the Trading With the Enemy Act, as amended, with respect to property vested in or transferred to the President of the United States, the Alien Property Custodian, or any officer or agency designated by the President of the United States hereunder, which at the time of such vesting or transfer was located within the Philippines, shall after July 4, 1946, be brought, in the appropriate court of first instance of the Republic of the Philippines, against the officer or agency hereunder designated by the President of the United States with such right of appeal therefrom as may be provided by law, but suits with respect to such property shall after ninety days from December 21, 1950, be brought only in the courts of the United States.
 
-(July 3, 1946, ch. 536, § 3, 60 Stat. 418; Dec. 21, 1950, ch. 1144, 64 Stat. 1116.)
+(July 3, 1946, ch. 536, § 3, 60 Stat. 418; Dec. 21, 1950, ch. 1144, 64 Stat. 1116.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trading With the Enemy Act of October 6, 1917, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act of October 6, 1917, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -531,7 +531,7 @@ Ex. Ord. No. 9789, Oct. 14, 1946, 11 F.R. 11981, related to the establishment of
 
 **Executive Order No. 9818**
 
-Ex. Ord. No. 9818, Jan. 7, 1947, 12 F.R. 133, amended Oct. 15, 1949, ch. 695, § 5(a), 63 Stat. 880, related to the establishment of the Philippine Alien Property Administration, and was omitted under the authority of Ex. Ord. No. 10254, set out below, which terminated the Administration.
+Ex. Ord. No. 9818, Jan. 7, 1947, 12 F.R. 133, amended Oct. 15, 1949, ch. 695, § 5(a), 63 Stat. 880, related to the establishment of the Philippine Alien Property Administration, and was omitted under the authority of Ex. Ord. No. 10254, set out below, which terminated the Administration.
 
 **Executive Order No. 9876**
 
@@ -557,39 +557,39 @@ This order shall become effective at the close of business in Washington, D.C., 
 
 Harry S Truman.
 
-### § 1383. Transfer of property by President of United States
+### § 1383. Transfer of property by President of United States
 
 In respect to property not transferable to the Republic of the Philippines under section 1382 of this title, the President of the United States is authorized, in his discretion and under such terms and conditions as he may deem appropriate, to transfer to the Republic of the Philippines any or all of the right, title, and interest of the Government of the United States or its agencies or instrumentalities to any or all real and personal property vested in such agencies or instrumentalities.
 
-(July 3, 1946, ch. 536, § 4, 60 Stat. 419.)
+(July 3, 1946, ch. 536, § 4, 60 Stat. 419.)
 
 **Executive Documents**
 
 **Ex. Ord. No. 9937. Delegation of President’s Authority to Agencies Participating in the Philippine Recovery Program**
 
-Ex. Ord. No. 9937, Mar. 20, 1948, 13 F.R. 1503 as amended by act June 30, 1949, ch. 288, title I, § 103(a), 63 Stat. 380; 1949 Reorg. Plan No. 7, § 2, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, provided:
+Ex. Ord. No. 9937, Mar. 20, 1948, 13 F.R. 1503 as amended by act June 30, 1949, ch. 288, title I, § 103(a), 63 Stat. 380; 1949 Reorg. Plan No. 7, § 2, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1070; 1950 Reorg. Plan No. 21, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, provided:
 
 By virtue of the authority vested in me by the Constitution and the statutes, and as President of the United States, it is hereby ordered as follows:
 
 The Commissioner of Public Roads of the Department of Commerce, the Chief of Engineers of the United States Army, the Philippine War Damage Commission, the Surgeon General of the Public Health Service of the Federal Security Agency [now the Department of Health and Human Services], the Maritime Administration, the Director of the Fish and Wildlife Service [now the United States Fish and Wildlife Service] of the Department of the Interior, and the Administrator of Civil Aeronautics, the Chief of the Weather Bureau [now the National Weather Service], and the Director of the Coast and Geodetic Survey [now the National Ocean Survey] of the Department of Commerce are hereby authorized, as to their respective agencies, to exercise the authority vested in the President by section 4 of the Philippine Property Act of 1946 (60 Stat. 419) [this section]: *Provided*, that this authority shall be exercised only with respect to property located in the Philippines in the possession and control of the respective agencies and utilized in carrying out the provisions of Title III of the Philippine Rehabilitation Act of 1946 (60 Stat. 135) [sections 1781 to 1789 of the former Appendix to Title 50, War and National Defense].
 
-### § 1384. Transfer of shares of corporations owning agricultural lands; consideration; indemnification
+### § 1384. Transfer of shares of corporations owning agricultural lands; consideration; indemnification
 
 Immediately upon passage of this subchapter the Alien Property Custodian of the United States shall enter into an agreement with the President of the Philippines to transfer to the Philippine Government for a nominal cash consideration all shares now vested or hereafter vested by the Alien Property Custodian of corporations owning in fee, leasing, or otherwise operating or controlling agricultural lands in the Philippines, other agricultural lands in the Philippines, vested or hereafter vested by the Alien Property Custodian not included in the foregoing, and improved property in Manila vested or hereafter vested by the Alien Property Custodian which in his judgment is urgently needed for the operation of an administrative agency of the Philippine Government: *Provided*, That in respect to property transferred under this section to the Philippine Government, it shall be made a part of the agreement that the Philippine Government shall fully indemnify the United States for all claims payable under the Trading With the Enemy Act, as amended [50 U.S.C. 4301 et seq.], and for all such costs and expenses of administration as may by law be charged against such property or proceeds thereof.
 
-(July 3, 1946, ch. 536, § 5, 60 Stat. 419.)
+(July 3, 1946, ch. 536, § 5, 60 Stat. 419.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trading With the Enemy Act, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, as amended, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-### § 1385. Ownership of naval reservations, diplomatic property, etc., unaffected
+### § 1385. Ownership of naval reservations, diplomatic property, etc., unaffected
 
 Nothing contained in this subchapter shall be construed as amending the provisions of the Act of March 24, 1934 (48 Stat. 456), as amended, respecting naval reservations and fueling stations, and diplomatic or consular property, and the property of the High Commissioner to the Philippine Islands, nor as amending the provisions of section 1392 of this title, respecting bases for the mutual protection of the Philippine Islands and the United States.
 
-(July 3, 1946, ch. 536, § 6, 60 Stat. 419.)
+(July 3, 1946, ch. 536, § 6, 60 Stat. 419.)
 
 **Editorial Notes**
 
@@ -597,11 +597,11 @@ Nothing contained in this subchapter shall be construed as amending the provisio
 
 Act of March 24, 1934, as amended, referred to in text, is act Mar. 24, 1934, ch. 84, 48 Stat. 456, which enacted sections 1281a, 1391, 1393 to 1395 of this title, and section 1248 of Title 48, Territories and Insular Possessions, amended sections 1231 to 1234, 1237, 1238, 1239, 1241 to 1243, 1245, and 1247, of Title 48, and enacted a provision set out as a note under section 1391 of this title. For complete classification of this Act to the Code, see Tables.
 
-### § 1386. Definitions
+### § 1386. Definitions
 
 For the purposes of this subchapter the term “Philippine Government” shall mean “Government of the Commonwealth of the Philippines” until the date of independence, and thereafter it shall mean the “Government of the Republic of the Philippines”.
 
-(July 3, 1946, ch. 536, § 7, 60 Stat. 420.)
+(July 3, 1946, ch. 536, § 7, 60 Stat. 420.)
 
 **Editorial Notes**
 
@@ -611,11 +611,11 @@ Date of independence, referred to in text, was July 4, 1946 as recognized by 194
 
 ## SUBCHAPTER VI—MISCELLANEOUS PROVISIONS
 
-### § 1391. Transfer of property and rights to Philippine Commonwealth
+### § 1391. Transfer of property and rights to Philippine Commonwealth
 
 All the property and rights which may have been acquired in the Philippine Islands by the United States under the treaties mentioned in the first section of this Act, except such land or other property as has heretofore been designated by the President of the United States for Military and other reservations of the Government of the United States, and except such land or other property or rights or interests therein as may have been sold or otherwise disposed of in accordance with law, are granted to the government of the Commonwealth of the Philippine Islands when constituted.
 
-(Mar. 24, 1934, ch. 84, § 5, 48 Stat. 459.)
+(Mar. 24, 1934, ch. 84, § 5, 48 Stat. 459.)
 
 **Editorial Notes**
 
@@ -629,13 +629,13 @@ Since their independence, the Philippine Islands have been a republic, and are n
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in act Jan. 17, 1933, ch. 11, § 5, 47 Stat. 764.
+Provisions similar to those in this section were contained in act Jan. 17, 1933, ch. 11, § 5, 47 Stat. 764.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Separability**
 
-Act Mar. 24, 1934, ch. 84, § 16, 48 Stat. 464, provided: “If any provision of this Act [enacting this section and sections 1281a, 1393 to 1395 of this title, amending sections 1231 to 1234, 1237 to 1239, 1241 to 1243, 1245, 1247, and 1248 of Title 48, Territories and Insular Possessions] is declared unconstitutional or the applicability thereof to any person or circumstances is held invalid, the validity of the remainder of the act and the applicability of such provisions and circumstances shall not be affected thereby.”
+Act Mar. 24, 1934, ch. 84, § 16, 48 Stat. 464, provided: “If any provision of this Act [enacting this section and sections 1281a, 1393 to 1395 of this title, amending sections 1231 to 1234, 1237 to 1239, 1241 to 1243, 1245, 1247, and 1248 of Title 48, Territories and Insular Possessions] is declared unconstitutional or the applicability thereof to any person or circumstances is held invalid, the validity of the remainder of the act and the applicability of such provisions and circumstances shall not be affected thereby.”
 
 **Executive Documents**
 
@@ -643,11 +643,11 @@ Act Mar. 24, 1934, ch. 84, § 16, 48 Stat. 464, provided: “If any provision 
 
 Philippine Islands granted independence by Proc. No. 2695, which is set out as a note under section 1394 of this title.
 
-### § 1392. Acquisition of military and naval bases by United States
+### § 1392. Acquisition of military and naval bases by United States
 
 After negotiation with the President of the Commonwealth of the Philippines, or the President of the Filipino Republic, the President of the United States is authorized by such means as he finds appropriate to withhold or to acquire and to retain such bases, necessary appurtenances to such bases, and the rights incident thereto, in addition to any provided for by the Act of March 24, 1934, as he may deem necessary for the mutual protection of the Philippine Islands and of the United States.
 
-(June 29, 1944, ch. 322, § 2, 58 Stat. 626.)
+(June 29, 1944, ch. 322, § 2, 58 Stat. 626.)
 
 **Editorial Notes**
 
@@ -661,23 +661,23 @@ Act of March 24, 1934, referred to in text, is act Mar. 24, 1934, ch. 84, 48 Sta
 
 Philippine Islands granted independence by Proc. No. 2695, which is set out as a note under section 1394 of this title, and they now constitute a republic.
 
-### § 1393. Supplementary sinking fund for bond payments; purchase of bonds by United States; creation of special trust account
+### § 1393. Supplementary sinking fund for bond payments; purchase of bonds by United States; creation of special trust account
 
-**(a)** to (f). Repealed. Apr. 30, 1946, ch. 244, title V, § 511(2), 60 Stat. 158.
+**(a)** to (f). Repealed. Apr. 30, 1946, ch. 244, title V, § 511(2), 60 Stat. 158.
 
 **(g)**
 
 **(1)** The Philippine Government shall pay to the Secretary of the Treasury of the United States, at the end of each calendar quarter, all of the moneys received during such quarter from export taxes (less refunds), imposed and collected in accordance with the provisions of this section, and said moneys shall be deposited in an account with the Treasurer of the United States and shall constitute a supplementary sinking fund for the payment of bonds of the Philippines, its Provinces, cities, and municipalities, issued prior to May 1, 1934, under authority of Acts of Congress: *Provided, however*, That moneys received from any export tax imposed on any article which is shipped from the Philippines to the United States prior to July 4, 1946, and which is entered, or withdrawn from warehouse for consumption, on or after July 4, 1946, shall be refunded by the independent Government of the Philippines.
 
-**(2)** The said Secretary of the Treasury is authorized to accept the deposits of the proceeds of the export taxes referred to in subdivision (1) of this subsection in accordance with section 1333 1
+**(2)** The said Secretary of the Treasury is authorized to accept the deposits of the proceeds of the export taxes referred to in subdivision (1) of this subsection in accordance with section 1333 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-**(3)** The Secretary of the Treasury of the United States, with the approval of the Philippine Government, is authorized to purchase with such supplementary sinking-fund bonds of the Philippines, its Provinces, cities, and municipalities, issued prior to May 1, 1934, under authority of Acts of Congress and to invest such fund in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. Whenever the Secretary of the Treasurer 2
+**(3)** The Secretary of the Treasury of the United States, with the approval of the Philippine Government, is authorized to purchase with such supplementary sinking-fund bonds of the Philippines, its Provinces, cities, and municipalities, issued prior to May 1, 1934, under authority of Acts of Congress and to invest such fund in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. Whenever the Secretary of the Treasurer 2
 
-<sup>2</sup>  So in original. Probably should be “Treasury”.
+<sup>2</sup> So in original. Probably should be “Treasury”.
 
 finds that such fund is in excess of an amount adequate to meet future interest and principal payments on all such bonds, he may, with the approval of the Philippine Government, purchase with such excess any other bonds of the Philippines, its Provinces, cities, municipalities, and instrumentalities. For the purpose of this subsection obligations may be acquired on original issue at par, or by purchase of outstanding obligations at the market price. Any obligations acquired by the fund may, with the approval of the Philippine Government, be sold by the Secretary of the Treasury at the market price and the proceeds of such sale and the proceeds of the payment upon maturity or redemption of any obligations held in the supplementary sinking fund, as well as all moneys in any manner earned by such fund or on any obligations acquired by said fund, shall be paid into the said fund.
 
@@ -685,7 +685,7 @@ finds that such fund is in excess of an amount adequate to meet future interest 
 
 **(5)** On and after July 4, 1946, the Secretary of the Treasury of the United States is authorized, with the approval of the independent Government of the Philippines, to purchase at the market price for the special trust account bonds of the Philippines, its Provinces, cities, and municipalities, issued prior to May 1, 1934, under authority of Acts of Congress. The Secretary of the Treasury of the United States is also authorized, with the approval of the independent Government of the Philippines, to invest all or any part of such special trust account in any interest-bearing obligations of the United States or in any obligations guaranteed as to both principal and interest by the United States. Such obligations may be acquired on original issue at the issue price or by purchase of outstanding obligations at the market price, and any obligations acquired by the special trust account may, with the approval of the independent Government of the Philippines, be sold by the Secretary of the Treasury at the market price, and the proceeds of the payment upon maturity or redemption of such obligations shall be held as a part of such special trust account. Whenever the special trust account is determined by the Secretary of the Treasury of the United States to be adequate to meet interest and principal payments on all outstanding bonds of the Philippines, its Provinces, cities, and municipalities, issued prior to May 1, 1934, under authority of Acts of Congress, the Secretary of the Treasury is authorized to pay from such trust account the principal of such outstanding bonds and to pay all interest due and owing on such bonds. All such bonds and interest coupons paid or purchased by the special trust account shall be canceled and destroyed by the Secretary of the Treasury of the United States. From time to time after July 4, 1946, any moneys in such special trust account found by the Secretary of the Treasury of the United States to be in excess of an amount adequate to meet interest and principal payments on all such bonds shall be turned over to the treasurer of the independent Government of the Philippines.
 
-(Mar. 24, 1934, ch. 84, § 6, 48 Stat. 459; Aug. 7, 1939, ch. 502, § 1, 53 Stat. 1226; Apr. 30, 1946, ch. 244, title V, § 511(2), 60 Stat. 158; Pub. L. 86–346, title I, § 104(1), Sept. 22, 1959, 73 Stat. 622.)
+(Mar. 24, 1934, ch. 84, § 6, 48 Stat. 459; Aug. 7, 1939, ch. 502, § 1, 53 Stat. 1226; Apr. 30, 1946, ch. 244, title V, § 511(2), 60 Stat. 158; Pub. L. 86–346, title I, § 104(1), Sept. 22, 1959, 73 Stat. 622.)
 
 **Editorial Notes**
 
@@ -695,7 +695,7 @@ Section 1333 of this title, referred to in subsec. (g)(2), was omitted from the 
 
 **Prior Provisions**
 
-Similar provisions were contained in act Jan. 17, 1933, ch. 11, § 6, 47 Stat. 764.
+Similar provisions were contained in act Jan. 17, 1933, ch. 11, § 6, 47 Stat. 764.
 
 **Amendments**
 
@@ -713,9 +713,9 @@ Amendment by act Apr. 30, 1946 effective May 1, 1946, see section 512 of act Apr
 
 **Termination of Acceptance of Deposits of Export Taxes**
 
-Authority of Secretary of the Treasury to accept deposits of proceeds of export taxes in accordance with section 1333 of this title terminated on July 1, 1951, under the provisions of act Aug. 7, 1946, ch. 809, § 2, 60 Stat. 901.
+Authority of Secretary of the Treasury to accept deposits of proceeds of export taxes in accordance with section 1333 of this title terminated on July 1, 1951, under the provisions of act Aug. 7, 1946, ch. 809, § 2, 60 Stat. 901.
 
-### § 1394. Recognition of Philippine independence
+### § 1394. Recognition of Philippine independence
 
 **(a) Withdrawal of American sovereignty**
 
@@ -735,7 +735,7 @@ The President of the United States is authorized and empowered to enter into neg
 
 **(4)** Administrative supervision and control over any properties acquired or designated by the President of the United States pursuant to this subsection, and over the official residences in the Philippines of the High Commissioner, shall, on and after July 4, 1946, be exercised by the Secretary of State, in accordance with Acts of Congress relating to property held by the United States in foreign countries for official establishments.
 
-(Mar. 24, 1934, ch. 84, § 10, 48 Stat. 463; Aug. 7, 1939, ch. 502, § 3, 53 Stat. 1230.)
+(Mar. 24, 1934, ch. 84, § 10, 48 Stat. 463; Aug. 7, 1939, ch. 502, § 3, 53 Stat. 1230.)
 
 **Editorial Notes**
 
@@ -755,11 +755,11 @@ Provisions similar to those contained in subsec. (a) of this section were contai
 
 **Effective Date of 1939 Amendment**
 
-Act Aug. 7, 1939, ch. 502, § 7, 53 Stat. 1233, provided that act Aug. 7, 1939, should become effective on Jan. 1, 1940, if certain conditions were fulfilled. The conditions were fulfilled and section became effective on said date.
+Act Aug. 7, 1939, ch. 502, § 7, 53 Stat. 1233, provided that act Aug. 7, 1939, should become effective on Jan. 1, 1940, if certain conditions were fulfilled. The conditions were fulfilled and section became effective on said date.
 
 **Independence Date Advanced**
 
-Act June 29, 1944, ch. 322, § 3, 58 Stat. 626, provided in part that date of independence could be advanced prior to July 4, 1946, but it was not done.
+Act June 29, 1944, ch. 322, § 3, 58 Stat. 626, provided in part that date of independence could be advanced prior to July 4, 1946, but it was not done.
 
 **Executive Documents**
 
@@ -773,15 +773,15 @@ On behalf of the United States of America, I do hereby recognize the independenc
 
 Harry S. Truman
 
-### § 1395. Definitions
+### § 1395. Definitions
 
 **(a)** As used in sections 1393 and 1394 of this title—
 
 **(1)** The term “United States”, when used in a geographical sense, but not the term “continental United States”, includes all Territories and possessions of the United States, other than the Philippines.
 
-**(2)** The term “cordage” includes yarns, twines (including binding twine described in paragraph 1622 1
+**(2)** The term “cordage” includes yarns, twines (including binding twine described in paragraph 1622 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of section 1201 of title 19), cords, cordage, rope and cable, tarred or untarred, wholly or in chief value of manila (abaca) or other hard fiber.
 
@@ -789,7 +789,7 @@ of section 1201 of title 19), cords, cordage, rope and cable, tarred or untarred
 
 **(4)** The term “United States duty”, when used in connection with the computation of export taxes, means the lowest rate of ordinary customs duty in effect at the time of the shipment of the article concerned from the Philippines and applicable to like articles imported into the continental United States from any foreign country, except Cuba, or when more than one rate of ordinary customs duty is applicable to such like articles, the aggregate of such rates.
 
-**(5)** The term “refined sugars” possesses the same meaning as the term “direct-consumption sugar” as defined in section 1101 <sup>1</sup> of title 7.
+**(5)** The term “refined sugars” possesses the same meaning as the term “direct-consumption sugar” as defined in section 1101 <sup>1</sup> of title 7.
 
 **(6)** The term “Philippine article” means an article the growth, produce, or manufacture of the Philippines, in the production of which no materials of other than Philippine or United States origin valued in excess of 20 per centum of the total value of such article was used and which is brought into the United States from the Philippines.
 
@@ -803,13 +803,13 @@ of section 1201 of title 19), cords, cordage, rope and cable, tarred or untarred
 
 **(2)** The term “ordinary customs duty” shall not include any import duty or charge which is imposed to compensate for an internal tax imposed in respect of a like domestic product or in respect of a commodity from which the imported product has been manufactured or produced in whole or in part.
 
-(Mar. 24, 1934, ch. 84, § 18, as added Aug. 7, 1939, ch. 502, § 5, 53 Stat. 1231.)
+(Mar. 24, 1934, ch. 84, § 18, as added Aug. 7, 1939, ch. 502, § 5, 53 Stat. 1231.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Paragraph 1622 of section 1201 of title 19, referred to in subsec. (a)(2), was repealed by act May 24, 1962, Pub. L. 87–456, title I, § 101(a), 76 Stat. 72.
+Paragraph 1622 of section 1201 of title 19, referred to in subsec. (a)(2), was repealed by act May 24, 1962, Pub. L. 87–456, title I, § 101(a), 76 Stat. 72.
 
 Since their independence, the Philippine Islands have been a republic, and are no longer designated as a “Commonwealth” as referred to in par. (3) of subsec. (a) of this section. See note below.
 

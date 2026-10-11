@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2006—Pub. L. 109–177, title III, § 303(b), Mar. 9, 2006, 120 Stat. 234, added item 2237.
+2006—Pub. L. 109–177, title III, § 303(b), Mar. 9, 2006, 120 Stat. 234, added item 2237.
 
-## § 2231. Assault or resistance
+## § 2231. Assault or resistance
 
 **(a)** Whoever forcibly assaults, resists, opposes, prevents, impedes, intimidates, or interferes with any person authorized to serve or execute search warrants or to make searches and seizures while engaged in the performance of his duties with regard thereto or on account of the performance of such duties, shall be fined under this title or imprisoned not more than three years, or both; and—
 
 **(b)** Whoever, in committing any act in violation of this section, uses any deadly or dangerous weapon, shall be fined under this title or imprisoned not more than ten years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 103–322, title XXXIII, § 330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 121, 253, 254, 628 (Mar. 4, 1909, ch. 321, § 65, 35 Stat. 1100; June 15, 1917, ch. 30, title XI, § 18, 40 Stat. 230; May 18, 1934, ch. 299, §§ 1, 2, 48 Stat. 780, 781; Feb. 8, 1936, ch. 40, 49 Stat. 1105; June 26, 1936, ch. 830, title I, § 3, 49 Stat. 1940; Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 Fed. Reg. 2731, 53 Stat. 1433; June 13, 1940, ch. 359, 54 Stat. 391).
+Based on title 18, U.S.C., 1940 ed., §§ 121, 253, 254, 628 (Mar. 4, 1909, ch. 321, § 65, 35 Stat. 1100; June 15, 1917, ch. 30, title XI, § 18, 40 Stat. 230; May 18, 1934, ch. 299, §§ 1, 2, 48 Stat. 780, 781; Feb. 8, 1936, ch. 40, 49 Stat. 1105; June 26, 1936, ch. 830, title I, § 3, 49 Stat. 1940; Reorg. Plan No. II, § 4(f), eff. July 1, 1939, 4 Fed. Reg. 2731, 53 Stat. 1433; June 13, 1940, ch. 359, 54 Stat. 391).
 
 Section consolidates section 628 of title 18, U.S.C., 1940 ed., and the portion of section 121 of said title relating to resistance of persons authorized to make searches.
 
-Punishment provided by section 121 of title 18, U.S.C., 1940 ed., was $2,000 fine and imprisonment for 1 year. Section 628 of said title was part of Espionage Act of June 15, 1917, ch. 30, title XIII, § 1, 40 Stat. 231, prescribing fine of not more than $1,000 and imprisonment not exceeding 2 years for resisting service, execution of search warrant, or assaulting an officer.
+Punishment provided by section 121 of title 18, U.S.C., 1940 ed., was $2,000 fine and imprisonment for 1 year. Section 628 of said title was part of Espionage Act of June 15, 1917, ch. 30, title XIII, § 1, 40 Stat. 231, prescribing fine of not more than $1,000 and imprisonment not exceeding 2 years for resisting service, execution of search warrant, or assaulting an officer.
 
 Section 253 of title 18, U.S.C., 1940 ed., enumerated United States marshals, deputies, and assistants, Federal Bureau of Investigation agents, and numerous other officers, the killing of whom is denounced as a Federal offense.
 
@@ -53,11 +53,11 @@ Minor changes were made in translation and phraseology.
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
+1994—Subsec. (a). Pub. L. 103–322, § 330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
-Subsec. (b). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
+Subsec. (b). Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 2232. Destruction or removal of property to prevent seizure
+## § 2232. Destruction or removal of property to prevent seizure
 
 **(a) Destruction or Removal of Property To Prevent Seizure.—** Whoever, before, during, or after any search for or seizure of property by any person authorized to make such search or seizure, knowingly destroys, damages, wastes, disposes of, transfers, or otherwise takes any action, or knowingly attempts to destroy, damage, waste, dispose of, transfer, or otherwise take any action, for the purpose of preventing or impairing the Government’s lawful authority to take such property into its custody or control or to continue holding such property under its lawful custody and control, shall be fined under this title or imprisoned not more than 5 years, or both.
 
@@ -69,11 +69,11 @@ Subsec. (b). Pub. L. 103–322, § 330016(1)(L), substituted “fined under th
 
 **(e) Foreign Intelligence Surveillance.—** Whoever, having knowledge that a Federal officer has been authorized or has applied for authorization to conduct electronic surveillance under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801, et seq.), in order to obstruct, impede, or prevent such activity, gives notice or attempts to give notice of the possible activity to any person shall be fined under this title or imprisoned not more than five years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 98–473, title II, § 1103, Oct. 12, 1984, 98 Stat. 2143; Pub. L. 99–508, title I, § 109, Oct. 21, 1986, 100 Stat. 1858; Pub. L. 99–646, § 33, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 100–690, title VII, § 7066, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 106–185, § 12, Apr. 25, 2000, 114 Stat. 218.)
+(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 98–473, title II, § 1103, Oct. 12, 1984, 98 Stat. 2143; Pub. L. 99–508, title I, § 109, Oct. 21, 1986, 100 Stat. 1858; Pub. L. 99–646, § 33, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 100–690, title VII, § 7066, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 106–185, § 12, Apr. 25, 2000, 114 Stat. 218.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 121 (Mar. 4, 1909, ch. 321, § 65, 35 Stat. 1100).
+Based on title 18, U.S.C., 1940 ed., § 121 (Mar. 4, 1909, ch. 321, § 65, 35 Stat. 1100).
 
 Section was formed from the words following the first semicolon and ending with the second semicolon, in section 121 of title 18, U.S.C., 1940 ed.
 
@@ -85,7 +85,7 @@ Minor changes were made in phraseology.
 
 **References in Text**
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 **Amendments**
 
@@ -99,9 +99,9 @@ The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e), i
 
 Pub. L. 99–508 designated first and second pars. as subsecs. (a) and (b), respectively, and inserted headings, and added subsec. (c).
 
-1984—Pub. L. 98–473, § 1103(a), substituted provisions raising the maximum fine from $2,000 to $10,000 and raising the maximum term of imprisonment from two years to five years.
+1984—Pub. L. 98–473, § 1103(a), substituted provisions raising the maximum fine from $2,000 to $10,000 and raising the maximum term of imprisonment from two years to five years.
 
-Pub. L. 98–473, § 1103(b), inserted paragraph relating to the penalties for warning the subject of a search.
+Pub. L. 98–473, § 1103(b), inserted paragraph relating to the penalties for warning the subject of a search.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -113,15 +113,15 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 
 Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as a note under section 2510 of this title.
 
-## § 2233. Rescue of seized property
+## § 2233. Rescue of seized property
 
 Whoever forcibly rescues, dispossesses, or attempts to rescue or dispossess any property, articles, or objects after the same shall have been taken, detained, or seized by any officer or other person under the authority of any revenue law of the United States, or by any person authorized to make searches and seizures, shall be fined under this title or imprisoned not more than two years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 802; Pub. L. 103–322, title XXXIII, § 330016(1)(I), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 121, 128 (Mar. 4, 1909, ch. 321, §§ 65, 71, 35 Stat. 1100, 1101).
+Based on title 18, U.S.C., 1940 ed., §§ 121, 128 (Mar. 4, 1909, ch. 321, §§ 65, 71, 35 Stat. 1100, 1101).
 
 Section consolidates that portion of section 121 of title 18, U.S.C., 1940 ed., relating to rescue of seized property, with section 128 of title 18, U.S.C., 1940 ed.
 
@@ -143,15 +143,15 @@ Changes were made in phraseology.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
 
-## § 2234. Authority exceeded in executing warrant
+## § 2234. Authority exceeded in executing warrant
 
 Whoever, in executing a search warrant, willfully exceeds his authority or exercises it with unnecessary severity, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title III, § 3002(a)(3), Nov. 2, 2002, 116 Stat. 1805.)
+(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title III, § 3002(a)(3), Nov. 2, 2002, 116 Stat. 1805.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 631 (June 15, 1917, ch. 30, title XI, § 21, 40 Stat. 230).
+Based on title 18, U.S.C., 1940 ed., § 631 (June 15, 1917, ch. 30, title XI, § 21, 40 Stat. 230).
 
 Minor changes were made in phraseology.
 
@@ -159,19 +159,19 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-2002—Pub. L. 107–273 inserted “, or both” after “year”.
+2002—Pub. L. 107–273 inserted “, or both” after “year”.
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 2235. Search warrant procured maliciously
+## § 2235. Search warrant procured maliciously
 
 Whoever maliciously and without probable cause procures a search warrant to be issued and executed, shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title III, § 3002(a)(3), Nov. 2, 2002, 116 Stat. 1805.)
+(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title III, § 3002(a)(3), Nov. 2, 2002, 116 Stat. 1805.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 630 (June 15, 1917, ch. 30, title XI, § 20, 40 Stat. 230).
+Based on title 18, U.S.C., 1940 ed., § 630 (June 15, 1917, ch. 30, title XI, § 20, 40 Stat. 230).
 
 Minor changes were made in phraseology.
 
@@ -179,11 +179,11 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-2002—Pub. L. 107–273 inserted “, or both” after “year”.
+2002—Pub. L. 107–273 inserted “, or both” after “year”.
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 2236. Searches without warrant
+## § 2236. Searches without warrant
 
 Whoever, being an officer, agent, or employee of the United States or any department or agency thereof, engaged in the enforcement of any law of the United States, searches any private dwelling used and occupied as such dwelling without a warrant directing such search, or maliciously and without reasonable cause searches any other building or property without a search warrant, shall be fined under this title for a first offense; and, for a subsequent offense, shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -195,11 +195,11 @@ This section shall not apply to any person—
 
 (c) making a search at the request or invitation or with the consent of the occupant of the premises.
 
-(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(C)(iii), Nov. 2, 2002, 116 Stat. 1809.)
+(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 104–294, title VI, § 601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title IV, § 4002(d)(1)(C)(iii), Nov. 2, 2002, 116 Stat. 1809.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 53a (Aug. 27, 1935, ch. 740, § 201, 49 Stat. 877).
+Based on title 18, U.S.C., 1940 ed., § 53a (Aug. 27, 1935, ch. 740, § 201, 49 Stat. 877).
 
 Words “or any department or agency thereof” were inserted to avoid ambiguity as to scope of section. (See definitive section 6 of this title.)
 
@@ -219,7 +219,7 @@ Minor changes were made in phraseology.
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 
-## § 2237. Criminal sanctions for failure to heave to, obstruction of boarding, or providing false information
+## § 2237. Criminal sanctions for failure to heave to, obstruction of boarding, or providing false information
 
 **(a)**
 
@@ -281,7 +281,7 @@ Minor changes were made in phraseology.
 
 **(B)** intentional grounding of a vessel in which persons are being transported.
 
-(Added Pub. L. 109–177, title III, § 303(a), Mar. 9, 2006, 120 Stat. 233; amended Pub. L. 111–281, title IX, § 917, Oct. 15, 2010, 124 Stat. 3021.)
+(Added Pub. L. 109–177, title III, § 303(a), Mar. 9, 2006, 120 Stat. 233; amended Pub. L. 111–281, title IX, § 917, Oct. 15, 2010, 124 Stat. 3021.)
 
 **Editorial Notes**
 
@@ -291,10 +291,10 @@ Section 274 of the Immigration and Nationality Act, referred to in subsec. (b)(4
 
 **Amendments**
 
-2010—Subsec. (b). Pub. L. 111–281, § 917(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: “Any person who intentionally violates this section shall be fined under this title or imprisoned for not more than 5 years, or both.”
+2010—Subsec. (b). Pub. L. 111–281, § 917(a), amended subsec. (b) generally. Prior to amendment subsec. (b) read as follows: “Any person who intentionally violates this section shall be fined under this title or imprisoned for not more than 5 years, or both.”
 
-Subsec. (e)(3). Pub. L. 111–281, § 917(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘vessel subject to the jurisdiction of the United States’ has the meaning given the term in section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903); and”.
+Subsec. (e)(3). Pub. L. 111–281, § 917(b)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the term ‘vessel subject to the jurisdiction of the United States’ has the meaning given the term in section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903); and”.
 
-Subsec. (e)(4). Pub. L. 111–281, § 917(b)(2), substituted “section 70502 of title 46; and” for “section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903).”
+Subsec. (e)(4). Pub. L. 111–281, § 917(b)(2), substituted “section 70502 of title 46; and” for “section 2 of the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1903).”
 
-Subsec. (e)(5). Pub. L. 111–281, § 917(b)(3), added par. (5).
+Subsec. (e)(5). Pub. L. 111–281, § 917(b)(3), added par. (5).

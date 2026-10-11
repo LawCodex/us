@@ -19,17 +19,17 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1976—Pub. L. 94–566, title I, § 115(c)(4), Oct. 20, 1976, 90 Stat. 2671, substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in item 3309.
+1976—Pub. L. 94–566, title I, § 115(c)(4), Oct. 20, 1976, 90 Stat. 2671, substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in item 3309.
 
-1970—Pub. L. 91–373, title I, §§ 104(b)(2), 131(b)(3), Aug. 10, 1970, 84 Stat. 699, 705, added items 3309 and 3310 and redesignated former item 3309 as 3311.
+1970—Pub. L. 91–373, title I, §§ 104(b)(2), 131(b)(3), Aug. 10, 1970, 84 Stat. 699, 705, added items 3309 and 3310 and redesignated former item 3309 as 3311.
 
-1960—Pub. L. 86–778, title V, § 531(d)(2), Sept. 13, 1960, 74 Stat. 984, added item 3308 and redesignated former item 3308 as 3309.
+1960—Pub. L. 86–778, title V, § 531(d)(2), Sept. 13, 1960, 74 Stat. 984, added item 3308 and redesignated former item 3308 as 3309.
 
-## § 3301. Rate of tax
+## § 3301. Rate of tax
 
 There is hereby imposed on every employer (as defined in section 3306(a)) for each calendar year an excise tax, with respect to having individuals in his employ, equal to 6 percent of the total wages (as defined in section 3306(b)) paid by such employer during the calendar year with respect to employment (as defined in section 3306(c)).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, § 523(a), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, § 14(a), Mar. 24, 1961, 75 Stat. 16; Pub. L. 88–31, § 2(a), May 29, 1963, 77 Stat. 51; Pub. L. 91–373, title III, § 301(a), Aug. 10, 1970, 84 Stat. 713; Pub. L. 92–329, § 2(a), June 30, 1972, 86 Stat. 398; Pub. L. 94–455, title XIX, § 1903(a)(11), Oct. 4, 1976, 90 Stat. 1808; Pub. L. 94–566, title II, § 211(b), Oct. 20, 1976, 90 Stat. 2676; Pub. L. 97–248, title II, § 271(b)(1), (c)(1), Sept. 3, 1982, 96 Stat. 554, 555; Pub. L. 99–514, title XVIII, § 1899A(42), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 100–203, title IX, § 9153(a), Dec. 22, 1987, 101 Stat. 1330–326; Pub. L. 101–508, title XI, § 11333(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 102–164, title IV, § 402, Nov. 15, 1991, 105 Stat. 1061; Pub. L. 103–66, title XIII, § 13751, Aug. 10, 1993, 107 Stat. 664; Pub. L. 105–34, title X, § 1035, Aug. 5, 1997, 111 Stat. 937; Pub. L. 110–140, title XV, § 1501(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–343, div. B, title IV, § 404(a), Oct. 3, 2008, 122 Stat. 3860; Pub. L. 111–92, § 10(a), Nov. 6, 2009, 123 Stat. 2988; Pub. L. 115–141, div. U, title IV, § 401(b)(37), Mar. 23, 2018, 132 Stat. 1204.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, § 523(a), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, § 14(a), Mar. 24, 1961, 75 Stat. 16; Pub. L. 88–31, § 2(a), May 29, 1963, 77 Stat. 51; Pub. L. 91–373, title III, § 301(a), Aug. 10, 1970, 84 Stat. 713; Pub. L. 92–329, § 2(a), June 30, 1972, 86 Stat. 398; Pub. L. 94–455, title XIX, § 1903(a)(11), Oct. 4, 1976, 90 Stat. 1808; Pub. L. 94–566, title II, § 211(b), Oct. 20, 1976, 90 Stat. 2676; Pub. L. 97–248, title II, § 271(b)(1), (c)(1), Sept. 3, 1982, 96 Stat. 554, 555; Pub. L. 99–514, title XVIII, § 1899A(42), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 100–203, title IX, § 9153(a), Dec. 22, 1987, 101 Stat. 1330–326; Pub. L. 101–508, title XI, § 11333(a), Nov. 5, 1990, 104 Stat. 1388–470; Pub. L. 102–164, title IV, § 402, Nov. 15, 1991, 105 Stat. 1061; Pub. L. 103–66, title XIII, § 13751, Aug. 10, 1993, 107 Stat. 664; Pub. L. 105–34, title X, § 1035, Aug. 5, 1997, 111 Stat. 937; Pub. L. 110–140, title XV, § 1501(a), Dec. 19, 2007, 121 Stat. 1800; Pub. L. 110–343, div. B, title IV, § 404(a), Oct. 3, 2008, 122 Stat. 3860; Pub. L. 111–92, § 10(a), Nov. 6, 2009, 123 Stat. 2988; Pub. L. 115–141, div. U, title IV, § 401(b)(37), Mar. 23, 2018, 132 Stat. 1204.)
 
 **Editorial Notes**
 
@@ -45,29 +45,29 @@ of the total wages (as defined in section 3306(b)) paid by him during the calend
 
 2009—Pub. L. 111–92 inserted “(or portion of the calendar year)” after “during the calendar year” in concluding provisions and substituted “through 2010 and the first 6 months of calendar year 2011” for “through 2009” in par. (1) and “the remainder of calendar year 2011” for “calendar year 2010” in par. (2).
 
-2008—Par. (1). Pub. L. 110–343, § 404(a)(1), substituted “through 2009” for “through 2008”.
+2008—Par. (1). Pub. L. 110–343, § 404(a)(1), substituted “through 2009” for “through 2008”.
 
-Par. (2). Pub. L. 110–343, § 404(a)(2), substituted “calendar year 2010” for “calendar year 2009”.
+Par. (2). Pub. L. 110–343, § 404(a)(2), substituted “calendar year 2010” for “calendar year 2009”.
 
-2007—Par. (1). Pub. L. 110–140, § 1501(a)(1), substituted “2008” for “2007”.
+2007—Par. (1). Pub. L. 110–140, § 1501(a)(1), substituted “2008” for “2007”.
 
-Par. (2). Pub. L. 110–140, § 1501(a)(2), substituted “2009” for “2008”.
+Par. (2). Pub. L. 110–140, § 1501(a)(2), substituted “2009” for “2008”.
 
-1997—Par. (1). Pub. L. 105–34, § 1035(1), substituted “2007” for “1998”.
+1997—Par. (1). Pub. L. 105–34, § 1035(1), substituted “2007” for “1998”.
 
-Par. (2). Pub. L. 105–34, § 1035(2), substituted “2008” for “1999”.
+Par. (2). Pub. L. 105–34, § 1035(2), substituted “2008” for “1999”.
 
-1993—Par. (1). Pub. L. 103–66, § 13751(1), substituted “1998” for “1996”.
+1993—Par. (1). Pub. L. 103–66, § 13751(1), substituted “1998” for “1996”.
 
-Par. (2). Pub. L. 103–66, § 13751(2), substituted “1999” for “1997”.
+Par. (2). Pub. L. 103–66, § 13751(2), substituted “1999” for “1997”.
 
-1991—Par. (1). Pub. L. 102–164, § 402(1), substituted “1996” for “1995”.
+1991—Par. (1). Pub. L. 102–164, § 402(1), substituted “1996” for “1995”.
 
-Par. (2). Pub. L. 102–164, § 402(2), substituted “1997” for “1996”.
+Par. (2). Pub. L. 102–164, § 402(2), substituted “1997” for “1996”.
 
-1990—Par. (1). Pub. L. 101–508, § 11333(a)(1), substituted “1988 through 1995” for “1988, 1989, and 1990”.
+1990—Par. (1). Pub. L. 101–508, § 11333(a)(1), substituted “1988 through 1995” for “1988, 1989, and 1990”.
 
-Par. (2). Pub. L. 101–508, § 11333(a)(2), substituted “1996” for “1991”.
+Par. (2). Pub. L. 101–508, § 11333(a)(2), substituted “1996” for “1991”.
 
 1987—Pars. (1), (2). Pub. L. 100–203 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
@@ -77,11 +77,11 @@ Par. (2). Pub. L. 101–508, § 11333(a)(2), substituted “1996” for “199
 
 1986—Par. (1). Pub. L. 99–514 substituted “unemployment” for “unemployed”.
 
-1982—Par. (1). Pub. L. 97–248, § 271(c)(1)(A), substituted “6.2 percent” for “3.5 percent”.
+1982—Par. (1). Pub. L. 97–248, § 271(c)(1)(A), substituted “6.2 percent” for “3.5 percent”.
 
-Pub. L. 97–248, § 271(b)(1), substituted “3.5 percent” for “3.4 percent”.
+Pub. L. 97–248, § 271(b)(1), substituted “3.5 percent” for “3.4 percent”.
 
-Par. (2). Pub. L. 97–248, § 271(c)(1)(B), substituted “6.0 percent” for “3.2 percent”.
+Par. (2). Pub. L. 97–248, § 271(c)(1)(B), substituted “6.0 percent” for “3.2 percent”.
 
 1976—Pub. L. 94–566 substituted provisions imposing an excise tax equal to 3.4 percent, in the case of a calendar year beginning before the first calendar year after 1976, as of January 1 of which there is not a balance of repayable advances made to the extended unemployed compensation account (established by section 905(a) of the Social Security Act), or 3.2 percent, in the case of such first calendar year and each calendar year thereafter, of the total wages (as defined in section 3306(b)) paid by him during the calendar year with respect to employment (as defined in section 3306(c)), for provisions imposing an excise tax for the calendar year 1970 and each calendar year thereafter, with respect to having individuals in his employ, equal to 3.2 percent of the total wages (as defined in section 3306(b)) paid by him during the calendar year with respect to employment (as defined in section 3306(c)) and provisions that, in the case of wages paid during the calendar year 1973, the rate of such tax should be 3.28 percent in lieu of 3.2 percent.
 
@@ -101,29 +101,29 @@ Pub. L. 94–455 substituted “each calendar year” for “the calendar year 1
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–92, § 10(b), Nov. 6, 2009, 123 Stat. 2989, provided that: “The amendments made by this section [amending this section] shall apply to wages paid after December 31, 2009.”
+Pub. L. 111–92, § 10(b), Nov. 6, 2009, 123 Stat. 2989, provided that: “The amendments made by this section [amending this section] shall apply to wages paid after December 31, 2009.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–343, div. B, title IV, § 404(b), Oct. 3, 2008, 122 Stat. 3860, provided that: “The amendments made by this section [amending this section] shall apply to wages paid after December 31, 2008.”
+Pub. L. 110–343, div. B, title IV, § 404(b), Oct. 3, 2008, 122 Stat. 3860, provided that: “The amendments made by this section [amending this section] shall apply to wages paid after December 31, 2008.”
 
 **Effective Date of 2007 Amendment**
 
-Pub. L. 110–140, title XV, § 1501(b), Dec. 19, 2007, 121 Stat. 1800, provided that: “The amendments made by this section [amending this section] shall apply to wages paid after December 31, 2007.”
+Pub. L. 110–140, title XV, § 1501(b), Dec. 19, 2007, 121 Stat. 1800, provided that: “The amendments made by this section [amending this section] shall apply to wages paid after December 31, 2007.”
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title XI, § 11333(b), Nov. 5, 1990, 104 Stat. 1388–470, provided that: “The amendments made by this section [amending this section] shall apply to wages paid after December 31, 1990.”
+Pub. L. 101–508, title XI, § 11333(b), Nov. 5, 1990, 104 Stat. 1388–470, provided that: “The amendments made by this section [amending this section] shall apply to wages paid after December 31, 1990.”
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–203, title IX, § 9153(b), Dec. 22, 1987, 101 Stat. 1330–326, provided that: “The amendment made by subsection (a) [amending this section] shall apply to wages paid on or after January 1, 1988.”
+Pub. L. 100–203, title IX, § 9153(b), Dec. 22, 1987, 101 Stat. 1330–326, provided that: “The amendment made by subsection (a) [amending this section] shall apply to wages paid on or after January 1, 1988.”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title II, § 271(d)(1), (2), formerly § 271(b)(1), (2), Sept. 3, 1982, 96 Stat. 555, as redesignated by Pub. L. 98–601, § 1(a), Oct. 30, 1984, 98 Stat. 3147, provided that:
+Pub. L. 97–248, title II, § 271(d)(1), (2), formerly § 271(b)(1), (2), Sept. 3, 1982, 96 Stat. 555, as redesignated by Pub. L. 98–601, § 1(a), Oct. 30, 1984, 98 Stat. 3147, provided that:
 
 > **“(1) Subsections (a) and (b).—** The amendments made by subsections (a) and (b) [amending this section, sections 3306 and 6157 of this title, and sections 1101 and 1105 of Title 42, The Public Health and Welfare] shall apply to remuneration paid after December 31, 1982.
 
@@ -131,25 +131,25 @@ Pub. L. 97–248, title II, § 271(d)(1), (2), formerly § 271(b)(1), (2), S
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–566, title II, § 211(d)(2), Oct. 20, 1976, 90 Stat. 2677, provided that: “The amendment made by subsection (b) [amending this section] shall apply to remuneration paid after December 31, 1976.”
+Pub. L. 94–566, title II, § 211(d)(2), Oct. 20, 1976, 90 Stat. 2677, provided that: “The amendment made by subsection (b) [amending this section] shall apply to remuneration paid after December 31, 1976.”
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–373, title III, § 301(a), Aug. 10, 1970, 84 Stat. 713, provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1969.
+Pub. L. 91–373, title III, § 301(a), Aug. 10, 1970, 84 Stat. 713, provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1969.
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–778, title V, § 523(c), Sept. 13, 1960, 74 Stat. 982, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to the calendar year 1961 and calendar years thereafter.”
+Pub. L. 86–778, title V, § 523(c), Sept. 13, 1960, 74 Stat. 982, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to the calendar year 1961 and calendar years thereafter.”
 
 **Savings Provision**
 
 For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-## § 3302. Credits against tax
+## § 3302. Credits against tax
 
 **(a) Contributions to State unemployment funds**
 
@@ -351,13 +351,13 @@ The Secretary of Labor may require a State to furnish such information at such t
 
 If a certified professional employer organization (as defined in section 7705), or a customer of such organization, makes a contribution to the State’s unemployment fund with respect to wages paid to a work site employee, such certified professional employer organization shall be eligible for the credits available under this section with respect to such contribution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, § 523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, § 14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, § 1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, § 2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, § 1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, § 142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, § 239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, § 110(a), title III, § 302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§ 1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, § 201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, § 6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, § 2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§ 271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§ 512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, § 1884(1), (2), Oct. 22, 1986, 100 Stat. 2919; Pub. L. 113–295, div. A, title II, § 221(a)(101), div. B, title II, § 206(c)(1), Dec. 19, 2014, 128 Stat. 4052, 4070; Pub. L. 115–141, div. U, title IV, § 401(b)(38), (39), Mar. 23, 2018, 132 Stat. 1204.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 439; Pub. L. 86–778, title V, § 523(b), Sept. 13, 1960, 74 Stat. 980; Pub. L. 87–6, § 14(b), Mar. 24, 1961, 75 Stat. 16; Pub. L. 87–321, § 1(a), Sept. 26, 1961, 75 Stat. 683; Pub. L. 88–31, § 2(b), May 29, 1963, 77 Stat. 51; Pub. L. 88–173, § 1(a)–(c), Nov. 7, 1963, 77 Stat. 305; Pub. L. 91–373, title I, § 142(a), (b), Aug. 10, 1970, 84 Stat. 707; Pub. L. 93–618, title II, § 239(e), Jan. 3, 1975, 88 Stat. 2025; Pub. L. 94–45, title I, § 110(a), title III, § 302, June 30, 1975, 89 Stat. 239, 243; Pub. L. 94–455, title XIX, §§ 1903(a)(12), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1808, 1834; Pub. L. 95–19, title II, § 201(a), Apr. 12, 1977, 91 Stat. 43; Pub. L. 96–589, § 6(f), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 97–35, title XXIV, § 2406(a), Aug. 13, 1981, 95 Stat. 876; Pub. L. 97–248, title II, §§ 271(c)(2), (3)(A), (B), 272(a), 273(a), Sept. 3, 1982, 96 Stat. 555–557; Pub. L. 98–21, title V, §§ 512(a)(1), (b), 513(a)–(c), Apr. 20, 1983, 97 Stat. 146, 147; Pub. L. 99–514, title XVIII, § 1884(1), (2), Oct. 22, 1986, 100 Stat. 2919; Pub. L. 113–295, div. A, title II, § 221(a)(101), div. B, title II, § 206(c)(1), Dec. 19, 2014, 128 Stat. 4052, 4070; Pub. L. 115–141, div. U, title IV, § 401(b)(38), (39), Mar. 23, 2018, 132 Stat. 1204.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (c)(2), (f)(2)(D), (5)(A)(i), (8)(B), and (g)(2)(A), (B), (3)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XII of the Social Security Act is classified generally to subchapter XII (§ 1321 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 901(d)(1) and 1202(b)(8)(B) of the Social Security Act are classified to sections 1101(d)(1) and 1322(b)(8)(B), respectively, of Title 42. For complete classification of this act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(2), (f)(2)(D), (5)(A)(i), (8)(B), and (g)(2)(A), (B), (3)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XII of the Social Security Act is classified generally to subchapter XII (§ 1321 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 901(d)(1) and 1202(b)(8)(B) of the Social Security Act are classified to sections 1101(d)(1) and 1322(b)(8)(B), respectively, of Title 42. For complete classification of this act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 239 of the Trade Act of 1974, referred to in subsec. (c)(3)(A), (B), is classified to subsec. (c)(3) of this section and to section 2311 of Title 19, Customs Duties.
 
@@ -367,43 +367,43 @@ The date of the enactment of this subsection, referred to in subsec. (g)(2)(C), 
 
 **Amendments**
 
-2018—Subsec. (c)(2). Pub. L. 115–141, § 401(b)(38), struck out at beginning of concluding provisions “The provisions of the preceding sentence shall not be applicable with respect to the taxable year beginning January 1, 1975, or any succeeding taxable year which begins before January 1, 1980; and, for purposes of such sentence, January 1, 1980, shall be deemed to be the first January 1 occurring after January 1, 1974, and consecutive taxable years in the period commencing January 1, 1980, shall be determined as if the taxable year which begins on January 1, 1980, were the taxable year immediately succeeding the taxable year which began on January 1, 1974.”
+2018—Subsec. (c)(2). Pub. L. 115–141, § 401(b)(38), struck out at beginning of concluding provisions “The provisions of the preceding sentence shall not be applicable with respect to the taxable year beginning January 1, 1975, or any succeeding taxable year which begins before January 1, 1980; and, for purposes of such sentence, January 1, 1980, shall be deemed to be the first January 1 occurring after January 1, 1974, and consecutive taxable years in the period commencing January 1, 1980, shall be determined as if the taxable year which begins on January 1, 1980, were the taxable year immediately succeeding the taxable year which began on January 1, 1974.”
 
-Subsec. (f)(2). Pub. L. 115–141, § 401(b)(39)(B), struck out concluding provisions which read as follows: “The requirements of subparagraphs (C) and (D) shall not apply to taxable years 1981 and 1982.”
+Subsec. (f)(2). Pub. L. 115–141, § 401(b)(39)(B), struck out concluding provisions which read as follows: “The requirements of subparagraphs (C) and (D) shall not apply to taxable years 1981 and 1982.”
 
-Subsec. (f)(2)(D). Pub. L. 115–141, § 401(b)(39)(A), struck out “(or, for purposes of applying this subparagraph to taxable year 1983, September 30, 1981)” before period at end.
+Subsec. (f)(2)(D). Pub. L. 115–141, § 401(b)(39)(A), struck out “(or, for purposes of applying this subparagraph to taxable year 1983, September 30, 1981)” before period at end.
 
-2014—Subsec. (f)(4). Pub. L. 113–295, § 221(a)(101)(A), substituted “subsection, the” for “subsection—”, subpar. (A) designation and heading “In general”, and “The”; redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigned margins; and struck out former subpar. (B) which related to treatment of additional tax under this chapter for taxable years 1983 and 1984.
+2014—Subsec. (f)(4). Pub. L. 113–295, § 221(a)(101)(A), substituted “subsection, the” for “subsection—”, subpar. (A) designation and heading “In general”, and “The”; redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigned margins; and struck out former subpar. (B) which related to treatment of additional tax under this chapter for taxable years 1983 and 1984.
 
-Subsec. (f)(5)(D), (E). Pub. L. 113–295, § 221(a)(101)(B), redesignated subpar. (E) as (D) and struck out former subpar. (D) which related to special rules for years before 1985.
+Subsec. (f)(5)(D), (E). Pub. L. 113–295, § 221(a)(101)(B), redesignated subpar. (E) as (D) and struck out former subpar. (D) which related to special rules for years before 1985.
 
-Subsec. (h). Pub. L. 113–295, § 206(c)(1), added subsec. (h).
+Subsec. (h). Pub. L. 113–295, § 206(c)(1), added subsec. (h).
 
-1986—Subsec. (c)(2)(B). Pub. L. 99–514, § 1884(1), substituted “denominator” for second reference to “determination”, and in cl. (i) inserted “percent” after “2.7” and struck out “percent” after “is to be made”.
+1986—Subsec. (c)(2)(B). Pub. L. 99–514, § 1884(1), substituted “denominator” for second reference to “determination”, and in cl. (i) inserted “percent” after “2.7” and struck out “percent” after “is to be made”.
 
-Subsec. (f)(8)(A). Pub. L. 99–514, § 1884(2), substituted “1986” for “1987”.
+Subsec. (f)(8)(A). Pub. L. 99–514, § 1884(2), substituted “1986” for “1987”.
 
-1983—Subsec. (c)(2)(B). Pub. L. 98–21, § 513(c), inserted “, multiplied by a fraction, the numerator of which is the State’s average annual wage in covered employment for the calendar year in which the determination is made and the determination of which is the wage base under this chapter,” in provisions preceding cl. (i).
+1983—Subsec. (c)(2)(B). Pub. L. 98–21, § 513(c), inserted “, multiplied by a fraction, the numerator of which is the State’s average annual wage in covered employment for the calendar year in which the determination is made and the determination of which is the wage base under this chapter,” in provisions preceding cl. (i).
 
-Subsec. (c)(2)(B)(i). Pub. L. 98–21, § 513(b), inserted “multiplied by a fraction, the numerator of which is the wage base under this chapter and the denominator of which is the estimated United States average annual wage in covered employment for the calendar year in which the determination is to be made” after “2.7”.
+Subsec. (c)(2)(B)(i). Pub. L. 98–21, § 513(b), inserted “multiplied by a fraction, the numerator of which is the wage base under this chapter and the denominator of which is the estimated United States average annual wage in covered employment for the calendar year in which the determination is to be made” after “2.7”.
 
-Subsec. (d)(4)(B). Pub. L. 98–21, § 513(a), amended subpar. (B) generally, adding cl. (i), designating existing provisions as cl. (ii), and inserting reference to purposes of subsec. (c)(2)(C).
+Subsec. (d)(4)(B). Pub. L. 98–21, § 513(a), amended subpar. (B) generally, adding cl. (i), designating existing provisions as cl. (ii), and inserting reference to purposes of subsec. (c)(2)(C).
 
-Subsec. (f)(1). Pub. L. 98–21, § 512(b), struck out “beginning before January 1, 1988,” after “any taxable year”.
+Subsec. (f)(1). Pub. L. 98–21, § 512(b), struck out “beginning before January 1, 1988,” after “any taxable year”.
 
-Subsec. (f)(8). Pub. L. 98–21, § 512(a)(1), added par. (8).
+Subsec. (f)(8). Pub. L. 98–21, § 512(a)(1), added par. (8).
 
-1982—Subsec. (b). Pub. L. 97–248, § 271(c)(2)(A), substituted “5.4 percent” for “2.7 percent”.
+1982—Subsec. (b). Pub. L. 97–248, § 271(c)(2)(A), substituted “5.4 percent” for “2.7 percent”.
 
-Subsec. (c)(2). Pub. L. 97–248, § 273(a), inserted provision at end that subpar. (C) shall not apply with respect to any taxable year to which it would otherwise apply (but that subpar. (B) would apply to such taxable year) if the Secretary of Labor determines (on or before Nov. 10 of such taxable year) that the State meets the requirements of subsec. (f)(2)(B) of this section for such taxable year.
+Subsec. (c)(2). Pub. L. 97–248, § 273(a), inserted provision at end that subpar. (C) shall not apply with respect to any taxable year to which it would otherwise apply (but that subpar. (B) would apply to such taxable year) if the Secretary of Labor determines (on or before Nov. 10 of such taxable year) that the State meets the requirements of subsec. (f)(2)(B) of this section for such taxable year.
 
-Subsec. (c)(2)(A). Pub. L. 97–248, § 271(c)(3)(A), substituted “5 percent” for “10 percent” in two places.
+Subsec. (c)(2)(A). Pub. L. 97–248, § 271(c)(3)(A), substituted “5 percent” for “10 percent” in two places.
 
-Subsec. (c)(3). Pub. L. 97–248, § 271(c)(3)(B), substituted “7½ percent” for “15 percent” in provisions following subpar. (B).
+Subsec. (c)(3). Pub. L. 97–248, § 271(c)(3)(B), substituted “7½ percent” for “15 percent” in provisions following subpar. (B).
 
-Subsec. (d)(1). Pub. L. 97–248, § 271(c)(2)(B), substituted “6 percent” for “3 percent” in par. heading and text.
+Subsec. (d)(1). Pub. L. 97–248, § 271(c)(2)(B), substituted “6 percent” for “3 percent” in par. heading and text.
 
-Subsec. (g). Pub. L. 97–248, § 272(a), added subsec. (g).
+Subsec. (g). Pub. L. 97–248, § 272(a), added subsec. (g).
 
 1981—Subsec. (f). Pub. L. 97–35 added subsec. (f).
 
@@ -411,33 +411,33 @@ Subsec. (g). Pub. L. 97–248, § 272(a), added subsec. (g).
 
 1977—Subsec. (c)(2). Pub. L. 95–19 substituted “January 1, 1980” for “January 1, 1978” wherever appearing.
 
-1976—Subsec. (a)(1). Pub. L. 94–455, § 1903(a)(12)(A), struck out “(10-month period in the case of October 31, 1972)” after “ending on October 31 of such year”.
+1976—Subsec. (a)(1). Pub. L. 94–455, § 1903(a)(12)(A), struck out “(10-month period in the case of October 31, 1972)” after “ending on October 31 of such year”.
 
-Subsec. (b). Pub. L. 94–455, § 1903(a)(12)(B), struck out “(10-month period in the case of October 31, 1972)” after “ending on October 31, of such year” and substituted “12-month period” for “12 or 10–month period, as the case may be,”.
+Subsec. (b). Pub. L. 94–455, § 1903(a)(12)(B), struck out “(10-month period in the case of October 31, 1972)” after “ending on October 31, of such year” and substituted “12-month period” for “12 or 10–month period, as the case may be,”.
 
-Subsec. (c)(2). Pub. L. 94–455, § 1903(a)(12)(C)(i), (ii), redesignated par. (3) as (2), struck out “on or after the date of the enactment of the Employment Security Act of 1960” after “title XII of the Social Security Act”, and substituted “paragraph (1)” for “paragraphs (1) and (2). Former par. (2), which related to the computation of the reduction of the total credits allowable to a taxpayer with respect to advances made to the unemployment account, was struck out.
+Subsec. (c)(2). Pub. L. 94–455, § 1903(a)(12)(C)(i), (ii), redesignated par. (3) as (2), struck out “on or after the date of the enactment of the Employment Security Act of 1960” after “title XII of the Social Security Act”, and substituted “paragraph (1)” for “paragraphs (1) and (2). Former par. (2), which related to the computation of the reduction of the total credits allowable to a taxpayer with respect to advances made to the unemployment account, was struck out.
 
-Subsec. (c)(3), (4). Pub. L. 94–455, § 1903(a)(12)(C)(i), (iii), redesignated par. (4) as (3) and substituted “paragraphs (1) and (2)” for “paragraphs (1), (2), and (3)”. Former par. (3) redesignated (2).
+Subsec. (c)(3), (4). Pub. L. 94–455, § 1903(a)(12)(C)(i), (iii), redesignated par. (4) as (3) and substituted “paragraphs (1) and (2)” for “paragraphs (1), (2), and (3)”. Former par. (3) redesignated (2).
 
-Subsec. (d)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (d)(2). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
-Subsec. (d)(3). Pub. L. 94–455, § 1903(a)(12)(C)(iv), struck out “or (3)” after “Paragraph (2)”.
+Subsec. (d)(3). Pub. L. 94–455, § 1903(a)(12)(C)(iv), struck out “or (3)” after “Paragraph (2)”.
 
-Subsec. (d)(4) to (6). Pub. L. 94–455, § 1903(a)(12(C)(v), substituted “subsection (c)(2)” for “subsection (c)(3)”.
+Subsec. (d)(4) to (6). Pub. L. 94–455, § 1903(a)(12(C)(v), substituted “subsection (c)(2)” for “subsection (c)(3)”.
 
-Subsec. (d)(7). Pub. L. 94–455, § 1903(a)(12)(C)(vi), substituted “subsection (c)(2)(B) or (C)” for “subsection (c)(3)(B) or (C)”.
+Subsec. (d)(7). Pub. L. 94–455, § 1903(a)(12)(C)(vi), substituted “subsection (c)(2)(B) or (C)” for “subsection (c)(3)(B) or (C)”.
 
-Subsec. (d)(8). Pub. L. 94–455, § 1903(a)(12)(D), struck out par. (8) which provided for a cross reference to section 104 of the Temporary Unemployment Compensation Act of 1958 relating to the reduction of total credits allowable under subsec. (c) of this section.
+Subsec. (d)(8). Pub. L. 94–455, § 1903(a)(12)(D), struck out par. (8) which provided for a cross reference to section 104 of the Temporary Unemployment Compensation Act of 1958 relating to the reduction of total credits allowable under subsec. (c) of this section.
 
-1975—Subsec. (c)(3). Pub. L. 94–45, § 110(a), provided that par. (3) shall not be applicable with respect to the taxable year beginning Jan. 1, 1975, or any succeeding taxable year which begins before Jan. 1, 1978, and that, for the purposes of par. (3), Jan. 1, 1978, shall be deemed to be the first Jan. 1 occurring after Jan. 1, 1974, and consecutive taxable years in the period commencing Jan. 1, 1978, shall be determined as if the taxable year which begins Jan. 1, 1978, were the taxable year immediately succeeding the taxable year which began on Jan. 1, 1974.
+1975—Subsec. (c)(3). Pub. L. 94–45, § 110(a), provided that par. (3) shall not be applicable with respect to the taxable year beginning Jan. 1, 1975, or any succeeding taxable year which begins before Jan. 1, 1978, and that, for the purposes of par. (3), Jan. 1, 1978, shall be deemed to be the first Jan. 1 occurring after Jan. 1, 1974, and consecutive taxable years in the period commencing Jan. 1, 1978, shall be determined as if the taxable year which begins Jan. 1, 1978, were the taxable year immediately succeeding the taxable year which began on Jan. 1, 1974.
 
-Subsec. (c)(4). Pub. L. 94–45, § 302, substituted “July 15, 1975” for “July 1, 1975”.
+Subsec. (c)(4). Pub. L. 94–45, § 302, substituted “July 15, 1975” for “July 1, 1975”.
 
 Pub. L. 93–618 added par. (4).
 
-1970—Subsec. (a)(1). Pub. L. 91–373, § 142(a), substituted “certified as provided in section 3304 for the 12–month period ending on October 31 of such year (10–month period in the case of October 31, 1972)” for “certified for the taxable year as provided in section 3304”.
+1970—Subsec. (a)(1). Pub. L. 91–373, § 142(a), substituted “certified as provided in section 3304 for the 12–month period ending on October 31 of such year (10–month period in the case of October 31, 1972)” for “certified for the taxable year as provided in section 3304”.
 
-Subsec. (b). Pub. L. 91–373, § 142(b), changed the certification date from December 31 to October 31, with a provision for a 10–month period in the case of October 31, 1972, and provided for certification based on a 12-month period ending each October 31.
+Subsec. (b). Pub. L. 91–373, § 142(b), changed the certification date from December 31 to October 31, with a provision for a 10–month period in the case of October 31, 1972, and provided for certification based on a 12-month period ending each October 31.
 
 1963—Subsec. (c). Pub. L. 88–173, in cl. (2), substituted “on January 1, 1963 (and in the case of any succeeding taxable year beginning before January 1, 1968),” for “with the fourth consecutive January 1”, in subpar. (A), and “on or after January 1, 1968,” for “with a consecutive January 1”, in subpar. (B), and inserted paragraph following subpar. (B).
 
@@ -455,27 +455,27 @@ Subsec. (d). Pub. L. 86–778 added subsec. (d).
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–295, div. B, title II, § 206(g)(1), Dec. 19, 2014, 128 Stat. 4071, provided that: “The amendments made by this section [enacting sections 3511 and 7705 of this title and amending this section and sections 3303, 6053, 6652, and 7528 of this title] shall apply with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after the date of the enactment of this Act [Dec. 19, 2014].”
+Pub. L. 113–295, div. B, title II, § 206(g)(1), Dec. 19, 2014, 128 Stat. 4071, provided that: “The amendments made by this section [enacting sections 3511 and 7705 of this title and amending this section and sections 3303, 6053, 6652, and 7528 of this title] shall apply with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after the date of the enactment of this Act [Dec. 19, 2014].”
 
 Amendment by section 221(a)(101) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–21, title V, § 512(a)(2), Apr. 20, 1983, 97 Stat. 146, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to taxable year 1983 and taxable years thereafter.”
+Pub. L. 98–21, title V, § 512(a)(2), Apr. 20, 1983, 97 Stat. 146, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to taxable year 1983 and taxable years thereafter.”
 
-Pub. L. 98–21, title V, § 513(d), Apr. 20, 1983, 97 Stat. 147, provided that: “The amendments made by this section [amending this section] shall be effective for taxable year 1983 and taxable years thereafter.”
+Pub. L. 98–21, title V, § 513(d), Apr. 20, 1983, 97 Stat. 147, provided that: “The amendments made by this section [amending this section] shall be effective for taxable year 1983 and taxable years thereafter.”
 
 **Effective Date of 1982 Amendment**
 
 Amendment by section 271(c)(2), (3)(A), (B) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1984, see section 271(d)(2) of Pub. L. 97–248, as amended, set out as a note under section 3301 of this title.
 
-Pub. L. 97–248, title II, § 272(b), Sept. 3, 1982, 96 Stat. 557, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 97–248, title II, § 272(b), Sept. 3, 1982, 96 Stat. 557, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1982.”
 
-Pub. L. 97–248, title II, § 273(b), Sept. 3, 1982, 96 Stat. 557, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1982.”
+Pub. L. 97–248, title II, § 273(b), Sept. 3, 1982, 96 Stat. 557, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1982.”
 
 **Effective Date of 1981 Amendment**
 
-Pub. L. 97–35, title XXIV, § 2406(b), Aug. 13, 1981, 95 Stat. 878, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1980.”
+Pub. L. 97–35, title XXIV, § 2406(b), Aug. 13, 1981, 95 Stat. 878, provided that: “The amendment made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 1980.”
 
 **Effective Date of 1980 Amendment**
 
@@ -483,15 +483,15 @@ Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not to apply to procee
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–373, title I, § 142(i), Aug. 10, 1970, 84 Stat. 708, provided that: “The amendments made by this section [amending this section and sections 3303 and 3304 of this title] shall apply with respect to the taxable year 1972 and taxable years thereafter.”
+Pub. L. 91–373, title I, § 142(i), Aug. 10, 1970, 84 Stat. 708, provided that: “The amendments made by this section [amending this section and sections 3303 and 3304 of this title] shall apply with respect to the taxable year 1972 and taxable years thereafter.”
 
 **Effective Date of 1963 Amendment**
 
-Pub. L. 88–173, § 1(d), Nov. 7, 1963, 77 Stat. 306, provided that: “The amendments made by subsections (a), (b), and (c) of this section [amending this section] shall apply only with respect to taxable years beginning on or after January 1, 1963.”
+Pub. L. 88–173, § 1(d), Nov. 7, 1963, 77 Stat. 306, provided that: “The amendments made by subsections (a), (b), and (c) of this section [amending this section] shall apply only with respect to taxable years beginning on or after January 1, 1963.”
 
 **Effective Date of 1961 Amendment**
 
-Pub. L. 87–321, § 1(b), Sept. 26, 1961, 75 Stat. 683, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the calendar year 1961 and each calendar year thereafter.”
+Pub. L. 87–321, § 1(b), Sept. 26, 1961, 75 Stat. 683, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the calendar year 1961 and each calendar year thereafter.”
 
 **Savings Provision**
 
@@ -499,7 +499,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 **Construction**
 
-Pub. L. 113–295, div. B, title II, § 206(h), Dec. 19, 2014, 128 Stat. 4071, provided that:
+Pub. L. 113–295, div. B, title II, § 206(h), Dec. 19, 2014, 128 Stat. 4071, provided that:
 
 > “Nothing contained in this section [enacting sections 3511 and 7705 of this title, amending this section and sections 3303, 6053, 6652, and 7528 of this title, and enacting provisions set out as notes under this section and section 7705 of this title] or the amendments made by this section shall be construed to create any inference with respect to the determination of who is an employee or employer—
 
@@ -509,7 +509,7 @@ Pub. L. 113–295, div. B, title II, § 206(h), Dec. 19, 2014, 128 Stat. 4071,
 
 **Extension of Period for Repayment of Federal Loans to State Unemployment Funds**
 
-Pub. L. 102–318, title III, § 304, July 3, 1992, 106 Stat. 298, provided that:
+Pub. L. 102–318, title III, § 304, July 3, 1992, 106 Stat. 298, provided that:
 
 > **“(a) General Rule.—** If the Secretary of Labor determines that a State meets the requirements of subsection (b), paragraph (2) of section 3302(c) of the Internal Revenue Code of 1986 shall be applied with respect to such State for taxable years after 1991—
 
@@ -527,13 +527,13 @@ Pub. L. 102–318, title III, § 304, July 3, 1992, 106 Stat. 298, provided th
 
 > **“(2)** such series includes a taxable year beginning in 1992, 1993, or 1994.”
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Transitional Rule for Certain Employees and Small Businesses**
 
-Pub. L. 97–248, title II, § 271(d)(3), (4), formerly § 271(b)(3), Sept. 3, 1982, 96 Stat. 555, as redesignated and amended by Pub. L. 98–601, § 1(a), Oct. 30, 1984, 98 Stat. 3147; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title II, § 271(d)(3), (4), formerly § 271(b)(3), Sept. 3, 1982, 96 Stat. 555, as redesignated and amended by Pub. L. 98–601, § 1(a), Oct. 30, 1984, 98 Stat. 3147; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(3) Transitional rule for certain employees.—**
 
@@ -579,15 +579,15 @@ Pub. L. 97–248, title II, § 271(d)(3), (4), formerly § 271(b)(3), Sept. 
 
 > **“(E) Definition.—** For purposes of this paragraph, the term ‘wages’ means the remuneration subject to contributions under the State unemployment compensation law, except that for purposes of subparagraph (D) the amount of total wages paid by an employer shall be determined without regard to any limitation on the amount subject to contribution.”
 
-[Pub. L. 98–601, § 1(b), Oct. 30, 1984, 98 Stat. 3148, provided that: “The amendment made by subsection (a) [amending section 271(d) of Pub. L. 97–248, set out above] shall apply to remuneration paid after December 31, 1984.” ]
+[Pub. L. 98–601, § 1(b), Oct. 30, 1984, 98 Stat. 3148, provided that: “The amendment made by subsection (a) [amending section 271(d) of Pub. L. 97–248, set out above] shall apply to remuneration paid after December 31, 1984.” ]
 
 **Findings of Secretary of Labor Concerning Steps Taken by States as Prerequisite to Suspension Until January 1, 1980, of Automatic Increases in Federal Unemployment Tax**
 
-Pub. L. 95–19, title II, § 201(b), Apr. 12, 1977, 91 Stat. 43, provided that extension under section 201(a) of Pub. L. 95–19 (amending this section) from Jan. 1, 1978, to Jan. 1, 1980, not to apply to any State unless the Secretary of Labor finds that such State meets the requirement of section 110(b) of Emergency Compensation and Special Unemployment Assistance Extension Act of 1975.
+Pub. L. 95–19, title II, § 201(b), Apr. 12, 1977, 91 Stat. 43, provided that extension under section 201(a) of Pub. L. 95–19 (amending this section) from Jan. 1, 1978, to Jan. 1, 1980, not to apply to any State unless the Secretary of Labor finds that such State meets the requirement of section 110(b) of Emergency Compensation and Special Unemployment Assistance Extension Act of 1975.
 
 **Fiscal Soundness of State Unemployment Account in Unemployment Trust Fund; Unpaid Loans to States; Findings of Secretary of Labor Concerning Steps Taken by States as Prerequisite to 1975–1977 Suspension of Automatic Increases in Federal Unemployment Tax**
 
-Pub. L. 94–45, title I, § 110(b), June 30, 1975, 89 Stat. 239, provided that:
+Pub. L. 94–45, title I, § 110(b), June 30, 1975, 89 Stat. 239, provided that:
 
 > **“(1)** The amendment made by subsection (a) [amending this section] shall not be applicable in the case of any State unless the Secretary of Labor finds that such State has studied and taken appropriate action with respect to the financing of its unemployment programs so as substantially to accomplish the purpose of restoring the fiscal soundness of the State’s unemployment account in the Unemployment Trust Fund and permitting the repayment within a reasonable time of any advances made to such account under title XII of the Social Security Act [section 1321 et seq. of Title 42, The Public Health and Welfare]. For purposes of the preceding sentence, appropriate action with respect to the financing of a State’s unemployment programs means an increase in the State’s unemployment tax rate, an increase in the State’s unemployment tax base, a change in the experience rating formulas, or a combination thereof.
 
@@ -595,7 +595,7 @@ Pub. L. 94–45, title I, § 110(b), June 30, 1975, 89 Stat. 239, provided tha
 
 > **“(3)** Immediately after he makes a determination with respect to any State under paragraph (1), the Secretary of Labor shall publish such determination, together with his reasons therefor, in the Federal Register.”
 
-## § 3303. Conditions of additional credit allowance
+## § 3303. Conditions of additional credit allowance
 
 **(a) State standards** A taxpayer shall be allowed an additional credit under section 3302(b) with respect to any reduced rate of contributions permitted by a State law, only if the Secretary of Labor finds that under such law—
 
@@ -687,29 +687,29 @@ A State may, without being deemed to violate the standards set forth in subsecti
 
 Nothing in paragraph (1) shall limit the authority of a State to provide that an employer’s account not be relieved of charges relating to a payment from the State unemployment fund for reasons other than the reasons described in subparagraphs (A) and (B) of such paragraph, such as after the first instance of a failure to respond timely or adequately to requests described in paragraph (1)(A).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, § 2, 68 Stat. 1130; Pub. L. 91–373, title I, §§ 104(c), 122(a), 142(c)–(e), Aug. 10, 1970, 84 Stat. 699, 702, 707; Pub. L. 94–455, title XIX, §§ 1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, § 122(a), (b), Oct. 20, 1976, 90 Stat. 2675, 2676; Pub. L. 112–40, title II, § 252(a), Oct. 21, 2011, 125 Stat. 421; Pub. L. 113–295, div. B, title II, § 206(c)(2), Dec. 19, 2014, 128 Stat. 4070.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 440; Sept. 1, 1954, ch. 1212, § 2, 68 Stat. 1130; Pub. L. 91–373, title I, §§ 104(c), 122(a), 142(c)–(e), Aug. 10, 1970, 84 Stat. 699, 702, 707; Pub. L. 94–455, title XIX, §§ 1903(a)(13), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, § 122(a), (b), Oct. 20, 1976, 90 Stat. 2675, 2676; Pub. L. 112–40, title II, § 252(a), Oct. 21, 2011, 125 Stat. 421; Pub. L. 113–295, div. B, title II, § 206(c)(2), Dec. 19, 2014, 128 Stat. 4070.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–295, § 206(c)(2)(B), substituted “paragraphs (1), (2), (3), and (4)” for “paragraphs (1), (2), and (3)” and “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)” in concluding provisions.
+2014—Subsec. (a). Pub. L. 113–295, § 206(c)(2)(B), substituted “paragraphs (1), (2), (3), and (4)” for “paragraphs (1), (2), and (3)” and “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)” in concluding provisions.
 
-Subsec. (a)(4). Pub. L. 113–295, § 206(c)(2)(A), added par. (4).
+Subsec. (a)(4). Pub. L. 113–295, § 206(c)(2)(A), added par. (4).
 
 2011—Subsecs. (f), (g). Pub. L. 112–40 added subsec. (f) and struck out former subsecs. (f) and (g) which contained transitional provisions enacted by prior amendments.
 
 1976—Subsec. (b)(1) to (3). Pub. L. 94–455 substituted reference to Secretary of the Treasury for reference to Secretary and reference to 12–month period for reference to 12 or 10-month period, as the case may be, and struck out reference to (10-month period in the case of Oct. 31, 1972) following provisions relating to 12–month period ending Oct. 31.
 
-Subsec. (f). Pub. L. 94–566, § 122(b), substituted “which elects before April 1, 1972,” for “which elects, when such election first becomes available under the State law,”.
+Subsec. (f). Pub. L. 94–566, § 122(b), substituted “which elects before April 1, 1972,” for “which elects, when such election first becomes available under the State law,”.
 
-Subsec. (g). Pub. L. 94–566, § 122(a), added subsec. (g).
+Subsec. (g). Pub. L. 94–566, § 122(a), added subsec. (g).
 
-1970—Subsec. (a). Pub. L. 91–373, § 122(a), added to provision following par. (3) the authorization for the allowance of a reduced rate by State law (but not less than 1 percent) on a reasonable basis other than as permitted by par. (1), (2), or (3).
+1970—Subsec. (a). Pub. L. 91–373, § 122(a), added to provision following par. (3) the authorization for the allowance of a reduced rate by State law (but not less than 1 percent) on a reasonable basis other than as permitted by par. (1), (2), or (3).
 
-Subsec. (b). Pub. L. 91–373, § 142(c)–(e), changed the certification date referred to in pars. (1) to (3) from Dec. 31 to Oct. 31, with provision for a 10-month period in the case of Oct. 31, 1972, and, except for Oct. 31, 1972, provided for a 12-month period ending on Oct. 31 each year.
+Subsec. (b). Pub. L. 91–373, § 142(c)–(e), changed the certification date referred to in pars. (1) to (3) from Dec. 31 to Oct. 31, with provision for a 10-month period in the case of Oct. 31, 1972, and, except for Oct. 31, 1972, provided for a 12-month period ending on Oct. 31 each year.
 
-Subsecs. (e), (f). Pub. L. 91–373, § 104(c), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 91–373, § 104(c), added subsecs. (e) and (f).
 
 1954—Subsec. (a). Act Sept. 1, 1954, inserted sentence relating to reduced rates for new employers.
 
@@ -721,7 +721,7 @@ Amendment by Pub. L. 113–295 applicable with respect to wages for services per
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–40, title II, § 252(b), Oct. 21, 2011, 125 Stat. 422, provided that:
+Pub. L. 112–40, title II, § 252(b), Oct. 21, 2011, 125 Stat. 422, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to erroneous payments established after the end of the 2-year period beginning on the date of the enactment of this Act [Oct. 21, 2011].
 
@@ -729,7 +729,7 @@ Pub. L. 112–40, title II, § 252(b), Oct. 21, 2011, 125 Stat. 422, provided 
 
 **Effective Date of 1976 Amendments**
 
-Pub. L. 94–566, title I, § 122(c), Oct. 20, 1976, 90 Stat. 2676, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 20, 1976]. The amendment made by subsection (b) [amending this section] shall take effect on January 1, 1970.”
+Pub. L. 94–566, title I, § 122(c), Oct. 20, 1976, 90 Stat. 2676, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Oct. 20, 1976]. The amendment made by subsection (b) [amending this section] shall take effect on January 1, 1970.”
 
 Amendment by section 1903(a)(13) of Pub. L. 94–455 applicable with respect to wages paid after Dec. 31, 1976, see section 1903(d) of Pub. L. 94–455, set out as a note under section 3101 of this title.
 
@@ -737,17 +737,17 @@ Amendment by section 1903(a)(13) of Pub. L. 94–455 applicable with respect to 
 
 Amendment by section 104(c) of Pub. L. 91–373 [amending this section] to take effect Jan. 1, 1970, see section 104(d)(1) of Pub. L. 91–373, set out as a note under section 3304 of this title.
 
-Pub. L. 91–373, title I, § 122(b), Aug. 10, 1970, 84 Stat. 702, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to taxable years beginning after December 31, 1971.”
+Pub. L. 91–373, title I, § 122(b), Aug. 10, 1970, 84 Stat. 702, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to taxable years beginning after December 31, 1971.”
 
 Amendment by section 142(c)–(e) of Pub. L. 91–373 applicable with respect to taxable year 1972 and taxable years thereafter, see section 142(i) of Pub. L. 91–373, set out as a note under section 3302 of this title.
 
 **Effective Date of 1954 Amendment**
 
-Act Sept. 1, 1954, ch. 1212, § 2, 68 Stat. 1130, provided that the amendment made by that section is effective after Dec. 31, 1954.
+Act Sept. 1, 1954, ch. 1212, § 2, 68 Stat. 1130, provided that the amendment made by that section is effective after Dec. 31, 1954.
 
 **Treatment of Certain Charitable Organizations Retroactively Determined To Be Described in Section 501(c)(3) of This Title**
 
-Pub. L. 98–21, title V, § 524, Apr. 20, 1983, 97 Stat. 149, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 98–21, title V, § 524, Apr. 20, 1983, 97 Stat. 149, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “If—
 
@@ -763,7 +763,7 @@ Pub. L. 98–21, title V, § 524, Apr. 20, 1983, 97 Stat. 149, as amended by P
 
 > then [former] section 3303(f) of such Code shall be applied with respect to such organization as if it did not contain the requirement that the election be made before April 1, 1972, and by substituting ‘January 1, 1982’ for ‘January 1, 1969’.”
 
-## § 3304. Approval of State laws
+## § 3304. Approval of State laws
 
 **(a) Requirements** The Secretary of Labor shall approve any State law submitted to him, within 30 days of such submission, which he finds provides that—
 
@@ -907,65 +907,65 @@ then such provision shall be applied by taking into account for each such portio
 
 **(4)** is a public or other nonprofit institution.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 443; Pub. L. 91–373, title I, §§ 104(a), 108(a), 121(a), 131(b)(2), 142(f)–(h), title II, § 206, Aug. 10, 1970, 84 Stat. 697, 701, 704, 707, 708, 712; Pub. L. 94–455, title XIX, §§ 1903(a)(14), 1906(b)(13)(C), (E), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, § 115(c)(1), (5), title III, §§ 312(a), (b), 314(a), title V, § 506(b), Oct. 20, 1976, 90 Stat. 2670, 2671, 2679, 2680, 2687; Pub. L. 95–19, title III, § 302(a), (c), (e), Apr. 12, 1977, 91 Stat. 44, 45; Pub. L. 95–171, § 2(a), Nov. 12, 1977, 91 Stat. 1353; Pub. L. 95–216, title IV, § 403(b), Dec. 20, 1977, 91 Stat. 1561; Pub. L. 96–364, title IV, § 414(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 97–35, title XXIV, § 2408(a), Aug. 13, 1981, 95 Stat. 880; Pub. L. 97–248, title I, § 193(a), Sept. 3, 1982, 96 Stat. 408; Pub. L. 98–21, title V, §§ 515(b), 521(a), 523(a), Apr. 20, 1983, 97 Stat. 147, 148; Pub. L. 99–272, title XII, § 12401(b)(1), Apr. 7, 1986, 100 Stat. 297; Pub. L. 99–514, title XVIII, § 1899A(43), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–649, title I, § 162(e)(4), Nov. 29, 1990, 104 Stat. 5011; Pub. L. 102–164, title III, § 302(a), Nov. 15, 1991, 105 Stat. 1059; Pub. L. 102–318, title IV, § 401(a)(1), July 3, 1992, 106 Stat. 298; Pub. L. 103–182, title V, § 507(b)(1), Dec. 8, 1993, 107 Stat. 2154; Pub. L. 103–465, title VII, § 702(b), (c)(1), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–193, title I, § 110(*l*)(1), formerly § 110(*l*)(2), title III, § 316(g)(2), Aug. 22, 1996, 110 Stat. 2173, 2218, renumbered Pub. L. 105–33, title V, § 5514(a)(2), Aug. 5, 1997, 111 Stat. 620; Pub. L. 107–147, title II, § 209(d)(1), Mar. 9, 2002, 116 Stat. 33; Pub. L. 109–280, title XI, § 1105(a), Aug. 17, 2006, 120 Stat. 1060; Pub. L. 110–328, § 3(c), Sept. 30, 2008, 122 Stat. 3572; Pub. L. 110–458, title I, § 111(b), Dec. 23, 2008, 122 Stat. 5113; Pub. L. 112–96, title II, §§ 2103(a), 2161(b)(1)(A), Feb. 22, 2012, 126 Stat. 161, 172; Pub. L. 115–141, div. U, title IV, § 401(a)(211), Mar. 23, 2018, 132 Stat. 1194.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 443; Pub. L. 91–373, title I, §§ 104(a), 108(a), 121(a), 131(b)(2), 142(f)–(h), title II, § 206, Aug. 10, 1970, 84 Stat. 697, 701, 704, 707, 708, 712; Pub. L. 94–455, title XIX, §§ 1903(a)(14), 1906(b)(13)(C), (E), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 94–566, title I, § 115(c)(1), (5), title III, §§ 312(a), (b), 314(a), title V, § 506(b), Oct. 20, 1976, 90 Stat. 2670, 2671, 2679, 2680, 2687; Pub. L. 95–19, title III, § 302(a), (c), (e), Apr. 12, 1977, 91 Stat. 44, 45; Pub. L. 95–171, § 2(a), Nov. 12, 1977, 91 Stat. 1353; Pub. L. 95–216, title IV, § 403(b), Dec. 20, 1977, 91 Stat. 1561; Pub. L. 96–364, title IV, § 414(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 97–35, title XXIV, § 2408(a), Aug. 13, 1981, 95 Stat. 880; Pub. L. 97–248, title I, § 193(a), Sept. 3, 1982, 96 Stat. 408; Pub. L. 98–21, title V, §§ 515(b), 521(a), 523(a), Apr. 20, 1983, 97 Stat. 147, 148; Pub. L. 99–272, title XII, § 12401(b)(1), Apr. 7, 1986, 100 Stat. 297; Pub. L. 99–514, title XVIII, § 1899A(43), Oct. 22, 1986, 100 Stat. 2960; Pub. L. 101–649, title I, § 162(e)(4), Nov. 29, 1990, 104 Stat. 5011; Pub. L. 102–164, title III, § 302(a), Nov. 15, 1991, 105 Stat. 1059; Pub. L. 102–318, title IV, § 401(a)(1), July 3, 1992, 106 Stat. 298; Pub. L. 103–182, title V, § 507(b)(1), Dec. 8, 1993, 107 Stat. 2154; Pub. L. 103–465, title VII, § 702(b), (c)(1), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–193, title I, § 110(*l*)(1), formerly § 110(*l*)(2), title III, § 316(g)(2), Aug. 22, 1996, 110 Stat. 2173, 2218, renumbered Pub. L. 105–33, title V, § 5514(a)(2), Aug. 5, 1997, 111 Stat. 620; Pub. L. 107–147, title II, § 209(d)(1), Mar. 9, 2002, 116 Stat. 33; Pub. L. 109–280, title XI, § 1105(a), Aug. 17, 2006, 120 Stat. 1060; Pub. L. 110–328, § 3(c), Sept. 30, 2008, 122 Stat. 3572; Pub. L. 110–458, title I, § 111(b), Dec. 23, 2008, 122 Stat. 5113; Pub. L. 112–96, title II, §§ 2103(a), 2161(b)(1)(A), Feb. 22, 2012, 126 Stat. 161, 172; Pub. L. 115–141, div. U, title IV, § 401(a)(211), Mar. 23, 2018, 132 Stat. 1194.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (a)(4)(B), (D), (15)(A)(i)(II), (16)(A), (B), (17), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title IV and title XII of the Act are classified generally to part A (§ 601 et seq.) of subchapter IV and subchapter XII (§ 1321 et seq.), respectively, of chapter 7 of Title 42. Sections 303(g), 453(i), and 903(c)(2), (d)(4) of the Act are classified to sections 503(g), 653(i), and 1103(c)(2), (d)(4), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(4)(B), (D), (15)(A)(i)(II), (16)(A), (B), (17), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title IV and title XII of the Act are classified generally to part A (§ 601 et seq.) of subchapter IV and subchapter XII (§ 1321 et seq.), respectively, of chapter 7 of Title 42. Sections 303(g), 453(i), and 903(c)(2), (d)(4) of the Act are classified to sections 503(g), 653(i), and 1103(c)(2), (d)(4), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1305 of Title 42 and Tables.
 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (a)(11) and (c), is Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, which is set out as a note below.
 
 Section 212(d)(5) of the Immigration and Nationality Act, referred to in subsec. (a)(14)(A), is classified to section 1182(d)(5) of Title 8, Aliens and Nationality.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (a)(15)(A)(i)(II), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (a)(15)(A)(i)(II), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 **Amendments**
 
 2018—Subsec. (a)(4)(G)(ii). Pub. L. 115–141 substituted “section 6402(f)(4)(C)” for “section 6402(f)(4)(B)”.
 
-2012—Subsec. (a)(4)(D). Pub. L. 112–96, § 2103(a), substituted “shall” for “may”.
+2012—Subsec. (a)(4)(D). Pub. L. 112–96, § 2103(a), substituted “shall” for “may”.
 
-Subsec. (a)(4)(E). Pub. L. 112–96, § 2161(b)(1)(A), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor;”.
+Subsec. (a)(4)(E). Pub. L. 112–96, § 2161(b)(1)(A), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor;”.
 
-2008—Subsec. (a). Pub. L. 110–458, § 111(b)(2), struck out concluding provisions which read as follows: “Compensation shall not be reduced under paragraph (15) for any pension, retirement or retired pay, annuity, or similar payment which is not includible in gross income of the individual for the taxable year in which paid because it was part of a rollover distribution.”
+2008—Subsec. (a). Pub. L. 110–458, § 111(b)(2), struck out concluding provisions which read as follows: “Compensation shall not be reduced under paragraph (15) for any pension, retirement or retired pay, annuity, or similar payment which is not includible in gross income of the individual for the taxable year in which paid because it was part of a rollover distribution.”
 
 Subsec. (a)(4)(G). Pub. L. 110–328 added subpar. (G).
 
-Subsec. (a)(15). Pub. L. 110–458, § 111(b)(1), inserted “(A) subject to subparagraph (B),” after par. designation, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), substituted “, and” for semicolon at end of cl. (ii), and added subpar. (B).
+Subsec. (a)(15). Pub. L. 110–458, § 111(b)(1), inserted “(A) subject to subparagraph (B),” after par. designation, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), substituted “, and” for semicolon at end of cl. (ii), and added subpar. (B).
 
 2006—Subsec. (a). Pub. L. 109–280 added concluding provisions.
 
 2002—Subsec. (a)(4)(B). Pub. L. 107–147 inserted “or 903(d)(4)” before “of the Social Security Act”.
 
-1996—Subsec. (a)(16)(A). Pub. L. 104–193, § 316(g)(2)(C), struck out “and” at end.
+1996—Subsec. (a)(16)(A). Pub. L. 104–193, § 316(g)(2)(C), struck out “and” at end.
 
-Pub. L. 104–193, § 316(g)(2)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+Pub. L. 104–193, § 316(g)(2)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-Pub. L. 104–193, § 110(*l*)(1), formerly § 110(*l*)(2), as renumbered by Pub. L. 105–33, substituted “eligibility for assistance, or the amount of such assistance, under a State program funded” for “eligibility for aid or services, or the amount of such aid or services, under a State plan for aid and services to needy families with children approved”.
+Pub. L. 104–193, § 110(*l*)(1), formerly § 110(*l*)(2), as renumbered by Pub. L. 105–33, substituted “eligibility for assistance, or the amount of such assistance, under a State program funded” for “eligibility for aid or services, or the amount of such aid or services, under a State plan for aid and services to needy families with children approved”.
 
-Subsec. (a)(16)(B). Pub. L. 104–193, § 316(g)(2)(E), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (a)(16)(B). Pub. L. 104–193, § 316(g)(2)(E), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Pub. L. 104–193, § 316(g)(2)(B), substituted “information furnished under subparagraph (A) or (B) is used only for the purposes authorized under such subparagraph;” for “such information is used only for the purposes authorized under subparagraph (A);”.
+Pub. L. 104–193, § 316(g)(2)(B), substituted “information furnished under subparagraph (A) or (B) is used only for the purposes authorized under such subparagraph;” for “such information is used only for the purposes authorized under subparagraph (A);”.
 
-Pub. L. 104–193, § 316(g)(2)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
+Pub. L. 104–193, § 316(g)(2)(A), substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
-Subsec. (a)(16)(C). Pub. L. 104–193, § 316(g)(2)(D), redesignated subpar. (B) as (C).
+Subsec. (a)(16)(C). Pub. L. 104–193, § 316(g)(2)(D), redesignated subpar. (B) as (C).
 
-1994—Subsec. (a)(4)(C). Pub. L. 103–465, § 702(c)(1), inserted “, or the withholding of Federal, State, or local individual income tax,” after “health insurance”.
+1994—Subsec. (a)(4)(C). Pub. L. 103–465, § 702(c)(1), inserted “, or the withholding of Federal, State, or local individual income tax,” after “health insurance”.
 
-Subsec. (a)(17) to (19). Pub. L. 103–465, § 702(b), struck out “and” at end of par. (17), added par. (18), and redesignated former par. (18) as (19).
+Subsec. (a)(17) to (19). Pub. L. 103–465, § 702(b), struck out “and” at end of par. (17), added par. (18), and redesignated former par. (18) as (19).
 
 1993—Subsec. (a)(4)(F). Pub. L. 103–182 added subpar. (F).
 
 1992—Subsec. (a)(4)(E). Pub. L. 102–318 added subpar. (E).
 
-1991—Subsec. (a)(6)(A)(ii)(I). Pub. L. 102–164, § 302(a)(1), substituted “may be denied” for “shall be denied”.
+1991—Subsec. (a)(6)(A)(ii)(I). Pub. L. 102–164, § 302(a)(1), substituted “may be denied” for “shall be denied”.
 
-Subsec. (a)(6)(A)(iii), (iv). Pub. L. 102–164, § 302(a)(2), which directed that “and” be struck out at end of cls. (iii) and (iv), could be executed only to cl. (iv) because “and” did not appear at end of cl. (iii).
+Subsec. (a)(6)(A)(iii), (iv). Pub. L. 102–164, § 302(a)(2), which directed that “and” be struck out at end of cls. (iii) and (iv), could be executed only to cl. (iv) because “and” did not appear at end of cl. (iii).
 
-Subsec. (a)(6)(A)(vi). Pub. L. 102–164, § 302(a)(2), added cl. (vi).
+Subsec. (a)(6)(A)(vi). Pub. L. 102–164, § 302(a)(2), added cl. (vi).
 
 1990—Subsec. (a)(14)(A). Pub. L. 101–649 struck out reference to section 203(a)(7) of Immigration and Nationality Act.
 
@@ -973,13 +973,13 @@ Subsec. (a)(6)(A)(vi). Pub. L. 102–164, § 302(a)(2), added cl. (vi).
 
 Subsec. (a)(6)(A)(iii). Pub. L. 99–514 struck out “and” at end.
 
-1983—Subsec. (a)(4)(C). Pub. L. 98–21, § 523(a), added subpar. (C).
+1983—Subsec. (a)(4)(C). Pub. L. 98–21, § 523(a), added subpar. (C).
 
-Subsec. (a)(6)(A)(ii)(I), (iii), (iv). Pub. L. 98–21, § 521(a)(2), substituted “shall be denied” for “may be denied”.
+Subsec. (a)(6)(A)(ii)(I), (iii), (iv). Pub. L. 98–21, § 521(a)(2), substituted “shall be denied” for “may be denied”.
 
-Subsec. (a)(6)(A)(v). Pub. L. 98–21, § 521(a)(1), added cl. (v).
+Subsec. (a)(6)(A)(v). Pub. L. 98–21, § 521(a)(1), added cl. (v).
 
-Subsec. (a)(17), (18). Pub. L. 98–21, § 515(b), added par. (17) and redesignated former par. (17) as (18).
+Subsec. (a)(17), (18). Pub. L. 98–21, § 515(b), added par. (17) and redesignated former par. (17) as (18).
 
 1982—Subsec. (a)(6)(A)(ii). Pub. L. 97–248 redesignated existing provisions as provisions preceding subcl. (I) and subcl. (I), and in such provisions as so redesignated, struck out “(other than an institution of higher education)” after “capacity for an educational institution”, substituted “2” for “two”, and inserted “except that” at end of subcl. (I), and added subcl. (II).
 
@@ -987,59 +987,59 @@ Subsec. (a)(17), (18). Pub. L. 98–21, § 515(b), added par. (17) and redesig
 
 1980—Subsec. (a)(15). Pub. L. 96–364 inserted provisions relating to applicability to any pension, retirement or retired pay, annuity, or other similar periodic payment.
 
-1977—Subsec. (a)(6)(A)(i). Pub. L. 95–19, § 302(c)(1), (2), inserted a comma between “instructional” and “research”, substituted “two successive academic years or terms” for “two successive academic years”, and struck out “and” after “the second of such academic years or terms,”.
+1977—Subsec. (a)(6)(A)(i). Pub. L. 95–19, § 302(c)(1), (2), inserted a comma between “instructional” and “research”, substituted “two successive academic years or terms” for “two successive academic years”, and struck out “and” after “the second of such academic years or terms,”.
 
-Subsec. (a)(6)(A)(iii). Pub. L. 95–19, § 302(c)(3), added cl. (iii).
+Subsec. (a)(6)(A)(iii). Pub. L. 95–19, § 302(c)(3), added cl. (iii).
 
 Subsec. (a)(6)(A)(iv). Pub. L. 95–171 added cl. (iv).
 
-Subsec. (a)(14)(A). Pub. L. 95–19, § 302(a), substituted “who was lawfully admitted for permanent residence at the time such services were performed, was lawfully present for purposes of performing such services, or was permanently residing in the United States under color of law at the time such services were performed (including an alien who was” for “who has been lawfully admitted for permanent residence or otherwise is permanently residing in the United States under color of law (including an alien who is”.
+Subsec. (a)(14)(A). Pub. L. 95–19, § 302(a), substituted “who was lawfully admitted for permanent residence at the time such services were performed, was lawfully present for purposes of performing such services, or was permanently residing in the United States under color of law at the time such services were performed (including an alien who was” for “who has been lawfully admitted for permanent residence or otherwise is permanently residing in the United States under color of law (including an alien who is”.
 
-Subsec. (a)(15). Pub. L. 95–19, § 302(e), substituted “March 31, 1980” for “September 30, 1979”.
+Subsec. (a)(15). Pub. L. 95–19, § 302(e), substituted “March 31, 1980” for “September 30, 1979”.
 
 Subsec. (a)(16), (17). Pub. L. 95–216 added par. (16). Former par. (16) redesignated (17).
 
-1976—Subsec. (a)(3). Pub. L. 94–455, §§ 1903(a)(14)(A), 1906(b)(13)(C), inserted “of the Treasury” after “to the Secretary” and struck out “49 Stat. 640; 52 Stat. 1104, 1105;” before “42 U.S.C. 1104”.
+1976—Subsec. (a)(3). Pub. L. 94–455, §§ 1903(a)(14)(A), 1906(b)(13)(C), inserted “of the Treasury” after “to the Secretary” and struck out “49 Stat. 640; 52 Stat. 1104, 1105;” before “42 U.S.C. 1104”.
 
-Subsec. (a)(6)(A). Pub. L. 94–566, § 115(c)(1), designated existing provisions as cl. (i), added cl. (ii), and in cl. (i) as so designated substituted “educational institution” for “institution of higher education”, “an agreement provides” for “the contract provides”, and “if such individual performs such services in the first of such academic years (or terms) and if there is a contract or reasonable assurance that such individual will perform services in any such capacity for any educational institution in the second of such academic years or terms, and” for “who has a contract to perform services in any such capacity for any institution or institutions of higher education for both of such academic years or both of such terms, and”.
+Subsec. (a)(6)(A). Pub. L. 94–566, § 115(c)(1), designated existing provisions as cl. (i), added cl. (ii), and in cl. (i) as so designated substituted “educational institution” for “institution of higher education”, “an agreement provides” for “the contract provides”, and “if such individual performs such services in the first of such academic years (or terms) and if there is a contract or reasonable assurance that such individual will perform services in any such capacity for any educational institution in the second of such academic years or terms, and” for “who has a contract to perform services in any such capacity for any institution or institutions of higher education for both of such academic years or both of such terms, and”.
 
-Subsec. (a)(6)(B). Pub. L. 94–566, § 506(b), substituted “section 3309(a)(1)” for “section 3309(a)(1)(A)”.
+Subsec. (a)(6)(B). Pub. L. 94–566, § 506(b), substituted “section 3309(a)(1)” for “section 3309(a)(1)(A)”.
 
-Subsec. (a)(12). Pub. L. 94–566, § 312(a), substituted provisions that no person shall be denied compensation under such State law solely on the basis of pregnancy or termination of pregnancy for provisions that each political subdivision of the State should have the right to elect to have compensation payable to employees thereof (whose services were not otherwise subject to such law) based on service performed by such employees in the hospitals and institutions of higher education (as defined in section 3309(d)) operated by such political subdivision; and, if any such political subdivision did elect to have compensation payable to such employees thereof (A) the political subdivision elected should pay into the State unemployment fund, with respect to the service of such employees, payments (in lieu of contributions), and (B) such employees would be entitled to receive, on the basis of such service, compensation payable on the same conditions as compensation which was payable on the basis of similar service for the State which was subject to such law.
+Subsec. (a)(12). Pub. L. 94–566, § 312(a), substituted provisions that no person shall be denied compensation under such State law solely on the basis of pregnancy or termination of pregnancy for provisions that each political subdivision of the State should have the right to elect to have compensation payable to employees thereof (whose services were not otherwise subject to such law) based on service performed by such employees in the hospitals and institutions of higher education (as defined in section 3309(d)) operated by such political subdivision; and, if any such political subdivision did elect to have compensation payable to such employees thereof (A) the political subdivision elected should pay into the State unemployment fund, with respect to the service of such employees, payments (in lieu of contributions), and (B) such employees would be entitled to receive, on the basis of such service, compensation payable on the same conditions as compensation which was payable on the basis of similar service for the State which was subject to such law.
 
-Subsec. (a)(13) to (16). Pub. L. 94–566, § 314(a), added pars. (13) to (15) and redesignated former par. (13) as (16).
+Subsec. (a)(13) to (16). Pub. L. 94–566, § 314(a), added pars. (13) to (15) and redesignated former par. (13) as (16).
 
-Subsec. (c). Pub. L. 94–566, § 312(b), provided that on Oct. 31 of any taxable year after 1977, the Secretary shall not certify any State which, after reasonable notice and opportunity for a hearing to the State agency, the Secretary of Labor finds has failed to amend its law so that it contains each of the provisions required by reason of the enactment of the Unemployment Compensation Amendments of 1976 to be included therein, or has with respect to the 12-month period ending on such Oct. 31, failed to comply substantially with any such provision.
+Subsec. (c). Pub. L. 94–566, § 312(b), provided that on Oct. 31 of any taxable year after 1977, the Secretary shall not certify any State which, after reasonable notice and opportunity for a hearing to the State agency, the Secretary of Labor finds has failed to amend its law so that it contains each of the provisions required by reason of the enactment of the Unemployment Compensation Amendments of 1976 to be included therein, or has with respect to the 12-month period ending on such Oct. 31, failed to comply substantially with any such provision.
 
-Pub. L. 94–455, §§ 1903(a)(14)(B), 1906(b)(13)(C), (E), inserted “of the Treasury” after “certify to the Secretary”, substituted “the Secretary of Labor shall” for “the Secretary shall” and struck out “(10-month period in the case of October 31, 1972)” after “to the 12-month period”.
+Pub. L. 94–455, §§ 1903(a)(14)(B), 1906(b)(13)(C), (E), inserted “of the Treasury” after “certify to the Secretary”, substituted “the Secretary of Labor shall” for “the Secretary shall” and struck out “(10-month period in the case of October 31, 1972)” after “to the 12-month period”.
 
-Subsec. (f). Pub. L. 94–566, § 115(c)(5), added subsec. (f).
+Subsec. (f). Pub. L. 94–566, § 115(c)(5), added subsec. (f).
 
-1970—Subsec. (a)(6) to (13). Pub. L. 91–373, §§ 104(a), 108(a), 121(a), 206, added pars. (6) to (12) and redesignated former par. (6) as (13).
+1970—Subsec. (a)(6) to (13). Pub. L. 91–373, §§ 104(a), 108(a), 121(a), 206, added pars. (6) to (12) and redesignated former par. (6) as (13).
 
-Subsec. (c). Pub. L. 91–373, § 131(b)(2), clarified provisions governing procedure to be followed with respect to a finding of the Secretary of Labor that a state has failed to comply substantially with any of the provisions of subsec. (a)(5).
+Subsec. (c). Pub. L. 91–373, § 131(b)(2), clarified provisions governing procedure to be followed with respect to a finding of the Secretary of Labor that a state has failed to comply substantially with any of the provisions of subsec. (a)(5).
 
-Pub. L. 91–373, § 142(f), substituted “October 31” for “December 31” as certification date and “12-month period ending on such October 31” for “taxable year” and prohibited certifications for failure to amend State laws to contain provisions required by reason of enactment of the Employment Security Amendments of 1970.
+Pub. L. 91–373, § 142(f), substituted “October 31” for “December 31” as certification date and “12-month period ending on such October 31” for “taxable year” and prohibited certifications for failure to amend State laws to contain provisions required by reason of enactment of the Employment Security Amendments of 1970.
 
-Subsec. (d). Pub. L. 91–373, § 142(g), substituted “If at any time” for “If, at any time during the taxable year,”.
+Subsec. (d). Pub. L. 91–373, § 142(g), substituted “If at any time” for “If, at any time during the taxable year,”.
 
-Subsec. (e). Pub. L. 91–373, § 142(h), added subsec. (e).
+Subsec. (e). Pub. L. 91–373, § 142(h), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–96, title II, § 2103(c), Feb. 22, 2012, 126 Stat. 161, provided that: “The amendments made by this section [amending this section and section 503 of Title 42, The Public Health and Welfare] shall apply to weeks beginning after the end of the first session of the State legislature which begins after the date of enactment of this Act [Feb. 22, 2012].”
+Pub. L. 112–96, title II, § 2103(c), Feb. 22, 2012, 126 Stat. 161, provided that: “The amendments made by this section [amending this section and section 503 of Title 42, The Public Health and Welfare] shall apply to weeks beginning after the end of the first session of the State legislature which begins after the date of enactment of this Act [Feb. 22, 2012].”
 
 **Effective Date of 2008 Amendment**
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
 
-Pub. L. 110–328, § 3(e), Sept. 30, 2008, 122 Stat. 3573, provided that: “The amendments made by this section [amending this section and sections 6103 and 6402 of this title] shall apply to refunds payable under section 6402 of the Internal Revenue Code of 1986 on or after the date of enactment of this Act [Sept. 30, 2008].”
+Pub. L. 110–328, § 3(e), Sept. 30, 2008, 122 Stat. 3573, provided that: “The amendments made by this section [amending this section and sections 6103 and 6402 of this title] shall apply to refunds payable under section 6402 of the Internal Revenue Code of 1986 on or after the date of enactment of this Act [Sept. 30, 2008].”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–280, title XI, § 1105(b), Aug. 17, 2006, 120 Stat. 1060, provided that: “The amendment made by this section [amending this section] shall apply to weeks beginning on or after the date of the enactment of this Act [Aug. 17, 2006].”
+Pub. L. 109–280, title XI, § 1105(b), Aug. 17, 2006, 120 Stat. 1060, provided that: “The amendment made by this section [amending this section] shall apply to weeks beginning on or after the date of the enactment of this Act [Aug. 17, 2006].”
 
 **Effective Date of 1996 Amendment**
 
@@ -1049,11 +1049,11 @@ For effective date of amendment by section 316(g)(2) of Pub. L. 104–193, see s
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–465, title VII, § 702(d), Dec. 8, 1994, 108 Stat. 4997, provided that: “The amendments made by this section [amending this section, sections 3306 and 3402 of this title, and section 503 of Title 42, The Public Health and Welfare] shall apply to payments made after December 31, 1996.”
+Pub. L. 103–465, title VII, § 702(d), Dec. 8, 1994, 108 Stat. 4997, provided that: “The amendments made by this section [amending this section, sections 3306 and 3402 of this title, and section 503 of Title 42, The Public Health and Welfare] shall apply to payments made after December 31, 1996.”
 
 **Effective Date of 1991 Amendment**
 
-Pub. L. 102–164, title III, § 302(b), Nov. 15, 1991, 105 Stat. 1059, provided that: “The amendments made by this section [amending this section] section shall apply in the case of compensation paid for weeks beginning on or after the date of the enactment of this Act [Nov. 15, 1991].”
+Pub. L. 102–164, title III, § 302(b), Nov. 15, 1991, 105 Stat. 1059, provided that: “The amendments made by this section [amending this section] section shall apply in the case of compensation paid for weeks beginning on or after the date of the enactment of this Act [Nov. 15, 1991].”
 
 **Effective Date of 1990 Amendment**
 
@@ -1065,17 +1065,17 @@ Amendment by Pub. L. 99–272 applicable to recoveries made on or after Apr. 7, 
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 98–21, title V, § 521(b), Apr. 20, 1983, 97 Stat. 147, provided that:
+Pub. L. 98–21, title V, § 521(b), Apr. 20, 1983, 97 Stat. 147, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply in the case of compensation paid for weeks beginning on or after April 1, 1984.
 
 > **“(2)** In the case of a State with respect to which the Secretary of Labor has determined that State legislation is required in order to comply with the amendment made by this section, the amendment made by this section shall apply in the case of compensation paid for weeks which begin on or after April 1, 1984, and after the end of the first session of the State legislature which begins after the date of the enactment of this Act [Apr. 20, 1983], or which began prior to the date of the enactment of this Act and remained in session for at least twenty-five calendar days after such date of enactment. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”
 
-Pub. L. 98–21, title V, § 523(c), Apr. 20, 1983, 97 Stat. 149, provided that: “The amendments made by this section [amending this section and section 503 of Title 42, The Public Health and Welfare] shall take effect on the date of the enactment of this Act [Apr. 20, 1983].”
+Pub. L. 98–21, title V, § 523(c), Apr. 20, 1983, 97 Stat. 149, provided that: “The amendments made by this section [amending this section and section 503 of Title 42, The Public Health and Welfare] shall take effect on the date of the enactment of this Act [Apr. 20, 1983].”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–248, title I, § 193(b), Sept. 3, 1982, 96 Stat. 409, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–248, title I, § 193(b), Sept. 3, 1982, 96 Stat. 409, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** The amendment made by subsection (a) [amending this section] shall apply to weeks of unemployment beginning after the date of the enactment of this Act [Sept. 3, 1982].
 
@@ -1083,21 +1083,21 @@ Pub. L. 97–248, title I, § 193(b), Sept. 3, 1982, 96 Stat. 409, as amended 
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–364, title IV, § 414(b), Sept. 26, 1980, 94 Stat. 1310, provided that: “The amendment made by subsection (a) [amending this section] shall apply to certifications of States for 1981 and subsequent years.”
+Pub. L. 96–364, title IV, § 414(b), Sept. 26, 1980, 94 Stat. 1310, provided that: “The amendment made by subsection (a) [amending this section] shall apply to certifications of States for 1981 and subsequent years.”
 
 **Effective Date of 1977 Amendments**
 
-Pub. L. 95–216, title IV, § 403(d), Dec. 20, 1977, 91 Stat. 1562, provided that: “The amendments made by this section [enacting section 611 of Title 42, The Public Health and Welfare, and amending this section and section 602 of Title 42] shall be effective on the date of the enactment of this Act [Dec. 20, 1977].”
+Pub. L. 95–216, title IV, § 403(d), Dec. 20, 1977, 91 Stat. 1562, provided that: “The amendments made by this section [enacting section 611 of Title 42, The Public Health and Welfare, and amending this section and section 602 of Title 42] shall be effective on the date of the enactment of this Act [Dec. 20, 1977].”
 
-Pub. L. 95–171, § 2(b), Nov. 12, 1977, 91 Stat. 1353, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to weeks of unemployment which begin after December 31, 1977.”
+Pub. L. 95–171, § 2(b), Nov. 12, 1977, 91 Stat. 1353, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to weeks of unemployment which begin after December 31, 1977.”
 
-Pub. L. 95–19, title III, § 302(d)(1), Apr. 12, 1977, 91 Stat. 45, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the amendment made by section 314 of the Unemployment Compensation Amendments of 1976.”
+Pub. L. 95–19, title III, § 302(d)(1), Apr. 12, 1977, 91 Stat. 45, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the amendment made by section 314 of the Unemployment Compensation Amendments of 1976.”
 
-Pub. L. 95–19, title III, § 302(d)(3), Apr. 12, 1977, 91 Stat. 45, provided that: “The amendments made by subsection (c) [amending this section] shall take effect as if included in the amendments made by section 115(c) of the Unemployment Compensation Amendments of 1976.”
+Pub. L. 95–19, title III, § 302(d)(3), Apr. 12, 1977, 91 Stat. 45, provided that: “The amendments made by subsection (c) [amending this section] shall take effect as if included in the amendments made by section 115(c) of the Unemployment Compensation Amendments of 1976.”
 
 **Effective Date of 1976 Amendments**
 
-Pub. L. 94–566, title I, § 115(d), Oct. 20, 1976, 90 Stat. 2671, as amended by Pub. L. 95–19, title III, § 301(a), Apr. 12, 1977, 91 Stat. 43, effective Oct. 20, 1976, provided that:
+Pub. L. 94–566, title I, § 115(d), Oct. 20, 1976, 90 Stat. 2671, as amended by Pub. L. 95–19, title III, § 301(a), Apr. 12, 1977, 91 Stat. 43, effective Oct. 20, 1976, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section and section 3309 of this title] shall apply with respect to certifications of States for 1978 and subsequent years; except that—
 
@@ -1107,7 +1107,7 @@ Pub. L. 94–566, title I, § 115(d), Oct. 20, 1976, 90 Stat. 2671, as amended
 
 > **“(2)** In the case of any State the legislature of which does not meet in a regular session which closes during the calendar year 1977, the amendments made by subsection (c) [amending this section and section 3309 of this title] shall only apply with respect to weeks of unemployment which begin after December 31, 1978 (or if earlier, the date provided by State law).”
 
-Pub. L. 94–566, title I, § 116(f), Oct. 20, 1976, 90 Stat. 2673, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–566, title I, § 116(f), Oct. 20, 1976, 90 Stat. 2673, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > “Effective dates.—
 
@@ -1117,33 +1117,33 @@ Pub. L. 94–566, title I, § 116(f), Oct. 20, 1976, 90 Stat. 2673, as amended
 
 > **“(3) Subsection (e).—** The amendments made by subsection (e) [amending sections 8501, 8503, 8504, 8521, and 8522 of Title 5, Government Organization and Employees] shall apply with respect to benefit years beginning on or after the later of October 1, 1976, or the first day of the first week for which compensation becomes payable under an unemployment compensation law of the Virgin Islands which is approved by the Secretary of Labor under section 3304(a) of the Internal Revenue Code of 1986.”
 
-Pub. L. 94–566, title III, § 312(c), Oct. 20, 1976, 90 Stat. 2679, as amended by Pub. L. 95–19, title III, § 301(b), Apr. 12, 1977, 91 Stat. 43, effective Oct. 20, 1976, provided that:
+Pub. L. 94–566, title III, § 312(c), Oct. 20, 1976, 90 Stat. 2679, as amended by Pub. L. 95–19, title III, § 301(b), Apr. 12, 1977, 91 Stat. 43, effective Oct. 20, 1976, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply with respect to certifications of States for 1978 and subsequent years.
 
 > **“(2)** In the case of any State the legislature of which does not meet in a regular session which closes during the calendar year 1977, the amendments made by this section [amending this section] shall apply with respect to the certification of such State for 1979 and subsequent years.”
 
-Pub. L. 94–566, title III, § 314(b), Oct. 20, 1976, 90 Stat. 2680, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to certifications of States for 1978 and subsequent years, or for 1979 and subsequent years in the case of States the legislatures of which do not meet in a regular session which closes in the calendar year 1977.”
+Pub. L. 94–566, title III, § 314(b), Oct. 20, 1976, 90 Stat. 2680, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to certifications of States for 1978 and subsequent years, or for 1979 and subsequent years in the case of States the legislatures of which do not meet in a regular session which closes in the calendar year 1977.”
 
-Pub. L. 94–566, title V, § 506(c), Oct. 20, 1976, 90 Stat. 2687, as amended by Pub. L. 95–19, title III, § 301(c), Apr. 12, 1977, 91 Stat. 44, effective Oct. 20, 1976, provided that:
+Pub. L. 94–566, title V, § 506(c), Oct. 20, 1976, 90 Stat. 2687, as amended by Pub. L. 95–19, title III, § 301(c), Apr. 12, 1977, 91 Stat. 44, effective Oct. 20, 1976, provided that:
 
 > **“(1)** Except as provided in paragraph (2), the amendments made by this section [amending this section and section 3309 of this title] shall apply with respect to certifications of States for 1978 and subsequent years, but only with respect to services performed after December 31, 1977.
 
 > **“(2)** In the case of any State the legislature of which does not meet in a regular session which closes during the calendar year 1977, the amendments made by this section [amending this section and section 3309 of this title] shall apply with respect to the certification of such State for 1979 and subsequent years, but only with respect to services performed after December 31, 1978.”
 
-[Pub. L. 95–19, title III, § 301(d), Apr. 12, 1977, 91 Stat. 44, provided that: “The amendments made by this section [amending this Effective Date of 1976 Amendment note in three places] shall take effect on October 20, 1976.” ]
+[Pub. L. 95–19, title III, § 301(d), Apr. 12, 1977, 91 Stat. 44, provided that: “The amendments made by this section [amending this Effective Date of 1976 Amendment note in three places] shall take effect on October 20, 1976.” ]
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–373, title I, § 104(d), Aug. 10, 1970, 84 Stat. 699, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–373, title I, § 104(d), Aug. 10, 1970, 84 Stat. 699, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** Subject to the provisions of paragraph (2), the amendments made by subsections (a) and (b) [amending this section and enacting section 3309 of this title] shall apply with respect to certifications of State laws for 1972 and subsequent years, but only with respect to service performed after December 31, 1971. The amendment made by subsection (c) [amending section 3303 of this title] shall take effect January 1, 1970.
 
 > **“(2)** Section 3304(a)(6) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by subsection (a) of this section) shall not be a requirement for the State law of any State prior to July 1, 1972, if the legislature of such State does not meet in a regular session which closes during the calendar year 1971.”
 
-Pub. L. 91–373, title I, § 108(b), Aug. 10, 1970, 84 Stat. 701, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to certification of State laws for 1972 and subsequent years; except that section 3304(a)(12) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by subsection (a)) shall not be a requirement for the State law of any State prior to July 1, 1972, if the legislature of such State does not meet in a regular session which closes during the calendar year 1971, or prior to January 1, 1975, if compliance with such requirement would necessitate a change in the constitution of such State.”
+Pub. L. 91–373, title I, § 108(b), Aug. 10, 1970, 84 Stat. 701, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to certification of State laws for 1972 and subsequent years; except that section 3304(a)(12) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by subsection (a)) shall not be a requirement for the State law of any State prior to July 1, 1972, if the legislature of such State does not meet in a regular session which closes during the calendar year 1971, or prior to January 1, 1975, if compliance with such requirement would necessitate a change in the constitution of such State.”
 
-Pub. L. 91–373, title I, § 121(b), Aug. 10, 1970, 84 Stat. 702, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–373, title I, § 121(b), Aug. 10, 1970, 84 Stat. 702, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** Subject to the provisions of paragraph (2), the amendments made by subsection (a) [amending this section] shall take effect January 1, 1972, and shall apply to the taxable year 1972 and taxable years thereafter.
 
@@ -1153,7 +1153,7 @@ Amendment by section 142(f)–(h) of Pub. L. 91–373 applicable with respect to
 
 **Ending Unemployment Payments to Jobless Millionaires**
 
-Pub. L. 119–21, title VII, § 73001, July 4, 2025, 139 Stat. 332, provided that:
+Pub. L. 119–21, title VII, § 73001, July 4, 2025, 139 Stat. 332, provided that:
 
 > **“(a) Prohibition on Use of Federal Funds.—**
 
@@ -1189,7 +1189,7 @@ Pub. L. 119–21, title VII, § 73001, July 4, 2025, 139 Stat. 332, provided t
 
 **Waiver of Certain 1970 Act Provisions To Preserve Access to Extended Benefits in High Unemployment States**
 
-Pub. L. 116–260, div. N, title II, § 266, Dec. 27, 2020, 134 Stat. 1964, provided that:
+Pub. L. 116–260, div. N, title II, § 266, Dec. 27, 2020, 134 Stat. 1964, provided that:
 
 > **“(a) In General.—** For purposes of determining the beginning of an extended benefit period (or a high unemployment period) under the Federal-State Extended Unemployment Compensation Act of 1970 [Pub. L. 91–373, title II] (26 U.S.C. 3304 note [set out below]) during the period beginning on November 1, 2020, and ending December 31, 2021, section 203 of such Act may be applied without regard to subsection (b)(1)(B) of such section.
 
@@ -1197,15 +1197,15 @@ Pub. L. 116–260, div. N, title II, § 266, Dec. 27, 2020, 134 Stat. 1964, pr
 
 **Emergency Flexibility for Response to COVID–19**
 
-Pub. L. 117–2, title IX, § 9015, Mar. 11, 2021, 135 Stat. 119, provided that: “If a State modifies its unemployment compensation law and policies, subject to the succeeding sentence, with respect to personnel standards on a merit basis on an emergency temporary basis as needed to respond to the spread of COVID–19, such modifications shall be disregarded for the purposes of applying section 303 of the Social Security Act [42 U.S.C. 503] and section 3304 of the Internal Revenue Code of 1986 to such State law. Such modifications shall only apply through September 6, 2021, and shall be limited to engaging of temporary staff, rehiring of retirees or former employees on a non-competitive basis, and other temporary actions to quickly process applications and claims.”
+Pub. L. 117–2, title IX, § 9015, Mar. 11, 2021, 135 Stat. 119, provided that: “If a State modifies its unemployment compensation law and policies, subject to the succeeding sentence, with respect to personnel standards on a merit basis on an emergency temporary basis as needed to respond to the spread of COVID–19, such modifications shall be disregarded for the purposes of applying section 303 of the Social Security Act [42 U.S.C. 503] and section 3304 of the Internal Revenue Code of 1986 to such State law. Such modifications shall only apply through September 6, 2021, and shall be limited to engaging of temporary staff, rehiring of retirees or former employees on a non-competitive basis, and other temporary actions to quickly process applications and claims.”
 
 Similar provisions were contained in the following appropriation act:
 
-Pub. L. 116–127, div. D, § 4102(b), Mar. 18, 2020, 134 Stat. 194.
+Pub. L. 116–127, div. D, § 4102(b), Mar. 18, 2020, 134 Stat. 194.
 
 **Self-Employment Assistance Programs**
 
-Pub. L. 112–96, title II, §§ 2182–2184, Feb. 22, 2012, 126 Stat. 182–184, provided that:
+Pub. L. 112–96, title II, §§ 2182–2184, Feb. 22, 2012, 126 Stat. 182–184, provided that:
 
 > **“SEC. 2182. GRANTS FOR SELF-EMPLOYMENT ASSISTANCE PROGRAMS.**
 
@@ -1291,7 +1291,7 @@ Pub. L. 112–96, title II, §§ 2182–2184, Feb. 22, 2012, 126 Stat. 182–1
 
 SEC. 2184. DEFINITIONS.
 
-“In this subtitle [subtitle E (§§ 2181–2184) of title II of Pub. L. 112–96, enacting this note and amending provisions set out as notes under this section]:
+“In this subtitle [subtitle E (§§ 2181–2184) of title II of Pub. L. 112–96, enacting this note and amending provisions set out as notes under this section]:
 
 > **“(1) Secretary.—** The term ‘Secretary’ means the Secretary of Labor.
 
@@ -1299,11 +1299,11 @@ SEC. 2184. DEFINITIONS.
 
 **Treatment of Additional Regular Compensation**
 
-Pub. L. 111–92, § 8, Nov. 6, 2009, 123 Stat. 2988, provided that: “The monthly equivalent of any additional compensation paid by reason of section 2002 of the Assistance for Unemployed Workers and Struggling Families Act, as contained in Public Law 111–5 (26 U.S.C. 3304 note; 123 Stat. 438 [437]) shall be disregarded after the date of the enactment of this Act [Nov. 6, 2009] in considering the amount of income and assets of an individual for purposes of determining such individual’s eligibility for, or amount of, benefits under the Supplemental Nutrition Assistance Program (SNAP).”
+Pub. L. 111–92, § 8, Nov. 6, 2009, 123 Stat. 2988, provided that: “The monthly equivalent of any additional compensation paid by reason of section 2002 of the Assistance for Unemployed Workers and Struggling Families Act, as contained in Public Law 111–5 (26 U.S.C. 3304 note; 123 Stat. 438 [437]) shall be disregarded after the date of the enactment of this Act [Nov. 6, 2009] in considering the amount of income and assets of an individual for purposes of determining such individual’s eligibility for, or amount of, benefits under the Supplemental Nutrition Assistance Program (SNAP).”
 
 **Increase in Unemployment Compensation Benefits**
 
-Pub. L. 111–5, div. B, title II, § 2002, Feb. 17, 2009, 123 Stat. 437, as amended by Pub. L. 111–118, div. B, § 1009(a)(2), Dec. 19, 2009, 123 Stat. 3471; Pub. L. 111–144, § 2(a)(2), Mar. 2, 2010, 124 Stat. 42; Pub. L. 111–157, § 2(a)(2), Apr. 15, 2010, 124 Stat. 1116, provided that:
+Pub. L. 111–5, div. B, title II, § 2002, Feb. 17, 2009, 123 Stat. 437, as amended by Pub. L. 111–118, div. B, § 1009(a)(2), Dec. 19, 2009, 123 Stat. 3471; Pub. L. 111–144, § 2(a)(2), Mar. 2, 2010, 124 Stat. 42; Pub. L. 111–157, § 2(a)(2), Apr. 15, 2010, 124 Stat. 1116, provided that:
 
 > **“(a) Federal-State Agreements.—** Any State which desires to do so may enter into and participate in an agreement under this section with the Secretary of Labor (hereinafter in this section referred to as the ‘Secretary’). Any State which is a party to an agreement under this section may, upon providing 30 days’ written notice to the Secretary, terminate such agreement.
 
@@ -1377,11 +1377,11 @@ Pub. L. 111–5, div. B, title II, § 2002, Feb. 17, 2009, 123 Stat. 437, as a
 
 > **“(B)** unemployment compensation (as defined by section 85(b) of the Internal Revenue Code of 1986) provided under any program administered by a State under an agreement with the Secretary.”
 
-[Pub. L. 111–157, § 2(c), Apr. 15, 2010, 124 Stat. 1117, provided that: “The amendments made by this section [amending section 2002 of Pub. L. 111–5, set out above, and section 2005 of Pub. L. 111–5, section 5 of Pub. L. 110–449, and sections 4004 and 4007 of Pub. L. 110–252, set out below] shall take effect as if included in the enactment of the Temporary Extension Act of 2010 (Public Law 111–144).” ]
+[Pub. L. 111–157, § 2(c), Apr. 15, 2010, 124 Stat. 1117, provided that: “The amendments made by this section [amending section 2002 of Pub. L. 111–5, set out above, and section 2005 of Pub. L. 111–5, section 5 of Pub. L. 110–449, and sections 4004 and 4007 of Pub. L. 110–252, set out below] shall take effect as if included in the enactment of the Temporary Extension Act of 2010 (Public Law 111–144).” ]
 
 **Full Federal Funding of Extended Unemployment Compensation for a Limited Period**
 
-Pub. L. 116–127, div. D, § 4105, Mar. 18, 2020, 134 Stat. 195, as amended by Pub. L. 116–260, div. N, title II, § 222, Dec. 27, 2020, 134 Stat. 1957; Pub. L. 117–2, title IX, § 9022(a), Mar. 11, 2021, 135 Stat. 120, provided that:
+Pub. L. 116–127, div. D, § 4105, Mar. 18, 2020, 134 Stat. 195, as amended by Pub. L. 116–260, div. N, title II, § 222, Dec. 27, 2020, 134 Stat. 1957; Pub. L. 117–2, title IX, § 9022(a), Mar. 11, 2021, 135 Stat. 120, provided that:
 
 > **“(a) In General.—** In the case of sharable extended compensation and sharable regular compensation paid for weeks of unemployment beginning after the date of the enactment of this section [Mar. 18, 2020] and before September 6, 2021 (and only with respect to States that receive emergency administration grant funding under clauses (i) and (ii) of section 903(h)(1)(C) of the Social Security Act (42 U.S.C. 1102(h)(1)(C) [1103(h)(1)(C)])), section 204(a)(1) of the Federal-State Extended Unemployment Compensation Act of 1970 [Pub. L. 91–373] (26 U.S.C. 3304 note) shall be applied by substituting ‘100 percent of’ for ‘one-half of’.
 
@@ -1395,9 +1395,9 @@ Pub. L. 116–127, div. D, § 4105, Mar. 18, 2020, 134 Stat. 195, as amended b
 
 > **“(d) Regulations.—** The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this section.”
 
-[Pub. L. 117–2, title IX, § 9022(b), Mar. 11, 2021, 135 Stat. 120, provided that: “The amendment made by subsection (a) [amending section 4105 of Pub. L. 116–127, set out above] shall apply as if included in the enactment of the Families First Coronavirus Response Act (Public Law 116–127).” ]
+[Pub. L. 117–2, title IX, § 9022(b), Mar. 11, 2021, 135 Stat. 120, provided that: “The amendment made by subsection (a) [amending section 4105 of Pub. L. 116–127, set out above] shall apply as if included in the enactment of the Families First Coronavirus Response Act (Public Law 116–127).” ]
 
-Pub. L. 111–5, div. B, title II, § 2005, Feb. 17, 2009, 123 Stat. 444, as amended by Pub. L. 111–118, div. B, § 1009(a)(3), Dec. 19, 2009, 123 Stat. 3471; Pub. L. 111–144, § 2(a)(3), Mar. 2, 2010, 124 Stat. 42; Pub. L. 111–157, § 2(a)(3), Apr. 15, 2010, 124 Stat. 1116; Pub. L. 111–205, § 2(a)(2), July 22, 2010, 124 Stat. 2236; Pub. L. 111–312, title V, § 501(a)(2), Dec. 17, 2010, 124 Stat. 3307; Pub. L. 112–78, title II, § 201(a)(2), Dec. 23, 2011, 125 Stat. 1282; Pub. L. 112–96, title II, § 2123(a), Feb. 22, 2012, 126 Stat. 166; Pub. L. 112–240, title V, § 502(a), Jan. 2, 2013, 126 Stat. 2344, provided that:
+Pub. L. 111–5, div. B, title II, § 2005, Feb. 17, 2009, 123 Stat. 444, as amended by Pub. L. 111–118, div. B, § 1009(a)(3), Dec. 19, 2009, 123 Stat. 3471; Pub. L. 111–144, § 2(a)(3), Mar. 2, 2010, 124 Stat. 42; Pub. L. 111–157, § 2(a)(3), Apr. 15, 2010, 124 Stat. 1116; Pub. L. 111–205, § 2(a)(2), July 22, 2010, 124 Stat. 2236; Pub. L. 111–312, title V, § 501(a)(2), Dec. 17, 2010, 124 Stat. 3307; Pub. L. 112–78, title II, § 201(a)(2), Dec. 23, 2011, 125 Stat. 1282; Pub. L. 112–96, title II, § 2123(a), Feb. 22, 2012, 126 Stat. 166; Pub. L. 112–240, title V, § 502(a), Jan. 2, 2013, 126 Stat. 2344, provided that:
 
 > **“(a) In General.—** In the case of sharable extended compensation and sharable regular compensation paid for weeks of unemployment beginning after the date of the enactment of this section [Feb. 17, 2009] and before December 31, 2013, section 204(a)(1) of the Federal-State Extended Unemployment Compensation Act of 1970 [Pub. L. 91–373] (26 U.S.C. 3304 note) shall be applied by substituting ‘100 percent of’ for ‘one-half of’.
 
@@ -1429,21 +1429,21 @@ Pub. L. 111–5, div. B, title II, § 2005, Feb. 17, 2009, 123 Stat. 444, as a
 
 > **“(f) Regulations.—** The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this section.”
 
-[Pub. L. 112–240, title V, § 502(d), Jan. 2, 2013, 126 Stat. 2344, provided that: “The amendments made by this section [amending section 2005 of Pub. L. 111–5, set out above, and section 5 of Pub. L. 110–449 and section 203 of Pub. L. 91–373, set out below] shall take effect as if included in the enactment of the Unemployment Benefits Extension Act of 2012 ([subtitle B of title II of] Public Law 112–96).” ]
+[Pub. L. 112–240, title V, § 502(d), Jan. 2, 2013, 126 Stat. 2344, provided that: “The amendments made by this section [amending section 2005 of Pub. L. 111–5, set out above, and section 5 of Pub. L. 110–449 and section 203 of Pub. L. 91–373, set out below] shall take effect as if included in the enactment of the Unemployment Benefits Extension Act of 2012 ([subtitle B of title II of] Public Law 112–96).” ]
 
-[Pub. L. 112–96, title II, § 2123(d), Feb. 22, 2012, 126 Stat. 167, provided that: “The amendments made by this section [amending section 2005 of Pub. L. 111–5, set out above, and section 5 of Pub. L. 110–449 and section 203 of Pub. L. 91–373, set out below] shall take effect as if included in the enactment of the Temporary Payroll Tax Cut Continuation Act of 2011 (Public Law 112–78).” ]
+[Pub. L. 112–96, title II, § 2123(d), Feb. 22, 2012, 126 Stat. 167, provided that: “The amendments made by this section [amending section 2005 of Pub. L. 111–5, set out above, and section 5 of Pub. L. 110–449 and section 203 of Pub. L. 91–373, set out below] shall take effect as if included in the enactment of the Temporary Payroll Tax Cut Continuation Act of 2011 (Public Law 112–78).” ]
 
-[Pub. L. 112–78, title II, § 201(c), Dec. 23, 2011, 125 Stat. 1283, provided that: “The amendments made by this section [amending section 2005 of Pub. L. 111–5, set out above, section 5 of Pub. L. 110–449, sections 4004 and 4007 of Pub. L. 110–252, and section 203 of Pub. L. 91–373, set out below] shall take effect as if included in the enactment of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 (Public Law 111–312).” ]
+[Pub. L. 112–78, title II, § 201(c), Dec. 23, 2011, 125 Stat. 1283, provided that: “The amendments made by this section [amending section 2005 of Pub. L. 111–5, set out above, section 5 of Pub. L. 110–449, sections 4004 and 4007 of Pub. L. 110–252, and section 203 of Pub. L. 91–373, set out below] shall take effect as if included in the enactment of the Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010 (Public Law 111–312).” ]
 
-[Pub. L. 111–312, title V, § 501(c), Dec. 17, 2010, 124 Stat. 3307, provided that: “The amendments made by this section [amending section 2005 of Pub. L. 111–5, set out above, and section 5 of Pub. L. 110–449 and sections 4004 and 4007 of Pub. L. 110–252, set out below] shall take effect as if included in the enactment of the Unemployment Compensation Extension Act of 2010 (Public Law 111–205).” ]
+[Pub. L. 111–312, title V, § 501(c), Dec. 17, 2010, 124 Stat. 3307, provided that: “The amendments made by this section [amending section 2005 of Pub. L. 111–5, set out above, and section 5 of Pub. L. 110–449 and sections 4004 and 4007 of Pub. L. 110–252, set out below] shall take effect as if included in the enactment of the Unemployment Compensation Extension Act of 2010 (Public Law 111–205).” ]
 
-[Pub. L. 111–205, § 2(d), July 22, 2010, 124 Stat. 2237, provided that: “The amendments made by this section [amending section 2005 of Pub. L. 111–5, set out above, and section 5 of Pub. L. 110–449 and sections 4001, 4004, and 4007 of Pub. L. 110–252, set out below] shall take effect as if included in the enactment of the Continuing Extension Act of 2010 (Public Law 111–157).” ]
+[Pub. L. 111–205, § 2(d), July 22, 2010, 124 Stat. 2237, provided that: “The amendments made by this section [amending section 2005 of Pub. L. 111–5, set out above, and section 5 of Pub. L. 110–449 and sections 4001, 4004, and 4007 of Pub. L. 110–252, set out below] shall take effect as if included in the enactment of the Continuing Extension Act of 2010 (Public Law 111–157).” ]
 
 [Amendment by Pub. L. 111–157 to section 2005 of Pub. L. 111–5, set out above, effective as if included in the enactment of Pub. L. 111–144, see section 2(c) of Pub. L. 111–157, set out following section 2002 of Pub. L. 111–5 above.]
 
 **Temporary Federal Matching for the First Week of Extended Benefits for States With No Waiting Week**
 
-Pub. L. 110–449, § 5, Nov. 21, 2008, 122 Stat. 5015; as amended by Pub. L. 111–5, div. B, title II, § 2005(d)(1), Feb. 17, 2009, 123 Stat. 444; Pub. L. 111–118, div. B, § 1009(a)(4), Dec. 19, 2009, 123 Stat. 3471; Pub. L. 111–144, § 2(a)(4), Mar. 2, 2010, 124 Stat. 42; Pub. L. 111–157, § 2(a)(4), Apr. 15, 2010, 124 Stat. 1116; Pub. L. 111–205, § 2(a)(3), July 22, 2010, 124 Stat. 2236; Pub. L. 111–312, title V, § 501(a)(3), Dec. 17, 2010, 124 Stat. 3307; Pub. L. 112–78, title II, § 201(a)(3), Dec. 23, 2011, 125 Stat. 1282; Pub. L. 112–96, title II, § 2123(b), Feb. 22, 2012, 126 Stat. 167; Pub. L. 112–240, title V, § 502(b), Jan. 2, 2013, 126 Stat. 2344, provided that: “With respect to weeks of unemployment beginning after the date of the enactment of this Act [Nov. 21, 2008] and ending on or before June 30, 2014, subparagraph (B) of section 204(a)(2) of the Federal-State Extended Unemployment Compensation Act of 1970 [Pub. L. 91–373, title II] (26 U.S.C. 3304 note) shall not apply.”
+Pub. L. 110–449, § 5, Nov. 21, 2008, 122 Stat. 5015; as amended by Pub. L. 111–5, div. B, title II, § 2005(d)(1), Feb. 17, 2009, 123 Stat. 444; Pub. L. 111–118, div. B, § 1009(a)(4), Dec. 19, 2009, 123 Stat. 3471; Pub. L. 111–144, § 2(a)(4), Mar. 2, 2010, 124 Stat. 42; Pub. L. 111–157, § 2(a)(4), Apr. 15, 2010, 124 Stat. 1116; Pub. L. 111–205, § 2(a)(3), July 22, 2010, 124 Stat. 2236; Pub. L. 111–312, title V, § 501(a)(3), Dec. 17, 2010, 124 Stat. 3307; Pub. L. 112–78, title II, § 201(a)(3), Dec. 23, 2011, 125 Stat. 1282; Pub. L. 112–96, title II, § 2123(b), Feb. 22, 2012, 126 Stat. 167; Pub. L. 112–240, title V, § 502(b), Jan. 2, 2013, 126 Stat. 2344, provided that: “With respect to weeks of unemployment beginning after the date of the enactment of this Act [Nov. 21, 2008] and ending on or before June 30, 2014, subparagraph (B) of section 204(a)(2) of the Federal-State Extended Unemployment Compensation Act of 1970 [Pub. L. 91–373, title II] (26 U.S.C. 3304 note) shall not apply.”
 
 [Amendment by section 502(b) of Pub. L. 112–240 to section 5 of Pub. L. 110–449, set out above, effective as if included in the enactment of subtitle B of title II of Pub. L. 112–96, see section 502(d) of Pub. L. 112–240, set out following section 2005 of Pub. L. 111–5 above.]
 
@@ -1459,7 +1459,7 @@ Pub. L. 110–449, § 5, Nov. 21, 2008, 122 Stat. 5015; as amended by Pub. L. 
 
 **Emergency Unemployment Compensation, 2008**
 
-Pub. L. 110–252, title IV, June 30, 2008, 122 Stat. 2353, as amended by Pub. L. 110–449, §§ 2–4, Nov. 21, 2008, 122 Stat. 5014, 5015; Pub. L. 111–5, div. B, title II, § 2001, Feb. 17, 2009, 123 Stat. 436; Pub. L. 111–92, §§ 2(a), 3(a), (b), 4(a), (b), 5, 6, Nov. 6, 2009, 123 Stat. 2984–2987; Pub. L. 111–118, div. B, § 1009(a)(1), (b), Dec. 19, 2009, 123 Stat. 3471; Pub. L. 111–144, § 2(a)(1), (b), Mar. 2, 2010, 124 Stat. 42; Pub. L. 111–157, § 2(a)(1), (b), Apr. 15, 2010, 124 Stat. 1116; Pub. L. 111–205, §§ 2(a)(1), (b), (c), 3(a), 4, July 22, 2010, 124 Stat. 2236–2238; Pub. L. 111–312, title V, § 501(a)(1), (b), Dec. 17, 2010, 124 Stat. 3307; Pub. L. 112–78, title II, § 201(a)(1), (b), Dec. 23, 2011, 125 Stat. 1282, 1283; Pub. L. 112–96, title II, §§ 2122(a)–(e), 2141, 2142(a), (c), 2143, 2181(b), Feb. 22, 2012, 126 Stat. 163–166, 168–170, 180; Pub. L. 112–240, title V, §§ 501(a), (b), 503(a), Jan. 2, 2013, 126 Stat. 2343, 2344, provided that:
+Pub. L. 110–252, title IV, June 30, 2008, 122 Stat. 2353, as amended by Pub. L. 110–449, §§ 2–4, Nov. 21, 2008, 122 Stat. 5014, 5015; Pub. L. 111–5, div. B, title II, § 2001, Feb. 17, 2009, 123 Stat. 436; Pub. L. 111–92, §§ 2(a), 3(a), (b), 4(a), (b), 5, 6, Nov. 6, 2009, 123 Stat. 2984–2987; Pub. L. 111–118, div. B, § 1009(a)(1), (b), Dec. 19, 2009, 123 Stat. 3471; Pub. L. 111–144, § 2(a)(1), (b), Mar. 2, 2010, 124 Stat. 42; Pub. L. 111–157, § 2(a)(1), (b), Apr. 15, 2010, 124 Stat. 1116; Pub. L. 111–205, §§ 2(a)(1), (b), (c), 3(a), 4, July 22, 2010, 124 Stat. 2236–2238; Pub. L. 111–312, title V, § 501(a)(1), (b), Dec. 17, 2010, 124 Stat. 3307; Pub. L. 112–78, title II, § 201(a)(1), (b), Dec. 23, 2011, 125 Stat. 1282, 1283; Pub. L. 112–96, title II, §§ 2122(a)–(e), 2141, 2142(a), (c), 2143, 2181(b), Feb. 22, 2012, 126 Stat. 163–166, 168–170, 180; Pub. L. 112–240, title V, §§ 501(a), (b), 503(a), Jan. 2, 2013, 126 Stat. 2343, 2344, provided that:
 
 > **“federal-state agreements**
 
@@ -1587,7 +1587,7 @@ Pub. L. 110–252, title IV, June 30, 2008, 122 Stat. 2353, as amended by Pub. L
 
 > **“(C)** clause (i) of paragraph (3)(C) shall be deemed to state as follows:
 
-> “ ‘(i) include any entrepreneurial training that the State or non-profit organizations may provide in coordination with programs of training offered by the Small Business Administration, which may include business counseling, mentorship for participants, access to small business development resources, and technical assistance; and’;
+> “ ‘(i) include any entrepreneurial training that the State or non-profit organizations may provide in coordination with programs of training offered by the Small Business Administration, which may include business counseling, mentorship for participants, access to small business development resources, and technical assistance; and’;
 
 > **“(D)** the reference to ‘5 percent’ in paragraph (4) shall be deemed to refer instead to ‘1 percent’; and
 
@@ -1619,7 +1619,7 @@ Pub. L. 110–252, title IV, June 30, 2008, 122 Stat. 2353, as amended by Pub. L
 
 > **“(A)** paragraph (1)(A) shall be applied by substituting ‘54 percent’ for ‘80 percent’; and
 
-> **“(B)** paragraph (1)(B) shall be applied by substituting ‘14 weeks’ for ‘20 weeks’ [probably should be “ ‘14 times’ for ‘20 times’ ”].
+> **“(B)** paragraph (1)(B) shall be applied by substituting ‘14 weeks’ for ‘20 weeks’ [probably should be “ ‘14 times’ for ‘20 times’ ”].
 
 > **“(3) Weekly benefit amount.—** For purposes of this subsection, an individual’s weekly benefit amount for any week is the amount of regular compensation (including dependents’ allowances) under the State law payable to such individual for such week for total unemployment.
 
@@ -1899,23 +1899,23 @@ Pub. L. 110–252, title IV, June 30, 2008, 122 Stat. 2353, as amended by Pub. L
 
 > **“(b) Termination.—** No compensation under this title shall be payable for any week subsequent to the last week described in subsection (a).”
 
-[Pub. L. 112–240, title V, § 501(c), Jan. 2, 2013, 126 Stat. 2344, provided that: “The amendments made by this section [amending sections 4004 and 4007 of Pub. L. 110–252, set out above] shall take effect as if included in the enactment of the Unemployment Benefits Extension Act of 2012 ([subtitle B of title II of] Public Law 112–96)” .]
+[Pub. L. 112–240, title V, § 501(c), Jan. 2, 2013, 126 Stat. 2344, provided that: “The amendments made by this section [amending sections 4004 and 4007 of Pub. L. 110–252, set out above] shall take effect as if included in the enactment of the Unemployment Benefits Extension Act of 2012 ([subtitle B of title II of] Public Law 112–96)” .]
 
-[Pub. L. 112–240, title V, § 503(b), Jan. 2, 2013, 126 Stat. 2344, provided that: “The amendments made by this section [amending section 4004 of Pub. L. 110–252, set out above] shall take effect as if included in the enactment of the Unemployment Benefits Extension Act of 2012 ([subtitle B of title II of] Public Law 112–96).” ]
+[Pub. L. 112–240, title V, § 503(b), Jan. 2, 2013, 126 Stat. 2344, provided that: “The amendments made by this section [amending section 4004 of Pub. L. 110–252, set out above] shall take effect as if included in the enactment of the Unemployment Benefits Extension Act of 2012 ([subtitle B of title II of] Public Law 112–96).” ]
 
-[Pub. L. 112–96, title II, § 2122(f), Feb. 22, 2012, 126 Stat. 166, provided that:
+[Pub. L. 112–96, title II, § 2122(f), Feb. 22, 2012, 126 Stat. 166, provided that:
 
 [“(1) In general.—The amendments made by subsections (b), (c), and (d) [amending sections 4001 and 4002 of Pub. L. 110–252, set out above] shall take effect as of February 28, 2012, and shall apply with respect to weeks of unemployment beginning after that date.
 
 [“(2) Week defined.—For purposes of this subsection, the term ‘week’ has the meaning given such term under section 4006 of the Supplemental Appropriations Act, 2008 [Pub. L. 110–252, set out above].”]
 
-[Pub. L. 112–96, title II, § 2142(b), Feb. 22, 2012, 126 Stat. 169, provided that: “Not later than 30 days after the date of enactment of this Act [Feb. 22, 2012], the Secretary shall issue guidance on the implementation of the reemployment services and reemployment and eligibility assessment activities required to be provided under the amendment made by subsection (a) [amending section 4001 of Pub. L. 110–252, set out above].” ]
+[Pub. L. 112–96, title II, § 2142(b), Feb. 22, 2012, 126 Stat. 169, provided that: “Not later than 30 days after the date of enactment of this Act [Feb. 22, 2012], the Secretary shall issue guidance on the implementation of the reemployment services and reemployment and eligibility assessment activities required to be provided under the amendment made by subsection (a) [amending section 4001 of Pub. L. 110–252, set out above].” ]
 
-[Pub. L. 112–96, § 2142(c)(2)(A), which directed amendment of section 4004(e)(1)(G) of Pub. L. 110–252, set out above, by striking out “and” at the end, could not be executed because of the prior identical amendment by Pub. L. 112–96, § 2122(e)(1).]
+[Pub. L. 112–96, § 2142(c)(2)(A), which directed amendment of section 4004(e)(1)(G) of Pub. L. 110–252, set out above, by striking out “and” at the end, could not be executed because of the prior identical amendment by Pub. L. 112–96, § 2122(e)(1).]
 
-[Pub. L. 112–96, § 2142(c)(2)(C), which directed amendment of section 4004(e) of Pub. L. 110–252, set out above, by adding par. (3) “at the end”, was executed by adding par. (3) after par. (2), to reflect the probable intent of Congress.]
+[Pub. L. 112–96, § 2142(c)(2)(C), which directed amendment of section 4004(e) of Pub. L. 110–252, set out above, by adding par. (3) “at the end”, was executed by adding par. (3) after par. (2), to reflect the probable intent of Congress.]
 
-[Pub. L. 112–96, title II, § 2144, Feb. 22, 2012, 126 Stat. 171, provided that: “Subsection (g) of section 4001 of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) shall not apply with respect to a State that has enacted a law before March 1, 2012, that, upon taking effect, would violate such subsection.” ]
+[Pub. L. 112–96, title II, § 2144, Feb. 22, 2012, 126 Stat. 171, provided that: “Subsection (g) of section 4001 of the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note) shall not apply with respect to a State that has enacted a law before March 1, 2012, that, upon taking effect, would violate such subsection.” ]
 
 [Amendment by section 201(a)(1), (b) of Pub. L. 112–78 to sections 4004 and 4007 of Pub. L. 110–252, set out above, effective as if included in the enactment of Pub. L. 111–312, see section 201(c) of Pub. L. 112–78, set out following section 2005 of Pub. L. 111–5 above.]
 
@@ -1923,17 +1923,17 @@ Pub. L. 110–252, title IV, June 30, 2008, 122 Stat. 2353, as amended by Pub. L
 
 [Amendment by section 2(a)(1), (b), (c) of Pub. L. 111–205 to sections 4001, 4004, and 4007 of Pub. L. 110–252, set out above, effective as if included in Pub. L. 111–157, see section 2(d) of Pub. L. 111–205, set out following section 2005 of Pub. L. 111–5 above.]
 
-[Pub. L. 111–205, § 3(b), July 22, 2010, 124 Stat. 2238, provided that: “The amendment made by this section [amending section 4002 of Pub. L. 110–252, set out above] shall apply to individuals whose benefit years, as described in section 4002(g)(1)(B) [of] the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note), as amended by this section, expire after the date of enactment of this Act [July 22, 2010].” ]
+[Pub. L. 111–205, § 3(b), July 22, 2010, 124 Stat. 2238, provided that: “The amendment made by this section [amending section 4002 of Pub. L. 110–252, set out above] shall apply to individuals whose benefit years, as described in section 4002(g)(1)(B) [of] the Supplemental Appropriations Act, 2008 (Public Law 110–252; 26 U.S.C. 3304 note), as amended by this section, expire after the date of enactment of this Act [July 22, 2010].” ]
 
 [Amendment by section 2(a)(1), (b) of Pub. L. 111–157 to sections 4004 and 4007 of Pub. L. 110–252, set out above, effective as if included in the enactment of Pub. L. 111–144, see section 2(c) of Pub. L. 111–157, set out following section 2002 of Pub. L. 111–5 above.]
 
-[Pub. L. 111–92, § 2(b), Nov. 6, 2009, 123 Stat. 2984, provided that: “The amendments made by this section [amending section 4002 of Pub. L. 110–252, set out above] shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008 [Pub. L. 110–252], except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act [Nov. 6, 2009].” ]
+[Pub. L. 111–92, § 2(b), Nov. 6, 2009, 123 Stat. 2984, provided that: “The amendments made by this section [amending section 4002 of Pub. L. 110–252, set out above] shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008 [Pub. L. 110–252], except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act [Nov. 6, 2009].” ]
 
-[Pub. L. 111–92, § 3(c), Nov. 6, 2009, 123 Stat. 2985, provided that: “The amendments made by this section [amending sections 4002 and 4007 of Pub. L. 110–252, set out above] shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008 [Pub. L. 110–252], except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act [Nov. 6, 2009].” ]
+[Pub. L. 111–92, § 3(c), Nov. 6, 2009, 123 Stat. 2985, provided that: “The amendments made by this section [amending sections 4002 and 4007 of Pub. L. 110–252, set out above] shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008 [Pub. L. 110–252], except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act [Nov. 6, 2009].” ]
 
-[Pub. L. 111–92, § 4(c), Nov. 6, 2009, 123 Stat. 2986, provided that: “The amendments made by this section [amending sections 4002 and 4007 of Pub. L. 110–252, set out above] shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008 [Pub. L. 110–252], except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act [Nov. 6, 2009].” ]
+[Pub. L. 111–92, § 4(c), Nov. 6, 2009, 123 Stat. 2986, provided that: “The amendments made by this section [amending sections 4002 and 4007 of Pub. L. 110–252, set out above] shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008 [Pub. L. 110–252], except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act [Nov. 6, 2009].” ]
 
-[Pub. L. 110–449, § 6, Nov. 21, 2008, 122 Stat. 5015, provided that:
+[Pub. L. 110–449, § 6, Nov. 21, 2008, 122 Stat. 5015, provided that:
 
 [“(a) In General.—The amendments made by sections 2, 3, and 4 [amending title IV of Pub. L. 110–252, set out as a note above] shall apply as if included in the enactment of the Supplemental Appropriations Act, 2008 [Pub. L. 110–252], subject to subsection (b).
 
@@ -1941,7 +1941,7 @@ Pub. L. 110–252, title IV, June 30, 2008, 122 Stat. 2353, as amended by Pub. L
 
 **Additional Temporary Extended Unemployment Compensation for Displaced Airline Related Workers**
 
-Pub. L. 108–11, title IV, § 4002, Apr. 16, 2003, 117 Stat. 607, provided that:
+Pub. L. 108–11, title IV, § 4002, Apr. 16, 2003, 117 Stat. 607, provided that:
 
 > **“(a) Definitions.—** For purposes of this section—
 
@@ -1977,19 +1977,19 @@ Pub. L. 108–11, title IV, § 4002, Apr. 16, 2003, 117 Stat. 607, provided th
 
 > **“(2) Program extension.—** Deem section 208 of the Temporary Extended Unemployment Compensation Act of 2002, as amended by Public Law 108–1 (117 Stat. 3), to be amended to read as follows:
 
-> “ ‘SEC. 208. APPLICABILITY.
+> “ ‘SEC. 208. APPLICABILITY.
 
-> “ ‘(a) In General.—Subject to subsection (b), an agreement entered into under this title shall apply to weeks of unemployment—
+> “ ‘(a) In General.—Subject to subsection (b), an agreement entered into under this title shall apply to weeks of unemployment—
 
-> “ ‘(1) beginning after the date on which such agreement is entered into; and
+> “ ‘(1) beginning after the date on which such agreement is entered into; and
 
-> “ ‘(2) ending before December 29, 2003.
+> “ ‘(2) ending before December 29, 2003.
 
-> “ ‘(b) Transition for Amount Remaining in Account.—
+> “ ‘(b) Transition for Amount Remaining in Account.—
 
-> “ ‘(1) In general.—Subject to paragraph (2), in the case of an individual who has amounts remaining in an account established under section 203 as of December 28, 2003, temporary extended unemployment compensation shall continue to be payable to such individual from such amounts for any week beginning after such date for which the individual meets the eligibility requirements of this title, including such compensation payable by reason of amounts deposited in such account after such date pursuant to the application of subsection (c) of such section.
+> “ ‘(1) In general.—Subject to paragraph (2), in the case of an individual who has amounts remaining in an account established under section 203 as of December 28, 2003, temporary extended unemployment compensation shall continue to be payable to such individual from such amounts for any week beginning after such date for which the individual meets the eligibility requirements of this title, including such compensation payable by reason of amounts deposited in such account after such date pursuant to the application of subsection (c) of such section.
 
-> “ ‘(2) Limitation.—No compensation shall be payable by reason of paragraph (1) for any week beginning after December 26, 2004.’.
+> “ ‘(2) Limitation.—No compensation shall be payable by reason of paragraph (1) for any week beginning after December 26, 2004.’.
 
 > **“(3) Additional weeks of benefits.—** Deem section 203 of the Temporary Extended Unemployment Compensation Act of 2002, as amended by Public Law 108–1 (117 Stat. 3), to be amended—
 
@@ -2021,7 +2021,7 @@ Pub. L. 108–11, title IV, § 4002, Apr. 16, 2003, 117 Stat. 607, provided th
 
 **Temporary Extended Unemployment Compensation**
 
-Pub. L. 107–147, title II, Mar. 9, 2002, 116 Stat. 26, as amended by Pub. L. 108–1, § 1(a), Jan. 8, 2003, 117 Stat. 3; Pub. L. 108–26, § 2(a), May 28, 2003, 117 Stat. 751; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 107–147, title II, Mar. 9, 2002, 116 Stat. 26, as amended by Pub. L. 108–1, § 1(a), Jan. 8, 2003, 117 Stat. 3; Pub. L. 108–26, § 2(a), May 28, 2003, 117 Stat. 751; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 > **“SEC. 201. SHORT TITLE.**
 
@@ -2185,17 +2185,17 @@ Pub. L. 107–147, title II, Mar. 9, 2002, 116 Stat. 26, as amended by Pub. L. 1
 
 > **“(e) Regulations.—** The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this section and the amendments made by this section.”
 
-[Pub. L. 108–26, § 2(b), May 28, 2003, 117 Stat. 751, provided that: “The amendments made by this section [amending section 208 of Pub. L. 107–147, set out above] shall take effect as if included in the enactment of the Temporary Extended Unemployment Compensation Act of 2002 (Public Law 107–147 [title II]; 116 Stat. 21 [26]).” ]
+[Pub. L. 108–26, § 2(b), May 28, 2003, 117 Stat. 751, provided that: “The amendments made by this section [amending section 208 of Pub. L. 107–147, set out above] shall take effect as if included in the enactment of the Temporary Extended Unemployment Compensation Act of 2002 (Public Law 107–147 [title II]; 116 Stat. 21 [26]).” ]
 
-[Pub. L. 108–1, § 1(b), Jan. 8, 2003, 117 Stat. 4, provided that: “The amendment made by this section [amending section 208 of Pub. L. 107–147, set out above] shall take effect as if included in the enactment of the Temporary Extended Unemployment Compensation Act of 2002 (Public Law 107–147 [title II]; 116 Stat. 21 [26]).” ]
+[Pub. L. 108–1, § 1(b), Jan. 8, 2003, 117 Stat. 4, provided that: “The amendment made by this section [amending section 208 of Pub. L. 107–147, set out above] shall take effect as if included in the enactment of the Temporary Extended Unemployment Compensation Act of 2002 (Public Law 107–147 [title II]; 116 Stat. 21 [26]).” ]
 
 **Profiling of New Claimants for Regular Unemployment Compensation**
 
-Pub. L. 103–6, § 4, Mar. 4, 1993, 107 Stat. 34, directed Secretary of Labor to establish program for encouraging adoption and implementation by all States of system of profiling all new claimants for regular unemployment compensation to determine which claimants might be likely to exhaust regular unemployment compensation and might need reemployment assistance services, directed Secretary to provide technical assistance and advice to States in development of model profiling systems and procedures for such systems and to provide to each State, from funds available for this purpose, such funds as determined necessary, and directed Secretary to report to Congress on operation and effectiveness of profiling systems adopted by States along with continuation and legislative recommendations, prior to repeal by Pub. L. 103–152, § 4(e), Nov. 24, 1993, 107 Stat. 1518.
+Pub. L. 103–6, § 4, Mar. 4, 1993, 107 Stat. 34, directed Secretary of Labor to establish program for encouraging adoption and implementation by all States of system of profiling all new claimants for regular unemployment compensation to determine which claimants might be likely to exhaust regular unemployment compensation and might need reemployment assistance services, directed Secretary to provide technical assistance and advice to States in development of model profiling systems and procedures for such systems and to provide to each State, from funds available for this purpose, such funds as determined necessary, and directed Secretary to report to Congress on operation and effectiveness of profiling systems adopted by States along with continuation and legislative recommendations, prior to repeal by Pub. L. 103–152, § 4(e), Nov. 24, 1993, 107 Stat. 1518.
 
 **Treatment of Persian Gulf Crisis Reservists**
 
-Pub. L. 102–318, title I, § 104, July 3, 1992, 106 Stat. 293, provided that:
+Pub. L. 102–318, title I, § 104, July 3, 1992, 106 Stat. 293, provided that:
 
 > “If—
 
@@ -2211,11 +2211,11 @@ Pub. L. 102–318, title I, § 104, July 3, 1992, 106 Stat. 293, provided that
 
 **Study and Report by Federal Advisory Council on Suspension of Eligibility Requirements for Unemployment Benefits**
 
-Pub. L. 102–318, title II, § 202(b)(2), July 3, 1992, 106 Stat. 297, directed Federal Advisory Council established under 42 U.S.C. 1108 to conduct a study of the provisions suspended by the amendment made by section 202(b)(1) of Pub. L. 102–318, enacting section 202(a)(7) of Pub. L. 91–373, set out below, and to submit, not later than Feb. 1, 1994, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate, a report of its recommendations on such suspended provisions.
+Pub. L. 102–318, title II, § 202(b)(2), July 3, 1992, 106 Stat. 297, directed Federal Advisory Council established under 42 U.S.C. 1108 to conduct a study of the provisions suspended by the amendment made by section 202(b)(1) of Pub. L. 102–318, enacting section 202(a)(7) of Pub. L. 91–373, set out below, and to submit, not later than Feb. 1, 1994, to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate, a report of its recommendations on such suspended provisions.
 
 **Information Required With Respect to Taxation of Unemployment Benefits**
 
-Pub. L. 102–318, title III, § 301, July 3, 1992, 106 Stat. 297, provided that:
+Pub. L. 102–318, title III, § 301, July 3, 1992, 106 Stat. 297, provided that:
 
 > **“(a) Information on Unemployment Benefits.—**
 
@@ -2227,15 +2227,15 @@ Pub. L. 102–318, title III, § 301, July 3, 1992, 106 Stat. 297, provided th
 
 **Emergency Unemployment Compensation Act of 1991**
 
-Pub. L. 102–164, § 1, titles I, II, Nov. 15, 1991, 105 Stat. 1049, 1056, as amended by Pub. L. 102–182, § 3(a)(1)–(6), Dec. 4, 1991, 105 Stat. 1234; Pub. L. 102–244, §§ 1(a), (b), 2, Feb. 7, 1992, 106 Stat. 3, 4; Pub. L. 102–318, title I, §§ 101(a)–(d), 102(a), 103(a), 107, July 3, 1992, 106 Stat. 290–293, 295; Pub. L. 103–6, § 2(a)–(c), Mar. 4, 1993, 107 Stat. 33; Pub. L. 103–152, §§ 2(a)–(d), 3(a), Nov. 24, 1993, 107 Stat. 1516, 1517, known as the “Emergency Unemployment Compensation Act of 1991”, established an emergency unemployment compensation program for individuals eligible during the period of Nov. 17, 1991, to Feb. 5, 1994, and directed the Secretary of Labor to carry out a job search assistance demonstration program with a final report to Congress on the effectiveness of the demonstration program due not later than 5 years after the commencement of the program.
+Pub. L. 102–164, § 1, titles I, II, Nov. 15, 1991, 105 Stat. 1049, 1056, as amended by Pub. L. 102–182, § 3(a)(1)–(6), Dec. 4, 1991, 105 Stat. 1234; Pub. L. 102–244, §§ 1(a), (b), 2, Feb. 7, 1992, 106 Stat. 3, 4; Pub. L. 102–318, title I, §§ 101(a)–(d), 102(a), 103(a), 107, July 3, 1992, 106 Stat. 290–293, 295; Pub. L. 103–6, § 2(a)–(c), Mar. 4, 1993, 107 Stat. 33; Pub. L. 103–152, §§ 2(a)–(d), 3(a), Nov. 24, 1993, 107 Stat. 1516, 1517, known as the “Emergency Unemployment Compensation Act of 1991”, established an emergency unemployment compensation program for individuals eligible during the period of Nov. 17, 1991, to Feb. 5, 1994, and directed the Secretary of Labor to carry out a job search assistance demonstration program with a final report to Congress on the effectiveness of the demonstration program due not later than 5 years after the commencement of the program.
 
 **Determination of Amount of Federal Share With Respect to Certain Extended Benefits Payments**
 
-Pub. L. 100–203, title IX, § 9151, Dec. 22, 1987, 101 Stat. 1330–322, provided that: “For the purpose of determining the amount of the Federal payment to any State under section 204(a)(1) of the Federal-State Extended Unemployment Compensation Act of 1970 [Pub. L. 91–373, set out below] with respect to the implementation of paragraph (3) of section 202(a) of such Act [section 202(a) of Pub. L. 91–373, set out below] (as added by section 1024(a) of the Omnibus Reconciliation Act of 1980 [Pub. L. 96–499]), such paragraph shall be considered to apply only with respect to weeks of unemployment beginning after October 31, 1981, except that for any State in which the State legislature did not meet in 1981, it shall be considered to apply for such purpose only with respect to weeks of unemployment beginning after October 31, 1982.”
+Pub. L. 100–203, title IX, § 9151, Dec. 22, 1987, 101 Stat. 1330–322, provided that: “For the purpose of determining the amount of the Federal payment to any State under section 204(a)(1) of the Federal-State Extended Unemployment Compensation Act of 1970 [Pub. L. 91–373, set out below] with respect to the implementation of paragraph (3) of section 202(a) of such Act [section 202(a) of Pub. L. 91–373, set out below] (as added by section 1024(a) of the Omnibus Reconciliation Act of 1980 [Pub. L. 96–499]), such paragraph shall be considered to apply only with respect to weeks of unemployment beginning after October 31, 1981, except that for any State in which the State legislature did not meet in 1981, it shall be considered to apply for such purpose only with respect to weeks of unemployment beginning after October 31, 1982.”
 
 **Demonstration Program To Provide Self-Employment Allowances for Eligible Individuals**
 
-Pub. L. 100–203, title IX, § 9152, Dec. 22, 1987, 101 Stat. 1330–322, as amended by Pub. L. 100–647, title VIII, § 8301, Nov. 10, 1988, 102 Stat. 3798, provided that:
+Pub. L. 100–203, title IX, § 9152, Dec. 22, 1987, 101 Stat. 1330–322, as amended by Pub. L. 100–647, title VIII, § 8301, Nov. 10, 1988, 102 Stat. 3798, provided that:
 
 > **“(a) In General.—** The Secretary of Labor (hereinafter in this section referred to as the ‘Secretary’) shall carry out a demonstration program under this section for the purpose of making available self-employment allowances to eligible individuals. To carry out such program, the Secretary shall enter into agreements with three States that—
 
@@ -2355,13 +2355,13 @@ Pub. L. 100–203, title IX, § 9152, Dec. 22, 1987, 101 Stat. 1330–322, as 
 
 **Supplemental Unemployment Compensation for Certain Individuals**
 
-Pub. L. 99–272, title XII, § 12402, Apr. 7, 1986, 100 Stat. 298, provided that:
+Pub. L. 99–272, title XII, § 12402, Apr. 7, 1986, 100 Stat. 298, provided that:
 
 > **“(a) In General.—** If—
 
 > **“(1)** an individual was receiving Federal supplemental compensation for the week which includes March 31, 1985, or a series of consecutive weeks which began with such week, and
 
-> **“(2)** such individual did not meet the consecutive-week eligibility requirements of the Federal Supplemental Compensation Act of 1982 [subtitle A (§§ 601–606) of title VI of Pub. L. 97–248, set out below] during any period of 1 or more subsequent weeks by reason of performing temporary disaster services described in subsection (e),
+> **“(2)** such individual did not meet the consecutive-week eligibility requirements of the Federal Supplemental Compensation Act of 1982 [subtitle A (§§ 601–606) of title VI of Pub. L. 97–248, set out below] during any period of 1 or more subsequent weeks by reason of performing temporary disaster services described in subsection (e),
 
 > weeks in such period shall be disregarded for purposes of the consecutive-week requirement of section 602(f)(2)(B) of such Act [section 602(f)(2)(B) of Pub. L. 97–248, set out below], and, notwithstanding the requirements of State law relating to the availability for work, the active search for work, or the refusal to accept work, such individual shall be entitled to payment of Federal supplemental compensation for each week of unemployment which is described in subsection (b) and for which a certification of unemployment is made by such individual in accordance with subsection (c).
 
@@ -2387,11 +2387,11 @@ Pub. L. 99–272, title XII, § 12402, Apr. 7, 1986, 100 Stat. 298, provided t
 
 **Amortization Payments for States With Independent Retirement Plans From Funds for Increased Costs of Administration of Unemployment Compensation Laws; Changes in State Laws; Increased Claims; Salary Costs**
 
-Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 344, provided that: “Whenever funds are made available, now or hereafter, in this or any other Act for the administration of unemployment compensation laws to meet increased costs of administration resulting from changes in a State law or increases in the number of unemployment insurance claims filed and claims paid or increased salary costs resulting from changes in State salary compensation plans embracing employees of the State generally over those upon which the State’s basic allocation was based, which cannot be provided for by normal budgetary adjustment, amortization payments for States which had independent retirement plans prior to 1980 in their State Employment Security Agencies and States agencies administering the State’s unemployment compensation law may be paid from such funds.”
+Pub. L. 99–88, title I, § 100, Aug. 15, 1985, 99 Stat. 344, provided that: “Whenever funds are made available, now or hereafter, in this or any other Act for the administration of unemployment compensation laws to meet increased costs of administration resulting from changes in a State law or increases in the number of unemployment insurance claims filed and claims paid or increased salary costs resulting from changes in State salary compensation plans embracing employees of the State generally over those upon which the State’s basic allocation was based, which cannot be provided for by normal budgetary adjustment, amortization payments for States which had independent retirement plans prior to 1980 in their State Employment Security Agencies and States agencies administering the State’s unemployment compensation law may be paid from such funds.”
 
 **Arrangements To Prevent Payments of Unemployment Compensation to Retirees and Prisoners**
 
-Pub. L. 98–135, title II, § 206, Oct. 24, 1983, 97 Stat. 861, provided that:
+Pub. L. 98–135, title II, § 206, Oct. 24, 1983, 97 Stat. 861, provided that:
 
 > **“(a)** The Secretary of Labor, the Director of the Office of Personnel Management, and the Attorney General are directed to enter into arrangements to make available to the States, computer or other data regarding current and retired Federal employees and Federal prisoners so that States may review the eligibility of these individuals for unemployment compensation, and take action where appropriate.
 
@@ -2399,7 +2399,7 @@ Pub. L. 98–135, title II, § 206, Oct. 24, 1983, 97 Stat. 861, provided that
 
 **Short-Time Compensation**
 
-Pub. L. 112–96, title II, §§ 2162–2165, Feb. 22, 2012, 126 Stat. 173–178, provided that:
+Pub. L. 112–96, title II, §§ 2162–2165, Feb. 22, 2012, 126 Stat. 173–178, provided that:
 
 > **“SEC. 2162. TEMPORARY FINANCING OF SHORT-TIME COMPENSATION PAYMENTS IN STATES WITH PROGRAMS IN LAW.**
 
@@ -2585,9 +2585,9 @@ Pub. L. 112–96, title II, §§ 2162–2165, Feb. 22, 2012, 126 Stat. 173–1
 
 > **“(c) Consultation.—** In developing the model legislative language and guidance under subsection (a), and in order to meet the requirements of subsection (b), the Secretary shall consult with employers, labor organizations, State workforce agencies, and other program experts.”
 
-Pub. L. 102–318, title IV, § 401(b)–(d), July 3, 1992, 106 Stat. 299, which related to assistance in implementing short-time compensation programs, was repealed by Pub. L. 112–96, title II, § 2161(b)(3), Feb. 22, 2012, 126 Stat. 172.
+Pub. L. 102–318, title IV, § 401(b)–(d), July 3, 1992, 106 Stat. 299, which related to assistance in implementing short-time compensation programs, was repealed by Pub. L. 112–96, title II, § 2161(b)(3), Feb. 22, 2012, 126 Stat. 172.
 
-Pub. L. 97–248, title I, § 194, Sept. 3, 1982, 96 Stat. 409, provided that:
+Pub. L. 97–248, title I, § 194, Sept. 3, 1982, 96 Stat. 409, provided that:
 
 > **“(a)** It is the purpose of this section to assist States which provide partial unemployment benefits to individuals whose workweeks are reduced pursuant to an employer plan under which such reductions are made in lieu of temporary layoffs.
 
@@ -2655,23 +2655,23 @@ Pub. L. 97–248, title I, § 194, Sept. 3, 1982, 96 Stat. 409, provided that:
 
 **Federal Supplemental Compensation Act of 1982**
 
-Pub. L. 97–248, title VI, subtitle A (§§ 601–606), Sept. 3, 1982, 96 Stat. 702, as amended by Pub. L. 97–424, title V, § 544(a), (d), Jan. 6, 1983, 96 Stat. 2196; Pub. L. 97–448, title III, § 310(a), Jan. 12, 1983, 96 Stat. 2411; Pub. L. 98–21, title V, §§ 501, 502, 504, 505, Apr. 20, 1983, 97 Stat. 141, 144; Pub. L. 98–92, § 1(a), Sept. 2, 1983, 97 Stat. 608; Pub. L. 98–118, § 1, Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–135, title I, §§ 101, 102, Oct. 24, 1983, 97 Stat. 857; Pub. L. 99–15, § 1(a), (b), Apr. 4, 1985, 99 Stat. 37, known as the “Federal Supplemental Compensation Act of 1982”, authorized States to enter into and participate in an agreement with the Secretary of Labor providing for States to make payments of Federal supplemental compensation for weeks beginning before Apr. 1, 1985, to eligible individuals who had exhausted their rights or had no right to regular compensation under State law.
+Pub. L. 97–248, title VI, subtitle A (§§ 601–606), Sept. 3, 1982, 96 Stat. 702, as amended by Pub. L. 97–424, title V, § 544(a), (d), Jan. 6, 1983, 96 Stat. 2196; Pub. L. 97–448, title III, § 310(a), Jan. 12, 1983, 96 Stat. 2411; Pub. L. 98–21, title V, §§ 501, 502, 504, 505, Apr. 20, 1983, 97 Stat. 141, 144; Pub. L. 98–92, § 1(a), Sept. 2, 1983, 97 Stat. 608; Pub. L. 98–118, § 1, Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–135, title I, §§ 101, 102, Oct. 24, 1983, 97 Stat. 857; Pub. L. 99–15, § 1(a), (b), Apr. 4, 1985, 99 Stat. 37, known as the “Federal Supplemental Compensation Act of 1982”, authorized States to enter into and participate in an agreement with the Secretary of Labor providing for States to make payments of Federal supplemental compensation for weeks beginning before Apr. 1, 1985, to eligible individuals who had exhausted their rights or had no right to regular compensation under State law.
 
 **Modification of Agreements Under Federal Supplemental Compensation Act of 1982**
 
-Pub. L. 99–15, § 1(c), Apr. 4, 1985, 99 Stat. 37, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [Apr. 4, 1985], propose to each State with which he has in effect an agreement under section 602 of the Federal Supplemental Compensation Act of 1982 [section 602 of Pub. L. 97–248, set out above] a modification of such agreement designed to provide for the payment of Federal supplemental compensation under such Act [subtitle A of title VI of Pub. L. 97–248, set out above] in accordance with the amendments made by this Act [amending the Federal Supplemental Compensation Act of 1982]. Notwithstanding any other provision of law, if any State fails or refuses within the three-week period beginning on the date the Secretary of Labor proposes such modification to such State, to enter into such modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the close of such three-week period. Pending modification (or termination) of the agreement, States may pay Federal supplemental compensation in accordance with the amendments made by this Act for weeks beginning after March 31, 1985, and shall be reimbursed in accordance with the provisions of the Federal Supplemental Compensation Act of 1982.”
+Pub. L. 99–15, § 1(c), Apr. 4, 1985, 99 Stat. 37, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [Apr. 4, 1985], propose to each State with which he has in effect an agreement under section 602 of the Federal Supplemental Compensation Act of 1982 [section 602 of Pub. L. 97–248, set out above] a modification of such agreement designed to provide for the payment of Federal supplemental compensation under such Act [subtitle A of title VI of Pub. L. 97–248, set out above] in accordance with the amendments made by this Act [amending the Federal Supplemental Compensation Act of 1982]. Notwithstanding any other provision of law, if any State fails or refuses within the three-week period beginning on the date the Secretary of Labor proposes such modification to such State, to enter into such modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the close of such three-week period. Pending modification (or termination) of the agreement, States may pay Federal supplemental compensation in accordance with the amendments made by this Act for weeks beginning after March 31, 1985, and shall be reimbursed in accordance with the provisions of the Federal Supplemental Compensation Act of 1982.”
 
 **Application of Federal Supplemental Compensation Act of 1982 With Respect to Weeks Beginning After March 31, 1983**
 
-Pub. L. 98–13, Mar. 29, 1983, 97 Stat. 54, provided: “That, with respect to weeks beginning after March 31, 1983, the Federal Supplemental Compensation Act of 1982 [subtitle A of title VI of Pub. L. 97–248, set out above] shall be applied as if the provisions contained in part A of title V of the conference report [H. Rept. No. 98–47] on the bill H.R. 1900 [part A (§§ 501–505) of title V of Pub. L. 98–21, Apr. 20, 1983, 97 Stat. 141–144, amending subtitle A of title VI of Pub. L. 97–248, set out above] were enacted into law on the date of the enactment of this Act [Mar. 29, 1983].”
+Pub. L. 98–13, Mar. 29, 1983, 97 Stat. 54, provided: “That, with respect to weeks beginning after March 31, 1983, the Federal Supplemental Compensation Act of 1982 [subtitle A of title VI of Pub. L. 97–248, set out above] shall be applied as if the provisions contained in part A of title V of the conference report [H. Rept. No. 98–47] on the bill H.R. 1900 [part A (§§ 501–505) of title V of Pub. L. 98–21, Apr. 20, 1983, 97 Stat. 141–144, amending subtitle A of title VI of Pub. L. 97–248, set out above] were enacted into law on the date of the enactment of this Act [Mar. 29, 1983].”
 
 **Termination of Federal-State Supplemental Unemployment Compensation Agreements With States Failing To Renegotiate**
 
-Pub. L. 97–424, title V, § 544(c), Jan. 6, 1983, 96 Stat. 2197, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [Jan. 6, 1983], propose to each State with which he has in effect an agreement under section 602 of the Tax Equity and Fiscal Responsibility Act of 1982 [section 602 of Pub. L. 97–248, set out above] a modification of such agreement designed to provide for the payment of Federal supplemental compensation under such Act [sections 601 to 606 of Pub. L. 97–248, set out above] in accordance with the amendments made by this Act [amending section 602(e) of Pub. L. 97–248, set out above]. Notwithstanding any other provision of law, if any State fails or refuses, within the three-week period beginning on the date the Secretary of Labor proposes such a modification to such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before such three-week period.”
+Pub. L. 97–424, title V, § 544(c), Jan. 6, 1983, 96 Stat. 2197, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [Jan. 6, 1983], propose to each State with which he has in effect an agreement under section 602 of the Tax Equity and Fiscal Responsibility Act of 1982 [section 602 of Pub. L. 97–248, set out above] a modification of such agreement designed to provide for the payment of Federal supplemental compensation under such Act [sections 601 to 606 of Pub. L. 97–248, set out above] in accordance with the amendments made by this Act [amending section 602(e) of Pub. L. 97–248, set out above]. Notwithstanding any other provision of law, if any State fails or refuses, within the three-week period beginning on the date the Secretary of Labor proposes such a modification to such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before such three-week period.”
 
 **Certification of State Unemployment Laws; Effective Dates**
 
-Pub. L. 97–35, title XXIV, § 2408(b), Aug. 13, 1981, 95 Stat. 880, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–35, title XXIV, § 2408(b), Aug. 13, 1981, 95 Stat. 880, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(1)** Except as otherwise provided in paragraph (2)—
 
@@ -2697,51 +2697,51 @@ Pub. L. 97–35, title XXIV, § 2408(b), Aug. 13, 1981, 95 Stat. 880, as amend
 
 > the date ‘1981’ in paragraph (1)(B) shall be deemed to be ‘1982’.”
 
-Pub. L. 96–499, title X, § 1025, Dec. 5, 1980, 94 Stat. 2660, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “On October 31 of any taxable year after 1980, the Secretary of Labor shall not certify any State, as provided in section 3304(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], which, after reasonable notice and opportunity for a hearing to the State agency, the Secretary of Labor finds has failed to amend its law so that it contains each of the provisions required by reason of the enactment of the preceding provisions of this subtitle [subtitle C of title X of Pub. L. 96–499, Dec. 5, 1980, 94 Stat. 2656, which enacted section 8509 of Title 5, Government Organization and Employees, and section 1109 of Title 42, The Public Health and Welfare, enacted provisions set out as notes under this section and section 8509 of Title 5, and amended provisions set out as notes under this section] to be included therein, or has with respect to the 12-month period ending on such October 31, failed to comply substantially with any such provision.”
+Pub. L. 96–499, title X, § 1025, Dec. 5, 1980, 94 Stat. 2660, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “On October 31 of any taxable year after 1980, the Secretary of Labor shall not certify any State, as provided in section 3304(c) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], which, after reasonable notice and opportunity for a hearing to the State agency, the Secretary of Labor finds has failed to amend its law so that it contains each of the provisions required by reason of the enactment of the preceding provisions of this subtitle [subtitle C of title X of Pub. L. 96–499, Dec. 5, 1980, 94 Stat. 2656, which enacted section 8509 of Title 5, Government Organization and Employees, and section 1109 of Title 42, The Public Health and Welfare, enacted provisions set out as notes under this section and section 8509 of Title 5, and amended provisions set out as notes under this section] to be included therein, or has with respect to the 12-month period ending on such October 31, failed to comply substantially with any such provision.”
 
 **Transfer of Funds to Federal Unemployment Trust Fund as Prerequisite to Approval of Virgin Islands Unemployment Compensation Law**
 
-Pub. L. 94–566, title I, § 116(g), Oct. 20, 1976, 90 Stat. 2673, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Secretary of Labor shall not approve an unemployment compensation law of the Virgin Islands under section 3304(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] until the Governor of the Virgin Islands has approved the transfer to the Federal Unemployment Trust Fund established by section 904 of the Social Security Act [42 U.S.C. 1104] of an amount equal to the dollar balance credited to the unemployment subfund of the Virgin Islands established under section 310 of title 24 of the Virgin Islands Code.”
+Pub. L. 94–566, title I, § 116(g), Oct. 20, 1976, 90 Stat. 2673, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The Secretary of Labor shall not approve an unemployment compensation law of the Virgin Islands under section 3304(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] until the Governor of the Virgin Islands has approved the transfer to the Federal Unemployment Trust Fund established by section 904 of the Social Security Act [42 U.S.C. 1104] of an amount equal to the dollar balance credited to the unemployment subfund of the Virgin Islands established under section 310 of title 24 of the Virgin Islands Code.”
 
 **Federal Reimbursement for Benefits Paid to Newly Covered Workers During Transition Period**
 
-Pub. L. 94–566, title I, § 121, Oct. 20, 1976, 90 Stat. 2673, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided for payment of compensation for any week of unemployment beginning on or after Jan. 1, 1978, for services not covered by State unemployment compensation law during 1-year period ending Dec. 31, 1975, with the Secretary of Labor to pay to the unemployment fund of such State an amount equal to the Federal reimbursement.
+Pub. L. 94–566, title I, § 121, Oct. 20, 1976, 90 Stat. 2673, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided for payment of compensation for any week of unemployment beginning on or after Jan. 1, 1978, for services not covered by State unemployment compensation law during 1-year period ending Dec. 31, 1975, with the Secretary of Labor to pay to the unemployment fund of such State an amount equal to the Federal reimbursement.
 
 **Emergency Unemployment Compensation Act of 1974**
 
-Pub. L. 93–572, §§ 101–105, Dec. 31, 1974, 88 Stat. 1869–1872, as amended by Pub. L. 94–12, title VII, § 701(a), Mar. 29, 1975, 89 Stat. 65; Pub. L. 94–45, title I, §§ 101(a)–(f), 102(a), 103(a), 106, June 30, 1975, 89 Stat. 236–239; Pub. L. 94–566, title I, § 116(d)(3), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 95–19, title I, §§ 101(a), 102(a)–(c), 103(a), 104(a), 105(a), 107(a), Apr. 12, 1977, 91 Stat. 39–42; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, known as the “Emergency Unemployment Compensation Act of 1974”, provided that, for weeks ending before Jan. 31, 1978, qualified States could enter into agreements with the Secretary of Labor for the payment of emergency unemployment compensation to eligible individuals who had exhausted their rights to regular compensation under State law.
+Pub. L. 93–572, §§ 101–105, Dec. 31, 1974, 88 Stat. 1869–1872, as amended by Pub. L. 94–12, title VII, § 701(a), Mar. 29, 1975, 89 Stat. 65; Pub. L. 94–45, title I, §§ 101(a)–(f), 102(a), 103(a), 106, June 30, 1975, 89 Stat. 236–239; Pub. L. 94–566, title I, § 116(d)(3), Oct. 20, 1976, 90 Stat. 2672; Pub. L. 95–19, title I, §§ 101(a), 102(a)–(c), 103(a), 104(a), 105(a), 107(a), Apr. 12, 1977, 91 Stat. 39–42; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, known as the “Emergency Unemployment Compensation Act of 1974”, provided that, for weeks ending before Jan. 31, 1978, qualified States could enter into agreements with the Secretary of Labor for the payment of emergency unemployment compensation to eligible individuals who had exhausted their rights to regular compensation under State law.
 
 **Modification of Agreements With States To Reflect Amendments Under Emergency Unemployment Compensation Extension Act of 1977**
 
-Pub. L. 95–19, title I, § 106, Apr. 12, 1977, 91 Stat. 42, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [Apr. 12, 1977], propose to each State with which he has in effect an agreement under section 102 of the Emergency Compensation Act of 1974 [Pub. L. 93–572, set out above] a modification of such agreement designed to provide for the payment of emergency compensation under such Act in accordance with the amendments made by this title [enacting sections 102(h) and 105(b) of the Emergency Unemployment Compensation Act of 1974, amending sections 102(b)(2), (c)(3)(A)(ii), (e), (f)(2), 104(b), and 105(a) of that Act, and enacting provisions set out as notes under this section]. Notwithstanding any other provision of law, if any State fails or refuses, within the 3-week period beginning on the date the Secretary of Labor proposes such a modification of such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the last day of such 3-week period.”
+Pub. L. 95–19, title I, § 106, Apr. 12, 1977, 91 Stat. 42, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [Apr. 12, 1977], propose to each State with which he has in effect an agreement under section 102 of the Emergency Compensation Act of 1974 [Pub. L. 93–572, set out above] a modification of such agreement designed to provide for the payment of emergency compensation under such Act in accordance with the amendments made by this title [enacting sections 102(h) and 105(b) of the Emergency Unemployment Compensation Act of 1974, amending sections 102(b)(2), (c)(3)(A)(ii), (e), (f)(2), 104(b), and 105(a) of that Act, and enacting provisions set out as notes under this section]. Notwithstanding any other provision of law, if any State fails or refuses, within the 3-week period beginning on the date the Secretary of Labor proposes such a modification of such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the last day of such 3-week period.”
 
 **Modification of Agreements With States To Reflect Amendments Under Unemployment Compensation Amendments of 1976**
 
-Pub. L. 94–566, title VI, § 604, Oct. 20, 1976, 90 Stat. 2691, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [Oct. 20, 1976], propose to each State with which he has in effect an agreement under section 202 of the Emergency Jobs and Unemployment Assistance Act of 1974 [Pub. L. 93–567, title II, § 202, set out below] a modification of such agreement designed to provide for the payment of special unemployment assistance under such Act in accordance with the amendments made by sections 601, 602, and 603 of this title [set out as a Special Unemployment Assistance Programs note below]. Notwithstanding any other provision of law, if any State fails or refuses, within the three-week period beginning on the date the Secretary of Labor proposes such a modification to such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the last day of such three-week period.”
+Pub. L. 94–566, title VI, § 604, Oct. 20, 1976, 90 Stat. 2691, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [Oct. 20, 1976], propose to each State with which he has in effect an agreement under section 202 of the Emergency Jobs and Unemployment Assistance Act of 1974 [Pub. L. 93–567, title II, § 202, set out below] a modification of such agreement designed to provide for the payment of special unemployment assistance under such Act in accordance with the amendments made by sections 601, 602, and 603 of this title [set out as a Special Unemployment Assistance Programs note below]. Notwithstanding any other provision of law, if any State fails or refuses, within the three-week period beginning on the date the Secretary of Labor proposes such a modification to such State, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement effective with the end of the last week which ends on or before the last day of such three-week period.”
 
 **Agreements Under Emergency Unemployment Compensation Act of 1974 To Be Modified To Reflect Amendment of the Act by Emergency Compensation and Special Unemployment Assistance Extension Act of 1975**
 
-Pub. L. 94–45, title I, § 105, June 30, 1975, 89 Stat. 239, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [June 30, 1975], propose to each State with which he has in effect an agreement under section 102 of the Emergency Unemployment Compensation Act of 1974 [Pub. L. 93–567, set out below] a modification of such agreement designed to provide for the payment of the emergency compensation benefits allowable under such Act by reason of the amendments made by this part [part A (§§ 101–106) of title I of Pub. L. 94–45, enacting and amending provisions set out as notes under this section]. Notwithstanding any provision of the Emergency Unemployment Compensation Act of 1974, if any State fails or refuses, within the three-week period beginning on the date of the enactment of this Act, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement.”
+Pub. L. 94–45, title I, § 105, June 30, 1975, 89 Stat. 239, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [June 30, 1975], propose to each State with which he has in effect an agreement under section 102 of the Emergency Unemployment Compensation Act of 1974 [Pub. L. 93–567, set out below] a modification of such agreement designed to provide for the payment of the emergency compensation benefits allowable under such Act by reason of the amendments made by this part [part A (§§ 101–106) of title I of Pub. L. 94–45, enacting and amending provisions set out as notes under this section]. Notwithstanding any provision of the Emergency Unemployment Compensation Act of 1974, if any State fails or refuses, within the three-week period beginning on the date of the enactment of this Act, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement.”
 
 **Agreements Under Emergency Unemployment Compensation Act of 1974 To Be Modified To Reflect Amendment of the Act by Tax Reduction Act of 1975**
 
-Pub. L. 94–12, title VII, § 701(b), Mar. 29, 1975, 89 Stat. 66, provided that: “The Secretary of Labor shall, at the earliest practicable date after the enactment of this Act [Mar. 29, 1975], propose to each State with which he has in effect an agreement entered into pursuant to section 102 of the Emergency Unemployment Compensation Act of 1974 [Pub. L. 93–572, set out above] a modification of such agreement designed to cause payments of emergency compensation thereunder to be made in the manner prescribed by such Act, as amended by subsection (a) of this section [amending section 102(e) of the Emergency Unemployment Compensation Act of 1974]. Notwithstanding any provision of the Emergency Unemployment Compensation Act of 1974, if any such State shall fail or refuse, within a reasonable time after the date of the enactment of this Act, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement.”
+Pub. L. 94–12, title VII, § 701(b), Mar. 29, 1975, 89 Stat. 66, provided that: “The Secretary of Labor shall, at the earliest practicable date after the enactment of this Act [Mar. 29, 1975], propose to each State with which he has in effect an agreement entered into pursuant to section 102 of the Emergency Unemployment Compensation Act of 1974 [Pub. L. 93–572, set out above] a modification of such agreement designed to cause payments of emergency compensation thereunder to be made in the manner prescribed by such Act, as amended by subsection (a) of this section [amending section 102(e) of the Emergency Unemployment Compensation Act of 1974]. Notwithstanding any provision of the Emergency Unemployment Compensation Act of 1974, if any such State shall fail or refuse, within a reasonable time after the date of the enactment of this Act, to enter into such a modification of such agreement, the Secretary of Labor shall terminate such agreement.”
 
 **National Commission on Unemployment Compensation**
 
-Pub. L. 94–566, title IV, § 411, Oct. 20, 1976, 90 Stat. 2681, as amended by Pub. L. 95–19, title III, § 303, Apr. 12, 1977, 91 Stat. 45; Pub. L. 96–84, §§ 1(a), (b), 2, 3(a), Oct. 10, 1979, 93 Stat. 653, 654, related to establishment, membership, powers, duties, etc., of the National Commission on Unemployment Compensation, and required a final report not later than July 1, 1980, respecting findings, conclusions, and recommendations, with termination of the Commission on the ninetieth day after the date of submission of the final report to the President.
+Pub. L. 94–566, title IV, § 411, Oct. 20, 1976, 90 Stat. 2681, as amended by Pub. L. 95–19, title III, § 303, Apr. 12, 1977, 91 Stat. 45; Pub. L. 96–84, §§ 1(a), (b), 2, 3(a), Oct. 10, 1979, 93 Stat. 653, 654, related to establishment, membership, powers, duties, etc., of the National Commission on Unemployment Compensation, and required a final report not later than July 1, 1980, respecting findings, conclusions, and recommendations, with termination of the Commission on the ninetieth day after the date of submission of the final report to the President.
 
 **Special Unemployment Assistance Programs**
 
-Pub. L. 93–567, title II, §§ 201–224, Dec. 31, 1974, 88 Stat. 1850–1853, as amended by Pub. L. 94–45, title II, §§ 201–203, June 30, 1975, 89 Stat. 240–242; Pub. L. 94–444, § 6(a), (b), Oct. 1, 1976, 90 Stat. 1481; Pub. L. 94–566, title VI, §§ 601(a), 602(a)–(d), 603(a), Oct. 20, 1976, 90 Stat. 2689–2691; Pub. L. 96–499, title X, § 1021, Dec. 5, 1980, 94 Stat. 2656; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(21), (f)(15)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, established, with respect to weeks of unemployment ending before June 30, 1978, temporary Federal program of special unemployment assistance for workers who were unemployed during period of aggravated unemployment and who were not otherwise eligible for unemployment allowances under any other law, and provided for Federal reimbursement for unemployment benefits paid on basis of public service employment for services performed in weeks before Dec. 5, 1980.
+Pub. L. 93–567, title II, §§ 201–224, Dec. 31, 1974, 88 Stat. 1850–1853, as amended by Pub. L. 94–45, title II, §§ 201–203, June 30, 1975, 89 Stat. 240–242; Pub. L. 94–444, § 6(a), (b), Oct. 1, 1976, 90 Stat. 1481; Pub. L. 94–566, title VI, §§ 601(a), 602(a)–(d), 603(a), Oct. 20, 1976, 90 Stat. 2689–2691; Pub. L. 96–499, title X, § 1021, Dec. 5, 1980, 94 Stat. 2656; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–277, div. A, § 101(f) [title VIII, § 405(d)(21), (f)(15)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–422, 2681–431, established, with respect to weeks of unemployment ending before June 30, 1978, temporary Federal program of special unemployment assistance for workers who were unemployed during period of aggravated unemployment and who were not otherwise eligible for unemployment allowances under any other law, and provided for Federal reimbursement for unemployment benefits paid on basis of public service employment for services performed in weeks before Dec. 5, 1980.
 
 **Agreements Under Special Unemployment Assistance Program To Be Modified To Reflect Amendment of Program by Emergency Compensation and Special Unemployment Assistance Extension Act of 1975**
 
-Pub. L. 94–45, title II, § 204(a), June 30, 1975, 89 Stat. 242, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [June 30, 1975], propose to each State with which he has in effect an agreement under section 202 of the Emergency Jobs and Unemployment Assistance Act of 1974 [Pub. L. 93–567, title II, set out above] a modification of such agreement designed to provide for the payment of the special unemployment assistance allowable under such Act by reason of the amendments made by section 201 [amending sections 206 and 208 of the Emergency Jobs and Unemployment Assistance Act of 1974]. Notwithstanding any other provision of law, if any State fails or refuses, within the three-week period beginning on the date of the enactment of this Act [June 30, 1975], to enter into such a modification of any such agreement, the Secretary of Labor shall terminate such agreement.”
+Pub. L. 94–45, title II, § 204(a), June 30, 1975, 89 Stat. 242, provided that: “The Secretary of Labor shall, at the earliest practicable date after the date of the enactment of this Act [June 30, 1975], propose to each State with which he has in effect an agreement under section 202 of the Emergency Jobs and Unemployment Assistance Act of 1974 [Pub. L. 93–567, title II, set out above] a modification of such agreement designed to provide for the payment of the special unemployment assistance allowable under such Act by reason of the amendments made by section 201 [amending sections 206 and 208 of the Emergency Jobs and Unemployment Assistance Act of 1974]. Notwithstanding any other provision of law, if any State fails or refuses, within the three-week period beginning on the date of the enactment of this Act [June 30, 1975], to enter into such a modification of any such agreement, the Secretary of Labor shall terminate such agreement.”
 
 **Special Unemployment Assistance Programs; Individuals Performing Services for Educational Institutions or Agencies**
 
-Pub. L. 94–32, title I, § 101, June 12, 1975, 89 Stat. 178, provided in part that:
+Pub. L. 94–32, title I, § 101, June 12, 1975, 89 Stat. 178, provided in part that:
 
 > “Funds appropriated by this Act [Second Supplemental Appropriations Act, 1975], or any other Act, for the payments of special unemployment assistance under title II of the Emergency Jobs and Unemployment Assistance Act of 1974 [Pub. L. 93–567, title II, set out above] shall not be used for making such payments of assistance or waiting period credit, beginning after the date of enactment of this Act [June 12, 1975], to any individual who performs services in an instructional, research, or principal administrative capacity for an educational institution or agency with respect to any week commencing during the period between two successive academic years (or, when the contract provides instead for a similar period between two regular but not successive terms, during such similar period) if—
 
@@ -2751,11 +2751,11 @@ Pub. L. 94–32, title I, § 101, June 12, 1975, 89 Stat. 178, provided in par
 
 **Emergency Unemployment Compensation Act of 1971**
 
-Pub. L. 92–224, title II, §§ 201–206, Dec. 29, 1971, 85 Stat. 811–814, as amended by Pub. L. 92–329, §§ 1, 2(e), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, § 4(a), Aug. 7, 1974, 88 Stat. 420; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, known as the “Emergency Unemployment Compensation Act of 1971”, provided that, for weeks ending before Mar. 31, 1973, qualified States could enter into agreements with the Secretary of Labor for the payment of emergency unemployment compensation to eligible individuals who had exhausted their rights to regular compensation under State law.
+Pub. L. 92–224, title II, §§ 201–206, Dec. 29, 1971, 85 Stat. 811–814, as amended by Pub. L. 92–329, §§ 1, 2(e), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, § 4(a), Aug. 7, 1974, 88 Stat. 420; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, known as the “Emergency Unemployment Compensation Act of 1971”, provided that, for weeks ending before Mar. 31, 1973, qualified States could enter into agreements with the Secretary of Labor for the payment of emergency unemployment compensation to eligible individuals who had exhausted their rights to regular compensation under State law.
 
 **Federal-State Extended Unemployment Compensation Act of 1970**
 
-Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, as amended by Pub. L. 92–599, title V, § 501, Oct. 27, 1972, 86 Stat. 1326; Pub. L. 93–53, § 5, July 1, 1973, 87 Stat. 137; Pub. L. 93–233, § 20, Dec. 31, 1973, 87 Stat. 974; Pub. L. 93–256, § 2, Mar. 28, 1974, 88 Stat. 53; Pub. L. 93–329, § 2, June 30, 1974, 88 Stat. 288; Pub. L. 93–368, § 3, Aug. 7, 1974, 88 Stat. 420; Pub. L. 93–572, §§ 106–108, Dec. 31, 1974, 88 Stat. 1872; Pub. L. 94–45, title I, § 102(b), June 30, 1975, 89 Stat. 238; Pub. L. 94–566, title I, § 116(d)(1), (2), title II, § 212(a), title III, § 311(a), (b), Oct. 20, 1976, 90 Stat. 2672, 2677, 2678; Pub. L. 96–364, title IV, § 416(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 96–499, title X, §§ 1022(a), 1024(a), Dec. 5, 1980, 94 Stat. 2656, 2658; Pub. L. 97–35, title XXIV, §§ 2401(a), (b), 2402(a), 2403(a), 2404(a), (b), title XXV, § 2505(b), Aug. 13, 1981, 95 Stat. 874, 875, 876, 884; Pub. L. 97–248, title I, § 191(a), Sept. 3, 1982, 96 Stat. 407; Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1081; Pub. L. 98–21, title V, § 522(a), Apr. 20, 1983, 97 Stat. 148; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–318, title II, §§ 201, 202(a)(1), (b)(1), July 3, 1992, 106 Stat. 295, 296; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–312, title V, § 502, Dec. 17, 2010, 124 Stat. 3307; Pub. L. 112–78, title II, § 201(a)(4), Dec. 23, 2011, 125 Stat. 1282; Pub. L. 112–96, title II, §§ 2123(c), 2181(a), Feb. 22, 2012, 126 Stat. 167, 179; Pub. L. 112–240, title V, § 502(c), Jan. 2, 2013, 126 Stat. 2344, provided:
+Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, as amended by Pub. L. 92–599, title V, § 501, Oct. 27, 1972, 86 Stat. 1326; Pub. L. 93–53, § 5, July 1, 1973, 87 Stat. 137; Pub. L. 93–233, § 20, Dec. 31, 1973, 87 Stat. 974; Pub. L. 93–256, § 2, Mar. 28, 1974, 88 Stat. 53; Pub. L. 93–329, § 2, June 30, 1974, 88 Stat. 288; Pub. L. 93–368, § 3, Aug. 7, 1974, 88 Stat. 420; Pub. L. 93–572, §§ 106–108, Dec. 31, 1974, 88 Stat. 1872; Pub. L. 94–45, title I, § 102(b), June 30, 1975, 89 Stat. 238; Pub. L. 94–566, title I, § 116(d)(1), (2), title II, § 212(a), title III, § 311(a), (b), Oct. 20, 1976, 90 Stat. 2672, 2677, 2678; Pub. L. 96–364, title IV, § 416(a), Sept. 26, 1980, 94 Stat. 1310; Pub. L. 96–499, title X, §§ 1022(a), 1024(a), Dec. 5, 1980, 94 Stat. 2656, 2658; Pub. L. 97–35, title XXIV, §§ 2401(a), (b), 2402(a), 2403(a), 2404(a), (b), title XXV, § 2505(b), Aug. 13, 1981, 95 Stat. 874, 875, 876, 884; Pub. L. 97–248, title I, § 191(a), Sept. 3, 1982, 96 Stat. 407; Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, 1081; Pub. L. 98–21, title V, § 522(a), Apr. 20, 1983, 97 Stat. 148; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–318, title II, §§ 201, 202(a)(1), (b)(1), July 3, 1992, 106 Stat. 295, 296; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–312, title V, § 502, Dec. 17, 2010, 124 Stat. 3307; Pub. L. 112–78, title II, § 201(a)(4), Dec. 23, 2011, 125 Stat. 1282; Pub. L. 112–96, title II, §§ 2123(c), 2181(a), Feb. 22, 2012, 126 Stat. 167, 179; Pub. L. 112–240, title V, § 502(c), Jan. 2, 2013, 126 Stat. 2344, provided:
 
 > **“Sec. 201.**
 
@@ -3015,7 +3015,7 @@ Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, as amended by Pub. L. 9
 
 > **“(3)** clause (i) of paragraph (3)(C) shall be deemed to state as follows:
 
-> “ ‘(i) include any entrepreneurial training that the State or non-profit organizations may provide in coordination with programs of training offered by the Small Business Administration, which may include business counseling, mentorship for participants, access to small business development resources, and technical assistance; and’;
+> “ ‘(i) include any entrepreneurial training that the State or non-profit organizations may provide in coordination with programs of training offered by the Small Business Administration, which may include business counseling, mentorship for participants, access to small business development resources, and technical assistance; and’;
 
 > **“(4)** the reference to ‘5 percent’ in paragraph (4) shall be deemed to refer instead to ‘1 percent’; and
 
@@ -3035,41 +3035,41 @@ Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, as amended by Pub. L. 9
 
 [Amendment by section 201(a)(4) of Pub. L. 112–78 to section 203 of Pub. L. 91–373, set out above, effective as if included in the enactment of Pub. L. 111–312, see section 201(c) of Pub. L. 112–78, set out following section 2005 of Pub. L. 111–5 above.]
 
-[Pub. L. 102–318, title II, § 202(a)(2), July 3, 1992, 106 Stat. 296, provided that:
+[Pub. L. 102–318, title II, § 202(a)(2), July 3, 1992, 106 Stat. 296, provided that:
 
 [“(A) In general.—Notwithstanding any other provision of law, the amendment made by paragraph (1) [amending section 202(a)(5) of Pub. L. 91–373, set out above] shall apply for purposes of extended unemployment compensation and emergency unemployment compensation to weeks of unemployment beginning on or after the date of the enactment of this Act [July 3, 1992].
 
 [“(B) Waiver of recovery of certain overpayments.—On and after the date of the enactment of this Act, no repayment of any emergency unemployment compensation shall be required under section 105 of the Emergency Unemployment Compensation Act of 1991 (Public Law 102–164, as amended [formerly set out above]) if the individual would have been entitled to receive such compensation had the amendment made by paragraph (1) applied to all weeks beginning before the date of the enactment of this Act.”]
 
-[Pub. L. 98–21, title V, § 522(b), Apr. 20, 1983, 97 Stat. 148, provided that: “The amendment made by this section [amending section 202(a)(3)(A)(ii) of Pub. L. 91–373, set out above] shall become effective on the date of the enactment of this Act [Apr. 20, 1983].” ]
+[Pub. L. 98–21, title V, § 522(b), Apr. 20, 1983, 97 Stat. 148, provided that: “The amendment made by this section [amending section 202(a)(3)(A)(ii) of Pub. L. 91–373, set out above] shall become effective on the date of the enactment of this Act [Apr. 20, 1983].” ]
 
-[Pub. L. 97–248, title I, § 191(b), Sept. 3, 1982, 96 Stat. 407, provided that:
+[Pub. L. 97–248, title I, § 191(b), Sept. 3, 1982, 96 Stat. 407, provided that:
 
 [“(1) Except as provided in paragraph (2), the amendments made by this section [amending section 204(a)(2) of Pub. L. 91–373, set out above] shall apply in the case of compensation paid to individuals during eligibility periods beginning on or after October 1, 1983.
 
 [“(2) In the case of a State with respect to which the Secretary of Labor has determined that State legislation is required in order to provide for rounding down of unemployment compensation amounts, the amendment made by this section [amending section 204(a)(2) of Pub. L. 91–373, set out above] shall apply in the case of compensation paid to individuals during eligibility periods which begin on or after October 1, 1983, and after the end of the first session of the State legislature which begins after the date of the enactment of this Act [Sept. 3, 1982], or which began prior to the date of the enactment of this Act and remained in session for at least twenty-five calendar days after such date of enactment. For purposes of the preceding sentence, the term ‘session’ means a regular, special, budget, or other session of a State legislature.”]
 
-[Pub. L. 97–35, title XXIV, § 2401(c), Aug. 13, 1981, 95 Stat. 875, provided that: “The amendments made by this section [amending sections 203 and 204(a)(3), (4) of Pub. L. 91–373, set out above] shall apply to weeks beginning after the date of the enactment of this Act [Aug. 13, 1981].” ]
+[Pub. L. 97–35, title XXIV, § 2401(c), Aug. 13, 1981, 95 Stat. 875, provided that: “The amendments made by this section [amending sections 203 and 204(a)(3), (4) of Pub. L. 91–373, set out above] shall apply to weeks beginning after the date of the enactment of this Act [Aug. 13, 1981].” ]
 
-[Pub. L. 97–35, title XXIV, § 2402(b), Aug. 13, 1981, 95 Stat. 875, provided that: “The amendment made by subsection (a) [amending section 203(e)(1)(A) of Pub. L. 91–373, set out above] shall apply for purposes of determining whether there are State ‘on’ or ‘off’ indicators for weeks beginning after the date of the enactment of this Act [Aug. 13, 1981]. For purposes of making such determinations for such weeks, such amendment shall be deemed to be in effect for all weeks whether beginning before, on, or after such date of enactment.” ]
+[Pub. L. 97–35, title XXIV, § 2402(b), Aug. 13, 1981, 95 Stat. 875, provided that: “The amendment made by subsection (a) [amending section 203(e)(1)(A) of Pub. L. 91–373, set out above] shall apply for purposes of determining whether there are State ‘on’ or ‘off’ indicators for weeks beginning after the date of the enactment of this Act [Aug. 13, 1981]. For purposes of making such determinations for such weeks, such amendment shall be deemed to be in effect for all weeks whether beginning before, on, or after such date of enactment.” ]
 
-[Pub. L. 97–35, title XXIV, § 2403(b), Aug. 13, 1981, 95 Stat. 875, provided that: “The amendments made by subsection (a) [amending section 203(d) of Pub. L. 91–373, set out above] shall apply to weeks beginning after September 25, 1982.” ]
+[Pub. L. 97–35, title XXIV, § 2403(b), Aug. 13, 1981, 95 Stat. 875, provided that: “The amendments made by subsection (a) [amending section 203(d) of Pub. L. 91–373, set out above] shall apply to weeks beginning after September 25, 1982.” ]
 
-[Pub. L. 97–35, title XXIV, § 2404(c), Aug. 13, 1981, 95 Stat. 876, provided that: “The amendments made by this section [amending section 202(a)(5), (6) of Pub. L. 91–373, set out above] shall apply with respect to extended compensation and sharable regular compensation payable for weeks which begin after September 25, 1982.” ]
+[Pub. L. 97–35, title XXIV, § 2404(c), Aug. 13, 1981, 95 Stat. 876, provided that: “The amendments made by this section [amending section 202(a)(5), (6) of Pub. L. 91–373, set out above] shall apply with respect to extended compensation and sharable regular compensation payable for weeks which begin after September 25, 1982.” ]
 
 [Amendment by sections 2401–2404 of Pub. L. 97–35 (amending Pub. L. 91–373, set out above) required to be included in State unemployment compensation laws for purposes of certifications, see section 2408(b) of Pub. L. 97–35, set out above.]
 
 [Amendment by section 2505(b) of Pub. L. 97–35 (amending section 204(a)(2)(C) of Pub. L. 91–373, set out above) applicable to allowances payable for weeks of unemployment which begin after Sept. 30, 1981, and transitional provisions applicable, see section 2514 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment and Transitional Provisions note under section 2291 of Title 19, Customs Duties.]
 
-[Pub. L. 96–499, title X, § 1022(b), Dec. 5, 1980, 94 Stat. 2656, provided that:
+[Pub. L. 96–499, title X, § 1022(b), Dec. 5, 1980, 94 Stat. 2656, provided that:
 
 [“(1) Except as provided in paragraph (2), the amendments made by this section [amending section 204(a)(2) of Pub. L. 91–373, set out above] shall apply in the case of compensation paid to individuals during eligibility periods beginning on or after the date of the enactment of this Act [Dec. 5, 1980].
 
 [“(2) In the case of a State with respect to which the Secretary of Labor has determined that State legislation is required in order to eliminate its current policy of paying regular compensation to an individual for his first week of otherwise compensable unemployment, the amendments made by this section [amending section 204(a)(2) of Pub. L. 91–373, set out above] shall apply in the case of compensation paid to individuals during eligibility periods beginning after the end of the first regularly scheduled session of the State legislature ending more than thirty days after the date of the enactment of this Act [Dec. 5, 1980].”]
 
-[Pub. L. 96–499, title X, § 1024(b), Dec. 5, 1980, 94 Stat. 2660, provided that: “The amendment made by this section [amending section 202(a) of Pub. L. 91–373, set out above] shall apply with respect to weeks of unemployment beginning after March 31, 1981.” ]
+[Pub. L. 96–499, title X, § 1024(b), Dec. 5, 1980, 94 Stat. 2660, provided that: “The amendment made by this section [amending section 202(a) of Pub. L. 91–373, set out above] shall apply with respect to weeks of unemployment beginning after March 31, 1981.” ]
 
-[Pub. L. 96–364, title IV, § 416(b), Sept. 26, 1980, 94 Stat. 1311, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+[Pub. L. 96–364, title IV, § 416(b), Sept. 26, 1980, 94 Stat. 1311, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 [“(1) In general.—The amendment made by subsection (a) [amending subsec. 202(c) of Pub. L. 91–373, set out above] shall apply to weeks of unemployment beginning after October 1, 1980; except that such amendment shall not be a requirement of any State law under section 3304(a)(11) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] for any week which begins before June 1, 1981.
 
@@ -3077,13 +3077,13 @@ Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, as amended by Pub. L. 9
 
 [Section 116(f)(1) of Pub. L. 94–566, set out as an Effective Date of 1976 Amendment note above, provided in part that the deletion of “the Virgin Islands or” from section 202(a)(1) of Pub. L. 91–373, set out above, and the insertion of “and the Virgin Islands” in section 205(8) thereof shall take effect on the later of Oct. 1, 1976, or the day after the day on which the Secretary of Labor approves under section 3304(a) of this title an unemployment compensation law submitted to him by the Virgin Islands for approval.]
 
-[Pub. L. 94–566, title II, § 212(b), Oct. 20, 1976, 90 Stat. 2677, provided that: “The amendment made by this section [enacting section 204(a)(4) of Pub. L. 91–373, set out above] shall apply with respect to compensation paid for weeks of unemployment beginning on or after January 1, 1979.” ]
+[Pub. L. 94–566, title II, § 212(b), Oct. 20, 1976, 90 Stat. 2677, provided that: “The amendment made by this section [enacting section 204(a)(4) of Pub. L. 91–373, set out above] shall apply with respect to compensation paid for weeks of unemployment beginning on or after January 1, 1979.” ]
 
-[Pub. L. 94–566, title III, § 311(c), Oct. 20, 1976, 90 Stat. 2679, provided that: “The amendment made by subsection (a) of this section [amending section 203(d) of Pub. L. 91–373, set out above] shall apply to weeks beginning after December 31, 1976, and the amendments made by subsection (b) of this section [amending section 203(e) of Pub. L. 91–373, set out above] shall apply to weeks beginning after March 30, 1977.” ]
+[Pub. L. 94–566, title III, § 311(c), Oct. 20, 1976, 90 Stat. 2679, provided that: “The amendment made by subsection (a) of this section [amending section 203(d) of Pub. L. 91–373, set out above] shall apply to weeks beginning after December 31, 1976, and the amendments made by subsection (b) of this section [amending section 203(e) of Pub. L. 91–373, set out above] shall apply to weeks beginning after March 30, 1977.” ]
 
 **Study and Report by Secretary of Labor Covering Emergency Unemployment Compensation Program and Special Unemployment Assistance Program; Report On or Before Jan. 1, 1977**
 
-Pub. L. 94–45, title I, § 104, June 30, 1975, 89 Stat. 238, provided that:
+Pub. L. 94–45, title I, § 104, June 30, 1975, 89 Stat. 238, provided that:
 
 > “The Secretary of Labor shall conduct a study and review of the program established by the Emergency Unemployment Compensation Act of 1974 [Pub. L. 93–572, set out above] and the program established under title II of the Emergency Jobs and Unemployment Assistance Act of 1974 [Pub. L. 93–567, title II, set out above] and shall submit to the Congress not later than January 1, 1977, a report on such study and review. Such study and review shall include—
 
@@ -3095,7 +3095,7 @@ Pub. L. 94–45, title I, § 104, June 30, 1975, 89 Stat. 238, provided that:
 
 **Loans to Unemployment Fund of Virgin Islands**
 
-Pub. L. 94–45, title III, § 301, June 30, 1975, 89 Stat. 243, as amended by Pub. L. 94–354, July 12, 1976, 90 Stat. 888; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 94–45, title III, § 301, June 30, 1975, 89 Stat. 243, as amended by Pub. L. 94–354, July 12, 1976, 90 Stat. 888; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a)** The Secretary of Labor (hereinafter in this section referred to as the ‘Secretary’) may make loans to the Virgin Islands in such amounts as he determines to be necessary for the payment in any month of compensation under the unemployment compensation law of the Virgin Islands. A loan may be made under this subsection for the payment of compensation in any month only if—
 
@@ -3119,7 +3119,7 @@ Pub. L. 94–45, title III, § 301, June 30, 1975, 89 Stat. 243, as amended by
 
 **Unemployment Compensation Law of Commonwealth of Puerto Rico**
 
-Pub. L. 86–778, title V, § 543(b), Sept. 13, 1960, 74 Stat. 986, provided that:
+Pub. L. 86–778, title V, § 543(b), Sept. 13, 1960, 74 Stat. 986, provided that:
 
 > “The unemployment compensation law of the Commonwealth of Puerto Rico shall be considered as meeting the requirements of—
 
@@ -3131,7 +3131,7 @@ Pub. L. 86–778, title V, § 543(b), Sept. 13, 1960, 74 Stat. 986, provided t
 
 > **“(B)** the aggregate of the moneys paid from such fund before January 1, 1961, as unemployment compensation or as refunds of contributions erroneously paid.”
 
-## § 3305. Applicability of State law
+## § 3305. Applicability of State law
 
 **(a) Interstate and foreign commerce**
 
@@ -3149,7 +3149,7 @@ Nothing contained in section 5240 of the Revised Statutes, as amended (12 U.S.C.
 
 No person shall be relieved from compliance with a State unemployment compensation law on the ground that services were performed on land or premises owned, held, or possessed by the United States, and any State shall have full jurisdiction and power to enforce the provisions of such law to the same extent and with the same effect as though such place were not owned, held, or possessed by the United States.
 
-**[(e) Repealed. Sept. 1, 1954, ch. 1212, § 4(c), 68 Stat. 1135]**
+**[(e) Repealed. Sept. 1, 1954, ch. 1212, § 4(c), 68 Stat. 1135]**
 
 **(f) American vessels**
 
@@ -3177,7 +3177,7 @@ Each general agent of the Secretary of Transportation making contributions pursu
 
 Any person required, pursuant to the permission granted by this section, to make contributions to an unemployment fund under a State unemployment compensation law approved by the Secretary of Labor under section 3304 shall not be entitled to the credits permitted, with respect to the unemployment compensation law of a State, by subsections (a) and (b) of section 3302 against the tax imposed by section 3301 for any taxable year if, on October 31 of such taxable year, the Secretary of Labor certifies to the Secretary of the Treasury his finding, after reasonable notice and opportunity for hearing to the State agency, that the unemployment compensation law of such State is inconsistent with any one or more of the conditions on the basis of which such permission is granted or that, in the application of the State law with respect to the 12-month period ending on such October 31, there has been a substantial failure to comply with any one or more of such conditions. For purposes of section 3310, a finding of the Secretary of Labor under this subsection shall be treated as a finding under section 3304(c).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 445; Sept. 1, 1954, ch. 1212, § 4(c), 68 Stat. 1135; Pub. L. 86–778, title V, § 531(a), (b), Sept. 13, 1960, 74 Stat. 983; Pub. L. 91–373, title I, § 123, Aug. 10, 1970, 84 Stat. 702; Pub. L. 94–455, title XIX, §§ 1903(a)(15), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 114–92, div. C, title XXXV, § 3503, Nov. 25, 2015, 129 Stat. 1219.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 445; Sept. 1, 1954, ch. 1212, § 4(c), 68 Stat. 1135; Pub. L. 86–778, title V, § 531(a), (b), Sept. 13, 1960, 74 Stat. 983; Pub. L. 91–373, title I, § 123, Aug. 10, 1970, 84 Stat. 702; Pub. L. 94–455, title XIX, §§ 1903(a)(15), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1809, 1834; Pub. L. 114–92, div. C, title XXXV, § 3503, Nov. 25, 2015, 129 Stat. 1219.)
 
 **Editorial Notes**
 
@@ -3185,17 +3185,17 @@ Any person required, pursuant to the permission granted by this section, to make
 
 2015—Subsecs. (g), (h)(2), (i). Pub. L. 114–92 substituted “Secretary of Transportation” for “Secretary of Commerce”.
 
-1976—Subsec. (g). Pub. L. 94–455, § 1903(a)(15)(A), struck out “on or after July 1, 1953,” after “respect to service performed”.
+1976—Subsec. (g). Pub. L. 94–455, § 1903(a)(15)(A), struck out “on or after July 1, 1953,” after “respect to service performed”.
 
 Subsec. (h). Pub. L. 94–455, 1903(a)(15)(B), struck out “on or after July 1, 1953, and” after “as to service performed”.
 
-Subsec. (j). Pub. L. 94–455, §§ 1903(a)(15)(C), 1906(b)(13)(C), struck out “after December 31, 1971,” after “for any taxable year” and substituted “to the Secretary of the Treasury” for “to the Secretary”.
+Subsec. (j). Pub. L. 94–455, §§ 1903(a)(15)(C), 1906(b)(13)(C), struck out “after December 31, 1971,” after “for any taxable year” and substituted “to the Secretary of the Treasury” for “to the Secretary”.
 
 1970—Subsec. (j). Pub. L. 91–373 added subsec. (j).
 
-1960—Subsec. (b). Pub. L. 86–778, § 531(a), substituted “(other than an instrumentality to which section 3306(c)(6) applies)” for “except such as are (1) wholly owned by the United States, or (2) exempt from the tax imposed by section 3301 by virtue of any other provision of law,” and added cl. (C).
+1960—Subsec. (b). Pub. L. 86–778, § 531(a), substituted “(other than an instrumentality to which section 3306(c)(6) applies)” for “except such as are (1) wholly owned by the United States, or (2) exempt from the tax imposed by section 3301 by virtue of any other provision of law,” and added cl. (C).
 
-Subsec. (g). Pub. L. 86–778, § 531(b), substituted “neither wholly nor partially” for “not wholly”.
+Subsec. (g). Pub. L. 86–778, § 531(b), substituted “neither wholly nor partially” for “not wholly”.
 
 1954—Subsec. (e). Act Sept. 1, 1954, repealed subsec. (e) which related to the Bonneville Power Administrator.
 
@@ -3203,17 +3203,17 @@ Subsec. (g). Pub. L. 86–778, § 531(b), substituted “neither wholly nor pa
 
 **Effective Date of 1960 Amendment**
 
-Pub. L. 86–778, title V, § 535, Sept. 13, 1960, 74 Stat. 985, provided that: “The amendments made by this part [part 3 (§§ 531–535) of title V of Pub. L. 86–778, enacting section 3308 and amending this section and section 3306 of this title] (other than the amendments made by subsections (e) and (f) of section 531 [amending sections 1361 and 1367 of Title 42, The Public Health and Welfare]) shall apply with respect to remuneration paid after 1961 for services performed after 1961. The amendments made by subsections (e) and (f) of section 531 shall apply with respect to any week of unemployment which begins after December 31, 1960.” [The second sentence of section 535 was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 661.]
+Pub. L. 86–778, title V, § 535, Sept. 13, 1960, 74 Stat. 985, provided that: “The amendments made by this part [part 3 (§§ 531–535) of title V of Pub. L. 86–778, enacting section 3308 and amending this section and section 3306 of this title] (other than the amendments made by subsections (e) and (f) of section 531 [amending sections 1361 and 1367 of Title 42, The Public Health and Welfare]) shall apply with respect to remuneration paid after 1961 for services performed after 1961. The amendments made by subsections (e) and (f) of section 531 shall apply with respect to any week of unemployment which begins after December 31, 1960.” [The second sentence of section 535 was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 661.]
 
 **Effective Date of 1954 Amendment**
 
-Act Sept. 1, 1954, ch. 1212, § 4(c), 68 Stat. 1135, provided that the amendment made by that section is effective with respect to services performed after Dec. 31, 1954.
+Act Sept. 1, 1954, ch. 1212, § 4(c), 68 Stat. 1135, provided that the amendment made by that section is effective with respect to services performed after Dec. 31, 1954.
 
 **Applicability to Federal Land Banks, Federal Intermediate Credit Banks, and Banks for Cooperatives**
 
-Pub. L. 86–778, title V, § 531(g), Sept. 13, 1960, 74 Stat. 984, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding section 203(b) of the Farm Credit Act of 1959, sections 3305(b), 3306(c)(6), and 3308 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], and sections 1501(a) and 1507(a) of the Social Security Act [sections 1361(a) and 1367 of Title 42, The Public Health and Welfare] shall be applicable, according to their terms, to the Federal land banks, Federal intermediate credit banks, and banks for cooperatives.”
+Pub. L. 86–778, title V, § 531(g), Sept. 13, 1960, 74 Stat. 984, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notwithstanding section 203(b) of the Farm Credit Act of 1959, sections 3305(b), 3306(c)(6), and 3308 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], and sections 1501(a) and 1507(a) of the Social Security Act [sections 1361(a) and 1367 of Title 42, The Public Health and Welfare] shall be applicable, according to their terms, to the Federal land banks, Federal intermediate credit banks, and banks for cooperatives.”
 
-## § 3306. Definitions
+## § 3306. Definitions
 
 **(a) Employer** For purposes of this chapter—
 
@@ -3251,7 +3251,7 @@ A person treated as an employer under paragraph (3) shall not be treated as an e
 
 **(C)** death;
 
-**[(3)** Repealed. Pub. L. 98–21, title III, § 324(b)(3)(B), Apr. 20, 1983, 97 Stat. 124]
+**[(3)** Repealed. Pub. L. 98–21, title III, § 324(b)(3)(B), Apr. 20, 1983, 97 Stat. 124]
 
 **(4)** any payment on account of sickness or accident disability, or medical or hospitalization expenses in connection with sickness or accident disability, made by an employer to, or on behalf of, an employee after the expiration of 6 calendar months following the last calendar month in which the employee worked for such employer;
 
@@ -3273,7 +3273,7 @@ A person treated as an employer under paragraph (3) shall not be treated as an e
 
 **(H)** under an arrangement to which section 408(p) applies, other than any elective contributions under paragraph (2)(A)(i) thereof,1
 
-<sup>1</sup>  So in original. The comma probably should be a semicolon.
+<sup>1</sup> So in original. The comma probably should be a semicolon.
 
 **(6)** the payment by an employer (without deduction from the remuneration of the employee)—
 
@@ -3285,7 +3285,7 @@ with respect to remuneration paid to an employee for domestic service in a priva
 
 **(7)** remuneration paid in any medium other than cash to an employee for service not in the course of the employer’s trade or business;
 
-**[(8)** Repealed. Pub. L. 98–21, title III, § 324(b)(3)(B), Apr. 20, 1983, 97 Stat. 124]
+**[(8)** Repealed. Pub. L. 98–21, title III, § 324(b)(3)(B), Apr. 20, 1983, 97 Stat. 124]
 
 **(9)** remuneration paid to or on behalf of an employee if (and to the extent that) at the time of the payment of such remuneration it is reasonable to believe that a corresponding deduction is allowable under section 217 (determined without regard to section 274(n));
 
@@ -3299,7 +3299,7 @@ other than any such payment or series of payments which would have been paid if 
 
 **(11)** remuneration for agricultural labor paid in any medium other than cash;
 
-**[(12)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(vi), Dec. 19, 2014, 128 Stat. 4040]
+**[(12)** Repealed. Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(vi), Dec. 19, 2014, 128 Stat. 4040]
 
 **(13)** any payment made, or benefit furnished, to or for the benefit of an employee if at the time of such payment or such furnishing it is reasonable to believe that the employee will be able to exclude such payment or benefit from income under section 127, 129, 134(b)(4), or 134(b)(5);
 
@@ -3471,7 +3471,7 @@ An individual who is a citizen of the Commonwealth of Puerto Rico or the Virgin 
 
 **“(B)** in the employ of a group of operators of farms (or a cooperative organization of which such operators are members) in the performance of service described in subparagraph (A), but only if such operators produced more than one-half of the commodity with respect to which such service is performed;”.
 
-**[(l) Repealed. Sept. 1, 1954, ch. 1212, § 4(c), 68 Stat. 1135]**
+**[(l) Repealed. Sept. 1, 1954, ch. 1212, § 4(c), 68 Stat. 1135]**
 
 **(m) American vessel and aircraft**
 
@@ -3615,7 +3615,7 @@ For purposes of this chapter, the term “Indian tribe” has the meaning given 
 
 **(10)** upon request by the State and approval by the Secretary of Labor, only such other provisions are included in the State law that are determined to be appropriate for purposes of a short-time compensation program.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 447; Sept. 1, 1954, ch. 1212, §§ 1, 4(c), 68 Stat. 1130, 1135; Pub. L. 86–70, § 22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, § 18(d), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title V, §§ 531(c), 532–534, 543(a), Sept. 13, 1960, 74 Stat. 983, 984, 986; Pub. L. 87–256, § 110(f), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–792, § 7(k), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–650, § 4(c), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 90–248, title V, § 504(b), Jan. 2, 1968, 81 Stat. 935; Pub. L. 91–53, § 1, Aug. 7, 1969, 83 Stat. 91; Pub. L. 91–373, title I, §§ 101(a), 102(a), 103(a), 105(a), (b), 106(a), title III, § 302, Aug. 10, 1970, 84 Stat. 696, 697, 699, 700, 713; Pub. L. 94–455, title XIX, §§ 1903(a)(16), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1810, 1834; Pub. L. 94–566, title I, §§ 111 (a), (b), 112(a), 113(a), 114(a), 116(b), title II, § 211(a), Oct. 20, 1976, 90 Stat. 2667–2669, 2672, 2676; Pub. L. 95–216, title III, § 314(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–472, § 3(a), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, § 164(b)(2), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 96–84, § 4(a), (b), Oct. 10, 1979, 93 Stat. 654; Pub. L. 96–222, title I, § 101(a)(10)(B)(ii), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, § 1141(b), Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title I, § 124(e)(2)(A), title VIII, § 822(a), Aug. 13, 1981, 95 Stat. 200, 351; Pub. L. 97–248, title II, §§ 271(a), 276(a)(1), (b)(1), (2), 277, Sept. 3, 1982, 96 Stat. 554, 558, 559; Pub. L. 98–21, title III, §§ 324(b)(1)–(4)(B), 327(c), 328(c), Apr. 20, 1983, 97 Stat. 123, 124, 127, 128; Pub. L. 98–135, title II, §§ 201(a), 202, Oct. 24, 1983, 97 Stat. 860; Pub. L. 98–369, div. A, title IV, § 491(d)(37), title V, § 531(d)(3), div. B, title VI, § 2661(*o*)(4), July 18, 1984, 98 Stat. 851, 884, 1159; Pub. L. 99–272, title XII, § 12401(b)(2), title XIII, § 13303(a), Apr. 7, 1986, 100 Stat. 297, 327; Pub. L. 99–509, title IX, § 9002(b)(2)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, § 122(e)(3), title XI, §§ 1108(g)(8), 1151(d)(2)(B), title XVIII, §§ 1884(3), 1899A(44), (45), Oct. 22, 1986, 100 Stat. 2112, 2435, 2505, 2919, 2961; Pub. L. 99–595, Oct. 31, 1986, 100 Stat. 3348; Pub. L. 100–647, title I, §§ 1001(d)(2)(C)(iii), (g)(4)(B)(ii), 1011B(a) (22)(C), (23)(A), 1018(u)(50), title VIII, § 8016(a)(3)(B), Nov. 10, 1988, 102 Stat. 3351, 3352, 3486, 3593, 3792; Pub. L. 101–140, title II, § 203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 102–318, title III, § 303(a), title IV, § 401(a)(2), title V, § 521(b)(35), July 3, 1992, 106 Stat. 297, 298, 312; Pub. L. 103–182, title V, § 507(a), (b)(2), Dec. 8, 1993, 107 Stat. 2153, 2154; Pub. L. 103–296, title III, § 320(a)(1)(E), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, § 702(c)(2), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–188, title I, §§ 1203(a), 1421(b)(8)(C), 1704(t)(10), Aug. 20, 1996, 110 Stat. 1773, 1798, 1888; Pub. L. 104–191, title III, § 301(c)(2)(B), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–33, title V, § 5406(a), Aug. 5, 1997, 111 Stat. 605; Pub. L. 106–554, § 1(a)(7) [title I, § 166(a), (d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 107–147, title II, § 209(d)(1), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–121, title I, § 106(b)(3), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, § 1201(d)(2)(B), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title II, § 251(a)(3), title III, § 320(b)(3), Oct. 22, 2004, 118 Stat. 1458, 1473; Pub. L. 108–375, div. A, title V, § 585(b)(2)(C), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 110–245, title I, § 115(b), June 17, 2008, 122 Stat. 1636; Pub. L. 112–96, title II, § 2161(a)(1), (b)(1)(B), Feb. 22, 2012, 126 Stat. 171, 172; Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(vi), Dec. 19, 2014, 128 Stat. 4040; Pub. L. 114–92, div. C, title XXXV, § 3503, Nov. 25, 2015, 129 Stat. 1219; Pub. L. 115–141, div. U, title IV, § 401(a)(212)–(215), Mar. 23, 2018, 132 Stat. 1194; Pub. L. 116–136, div. A, title II, § 2108(f), Mar. 27, 2020, 134 Stat. 329.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 447; Sept. 1, 1954, ch. 1212, §§ 1, 4(c), 68 Stat. 1130, 1135; Pub. L. 86–70, § 22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, § 18(d), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title V, §§ 531(c), 532–534, 543(a), Sept. 13, 1960, 74 Stat. 983, 984, 986; Pub. L. 87–256, § 110(f), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–792, § 7(k), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–650, § 4(c), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 90–248, title V, § 504(b), Jan. 2, 1968, 81 Stat. 935; Pub. L. 91–53, § 1, Aug. 7, 1969, 83 Stat. 91; Pub. L. 91–373, title I, §§ 101(a), 102(a), 103(a), 105(a), (b), 106(a), title III, § 302, Aug. 10, 1970, 84 Stat. 696, 697, 699, 700, 713; Pub. L. 94–455, title XIX, §§ 1903(a)(16), 1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1810, 1834; Pub. L. 94–566, title I, §§ 111 (a), (b), 112(a), 113(a), 114(a), 116(b), title II, § 211(a), Oct. 20, 1976, 90 Stat. 2667–2669, 2672, 2676; Pub. L. 95–216, title III, § 314(b), Dec. 20, 1977, 91 Stat. 1536; Pub. L. 95–472, § 3(a), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, § 164(b)(2), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 96–84, § 4(a), (b), Oct. 10, 1979, 93 Stat. 654; Pub. L. 96–222, title I, § 101(a)(10)(B)(ii), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, § 1141(b), Dec. 5, 1980, 94 Stat. 2694; Pub. L. 97–34, title I, § 124(e)(2)(A), title VIII, § 822(a), Aug. 13, 1981, 95 Stat. 200, 351; Pub. L. 97–248, title II, §§ 271(a), 276(a)(1), (b)(1), (2), 277, Sept. 3, 1982, 96 Stat. 554, 558, 559; Pub. L. 98–21, title III, §§ 324(b)(1)–(4)(B), 327(c), 328(c), Apr. 20, 1983, 97 Stat. 123, 124, 127, 128; Pub. L. 98–135, title II, §§ 201(a), 202, Oct. 24, 1983, 97 Stat. 860; Pub. L. 98–369, div. A, title IV, § 491(d)(37), title V, § 531(d)(3), div. B, title VI, § 2661(*o*)(4), July 18, 1984, 98 Stat. 851, 884, 1159; Pub. L. 99–272, title XII, § 12401(b)(2), title XIII, § 13303(a), Apr. 7, 1986, 100 Stat. 297, 327; Pub. L. 99–509, title IX, § 9002(b)(2)(B), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, § 122(e)(3), title XI, §§ 1108(g)(8), 1151(d)(2)(B), title XVIII, §§ 1884(3), 1899A(44), (45), Oct. 22, 1986, 100 Stat. 2112, 2435, 2505, 2919, 2961; Pub. L. 99–595, Oct. 31, 1986, 100 Stat. 3348; Pub. L. 100–647, title I, §§ 1001(d)(2)(C)(iii), (g)(4)(B)(ii), 1011B(a) (22)(C), (23)(A), 1018(u)(50), title VIII, § 8016(a)(3)(B), Nov. 10, 1988, 102 Stat. 3351, 3352, 3486, 3593, 3792; Pub. L. 101–140, title II, § 203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 102–318, title III, § 303(a), title IV, § 401(a)(2), title V, § 521(b)(35), July 3, 1992, 106 Stat. 297, 298, 312; Pub. L. 103–182, title V, § 507(a), (b)(2), Dec. 8, 1993, 107 Stat. 2153, 2154; Pub. L. 103–296, title III, § 320(a)(1)(E), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 103–465, title VII, § 702(c)(2), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–188, title I, §§ 1203(a), 1421(b)(8)(C), 1704(t)(10), Aug. 20, 1996, 110 Stat. 1773, 1798, 1888; Pub. L. 104–191, title III, § 301(c)(2)(B), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–33, title V, § 5406(a), Aug. 5, 1997, 111 Stat. 605; Pub. L. 106–554, § 1(a)(7) [title I, § 166(a), (d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 107–147, title II, § 209(d)(1), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–121, title I, § 106(b)(3), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, § 1201(d)(2)(B), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title II, § 251(a)(3), title III, § 320(b)(3), Oct. 22, 2004, 118 Stat. 1458, 1473; Pub. L. 108–375, div. A, title V, § 585(b)(2)(C), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 110–245, title I, § 115(b), June 17, 2008, 122 Stat. 1636; Pub. L. 112–96, title II, § 2161(a)(1), (b)(1)(B), Feb. 22, 2012, 126 Stat. 171, 172; Pub. L. 113–295, div. A, title II, § 221(a)(19)(B)(vi), Dec. 19, 2014, 128 Stat. 4040; Pub. L. 114–92, div. C, title XXXV, § 3503, Nov. 25, 2015, 129 Stat. 1219; Pub. L. 115–141, div. U, title IV, § 401(a)(212)–(215), Mar. 23, 2018, 132 Stat. 1194; Pub. L. 116–136, div. A, title II, § 2108(f), Mar. 27, 2020, 134 Stat. 329.)
 
 **Editorial Notes**
 
@@ -3629,163 +3629,163 @@ Sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act, referr
 
 Sections 303(g), 903(c)(2), (d)(4), and 904(a) of the Social Security Act, referred to in subsecs. (f)(2), (4) and (t)(5), are classified to sections 503(g), 1103(c)(2), (d)(4), and 1104(a), respectively, of Title 42, The Public Health and Welfare.
 
-The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (*o*)(1)(A)(i), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, which is classified generally to chapter 20 (§ 1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
+The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (*o*)(1)(A)(i), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, which is classified generally to chapter 20 (§ 1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 29 and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (v)(6), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (v)(6), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 **Amendments**
 
 2020—Subsec. (v)(6). Pub. L. 116–136 substituted “Workforce Innovation and Opportunity Act” for “Workforce Investment Act of 1998”.
 
-2018—Subsec. (b)(5)(F). Pub. L. 115–141, § 401(a)(212), substituted comma for semicolon at end.
+2018—Subsec. (b)(5)(F). Pub. L. 115–141, § 401(a)(212), substituted comma for semicolon at end.
 
-Subsec. (c)(19). Pub. L. 115–141, § 401(a)(213), substituted “service” for “Service”.
+Subsec. (c)(19). Pub. L. 115–141, § 401(a)(213), substituted “service” for “Service”.
 
-Subsec. (u). Pub. L. 115–141, § 401(a)(214), substituted “25 U.S.C. 5304(e)” for “25 U.S.C. 450b(e)”.
+Subsec. (u). Pub. L. 115–141, § 401(a)(214), substituted “25 U.S.C. 5304(e)” for “25 U.S.C. 450b(e)”.
 
-Subsec. (v). Pub. L. 115–141, § 401(a)(215), substituted “this section” for “this part” in introductory provisions.
+Subsec. (v). Pub. L. 115–141, § 401(a)(215), substituted “this section” for “this part” in introductory provisions.
 
 2015—Subsec. (n). Pub. L. 114–92 substituted “Secretary of Transportation” for “Secretary of Commerce” in par. (2) and concluding provisions.
 
 2014—Subsec. (b)(12). Pub. L. 113–295 struck out par. (12) which read as follows: “any contribution, payment, or service, provided by an employer which may be excluded from the gross income of an employee, his spouse, or his dependents, under the provisions of section 120 (relating to amounts received under qualified group legal services plans);”.
 
-2012—Subsec. (f)(5). Pub. L. 112–96, § 2161(b)(1)(B)(i), added par. (5) and struck out former par. (5) relating to short-time compensation which read as follows: “amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor; and”. Former par. (5) relating to self-employment assistance program redesignated (6).
+2012—Subsec. (f)(5). Pub. L. 112–96, § 2161(b)(1)(B)(i), added par. (5) and struck out former par. (5) relating to short-time compensation which read as follows: “amounts may be withdrawn for the payment of short-time compensation under a plan approved by the Secretary of Labor; and”. Former par. (5) relating to self-employment assistance program redesignated (6).
 
-Subsec. (f)(6). Pub. L. 112–96, § 2161(b)(1)(B)(ii), redesignated par. (5) relating to self-employment assistance program as (6).
+Subsec. (f)(6). Pub. L. 112–96, § 2161(b)(1)(B)(ii), redesignated par. (5) relating to self-employment assistance program as (6).
 
-Subsec. (v). Pub. L. 112–96, § 2161(a)(1), added subsec. (v).
+Subsec. (v). Pub. L. 112–96, § 2161(a)(1), added subsec. (v).
 
 2008—Subsec. (b)(20). Pub. L. 110–245 added par. (20).
 
 2004—Subsec. (b)(13). Pub. L. 108–375 substituted “134(b)(4), or 134(b)(5)” for “or 134(b)(4)”.
 
-Subsec. (b)(16). Pub. L. 108–357, § 320(b)(3), inserted “108(f)(4),” after “74(c),”.
+Subsec. (b)(16). Pub. L. 108–357, § 320(b)(3), inserted “108(f)(4),” after “74(c),”.
 
-Subsec. (b)(19). Pub. L. 108–357, § 251(a)(3), added par. (19).
+Subsec. (b)(19). Pub. L. 108–357, § 251(a)(3), added par. (19).
 
-2003—Subsec. (b)(13). Pub. L. 108–121 substituted “, 129, or 134(b)(4)” for “or 129”.
+2003—Subsec. (b)(13). Pub. L. 108–121 substituted “, 129, or 134(b)(4)” for “or 129”.
 
 Subsec. (b)(18). Pub. L. 108–173 added par. (18).
 
 2002—Subsec. (f)(2). Pub. L. 107–147 inserted “or 903(d)(4)” before “of the Social Security Act”.
 
-2000—Subsec. (c)(7). Pub. L. 106–554, § 1(a)(7) [title I, § 166(a)], inserted “or in the employ of an Indian tribe,” after “service performed in the employ of a State, or any political subdivision thereof,” and “or Indian tribes” after “wholly owned by one or more States or political subdivisions”.
+2000—Subsec. (c)(7). Pub. L. 106–554, § 1(a)(7) [title I, § 166(a)], inserted “or in the employ of an Indian tribe,” after “service performed in the employ of a State, or any political subdivision thereof,” and “or Indian tribes” after “wholly owned by one or more States or political subdivisions”.
 
-Subsec. (u). Pub. L. 106–554, § 1(a)(7) [title I, § 166(d)], added subsec. (u).
+Subsec. (u). Pub. L. 106–554, § 1(a)(7) [title I, § 166(d)], added subsec. (u).
 
 1997—Subsec. (c)(21). Pub. L. 105–33 added par. (21).
 
-1996—Subsec. (b)(5)(H). Pub. L. 104–188, § 1421(b)(8)(C), added subpar. (H).
+1996—Subsec. (b)(5)(H). Pub. L. 104–188, § 1421(b)(8)(C), added subpar. (H).
 
 Subsec. (b)(17). Pub. L. 104–191 added par. (17).
 
-Subsec. (c)(1)(B). Pub. L. 104–188, § 1203(a), struck out “before January 1, 1995,” after “labor performed”.
+Subsec. (c)(1)(B). Pub. L. 104–188, § 1203(a), struck out “before January 1, 1995,” after “labor performed”.
 
-Subsec. (k). Pub. L. 104–188, § 1704(t)(10), inserted a period at end.
+Subsec. (k). Pub. L. 104–188, § 1704(t)(10), inserted a period at end.
 
 1994—Subsec. (c)(19). Pub. L. 103–296 substituted “(J), (M), or (Q)” for “(J), or (M)” wherever appearing.
 
 Subsec. (f)(3) to (5). Pub. L. 103–465 added par. (3) and redesignated former pars. (3) and (4) as (4) and (5) relating to payment of short-time compensation, respectively.
 
-1993—Subsec. (f)(5). Pub. L. 103–182, § 507(b)(2), added par. (5).
+1993—Subsec. (f)(5). Pub. L. 103–182, § 507(b)(2), added par. (5).
 
-Subsec. (t). Pub. L. 103–182, § 507(a), added subsec. (t).
+Subsec. (t). Pub. L. 103–182, § 507(a), added subsec. (t).
 
-1992—Subsec. (c)(1)(B). Pub. L. 102–318, § 303(a), substituted “1995” for “1993”.
+1992—Subsec. (c)(1)(B). Pub. L. 102–318, § 303(a), substituted “1995” for “1993”.
 
-Subsec. (f)(4). Pub. L. 102–318, § 401(a)(2), added par. (4).
+Subsec. (f)(4). Pub. L. 102–318, § 401(a)(2), added par. (4).
 
-Subsec. (r)(1)(A). Pub. L. 102–318, § 521(b)(35), substituted “402(e)(3)” for “402(a)(8)”.
+Subsec. (r)(1)(A). Pub. L. 102–318, § 521(b)(35), substituted “402(e)(3)” for “402(a)(8)”.
 
-1989—Subsec. (t). Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 100–647, § 1011B(a)(22)(C), had not been enacted, see 1988 Amendment note below.
+1989—Subsec. (t). Pub. L. 101–140 amended this section to read as if amendments by Pub. L. 100–647, § 1011B(a)(22)(C), had not been enacted, see 1988 Amendment note below.
 
-1988—Subsec. (b)(5)(G). Pub. L. 100–647, § 1011B(a)(23)(A), inserted “if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received” after “section 125)”.
+1988—Subsec. (b)(5)(G). Pub. L. 100–647, § 1011B(a)(23)(A), inserted “if such payment would not be treated as wages without regard to such plan and it is reasonable to believe that (if section 125 applied for purposes of this section) section 125 would not treat any wages as constructively received” after “section 125)”.
 
-Subsec. (b)(9). Pub. L. 100–647, § 1001(g)(4)(B)(ii), inserted “(determined without regard to section 274(n))” after “section 217”.
+Subsec. (b)(9). Pub. L. 100–647, § 1001(g)(4)(B)(ii), inserted “(determined without regard to section 274(n))” after “section 217”.
 
-Subsec. (c)(1)(B). Pub. L. 100–647, § 1018(u)(50), amended Pub. L. 99–272, § 13303(a), see 1986 Amendment notes below.
+Subsec. (c)(1)(B). Pub. L. 100–647, § 1018(u)(50), amended Pub. L. 99–272, § 13303(a), see 1986 Amendment notes below.
 
-Subsec. (c)(19). Pub. L. 100–647, § 1001(d)(2)(C)(iii), substituted “(F), (J), or (M)” for “(F) or (J)” in three places.
+Subsec. (c)(19). Pub. L. 100–647, § 1001(d)(2)(C)(iii), substituted “(F), (J), or (M)” for “(F) or (J)” in three places.
 
-Subsec. (i). Pub. L. 100–647, § 8016(a)(3)(B), substituted “paragraph (4) and subparagraphs (B) and (C) of paragraph (3)” for “paragraph (3) and subparagraphs (B) and (C) of paragraph (4)”.
+Subsec. (i). Pub. L. 100–647, § 8016(a)(3)(B), substituted “paragraph (4) and subparagraphs (B) and (C) of paragraph (3)” for “paragraph (3) and subparagraphs (B) and (C) of paragraph (4)”.
 
-Subsec. (t). Pub. L. 100–647, § 1011B(a)(22)(C), added subsec. (t) relating to benefits provided under certain employee benefit plans.
+Subsec. (t). Pub. L. 100–647, § 1011B(a)(22)(C), added subsec. (t) relating to benefits provided under certain employee benefit plans.
 
-1986—Subsec. (b)(2)(A). Pub. L. 99–514, § 1899A(44), substituted “workmen’s compensation” for “workman’s compensation”.
+1986—Subsec. (b)(2)(A). Pub. L. 99–514, § 1899A(44), substituted “workmen’s compensation” for “workman’s compensation”.
 
-Subsec. (b)(5)(C). Pub. L. 99–514, § 1108(g)(8), added subpar. (C) and struck out former subpar. (C) which read as follows: “under a simplified employee pension if, at the time of the payment, it is reasonable to believe that the employee will be entitled to a deduction under section 219(b)(2) for such payment,”.
+Subsec. (b)(5)(C). Pub. L. 99–514, § 1108(g)(8), added subpar. (C) and struck out former subpar. (C) which read as follows: “under a simplified employee pension if, at the time of the payment, it is reasonable to believe that the employee will be entitled to a deduction under section 219(b)(2) for such payment,”.
 
-Subsec. (b)(5)(G). Pub. L. 99–514, § 1151(d)(2)(B), added subpar. (G).
+Subsec. (b)(5)(G). Pub. L. 99–514, § 1151(d)(2)(B), added subpar. (G).
 
-Subsec. (b)(13). Pub. L. 99–514, § 1899A(45), substituted a semicolon for a comma.
+Subsec. (b)(13). Pub. L. 99–514, § 1899A(45), substituted a semicolon for a comma.
 
-Subsec. (b)(16). Pub. L. 99–514, § 122(e)(3), inserted reference to section 74(c).
+Subsec. (b)(16). Pub. L. 99–514, § 122(e)(3), inserted reference to section 74(c).
 
 Subsec. (c)(1)(B). Pub. L. 99–595 substituted “January 1, 1993” for “January 1, 1988”.
 
-Pub. L. 99–272, § 13303(a), as amended by Pub. L. 100–647, § 1018(u)(50), substituted “January 1, 1988” for “January 1, 1986”.
+Pub. L. 99–272, § 13303(a), as amended by Pub. L. 100–647, § 1018(u)(50), substituted “January 1, 1988” for “January 1, 1986”.
 
-Subsec. (f)(3). Pub. L. 99–272, § 12401(b)(2), added par. (3).
+Subsec. (f)(3). Pub. L. 99–272, § 12401(b)(2), added par. (3).
 
 Subsec. (i). Pub. L. 99–509 substituted “paragraph (3) and subparagraphs (B) and (C) of paragraph (4)” for “subparagraphs (B) and (C) of paragraph (3)”.
 
-Subsec. (*o*)(1)(A)(i). Pub. L. 99–514, § 1884(3), substituted “Migrant and Seasonal Agricultural Worker Protection Act” for “Farm Labor Contractor Registration Act of 1963”.
+Subsec. (*o*)(1)(A)(i). Pub. L. 99–514, § 1884(3), substituted “Migrant and Seasonal Agricultural Worker Protection Act” for “Farm Labor Contractor Registration Act of 1963”.
 
-1984—Subsec. (b). Pub. L. 98–369, § 531(d)(3)(A), in provisions preceding par. (1), inserted “(including benefits)”.
+1984—Subsec. (b). Pub. L. 98–369, § 531(d)(3)(A), in provisions preceding par. (1), inserted “(including benefits)”.
 
-Subsec. (b)(5)(C) to (G). Pub. L. 98–369, § 491(d)(37), struck out subpar. (C) which provided: “under or to a bond purchase plan which, at the time of such payment, is a qualified bond purchase plan described in section 405(a),” and redesignated subpars. (D) to (G) as (C) to (F), respectively.
+Subsec. (b)(5)(C) to (G). Pub. L. 98–369, § 491(d)(37), struck out subpar. (C) which provided: “under or to a bond purchase plan which, at the time of such payment, is a qualified bond purchase plan described in section 405(a),” and redesignated subpars. (D) to (G) as (C) to (F), respectively.
 
-Subsec. (b)(16). Pub. L. 98–369, § 531(d)(3)(B), added par. (16).
+Subsec. (b)(16). Pub. L. 98–369, § 531(d)(3)(B), added par. (16).
 
-Subsec. (r)(1)(B). Pub. L. 98–369, § 2661(*o*)(4), substituted “section 414(h)(2) where the pickup referred to in such section is pursuant to a salary reduction agreement (whether evidenced by a written instrument or otherwise)” for “section 414(h)(2)”.
+Subsec. (r)(1)(B). Pub. L. 98–369, § 2661(*o*)(4), substituted “section 414(h)(2) where the pickup referred to in such section is pursuant to a salary reduction agreement (whether evidenced by a written instrument or otherwise)” for “section 414(h)(2)”.
 
-Subsec. (s). Pub. L. 98–369, § 1073(a), added subsec. (s).
+Subsec. (s). Pub. L. 98–369, § 1073(a), added subsec. (s).
 
-1983—Subsec. (b). Pub. L. 98–21, § 327(c)(4), added sentence at end providing that nothing in the regulations prescribed for purposes of chapter 24 (relating to income tax withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in regulations prescribed for purposes of this chapter.
+1983—Subsec. (b). Pub. L. 98–21, § 327(c)(4), added sentence at end providing that nothing in the regulations prescribed for purposes of chapter 24 (relating to income tax withholding) which provides an exclusion from “wages” as used in such chapter shall be construed to require a similar exclusion from “wages” in regulations prescribed for purposes of this chapter.
 
-Pub. L. 98–21, § 324(b)(4)(B), added sentence at end providing that, except as otherwise provided in regulations prescribed by the Secretary, any third party which makes a payment included in wages solely by reason of parenthetical text contained in subpar. (A) of par. (2) shall be treated for purposes of this chapter and chapter 22 as the employer with respect to such wages.
+Pub. L. 98–21, § 324(b)(4)(B), added sentence at end providing that, except as otherwise provided in regulations prescribed by the Secretary, any third party which makes a payment included in wages solely by reason of parenthetical text contained in subpar. (A) of par. (2) shall be treated for purposes of this chapter and chapter 22 as the employer with respect to such wages.
 
-Subsec. (b)(2). Pub. L. 98–21, § 324(b)(3)(A), (4)(A), struck out “(A) retirement or”, redesignated subpars. (B) to (D) as (A) to (C), respectively, and in subpar. (A), as so redesignated, substituted “sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term ‘wages’ only payments which are received under a workman’s compensation law)” for “sickness or accident disability”.
+Subsec. (b)(2). Pub. L. 98–21, § 324(b)(3)(A), (4)(A), struck out “(A) retirement or”, redesignated subpars. (B) to (D) as (A) to (C), respectively, and in subpar. (A), as so redesignated, substituted “sickness or accident disability (but, in the case of payments made to an employee or any of his dependents, this subparagraph shall exclude from the term ‘wages’ only payments which are received under a workman’s compensation law)” for “sickness or accident disability”.
 
-Subsec. (b)(3). Pub. L. 98–21, § 324(b)(3)(B), struck out par. (3) which related to any payment made to an employee (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) on account of retirement.
+Subsec. (b)(3). Pub. L. 98–21, § 324(b)(3)(B), struck out par. (3) which related to any payment made to an employee (including any amount paid by an employer for insurance or annuities, or into a fund, to provide for any such payment) on account of retirement.
 
-Subsec. (b)(5)(D). Pub. L. 98–21, § 328(c), substituted “section 219(b)(2)” for “section 219”.
+Subsec. (b)(5)(D). Pub. L. 98–21, § 328(c), substituted “section 219(b)(2)” for “section 219”.
 
-Subsec. (b)(5)(E) to (G). Pub. L. 98–21, § 324(b)(2), added subpars. (E) to (G).
+Subsec. (b)(5)(E) to (G). Pub. L. 98–21, § 324(b)(2), added subpars. (E) to (G).
 
-Subsec. (b)(8). Pub. L. 98–21, § 324(b)(3)(B), struck out par. (8) which related to any payment (other than vacation or sick pay) made to an employee after the month in which he attained the age of 65, if he did not work for the employer in the period for which such payment was made.
+Subsec. (b)(8). Pub. L. 98–21, § 324(b)(3)(B), struck out par. (8) which related to any payment (other than vacation or sick pay) made to an employee after the month in which he attained the age of 65, if he did not work for the employer in the period for which such payment was made.
 
-Subsec. (b)(10)(A). Pub. L. 98–21, § 324(b)(3)(C), struck out cl. (iii) which related to retirement after attaining an age specified in the plan referred to in subpar. (B) or in a pension plan of the employer.
+Subsec. (b)(10)(A). Pub. L. 98–21, § 324(b)(3)(C), struck out cl. (iii) which related to retirement after attaining an age specified in the plan referred to in subpar. (B) or in a pension plan of the employer.
 
-Subsec. (b)(14). Pub. L. 98–21, § 327(c)(1)–(3), added par. (14).
+Subsec. (b)(14). Pub. L. 98–21, § 327(c)(1)–(3), added par. (14).
 
-Subsec. (b)(15). Pub. L. 98–135, § 201(a), added par. (15).
+Subsec. (b)(15). Pub. L. 98–135, § 201(a), added par. (15).
 
-Subsec. (c)(1)(B). Pub. L. 98–135, § 202, substituted “1986” for “1984”.
+Subsec. (c)(1)(B). Pub. L. 98–135, § 202, substituted “1986” for “1984”.
 
-Subsec. (r). Pub. L. 98–21, § 324(b)(1), added subsec. (r).
+Subsec. (r). Pub. L. 98–21, § 324(b)(1), added subsec. (r).
 
-1982—Subsec. (b)(1). Pub. L. 97–248, § 271(a), substituted “$7,000” for “$6,000” wherever appearing.
+1982—Subsec. (b)(1). Pub. L. 97–248, § 271(a), substituted “$7,000” for “$6,000” wherever appearing.
 
-Subsec. (c)(1)(B). Pub. L. 97–248, § 277, substituted “1984” for “1982”.
+Subsec. (c)(1)(B). Pub. L. 97–248, § 277, substituted “1984” for “1982”.
 
-Subsec. (c)(10)(C). Pub. L. 97–248, § 276(a)(1), struck out “under the age of 22” after “service performed by an individual”.
+Subsec. (c)(10)(C). Pub. L. 97–248, § 276(a)(1), struck out “under the age of 22” after “service performed by an individual”.
 
-Subsec. (c)(20). Pub. L. 97–248, § 276(b)(1), added par. (20).
+Subsec. (c)(20). Pub. L. 97–248, § 276(b)(1), added par. (20).
 
-Subsec. (q). Pub. L. 97–248, § 276(b)(2), added subsec. (q).
+Subsec. (q). Pub. L. 97–248, § 276(b)(2), added subsec. (q).
 
-1981—Subsec. (b)(13). Pub. L. 97–34, § 124(e)(2)(A), substituted “section 127 or 129” for “section 127”.
+1981—Subsec. (b)(13). Pub. L. 97–34, § 124(e)(2)(A), substituted “section 127 or 129” for “section 127”.
 
-Subsec. (c)(18), (19). Pub. L. 97–34, § 822(a), added par. (18) and redesignated former par. (18) as (19).
+Subsec. (c)(18), (19). Pub. L. 97–34, § 822(a), added par. (18) and redesignated former par. (18) as (19).
 
 1980—Subsec. (b)(5)(D). Pub. L. 96–222 added subpar. (D).
 
 Subsec. (b)(6). Pub. L. 96–499 struck out “(or the corresponding section of prior law)” after “section 3101” in subpar. (A) and inserted “with respect to remuneration paid to an employee for domestic service in a private home of the employer or for agricultural labor” following subpar. (B).
 
-1979—Subsec. (c)(1)(A). Pub. L. 96–84, § 4(b), substituted “including labor performed by an alien” for “not taking into account labor performed before January 1, 1980, by an alien” in parenthetical text of cls. (i) and (ii).
+1979—Subsec. (c)(1)(A). Pub. L. 96–84, § 4(b), substituted “including labor performed by an alien” for “not taking into account labor performed before January 1, 1980, by an alien” in parenthetical text of cls. (i) and (ii).
 
-Subsec. (c)(1)(B). Pub. L. 96–84, § 4(a), substituted “January 1, 1982” for “January 1, 1980”.
+Subsec. (c)(1)(B). Pub. L. 96–84, § 4(a), substituted “January 1, 1982” for “January 1, 1980”.
 
 1978—Subsec. (b)(12). Pub. L. 95–472 added par. (12).
 
@@ -3793,45 +3793,45 @@ Subsec. (b)(13). Pub. L. 95–600 added par. (13).
 
 1977—Subsec. (p). Pub. L. 95–216 added subsec. (p).
 
-1976—Subsec. (a). Pub. L. 94–566, § 114(a), redesignated existing provisions, consisting of an introductory phrase and pars. (1) and (2), as par. (1), consisting of an introductory phrase and subpars. (A) and (B), inserted provisions following subpar. (B) as so redesignated, and added pars. (2), (3), and (4).
+1976—Subsec. (a). Pub. L. 94–566, § 114(a), redesignated existing provisions, consisting of an introductory phrase and pars. (1) and (2), as par. (1), consisting of an introductory phrase and subpars. (A) and (B), inserted provisions following subpar. (B) as so redesignated, and added pars. (2), (3), and (4).
 
-Subsec. (b)(1). Pub. L. 94–566, § 211(a), substituted “$6,000” for “$4,200” wherever appearing.
+Subsec. (b)(1). Pub. L. 94–566, § 211(a), substituted “$6,000” for “$4,200” wherever appearing.
 
-Subsec. (b)(11). Pub. L. 94–566, § 111(a), added par. (11).
+Subsec. (b)(11). Pub. L. 94–566, § 111(a), added par. (11).
 
-Subsec. (c). Pub. L. 94–566, § 116(b)(1), struck out “or in the Virgin Islands” after “agreement relating to unemployment compensation” in parenthetical provisions of cl. (B) preceding par. (1).
+Subsec. (c). Pub. L. 94–566, § 116(b)(1), struck out “or in the Virgin Islands” after “agreement relating to unemployment compensation” in parenthetical provisions of cl. (B) preceding par. (1).
 
-Subsec. (c)(1). Pub. L. 94–566, § 111(b), inserted “unless” after “subsection (k))” and added subpars. (A) and (B).
+Subsec. (c)(1). Pub. L. 94–566, § 111(b), inserted “unless” after “subsection (k))” and added subpars. (A) and (B).
 
-Subsec. (c)(2). Pub. L. 94–566, § 113(a), inserted “unless performed for a person who paid cash remuneration of $1,000 or more to individuals employed in such domestic service in any calendar quarter in the calendar year or the preceding calendar year” after “sorority”.
+Subsec. (c)(2). Pub. L. 94–566, § 113(a), inserted “unless performed for a person who paid cash remuneration of $1,000 or more to individuals employed in such domestic service in any calendar quarter in the calendar year or the preceding calendar year” after “sorority”.
 
-Subsec. (c)(9). Pub. L. 94–455, § 1903(a)(16)(A), struck out “52 Stat. 1094, 1095;” before “45 U.S.C. 351”.
+Subsec. (c)(9). Pub. L. 94–455, § 1903(a)(16)(A), struck out “52 Stat. 1094, 1095;” before “45 U.S.C. 351”.
 
-Subsec. (c)(12)(B). Pub. L. 94–455, § 1906(b)(13)(C), substituted “to the Secretary of the Treasury” for “to the Secretary”.
+Subsec. (c)(12)(B). Pub. L. 94–455, § 1906(b)(13)(C), substituted “to the Secretary of the Treasury” for “to the Secretary”.
 
-Subsec. (c)(18). Pub. L. 94–455, § 1903(a)(16)(B), inserted “(8 U.S.C. 1101(a)(15)(F) or (J))” after “Immigration and Nationality Act, as amended”.
+Subsec. (c)(18). Pub. L. 94–455, § 1903(a)(16)(B), inserted “(8 U.S.C. 1101(a)(15)(F) or (J))” after “Immigration and Nationality Act, as amended”.
 
-Subsec. (f). Pub. L. 94–455, § 1903(a)(16)(C), struck out “49 Stat. 640; 52 Stat. 1104, 1105;” before “42 U.S.C. 1104”.
+Subsec. (f). Pub. L. 94–455, § 1903(a)(16)(C), struck out “49 Stat. 640; 52 Stat. 1104, 1105;” before “42 U.S.C. 1104”.
 
-Subsec. (j). Pub. L. 94–566, § 116(b)(2), inserted reference to the Virgin Islands in pars. (1) and (2) and in provisions following par. (3).
+Subsec. (j). Pub. L. 94–566, § 116(b)(2), inserted reference to the Virgin Islands in pars. (1) and (2) and in provisions following par. (3).
 
-Subsec. (n). Pub. L. 94–455, § 1903(a)(16)(D), struck out “on or after July 1, 1953,” after “service performed”.
+Subsec. (n). Pub. L. 94–455, § 1903(a)(16)(D), struck out “on or after July 1, 1953,” after “service performed”.
 
-Subsec. (*o*). Pub. L. 94–566, § 112(a), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 94–566, § 112(a), added subsec. (*o*).
 
-1970—Subsec. (a). Pub. L. 91–373, § 101(a), expanded definition of “employer” by reducing from 4 to 1 the number of individuals which a person had to employ on each of some 20 days during the calendar year or the preceding calendar year in order to qualify as an employer and inserted provisions making a person an employer who paid wages of $1,500 or more during any calendar quarter in the calendar year or the preceding calendar year.
+1970—Subsec. (a). Pub. L. 91–373, § 101(a), expanded definition of “employer” by reducing from 4 to 1 the number of individuals which a person had to employ on each of some 20 days during the calendar year or the preceding calendar year in order to qualify as an employer and inserted provisions making a person an employer who paid wages of $1,500 or more during any calendar quarter in the calendar year or the preceding calendar year.
 
-Subsec. (b)(1). Pub. L. 91–373, § 302, substituted “$4,200” for “$3,000”.
+Subsec. (b)(1). Pub. L. 91–373, § 302, substituted “$4,200” for “$3,000”.
 
-Subsec. (c). Pub. L. 91–373, § 105(a), inserted reference to service performed after 1971 outside the United States by a citizen of the United States as an employee of an American employer.
+Subsec. (c). Pub. L. 91–373, § 105(a), inserted reference to service performed after 1971 outside the United States by a citizen of the United States as an employee of an American employer.
 
-Subsec. (c)(10). Pub. L. 91–373, § 106(a), designated existing provisions of subpar. (B) as cl. (i) thereof and added cl. (ii) of subpar. (B) and subpars. (C) and (D).
+Subsec. (c)(10). Pub. L. 91–373, § 106(a), designated existing provisions of subpar. (B) as cl. (i) thereof and added cl. (ii) of subpar. (B) and subpars. (C) and (D).
 
-Subsec. (i). Pub. L. 91–373, § 102(a), substituted meaning assigned “employee” by section 3121(d) of this title, except that subpars. (B) and (C) of par. (3) were not applicable, as meaning of “employee” for purposes of this chapter for a definition of “employee” as persons including officers of corporations but not including independent contractors under common law rules or persons not employees under such rules.
+Subsec. (i). Pub. L. 91–373, § 102(a), substituted meaning assigned “employee” by section 3121(d) of this title, except that subpars. (B) and (C) of par. (3) were not applicable, as meaning of “employee” for purposes of this chapter for a definition of “employee” as persons including officers of corporations but not including independent contractors under common law rules or persons not employees under such rules.
 
-Subsec. (j)(3). Pub. L. 91–373, § 105(b), inserted definition of “American employer”.
+Subsec. (j)(3). Pub. L. 91–373, § 105(b), inserted definition of “American employer”.
 
-Subsec. (k). Pub. L. 91–373, § 103(a), substituted as definition of “agricultural labor” a simple reference to that term as defined, with a minor exception, in section 3121 of this title for a full definition of the term, the result of which, in view of the substance of section 3121, excluded from the definition of agricultural labor services performed in connection with the production or harvesting of maple sirup, maple sugar, or mushrooms, or the hatching of poultry unless performed on a farm, and provided a new series of tests to determine whether the handling, planting, drying, packing, packaging, processing, freezing, grading, storing, or delivering agricultural or horticultural commodities constitute agricultural labor.
+Subsec. (k). Pub. L. 91–373, § 103(a), substituted as definition of “agricultural labor” a simple reference to that term as defined, with a minor exception, in section 3121 of this title for a full definition of the term, the result of which, in view of the substance of section 3121, excluded from the definition of agricultural labor services performed in connection with the production or harvesting of maple sirup, maple sugar, or mushrooms, or the hatching of poultry unless performed on a farm, and provided a new series of tests to determine whether the handling, planting, drying, packing, packaging, processing, freezing, grading, storing, or delivering agricultural or horticultural commodities constitute agricultural labor.
 
 1969—Subsec. (a). Pub. L. 90–53 made status of employer depend also on employment during preceding taxable year.
 
@@ -3843,21 +3843,21 @@ Subsec. (k). Pub. L. 91–373, § 103(a), substituted as definition of “agri
 
 1961—Subsec. (c)(18). Pub. L. 87–256 added par. (18).
 
-1960—Subsec. (c). Pub. L. 86–778, § 532(a), included employment on or in connection with an American aircraft within cl. (B) of the opening provisions.
+1960—Subsec. (c). Pub. L. 86–778, § 532(a), included employment on or in connection with an American aircraft within cl. (B) of the opening provisions.
 
-Subsec. (c)(4). Pub. L. 86–778, § 532(b), excluded service performed on or in connection with an aircraft that is not an American aircraft.
+Subsec. (c)(4). Pub. L. 86–778, § 532(b), excluded service performed on or in connection with an aircraft that is not an American aircraft.
 
-Subsec. (c)(6). Pub. L. 86–778, § 531(c), substituted “wholly or partially owned” for “wholly owned” in cl. (A), and inserted “which specifically refers to such section (or the corresponding section of prior law) in granting such exemption” in cl. (B).
+Subsec. (c)(6). Pub. L. 86–778, § 531(c), substituted “wholly or partially owned” for “wholly owned” in cl. (A), and inserted “which specifically refers to such section (or the corresponding section of prior law) in granting such exemption” in cl. (B).
 
-Subsec. (c)(8). Pub. L. 86–778, § 533, substituted “service performed in the employ of a religious, charitable, educational, or other organization described in section 501(c)(3) which is exempt from income tax under section 501(a)” for “service performed in the employ of a corporation, community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, testing for public safety, literary, or educational purposes, or for the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation.”
+Subsec. (c)(8). Pub. L. 86–778, § 533, substituted “service performed in the employ of a religious, charitable, educational, or other organization described in section 501(c)(3) which is exempt from income tax under section 501(a)” for “service performed in the employ of a corporation, community chest, fund, or foundation, organized and operated exclusively for religious, charitable, scientific, testing for public safety, literary, or educational purposes, or for the prevention of cruelty to children or animals, no part of the net earnings of which inures to the benefit of any private shareholder or individual, and no substantial part of the activities of which is carrying on propaganda, or otherwise attempting, to influence legislation.”
 
-Subsec. (c)(10). Pub. L. 86–778, § 534, struck out provisions which excepted from definition of “employment” service in connection with the collection of dues or premiums for a fraternal beneficiary society, order, or association which is preformed away from the home office or is ritualistic service in connection with any such society, order, or association, service performed in the employ of an agricultural or horticultural organization described in section 501(c)(5) of this title, service performed in the employ of a voluntary employees’ beneficiary association providing for the payment of life, sick, accident, or other benefits to members or their dependents or designated beneficiaries, and service performed in the employ of a school, college, or university, not exempt from income tax under section 501(a) of this title if such service is performed by a student who is enrolled and regularly attending classes.
+Subsec. (c)(10). Pub. L. 86–778, § 534, struck out provisions which excepted from definition of “employment” service in connection with the collection of dues or premiums for a fraternal beneficiary society, order, or association which is preformed away from the home office or is ritualistic service in connection with any such society, order, or association, service performed in the employ of an agricultural or horticultural organization described in section 501(c)(5) of this title, service performed in the employ of a voluntary employees’ beneficiary association providing for the payment of life, sick, accident, or other benefits to members or their dependents or designated beneficiaries, and service performed in the employ of a school, college, or university, not exempt from income tax under section 501(a) of this title if such service is performed by a student who is enrolled and regularly attending classes.
 
-Subsec. (j). Pub. L. 86–778, § 543(a), included the Commonwealth of Puerto Rico and struck out “Hawaii” from definition of “State”, defined “United States”, and inserted provisions requiring an individual who is a citizen of the Commonwealth of Puerto Rico (but not otherwise a citizen of the United States) to be considered for purposes of this section, as a citizen of the United States.
+Subsec. (j). Pub. L. 86–778, § 543(a), included the Commonwealth of Puerto Rico and struck out “Hawaii” from definition of “State”, defined “United States”, and inserted provisions requiring an individual who is a citizen of the Commonwealth of Puerto Rico (but not otherwise a citizen of the United States) to be considered for purposes of this section, as a citizen of the United States.
 
 Pub. L. 86–624 struck out “Hawaii, and” before “the District of Columbia”.
 
-Subsec. (m). Pub. L. 86–778, § 532(c), included aircraft in heading and defined “American aircraft”.
+Subsec. (m). Pub. L. 86–778, § 532(c), included aircraft in heading and defined “American aircraft”.
 
 1959—Subsec. (j). Pub. L. 86–70 struck out “Alaska,” before “Hawaii”.
 
@@ -3873,7 +3873,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 **Effective Date of 2012 Amendment; Transition Provision**
 
-Pub. L. 112–96, title II, § 2161(a)(2), (3), Feb. 22, 2012, 126 Stat. 172, provided that:
+Pub. L. 112–96, title II, § 2161(a)(2), (3), Feb. 22, 2012, 126 Stat. 172, provided that:
 
 > **“(2) Effective date.—** Subject to paragraph (3), the amendment made by paragraph (1) [amending this section] shall take effect on the date of the enactment of this Act [Feb. 22, 2012].
 
@@ -3903,7 +3903,7 @@ Amendment by Pub. L. 108–121 applicable to taxable years beginning after Dec. 
 
 **Effective Date of 2000 Amendment; Transition Rule**
 
-Pub. L. 106–554, § 1(a)(7) [title I, § 166(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, provided that:
+Pub. L. 106–554, § 1(a)(7) [title I, § 166(e)], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, provided that:
 
 > **“(1) Effective date.—** The amendments made by this section [amending this section and section 3309 of this title] shall apply to service performed on or after the date of the enactment of this Act [Dec. 21, 2000].
 
@@ -3915,13 +3915,13 @@ Pub. L. 106–554, § 1(a)(7) [title I, § 166(e)], Dec. 21, 2000, 114 Stat.
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–33, title V, § 5406(b), Aug. 5, 1997, 111 Stat. 605, provided that: “The amendments made by this section [amending this section] shall apply with respect to service performed after January 1, 1994.”
+Pub. L. 105–33, title V, § 5406(b), Aug. 5, 1997, 111 Stat. 605, provided that: “The amendments made by this section [amending this section] shall apply with respect to service performed after January 1, 1994.”
 
 **Effective Date of 1996 Amendments**
 
 Amendment by Pub. L. 104–191 applicable to taxable years beginning after Dec. 31, 1996, see section 301(j) of Pub. L. 104–191, set out as a note under section 62 of this title.
 
-Pub. L. 104–188, title I, § 1203(b), Aug. 20, 1996, 110 Stat. 1773, provided that: “The amendment made by subsection (a) [amending this section] shall apply to services performed after December 31, 1994.”
+Pub. L. 104–188, title I, § 1203(b), Aug. 20, 1996, 110 Stat. 1773, provided that: “The amendment made by subsection (a) [amending this section] shall apply to services performed after December 31, 1994.”
 
 Amendment by section 1421(b)(8)(C) of Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1421(e) of Pub. L. 104–188, set out as a note under section 72 of this title.
 
@@ -3933,7 +3933,7 @@ Amendment by Pub. L. 103–296 effective with calendar quarter following Aug. 15
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–182, title V, § 507(e), Dec. 8, 1993, 107 Stat. 2154, as amended by Pub. L. 105–306, § 3, Oct. 28, 1998, 112 Stat. 2926, which provided that section 507 of Pub. L. 103–182 took effect on Dec. 8, 1993, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title V, § 507(e), Dec. 8, 1993, 107 Stat. 2154, as amended by Pub. L. 105–306, § 3, Oct. 28, 1998, 112 Stat. 2926, which provided that section 507 of Pub. L. 103–182 took effect on Dec. 8, 1993, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 **Effective Date of 1992 Amendment**
 
@@ -3947,7 +3947,7 @@ Amendment by Pub. L. 101–140 effective as if included in section 1151 of Pub. 
 
 Amendment by section 1011B(a)(22)(C) of Pub. L. 100–647 not applicable to any individual who separated from service with the employer before Jan. 1, 1989, see section 1011B(a)(22)(F) of Pub. L. 100–647, set out as a note under section 3121 of this title.
 
-Pub. L. 100–647, title I, § 1018(u)(50), Nov. 10, 1988, 102 Stat. 3593, provided that the amendment made by that section is effective Apr. 7, 1986.
+Pub. L. 100–647, title I, § 1018(u)(50), Nov. 10, 1988, 102 Stat. 3593, provided that the amendment made by that section is effective Apr. 7, 1986.
 
 Amendment by sections 1001(d)(2)(C)(iii), (g)(4)(B)(ii), and 1011B(a)(23)(A) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -3971,7 +3971,7 @@ Amendment by section 491(d)(37) of Pub. L. 98–369 applicable to obligations is
 
 Amendment by section 531(d)(3) of Pub. L. 98–369 effective Jan. 1, 1985, see section 531(h) of Pub. L. 98–369, set out as an Effective Date note under section 132 of this title.
 
-Pub. L. 98–369, div. A, title X, § 1073(b), July 18, 1984, 98 Stat. 1053, provided that:
+Pub. L. 98–369, div. A, title X, § 1073(b), July 18, 1984, 98 Stat. 1053, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall take effect on January 1, 1986.
 
@@ -3983,11 +3983,11 @@ Pub. L. 98–369, div. A, title X, § 1073(b), July 18, 1984, 98 Stat. 1053, p
 
 > the amendment made by subsection (a) shall take effect on January 1, 1987.”
 
-Pub. L. 98–369, div. B, title VI, § 2661(*o*)(4), July 18, 1984, 98 Stat. 1159, provided that the amendment made by that section is effective Jan. 1, 1985.
+Pub. L. 98–369, div. B, title VI, § 2661(*o*)(4), July 18, 1984, 98 Stat. 1159, provided that the amendment made by that section is effective Jan. 1, 1985.
 
 **Effective Date of 1983 Amendments**
 
-Pub. L. 98–135, title II, § 201(b), Oct. 24, 1983, 97 Stat. 860, provided that: “The amendments made by subsection (a) [amending this section] shall apply to remuneration paid after the date of the enactment of this Act [Oct. 24, 1983].”
+Pub. L. 98–135, title II, § 201(b), Oct. 24, 1983, 97 Stat. 860, provided that: “The amendments made by subsection (a) [amending this section] shall apply to remuneration paid after the date of the enactment of this Act [Oct. 24, 1983].”
 
 Amendment by section 324(b)(1)–(4)(B) of Pub. L. 98–21 applicable to remuneration paid after Dec. 31, 1984, except for certain employer contributions made during 1984 under a qualified cash or deferred arrangement, and except in the case of an agreement with certain nonqualified deferred compensation plans in existence on Mar. 24, 1983, see section 324(d) of Pub. L. 98–21 set out as a note under section 3121 of this title.
 
@@ -4001,15 +4001,15 @@ Amendment by section 328(c) of Pub. L. 98–21 applicable to remuneration paid a
 
 Amendment by section 271(a) of Pub. L. 97–248 applicable to remuneration paid after Dec. 31, 1982, see section 271(d)(1) of Pub. L. 97–248, as amended, set out as a note under section 3301 of this title.
 
-Pub. L. 97–248, title II, § 276(a)(2), Sept. 3, 1982, 96 Stat. 558, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to services performed after the date of the enactment of this Act [Sept. 3, 1982].”
+Pub. L. 97–248, title II, § 276(a)(2), Sept. 3, 1982, 96 Stat. 558, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to services performed after the date of the enactment of this Act [Sept. 3, 1982].”
 
-Pub. L. 97–248, title II, § 276(b)(3), Sept. 3, 1982, 96 Stat. 559, provided that: “The amendments made by this subsection [amending this section] shall apply to remuneration paid after December 31, 1982, and before January 1, 1984.”
+Pub. L. 97–248, title II, § 276(b)(3), Sept. 3, 1982, 96 Stat. 559, provided that: “The amendments made by this subsection [amending this section] shall apply to remuneration paid after December 31, 1982, and before January 1, 1984.”
 
 **Effective Date of 1981 Amendment**
 
 Amendment by section 124(e)(2)(A) of Pub. L. 97–34 applicable to remuneration paid after Dec. 31, 1981, see section 124(f) of Pub. L. 97–34, set out as an Effective Date of 1981 Amendment note under section 21 of this title.
 
-Pub. L. 97–34, title VIII, § 822(b), Aug. 13, 1981, 95 Stat. 351, as amended by Pub. L. 97–362, title II, § 203, Oct. 25, 1982, 96 Stat. 1733; Pub. L. 98–369, div. A, title X, § 1074, July 18, 1984, 98 Stat. 1053; Pub. L. 99–272, title XIII, § 13303(c)(1), Apr. 7, 1986, 100 Stat. 327, provided that: “The amendments made by subsection (a) [amending this section] shall apply to remuneration paid after December 31, 1980.”
+Pub. L. 97–34, title VIII, § 822(b), Aug. 13, 1981, 95 Stat. 351, as amended by Pub. L. 97–362, title II, § 203, Oct. 25, 1982, 96 Stat. 1733; Pub. L. 98–369, div. A, title X, § 1074, July 18, 1984, 98 Stat. 1053; Pub. L. 99–272, title XIII, § 13303(c)(1), Apr. 7, 1986, 100 Stat. 327, provided that: “The amendments made by subsection (a) [amending this section] shall apply to remuneration paid after December 31, 1980.”
 
 **Effective Date of 1980 Amendments**
 
@@ -4019,7 +4019,7 @@ Amendment by Pub. L. 96–222 applicable to payments made on or after Jan. 1, 19
 
 **Effective Date of 1979 Amendment**
 
-Pub. L. 96–84, § 4(c), Oct. 10, 1979, 93 Stat. 654, provided that: “The amendments made by this section [amending this section] shall apply to remuneration paid after December 31, 1979, for services performed after such date.”
+Pub. L. 96–84, § 4(c), Oct. 10, 1979, 93 Stat. 654, provided that: “The amendments made by this section [amending this section] shall apply to remuneration paid after December 31, 1979, for services performed after such date.”
 
 **Effective Date of 1978 Amendments**
 
@@ -4033,31 +4033,31 @@ Amendment by Pub. L. 95–216 applicable with respect to wages paid after Dec. 3
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–566, title I, § 111(c), Oct. 20, 1976, 90 Stat. 2667, provided that: “The amendments made by this section [amending this section] shall apply with respect to remuneration paid after December 31, 1977, for services performed after such date.”
+Pub. L. 94–566, title I, § 111(c), Oct. 20, 1976, 90 Stat. 2667, provided that: “The amendments made by this section [amending this section] shall apply with respect to remuneration paid after December 31, 1977, for services performed after such date.”
 
-Pub. L. 94–566, title I, § 112(b), Oct. 20, 1976, 90 Stat. 2668, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to remuneration paid after December 31, 1977, for services performed after such date.”
+Pub. L. 94–566, title I, § 112(b), Oct. 20, 1976, 90 Stat. 2668, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to remuneration paid after December 31, 1977, for services performed after such date.”
 
-Pub. L. 94–566, title I, § 113(b), Oct. 20, 1976, 90 Stat. 2669, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to remuneration paid after December 31, 1977, for services performed after such date.”
+Pub. L. 94–566, title I, § 113(b), Oct. 20, 1976, 90 Stat. 2669, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to remuneration paid after December 31, 1977, for services performed after such date.”
 
-Pub. L. 94–566, title I, § 114(c), Oct. 20, 1976, 90 Stat. 2670, provided that: “The amendments made by this section [amending this section and section 6157 of this title] shall apply with respect to remuneration paid after December 31, 1977, for services performed after such date.”
+Pub. L. 94–566, title I, § 114(c), Oct. 20, 1976, 90 Stat. 2670, provided that: “The amendments made by this section [amending this section and section 6157 of this title] shall apply with respect to remuneration paid after December 31, 1977, for services performed after such date.”
 
 Amendment by section 116(b) of Pub. L. 94–566 applicable with respect to remuneration paid after Dec. 31 of the year in which the Secretary of Labor approves for the first time an unemployment compensation law submitted to him by the Virgin Islands for approval, for services performed after such Dec. 31, see section 116(f)(2) of Pub. L. 94–566, set out as a note under section 3304 of this title.
 
-Pub. L. 94–566, title II, § 211(d)(1), Oct. 20, 1976, 90 Stat. 2677, provided that: “The amendment made by subsection (a) [amending this section] shall apply to remuneration paid after December 31, 1977.”
+Pub. L. 94–566, title II, § 211(d)(1), Oct. 20, 1976, 90 Stat. 2677, provided that: “The amendment made by subsection (a) [amending this section] shall apply to remuneration paid after December 31, 1977.”
 
 **Effective Date of 1970 Amendment**
 
-Pub. L. 91–373, title I, § 101(c)(1), Aug. 10, 1970, 84 Stat. 696, provided that: “The amendments made by subsections (a) and (b)(1) [amending this section and section 6157 of this title] shall apply with respect to calendar years beginning after December 31, 1971.”
+Pub. L. 91–373, title I, § 101(c)(1), Aug. 10, 1970, 84 Stat. 696, provided that: “The amendments made by subsections (a) and (b)(1) [amending this section and section 6157 of this title] shall apply with respect to calendar years beginning after December 31, 1971.”
 
-Pub. L. 91–373, title I, § 102(c), Aug. 10, 1970, 84 Stat. 696, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to remuneration paid after December 31, 1971, for services performed after such date.”
+Pub. L. 91–373, title I, § 102(c), Aug. 10, 1970, 84 Stat. 696, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to remuneration paid after December 31, 1971, for services performed after such date.”
 
-Pub. L. 91–373, title I, § 103(b), Aug. 10, 1970, 84 Stat. 697, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to remuneration paid after December 31, 1971, for services performed after such date.”
+Pub. L. 91–373, title I, § 103(b), Aug. 10, 1970, 84 Stat. 697, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to remuneration paid after December 31, 1971, for services performed after such date.”
 
-Pub. L. 91–373, title I, § 105(c), Aug. 10, 1970, 84 Stat. 700, provided that: “The amendments made by this section [amending this section] shall apply with respect to service performed after December 31, 1971.”
+Pub. L. 91–373, title I, § 105(c), Aug. 10, 1970, 84 Stat. 700, provided that: “The amendments made by this section [amending this section] shall apply with respect to service performed after December 31, 1971.”
 
-Pub. L. 91–373, title I, § 106(b), Aug. 10, 1970, 84 Stat. 701, provided that: “Subsection (a) [amending this section] shall apply with respect to remuneration paid after December 31, 1969.”
+Pub. L. 91–373, title I, § 106(b), Aug. 10, 1970, 84 Stat. 701, provided that: “Subsection (a) [amending this section] shall apply with respect to remuneration paid after December 31, 1969.”
 
-Pub. L. 91–373, title III, § 302, Aug. 10, 1970, 84 Stat. 713, provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1971.
+Pub. L. 91–373, title III, § 302, Aug. 10, 1970, 84 Stat. 713, provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1971.
 
 **Effective Date of 1969 Amendment**
 
@@ -4083,7 +4083,7 @@ Amendment by Pub. L. 87–256 applicable with respect to service performed after
 
 Amendment by sections 531(c) and 532 to 534 of Pub. L. 86–778 applicable with respect to remuneration paid after 1961 for services performed after 1961, see section 535 of Pub. L. 86–778, set out as a note under section 3305 of this title.
 
-Pub. L. 86–778, title V, § 543(a), Sept. 13, 1960, 74 Stat. 986, provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1960, for services performed after such date.
+Pub. L. 86–778, title V, § 543(a), Sept. 13, 1960, 74 Stat. 986, provided that the amendment made by that section is effective with respect to remuneration paid after Dec. 31, 1960, for services performed after such date.
 
 Amendment by Pub. L. 86–624 effective on Aug. 21, 1959, see section 18(k) of Pub. L. 86–624, set out as a note under section 3121 of this title.
 
@@ -4093,13 +4093,13 @@ Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 22(i) of Pub. L
 
 **Effective Date of 1954 Amendment**
 
-Act Sept. 1, 1954, ch. 1212, § 1, 68 Stat. 1130, provided that the amendment made by that section is effective with respect to services performed after Dec. 31, 1955.
+Act Sept. 1, 1954, ch. 1212, § 1, 68 Stat. 1130, provided that the amendment made by that section is effective with respect to services performed after Dec. 31, 1955.
 
-Act Sept. 1, 1954, ch. 1212, § 4(c), 68 Stat. 1135, provided that the amendment made by that section is effective with respect to services performed after Dec. 31, 1954.
+Act Sept. 1, 1954, ch. 1212, § 4(c), 68 Stat. 1135, provided that the amendment made by that section is effective with respect to services performed after Dec. 31, 1954.
 
 **Technical Assistance and Guidance for Short-Time Compensation Programs**
 
-Pub. L. 116–127, div. D, § 4104, Mar. 18, 2020, 134 Stat. 194, which required the Secretary of Labor to provide States with technical assistance and guidance for short-time compensation programs, was repealed by Pub. L. 116–136, div. A, title II, § 2111(d), Mar. 27, 2020, 134 Stat. 333. See section 9029 of Title 15, Commerce and Trade.
+Pub. L. 116–127, div. D, § 4104, Mar. 18, 2020, 134 Stat. 194, which required the Secretary of Labor to provide States with technical assistance and guidance for short-time compensation programs, was repealed by Pub. L. 116–136, div. A, title II, § 2111(d), Mar. 27, 2020, 134 Stat. 333. See section 9029 of Title 15, Commerce and Trade.
 
 **No Inference To Be Drawn From Amendment by Pub. L. 108–121**
 
@@ -4107,7 +4107,7 @@ No inference to be drawn from amendment to subsec. (b)(13) of this section by se
 
 **Reporting Requirements**
 
-Pub. L. 103–182, title V, § 507(c), (d), Dec. 8, 1993, 107 Stat. 2154, which set out reporting requirements related to self-employment assistance programs, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Pub. L. 103–182, title V, § 507(c), (d), Dec. 8, 1993, 107 Stat. 2154, which set out reporting requirements related to self-employment assistance programs, was repealed by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 **Exclusion From Wages and Compensation of Refunds Required From Employers To Compensate for Duplication of Medicare Benefits by Health Care Benefits Provided by Employers**
 
@@ -4117,21 +4117,21 @@ For purposes of this chapter, the term “wages” shall not include the amount 
 
 No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
 
-**Plan Amendments Not Required Until January 1, 1998**
+**Plan Amendments Not Required Until January 1, 1998**
 
-For provisions directing that if any amendments made by subtitle D [§§ 1401–1465] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D [§§ 1401–1465] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
-**Plan Amendments Not Required Until January 1, 1994**
+**Plan Amendments Not Required Until January 1, 1994**
 
-For provisions directing that if any amendments made by subtitle B [§§ 521–523] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B [§§ 521–523] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
-**Plan Amendments Not Required Until January 1, 1989**
+**Plan Amendments Not Required Until January 1, 1989**
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 **Applicability of Unemployment Compensation Tax to Certain Services Performed for Certain Indian Tribal Governments**
 
-Pub. L. 99–514, title XVII, § 1705, Oct. 22, 1986, 100 Stat. 2780, provided that:
+Pub. L. 99–514, title XVII, § 1705, Oct. 22, 1986, 100 Stat. 2780, provided that:
 
 > **“(a) In General.—** For purposes of the Federal Unemployment Tax Act [26 U.S.C. 3301 et seq.], service performed in the employ of a qualified Indian tribal government shall not be treated as employment (within the meaning of section 3306 of such Act) if it is service—
 
@@ -4147,27 +4147,27 @@ Pub. L. 99–514, title XVII, § 1705, Oct. 22, 1986, 100 Stat. 2780, provided
 
 **Remuneration Paid After Sept. 30, 1985, to Full-Time Students Employed by Summer Camps**
 
-Pub. L. 99–272, title XIII, § 13303(b), Apr. 7, 1986, 100 Stat. 327, provided that: “Notwithstanding paragraph (3) of section 276(b) of the Tax Equity and Fiscal Responsibility Act of 1982 [see Effective Date of 1982 Amendments note above], the amendments made by paragraphs (1) and (2) of such section 276(b) [amending this section] shall also apply to remuneration paid after September 19, 1985.”
+Pub. L. 99–272, title XIII, § 13303(b), Apr. 7, 1986, 100 Stat. 327, provided that: “Notwithstanding paragraph (3) of section 276(b) of the Tax Equity and Fiscal Responsibility Act of 1982 [see Effective Date of 1982 Amendments note above], the amendments made by paragraphs (1) and (2) of such section 276(b) [amending this section] shall also apply to remuneration paid after September 19, 1985.”
 
 **Administration of Provisions Covering Payments to Employees on Account of Sickness or Accident Disability**
 
-Pub. L. 98–21, title III, § 324(b)(4)(C), Apr. 20, 1983, 97 Stat. 124, provided that: “Rules similar to the rules of subsections (d) and (e) of section 3 of the Act entitled ‘An Act to amend the Omnibus Reconciliation Act of 1981 to restore minimum benefits under the Social Security Act’ (Public Law 97–123), approved December 29, 1981 [set out as notes under section 3121 of this title], shall apply in the administration of section 3306(b)(2)(A) of such Code (as amended by subparagraph (A)).”
+Pub. L. 98–21, title III, § 324(b)(4)(C), Apr. 20, 1983, 97 Stat. 124, provided that: “Rules similar to the rules of subsections (d) and (e) of section 3 of the Act entitled ‘An Act to amend the Omnibus Reconciliation Act of 1981 to restore minimum benefits under the Social Security Act’ (Public Law 97–123), approved December 29, 1981 [set out as notes under section 3121 of this title], shall apply in the administration of section 3306(b)(2)(A) of such Code (as amended by subparagraph (A)).”
 
 **Applicability to Federal Land Banks, Federal Intermediate Credit Banks, and Banks for Cooperatives**
 
 Applicability of subsec. (c)(6) of this section to Federal land banks, Federal intermediate credit banks, and banks for cooperatives, see section 531(g) of Pub. L. 86–778, set out as a note under section 3305 of this title.
 
-## § 3307. Deductions as constructive payments
+## § 3307. Deductions as constructive payments
 
 Whenever under this chapter or any act of Congress, or under the law of any State, an employer is required or permitted to deduct any amount from the remuneration of an employee and to pay the amount deducted to the United States, a State, or any political subdivision thereof, then for purposes of this chapter the amount so deducted shall be considered to have been paid to the employee at the time of such deduction.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 454.)
 
-## § 3308. Instrumentalities of the United States
+## § 3308. Instrumentalities of the United States
 
 Notwithstanding any other provision of law (whether enacted before or after the enactment of this section) which grants to any instrumentality of the United States an exemption from taxation, such instrumentality shall not be exempt from the tax imposed by section 3301 unless such other provision of law grants a specific exemption, by reference to section 3301 (or the corresponding section of prior law), from the tax imposed by such section.
 
-(Added Pub. L. 86–778, title V, § 531(d)(1), Sept. 13, 1960, 74 Stat. 983.)
+(Added Pub. L. 86–778, title V, § 531(d)(1), Sept. 13, 1960, 74 Stat. 983.)
 
 **Editorial Notes**
 
@@ -4189,7 +4189,7 @@ Section applicable with respect to remuneration paid after 1961 for services per
 
 Applicability of this section to Federal land banks, Federal intermediate credit banks, and banks for cooperatives, see section 531(g) of Pub. L. 86–778, set out as a note under section 3305 of this title.
 
-## § 3309. State law coverage of services performed for nonprofit organizations or governmental entities
+## § 3309. State law coverage of services performed for nonprofit organizations or governmental entities
 
 **(a) State law requirements** For purposes of section 3304(a)(6)—
 
@@ -4241,7 +4241,7 @@ This section shall not apply to service performed during any calendar year in th
 
 The State law shall provide that an Indian tribe may make contributions for employment as if the employment is within the meaning of section 3306 or make payments in lieu of contributions under this section, and shall provide that an Indian tribe may make separate elections for itself and each subdivision, subsidiary, or business enterprise wholly owned by such Indian tribe. State law may require a tribe to post a payment bond or take other reasonable measures to assure the making of payments in lieu of contributions under this section. Notwithstanding the requirements of section 3306(a)(6), if, within 90 days of having received a notice of delinquency, a tribe fails to make contributions, payments in lieu of contributions, or payment of penalties or interest (at amounts or rates comparable to those applied to all other employers covered under the State law) assessed with respect to such failure, or if the tribe fails to post a required payment bond, then service for the tribe shall not be excepted from employment under section 3306(c)(7) until any such failure is corrected. This subsection shall apply to an Indian tribe within the meaning of section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(e)).
 
-(Added Pub. L. 91–373, title I, § 104(b)(1), Aug. 10, 1970, 84 Stat. 697; amended Pub. L. 94–566, title I, § 115(a), (b), (c)(2), (3), title V, § 506(a), Oct. 20, 1976, 90 Stat. 2670, 2671, 2687; Pub. L. 95–19, title III, § 302(b), Apr. 12, 1977, 91 Stat. 44; Pub. L. 105–33, title V, §§ 5405(a), 5407(a), Aug. 5, 1997, 111 Stat. 604, 605; Pub. L. 106–554, § 1(a)(7) [title I, § 166(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 115–141, div. U, title IV, § 401(a)(216), Mar. 23, 2018, 132 Stat. 1194.)
+(Added Pub. L. 91–373, title I, § 104(b)(1), Aug. 10, 1970, 84 Stat. 697; amended Pub. L. 94–566, title I, § 115(a), (b), (c)(2), (3), title V, § 506(a), Oct. 20, 1976, 90 Stat. 2670, 2671, 2687; Pub. L. 95–19, title III, § 302(b), Apr. 12, 1977, 91 Stat. 44; Pub. L. 105–33, title V, §§ 5405(a), 5407(a), Aug. 5, 1997, 111 Stat. 604, 605; Pub. L. 106–554, § 1(a)(7) [title I, § 166(b), (c)], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 115–141, div. U, title IV, § 401(a)(216), Mar. 23, 2018, 132 Stat. 1194.)
 
 **Editorial Notes**
 
@@ -4253,33 +4253,33 @@ A prior section 3309 was renumbered section 3311 of this title.
 
 2018—Subsec. (d). Pub. L. 115–141 substituted “25 U.S.C. 5304(e)” for “25 U.S.C. 450b(e)”.
 
-2000—Subsec. (a)(2). Pub. L. 106–554, § 1(a)(7) [title I, § 166(b)(1)], inserted “, including an Indian tribe,” after “the State law shall provide that a governmental entity”.
+2000—Subsec. (a)(2). Pub. L. 106–554, § 1(a)(7) [title I, § 166(b)(1)], inserted “, including an Indian tribe,” after “the State law shall provide that a governmental entity”.
 
-Subsec. (b)(3)(B). Pub. L. 106–554, § 1(a)(7) [title I, § 166(b)(2)], inserted “, or of an Indian tribe” before semicolon at end.
+Subsec. (b)(3)(B). Pub. L. 106–554, § 1(a)(7) [title I, § 166(b)(2)], inserted “, or of an Indian tribe” before semicolon at end.
 
-Subsec. (b)(3)(E). Pub. L. 106–554, § 1(a)(7) [title I, § 166(b)(3)], inserted “or tribal” after “the State”.
+Subsec. (b)(3)(E). Pub. L. 106–554, § 1(a)(7) [title I, § 166(b)(3)], inserted “or tribal” after “the State”.
 
-Subsec. (b)(5). Pub. L. 106–554, § 1(a)(7) [title I, § 166(b)(4)], inserted “or of an Indian tribe” after “an agency of a State or political subdivision thereof”.
+Subsec. (b)(5). Pub. L. 106–554, § 1(a)(7) [title I, § 166(b)(4)], inserted “or of an Indian tribe” after “an agency of a State or political subdivision thereof”.
 
-Subsec. (d). Pub. L. 106–554, § 1(a)(7) [title I, § 166(c)], added subsec. (d).
+Subsec. (d). Pub. L. 106–554, § 1(a)(7) [title I, § 166(c)], added subsec. (d).
 
-1997—Subsec. (b)(1)(C). Pub. L. 105–33, § 5407(a), added subpar. (C).
+1997—Subsec. (b)(1)(C). Pub. L. 105–33, § 5407(a), added subpar. (C).
 
-Subsec. (b)(3)(F). Pub. L. 105–33, § 5405(a), added subpar. (F).
+Subsec. (b)(3)(F). Pub. L. 105–33, § 5405(a), added subpar. (F).
 
 1977—Subsec. (a)(2). Pub. L. 95–19 substituted “(or group of governmental entities or other organizations)” for “(or group of organizations)”.
 
-1976—Pub. L. 94–566, § 115(c)(3), substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in section catchline.
+1976—Pub. L. 94–566, § 115(c)(3), substituted “services performed for nonprofit organizations or governmental entities” for “certain services performed for nonprofit organizations and for State hospitals and institutions of higher education” in section catchline.
 
-Subsec. (a)(1)(B). Pub. L. 94–566, § 115(a), struck out “performed in the employ of the State, or any instrumentality of the State or of the State and one or more other States, for a hospital or institution of higher education located in the State, if such service is” after “service”.
+Subsec. (a)(1)(B). Pub. L. 94–566, § 115(a), struck out “performed in the employ of the State, or any instrumentality of the State or of the State and one or more other States, for a hospital or institution of higher education located in the State, if such service is” after “service”.
 
-Subsec. (a)(2). Pub. L. 94–566, § 506(a), substituted “a governmental entity or any other organization” for “an organization”, “paragraph (1)” for “paragraph (1)(A)”, and “that governmental entities or other organizations” for “that organizations”.
+Subsec. (a)(2). Pub. L. 94–566, § 506(a), substituted “a governmental entity or any other organization” for “an organization”, “paragraph (1)” for “paragraph (1)(A)”, and “that governmental entities or other organizations” for “that organizations”.
 
-Subsec. (b)(3). Pub. L. 94–566, § 115(b)(1), substituted reference to services performed in the employ of a governmental entity referred to in paragraph (7) of section 3306(c), if such services are performed by an individual in the exercise of his duties as an elected official, as a member of a legislative body, or a member of the judiciary, of a State or political subdivision thereof, as a member of the State National Guard or Air National Guard, as an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency, or in a position which, under or pursuant to the State law, is designated as a major nontenured policymaker or advisory position or a policymaking or advisory position the performance of the duties of which ordinarily does not require more than 8 hours per week, for reference to services performed in the employ of a school which is not an institution of higher education.
+Subsec. (b)(3). Pub. L. 94–566, § 115(b)(1), substituted reference to services performed in the employ of a governmental entity referred to in paragraph (7) of section 3306(c), if such services are performed by an individual in the exercise of his duties as an elected official, as a member of a legislative body, or a member of the judiciary, of a State or political subdivision thereof, as a member of the State National Guard or Air National Guard, as an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency, or in a position which, under or pursuant to the State law, is designated as a major nontenured policymaker or advisory position or a policymaking or advisory position the performance of the duties of which ordinarily does not require more than 8 hours per week, for reference to services performed in the employ of a school which is not an institution of higher education.
 
-Subsec. (b)(6). Pub. L. 94–566, § 115(b)(2), substituted “by an inmate of a custodial or penal institution” for “for a hospital in a State prison or other State correctional institution by an inmate of the prison or correctional institution”.
+Subsec. (b)(6). Pub. L. 94–566, § 115(b)(2), substituted “by an inmate of a custodial or penal institution” for “for a hospital in a State prison or other State correctional institution by an inmate of the prison or correctional institution”.
 
-Subsec. (d). Pub. L. 94–566, § 115(c)(2), struck out subsec. (d) which defined “institution of higher education”. See section 3304(f) of this title.
+Subsec. (d). Pub. L. 94–566, § 115(c)(2), struck out subsec. (d) which defined “institution of higher education”. See section 3304(f) of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4289,13 +4289,13 @@ Amendment by Pub. L. 106–554 applicable to service performed on or after Dec. 
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–33, title V, § 5405(b), Aug. 5, 1997, 111 Stat. 605, provided that: “The amendments made by this section [amending this section] shall apply with respect to service performed after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–33, title V, § 5405(b), Aug. 5, 1997, 111 Stat. 605, provided that: “The amendments made by this section [amending this section] shall apply with respect to service performed after the date of the enactment of this Act [Aug. 5, 1997].”
 
-Pub. L. 105–33, title V, § 5407(b), Aug. 5, 1997, 111 Stat. 605, provided that: “The amendments made by this section [amending this section] shall apply with respect to service performed after the date of the enactment of this Act [Aug. 5, 1997].”
+Pub. L. 105–33, title V, § 5407(b), Aug. 5, 1997, 111 Stat. 605, provided that: “The amendments made by this section [amending this section] shall apply with respect to service performed after the date of the enactment of this Act [Aug. 5, 1997].”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–19, title III, § 302(d)(2), Apr. 12, 1977, 91 Stat. 45, provided that: “The amendment made by subsection (b) [amending this section] shall take effect as if included in the amendments made by section 506 of the Unemployment Compensation Amendments of 1976 [which amended this section in 1976, see Effective Date of 1976 Amendment note below].”
+Pub. L. 95–19, title III, § 302(d)(2), Apr. 12, 1977, 91 Stat. 45, provided that: “The amendment made by subsection (b) [amending this section] shall take effect as if included in the amendments made by section 506 of the Unemployment Compensation Amendments of 1976 [which amended this section in 1976, see Effective Date of 1976 Amendment note below].”
 
 **Effective Date of 1976 Amendment**
 
@@ -4307,7 +4307,7 @@ For effective date of amendment by section 506(a) of Pub. L. 94–566, see secti
 
 Section applicable with respect to certifications of State laws for 1972 and subsequent years, but only with respect to service performed after Dec. 31, 1971, see section 104(d)(1) of Pub. L. 91–373, set out as a note under section 3304 of this title.
 
-## § 3310. Judicial review
+## § 3310. Judicial review
 
 **(a) In general**
 
@@ -4327,7 +4327,7 @@ The court shall have jurisdiction to affirm the action of the Secretary of Labor
 
 **(2)** The commencement of judicial proceedings under this section shall stay the Secretary of Labor’s action for a period of 30 days, and the court may thereafter grant interim relief if warranted, including a further stay of the Secretary of Labor’s action and including such other relief as may be necessary to preserve status or rights.
 
-(Added Pub. L. 91–373, title I, § 131(b)(1), Aug. 10, 1970, 84 Stat. 703; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(F), (H), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 98–620, title IV, § 402(28)(A), Nov. 8, 1984, 98 Stat. 3359.)
+(Added Pub. L. 91–373, title I, § 131(b)(1), Aug. 10, 1970, 84 Stat. 703; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(F), (H), Oct. 4, 1976, 90 Stat. 1835; Pub. L. 98–620, title IV, § 402(28)(A), Nov. 8, 1984, 98 Stat. 3359.)
 
 **Editorial Notes**
 
@@ -4335,9 +4335,9 @@ The court shall have jurisdiction to affirm the action of the Secretary of Labor
 
 1984—Subsec. (e). Pub. L. 98–620 struck out subsec. (e) which had provided that any judicial proceedings under this section were entitled to, and upon request of the Secretary of Labor or of the State would receive, a preference and would be heard and determined as expeditiously as possible.
 
-1976—Subsec. (d)(2). Pub. L. 94–455, § 1906(b)(13)(F), substituted “the Secretary of Labor’s action” for “the Secretary’s action” in two places.
+1976—Subsec. (d)(2). Pub. L. 94–455, § 1906(b)(13)(F), substituted “the Secretary of Labor’s action” for “the Secretary’s action” in two places.
 
-Subsec. (e). Pub. L. 94–455, § 1906(b)(13)(H), substituted “of the Secretary of Labor” for “of the Secretary”.
+Subsec. (e). Pub. L. 94–455, § 1906(b)(13)(H), substituted “of the Secretary of Labor” for “of the Secretary”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -4345,22 +4345,22 @@ Subsec. (e). Pub. L. 94–455, § 1906(b)(13)(H), substituted “of the Secret
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-## § 3311. Short title
+## § 3311. Short title
 
 This chapter may be cited as the “Federal Unemployment Tax Act.”
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 454, § 3308; renumbered § 3309, Pub. L. 86–778, title V, § 531(d)(1), Sept. 13, 1960, 74 Stat. 983; renumbered § 3311, Pub. L. 91–373, title I, § 104(b)(1), Aug. 10, 1970, 84 Stat. 697.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 454, § 3308; renumbered § 3309, Pub. L. 86–778, title V, § 531(d)(1), Sept. 13, 1960, 74 Stat. 983; renumbered § 3311, Pub. L. 91–373, title I, § 104(b)(1), Aug. 10, 1970, 84 Stat. 697.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–566, § 1, Oct. 20, 1976, 90 Stat. 2667, provided that: “This Act [enacting section 603a of Title 42, The Public Health and Welfare, amending section 3304 of this title and provisions set out as notes under sections 3301, 3303, 3304, 3306, 3309, and 6157 of this title, sections 8501, 8503, 8504, 8505, 8506, 8521, and 8522 of Title 5, Government Organization and Employees, sections 49b and 49d of Title 29, Labor, and sections 607, 1101, 1105, 1301, 1321, 1382, 1382a, 1382d, and 1382e of Title 42, and enacting provisions set out as notes under sections 3301, 3303, 3304, and 3306 of this title, sections 8501 and 8506 of Title 5, and sections 607, 1101, 1321, 1382, 1382d, 1382e, and 1396a of Title 42] may be cited as the ‘Unemployment Compensation Amendments of 1976’.”
+Pub. L. 94–566, § 1, Oct. 20, 1976, 90 Stat. 2667, provided that: “This Act [enacting section 603a of Title 42, The Public Health and Welfare, amending section 3304 of this title and provisions set out as notes under sections 3301, 3303, 3304, 3306, 3309, and 6157 of this title, sections 8501, 8503, 8504, 8505, 8506, 8521, and 8522 of Title 5, Government Organization and Employees, sections 49b and 49d of Title 29, Labor, and sections 607, 1101, 1105, 1301, 1321, 1382, 1382a, 1382d, and 1382e of Title 42, and enacting provisions set out as notes under sections 3301, 3303, 3304, and 3306 of this title, sections 8501 and 8506 of Title 5, and sections 607, 1101, 1321, 1382, 1382d, 1382e, and 1396a of Title 42] may be cited as the ‘Unemployment Compensation Amendments of 1976’.”
 
 **Short Title of 1975 Amendment**
 
-Pub. L. 94–45, § 1, June 30, 1975, 89 Stat. 236, provided that: “This Act [amending sections 44 and 3302 of this title and amending provisions set out as notes under sections 44 and 3304 of this title and enacting provisions set out as notes under sections 3302 and 3304 of this title] may be cited as the ‘Emergency Compensation and Special Unemployment Assistance Extension Act of 1975’.”
+Pub. L. 94–45, § 1, June 30, 1975, 89 Stat. 236, provided that: “This Act [amending sections 44 and 3302 of this title and amending provisions set out as notes under sections 44 and 3304 of this title and enacting provisions set out as notes under sections 3302 and 3304 of this title] may be cited as the ‘Emergency Compensation and Special Unemployment Assistance Extension Act of 1975’.”
 
 **Short Title of 1970 Amendment**
 
-Pub. L. 91–373, § 1, Aug. 10, 1970, 84 Stat. 695, provided: “That this Act [enacting sections 3309 and 3310 of this title and sections 504, 1106, 1107, and 1108 of Title 42, The Public Health and Welfare, repealing section 8524 of Title 5, Government Organization and Employees, and amending sections 1563, 3301 to 3306, and 6157 of this title, sections 77c and 78c of Title 15, Commerce and Trade, and sections 1101, 1102, 1103, 1105, and 1323 of Title 42, and enacting provisions set out as notes under sections 3301 to 3304, 3306, and 6157 of this title, section 77c of Title 15, and section 1101 of Title 42] may be cited as the ‘Employment Security Amendments of 1970’.”
+Pub. L. 91–373, § 1, Aug. 10, 1970, 84 Stat. 695, provided: “That this Act [enacting sections 3309 and 3310 of this title and sections 504, 1106, 1107, and 1108 of Title 42, The Public Health and Welfare, repealing section 8524 of Title 5, Government Organization and Employees, and amending sections 1563, 3301 to 3306, and 6157 of this title, sections 77c and 78c of Title 15, Commerce and Trade, and sections 1101, 1102, 1103, 1105, and 1323 of Title 42, and enacting provisions set out as notes under sections 3301 to 3304, 3306, and 6157 of this title, section 77c of Title 15, and section 1101 of Title 42] may be cited as the ‘Employment Security Amendments of 1970’.”

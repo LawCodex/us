@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 225—VERDICT
 
-## § 3531. Return; several defendants; conviction of less offense; poll of jury—(Rule)
+## § 3531. Return; several defendants; conviction of less offense; poll of jury—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 
@@ -23,7 +23,7 @@ Verdict to be unanimous; return; several defendants; disagreement; conviction of
 
 (June 25, 1948, ch. 645, 62 Stat. 837.)
 
-## § 3532. Setting aside verdict of guilty; judgment notwithstanding verdict—(Rule)
+## § 3532. Setting aside verdict of guilty; judgment notwithstanding verdict—(Rule)
 
 **See Federal Rules of Criminal Procedure**
 

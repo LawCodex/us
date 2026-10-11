@@ -21,9 +21,9 @@ retrieved: 2026-10-11
 
 **Codification**
 
-1955—Sections 1621 to 1627 of this title, which constituted the International Claims Settlement Act of 1949, were designated title I of such Act, herein referred to as subchapter I for purposes of codification, by act Aug. 9, 1955, ch. 645, § 1, 69 Stat. 562.
+1955—Sections 1621 to 1627 of this title, which constituted the International Claims Settlement Act of 1949, were designated title I of such Act, herein referred to as subchapter I for purposes of codification, by act Aug. 9, 1955, ch. 645, § 1, 69 Stat. 562.
 
-### § 1621. Definitions
+### § 1621. Definitions
 
 For the purposes of this subchapter—
 
@@ -35,7 +35,7 @@ For the purposes of this subchapter—
 
 **(d)** The term “Yugoslav Claims Agreement of 1948” means the agreement between the Governments of the United States of America and of the Federal People’s Republic of Yugoslavia regarding pecuniary claims of the United States and its nationals, signed July 19, 1948.
 
-(Mar. 10, 1950, ch. 54, title I, § 2, 64 Stat. 13; Aug. 9, 1955, ch. 645, §§ 1, 2, 69 Stat. 562.)
+(Mar. 10, 1950, ch. 54, title I, § 2, 64 Stat. 13; Aug. 9, 1955, ch. 645, §§ 1, 2, 69 Stat. 562.)
 
 **Editorial Notes**
 
@@ -45,9 +45,9 @@ For definition of Canal Zone, referred to in subsec. (b), see section 3602(b) of
 
 **Amendments**
 
-1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
+1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 
-Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter” in opening phrase.
+Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter” in opening phrase.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -57,27 +57,27 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 **Short Title of 2026 Amendment**
 
-Pub. L. 119–82, § 1, Apr. 13, 2026, 140 Stat. 752, provided that: “This Act [enacting and amending provisions set out as notes below] may be cited as the ‘Holocaust Expropriated Art Recovery Act of 2025’.”
+Pub. L. 119–82, § 1, Apr. 13, 2026, 140 Stat. 752, provided that: “This Act [enacting and amending provisions set out as notes below] may be cited as the ‘Holocaust Expropriated Art Recovery Act of 2025’.”
 
 **Short Title of 1999 Amendment**
 
-Pub. L. 106–155, § 1, Dec. 9, 1999, 113 Stat. 1740, provided that: “This Act [amending provisions set out as a note below] may be cited as the ‘U.S. Holocaust Assets Commission Extension Act of 1999’.”
+Pub. L. 106–155, § 1, Dec. 9, 1999, 113 Stat. 1740, provided that: “This Act [amending provisions set out as a note below] may be cited as the ‘U.S. Holocaust Assets Commission Extension Act of 1999’.”
 
 **Short Title**
 
-Act Mar. 10, 1950, ch. 54, § 1, 64 Stat. 12, provided that: “This Act [enacting this chapter] may be cited as the ‘International Claims Settlement Act of 1949’.”
+Act Mar. 10, 1950, ch. 54, § 1, 64 Stat. 12, provided that: “This Act [enacting this chapter] may be cited as the ‘International Claims Settlement Act of 1949’.”
 
 **Titles of Act**
 
-Act Aug. 9, 1955, ch. 645, §§ 1, 3, 69 Stat. 562, designated sections 1621 to 1627 of this title as “Title I” of act Mar. 10, 1950, which is classified to subchapter I of this chapter and added “Title II—Vesting and Liquidation of Bulgarian, Hungarian, and Rumanian Property” and “Title III—Claims Against Bulgaria, Hungary, Rumania, Italy, and the Soviet Union”, which are classified to subchapters II and III, respectively, of this chapter. Pub. L. 85–604 added Title IV, Claims Against Czechoslovakia, which is classified to subchapter IV of this chapter. Pub. L. 88–666 added Title V, Claims Against Cuba and China, which is classified to subchapter V of this chapter. Pub. L. 94–542 added Title VI, Claims Against German Democratic Republic, which is classified to subchapter VI of this chapter. Pub. L. 96–606 added Title VII, Claims Against Vietnam, which is classified to subchapter VII of this chapter.
+Act Aug. 9, 1955, ch. 645, §§ 1, 3, 69 Stat. 562, designated sections 1621 to 1627 of this title as “Title I” of act Mar. 10, 1950, which is classified to subchapter I of this chapter and added “Title II—Vesting and Liquidation of Bulgarian, Hungarian, and Rumanian Property” and “Title III—Claims Against Bulgaria, Hungary, Rumania, Italy, and the Soviet Union”, which are classified to subchapters II and III, respectively, of this chapter. Pub. L. 85–604 added Title IV, Claims Against Czechoslovakia, which is classified to subchapter IV of this chapter. Pub. L. 88–666 added Title V, Claims Against Cuba and China, which is classified to subchapter V of this chapter. Pub. L. 94–542 added Title VI, Claims Against German Democratic Republic, which is classified to subchapter VI of this chapter. Pub. L. 96–606 added Title VII, Claims Against Vietnam, which is classified to subchapter VII of this chapter.
 
 **Appropriations**
 
-Act Mar. 10, 1950, ch. 54, § 9, 64 Stat. 18, provided that: “There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Commission to carry out its functions under this Act [enacting this chapter].”
+Act Mar. 10, 1950, ch. 54, § 9, 64 Stat. 18, provided that: “There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to enable the Commission to carry out its functions under this Act [enacting this chapter].”
 
 **Guam World War II Loyalty Recognition**
 
-Pub. L. 114–328, div. A, title XVII, Dec. 23, 2016, 130 Stat. 2642, as amended by Pub. L. 116–132, § 1, Mar. 26, 2020, 134 Stat. 273, provided that:
+Pub. L. 114–328, div. A, title XVII, Dec. 23, 2016, 130 Stat. 2642, as amended by Pub. L. 116–132, § 1, Mar. 26, 2020, 134 Stat. 273, provided that:
 
 > **“SEC. 1701. SHORT TITLE.**
 
@@ -221,15 +221,15 @@ Pub. L. 114–328, div. A, title XVII, Dec. 23, 2016, 130 Stat. 2642, as amended
 
 > **“SEC. 1707. AUTHORIZATION OF APPROPRIATIONS.**
 
-> [“(a) Repealed. Pub. L. 116–132, § 1(3), Mar. 26, 2020, 134 Stat. 273.]
+> [“(a) Repealed. Pub. L. 116–132, § 1(3), Mar. 26, 2020, 134 Stat. 273.]
 
 > **“(b) Guam World War II Grants Program.—** For purposes of carrying out section 1706, there are authorized to be appropriated $5,000,000 for each fiscal year beginning after the date of the enactment of this Act [Dec. 23, 2016].”
 
-[Pub. L. 116–132, § 1(2), which directed amendment of section 1704(a) of Pub. L. 114–328, set out above, by substituting “from the Claims Fund” for “, subject to the availability of appropriations,”, was executed by making the substitution for “, subject to the availably of appropriations,” to reflect the probable intent of Congress.]
+[Pub. L. 116–132, § 1(2), which directed amendment of section 1704(a) of Pub. L. 114–328, set out above, by substituting “from the Claims Fund” for “, subject to the availability of appropriations,”, was executed by making the substitution for “, subject to the availably of appropriations,” to reflect the probable intent of Congress.]
 
 **Holocaust Expropriated Art Recovery**
 
-Pub. L. 114–308, Dec. 16, 2016, 130 Stat. 1524, as amended by Pub. L. 119–82, § 2(a), Apr. 13, 2026, 140 Stat. 752, provided that:
+Pub. L. 114–308, Dec. 16, 2016, 130 Stat. 1524, as amended by Pub. L. 119–82, § 2(a), Apr. 13, 2026, 140 Stat. 752, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -345,7 +345,7 @@ Pub. L. 114–308, Dec. 16, 2016, 130 Stat. 1524, as amended by Pub. L. 119–82
 
 > “If any provision of this Act, or the application of a provision of this Act to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons and circumstances, shall not be affected thereby.”
 
-[Pub. L. 119–82, § 2(b), Apr. 13, 2026, 140 Stat. 754, provided that:
+[Pub. L. 119–82, § 2(b), Apr. 13, 2026, 140 Stat. 754, provided that:
 
 > “The amendments made by subsection (a) [amending Pub. L. 114–308, set out above] shall apply with respect to any civil claim or cause of action that is—
 
@@ -357,7 +357,7 @@ Pub. L. 114–308, Dec. 16, 2016, 130 Stat. 1524, as amended by Pub. L. 119–82
 
 **United States Holocaust Assets Commission**
 
-Pub. L. 105–186, June 23, 1998, 112 Stat. 611, as amended by Pub. L. 106–155, § 2, Dec. 9, 1999, 113 Stat. 1740; Pub. L. 117–286, § 4(a)(164), Dec. 27, 2022, 136 Stat. 4323, provided that:
+Pub. L. 105–186, June 23, 1998, 112 Stat. 611, as amended by Pub. L. 106–155, § 2, Dec. 9, 1999, 113 Stat. 1740; Pub. L. 117–286, § 4(a)(164), Dec. 27, 2022, 136 Stat. 4323, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -571,21 +571,21 @@ Pub. L. 105–186, June 23, 1998, 112 Stat. 611, as amended by Pub. L. 106–155
 
 **Abolition of International Claims Commission and Transfer of Functions**
 
-International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
+International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
-### § 1622. Establishment of International Claims Commission
+### § 1622. Establishment of International Claims Commission
 
-**(a) , (b) Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 656**
+**(a) , (b) Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 656**
 
 **(c) Rules and regulations; termination date; removal of personnel; reports**
 
-The Commission may prescribe such rules and regulations as may be necessary to enable it to carry out its functions, and may delegate functions to any member, officer, or employee of the Commission. The President may fix a termination date for the authority of the Commission, and the terms of office of its members under this subchapter. Any member of the Commission may be removed by the Secretary of State, upon notice and hearing, for neglect of duty, or malfeasance in office, but for no other cause. Not later than six months after its organization, and every six months 1
+The Commission may prescribe such rules and regulations as may be necessary to enable it to carry out its functions, and may delegate functions to any member, officer, or employee of the Commission. The President may fix a termination date for the authority of the Commission, and the terms of office of its members under this subchapter. Any member of the Commission may be removed by the Secretary of State, upon notice and hearing, for neglect of duty, or malfeasance in office, but for no other cause. Not later than six months after its organization, and every six months 1
 
-<sup>1</sup>  See Modification of Reporting Requirements note below.
+<sup>1</sup> See Modification of Reporting Requirements note below.
 
 thereafter, the Commission shall make a report, through the Secretary of State, to the Congress concerning its operations under this subchapter. The Commission shall, upon completion of its work, certify in duplicate to the Secretary of State and to the Secretary of the Treasury the following: (1) A list of all claims disallowed; (2) a list of all claims allowed, in whole or in part, together with the amount of each claim and the amount awarded thereon; and (3) a copy of the decision rendered in each case.
 
-(Mar. 10, 1950, ch. 54, title I, § 3, 64 Stat. 13; Aug. 8, 1953, ch. 396, § 3, 67 Stat. 506; 1954 Reorg. Plan No. 1, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279; Aug. 9, 1955, ch. 645, §§ 1, 2, 69 Stat. 562; Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 656, 657.)
+(Mar. 10, 1950, ch. 54, title I, § 3, 64 Stat. 13; Aug. 8, 1953, ch. 396, § 3, 67 Stat. 506; 1954 Reorg. Plan No. 1, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279; Aug. 9, 1955, ch. 645, §§ 1, 2, 69 Stat. 562; Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 656, 657.)
 
 **Editorial Notes**
 
@@ -597,9 +597,9 @@ Subsec. (b). Pub. L. 89–554 repealed subsec. (b) which provided for the princi
 
 Subsec. (d). Pub. L. 89–554 repealed subsec. (d) which related to a limitation on additional appointments to the Commission.
 
-1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
+1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 
-Subsec. (c). Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter”.
+Subsec. (c). Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter”.
 
 1953—Act Aug. 8, 1953, added par. at end which was editorially designated as subsec. (d).
 
@@ -611,17 +611,17 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 **Modification of Reporting Requirements**
 
-Pub. L. 89–348, § 2(7), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of subsec. (c) of this section as follows: “From semiannual to annual submission to the Congress by the Foreign Claims Settlement Commission of the United States of a report concerning its operations under the International Claims Settlement Act of 1949 (64 Stat. 13; 22 U.S.C. 1622(c)).”
+Pub. L. 89–348, § 2(7), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of subsec. (c) of this section as follows: “From semiannual to annual submission to the Congress by the Foreign Claims Settlement Commission of the United States of a report concerning its operations under the International Claims Settlement Act of 1949 (64 Stat. 13; 22 U.S.C. 1622(c)).”
 
 **Executive Documents**
 
 **Abolition of International Claims Commission**
 
-International Claims Commission of the United States abolished by Reorg. Plan No. 1 of 1954, § 4(a), eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note below.
+International Claims Commission of the United States abolished by Reorg. Plan No. 1 of 1954, § 4(a), eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note below.
 
 **Abolition of Functions of Secretary of State**
 
-The functions of the Secretary of State under the third and fourth sentences of subsec. (c) of this section were abolished by Reorg. Plan No. 1 of 1954, § 4(b), eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note below.
+The functions of the Secretary of State under the third and fourth sentences of subsec. (c) of this section were abolished by Reorg. Plan No. 1 of 1954, § 4(b), eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note below.
 
 ****REORGANIZATION PLAN NO. 1 OF 1954**
 Eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279**
@@ -716,11 +716,11 @@ Dwight D. Eisenhower.
 
 The White House, April 29, 1954.
 
-### § 1622a. Transfer of Foreign Claims Settlement Commission of the United States to Department of Justice
+### § 1622a. Transfer of Foreign Claims Settlement Commission of the United States to Department of Justice
 
 The Foreign Claims Settlement Commission of the United States, established under Reorganization Plan Numbered 1 of 1954, is hereby transferred to the Department of Justice as a separate agency within that Department.
 
-(Pub. L. 96–209, title I, § 101, Mar. 14, 1980, 94 Stat. 96.)
+(Pub. L. 96–209, title I, § 101, Mar. 14, 1980, 94 Stat. 96.)
 
 **Editorial Notes**
 
@@ -742,11 +742,11 @@ Pub. L. 96–209, title VI, Mar. 14, 1980, 94 Stat. 99, provided that: “This A
 
 Pub. L. 96–209, title V, Mar. 14, 1980, 94 Stat. 98, provided that: “The Director of the Office of Management and Budget is authorized and directed to make such determinations as may be necessary with regard to the transfer of functions, powers, and duties pursuant to this Act [enacting sections 1622a to 1622g of this title, amending sections 5316 of Title 5, Government Organization and Employees, and 4101 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and sections 363 of former Title 31, Money and Finance, and 7546 of Title 42, The Public Health and Welfare], and to make such additional incidental dispositions of personnel, assets, liabilities, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to or to be made available in connection with the functions transferred by this Act, as the Director may deem necessary to accomplish the purposes of this Act. The Director is further authorized and directed to provide for terminating the affairs of each agency, board, or commission [Annual Assay Commission under section 363 of former Title 31, the Low-Emission Vehicle Certification Board under section 7546 of Title 42, and the United States Marine Corps Memorial Commission] abolished by this Act.”
 
-### § 1622b. Transfer of functions, powers, and duties of Foreign Claims Settlement Commission of the United States
+### § 1622b. Transfer of functions, powers, and duties of Foreign Claims Settlement Commission of the United States
 
 All functions, powers, and duties of the Foreign Claims Settlement Commission established by Reorganization Plan Numbered 1 of 1954 are hereby transferred with the Commission, together with personnel, assets, liabilities, unexpended balances of appropriations, authorizations, allocations, and other funds held, used, available, or to be made available in connection with the statutory functions of the Commission. The Commission shall continue to perform its functions as provided by the War Claims Act of 1948, as amended [50 U.S.C. 4101 et seq.], the International Claims Settlement Act of 1949, as amended [22 U.S.C. 1621 et seq.], and Reorganization Plan Numbered 1 of 1954.
 
-(Pub. L. 96–209, title I, § 102, Mar. 14, 1980, 94 Stat. 96.)
+(Pub. L. 96–209, title I, § 102, Mar. 14, 1980, 94 Stat. 96.)
 
 **Editorial Notes**
 
@@ -754,9 +754,9 @@ All functions, powers, and duties of the Foreign Claims Settlement Commission es
 
 Reorganization Plan Numbered 1 of 1954, referred to in text, is Reorg. Plan. No. 1 of 1954, July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, which is set out as a note under section 1622 of this title.
 
-The War Claims Act of 1948, as amended, referred to in text, is act July 3, 1948, ch. 826, 62 Stat. 1240, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The War Claims Act of 1948, as amended, referred to in text, is act July 3, 1948, ch. 826, 62 Stat. 1240, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-The International Claims Settlement Act of 1949, as amended, referred to in text, is act Mar. 10, 1950, ch. 54, 64 Stat. 12, which is classified generally to this chapter (§ 1621 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The International Claims Settlement Act of 1949, as amended, referred to in text, is act Mar. 10, 1950, ch. 54, 64 Stat. 12, which is classified generally to this chapter (§ 1621 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 **Codification**
 
@@ -768,7 +768,7 @@ Section was not enacted as part of the International Claims Settlement Act of 19
 
 Section effective Mar. 14, 1980, see title VI of Pub. L. 96–209, set out as a note under section 1622a of this title.
 
-### § 1622c. Membership of Foreign Claims Settlement Commission of the United States
+### § 1622c. Membership of Foreign Claims Settlement Commission of the United States
 
 **(a) Composition of Commission; appointment and compensation of Chairman**
 
@@ -786,7 +786,7 @@ The terms of Office of the Chairman and members of the Commission shall be for t
 
 Notwithstanding the provisions of subsections (a), (b), and (c) of this section, members of the Foreign Claims Settlement Commission who are serving on March 14, 1980, shall continue to serve in their same capacities until the expiration of the terms to which they were appointed.
 
-(Pub. L. 96–209, title I, § 103, Mar. 14, 1980, 94 Stat. 96.)
+(Pub. L. 96–209, title I, § 103, Mar. 14, 1980, 94 Stat. 96.)
 
 **Editorial Notes**
 
@@ -800,17 +800,17 @@ Section was not enacted as part of the International Claims Settlement Act of 19
 
 Section effective Mar. 14, 1980, see title VI of Pub. L. 96–209, set out as a note under section 1622a of this title.
 
-### § 1622d. Appointment and compensation of officers and employees of Foreign Claims Settlement Commission of the United States; allowances and benefits; utilization of other Federal facilities
+### § 1622d. Appointment and compensation of officers and employees of Foreign Claims Settlement Commission of the United States; allowances and benefits; utilization of other Federal facilities
 
 The Commission is authorized, in accordance with civil service laws and in accordance with title 5 to appoint and fix the compensation of such officers and employees as may be necessary to carry out the functions of the Commission. The Commission is authorized to employ experts and consultants in accordance with section 3109 of title 5 without compensation or at rates of compensation not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5. Notwithstanding any other provision of law, the Commission is further authorized to employ nationals of other countries who may possess special knowledge, languages, or other expertise necessary to assist the Commission. The Commission is authorized to pay expenses of packing, shipping, and storing personal effects of personnel of the Commission assigned abroad, and to pay allowances and benefits similar to those provided by title IX of the Foreign Service Act of 1946, as amended. The Commission is authorized, with the consent of the head of any other department or agency of the Federal Government, to utilize the facilities and services of such department or agency in carrying out the functions of the Commission. Officers and employees of any department and agency of the Federal Government may, with the consent of the head of such department or agency, be assigned to assist the Commission in carrying out its functions. The Commission shall reimburse such department and agency for the pay of such officers or employees.
 
-(Pub. L. 96–209, title I, § 104, Mar. 14, 1980, 94 Stat. 97.)
+(Pub. L. 96–209, title I, § 104, Mar. 14, 1980, 94 Stat. 97.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title IX of the Foreign Service Act of 1946, as amended, referred to in text, is title IX of act Aug. 13, 1946, ch. 957, 60 Stat. 1025, which was classified generally to subchapter IX (§§ 1131–1160) of chapter 14 of this title, and was repealed by section 2205(1) of the Foreign Service Act of 1980, Pub. L. 96–465, title II, Oct. 17, 1980, 94 Stat. 2159. The Foreign Service Act of 1980 is classified principally to chapter 52 (§ 3901 et seq.) of this title. Section 2401(c) of the 1980 Act (22 U.S.C. 4172(c)) provides in part that references in law to provisions of the Foreign Service Act of 1946 shall be deemed to include reference to the corresponding provisions of the 1980 Act. For provisions corresponding to title IX of the Foreign Service Act of 1946, see Table preceding section 801 of this title.
+Title IX of the Foreign Service Act of 1946, as amended, referred to in text, is title IX of act Aug. 13, 1946, ch. 957, 60 Stat. 1025, which was classified generally to subchapter IX (§§ 1131–1160) of chapter 14 of this title, and was repealed by section 2205(1) of the Foreign Service Act of 1980, Pub. L. 96–465, title II, Oct. 17, 1980, 94 Stat. 2159. The Foreign Service Act of 1980 is classified principally to chapter 52 (§ 3901 et seq.) of this title. Section 2401(c) of the 1980 Act (22 U.S.C. 4172(c)) provides in part that references in law to provisions of the Foreign Service Act of 1946 shall be deemed to include reference to the corresponding provisions of the 1980 Act. For provisions corresponding to title IX of the Foreign Service Act of 1946, see Table preceding section 801 of this title.
 
 **Codification**
 
@@ -824,17 +824,17 @@ Section effective Mar. 14, 1980, see title VI of Pub. L. 96–209, set out as a 
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 **Salaries and Expenses of Foreign Claims Settlement Commission**
 
 Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 996, provided: “That for fiscal year 1990 and hereafter, funds appropriated under this heading [“salaries and expenses, foreign claims settlement commission”] shall be available for: allowances and benefits similar to those allowed under the Foreign Service Act of 1980 [22 U.S.C. 3901 et seq.] as determined by the [Foreign Claims Settlement] Commission; expenses of packing, shipping, and storing personal effects of personnel assigned abroad; rental or lease, for such periods as may be necessary, of office space and living quarters of personnel assigned abroad; maintenance, improvement, and repair of properties rented or leased abroad, and furnishing fuel, water, and utilities for such properties; insurance on official motor vehicles abroad; advances of funds abroad; advances or reimbursements to other Government agencies for use of their facilities and services in carrying out the functions of the Commission; hire of motor vehicles for field use only; and employment of aliens.”
 
-### § 1622e. Vesting of all non-adjudicatory functions, powers, and duties in Chairman of Foreign Claims Settlement Commission of the United States
+### § 1622e. Vesting of all non-adjudicatory functions, powers, and duties in Chairman of Foreign Claims Settlement Commission of the United States
 
 All functions, powers, and duties not directly related to adjudicating claims are hereby vested in the Chairman, including the functions set forth in section 3 of Reorganization Plan Numbered 1 of 1954 and the authority to issue rules and regulations.
 
-(Pub. L. 96–209, title I, § 105, Mar. 14, 1980, 94 Stat. 97.)
+(Pub. L. 96–209, title I, § 105, Mar. 14, 1980, 94 Stat. 97.)
 
 **Editorial Notes**
 
@@ -852,11 +852,11 @@ Section was not enacted as part of the International Claims Settlement Act of 19
 
 Section effective Mar. 14, 1980, see title VI of Pub. L. 96–209, set out as a note under section 1622a of this title.
 
-### § 1622f. Administrative support and services to Foreign Claims Settlement Commission of the United States by Attorney General
+### § 1622f. Administrative support and services to Foreign Claims Settlement Commission of the United States by Attorney General
 
 The Attorney General shall provide necessary administrative support and services to the Commission. The Chairman shall prepare the budget requests, authorization documents, and legislative proposals for the Commission within the procedures established by the Department of Justice, and the Attorney General shall submit these items to the Director of the Office of Management and Budget as proposed by the Chairman.
 
-(Pub. L. 96–209, title I, § 106, Mar. 14, 1980, 94 Stat. 97.)
+(Pub. L. 96–209, title I, § 106, Mar. 14, 1980, 94 Stat. 97.)
 
 **Editorial Notes**
 
@@ -870,11 +870,11 @@ Section was not enacted as part of the International Claims Settlement Act of 19
 
 Section effective Mar. 14, 1980, see title VI of Pub. L. 96–209, set out as a note under section 1622a of this title.
 
-### § 1622g. Independence of Foreign Claims Settlement Commission of the United States; finality of Commission decisions
+### § 1622g. Independence of Foreign Claims Settlement Commission of the United States; finality of Commission decisions
 
 Nothing in this Act shall be construed to diminish the independence of the Commission in making its determinations on claims in programs that it is authorized to administer pursuant to the powers and responsibilities conferred upon the Commission by the War Claims Act of 1948, as amended [50 U.S.C. 4101 et seq.], the International Claims Settlement Act of 1949, as amended [22 U.S.C. 1621 et seq.], and Reorganization Plan Numbered 1 of 1954. The decisions of the Commission with respect to claims shall be final and conclusive on all questions of law and fact, and shall not be subject to review by the Attorney General or any other official of the United States or by any court by mandamus or otherwise.
 
-(Pub. L. 96–209, title I, § 107, Mar. 14, 1980, 94 Stat. 97.)
+(Pub. L. 96–209, title I, § 107, Mar. 14, 1980, 94 Stat. 97.)
 
 **Editorial Notes**
 
@@ -882,9 +882,9 @@ Nothing in this Act shall be construed to diminish the independence of the Commi
 
 This Act, referred to in text, is Pub. L. 96–209, Mar. 14, 1980, 94 Stat. 96, which enacted sections 1622a to 1622g of this title, amended section 5316 of Title 5, Government Organization and Employees, and section 4101 of Title 50, War and National Defense, and enacted provisions set out as notes under section 1622a of this title, section 363 of former Title 31, Money and Finance, and section 7546 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
-The War Claims Act of 1948, as amended, referred to in text, is act July 3, 1948, ch. 826, 62 Stat. 1240, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The War Claims Act of 1948, as amended, referred to in text, is act July 3, 1948, ch. 826, 62 Stat. 1240, which is classified generally to chapter 51 (§ 4101 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-The International Claims Settlement Act of 1949, as amended, referred to in text, is act Mar. 10, 1950, ch. 54, 64 Stat. 12, which is classified generally to this chapter (§ 1621 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The International Claims Settlement Act of 1949, as amended, referred to in text, is act Mar. 10, 1950, ch. 54, 64 Stat. 12, which is classified generally to this chapter (§ 1621 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 Reorganization Plan Numbered 1 of 1954, referred to in text, is Reorg. Plan No. 1 of 1954, July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, which is set out as a note under section 1622 of this title.
 
@@ -898,7 +898,7 @@ Section was not enacted as part of the International Claims Settlement Act of 19
 
 Section effective Mar. 14, 1980, see title VI of Pub. L. 96–209, set out as a note under section 1622a of this title.
 
-### § 1623. Claims
+### § 1623. Claims
 
 **(a) Jurisdiction of Commission; bases for determination; fair market value**
 
@@ -966,27 +966,27 @@ The Commission shall comply with the provisions of subchapter II of chapter 5, a
 
 In exercising authority granted after October 8, 1986, under this chapter or any other Act, the Commission, in determining the value of claims of the Government of the United States or of nationals of the United States (as defined in this chapter or such other Act) against any foreign government for losses arising from the nationalization or other taking of property, shall comply with the principles set forth in subsection (a)(2) of this section.
 
-(Mar. 10, 1950, ch. 54, title I, § 4, 64 Stat. 13; Aug. 9, 1955, ch. 645, §§ 1, 2, 69 Stat. 562; Pub. L. 90–421, § 1(1), July 24, 1968, 82 Stat. 420; Pub. L. 99–451, § 1, Oct. 8, 1986, 100 Stat. 1138; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2211, Oct. 21, 1998, 112 Stat. 2681–812.)
+(Mar. 10, 1950, ch. 54, title I, § 4, 64 Stat. 13; Aug. 9, 1955, ch. 645, §§ 1, 2, 69 Stat. 562; Pub. L. 90–421, § 1(1), July 24, 1968, 82 Stat. 420; Pub. L. 99–451, § 1, Oct. 8, 1986, 100 Stat. 1138; Pub. L. 105–277, div. G, subdiv. B, title XXII, § 2211, Oct. 21, 1998, 112 Stat. 2681–812.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (j), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act of 1946” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (j), “subchapter II of chapter 5, and chapter 7, of title 5” substituted for “the Administrative Procedure Act of 1946” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
 1998—Subsec. (a). Pub. L. 105–277 added par. (1), redesignated second sentence as par. (2) and former pars. (1) and (2) as subpars. (A) and (B), respectively, and struck out former first sentence which read as follows: “The Commission shall have jurisdiction to receive, examine, adjudicate, and render final decisions with respect to claims of the Government of the United States and of nationals of the United States included within the terms of the Yugoslav Claims Agreement of 1948, or included within the terms of any claims agreement on and after March 10, 1954 concluded between the Government of the United States and a foreign government (exclusive of governments against which the United States declared the existence of a state of war during World War II) similarly providing for the settlement and discharge of claims of the Government of the United States and of nationals of the United States against a foreign government, arising out of the nationalization or other taking of property, by the agreement of the Government of the United States to accept from that government a sum in en bloc settlement thereof.”
 
-1986—Subsec. (a). Pub. L. 99–451, § 1(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “In the decision of claims under this subchapter, the Commission shall apply the following in the following order: (1) The provisions of the applicable claims agreement as provided in this subsection; and (2) the applicable principles of international law, justice, and equity.”
+1986—Subsec. (a). Pub. L. 99–451, § 1(a), amended second sentence generally. Prior to amendment, second sentence read as follows: “In the decision of claims under this subchapter, the Commission shall apply the following in the following order: (1) The provisions of the applicable claims agreement as provided in this subsection; and (2) the applicable principles of international law, justice, and equity.”
 
-Subsec. (k). Pub. L. 99–451, § 1(b), added subsec. (k).
+Subsec. (k). Pub. L. 99–451, § 1(b), added subsec. (k).
 
 1968—Subsec. (f). Pub. L. 90–421 struck out provisions which authorized the Commission to determine the amount of attorney’s fees, such fees not to exceed 10% of the award and any written agreement between attorney and claimant as to fees to be conclusive upon the Commission, if the agreed upon fees do not exceed 10% of the award, provisions which authorized the Secretary of the Treasury to deduct the fees from the amount of the award and to pay it directly to the attorney, any agreement to the contrary to be unlawful and void, provisions which authorized the Commission to give notice by mail to each claimant of the provisions of this subsection, and provisions which authorized the Commission to recover any fees paid in contravention of this subsection, the recipient to forfeit all rights under this subchapter.
 
-1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
+1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 
-Subsecs. (a), (b), (e) to (h), (j). Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter”.
+Subsecs. (a), (b), (e) to (h), (j). Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -996,33 +996,33 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–451, § 2, Oct. 8, 1986, 100 Stat. 1139, provided that: “The amendments made by this Act [amending this section] shall apply to any claim pending on the date of the enactment of this Act [Oct. 8, 1986] and to any other claim determined after such date.”
+Pub. L. 99–451, § 2, Oct. 8, 1986, 100 Stat. 1139, provided that: “The amendments made by this Act [amending this section] shall apply to any claim pending on the date of the enactment of this Act [Oct. 8, 1986] and to any other claim determined after such date.”
 
 **Protests Relating to Awards by Commission; Notice by Publication in Federal Register**
 
-Act Mar. 10, 1950, ch. 54, title VI, § 615, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512, provided that: “Notwithstanding the provision of sections 210 and 211 of the War Claims Act of 1948 (Act of July 3, 1948), as amended by Public Law 87–846 [50 U.S.C. 4140, 4141], the Foreign Claims Settlement Commission established by Reorganization Plan No. 1 of 1954 (68 Stat. 1279) [set out under section 1622 of this title] is authorized and directed to receive and consider protests relating to awards made by the Commission during the ten calendar days immediately preceding the expiration of the Commission’s mandate to make such awards on May 17, 1967. Any such protests must be filed within ninety days after notice of the enactment of this provision is filed with and published in the Federal Register, which shall take place within thirty days of enactment [Oct. 18, 1976]. Such protests may include the submission of new evidence not previously before the Commission, and shall be acted upon within thirty days after receipt by the Commission. The Commission may modify awards made during the subject period in accordance with the procedures established by the War Claims Act of 1948 [50 U.S.C. 4101 et seq.], and any increases in awards determined to be appropriated by the Commission shall be certified to and paid by the Secretary of the Treasury out of funds which are now or may hereafter become available in the War Claims Fund in accordance with section 213 of the Act [50 U.S.C. 4143].”
+Act Mar. 10, 1950, ch. 54, title VI, § 615, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512, provided that: “Notwithstanding the provision of sections 210 and 211 of the War Claims Act of 1948 (Act of July 3, 1948), as amended by Public Law 87–846 [50 U.S.C. 4140, 4141], the Foreign Claims Settlement Commission established by Reorganization Plan No. 1 of 1954 (68 Stat. 1279) [set out under section 1622 of this title] is authorized and directed to receive and consider protests relating to awards made by the Commission during the ten calendar days immediately preceding the expiration of the Commission’s mandate to make such awards on May 17, 1967. Any such protests must be filed within ninety days after notice of the enactment of this provision is filed with and published in the Federal Register, which shall take place within thirty days of enactment [Oct. 18, 1976]. Such protests may include the submission of new evidence not previously before the Commission, and shall be acted upon within thirty days after receipt by the Commission. The Commission may modify awards made during the subject period in accordance with the procedures established by the War Claims Act of 1948 [50 U.S.C. 4101 et seq.], and any increases in awards determined to be appropriated by the Commission shall be certified to and paid by the Secretary of the Treasury out of funds which are now or may hereafter become available in the War Claims Fund in accordance with section 213 of the Act [50 U.S.C. 4143].”
 
 **Executive Documents**
 
 **Abolition of International Claims Commission and Transfer of Functions**
 
-International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
+International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 For provisions transferring the Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 
-### § 1624. Certification of awards; certification of claims
+### § 1624. Certification of awards; certification of claims
 
 The Commission shall, as soon as possible, and in the order of the making of such awards, certify to the Secretary of the Treasury and to the Secretary of State copies of the awards made in favor of the Government of the United States or of nationals of the United States under this subchapter. The Commission shall certify to the Secretary of State, upon his request, copies of the formal submissions of claims filed pursuant to subsection (b) of section 1623 of this title for transmission to the foreign government concerned.
 
-(Mar. 10, 1950, ch. 54, title I, § 5, 64 Stat. 16; Aug. 9, 1955, ch. 645, §§ 1, 2, 69 Stat. 562.)
+(Mar. 10, 1950, ch. 54, title I, § 5, 64 Stat. 16; Aug. 9, 1955, ch. 645, §§ 1, 2, 69 Stat. 562.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
+1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 
-Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter”.
+Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1034,19 +1034,19 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 **Abolition of International Claims Commission and Transfer of Functions**
 
-International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
+International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 
-### § 1625. Omitted
+### § 1625. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts Mar. 10, 1950, ch. 54, title 1, § 6, 64 Stat. 16; Aug. 8, 1953, ch. 396, § 1, 67 Stat. 506, provided that Commission complete its affairs in connection with settlement of all United States-Yugoslavian Claims arising under Yugoslav Claims Agreement of 1948, by December 31, 1954.
+Section, acts Mar. 10, 1950, ch. 54, title 1, § 6, 64 Stat. 16; Aug. 8, 1953, ch. 396, § 1, 67 Stat. 506, provided that Commission complete its affairs in connection with settlement of all United States-Yugoslavian Claims arising under Yugoslav Claims Agreement of 1948, by December 31, 1954.
 
-### § 1626. Payments
+### § 1626. Payments
 
 **(a) Principal and interest; regulations**
 
@@ -1082,23 +1082,23 @@ Any person who makes application for any such payment shall be held to have cons
 
 Nothing in this subchapter shall be construed as the assumption of any liability by the United States for the payment or satisfaction, in whole or in part, of any claim on behalf of any national of the United States against any foreign government.
 
-(Mar. 10, 1950, ch. 54, title I, § 7, 64 Stat. 16; Aug. 8, 1953, ch. 396, § 2, 67 Stat. 506; Aug. 9, 1955, ch. 645, §§ 1, 2, 69 Stat. 562; Pub. L. 90–421, § 1(2), (3), July 24, 1968, 82 Stat. 420; Pub. L. 104–316, title II, § 202(h), Oct. 19, 1996, 110 Stat. 3842.)
+(Mar. 10, 1950, ch. 54, title I, § 7, 64 Stat. 16; Aug. 8, 1953, ch. 396, § 2, 67 Stat. 506; Aug. 9, 1955, ch. 645, §§ 1, 2, 69 Stat. 562; Pub. L. 90–421, § 1(2), (3), July 24, 1968, 82 Stat. 420; Pub. L. 104–316, title II, § 202(h), Oct. 19, 1996, 110 Stat. 3842.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1996—Subsec. (c)(1), (2). Pub. L. 104–316, § 202(h)(1), substituted “Secretary of the Treasury” for “Comptroller General” in par. (1) and “Secretary of the Treasury” for “Comptroller General of the United States” in par. (2).
+1996—Subsec. (c)(1), (2). Pub. L. 104–316, § 202(h)(1), substituted “Secretary of the Treasury” for “Comptroller General” in par. (1) and “Secretary of the Treasury” for “Comptroller General of the United States” in par. (2).
 
-Subsec. (d). Pub. L. 104–316, § 202(h)(2), struck out “, or the Comptroller General of the United States, as the case may be,” after “Secretary of the Treasury”.
+Subsec. (d). Pub. L. 104–316, § 202(h)(2), struck out “, or the Comptroller General of the United States, as the case may be,” after “Secretary of the Treasury”.
 
-1968—Subsec. (b). Pub. L. 90–421, § 1(2), designated existing provisions as par. (1) and added par. (2).
+1968—Subsec. (b). Pub. L. 90–421, § 1(2), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c)(1). Pub. L. 90–421, § 1(3), substituted “any person to whom any payment is to be made pursuant to this subchapter” for “such person” and “, except that if any payment to be made is not over $1000” for “: *Provided*, That if the total award is not over $500”, and struck out “of the United States” after “Comptroller General”.
+Subsec. (c)(1). Pub. L. 90–421, § 1(3), substituted “any person to whom any payment is to be made pursuant to this subchapter” for “such person” and “, except that if any payment to be made is not over $1000” for “: *Provided*, That if the total award is not over $500”, and struck out “of the United States” after “Comptroller General”.
 
-1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
+1955—Act Aug. 9, 1955, § 1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 
-Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter”.
+Act Aug. 9, 1955, § 2, substituted “subchapter” for “chapter”.
 
 1953—Subsec. (b). Act Aug. 8, 1953, increased the amount deductible to cover expenses from 3 to 5 percent.
 
@@ -1112,11 +1112,11 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 **Abolition of International Claims Commission and Transfer of Functions**
 
-International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1, of 1954, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
+International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1, of 1954, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 
-### § 1627. Creation of special funds in Treasury
+### § 1627. Creation of special funds in Treasury
 
 **(a) Credits to, and payment from funds**
 
@@ -1172,25 +1172,25 @@ The Secretary of the Treasury, upon the concurrence of the Secretary of State, i
 
 The Secretary of the Treasury is authorized and directed to invest the amounts held respectively in the “special funds” established by this section in public debt securities with maturities suitable for the needs of the separate accounts and bearing interest at rates determined by the Secretary, taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities. The interest earned on the amounts in each special fund shall be used to make payments, in accordance with subsection (c), on awards payable from that special fund.
 
-(Mar. 10, 1950, ch. 54, title I, § 8, 64 Stat. 17; Aug. 9, 1955, ch. 645, § 1, 69 Stat. 562; Pub. L. 90–421, § 1(4), (5), July 24, 1968, 82 Stat. 420; Pub. L. 96–445, Oct. 13, 1980, 94 Stat. 1891; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–204, title I, § 142(a), Dec. 22, 1987, 101 Stat. 1350.)
+(Mar. 10, 1950, ch. 54, title I, § 8, 64 Stat. 17; Aug. 9, 1955, ch. 645, § 1, 69 Stat. 562; Pub. L. 90–421, § 1(4), (5), July 24, 1968, 82 Stat. 420; Pub. L. 96–445, Oct. 13, 1980, 94 Stat. 1891; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–204, title I, § 142(a), Dec. 22, 1987, 101 Stat. 1350.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was generally repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26, Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
+The Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was generally repealed by section 7851 of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26, Internal Revenue Code, for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
 
-Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Section 14 of former Title 26 was repealed by act Oct. 20, 1951, ch. 521, title I, pt. II, § 121(g), 65 Stat. 469. Sections 34 and 185 of former Title 26 were repealed by act Feb. 25, 1944, ch. 63, title I, §§ 106(c)(2), 107(a), 58 Stat. 31. Sections 264 and 363 of former Title 26 were repealed by act Oct. 21, 1942, ch. 619, title I, §§ 159(e), 170(a), 56 Stat. 860, 878. Sections 430 to 474 of former Title 26 were omitted, and subsequently, along with the remaining sections of former Title 26 comprising chapter 1, except sections 143 and 144, were repealed by sections 7851(a)(1)(A) of Title 26, Internal Revenue Code. Sections 143 and 144 of former Title 26 were repealed by section 7851(a)(1)(B) of Title 26.
+Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Section 14 of former Title 26 was repealed by act Oct. 20, 1951, ch. 521, title I, pt. II, § 121(g), 65 Stat. 469. Sections 34 and 185 of former Title 26 were repealed by act Feb. 25, 1944, ch. 63, title I, §§ 106(c)(2), 107(a), 58 Stat. 31. Sections 264 and 363 of former Title 26 were repealed by act Oct. 21, 1942, ch. 619, title I, §§ 159(e), 170(a), 56 Stat. 860, 878. Sections 430 to 474 of former Title 26 were omitted, and subsequently, along with the remaining sections of former Title 26 comprising chapter 1, except sections 143 and 144, were repealed by sections 7851(a)(1)(A) of Title 26, Internal Revenue Code. Sections 143 and 144 of former Title 26 were repealed by section 7851(a)(1)(B) of Title 26.
 
 Chapter 2A of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 500 to 511 of former Title 26, Internal Revenue Code. Sections 500 to 511 were repealed by section 7851(a)(1)(A) of Title 26, Internal Revenue Code.
 
-Chapter 2B of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 600 to 605 of former Title 26, Internal Revenue Code. Sections 600 to 605 were repealed by act Nov. 8, 1945, ch. 453, title II, § 202, 59 Stat. 574, eff. with respect to taxable years ending June 30, 1946.
+Chapter 2B of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 600 to 605 of former Title 26, Internal Revenue Code. Sections 600 to 605 were repealed by act Nov. 8, 1945, ch. 453, title II, § 202, 59 Stat. 574, eff. with respect to taxable years ending June 30, 1946.
 
 Chapter 2D of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 700 to 706 of former Title 26, Internal Revenue Code. Sections 700 to 716 were repealed by section 7851(a)(1)(A) of Title 26, Internal Revenue Code.
 
-Chapter 2E of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 710 to 784 of former Title 26, Internal Revenue Code. Sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, § 122(a), 59 Stat. 568. Section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§ 224(b), 228(b), 56 Stat. 920, 925. Section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, § 229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
+Chapter 2E of the Internal Revenue Code of 1939, referred to in subsec. (f)(2)(A), was comprised of sections 710 to 784 of former Title 26, Internal Revenue Code. Sections 710 to 736, 740, 742 to 744, 750, 751, 760, 761 and 780 to 784 were repealed by act Nov. 8, 1945, ch. 453, title I, § 122(a), 59 Stat. 568. Section 741 was repealed by act Oct. 21, 1942, ch. 619, title II, §§ 224(b), 228(b), 56 Stat. 920, 925. Section 752 was repealed by act Oct. 21, 1942, ch. 619, title II, § 229(a)(1), 56 Stat. 931, eff. as of Oct. 8, 1940.
 
-Subtitle A of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(A), is subtitle A of act Aug. 16, 1954, ch. 736, 68A Stat. 4, which comprises Subtitle A (§ 1 et seq.) of Title 26, Internal Revenue Code.
+Subtitle A of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(A), is subtitle A of act Aug. 16, 1954, ch. 736, 68A Stat. 4, which comprises Subtitle A (§ 1 et seq.) of Title 26, Internal Revenue Code.
 
 **Amendments**
 
@@ -1198,13 +1198,13 @@ Subtitle A of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)(A
 
 1986—Subsec. (f)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-1980—Subsec. (e). Pub. L. 96–445, § 1(1), substituted “Except as provided in subsection (f), the Secretary of the Treasury” for “The Secretary of the Treasury”.
+1980—Subsec. (e). Pub. L. 96–445, § 1(1), substituted “Except as provided in subsection (f), the Secretary of the Treasury” for “The Secretary of the Treasury”.
 
-Subsec. (f). Pub. L. 96–445, § 1(2), added subsec. (f).
+Subsec. (f). Pub. L. 96–445, § 1(2), added subsec. (f).
 
-1968—Subsec. (c). Pub. L. 90–421, § 1(4), inserted “, prior to July 24, 1968,” after “the sums covered” and substituted “section 1626(b)(1) of this title” for “section 1626(b) of this title”.
+1968—Subsec. (c). Pub. L. 90–421, § 1(4), inserted “, prior to July 24, 1968,” after “the sums covered” and substituted “section 1626(b)(1) of this title” for “section 1626(b) of this title”.
 
-Subsec. (e). Pub. L. 90–421, § 1(5), added subsec. (e).
+Subsec. (e). Pub. L. 90–421, § 1(5), added subsec. (e).
 
 1955—Act Aug. 9, 1955, amended credit to section by designating act Mar. 10, 1950, as “title I”.
 
@@ -1218,13 +1218,13 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 **Abolition of International Claims Commission and Transfer of Functions**
 
-International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
+International Claims Commission of the United States, including offices of its members, abolished and functions of Commission and of members, officers, and employees thereof transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§ 1, 2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out as a note under section 1622 of this title.
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 
 ## SUBCHAPTER II—VESTING AND LIQUIDATION OF BULGARIAN, HUNGARIAN, AND RUMANIAN PROPERTY
 
-### § 1631. Definitions
+### § 1631. Definitions
 
 As used in this subchapter the term—
 
@@ -1234,9 +1234,9 @@ As used in this subchapter the term—
 
 **(3)** “Treaty of peace”, with respect to a country, means the treaty of peace with that country signed at Paris, France, February 10, 1947, which came into force between that country and the United States on September 15, 1947.
 
-(Mar. 10, 1950, ch. 54, title II, § 201, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 562.)
+(Mar. 10, 1950, ch. 54, title II, § 201, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 562.)
 
-### § 1631a. Property owned by Bulgaria, Hungary, and Rumania or any national thereof
+### § 1631a. Property owned by Bulgaria, Hungary, and Rumania or any national thereof
 
 **(a) Vesting of property; liquidation; disposition of net proceeds**
 
@@ -1254,7 +1254,7 @@ The determination under this section that any vested property was not directly o
 
 The President or his designee may require any person to furnish, in the form of reports or otherwise, complete information, including information with regard to past transactions, relative to any property blocked under Executive Order 8389 of April 10, 1940, as amended, or as may be otherwise necessary to enforce the provisions of this section; and the President or his designee may require of any person the production of any books of account, records, contracts, letters, memoranda, or other papers relative to such property or as may be otherwise necessary to enforce the provisions of this section.
 
-(Mar. 10, 1950, ch. 54, title II, § 202, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 562.)
+(Mar. 10, 1950, ch. 54, title II, § 202, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 562.)
 
 **Editorial Notes**
 
@@ -1262,7 +1262,7 @@ The President or his designee may require any person to furnish, in the form of 
 
 Executive Order 8389 of April 10, 1940, referred to in subsecs. (a) and (d), is Ex. Ord. 8389, Apr. 10, 1940, 5 F.R. 1400, which is set out under section 4305 of Title 50, War and National Defense.
 
-The Trading With the Enemy Act, as amended, and such Act, referred to in subsec. (b), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, as amended, and such Act, referred to in subsec. (b), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Executive Documents**
 
@@ -1270,29 +1270,29 @@ The Trading With the Enemy Act, as amended, and such Act, referred to in subsec.
 
 Ex. Ord. No. 10644, Nov. 8, 1955, 20 F.R. 8363, as amended by Ex. Ord. No. 11281, May 13, 1966, 31 F.R. 7215, which designated the Attorney General to perform functions of the President under this subchapter and the Secretary of the Treasury to perform functions under this section with respect to the release of blocked property and accounts, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-### § 1631b. Cancellation and issuance of shares of stock or other beneficial interest in corporation
+### § 1631b. Cancellation and issuance of shares of stock or other beneficial interest in corporation
 
 Whenever shares of stock or other beneficial interest in any corporation, association, or company or trust are vested in any officer or agency designated by the President under this subchapter, it shall be the duty of the corporation, association, or company or trustee or trustees issuing such shares or any certificates or other instruments representing the same or any other beneficial interest to cancel such shares of stock or other beneficial interest upon its, his, or their books and in lieu thereof to issue certificates or other instruments for such shares or other beneficial interest to the designee of the President, or otherwise as such designee shall require.
 
-(Mar. 10, 1950, ch. 54, title II, § 203, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 563.)
+(Mar. 10, 1950, ch. 54, title II, § 203, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 563.)
 
-### § 1631c. Filing of order of conveyance
+### § 1631c. Filing of order of conveyance
 
 Any vesting order, or other order or requirement issued pursuant to this subchapter, or a duly certified copy thereof, may be filed, registered, or recorded in any office for the filing, registering, or recording of conveyances, transfers, or assignments of such property as may be covered by such order or requirement; and if so filed, registered, or recorded shall impart the same notice and have the same force and effect as a duly executed conveyance, transfer, or assignment so filed, registered, or recorded.
 
-(Mar. 10, 1950, ch. 54, title II, § 204, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 563.)
+(Mar. 10, 1950, ch. 54, title II, § 204, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 563.)
 
-### § 1631d. Acquittance and discharge of obligation
+### § 1631d. Acquittance and discharge of obligation
 
 Any payment, conveyance, transfer, assignment, or delivery of property made to the President or his designee pursuant to this subchapter, or any rule, regulation, instruction, or direction issued under this subchapter, shall to the extent thereof be a full acquittance and discharge for all purposes of the obligation of the person making the same; and no person shall be held liable in any court for or in respect of any such payment, conveyance, transfer, assignment, or delivery made in good faith in pursuance of and in reliance on the provisions of this subchapter, or of any rule, regulation, instruction, or direction issued thereunder.
 
-(Mar. 10, 1950, ch. 54, title II, § 205, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 563.)
+(Mar. 10, 1950, ch. 54, title II, § 205, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 563.)
 
-### § 1631e. Rules by district courts; appeals
+### § 1631e. Rules by district courts; appeals
 
 The district courts of the United States are given jurisdiction to make and enter all such rules as to notice and otherwise, and all such orders and decrees, and to issue such process as may be necessary and proper in the premises to enforce the provisions of this subchapter, with a right of appeal from the final order or decree of such court as provided in chapter 83 of title 28.
 
-(Mar. 10, 1950, ch. 54, title II, § 206, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 563; amended Pub. L. 100–352, § 6(g), June 27, 1988, 102 Stat. 664.)
+(Mar. 10, 1950, ch. 54, title II, § 206, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 563; amended Pub. L. 100–352, § 6(g), June 27, 1988, 102 Stat. 664.)
 
 **Editorial Notes**
 
@@ -1306,7 +1306,7 @@ The district courts of the United States are given jurisdiction to make and ente
 
 Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of Title 28, Judiciary and Judicial Procedure.
 
-### § 1631f. Claims to vested property
+### § 1631f. Claims to vested property
 
 **(a) Action for return of property; jurisdiction; complaint; custody of property until final determination** Any person who has not filed a notice of claim under subsection (b) of this section may institute a suit in equity for the return of any property, or the net proceeds thereof, vested in a designee of the President pursuant to section 1631a(a) of this title and held by such designee. Such suit, to which said designee shall be made a party defendant, shall be instituted in the District Court of the United States for the District of Columbia or in the district court of the United States for the district in which the claimant resides, or, if a corporation, where it has its principal place of business, by the filing of a complaint which alleges—
 
@@ -1332,7 +1332,7 @@ The sole relief and remedy of any person having any claim to any property vested
 
 The designee of the President may retain or recover from any property, or the net proceeds thereof, returned pursuant to subsection (a) or (b) of this section an amount not exceeding that expended or incurred by him for the conservation, preservation, or maintenance of such property or proceeds.
 
-(Mar. 10, 1950, ch. 54, title II, § 207, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 564; amended Pub. L. 85–791, § 33, Aug. 28, 1958, 72 Stat. 951; Pub. L. 90–421, § 1(6), July 24, 1968, 82 Stat. 421.)
+(Mar. 10, 1950, ch. 54, title II, § 207, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 564; amended Pub. L. 85–791, § 33, Aug. 28, 1958, 72 Stat. 951; Pub. L. 90–421, § 1(6), July 24, 1968, 82 Stat. 421.)
 
 **Editorial Notes**
 
@@ -1342,11 +1342,11 @@ Executive Order 8389 of April 10, 1940, referred to in subsecs. (a)(1) and (b)(1
 
 **Amendments**
 
-1968—Subsec. (c). Pub. L. 90–421 inserted “, except a person claiming under section 1631*o* of this title,” after “pursuant to section 1631a(a) of this title”.
+1968—Subsec. (c). Pub. L. 90–421 inserted “, except a person claiming under section 1631*o* of this title,” after “pursuant to section 1631a(a) of this title”.
 
 1958—Subsec. (b). Pub. L. 85–791, in fifth sentence, substituted “shall forthwith be transmitted to the said designee by the clerk of the court” for “must be served on the said designee”, and in sixth sentence, substituted “receipt” for “service” and substituted “file with the court the record of the proceedings with respect to such claim, as provided in section 2112 of title 28” for “certify and file with the court a transcript of the entire record of the proceedings with respect to such claim”.
 
-### § 1631g. Payment of debts
+### § 1631g. Payment of debts
 
 **(a) Claims allowable; defenses** Any property vested in the designee of the President pursuant to section 1631a(a) of this title, or the net proceeds thereof, shall be equitably applied by such designee in accordance with this section to the payment of debts owed by the person who owned such property immediately prior to its vesting in such designee. No debt claim shall be allowed under this section—
 
@@ -1396,33 +1396,33 @@ No debt of any kind shall be entitled to priority under any law of the United St
 
 The sole relief and remedy available to any person seeking satisfaction of a debt claim out of any property vested in the designee under section 1631a(a) of this title, or the proceeds thereof, shall be the relief and remedy provided in this section, and suits for the satisfaction of debt claims shall not be instituted, prosecuted, or further maintained except in conformity with this section. No person asserting any interest, right, or title in any property or proceeds acquired by the designee shall be barred from proceeding pursuant to this subchapter for the return thereof, by reason of any proceeding which he may have brought pursuant to this section; nor shall any security interest asserted by the creditor in any such property or proceeds be deemed to have been waived solely by reason of such proceeding. Nothing contained in this section shall bar any person from the prosecution of any suit at law or in equity against the original debtor or against any other person who may be liable for the payment of any debt for which a claim might have been filed hereunder. No purchaser, lessee, licensee, or other transferee of any property from the designee shall, solely by reason of such purchase, lease, license, or transfer, become liable for the payment of any debt owed by the person who owned such property prior to its vesting in the designee. Payment by the designee to any debt claimant shall constitute, to the extent of payment, a discharge of the indebtedness represented by the claim.
 
-(Mar. 10, 1950, ch. 54, title II, § 208, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 565.)
+(Mar. 10, 1950, ch. 54, title II, § 208, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 565.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (g), “sections 3713(a) and 9309 of title 31” substituted for “sections 3466 and 3468 of the Revised Statutes (31 U.S.C., secs. 191 and 193)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (g), “sections 3713(a) and 9309 of title 31” substituted for “sections 3466 and 3468 of the Revised Statutes (31 U.S.C., secs. 191 and 193)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-### § 1631h. Hearings on claims; rules and regulations; delegation of powers
+### § 1631h. Hearings on claims; rules and regulations; delegation of powers
 
 The officer or agency designated by the President under this subchapter to entertain claims under sections 1631f(b) and 1631g of this title shall have power to hold such hearings as may be deemed necessary; to prescribe rules and regulations governing the form and contents of claims, the proof thereof, and all other matters related to proceedings on such claims; and in connection with such proceedings to issue subpenas, administer oaths, and examine witnesses. Such powers, and any other powers conferred upon such officer or agency by sections 1631f(b) and 1631g of this title may be exercised through subordinate officers designated by such officer or agency.
 
-(Mar. 10, 1950, ch. 54, title II, § 209, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 568.)
+(Mar. 10, 1950, ch. 54, title II, § 209, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 568.)
 
-### § 1631i. Limitations
+### § 1631i. Limitations
 
 No suit may be instituted pursuant to section 1631f(a) of this title after the expiration of one year from the date of vesting of the property in respect of which relief is sought. No return may be made pursuant to section 1631f(b) of this title unless notice of claim has been filed within one year from the date of vesting of the property in respect of which the claim is filed.
 
-(Mar. 10, 1950, ch. 54, title II, § 210, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 568.)
+(Mar. 10, 1950, ch. 54, title II, § 210, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 568.)
 
-### § 1631j. Fees of agents, attorneys, or representatives
+### § 1631j. Fees of agents, attorneys, or representatives
 
 No property or proceeds shall be returned under this subchapter, nor shall any payment be made or judgment awarded in respect of any property vested in any officer or agency designated by the President under this subchapter unless satisfactory evidence is furnished to said designee, or the court, as the case may be, that the aggregate of the fees to be paid to all agents, attorneys at law or in fact, or representatives, for services rendered in connection with such return or payment or judgment does not exceed 10 per centum of the value of such property or proceeds or of such payment. Any agent, attorney at law or in fact, or representative, believing that the aggregate of the fees should be in excess of such 10 per centum may, in the case of any return of, or the making of any payment in respect of, such property or proceeds by the President or such officer or agency as he may designate, petition the district court of the United States for the district in which he resides for an order authorizing fees in excess of 10 per centum and shall name such officer or agency as respondent. The court hearing such petition or a court awarding any judgment in respect of any such property or proceeds, as the case may be, shall approve an aggregate of fees in excess of 10 per centum of the value of such property or proceeds only upon a finding that there exist special circumstances of unusual hardship which require the payment of such excess. Any person accepting any fee in excess of an amount approved under this section, or retaining for more than thirty days any portion of a fee, accepted prior to such approval, in excess of the fee as approved, shall be guilty of a violation of this subchapter.
 
-(Mar. 10, 1950, ch. 54, title II, § 211, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 568.)
+(Mar. 10, 1950, ch. 54, title II, § 211, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 568.)
 
-### § 1631k. Taxes
+### § 1631k. Taxes
 
 **(a) Liability**
 
@@ -1440,9 +1440,9 @@ Subject to the provisions of subsection (b) of this section, the manner of compu
 
 The word “tax” as used in this section shall include, without limitation by reason of this enumeration, any property, income, excess-profits, war-profits, excise, estate, and employment tax, import duty, and special assessment; and also any interest, penalty, additional amount, or addition thereto not arising from any act, omission, neglect, failure, or delay on the part of the designee.
 
-(Mar. 10, 1950, ch. 54, title II, § 212, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 569.)
+(Mar. 10, 1950, ch. 54, title II, § 212, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 569.)
 
-### § 1631l. Determination of expenses and time for filing suit, notice of claim and debt claim
+### § 1631l. Determination of expenses and time for filing suit, notice of claim and debt claim
 
 Prior to covering the net proceeds of liquidation of any property into the Treasury pursuant to section 1631a(a) of this title, the designee of the President under this subchapter shall determine—
 
@@ -1452,21 +1452,21 @@ Prior to covering the net proceeds of liquidation of any property into the Treas
 
 The determinations of the designee under this section shall be final and conclusive.
 
-(Mar. 10, 1950, ch. 54, title II, § 213, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 570.)
+(Mar. 10, 1950, ch. 54, title II, § 213, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 570.)
 
-### § 1631m. Lien, attachment, garnishment, etc., of transferred property
+### § 1631m. Lien, attachment, garnishment, etc., of transferred property
 
 No property conveyed, transferred, assigned, delivered, or paid to the designee of the President under this subchapter, or the net proceeds thereof, shall be liable to lien, attachment, garnishment, trustee process, or execution, or subject to any order or decree of any court, except as provided in this subchapter.
 
-(Mar. 10, 1950, ch. 54, title II, § 214, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 570.)
+(Mar. 10, 1950, ch. 54, title II, § 214, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 570.)
 
-### § 1631n. Penalties
+### § 1631n. Penalties
 
 Whoever shall willfully violate any provision of this subchapter or any rule or regulation issued hereunder, and whoever shall willfully violate, neglect, or refuse to comply with any order of the President or of a designee of the President under this subchapter, issued in compliance with the provisions of this subchapter shall be fined not more than $5,000, or, if a natural person, imprisoned for not more than five years, or both; and the officer, director, or agent of any corporation who knowingly participates in such violation shall be punished by a like fine, imprisonment, or both.
 
-(Mar. 10, 1950, ch. 54, title II, § 215, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 570.)
+(Mar. 10, 1950, ch. 54, title II, § 215, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 570.)
 
-### § 1631o. Eligibility for return of interest in property
+### § 1631o. Eligibility for return of interest in property
 
 **(a) Persons eligible; determination; prerequisites**
 
@@ -1480,17 +1480,17 @@ An interest in property vested under the Trading With the Enemy Act, as amended,
 
 Determinations by the designee of the President or any other officer or agency with respect to claims under this section, including the allowance or disallowance thereof, shall be final and shall not be subject to review by any court.
 
-(Mar. 10, 1950, ch. 54, title II, § 216, as added Pub. L. 90–421, § 1(7), July 24, 1968, 82 Stat. 421.)
+(Mar. 10, 1950, ch. 54, title II, § 216, as added Pub. L. 90–421, § 1(7), July 24, 1968, 82 Stat. 421.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trading With the Enemy Act, as amended, referred to in subsecs. (a) and (b), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, as amended, referred to in subsecs. (a) and (b), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which is classified generally to chapter 53 (§ 4301 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 ## SUBCHAPTER III—CLAIMS AGAINST BULGARIA, HUNGARY, RUMANIA, ITALY, AND THE SOVIET UNION
 
-### § 1641. Definitions
+### § 1641. Definitions
 
 As used in this subchapter the term—
 
@@ -1512,7 +1512,7 @@ As used in this subchapter the term—
 
 **(9)** “Property” means any property, right, or interest.
 
-(Mar. 10, 1950, ch. 54, title III, § 301, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 570.)
+(Mar. 10, 1950, ch. 54, title III, § 301, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 570.)
 
 **Editorial Notes**
 
@@ -1526,7 +1526,7 @@ Reorganization Plan Numbered 1 of 1954, referred to in par. (8), is Reorg. Plan 
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 
-### § 1641a. Claims funds
+### § 1641a. Claims funds
 
 **(a) Establishment; coverage into Treasury; deduction**
 
@@ -1540,7 +1540,7 @@ The Secretary of the Treasury shall cover into each of the Bulgarian and Rumania
 
 The Secretary of the Treasury shall cover into the Hungarian Claims Fund, such sums as may be paid to the United States by the Government of Hungary pursuant to the terms of the United States Hungarian Claims Agreement of March 6, 1973.
 
-(Mar. 10, 1950, ch. 54, title III, § 302, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 571; amended Pub. L. 90–421, § 1(8), July 24, 1968, 82 Stat. 422; Pub. L. 93–460, § 1(1), Oct. 20, 1974, 88 Stat. 1386.)
+(Mar. 10, 1950, ch. 54, title III, § 302, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 571; amended Pub. L. 90–421, § 1(8), July 24, 1968, 82 Stat. 422; Pub. L. 93–460, § 1(1), Oct. 20, 1974, 88 Stat. 1386.)
 
 **Editorial Notes**
 
@@ -1550,7 +1550,7 @@ The Secretary of the Treasury shall cover into the Hungarian Claims Fund, such s
 
 1968—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsec. (b).
 
-### § 1641b. Claims of nationals of the United States against Bulgaria, Hungary, and Rumania
+### § 1641b. Claims of nationals of the United States against Bulgaria, Hungary, and Rumania
 
 The Commission shall receive and determine in accordance with applicable substantive law, including international law, the validity and amounts of claims of nationals of the United States against the Governments of Bulgaria, Hungary, and Rumania, or any of them, arising out of the failure to—
 
@@ -1564,17 +1564,17 @@ The Commission shall receive and determine in accordance with applicable substan
 
 **(5)** pay effective compensation for the nationalization, compulsory liquidation, or other taking of property of nationals of the United States in Hungary, between August 9, 1955, and the date the United States-Hungarian Claims Agreement of March 6, 1973, enters into force.
 
-(Mar. 10, 1950, ch. 54, title III, § 303, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 571; amended Pub. L. 90–421, § 1(9), (10), July 24, 1968, 82 Stat. 422; Pub. L. 93–460, § 1(2), (3), Oct. 20, 1974, 88 Stat. 1386.)
+(Mar. 10, 1950, ch. 54, title III, § 303, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 571; amended Pub. L. 90–421, § 1(9), (10), July 24, 1968, 82 Stat. 422; Pub. L. 93–460, § 1(2), (3), Oct. 20, 1974, 88 Stat. 1386.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1974—Par. (5). Pub. L. 93–460, § 1(3), added par. (5).
+1974—Par. (5). Pub. L. 93–460, § 1(3), added par. (5).
 
-1968—Par. (4). Pub. L. 90–421, § 1(10), added par. (4).
+1968—Par. (4). Pub. L. 90–421, § 1(10), added par. (4).
 
-### § 1641c. Claims of nationals of the United States against Italy
+### § 1641c. Claims of nationals of the United States against Italy
 
 **(a) Claims not provided for in peace treaty**
 
@@ -1600,7 +1600,7 @@ The Commission shall certify awards on claims determined pursuant to subsections
 
 After payment in full of all awards certified to the Secretary of the Treasury pursuant to subsections (a) and (e) of this section, the Secretary of the Treasury is authorized and directed to transfer the unobligated balance in the Italian Claims Fund into the War Claims Fund created by section 4110 of title 50.
 
-(Mar. 10, 1950, ch. 54, title III, § 304, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 572; amended Pub. L. 85–604, § 2, Aug. 8, 1958, 72 Stat. 531; Pub. L. 90–421, § 1(11), July 24, 1968, 82 Stat. 422.)
+(Mar. 10, 1950, ch. 54, title III, § 304, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 572; amended Pub. L. 85–604, § 2, Aug. 8, 1958, 72 Stat. 531; Pub. L. 90–421, § 1(11), July 24, 1968, 82 Stat. 422.)
 
 **Editorial Notes**
 
@@ -1610,7 +1610,7 @@ After payment in full of all awards certified to the Secretary of the Treasury p
 
 1958—Pub. L. 85–604 authorized the Commission to determine the validity and amount of claims by natural persons who were citizens of the United States on Aug. 9, 1955.
 
-### § 1641d. Claims of nationals of the United States against the Soviet Union
+### § 1641d. Claims of nationals of the United States against the Soviet Union
 
 **(a) Claims prior to November 16, 1933** The Commission shall receive and determine in accordance with applicable substantive law, including international law, the validity and amounts of—
 
@@ -1626,9 +1626,9 @@ Any judgment entered in any court of the United States or of a State of the Unit
 
 The Commission shall give preference to the disposition of the claims referred to in paragraph (1) of subsection (a) of this section, over all other claims presented to it under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title III, § 305, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 572.)
+(Mar. 10, 1950, ch. 54, title III, § 305, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 572.)
 
-### § 1641e. Filing of claims; notice in Federal Register
+### § 1641e. Filing of claims; notice in Federal Register
 
 **(a) Time period**
 
@@ -1646,37 +1646,37 @@ Within thirty days after October 20, 1974, or thirty days after enactment of leg
 
 Notwithstanding any other provision of this section, any national of the United States who was mailed notice by any department or agency of the Government of the United States with respect to filing a claim against the Government of Hungary arising out of any of the failures referred to in paragraph (1), (2), or (3) of section 1641b of this title, and who did not receive the notice as the result of administrative error in placing a nonexistent address on the notice, may file with the Commission a claim under any such paragraph. The Commission shall publish in the Federal Register, within thirty days after October 20, 1974, when the limit of time within which any such claim may be filed with the Commission, which limit shall not be more than six months after such publication.
 
-(Mar. 10, 1950, ch. 54, title III, § 306, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 572; amended Pub. L. 90–421, § 1(12), July 24, 1968, 82 Stat. 423; Pub. L. 93–460, § 1(4), Oct. 20, 1974, 88 Stat. 1386.)
+(Mar. 10, 1950, ch. 54, title III, § 306, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 572; amended Pub. L. 90–421, § 1(12), July 24, 1968, 82 Stat. 423; Pub. L. 93–460, § 1(4), Oct. 20, 1974, 88 Stat. 1386.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1974—Subsec. (a). Pub. L. 93–460, § 1(4)(A), substituted “paragraph (1), (2), or (3) of section 1641b of this title” for “this subchapter”.
+1974—Subsec. (a). Pub. L. 93–460, § 1(4)(A), substituted “paragraph (1), (2), or (3) of section 1641b of this title” for “this subchapter”.
 
-Subsecs. (c), (d). Pub. L. 93–460, § 1(4)(B), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 93–460, § 1(4)(B), added subsecs. (c) and (d).
 
 1968—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsec. (b).
 
-### § 1641f. Amount of award
+### § 1641f. Amount of award
 
 The amount of any award made pursuant to this subchapter based on a claim of a national of the United States other than the national of the United States to whom the claim originally accrued shall not exceed the amount of the actual consideration last paid therefor either prior to January 1, 1953, or between that date and the filing of the claim, whichever is less.
 
-(Mar. 10, 1950, ch. 54, title III, § 307, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 573.)
+(Mar. 10, 1950, ch. 54, title III, § 307, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 573.)
 
-### § 1641g. Certification of awards
+### § 1641g. Certification of awards
 
 The Commission shall as soon as possible, and in the order of the making of such awards, certify to the Secretary of the Treasury, in terms of United States currency, each award made pursuant to this subchapter.
 
-(Mar. 10, 1950, ch. 54, title III, § 308, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 573.)
+(Mar. 10, 1950, ch. 54, title III, § 308, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 573.)
 
-### § 1641h. Funds for payment of claims
+### § 1641h. Funds for payment of claims
 
 All payments authorized under this subchapter shall be disbursed exclusively from the claims fund attributable to the country with respect to which the claims are allowed pursuant to this subchapter. All amounts covered into the Treasury to the credit of the claims funds created by section 1641a of this title are hereby permanently appropriated for the making of the payments authorized under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title III, § 309, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 573.)
+(Mar. 10, 1950, ch. 54, title III, § 309, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 573.)
 
-### § 1641i. Payment of awards
+### § 1641i. Payment of awards
 
 **(a) Manner of payment** The Secretary of the Treasury shall make payments on account of awards certified by the Commission pursuant to this subchapter as follows:
 
@@ -1700,9 +1700,9 @@ All payments authorized under this subchapter shall be disbursed exclusively fro
 
 **(C)** Except as otherwise provided in subparagraph (D), the Secretary of the Treasury shall not authorize any further payments on account of awards certified under paragraph (3) of section 1641b of this title based on Kingdom of Hungary bonds expressed in United States dollars or upon awards to Standstill creditors of Hungary that were the subject matter of the agreement of December 5, 1969, between the Government of Hungary and the American Committee for Standstill creditors of Hungary.
 
-**(D)** No payments shall be authorized by the Secretary of the Treasury on account of awards certified by the Commission under paragraph (5) of section 1641b of this title, and no further payments shall be so authorized under paragraphs (1), (2), or (3) of section 1641b of this title (except payments certified as the result of claims filed under subsection (d) of section 1641e of this title), until payments on account of awards certified under such paragraphs (1), (2), and (3) as the result of a claims 1
+**(D)** No payments shall be authorized by the Secretary of the Treasury on account of awards certified by the Commission under paragraph (5) of section 1641b of this title, and no further payments shall be so authorized under paragraphs (1), (2), or (3) of section 1641b of this title (except payments certified as the result of claims filed under subsection (d) of section 1641e of this title), until payments on account of awards certified under such paragraphs (1), (2), and (3) as the result of a claims 1
 
-<sup>1</sup>  So in original. Probably should be “claim”.
+<sup>1</sup> So in original. Probably should be “claim”.
 
 filed under subsection (d) of section 1641e of this title have been authorized in equal proportions to payments previously authorized on existing awards certified under such paragraphs and arising out of claims filed other than under such subsection (d).
 
@@ -1720,7 +1720,7 @@ For the purposes of making any such payments, an “award” shall be deemed to 
 
 With respect to any claim which, at the time of the award, is vested in persons other than the person to whom the claim originally accrued, the Commission may issue a consolidated award in favor of all claimants then entitled thereto, which award shall indicate the respective interests of such claimants therein; and all such claimants shall participate, in proportion to their indicated interests, in the payments provided by this section in all respects as if the award had been in favor of a single person.
 
-(Mar. 10, 1950, ch. 54, title III, § 310, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 573; amended Pub. L. 90–421, § 1(13), July 24, 1968, 82 Stat. 423; Pub. L. 93–460, § 1(5), Oct. 20, 1974, 88 Stat. 1386.)
+(Mar. 10, 1950, ch. 54, title III, § 310, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 573; amended Pub. L. 90–421, § 1(13), July 24, 1968, 82 Stat. 423; Pub. L. 93–460, § 1(5), Oct. 20, 1974, 88 Stat. 1386.)
 
 **Editorial Notes**
 
@@ -1730,13 +1730,13 @@ With respect to any claim which, at the time of the award, is vested in persons 
 
 1968—Subsec. (a)(6). Pub. L. 90–421 added par. (6).
 
-### § 1641j. Claims by corporations or other legal entities
+### § 1641j. Claims by corporations or other legal entities
 
 **(a)** If a corporation or other legal entity has a claim on which an award may be made under this subchapter, no award may be made to any other person under this subchapter with respect to such claim.
 
 **(b)** A claim based upon an interest, direct or indirect, in a corporation or other legal entity which directly suffered the loss with respect to which the claim is asserted, but which was not a national of the United States at the time of the loss, shall be acted upon without regard to the nationality of such legal entity if at the time of the loss at least 25 per centum of the outstanding capital stock or other beneficial interest in such entity was owned, directly or indirectly, by natural persons who were nationals of the United States. This subsection shall not be construed so as to exclude from eligibility a claim based upon a direct ownership interest in a corporation, association, or other entity, or the property thereof, for loss by reason of the nationalization, compulsory liquidation, or other taking of such corporation, association, or other entity by the Governments of Bulgaria, Hungary, Italy, Rumania, or the Soviet Government. Any such claim may be allowed without regard to the per centum of ownership vested in the claimant.
 
-(Mar. 10, 1950, ch. 54, title III, § 311, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 573; amended Pub. L. 85–604, § 3(a), Aug. 8, 1958, 72 Stat. 531.)
+(Mar. 10, 1950, ch. 54, title III, § 311, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 573; amended Pub. L. 85–604, § 3(a), Aug. 8, 1958, 72 Stat. 531.)
 
 **Editorial Notes**
 
@@ -1748,33 +1748,33 @@ With respect to any claim which, at the time of the award, is vested in persons 
 
 **Reconsideration of Claims**
 
-Pub. L. 85–604, § 3(b), Aug. 8, 1958, 72 Stat. 531, provided that any claim heretofore denied under subsec. (b) of this section, prior to Aug. 8, 1958, would be reconsidered by the Foreign Claims Settlement Commission solely to redetermine its validity and amount.
+Pub. L. 85–604, § 3(b), Aug. 8, 1958, 72 Stat. 531, provided that any claim heretofore denied under subsec. (b) of this section, prior to Aug. 8, 1958, would be reconsidered by the Foreign Claims Settlement Commission solely to redetermine its validity and amount.
 
-### § 1641k. Prohibition against payment of award to collaborators or disloyal persons
+### § 1641k. Prohibition against payment of award to collaborators or disloyal persons
 
 No award shall be made under this subchapter to or for the benefit of any person who voluntarily, knowingly, and without duress, gave aid to or collaborated with or in any manner served any government hostile to the United States during World War II, or who has been convicted of a violation of any provision of chapter 115, of title 18, or of any other crime involving disloyalty to the United States.
 
-(Mar. 10, 1950, ch. 54, title III, § 312, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574.)
+(Mar. 10, 1950, ch. 54, title III, § 312, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574.)
 
-### § 1641l. Unpaid balance of claim; claims of United States unaffected
+### § 1641l. Unpaid balance of claim; claims of United States unaffected
 
 Payment of any award made pursuant to section 1641b or 1641d of this title shall not, unless such payment is for the full amount of the claim, as determined by the Commission to be valid, with respect to which the award is made, extinguish such claim, or be construed to have divested any claimant, or the United States on his behalf, of any rights against the appropriate foreign government or national for the unpaid balance of his claim or for restitution of his property. All awards or payments made pursuant to this subchapter shall be without prejudice to the claims of the United States against any foreign government.
 
-(Mar. 10, 1950, ch. 54, title III, § 313, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574.)
+(Mar. 10, 1950, ch. 54, title III, § 313, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574.)
 
-### § 1641m. Finality of action of Commission
+### § 1641m. Finality of action of Commission
 
 The action of the Commission in allowing or denying any claim under this subchapter shall be final and conclusive on all questions of law and fact and not subject to review by any other official of the United States or by any court by mandamus or otherwise, and the Comptroller General shall allow credit in the accounts of any certifying or disbursing officer for payments in accordance with such action.
 
-(Mar. 10, 1950, ch. 54, title III, § 314, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574.)
+(Mar. 10, 1950, ch. 54, title III, § 314, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574.)
 
-### § 1641n. Appropriations
+### § 1641n. Appropriations
 
 There are authorized to be appropriated such sums as may be necessary to enable the Commission and the Treasury Department to pay their administrative expenses incurred in carrying out their functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title III, § 315, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574.)
+(Mar. 10, 1950, ch. 54, title III, § 315, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574.)
 
-### § 1641o. Time limitation on completion of affairs of Commission
+### § 1641o. Time limitation on completion of affairs of Commission
 
 **(a) Claims against Russian nationals**
 
@@ -1788,7 +1788,7 @@ The Commission shall complete its affairs in connection with the settlement of c
 
 The Commission shall complete its affairs in connection with the settlement of claims pursuant to paragraph (5) of section 1641b of this title not later than two years following the deadline established under subsection (c) of section 1641e of this title.
 
-(Mar. 10, 1950, ch. 54, title III, § 316, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574; amended Pub. L. 90–421, § 1(14), July 24, 1968, 82 Stat. 423; Pub. L. 93–460, § 1(6), Oct. 20, 1974, 88 Stat. 1387.)
+(Mar. 10, 1950, ch. 54, title III, § 316, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574; amended Pub. L. 90–421, § 1(14), July 24, 1968, 82 Stat. 423; Pub. L. 93–460, § 1(6), Oct. 20, 1974, 88 Stat. 1387.)
 
 **Editorial Notes**
 
@@ -1798,7 +1798,7 @@ The Commission shall complete its affairs in connection with the settlement of c
 
 1968—Pub. L. 90–421 designated existing provisions as subsec. (a) and added subsec. (b).
 
-### § 1641p. Fees of agents, attorneys, or representatives
+### § 1641p. Fees of agents, attorneys, or representatives
 
 **(a) Maximum remuneration; penalty for violation**
 
@@ -1808,13 +1808,13 @@ The total remuneration paid to all agents, attorneys-at-law or in fact, or repre
 
 Not later than three months after the Commission has completed its affairs in connection with the settlement of all claims payable from the fund from which an award is payable, any agent, attorney-at-law or in fact, or representative who believes that the total remuneration for services rendered in connection with the claim upon which such award is made should exceed the maximum otherwise permitted by this section may, pursuant to such procedure as the Commission shall prescribe by regulation, petition the Commission for an order authorizing the payment of remuneration in excess of such maximum. The Commission shall issue such an order only upon a finding that there exist special circumstances of unusual hardship which require the payment of such excess; and such order shall state the amount of the excess which may so be paid. The determination of the Commission in ruling upon such petition shall be within the sole discretion of the Commission and shall not be subject to review by any court.
 
-(Mar. 10, 1950, ch. 54, title III, § 317, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574.)
+(Mar. 10, 1950, ch. 54, title III, § 317, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 574.)
 
-### § 1641q. Applicability of administrative provisions of subchapter I
+### § 1641q. Applicability of administrative provisions of subchapter I
 
 The following provisions of subchapter I shall be applicable to this subchapter: Subsections (b), (c), (d), (e), (h), and (j) of section 1623 of this title; and subsections (c), (d), (e), and (f) of section 1626 of this title.
 
-(Mar. 10, 1950, ch. 54, title III, § 318, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 575.)
+(Mar. 10, 1950, ch. 54, title III, § 318, as added Aug. 9, 1955, ch. 645, § 3, 69 Stat. 575.)
 
 ## SUBCHAPTER IV—CLAIMS AGAINST CZECHOSLOVAKIA
 
@@ -1952,7 +1952,7 @@ Pub. L. 97–127, Dec. 29, 1981, 95 Stat. 1675, provided:
 
 > the provisions of this Act shall cease to be effective, and the provisions of the Agreement may not be implemented unless the Congress approves the Agreement after the end of that sixty-day period.
 
-> **“(b)** The sixty-day period for implementation of the Agreement required by subsection (a) shall be extended by an additional period of thirty calendar days if, before the expiration of that sixty-day period, the Secretary of State certifies in writing that such extension is consistent with the purposes of this Act and reports that certification to the Speaker of the House of Representatives and to the Chairman of the Committee on Foreign Relations of the Senate, together with a detailed statement of the reasons for the extension. If at the end of that additional thirty-day period the events set forth in paragraphs (1) and (2) of subsection (a) have not occurred, the provisions of this Act shall cease to be effective and the provisions of the Agreement may not be implemented unless the Congress approves the Agreement after the end of that thirty-day period or unless the Congress, before the expiration of that thirty-day period, authorizes by joint resolution a further extension of time for implementation of the Agreement. Such joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976 [Pub. L. 94–329, title VI, § 601(b), June 30, 1976, 90 Stat. 765], and in the House of Representatives a motion to proceed to the consideration of such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged.
+> **“(b)** The sixty-day period for implementation of the Agreement required by subsection (a) shall be extended by an additional period of thirty calendar days if, before the expiration of that sixty-day period, the Secretary of State certifies in writing that such extension is consistent with the purposes of this Act and reports that certification to the Speaker of the House of Representatives and to the Chairman of the Committee on Foreign Relations of the Senate, together with a detailed statement of the reasons for the extension. If at the end of that additional thirty-day period the events set forth in paragraphs (1) and (2) of subsection (a) have not occurred, the provisions of this Act shall cease to be effective and the provisions of the Agreement may not be implemented unless the Congress approves the Agreement after the end of that thirty-day period or unless the Congress, before the expiration of that thirty-day period, authorizes by joint resolution a further extension of time for implementation of the Agreement. Such joint resolution shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976 [Pub. L. 94–329, title VI, § 601(b), June 30, 1976, 90 Stat. 765], and in the House of Representatives a motion to proceed to the consideration of such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged.
 
 > **“social security agreement**
 
@@ -1960,13 +1960,13 @@ Pub. L. 97–127, Dec. 29, 1981, 95 Stat. 1675, provided:
 
 > The Secretary of State shall conduct a detailed review of the exchange of letters between the United States and Czechoslovakia providing for reciprocal social security payments to residents of the two countries. Such review should include an examination of the extent to which Czechoslovakia is complying with the spirit and provisions of the letters, a comparison of the benefits being realized by residents of Czechoslovakia and of the United States under the letters, and an evaluation of the basis of differences in such benefits. The Secretary of State, in consultation with the Department of Health and Human Services, shall report to the Congress, not later than six months after the date of the enactment of this Act [Dec. 29, 1981], the results of such review, together with any recommendations for legislation or changes in the agreement made by the letters that may be necessary to achieve greater comparability and equity of benefits for the residents of the two countries. Such report should include specific assessments of the feasibility, likely effects, and advisability of terminating United States social security payments to residents of Czechoslovakia in response to inequities and incomparabilities of benefits payments under the exchange of letters.”
 
-### § 1642. Definitions
+### § 1642. Definitions
 
 As used in this subchapter—
 
 **(1)** “National of the United States” means (A) a natural person who is a citizen of the United States, or who owes permanent allegiance to the United States, and (B) a corporation or other legal entity which is organized under the laws of the United States, any State or Territory thereof, or the District of Columbia, if natural persons who are nationals of the United States own, directly or indirectly, more than 50 per centum of the outstanding capital stock or other beneficial interest in such legal entity. It does not include aliens. (2) “Commission” means the Foreign Claims Settlement Commission of the United States, established, pursuant to Reorganization Plan Number 1 of 1954 (68 Stat. 1279). (3) “Property” means any property, right, or interest.
 
-(Mar. 10, 1950, ch. 54, title IV, § 401, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 527.)
+(Mar. 10, 1950, ch. 54, title IV, § 401, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 527.)
 
 **Editorial Notes**
 
@@ -1978,13 +1978,13 @@ Reorganization Plan Number 1 of 1954 (68 Stat. 1279), referred to in text, is Re
 
 **Separability**
 
-Pub. L. 85–604, § 4, Aug. 8, 1958, 72 Stat. 531, provided that: “If any provision of this Act [enacting this subchapter and amending sections 1641c and 1641j of this title], or the application thereof to any person or circumstances, shall be held invalid, the remainder of the Act, or the application of such provision to other persons or circumstances, shall not be affected.”
+Pub. L. 85–604, § 4, Aug. 8, 1958, 72 Stat. 531, provided that: “If any provision of this Act [enacting this subchapter and amending sections 1641c and 1641j of this title], or the application thereof to any person or circumstances, shall be held invalid, the remainder of the Act, or the application of such provision to other persons or circumstances, shall not be affected.”
 
 **Transfer of Foreign Claims Settlement Commission of the United States as Separate Agency Within Department of Justice**
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 
-### § 1642a. Financial provisions
+### § 1642a. Financial provisions
 
 **(a) Deposit of proceeds of certain property**
 
@@ -2010,7 +2010,7 @@ The Secretary of the Treasury shall deduct from the Czechoslovakian Claims Fund 
 
 After the deduction for administrative expenses pursuant to subsection (e) of this section, and after payment of awards certified pursuant to section 1642i of this title, the balance remaining in the Fund, if any, shall be paid to Czechoslovakia in accordance with instructions to be provided by the Secretary of State.
 
-(Mar. 10, 1950, ch. 54, title IV, § 402, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 527.)
+(Mar. 10, 1950, ch. 54, title IV, § 402, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 527.)
 
 **Editorial Notes**
 
@@ -2018,11 +2018,11 @@ After the deduction for administrative expenses pursuant to subsection (e) of th
 
 Executive Order Numbered 9193, dated July 6, 1942 (7 F.R. 5205, July 9, 1942), referred to in subsec. (a), is Ex. Ord. No. 9193, July 6, 1942, 7 F.R. 5205, which amended Ex. Ord. No. 9095, formerly set out under section 6 of the former Appendix to Title 50, War and National Defense, which was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
-### § 1642b. Claims against United States; jurisdiction; limitation; preference; reserve fund
+### § 1642b. Claims against United States; jurisdiction; limitation; preference; reserve fund
 
 No judicial relief or remedy shall be available to any person asserting a claim against the United States or any officer or agent thereof with respect to any action taken under this subchapter, or any other claim for or on account of the property or proceeds described in section 1642a of this title, or for any other action taken with respect thereto except to the extent that the action complained of constitutes a taking of private property without just compensation, and to such extent the sole judicial relief and remedy available shall be an action brought against the United States in the United States Court of Federal Claims which action must be brought within one year of August 8, 1958, or it shall be forever barred; and any action so brought shall receive a preference over all actions which themselves are not given preference by statute. No other court shall have original jurisdiction to consider any such claim by mandamus or otherwise. If any action is brought pursuant to this section the Secretary of the Treasury shall set aside an appropriate reserve in the account containing the moneys held pursuant to subsection (a) of section 1642a of this title. Such reserve shall be retained pending a final determination of all issues raised in the action and recovery in any such action shall be limited to and paid out of the moneys so reserved. After a final determination of all issues raised in the action and payment of any judgment against the United States entered pursuant thereto, any balance no longer required to be held in reserve shall be disposed of in accordance with the provisions of subsection (d) of section 1642a of this title. Nothing in this section shall be construed to create (1) any liability against the United States for any action taken pursuant to section 1642c of this title, (2) any liability against the United States in favor of the Government of Czechoslovakia, any agency or instrumentality thereof or any person who is an assignee or successor in interest thereto, or (3) any other liability against the United States.
 
-(Mar. 10, 1950, ch. 54, title IV, § 403, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 528; amended Pub. L. 97–164, title I, § 161(3), Apr. 2, 1982, 96 Stat. 49; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Mar. 10, 1950, ch. 54, title IV, § 403, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 528; amended Pub. L. 97–164, title I, § 161(3), Apr. 2, 1982, 96 Stat. 49; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -2042,19 +2042,19 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-### § 1642c. Determination of validity and amount of claims
+### § 1642c. Determination of validity and amount of claims
 
 The Commission shall determine in accordance with applicable substantive law, including international law, the validity and amount of claims by nationals of the United States against the Government of Czechoslovakia for losses resulting from the nationalization or other taking on and after January 1, 1945, of property including any rights or interests therein owned at the time by nationals of the United States, subject, however, to the terms and conditions of an applicable claims agreement, if any, concluded between the Governments of Czechoslovakia and the United States within one year following August 8, 1958. In making the determination with respect to the validity and amount of claims and value of properties, rights, or interests taken, the Commission is authorized to accept the fair or proved value of the said property, right, or interest as of a time when the property or business enterprise taken, was last operated, used, managed or controlled by the national or nationals of the United States asserting the claim irrespective of whether such date is prior to the actual date of nationalization or taking by the Government of Czechoslovakia.
 
-(Mar. 10, 1950, ch. 54, title IV, § 404, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 528.)
+(Mar. 10, 1950, ch. 54, title IV, § 404, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 528.)
 
-### § 1642d. Nationality requirements
+### § 1642d. Nationality requirements
 
 A claim under section 1642c of this title shall not be allowed unless the property upon which the claim is based was owned by a national of the United States on the date of nationalization or other taking thereof and unless the claim has been held by a national of the United States continuously thereafter until the date of filing with the Commission.
 
-(Mar. 10, 1950, ch. 54, title IV, § 405, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 528.)
+(Mar. 10, 1950, ch. 54, title IV, § 405, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 528.)
 
-### § 1642e. Claims based on ownership interest in corporations or other legal entities
+### § 1642e. Claims based on ownership interest in corporations or other legal entities
 
 **(a) Nationals of United States**
 
@@ -2072,45 +2072,45 @@ A claim under section 1642c of this title, based upon an indirect ownership inte
 
 Any award on a claim under subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant bears to the entire ownership interest thereof.
 
-(Mar. 10, 1950, ch. 54, title IV, § 406, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
+(Mar. 10, 1950, ch. 54, title IV, § 406, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
 
-### § 1642f. Prevention of double benefits
+### § 1642f. Prevention of double benefits
 
 In determining the amount of any award by the Commission there shall be deducted all amounts the claimant has received from any source on account of the same loss or losses with respect to which such award is made.
 
-(Mar. 10, 1950, ch. 54, title, IV, § 407, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
+(Mar. 10, 1950, ch. 54, title, IV, § 407, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
 
-### § 1642g. Consolidated awards
+### § 1642g. Consolidated awards
 
 With respect to any claim under section 1642c of this title which, at the time of the award, is vested in persons other than the person by whom the loss was sustained, the Commission may issue a consolidated award in favor of all claimants then entitled thereto, which award shall indicate the respective interests of such claimants therein, and all such claimants shall participate, in proportion to their indicated interests, in the payments authorized by this subchapter in all respects as if the award had been in favor of a single person.
 
-(Mar. 10, 1950, ch. 54, title IV, § 408, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
+(Mar. 10, 1950, ch. 54, title IV, § 408, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
 
-### § 1642h. Prohibition against payment of award to certain persons
+### § 1642h. Prohibition against payment of award to certain persons
 
 No award shall be made on any claim under section 1642c of this title to or for the benefit of (1) any person who has been convicted of a violation of any provision of chapter 115 of title 18, or of any other crime involving disloyalty to the United States, or (2) any claimant whose claim under this subchapter is within the scope of subchapter III of this chapter.
 
-(Mar. 10, 1950, ch. 54, title IV, § 409, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
+(Mar. 10, 1950, ch. 54, title IV, § 409, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
 
-### § 1642i. Certification of awards
+### § 1642i. Certification of awards
 
 The Commission shall certify to the Secretary of the Treasury, in terms of United States currency, each award made pursuant to this subchapter.
 
-(Mar. 10, 1950, ch. 54, title IV, § 410, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
+(Mar. 10, 1950, ch. 54, title IV, § 410, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
 
-### § 1642j. Time for filing of claims; notice
+### § 1642j. Time for filing of claims; notice
 
 Within sixty days after August 8, 1958, or of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions under this subchapter, whichever date is later, the Commission shall give public notice by publication in the Federal Register of the time when, and the limit of time within which claims may be filed, which limit shall not be more than twelve months after such publication.
 
-(Mar. 10, 1950, ch. 54, title IV, § 411, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
+(Mar. 10, 1950, ch. 54, title IV, § 411, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
 
-### § 1642k. Time limitation on completion of affairs of Commission
+### § 1642k. Time limitation on completion of affairs of Commission
 
 The Commission shall complete its affairs in connection with the settlement of claims pursuant to this subchapter not later than three years following the final date for the filing of claims as provided in section 1642j of this title or following the enactment of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions under this subchapter, whichever date is later.
 
-(Mar. 10, 1950, ch. 54, title IV, § 412, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
+(Mar. 10, 1950, ch. 54, title IV, § 412, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 529.)
 
-### § 1642l. Payment of awards
+### § 1642l. Payment of awards
 
 **(a) Manner of payment** The Secretary of the Treasury is authorized and directed, out of the sums covered into the Czechoslovakian Claims Fund, to make payments on account of awards certified by the Commission pursuant to this subchapter as follows and in the following order of priority:
 
@@ -2134,39 +2134,39 @@ If any person to whom any payment is to be made pursuant to this subchapter is d
 
 Subject to the provisions of any claims agreement hereafter concluded between the Governments of Czechoslovakia and the United States, payment of any award pursuant to this subchapter shall not, unless such payment is for the full amount of the claim, as determined by the Commission to be valid, with respect to which the award is made, extinguish such claim, or be construed to have divested any claimant, or the United States on his behalf, of any rights against any foreign government for the unpaid balance of his claim.
 
-(Mar. 10, 1950, ch. 54, title IV, § 413, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 530.)
+(Mar. 10, 1950, ch. 54, title IV, § 413, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 530.)
 
-### § 1642m. Fees of attorneys; limitation; penalty
+### § 1642m. Fees of attorneys; limitation; penalty
 
 No remuneration on account of services rendered on behalf of any claimant in connection with any claim filed with the Commission under this subchapter shall exceed 10 per centum of the total amount paid pursuant to any award certified under the provisions of this subchapter on account of such claim. Any agreement to the contrary shall be unlawful and void. Whoever, in the United States or elsewhere, demands or receives, on account of services so rendered, any remuneration in excess of the maximum permitted by this section, shall be guilty of a misdemeanor, and, upon conviction thereof, shall be fined not more than $5,000 or imprisoned not more than twelve months, or both.
 
-(Mar. 10, 1950, ch. 54, title IV, § 414, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 530.)
+(Mar. 10, 1950, ch. 54, title IV, § 414, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 530.)
 
-### § 1642n. Transfer of records
+### § 1642n. Transfer of records
 
 The Secretary of State is authorized and directed to transfer or otherwise make available to the Commission such records and documents relating to claims authorized by this subchapter as may be required by the Commission in carrying out its functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title IV, § 415, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 530.)
+(Mar. 10, 1950, ch. 54, title IV, § 415, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 530.)
 
-### § 1642o. Applicability of administrative provisions of subchapter I
+### § 1642o. Applicability of administrative provisions of subchapter I
 
 To the extent they are not inconsistent with the provisions of this subchapter, the following provisions of subchapter I shall be applicable to this subchapter: Subsections (b), (c), (d), (e), (h), and (j) of section 1623 of this title; subsections (c), (d), (e), and (f) of section 1626 of this title.
 
-(Mar. 10, 1950, ch. 54, title IV, § 416, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 530.)
+(Mar. 10, 1950, ch. 54, title IV, § 416, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 530.)
 
-### § 1642p. Authorization of appropriations
+### § 1642p. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to enable the Commission and the Treasury Department to pay their administrative expenses incurred in carrying out their functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title IV, § 417, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 530.)
+(Mar. 10, 1950, ch. 54, title IV, § 417, as added Pub. L. 85–604, § 1, Aug. 8, 1958, 72 Stat. 530.)
 
 ## SUBCHAPTER V—CLAIMS AGAINST CUBA AND CHINA
 
-### § 1643. Congressional declaration of purpose
+### § 1643. Congressional declaration of purpose
 
 It is the purpose of this subchapter to provide for the determination of the amount and validity of claims against the Government of Cuba, or the Chinese Communist regime, which have arisen since January 1, 1959, in the case of claims against the Government of Cuba, or since October 1, 1949, in the case of claims against the Chinese Communist regime, out of nationalization, expropriation, intervention, or other takings of, or special measures directed against, property of nationals of the United States, and claims for disability or death of nationals of the United States arising out of violations of international law by the Government of Cuba, or the Chinese Communist regime, in order to obtain information concerning the total amount of such claims against the Government of Cuba, or the Chinese Communist regime, on behalf of nationals of the United States. This subchapter shall not be construed as authorizing an appropriation or as any intention to authorize an appropriation for the purpose of paying such claims.
 
-(Mar. 10, 1950, ch. 54, title V, § 501, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1110; amended Pub. L. 89–262, § 1, Oct. 19, 1965, 79 Stat. 988; Pub. L. 89–780, § 1, Nov. 6, 1966, 80 Stat. 1365.)
+(Mar. 10, 1950, ch. 54, title V, § 501, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1110; amended Pub. L. 89–262, § 1, Oct. 19, 1965, 79 Stat. 988; Pub. L. 89–780, § 1, Nov. 6, 1966, 80 Stat. 1365.)
 
 **Editorial Notes**
 
@@ -2180,9 +2180,9 @@ It is the purpose of this subchapter to provide for the determination of the amo
 
 **Separability**
 
-Act Mar. 10, 1950, ch. 54, title V, § 513, as added by Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1113, provided that: “If any provision of this Act [enacting this subchapter], or the application thereof to any person or circumstances, shall be held invalid, the remainder of the Act, or the application of such provision to other persons or circumstances, shall not be affected.”
+Act Mar. 10, 1950, ch. 54, title V, § 513, as added by Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1113, provided that: “If any provision of this Act [enacting this subchapter], or the application thereof to any person or circumstances, shall be held invalid, the remainder of the Act, or the application of such provision to other persons or circumstances, shall not be affected.”
 
-### § 1643a. Definitions
+### § 1643a. Definitions
 
 For the purposes of this subchapter:
 
@@ -2196,15 +2196,15 @@ For the purposes of this subchapter:
 
 **(5)** The term “Chinese Communist regime” means the so-called Peoples Republic of China, including any political subdivision, agency, or instrumentality thereof.
 
-(Mar. 10, 1950, ch. 54, title V, § 502, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1110; amended Pub. L. 89–780, § 2, Nov. 6, 1966, 80 Stat. 1365.)
+(Mar. 10, 1950, ch. 54, title V, § 502, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1110; amended Pub. L. 89–780, § 2, Nov. 6, 1966, 80 Stat. 1365.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1966—Par. (3). Pub. L. 89–780, § 2(1), inserted reference to the Chinese Communist regime in three places.
+1966—Par. (3). Pub. L. 89–780, § 2(1), inserted reference to the Chinese Communist regime in three places.
 
-Par. (5). Pub. L. 89–780, § 2(2), added par. (5).
+Par. (5). Pub. L. 89–780, § 2(2), added par. (5).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2212,7 +2212,7 @@ Par. (5). Pub. L. 89–780, § 2(2), added par. (5).
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 
-### § 1643b. Receipt of claims; determination of amount and validity
+### § 1643b. Receipt of claims; determination of amount and validity
 
 **(a) Claims for property loss**
 
@@ -2222,19 +2222,19 @@ The Commission shall receive and determine in accordance with applicable substan
 
 The Commission shall receive and determine in accordance with applicable substantive law, including international law, the amount and validity of claims by nationals of the United States against the Government of Cuba, or the Chinese Communist regime, arising since January 1, 1959, in the case of claims against the Government of Cuba, or since October 1, 1949, in the case of claims against the Chinese Communist regime, for disability or death resulting from actions taken by or under the authority of the Government of Cuba, or the Chinese Communist regime, if such claims are submitted to the Commission within the period established by the Commission under subsection (a), or within six months after the date the claims first arose (as determined by the Commission), whichever date last occurs.
 
-(Mar. 10, 1950, ch. 54, title V, § 503, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1110; amended Pub. L. 89–262, § 2, Oct. 19, 1965, 79 Stat. 988; Pub. L. 89–780, § 3, Nov. 6, 1966, 80 Stat. 1365.)
+(Mar. 10, 1950, ch. 54, title V, § 503, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1110; amended Pub. L. 89–262, § 2, Oct. 19, 1965, 79 Stat. 988; Pub. L. 89–780, § 3, Nov. 6, 1966, 80 Stat. 1365.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1966—Subsec. (a). Pub. L. 89–780, § 3, empowered the Commission to receive claims against the Chinese Communist regime arising since October 1, 1949, if such claims are submitted within such period of time specified by the Commission by notice published in the Federal Register, which notice is required to be published within 60 days after November 6, 1966.
+1966—Subsec. (a). Pub. L. 89–780, § 3, empowered the Commission to receive claims against the Chinese Communist regime arising since October 1, 1949, if such claims are submitted within such period of time specified by the Commission by notice published in the Federal Register, which notice is required to be published within 60 days after November 6, 1966.
 
-Subsec. (b). Pub. L. 89–780, § 3(1), (2), provided for applicability of subsection to the Chinese Communist regime in the case of claims arising since October 1, 1949.
+Subsec. (b). Pub. L. 89–780, § 3(1), (2), provided for applicability of subsection to the Chinese Communist regime in the case of claims arising since October 1, 1949.
 
 1965—Subsec. (a). Pub. L. 89–262 struck out “arising out of debts for merchandise furnished or services rendered by nationals of the United States without regard to the date on which such merchandise was furnished or services rendered or” after “Government of Cuba”.
 
-### § 1643c. Ownership of claims by nationals
+### § 1643c. Ownership of claims by nationals
 
 **(a) Requirements for consideration of claims for property loss**
 
@@ -2244,9 +2244,9 @@ A claim shall not be considered under section 1643b(a) of this title unless the 
 
 A claim for disability under section 1643b(b) of this title may be considered if it is filed by the disabled person or by his successors in interest; and a claim for death under section 1643b(b) of this title may be considered if filed by the personal representative of decedent’s estate or by a person or persons for pecuniary losses and damage sustained on account of such death. A claim shall not be considered under this section unless the disabled or deceased person was a national of the United States at the time of injury or death and if considered, shall be considered only to the extent the claim has been held by a national or nationals of the United States continuously until the date of filing with the Commission.
 
-(Mar. 10, 1950, ch. 54, title V, § 504, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1111.)
+(Mar. 10, 1950, ch. 54, title V, § 504, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1111.)
 
-### § 1643d. Claims based on ownership interest in or debt or other obligations owing by corporations or other legal entities
+### § 1643d. Claims based on ownership interest in or debt or other obligations owing by corporations or other legal entities
 
 **(a) Nationals of the United States; charge on property**
 
@@ -2264,7 +2264,7 @@ A claim under section 1643b(a) of this title based upon an indirect ownership in
 
 The amount of any claim covered by subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant at the time of loss bears to the entire ownership interest thereof.
 
-(Mar. 10, 1950, ch. 54, title V, § 505, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1111; amended Pub. L. 89–262, § 3, Oct. 19, 1965, 79 Stat. 988; Pub. L. 89–780, § 4, Nov. 6, 1966, 80 Stat. 1365.)
+(Mar. 10, 1950, ch. 54, title V, § 505, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1111; amended Pub. L. 89–262, § 3, Oct. 19, 1965, 79 Stat. 988; Pub. L. 89–780, § 4, Nov. 6, 1966, 80 Stat. 1365.)
 
 **Editorial Notes**
 
@@ -2274,11 +2274,11 @@ The amount of any claim covered by subsection (b) or (c) of this section shall b
 
 1965—Subsec. (a). Pub. L. 89–262 authorized consideration of claims based on debt or other obligation owing by corporations or other legal entities which is a charge on property nationalized, expropriated, intervened, or taken by Government of Cuba.
 
-### § 1643e. Offsets
+### § 1643e. Offsets
 
 In determining the amount of any claim, the Commission shall deduct all amounts the claimant has received from any source on account of the same loss or losses.
 
-(Mar. 10, 1950, ch. 54, title V, § 506, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112; amended Pub. L. 89–262, § 4, Oct. 19, 1965, 79 Stat. 988.)
+(Mar. 10, 1950, ch. 54, title V, § 506, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112; amended Pub. L. 89–262, § 4, Oct. 19, 1965, 79 Stat. 988.)
 
 **Editorial Notes**
 
@@ -2286,7 +2286,7 @@ In determining the amount of any claim, the Commission shall deduct all amounts 
 
 1965—Pub. L. 89–262 struck out proviso that the deduction of such amounts shall not be construed as divesting the United States of any rights against the Government of Cuba for the amounts so deducted.
 
-### § 1643f. Action of Commission with respect to claims
+### § 1643f. Action of Commission with respect to claims
 
 **(a) Certification of amounts**
 
@@ -2296,25 +2296,25 @@ The Commission shall certify to each individual who has filed a claim under this
 
 The amount determined to be due on any claim of an assignee who acquires the same by purchase shall not exceed (or, in the case of any such acquisition subsequent to the date of the determination, shall not be deemed to have exceeded) the amount of the actual consideration paid by such assignee, or in case of successive assignments of a claim by any assignee.
 
-(Mar. 10, 1950, ch. 54, title V, § 507, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112.)
+(Mar. 10, 1950, ch. 54, title V, § 507, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112.)
 
-### § 1643g. Transfer of records
+### § 1643g. Transfer of records
 
 The Secretary of State shall transfer or otherwise make available to the Commission such records and documents relating to claims authorized by this subchapter as may be required by the Commission in carrying out its functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title V, § 508, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112.)
+(Mar. 10, 1950, ch. 54, title V, § 508, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112.)
 
-### § 1643h. Applicability of administrative provisions of subchapter I
+### § 1643h. Applicability of administrative provisions of subchapter I
 
 To the extent they are not inconsistent with the provisions of this subchapter, the following provisions of subchapter I of this chapter shall be applicable to this subchapter: Subsections (b), (c), (d) (e), (h), and (j) of section 1623 of this title; subsection (f) of section 1626 of this title.
 
-(Mar. 10, 1950, ch. 54, title V, § 509, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112.)
+(Mar. 10, 1950, ch. 54, title V, § 509, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112.)
 
-### § 1643i. Time limitation on completion of affairs of Commission
+### § 1643i. Time limitation on completion of affairs of Commission
 
 The Commission shall complete its affairs in connection with the settlement of claims pursuant to this subchapter not later than July 6, 1972.
 
-(Mar. 10, 1950, ch. 54, title V, § 510, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112; amended Pub. L. 89–780, § 5, Nov. 6, 1966, 80 Stat. 1365; Pub. L. 91–157, Dec. 24, 1969, 83 Stat. 435.)
+(Mar. 10, 1950, ch. 54, title V, § 510, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1112; amended Pub. L. 89–780, § 5, Nov. 6, 1966, 80 Stat. 1365; Pub. L. 91–157, Dec. 24, 1969, 83 Stat. 435.)
 
 **Editorial Notes**
 
@@ -2324,11 +2324,11 @@ The Commission shall complete its affairs in connection with the settlement of c
 
 1966—Pub. L. 89–780 inserted “with respect to each respective claims program authorized” after “carrying out its functions”.
 
-### § 1643j. Authorization of appropriations
+### § 1643j. Authorization of appropriations
 
 There are hereby authorized to be appropriated such sums as may be necessary to enable the Commission to pay its administrative expenses incurred in carrying out its functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title V, § 511, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1113; amended Pub. L. 89–262, § 5, Oct. 19, 1965, 79 Stat. 988.)
+(Mar. 10, 1950, ch. 54, title V, § 511, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1113; amended Pub. L. 89–262, § 5, Oct. 19, 1965, 79 Stat. 988.)
 
 **Editorial Notes**
 
@@ -2336,21 +2336,21 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 1965—Pub. L. 89–262 redesignated subsec. (a) as the complete section, struck out limitation of amount of appropriations to aggregate amount of net proceeds realized from sale or liquidation of property of Government of Cuba and use of funds to pay administrative expenses of the Treasury Department in carrying out its functions, and eliminated subsec. (b) providing for vesting and liquidation of Cuban property.
 
-### § 1643k. Fees for services; limitation; penalty
+### § 1643k. Fees for services; limitation; penalty
 
 No remuneration on account of any services rendered on behalf of any claimant in connection with any claim filed with the Commission under this subchapter shall exceed 10 per centum of so much of the total amount of such claim, as determined under this subchapter, as does not exceed $20,000, plus 5 per centum of so much of such amount, if any, as exceeds $20,000. Any agreement to the contrary shall be unlawful and void. Whoever, in the United States or elsewhere, demands or receives on account of services so rendered, any remuneration in excess of the maximum permitted by this section, shall be fined not more than $5,000 or imprisoned not more than twelve months, or both.
 
-(Mar. 10, 1950, ch. 54, title V, § 512, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1113.)
+(Mar. 10, 1950, ch. 54, title V, § 512, as added Pub. L. 88–666, Oct. 16, 1964, 78 Stat. 1113.)
 
-### § 1643l. Determination of ownership of claims referred by district courts of the United States
+### § 1643l. Determination of ownership of claims referred by district courts of the United States
 
-Notwithstanding any other provision of this chapter and only for purposes of section 6082 of this title, a United State 1
+Notwithstanding any other provision of this chapter and only for purposes of section 6082 of this title, a United State 1
 
 <sup>1</sup> So in original. Probably should be “States”.
 
 district court, for fact-finding purposes, may refer to the Commission, and the Commission may determine, questions of the amount and ownership of a claim by a United States national (as defined in section 6023 of this title), resulting from the confiscation of property by the Government of Cuba described in section 1643b(a) of this title, whether or not the United States national qualified as a national of the United States (as defined in section 1643a(1) of this title) at the time of the action by the Government of Cuba.
 
-(Mar. 10, 1950, ch. 54, title V, § 514, as added Pub. L. 104–114, title III, § 303(b), Mar. 12, 1996, 110 Stat. 820.)
+(Mar. 10, 1950, ch. 54, title V, § 514, as added Pub. L. 104–114, title III, § 303(b), Mar. 12, 1996, 110 Stat. 820.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2358,13 +2358,13 @@ district court, for fact-finding purposes, may refer to the Commission, and the 
 
 Section effective Aug. 1, 1996, or date determined pursuant to suspension authority of President, see section 6085 of this title.
 
-### § 1643m. Exclusivity of Foreign Claims Settlement Commission certification procedure
+### § 1643m. Exclusivity of Foreign Claims Settlement Commission certification procedure
 
 **(a)** Subject to subsection (b), neither any national of the United States who was eligible to file a claim under section 1643b of this title but did not timely file such claim under that section, nor any person who was ineligible to file a claim under section 1643b of this title, nor any national of Cuba, including any agency, instrumentality, subdivision, or enterprise of the Government of Cuba or any local government of Cuba, nor any successor thereto, whether or not recognized by the United States, shall have a claim to, participate in, or otherwise have an interest in, the compensation proceeds or nonmonetary compensation paid or allocated to a national of the United States by virtue of a claim certified by the Commission under section 1643f of this title, nor shall any district court of the United States have jurisdiction to adjudicate any such claim.
 
 **(b)** Nothing in subsection (a) shall be construed to detract from or otherwise affect any rights in the shares of capital stock of nationals of the United States owning claims certified by the Commission under section 1643f of this title.
 
-(Mar. 10, 1950, ch. 54, title V, § 515, as added Pub. L. 104–114, title III, § 304, Mar. 12, 1996, 110 Stat. 821.)
+(Mar. 10, 1950, ch. 54, title V, § 515, as added Pub. L. 104–114, title III, § 304, Mar. 12, 1996, 110 Stat. 821.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2374,21 +2374,21 @@ Section effective Aug. 1, 1996, or date determined pursuant to suspension author
 
 ## SUBCHAPTER VI—CLAIMS AGAINST GERMAN DEMOCRATIC REPUBLIC
 
-### § 1644. Congressional declaration of purpose
+### § 1644. Congressional declaration of purpose
 
 It is the purpose of this subchapter to provide for the determination of the validity and amounts of outstanding claims against the German Democratic Republic which arose out of the nationalization, expropriation, or other taking of (or special measures directed against) property interests of nationals of the United States. This subchapter shall not be construed as authorizing or as any intention to authorize an appropriation by the United States for the purpose of paying such claims.
 
-(Mar. 10, 1950, ch. 54, title VI, § 600, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2509.)
+(Mar. 10, 1950, ch. 54, title VI, § 600, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2509.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Separability**
 
-Act Mar. 10, 1950, ch. 54, title VI, § 614, as added by Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512, provided that: “If any provisions of this Act [enacting this subchapter] or the application thereof to any person or circumstances shall be held invalid, the remainder of the Act or the application of such provision to other persons or circumstances shall not be affected.”
+Act Mar. 10, 1950, ch. 54, title VI, § 614, as added by Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512, provided that: “If any provisions of this Act [enacting this subchapter] or the application thereof to any person or circumstances shall be held invalid, the remainder of the Act or the application of such provision to other persons or circumstances shall not be affected.”
 
 **Authority of Foreign Claims Settlement Commission**
 
-Section 119 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37, provided that:
+Section 119 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, and as enacted into law by Pub. L. 104–91, title I, § 101(a), Jan. 6, 1996, 110 Stat. 11, as amended by Pub. L. 104–99, title II, § 211, Jan. 26, 1996, 110 Stat. 37, provided that:
 
 > **“(a) Authority of the Foreign Claims Settlement Commission.—** The Foreign Claims Settlement Commission of the United States (the ‘Commission’) is authorized to receive and determine the validity and amount of claims by nationals of the United States against the Federal Republic of Germany covered by Article 2(2) of the Agreement Between the Government of the Federal Republic of Germany and the Government of the United States of America Concerning Final Benefits to Certain United States Nationals Who Were Victims of National Socialist Measures of Persecution, entered into force September 19, 1995 (the ‘Agreement’). In deciding such claims, the Commission shall be guided by the criteria applied by the Department of State in determining the validity and amount of the claims covered by and settled under Article 2(1) of the Agreement.
 
@@ -2404,7 +2404,7 @@ Section 119 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of
 
 > **“(e) Separability.—** If any provision of this section or the application thereof to any person or circumstances is held invalid, the remainder of this section or the application of such provision to other persons or circumstances shall not be affected.”
 
-### § 1644a. Definitions
+### § 1644a. Definitions
 
 As used in this subchapter—
 
@@ -2426,7 +2426,7 @@ a corporation or other legal entity which is organized under the laws of the Uni
 
 **(5)** The term “Claims Fund” is the special fund established in the Treasury of the United States composed of such sums as may be paid to the United States by the German Democratic Republic pursuant to the terms of any agreement settling such claims that may be entered into by the Governments of the United States and the German Democratic Republic.
 
-(Mar. 10, 1950, ch. 54, title VI, § 601, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2509.)
+(Mar. 10, 1950, ch. 54, title VI, § 601, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2509.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2434,19 +2434,19 @@ a corporation or other legal entity which is organized under the laws of the Uni
 
 For provisions transferring Foreign Claims Settlement Commission of the United States as a separate agency within the Department of Justice, see section 1622a et seq. of this title.
 
-### § 1644b. Receipt and determination of claims; notice by publication in Federal Register
+### § 1644b. Receipt and determination of claims; notice by publication in Federal Register
 
 The Commission shall receive and determine in accordance with applicable substantive law, including international law, the validity and amounts of claims by nationals of the United States against the German Democratic Republic for losses arising as a result of the nationalization, expropriation, or other taking of (or special measures directed against) property, including any rights or interests therein, owned wholly or partially, directly or indirectly, at the time by nationals of the United States whether such losses occurred in the German Democratic Republic or in East Berlin. Such claims must be submitted to the Commission within the period specified by the Commission by notice published in the Federal Register (which period shall not be more than twelve months after such publication) within sixty days after October 18, 1976, or of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions under this subchapter, whichever date is later.
 
-(Mar. 10, 1950, ch. 54, title VI, § 602, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2510.)
+(Mar. 10, 1950, ch. 54, title VI, § 602, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2510.)
 
-### § 1644c. Ownership of claims by nationals
+### § 1644c. Ownership of claims by nationals
 
 A claim shall not be favorably considered under section 1644b of this title unless the property right on which it is based was owned, wholly or partially, directly or indirectly, by a national of the United States on the date of loss and if favorably considered, the claim shall be considered only if it has been held by one or more nationals of the United States continuously from the date that the loss occurred until the date of filing with the Commission.
 
-(Mar. 10, 1950, ch. 54, title VI, § 603, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2510.)
+(Mar. 10, 1950, ch. 54, title VI, § 603, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2510.)
 
-### § 1644d. Claims based on ownership interest in or debt or other obligation owing by corporations or other legal entities
+### § 1644d. Claims based on ownership interest in or debt or other obligation owing by corporations or other legal entities
 
 **(a) Nationals of the United States; charge on property**
 
@@ -2464,29 +2464,29 @@ A claim under section 1644b of this title for losses based upon an indirect owne
 
 The amount of any claim covered by subsections (b) or (c) of this section shall be calculated on the basis of the total loss suffered by such corporation, association, or other entity, and shall bear the same proportion to such loss as the ownership interest of the claimant at the time of loss bears to the entire ownership interest thereof.
 
-(Mar. 10, 1950, ch. 54, title VI, § 604, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2510.)
+(Mar. 10, 1950, ch. 54, title VI, § 604, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2510.)
 
-### § 1644e. Offsets
+### § 1644e. Offsets
 
 In determining the amount of any claim, the Commission shall deduct all amounts the claimant has received from any source on account of the same loss or losses, including any amount claimant received under section 4132(a) of title 50, for losses which occurred as a direct consequence of special measures directed against such property in any area covered under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title VI, § 605, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2511.)
+(Mar. 10, 1950, ch. 54, title VI, § 605, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2511.)
 
-### § 1644f. Consolidated awards
+### § 1644f. Consolidated awards
 
 With respect to any claim under section 1644b of this title which, at the time of the award, is vested in persons other than the person by whom the original loss was sustained, the Commission shall issue a consolidated award in favor of all claimants then entitled thereto, which award shall indicate the respective interests of such claimants therein, and all such claimants shall participate, in proportion to their indicated interests, in any payments that may be made under this subchapter in all respects as if the award had been in favor of a single person.
 
-(Mar. 10, 1950, ch. 54, title VI, § 606, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2511.)
+(Mar. 10, 1950, ch. 54, title VI, § 606, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2511.)
 
-### § 1644g. Claims Fund; establishment; deductions
+### § 1644g. Claims Fund; establishment; deductions
 
 **(a)** The Secretary of the Treasury is hereby authorized to establish in the Treasury of the United States a fund to be designated the Claims Fund as defined under section 1644a(5) of this title for the payment of unsatisfied claims of nationals of the United States against the German Democratic Republic as authorized in this subchapter.
 
 **(b)** The Secretary of the Treasury shall deduct from any amounts covered into the Claims Fund, an amount equal to 5 per centum thereof as reimbursement to the Government of the United States for expenses incurred by the Commission and by the Treasury Department in the administration of this subchapter. The amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
 
-(Mar. 10, 1950, ch. 54, title VI, § 607, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2511.)
+(Mar. 10, 1950, ch. 54, title VI, § 607, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2511.)
 
-### § 1644h. Certification of amounts; priority of payments
+### § 1644h. Certification of amounts; priority of payments
 
 **(a)** The Commission shall certify to the Secretary of the Treasury, in terms of United States currency, each award made pursuant to section 1644b of this title.
 
@@ -2502,51 +2502,51 @@ With respect to any claim under section 1644b of this title which, at the time o
 
 **(5)** payments or applications for payments shall be made in accordance with such regulations as the Secretary of the Treasury may prescribe.
 
-(Mar. 10, 1950, ch. 54, title VI, § 608, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2511.)
+(Mar. 10, 1950, ch. 54, title VI, § 608, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2511.)
 
-### § 1644i. Time limitation on completion of affairs of Commission
+### § 1644i. Time limitation on completion of affairs of Commission
 
 The Commission shall complete its affairs in connection with the settlement of claims pursuant to this subchapter not later than three years following the final date for the filing of claims as provided in section 1644b of this title.
 
-(Mar. 10, 1950, ch. 54, title VI, § 609, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512.)
+(Mar. 10, 1950, ch. 54, title VI, § 609, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512.)
 
-### § 1644j. Transfer of records
+### § 1644j. Transfer of records
 
 The Secretary of State is authorized and directed to transfer or otherwise make available to the Commission such records and documents relating to claims authorized by this subchapter as may be required by the Commission in carrying out its functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title VI, § 610, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512.)
+(Mar. 10, 1950, ch. 54, title VI, § 610, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512.)
 
-### § 1644k. Authorization of appropriations
+### § 1644k. Authorization of appropriations
 
-There are hereby authorized to be appropriated such sums as may be necessary to enable the Commission and the Treasury Department of 1
+There are hereby authorized to be appropriated such sums as may be necessary to enable the Commission and the Treasury Department of 1
 
-<sup>1</sup>  So in original. Probably should be “to”.
+<sup>1</sup> So in original. Probably should be “to”.
 
 pay their respective administrative expenses incurred in carrying out their functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title VI, § 611, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512.)
+(Mar. 10, 1950, ch. 54, title VI, § 611, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512.)
 
-### § 1644l. Fees for services; limitation; penalty
+### § 1644l. Fees for services; limitation; penalty
 
 No remuneration on account of services rendered on behalf of any claimant, in connection with any claim filed with the Commission under this subchapter, shall exceed 10 per centum of the total amount paid pursuant to any award certified under the provisions of this subchapter on account of such claims. Any agreement to the contrary shall be unlawful and void. Whoever, in the United States or elsewhere demands or receives, on account of services so rendered, any remuneration in excess of the maximum permitted by this section shall be guilty of a misdemeanor, and, upon conviction thereof, shall be fined not more than $5,000 or imprisoned not more than twelve months, or both.
 
-(Mar. 10, 1950, ch. 54, title VI, § 612, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512.)
+(Mar. 10, 1950, ch. 54, title VI, § 612, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512.)
 
-### § 1644m. Applicability of administrative provisions of subchapter I
+### § 1644m. Applicability of administrative provisions of subchapter I
 
 To the extent they are not inconsistent with the provisions of this subchapter, the following provisions of subchapter I of this chapter shall be applicable to this subchapter: subsections (b), (c), (d), (e), (h), and (j) of section 1623 of this title; subsections (c), (d), (e), and (f) of section 1626 of this title.
 
-(Mar. 10, 1950, ch. 54, title VI, § 613, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512.)
+(Mar. 10, 1950, ch. 54, title VI, § 613, as added Pub. L. 94–542, Oct. 18, 1976, 90 Stat. 2512.)
 
 ## SUBCHAPTER VII—CLAIMS AGAINST VIETNAM
 
-### § 1645. Congressional declaration of purpose
+### § 1645. Congressional declaration of purpose
 
 It is the purpose of this subchapter to provide for the determination of the validity and amounts of outstanding claims against Vietnam which arose out of the nationalization, expropriation, or other taking of (or special measures directed against) property of nationals of the United States. This subchapter shall not be construed as authorizing or as any intention to authorize an appropriation by the United States for the purpose of paying such claims.
 
-(Mar. 10, 1950, ch. 54, title VII, § 701, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3534.)
+(Mar. 10, 1950, ch. 54, title VII, § 701, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3534.)
 
-### § 1645a. Definitions
+### § 1645a. Definitions
 
 As used in this subchapter—
 
@@ -2578,21 +2578,21 @@ As used in this subchapter—
 
 **(5)** the term “Claims Fund” means the special fund established in the Treasury of the United States composed of such sums as may be paid to or realized by the United States pursuant to the terms of any agreement settling those claims described in section 1645b of this title that may be entered into between the Governments of the United States and Vietnam.
 
-(Mar. 10, 1950, ch. 54, title VII, § 702, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3534.)
+(Mar. 10, 1950, ch. 54, title VII, § 702, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3534.)
 
-### § 1645b. Receipt and determination of claims; notice by publication in Federal Register
+### § 1645b. Receipt and determination of claims; notice by publication in Federal Register
 
 The Commission shall receive and determine in accordance with applicable substantive law, including international law, the validity and amounts of claims by nationals of the United States against Vietnam arising on or after April 29, 1975, for losses incurred as a result of the nationalization, expropriation, or other taking of (or special measures directed against) property which, at the time of such nationalization, expropriation, or other taking, was owned wholly or partially, directly or indirectly, by nationals of the United States to whom no restoration or adequate compensation for such property has been made. Such claims must be submitted to the Commission within the period specified by the Commission by notice published in the Federal Register (which period shall not be more than a period of two years beginning on the date of such publication) within sixty days after December 28, 1980, or of legislation making appropriations to the Commission for payment of administrative expenses incurred in carrying out its functions under this subchapter, whichever date is later.
 
-(Mar. 10, 1950, ch. 54, title VII, § 703, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3535.)
+(Mar. 10, 1950, ch. 54, title VII, § 703, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3535.)
 
-### § 1645c. Ownership of claims by nationals
+### § 1645c. Ownership of claims by nationals
 
 A claim may be favorably considered under section 1645b of this title only if the property right on which it is based was owned, wholly or partially, directly or indirectly, by a national of the United States on the date of loss and only to the extent that the claim has been held by one or more nationals of the United States continuously from the date that the loss occurred until the date of filing with the Commission.
 
-(Mar. 10, 1950, ch. 54, title VII, § 704, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3535.)
+(Mar. 10, 1950, ch. 54, title VII, § 704, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3535.)
 
-### § 1645d. Claims based on ownership interest in or debt or other obligation owing by corporations or other legal entities
+### § 1645d. Claims based on ownership interest in or debt or other obligation owing by corporations or other legal entities
 
 **(a) Nationals of United States; charge on property**
 
@@ -2610,37 +2610,37 @@ A claim under section 1645b of this title based upon an indirect ownership inter
 
 The amount of any claim covered by subsection (b) or (c) of this section shall be calculated on the basis of the total loss suffered by the corporation, association, or other entity, with respect to which the claim is made, and shall bear the same proportion to such loss as the ownership interest of the claimant at the time of loss bears to the entire ownership interest thereof.
 
-(Mar. 10, 1950, ch. 54, title VII, § 705, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3535.)
+(Mar. 10, 1950, ch. 54, title VII, § 705, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3535.)
 
-### § 1645e. Offsets
+### § 1645e. Offsets
 
 In determining the amount of any claim under this subchapter, the Commission shall deduct all amounts the claimant has received from any source on account of the same loss or losses for which the claim is filed.
 
-(Mar. 10, 1950, ch. 54, title VII, § 706, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3536.)
+(Mar. 10, 1950, ch. 54, title VII, § 706, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3536.)
 
-### § 1645f. Certifications; assigned claims
+### § 1645f. Certifications; assigned claims
 
 **(a)** The Commission shall certify to each claimant who files a claim under this subchapter the amount determined by the Commission to be the loss suffered by the claimant which is covered by this subchapter. The Commission shall certify to the Secretary of State such amount and the basic information underlying that amount, together with a statement of the evidence relied upon and the reasoning employed in making that determination.
 
 **(b)** In any case in which a claim under this subchapter is assigned by purchase before the Commission determines the amount due on that claim, the amount so determined shall not exceed the amount of actual consideration paid by the last such assignee.
 
-(Mar. 10, 1950, ch. 54, title VII, § 707, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3536.)
+(Mar. 10, 1950, ch. 54, title VII, § 707, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3536.)
 
-### § 1645g. Consolidated awards
+### § 1645g. Consolidated awards
 
 With respect to any claim under section 1645b of this title which, at the time of the award, is vested in persons other than the person by whom the original loss was sustained, the Commission shall issue a consolidated award in favor of all claimants then entitled to the award, which award shall indicate the respective interests of such claimants in the award, and all such claimants shall participate, in proportion to their indicated interests, in any payments that may be made under this subchapter in all respects as if the award had been in favor of a single person.
 
-(Mar. 10, 1950, ch. 54, title VII, § 708, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3536.)
+(Mar. 10, 1950, ch. 54, title VII, § 708, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3536.)
 
-### § 1645h. Claims Fund; establishment; deductions
+### § 1645h. Claims Fund; establishment; deductions
 
 **(a)** The Secretary of the Treasury may establish in the Treasury of the United States the Claims Fund for the payment of unsatisfied claims of nationals of the United States against Vietnam, as authorized by this subchapter.
 
 **(b)** The Secretary of the Treasury shall deduct from any amounts covered into the Claims Fund an amount equal to 5 per centum thereof as reimbursement to the Government of the United States for expenses incurred by the Commission and by the Treasury Department in the administration of this subchapter. The amounts so deducted shall be covered into the Treasury as miscellaneous receipts.
 
-(Mar. 10, 1950, ch. 54, title VII, § 709, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3536.)
+(Mar. 10, 1950, ch. 54, title VII, § 709, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3536.)
 
-### § 1645i. Award payment procedures
+### § 1645i. Award payment procedures
 
 **(a) Certification of amounts**
 
@@ -2660,42 +2660,42 @@ The Commission shall certify to the Secretary of the Treasury, in terms of Unite
 
 Payments or applications for payments under subsection (b) shall be made in accordance with such regulations as the Secretary of the Treasury may prescribe.
 
-(Mar. 10, 1950, ch. 54, title VII, § 710, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
+(Mar. 10, 1950, ch. 54, title VII, § 710, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
 
-### § 1645j. Settlement period
+### § 1645j. Settlement period
 
 The Commission shall complete its affairs in connection with the settlement of claims pursuant to this subchapter not later than three years after the final date for the filing of claims as provided in section 1645b of this title.
 
-(Mar. 10, 1950, ch. 54, title VII, § 711, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
+(Mar. 10, 1950, ch. 54, title VII, § 711, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
 
-### § 1645k. Transfer of records
+### § 1645k. Transfer of records
 
 The Secretary of State, the Secretary of the Treasury, and the Secretary of Defense shall transfer or otherwise make available to the Commission such records and documents relating to claims authorized by this subchapter as may be required by the Commission in carrying out its functions under this subchapter.
 
-(Mar. 10, 1950, ch. 54, title VII, § 712, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
+(Mar. 10, 1950, ch. 54, title VII, § 712, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
 
-### § 1645l. Authorization of appropriations
+### § 1645l. Authorization of appropriations
 
 There are authorized to be appropriated for any fiscal year beginning on or after October 1, 1980, such sums as may be necessary to enable the Commission and the Treasury Department to pay their respective administrative expenses incurred in carrying out their functions under this subchapter. Amounts appropriated under this section may remain available until expended.
 
-(Mar. 10, 1950, ch. 54, title VII, § 713, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
+(Mar. 10, 1950, ch. 54, title VII, § 713, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
 
-### § 1645m. Fees for services; limitation; penalty
+### § 1645m. Fees for services; limitation; penalty
 
 No remuneration on account of services rendered on behalf of any claimant, in connection with any claim filed with the Commission under this subchapter, shall exceed 10 per centum of the total amount paid pursuant to any award certified under the provisions of this subchapter on account of such claim. Any agreement to the contrary shall be unlawful and void. Whoever, in the United States or elsewhere, demands or receives, on account of services so rendered, any remuneration in excess of the maximum permitted by this section shall be guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000 or imprisoned not more than twelve months, or both.
 
-(Mar. 10, 1950, ch. 54, title VII, § 714, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
+(Mar. 10, 1950, ch. 54, title VII, § 714, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3537.)
 
-### § 1645n. Applicability of other statutory provisions
+### § 1645n. Applicability of other statutory provisions
 
 **(a)** To the extent they are not inconsistent with the provisions of this subchapter, the following provisions of subchapter I of this chapter shall be applicable to this subchapter; subsections (b), (c), (d), (e), and (h) of section 1623 of this title and subsections (c), (d), (e), and (f) of section 1626 of this title. Any reference in such provisions to “this subchapter” shall be deemed to be a reference to those provisions and to this subchapter.
 
 **(b)** Except as otherwise provided in this subchapter and in those provisions of subchapter I referred to in subsection (a), the Commission shall comply with the provisions of subchapter II of chapter 5, and the provisions of chapter 7, of title 5.
 
-(Mar. 10, 1950, ch. 54, title VII, § 715, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3538.)
+(Mar. 10, 1950, ch. 54, title VII, § 715, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3538.)
 
-### § 1645o. Separability
+### § 1645o. Separability
 
 If any provision of this subchapter or the application thereof to any person or circumstances is held invalid, the remainder of this subchapter or the application of such provision to other persons or circumstances shall not be affected.
 
-(Mar. 10, 1950, ch. 54, title VII, § 716, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3538.)
+(Mar. 10, 1950, ch. 54, title VII, § 716, as added Pub. L. 96–606, Dec. 28, 1980, 94 Stat. 3538.)

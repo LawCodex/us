@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 99—NORTH KOREA SANCTIONS AND POLICY ENHANCEMENT
 
-## § 9201. Findings; purposes
+## § 9201. Findings; purposes
 
 **(a) Findings** Congress finds the following:
 
@@ -103,7 +103,7 @@ retrieved: 2026-10-11
 
 **(4)** to reaffirm the purposes set forth in section 7802 of this title.
 
-(Pub. L. 114–122, § 2, Feb. 18, 2016, 130 Stat. 94.)
+(Pub. L. 114–122, § 2, Feb. 18, 2016, 130 Stat. 94.)
 
 **Editorial Notes**
 
@@ -115,25 +115,25 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **Effective Date**
 
-Pub. L. 114–122, title IV, § 406, Feb. 18, 2016, 130 Stat. 116, provided that: “Except as otherwise provided in this Act, this Act [see Short Title note below] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Feb. 18, 2016].”
+Pub. L. 114–122, title IV, § 406, Feb. 18, 2016, 130 Stat. 116, provided that: “Except as otherwise provided in this Act, this Act [see Short Title note below] and the amendments made by this Act shall take effect on the date of the enactment of this Act [Feb. 18, 2016].”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–92, div. F, title LXXI, § 7101, Dec. 20, 2019, 133 Stat. 2244, provided that: “This title [enacting subchapter V of this chapter and sections 262p–13, 286yy, 9221b, and 9221c of this title, amending sections 7103, 9202, 9212, 9214, 9223, 9224, 9228, 9241, and 9251 of this title and section 312 of Title 31, Money and Finance, repealing sections 262p–13 and 286yy of this title, and enacting provisions set out as notes under sections 262p–13, 286yy, and 7101 of this title and section 3305 of Title 12, Banks and Banking] may be cited as the ‘Otto Warmbier North Korea Nuclear Sanctions and Enforcement Act of 2019’.”
+Pub. L. 116–92, div. F, title LXXI, § 7101, Dec. 20, 2019, 133 Stat. 2244, provided that: “This title [enacting subchapter V of this chapter and sections 262p–13, 286yy, 9221b, and 9221c of this title, amending sections 7103, 9202, 9212, 9214, 9223, 9224, 9228, 9241, and 9251 of this title and section 312 of Title 31, Money and Finance, repealing sections 262p–13 and 286yy of this title, and enacting provisions set out as notes under sections 262p–13, 286yy, and 7101 of this title and section 3305 of Title 12, Banks and Banking] may be cited as the ‘Otto Warmbier North Korea Nuclear Sanctions and Enforcement Act of 2019’.”
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 115–44, title III, § 301, Aug. 2, 2017, 131 Stat. 940, provided that: “This title [enacting sections 9221a, 9225, 9241a, 9241b of this title and section 1232c of Title 33, Navigation and Navigable Waters, amending sections 2708, 9202, 9214, 9223, 9228, and 9241 of this title and sections 1223 and 1232 of Title 33, repealing section 9225 of this title, and enacting provisions set out as notes under sections 9202, 9214, and 9241 of this title] may be cited as the ‘Korean Interdiction and Modernization of Sanctions Act’.”
+Pub. L. 115–44, title III, § 301, Aug. 2, 2017, 131 Stat. 940, provided that: “This title [enacting sections 9221a, 9225, 9241a, 9241b of this title and section 1232c of Title 33, Navigation and Navigable Waters, amending sections 2708, 9202, 9214, 9223, 9228, and 9241 of this title and sections 1223 and 1232 of Title 33, repealing section 9225 of this title, and enacting provisions set out as notes under sections 9202, 9214, and 9241 of this title] may be cited as the ‘Korean Interdiction and Modernization of Sanctions Act’.”
 
 **Short Title**
 
-Pub. L. 114–122, § 1(a), Feb. 18, 2016, 130 Stat. 93, provided that: “This Act [enacting this chapter and amending section 7814 of this title and sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘North Korea Sanctions and Policy Enhancement Act of 2016’.”
+Pub. L. 114–122, § 1(a), Feb. 18, 2016, 130 Stat. 93, provided that: “This Act [enacting this chapter and amending section 7814 of this title and sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘North Korea Sanctions and Policy Enhancement Act of 2016’.”
 
 **Rule of Construction for Pub. L. 115–232**
 
 Nothing in Pub. L. 115–232 [see Tables for classification] to be construed to authorize the use of force against North Korea, see section 1295 of Pub. L. 115–232, set out as a note under section 8784 of this title.
 
-## § 9202. Definitions
+## § 9202. Definitions
 
 In this chapter:
 
@@ -251,7 +251,7 @@ The term “South Korea” means the Republic of Korea.
 
 **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
 
-(Pub. L. 114–122, § 3, Feb. 18, 2016, 130 Stat. 95; Pub. L. 115–44, title III, § 302(a), Aug. 2, 2017, 131 Stat. 940; Pub. L. 116–92, div. F, title LXXI, § 7122(b)(1), Dec. 20, 2019, 133 Stat. 2248.)
+(Pub. L. 114–122, § 3, Feb. 18, 2016, 130 Stat. 95; Pub. L. 115–44, title III, § 302(a), Aug. 2, 2017, 131 Stat. 940; Pub. L. 116–92, div. F, title LXXI, § 7122(b)(1), Dec. 20, 2019, 133 Stat. 2248.)
 
 **Editorial Notes**
 
@@ -265,35 +265,35 @@ Subchapter I or II, referred to in par. (4), was in the original “title I or I
 
 2019—Par. (4). Pub. L. 116–92 substituted “(a), (b), or (g)” for “(a) or (b)”.
 
-2017—Par. (1)(A). Pub. L. 115–44, § 302(a)(1), substituted “Executive Order No. 13694” for “or Executive Order 13694” and inserted “or Executive Order No. 13722 (50 U.S.C. 1701 note; relating to blocking the property of the Government of North Korea and the Workers’ Party of Korea, and Prohibiting Certain Transactions With Respect to North Korea),” before “to the extent”.
+2017—Par. (1)(A). Pub. L. 115–44, § 302(a)(1), substituted “Executive Order No. 13694” for “or Executive Order 13694” and inserted “or Executive Order No. 13722 (50 U.S.C. 1701 note; relating to blocking the property of the Government of North Korea and the Workers’ Party of Korea, and Prohibiting Certain Transactions With Respect to North Korea),” before “to the extent”.
 
-Par. (2)(A). Pub. L. 115–44, § 302(a)(2), substituted “2094 (2013), 2270 (2016), or 2321 (2016)” for “or 2094 (2013)”.
+Par. (2)(A). Pub. L. 115–44, § 302(a)(2), substituted “2094 (2013), 2270 (2016), or 2321 (2016)” for “or 2094 (2013)”.
 
-Pars. (5) to (9). Pub. L. 115–44, § 302(a)(3)(A), added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
+Pars. (5) to (9). Pub. L. 115–44, § 302(a)(3)(A), added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
 
-Par. (9)(C). Pub. L. 115–44, § 302(a)(4), added subpar. (C).
+Par. (9)(C). Pub. L. 115–44, § 302(a)(4), added subpar. (C).
 
-Pars. (10) to (12). Pub. L. 115–44, § 302(a)(3)(A), redesignated pars. (9) to (11) as (10) to (12), respectively.
+Pars. (10) to (12). Pub. L. 115–44, § 302(a)(3)(A), redesignated pars. (9) to (11) as (10) to (12), respectively.
 
-Par. (13). Pub. L. 115–44, § 302(a)(5)(B), added par. (13). Former par. (13) redesignated (14).
+Par. (13). Pub. L. 115–44, § 302(a)(5)(B), added par. (13). Former par. (13) redesignated (14).
 
-Pub. L. 115–44, § 302(a)(3)(A), redesignated par. (12) as (13). Former par. (13) redesignated (14).
+Pub. L. 115–44, § 302(a)(3)(A), redesignated par. (12) as (13). Former par. (13) redesignated (14).
 
-Par. (14). Pub. L. 115–44, § 302(a)(5)(A), redesignated par. (13) as (14). Former par. (14) redesignated (15).
+Par. (14). Pub. L. 115–44, § 302(a)(5)(A), redesignated par. (13) as (14). Former par. (14) redesignated (15).
 
-Pub. L. 115–44, § 302(a)(3)(A), redesignated par. (13) as (14). Former par. (14) redesignated (15).
+Pub. L. 115–44, § 302(a)(3)(A), redesignated par. (13) as (14). Former par. (14) redesignated (15).
 
-Par. (15). Pub. L. 115–44, § 302(a)(5)(A), redesignated par. (14) as (15). Former par. (15) redesignated (16).
+Par. (15). Pub. L. 115–44, § 302(a)(5)(A), redesignated par. (14) as (15). Former par. (15) redesignated (16).
 
-Pub. L. 115–44, § 302(a)(3)(A), redesignated par. (14) as (15).
+Pub. L. 115–44, § 302(a)(3)(A), redesignated par. (14) as (15).
 
-Par. (16). Pub. L. 115–44, § 302(a)(5)(A), redesignated par. (15) as (16).
+Par. (16). Pub. L. 115–44, § 302(a)(5)(A), redesignated par. (15) as (16).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulatory Authority**
 
-Pub. L. 115–44, title III, § 333, Aug. 2, 2017, 131 Stat. 955, provided that:
+Pub. L. 115–44, title III, § 333, Aug. 2, 2017, 131 Stat. 955, provided that:
 
 > **“(a) In General.—** The President shall, not later than 180 days after the date of the enactment of this Act [Aug. 2, 2017], promulgate regulations as necessary for the implementation of this title [see Short Title of 2017 Amendment note set out under section 9201 of this title] and the amendments made by this title.
 
@@ -301,7 +301,7 @@ Pub. L. 115–44, title III, § 333, Aug. 2, 2017, 131 Stat. 955, provided tha
 
 **Rule of Construction**
 
-Pub. L. 115–44, title III, § 332, Aug. 2, 2017, 131 Stat. 954, provided that:
+Pub. L. 115–44, title III, § 332, Aug. 2, 2017, 131 Stat. 954, provided that:
 
 > “Nothing in this title [see Short Title of 2017 Amendment note set out under section 9201 of this title] shall be construed to limit—
 
@@ -311,11 +311,11 @@ Pub. L. 115–44, title III, § 332, Aug. 2, 2017, 131 Stat. 954, provided tha
 
 **Authority To Consolidate Reports**
 
-Pub. L. 115–44, title III, § 331, Aug. 2, 2017, 131 Stat. 954, provided that: “Any reports required to be submitted to the appropriate congressional committees [see Definitions note below] under this title [see Short Title of 2017 Amendment note set out under section 9201 of this title] or any amendment made by this title that are subject to deadlines for submission consisting of similar units of time may be consolidated into a single report that is submitted to appropriate congressional committees pursuant to the earlier of such deadlines. The consolidated reports must contain all information required under this title or any amendment made by this title, in addition to all other elements mandated by previous law.”
+Pub. L. 115–44, title III, § 331, Aug. 2, 2017, 131 Stat. 954, provided that: “Any reports required to be submitted to the appropriate congressional committees [see Definitions note below] under this title [see Short Title of 2017 Amendment note set out under section 9201 of this title] or any amendment made by this title that are subject to deadlines for submission consisting of similar units of time may be consolidated into a single report that is submitted to appropriate congressional committees pursuant to the earlier of such deadlines. The consolidated reports must contain all information required under this title or any amendment made by this title, in addition to all other elements mandated by previous law.”
 
 **Definitions**
 
-Pub. L. 115–44, title III, § 302(b), Aug. 2, 2017, 131 Stat. 941, provided that:
+Pub. L. 115–44, title III, § 302(b), Aug. 2, 2017, 131 Stat. 941, provided that:
 
 > “In this title [see Short Title of 2017 Amendment note set out under section 9201 of this title]:
 
@@ -331,7 +331,7 @@ Pub. L. 115–44, title III, § 302(b), Aug. 2, 2017, 131 Stat. 941, provided 
 
 > **“(B)** any program to develop related materials with respect to a program described in subparagraph (A).”
 
-## § 9203. Strategy on North Korea
+## § 9203. Strategy on North Korea
 
 **(a) Report on strategy required**
 
@@ -369,7 +369,7 @@ The President shall submit to Congress in writing on an annual basis a report de
 
 The report under subsection (a) and each report under subsection (c) shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 115–91, div. A, title XII, § 1256, Dec. 12, 2017, 131 Stat. 1682.)
+(Pub. L. 115–91, div. A, title XII, § 1256, Dec. 12, 2017, 131 Stat. 1682.)
 
 **Editorial Notes**
 
@@ -381,7 +381,7 @@ Section enacted as part of the National Defense Authorization Act for Fiscal Yea
 
 **North Korea Strategy**
 
-Pub. L. 115–409, title II, § 210, Dec. 31, 2018, 132 Stat. 5398, provided that:
+Pub. L. 115–409, title II, § 210, Dec. 31, 2018, 132 Stat. 5398, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -445,7 +445,7 @@ Pub. L. 115–409, title II, § 210, Dec. 31, 2018, 132 Stat. 5398, provided t
 
 ## SUBCHAPTER I—INVESTIGATIONS, PROHIBITED CONDUCT, AND PENALTIES
 
-### § 9211. Statement of policy
+### § 9211. Statement of policy
 
 In order to achieve the peaceful disarmament of North Korea, Congress finds that it is necessary—
 
@@ -459,9 +459,9 @@ In order to achieve the peaceful disarmament of North Korea, Congress finds that
 
 **(5)** to enforce sanctions in a manner that does not significantly hinder or delay the efforts of legitimate United States or foreign humanitarian organizations from providing assistance to meet the needs of civilians facing humanitarian crisis, including access to food, health care, shelter, and clean drinking water, to prevent or alleviate human suffering.
 
-(Pub. L. 114–122, title I, § 101, Feb. 18, 2016, 130 Stat. 98.)
+(Pub. L. 114–122, title I, § 101, Feb. 18, 2016, 130 Stat. 98.)
 
-### § 9212. Investigations
+### § 9212. Investigations
 
 **(a) Initiation**
 
@@ -473,7 +473,7 @@ The President shall initiate an investigation into the possible designation of a
 
 **(2)** to coordinate and ensure the effective enforcement of this chapter.
 
-(Pub. L. 114–122, title I, § 102, Feb. 18, 2016, 130 Stat. 98; Pub. L. 116–92, div. F, title LXXI, § 7122(b)(2), Dec. 20, 2019, 133 Stat. 2248.)
+(Pub. L. 114–122, title I, § 102, Feb. 18, 2016, 130 Stat. 98; Pub. L. 116–92, div. F, title LXXI, § 7122(b)(2), Dec. 20, 2019, 133 Stat. 2248.)
 
 **Editorial Notes**
 
@@ -483,9 +483,9 @@ This chapter, referred to in subsec. (b)(2), was in the original “this Act”,
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 116–92, § 7122(b)(2)(A), inserted “or (g)” after “section 9214(a)” in two places.
+2019—Subsec. (a). Pub. L. 116–92, § 7122(b)(2)(A), inserted “or (g)” after “section 9214(a)” in two places.
 
-Subsec. (b)(1). Pub. L. 116–92, § 7122(b)(2)(B), substituted “(a), (b), and (g)” for “(a) and (b)”.
+Subsec. (b)(1). Pub. L. 116–92, § 7122(b)(2)(B), substituted “(a), (b), and (g)” for “(a) and (b)”.
 
 **Executive Documents**
 
@@ -525,7 +525,7 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 Barack Obama.
 
-### § 9213. Reporting requirements
+### § 9213. Reporting requirements
 
 **(a) Presidential briefings to Congress**
 
@@ -537,7 +537,7 @@ Not later than 180 days after February 18, 2016, and periodically thereafter, th
 
 **(2)** includes recommendations for such legislative or administrative action as the Secretary considers appropriate based on the results of the review.
 
-(Pub. L. 114–122, title I, § 103, Feb. 18, 2016, 130 Stat. 98.)
+(Pub. L. 114–122, title I, § 103, Feb. 18, 2016, 130 Stat. 98.)
 
 **Editorial Notes**
 
@@ -551,7 +551,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 Functions and authorities of President under subsec. (a) of this section delegated to Secretary of State, in consultation with Secretary of the Treasury, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under section 9212 of this title.
 
-### § 9214. Designation of persons
+### § 9214. Designation of persons
 
 **(a) Mandatory designations** Except as provided in section 9228 of this title, the President shall designate under this subsection any person that the President determines—
 
@@ -611,9 +611,9 @@ Functions and authorities of President under subsec. (a) of this section delegat
 
 **(E)** knowingly, directly or indirectly, purchased or otherwise acquired significant types or amounts of textiles from the Government of North Korea;
 
-**(F)** knowingly facilitated a significant transfer of funds or property of the Government of North Korea that materially contributes to any violation of an applicable United National 1
+**(F)** knowingly facilitated a significant transfer of funds or property of the Government of North Korea that materially contributes to any violation of an applicable United National 1
 
-<sup>1</sup>  So in original. Probably should be “Nations”.
+<sup>1</sup> So in original. Probably should be “Nations”.
 
 Security Council resolution;
 
@@ -637,7 +637,7 @@ Security Council resolution;
 
 **(A)** apply the sanctions described in section 9224, 9225(c),2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 or 9226 of this title to the person to the same extent and in the same manner as if the person were designated under subsection (a);
 
@@ -707,41 +707,41 @@ The penalties provided for in subsections (b) and (c) of section 206 of the Inte
 
 **(iii)** the use of any proceeds of any activity described in subparagraph (A) or (B).
 
-(Pub. L. 114–122, title I, § 104, Feb. 18, 2016, 130 Stat. 99; Pub. L. 115–44, title III, § 311(a), (b)(1), (c), Aug. 2, 2017, 131 Stat. 942, 944; Pub. L. 116–92, div. F, title LXXI, § 7122(a), Dec. 20, 2019, 133 Stat. 2247.)
+(Pub. L. 114–122, title I, § 104, Feb. 18, 2016, 130 Stat. 99; Pub. L. 115–44, title III, § 311(a), (b)(1), (c), Aug. 2, 2017, 131 Stat. 942, 944; Pub. L. 116–92, div. F, title LXXI, § 7122(a), Dec. 20, 2019, 133 Stat. 2247.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 9225, referred to in subsec. (b)(2)(B), was repealed and a new section 9225 enacted by Pub. L. 115–44, title III, § 314, Aug. 2, 2017, 131 Stat. 946. The sanctions formerly described in section 9225(c) of this title are now contained in section 9225(d) of this title.
+Section 9225, referred to in subsec. (b)(2)(B), was repealed and a new section 9225 enacted by Pub. L. 115–44, title III, § 314, Aug. 2, 2017, 131 Stat. 946. The sanctions formerly described in section 9225(c) of this title are now contained in section 9225(d) of this title.
 
-The International Emergency Economic Powers Act, referred to in subsec. (c)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (c)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Amendments**
 
-2019—Subsec. (c)(1). Pub. L. 116–92, § 7122(a)(2), inserted “or (g)” after “subsection (a)”.
+2019—Subsec. (c)(1). Pub. L. 116–92, § 7122(a)(2), inserted “or (g)” after “subsection (a)”.
 
-Subsec. (d). Pub. L. 116–92, § 7122(a)(3), substituted “(a), (b), or (g)” for “(a) or (b)”.
+Subsec. (d). Pub. L. 116–92, § 7122(a)(3), substituted “(a), (b), or (g)” for “(a) or (b)”.
 
-Subsec. (e). Pub. L. 116–92, § 7122(a)(4), substituted “(a), (b), or (g)” for “(a) or (b)”.
+Subsec. (e). Pub. L. 116–92, § 7122(a)(4), substituted “(a), (b), or (g)” for “(a) or (b)”.
 
-Subsec. (g). Pub. L. 116–92, § 7122(a)(1), added subsec. (g).
+Subsec. (g). Pub. L. 116–92, § 7122(a)(1), added subsec. (g).
 
-2017—Subsec. (a)(9). Pub. L. 115–44, § 311(a)(1), substituted “or any defense article or defense service (as such terms are defined in section 2794 of this title);” for “; or”.
+2017—Subsec. (a)(9). Pub. L. 115–44, § 311(a)(1), substituted “or any defense article or defense service (as such terms are defined in section 2794 of this title);” for “; or”.
 
-Subsec. (a)(10) to (15). Pub. L. 115–44, § 311(a)(2)–(4), added pars. (10) to (14), redesignated former par. (10) as (15), and in par. (15), substituted “(14)” for “(9)”.
+Subsec. (a)(10) to (15). Pub. L. 115–44, § 311(a)(2)–(4), added pars. (10) to (14), redesignated former par. (10) as (15), and in par. (15), substituted “(14)” for “(9)”.
 
-Subsec. (b)(1)(A). Pub. L. 115–44, § 311(b)(1)(A), substituted “pursuant to—” and items (i) to (iii) for “pursuant to an applicable United Nations Security Council resolution;”.
+Subsec. (b)(1)(A). Pub. L. 115–44, § 311(b)(1)(A), substituted “pursuant to—” and items (i) to (iii) for “pursuant to an applicable United Nations Security Council resolution;”.
 
-Subsec. (b)(1)(D) to (N). Pub. L. 115–44, § 311(b)(1)(B)–(D), added subpars. (D) to (N).
+Subsec. (b)(1)(D) to (N). Pub. L. 115–44, § 311(b)(1)(B)–(D), added subpars. (D) to (N).
 
-Subsec. (c). Pub. L. 115–44, § 311(c), designated existing text as par. (1), inserted heading, substituted “of a person designated under subsection (a)” for “of a designated person”, and added par. (2).
+Subsec. (c). Pub. L. 115–44, § 311(c), designated existing text as par. (1), inserted heading, substituted “of a person designated under subsection (a)” for “of a designated person”, and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–44, title III, § 311(b)(2), Aug. 2, 2017, 131 Stat. 943, provided that: “The amendments made by paragraph (1) [amending this section] take effect on the date of the enactment of this Act [Aug. 2, 2017] and apply with respect to conduct described in subparagraphs (D) through (N) of section 104(b)(1) of the North Korea Sanctions and Policy Enhancement Act of 2016 [22 U.S.C. 9214(b)(1)], as added by paragraph (1), engaged in on or after such date of enactment.”
+Pub. L. 115–44, title III, § 311(b)(2), Aug. 2, 2017, 131 Stat. 943, provided that: “The amendments made by paragraph (1) [amending this section] take effect on the date of the enactment of this Act [Aug. 2, 2017] and apply with respect to conduct described in subparagraphs (D) through (N) of section 104(b)(1) of the North Korea Sanctions and Policy Enhancement Act of 2016 [22 U.S.C. 9214(b)(1)], as added by paragraph (1), engaged in on or after such date of enactment.”
 
 **Executive Documents**
 
@@ -753,7 +753,7 @@ Functions and authorities of President under subsecs. (a), (b), and (d) of this 
 
 ## SUBCHAPTER II—SANCTIONS AGAINST NORTH KOREAN PROLIFERATION, HUMAN RIGHTS ABUSES, AND ILLICIT ACTIVITIES
 
-### § 9221. Determinations with respect to North Korea as a jurisdiction of primary money laundering concern
+### § 9221. Determinations with respect to North Korea as a jurisdiction of primary money laundering concern
 
 **(a) Findings** Congress makes the following findings:
 
@@ -845,9 +845,9 @@ Not later than 90 days after the date on which the Secretary of the Treasury mak
 
 The report submitted under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.
 
-(Pub. L. 114–122, title II, § 201, Feb. 18, 2016, 130 Stat. 101.)
+(Pub. L. 114–122, title II, § 201, Feb. 18, 2016, 130 Stat. 101.)
 
-### § 9221a. Prohibition on indirect correspondent accounts
+### § 9221a. Prohibition on indirect correspondent accounts
 
 **(a) In general**
 
@@ -867,9 +867,9 @@ The term “correspondent account” has the meaning given that term in section 
 
 **(2) United States financial institution**
 
-The term “United States financial institution” means 1
+The term “United States financial institution” means 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 has the meaning given that term in section 510.310 of title 31, Code of Federal Regulations, as in effect on August 2, 2017.
 
@@ -877,9 +877,9 @@ has the meaning given that term in section 510.310 of title 31, Code of Federal 
 
 The term “foreign financial institution” has the meaning given that term in section 1010.605 of title 31, Code of Federal Regulations, as in effect on August 2, 2017.
 
-(Pub. L. 114–122, title II, § 201A, as added Pub. L. 115–44, title III, § 312(a), Aug. 2, 2017, 131 Stat. 945.)
+(Pub. L. 114–122, title II, § 201A, as added Pub. L. 115–44, title III, § 312(a), Aug. 2, 2017, 131 Stat. 945.)
 
-### § 9221b. Sanctions with respect to foreign financial institutions that provide financial services to certain sanctioned persons
+### § 9221b. Sanctions with respect to foreign financial institutions that provide financial services to certain sanctioned persons
 
 **(a) In general** The Secretary of the Treasury shall impose one or more of the sanctions described in subsection (b) with respect to a foreign financial institution that the Secretary determines, in consultation with the Secretary of State, knowingly, on or after the date that is 120 days after December 20, 2019, provides significant financial services to any person designated for the imposition of sanctions with respect to North Korea under—
 
@@ -937,13 +937,13 @@ The term “foreign financial institution” has the meaning given that term in 
 
 The term “knowingly”, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
 
-(Pub. L. 114–122, title II, § 201B, as added Pub. L. 116–92, div. F, title LXXI, § 7121(a), Dec. 20, 2019, 133 Stat. 2245.)
+(Pub. L. 114–122, title II, § 201B, as added Pub. L. 116–92, div. F, title LXXI, § 7121(a), Dec. 20, 2019, 133 Stat. 2245.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Executive Documents**
 
@@ -951,7 +951,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(1), 
 
 Functions and authorities under section 7121 of Pub. L. 116–92 with respect to this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(b)(iii) of Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, set out as a note under section 286yy of this title.
 
-### § 9221c. Prohibition on transactions with certain sanctioned persons by persons owned or controlled by United States financial institutions
+### § 9221c. Prohibition on transactions with certain sanctioned persons by persons owned or controlled by United States financial institutions
 
 **(a) In general** Not later than 180 days after December 20, 2019, the Secretary of the Treasury, in consultation with the Secretary of State, shall prohibit an entity owned or controlled by a United States financial institution and established or maintained outside the United States from knowingly engaging in any transaction described in subsection (b) directly or indirectly with the Government of North Korea or any person designated for the imposition of sanctions with respect to North Korea under—
 
@@ -973,15 +973,15 @@ The civil penalty provided for in section 206(b) of the International Emergency 
 
 In this section, the term “United States financial institution” has the meaning given the term “U.S. financial institution” in section 510.328 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
-(Pub. L. 114–122, title II, § 201C, as added Pub. L. 116–92, div. F, title LXXI, § 7121(a), Dec. 20, 2019, 133 Stat. 2246.)
+(Pub. L. 114–122, title II, § 201C, as added Pub. L. 116–92, div. F, title LXXI, § 7121(a), Dec. 20, 2019, 133 Stat. 2246.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-### § 9222. Ensuring the consistent enforcement of United Nations Security Council resolutions and financial restrictions on North Korea
+### § 9222. Ensuring the consistent enforcement of United Nations Security Council resolutions and financial restrictions on North Korea
 
 **(a) Findings** Congress makes the following findings:
 
@@ -1049,15 +1049,15 @@ The International Emergency Economic Powers Act, referred to in subsec. (b), is 
 
 Not later than 90 days after February 18, 2016, and annually thereafter, the Secretary of State shall submit to the appropriate congressional committees a report that describes the actions undertaken to implement the strategy required by subsection (c).
 
-(Pub. L. 114–122, title II, § 202, Feb. 18, 2016, 130 Stat. 104.)
+(Pub. L. 114–122, title II, § 202, Feb. 18, 2016, 130 Stat. 104.)
 
-### § 9223. Proliferation prevention sanctions
+### § 9223. Proliferation prevention sanctions
 
 **(a) Export of certain goods or technology**
 
-A validated license shall be required for the export to North Korea of any goods or technology otherwise covered under section 4605(j) 1
+A validated license shall be required for the export to North Korea of any goods or technology otherwise covered under section 4605(j) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50. No defense exports may be approved for the Government of North Korea.
 
@@ -1095,31 +1095,31 @@ Not later than 180 days after August 2, 2017, and annually thereafter for 5 year
 
 The report required under paragraph (1) shall be submitted in unclassified form but may contain a classified annex.
 
-(Pub. L. 114–122, title II, § 203, Feb. 18, 2016, 130 Stat. 106; Pub. L. 115–44, title III, § 313, Aug. 2, 2017, 131 Stat. 945; Pub. L. 116–92, div. F, title LXXI, § 7123, Dec. 20, 2019, 133 Stat. 2248.)
+(Pub. L. 114–122, title II, § 203, Feb. 18, 2016, 130 Stat. 106; Pub. L. 115–44, title III, § 313, Aug. 2, 2017, 131 Stat. 945; Pub. L. 116–92, div. F, title LXXI, § 7123, Dec. 20, 2019, 133 Stat. 2248.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4605(j) of title 50, referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4605(j) of title 50, referred to in subsec. (a), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Amendments**
 
 2019—Subsec. (b)(2). Pub. L. 116–92 substituted “5 years” for “2 years”.
 
-2017—Subsec. (b). Pub. L. 115–44, § 313(1)(A), substituted “Transactions in defense articles or defense services” for “Transactions in lethal military equipment” in heading.
+2017—Subsec. (b). Pub. L. 115–44, § 313(1)(A), substituted “Transactions in defense articles or defense services” for “Transactions in lethal military equipment” in heading.
 
-Subsec. (b)(1). Pub. L. 115–44, § 313(1)(B), substituted “that provides to or receives from the Government of North Korea a defense article or defense service, as such terms are defined in section 2794 of this title, if the President determines that a significant type or amount of such article or service has been so provided or received” for “that provides lethal military equipment to the Government of North Korea”.
+Subsec. (b)(1). Pub. L. 115–44, § 313(1)(B), substituted “that provides to or receives from the Government of North Korea a defense article or defense service, as such terms are defined in section 2794 of this title, if the President determines that a significant type or amount of such article or service has been so provided or received” for “that provides lethal military equipment to the Government of North Korea”.
 
-Subsec. (b)(2). Pub. L. 115–44, § 313(1)(C), substituted “2 years” for “1 year”.
+Subsec. (b)(2). Pub. L. 115–44, § 313(1)(C), substituted “2 years” for “1 year”.
 
-Subsec. (d). Pub. L. 115–44, § 313(2), substituted “maternal and child health, disease prevention and response, or” for “or emergency”.
+Subsec. (d). Pub. L. 115–44, § 313(2), substituted “maternal and child health, disease prevention and response, or” for “or emergency”.
 
-Subsec. (e). Pub. L. 115–44, § 313(3), added subsec. (e).
+Subsec. (e). Pub. L. 115–44, § 313(3), added subsec. (e).
 
-### § 9224. Procurement sanctions
+### § 9224. Procurement sanctions
 
 **(a) In general**
 
@@ -1163,7 +1163,7 @@ Nothing in this subsection may be construed to limit the use of other remedies a
 
 In this section, the term “executive agency” has the meaning given such term in section 133 of title 41.
 
-(Pub. L. 114–122, title II, § 204, Feb. 18, 2016, 130 Stat. 107; Pub. L. 116–92, div. F, title LXXI, § 7122(b)(3), Dec. 20, 2019, 133 Stat. 2248.)
+(Pub. L. 114–122, title II, § 204, Feb. 18, 2016, 130 Stat. 107; Pub. L. 116–92, div. F, title LXXI, § 7122(b)(3), Dec. 20, 2019, 133 Stat. 2248.)
 
 **Editorial Notes**
 
@@ -1175,7 +1175,7 @@ In this section, the term “executive agency” has the meaning given such term
 
 **Assessment and Authority To Terminate or Prohibit Contracts for Procurement From Chinese Companies Providing Support to the Democratic People’s Republic of Korea**
 
-Pub. L. 115–91, div. A, title VIII, § 888, Dec. 12, 2017, 131 Stat. 1507, provided that:
+Pub. L. 115–91, div. A, title VIII, § 888, Dec. 12, 2017, 131 Stat. 1507, provided that:
 
 > **“(a) Assessment Required.—**
 
@@ -1205,7 +1205,7 @@ Pub. L. 115–91, div. A, title VIII, § 888, Dec. 12, 2017, 131 Stat. 1507, p
 
 > **“(2)** the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.”
 
-### § 9225. Enhanced inspection authorities
+### § 9225. Enhanced inspection authorities
 
 **(a) Report required**
 
@@ -1261,17 +1261,17 @@ Paragraph (1) shall not apply to any vessel, aircraft, or conveyance that has en
 
 **(2)** part V of title IV of the Tariff Act of 1930 (19 U.S.C. 1581 et seq.).
 
-(Pub. L. 114–122, title II, § 205, as added Pub. L. 115–44, title III, § 314, Aug. 2, 2017, 131 Stat. 946.)
+(Pub. L. 114–122, title II, § 205, as added Pub. L. 115–44, title III, § 314, Aug. 2, 2017, 131 Stat. 946.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch. 497, 46 Stat. 590. Part V of title IV of the Act is classified generally to part V (§ 1581 et seq.) of subtitle III of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch. 497, 46 Stat. 590. Part V of title IV of the Act is classified generally to part V (§ 1581 et seq.) of subtitle III of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 **Prior Provisions**
 
-A prior section 9225, Pub. L. 114–122, title II, § 205, Feb. 18, 2016, 130 Stat. 108, related to enhanced inspection authorities, prior to repeal by Pub. L. 115–44, title III, § 314, Aug. 2, 2017, 131 Stat. 946.
+A prior section 9225, Pub. L. 114–122, title II, § 205, Feb. 18, 2016, 130 Stat. 108, related to enhanced inspection authorities, prior to repeal by Pub. L. 115–44, title III, § 314, Aug. 2, 2017, 131 Stat. 946.
 
 **Executive Documents**
 
@@ -1279,7 +1279,7 @@ A prior section 9225, Pub. L. 114–122, title II, § 205, Feb. 18, 2016, 130 
 
 Functions and authorities of President under subsec. (a) of this section delegated to Director of National Intelligence, in consultation with Secretary of State, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under section 9212 of this title.
 
-### § 9226. Travel sanctions
+### § 9226. Travel sanctions
 
 The Secretary of State may deny a visa to, and the Secretary of Homeland Security may deny entry into the United States of, any alien who is—
 
@@ -1289,9 +1289,9 @@ The Secretary of State may deny a visa to, and the Secretary of Homeland Securit
 
 **(3)** a principal shareholder with a controlling interest in a designated person.
 
-(Pub. L. 114–122, title II, § 206, Feb. 18, 2016, 130 Stat. 108.)
+(Pub. L. 114–122, title II, § 206, Feb. 18, 2016, 130 Stat. 108.)
 
-### § 9227. Travel recommendations for United States citizens to North Korea
+### § 9227. Travel recommendations for United States citizens to North Korea
 
 The Secretary of State shall expand the scope and frequency of issuance of travel warnings for all United States citizens to North Korea. The expanded travel warnings, which should be issued or updated not less frequently than every 90 days, should include—
 
@@ -1303,9 +1303,9 @@ The Secretary of State shall expand the scope and frequency of issuance of trave
 
 **(4)** any other information that the Secretary deems useful to provide United States citizens with a comprehensive picture of the nature of the North Korean regime.
 
-(Pub. L. 114–122, title II, § 207, Feb. 18, 2016, 130 Stat. 108.)
+(Pub. L. 114–122, title II, § 207, Feb. 18, 2016, 130 Stat. 108.)
 
-### § 9228. Exemptions, waivers, and removals of designation
+### § 9228. Exemptions, waivers, and removals of designation
 
 **(a) Exemptions** The following activities shall be exempt from sanctions under sections 9214, 9221a, 9221b, 9221c, 9226, 9229, 9241a, 9241b, and 9243 of this title:
 
@@ -1343,13 +1343,13 @@ A written determination submitted under paragraph (1) with respect to a waiver s
 
 The President may promulgate such regulations, rules, and policies as may be necessary to facilitate the provision of financial services by a foreign financial institution that is not a North Korean financial institution in support of activities conducted pursuant to an exemption or waiver under this section.
 
-(Pub. L. 114–122, title II, § 208, Feb. 18, 2016, 130 Stat. 109; Pub. L. 115–44, title III, § 322, Aug. 2, 2017, 131 Stat. 953; Pub. L. 116–92, div. F, title LXXI, § 7143(a), Dec. 20, 2019, 133 Stat. 2255.)
+(Pub. L. 114–122, title II, § 208, Feb. 18, 2016, 130 Stat. 109; Pub. L. 115–44, title III, § 322, Aug. 2, 2017, 131 Stat. 953; Pub. L. 116–92, div. F, title LXXI, § 7143(a), Dec. 20, 2019, 133 Stat. 2255.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 This chapter, referred to in subsecs. (b)(3)(C) and (c)(2), was in the original “this Act”, meaning Pub. L. 114–122, Feb. 18, 2016, 130 Stat. 93, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
 
@@ -1357,11 +1357,11 @@ This chapter, referred to in subsecs. (b)(3)(C) and (c)(2), was in the original 
 
 2019—Subsecs. (a), (b)(1), (3), (c). Pub. L. 116–92 inserted “9221b, 9221c,” after “9221a,”.
 
-2017—Subsec. (a). Pub. L. 115–44, § 322(a), inserted “9221a,” after “sections 9214,” and “9241a, 9241b,” after “9229,” in introductory provisions.
+2017—Subsec. (a). Pub. L. 115–44, § 322(a), inserted “9221a,” after “sections 9214,” and “9241a, 9241b,” after “9229,” in introductory provisions.
 
-Subsec. (b)(1), (3). Pub. L. 115–44, § 322(b), inserted “9221a,” after “section 9214,” and “9241a, 9241b,” after “9229(b),”.
+Subsec. (b)(1), (3). Pub. L. 115–44, § 322(b), inserted “9221a,” after “section 9214,” and “9241a, 9241b,” after “9229(b),”.
 
-Subsec. (c). Pub. L. 115–44, § 322(c), inserted “9221a,” after “section 9214,” and “9241a, 9241b,” after “9229(b),” in introductory provisions.
+Subsec. (c). Pub. L. 115–44, § 322(c), inserted “9221a,” after “section 9214,” and “9241a, 9241b,” after “9229(b),” in introductory provisions.
 
 **Executive Documents**
 
@@ -1371,7 +1371,7 @@ Functions and authorities of President under section 7143 of Pub. L. 116–92 wi
 
 Functions and authorities of President under subsecs. (b) and (c) of this section delegated to Secretary of State, to be executed in consultation with Secretary of the Treasury when appropriate, and functions and authorities of President under subsec. (d) of this section delegated to Secretary of the Treasury, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under section 9212 of this title.
 
-### § 9229. Report on and imposition of sanctions to address persons responsible for knowingly engaging in significant activities undermining cybersecurity
+### § 9229. Report on and imposition of sanctions to address persons responsible for knowingly engaging in significant activities undermining cybersecurity
 
 **(a) Report required**
 
@@ -1403,7 +1403,7 @@ The report required under paragraph (1) shall be submitted in an unclassified fo
 
 The President shall designate under section 9214(a) of this title any person identified in the report required under subsection (a)(1) that knowingly engages in significant activities undermining cybersecurity through the use of computer networks or systems against foreign persons, governments, or other entities on behalf of the Government of North Korea.
 
-(Pub. L. 114–122, title II, § 209, Feb. 18, 2016, 130 Stat. 110; Pub. L. 115–272, title III, § 303(c)(1), Oct. 25, 2018, 132 Stat. 4157.)
+(Pub. L. 114–122, title II, § 209, Feb. 18, 2016, 130 Stat. 110; Pub. L. 115–272, title III, § 303(c)(1), Oct. 25, 2018, 132 Stat. 4157.)
 
 **Editorial Notes**
 
@@ -1417,7 +1417,7 @@ The President shall designate under section 9214(a) of this title any person ide
 
 For delegation of certain functions of President under this section, see Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under section 9212 of this title.
 
-### § 9230. Codification of sanctions with respect to North Korean activities undermining cybersecurity
+### § 9230. Codification of sanctions with respect to North Korean activities undermining cybersecurity
 
 **(a) In general**
 
@@ -1427,15 +1427,15 @@ United States sanctions with respect to activities of the Government of North Ko
 
 Nothing in this section shall be construed to limit the authority of the President pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
 
-(Pub. L. 114–122, title II, § 210, Feb. 18, 2016, 130 Stat. 111.)
+(Pub. L. 114–122, title II, § 210, Feb. 18, 2016, 130 Stat. 111.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-### § 9231. Sense of Congress on trilateral cooperation between the United States, South Korea, and Japan
+### § 9231. Sense of Congress on trilateral cooperation between the United States, South Korea, and Japan
 
 **(a) In general** It is the sense of Congress that the President—
 
@@ -1453,11 +1453,11 @@ The International Emergency Economic Powers Act, referred to in subsec. (b), is 
 
 **(2)** the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(Pub. L. 114–122, title II, § 211, Feb. 18, 2016, 130 Stat. 111.)
+(Pub. L. 114–122, title II, § 211, Feb. 18, 2016, 130 Stat. 111.)
 
 ## SUBCHAPTER III—PROMOTION OF HUMAN RIGHTS
 
-### § 9241. Strategy to promote North Korean human rights
+### § 9241. Strategy to promote North Korean human rights
 
 **(a) In general**
 
@@ -1479,7 +1479,7 @@ Not later than 120 days after October 25, 2018, and periodically thereafter, the
 
 **(3)** opportunities to coordinate and collaborate with appropriate nongovernmental organizations and private sector entities to raise awareness and provide assistance to North Korean defectors throughout the world.
 
-(Pub. L. 114–122, title III, § 302, Feb. 18, 2016, 130 Stat. 112; Pub. L. 115–44, title III, § 321(a)(1), Aug. 2, 2017, 131 Stat. 951; Pub. L. 115–272, title III, § 303(c)(2), Oct. 25, 2018, 132 Stat. 4157; Pub. L. 116–92, div. F, title LXXI, § 7122(b)(4), Dec. 20, 2019, 133 Stat. 2248.)
+(Pub. L. 114–122, title III, § 302, Feb. 18, 2016, 130 Stat. 112; Pub. L. 115–44, title III, § 321(a)(1), Aug. 2, 2017, 131 Stat. 951; Pub. L. 115–272, title III, § 303(c)(2), Oct. 25, 2018, 132 Stat. 4157; Pub. L. 116–92, div. F, title LXXI, § 7122(b)(4), Dec. 20, 2019, 133 Stat. 2248.)
 
 **Editorial Notes**
 
@@ -1495,7 +1495,7 @@ Not later than 120 days after October 25, 2018, and periodically thereafter, the
 
 **Additional Determinations; Reports**
 
-Pub. L. 115–44, title III, § 321(a)(2), Aug. 2, 2017, 131 Stat. 951, provided that:
+Pub. L. 115–44, title III, § 321(a)(2), Aug. 2, 2017, 131 Stat. 951, provided that:
 
 > “With respect to any country identified in section 302(b)(2) of the North Korea Sanctions and Policy Enhancement Act of 2016 (22 U.S.C. 9241(b)(2)), as amended by paragraph (1), the report required under section 302(a) of such Act shall—
 
@@ -1509,7 +1509,7 @@ Pub. L. 115–44, title III, § 321(a)(2), Aug. 2, 2017, 131 Stat. 951, provid
 
 > **“(C)** be considered in any determination that the government of such country has made serious and sustained efforts to eliminate severe forms of trafficking in persons, as such term is defined for purposes of the Trafficking Victims Protection Act of 2000 [22 U.S.C. 7101 et seq.].”
 
-### § 9241a. Rebuttable presumption applicable to goods made with North Korean labor
+### § 9241a. Rebuttable presumption applicable to goods made with North Korean labor
 
 **(a) In general**
 
@@ -1519,9 +1519,9 @@ Except as provided in subsection (b), any significant goods, wares, articles, an
 
 The prohibition described in subsection (a) shall not apply if the Commissioner of U.S. Customs and Border Protection finds, by clear and convincing evidence, that the goods, wares, articles, or merchandise described in such paragraph were not produced with convict labor, forced labor, or indentured labor under penal sanctions.
 
-(Pub. L. 114–122, title III, § 302A, as added Pub. L. 115–44, title III, § 321(b)(1), Aug. 2, 2017, 131 Stat. 952.)
+(Pub. L. 114–122, title III, § 302A, as added Pub. L. 115–44, title III, § 321(b)(1), Aug. 2, 2017, 131 Stat. 952.)
 
-### § 9241b. Sanctions on foreign persons employing North Korean labor
+### § 9241b. Sanctions on foreign persons employing North Korean labor
 
 **(a) In general**
 
@@ -1553,15 +1553,15 @@ The sanctions described in this paragraph are sanctions pursuant to the Internat
 
 **(B)** if such recertification cannot be transmitted, impose the sanctions described in subsection (b) beginning on the date on which the President determines that such recertification cannot be transmitted.
 
-(Pub. L. 114–122, title III, § 302B, as added Pub. L. 115–44, title III, § 321(b)(1), Aug. 2, 2017, 131 Stat. 952.)
+(Pub. L. 114–122, title III, § 302B, as added Pub. L. 115–44, title III, § 321(b)(1), Aug. 2, 2017, 131 Stat. 952.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-### § 9242. Report on North Korean prison camps
+### § 9242. Report on North Korean prison camps
 
 **(a) In general** The Secretary of State shall submit to the appropriate congressional committees a report that describes, with respect to each political prison camp in North Korea, to the extent information is available—
 
@@ -1583,9 +1583,9 @@ The International Emergency Economic Powers Act, referred to in subsec. (b)(2), 
 
 The report required under subsection (a) may be included in the first human rights report required to be submitted to Congress after February 18, 2016, under sections 2151n(d) and 2304(b) of this title.
 
-(Pub. L. 114–122, title III, § 303, Feb. 18, 2016, 130 Stat. 113.)
+(Pub. L. 114–122, title III, § 303, Feb. 18, 2016, 130 Stat. 113.)
 
-### § 9243. Report on and imposition of sanctions with respect to serious human rights abuses or censorship in North Korea
+### § 9243. Report on and imposition of sanctions with respect to serious human rights abuses or censorship in North Korea
 
 **(a) Report required**
 
@@ -1627,7 +1627,7 @@ The Secretary of State shall publish the unclassified part of the report require
 
 **(2)** fully cooperate with the prosecution of any individual listed in the report required under subsection (a)(1) before any international tribunal that may be established to prosecute persons responsible for severe human rights abuses or censorship in North Korea.
 
-(Pub. L. 114–122, title III, § 304, Feb. 18, 2016, 130 Stat. 113.)
+(Pub. L. 114–122, title III, § 304, Feb. 18, 2016, 130 Stat. 113.)
 
 **Executive Documents**
 
@@ -1637,7 +1637,7 @@ Functions and authorities of President under subsec. (b) of this section delegat
 
 ## SUBCHAPTER IV—GENERAL AUTHORITIES
 
-### § 9251. Suspension of sanctions and other measures
+### § 9251. Suspension of sanctions and other measures
 
 **(a) In general** Any sanction or other measure required under subchapter I, II, or III (or any amendment made by such subchapters) (other than section 9214(g), 9221b, or 9221c of this title) may be suspended for up to 1 year upon certification by the President to the appropriate congressional committees that the Government of North Korea has made progress toward—
 
@@ -1661,7 +1661,7 @@ Functions and authorities of President under subsec. (b) of this section delegat
 
 The suspension described in subsection (a) may be renewed for additional, consecutive 180-day periods after the President certifies to the appropriate congressional committees that the Government of North Korea has continued to comply with the conditions described in subsection (a) during the previous year.
 
-(Pub. L. 114–122, title IV, § 401, Feb. 18, 2016, 130 Stat. 114; Pub. L. 116–92, div. F, title LXXI, § 7143(b)(2), Dec. 20, 2019, 133 Stat. 2256.)
+(Pub. L. 114–122, title IV, § 401, Feb. 18, 2016, 130 Stat. 114; Pub. L. 116–92, div. F, title LXXI, § 7143(b)(2), Dec. 20, 2019, 133 Stat. 2256.)
 
 **Editorial Notes**
 
@@ -1679,7 +1679,7 @@ Subchapter I, II, or III (or any amendment made by such subchapters), referred t
 
 Functions and authorities of President under subsecs. (a) and (b) of this section delegated to Secretary of State, to be executed in consultation with Secretary of the Treasury when appropriate, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under section 9212 of this title.
 
-### § 9252. Termination of sanctions and other measures
+### § 9252. Termination of sanctions and other measures
 
 Any sanction or other measure required under subchapter I, II, or III (or any amendment made by such subchapters) shall terminate on the date on which the President determines and certifies to the appropriate congressional committees that the Government of North Korea has—
 
@@ -1701,7 +1701,7 @@ Any sanction or other measure required under subchapter I, II, or III (or any am
 
 **(ii)** detained in violation of the Agreement Concerning a Military Armistice in Korea, signed at Panmunjom July 27, 1953 (commonly referred to as the “Korean War Armistice Agreement”).
 
-(Pub. L. 114–122, title IV, § 402, Feb. 18, 2016, 130 Stat. 115.)
+(Pub. L. 114–122, title IV, § 402, Feb. 18, 2016, 130 Stat. 115.)
 
 **Editorial Notes**
 
@@ -1715,11 +1715,11 @@ Subchapter I, II, or III (or any amendment made by such subchapters), referred t
 
 Functions and authorities of President under this section delegated to Secretary of State, to be executed in consultation with Secretary of the Treasury when appropriate, by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under section 9212 of this title.
 
-### § 9253. Repealed. Pub. L. 115–198, § 9, July 20, 2018, 132 Stat. 1525
+### § 9253. Repealed. Pub. L. 115–198, § 9, July 20, 2018, 132 Stat. 1525
 
-Section, Pub. L. 114–122, title IV, § 403, Feb. 18, 2016, 130 Stat. 115, authorized appropriations for fiscal years 2017 through 2021 to carry out provisions in chapter 85 of this title.
+Section, Pub. L. 114–122, title IV, § 403, Feb. 18, 2016, 130 Stat. 115, authorized appropriations for fiscal years 2017 through 2021 to carry out provisions in chapter 85 of this title.
 
-### § 9254. Rulemaking
+### § 9254. Rulemaking
 
 **(a) In general**
 
@@ -1729,7 +1729,7 @@ The President is authorized to promulgate such rules and regulations as may be n
 
 Nothing in this chapter, or in any amendment made by this Act, may be construed to limit the authority of the President to designate or sanction persons pursuant to an applicable Executive order or otherwise pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
 
-(Pub. L. 114–122, title IV, § 404, Feb. 18, 2016, 130 Stat. 116.)
+(Pub. L. 114–122, title IV, § 404, Feb. 18, 2016, 130 Stat. 116.)
 
 **Editorial Notes**
 
@@ -1739,7 +1739,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Any amendment made by this Act, referred to in subsec. (b), means the amendments made by Pub. L. 114–122. See Short Title note set out under section 9201 of this title and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Executive Documents**
 
@@ -1747,11 +1747,11 @@ The International Emergency Economic Powers Act, referred to in subsec. (b), is 
 
 Functions and authorities of President under subsec. (a) of this section delegated to Secretary of State, Secretary of the Treasury, Secretary of Commerce, and Director of National Intelligence by Memorandum of President of the United States, May 18, 2016, 81 F.R. 37479, set out as a note under section 9212 of this title.
 
-### § 9255. Authority to consolidate reports
+### § 9255. Authority to consolidate reports
 
 Any and all reports required to be submitted to appropriate congressional committees under this chapter or any amendment made by this Act that are subject to a deadline for submission consisting of the same unit of time may be consolidated into a single report that is submitted to appropriate congressional committees pursuant to such deadline. The consolidated reports must contain all information required under this chapter or any amendment made by this Act, in addition to all other elements mandated by previous law.
 
-(Pub. L. 114–122, title IV, § 405, Feb. 18, 2016, 130 Stat. 116.)
+(Pub. L. 114–122, title IV, § 405, Feb. 18, 2016, 130 Stat. 116.)
 
 **Editorial Notes**
 
@@ -1769,15 +1769,15 @@ Any amendment made by this Act, referred to in text, means the amendments made b
 
 This subchapter was enacted as part of the Otto Warmbier North Korea Nuclear Sanctions and Enforcement Act of 2019, and also as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the North Korea Sanctions and Policy Enhancement Act of 2016 which comprises this chapter.
 
-### § 9261. Definitions
+### § 9261. Definitions
 
 In this subtitle,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 the terms “applicable Executive order”, “applicable United Nations Security Council resolution”, “appropriate congressional committees”, “Government of North Korea”, “North Korea”, “North Korean financial institution”, and “North Korean person” have the meanings given those terms in section 9202 of this title.
 
-(Pub. L. 116–92, div. F, title LXXI, § 7112, Dec. 20, 2019, 133 Stat. 2244.)
+(Pub. L. 116–92, div. F, title LXXI, § 7112, Dec. 20, 2019, 133 Stat. 2244.)
 
 **Editorial Notes**
 
@@ -1791,15 +1791,15 @@ Section was enacted as part of the Otto Warmbier North Korea Nuclear Sanctions a
 
 ### Part I—Congressional Review and Oversight
 
-#### § 9265. Notification of termination or suspension of sanctions
+#### § 9265. Notification of termination or suspension of sanctions
 
-Before taking any action to terminate or suspend the application of sanctions under this subtitle 1
+Before taking any action to terminate or suspend the application of sanctions under this subtitle 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or an amendment made by this subtitle, the President shall notify the appropriate congressional committees of the President’s intent to take the action and the reasons for the action.
 
-(Pub. L. 116–92, div. F, title LXXI, § 7131, Dec. 20, 2019, 133 Stat. 2252.)
+(Pub. L. 116–92, div. F, title LXXI, § 7131, Dec. 20, 2019, 133 Stat. 2252.)
 
 **Editorial Notes**
 
@@ -1817,7 +1817,7 @@ Section was enacted as part of the Otto Warmbier North Korea Nuclear Sanctions a
 
 Functions and authorities of President under this section delegated to Secretary of State, in consultation with the Secretary of the Treasury, by section 1(a)(v) of Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, set out as a note under section 286yy of this title.
 
-#### § 9265a. Reports on certain licensing actions
+#### § 9265a. Reports on certain licensing actions
 
 **(a) Report required**
 
@@ -1857,7 +1857,7 @@ Each report required by subsection (a), and each copy of a license submitted und
 
 **(C)** Any other provision of title 31, Code of Federal Regulations.
 
-(Pub. L. 116–92, div. F, title LXXI, § 7132, Dec. 20, 2019, 133 Stat. 2252.)
+(Pub. L. 116–92, div. F, title LXXI, § 7132, Dec. 20, 2019, 133 Stat. 2252.)
 
 **Editorial Notes**
 
@@ -1873,15 +1873,15 @@ Functions and authorities of President under this section delegated to Secretary
 
 ### Part II—General Matters
 
-#### § 9269. Rulemaking
+#### § 9269. Rulemaking
 
-The President shall prescribe such rules and regulations as may be necessary to carry out this subtitle 1
+The President shall prescribe such rules and regulations as may be necessary to carry out this subtitle 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and amendments made by this subtitle.
 
-(Pub. L. 116–92, div. F, title LXXI, § 7141, Dec. 20, 2019, 133 Stat. 2255.)
+(Pub. L. 116–92, div. F, title LXXI, § 7141, Dec. 20, 2019, 133 Stat. 2255.)
 
 **Editorial Notes**
 
@@ -1899,21 +1899,21 @@ Section was enacted as part of the Otto Warmbier North Korea Nuclear Sanctions a
 
 Functions and authorities of President under this section delegated to Secretary of the Treasury by section 1(d) of Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, set out as a note under section 286yy of this title.
 
-#### § 9269a. Authority to consolidate reports
+#### § 9269a. Authority to consolidate reports
 
 **(a) In general**
 
-Any and all reports required to be submitted to the appropriate congressional committees under this subtitle 1
+Any and all reports required to be submitted to the appropriate congressional committees under this subtitle 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or an amendment made by this subtitle that are subject to a deadline for submission consisting of the same unit of time may be consolidated into a single report that is submitted pursuant to that deadline.
 
 **(b) Contents**
 
-Any reports consolidated under subsection (a) shall contain all information required under this subtitle <sup>1</sup> or an amendment made by this subtitle and any other elements that may be required by existing law.
+Any reports consolidated under subsection (a) shall contain all information required under this subtitle <sup>1</sup> or an amendment made by this subtitle and any other elements that may be required by existing law.
 
-(Pub. L. 116–92, div. F, title LXXI, § 7142, Dec. 20, 2019, 133 Stat. 2255.)
+(Pub. L. 116–92, div. F, title LXXI, § 7142, Dec. 20, 2019, 133 Stat. 2255.)
 
 **Editorial Notes**
 
@@ -1925,17 +1925,17 @@ This subtitle, referred to in text, is subtitle A of title LXXI of div. F of Pub
 
 Section was enacted as part of the Otto Warmbier North Korea Nuclear Sanctions and Enforcement Act of 2019, and also as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the North Korea Sanctions and Policy Enhancement Act of 2016 which comprises this chapter.
 
-#### § 9269b. Waivers, exemptions, and termination
+#### § 9269b. Waivers, exemptions, and termination
 
 **(a) Omitted**
 
 **(b) Suspension**
 
-**(1) In general** Subject to section 9265 of this title, the President may suspend the application of any provision of or amendment made by this subtitle 1
+**(1) In general** Subject to section 9265 of this title, the President may suspend the application of any provision of or amendment made by this subtitle 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(other than section 9269d of this title or section 9221b(e) of this title, as added by section 7121 1 of this title) with respect to an entity, individual, or transaction, for renewable periods of not more than 180 days each if, before such a suspension or renewal of such a suspension takes effect, the President submits to the appropriate congressional committees—
+(other than section 9269d of this title or section 9221b(e) of this title, as added by section 7121 1 of this title) with respect to an entity, individual, or transaction, for renewable periods of not more than 180 days each if, before such a suspension or renewal of such a suspension takes effect, the President submits to the appropriate congressional committees—
 
 **(A)** a certification that—
 
@@ -1953,9 +1953,9 @@ Section was enacted as part of the Otto Warmbier North Korea Nuclear Sanctions a
 
 **(c) Termination**
 
-Subject to section 9265 of this title, any requirement to impose sanctions under this subtitle <sup>1</sup> or the amendments made by this subtitle, and any sanctions imposed pursuant to this subtitle <sup>1</sup> or any such amendment, shall terminate on the date on which the President makes the certification described in section 9252 of this title.
+Subject to section 9265 of this title, any requirement to impose sanctions under this subtitle <sup>1</sup> or the amendments made by this subtitle, and any sanctions imposed pursuant to this subtitle <sup>1</sup> or any such amendment, shall terminate on the date on which the President makes the certification described in section 9252 of this title.
 
-(Pub. L. 116–92, div. F, title LXXI, § 7143, Dec. 20, 2019, 133 Stat. 2255.)
+(Pub. L. 116–92, div. F, title LXXI, § 7143, Dec. 20, 2019, 133 Stat. 2255.)
 
 **Editorial Notes**
 
@@ -1971,21 +1971,21 @@ Section was enacted as part of the Otto Warmbier North Korea Nuclear Sanctions a
 
 Section is comprised of section 7143 of Pub. L. 116–92. Subsec. (a) of section 7143 of Pub. L. 116–92 amended section 9228 of this title. Subsec. (b)(2) of section 7143 of Pub. L. 116–92 amended section 9251 of this title.
 
-#### § 9269c. Procedures for review of classified and certain other information
+#### § 9269c. Procedures for review of classified and certain other information
 
 **(a) In general**
 
-If a finding under this subtitle 1
+If a finding under this subtitle 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-or an amendment made by this subtitle, a prohibition, condition, or penalty imposed as a result of any such finding, or a penalty imposed under this subtitle 1 or an amendment made by this subtitle, is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)), law enforcement information, or any other information protected from disclosure by statute, and a court reviews the finding or the imposition of the prohibition, condition, or penalty, the Secretary of the Treasury may submit such information to the court ex parte and in camera.
+or an amendment made by this subtitle, a prohibition, condition, or penalty imposed as a result of any such finding, or a penalty imposed under this subtitle 1 or an amendment made by this subtitle, is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)), law enforcement information, or any other information protected from disclosure by statute, and a court reviews the finding or the imposition of the prohibition, condition, or penalty, the Secretary of the Treasury may submit such information to the court ex parte and in camera.
 
 **(b) Rule of construction**
 
-Nothing in this section shall be construed to confer or imply any right to judicial review of any finding under this subtitle <sup>1</sup> or an amendment made by this subtitle, any prohibition, condition, or penalty imposed as a result of any such finding, or any penalty imposed under this subtitle <sup>1</sup> or an amendment made by this subtitle.
+Nothing in this section shall be construed to confer or imply any right to judicial review of any finding under this subtitle <sup>1</sup> or an amendment made by this subtitle, any prohibition, condition, or penalty imposed as a result of any such finding, or any penalty imposed under this subtitle <sup>1</sup> or an amendment made by this subtitle.
 
-(Pub. L. 116–92, div. F, title LXXI, § 7144, Dec. 20, 2019, 133 Stat. 2256.)
+(Pub. L. 116–92, div. F, title LXXI, § 7144, Dec. 20, 2019, 133 Stat. 2256.)
 
 **Editorial Notes**
 
@@ -1999,13 +1999,13 @@ The Classified Information Procedures Act, referred to in subsec. (a), is Pub. L
 
 Section was enacted as part of the Otto Warmbier North Korea Nuclear Sanctions and Enforcement Act of 2019, and also as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the North Korea Sanctions and Policy Enhancement Act of 2016 which comprises this chapter.
 
-#### § 9269d. Exception relating to importation of goods
+#### § 9269d. Exception relating to importation of goods
 
 **(a) In general**
 
-The authorities and requirements to impose sanctions authorized under this subtitle 1
+The authorities and requirements to impose sanctions authorized under this subtitle 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 or any amendment made by this subtitle shall not include the authority or requirement to impose sanctions on the importation of goods.
 
@@ -2013,7 +2013,7 @@ or any amendment made by this subtitle shall not include the authority or requir
 
 In this section, the term “good” means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
 
-(Pub. L. 116–92, div. F, title LXXI, § 7147, Dec. 20, 2019, 133 Stat. 2257.)
+(Pub. L. 116–92, div. F, title LXXI, § 7147, Dec. 20, 2019, 133 Stat. 2257.)
 
 **Editorial Notes**
 

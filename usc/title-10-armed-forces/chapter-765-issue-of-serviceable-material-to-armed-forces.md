@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 435 of this title as this chapter and items 4561 to 4565 as 7561 to 7565, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 435 of this title as this chapter and items 4561 to 4565 as 7561 to 7565, respectively.
 
-## § 7561. Rations
+## § 7561. Rations
 
 **(a)** The President may prescribe the components, and the quantities thereof, of the Army ration. He may direct the issue of equivalent articles in place of the prescribed components whenever, in his opinion, economy and the health and comfort of the members of the Army so require.
 
@@ -31,13 +31,13 @@ retrieved: 2026-10-11
 
 **(d)** Fresh or preserved fruits, milk, butter, and eggs necessary for the proper diet of the sick in hospitals shall be provided under regulations prescribed by the Surgeon General and approved by the Secretary.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 255, § 4561; renumbered § 7561, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 255, § 4561; renumbered § 7561, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4561(a) 4561(b)   4561(c)   4561(d) | 10:724. 10:1195a (as applicable to issue). 10:716b. 10:725. 10:726. | R.S. 1141 (as applicable to issue); June 28, 1950, ch. 383, § 402(a), 64 Stat. 272. Feb. 2, 1901, ch. 192, § 40, 31 Stat. 758. |
+| 4561(a) 4561(b) 4561(c) 4561(d) | 10:724. 10:1195a (as applicable to issue). 10:716b. 10:725. 10:726. | R.S. 1141 (as applicable to issue); June 28, 1950, ch. 383, § 402(a), 64 Stat. 272. Feb. 2, 1901, ch. 192, § 40, 31 Stat. 758. |
 |  |  | R.S. 1293; July 16, 1892, ch. 195 (last 15 words before proviso under “Subsistence of the Army”), 27 Stat. 178. |
 |  |  | Mar. 2, 1907, ch. 2511 (1st proviso under “Subsistence Department”), 34 Stat. 1165. R.S. 1175. |
 
@@ -67,11 +67,11 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Authority of President under subsec. (a) of this section to prescribe uniform military ration applicable to Army delegated to Secretary of Defense by section 3(a) of Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, set out as a note under section 301 of Title 3, The President.
 
-## § 7562. Clothing
+## § 7562. Clothing
 
 The President may prescribe the quantity and kind of clothing to be issued annually to members of the Army.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 256, § 4562; renumbered § 7562, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 256, § 4562; renumbered § 7562, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -93,11 +93,11 @@ The words “members of the Army” are substituted for the words “troops of t
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7563. Clothing: replacement when destroyed to prevent contagion
+## § 7563. Clothing: replacement when destroyed to prevent contagion
 
 Upon the recommendation of the Surgeon General, the Secretary of the Army may order a gratuitous issue of clothing to any enlisted member of the Army who has had a contagious disease, and to any hospital attendant who attended him while he had that disease, to replace clothing destroyed by order of an officer of the Medical Corps to prevent contagion.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 256, § 4563; renumbered § 7563, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 256, § 4563; renumbered § 7563, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
@@ -119,20 +119,20 @@ The words “enlisted member” are substituted for the word “soldiers”. The
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7564. Navy and Marine Corps: camp equipment and transportation; when on shore duty with Army
+## § 7564. Navy and Marine Corps: camp equipment and transportation; when on shore duty with Army
 
 While any detachment of the Navy or Marine Corps is on shore duty in cooperation with troops of the Army, the officer of the Army designated by the Secretary of the Army shall, upon the requisition of the officer of the Navy or Marine Corps in command of the detachment, issue rations and camp equipment, and furnish transportation, to that detachment.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 256, § 4564; renumbered § 7564, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 256, § 4564; renumbered § 7564, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4564 | 10:1259d. 10:1259e. 34:541. | R.S. 1143; June 28, 1950, ch. 383, § 402(a), 64 Stat. 272. |
-|  |  | R.S. 1135; June 28, 1950, ch. 383, § 402(a), 64 Stat. 272. |
+| 4564 | 10:1259d. 10:1259e. 34:541. | R.S. 1143; June 28, 1950, ch. 383, § 402(a), 64 Stat. 272. |
+|  |  | R.S. 1135; June 28, 1950, ch. 383, § 402(a), 64 Stat. 272. |
 
-The words “While \* \* \* on shore duty” are substituted for the words “under orders to act on shore”, in 10:1259d and 1259e, and 34:541. The words “branch, office, or” and “during the time such detachment is so acting or proceeding to act”, in 10:1259d and 1259e, and 34:541, are omitted as surplusage. The words “their baggage, provisions, and cannon”, in 10:1259e and 34:541, are omitted as surplusage. The words “and shall furnish the naval officer commanding any such detachment, and his necessary aides, with horses, accouterments, and forage”, in 10:1259e and 34:541, are omitted as obsolete.
+The words “While \* \* \* on shore duty” are substituted for the words “under orders to act on shore”, in 10:1259d and 1259e, and 34:541. The words “branch, office, or” and “during the time such detachment is so acting or proceeding to act”, in 10:1259d and 1259e, and 34:541, are omitted as surplusage. The words “their baggage, provisions, and cannon”, in 10:1259e and 34:541, are omitted as surplusage. The words “and shall furnish the naval officer commanding any such detachment, and his necessary aides, with horses, accouterments, and forage”, in 10:1259e and 34:541, are omitted as obsolete.
 
 **Editorial Notes**
 
@@ -146,7 +146,7 @@ The words “While \* \* \* on shore duty” are substituted for the words �
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7565. Colors, standards, and guidons of demobilized organizations: disposition
+## § 7565. Colors, standards, and guidons of demobilized organizations: disposition
 
 **(a)** The Secretary of the Army may dispose of colors, standards, and guidons of demobilized organizations of the Army, as follows:
 
@@ -160,13 +160,13 @@ Those that cannot be returned or sent under clause (1) or (2) of this subsection
 
 **(c)** No color, standard, or guidon may be disposed of under this section unless provision satisfactory to the Secretary has been made for its preservation and care.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 256, § 4565; Pub. L. 89–718, § 29, Nov. 2, 1966, 80 Stat. 1119; renumbered § 7565, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 256, § 4565; Pub. L. 89–718, § 29, Nov. 2, 1966, 80 Stat. 1119; renumbered § 7565, Pub. L. 115–232, div. A, title VIII, § 808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4565(a) | 5:202 (less 3d and last sentences). | Mar. 4, 1921, ch. 166, § 2, 41 Stat. 1438. |
+| 4565(a) | 5:202 (less 3d and last sentences). | Mar. 4, 1921, ch. 166, § 2, 41 Stat. 1438. |
 | 4565(b) | 5:202 (3d sentence). |  |
 | 4565(c) | 5:202 (last sentence). |  |
 
@@ -178,15 +178,15 @@ In subsection (a), the words “Any which were used during their service by such
 
 Prior sections 7571 to 7573 were renumbered sections 8771 to 8773 of this title, respectively.
 
-Prior sections 7574 and 7575 were repealed by Pub. L. 93–166, title V, § 509(d), Nov. 29, 1973, 87 Stat. 678.
+Prior sections 7574 and 7575 were repealed by Pub. L. 93–166, title V, § 509(d), Nov. 29, 1973, 87 Stat. 678.
 
-Section 7574, acts Aug. 10, 1956, ch. 1041, 70A Stat. 468; Aug. 30, 1957, Pub. L. 85–241, title IV, § 404(b), 71 Stat. 556; Aug. 10, 1959, Pub. L. 86–149, title IV, § 410(b), 73 Stat. 321; July 27, 1962, Pub. L. 87–554, title V, § 504(b), (d), 76 Stat. 239; Nov. 7, 1963, Pub. L. 88–174, title V, § 503, 77 Stat. 325; Dec. 5, 1969, Pub. L. 91–142, title V, § 510(a), 83 Stat. 312; Oct. 27, 1971, Pub. L. 92–145, title V, § 508(b), (c), 85 Stat. 408, related to quarters: limitations on size.
+Section 7574, acts Aug. 10, 1956, ch. 1041, 70A Stat. 468; Aug. 30, 1957, Pub. L. 85–241, title IV, § 404(b), 71 Stat. 556; Aug. 10, 1959, Pub. L. 86–149, title IV, § 410(b), 73 Stat. 321; July 27, 1962, Pub. L. 87–554, title V, § 504(b), (d), 76 Stat. 239; Nov. 7, 1963, Pub. L. 88–174, title V, § 503, 77 Stat. 325; Dec. 5, 1969, Pub. L. 91–142, title V, § 510(a), 83 Stat. 312; Oct. 27, 1971, Pub. L. 92–145, title V, § 508(b), (c), 85 Stat. 408, related to quarters: limitations on size.
 
 Section 7575, act Aug. 10, 1956, ch. 1041, 70A Stat. 469, related to quarters: exemptions from cost limitations.
 
 Prior sections 7576 and 7577 were renumbered sections 8776 and 8777 of this title, respectively.
 
-A prior section 7578, act Aug. 10, 1956, ch. 1041, 70A Stat. 469, related to limitations on furnishing of tableware and kitchen utensils, prior to repeal by Pub. L. 85–861, § 36B(24), Sept. 2, 1958, 72 Stat. 1571.
+A prior section 7578, act Aug. 10, 1956, ch. 1041, 70A Stat. 469, related to limitations on furnishing of tableware and kitchen utensils, prior to repeal by Pub. L. 85–861, § 36B(24), Sept. 2, 1958, 72 Stat. 1571.
 
 Prior sections 7579 to 7582 were renumbered sections 8779 to 8782 of this title, respectively.
 

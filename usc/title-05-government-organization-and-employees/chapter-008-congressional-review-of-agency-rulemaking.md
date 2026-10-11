@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 8—CONGRESSIONAL REVIEW OF AGENCY RULEMAKING
 
-## § 801. Congressional review
+## § 801. Congressional review
 
 **(a)**
 
@@ -143,11 +143,11 @@ after the succeeding session of Congress first convenes; and
 
 **(g)** If the Congress does not enact a joint resolution of disapproval under section 802 respecting a rule, no court or agency may infer any intent of the Congress from any action or inaction of the Congress with regard to such rule, related statute, or joint resolution of disapproval.
 
-(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 868; amended Pub. L. 118–5, div. B, title III, § 270, June 3, 2023, 137 Stat. 33; Pub. L. 118–97, § 2, Oct. 1, 2024, 138 Stat. 1573.)
+(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 868; amended Pub. L. 118–5, div. B, title III, § 270, June 3, 2023, 137 Stat. 33; Pub. L. 118–97, § 2, Oct. 1, 2024, 138 Stat. 1573.)
 
 **Amendment of Subsection (a)(1)(D)**
 
-Pub. L. 118–97, § 2(b), Oct. 1, 2024, 138 Stat. 1574, provided that, effective 6 years after Oct. 1, 2024, subsection (a)(1) of this section is amended by striking subparagraph (D). See 2024 Amendment note below.
+Pub. L. 118–97, § 2(b), Oct. 1, 2024, 138 Stat. 1574, provided that, effective 6 years after Oct. 1, 2024, subsection (a)(1) of this section is amended by striking subparagraph (D). See 2024 Amendment note below.
 
 **Editorial Notes**
 
@@ -159,17 +159,17 @@ The date of the enactment of this chapter, referred to in subsec. (e)(1), (2), i
 
 **Amendments**
 
-2024—Subsec. (a)(1)(D). Pub. L. 118–97, § 2(b), struck out subpar. (D) which required Federal agencies to submit to the Comptroller General a report on rules that are revoked, suspended, replaced, amended, or otherwise made ineffective.
+2024—Subsec. (a)(1)(D). Pub. L. 118–97, § 2(b), struck out subpar. (D) which required Federal agencies to submit to the Comptroller General a report on rules that are revoked, suspended, replaced, amended, or otherwise made ineffective.
 
-Pub. L. 118–97, § 2(a), added subpar. (D).
+Pub. L. 118–97, § 2(a), added subpar. (D).
 
-2023—Subsec. (a)(2)(A). Pub. L. 118–5, §§ 268, 270, temporarily inserted “, and shall in addition include an assessment of the agency’s compliance with such requirements of the Administrative Pay-As-You-Go Act of 2023 as may be applicable” after “compliance with procedural steps required by paragraph (1)(B)”. See Termination Date of 2023 Amendment note below.
+2023—Subsec. (a)(2)(A). Pub. L. 118–5, §§ 268, 270, temporarily inserted “, and shall in addition include an assessment of the agency’s compliance with such requirements of the Administrative Pay-As-You-Go Act of 2023 as may be applicable” after “compliance with procedural steps required by paragraph (1)(B)”. See Termination Date of 2023 Amendment note below.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2024 Amendment**
 
-Pub. L. 118–97, § 2(b), Oct. 1, 2024, 138 Stat. 1574, provided that the amendment made by section 2(b) is effective on the date that is 6 years after Oct. 1, 2024.
+Pub. L. 118–97, § 2(b), Oct. 1, 2024, 138 Stat. 1574, provided that the amendment made by section 2(b) is effective on the date that is 6 years after Oct. 1, 2024.
 
 **Termination Date of 2023 Amendment**
 
@@ -177,7 +177,7 @@ Amendment by Pub. L. 118–5 expires on Dec. 31, 2024, see section 268 of Pub. L
 
 **Effective Date**
 
-Pub. L. 104–121, title II, § 252, Mar. 29, 1996, 110 Stat. 874, provided that: “The amendment made by section 351 [probably means section 251, enacting this chapter] shall take effect on the date of enactment of this Act [Mar. 29, 1996].”
+Pub. L. 104–121, title II, § 252, Mar. 29, 1996, 110 Stat. 874, provided that: “The amendment made by section 351 [probably means section 251, enacting this chapter] shall take effect on the date of enactment of this Act [Mar. 29, 1996].”
 
 **Short Title**
 
@@ -185,7 +185,7 @@ This chapter is popularly known as the “Congressional Review Act”.
 
 **Truth in Regulating**
 
-Pub. L. 106–312, Oct. 17, 2000, 114 Stat. 1248, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 106–312, Oct. 17, 2000, 114 Stat. 1248, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 > **“SECTION 1. SHORT TITLE.**
 
@@ -249,7 +249,7 @@ Pub. L. 106–312, Oct. 17, 2000, 114 Stat. 1248, as amended by Pub. L. 108–27
 
 > **“(c) Report.—** Before the conclusion of the 3-year period, the Comptroller General shall submit to Congress a report reviewing the effectiveness of the pilot project and recommending whether or not Congress should permanently authorize the pilot project.”
 
-## § 802. Congressional disapproval procedure
+## § 802. Congressional disapproval procedure
 
 **(a)** For purposes of this section, the term “joint resolution” means only a joint resolution introduced in the period beginning on the date on which the report referred to in section 801(a)(1)(A) is received by Congress and ending 60 days thereafter (excluding days either House of Congress is adjourned for more than 3 days during a session of Congress), the matter after the resolving clause of which is as follows: “That Congress disapproves the rule submitted by the \_\_ relating to \_\_, and such rule shall have no force or effect.” (The blank spaces being appropriately filled in).
 
@@ -297,17 +297,17 @@ Pub. L. 106–312, Oct. 17, 2000, 114 Stat. 1248, as amended by Pub. L. 108–27
 
 **(2)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 871.)
+(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 871.)
 
-## § 803. Special rule on statutory, regulatory, and judicial deadlines
+## § 803. Special rule on statutory, regulatory, and judicial deadlines
 
 **(a)** In the case of any deadline for, relating to, or involving any rule which does not take effect (or the effectiveness of which is terminated) because of enactment of a joint resolution under section 802, that deadline is extended until the date 1 year after the date of enactment of the joint resolution. Nothing in this subsection shall be construed to affect a deadline merely by reason of the postponement of a rule’s effective date under section 801(a).
 
 **(b)** The term “deadline” means any date certain for fulfilling any obligation or exercising any authority established by or under any Federal statute or regulation, or by or under any court order implementing any Federal statute or regulation.
 
-(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 873.)
+(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 873.)
 
-## § 804. Definitions
+## § 804. Definitions
 
 For purposes of this chapter—
 
@@ -331,7 +331,7 @@ The term does not include any rule promulgated under the Telecommunications Act 
 
 **(C)** any rule of agency organization, procedure, or practice that does not substantially affect the rights or obligations of non-agency parties.
 
-(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 873.)
+(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 873.)
 
 **Editorial Notes**
 
@@ -339,27 +339,27 @@ The term does not include any rule promulgated under the Telecommunications Act 
 
 The Telecommunications Act of 1996, referred to in par. (2), is Pub. L. 104–104, Feb. 8, 1996, 110 Stat. 56. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 609 of Title 47, Telecommunications, and Tables.
 
-## § 805. Judicial review
+## § 805. Judicial review
 
 No determination, finding, action, or omission under this chapter shall be subject to judicial review.
 
-(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 873.)
+(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 873.)
 
-## § 806. Applicability; severability
+## § 806. Applicability; severability
 
 **(a)** This chapter shall apply notwithstanding any other provision of law.
 
 **(b)** If any provision of this chapter or the application of any provision of this chapter to any person or circumstance, is held invalid, the application of such provision to other persons or circumstances, and the remainder of this chapter, shall not be affected thereby.
 
-(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 873.)
+(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 873.)
 
-## § 807. Exemption for monetary policy
+## § 807. Exemption for monetary policy
 
 Nothing in this chapter shall apply to rules that concern monetary policy proposed or implemented by the Board of Governors of the Federal Reserve System or the Federal Open Market Committee.
 
-(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 874.)
+(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 874.)
 
-## § 808. Effective date of certain rules
+## § 808. Effective date of certain rules
 
 Notwithstanding section 801—
 
@@ -369,4 +369,4 @@ Notwithstanding section 801—
 
 shall take effect at such time as the Federal agency promulgating the rule determines.
 
-(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 874.)
+(Added Pub. L. 104–121, title II, § 251, Mar. 29, 1996, 110 Stat. 874.)

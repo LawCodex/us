@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 18—WATERSHED PROTECTION AND FLOOD PREVENTION
 
-## § 1001. Declaration of policy
+## § 1001. Declaration of policy
 
 Erosion, floodwater, and sediment damages in the watersheds of the rivers and streams of the United States, causing loss of life and damage to property, constitute a menace to the national welfare; and it is the sense of Congress that the Federal Government should cooperate with States and their political subdivisions, soil or water conservation districts, flood prevention or control districts, and other local public agencies for the purpose of preventing such damages, of furthering the conservation, development, utilization, and disposal of water, and the conservation and utilization of land and thereby of preserving, protecting, and improving the Nation’s land and water resources and the quality of the environment.
 
-(Aug. 4, 1954, ch. 656, § 1, 68 Stat. 666; Pub. L. 92–419, title II, § 201(a), Aug. 30, 1972, 86 Stat. 667.)
+(Aug. 4, 1954, ch. 656, § 1, 68 Stat. 666; Pub. L. 92–419, title II, § 201(a), Aug. 30, 1972, 86 Stat. 667.)
 
 **Editorial Notes**
 
@@ -31,17 +31,17 @@ Erosion, floodwater, and sediment damages in the watersheds of the rivers and st
 
 **Short Title**
 
-Act Aug. 4, 1954, ch. 656, § 11, formerly § 9, 68 Stat. 668, as renumbered by act Aug. 7, 1956, ch. 1027, § 1(g), 70 Stat. 1090, provided that: “This Act [enacting this chapter, amending section 701b of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under this section and section 701b of Title 33] may be cited as the ‘Watershed Protection and Flood Prevention Act’.”
+Act Aug. 4, 1954, ch. 656, § 11, formerly § 9, 68 Stat. 668, as renumbered by act Aug. 7, 1956, ch. 1027, § 1(g), 70 Stat. 1090, provided that: “This Act [enacting this chapter, amending section 701b of Title 33, Navigation and Navigable Waters, and enacting provisions set out as notes under this section and section 701b of Title 33] may be cited as the ‘Watershed Protection and Flood Prevention Act’.”
 
 **Watershed Protection and Flood Prevention Proj­ects Exempt From Requirements for Independent Water Project Review**
 
-For exemption of projects under this chapter from independent water project review requirements of Ex. Ords. No. 12113 and 12141, see Pub. L. 96–528, title VI, § 622, Dec. 15, 1980, 94 Stat. 3118, set out as a note under section 1962 of Title 42, The Public Health and Welfare.
+For exemption of projects under this chapter from independent water project review requirements of Ex. Ords. No. 12113 and 12141, see Pub. L. 96–528, title VI, § 622, Dec. 15, 1980, 94 Stat. 3118, set out as a note under section 1962 of Title 42, The Public Health and Welfare.
 
 **Extension of Benefits to Projects Authorized Before Aug. 7, 1956**
 
-Act Aug. 7, 1956, ch. 1027, § 2, 70 Stat. 1090, provided that sections 1006a and 1006b of this title and the amendments made by act Aug. 7, 1956 to sections 1002 to 1005 of this title should be applicable to all works of improvement and plans for such works under the provisions of this chapter and that any plans for works of improvement with respect to which the Secretary of Agriculture was authorized prior to Aug. 7, 1956 to participate in the installation of works of improvement in accordance with such plan, or any plan for works of improvement which had received prior to Aug. 7, 1956 the approval of congressional committees, need not be submitted to the congressional committees as required by this chapter.
+Act Aug. 7, 1956, ch. 1027, § 2, 70 Stat. 1090, provided that sections 1006a and 1006b of this title and the amendments made by act Aug. 7, 1956 to sections 1002 to 1005 of this title should be applicable to all works of improvement and plans for such works under the provisions of this chapter and that any plans for works of improvement with respect to which the Secretary of Agriculture was authorized prior to Aug. 7, 1956 to participate in the installation of works of improvement in accordance with such plan, or any plan for works of improvement which had received prior to Aug. 7, 1956 the approval of congressional committees, need not be submitted to the congressional committees as required by this chapter.
 
-## § 1002. Definitions
+## § 1002. Definitions
 
 For the purposes of this chapter, the following terms shall mean:
 
@@ -59,7 +59,7 @@ in watershed or subwatershed area not exceeding two hundred and fifty thousand a
 
 “Local organization”—any State, political subdivision thereof, soil or water conservation district, flood prevention or control district, or combinations thereof, or any other agency having authority under State law to carry out, maintain and operate the works of improvement; or any irrigation or reservoir company, water users’ association, or similar organization having such authority and not being operated for profit that may be approved by the Secretary; or any Indian tribe or tribal organization, as defined in section 5304 of title 25, having authority under Federal, State, or Indian tribal law to carry out, maintain, and operate the works of improvement.
 
-(Aug. 4, 1954, ch. 656, § 2, 68 Stat. 666; Aug. 7, 1956, ch. 1027, § 1(a), 70 Stat. 1088; Pub. L. 87–170, Aug. 30, 1961, 75 Stat. 408; Pub. L. 89–337, Nov. 8, 1965, 79 Stat. 1300; Pub. L. 92–419, title II, § 201(b), Aug. 30, 1972, 86 Stat. 667; Pub. L. 95–113, title XV, § 1506(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 97–98, title XV, § 1512(a), (b), Dec. 22, 1981, 95 Stat. 1332, 1333; Pub. L. 99–662, title IX, § 929, Nov. 17, 1986, 100 Stat. 4196; Pub. L. 101–624, title XIV, § 1461, Nov. 28, 1990, 104 Stat. 3615; Pub. L. 103–437, § 6(v), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 115–141, div. A, title VII, § 761(a), Mar. 23, 2018, 132 Stat. 396.)
+(Aug. 4, 1954, ch. 656, § 2, 68 Stat. 666; Aug. 7, 1956, ch. 1027, § 1(a), 70 Stat. 1088; Pub. L. 87–170, Aug. 30, 1961, 75 Stat. 408; Pub. L. 89–337, Nov. 8, 1965, 79 Stat. 1300; Pub. L. 92–419, title II, § 201(b), Aug. 30, 1972, 86 Stat. 667; Pub. L. 95–113, title XV, § 1506(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 97–98, title XV, § 1512(a), (b), Dec. 22, 1981, 95 Stat. 1332, 1333; Pub. L. 99–662, title IX, § 929, Nov. 17, 1986, 100 Stat. 4196; Pub. L. 101–624, title XIV, § 1461, Nov. 28, 1990, 104 Stat. 3615; Pub. L. 103–437, § 6(v), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 115–141, div. A, title VII, § 761(a), Mar. 23, 2018, 132 Stat. 396.)
 
 **Editorial Notes**
 
@@ -69,7 +69,7 @@ in watershed or subwatershed area not exceeding two hundred and fifty thousand a
 
 1994—Pub. L. 103–437 in concluding provisions relating to definition of “Works of improvement” substituted “Committee on Agriculture, Nutrition, and Forestry” for “Committee on Agriculture and Forestry” and “Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House” for “Committee on Public Works of the Senate and the Committee on Public Works of the House”.
 
-1990—Pub. L. 101–624, which directed amendment of third sentence by substituting “Each project” for “Each such project submitted to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives after July 1, 1987,” and inserting “, including rural communities,” after “agriculture”, was executed to third sentence of par. defining “Works of improvement” to reflect the probable intent of Congress.
+1990—Pub. L. 101–624, which directed amendment of third sentence by substituting “Each project” for “Each such project submitted to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation of the House of Representatives after July 1, 1987,” and inserting “, including rural communities,” after “agriculture”, was executed to third sentence of par. defining “Works of improvement” to reflect the probable intent of Congress.
 
 1986—Pub. L. 99–662 inserted in definition of “Works of improvement” provision requiring that projects submitted after July 1, 1987, contain benefits directly related to agriculture accounting for at least 20 percent of the total benefits of the project.
 
@@ -107,9 +107,9 @@ Amendment by act Aug. 7, 1956, as applicable to all works of improvements and pl
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-## § 1003. Assistance to local organizations
+## § 1003. Assistance to local organizations
 
 **(a) In general** In order to assist local organizations in preparing and carrying out plans for works of improvement, the Secretary is authorized, upon application of local organizations if such application has been submitted to, and not disapproved within 45 days by, the State agency having supervisory responsibility over programs provided for in this chapter, or by the Governor if there is no State agency having such responsibility—
 
@@ -131,7 +131,7 @@ Enforcement functions of Secretary or other official in Department of Agricultur
 
 **(2)** the works of improvement are otherwise consistent with applicable requirements under section 1004 of this title.
 
-(Aug. 4, 1954, ch. 656, § 3, 68 Stat. 666; Aug. 7, 1956, ch. 1027, § 1(b), 70 Stat. 1088; Pub. L. 92–419, title II, § 201(c), Aug. 30, 1972, 86 Stat. 667; Pub. L. 97–98, title XV, § 1512(c), Dec. 22, 1981, 95 Stat. 1333; Pub. L. 101–624, title XIV, § 1464, Nov. 28, 1990, 104 Stat. 3616; Pub. L. 115–334, title II, § 2401(a), Dec. 20, 2018, 132 Stat. 4570.)
+(Aug. 4, 1954, ch. 656, § 3, 68 Stat. 666; Aug. 7, 1956, ch. 1027, § 1(b), 70 Stat. 1088; Pub. L. 92–419, title II, § 201(c), Aug. 30, 1972, 86 Stat. 667; Pub. L. 97–98, title XV, § 1512(c), Dec. 22, 1981, 95 Stat. 1333; Pub. L. 101–624, title XIV, § 1464, Nov. 28, 1990, 104 Stat. 3616; Pub. L. 115–334, title II, § 2401(a), Dec. 20, 2018, 132 Stat. 4570.)
 
 **Editorial Notes**
 
@@ -167,7 +167,7 @@ Amendment by act Aug. 7, 1956, as applicable to all works of improvement and pla
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1002 of this title.
 
-## § 1003a. Cost share assistance
+## § 1003a. Cost share assistance
 
 **(a) Easements**
 
@@ -177,9 +177,9 @@ The Secretary may provide cost share assistance to project sponsors to enable su
 
 The Secretary shall require that project sponsors of watershed projects provide up to 50 percent of the cost of acquiring easements under subsection (a).
 
-(Aug. 4, 1954, ch. 656, § 3A, as added Pub. L. 101–624, title XIV, § 1462, Nov. 28, 1990, 104 Stat. 3615.)
+(Aug. 4, 1954, ch. 656, § 3A, as added Pub. L. 101–624, title XIV, § 1462, Nov. 28, 1990, 104 Stat. 3615.)
 
-## § 1004. Conditions for Federal assistance
+## § 1004. Conditions for Federal assistance
 
 The Secretary shall require as a condition to providing Federal assistance for the installation of works of improvement that local organizations shall—
 
@@ -195,7 +195,7 @@ The Secretary shall require as a condition to providing Federal assistance for t
 
 **(6)** submit a plan of repayment satisfactory to the Secretary for any loan or advancement made under the provisions of section 1006a of this title.
 
-(Aug. 4, 1954, ch. 656, § 4, 68 Stat. 667; Aug. 7, 1956, ch. 1027, § 1(c)–(e), 70 Stat. 1088; Pub. L. 85–865, § 1, Sept. 2, 1958, 72 Stat. 1605; Pub. L. 86–545, June 29, 1960, 74 Stat. 254; Pub. L. 87–703, title I, §§ 103, 104, Sept. 27, 1962, 76 Stat. 608, 609; Pub. L. 92–419, title II, § 201(d)–(f), Aug. 30, 1972, 86 Stat. 668; Pub. L. 97–98, title XV, § 1512(d), Dec. 22, 1981, 95 Stat. 1333.)
+(Aug. 4, 1954, ch. 656, § 4, 68 Stat. 667; Aug. 7, 1956, ch. 1027, § 1(c)–(e), 70 Stat. 1088; Pub. L. 85–865, § 1, Sept. 2, 1958, 72 Stat. 1605; Pub. L. 86–545, June 29, 1960, 74 Stat. 254; Pub. L. 87–703, title I, §§ 103, 104, Sept. 27, 1962, 76 Stat. 608, 609; Pub. L. 92–419, title II, § 201(d)–(f), Aug. 30, 1972, 86 Stat. 668; Pub. L. 97–98, title XV, § 1512(d), Dec. 22, 1981, 95 Stat. 1333.)
 
 **Editorial Notes**
 
@@ -203,27 +203,27 @@ The Secretary shall require as a condition to providing Federal assistance for t
 
 1981—Par. (1). Pub. L. 97–98 inserted proviso authorizing the Secretary to bear an amount not to exceed one-half of the costs of the land, easements, or rights-of-way acquired or to be acquired by the local organization for mitigation of fish and wildlife habitat losses and directing that such acquisitions are not limited to the confines of the watershed project boundaries.
 
-1972—Par. (1). Pub. L. 92–419, § 201(d), inserted “from funds appropriated for the purposes of this chapter” after “without cost to the Federal Government”.
+1972—Par. (1). Pub. L. 92–419, § 201(d), inserted “from funds appropriated for the purposes of this chapter” after “without cost to the Federal Government”.
 
-Par. (2)(A). Pub. L. 92–419, § 201(e), substituted “fish and wildlife development, recreational development, ground water recharge, water quality management, or the conservation and proper utilization of land”, for “fish and wildlife or recreational development” and inserted water quality management proviso.
+Par. (2)(A). Pub. L. 92–419, § 201(e), substituted “fish and wildlife development, recreational development, ground water recharge, water quality management, or the conservation and proper utilization of land”, for “fish and wildlife or recreational development” and inserted water quality management proviso.
 
-Par. (2)(B). Pub. L. 92–419, § 201(f), in revising text and making changes in phraseology, authorized payment for water storage for present demands, inserted at end of first proviso “as hereinafter provided”, substituted provisions respecting Secretary’s determination of adequate assurances by the local agency or by an agency of the State having authority to give such assurances that the Secretary will be reimbursed the cost of water supply storage for anticipated future demands, and that the local organization will pay not less than 50 per centum of the cost of storage for present water supply demands, for provisions respecting the giving of reasonable assurances by the local organization of repayment of cost of such water supply storage for anticipated future demands, and substituted permissive provisions for repayment of cost for anticipated future demands within life of the reservoir structure for former mandatory provisions.
+Par. (2)(B). Pub. L. 92–419, § 201(f), in revising text and making changes in phraseology, authorized payment for water storage for present demands, inserted at end of first proviso “as hereinafter provided”, substituted provisions respecting Secretary’s determination of adequate assurances by the local agency or by an agency of the State having authority to give such assurances that the Secretary will be reimbursed the cost of water supply storage for anticipated future demands, and that the local organization will pay not less than 50 per centum of the cost of storage for present water supply demands, for provisions respecting the giving of reasonable assurances by the local organization of repayment of cost of such water supply storage for anticipated future demands, and substituted permissive provisions for repayment of cost for anticipated future demands within life of the reservoir structure for former mandatory provisions.
 
-1962—Par. (1). Pub. L. 87–703, § 103(1), inserted provisos respecting cost sharing, participation, number of recreational developments and advances of funds.
+1962—Par. (1). Pub. L. 87–703, § 103(1), inserted provisos respecting cost sharing, participation, number of recreational developments and advances of funds.
 
-Par. (2)(A). Pub. L. 87–703, § 103(2), substituted “national needs and assistance authorized for similar purposes under other Federal programs” for “the direct identifiable benefits” and inserted “(excluding engineering costs)” after “Federal assistance” and “or recreational” before “development”.
+Par. (2)(A). Pub. L. 87–703, § 103(2), substituted “national needs and assistance authorized for similar purposes under other Federal programs” for “the direct identifiable benefits” and inserted “(excluding engineering costs)” after “Federal assistance” and “or recreational” before “development”.
 
-Par. (2)(B). Pub. L. 87–703, § 104, inserted provisos respecting water storage payments and limitation on amount of such payments, repayment agreements and period of time for repayment and provisions for commencement of repayment, interest-free period and rate of interest.
+Par. (2)(B). Pub. L. 87–703, § 104, inserted provisos respecting water storage payments and limitation on amount of such payments, repayment agreements and period of time for repayment and provisions for commencement of repayment, interest-free period and rate of interest.
 
 1960—Par. (1). Pub. L. 86–545 inserted provisions requiring local organizations to provide assurances with respect to interests in land to be acquired by condemnation.
 
 1958—Par. (2)(A). Pub. L. 85–865 inserted “or for fish and wildlife development” after “and disposal of water”.
 
-1956—Par. (2). Act Aug. 7, 1956, § 1(c), required local organizations to assume a proportionate share of costs applicable to agricultural water management in consideration of the direct identifiable benefits, and all the costs of works applicable to other purposes, and provided that the Federal Government shall bear the entire construction costs for flood prevention.
+1956—Par. (2). Act Aug. 7, 1956, § 1(c), required local organizations to assume a proportionate share of costs applicable to agricultural water management in consideration of the direct identifiable benefits, and all the costs of works applicable to other purposes, and provided that the Federal Government shall bear the entire construction costs for flood prevention.
 
-Par. (4). Act Aug. 7, 1956, § 1(d), inserted “or water users” after “landowners”.
+Par. (4). Act Aug. 7, 1956, § 1(d), inserted “or water users” after “landowners”.
 
-Par. (6). Act Aug. 7, 1956, § 1(e), added par. (6).
+Par. (6). Act Aug. 7, 1956, § 1(e), added par. (6).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -233,11 +233,11 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 **Effective Date of 1958 Amendment**
 
-Pub. L. 85–865, § 2, Sept. 2, 1958, 72 Stat. 1605, provided that: “The Secretary of Agriculture shall not furnish or agree to furnish financial assistance to local organizations for the institution of works of improvement for fish and wildlife development pursuant to the authority of this Act [amending this section] prior to July 1, 1958.”
+Pub. L. 85–865, § 2, Sept. 2, 1958, 72 Stat. 1605, provided that: “The Secretary of Agriculture shall not furnish or agree to furnish financial assistance to local organizations for the institution of works of improvement for fish and wildlife development pursuant to the authority of this Act [amending this section] prior to July 1, 1958.”
 
 **Public Access to Water Impoundments**
 
-Pub. L. 99–662, title IX, § 930, Nov. 17, 1986, 100 Stat. 4196, provided that: “The Secretary of Agriculture, acting through the Administrator of the Soil Conservation Service, shall study and report to the appropriate committees of the Senate and the House of Representatives by April 1, 1988, on the feasibility, the desirability, and the public interest involved in requiring that public access be provided to any or all water impoundments that have recreation-related potential and that were authorized pursuant to the Watershed Protection and Flood Protection Act (68 Stat. 666; 16 U.S.C. 1001 et seq.).”
+Pub. L. 99–662, title IX, § 930, Nov. 17, 1986, 100 Stat. 4196, provided that: “The Secretary of Agriculture, acting through the Administrator of the Soil Conservation Service, shall study and report to the appropriate committees of the Senate and the House of Representatives by April 1, 1988, on the feasibility, the desirability, and the public interest involved in requiring that public access be provided to any or all water impoundments that have recreation-related potential and that were authorized pursuant to the Watershed Protection and Flood Protection Act (68 Stat. 666; 16 U.S.C. 1001 et seq.).”
 
 **Extension of Benefits to Projects Authorized Before Aug. 7, 1956**
 
@@ -249,7 +249,7 @@ Amendment by act Aug. 7, 1956, as applicable to all works of improvement and pla
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1002 of this title.
 
-## § 1005. Works of improvement
+## § 1005. Works of improvement
 
 **(1) Engineering and other services; reimbursement; advances**
 
@@ -271,31 +271,31 @@ Any plans for works of improvement involving an estimated Federal contribution t
 
 Prior to any Federal participation in the works of improvement under this chapter, the President shall issue such rules and regulations as he deems necessary or desirable to carry out the purposes of this chapter, and to assure the coordination of the work authorized under this chapter and related work of other agencies, including the Department of the Interior and the Department of the Army.
 
-(Aug. 4, 1954, ch. 656, § 5, 68 Stat. 667; July 19, 1956, ch. 639, 70 Stat. 580; Aug. 7, 1956, ch. 1027, § 1(f), 70 Stat. 1089; Pub. L. 87–703, title I, § 105, Sept. 27, 1962, 76 Stat. 609; Pub. L. 90–361, June 27, 1968, 82 Stat. 250; Pub. L. 92–419, title II, § 201(g), Aug. 30, 1972, 86 Stat. 669; Pub. L. 95–113, title XV, § 1506(b), (c), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 97–98, title XV, § 1512(e), (f), Dec. 22, 1981, 95 Stat. 1333; Pub. L. 115–141, div. A, title VII, § 761(b), Mar. 23, 2018, 132 Stat. 396; Pub. L. 115–334, title II, § 2821(a), Dec. 20, 2018, 132 Stat. 4602.)
+(Aug. 4, 1954, ch. 656, § 5, 68 Stat. 667; July 19, 1956, ch. 639, 70 Stat. 580; Aug. 7, 1956, ch. 1027, § 1(f), 70 Stat. 1089; Pub. L. 87–703, title I, § 105, Sept. 27, 1962, 76 Stat. 609; Pub. L. 90–361, June 27, 1968, 82 Stat. 250; Pub. L. 92–419, title II, § 201(g), Aug. 30, 1972, 86 Stat. 669; Pub. L. 95–113, title XV, § 1506(b), (c), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 97–98, title XV, § 1512(e), (f), Dec. 22, 1981, 95 Stat. 1333; Pub. L. 115–141, div. A, title VII, § 761(b), Mar. 23, 2018, 132 Stat. 396; Pub. L. 115–334, title II, § 2821(a), Dec. 20, 2018, 132 Stat. 4602.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subd. (3). Pub. L. 115–141, § 761(b)(1), substituted “$25,000,000” for “$5,000,000”.
+2018—Subd. (3). Pub. L. 115–141, § 761(b)(1), substituted “$25,000,000” for “$5,000,000”.
 
 Subd. (4). Pub. L. 115–334 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare” in two places and, in item (b), substituted “floodwater” for “goodwater”.
 
-Pub. L. 115–141, § 761(b)(2), substituted “$25,000,000” for “$5,000,000”.
+Pub. L. 115–141, § 761(b)(2), substituted “$25,000,000” for “$5,000,000”.
 
-1981—Subd. (3). Pub. L. 97–98, § 1512(e), substituted “$5,000,000” for “$1,000,000”.
+1981—Subd. (3). Pub. L. 97–98, § 1512(e), substituted “$5,000,000” for “$1,000,000”.
 
-Subd. (4). Pub. L. 97–98, § 1512(f), substituted “$5,000,000” for “$1,000,000”.
+Subd. (4). Pub. L. 97–98, § 1512(f), substituted “$5,000,000” for “$1,000,000”.
 
-1977—Subd. (3). Pub. L. 95–113, § 1506(b), substituted “$1,000,000” for “$250,000”.
+1977—Subd. (3). Pub. L. 95–113, § 1506(b), substituted “$1,000,000” for “$250,000”.
 
-Subd. (4). Pub. L. 95–113, § 1506(c), substituted “$1,000,000” for “$250,000”.
+Subd. (4). Pub. L. 95–113, § 1506(c), substituted “$1,000,000” for “$250,000”.
 
 1972—Subd. (4). Pub. L. 92–419 substituted in item (a) “works of improvement for reclamation or irrigation” for “reclamation or irrigation works”, in item (b) “goodwater” for “floodwater”, added items (c) and (d), required submission of plans to Secretary of Health, Education, and Welfare, or the Administrator of the Environmental Protection Agency and transmittal of views and recommendations of such officials to the Congress.
 
 1968—Subd. (2). Pub. L. 90–361 inserted proviso authorizing the Secretary to enter into contracts for the construction of structures if requested to do so by the local organization.
 
-1962—Subd. (1). Pub. L. 87–703 designated existing provisions as subd. (1); substituted “local organization may secure” for “local organization with such assistance as it may request from the Secretary, which assistance the Secretary is authorized to give, shall secure” and “by retaining or employing a professional engineer or engineers satisfactory to the Secretary or may request the Secretary to provide such services” for “and in order to properly carry out such services in such projects as to such structures therein providing for municipal or industrial water supplies, the local organization shall, and in such projects not providing for municipal or industrial water supplies, the local organization may, retain or employ a professional engineer or engineers satisfactory to the Secretary”; struck out “, except that if the local organization decides not to retain or employ a professional engineer or if the Secretary determines that competent engineering services are not available he may contract for a competent engineer to provide such services or arrange for employees of the Federal Government to provide such services” after “chargeable to such works of improvement”; provided for reimbursement for other services; and required the reimbursement not to exceed the amount agreed upon in the plan for works of improvement or any modification thereof.
+1962—Subd. (1). Pub. L. 87–703 designated existing provisions as subd. (1); substituted “local organization may secure” for “local organization with such assistance as it may request from the Secretary, which assistance the Secretary is authorized to give, shall secure” and “by retaining or employing a professional engineer or engineers satisfactory to the Secretary or may request the Secretary to provide such services” for “and in order to properly carry out such services in such projects as to such structures therein providing for municipal or industrial water supplies, the local organization shall, and in such projects not providing for municipal or industrial water supplies, the local organization may, retain or employ a professional engineer or engineers satisfactory to the Secretary”; struck out “, except that if the local organization decides not to retain or employ a professional engineer or if the Secretary determines that competent engineering services are not available he may contract for a competent engineer to provide such services or arrange for employees of the Federal Government to provide such services” after “chargeable to such works of improvement”; provided for reimbursement for other services; and required the reimbursement not to exceed the amount agreed upon in the plan for works of improvement or any modification thereof.
 
 Subd. (2). Pub. L. 87–703 designated existing provisions as subd. (2), and struck out “unless there is no local organization authorized by State law to undertake such construction or to enter into such contract, and in no event after July 1, 1956: *Provided*, That in participating in the installation of such works of improvement the Secretary, as far as practicable and consistent with his responsibilities for administering the overall national agricultural program, shall utilize the authority conferred upon him by the provisions of this chapter” after “structure”.
 
@@ -405,11 +405,11 @@ Dwight D. Eisenhower.
 
 [Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget, referred to in Ex. Ord. No. 10654, transferred to President by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget and Director of Bureau of the Budget as Director of Office of Management and Budget.]
 
-## § 1006. Cooperative programs
+## § 1006. Cooperative programs
 
 The Secretary is authorized in cooperation with other Federal and with States and local agencies to make investigations and surveys of the watershed of rivers and other waterways as a basis for the development of coordinated programs. In areas where the programs of the Secretary of Agriculture may affect public or other lands under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior is authorized to cooperate with the Secretary of Agriculture in the planning and development of works or programs for such lands.
 
-(Aug. 4, 1954, ch. 656, § 6, 68 Stat. 668.)
+(Aug. 4, 1954, ch. 656, § 6, 68 Stat. 668.)
 
 **Executive Documents**
 
@@ -417,11 +417,11 @@ The Secretary is authorized in cooperation with other Federal and with States an
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1002 of this title.
 
-## § 1006a. Loans or advancements for financing local share of costs; repayment; interest; maximum amount
+## § 1006a. Loans or advancements for financing local share of costs; repayment; interest; maximum amount
 
 The Secretary is authorized to make loans or advancements (a) to local organizations to finance the local share of costs of carrying out works of improvement provided for in this chapter, and (b) to State and local agencies to finance the local share of costs of carrying out works of improvement (as defined in section 1002 of this title) in connection with the eleven watershed improvement programs authorized by section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented: *Provided*, That the works of improvement in connection with said eleven watershed improvement programs shall be integral parts of watershed or subwatershed work plans agreed upon by the Secretary of Agriculture and the concerned State and local agencies. A loan or advance under this section shall be made under a contract or agreement that provides, under such terms and conditions as the Secretary considers appropriate, for the repayment of the loan or advance in not more than 50 years from the date when the principal benefits of the works of improvement first become available, with interest at a rate not to exceed the current market yield for outstanding municipal obligations with remaining periods to maturity comparable to the average maturity for the loan, adjusted to the nearest ⅛ of 1 percent. With respect to any single plan for works of improvement, the amount of any such loan or advancement shall not exceed $10,000,000.
 
-(Aug. 4, 1954, ch. 656, § 8, as added Aug. 7, 1956, ch. 1027, § 1(g), 70 Stat. 1090; amended Pub. L. 86–468, § 1, May 13, 1960, 74 Stat. 131; Pub. L. 95–113, title XV, § 1508, Sept. 29, 1977, 91 Stat. 1022; Pub. L. 104–127, title VII, § 791(b), Apr. 4, 1996, 110 Stat. 1151.)
+(Aug. 4, 1954, ch. 656, § 8, as added Aug. 7, 1956, ch. 1027, § 1(g), 70 Stat. 1090; amended Pub. L. 86–468, § 1, May 13, 1960, 74 Stat. 131; Pub. L. 95–113, title XV, § 1508, Sept. 29, 1977, 91 Stat. 1022; Pub. L. 104–127, title VII, § 791(b), Apr. 4, 1996, 110 Stat. 1151.)
 
 **Editorial Notes**
 
@@ -453,11 +453,11 @@ Section as applicable to all works of improvement and plans for such works under
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1002 of this title.
 
-## § 1006b. Territorial application
+## § 1006b. Territorial application
 
 The provisions of this chapter shall be applicable to Hawaii, Alaska, Puerto Rico, and the Virgin Islands.
 
-(Aug. 4, 1954, ch. 656, § 9, as added Aug. 7, 1956, ch. 1027, § 1(g), 70 Stat. 1090.)
+(Aug. 4, 1954, ch. 656, § 9, as added Aug. 7, 1956, ch. 1027, § 1(g), 70 Stat. 1090.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -471,11 +471,11 @@ Section as applicable to all works of improvement and plans for such works under
 
 Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
 
-## § 1007. Authorization of appropriations
+## § 1007. Authorization of appropriations
 
 There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this chapter, such sums to remain available until expended. No appropriation hereafter available for assisting local organizations in preparing and carrying out plans for works of improvement under the provisions of section 1003 of this title or clause (a) of section 1006a of this title shall be available for any works of improvement pursuant to this chapter or otherwise in connection with the eleven watershed improvement programs authorized by section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supplemented, or for making loans or advancements to State and local agencies as authorized by clause (b) of section 1006a of this title.
 
-(Aug. 4, 1954, ch. 656, § 10, formerly § 8, 68 Stat. 668; renumbered § 10, Aug. 7, 1956, ch. 1027, § 1(g), 70 Stat. 1090; amended Pub. L. 86–468, § 3, May 13, 1960, 74 Stat. 132.)
+(Aug. 4, 1954, ch. 656, § 10, formerly § 8, 68 Stat. 668; renumbered § 10, Aug. 7, 1956, ch. 1027, § 1(g), 70 Stat. 1090; amended Pub. L. 86–468, § 3, May 13, 1960, 74 Stat. 132.)
 
 **Editorial Notes**
 
@@ -487,7 +487,7 @@ Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supple
 
 1960—Pub. L. 86–468 prohibited appropriations available for assisting local organizations in preparing and carrying out plans for works of improvement under sections 1003 and 1006a(a) of this title from being used for works of improvement in connection with the 11 watershed improvement programs authorized by section 13 of the act of Dec. 22, 1944, or for making loans or advancements to state and local agencies as authorized by section 1006a(b) of this title.
 
-## § 1008. Notification of Secretary of the Interior of approval of assistance; surveys and investigations; report and recommendations; consideration; cost of surveys, investigations and reports
+## § 1008. Notification of Secretary of the Interior of approval of assistance; surveys and investigations; report and recommendations; consideration; cost of surveys, investigations and reports
 
 When the Secretary approves the furnishing of assistance to a local organization in preparing a plan for works of improvement as provided for in section 1003 of this title:
 
@@ -497,7 +497,7 @@ When the Secretary approves the furnishing of assistance to a local organization
 
 **(3)** The cost of making surveys and investigations and of preparing reports concerning the conservation and development of wildlife resources shall be borne by the Secretary of the Interior out of funds appropriated to his Department.
 
-(Aug. 4, 1954, ch. 656, § 12, as added Pub. L. 85–624, § 3, Aug. 12, 1958, 72 Stat. 567.)
+(Aug. 4, 1954, ch. 656, § 12, as added Pub. L. 85–624, § 3, Aug. 12, 1958, 72 Stat. 567.)
 
 **Executive Documents**
 
@@ -505,11 +505,11 @@ When the Secretary approves the furnishing of assistance to a local organization
 
 For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1002 of this title.
 
-## § 1009. Joint investigations and surveys by Secretary of the Army and Secretary of Agriculture; reports to Congress
+## § 1009. Joint investigations and surveys by Secretary of the Army and Secretary of Agriculture; reports to Congress
 
 The Secretary of the Army and the Secretary of Agriculture, when authorized to do so by resolutions adopted by the Committee on Environment and Public Works of the Senate or the Committee on Public Works and Transportation of the House of Representatives, are authorized and directed to make joint investigations and surveys in accordance with their existing authorities of watershed areas in the United States, Puerto Rico, and the Virgin Islands, and to prepare joint reports on such investigations and surveys setting forth their recommendations for the installation of the works of improvement needed for flood prevention or the conservation, development, utilization, and disposal of water, and for flood control and allied purposes. Such joint reports shall be submitted to the Congress through the President for adoption and authorization by the Congress of the recommended works of improvement: *Provided*, That the project authorization procedure established by Public Law 566, Eighty-third Congress, as amended [16 U.S.C. 1001 et seq.], shall not be affected.
 
-(Pub. L. 87–639, § 1, Sept. 5, 1962, 76 Stat. 438; Pub. L. 103–437, § 6(w), Nov. 2, 1994, 108 Stat. 4587.)
+(Pub. L. 87–639, § 1, Sept. 5, 1962, 76 Stat. 438; Pub. L. 103–437, § 6(w), Nov. 2, 1994, 108 Stat. 4587.)
 
 **Editorial Notes**
 
@@ -533,9 +533,9 @@ Committee on Public Works and Transportation of House of Representatives treated
 
 **Authorization of Appropriations**
 
-Pub. L. 87–639, § 2, Sept. 5, 1962, 76 Stat. 438, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act [this section], such sums to remain available until expended.”
+Pub. L. 87–639, § 2, Sept. 5, 1962, 76 Stat. 438, provided that: “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act [this section], such sums to remain available until expended.”
 
-## § 1010. Data
+## § 1010. Data
 
 The Secretary shall collect and maintain data on a national and State by State basis concerning—
 
@@ -543,9 +543,9 @@ The Secretary shall collect and maintain data on a national and State by State b
 
 **(2)** the expected flood control or environmental (including soil erosion) benefits that will result from the implementation of such measures.
 
-(Aug. 4, 1954, ch. 656, § 13, as added Pub. L. 101–624, title XIV, § 1463, Nov. 28, 1990, 104 Stat. 3615.)
+(Aug. 4, 1954, ch. 656, § 13, as added Pub. L. 101–624, title XIV, § 1463, Nov. 28, 1990, 104 Stat. 3615.)
 
-## § 1011. Watershed restoration and enhancement agreements
+## § 1011. Watershed restoration and enhancement agreements
 
 **(a) In general**
 
@@ -569,7 +569,7 @@ For fiscal year 1997 and each fiscal year thereafter, appropriations made for th
 
 **(D)** provide for the sharing of costs of implementing the agreement among the Federal government,1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 the landowner, and other entities, as mutually agreed on by the affected interests; and
 
@@ -577,7 +577,7 @@ the landowner, and other entities, as mutually agreed on by the affected interes
 
 **(2)** the Secretary may require such other terms and conditions as are necessary to protect the public investment on private lands, provided such terms and conditions are mutually agreed to by the Secretary and the landowner.
 
-(Pub. L. 104–208, div. A, title I, § 101(d) [title I, § 124], Sept. 30, 1996, 110 Stat. 3009–181, 3009–204; Pub. L. 105–277, div. A, § 101(e) [title I, § 136], Oct. 21, 1998, 112 Stat. 2681–231, 2681–266; Pub. L. 108–7, div. F, title I, § 135, Feb. 20, 2003, 117 Stat. 243.)
+(Pub. L. 104–208, div. A, title I, § 101(d) [title I, § 124], Sept. 30, 1996, 110 Stat. 3009–181, 3009–204; Pub. L. 105–277, div. A, § 101(e) [title I, § 136], Oct. 21, 1998, 112 Stat. 2681–231, 2681–266; Pub. L. 108–7, div. F, title I, § 135, Feb. 20, 2003, 117 Stat. 243.)
 
 **Editorial Notes**
 
@@ -595,13 +595,13 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 **Federal and State Cooperative Watershed Restoration and Protection**
 
-Pub. L. 106–291, title III, § 331, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 108–447, div. E, title III, § 336, Dec. 8, 2004, 118 Stat. 3102; Pub. L. 111–88, div. A, title IV, § 422, Oct. 30, 2009, 123 Stat. 2961; Pub. L. 113–76, div. G, title IV, § 417, Jan. 17, 2014, 128 Stat. 341, authorized the Secretary of Agriculture and the Secretary of the Interior, through Sept. 30, 2018, to use cooperative agreements and contracts to permit State forestry programs to perform watershed restoration and protection services on National Forest System and Bureau of Land Management lands when similar and complementary services were being performed on adjacent State or private lands.
+Pub. L. 106–291, title III, § 331, Oct. 11, 2000, 114 Stat. 996, as amended by Pub. L. 108–447, div. E, title III, § 336, Dec. 8, 2004, 118 Stat. 3102; Pub. L. 111–88, div. A, title IV, § 422, Oct. 30, 2009, 123 Stat. 2961; Pub. L. 113–76, div. G, title IV, § 417, Jan. 17, 2014, 128 Stat. 341, authorized the Secretary of Agriculture and the Secretary of the Interior, through Sept. 30, 2018, to use cooperative agreements and contracts to permit State forestry programs to perform watershed restoration and protection services on National Forest System and Bureau of Land Management lands when similar and complementary services were being performed on adjacent State or private lands.
 
 **Watershed Agreements**
 
-Pub. L. 105–277, div. A, § 101(e) [title III, § 323], Oct. 21, 1998, 112 Stat. 2681–231, 2681–290, as amended, formerly set out as a note under this section, was transferred and is classified to section 1011a of this title.
+Pub. L. 105–277, div. A, § 101(e) [title III, § 323], Oct. 21, 1998, 112 Stat. 2681–231, 2681–290, as amended, formerly set out as a note under this section, was transferred and is classified to section 1011a of this title.
 
-## § 1011a. Watershed agreements
+## § 1011a. Watershed agreements
 
 **(a) Watershed restoration and enhancement agreements**
 
@@ -617,9 +617,9 @@ For fiscal year 2006 and each fiscal year thereafter, to the extent funds are ot
 
 **(1)** the agreement shall—
 
-**(A)** include such terms and conditions mutually agreed to by the Secretary and the landowner, state 1
+**(A)** include such terms and conditions mutually agreed to by the Secretary and the landowner, state 1
 
-<sup>1</sup>  So in original. Probably should be capitalized.
+<sup>1</sup> So in original. Probably should be capitalized.
 
 or local government, or private or nonprofit entity;
 
@@ -641,19 +641,19 @@ or local government, or private or nonprofit entity;
 
 **(e) Reporting requirements** Not later than December 31, 1999, the Secretary shall submit a report to the Committees on Appropriations of the House and Senate, which contains—
 
-**(1)** A 2
+**(1)** A 2
 
-<sup>2</sup>  So in original. Probably should not be capitalized.
+<sup>2</sup> So in original. Probably should not be capitalized.
 
-concise description of each project, including the project purpose, location on federal <sup>1</sup> and non-federal 3
+concise description of each project, including the project purpose, location on federal <sup>1</sup> and non-federal 3
 
-<sup>3</sup>  So in original. Probably should be “non-Federal”.
+<sup>3</sup> So in original. Probably should be “non-Federal”.
 
 land, key activities, and all parties to the agreement.
 
 **(2)** the funding and/or other contributions provided by each party for each project agreement.
 
-(Pub. L. 105–277, div. A, § 101(e) [title III, § 323], Oct. 21, 1998, 112 Stat. 2681–231, 2681–290; Pub. L. 107–63, title III, § 330, Nov. 5, 2001, 115 Stat. 471; Pub. L. 109–54, title IV, § 434, Aug. 2, 2005, 119 Stat. 557; Pub. L. 111–11, title III, § 3001, Mar. 30, 2009, 123 Stat. 1126.)
+(Pub. L. 105–277, div. A, § 101(e) [title III, § 323], Oct. 21, 1998, 112 Stat. 2681–231, 2681–290; Pub. L. 107–63, title III, § 330, Nov. 5, 2001, 115 Stat. 471; Pub. L. 109–54, title IV, § 434, Aug. 2, 2005, 119 Stat. 557; Pub. L. 111–11, title III, § 3001, Mar. 30, 2009, 123 Stat. 1126.)
 
 **Editorial Notes**
 
@@ -665,9 +665,9 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 
 **Amendments**
 
-2009—Subsec. (a). Pub. L. 111–11, § 3001(1), substituted “fiscal year 2006 and each fiscal year thereafter” for “each of fiscal years 2006 through 2011”.
+2009—Subsec. (a). Pub. L. 111–11, § 3001(1), substituted “fiscal year 2006 and each fiscal year thereafter” for “each of fiscal years 2006 through 2011”.
 
-Subsecs. (d), (e). Pub. L. 111–11, § 3001(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+Subsecs. (d), (e). Pub. L. 111–11, § 3001(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 2005—Subsec. (a). Pub. L. 109–54 substituted “each of fiscal years 2006 through 2011” for “fiscal year 1999, 2000 and 2001, and fiscal years 2002 through 2005”.
 
@@ -679,9 +679,9 @@ Subsecs. (d), (e). Pub. L. 111–11, § 3001(2), (3), added subsec. (d) and re
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 105–83, title III, § 334, Nov. 14, 1997, 111 Stat. 1601.
+Pub. L. 105–83, title III, § 334, Nov. 14, 1997, 111 Stat. 1601.
 
-## § 1012. Rehabilitation of structural measures near, at, or past their evaluated life expectancy
+## § 1012. Rehabilitation of structural measures near, at, or past their evaluated life expectancy
 
 **(a) Definitions** For purposes of this section:
 
@@ -791,7 +791,7 @@ The Secretary shall maintain a data base to track the benefits derived from reha
 
 Not later than 90 days after the completion of a specific rehabilitation project for which assistance is provided under this section, the local organization that received the assistance shall make a report to the Secretary giving the status of any rehabilitation effort undertaken using financial assistance provided under this section.
 
-(Aug. 4, 1954, ch. 656, § 14, as added Pub. L. 106–472, title III, § 313, Nov. 9, 2000, 114 Stat. 2077; amended Pub. L. 107–171, title II, § 2505, May 13, 2002, 116 Stat. 274; Pub. L. 110–234, title II, § 2803, May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, § 4(a), title II, § 2803, June 18, 2008, 122 Stat. 1664, 1814; Pub. L. 113–79, title II, § 2505, Feb. 7, 2014, 128 Stat. 752; Pub. L. 115–334, title II, § 2401(b), Dec. 20, 2018, 132 Stat. 4570.)
+(Aug. 4, 1954, ch. 656, § 14, as added Pub. L. 106–472, title III, § 313, Nov. 9, 2000, 114 Stat. 2077; amended Pub. L. 107–171, title II, § 2505, May 13, 2002, 116 Stat. 274; Pub. L. 110–234, title II, § 2803, May 22, 2008, 122 Stat. 1086; Pub. L. 110–246, § 4(a), title II, § 2803, June 18, 2008, 122 Stat. 1664, 1814; Pub. L. 113–79, title II, § 2505, Feb. 7, 2014, 128 Stat. 752; Pub. L. 115–334, title II, § 2401(b), Dec. 20, 2018, 132 Stat. 4570.)
 
 **Editorial Notes**
 
@@ -801,7 +801,7 @@ Section 13 of the Act of December 22, 1944, referred to in subsec. (a)(2)(B), is
 
 The Department of Agriculture Appropriation Act, 1954, referred to in subsec. (a)(2)(C), is act July 28, 1953, ch. 251, 67 Stat. 205. Provisions under the heading “Flood Prevention” are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213. Subtitle H of title XV of the Act is classified generally to subchapter V (§ 3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
+The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213. Subtitle H of title XV of the Act is classified generally to subchapter V (§ 3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
@@ -811,13 +811,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2018—Subsec. (h)(2)(E). Pub. L. 115–334 substituted “2023” for “2018”.
 
-2014—Subsec. (h)(1)(H). Pub. L. 113–79, § 2505(a), added subpar. (H).
+2014—Subsec. (h)(1)(H). Pub. L. 113–79, § 2505(a), added subpar. (H).
 
-Subsec. (h)(2)(E). Pub. L. 113–79, § 2505(b), substituted “2018” for “2012”.
+Subsec. (h)(2)(E). Pub. L. 113–79, § 2505(b), substituted “2018” for “2012”.
 
-2008—Subsec. (h)(1)(G). Pub. L. 110–246, § 2803(a), added subpar. (G).
+2008—Subsec. (h)(1)(G). Pub. L. 110–246, § 2803(a), added subpar. (G).
 
-Subsec. (h)(2)(E). Pub. L. 110–246, § 2803(b), substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.
+Subsec. (h)(2)(E). Pub. L. 110–246, § 2803(b), substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.
 
 2002—Subsec. (h). Pub. L. 107–171 added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
 
@@ -837,11 +837,11 @@ Subsec. (h)(2)(E). Pub. L. 110–246, § 2803(b), substituted “each of fisca
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-## § 1012a. Funding
+## § 1012a. Funding
 
 In addition to any other funds made available by this chapter, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this chapter $150,000,000 for fiscal year 2026 and each fiscal year thereafter, to remain available until expended.
 
-(Aug. 4, 1954, ch. 656, § 15, as added Pub. L. 115–334, title II, § 2401(c), Dec. 20, 2018, 132 Stat. 4570; amended Pub. L. 119–21, title I, § 10601(e), July 4, 2025, 139 Stat. 108.)
+(Aug. 4, 1954, ch. 656, § 15, as added Pub. L. 115–334, title II, § 2401(c), Dec. 20, 2018, 132 Stat. 4570; amended Pub. L. 119–21, title I, § 10601(e), July 4, 2025, 139 Stat. 108.)
 
 **Editorial Notes**
 

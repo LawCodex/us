@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 55A—DEPARTMENT OF AGRICULTURE ADVISORY COMMITTEES
 
-## § 2281. Congressional declaration of purpose
+## § 2281. Congressional declaration of purpose
 
 The purposes of this chapter are to—
 
@@ -25,7 +25,7 @@ The purposes of this chapter are to—
 
 **(3)** prevent the formation or continuation of unnecessary advisory committees by the Department of Agriculture.
 
-(Pub. L. 95–113, title XVIII, § 1801, Sept. 29, 1977, 91 Stat. 1041; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1270.)
+(Pub. L. 95–113, title XVIII, § 1801, Sept. 29, 1977, 91 Stat. 1041; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1270.)
 
 **Editorial Notes**
 
@@ -45,9 +45,9 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 **Soybean Research Advisory Institute**
 
-Pub. L. 97–98, title XIV, § 1446, Dec. 22, 1981, 95 Stat. 1327, provided for the establishment of a Soybean Research Advisory Institute for the purpose of preparing and submitting to Senate Committee on Agriculture, Nutrition, and Forestry and House Committee on Agriculture, not later than Mar. 1, 1983, a comprehensive report, with appropriate recommendations, on the findings of the Institute regarding research on soybean production and utilization, prior to repeal by Pub. L. 99–198, title XIV, § 1434, Dec. 23, 1985, 99 Stat. 1557.
+Pub. L. 97–98, title XIV, § 1446, Dec. 22, 1981, 95 Stat. 1327, provided for the establishment of a Soybean Research Advisory Institute for the purpose of preparing and submitting to Senate Committee on Agriculture, Nutrition, and Forestry and House Committee on Agriculture, not later than Mar. 1, 1983, a comprehensive report, with appropriate recommendations, on the findings of the Institute regarding research on soybean production and utilization, prior to repeal by Pub. L. 99–198, title XIV, § 1434, Dec. 23, 1985, 99 Stat. 1557.
 
-## § 2282. Definitions
+## § 2282. Definitions
 
 When used in this chapter—
 
@@ -57,7 +57,7 @@ When used in this chapter—
 
 **(3)** the term “advisory committee” means any committee, board, commission, council, conference, panel, task force, or other similar group, or any subcommittee or other subgroup thereof that is established or utilized by the Department of Agriculture in the interest of obtaining advice or recommendations for the President or the Department of Agriculture, except that such term excludes any committee which (A) is composed wholly of full-time officers or employees of the Federal Government, (B) is established by statute or reorganization plan, or (C) is established by the President.
 
-(Pub. L. 95–113, title XVIII, § 1802, Sept. 29, 1977, 91 Stat. 1041; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1270.)
+(Pub. L. 95–113, title XVIII, § 1802, Sept. 29, 1977, 91 Stat. 1041; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1270.)
 
 **Editorial Notes**
 
@@ -75,7 +75,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-## § 2283. Membership on advisory committees
+## § 2283. Membership on advisory committees
 
 **(a) Simultaneous service**
 
@@ -89,7 +89,7 @@ Not more than one officer or employee of any corporation or other non-Federal en
 
 No person other than an officer or employee of the Department of Agriculture may serve for more than six consecutive years on an advisory committee, unless authorized by the Secretary.
 
-(Pub. L. 95–113, title XVIII, § 1803, Sept. 29, 1977, 91 Stat. 1041; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1270.)
+(Pub. L. 95–113, title XVIII, § 1803, Sept. 29, 1977, 91 Stat. 1041; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1270.)
 
 **Editorial Notes**
 
@@ -107,15 +107,15 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-## § 2284. Repealed. Pub. L. 105–362, title I, § 101(c), Nov. 10, 1998, 112 Stat. 3281
+## § 2284. Repealed. Pub. L. 105–362, title I, § 101(c), Nov. 10, 1998, 112 Stat. 3281
 
-Section, Pub. L. 95–113, title XVIII, § 1804, Sept. 29, 1977, 91 Stat. 1041; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1270, required annual reports to Congress.
+Section, Pub. L. 95–113, title XVIII, § 1804, Sept. 29, 1977, 91 Stat. 1041; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1270, required annual reports to Congress.
 
-## § 2285. Budget prohibitions
+## § 2285. Budget prohibitions
 
 No advisory committee may expend funds in excess of its estimated annual operating costs by more than 10 per centum or $500, whichever is greater, until it provides the Secretary with an explanation of the need for the additional expenditure and the Secretary approves such additional expenditure.
 
-(Pub. L. 95–113, title XVIII, § 1805, Sept. 29, 1977, 91 Stat. 1042; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1271.)
+(Pub. L. 95–113, title XVIII, § 1805, Sept. 29, 1977, 91 Stat. 1042; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1271.)
 
 **Editorial Notes**
 
@@ -133,7 +133,7 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-## § 2286. Termination of committees
+## § 2286. Termination of committees
 
 The Secretary shall terminate any advisory committee upon a finding that any such advisory committee—
 
@@ -147,7 +147,7 @@ The Secretary shall terminate any advisory committee upon a finding that any suc
 
 **(5)** does not serve or has ceased to serve an essential public function.
 
-(Pub. L. 95–113, title XVIII, § 1806, Sept. 29, 1977, 91 Stat. 1042; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1271; Pub. L. 117–286, § 4(a)(30), Dec. 27, 2022, 136 Stat. 4308.)
+(Pub. L. 95–113, title XVIII, § 1806, Sept. 29, 1977, 91 Stat. 1042; Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1271; Pub. L. 117–286, § 4(a)(30), Dec. 27, 2022, 136 Stat. 4308.)
 
 **Editorial Notes**
 
@@ -167,12 +167,12 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
-## §§ 2287 to 2289. Omitted
+## §§ 2287 to 2289. Omitted
 
-Sections 2287 to 2289 of this title were omitted in the general amendment of this chapter by Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1270.
+Sections 2287 to 2289 of this title were omitted in the general amendment of this chapter by Pub. L. 97–98, title XI, § 1116(a), Dec. 22, 1981, 95 Stat. 1270.
 
-Section 2287, Pub. L. 95–113, title XVIII, § 1807, Sept. 29, 1977, 91 Stat. 1043, related to transmission of an annual report. See section 2284 of this title.
+Section 2287, Pub. L. 95–113, title XVIII, § 1807, Sept. 29, 1977, 91 Stat. 1043, related to transmission of an annual report. See section 2284 of this title.
 
-Section 2288, Pub. L. 95–113, title XVIII, § 1808, Sept. 29, 1977, 91 Stat. 1044, related to budget prohibitions. See section 2285 of this title.
+Section 2288, Pub. L. 95–113, title XVIII, § 1808, Sept. 29, 1977, 91 Stat. 1044, related to budget prohibitions. See section 2285 of this title.
 
-Section 2289, Pub. L. 95–113, title XVIII, § 1809, Sept. 29, 1977, 91 Stat. 1044, related to termination of advisory committees. See section 2286 of this title.
+Section 2289, Pub. L. 95–113, title XVIII, § 1809, Sept. 29, 1977, 91 Stat. 1044, related to termination of advisory committees. See section 2286 of this title.

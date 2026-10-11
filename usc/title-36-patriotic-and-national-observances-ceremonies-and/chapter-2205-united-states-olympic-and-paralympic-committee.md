@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2205—UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 2205—UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE"
 identifier: "/us/usc/t36/stII/ptB/ch2205"
 type: code
 jurisdiction: us
@@ -11,7 +11,7 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 2205—UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE
 
@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 117–340, § 2(a)(2)(B), (b)(2)(B), Jan. 5, 2023, 136 Stat. 6176, 6177, which directed amendment of the analyses for subchapters I and II of this chapter by adding items 220514 and 220530A, respectively, was executed by adding items 220514 and 220530A to the analysis for this chapter to reflect the probable intent of Congress.
+2023—Pub. L. 117–340, § 2(a)(2)(B), (b)(2)(B), Jan. 5, 2023, 136 Stat. 6176, 6177, which directed amendment of the analyses for subchapters I and II of this chapter by adding items 220514 and 220530A, respectively, was executed by adding items 220514 and 220530A to the analysis for this chapter to reflect the probable intent of Congress.
 
-2020—Pub. L. 116–189, §§ 4(a)(1), 6(c)(2), (f)(2), (g)(2), 7(a)(2)(B), 8(a)(2)(B), Oct. 30, 2020, 134 Stat. 944, 949, 955, 957, 966, added item 220513 and substituted “Powers and duties” for “Powers” in item 220505, “Reports and audits” for “Report” in item 220511, “Certification of national governing bodies” for “Recognition of amateur sports organizations as national governing bodies” in item 220521, and “Designation of United States Center for SafeSport” for “Designation of United States Center for Safe Sport” in item 220541.
+2020—Pub. L. 116–189, §§ 4(a)(1), 6(c)(2), (f)(2), (g)(2), 7(a)(2)(B), 8(a)(2)(B), Oct. 30, 2020, 134 Stat. 944, 949, 955, 957, 966, added item 220513 and substituted “Powers and duties” for “Powers” in item 220505, “Reports and audits” for “Report” in item 220511, “Certification of national governing bodies” for “Recognition of amateur sports organizations as national governing bodies” in item 220521, and “Designation of United States Center for SafeSport” for “Designation of United States Center for Safe Sport” in item 220541.
 
 Pub. L. 116–189, §5(b), Oct. 30, 2020, 134 Stat. 947, substituted item for subchapter IV “UNITED STATES CENTER FOR SAFESPORT” for item for subchapter III relating to United States Center for Safe Sport, and added item for subchapter V and items 220551 and 220552.
 
-2018—Pub. L. 115–141, div. S, title III, § 302(b), Mar. 23, 2018, 132 Stat. 1128, added item for subchapter III relating to grant to keep young athletes safe and item 220531.
+2018—Pub. L. 115–141, div. S, title III, § 302(b), Mar. 23, 2018, 132 Stat. 1128, added item for subchapter III relating to grant to keep young athletes safe and item 220531.
 
-Pub. L. 115–126, title II, §§ 202(c), 204(b), Feb. 14, 2018, 132 Stat. 323, 325, added item for subchapter III relating to United States Center for Safe Sport and items 220530 and 220541 to 220543.
+Pub. L. 115–126, title II, §§ 202(c), 204(b), Feb. 14, 2018, 132 Stat. 323, 325, added item for subchapter III relating to United States Center for Safe Sport and items 220530 and 220541 to 220543.
 
-2006—Pub. L. 109–284, § 5(12), Sept. 27, 2006, 120 Stat. 1212, substituted “Short title and definitions” for “Definitions” in item 220501.
+2006—Pub. L. 109–284, § 5(12), Sept. 27, 2006, 120 Stat. 1212, substituted “Short title and definitions” for “Definitions” in item 220501.
 
-1998—Pub. L. 105–277, div. C. title I, § 142(j)(2), (k)(2), Oct. 21, 1998, 112 Stat. 2681–606, 2681–607, substituted “Report” for “Annual report” in item 220511 and added item 220512.
+1998—Pub. L. 105–277, div. C. title I, § 142(j)(2), (k)(2), Oct. 21, 1998, 112 Stat. 2681–606, 2681–607, substituted “Report” for “Annual report” in item 220511 and added item 220512.
 
 ## SUBCHAPTER I—CORPORATION
 
-### § 220501. Short title and definitions
+### § 220501. Short title and definitions
 
 **(a) Short Title.—** This chapter may be cited as the “Ted Stevens Olympic and Amateur Sports Act”.
 
@@ -81,13 +81,13 @@ Pub. L. 115–126, title II, §§ 202(c), 204(b), Feb. 14, 2018, 132 Stat. 323
 
 **(12)** “sanction” means a certificate of approval issued by a national governing body.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1466; Pub. L. 105–277, div. C, title I, § 142(b)(2), (c), Oct. 21, 1998, 112 Stat. 2681–603; Pub. L. 109–284, § 5(13), (14), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 115–126, title II, § 202(b), Feb. 14, 2018, 132 Stat. 323; Pub. L. 116–189, § 3, Oct. 30, 2020, 134 Stat. 944.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1466; Pub. L. 105–277, div. C, title I, § 142(b)(2), (c), Oct. 21, 1998, 112 Stat. 2681–603; Pub. L. 109–284, § 5(13), (14), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 115–126, title II, § 202(b), Feb. 14, 2018, 132 Stat. 323; Pub. L. 116–189, § 3, Oct. 30, 2020, 134 Stat. 944.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220501 | 36:373. | Sept. 21, 1950, ch. 975, title I, § 103, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3045. |
+| 220501 | 36:373. | Sept. 21, 1950, ch. 975, title I, § 103, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3045. |
 
 In clause (3), the words “club, federation, union” are omitted as unnecessary.
 
@@ -99,55 +99,55 @@ In clause (6), a reference to section 220522 (restating 36:391(b) and (c)) is un
 
 **Amendments**
 
-2020—Subsec. (b)(4). Pub. L. 116–189, § 3(6), added par. (4). Former par. (4) redesignated (5).
+2020—Subsec. (b)(4). Pub. L. 116–189, § 3(6), added par. (4). Former par. (4) redesignated (5).
 
-Pub. L. 116–189, § 3(1), substituted “United States Center for SafeSport” for “United States Center for Safe Sport”.
+Pub. L. 116–189, § 3(1), substituted “United States Center for SafeSport” for “United States Center for Safe Sport”.
 
-Subsec. (b)(5). Pub. L. 116–189, § 3(5), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (b)(5). Pub. L. 116–189, § 3(5), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (b)(6). Pub. L. 116–189, § 3(5), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (b)(6). Pub. L. 116–189, § 3(5), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Pub. L. 116–189, § 3(2), substituted “United States Olympic and Paralympic Committee” for “United States Olympic Committee”.
+Pub. L. 116–189, § 3(2), substituted “United States Olympic and Paralympic Committee” for “United States Olympic Committee”.
 
-Subsec. (b)(7). Pub. L. 116–189, § 3(5), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Subsec. (b)(7). Pub. L. 116–189, § 3(5), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 116–189, § 3(5), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+Subsec. (b)(8). Pub. L. 116–189, § 3(5), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Pub. L. 116–189, § 3(3), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “ ‘national governing body’ means an amateur sports organization that is recognized by the corporation under section 220521 of this title.”
+Pub. L. 116–189, § 3(3), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “ ‘national governing body’ means an amateur sports organization that is recognized by the corporation under section 220521 of this title.”
 
-Subsec. (b)(9). Pub. L. 116–189, § 3(5), redesignated par. (8) as (9).
+Subsec. (b)(9). Pub. L. 116–189, § 3(5), redesignated par. (8) as (9).
 
-Pub. L. 116–189, § 3(4), struck out par. (9) which read as follows: “ ‘paralympic sports organization’ means an amateur sports organization which is recognized by the corporation under section 220521 of this title.”
+Pub. L. 116–189, § 3(4), struck out par. (9) which read as follows: “ ‘paralympic sports organization’ means an amateur sports organization which is recognized by the corporation under section 220521 of this title.”
 
-Subsec. (b)(10), (11). Pub. L. 116–189, § 3(7), added pars. (10) and (11). Former par. (10) redesignated (12).
+Subsec. (b)(10), (11). Pub. L. 116–189, § 3(7), added pars. (10) and (11). Former par. (10) redesignated (12).
 
-Subsec. (b)(12). Pub. L. 116–189, § 3(5), redesignated par. (10) as (12).
+Subsec. (b)(12). Pub. L. 116–189, § 3(5), redesignated par. (10) as (12).
 
 2018—Subsec. (b)(4) to (10). Pub. L. 115–126 added pars. (4) and (5) and redesignated former pars. (4) to (8) as (6) to (10), respectively.
 
-2006—Pub. L. 109–284, § 5(13), substituted “Short title and definitions” for “Title and Definitions” in section catchline.
+2006—Pub. L. 109–284, § 5(13), substituted “Short title and definitions” for “Title and Definitions” in section catchline.
 
-Subsec. (a). Pub. L. 109–284, § 5(14), substituted “Short Title” for “Title” in heading.
+Subsec. (a). Pub. L. 109–284, § 5(14), substituted “Short Title” for “Title” in heading.
 
-1998—Pub. L. 105–277, § 142(b)(2)(A), substituted “Title and Definitions” for “Definitions” in section catchline.
+1998—Pub. L. 105–277, § 142(b)(2)(A), substituted “Title and Definitions” for “Definitions” in section catchline.
 
-Subsec. (a). Pub. L. 105–277, § 142(b)(2)(B), added subsec. (a).
+Subsec. (a). Pub. L. 105–277, § 142(b)(2)(B), added subsec. (a).
 
-Subsec. (b). Pub. L. 105–277, § 142(b)(2)(C), designated existing provisions as subsec. (b) and inserted heading.
+Subsec. (b). Pub. L. 105–277, § 142(b)(2)(C), designated existing provisions as subsec. (b) and inserted heading.
 
-Subsec. (b)(1). Pub. L. 105–277, § 142(c)(1), inserted “or paralympic sports organization” after “national governing body”.
+Subsec. (b)(1). Pub. L. 105–277, § 142(c)(1), inserted “or paralympic sports organization” after “national governing body”.
 
-Subsec. (b)(7), (8). Pub. L. 105–277, § 142(c)(2), (3), added par. (7) and redesignated former par. (7) as (8).
+Subsec. (b)(7), (8). Pub. L. 105–277, § 142(c)(2), (3), added par. (7) and redesignated former par. (7) as (8).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Severability**
 
-Pub. L. 116–189, § 12, Oct. 30, 2020, 134 Stat. 973, provided that: “If any provision of this Act [see Short Title of 2020 Amendment note set out under section 101 of this title], or an amendment made by this Act, is determined to be unenforceable or invalid, the remaining provisions of this Act and the amendments made by this Act shall not be affected.”
+Pub. L. 116–189, § 12, Oct. 30, 2020, 134 Stat. 973, provided that: “If any provision of this Act [see Short Title of 2020 Amendment note set out under section 101 of this title], or an amendment made by this Act, is determined to be unenforceable or invalid, the remaining provisions of this Act and the amendments made by this Act shall not be affected.”
 
 **Findings**
 
-Pub. L. 116–189, § 2, Oct. 30, 2020, 134 Stat. 943, provided that:
+Pub. L. 116–189, § 2, Oct. 30, 2020, 134 Stat. 943, provided that:
 
 > “Congress makes the following findings:
 
@@ -167,9 +167,9 @@ Pub. L. 116–189, § 2, Oct. 30, 2020, 134 Stat. 943, provided that:
 
 **Report to Congress on Effectiveness of Chapter and Proposed Changes**
 
-Pub. L. 105–277, div. C, title I, § 142(q), Oct. 21, 1998, 112 Stat. 2681–609, required the United States Olympic Committee to submit, five years from Oct. 21, 1998, a special report to Congress on the effectiveness of the provisions of this chapter, together with any additional proposed changes to this chapter the United States Olympic Committee determined to be appropriate.
+Pub. L. 105–277, div. C, title I, § 142(q), Oct. 21, 1998, 112 Stat. 2681–609, required the United States Olympic Committee to submit, five years from Oct. 21, 1998, a special report to Congress on the effectiveness of the provisions of this chapter, together with any additional proposed changes to this chapter the United States Olympic Committee determined to be appropriate.
 
-### § 220502. Organization
+### § 220502. Organization
 
 **(a) Federal Charter.—** The corporation is a federally chartered corporation.
 
@@ -177,14 +177,14 @@ Pub. L. 105–277, div. C, title I, § 142(q), Oct. 21, 1998, 112 Stat. 2681�
 
 **(c) References to United States Olympic Association and United States Olympic Committee.—** Any reference to the United States Olympic Association or the United States Olympic Committee is deemed to refer to the United States Olympic and Paralympic Committee.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1466; Pub. L. 116–189, § 4(a)(2), Oct. 30, 2020, 134 Stat. 944.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1466; Pub. L. 116–189, § 4(a)(2), Oct. 30, 2020, 134 Stat. 944.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220502(a) | 36:371 (1st sentence). | Sept. 21, 1950, ch. 975, title I, § 101 (1st sentence), formerly § 1(1st sentence), 64 Stat. 899; Nov. 8, 1978, Pub. L. 95–606, § 1(a)(1), (2), 92 Stat. 3045. |
-|  | 36:372. | Sept. 21, 1950, ch. 975, title I, §§ 102, 105(a) (words before cl. (1) related to perpetual succession), as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3045, 3047. |
+| 220502(a) | 36:371 (1st sentence). | Sept. 21, 1950, ch. 975, title I, § 101 (1st sentence), formerly § 1(1st sentence), 64 Stat. 899; Nov. 8, 1978, Pub. L. 95–606, § 1(a)(1), (2), 92 Stat. 3045. |
+|  | 36:372. | Sept. 21, 1950, ch. 975, title I, §§ 102, 105(a) (words before cl. (1) related to perpetual succession), as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3045, 3047. |
 | 220502(b) | 36:375(a) (words before cl. (1) related to perpetual succession). |  |
 | 220502(c) | 36:383. | Aug. 10, 1964, Pub. L. 88–407, 78 Stat. 383. |
 
@@ -200,7 +200,7 @@ In subsection (c), the words “The corporation known as the United States Olymp
 
 2020—Subsec. (c). Pub. L. 116–189 amended subsec. (c) generally. Prior to amendment, text read as follows: “Any reference to the United States Olympic Association is deemed to refer to the United States Olympic Committee.”
 
-### § 220503. Purposes
+### § 220503. Purposes
 
 The purposes of the corporation are—
 
@@ -240,13 +240,13 @@ The purposes of the corporation are—
 
 **(16)** to effectively oversee the national governing bodies with respect to compliance with and implementation of the policies and procedures of the corporation, including policies and procedures on the establishment of a safe environment in sports as described in paragraph (15).
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1466; Pub. L. 105–277, div. C, title I, § 142(d), Oct. 21, 1998, 112 Stat. 2681–603; Pub. L. 115–126, title II, § 201, Feb. 14, 2018, 132 Stat. 320; Pub. L. 116–189, §§ 4(a)(3), 6(a), Oct. 30, 2020, 134 Stat. 945, 947.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1466; Pub. L. 105–277, div. C, title I, § 142(d), Oct. 21, 1998, 112 Stat. 2681–603; Pub. L. 115–126, title II, § 201, Feb. 14, 2018, 132 Stat. 320; Pub. L. 116–189, §§ 4(a)(3), 6(a), Oct. 30, 2020, 134 Stat. 945, 947.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220503 | 36:374. | Sept. 21, 1950, ch. 975, title I, § 104, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3046. |
+| 220503 | 36:374. | Sept. 21, 1950, ch. 975, title I, § 104, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3046. |
 
 Before clause (1), the word “objects” is omitted as included in “purposes”.
 
@@ -256,21 +256,21 @@ In clause (4), the word “competition” is omitted as included in “each even
 
 **Amendments**
 
-2020—Par. (3). Pub. L. 116–189, § 4(a)(3)(A), substituted “the Pan-American Games, and the Parapan American Games” for “and the Pan-American Games” in subpars. (A) and (B).
+2020—Par. (3). Pub. L. 116–189, § 4(a)(3)(A), substituted “the Pan-American Games, and the Parapan American Games” for “and the Pan-American Games” in subpars. (A) and (B).
 
-Par. (4). Pub. L. 116–189, § 4(a)(3)(B), substituted “the Pan-American Games, and the Parapan American Games” for “and Pan-American Games”.
+Par. (4). Pub. L. 116–189, § 4(a)(3)(B), substituted “the Pan-American Games, and the Parapan American Games” for “and Pan-American Games”.
 
-Par. (9). Pub. L. 116–189, § 6(a)(1), inserted “and access to” after “development of”.
+Par. (9). Pub. L. 116–189, § 6(a)(1), inserted “and access to” after “development of”.
 
-Par. (16). Pub. L. 116–189, § 6(a)(2)–(4), added par. (16).
+Par. (16). Pub. L. 116–189, § 6(a)(2)–(4), added par. (16).
 
 2018—Par. (15). Pub. L. 115–126 added par. (15).
 
-1998—Pars. (3), (4). Pub. L. 105–277, § 142(d)(1), substituted “Olympic Games, the Paralympic Games” for “Olympic Games” wherever appearing.
+1998—Pars. (3), (4). Pub. L. 105–277, § 142(d)(1), substituted “Olympic Games, the Paralympic Games” for “Olympic Games” wherever appearing.
 
-Par. (13). Pub. L. 105–277, § 142(d)(2), added par. (13) and struck out former par. (13) which read as follows: “to encourage and provide assistance to amateur athletic programs and competition for individuals with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by individuals with disabilities in programs of athletic competition for able-bodied individuals; and”.
+Par. (13). Pub. L. 105–277, § 142(d)(2), added par. (13) and struck out former par. (13) which read as follows: “to encourage and provide assistance to amateur athletic programs and competition for individuals with disabilities, including, where feasible, the expansion of opportunities for meaningful participation by individuals with disabilities in programs of athletic competition for able-bodied individuals; and”.
 
-### § 220504. Membership
+### § 220504. Membership
 
 **(a) Eligibility.—** Eligibility for membership in the corporation is as provided in the constitution and bylaws of the corporation, and membership shall be available only to national governing bodies.
 
@@ -304,13 +304,13 @@ Par. (13). Pub. L. 105–277, § 142(d)(2), added par. (13) and struck out for
 
 **(d) Certification Requirements.—** The bylaws of the corporation shall include a description of all generally applicable certification requirements for membership in the corporation.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1467; Pub. L. 105–277, div. C, title I, § 142(e), Oct. 21, 1998, 112 Stat. 2681–603; Pub. L. 116–189, §§ 4(a)(4), 6(b), 7(a)(2)(A)(i), Oct. 30, 2020, 134 Stat. 945, 948, 956.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1467; Pub. L. 105–277, div. C, title I, § 142(e), Oct. 21, 1998, 112 Stat. 2681–603; Pub. L. 116–189, §§ 4(a)(4), 6(b), 7(a)(2)(A)(i), Oct. 30, 2020, 134 Stat. 945, 948, 956.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220504 | 36:376. | Sept. 21, 1950, ch. 975, title I, § 106, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3048. |
+| 220504 | 36:376. | Sept. 21, 1950, ch. 975, title I, § 106, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3048. |
 
 In subsection (a), the words “is as provided in” are substituted for “shall be determined in accordance with” for consistency in the revised title.
 
@@ -318,29 +318,29 @@ In subsection (a), the words “is as provided in” are substituted for “shal
 
 **Amendments**
 
-2020—Subsec. (a). Pub. L. 116–189, § 6(b)(1), inserted “, and membership shall be available only to national governing bodies” before period at end.
+2020—Subsec. (a). Pub. L. 116–189, § 6(b)(1), inserted “, and membership shall be available only to national governing bodies” before period at end.
 
-Subsec. (b)(1). Pub. L. 116–189, § 7(a)(2)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “amateur sports organizations recognized as national governing bodies and paralympic sports organizations in accordance with section 220521 of this title, including through provisions which establish and maintain a National Governing Bodies’ Council composed of representatives of the national governing bodies and any paralympic sports organizations and selected by their boards of directors or such other governing boards to ensure effective communication between the corporation and such national governing bodies and paralympic sports organizations;”.
+Subsec. (b)(1). Pub. L. 116–189, § 7(a)(2)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “amateur sports organizations recognized as national governing bodies and paralympic sports organizations in accordance with section 220521 of this title, including through provisions which establish and maintain a National Governing Bodies’ Council composed of representatives of the national governing bodies and any paralympic sports organizations and selected by their boards of directors or such other governing boards to ensure effective communication between the corporation and such national governing bodies and paralympic sports organizations;”.
 
-Subsec. (b)(2). Pub. L. 116–189, § 6(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “amateur athletes who are actively engaged in amateur athletic competition or who have represented the United States in international amateur athletic competition within the preceding 10 years, including through provisions which—
+Subsec. (b)(2). Pub. L. 116–189, § 6(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “amateur athletes who are actively engaged in amateur athletic competition or who have represented the United States in international amateur athletic competition within the preceding 10 years, including through provisions which—
 
 “(A) establish and maintain an Athletes’ Advisory Council composed of, and elected by, such amateur athletes to ensure communication between the corporation and such amateur athletes; and
 
 “(B) ensure that the membership and voting power held by such amateur athletes is not less than 20 percent of the membership and voting power held in the board of directors of the corporation and in the committees and entities of the corporation;”.
 
-Subsec. (b)(3). Pub. L. 116–189, § 4(a)(4), substituted “the Pan-American Games, or the Parapan American Games” for “or the Pan-American Games”.
+Subsec. (b)(3). Pub. L. 116–189, § 4(a)(4), substituted “the Pan-American Games, or the Parapan American Games” for “or the Pan-American Games”.
 
-Subsecs. (c), (d). Pub. L. 116–189, § 6(b)(3), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 116–189, § 6(b)(3), added subsecs. (c) and (d).
 
-1998—Subsec. (b)(1), (2). Pub. L. 105–277, § 142(e)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+1998—Subsec. (b)(1), (2). Pub. L. 105–277, § 142(e)(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) amateur sports organizations recognized as national governing bodies under section 220521 of this title;
 
 “(2) amateur athletes who are actively engaged in amateur athletic competition or who have represented the United States in international amateur athletic competition within the preceding 10 years;”.
 
-Subsec. (b)(3). Pub. L. 105–277, § 142(e)(2), inserted “, the Paralympic Games,” after “Olympic Games”.
+Subsec. (b)(3). Pub. L. 105–277, § 142(e)(2), inserted “, the Paralympic Games,” after “Olympic Games”.
 
-### § 220505. Powers and duties
+### § 220505. Powers and duties
 
 **(a) Constitution and Bylaws.—** The corporation shall adopt a constitution and bylaws. The corporation may amend its constitution only if the corporation—
 
@@ -414,13 +414,13 @@ Subsec. (b)(3). Pub. L. 105–277, § 142(e)(2), inserted “, the Paralympi
 
 **(3) Rule of construction.—** Nothing in this subsection shall be construed to preempt or otherwise abrogate the duty of care of the corporation under State law or the common law.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1468; Pub. L. 105–277, div. C, title I, § 142(f), Oct. 21, 1998, 112 Stat. 2681–604; Pub. L. 109–284, § 5(15), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, §§ 4(a)(5), 6(c)(1), Oct. 30, 2020, 134 Stat. 945, 948; Pub. L. 117–340, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6175.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1468; Pub. L. 105–277, div. C, title I, § 142(f), Oct. 21, 1998, 112 Stat. 2681–604; Pub. L. 109–284, § 5(15), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, §§ 4(a)(5), 6(c)(1), Oct. 30, 2020, 134 Stat. 945, 948; Pub. L. 117–340, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6175.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220505(a) | 36:375(b). | Sept. 21, 1950, ch. 975, title I, §§ 105 (less (a) (words before cl. (1) related to perpetual succession)), 109, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3047, 3048. |
+| 220505(a) | 36:375(b). | Sept. 21, 1950, ch. 975, title I, §§ 105 (less (a) (words before cl. (1) related to perpetual succession)), 109, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3047, 3048. |
 | 220505(b) | 36:375(a) (words before cl. (1) less perpetual succession), (6)–(10), (12)–(16). 36:379. |  |
 | 220505(c) | 36:375(a) (words before cl. (1) less perpetual succession), (1)–(5), (11). |  |
 
@@ -432,37 +432,37 @@ In subsection (b), the text of 36:379 is omitted as executed and obsolete. In cl
 
 **Amendments**
 
-2023—Subsec. (d)(1)(D). Pub. L. 117–340, § 2(a)(1)(A), added subpar. (D).
+2023—Subsec. (d)(1)(D). Pub. L. 117–340, § 2(a)(1)(A), added subpar. (D).
 
-Subsec. (d)(2), (3). Pub. L. 117–340, § 2(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (d)(2), (3). Pub. L. 117–340, § 2(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-2020—Pub. L. 116–189, § 6(c)(1)(A), substituted “Powers and duties” for “Powers” in section catchline.
+2020—Pub. L. 116–189, § 6(c)(1)(A), substituted “Powers and duties” for “Powers” in section catchline.
 
-Subsec. (c)(3). Pub. L. 116–189, § 4(a)(5)(A), substituted “the Pan-American Games, and the Parapan American Games” for “and the Pan-American Games”.
+Subsec. (c)(3). Pub. L. 116–189, § 4(a)(5)(A), substituted “the Pan-American Games, and the Parapan American Games” for “and the Pan-American Games”.
 
-Subsec. (c)(4). Pub. L. 116–189, § 4(a)(5)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “recognize eligible amateur sports organizations as national governing bodies for any sport that is included on the program of the Olympic Games or the Pan-American Games, or as paralympic sports organizations for any sport that is included on the program of the Paralympic Games;”.
+Subsec. (c)(4). Pub. L. 116–189, § 4(a)(5)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “recognize eligible amateur sports organizations as national governing bodies for any sport that is included on the program of the Olympic Games or the Pan-American Games, or as paralympic sports organizations for any sport that is included on the program of the Paralympic Games;”.
 
-Subsec. (c)(5). Pub. L. 116–189, § 4(a)(5)(C), inserted “the Parapan American Games,” after “the Pan-American Games,”.
+Subsec. (c)(5). Pub. L. 116–189, § 4(a)(5)(C), inserted “the Parapan American Games,” after “the Pan-American Games,”.
 
-Subsec. (d). Pub. L. 116–189, § 6(c)(1)(B), added subsec. (d).
+Subsec. (d). Pub. L. 116–189, § 6(c)(1)(B), added subsec. (d).
 
 2006—Subsec. (b)(9). Pub. L. 109–284 substituted “this chapter shall be” for “this Act shall be”.
 
-1998—Subsec. (b)(9). Pub. L. 105–277, § 142(f)(1), substituted “sued, except that any civil action brought in a State court against the corporation and solely relating to the corporation’s responsibilities under this Act shall be removed, at the request of the corporation, to the district court of the United States in the district in which the action was brought, and such district court shall have original jurisdiction over the action without regard to the amount in controversy or citizenship of the parties involved, and except that neither this paragraph nor any other provision of this chapter shall create a private right of action under this chapter; and” for “sued; and”.
+1998—Subsec. (b)(9). Pub. L. 105–277, § 142(f)(1), substituted “sued, except that any civil action brought in a State court against the corporation and solely relating to the corporation’s responsibilities under this Act shall be removed, at the request of the corporation, to the district court of the United States in the district in which the action was brought, and such district court shall have original jurisdiction over the action without regard to the amount in controversy or citizenship of the parties involved, and except that neither this paragraph nor any other provision of this chapter shall create a private right of action under this chapter; and” for “sued; and”.
 
-Subsec. (c)(2). Pub. L. 105–277, § 142(f)(2)(A), substituted “Organization and as its national Paralympic committee in relations with the International Paralympic Committee;” for “Organization”.
+Subsec. (c)(2). Pub. L. 105–277, § 142(f)(2)(A), substituted “Organization and as its national Paralympic committee in relations with the International Paralympic Committee;” for “Organization”.
 
-Subsec. (c)(3). Pub. L. 105–277, § 142(f)(2)(B), substituted “Games, the Paralympic Games, and” for “Games and of”.
+Subsec. (c)(3). Pub. L. 105–277, § 142(f)(2)(B), substituted “Games, the Paralympic Games, and” for “Games and of”.
 
-Subsec. (c)(4). Pub. L. 105–277, § 142(f)(2)(C), substituted “Games, or as paralympic sports organizations for any sport that is included on the program of the Paralympic Games;” for “Games;”.
+Subsec. (c)(4). Pub. L. 105–277, § 142(f)(2)(C), substituted “Games, or as paralympic sports organizations for any sport that is included on the program of the Paralympic Games;” for “Games;”.
 
-Subsec. (c)(5). Pub. L. 105–277, § 142(f)(2)(D), substituted “Games, the Paralympic Games, the Pan-American Games, world championship competition,” for “Games,”.
+Subsec. (c)(5). Pub. L. 105–277, § 142(f)(2)(D), substituted “Games, the Paralympic Games, the Pan-American Games, world championship competition,” for “Games,”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rule of Construction**
 
-Pub. L. 117–340, § 2(d), Jan. 5, 2023, 136 Stat. 6177, provided that:
+Pub. L. 117–340, § 2(d), Jan. 5, 2023, 136 Stat. 6177, provided that:
 
 > “Nothing in this Act [see Short Title of 2023 Amendment note set out under section 101 of this title] shall be construed—
 
@@ -474,7 +474,7 @@ Pub. L. 117–340, § 2(d), Jan. 5, 2023, 136 Stat. 6177, provided that:
 
 **Implementation Period and Reports to Congress**
 
-Pub. L. 117–340, § 2(c), Jan. 5, 2023, 136 Stat. 6177, provided that:
+Pub. L. 117–340, § 2(c), Jan. 5, 2023, 136 Stat. 6177, provided that:
 
 > “Not later than 1 year after the date of the enactment of this Act [Jan. 5, 2023]—
 
@@ -490,7 +490,7 @@ Pub. L. 117–340, § 2(c), Jan. 5, 2023, 136 Stat. 6177, provided that:
 
 > **“(B)** submit to Congress a report describing such compliance.”
 
-### § 220506. Exclusive right to name, seals, emblems, and badges
+### § 220506. Exclusive right to name, seals, emblems, and badges
 
 **(a) Exclusive Right of Corporation.—** Except as provided in subsection (d) of this section, the corporation has the exclusive right to use—
 
@@ -528,22 +528,22 @@ Pub. L. 117–340, § 2(c), Jan. 5, 2023, 136 Stat. 6177, provided that:
 
 **(C)** such business, goods, or services are operated, sold, and marketed in the State of Washington west of the Cascade Mountain range and operations, sales, and marketing outside of this area are not substantial.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1469; Pub. L. 105–277, div. C, title I, § 142(g), Oct. 21, 1998, 112 Stat. 2681–604; Pub. L. 109–284, § 5(16), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, § 4(a)(6), Oct. 30, 2020, 134 Stat. 945.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1469; Pub. L. 105–277, div. C, title I, § 142(g), Oct. 21, 1998, 112 Stat. 2681–604; Pub. L. 109–284, § 5(16), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, § 4(a)(6), Oct. 30, 2020, 134 Stat. 945.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220506(a) | 36:380(c). | Sept. 21, 1950, ch. 975, title I, § 110, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3048. |
+| 220506(a) | 36:380(c). | Sept. 21, 1950, ch. 975, title I, § 110, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3048. |
 | 220506(b) | 36:380(b). |  |
 | 220506(c) | 36:380(a) (1st sentence). |  |
 | 220506(d) | 36:380(a) (2d, last sentences). |  |
 
 Subsection (a)(2) and (3) is substituted for “the symbol described in subsection (a)(1) of this section; the emblem described in subsection (a)(2) of this section” because of the reorganization of the section.
 
-In subsection (b), the words “or any trademark” are substituted for “as well as any trademark” to eliminate unnecessary words. The words “furnished . . . or for the use of” are omitted as unnecessary.
+In subsection (b), the words “or any trademark” are substituted for “as well as any trademark” to eliminate unnecessary words. The words “furnished . . . or for the use of” are omitted as unnecessary.
 
-In subsection (c), the words “the corporation may file a civil action against a person” are substituted for “any person . . . shall be subject to suit in a civil action by the Corporation” for clarity.
+In subsection (c), the words “the corporation may file a civil action against a person” are substituted for “any person . . . shall be subject to suit in a civil action by the Corporation” for clarity.
 
 In subsection (d)(2), the words “the words or any combination of the words described in subsection (a)(4) of this section, or a trademark, trade name, sign, symbol, or insignia described in subsection (c)(4) of this section” are substituted for “any other trademark, trade name, sign, symbol, or insignia described in subsections (a)(3) and (4) of this section” for clarity.
 
@@ -551,37 +551,37 @@ In subsection (d)(2), the words “the words or any combination of the words des
 
 **References in Text**
 
-The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 **Amendments**
 
-2020—Subsec. (a)(1). Pub. L. 116–189, § 4(a)(6)(A)(i), substituted “United States Olympic and Paralympic Committee” for “United States Olympic Committee”.
+2020—Subsec. (a)(1). Pub. L. 116–189, § 4(a)(6)(A)(i), substituted “United States Olympic and Paralympic Committee” for “United States Olympic Committee”.
 
-Subsec. (a)(2). Pub. L. 116–189, § 4(a)(6)(A)(ii), substituted “3 Agitos” for “3 TaiGeuks”.
+Subsec. (a)(2). Pub. L. 116–189, § 4(a)(6)(A)(ii), substituted “3 Agitos” for “3 TaiGeuks”.
 
-Subsec. (a)(4). Pub. L. 116–189, § 4(a)(6)(A)(iii), inserted “ ‘Parapan American’,” after “ ‘Pan-American’,”.
+Subsec. (a)(4). Pub. L. 116–189, § 4(a)(6)(A)(iii), inserted “ ‘Parapan American’,” after “ ‘Pan-American’,”.
 
-Subsec. (b). Pub. L. 116–189, § 4(a)(6)(B), inserted “the Parapan American team,” after “the Pan-American team,”.
+Subsec. (b). Pub. L. 116–189, § 4(a)(6)(B), inserted “the Parapan American team,” after “the Pan-American team,”.
 
-Subsec. (c)(3). Pub. L. 116–189, § 4(a)(6)(C), substituted “Pan-American, or Parapan American Games activity” for “or Pan-American Games activity”.
+Subsec. (c)(3). Pub. L. 116–189, § 4(a)(6)(C), substituted “Pan-American, or Parapan American Games activity” for “or Pan-American Games activity”.
 
 2006—Subsec. (d)(3)(A). Pub. L. 109–284 substituted “subsection” for “subsections”.
 
-1998—Subsec. (a)(2). Pub. L. 105–277, § 142(g)(1), substituted “rings, the symbol of the International Paralympic Committee, consisting of 3 TaiGeuks, or the symbol of the Pan-American Sports Organization, consisting of a torch surrounded by concentric rings;” for “rings;”.
+1998—Subsec. (a)(2). Pub. L. 105–277, § 142(g)(1), substituted “rings, the symbol of the International Paralympic Committee, consisting of 3 TaiGeuks, or the symbol of the Pan-American Sports Organization, consisting of a torch surrounded by concentric rings;” for “rings;”.
 
-Subsec. (a)(4). Pub. L. 105–277, § 142(g)(2), inserted “ ‘Paralympic’, ‘Paralympiad’, ‘Pan-American’, ‘America Espirito Sport Fraternite’,” before “or any combination”.
+Subsec. (a)(4). Pub. L. 105–277, § 142(g)(2), inserted “ ‘Paralympic’, ‘Paralympiad’, ‘Pan-American’, ‘America Espirito Sport Fraternite’,” before “or any combination”.
 
-Subsec. (b). Pub. L. 105–277, § 142(g)(3), (4), inserted “, International Paralympic Committee, the Pan-American Sports Organization,” after “International Olympic Committee” and “the Paralympic team,” before “the Pan-American team”.
+Subsec. (b). Pub. L. 105–277, § 142(g)(3), (4), inserted “, International Paralympic Committee, the Pan-American Sports Organization,” after “International Olympic Committee” and “the Paralympic team,” before “the Pan-American team”.
 
-Subsec. (c)(3). Pub. L. 105–277, § 142(g)(5), inserted “, Paralympic, or Pan-American Games” after “any Olympic”.
+Subsec. (c)(3). Pub. L. 105–277, § 142(g)(5), inserted “, Paralympic, or Pan-American Games” after “any Olympic”.
 
-Subsec. (c)(4). Pub. L. 105–277, § 142(g)(6), inserted “, the International Paralympic Committee, the Pan-American Sport Organization,” after “International Olympic Committee”.
+Subsec. (c)(4). Pub. L. 105–277, § 142(g)(6), inserted “, the International Paralympic Committee, the Pan-American Sport Organization,” after “International Olympic Committee”.
 
-Subsec. (d). Pub. L. 105–277, § 142(g)(7), inserted “and Geographic Reference” after “Pre-Existing” in heading.
+Subsec. (d). Pub. L. 105–277, § 142(g)(7), inserted “and Geographic Reference” after “Pre-Existing” in heading.
 
-Subsec. (d)(3). Pub. L. 105–277, § 142(g)(8), added par. (3).
+Subsec. (d)(3). Pub. L. 105–277, § 142(g)(8), added par. (3).
 
-### § 220507. Restrictions
+### § 220507. Restrictions
 
 **(a) Profit and Stock.—** The corporation may not engage in business for profit or issue stock.
 
@@ -603,13 +603,13 @@ Subsec. (d)(3). Pub. L. 105–277, § 142(g)(8), added par. (3).
 
 **(B)** in the case of an individual who is the subject of a criminal investigation, the ethics committee shall investigate the individual.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1470; Pub. L. 116–189, § 6(d)(1), (2)(A), Oct. 30, 2020, 134 Stat. 949.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1470; Pub. L. 116–189, § 6(d)(1), (2)(A), Oct. 30, 2020, 134 Stat. 949.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220507(a) | 36:378. | Sept. 21, 1950, ch. 975, title I, §§ 107, 108, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3048. |
+| 220507(a) | 36:378. | Sept. 21, 1950, ch. 975, title I, §§ 107, 108, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3048. |
 | 220507(b) | 36:377. |  |
 
 In subsection (a), the words “may not” are substituted for “shall have no power to” for consistency in the revised title. The words “capital”, “pecuniary”, and “or gain” are omitted as unnecessary.
@@ -620,17 +620,17 @@ In subsection (b), the words “as an organization” are omitted as unnecessary
 
 **Amendments**
 
-2020—Subsec. (c). Pub. L. 116–189, § 6(d)(1), added subsec. (c).
+2020—Subsec. (c). Pub. L. 116–189, § 6(d)(1), added subsec. (c).
 
-Subsec. (d). Pub. L. 116–189, § 6(d)(2)(A), added subsec. (d).
+Subsec. (d). Pub. L. 116–189, § 6(d)(2)(A), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Applicability**
 
-Pub. L. 116–189, § 6(d)(2)(B), Oct. 30, 2020, 134 Stat. 950, provided that: “The amendment made by subparagraph (A) [amending this section] shall not apply to any term of employment for the disbursement of bonus or severance pay that is in effect as of the day before the date of the enactment of this Act [Oct. 30, 2020].”
+Pub. L. 116–189, § 6(d)(2)(B), Oct. 30, 2020, 134 Stat. 950, provided that: “The amendment made by subparagraph (A) [amending this section] shall not apply to any term of employment for the disbursement of bonus or severance pay that is in effect as of the day before the date of the enactment of this Act [Oct. 30, 2020].”
 
-### § 220508. Headquarters, principal office, and meetings
+### § 220508. Headquarters, principal office, and meetings
 
 The corporation shall maintain its principal office and national headquarters in a place in the United States decided by the corporation. The corporation may hold its annual and special meetings in the places decided by the corporation.
 
@@ -640,11 +640,11 @@ The corporation shall maintain its principal office and national headquarters in
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220508 | 36:371 (last sentence). | Sept. 21, 1950, ch. 975, title I, § 101 (last sentence), formerly § 1 (last sentence), 64 Stat. 899; Nov. 8, 1978, Pub. L. 95–606, § 1(a)(3), 92 Stat. 3045. |
+| 220508 | 36:371 (last sentence). | Sept. 21, 1950, ch. 975, title I, § 101 (last sentence), formerly § 1 (last sentence), 64 Stat. 899; Nov. 8, 1978, Pub. L. 95–606, § 1(a)(3), 92 Stat. 3045. |
 
 The word “decided” is substituted for “as is determined” and for “shall determine” for consistency in the revised title.
 
-### § 220509. Resolution of disputes
+### § 220509. Resolution of disputes
 
 **(a) General.—** The corporation shall establish and maintain provisions in its constitution and bylaws for the swift and equitable resolution of disputes involving any of its members and relating to complaints of retaliation or the opportunity of an amateur athlete, coach, trainer, manager, administrator, or official to participate in the Olympic Games, the Paralympic Games, the Pan-American Games, the Parapan American Games, world championship competition, or other protected competition as defined in the constitution and bylaws of the corporation. In any lawsuit relating to the resolution of a dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, the Pan-American Games, or the Parapan American Games, a court shall not grant injunctive relief against the corporation within 21 days before the beginning of such games if the corporation, after consultation with the chair of the Athletes’ Advisory Council, has provided a sworn statement in writing executed by an officer of the corporation to such court that its constitution and bylaws cannot provide for the resolution of such dispute prior to the beginning of such games.
 
@@ -748,13 +748,13 @@ The word “decided” is substituted for “as is determined” and for “shal
 
 **(B) Reimbursement from national governing body.—** In the case of a national governing body found to have retaliated against a protected individual, the corporation may demand reimbursement from the national governing body for damages paid by the corporation under subparagraph (A).
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1470; Pub. L. 105–277, div. C, title I, § 142(h), Oct. 21, 1998, 112 Stat. 2681–605; Pub. L. 109–284, § 5(17), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, §§ 4(a)(7), 6(e), Oct. 30, 2020, 134 Stat. 945, 950.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1470; Pub. L. 105–277, div. C, title I, § 142(h), Oct. 21, 1998, 112 Stat. 2681–605; Pub. L. 109–284, § 5(17), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, §§ 4(a)(7), 6(e), Oct. 30, 2020, 134 Stat. 945, 950.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220509 | 36:382b. | Sept. 21, 1950, ch. 975, title I, § 114, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3049. |
+| 220509 | 36:382b. | Sept. 21, 1950, ch. 975, title I, § 114, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3049. |
 
 **Editorial Notes**
 
@@ -764,33 +764,33 @@ The date of the enactment of the Empowering Olympic, Paralympic, and Amateur Ath
 
 **Amendments**
 
-2020—Subsec. (a). Pub. L. 116–189, §§ 4(a)(7), 6(e)(1), in first sentence, inserted “complaints of retaliation or” after “relating to” and “the Parapan American Games,” after “the Pan-American Games,” and, in second sentence, substituted “the Pan-American Games, or the Parapan American Games” for “or the Pan-American Games”.
+2020—Subsec. (a). Pub. L. 116–189, §§ 4(a)(7), 6(e)(1), in first sentence, inserted “complaints of retaliation or” after “relating to” and “the Parapan American Games,” after “the Pan-American Games,” and, in second sentence, substituted “the Pan-American Games, or the Parapan American Games” for “or the Pan-American Games”.
 
-Subsec. (b). Pub. L. 116–189, § 6(e)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) provided for an ombudsman for athletes.
+Subsec. (b). Pub. L. 116–189, § 6(e)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) provided for an ombudsman for athletes.
 
-Subsec. (c). Pub. L. 116–189, § 6(e)(3), added subsec. (c).
+Subsec. (c). Pub. L. 116–189, § 6(e)(3), added subsec. (c).
 
 2006—Subsec. (b)(1)(A). Pub. L. 109–284 struck out “a” before “paralympic sports organizations”.
 
-1998—Subsec. (a). Pub. L. 105–277, § 142(h)(1), designated existing provisions as subsec. (a), and inserted heading.
+1998—Subsec. (a). Pub. L. 105–277, § 142(h)(1), designated existing provisions as subsec. (a), and inserted heading.
 
-Pub. L. 105–277, § 142(h)(2), inserted “the Paralympic Games,” before “the Pan-American Games”.
+Pub. L. 105–277, § 142(h)(2), inserted “the Paralympic Games,” before “the Pan-American Games”.
 
-Pub. L. 105–277, § 142(h)(3), inserted at end “In any lawsuit relating to the resolution of a dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, or the Pan-American Games, a court shall not grant injunctive relief against the corporation within 21 days before the beginning of such games if the corporation, after consultation with the chair of the Athletes’ Advisory Council, has provided a sworn statement in writing executed by an officer of the corporation to such court that its constitution and bylaws cannot provide for the resolution of such dispute prior to the beginning of such games.”
+Pub. L. 105–277, § 142(h)(3), inserted at end “In any lawsuit relating to the resolution of a dispute involving the opportunity of an amateur athlete to participate in the Olympic Games, the Paralympic Games, or the Pan-American Games, a court shall not grant injunctive relief against the corporation within 21 days before the beginning of such games if the corporation, after consultation with the chair of the Athletes’ Advisory Council, has provided a sworn statement in writing executed by an officer of the corporation to such court that its constitution and bylaws cannot provide for the resolution of such dispute prior to the beginning of such games.”
 
-Subsec. (b). Pub. L. 105–277, § 142(h)(4), added subsec. (b).
+Subsec. (b). Pub. L. 105–277, § 142(h)(4), added subsec. (b).
 
-### § 220510. Service of process
+### § 220510. Service of process
 
 As a condition to the exercise of any power or privilege granted by this chapter, the corporation shall have a designated agent in the State of Colorado to receive service of process for the corporation. Notice to or service on the agent, or mailed to the business address of the agent, is notice to or service on the corporation.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1470; Pub. L. 105–277, div. C, title I, § 142(i), Oct. 21, 1998, 112 Stat. 2681–606.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1470; Pub. L. 105–277, div. C, title I, § 142(i), Oct. 21, 1998, 112 Stat. 2681–606.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220510 | 36:381. | Sept. 21, 1950, ch. 975, title I, § 111, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3049. |
+| 220510 | 36:381. | Sept. 21, 1950, ch. 975, title I, § 111, as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3049. |
 
 The words “precedent” and “or conferred” are omitted as unnecessary. The words “with the secretary of state or other designated official” are substituted for “in the office of the secretary of state, or similar office” for consistency in the revised title. The words “post-office” and “authorized” are omitted as unnecessary. The words “legal process” are substituted for “local process” for consistency in the revised title.
 
@@ -800,7 +800,7 @@ The words “precedent” and “or conferred” are omitted as unnecessary. The
 
 1998—Pub. L. 105–277 amended text generally. Prior to amendment, text read as follows: “As a condition to the exercise of any power or privilege granted by this chapter, the corporation shall file, with the secretary of state or other designated official of each State, the name and address of an agent in that State on whom legal process or demands against the corporation may be served.”
 
-### § 220511. Reports and audits
+### § 220511. Reports and audits
 
 **(a) Report.—**
 
@@ -882,13 +882,13 @@ The words “precedent” and “or conferred” are omitted as unnecessary. The
 
 **(ii) Personally identifiable information.—** A report made available under clause (i) shall not include the personally identifiable information of any individual.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, § 142(j)(1), Oct. 21, 1998, 112 Stat. 2681–606; Pub. L. 109–284, § 5(18), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, § 6(f)(1), Oct. 30, 2020, 134 Stat. 953.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, § 142(j)(1), Oct. 21, 1998, 112 Stat. 2681–606; Pub. L. 109–284, § 5(18), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, § 6(f)(1), Oct. 30, 2020, 134 Stat. 953.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220511 | 36:382a(a). | Sept. 21, 1950, ch. 975, title I, § 113(a), as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3049. |
+| 220511 | 36:382a(a). | Sept. 21, 1950, ch. 975, title I, § 113(a), as added Nov. 8, 1978, Pub. L. 95–606, § 1(b), 92 Stat. 3049. |
 
 In subsection (a)(1), the words “full and” are omitted as unnecessary.
 
@@ -906,11 +906,11 @@ In subsection (a)(1), the words “full and” are omitted as unnecessary.
 
 “(2) a comprehensive description of the activities and accomplishments of the corporation during the prior year.”
 
-### § 220512. Complete teams
+### § 220512. Complete teams
 
 In obtaining representation for the United States in each competition and event of the Olympic Games, Paralympic Games, Pan-American Games, and Parapan American Games, the corporation, either directly or by delegation to the appropriate national governing body, may select, but is not obligated to select (even if not selecting will result in an incomplete team for an event), athletes who have not met the eligibility standard of the national governing body and the corporation when the number of athletes who have met the eligibility standards of such entities is insufficient to fill the roster for an event.
 
-(Added Pub. L. 105–277, div. C, title I, § 142(k)(1), Oct. 21, 1998, 112 Stat. 2681–606; amended Pub. L. 109–284, § 5(19), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, §§ 4(a)(8), 7(a)(2)(A)(ii), Oct. 30, 2020, 134 Stat. 945, 956.)
+(Added Pub. L. 105–277, div. C, title I, § 142(k)(1), Oct. 21, 1998, 112 Stat. 2681–606; amended Pub. L. 109–284, § 5(19), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, §§ 4(a)(8), 7(a)(2)(A)(ii), Oct. 30, 2020, 134 Stat. 945, 956.)
 
 **Editorial Notes**
 
@@ -920,7 +920,7 @@ In obtaining representation for the United States in each competition and event 
 
 2006—Pub. L. 109–284 substituted “and the corporation” for “and the Corporation”.
 
-### § 220513. Annual amateur athlete survey
+### § 220513. Annual amateur athlete survey
 
 **(a) In General.—** Not less frequently than annually, the corporation shall cause an independent third-party organization, under contract, to conduct an anonymous survey of amateur athletes who are actively engaged in amateur athletic competition with respect to—
 
@@ -934,15 +934,15 @@ In obtaining representation for the United States in each competition and event 
 
 **(d) Public Availability.—** The corporation shall make the results of each such survey available to the public on an internet website of the corporation.
 
-(Added Pub. L. 116–189, § 6(g)(1), Oct. 30, 2020, 134 Stat. 955.)
+(Added Pub. L. 116–189, § 6(g)(1), Oct. 30, 2020, 134 Stat. 955.)
 
-### § 220514. Annual report on equal treatment of athletes
+### § 220514. Annual report on equal treatment of athletes
 
 **(a) In General.—** Not less frequently than annually, the corporation shall submit to Congress a report on the compliance of the corporation with paragraphs (1)(D) and (2) of section 220505(d).
 
 **(b) Matters To Be Included.—** Each report required by subsection (a) shall include detailed information on the median, minimum, and maximum stipends and bonuses provided to athletes, disaggregated by gender, race, and, as applicable, status of participation on a professional sports team.
 
-(Added Pub. L. 117–340, § 2(a)(2)(A), Jan. 5, 2023, 136 Stat. 6176.)
+(Added Pub. L. 117–340, § 2(a)(2)(A), Jan. 5, 2023, 136 Stat. 6176.)
 
 **Editorial Notes**
 
@@ -958,7 +958,7 @@ For construction of Pub. L. 117–340 as it pertains to certain rights of athlet
 
 ## SUBCHAPTER II—NATIONAL GOVERNING BODIES
 
-### § 220521. Certification of national governing bodies
+### § 220521. Certification of national governing bodies
 
 **(a) In General.—** With respect to each sport included on the program of the Olympic Games, the Paralympic Games, the Pan-American Games, or the Parapan American Games, the corporation—
 
@@ -980,13 +980,13 @@ For construction of Pub. L. 117–340 as it pertains to certain rights of athlet
 
 **(4)** shall make each such summary report available to the public.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, § 142(*l*), Oct. 21, 1998, 112 Stat. 2681–607; Pub. L. 109–284, § 5(20), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, § 7(a)(1), Oct. 30, 2020, 134 Stat. 955.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, § 142(*l*), Oct. 21, 1998, 112 Stat. 2681–607; Pub. L. 109–284, § 5(20), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, § 7(a)(1), Oct. 30, 2020, 134 Stat. 955.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220521(a) | 36:391(a) (1st, 2d sentences). | Sept. 21, 1950, ch. 975, title II, §§ 201(a), (d), 204, 205(b)(5), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3050, 3052, 3055, 3057. |
+| 220521(a) | 36:391(a) (1st, 2d sentences). | Sept. 21, 1950, ch. 975, title II, §§ 201(a), (d), 204, 205(b)(5), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3050, 3052, 3055, 3057. |
 | 220521(b) | 36:391(a) (3d–last sentences). |  |
 | 220521(c) | 36:391(d). 36:395(b)(5). |  |
 | 220521(d) | 36:394. |  |
@@ -1003,23 +1003,23 @@ The date of the enactment of the Empowering Olympic, Paralympic, and Amateur Ath
 
 **Amendments**
 
-2020—Pub. L. 116–189, § 7(a)(1)(A), substituted “Certification of national governing bodies” for “Recognition of amateur sports organizations as national governing bodies” in section catchline.
+2020—Pub. L. 116–189, § 7(a)(1)(A), substituted “Certification of national governing bodies” for “Recognition of amateur sports organizations as national governing bodies” in section catchline.
 
-Subsec. (a). Pub. L. 116–189, § 7(a)(1)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) provided general authority for the corporation to recognize an eligible amateur sports organization as a national governing body.
+Subsec. (a). Pub. L. 116–189, § 7(a)(1)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) provided general authority for the corporation to recognize an eligible amateur sports organization as a national governing body.
 
-Subsecs. (b), (c). Pub. L. 116–189, § 7(a)(1)(C), (D), substituted “certifying” for “recognizing”.
+Subsecs. (b), (c). Pub. L. 116–189, § 7(a)(1)(C), (D), substituted “certifying” for “recognizing”.
 
-Subsec. (d). Pub. L. 116–189, § 7(a)(1)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: “The corporation may review all matters related to the continued recognition of an organization as a national governing body and may take action it considers appropriate, including placing conditions on the continued recognition.”
+Subsec. (d). Pub. L. 116–189, § 7(a)(1)(E), amended subsec. (d) generally. Prior to amendment, text read as follows: “The corporation may review all matters related to the continued recognition of an organization as a national governing body and may take action it considers appropriate, including placing conditions on the continued recognition.”
 
 2006—Subsec. (a). Pub. L. 109–284 substituted “subsection” for “subsections”.
 
-1998—Subsec. (a). Pub. L. 105–277, § 142(*l*)(1), inserted first sentence and struck out former first sentence which read as follows: “For any sport that is included on the program of the Olympic Games or the Pan-American Games, the corporation may recognize as a national governing body an amateur sports organization that files an application and is eligible under section 220522 of this title.”
+1998—Subsec. (a). Pub. L. 105–277, § 142(*l*)(1), inserted first sentence and struck out former first sentence which read as follows: “For any sport that is included on the program of the Olympic Games or the Pan-American Games, the corporation may recognize as a national governing body an amateur sports organization that files an application and is eligible under section 220522 of this title.”
 
-Pub. L. 105–277, § 142(*l*)(2), substituted “approved, except as provided in section 220522(b) with respect to a paralympic sports organization.” for “approved.”
+Pub. L. 105–277, § 142(*l*)(2), substituted “approved, except as provided in section 220522(b) with respect to a paralympic sports organization.” for “approved.”
 
-Subsec. (b). Pub. L. 105–277, § 142(*l*)(3)–(5), substituted “hold at least 2 public hearings” for “hold a public hearing”, substituted “hearings.” for “hearing.” in two places, and inserted at end “The corporation shall send written notice, which shall include a copy of the application, at least 30 days prior to the date of any such public hearing to all amateur sports organizations known to the corporation in that sport.”
+Subsec. (b). Pub. L. 105–277, § 142(*l*)(3)–(5), substituted “hold at least 2 public hearings” for “hold a public hearing”, substituted “hearings.” for “hearing.” in two places, and inserted at end “The corporation shall send written notice, which shall include a copy of the application, at least 30 days prior to the date of any such public hearing to all amateur sports organizations known to the corporation in that sport.”
 
-### § 220522. Eligibility requirements
+### § 220522. Eligibility requirements
 
 An amateur sports organization, a high-performance management organization, or a paralympic sports organization is eligible to be certified, or to continue to be certified, as a national governing body only if it—
 
@@ -1115,19 +1115,19 @@ An amateur sports organization, a high-performance management organization, or a
 
 **(19)** provides protection from retaliation to protected individuals.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, § 142(m), Oct. 21, 1998, 112 Stat. 2681–607; Pub. L. 116–189, § 7(a)(2)(A)(iii), (b), Oct. 30, 2020, 134 Stat. 956, 958.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1471; Pub. L. 105–277, div. C, title I, § 142(m), Oct. 21, 1998, 112 Stat. 2681–607; Pub. L. 116–189, § 7(a)(2)(A)(iii), (b), Oct. 30, 2020, 134 Stat. 956, 958.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220522 | 36:391(b), (c). | Sept. 21, 1950, ch. 975, title II, § 201(b), (c), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3050. |
+| 220522 | 36:391(b), (c). | Sept. 21, 1950, ch. 975, title II, § 201(b), (c), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3050. |
 
 In clause (1), the words “a State” are substituted for “any of the several States” for consistency in the revised title.
 
 In clause (3)(B), the words “upon application” are omitted as unnecessary.
 
-In clause (10)(B), the words “hold at least 20 percent of the membership and voting power on the board” are substituted for “the membership and voting power held . . . is not less than 20 percent of such membership and voting power held in that board of directors or other such governing board” to eliminate unnecessary words.
+In clause (10)(B), the words “hold at least 20 percent of the membership and voting power on the board” are substituted for “the membership and voting power held . . . is not less than 20 percent of such membership and voting power held in that board of directors or other such governing board” to eliminate unnecessary words.
 
 The text of 36:391(c) is omitted as executed.
 
@@ -1135,47 +1135,47 @@ The text of 36:391(c) is omitted as executed.
 
 **Amendments**
 
-2020—Pub. L. 116–189, § 7(a)(2)(A)(iii)(I), (II)(ff), struck out subsec. (a) designation and heading “General” at beginning of section, substituted “An amateur sports organization, a high-performance management organization, or a paralympic sports organization” for “An amateur sports organization” in introductory provisions, and struck out subsec. (b) which related to recognition of paralympic sports organizations.
+2020—Pub. L. 116–189, § 7(a)(2)(A)(iii)(I), (II)(ff), struck out subsec. (a) designation and heading “General” at beginning of section, substituted “An amateur sports organization, a high-performance management organization, or a paralympic sports organization” for “An amateur sports organization” in introductory provisions, and struck out subsec. (b) which related to recognition of paralympic sports organizations.
 
-Subsec. (a). Pub. L. 116–189, § 7(a)(2)(A)(iii)(II)(aa), (bb), substituted “certified” for “recognized” and “certification” for “recognition” wherever appearing in subsec. (a) prior to redesignation of subsec. (a) as entire section.
+Subsec. (a). Pub. L. 116–189, § 7(a)(2)(A)(iii)(II)(aa), (bb), substituted “certified” for “recognized” and “certification” for “recognition” wherever appearing in subsec. (a) prior to redesignation of subsec. (a) as entire section.
 
-Par. (2). Pub. L. 116–189, § 7(b)(1), inserted “, including the ability to provide and enforce required athlete protection policies and procedures” before semicolon at end.
+Par. (2). Pub. L. 116–189, § 7(b)(1), inserted “, including the ability to provide and enforce required athlete protection policies and procedures” before semicolon at end.
 
-Par. (4)(B). Pub. L. 116–189, § 7(b)(2), substituted “which arbitration under this paragraph shall be conducted in accordance with the standard commercial arbitration rules of an established major national provider of arbitration and mediation services based in the United States and designated by the corporation with the concurrence of the Athletes’ Advisory Council and the National Governing Bodies’ Council” for “conducted in accordance with the Commercial Rules of the American Arbitration Association” and “standard commercial rules of arbitration of such designated provider” for “Commercial Rules of Arbitration”.
+Par. (4)(B). Pub. L. 116–189, § 7(b)(2), substituted “which arbitration under this paragraph shall be conducted in accordance with the standard commercial arbitration rules of an established major national provider of arbitration and mediation services based in the United States and designated by the corporation with the concurrence of the Athletes’ Advisory Council and the National Governing Bodies’ Council” for “conducted in accordance with the Commercial Rules of the American Arbitration Association” and “standard commercial rules of arbitration of such designated provider” for “Commercial Rules of Arbitration”.
 
-Par. (5). Pub. L. 116–189, § 7(b)(3), inserted “except with respect to the oversight of the organization,” after “sport,” in introductory provisions.
+Par. (5). Pub. L. 116–189, § 7(b)(3), inserted “except with respect to the oversight of the organization,” after “sport,” in introductory provisions.
 
-Subsec. (a)(6). Pub. L. 116–189, § 7(a)(2)(A)(iii)(II)(cc), substituted “the Olympic Games, the Paralympic Games, the Pan-American Games, or the Parapan American Games” for “the Olympic Games or the Pan-American Games” in par. (6) of subsec. (a) prior to redesignation of subsec. (a) as entire section.
+Subsec. (a)(6). Pub. L. 116–189, § 7(a)(2)(A)(iii)(II)(cc), substituted “the Olympic Games, the Paralympic Games, the Pan-American Games, or the Parapan American Games” for “the Olympic Games or the Pan-American Games” in par. (6) of subsec. (a) prior to redesignation of subsec. (a) as entire section.
 
-Par. (10). Pub. L. 116–189, § 7(b)(5), added par. (10). Former par. (10) redesignated (11).
+Par. (10). Pub. L. 116–189, § 7(b)(5), added par. (10). Former par. (10) redesignated (11).
 
-Par. (11). Pub. L. 116–189, § 7(b)(4), redesignated par. (10) as (11). Former par. (11) redesignated (12).
+Par. (11). Pub. L. 116–189, § 7(b)(4), redesignated par. (10) as (11). Former par. (11) redesignated (12).
 
-Subsec. (a)(11). Pub. L. 116–189, § 7(a)(2)(A)(iii)(II)(dd), in subsec. (a)(11) prior to redesignation of subsec. (a) as entire section, inserted “, high-performance management organization, or paralympic sports organization” after “amateur sports organization” in introductory provisions and substituted “applicable” for “amateur sports” in subpar. (B).
+Subsec. (a)(11). Pub. L. 116–189, § 7(a)(2)(A)(iii)(II)(dd), in subsec. (a)(11) prior to redesignation of subsec. (a) as entire section, inserted “, high-performance management organization, or paralympic sports organization” after “amateur sports organization” in introductory provisions and substituted “applicable” for “amateur sports” in subpar. (B).
 
-Par. (12). Pub. L. 116–189, § 7(b)(4), redesignated par. (11) as (12). Former par. (12) redesignated (13).
+Par. (12). Pub. L. 116–189, § 7(b)(4), redesignated par. (11) as (12). Former par. (12) redesignated (13).
 
-Par. (13). Pub. L. 116–189, § 7(b)(6), added par. (13) and struck out former par. (13) which read as follows: “demonstrates that none of its officers are also officers of any other amateur sports organization recognized as a national governing body;”.
+Par. (13). Pub. L. 116–189, § 7(b)(6), added par. (13) and struck out former par. (13) which read as follows: “demonstrates that none of its officers are also officers of any other amateur sports organization recognized as a national governing body;”.
 
-Pub. L. 116–189, § 7(b)(4), redesignated par. (12) as (13). Former par. (13) redesignated (14).
+Pub. L. 116–189, § 7(b)(4), redesignated par. (12) as (13). Former par. (13) redesignated (14).
 
-Par. (14). Pub. L. 116–189, § 7(b)(4), redesignated par. (13) as (14). Former par. (14) redesignated (15).
+Par. (14). Pub. L. 116–189, § 7(b)(4), redesignated par. (13) as (14). Former par. (14) redesignated (15).
 
-Subsec. (a)(14). Pub. L. 116–189, § 7(a)(2)(A)(iii)(II)(ee), substituted “the Pan-American Games, or the Parapan American Games” for “or the Pan-American Games” in par. (14) of subsec. (a) prior to redesignation of subsec. (a) as entire section and par. (14) as (15).
+Subsec. (a)(14). Pub. L. 116–189, § 7(a)(2)(A)(iii)(II)(ee), substituted “the Pan-American Games, or the Parapan American Games” for “or the Pan-American Games” in par. (14) of subsec. (a) prior to redesignation of subsec. (a) as entire section and par. (14) as (15).
 
-Pars. (15), (16). Pub. L. 116–189, § 7(b)(4), redesignated pars. (14) and (15) as (15) and (16), respectively.
+Pars. (15), (16). Pub. L. 116–189, § 7(b)(4), redesignated pars. (14) and (15) as (15) and (16), respectively.
 
-Pars. (17) to (19). Pub. L. 116–189, § 7(b)(7)–(9), added pars. (17) to (19).
+Pars. (17) to (19). Pub. L. 116–189, § 7(b)(7)–(9), added pars. (17) to (19).
 
-1998—Pub. L. 105–277, § 142(m)(1), designated existing provisions as subsec. (a) and inserted heading.
+1998—Pub. L. 105–277, § 142(m)(1), designated existing provisions as subsec. (a) and inserted heading.
 
-Subsec. (a)(4). Pub. L. 105–277, § 142(m)(2), added par. (4) and struck out former par. (4) which read as follows: “agrees to submit, on demand by the corporation, to binding arbitration conducted in accordance with the commercial rules of the American Arbitration Association in any controversy involving—
+Subsec. (a)(4). Pub. L. 105–277, § 142(m)(2), added par. (4) and struck out former par. (4) which read as follows: “agrees to submit, on demand by the corporation, to binding arbitration conducted in accordance with the commercial rules of the American Arbitration Association in any controversy involving—
 
 “(A) its recognition as a national governing body, as provided for in section 220529 of this title; or
 
 “(B) the opportunity of any amateur athlete, coach, trainer, manager, administrator, or official to participate in amateur athletic competition, as provided for in the corporation’s constitution and bylaws;”.
 
-Subsec. (a)(10). Pub. L. 105–277, § 142(m)(3), added par. (10) and struck out former par. (10) which read as follows: “demonstrates that—
+Subsec. (a)(10). Pub. L. 105–277, § 142(m)(3), added par. (10) and struck out former par. (10) which read as follows: “demonstrates that—
 
 “(A) its board of directors or other governing board includes among its voting members—
 
@@ -1185,11 +1185,11 @@ Subsec. (a)(10). Pub. L. 105–277, § 142(m)(3), added par. (10) and struck o
 
 “(B) the individuals described in subclause (A) of this clause hold at least 20 percent of the membership and voting power on the board;”.
 
-Subsec. (a)(14). Pub. L. 105–277, § 142(m)(4), inserted “or to participation in the Olympic Games, the Paralympic Games, or the Pan-American Games” after “amateur status”.
+Subsec. (a)(14). Pub. L. 105–277, § 142(m)(4), inserted “or to participation in the Olympic Games, the Paralympic Games, or the Pan-American Games” after “amateur status”.
 
-Subsec. (b). Pub. L. 105–277, § 142(m)(5), added subsec. (b).
+Subsec. (b). Pub. L. 105–277, § 142(m)(5), added subsec. (b).
 
-### § 220523. Authority of national governing bodies
+### § 220523. Authority of national governing bodies
 
 **(a) Authority.—** For the sport that it governs, a national governing body may—
 
@@ -1209,13 +1209,13 @@ Subsec. (b). Pub. L. 105–277, § 142(m)(5), added subsec. (b).
 
 **(b) Replacement of National Governing Body Pursuant to Arbitration.—** A national governing body may not exercise any authority under subsection (a) of this section for a particular sport after another amateur sports organization has been declared (in accordance with binding arbitration proceedings prescribed by the organic documents of the corporation) entitled to replace that national governing body as the member of the corporation for that sport.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1473; Pub. L. 105–277, div. C, title I, § 142(n), Oct. 21, 1998, 112 Stat. 2681–608; Pub. L. 116–189, § 4(a)(9), Oct. 30, 2020, 134 Stat. 945.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1473; Pub. L. 105–277, div. C, title I, § 142(n), Oct. 21, 1998, 112 Stat. 2681–608; Pub. L. 116–189, § 4(a)(9), Oct. 30, 2020, 134 Stat. 945.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220523(a) | 36:393. | Sept. 21, 1950, ch. 975, title II, § 203, as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3054. |
+| 220523(a) | 36:393. | Sept. 21, 1950, ch. 975, title II, § 203, as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3054. |
 | 220523(b) | 36:393 note. | July 8, 1980, Pub. L. 96–304, title I (last sentence related to limitation on exercise of authority in par. under heading “Salaries and Expenses”), 94 Stat. 898. |
 
 In subsection (b), the words “national governing body” are omitted (the first time they appear) to eliminate unnecessary words. The reference to “subsection (a) of this section” is substituted for “section 203 of Public Law 95–606 as hereby amended” because of the restatement. The word “corporation” is substituted for “Committee” because of the definition of “corporation” in section 220501 of this title.
@@ -1228,7 +1228,7 @@ In subsection (b), the words “national governing body” are omitted (the firs
 
 1998—Subsec. (a)(6), (7). Pub. L. 105–277, which directed substitution of “Games, the Paralympic Games, and” for “Games and” in pars. (6) and (7) of this section, was executed by making the substitution in pars. (6) and (7) of subsec. (a) to reflect the probable intent of Congress.
 
-### § 220524. General duties of national governing bodies
+### § 220524. General duties of national governing bodies
 
 **(a) In General.—** For the sport that it governs, a national governing body shall—
 
@@ -1274,27 +1274,27 @@ In subsection (b), the words “national governing body” are omitted (the firs
 
 **(b) Rule of Construction.—** Nothing in this section shall be construed to preempt or otherwise abrogate the duty of care of a national governing body under State law or the common law.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1474; Pub. L. 105–277, div. C, title I, § 142(*o*), Oct. 21, 1998, 112 Stat. 2681–608; Pub. L. 116–189, § 7(a)(2)(A)(iv), (c), Oct. 30, 2020, 134 Stat. 957, 959; Pub. L. 117–340, § 2(b)(1), Jan. 5, 2023, 136 Stat. 6176.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1474; Pub. L. 105–277, div. C, title I, § 142(*o*), Oct. 21, 1998, 112 Stat. 2681–608; Pub. L. 116–189, § 7(a)(2)(A)(iv), (c), Oct. 30, 2020, 134 Stat. 957, 959; Pub. L. 117–340, § 2(b)(1), Jan. 5, 2023, 136 Stat. 6176.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220524 | 36:392(a)(1)–(3), (5)–(9). | Sept. 21, 1950, ch. 975, title II, § 202(a)(1)–(3), (5)–(9), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3052. |
+| 220524 | 36:392(a)(1)–(3), (5)–(9). | Sept. 21, 1950, ch. 975, title II, § 202(a)(1)–(3), (5)–(9), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3052. |
 
-In clause (4), the word “by” is substituted for “under its auspices or that of . . . other” for clarity and to eliminate unnecessary words. The words “the national governing body” are substituted for “it” for clarity.
+In clause (4), the word “by” is substituted for “under its auspices or that of . . . other” for clarity and to eliminate unnecessary words. The words “the national governing body” are substituted for “it” for clarity.
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (a)(7) to (16). Pub. L. 117–340, § 2(b)(1), added pars. (7) and (8) and redesignated former pars. (7) to (14) as (9) to (16), respectively.
+2023—Subsec. (a)(7) to (16). Pub. L. 117–340, § 2(b)(1), added pars. (7) and (8) and redesignated former pars. (7) to (14) as (9) to (16), respectively.
 
-2020—Pub. L. 116–189, § 7(c)(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2020—Pub. L. 116–189, § 7(c)(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 116–189, § 7(a)(2)(A)(iv), struck out “amateur sports” before “organizations” in pars. (1) and (2) and before “organization or person, unless” in par. (5) prior to redesignation of existing section as subsec. (a).
+Pub. L. 116–189, § 7(a)(2)(A)(iv), struck out “amateur sports” before “organizations” in pars. (1) and (2) and before “organization or person, unless” in par. (5) prior to redesignation of existing section as subsec. (a).
 
-Subsec. (a)(10) to (14). Pub. L. 116–189, § 7(c)(2), added pars. (10) to (14).
+Subsec. (a)(10) to (14). Pub. L. 116–189, § 7(c)(2), added pars. (10) to (14).
 
 1998—Pars. (4) to (9). Pub. L. 105–277, added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 
@@ -1304,7 +1304,7 @@ Subsec. (a)(10) to (14). Pub. L. 116–189, § 7(c)(2), added pars. (10) to (1
 
 For construction of Pub. L. 117–340 as it pertains to certain rights of athletes, see section 2(d) of Pub. L. 117–340, set out as a note under section 220505 of this title.
 
-### § 220525. Granting sanctions for amateur athletic competitions
+### § 220525. Granting sanctions for amateur athletic competitions
 
 **(a) Prompt Review and Decision.—** For the sport that it governs, a national governing body promptly shall—
 
@@ -1348,13 +1348,13 @@ For construction of Pub. L. 117–340 as it pertains to certain rights of athlet
 
 **(G)** the amateur sports organization or person requesting sanction from a national governing body will implement and abide by the policies and procedures to prevent the abuse, including emotional, physical, and child abuse, of amateur athletes participating in amateur athletic activities applicable to such national governing body.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1474; Pub. L. 115–126, title II, § 203, Feb. 14, 2018, 132 Stat. 323.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1474; Pub. L. 115–126, title II, § 203, Feb. 14, 2018, 132 Stat. 323.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220525(a)(1) | 36:392(a)(4). | Sept. 21, 1950, ch. 975, title II, § 202(a)(4), (b), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3052, 3053. |
+| 220525(a)(1) | 36:392(a)(4). | Sept. 21, 1950, ch. 975, title II, § 202(a)(4), (b), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3052, 3053. |
 | 220525(a) (2)(A) | 36:392(b) (words before cl. (1)). |  |
 | 220525(a) (2)(B) | (no source). |  |
 | 220525(b) (words before par. (1)) | 36:392(b)(1) (words before subcl. (A)), (2) (words before subcl. (A)). |  |
@@ -1375,7 +1375,7 @@ In subsection (b), the language before paragraph (1) is substituted for 36:392(b
 
 2018—Subsec. (b)(4)(G). Pub. L. 115–126, which directed amendment of section 220525(b)(4), without specifying the title to be amended, by adding subpar. (G), was executed to this section, to reflect the probable intent of Congress.
 
-### § 220526. Restricted amateur athletic competitions
+### § 220526. Restricted amateur athletic competitions
 
 **(a) Exclusive Jurisdiction.—** An amateur sports organization that conducts amateur athletic competition shall have exclusive jurisdiction over that competition if participation is restricted to a specific class of amateur athletes, such as high school students, college students, members of the Armed Forces, or similar groups or categories.
 
@@ -1391,10 +1391,10 @@ In subsection (b), the language before paragraph (1) is substituted for 36:392(b
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220526(a) | 36:396 (1st sentence). | Sept. 21, 1950, ch. 975, title II, § 206, as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3058. |
+| 220526(a) | 36:396 (1st sentence). | Sept. 21, 1950, ch. 975, title II, § 206, as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3058. |
 | 220526(b) | 36:396 (last sentence). |  |
 
-### § 220527. Complaints against national governing bodies
+### § 220527. Complaints against national governing bodies
 
 **(a) General.—**
 
@@ -1416,13 +1416,13 @@ In subsection (b), the language before paragraph (1) is substituted for 36:392(b
 
 **(3)** If the corporation places a national governing body on probation under paragraph (2) of this subsection, it may extend the probationary period if the national governing body has proven by clear and convincing evidence that, through no fault of its own, it needs additional time to comply with sections 220522, 220524, and 220525 of this title. If, at the end of the period allowed by the corporation, the national governing body has not complied with those sections, the corporation shall revoke the recognition of the national governing body.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1476; Pub. L. 116–189, § 7(d), Oct. 30, 2020, 134 Stat. 960.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1476; Pub. L. 116–189, § 7(d), Oct. 30, 2020, 134 Stat. 960.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220527(a)(1) | 36:395(a)(1) (1st, last sentences). | Sept. 21, 1950, ch. 975, title II, § 205(a), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3055. |
+| 220527(a)(1) | 36:395(a)(1) (1st, last sentences). | Sept. 21, 1950, ch. 975, title II, § 205(a), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3055. |
 | 220527(a)(2) | 36:395(a)(1) (3d sentence). |  |
 | 220527(b)(1) | 36:395(a)(1) (2d sentence). |  |
 | 220527(b)(2) | 36:395(a)(2). |  |
@@ -1435,15 +1435,15 @@ In subsection (b)(2), the words “or person” are added for clarity and consis
 
 **Amendments**
 
-2020—Subsec. (b). Pub. L. 116–189, § 7(d)(1), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to exhaustion of remedies before filing a complaint.
+2020—Subsec. (b). Pub. L. 116–189, § 7(d)(1), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to exhaustion of remedies before filing a complaint.
 
-Subsec. (c). Pub. L. 116–189, § 7(d)(3), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 116–189, § 7(d)(3), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Pub. L. 116–189, § 7(d)(2), substituted “The corporation” for “If the corporation decides that all available remedies have been exhausted as required by subsection (b)(1) of this section, it”.
+Pub. L. 116–189, § 7(d)(2), substituted “The corporation” for “If the corporation decides that all available remedies have been exhausted as required by subsection (b)(1) of this section, it”.
 
-Subsec. (d). Pub. L. 116–189, § 7(d)(3), redesignated subsec. (d) as (c).
+Subsec. (d). Pub. L. 116–189, § 7(d)(3), redesignated subsec. (d) as (c).
 
-### § 220528. Applications to replace an incumbent national governing body
+### § 220528. Applications to replace an incumbent national governing body
 
 **(a) General.—** An amateur sports organization may seek to replace an incumbent as the national governing body for a particular sport by filing a written application for certification with the corporation.
 
@@ -1487,13 +1487,13 @@ Subsec. (d). Pub. L. 116–189, § 7(d)(3), redesignated subsec. (d) as (c).
 
 **(2)** declare a vacancy in the national governing body for that sport.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1476; Pub. L. 105–277, div. C, title I, § 142(p), Oct. 21, 1998, 112 Stat. 2681–609; Pub. L. 116–189, §§ 4(a)(10), 7(a)(2)(A)(v), Oct. 30, 2020, 134 Stat. 945, 957.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1476; Pub. L. 105–277, div. C, title I, § 142(p), Oct. 21, 1998, 112 Stat. 2681–609; Pub. L. 116–189, §§ 4(a)(10), 7(a)(2)(A)(v), Oct. 30, 2020, 134 Stat. 945, 957.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220528(a) | 36:395(b)(1) (1st sentence). | Sept. 21, 1950, ch. 975, title II, § 205(b)(1)–(4), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3056. |
+| 220528(a) | 36:395(b)(1) (1st sentence). | Sept. 21, 1950, ch. 975, title II, § 205(b)(1)–(4), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3056. |
 | 220528(b) | 36:395(b)(1) (last sentence), (2) (2d sentence). |  |
 | 220528(c)(1) | 36:395(b)(1) (2d sentence). |  |
 | 220528(c)(2) | 36:395(b)(2) (1st, 3d, last sentences). |  |
@@ -1516,21 +1516,21 @@ In subsection (g), before clause (1), the words “with sections 220522, 220524,
 
 **Amendments**
 
-2020—Pub. L. 116–189, § 7(a)(2)(A)(v), substituted “certification” for “recognition” wherever appearing, “certify” for “recognize” in two places, and “Certification” for “Recognition” in subsec. (g) heading.
+2020—Pub. L. 116–189, § 7(a)(2)(A)(v), substituted “certification” for “recognition” wherever appearing, “certify” for “recognize” in two places, and “Certification” for “Recognition” in subsec. (g) heading.
 
-Subsec. (c)(1)(A). Pub. L. 116–189, § 4(a)(10)(A), which directed amendment of subpar. (A) of subsec. (c) by substituting “or in each of the Olympic Games, the Paralympic Games, the Pan-American Games, and the Parapan American Games” for “or in both the Olympic and Pan-American Games”, was executed to subpar. (A) of subsec. (c)(1), to reflect the probable intent of Congress.
+Subsec. (c)(1)(A). Pub. L. 116–189, § 4(a)(10)(A), which directed amendment of subpar. (A) of subsec. (c) by substituting “or in each of the Olympic Games, the Paralympic Games, the Pan-American Games, and the Parapan American Games” for “or in both the Olympic and Pan-American Games”, was executed to subpar. (A) of subsec. (c)(1), to reflect the probable intent of Congress.
 
-Subsec. (c)(1)(B). Pub. L. 116–189, § 4(a)(10)(B), which directed the general amendment of subpar. (B) of subsec. (c), was executed to subpar. (B) of subsec. (c)(1), to reflect the probable intent of Congress. Prior to amendment, subpar. (B) read as follows: “any Pan-American Games, for a sport in which competition is held in the Pan-American Games but not in the Olympic Games.”
+Subsec. (c)(1)(B). Pub. L. 116–189, § 4(a)(10)(B), which directed the general amendment of subpar. (B) of subsec. (c), was executed to subpar. (B) of subsec. (c)(1), to reflect the probable intent of Congress. Prior to amendment, subpar. (B) read as follows: “any Pan-American Games, for a sport in which competition is held in the Pan-American Games but not in the Olympic Games.”
 
-1998—Subsec. (c)(1)(A). Pub. L. 105–277, § 142(p)(1), substituted “Olympic Games or the Paralympic Games, or in both” for “Olympic Games or both”.
+1998—Subsec. (c)(1)(A). Pub. L. 105–277, § 142(p)(1), substituted “Olympic Games or the Paralympic Games, or in both” for “Olympic Games or both”.
 
-Subsec. (c)(2). Pub. L. 105–277, § 142(p)(2), (3), substituted “certified” for “registered” and substituted “body and with any other organization that has filed an application.” for “body.”
+Subsec. (c)(2). Pub. L. 105–277, § 142(p)(2), (3), substituted “certified” for “registered” and substituted “body and with any other organization that has filed an application.” for “body.”
 
-Subsec. (d). Pub. L. 105–277, § 142(p)(4), (5), inserted “open to the public” after “formal hearing” and inserted after second sentence “The corporation also shall send written notice, including a copy of the application, at least 30 days prior to the date of the hearing to all amateur sports organizations known to the corporation in that sport.”
+Subsec. (d). Pub. L. 105–277, § 142(p)(4), (5), inserted “open to the public” after “formal hearing” and inserted after second sentence “The corporation also shall send written notice, including a copy of the application, at least 30 days prior to the date of the hearing to all amateur sports organizations known to the corporation in that sport.”
 
-Subsec. (f)(4). Pub. L. 105–277, § 142(p)(6), substituted “title and notify such national governing body of such probation and of the actions needed to comply with such requirements.” for “title.”
+Subsec. (f)(4). Pub. L. 105–277, § 142(p)(6), substituted “title and notify such national governing body of such probation and of the actions needed to comply with such requirements.” for “title.”
 
-### § 220529. Arbitration of corporation determinations
+### § 220529. Arbitration of corporation determinations
 
 **(a) Right to Review.—** A party aggrieved by a determination of the corporation under section 220527 or 220528 of this title may obtain review by the arbitration and mediation provider designated by the corporation under section 220522(a)(4).
 
@@ -1562,13 +1562,13 @@ Subsec. (f)(4). Pub. L. 105–277, § 142(p)(6), substituted “title and noti
 
 **(2)** If the reopening is based on the motion of a party, and if the reopening would result in the arbitrators’ decision being delayed beyond the specific period agreed to at the beginning of the arbitration proceedings, all parties to the decision must agree to reopen the hearings.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1478; Pub. L. 116–189, § 7(e), Oct. 30, 2020, 134 Stat. 960.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1478; Pub. L. 116–189, § 7(e), Oct. 30, 2020, 134 Stat. 960.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 220529(a) | 36:395(c)(1) (1st sentence). | Sept. 21, 1950, ch. 975, title II, § 205(c), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3057. |
+| 220529(a) | 36:395(c)(1) (1st sentence). | Sept. 21, 1950, ch. 975, title II, § 205(c), as added Nov. 8, 1978, Pub. L. 95–606, § 2, 92 Stat. 3057. |
 | 220529(b)(1) | 36:395(c)(1) (2d sentence). |  |
 | 220529(b)(2) | 36:395(c)(1) (last sentence). |  |
 | 220529(b)(3) | 36:395(c)(4). |  |
@@ -1578,7 +1578,7 @@ Subsec. (f)(4). Pub. L. 105–277, § 142(p)(6), substituted “title and noti
 | 220529(d) | 36:395(c)(5). |  |
 | 220529(e) | 36:395(c)(6). |  |
 
-In subsection (a), the reference to 36:391(c) is omitted because 36:391(c) is omitted as executed. See the revision note for section 220522 of the revised title. The words “may obtain review by” are substituted for “The right to review . . . shall be to” for clarity.
+In subsection (a), the reference to 36:391(c) is omitted because 36:391(c) is omitted as executed. See the revision note for section 220522 of the revised title. The words “may obtain review by” are substituted for “The right to review . . . shall be to” for clarity.
 
 In subsection (b)(2)(A) and (B), the word “mutually” is omitted as unnecessary.
 
@@ -1598,7 +1598,7 @@ In subsection (e)(2), the words “the reopening is based on the motion of a par
 
 2020—Subsec. (a). Pub. L. 116–189 substituted “the arbitration and mediation provider designated by the corporation under section 220522(a)(4)” for “any regional office of the American Arbitration Association”.
 
-### § 220530. Other amateur sports organizations
+### § 220530. Other amateur sports organizations
 
 **(a) In General.—** An applicable amateur sports organization shall—
 
@@ -1622,23 +1622,23 @@ In subsection (e)(2), the words “the reopening is based on the motion of a par
 
 **(3)** whose membership includes any adult who is in regular contact with an amateur athlete who is a minor.
 
-(Added Pub. L. 115–126, title II, § 204(a), Feb. 14, 2018, 132 Stat. 324; amended Pub. L. 116–189, § 7(f), Oct. 30, 2020, 134 Stat. 960.)
+(Added Pub. L. 115–126, title II, § 204(a), Feb. 14, 2018, 132 Stat. 324; amended Pub. L. 116–189, § 7(f), Oct. 30, 2020, 134 Stat. 960.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (a)(2). Pub. L. 116–189, § 7(f)(1), inserted “, including communications,” after “interactions”.
+2020—Subsec. (a)(2). Pub. L. 116–189, § 7(f)(1), inserted “, including communications,” after “interactions”.
 
-Subsec. (a)(4). Pub. L. 116–189, § 7(f)(2), substituted “makes—” and subpars. (A) and (B) for “makes a report under paragraph (1).”
+Subsec. (a)(4). Pub. L. 116–189, § 7(f)(2), substituted “makes—” and subpars. (A) and (B) for “makes a report under paragraph (1).”
 
-### § 220530A. Annual report on equal treatment of athletes
+### § 220530A. Annual report on equal treatment of athletes
 
 **(a) In General.—** Not less frequently than annually, each national governing body shall submit to the corporation and Congress a report on the compliance of the national governing body with paragraphs (7) and (8) of section 220524(a).
 
 **(b) Matters To Be Included.—** Each report required by subsection (a) shall include detailed information on the median, minimum, and maximum stipends and bonuses provided to athletes, disaggregated by gender, race, and, as applicable, status of participation on a professional sports team.
 
-(Added Pub. L. 117–340, § 2(b)(2)(A), Jan. 5, 2023, 136 Stat. 6177.)
+(Added Pub. L. 117–340, § 2(b)(2)(A), Jan. 5, 2023, 136 Stat. 6177.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1652,13 +1652,13 @@ For construction of Pub. L. 117–340 as it pertains to certain rights of athlet
 
 **Codification**
 
-Another subchapter III (§ 220541 et seq.) relating to United States Center for SafeSport was redesignated subchapter IV of this chapter.
+Another subchapter III (§ 220541 et seq.) relating to United States Center for SafeSport was redesignated subchapter IV of this chapter.
 
 **Amendments**
 
-2018—Pub. L. 115–141, div. S, title III, § 302(a), Mar. 23, 2018, 132 Stat. 1127, added subchapter heading.
+2018—Pub. L. 115–141, div. S, title III, § 302(a), Mar. 23, 2018, 132 Stat. 1127, added subchapter heading.
 
-### § 220531. Grant to protect young athletes from abuse
+### § 220531. Grant to protect young athletes from abuse
 
 **(a) Authority.—** The Attorney General may award a grant to an eligible nonprofit nongovernmental entity in order to support oversight of the United States Olympic and Paralympic Committee and each national governing body with regard to safeguarding amateur athletes against abuse, including emotional, physical, and sexual abuse in sports.
 
@@ -1682,17 +1682,17 @@ Another subchapter III (§ 220541 et seq.) relating to United States Center fo
 
 **(2) Availability of grant funds.—** Funds appropriated under this section shall remain available until expended.
 
-(Added Pub. L. 115–141, div. S, title III, § 302(a), Mar. 23, 2018, 132 Stat. 1127; amended Pub. L. 116–189, §§ 4(a)(11), 7(a)(2)(A)(vi), Oct. 30, 2020, 134 Stat. 946, 957.)
+(Added Pub. L. 115–141, div. S, title III, § 302(a), Mar. 23, 2018, 132 Stat. 1127; amended Pub. L. 116–189, §§ 4(a)(11), 7(a)(2)(A)(vi), Oct. 30, 2020, 134 Stat. 946, 957.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Pub. L. 116–189, § 7(a)(2)(A)(vi)(I), substituted “and each national governing body” for “, each national governing body, and each paralympic sports organization” wherever appearing.
+2020—Pub. L. 116–189, § 7(a)(2)(A)(vi)(I), substituted “and each national governing body” for “, each national governing body, and each paralympic sports organization” wherever appearing.
 
-Pub. L. 116–189, § 4(a)(11), substituted “United States Olympic and Paralympic Committee” for “United States Olympic Committee” wherever appearing.
+Pub. L. 116–189, § 4(a)(11), substituted “United States Olympic and Paralympic Committee” for “United States Olympic Committee” wherever appearing.
 
-Subsec. (c)(2). Pub. L. 116–189, § 7(a)(2)(A)(vi)(II), struck out “each paralympic sports organization,” after “each national governing body,”.
+Subsec. (c)(2). Pub. L. 116–189, § 7(a)(2)(A)(vi)(II), struck out “each paralympic sports organization,” after “each national governing body,”.
 
 ## SUBCHAPTER IV—UNITED STATES CENTER FOR SAFESPORT
 
@@ -1700,11 +1700,11 @@ Subsec. (c)(2). Pub. L. 116–189, § 7(a)(2)(A)(vi)(II), struck out “each p
 
 **Amendments**
 
-2020—Pub. L. 116–189, §§ 5(a)(1), 8(a)(2), Oct. 30, 2020, 134 Stat. 946, 966, redesignated this subchapter, formerly subchapter III, as subchapter IV and substituted “SAFESPORT” for “SAFE SPORT” in heading.
+2020—Pub. L. 116–189, §§ 5(a)(1), 8(a)(2), Oct. 30, 2020, 134 Stat. 946, 966, redesignated this subchapter, formerly subchapter III, as subchapter IV and substituted “SAFESPORT” for “SAFE SPORT” in heading.
 
-2018—Pub. L. 115–126, title II, § 202(a), Feb. 14, 2018, 132 Stat. 320, added subchapter heading.
+2018—Pub. L. 115–126, title II, § 202(a), Feb. 14, 2018, 132 Stat. 320, added subchapter heading.
 
-### § 220541. Designation of United States Center for SafeSport
+### § 220541. Designation of United States Center for SafeSport
 
 **(a) Duties of Center.—**
 
@@ -1934,7 +1934,7 @@ Subsec. (c)(2). Pub. L. 116–189, § 7(a)(2)(A)(vi)(II), struck out “each p
 
 **(C) Treatment of privileged information.—** If, under this subsection, the Comptroller General seeks access to information contained within privileged documents or materials in the possession of the Center or the corporation, the Center or the corporation, as the case may be, shall, to the maximum extent practicable, provide the Comptroller General with the information without compromising the applicable privilege.
 
-(Added Pub. L. 115–126, title II, § 202(a), Feb. 14, 2018, 132 Stat. 320; amended Pub. L. 116–189, §§ 7(a)(2)(A)(vii), 8(a)(1), Oct. 30, 2020, 134 Stat. 957, 960.)
+(Added Pub. L. 115–126, title II, § 202(a), Feb. 14, 2018, 132 Stat. 320; amended Pub. L. 116–189, §§ 7(a)(2)(A)(vii), 8(a)(1), Oct. 30, 2020, 134 Stat. 957, 960.)
 
 **Editorial Notes**
 
@@ -1944,33 +1944,33 @@ The date of the enactment of the Empowering Olympic, Paralympic, and Amateur Ath
 
 **Amendments**
 
-2020—Pub. L. 116–189, § 8(a)(1)(A), substituted “SafeSport” for “Safe Sport” in section catchline. Text quoted in directory language of amendment was editorially conformed to the style of the catchline.
+2020—Pub. L. 116–189, § 8(a)(1)(A), substituted “SafeSport” for “Safe Sport” in section catchline. Text quoted in directory language of amendment was editorially conformed to the style of the catchline.
 
-Subsec. (a). Pub. L. 116–189, § 8(a)(1)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the duties of the United States Center for Safe Sport.
+Subsec. (a). Pub. L. 116–189, § 8(a)(1)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to the duties of the United States Center for Safe Sport.
 
-Subsec. (b). Pub. L. 116–189, § 8(a)(1)(C), substituted “subsection (a)(1)(C)” for “subsection (a)(3)”.
+Subsec. (b). Pub. L. 116–189, § 8(a)(1)(C), substituted “subsection (a)(1)(C)” for “subsection (a)(3)”.
 
-Subsec. (d)(3). Pub. L. 116–189, § 8(a)(1)(D)(iii), added par. (3). Former par. (3) redesignated (4).
+Subsec. (d)(3). Pub. L. 116–189, § 8(a)(1)(D)(iii), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (d)(3)(C). Pub. L. 116–189, § 8(a)(1)(D)(i), added subpar. (C).
+Subsec. (d)(3)(C). Pub. L. 116–189, § 8(a)(1)(D)(i), added subpar. (C).
 
-Pub. L. 116–189, § 7(a)(2)(A)(vii), struck out subpar. (C) which read as follows: “a paralympic sports organization;”.
+Pub. L. 116–189, § 7(a)(2)(A)(vii), struck out subpar. (C) which read as follows: “a paralympic sports organization;”.
 
-Subsec. (d)(4). Pub. L. 116–189, § 8(a)(1)(D)(ii), redesignated par. (3) as (4).
+Subsec. (d)(4). Pub. L. 116–189, § 8(a)(1)(D)(ii), redesignated par. (3) as (4).
 
-Subsecs. (e) to (j). Pub. L. 116–189, § 8(a)(1)(E), added subsecs. (e) to (j).
+Subsecs. (e) to (j). Pub. L. 116–189, § 8(a)(1)(E), added subsecs. (e) to (j).
 
-### § 220542. Additional duties
+### § 220542. Additional duties
 
 **(a) In General.—** The Center shall—
 
-**(1)** develop training, oversight practices, policies, and procedures for implementation by a national governing body to prevent the abuse, including emotional, physical, and sexual abuse, of any amateur athlete; 1
+**(1)** develop training, oversight practices, policies, and procedures for implementation by a national governing body to prevent the abuse, including emotional, physical, and sexual abuse, of any amateur athlete; 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
-**(2)** include in the policies and procedures developed under section 220541(a)(3)— 2
+**(2)** include in the policies and procedures developed under section 220541(a)(3)— 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 **(A)** a requirement that all adult members of a national governing body or a facility under the jurisdiction of a national governing body, and all adults authorized by such members to interact with an amateur athlete, report immediately any allegation of child abuse of an amateur athlete who is a minor to—
 
@@ -2020,55 +2020,55 @@ Subsecs. (e) to (j). Pub. L. 116–189, § 8(a)(1)(E), added subsecs. (e) to (
 
 **(b) Rule of Construction.—** Nothing in this section shall be construed to limit the ability of a national governing body to impose an interim measure to prevent an individual who is the subject of an allegation of sexual abuse from interacting with an amateur athlete prior to the Center exercising its jurisdiction over a matter.
 
-(Added Pub. L. 115–126, title II, § 202(a), Feb. 14, 2018, 132 Stat. 322; amended Pub. L. 116–189, §§ 7(a)(2)(A)(viii), 8(b), Oct. 30, 2020, 134 Stat. 957, 966.)
+(Added Pub. L. 115–126, title II, § 202(a), Feb. 14, 2018, 132 Stat. 322; amended Pub. L. 116–189, §§ 7(a)(2)(A)(viii), 8(b), Oct. 30, 2020, 134 Stat. 957, 966.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Par. (3) of section 220541(a), referred to in subsec. (a)(2), was struck out in the general amendment of subsection (a) of section 220541 of this title by Pub. L. 116–189, § 8(a)(1)(B), Oct. 30, 2020, 134 Stat. 960. See section 220541(a)(1)(C) of this title.
+Par. (3) of section 220541(a), referred to in subsec. (a)(2), was struck out in the general amendment of subsection (a) of section 220541 of this title by Pub. L. 116–189, § 8(a)(1)(B), Oct. 30, 2020, 134 Stat. 960. See section 220541(a)(1)(C) of this title.
 
 **Amendments**
 
-2020—Pub. L. 116–189, § 8(b)(1), struck out period at end of section catchline.
+2020—Pub. L. 116–189, § 8(b)(1), struck out period at end of section catchline.
 
-Subsec. (a)(1). Pub. L. 116–189, § 8(b)(2)(A), substituted semicolon at end for “; and”.
+Subsec. (a)(1). Pub. L. 116–189, § 8(b)(2)(A), substituted semicolon at end for “; and”.
 
-Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), struck out “or paralympic sports organization” after “national governing body”.
+Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), struck out “or paralympic sports organization” after “national governing body”.
 
-Subsec. (a)(2)(A). Pub. L. 116–189, § 8(b)(2)(B)(i), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (a)(2)(A). Pub. L. 116–189, § 8(b)(2)(B)(i), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
 “(i) the Center, whenever such members or adults learn of facts leading them to suspect reasonably that an amateur athlete who is a minor has suffered an incident of child abuse; and
 
 “(ii) law enforcement consistent with section 226 of the Victims of Child Abuse Act of 1990 (34 U.S.C. 20341);”.
 
-Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), (II)(aa), struck out “, a paralympic sports organization,” after “members of a national governing body” and “or paralympic sports organization” after “jurisdiction of a national governing body” in introductory provisions.
+Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), (II)(aa), struck out “, a paralympic sports organization,” after “members of a national governing body” and “or paralympic sports organization” after “jurisdiction of a national governing body” in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 116–189, § 8(b)(2)(B)(iii), added subpar. (B). Former subpar. (B) redesignated (E).
+Subsec. (a)(2)(B). Pub. L. 116–189, § 8(b)(2)(B)(iii), added subpar. (B). Former subpar. (B) redesignated (E).
 
-Subsec. (a)(2)(C), (D). Pub. L. 116–189, § 8(b)(2)(B)(iii), added subpars. (C) and (D). Former subpars. (C) and (D) redesignated (F) and (G), respectively.
+Subsec. (a)(2)(C), (D). Pub. L. 116–189, § 8(b)(2)(B)(iii), added subpars. (C) and (D). Former subpars. (C) and (D) redesignated (F) and (G), respectively.
 
-Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), struck out “or paralympic sports organization” after “national governing body”.
+Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), struck out “or paralympic sports organization” after “national governing body”.
 
-Subsec. (a)(2)(E). Pub. L. 116–189, § 8(b)(2)(B)(ii), redesignated subpar. (B) as (E). Former subpar. (E) redesignated (H).
+Subsec. (a)(2)(E). Pub. L. 116–189, § 8(b)(2)(B)(ii), redesignated subpar. (B) as (E). Former subpar. (E) redesignated (H).
 
-Pub. L. 116–189, § 7(a)(2)(A)(viii)(II)(bb), struck out “or a paralympic sports organization of each national governing body and paralympic sports organization” after “a national governing body”.
+Pub. L. 116–189, § 7(a)(2)(A)(viii)(II)(bb), struck out “or a paralympic sports organization of each national governing body and paralympic sports organization” after “a national governing body”.
 
-Subsec. (a)(2)(F). Pub. L. 116–189, § 8(b)(2)(B)(ii), (iv), redesignated subpar. (C) as (F) and inserted “, including communications,” after “interactions”. Former subpar. (F) redesignated (I).
+Subsec. (a)(2)(F). Pub. L. 116–189, § 8(b)(2)(B)(ii), (iv), redesignated subpar. (C) as (F) and inserted “, including communications,” after “interactions”. Former subpar. (F) redesignated (I).
 
-Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), struck out “or paralympic sports organization” after “a national governing body” in introductory provisions.
+Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), struck out “or paralympic sports organization” after “a national governing body” in introductory provisions.
 
-Subsec. (a)(2)(F)(i). Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), (II)(cc), substituted “a national governing body or an adult” for “a national governing body or paralympic sports organization, or an adult” and struck out “, paralympic sports organization,” after “by a national governing body” and “, paralympic sports organizations,” after “national governing bodies”.
+Subsec. (a)(2)(F)(i). Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), (II)(cc), substituted “a national governing body or an adult” for “a national governing body or paralympic sports organization, or an adult” and struck out “, paralympic sports organization,” after “by a national governing body” and “, paralympic sports organizations,” after “national governing bodies”.
 
-Subsec. (a)(2)(G). Pub. L. 116–189, § 8(b)(2)(B)(ii), (v), redesignated subpar. (D) as (G) and amended it generally. Prior to amendment, subpar. read as follows: “procedures to prohibit retaliation, by any national governing body or paralympic sports organization, against any individual who makes a report under subparagraph (A) or subparagraph (B);”.
+Subsec. (a)(2)(G). Pub. L. 116–189, § 8(b)(2)(B)(ii), (v), redesignated subpar. (D) as (G) and amended it generally. Prior to amendment, subpar. read as follows: “procedures to prohibit retaliation, by any national governing body or paralympic sports organization, against any individual who makes a report under subparagraph (A) or subparagraph (B);”.
 
-Subsec. (a)(2)(H), (I). Pub. L. 116–189, § 8(b)(2)(B)(ii), redesignated subpars. (E) and (F) as (H) and (I), respectively.
+Subsec. (a)(2)(H), (I). Pub. L. 116–189, § 8(b)(2)(B)(ii), redesignated subpars. (E) and (F) as (H) and (I), respectively.
 
-Subsec. (a)(2)(J), (K). Pub. L. 116–189, § 8(b)(2)(B)(vi)–(viii), added subpars. (J) and (K).
+Subsec. (a)(2)(J), (K). Pub. L. 116–189, § 8(b)(2)(B)(vi)–(viii), added subpars. (J) and (K).
 
-Subsec. (b). Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), struck out “or paralympic sports organization” after “a national governing body”.
+Subsec. (b). Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), struck out “or paralympic sports organization” after “a national governing body”.
 
-### § 220543. Records, audits, and reports
+### § 220543. Records, audits, and reports
 
 **(a) Records.—** The Center shall keep correct and complete records of account.
 
@@ -2158,7 +2158,7 @@ Subsec. (b). Pub. L. 116–189, § 7(a)(2)(A)(viii)(I), struck out “or paral
 
 **(2)** “independent auditor” means an independent certified public accountant or independent licensed public accountant, certified or licensed by a regulatory authority of a State or a political subdivision of a State, who meets the standards specified in generally accepted accounting principles.
 
-(Added Pub. L. 115–126, title II, § 202(a), Feb. 14, 2018, 132 Stat. 323; amended Pub. L. 116–189, § 8(c), Oct. 30, 2020, 134 Stat. 968.)
+(Added Pub. L. 115–126, title II, § 202(a), Feb. 14, 2018, 132 Stat. 323; amended Pub. L. 116–189, § 8(c), Oct. 30, 2020, 134 Stat. 968.)
 
 **Editorial Notes**
 
@@ -2178,9 +2178,9 @@ Section 501(c) of the Internal Revenue Code of 1986, referred to in subsec. (b)(
 
 **Amendments**
 
-2020—Pub. L. 116–189, § 5(a)(2), Oct. 30, 2020, 134 Stat. 946, added subchapter heading.
+2020—Pub. L. 116–189, § 5(a)(2), Oct. 30, 2020, 134 Stat. 946, added subchapter heading.
 
-### § 220551. Definitions
+### § 220551. Definitions
 
 In this subchapter, the term “joint resolution” means a joint resolution—
 
@@ -2204,21 +2204,21 @@ In this subchapter, the term “joint resolution” means a joint resolution—
 
 **(ii)** the matter after the resolving clause is only as follows: “That Congress determines that \_\_\_\_\_\_\_\_\_, which is recognized as a national governing body under section 220521 of title 36, United States Code, has failed to fulfill its duties, as described in section 220524 of title 36, United States Code”, the blank space being filled in with the name of the applicable national governing body.
 
-(Added Pub. L. 116–189, § 5(a)(2), Oct. 30, 2020, 134 Stat. 946.)
+(Added Pub. L. 116–189, § 5(a)(2), Oct. 30, 2020, 134 Stat. 946.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 116–189, § 5(c), Oct. 30, 2020, 134 Stat. 947, provided that: “The amendments made by this section [enacting this subchapter and redesignating subchapter III relating to United States Center for SafeSport as subchapter IV] shall take effect on the date that is 1 year after the date of the enactment of this Act [Oct. 30, 2020].”
+Pub. L. 116–189, § 5(c), Oct. 30, 2020, 134 Stat. 947, provided that: “The amendments made by this section [enacting this subchapter and redesignating subchapter III relating to United States Center for SafeSport as subchapter IV] shall take effect on the date that is 1 year after the date of the enactment of this Act [Oct. 30, 2020].”
 
-### § 220552. Dissolution of board of directors of corporation and termination of recognition of national governing bodies
+### § 220552. Dissolution of board of directors of corporation and termination of recognition of national governing bodies
 
 **(a) Dissolution of Board of Directors of Corporation.—** Effective on the date of enactment of a joint resolution described in section 220551(2)(A) with respect to the board of directors of the corporation, such board of directors shall be dissolved.
 
 **(b) Termination of Recognition of National Governing Body.—** Effective on the date of enactment of a joint resolution described in section 220551(2)(B) with respect to a national governing body, the recognition of the applicable amateur sports organization as a national governing body shall cease to have force or effect.
 
-(Added Pub. L. 116–189, § 5(a)(2), Oct. 30, 2020, 134 Stat. 947.)
+(Added Pub. L. 116–189, § 5(a)(2), Oct. 30, 2020, 134 Stat. 947.)
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1531—THE NATIONAL SOCIETY OF THE DAUGHTERS OF THE AMERICAN REVOLUTION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1531—THE NATIONAL SOCIETY OF THE DAUGHTERS OF THE AMERICAN REVOLUTION"
 identifier: "/us/usc/t36/stII/ptB/ch1531"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1531—THE NATIONAL SOCIETY OF THE DAUGHTERS OF THE AMERICAN REVOLUTION
 
-## § 153101. Organization
+## § 153101. Organization
 
 The National Society of the Daughters of the American Revolution (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
 
@@ -25,11 +25,11 @@ The National Society of the Daughters of the American Revolution (in this chapte
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153101 | 36:18 (words before “for patriotic”). | Feb. 20, 1896, ch. 23, § 1 (words before “for patriotic”), 29 Stat. 8. |
+| 153101 | 36:18 (words before “for patriotic”). | Feb. 20, 1896, ch. 23, § 1 (words before “for patriotic”), 29 Stat. 8. |
 
 This section is substituted for the source provision for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 153102. Purposes
+## § 153102. Purposes
 
 The purposes of the corporation are patriotic, historical, and educational, and include—
 
@@ -57,9 +57,9 @@ The purposes of the corporation are patriotic, historical, and educational, and 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153102 | 36:18 (words beginning with “for patriotic”). | Feb. 20, 1896, ch. 23, § 1 (words beginning with “for patriotic”), 29 Stat. 8. |
+| 153102 | 36:18 (words beginning with “for patriotic”). | Feb. 20, 1896, ch. 23, § 1 (words beginning with “for patriotic”), 29 Stat. 8. |
 
-## § 153103. Powers
+## § 153103. Powers
 
 The corporation may—
 
@@ -75,13 +75,13 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153103 | 36:18a (1st sentence). | Feb. 20, 1896, ch. 23, § 2 (1st sentence), 29 Stat. 9; Mar. 3, 1915, ch. 89, 38 Stat. 955; Feb. 5, 1926, ch. 11, 44 Stat. 4; July 30, 1951, ch. 255, 65 Stat. 130; Oct. 1, 1976, Pub. L. 94–443, § 1, 90 Stat. 1475. |
+| 153103 | 36:18a (1st sentence). | Feb. 20, 1896, ch. 23, § 2 (1st sentence), 29 Stat. 9; Mar. 3, 1915, ch. 89, 38 Stat. 955; Feb. 5, 1926, ch. 11, 44 Stat. 4; July 30, 1951, ch. 255, 65 Stat. 130; Oct. 1, 1976, Pub. L. 94–443, § 1, 90 Stat. 1475. |
 
 In clause (1), the words “not inconsistent with law” are omitted as unnecessary.
 
 Clause (3) is substituted for “acquire by purchase, gift, devise, or bequest and to hold, convey, or otherwise dispose of such property, real or personal, as may be convenient or necessary for its lawful purposes” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 153104. Exclusive right to name, seals, emblems, and badges
+## § 153104. Exclusive right to name, seals, emblems, and badges
 
 The corporation and its subordinate divisions have the exclusive right to use the name “National Society of the Daughters of the American Revolution”. The corporation has the exclusive right to use and to allow others to use seals, emblems, and badges the corporation adopts.
 
@@ -91,11 +91,11 @@ The corporation and its subordinate divisions have the exclusive right to use th
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153104 | 36:18c. | Feb. 20, 1896, ch. 23, § 4, as added Oct. 1, 1976, Pub. L. 94–443, § 2, 90 Stat. 1475. |
+| 153104 | 36:18c. | Feb. 20, 1896, ch. 23, § 4, as added Oct. 1, 1976, Pub. L. 94–443, § 2, 90 Stat. 1475. |
 
 The word “sole” is omitted as included in “exclusive”. The words “the corporation adopts” are substituted for “as have heretofore been adopted or used by the National Society of the Daughters of the American Revolution” for consistency in the revised title.
 
-## § 153105. Principal office
+## § 153105. Principal office
 
 The corporation shall have its headquarters or principal office in the District of Columbia.
 
@@ -105,9 +105,9 @@ The corporation shall have its headquarters or principal office in the District 
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153105 | 36:18a (last sentence). | Feb. 20, 1896, ch. 23, § 2 (last sentence), 29 Stat. 9; Mar. 3, 1915, ch. 89, 38 Stat. 955; Feb. 5, 1926, ch. 11, 44 Stat. 4; July 30, 1951, ch. 255, 65 Stat. 130; Oct. 1, 1976, Pub. L. 94–443, § 1, 90 Stat. 1475. |
+| 153105 | 36:18a (last sentence). | Feb. 20, 1896, ch. 23, § 2 (last sentence), 29 Stat. 9; Mar. 3, 1915, ch. 89, 38 Stat. 955; Feb. 5, 1926, ch. 11, 44 Stat. 4; July 30, 1951, ch. 255, 65 Stat. 130; Oct. 1, 1976, Pub. L. 94–443, § 1, 90 Stat. 1475. |
 
-## § 153106. Deposit of historical material in Smithsonian Institution
+## § 153106. Deposit of historical material in Smithsonian Institution
 
 The Regents of the Smithsonian Institution may permit the corporation to deposit its collections, manuscripts, books, pamphlets, and other material for history in the Smithsonian Institution or in the National Museum, on conditions and under rules they prescribe.
 
@@ -117,11 +117,11 @@ The Regents of the Smithsonian Institution may permit the corporation to deposit
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153106 | 36:18b (last sentence). | Feb. 20, 1896, ch. 23, § 3 (last sentence), 29 Stat. 9. |
+| 153106 | 36:18b (last sentence). | Feb. 20, 1896, ch. 23, § 3 (last sentence), 29 Stat. 9. |
 
 The words “at their discretion” are omitted as unnecessary.
 
-## § 153107. Annual report
+## § 153107. Annual report
 
 The corporation shall submit an annual report to the Secretary of the Smithsonian Institution on the activities of the corporation. The Secretary shall communicate to Congress any part of the report that the Secretary considers of national interest and importance.
 
@@ -131,7 +131,7 @@ The corporation shall submit an annual report to the Secretary of the Smithsonia
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 153107 | 36:18b (1st sentence). | Feb. 20, 1896, ch. 23, § 3 (1st sentence), 29 Stat. 9. |
+| 153107 | 36:18b (1st sentence). | Feb. 20, 1896, ch. 23, § 3 (1st sentence), 29 Stat. 9. |
 
 The words “submit an annual report” are substituted for “report annually” for consistency in the revised title.
 

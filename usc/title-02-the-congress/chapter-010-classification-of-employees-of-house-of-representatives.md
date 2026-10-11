@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 10—CLASSIFICATION OF EMPLOYEES OF HOUSE OF REPRESENTATIVES
 
-## § 291. Congressional declaration of purpose
+## § 291. Congressional declaration of purpose
 
 It is the purpose of this chapter to provide a classification system for the equitable establishment and adjustment of rates of compensation for, and for the efficient utilization of personnel in, certain positions under the House of Representatives to which this chapter applies, through—
 
@@ -29,7 +29,7 @@ It is the purpose of this chapter to provide a classification system for the equ
 
 **(3)** the adoption of organization and position titles in the House which accurately reflect the respective functions, duties, and responsibilities of those organizations and positions in the House to which this chapter applies.
 
-(Pub. L. 88–652, § 2, Oct. 13, 1964, 78 Stat. 1079.)
+(Pub. L. 88–652, § 2, Oct. 13, 1964, 78 Stat. 1079.)
 
 **Editorial Notes**
 
@@ -41,15 +41,15 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Effective Date**
 
-Pub. L. 88–652, § 17, Oct. 13, 1964, 78 Stat. 1084, provided that: “This Act [enacting this chapter and amending sections 88c and 4131 of this title] shall become effective on January 1, 1965.”
+Pub. L. 88–652, § 17, Oct. 13, 1964, 78 Stat. 1084, provided that: “This Act [enacting this chapter and amending sections 88c and 4131 of this title] shall become effective on January 1, 1965.”
 
 **Short Title**
 
-Pub. L. 88–652, § 1, Oct. 13, 1964, 78 Stat. 1079, provided that: “This Act [see Tables for classification] may be cited as the ‘House Employees Position Classification Act’.”
+Pub. L. 88–652, § 1, Oct. 13, 1964, 78 Stat. 1079, provided that: “This Act [see Tables for classification] may be cited as the ‘House Employees Position Classification Act’.”
 
 **Savings Provision**
 
-Pub. L. 88–652, § 15, Oct. 13, 1964, 78 Stat. 1084, provided that:
+Pub. L. 88–652, § 15, Oct. 13, 1964, 78 Stat. 1084, provided that:
 
 > **“(a)** Notwithstanding any provision of this Act [this chapter], the aggregate (gross) rate of compensation of any employee immediately prior to the effective date of this Act [Jan. 1, 1965] shall not be reduced by reason of the enactment of this Act.
 
@@ -61,7 +61,7 @@ Pub. L. 88–652, § 15, Oct. 13, 1964, 78 Stat. 1084, provided that:
 
 > shall be held and considered to be in compliance with such law on and after such effective date, notwithstanding the enactment of this Act, so long as such employee continues to receive, without break in service of more than thirty days, the same or lower rate of basic compensation in a position to which this Act does not apply.”
 
-## § 292. Positions affected
+## § 292. Positions affected
 
 This chapter shall apply to—
 
@@ -73,7 +73,7 @@ This chapter shall apply to—
 
 **(4)** all positions under the House Radio and Television Correspondents’ Gallery and the House Periodical Press Gallery.
 
-(Pub. L. 88–652, § 3, Oct. 13, 1964, 78 Stat. 1079; Pub. L. 104–53, title I, § 108(1), Nov. 19, 1995, 109 Stat. 522.)
+(Pub. L. 88–652, § 3, Oct. 13, 1964, 78 Stat. 1079; Pub. L. 104–53, title I, § 108(1), Nov. 19, 1995, 109 Stat. 522.)
 
 **Editorial Notes**
 
@@ -91,7 +91,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under section 291 of this title.
 
-## § 293. Compensation schedules
+## § 293. Compensation schedules
 
 **(a)**
 
@@ -107,7 +107,7 @@ Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a
 
 **(b)** The committee shall establish and maintain, and, from time to time, may revise, for positions under the Clerk, the Sergeant at Arms, the Chief Administrative Officer, and the Inspector General of the House of Representatives, the compensation for which, in the judgment of the committee, should be fixed and adjusted from time to time in accordance with prevailing rates, a compensation schedule providing for per annum or per hour rates, or both, established in accordance with prevailing rates and consisting of such number of compensation levels and steps as the committee deems appropriate, which shall be known as the “House Wage Schedule” and for which the symbol shall be “HWS”. The rates of compensation for such positions shall be in accordance with such schedule. Notwithstanding any other provision of this chapter, for purposes of applying the adjustment made by the committee under this subsection for 2002 and each succeeding year (other than any period during which a memorandum of understanding described in section 2168(a) of this title is in effect), positions under the Chief Administrative Officer shall include positions of the United States Capitol telephone exchange under the Chief Administrative Officer.
 
-(Pub. L. 88–652, § 4, Oct. 13, 1964, 78 Stat. 1079; Pub. L. 104–53, title I, § 108(2), Nov. 19, 1995, 109 Stat. 522; Pub. L. 104–186, title II, § 209(1), Aug. 20, 1996, 110 Stat. 1743; Pub. L. 107–68, title III, § 310, Nov. 12, 2001, 115 Stat. 592; Pub. L. 108–447, div. G, title II, § 215(d), Dec. 8, 2004, 118 Stat. 3198.)
+(Pub. L. 88–652, § 4, Oct. 13, 1964, 78 Stat. 1079; Pub. L. 104–53, title I, § 108(2), Nov. 19, 1995, 109 Stat. 522; Pub. L. 104–186, title II, § 209(1), Aug. 20, 1996, 110 Stat. 1743; Pub. L. 107–68, title III, § 310, Nov. 12, 2001, 115 Stat. 592; Pub. L. 108–447, div. G, title II, § 215(d), Dec. 8, 2004, 118 Stat. 3198.)
 
 **Editorial Notes**
 
@@ -143,15 +143,15 @@ Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a
 
 Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 
-## §§ 293a to 293c. Omitted
+## §§ 293a to 293c. Omitted
 
-Section 293a, Pub. L. 89–301, § 11(c), Oct. 29, 1965, 79 Stat. 1120, required compensation of employees of House of Representatives whose compensation is fixed under this chapter to be increased by amounts equal to increases provided by section 60e–12(a) of this title.
+Section 293a, Pub. L. 89–301, § 11(c), Oct. 29, 1965, 79 Stat. 1120, required compensation of employees of House of Representatives whose compensation is fixed under this chapter to be increased by amounts equal to increases provided by section 60e–12(a) of this title.
 
-Section 293b, Pub. L. 89–504, title III, § 302(c), July 18, 1966, 80 Stat. 295, required compensation of employees of House of Representatives whose compensation is fixed under this chapter to be increased by amounts equal to increases provided by section 60e–13(a) of this title.
+Section 293b, Pub. L. 89–504, title III, § 302(c), July 18, 1966, 80 Stat. 295, required compensation of employees of House of Representatives whose compensation is fixed under this chapter to be increased by amounts equal to increases provided by section 60e–13(a) of this title.
 
-Section 293c, Pub. L. 90–206, title II, § 214(c), Dec. 16, 1967, 81 Stat. 636, required compensation of employees of House of Representatives whose compensation is fixed under this chapter to be increased by amounts equal to increases provided by section 60e–14(a) of this title.
+Section 293c, Pub. L. 90–206, title II, § 214(c), Dec. 16, 1967, 81 Stat. 636, required compensation of employees of House of Representatives whose compensation is fixed under this chapter to be increased by amounts equal to increases provided by section 60e–14(a) of this title.
 
-## § 294. Position standards and descriptions
+## § 294. Position standards and descriptions
 
 **(a)**
 
@@ -201,7 +201,7 @@ Section 293c, Pub. L. 90–206, title II, § 214(c), Dec. 16, 1967, 81 Stat. 6
 
 All such actions of the committee shall be binding on the House officer and organization unit concerned and shall be the basis for payment of compensation and for other personnel benefits and transactions until otherwise changed by the committee.
 
-(Pub. L. 88–652, § 5, Oct. 13, 1964, 78 Stat. 1080; Pub. L. 104–53, title I, § 108(3), (4), Nov. 19, 1995, 109 Stat. 522; Pub. L. 104–186, title II, § 209(2), Aug. 20, 1996, 110 Stat. 1743.)
+(Pub. L. 88–652, § 5, Oct. 13, 1964, 78 Stat. 1080; Pub. L. 104–53, title I, § 108(3), (4), Nov. 19, 1995, 109 Stat. 522; Pub. L. 104–186, title II, § 209(2), Aug. 20, 1996, 110 Stat. 1743.)
 
 **Editorial Notes**
 
@@ -227,11 +227,11 @@ Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a
 
 Certain functions of Recording Studio and Officers of House of Representatives transferred to Director of Non-legislative and Financial Services by section 7 of House Resolution No. 423, One Hundred Second Congress, Apr. 9, 1992. Director of Non-legislative and Financial Services replaced by Chief Administrative Officer of House of Representatives by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995.
 
-## § 295. Placement of positions in compensation schedules
+## § 295. Placement of positions in compensation schedules
 
 The committee shall place each position (in existence on, or established after, January 1, 1965) under the House of Representatives to which this chapter applies in its appropriate class, and in its appropriate compensation level of the appropriate compensation schedule, in accordance with the position standards and position descriptions provided for in section 294 of this title. The committee is authorized, when circumstances so warrant, to change any such position from one class or compensation level to another class or compensation level. All actions of the committee under this section shall be binding on the House officer and organization unit concerned and shall be the basis for payment of compensation and for other personnel benefits and transactions until otherwise changed by the committee.
 
-(Pub. L. 88–652, § 6, Oct. 13, 1964, 78 Stat. 1081.)
+(Pub. L. 88–652, § 6, Oct. 13, 1964, 78 Stat. 1081.)
 
 **Editorial Notes**
 
@@ -245,7 +245,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under section 291 of this title.
 
-## § 296. Step increases; waiting periods; service in Armed Forces; automatic advancement
+## § 296. Step increases; waiting periods; service in Armed Forces; automatic advancement
 
 **(a)** Each employee in a compensation level of the House Employees Schedule (HS), who has not attained the highest scheduled rate of compensation for the compensation level (HS level) in which his position is placed, shall be advanced successively to the next higher step of such HS level, as follows:
 
@@ -271,7 +271,7 @@ Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a
 
 **(3)** the benefit of successive step increases under such system of step increases shall be preserved, under regulations prescribed by the committee, for employees whose continuous service is interrupted by service in the Armed Forces of the United States.
 
-(Pub. L. 88–652, § 7, Oct. 13, 1964, 78 Stat. 1081.)
+(Pub. L. 88–652, § 7, Oct. 13, 1964, 78 Stat. 1081.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -279,7 +279,7 @@ Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a
 
 Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under section 291 of this title.
 
-## § 297. Appointments and reclassifications to higher compensation levels
+## § 297. Appointments and reclassifications to higher compensation levels
 
 **(a)** Each employee in a compensation level of the House Employees Schedule (HS), who is appointed to a position in a higher compensation level of such schedule, or whose position is placed in a higher compensation level of such schedule pursuant to a reclassification of such position, shall be paid compensation in such higher compensation level, in accordance with the following provisions, whichever is first applicable in the following numerical order of precedence:
 
@@ -291,7 +291,7 @@ Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a
 
 **(b)** The committee may provide by regulations for the payment of compensation, at an appropriate compensation step determined in accordance with such regulations, to each employee subject to the House Wage Schedule (HWS) who is appointed to a position in a higher compensation level of such schedule or whose position is placed in a higher compensation level of such schedule pursuant to a reclassification of such position.
 
-(Pub. L. 88–652, § 8, Oct. 13, 1964, 78 Stat. 1082.)
+(Pub. L. 88–652, § 8, Oct. 13, 1964, 78 Stat. 1082.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -299,11 +299,11 @@ Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a
 
 Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under section 291 of this title.
 
-## § 298. Reductions in compensation level
+## § 298. Reductions in compensation level
 
 Each employee in a position of a compensation level of the House Employees Schedule (HS) or the House Wage Schedule (HWS), whose employment in such position and level is terminated and who is reemployed, with or without break in service, in a position in a lower compensation level (HS level or HWS level) of such schedule, or whose position is placed in a lower compensation level of such schedule pursuant to a reclassification of such position, shall be placed by the committee in such step of such lower compensation level as the committee deems appropriate.
 
-(Pub. L. 88–652, § 9, Oct. 13, 1964, 78 Stat. 1083.)
+(Pub. L. 88–652, § 9, Oct. 13, 1964, 78 Stat. 1083.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -311,21 +311,21 @@ Each employee in a position of a compensation level of the House Employees Sched
 
 Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under section 291 of this title.
 
-## § 299. Repealed. Pub. L. 106–554, § 1(a)(2) [title I, § 102(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–100
+## § 299. Repealed. Pub. L. 106–554, § 1(a)(2) [title I, § 102(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–100
 
-Section, Pub. L. 88–652, § 10, Oct. 13, 1964, 78 Stat. 1083, related to compensation level of individual appointed to position subject to House Employees Schedule or House Wage Schedule.
+Section, Pub. L. 88–652, § 10, Oct. 13, 1964, 78 Stat. 1083, related to compensation level of individual appointed to position subject to House Employees Schedule or House Wage Schedule.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Pub. L. 106–554, § 1(a)(2) [title I, § 102(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–100, provided that: “The amendment made by subsection (a) [repealing this section] shall apply with respect to employees appointed on or after October 1, 2000.”
+Pub. L. 106–554, § 1(a)(2) [title I, § 102(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–100, provided that: “The amendment made by subsection (a) [repealing this section] shall apply with respect to employees appointed on or after October 1, 2000.”
 
-## § 300. Establishment of positions; payment from applicable accounts
+## § 300. Establishment of positions; payment from applicable accounts
 
 The committee may authorize the establishment of additional positions of the kind to which this chapter applies, on a permanent basis or on a temporary basis of not to exceed six months’ duration, whenever, in the judgment of the committee, such action is warranted in the interests of the orderly and efficient operation of the House of Representatives. The compensation of each such position may be paid out of the applicable accounts of the House of Representatives until otherwise provided by law. An additional position of the kind to which this chapter applies shall not be established without authorization of the committee.
 
-(Pub. L. 88–652, § 11, Oct. 13, 1964, 78 Stat. 1083; Pub. L. 104–186, title II, § 209(3), Aug. 20, 1996, 110 Stat. 1743.)
+(Pub. L. 88–652, § 11, Oct. 13, 1964, 78 Stat. 1083; Pub. L. 104–186, title II, § 209(3), Aug. 20, 1996, 110 Stat. 1743.)
 
 **Editorial Notes**
 
@@ -343,7 +343,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under section 291 of this title.
 
-## § 301. Preservation of existing appointing authorities
+## § 301. Preservation of existing appointing authorities
 
 This chapter shall not be held or considered to change or otherwise affect—
 
@@ -351,7 +351,7 @@ This chapter shall not be held or considered to change or otherwise affect—
 
 **(2)** any authority to make appointments to positions under the House of Representatives, irrespective of whether such positions are within the purview of this chapter.
 
-(Pub. L. 88–652, § 12, Oct. 13, 1964, 78 Stat. 1083.)
+(Pub. L. 88–652, § 12, Oct. 13, 1964, 78 Stat. 1083.)
 
 **Editorial Notes**
 
@@ -365,11 +365,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under section 291 of this title.
 
-## § 302. Regulations
+## § 302. Regulations
 
 The committee is authorized to prescribe such regulations as may be necessary to carry out the purposes of this chapter.
 
-(Pub. L. 88–652, § 13, Oct. 13, 1964, 78 Stat. 1084.)
+(Pub. L. 88–652, § 13, Oct. 13, 1964, 78 Stat. 1084.)
 
 **Editorial Notes**
 
@@ -383,11 +383,11 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Section effective Jan. 1, 1965, see section 17 of Pub. L. 88–652, set out as a note under section 291 of this title.
 
-## § 303. Dual compensation
+## § 303. Dual compensation
 
 For the purposes of applicable law relating to the payment to any employee subject to the House Employees Schedule or the House Wage Schedule of compensation from more than one civilian office or position, the rate of basic compensation of each employee subject to any such schedule shall be held and considered to be that rate which, when increased by additional compensation then currently authorized by law for House employees generally, equals or most nearly equals the per annum rate of compensation of such employee under such schedule.
 
-(Pub. L. 88–652, § 14, Oct. 13, 1964, 78 Stat. 1084.)
+(Pub. L. 88–652, § 14, Oct. 13, 1964, 78 Stat. 1084.)
 
 **Statutory Notes and Related Subsidiaries**
 

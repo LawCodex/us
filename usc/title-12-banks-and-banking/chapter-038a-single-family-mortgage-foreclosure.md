@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 38A—SINGLE FAMILY MORTGAGE FORECLOSURE
 
-## § 3751. Findings and purpose
+## § 3751. Findings and purpose
 
 **(a) Findings** The Congress finds that—
 
@@ -47,9 +47,9 @@ retrieved: 2026-10-11
 
 **(1)** are held by the Secretary pursuant to title I or title II of the National Housing Act [12 U.S.C. 1702 et seq., 1707 et seq.]; or
 
-**(2)** secure loans obligated by the Secretary under section 1452b 1
+**(2)** secure loans obligated by the Secretary under section 1452b 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 42.
 
@@ -59,9 +59,9 @@ of title 42.
 
 **References in Text**
 
-The National Housing Act, referred to in subsec. (b)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsec. (b)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-Section 1452b of title 42, referred to in subsec. (b)(2), was repealed by Pub. L. 101–625, title II, § 289(b)(1), Nov. 28, 1990, 104 Stat. 4128.
+Section 1452b of title 42, referred to in subsec. (b)(2), was repealed by Pub. L. 101–625, title II, § 289(b)(1), Nov. 28, 1990, 104 Stat. 4128.
 
 **Codification**
 
@@ -75,9 +75,9 @@ Pub. L. 103–327, title II, Sept. 28, 1994, 108 Stat. 2316, provided in part th
 
 **Short Title**
 
-Section 801 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327, title II [title VIII, § 801], Sept. 28, 1994, 108 Stat. 2316, provided in part, that: “This title [enacting this chapter] may be cited as the ‘Single Family Mortgage Foreclosure Act of 1994’.”
+Section 801 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327, title II [title VIII, § 801], Sept. 28, 1994, 108 Stat. 2316, provided in part, that: “This title [enacting this chapter] may be cited as the ‘Single Family Mortgage Foreclosure Act of 1994’.”
 
-## § 3752. Definitions
+## § 3752. Definitions
 
 For purposes of this chapter, the following definitions shall apply:
 
@@ -149,7 +149,7 @@ The term “security property” means the property (real, personal or mixed) or
 
 **References in Text**
 
-The National Housing Act, referred to in par. (10)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in par. (10)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 **Codification**
 
@@ -161,7 +161,7 @@ Section is based on section 803 of title VIII of S. 2281, One Hundred Third Cong
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-## § 3753. Applicability
+## § 3753. Applicability
 
 Single family mortgages encumbering real estate located in any State may be foreclosed by the Secretary in accordance with this chapter, or pursuant to other foreclosure procedures available, at the option of the Secretary.
 
@@ -173,7 +173,7 @@ Single family mortgages encumbering real estate located in any State may be fore
 
 Section is based on section 804 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3754. Designation of foreclosure commissioner
+## § 3754. Designation of foreclosure commissioner
 
 **(a) In general**
 
@@ -209,7 +209,7 @@ More than 1 foreclosure commissioner may be designated at any time.
 
 Section is based on section 805 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3755. Prerequisites to foreclosure
+## § 3755. Prerequisites to foreclosure
 
 **(a) In general**
 
@@ -241,7 +241,7 @@ No separately instituted foreclosure proceeding on a mortgage which is the subje
 
 Section is based on section 806 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3756. Commencement of foreclosure
+## § 3756. Commencement of foreclosure
 
 **(a) Request to foreclosure commissioner**
 
@@ -265,7 +265,7 @@ After commencement of a foreclosure under this chapter, the Secretary may design
 
 Section is based on section 807 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3757. Notice of default and foreclosure sale
+## § 3757. Notice of default and foreclosure sale
 
 The notice of default and foreclosure sale to be served in accordance with this chapter shall set forth—
 
@@ -305,7 +305,7 @@ The notice of default and foreclosure sale to be served in accordance with this 
 
 Section is based on section 808 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3758. Service of notice of foreclosure sale
+## § 3758. Service of notice of foreclosure sale
 
 The foreclosure commissioner shall serve the notice of default and foreclosure sale described in section 3757 of this title upon the following persons and in the following manner, and no additional notice shall be required to be served, notwithstanding any notice requirements of any State or local law:
 
@@ -371,7 +371,7 @@ A copy of the notice of default and foreclosure sale shall be published once a w
 
 Section is based on section 809 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3759. Presale reinstatement
+## § 3759. Presale reinstatement
 
 **(a) Withdrawal and cancellation**
 
@@ -425,7 +425,7 @@ The foreclosure commissioner shall file a notice of cancellation in the same pla
 
 Section is based on section 810 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3760. Conduct of sale; adjournment
+## § 3760. Conduct of sale; adjournment
 
 **(a) In general**
 
@@ -495,7 +495,7 @@ Any foreclosure sale held in accordance with this chapter shall be conclusively 
 
 Section is based on section 811 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3761. Foreclosure costs
+## § 3761. Foreclosure costs
 
 The following foreclosure costs shall be paid from the sale proceeds before satisfaction of any other claim to such sale proceeds:
 
@@ -527,7 +527,7 @@ A commission for the foreclosure commissioner (if the foreclosure commissioner i
 
 Section is based on section 812 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3762. Disposition of sale proceeds
+## § 3762. Disposition of sale proceeds
 
 **(a) Priority payments** Money realized from a foreclosure sale shall be made available for obligation and expenditure in the following order:
 
@@ -579,7 +579,7 @@ If the person to whom such surplus is to be paid cannot be located, or if the su
 
 Section is based on section 813 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3763. Transfer of title and possession
+## § 3763. Transfer of title and possession
 
 **(a) Delivery of deeds**
 
@@ -619,7 +619,7 @@ When a mortgage foreclosed pursuant to this chapter is conveyed to the Secretary
 
 Section is based on section 814 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3764. Record of foreclosure and sale
+## § 3764. Record of foreclosure and sale
 
 **(a) Statements included** To establish a sufficient record of foreclosure and sale, the foreclosure commissioner shall include in the recitals of the deed to the purchaser, or prepare as an affidavit or addendum to the deed, a statement setting forth—
 
@@ -655,7 +655,7 @@ The deed executed by the foreclosure commissioner, the foreclosure commissioner�
 
 Section is based on section 815 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3765. Effect of sale
+## § 3765. Effect of sale
 
 A sale, made and conducted as prescribed in this chapter to a bona fide purchaser, shall bar all claims upon, or with respect to, the property sold, for each of the following persons:
 
@@ -683,7 +683,7 @@ Any person claiming an interest in the property under a statutory lien or encumb
 
 Section is based on section 816 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3766. Computation of time
+## § 3766. Computation of time
 
 Periods of time provided for in this chapter shall be calculated in consecutive calendar days, including the day or days on which the actions or events occur or are to occur for which the period of time is provided and including the day on which an event occurs or is to occur from which the period is to be calculated.
 
@@ -695,7 +695,7 @@ Periods of time provided for in this chapter shall be calculated in consecutive 
 
 Section is based on section 817 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3767. Severability
+## § 3767. Severability
 
 If any part of this chapter shall, for any reason, be adjudged by a court of competent jurisdiction to be invalid, or invalid as applied to a class of cases, such judgment shall not affect, impair, or invalidate the remainder thereof, and shall be confined in its operation to the part thereof directly involved in the controversy in which such judgment shall have been rendered.
 
@@ -707,7 +707,7 @@ If any part of this chapter shall, for any reason, be adjudged by a court of com
 
 Section is based on section 818 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.
 
-## § 3768. Deficiency judgment
+## § 3768. Deficiency judgment
 
 **(a) In general**
 

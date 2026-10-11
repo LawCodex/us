@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 181. Lands subject to disposition; persons entitled to benefits; reciprocal privileges; helium rights reserved
+### § 181. Lands subject to disposition; persons entitled to benefits; reciprocal privileges; helium rights reserved
 
 Deposits of coal, phosphate, sodium, potassium, oil, oil shale, gilsonite (including all vein-type solid hydrocarbons), or gas, and lands containing such deposits owned by the United States, including those in national forests, but excluding lands acquired under the Appalachian Forest Act, approved March 1, 1911 (36 Stat. 961), and those in incorporated cities, towns, and villages and in national parks and monuments, those acquired under other Acts subsequent to February 25, 1920, and lands within the naval petroleum and oil-shale reserves, except as hereinafter provided, shall be subject to disposition in the form and manner provided by this chapter to citizens of the United States, or to associations of such citizens, or to any corporation organized under the laws of the United States, or of any State or Territory thereof, or in the case of coal, oil, oil shale, or gas, to municipalities. Citizens of another country, the laws, customs, or regulations of which deny similar or like privileges to citizens or corporations of this country, shall not by stock ownership, stock holding, or stock control, own any interest in any lease acquired under the provisions of this chapter.
 
@@ -29,7 +29,7 @@ The term “special tar sand area” means (1) an area designated by the Secreta
 
 The United States reserves the ownership of and the right to extract helium from all gas produced from lands leased or otherwise granted under the provisions of this chapter, under such rules and regulations as shall be prescribed by the Secretary of the Interior: *Provided further*, That in the extraction of helium from gas produced from such lands it shall be so extracted as to cause no substantial delay in the delivery of gas produced from the well to the purchaser thereof, and that extraction of helium from gas produced from such lands shall maintain the lease as if the extracted helium were oil and gas.
 
-(Feb. 25, 1920, ch. 85, § 1, 41 Stat. 437; Feb. 7, 1927, ch. 66, § 5, 44 Stat. 1058; Aug. 8, 1946, ch. 916, § 1, 60 Stat. 950; Pub. L. 86–705, § 7(a), Sept. 2, 1960, 74 Stat. 790; Pub. L. 97–78, § 1(1), (4), Nov. 16, 1981, 95 Stat. 1070; Pub. L. 116–9, title I, § 1109, Mar. 12, 2019, 133 Stat. 610.)
+(Feb. 25, 1920, ch. 85, § 1, 41 Stat. 437; Feb. 7, 1927, ch. 66, § 5, 44 Stat. 1058; Aug. 8, 1946, ch. 916, § 1, 60 Stat. 950; Pub. L. 86–705, § 7(a), Sept. 2, 1960, 74 Stat. 790; Pub. L. 97–78, § 1(1), (4), Nov. 16, 1981, 95 Stat. 1070; Pub. L. 116–9, title I, § 1109, Mar. 12, 2019, 133 Stat. 610.)
 
 **Editorial Notes**
 
@@ -39,7 +39,7 @@ The Appalachian Forest Act, referred to in the first undesignated paragraph, is 
 
 **Amendments**
 
-2019—Pub. L. 116–9 inserted “, and that extraction of helium from gas produced from such lands shall maintain the lease as if the extracted helium were oil and gas” after “purchaser thereof” in last par.
+2019—Pub. L. 116–9 inserted “, and that extraction of helium from gas produced from such lands shall maintain the lease as if the extracted helium were oil and gas” after “purchaser thereof” in last par.
 
 1981—Pub. L. 97–78, in first par., substituted “gilso­nite (including all vein-type solid hydrocarbons),” for “native asphalt, solid and semisolid bitumen, and bituminous rock (including oil-impregnated rock or sands from which oil is recoverable only by special treatment after the deposit is mined or quarried)”, and added, after first par. three paragraphs which defined “oil”, “combined hydrocarbon lease”, and “special tar sand area”, respectively.
 
@@ -53,13 +53,13 @@ The Appalachian Forest Act, referred to in the first undesignated paragraph, is 
 
 **Short Title of 2000 Amendments**
 
-Pub. L. 106–463, § 1, Nov. 7, 2000, 114 Stat. 2010, provided that: “This Act [amending section 184 of this title and enacting provisions set out as a note under section 184 of this title] may be cited as the ‘Coal Market Competition Act of 2000’.”
+Pub. L. 106–463, § 1, Nov. 7, 2000, 114 Stat. 2010, provided that: “This Act [amending section 184 of this title and enacting provisions set out as a note under section 184 of this title] may be cited as the ‘Coal Market Competition Act of 2000’.”
 
-Pub. L. 106–393, title V, § 501, Oct. 30, 2000, 114 Stat. 1624, provided that: “This title [amending section 191 of this title and enacting provisions set out as a note under section 191 of this title] may be cited as the ‘Mineral Revenue Payments Clarification Act of 2000’.”
+Pub. L. 106–393, title V, § 501, Oct. 30, 2000, 114 Stat. 1624, provided that: “This title [amending section 191 of this title and enacting provisions set out as a note under section 191 of this title] may be cited as the ‘Mineral Revenue Payments Clarification Act of 2000’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–203, title V, § 5101(a), Dec. 22, 1987, 101 Stat. 1330–256, provided that: “This subtitle [subtitle B (§§ 5101–5113) of Pub. L. 100–203, enacting sections 195 and 226–3 of this title, amending sections 187a, 187b, 188, 191, and 226 of this title and section 3148 of Title 16, Conservation, and enacting provisions set out as notes under this section and section 226 of this title] may be cited as the ‘Federal Onshore Oil and Gas Leasing Reform Act of 1987’.”
+Pub. L. 100–203, title V, § 5101(a), Dec. 22, 1987, 101 Stat. 1330–256, provided that: “This subtitle [subtitle B (§§ 5101–5113) of Pub. L. 100–203, enacting sections 195 and 226–3 of this title, amending sections 187a, 187b, 188, 191, and 226 of this title and section 3148 of Title 16, Conservation, and enacting provisions set out as notes under this section and section 226 of this title] may be cited as the ‘Federal Onshore Oil and Gas Leasing Reform Act of 1987’.”
 
 **Short Title of 1981 Amendment**
 
@@ -67,15 +67,15 @@ Pub. L. 97–78, Nov. 16, 1981, 95 Stat. 1070, which amended this section and se
 
 **Short Title of 1976 Amendment**
 
-Pub. L. 94–377, § 1(a), Aug. 4, 1976, 90 Stat. 1083, as amended by Pub. L. 95–554, § 8, Oct. 30, 1978, 92 Stat. 2075, provided that: “This Act [enacting sections 202a, 208–1, and 208–2 of this title, amending sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealing sections 201–1 and 204 of this title, and enacting provisions set out as notes under sections 184, 201, 201–1, 203, and 204 of this title] may be cited as the ‘Federal Coal Leasing Amendments Act of 1976’.”
+Pub. L. 94–377, § 1(a), Aug. 4, 1976, 90 Stat. 1083, as amended by Pub. L. 95–554, § 8, Oct. 30, 1978, 92 Stat. 2075, provided that: “This Act [enacting sections 202a, 208–1, and 208–2 of this title, amending sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealing sections 201–1 and 204 of this title, and enacting provisions set out as notes under sections 184, 201, 201–1, 203, and 204 of this title] may be cited as the ‘Federal Coal Leasing Amendments Act of 1976’.”
 
 **Short Title of 1960 Amendment**
 
-Pub. L. 86–705, § 1, Sept. 2, 1960, 74 Stat. 781, provided: “That this Act [amending this section and sections 182, 184, 187a, 226, 226–1, 226–2, and 241 of this title, and enacted provisions set out as notes under sections 187a and 226 of this title] may be cited as the ‘Mineral Leasing Act Revision of 1960’.”
+Pub. L. 86–705, § 1, Sept. 2, 1960, 74 Stat. 781, provided: “That this Act [amending this section and sections 182, 184, 187a, 226, 226–1, 226–2, and 241 of this title, and enacted provisions set out as notes under sections 187a and 226 of this title] may be cited as the ‘Mineral Leasing Act Revision of 1960’.”
 
 **Short Title**
 
-Act Feb. 25, 1920, ch. 85, § 44, as added Dec. 22, 1987, Pub. L. 100–203, title V, § 5113, 101 Stat. 1330–263, provided that: “This Act [enacting this chapter] may be cited as the ‘Mineral Leasing Act’.”
+Act Feb. 25, 1920, ch. 85, § 44, as added Dec. 22, 1987, Pub. L. 100–203, title V, § 5113, 101 Stat. 1330–263, provided that: “This Act [enacting this chapter] may be cited as the ‘Mineral Leasing Act’.”
 
 This chapter is also popularly known as the “Mineral Leasing Act of 1920” and the “Mineral Lands Leasing Act”.
 
@@ -83,11 +83,11 @@ This chapter is also popularly known as the “Mineral Leasing Act of 1920” an
 
 Provisions of Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, not to be construed as permitting any person to place, or allow to be placed, spent oil shale, etc., on any Federal land other than land leased for the recovery of shale oil under the act of Feb. 25, 1920, section 181 et seq. of this title, see section 701(d) of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
 
-Act Aug. 8, 1946, ch. 916, § 15, 60 Stat. 950, provided: “No repeal or amendment made by this Act [enacting sections 187a, 187b, 226c–226e, and 236b, amending this section and sections 184, 188, 193, 209, 225, 226, and 285, and repealing sections 223a, 226a, and 226b of this title] shall affect any right acquired under the law as it existed prior to such repeal or amendment, and such right shall be governed by the law in effect at the time of its acquisition; but any person holding a lease on the effective date of this Act [Aug. 8, 1946] may, by filing a statement to that effect, elect to have his lease governed by the applicable provisions of this Act instead of by the law in effect prior thereto.”
+Act Aug. 8, 1946, ch. 916, § 15, 60 Stat. 950, provided: “No repeal or amendment made by this Act [enacting sections 187a, 187b, 226c–226e, and 236b, amending this section and sections 184, 188, 193, 209, 225, 226, and 285, and repealing sections 223a, 226a, and 226b of this title] shall affect any right acquired under the law as it existed prior to such repeal or amendment, and such right shall be governed by the law in effect at the time of its acquisition; but any person holding a lease on the effective date of this Act [Aug. 8, 1946] may, by filing a statement to that effect, elect to have his lease governed by the applicable provisions of this Act instead of by the law in effect prior thereto.”
 
 **Construction and Applicability of 1981 Amendments**
 
-Pub. L. 97–78, § 1(10), (11), Nov. 16, 1981, 95 Stat. 1072, provided that:
+Pub. L. 97–78, § 1(10), (11), Nov. 16, 1981, 95 Stat. 1072, provided that:
 
 > **“(10)** Nothing in this Act [see Short Title of 1981 Amendment note above] shall affect the taxable status of production from tar sand under the Crude Oil Windfall Profit Tax Act of 1980 (Public Law 96–223) [see Tables for classification], reduce the depletion allowance for production from tar sand, or otherwise affect the existing tax status applicable to such production.
 
@@ -107,11 +107,11 @@ Selection of lands by Alaska from lands made available by Statehood provisions i
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-### § 182. Lands disposed of with reservation of deposits of coal, etc.
+### § 182. Lands disposed of with reservation of deposits of coal, etc.
 
 The provisions of this chapter shall also apply to all deposits of coal, phosphate, sodium, oil, oil shale, gilsonite (including all vein-type solid hydrocarbons), or gas in the lands of the United States, which lands may have been or may be disposed of under laws reserving to the United States such deposits, with the right to prospect for, mine, and remove the same, subject to such conditions as are or may hereafter be provided by such laws reserving such deposits.
 
-(Feb. 25, 1920, ch. 85, § 34, 41 Stat. 450; Pub. L. 86–705, § 7(a), Sept. 2, 1960, 74 Stat. 790; Pub. L. 97–78, § 1(1), Nov. 16, 1981, 95 Stat. 1070.)
+(Feb. 25, 1920, ch. 85, § 34, 41 Stat. 450; Pub. L. 86–705, § 7(a), Sept. 2, 1960, 74 Stat. 790; Pub. L. 97–78, § 1(1), Nov. 16, 1981, 95 Stat. 1070.)
 
 **Editorial Notes**
 
@@ -121,13 +121,13 @@ The provisions of this chapter shall also apply to all deposits of coal, phospha
 
 1960—Pub. L. 86–705 included native asphalt, solid and semisolid bitumen, and bituminous rock.
 
-### § 183. Cancellation of prospecting permits
+### § 183. Cancellation of prospecting permits
 
 The Secretary of the Interior shall reserve and may exercise the authority to cancel any prospecting permit upon failure by the permittee to exercise due diligence in the prosecution of the prospecting work in accordance with the terms and conditions stated in the permit, and shall insert in every such permit issued under the provisions of this chapter appropriate provisions for its cancellation by him.
 
-(Feb. 25, 1920, ch. 85, § 26, 41 Stat. 448.)
+(Feb. 25, 1920, ch. 85, § 26, 41 Stat. 448.)
 
-### § 184. Limitations on leases held, owned or controlled by persons, associations or corporations
+### § 184. Limitations on leases held, owned or controlled by persons, associations or corporations
 
 **(a) Coal leases**
 
@@ -145,19 +145,19 @@ No person, association, or corporation shall take, hold, own, or control at one 
 
 **(d) Oil or gas leases, acreage, Alaska; options, semi-annual statements**
 
-**(1)** No person, association, or corporation, except as otherwise provided in this chapter, shall take, hold, own or control at one time, whether acquired directly from the Secretary under this chapter, or otherwise, oil or gas leases (including options for such leases or interests therein) on land held under the provisions of this chapter exceeding in the aggregate two hundred forty-six thousand and eighty acres in any one State other than Alaska 1
+**(1)** No person, association, or corporation, except as otherwise provided in this chapter, shall take, hold, own or control at one time, whether acquired directly from the Secretary under this chapter, or otherwise, oil or gas leases (including options for such leases or interests therein) on land held under the provisions of this chapter exceeding in the aggregate two hundred forty-six thousand and eighty acres in any one State other than Alaska 1
 
-<sup>1</sup>  So in original. Probably should be followed by a colon.
+<sup>1</sup> So in original. Probably should be followed by a colon.
 
 *Provided, however*, That acreage held in special tar sand areas, and acreage under any lease any portion of which has been committed to a federally approved unit or cooperative plan or communitization agreement or for which royalty (including compensatory royalty or royalty in-kind) was paid in the preceding calendar year, shall not be chargeable against such State limitations. In the case of the State of Alaska, the limit shall be three hundred thousand acres in the northern leasing district and three hundred thousand acres in the southern leasing district, and the boundary between said two districts shall be the left limit of the Tanana River from the border between the United States and Canada to the confluence of the Tanana and Yukon Rivers, and the left limit of the Yukon River from said confluence to its principal southern mouth.
 
-**(2)** No person, association, or corporation shall take, hold, own, or control at one time options to acquire interests in oil or gas leases under the provisions of this chapter which involve, in the aggregate, more than two hundred thousand acres of land in any one State other than Alaska, or, in the case of Alaska, more than two hundred thousand acres in each of its two leasing districts, as hereinbefore described. No option to acquire any interest in such an oil or gas lease shall be enforcible if entered into for a period of more than three years (which three years shall be inclusive of any renewal period if a right to renew is reserved by any party to the option) without the prior approval of the Secretary. In any case in which an option to acquire the optionor’s entire interest in the whole or a part of the acreage under a lease is entered into, the acreage to which the option is applicable shall be charged both to the optionor and to the optionee, but the charge to the optionor shall cease when the option is exercised. In any case in which an option to acquire a part of the optionor’s interest in the whole or a part of the acreage under a lease is entered into, the acreage to which the option is applicable shall be fully charged to the optionor and a share thereof shall also be charged to the optionee, as his interest may appear, but after the option is exercised said acreage shall be charged to the parties pro rata as their interests may appear. In any case in which an assignment is made of a part of a lessee’s interest in the whole or part of the acreage under a lease or an application for a lease, the acreage shall be charged to the parties pro rata as their interests may appear. No option or renewal thereof shall be enforcible until notice thereof has been filed with the Secretary or an officer or employee of the Department of the Interior designated by him to receive the same. Each such notice shall include, in addition to any other matters prescribed by the Secretary, the names and addresses of the parties thereto, the serial number of the lease or application for a lease to which the option is applicable, and a statement of the number of acres covered thereby and of the interests and obligations of the parties thereto and shall be subscribed by all parties to the option or their duly authorized agents. An option which has not been exercised shall remain charged as hereinbefore provided until notice of its relinquishment or surrender has been filed, by either party, with the Secretary or any officer or employee of the Department of the Interior designated by him to receive the same. In addition, each holder of any such option shall file with the Secretary or an officer or employee of the Department of the Interior as aforesaid within ninety days after the 30th day of June and the 31st day of December in each year a statement showing, in addition to any other matters prescribed by the Secretary, his name, the name and address of each grantor of an option held by him, the serial number of every lease or application for a lease to which such an option is applicable, the number of acres covered by each such option, the total acreage in each State to which such options are applicable, and his interest and obligation under each such option. The failure of the holder of an option so to file shall render the option unenforcible 2
+**(2)** No person, association, or corporation shall take, hold, own, or control at one time options to acquire interests in oil or gas leases under the provisions of this chapter which involve, in the aggregate, more than two hundred thousand acres of land in any one State other than Alaska, or, in the case of Alaska, more than two hundred thousand acres in each of its two leasing districts, as hereinbefore described. No option to acquire any interest in such an oil or gas lease shall be enforcible if entered into for a period of more than three years (which three years shall be inclusive of any renewal period if a right to renew is reserved by any party to the option) without the prior approval of the Secretary. In any case in which an option to acquire the optionor’s entire interest in the whole or a part of the acreage under a lease is entered into, the acreage to which the option is applicable shall be charged both to the optionor and to the optionee, but the charge to the optionor shall cease when the option is exercised. In any case in which an option to acquire a part of the optionor’s interest in the whole or a part of the acreage under a lease is entered into, the acreage to which the option is applicable shall be fully charged to the optionor and a share thereof shall also be charged to the optionee, as his interest may appear, but after the option is exercised said acreage shall be charged to the parties pro rata as their interests may appear. In any case in which an assignment is made of a part of a lessee’s interest in the whole or part of the acreage under a lease or an application for a lease, the acreage shall be charged to the parties pro rata as their interests may appear. No option or renewal thereof shall be enforcible until notice thereof has been filed with the Secretary or an officer or employee of the Department of the Interior designated by him to receive the same. Each such notice shall include, in addition to any other matters prescribed by the Secretary, the names and addresses of the parties thereto, the serial number of the lease or application for a lease to which the option is applicable, and a statement of the number of acres covered thereby and of the interests and obligations of the parties thereto and shall be subscribed by all parties to the option or their duly authorized agents. An option which has not been exercised shall remain charged as hereinbefore provided until notice of its relinquishment or surrender has been filed, by either party, with the Secretary or any officer or employee of the Department of the Interior designated by him to receive the same. In addition, each holder of any such option shall file with the Secretary or an officer or employee of the Department of the Interior as aforesaid within ninety days after the 30th day of June and the 31st day of December in each year a statement showing, in addition to any other matters prescribed by the Secretary, his name, the name and address of each grantor of an option held by him, the serial number of every lease or application for a lease to which such an option is applicable, the number of acres covered by each such option, the total acreage in each State to which such options are applicable, and his interest and obligation under each such option. The failure of the holder of an option so to file shall render the option unenforcible 2
 
-<sup>2</sup>  So in original. Probably should be “unenforceable”.
+<sup>2</sup> So in original. Probably should be “unenforceable”.
 
-by him. The unenforcibility 3
+by him. The unenforcibility 3
 
-<sup>3</sup>  So in original. Probably should be “unenforceability”.
+<sup>3</sup> So in original. Probably should be “unenforceability”.
 
 of any option under the provisions of this paragraph shall not diminish the number of acres deemed to be held under option by any person, association, or corporation in computing the amount chargeable under the first sentence of this paragraph and shall not relieve any party thereto of any liability to cancellation, forfeiture, forced disposition, or other sanction provided by law. The Secretary may prescribe forms on which the notice and statements required by this paragraph shall be made.
 
@@ -215,7 +215,7 @@ Except as otherwise provided in this chapter, if any lands or deposits subject t
 
 **(E)** the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a).
 
-(Feb. 25, 1920, ch. 85, § 27, 41 Stat. 448; Apr. 30, 1926, ch. 197, 44 Stat. 373; July 3, 1930, ch. 854, § 1, 46 Stat. 1007; Mar. 4, 1931, ch. 506, 46 Stat. 1524; Aug. 8, 1946, ch. 916, § 6, 60 Stat. 954; June 1, 1948, ch. 365, 62 Stat. 285; June 3, 1948, ch. 379, § 6, 62 Stat. 291; Aug. 2, 1954, ch. 650, 68 Stat. 648; Pub. L. 85–122, Aug. 13, 1957, 71 Stat. 341; Pub. L. 85–698, Aug. 21, 1958, 72 Stat. 688; Pub. L. 86–294, § 1, Sept. 21, 1959, 73 Stat. 571; Pub. L. 86–391, § 1(c), Mar. 18, 1960, 74 Stat. 8; Pub. L. 86–705, § 3, Sept. 2, 1960, 74 Stat. 785; Pub. L. 88–526, § 1, Aug. 31, 1964, 78 Stat. 710; Pub. L. 88–548, Aug. 31, 1964, 78 Stat. 754; Pub. L. 94–377, §§ 11, 15, Aug. 4, 1976, 90 Stat. 1090, 1091; Pub. L. 97–78, § 1(2), (5), Nov. 16, 1981, 95 Stat. 1070; Pub. L. 106–191, § 2, Apr. 28, 2000, 114 Stat. 232; Pub. L. 106–463, § 3, Nov. 7, 2000, 114 Stat. 2011; Pub. L. 109–58, title III, § 352, Aug. 8, 2005, 119 Stat. 714.)
+(Feb. 25, 1920, ch. 85, § 27, 41 Stat. 448; Apr. 30, 1926, ch. 197, 44 Stat. 373; July 3, 1930, ch. 854, § 1, 46 Stat. 1007; Mar. 4, 1931, ch. 506, 46 Stat. 1524; Aug. 8, 1946, ch. 916, § 6, 60 Stat. 954; June 1, 1948, ch. 365, 62 Stat. 285; June 3, 1948, ch. 379, § 6, 62 Stat. 291; Aug. 2, 1954, ch. 650, 68 Stat. 648; Pub. L. 85–122, Aug. 13, 1957, 71 Stat. 341; Pub. L. 85–698, Aug. 21, 1958, 72 Stat. 688; Pub. L. 86–294, § 1, Sept. 21, 1959, 73 Stat. 571; Pub. L. 86–391, § 1(c), Mar. 18, 1960, 74 Stat. 8; Pub. L. 86–705, § 3, Sept. 2, 1960, 74 Stat. 785; Pub. L. 88–526, § 1, Aug. 31, 1964, 78 Stat. 710; Pub. L. 88–548, Aug. 31, 1964, 78 Stat. 754; Pub. L. 94–377, §§ 11, 15, Aug. 4, 1976, 90 Stat. 1090, 1091; Pub. L. 97–78, § 1(2), (5), Nov. 16, 1981, 95 Stat. 1070; Pub. L. 106–191, § 2, Apr. 28, 2000, 114 Stat. 232; Pub. L. 106–463, § 3, Nov. 7, 2000, 114 Stat. 2011; Pub. L. 109–58, title III, § 352, Aug. 8, 2005, 119 Stat. 714.)
 
 **Editorial Notes**
 
@@ -227,33 +227,33 @@ The Act entitled “An Act to protect trade and commerce against unlawful restra
 
 The Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914, referred to in subsec. (*l*)(4)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, and is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (*l*)(4)(C), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (*l*)(4)(C), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
 Act of June 19, 1936, chapter 592, referred to in subsec. (*l*)(4)(E), is act June 19, 1936, ch. 592, 49 Stat. 1526, known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
 **Codification**
 
-In subsec. (*l*)(2), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (*l*)(2), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 **Amendments**
 
-2005—Subsec. (d)(1). Pub. L. 109–58 inserted “, and acreage under any lease any portion of which has been committed to a federally approved unit or cooperative plan or communitization agreement or for which royalty (including compensatory royalty or royalty in-kind) was paid in the preceding calendar year,” after “acreage held in special tar sand areas”.
+2005—Subsec. (d)(1). Pub. L. 109–58 inserted “, and acreage under any lease any portion of which has been committed to a federally approved unit or cooperative plan or communitization agreement or for which royalty (including compensatory royalty or royalty in-kind) was paid in the preceding calendar year,” after “acreage held in special tar sand areas”.
 
 2000—Subsec. (a). Pub. L. 106–463 inserted heading, struck out “(1)” before “No person”, substituted “75,000 acres” for “forty-six thousand and eighty acres”, and substituted “150,000 acres” for “one hundred thousand acres” wherever appearing.
 
 Subsec. (b)(2). Pub. L. 106–191 substituted “30,720 acres” for “fifteen thousand three hundred and sixty acres”.
 
-1981—Subsec. (d)(1). Pub. L. 97–78, § 1(5), inserted proviso that acreage held in special tar sand areas not be chargeable against State limitations.
+1981—Subsec. (d)(1). Pub. L. 97–78, § 1(5), inserted proviso that acreage held in special tar sand areas not be chargeable against State limitations.
 
-Subsec. (k). Pub. L. 97–78, § 1(2), substituted “gilso­nite (including all vein-type solid hydrocarbons)” for “native asphalt, solid and semisolid bitumen, bituminous rock”.
+Subsec. (k). Pub. L. 97–78, § 1(2), substituted “gilso­nite (including all vein-type solid hydrocarbons)” for “native asphalt, solid and semisolid bitumen, bituminous rock”.
 
-1976—Subsec. (a)(1). Pub. L. 94–377, § 11(a), inserted “or any subsidiary, affiliate, or persons controlled by or under common control with such person, association, or corporation” before “shall take, hold, own or control”, “and in no case greater than an aggregate of one hundred thousand acres in the United States” after “in any one State,” proviso relating to non-relinquishment of leases or permits by an entity owning or controlling more than an aggregate of one hundred thousand acres, and proviso prohibiting ownership or control of further Federal leases or permits until reduction to below an aggregate of one hundred thousand acres.
+1976—Subsec. (a)(1). Pub. L. 94–377, § 11(a), inserted “or any subsidiary, affiliate, or persons controlled by or under common control with such person, association, or corporation” before “shall take, hold, own or control”, “and in no case greater than an aggregate of one hundred thousand acres in the United States” after “in any one State,” proviso relating to non-relinquishment of leases or permits by an entity owning or controlling more than an aggregate of one hundred thousand acres, and proviso prohibiting ownership or control of further Federal leases or permits until reduction to below an aggregate of one hundred thousand acres.
 
-Subsec. (a)(2). Pub. L. 94–377, § 11(b), struck out par. (2) providing for application, hearing and granting of additional acreage, not to exceed 5120 acres in any one State, to a person, association or corporation requiring such extra acreage to carry on business economically, and the subsequent reevaluation of such entity’s continuing need for such extra acreage.
+Subsec. (a)(2). Pub. L. 94–377, § 11(b), struck out par. (2) providing for application, hearing and granting of additional acreage, not to exceed 5120 acres in any one State, to a person, association or corporation requiring such extra acreage to carry on business economically, and the subsequent reevaluation of such entity’s continuing need for such extra acreage.
 
-Subsec. (*l*). Pub. L. 94–377, § 15, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 94–377, § 15, added subsec. (*l*).
 
-1964—Subsec. (a)(1). Pub. L. 88–526 struck out “, except as otherwise provided in this subsection,” after “corporation” and increased aggregate number of acres from 10,240 to 46,080 acres.
+1964—Subsec. (a)(1). Pub. L. 88–526 struck out “, except as otherwise provided in this subsection,” after “corporation” and increased aggregate number of acres from 10,240 to 46,080 acres.
 
 Subsec. (c). Pub. L. 88–548 increased aggregate number of acres from 10,240 to 20,480 acres.
 
@@ -285,21 +285,21 @@ Act June 3, 1948, increased aggregate acreage allowed one person, etc., from two
 
 **Effective Date of 1959 Amendment**
 
-Pub. L. 86–294, § 2, Sept. 21, 1959, 73 Stat. 571, provided that: “The rights granted by the second and third sentences of the amendment contained within section 1 of this Act [amending this section to provide that holder of interest in lease has right to be dismissed from cancellation or forfeiture proceedings upon showing he acquired his interest as bona fide purchaser and without violation of provisions, and to provide right to have his lease extended if rights thereunder to drill and to assign are suspended or waived during such proceedings and it is determined he is not in violation of provisions] shall apply with respect to any proceeding now pending or initiated after the date of enactment of this Act [Sept. 21, 1959].”
+Pub. L. 86–294, § 2, Sept. 21, 1959, 73 Stat. 571, provided that: “The rights granted by the second and third sentences of the amendment contained within section 1 of this Act [amending this section to provide that holder of interest in lease has right to be dismissed from cancellation or forfeiture proceedings upon showing he acquired his interest as bona fide purchaser and without violation of provisions, and to provide right to have his lease extended if rights thereunder to drill and to assign are suspended or waived during such proceedings and it is determined he is not in violation of provisions] shall apply with respect to any proceeding now pending or initiated after the date of enactment of this Act [Sept. 21, 1959].”
 
 **Savings Provision**
 
 See note set out under section 181 of this title.
 
-Pub. L. 94–377, § 11(b), Aug. 4, 1976, 90 Stat. 1090, provided in part that the repeal by section 11(b) of subsec. (a)(2) of this section is subject to valid existing rights.
+Pub. L. 94–377, § 11(b), Aug. 4, 1976, 90 Stat. 1090, provided in part that the repeal by section 11(b) of subsec. (a)(2) of this section is subject to valid existing rights.
 
 **Transfer of Functions**
 
-Functions of Secretary of the Interior, referred to in subsec. (*l*), to promulgate regulations under this chapter relating to the fostering of competition for Federal leases, the implementation of alternative bidding systems authorized for the award of Federal leases, the establishment of diligence requirements for operations conducted on Federal leases, the setting of rates for production of Federal leases, and the specifying of the procedures, terms, and conditions for the acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior, referred to in subsec. (*l*), to promulgate regulations under this chapter relating to the fostering of competition for Federal leases, the implementation of alternative bidding systems authorized for the award of Federal leases, the establishment of diligence requirements for operations conducted on Federal leases, the setting of rates for production of Federal leases, and the specifying of the procedures, terms, and conditions for the acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
 **Findings**
 
-Pub. L. 106–463, § 2, Nov. 7, 2000, 114 Stat. 2010, provided that:
+Pub. L. 106–463, § 2, Nov. 7, 2000, 114 Stat. 2010, provided that:
 
 > “Congress finds that—
 
@@ -327,7 +327,7 @@ Pub. L. 106–463, § 2, Nov. 7, 2000, 114 Stat. 2010, provided that:
 
 > **“(10)** to maintain the vitality of the domestic coal industry and ensure the continued flow of valuable revenues to the Federal and State governments and of energy to the American public from coal production on Federal land, the Mineral Leasing Act should be amended to increase the acreage limitation for Federal coal leases.”
 
-Pub. L. 106–191, § 1, Apr. 28, 2000, 114 Stat. 231, provided that:
+Pub. L. 106–191, § 1, Apr. 28, 2000, 114 Stat. 231, provided that:
 
 > “The Congress finds and declares that—
 
@@ -357,7 +357,7 @@ Pub. L. 106–191, § 1, Apr. 28, 2000, 114 Stat. 231, provided that:
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-### § 184a. Authorization of States to include in agreements for conservation of oil and gas resources lands acquired from United States
+### § 184a. Authorization of States to include in agreements for conservation of oil and gas resources lands acquired from United States
 
 Notwithstanding the provisions of any applicable grant, deed, patent, exchange, or law of the United States, any State owning lands or interests therein acquired by it from the United States may consent to the operation or development of such lands or interests, or any part thereof, under agreements approved by the Secretary of the Interior made jointly or severally with lessees or permittees of lands or mineral deposits of the United States or others, for the purpose of more properly conserving the oil and gas resources within such State. Such agreements may provide for the cooperative or unit operation or development of part or all of any oil or gas pool, field, or area; for the allocation of production and the sharing of proceeds from the whole or any specified part thereof regardless of the particular tract from which production is obtained or proceeds are derived; and, with the consent of the State, for the modification of the terms and provisions of State leases for lands operated and developed thereunder, including the term of years for which said leases were originally granted, to conform said leases to the terms and provisions of such agreements: *Provided*, That nothing in this section contained, nor the effectuation of it, shall be construed as in any respect waiving, determining or affecting any right, title, or interest, which otherwise may exist in the United States, and that the making of any agreement, as provided in this section, shall not be construed as an admission as to the title or ownership of the lands included.
 
@@ -369,7 +369,7 @@ Notwithstanding the provisions of any applicable grant, deed, patent, exchange, 
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 185. Rights-of-way for pipelines through Federal lands
+### § 185. Rights-of-way for pipelines through Federal lands
 
 **(a) Grant of authority**
 
@@ -499,13 +499,13 @@ If the President determines that exports of this oil are in the national interes
 
 The Secretary or agency head may ratify and confirm any right-of-way or permit for an oil or gas pipeline or related facility that was granted under any provision of law before the effective date of this subsection, if it is modified by mutual agreement to comply to the extent practical with the provisions of this section. Any action taken by the Secretary or agency head pursuant to this subsection shall not be considered a major Federal action requiring a detailed statement pursuant to section 102(2)(C) of the National Environmental Policy Act of 1970 (Public Law 90–190; 42 U.S.C. 4321).1
 
-<sup>1</sup>  So in original. Probably should be “National Environmental Policy Act of 1969 (Public Law 91–190; 42 U.S.C. 4332(2)(C))”.
+<sup>1</sup> So in original. Probably should be “National Environmental Policy Act of 1969 (Public Law 91–190; 42 U.S.C. 4332(2)(C))”.
 
 **(u) Limitations on export**
 
-Any domestically produced crude oil transported by pipeline over rights-of-way granted pursuant to this section, except such crude oil which is either exchanged in similar quantity for convenience or increased efficiency of transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 (50 U.S.C. App. 2401 and following) 2
+Any domestically produced crude oil transported by pipeline over rights-of-way granted pursuant to this section, except such crude oil which is either exchanged in similar quantity for convenience or increased efficiency of transportation with persons or the government of an adjacent foreign state, or which is temporarily exported for convenience or increased efficiency of transportation across parts of an adjacent foreign state and reenters the United States, shall be subject to all of the limitations and licensing requirements of the Export Administration Act of 1979 (50 U.S.C. App. 2401 and following) 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 and, in addition, before any crude oil subject to this section may be exported under the limitations and licensing requirements and penalty and enforcement provisions of the Export Administration Act of 1979 the President must make and publish an express finding that such exports will not diminish the total quantity or quality of petroleum available to the United States, and are in the national interest and are in accord with the provisions of the Export Administration Act of 1979: *Provided*, That the President shall submit reports to the Congress containing findings made under this section, and after the date of receipt of such report Congress shall have a period of sixty calendar days, thirty days of which Congress must have been in session, to consider whether exports under the terms of this section are in the national interest. If the Congress within this time period passes a concurrent resolution of disapproval stating disagreement with the President’s finding concerning the national interest, further exports made pursuant to the aforementioned Presidential findings shall cease.
 
@@ -541,29 +541,29 @@ The Secretary or agency head shall take into consideration and to the extent pra
 
 The grant of a right-of-way or permit pursuant to this section shall grant no immunity from the operation of the Federal antitrust laws.
 
-(Feb. 25, 1920, ch. 85, § 28, 41 Stat. 449; Aug. 21, 1935, ch. 599, § 1, 49 Stat. 678; Aug. 12, 1953, ch. 408, 67 Stat. 557; Pub. L. 93–153, title I, § 101, Nov. 16, 1973, 87 Stat. 576; Pub. L. 95–91, title III, §§ 301(b), 306, title IV, § 402(a), (b), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 578, 581, 583, 584, 606, 607; Pub. L. 99–64, title I, § 123(b), July 12, 1985, 99 Stat. 156; Pub. L. 101–475, § 1, Oct. 30, 1990, 104 Stat. 1102; Pub. L. 103–437, § 11(a)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–58, title II, § 201, Nov. 28, 1995, 109 Stat. 560; Pub. L. 104–66, title I, § 1121(k), Dec. 21, 1995, 109 Stat. 724.)
+(Feb. 25, 1920, ch. 85, § 28, 41 Stat. 449; Aug. 21, 1935, ch. 599, § 1, 49 Stat. 678; Aug. 12, 1953, ch. 408, 67 Stat. 557; Pub. L. 93–153, title I, § 101, Nov. 16, 1973, 87 Stat. 576; Pub. L. 95–91, title III, §§ 301(b), 306, title IV, § 402(a), (b), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 578, 581, 583, 584, 606, 607; Pub. L. 99–64, title I, § 123(b), July 12, 1985, 99 Stat. 156; Pub. L. 101–475, § 1, Oct. 30, 1990, 104 Stat. 1102; Pub. L. 103–437, § 11(a)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–58, title II, § 201, Nov. 28, 1995, 109 Stat. 560; Pub. L. 104–66, title I, § 1121(k), Dec. 21, 1995, 109 Stat. 724.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (h)(1), is Pub. L. 91–190, Jan 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (h)(1), is Pub. L. 91–190, Jan 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (k), the effective date of this provision, referred to in subsec. (q), and the effective date of this subsection, referred to in subsec. (t), probably mean the date of approval of Pub. L. 93–153, which was Nov. 16, 1973.
 
-The Natural Gas Act, referred to in subsec. (r)(3)(A), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
+The Natural Gas Act, referred to in subsec. (r)(3)(A), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (s)(3), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (s)(3), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The National Emergencies Act, referred to in subsec. (s)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (s)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-The Energy Policy and Conservation Act, referred to in subsec. (s)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title II of the Act is classified generally to part B (§ 6271 et seq.) of subchapter II of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (s)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title II of the Act is classified generally to part B (§ 6271 et seq.) of subchapter II of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (u), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in subsec. (u), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
 **Codification**
 
-In subsec. (s)(2), “section 50501 of title 46” substituted for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
+In subsec. (s)(2), “section 50501 of title 46” substituted for “section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 50501 of Title 46, Shipping.
 
 **Amendments**
 
@@ -573,9 +573,9 @@ Subsec. (w)(4). Pub. L. 104–66 struck out par. (4) which read as follows: “T
 
 1994—Subsec. (w)(1), (2). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
 
-1990—Subsec. (w)(1). Pub. L. 101–475, § 1(a), substituted “Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate” for “House and Senate Committees on Interior and Insular Affairs”.
+1990—Subsec. (w)(1). Pub. L. 101–475, § 1(a), substituted “Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate” for “House and Senate Committees on Interior and Insular Affairs”.
 
-Subsec. (w)(2). Pub. L. 101–475, § 1(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary or agency head shall notify the House and Senate Committees on Interior and Insular Affairs promptly upon receipt of an application for a right-of-way for a pipeline twenty-four inches or more in diameter, and no right-of-way for such a pipeline shall be granted until sixty days (not counting days on which the House of Representatives or the Senate has adjourned for more than three days) after a notice of intention to grant the right-of-way, together with the Secretary’s or agency head’s detailed findings as to terms and conditions he proposes to impose, has been submitted to such committees, unless each committee by resolution waives the waiting period.”
+Subsec. (w)(2). Pub. L. 101–475, § 1(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary or agency head shall notify the House and Senate Committees on Interior and Insular Affairs promptly upon receipt of an application for a right-of-way for a pipeline twenty-four inches or more in diameter, and no right-of-way for such a pipeline shall be granted until sixty days (not counting days on which the House of Representatives or the Senate has adjourned for more than three days) after a notice of intention to grant the right-of-way, together with the Secretary’s or agency head’s detailed findings as to terms and conditions he proposes to impose, has been submitted to such committees, unless each committee by resolution waives the waiting period.”
 
 1985—Subsec. (u). Pub. L. 99–64 substituted “Export Administration Act of 1979 (50 U.S.C. App. 2401 and following)” for “Export Administration Act of 1969 (Act of December 30, 1969; 83 Stat. 841)” and “Export Administration Act of 1979” for “Export Administration Act of 1969” in two places.
 
@@ -593,15 +593,15 @@ Subsec. (w)(2). Pub. L. 101–475, § 1(b), amended par. (2) generally. Prior 
 
 **Reimbursement of Administrative and Other Costs**
 
-Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–272, provided that: “Notwithstanding any other provision of law, hereafter money collected, in advance or otherwise, by the Forest Service under authority of section 101 of Public Law 93–153 (30 U.S.C. 185(1)[(*l*)]) as reimbursement of administrative and other costs incurred in processing pipeline right-of-way or permit applications and for costs incurred in monitoring the construction, operation, maintenance, and termination of any pipeline and related facilities, may be used to reimburse the applicable appropriation to which such costs were originally charged.”
+Pub. L. 105–277, div. A, § 101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–272, provided that: “Notwithstanding any other provision of law, hereafter money collected, in advance or otherwise, by the Forest Service under authority of section 101 of Public Law 93–153 (30 U.S.C. 185(1)[(*l*)]) as reimbursement of administrative and other costs incurred in processing pipeline right-of-way or permit applications and for costs incurred in monitoring the construction, operation, maintenance, and termination of any pipeline and related facilities, may be used to reimburse the applicable appropriation to which such costs were originally charged.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1576.
 
-Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–208.
+Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–208.
 
-Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–184; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–184; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
 
 Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2524.
 
@@ -613,7 +613,7 @@ Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1017.
 
 **GAO Report**
 
-Pub. L. 104–58, title II, § 202, Nov. 28, 1995, 109 Stat. 562, directed the Comptroller General of the United States to commence, three years after Nov. 28, 1995, a review of energy production in California and Alaska and the effects of Alaskan North Slope oil exports, if any, on consumers, independent refiners, and shipbuilding and ship repair yards on the West Coast and in Hawaii, and to submit to Congress, within twelve months after commencing the review, a report containing recommendations for Congress and the President to address job loss in the shipbuilding and ship repair industry on the West Coast, as well as adverse impacts on consumers and refiners on the West Coast and in Hawaii, that are attributed to Alaska North Slope oil exports.
+Pub. L. 104–58, title II, § 202, Nov. 28, 1995, 109 Stat. 562, directed the Comptroller General of the United States to commence, three years after Nov. 28, 1995, a review of energy production in California and Alaska and the effects of Alaskan North Slope oil exports, if any, on consumers, independent refiners, and shipbuilding and ship repair yards on the West Coast and in Hawaii, and to submit to Congress, within twelve months after commencing the review, a report containing recommendations for Congress and the President to address job loss in the shipbuilding and ship repair industry on the West Coast, as well as adverse impacts on consumers and refiners on the West Coast and in Hawaii, that are attributed to Alaska North Slope oil exports.
 
 **Outer Continental Shelf; Pipeline Rights-of-Way**
 
@@ -623,7 +623,7 @@ Pipeline rights-of-way in connection with oil, gas, and other leases on submerge
 
 **Transfer of Functions**
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with grants of rights-of-way and temporary use permits for Federal land and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of Department of Agriculture, related to compliance with associated land use permits authorized for and in conjunction with grants of rights-of-way across Federal lands issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with grants of rights-of-way and temporary use permits for Federal land and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of Department of Agriculture, related to compliance with associated land use permits authorized for and in conjunction with grants of rights-of-way across Federal lands issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 **Exports of Alaskan North Slope (ANS) Crude Oil**
 
@@ -653,17 +653,17 @@ The Secretary of Commerce is authorized and directed to inform the appropriate c
 
 William J. Clinton.
 
-### § 186. Reservation of easements or rights-of-way for working purposes; reservation of right to dispose of surface of lands; determination before offering of lease; easement periods
+### § 186. Reservation of easements or rights-of-way for working purposes; reservation of right to dispose of surface of lands; determination before offering of lease; easement periods
 
 Any permit, lease, occupation, or use permitted under this chapter shall reserve to the Secretary of the Interior the right to permit upon such terms as he may determine to be just, for joint or several use, such easements or rights-of-way, including easements in tunnels upon, through, or in the lands leased, occupied, or used as may be necessary or appropriate to the working of the same, or of other lands containing the deposits described in this chapter, and the treatment and shipment of the products thereof by or under authority of the Government, its lessees, or permittees, and for other public purposes. The Secretary of the Interior, in his discretion, in making any lease under this chapter, may reserve to the United States the right to lease, sell, or otherwise dispose of the surface of the lands embraced within such lease under existing law or laws hereafter enacted, insofar as said surface is not necessary for use of the lessee in extracting and removing the deposits therein. If such reservation is made it shall be so determined before the offering of such lease. The said Secretary, during the life of the lease, is authorized to issue such permits for easements herein provided to be reserved.
 
-(Feb. 25, 1920, ch. 85, § 29, 41 Stat. 449.)
+(Feb. 25, 1920, ch. 85, § 29, 41 Stat. 449.)
 
-### § 187. Assignment or subletting of leases; relinquishment of rights under leases; conditions in leases for protection of diverse interests in operation of mines, wells, etc.; State laws not impaired
+### § 187. Assignment or subletting of leases; relinquishment of rights under leases; conditions in leases for protection of diverse interests in operation of mines, wells, etc.; State laws not impaired
 
 No lease issued under the authority of this chapter shall be assigned or sublet, except with the consent of the Secretary of the Interior. The lessee may, in the discretion of the Secretary of the Interior, be permitted at any time to make written relinquishment of all rights under such a lease, and upon acceptance thereof be thereby relieved of all future obligations under said lease, and may with like consent surrender any legal subdivision of the area included within the lease. Each lease shall contain provisions for the purpose of insuring the exercise of reasonable diligence, skill, and care in the operation of said property; a provision that such rules for the safety and welfare of the miners and for the prevention of undue waste as may be prescribed by said Secretary shall be observed, including a restriction of the workday to not exceeding eight hours in any one day for underground workers except in cases of emergency; provisions prohibiting the employment of any child under the age of sixteen in any mine below the surface; provisions securing the workmen complete freedom of purchase; provision requiring the payment of wages at least twice a month in lawful money of the United States, and providing proper rules and regulations to insure the fair and just weighing or measurement of the coal mined by each miner, and such other provisions as he may deem necessary to insure the sale of the production of such leased lands to the United States and to the public at reasonable prices, for the protection of the interests of the United States, for the prevention of monopoly, and for the safeguarding of the public welfare. None of such provisions shall be in conflict with the laws of the State in which the leased property is situated.
 
-(Feb. 25, 1920, ch. 85, § 30, 41 Stat. 449; Pub. L. 95–554, § 5, Oct. 30, 1978, 92 Stat. 2074.)
+(Feb. 25, 1920, ch. 85, § 30, 41 Stat. 449; Pub. L. 95–554, § 5, Oct. 30, 1978, 92 Stat. 2074.)
 
 **Editorial Notes**
 
@@ -671,7 +671,7 @@ No lease issued under the authority of this chapter shall be assigned or sublet,
 
 1978—Pub. L. 95–554 substituted “provisions prohibiting the employment of any child under the age of sixteen in any mine below the surface” for “provisions prohibiting the employment of any boy under the age of sixteen or the employment of any girl or woman, without regard to age, in any mine below the surface”.
 
-### § 187a. Oil or gas leases; partial assignments
+### § 187a. Oil or gas leases; partial assignments
 
 Notwithstanding anything to the contrary in section 187 of this title, any oil or gas lease issued under the authority of this chapter may be assigned or subleased, as to all or part of the acreage included therein, subject to final approval by the Secretary and as to either a divided or undivided interest therein, to any person or persons qualified to own a lease under this chapter, and any assignment or sublease shall take effect as of the first day of the lease month following the date of filing in the proper land office of three original executed counterparts thereof, together with any required bond and proof of the qualification under this chapter of the assignee or sublessee to take or hold such lease or interest therein. Until such approval, however, the assignor or sublessor and his surety shall continue to be responsible for the performance of any and all obligations as if no assignment or sublease had been executed. The Secretary shall disapprove the assignment or sublease only for lack of qualification of the assignee or sublessee or for lack of sufficient bond: *Provided, however*, That the Secretary may, in his discretion, disapprove an assignment of any of the following, unless the assignment constitutes the entire lease or is demonstrated to further the development of oil and gas:
 
@@ -683,7 +683,7 @@ Notwithstanding anything to the contrary in section 187 of this title, any oil o
 
 Requests for approval of assignment or sublease shall be processed promptly by the Secretary. Except where the assignment or sublease is not in accordance with applicable law, the approval shall be given within 60 days of the date of receipt by the Secretary of a request for such approval. Upon approval of any assignment or sublease, the assignee or sublessee shall be bound by the terms of the lease to the same extent as if such assignee or sublessee were the original lessee, any conditions in the assignment or sublease to the contrary notwithstanding. Any partial assignment of any lease shall segregate the assigned and retained portions thereof, and as above provided, release and discharge the assignor from all obligations thereafter accruing with respect to the assigned lands; and such segregated leases shall continue in full force and effect for the primary term of the original lease, but for not less than two years after the date of discovery of oil or gas in paying quantities upon any other segregated portion of the lands originally subject to such lease. Assignments under this section may also be made of parts of leases which are in their extended term because of any provision of this chapter. Upon the segregation by an assignment of a lease issued after September 2, 1960 and held beyond its primary term by production, actual or suspended, or the payment of compensatory royalty, the segregated lease of an undeveloped, assigned, or retained part shall continue for two years, and so long thereafter as oil or gas is produced in paying quantities.
 
-(Feb. 25, 1920, ch. 85, § 30A, formerly § 30a, as added Aug. 8, 1946, ch. 916, § 7, 60 Stat. 955; amended July 29, 1954, ch. 644, § 1(6), 68 Stat. 585; Pub. L. 86–705, § 6, Sept. 2, 1960, 74 Stat. 790; renumbered § 30A and amended Pub. L. 100–203, title V, § 5103, Dec. 22, 1987, 101 Stat. 1330–258.)
+(Feb. 25, 1920, ch. 85, § 30A, formerly § 30a, as added Aug. 8, 1946, ch. 916, § 7, 60 Stat. 955; amended July 29, 1954, ch. 644, § 1(6), 68 Stat. 585; Pub. L. 86–705, § 6, Sept. 2, 1960, 74 Stat. 790; renumbered § 30A and amended Pub. L. 100–203, title V, § 5103, Dec. 22, 1987, 101 Stat. 1330–258.)
 
 **Editorial Notes**
 
@@ -703,13 +703,13 @@ See note set out under section 181 of this title.
 
 **Leases Issued Prior to September 2, 1960**
 
-Pub. L. 86–705, § 6, Sept. 2, 1960, 74 Stat. 790, provided in part that: “The provisions of this section 6 [amending this section] shall not be applicable to any lease issued prior to the effective date of this Act [Sept. 2, 1960].”
+Pub. L. 86–705, § 6, Sept. 2, 1960, 74 Stat. 790, provided in part that: “The provisions of this section 6 [amending this section] shall not be applicable to any lease issued prior to the effective date of this Act [Sept. 2, 1960].”
 
-### § 187b. Oil or gas leases; written relinquishment of rights; release of obligations
+### § 187b. Oil or gas leases; written relinquishment of rights; release of obligations
 
 Notwithstanding any provision to the contrary in section 187 of this title, a lessee may at any time make and file in the appropriate land office a written relinquishment of all rights under any oil or gas lease issued under the authority of this chapter or of any legal subdivision of the area included within any such lease. Such relinquishment shall be effective as of the date of its filing, subject to the continued obligation of the lessee and his surety to make payment of all accrued rentals and royalties and to place all wells on the lands to be relinquished in condition for suspension or abandonment in accordance with the applicable lease terms and regulations; thereupon the lessee shall be released of all obligations thereafter accruing under said lease with respect to the lands relinquished, but no such relinquishment shall release such lessee, or his bond, from any liability for breach of any obligation of the lease, other than an obligation to drill, accrued at the date of the relinquishment.
 
-(Feb. 25, 1920, ch. 85, § 30B, formerly § 30b, as added Aug. 8, 1946, ch. 916, § 8, 60 Stat. 956; renumbered § 30B, Pub. L. 100–203, title V, § 5103, Dec. 22, 1987, 101 Stat. 1330–258.)
+(Feb. 25, 1920, ch. 85, § 30B, formerly § 30b, as added Aug. 8, 1946, ch. 916, § 8, 60 Stat. 956; renumbered § 30B, Pub. L. 100–203, title V, § 5103, Dec. 22, 1987, 101 Stat. 1330–258.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -717,7 +717,7 @@ Notwithstanding any provision to the contrary in section 187 of this title, a le
 
 See note set out under section 181 of this title.
 
-### § 188. Failure to comply with provisions of lease
+### § 188. Failure to comply with provisions of lease
 
 **(a) Forfeiture**
 
@@ -759,9 +759,9 @@ Any lease issued after August 21, 1935, under the provisions of section 226 of t
 
 **(3)**
 
-**(A)** payment of back royalties and the inclusion in a reinstated lease issued pursuant to the provisions of section 226(b) of this title of a requirement for future royalties at a rate of not less than 16⅔ percent computed on a sliding scale based upon the average production per well per day, at a rate which shall be not less than 4 percentage points greater than the competitive royality 1
+**(A)** payment of back royalties and the inclusion in a reinstated lease issued pursuant to the provisions of section 226(b) of this title of a requirement for future royalties at a rate of not less than 16⅔ percent computed on a sliding scale based upon the average production per well per day, at a rate which shall be not less than 4 percentage points greater than the competitive royality 1
 
-<sup>1</sup>  So in original. Probably should be “royalty”.
+<sup>1</sup> So in original. Probably should be “royalty”.
 
 schedule then in force and used for royalty determination for competitive leases issued pursuant to such section as determined by the Secretary: *Provided*, That royalty on such reinstated lease shall be paid on all production removed or sold from such lease subsequent to the termination of the original lease;
 
@@ -809,53 +809,53 @@ The minimum royalty provisions of section 226(m) of this title and the provision
 
 **(j) Discretion of Secretary**
 
-Where, in the judgment of the Secretary of the Interior, drilling operations were being diligently conducted on the last day of the primary term of the lease, and, except for nonpayment of rental, the lessee would have been entitled to extension of his lease, pursuant to section 226–1(d) of this title, the Secretary of the Interior may reinstate such lease notwithstanding the failure of the lessee to have made payment of the next year’s rental, provided the conditions of subparagraphs (1) and (2) of section 2
+Where, in the judgment of the Secretary of the Interior, drilling operations were being diligently conducted on the last day of the primary term of the lease, and, except for nonpayment of rental, the lessee would have been entitled to extension of his lease, pursuant to section 226–1(d) of this title, the Secretary of the Interior may reinstate such lease notwithstanding the failure of the lessee to have made payment of the next year’s rental, provided the conditions of subparagraphs (1) and (2) of section 2
 
-<sup>2</sup>  So in original. Probably should be “subsection”.
+<sup>2</sup> So in original. Probably should be “subsection”.
 
 (c) are satisfied.
 
-(Feb. 25, 1920, ch. 85, § 31, 41 Stat. 450; Aug. 8, 1946, ch. 916, § 9, 60 Stat. 956; July 29, 1954, ch. 644, § 1(7), 68 Stat. 585; Pub. L. 87–822, § 1, Oct. 15, 1962, 76 Stat. 943; Pub. L. 91–245, §§ 1, 2, May 12, 1970, 84 Stat. 206; Pub. L. 97–451, title IV, § 401, Jan. 12, 1983, 96 Stat. 2462; Pub. L. 100–203, title V, §§ 5102(d)(2), 5104, Dec. 22, 1987, 101 Stat. 1330–258, 1330–259; Pub. L. 101–567, § 1, Nov. 15, 1990, 104 Stat. 2802; Pub. L. 103–437, § 11(a)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 109–58, title III, § 371(b), Aug. 8, 2005, 119 Stat. 734; Pub. L. 117–169, title V, § 50262(a)(2), (c)(2), (e)(2), Aug. 16, 2022, 136 Stat. 2056–2058; Pub. L. 119–21, title V, § 50101(a), July 4, 2025, 139 Stat. 137.)
+(Feb. 25, 1920, ch. 85, § 31, 41 Stat. 450; Aug. 8, 1946, ch. 916, § 9, 60 Stat. 956; July 29, 1954, ch. 644, § 1(7), 68 Stat. 585; Pub. L. 87–822, § 1, Oct. 15, 1962, 76 Stat. 943; Pub. L. 91–245, §§ 1, 2, May 12, 1970, 84 Stat. 206; Pub. L. 97–451, title IV, § 401, Jan. 12, 1983, 96 Stat. 2462; Pub. L. 100–203, title V, §§ 5102(d)(2), 5104, Dec. 22, 1987, 101 Stat. 1330–258, 1330–259; Pub. L. 101–567, § 1, Nov. 15, 1990, 104 Stat. 2802; Pub. L. 103–437, § 11(a)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 109–58, title III, § 371(b), Aug. 8, 2005, 119 Stat. 734; Pub. L. 117–169, title V, § 50262(a)(2), (c)(2), (e)(2), Aug. 16, 2022, 136 Stat. 2056–2058; Pub. L. 119–21, title V, § 50101(a), July 4, 2025, 139 Stat. 137.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Mineral Leasing Act for Acquired Lands, referred to in subsec. (d)(1), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, which is classified generally to chapter 7 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
+The Mineral Leasing Act for Acquired Lands, referred to in subsec. (d)(1), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, which is classified generally to chapter 7 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
 
 **Amendments**
 
-2025—Pub. L. 119–21, § 50101(a), repealed Pub. L. 117–169, § 50262(a), (e), and provided that any provision of law amended or repealed by those subsections are restored or revived as if those subsections had not been enacted. See 2022 Amendment and Repeal of Inflation Reduction Act Provisions notes below.
+2025—Pub. L. 119–21, § 50101(a), repealed Pub. L. 117–169, § 50262(a), (e), and provided that any provision of law amended or repealed by those subsections are restored or revived as if those subsections had not been enacted. See 2022 Amendment and Repeal of Inflation Reduction Act Provisions notes below.
 
-2022—Subsec. (d)(1). Pub. L. 117–169, § 50262(e)(2)(A), which substituted “section 226(b) of this title” for “section 226(b) or (c) of this title”, was repealed by Pub. L. 119–21, § 50101(a)(2).
+2022—Subsec. (d)(1). Pub. L. 117–169, § 50262(e)(2)(A), which substituted “section 226(b) of this title” for “section 226(b) or (c) of this title”, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Subsec. (e)(2). Pub. L. 117–169, § 50262(e)(2)(B)(i), which struck out “either” after “payment of back rentals and” and “or the inclusion in a reinstated lease issued pursuant to the provisions of section 226(c) of this title of a requirement that future rentals shall be at a rate not less than $5 per acre per year, all” before “as determined by the Secretary;”, was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (e)(2). Pub. L. 117–169, § 50262(e)(2)(B)(i), which struck out “either” after “payment of back rentals and” and “or the inclusion in a reinstated lease issued pursuant to the provisions of section 226(c) of this title of a requirement that future rentals shall be at a rate not less than $5 per acre per year, all” before “as determined by the Secretary;”, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Pub. L. 117–169, § 50262(c)(2), substituted “$20” for “$10”.
+Pub. L. 117–169, § 50262(c)(2), substituted “$20” for “$10”.
 
-Subsec. (e)(3). Pub. L. 117–169, § 50262(e)(2)(B)(ii), which inserted “and” after semicolon at end, struck out subpar. (A) designation before “payment”, and struck out subpar. (B) which read as follows: “payment of back royalties and inclusion in a reinstated lease issued pursuant to the provisions of section 226(c) of this title of a requirement for future royalties at a rate not less than 20 percent: *Provided*, That royalty on such reinstated lease shall be paid on all production removed or sold from such lease subsequent to the cancellation or termination of the original lease; and”, was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (e)(3). Pub. L. 117–169, § 50262(e)(2)(B)(ii), which inserted “and” after semicolon at end, struck out subpar. (A) designation before “payment”, and struck out subpar. (B) which read as follows: “payment of back royalties and inclusion in a reinstated lease issued pursuant to the provisions of section 226(c) of this title of a requirement for future royalties at a rate not less than 20 percent: *Provided*, That royalty on such reinstated lease shall be paid on all production removed or sold from such lease subsequent to the cancellation or termination of the original lease; and”, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Pub. L. 117–169, § 50262(a)(2), which substituted “20” for “16⅔” in two places, was repealed by Pub. L. 119–21, § 50101(a)(1).
+Pub. L. 117–169, § 50262(a)(2), which substituted “20” for “16⅔” in two places, was repealed by Pub. L. 119–21, § 50101(a)(1).
 
-Subsec. (f). Pub. L. 117–169, § 50262(e)(2)(F), (G), which redesignated subsec. (g) as (f) and struck out former subsec. (f) relating to issuance of noncompetitive oil and gas lease, was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (f). Pub. L. 117–169, § 50262(e)(2)(F), (G), which redesignated subsec. (g) as (f) and struck out former subsec. (f) relating to issuance of noncompetitive oil and gas lease, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Subsec. (g). Pub. L. 117–169, § 50262(e)(2)(G), which redesignated subsec. (h) as (g), was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (g). Pub. L. 117–169, § 50262(e)(2)(G), which redesignated subsec. (h) as (g), was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Subsec. (g)(1). Pub. L. 117–169, § 50262(e)(2)(C)(i), which substituted “in the same manner as the original lease issued pursuant to section 226 of this title” for “as a competitive or a noncompetitive oil and gas lease in the same manner as the original lease issued pursuant to section 226(b) or (c) of this title”, was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (g)(1). Pub. L. 117–169, § 50262(e)(2)(C)(i), which substituted “in the same manner as the original lease issued pursuant to section 226 of this title” for “as a competitive or a noncompetitive oil and gas lease in the same manner as the original lease issued pursuant to section 226(b) or (c) of this title”, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Subsec. (g)(2) to (4). Pub. L. 117–169, § 50262(e)(2)(C)(ii)–(iv), which redesignated pars. (3) and (4) as (2) and (3), respectively, substituted “except” for “applicable to leases issued under section 226(c) of this title except,” in par. (2), and struck out former par. (2) which read as follows: “Except as otherwise provided in this section, the issuance of a lease in lieu of an abandoned patented oil placer mining claim shall be treated as a noncompetitive oil and gas lease issued pursuant to section 226(c) of this title”, was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (g)(2) to (4). Pub. L. 117–169, § 50262(e)(2)(C)(ii)–(iv), which redesignated pars. (3) and (4) as (2) and (3), respectively, substituted “except” for “applicable to leases issued under section 226(c) of this title except,” in par. (2), and struck out former par. (2) which read as follows: “Except as otherwise provided in this section, the issuance of a lease in lieu of an abandoned patented oil placer mining claim shall be treated as a noncompetitive oil and gas lease issued pursuant to section 226(c) of this title”, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Subsec. (h). Pub. L. 117–169, § 50262(e)(2)(G), which redesignated subsec. (i) as (h), was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (h). Pub. L. 117–169, § 50262(e)(2)(G), which redesignated subsec. (i) as (h), was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Pub. L. 117–169, § 50262(e)(2)(D), which substituted “subsection (d)” for “subsections (d) and (f) of this section”, was repealed by Pub. L. 119–21, § 50101(a)(2).
+Pub. L. 117–169, § 50262(e)(2)(D), which substituted “subsection (d)” for “subsections (d) and (f) of this section”, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Subsec. (i). Pub. L. 117–169, § 50262(e)(2)(G), which redesignated subsec. (j) as (i), was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (i). Pub. L. 117–169, § 50262(e)(2)(G), which redesignated subsec. (j) as (i), was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Pub. L. 117–169, § 50262(e)(2)(E), which substituted, in heading, “Royalty reduction in reinstated leases” for “Royalty reductions” and, in text, “In acting on a petition for reinstatement pursuant to subsection (d)” for “(1) In acting on a petition to issue a noncompetitive oil and gas lease, under subsection (f) of this section or in response to a request filed after issuance of such a lease, or both, the Secretary is authorized to reduce the royalty on such lease if in his judgment it is equitable to do so or the circumstances warrant such relief due to uneconomic or other circumstances which could cause undue hardship or premature termination of production.
+Pub. L. 117–169, § 50262(e)(2)(E), which substituted, in heading, “Royalty reduction in reinstated leases” for “Royalty reductions” and, in text, “In acting on a petition for reinstatement pursuant to subsection (d)” for “(1) In acting on a petition to issue a noncompetitive oil and gas lease, under subsection (f) of this section or in response to a request filed after issuance of such a lease, or both, the Secretary is authorized to reduce the royalty on such lease if in his judgment it is equitable to do so or the circumstances warrant such relief due to uneconomic or other circumstances which could cause undue hardship or premature termination of production.
 
-“(2) In acting on a petition for reinstatement pursuant to subsection (d) of this section”, was repealed by Pub. L. 119–21, § 50101(a)(2).
+“(2) In acting on a petition for reinstatement pursuant to subsection (d) of this section”, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Subsec. (j). Pub. L. 117–169, § 50262(e)(2)(G), which redesignated subsec. (j) as (i), was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (j). Pub. L. 117–169, § 50262(e)(2)(G), which redesignated subsec. (j) as (i), was repealed by Pub. L. 119–21, § 50101(a)(2).
 
 2005—Subsec. (d)(2)(A), (B). Pub. L. 109–58 added subpars. (A) and (B) and struck out former subpars. (A) and (B), which related to reinstatement with respect to any lease that terminated under subsec. (b) of this section prior to Jan. 12, 1983, and reinstatement with respect to any lease that terminated under subsec. (b) of this section on or after Jan. 12, 1983.
 
@@ -863,15 +863,15 @@ Subsec. (j). Pub. L. 117–169, § 50262(e)(2)(G), which redesignated subsec. 
 
 1990—Subsec. (g)(3), (4). Pub. L. 101–567 added pars. (3) and (4).
 
-1987—Subsec. (b). Pub. L. 100–203, § 5104, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any lease issued after August 21, 1935, under the provisions of section 226 of this title shall be subject to cancellation by the Secretary of the Interior after thirty days’ notice upon the failure of the lessee to comply with any of the provisions of the lease, unless or until the land covered by any such lease is known to contain valuable deposits of oil or gas.”
+1987—Subsec. (b). Pub. L. 100–203, § 5104, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any lease issued after August 21, 1935, under the provisions of section 226 of this title shall be subject to cancellation by the Secretary of the Interior after thirty days’ notice upon the failure of the lessee to comply with any of the provisions of the lease, unless or until the land covered by any such lease is known to contain valuable deposits of oil or gas.”
 
-Subsec. (h). Pub. L. 100–203, § 5102(d)(2), substituted “section 226(m)” for “section 226(j)”.
+Subsec. (h). Pub. L. 100–203, § 5102(d)(2), substituted “section 226(m)” for “section 226(j)”.
 
 1983—Subsecs. (d) to (j). Pub. L. 97–451 added subsecs. (d) to (i) and redesignated former subsec. (d) as (j).
 
-1970—Subsec. (b). Pub. L. 91–245, § 1, inserted proviso authorizing continuance of a lease where timely paid rent is nominally deficient or miscalculated due to an error either in acreage figure stated in the lease, in any decision affecting the lease, or in a bill or decision rendered by the Secretary, except where a new lease was issued prior to May 12, 1970 or the lessee failed to pay the deficiency within the period allowed by the Secretary.
+1970—Subsec. (b). Pub. L. 91–245, § 1, inserted proviso authorizing continuance of a lease where timely paid rent is nominally deficient or miscalculated due to an error either in acreage figure stated in the lease, in any decision affecting the lease, or in a bill or decision rendered by the Secretary, except where a new lease was issued prior to May 12, 1970 or the lessee failed to pay the deficiency within the period allowed by the Secretary.
 
-Subsec. (c). Pub. L. 91–245, § 2, inserted provisions allowing reinstatement of a lease despite a twenty-day delay in payment of rent, made the payment of back rental accruing from the date of termination of the lease a prerequisite to such reinstatement, restricted the Secretary’s power to issue a new lease on the lands covered by the terminated lease, gave the Secretary discretion to extend the term of a reinstated lease so as to afford the lessee a reasonable opportunity to continue operations under the lease, and struck out requirement that the petition for reinstatement of any lease terminated prior to Oct. 15, 1962 be filed within 180 days after Oct. 15, 1962.
+Subsec. (c). Pub. L. 91–245, § 2, inserted provisions allowing reinstatement of a lease despite a twenty-day delay in payment of rent, made the payment of back rental accruing from the date of termination of the lease a prerequisite to such reinstatement, restricted the Secretary’s power to issue a new lease on the lands covered by the terminated lease, gave the Secretary discretion to extend the term of a reinstated lease so as to afford the lessee a reasonable opportunity to continue operations under the lease, and struck out requirement that the petition for reinstatement of any lease terminated prior to Oct. 15, 1962 be filed within 180 days after Oct. 15, 1962.
 
 1962—Pub. L. 87–822 designated existing pars. as subsecs. (a) and (b) and added subsecs. (c) and (d).
 
@@ -887,7 +887,7 @@ See note set out under section 181 of this title.
 
 **Repeal of Inflation Reduction Act Provisions**
 
-Pub. L. 119–21, title V, § 50101(a), July 4, 2025, 139 Stat. 137, provided that:
+Pub. L. 119–21, title V, § 50101(a), July 4, 2025, 139 Stat. 137, provided that:
 
 > **“(1) Onshore oil and gas royalty rates.—** Subsection (a) of section 50262 of Public Law 117–169 (136 Stat. 2056) [amending this section and section 226 of this title] is repealed, and any provision of law amended or repealed by that subsection is restored or revived as if that subsection had not been enacted into law.
 
@@ -895,7 +895,7 @@ Pub. L. 119–21, title V, § 50101(a), July 4, 2025, 139 Stat. 137, provided 
 
 **Reinstatement of Leases**
 
-Pub. L. 109–58, title III, § 371(a), Aug. 8, 2005, 119 Stat. 734, provided that:
+Pub. L. 109–58, title III, § 371(a), Aug. 8, 2005, 119 Stat. 734, provided that:
 
 > “Notwithstanding section 31(d)(2)(B) of the Mineral Leasing Act (30 U.S.C. 188(d)(2)(B)) as in effect before the effective date of this section [probably means the date of enactment of Pub. L. 109–58, Aug. 8, 2005], and notwithstanding the amendment made by subsection (b) of this section [amending this section], the Secretary of the Interior may reinstate any oil and gas lease issued under that Act [30 U.S.C. 181 et seq.] that was terminated for failure of a lessee to pay the full amount of rental on or before the anniversary date of the lease, during the period beginning on September 1, 2001, and ending on June 30, 2004, if—
 
@@ -911,17 +911,17 @@ Pub. L. 109–58, title III, § 371(a), Aug. 8, 2005, 119 Stat. 734, provided 
 
 **Authority for Issuance of Leases Unaffected by Reinstatement of Leases**
 
-Pub. L. 87–822, § 2, Oct. 15, 1962, 76 Stat. 943, provided that: “Nothing in this Act [amending this section] shall be construed as limiting the authority of the Secretary of the Interior to issue, during the periods in which petitions for reinstatement may be filed, oil and gas leases for any of the lands affected.”
+Pub. L. 87–822, § 2, Oct. 15, 1962, 76 Stat. 943, provided that: “Nothing in this Act [amending this section] shall be construed as limiting the authority of the Secretary of the Interior to issue, during the periods in which petitions for reinstatement may be filed, oil and gas leases for any of the lands affected.”
 
 **Outer Continental Shelf; Cancellation of Leases**
 
 Cancellation of mineral leases on submerged lands of outer Continental Shelf, see sections 1334 and 1337 of Title 43, Public Lands.
 
-### § 188a. Surrender of leases
+### § 188a. Surrender of leases
 
 The Secretary of the Interior is authorized to accept the surrender of any lease issued pursuant to any of the provisions of this chapter, or any amendment thereof, where the surrender is filed in the Bureau of Land Management subsequent to the accrual but prior to the payment of the yearly rental due under the lease, upon payment of the accrued rental on a pro rata monthly basis for the portion of the lease year prior to the filing of the surrender. The authority granted to the Secretary of the Interior by this section shall extend only to cases in which he finds that the failure of the lessee to file a timely surrender of the lease prior to the accrual of the rental was not due to a lack of reasonable diligence, but it shall not extend to claims or cases which have been referred to the Department of Justice for purposes of suit.
 
-(Nov. 28, 1943, ch. 329, 57 Stat. 593; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
+(Nov. 28, 1943, ch. 329, 57 Stat. 593; 1946 Reorg. Plan No. 3, § 403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
 **Editorial Notes**
 
@@ -933,31 +933,31 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 **Transfer of Functions**
 
-“Bureau of Land Management” substituted in text for “General Land Office” on authority of Reorg. Plan No. 3 of 1946, § 403, set out in the Appendix to Title 5, Government Organization and Employees.
+“Bureau of Land Management” substituted in text for “General Land Office” on authority of Reorg. Plan No. 3 of 1946, § 403, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 189. Rules and regulations; boundary lines; State rights unaffected; taxation
+### § 189. Rules and regulations; boundary lines; State rights unaffected; taxation
 
 The Secretary of the Interior is authorized to prescribe necessary and proper rules and regulations and to do any and all things necessary to carry out and accomplish the purposes of this chapter, also to fix and determine the boundary lines of any structure, or oil or gas field, for the purposes of this chapter. Nothing in this chapter shall be construed or held to affect the rights of the States or other local authority to exercise any rights which they may have, including the right to levy and collect taxes upon improvements, output of mines, or other rights, property, or assets of any lessee of the United States.
 
-(Feb. 25, 1920, ch. 85, § 32, 41 Stat. 450.)
+(Feb. 25, 1920, ch. 85, § 32, 41 Stat. 450.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transfer of Functions**
 
-Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering of competition for Federal leases, implementation of alternative bidding systems authorized for award of Federal leases, establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
 **Outer Continental Shelf; Rules and Regulations With Respect to Leases**
 
 Rules and regulations with respect to mineral leases on submerged lands of outer Continental Shelf to be prescribed by Secretary of the Interior, see section 1334 of Title 43, Public Lands.
 
-### § 190. Oath; requirement; form; blanks
+### § 190. Oath; requirement; form; blanks
 
 All statements, representations, or reports required by the Secretary of the Interior under this chapter shall be upon oath, unless otherwise specified by him, and in such form and upon such blanks as the Secretary of the Interior may require.
 
-(Feb. 25, 1920, ch. 85, § 33, 41 Stat. 450.)
+(Feb. 25, 1920, ch. 85, § 33, 41 Stat. 450.)
 
-### § 191. Disposition of moneys received
+### § 191. Disposition of moneys received
 
 **(a) In general**
 
@@ -1035,17 +1035,17 @@ The amount of the fee shall be $9,500 for each new application, as indexed for U
 
 During each of fiscal years of 2016 through 2026, the Secretary shall not implement a rulemaking that would enable an increase in fees to recover additional costs related to processing applications for permits to drill.
 
-(Feb. 25, 1920, ch. 85, § 35, 41 Stat. 450; May 27, 1947, ch. 83, 61 Stat. 119; Aug. 3, 1950, ch. 527, 64 Stat. 402; Pub. L. 85–88, § 2, July 10, 1957, 71 Stat. 282; Pub. L. 85–508, §§ 6(k), 28(b), July 7, 1958, 72 Stat. 343, 351; Pub. L. 94–273, § 6(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–377, § 9, Aug. 4, 1976, 90 Stat. 1089; Pub. L. 94–422, title III, § 301, Sept. 28, 1976, 90 Stat. 1323; Pub. L. 94–579, title III, § 317(a), Oct. 21, 1976, 90 Stat. 2770; Pub. L. 97–451, title I, §§ 104(a), 111(g), Jan. 12, 1983, 96 Stat. 2451, 2456; Pub. L. 100–203, title V, § 5109, Dec. 22, 1987, 101 Stat. 1330–261; Pub. L. 100–443, § 5(b), Sept. 22, 1988, 102 Stat. 1768; Pub. L. 103–66, title X, § 10201, Aug. 10, 1993, 107 Stat. 407; Pub. L. 106–393, title V, § 503, Oct. 30, 2000, 114 Stat. 1624; Pub. L. 109–58, title III, § 365(g), Aug. 8, 2005, 119 Stat. 725; Pub. L. 113–67, div. A, title III, § 302, Dec. 26, 2013, 127 Stat. 1181; Pub. L. 113–291, div. B, title XXX, § 3021(b), (c)(1), Dec. 19, 2014, 128 Stat. 3760, 3761; Pub. L. 115–232, div. A, title VIII, § 809(i)(1), Aug. 13, 2018, 132 Stat. 1843.)
+(Feb. 25, 1920, ch. 85, § 35, 41 Stat. 450; May 27, 1947, ch. 83, 61 Stat. 119; Aug. 3, 1950, ch. 527, 64 Stat. 402; Pub. L. 85–88, § 2, July 10, 1957, 71 Stat. 282; Pub. L. 85–508, §§ 6(k), 28(b), July 7, 1958, 72 Stat. 343, 351; Pub. L. 94–273, § 6(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–377, § 9, Aug. 4, 1976, 90 Stat. 1089; Pub. L. 94–422, title III, § 301, Sept. 28, 1976, 90 Stat. 1323; Pub. L. 94–579, title III, § 317(a), Oct. 21, 1976, 90 Stat. 2770; Pub. L. 97–451, title I, §§ 104(a), 111(g), Jan. 12, 1983, 96 Stat. 2451, 2456; Pub. L. 100–203, title V, § 5109, Dec. 22, 1987, 101 Stat. 1330–261; Pub. L. 100–443, § 5(b), Sept. 22, 1988, 102 Stat. 1768; Pub. L. 103–66, title X, § 10201, Aug. 10, 1993, 107 Stat. 407; Pub. L. 106–393, title V, § 503, Oct. 30, 2000, 114 Stat. 1624; Pub. L. 109–58, title III, § 365(g), Aug. 8, 2005, 119 Stat. 725; Pub. L. 113–67, div. A, title III, § 302, Dec. 26, 2013, 127 Stat. 1181; Pub. L. 113–291, div. B, title XXX, § 3021(b), (c)(1), Dec. 19, 2014, 128 Stat. 3760, 3761; Pub. L. 115–232, div. A, title VIII, § 809(i)(1), Aug. 13, 2018, 132 Stat. 1843.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Oil and Gas Royalty Management Act of 1982, referred to in subsec. (a), is Pub. L. 97–451, Jan. 12, 1983, 96 Stat. 2447, which is classified generally to chapter 29 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+The Federal Oil and Gas Royalty Management Act of 1982, referred to in subsec. (a), is Pub. L. 97–451, Jan. 12, 1983, 96 Stat. 2447, which is classified generally to chapter 29 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
-The Geothermal Steam Act of 1970, referred to in subsec. (a), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (a), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Reclamation Act, approved June 17, 1902, referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
+The Reclamation Act, approved June 17, 1902, referred to in subsec. (a), is act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 371 of Title 43 and Tables.
 
 **Codification**
 
@@ -1055,9 +1055,9 @@ Provisions of subsec. (a) which authorized the payment of monies to the Territor
 
 2018—Subsec. (a). Pub. L. 115–232 substituted “section 8733(b) of title 10” for “the Act of June 4, 1920 (41 Stat. 813), as amended June 30, 1938 (52 Stat. 1252)”.
 
-2014—Subsec. (c)(3) to (5). Pub. L. 113–291, § 3021(c)(1), added pars. (3) to (5) and struck out former par. (3) which read as follows: “For each of fiscal years 2006 through 2015, the Fund shall be available to the Secretary of the Interior for expenditure, without further appropriation and without fiscal year limitation, for the coordination and processing of oil and gas use authorizations on onshore Federal land under the jurisdiction of the Pilot Project offices identified in section 15924(d) of title 42.”
+2014—Subsec. (c)(3) to (5). Pub. L. 113–291, § 3021(c)(1), added pars. (3) to (5) and struck out former par. (3) which read as follows: “For each of fiscal years 2006 through 2015, the Fund shall be available to the Secretary of the Interior for expenditure, without further appropriation and without fiscal year limitation, for the coordination and processing of oil and gas use authorizations on onshore Federal land under the jurisdiction of the Pilot Project offices identified in section 15924(d) of title 42.”
 
-Subsec. (d). Pub. L. 113–291, § 3021(b), added subsec. (d)
+Subsec. (d). Pub. L. 113–291, § 3021(b), added subsec. (d)
 
 2013—Subsec. (b). Pub. L. 113–67 amended subsec. (b) generally. Prior to amendment, text read as follows: “In determining the amount of payments to the States under this section, the amount of such payments shall not be reduced by any administrative or other costs incurred by the United States.”
 
@@ -1071,9 +1071,9 @@ Subsec. (d). Pub. L. 113–291, § 3021(b), added subsec. (d)
 
 1987—Pub. L. 100–203 inserted at end “In determining the amount of payments to States under this section, the amount of such payments shall not be reduced by any administrative or other costs incurred by the United States.”
 
-1983—Pub. L. 97–451, § 111(g), inserted reference to interest charges collected under the Federal Oil and Gas Royalty Management Act of 1982.
+1983—Pub. L. 97–451, § 111(g), inserted reference to interest charges collected under the Federal Oil and Gas Royalty Management Act of 1982.
 
-Pub. L. 97–451, § 104(a), struck out “as soon as practicable after March 31 and September 30 of each year” after “Secretary of the Treasury” and “of those from Alaska”, and inserted at end provisions directing that payments to States be made not later than the last business day of the month in which such moneys are warranted by the United States Treasury to the Secretary as having been received, that warrants be issued by the Treasury not later than 10 days after receipt of the money by the Treasury, that moneys placed in a suspense account which are determined to be payable to a State be made not later than the last business day of the month in which a dispute is resolved, and that amounts placed in a suspense account pending resolution bear interest until the dispute is resolved.
+Pub. L. 97–451, § 104(a), struck out “as soon as practicable after March 31 and September 30 of each year” after “Secretary of the Treasury” and “of those from Alaska”, and inserted at end provisions directing that payments to States be made not later than the last business day of the month in which such moneys are warranted by the United States Treasury to the Secretary as having been received, that warrants be issued by the Treasury not later than 10 days after receipt of the money by the Treasury, that moneys placed in a suspense account which are determined to be payable to a State be made not later than the last business day of the month in which a dispute is resolved, and that amounts placed in a suspense account pending resolution bear interest until the dispute is resolved.
 
 1976—Pub. L. 94–579 substituted provisions setting forth determination of amount, time for payments, and manner of expenditure by the States of all moneys received from sales, etc., under provisions of this chapter and the Geothermal Steam Act of 1970, and proviso relating to naval petroleum reserve moneys, for provisions setting forth determination of amount and time for payment to the States of all moneys received from sales, etc., under the provisions of this chapter, and provisos relating to naval petroleum reserve moneys, additional moneys from sales, etc., under this chapter and the Geothermal Steam Act of 1970, and expenditure of State oil shale funds.
 
@@ -1083,9 +1083,9 @@ Pub. L. 94–377 substituted “40 per centum thereof shall be paid into, reserv
 
 Pub. L. 94–273 substituted “March” for “December” and “September” for “June”.
 
-1958—Pub. L. 85–508, §§ 6(k), 28(b), struck out provisions which related to disposition of proceeds or income derived by the United States from mineral school sections in the Territory of Alaska and substituted “, and of those from Alaska 52½ per centum thereof shall be paid to the State of Alaska for disposition by the legislators thereof” for “, and of those from Alaska 52½ per centum thereof shall be paid to the Territory of Alaska for disposition by the Legislature of the Territory of Alaska” before proviso.
+1958—Pub. L. 85–508, §§ 6(k), 28(b), struck out provisions which related to disposition of proceeds or income derived by the United States from mineral school sections in the Territory of Alaska and substituted “, and of those from Alaska 52½ per centum thereof shall be paid to the State of Alaska for disposition by the legislators thereof” for “, and of those from Alaska 52½ per centum thereof shall be paid to the Territory of Alaska for disposition by the Legislature of the Territory of Alaska” before proviso.
 
-1957—Pub. L. 85–88 inserted “, and of those from Alaska 52½ per centum thereof shall be paid to the Territory of Alaska for disposition by the Legislature of the Territory of Alaska” before proviso.
+1957—Pub. L. 85–88 inserted “, and of those from Alaska 52½ per centum thereof shall be paid to the Territory of Alaska for disposition by the Legislature of the Territory of Alaska” before proviso.
 
 1950—Act Aug. 3, 1950, in providing that payments to States be made bi-annually instead of annually, substituted “as soon as practicable after December 31 and June 30 of each year” for “after the expiration of each fiscal year”.
 
@@ -1107,7 +1107,7 @@ Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease
 
 **Findings**
 
-Pub. L. 106–393, title V, § 502, Oct. 30, 2000, 114 Stat. 1624, provided that:
+Pub. L. 106–393, title V, § 502, Oct. 30, 2000, 114 Stat. 1624, provided that:
 
 > “The Congress finds the following:
 
@@ -1121,7 +1121,7 @@ Pub. L. 106–393, title V, § 502, Oct. 30, 2000, 114 Stat. 1624, provided th
 
 **Funds Held by Colorado and Utah From Interior Department Oil Shale Test Leases**
 
-Pub. L. 94–579, title III, § 317(b), Oct. 21, 1976, 90 Stat. 2771, provided that: “Funds now held pursuant to said section 35 [this section] by the States of Colorado and Utah separately from the Department of the Interior oil shale test leases known as C–A; C–B; U–A and U–B shall be used by such States and subdivisions as the legislature of each State may direct giving priority to those subdivisions socially or economically impacted by the development of minerals leased under this Act for (1) planning, (2) construction and maintenance of public facilities, and (3) provision of public services.”
+Pub. L. 94–579, title III, § 317(b), Oct. 21, 1976, 90 Stat. 2771, provided that: “Funds now held pursuant to said section 35 [this section] by the States of Colorado and Utah separately from the Department of the Interior oil shale test leases known as C–A; C–B; U–A and U–B shall be used by such States and subdivisions as the legislature of each State may direct giving priority to those subdivisions socially or economically impacted by the development of minerals leased under this Act for (1) planning, (2) construction and maintenance of public facilities, and (3) provision of public services.”
 
 **Outer Continental Shelf; Revenues From Leases**
 
@@ -1133,7 +1133,7 @@ Disposition of revenues from leases on submerged lands of outer Continental Shel
 
 Effectiveness of amendment by Pub. L. 85–508 was dependent on admission of Alaska into the Union under sections 6(k) and 8(b) of Pub. L. 85–508. Admission was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508. See notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-### § 191a. Late payment charges under Federal mineral leases
+### § 191a. Late payment charges under Federal mineral leases
 
 **(a) Distribution of late payment charges**
 
@@ -1147,7 +1147,7 @@ Subsection (a) shall apply with respect to any interest, or other charge referre
 
 Any interest, or other charge referred to in subsection (a), which was paid to the United States before July 1, 1988, and distributed to any State or other recipient is hereby deemed to be authorized and approved as of the date of payment or distribution, and no part of any such payment or distribution shall be recouped from the State or other recipient. This subsection shall not apply to interest or other charges paid in connection with any royalty, rent, bonus, or other amount determined not to be owing to the United States.
 
-(Pub. L. 100–524, § 7, Oct. 24, 1988, 102 Stat. 2607.)
+(Pub. L. 100–524, § 7, Oct. 24, 1988, 102 Stat. 2607.)
 
 **Editorial Notes**
 
@@ -1155,11 +1155,11 @@ Any interest, or other charge referred to in subsection (a), which was paid to t
 
 Section was enacted as part of the Congaree Swamp National Monument Expansion and Wilderness Act, and not as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which com­prises this chapter.
 
-### § 191b. Collection of unpaid and underpaid royalties and late payment interest owed by lessees
+### § 191b. Collection of unpaid and underpaid royalties and late payment interest owed by lessees
 
 Beginning in fiscal year 1996 and thereafter, the Secretary shall take appropriate action to collect unpaid and underpaid royalties and late payment interest owed by Federal and Indian mineral lessees and other royalty payors on amounts received in settlement or other resolution of disputes under, and for partial or complete termination of, sales agreements for minerals from Federal and Indian leases.
 
-(Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–167; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–167; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.)
 
 **Editorial Notes**
 
@@ -1175,13 +1175,13 @@ Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2508.
 
-### § 192. Payment of royalties in oil or gas; sale of such oil or gas
+### § 192. Payment of royalties in oil or gas; sale of such oil or gas
 
 All royalty accruing to the United States under any oil or gas lease or permit under this chapter on demand of the Secretary of the Interior shall be paid in oil or gas.
 
 Upon granting any oil or gas lease under this chapter, and from time to time thereafter during said lease, the Secretary of the Interior shall, except whenever in his judgment it is desirable to retain the same for the use of the United States, offer for sale for such period as he may determine, upon notice and advertisement on sealed bids or at public auction, all royalty oil and gas accruing or reserved to the United States under such lease. Such advertisement and sale shall reserve to the Secretary of the Interior the right to reject all bids whenever within his judgment the interest of the United States demands; and in cases where no satisfactory bid is received or where the accepted bidder fails to complete the purchase, or where the Secretary of the Interior shall determine that it is unwise in the public interest to accept the offer of the highest bidder, the Secretary of the Interior, within his discretion, may readvertise such royalty for sale, or sell at private sale at not less than the market price for such period, or accept the value thereof from the lessee: *Provided*, That inasmuch as the public interest will be served by the sale of royalty oil to refineries not having their own source of supply for crude oil, the Secretary of the Interior, when he determines that sufficient supplies of crude oil are not available in the open market to such refineries, is authorized and directed to grant preference to such refineries in the sale of oil under the provisions of this section, for processing or use in such refineries and not for resale in kind, and in so doing may sell to such refineries at private sale at not less than the market price any royalty oil accruing or reserved to the United States under leases issued pursuant to this chapter: *Provided further*, That in selling such royalty oil the Secretary of the Interior may at his discretion prorate such oil among such refineries in the area in which the oil is produced: *Provided, however*, That pending the making of a permanent contract for the sale of any royalty, oil or gas as herein provided, the Secretary of the Interior may sell the current product at private sale, at not less than the market price: *And provided further*, That any royalty, oil, or gas may be sold at not less than the market price at private sale to any department or agency of the United States.
 
-(Feb. 25, 1920, ch. 85, § 36, 41 Stat. 451; July 13, 1946, ch. 574, 60 Stat. 533.)
+(Feb. 25, 1920, ch. 85, § 36, 41 Stat. 451; July 13, 1946, ch. 574, 60 Stat. 533.)
 
 **Editorial Notes**
 
@@ -1195,7 +1195,7 @@ Upon granting any oil or gas lease under this chapter, and from time to time the
 
 Payment of royalties from mineral leases on submerged lands of outer Continental Shelf, see section 1337 of Title 43, Public Lands.
 
-### § 192a. Cancellation or modification of contracts
+### § 192a. Cancellation or modification of contracts
 
 Where, under any existing contract entered into pursuant to the first proviso in the second paragraph of section 192 of this title, any refinery is required to pay a premium price for the purchase of Government royalty oil, such refinery may, at its option, by written notice to the Secretary of the Interior, elect either—
 
@@ -1203,7 +1203,7 @@ Where, under any existing contract entered into pursuant to the first proviso in
 
 **(2)** to retain such contract with the modifications, that (a) the price, on and after March 1, 1949, shall be as defined in the contract, without premium payments, (b) any credit thereby resulting from past premium payments shall be added to the refinery’s account, and (c) the Secretary may, at his option, elect to terminate the contract as so modified, such termination to take place at the end of the third calendar month following the month in which written notice thereof is given by the Secretary.
 
-(Sept. 1, 1949, ch. 529, § 1, 63 Stat. 682.)
+(Sept. 1, 1949, ch. 529, § 1, 63 Stat. 682.)
 
 **Editorial Notes**
 
@@ -1211,11 +1211,11 @@ Where, under any existing contract entered into pursuant to the first proviso in
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 192b. Application to contracts
+### § 192b. Application to contracts
 
 The provisions of sections 192a to 192c of this title shall apply to all existing contracts for the purchase of Government royalty oil entered into after July 13, 1946, and prior to September 1, 1949, irrespective of whether a determination of preference status was made in connection with the award of such contracts, but shall not apply to any such contract which subsequent to its award has been transferred, through the acquisition of stock interests or other transactions, to the ownership or control of a refinery ineligible for a preference under section 192 of this title, and the regulations in force thereunder at the time of such transfer.
 
-(Sept. 1, 1949, ch. 529, § 2, 63 Stat. 682.)
+(Sept. 1, 1949, ch. 529, § 2, 63 Stat. 682.)
 
 **Editorial Notes**
 
@@ -1223,11 +1223,11 @@ The provisions of sections 192a to 192c of this title shall apply to all existin
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 192c. Rules and regulations governing issuance of certain leases; disposition of receipts
+### § 192c. Rules and regulations governing issuance of certain leases; disposition of receipts
 
 The Secretary of the Interior is authorized under general rules and regulations to be prescribed by him to issue leases or permits for the exploration, development, and utilization of the mineral deposits, other than those subject to the provisions of chapter 7 of this title, in those lands added to the Shasta National Forest by the Act of March 19, 1948 (Public Law 449, Eightieth Congress), which were acquired with funds of the United States or lands received in exchange therefor: *Provided*, That any permit or lease of such deposits in lands administered by the Secretary of Agriculture shall be issued only with his consent and subject to such conditions as he may prescribe to insure the adequate utilization of the lands for the purposes set forth in the Act of March 19, 1948: *And provided further*, That all receipts derived from leases or permits issued under the authority of sections 192a to 192c of this title shall be paid into the same funds or accounts in the Treasury and shall be distributed in the same manner as prescribed for other receipts from the lands affected by the lease or permit, the intention of this provision being that sections 192a to 192c of this title shall not affect the distribution of receipts pursuant to legislation applicable to such lands.
 
-(Sept. 1, 1949, ch. 529, § 3, 63 Stat. 683.)
+(Sept. 1, 1949, ch. 529, § 3, 63 Stat. 683.)
 
 **Editorial Notes**
 
@@ -1245,11 +1245,11 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 Functions of Secretary of the Interior under this section, with respect to use and disposal from lands under jurisdiction of Secretary of Agriculture of those mineral materials which Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under sections 601 to 604 and 611 to 615 of this title, see Pub. L. 86–509, June 11, 1960, 74 Stat. 205, set out as a Transfer of Functions from Secretary of the Interior to Secretary of Agriculture note under section 2201 of Title 7, Agriculture.
 
-### § 193. Disposition of deposits of coal, and so forth
+### § 193. Disposition of deposits of coal, and so forth
 
 The deposits of coal, phosphate, sodium, potassium, oil, oil shale, and gas, herein referred to, in lands valuable for such minerals, including lands and deposits in Lander, Wyoming, coal entries numbered 18 to 49, inclusive, shall be subject to disposition only in the form and manner provided in this chapter, except as provided in sections 1716 and 1719 of title 43, and except as to valid claims existent on February 25, 1920, and thereafter maintained in compliance with the laws under which initiated, which claims may be perfected under such laws, including discovery.
 
-(Feb. 25, 1920, ch. 85, § 37, 41 Stat. 451; Feb. 7, 1927, ch. 66, § 5, 44 Stat. 1058; Aug. 8, 1946, ch. 916, § 11, 60 Stat. 957; Pub. L. 95–554, § 4, Oct. 30, 1978, 92 Stat. 2074.)
+(Feb. 25, 1920, ch. 85, § 37, 41 Stat. 451; Feb. 7, 1927, ch. 66, § 5, 44 Stat. 1058; Aug. 8, 1946, ch. 916, § 11, 60 Stat. 957; Pub. L. 95–554, § 4, Oct. 30, 1978, 92 Stat. 2074.)
 
 **Editorial Notes**
 
@@ -1265,11 +1265,11 @@ Section was from act Feb. 25, 1920, in which words now reading “in Lander, Wyo
 
 1927—Act Feb. 7, 1927, included deposits of potassium.
 
-### § 193a. Preference right of United States to purchase coal for Army and Navy; price for coal; civil actions; jurisdiction
+### § 193a. Preference right of United States to purchase coal for Army and Navy; price for coal; civil actions; jurisdiction
 
 The United States shall, at all times, have the preference right to purchase so much of the product of any mine or mines opened upon the lands sold under the provisions of this Act, as may be necessary for the use of the Army and Navy, and at such reasonable and remunerative price as may be fixed by the President; but the producers of any coal so purchased who may be dissatisfied with the price thus fixed shall have the right to prosecute suits against the United States in the United States Court of Federal Claims for the recovery of any additional sum or sums they may claim as justly due upon such purchase.
 
-(May 28, 1908, ch. 211, § 2, 35 Stat. 424; Pub. L. 97–164, title I, § 160(a)(10), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(May 28, 1908, ch. 211, § 2, 35 Stat. 424; Pub. L. 97–164, title I, § 160(a)(10), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -1299,11 +1299,11 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-### § 194. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644
+### § 194. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644
 
-Section, acts Feb. 25, 1920, ch. 85, § 38, 41 Stat. 451; Mar. 3, 1925, ch. 462, 43 Stat. 1145, related to fees and commissions of registers (successors to consolidated offices of registers and receivers), the predecessors of managers.
+Section, acts Feb. 25, 1920, ch. 85, § 38, 41 Stat. 451; Mar. 3, 1925, ch. 462, 43 Stat. 1145, related to fees and commissions of registers (successors to consolidated offices of registers and receivers), the predecessors of managers.
 
-### § 195. Enforcement
+### § 195. Enforcement
 
 **(a) Violations** It shall be unlawful for any person:
 
@@ -1349,9 +1349,9 @@ The remedies, penalties, fines, and imprisonment prescribed in this section shal
 
 **(5)** Nothing in this section shall deprive a State of jurisdiction to enforce its own civil and criminal laws against any person who may also be subject to civil and criminal action under this section.
 
-(Feb. 25, 1920, ch. 85, § 41, as added Pub. L. 100–203, title V, § 5108, Dec. 22, 1987, 101 Stat. 1330–260.)
+(Feb. 25, 1920, ch. 85, § 41, as added Pub. L. 100–203, title V, § 5108, Dec. 22, 1987, 101 Stat. 1330–260.)
 
-### § 196. Cooperative agreements; delegation of authority
+### § 196. Cooperative agreements; delegation of authority
 
 Notwithstanding any other provision of law, for fiscal year 1992 and each year thereafter, the Secretary of the Interior or his designee is authorized to—
 
@@ -1371,7 +1371,7 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 ## SUBCHAPTER II—COAL
 
-### § 201. Leases and exploration
+### § 201. Leases and exploration
 
 **(a) Leases**
 
@@ -1421,13 +1421,13 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 **(3)** The licensee shall furnish to the Secretary copies of all data (including, but not limited to, geological, geophyscal,1
 
-<sup>1</sup>  So in original. Probably should be “geophysical,”.
+<sup>1</sup> So in original. Probably should be “geophysical,”.
 
 and core drilling analyses) obtained during such exploration. The Secretary shall maintain the confidentiality of all data so obtained until after the areas involved have been leased or until such time as he determines that making the data available to the public would not damage the competitive position of the licensee, whichever comes first.
 
 **(4)** Any person who willfully conducts coal exploration for commercial purposes on lands subject to this chapter without an exploration license issued hereunder shall be subject to a fine of not more than $1,000 for each day of violation. All data collected by said person on any Federal lands as a result of such violation shall be made immediately available to the Secretary, who shall make the data available to the public as soon as it is practicable. No penalty under this subsection shall be assessed unless such person is given notice and opportunity for a hearing with respect to such violation.
 
-(Feb. 25, 1920, ch. 85, § 2(a), (b), 41 Stat. 438; June 3, 1948, ch. 379, § 1, 62 Stat. 289; Pub. L. 86–252, § 2, Sept. 9, 1959, 73 Stat. 490; Pub. L. 88–526, § 2(a), (b), Aug. 31, 1964, 78 Stat. 710; Pub. L. 94–377, §§ 2–4, Aug. 4, 1976, 90 Stat. 1083, 1085; Pub. L. 95–554, § 2, Oct. 30, 1978, 92 Stat. 2073; Pub. L. 109–58, title IV, § 436, Aug. 8, 2005, 119 Stat. 762.)
+(Feb. 25, 1920, ch. 85, § 2(a), (b), 41 Stat. 438; June 3, 1948, ch. 379, § 1, 62 Stat. 289; Pub. L. 86–252, § 2, Sept. 9, 1959, 73 Stat. 490; Pub. L. 88–526, § 2(a), (b), Aug. 31, 1964, 78 Stat. 710; Pub. L. 94–377, §§ 2–4, Aug. 4, 1976, 90 Stat. 1083, 1085; Pub. L. 95–554, § 2, Oct. 30, 1978, 92 Stat. 2073; Pub. L. 109–58, title IV, § 436, Aug. 8, 2005, 119 Stat. 762.)
 
 **Editorial Notes**
 
@@ -1435,15 +1435,15 @@ and core drilling analyses) obtained during such exploration. The Secretary shal
 
 This section, referred to in subsec. (a)(1), is section 2 of act Feb. 25, 1920, as amended, which is comprised of subsecs. (a) to (d). Subsecs. (a) and (b) of section 2 comprise this section, subsec. (c) of section 2 comprises section 202 of this title, and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, comprises section 202a of this title.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§ 1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§ 1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (a)(3)(E), is act June 30, 1948, ch. 758, 62 Stat. 1155, formerly classified to chapter 23 (§ 1151 et seq.) of Title 33, Navigation and Navigable Waters, which was completely revised by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, and is classified generally to chapter 26 (§ 1251 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (a)(3)(E), is act June 30, 1948, ch. 758, 62 Stat. 1155, formerly classified to chapter 23 (§ 1151 et seq.) of Title 33, Navigation and Navigable Waters, which was completely revised by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, and is classified generally to chapter 26 (§ 1251 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Clean Air Act, referred to in subsec. (a)(3)(E), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (a)(3)(E), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 **Codification**
 
-Section is comprised of subsecs. (a) and (b) of section 2 of act Feb. 25, 1920, as amended by section 1 of act June 3, 1948. Subsec. (c) of section 2 of act Feb. 25, 1920, is classified to section 202 of this title. Subsec. (d) of said section 2, as added by Pub. L. 94–377, § 5(b), Aug. 4, 1976, 90 Stat. 1086, is classified to section 202a of this title.
+Section is comprised of subsecs. (a) and (b) of section 2 of act Feb. 25, 1920, as amended by section 1 of act June 3, 1948. Subsec. (c) of section 2 of act Feb. 25, 1920, is classified to section 202 of this title. Subsec. (d) of said section 2, as added by Pub. L. 94–377, § 5(b), Aug. 4, 1976, 90 Stat. 1086, is classified to section 202a of this title.
 
 **Amendments**
 
@@ -1451,13 +1451,13 @@ Section is comprised of subsecs. (a) and (b) of section 2 of act Feb. 25, 1920, 
 
 1978—Subsec. (a)(1). Pub. L. 95–554 authorized negotiated fair market value sales of coal when exercising Federal land policy and management right-of-way permits.
 
-1976—Subsec. (a). Pub. L. 94–377, § 2, designated existing provisions as par. (1), substituted provisions authorizing the division of any lands subject to this chapter which have been classified for coal leasing into tracts as the Secretary finds appropriate, in the public interest and will permit the mining of all economically extractable coal, such leases to be awarded by competitive bidding for provisions authorizing the division of classified or unclassified lands into tracts of forty acres, or multiples thereof, in such form as, in the Secretary’s opinion will permit the most economical mining, such leases to be awarded by competitive bidding or by such other method adopted by general regulation, inserted provisions relating to deferred bonus payments leasing, leasing to public agencies, and to the fair market value of leases, struck out provision for notice of proposed offering for lease in a newspaper of general circulation prior to approval or issuance of a competitive lease of coal, and added pars. (2) and (3).
+1976—Subsec. (a). Pub. L. 94–377, § 2, designated existing provisions as par. (1), substituted provisions authorizing the division of any lands subject to this chapter which have been classified for coal leasing into tracts as the Secretary finds appropriate, in the public interest and will permit the mining of all economically extractable coal, such leases to be awarded by competitive bidding for provisions authorizing the division of classified or unclassified lands into tracts of forty acres, or multiples thereof, in such form as, in the Secretary’s opinion will permit the most economical mining, such leases to be awarded by competitive bidding or by such other method adopted by general regulation, inserted provisions relating to deferred bonus payments leasing, leasing to public agencies, and to the fair market value of leases, struck out provision for notice of proposed offering for lease in a newspaper of general circulation prior to approval or issuance of a competitive lease of coal, and added pars. (2) and (3).
 
-Subsec. (b). Pub. L. 94–377, § 4, designated existing provisions as par. (1), substituted provisions relating to the issuance, term and conditions of exploration licenses for provisions relating to the issuance of prospecting permits for a term of two years, for not exceeding 5125 acres, with an extension period of two years if the permittee has been unable, with the exercise of reasonable diligence to determine the existence or workability of coal deposits and desires further exploration, and added pars. (2) to (4).
+Subsec. (b). Pub. L. 94–377, § 4, designated existing provisions as par. (1), substituted provisions relating to the issuance, term and conditions of exploration licenses for provisions relating to the issuance of prospecting permits for a term of two years, for not exceeding 5125 acres, with an extension period of two years if the permittee has been unable, with the exercise of reasonable diligence to determine the existence or workability of coal deposits and desires further exploration, and added pars. (2) to (4).
 
-1964—Subsec. (a). Pub. L. 88–526, § 2(a), removed limitation on a single competitive lease by striking out “but in no case exceeding two thousand five hundred and sixty acres in any one leasing tract,” after “such tracts,”.
+1964—Subsec. (a). Pub. L. 88–526, § 2(a), removed limitation on a single competitive lease by striking out “but in no case exceeding two thousand five hundred and sixty acres in any one leasing tract,” after “such tracts,”.
 
-Subsec. (b). Pub. L. 88–526, § 2(b), increased limitation on the area carried by a prospecting permit from 2,560 to 5,120 acres.
+Subsec. (b). Pub. L. 88–526, § 2(b), increased limitation on the area carried by a prospecting permit from 2,560 to 5,120 acres.
 
 1959—Subsec. (a). Pub. L. 86–252 struck out “outside of the Territory of Alaska,” after “United States,”.
 
@@ -1467,23 +1467,23 @@ Subsec. (b). Pub. L. 88–526, § 2(b), increased limitation on the area carri
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–58, title IV, § 438, Aug. 8, 2005, 119 Stat. 763, provided that: “The amendments made by this subtitle [subtitle D (§§ 431–438) of title IV of Pub. L. 109–58, amending this section and sections 202a, 203, and 207 of this title] apply with respect to any coal lease issued before, on, or after the date of the enactment of this Act [Aug. 8, 2005].”
+Pub. L. 109–58, title IV, § 438, Aug. 8, 2005, 119 Stat. 763, provided that: “The amendments made by this subtitle [subtitle D (§§ 431–438) of title IV of Pub. L. 109–58, amending this section and sections 202a, 203, and 207 of this title] apply with respect to any coal lease issued before, on, or after the date of the enactment of this Act [Aug. 8, 2005].”
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 99–190, § 101(d) [title III, § 320], Dec. 19, 1985, 99 Stat. 1224, 1266, provided that: “The provisions of section 2(a)(2)(A) of the Mineral Lands Leasing Act of 1920 (41 Stat. 437) [subsec. (a)(2)(A) of this section], as amended by section 3 of the Federal Coal Leasing Amendments Act of 1976 (90 Stat. 1083) [Pub. L. 94–377, see 1976 Amendment note above] shall not take effect until December 31, 1986.”
+Pub. L. 99–190, § 101(d) [title III, § 320], Dec. 19, 1985, 99 Stat. 1224, 1266, provided that: “The provisions of section 2(a)(2)(A) of the Mineral Lands Leasing Act of 1920 (41 Stat. 437) [subsec. (a)(2)(A) of this section], as amended by section 3 of the Federal Coal Leasing Amendments Act of 1976 (90 Stat. 1083) [Pub. L. 94–377, see 1976 Amendment note above] shall not take effect until December 31, 1986.”
 
 **Savings Provision**
 
-Pub. L. 94–377, § 4, Aug. 4, 1976, 90 Stat. 1085, provided that the amendment made by that section is subject to valid existing rights.
+Pub. L. 94–377, § 4, Aug. 4, 1976, 90 Stat. 1085, provided that the amendment made by that section is subject to valid existing rights.
 
 **Transfer of Functions**
 
-Functions of Secretary of the Interior, referred to in subsec. (a)(3)(D), to promulgate regulations under this chapter relating to fostering of competition for Federal leases transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior, referred to in subsec. (a)(3)(D), to promulgate regulations under this chapter relating to fostering of competition for Federal leases transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
 **Leases for Known Recoverable Coal Resources**
 
-Pub. L. 119–21, title V, § 50203, July 4, 2025, 139 Stat. 146, provided that:
+Pub. L. 119–21, title V, § 50203, July 4, 2025, 139 Stat. 146, provided that:
 
 > “Notwithstanding section 2(a)(3)(A) of the Mineral Leasing Act (30 U.S.C. 201(a)(3)(A)) and section 202(a) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712(a)), not later than 90 days after the date of enactment of this Act [July 4, 2025], the Secretary of the Interior shall make available for lease known recoverable coal resources of not less than 4,000,000 additional acres on Federal land located in the 48 contiguous States and Alaska subject to the jurisdiction of the Secretary, but which shall not include any Federal land within—
 
@@ -1507,7 +1507,7 @@ Pub. L. 119–21, title V, § 50203, July 4, 2025, 139 Stat. 146, provided tha
 
 **Authorization To Mine Federal Coal**
 
-Pub. L. 119–21, title V, § 50204, July 4, 2025, 139 Stat. 146, provided that:
+Pub. L. 119–21, title V, § 50204, July 4, 2025, 139 Stat. 146, provided that:
 
 > **“(a) Authorization.—** In order to provide access to coal reserves in adjacent State or private land that without an authorization could not be mined economically, Federal coal reserves located in Federal land subject to a mining plan previously approved by the Secretary of the Interior as of the date of enactment of this Act [July 4, 2025] and adjacent to coal reserves in adjacent State or private land are authorized to be mined.
 
@@ -1517,7 +1517,7 @@ Pub. L. 119–21, title V, § 50204, July 4, 2025, 139 Stat. 146, provided tha
 
 **Exchange of Coal Preference Right Lease Applications**
 
-Pub. L. 116–9, title I, § 1121(a), Mar. 12, 2019, 133 Stat. 636, provided that:
+Pub. L. 116–9, title I, § 1121(a), Mar. 12, 2019, 133 Stat. 636, provided that:
 
 > **“(1) Definition of bidding right.—** In this subsection, the term ‘bidding right’ means an appropriate legal instrument or other written documentation, including an entry in an account managed by the Secretary [of the Interior], issued or created under subpart 3435 of title 43, Code of Federal Regulations, that may be used—
 
@@ -1565,11 +1565,11 @@ Pub. L. 116–9, title I, § 1121(a), Mar. 12, 2019, 133 Stat. 636, provided t
 
 **Study of Coal Leases by Director of the Office of Technology Assessment**
 
-Pub. L. 94–377, § 10, Aug. 4, 1976, 90 Stat. 1090, provided that the Director of the Office of Technology Assessment conduct a complete study of coal leases entered into by the United States under sections 201, 202, and 202a of this title, which study was to include an analysis of all mining activities, present and potential value of these leases, receipts to the Federal Government from these leases, and recommendations as to the feasibility of the use of deep mining technology in leased areas, with the results of his study to be submitted to Congress within one year after Aug. 4, 1976.
+Pub. L. 94–377, § 10, Aug. 4, 1976, 90 Stat. 1090, provided that the Director of the Office of Technology Assessment conduct a complete study of coal leases entered into by the United States under sections 201, 202, and 202a of this title, which study was to include an analysis of all mining activities, present and potential value of these leases, receipts to the Federal Government from these leases, and recommendations as to the feasibility of the use of deep mining technology in leased areas, with the results of his study to be submitted to Congress within one year after Aug. 4, 1976.
 
 **Coal Mining on Areas of National Park, Wildlife, Wilderness Preservation, Trail, Scenic Rivers, Systems Not Authorized**
 
-Pub. L. 94–377, § 16, Aug. 4, 1976, 90 Stat. 1092, provided that: “Nothing in this Act [see Short Title of 1976 Amendment note under section 181 of this title], or the Mineral Lands Leasing Act [this chapter] and the Mineral Leasing Act for Acquired Lands [section 351 et seq. of this title] which are amended by this Act, shall be construed as authorizing coal mining on any area of the National Park System, the National Wildlife Refuge System, the National Wilderness Preservation System, the National System of Trails, and the Wild and Scenic Rivers System, including study rivers designated under section 5(a) of the Wild and Scenic Rivers Act [section 1276(a) of Title 16, Conservation].”
+Pub. L. 94–377, § 16, Aug. 4, 1976, 90 Stat. 1092, provided that: “Nothing in this Act [see Short Title of 1976 Amendment note under section 181 of this title], or the Mineral Lands Leasing Act [this chapter] and the Mineral Leasing Act for Acquired Lands [section 351 et seq. of this title] which are amended by this Act, shall be construed as authorizing coal mining on any area of the National Park System, the National Wildlife Refuge System, the National Wilderness Preservation System, the National System of Trails, and the Wild and Scenic Rivers System, including study rivers designated under section 5(a) of the Wild and Scenic Rivers Act [section 1276(a) of Title 16, Conservation].”
 
 **Executive Documents**
 
@@ -1577,41 +1577,41 @@ Pub. L. 94–377, § 16, Aug. 4, 1976, 90 Stat. 1092, provided that: “Nothin
 
 Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
-### § 201–1. Repealed. Pub. L. 94–377, § 5(a), Aug. 4, 1976, 90 Stat. 1086
+### § 201–1. Repealed. Pub. L. 94–377, § 5(a), Aug. 4, 1976, 90 Stat. 1086
 
-Section, Pub. L. 88–526, § 2(c), (d), Aug. 31, 1964, 78 Stat. 710, permitted the entering into of contracts for collective prospecting, development or operation of coalfields by lessees for the purpose of conserving natural resources.
+Section, Pub. L. 88–526, § 2(c), (d), Aug. 31, 1964, 78 Stat. 710, permitted the entering into of contracts for collective prospecting, development or operation of coalfields by lessees for the purpose of conserving natural resources.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 94–377, § 5(a), Aug. 4, 1976, 90 Stat. 1086, provided that the repeal of this section is subject to valid existing rights.
+Pub. L. 94–377, § 5(a), Aug. 4, 1976, 90 Stat. 1086, provided that the repeal of this section is subject to valid existing rights.
 
-### § 201a. Repealed. June 3, 1948, ch. 379, § 8, 62 Stat. 291
+### § 201a. Repealed. June 3, 1948, ch. 379, § 8, 62 Stat. 291
 
-Section, act Mar. 9, 1928, ch. 159, § 1, 45 Stat. 251, related to extension of coal prospecting permits.
+Section, act Mar. 9, 1928, ch. 159, § 1, 45 Stat. 251, related to extension of coal prospecting permits.
 
-### § 201b. Omitted
+### § 201b. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, act Mar. 9, 1928, ch. 159, § 2, 45 Stat. 251, provided for extension of coal permits already expired for a period of two years from Mar. 9, 1928.
+Section, act Mar. 9, 1928, ch. 159, § 2, 45 Stat. 251, provided for extension of coal permits already expired for a period of two years from Mar. 9, 1928.
 
-### § 202. Common carriers; limitations of lease or permit
+### § 202. Common carriers; limitations of lease or permit
 
 No company or corporation operating a common-carrier railroad shall be given or hold a permit or lease under the provisions of this chapter for any coal deposits except for its own use for railroad purposes; and such limitations of use shall be expressed in all permits and leases issued to such companies or corporations; and no such company or corporation shall receive or hold under permit or lease more than ten thousand two hundred and forty acres in the aggregate nor more than one permit or lease for each two hundred miles of its railroad lines served or to be served from such coal deposits exclusive of spurs or switches and exclusive of branch lines built to connect the leased coal with the railroad, and also exclusive of parts of the railroad operated mainly by power produced otherwise than by steam.
 
 Nothing in this section and section 201 of this title shall preclude such a railroad of less than two hundred miles in length from securing one permit or lease thereunder but no railroad shall hold a permit or lease for lands in any State in which it does not operate main or branch lines.
 
-(Feb. 25, 1920, ch. 85, § 2(c), 41 Stat. 438; June 13, 1944, ch. 244, 58 Stat. 275; June 3, 1948, ch. 379, § 1, 62 Stat. 289.)
+(Feb. 25, 1920, ch. 85, § 2(c), 41 Stat. 438; June 13, 1944, ch. 244, 58 Stat. 275; June 3, 1948, ch. 379, § 1, 62 Stat. 289.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section is comprised of subsec. (c) of section 2 of act Feb. 25, 1920, as amended by section 1 of act June 3, 1948. Subsecs. (a) and (b) of section 2 of act Feb. 25, 1920, are classified to section 201 of this title. Subsec. (d) of said section 2, as added by Pub. L. 94–377, § 5(b), Aug. 4, 1976, 90 Stat. 1086, is classified to section 202a of this title.
+Section is comprised of subsec. (c) of section 2 of act Feb. 25, 1920, as amended by section 1 of act June 3, 1948. Subsecs. (a) and (b) of section 2 of act Feb. 25, 1920, are classified to section 201 of this title. Subsec. (d) of said section 2, as added by Pub. L. 94–377, § 5(b), Aug. 4, 1976, 90 Stat. 1086, is classified to section 202a of this title.
 
 **Amendments**
 
@@ -1619,7 +1619,7 @@ Section is comprised of subsec. (c) of section 2 of act Feb. 25, 1920, as amende
 
 1944—Act June 13, 1944, inserted “more than ten thousand two hundred and forty acres in the aggregate nor” before “more than one permit”, substituted “railroad lines served or to be served from such coal deposits” for “railroad line within the State in which such property is situated,”, and prohibited a railroad from holding a permit or lease for lands in any State in which it did not operate main or branch lines.
 
-### § 202a. Consolidation of coal leases into logical mining unit
+### § 202a. Consolidation of coal leases into logical mining unit
 
 **(1) Approval by Secretary; public hearing; definition**
 
@@ -1659,7 +1659,7 @@ No logical mining unit shall be approved by the Secretary if the total acreage (
 
 Nothing in this section shall be construed to waive the acreage limitations for coal leases contained in section 184(a) of this title.
 
-(Feb. 25, 1920, ch. 85, § 2(d), as added Pub. L. 94–377, § 5(b), Aug. 4, 1976, 90 Stat. 1086; amended Pub. L. 109–58, title IV, § 433, Aug. 8, 2005, 119 Stat. 761.)
+(Feb. 25, 1920, ch. 85, § 2(d), as added Pub. L. 94–377, § 5(b), Aug. 4, 1976, 90 Stat. 1086; amended Pub. L. 109–58, title IV, § 433, Aug. 8, 2005, 119 Stat. 761.)
 
 **Editorial Notes**
 
@@ -1683,13 +1683,13 @@ Section is comprised of subsec. (d) of section 2 of act Feb. 25, 1920, as added 
 
 Amendment by Pub. L. 109–58 applicable with respect to any coal lease issued before, on, or after Aug. 8, 2005, see section 438 of Pub. L. 109–58, set out as a note under section 201 of this title.
 
-### § 203. Additional lands or deposits
+### § 203. Additional lands or deposits
 
 **(a) In general**
 
 **(1)** Except as provided in paragraph (3), on a finding by the Secretary under paragraph (2), any person, association, or corporation holding a lease of coal lands or coal deposits under the provisions of this chapter may with the approval of the Secretary of the Interior,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 secure modifications of the original coal lease by including additional coal lands or coal deposits contiguous or cornering to those embraced in the lease.
 
@@ -1715,7 +1715,7 @@ The Secretary shall prescribe terms and conditions which shall be consistent wit
 
 The minimum royalty provisions of section 207(a) of this title shall not apply to any lands covered by this modified lease prior to a modification until the term of the original lease or extension thereof which became effective prior to the effective date of this Act has expired.
 
-(Feb. 25, 1920, ch. 85, § 3, 41 Stat. 439; Pub. L. 94–377, § 13(b), Aug. 4, 1976, 90 Stat. 1090; Pub. L. 95–554, § 3, Oct. 30, 1978, 92 Stat. 2074; Pub. L. 109–58, title IV, § 432, Aug. 8, 2005, 119 Stat. 760.)
+(Feb. 25, 1920, ch. 85, § 3, 41 Stat. 439; Pub. L. 94–377, § 13(b), Aug. 4, 1976, 90 Stat. 1090; Pub. L. 95–554, § 3, Oct. 30, 1978, 92 Stat. 2074; Pub. L. 109–58, title IV, § 432, Aug. 8, 2005, 119 Stat. 760.)
 
 **Editorial Notes**
 
@@ -1741,31 +1741,31 @@ Amendment by Pub. L. 109–58 applicable with respect to any coal lease issued b
 
 **Savings Provision**
 
-Pub. L. 94–377, § 13(b), Aug. 4, 1976, 90 Stat. 1090, provided that the amendment made by that section is subject to valid existing rights.
+Pub. L. 94–377, § 13(b), Aug. 4, 1976, 90 Stat. 1090, provided that the amendment made by that section is subject to valid existing rights.
 
-### § 204. Repealed. Pub. L. 94–377, § 13(a), Aug. 4, 1976, 90 Stat. 1090
+### § 204. Repealed. Pub. L. 94–377, § 13(a), Aug. 4, 1976, 90 Stat. 1090
 
-Section, act Feb. 25, 1920, ch. 85, § 4, 41 Stat. 439, provided for the leasing of an additional tract of land or coal deposit, not to exceed 2560 acres, upon a showing by a lessee that all workable deposits of coal would be exhausted, worked out, or removed within three years thereafter.
+Section, act Feb. 25, 1920, ch. 85, § 4, 41 Stat. 439, provided for the leasing of an additional tract of land or coal deposit, not to exceed 2560 acres, upon a showing by a lessee that all workable deposits of coal would be exhausted, worked out, or removed within three years thereafter.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Pub. L. 94–377, § 13(a), Aug. 4, 1976, 90 Stat. 1090, provided that the repeal of this section is subject to valid existing rights.
+Pub. L. 94–377, § 13(a), Aug. 4, 1976, 90 Stat. 1090, provided that the repeal of this section is subject to valid existing rights.
 
-### § 205. Consolidation of leases
+### § 205. Consolidation of leases
 
 If, in the judgment of the Secretary of the Interior, the public interest will be subserved thereby, lessees holding under lease areas not exceeding the maximum permitted under this chapter may consolidate their leases through the surrender of the original leases and the inclusion of such areas in a new lease of not to exceed two thousand five hundred and sixty acres of contiguous lands.
 
-(Feb. 25, 1920, ch. 85, § 5, 41 Stat. 439.)
+(Feb. 25, 1920, ch. 85, § 5, 41 Stat. 439.)
 
-### § 206. Noncontiguous coal or phosphate tracts in single lease
+### § 206. Noncontiguous coal or phosphate tracts in single lease
 
 Where coal or phosphate lands aggregating two thousand five hundred and sixty acres and subject to lease hereunder do not exist as contiguous areas, the Secretary of the Interior is authorized, if, in his opinion the interests of the public and of the lessee will be thereby subserved, to embrace in a single lease noncontiguous tracts which can be operated as a single mine or unit.
 
-(Feb. 25, 1920, ch. 85, § 6, 41 Stat. 439.)
+(Feb. 25, 1920, ch. 85, § 6, 41 Stat. 439.)
 
-### § 207. Conditions of lease
+### § 207. Conditions of lease
 
 **(a) Term of lease; annual rentals; royalties; readjustment of conditions**
 
@@ -1791,13 +1791,13 @@ A coal lease shall be for a term of twenty years and for so long thereafter as c
 
 **(5)** The aggregate number of years during the period of any lease for which advance royalties may be accepted in lieu of the condition of continued operation shall not exceed 20 years.
 
-**(6)**  1
+**(6)** 1
 
-<sup>1</sup>  So in original. Two pars. (6) have been enacted.
+<sup>1</sup> So in original. Two pars. (6) have been enacted.
 
 The amount of any production royalty paid for any year shall be reduced (but not below 0) by the amount of any advance royalties paid under a lease described in paragraph (5) to the extent that the advance royalties have not been used to reduce production royalties for a prior year.
 
-**(6)**  <sup>1</sup> The Secretary may, upon six months’ notification to the lessee cease to accept advance royalties in lieu of the requirement of continued operation.
+**(6)** <sup>1</sup> The Secretary may, upon six months’ notification to the lessee cease to accept advance royalties in lieu of the requirement of continued operation.
 
 **(7)** Nothing in this subsection shall be construed to affect the requirement contained in the second sentence of subsection (a) relating to commencement of production at the end of ten years.
 
@@ -1805,7 +1805,7 @@ The amount of any production royalty paid for any year shall be reduced (but not
 
 Prior to taking any action on a leasehold which might cause a significant disturbance of the environment, the lessee shall submit for the Secretary’s approval an operation and reclamation plan. The Secretary shall approve or disapprove the plan or require that it be modified. Where the land involved is under the surface jurisdiction of another Federal agency, that other agency must consent to the terms of such approval.
 
-(Feb. 25, 1920, ch. 85, § 7, 41 Stat. 439; Pub. L. 94–377, § 6, Aug. 4, 1976, 90 Stat. 1087; Pub. L. 109–58, title IV, §§ 434, 435, Aug. 8, 2005, 119 Stat. 761, 762; Pub. L. 119–21, title V, § 50202(a), July 4, 2025, 139 Stat. 145.)
+(Feb. 25, 1920, ch. 85, § 7, 41 Stat. 439; Pub. L. 94–377, § 6, Aug. 4, 1976, 90 Stat. 1087; Pub. L. 109–58, title IV, §§ 434, 435, Aug. 8, 2005, 119 Stat. 761, 762; Pub. L. 119–21, title V, § 50202(a), July 4, 2025, 139 Stat. 145.)
 
 **Editorial Notes**
 
@@ -1813,9 +1813,9 @@ Prior to taking any action on a leasehold which might cause a significant distur
 
 2025—Subsec. (a). Pub. L. 119–21 substituted “12½ percent, except such amount shall be not more than 7 percent during the period that begins on July 4, 2025, and ends September 30, 2034,” for “12½ per centum”.
 
-2005—Subsec. (b). Pub. L. 109–58, § 434, designated first to third and seventh and eighth sentences as pars. (1) to (3) and (6) and (7), respectively, substituted “Advance royalties described in paragraph (2)” for “Such advance royalties” in par. (3), added pars. (4), (5), and (6) related to amount of any production royalty paid, and struck out fourth to sixth sentences which read as follows: “The aggregate number of years during the period of any lease for which advance royalties may be accepted in lieu of the condition of continued operation shall not exceed ten. The amount of any production royalty paid for any year shall be reduced (but not below 0) by the amount of any advance royalties paid under such lease to the extent that such advance royalties have not been used to reduce production royalties for a prior year. No advance royalty paid during the initial twenty-year term of a lease shall be used to reduce a production royalty after the twentieth year of a lease.”
+2005—Subsec. (b). Pub. L. 109–58, § 434, designated first to third and seventh and eighth sentences as pars. (1) to (3) and (6) and (7), respectively, substituted “Advance royalties described in paragraph (2)” for “Such advance royalties” in par. (3), added pars. (4), (5), and (6) related to amount of any production royalty paid, and struck out fourth to sixth sentences which read as follows: “The aggregate number of years during the period of any lease for which advance royalties may be accepted in lieu of the condition of continued operation shall not exceed ten. The amount of any production royalty paid for any year shall be reduced (but not below 0) by the amount of any advance royalties paid under such lease to the extent that such advance royalties have not been used to reduce production royalties for a prior year. No advance royalty paid during the initial twenty-year term of a lease shall be used to reduce a production royalty after the twentieth year of a lease.”
 
-Subsec. (c). Pub. L. 109–58, § 435, struck out “and not later than three years after a lease is issued,” before “the lessee shall submit”.
+Subsec. (c). Pub. L. 109–58, § 435, struck out “and not later than three years after a lease is issued,” before “the lessee shall submit”.
 
 1976—Pub. L. 94–377 designated existing provisions as subsec. (a), substituted provisions limiting the lease term to 20 years and for so long thereafter as coal is produced annually in commercial quantities for provision authorizing leases for indeterminate periods upon condition of diligent development and continued operation except for strikes, the elements, or casualties not attributable to lessees; provisions for payment of royalties as determined by the Secretary of not less than 12½ per centum of coal value, except as reduced for coal from underground mining operations for provisions specifying royalties as stated in the lease, but not less than 5 cents per ton; provision for rentals as prescribed by regulation for provision setting rentals as fixed by the Secretary at not less than 25 cents per acre for the first year, 50 cents for the second, third, fourth and fifth years, and $1 for each year thereafter, and provision for readjustment of royalties and terms and conditions after primary period of twenty years and subsequent ten year intervals for provision for readjustment after twenty years unless otherwise provided by law, and added subsecs. (b) and (c).
 
@@ -1827,7 +1827,7 @@ Amendment by Pub. L. 109–58 applicable with respect to any coal lease issued b
 
 **Applicability to Existing Leases**
 
-Pub. L. 119–21, title V, § 50202(b), July 4, 2025, 139 Stat. 145, provided that:
+Pub. L. 119–21, title V, § 50202(b), July 4, 2025, 139 Stat. 145, provided that:
 
 > “The amendment made by subsection (a) [amending this section] shall apply to a coal lease—
 
@@ -1837,15 +1837,15 @@ Pub. L. 119–21, title V, § 50202(b), July 4, 2025, 139 Stat. 145, provided 
 
 **Advance Royalties**
 
-Pub. L. 119–21, title V, § 50202(c), July 4, 2025, 139 Stat. 145, provided that: “With respect to a lease issued under section 2 of the Mineral Leasing Act (30 U.S.C. 201) for which the lessee has paid advance royalties under section 7(b) of that Act (30 U.S.C. 207(b)), the Secretary of the Interior shall provide to the lessee a credit for the difference between the amount paid by the lessee in advance royalties for the lease before the date of the enactment of this Act [July 4, 2025] and the amount the lessee would have been required to pay if the amendment made by subsection (a) [amending this section] had been made before the lessee paid advance royalties for the lease.”
+Pub. L. 119–21, title V, § 50202(c), July 4, 2025, 139 Stat. 145, provided that: “With respect to a lease issued under section 2 of the Mineral Leasing Act (30 U.S.C. 201) for which the lessee has paid advance royalties under section 7(b) of that Act (30 U.S.C. 207(b)), the Secretary of the Interior shall provide to the lessee a credit for the difference between the amount paid by the lessee in advance royalties for the lease before the date of the enactment of this Act [July 4, 2025] and the amount the lessee would have been required to pay if the amendment made by subsection (a) [amending this section] had been made before the lessee paid advance royalties for the lease.”
 
-### § 208. Permits to take coal for local domestic needs without royalty payments; corporation exclusion; area to municipalities for household use without profit
+### § 208. Permits to take coal for local domestic needs without royalty payments; corporation exclusion; area to municipalities for household use without profit
 
 In order to provide for the supply of strictly local domestic needs for fuel, the Secretary of the Interior may, under such rules and regulations as he may prescribe in advance, issue limited licenses or permits to individuals or associations of individuals to prospect for, mine, and take for their use but not for sale, coal from the public lands without payment of royalty for the coal mined or the land occupied, on such conditions not inconsistent with this chapter as in his opinion will safeguard the public interests. This privilege shall not extend to any corporations. In the case of municipal corporations the Secretary of the Interior may issue such limited license or permit, for not to exceed three hundred and twenty acres for a municipality of less than one hundred thousand population, and not to exceed one thousand two hundred and eighty acres for a municipality of not less than one hundred thousand and not more than one hundred and fifty thousand population; and not to exceed two thousand five hundred and sixty acres for a municipality of one hundred and fifty thousand population or more, the land to be selected within the State wherein the municipal applicant may be located, upon condition that such municipal corporations will mine the coal therein under proper conditions and dispose of the same without profit to residents of such municipality for household use: *Provided*, That the acquisition or holding of a lease under sections 181, 201, and 202 to 207 of this title shall be no bar to the holding of such tract or operation of such mine under said limited license.
 
-(Feb. 25, 1920, ch. 85, § 8, 41 Stat. 440.)
+(Feb. 25, 1920, ch. 85, § 8, 41 Stat. 440.)
 
-### § 208–1. Exploratory program for evaluation of known recoverable coal resources
+### § 208–1. Exploratory program for evaluation of known recoverable coal resources
 
 **(a) Authorization; purpose** The Secretary is authorized and directed to conduct a comprehensive exploratory program designed to obtain sufficient data and information to evaluate the extent, location, and potential for developing the known recoverable coal resources within the coal lands subject to this chapter. This program shall be designed to obtain the resource information necessary for determining whether commercial quantities of coal are present and the geographical extent of the coal fields and for estimating the amount of such coal which is recoverable by deep mining operations and the amount of such coal which is recoverable by surface mining operations in order to provide a basis for—
 
@@ -1887,7 +1887,7 @@ Within six months after the date of enactment of this Act, the Secretary shall d
 
 The stratigraphic drilling authorized in subsection (b) shall be carried out in such a manner as to obtain information pertaining to all recoverable reserves. For the purpose of complying with subsection (a), the Secretary shall require all those authorized to conduct stratigraphic drilling pursuant to subsection (b) to supply a statement of the results of test boring of core sampling including logs of the drill holes; the thickness of the coal seams found; an analysis of the chemical properties of such coal; and an analysis of the strata layers lying above all the seams of coal. All drilling activities shall be conducted using the best current technology and practices.
 
-(Feb. 25, 1920, ch. 85, § 8A, as added Pub. L. 94–377, § 7, Aug. 4, 1976, 90 Stat. 1087.)
+(Feb. 25, 1920, ch. 85, § 8A, as added Pub. L. 94–377, § 7, Aug. 4, 1976, 90 Stat. 1087.)
 
 **Editorial Notes**
 
@@ -1897,11 +1897,11 @@ Section 2, referred to in subsec. (a)(1), means section 2 of act Feb. 25, 1920, 
 
 The date of enactment of this Act, referred to in subsecs. (f) and (g), probably means the date of enactment of Pub. L. 94–377, which was approved Aug. 4, 1976.
 
-### § 208–2. Repealed. Pub. L. 104–66, title I, § 1091(e), Dec. 21, 1995, 109 Stat. 722
+### § 208–2. Repealed. Pub. L. 104–66, title I, § 1091(e), Dec. 21, 1995, 109 Stat. 722
 
-Section, act Feb. 25, 1920, ch. 85, § 8B, as added Aug. 4, 1976, Pub. L. 94–377, § 8, 90 Stat. 1089, related to reports to Congress on leasing and production of coal lands, contents, recommendations, and reports by Attorney General on competition in the coal industry and on effectiveness of antitrust laws.
+Section, act Feb. 25, 1920, ch. 85, § 8B, as added Aug. 4, 1976, Pub. L. 94–377, § 8, 90 Stat. 1089, related to reports to Congress on leasing and production of coal lands, contents, recommendations, and reports by Attorney General on competition in the coal industry and on effectiveness of antitrust laws.
 
-### § 208a. Repealed. Pub. L. 97–468, title VI, § 615(a)(3), Jan. 14, 1983, 96 Stat. 2578
+### § 208a. Repealed. Pub. L. 97–468, title VI, § 615(a)(3), Jan. 14, 1983, 96 Stat. 2578
 
 Section, act July 19, 1932, ch. 513, 47 Stat. 707, authorized general manager of Alaska Railroad to purchase coal annually for railroad from two or more operating companies in areas adjacent to railroad.
 
@@ -1911,25 +1911,25 @@ Section was formerly classified to section 445a of Title 48, Territories and Ins
 
 **Effective Date of Repeal**
 
-Repeal by Pub. L. 97–468 became effective on date of transfer of Alaska Railroad to the State [Jan. 5, 1985], pursuant to section 1203 of Title 45, Railroads, see Pub. L. 97–468, title VI, § 615(a), Jan. 14, 1983, 96 Stat. 2577.
+Repeal by Pub. L. 97–468 became effective on date of transfer of Alaska Railroad to the State [Jan. 5, 1985], pursuant to section 1203 of Title 45, Railroads, see Pub. L. 97–468, title VI, § 615(a), Jan. 14, 1983, 96 Stat. 2577.
 
-### § 209. Suspension, waiver, or reduction of rents or royalties to promote development or operation; extension of lease on suspension of operations and production
+### § 209. Suspension, waiver, or reduction of rents or royalties to promote development or operation; extension of lease on suspension of operations and production
 
-The Secretary of the Interior, for the purpose of encouraging the greatest ultimate recovery of coal, oil, gas, oil shale 1
+The Secretary of the Interior, for the purpose of encouraging the greatest ultimate recovery of coal, oil, gas, oil shale 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 gilsonite (including all vein-type solid hydrocarbons),,2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 phosphate, sodium, potassium and sulfur, and in the interest of conservation of natural resources, is authorized to waive, suspend, or reduce the rental, or minimum royalty, or reduce the royalty on an entire leasehold, or on any tract or portion thereof segregated for royalty purposes, whenever in his judgment it is necessary to do so in order to promote development, or whenever in his judgment the leases cannot be successfully operated under the terms provided therein.3
 
-<sup>3</sup>  So in original. The period probably should be a colon.
+<sup>3</sup> So in original. The period probably should be a colon.
 
 *Provided, however*, That in order to promote development and the maximum production of tar sand, at the request of the lessee, the Secretary shall review, prior to commencement of commercial operations, the royalty rates established in each combined hydrocarbon lease issued in special tar sand areas. For purposes of this section, the term “tar sand” means any consolidated or unconsolidated rock (other than coal, oil shale, or gilsonite) that either: (1) contains a hydrocarbonaceous material with a gas-free viscosity, at original reservoir temperature, greater than 10,000 centipoise, or (2) contains a hydrocarbonaceous material and is produced by mining or quarrying. In the event the Secretary of the Interior, in the interest of conservation, shall direct or shall assent to the suspension of operations and production under any lease granted under the terms of this chapter, any payment of acreage rental or of minimum royalty prescribed by such lease likewise shall be suspended during such period of suspension of operations and production; and the term of such lease shall be extended by adding any such suspension period thereto. The provisions of this section shall apply to all oil and gas leases issued under this chapter, including those within an approved or prescribed plan for unit or cooperative development and operation. Nothing in this section shall be construed as granting to the Secretary the authority to waive, suspend, or reduce advance royalties.
 
-(Feb. 25, 1920, ch. 85, § 39, as added Feb. 9, 1933, ch. 45, 47 Stat. 798; amended Aug. 8, 1946, ch. 916, § 10, 60 Stat. 957; June 3, 1948, ch. 379, § 7, 62 Stat. 291; Pub. L. 94–377, § 14, Aug. 4, 1976, 90 Stat. 1091; Pub. L. 97–78, § 1(3), (7), Nov. 16, 1981, 95 Stat. 1070, 1071.)
+(Feb. 25, 1920, ch. 85, § 39, as added Feb. 9, 1933, ch. 45, 47 Stat. 798; amended Aug. 8, 1946, ch. 916, § 10, 60 Stat. 957; June 3, 1948, ch. 379, § 7, 62 Stat. 291; Pub. L. 94–377, § 14, Aug. 4, 1976, 90 Stat. 1091; Pub. L. 97–78, § 1(3), (7), Nov. 16, 1981, 95 Stat. 1070, 1071.)
 
 **Editorial Notes**
 
@@ -1951,7 +1951,7 @@ See note set out under section 181 of this title.
 
 ## SUBCHAPTER III—PHOSPHATES
 
-### § 211. Phosphate deposits
+### § 211. Phosphate deposits
 
 **(a) Authorization to lease land; terms and conditions; acreage**
 
@@ -1965,7 +1965,7 @@ Where prospecting or exploratory work is necessary to determine the existence or
 
 Any phosphate permit issued under this section may be extended by the Secretary for such an additional period, not in excess of four years, as he deems advisable, if he finds that the permittee has been unable, with reasonable diligence, to determine the existence or workability of phosphate deposits in the area covered by the permit and desires to prosecute further prospecting or exploration, or for other reasons warranting such an extension in the opinion of the Secretary.
 
-(Feb. 25, 1920, ch. 85, § 9, 41 Stat. 440; June 3, 1948, ch. 379, § 2, 62 Stat. 290; Pub. L. 86–391, § 1(a), Mar. 18, 1960, 74 Stat. 7.)
+(Feb. 25, 1920, ch. 85, § 9, 41 Stat. 440; June 3, 1948, ch. 379, § 2, 62 Stat. 290; Pub. L. 86–391, § 1(a), Mar. 18, 1960, 74 Stat. 7.)
 
 **Editorial Notes**
 
@@ -1975,11 +1975,11 @@ Any phosphate permit issued under this section may be extended by the Secretary 
 
 1948—Act June 3, 1948, included provision limiting amount of land in lease.
 
-### § 212. Surveys; royalties; time payable; annual rentals; term of leases; readjustment on renewals; minimum production; suspension of operation
+### § 212. Surveys; royalties; time payable; annual rentals; term of leases; readjustment on renewals; minimum production; suspension of operation
 
 Each lease shall describe the leased lands by the legal subdivisions of the public-land surveys. All leases shall be conditioned upon the payment to the United States of such royalties as may be specified in the lease, which shall be fixed by the Secretary of the Interior in advance of offering the same, at not less than 5 per centum of the gross value of the output of phosphates or phosphate rock and associated or related minerals. Royalties shall be due and payable as specified in the lease either monthly or quarterly on the last day of the month next following the month or quarter in which the minerals are sold or removed from the leased land. Each lease shall provide for the payment of a rental payable at the date of the lease and annually thereafter which shall be not less than 25 cents per acre for the first year, 50 cents per acre for the second and third years, respectively, and $1 per acre for each year thereafter, during the continuance of the lease. The rental paid for any year shall be credited against the royalties for that year. Leases shall be for a term of twenty years and so long thereafter as the lessee complies with the terms and conditions of the lease and upon the further condition that at the end of each twenty-year period succeeding the date of the lease such reasonable readjustment of the terms and conditions thereof may be made therein as may be prescribed by the Secretary of the Interior unless otherwise provided by law at the expiration of such periods. Leases shall be conditioned upon a minimum annual production or the payment of a minimum royalty in lieu thereof, except when production is interrupted by strikes, the elements, or casualties not attributable to the lessee. The Secretary of the Interior may permit suspension of operations under any such leases when marketing conditions are such that the leases cannot be operated except at a loss.
 
-(Feb. 25, 1920, ch. 85, § 10, 41 Stat. 440; June 3, 1948, ch. 379, § 3, 62 Stat. 290.)
+(Feb. 25, 1920, ch. 85, § 10, 41 Stat. 440; June 3, 1948, ch. 379, § 3, 62 Stat. 290.)
 
 **Editorial Notes**
 
@@ -1987,11 +1987,11 @@ Each lease shall describe the leased lands by the legal subdivisions of the publ
 
 1948—Act June 3, 1948, amended section generally, omitting provisions relating to amount of lands in lease, and inserting provisions regarding royalties.
 
-### § 213. Royalties for use of deposits of silica, limestone, or other rock embraced in lease
+### § 213. Royalties for use of deposits of silica, limestone, or other rock embraced in lease
 
 Any lease to develop and extract phosphates, phosphate rock, and associated or related minerals under the provisions of sections 211 to 214 of this title shall provide that the lessee may use so much of any deposit of silica or limestone or other rock situated on any public lands embraced in the lease as may be utilized in the processing or refining of the phosphates, phosphate rock, and associated or related minerals mined from the leased lands or from other lands upon payments of such royalty as may be determined by the Secretary of the Interior, which royalty may be stated in the lease or, as to the leases already issued, may be provided for in an attachment to the lease to be duly executed by the lessor and the lessee.
 
-(Feb. 25, 1920, ch. 85, § 11, 41 Stat. 440; June 3, 1948, ch. 379, § 4, 62 Stat. 291.)
+(Feb. 25, 1920, ch. 85, § 11, 41 Stat. 440; June 3, 1948, ch. 379, § 4, 62 Stat. 291.)
 
 **Editorial Notes**
 
@@ -1999,11 +1999,11 @@ Any lease to develop and extract phosphates, phosphate rock, and associated or r
 
 1948—Act June 3, 1948, amended section generally, omitting provision relating to royalties and annual rents, and inserting provisions relating to use of deposits of silica, limestone or other rock embraced in the lease upon the payment of a suitable royalty.
 
-### § 214. Use of surface of other public lands; acreage; forest lands exception
+### § 214. Use of surface of other public lands; acreage; forest lands exception
 
 The holder of any lease or permit issued under the provisions of sections 211 to 214 of this title shall have the right to use so much of the surface of unappropriated and unentered public lands not a part of his lease or permit, not exceeding eighty acres in area, as may be determined by the Secretary to be necessary or convenient for the extraction, treatment, and removal of the mineral deposits, but this provision shall not be applicable to national forest lands.
 
-(Feb. 25, 1920, ch. 85, § 12, 41 Stat. 441; June 3, 1948, ch. 379, § 5, 62 Stat. 291; Pub. L. 86–391, § 1(b), Mar. 18, 1960, 74 Stat. 8.)
+(Feb. 25, 1920, ch. 85, § 12, 41 Stat. 441; June 3, 1948, ch. 379, § 5, 62 Stat. 291; Pub. L. 86–391, § 1(b), Mar. 18, 1960, 74 Stat. 8.)
 
 **Editorial Notes**
 
@@ -2015,7 +2015,7 @@ The holder of any lease or permit issued under the provisions of sections 211 to
 
 ## SUBCHAPTER IV—OIL AND GAS
 
-### §§ 221 to 222i. Omitted
+### §§ 221 to 222i. Omitted
 
 **Editorial Notes**
 
@@ -2023,25 +2023,25 @@ The holder of any lease or permit issued under the provisions of sections 211 to
 
 Sections expired by their own terms. They provided as follows:
 
-Section 221, acts Feb. 25, 1920, ch. 85, § 13, 41 Stat. 441; Aug. 21, 1935, ch. 599, § 1, 49 Stat. 674, provided for prospecting permits, their terms and conditions, extension, location of lands, marking land, notice of application for permits, permits in Alaska, exchanging permits for leases, and limited extensions to Dec. 31, 1938.
+Section 221, acts Feb. 25, 1920, ch. 85, § 13, 41 Stat. 441; Aug. 21, 1935, ch. 599, § 1, 49 Stat. 674, provided for prospecting permits, their terms and conditions, extension, location of lands, marking land, notice of application for permits, permits in Alaska, exchanging permits for leases, and limited extensions to Dec. 31, 1938.
 
 Section 222, act Jan. 11, 1922, ch. 28, 42 Stat. 356, authorized Secretary of the Interior to extend time for drilling not to exceed three years.
 
-Section 222a, act Apr. 5, 1926, ch. 107, § 1, 44 Stat. 236, authorized a further extension of two years for drilling.
+Section 222a, act Apr. 5, 1926, ch. 107, § 1, 44 Stat. 236, authorized a further extension of two years for drilling.
 
-Section 222b, act Apr. 5, 1926, ch. 107, § 2, 44 Stat. 236, provided for extension of expired permits for a period of two years from Apr. 5, 1926.
+Section 222b, act Apr. 5, 1926, ch. 107, § 2, 44 Stat. 236, provided for extension of expired permits for a period of two years from Apr. 5, 1926.
 
-Section 222c, act Mar. 9, 1928, ch. 168, § 1, 45 Stat. 252, authorized a two year extension for permits.
+Section 222c, act Mar. 9, 1928, ch. 168, § 1, 45 Stat. 252, authorized a two year extension for permits.
 
-Section 222d, act Mar. 9, 1928, ch. 168, § 2, 45 Stat. 252, authorized a two year extension of permits already expired.
+Section 222d, act Mar. 9, 1928, ch. 168, § 2, 45 Stat. 252, authorized a two year extension of permits already expired.
 
-Section 222e, act Jan. 23, 1930, ch. 25, § 1, 46 Stat. 58, provided that permits issued or extended for three years might be further for three years.
+Section 222e, act Jan. 23, 1930, ch. 25, § 1, 46 Stat. 58, provided that permits issued or extended for three years might be further for three years.
 
-Section 222f, act Jan. 23, 1930, ch. 25, § 2, 46 Stat. 59, provided for an extension of permits already expired for a period of three years from Jan. 23, 1930.
+Section 222f, act Jan. 23, 1930, ch. 25, § 2, 46 Stat. 59, provided for an extension of permits already expired for a period of three years from Jan. 23, 1930.
 
-Section 222g, act June 30, 1932, ch. 319, § 1, 47 Stat. 445, provided for a further extension of three years.
+Section 222g, act June 30, 1932, ch. 319, § 1, 47 Stat. 445, provided for a further extension of three years.
 
-Section 222h, act June 30, 1932, ch. 319, § 2, 47 Stat. 446, authorized an extension, for permits already expired, of three years from June 30, 1932.
+Section 222h, act June 30, 1932, ch. 319, § 2, 47 Stat. 446, authorized an extension, for permits already expired, of three years from June 30, 1932.
 
 Section 222i, acts Aug. 26, 1937, ch. 828, 50 Stat. 842; Aug. 11, 1939, ch. 716, 53 Stat. 1418, provided for final extension of prospecting permits, outstanding on Dec. 31, 1937, to Dec. 31, 1939.
 
@@ -2049,13 +2049,13 @@ Section 222i, acts Aug. 26, 1937, ch. 828, 50 Stat. 842; Aug. 11, 1939, ch. 716,
 
 **Compromise of Claims for Accrued Rental**
 
-Act July 29, 1942, ch. 534, § 2, 56 Stat. 726, authorized Secretary of the Interior to make a compromise settlement of any claim for accrued rental under a lease issued pursuant to the provisions of section 221 of this title, in any case in which he determined that it would be financially beneficial to the United States to make such a compromise settlement or in any case in which he determined that collection of the full amount of such accrued rental from the lessee was inadvisable because of the lessee’s financial resources being limited.
+Act July 29, 1942, ch. 534, § 2, 56 Stat. 726, authorized Secretary of the Interior to make a compromise settlement of any claim for accrued rental under a lease issued pursuant to the provisions of section 221 of this title, in any case in which he determined that it would be financially beneficial to the United States to make such a compromise settlement or in any case in which he determined that collection of the full amount of such accrued rental from the lessee was inadvisable because of the lessee’s financial resources being limited.
 
-### § 223. Leases; amount and survey of land; term of lease; royalties and annual rental
+### § 223. Leases; amount and survey of land; term of lease; royalties and annual rental
 
 Upon establishing to the satisfaction of the Secretary of the Interior that valuable deposits of oil or gas have been discovered within the limits of the land embraced in any permit, the permittee shall be entitled to a lease for one-fourth of the land embraced in the prospecting permit: *Provided*, That the permittee shall be granted a lease for as much as one hundred and sixty acres of said lands, if there be that number of acres within the permit. The area to be selected by the permittee, shall be in reasonably compact form and, if surveyed, to be described by the legal subdivisions of the public-land surveys; if unsurveyed, to be surveyed by the Government at the expense of the applicant for lease in accordance with rules and regulations to be prescribed by the Secretary of the Interior, and the lands leased shall be conformed to and taken in accordance with the legal subdivisions of such surveys; deposits made to cover expense of surveys shall be deemed appropriated for that purpose, and any excess deposits may be repaid to the person or persons making such deposit or their legal representatives. Such leases shall be for a term of twenty years upon a royalty of 5 per centum in amount or value of the production and the annual payment in advance of a rental of $1 per acre, the rental paid for any one year to be credited against the royalties as they accrue for that year, and shall continue in force otherwise as prescribed in section 226 of this title for leases issued prior to August 21, 1935. The permittee shall also be entitled to a preference right to a lease for the remainder of the land in his prospecting permit at a royalty of not less than 12½ per centum in amount or value of the production nor more than the royalty rate prescribed by regulation in force on January 1, 1935, for secondary leases issued under this section, and under such other conditions as are fixed for oil or gas leases issued under section 226 of this title the royalty to be determined by competitive bidding or fixed by such other method as the Secretary may by regulations prescribe: *Provided further*, That the Secretary shall have the right to reject any or all bids.
 
-(Feb. 25, 1920, ch. 85, § 14, 41 Stat. 442; Aug. 21, 1935, ch. 599, § 1, 49 Stat. 676.)
+(Feb. 25, 1920, ch. 85, § 14, 41 Stat. 442; Aug. 21, 1935, ch. 599, § 1, 49 Stat. 676.)
 
 **Editorial Notes**
 
@@ -2067,15 +2067,15 @@ Upon establishing to the satisfaction of the Secretary of the Interior that valu
 
 **Limitation of Royalty on Discoveries During War Period**
 
-Act Dec. 24, 1942, ch. 812, 56 Stat. 1080, limiting royalty obligation of oil or gas lessee who drills well resulting in discovery of new deposit on public domain during the national emergency was repealed by Joint Res. July 25, 1947, ch. 327, § 1, 61 Stat. 449.
+Act Dec. 24, 1942, ch. 812, 56 Stat. 1080, limiting royalty obligation of oil or gas lessee who drills well resulting in discovery of new deposit on public domain during the national emergency was repealed by Joint Res. July 25, 1947, ch. 327, § 1, 61 Stat. 449.
 
 **Outer Continental Shelf; Leases**
 
 Grant by Secretary of the Interior of oil, gas, and other mineral leases on submerged lands of outer Continental Shelf, see section 1331 et seq. of Title 43, Public Lands.
 
-### § 223a. Repealed. Aug. 8, 1946, ch. 916, § 14, 60 Stat. 958
+### § 223a. Repealed. Aug. 8, 1946, ch. 916, § 14, 60 Stat. 958
 
-Section, act Aug. 21, 1935, ch. 599, § 2, 49 Stat. 679, related to new oil and gas leases in lieu of old.
+Section, act Aug. 21, 1935, ch. 599, § 2, 49 Stat. 679, related to new oil and gas leases in lieu of old.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2083,17 +2083,17 @@ Section, act Aug. 21, 1935, ch. 599, § 2, 49 Stat. 679, related to new oil an
 
 See note set out under section 181 of this title.
 
-### § 224. Payments for oil or gas taken prior to application for lease
+### § 224. Payments for oil or gas taken prior to application for lease
 
 Until the permittee shall apply for lease to the one quarter of the permit area heretofore provided for he shall pay to the United States 20 per centum of the gross value of all oil or gas secured by him from the lands embraced within his permit and sold or otherwise disposed of or held by him for sale or other disposition.
 
-(Feb. 25, 1920, ch. 85, § 15, 41 Stat. 442.)
+(Feb. 25, 1920, ch. 85, § 15, 41 Stat. 442.)
 
-### § 225. Condition of lease, forfeiture for violation
+### § 225. Condition of lease, forfeiture for violation
 
 All leases of lands containing oil or gas, made or issued under the provisions of this chapter, shall be subject to the condition that the lessee will, in conducting his explorations and mining operations, use all reasonable precautions to prevent waste of oil or gas developed in the land, or the entrance of water through wells drilled by him to the oil sands or oil-bearing strata, to the destruction or injury of the oil deposits. Violations of the provisions of this section shall constitute grounds for the forfeiture of the lease, to be enforced as provided in this chapter.
 
-(Feb. 25, 1920, ch. 85, § 16, 41 Stat. 443; Aug. 8, 1946, ch. 916, § 2, 60 Stat. 951.)
+(Feb. 25, 1920, ch. 85, § 16, 41 Stat. 443; Aug. 8, 1946, ch. 916, § 2, 60 Stat. 951.)
 
 **Editorial Notes**
 
@@ -2111,7 +2111,7 @@ See note set out under section 181 of this title.
 
 Terms and conditions of mineral leases on submerged lands of outer Continental Shelf, see section 1337 of Title 43, Public Lands.
 
-### § 226. Leasing of oil and gas parcels
+### § 226. Leasing of oil and gas parcels
 
 **(a) Leasing authorized**
 
@@ -2149,7 +2149,7 @@ The initiation of an amendment to an approved resource management plan shall not
 
 **(ii)** Royalty shall be 12½ per centum in amount or value of production removed or sold from the lease, subject to subsection (k)(1)(c).1
 
-<sup>1</sup>  So in original. Probably should be subsection “(k)(1)(C).”.
+<sup>1</sup> So in original. Probably should be subsection “(k)(1)(C).”.
 
 **(iii)** The Secretary may lease such additional lands in special tar sand areas as may be required in support of any operations necessary for the recovery of tar sands.
 
@@ -2327,7 +2327,7 @@ A permit to drill approved under this subsection shall be valid for a single, no
 
 The Secretary of the Interior shall approve applications allowing for the commingling of production from 2 or more sources (including the area of an oil and gas lease, the area included in a drilling spacing unit, a unit participating area, a communitized area, or non-Federal property) before production reaches the point of royalty measurement regardless of ownership, the royalty rates, and the number or percentage of acres for each source if the applicant agrees to install measurement devices for each source, utilize an allocation method that achieves volume measurement uncertainty levels within plus or minus 2 percent during the production phase reported on a monthly basis, or utilize an approved periodic well testing methodology. Production from multiple oil and gas leases, drilling spacing units, communitized areas, or participating areas from a single wellbore shall be considered a single source. Nothing in this subsection shall prevent the Secretary of the Interior from continuing the current practice of exercising discretion to authorize higher percentage volume measurement uncertainty levels if appropriate technical and economic justifications have been provided.
 
-(Feb. 25, 1920, ch. 85, § 17, 41 Stat. 443; July 3, 1930, ch. 854, § 1, 46 Stat. 1007; Mar. 4, 1931, ch. 506, 46 Stat. 1523; Aug. 21, 1935, ch. 599, § 1, 49 Stat. 676; Aug. 8, 1946, ch. 916, § 3, 60 Stat. 951; July 29, 1954, ch. 644, § 1(1)–(3), 68 Stat. 583; Pub. L. 86–507, § 1(21), June 11, 1960, 74 Stat. 201; Pub. L. 86–705, § 2, Sept. 2, 1960, 74 Stat. 781; Pub. L. 97–78, § 1(6), (8), Nov. 16, 1981, 95 Stat. 1070, 1071; Pub. L. 100–203, title V, § 5102(a)–(d)(1), Dec. 22, 1987, 101 Stat. 1330–256, 1330–257; Pub. L. 102–486, title XXV, §§ 2507(a), 2508(a), 2509, Oct. 24, 1992, 106 Stat. 3107–3109; Pub. L. 103–437, § 11(a)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–66, title I, § 1081(a), Dec. 21, 1995, 109 Stat. 721; Pub. L. 109–58, title III, §§ 350(a), (b), 366, 369(j)(1), Aug. 8, 2005, 119 Stat. 711, 726, 730; Pub. L. 113–291, div. B, title XXX, § 3022(a), Dec. 19, 2014, 128 Stat. 3762; Pub. L. 117–169, title V, § 50262(a)(1), (b), (c)(1), (d), (e)(1), Aug. 16, 2022, 136 Stat. 2056, 2057; Pub. L. 119–21, title V, § 50101(a), (b)(3), (d), July 4, 2025, 139 Stat. 137, 138.)
+(Feb. 25, 1920, ch. 85, § 17, 41 Stat. 443; July 3, 1930, ch. 854, § 1, 46 Stat. 1007; Mar. 4, 1931, ch. 506, 46 Stat. 1523; Aug. 21, 1935, ch. 599, § 1, 49 Stat. 676; Aug. 8, 1946, ch. 916, § 3, 60 Stat. 951; July 29, 1954, ch. 644, § 1(1)–(3), 68 Stat. 583; Pub. L. 86–507, § 1(21), June 11, 1960, 74 Stat. 201; Pub. L. 86–705, § 2, Sept. 2, 1960, 74 Stat. 781; Pub. L. 97–78, § 1(6), (8), Nov. 16, 1981, 95 Stat. 1070, 1071; Pub. L. 100–203, title V, § 5102(a)–(d)(1), Dec. 22, 1987, 101 Stat. 1330–256, 1330–257; Pub. L. 102–486, title XXV, §§ 2507(a), 2508(a), 2509, Oct. 24, 1992, 106 Stat. 3107–3109; Pub. L. 103–437, § 11(a)(1), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–66, title I, § 1081(a), Dec. 21, 1995, 109 Stat. 721; Pub. L. 109–58, title III, §§ 350(a), (b), 366, 369(j)(1), Aug. 8, 2005, 119 Stat. 711, 726, 730; Pub. L. 113–291, div. B, title XXX, § 3022(a), Dec. 19, 2014, 128 Stat. 3762; Pub. L. 117–169, title V, § 50262(a)(1), (b), (c)(1), (d), (e)(1), Aug. 16, 2022, 136 Stat. 2056, 2057; Pub. L. 119–21, title V, § 50101(a), (b)(3), (d), July 4, 2025, 139 Stat. 137, 138.)
 
 **Editorial Notes**
 
@@ -2335,85 +2335,85 @@ The Secretary of the Interior shall approve applications allowing for the commin
 
 Act of March 1, 1911, referred to in subsecs. (b)(3)(E) and (*o*)(5)(A), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of Title 16, Conservation, and amended sections 480 and 500 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under section 552 of Title 16 and Tables.
 
-The Federal Onshore Oil and Gas Leasing Reform Act of 1987, referred to in subsec. (d), is subtitle B (§§ 5101 to 5113) of title V of Pub. L. 100–203, Dec. 22, 1987, 101 Stat. 1330–256. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 181 of this title and Tables.
+The Federal Onshore Oil and Gas Leasing Reform Act of 1987, referred to in subsec. (d), is subtitle B (§§ 5101 to 5113) of title V of Pub. L. 100–203, Dec. 22, 1987, 101 Stat. 1330–256. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under section 181 of this title and Tables.
 
 The Combined Hydrocarbon Leasing Act of 1981, referred to in subsec. (n)(2), is Pub. L. 97–78, Nov. 16, 1981, 95 Stat. 1070, which amended sections 181, 182, 184, 209, 226, 241, 351, and 352 of this title and enacted a provision set out as a note under section 181 of this title. For complete classification of this Act to the Code, see Short Title of 1981 Amendment note set out under section 181 of this title and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (p)(2)(A), (3)(A), (B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (p)(2)(A), (3)(A), (B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
-2025—Pub. L. 119–21, § 50101(d)(1), substituted “Leasing of oil and gas parcels” for “Lease of oil and gas lands” in section catchline.
+2025—Pub. L. 119–21, § 50101(d)(1), substituted “Leasing of oil and gas parcels” for “Lease of oil and gas lands” in section catchline.
 
-Pub. L. 119–21, § 50101(a), repealed Pub. L. 117–169, § 50262(a), (e), and provided that any provision of law amended or repealed by those subsections are restored or revived as if those subsections had not been enacted. See 2022 Amendment notes below and Repeal of Inflation Reduction Act Provisions note set out under section 188 of this title.
+Pub. L. 119–21, § 50101(a), repealed Pub. L. 117–169, § 50262(a), (e), and provided that any provision of law amended or repealed by those subsections are restored or revived as if those subsections had not been enacted. See 2022 Amendment notes below and Repeal of Inflation Reduction Act Provisions note set out under section 188 of this title.
 
-Subsec. (a). Pub. L. 119–21, § 50101(d)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “All lands subject to disposition under this chapter which are known or believed to contain oil or gas deposits may be leased by the Secretary.”
+Subsec. (a). Pub. L. 119–21, § 50101(d)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “All lands subject to disposition under this chapter which are known or believed to contain oil or gas deposits may be leased by the Secretary.”
 
-Subsec. (b)(1)(A). Pub. L. 119–21, § 50101(b)(3), inserted “For purposes of the previous sentence, the term ‘eligible lands’ means all lands that are subject to leasing under this chapter and are not excluded from leasing by a statutory prohibition, and the term ‘available’, with respect to eligible lands, means those lands that have been designated as open for leasing under a land use plan developed under section 1712 of title 43 and that have been nominated for leasing through the submission of an expression of interest, are subject to drainage in the absence of leasing, or are otherwise designated as available pursuant to regulations adopted by the Secretary.” after “sales are necessary.”
+Subsec. (b)(1)(A). Pub. L. 119–21, § 50101(b)(3), inserted “For purposes of the previous sentence, the term ‘eligible lands’ means all lands that are subject to leasing under this chapter and are not excluded from leasing by a statutory prohibition, and the term ‘available’, with respect to eligible lands, means those lands that have been designated as open for leasing under a land use plan developed under section 1712 of title 43 and that have been nominated for leasing through the submission of an expression of interest, are subject to drainage in the absence of leasing, or are otherwise designated as available pursuant to regulations adopted by the Secretary.” after “sales are necessary.”
 
-Subsec. (p)(4). Pub. L. 119–21, § 50101(d)(2), added subsec. (p).
+Subsec. (p)(4). Pub. L. 119–21, § 50101(d)(2), added subsec. (p).
 
-Subsec. (q). Pub. L. 119–21, § 50101(d)(3), added subsec. (q) and struck out former subsec. (q) which related to fee for expression of interest.
+Subsec. (q). Pub. L. 119–21, § 50101(d)(3), added subsec. (q) and struck out former subsec. (q) which related to fee for expression of interest.
 
-2022—Pub. L. 117–169, § 50262(a)(1)(B), which substituted “16⅔ percent” for “12½ per centum” wherever appearing, was repealed by Pub. L. 119–21, § 50101(a)(1).
+2022—Pub. L. 117–169, § 50262(a)(1)(B), which substituted “16⅔ percent” for “12½ per centum” wherever appearing, was repealed by Pub. L. 119–21, § 50101(a)(1).
 
-Subsec. (b)(1)(A). Pub. L. 117–169, § 50262(e)(1)(A)(i), which substituted “paragraph (2)” for “paragraphs (2) and (3) of this subsection” and struck out at end “Lands for which no bids are received or for which the highest bid is less than the national minimum acceptable bid shall be offered promptly within 30 days for leasing under subsection (c) of this section and shall remain available for leasing for a period of 2 years after the competitive lease sale”, was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (b)(1)(A). Pub. L. 117–169, § 50262(e)(1)(A)(i), which substituted “paragraph (2)” for “paragraphs (2) and (3) of this subsection” and struck out at end “Lands for which no bids are received or for which the highest bid is less than the national minimum acceptable bid shall be offered promptly within 30 days for leasing under subsection (c) of this section and shall remain available for leasing for a period of 2 years after the competitive lease sale”, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Pub. L. 117–169, § 50262(a)(1)(A), which substituted “at a rate of not less than 16⅔” for “at a rate of not less than 12.5” and inserted “or, in the case of a lease issued during the 10-year period beginning on August 16, 2022, 16⅔ percent in amount or value of the production removed or sold from the lease” after “removed or sold from the lease”, was repealed by Pub. L. 119–21, § 50101(a)(1).
+Pub. L. 117–169, § 50262(a)(1)(A), which substituted “at a rate of not less than 16⅔” for “at a rate of not less than 12.5” and inserted “or, in the case of a lease issued during the 10-year period beginning on August 16, 2022, 16⅔ percent in amount or value of the production removed or sold from the lease” after “removed or sold from the lease”, was repealed by Pub. L. 119–21, § 50101(a)(1).
 
-Subsec. (b)(1)(B). Pub. L. 117–169, § 50262(b)(1), substituted “$10 per acre during the 10-year period beginning on August 16, 2022.” for “$2 per acre for a period of 2 years from December 22, 1987.”
+Subsec. (b)(1)(B). Pub. L. 117–169, § 50262(b)(1), substituted “$10 per acre during the 10-year period beginning on August 16, 2022.” for “$2 per acre for a period of 2 years from December 22, 1987.”
 
-Subsec. (b)(2)(C). Pub. L. 117–169, § 50262(b)(2), substituted “$10 per acre” for “$2 per acre”.
+Subsec. (b)(2)(C). Pub. L. 117–169, § 50262(b)(2), substituted “$10 per acre” for “$2 per acre”.
 
-Subsec. (b)(3). Pub. L. 117–169, § 50262(e)(1)(A)(ii), which struck out par. (3) relating to certain vested interests in mineral estates held by the United States, was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (b)(3). Pub. L. 117–169, § 50262(e)(1)(A)(ii), which struck out par. (3) relating to certain vested interests in mineral estates held by the United States, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Subsec. (c). Pub. L. 117–169, § 50262(e)(1)(B), which added subsec. (c) and struck out former subsec. (c) relating to lands subject to leasing under subsec. (b) and first qualified applicants, was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (c). Pub. L. 117–169, § 50262(e)(1)(B), which added subsec. (c) and struck out former subsec. (c) relating to lands subject to leasing under subsec. (b) and first qualified applicants, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Subsec. (d). Pub. L. 117–169, § 50262(c)(1), substituted “$3 per acre per year during the 2-year period beginning on the date the lease begins for new leases, and after the end of that 2-year period, $5 per acre per year for the following 6-year period, and not less than $15 per acre per year thereafter, or, in the case of a lease issued during the 10-year period beginning on August 16, 2022, $3 per acre per year during the 2-year period beginning on the date the lease begins, and after the end of that 2-year period, $5 per acre per year for the following 6-year period, and $15 per acre per year thereafter.” for “$1.50 per acre per year for the first through fifth years of the lease and not less than $2 per acre per year for each year thereafter.”
+Subsec. (d). Pub. L. 117–169, § 50262(c)(1), substituted “$3 per acre per year during the 2-year period beginning on the date the lease begins for new leases, and after the end of that 2-year period, $5 per acre per year for the following 6-year period, and not less than $15 per acre per year thereafter, or, in the case of a lease issued during the 10-year period beginning on August 16, 2022, $3 per acre per year during the 2-year period beginning on the date the lease begins, and after the end of that 2-year period, $5 per acre per year for the following 6-year period, and $15 per acre per year thereafter.” for “$1.50 per acre per year for the first through fifth years of the lease and not less than $2 per acre per year for each year thereafter.”
 
-Subsec. (e). Pub. L. 117–169, § 50262(e)(1)(C), which added subsec. (e) and struck out former subsec. (e), text of which read: “Competitive and noncompetitive leases issued under this section shall be for a primary term of 10 years: *Provided, however*, That competitive leases issued in special tar sand areas shall also be for a primary term of ten years. Each such lease shall continue so long after its primary term as oil or gas is produced in paying quantities. Any lease issued under this section for land on which, or for which under an approved cooperative or unit plan of development or operation, actual drilling operations were commenced prior to the end of its primary term and are being diligently prosecuted at that time shall be extended for two years and so long thereafter as oil or gas is produced in paying quantities”, was repealed by Pub. L. 119–21, § 50101(a)(2).
+Subsec. (e). Pub. L. 117–169, § 50262(e)(1)(C), which added subsec. (e) and struck out former subsec. (e), text of which read: “Competitive and noncompetitive leases issued under this section shall be for a primary term of 10 years: *Provided, however*, That competitive leases issued in special tar sand areas shall also be for a primary term of ten years. Each such lease shall continue so long after its primary term as oil or gas is produced in paying quantities. Any lease issued under this section for land on which, or for which under an approved cooperative or unit plan of development or operation, actual drilling operations were commenced prior to the end of its primary term and are being diligently prosecuted at that time shall be extended for two years and so long thereafter as oil or gas is produced in paying quantities”, was repealed by Pub. L. 119–21, § 50101(a)(2).
 
-Subsec. (q). Pub. L. 117–169, § 50262(d), added subsec. (q).
+Subsec. (q). Pub. L. 117–169, § 50262(d), added subsec. (q).
 
-2014—Subsec. (b)(1)(A). Pub. L. 113–291, § 3022(a)(1), inserted “, except as provided in subparagraph (C)” after “by oral bidding”.
+2014—Subsec. (b)(1)(A). Pub. L. 113–291, § 3022(a)(1), inserted “, except as provided in subparagraph (C)” after “by oral bidding”.
 
-Subsec. (b)(1)(C). Pub. L. 113–291, § 3022(a)(2), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 113–291, § 3022(a)(2), added subpar. (C).
 
-2005—Subsec. (b)(1)(B). Pub. L. 109–58, § 350(b), inserted “, subject to paragraph (2)(B),” after “Thereafter, the Secretary”.
+2005—Subsec. (b)(1)(B). Pub. L. 109–58, § 350(b), inserted “, subject to paragraph (2)(B),” after “Thereafter, the Secretary”.
 
-Subsec. (b)(2). Pub. L. 109–58, § 350(a), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+Subsec. (b)(2). Pub. L. 109–58, § 350(a), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
-Subsec. (b)(2)(A). Pub. L. 109–58, § 369(j)(1), designated first sentence as cl. (i), substituted “5,760” for “five thousand one hundred and twenty”, designated second and third sentences as cls. (ii) and (iii), respectively, and added cl. (iv).
+Subsec. (b)(2)(A). Pub. L. 109–58, § 369(j)(1), designated first sentence as cl. (i), substituted “5,760” for “five thousand one hundred and twenty”, designated second and third sentences as cls. (ii) and (iii), respectively, and added cl. (iv).
 
-Subsec. (p). Pub. L. 109–58, § 366, added subsec. (p).
+Subsec. (p). Pub. L. 109–58, § 366, added subsec. (p).
 
 1995—Subsec. (j). Pub. L. 104–66 struck out at end “The Secretary shall report to Congress at the beginning of each regular session all such agreements entered into during the previous year which involve unleased Government lands.”
 
 1994—Subsec. (b)(1)(B). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the United States House”.
 
-1992—Subsec. (b)(1)(A). Pub. L. 102–486, § 2507(a)(1), substituted “under paragraphs (2) and (3)” for “under paragraph (2)”.
+1992—Subsec. (b)(1)(A). Pub. L. 102–486, § 2507(a)(1), substituted “under paragraphs (2) and (3)” for “under paragraph (2)”.
 
-Subsec. (b)(3). Pub. L. 102–486, § 2507(a)(2), added par. (3).
+Subsec. (b)(3). Pub. L. 102–486, § 2507(a)(2), added par. (3).
 
-Subsec. (e). Pub. L. 102–486, § 2509, substituted “Competitive and noncompetitive leases issued under this section shall be for a primary term of 10 years: *Provided, however*,” for “Competitive leases issued under this section shall be for a primary term of five years and noncompetitive leases for a primary term of ten years: *Provided, however,”.*
+Subsec. (e). Pub. L. 102–486, § 2509, substituted “Competitive and noncompetitive leases issued under this section shall be for a primary term of 10 years: *Provided, however*,” for “Competitive leases issued under this section shall be for a primary term of five years and noncompetitive leases for a primary term of ten years: *Provided, however,”.*
 
-Subsec. (*o*). Pub. L. 102–486, § 2508(a), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 102–486, § 2508(a), added subsec. (*o*).
 
-1987—Subsec. (b)(1). Pub. L. 100–203, § 5102(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the lands to be leased are within any known geological structure of a producing oil or gas field, they shall be leased to the highest responsible qualified bidder by competitive bidding under general regulations in units of not more than six hundred and forty acres, which shall be as nearly compact in form as possible, upon the payment by the lessee of such bonus as may be accepted by the Secretary and of such royalty as may be fixed in the lease, which shall be not less than 12½ per centum in amount or value of the production removed or sold from the lease.”
+1987—Subsec. (b)(1). Pub. L. 100–203, § 5102(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “If the lands to be leased are within any known geological structure of a producing oil or gas field, they shall be leased to the highest responsible qualified bidder by competitive bidding under general regulations in units of not more than six hundred and forty acres, which shall be as nearly compact in form as possible, upon the payment by the lessee of such bonus as may be accepted by the Secretary and of such royalty as may be fixed in the lease, which shall be not less than 12½ per centum in amount or value of the production removed or sold from the lease.”
 
-Subsec. (c). Pub. L. 100–203, § 5102(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the lands to be leased are not subject to leasing under subsection (b) of this section, the person first making application for the lease who is qualified to hold a lease under this chapter shall be entitled to a lease of such lands without competitive bidding. Such leases shall be conditioned upon the payment by the lessee of a royalty of 12½ per centum in amount or value of the production removed or sold from the lease.”
+Subsec. (c). Pub. L. 100–203, § 5102(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the lands to be leased are not subject to leasing under subsection (b) of this section, the person first making application for the lease who is qualified to hold a lease under this chapter shall be entitled to a lease of such lands without competitive bidding. Such leases shall be conditioned upon the payment by the lessee of a royalty of 12½ per centum in amount or value of the production removed or sold from the lease.”
 
-Subsec. (d). Pub. L. 100–203, § 5102(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “All leases issued under this section shall be conditioned upon payment by the lessee of a rental of not less than 50 cents per acre for each year of the lease. Each year’s lease rental shall be paid in advance. A minimum royalty of $1 per acre in lieu of rental shall be payable at the expiration of each lease year beginning on or after a discovery of oil or gas in paying quantities on the lands leased.”
+Subsec. (d). Pub. L. 100–203, § 5102(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “All leases issued under this section shall be conditioned upon payment by the lessee of a rental of not less than 50 cents per acre for each year of the lease. Each year’s lease rental shall be paid in advance. A minimum royalty of $1 per acre in lieu of rental shall be payable at the expiration of each lease year beginning on or after a discovery of oil or gas in paying quantities on the lands leased.”
 
-Subsecs. (f) to (n). Pub. L. 100–203, § 5102(d)(1), added subsecs. (f) to (h) and redesignated former subsecs. (f) to (k) as (i) to (n), respectively.
+Subsecs. (f) to (n). Pub. L. 100–203, § 5102(d)(1), added subsecs. (f) to (h) and redesignated former subsecs. (f) to (k) as (i) to (n), respectively.
 
-1981—Subsec. (b). Pub. L. 97–78, § 1(6)(a), designated existing provisions as par. (1) and added par. (2).
+1981—Subsec. (b). Pub. L. 97–78, § 1(6)(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c). Pub. L. 97–78, § 1(6)(b), substituted “subject to leasing under subsection (b) of this section” for “within any known geological structure of a producing oil or gas field”.
+Subsec. (c). Pub. L. 97–78, § 1(6)(b), substituted “subject to leasing under subsection (b) of this section” for “within any known geological structure of a producing oil or gas field”.
 
-Subsec. (e). Pub. L. 97–78, § 1(6)(c), inserted proviso that competitive leases in special tar sand areas be for a primary term of ten years.
+Subsec. (e). Pub. L. 97–78, § 1(6)(c), inserted proviso that competitive leases in special tar sand areas be for a primary term of ten years.
 
-Subsec. (k). Pub. L. 97–78, § 1(8), added subsec. (k).
+Subsec. (k). Pub. L. 97–78, § 1(8), added subsec. (k).
 
 1960—Pub. L. 86–705 generally amended this section and sections 226d and 226e of this title, combining all three sections and subdividing provisions into subsections (a) to (j) of this section. Among other changes were: substitution of a fixed 10-year term for a renewable 5-year term for noncompetitive leases, the addition of subsec. (h) provisions with respect to the running of time against a lease during a contest of the claim, an increase in the minimum yearly rentals from 25 to 50 cents an acre, and striking out provisions that permitted a waiver of second-year and third-year rentals in certain situations.
 
@@ -2437,7 +2437,7 @@ Act July 29, 1954, in fifth par., provided that the primary term of a lease whic
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–486, title XXV, § 2507(b), Oct. 24, 1992, 106 Stat. 3108, provided that: “The amendments made by subsection (a) [amending this section] apply with respect to those mineral estates in which the interest of the United States becomes a vested present interest after January 1, 1990.”
+Pub. L. 102–486, title XXV, § 2507(b), Oct. 24, 1992, 106 Stat. 3108, provided that: “The amendments made by subsection (a) [amending this section] apply with respect to those mineral estates in which the interest of the United States becomes a vested present interest after January 1, 1990.”
 
 **Repeal of Inflation Reduction Act Provisions**
 
@@ -2445,13 +2445,13 @@ For repeal of section 50262(a), (e) of Pub. L. 117–169 and revival of prior te
 
 **Regulations**
 
-Pub. L. 109–58, title III, § 350(c), Aug. 8, 2005, 119 Stat. 711, provided that: “Not later than 45 days after the date of enactment of this Act [Aug. 8, 2005], the Secretary [of the Interior] shall issue final regulations to implement this section [amending this section].”
+Pub. L. 109–58, title III, § 350(c), Aug. 8, 2005, 119 Stat. 711, provided that: “Not later than 45 days after the date of enactment of this Act [Aug. 8, 2005], the Secretary [of the Interior] shall issue final regulations to implement this section [amending this section].”
 
-Pub. L. 102–486, title XXV, § 2508(b), Oct. 24, 1992, 106 Stat. 3109, provided that: “Within 90 days after the enactment of this Act [Oct. 24, 1992] the Secretary of Agriculture shall promulgate regulations to implement the amendment made by subsection (a) [amending this section].”
+Pub. L. 102–486, title XXV, § 2508(b), Oct. 24, 1992, 106 Stat. 3109, provided that: “Within 90 days after the enactment of this Act [Oct. 24, 1992] the Secretary of Agriculture shall promulgate regulations to implement the amendment made by subsection (a) [amending this section].”
 
-Pub. L. 100–203, title V, § 5107, Dec. 22, 1987, 101 Stat. 1330–259, provided that:
+Pub. L. 100–203, title V, § 5107, Dec. 22, 1987, 101 Stat. 1330–259, provided that:
 
-> **“(a) Regulations.—** The Secretary shall issue final regulations to implement this subtitle [subtitle B (§§ 5101–5113) of title V of Pub. L. 100–203, see Short Title of 1987 Amendment note set out under section 181 of this title] within 180 days after the enactment of this subtitle [Dec. 22, 1987]. The regulations shall be effective when published in the Federal Register.
+> **“(a) Regulations.—** The Secretary shall issue final regulations to implement this subtitle [subtitle B (§§ 5101–5113) of title V of Pub. L. 100–203, see Short Title of 1987 Amendment note set out under section 181 of this title] within 180 days after the enactment of this subtitle [Dec. 22, 1987]. The regulations shall be effective when published in the Federal Register.
 
 > **“(b) Treatment Under Other Law.—** The proposal or promulgation of such regulations shall not be considered a major Federal action subject to the requirements of section 102(2)(C) of the National Environmental Policy Act of 1969 [42 U.S.C. 4332(2)(C)].
 
@@ -2459,17 +2459,17 @@ Pub. L. 100–203, title V, § 5107, Dec. 22, 1987, 101 Stat. 1330–259, prov
 
 **Savings Provision**
 
-Pub. L. 86–705, § 8, Sept. 2, 1960, 74 Stat. 791, provided that: “No amendment made by this Act [see Short Title of 1960 Amendment note set out under section 181 of this title] shall affect any valid right in existence on the effective date [Sept. 2, 1960] of the Mineral Leasing Act Revision of 1960.”
+Pub. L. 86–705, § 8, Sept. 2, 1960, 74 Stat. 791, provided that: “No amendment made by this Act [see Short Title of 1960 Amendment note set out under section 181 of this title] shall affect any valid right in existence on the effective date [Sept. 2, 1960] of the Mineral Leasing Act Revision of 1960.”
 
 See note set out under section 181 of this title.
 
 **Transfer of Functions**
 
-Functions of Secretary of the Interior, referred to in subsec. (j), to promulgate regulations under this chapter relating to establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior, referred to in subsec. (j), to promulgate regulations under this chapter relating to establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
 **Requirement to Immediately Resume Onshore Oil and Gas Lease Sales**
 
-Pub. L. 119–21, title V, § 50101(b)(1), (2), July 4, 2025, 139 Stat. 137, provided that:
+Pub. L. 119–21, title V, § 50101(b)(1), (2), July 4, 2025, 139 Stat. 137, provided that:
 
 > **“(1) In general.—** The Secretary of the Interior shall immediately resume quarterly onshore oil and gas lease sales in compliance with the Mineral Leasing Act (30 U.S.C. 181 et seq.).
 
@@ -2481,7 +2481,7 @@ Pub. L. 119–21, title V, § 50101(b)(1), (2), July 4, 2025, 139 Stat. 137, p
 
 **Quarterly Lease Sales**
 
-Pub. L. 119–21, title V, § 50101(c), July 4, 2025, 139 Stat. 138, provided that:
+Pub. L. 119–21, title V, § 50101(c), July 4, 2025, 139 Stat. 138, provided that:
 
 > **“(1) In general.—** In accordance with the Mineral Leasing Act (30 U.S.C. 181 et seq.), each fiscal year, the Secretary of the Interior shall conduct a minimum of 4 oil and gas lease sales of available land in each of the following States:
 
@@ -2517,9 +2517,9 @@ Pub. L. 119–21, title V, § 50101(c), July 4, 2025, 139 Stat. 138, provided 
 
 **Pending Applications, Offers, and Bids**
 
-Pub. L. 100–203, title V, § 5106, Dec. 22, 1987, 101 Stat. 1330–259, provided that:
+Pub. L. 100–203, title V, § 5106, Dec. 22, 1987, 101 Stat. 1330–259, provided that:
 
-> **“(a)** Notwithstanding any other provision of this subtitle [subtitle B (§§ 5101–5113) of title V of Pub. L. 100–203, see Short Title of 1987 Amendment note set out under section 181 of this title] and except as provided in subsection (b) of this section, all noncompetitive oil and gas lease applications and offers and competitive oil and gas bids pending on the date of enactment of this subtitle [Dec. 22, 1987] shall be processed, and leases shall be issued under the provisions of the Act of February 25, 1920 [this chapter], as in effect before its amendment by this subtitle, except where the issuance of any such lease would not be lawful under such provisions or other applicable law.
+> **“(a)** Notwithstanding any other provision of this subtitle [subtitle B (§§ 5101–5113) of title V of Pub. L. 100–203, see Short Title of 1987 Amendment note set out under section 181 of this title] and except as provided in subsection (b) of this section, all noncompetitive oil and gas lease applications and offers and competitive oil and gas bids pending on the date of enactment of this subtitle [Dec. 22, 1987] shall be processed, and leases shall be issued under the provisions of the Act of February 25, 1920 [this chapter], as in effect before its amendment by this subtitle, except where the issuance of any such lease would not be lawful under such provisions or other applicable law.
 
 > **“(b)** No noncompetitive lease applications or offers pending on the date of enactment of this subtitle for lands within the Shawnee National Forest, Illinois; the Ouachita National Forest, Arkansas; Fort Chaffee, Arkansas; or Eglin Air Force Base, Florida; shall be processed until these lands are posted for competitive bidding in accordance with section 5102 of this subtitle [amending this section and section 188 of this title]. If any such tract does not receive a bid equal to or greater than the national minimum acceptable bid from a responsible qualified bidder then the noncompetitive applications or offers pending for such a tract shall be reinstated and noncompetitive leases issued under the Act of February 25, 1920, as in effect before its amendment by this subtitle, except where the issuance of any such lease would not be lawful under such provisions or other applicable law. If competitive leases are issued for any such tract, then the pending noncompetitive application or offer shall be rejected.
 
@@ -2527,11 +2527,11 @@ Pub. L. 100–203, title V, § 5106, Dec. 22, 1987, 101 Stat. 1330–259, prov
 
 **Report to Congress**
 
-Pub. L. 100–203, title V, § 5110, Dec. 22, 1987, 101 Stat. 1330–261, required the Secretary to submit to Congress, annually for 5 years after Dec. 22, 1987, a report containing appropriate information, as specified by this section, to facilitate congressional monitoring of this subtitle B (§§ 5101–5113) of title V of Pub. L. 100–203 (enacting sections 195 and 226–3 of this title, amending sections 187a, 187b, 188, 191, and 226 of this title and section 3148 of Title 16, Conservation, and enacting provisions set out as notes under this section and section 226 of this title).
+Pub. L. 100–203, title V, § 5110, Dec. 22, 1987, 101 Stat. 1330–261, required the Secretary to submit to Congress, annually for 5 years after Dec. 22, 1987, a report containing appropriate information, as specified by this section, to facilitate congressional monitoring of this subtitle B (§§ 5101–5113) of title V of Pub. L. 100–203 (enacting sections 195 and 226–3 of this title, amending sections 187a, 187b, 188, 191, and 226 of this title and section 3148 of Title 16, Conservation, and enacting provisions set out as notes under this section and section 226 of this title).
 
 **Land Use Study**
 
-Pub. L. 100–203, title V, § 5111, Dec. 22, 1987, 101 Stat. 1330–262, provided that:
+Pub. L. 100–203, title V, § 5111, Dec. 22, 1987, 101 Stat. 1330–262, provided that:
 
 > “The National Academy of Sciences and the Comptroller General of the United States shall conduct a study of the manner in which oil and gas resources are considered in the land use plans developed by the Secretary of the Interior in accordance with provisions of the Federal Land Policy and Management Act of 1976 (90 Stat. 2743) [Pub. L. 94–579, see Short Title note under 43 U.S.C. 1701] and the Secretary of Agriculture in accordance with the Forest and Rangeland Renewable Resources Planning Act of 1974 (88 Stat. 476) [Pub. L. 93–378, 16 U.S.C. 1600 et seq.], as amended by the National Forest Management Act of 1976 (90 Stat. 2949) [Pub. L. 94–588, see Short Title of 1976 Amendment note under 16 U.S.C. 1600], and recommend any improvements that may be necessary to ensure that—
 
@@ -2543,13 +2543,13 @@ Pub. L. 100–203, title V, § 5111, Dec. 22, 1987, 101 Stat. 1330–262, prov
 
 **Reinstatement and Extension of Certain Ten-Year Oil and Gas Leases**
 
-Act July 14, 1952, ch. 742, 66 Stat. 630, provided: “That any lease issued for a ten-year term in exchange for an oil and gas prospecting permit pursuant to sections 13 and 17 of the Act entitled ‘An Act to promote the mining of coal, phosphate, oil, oil shale, gas, and sodium on the public domain’, approved February 25, 1920, as amended by the Act of August 21, 1935 (49 Stat. 674) [sections 221 and 226, respectively, of this title], and prior to amendment by the Act of August 8, 1946 [act Aug. 8, 1946, ch. 916, § 3, 60 Stat. 951], and upon which drilling operations were being diligently prosecuted on the expiration date of such lease, prior to the effective date of this Act [July 14, 1952], is hereby reinstated effective from the expiration date of the lease and shall continue in effect for a period of two years after the effective date of this Act and so long thereafter as oil or gas is produced in paying quantities, if, within ninety days after the enactment of this Act, payment is made, under the terms of such lease as reinstated and extended, of any sums due the United States for prior years. This Act shall not be applicable to any lands which, subsequent to such expiration and prior to the enactment of this Act, have been withdrawn from leasing, leased, or otherwise disposed of.”
+Act July 14, 1952, ch. 742, 66 Stat. 630, provided: “That any lease issued for a ten-year term in exchange for an oil and gas prospecting permit pursuant to sections 13 and 17 of the Act entitled ‘An Act to promote the mining of coal, phosphate, oil, oil shale, gas, and sodium on the public domain’, approved February 25, 1920, as amended by the Act of August 21, 1935 (49 Stat. 674) [sections 221 and 226, respectively, of this title], and prior to amendment by the Act of August 8, 1946 [act Aug. 8, 1946, ch. 916, § 3, 60 Stat. 951], and upon which drilling operations were being diligently prosecuted on the expiration date of such lease, prior to the effective date of this Act [July 14, 1952], is hereby reinstated effective from the expiration date of the lease and shall continue in effect for a period of two years after the effective date of this Act and so long thereafter as oil or gas is produced in paying quantities, if, within ninety days after the enactment of this Act, payment is made, under the terms of such lease as reinstated and extended, of any sums due the United States for prior years. This Act shall not be applicable to any lands which, subsequent to such expiration and prior to the enactment of this Act, have been withdrawn from leasing, leased, or otherwise disposed of.”
 
 **Outer Continental Shelf; Leases**
 
 Grant by Secretary of the Interior of oil, gas, and other mineral leases on submerged lands of outer Continental Shelf, see section 1331 et seq. of Title 43, Public Lands.
 
-### § 226–1. Extension of noncompetitive oil or gas lease issued before September 2, 1960
+### § 226–1. Extension of noncompetitive oil or gas lease issued before September 2, 1960
 
 **(a) Lands not withdrawn from leasing**
 
@@ -2567,7 +2567,7 @@ Any noncompetitive oil or gas lease extended under this section shall be subject
 
 Any lease issued prior to September 2, 1960, which has been maintained in accordance with applicable statutory requirements and regulations and which pertains to land on which, or for which under an approved cooperative or unit plan of development or operation, actual drilling operations were commenced prior to the end of its primary term and are being diligently prosecuted at that time shall be extended for two years and so long thereafter as oil or gas is produced in paying quantities.
 
-(Pub. L. 86–705, § 4, Sept. 2, 1960, 74 Stat. 789.)
+(Pub. L. 86–705, § 4, Sept. 2, 1960, 74 Stat. 789.)
 
 **Editorial Notes**
 
@@ -2575,13 +2575,13 @@ Any lease issued prior to September 2, 1960, which has been maintained in accord
 
 Section was enacted as part of Mineral Leasing Act Revision of 1960, and not as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 226–2. Limitations for filing oil and gas contests
+### § 226–2. Limitations for filing oil and gas contests
 
 No action contesting a decision of the Secretary involving any oil and gas lease shall be maintained unless such action is commenced or taken within ninety days after the final decision of the Secretary relating to such matter. No such action contesting such a decision of the Secretary rendered prior to September 2, 1960 shall be maintained unless the same be commenced or taken within ninety days after September 2, 1960.
 
-(Feb. 25, 1920, ch. 85, § 42, as added Pub. L. 86–705, § 5, Sept. 2, 1960, 74 Stat. 790.)
+(Feb. 25, 1920, ch. 85, § 42, as added Pub. L. 86–705, § 5, Sept. 2, 1960, 74 Stat. 790.)
 
-### § 226–3. Lands not subject to oil and gas leasing
+### § 226–3. Lands not subject to oil and gas leasing
 
 **(a) Prohibition** The Secretary shall not issue any lease under this chapter or under the Geothermal Steam Act of 1970 [30 U.S.C. 1001 et seq.] on any of the following Federal lands:
 
@@ -2597,25 +2597,25 @@ No action contesting a decision of the Secretary involving any oil and gas lease
 
 In the case of any area of National Forest or public lands subject to this section, nothing in this section shall affect any authority of the Secretary of the Interior (or for National Forest Lands reserved from the public domain, the Secretary of Agriculture) to issue permits for exploration for oil and gas, coal, oil shale, phosphate, potassium, sulphur, gilsonite or geothermal resources by means not requiring construction of roads or improvement of existing roads if such activity is conducted in a manner compatible with the preservation of the wilderness environment.
 
-(Feb. 25, 1920, ch. 85, § 43, as added Pub. L. 100–203, title V, § 5112, Dec. 22, 1987, 101 Stat. 1330–262; amended Pub. L. 100–443, § 5(c), Sept. 22, 1988, 102 Stat. 1768.)
+(Feb. 25, 1920, ch. 85, § 43, as added Pub. L. 100–203, title V, § 5112, Dec. 22, 1987, 101 Stat. 1330–262; amended Pub. L. 100–443, § 5(c), Sept. 22, 1988, 102 Stat. 1768.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Geothermal Steam Act of 1970, referred to in subsec. (a), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (a), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–443, § 5(c)(1), inserted “or under the Geothermal Steam Act of 1970” after “under this chapter” and directed that “oil and gas” be stricken which was executed by striking those words where they appeared after “not issue any” in introductory provisions, but not where they appeared in par. (3) as the probable intent of Congress.
+1988—Subsec. (a). Pub. L. 100–443, § 5(c)(1), inserted “or under the Geothermal Steam Act of 1970” after “under this chapter” and directed that “oil and gas” be stricken which was executed by striking those words where they appeared after “not issue any” in introductory provisions, but not where they appeared in par. (3) as the probable intent of Congress.
 
-Subsec. (b). Pub. L. 100–443, § 5(c)(2), inserted “, coal, oil shale, phosphate, potassium, sulphur, gilsonite or geothermal resources” after “oil and gas”.
+Subsec. (b). Pub. L. 100–443, § 5(c)(2), inserted “, coal, oil shale, phosphate, potassium, sulphur, gilsonite or geothermal resources” after “oil and gas”.
 
-### §§ 226a, 226b. Repealed. Aug. 8, 1946, ch. 916, § 14, 60 Stat. 958
+### §§ 226a, 226b. Repealed. Aug. 8, 1946, ch. 916, § 14, 60 Stat. 958
 
 Section 226a, act July 8, 1940, ch. 548, 54 Stat. 742, related to lease of lands not within known productive field. See section 226 of this title.
 
-Section 226b, acts July 29, 1942, ch. 534, § 1, 56 Stat. 726; Dec. 22, 1943, ch. 376, 57 Stat. 608; Sept. 27, 1944, ch. 429, 58 Stat. 755; Nov. 30, 1945, ch. 495, 59 Stat. 587, related to preference right to new oil and gas lease upon expiration of five-year non-competitive oil and gas lease. See section 226 of this title.
+Section 226b, acts July 29, 1942, ch. 534, § 1, 56 Stat. 726; Dec. 22, 1943, ch. 376, 57 Stat. 608; Sept. 27, 1944, ch. 429, 58 Stat. 755; Nov. 30, 1945, ch. 495, 59 Stat. 587, related to preference right to new oil and gas lease upon expiration of five-year non-competitive oil and gas lease. See section 226 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2623,11 +2623,11 @@ Section 226b, acts July 29, 1942, ch. 534, § 1, 56 Stat. 726; Dec. 22, 1943, 
 
 See note set out under section 181 of this title.
 
-### § 226c. Reduction of royalties under existing leases
+### § 226c. Reduction of royalties under existing leases
 
 From and after August 8, 1946, the royalty obligation to the United States under all leases requiring payment of royalty in excess of 12½ per centum, except leases issued or to be issued upon competitive bidding, is reduced to 12½ per centum in amount or value of production removed or sold from said leases as to (1) such leases, or such part of the lands subject thereto, and the deposits underlying the same, as are not believed to be within the productive limits of any oil or gas deposit, as such productive limits are found by the Secretary to exist on August 8, 1946, and (2) any production on a lease from an oil or gas deposit which was discovered after May 27, 1941, by a well or wells drilled within the boundaries of the lease, and which is determined by the Secretary to be a new deposit; and (3) any production on or allocated to a lease pursuant to an approved unit or cooperative agreement from an oil or gas deposit which was discovered after May 27, 1941, on land committed to such agreement, and which is determined by the Secretary to be a new deposit, where such lease was included in such agreement at the time of discovery, or was included in a duly executed and filed application for the approval of such agreement at the time of discovery.
 
-(Aug. 8, 1946, ch. 916, § 12, 60 Stat. 957.)
+(Aug. 8, 1946, ch. 916, § 12, 60 Stat. 957.)
 
 **Editorial Notes**
 
@@ -2645,37 +2645,37 @@ See note set out under section 181 of this title.
 
 Refunds of excess payments with respect to oil, gas, and other leases on submerged lands of outer Continental Shelf, see section 1339 of Title 43, Public Lands.
 
-### §§ 226d, 226e. Omitted
+### §§ 226d, 226e. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Sections were completely amended by Pub. L. 86–705, § 2, Sept. 2, 1960, 74 Stat. 781, and included in section 17 of Mineral Leasing Act of Feb. 25, 1920, classified to section 226 of this title.
+Sections were completely amended by Pub. L. 86–705, § 2, Sept. 2, 1960, 74 Stat. 781, and included in section 17 of Mineral Leasing Act of Feb. 25, 1920, classified to section 226 of this title.
 
-Section 226d, act Feb. 25, 1920, ch. 85, § 17a, as added Aug. 8, 1946, ch. 916, § 4, 60 Stat. 952, provided for the exchange of leases and fixed royalty rates for new leases.
+Section 226d, act Feb. 25, 1920, ch. 85, § 17a, as added Aug. 8, 1946, ch. 916, § 4, 60 Stat. 952, provided for the exchange of leases and fixed royalty rates for new leases.
 
-Section 226e, act Feb. 25, 1920, ch. 85, § 17b, as added Aug. 8, 1946, ch. 916, § 5, 60 Stat. 952; amended July 29, 1954, ch. 644, § 1(4), (5), 68 Stat. 585, permitted establishment of cooperative or unit plans, setting up procedures for regulating production, approving contracts and preventing waste.
+Section 226e, act Feb. 25, 1920, ch. 85, § 17b, as added Aug. 8, 1946, ch. 916, § 5, 60 Stat. 952; amended July 29, 1954, ch. 644, § 1(4), (5), 68 Stat. 585, permitted establishment of cooperative or unit plans, setting up procedures for regulating production, approving contracts and preventing waste.
 
-### § 227. Omitted
+### § 227. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, acts Feb. 25, 1920, ch. 85, § 18, 41 Stat. 443; Feb. 25, 1928, ch. 104, 45 Stat. 148, authorized the United States to issue leases for a period of twenty years to persons who relinquished all rights claimed or possessed prior to July 3, 1910 under preexisting placer mining law provided relinquishment was filed in the General Land Office within six months after Feb. 25, 1920.
+Section, acts Feb. 25, 1920, ch. 85, § 18, 41 Stat. 443; Feb. 25, 1928, ch. 104, 45 Stat. 148, authorized the United States to issue leases for a period of twenty years to persons who relinquished all rights claimed or possessed prior to July 3, 1910 under preexisting placer mining law provided relinquishment was filed in the General Land Office within six months after Feb. 25, 1920.
 
-### § 228. Prospecting permits and leases to persons of lands not withdrawn; terms and conditions of; fraud of claimants
+### § 228. Prospecting permits and leases to persons of lands not withdrawn; terms and conditions of; fraud of claimants
 
-Any person who on October 1, 1919, was a bona fide occupant or claimant of oil or gas lands under a claim initiated while such lands were not withdrawn from oil or gas location and entry, and who had previously performed all acts under then existing laws necessary to valid locations thereof except to make discovery, and upon which discovery had not been made prior to February 25, 1920, and who has performed work or expended on or for the benefit of such locations an amount equal in the aggregate of $250 for each location if application therefor shall be made within six months from February 25, 1920, shall be entitled to prospecting permits thereon upon the same terms and conditions, and limitations as to acreage, as other permits provided for in this chapter, or where any such person has made such discovery, prior to said February 25, 1920, he shall be entitled to a lease thereon under such terms as the Secretary of the Interior may prescribe unless otherwise provided for in section 227 1
+Any person who on October 1, 1919, was a bona fide occupant or claimant of oil or gas lands under a claim initiated while such lands were not withdrawn from oil or gas location and entry, and who had previously performed all acts under then existing laws necessary to valid locations thereof except to make discovery, and upon which discovery had not been made prior to February 25, 1920, and who has performed work or expended on or for the benefit of such locations an amount equal in the aggregate of $250 for each location if application therefor shall be made within six months from February 25, 1920, shall be entitled to prospecting permits thereon upon the same terms and conditions, and limitations as to acreage, as other permits provided for in this chapter, or where any such person has made such discovery, prior to said February 25, 1920, he shall be entitled to a lease thereon under such terms as the Secretary of the Interior may prescribe unless otherwise provided for in section 227 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title: *Provided*, That where such prospecting permit is granted upon land within any known geologic structure of a producing oil or gas field, the royalty to be fixed in any lease thereafter granted thereon or any portion thereof shall be not less than 12½ per-centum of all the oil or gas produced except oil or gas used for production purposes on the claim, or unavoidably lost: *Provided, however*, That the provisions of this section shall not apply to lands reserved for the use of the Navy. No claimant for a permit or lease who has been guilty of any fraud or who had knowledge or reasonable grounds to know of any fraud, or who has not acted honestly and in good faith shall be entitled to any of the benefits of this section.
 
 All permits or leases hereunder shall inure to the benefit of the claimant and all persons claiming through or under him by lease, contract, or otherwise, as their interests may appear.
 
-(Feb. 25, 1920, ch. 85, § 19, 41 Stat. 445.)
+(Feb. 25, 1920, ch. 85, § 19, 41 Stat. 445.)
 
 **Editorial Notes**
 
@@ -2683,13 +2683,13 @@ All permits or leases hereunder shall inure to the benefit of the claimant and a
 
 Section 227 of this title, referred to in text, was omitted from the Code.
 
-### § 229. Preference right to permits or leases of claimants of lands bona fide entered as agricultural land; terms and conditions
+### § 229. Preference right to permits or leases of claimants of lands bona fide entered as agricultural land; terms and conditions
 
 In the case of lands bona fide entered as agricultural, and not withdrawn or classified as mineral at the time of entry, but not including lands claimed under any railroad grant, the entryman or patentee, or assigns, where assignment was made prior to January 1, 1918, if the entry has been patented with the mineral right reserved, shall be entitled to a preference right to a permit and to a lease, as herein provided, in case of discovery; and within an area not greater than a township such entryman and patentees, or assigns holding restricted patents may combine their holdings, not to exceed two thousand five hundred and sixty acres for the purpose of making joint application. Leases executed under this section and embracing only lands so entered shall provide for the payment of a royalty of not less than 12½ per centum as to such areas within the permit as may not be included within the discovery lease to which the permittee is entitled under section 223 of this title.
 
-(Feb. 25, 1920, ch. 85, § 20, 41 Stat. 445.)
+(Feb. 25, 1920, ch. 85, § 20, 41 Stat. 445.)
 
-### § 229a. Water struck while drilling for oil and gas
+### § 229a. Water struck while drilling for oil and gas
 
 **(a) Acquisition; condition in lease**
 
@@ -2711,7 +2711,7 @@ The Secretary may use so much of any funds available for the plugging of wells, 
 
 Nothing in this section shall be construed to restrict operations under any oil or gas lease or permit under any other provision of this chapter.
 
-(Feb. 25, 1920, ch. 85, § 40, as added June 16, 1934, ch. 557, 48 Stat. 977; amended Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.)
+(Feb. 25, 1920, ch. 85, § 40, as added June 16, 1934, ch. 557, 48 Stat. 977; amended Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
 **Editorial Notes**
 
@@ -2723,71 +2723,71 @@ Nothing in this section shall be construed to restrict operations under any oil 
 
 **Effective Date of 1976 Amendment**
 
-Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the amendment made by section 704(a) is effective on and after Oct. 21, 1976.
+Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, provided that the amendment made by section 704(a) is effective on and after Oct. 21, 1976.
 
 **Savings Provision**
 
 Amendment by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of Title 43, Public Lands.
 
-### §§ 230 to 233. Repealed. June 22, 1948, ch. 605, § 3, 62 Stat. 576
+### §§ 230 to 233. Repealed. June 22, 1948, ch. 605, § 3, 62 Stat. 576
 
-Section 230, act Mar. 4, 1923, ch. 249, § 1, 42 Stat. 1448, authorized permits and leases for certain United States citizens and corporations in Oklahoma.
+Section 230, act Mar. 4, 1923, ch. 249, § 1, 42 Stat. 1448, authorized permits and leases for certain United States citizens and corporations in Oklahoma.
 
-Section 231, act Mar. 4, 1923, ch. 249, § 2, 42 Stat. 1448, required applications for permits and leases to be made not later than sixty days after Mar. 4, 1923.
+Section 231, act Mar. 4, 1923, ch. 249, § 2, 42 Stat. 1448, required applications for permits and leases to be made not later than sixty days after Mar. 4, 1923.
 
-Section 232, act Mar. 4, 1923, ch. 249, § 3, 42 Stat. 1448, limited amount of land any one person or corporation could be granted.
+Section 232, act Mar. 4, 1923, ch. 249, § 3, 42 Stat. 1448, limited amount of land any one person or corporation could be granted.
 
-Section 233, act Mar. 4, 1923, ch. 249, § 4, 42 Stat. 1448, provided for payment of royalties to United States.
+Section 233, act Mar. 4, 1923, ch. 249, § 4, 42 Stat. 1448, provided for payment of royalties to United States.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Act June 22, 1948, ch. 605, § 3, 62 Stat. 576, provided that the repeal of these sections is subject to existing valid rights.
+Act June 22, 1948, ch. 605, § 3, 62 Stat. 576, provided that the repeal of these sections is subject to existing valid rights.
 
-### § 233a. Permits or leases of certain lands in Okla­homa; retention of royalties
+### § 233a. Permits or leases of certain lands in Okla­homa; retention of royalties
 
-The Secretary of the Interior is directed to retain in his custody until otherwise directed by law the 12½ per centum and other royalties heretofore or hereafter received by him in pursuance of section 233 1
+The Secretary of the Interior is directed to retain in his custody until otherwise directed by law the 12½ per centum and other royalties heretofore or hereafter received by him in pursuance of section 233 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Mar. 4, 1925, ch. 550, § 2, 43 Stat. 1302.)
+(Mar. 4, 1925, ch. 550, § 2, 43 Stat. 1302.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 233 of this title, referred to in text, was repealed by act June 22, 1948, ch. 605, § 3, 62 Stat. 576.
+Section 233 of this title, referred to in text, was repealed by act June 22, 1948, ch. 605, § 3, 62 Stat. 576.
 
 **Codification**
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### §§ 234 to 236. Repealed. June 22, 1948, ch. 605, § 3, 62 Stat. 576
+### §§ 234 to 236. Repealed. June 22, 1948, ch. 605, § 3, 62 Stat. 576
 
-Section 234, act Mar. 4, 1923, ch. 249, § 5, 42 Stat. 1449, provided for application of other laws to leases and permits granted under sections 230 to 233 and 234 to 236 of this title, and for disposition of lands and deposits remaining unappropriated and undisposed of.
+Section 234, act Mar. 4, 1923, ch. 249, § 5, 42 Stat. 1449, provided for application of other laws to leases and permits granted under sections 230 to 233 and 234 to 236 of this title, and for disposition of lands and deposits remaining unappropriated and undisposed of.
 
-Section 235, act Mar. 4, 1923, ch. 249, § 6, 42 Stat. 1449, prohibited interference with certain lands in possession of receivers appointed by the Supreme Court.
+Section 235, act Mar. 4, 1923, ch. 249, § 6, 42 Stat. 1449, prohibited interference with certain lands in possession of receivers appointed by the Supreme Court.
 
-Section 236, act Mar. 4, 1923, ch. 249, § 7, 42 Stat. 1450, authorized promulgation of rules and regulations necessary to accomplish purposes of sections 230 to 233 and 234 to 236 of this title.
+Section 236, act Mar. 4, 1923, ch. 249, § 7, 42 Stat. 1450, authorized promulgation of rules and regulations necessary to accomplish purposes of sections 230 to 233 and 234 to 236 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Savings Provision**
 
-Act June 22, 1948, ch. 605, § 3, 62 Stat. 576, provided that the repeal of these sections is subject to existing valid rights.
+Act June 22, 1948, ch. 605, § 3, 62 Stat. 576, provided that the repeal of these sections is subject to existing valid rights.
 
-### § 236a. Lands in naval petroleum reserves and naval oil-shale reserves; effect of other laws
+### § 236a. Lands in naval petroleum reserves and naval oil-shale reserves; effect of other laws
 
 Nothing in sections 185, 221,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 223, 223a,1 and 226 of this title and this section shall be construed as affecting any lands within the borders of the naval petroleum reserves and naval oil-shale reserves or agreements concerning operations thereunder or in relation to the same, but the Secretary of the Navy is hereby authorized, with the consent of the President, to enter into agreements such as those provided for under sections 184 and 226 of this title, which agreement shall not, unless expressed therein, operate to extend the terms of any lease affected thereby.
 
-(Aug. 21, 1935, ch. 599, § 3, 49 Stat. 679.)
+(Aug. 21, 1935, ch. 599, § 3, 49 Stat. 679.)
 
 **Editorial Notes**
 
@@ -2795,17 +2795,17 @@ Nothing in sections 185, 221,1
 
 Section 221 of this title, referred to in text, was omitted from the Code.
 
-Section 223a of this title, referred to in text, was repealed by act Aug. 8, 1946, ch. 916, § 14, 60 Stat. 958.
+Section 223a of this title, referred to in text, was repealed by act Aug. 8, 1946, ch. 916, § 14, 60 Stat. 958.
 
 **Codification**
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 236b. Existing leases within naval petroleum reserves not affected
+### § 236b. Existing leases within naval petroleum reserves not affected
 
 Nothing in this act shall be construed as affecting existing leases within the borders of the naval petroleum reserves, or agreements concerning operations thereunder or in relation thereto.
 
-(Aug. 8, 1946, ch. 916, § 13, 60 Stat. 958; Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 675.)
+(Aug. 8, 1946, ch. 916, § 13, 60 Stat. 958; Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 675.)
 
 **Editorial Notes**
 
@@ -2821,17 +2821,17 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 1956—Act Aug. 10, 1956, repealed the portion of this section after “thereto” which authorized the Secretary of the Navy, with the consent of the President, to enter into agreements such as those provided for in section 236e of this title, which agreements, should not, unless expressed therein, operate to extend the term of any lease affected thereby.
 
-### § 237. Omitted
+### § 237. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 95–372, title VI, § 602, Sept. 18, 1978, 92 Stat. 694, which required the Secretary of the Interior to submit annual reports to Congress on delinquent royalty accounts under leases issued under any Act regulating development of oil and gas on Federal lands, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 111 of House Document No. 103–7.
+Section, Pub. L. 95–372, title VI, § 602, Sept. 18, 1978, 92 Stat. 694, which required the Secretary of the Interior to submit annual reports to Congress on delinquent royalty accounts under leases issued under any Act regulating development of oil and gas on Federal lands, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 111 of House Document No. 103–7.
 
 ## SUBCHAPTER V—OIL SHALE
 
-### § 241. Leases of lands
+### § 241. Leases of lands
 
 **(a) In general**
 
@@ -2849,7 +2849,7 @@ Section, Pub. L. 95–372, title VI, § 602, Sept. 18, 1978, 92 Stat. 694, whi
 
 If an offer for a lease under the provisions of this section for deposits other than oil shale is based upon a mineral location, the validity of which might be questioned because the claim was based on a placer location rather than on a lode location, or vice versa, the offeror shall have a preference right to a lease if the offer is filed not more than one year after September 2, 1960.
 
-**(c) 1 [footnote: 1 Two subsecs. (c) have been enacted.] Multiple use principal leases; gilsonite including all vein-type solid hydrocarbons**
+**(c) 1 [footnote: 1 Two subsecs. (c) have been enacted.] Multiple use principal leases; gilsonite including all vein-type solid hydrocarbons**
 
 With respect to gilsonite (including all vein-type solid hydrocarbons) a lease under the multiple use principle may issue notwithstanding the existence of an outstanding lease issued under any other provision of this chapter.
 
@@ -2877,15 +2877,15 @@ With respect to gilsonite (including all vein-type solid hydrocarbons) a lease u
 
 **(1)** In determining whether to offer or issue an offsite lease under subsection (c), the Secretary shall consult with the Governor and appropriate State, local, and tribal officials of the State where the lands to be leased are located, and of any additional State likely to be affected significantly by the social, economic, or environmental effects of development under such lease, in order to coordinate Federal and State planning processes, minimize duplication of permits, avoid delays, and anticipate and mitigate likely impacts of development.
 
-**(2)** The Secretary may issue an offsite lease under subsection (d) 2
+**(2)** The Secretary may issue an offsite lease under subsection (d) 2
 
-<sup>2</sup>  So in original. Probably should be subsection “(c)”.
+<sup>2</sup> So in original. Probably should be subsection “(c)”.
 
 after consideration of (A) the need for leasing, (B) impacts on the environment and other resource values, (C) socioeconomic factors, and (D) information from consultations with the Governors of the affected States.
 
 **(3)** Before determining whether to offer an offsite lease under subsection (c), the Secretary shall seek the recommendation of the Governor of the State in which the lands to be leased are located as to whether or not to lease such lands, what alternative actions are available, and what special conditions could be added to the proposed lease to mitigate impacts. The Secretary shall accept the recommendations of the Governor if he determines that they provide for a reasonable balance between the national interest and the State’s interests. The Secretary shall communicate to the Governor, in writing, and publish in the Federal Register the reasons for his determination to accept or reject such Governor’s recommendations.
 
-(Feb. 25, 1920, ch. 85, § 21, 41 Stat. 445; Pub. L. 86–705, § 7, Sept. 2, 1960, 74 Stat. 790; Pub. L. 97–78, § 1(1), Nov. 16, 1981, 95 Stat. 1070; Pub. L. 97–394, title III, § 318, Dec. 30, 1982, 96 Stat. 1999; Pub. L. 109–58, title III, § 369(j)(2), Aug. 8, 2005, 119 Stat. 731.)
+(Feb. 25, 1920, ch. 85, § 21, 41 Stat. 445; Pub. L. 86–705, § 7, Sept. 2, 1960, 74 Stat. 790; Pub. L. 97–78, § 1(1), Nov. 16, 1981, 95 Stat. 1070; Pub. L. 97–394, title III, § 318, Dec. 30, 1982, 96 Stat. 1999; Pub. L. 109–58, title III, § 369(j)(2), Aug. 8, 2005, 119 Stat. 731.)
 
 **Editorial Notes**
 
@@ -2905,9 +2905,9 @@ Subsec. (c). Pub. L. 97–78 substituted “gilsonite (including all vein-type s
 
 **Transfer of Functions**
 
-Functions of Secretary of the Interior to promulgate regulations under this chapter relating to establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior to promulgate regulations under this chapter relating to establishment of diligence requirements for operations conducted on Federal leases, setting of rates for production of Federal leases, and specifying of procedures, terms, and conditions for acquisition and disposition of Federal royalty interests taken in kind, transferred to Secretary of Energy by section 7152(b) of Title 42, The Public Health and Welfare. Section 7152(b) of Title 42 was repealed by Pub. L. 97–100, title II, § 201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 
-### § 242. Oil shale claims
+### § 242. Oil shale claims
 
 **(a) Notice**
 
@@ -2959,7 +2959,7 @@ Without comment on the adequacy of current or former standards for determining v
 
 Notwithstanding any other provision of law, with respect to any oil shale mining claim located under the general mining laws of the United States, no patent for such claim shall be issued except as provided by this section.
 
-(Pub. L. 102–486, title XXV, § 2511, Oct. 24, 1992, 106 Stat. 3109.)
+(Pub. L. 102–486, title XXV, § 2511, Oct. 24, 1992, 106 Stat. 3109.)
 
 **Editorial Notes**
 
@@ -2973,7 +2973,7 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 
 ## SUBCHAPTER VI—ALASKA OIL PROVISO
 
-### § 251. Leases to claimants of withdrawn lands; terms and conditions; acreage; annual rentals and royalties; fraud of claimants
+### § 251. Leases to claimants of withdrawn lands; terms and conditions; acreage; annual rentals and royalties; fraud of claimants
 
 Any bona fide occupant or claimant of oil or gas bearing lands in the Territory of Alaska, who, or whose predecessors in interest, prior to withdrawal had complied otherwise with the requirements of the mining laws, but had made no discovery of oil or gas in wells and who prior to withdrawal had made substantial improvements for the discovery of oil or gas on or for each location or had prior to February 25, 1920 expended not less than $250 in improvements on or for each location shall be entitled, upon relinquishment or surrender to the United States within one year from February 25, 1920, or within six months after final denial or withdrawal of application for patent, to a lease or leases, under this chapter covering such lands, not exceeding five leases in number and not exceeding an aggregate of one thousand two hundred and eighty acres in each: *Provided*, That the annual lease rentals for lands in the Territory of Alaska not within any known geological structure of a producing oil or gas field and the royalty payments from production of oil or gas sold or removed from such lands shall be identical with those prescribed for such leases covering similar lands in the States of the United States, except that leases which may issue pursuant to applications or offers to lease such lands, which applications or offers were filed prior to and were pending on May 3, 1958, shall require the payment of 25 cents per acre as lease rental for the first year of such leases; but the aforesaid exception shall not apply in any way to royalties to be required under leases which may issue pursuant to offers or applications filed prior to May 3, 1958.
 
@@ -2981,7 +2981,7 @@ The Secretary of the Interior shall neither prescribe nor approve any cooperativ
 
 No claimant for a lease who has been guilty of any fraud or who had knowledge or reasonable grounds to know of any fraud, or who has not acted honestly and in good faith, shall be entitled to any of the benefits of this section.
 
-(Feb. 25, 1920, ch. 85, § 22, 41 Stat. 446; Pub. L. 85–505, § 10, July 3, 1958, 72 Stat. 324.)
+(Feb. 25, 1920, ch. 85, § 22, 41 Stat. 446; Pub. L. 85–505, § 10, July 3, 1958, 72 Stat. 324.)
 
 **Editorial Notes**
 
@@ -2997,11 +2997,11 @@ Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of
 
 ## SUBCHAPTER VII—SODIUM
 
-### § 261. Prospecting permits; lands included; acreage
+### § 261. Prospecting permits; lands included; acreage
 
 The Secretary of the Interior is hereby authorized, under such rules and regulations as he may prescribe, to grant to any qualified applicant a prospecting permit which shall give the exclusive right to prospect for chlorides, sulphates, carbonates, borates, silicates, or nitrates of sodium, in lands belonging to the United States for a period of not exceeding two years: *Provided*, That the area to be included in such a permit shall not exceed two thousand five hundred and sixty acres of land in reasonably compact form.
 
-(Feb. 25, 1920, ch. 85, § 23, 41 Stat. 447; Dec. 11, 1928, ch. 19, 45 Stat. 1019.)
+(Feb. 25, 1920, ch. 85, § 23, 41 Stat. 447; Dec. 11, 1928, ch. 19, 45 Stat. 1019.)
 
 **Editorial Notes**
 
@@ -3009,19 +3009,19 @@ The Secretary of the Interior is hereby authorized, under such rules and regulat
 
 1928—Act Dec. 11, 1928, struck out “and directed” after “authorized”, “dissolved in and soluble in water, and accumulated by concentration, in lands belonging to the United States for a period not exceeding two years,” after “nitrates of sodium”, and last proviso which read “*Provided further*, That the provisions of this section shall not apply to lands in San Bernardino County, California.”
 
-### § 262. Leases to permittees; survey of lands; royalties and annual rentals
+### § 262. Leases to permittees; survey of lands; royalties and annual rentals
 
-Upon showing to the satisfaction of the Secretary of the Interior that valuable deposits of one of the substances enumerated in section 261 of this title have been discovered by the permittee within the area covered by his permit and that such land is chiefly valuable therefor, the permittee shall be entitled to a lease for any or all of the land embraced in the prospecting permit at a royalty of not less than 2 per centum of the quantity or gross value of the output of sodium compounds and other related products at the point of shipment to market; the lands in such lease to be taken in compact form by legal subdivisions of the public land surveys or, if the land be not surveyed, by survey executed at the cost of the permittee in accordance with regulations prescribed by the Secretary of the Interior. Lands known to contain valuable deposits of one of the substances enumerated in section 261 of this title and not covered by permits or leases shall be subject to lease by the Secretary of the Interior through advertisement, competitive bidding, or such other methods as he may by general regulations adopt and in such areas as he shall fix, not exceeding two thousand five hundred and sixty acres. All leases under this section shall be conditioned upon the payment by the lessee of such royalty as may be fixed in the lease, not less than 2 per centum of the quantity or gross value of the output of sodium compounds and other related products at the point of shipment to market, and the payment in advance of a rental of 25 cents per acre for the first calendar year or fraction thereof, 50 cents per acre for the second, third, fourth, and fifth calendar years respectively; and $1 per acre per annum thereafter during the continuance of the lease, such rental for any one year to be credited against royalties accruing for that year. Leases under this section shall be for a period of twenty years, with preferential right in the lessee to renew for successive periods of ten years upon such reasonable terms and conditions as may be prescribed by the Secretary of the Interior unless otherwise provided by law at the expiration of such period: *Provided*, That nothing in this chapter shall prohibit the mining and sale of sodium compounds under potassium leases issued pursuant to subchapter VII [§ 141 et seq.] of chapter 3 of this title and subchapter IX of this chapter, nor the mining and sale of potassium compounds as a byproduct from sodium leases taken under this section: *Provided further*, That on application by any lessee the Secretary of the Interior is authorized to modify the rental and royalty provisions stipulated in any existing sodium lease to conform to the provisions of this section.
+Upon showing to the satisfaction of the Secretary of the Interior that valuable deposits of one of the substances enumerated in section 261 of this title have been discovered by the permittee within the area covered by his permit and that such land is chiefly valuable therefor, the permittee shall be entitled to a lease for any or all of the land embraced in the prospecting permit at a royalty of not less than 2 per centum of the quantity or gross value of the output of sodium compounds and other related products at the point of shipment to market; the lands in such lease to be taken in compact form by legal subdivisions of the public land surveys or, if the land be not surveyed, by survey executed at the cost of the permittee in accordance with regulations prescribed by the Secretary of the Interior. Lands known to contain valuable deposits of one of the substances enumerated in section 261 of this title and not covered by permits or leases shall be subject to lease by the Secretary of the Interior through advertisement, competitive bidding, or such other methods as he may by general regulations adopt and in such areas as he shall fix, not exceeding two thousand five hundred and sixty acres. All leases under this section shall be conditioned upon the payment by the lessee of such royalty as may be fixed in the lease, not less than 2 per centum of the quantity or gross value of the output of sodium compounds and other related products at the point of shipment to market, and the payment in advance of a rental of 25 cents per acre for the first calendar year or fraction thereof, 50 cents per acre for the second, third, fourth, and fifth calendar years respectively; and $1 per acre per annum thereafter during the continuance of the lease, such rental for any one year to be credited against royalties accruing for that year. Leases under this section shall be for a period of twenty years, with preferential right in the lessee to renew for successive periods of ten years upon such reasonable terms and conditions as may be prescribed by the Secretary of the Interior unless otherwise provided by law at the expiration of such period: *Provided*, That nothing in this chapter shall prohibit the mining and sale of sodium compounds under potassium leases issued pursuant to subchapter VII [§ 141 et seq.] of chapter 3 of this title and subchapter IX of this chapter, nor the mining and sale of potassium compounds as a byproduct from sodium leases taken under this section: *Provided further*, That on application by any lessee the Secretary of the Interior is authorized to modify the rental and royalty provisions stipulated in any existing sodium lease to conform to the provisions of this section.
 
-(Feb. 25, 1920, ch. 85, § 24, 41 Stat. 447; Dec. 11, 1928, ch. 19, 45 Stat. 1019.)
+(Feb. 25, 1920, ch. 85, § 24, 41 Stat. 447; Dec. 11, 1928, ch. 19, 45 Stat. 1019.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter VII [§ 141 et seq.] of chapter 3 of this title, referred to in text, was repealed by act Feb. 7, 1927, ch. 66, § 6, 44 Stat. 1058.
+Subchapter VII [§ 141 et seq.] of chapter 3 of this title, referred to in text, was repealed by act Feb. 7, 1927, ch. 66, § 6, 44 Stat. 1058.
 
-Subchapter IX of this chapter, referred to in text, was in the original “act February 7, 1927 (Forty-fourth Statutes at Large, page 1057)” meaning act Feb. 7, 1927, ch. 66, 44 Stat. 1057, which enacted subchapter IX (§ 281 et seq.) of this chapter, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
+Subchapter IX of this chapter, referred to in text, was in the original “act February 7, 1927 (Forty-fourth Statutes at Large, page 1057)” meaning act Feb. 7, 1927, ch. 66, 44 Stat. 1057, which enacted subchapter IX (§ 281 et seq.) of this chapter, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
@@ -3031,7 +3031,7 @@ Subchapter IX of this chapter, referred to in text, was in the original “act F
 
 **Soda Ash Royalties**
 
-Pub. L. 113–40, § 10(e), Oct. 2, 2013, 127 Stat. 546, provided that: “Notwithstanding section 24 of the Mineral Leasing Act (30 U.S.C. 262) and the terms of any lease under that Act [30 U.S.C. 181 et seq.], the royalty rate on the quantity of gross value of the output of sodium compounds and related products at the point of shipment to market from Federal land in the 2-year period beginning on the date of enactment of this Act [Oct. 2, 2013] shall be 4 percent.”
+Pub. L. 113–40, § 10(e), Oct. 2, 2013, 127 Stat. 546, provided that: “Notwithstanding section 24 of the Mineral Leasing Act (30 U.S.C. 262) and the terms of any lease under that Act [30 U.S.C. 181 et seq.], the royalty rate on the quantity of gross value of the output of sodium compounds and related products at the point of shipment to market from Federal land in the 2-year period beginning on the date of enactment of this Act [Oct. 2, 2013] shall be 4 percent.”
 
 **Soda Ash Royalty Reduction**
 
@@ -3057,19 +3057,19 @@ Pub. L. 109–338, title I, Oct. 12, 2006, 120 Stat. 1786, provided that:
 
 > **“(4)** a recommendation of whether the reduced royalty rate should apply after the end of the 5-year period beginning on the date of enactment of this Act.”
 
-### § 263. Permits to use or lease of nonmineral lands for camp sites, and other purposes; annual rentals; acreage
+### § 263. Permits to use or lease of nonmineral lands for camp sites, and other purposes; annual rentals; acreage
 
 In addition to areas of such mineral land which may be included in any such prospecting permits or leases, the Secretary of the Interior, in his discretion, may grant to a permittee or lessee of lands containing sodium deposits, and subject to the payment of an annual rental of not less than 25 cents per acre, the exclusive right to use, during the life of the permit or lease, a tract of unoccupied nonmineral public land, not exceeding forty acres in area, for camp sites, refining works, and other purposes connected with and necessary to the proper development and use of the deposits covered by the permit or lease.
 
-(Feb. 25, 1920, ch. 85, § 25, 41 Stat. 447.)
+(Feb. 25, 1920, ch. 85, § 25, 41 Stat. 447.)
 
 ## SUBCHAPTER VIII—SULPHUR
 
-### § 271. Prospecting permits; lands included; acreage
+### § 271. Prospecting permits; lands included; acreage
 
 The Secretary of the Interior is hereby authorized and directed, under such rules and regulations as he may prescribe, to grant to any qualified applicant a prospecting permit which shall give the exclusive right to prospect for sulphur in lands belonging to the United States located in the States of Louisiana and New Mexico for a period of not exceeding two years: *Provided*, That the area to be included in such a permit shall be not exceeding six hundred and forty acres of land in reasonably compact form.
 
-(Apr. 17, 1926, ch. 158, § 1, 44 Stat. 301; July 16, 1932, ch. 498, 47 Stat. 701.)
+(Apr. 17, 1926, ch. 158, § 1, 44 Stat. 301; July 16, 1932, ch. 498, 47 Stat. 701.)
 
 **Editorial Notes**
 
@@ -3081,11 +3081,11 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 1932—Act July 16, 1932, substituted “States of Louisiana and New Mexico” for “State of Louisiana”.
 
-### § 272. Leases to permittees; privileges extended to oil and gas permittees
+### § 272. Leases to permittees; privileges extended to oil and gas permittees
 
 Upon showing to the satisfaction of the Secretary of the Interior that valuable deposits of sulphur have been discovered by the permittee within the area covered by his permit, and that the land is chiefly valuable therefor, the permittee shall be entitled to a lease for any or all of the land embraced in the prospecting permit, at a royalty of 5 per centum of the quantity or gross value of the output of sulphur at the point of shipment to market, such lease to be taken in compact form by legal subdivisions of the public-land surveys; or if the land be not surveyed, by survey executed at the cost of the permittee in accordance with regulations prescribed by the Secretary of the Interior: *Provided*, That where any person having been granted an oil and gas permit makes a discovery of sulphur in lands covered by said permit, he shall have the same privilege of leasing not to exceed six hundred and forty acres of said land under the same terms and conditions as are given a sulphur permittee under the provisions of this section.
 
-(Apr. 17, 1926, ch. 158, § 2, 44 Stat. 301.)
+(Apr. 17, 1926, ch. 158, § 2, 44 Stat. 301.)
 
 **Editorial Notes**
 
@@ -3093,11 +3093,11 @@ Upon showing to the satisfaction of the Secretary of the Interior that valuable 
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 273. Lease of lands not covered by permits or leases; acreage; rental
+### § 273. Lease of lands not covered by permits or leases; acreage; rental
 
 Lands known to contain valuable deposits of sulphur and not covered by permits or leases shall be held subject to lease by the Secretary of the Interior through advertisement, competitive bidding, or such other methods as he may by general regulations adopt and in such areas as he shall fix, not exceeding six hundred and forty acres; all leases to be conditioned upon the payment by the lessee of such royalty as may be fixed in the lease and the payment in advance of a rental of 50 cents per acre per annum, the rental paid for any one year to be credited against the royalties accruing for that year.
 
-(Apr. 17, 1926, ch. 158, § 3, 44 Stat. 301.)
+(Apr. 17, 1926, ch. 158, § 3, 44 Stat. 301.)
 
 **Editorial Notes**
 
@@ -3105,11 +3105,11 @@ Lands known to contain valuable deposits of sulphur and not covered by permits o
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 274. Lands containing coal or other minerals
+### § 274. Lands containing coal or other minerals
 
 Prospecting permits or leases may be issued in the discretion of the Secretary of the Interior under the provisions of this subchapter for deposits of sulphur in public lands also containing coal or other minerals on condition that such other deposits be reserved to the United States for disposal under applicable laws.
 
-(Apr. 17, 1926, ch. 158, § 4, 44 Stat. 302.)
+(Apr. 17, 1926, ch. 158, § 4, 44 Stat. 302.)
 
 **Editorial Notes**
 
@@ -3117,31 +3117,31 @@ Prospecting permits or leases may be issued in the discretion of the Secretary o
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 275. Laws applicable
+### § 275. Laws applicable
 
-The general provisions of sections 181 to 184, 185 to 188, 189 to 192, 193, and 194 1
+The general provisions of sections 181 to 184, 185 to 188, 189 to 192, 193, and 194 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, are made applicable to permits and leases under this subchapter, sections 181 and 193 of this title being amended to include deposits of sulphur, and section 184 of this title being amended so as to prohibit any person, association, or corporation from taking or holding more than three sulphur permits or leases in any one State during the life of such permits or leases.
 
-(Apr. 17, 1926, ch. 158, § 5, 44 Stat. 302.)
+(Apr. 17, 1926, ch. 158, § 5, 44 Stat. 302.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 194 of this title, referred to in text, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644.
+Section 194 of this title, referred to in text, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644.
 
 **Codification**
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 276. Application of subchapter to Louisiana and New Mexico only
+### § 276. Application of subchapter to Louisiana and New Mexico only
 
 The provisions of this subchapter shall apply only to the States of Louisiana and New Mexico.
 
-(Apr. 17, 1926, ch. 158, § 6, 44 Stat. 302; July 16, 1932, ch. 498, 47 Stat. 701.)
+(Apr. 17, 1926, ch. 158, § 6, 44 Stat. 302; July 16, 1932, ch. 498, 47 Stat. 701.)
 
 **Editorial Notes**
 
@@ -3155,27 +3155,27 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 ## SUBCHAPTER IX—POTASH
 
-### § 281. Prospecting permits for chlorides, sulphates, carbonates, borates, silicates, or nitrates of potassium; authorization; acreage; lands affected
+### § 281. Prospecting permits for chlorides, sulphates, carbonates, borates, silicates, or nitrates of potassium; authorization; acreage; lands affected
 
 The Secretary of the Interior is hereby authorized, under such rules and regulations as he may prescribe, to grant to any qualified applicant a prospecting permit which shall give the exclusive right to prospect for chlorides, sulphates, carbonates, borates, silicates, or nitrates of potassium in lands belonging to the United States for a period of not exceeding two years: *Provided*, That the area to be included in such a permit shall not exceed two thousand five hundred and sixty acres of land in reasonably compact form: *Provided further*, That the prospecting provisions of this subchapter shall not apply to lands and deposits in or adjacent to Searles Lake, California, which lands may be leased by the Secretary of the Interior under the terms and provisions of this subchapter.
 
-(Feb. 7, 1927, ch. 66, § 1, 44 Stat. 1057.)
+(Feb. 7, 1927, ch. 66, § 1, 44 Stat. 1057.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this Act”, meaning act Feb. 7, 1927, ch. 66, 44 Stat. 1057, which enacted this subchapter, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning act Feb. 7, 1927, ch. 66, 44 Stat. 1057, which enacted this subchapter, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
 
 **Codification**
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 282. Leases to permittees of lands showing valuable deposits; royalty
+### § 282. Leases to permittees of lands showing valuable deposits; royalty
 
 Upon showing to the satisfaction of the Secretary of the Interior that valuable deposits of one of the substances enumerated in this subchapter has been discovered by the permittee within the area covered by his permit, and that such land is chiefly valuable therefor, the permittee shall be entitled to a lease for any or all of the land embraced in the prospecting permit, at a royalty of not less than 2 per centum of the quantity or gross value of the output of potassium compounds and other related products, except sodium, at the point of shipment to market, such lease to be taken in compact form by legal subdivisions of the public land surveys, or if the land be not surveyed, by survey executed at the cost of the permittee in accordance with regulations prescribed by the Secretary of the Interior.
 
-(Feb. 7, 1927, ch. 66, § 2, 44 Stat. 1057.)
+(Feb. 7, 1927, ch. 66, § 2, 44 Stat. 1057.)
 
 **Editorial Notes**
 
@@ -3183,11 +3183,11 @@ Upon showing to the satisfaction of the Secretary of the Interior that valuable 
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 283. Lands containing valuable deposits not covered by permits or leases; authority to lease; acreage; conditions; renewals; exemptions from rentals and royalties; suspension of operations
+### § 283. Lands containing valuable deposits not covered by permits or leases; authority to lease; acreage; conditions; renewals; exemptions from rentals and royalties; suspension of operations
 
 Lands known to contain valuable deposits enumerated in this subchapter and not covered by permits or leases shall be held subject to lease by the Secretary of the Interior through advertisement, competitive bidding, or such other methods as he may by general regulations adopt, and in such areas as he shall fix, not exceeding two thousand five hundred and sixty acres; all leases to be conditioned upon the payment by the lessee of such royalty as may be fixed in the lease, not less than 2 per centum of the quantity or gross value of the output of potassium compounds and other related products, except sodium, at the point of shipment to market, and the payment in advance of a rental of 25 cents per acre for the first calendar year or fraction thereof; 50 cents per acre for the second, third, fourth, and fifth years, respectively; and $1 per acre per annum thereafter during the continuance of the lease, such rental for any year being credited against royalties accruing for that year. Any lease issued under this subchapter shall be for a term of twenty years and so long thereafter as the lessee complies with the terms and conditions of the lease and upon the further condition that at the end of each twenty-year period succeeding the date of the lease such reasonable adjustment of the terms and conditions thereof may be made therein as may be prescribed by the Secretary of the Interior unless otherwise provided by law at the expiration of such periods. Leases shall be conditioned upon a minimum annual production or the payment of a minimum royalty in lieu thereof, except when production is interrupted by strikes, the elements, or casualties not attributable to the lessee. The Secretary of the Interior may permit suspension of operations under any such leases when marketing conditions are such that the leases cannot be operated except at a loss. The Secretary upon application by the lessee prior to the expiration of any existing lease in good standing shall amend such lease to provide for the same tenure and to contain the same conditions, including adjustment at the end of each twenty-year period succeeding the date of said lease, as provided for in this subchapter. In the discretion of the Secretary of the Interior the area involved in any lease resulting from a prospecting permit may be exempt from any rental in excess of 25 cents per acre for twenty years succeeding its issue, and the production of potassium compounds under such a lease may be exempt from any royalty in excess of the minimum prescribed in this subchapter for the same period.
 
-(Feb. 7, 1927, ch. 66, § 3, 44 Stat. 1057; June 3, 1948, ch. 379, § 9, 62 Stat. 292.)
+(Feb. 7, 1927, ch. 66, § 3, 44 Stat. 1057; June 3, 1948, ch. 379, § 9, 62 Stat. 292.)
 
 **Editorial Notes**
 
@@ -3199,37 +3199,37 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 1948—Act June 3, 1948, increased renewal term from ten to twenty years, provided for reasonable adjustment of terms, provided minimum conditions, and permitted suspension of operations under certain conditions.
 
-### § 284. Lands containing coal or other minerals in addition to potassium deposits; issuance of prospecting permits and leases; covenants in potassium leases
+### § 284. Lands containing coal or other minerals in addition to potassium deposits; issuance of prospecting permits and leases; covenants in potassium leases
 
 Prospecting permits or leases may be issued under the provisions of this subchapter for deposits of potassium in public lands, also containing deposits of coal or other minerals, on condition that such other deposits be reserved to the United States for disposal under appropriate laws: *Provided*, That if the interests of the Government and of the lessee will be subserved thereby, potassium leases may include covenants providing for the development by the lessee of chlorides, sulphates, carbonates, borates, silicates, or nitrates of sodium, magnesium, aluminum, or calcium, associated with the potassium deposits leased, on terms and conditions not inconsistent with the sodium provisions of subchapter VII of this chapter: *Provided further*, That where valuable deposits of mineral now subject to disposition under the general mining laws are found in fissure veins on any of the lands subject to permit or lease under this subchapter, the valuable minerals so found shall continue subject to disposition under the said general mining laws notwithstanding the presence of potash therein.
 
-(Feb. 7, 1927, ch. 66, § 4, 44 Stat. 1058.)
+(Feb. 7, 1927, ch. 66, § 4, 44 Stat. 1058.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The sodium provisions of subchapter VII of this chapter, referred to in text, was in the original “the sodium provisions of the Act of February 25, 1920 (Forty-first Statutes at Large, page 437)”, which means sections 23 to 25 of act Feb. 25, 1920, ch. 85, 41 Stat. 447, which are classified to subchapter VII (§ 261 et seq.) of this chapter.
+The sodium provisions of subchapter VII of this chapter, referred to in text, was in the original “the sodium provisions of the Act of February 25, 1920 (Forty-first Statutes at Large, page 437)”, which means sections 23 to 25 of act Feb. 25, 1920, ch. 85, 41 Stat. 447, which are classified to subchapter VII (§ 261 et seq.) of this chapter.
 
 **Codification**
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 285. Laws applicable
+### § 285. Laws applicable
 
-The general provisions of sections 182 to 184, 185 to 188, 189 to 192, 193, and 194 1
+The general provisions of sections 182 to 184, 185 to 188, 189 to 192, 193, and 194 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, are made applicable to permits and leases under this subchapter.
 
-(Feb. 7, 1927, ch. 66, § 5, 44 Stat. 1058; Aug. 8, 1946, ch. 916, § 11, 60 Stat. 957.)
+(Feb. 7, 1927, ch. 66, § 5, 44 Stat. 1058; Aug. 8, 1946, ch. 916, § 11, 60 Stat. 957.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 194 of this title, referred to in text, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644.
+Section 194 of this title, referred to in text, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 644.
 
 **Codification**
 
@@ -3247,17 +3247,17 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 See note set out under section 181 of this title.
 
-### § 286. Disposition of royalties and rents from potassium leases
+### § 286. Disposition of royalties and rents from potassium leases
 
 All money received from royalties and rentals from any lease issued or renewed under the provisions of subchapter VII of chapter 3 of this title, shall be paid into, reserved, and appropriated as follows: 52½ per centum to the Reclamation Fund, 10 per centum to the Treasury of the United States as miscellaneous receipts, and 37½ per centum shall be paid by the Secretary of the Treasury, after the expiration of each fiscal year, to the State within the boundaries of which the leased lands or deposits are or were located, such money to be used by such State or subdivision thereof for the construction and maintenance of public roads or for the support of schools or other public educational institutions, as the legislature of the State may direct.
 
-(Feb. 7, 1927, ch. 66, § 6, 44 Stat. 1058; June 1, 1948, ch. 356, 62 Stat. 279.)
+(Feb. 7, 1927, ch. 66, § 6, 44 Stat. 1058; June 1, 1948, ch. 356, 62 Stat. 279.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter VII of chapter 3, referred to in text, was in the original “the Act entitled ‘An Act to authorize exploration for and disposition of potassium’ approved October 2, 1917”, meaning act Oct. 2, 1917, ch. 62, 40 Stat. 297, which was classified to subchapter VII (§ 141 et seq.) of chapter 3 of this title and which was repealed by act Feb. 7, 1927, ch. 66, § 6, 44 Stat. 1058.
+Subchapter VII of chapter 3, referred to in text, was in the original “the Act entitled ‘An Act to authorize exploration for and disposition of potassium’ approved October 2, 1917”, meaning act Oct. 2, 1917, ch. 62, 40 Stat. 297, which was classified to subchapter VII (§ 141 et seq.) of chapter 3 of this title and which was repealed by act Feb. 7, 1927, ch. 66, § 6, 44 Stat. 1058.
 
 **Codification**
 
@@ -3265,11 +3265,11 @@ Section is composed of the second sentence of section 6 of act Feb. 7, 1927, as 
 
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 
-### § 287. Extension of prospecting permits
+### § 287. Extension of prospecting permits
 
 Any prospecting permit issued under this subchapter may be extended by the Secretary of the Interior for a period not exceeding two years, upon a showing of satisfactory cause.
 
-(Feb. 7, 1927, ch. 66, § 7, as added May 7, 1932, ch. 174, 47 Stat. 151.)
+(Feb. 7, 1927, ch. 66, § 7, as added May 7, 1932, ch. 174, 47 Stat. 151.)
 
 **Editorial Notes**
 

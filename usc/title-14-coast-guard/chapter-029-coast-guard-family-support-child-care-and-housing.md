@@ -19,15 +19,15 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior analysis for chapter 29 “REPORTS” consisted of items 2901 “Transmission of annual Coast Guard authorization request”, 2902 “Capital investment plan”, 2903 “Major acquisitions”, 2904 “Manpower requirements plan”, 2905 “Annual performance report”, and 2906 “Major acquisition program risk assessment”, prior to repeal by Pub. L. 115–282, title I, § 117(a), Dec. 4, 2018, 132 Stat. 4229.
+A prior analysis for chapter 29 “REPORTS” consisted of items 2901 “Transmission of annual Coast Guard authorization request”, 2902 “Capital investment plan”, 2903 “Major acquisitions”, 2904 “Manpower requirements plan”, 2905 “Annual performance report”, and 2906 “Major acquisition program risk assessment”, prior to repeal by Pub. L. 115–282, title I, § 117(a), Dec. 4, 2018, 132 Stat. 4229.
 
 **Amendments**
 
-2022—Pub. L. 117–263, div. K, title CXIV, § 11401(c)(1)(B), Dec. 23, 2022, 136 Stat. 4108, added item 2927.
+2022—Pub. L. 117–263, div. K, title CXIV, § 11401(c)(1)(B), Dec. 23, 2022, 136 Stat. 4108, added item 2927.
 
-2021—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8237(b)(2), Jan. 1, 2021, 134 Stat. 4665, which directed amendment of the analysis for this chapter by adding item 2926 “at the end”, was executed by adding the item after item 2925, which item was at the end of the items for subchapter II of this chapter, to reflect the probable intent of Congress.
+2021—Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8237(b)(2), Jan. 1, 2021, 134 Stat. 4665, which directed amendment of the analysis for this chapter by adding item 2926 “at the end”, was executed by adding the item after item 2925, which item was at the end of the items for subchapter II of this chapter, to reflect the probable intent of Congress.
 
-2018—Pub. L. 115–282, title I, § 117(a), Dec. 4, 2018, 132 Stat. 4230, inserted chapter 29 designation and heading and added items 2901 to 2947.
+2018—Pub. L. 115–282, title I, § 117(a), Dec. 4, 2018, 132 Stat. 4230, inserted chapter 29 designation and heading and added items 2901 to 2947.
 
 ## SUBCHAPTER I—COAST GUARD FAMILIES
 
@@ -35,9 +35,9 @@ A prior analysis for chapter 29 “REPORTS” consisted of items 2901 “Transmi
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 117(c)(1), Dec. 4, 2018, 132 Stat. 4231, inserted subchapter I designation and heading.
+2018—Pub. L. 115–282, title I, § 117(c)(1), Dec. 4, 2018, 132 Stat. 4231, inserted subchapter I designation and heading.
 
-### § 2901. Work-life policies and programs
+### § 2901. Work-life policies and programs
 
 The Commandant is authorized—
 
@@ -47,7 +47,7 @@ The Commandant is authorized—
 
 **(3)** to perform such other duties as the Commandant considers necessary.
 
-(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3029, § 531; renumbered § 2901, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3029, § 531; renumbered § 2901, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
 **Editorial Notes**
 
@@ -59,7 +59,7 @@ A prior section 2901 was renumbered section 5101 of this title.
 
 2018—Pub. L. 115–282 renumbered section 531 of this title as this section.
 
-### § 2902. Surveys of Coast Guard families
+### § 2902. Surveys of Coast Guard families
 
 **(a) Authority.—** The Commandant, in order to determine the effectiveness of Federal policies, programs, and activities related to the families of Coast Guard members, may survey—
 
@@ -75,7 +75,7 @@ A prior section 2901 was renumbered section 5101 of this title.
 
 **(c) Federal Recordkeeping.—** Each individual surveyed under subsection (a) shall be considered an employee of the United States for purposes of section 3502(3)(A)(i) of title 44.
 
-(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3029, § 532; renumbered § 2902, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(47), Jan. 1, 2021, 134 Stat. 4750.)
+(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3029, § 532; renumbered § 2902, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(47), Jan. 1, 2021, 134 Stat. 4750.)
 
 **Editorial Notes**
 
@@ -89,7 +89,7 @@ A prior section 2902 was renumbered section 5102 of this title.
 
 2018—Pub. L. 115–282 renumbered section 532 of this title as this section.
 
-### § 2903. Reimbursement for adoption expenses
+### § 2903. Reimbursement for adoption expenses
 
 **(a) Authorization To Reimburse.—** The Secretary shall carry out a program under which a member of the Coast Guard may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member in the adoption of a child under 18 years of age.
 
@@ -133,7 +133,7 @@ A prior section 2902 was renumbered section 5102 of this title.
 
 **(C)** Any other source authorized by a State to provide adoption placement if the adoption is supervised by a court under State or local law.
 
-(Added Pub. L. 102–190, div. A, title VI, § 651(b)(1), Dec. 5, 1991, 105 Stat. 1386, § 514; amended Pub. L. 102–484, div. A, title X, § 1054(g), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 104–201, div. A, title VI, § 652(b), Sept. 23, 1996, 110 Stat. 2582; renumbered § 541, Pub. L. 113–281, title II, § 214(b)(1)(A), Dec. 18, 2014, 128 Stat. 3033; renumbered § 2903, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(48), Jan. 1, 2021, 134 Stat. 4750.)
+(Added Pub. L. 102–190, div. A, title VI, § 651(b)(1), Dec. 5, 1991, 105 Stat. 1386, § 514; amended Pub. L. 102–484, div. A, title X, § 1054(g), Oct. 23, 1992, 106 Stat. 2503; Pub. L. 104–201, div. A, title VI, § 652(b), Sept. 23, 1996, 110 Stat. 2582; renumbered § 541, Pub. L. 113–281, title II, § 214(b)(1)(A), Dec. 18, 2014, 128 Stat. 3033; renumbered § 2903, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(48), Jan. 1, 2021, 134 Stat. 4750.)
 
 **Editorial Notes**
 
@@ -149,9 +149,9 @@ A prior section 2903 was renumbered section 5103 of this title.
 
 2014—Pub. L. 113–281 renumbered section 514 of this title as this section.
 
-1996—Subsec. (g)(1). Pub. L. 104–201, § 652(b)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
+1996—Subsec. (g)(1). Pub. L. 104–201, § 652(b)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
 
-Subsec. (g)(3). Pub. L. 104–201, § 652(b)(2), added par. (3).
+Subsec. (g)(3). Pub. L. 104–201, § 652(b)(2), added par. (3).
 
 1992—Subsec. (b). Pub. L. 102–484 inserted a close parenthesis before period at end.
 
@@ -165,7 +165,7 @@ Section effective Dec. 5, 1991, and applicable to adoptions completed on or afte
 
 For provisions relating to reimbursement for adoption expenses and time period for application, see section 652 of Pub. L. 102–484, set out as a note under section 1052 of Title 10, Armed Forces.
 
-### § 2904. Education and training opportunities for Coast Guard spouses
+### § 2904. Education and training opportunities for Coast Guard spouses
 
 **(a) Tuition Assistance.—** The Commandant may provide, subject to the availability of appropriations, tuition assistance to an eligible spouse to facilitate the acquisition of—
 
@@ -187,7 +187,7 @@ For provisions relating to reimbursement for adoption expenses and time period f
 
 **(2) Portable career.—** The term “portable career” includes an occupation that requires education, training, or both that results in a credential that is recognized by an industry, profession, or specific type of business.
 
-(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3030, § 542; renumbered § 2904, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(49), Jan. 1, 2021, 134 Stat. 4750.)
+(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3030, § 542; renumbered § 2904, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(49), Jan. 1, 2021, 134 Stat. 4750.)
 
 **Editorial Notes**
 
@@ -205,9 +205,9 @@ A prior section 2904 was renumbered section 5104 of this title.
 
 **Second Expansion of the My Career Advancement Account Program for Military Spouses**
 
-Pub. L. 116–92, div. A, title V, § 580G, Dec. 20, 2019, 133 Stat. 1410, provided that: “The spouse of a member of the Coast Guard may participate in the My Career Advancement Account program of the Department of Defense if the Coast Guard reimburses the Department of Defense.”
+Pub. L. 116–92, div. A, title V, § 580G, Dec. 20, 2019, 133 Stat. 1410, provided that: “The spouse of a member of the Coast Guard may participate in the My Career Advancement Account program of the Department of Defense if the Coast Guard reimburses the Department of Defense.”
 
-### § 2905. Youth sponsorship initiatives
+### § 2905. Youth sponsorship initiatives
 
 **(a) In General.—** The Commandant is authorized to establish, within any Coast Guard unit, an initiative to help integrate into new surroundings the dependent children of members of the Coast Guard who received permanent change of station orders.
 
@@ -223,7 +223,7 @@ Pub. L. 116–92, div. A, title V, § 580G, Dec. 20, 2019, 133 Stat. 1410, pro
 
 **(2)** enter into agreements with nonprofit entities to provide youth programs and activities to such child.
 
-(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3030, § 543; renumbered § 2905, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3030, § 543; renumbered § 2905, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
 **Editorial Notes**
 
@@ -235,13 +235,13 @@ A prior section 2905 was renumbered section 5106 of this title.
 
 2018—Pub. L. 115–282 renumbered section 543 of this title as this section.
 
-### § 2906. Dependent school children
+### § 2906. Dependent school children
 
 **(a)** The Secretary may provide, out of funds appropriated to or for the use of the Coast Guard, for the primary and secondary schooling of dependents of Coast Guard personnel stationed outside the continental United States at costs for any given area not in excess of those of the Department of Defense for the same area, when it is determined by the Secretary that the schools, if any, available in the locality are unable to provide adequately for the education of those dependents.
 
 **(b)** Whenever the Secretary, under such regulations as he may prescribe, determines that schools located in the same area in which a Coast Guard facility is located are not accessible by public means of transportation on a regular basis, he may provide, out of funds appropriated to or for the use of the Coast Guard, for the transportation of dependents of Coast Guard personnel between the schools serving the area and the Coast Guard facility.
 
-(Added Pub. L. 91–278, § 1(14), June 12, 1970, 84 Stat. 306, § 657; amended Pub. L. 93–430, § 5, Oct. 1, 1974, 88 Stat. 1182; renumbered § 544 and amended Pub. L. 113–281, title II, § 214(b)(1)(C), Dec. 18, 2014, 128 Stat. 3033; renumbered § 2906, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 91–278, § 1(14), June 12, 1970, 84 Stat. 306, § 657; amended Pub. L. 93–430, § 5, Oct. 1, 1974, 88 Stat. 1182; renumbered § 544 and amended Pub. L. 113–281, title II, § 214(b)(1)(C), Dec. 18, 2014, 128 Stat. 3033; renumbered § 2906, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
 **Editorial Notes**
 
@@ -255,7 +255,7 @@ A prior section 2906 was renumbered section 5107 of this title.
 
 2014—Pub. L. 113–281 renumbered section 657 of this title as this section and, in subsec. (a), substituted “The Secretary may” for “Except as otherwise authorized by the Act of September 30, 1950 (20 U.S.C. 236–244), the Secretary may”.
 
-1974—Pub. L. 93–430 struck out “; transportation of” after “children” in section catchline, designated existing provisions as subsec. (b), and added subsec. (a).
+1974—Pub. L. 93–430 struck out “; transportation of” after “children” in section catchline, designated existing provisions as subsec. (b), and added subsec. (a).
 
 ## SUBCHAPTER II—COAST GUARD CHILD CARE
 
@@ -263,9 +263,9 @@ A prior section 2906 was renumbered section 5107 of this title.
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 117(c)(2), Dec. 4, 2018, 132 Stat. 4231, inserted subchapter II designation and heading.
+2018—Pub. L. 115–282, title I, § 117(c)(2), Dec. 4, 2018, 132 Stat. 4231, inserted subchapter II designation and heading.
 
-### § 2921. Definitions
+### § 2921. Definitions
 
 In this subchapter, the following definitions apply:
 
@@ -283,7 +283,7 @@ In this subchapter, the following definitions apply:
 
 **(B)** provides home-based child care services on a regular basis in exchange for monetary compensation.
 
-(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3031, § 551; renumbered § 2921, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3031, § 551; renumbered § 2921, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
 **Editorial Notes**
 
@@ -295,7 +295,7 @@ Section 3 of the Child Abuse Prevention and Treatment Act, referred to in par. (
 
 2018—Pub. L. 115–282 renumbered section 551 of this title as this section.
 
-### § 2922. Child development services
+### § 2922. Child development services
 
 **(a)**
 
@@ -331,7 +331,7 @@ Section 3 of the Child Abuse Prevention and Treatment Act, referred to in par. (
 
 **(c)** The Secretary shall promulgate regulations to implement this section. The regulations shall establish fees to be charged for child development services provided under this section which take into consideration total family income.
 
-(Added Pub. L. 104–324, title II, § 201(a), Oct. 19, 1996, 110 Stat. 3906, § 515; amended Pub. L. 111–281, title II, § 222, Oct. 15, 2010, 124 Stat. 2920; renumbered § 552 and amended Pub. L. 113–281, title II, § 214(b)(1)(B), Dec. 18, 2014, 128 Stat. 3033; renumbered § 2922 and amended Pub. L. 115–282, title I, §§ 117(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4230, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8235, Jan. 1, 2021, 134 Stat. 4664; Pub. L. 117–263, div. K, title CXIV, §§ 11401(a), 11402, Dec. 23, 2022, 136 Stat. 4106, 4109.)
+(Added Pub. L. 104–324, title II, § 201(a), Oct. 19, 1996, 110 Stat. 3906, § 515; amended Pub. L. 111–281, title II, § 222, Oct. 15, 2010, 124 Stat. 2920; renumbered § 552 and amended Pub. L. 113–281, title II, § 214(b)(1)(B), Dec. 18, 2014, 128 Stat. 3033; renumbered § 2922 and amended Pub. L. 115–282, title I, §§ 117(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4230, 4240; Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8235, Jan. 1, 2021, 134 Stat. 4664; Pub. L. 117–263, div. K, title CXIV, §§ 11401(a), 11402, Dec. 23, 2022, 136 Stat. 4106, 4109.)
 
 **Editorial Notes**
 
@@ -341,27 +341,27 @@ Section 8239 of the Elijah E. Cummings Coast Guard Authorization Act of 2020, re
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–263, § 11402, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Commandant may make child development services available for members and civilian employees of the Coast Guard, and thereafter as space is available for members of the Armed Forces and Federal civilian employees. Child development service benefits provided under the authority of this section shall be in addition to benefits provided under other laws.”
+2022—Subsec. (a). Pub. L. 117–263, § 11402, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Commandant may make child development services available for members and civilian employees of the Coast Guard, and thereafter as space is available for members of the Armed Forces and Federal civilian employees. Child development service benefits provided under the authority of this section shall be in addition to benefits provided under other laws.”
 
-Subsec. (b)(2)(D). Pub. L. 117–263, § 11401(a), added subpar. (D).
+Subsec. (b)(2)(D). Pub. L. 117–263, § 11401(a), added subpar. (D).
 
 2021—Subsec. (b)(4). Pub. L. 116–283 added par. (4).
 
-2018—Pub. L. 115–282, § 117(b), renumbered section 552 of this title as this section.
+2018—Pub. L. 115–282, § 117(b), renumbered section 552 of this title as this section.
 
-Subsec. (b)(2)(B). Pub. L. 115–282, § 123(b)(2), substituted “section 2925(b)” for “section 555(b)”.
+Subsec. (b)(2)(B). Pub. L. 115–282, § 123(b)(2), substituted “section 2925(b)” for “section 555(b)”.
 
-2014—Pub. L. 113–281, § 214(b)(1)(B)(i), renumbered section 515 of this title as this section.
+2014—Pub. L. 113–281, § 214(b)(1)(B)(i), renumbered section 515 of this title as this section.
 
-Subsec. (b)(2)(B). Pub. L. 113–281, § 214(b)(1)(B)(ii)(I), inserted “and whether a family is participating in an initiative established under section 555(b)” after “family income”.
+Subsec. (b)(2)(B). Pub. L. 113–281, § 214(b)(1)(B)(ii)(I), inserted “and whether a family is participating in an initiative established under section 555(b)” after “family income”.
 
-Subsecs. (c), (d). Pub. L. 113–281, § 214(b)(1)(B)(ii)(II), (III), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Commandant shall provide for regular and unannounced inspections of each child development center under this section and may use Department of Defense or other training programs to ensure that all child development center employees under this section meet minimum standards of training with respect to early childhood development, activities and disciplinary techniques appropriate to children of different ages, child abuse prevention and detection, and appropriate emergency medical procedures.”
+Subsecs. (c), (d). Pub. L. 113–281, § 214(b)(1)(B)(ii)(II), (III), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “The Commandant shall provide for regular and unannounced inspections of each child development center under this section and may use Department of Defense or other training programs to ensure that all child development center employees under this section meet minimum standards of training with respect to early childhood development, activities and disciplinary techniques appropriate to children of different ages, child abuse prevention and detection, and appropriate emergency medical procedures.”
 
-Subsec. (e). Pub. L. 113–281, § 214(b)(1)(B)(ii)(II), struck out subsec. (e) which read as follows: “For purposes of this section, the term ‘child development center’ does not include a child care services facility for which space is allotted under section 616 of the Act of December 22, 1987 (40 U.S.C. 490b).”
+Subsec. (e). Pub. L. 113–281, § 214(b)(1)(B)(ii)(II), struck out subsec. (e) which read as follows: “For purposes of this section, the term ‘child development center’ does not include a child care services facility for which space is allotted under section 616 of the Act of December 22, 1987 (40 U.S.C. 490b).”
 
-2010—Subsec. (b). Pub. L. 111–281, § 222(1), added subsec. (b) and struck out former subsec. (b) which related to use of fees paid for services at Coast Guard child development centers.
+2010—Subsec. (b). Pub. L. 111–281, § 222(1), added subsec. (b) and struck out former subsec. (b) which related to use of fees paid for services at Coast Guard child development centers.
 
-Subsecs. (d) to (g). Pub. L. 111–281, § 222(2), (3), redesignated subsecs. (f) and (g) as (d) and (e), respectively, and struck out former subsecs. (d) and (e) which read as follows:
+Subsecs. (d) to (g). Pub. L. 111–281, § 222(2), (3), redesignated subsecs. (f) and (g) as (d) and (e), respectively, and struck out former subsecs. (d) and (e) which read as follows:
 
 “(d) Of the amounts available to the Coast Guard each fiscal year for operating expenses (and in addition to amounts received as fees), the Secretary may use for child development services under this section an amount not to exceed the total amount the Commandant estimates will be received by the Coast Guard in the fiscal year as fees for the provision of those services.
 
@@ -371,7 +371,7 @@ Subsecs. (d) to (g). Pub. L. 111–281, § 222(2), (3), redesignated subsecs. 
 
 **Review of Family Support Services Website and Online Tracking System**
 
-Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8232, Jan. 1, 2021, 134 Stat. 4661, provided that:
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8232, Jan. 1, 2021, 134 Stat. 4661, provided that:
 
 > **“(a) Memorandum of Understanding.—**
 
@@ -413,7 +413,7 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8232, Jan. 1, 2021, 134 
 
 **Study and Survey on Coast Guard Child Care Needs**
 
-Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8233, Jan. 1, 2021, 134 Stat. 4662, provided that:
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8233, Jan. 1, 2021, 134 Stat. 4662, provided that:
 
 > **“(a) Study.—**
 
@@ -451,7 +451,7 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8233, Jan. 1, 2021, 134 
 
 **Pilot Program To Expand Access to Child Care**
 
-Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8234, Jan. 1, 2021, 134 Stat. 4663, provided that:
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8234, Jan. 1, 2021, 134 Stat. 4663, provided that:
 
 > **“(a) In General.—** Commencing not later than 60 days after the date on which the report under section 8231 [of Pub. L. 116–283, 134 Stat. 4659] is submitted, the Commandant [of the Coast Guard] shall carry out a pilot program, based on the recommendations provided in such report, to expand access to public or private child development centers for qualified families.
 
@@ -475,7 +475,7 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8234, Jan. 1, 2021, 134 
 
 **Expanding Opportunities for Family Child Care**
 
-Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8238, Jan. 1, 2021, 134 Stat. 4665, provided that:
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8238, Jan. 1, 2021, 134 Stat. 4665, provided that:
 
 > “Not later than 1 year after the date of the enactment of this Act [Jan. 1, 2021], the Commandant [of the Coast Guard] shall—
 
@@ -487,11 +487,11 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8238, Jan. 1, 2021, 134 
 
 **Use of Coast Guard and Military Child Development Centers**
 
-Pub. L. 108–293, title II, § 225, Aug. 9, 2004, 118 Stat. 1040, provided that: “The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, when operating other than as a service in the Navy, may agree to provide child care services to members of the armed forces, with reimbursement, in Coast Guard and military child development centers supported in whole or in part with appropriated funds. For purposes of military child development centers operated under the authority of subchapter II of chapter 88 of title 10, United States Code, the child of a member of the Coast Guard shall be considered the same as the child of a member of any of the other armed forces.”
+Pub. L. 108–293, title II, § 225, Aug. 9, 2004, 118 Stat. 1040, provided that: “The Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, when operating other than as a service in the Navy, may agree to provide child care services to members of the armed forces, with reimbursement, in Coast Guard and military child development centers supported in whole or in part with appropriated funds. For purposes of military child development centers operated under the authority of subchapter II of chapter 88 of title 10, United States Code, the child of a member of the Coast Guard shall be considered the same as the child of a member of any of the other armed forces.”
 
 **Definitions**
 
-Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 Stat. 4665, provided that:
+Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 Stat. 4665, provided that:
 
 > “In this subtitle [subtitle C (§§8231–8239) of title LVXXXII [LXXXII] of div. G of Pub. L. 116–283, enacting section 2926 of this title, amending this section and section 2923 of this title, and enacting provisions set out as notes above]:
 
@@ -505,7 +505,7 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 
 
 > **“(5) Qualified family.—** The term ‘qualified family’ means any regular, reserve, or retired member of the Coast Guard, and any civilian employee of the Coast Guard, with one or more dependents.”
 
-### § 2923. Child development center standards and inspections
+### § 2923. Child development center standards and inspections
 
 **(a) Standards.—** The Commandant shall require each Coast Guard child development center to meet standards of operation—
 
@@ -541,7 +541,7 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 
 
 **(3) Procedures.—** The Commandant shall establish procedures for investigating reports made pursuant to paragraph (1).
 
-(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3031, § 553; renumbered § 2923, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8237(a), Jan. 1, 2021, 134 Stat. 4664; Pub. L. 117–263, div. K, title CXIV, § 11401(b), Dec. 23, 2022, 136 Stat. 4106.)
+(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3031, § 553; renumbered § 2923, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8237(a), Jan. 1, 2021, 134 Stat. 4664; Pub. L. 117–263, div. K, title CXIV, § 11401(b), Dec. 23, 2022, 136 Stat. 4106.)
 
 **Editorial Notes**
 
@@ -553,7 +553,7 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 
 
 2018—Pub. L. 115–282 renumbered section 553 of this title as this section.
 
-### § 2924. Child development center employees
+### § 2924. Child development center employees
 
 **(a) Training.—**
 
@@ -591,7 +591,7 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 
 
 **(3) Competitive service.—** Each specialist described in paragraph (1) shall be an employee in a competitive service position.
 
-(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3032, § 554; renumbered § 2924, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3032, § 554; renumbered § 2924, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
 **Editorial Notes**
 
@@ -599,7 +599,7 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 
 
 2018—Pub. L. 115–282 renumbered section 554 of this title as this section.
 
-### § 2925. Parent partnerships with child development centers
+### § 2925. Parent partnerships with child development centers
 
 **(a) Parent Boards.—**
 
@@ -615,7 +615,7 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 
 
 **(b) Parent Participation Initiative.—** The Commandant is authorized to establish a parent participation initiative at each Coast Guard child development center to encourage and facilitate parent participation in educational and related activities at the center.
 
-(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3032, § 555; renumbered § 2925, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 117–286, § 4(a)(60), Dec. 27, 2022, 136 Stat. 4312.)
+(Added Pub. L. 113–281, title II, § 214(a), Dec. 18, 2014, 128 Stat. 3032, § 555; renumbered § 2925, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 117–286, § 4(a)(60), Dec. 27, 2022, 136 Stat. 4312.)
 
 **Editorial Notes**
 
@@ -625,7 +625,7 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 
 
 2018—Pub. L. 115–282 renumbered section 555 of this title as this section.
 
-### § 2926. Family child care providers
+### § 2926. Family child care providers
 
 **(a) In General.—** Not less frequently than quarterly, the Commandant shall ensure that each family child care provider is subject to inspection.
 
@@ -635,9 +635,9 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 
 
 **(2)** 1 inspection shall be carried out by a representative of the Coast Guard child development services work-life programs.
 
-(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8237(b)(1), Jan. 1, 2021, 134 Stat. 4665.)
+(Added Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8237(b)(1), Jan. 1, 2021, 134 Stat. 4665.)
 
-### § 2927. Child care subsidy program
+### § 2927. Child care subsidy program
 
 **(a) In General.—**
 
@@ -657,13 +657,13 @@ Pub. L. 116–283, div. G, title LVXXXII [LXXXII], § 8239, Jan. 1, 2021, 134 
 
 **(B)** is either—
 
-**(i)** is 1
+**(i)** is 1
 
-<sup>1</sup>  So in original. The word “is” probably should not appear.
+<sup>1</sup> So in original. The word “is” probably should not appear.
 
 a family home daycare; or
 
-**(ii)** is <sup>1</sup> a provider of family child care services that—
+**(ii)** is <sup>1</sup> a provider of family child care services that—
 
 **(I)** otherwise provides federally funded or federally sponsored child development services;
 
@@ -703,7 +703,7 @@ a family home daycare; or
 
 **(4) Rule of construction.—** Nothing in this subsection may be construed to affect any preexisting reimbursement arrangement between the Coast Guard and a qualified provider.
 
-(Added Pub. L. 117–263, div. K, title CXIV, § 11401(c)(1)(A), Dec. 23, 2022, 136 Stat. 4106.)
+(Added Pub. L. 117–263, div. K, title CXIV, § 11401(c)(1)(A), Dec. 23, 2022, 136 Stat. 4106.)
 
 **Editorial Notes**
 
@@ -715,7 +715,7 @@ The date of the enactment of this section, referred to in subsec. (b)(2), is the
 
 **Expansion of Child Care Subsidy Program**
 
-Pub. L. 117–263, div. K, title CXIV, § 11401(c)(2), Dec. 23, 2022, 136 Stat. 4108, provided that:
+Pub. L. 117–263, div. K, title CXIV, § 11401(c)(2), Dec. 23, 2022, 136 Stat. 4108, provided that:
 
 > **“(A) In general.—** The Commandant [of the Coast Guard] shall—
 
@@ -759,9 +759,9 @@ Pub. L. 117–263, div. K, title CXIV, § 11401(c)(2), Dec. 23, 2022, 136 Stat
 
 **Amendments**
 
-2018—Pub. L. 115–282, title I, § 117(c)(3), Dec. 4, 2018, 132 Stat. 4232, inserted subchapter III designation and heading.
+2018—Pub. L. 115–282, title I, § 117(c)(3), Dec. 4, 2018, 132 Stat. 4232, inserted subchapter III designation and heading.
 
-### § 2941. Definitions
+### § 2941. Definitions
 
 In this chapter:
 
@@ -773,7 +773,7 @@ In this chapter:
 
 **(4)** The term “United States” includes the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, and the District of Columbia.
 
-(Added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3909, § 680; amended Pub. L. 108–293, title II, § 207(a), Aug. 9, 2004, 118 Stat. 1034; Pub. L. 111–281, title II, § 221(a)(1), Oct. 15, 2010, 124 Stat. 2919; renumbered § 2941, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3909, § 680; amended Pub. L. 108–293, title II, § 207(a), Aug. 9, 2004, 118 Stat. 1034; Pub. L. 111–281, title II, § 221(a)(1), Oct. 15, 2010, 124 Stat. 2919; renumbered § 2941, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
 **Editorial Notes**
 
@@ -795,9 +795,9 @@ In this chapter:
 
 **Savings Clause**
 
-Pub. L. 111–281, title II, § 221(b), Oct. 15, 2010, 124 Stat. 2920, provided that: “This section [amending this section and sections 681, 685, 687, and 688 of this title and repealing sections 682 to 684, 686, 687a, and 689 of this title] shall not affect any action commenced prior to the date of enactment of this Act [Oct. 15, 2010].”
+Pub. L. 111–281, title II, § 221(b), Oct. 15, 2010, 124 Stat. 2920, provided that: “This section [amending this section and sections 681, 685, 687, and 688 of this title and repealing sections 682 to 684, 686, 687a, and 689 of this title] shall not affect any action commenced prior to the date of enactment of this Act [Oct. 15, 2010].”
 
-### § 2942. General authority
+### § 2942. General authority
 
 **(a) Authority.—** In addition to any other authority providing for the acquisition or construction of military family housing or military unaccompanied housing, the Secretary may acquire or construct the following:
 
@@ -807,7 +807,7 @@ Pub. L. 111–281, title II, § 221(b), Oct. 15, 2010, 124 Stat. 2920, provide
 
 **(b) Limitation on Appropriations.—** No appropriation shall be made to acquire or construct military family housing or military unaccompanied housing under this chapter if that acquisition or construction has not been approved by resolutions adopted by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-(Added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3909, § 681; amended Pub. L. 107–295, title IV, § 402(a), Nov. 25, 2002, 116 Stat. 2113; Pub. L. 111–281, title II, § 221(a)(2), Oct. 15, 2010, 124 Stat. 2919; renumbered § 2942, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3909, § 681; amended Pub. L. 107–295, title IV, § 402(a), Nov. 25, 2002, 116 Stat. 2113; Pub. L. 111–281, title II, § 221(a)(2), Oct. 15, 2010, 124 Stat. 2919; renumbered § 2942, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
 **Editorial Notes**
 
@@ -815,15 +815,15 @@ Pub. L. 111–281, title II, § 221(b), Oct. 15, 2010, 124 Stat. 2920, provide
 
 2018—Pub. L. 115–282 renumbered section 681 of this title as this section.
 
-2010—Subsec. (a). Pub. L. 111–281, § 221(a)(2)(A), in introductory provisions, substituted “acquire or construct the following:” for “exercise any authority or any combination of authorities provided under this chapter in order to provide for the acquisition or construction by private persons, including a small business concern qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)), of the following:”.
+2010—Subsec. (a). Pub. L. 111–281, § 221(a)(2)(A), in introductory provisions, substituted “acquire or construct the following:” for “exercise any authority or any combination of authorities provided under this chapter in order to provide for the acquisition or construction by private persons, including a small business concern qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)), of the following:”.
 
-Subsec. (a)(1). Pub. L. 111–281, § 221(a)(2)(B), substituted “Military family housing” for “Family housing units”.
+Subsec. (a)(1). Pub. L. 111–281, § 221(a)(2)(B), substituted “Military family housing” for “Family housing units”.
 
-Subsec. (a)(2). Pub. L. 111–281, § 221(a)(2)(C), substituted “Military unaccompanied housing” for “Unaccompanied housing units”.
+Subsec. (a)(2). Pub. L. 111–281, § 221(a)(2)(C), substituted “Military unaccompanied housing” for “Unaccompanied housing units”.
 
-2002—Subsec. (a). Pub. L. 107–295 inserted “, including a small business concern qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)),” after “private persons” in introductory provisions.
+2002—Subsec. (a). Pub. L. 107–295 inserted “, including a small business concern qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)),” after “private persons” in introductory provisions.
 
-### § 2943. Leasing and hiring of quarters; rental of in­adequate housing
+### § 2943. Leasing and hiring of quarters; rental of in­adequate housing
 
 **(a)** The Secretary is authorized to lease hous­ing facilities at or near Coast Guard installations, wherever located, for assignment as public quarters to military personnel and their dependents, if any, without rental charge upon a determination by the Secretary, or his designee, that there is a lack of adequate housing facilities at or near such Coast Guard installations. The Secretary is also authorized to lease housing facilities for assignment as public quarters, without rental charge, to military personnel who are on sea duty or duty at remote offshore Coast Guard stations and who do not have dependents. Such authority shall be effective in any fiscal year only to such extent or in such amounts as are provided in appropriation Acts. When any such lease involves housing facilities in a foreign country, the lease may be made on a multiyear basis for a period not to exceed five years, and, in accordance with local custom and practice, advance payment may be made for the lease. Such public housing facilities may be leased on an individual or multiple-unit basis. Expenditures for the rental of such housing facilities may not exceed the average authorized for the Department of Defense in any year except where the Secretary finds that the average is so low as to prevent rental of necessary housing facilities in some areas, in which event he is authorized to reallocate existing funds to high-cost areas so that rental expenditures in such areas exceed the average authorized for the Department of Defense.
 
@@ -835,11 +835,11 @@ Subsec. (a)(2). Pub. L. 111–281, § 221(a)(2)(C), substituted “Military un
 
 **(c)** Where sufficient quarters are not possessed by the United States, the Commandant may hire quarters for personnel, including personnel on sea duty at such times as they may be deprived of their quarters on board ship due to repairs or other conditions which may render them uninhabitable. Such accommodations shall not be available for occupancy by the dependents of such personnel.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 532, § 475; Pub. L. 91–278, § 1(11), June 12, 1970, 84 Stat. 305; Pub. L. 92–343, § 4, July 10, 1972, 86 Stat. 450; Pub. L. 93–65, § 5, July 9, 1973, 87 Stat. 151; Pub. L. 94–406, § 4, Sept. 10, 1976, 90 Stat. 1236; Pub. L. 94–478, Oct. 11, 1976, 90 Stat. 2077; Pub. L. 94–546, § 1(30), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 96–376, § 4, Oct. 3, 1980, 94 Stat. 1509; Pub. L. 96–470, title I, § 112(d), Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–136, § 7, Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–295, § 2(11), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 97–322, title I, § 106, Oct. 15, 1982, 96 Stat. 1582; Pub. L. 100–180, div. A, title VI, § 632(b)(2), Dec. 4, 1987, 101 Stat. 1105; renumbered § 2943, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 532, § 475; Pub. L. 91–278, § 1(11), June 12, 1970, 84 Stat. 305; Pub. L. 92–343, § 4, July 10, 1972, 86 Stat. 450; Pub. L. 93–65, § 5, July 9, 1973, 87 Stat. 151; Pub. L. 94–406, § 4, Sept. 10, 1976, 90 Stat. 1236; Pub. L. 94–478, Oct. 11, 1976, 90 Stat. 2077; Pub. L. 94–546, § 1(30), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 96–376, § 4, Oct. 3, 1980, 94 Stat. 1509; Pub. L. 96–470, title I, § 112(d), Oct. 19, 1980, 94 Stat. 2240; Pub. L. 97–136, § 7, Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–295, § 2(11), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 97–322, title I, § 106, Oct. 15, 1982, 96 Stat. 1582; Pub. L. 100–180, div. A, title VI, § 632(b)(2), Dec. 4, 1987, 101 Stat. 1105; renumbered § 2943, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
 **Historical and Revision Notes**
 
-Based on title 14, U.S.C., 1946 ed., § 133a (June 19, 1942, ch. 419, § 2, 56 Stat. 372) and on the following language contained in the Coast Guard appropriation act for 1949, “Pay and Allowances” and preceding years: “hire of quarters for Coast Guard personnel comparable to quarters assignable on a capital ship of the Navy, as authorized by the Secretary to meet emergency conditions, including officers and men on sea duty at such times as they may be deprived of their quarters on board ship due to repairs or other conditions which may render them uninhabitable: *Provided*, That under this authorization no funds may be expended for the hire of quarters for occupancy by the dependents of officers or enlisted personnel” (June 19, 1948, ch. 558, 62 Stat. 562).
+Based on title 14, U.S.C., 1946 ed., § 133a (June 19, 1942, ch. 419, § 2, 56 Stat. 372) and on the following language contained in the Coast Guard appropriation act for 1949, “Pay and Allowances” and preceding years: “hire of quarters for Coast Guard personnel comparable to quarters assignable on a capital ship of the Navy, as authorized by the Secretary to meet emergency conditions, including officers and men on sea duty at such times as they may be deprived of their quarters on board ship due to repairs or other conditions which may render them uninhabitable: *Provided*, That under this authorization no funds may be expended for the hire of quarters for occupancy by the dependents of officers or enlisted personnel” (June 19, 1948, ch. 558, 62 Stat. 562).
 
 Changes were made in phraseology. 81st Congress, House Report No. 557.
 
@@ -861,23 +861,23 @@ Subsecs. (e), (f). Pub. L. 97–322 repealed subsec. (e) which required that the
 
 Subsec. (e). Pub. L. 96–470 struck out reference to subsec. (c).
 
-1976—Subsec. (a). Pub. L. 94–546, § 1(30)(a), substituted “Secretary” for “Secretary of the Department in which the Coast Guard is operating” wherever appearing.
+1976—Subsec. (a). Pub. L. 94–546, § 1(30)(a), substituted “Secretary” for “Secretary of the Department in which the Coast Guard is operating” wherever appearing.
 
 Pub. L. 94–478 inserted provision allowing leases for housing facilities in foreign countries to be made on a multi-year basis.
 
-Subsec. (e). Pub. L. 94–546, § 1(30)(b), which was executed to subsec. (e) as the probable intent of Congress, substituted “Secretary” for “Secretary of the Department in which the Coast Guard is operating” and struck out “commencing April 1, 1973,” after “not later than April 1,”.
+Subsec. (e). Pub. L. 94–546, § 1(30)(b), which was executed to subsec. (e) as the probable intent of Congress, substituted “Secretary” for “Secretary of the Department in which the Coast Guard is operating” and struck out “commencing April 1, 1973,” after “not later than April 1,”.
 
-Pub. L. 94–406, § 4(1), redesignated subsec. (f) as (e). Former subsec. (e), which provided that the authority conferred by subsecs. (b) and (c) of this section expire on June 30, 1976, was struck out.
+Pub. L. 94–406, § 4(1), redesignated subsec. (f) as (e). Former subsec. (e), which provided that the authority conferred by subsecs. (b) and (c) of this section expire on June 30, 1976, was struck out.
 
-Subsecs. (f), (g). Pub. L. 94–406, § 4(1), (2), redesignated subsec. (g) as (f) and substituted “(e)” for “(f)”. Former subsec. (f) redesignated (e).
+Subsecs. (f), (g). Pub. L. 94–406, § 4(1), (2), redesignated subsec. (g) as (f) and substituted “(e)” for “(f)”. Former subsec. (f) redesignated (e).
 
 1973—Subsec. (e). Pub. L. 93–65 extended termination date of authority provided in subsecs. (b) and (c) from June 30, 1973, to June 30, 1976.
 
-1972—Subsec. (a). Pub. L. 92–343, § 4(1), substituted “The Secretary of the Department in which the Coast Guard is operating” for “The Secretary” in first sentence.
+1972—Subsec. (a). Pub. L. 92–343, § 4(1), substituted “The Secretary of the Department in which the Coast Guard is operating” for “The Secretary” in first sentence.
 
-Subsec. (e). Pub. L. 92–343, § 4(2), struck out reference to subsec. (a) and extended authority provided in subsecs. (b) and (c) to June 30, 1973.
+Subsec. (e). Pub. L. 92–343, § 4(2), struck out reference to subsec. (a) and extended authority provided in subsecs. (b) and (c) to June 30, 1973.
 
-Subsecs. (f), (g). Pub. L. 92–343, § 4(3), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 92–343, § 4(3), added subsecs. (f) and (g).
 
 1970—Pub. L. 91–278 substituted “Leasing and hiring of quarters; rental of inadequate housing” for “Hiring of quarters for personnel” in section catchline, designated existing provisions as subsec. (d), and added subsecs. (a) to (c) and (e).
 
@@ -885,7 +885,7 @@ Subsecs. (f), (g). Pub. L. 92–343, § 4(3), added subsecs. (f) and (g).
 
 **Ex. Ord. No. 11645. Authority of Secretary of Homeland Security To Prescribe Certain Regulations Relating to Housing**
 
-Ex. Ord. No. 11645, Feb. 8, 1972, 37 F.R. 2923, as amended by Ex. Ord. No. 13286, § 59, Feb. 28, 2003, 68 F.R. 10629, provided:
+Ex. Ord. No. 11645, Feb. 8, 1972, 37 F.R. 2923, as amended by Ex. Ord. No. 13286, § 59, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me by section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
@@ -893,7 +893,7 @@ Section 1. The Secretary of Homeland Security is designated and empowered to pre
 
 Sec. 2. Whenever the entire Coast Guard operates as a service in the Navy, the reference to the Secretary of Homeland Security in section 1 of this order shall be deemed to be a reference to the Secretary of the Navy.
 
-### § 2944. Retired service members and dependents serving on advisory committees
+### § 2944. Retired service members and dependents serving on advisory committees
 
 A committee that—
 
@@ -903,7 +903,7 @@ A committee that—
 
 shall not be considered an advisory committee under chapter 10 of title 5 solely because of such membership.
 
-(Added Pub. L. 113–281, title II, § 218(a), Dec. 18, 2014, 128 Stat. 3036, § 680; renumbered § 2944, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 117–286, § 4(a)(61), Dec. 27, 2022, 136 Stat. 4312.)
+(Added Pub. L. 113–281, title II, § 218(a), Dec. 18, 2014, 128 Stat. 3036, § 680; renumbered § 2944, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230; amended Pub. L. 117–286, § 4(a)(61), Dec. 27, 2022, 136 Stat. 4312.)
 
 **Editorial Notes**
 
@@ -913,7 +913,7 @@ shall not be considered an advisory committee under chapter 10 of title 5 solely
 
 2018—Pub. L. 115–282 renumbered section 680 of this title as this section.
 
-### § 2945. Conveyance of real property
+### § 2945. Conveyance of real property
 
 **(a) Conveyance Authorized.—** Notwithstanding any other provision of law, the Secretary may convey, at fair market value, real property, owned or under the administrative control of the Coast Guard, for the purpose of expending the proceeds from such conveyance to acquire and construct military family housing and military unaccompanied housing.
 
@@ -925,27 +925,27 @@ shall not be considered an advisory committee under chapter 10 of title 5 solely
 
 **(c) Relationship to Environmental Law.—** This section does not affect or limit the application of or obligation to comply with any environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)).
 
-(Added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3911, § 685; amended Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–217, § 3(c)(4), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 111–281, title II, § 221(a)(4), Oct. 15, 2010, 124 Stat. 2919; Pub. L. 111–350, § 5(c)(4), Jan. 4, 2011, 124 Stat. 3847; renumbered § 2945 and amended Pub. L. 115–282, title I, §§ 117(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4230, 4240.)
+(Added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3911, § 685; amended Pub. L. 106–400, § 2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–217, § 3(c)(4), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 111–281, title II, § 221(a)(4), Oct. 15, 2010, 124 Stat. 2919; Pub. L. 111–350, § 5(c)(4), Jan. 4, 2011, 124 Stat. 3847; renumbered § 2945 and amended Pub. L. 115–282, title I, §§ 117(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4230, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 117(b), renumbered section 685 of this title as this section.
+2018—Pub. L. 115–282, § 117(b), renumbered section 685 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 2946” for “section 687”.
+Subsec. (b)(1). Pub. L. 115–282, § 123(b)(2), substituted “section 2946” for “section 687”.
 
 2011—Subsec. (c)(1). Pub. L. 111–350, which directed substitution of “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” in subsec. (c)(1), could not be executed because of the prior general amendment of this section by Pub. L. 111–281. See 2010 Amendment note below.
 
 2010—Pub. L. 111–281 amended section generally. Prior to amendment, section authorized Secretary to convey or lease existing property and facilities under certain conditions.
 
-2002—Subsec. (c)(1). Pub. L. 107–217, § 3(c)(4)(A), substituted “Subtitle I of title 40 and title III of the” for “The” and “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+2002—Subsec. (c)(1). Pub. L. 107–217, § 3(c)(4)(A), substituted “Subtitle I of title 40 and title III of the” for “The” and “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
-Subsec. (c)(2). Pub. L. 107–217, § 3(c)(4)(B), substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (commonly known as the Economy Act) (47 Stat. 412, chapter 314; 40 U.S.C. 303b)”.
+Subsec. (c)(2). Pub. L. 107–217, § 3(c)(4)(B), substituted “Section 1302 of title 40” for “Section 321 of the Act of June 30, 1932 (commonly known as the Economy Act) (47 Stat. 412, chapter 314; 40 U.S.C. 303b)”.
 
 2000—Subsec. (c)(3). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-### § 2946. Coast Guard Housing Fund
+### § 2946. Coast Guard Housing Fund
 
 **(a) Establishment.—** There is hereby established on the books of the Treasury an account to be known as the Coast Guard Housing Fund (in this section referred to as the “Fund”).
 
@@ -977,53 +977,53 @@ Subsec. (c)(2). Pub. L. 107–217, § 3(c)(4)(B), substituted “Section 1302 
 
 **(e) Notification Required for Transfers.—** A transfer of appropriated amounts to the Fund under subsection (b)(2) of this section may be made only after the end of a 30-day period beginning on the date the Secretary submits written notice of, and justification for, the transfer to the appropriate committees of Congress.
 
-(Added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3912, § 687; amended Pub. L. 107–295, title IV, § 402(b), (c), Nov. 25, 2002, 116 Stat. 2114; Pub. L. 107–296, title XVII, § 1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–293, title II, § 207(d), Aug. 9, 2004, 118 Stat. 1034; Pub. L. 111–281, title II, § 221(a)(6), Oct. 15, 2010, 124 Stat. 2919; Pub. L. 111–330, § 1(2), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 113–281, title II, § 208(c), Dec. 18, 2014, 128 Stat. 3026; renumbered § 2946 and amended Pub. L. 115–282, title I, §§ 117(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4230, 4240.)
+(Added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3912, § 687; amended Pub. L. 107–295, title IV, § 402(b), (c), Nov. 25, 2002, 116 Stat. 2114; Pub. L. 107–296, title XVII, § 1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–293, title II, § 207(d), Aug. 9, 2004, 118 Stat. 1034; Pub. L. 111–281, title II, § 221(a)(6), Oct. 15, 2010, 124 Stat. 2919; Pub. L. 111–330, § 1(2), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 113–281, title II, § 208(c), Dec. 18, 2014, 128 Stat. 3026; renumbered § 2946 and amended Pub. L. 115–282, title I, §§ 117(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4230, 4240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–282, § 117(b), renumbered section 687 of this title as this section.
+2018—Pub. L. 115–282, § 117(b), renumbered section 687 of this title as this section.
 
-Subsec. (b)(3). Pub. L. 115–282, § 123(b)(2), substituted “section 2945” for “section 685”.
+Subsec. (b)(3). Pub. L. 115–282, § 123(b)(2), substituted “section 2945” for “section 685”.
 
-Subsec. (b)(4). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a)(13)” for “section 93(a)(13)”.
+Subsec. (b)(4). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a)(13)” for “section 93(a)(13)”.
 
-Subsec. (b)(5). Pub. L. 115–282, § 123(b)(2), substituted “section 908(b)” for “section 672a(b)”.
+Subsec. (b)(5). Pub. L. 115–282, § 123(b)(2), substituted “section 908(b)” for “section 672a(b)”.
 
 2014—Subsec. (b)(4), (5). Pub. L. 113–281 added pars. (4) and (5).
 
-2010—Subsec. (b)(2). Pub. L. 111–281, § 221(a)(6)(A)(i), substituted “or military unaccompanied” for “or unaccompanied”.
+2010—Subsec. (b)(2). Pub. L. 111–281, § 221(a)(6)(A)(i), substituted “or military unaccompanied” for “or unaccompanied”.
 
-Subsec. (b)(3). Pub. L. 111–281, § 221(a)(6)(A)(ii), substituted “military family housing and” for “military family and” and struck out “or lease” after “conveyance” and “or facilities” after “property”.
+Subsec. (b)(3). Pub. L. 111–281, § 221(a)(6)(A)(ii), substituted “military family housing and” for “military family and” and struck out “or lease” after “conveyance” and “or facilities” after “property”.
 
-Subsec. (b)(4). Pub. L. 111–281, § 221(a)(6)(A)(iii), struck out par. (4) which read as follows: “Income from any activities under this chapter, including interest on loan guarantees made under section 682 of this title, income and gains realized from investments under section 684 of this title, and any return of capital invested as part of such investments.”
+Subsec. (b)(4). Pub. L. 111–281, § 221(a)(6)(A)(iii), struck out par. (4) which read as follows: “Income from any activities under this chapter, including interest on loan guarantees made under section 682 of this title, income and gains realized from investments under section 684 of this title, and any return of capital invested as part of such investments.”
 
-Subsec. (c)(1). Pub. L. 111–281, § 221(a)(6)(B), as amended by Pub. L. 111–330, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In such amounts as provided in appropriation Acts and except as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family and military unaccompanied housing units, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this chapter.”
+Subsec. (c)(1). Pub. L. 111–281, § 221(a)(6)(B), as amended by Pub. L. 111–330, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In such amounts as provided in appropriation Acts and except as provided in subsection (d), the Secretary may use amounts in the Coast Guard Housing Fund to carry out activities under this chapter with respect to military family and military unaccompanied housing units, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this chapter.”
 
-Subsec. (e). Pub. L. 111–281, § 221(a)(6)(C), struck out “or (b)(3)” after “subsection (b)(2)”.
+Subsec. (e). Pub. L. 111–281, § 221(a)(6)(C), struck out “or (b)(3)” after “subsection (b)(2)”.
 
-Subsecs. (f), (g). Pub. L. 111–281, § 221(a)(6)(D), struck out subsecs. (f) and (g) which related to limitation on amount of budget authority and demonstration projects authorized, respectively.
+Subsecs. (f), (g). Pub. L. 111–281, § 221(a)(6)(D), struck out subsecs. (f) and (g) which related to limitation on amount of budget authority and demonstration projects authorized, respectively.
 
-2004—Subsec. (g). Pub. L. 108–293, § 207(d)(1), substituted “Projects” for “Project” in heading.
+2004—Subsec. (g). Pub. L. 108–293, § 207(d)(1), substituted “Projects” for “Project” in heading.
 
-Subsec. (g)(1). Pub. L. 108–293, § 207(2), (3), substituted “demonstration projects” for “a demonstration project” and “Kodiak, Alaska, or any other Coast Guard installation in Alaska;” for “Kodiak, Alaska;”.
+Subsec. (g)(1). Pub. L. 108–293, § 207(2), (3), substituted “demonstration projects” for “a demonstration project” and “Kodiak, Alaska, or any other Coast Guard installation in Alaska;” for “Kodiak, Alaska;”.
 
-Subsec. (g)(2). Pub. L. 108–293, § 207(d)(4), substituted “such a demonstration project” for “the demonstration project”.
+Subsec. (g)(2). Pub. L. 108–293, § 207(d)(4), substituted “such a demonstration project” for “the demonstration project”.
 
-Subsec. (g)(4). Pub. L. 108–293, § 207(d)(5), substituted “such demonstration projects” for “the demonstration project”.
+Subsec. (g)(4). Pub. L. 108–293, § 207(d)(5), substituted “such demonstration projects” for “the demonstration project”.
 
 2002—Subsec. (b)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
-Subsec. (f). Pub. L. 107–295, § 402(b), substituted “$40,000,000” for “$20,000,000”.
+Subsec. (f). Pub. L. 107–295, § 402(b), substituted “$40,000,000” for “$20,000,000”.
 
-Subsec. (g). Pub. L. 107–295, § 402(c), added subsec. (g).
+Subsec. (g). Pub. L. 107–295, § 402(c), added subsec. (g).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(2) is effective with the enactment of Pub. L. 111–281.
+Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(2) is effective with the enactment of Pub. L. 111–281.
 
 **Effective Date of 2002 Amendment**
 
@@ -1031,13 +1031,13 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Amounts Credited to Coast Guard Housing Fund**
 
-Pub. L. 116–93, div. D, title II, § 232, Dec. 20, 2019, 133 Stat. 2517, provided that: “Beginning in fiscal year 2021 and for each fiscal year thereafter, amounts credited to the Coast Guard Housing Fund pursuant to paragraphs (3) through (5) of subsection (b) of section 2946 of title 14, United States Code, shall be classified as discretionary offsetting receipts.”
+Pub. L. 116–93, div. D, title II, § 232, Dec. 20, 2019, 133 Stat. 2517, provided that: “Beginning in fiscal year 2021 and for each fiscal year thereafter, amounts credited to the Coast Guard Housing Fund pursuant to paragraphs (3) through (5) of subsection (b) of section 2946 of title 14, United States Code, shall be classified as discretionary offsetting receipts.”
 
-### § 2947. Reports
+### § 2947. Reports
 
 The Secretary shall prepare and submit to Congress, concurrent with the budget submitted pursuant to section 1105 of title 31, a report identifying the contracts or agreements for the conveyance of properties pursuant to this chapter executed during the prior calendar year.
 
-(Added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3913, § 688; amended Pub. L. 107–296, title XVII, § 1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–281, title II, § 221(a)(8), Oct. 15, 2010, 124 Stat. 2920; renumbered § 2947, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
+(Added Pub. L. 104–324, title II, § 208(a), Oct. 19, 1996, 110 Stat. 3913, § 688; amended Pub. L. 107–296, title XVII, § 1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–281, title II, § 221(a)(8), Oct. 15, 2010, 124 Stat. 2920; renumbered § 2947, Pub. L. 115–282, title I, § 117(b), Dec. 4, 2018, 132 Stat. 4230.)
 
 **Editorial Notes**
 
@@ -1057,4 +1057,4 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Final Report**
 
-Pub. L. 104–324, title II, § 208(b), Oct. 19, 1996, 110 Stat. 3913, provided that by March 1, 2000, the Secretary of the department in which the Coast Guard was operating was to submit to Congress a report on the use by the Secretary of the authorities provided by former chapter 18 of this title.
+Pub. L. 104–324, title II, § 208(b), Oct. 19, 1996, 110 Stat. 3913, provided that by March 1, 2000, the Secretary of the department in which the Coast Guard was operating was to submit to Congress a report on the use by the Secretary of the authorities provided by former chapter 18 of this title.

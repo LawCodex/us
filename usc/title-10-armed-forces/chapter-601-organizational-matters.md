@@ -21,7 +21,7 @@ retrieved: 2026-10-11
 
 Chapter analysis added pursuant to operation of section 102 of this title.
 
-## § 6101. Definitions
+## § 6101. Definitions
 
 Except as otherwise provided, in this subpart:
 
@@ -31,7 +31,7 @@ Except as otherwise provided, in this subpart:
 
 **(3)** The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 (50 U.S.C. 3001 note), Executive Order No. 12958 of April 17, 1995 (50 U.S.C. 3161 note),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 Executive Order No. 13526 of December 29, 2009 (50 U.S.C. 3161 note), or successor orders, to require protection against unauthorized disclosure and that is so designated.
 
@@ -65,23 +65,23 @@ Executive Order No. 13526 of December 29, 2009 (50 U.S.C. 3161 note), or success
 
 **(9)** The term “Restricted Data” has the meaning given such term in section 11 y. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(y)).
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1339.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1339.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Executive Order No. 12958, referred to in par. (3), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, which was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731, and was formerly set out as a note under section 3161 of Title 50, War and National Defense.
+Executive Order No. 12958, referred to in par. (3), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, which was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731, and was formerly set out as a note under section 3161 of Title 50, War and National Defense.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2501 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2501 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-## § 6102. Naval Nuclear Propulsion Program
+## § 6102. Naval Nuclear Propulsion Program
 
 The provisions of Executive Order Numbered 12344, dated February 1, 1982, pertaining to the Naval Nuclear Propulsion Program, shall remain in force until changed by law.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1340.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1340.)
 
 **Editorial Notes**
 
@@ -91,7 +91,7 @@ Executive Order Numbered 12344, referred to in text, is set out as a note below.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2511 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2511 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Executive Documents**
 
@@ -149,7 +149,7 @@ Sec. 10. This Order is effective on February 1, 1982.
 
 Ronald Reagan.
 
-## § 6103. Management structure for nuclear security enterprise
+## § 6103. Management structure for nuclear security enterprise
 
 **(a) In General.—** The Administrator shall establish a management structure for the nuclear security enterprise in accordance with the National Nuclear Security Administration Act (50 U.S.C. 2401 et seq.).
 
@@ -179,29 +179,29 @@ Ronald Reagan.
 
 **(c) Rule of Construction.—** This section may not be construed as affecting the authority of the Secretary of Energy, in carrying out national security programs, with respect to the management, planning, and oversight of the Administration or as affecting the delegation by the Secretary of authority to carry out such activities, as set forth under subsection (a) of section 4102 of the Atomic Energy Defense Act (50 U.S.C. 2512) as it existed before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2169).
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1340, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2)(B), Dec. 18, 2025, 139 Stat. 1340, 1462.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Nuclear Security Administration Act, referred to in subsec. (a), is title XXXII of Pub. L. 106–65, div. C, Oct. 5, 1999, 113 Stat. 953, which is classified principally to chapter 41 (§ 2401 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50 and Tables.
+The National Nuclear Security Administration Act, referred to in subsec. (a), is title XXXII of Pub. L. 106–65, div. C, Oct. 5, 1999, 113 Stat. 953, which is classified principally to chapter 41 (§ 2401 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of Title 50 and Tables.
 
-Section 4102 of the Atomic Energy Defense Act (50 U.S.C. 2512) as it existed before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2169), referred to in subsec. (c), means section 4102 of Pub. L. 107–314, which was classified to section 2512 of Title 50, War and National Defense, as it existed before the date of enactment of Pub. L. 112–239, which amended that section generally and was approved Jan. 2, 2013. Section 2512 of Title 50 was repealed and restated as this section by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1340, 1458.
+Section 4102 of the Atomic Energy Defense Act (50 U.S.C. 2512) as it existed before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2169), referred to in subsec. (c), means section 4102 of Pub. L. 107–314, which was classified to section 2512 of Title 50, War and National Defense, as it existed before the date of enactment of Pub. L. 112–239, which amended that section generally and was approved Jan. 2, 2013. Section 2512 of Title 50 was repealed and restated as this section by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1340, 1458.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2512 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2512 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Governance and Management of Nuclear Security Enterprise**
 
-Pub. L. 114–92, div. C, title XXXI, § 3137, Nov. 25, 2015, 129 Stat. 1213, as amended by Pub. L. 119–60, div. C, title XXXI, § 3111(c)(2)(F), Dec. 18, 2025, 139 Stat. 1460, provided that:
+Pub. L. 114–92, div. C, title XXXI, § 3137, Nov. 25, 2015, 129 Stat. 1213, as amended by Pub. L. 119–60, div. C, title XXXI, § 3111(c)(2)(F), Dec. 18, 2025, 139 Stat. 1460, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that—
 
@@ -269,7 +269,7 @@ Pub. L. 114–92, div. C, title XXXI, § 3137, Nov. 25, 2015, 129 Stat. 1213, 
 
 > **“(2)** that would undermine or weaken health, safety, or security.”
 
-## § 6104. Monitoring of industrial base for nuclear weapons components, subsystems, and materials
+## § 6104. Monitoring of industrial base for nuclear weapons components, subsystems, and materials
 
 **(a) Designation of Official.—** Not later than March 1, 2021, the Administrator shall designate a senior official within the Administration to be responsible for monitoring the industrial base that supports the nuclear weapons components, subsystems, and materials of the Administration, including—
 
@@ -311,21 +311,21 @@ Pub. L. 114–92, div. C, title XXXI, § 3137, Nov. 25, 2015, 129 Stat. 1213, 
 
 **(5)** describing the nature of any coordination with or burden sharing by other departments or agencies of the Federal Government or the private sector to address such risks and gaps.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1341, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1341, 1462.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3113 of Pub. L. 116–283, which was set out as a note under section 2512 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(8).
+Provisions similar to those in this section were contained in section 3113 of Pub. L. 116–283, which was set out as a note under section 2512 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(8).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (d). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Initial briefing” and “Subsequent briefings”, respectively.
+Subsec. (d). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) headings which read as follows: “Initial briefing” and “Subsequent briefings”, respectively.
 
-## § 6105. Common financial reporting system for the nuclear security enterprise
+## § 6105. Common financial reporting system for the nuclear security enterprise
 
 **(a) In General.—** By not later than four years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328), the Administrator shall, in consultation with the National Nuclear Security Administration Council established by section 6103, complete, to the extent practicable, the implementation of a common financial reporting system for the nuclear security enterprise.
 
@@ -353,7 +353,7 @@ Subsec. (d). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) and (2) 
 
 **(3)** No report is required under this subsection after the completion of the implementation of a common financial reporting system for the nuclear security enterprise.
 
-(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1342, 1462.)
+(Added and amended Pub. L. 119–60, div. C, title XXXI, § 3111(a), (d)(2), Dec. 18, 2025, 139 Stat. 1342, 1462.)
 
 **Editorial Notes**
 
@@ -363,31 +363,31 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 3113 of Pub. L. 114–328, which was set out as a note under section 2512 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(9).
+Provisions similar to those in this section were contained in section 3113 of Pub. L. 114–328, which was set out as a note under section 2512 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(9).
 
 **Amendments**
 
-2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
+2025—Pub. L. 119–60, § 3111(d)(2)(B), realigned margins.
 
-Subsec. (c). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “In general”, “Report”, and “Termination”, respectively.
+Subsec. (c). Pub. L. 119–60, § 3111(d)(2)(A), struck out pars. (1) to (3) headings which read as follows: “In general”, “Report”, and “Termination”, respectively.
 
-## § 6106. Restriction on licensing requirement for certain defense activities and facilities
+## § 6106. Restriction on licensing requirement for certain defense activities and facilities
 
 None of the funds authorized to be appropriated by the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981 (Public Law 96–540; 94 Stat. 3197) or any other Act may be used for any purpose related to licensing of any defense activity or facility of the Department of Energy by the Nuclear Regulatory Commission.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1343.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1343.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981, referred to in text, is Pub. L. 96–540, Dec. 17, 1980, 94 Stat. 3197, which enacted former sections 2513 and 2762 of Title 50, War and National Defense, and other provisions not classified to the Code. Section 2513 of Title 50 was repealed and restated as this section by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1343, 1458. Section 2762 of Title 50 was repealed and restated as section 6302 of this title by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1437, 1458. For complete classification of this Act to the Code, see Tables.
+The Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981, referred to in text, is Pub. L. 96–540, Dec. 17, 1980, 94 Stat. 3197, which enacted former sections 2513 and 2762 of Title 50, War and National Defense, and other provisions not classified to the Code. Section 2513 of Title 50 was repealed and restated as this section by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1343, 1458. Section 2762 of Title 50 was repealed and restated as section 6302 of this title by Pub. L. 119–60, div. C, title XXXI, § 3111(a), (b)(1), Dec. 18, 2025, 139 Stat. 1437, 1458. For complete classification of this Act to the Code, see Tables.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2513 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
+Provisions similar to those in this section were contained in section 2513 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(1).
 
-## § 6107. Establishment of Center for Security Technology, Analysis, Response, and Testing
+## § 6107. Establishment of Center for Security Technology, Analysis, Response, and Testing
 
 **(a) Establishment.—** The Administrator for Nuclear Security shall establish within the nuclear security enterprise a Center for Security Technology, Analysis, Response, and Testing.
 
@@ -409,10 +409,10 @@ Provisions similar to those in this section were contained in section 2513 of Ti
 
 **(8)** Such other duties as the Administrator may assign.
 
-(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1343.)
+(Added Pub. L. 119–60, div. C, title XXXI, § 3111(a), Dec. 18, 2025, 139 Stat. 1343.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2515 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(2).
+Provisions similar to those in this section were contained in section 2515 of Title 50, War and National Defense, prior to repeal by Pub. L. 119–60, § 3111(b)(2).

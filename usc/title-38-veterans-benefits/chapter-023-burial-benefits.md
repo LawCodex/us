@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 116–315, title II, §§ 2201(d), 2202(c), Jan. 5, 2021, 134 Stat. 4983, 4985, struck out item 2302 “Funeral expenses”, added items 2303 and 2308, and struck out former items 2303 “Death in Department facility; plot allowance” and 2308 “Transportation of deceased veteran to a national cemetery”.
+2021—Pub. L. 116–315, title II, §§ 2201(d), 2202(c), Jan. 5, 2021, 134 Stat. 4983, 4985, struck out item 2302 “Funeral expenses”, added items 2303 and 2308, and struck out former items 2303 “Death in Department facility; plot allowance” and 2308 “Transportation of deceased veteran to a national cemetery”.
 
-1996—Pub. L. 104–275, title II, § 213(b)(2), Oct. 9, 1996, 110 Stat. 3332, substituted “burial receptacles” for “grave liners” in item 2306.
+1996—Pub. L. 104–275, title II, § 213(b)(2), Oct. 9, 1996, 110 Stat. 3332, substituted “burial receptacles” for “grave liners” in item 2306.
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 901 to 908 as 2301 to 2308, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 901 to 908 as 2301 to 2308, respectively.
 
-Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “Department” for “Veterans’ Administration” in item 903.
+Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted “Department” for “Veterans’ Administration” in item 903.
 
-1988—Pub. L. 100–322, title III, § 344(b)(2), May 20, 1988, 102 Stat. 540, substituted “Headstones, markers, and grave liners” for “Headstones and markers” in item 906.
+1988—Pub. L. 100–322, title III, § 344(b)(2), May 20, 1988, 102 Stat. 540, substituted “Headstones, markers, and grave liners” for “Headstones and markers” in item 906.
 
-1976—Pub. L. 94–433, title III, § 304(b), Sept. 30, 1976, 90 Stat. 1377, added item 908.
+1976—Pub. L. 94–433, title III, § 304(b), Sept. 30, 1976, 90 Stat. 1377, added item 908.
 
-1973—Pub. L. 93–43, § 5(b), June 18, 1973, 87 Stat. 81, inserted “; plot allowance” in item 903 and added items 906 and 907.
+1973—Pub. L. 93–43, § 5(b), June 18, 1973, 87 Stat. 81, inserted “; plot allowance” in item 903 and added items 906 and 907.
 
-## § 2301. Flags
+## § 2301. Flags
 
 **(a)** The Secretary shall furnish a flag to drape the casket of each—
 
@@ -45,9 +45,9 @@ Pub. L. 102–83, § 4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted �
 
 **(C)** had been discharged or released from the active military, naval, air, or space service for a disability incurred or aggravated in line of duty; and
 
-**(2)** deceased individual who at the time of death was entitled to retired pay under chapter 67 1
+**(2)** deceased individual who at the time of death was entitled to retired pay under chapter 67 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 10 or would have been entitled to retired pay under that chapter but for the fact that the person was under 60 years of age.
 
@@ -97,13 +97,13 @@ of title 10 or would have been entitled to retired pay under that chapter but fo
 
 **(C)** the manufacture and assembling of such materials and components into the flag is entirely performed in the United States.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, § 901; Pub. L. 87–240, Sept. 14, 1961, 75 Stat. 512; Pub. L. 89–358, § 9, Mar. 3, 1966, 80 Stat. 28; Pub. L. 90–77, title IV, § 402, Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–588, § 9(g), Dec. 24, 1970, 84 Stat. 1585; Pub. L. 97–306, title IV, § 402(a), Oct. 14, 1982, 96 Stat. 1442; Pub. L. 99–576, title VII, § 701(50), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, § 14(b)(20), June 13, 1991, 105 Stat. 284; renumbered § 2301 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 11(a), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 105–261, div. A, title V, § 517, title X, § 1073(a), Oct. 17, 1998, 112 Stat. 2009, 2137; Pub. L. 107–14, § 8(a)(3), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title II, § 201(b), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 111–275, title V, § 502(d)(2), Oct. 13, 2010, 124 Stat. 2883; Pub. L. 116–283, div. A, title IX, § 926(a)(35), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, § 901; Pub. L. 87–240, Sept. 14, 1961, 75 Stat. 512; Pub. L. 89–358, § 9, Mar. 3, 1966, 80 Stat. 28; Pub. L. 90–77, title IV, § 402, Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–588, § 9(g), Dec. 24, 1970, 84 Stat. 1585; Pub. L. 97–306, title IV, § 402(a), Oct. 14, 1982, 96 Stat. 1442; Pub. L. 99–576, title VII, § 701(50), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, § 14(b)(20), June 13, 1991, 105 Stat. 284; renumbered § 2301 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 11(a), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 105–261, div. A, title V, § 517, title X, § 1073(a), Oct. 17, 1998, 112 Stat. 2009, 2137; Pub. L. 107–14, § 8(a)(3), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title II, § 201(b), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 111–275, title V, § 502(d)(2), Oct. 13, 2010, 124 Stat. 2883; Pub. L. 116–283, div. A, title IX, § 926(a)(35), Jan. 1, 2021, 134 Stat. 3830.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Chapter 67 of title 10, referred to in subsec. (a)(2), was transferred to part II of subtitle E of Title 10, Armed Forces, renumbered as chapter 1223, and amended generally by Pub. L. 103–337, div. A, title XVI, § 1662(j)(1), Oct. 5, 1994, 108 Stat. 2998. A new chapter 67 (§ 1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337.
+Chapter 67 of title 10, referred to in subsec. (a)(2), was transferred to part II of subtitle E of Title 10, Armed Forces, renumbered as chapter 1223, and amended generally by Pub. L. 103–337, div. A, title XVI, § 1662(j)(1), Oct. 5, 1994, 108 Stat. 2998. A new chapter 67 (§ 1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337.
 
 **Amendments**
 
@@ -113,13 +113,13 @@ Chapter 67 of title 10, referred to in subsec. (a)(2), was transferred to part I
 
 2002—Subsecs. (g), (h). Pub. L. 107–330 added subsec. (g) and redesignated former subsec. (g) as (h).
 
-2001—Subsec. (f)(1). Pub. L. 107–14, § 8(a)(3)(A), directed the substitution of “(as described in section” for “(as described in section” in introductory provisions, requiring no change in text.
+2001—Subsec. (f)(1). Pub. L. 107–14, § 8(a)(3)(A), directed the substitution of “(as described in section” for “(as described in section” in introductory provisions, requiring no change in text.
 
-Subsec. (f)(2). Pub. L. 107–14, § 8(a)(3)(B), substituted “subparagraph” for “subparagraphs”.
+Subsec. (f)(2). Pub. L. 107–14, § 8(a)(3)(B), substituted “subparagraph” for “subparagraphs”.
 
-1998—Subsec. (f). Pub. L. 105–261, § 517, added subsec. (f).
+1998—Subsec. (f). Pub. L. 105–261, § 517, added subsec. (f).
 
-Subsec. (g). Pub. L. 105–261, § 1073(a), added subsec. (g).
+Subsec. (g). Pub. L. 105–261, § 1073(a), added subsec. (g).
 
 1992—Subsec. (a). Pub. L. 102–547 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall furnish a flag to drape the casket of each deceased veteran who—
 
@@ -129,11 +129,11 @@ Subsec. (g). Pub. L. 105–261, § 1073(a), added subsec. (g).
 
 “(3) had been discharged or released from the active military, naval, or air service for a disability incurred or aggravated in line of duty.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 901 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 901 of this title as this section.
 
-Subsec. (d). Pub. L. 102–54 substituted “considers” for “deems”, struck out comma after “this section”, and struck out “, United States Code” after “title 10”.
+Subsec. (d). Pub. L. 102–54 substituted “considers” for “deems”, struck out comma after “this section”, and struck out “, United States Code” after “title 10”.
 
-Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “2402(6)” for “1002(6)”.
+Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “2402(6)” for “1002(6)”.
 
 1989—Subsecs. (a), (d), (e). Pub. L. 101–237 substituted “Secretary” for “Administrator” wherever appearing.
 
@@ -141,17 +141,17 @@ Subsec. (e). Pub. L. 102–83, § 5(c)(1), substituted “2402(6)” for “10
 
 1982—Subsec. (e). Pub. L. 97–306 added subsec. (e).
 
-1970—Subsec. (a). Pub. L. 91–588, § 9(g)(1), struck out reference to the Mexican border service.
+1970—Subsec. (a). Pub. L. 91–588, § 9(g)(1), struck out reference to the Mexican border service.
 
-Subsec. (c). Pub. L. 91–588, § 9(g)(2), substituted “For the purpose of this section, the term ‘Mexican border period’ as defined in paragraph (30) of section 101 of this title includes the period beginning on January 1, 1911, and ending on May 8, 1916” for “For the purpose of this section, the term ‘Mexican border service’ means active military, naval, or air service during the period beginning on January 1, 1911, and ending on April 5, 1917, in Mexico, on the borders thereof, or in the waters adjacent thereto”.
+Subsec. (c). Pub. L. 91–588, § 9(g)(2), substituted “For the purpose of this section, the term ‘Mexican border period’ as defined in paragraph (30) of section 101 of this title includes the period beginning on January 1, 1911, and ending on May 8, 1916” for “For the purpose of this section, the term ‘Mexican border service’ means active military, naval, or air service during the period beginning on January 1, 1911, and ending on April 5, 1917, in Mexico, on the borders thereof, or in the waters adjacent thereto”.
 
 1967—Subsec. (d). Pub. L. 90–77 added subsec. (d).
 
 1966—Subsec. (a)(1). Pub. L. 89–358 required a flag to be furnished to drape the casket of a deceased veteran who served after Jan. 31, 1955.
 
-1961—Subsec. (a). Pub. L. 87–240, § 1(1), inserted “or of Mexican border service” after “veteran of any war”.
+1961—Subsec. (a). Pub. L. 87–240, § 1(1), inserted “or of Mexican border service” after “veteran of any war”.
 
-Subsec. (c). Pub. L. 87–240, § 1(2), added subsec. (c).
+Subsec. (c). Pub. L. 87–240, § 1(2), added subsec. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -165,11 +165,11 @@ Amendment by Pub. L. 107–330 applicable with respect to deaths occurring on or
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–261, div. A, title X, § 1073(b), Oct. 17, 1998, 112 Stat. 2138, provided that: “Subsection (g) of section 2301 of title 38, United States Code, as added by subsection (a), shall apply to flags procured by the Secretary of Veterans Affairs for the purposes of section 2301 of title 38, United States Code, after the end of the 30-day period beginning on the date of the enactment of this Act [Oct. 17, 1998].”
+Pub. L. 105–261, div. A, title X, § 1073(b), Oct. 17, 1998, 112 Stat. 2138, provided that: “Subsection (g) of section 2301 of title 38, United States Code, as added by subsection (a), shall apply to flags procured by the Secretary of Veterans Affairs for the purposes of section 2301 of title 38, United States Code, after the end of the 30-day period beginning on the date of the enactment of this Act [Oct. 17, 1998].”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–306, title IV, § 402(b), Oct. 14, 1982, 96 Stat. 1443, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to burials after September 30, 1982.”
+Pub. L. 97–306, title IV, § 402(b), Oct. 14, 1982, 96 Stat. 1443, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to burials after September 30, 1982.”
 
 **Effective Date of 1970 Amendment**
 
@@ -179,9 +179,9 @@ Amendment by Pub. L. 91–588 effective Jan. 1, 1971, see section 10(a) of Pub. 
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
-## [§ 2302. Repealed. Pub. L. 116–315, title II, § 2202(a)(2), Jan. 5, 2021, 134 Stat. 4984]
+## [§ 2302. Repealed. Pub. L. 116–315, title II, § 2202(a)(2), Jan. 5, 2021, 134 Stat. 4984]
 
-Section, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, § 902; Pub. L. 88–359, July 7, 1964, 78 Stat. 296; Pub. L. 89–360, Mar. 7, 1966, 80 Stat. 29; Pub. L. 95–476, title II, § 203(b), Oct. 18, 1978, 92 Stat. 1506; Pub. L. 95–479, title III, § 303(a), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–35, title XX, § 2001(a)(1), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–306, title IV, § 403[(a)], Oct. 14, 1982, 96 Stat. 1443; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2302, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–260, title I, § 104(b)(1), Jan. 10, 2013, 126 Stat. 2420, authorized funeral expenses for a deceased veteran.
+Section, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, § 902; Pub. L. 88–359, July 7, 1964, 78 Stat. 296; Pub. L. 89–360, Mar. 7, 1966, 80 Stat. 29; Pub. L. 95–476, title II, § 203(b), Oct. 18, 1978, 92 Stat. 1506; Pub. L. 95–479, title III, § 303(a), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–35, title XX, § 2001(a)(1), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–306, title IV, § 403[(a)], Oct. 14, 1982, 96 Stat. 1443; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2302, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–260, title I, § 104(b)(1), Jan. 10, 2013, 126 Stat. 2420, authorized funeral expenses for a deceased veteran.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -189,7 +189,7 @@ Section, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, § 902; Pub. L. 88–
 
 Repeal of section applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, see section 2202(d) of Pub. L. 116–315, set out as an Effective Date of 2021 Amendment note under section 113 of this title.
 
-## § 2303. Death from non-service-connected disability; plot allowance
+## § 2303. Death from non-service-connected disability; plot allowance
 
 **(a)**
 
@@ -239,7 +239,7 @@ Repeal of section applicable to deaths that occur on or after the date that is t
 
 **(ii)** on trust land owned by, or held in trust for, a tribal organization.1
 
-<sup>1</sup>  So in original. The period probably should be “; and”.
+<sup>1</sup> So in original. The period probably should be “; and”.
 
 **(2)** if such veteran is eligible for a burial allowance under subsection (a) of this section, or was discharged from the active military, naval, air, or space service for a disability incurred or aggravated in line of duty, and such veteran is buried in a cemetery, or a section of a cemetery, other than as described in clause (1) of this subsection, the Secretary shall pay a sum not exceeding $700 (as increased from time to time under subsection (c)) as a plot or interment allowance to such person as the Secretary prescribes, except that if any part of the plot or interment costs of a burial to which this clause applies has been paid or assumed by a State, an agency or political subdivision of a State, tribal organization, or a former employer of the deceased veteran, no claim for such allowance shall be allowed for more than the difference between the entire amount of the expenses incurred and the amount paid or assumed by any or all of the foregoing entities.
 
@@ -253,27 +253,27 @@ Repeal of section applicable to deaths that occur on or after the date that is t
 
 **(e)** In this section, the terms “tribal organization” and “trust land” have the meanings given those terms in section 3765 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1170, § 903; Pub. L. 86–70, § 29(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, § 25(b), July 12, 1960, 74 Stat. 418; Pub. L. 87–99, July 21, 1961, 75 Stat. 218; Pub. L. 89–358, § 4(i), Mar. 3, 1966, 80 Stat. 24; Pub. L. 93–43, § 5(a)(1), June 18, 1973, 87 Stat. 80; Pub. L. 94–581, title II, § 204, Oct. 21, 1976, 90 Stat. 2856; Pub. L. 95–476, title II, § 202(a), Oct. 18, 1978, 92 Stat. 1503; Pub. L. 95–479, title III, § 303(a), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–35, title XX, § 2001(b), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–306, title IV, § 404(a), Oct. 14, 1982, 96 Stat. 1443; Pub. L. 99–272, title XIX, § 19012(c)(4), Apr. 7, 1986, 100 Stat. 382; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, § 8042(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered § 2303 and amended Pub. L. 102–83, §§ 4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title II, § 212, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title IV, § 401(a), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 106–419, title III, § 333(a), Nov. 1, 2000, 114 Stat. 1856; Pub. L. 107–103, title V, § 501(b)(1), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title V, § 501(a), Dec. 16, 2003, 117 Stat. 2666; Pub. L. 111–275, title V, § 501(a)–(c), Oct. 13, 2010, 124 Stat. 2881; Pub. L. 114–58, title VI, § 601(13), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–182, title I, § 144(a)(1)(C), June 6, 2018, 132 Stat. 1430; Pub. L. 116–283, div. A, title IX, § 926(a)(37), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, § 2202(a)(1), (3), Jan. 5, 2021, 134 Stat. 4984; Pub. L. 117–103, div. CC, § 102(c), Mar. 15, 2022, 136 Stat. 1110.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1170, § 903; Pub. L. 86–70, § 29(a), June 25, 1959, 73 Stat. 148; Pub. L. 86–624, § 25(b), July 12, 1960, 74 Stat. 418; Pub. L. 87–99, July 21, 1961, 75 Stat. 218; Pub. L. 89–358, § 4(i), Mar. 3, 1966, 80 Stat. 24; Pub. L. 93–43, § 5(a)(1), June 18, 1973, 87 Stat. 80; Pub. L. 94–581, title II, § 204, Oct. 21, 1976, 90 Stat. 2856; Pub. L. 95–476, title II, § 202(a), Oct. 18, 1978, 92 Stat. 1503; Pub. L. 95–479, title III, § 303(a), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–35, title XX, § 2001(b), Aug. 13, 1981, 95 Stat. 781; Pub. L. 97–306, title IV, § 404(a), Oct. 14, 1982, 96 Stat. 1443; Pub. L. 99–272, title XIX, § 19012(c)(4), Apr. 7, 1986, 100 Stat. 382; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 101–508, title VIII, § 8042(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered § 2303 and amended Pub. L. 102–83, §§ 4(a)(3), (4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 104–275, title II, § 212, Oct. 9, 1996, 110 Stat. 3330; Pub. L. 105–114, title IV, § 401(a), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 106–419, title III, § 333(a), Nov. 1, 2000, 114 Stat. 1856; Pub. L. 107–103, title V, § 501(b)(1), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title V, § 501(a), Dec. 16, 2003, 117 Stat. 2666; Pub. L. 111–275, title V, § 501(a)–(c), Oct. 13, 2010, 124 Stat. 2881; Pub. L. 114–58, title VI, § 601(13), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–182, title I, § 144(a)(1)(C), June 6, 2018, 132 Stat. 1430; Pub. L. 116–283, div. A, title IX, § 926(a)(37), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, § 2202(a)(1), (3), Jan. 5, 2021, 134 Stat. 4984; Pub. L. 117–103, div. CC, § 102(c), Mar. 15, 2022, 136 Stat. 1110.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b) of section 2302 of this title, which was transferred to subsec. (d) of this section by Pub. L. 116–315, § 2201(a), and amended by Pub. L. 116–315, § 2202(a)(3)(B)(iv), was based on Pub. L. 85–857, § 902, Sept. 2, 1958, 72 Stat. 1169; Pub. L. 88–359, July 7, 1964, 78 Stat. 296; Pub. L. 95–476, title II, § 203(b)(3), Oct. 18, 1978, 92 Stat. 1506; renumbered § 2302, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.
+The text of subsec. (b) of section 2302 of this title, which was transferred to subsec. (d) of this section by Pub. L. 116–315, § 2201(a), and amended by Pub. L. 116–315, § 2202(a)(3)(B)(iv), was based on Pub. L. 85–857, § 902, Sept. 2, 1958, 72 Stat. 1169; Pub. L. 88–359, July 7, 1964, 78 Stat. 296; Pub. L. 95–476, title II, § 203(b)(3), Oct. 18, 1978, 92 Stat. 1506; renumbered § 2302, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.
 
 **Amendments**
 
-2022—Subsec. (b)(1). Pub. L. 117–103, § 102(c)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “if such veteran is buried (without charge for the cost of a plot or interment) in a cemetery, or a section of a cemetery, that (A) is used solely for the interment of persons who are (i) eligible for burial in a national cemetery, and (ii) members of a reserve component of the Armed Forces not otherwise eligible for such burial or former members of such a reserve component not otherwise eligible for such burial who are discharged or released from service under conditions other than dishonorable, and (B) is owned by a State or by an agency or political subdivision of a State, the Secretary shall pay to such State, agency, or political subdivision the sum of $700 (as increased from time to time under subsection (c)) as a plot or interment allowance for such veteran; and”.
+2022—Subsec. (b)(1). Pub. L. 117–103, § 102(c)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “if such veteran is buried (without charge for the cost of a plot or interment) in a cemetery, or a section of a cemetery, that (A) is used solely for the interment of persons who are (i) eligible for burial in a national cemetery, and (ii) members of a reserve component of the Armed Forces not otherwise eligible for such burial or former members of such a reserve component not otherwise eligible for such burial who are discharged or released from service under conditions other than dishonorable, and (B) is owned by a State or by an agency or political subdivision of a State, the Secretary shall pay to such State, agency, or political subdivision the sum of $700 (as increased from time to time under subsection (c)) as a plot or interment allowance for such veteran; and”.
 
-Subsec. (b)(2). Pub. L. 117–103, § 102(c)(1)(B), inserted “tribal organization,” after “of a State,”.
+Subsec. (b)(2). Pub. L. 117–103, § 102(c)(1)(B), inserted “tribal organization,” after “of a State,”.
 
-Subsec. (e). Pub. L. 117–103, § 102(c)(2), added subsec. (e).
+Subsec. (e). Pub. L. 117–103, § 102(c)(2), added subsec. (e).
 
-2021—Pub. L. 116–315, § 2202(a)(3)(A), substituted “Death from non-service-connected disability” for “Death in Department facility” in section catchline.
+2021—Pub. L. 116–315, § 2202(a)(3)(A), substituted “Death from non-service-connected disability” for “Death in Department facility” in section catchline.
 
-Subsec. (a)(1). Pub. L. 116–315, § 2202(a)(3)(B)(i), substituted “a veteran described in paragraph (2) dies” for “a veteran dies in a facility described in paragraph (2)”.
+Subsec. (a)(1). Pub. L. 116–315, § 2202(a)(3)(B)(i), substituted “a veteran described in paragraph (2) dies” for “a veteran dies in a facility described in paragraph (2)”.
 
-Subsec. (a)(2). Pub. L. 116–315, § 2202(a)(3)(B)(ii), added par. (2) and struck out former par. (2) which read as follows: “A facility described in this paragraph is—
+Subsec. (a)(2). Pub. L. 116–315, § 2202(a)(3)(B)(ii), added par. (2) and struck out former par. (2) which read as follows: “A facility described in this paragraph is—
 
 “(A) a facility of the Department (as defined in section 1701(3) of this title) to which the deceased was properly admitted for hospital, nursing home, or domiciliary care under section 1710 or 1711(a) of this title; or
 
@@ -285,29 +285,29 @@ Subsec. (a)(2). Pub. L. 116–315, § 2202(a)(3)(B)(ii), added par. (2) and st
 
 “(iii) nursing home care for which payments are made under section 1741 of this title.”
 
-Subsec. (b). Pub. L. 116–315, § 2202(a)(3)(B)(iii)(I), struck out “section 2302 of this title and” before “subsection (a) of this section”.
+Subsec. (b). Pub. L. 116–315, § 2202(a)(3)(B)(iii)(I), struck out “section 2302 of this title and” before “subsection (a) of this section”.
 
-Subsec. (b)(2). Pub. L. 116–315, § 2202(a)(3)(B)(iii)(II), struck out “under section 2302 of this title or” before “under subsection (a) of this section”.
+Subsec. (b)(2). Pub. L. 116–315, § 2202(a)(3)(B)(iii)(II), struck out “under section 2302 of this title or” before “under subsection (a) of this section”.
 
 Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-Subsec. (d). Pub. L. 116–315, § 2202(3)(B)(iv), substituted “With respect to a deceased veteran described in subparagraph (B) or (C) of subsection (a)(2), except as” for “Except as”.
+Subsec. (d). Pub. L. 116–315, § 2202(3)(B)(iv), substituted “With respect to a deceased veteran described in subparagraph (B) or (C) of subsection (a)(2), except as” for “Except as”.
 
-Pub. L. 116–315, § 2202(a)(1), transferred subsec. (b) of section 2302 of this title to subsec. (d) of this section.
+Pub. L. 116–315, § 2202(a)(1), transferred subsec. (b) of section 2302 of this title to subsec. (d) of this section.
 
 2018—Subsec. (a)(2)(B)(i). Pub. L. 115–182 substituted “with sections 1703A, 8111, and 8153” for “with section 1703”.
 
 2015—Subsec. (c). Pub. L. 114–58 substituted “interment” for “internment” in introductory provisions.
 
-2010—Subsec. (a)(1)(A). Pub. L. 111–275, § 501(a), substituted “$700 (as increased from time to time under subsection (c))” for “$300”.
+2010—Subsec. (a)(1)(A). Pub. L. 111–275, § 501(a), substituted “$700 (as increased from time to time under subsection (c))” for “$300”.
 
-Subsec. (b). Pub. L. 111–275, § 501(b), substituted “$700 (as increased from time to time under subsection (c))” for “$300” in pars. (1) and (2).
+Subsec. (b). Pub. L. 111–275, § 501(b), substituted “$700 (as increased from time to time under subsection (c))” for “$300” in pars. (1) and (2).
 
-Subsec. (c). Pub. L. 111–275, § 501(c), added subsec. (c).
+Subsec. (c). Pub. L. 111–275, § 501(c), added subsec. (c).
 
-2003—Subsec. (b). Pub. L. 108–183, § 501(a)(1), in introductory provisions, substituted “burial in a national cemetery under section 2402 of this title” for “a burial allowance under such section 2302, or under such subsection, who was discharged from the active military, naval, or air service for a disability incurred or aggravated in line of duty, or who is a veteran of any war”.
+2003—Subsec. (b). Pub. L. 108–183, § 501(a)(1), in introductory provisions, substituted “burial in a national cemetery under section 2402 of this title” for “a burial allowance under such section 2302, or under such subsection, who was discharged from the active military, naval, or air service for a disability incurred or aggravated in line of duty, or who is a veteran of any war”.
 
-Subsec. (b)(2). Pub. L. 108–183, § 501(a)(2), substituted “is eligible for a burial allowance under section 2302 of this title or under subsection (a) of this section, or was discharged from the active military, naval, or air service for a disability incurred or aggravated in line of duty, and such veteran” for “(other than a veteran whose eligibility for benefits under this subsection is based on being a veteran of any war)”.
+Subsec. (b)(2). Pub. L. 108–183, § 501(a)(2), substituted “is eligible for a burial allowance under section 2302 of this title or under subsection (a) of this section, or was discharged from the active military, naval, or air service for a disability incurred or aggravated in line of duty, and such veteran” for “(other than a veteran whose eligibility for benefits under this subsection is based on being a veteran of any war)”.
 
 2001—Subsec. (b)(1), (2). Pub. L. 107–103 substituted “$300” for “$150”.
 
@@ -321,15 +321,15 @@ Subsec. (b)(2). Pub. L. 108–183, § 501(a)(2), substituted “is eligible fo
 
 “(2) shall, when such a death occurs in a State, transport the body to the place of burial in the same or any other State.”
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 903 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 903 of this title as this section.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in section catchline.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in section catchline.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1701(4)” for “601(4)”, “1710 or 1711(a)” for “610 or 611(a)”, “1703” for “603”, and “1720” for “620” in introductory provisions.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “1701(4)” for “601(4)”, “1710 or 1711(a)” for “610 or 611(a)”, “1703” for “603”, and “1720” for “620” in introductory provisions.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions and in par. (1).
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in introductory provisions and in par. (1).
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “2302” for “902” in two places in introductory provisions.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “2302” for “902” in two places in introductory provisions.
 
 1990—Subsec. (b)(2). Pub. L. 101–508 inserted “(other than a veteran whose eligibility for benefits under this subsection is based on being a veteran of any war)” after “if such veteran”.
 
@@ -345,7 +345,7 @@ Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “2302” for “902�
 
 Subsec. (b). Pub. L. 95–476 substituted provisions requiring Administrator to pay an interment allowance of $150 to a State or an agency or subdivision of a State, for burial of an eligible veteran in a cemetery, reserved for burial of persons eligible for burial in a national cemetery, owned by the State or such agency or political subdivision, or to any person prescribed by Administrator for burial of an eligible veteran in a cemetery other than one so reserved for provisions authorizing Administrator in his discretion to pay up to $150 as an interment allowance to any person he prescribed.
 
-1976—Subsec. (a). Pub. L. 94–581 inserted “, nursing home,” after “hospital” and substituted “611(a)” for “611” in provisions preceding par. (1).
+1976—Subsec. (a). Pub. L. 94–581 inserted “, nursing home,” after “hospital” and substituted “611(a)” for “611” in provisions preceding par. (1).
 
 1973—Pub. L. 93–43, in revising text, substituted reference to section “611” for “611(a)” in opening text of subsec. (a), designated existing provisions of subsec. (a) as first part of par. (1) of such subsec. (a), incorporated provisions of former subsec. (c) as second part of par. (1) of subsec. (a), redesignated former subsec. (b) as par. (2) of subsec. (a), and added subsec. (b).
 
@@ -369,7 +369,7 @@ Amendment by Pub. L. 115–182 effective on the date described in section 101(b)
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title V, § 501(d), Oct. 13, 2010, 124 Stat. 2881, provided that:
+Pub. L. 111–275, title V, § 501(d), Oct. 13, 2010, 124 Stat. 2881, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply with respect to deaths occurring on or after October 1, 2011.
 
@@ -377,25 +377,25 @@ Pub. L. 111–275, title V, § 501(d), Oct. 13, 2010, 124 Stat. 2881, provided
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–103, title V, § 501(b)(2), Dec. 27, 2001, 115 Stat. 994, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to deaths occurring on or after December 1, 2001.”
+Pub. L. 107–103, title V, § 501(b)(2), Dec. 27, 2001, 115 Stat. 994, provided that: “The amendments made by paragraph (1) [amending this section] shall apply to deaths occurring on or after December 1, 2001.”
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–419, title III, § 333(b), Nov. 1, 2000, 114 Stat. 1857, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the burial of persons dying on or after the date of the enactment of this Act [Nov. 1, 2000].”
+Pub. L. 106–419, title III, § 333(b), Nov. 1, 2000, 114 Stat. 1857, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the burial of persons dying on or after the date of the enactment of this Act [Nov. 1, 2000].”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title VIII, § 8042(b), Nov. 5, 1990, 104 Stat. 1388–349, provided that: “This section [amending this section] shall apply to deaths occurring on or after November 1, 1990.”
+Pub. L. 101–508, title VIII, § 8042(b), Nov. 5, 1990, 104 Stat. 1388–349, provided that: “This section [amending this section] shall apply to deaths occurring on or after November 1, 1990.”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–306, title IV, § 404(b), Oct. 14, 1982, 96 Stat. 1443, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to deaths occurring after September 30, 1982.”
+Pub. L. 97–306, title IV, § 404(b), Oct. 14, 1982, 96 Stat. 1443, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to deaths occurring after September 30, 1982.”
 
 **Effective Date of 1978 Amendments**
 
 Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub. L. 95–479, set out as a note under section 1114 of this title.
 
-Pub. L. 95–476, title II, § 205, Oct. 18, 1978, 92 Stat. 1506, provided that:
+Pub. L. 95–476, title II, § 205, Oct. 18, 1978, 92 Stat. 1506, provided that:
 
 > **“(a)** Except as provided in subsection (b), the amendments made by this title [enacting section 1008 [now 2408] of this title and amending sections 902, 906, and 1798 [now 2302, 2306, and 3698] of this title] shall take effect on the date of the enactment of this Act [Oct. 18, 1978].
 
@@ -407,11 +407,11 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 **Effective Date of 1973 Amendment**
 
-Pub. L. 93–43, § 10(b), June 18, 1973, 87 Stat. 88, provided that: “Clause (1) of section 5(a) [amending this section] shall take effect on the first day of the second calendar month following the date of enactment of this Act [June 18, 1973].”
+Pub. L. 93–43, § 10(b), June 18, 1973, 87 Stat. 88, provided that: “Clause (1) of section 5(a) [amending this section] shall take effect on the first day of the second calendar month following the date of enactment of this Act [June 18, 1973].”
 
 **Burial Allowance for Certain Veterans Who Die at Home While in Receipt of Hospice Care Furnished by Department of Veterans Affairs**
 
-Pub. L. 118–210, title III, § 301, Jan. 2, 2025, 138 Stat. 2788, provided that:
+Pub. L. 118–210, title III, § 301, Jan. 2, 2025, 138 Stat. 2788, provided that:
 
 > **“(a) In General.—** The Secretary of Veterans Affairs shall treat a veteran described in subsection (b) as a veteran described in subparagraph (A) of section 2303(a)(2) of title 38, United States Code.
 
@@ -425,7 +425,7 @@ Pub. L. 118–210, title III, § 301, Jan. 2, 2025, 138 Stat. 2788, provided t
 
 **Plot and Interment Allowances for Veterans Buried Before March 15, 2022, in Cemeteries on Trust Land Owned by, or Held in Trust for, Tribal Organizations**
 
-Pub. L. 117–355, § 2, Jan. 5, 2023, 136 Stat. 6278, provided that:
+Pub. L. 117–355, § 2, Jan. 5, 2023, 136 Stat. 6278, provided that:
 
 > “The Secretary of Veterans Affairs shall pay a plot or interment allowance under paragraph (1) of section 2303(b) of title 38, United States Code, for a veteran if—
 
@@ -437,11 +437,11 @@ Pub. L. 117–355, § 2, Jan. 5, 2023, 136 Stat. 6278, provided that:
 
 > **“(4)** the burial of the veteran otherwise meets the requirements under paragraph (1) of such section.”
 
-## § 2304. Claims for reimbursement
+## § 2304. Claims for reimbursement
 
 Applications for payments under section 2303 of this title regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section must be filed within two years after the burial of the veteran. If the burial allowance was not payable at the death of the veteran because of the nature of the veteran’s discharge from the service, but after the veteran’s death the veteran’s discharge has been corrected by competent authority so as to reflect a discharge from the service under conditions other than dishonorable, then the burial allowance may be paid if a claim is filed within two years from the date of correction of the discharge. If a claimant’s application is incomplete at the time it is originally submitted, the Secretary shall notify the applicant of the evidence necessary to complete the application. If such evidence is not received within one year from the date of such notification, no allowance may be paid.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1170, § 904; Pub. L. 88–3, Apr. 2, 1963, 77 Stat. 4; Pub. L. 91–24, § 7, June 11, 1969, 83 Stat. 34; Pub. L. 99–576, title VII, § 701(51), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2304 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–315, title II, § 2202(b)(1)(A), Jan. 5, 2021, 134 Stat. 4985.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1170, § 904; Pub. L. 88–3, Apr. 2, 1963, 77 Stat. 4; Pub. L. 91–24, § 7, June 11, 1969, 83 Stat. 34; Pub. L. 99–576, title VII, § 701(51), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2304 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 116–315, title II, § 2202(b)(1)(A), Jan. 5, 2021, 134 Stat. 4985.)
 
 **Editorial Notes**
 
@@ -465,11 +465,11 @@ Applications for payments under section 2303 of this title regarding veterans de
 
 Amendment by Pub. L. 116–315 applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, see section 2202(d) of Pub. L. 116–315, set out as a note under section 113 of this title.
 
-## § 2305. Persons eligible under prior law
+## § 2305. Persons eligible under prior law
 
 The death of any person who had a status which would, under the laws in effect on December 31, 1957, afford entitlement to the burial benefits and other benefits provided for in this chapter, but who did not meet the service requirements contained in this chapter, shall afford entitlement to such benefits, notwithstanding the failure of such person to meet such service requirements.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1170, § 905; renumbered § 2305, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1170, § 905; renumbered § 2305, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406.)
 
 **Editorial Notes**
 
@@ -477,7 +477,7 @@ The death of any person who had a status which would, under the laws in effect o
 
 1991—Pub. L. 102–83 renumbered section 905 of this title as this section.
 
-## § 2306. Headstones, markers, and burial receptacles
+## § 2306. Headstones, markers, and burial receptacles
 
 **(a)** The Secretary shall furnish, when requested, appropriate Government headstones or markers at the expense of the United States for the unmarked graves of the following:
 
@@ -659,7 +659,7 @@ The death of any person who had a status which would, under the laws in effect o
 
 **(k)** In this section, the term “tribal organization” has the meaning given such term in section 3765 of this title.
 
-(Added Pub. L. 93–43, § 5(a)(2), June 18, 1973, 87 Stat. 80, § 906; amended Pub. L. 95–476, title II, § 203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, § 303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, § 502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, § 603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, § 344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, § 313(b)(1), (3), title V, §§ 501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508, title VIII, § 8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered § 2306 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, § 213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332; Pub. L. 105–368, title IV, §§ 401(a), (b), 403(c)(2), Nov. 11, 1998, 112 Stat. 3334, 3335, 3338; Pub. L. 107–103, title V, § 502(a)–(c), Dec. 27, 2001, 115 Stat. 994, 995; Pub. L. 107–330, title II, § 201(c), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 109–444, § 2(f), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title IV, §§ 401(a), (b), 402, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3429, 3468; Pub. L. 110–157, title II, §§ 201, 203(a), Dec. 26, 2007, 121 Stat. 1832, 1833; Pub. L. 110–389, title VIII, § 810(a), Oct. 10, 2008, 122 Stat. 4190; Pub. L. 111–275, title V, § 502(d)(3), Oct. 13, 2010, 124 Stat. 2883; Pub. L. 112–260, title I, § 101(a), Jan. 10, 2013, 126 Stat. 2418; Pub. L. 114–273, § 2, Dec. 14, 2016, 130 Stat. 1400; Pub. L. 114–315, title III, § 301, Dec. 16, 2016, 130 Stat. 1550; Pub. L. 115–136, § 1, Mar. 16, 2018, 132 Stat. 343; Pub. L. 115–184, § 2, June 15, 2018, 132 Stat. 1483; Pub. L. 115–232, div. A, title VIII, § 809(n)(2), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 115–407, title II, §§ 201, 202(a), Dec. 31, 2018, 132 Stat. 5372; Pub. L. 116–283, div. A, title IX, § 926(a)(38), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, §§ 2203(a), 2204(a), 2207(a), Jan. 5, 2021, 134 Stat. 4985, 4986, 4988; Pub. L. 118–83, div. B, title III, § 311, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 118–134, § 2, Nov. 25, 2024, 138 Stat. 1646; Pub. L. 118–271, § 2, Jan. 4, 2025, 138 Stat. 2991.)
+(Added Pub. L. 93–43, § 5(a)(2), June 18, 1973, 87 Stat. 80, § 906; amended Pub. L. 95–476, title II, § 203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, § 303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, § 502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, § 603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, § 344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, § 313(b)(1), (3), title V, §§ 501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508, title VIII, § 8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered § 2306 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, § 11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, § 213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332; Pub. L. 105–368, title IV, §§ 401(a), (b), 403(c)(2), Nov. 11, 1998, 112 Stat. 3334, 3335, 3338; Pub. L. 107–103, title V, § 502(a)–(c), Dec. 27, 2001, 115 Stat. 994, 995; Pub. L. 107–330, title II, § 201(c), Dec. 6, 2002, 116 Stat. 2823; Pub. L. 109–444, § 2(f), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title IV, §§ 401(a), (b), 402, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3429, 3468; Pub. L. 110–157, title II, §§ 201, 203(a), Dec. 26, 2007, 121 Stat. 1832, 1833; Pub. L. 110–389, title VIII, § 810(a), Oct. 10, 2008, 122 Stat. 4190; Pub. L. 111–275, title V, § 502(d)(3), Oct. 13, 2010, 124 Stat. 2883; Pub. L. 112–260, title I, § 101(a), Jan. 10, 2013, 126 Stat. 2418; Pub. L. 114–273, § 2, Dec. 14, 2016, 130 Stat. 1400; Pub. L. 114–315, title III, § 301, Dec. 16, 2016, 130 Stat. 1550; Pub. L. 115–136, § 1, Mar. 16, 2018, 132 Stat. 343; Pub. L. 115–184, § 2, June 15, 2018, 132 Stat. 1483; Pub. L. 115–232, div. A, title VIII, § 809(n)(2), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 115–407, title II, §§ 201, 202(a), Dec. 31, 2018, 132 Stat. 5372; Pub. L. 116–283, div. A, title IX, § 926(a)(38), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title II, §§ 2203(a), 2204(a), 2207(a), Jan. 5, 2021, 134 Stat. 4985, 4986, 4988; Pub. L. 118–83, div. B, title III, § 311, Sept. 26, 2024, 138 Stat. 1540; Pub. L. 118–134, § 2, Nov. 25, 2024, 138 Stat. 1646; Pub. L. 118–271, § 2, Jan. 4, 2025, 138 Stat. 2991.)
 
 **Editorial Notes**
 
@@ -669,103 +669,103 @@ The death of any person who had a status which would, under the laws in effect o
 
 2024—Subsec. (b)(2)(B), (C). Pub. L. 118–83 substituted “September 30, 2025” for “October 1, 2024”.
 
-Subsec. (d)(5)(C)(i). Pub. L. 118–134, § 2(a)(1), (3), redesignated cl. (ii) as (i) and struck out former cl. (i) which read as follows: “served in the Armed Forces on or after April 6, 1917;”.
+Subsec. (d)(5)(C)(i). Pub. L. 118–134, § 2(a)(1), (3), redesignated cl. (ii) as (i) and struck out former cl. (i) which read as follows: “served in the Armed Forces on or after April 6, 1917;”.
 
-Subsec. (d)(5)(C)(ii). Pub. L. 118–134, § 2(a)(3), (b), redesignated cl. (iii) as (ii) and substituted “section 2732” for “section 491”. Former cl. (ii) redesignated (i).
+Subsec. (d)(5)(C)(ii). Pub. L. 118–134, § 2(a)(3), (b), redesignated cl. (iii) as (ii) and substituted “section 2732” for “section 491”. Former cl. (ii) redesignated (i).
 
-Pub. L. 118–134, § 2(a)(2), inserted “(except that subparagraph (B)(i) of such paragraph shall not apply)” after “paragraph (4)”.
+Pub. L. 118–134, § 2(a)(2), inserted “(except that subparagraph (B)(i) of such paragraph shall not apply)” after “paragraph (4)”.
 
-Subsec. (d)(5)(C)(iii). Pub. L. 118–134, § 2(a)(3), redesignated cl. (iii) as (ii).
+Subsec. (d)(5)(C)(iii). Pub. L. 118–134, § 2(a)(3), redesignated cl. (iii) as (ii).
 
-Subsec. (d)(5)(D). Pub. L. 118–134, § 2(b), substituted “section 2732” for “section 491”.
+Subsec. (d)(5)(D). Pub. L. 118–134, § 2(b), substituted “section 2732” for “section 491”.
 
 2021—Subsec. (b)(4)(A). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-Subsec. (e)(1)(A). Pub. L. 116–315, § 2203(a)(1)(A), substituted “may” for “shall” and inserted “, or in a cemetery that is the subject of a grant to a State or a tribal organization under section 2408 of this title,” after “National Cemetery Administration”.
+Subsec. (e)(1)(A). Pub. L. 116–315, § 2203(a)(1)(A), substituted “may” for “shall” and inserted “, or in a cemetery that is the subject of a grant to a State or a tribal organization under section 2408 of this title,” after “National Cemetery Administration”.
 
-Subsec. (e)(1)(C). Pub. L. 116–315, § 2203(a)(1)(B), substituted “may” for “shall”.
+Subsec. (e)(1)(C). Pub. L. 116–315, § 2203(a)(1)(B), substituted “may” for “shall”.
 
-Subsec. (e)(2). Pub. L. 116–315, § 2203(a)(2), added par. (2) and struck out former par. (2) which read as follows: “The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs, the Secretary of the Army, or the Secretary of the Interior, respectively.”
+Subsec. (e)(2). Pub. L. 116–315, § 2203(a)(2), added par. (2) and struck out former par. (2) which read as follows: “The use of outer burial receptacles in a cemetery under the control of the National Cemetery Administration, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service shall be in accordance with regulations or procedures approved by the Secretary of Veterans Affairs, the Secretary of the Army, or the Secretary of the Interior, respectively.”
 
 Subsec. (g)(2). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
-Subsec. (h). Pub. L. 116–315, § 2207(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 116–315, § 2207(a)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Subsecs. (i), (j). Pub. L. 116–315, § 2207(a)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively. Former subsec. (j) redesignated (k).
+Subsecs. (i), (j). Pub. L. 116–315, § 2207(a)(1), redesignated subsecs. (h) and (i) as (i) and (j), respectively. Former subsec. (j) redesignated (k).
 
-Pub. L. 116–315, § 2204(a), added subsec. (i) and redesignated former subsec. (i) as (j).
+Pub. L. 116–315, § 2204(a), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-Subsec. (k). Pub. L. 116–315, § 2207(a)(1), redesignated subsec. (j) as (k).
+Subsec. (k). Pub. L. 116–315, § 2207(a)(1), redesignated subsec. (j) as (k).
 
-2018—Subsec. (a)(4). Pub. L. 115–407, § 201(1), inserted “or a veterans’ cemetery owned by a tribal organization or on land owned by or held in trust for a tribal organization” after “State”.
+2018—Subsec. (a)(4). Pub. L. 115–407, § 201(1), inserted “or a veterans’ cemetery owned by a tribal organization or on land owned by or held in trust for a tribal organization” after “State”.
 
-Subsec. (b)(1). Pub. L. 115–407, § 201(2), inserted “, a veterans’ cemetery of a tribal organization or on land owned by or held in trust for a tribal organization” after “owned by a State”.
+Subsec. (b)(1). Pub. L. 115–407, § 201(2), inserted “, a veterans’ cemetery of a tribal organization or on land owned by or held in trust for a tribal organization” after “owned by a State”.
 
-Subsec. (b)(2)(B). Pub. L. 115–407, § 202(a)(1), inserted “, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before October 1, 2024” after “veteran”.
+Subsec. (b)(2)(B). Pub. L. 115–407, § 202(a)(1), inserted “, or the spouse of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the spouse’s death if such death occurs before October 1, 2024” after “veteran”.
 
-Pub. L. 115–136, § 1(1), substituted “An individual who dies on or after November 11, 1998, who is the” for “The”.
+Pub. L. 115–136, § 1(1), substituted “An individual who dies on or after November 11, 1998, who is the” for “The”.
 
-Subsec. (b)(2)(C). Pub. L. 115–407, § 202(a)(2), inserted “, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before October 1, 2024” after “veteran”.
+Subsec. (b)(2)(C). Pub. L. 115–407, § 202(a)(2), inserted “, or the eligible dependent child of a member of the Armed Forces serving on active duty under conditions other than dishonorable, as shown by a statement from a general court-martial convening authority, at the time of the child’s death if such death occurs before October 1, 2024” after “veteran”.
 
-Pub. L. 115–136, § 1(2), substituted “An individual who dies on or after November 11, 1998, who is an” for “An”.
+Pub. L. 115–136, § 1(2), substituted “An individual who dies on or after November 11, 1998, who is an” for “An”.
 
 Subsec. (d)(5)(C)(iii), (D). Pub. L. 115–232 substituted “section 7271, 8291, or 9271 of title 10” for “section 3741, 6241, or 8741 of title 10”.
 
-Subsec. (e)(1). Pub. L. 115–184, § 2(1), designated first sentence as subpar. (A) and second sentence as subpar. (B) and added subpar. (C).
+Subsec. (e)(1). Pub. L. 115–184, § 2(1), designated first sentence as subpar. (A) and second sentence as subpar. (B) and added subpar. (C).
 
-Subsec. (e)(2). Pub. L. 115–184, § 2(2), substituted “, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service” for “or in the Arlington National Cemetery” and “, the Secretary of the Army, or the Secretary of the Interior” for “or Secretary of the Army”.
+Subsec. (e)(2). Pub. L. 115–184, § 2(2), substituted “, in the Arlington National Cemetery, or in a national cemetery administered by the National Park Service” for “or in the Arlington National Cemetery” and “, the Secretary of the Army, or the Secretary of the Interior” for “or Secretary of the Army”.
 
-Subsec. (e)(3)(B)(ii). Pub. L. 115–184, § 2(3), substituted “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a national cemetery administered by the National Park Service” for “or, with respect to Arlington National Cemetery, the Secretary of the Army”.
+Subsec. (e)(3)(B)(ii). Pub. L. 115–184, § 2(3), substituted “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a national cemetery administered by the National Park Service” for “or, with respect to Arlington National Cemetery, the Secretary of the Army”.
 
-Subsec. (e)(4). Pub. L. 115–184, § 2(4), substituted “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a national cemetery administered by the National Park Service” for “or, with respect to Arlington National Cemetery, the Secretary of the Army”.
+Subsec. (e)(4). Pub. L. 115–184, § 2(4), substituted “or the Secretary of the Army with respect to Arlington National Cemetery or the Secretary of the Interior with respect to a national cemetery administered by the National Park Service” for “or, with respect to Arlington National Cemetery, the Secretary of the Army”.
 
-Subsec. (f). Pub. L. 115–407, § 201(3), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), substituted “a covered cemetery” for “a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under section 2408 of this title” in introductory provisions of par. (1), and added par. (2).
+Subsec. (f). Pub. L. 115–407, § 201(3), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), substituted “a covered cemetery” for “a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under section 2408 of this title” in introductory provisions of par. (1), and added par. (2).
 
-Subsec. (i). Pub. L. 115–407, § 201(4), added subsec. (i).
+Subsec. (i). Pub. L. 115–407, § 201(4), added subsec. (i).
 
-2016—Subsec. (d)(4). Pub. L. 114–315, § 301(1), added par. (4) and struck out former par. (4) which read as follows: “In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased’s status as a veteran, to be attached to a headstone or marker furnished at private expense.”
+2016—Subsec. (d)(4). Pub. L. 114–315, § 301(1), added par. (4) and struck out former par. (4) which read as follows: “In lieu of furnishing a headstone or marker under this subsection, the Secretary may furnish, upon request, a medallion or other device of a design determined by the Secretary to signify the deceased’s status as a veteran, to be attached to a headstone or marker furnished at private expense.”
 
-Subsec. (d)(5). Pub. L. 114–315, § 301(2), added par. (5).
+Subsec. (d)(5). Pub. L. 114–315, § 301(2), added par. (5).
 
-Subsec. (f). Pub. L. 114–273, § 2(1) substituted “for burial of a deceased veteran in a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under section 2408 of this title” for “for burial in a national cemetery of a deceased veteran” in introductory provisions.
+Subsec. (f). Pub. L. 114–273, § 2(1) substituted “for burial of a deceased veteran in a national cemetery or in a veterans cemetery of a State or tribal organization for which the Department has provided a grant under section 2408 of this title” for “for burial in a national cemetery of a deceased veteran” in introductory provisions.
 
-Subsec. (f)(2). Pub. L. 114–273, § 2(2), substituted “such burial” for “the burial of the veteran in a national cemetery”.
+Subsec. (f)(2). Pub. L. 114–273, § 2(2), substituted “such burial” for “the burial of the veteran in a national cemetery”.
 
-2013—Subsecs. (f) to (h). Pub. L. 112–260, § 101(a)(1), (2), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
+2013—Subsecs. (f) to (h). Pub. L. 112–260, § 101(a)(1), (2), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-Subsec. (h)(4). Pub. L. 112–260, § 101(a)(3), added par. (4).
+Subsec. (h)(4). Pub. L. 112–260, § 101(a)(3), added par. (4).
 
-2010—Subsec. (a)(2). Pub. L. 111–275, § 502(d)(3)(A), substituted “section 2402(a)(4)” for “section 2402(4)”.
+2010—Subsec. (a)(2). Pub. L. 111–275, § 502(d)(3)(A), substituted “section 2402(a)(4)” for “section 2402(4)”.
 
-Subsec. (a)(4). Pub. L. 111–275, § 502(d)(3)(B), substituted “section 2402(a)(5)” for “section 2402(5)”.
+Subsec. (a)(4). Pub. L. 111–275, § 502(d)(3)(B), substituted “section 2402(a)(5)” for “section 2402(5)”.
 
 2008—Subsec. (b)(4)(B). Pub. L. 110–389 substituted “a surviving spouse who had a subsequent remarriage” for “an unremarried surviving spouse whose subsequent remarriage was terminated by death or divorce”.
 
-2007—Subsec. (d)(3), (4). Pub. L. 110–157, § 203(a), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The authority to furnish a marker under this subsection expires on December 31, 2007.”
+2007—Subsec. (d)(3), (4). Pub. L. 110–157, § 203(a), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The authority to furnish a marker under this subsection expires on December 31, 2007.”
 
-Subsec. (d)(5). Pub. L. 110–157, § 203(a)(2), redesignated par. (5) as (4).
+Subsec. (d)(5). Pub. L. 110–157, § 203(a)(2), redesignated par. (5) as (4).
 
-Pub. L. 110–157, § 201, added par. (5).
+Pub. L. 110–157, § 201, added par. (5).
 
-2006—Subsec. (b)(2)(C). Pub. L. 109–461, § 401(a)(1), added subpar. (C).
+2006—Subsec. (b)(2)(C). Pub. L. 109–461, § 401(a)(1), added subpar. (C).
 
-Subsec. (b)(5). Pub. L. 109–461, § 401(a)(2), added par. (5).
+Subsec. (b)(5). Pub. L. 109–461, § 401(a)(2), added par. (5).
 
-Subsec. (d)(1). Pub. L. 109–461, § 402(b)(1)(A)(ii), (c), in second sentence, inserted “headstone or” before “marker” in four places and “, or, if placement on the grave is impossible or impracticable, as close as possible to the grave within the grounds of the cemetery in which the grave is located” before period at end.
+Subsec. (d)(1). Pub. L. 109–461, § 402(b)(1)(A)(ii), (c), in second sentence, inserted “headstone or” before “marker” in four places and “, or, if placement on the grave is impossible or impracticable, as close as possible to the grave within the grounds of the cemetery in which the grave is located” before period at end.
 
-Pub. L. 109–461, § 402(b)(1)(A)(i), substituted “Government headstone or marker” for “Government marker” in first sentence.
+Pub. L. 109–461, § 402(b)(1)(A)(i), substituted “Government headstone or marker” for “Government marker” in first sentence.
 
-Subsec. (d)(2). Pub. L. 109–461, § 402(b)(1)(B), (d), inserted “headstone or” before “marker” and “or to a receiving agent for delivery to the cemetery” before period at end.
+Subsec. (d)(2). Pub. L. 109–461, § 402(b)(1)(B), (d), inserted “headstone or” before “marker” and “or to a receiving agent for delivery to the cemetery” before period at end.
 
-Subsec. (d)(3). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+Subsec. (d)(3). Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
-Pub. L. 109–461, § 402(a), substituted “December 31, 2007” for “December 31, 2006”.
+Pub. L. 109–461, § 402(a), substituted “December 31, 2007” for “December 31, 2006”.
 
-Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2006”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
+Pub. L. 109–444, which substituted “December 31, 2007” for “December 31, 2006”, was terminated by Pub. L. 109–461, § 1006(b). See Amendment notes above.
 
-Subsec. (d)(4). Pub. L. 109–461, § 402(f), added par. (4).
+Subsec. (d)(4). Pub. L. 109–461, § 402(f), added par. (4).
 
-Pub. L. 109–461, § 402(e), struck out par. (4) which read as follows: “Not later than February 1, 2006, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the use of the authority under this subsection. The report shall include the following:
+Pub. L. 109–461, § 402(e), struck out par. (4) which read as follows: “Not later than February 1, 2006, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the use of the authority under this subsection. The report shall include the following:
 
 “(A) The rate of use of the benefit under this subsection, shown by fiscal year.
 
@@ -773,19 +773,19 @@ Pub. L. 109–461, § 402(e), struck out par. (4) which read as follows: “No
 
 “(C) The Secretary’s recommendation for extension or repeal of the expiration date specified in paragraph (3).”
 
-Subsec. (f). Pub. L. 109–461, § 401(b), inserted “or eligible dependent child” after “surviving spouse” in pars. (1) and (2).
+Subsec. (f). Pub. L. 109–461, § 401(b), inserted “or eligible dependent child” after “surviving spouse” in pars. (1) and (2).
 
-Subsec. (g)(3). Pub. L. 109–461, § 402(b)(2), inserted “headstone or” before “marker”.
+Subsec. (g)(3). Pub. L. 109–461, § 402(b)(2), inserted “headstone or” before “marker”.
 
 2002—Subsec. (g). Pub. L. 107–330 added subsec. (g).
 
-2001—Subsec. (a)(5). Pub. L. 107–103, § 502(c), substituted “chapter 1223” for “chapter 67”.
+2001—Subsec. (a)(5). Pub. L. 107–103, § 502(c), substituted “chapter 1223” for “chapter 67”.
 
-Subsec. (c). Pub. L. 107–103, § 502(b), substituted “subsection (a), (b), or (d)” for “subsection (a) or (b)”.
+Subsec. (c). Pub. L. 107–103, § 502(b), substituted “subsection (a), (b), or (d)” for “subsection (a) or (b)”.
 
-Subsecs. (d) to (f). Pub. L. 107–103, § 502(a), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 107–103, § 502(a), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-1998—Subsec. (b). Pub. L. 105–368, § 401(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary shall furnish, when requested, an appropriate memorial headstone or marker for the purpose of commemorating any veteran—
+1998—Subsec. (b). Pub. L. 105–368, § 401(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary shall furnish, when requested, an appropriate memorial headstone or marker for the purpose of commemorating any veteran—
 
 “(1) whose remains have not been recovered or identified,
 
@@ -797,43 +797,43 @@ Subsecs. (d) to (f). Pub. L. 107–103, § 502(a), added subsec. (d) and redes
 
 for placement by the applicant in a national cemetery area reserved for such purpose under the provisions of section 2403 of this title or in a State, local, or private cemetery.”
 
-Subsec. (d)(1), (2). Pub. L. 105–368, § 403(c)(2), substituted “under the control of the National Cemetery Administration” for “within the National Cemetery System”.
+Subsec. (d)(1), (2). Pub. L. 105–368, § 403(c)(2), substituted “under the control of the National Cemetery Administration” for “within the National Cemetery System”.
 
-Subsec. (e). Pub. L. 105–368, § 401(b), added subsec. (e).
+Subsec. (e). Pub. L. 105–368, § 401(b), added subsec. (e).
 
-1996—Pub. L. 104–275, § 213(b)(1), substituted “burial receptacles” for “grave liners” in section catchline.
+1996—Pub. L. 104–275, § 213(b)(1), substituted “burial receptacles” for “grave liners” in section catchline.
 
-Subsec. (d)(1). Pub. L. 104–275, § 213(a)(1), substituted “an outer burial receptacle” for “a grave liner” in two places.
+Subsec. (d)(1). Pub. L. 104–275, § 213(a)(1), substituted “an outer burial receptacle” for “a grave liner” in two places.
 
-Subsec. (d)(2). Pub. L. 104–275, § 213(a)(2), substituted “outer burial receptacles” for “grave liners” and “regulations or procedures” for “specifications and procedures”.
+Subsec. (d)(2). Pub. L. 104–275, § 213(a)(2), substituted “outer burial receptacles” for “grave liners” and “regulations or procedures” for “specifications and procedures”.
 
-Subsec. (d)(3), (4). Pub. L. 104–275, § 213(a)(3), added pars. (3) and (4).
+Subsec. (d)(3), (4). Pub. L. 104–275, § 213(a)(3), added pars. (3) and (4).
 
 1992—Subsec. (a)(5). Pub. L. 102–547 added par. (5).
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 906 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 906 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “2402(4)” for “1002(4)” in par. (2) and “2402(5)” for “1002(5)” in par. (4).
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “2402(4)” for “1002(4)” in par. (2) and “2402(5)” for “1002(5)” in par. (4).
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “2403” for “1003” in concluding provisions.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “2403” for “1003” in concluding provisions.
 
 1990—Subsecs. (d), (e). Pub. L. 101–508 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: “In lieu of furnishing a headstone or marker under subsection (a)(2) or (b) of this section, the Secretary, in the Secretary’s discretion, having due regard for the circumstances in each case, may reimburse the person entitled to request such headstone or marker for the cost of acquiring a non-Government headstone or marker for placement in any cemetery other than a national cemetery in connection with the burial or memorialization of the deceased individual. The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be. Reimbursement under this subsection may be made only upon the request of the person entitled to request the headstone or marker and may not be made in an amount in excess of the average actual cost, as determined by the Secretary, of headstones and markers furnished under subsections (a) and (b) of this section.”
 
-1989—Subsecs. (a) to (c). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator”.
+1989—Subsecs. (a) to (c). Pub. L. 101–237, § 313(b)(1), substituted “Secretary” for “Administrator”.
 
-Subsec. (d). Pub. L. 101–237, § 501, substituted “cost of acquiring” for “actual costs incurred by or on behalf of such person in acquiring” in first sentence, inserted after first sentence “The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be.”, and substituted “this subsection” for “the preceding sentence” in last sentence.
+Subsec. (d). Pub. L. 101–237, § 501, substituted “cost of acquiring” for “actual costs incurred by or on behalf of such person in acquiring” in first sentence, inserted after first sentence “The cost referred to in the preceding sentence is the cost actually incurred by or on behalf of such person or the cost prepaid by the deceased individual, as the case may be.”, and substituted “this subsection” for “the preceding sentence” in last sentence.
 
-Pub. L. 101–237, § 313(b)(1), substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
+Pub. L. 101–237, § 313(b)(1), substituted “Secretary” and “Secretary’s” for “Administrator” and “Administrator’s”, respectively, wherever appearing.
 
-Subsec. (e)(1). Pub. L. 101–237, § 504(a), inserted first sentence and struck out former first sentence which read as follows: “The Secretary may provide a grave liner for any grave in a cemetery within the National Cemetery System in which remains are interred in a casket.”
+Subsec. (e)(1). Pub. L. 101–237, § 504(a), inserted first sentence and struck out former first sentence which read as follows: “The Secretary may provide a grave liner for any grave in a cemetery within the National Cemetery System in which remains are interred in a casket.”
 
-Pub. L. 101–237, § 313(b)(1), substituted “Secretary may provide” for “Administrator may provide”.
+Pub. L. 101–237, § 313(b)(1), substituted “Secretary may provide” for “Administrator may provide”.
 
-Subsec. (e)(2). Pub. L. 101–237, § 313(b)(3), substituted “Secretary of Veterans Affairs or Secretary of the Army” for “Administrator or the Secretary”.
+Subsec. (e)(2). Pub. L. 101–237, § 313(b)(3), substituted “Secretary of Veterans Affairs or Secretary of the Army” for “Administrator or the Secretary”.
 
-1988—Pub. L. 100–322, § 344(b)(1), substituted “Headstones, markers, and grave liners” for “Headstones and markers” in section catchline.
+1988—Pub. L. 100–322, § 344(b)(1), substituted “Headstones, markers, and grave liners” for “Headstones and markers” in section catchline.
 
-Subsec. (e). Pub. L. 100–322, § 344(a), added subsec. (e).
+Subsec. (e). Pub. L. 100–322, § 344(a), added subsec. (e).
 
 1981—Subsec. (b). Pub. L. 97–66 inserted provisions relating to veterans whose remains were donated to science or whose remains were cremated and the ashes scattered without interment of any portion of the ashes.
 
@@ -847,11 +847,11 @@ Subsecs. (c), (d). Pub. L. 95–476 added subsecs. (c) and (d).
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–315, title II, § 2203(b), Jan. 5, 2021, 134 Stat. 4986, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title II, § 2203(b), Jan. 5, 2021, 134 Stat. 4986, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
 
-Pub. L. 116–315, title II, § 2204(b), Jan. 5, 2021, 134 Stat. 4986, provided that: “Subsection (i) of section 2306 of title 38, United States Code, as added by subsection (a), shall apply with respect to an individual who dies on or after October 1, 2019.”
+Pub. L. 116–315, title II, § 2204(b), Jan. 5, 2021, 134 Stat. 4986, provided that: “Subsection (i) of section 2306 of title 38, United States Code, as added by subsection (a), shall apply with respect to an individual who dies on or after October 1, 2019.”
 
-Pub. L. 116–315, title II, § 2207(b), Jan. 5, 2021, 134 Stat. 4988, provided that: “The amendments made by this section [amending this section] shall take on [sic] effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title II, § 2207(b), Jan. 5, 2021, 134 Stat. 4988, provided that: “The amendments made by this section [amending this section] shall take on [sic] effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
 
 **Effective Date of 2018 Amendment**
 
@@ -859,7 +859,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–260, title I, § 101(b), Jan. 10, 2013, 126 Stat. 2418, provided that: “Subsections (f) and (h)(4) of section 2306 of title 38, United States Code, as added by subsection (a), shall take effect on the date that is one year after the date of the enactment of this Act [Jan. 10, 2013] and shall apply with respect to deaths occurring on or after the date that is one year after the date of the enactment of this Act.”
+Pub. L. 112–260, title I, § 101(b), Jan. 10, 2013, 126 Stat. 2418, provided that: “Subsections (f) and (h)(4) of section 2306 of title 38, United States Code, as added by subsection (a), shall take effect on the date that is one year after the date of the enactment of this Act [Jan. 10, 2013] and shall apply with respect to deaths occurring on or after the date that is one year after the date of the enactment of this Act.”
 
 **Effective Date of 2010 Amendment**
 
@@ -867,13 +867,13 @@ Amendment by Pub. L. 111–275 applicable with respect to the death, on or after
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–389, title VIII, § 810(b), Oct. 10, 2008, 122 Stat. 4190, provided that: “The amendment made by this section [amending this section] shall apply to deaths occurring on or after the date of the enactment of this Act [Oct. 10, 2008].”
+Pub. L. 110–389, title VIII, § 810(b), Oct. 10, 2008, 122 Stat. 4190, provided that: “The amendment made by this section [amending this section] shall apply to deaths occurring on or after the date of the enactment of this Act [Oct. 10, 2008].”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 110–157, title II, § 203(b), Dec. 26, 2007, 121 Stat. 1833, provided that: “Notwithstanding subsection (d) of section 502 of the Veterans Education and Benefits Expansion Act of 2001 (Public Law 107–103; 115 Stat. 995; 38 U.S.C. 2306 note) or any other provision of law, the amendments made by that section and by subsections (a), (b), (c), (d), and (f) of section 402 of the Veterans Benefits, Health Care, and Information Technology Act of 2006 (Public Law 109–461; 120 Stat. 3429) [amending this section] shall take effect as of November 1, 1990, and shall apply with respect to headstones and markers for the graves of individuals dying on or after that date.”
+Pub. L. 110–157, title II, § 203(b), Dec. 26, 2007, 121 Stat. 1833, provided that: “Notwithstanding subsection (d) of section 502 of the Veterans Education and Benefits Expansion Act of 2001 (Public Law 107–103; 115 Stat. 995; 38 U.S.C. 2306 note) or any other provision of law, the amendments made by that section and by subsections (a), (b), (c), (d), and (f) of section 402 of the Veterans Benefits, Health Care, and Information Technology Act of 2006 (Public Law 109–461; 120 Stat. 3429) [amending this section] shall take effect as of November 1, 1990, and shall apply with respect to headstones and markers for the graves of individuals dying on or after that date.”
 
-Pub. L. 109–461, title IV, § 401(c), Dec. 22, 2006, 120 Stat. 3429, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to individuals dying after the date of the enactment of this Act [Dec. 22, 2006].”
+Pub. L. 109–461, title IV, § 401(c), Dec. 22, 2006, 120 Stat. 3429, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to individuals dying after the date of the enactment of this Act [Dec. 22, 2006].”
 
 **Effective Date of 2002 Amendment**
 
@@ -883,21 +883,21 @@ Amendment by Pub. L. 107–330 applicable with respect to deaths occurring on or
 
 Amendment by section 502 of Pub. L. 107–103 effective Nov. 1, 1990, and applicable with respect to headstones and markers for the graves of individuals dying on or after that date, see section 203(b) of Pub. L. 110–157, set out as an Effective Date of 2006 Amendment note above.
 
-Pub. L. 107–103, title V, § 502(d), Dec. 27, 2001, 115 Stat. 995, as amended by Pub. L. 107–330, title II, § 203(a), Dec. 6, 2002, 116 Stat. 2824, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to markers for the graves of individuals dying on or after September 11, 2001.”
+Pub. L. 107–103, title V, § 502(d), Dec. 27, 2001, 115 Stat. 995, as amended by Pub. L. 107–330, title II, § 203(a), Dec. 6, 2002, 116 Stat. 2824, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply with respect to markers for the graves of individuals dying on or after September 11, 2001.”
 
-[Pub. L. 107–330, title II, § 203(b), Dec. 6, 2002, 116 Stat. 2824, provided that: “The amendment made by subsection (a) [amending section 502(d) of Pub. L. 107–103, set out above] shall take effect as if included in the enactment of such section 502.” ]
+[Pub. L. 107–330, title II, § 203(b), Dec. 6, 2002, 116 Stat. 2824, provided that: “The amendment made by subsection (a) [amending section 502(d) of Pub. L. 107–103, set out above] shall take effect as if included in the enactment of such section 502.” ]
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–368, title IV, § 401(d), Nov. 11, 1998, 112 Stat. 3335, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to deaths occurring after the date of the enactment of this Act [Nov. 11, 1998].”
+Pub. L. 105–368, title IV, § 401(d), Nov. 11, 1998, 112 Stat. 3335, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall apply to deaths occurring after the date of the enactment of this Act [Nov. 11, 1998].”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–508, title VIII, § 8041(b), Nov. 5, 1990, 104 Stat. 1388–349, provided that: “This section [amending this section] shall apply to deaths occurring on or after November 1, 1990.”
+Pub. L. 101–508, title VIII, § 8041(b), Nov. 5, 1990, 104 Stat. 1388–349, provided that: “This section [amending this section] shall apply to deaths occurring on or after November 1, 1990.”
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–237, title V, § 504(b), Dec. 18, 1989, 103 Stat. 2094, provided that: “The amendment made by subsection (a) [amending this section] shall apply to interments that occur after January 1, 1990.”
+Pub. L. 101–237, title V, § 504(b), Dec. 18, 1989, 103 Stat. 2094, provided that: “The amendment made by subsection (a) [amending this section] shall apply to interments that occur after January 1, 1990.”
 
 **Effective Date of 1981 Amendment**
 
@@ -915,17 +915,17 @@ Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub
 
 **Effective Date**
 
-Pub. L. 93–43, § 10(c), June 18, 1973, 87 Stat. 88, provided that: “Clause (2) of section 5(a) [enacting this section and section 907 [now 2307] of this title] and sections 6 [enacting provisions set out a note under section 2404 of this title] and 7 [repealing sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of Title 24, Hospitals and Asylums, and enacting provisions set out as notes under sections 271 to 276 of Title 24] of this Act shall take effect September 1, 1973, or on such earlier date as the President may prescribe and publish in the Federal Register.”
+Pub. L. 93–43, § 10(c), June 18, 1973, 87 Stat. 88, provided that: “Clause (2) of section 5(a) [enacting this section and section 907 [now 2307] of this title] and sections 6 [enacting provisions set out a note under section 2404 of this title] and 7 [repealing sections 271 to 276, 278 to 279d, 281 to 282, 286 to 290, and 296 of Title 24, Hospitals and Asylums, and enacting provisions set out as notes under sections 271 to 276 of Title 24] of this Act shall take effect September 1, 1973, or on such earlier date as the President may prescribe and publish in the Federal Register.”
 
 **Continuation of Authority**
 
-Pub. L. 110–92, § 162, as added by Pub. L. 110–149, § 2, Dec. 21, 2007, 121 Stat. 1819, provided that: “Notwithstanding section 106 [121 Stat. 990], the authority provided by section 2306(d)(3) of title 38, United States Code, shall continue in effect through September 30, 2008.”
+Pub. L. 110–92, § 162, as added by Pub. L. 110–149, § 2, Dec. 21, 2007, 121 Stat. 1819, provided that: “Notwithstanding section 106 [121 Stat. 990], the authority provided by section 2306(d)(3) of title 38, United States Code, shall continue in effect through September 30, 2008.”
 
-## § 2307. Death from service-connected disability
+## § 2307. Death from service-connected disability
 
 In any case in which a veteran dies as the result of a service-connected disability or disabilities, the Secretary, upon the request of the survivors of such veteran, shall pay the burial and funeral expenses incurred in connection with the death of the veteran in an amount not exceeding the greater of (1) $2,000, or (2) the amount authorized to be paid under section 8134(a) of title 5 in the case of a Federal employee whose death occurs as the result of an injury sustained in the performance of duty. Funeral and burial benefits provided under this section shall be in lieu of any benefits authorized under subsections (a)(1) and (b)(2) of section 2303 of this title.
 
-(Added Pub. L. 93–43, § 5(a)(2), June 18, 1973, 87 Stat. 80, § 907; amended Pub. L. 95–479, title III, § 303(c), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 100–322, title III, § 303, May 20, 1988, 102 Stat. 534; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2307 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–103, title V, § 501(a)(1), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title V, § 501(b), Dec. 16, 2003, 117 Stat. 2667; Pub. L. 116–315, title II, § 2202(b)(1)(B), Jan. 5, 2021, 134 Stat. 4985.)
+(Added Pub. L. 93–43, § 5(a)(2), June 18, 1973, 87 Stat. 80, § 907; amended Pub. L. 95–479, title III, § 303(c), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 100–322, title III, § 303, May 20, 1988, 102 Stat. 534; Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2307 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–103, title V, § 501(a)(1), Dec. 27, 2001, 115 Stat. 994; Pub. L. 108–183, title V, § 501(b), Dec. 16, 2003, 117 Stat. 2667; Pub. L. 116–315, title II, § 2202(b)(1)(B), Jan. 5, 2021, 134 Stat. 4985.)
 
 **Editorial Notes**
 
@@ -953,7 +953,7 @@ Amendment by Pub. L. 116–315 applicable to deaths that occur on or after the d
 
 **Effective Date of 2001 Amendment**
 
-Pub. L. 107–103, title V, § 501(a)(2), Dec. 27, 2001, 115 Stat. 994, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to deaths occurring on or after September 11, 2001.”
+Pub. L. 107–103, title V, § 501(a)(2), Dec. 27, 2001, 115 Stat. 994, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to deaths occurring on or after September 11, 2001.”
 
 **Effective Date of 1988 Amendment**
 
@@ -967,7 +967,7 @@ Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub.
 
 Section effective Sept. 1, 1973, or such earlier date as the President may prescribe and publish in the Federal Register, see section 10(c) of Pub. L. 93–43, set out as a note under section 2306 of this title.
 
-## § 2308. Transportation of deceased veteran to a national cemetery or a covered veterans’ cemetery
+## § 2308. Transportation of deceased veteran to a national cemetery or a covered veterans’ cemetery
 
 **(a) In General.—** The Secretary may pay, in addition to any amount paid pursuant to section 2303 of this title regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section, or pursuant to section 2307 of this title, the cost of transportation of the deceased veteran described in subsection (b) for burial in a national cemetery or a covered veterans’ cemetery. Such payment shall not exceed the cost of transportation to the national cemetery nearest the veteran’s last place of residence in which burial space is available.
 
@@ -991,21 +991,21 @@ Section effective Sept. 1, 1973, or such earlier date as the President may presc
 
 **(3)** for which the Secretary has made a grant under section 2408 of this title.
 
-(Added Pub. L. 94–433, title III, § 304(a), Sept. 30, 1976, 90 Stat. 1377, § 908; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2308 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–260, title I, § 104(b)(2), Jan. 10, 2013, 126 Stat. 2420; Pub. L. 116–315, title II, §§ 2201(a)–(c), 2202(b)(1)(C), Jan. 5, 2021, 134 Stat. 4983, 4985.)
+(Added Pub. L. 94–433, title III, § 304(a), Sept. 30, 1976, 90 Stat. 1377, § 908; amended Pub. L. 101–237, title III, § 313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered § 2308 and amended Pub. L. 102–83, § 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 112–260, title I, § 104(b)(2), Jan. 10, 2013, 126 Stat. 2420; Pub. L. 116–315, title II, §§ 2201(a)–(c), 2202(b)(1)(C), Jan. 5, 2021, 134 Stat. 4983, 4985.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–315, § 2201(c), inserted “or a covered veterans’ cemetery” after “national cemetery” in section catchline.
+2021—Pub. L. 116–315, § 2201(c), inserted “or a covered veterans’ cemetery” after “national cemetery” in section catchline.
 
-Subsec. (a). Pub. L. 116–315, § 2202(b)(1)(C)(i), substituted “pursuant to section 2303 of this title regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section, or pursuant to section 2307 of this title,” for “pursuant to section 2302 or 2307 of this title,”.
+Subsec. (a). Pub. L. 116–315, § 2202(b)(1)(C)(i), substituted “pursuant to section 2303 of this title regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section, or pursuant to section 2307 of this title,” for “pursuant to section 2302 or 2307 of this title,”.
 
-Pub. L. 116–315, § 2201(a), substituted “in a national cemetery or a covered veterans’ cemetery” for “in a national cemetery”.
+Pub. L. 116–315, § 2201(a), substituted “in a national cemetery or a covered veterans’ cemetery” for “in a national cemetery”.
 
-Subsec. (b)(3). Pub. L. 116–315, § 2202(b)(1)(C)(ii), substituted “section 2303” for “section 2302” and “subsection (a)(2)(C)” for “subsection (a)(2)(A)”.
+Subsec. (b)(3). Pub. L. 116–315, § 2202(b)(1)(C)(ii), substituted “section 2303” for “section 2302” and “subsection (a)(2)(C)” for “subsection (a)(2)(A)”.
 
-Subsec. (c). Pub. L. 116–315, § 2201(b), added subsec. (c).
+Subsec. (c). Pub. L. 116–315, § 2201(b), added subsec. (c).
 
 2013—Pub. L. 112–260 designated existing provisions as subsec. (a), inserted heading, substituted “The Secretary” for “Where a veteran dies as the result of a service-connected disability, or is in receipt of (but for the receipt of retirement pay or pension under this title would have been entitled to) disability compensation, the Secretary”, inserted “described in subsection (b)” after “of the deceased veteran”, and added subsec. (b).
 
@@ -1017,13 +1017,13 @@ Subsec. (c). Pub. L. 116–315, § 2201(b), added subsec. (c).
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 116–315, title II, § 2201(e), Jan. 5, 2021, 134 Stat. 4983, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
+Pub. L. 116–315, title II, § 2201(e), Jan. 5, 2021, 134 Stat. 4983, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is two years after the date of the enactment of this Act [Jan. 5, 2021].”
 
 Amendment by section 2202(b)(1)(C) of Pub. L. 116–315 applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, see section 2202(d) of Pub. L. 116–315, set out as a note under section 113 of this title.
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–260, title I, § 104(b)(3), Jan. 10, 2013, 126 Stat. 2420, provided that: “The amendments made by this subsection [amending this section and section 2302 of this title] shall take effect on the date that is one year after the date of the enactment of this Act [Jan. 10, 2013] and shall apply with respect to burials and funerals occurring on or after the date that is one year after the date of the enactment of this Act.”
+Pub. L. 112–260, title I, § 104(b)(3), Jan. 10, 2013, 126 Stat. 2420, provided that: “The amendments made by this subsection [amending this section and section 2302 of this title] shall take effect on the date that is one year after the date of the enactment of this Act [Jan. 10, 2013] and shall apply with respect to burials and funerals occurring on or after the date that is one year after the date of the enactment of this Act.”
 
 **Effective Date**
 

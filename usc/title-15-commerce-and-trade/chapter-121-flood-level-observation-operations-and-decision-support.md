@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 121—FLOOD LEVEL OBSERVATION, OPERATIONS, AND DECISION SUPPORT
 
-## § 9701. Definitions
+## § 9701. Definitions
 
 In this chapter:
 
@@ -27,7 +27,7 @@ The term “Administrator” means the Administrator of the National Oceanic and
 
 The term “State” means each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.
 
-(Pub. L. 117–316, § 2, Dec. 27, 2022, 136 Stat. 4406.)
+(Pub. L. 117–316, § 2, Dec. 27, 2022, 136 Stat. 4406.)
 
 **Editorial Notes**
 
@@ -39,9 +39,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Short Title**
 
-Pub. L. 117–316, § 1(a), Dec. 27, 2022, 136 Stat. 4406, provided that: “This Act [enacting this chapter and amending sections 8513, 8514, 8515, and 8521 of this title] may be cited as the ‘Flood Level Observation, Operations, and Decision Support Act’ or the ‘FLOODS Act’.”
+Pub. L. 117–316, § 1(a), Dec. 27, 2022, 136 Stat. 4406, provided that: “This Act [enacting this chapter and amending sections 8513, 8514, 8515, and 8521 of this title] may be cited as the ‘Flood Level Observation, Operations, and Decision Support Act’ or the ‘FLOODS Act’.”
 
-## § 9702. National Integrated Flood Information System
+## § 9702. National Integrated Flood Information System
 
 **(a) In general**
 
@@ -105,9 +105,9 @@ In developing and maintaining the National Integrated Flood Information System, 
 
 Each Federal agency shall cooperate as appropriate with the Administrator in carrying out this section.
 
-(Pub. L. 117–316, § 3, Dec. 27, 2022, 136 Stat. 4406.)
+(Pub. L. 117–316, § 3, Dec. 27, 2022, 136 Stat. 4406.)
 
-## § 9703. Observations and modeling for total water prediction
+## § 9703. Observations and modeling for total water prediction
 
 **(a) Partnerships**
 
@@ -127,9 +127,9 @@ If the Administrator determines that incorporating additional observations impro
 
 The Administrator shall advance geographic coverage, resolution, skill, and efficiency of coastal oceanographic modeling, including efforts that improve the coupling of and interoperability between hydrological models and coastal ocean models.
 
-(Pub. L. 117–316, § 4, Dec. 27, 2022, 136 Stat. 4408.)
+(Pub. L. 117–316, § 4, Dec. 27, 2022, 136 Stat. 4408.)
 
-## § 9704. Service coordination hydrologists at River Forecast Centers of the National Weather Service
+## § 9704. Service coordination hydrologists at River Forecast Centers of the National Weather Service
 
 **(a) Designation of service coordination hydrologists**
 
@@ -181,7 +181,7 @@ The Director may assign a responsibility set forth in paragraph (1) to such othe
 
 The Director may assign a responsibility set forth in paragraph (1) to such other staff as the Director considers appropriate to carry out such responsibility.
 
-(Pub. L. 117–316, § 5, Dec. 27, 2022, 136 Stat. 4408.)
+(Pub. L. 117–316, § 5, Dec. 27, 2022, 136 Stat. 4408.)
 
 **Editorial Notes**
 
@@ -189,7 +189,7 @@ The Director may assign a responsibility set forth in paragraph (1) to such othe
 
 Section 409 of the Weather Research and Forecasting Innovation Act of 2017, referred to in subsec. (c)(1), is section 409 of Pub. L. 115–25, title IV, Apr. 18, 2017, 131 Stat. 112, which is not classified to the Code.
 
-## § 9705. Improving National Oceanic and Atmospheric Administration communication of future flood risks and hazardous flash flood events
+## § 9705. Improving National Oceanic and Atmospheric Administration communication of future flood risks and hazardous flash flood events
 
 **(a) Assessment of flash flood watches and warnings**
 
@@ -287,9 +287,9 @@ The terms “watch” and “warning” do not include technical or specialized 
 
 The term “weather enterprise” has the meaning given that term in section 8501 of this title.
 
-(Pub. L. 117–316, § 6, Dec. 27, 2022, 136 Stat. 4410.)
+(Pub. L. 117–316, § 6, Dec. 27, 2022, 136 Stat. 4410.)
 
-## § 9706. Freshwater monitoring along the coast
+## § 9706. Freshwater monitoring along the coast
 
 **(a) Data availability assessment** The Administrator shall assess the availability of short- and long-term data on large-scale freshwater flooding into oceans, bays, and estuaries, including data on—
 
@@ -317,9 +317,9 @@ Based on the assessments required by subsections (a) and (b), the Administrator 
 
 In planning for the collection of additional data necessary for ecosystem-based modeling of the effect of the flooding and freshwater discharge described in subsections (a) and (b), the Administrator shall use the inventory created under subsection (c).
 
-(Pub. L. 117–316, § 7, Dec. 27, 2022, 136 Stat. 4412.)
+(Pub. L. 117–316, § 7, Dec. 27, 2022, 136 Stat. 4412.)
 
-## § 9707. Estimates of precipitation frequency in the United States
+## § 9707. Estimates of precipitation frequency in the United States
 
 **(a) Definitions** In this section:
 
@@ -381,7 +381,7 @@ In carrying out this section, the Administrator may coordinate with other Federa
 
 There are authorized to be appropriated to carry out this section, from amounts otherwise authorized to be appropriated to the Administrator to carry out this chapter, $3,500,000 for each of fiscal years 2022 through 2030.
 
-(Pub. L. 117–316, § 12, Dec. 27, 2022, 136 Stat. 4413.)
+(Pub. L. 117–316, § 12, Dec. 27, 2022, 136 Stat. 4413.)
 
 **Editorial Notes**
 
@@ -389,7 +389,7 @@ There are authorized to be appropriated to carry out this section, from amounts 
 
 This chapter, referred to in subsec. (h), was in the original “this Act”, meaning Pub. L. 117–316, Dec. 27, 2022, 136 Stat. 4406, known as the Flood Level Observation, Operations, and Decision Support Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9701 of this title and Tables.
 
-## § 9708. Interagency Committee on Water Management and Infrastructure
+## § 9708. Interagency Committee on Water Management and Infrastructure
 
 **(a) Establishment**
 
@@ -449,9 +449,9 @@ The Water Policy Committee shall meet not less frequently than 6 times each year
 
 Not later than 1 year after December 27, 2022, the Water Policy Committee shall develop and submit to Congress a list of research needs that includes needs for cross-agency research and coordination.
 
-(Pub. L. 117–316, § 13, Dec. 27, 2022, 136 Stat. 4414.)
+(Pub. L. 117–316, § 13, Dec. 27, 2022, 136 Stat. 4414.)
 
-## § 9709. National Weather Service hydrologic research fellowship program
+## § 9709. National Weather Service hydrologic research fellowship program
 
 **(a) Definitions** In this section:
 
@@ -559,9 +559,9 @@ A fellowship under the program shall be for a period of up to 2 years.
 
 The direct hire authority provided by this subsection shall be exercised with respect to an individual described in paragraph (1) not later than 2 years after the date on which the individual completed the fellowship under the program.
 
-(Pub. L. 117–316, § 14, Dec. 27, 2022, 136 Stat. 4415.)
+(Pub. L. 117–316, § 14, Dec. 27, 2022, 136 Stat. 4415.)
 
-## § 9710. Identification and support of consistent, Federal set of forward-looking, long-term meteorological information
+## § 9710. Identification and support of consistent, Federal set of forward-looking, long-term meteorological information
 
 **(a) Definitions** In this section:
 
@@ -581,9 +581,9 @@ The term “other environmental trends” means wildfires, coastal flooding, inl
 
 The Administrator shall identify, and support research that enables, a consistent, Federal set of forward-looking, long-term meteorological information that models future extreme weather events, other environmental trends, projections, and up-to-date observations, including mesoscale information as determined appropriate by the Administrator.
 
-(Pub. L. 117–316, § 15, Dec. 27, 2022, 136 Stat. 4417.)
+(Pub. L. 117–316, § 15, Dec. 27, 2022, 136 Stat. 4417.)
 
-## § 9711. Gap analysis on availability of snow-related data to assess and predict flood and flood impacts
+## § 9711. Gap analysis on availability of snow-related data to assess and predict flood and flood impacts
 
 **(a) In general** The Administrator, in consultation with the Department of Agriculture, the Department of the Interior, and the Army Corps of Engineers, shall conduct an analysis of gaps in the availability of snow-related data to assess and predict floods and flood impacts, including data on the following:
 
@@ -605,9 +605,9 @@ The Administrator shall identify, and support research that enables, a consisten
 
 **(2)** opportunities for additional collaboration among Federal agencies to collect snow-related data to better assess and predict floods and flood impacts.
 
-(Pub. L. 117–316, § 16, Dec. 27, 2022, 136 Stat. 4417.)
+(Pub. L. 117–316, § 16, Dec. 27, 2022, 136 Stat. 4417.)
 
-## § 9712. Availability to the public of flood-related data
+## § 9712. Availability to the public of flood-related data
 
 **(a) In general**
 
@@ -617,4 +617,4 @@ The Administrator shall make flood-related data available to the public on the w
 
 The Administrator may make the data under subsection (a) freely accessible or available at a cost that does not exceed the cost of preparing the data.
 
-(Pub. L. 117–316, § 17, Dec. 27, 2022, 136 Stat. 4418.)
+(Pub. L. 117–316, § 17, Dec. 27, 2022, 136 Stat. 4418.)

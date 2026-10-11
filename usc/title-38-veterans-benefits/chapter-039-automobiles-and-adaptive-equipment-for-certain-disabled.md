@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 **Codification**
 
-This chapter as added by Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 1998, constitutes a general revision of the provisions of a prior chapter 39, as enacted by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, and amended thereafter. The analysis in the original consisted of the following provisions:
+This chapter as added by Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 1998, constitutes a general revision of the provisions of a prior chapter 39, as enacted by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1215, and amended thereafter. The analysis in the original consisted of the following provisions:
 
 > “Automobiles For Disabled Veterans”
 
@@ -37,13 +37,13 @@ in the chapter heading.
 
 **Amendments**
 
-1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1901 to 1904 as 3901 to 3904, respectively.
+1991—Pub. L. 102–83, § 5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 1901 to 1904 as 3901 to 3904, respectively.
 
-1976—Pub. L. 94–581, title II, § 205(b)(1), Oct. 21, 1976, 90 Stat. 2858, struck out “; coordination with other Federal programs” in item 1904.
+1976—Pub. L. 94–581, title II, § 205(b)(1), Oct. 21, 1976, 90 Stat. 2858, struck out “; coordination with other Federal programs” in item 1904.
 
-1974—Pub. L. 93–538, §§ 4(c), 5(b), Dec. 22, 1974, 88 Stat. 1737, inserted “; special training courses” in item 1903, and added item 1904.
+1974—Pub. L. 93–538, §§ 4(c), 5(b), Dec. 22, 1974, 88 Stat. 1737, inserted “; special training courses” in item 1903, and added item 1904.
 
-## § 3901. Definitions
+## § 3901. Definitions
 
 For purposes of this chapter:
 
@@ -63,7 +63,7 @@ For purposes of this chapter:
 
 **(2)** The term “adaptive equipment” includes, but is not limited to, power steering, power brakes, power window lifts, power seats, special equipment necessary to assist the eligible person into and out of the automobile or other conveyance, and nonarticulating trailers solely designed to transport powered wheelchairs, powered scooters, or other similar mobility devices. Such term also includes (A) air-conditioning equipment when such equipment is necessary to the health and safety of the veteran and to the safety of others, regardless of whether the automobile or other conveyance is to be operated by the eligible person or is to be operated for such person by another person; and (B) any modification of the size of the interior space of the automobile or other conveyance if needed because of the physical condition of such person in order for such person to enter or operate the vehicle.
 
-(Added Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 1998, § 1901; amended Pub. L. 93–538, § 2, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 94–433, title III, § 303, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 95–116, § 1(a), Oct. 3, 1977, 91 Stat. 1062; renumbered § 3901, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–275, title VIII, § 803(a), (b), Oct. 13, 2010, 124 Stat. 2889; Pub. L. 116–283, div. A, title IX, § 926(a)(50), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–333, § 20, Jan. 5, 2023, 136 Stat. 6138.)
+(Added Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 1998, § 1901; amended Pub. L. 93–538, § 2, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 94–433, title III, § 303, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 95–116, § 1(a), Oct. 3, 1977, 91 Stat. 1062; renumbered § 3901, Pub. L. 102–83, § 5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 111–275, title VIII, § 803(a), (b), Oct. 13, 2010, 124 Stat. 2889; Pub. L. 116–283, div. A, title IX, § 926(a)(50), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–333, § 20, Jan. 5, 2023, 136 Stat. 6138.)
 
 **Editorial Notes**
 
@@ -73,41 +73,41 @@ For purposes of this chapter:
 
 2021—Par. (1). Pub. L. 116–283 substituted “air, or space service” for “or air service” in subpars. (A) and (B).
 
-2010—Pub. L. 111–275, § 803(b)(1), substituted “chapter:” for “chapter—” in introductory provisions.
+2010—Pub. L. 111–275, § 803(b)(1), substituted “chapter:” for “chapter—” in introductory provisions.
 
-Par. (1). Pub. L. 111–275, § 803(b)(2)(A), substituted “means the following:” for “means—” in introductory provisions.
+Par. (1). Pub. L. 111–275, § 803(b)(2)(A), substituted “means the following:” for “means—” in introductory provisions.
 
-Par. (1)(A). Pub. L. 111–275, § 803(a)(1)(A), (b)(2)(B)(i), in introductory provisions, substituted “Any veteran” for “any veteran” and “the following disabilities” for “the disabilities described in subclause (i), (ii), or (iii) below”.
+Par. (1)(A). Pub. L. 111–275, § 803(a)(1)(A), (b)(2)(B)(i), in introductory provisions, substituted “Any veteran” for “any veteran” and “the following disabilities” for “the disabilities described in subclause (i), (ii), or (iii) below”.
 
-Par. (1)(A)(i), (ii). Pub. L. 111–275, § 803(b)(2)(B)(ii), substituted period for semicolon at end.
+Par. (1)(A)(i), (ii). Pub. L. 111–275, § 803(b)(2)(B)(ii), substituted period for semicolon at end.
 
-Par. (1)(A)(iii). Pub. L. 111–275, § 803(b)(2)(B)(iii), substituted period for “; or” at end.
+Par. (1)(A)(iii). Pub. L. 111–275, § 803(b)(2)(B)(iii), substituted period for “; or” at end.
 
-Par. (1)(A)(iv). Pub. L. 111–275, § 803(a)(1)(B), added cl. (iv).
+Par. (1)(A)(iv). Pub. L. 111–275, § 803(a)(1)(B), added cl. (iv).
 
-Par. (1)(B). Pub. L. 111–275, § 803(a)(2), (b)(2)(C), substituted “Any member” for “any member” and “clause (i), (ii), (iii), or (iv) of subparagraph (A)” for “subclause (i), (ii), or (iii) of clause (A) of this paragraph”.
+Par. (1)(B). Pub. L. 111–275, § 803(a)(2), (b)(2)(C), substituted “Any member” for “any member” and “clause (i), (ii), (iii), or (iv) of subparagraph (A)” for “subclause (i), (ii), or (iii) of clause (A) of this paragraph”.
 
 1991—Pub. L. 102–83 renumbered section 1901 of this title as this section.
 
 1977—Par. (1). Pub. L. 95–116 struck out “on or after September 16, 1940” after “or air service” in cls. (A) and (B).
 
-1976—Par. (1). Pub. L. 94–433, § 303(1), (2), substituted “on or after September 16, 1940” for “during World War II or thereafter” in cls. (A) and (B).
+1976—Par. (1). Pub. L. 94–433, § 303(1), (2), substituted “on or after September 16, 1940” for “during World War II or thereafter” in cls. (A) and (B).
 
-1974—Par. (1)(A). Pub. L. 93–538, § 2(1), substituted “World War II or thereafter” for “World War II, or the Korean conflict; or if the disability is the result of an injury incurred or disease contracted in or aggravated by active military, naval, or air service performed after January 31, 1955, and the injury was incurred or the disease was contracted in line of duty as a direct result of the performance of military duty.”
+1974—Par. (1)(A). Pub. L. 93–538, § 2(1), substituted “World War II or thereafter” for “World War II, or the Korean conflict; or if the disability is the result of an injury incurred or disease contracted in or aggravated by active military, naval, or air service performed after January 31, 1955, and the injury was incurred or the disease was contracted in line of duty as a direct result of the performance of military duty.”
 
-Par. (1)(B). Pub. L. 93–538, § 2(2), substituted “World War II or thereafter” for “World War II, the Korean conflict, or the Vietnam era; or if such disability is the result of an injury incurred or disease contracted in or aggravated by any other active military, naval, or air service performed after January 31, 1955, and the injury was incurred or the disease was contracted in line of duty as a direct result of the performance of military duty.”
+Par. (1)(B). Pub. L. 93–538, § 2(2), substituted “World War II or thereafter” for “World War II, the Korean conflict, or the Vietnam era; or if such disability is the result of an injury incurred or disease contracted in or aggravated by any other active military, naval, or air service performed after January 31, 1955, and the injury was incurred or the disease was contracted in line of duty as a direct result of the performance of military duty.”
 
-Par. (2). Pub. L. 93–538, § 2(2), substituted definition of “adaptive equipment” for definition of “World War II”.
+Par. (2). Pub. L. 93–538, § 2(2), substituted definition of “adaptive equipment” for definition of “World War II”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title VIII, § 803(c), Oct. 13, 2010, 124 Stat. 2889, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2011.”
+Pub. L. 111–275, title VIII, § 803(c), Oct. 13, 2010, 124 Stat. 2889, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2011.”
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–116, § 1(b), Oct. 3, 1977, 91 Stat. 1062, provided that: “The amendment made by subsection (a) of this section [amending this section] shall become effective October 1, 1977.”
+Pub. L. 95–116, § 1(b), Oct. 3, 1977, 91 Stat. 1062, provided that: “The amendment made by subsection (a) of this section [amending this section] shall become effective October 1, 1977.”
 
 **Effective Date of 1976 Amendment**
 
@@ -115,17 +115,17 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–538, § 6, Dec. 22, 1974, 88 Stat. 1737, provided that: “The provisions of this Act [enacting section 1904 [now 3904] of this title, amending this section and sections 1902 and 1903 [now 3902 and 3903] of this title, and enacting provisions set out as a note under this section] shall become effective on the first day of the second calendar month following the date of enactment [Dec. 22, 1974], except that clause (3) of section 3 [amending section 1902 [now 3902] of this title] shall take effect on January 11, 1971.”
+Pub. L. 93–538, § 6, Dec. 22, 1974, 88 Stat. 1737, provided that: “The provisions of this Act [enacting section 1904 [now 3904] of this title, amending this section and sections 1902 and 1903 [now 3902 and 3903] of this title, and enacting provisions set out as a note under this section] shall become effective on the first day of the second calendar month following the date of enactment [Dec. 22, 1974], except that clause (3) of section 3 [amending section 1902 [now 3902] of this title] shall take effect on January 11, 1971.”
 
 **Short Title**
 
 For short title of Pub. L. 91–666, Jan. 11, 1971, 84 Stat. 1998, which enacted this chapter, as the “Disabled Veterans’ and Servicemen’s Automobile Assistance Act of 1970”, see section 1 of Pub. L. 91–666, set out as a Short Title of 1971 Amendment note under section 101 of this title.
 
-## § 3902. Assistance for providing automobile and adaptive equipment
+## § 3902. Assistance for providing automobile and adaptive equipment
 
 **(a)** The Secretary, under regulations which the Secretary shall prescribe, shall provide or assist in providing an automobile or other conveyance to each eligible person by paying the total purchase price of the automobile or other conveyance (including all State, local, and other taxes) or $18,900 (as adjusted from time to time under subsection (e)),1
 
-<sup>1</sup>  See Special Benefit Allowance Rates note below.
+<sup>1</sup> See Special Benefit Allowance Rates note below.
 
 whichever is the lesser, to the seller from whom the eligible person is purchasing under a sales agreement between the seller and the eligible person.
 
@@ -141,15 +141,15 @@ whichever is the lesser, to the seller from whom the eligible person is purchasi
 
 **(e)** Effective on October 1 of each year (beginning in 2011), the Secretary shall increase the dollar amount in effect under subsection (a) by a percentage equal to the percentage by which the Consumer Price Index for all urban consumers (U.S. city average) increased during the 12-month period ending with the last month for which Consumer Price Index data is available. In the event that such Consumer Price Index does not increase during such period, the Secretary shall maintain the dollar amount in effect under subsection (a) during the previous fiscal year.
 
-(Added Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 1999, § 1902; amended Pub. L. 93–538, § 3, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 95–479, title III, § 304, Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–66, title III, §§ 301–303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, § 305(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 100–322, title III, § 302, May 20, 1988, 102 Stat. 534; renumbered § 3902 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–178, title VIII, § 8205(a), June 9, 1998, 112 Stat. 494; Pub. L. 107–103, title V, § 503, Dec. 27, 2001, 115 Stat. 995; Pub. L. 108–183, title IV, § 402(b), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 111–275, title VIII, § 804(a), (b), Oct. 13, 2010, 124 Stat. 2889.)
+(Added Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 1999, § 1902; amended Pub. L. 93–538, § 3, Dec. 22, 1974, 88 Stat. 1736; Pub. L. 95–479, title III, § 304, Oct. 18, 1978, 92 Stat. 1565; Pub. L. 97–66, title III, §§ 301–303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, § 305(a), Oct. 24, 1984, 98 Stat. 2748; Pub. L. 100–322, title III, § 302, May 20, 1988, 102 Stat. 534; renumbered § 3902 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–178, title VIII, § 8205(a), June 9, 1998, 112 Stat. 494; Pub. L. 107–103, title V, § 503, Dec. 27, 2001, 115 Stat. 995; Pub. L. 108–183, title IV, § 402(b), Dec. 16, 2003, 117 Stat. 2664; Pub. L. 111–275, title VIII, § 804(a), (b), Oct. 13, 2010, 124 Stat. 2889.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–275, § 804(a), substituted “$18,900 (as adjusted from time to time under subsection (e))” for “$11,000”.
+2010—Subsec. (a). Pub. L. 111–275, § 804(a), substituted “$18,900 (as adjusted from time to time under subsection (e))” for “$11,000”.
 
-Subsec. (e). Pub. L. 111–275, § 804(b), added subsec. (e).
+Subsec. (e). Pub. L. 111–275, § 804(b), added subsec. (e).
 
 2003—Subsec. (a). Pub. L. 108–183 substituted “$11,000” for “$9,000”.
 
@@ -159,37 +159,37 @@ Subsec. (e). Pub. L. 111–275, § 804(b), added subsec. (e).
 
 1992—Subsec. (b)(2). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1902 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1902 of this title as this section.
 
-Subsecs. (a), (b)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (a), (b)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “3903” for “1903”.
+Subsec. (b)(2). Pub. L. 102–83, § 5(c)(1), substituted “3903” for “1903”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsecs. (c), (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (c), (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 1988—Subsec. (a). Pub. L. 100–322 substituted “$5,500” for “$5,000”.
 
 1984—Subsec. (a). Pub. L. 98–543 substituted “$5,000” for “$4,400”.
 
-1981—Subsec. (a). Pub. L. 97–66, §§ 301, 303, substituted “which the Administrator shall prescribe” for “which he shall prescribe” and “$4,400” for “$3,800”.
+1981—Subsec. (a). Pub. L. 97–66, §§ 301, 303, substituted “which the Administrator shall prescribe” for “which he shall prescribe” and “$4,400” for “$3,800”.
 
-Subsec. (b). Pub. L. 97–66, §§ 302, 303, designated existing provisions as par. (1), substituted “which the Administrator shall prescribe” for “which he shall prescribe” and “such person’s” for “his” in two places, and added par. (2).
+Subsec. (b). Pub. L. 97–66, §§ 302, 303, designated existing provisions as par. (1), substituted “which the Administrator shall prescribe” for “which he shall prescribe” and “such person’s” for “his” in two places, and added par. (2).
 
-Subsec. (c). Pub. L. 97–66, § 303, substituted “which the Administrator shall prescribe” for “which he shall prescribe”.
+Subsec. (c). Pub. L. 97–66, § 303, substituted “which the Administrator shall prescribe” for “which he shall prescribe”.
 
 1978—Subsec. (a). Pub. L. 95–479 substituted “$3,800” for “$3,300”.
 
-1974—Subsec. (a). Pub. L. 93–538, § 3(1), (2), substituted “automobile or other conveyance (including all State, local, and other taxes) or $3,300” for “automobile or other conveyance or $2,800”.
+1974—Subsec. (a). Pub. L. 93–538, § 3(1), (2), substituted “automobile or other conveyance (including all State, local, and other taxes) or $3,300” for “automobile or other conveyance or $2,800”.
 
-Subsec. (c). Pub. L. 93–538, § 3(3), substituted “person may previously or subsequently have acquired” for “person may subsequently have acquired”.
+Subsec. (c). Pub. L. 93–538, § 3(3), substituted “person may previously or subsequently have acquired” for “person may subsequently have acquired”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–275, title VIII, § 804(c), Oct. 13, 2010, 124 Stat. 2890, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2011.”
+Pub. L. 111–275, title VIII, § 804(c), Oct. 13, 2010, 124 Stat. 2890, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2011.”
 
 **Effective Date of 2003 Amendment**
 
@@ -197,7 +197,7 @@ Amendment by Pub. L. 108–183 applicable with respect to assistance furnished o
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–178, title VIII, § 8205(b), June 9, 1998, 112 Stat. 494, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to assistance furnished under section 3902 of such title on or after October 1, 1998.”
+Pub. L. 105–178, title VIII, § 8205(b), June 9, 1998, 112 Stat. 494, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to assistance furnished under section 3902 of such title on or after October 1, 1998.”
 
 **Effective Date of 1988 Amendment**
 
@@ -225,7 +225,7 @@ For current VA special benefit allowance rates, see https://www.va.gov/disabilit
 
 **Comprehensive Policy for the Automobile Adaptive Equipment Program**
 
-Pub. L. 114–256, § 3, Dec. 14, 2016, 130 Stat. 1345, provided that:
+Pub. L. 114–256, § 3, Dec. 14, 2016, 130 Stat. 1345, provided that:
 
 > **“(a) Comprehensive Policy.—** The Secretary of Veterans Affairs shall develop a comprehensive policy regarding quality standards for providers who provide modification services to veterans under the automobile adaptive equipment program.
 
@@ -295,7 +295,7 @@ Pub. L. 114–256, § 3, Dec. 14, 2016, 130 Stat. 1345, provided that:
 
 > **“(2) Veterans service organization.—** The term ‘veterans service organization’ means any organization recognized by the Secretary for the representation of veterans under section 5902 of title 38, United States Code.”
 
-## § 3903. Limitations on assistance; special training courses
+## § 3903. Limitations on assistance; special training courses
 
 **(a)**
 
@@ -315,9 +315,9 @@ Pub. L. 114–256, § 3, Dec. 14, 2016, 130 Stat. 1345, provided that:
 
 **(A)** if more than 30 years have elapsed since the eligible person most recently received an automobile or other conveyance under this chapter; or
 
-**(B)** beginning on the day that is 10 years after date 1
+**(B)** beginning on the day that is 10 years after date 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 of the enactment of the Veterans Auto and Education Improvement Act of 2022, if more than 10 years have elapsed since the eligible person most recently received an automobile or other conveyance under this chapter.
 
@@ -343,7 +343,7 @@ of the enactment of the Veterans Auto and Education Improvement Act of 2022, if 
 
 **(3)** Notwithstanding any other provision of law, the Secretary may obtain, by purchase, lease, gift, or otherwise, any automobile, motor vehicle, or other conveyance deemed necessary to carry out the purposes of this subsection, and may sell, assign, transfer, or convey any such automobile, vehicle, or conveyance to which the Department obtains title for such price and upon such terms as the Secretary deems appropriate; and any proceeds received from any such disposition shall be credited to the applicable Department appropriation.
 
-(Added Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 2000, § 1903; amended Pub. L. 93–538, § 4(a), (b), Dec. 22, 1974, 88 Stat. 1736, 1737; Pub. L. 94–581, title I, § 108, Oct. 21, 1976, 90 Stat. 2847; Pub. L. 97–66, title III, § 303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, § 305(b), Oct. 24, 1984, 98 Stat. 2748; renumbered § 3903 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title VIII, § 804, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 112–154, title VII, § 701(e), Aug. 6, 2012, 126 Stat. 1204; Pub. L. 114–256, § 2, Dec. 14, 2016, 130 Stat. 1345; Pub. L. 117–333, § 21, Jan. 5, 2023, 136 Stat. 6138.)
+(Added Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 2000, § 1903; amended Pub. L. 93–538, § 4(a), (b), Dec. 22, 1974, 88 Stat. 1736, 1737; Pub. L. 94–581, title I, § 108, Oct. 21, 1976, 90 Stat. 2847; Pub. L. 97–66, title III, § 303, Oct. 17, 1981, 95 Stat. 1030; Pub. L. 98–543, title III, § 305(b), Oct. 24, 1984, 98 Stat. 2748; renumbered § 3903 and amended Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 106–117, title VIII, § 804, Nov. 30, 1999, 113 Stat. 1586; Pub. L. 112–154, title VII, § 701(e), Aug. 6, 2012, 126 Stat. 1204; Pub. L. 114–256, § 2, Dec. 14, 2016, 130 Stat. 1345; Pub. L. 117–333, § 21, Jan. 5, 2023, 136 Stat. 6138.)
 
 **Editorial Notes**
 
@@ -357,9 +357,9 @@ Provisions similar to those comprising this section were contained in former sec
 
 **Amendments**
 
-2023—Subsec. (a)(1). Pub. L. 117–333, § 21(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+2023—Subsec. (a)(1). Pub. L. 117–333, § 21(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
 
-Subsec. (a)(3). Pub. L. 117–333, § 21(2), added par. (3).
+Subsec. (a)(3). Pub. L. 117–333, § 21(2), added par. (3).
 
 2016—Subsec. (b). Pub. L. 114–256 designated existing provisions as par. (1) and added par. (2).
 
@@ -367,35 +367,35 @@ Subsec. (a)(3). Pub. L. 117–333, § 21(2), added par. (3).
 
 1999—Subsec. (e)(2). Pub. L. 106–117 struck out “(not owned by the Government)” after “automobiles and other conveyances”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1903 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1903 of this title as this section.
 
-Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3902” for “1902”.
+Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3902” for “1902”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Subsecs. (c)(2), (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (c)(2), (d). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
-Subsec. (e)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (e)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
 
-Subsec. (e)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Subsec. (e)(2). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
-Subsec. (e)(3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
+Subsec. (e)(3). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” in two places.
 
-Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
+Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration” in two places.
 
 1984—Subsec. (c). Pub. L. 98–543 designated existing provisions as par. (1), substituted “two automobiles or other conveyances at any one time or (except as provided in paragraph (2) of this subsection) during any four-year period” for “one automobile or other conveyance at any one time”, and added par. (2).
 
 1981—Subsec. (b). Pub. L. 97–66 substituted “the Administrator shall prescribe” for “he shall prescribe” and “such person’s” for “his” in two places.
 
-1976—Subsec. (e)(1). Pub. L. 94–581, § 108(1), substituted “any veteran, eligible for care under chapter 17 of this title or member of the Armed Forces, who is determined” for “any veteran or member of the Armed Forces, eligible for care under chapter 17 of this title, who is determined”.
+1976—Subsec. (e)(1). Pub. L. 94–581, § 108(1), substituted “any veteran, eligible for care under chapter 17 of this title or member of the Armed Forces, who is determined” for “any veteran or member of the Armed Forces, eligible for care under chapter 17 of this title, who is determined”.
 
-Subsec. (e)(3). Pub. L. 94–581, § 108(2), added par. (3).
+Subsec. (e)(3). Pub. L. 94–581, § 108(2), added par. (3).
 
-1974—Pub. L. 93–538, § 4(b), substituted “Limitations on assistance; special training courses” for “Limitations on assistance” in section catchline.
+1974—Pub. L. 93–538, § 4(b), substituted “Limitations on assistance; special training courses” for “Limitations on assistance” in section catchline.
 
-Subsec. (e). Pub. L. 93–538, § 4(a), added subsec. (e).
+Subsec. (e). Pub. L. 93–538, § 4(a), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -405,7 +405,7 @@ Amendment by Pub. L. 112–154 effective on the date that is one year after Aug.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–543, title III, § 305(c), Oct. 24, 1984, 98 Stat. 2748, provided that:
+Pub. L. 98–543, title III, § 305(c), Oct. 24, 1984, 98 Stat. 2748, provided that:
 
 > **“(1)** The amendments made by this section [amending this section and section 1902 [now 3902] of this title] shall take effect on January 1, 1985.
 
@@ -423,13 +423,13 @@ Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L
 
 Amendment by Pub. L. 93–538 effective first day of second calendar month following Dec. 22, 1974, see section 6 of Pub. L. 93–538, set out as a note under section 3901 of this title.
 
-## § 3904. Research and development
+## § 3904. Research and development
 
 **(a)** In carrying out medical and prosthetic research under section 7303 of this title, the Secretary, through the Under Secretary for Health, shall provide for special emphasis on the research and development of adaptive equipment and adapted conveyances (including vans) meeting standards of safety and quality prescribed under subsection (d) of section 3903, including support for the production and distribution of devices and conveyances so developed.
 
 **(b)** In carrying out subsection (a) of this section, the Secretary, through the Under Secretary for Health, shall consult and cooperate with the Secretary of Health and Human Services and the Secretary of Education, in connection with programs carried out under section 204(b)(3) of the Rehabilitation Act of 1973 (relating to the establishment and support of Rehabilitation Engineering Research Centers).
 
-(Added Pub. L. 93–538, § 5(a), Dec. 22, 1974, 88 Stat. 1737, § 1904; amended Pub. L. 94–581, title II, § 205(b)(2), (3), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–602, title I, § 122(f), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 97–295, § 4(69), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 102–40, title IV, § 403(b)(1), May 7, 1991, 105 Stat. 239; renumbered § 3904 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–220, title IV, § 414(c), Aug. 7, 1998, 112 Stat. 1242.)
+(Added Pub. L. 93–538, § 5(a), Dec. 22, 1974, 88 Stat. 1737, § 1904; amended Pub. L. 94–581, title II, § 205(b)(2), (3), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–602, title I, § 122(f), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 97–295, § 4(69), Oct. 12, 1982, 96 Stat. 1310; Pub. L. 102–40, title IV, § 403(b)(1), May 7, 1991, 105 Stat. 239; renumbered § 3904 and amended Pub. L. 102–83, §§ 4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 105–220, title IV, § 414(c), Aug. 7, 1998, 112 Stat. 1242.)
 
 **Editorial Notes**
 
@@ -459,23 +459,23 @@ Prior sections 4008 to 4010, 4051 to 4056, 4061 to 4069, 4081 to 4085, 4091, 409
 
 1992—Subsecs. (a), (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
-1991—Pub. L. 102–83, § 5(a), renumbered section 1904 of this title as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered section 1904 of this title as this section.
 
-Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3903” for “1903”.
+Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3903” for “1903”.
 
-Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
 Pub. L. 102–40 substituted “section 7303” for “section 4101”.
 
-Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “through”.
+Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” before “through”.
 
 1982—Subsec. (b). Pub. L. 97–295 substituted “Health and Human Services and the Secretary of Education” for “Health, Education, and Welfare and the Commissioner of the Rehabilitation Services Administration, Department of Health, Education, and Welfare”, and “section 204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2))” for “section 3(b) of the Rehabilitation Act of 1973 (Public Law 93–112; 87 Stat. 357) (relating to the development and support, and the stimulation of the development and utilization, including production and distribution of new and existing devices, of innovative methods of applying advanced medical technology, scientific achievement, and psychological and social knowledge to solve rehabilitation problems), and section 204(b)(2) of such Act”.
 
 1978—Subsec. (b). Pub. L. 95–602 substituted “and section 204(b)(2) of such Act” for “section 202(b)(2) of such Act” and struck out “, and section 405 of such Act (relating to the Secretarial responsibilities for planning, analysis, promoting utilization of scientific advances, and information clearinghouse activities)” after “Research Centers)”.
 
-1976—Pub. L. 94–581, § 205(b)(2), struck out “; coordination with other Federal programs” in section catchline.
+1976—Pub. L. 94–581, § 205(b)(2), struck out “; coordination with other Federal programs” in section catchline.
 
-Subsec. (a). Pub. L. 94–581, § 205(b)(3), substituted “medical and prosthetic research” for “prosthetic and orthopedic appliance research under section 216 and medical research”.
+Subsec. (a). Pub. L. 94–581, § 205(b)(3), substituted “medical and prosthetic research” for “prosthetic and orthopedic appliance research under section 216 and medical research”.
 
 **Statutory Notes and Related Subsidiaries**
 

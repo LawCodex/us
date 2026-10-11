@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 22—EMPLOYEE POLYGRAPH PROTECTION
 
-## § 2001. Definitions
+## § 2001. Definitions
 
 As used in this chapter:
 
@@ -41,13 +41,13 @@ The term “lie detector” includes a polygraph, deceptograph, voice stress ana
 
 The term “Secretary” means the Secretary of Labor.
 
-(Pub. L. 100–347, § 2, June 27, 1988, 102 Stat. 646.)
+(Pub. L. 100–347, § 2, June 27, 1988, 102 Stat. 646.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 100–347, § 11, June 27, 1988, 102 Stat. 653, provided that:
+Pub. L. 100–347, § 11, June 27, 1988, 102 Stat. 653, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this Act [enacting this chapter] shall become effective 6 months after the date of enactment of this Act [June 27, 1988].
 
@@ -55,9 +55,9 @@ Pub. L. 100–347, § 11, June 27, 1988, 102 Stat. 653, provided that:
 
 **Short Title**
 
-Pub. L. 100–347, § 1, June 27, 1988, 102 Stat. 646, provided that: “This Act [enacting this chapter] may be cited as the ‘Employee Polygraph Protection Act of 1988’.”
+Pub. L. 100–347, § 1, June 27, 1988, 102 Stat. 646, provided that: “This Act [enacting this chapter] may be cited as the ‘Employee Polygraph Protection Act of 1988’.”
 
-## § 2002. Prohibitions on lie detector use
+## § 2002. Prohibitions on lie detector use
 
 Except as provided in sections 2006 and 2007 of this title, it shall be unlawful for any employer engaged in or affecting commerce or in the production of goods for commerce—
 
@@ -79,7 +79,7 @@ Except as provided in sections 2006 and 2007 of this title, it shall be unlawful
 
 **(C)** of the exercise by such employee or prospective employee, on behalf of such employee or another person, of any right afforded by this chapter.
 
-(Pub. L. 100–347, § 3, June 27, 1988, 102 Stat. 646.)
+(Pub. L. 100–347, § 3, June 27, 1988, 102 Stat. 646.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -87,11 +87,11 @@ Except as provided in sections 2006 and 2007 of this title, it shall be unlawful
 
 Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.
 
-## § 2003. Notice of protection
+## § 2003. Notice of protection
 
 The Secretary shall prepare, have printed, and distribute a notice setting forth excerpts from, or summaries of, the pertinent provisions of this chapter. Each employer shall post and maintain such notice in conspicuous places on its premises where notices to employees and applicants to employment are customarily posted.
 
-(Pub. L. 100–347, § 4, June 27, 1988, 102 Stat. 647.)
+(Pub. L. 100–347, § 4, June 27, 1988, 102 Stat. 647.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -99,7 +99,7 @@ The Secretary shall prepare, have printed, and distribute a notice setting forth
 
 Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.
 
-## § 2004. Authority of Secretary
+## § 2004. Authority of Secretary
 
 **(a) In general** The Secretary shall—
 
@@ -113,7 +113,7 @@ Section effective 6 months after June 27, 1988, except that rules and regulation
 
 For the purpose of any hearing or investigation under this chapter, the Secretary shall have the authority contained in sections 49 and 50 of title 15.
 
-(Pub. L. 100–347, § 5, June 27, 1988, 102 Stat. 647.)
+(Pub. L. 100–347, § 5, June 27, 1988, 102 Stat. 647.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -121,7 +121,7 @@ For the purpose of any hearing or investigation under this chapter, the Secretar
 
 Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.
 
-## § 2005. Enforcement provisions
+## § 2005. Enforcement provisions
 
 **(a) Civil penalties**
 
@@ -159,7 +159,7 @@ The court, in its discretion, may allow the prevailing party (other than the Uni
 
 The rights and procedures provided by this chapter may not be waived by contract or otherwise, unless such waiver is part of a written settlement agreed to and signed by the parties to the pending action or complaint under this chapter.
 
-(Pub. L. 100–347, § 6, June 27, 1988, 102 Stat. 647.)
+(Pub. L. 100–347, § 6, June 27, 1988, 102 Stat. 647.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -167,7 +167,7 @@ The rights and procedures provided by this chapter may not be waived by contract
 
 Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.
 
-## § 2006. Exemptions
+## § 2006. Exemptions
 
 **(a) No application to governmental employers**
 
@@ -261,13 +261,13 @@ Subject to paragraph (2) and sections 2007 and 2009 of this title, this chapter 
 
 **(ii)** the employee had access to the person or property that is the subject of the investigation.
 
-(Pub. L. 100–347, § 7, June 27, 1988, 102 Stat. 648; Pub. L. 103–359, title V, § 501(n), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, § 1122(b)(3), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 110–417, [div. A], title IX, § 931(b)(3), Oct. 14, 2008, 122 Stat. 4575.)
+(Pub. L. 100–347, § 7, June 27, 1988, 102 Stat. 648; Pub. L. 103–359, title V, § 501(n), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, § 1122(b)(3), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 110–417, [div. A], title IX, § 931(b)(3), Oct. 14, 2008, 122 Stat. 4575.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, and was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526, set out as a note under section 3161 of Title 50.
+Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, and was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526, set out as a note under section 3161 of Title 50.
 
 **Amendments**
 
@@ -287,7 +287,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.
 
-## § 2007. Restrictions on use of exemptions
+## § 2007. Restrictions on use of exemptions
 
 **(a) Test as basis for adverse employment action**
 
@@ -387,7 +387,7 @@ The examiner shall not conduct and complete more than five polygraph tests on a 
 
 **(B)** maintains all opinions, reports, charts, written questions, lists, and other records relating to the test for a minimum period of 3 years after administration of the test.
 
-(Pub. L. 100–347, § 8, June 27, 1988, 102 Stat. 650.)
+(Pub. L. 100–347, § 8, June 27, 1988, 102 Stat. 650.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -395,7 +395,7 @@ The examiner shall not conduct and complete more than five polygraph tests on a 
 
 Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.
 
-## § 2008. Disclosure of information
+## § 2008. Disclosure of information
 
 **(a) In general**
 
@@ -415,7 +415,7 @@ A person, other than the examinee, may not disclose information obtained during 
 
 **(2)** a governmental agency, but only insofar as the disclosed information is an admission of criminal conduct.
 
-(Pub. L. 100–347, § 9, June 27, 1988, 102 Stat. 652.)
+(Pub. L. 100–347, § 9, June 27, 1988, 102 Stat. 652.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -423,11 +423,11 @@ A person, other than the examinee, may not disclose information obtained during 
 
 Section effective 6 months after June 27, 1988, except that rules and regulations shall be issued not later than 90 days after June 27, 1988, see section 11 of Pub. L. 100–347, set out as a note under section 2001 of this title.
 
-## § 2009. Effect on other law and agreements
+## § 2009. Effect on other law and agreements
 
 Except as provided in subsections (a), (b), and (c) of section 2006 of this title, this chapter shall not preempt any provision of any State or local law or of any negotiated collective bargaining agreement that prohibits lie detector tests or is more restrictive with respect to lie detector tests than any provision of this chapter.
 
-(Pub. L. 100–347, § 10, June 27, 1988, 102 Stat. 653.)
+(Pub. L. 100–347, § 10, June 27, 1988, 102 Stat. 653.)
 
 **Statutory Notes and Related Subsidiaries**
 

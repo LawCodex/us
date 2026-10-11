@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—GENERAL PROVISIONS
 
-### § 635. Powers and functions of Bank
+### § 635. Powers and functions of Bank
 
 **(a) General banking business; use of mails; publication of documents, reports, contracts, etc.; use of assets and allocated or borrowed money; payment of dividends; medium-term financing; dissemination of information; enhancement of medium-term program**
 
@@ -53,9 +53,9 @@ retrieved: 2026-10-11
 
 **(B)** It is further the policy of the United States that loans made by the Bank in all its programs shall bear interest at rates determined by the Board of Directors, consistent with the Bank’s mandate to support United States exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements. For the purpose of the preceding sentence, rates and terms and conditions need not be identical in all respects to those offered by foreign countries, but should be established so that the effect of such rates, terms, and conditions for all the Bank’s programs, including those for small businesses and for medium-term financing, will be to neutralize the effect of such foreign credit on international sales competition. The Bank shall consider its average cost of money as one factor in its determination of interest rates, where such consideration does not impair the Bank’s primary function of expanding United States exports through fully competitive financing. The Bank may not impose a credit application fee unless (i) the fee is competitive with the average fee charged by the Bank’s primary foreign competitors, and (ii) the borrower or the exporter is given the option of paying the fee at the outset of the loan or over the life of the loan and the present value of the fee determined under either such option is the same amount. It is also the policy of the United States that the Bank in the exercise of its functions should supplement and encourage, and not compete with, private capital; that the Bank, in determining whether to provide support for a transaction under the loan, guarantee, or insurance program, or any combination thereof, shall consider the need to involve private capital in support of United States exports as well as the cost of the transaction as calculated in accordance with the requirements of the Federal Credit Reform Act of 1990 [2 U.S.C. 661 et seq.]; that the Bank shall accord equal opportunity to export agents and managers, independent export firms, export trading companies, and small commercial banks in the formulation and implementation of its programs; that the Bank should give emphasis to assisting new and small business entrants in the agricultural export market, and shall, in cooperation with other relevant Government agencies, including the Commodity Credit Corporation, develop a program of education to increase awareness of export opportunities among small agribusinesses and cooperatives; that loans, so far as possible consistent with the carrying out of the purposes of subsection (a), shall generally be for specific purposes, and, in the judgment of the Board of Directors, offer reasonable assurance of repayment; and that in authorizing any loan or guarantee, the Board of Directors shall take into account any serious adverse effect of such loan or guarantee on the competitive position of United States industry, the availability of materials which are in short supply in the United States, and employment in the United States, and shall give particular emphasis to the objective of strengthening the competitive position of United States exporters and thereby of expanding total United States exports. Only in cases where the President, after consultation with the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, determines that such action would be in the national interest where such action would clearly and importantly advance United States policy in such areas as international terrorism (including, when relevant, a foreign nation’s lack of cooperation in efforts to eradicate terrorism), nuclear proliferation, the enforcement of the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act [22 U.S.C. 2751 et seq.], the International Emergency Economic Powers Act [50 U.S.C. 1701 et seq.], or the Export Administration Act of 1979, environmental protection and human rights (such as are provided in the Universal Declaration of Human Rights adopted by the United Nations General Assembly on December 10, 1948) (including child labor), should the Export-Import Bank deny applications for credit for nonfinancial or noncommercial considerations. Each such determination shall be delivered in writing to the President of the Bank, shall state that the determination is made pursuant to this section, and shall specify the applications or categories of applications for credit which should be denied by the Bank in furtherance of the national interest.
 
-**(C)** Consistent with the policy of section 3261 of title 22 and section 2151q 1
+**(C)** Consistent with the policy of section 3261 of title 22 and section 2151q 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 22, the Board of Directors shall name an officer of the Bank whose duties shall include advising the President of the Bank on ways of promoting the export of goods and services to be used in the development, production, and distribution of nonnuclear renewable energy resources, disseminating information concerning export opportunities and the availability of Bank support for such activities, and acting as a liaison between the Bank and the Department of Commerce and other appropriate departments and agencies.
 
@@ -665,7 +665,7 @@ It shall be a goal of the Bank to reserve not less than 20 percent of the applic
 
 The National Advisory Council on International Monetary and Financial Problems shall ensure that Bank authorizations pursuant to the Program on China and Transformational Exports are considered or reviewed expeditiously, consistent with the other credit standards required by law.
 
-(July 31, 1945, ch. 341, § 2, 59 Stat. 526; Dec. 28, 1945, ch. 602, 59 Stat. 666; June 9, 1947, ch. 101, § 1, 61 Stat. 130; May 21, 1953, ch. 64, § 1, 67 Stat. 28; Pub. L. 87–311, Sept. 26, 1961, 75 Stat. 673; Pub. L. 88–101, § 1(a), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, § 1(a)–(c), Mar. 13, 1968, 82 Stat. 47–49; Pub. L. 92–126, § 1(b)(1), (2), (5), (6), Aug. 17, 1971, 85 Stat. 345, 346; Pub. L. 93–646, §§ 2–6, 13, Jan. 4, 1975, 88 Stat. 2333–2335, 2337; Pub. L. 95–143, §§ 1–3, Oct. 26, 1977, 91 Stat. 1210; Pub. L. 95–630, title XIX, §§ 1902–1904, 1907(a), 1909, 1910, 1915, 1916, Nov. 10, 1978, 92 Stat. 3724–3727; Pub. L. 96–470, title II, § 210, Oct. 19, 1980, 94 Stat. 2245; Pub. L. 98–181, title I [title VI, §§ 612, 616(a), 617, 618(a), (c), 619(b)–(d), 620(a), 622], Nov. 30, 1983, 97 Stat. 1255, 1257, 1258, 1260, 1261; Pub. L. 99–440, title II, § 204, Oct. 2, 1986, 100 Stat. 1096; Pub. L. 99–472, §§ 2–11, 20(a), Oct. 15, 1986, 100 Stat. 1200–1203, 1209; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–418, title III, § 3304, Aug. 23, 1988, 102 Stat. 1384; Pub. L. 100–690, title IV, § 4703, Nov. 18, 1988, 102 Stat. 4293; Pub. L. 101–240, title I, §§ 101(a), (c), (d), 102, Dec. 19, 1989, 103 Stat. 2493–2495; Pub. L. 101–513, title V, § 562 (part), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 101–623, § 16, Nov. 21, 1990, 104 Stat. 3357; Pub. L. 102–145, § 121(2), (3), Oct. 28, 1991, as added Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 95; Pub. L. 102–429, title I, §§ 104, 105, 107, 109(a), 110–112(d), 114, 116, 121(a), Oct. 21, 1992, 106 Stat. 2189, 2190, 2193–2196, 2198; Pub. L. 102–583, §§ 6(c), 12(a), (c)(1)(A), Nov. 2, 1992, 106 Stat. 4932, 4935; Pub. L. 103–149, § 4(b)(5), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title VIII, § 825, Apr. 30, 1994, 108 Stat. 514; Pub. L. 103–428, § 1(a), (b), Oct. 31, 1994, 108 Stat. 4375; Pub. L. 103–447, title I, § 102(a), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–201, div. A, title XIII, § 1303(a), Sept. 23, 1996, 110 Stat. 2702; Pub. L. 105–121, §§ 5, 7(a), 9–12, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–569, title XI, §§ 1103(d)(1), 1104(a)(1), (2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§ 2, 6(a), (b), 7–8(b), 11, 13, 15–19, 21, 24(a)(1)–(2)(D), (b)(1)–(3), June 14, 2002, 116 Stat. 698, 700, 704–709; Pub. L. 109–438, §§ 3(a), (b)(2), (c), 5, 6(b)(2), 7, 8, 11, 12, 13(b), (c), 14(b), Dec. 20, 2006, 120 Stat. 3268, 3269, 3272, 3273, 3276, 3277, 3279, 3280; Pub. L. 112–122, §§ 7, 8, 12(b), 22, 23, May 30, 2012, 126 Stat. 354, 357, 363; Pub. L. 114–94, div. E, title LII, § 52001(a), title LIII, § 53001, title LIV, §§ 54001(c), 54002(a), (b), title LV, § 55001, Dec. 4, 2015, 129 Stat. 1767–1769; Pub. L. 116–94, div. I, title IV, §§ 402(a), 403, 404(a), 405–407, Dec. 20, 2019, 133 Stat. 3021, 3023, 3024.)
+(July 31, 1945, ch. 341, § 2, 59 Stat. 526; Dec. 28, 1945, ch. 602, 59 Stat. 666; June 9, 1947, ch. 101, § 1, 61 Stat. 130; May 21, 1953, ch. 64, § 1, 67 Stat. 28; Pub. L. 87–311, Sept. 26, 1961, 75 Stat. 673; Pub. L. 88–101, § 1(a), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, § 1(a)–(c), Mar. 13, 1968, 82 Stat. 47–49; Pub. L. 92–126, § 1(b)(1), (2), (5), (6), Aug. 17, 1971, 85 Stat. 345, 346; Pub. L. 93–646, §§ 2–6, 13, Jan. 4, 1975, 88 Stat. 2333–2335, 2337; Pub. L. 95–143, §§ 1–3, Oct. 26, 1977, 91 Stat. 1210; Pub. L. 95–630, title XIX, §§ 1902–1904, 1907(a), 1909, 1910, 1915, 1916, Nov. 10, 1978, 92 Stat. 3724–3727; Pub. L. 96–470, title II, § 210, Oct. 19, 1980, 94 Stat. 2245; Pub. L. 98–181, title I [title VI, §§ 612, 616(a), 617, 618(a), (c), 619(b)–(d), 620(a), 622], Nov. 30, 1983, 97 Stat. 1255, 1257, 1258, 1260, 1261; Pub. L. 99–440, title II, § 204, Oct. 2, 1986, 100 Stat. 1096; Pub. L. 99–472, §§ 2–11, 20(a), Oct. 15, 1986, 100 Stat. 1200–1203, 1209; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–418, title III, § 3304, Aug. 23, 1988, 102 Stat. 1384; Pub. L. 100–690, title IV, § 4703, Nov. 18, 1988, 102 Stat. 4293; Pub. L. 101–240, title I, §§ 101(a), (c), (d), 102, Dec. 19, 1989, 103 Stat. 2493–2495; Pub. L. 101–513, title V, § 562 (part), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 101–623, § 16, Nov. 21, 1990, 104 Stat. 3357; Pub. L. 102–145, § 121(2), (3), Oct. 28, 1991, as added Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 95; Pub. L. 102–429, title I, §§ 104, 105, 107, 109(a), 110–112(d), 114, 116, 121(a), Oct. 21, 1992, 106 Stat. 2189, 2190, 2193–2196, 2198; Pub. L. 102–583, §§ 6(c), 12(a), (c)(1)(A), Nov. 2, 1992, 106 Stat. 4932, 4935; Pub. L. 103–149, § 4(b)(5), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title VIII, § 825, Apr. 30, 1994, 108 Stat. 514; Pub. L. 103–428, § 1(a), (b), Oct. 31, 1994, 108 Stat. 4375; Pub. L. 103–447, title I, § 102(a), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–201, div. A, title XIII, § 1303(a), Sept. 23, 1996, 110 Stat. 2702; Pub. L. 105–121, §§ 5, 7(a), 9–12, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–569, title XI, §§ 1103(d)(1), 1104(a)(1), (2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§ 2, 6(a), (b), 7–8(b), 11, 13, 15–19, 21, 24(a)(1)–(2)(D), (b)(1)–(3), June 14, 2002, 116 Stat. 698, 700, 704–709; Pub. L. 109–438, §§ 3(a), (b)(2), (c), 5, 6(b)(2), 7, 8, 11, 12, 13(b), (c), 14(b), Dec. 20, 2006, 120 Stat. 3268, 3269, 3272, 3273, 3276, 3277, 3279, 3280; Pub. L. 112–122, §§ 7, 8, 12(b), 22, 23, May 30, 2012, 126 Stat. 354, 357, 363; Pub. L. 114–94, div. E, title LII, § 52001(a), title LIII, § 53001, title LIV, §§ 54001(c), 54002(a), (b), title LV, § 55001, Dec. 4, 2015, 129 Stat. 1767–1769; Pub. L. 116–94, div. I, title IV, §§ 402(a), 403, 404(a), 405–407, Dec. 20, 2019, 133 Stat. 3021, 3023, 3024.)
 
 **Amendment of Section**
 
@@ -675,23 +675,23 @@ For termination of amendment by section 1(c) of Pub. L. 103–428, see Effective
 
 **References in Text**
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (b)(1)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (b)(1)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 The Foreign Corrupt Practices Act of 1977, referred to in subsec. (b)(1)(B), (L), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
 
-The Arms Export Control Act, referred to in subsec. (b)(1)(B), (L), (6)(F), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(1)(B), (L), (6)(F), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(B), (L), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(B), (L), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Export Administration Act of 1979, referred to in subsec. (b)(1)(B), (L), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in subsec. (b)(1)(B), (L), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
-Section 2151q of title 22, referred to in subsec. (b)(1)(C), was repealed by Pub. L. 96–533, title III, § 304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of Title 22, Foreign Relations and Intercourse.
+Section 2151q of title 22, referred to in subsec. (b)(1)(C), was repealed by Pub. L. 96–533, title III, § 304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of Title 22, Foreign Relations and Intercourse.
 
-The African Growth and Opportunity Act, referred to in subsec. (b)(9)(C), is title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to chapter 23 (§ 3701 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 19 and Tables.
+The African Growth and Opportunity Act, referred to in subsec. (b)(9)(C), is title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to chapter 23 (§ 3701 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 19 and Tables.
 
-The Tariff Act of 1930, referred to in subsec. (e)(2)(A)(i), (B), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsec. (e)(2)(A)(i), (B), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
-The Trade Act of 1974, referred to in subsec. (e)(2)(A)(ii), (D), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title II of the Act is classified generally to subchapter II (§ 2251 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (e)(2)(A)(ii), (D), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title II of the Act is classified generally to subchapter II (§ 2251 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
 December 20, 2006, referred to in subsec. (e)(5), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 109–438, which enacted subsec. (e)(5), to reflect the probable intent of Congress.
 
@@ -701,121 +701,121 @@ Section 1(c) of Pub. L. 90–267 added pars. (2) to (5) of subsec. (b) and anoth
 
 **Amendments**
 
-2019—Subsec. (b)(1)(E)(i)(I). Pub. L. 116–94, § 403, added subcl. (I) and struck out former subcl. (I) which read as follows: “It is further the policy of the United States to encourage the participation of small business in international commerce.”
+2019—Subsec. (b)(1)(E)(i)(I). Pub. L. 116–94, § 403, added subcl. (I) and struck out former subcl. (I) which read as follows: “It is further the policy of the United States to encourage the participation of small business in international commerce.”
 
-Subsec. (b)(1)(E)(v). Pub. L. 116–94, § 405, inserted at end “For the purpose of calculating the amounts of authority required under this clause, the Bank shall, with respect to insurance, exclude unutilized authorizations that terminated during the fiscal year.”
+Subsec. (b)(1)(E)(v). Pub. L. 116–94, § 405, inserted at end “For the purpose of calculating the amounts of authority required under this clause, the Bank shall, with respect to insurance, exclude unutilized authorizations that terminated during the fiscal year.”
 
-Pub. L. 116–94, § 404(a), substituted “30” for “25”.
+Pub. L. 116–94, § 404(a), substituted “30” for “25”.
 
-Subsec. (b)(1)(K). Pub. L. 116–94, § 407, inserted before period at end “, energy efficiency (including battery electric vehicles, batteries for electric vehicles, and electric vehicle charging infrastructure), and energy storage. It shall be a goal of the Bank to ensure that not less than 5 percent of the applicable amount (as defined in section 635e(a)(2) of this title) is made available each fiscal year for the financing of renewable energy, energy efficiency (including battery electric vehicles, batteries for electric vehicles, and electric vehicle charging infrastructure), and energy storage technology exports”.
+Subsec. (b)(1)(K). Pub. L. 116–94, § 407, inserted before period at end “, energy efficiency (including battery electric vehicles, batteries for electric vehicles, and electric vehicle charging infrastructure), and energy storage. It shall be a goal of the Bank to ensure that not less than 5 percent of the applicable amount (as defined in section 635e(a)(2) of this title) is made available each fiscal year for the financing of renewable energy, energy efficiency (including battery electric vehicles, batteries for electric vehicles, and electric vehicle charging infrastructure), and energy storage technology exports”.
 
-Subsec. (f). Pub. L. 116–94, § 406(1), inserted before period at end “, and shall deny an application for assistance if the end user, borrower, lender, or exporter has been convicted of an act of fraud or corruption in connection with an application for support from the Bank made in the preceding 5 years. The Bank may proceed with an application described in this subsection only if an end user, borrower, lender, or exporter can be fully excluded from the transaction”.
+Subsec. (f). Pub. L. 116–94, § 406(1), inserted before period at end “, and shall deny an application for assistance if the end user, borrower, lender, or exporter has been convicted of an act of fraud or corruption in connection with an application for support from the Bank made in the preceding 5 years. The Bank may proceed with an application described in this subsection only if an end user, borrower, lender, or exporter can be fully excluded from the transaction”.
 
-Subsec. (i). Pub. L. 116–94, § 406(2), substituted “shall require” for “should require”.
+Subsec. (i). Pub. L. 116–94, § 406(2), substituted “shall require” for “should require”.
 
-Subsec. (*l*). Pub. L. 116–94, § 402(a), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 116–94, § 402(a), added subsec. (*l*).
 
-2015—Subsec. (a)(2)(A)(iii). Pub. L. 114–94, § 54002(a), added cl. (iii).
+2015—Subsec. (a)(2)(A)(iii). Pub. L. 114–94, § 54002(a), added cl. (iii).
 
-Subsec. (b)(1)(E)(v). Pub. L. 114–94, § 52001(a), substituted “25 percent” for “20 percent”.
+Subsec. (b)(1)(E)(v). Pub. L. 114–94, § 52001(a), substituted “25 percent” for “20 percent”.
 
-Subsec. (b)(1)(M). Pub. L. 114–94, § 53001, added subpar. (M).
+Subsec. (b)(1)(M). Pub. L. 114–94, § 53001, added subpar. (M).
 
-Subsec. (b)(9)(B)(iii). Pub. L. 114–94, § 54001(c), substituted “the date on which the authority of the Bank expires under section 635f of this title” for “September 30, 2014”.
+Subsec. (b)(9)(B)(iii). Pub. L. 114–94, § 54001(c), substituted “the date on which the authority of the Bank expires under section 635f of this title” for “September 30, 2014”.
 
-Subsec. (d)(2). Pub. L. 114–94, § 54002(b), substituted “$25,000,000” for “$10,000,000”.
+Subsec. (d)(2). Pub. L. 114–94, § 54002(b), substituted “$25,000,000” for “$10,000,000”.
 
-Subsec. (k). Pub. L. 114–94, § 55001, added subsec. (k).
+Subsec. (k). Pub. L. 114–94, § 55001, added subsec. (k).
 
-2012—Subsec. (b)(2)(B)(ii). Pub. L. 112–122, § 22, redesignated subcls. (II), (III), (V), (VI), (VIII), and (IX) as (I) to (VI), respectively, and struck out subcls. (I), (IV), and (VII) which deemed Cambodian People’s Republic, Lao People’s Democratic Republic, and Socialist Federal Republic of Yugoslavia as Marxist-Leninist countries for purposes of par. (2).
+2012—Subsec. (b)(2)(B)(ii). Pub. L. 112–122, § 22, redesignated subcls. (II), (III), (V), (VI), (VIII), and (IX) as (I) to (VI), respectively, and struck out subcls. (I), (IV), and (VII) which deemed Cambodian People’s Republic, Lao People’s Democratic Republic, and Socialist Federal Republic of Yugoslavia as Marxist-Leninist countries for purposes of par. (2).
 
-Subsec. (b)(9)(B)(iii). Pub. L. 112–122, § 23, substituted “2014” for “2011”.
+Subsec. (b)(9)(B)(iii). Pub. L. 112–122, § 23, substituted “2014” for “2011”.
 
-Subsec. (e)(7)(E) to (G). Pub. L. 112–122, § 12(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
+Subsec. (e)(7)(E) to (G). Pub. L. 112–122, § 12(b), added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
-Subsec. (i). Pub. L. 112–122, § 7, added subsec. (i).
+Subsec. (i). Pub. L. 112–122, § 7, added subsec. (i).
 
-Subsec. (j). Pub. L. 112–122, § 8, added subsec. (j).
+Subsec. (j). Pub. L. 112–122, § 8, added subsec. (j).
 
-2006—Subsec. (b)(1)(A). Pub. L. 109–438, § 13(b), (c), inserted “, including countries the governments of which are not members of the Arrangement (as defined in section 635i–3(h)(3) of this title)” after “United States exporters” in second sentence and struck out fourth to twelfth sentences which related to compliance reporting requirements.
+2006—Subsec. (b)(1)(A). Pub. L. 109–438, § 13(b), (c), inserted “, including countries the governments of which are not members of the Arrangement (as defined in section 635i–3(h)(3) of this title)” after “United States exporters” in second sentence and struck out fourth to twelfth sentences which related to compliance reporting requirements.
 
-Subsec. (b)(1)(E)(v). Pub. L. 109–438, § 14(b), inserted at end “From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in section 635a(i)(1) of this title.”
+Subsec. (b)(1)(E)(v). Pub. L. 109–438, § 14(b), inserted at end “From the amount made available under the preceding sentence, it shall be a goal of the Bank to increase the amount made available to finance exports directly by small business concerns referred to in section 635a(i)(1) of this title.”
 
-Subsec. (b)(1)(E)(vii)(III). Pub. L. 109–438, § 6(b)(2), inserted “or other financing institutions or entities” after “consortia”.
+Subsec. (b)(1)(E)(vii)(III). Pub. L. 109–438, § 6(b)(2), inserted “or other financing institutions or entities” after “consortia”.
 
-Subsec. (b)(9)(B)(iii). Pub. L. 109–438, § 3(a), substituted “2011” for “2006”.
+Subsec. (b)(9)(B)(iii). Pub. L. 109–438, § 3(a), substituted “2011” for “2006”.
 
-Subsec. (b)(9)(C), (D). Pub. L. 109–438, § 3(b)(2), (c), added subpars. (C) and (D).
+Subsec. (b)(9)(C), (D). Pub. L. 109–438, § 3(b)(2), (c), added subpars. (C) and (D).
 
-Subsec. (b)(13). Pub. L. 109–438, § 11, added par. (13).
+Subsec. (b)(13). Pub. L. 109–438, § 11, added par. (13).
 
-Subsec. (e)(1). Pub. L. 109–438, § 7(1), inserted concluding provisions.
+Subsec. (e)(1). Pub. L. 109–438, § 7(1), inserted concluding provisions.
 
-Subsec. (e)(2)(C). Pub. L. 109–438, § 8(b), inserted “of not less than 14 days (which, on request of any affected party, shall be extended to a period of not more than 30 days)” after “comment period”.
+Subsec. (e)(2)(C). Pub. L. 109–438, § 8(b), inserted “of not less than 14 days (which, on request of any affected party, shall be extended to a period of not more than 30 days)” after “comment period”.
 
-Subsec. (e)(2)(E). Pub. L. 109–438, § 7(2), added subpar. (E).
+Subsec. (e)(2)(E). Pub. L. 109–438, § 7(2), added subpar. (E).
 
-Subsec. (e)(5) to (7). Pub. L. 109–438, §§ 5, 7(3), 8(a), added pars. (5) to (7).
+Subsec. (e)(5) to (7). Pub. L. 109–438, §§ 5, 7(3), 8(a), added pars. (5) to (7).
 
-Subsecs. (g), (h). Pub. L. 109–438, § 12, added subsecs. (g) and (h).
+Subsecs. (g), (h). Pub. L. 109–438, § 12, added subsecs. (g) and (h).
 
-2002—Subsec. (a)(1). Pub. L. 107–189, § 2, substituted “The objects and purposes of the Bank shall be to aid in financing and to facilitate exports of goods and services, imports, and the exchange of commodities and services between the United States or any of its territories or insular possessions and any foreign country or the agencies or nationals of any such country, and in so doing to contribute to the employment of United States workers. The Bank’s objective in authorizing loans, guarantees, insurance, and credits shall be to contribute to maintaining or increasing employment of United States workers.” for “The objects and purposes of the bank shall be to aid in financing and to facilitate exports and imports and the exchange of commodities and services between the United States or any of its Territories or insular possessions and any foreign country or the agencies or nationals thereof.”
+2002—Subsec. (a)(1). Pub. L. 107–189, § 2, substituted “The objects and purposes of the Bank shall be to aid in financing and to facilitate exports of goods and services, imports, and the exchange of commodities and services between the United States or any of its territories or insular possessions and any foreign country or the agencies or nationals of any such country, and in so doing to contribute to the employment of United States workers. The Bank’s objective in authorizing loans, guarantees, insurance, and credits shall be to contribute to maintaining or increasing employment of United States workers.” for “The objects and purposes of the bank shall be to aid in financing and to facilitate exports and imports and the exchange of commodities and services between the United States or any of its Territories or insular possessions and any foreign country or the agencies or nationals thereof.”
 
-Subsec. (b)(1)(A). Pub. L. 107–189, §§ 11, 13(b), substituted “not later than June 30 of each year” for “on an annual basis” in fourth sentence, inserted “(including through use of market windows)” after “which foreign exporters compete with the United States exporters” in fifth sentence, inserted “With respect to the preceding sentence, the Bank shall use all available information to estimate the annual amount of export financing available from each government and government-related agency.” after fifth sentence, and inserted at end “The Bank shall include in the annual report a description of all Bank transactions which shall be classified according to their principal purpose, such as to correct a market failure or to provide matching support. The Bank shall include in the annual report a description of the efforts undertaken under subparagraph (K).”
+Subsec. (b)(1)(A). Pub. L. 107–189, §§ 11, 13(b), substituted “not later than June 30 of each year” for “on an annual basis” in fourth sentence, inserted “(including through use of market windows)” after “which foreign exporters compete with the United States exporters” in fifth sentence, inserted “With respect to the preceding sentence, the Bank shall use all available information to estimate the annual amount of export financing available from each government and government-related agency.” after fifth sentence, and inserted at end “The Bank shall include in the annual report a description of all Bank transactions which shall be classified according to their principal purpose, such as to correct a market failure or to provide matching support. The Bank shall include in the annual report a description of the efforts undertaken under subparagraph (K).”
 
-Subsec. (b)(1)(B). Pub. L. 107–189, §§ 15, 17, 21, 24(a)(1), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking and Financial Services of the House of Representatives” and inserted “(including, when relevant, a foreign nation’s lack of cooperation in efforts to eradicate terrorism)” after “international terrorism”, “the enforcement of the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act, the International Emergency Economic Powers Act, or the Export Administration Act of 1979,” after “nuclear proliferation,” and “(such as are provided in the Universal Declaration of Human Rights adopted by the United Nations General Assembly on December 10, 1948)” after “human rights”.
+Subsec. (b)(1)(B). Pub. L. 107–189, §§ 15, 17, 21, 24(a)(1), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking and Financial Services of the House of Representatives” and inserted “(including, when relevant, a foreign nation’s lack of cooperation in efforts to eradicate terrorism)” after “international terrorism”, “the enforcement of the Foreign Corrupt Practices Act of 1977, the Arms Export Control Act, the International Emergency Economic Powers Act, or the Export Administration Act of 1979,” after “nuclear proliferation,” and “(such as are provided in the Universal Declaration of Human Rights adopted by the United Nations General Assembly on December 10, 1948)” after “human rights”.
 
-Subsec. (b)(1)(E)(iii)(II). Pub. L. 107–189, § 7(b), inserted “, with particular emphasis on conducting outreach and increasing loans to socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), small business concerns (as defined in section 632(a) of title 15) owned by women, and small business concerns (as defined in section 632(a) of title 15) employing fewer than 100 employees,” after “Bank”.
+Subsec. (b)(1)(E)(iii)(II). Pub. L. 107–189, § 7(b), inserted “, with particular emphasis on conducting outreach and increasing loans to socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15), small business concerns (as defined in section 632(a) of title 15) owned by women, and small business concerns (as defined in section 632(a) of title 15) employing fewer than 100 employees,” after “Bank”.
 
-Subsec. (b)(1)(E)(v). Pub. L. 107–189, § 7(a), substituted “20 percent” for “10 percent”.
+Subsec. (b)(1)(E)(v). Pub. L. 107–189, § 7(a), substituted “20 percent” for “10 percent”.
 
-Subsec. (b)(1)(E)(x). Pub. L. 107–189, § 8(a), added cl. (x).
+Subsec. (b)(1)(E)(x). Pub. L. 107–189, § 8(a), added cl. (x).
 
-Subsec. (b)(1)(H)(ii), (iii). Pub. L. 107–189, § 24(b)(1), made technical amendment to reference in original act which appears in text as reference to section 5402 of title 22.
+Subsec. (b)(1)(H)(ii), (iii). Pub. L. 107–189, § 24(b)(1), made technical amendment to reference in original act which appears in text as reference to section 5402 of title 22.
 
-Subsec. (b)(1)(J). Pub. L. 107–189, § 8(b), added subpar. (J).
+Subsec. (b)(1)(J). Pub. L. 107–189, § 8(b), added subpar. (J).
 
-Subsec. (b)(1)(K). Pub. L. 107–189, § 13(a), added subpar. (K).
+Subsec. (b)(1)(K). Pub. L. 107–189, § 13(a), added subpar. (K).
 
-Subsec. (b)(1)(L). Pub. L. 107–189, § 19, added subpar. (L).
+Subsec. (b)(1)(L). Pub. L. 107–189, § 19, added subpar. (L).
 
-Subsec. (b)(6)(D)(i)(III). Pub. L. 107–189, § 24(a)(2)(A), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
+Subsec. (b)(6)(D)(i)(III). Pub. L. 107–189, § 24(a)(2)(A), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
 
-Subsec. (b)(6)(E). Pub. L. 107–189, § 24(b)(3), substituted “internationally” for “international”.
+Subsec. (b)(6)(E). Pub. L. 107–189, § 24(b)(3), substituted “internationally” for “international”.
 
-Subsec. (b)(6)(H). Pub. L. 107–189, § 24(a)(2)(B), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
+Subsec. (b)(6)(H). Pub. L. 107–189, § 24(a)(2)(B), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
 
-Subsec. (b)(6)(I)(i)(II), (iii). Pub. L. 107–189, § 24(a)(2)(C), (D), substituted “Committees on Financial Services” for “Committees on Banking, Finance and Urban Affairs”.
+Subsec. (b)(6)(I)(i)(II), (iii). Pub. L. 107–189, § 24(a)(2)(C), (D), substituted “Committees on Financial Services” for “Committees on Banking, Finance and Urban Affairs”.
 
-Subsec. (b)(9)(A). Pub. L. 107–189, § 6(b), inserted “, in consultation with the Secretary of Commerce and the Trade Promotion Coordinating Committee,” after “shall”.
+Subsec. (b)(9)(A). Pub. L. 107–189, § 6(b), inserted “, in consultation with the Secretary of Commerce and the Trade Promotion Coordinating Committee,” after “shall”.
 
-Subsec. (b)(9)(B)(iii). Pub. L. 107–189, § 6(a), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “The advisory committee shall terminate 4 years after November 26, 1997.”
+Subsec. (b)(9)(B)(iii). Pub. L. 107–189, § 6(a), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “The advisory committee shall terminate 4 years after November 26, 1997.”
 
-Subsec. (b)(12). Pub. L. 107–189, § 24(b)(2), realigned margins.
+Subsec. (b)(12). Pub. L. 107–189, § 24(b)(2), realigned margins.
 
-Subsec. (e)(2) to (4). Pub. L. 107–189, § 18, substituted “Paragraphs (1) and (2)” for “Paragraph (1)” in par. (2), added a new par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+Subsec. (e)(2) to (4). Pub. L. 107–189, § 18, substituted “Paragraphs (1) and (2)” for “Paragraph (1)” in par. (2), added a new par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (f). Pub. L. 107–189, § 16, added subsec. (f).
+Subsec. (f). Pub. L. 107–189, § 16, added subsec. (f).
 
-2000—Subsec. (b)(1)(A). Pub. L. 106–569, § 1103(d)(1), substituted “The Bank shall, on an annual basis, report” for “The Bank shall, on a annual basis, report” and inserted at end “The annual report required under this subparagraph shall include the report required under section 635i–3(g) of this title.”
+2000—Subsec. (b)(1)(A). Pub. L. 106–569, § 1103(d)(1), substituted “The Bank shall, on an annual basis, report” for “The Bank shall, on a annual basis, report” and inserted at end “The annual report required under this subparagraph shall include the report required under section 635i–3(g) of this title.”
 
-Subsec. (b)(1)(D). Pub. L. 106–569, § 1104(a)(1), struck out “(i)” after “(D)” and struck out cl. (ii) which read as follows: “The Bank shall include in its annual report a summary of its programs regarding the export of services.”
+Subsec. (b)(1)(D). Pub. L. 106–569, § 1104(a)(1), struck out “(i)” after “(D)” and struck out cl. (ii) which read as follows: “The Bank shall include in its annual report a summary of its programs regarding the export of services.”
 
-Subsec. (b)(8). Pub. L. 106–569, § 1104(a)(2), struck out at end “The Bank shall include in the report to Congress under section 635g(a) of this title a description of the measures undertaken by it pursuant to this subsection.”
+Subsec. (b)(8). Pub. L. 106–569, § 1104(a)(2), struck out at end “The Bank shall include in the report to Congress under section 635g(a) of this title a description of the measures undertaken by it pursuant to this subsection.”
 
-1997—Subsec. (b)(1)(A). Pub. L. 105–121, § 10, in first sentence, substituted “real income, a commitment to reinvestment and job creation, and the increased development of the productive resources of the United States” for “real income and to the increased development of the productive resources of the United States”.
+1997—Subsec. (b)(1)(A). Pub. L. 105–121, § 10, in first sentence, substituted “real income, a commitment to reinvestment and job creation, and the increased development of the productive resources of the United States” for “real income and to the increased development of the productive resources of the United States”.
 
-Subsec. (b)(1)(B). Pub. L. 105–121, § 11, inserted “(including child labor)” after “human rights” in penultimate sentence.
+Subsec. (b)(1)(B). Pub. L. 105–121, § 11, inserted “(including child labor)” after “human rights” in penultimate sentence.
 
-Pub. L. 105–121, § 5(2), inserted at end “Each such determination shall be delivered in writing to the President of the Bank, shall state that the determination is made pursuant to this section, and shall specify the applications or categories of applications for credit which should be denied by the Bank in furtherance of the national interest.”
+Pub. L. 105–121, § 5(2), inserted at end “Each such determination shall be delivered in writing to the President of the Bank, shall state that the determination is made pursuant to this section, and shall specify the applications or categories of applications for credit which should be denied by the Bank in furtherance of the national interest.”
 
-Pub. L. 105–121, § 5(1), in penultimate sentence, inserted “, after consultation with the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate,” after “President”.
+Pub. L. 105–121, § 5(1), in penultimate sentence, inserted “, after consultation with the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate,” after “President”.
 
-Subsec. (b)(1)(I). Pub. L. 105–121, § 9, added subpar. (I).
+Subsec. (b)(1)(I). Pub. L. 105–121, § 9, added subpar. (I).
 
-Subsec. (b)(9). Pub. L. 105–121, § 7(a), added par. (9).
+Subsec. (b)(9). Pub. L. 105–121, § 7(a), added par. (9).
 
-Subsec. (b)(12). Pub. L. 105–121, § 12, added par. (12).
+Subsec. (b)(12). Pub. L. 105–121, § 12, added par. (12).
 
 1996—Subsec. (b)(4). Pub. L. 104–201 amended par. (4) generally, restating provisions of former single par. as subpars. (A) to (F) with addition of provisions relating to persons knowingly aiding or abetting non-nuclear-weapon states to acquire nuclear explosive devices or unsafeguarded special nuclear material and requiring Secretary of State to initiate consultations with governments having jurisdiction over such persons.
 
@@ -823,19 +823,19 @@ Subsec. (b)(12). Pub. L. 105–121, § 12, added par. (12).
 
 Subsec. (b)(6)(C)(ii). Pub. L. 103–447 substituted “defined in section 2291(e) of title 22” for “determined under section 2291j(h) or 2291(e), as appropriate, of title 22”.
 
-Subsec. (b)(6)(H). Pub. L. 103–428, § 1(b), (c), temporarily inserted “or described in subparagraph (I)(i)” before period at end of first sentence. See Effective and Termination Dates of 1994 Amendments note below.
+Subsec. (b)(6)(H). Pub. L. 103–428, § 1(b), (c), temporarily inserted “or described in subparagraph (I)(i)” before period at end of first sentence. See Effective and Termination Dates of 1994 Amendments note below.
 
-Subsec. (b)(6)(I). Pub. L. 103–428, § 1(a), (c), temporarily added subpar. (I). See Effective and Termination Dates of 1994 Amendments note below.
+Subsec. (b)(6)(I). Pub. L. 103–428, § 1(a), (c), temporarily added subpar. (I). See Effective and Termination Dates of 1994 Amendments note below.
 
 1993—Subsec. (b)(9). Pub. L. 103–149 struck out par. (9) which prohibited the Bank from taking certain actions with respect to business affecting Republic of South Africa.
 
-1992—Subsec. (a)(3). Pub. L. 102–429, § 121(a)(1), struck out “(A) In general.—” before “To enhance the medium-term”, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, and struck out former subpar. (B) which read as follows: “Report required.—Not later than April 15, 1988, the Bank shall transmit a report to the Congress analyzing the measures adopted to enhance medium-term financing.”
+1992—Subsec. (a)(3). Pub. L. 102–429, § 121(a)(1), struck out “(A) In general.—” before “To enhance the medium-term”, redesignated cls. (i) to (iv) as subpars. (A) to (D), respectively, and struck out former subpar. (B) which read as follows: “Report required.—Not later than April 15, 1988, the Bank shall transmit a report to the Congress analyzing the measures adopted to enhance medium-term financing.”
 
-Subsec. (b)(1)(A). Pub. L. 102–429, § 121(a)(2), added sentence at end and struck out former last sentence which read as follows: “The Bank shall also include in the annual report a description of each loan by the Bank involving the export of any product or service related to the production, refining or transportation of any type of energy or the development of any energy resource with a statement assessing the impact, if any, on the availability of such products, services, or energy supplies thus developed for use within the United States.”
+Subsec. (b)(1)(A). Pub. L. 102–429, § 121(a)(2), added sentence at end and struck out former last sentence which read as follows: “The Bank shall also include in the annual report a description of each loan by the Bank involving the export of any product or service related to the production, refining or transportation of any type of energy or the development of any energy resource with a statement assessing the impact, if any, on the availability of such products, services, or energy supplies thus developed for use within the United States.”
 
-Subsec. (b)(1)(B). Pub. L. 102–429, § 104, inserted after first semicolon in fifth sentence “that the Bank, in determining whether to provide support for a transaction under the loan, guarantee, or insurance program, or any combination thereof, shall consider the need to involve private capital in support of United States exports as well as the cost of the transaction as calculated in accordance with the requirements of the Federal Credit Reform Act of 1990;”.
+Subsec. (b)(1)(B). Pub. L. 102–429, § 104, inserted after first semicolon in fifth sentence “that the Bank, in determining whether to provide support for a transaction under the loan, guarantee, or insurance program, or any combination thereof, shall consider the need to involve private capital in support of United States exports as well as the cost of the transaction as calculated in accordance with the requirements of the Federal Credit Reform Act of 1990;”.
 
-Subsec. (b)(1)(E)(v). Pub. L. 102–429, § 121(a)(3), substituted “not less than 10 percent of such authority for each fiscal year.” for “not less than—
+Subsec. (b)(1)(E)(v). Pub. L. 102–429, § 121(a)(3), substituted “not less than 10 percent of such authority for each fiscal year.” for “not less than—
 
 “(I) 6 per centum of such authority for fiscal year 1984;
 
@@ -843,11 +843,11 @@ Subsec. (b)(1)(E)(v). Pub. L. 102–429, § 121(a)(3), substituted “not less
 
 “(III) 10 per centum of such authority for fiscal year 1986 and thereafter.”
 
-Pub. L. 102–429, § 116, inserted “directly” after “to finance exports”.
+Pub. L. 102–429, § 116, inserted “directly” after “to finance exports”.
 
-Subsec. (b)(1)(H). Pub. L. 102–429, § 114, added subpar. (H).
+Subsec. (b)(1)(H). Pub. L. 102–429, § 114, added subpar. (H).
 
-Subsec. (b)(2)(B). Pub. L. 102–429, § 110, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+Subsec. (b)(2)(B). Pub. L. 102–429, § 110, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
 “(i) In general.—For the purposes of this paragraph, the term ‘Marxist-Leninist country’ means any country which—
 
@@ -917,37 +917,37 @@ Subsec. (b)(2)(B). Pub. L. 102–429, § 110, amended subpar. (B) generally. P
 
 “Union of Soviet Socialist Republics (including its captive constituent republics).”
 
-Subsec. (b)(6)(A). Pub. L. 102–583, § 12(c)(1)(A), which directed the substitution of “, except as otherwise provided in subparagraph (B).” for “designated” and all that follows through the end of the subparagraph could not be executed because the words did not appear subsequent to the amendment by Pub. L. 102–429, § 112(d)(1). See below.
+Subsec. (b)(6)(A). Pub. L. 102–583, § 12(c)(1)(A), which directed the substitution of “, except as otherwise provided in subparagraph (B).” for “designated” and all that follows through the end of the subparagraph could not be executed because the words did not appear subsequent to the amendment by Pub. L. 102–429, § 112(d)(1). See below.
 
-Pub. L. 102–429, § 112(d)(1), struck out before period at end “designated under section 4916 of title 26 as an economically less developed country for purposes of the tax imposed by section 4911 of title 26. The prohibitions set forth in this subparagraph shall not apply with respect to any transaction the consummation of which the President determines would be in the national interest and reports such determination (within thirty days after making the same) to the Senate and House of Representatives. In making any such determination the President shall take into account, among other considerations, the national interest in avoiding arms races among countries not directly menaced by the Soviet Union or by Communist China; in avoiding arming military dictators who are denying social progress to their own peoples; and in avoiding expenditures by developing countries of scarce foreign exchange needed for peaceful economic progress”.
+Pub. L. 102–429, § 112(d)(1), struck out before period at end “designated under section 4916 of title 26 as an economically less developed country for purposes of the tax imposed by section 4911 of title 26. The prohibitions set forth in this subparagraph shall not apply with respect to any transaction the consummation of which the President determines would be in the national interest and reports such determination (within thirty days after making the same) to the Senate and House of Representatives. In making any such determination the President shall take into account, among other considerations, the national interest in avoiding arms races among countries not directly menaced by the Soviet Union or by Communist China; in avoiding arming military dictators who are denying social progress to their own peoples; and in avoiding expenditures by developing countries of scarce foreign exchange needed for peaceful economic progress”.
 
-Subsec. (b)(6)(B). Pub. L. 102–429, § 112(d)(2)(A), struck out “, and section 32 of the Arms Export Control Act,” after “Subparagraph (A)”.
+Subsec. (b)(6)(B). Pub. L. 102–429, § 112(d)(2)(A), struck out “, and section 32 of the Arms Export Control Act,” after “Subparagraph (A)”.
 
-Subsec. (b)(6)(B)(iii). Pub. L. 102–583, § 6(c)(1), substituted “section 2291j(e) of title 22” for “section 2291(h)(5) of title 22”.
+Subsec. (b)(6)(B)(iii). Pub. L. 102–583, § 6(c)(1), substituted “section 2291j(e) of title 22” for “section 2291(h)(5) of title 22”.
 
-Subsec. (b)(6)(B)(iv), (v). Pub. L. 102–429, § 112(a)(1), (2), (d)(2)(B), inserted “and” at end of cl. (iv) and substituted “articles or services.” for “articles and services; and” at end of cl. (v).
+Subsec. (b)(6)(B)(iv), (v). Pub. L. 102–429, § 112(a)(1), (2), (d)(2)(B), inserted “and” at end of cl. (iv) and substituted “articles or services.” for “articles and services; and” at end of cl. (v).
 
-Subsec. (b)(6)(B)(vi). Pub. L. 102–583, § 12(a), which directed the substitution of “1997” for “1992” in cl. (vi), could not be executed because cl. (vi) was struck out by Pub. L. 102–429, § 112(a)(3). See below.
+Subsec. (b)(6)(B)(vi). Pub. L. 102–583, § 12(a), which directed the substitution of “1997” for “1992” in cl. (vi), could not be executed because cl. (vi) was struck out by Pub. L. 102–429, § 112(a)(3). See below.
 
-Pub. L. 102–429, § 112(a)(3), struck out cl. (vi) which read as follows: “the sale is made on or before September 30, 1992.”
+Pub. L. 102–429, § 112(a)(3), struck out cl. (vi) which read as follows: “the sale is made on or before September 30, 1992.”
 
-Subsec. (b)(6)(C)(ii). Pub. L. 102–583, § 6(c)(2), substituted “determined under section 2291j(h) or 2291(e), as appropriate, of title 22” for “defined in section 2291(i) of title 22”.
+Subsec. (b)(6)(C)(ii). Pub. L. 102–583, § 6(c)(2), substituted “determined under section 2291j(h) or 2291(e), as appropriate, of title 22” for “defined in section 2291(i) of title 22”.
 
-Subsec. (b)(6)(D)(i). Pub. L. 102–429, § 112(b), (d)(3), struck out “and” at end of subcl. (I), added subcl. (II), redesignated former subcl. (II) as (III), and substituted “determinations have” for “determination has” in subcl. (III).
+Subsec. (b)(6)(D)(i). Pub. L. 102–429, § 112(b), (d)(3), struck out “and” at end of subcl. (I), added subcl. (II), redesignated former subcl. (II) as (III), and substituted “determinations have” for “determination has” in subcl. (III).
 
-Subsec. (b)(6)(D)(ii). Pub. L. 102–429, § 112(d)(4), substituted “clause” for “sentence” before period at end.
+Subsec. (b)(6)(D)(ii). Pub. L. 102–429, § 112(d)(4), substituted “clause” for “sentence” before period at end.
 
-Subsec. (b)(6)(G). Pub. L. 102–429, § 112(d)(5), substituted “or services” for “and services”.
+Subsec. (b)(6)(G). Pub. L. 102–429, § 112(d)(5), substituted “or services” for “and services”.
 
-Subsec. (b)(6)(H). Pub. L. 102–429, § 112(c), added subpar. (H).
+Subsec. (b)(6)(H). Pub. L. 102–429, § 112(c), added subpar. (H).
 
-Subsec. (b)(11), (12). Pub. L. 102–429, § 111, redesignated par. (12) as (11), substituted “The President” for “Notwithstanding any determination by the President under paragraph (2) or (11), the”, and struck out former par. (11) which read as follows: “Prohibition Relating to Angola.—Notwithstanding any determination by the President under paragraph (2), the Bank may not guarantee, insure, or extend credit (or participate in the extension of credit) in connection with any export of goods or services, except food or agricultural commodities, to the People’s Republic of Angola until the President certifies to the Congress that no combatant forces or military advisors of the Republic of Cuba or of any other Marxist-Leninist country (as such term is defined in paragraph (2)(B)) remain in Angola.”
+Subsec. (b)(11), (12). Pub. L. 102–429, § 111, redesignated par. (12) as (11), substituted “The President” for “Notwithstanding any determination by the President under paragraph (2) or (11), the”, and struck out former par. (11) which read as follows: “Prohibition Relating to Angola.—Notwithstanding any determination by the President under paragraph (2), the Bank may not guarantee, insure, or extend credit (or participate in the extension of credit) in connection with any export of goods or services, except food or agricultural commodities, to the People’s Republic of Angola until the President certifies to the Congress that no combatant forces or military advisors of the Republic of Cuba or of any other Marxist-Leninist country (as such term is defined in paragraph (2)(B)) remain in Angola.”
 
-Subsec. (c)(1). Pub. L. 102–429, § 109(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Bank is authorized and empowered to charge against the limitations imposed by section 635e of this title, not less than 25 per centum of the related contractual liability which the Bank incurs for guarantees, insurance, coinsurance, and reinsurance against political and credit risks of loss. The aggregate amount of guarantees, insurance, coinsurance, and reinsurance which may be charged on this fractional basis pursuant to this section shall not exceed $25,000,000,000 outstanding at any one time. Fees and premiums shall be charged in connection with such contracts commensurate, in the judgment of the Bank, with risks covered.”
+Subsec. (c)(1). Pub. L. 102–429, § 109(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Bank is authorized and empowered to charge against the limitations imposed by section 635e of this title, not less than 25 per centum of the related contractual liability which the Bank incurs for guarantees, insurance, coinsurance, and reinsurance against political and credit risks of loss. The aggregate amount of guarantees, insurance, coinsurance, and reinsurance which may be charged on this fractional basis pursuant to this section shall not exceed $25,000,000,000 outstanding at any one time. Fees and premiums shall be charged in connection with such contracts commensurate, in the judgment of the Bank, with risks covered.”
 
-Subsec. (c)(3). Pub. L. 102–429, § 105, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+Subsec. (c)(3). Pub. L. 102–429, § 105, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
-Subsec. (d)(2) to (5). Pub. L. 102–429, § 107, added pars. (2) to (5) and struck out former pars. (2) and (3) which read as follows:
+Subsec. (d)(2) to (5). Pub. L. 102–429, § 107, added pars. (2) to (5) and struck out former pars. (2) and (3) which read as follows:
 
 “(2) In furtherance of such effort, the Chairman of the Bank shall review Bank policies and programs in regard to this issue, and in coordination with the United States Trade Representative and the appropriate agencies of the Department of State, the Department of the Treasury, and the Department of Commerce, undertake actions designed to promote equal and nondiscriminatory opportunities to bid for insurance in connection with all aspects of international trade activities.
 
@@ -959,47 +959,47 @@ Subsec. (d)(2) to (5). Pub. L. 102–429, § 107, added pars. (2) to (5) and s
 
 “(C) recommendations for such legislative or administrative actions as the Bank considers necessary.”
 
-Subsec. (f). Pub. L. 102–429, § 121(a)(4), struck out subsec. (f) which related to interest subsidy payments.
+Subsec. (f). Pub. L. 102–429, § 121(a)(4), struck out subsec. (f) which related to interest subsidy payments.
 
-1991—Subsec. (b)(3). Pub. L. 102–145, § 121(2), (3), as added by Pub. L. 102–266, amended par. (3) in introductory provisions by redesignating cl. (iii) as (ii) and striking out “(ii) in an amount which equals or exceeds $25,000,000 for the export of goods or services involving research, exploration, or production of fossil fuel energy resources in the Union of Soviet Socialist Republics,”.
+1991—Subsec. (b)(3). Pub. L. 102–145, § 121(2), (3), as added by Pub. L. 102–266, amended par. (3) in introductory provisions by redesignating cl. (iii) as (ii) and striking out “(ii) in an amount which equals or exceeds $25,000,000 for the export of goods or services involving research, exploration, or production of fossil fuel energy resources in the Union of Soviet Socialist Republics,”.
 
 1990—Subsec. (b)(6)(B)(vi). Pub. L. 101–513 and Pub. L. 101–623 amended cl. (vi) identically, substituting “1992” for “1990”.
 
-1989—Subsec. (a)(1). Pub. L. 101–240, § 101(c), substituted “Subject to regulations which the Bank shall issue pursuant to section 553 of title 5, the Bank may” for “The Bank may” in sixth sentence and inserted before period “, and may accept reimbursement for travel and subsistence expenses incurred by a director, officer, or employee of the Bank, in accordance with subchapter I of chapter 57 of title 5” and inserted before period in seventh sentence “and shall be offset against the expenses of the Bank for such activities”.
+1989—Subsec. (a)(1). Pub. L. 101–240, § 101(c), substituted “Subject to regulations which the Bank shall issue pursuant to section 553 of title 5, the Bank may” for “The Bank may” in sixth sentence and inserted before period “, and may accept reimbursement for travel and subsistence expenses incurred by a director, officer, or employee of the Bank, in accordance with subchapter I of chapter 57 of title 5” and inserted before period in seventh sentence “and shall be offset against the expenses of the Bank for such activities”.
 
-Subsec. (b)(6)(G). Pub. L. 101–240, § 101(d), substituted “subparagraphs (B), (C), (D), and (F)” for “this paragraph”.
+Subsec. (b)(6)(G). Pub. L. 101–240, § 101(d), substituted “subparagraphs (B), (C), (D), and (F)” for “this paragraph”.
 
-Subsec. (b)(12). Pub. L. 101–240, § 102, added par. (12).
+Subsec. (b)(12). Pub. L. 101–240, § 102, added par. (12).
 
-Subsec. (f)(2). Pub. L. 101–240, § 101(a)(1), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Authority to make payments subject to minimum amount of direct loan authority.—The authority to enter into commitments to make interest subsidy payments under paragraph (1) shall be effective for any fiscal year only if the aggregate principal amount of direct loans the Bank may obligate in such fiscal year is equal to or greater than $700,000,000.”
+Subsec. (f)(2). Pub. L. 101–240, § 101(a)(1), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Authority to make payments subject to minimum amount of direct loan authority.—The authority to enter into commitments to make interest subsidy payments under paragraph (1) shall be effective for any fiscal year only if the aggregate principal amount of direct loans the Bank may obligate in such fiscal year is equal to or greater than $700,000,000.”
 
-Subsec. (f)(3). Pub. L. 101–240, § 101(a)(1), (2), redesignated par. (4) as (3) and amended it generally. Prior to amendment, such par. read as follows:
+Subsec. (f)(3). Pub. L. 101–240, § 101(a)(1), (2), redesignated par. (4) as (3) and amended it generally. Prior to amendment, such par. read as follows:
 
 “(A) In general.—Subject to subparagraph (B), there are authorized to be appropriated to the Bank, for any fiscal year beginning after fiscal year 1986, such sums as may be necessary to carry out the purposes of this subsection.
 
 “(B) Budget scoring.—No amount is authorized to be appropriated for commitments to make interest subsidy payments on loans for which the Bank extends a loan guarantee commitment if any amount of such loan guarantee commitment is scored as budget authority in any estimate of budget authority prepared pursuant to any provision of the Congressional Budget and Impoundment Control Act of 1974.” Former par. (3) redesignated (2).
 
-Subsec. (f)(4), (5). Pub. L. 101–240, § 101(a)(1), (3), redesignated par. (5) as (4) and substituted “1991” for “1988”. Former par. (4) redesignated (3).
+Subsec. (f)(4), (5). Pub. L. 101–240, § 101(a)(1), (3), redesignated par. (5) as (4) and substituted “1991” for “1988”. Former par. (4) redesignated (3).
 
 1988—Subsec. (b)(6). Pub. L. 100–690 designated existing provision as subpar. (A), substituted “subparagraph” for “paragraph”, and added subpars. (B) to (G).
 
-Subsec. (e)(1)(A)(i). Pub. L. 100–418, § 3304(a), substituted “commodity will first be sold” for “productive capacity is expected to become operative”.
+Subsec. (e)(1)(A)(i). Pub. L. 100–418, § 3304(a), substituted “commodity will first be sold” for “productive capacity is expected to become operative”.
 
-Subsec. (e)(2). Pub. L. 100–418, § 3304(b), substituted “short- and long-term injury” for “injury” and “producers and employment” for “producers”.
+Subsec. (e)(2). Pub. L. 100–418, § 3304(b), substituted “short- and long-term injury” for “injury” and “producers and employment” for “producers”.
 
-Subsec. (e)(3). Pub. L. 100–418, § 3304(c), added par. (3).
+Subsec. (e)(3). Pub. L. 100–418, § 3304(c), added par. (3).
 
-1986—Subsec. (a)(1). Pub. L. 99–472, § 2, inserted provisions which related to imposition and collection of reasonable fees by Bank to cover costs of conferences and seminars sponsored, and publications provided, by Bank, and credit of amounts thus received to fund which initially paid for such activities.
+1986—Subsec. (a)(1). Pub. L. 99–472, § 2, inserted provisions which related to imposition and collection of reasonable fees by Bank to cover costs of conferences and seminars sponsored, and publications provided, by Bank, and credit of amounts thus received to fund which initially paid for such activities.
 
-Subsec. (a)(3). Pub. L. 99–472, § 4, added par. (3).
+Subsec. (a)(3). Pub. L. 99–472, § 4, added par. (3).
 
-Subsec. (b)(1)(B). Pub. L. 99–472, §§ 3, 5, substituted “need not be identical in all respects to those” for “need not be equivalent to those” and inserted provisions which prohibited Bank from imposing credit application fee unless Bank’s fee is competitive with average fee charged by Bank’s primary foreign competitors, and option of paying fee at outset of, or over life of, loan is given to borrower or exporter, and present value of fee determined under either option is same amount.
+Subsec. (b)(1)(B). Pub. L. 99–472, §§ 3, 5, substituted “need not be identical in all respects to those” for “need not be equivalent to those” and inserted provisions which prohibited Bank from imposing credit application fee unless Bank’s fee is competitive with average fee charged by Bank’s primary foreign competitors, and option of paying fee at outset of, or over life of, loan is given to borrower or exporter, and present value of fee determined under either option is same amount.
 
-Subsec. (b)(1)(E)(ix). Pub. L. 99–472, § 6, added cl. (ix).
+Subsec. (b)(1)(E)(ix). Pub. L. 99–472, § 6, added cl. (ix).
 
-Subsec. (b)(1)(G). Pub. L. 99–472, § 7, added subpar. (G).
+Subsec. (b)(1)(G). Pub. L. 99–472, § 7, added subpar. (G).
 
-Subsec. (b)(2). Pub. L. 99–472, § 8, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Bank in the exercise of its functions shall not guarantee, insure, or extend credit, or participate in any extension of credit—
+Subsec. (b)(2). Pub. L. 99–472, § 8, amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Bank in the exercise of its functions shall not guarantee, insure, or extend credit, or participate in any extension of credit—
 
 “(A) in connection with the purchase or lease of any product by a Communist country (as defined in section 2370(f) of title 22), or agency, or national thereof, or
 
@@ -1011,85 +1011,85 @@ Subsec. (b)(6). Pub. L. 99–514 substituted “Internal Revenue Code of 1986”
 
 Subsec. (b)(9). Pub. L. 99–440 designated existing provisions of par. (9) as subpar. (A), substituted “Except as provided in subparagraph (B), in no event” for “In no event”, and added subpar. (B).
 
-Subsec. (b)(11). Pub. L. 99–472, § 9, added par. (11).
+Subsec. (b)(11). Pub. L. 99–472, § 9, added par. (11).
 
-Subsec. (c)(3). Pub. L. 99–472, § 10, added par. (3).
+Subsec. (c)(3). Pub. L. 99–472, § 10, added par. (3).
 
-Subsecs. (e), (f). Pub. L. 99–472, §§ 11, 20(a), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 99–472, §§ 11, 20(a), added subsecs. (e) and (f).
 
-1983—Subsec. (a)(1). Pub. L. 98–181, § 616(a)(1), substituted “the exchange of commodities and services” for “the exchange of commodities”.
+1983—Subsec. (a)(1). Pub. L. 98–181, § 616(a)(1), substituted “the exchange of commodities and services” for “the exchange of commodities”.
 
-Subsec. (a)(2). Pub. L. 98–181, § 622, added par. (2).
+Subsec. (a)(2). Pub. L. 98–181, § 622, added par. (2).
 
-Subsec. (b)(1)(A). Pub. L. 98–181, §§ 612(a), 616(a)(2), in second sentence inserted “in all its programs” after “To meet this objective”, inserted “fully” after “other conditions which are”, and substituted “exports of goods and services” for “exports”.
+Subsec. (b)(1)(A). Pub. L. 98–181, §§ 612(a), 616(a)(2), in second sentence inserted “in all its programs” after “To meet this objective”, inserted “fully” after “other conditions which are”, and substituted “exports of goods and services” for “exports”.
 
-Subsec. (b)(1)(B). Pub. L. 98–181, §§ 612(b), (c), 618(a)(1), substituted provisions that loans under this section shall bear interest at rates consistent with the Bank’s mandate to support exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements, and that such rates, terms and conditions need not be equivalent to those offered by foreign countries, but should be established so as to neutralize the effect of such foreign credit on international sales competition, and that the Board shall consider its average cost of money in determination of interest rates, where such consideration does not impair the Bank’s function of expanding exports through fully competitive financing for provisions that loans made by the Bank had to be at interest at rates determined by the Board of Directors of the Bank, taking into consideration the average cost of money to the Bank as well as the Bank’s mandate to support United States exports at rates and on terms and conditions which were competitive with exports of other countries; inserted “export trading companies,” after “independent export firms,”; and struck out provision which required the Bank to give due recognition to the policy stated in section 631(a) of Title 15 that the government should aid, counsel, assist, and protect the interests of small business in order to preserve free competitive enterprise, and that in furtherance of this policy the Board of Directors had to designate an officer of the Bank to handle small business concerns, including advising small businessmen and maintaining liaison with the Small Business Administration and other departments and agencies in matters affecting small business concerns.
+Subsec. (b)(1)(B). Pub. L. 98–181, §§ 612(b), (c), 618(a)(1), substituted provisions that loans under this section shall bear interest at rates consistent with the Bank’s mandate to support exports at rates and on terms and conditions which are fully competitive with exports of other countries, and consistent with international agreements, and that such rates, terms and conditions need not be equivalent to those offered by foreign countries, but should be established so as to neutralize the effect of such foreign credit on international sales competition, and that the Board shall consider its average cost of money in determination of interest rates, where such consideration does not impair the Bank’s function of expanding exports through fully competitive financing for provisions that loans made by the Bank had to be at interest at rates determined by the Board of Directors of the Bank, taking into consideration the average cost of money to the Bank as well as the Bank’s mandate to support United States exports at rates and on terms and conditions which were competitive with exports of other countries; inserted “export trading companies,” after “independent export firms,”; and struck out provision which required the Bank to give due recognition to the policy stated in section 631(a) of Title 15 that the government should aid, counsel, assist, and protect the interests of small business in order to preserve free competitive enterprise, and that in furtherance of this policy the Board of Directors had to designate an officer of the Bank to handle small business concerns, including advising small businessmen and maintaining liaison with the Small Business Administration and other departments and agencies in matters affecting small business concerns.
 
-Subsec. (b)(1)(D). Pub. L. 98–181, § 616(a)(3), added subpar. (D).
+Subsec. (b)(1)(D). Pub. L. 98–181, § 616(a)(3), added subpar. (D).
 
-Subsec. (b)(1)(E). Pub. L. 98–181, § 618(a)(2), added subpar. (E).
+Subsec. (b)(1)(E). Pub. L. 98–181, § 618(a)(2), added subpar. (E).
 
-Subsec. (b)(1)(F). Pub. L. 98–181, § 618(c), added subpar. (F).
+Subsec. (b)(1)(F). Pub. L. 98–181, § 618(c), added subpar. (F).
 
-Subsec. (b)(3). Pub. L. 98–181, § 619(b), substituted “no loan or financial guarantee or general guarantee or insurance facility” for “no loan or financial guarantee” in provisions preceding subpar. (A).
+Subsec. (b)(3). Pub. L. 98–181, § 619(b), substituted “no loan or financial guarantee or general guarantee or insurance facility” for “no loan or financial guarantee” in provisions preceding subpar. (A).
 
-Subsec. (b)(3)(A). Pub. L. 98–181, § 619(c), inserted language limiting existing provisions to loans or financial guarantees, designated existing provisions as cls. (i), (ii), and (iii), and added cl. (iv).
+Subsec. (b)(3)(A). Pub. L. 98–181, § 619(c), inserted language limiting existing provisions to loans or financial guarantees, designated existing provisions as cls. (i), (ii), and (iii), and added cl. (iv).
 
-Subsec. (b)(4). Pub. L. 98–181, § 620(a), substituted “the Secretary” for “he” before “determines that any country” in first sentence, and before “has determined to have so acted” in second sentence.
+Subsec. (b)(4). Pub. L. 98–181, § 620(a), substituted “the Secretary” for “he” before “determines that any country” in first sentence, and before “has determined to have so acted” in second sentence.
 
-Subsec. (b)(7) to (10). Pub. L. 98–181, § 619(d), redesignated second par. (7) and par. (8), as added by Pub. L. 95–630, as pars. (8) and (9), respectively, and added par. (10).
+Subsec. (b)(7) to (10). Pub. L. 98–181, § 619(d), redesignated second par. (7) and par. (8), as added by Pub. L. 95–630, as pars. (8) and (9), respectively, and added par. (10).
 
-Subsec. (d). Pub. L. 98–181, § 617, added subsec. (d).
+Subsec. (d). Pub. L. 98–181, § 617, added subsec. (d).
 
 1980—Subsec. (b)(1)(A). Pub. L. 96–470 substituted “annual” for “semiannual” in three places.
 
-1978—Subsec. (b)(1)(A). Pub. L. 95–630, § 1910, substituted “manufactured goods, agricultural products, and other goods and services” for “goods and related services”.
+1978—Subsec. (b)(1)(A). Pub. L. 95–630, § 1910, substituted “manufactured goods, agricultural products, and other goods and services” for “goods and related services”.
 
-Subsec. (b)(1)(B). Pub. L. 95–630, §§ 1904, 1916, inserted “that the Bank should give emphasis to assisting new and small business entrants in the agricultural export market, and shall, in cooperation with other relevant Government agencies, including the Commodity Credit Corporation, develop a program of education to increase awareness of export opportunities among small agribusinesses and cooperatives;” after “in matters affecting small business concerns;” and substituted “and shall give particular emphasis to the objective of strengthening the competitive position of the United States exporters and thereby of expanding total United States exports. Only in cases where the President determines that such action would be in the national interest where such action would clearly and importantly advance United States policy in such areas as international terrorism, nuclear proliferation, environmental protection and human rights, should the Export-Import Bank deny applications for credit for nonfinancial or noncommercial considerations” for “and shall also take into account, in consultation with the Secretary of State, the observance of and respect for human rights in the country to receive the exports supported by a loan or financial guarantee and the effect such exports may have on human rights in such country”.
+Subsec. (b)(1)(B). Pub. L. 95–630, §§ 1904, 1916, inserted “that the Bank should give emphasis to assisting new and small business entrants in the agricultural export market, and shall, in cooperation with other relevant Government agencies, including the Commodity Credit Corporation, develop a program of education to increase awareness of export opportunities among small agribusinesses and cooperatives;” after “in matters affecting small business concerns;” and substituted “and shall give particular emphasis to the objective of strengthening the competitive position of the United States exporters and thereby of expanding total United States exports. Only in cases where the President determines that such action would be in the national interest where such action would clearly and importantly advance United States policy in such areas as international terrorism, nuclear proliferation, environmental protection and human rights, should the Export-Import Bank deny applications for credit for nonfinancial or noncommercial considerations” for “and shall also take into account, in consultation with the Secretary of State, the observance of and respect for human rights in the country to receive the exports supported by a loan or financial guarantee and the effect such exports may have on human rights in such country”.
 
-Subsec. (b)(1)(C). Pub. L. 95–630, § 1907(a), added subpar. (C).
+Subsec. (b)(1)(C). Pub. L. 95–630, § 1907(a), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 95–630, § 1902, substituted “Except as provided by the fourth sentence of this paragraph, no loan” for “No loan” and “$100,000,000” for “$60,000,000” and inserted provisions following subpar. (B).
+Subsec. (b)(3). Pub. L. 95–630, § 1902, substituted “Except as provided by the fourth sentence of this paragraph, no loan” for “No loan” and “$100,000,000” for “$60,000,000” and inserted provisions following subpar. (B).
 
-Subsec. (b)(7) to (9). Pub. L. 95–630, §§ 1909, 1915, added a second par. (7) and par. (8), which were editorially designated pars. (8) and (9). See 1983 Amendment note above.
+Subsec. (b)(7) to (9). Pub. L. 95–630, §§ 1909, 1915, added a second par. (7) and par. (8), which were editorially designated pars. (8) and (9). See 1983 Amendment note above.
 
-Subsec. (c)(1). Pub. L. 95–630, § 1903, substituted “$25,000,000,000” for “$20,000,000,000”.
+Subsec. (c)(1). Pub. L. 95–630, § 1903, substituted “$25,000,000,000” for “$20,000,000,000”.
 
-1977—Subsec. (b)(1)(A). Pub. L. 95–143, § 1, inserted “and shall, in cooperation with other appropriate United States Government agencies, seek to reach international agreements to reduce government subsidized export financing” after “government-supported export financing”.
+1977—Subsec. (b)(1)(A). Pub. L. 95–143, § 1, inserted “and shall, in cooperation with other appropriate United States Government agencies, seek to reach international agreements to reduce government subsidized export financing” after “government-supported export financing”.
 
-Subsec. (b)(1)(B). Pub. L. 95–143, § 2, inserted “, and shall also take into account, in consultation with the Secretary of State, the observance of and respect for human rights in the country to receive the exports supported by a loan or financial guarantee and the effect such exports may have on human rights in such country” after “employment in the United States”.
+Subsec. (b)(1)(B). Pub. L. 95–143, § 2, inserted “, and shall also take into account, in consultation with the Secretary of State, the observance of and respect for human rights in the country to receive the exports supported by a loan or financial guarantee and the effect such exports may have on human rights in such country” after “employment in the United States”.
 
-Subsec. (b)(3). Pub. L. 95–143, § 3(a), inserted “(i)” after “No loan or financial guarantee or combination thereof” and “, or (iii) for the export of technology, fuel, equipment, materials, or goods or services to be used in the construction, alteration, operation, or maintenance of nuclear power, enrichment, reprocessing, research, or heavy water production facilities,” after “Union of Soviet Socialist Republics” and substituted “, (ii) in an amount” for “shall be finally approved by the Board of Directors of the Bank, and no loan or financial guarantee or combination thereof”.
+Subsec. (b)(3). Pub. L. 95–143, § 3(a), inserted “(i)” after “No loan or financial guarantee or combination thereof” and “, or (iii) for the export of technology, fuel, equipment, materials, or goods or services to be used in the construction, alteration, operation, or maintenance of nuclear power, enrichment, reprocessing, research, or heavy water production facilities,” after “Union of Soviet Socialist Republics” and substituted “, (ii) in an amount” for “shall be finally approved by the Board of Directors of the Bank, and no loan or financial guarantee or combination thereof”.
 
-Subsec. (b)(4) to (7). Pub. L. 95–143, § 3(b), (c), added par. (4), redesignated former par. (4) as (5) and, as so redesignated, added cl. (C), and redesignated former pars. (5) and (6) as (6) and (7), respectively.
+Subsec. (b)(4) to (7). Pub. L. 95–143, § 3(b), (c), added par. (4), redesignated former par. (4) as (5) and, as so redesignated, added cl. (C), and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-1975—Subsec. (a)(1). Pub. L. 93–646, § 2, inserted provisions authorizing the Bank to guarantee, insure, coinsure, and reinsure against political and credit risks of loss, to represent itself or to contract for representation in all legal and arbitral proceedings outside the United States, and to publish any documents, reports, etc., without regard to section 501 of title 44, whenever compliance with such section would not be practicable.
+1975—Subsec. (a)(1). Pub. L. 93–646, § 2, inserted provisions authorizing the Bank to guarantee, insure, coinsure, and reinsure against political and credit risks of loss, to represent itself or to contract for representation in all legal and arbitral proceedings outside the United States, and to publish any documents, reports, etc., without regard to section 501 of title 44, whenever compliance with such section would not be practicable.
 
-Subsec. (a)(2). Pub. L. 93–646, § 13, eff. at the close of Sept. 30, 1976, repealed par. (2), which related to inclusion of receipts and disbursements of the bank in the federal budget and exemption of such receipts and disbursements from budget limitations, to the transmittal to Congress of a budget for program activities and for administrative expenses of the bank, and to the annual report of the net lending of the bank.
+Subsec. (a)(2). Pub. L. 93–646, § 13, eff. at the close of Sept. 30, 1976, repealed par. (2), which related to inclusion of receipts and disbursements of the bank in the federal budget and exemption of such receipts and disbursements from budget limitations, to the transmittal to Congress of a budget for program activities and for administrative expenses of the bank, and to the annual report of the net lending of the bank.
 
-Subsec. (b)(1). Pub. L. 93–646, § 3, designated existing provisions as subpars. (A) and (B), and as so designated, substituted provisions requiring a comparison of the rates and terms of the Bank with other countries for provisions requiring a report to include ways in which the Bank’s terms are equal to or superior to those of other countries, and inserted provisions requiring the appointment of a Bank officer to be responsible for all matters affecting small business, and to act as liaison with the Small Business Administration and other agencies in matters affecting small business concerns, in order to carry out the policy of the Small Business Act.
+Subsec. (b)(1). Pub. L. 93–646, § 3, designated existing provisions as subpars. (A) and (B), and as so designated, substituted provisions requiring a comparison of the rates and terms of the Bank with other countries for provisions requiring a report to include ways in which the Bank’s terms are equal to or superior to those of other countries, and inserted provisions requiring the appointment of a Bank officer to be responsible for all matters affecting small business, and to act as liaison with the Small Business Administration and other agencies in matters affecting small business concerns, in order to carry out the policy of the Small Business Act.
 
-Subsec. (b)(2). Pub. L. 93–646, § 4, inserted provision requiring a separate Presidential determination of national interest with respect to each transaction over $50,000,000, and substituted provision requiring a report to Congress either within 30 days of the President’s finding or on the day the Bank takes final action on the proposed credit, whichever is earlier, for provision requiring a report of his finding to Congress within thirty days after making such finding.
+Subsec. (b)(2). Pub. L. 93–646, § 4, inserted provision requiring a separate Presidential determination of national interest with respect to each transaction over $50,000,000, and substituted provision requiring a report to Congress either within 30 days of the President’s finding or on the day the Bank takes final action on the proposed credit, whichever is earlier, for provision requiring a report of his finding to Congress within thirty days after making such finding.
 
-Subsec. (b)(3) to (6). Pub. L. 93–646, § 5, added par. (3) and redesignated former pars. (3), (4), and (5) as (4), (5) and (6), respectively.
+Subsec. (b)(3) to (6). Pub. L. 93–646, § 5, added par. (3) and redesignated former pars. (3), (4), and (5) as (4), (5) and (6), respectively.
 
-Subsec. (c)(1). Pub. L. 93–646, § 6, removed the $10 billion limit on the Bank’s insurance authority, and increased the Bank’s authority to charge such guarantees and insurance on a fractional charge basis from $10 billion to $20 billion.
+Subsec. (c)(1). Pub. L. 93–646, § 6, removed the $10 billion limit on the Bank’s insurance authority, and increased the Bank’s authority to charge such guarantees and insurance on a fractional charge basis from $10 billion to $20 billion.
 
-1971—Subsec. (a). Pub. L. 92–126, § 1(b)(1), designated existing provisions as par. (1) and added par. (2).
+1971—Subsec. (a). Pub. L. 92–126, § 1(b)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(1). Pub. L. 92–126, § 1(b)(6), inserted provisions declaring the policy of the United States to be to foster expansion of goods and related services, contributing to the proposition and maintenance of high levels of employment and real income and to the increased development of the productive resources of the United States and laid down directives to achieve this objective.
+Subsec. (b)(1). Pub. L. 92–126, § 1(b)(6), inserted provisions declaring the policy of the United States to be to foster expansion of goods and related services, contributing to the proposition and maintenance of high levels of employment and real income and to the increased development of the productive resources of the United States and laid down directives to achieve this objective.
 
-Subsec. (b)(3). Pub. L. 92–126, § 1(b)(5), substituted provisions prohibiting the Bank from extending assistance in export sales to any nation which engages in armed conflict with the United States or to any other nation when the export is to be used principally by or in any nation which engages in armed conflict with the United States and further prohibiting such assistance to any export sales which the President determines would be contrary to the national interest for provisions placing limitations on the Bank’s activity in connection with any nation which supplies goods or assistance to a country with whom the United States is engaged in armed conflict.
+Subsec. (b)(3). Pub. L. 92–126, § 1(b)(5), substituted provisions prohibiting the Bank from extending assistance in export sales to any nation which engages in armed conflict with the United States or to any other nation when the export is to be used principally by or in any nation which engages in armed conflict with the United States and further prohibiting such assistance to any export sales which the President determines would be contrary to the national interest for provisions placing limitations on the Bank’s activity in connection with any nation which supplies goods or assistance to a country with whom the United States is engaged in armed conflict.
 
-Subsec. (c)(1). Pub. L. 92–126, § 1(b)(2), increased the amount of insurance outstanding at any one time from “$3,500,000,000” to “$10,000,000,000”.
+Subsec. (c)(1). Pub. L. 92–126, § 1(b)(2), increased the amount of insurance outstanding at any one time from “$3,500,000,000” to “$10,000,000,000”.
 
-1968—Subsec. (a). Pub. L. 90–267, § 1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+1968—Subsec. (a). Pub. L. 90–267, § 1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
-Subsec. (b)(1). Pub. L. 90–267, § 1(b), designated existing provisions as par. (1) and required the Board of Directors when authorizing loans to take into account the possible adverse effects upon the economy of the United States.
+Subsec. (b)(1). Pub. L. 90–267, § 1(b), designated existing provisions as par. (1) and required the Board of Directors when authorizing loans to take into account the possible adverse effects upon the economy of the United States.
 
-Subsec. (b)(2) to (5). Pub. L. 90–267, § 1(c), added pars. (2) to (5).
+Subsec. (b)(2) to (5). Pub. L. 90–267, § 1(c), added pars. (2) to (5).
 
-Subsec. (c)(1). Pub. L. 90–267, § 1(a), (c), increased amount of insurance outstanding at any one time from $2,000,000,000 to $3,500,000,000 and changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+Subsec. (c)(1). Pub. L. 90–267, § 1(a), (c), increased amount of insurance outstanding at any one time from $2,000,000,000 to $3,500,000,000 and changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
 1963—Subsec. (c)(1). Pub. L. 88–101 substituted “$2,000,000,000” for “$1,000,000,000”.
 
@@ -1105,23 +1105,23 @@ Subsec. (c)(1). Pub. L. 90–267, § 1(a), (c), increased amount of insurance 
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–94, div. I, title IV, § 404(b), Dec. 20, 2019, 133 Stat. 3023, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2021.”
+Pub. L. 116–94, div. I, title IV, § 404(b), Dec. 20, 2019, 133 Stat. 3023, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2021.”
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–94, div. E, title LII, § 52001(b), Dec. 4, 2015, 129 Stat. 1767, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2016 and each fiscal year thereafter.”
+Pub. L. 114–94, div. E, title LII, § 52001(b), Dec. 4, 2015, 129 Stat. 1767, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2016 and each fiscal year thereafter.”
 
-Pub. L. 114–94, div. E, title LIV, § 54001(d), Dec. 4, 2015, 129 Stat. 1768, provided that: “The amendments made by this section [amending this section and section 635f of this title and provisions set out as a note under this section] shall take effect on the earlier of the date of the enactment of this Act [Dec. 4, 2015] or June 30, 2015.”
+Pub. L. 114–94, div. E, title LIV, § 54001(d), Dec. 4, 2015, 129 Stat. 1768, provided that: “The amendments made by this section [amending this section and section 635f of this title and provisions set out as a note under this section] shall take effect on the earlier of the date of the enactment of this Act [Dec. 4, 2015] or June 30, 2015.”
 
-Pub. L. 114–94, div. E, title LIV, § 54002(e), Dec. 4, 2015, 129 Stat. 1769, provided that: “The amendments made by this section [amending this section and sections 635a and 635i–5 of this title] shall apply with respect to fiscal year 2016 and each fiscal year thereafter.”
+Pub. L. 114–94, div. E, title LIV, § 54002(e), Dec. 4, 2015, 129 Stat. 1769, provided that: “The amendments made by this section [amending this section and sections 635a and 635i–5 of this title] shall apply with respect to fiscal year 2016 and each fiscal year thereafter.”
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–122, § 25, May 30, 2012, 126 Stat. 364, provided that: “Except as provided in section 9(b) [enacting provisions set out as a note under section 635a of this title], this Act [see Short Title of 2012 Amendment note set out below] and the amendments made by this Act shall take effect on the earlier of June 1, 2012, or the date of the enactment of this Act [May 30, 2012].”
+Pub. L. 112–122, § 25, May 30, 2012, 126 Stat. 364, provided that: “Except as provided in section 9(b) [enacting provisions set out as a note under section 635a of this title], this Act [see Short Title of 2012 Amendment note set out below] and the amendments made by this Act shall take effect on the earlier of June 1, 2012, or the date of the enactment of this Act [May 30, 2012].”
 
 **Effective and Termination Dates of 1994 Amendments**
 
-Pub. L. 103–428, § 1(c), Oct. 31, 1994, 108 Stat. 4376, as amended by Pub. L. 105–121, § 4, Nov. 26, 1997, 111 Stat. 2529; Pub. L. 109–438, § 4, Dec. 20, 2006, 120 Stat. 3269; Pub. L. 112–122, § 24, May 30, 2012, 126 Stat. 364; Pub. L. 112–136, § 1, June 21, 2012, 126 Stat. 385; Pub. L. 114–94, div. E, title LIV, § 54001(b), Dec. 4, 2015, 129 Stat. 1768, provided that: “The amendments made by this section [amending this section] shall remain in effect during the period beginning on the date of enactment of this Act [Oct. 31, 1994] and ending on the date on which the authority of the Export-Import Bank of the United States expires under section 7 of the Export-Import Bank Act of 1945 (12 U.S.C. 635f).”
+Pub. L. 103–428, § 1(c), Oct. 31, 1994, 108 Stat. 4376, as amended by Pub. L. 105–121, § 4, Nov. 26, 1997, 111 Stat. 2529; Pub. L. 109–438, § 4, Dec. 20, 2006, 120 Stat. 3269; Pub. L. 112–122, § 24, May 30, 2012, 126 Stat. 364; Pub. L. 112–136, § 1, June 21, 2012, 126 Stat. 385; Pub. L. 114–94, div. E, title LIV, § 54001(b), Dec. 4, 2015, 129 Stat. 1768, provided that: “The amendments made by this section [amending this section] shall remain in effect during the period beginning on the date of enactment of this Act [Oct. 31, 1994] and ending on the date on which the authority of the Export-Import Bank of the United States expires under section 7 of the Export-Import Bank Act of 1945 (12 U.S.C. 635f).”
 
 [Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598, provided in part: “That notwithstanding section 1(c) of Public Law 103–428 [set out above], as amended, sections 1(a) and (b) of Public Law 103–428 [amending this section] shall remain in effect through October 1, 2015.” ]
 
@@ -1145,7 +1145,7 @@ Pub. L. 103–428, § 1(c), Oct. 31, 1994, 108 Stat. 4376, as amended by Pub. 
 
 [Pub. L. 108–7, div. E, title I, Feb. 20, 2003, 117 Stat. 159.
 
-[Pub. L. 107–229, § 129, as added by Pub. L. 107–240, § 5, Oct. 11, 2002, 116 Stat. 1494.]
+[Pub. L. 107–229, § 129, as added by Pub. L. 107–240, § 5, Oct. 11, 2002, 116 Stat. 1494.]
 
 [For provisions continuing functions of Export-Import Bank of the United States through June 14, 2002, notwithstanding section 1(c) of Pub. L. 103–428, set out above, see Continuation of Bank Functions note set out under section 635f of this title.]
 
@@ -1153,69 +1153,69 @@ Amendment by Pub. L. 103–236 effective 60 days after Apr. 30, 1994, see sectio
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–630, title XIX, § 1917, Nov. 10, 1978, 92 Stat. 3727, provided that: “This title [enacting sections 635a–1 to 635a–3 of this title and section 2153e–1 of Title 42, The Public Health and Welfare, and amending this section and sections 635e to 635g of this title] shall take effect upon enactment [Nov. 10, 1978].”
+Pub. L. 95–630, title XIX, § 1917, Nov. 10, 1978, 92 Stat. 3727, provided that: “This title [enacting sections 635a–1 to 635a–3 of this title and section 2153e–1 of Title 42, The Public Health and Welfare, and amending this section and sections 635e to 635g of this title] shall take effect upon enactment [Nov. 10, 1978].”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–94, div. E, § 50001, Dec. 4, 2015, 129 Stat. 1763, provided that: “This division [enacting section 635a–7 of this title, amending this section and sections 635a, 635a–5, 635a–6, 635e to 635g, and 635i–5 of this title, enacting provisions set out as notes under this section and sections 635a, 635a–5, 635e, and 635g of this title, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reform and Reauthorization Act of 2015’.”
+Pub. L. 114–94, div. E, § 50001, Dec. 4, 2015, 129 Stat. 1763, provided that: “This division [enacting section 635a–7 of this title, amending this section and sections 635a, 635a–5, 635a–6, 635e to 635g, and 635i–5 of this title, enacting provisions set out as notes under this section and sections 635a, 635a–5, 635e, and 635g of this title, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reform and Reauthorization Act of 2015’.”
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–122, § 1(a), May 30, 2012, 126 Stat. 350, provided that: “This Act [enacting sections 635a–5 and 635a–6 of this title, amending this section and sections 635a and 635e to 635g of this title, enacting provisions set out as notes under this section and sections 635a and 635a–2 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reauthorization Act of 2012’.”
+Pub. L. 112–122, § 1(a), May 30, 2012, 126 Stat. 350, provided that: “This Act [enacting sections 635a–5 and 635a–6 of this title, amending this section and sections 635a and 635e to 635g of this title, enacting provisions set out as notes under this section and sections 635a and 635a–2 of this title, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reauthorization Act of 2012’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–438, § 1(a), Dec. 20, 2006, 120 Stat. 3268, provided that: “This Act [enacting section 635g–1 of this title, amending this section and sections 635a, 635e, 635f, 635g, 635i–3, and 635i–5 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reauthorization Act of 2006’.”
+Pub. L. 109–438, § 1(a), Dec. 20, 2006, 120 Stat. 3268, provided that: “This Act [enacting section 635g–1 of this title, amending this section and sections 635a, 635e, 635f, 635g, 635i–3, and 635i–5 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reauthorization Act of 2006’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–189, § 1(a), June 14, 2002, 116 Stat. 698, provided that: “This Act [enacting section 635i–9 of this title, amending this section, sections 635a, 635e to 635g, 635i–3, 635i–6, and 635i–8 of this title, section 5315 of Title 5, Government Organization and Employees, sections 9 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 635a, 635g, and 635i–9 of this title, and section 5315 of Title 5, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reauthorization Act of 2002’.”
+Pub. L. 107–189, § 1(a), June 14, 2002, 116 Stat. 698, provided that: “This Act [enacting section 635i–9 of this title, amending this section, sections 635a, 635e to 635g, 635i–3, 635i–6, and 635i–8 of this title, section 5315 of Title 5, Government Organization and Employees, sections 9 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and section 1105 of Title 31, Money and Finance, enacting provisions set out as notes under this section, sections 635a, 635g, and 635i–9 of this title, and section 5315 of Title 5, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reauthorization Act of 2002’.”
 
 **Short Title of 1997 Amendment**
 
-Pub. L. 105–121, § 1(a), Nov. 26, 1997, 111 Stat. 2528, provided that: “This Act [amending this section and sections 635a, 635f, and 635i–3 of this title, enacting provisions set out as notes under this section and section 635f of this title, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reauthorization Act of 1997’.”
+Pub. L. 105–121, § 1(a), Nov. 26, 1997, 111 Stat. 2528, provided that: “This Act [amending this section and sections 635a, 635f, and 635i–3 of this title, enacting provisions set out as notes under this section and section 635f of this title, and amending provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Reauthorization Act of 1997’.”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–429, § 1(a), Oct. 21, 1992, 106 Stat. 2186, provided that: “This Act [enacting sections 635i–5 to 635i–7 of this title, section 831 of Title 2, The Congress, and sections 4727 to 4729 of Title 15, Commerce and Trade, amending this section and sections 635a, 635b, 635e, 635f, and 635i–3 of this title, and sections 4052 and 4721 of Title 15, repealing sections 635c, 635i to 635i–2, and 635i–4 of this title, section 713b of Title 15, and section 2772 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, section 635a of this title, and section 4728 of Title 15] may be cited as the ‘Export Enhancement Act of 1992’.”
+Pub. L. 102–429, § 1(a), Oct. 21, 1992, 106 Stat. 2186, provided that: “This Act [enacting sections 635i–5 to 635i–7 of this title, section 831 of Title 2, The Congress, and sections 4727 to 4729 of Title 15, Commerce and Trade, amending this section and sections 635a, 635b, 635e, 635f, and 635i–3 of this title, and sections 4052 and 4721 of Title 15, repealing sections 635c, 635i to 635i–2, and 635i–4 of this title, section 713b of Title 15, and section 2772 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, section 635a of this title, and section 4728 of Title 15] may be cited as the ‘Export Enhancement Act of 1992’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–418, title III, § 3301, Aug. 23, 1988, 102 Stat. 1383, provided that: “This subtitle [subtitle D (§§ 3301–3304) of title III of Pub. L. 100–418, amending this section and section 635i–3 of this title and enacting provisions set out as a note under section 635i–3 of this title] may be cited as the ‘Export-Import Bank and Tied Aid Credit Amendments of 1988’.”
+Pub. L. 100–418, title III, § 3301, Aug. 23, 1988, 102 Stat. 1383, provided that: “This subtitle [subtitle D (§§ 3301–3304) of title III of Pub. L. 100–418, amending this section and section 635i–3 of this title and enacting provisions set out as a note under section 635i–3 of this title] may be cited as the ‘Export-Import Bank and Tied Aid Credit Amendments of 1988’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–472, § 1, Oct. 15, 1986, 100 Stat. 1200, provided that: “This Act [enacting section 635i–3 of this title and section 262h of Title 22, Foreign Relations and Intercourse, amending this section and sections 635a, 635a–2, 635a–3, and 635e to 635g of this title, and enacting provisions set out as a note under section 635g of this title] may be cited as the ‘Export-Import Bank Act Amendments of 1986’.”
+Pub. L. 99–472, § 1, Oct. 15, 1986, 100 Stat. 1200, provided that: “This Act [enacting section 635i–3 of this title and section 262h of Title 22, Foreign Relations and Intercourse, amending this section and sections 635a, 635a–2, 635a–3, and 635e to 635g of this title, and enacting provisions set out as a note under section 635g of this title] may be cited as the ‘Export-Import Bank Act Amendments of 1986’.”
 
 **Short Title of 1983 Amendment**
 
-Pub. L. 98–181, title I [title VI, § 601], Nov. 30, 1983, 97 Stat. 1254, provided that: “This title [enacting sections 635i–1, 635i–2, and 635*o*–635t of this title and section 1671g of Title 19, Customs Duties, amending this section, sections 635a, 635a–2, 635a–3, 635a–4, 635b, 635e, 635f, and 635g of this title, and sections 1671a and 1671b of Title 19, and enacting provisions set out as notes under sections 635a and 635*o* of this title] may be cited as the ‘Export-Import Bank Act Amendments of 1983’.”
+Pub. L. 98–181, title I [title VI, § 601], Nov. 30, 1983, 97 Stat. 1254, provided that: “This title [enacting sections 635i–1, 635i–2, and 635*o*–635t of this title and section 1671g of Title 19, Customs Duties, amending this section, sections 635a, 635a–2, 635a–3, 635a–4, 635b, 635e, 635f, and 635g of this title, and sections 1671a and 1671b of Title 19, and enacting provisions set out as notes under sections 635a and 635*o* of this title] may be cited as the ‘Export-Import Bank Act Amendments of 1983’.”
 
-For short title of title I [part C (§§ 641–647) of title VI] of Pub. L. 98–181, which enacted subchapter III (§ 635*o* et seq.) of this chapter and section 1671g of Title 19 and amended sections 1671a and 1671b of Title 19, as the “Trade and Development Enhancement Act of 1983”, see Short Title note set out under section 635*o* of this title.
+For short title of title I [part C (§§ 641–647) of title VI] of Pub. L. 98–181, which enacted subchapter III (§ 635*o* et seq.) of this chapter and section 1671g of Title 19 and amended sections 1671a and 1671b of Title 19, as the “Trade and Development Enhancement Act of 1983”, see Short Title note set out under section 635*o* of this title.
 
 **Short Title of 1981 Amendment**
 
-Pub. L. 97–35, title III, § 380, Aug. 13, 1981, 95 Stat. 431, provided that: “This subtitle [subtitle B (§§ 380–385) of title III of Pub. L. 97–35, amending sections 461 and 635e of this title, and section 369 of former Title 31, Money and Finance, enacting provisions set out as a note under section 369 of former Title 31, and amending provisions set out as notes under sections 1735f–7 and 1904 of this title] may be cited as the ‘Banking and Related Programs Authorization Adjustment Act’.”
+Pub. L. 97–35, title III, § 380, Aug. 13, 1981, 95 Stat. 431, provided that: “This subtitle [subtitle B (§§ 380–385) of title III of Pub. L. 97–35, amending sections 461 and 635e of this title, and section 369 of former Title 31, Money and Finance, enacting provisions set out as a note under section 369 of former Title 31, and amending provisions set out as notes under sections 1735f–7 and 1904 of this title] may be cited as the ‘Banking and Related Programs Authorization Adjustment Act’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–630, title XIX, § 1901, Nov. 10, 1978, 92 Stat. 3724, provided: “That this title [enacting sections 635a–1 to 635a–3 of this title and section 2153e–1 of Title 42, The Public Health and Welfare, amending this section and sections 635e to 635g of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Act Amendments of 1978’.”
+Pub. L. 95–630, title XIX, § 1901, Nov. 10, 1978, 92 Stat. 3724, provided: “That this title [enacting sections 635a–1 to 635a–3 of this title and section 2153e–1 of Title 42, The Public Health and Welfare, amending this section and sections 635e to 635g of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Export-Import Bank Act Amendments of 1978’.”
 
 **Short Title of 1975 Amendment**
 
-Pub. L. 93–646, § 1, Jan. 4, 1975, 88 Stat. 2333, provided that: “This Act [amending this section and sections 82 and 635d to 635g of this title and enacting provisions set out as notes under this section] may be cited as the ‘Export-Import Bank Amendments of 1974’.”
+Pub. L. 93–646, § 1, Jan. 4, 1975, 88 Stat. 2333, provided that: “This Act [amending this section and sections 82 and 635d to 635g of this title and enacting provisions set out as notes under this section] may be cited as the ‘Export-Import Bank Amendments of 1974’.”
 
 **Short Title of 1971 Amendment**
 
-Pub. L. 92–126, § 1(a), Aug. 17, 1971, 85 Stat. 345, provided that: “This Act [amending this section and sections 635e and 635f of this title and enacting provisions set out as notes under section 95a of this title] may be cited as the ‘Export Expansion Finance Act of 1971’.”
+Pub. L. 92–126, § 1(a), Aug. 17, 1971, 85 Stat. 345, provided that: “This Act [amending this section and sections 635e and 635f of this title and enacting provisions set out as notes under section 95a of this title] may be cited as the ‘Export Expansion Finance Act of 1971’.”
 
 **Short Title**
 
-Act July 31, 1945, ch. 341, § 1, 59 Stat. 526, provided: “That this Act [this subchapter] may be cited as the ‘Export-Import Bank Act of 1945’.”
+Act July 31, 1945, ch. 341, § 1, 59 Stat. 526, provided: “That this Act [this subchapter] may be cited as the ‘Export-Import Bank Act of 1945’.”
 
 **Rule of Construction**
 
-Pub. L. 116–94, div. I, title IV, § 402(c), Dec. 20, 2019, 133 Stat. 3023, provided that: “Nothing in section 2(*l*)(1)(B) of the Export-Import Bank Act of 1945 [12 U.S.C. 635(*l*)(1)(B)] shall be construed to weaken any export controls affecting critical technologies (as defined in section 721(a)(6)(A) of the Defense Production Act of 1950 (50 U.S.C. 4565(a)(6)(A))).”
+Pub. L. 116–94, div. I, title IV, § 402(c), Dec. 20, 2019, 133 Stat. 3023, provided that: “Nothing in section 2(*l*)(1)(B) of the Export-Import Bank Act of 1945 [12 U.S.C. 635(*l*)(1)(B)] shall be construed to weaken any export controls affecting critical technologies (as defined in section 721(a)(6)(A) of the Defense Production Act of 1950 (50 U.S.C. 4565(a)(6)(A))).”
 
 **Authority of Secretary of State**
 
@@ -1227,7 +1227,7 @@ A Board of Directors was reestablished for the Export-Import Bank of Washington 
 
 **History of Bank**
 
-The Export-Import Bank of Washington was organized as a District of Columbia banking corporation under Ex. Ord. No. 6581, Feb. 2, 1934. It was continued as an agency of the United States by act Jan. 31, 1935, ch. 2, § 9, 49 Stat. 4, formerly set out as section 713b of Title 15, Commerce and Trade, as amended by acts Jan. 26, 1937, ch. 6, § 2(a), 50 Stat. 5; Mar. 4, 1939, ch. 5, § 1(b)(c), 53 Stat. 510; Mar. 2, 1940, ch. 34, 54 Stat. 38; Sept. 26, 1940, ch. 734, § 3, 54 Stat. 962, and repealed by section 10 of act July 31, 1945. The Second Export-Import Bank of Washington, D.C., was established under Ex. Ord. No. 6638, Mar. 9, 1934. Its commitments were transferred to the Export-Import Bank of Washington and it was abolished by Ex. Ord. No. 7365, May 7, 1936, 1 F.R. 372. The “Export-Import Bank of Washington” was re­named the “Export-Import Bank of the United States”. See the 1968 Amendment note under this section.
+The Export-Import Bank of Washington was organized as a District of Columbia banking corporation under Ex. Ord. No. 6581, Feb. 2, 1934. It was continued as an agency of the United States by act Jan. 31, 1935, ch. 2, § 9, 49 Stat. 4, formerly set out as section 713b of Title 15, Commerce and Trade, as amended by acts Jan. 26, 1937, ch. 6, § 2(a), 50 Stat. 5; Mar. 4, 1939, ch. 5, § 1(b)(c), 53 Stat. 510; Mar. 2, 1940, ch. 34, 54 Stat. 38; Sept. 26, 1940, ch. 734, § 3, 54 Stat. 962, and repealed by section 10 of act July 31, 1945. The Second Export-Import Bank of Washington, D.C., was established under Ex. Ord. No. 6638, Mar. 9, 1934. Its commitments were transferred to the Export-Import Bank of Washington and it was abolished by Ex. Ord. No. 7365, May 7, 1936, 1 F.R. 372. The “Export-Import Bank of Washington” was re­named the “Export-Import Bank of the United States”. See the 1968 Amendment note under this section.
 
 **Waiver of Sanctions**
 
@@ -1239,7 +1239,7 @@ Determination of President of the United States, No. 2000–18, Mar. 16, 2000, 6
 
 **Reporting on Financing Related to China**
 
-Pub. L. 116–94, div. I, title IV, § 408, Dec. 20, 2019, 133 Stat. 3024, provided that:
+Pub. L. 116–94, div. I, title IV, § 408, Dec. 20, 2019, 133 Stat. 3024, provided that:
 
 > **“(a) National Interest Report.—** Before authorizing a loan or guarantee for a transaction in an amount greater than $25,000,000 for which the end user, lender, or obligor is the government of China, the President of the Export-Import Bank of the United States (in this section referred to as the ‘Bank’) shall—
 
@@ -1291,7 +1291,7 @@ Pub. L. 116–94, div. I, title IV, § 408, Dec. 20, 2019, 133 Stat. 3024, pro
 
 **Pilot Program for Reinsurance**
 
-Pub. L. 114–94, div. E, title LI, § 51008, Dec. 4, 2015, 129 Stat. 1766, provided that:
+Pub. L. 114–94, div. E, title LI, § 51008, Dec. 4, 2015, 129 Stat. 1766, provided that:
 
 > **“(a) In General.—** Notwithstanding any provision of the Export-Import Bank Act of 1945 (12 U.S.C. 635 et seq.), the Export-Import Bank of the United States (in this section referred to as the ‘Bank’) may establish a pilot program under which the Bank may enter into contracts and other arrangements to share risks associated with the provision of guarantees, insurance, or credit, or the participation in the extension of credit, by the Bank under that Act.
 
@@ -1309,11 +1309,11 @@ Pub. L. 114–94, div. E, title LI, § 51008, Dec. 4, 2015, 129 Stat. 1766, pr
 
 **Publication of Guidelines for Economic Impact Analyses**
 
-Pub. L. 112–122, § 12(a), May 30, 2012, 126 Stat. 357, provided that: “Not later than 180 days after the date of the enactment of this Act [May 30, 2012], the Export-Import Bank of the United States shall develop and make publicly available methodological guidelines to be used by the Bank in conducting economic impact analyses or similar studies under section 2(e) of the Export-Import Bank Act of 1945 [12 U.S.C. 635(e)]. In developing the guidelines, the Bank shall take into consideration any relevant guidance from the Office of Management and Budget.”
+Pub. L. 112–122, § 12(a), May 30, 2012, 126 Stat. 357, provided that: “Not later than 180 days after the date of the enactment of this Act [May 30, 2012], the Export-Import Bank of the United States shall develop and make publicly available methodological guidelines to be used by the Bank in conducting economic impact analyses or similar studies under section 2(e) of the Export-Import Bank Act of 1945 [12 U.S.C. 635(e)]. In developing the guidelines, the Bank shall take into consideration any relevant guidance from the Office of Management and Budget.”
 
 **Prohibitions on Financing for Certain Persons Involved in Sanctionable Activities With Respect to Iran**
 
-Pub. L. 112–122, § 18, May 30, 2012, 126 Stat. 360, provided that:
+Pub. L. 112–122, § 18, May 30, 2012, 126 Stat. 360, provided that:
 
 > **“(a) Prohibition on Financing for Persons That Engage in Certain Sanctionable Activities.—**
 
@@ -1365,19 +1365,19 @@ Pub. L. 112–122, § 18, May 30, 2012, 126 Stat. 360, provided that:
 
 **Master Guarantee Agreements With African Regional Financial Institutions**
 
-Pub. L. 109–438, § 3(b)(1), Dec. 20, 2006, 120 Stat. 3268, provided that: “Within 1 year after the date of the enactment of this Act [Dec. 20, 2006], the Export-Import Bank of the United States shall seek to ensure that there is in effect a contract between each approved lender in Africa and the Bank, which sets forth the Bank’s guarantee undertakings and related obligations between the Bank and each lender.”
+Pub. L. 109–438, § 3(b)(1), Dec. 20, 2006, 120 Stat. 3268, provided that: “Within 1 year after the date of the enactment of this Act [Dec. 20, 2006], the Export-Import Bank of the United States shall seek to ensure that there is in effect a contract between each approved lender in Africa and the Bank, which sets forth the Bank’s guarantee undertakings and related obligations between the Bank and each lender.”
 
 **Enhance Delegated Loan Authority for Medium Term Transactions**
 
-Pub. L. 109–438, § 6(b)(1), Dec. 20, 2006, 120 Stat. 3272, provided that: “The Export-Import Bank of the United States shall seek to expand the exercise of authority under section 2(b)(1)(E)(vii) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(1)(E)(vii)) with respect to medium term transactions for small business concerns.”
+Pub. L. 109–438, § 6(b)(1), Dec. 20, 2006, 120 Stat. 3272, provided that: “The Export-Import Bank of the United States shall seek to expand the exercise of authority under section 2(b)(1)(E)(vii) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(1)(E)(vii)) with respect to medium term transactions for small business concerns.”
 
 **Deadline for Enhancing Delegated Loan Authority for Medium Term Transactions**
 
-Pub. L. 109–438, § 6(b)(3), Dec. 20, 2006, 120 Stat. 3272, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2006], the Export-Import Bank of the United States shall make available lines of credit and guarantees to carry out section 2(b)(1)(E)(vii) of the Export-Import Bank Act of 1945 [12 U.S.C. 635(b)(1)(E)(vii)] pursuant to policies and procedures established by the Board of Directors of the Export-Import Bank of the United States.”
+Pub. L. 109–438, § 6(b)(3), Dec. 20, 2006, 120 Stat. 3272, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2006], the Export-Import Bank of the United States shall make available lines of credit and guarantees to carry out section 2(b)(1)(E)(vii) of the Export-Import Bank Act of 1945 [12 U.S.C. 635(b)(1)(E)(vii)] pursuant to policies and procedures established by the Board of Directors of the Export-Import Bank of the United States.”
 
 **GAO Study of Bank Performance Standards for Assistance to Small Businesses, Especially Those Owned by Socially and Economically Disadvantaged Individuals and Those Owned by Women**
 
-Pub. L. 109–438, § 19, Dec. 20, 2006, 120 Stat. 3282, provided that:
+Pub. L. 109–438, § 19, Dec. 20, 2006, 120 Stat. 3282, provided that:
 
 > **“(a) Performance Standards.—** The Bank shall develop a set of performance standards for determining the extent to which the Bank has carried out successfully subparagraphs (E) and (I) of section 2(b)(1) of the Export-Import Bank Act of 1945 [12 U.S.C. 635(b)(1)(E), (I)], and the functions described in subsections (f)(1), (g)(1), (h)(1), and (i)(1) of section 3 of such Act [12 U.S.C. 635a(f)(1), (g)(1), (h)(1), (i)(1)].
 
@@ -1389,15 +1389,15 @@ Pub. L. 109–438, § 19, Dec. 20, 2006, 120 Stat. 3282, provided that:
 
 **GAO Report on Comparative Reserve Practices of Export Credit Agencies and Private Banks**
 
-Pub. L. 107–189, § 14, June 14, 2002, 116 Stat. 705, provided that: “Within 1 year after the date of the enactment of this Act [June 14, 2002], the Comptroller General of the United States shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that examines the reserve ratios of the Export-Import Bank of the United States as compared with the reserve practices of private banks and foreign export credit agencies.”
+Pub. L. 107–189, § 14, June 14, 2002, 116 Stat. 705, provided that: “Within 1 year after the date of the enactment of this Act [June 14, 2002], the Comptroller General of the United States shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report that examines the reserve ratios of the Export-Import Bank of the United States as compared with the reserve practices of private banks and foreign export credit agencies.”
 
 **Reports to Congress**
 
-Pub. L. 105–121, § 7(b), Nov. 26, 1997, 111 Stat. 2529, as amended by Pub. L. 107–189, § 6(c), June 14, 2002, 116 Stat. 700, provided that: “Within 6 months after the date of enactment of this Act [Nov. 26, 1997], and annually for each of the 8 years thereafter, the Board of Directors of the Export-Import Bank of the United States shall submit to Congress a report on the steps that the Board has taken to implement section 2(b)(9)(B) of the Export-Import Bank Act of 1945 [12 U.S.C. 635(b)(9)(B)] and any recommendations of the advisory committee established pursuant to such section.”
+Pub. L. 105–121, § 7(b), Nov. 26, 1997, 111 Stat. 2529, as amended by Pub. L. 107–189, § 6(c), June 14, 2002, 116 Stat. 700, provided that: “Within 6 months after the date of enactment of this Act [Nov. 26, 1997], and annually for each of the 8 years thereafter, the Board of Directors of the Export-Import Bank of the United States shall submit to Congress a report on the steps that the Board has taken to implement section 2(b)(9)(B) of the Export-Import Bank Act of 1945 [12 U.S.C. 635(b)(9)(B)] and any recommendations of the advisory committee established pursuant to such section.”
 
 **Declaration of Policy**
 
-Pub. L. 102–429, title I, § 101, Oct. 21, 1992, 106 Stat. 2186, provided that:
+Pub. L. 102–429, title I, § 101, Oct. 21, 1992, 106 Stat. 2186, provided that:
 
 > “The Congress finds that—
 
@@ -1421,15 +1421,15 @@ Pub. L. 102–429, title I, § 101, Oct. 21, 1992, 106 Stat. 2186, provided th
 
 **Report on Financing of Services**
 
-Pub. L. 102–429, title I, § 119, Oct. 21, 1992, 106 Stat. 2197, directed Export-Import Bank of the United States, not later than 1 year after Oct. 21, 1992, to submit a report to Congress on ways of facilitating the export financing of high technology services.
+Pub. L. 102–429, title I, § 119, Oct. 21, 1992, 106 Stat. 2197, directed Export-Import Bank of the United States, not later than 1 year after Oct. 21, 1992, to submit a report to Congress on ways of facilitating the export financing of high technology services.
 
 **Report on Demand for Trade Finance for the Baltic States, the Independent States of the Former Soviet Union, and Central and Eastern Europe**
 
-Pub. L. 102–429, title I, § 120, Oct. 21, 1992, 106 Stat. 2197, directed Export-Import Bank, not later than 1 year after Oct. 21, 1992, to transmit to Congress a report analyzing present and future demand for loans, guarantees, and insurance for trade between the United States and the Baltic States, between the United States and the independent States of the former Soviet Union, and between the United States and Central and Eastern Europe, and to make recommendations regarding the adequacy of financing for trade between the United States and such countries.
+Pub. L. 102–429, title I, § 120, Oct. 21, 1992, 106 Stat. 2197, directed Export-Import Bank, not later than 1 year after Oct. 21, 1992, to transmit to Congress a report analyzing present and future demand for loans, guarantees, and insurance for trade between the United States and the Baltic States, between the United States and the independent States of the former Soviet Union, and between the United States and Central and Eastern Europe, and to make recommendations regarding the adequacy of financing for trade between the United States and such countries.
 
 **Export-Import Programs to People’s Republic of China Prohibited Unless Certain Conditions Met**
 
-Pub. L. 101–240, title I, § 103, Dec. 19, 1989, 103 Stat. 2496, provided that:
+Pub. L. 101–240, title I, § 103, Dec. 19, 1989, 103 Stat. 2496, provided that:
 
 > **“(a)** Notwithstanding any other provision of law and subject to the provisions of subsections (b) and (c), the Export-Import Bank of the United States shall not finance any trade with, nor extend any loan, credit, credit guarantee, insurance or reinsurance to the People’s Republic of China.
 
@@ -1453,7 +1453,7 @@ Pub. L. 101–240, title I, § 103, Dec. 19, 1989, 103 Stat. 2496, provided th
 
 **Export-Import Bank Programs for Poland and Hungary**
 
-Pub. L. 101–179, title III, § 303, Nov. 28, 1989, 103 Stat. 1312, provided that:
+Pub. L. 101–179, title III, § 303, Nov. 28, 1989, 103 Stat. 1312, provided that:
 
 > **“(a) Authority to Extend Credit to Poland and Hungary.—** Notwithstanding section 2(b)(2) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(2)), the Export-Import Bank of the United States may guarantee, insure, finance, extend credit, and participate in the extension of credit in connection with the purchase or lease of any product by the Republic of Hungary or any agency or national thereof or by the Polish People’s Republic or any agency or national thereof.
 
@@ -1461,7 +1461,7 @@ Pub. L. 101–179, title III, § 303, Nov. 28, 1989, 103 Stat. 1312, provided 
 
 **Restrictions on Loans**
 
-Pub. L. 93–646, § 12, Jan. 4, 1975, 88 Stat. 2337, provided that, until Jan. 3, 1975, no loan, guarantee, insurance, or credit could be extended by the Export-Import Bank of the United States to the Union of Soviet Socialist Republics.
+Pub. L. 93–646, § 12, Jan. 4, 1975, 88 Stat. 2337, provided that, until Jan. 3, 1975, no loan, guarantee, insurance, or credit could be extended by the Export-Import Bank of the United States to the Union of Soviet Socialist Republics.
 
 **Executive Documents**
 
@@ -1507,7 +1507,7 @@ Determination No. 2009–20, June 12, 2009, 74 F.R. 28865.—Kingdom of Cambodia
 
 Determination No. 2009–21, June 12, 2009, 74 F.R. 28867.—Lao People’s Democratic Republic.
 
-### § 635a. Management of Bank
+### § 635a. Management of Bank
 
 **(a) Establishment as independent agency**
 
@@ -1889,7 +1889,7 @@ The membership of the Risk Management Committee shall be the members of the Boar
 
 **(B)** to review all required reports on the default rate of the Bank before submission to Congress under section 635g(g) of this title.
 
-(July 31, 1945, ch. 341, § 3, 59 Stat. 527; Aug. 9, 1954, ch. 660, § 1, 68 Stat. 677; Pub. L. 90–267, § 1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I [title VI, §§ 613, 614(a), 620(b)], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, § 18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, § 113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§ 6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, § 1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, § 24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§ 6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§ 9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§ 51004–51006(a), title LIII, § 53002, title LIV, § 54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769; Pub. L. 116–94, div. I, title IV, § 409(a), Dec. 20, 2019, 133 Stat. 3025; Pub. L. 117–286, § 4(c)(22), Dec. 27, 2022, 136 Stat. 4357.)
+(July 31, 1945, ch. 341, § 3, 59 Stat. 527; Aug. 9, 1954, ch. 660, § 1, 68 Stat. 677; Pub. L. 90–267, § 1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I [title VI, §§ 613, 614(a), 620(b)], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, § 18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, § 113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§ 6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, § 1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, § 24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§ 6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§ 9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§ 51004–51006(a), title LIII, § 53002, title LIV, § 54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769; Pub. L. 116–94, div. I, title IV, § 409(a), Dec. 20, 2019, 133 Stat. 3025; Pub. L. 117–286, § 4(c)(22), Dec. 27, 2022, 136 Stat. 4357.)
 
 **Termination of Amendment**
 
@@ -1911,61 +1911,61 @@ Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annu
 
 2019—Subsec. (c)(6). Pub. L. 116–94 designated existing provisions as subpar. (A) and added subpar. (B).
 
-2015—Subsec. (g)(3). Pub. L. 114–94, § 54002(c), substituted “$25,000,000” for “$10,000,000”.
+2015—Subsec. (g)(3). Pub. L. 114–94, § 54002(c), substituted “$25,000,000” for “$10,000,000”.
 
-Subsec. (j)(1). Pub. L. 114–94, § 53002(1), substituted “2015 through 2019” for “2012, 2013, and 2014” in introductory provisions.
+Subsec. (j)(1). Pub. L. 114–94, § 53002(1), substituted “2015 through 2019” for “2012, 2013, and 2014” in introductory provisions.
 
-Subsec. (j)(2)(B). Pub. L. 114–94, § 53002(2), substituted “(i) the funds” for “(I) the funds”.
+Subsec. (j)(2)(B). Pub. L. 114–94, § 53002(2), substituted “(i) the funds” for “(I) the funds”.
 
-Subsec. (j)(3). Pub. L. 114–94, § 53002(3), substituted “2015 through 2019” for “2012, 2013, and 2014”.
+Subsec. (j)(3). Pub. L. 114–94, § 53002(3), substituted “2015 through 2019” for “2012, 2013, and 2014”.
 
-Subsec. (k). Pub. L. 114–94, § 51004, added subsec. (k).
+Subsec. (k). Pub. L. 114–94, § 51004, added subsec. (k).
 
-Subsec. (*l*). Pub. L. 114–94, § 51005, added subsec. (*l*).
+Subsec. (*l*). Pub. L. 114–94, § 51005, added subsec. (*l*).
 
-Subsec. (m). Pub. L. 114–94, § 51006(a), added subsec. (m).
+Subsec. (m). Pub. L. 114–94, § 51006(a), added subsec. (m).
 
-2012—Subsec. (c)(10). Pub. L. 112–122, § 9(a), added par. (10).
+2012—Subsec. (c)(10). Pub. L. 112–122, § 9(a), added par. (10).
 
-Subsec. (d)(1)(B). Pub. L. 112–122, § 20(a), substituted “State government, and the textile industry” for “and State government”.
+Subsec. (d)(1)(B). Pub. L. 112–122, § 20(a), substituted “State government, and the textile industry” for “and State government”.
 
-Subsec. (d)(5). Pub. L. 112–122, § 20(b)(1), added par. (5).
+Subsec. (d)(5). Pub. L. 112–122, § 20(b)(1), added par. (5).
 
-Subsec. (j). Pub. L. 112–122, § 19, added subsec. (j).
+Subsec. (j). Pub. L. 112–122, § 19, added subsec. (j).
 
-2006—Subsec. (c)(9). Pub. L. 109–438, § 15, added par. (9).
+2006—Subsec. (c)(9). Pub. L. 109–438, § 15, added par. (9).
 
-Subsec. (d)(1)(A). Pub. L. 109–438, § 18(a)(1)(A), substituted “17” for “15”.
+Subsec. (d)(1)(A). Pub. L. 109–438, § 18(a)(1)(A), substituted “17” for “15”.
 
-Subsec. (d)(1)(B). Pub. L. 109–438, § 18(a)(1)(B), inserted “environment,” before “production,”.
+Subsec. (d)(1)(B). Pub. L. 109–438, § 18(a)(1)(B), inserted “environment,” before “production,”.
 
-Subsec. (d)(2)(C). Pub. L. 109–438, § 18(a)(2), added subpar. (C).
+Subsec. (d)(2)(C). Pub. L. 109–438, § 18(a)(2), added subpar. (C).
 
-Subsecs. (f) to (h). Pub. L. 109–438, § 6(a), added subsecs. (f) to (h).
+Subsecs. (f) to (h). Pub. L. 109–438, § 6(a), added subsecs. (f) to (h).
 
-Subsec. (i). Pub. L. 109–438, § 14(a), added subsec. (i).
+Subsec. (i). Pub. L. 109–438, § 14(a), added subsec. (i).
 
 2002—Subsec. (d)(2)(B). Pub. L. 107–189 realigned margins.
 
 1999—Subsec. (c)(6). Pub. L. 106–46 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “A majority of the Board of Directors shall constitute a quorum.”
 
-1997—Subsec. (d)(2). Pub. L. 105–121, § 8, designated existing provisions as subpar. (A) and added subpar. (B).
+1997—Subsec. (d)(2). Pub. L. 105–121, § 8, designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (e). Pub. L. 105–121, § 6, designated existing provisions as par. (1) and added par. (2).
+Subsec. (e). Pub. L. 105–121, § 6, designated existing provisions as par. (1) and added par. (2).
 
 1992—Subsec. (d)(1)(A). Pub. L. 102–429 substituted “15 members” for “twelve members”.
 
 1986—Subsec. (c)(8)(E). Pub. L. 99–472 added subpar. (E).
 
-1983—Subsec. (c). Pub. L. 98–81, § 614(a), designated first through seventh sentences as pars. (1) through (7), respectively, substituted “The” for “Terms of the directors shall be at the pleasure of the President of the United States, and the” at beginning of par. (5) as so designated, and added par. (8).
+1983—Subsec. (c). Pub. L. 98–81, § 614(a), designated first through seventh sentences as pars. (1) through (7), respectively, substituted “The” for “Terms of the directors shall be at the pleasure of the President of the United States, and the” at beginning of par. (5) as so designated, and added par. (8).
 
-Subsec. (d). Pub. L. 98–181, § 613, amended subsec. (d) generally. Prior to amendment subsec. (d) read as follows: “There shall be an Advisory Committee of nine members, appointed by the Board of Directors on the recommendation of the President of the Bank, who shall be broadly representative of production, commerce, finance, agriculture and labor. The Advisory Committee shall meet one or more times per year, on the call of the President of the Bank, to advise with the Bank on its program. Members, not otherwise in the regular full-time employ of the United States, may be compensated at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule (5 U.S.C. 5332) for each day spent in travel or attendance at meetings of the Committee, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently.”
+Subsec. (d). Pub. L. 98–181, § 613, amended subsec. (d) generally. Prior to amendment subsec. (d) read as follows: “There shall be an Advisory Committee of nine members, appointed by the Board of Directors on the recommendation of the President of the Bank, who shall be broadly representative of production, commerce, finance, agriculture and labor. The Advisory Committee shall meet one or more times per year, on the call of the President of the Bank, to advise with the Bank on its program. Members, not otherwise in the regular full-time employ of the United States, may be compensated at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule (5 U.S.C. 5332) for each day spent in travel or attendance at meetings of the Committee, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently.”
 
-Subsec. (e). Pub. L. 98–181, § 620(b), substituted “such individual’s” for “his” and “such individual” for “he”.
+Subsec. (e). Pub. L. 98–181, § 620(b), substituted “such individual’s” for “his” and “such individual” for “he”.
 
-1968—Subsecs. (a) to (c). Pub. L. 90–267, § 1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+1968—Subsecs. (a) to (c). Pub. L. 90–267, § 1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
-Subsec. (d). Pub. L. 90–267, § 1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
+Subsec. (d). Pub. L. 90–267, § 1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
 
 1954—Act Aug. 9, 1954, amended section generally to provide for the independent management of the Bank under a Board of Directors and for the appointment of a President and First Vice President of the Bank.
 
@@ -1973,7 +1973,7 @@ Subsec. (d). Pub. L. 90–267, § 1(d), substituted provisions for compensatio
 
 **Termination Date of 2019 Amendment**
 
-Pub. L. 116–94, div. I, title IV, § 409(b), Dec. 20, 2019, 133 Stat. 3026, provided that: “The amendments made by subsection (a) [amending this section] shall have no force or effect after December 31, 2026.”
+Pub. L. 116–94, div. I, title IV, § 409(b), Dec. 20, 2019, 133 Stat. 3026, provided that: “The amendments made by subsection (a) [amending this section] shall have no force or effect after December 31, 2026.”
 
 **Effective Date of 2015 Amendment**
 
@@ -1981,21 +1981,21 @@ Amendment by section 54002(c) of Pub. L. 114–94 applicable with respect to fis
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–122, § 9(b), May 30, 2012, 126 Stat. 356, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 60 days after the date of the enactment of this Act [May 30, 2012].”
+Pub. L. 112–122, § 9(b), May 30, 2012, 126 Stat. 356, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 60 days after the date of the enactment of this Act [May 30, 2012].”
 
 Amendment by sections 19–20(b)(1) of Pub. L. 112–122 effective May 30, 2012, see section 25 of Pub. L. 112–122, set out as a note under section 635 of this title.
 
 **Effective Date of 1954 Amendment**
 
-Act Aug. 9, 1954, ch. 660, § 4, 68 Stat. 678, provided that: “The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment [Aug. 9, 1954]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 [set out below].”
+Act Aug. 9, 1954, ch. 660, § 4, 68 Stat. 678, provided that: “The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment [Aug. 9, 1954]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 [set out below].”
 
 **Termination of Audit Committee**
 
-Pub. L. 114–94, div. E, title LI, § 51006(b), Dec. 4, 2015, 129 Stat. 1766, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 4, 2015], the Board of Directors of the Export-Import Bank of the United States shall revise the bylaws of the Bank to terminate the Audit Committee established by section 7 of the bylaws.”
+Pub. L. 114–94, div. E, title LI, § 51006(b), Dec. 4, 2015, 129 Stat. 1766, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 4, 2015], the Board of Directors of the Export-Import Bank of the United States shall revise the bylaws of the Bank to terminate the Audit Committee established by section 7 of the bylaws.”
 
 **Untied Aid**
 
-Pub. L. 107–189, § 10(a), June 14, 2002, 116 Stat. 702, provided that:
+Pub. L. 107–189, § 10(a), June 14, 2002, 116 Stat. 702, provided that:
 
 > **“(1) Negotiations.—** The Secretary of the Treasury shall seek to negotiate an OECD Arrangement on Untied Aid. In the negotiations, the Secretary should seek agreement on subjecting untied aid to the rules governing the Arrangement, including the rules governing disclosure.
 
@@ -2003,11 +2003,11 @@ Pub. L. 107–189, § 10(a), June 14, 2002, 116 Stat. 702, provided that:
 
 **Board of Directors; Exception to Quorum Requirement**
 
-Pub. L. 106–46, § 1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, § 122, Sept. 30, 1999, 113 Stat. 509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: “Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 [12 U.S.C. 635a(c)(6)], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period.”
+Pub. L. 106–46, § 1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, § 122, Sept. 30, 1999, 113 Stat. 509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: “Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 [12 U.S.C. 635a(c)(6)], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period.”
 
 **Compensation of Employees**
 
-Pub. L. 102–429, title I, § 117, Oct. 21, 1992, 106 Stat. 2196, provided that:
+Pub. L. 102–429, title I, § 117, Oct. 21, 1992, 106 Stat. 2196, provided that:
 
 > **“[(a)** Repealed. Pub. L. 102–429, title I, §117(b), Oct. 21, 1992, 106 Stat. 2196.]
 
@@ -2063,15 +2063,15 @@ Pub. L. 102–429, title I, § 117, Oct. 21, 1992, 106 Stat. 2196, provided th
 
 [Pub. L. 107–115, title I, Jan. 10, 2002, 115 Stat. 2119.
 
-[Pub. L. 106–429, § 101(a) [title I], Nov. 6, 2000, 114 Stat. 1900, 1900A–4.
+[Pub. L. 106–429, § 101(a) [title I], Nov. 6, 2000, 114 Stat. 1900, 1900A–4.
 
-[Pub. L. 106–113, div. B, § 1000(a)(2) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–64.
+[Pub. L. 106–113, div. B, § 1000(a)(2) [title I], Nov. 29, 1999, 113 Stat. 1535, 1501A–64.
 
-[Pub. L. 105–277, div. A, § 101(d) [title I], Oct. 21, 1998, 112 Stat. 2681–150, 2681–151.
+[Pub. L. 105–277, div. A, § 101(d) [title I], Oct. 21, 1998, 112 Stat. 2681–150, 2681–151.
 
 [Pub. L. 105–118, title I, Nov. 26, 1997, 111 Stat. 2387.
 
-[Pub. L. 104–208, div. A, title I, § 101(c) [title I], Sept. 30, 1996, 110 Stat. 3009–121, 3009–122.
+[Pub. L. 104–208, div. A, title I, § 101(c) [title I], Sept. 30, 1996, 110 Stat. 3009–121, 3009–122.
 
 [Pub. L. 104–107, title I, Feb. 12, 1996, 110 Stat. 705.
 
@@ -2079,11 +2079,11 @@ Pub. L. 102–429, title I, § 117, Oct. 21, 1992, 106 Stat. 2196, provided th
 
 **Report on Regional Offices**
 
-Pub. L. 102–429, title I, § 118, Oct. 21, 1992, 106 Stat. 2197, directed Export-Import Bank, not later than 1 year after Oct. 21, 1992, to submit a report to Congress on the Bank’s plan to establish and operate regional offices.
+Pub. L. 102–429, title I, § 118, Oct. 21, 1992, 106 Stat. 2197, directed Export-Import Bank, not later than 1 year after Oct. 21, 1992, to submit a report to Congress on the Bank’s plan to establish and operate regional offices.
 
 **Appointment of Member of Board To Represent Interests of Small Business Community**
 
-Pub. L. 98–181, title I [title VI, § 614(b)], Nov. 30, 1983, 97 Stat. 1256, provided that: “In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 [subsec. (c)(8)(B) of this section], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section [Nov. 30, 1983] shall be selected from among the small business community and shall represent the interests of small business.”
+Pub. L. 98–181, title I [title VI, § 614(b)], Nov. 30, 1983, 97 Stat. 1256, provided that: “In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 [subsec. (c)(8)(B) of this section], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section [Nov. 30, 1983] shall be selected from among the small business community and shall represent the interests of small business.”
 
 **Board of Directors; Advisory Committee**
 
@@ -2138,19 +2138,19 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
-[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, § 1(a), Mar. 13, 1968, 82 Stat. 47.]
+[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, § 1(a), Mar. 13, 1968, 82 Stat. 47.]
 
 **United States Trade Representative and Secretary of Commerce as Additional Members of Board of Directors of Export-Import Bank of the United States**
 
 For provisions directing that the United States Trade Representative and the Secretary of Commerce serve, ex officio and without vote, as additional members of the Board of Directors of the Export-Import Bank of the United States, see section 3 of 1979 Reorg. Plan No. 3, set out in the Appendix to Title 5, Government Organization and Employees.
 
-### § 635a–1. Export credit competition
+### § 635a–1. Export credit competition
 
 **(a)** The President is authorized and requested to begin negotiations at the ministerial level with other major exporting countries to end predatory export financing programs and other forms of export subsidies, including mixed credits, in third country markets as well as within the United States. The President shall report to the Congress prior to January 15, 1979, on progress toward meeting the goals of this section.
 
 **(b)** The Export-Import Bank of the United States is authorized to provide guarantees, insurance, and extensions of credit at rates and terms and other conditions which are, in the opinion of the Board of Directors of the Bank, competitive with those provided by the government-supported export credit instrumentalities of other nations.
 
-(Pub. L. 95–630, title XIX, § 1908, Nov. 10, 1978, 92 Stat. 3725.)
+(Pub. L. 95–630, title XIX, § 1908, Nov. 10, 1978, 92 Stat. 3725.)
 
 **Editorial Notes**
 
@@ -2164,15 +2164,15 @@ Section was enacted as part of the Export-Import Bank Act Amendments of 1978, an
 
 Section effective Nov. 10, 1978, see section 1917 of Pub. L. 95–630, set out as an Effective Date of 1978 Amendment note under section 635 of this title.
 
-### § 635a–2. Implementation of regulations and procedures to lessen adverse effect of loans and guarantees on industries in United States; report by United States International Trade Commission; written consideration of views of adversely affected parties
+### § 635a–2. Implementation of regulations and procedures to lessen adverse effect of loans and guarantees on industries in United States; report by United States International Trade Commission; written consideration of views of adversely affected parties
 
 The Bank shall implement such regulations and procedures as may be appropriate to insure that full consideration is given to the extent to which any loan or financial guarantee is likely to have an adverse effect on industries, including agriculture, and employment in the United States, either by reducing demand for goods produced in the United States or by increasing imports to the United States. To carry out the purposes of this subsection,1
 
-<sup>1</sup>  So in original. Probably should be “section,”.
+<sup>1</sup> So in original. Probably should be “section,”.
 
 the Bank shall request, and the United States International Trade Commission shall furnish, a report assessing the impact of the Bank’s activities on industries and employment in the United States. Such report shall include an assessment of previous loans or financial guarantees and shall provide recommendations concerning general areas which may adversely affect domestic industries, including agriculture, and employment. After October 1, 1983, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section. In all cases to which this section applies, the Bank shall consider and address in writing the views of parties or persons who may be substantially adversely affected by the loan or guarantee prior to taking final action on the loan or guarantee. This requirement does not subject the Bank to the provisions of subchapter II of chapter 5 of title 5.
 
-(Pub. L. 95–630, title XIX, § 1911, Nov. 10, 1978, 92 Stat. 3726; Pub. L. 98–181, title I [title VI, § 632], Nov. 30, 1983, 97 Stat. 1262; Pub. L. 99–472, § 12, Oct. 15, 1986, 100 Stat. 1204.)
+(Pub. L. 95–630, title XIX, § 1911, Nov. 10, 1978, 92 Stat. 3726; Pub. L. 98–181, title I [title VI, § 632], Nov. 30, 1983, 97 Stat. 1262; Pub. L. 99–472, § 12, Oct. 15, 1986, 100 Stat. 1204.)
 
 **Editorial Notes**
 
@@ -2194,7 +2194,7 @@ Section effective Nov. 10, 1978, see section 1917 of Pub. L. 95–630, set out a
 
 **Improvement of Method for Calculating the Effects of Bank Financing on Job Creation and Maintenance in the United States**
 
-Pub. L. 112–122, § 16, May 30, 2012, 126 Stat. 359, provided that:
+Pub. L. 112–122, § 16, May 30, 2012, 126 Stat. 359, provided that:
 
 > **“(a) GAO Study.—** The Comptroller General of the United States shall conduct a study of the process and methodology used by the Export-Import Bank of the United States (in this section referred to as the ‘Bank’) to calculate the effects of the provision of financing by the Bank on the creation and maintenance of employment in the United States, determine and assess the basis on which the Bank has so used the methodology, and make any recommendations the Comptroller General deems appropriate.
 
@@ -2202,7 +2202,7 @@ Pub. L. 112–122, § 16, May 30, 2012, 126 Stat. 359, provided that:
 
 > **“(c) Implementation of Recommendations.—** If the report submitted pursuant to subsection (b) includes recommendations, the Bank may establish a more accurate methodology of the kind described in subsection (a) based on the recommendations.”
 
-### § 635a–3. Export-Import Bank financing to match foreign financing
+### § 635a–3. Export-Import Bank financing to match foreign financing
 
 **(a) Noncompetitive financing; inquiry by Secretary; notification of foreign country and prospective parties to transaction**
 
@@ -2222,13 +2222,13 @@ Pub. L. 112–122, § 16, May 30, 2012, 126 Stat. 359, provided that:
 
 Upon receipt of authorization by the Secretary of the Treasury, the Export-Import Bank may provide financing to match that offered by the foreign official export credit entity: *Provided, however*, That loans, guarantees and insurance provided under this authority shall conform to all provisions of the Export-Import Bank Act of 1945, as amended [12 U.S.C. 635 et seq.].
 
-(Pub. L. 95–630, title XIX, § 1912, Nov. 10, 1978, 92 Stat. 3726; Pub. L. 98–181, title I [title VI, §§ 631, 633], Nov. 30, 1983, 97 Stat. 1262, 1263; Pub. L. 99–472, § 15, Oct. 15, 1986, 100 Stat. 1204.)
+(Pub. L. 95–630, title XIX, § 1912, Nov. 10, 1978, 92 Stat. 3726; Pub. L. 98–181, title I [title VI, §§ 631, 633], Nov. 30, 1983, 97 Stat. 1262, 1263; Pub. L. 99–472, § 15, Oct. 15, 1986, 100 Stat. 1204.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export-Import Bank Act of 1945, as amended, referred to in subsec. (c), is act July 31, 1945, ch. 341, 59 Stat. 526, which is classified generally to subchapter 1 (§ 635 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 635 of this title and Tables.
+The Export-Import Bank Act of 1945, as amended, referred to in subsec. (c), is act July 31, 1945, ch. 341, 59 Stat. 526, which is classified generally to subchapter 1 (§ 635 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 635 of this title and Tables.
 
 **Codification**
 
@@ -2236,21 +2236,21 @@ Section was enacted as part of the Export-Import Bank Act Amendments of 1978, an
 
 **Amendments**
 
-1986—Subsec. (a)(1). Pub. L. 99–472, § 15(b), which directed the insertion of “irrespective of whether these credits are being offered by governments which are signatories to such standstills, minutes, or practices,” after “major export countries have agreed,” was executed by inserting that phrase after “major exporting countries have agreed,” as the probable intent of Congress.
+1986—Subsec. (a)(1). Pub. L. 99–472, § 15(b), which directed the insertion of “irrespective of whether these credits are being offered by governments which are signatories to such standstills, minutes, or practices,” after “major export countries have agreed,” was executed by inserting that phrase after “major exporting countries have agreed,” as the probable intent of Congress.
 
-Subsec. (b). Pub. L. 99–472, § 15(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary of the Treasury shall only issue such authorization to the Bank to provide guarantees, insurance and credits to competing United States sellers, if the Secretary determines that:
+Subsec. (b). Pub. L. 99–472, § 15(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The Secretary of the Treasury shall only issue such authorization to the Bank to provide guarantees, insurance and credits to competing United States sellers, if the Secretary determines that:
 
 “(1) the availability of foreign official noncompetitive financing is likely to be a significant factor in the sale, and
 
 “(2) the foreign noncompetitive financing has not been withdrawn on the date the Bank is authorized to provide competitive financing.”
 
-1983—Subsec. (a)(1). Pub. L. 98–181, § 631(1), inserted provision that the inquiry, and where appropriate, the determination and authorization to the Export-Import Bank of the United States referred to in this section shall be completed and made within 60 days of the receipt of such information.
+1983—Subsec. (a)(1). Pub. L. 98–181, § 631(1), inserted provision that the inquiry, and where appropriate, the determination and authorization to the Export-Import Bank of the United States referred to in this section shall be completed and made within 60 days of the receipt of such information.
 
-Subsec. (a)(2). Pub. L. 98–181, § 633(b), substituted “the Secretary shall request” for “he shall request”.
+Subsec. (a)(2). Pub. L. 98–181, § 633(b), substituted “the Secretary shall request” for “he shall request”.
 
-Subsec. (b). Pub. L. 98–181, § 633(a), substituted “if the Secretary determines that” for “if he determines that” in provisions preceding par. (1).
+Subsec. (b). Pub. L. 98–181, § 633(a), substituted “if the Secretary determines that” for “if he determines that” in provisions preceding par. (1).
 
-Subsec. (b)(1). Pub. L. 98–181, § 631(2), substituted “significant factor” for “determining factor”.
+Subsec. (b)(1). Pub. L. 98–181, § 631(2), substituted “significant factor” for “determining factor”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2258,7 +2258,7 @@ Subsec. (b)(1). Pub. L. 98–181, § 631(2), substituted “significant factor
 
 Section effective Nov. 10, 1978, see section 1917 of Pub. L. 95–630, set out as an Effective Date of 1978 Amendment note under section 635 of this title.
 
-### § 635a–4. Guarantees for export accounts receivable and inventory
+### § 635a–4. Guarantees for export accounts receivable and inventory
 
 The Export-Import Bank of the United States is authorized and directed to establish a program to provide guarantees for loans extended by financial institutions or other public or private creditors to export trading companies as defined in section 1843(c)(14)(F)(i) of this title, or to other exporters, when such loans are secured by export accounts receivable, inventories of exportable goods, accounts receivable from leases, performance contracts, grant commitments, participation fees, member dues, revenue from publications, or such other collateral as the Board of Directors may deem appropriate, and when in the judgment of the Board of Directors—
 
@@ -2268,7 +2268,7 @@ The Export-Import Bank of the United States is authorized and directed to establ
 
 The Board of Directors shall attempt to insure that a major share of any loan guarantees ultimately serves to promote exports from small, medium-size, and minority businesses or agricultural concerns. Guarantees provided under the authority of this section shall be subject to limitations contained in annual appropriations Acts.
 
-(Pub. L. 97–290, title II, § 206, Oct. 8, 1982, 96 Stat. 1239; Pub. L. 98–181, title I [title VI, § 616(b)], Nov. 30, 1983, 97 Stat. 1257.)
+(Pub. L. 97–290, title II, § 206, Oct. 8, 1982, 96 Stat. 1239; Pub. L. 98–181, title I [title VI, § 616(b)], Nov. 30, 1983, 97 Stat. 1257.)
 
 **Editorial Notes**
 
@@ -2280,13 +2280,13 @@ Section was enacted as part of the Bank Export Services Act, and not as part of 
 
 1983—Pub. L. 98–181 substituted “export accounts receivable, inventories of exportable goods, accounts receivable from leases, performance contracts, grant commitments, participation fees, member dues, revenue from publications, or such other collateral as the Board of Directors may deem appropriate,” for “export accounts receivable or inventories of exportable goods”.
 
-### § 635a–5. Negotiations to end export credit financing
+### § 635a–5. Negotiations to end export credit financing
 
 **(a) In general** The President shall initiate and pursue negotiations—
 
 **(1)** with other major exporting countries, including members of the Organisation for Economic Co-operation and Development (in this section referred to as the “OECD”) and non-OECD members, to substantially reduce, with the possible goal of eliminating, before the date that is 10 years after December 4, 2015,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 subsidized export financing programs and other forms of export subsidies; and
 
@@ -2316,7 +2316,7 @@ The President shall initiate and pursue negotiations with countries that are not
 
 Not later than 180 days after December 4, 2015, and annually thereafter through calendar year 2019, the President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the progress of any negotiations described in subsection (d).
 
-(Pub. L. 112–122, § 11, May 30, 2012, 126 Stat. 356; Pub. L. 114–94, div. E, title LV, § 55002(a), Dec. 4, 2015, 129 Stat. 1769.)
+(Pub. L. 112–122, § 11, May 30, 2012, 126 Stat. 356; Pub. L. 114–94, div. E, title LV, § 55002(a), Dec. 4, 2015, 129 Stat. 1769.)
 
 **Editorial Notes**
 
@@ -2326,19 +2326,19 @@ Section was enacted as part of the Export-Import Bank Reauthorization Act of 201
 
 **Amendments**
 
-2015—Subsec. (a). Pub. L. 114–94, § 55002(a)(1)(A), in introductory provisions, substituted “President” for “Secretary of the Treasury (in this section referred to as the ‘Secretary’)”.
+2015—Subsec. (a). Pub. L. 114–94, § 55002(a)(1)(A), in introductory provisions, substituted “President” for “Secretary of the Treasury (in this section referred to as the ‘Secretary’)”.
 
-Subsec. (a)(1). Pub. L. 114–94, § 55002(a)(1)(B), substituted “(in this section referred to as the ‘OECD’)” for “(OECD)” and “possible goal of eliminating, before the date that is 10 years after December 4, 2015,” for “ultimate goal of eliminating”.
+Subsec. (a)(1). Pub. L. 114–94, § 55002(a)(1)(B), substituted “(in this section referred to as the ‘OECD’)” for “(OECD)” and “possible goal of eliminating, before the date that is 10 years after December 4, 2015,” for “ultimate goal of eliminating”.
 
-Subsec. (b). Pub. L. 114–94, § 55002(a)(2), substituted “President” for “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 114–94, § 55002(a)(2), substituted “President” for “Secretary” wherever appearing.
 
-Subsecs. (c) to (e). Pub. L. 114–94, § 55002(a)(3), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 114–94, § 55002(a)(3), added subsecs. (c) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–94, div. E, title LV, § 55002(b), Dec. 4, 2015, 129 Stat. 1770, provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) [amending this section] shall apply with respect to reports required to be submitted under section 11(b) of the Export-Import Bank Reauthorization Act of 2012 (12 U.S.C. 635a–5(b)) after the date of the enactment of this Act [Dec. 4, 2015].”
+Pub. L. 114–94, div. E, title LV, § 55002(b), Dec. 4, 2015, 129 Stat. 1770, provided that: “The amendments made by paragraphs (1) and (2) of subsection (a) [amending this section] shall apply with respect to reports required to be submitted under section 11(b) of the Export-Import Bank Reauthorization Act of 2012 (12 U.S.C. 635a–5(b)) after the date of the enactment of this Act [Dec. 4, 2015].”
 
 **Executive Documents**
 
@@ -2356,7 +2356,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 Barack Obama.
 
-### § 635a–6. Periodic audits of bank transactions
+### § 635a–6. Periodic audits of bank transactions
 
 **(a) In general**
 
@@ -2372,7 +2372,7 @@ Within 2 years after May 30, 2012, and periodically (but not less frequently tha
 
 **(B)** the Committee on Financial Services and the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 112–122, § 17, May 30, 2012, 126 Stat. 359; Pub. L. 114–94, div. E, title LI, § 51003, Dec. 4, 2015, 129 Stat. 1763.)
+(Pub. L. 112–122, § 17, May 30, 2012, 126 Stat. 359; Pub. L. 114–94, div. E, title LI, § 51003, Dec. 4, 2015, 129 Stat. 1763.)
 
 **Editorial Notes**
 
@@ -2384,7 +2384,7 @@ Section was enacted as part of the Export-Import Bank Reauthorization Act of 201
 
 2015—Subsec. (b). Pub. L. 114–94 amended subsec. (b) generally. Prior to amendment, text read as follows: “The Comptroller General of the United States shall review the adequacy of the design and effectiveness of the controls used by the Export-Import Bank of the United States to prevent, detect, and investigate fraudulent applications for loans and guarantees, including by auditing a sample of Bank transactions, and submit to the Congress a written report which contains such recommendations with respect to the controls as the Comptroller General deems appropriate.”
 
-### § 635a–7. Independent audit of bank portfolio
+### § 635a–7. Independent audit of bank portfolio
 
 **(a) Audit**
 
@@ -2394,7 +2394,7 @@ The Inspector General of the Export-Import Bank of the United States shall condu
 
 Not later than 1 year after December 4, 2015, and not less frequently than every 3 years thereafter, the Inspector General shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a written report containing all findings and determinations made in carrying out subsection (a).
 
-(Pub. L. 114–94, div. E, title LI, § 51007, Dec. 4, 2015, 129 Stat. 1766.)
+(Pub. L. 114–94, div. E, title LI, § 51007, Dec. 4, 2015, 129 Stat. 1766.)
 
 **Editorial Notes**
 
@@ -2406,11 +2406,11 @@ Section 635a(*l*) of this title, as amended by section 51005, referred to in sub
 
 Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the Export-Import Bank Act of 1945 which comprises this subchapter.
 
-### § 635b. Capitalization of Bank; method of capital stock payments; public-debt transactions; issuance of stock certificates
+### § 635b. Capitalization of Bank; method of capital stock payments; public-debt transactions; issuance of stock certificates
 
 The Export-Import Bank of the United States shall have a capital stock of $1,000,000,000 subscribed by the United States. Certificates evidencing stock ownership of the United States shall be issued by the Bank to the President of the United States, or to such other person or persons as the President may designate from time to time, to the extent of payments made for the capital stock of the Bank.
 
-(July 31, 1945, ch. 341, § 4, 59 Stat. 528; Pub. L. 90–267, § 1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 98–181, title I [title VI, § 620(c)], Nov. 30, 1983, 97 Stat. 1261; Pub. L. 102–429, title I, § 121(b), Oct. 21, 1992, 106 Stat. 2198.)
+(July 31, 1945, ch. 341, § 4, 59 Stat. 528; Pub. L. 90–267, § 1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 98–181, title I [title VI, § 620(c)], Nov. 30, 1983, 97 Stat. 1261; Pub. L. 102–429, title I, § 121(b), Oct. 21, 1992, 106 Stat. 2198.)
 
 **Editorial Notes**
 
@@ -2422,25 +2422,25 @@ The Export-Import Bank of the United States shall have a capital stock of $1,000
 
 1968—Pub. L. 90–267 changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
 
-### § 635c. Repealed. Pub. L. 102–429, title I, § 121(c)(1), Oct. 21, 1992, 106 Stat. 2199
+### § 635c. Repealed. Pub. L. 102–429, title I, § 121(c)(1), Oct. 21, 1992, 106 Stat. 2199
 
-Section, act July 31, 1945, ch. 341, § 5, 59 Stat. 528, related to reimbursement of Reconstruction Finance Corporation for cancellation of Bank stock, public debt transactions, and payment of accumulated dividends.
+Section, act July 31, 1945, ch. 341, § 5, 59 Stat. 528, related to reimbursement of Reconstruction Finance Corporation for cancellation of Bank stock, public debt transactions, and payment of accumulated dividends.
 
-### § 635d. Issuance of debentures, bonds, etc.; obligations redeemable; payment of interest; obligations purchasable by Secretary of the Treasury; public-debt transactions
+### § 635d. Issuance of debentures, bonds, etc.; obligations redeemable; payment of interest; obligations purchasable by Secretary of the Treasury; public-debt transactions
 
 The Export-Import Bank of the United States is authorized to issue from time to time for purchase by the Secretary of the Treasury its notes, debentures, bonds, or other obligations; but the aggregate amount of such obligations outstanding at any one time shall not exceed $6,000,000,000. Such obligations shall be redeemable at the option of the bank before maturity in such manner as may be stipulated in such obligations and shall have such maturity as may be determined by the Board of Directors of the bank with the approval of the Secretary of the Treasury. Each such Bank obligation issued to the Treasury after January 4, 1975, shall bear interest at a rate not less than the current average yield on outstanding marketable obligations of the United States of comparable maturity during the month preceding the issuance of the obligation of the Bank as determined by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any obligations of the Bank issued hereunder and for such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of any securities issued after July 31, 1945, under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include such purpose. Payment under this section of the purchase price of such obligations of the Bank and repayments thereof by the Bank shall be treated as public-debt transactions of the United States.
 
-(July 31, 1945, ch. 341, § 5, formerly § 6, 59 Stat. 528; June 9, 1947, ch. 101, § 2, 61 Stat. 131; Oct. 3, 1951, ch. 445, § 1(a), 65 Stat. 367; Aug. 9, 1954, ch. 660, § 3(a), 68 Stat. 678; Pub. L. 85–424, § 1(1), May 22, 1958, 72 Stat. 133; Pub. L. 90–267, § 1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, § 7, Jan. 4, 1975, 88 Stat. 2336; renumbered § 5, Pub. L. 102–429, title I, § 121(c)(2), Oct. 21, 1992, 106 Stat. 2199.)
+(July 31, 1945, ch. 341, § 5, formerly § 6, 59 Stat. 528; June 9, 1947, ch. 101, § 2, 61 Stat. 131; Oct. 3, 1951, ch. 445, § 1(a), 65 Stat. 367; Aug. 9, 1954, ch. 660, § 3(a), 68 Stat. 678; Pub. L. 85–424, § 1(1), May 22, 1958, 72 Stat. 133; Pub. L. 90–267, § 1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, § 7, Jan. 4, 1975, 88 Stat. 2336; renumbered § 5, Pub. L. 102–429, title I, § 121(c)(2), Oct. 21, 1992, 106 Stat. 2199.)
 
 **Editorial Notes**
 
 **Codification**
 
-“Chapter 31 of title 31” and “that chapter” substituted in text for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+“Chapter 31 of title 31” and “that chapter” substituted in text for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Prior Provisions**
 
-A prior section 5 of act July 31, 1945, ch. 341, was classified to section 635c of this title, prior to repeal by Pub. L. 102–429, § 121(c)(1).
+A prior section 5 of act July 31, 1945, ch. 341, was classified to section 635c of this title, prior to repeal by Pub. L. 102–429, § 121(c)(1).
 
 **Amendments**
 
@@ -2466,7 +2466,7 @@ For effective date of amendment by act Aug. 9, 1954, see note set out under sect
 
 A Board of Directors reestablished for the Export-Import Bank of Washington, see note under section 635 of this title.
 
-### § 635e. Aggregate loan, guarantee, and insurance authority
+### § 635e. Aggregate loan, guarantee, and insurance authority
 
 **(a) Limitation on outstanding amounts**
 
@@ -2510,7 +2510,7 @@ If the President of the United States finds that the amount of direct loan autho
 
 The Bank shall continue to make remaining amounts of its authority available for the fiscal year involved, in accordance with its practices and the requirements of this subchapter, unless otherwise directed pursuant to law.
 
-(July 31, 1945, ch. 341, § 6, formerly § 7, 59 Stat. 529; Oct. 3, 1951, ch. 445, § 1(b), 65 Stat. 367; May 21, 1953, ch. 64, § 2, 67 Stat. 28; Aug. 9, 1954, ch. 660, § 3(b), 68 Stat. 678; Pub. L. 85–424, § 1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, § 1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, § 1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, § 1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, § 8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§ 1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, § 381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title I [title VI, §§ 615, 620(d)], Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§ 13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, § 121(1), Oct. 28, 1991, as added Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 95; renumbered § 6 and amended Pub. L. 102–429, title I, §§ 109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, § 1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, § 5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, § 9, Dec. 20, 2006, 120 Stat. 3275; Pub. L. 112–122, § 3, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LI, §§ 51001, 51002(a), Dec. 4, 2015, 129 Stat. 1763; Pub. L. 116–94, div. I, title IV, § 401(b), Dec. 20, 2019, 133 Stat. 3021.)
+(July 31, 1945, ch. 341, § 6, formerly § 7, 59 Stat. 529; Oct. 3, 1951, ch. 445, § 1(b), 65 Stat. 367; May 21, 1953, ch. 64, § 2, 67 Stat. 28; Aug. 9, 1954, ch. 660, § 3(b), 68 Stat. 678; Pub. L. 85–424, § 1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, § 1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, § 1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, § 1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, § 8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§ 1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, § 381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title I [title VI, §§ 615, 620(d)], Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§ 13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, § 121(1), Oct. 28, 1991, as added Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 95; renumbered § 6 and amended Pub. L. 102–429, title I, §§ 109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, § 1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, § 5, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, § 9, Dec. 20, 2006, 120 Stat. 3275; Pub. L. 112–122, § 3, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LI, §§ 51001, 51002(a), Dec. 4, 2015, 129 Stat. 1763; Pub. L. 116–94, div. I, title IV, § 401(b), Dec. 20, 2019, 133 Stat. 3021.)
 
 **Editorial Notes**
 
@@ -2522,9 +2522,9 @@ A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is
 
 2019—Subsec. (a)(2). Pub. L. 116–94 substituted “for each of fiscal years 2020 through 2027” for “for each of fiscal years 2015 through 2019”.
 
-2015—Subsec. (a)(2) to (4). Pub. L. 114–94, § 51001, added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which defined the term “applicable amount”.
+2015—Subsec. (a)(2) to (4). Pub. L. 114–94, § 51001, added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which defined the term “applicable amount”.
 
-Subsecs. (b), (c). Pub. L. 114–94, § 51002(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+Subsecs. (b), (c). Pub. L. 114–94, § 51002(a), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 2012—Subsec. (a)(2)(F). Pub. L. 112–122 added subpar. (F).
 
@@ -2534,25 +2534,25 @@ Subsecs. (b), (c). Pub. L. 114–94, § 51002(a), added subsec. (b) and redesi
 
 2000—Subsec. (b)(2), (3). Pub. L. 106–569 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “Not later than April 15 of each year, the President of the United States shall transmit to the Congress a report on such determination.”
 
-1992—Pub. L. 102–429, § 109(b), inserted section catchline, redesignated former subsec. (a)(1) as subsec. (a), inserted subsec. heading, substituted “$75,000,000,000” for “$40,000,000,000”, redesignated former subsec. (a)(2) as subsec. (b), redesignated former subpar. (A)(i) as par. (1), former subcls. (I) to (III) as subpars. (A) to (C), respectively, former subpar. (A)(ii) as par. (2), former subpar. (B) as par. (3), and former cls. (i) and (ii) as subpars. (A) and (B), respectively, inserted headings for subsec. (b), pars. (1) to (3), and subpars. (A) and (B) of par. (3), and struck out former subsec. (a)(3) which read as follows: “Authorization of Appropriation.—There are authorized to be appropriated $145,259,000 for fiscal year 1987 to cover the subsidy cost of new direct loans obligated by the Bank in that fiscal year. Any amounts appropriated under this paragraph shall be permanent additions to the capital and reserves of the Bank.”
+1992—Pub. L. 102–429, § 109(b), inserted section catchline, redesignated former subsec. (a)(1) as subsec. (a), inserted subsec. heading, substituted “$75,000,000,000” for “$40,000,000,000”, redesignated former subsec. (a)(2) as subsec. (b), redesignated former subpar. (A)(i) as par. (1), former subcls. (I) to (III) as subpars. (A) to (C), respectively, former subpar. (A)(ii) as par. (2), former subpar. (B) as par. (3), and former cls. (i) and (ii) as subpars. (A) and (B), respectively, inserted headings for subsec. (b), pars. (1) to (3), and subpars. (A) and (B) of par. (3), and struck out former subsec. (a)(3) which read as follows: “Authorization of Appropriation.—There are authorized to be appropriated $145,259,000 for fiscal year 1987 to cover the subsidy cost of new direct loans obligated by the Bank in that fiscal year. Any amounts appropriated under this paragraph shall be permanent additions to the capital and reserves of the Bank.”
 
-1991—Subsec. (b). Pub. L. 102–145, § 121(1), as added by Pub. L. 102–266, struck out subsec. (b) which read as follows: “After January 4, 1975, the Bank shall not approve any loans or financial guarantees, or combination thereof, in connection with exports to the Union of Soviet Socialist Republics in an aggregate amount in excess of $300,000,000. No such loan or financial guarantee, or combination thereof, shall be for the purchase, lease, or procurement of any product or service for production (including processing and distribution) of fossil fuel energy resources. Not more than $40,000,000 of such aggregate amount shall be for the purchase, lease, or procurement of any product or service which involves research or exploration of fossil fuel energy resources. The President may establish a limitation in excess of $300,000,000 if the President determines that such higher limitation is in the national interest and if the President reports such determination to the Congress together with the reasons therefor, including the amount of such proposed increase which would be available for the export of products and services for research, exploration, and production (including processing and distribution) of fossil fuel energy resources in the Union of Soviet Socialist Republics, and if, after the receipt of such report together with the reasons, the Congress adopts a concurrent resolution approving such determination.”
+1991—Subsec. (b). Pub. L. 102–145, § 121(1), as added by Pub. L. 102–266, struck out subsec. (b) which read as follows: “After January 4, 1975, the Bank shall not approve any loans or financial guarantees, or combination thereof, in connection with exports to the Union of Soviet Socialist Republics in an aggregate amount in excess of $300,000,000. No such loan or financial guarantee, or combination thereof, shall be for the purchase, lease, or procurement of any product or service for production (including processing and distribution) of fossil fuel energy resources. Not more than $40,000,000 of such aggregate amount shall be for the purchase, lease, or procurement of any product or service which involves research or exploration of fossil fuel energy resources. The President may establish a limitation in excess of $300,000,000 if the President determines that such higher limitation is in the national interest and if the President reports such determination to the Congress together with the reasons therefor, including the amount of such proposed increase which would be available for the export of products and services for research, exploration, and production (including processing and distribution) of fossil fuel energy resources in the Union of Soviet Socialist Republics, and if, after the receipt of such report together with the reasons, the Congress adopts a concurrent resolution approving such determination.”
 
-1986—Subsec. (a)(1). Pub. L. 99–472, § 17, substituted “All spending and credit authority” for “All spending authority”.
+1986—Subsec. (a)(1). Pub. L. 99–472, § 17, substituted “All spending and credit authority” for “All spending authority”.
 
-Subsec. (a)(3). Pub. L. 99–472, § 13, added par. (3).
+Subsec. (a)(3). Pub. L. 99–472, § 13, added par. (3).
 
-1983—Subsec. (a)(2). Pub. L. 98–181, § 615, amended par. (2) generally, substituting provisions requiring a Presidential determination, not later than March 31 of each fiscal year, as to whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank’s needs, requiring the President to transmit to Congress a report on such determination no later than April 15 of each year, and establishing procedures if the direct loan or guarantee authority available exceeds the amount necessary, for provision limiting gross obligations for the principal amount of direct loans authorized by the Bank during fiscal years 1982 and 1983 to $10,478,000,000, and designating specified amounts thereof for each fiscal year.
+1983—Subsec. (a)(2). Pub. L. 98–181, § 615, amended par. (2) generally, substituting provisions requiring a Presidential determination, not later than March 31 of each fiscal year, as to whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank’s needs, requiring the President to transmit to Congress a report on such determination no later than April 15 of each year, and establishing procedures if the direct loan or guarantee authority available exceeds the amount necessary, for provision limiting gross obligations for the principal amount of direct loans authorized by the Bank during fiscal years 1982 and 1983 to $10,478,000,000, and designating specified amounts thereof for each fiscal year.
 
-Subsec. (b). Pub. L. 98–181, § 620(d), substituted “the President” for “he” before “determines that such higher limitation” and “reports such determination”.
+Subsec. (b). Pub. L. 98–181, § 620(d), substituted “the President” for “he” before “determines that such higher limitation” and “reports such determination”.
 
 1981—Subsec. (a). Pub. L. 97–35 designated existing provisions as par. (1) and added par. (2).
 
 1978—Subsec. (a). Pub. L. 95–630 substituted “$40,000,000,000” for “$25,000,000,000” and inserted provision that all spending authority provided under this chapter be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-1975—Subsec. (a). Pub. L. 93–646, § 8(1), (2), designated existing provisions as subsec. (a) and substituted “$25,000,000,000” for “$20,000,000,000”.
+1975—Subsec. (a). Pub. L. 93–646, § 8(1), (2), designated existing provisions as subsec. (a) and substituted “$25,000,000,000” for “$20,000,000,000”.
 
-Subsec. (b). Pub. L. 93–646, § 8(3), added subsec. (b).
+Subsec. (b). Pub. L. 93–646, § 8(3), added subsec. (b).
 
 1971—Pub. L. 92–126 substituted “$20,000,000,000” for “$13,500,000,000”.
 
@@ -2572,7 +2572,7 @@ Subsec. (b). Pub. L. 93–646, § 8(3), added subsec. (b).
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–94, div. E, title LI, § 51002(b), Dec. 4, 2015, 129 Stat. 1763, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 4, 2015].”
+Pub. L. 114–94, div. E, title LI, § 51002(b), Dec. 4, 2015, 129 Stat. 1763, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 4, 2015].”
 
 **Effective Date of 1978 Amendment**
 
@@ -2582,11 +2582,11 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. 
 
 For effective date of amendment by act Aug. 9, 1954, see note set out under section 635a of this title.
 
-### § 635f. Termination date of Bank’s functions; exceptions; liquidation
+### § 635f. Termination date of Bank’s functions; exceptions; liquidation
 
 Export-Import Bank of the United States shall continue to exercise its functions in connection with and in furtherance of its objects and purposes until the close of business on December 31, 2026, but the provisions of this section shall not be construed as preventing the bank from acquiring obligations prior to such date which mature subsequent to such date or from assuming prior to such date liability as guarantor, endorser, or acceptor of obligations which mature subsequent to such date or from issuing, either prior or subsequent to such date, for purchase by the Secretary of the Treasury or any other purchasers, its notes, debentures, bonds, or other obligations which mature subsequent to such date or from continuing as a corporate agency of the United States and exercising any of its functions subsequent to such date for purposes of orderly liquidation, including the administration of its assets and the collection of any obligations held by the bank.
 
-(July 31, 1945, ch. 341, § 7, formerly § 8, 59 Stat. 529; June 9, 1947, ch. 101, § 3, 61 Stat. 131; Oct. 3, 1951, ch. 445, § 1(c), 65 Stat. 367; Pub. L. 85–55, June 17, 1957, 71 Stat. 82; Pub. L. 88–101, § 2, Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, § 1(a), (f), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, § 1(b)(4), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–331, July 4, 1974, 88 Stat. 289; Pub. L. 93–374, Aug. 14, 1974, 88 Stat. 445; Pub. L. 93–425, Sept. 30, 1974, 88 Stat. 1166; Pub. L. 93–450, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 93–646, § 9, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–143, § 4, Oct. 26, 1977, 91 Stat. 1211; Pub. L. 95–407, Sept. 30, 1978, 92 Stat. 882; Pub. L. 95–630, title XIX, § 1906, Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–109, § 6, Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–143, Nov. 1, 1983, 97 Stat. 916; Pub. L. 98–181, title I [title VI, § 611], Nov. 30, 1983, 97 Stat. 1254; Pub. L. 99–472, § 14, Oct. 15, 1986, 100 Stat. 1204; renumbered § 7 and amended Pub. L. 102–429, title I, §§ 102, 121(c)(2), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 105–46, § 122, Sept. 30, 1997, 111 Stat. 1158; Pub. L. 105–121, § 2(a), Nov. 26, 1997, 111 Stat. 2528; Pub. L. 107–189, § 3, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, § 2, Dec. 20, 2006, 120 Stat. 3268; Pub. L. 112–122, § 2, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LIV, § 54001(a), Dec. 4, 2015, 129 Stat. 1768; Pub. L. 116–94, div. I, title IV, § 401(a), Dec. 20, 2019, 133 Stat. 3021.)
+(July 31, 1945, ch. 341, § 7, formerly § 8, 59 Stat. 529; June 9, 1947, ch. 101, § 3, 61 Stat. 131; Oct. 3, 1951, ch. 445, § 1(c), 65 Stat. 367; Pub. L. 85–55, June 17, 1957, 71 Stat. 82; Pub. L. 88–101, § 2, Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, § 1(a), (f), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, § 1(b)(4), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–331, July 4, 1974, 88 Stat. 289; Pub. L. 93–374, Aug. 14, 1974, 88 Stat. 445; Pub. L. 93–425, Sept. 30, 1974, 88 Stat. 1166; Pub. L. 93–450, Oct. 18, 1974, 88 Stat. 1368; Pub. L. 93–646, § 9, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–143, § 4, Oct. 26, 1977, 91 Stat. 1211; Pub. L. 95–407, Sept. 30, 1978, 92 Stat. 882; Pub. L. 95–630, title XIX, § 1906, Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–109, § 6, Oct. 1, 1983, 97 Stat. 746; Pub. L. 98–143, Nov. 1, 1983, 97 Stat. 916; Pub. L. 98–181, title I [title VI, § 611], Nov. 30, 1983, 97 Stat. 1254; Pub. L. 99–472, § 14, Oct. 15, 1986, 100 Stat. 1204; renumbered § 7 and amended Pub. L. 102–429, title I, §§ 102, 121(c)(2), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 105–46, § 122, Sept. 30, 1997, 111 Stat. 1158; Pub. L. 105–121, § 2(a), Nov. 26, 1997, 111 Stat. 2528; Pub. L. 107–189, § 3, June 14, 2002, 116 Stat. 699; Pub. L. 109–438, § 2, Dec. 20, 2006, 120 Stat. 3268; Pub. L. 112–122, § 2, May 30, 2012, 126 Stat. 350; Pub. L. 114–94, div. E, title LIV, § 54001(a), Dec. 4, 2015, 129 Stat. 1768; Pub. L. 116–94, div. I, title IV, § 401(a), Dec. 20, 2019, 133 Stat. 3021.)
 
 **Editorial Notes**
 
@@ -2610,7 +2610,7 @@ A prior section 7 of act July 31, 1945, ch. 341, was renumbered section 6 and is
 
 Pub. L. 105–46 substituted “October 23, 1997” for “1997”.
 
-1992—Pub. L. 102–429, § 102, substituted “1997” for “1992”.
+1992—Pub. L. 102–429, § 102, substituted “1997” for “1992”.
 
 1986—Pub. L. 99–472 substituted “September 30, 1992” for “September 30, 1986”.
 
@@ -2656,7 +2656,7 @@ Amendment by Pub. L. 114–94 effective on June 30, 2015, see section 54001(d) o
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–121, § 2(b), Nov. 26, 1997, 111 Stat. 2528, provided that: “The amendment made by this section [amending this section] shall take effect on September 30, 1997.”
+Pub. L. 105–121, § 2(b), Nov. 26, 1997, 111 Stat. 2528, provided that: “The amendment made by this section [amending this section] shall take effect on September 30, 1997.”
 
 **Effective Date of 1978 Amendment**
 
@@ -2668,17 +2668,17 @@ Provisions extending the date that the Export-Import Bank of the United States c
 
 Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191, extending the date to May 31, 2012.
 
-Pub. L. 107–186, § 1, May 30, 2002, 116 Stat. 589, extending the date to June 14, 2002.
+Pub. L. 107–186, § 1, May 30, 2002, 116 Stat. 589, extending the date to June 14, 2002.
 
-Pub. L. 107–168, § 1, May 1, 2002, 116 Stat. 131, extending the date to May 31, 2002.
+Pub. L. 107–168, § 1, May 1, 2002, 116 Stat. 131, extending the date to May 31, 2002.
 
-Pub. L. 107–156, § 1, Mar. 31, 2002, 116 Stat. 117, extending the date to Apr. 30, 2002.
+Pub. L. 107–156, § 1, Mar. 31, 2002, 116 Stat. 117, extending the date to Apr. 30, 2002.
 
-Pub. L. 107–115, title V, § 588, Jan. 10, 2002, 115 Stat. 2174, extending the date to Mar. 31, 2002.
+Pub. L. 107–115, title V, § 588, Jan. 10, 2002, 115 Stat. 2174, extending the date to Mar. 31, 2002.
 
-Pub. L. 107–44, § 115, as added by Pub. L. 107–48, Oct. 12, 2001, 115 Stat. 261, extending the date to Jan. 10, 2002.
+Pub. L. 107–44, § 115, as added by Pub. L. 107–48, Oct. 12, 2001, 115 Stat. 261, extending the date to Jan. 10, 2002.
 
-Pub. L. 107–44, § 115, Sept. 28, 2001, 115 Stat. 256, extending the date to Oct. 16, 2001, prior to repeal by Pub. L. 107–48, Oct. 12, 2001, 115 Stat. 261.
+Pub. L. 107–44, § 115, Sept. 28, 2001, 115 Stat. 256, extending the date to Oct. 16, 2001, prior to repeal by Pub. L. 107–48, Oct. 12, 2001, 115 Stat. 261.
 
 Termination date for Bank’s functions was temporarily extended until the following dates by the acts listed below:
 
@@ -2694,9 +2694,9 @@ Until Nov. 26, 1997, by Pub. L. 105–84, Nov. 14, 1997, 111 Stat. 1628.
 
 **Financial Assistance to the Union of Soviet Socialist Republics**
 
-Pub. L. 93–450, § 1, Oct. 18, 1974, 88 Stat. 1368, provided in part that the Bank shall not authorize any financial assistance to the Union of Soviet Socialist Republics during the life of Pub. L. 93–450, which extended the termination date from Oct. 15, 1974, to Nov. 30, 1974.
+Pub. L. 93–450, § 1, Oct. 18, 1974, 88 Stat. 1368, provided in part that the Bank shall not authorize any financial assistance to the Union of Soviet Socialist Republics during the life of Pub. L. 93–450, which extended the termination date from Oct. 15, 1974, to Nov. 30, 1974.
 
-### § 635g. Report to Congress; time for submission; contents
+### § 635g. Report to Congress; time for submission; contents
 
 **(a) Annual submission of report**
 
@@ -2834,7 +2834,7 @@ The Bank shall include in its annual report to Congress under subsection (a) a r
 
 The Bank shall include in its annual report to Congress under subsection (a) a narrative and financial summary of the authorizations made under the Program on China and Transformational Exports.
 
-(July 31, 1945, ch. 341, § 8, formerly § 9, 59 Stat. 529; Pub. L. 90–267, § 1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, § 10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, § 1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title I [title VI, §§ 618(b), 623], Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, § 20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered § 8, Pub. L. 102–429, title I, § 121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, § 1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, § 12, June 14, 2002, 116 Stat. 704; Pub. L. 109–438, § 20, Dec. 20, 2006, 120 Stat. 3282; Pub. L. 112–122, §§ 6, 10, 20(b)(2), 21(c), May 30, 2012, 126 Stat. 353, 356, 362, 363; Pub. L. 114–94, div. E, title LII, § 52002(a), Dec. 4, 2015, 129 Stat. 1767; Pub. L. 116–94, div. I, title IV, § 402(b), Dec. 20, 2019, 133 Stat. 3023.)
+(July 31, 1945, ch. 341, § 8, formerly § 9, 59 Stat. 529; Pub. L. 90–267, § 1(a), Mar. 13, 1968, 82 Stat. 47; Pub. L. 93–646, § 10, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, § 1907(b), Nov. 10, 1978, 92 Stat. 3725; Pub. L. 98–181, title I [title VI, §§ 618(b), 623], Nov. 30, 1983, 97 Stat. 1259, 1262; Pub. L. 99–472, § 20(b), (c), Oct. 15, 1986, 100 Stat. 1209, 1210; renumbered § 8, Pub. L. 102–429, title I, § 121(c)(2), Oct. 21, 1992, 106 Stat. 2199; Pub. L. 106–569, title XI, § 1104(a)(4), Dec. 27, 2000, 114 Stat. 3032; Pub. L. 107–189, § 12, June 14, 2002, 116 Stat. 704; Pub. L. 109–438, § 20, Dec. 20, 2006, 120 Stat. 3282; Pub. L. 112–122, §§ 6, 10, 20(b)(2), 21(c), May 30, 2012, 126 Stat. 353, 356, 362, 363; Pub. L. 114–94, div. E, title LII, § 52002(a), Dec. 4, 2015, 129 Stat. 1767; Pub. L. 116–94, div. I, title IV, § 402(b), Dec. 20, 2019, 133 Stat. 3023.)
 
 **Editorial Notes**
 
@@ -2848,13 +2848,13 @@ A prior section 8 of act July 31, 1945, ch. 341, was renumbered section 7 and is
 
 2015—Subsec. (k). Pub. L. 114–94 added subsec. (k).
 
-2012—Subsec. (g). Pub. L. 112–122, § 6, added subsec. (g).
+2012—Subsec. (g). Pub. L. 112–122, § 6, added subsec. (g).
 
-Subsec. (h). Pub. L. 112–122, § 10, added subsec. (h).
+Subsec. (h). Pub. L. 112–122, § 10, added subsec. (h).
 
-Subsec. (i). Pub. L. 112–122, § 20(b)(2), added subsec. (i).
+Subsec. (i). Pub. L. 112–122, § 20(b)(2), added subsec. (i).
 
-Subsec. (j). Pub. L. 112–122, § 21(c), added subsec. (j).
+Subsec. (j). Pub. L. 112–122, § 21(c), added subsec. (j).
 
 2006—Subsec. (f). Pub. L. 109–438 added subsec. (f).
 
@@ -2870,11 +2870,11 @@ Subsec. (e). Pub. L. 106–569, which directed redesignation of subsec. (e) as (
 
 1986—Subsec. (e). Pub. L. 99–472 temporarily added subsec. (e). See Termination Date of 1986 Amendment note below.
 
-1983—Subsec. (b). Pub. L. 98–181, § 618(b)(1), inserted “and of the activities of the member of the Board appointed to represent the interests of small business”.
+1983—Subsec. (b). Pub. L. 98–181, § 618(b)(1), inserted “and of the activities of the member of the Board appointed to represent the interests of small business”.
 
-Subsec. (c). Pub. L. 98–181, § 618(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 98–181, § 618(b)(2), added subsec. (c).
 
-Subsec. (d). Pub. L. 98–181, § 623, added subsec. (d).
+Subsec. (d). Pub. L. 98–181, § 623, added subsec. (d).
 
 1978—Subsec. (b). Pub. L. 95–630 inserted provision that in addition, the Bank include in the report a description of specific activities and programs undertaken by it to achieve the policy of section 3261 of title 22, and section 2151q of title 22, as required by section 635(b)(1)(C) of this title.
 
@@ -2890,11 +2890,11 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 **Effective Date of 2015 Amendment**
 
-Pub. L. 114–94, div. E, title LII, § 52002(b), Dec. 4, 2015, 129 Stat. 1767, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the report of the Export-Import Bank of the United States submitted to Congress under section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g) for the first year that begins after the date of the enactment of this Act [Dec. 4, 2015].”
+Pub. L. 114–94, div. E, title LII, § 52002(b), Dec. 4, 2015, 129 Stat. 1767, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the report of the Export-Import Bank of the United States submitted to Congress under section 8 of the Export-Import Bank Act of 1945 (12 U.S.C. 635g) for the first year that begins after the date of the enactment of this Act [Dec. 4, 2015].”
 
 **Termination Date of 1986 Amendment**
 
-Pub. L. 99–472, § 20(c), Oct. 15, 1986, 100 Stat. 1210, provided that: “Effective March 2, 1988, the amendment made by subsection (b) [amending this section] is repealed.”
+Pub. L. 99–472, § 20(c), Oct. 15, 1986, 100 Stat. 1210, provided that: “Effective March 2, 1988, the amendment made by subsection (b) [amending this section] is repealed.”
 
 **Effective Date of 1978 Amendment**
 
@@ -2902,11 +2902,11 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. 
 
 **Reports**
 
-Pub. L. 107–189, § 8(c), June 14, 2002, 116 Stat. 701, provided that: “The Export-Import Bank of the United States shall include in the annual report required by section 8(a) of the Export-Import Bank Act of 1945 [12 U.S.C. 635g(a)] for each of fiscal years 2002 through 2006 a report on the efforts made by the Bank to carry out subparagraphs (E)(x) and (J) of section 2(b)(1) of such Act [12 U.S.C. 635(b)(1)], and on how the efforts are assisting small businesses.”
+Pub. L. 107–189, § 8(c), June 14, 2002, 116 Stat. 701, provided that: “The Export-Import Bank of the United States shall include in the annual report required by section 8(a) of the Export-Import Bank Act of 1945 [12 U.S.C. 635g(a)] for each of fiscal years 2002 through 2006 a report on the efforts made by the Bank to carry out subparagraphs (E)(x) and (J) of section 2(b)(1) of such Act [12 U.S.C. 635(b)(1)], and on how the efforts are assisting small businesses.”
 
 **Financing for Renewable Energy Projects**
 
-Pub. L. 101–167, title V, § 534(d), Nov. 21, 1989, 103 Stat. 1231, provided that:
+Pub. L. 101–167, title V, § 534(d), Nov. 21, 1989, 103 Stat. 1231, provided that:
 
 > **“(1)** Of the financing provided by the Export-Import Bank that is utilized for the support of exports for the energy sector, the Bank shall seek to provide not less than 5 per centum of such financing for renewable energy projects.
 
@@ -2916,9 +2916,9 @@ Pub. L. 101–167, title V, § 534(d), Nov. 21, 1989, 103 Stat. 1231, provided
 
 **Modification of Reporting Requirements**
 
-Pub. L. 89–348, § 2(9), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of this section as follows: “From semiannual to annual submission to the Congress by the Export-Import Bank of Washington of a report concerning its operations under the Export-Import Bank Act of 1945 (59 Stat. 529; 12 U.S.C. 635g).” This section was later amended by Pub. L. 93–646 to require annual instead of semiannual reports.
+Pub. L. 89–348, § 2(9), Nov. 8, 1965, 79 Stat. 1312, modified the reporting requirements of this section as follows: “From semiannual to annual submission to the Congress by the Export-Import Bank of Washington of a report concerning its operations under the Export-Import Bank Act of 1945 (59 Stat. 529; 12 U.S.C. 635g).” This section was later amended by Pub. L. 93–646 to require annual instead of semiannual reports.
 
-### § 635g–1. Annual competitiveness report
+### § 635g–1. Annual competitiveness report
 
 **(a) In general** Not later than June 30 of each year, the Bank shall submit to the appropriate congressional committees a report that includes the following:
 
@@ -2972,13 +2972,13 @@ The report required by subsection (a) shall include such additional comments as 
 
 The term “appropriate congressional committees” means the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
-(July 31, 1945, ch. 341, § 8A, as added Pub. L. 109–438, § 13(a), Dec. 20, 2006, 120 Stat. 3277.)
+(July 31, 1945, ch. 341, § 8A, as added Pub. L. 109–438, § 13(a), Dec. 20, 2006, 120 Stat. 3277.)
 
-### § 635h. Exemption from prohibition of section 955 of title 18
+### § 635h. Exemption from prohibition of section 955 of title 18
 
 Notwithstanding the provisions of section 955 of title 18, any person, including any individual, partnership, corporation, or association, may act for or participate with the Export-Import Bank of the United States in any operation or transaction, or may acquire any obligation issued in connection with any operation or transaction, engaged in by the Bank.
 
-(July 31, 1945, ch. 341, § 9, formerly § 11, 59 Stat. 529; Sept. 3, 1954, ch. 1263, § 29, 68 Stat. 1237; Pub. L. 90–267, § 1(a), Mar. 13, 1968, 82 Stat. 47; renumbered § 9, Pub. L. 102–429, title I, § 121(c)(3), Oct. 21, 1992, 106 Stat. 2199.)
+(July 31, 1945, ch. 341, § 9, formerly § 11, 59 Stat. 529; Sept. 3, 1954, ch. 1263, § 29, 68 Stat. 1237; Pub. L. 90–267, § 1(a), Mar. 13, 1968, 82 Stat. 47; renumbered § 9, Pub. L. 102–429, title I, § 121(c)(3), Oct. 21, 1992, 106 Stat. 2199.)
 
 **Editorial Notes**
 
@@ -2992,15 +2992,15 @@ A prior section 9 of act July 31, 1945, ch. 341, was renumbered section 8 and is
 
 1954—Act Sept. 3, 1954, substituted “section 955 of title 18” for “section 804a of title 31”.
 
-### §§ 635i to 635i–2. Repealed. Pub. L. 102–429, title I, § 121(c)(1), Oct. 21, 1992, 106 Stat. 2199
+### §§ 635i to 635i–2. Repealed. Pub. L. 102–429, title I, § 121(c)(1), Oct. 21, 1992, 106 Stat. 2199
 
-Section 635i, act July 31, 1945, ch. 341, § 12, as added June 9, 1947, ch. 101, § 4, 61 Stat. 131; amended Mar. 13, 1968, Pub. L. 90–267, § 1(a), 82 Stat. 47, related to assumption of rights and liabilities of existing Bank by Export-Import Bank of the United States including transfer of funds, property, personnel, etc.
+Section 635i, act July 31, 1945, ch. 341, § 12, as added June 9, 1947, ch. 101, § 4, 61 Stat. 131; amended Mar. 13, 1968, Pub. L. 90–267, § 1(a), 82 Stat. 47, related to assumption of rights and liabilities of existing Bank by Export-Import Bank of the United States including transfer of funds, property, personnel, etc.
 
-Section 635i–1, act July 31, 1945, ch. 341, § 13, as added Nov. 30, 1983, Pub. L. 98–181, title I [title VI, § 619(a)], 97 Stat. 1260, related to establishment of special facilities in support of export transactions to Brazil and Mexico.
+Section 635i–1, act July 31, 1945, ch. 341, § 13, as added Nov. 30, 1983, Pub. L. 98–181, title I [title VI, § 619(a)], 97 Stat. 1260, related to establishment of special facilities in support of export transactions to Brazil and Mexico.
 
-Section 635i–2, act July 31, 1945, ch. 341, § 14, as added Nov. 30, 1983, Pub. L. 98–181, title I [title VI, § 621], 97 Stat. 1261, related to notification to Congress of decrease in capital level of Bank.
+Section 635i–2, act July 31, 1945, ch. 341, § 14, as added Nov. 30, 1983, Pub. L. 98–181, title I [title VI, § 621], 97 Stat. 1261, related to notification to Congress of decrease in capital level of Bank.
 
-### § 635i–3. Tied Aid Credit Fund and program
+### § 635i–3. Tied Aid Credit Fund and program
 
 **(a) Findings** The Congress finds that—
 
@@ -3220,7 +3220,7 @@ The term “parallel financing” means financing provided by any combination of
 
 The Bank, in consultation with the Secretary of the Treasury, shall define “market window” for purposes of this section.
 
-(July 31, 1945, ch. 341, § 10, formerly § 15, as added Pub. L. 99–472, § 19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, § 3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, § 101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, § 562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered § 10 and amended Pub. L. 102–429, title I, §§ 103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, § 1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, § 579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, § 3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, § 1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§ 9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708; Pub. L. 109–438, § 10, Dec. 20, 2006, 120 Stat. 3275.)
+(July 31, 1945, ch. 341, § 10, formerly § 15, as added Pub. L. 99–472, § 19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, § 3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, § 101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, § 562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered § 10 and amended Pub. L. 102–429, title I, §§ 103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, § 1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, § 579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, § 3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, § 1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§ 9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708; Pub. L. 109–438, § 10, Dec. 20, 2006, 120 Stat. 3275.)
 
 **Editorial Notes**
 
@@ -3230,67 +3230,67 @@ A prior section 10 of act July 31, 1945, ch. 341, repealed section 713b of Title
 
 **Amendments**
 
-2006—Subsec. (a)(6). Pub. L. 109–438, § 10(b)(1)(A), inserted “, including those that are not a party to the Arrangement,” after “countries” in introductory provisions.
+2006—Subsec. (a)(6). Pub. L. 109–438, § 10(b)(1)(A), inserted “, including those that are not a party to the Arrangement,” after “countries” in introductory provisions.
 
-Subsec. (a)(6)(C). Pub. L. 109–438, § 10(b)(1)(B), (C), added subpar. (C).
+Subsec. (a)(6)(C). Pub. L. 109–438, § 10(b)(1)(B), (C), added subpar. (C).
 
-Subsec. (b)(5)(B)(i)(I). Pub. L. 109–438, § 10(b)(2)(A)(i), struck out “and” after “multilateral rules,” and inserted “, and to seek compliance by those countries that are not a party to the Arrangement” before period.
+Subsec. (b)(5)(B)(i)(I). Pub. L. 109–438, § 10(b)(2)(A)(i), struck out “and” after “multilateral rules,” and inserted “, and to seek compliance by those countries that are not a party to the Arrangement” before period.
 
-Subsec. (b)(5)(B)(i)(III). Pub. L. 109–438, § 10(b)(2)(A)(ii), inserted at end “In cases where information about a specific offer of foreign tied aid (or untied aid used to promote exports as if it were tied aid) is not available in a timely manner, or is unavailable because the foreign export credit agency involved is not subject to the reporting requirements under the Arrangement, then the Bank may decide to use the Tied Aid Credit Fund based on credible evidence of a history of such offers under similar circumstances or other forms of credible evidence.”
+Subsec. (b)(5)(B)(i)(III). Pub. L. 109–438, § 10(b)(2)(A)(ii), inserted at end “In cases where information about a specific offer of foreign tied aid (or untied aid used to promote exports as if it were tied aid) is not available in a timely manner, or is unavailable because the foreign export credit agency involved is not subject to the reporting requirements under the Arrangement, then the Bank may decide to use the Tied Aid Credit Fund based on credible evidence of a history of such offers under similar circumstances or other forms of credible evidence.”
 
-Subsec. (b)(5)(B)(ii). Pub. L. 109–438, § 10(a), amended cl. (ii) heading and text generally. Prior to amendment, text read as follows: “Once the principles, process and standards referred to in subparagraph (A) are followed, the final case-by-case decisions on the use of the Tied Aid Credit Fund shall be made by the Bank: *Provided however*, That the Bank shall not approve the extension of a proposed tied aid credit if the President of the United States determines, after consulting with the President of the Bank and the Secretary of the Treasury, that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6) of this section.”
+Subsec. (b)(5)(B)(ii). Pub. L. 109–438, § 10(a), amended cl. (ii) heading and text generally. Prior to amendment, text read as follows: “Once the principles, process and standards referred to in subparagraph (A) are followed, the final case-by-case decisions on the use of the Tied Aid Credit Fund shall be made by the Bank: *Provided however*, That the Bank shall not approve the extension of a proposed tied aid credit if the President of the United States determines, after consulting with the President of the Bank and the Secretary of the Treasury, that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6) of this section.”
 
-2002—Subsec. (a)(4). Pub. L. 107–189, § 10(c)(1), struck out “and” at end.
+2002—Subsec. (a)(4). Pub. L. 107–189, § 10(c)(1), struck out “and” at end.
 
-Subsec. (a)(5). Pub. L. 107–189, § 10(c)(3), added par. (5). Former par. (5) redesignated (6).
+Subsec. (a)(5). Pub. L. 107–189, § 10(c)(3), added par. (5). Former par. (5) redesignated (6).
 
-Pub. L. 107–189, § 10(c)(2), inserted “, or untied aid used to promote exports as if it were tied aid,” before “for commercial” in introductory provisions and in subpar. (B).
+Pub. L. 107–189, § 10(c)(2), inserted “, or untied aid used to promote exports as if it were tied aid,” before “for commercial” in introductory provisions and in subpar. (B).
 
-Subsec. (a)(6). Pub. L. 107–189, § 10(c)(3), redesignated par. (5) as (6).
+Subsec. (a)(6). Pub. L. 107–189, § 10(c)(3), redesignated par. (5) as (6).
 
-Subsec. (b)(2)(A). Pub. L. 107–189, § 9(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “in consultation with the Secretary and in accordance with the Secretary’s recommendations on how such credits could be used most effectively and efficiently to carry out the purposes described in subsection (a)(5) of this section;”.
+Subsec. (b)(2)(A). Pub. L. 107–189, § 9(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “in consultation with the Secretary and in accordance with the Secretary’s recommendations on how such credits could be used most effectively and efficiently to carry out the purposes described in subsection (a)(5) of this section;”.
 
-Subsec. (b)(5). Pub. L. 107–189, § 9(a)(2), added par. (5).
+Subsec. (b)(5). Pub. L. 107–189, § 9(a)(2), added par. (5).
 
-Subsec. (b)(6). Pub. L. 107–189, § 9(b), added par. (6).
+Subsec. (b)(6). Pub. L. 107–189, § 9(b), added par. (6).
 
-Subsec. (g)(1). Pub. L. 107–189, § 24(a)(2)(E), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
+Subsec. (g)(1). Pub. L. 107–189, § 24(a)(2)(E), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
 
-Subsec. (h)(7). Pub. L. 107–189, § 10(d), added par. (7).
+Subsec. (h)(7). Pub. L. 107–189, § 10(d), added par. (7).
 
 2000—Subsec. (g)(1). Pub. L. 106–569 substituted “The Bank” for “On or before October 15, 1992, and every 6 months thereafter, the Bank” and “submit an annual report” for “submit a report”.
 
-1997—Subsec. (c)(2). Pub. L. 105–121, § 3(a), struck out “through September 30, 1997” after “authorized by the Bank”.
+1997—Subsec. (c)(2). Pub. L. 105–121, § 3(a), struck out “through September 30, 1997” after “authorized by the Bank”.
 
-Subsec. (e). Pub. L. 105–121, § 3(b), amended first sentence generally. Prior to amendment first sentence read as follows: “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.”
+Subsec. (e). Pub. L. 105–121, § 3(b), amended first sentence generally. Prior to amendment first sentence read as follows: “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.”
 
-1996—Subsec. (c)(2). Pub. L. 104–107, § 579(a), which directed substitution of “1997” for “1995”, could not be executed because “1995” does not appear in text after amendment by Pub. L. 104–97. See below.
+1996—Subsec. (c)(2). Pub. L. 104–107, § 579(a), which directed substitution of “1997” for “1995”, could not be executed because “1995” does not appear in text after amendment by Pub. L. 104–97. See below.
 
-Pub. L. 104–97, § 1(a), substituted “1997” for “1995”.
+Pub. L. 104–97, § 1(a), substituted “1997” for “1995”.
 
-Subsec. (e). Pub. L. 104–107, § 579(b), which directed substitution of “1996 and 1997” for “1993, 1994, and 1995”, could not be executed because that language does not appear in text after general amendment by Pub. L. 104–97. See below.
+Subsec. (e). Pub. L. 104–107, § 579(b), which directed substitution of “1996 and 1997” for “1993, 1994, and 1995”, could not be executed because that language does not appear in text after general amendment by Pub. L. 104–97. See below.
 
-Pub. L. 104–97, § 1(b), substituted “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.” for “There are authorized to be appropriated to the Fund $500,000,000 for each of fiscal years 1993, 1994, and 1995.”
+Pub. L. 104–97, § 1(b), substituted “There are authorized to be appropriated to the Fund such sums as may be necessary for each of fiscal years 1996 and 1997.” for “There are authorized to be appropriated to the Fund $500,000,000 for each of fiscal years 1993, 1994, and 1995.”
 
-1992—Subsec. (a). Pub. L. 102–429, § 103(c)(1), (2), substituted “predatory” for “predacious” in par. (1), struck out “temporary” before “tied aid program” in introductory provisions of par. (5), and substituted “existing Arrangement” for “existing arrangement” in par. (5)(A).
+1992—Subsec. (a). Pub. L. 102–429, § 103(c)(1), (2), substituted “predatory” for “predacious” in par. (1), struck out “temporary” before “tied aid program” in introductory provisions of par. (5), and substituted “existing Arrangement” for “existing arrangement” in par. (5)(A).
 
-Subsec. (b)(1). Pub. L. 102–429, § 103(c)(3)(A), substituted “The” for “To carry out the purposes of subsection (a)(5) of this section, the”.
+Subsec. (b)(1). Pub. L. 102–429, § 103(c)(3)(A), substituted “The” for “To carry out the purposes of subsection (a)(5) of this section, the”.
 
-Subsec. (b)(1)(A). Pub. L. 102–429, § 103(c)(1), (3)(B), substituted “predatory” for “predacious” and inserted before semicolon “and with special attention to matching tied aid and partially untied aid credits extended by other governments—” followed by cls. (i) and (ii).
+Subsec. (b)(1)(A). Pub. L. 102–429, § 103(c)(1), (3)(B), substituted “predatory” for “predacious” and inserted before semicolon “and with special attention to matching tied aid and partially untied aid credits extended by other governments—” followed by cls. (i) and (ii).
 
-Subsec. (b)(1)(B). Pub. L. 102–429, § 103(c)(1), (3)(C), in cl. (i) substituted “predatory” for “predacious” and “partially untied aid credits, and impedes negotiations or violates agreements on tied aid to eliminate the use of such credits for commercial purposes; or” for “partially untied aid credits; and”, added cl. (ii), and struck out former cl. (ii) which read as follows: “impedes negotiations to eliminate the use of such credits for commercial purposes; or”.
+Subsec. (b)(1)(B). Pub. L. 102–429, § 103(c)(1), (3)(C), in cl. (i) substituted “predatory” for “predacious” and “partially untied aid credits, and impedes negotiations or violates agreements on tied aid to eliminate the use of such credits for commercial purposes; or” for “partially untied aid credits; and”, added cl. (ii), and struck out former cl. (ii) which read as follows: “impedes negotiations to eliminate the use of such credits for commercial purposes; or”.
 
-Subsec. (b)(2). Pub. L. 102–429, § 103(c)(4), (5), struck out “of the Treasury” after “Secretary” in subpar. (A) and substituted “United States exporters and private financial institutions or entities, and in consultation with other Federal agencies” for “private financial institutions or entities” in subpar. (B).
+Subsec. (b)(2). Pub. L. 102–429, § 103(c)(4), (5), struck out “of the Treasury” after “Secretary” in subpar. (A) and substituted “United States exporters and private financial institutions or entities, and in consultation with other Federal agencies” for “private financial institutions or entities” in subpar. (B).
 
-Subsec. (b)(4). Pub. L. 102–429, § 103(c)(6), inserted at end “The Bank shall also request and take into consideration the views of the private sector on principal sectors and key markets of countries described in paragraph (1)(B).”
+Subsec. (b)(4). Pub. L. 102–429, § 103(c)(6), inserted at end “The Bank shall also request and take into consideration the views of the private sector on principal sectors and key markets of countries described in paragraph (1)(B).”
 
-Subsec. (c)(2). Pub. L. 102–429, § 103(a), substituted “September 30, 1995” for “fiscal year 1992”.
+Subsec. (c)(2). Pub. L. 102–429, § 103(a), substituted “September 30, 1995” for “fiscal year 1992”.
 
-Subsec. (e). Pub. L. 102–429, § 103(b), amended subsec. (e) generally, substituting present provisions for provisions which authorized appropriations for fiscal years 1987 through 1992 and provided authority for Presidential rescission.
+Subsec. (e). Pub. L. 102–429, § 103(b), amended subsec. (e) generally, substituting present provisions for provisions which authorized appropriations for fiscal years 1987 through 1992 and provided authority for Presidential rescission.
 
-Subsec. (g)(1). Pub. L. 102–429, § 103(c)(7), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Report required.—Before the end of the 6-month period beginning on October 15, 1986, and every six months thereafter, the Bank, in consultation with the Secretary, shall prepare and transmit a report on tied aid credits to the President of the Senate and the Speaker of the House of Representatives.”
+Subsec. (g)(1). Pub. L. 102–429, § 103(c)(7), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Report required.—Before the end of the 6-month period beginning on October 15, 1986, and every six months thereafter, the Bank, in consultation with the Secretary, shall prepare and transmit a report on tied aid credits to the President of the Senate and the Speaker of the House of Representatives.”
 
-Subsec. (g)(2). Pub. L. 102–429, § 103(c)(7), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Contents of report.—Each report required by paragraph (1) shall contain a description of—
+Subsec. (g)(2). Pub. L. 102–429, § 103(c)(7), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Contents of report.—Each report required by paragraph (1) shall contain a description of—
 
 “(A) the principal offers of predacious financing by foreign countries during the course of the previous 6 months;
 
@@ -3302,25 +3302,25 @@ Subsec. (g)(2). Pub. L. 102–429, § 103(c)(7), amended par. (2) generally. P
 
 “(E) the progress achieved by negotiations conducted to carry out the purposes described in subsection (a)(5) of this section.”
 
-Subsec. (h). Pub. L. 102–429, § 103(c)(8), substituted “For purposes of this section, the following definitions shall apply:” for “For the purpose of this section—” in introductory provisions and added par. (6).
+Subsec. (h). Pub. L. 102–429, § 103(c)(8), substituted “For purposes of this section, the following definitions shall apply:” for “For the purpose of this section—” in introductory provisions and added par. (6).
 
-1990—Subsec. (c)(2). Pub. L. 101–513, § 562(d)(2), substituted “1992” for “1991”.
+1990—Subsec. (c)(2). Pub. L. 101–513, § 562(d)(2), substituted “1992” for “1991”.
 
-Subsec. (e)(1). Pub. L. 101–513, § 562(d)(1), substituted “for fiscal year 1990, $300,000,000, and for each of fiscal years 1991 and 1992, $500,000,000” for “and for fiscal years 1990 and 1991, $300,000,000”.
+Subsec. (e)(1). Pub. L. 101–513, § 562(d)(1), substituted “for fiscal year 1990, $300,000,000, and for each of fiscal years 1991 and 1992, $500,000,000” for “and for fiscal years 1990 and 1991, $300,000,000”.
 
-1989—Subsec. (a)(5). Pub. L. 101–240, § 101(b)(1), substituted “for the purposes of—”, pars. (A) and (B), and concluding provisions for “for the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, and such program should be aggressively used until such an arrangement is established.”
+1989—Subsec. (a)(5). Pub. L. 101–240, § 101(b)(1), substituted “for the purposes of—”, pars. (A) and (B), and concluding provisions for “for the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, and such program should be aggressively used until such an arrangement is established.”
 
-Subsec. (b)(1). Pub. L. 101–240, § 101(b)(2), inserted introductory provisions and struck out former introductory provisions which read as follows: “For the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, the Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—”.
+Subsec. (b)(1). Pub. L. 101–240, § 101(b)(2), inserted introductory provisions and struck out former introductory provisions which read as follows: “For the purpose of facilitating the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes, the Bank shall establish a tied aid credit program under which grants shall be made from funds available in the Tied Aid Credit Fund established under subsection (c) of this section—”.
 
-Subsec. (b)(2)(A). Pub. L. 101–240, § 101(b)(3), substituted “carry out the purposes described in subsection (a)(5) of this section” for “promote the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes”.
+Subsec. (b)(2)(A). Pub. L. 101–240, § 101(b)(3), substituted “carry out the purposes described in subsection (a)(5) of this section” for “promote the negotiation of a comprehensive international arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes”.
 
-Subsec. (c)(2). Pub. L. 101–240, § 101(b)(4), substituted “amount equal to the concessionality level” for “cost” and “through fiscal year 1991” for “during fiscal years 1986, 1987, 1988, and 1989”.
+Subsec. (c)(2). Pub. L. 101–240, § 101(b)(4), substituted “amount equal to the concessionality level” for “cost” and “through fiscal year 1991” for “during fiscal years 1986, 1987, 1988, and 1989”.
 
-Subsec. (e)(1). Pub. L. 101–240, § 101(b)(7), which directed the insertion of “, and for fiscal years 1990, 1991, and 1992, $200,000,000” after “$300,000,000” was not executed in view of earlier amendment by section 101(b)(5) of Pub. L. 101–240, which inserted “, and for fiscal years 1990 and 1991, $300,000,000” after “$300,000,000”, and in view of Senate floor amendment of the bill which added the authorization contained in section 101(b)(5) and was intended to replace the authorization now appearing in section 101(b)(7). See Cong. Rec., vol. 135, pt. 22, pp. 31199, 31203, Nov. 21, 1989.
+Subsec. (e)(1). Pub. L. 101–240, § 101(b)(7), which directed the insertion of “, and for fiscal years 1990, 1991, and 1992, $200,000,000” after “$300,000,000” was not executed in view of earlier amendment by section 101(b)(5) of Pub. L. 101–240, which inserted “, and for fiscal years 1990 and 1991, $300,000,000” after “$300,000,000”, and in view of Senate floor amendment of the bill which added the authorization contained in section 101(b)(5) and was intended to replace the authorization now appearing in section 101(b)(7). See Cong. Rec., vol. 135, pt. 22, pp. 31199, 31203, Nov. 21, 1989.
 
-Pub. L. 101–240, § 101(b)(5), inserted “, and for fiscal years 1990 and 1991, $300,000,000” after “$300,000,000”.
+Pub. L. 101–240, § 101(b)(5), inserted “, and for fiscal years 1990 and 1991, $300,000,000” after “$300,000,000”.
 
-Subsec. (g)(2)(E). Pub. L. 101–240, § 101(b)(6), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “any progress achieved in negotiations to establish a comprehensive international arrangement restricting the use of tied aid and partially untied credits for commercial purposes.”
+Subsec. (g)(2)(E). Pub. L. 101–240, § 101(b)(6), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “any progress achieved in negotiations to establish a comprehensive international arrangement restricting the use of tied aid and partially untied credits for commercial purposes.”
 
 1988—Subsecs. (c)(2), (e)(1). Pub. L. 100–418 substituted “1988, and 1989” for “and 1988”.
 
@@ -3330,7 +3330,7 @@ Subsec. (g)(2)(E). Pub. L. 101–240, § 101(b)(6), amended subpar. (E) genera
 
 **Use of Fund To Discourage Predatory Financing Practices**
 
-Pub. L. 100–418, title III, § 3302(a), Aug. 23, 1988, 102 Stat. 1383, provided that:
+Pub. L. 100–418, title III, § 3302(a), Aug. 23, 1988, 102 Stat. 1383, provided that:
 
 > “The Congress finds that—
 
@@ -3342,11 +3342,11 @@ Pub. L. 100–418, title III, § 3302(a), Aug. 23, 1988, 102 Stat. 1383, provi
 
 > **“(4)** in such cases, the Export-Import Bank of the United States should continue to use the Tied Aid Credit Fund established by section 15(c) [now 10(c)] of the Export-Import Bank Act of 1945 [12 U.S.C. 635i–3(c)] to discourage the use of such predatory financing practices.”
 
-### § 635i–4. Repealed. Pub. L. 102–429, title I, § 121(c)(1), Oct. 21, 1992, 106 Stat. 2199
+### § 635i–4. Repealed. Pub. L. 102–429, title I, § 121(c)(1), Oct. 21, 1992, 106 Stat. 2199
 
-Section, act July 31, 1945, ch. 341, § 16, as added Oct. 21, 1986, Pub. L. 99–509, title II, § 2002, 100 Stat. 1880, related to procedures and terms for sale of Bank loans to public.
+Section, act July 31, 1945, ch. 341, § 16, as added Oct. 21, 1986, Pub. L. 99–509, title II, § 2002, 100 Stat. 1880, related to procedures and terms for sale of Bank loans to public.
 
-### § 635i–5. Environmental policy and procedures
+### § 635i–5. Environmental policy and procedures
 
 **(a) Environmental effects consideration**
 
@@ -3380,7 +3380,7 @@ The Bank shall provide in its annual report to the Congress a summary of its act
 
 Nothing in this section shall be construed to create any cause of action.
 
-(July 31, 1945, ch. 341, § 11, formerly § 17, as added and renumbered § 11, Pub. L. 102–429, title I, §§ 106, 121(c)(5), Oct. 21, 1992, 106 Stat. 2189, 2199; amended Pub. L. 103–428, § 2(a), Oct. 31, 1994, 108 Stat. 4376; Pub. L. 109–438, § 18(b), Dec. 20, 2006, 120 Stat. 3281; Pub. L. 114–94, div. E, title LIV, § 54002(d), Dec. 4, 2015, 129 Stat. 1769.)
+(July 31, 1945, ch. 341, § 11, formerly § 17, as added and renumbered § 11, Pub. L. 102–429, title I, §§ 106, 121(c)(5), Oct. 21, 1992, 106 Stat. 2189, 2199; amended Pub. L. 103–428, § 2(a), Oct. 31, 1994, 108 Stat. 4376; Pub. L. 109–438, § 18(b), Dec. 20, 2006, 120 Stat. 3281; Pub. L. 114–94, div. E, title LIV, § 54002(d), Dec. 4, 2015, 129 Stat. 1769.)
 
 **Editorial Notes**
 
@@ -3406,7 +3406,7 @@ A prior section 11 of act July 31, 1945, ch. 341, was renumbered section 9 and i
 
 Amendment by Pub. L. 114–94 applicable with respect to fiscal year 2016 and each fiscal year thereafter, see section 54002(e) of Pub. L. 114–94, set out as a note under section 635 of this title.
 
-### § 635i–6. Debt reduction; Enterprise for the Americas Initiative
+### § 635i–6. Debt reduction; Enterprise for the Americas Initiative
 
 **(a) Definitions** For purposes of this section—
 
@@ -3478,19 +3478,19 @@ Before the sale to any eligible purchaser, or any reduction or cancellation purs
 
 For the sale, reduction, and cancellation of loans or portions thereof pursuant to this section, there are authorized to be appropriated to the President such sums as may be necessary, which are authorized to remain available until expended.
 
-(July 31, 1945, ch. 341, § 12, formerly § 18, as added and renumbered § 12, Pub. L. 102–429, title I, §§ 108, 121(c)(6), Oct. 21, 1992, 106 Stat. 2191, 2199; amended Pub. L. 107–189, § 24(b)(5), June 14, 2002, 116 Stat. 709; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(L), June 18, 2008, 122 Stat. 1820.)
+(July 31, 1945, ch. 341, § 12, formerly § 18, as added and renumbered § 12, Pub. L. 102–429, title I, §§ 108, 121(c)(6), Oct. 21, 1992, 106 Stat. 2191, 2199; amended Pub. L. 107–189, § 24(b)(5), June 14, 2002, 116 Stat. 709; Pub. L. 110–246, title III, § 3001(b)(1)(A), (2)(L), June 18, 2008, 122 Stat. 1820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (c)(5), is title V of Pub. L. 93–344, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (c)(5), is title V of Pub. L. 93–344, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 621 of Title 2 and Tables.
 
 **Prior Provisions**
 
-A prior section 12 of act July 31, 1945, ch. 341, was classified to section 635i of this title, prior to repeal by Pub. L. 102–429, § 121(c)(1).
+A prior section 12 of act July 31, 1945, ch. 341, was classified to section 635i of this title, prior to repeal by Pub. L. 102–429, § 121(c)(1).
 
 **Amendments**
 
@@ -3506,7 +3506,7 @@ Subsec. (c)(1)(B). Pub. L. 110–246 made technical amendment to reference in or
 
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 635i–7. Cooperation on export financing programs
+### § 635i–7. Cooperation on export financing programs
 
 The Bank shall, subject to appropriate memoranda of understanding—
 
@@ -3518,15 +3518,15 @@ The Bank shall, subject to appropriate memoranda of understanding—
 
 **(2)** consistent with the provisions of section 4721(f)(2) of title 15, undertake a program to provide training for personnel designated in such memoranda with respect to such financing programs.
 
-(July 31, 1945, ch. 341, § 13, formerly § 19, as added and renumbered § 13, Pub. L. 102–429, title I, §§ 115, 121(c)(7), Oct. 21, 1992, 106 Stat. 2196, 2199.)
+(July 31, 1945, ch. 341, § 13, formerly § 19, as added and renumbered § 13, Pub. L. 102–429, title I, §§ 115, 121(c)(7), Oct. 21, 1992, 106 Stat. 2196, 2199.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 13 of act July 31, 1945, ch. 341, was classified to section 635i–1 of this title, prior to repeal by Pub. L. 102–429, § 121(c)(1).
+A prior section 13 of act July 31, 1945, ch. 341, was classified to section 635i–1 of this title, prior to repeal by Pub. L. 102–429, § 121(c)(1).
 
-### § 635i–8. Special debt relief for poorest, most heavily indebted countries
+### § 635i–8. Special debt relief for poorest, most heavily indebted countries
 
 **(a) Debt reduction authority**
 
@@ -3566,7 +3566,7 @@ Subject to subparagraph (A), the President may determine whether a country is an
 
 The authority provided by subsection (a) may be exercised only in such amounts or to such extent as is provided in advance in appropriations Acts.
 
-(July 31, 1945, ch. 341, § 14, formerly § 11, as added Pub. L. 103–87, title V, § 570(b), Sept. 30, 1993, 107 Stat. 970; renumbered § 14, Pub. L. 103–428, § 2(b), Oct. 31, 1994, 108 Stat. 4376; Pub. L. 107–189, § 24(b)(6), June 14, 2002, 116 Stat. 709.)
+(July 31, 1945, ch. 341, § 14, formerly § 11, as added Pub. L. 103–87, title V, § 570(b), Sept. 30, 1993, 107 Stat. 970; renumbered § 14, Pub. L. 103–428, § 2(b), Oct. 31, 1994, 108 Stat. 4376; Pub. L. 107–189, § 24(b)(6), June 14, 2002, 116 Stat. 709.)
 
 **Editorial Notes**
 
@@ -3592,7 +3592,7 @@ The Secretary of the Treasury is authorized and directed to publish this memoran
 
 William J. Clinton.
 
-### § 635i–9. Market windows
+### § 635i–9. Market windows
 
 **(a) Enhanced transparency**
 
@@ -3612,17 +3612,17 @@ To ensure that the Bank financing remains fully competitive, the United States s
 
 In this section, the term “OECD” means the Organization for Economic Cooperation and Development.
 
-(July 31, 1945, ch. 341, § 15, as added Pub. L. 107–189, § 10(b)(1), June 14, 2002, 116 Stat. 703.)
+(July 31, 1945, ch. 341, § 15, as added Pub. L. 107–189, § 10(b)(1), June 14, 2002, 116 Stat. 703.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Report**
 
-Pub. L. 107–189, § 10(b)(2), June 14, 2002, 116 Stat. 703, provided that: “Within 2 years after the date of the enactment of this Act [June 14, 2002], the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the rationale for seeking or not seeking negotiations for multilateral disciplines and transparency, the successes, failures, and obstacles in initiating negotiations, and if negotiations were initiated, in reaching an agreement.”
+Pub. L. 107–189, § 10(b)(2), June 14, 2002, 116 Stat. 703, provided that: “Within 2 years after the date of the enactment of this Act [June 14, 2002], the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the rationale for seeking or not seeking negotiations for multilateral disciplines and transparency, the successes, failures, and obstacles in initiating negotiations, and if negotiations were initiated, in reaching an agreement.”
 
 ## SUBCHAPTER II—EXPORT FINANCING
 
-### § 635j. Export financing program to foster foreign trade and commercial interest of the United States
+### § 635j. Export financing program to foster foreign trade and commercial interest of the United States
 
 **(a) Congressional statement of policy**
 
@@ -3632,7 +3632,7 @@ It is the policy of the Congress that the Export-Import Bank of the United State
 
 The Bank shall specially designate loans, guarantees, and insurance on the books of the Bank made under authority of this subchapter. In connection with guarantees and insurance, not less than 25 per centum of the related contractual liability of the Bank shall be taken into account for the purpose of applying the limitation imposed by section 635e of this title; but the full amount of the related contractual liability of such guarantees and insurance shall be taken into account for the purpose of applying the limitation in section 635(c)(1) of this title, concerning the amount of guarantees and insurance the Bank may have outstanding at any one time thereunder. The aggregate amount of loans plus 25 per centum of the contractual liability of guarantees and insurance outstanding at any one time under this subchapter shall not exceed $500,000,000.
 
-(Pub. L. 90–390, § 1, July 7, 1968, 82 Stat. 296; Pub. L. 96–470, title I, § 115, Oct. 19, 1980, 94 Stat. 2240.)
+(Pub. L. 90–390, § 1, July 7, 1968, 82 Stat. 296; Pub. L. 96–470, title I, § 115, Oct. 19, 1980, 94 Stat. 2240.)
 
 **Editorial Notes**
 
@@ -3672,33 +3672,33 @@ Sec. 3. *Construction*. Nothing in this order shall be construed to abrogate, mo
 
 Lyndon B. Johnson.
 
-### § 635k. Apportionment of losses incurred on loans, guarantees, and insurance; reimbursement; contingent obligations
+### § 635k. Apportionment of losses incurred on loans, guarantees, and insurance; reimbursement; contingent obligations
 
 In the event of any losses, as determined by the Board of Directors of the Bank, incurred on loans, guarantees, and insurance extended under this subchapter, the first $100,000,000 of such losses shall be borne by the Bank; the second $100,000,000 of such losses shall be borne by the Secretary of the Treasury; and any losses in excess thereof shall be borne by the Bank. Reimbursement of the Bank by the Secretary of the Treasury of the amount of losses which are to be borne by the Secretary of the Treasury as aforesaid shall be from funds made available pursuant to section 635*l* of this title. All guarantees and insurance issued by the Bank shall be considered contingent obligations backed by the full faith and credit of the Government of the United States of America.
 
-(Pub. L. 90–390, § 2, July 7, 1968, 82 Stat. 297.)
+(Pub. L. 90–390, § 2, July 7, 1968, 82 Stat. 297.)
 
-### § 635l. Authorization for appropriation of funds for losses
+### § 635l. Authorization for appropriation of funds for losses
 
 There are hereby authorized to be appropriated to the Secretary of the Treasury without fiscal year limitation $100,000,000 to cover the amount of any losses which are to be borne by the Secretary of the Treasury as provided in section 635k of this title.
 
-(Pub. L. 90–390, § 3, July 7, 1968, 82 Stat. 297.)
+(Pub. L. 90–390, § 3, July 7, 1968, 82 Stat. 297.)
 
-### § 635m. Loans, guarantees, and insurance subject to the provisions of this chapter
+### § 635m. Loans, guarantees, and insurance subject to the provisions of this chapter
 
 Nothing in this subchapter shall be construed as a limitation on the powers of the Bank under subchapter I of this chapter; and except as to the standard of reasonable assurance of repayment required under section 635(b)(1) of this title, all loans, guarantees, and insurance extended hereunder shall be subject to the provisions of subchapter I of this chapter and to the policies of the Bank with respect to terms of repayment, interest rates, fees, and premiums applicable to loans, guarantees, and insurance extended under subchapter I of this chapter.
 
-(Pub. L. 90–390, § 4, July 7, 1968, 82 Stat. 297.)
+(Pub. L. 90–390, § 4, July 7, 1968, 82 Stat. 297.)
 
-### § 635n. Prohibition of loans, guarantees, and insurance as to sales of defense articles or services
+### § 635n. Prohibition of loans, guarantees, and insurance as to sales of defense articles or services
 
 The Bank shall not extend loans, guarantees, or insurance under this subchapter in connection with the sale of defense articles or defense services.
 
-(Pub. L. 90–390, § 5, July 7, 1968, 82 Stat. 297.)
+(Pub. L. 90–390, § 5, July 7, 1968, 82 Stat. 297.)
 
 ## SUBCHAPTER III—TIED AID CREDIT EXPORT SUBSIDIES
 
-### § 635o. Congressional statement of purpose
+### § 635o. Congressional statement of purpose
 
 The purpose of this subchapter is—
 
@@ -3710,21 +3710,21 @@ The purpose of this subchapter is—
 
 **(4)** to encourage foreign governments to enter into effective and comprehensive agreements with the United States to end the use of tied aid credits for exports, and to limit and govern the use of export credit subsidies generally.
 
-(Pub. L. 98–181, title I [title VI, § 642], Nov. 30, 1983, 97 Stat. 1263.)
+(Pub. L. 98–181, title I [title VI, § 642], Nov. 30, 1983, 97 Stat. 1263.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this part”, meaning part C (§§ 641–647, 650) of title VI of Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263, known as the Trade and Development Enhancement Act of 1983, which enacted this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This subchapter, referred to in text, was in the original “this part”, meaning part C (§§ 641–647, 650) of title VI of Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263, known as the Trade and Development Enhancement Act of 1983, which enacted this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 98–181, title I [title VI, § 641], Nov. 30, 1983, 97 Stat. 1263, provided that: “This part [part C (§§ 641–647, 650) of title VI, enacting this subchapter and section 1671g of Title 19, Customs Duties, and amending sections 1671a and 1671b of Title 19] may be referred to as the ‘Trade and Development Enhancement Act of 1983’.”
+Pub. L. 98–181, title I [title VI, § 641], Nov. 30, 1983, 97 Stat. 1263, provided that: “This part [part C (§§ 641–647, 650) of title VI, enacting this subchapter and section 1671g of Title 19, Customs Duties, and amending sections 1671a and 1671b of Title 19] may be referred to as the ‘Trade and Development Enhancement Act of 1983’.”
 
-### § 635p. Presidential mandate to negotiate; objectives
+### § 635p. Presidential mandate to negotiate; objectives
 
 The President shall vigorously pursue negotiations to limit and set rules for the use of tied aid for exports. The negotiating objectives of the United States should include reaching agreements—
 
@@ -3740,9 +3740,9 @@ The President shall vigorously pursue negotiations to limit and set rules for th
 
 **(6)** to prohibit the use of tied aid credit for production facilities for goods which are in structural oversupply in the world.
 
-(Pub. L. 98–181, title I [title VI, § 643], Nov. 30, 1983, 97 Stat. 1263.)
+(Pub. L. 98–181, title I [title VI, § 643], Nov. 30, 1983, 97 Stat. 1263.)
 
-### § 635q. Establishment of tied aid credit program in United States Export-Import Bank
+### § 635q. Establishment of tied aid credit program in United States Export-Import Bank
 
 **(a) Establishment and elements of program; cooperation with Trade and Development Agency and private institutions and entities**
 
@@ -3768,7 +3768,7 @@ The Chairman of the Bank is authorized to establish a fund, as necessary, for ca
 
 Concessional financing or grants made available under section 635r(d) of this title for the purposes of the mixed financing program established under this section shall be made available in accordance with the provisions of section 635r(c) of this title.
 
-(Pub. L. 98–181, title I [title VI, § 644], Nov. 30, 1983, 97 Stat. 1264; Pub. L. 100–418, title II, § 2204(c)(1)(A), Aug. 23, 1988, 102 Stat. 1330; Pub. L. 102–549, title II, § 202(c)(1), Oct. 28, 1992, 106 Stat. 3658.)
+(Pub. L. 98–181, title I [title VI, § 644], Nov. 30, 1983, 97 Stat. 1264; Pub. L. 100–418, title II, § 2204(c)(1)(A), Aug. 23, 1988, 102 Stat. 1330; Pub. L. 102–549, title II, § 202(c)(1), Oct. 28, 1992, 106 Stat. 3658.)
 
 **Editorial Notes**
 
@@ -3776,17 +3776,17 @@ Concessional financing or grants made available under section 635r(d) of this ti
 
 1992—Subsec. (a)(2), (3)(A). Pub. L. 102–549 substituted “Development Agency” for “Development Program”.
 
-1988—Subsec. (a)(2). Pub. L. 100–418, § 2204(c)(1)(A)(i), substituted “Trade and Development Program” for “Agency for International Development”.
+1988—Subsec. (a)(2). Pub. L. 100–418, § 2204(c)(1)(A)(i), substituted “Trade and Development Program” for “Agency for International Development”.
 
-Subsec. (a)(3)(A). Pub. L. 100–418, § 2204(c)(1)(A)(ii), substituted “made available under section 635r(d) of this title” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
+Subsec. (a)(3)(A). Pub. L. 100–418, § 2204(c)(1)(A)(ii), substituted “made available under section 635r(d) of this title” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
 
-Subsec. (d). Pub. L. 100–418, § 2204(c)(1)(A)(iii), substituted “made available under section 635r(d) of this title” for “offered by the Agency for International Development” and “section 635r(c) of this title” for “subsections (c) and (d) of section 635r of this title”.
+Subsec. (d). Pub. L. 100–418, § 2204(c)(1)(A)(iii), substituted “made available under section 635r(d) of this title” for “offered by the Agency for International Development” and “section 635r(c) of this title” for “subsections (c) and (d) of section 635r of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transition Provisions**
 
-Pub. L. 100–418, title II, § 2204(d)(2), Aug. 23, 1988, 102 Stat. 1331, provided that:
+Pub. L. 100–418, title II, § 2204(d)(2), Aug. 23, 1988, 102 Stat. 1331, provided that:
 
 > **“(A)** The Administrator of the Agency for International Development shall transfer to the Director of the Trade and Development Program [now Trade and Development Agency] all records, contracts, applications, and any other documents or information in connection with the functions transferred by virtue of the amendments made by subsection (c)(1) [amending sections 635q and 635r of this title].
 
@@ -3810,7 +3810,7 @@ Pub. L. 100–418, title II, § 2204(d)(2), Aug. 23, 1988, 102 Stat. 1331, pro
 
 > **“(D)** With respect to any function transferred by virtue of the amendments made by subsection (c)(1) and exercised on or after the effective date of this section [Aug. 23, 1988], reference in any other Federal law to the Agency for International Development or any officer shall be deemed to refer to the Trade and Development Program [now Trade and Development Agency] or other official to which such function is so transferred.”
 
-### § 635r. Establishment of tied aid credit program administered by Trade and Development Agency
+### § 635r. Establishment of tied aid credit program administered by Trade and Development Agency
 
 **(a) Establishment and elements of program** The Director of the Trade and Development Agency shall carry out a program of tied aid credits for United States exports. The program shall be carried out in cooperation with the Export-Import Bank of the United States and with private financial institutions or entities, as appropriate. The program may include—
 
@@ -3832,35 +3832,35 @@ These funds may be combined with financing by the Export-Import Bank of the Unit
 
 Funds available to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 [22 U.S.C. 2346 et seq.] may be used by the Director of the Trade and Development Agency, with the concurrence of the Secretary of State (as provided under section 531 of the Foreign Assistance Act of 1961 [22 U.S.C. 2346]), for the purposes for which funds made available under this subsection are authorized to be used in section 635q of this title and this section. The Secretary of State shall exercise his authority in cooperation with the Administrator of the Agency for International Development. Funds made available pursuant to this subsection may be used to finance a tied aid credit activity in any country eligible for tied aid credits under this subchapter.
 
-(Pub. L. 98–181, title I [title VI, § 645], Nov. 30, 1983, 97 Stat. 1264; Pub. L. 100–418, title II, § 2204(c)(1)(B), Aug. 23, 1988, 102 Stat. 1330; Pub. L. 102–549, title II, § 202(c), Oct. 28, 1992, 106 Stat. 3658.)
+(Pub. L. 98–181, title I [title VI, § 645], Nov. 30, 1983, 97 Stat. 1264; Pub. L. 100–418, title II, § 2204(c)(1)(B), Aug. 23, 1988, 102 Stat. 1330; Pub. L. 102–549, title II, § 202(c), Oct. 28, 1992, 106 Stat. 3658.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
-This subchapter, referred to in subsec. (d), was in the original “this Act” and was translated as meaning the Trade and Development Enhancement Act of 1983, part C (§§ 641–647, 650) of title VI of Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263, which enacted this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This subchapter, referred to in subsec. (d), was in the original “this Act” and was translated as meaning the Trade and Development Enhancement Act of 1983, part C (§§ 641–647, 650) of title VI of Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263, which enacted this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 **Amendments**
 
 1992—Pub. L. 102–549 substituted “Development Agency” for “Development Program” in section catchline and wherever appearing in subsecs. (a), (c), and (d).
 
-1988—Pub. L. 100–418, § 2204(c)(1)(B)(i), in section catchline, substituted reference to program administered by Trade and Development Program for reference to program in Agency for International Development.
+1988—Pub. L. 100–418, § 2204(c)(1)(B)(i), in section catchline, substituted reference to program administered by Trade and Development Program for reference to program in Agency for International Development.
 
-Subsec. (a). Pub. L. 100–418, § 2204(c)(1)(B)(ii)(I), substituted “Director of the Trade and Development Program shall carry out” for “Administrator of the Agency for International Development shall establish within the Agency”.
+Subsec. (a). Pub. L. 100–418, § 2204(c)(1)(B)(ii)(I), substituted “Director of the Trade and Development Program shall carry out” for “Administrator of the Agency for International Development shall establish within the Agency”.
 
-Subsec. (a)(1). Pub. L. 100–418, § 2204(c)(1)(B)(ii)(II), (III), substituted “made available under subsection (d) of this section” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
+Subsec. (a)(1). Pub. L. 100–418, § 2204(c)(1)(B)(ii)(II), (III), substituted “made available under subsection (d) of this section” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
 
-Subsec. (a)(2). Pub. L. 100–418, § 2204(c)(1)(B)(ii)(IV), (V), substituted “made available under subsection (d) of this section” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
+Subsec. (a)(2). Pub. L. 100–418, § 2204(c)(1)(B)(ii)(IV), (V), substituted “made available under subsection (d) of this section” for “offered by the Agency for International Development” and “Trade and Development Program” for “Agency for International Development”.
 
-Subsec. (c)(1). Pub. L. 100–418, § 2204(c)(1)(B)(iii)(I), which directed that par. (1) be amended by striking out “of the Agency for International Development” after “Funds”, was executed by striking out “of the agency for International Development”, to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 100–418, § 2204(c)(1)(B)(iii)(I), which directed that par. (1) be amended by striking out “of the Agency for International Development” after “Funds”, was executed by striking out “of the agency for International Development”, to reflect the probable intent of Congress.
 
-Subsec. (c)(2). Pub. L. 100–418, § 2204(c)(1)(B)(iii)(II), substituted “Director of the Trade and Development Program” for “Administrator of the Agency for International Development”.
+Subsec. (c)(2). Pub. L. 100–418, § 2204(c)(1)(B)(iii)(II), substituted “Director of the Trade and Development Program” for “Administrator of the Agency for International Development”.
 
-Subsec. (d). Pub. L. 100–418, § 2204(c)(1)(B)(iv), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Administrator of the Agency for International Development may draw on Economic Support Funds allocated for Commodity Import Programs to finance a tied aid credit activity.”
+Subsec. (d). Pub. L. 100–418, § 2204(c)(1)(B)(iv), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Administrator of the Agency for International Development may draw on Economic Support Funds allocated for Commodity Import Programs to finance a tied aid credit activity.”
 
-### § 635s. Implementation
+### § 635s. Implementation
 
 **(a)**
 
@@ -3870,7 +3870,7 @@ Subsec. (d). Pub. L. 100–418, § 2204(c)(1)(B)(iv), amended subsec. (d) gene
 
 **(b)** The Trade and Development Agency shall be represented at any meetings of the National Advisory Council on International Monetary and Financial Policies for discussion of tied aid credit matters, and the representative of the Trade and Development Agency at any such meeting shall have the right to vote on any decisions of the Advisory Council relating to tied aid credit matters.
 
-(Pub. L. 98–181, title I [title VI, § 646], Nov. 30, 1983, 97 Stat. 1265; Pub. L. 100–418, title II, § 2204(c)(2), Aug. 23, 1988, 102 Stat. 1331; Pub. L. 102–549, title II, § 202(c)(1), Oct. 28, 1992, 106 Stat. 3658.)
+(Pub. L. 98–181, title I [title VI, § 646], Nov. 30, 1983, 97 Stat. 1265; Pub. L. 100–418, title II, § 2204(c)(2), Aug. 23, 1988, 102 Stat. 1331; Pub. L. 102–549, title II, § 202(c)(1), Oct. 28, 1992, 106 Stat. 3658.)
 
 **Editorial Notes**
 
@@ -3880,7 +3880,7 @@ Subsec. (d). Pub. L. 100–418, § 2204(c)(1)(B)(iv), amended subsec. (d) gene
 
 1988—Subsec. (b). Pub. L. 100–418 added subsec. (b).
 
-### § 635t. Definitions
+### § 635t. Definitions
 
 For purposes of this subchapter—
 
@@ -3904,4 +3904,4 @@ For purposes of this subchapter—
 
 **(6)** the term “Bank” means the Export-Import Bank of the United States.
 
-(Pub. L. 98–181, title I [title VI, § 647], Nov. 30, 1983, 97 Stat. 1265.)
+(Pub. L. 98–181, title I [title VI, § 647], Nov. 30, 1983, 97 Stat. 1265.)

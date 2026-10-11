@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—SANCTIONS AND OTHER MEASURES WITH RESPECT TO THE RUSSIAN FEDERATION
 
-### § 9501. Findings
+### § 9501. Findings
 
 Congress makes the following findings:
 
@@ -31,7 +31,7 @@ Congress makes the following findings:
 
 **(5)** On December 29, 2016, President Obama issued an annex to Executive Order No. 13694,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 which authorized sanctions on the following entities and individuals:
 
@@ -55,7 +55,7 @@ which authorized sanctions on the following entities and individuals:
 
 **(6)** On January 6, 2017, an assessment of the United States intelligence community entitled, “Assessing Russian Activities and Intentions in Recent U.S. Elections” stated, “Russian President Vladimir Putin ordered an influence campaign in 2016 aimed at the United States presidential election.” The assessment warns that “Moscow will apply lessons learned from its Putin-ordered campaign aimed at the U.S. Presidential election to future influence efforts worldwide, including against U.S. allies and their election processes”.
 
-(Pub. L. 115–44, title II, § 211, Aug. 2, 2017, 131 Stat. 898.)
+(Pub. L. 115–44, title II, § 211, Aug. 2, 2017, 131 Stat. 898.)
 
 **Editorial Notes**
 
@@ -67,27 +67,27 @@ Executive Order No. 13661, referred to in par. (1), is Ex. Ord. No. 13661, Mar. 
 
 Executive Order No. 13662, referred to in par. (1), is Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-The Ukraine Freedom Support Act of 2014, referred to in par. (2), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
+The Ukraine Freedom Support Act of 2014, referred to in par. (2), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
 
 Executive Order No. 13694, referred to in par. (3), is Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-The annex to Executive Order No. 13694, referred to in par. (5), probably means Ex. Ord. No. 13757, §§ 1–3, Dec. 28, 2016, 82 F.R. 1, 2, which amended Ex. Ord. No. 13694.
+The annex to Executive Order No. 13694, referred to in par. (5), probably means Ex. Ord. No. 13757, §§ 1–3, Dec. 28, 2016, 82 F.R. 1, 2, which amended Ex. Ord. No. 13694.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–94, div. P, title XX, § 2001, Dec. 20, 2019, 133 Stat. 3222, provided that: “This title [enacting subchapter III of this chapter and amending sections 2421 and 9543 of this title] may be cited as the ‘European Energy Security and Diversification Act of 2019’.”
+Pub. L. 116–94, div. P, title XX, § 2001, Dec. 20, 2019, 133 Stat. 3222, provided that: “This title [enacting subchapter III of this chapter and amending sections 2421 and 9543 of this title] may be cited as the ‘European Energy Security and Diversification Act of 2019’.”
 
-Pub. L. 115–44, title II, § 201, Aug. 2, 2017, 131 Stat. 898, provided that: “This title [enacting this chapter and sections 8909 and 8910 of this title, amending sections 8901, 8907, 8908, 8923, and 8924 of this title, section 5326 of Title 31, Money and Finance, and section 3021 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and section 3021 of Title 50] may be cited as the ‘Countering Russian Influence in Europe and Eurasia Act of 2017’.”
+Pub. L. 115–44, title II, § 201, Aug. 2, 2017, 131 Stat. 898, provided that: “This title [enacting this chapter and sections 8909 and 8910 of this title, amending sections 8901, 8907, 8908, 8923, and 8924 of this title, section 5326 of Title 31, Money and Finance, and section 3021 of Title 50, War and National Defense, and enacting provisions set out as notes under this section and section 3021 of Title 50] may be cited as the ‘Countering Russian Influence in Europe and Eurasia Act of 2017’.”
 
-Pub. L. 115–44, title II, § 215, Aug. 2, 2017, 131 Stat. 900, provided that: “This part [part 1 (§§ 215, 216) of subtitle A of title II of Pub. L. 115–44, enacting part A of this subchapter] may be cited as the ‘Russia Sanctions Review Act of 2017’.”
+Pub. L. 115–44, title II, § 215, Aug. 2, 2017, 131 Stat. 900, provided that: “This part [part 1 (§§ 215, 216) of subtitle A of title II of Pub. L. 115–44, enacting part A of this subchapter] may be cited as the ‘Russia Sanctions Review Act of 2017’.”
 
 **Rule of Construction**
 
-Pub. L. 115–44, title II, § 291, Aug. 2, 2017, 131 Stat. 939, provided that: “Nothing in this title [see section 201 of Pub. L. 115–44, set out as a Short Title note above] or the amendments made by this title (other than sections 216 and 236(b) [enacting sections 9511 and 9530(b) of this title, respectively]) shall be construed to limit the authority of the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).”
+Pub. L. 115–44, title II, § 291, Aug. 2, 2017, 131 Stat. 939, provided that: “Nothing in this title [see section 201 of Pub. L. 115–44, set out as a Short Title note above] or the amendments made by this title (other than sections 216 and 236(b) [enacting sections 9511 and 9530(b) of this title, respectively]) shall be construed to limit the authority of the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).”
 
-### § 9502. Sense of Congress
+### § 9502. Sense of Congress
 
 It is the sense of Congress that the President—
 
@@ -97,11 +97,11 @@ It is the sense of Congress that the President—
 
 **(3)** should increase efforts to vigorously enforce compliance with sanctions in place as of August 2, 2017, with respect to the Russian Federation in response to the crisis in eastern Ukraine, cyber intrusions and attacks, and human rights violators in the Russian Federation.
 
-(Pub. L. 115–44, title II, § 212, Aug. 2, 2017, 131 Stat. 899.)
+(Pub. L. 115–44, title II, § 212, Aug. 2, 2017, 131 Stat. 899.)
 
 ### PART A—CONGRESSIONAL REVIEW OF SANCTIONS IMPOSED WITH RESPECT TO THE RUSSIAN FEDERATION
 
-#### § 9511. Congressional review of certain actions relating to sanctions imposed with respect to the Russian Federation
+#### § 9511. Congressional review of certain actions relating to sanctions imposed with respect to the Russian Federation
 
 **(a) Submission to Congress of proposed action**
 
@@ -117,9 +117,9 @@ Notwithstanding any other provision of law, before taking any action described i
 
 **(ii)** with respect to sanctions described in subparagraph (B) imposed by the President with respect to a person, an action to waive the application of those sanctions with respect to that person; or
 
-**(iii)** a licensing action that significantly alters United States’ 1
+**(iii)** a licensing action that significantly alters United States’ 1
 
-<sup>1</sup>  So in original. Probably should be “United States”.
+<sup>1</sup> So in original. Probably should be “United States”.
 
 foreign policy with regard to the Russian Federation.
 
@@ -197,9 +197,9 @@ Notwithstanding any other provision of law, if a joint resolution of disapproval
 
 **(A)** the title of which is as follows: “A joint resolution approving the President’s proposal to take an action relating to the application of certain sanctions with respect to the Russian Federation.”; and
 
-**(B)** the sole matter after the resolving clause of which is the following: “Congress approves of the action relating to the application of sanctions imposed with respect to the Russian Federation proposed by the President in the report submitted to Congress under section 216(a)(1) of the Russia Sanctions Review Act of 2017 2
+**(B)** the sole matter after the resolving clause of which is the following: “Congress approves of the action relating to the application of sanctions imposed with respect to the Russian Federation proposed by the President in the report submitted to Congress under section 216(a)(1) of the Russia Sanctions Review Act of 2017 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 on \_\_\_ relating to \_\_\_.”, with the first blank space being filled with the appropriate date and the second blank space being filled with a short description of the proposed action.
 
@@ -207,7 +207,7 @@ on \_\_\_ relating to \_\_\_.”, with the first blank space being filled with t
 
 **(A)** the title of which is as follows: “A joint resolution disapproving the President’s proposal to take an action relating to the application of certain sanctions with respect to the Russian Federation.”; and
 
-**(B)** the sole matter after the resolving clause of which is the following: “Congress disapproves of the action relating to the application of sanctions imposed with respect to the Russian Federation proposed by the President in the report submitted to Congress under section 216(a)(1) of the Russia Sanctions Review Act of 2017 <sup>2</sup> on \_\_\_ relating to \_\_\_.”, with the first blank space being filled with the appropriate date and the second blank space being filled with a short description of the proposed action.
+**(B)** the sole matter after the resolving clause of which is the following: “Congress disapproves of the action relating to the application of sanctions imposed with respect to the Russian Federation proposed by the President in the report submitted to Congress under section 216(a)(1) of the Russia Sanctions Review Act of 2017 <sup>2</sup> on \_\_\_ relating to \_\_\_.”, with the first blank space being filled with the appropriate date and the second blank space being filled with a short description of the proposed action.
 
 **(3) Introduction** During the period of 30 calendar days provided for under subsection (b)(1), including any additional period as applicable under the exception provided in subsection (b)(2), a joint resolution of approval or joint resolution of disapproval may be introduced—
 
@@ -287,7 +287,7 @@ The provisions of this paragraph shall not apply in the House of Representatives
 
 **(2)** the Committee on Financial Services, the Committee on Foreign Affairs, and the Speaker, the majority leader, and the minority leader of the House of Representatives.
 
-(Pub. L. 115–44, title II, § 216, Aug. 2, 2017, 131 Stat. 900.)
+(Pub. L. 115–44, title II, § 216, Aug. 2, 2017, 131 Stat. 900.)
 
 **Editorial Notes**
 
@@ -297,15 +297,15 @@ This chapter, referred to in subsec. (a)(2)(B)(i)(I), was in the original “thi
 
 This title, referred to in subsec. (a)(2)(B)(i)(I), is title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under section 9501 of this title and Tables.
 
-The Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, referred to in subsec. (a)(2)(B)(i)(II), is Pub. L. 113–95, Apr. 3, 2014, 128 Stat. 1088, which is classified generally to chapter 96 (§ 8901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8901 of this title and Tables.
+The Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, referred to in subsec. (a)(2)(B)(i)(II), is Pub. L. 113–95, Apr. 3, 2014, 128 Stat. 1088, which is classified generally to chapter 96 (§ 8901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8901 of this title and Tables.
 
-The Ukraine Freedom Support Act of 2014, referred to in subsec. (a)(2)(B)(i)(III), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
+The Ukraine Freedom Support Act of 2014, referred to in subsec. (a)(2)(B)(i)(III), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
 
 Section 216(a)(1) of the Russia Sanctions Review Act of 2017, referred to in subsec. (c)(1)(B), (2)(B), is subsec. (a)(1) of this section.
 
 ### PART B—SANCTIONS WITH RESPECT TO THE RUSSIAN FEDERATION
 
-#### § 9521. Definitions
+#### § 9521. Definitions
 
 In this part:
 
@@ -317,9 +317,9 @@ In this part:
 
 **(2) Good**
 
-The term “good” has the meaning given that term in section 4618 1
+The term “good” has the meaning given that term in section 4618 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
@@ -341,17 +341,17 @@ The term “person” means an individual or entity.
 
 **(B)** an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
 
-(Pub. L. 115–44, title II, § 221, Aug. 2, 2017, 131 Stat. 906.)
+(Pub. L. 115–44, title II, § 221, Aug. 2, 2017, 131 Stat. 906.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in text, is part 2 (§§ 221–238) of subtitle A of title II of Pub. L. 115–44, which enacted this part and sections 8909 and 8910 of this title and amended sections 8901, 8907, 8908, 8923, and 8924 of this title. For complete classification of part 2 to the Code, see Tables.
+This part, referred to in text, is part 2 (§§ 221–238) of subtitle A of title II of Pub. L. 115–44, which enacted this part and sections 8909 and 8910 of this title and amended sections 8901, 8907, 8908, 8923, and 8924 of this title. For complete classification of part 2 to the Code, see Tables.
 
-Section 4618 of title 50, referred to in par. (2), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 4618 of title 50, referred to in par. (2), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
-The International Emergency Economic Powers Act, referred to in par. (2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in par. (2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -423,7 +423,7 @@ Pub. L. 118–50, div. F, Apr. 24, 2024, 138 Stat. 942, provided that:
 
 > **“(4)** On March 2, 2022, the United Nations General Assembly adopted Resolution ES–11/1, entitled ‘Aggression against Ukraine’, by a vote of 141 to 5. That resolution ‘deplore[d] [probably should be “[d]eplore[d]”] in the strongest terms the aggression by the Russian Federation against Ukraine in violation of Article 2(4) of the [United Nations] Charter’ and demanded that the Russian Federation ‘immediately cease its use of force against Ukraine’ and ‘immediately, completely and unconditionally withdraw all of its military forces from the territory of Ukraine within its internationally recognized borders’.
 
-> **“(5)** On March 16, 2022, the International Court of Justice issued a provisional measures order requiring the Russian Federation to ‘immediately suspend the military operations that it commenced on 24 February 2022 in the territory of Ukraine’ and, in this regard, observed that ‘orders on provisional measures . . . have binding effect’.
+> **“(5)** On March 16, 2022, the International Court of Justice issued a provisional measures order requiring the Russian Federation to ‘immediately suspend the military operations that it commenced on 24 February 2022 in the territory of Ukraine’ and, in this regard, observed that ‘orders on provisional measures . . . have binding effect’.
 
 > **“(6)** On November 14, 2022, the United Nations General Assembly adopted a resolution [Resolution ES–11/5]—
 
@@ -431,7 +431,7 @@ Pub. L. 118–50, div. F, Apr. 24, 2024, 138 Stat. 942, provided that:
 
 > **“(B)** recognizing the need for the establishment, in cooperation with Ukraine, of an international mechanism for compensation for financially assessable damages caused by the Russian Federation’s internationally wrongful acts; and
 
-> **“(C)** recommending ‘the creation . . . of an international register of damage to serve as a record . . . of evidence and claims information on damage, loss or injury to all natural and legal persons concerned, as well as the State of Ukraine, caused by internationally wrongful acts of the Russian Federation in or against Ukraine . … [sic]’.
+> **“(C)** recommending ‘the creation . . . of an international register of damage to serve as a record . . . of evidence and claims information on damage, loss or injury to all natural and legal persons concerned, as well as the State of Ukraine, caused by internationally wrongful acts of the Russian Federation in or against Ukraine . … [sic]’.
 
 > **“(7)** The Russian Federation bears international legal responsibility for its aggression against Ukraine and, under international law, must cease its internationally wrongful acts. Because of this breach of the prohibition on aggression under international law, the United States is legally entitled to take counter measures that are proportionate and aimed at inducing the Russian Federation to comply with its international obligations.
 
@@ -717,7 +717,7 @@ Pub. L. 118–50, div. F, Apr. 24, 2024, 138 Stat. 942, provided that:
 
 **Imposition of Sanctions With Respect to the Sale, Supply, or Transfer of Gold to or From Russia**
 
-Pub. L. 117–263, div. E, title LV, § 5590, Dec. 23, 2022, 136 Stat. 3380, provided that:
+Pub. L. 117–263, div. E, title LV, § 5590, Dec. 23, 2022, 136 Stat. 3380, provided that:
 
 > **“(a) Identification.—** Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2022], and periodically as necessary thereafter, the President—
 
@@ -943,7 +943,7 @@ Sec. 11. (a) Nothing in this order shall be construed to impair or otherwise aff
 
 Donald J. Trump.
 
-#### § 9522. Codification of sanctions relating to the Russian Federation
+#### § 9522. Codification of sanctions relating to the Russian Federation
 
 **(a) Codification**
 
@@ -975,7 +975,7 @@ United States sanctions provided for in Executive Order No. 13660 (79 Fed. Reg. 
 
 **(2)** a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014, and any successor agreements that are agreed to by the Government of Ukraine.
 
-(Pub. L. 115–44, title II, § 222, Aug. 2, 2017, 131 Stat. 906.)
+(Pub. L. 115–44, title II, § 222, Aug. 2, 2017, 131 Stat. 906.)
 
 **Editorial Notes**
 
@@ -999,7 +999,7 @@ This chapter, referred to in subsecs. (c)(1)(B) and (d)(1)(B), was in the origin
 
 **Isolate Russian Government Officials Act of 2022**
 
-Pub. L. 117–263, div. E, title LVII, § 5704, Dec. 23, 2022, 136 Stat. 3411, provided that:
+Pub. L. 117–263, div. E, title LVII, § 5704, Dec. 23, 2022, 136 Stat. 3411, provided that:
 
 > **“(a) Statement of Policy.—** It is the policy of the United States to seek to exclude government officials of the Russian Federation, to the maximum extent practicable, from participation in meetings, proceedings, and other activities of the following organizations:
 
@@ -1025,7 +1025,7 @@ Pub. L. 117–263, div. E, title LVII, § 5704, Dec. 23, 2022, 136 Stat. 3411,
 
 > **“(d) Waiver.—** The President may waive the application of this section if the President reports to the Congress that the waiver is in the national interest of the United States and includes an explanation of the reasons therefor.”
 
-#### § 9523. Modification of implementation of Executive Order No. 13662
+#### § 9523. Modification of implementation of Executive Order No. 13662
 
 **(a) Determination that certain entities are subject to sanctions**
 
@@ -1045,7 +1045,7 @@ Not later than 60 days after August 2, 2017, the Secretary of the Treasury shall
 
 **(2)** that involve any person determined to be subject to the directive or the property or interests in property of such a person who has a controlling interest or a substantial non-controlling ownership interest in such a project defined as not less than a 33 percent interest.
 
-(Pub. L. 115–44, title II, § 223, Aug. 2, 2017, 131 Stat. 907.)
+(Pub. L. 115–44, title II, § 223, Aug. 2, 2017, 131 Stat. 907.)
 
 **Editorial Notes**
 
@@ -1053,7 +1053,7 @@ Not later than 60 days after August 2, 2017, the Secretary of the Treasury shall
 
 Executive Order No. 13662, referred to in section catchline and text, is Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
-#### § 9524. Imposition of sanctions with respect to activities of the Russian Federation undermining cybersecurity
+#### § 9524. Imposition of sanctions with respect to activities of the Russian Federation undermining cybersecurity
 
 **(a) In general** On and after the date that is 60 days after August 2, 2017, the President shall—
 
@@ -1103,17 +1103,17 @@ In the case of an alien determined by the President to be subject to subsection 
 
 **(3)** significant denial of service activities.
 
-(Pub. L. 115–44, title II, § 224, Aug. 2, 2017, 131 Stat. 908.)
+(Pub. L. 115–44, title II, § 224, Aug. 2, 2017, 131 Stat. 908.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under section 9501 of this title and Tables.
 
-#### § 9525. Imposition of sanctions with respect to persons engaging in transactions with the intelligence or defense sectors of the Government of the Russian Federation
+#### § 9525. Imposition of sanctions with respect to persons engaging in transactions with the intelligence or defense sectors of the Government of the Russian Federation
 
 **(a) In general**
 
@@ -1201,7 +1201,7 @@ Not later than 60 days after August 2, 2017, the President shall issue regulatio
 
 A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (a) or any regulation, license, or order issued to carry out subsection (a) shall be subject to the penalties set forth in subsections (b) and (c) of section 1705 of title 50 to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
-(Pub. L. 115–44, title II, § 231, Aug. 2, 2017, 131 Stat. 916; Pub. L. 115–232, div. A, title XII, § 1294(a), Aug. 13, 2018, 132 Stat. 2085.)
+(Pub. L. 115–44, title II, § 231, Aug. 2, 2017, 131 Stat. 916; Pub. L. 115–232, div. A, title XII, § 1294(a), Aug. 13, 2018, 132 Stat. 2085.)
 
 **Editorial Notes**
 
@@ -1217,11 +1217,11 @@ This chapter, referred to in subsec. (b)(1)(B), was in the original “this titl
 
 **Construction**
 
-Pub. L. 115–232, div. A, title XII, § 1294(b), Aug. 13, 2018, 132 Stat. 2087, provided that: “Nothing in subsection (d) of section 231 of the Countering America’s Adversaries Through Sanctions Act (Public Law 115–44; 22 U.S.C. 9525), as added by subsection (a) of this section, shall be construed to modify, waive, or terminate any existing sanctions with respect to the Russian Federation, including any Russian person or entity, that are in effect on the date of the enactment of this Act [Aug. 13, 2018].”
+Pub. L. 115–232, div. A, title XII, § 1294(b), Aug. 13, 2018, 132 Stat. 2087, provided that: “Nothing in subsection (d) of section 231 of the Countering America’s Adversaries Through Sanctions Act (Public Law 115–44; 22 U.S.C. 9525), as added by subsection (a) of this section, shall be construed to modify, waive, or terminate any existing sanctions with respect to the Russian Federation, including any Russian person or entity, that are in effect on the date of the enactment of this Act [Aug. 13, 2018].”
 
 **Determination and Imposition of Sanctions With Respect to Turkey’s Acquisition of the S–400 Air Defense System**
 
-Pub. L. 116–283, div. A, title XII, § 1241, Jan. 1, 2021, 134 Stat. 3944, provided that:
+Pub. L. 116–283, div. A, title XII, § 1241, Jan. 1, 2021, 134 Stat. 3944, provided that:
 
 > **“(a) Sense of Congress.—** It is the sense of Congress that it is in the national security interest of the United States—
 
@@ -1265,7 +1265,7 @@ Pub. L. 116–283, div. A, title XII, § 1241, Jan. 1, 2021, 134 Stat. 3944, p
 
 **Exception Relating to Importation of Goods**
 
-Pub. L. 115–232, div. A, title XII, § 1294(d), Aug. 13, 2018, 132 Stat. 2088, provided that: “No provision affecting sanctions under this section [amending this section and enacting provisions set out as notes under this section] or an amendment made by this section shall apply to any portion of a sanction that affects the importation of goods.”
+Pub. L. 115–232, div. A, title XII, § 1294(d), Aug. 13, 2018, 132 Stat. 2088, provided that: “No provision affecting sanctions under this section [amending this section and enacting provisions set out as notes under this section] or an amendment made by this section shall apply to any portion of a sanction that affects the importation of goods.”
 
 **Executive Documents**
 
@@ -1283,7 +1283,7 @@ The Secretary of State is authorized and directed to publish this memorandum in 
 
 Donald J. Trump.
 
-#### § 9526. Sanctions with respect to the development of pipelines in the Russian Federation
+#### § 9526. Sanctions with respect to the development of pipelines in the Russian Federation
 
 **(a) In general** The President, in coordination with allies of the United States, may impose five or more of the sanctions described in section 9529 of this title with respect to a person if the President determines that the person knowingly, on or after August 2, 2017, makes an investment described in subsection (b) or sells, leases, or provides to the Russian Federation, for the construction of Russian energy export pipelines, goods, services, technology, information, or support described in subsection (c)—
 
@@ -1299,13 +1299,13 @@ An investment described in this subsection is an investment that directly and si
 
 Goods, services, technology, information, or support described in this subsection are goods, services, technology, information, or support that could directly and significantly facilitate the maintenance or expansion of the construction, modernization, or repair of energy export pipelines by the Russian Federation.
 
-(Pub. L. 115–44, title II, § 232, Aug. 2, 2017, 131 Stat. 917.)
+(Pub. L. 115–44, title II, § 232, Aug. 2, 2017, 131 Stat. 917.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Protecting Europe’s Energy Security**
 
-Pub. L. 116–92, div. F, title LXXV, Dec. 20, 2019, 133 Stat. 2300, as amended by Pub. L. 116–283, div. A, title XII, § 1242(a)–(e), Jan. 1, 2021, 134 Stat. 3945–3947, provided that:
+Pub. L. 116–92, div. F, title LXXV, Dec. 20, 2019, 133 Stat. 2300, as amended by Pub. L. 116–283, div. A, title XII, § 1242(a)–(e), Jan. 1, 2021, 134 Stat. 3945–3947, provided that:
 
 > **“SEC. 7501. SHORT TITLE.**
 
@@ -1467,7 +1467,7 @@ Pub. L. 116–92, div. F, title LXXV, Dec. 20, 2019, 133 Stat. 2300, as amended 
 
 > **“(C)** any person within the United States.”
 
-[Pub. L. 116–283, div. A, title XII, § 1242(f), Jan. 1, 2021, 134 Stat. 3947, provided that: “The President may not impose sanctions with respect to a person identified in the first report submitted under section 7503(a) of the Protecting Europe’s Energy Security Act of 2019 [set out above], as amended by this section, after the date of the enactment of this Act [Jan. 1, 2021] for operations subject to sanctions by reason of the amendments made by this section [amending section 7503 of Pub. L. 116–92, set out above] if the President certifies in that report that the person has, not later than 30 days after such date of enactment, engaged in good faith efforts to wind down such operations.” ]
+[Pub. L. 116–283, div. A, title XII, § 1242(f), Jan. 1, 2021, 134 Stat. 3947, provided that: “The President may not impose sanctions with respect to a person identified in the first report submitted under section 7503(a) of the Protecting Europe’s Energy Security Act of 2019 [set out above], as amended by this section, after the date of the enactment of this Act [Jan. 1, 2021] for operations subject to sanctions by reason of the amendments made by this section [amending section 7503 of Pub. L. 116–92, set out above] if the President certifies in that report that the person has, not later than 30 days after such date of enactment, engaged in good faith efforts to wind down such operations.” ]
 
 [Functions and authorities of President under sections 7503(d), (f), and (h) of Pub. L. 116–92, set out above, delegated to Secretary of State, in consultation with the Secretary of the Treasury, and under sections 7503(c) and (g) of Pub. L. 116–92 to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(a)(i)–(iii) and (b)(i), (ii) of Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, set out as a note under section 286yy of this title.]
 
@@ -1529,7 +1529,7 @@ Sec. 10. (a) Nothing in this order shall be construed to impair or otherwise aff
 
 J.R. Biden, Jr.
 
-#### § 9527. Sanctions with respect to investment in or facilitation of privatization of State-owned assets by the Russian Federation
+#### § 9527. Sanctions with respect to investment in or facilitation of privatization of State-owned assets by the Russian Federation
 
 **(a) In general** The President shall impose five or more of the sanctions described in section 9529 of this title if the President determines that a person, with actual knowledge, on or after August 2, 2017, makes an investment of $10,000,000 or more (or any combination of investments of not less than $1,000,000 each, which in the aggregate equals or exceeds $10,000,000 in any 12-month period), or facilitates such an investment, if the investment directly and significantly contributes to the ability of the Russian Federation to privatize state-owned assets in a manner that unjustly benefits—
 
@@ -1547,7 +1547,7 @@ J.R. Biden, Jr.
 
 **(2)** a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014, and any successor agreements that are agreed to by the Government of Ukraine.
 
-(Pub. L. 115–44, title II, § 233, Aug. 2, 2017, 131 Stat. 917.)
+(Pub. L. 115–44, title II, § 233, Aug. 2, 2017, 131 Stat. 917.)
 
 **Editorial Notes**
 
@@ -1555,7 +1555,7 @@ J.R. Biden, Jr.
 
 This chapter, referred to in subsec. (b)(1)(B), was in the original “this title”, meaning title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under section 9501 of this title and Tables.
 
-#### § 9528. Sanctions with respect to the transfer of arms and related materiel to Syria
+#### § 9528. Sanctions with respect to the transfer of arms and related materiel to Syria
 
 **(a) Imposition of sanctions**
 
@@ -1617,17 +1617,17 @@ The term “foreign person” has the meaning given such term in section 594.304
 
 The term “Syria” has the meaning given such term in section 542.316 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
 
-(Pub. L. 115–44, title II, § 234, Aug. 2, 2017, 131 Stat. 918.)
+(Pub. L. 115–44, title II, § 234, Aug. 2, 2017, 131 Stat. 918.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Arms Export Control Act, referred to in subsec. (a)(1)(D), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(1)(D), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-#### § 9529. Sanctions described
+#### § 9529. Sanctions described
 
 **(a) Sanctions described** The sanctions to be imposed with respect to a person under section 9524(a)(2), 9525(b), 9526(a), or 9527(a) of this title are the following:
 
@@ -1701,21 +1701,21 @@ The President may impose on the principal executive officer or officers of the s
 
 In this section, the term “sanctioned person” means a person subject to sanctions under section 9524(a)(2), 9525(b), 9526(a), or 9527(a) of this title.
 
-(Pub. L. 115–44, title II, § 235, Aug. 2, 2017, 131 Stat. 919.)
+(Pub. L. 115–44, title II, § 235, Aug. 2, 2017, 131 Stat. 919.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Export Administration Act of 1979, referred to in subsec. (a)(2)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in subsec. (a)(2)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
-The International Emergency Economic Powers Act, referred to in subsec. (a)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (a)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-The Arms Export Control Act, referred to in subsec. (a)(2)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(2)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (a)(2)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a)(2)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-#### § 9530. Exceptions, waiver, and termination
+#### § 9530. Exceptions, waiver, and termination
 
 **(a) Exceptions** The provisions of this part and amendments made by this part shall not apply with respect to the following:
 
@@ -1737,17 +1737,17 @@ Subject to section 9511 of this title, if the President imposes sanctions with r
 
 **(B)** the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under this part in the future.
 
-(Pub. L. 115–44, title II, § 236, Aug. 2, 2017, 131 Stat. 921.)
+(Pub. L. 115–44, title II, § 236, Aug. 2, 2017, 131 Stat. 921.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in text, is part 2 (§§ 221–238) of subtitle A of title II of Pub. L. 115–44, which enacted this part and sections 8909 and 8910 of this title and amended sections 8901, 8907, 8908, 8923, 8924 of this title. For complete classification of part 2 to the Code, see Tables.
+This part, referred to in text, is part 2 (§§ 221–238) of subtitle A of title II of Pub. L. 115–44, which enacted this part and sections 8909 and 8910 of this title and amended sections 8901, 8907, 8908, 8923, 8924 of this title. For complete classification of part 2 to the Code, see Tables.
 
-The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-#### § 9531. Exception relating to activities of the National Aeronautics and Space Administration
+#### § 9531. Exception relating to activities of the National Aeronautics and Space Administration
 
 **(a) In general**
 
@@ -1759,7 +1759,7 @@ This chapter and the amendments made by this Act shall not apply with respect to
 
 **(2)** any other non-Department of Defense customer.
 
-(Pub. L. 115–44, title II, § 237, Aug. 2, 2017, 131 Stat. 922.)
+(Pub. L. 115–44, title II, § 237, Aug. 2, 2017, 131 Stat. 922.)
 
 **Editorial Notes**
 
@@ -1767,7 +1767,7 @@ This chapter and the amendments made by this Act shall not apply with respect to
 
 This chapter, referred to in text, was in the original “This Act” and was translated as reading “This title”, meaning title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, known as the Countering Russian Influence in Europe and Eurasia Act of 2017, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under section 9501 of this title and Tables.
 
-#### § 9532. Rule of construction
+#### § 9532. Rule of construction
 
 Nothing in this part or the amendments made by this part shall be construed—
 
@@ -1775,17 +1775,17 @@ Nothing in this part or the amendments made by this part shall be construed—
 
 **(2)** to prohibit a contractor or subcontractor of the Department of Defense from acquiring components referred to in such section 1608.
 
-(Pub. L. 115–44, title II, § 238, Aug. 2, 2017, 131 Stat. 922.)
+(Pub. L. 115–44, title II, § 238, Aug. 2, 2017, 131 Stat. 922.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This part, referred to in text, is part 2 (§§ 221–238) of subtitle A of title II of Pub. L. 115–44, which enacted this part and sections 8909 and 8910 of this title and amended sections 8901, 8907, 8908, 8923, 8924 of this title. For complete classification of part 2 to the Code, see Tables.
+This part, referred to in text, is part 2 (§§ 221–238) of subtitle A of title II of Pub. L. 115–44, which enacted this part and sections 8909 and 8910 of this title and amended sections 8901, 8907, 8908, 8923, 8924 of this title. For complete classification of part 2 to the Code, see Tables.
 
 ## SUBCHAPTER II—COUNTERING RUSSIAN INFLUENCE IN EUROPE AND EURASIA
 
-### § 9541. Findings
+### § 9541. Findings
 
 Congress makes the following findings:
 
@@ -1805,9 +1805,9 @@ Congress makes the following findings:
 
 **(B)** failing to meet its obligations under the Treaty on Open Skies, done at Helsinki March 24, 1992, and entered into force January 1, 2002 (commonly known as the “Open Skies Treaty”).
 
-(Pub. L. 115–44, title II, § 251, Aug. 2, 2017, 131 Stat. 925.)
+(Pub. L. 115–44, title II, § 251, Aug. 2, 2017, 131 Stat. 925.)
 
-### § 9542. Sense of Congress
+### § 9542. Sense of Congress
 
 It is the sense of Congress that—
 
@@ -1851,9 +1851,9 @@ It is the sense of Congress that—
 
 **(B)** the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 115–44, title II, § 252, Aug. 2, 2017, 131 Stat. 926.)
+(Pub. L. 115–44, title II, § 252, Aug. 2, 2017, 131 Stat. 926.)
 
 **Editorial Notes**
 
@@ -1861,9 +1861,9 @@ It is the sense of Congress that—
 
 The Sergei Magnitsky Rule of Law Accountability Act of 2012, referred to in par. (10)(A), is title IV of Pub. L. 112–208, Dec. 14, 2012, 126 Stat. 1502, which is set out as a note under section 5811 of this title.
 
-The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B), is subtitle F (§§ 1261–1264) of title XII of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2533, which is classified generally to chapter 108 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10101 of this title and Tables.
+The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B), is subtitle F (§§ 1261–1264) of title XII of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2533, which is classified generally to chapter 108 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10101 of this title and Tables.
 
-### § 9543. Coordinating aid and assistance across Europe and Eurasia
+### § 9543. Coordinating aid and assistance across Europe and Eurasia
 
 **(a) Authorization of appropriations**
 
@@ -1955,15 +1955,15 @@ Nothing in this section shall be construed to apply to or limit United States fo
 
 In order to ensure that the United States Government is properly focused on combating corruption, improving rule of law, and building the capacity of civil society, media, and other nongovernmental organizations in countries described in subsection (b)(1), the Secretary of State shall establish a pilot program for Foreign Service officer positions focused on governance and anticorruption activities in such countries.
 
-(Pub. L. 115–44, title II, § 254, Aug. 2, 2017, 131 Stat. 928; Pub. L. 116–94, div. P, title XX, § 2004(d)(2), Dec. 20, 2019, 133 Stat. 3225.)
+(Pub. L. 115–44, title II, § 254, Aug. 2, 2017, 131 Stat. 928; Pub. L. 116–94, div. P, title XX, § 2004(d)(2), Dec. 20, 2019, 133 Stat. 3225.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 116–94, § 2004(d)(2)(A), substituted “fiscal years 2020, 2021, 2022, and 2023” for “fiscal years 2018 and 2019”.
+2019—Subsec. (a). Pub. L. 116–94, § 2004(d)(2)(A), substituted “fiscal years 2020, 2021, 2022, and 2023” for “fiscal years 2018 and 2019”.
 
-Subsec. (b)(7). Pub. L. 116–94, § 2004(d)(2)(B), added par. (7).
+Subsec. (b)(7). Pub. L. 116–94, § 2004(d)(2)(B), added par. (7).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1973,7 +1973,7 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 
 **Countering Russian Influence Fund Unit**
 
-Pub. L. 119–60, div. E, title I, § 5160, Dec. 18, 2025, 139 Stat. 1582, provided that:
+Pub. L. 119–60, div. E, title I, § 5160, Dec. 18, 2025, 139 Stat. 1582, provided that:
 
 > **“(a) Establishment.—** The Secretary [of State] shall establish and maintain a Countering Russian Influence Fund Unit (in this section referred to as the ‘CRIF Unit’) in the Bureau of European and Eurasian Affairs of the Department [of State].
 
@@ -2033,7 +2033,7 @@ Pub. L. 119–60, div. E, title I, § 5160, Dec. 18, 2025, 139 Stat. 1582, pro
 
 > **“(e) Termination.—** The CRIF Unit established under this section shall terminate on the date that is four years after the date of the enactment of this Act [Dec. 18, 2025].”
 
-### § 9544. Report on media organizations controlled and funded by the Government of the Russian Federation
+### § 9544. Report on media organizations controlled and funded by the Government of the Russian Federation
 
 **(a) In general**
 
@@ -2043,9 +2043,9 @@ Not later than 90 days after August 2, 2017, and annually thereafter, the Presid
 
 The report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
 
-(Pub. L. 115–44, title II, § 255, Aug. 2, 2017, 131 Stat. 930.)
+(Pub. L. 115–44, title II, § 255, Aug. 2, 2017, 131 Stat. 930.)
 
-### § 9545. Report on Russian Federation influence on elections in Europe and Eurasia
+### § 9545. Report on Russian Federation influence on elections in Europe and Eurasia
 
 **(a) In general**
 
@@ -2069,9 +2069,9 @@ Each report required by subsection (a) shall be submitted in unclassified form b
 
 **(B)** an entity organized under the laws of the Russian Federation or otherwise subject to the jurisdiction of the Government of the Russian Federation.
 
-(Pub. L. 115–44, title II, § 256, Aug. 2, 2017, 131 Stat. 930.)
+(Pub. L. 115–44, title II, § 256, Aug. 2, 2017, 131 Stat. 930.)
 
-### § 9546. Ukranian energy security
+### § 9546. Ukranian energy security
 
 **(a) Statement of policy** It is the policy of the United States—
 
@@ -2081,9 +2081,9 @@ Each report required by subsection (a) shall be submitted in unclassified form b
 
 **(3)** to never recognize the illegal annexation of Crimea by the Government of the Russian Federation or the separation of any portion of Ukrainian territory through the use of military force;
 
-**(4)** to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe and the Caucuses; 1
+**(4)** to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe and the Caucuses; 1
 
-<sup>1</sup>  So in original. Probably should be “Caucasus;”.
+<sup>1</sup> So in original. Probably should be “Caucasus;”.
 
 **(5)** to assist in promoting reform in regulatory oversight and operations in Ukraine’s energy sector, including the establishment and empowerment of an independent regulatory organization;
 
@@ -2175,13 +2175,13 @@ There is authorized to be appropriated for the Department of State a total of $3
 
 Nothing in this section shall be construed as affecting the responsibilities required and authorities provided under section 7 of the Ukraine Freedom Support Act of 2014 (22 U.S.C. 8926).
 
-(Pub. L. 115–44, title II, § 257, Aug. 2, 2017, 131 Stat. 931; Pub. L. 115–254, div. F, title VI, § 1470(t), Oct. 5, 2018, 132 Stat. 3519.)
+(Pub. L. 115–44, title II, § 257, Aug. 2, 2017, 131 Stat. 931; Pub. L. 115–254, div. F, title VI, § 1470(t), Oct. 5, 2018, 132 Stat. 3519.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Ukraine Freedom Support Act of 2014, referred to in subsec. (b)(3)(A), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
+The Ukraine Freedom Support Act of 2014, referred to in subsec. (b)(3)(A), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
 
 **Amendments**
 
@@ -2193,13 +2193,13 @@ The Ukraine Freedom Support Act of 2014, referred to in subsec. (b)(3)(A), is Pu
 
 Amendment by Pub. L. 115–254 effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress.
 
-### § 9547. Termination
+### § 9547. Termination
 
 The provisions of this subchapter shall terminate on the date that is 5 years after August 2, 2017.
 
-(Pub. L. 115–44, title II, § 258, Aug. 2, 2017, 131 Stat. 934.)
+(Pub. L. 115–44, title II, § 258, Aug. 2, 2017, 131 Stat. 934.)
 
-### § 9548. Appropriate congressional committees defined
+### § 9548. Appropriate congressional committees defined
 
 Except as otherwise provided, in this subchapter, the term “appropriate congressional committees” means—
 
@@ -2207,7 +2207,7 @@ Except as otherwise provided, in this subchapter, the term “appropriate congre
 
 **(2)** the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Armed Services, the Committee on Homeland Security, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(Pub. L. 115–44, title II, § 259, Aug. 2, 2017, 131 Stat. 934.)
+(Pub. L. 115–44, title II, § 259, Aug. 2, 2017, 131 Stat. 934.)
 
 ## SUBCHAPTER III—EUROPEAN ENERGY SECURITY AND DIVERSIFICATION
 
@@ -2217,7 +2217,7 @@ Except as otherwise provided, in this subchapter, the term “appropriate congre
 
 This subchapter was enacted as part of the European Energy Security and Diversification Act of 2019, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
 
-### § 9561. Definitions
+### § 9561. Definitions
 
 In this subchapter:
 
@@ -2241,7 +2241,7 @@ In this subchapter:
 
 The term “late-stage project support” includes debt financing, insurance, and transaction advisory services.
 
-(Pub. L. 116–94, div. P, title XX, § 2002, Dec. 20, 2019, 133 Stat. 3223.)
+(Pub. L. 116–94, div. P, title XX, § 2002, Dec. 20, 2019, 133 Stat. 3223.)
 
 **Editorial Notes**
 
@@ -2253,7 +2253,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
 
-### § 9562. Statement of policy
+### § 9562. Statement of policy
 
 **(a) Sense of Congress**
 
@@ -2269,7 +2269,7 @@ It is the sense of Congress that the United States has economic and national sec
 
 **(4)** to help facilitate the export of United States energy resources, technology, and expertise to global markets in a way that benefits the energy security of allies and partners of the United States, including in Europe and Eurasia.
 
-(Pub. L. 116–94, div. P, title XX, § 2003, Dec. 20, 2019, 133 Stat. 3223.)
+(Pub. L. 116–94, div. P, title XX, § 2003, Dec. 20, 2019, 133 Stat. 3223.)
 
 **Editorial Notes**
 
@@ -2277,7 +2277,7 @@ It is the sense of Congress that the United States has economic and national sec
 
 Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
 
-### § 9563. Prioritization of efforts and assistance for energy infrastructure projects in Europe and Eurasia
+### § 9563. Prioritization of efforts and assistance for energy infrastructure projects in Europe and Eurasia
 
 **(a) In general** In pursuing the policy described in section 9562 of this title, the Secretary of State, in consultation with the Secretary of Energy and the heads of other relevant United States agencies, shall, as appropriate, prioritize and expedite the efforts of the Department of State and those agencies in supporting the efforts of the European Commission and the governments of European and Eurasian countries to increase their energy security, including through—
 
@@ -2363,13 +2363,13 @@ Agencies described in subsection (a) that provide late-stage project support sha
 
 In this subsection, the terms “appropriate congressional committees” and “less developed country” have the meanings given those terms in section 9601 of this title.
 
-(Pub. L. 116–94, div. P, title XX, § 2004, Dec. 20, 2019, 133 Stat. 3223.)
+(Pub. L. 116–94, div. P, title XX, § 2004, Dec. 20, 2019, 133 Stat. 3223.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The BUILD Act, referred to in subsec. (e), probably means the BUILD Act of 2018, also known as the Better Utilization of Investments Leading to Development Act of 2018, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+The BUILD Act, referred to in subsec. (e), probably means the BUILD Act of 2018, also known as the Better Utilization of Investments Leading to Development Act of 2018, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 **Codification**
 
@@ -2391,7 +2391,7 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 J.R. Biden, Jr.
 
-### § 9564. Progress reports
+### § 9564. Progress reports
 
 Not later than one year after December 20, 2019, and annually thereafter, the President shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on progress made in providing assistance for projects under section 9563 of this title that includes—
 
@@ -2407,7 +2407,7 @@ Not later than one year after December 20, 2019, and annually thereafter, the Pr
 
 **(D)** an update on the progress made on the project as of the date of the report.
 
-(Pub. L. 116–94, div. P, title XX, § 2005, Dec. 20, 2019, 133 Stat. 3226.)
+(Pub. L. 116–94, div. P, title XX, § 2005, Dec. 20, 2019, 133 Stat. 3226.)
 
 **Editorial Notes**
 

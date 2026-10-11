@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—BILATERAL AND CLEARING ORGANIZATION NETTING
 
-### § 4401. Findings and purpose
+### § 4401. Findings and purpose
 
 The Congress finds that—
 
@@ -31,7 +31,7 @@ The Congress finds that—
 
 **(5)** the effectiveness of such netting procedures can be assured only if they are recognized as valid and legally binding in the event of the closing of a financial institution participating in the netting procedures.
 
-(Pub. L. 102–242, title IV, § 401, Dec. 19, 1991, 105 Stat. 2371.)
+(Pub. L. 102–242, title IV, § 401, Dec. 19, 1991, 105 Stat. 2371.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -39,7 +39,7 @@ The Congress finds that—
 
 If any provision of Pub. L. 102–242 or any application of any provision thereof to any person or circumstance is held invalid, the remainder of Pub. L. 102–242 and the application of any remaining provision of such Act to any other person or circumstance not to be affected by such holding, see section 481 of Pub. L. 102–242, set out as a note under section 1811 of this title.
 
-### § 4402. Definitions
+### § 4402. Definitions
 
 For purposes of this subchapter—
 
@@ -49,7 +49,7 @@ For purposes of this subchapter—
 
 **(B)** to the extent consistent with this title,1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 as determined by the Board of Governors of the Federal Reserve System, any company that is an affiliate of a company described in subparagraph (A) and that is engaged in the business of entering into netting contracts.
 
@@ -61,7 +61,7 @@ as determined by the Board of Governors of the Federal Reserve System, any compa
 
 **(ii)** which is registered as a clearing agency under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], or is exempt from such registration by order of the Securities and Exchange Commission; or
 
-**(B)** that is registered as a derivatives clearing organization under section 7a–1 of title 7, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 <sup>1</sup> of this title).
+**(B)** that is registered as a derivatives clearing organization under section 7a–1 of title 7, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 <sup>1</sup> of this title).
 
 **(3) Covered clearing obligation**
 
@@ -87,7 +87,7 @@ The term “covered clearing obligation” means an obligation of a member of a 
 
 **(C)** a branch or agency of a foreign bank, a foreign bank and any branch or agency of the foreign bank, or the foreign bank that established the branch or agency, as those terms are defined in section 1(b) of the International Banking Act of 1978 [12 U.S.C. 3101];
 
-**(D)** a corporation chartered under section 25(a) <sup>1</sup> of the Federal Reserve Act [12 U.S.C. 611 et seq.]; or
+**(D)** a corporation chartered under section 25(a) <sup>1</sup> of the Federal Reserve Act [12 U.S.C. 611 et seq.]; or
 
 **(E)** a corporation having an agreement or undertaking with the Board of Governors of the Federal Reserve System under section 25 of the Federal Reserve Act [12 U.S.C. 601 et seq.].
 
@@ -143,7 +143,7 @@ The term “netting contract” does not include any contract or agreement that 
 
 The term “payment” means a payment of United States dollars, another currency, or a composite currency, and a noncash delivery, including a payment or delivery to liquidate an unmatured obligation.
 
-(Pub. L. 102–242, title IV, § 402, Dec. 19, 1991, 105 Stat. 2372; Pub. L. 102–550, title XVI, § 1606(a), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 106–554, § 1(a)(5) [title I, §§ 112(a)(2), 123(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–391, 2763A–411; Pub. L. 109–8, title IX, § 906(a), Apr. 20, 2005, 119 Stat. 167.)
+(Pub. L. 102–242, title IV, § 402, Dec. 19, 1991, 105 Stat. 2372; Pub. L. 102–550, title XVI, § 1606(a), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 106–554, § 1(a)(5) [title I, §§ 112(a)(2), 123(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–391, 2763A–411; Pub. L. 109–8, title IX, § 906(a), Apr. 20, 2005, 119 Stat. 167.)
 
 **Editorial Notes**
 
@@ -151,37 +151,37 @@ The term “payment” means a payment of United States dollars, another currenc
 
 This title, referred to in par. (1)(B), means title IV of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2371. For complete classification of title IV to the Code, see Tables.
 
-The Securities Exchange Act of 1934, referred to in par. (2)(A)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in par. (2)(A)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-Section 4421 of this title, referred to in par. (2)(B), was repealed by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
+Section 4421 of this title, referred to in par. (2)(B), was repealed by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
 
-Section 25(a) of the Federal Reserve Act, referred to in par. (6), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title.
+Section 25(a) of the Federal Reserve Act, referred to in par. (6), which is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281. Section 25 of the Federal Reserve Act is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title.
 
 **Amendments**
 
-2005—Par. (2)(A)(ii). Pub. L. 109–8, § 906(a)(1)(A), inserted before semicolon “, or is exempt from such registration by order of the Securities and Exchange Commission”.
+2005—Par. (2)(A)(ii). Pub. L. 109–8, § 906(a)(1)(A), inserted before semicolon “, or is exempt from such registration by order of the Securities and Exchange Commission”.
 
-Par. (2)(B). Pub. L. 109–8, § 906(a)(1)(B), inserted before period at end “, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 of this title)”.
+Par. (2)(B). Pub. L. 109–8, § 906(a)(1)(B), inserted before period at end “, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 of this title)”.
 
-Par. (6)(B). Pub. L. 109–8, § 906(a)(2)(B), added subpar. (B). Former subpar. (B) redesignated (C).
+Par. (6)(B). Pub. L. 109–8, § 906(a)(2)(B), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Par. (6)(C). Pub. L. 109–8, § 906(a)(2)(A), (C), redesignated subpar. (B) as (C) and amended it generally. Prior to amendment, subpar. (C) read as follows: “a branch or agency as defined in section 1(b) of the International Banking Act of 1978;”. Former subpar. (C) redesignated (D).
+Par. (6)(C). Pub. L. 109–8, § 906(a)(2)(A), (C), redesignated subpar. (B) as (C) and amended it generally. Prior to amendment, subpar. (C) read as follows: “a branch or agency as defined in section 1(b) of the International Banking Act of 1978;”. Former subpar. (C) redesignated (D).
 
-Par. (6)(D), (E). Pub. L. 109–8, § 906(a)(2)(A), redesignated subpars. (C) and (D) as (D) and (E), respectively.
+Par. (6)(D), (E). Pub. L. 109–8, § 906(a)(2)(A), redesignated subpars. (C) and (D) as (D) and (E), respectively.
 
-Par. (11). Pub. L. 109–8, § 906(a)(3), inserted before period at end “and any other clearing organization with which such clearing organization has a netting contract”.
+Par. (11). Pub. L. 109–8, § 906(a)(3), inserted before period at end “and any other clearing organization with which such clearing organization has a netting contract”.
 
-Par. (14)(A)(i). Pub. L. 109–8, § 906(a)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “means a contract or agreement between 2 or more financial institutions or members, that—
+Par. (14)(A)(i). Pub. L. 109–8, § 906(a)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “means a contract or agreement between 2 or more financial institutions or members, that—
 
 “(I) is governed by the laws of the United States, any State, or any political subdivision of any State, and
 
 “(II) provides for netting present or future payment obligations or payment entitlements (including liquidation or close-out values relating to the obligations or entitlements) among the parties to the agreement; and”.
 
-Par. (15). Pub. L. 109–8, § 906(a)(5), added par. (15).
+Par. (15). Pub. L. 109–8, § 906(a)(5), added par. (15).
 
-2000—Pub. L. 106–554, § 1(a)(5) [title I, § 112(a)(2)], substituted “this subchapter” for “this chapter” in introductory provisions.
+2000—Pub. L. 106–554, § 1(a)(5) [title I, § 112(a)(2)], substituted “this subchapter” for “this chapter” in introductory provisions.
 
-Par. (2)(B). Pub. L. 106–554, § 1(a)(5) [title I, § 123(b)], added subpar. (B) and struck out former subpar. (B) which read as follows: “that performs clearing functions for a contract market designated pursuant to the Commodity Exchange Act.”
+Par. (2)(B). Pub. L. 106–554, § 1(a)(5) [title I, § 123(b)], added subpar. (B) and struck out former subpar. (B) which read as follows: “that performs clearing functions for a contract market designated pursuant to the Commodity Exchange Act.”
 
 1992—Par. (14)(B). Pub. L. 102–550 substituted “Federal law” for “Federal commodities law”.
 
@@ -195,7 +195,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 102–550 effective as if included in the Federal Deposit Insurance Corporation Improvement Act of 1991, Pub. L. 102–242, as of Dec. 19, 1991, see section 1609(a) of Pub. L. 102–550, set out as a note under section 191 of this title.
 
-### § 4403. Bilateral netting
+### § 4403. Bilateral netting
 
 **(a) General rule**
 
@@ -221,7 +221,7 @@ This section shall be given effect notwithstanding that a financial institution 
 
 The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 financial institutions shall be enforceable in accordance with their terms (except as provided in section 561(b)(2) of title 11), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than section 1821(e) of this title, section 1787(c) of this title, and section 78eee(b)(2) of title 15).
 
-(Pub. L. 102–242, title IV, § 403, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, § 906(b), Apr. 20, 2005, 119 Stat. 168; Pub. L. 109–390, § 4(a), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–203, title II, § 211(c), July 21, 2010, 124 Stat. 1514.)
+(Pub. L. 102–242, title IV, § 403, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, § 906(b), Apr. 20, 2005, 119 Stat. 168; Pub. L. 109–390, § 4(a), Dec. 12, 2006, 120 Stat. 2695; Pub. L. 111–203, title II, § 211(c), July 21, 2010, 124 Stat. 1514.)
 
 **Editorial Notes**
 
@@ -231,11 +231,11 @@ The provisions of any security agreement or arrangement or other credit enhancem
 
 2006—Subsec. (a). Pub. L. 109–390 struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)” and inserted “terminated, liquidated, accelerated, and” after “institutions shall be”.
 
-Subsec. (f). Pub. L. 109–390, § 4(a)(1), struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)”.
+Subsec. (f). Pub. L. 109–390, § 4(a)(1), struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)”.
 
-2005—Subsec. (a). Pub. L. 109–8, § 906(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Notwithstanding any other provision of law, the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract.”
+2005—Subsec. (a). Pub. L. 109–8, § 906(b)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Notwithstanding any other provision of law, the covered contractual payment obligations and the covered contractual payment entitlements between any 2 financial institutions shall be netted in accordance with, and subject to the conditions of, the terms of any applicable netting contract.”
 
-Subsec. (f). Pub. L. 109–8, § 906(b)(2), added subsec. (f).
+Subsec. (f). Pub. L. 109–8, § 906(b)(2), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -251,7 +251,7 @@ Amendment by Pub. L. 109–390 not applicable to any cases commenced under Title
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
-### § 4404. Clearing organization netting
+### § 4404. Clearing organization netting
 
 **(a) General rule**
 
@@ -285,7 +285,7 @@ This section shall be given effect notwithstanding that a member is a failed mem
 
 The provisions of any security agreement or arrangement or other credit enhancement related to one or more netting contracts between any 2 members of a clearing organization shall be enforceable in accordance with their terms (except as provided in section 561(b)(2) of title 11), and shall not be stayed, avoided, or otherwise limited by any State or Federal law (other than section 1821(e) of this title, section 1787(c) of this title, and section 78eee(b)(2) of title 15).
 
-(Pub. L. 102–242, title IV, § 404, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, § 906(c), Apr. 20, 2005, 119 Stat. 168; Pub. L. 109–390, § 4(b), Dec. 12, 2006, 120 Stat. 2695.)
+(Pub. L. 102–242, title IV, § 404, Dec. 19, 1991, 105 Stat. 2374; Pub. L. 109–8, title IX, § 906(c), Apr. 20, 2005, 119 Stat. 168; Pub. L. 109–390, § 4(b), Dec. 12, 2006, 120 Stat. 2695.)
 
 **Editorial Notes**
 
@@ -293,11 +293,11 @@ The provisions of any security agreement or arrangement or other credit enhancem
 
 2006—Subsec. (a). Pub. L. 109–390 struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)” and inserted “terminated, liquidated, accelerated, and” after “organization shall be”.
 
-Subsec. (h). Pub. L. 109–390, § 4(b)(1), struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)”.
+Subsec. (h). Pub. L. 109–390, § 4(b)(1), struck out “paragraphs (8)(E), (8)(F), and (10)(B) of” before “section 1821(e)” and “section 1787(c)”.
 
-2005—Subsec. (a). Pub. L. 109–8, § 906(c)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Notwithstanding any other provision of law, the covered contractual payment obligations and covered contractual payment entitlements of a member of a clearing organization to and from all other members of a clearing organization shall be netted in accordance with and subject to the conditions of any applicable netting contract.”
+2005—Subsec. (a). Pub. L. 109–8, § 906(c)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Notwithstanding any other provision of law, the covered contractual payment obligations and covered contractual payment entitlements of a member of a clearing organization to and from all other members of a clearing organization shall be netted in accordance with and subject to the conditions of any applicable netting contract.”
 
-Subsec. (h). Pub. L. 109–8, § 906(c)(2), added subsec. (h).
+Subsec. (h). Pub. L. 109–8, § 906(c)(2), added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -309,23 +309,23 @@ Amendment by Pub. L. 109–390 not applicable to any cases commenced under Title
 
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
-### § 4405. Preemption
+### § 4405. Preemption
 
 No stay, injunction, avoidance, moratorium, or similar proceeding or order, whether issued or granted by a court, administrative agency, or otherwise, shall limit or delay application of otherwise enforceable netting contracts in accordance with sections 4403 and 4404 of this title.
 
-(Pub. L. 102–242, title IV, § 405, Dec. 19, 1991, 105 Stat. 2375.)
+(Pub. L. 102–242, title IV, § 405, Dec. 19, 1991, 105 Stat. 2375.)
 
-### § 4406. Relationship to other payments systems
+### § 4406. Relationship to other payments systems
 
 This chapter shall have no effect by implication or otherwise on the validity or legal enforceability of a netting arrangement of any payment system which is not subject to this chapter.
 
-(Pub. L. 102–242, title IV, § 406, Dec. 19, 1991, 105 Stat. 2375.)
+(Pub. L. 102–242, title IV, § 406, Dec. 19, 1991, 105 Stat. 2375.)
 
-### § 4406a. Treatment of contracts with uninsured national banks, uninsured Federal branches and agencies, certain uninsured State member banks, and Edge Act corporations
+### § 4406a. Treatment of contracts with uninsured national banks, uninsured Federal branches and agencies, certain uninsured State member banks, and Edge Act corporations
 
-**(a) In general** Notwithstanding any other provision of law, paragraphs (8), (9), (10), and (11) of section 11(e) of the Federal Deposit Insurance Act [12 U.S.C. 1821(e)] shall apply to an uninsured national bank or uninsured Federal branch or Federal agency, a corporation chartered under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 1
+**(a) In general** Notwithstanding any other provision of law, paragraphs (8), (9), (10), and (11) of section 11(e) of the Federal Deposit Insurance Act [12 U.S.C. 1821(e)] shall apply to an uninsured national bank or uninsured Federal branch or Federal agency, a corporation chartered under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, except that for such purpose—
 
@@ -333,17 +333,17 @@ of this title, except that for such purpose—
 
 **(2)** any reference to the “Corporation” (other than in section 11(e)(8)(D) of such Act [12 U.S.C. 1821(e)(8)(D)]), the “Corporation, whether acting as such or as conservator or receiver”, a “receiver”, or a “conservator” shall refer to the receiver or conservator appointed by the Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency, or to the receiver or conservator appointed by the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.] or an uninsured State member bank; and
 
-**(3)** any reference to an “insured depository institution” or “depository institution” shall refer to an uninsured national bank, an uninsured Federal branch or Federal agency, a corporation chartered under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title.
+**(3)** any reference to an “insured depository institution” or “depository institution” shall refer to an uninsured national bank, an uninsured Federal branch or Federal agency, a corporation chartered under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title.
 
 **(b) Liability**
 
-The liability of a receiver or conservator of an uninsured national bank, uninsured Federal branch or agency, a corporation chartered under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title, shall be determined in the same manner and subject to the same limitations that apply to receivers and conservators of insured depository institutions under section 11(e) of the Federal Deposit Insurance Act [12 U.S.C. 1821(e)].
+The liability of a receiver or conservator of an uninsured national bank, uninsured Federal branch or agency, a corporation chartered under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.], or an uninsured State member bank which operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title, shall be determined in the same manner and subject to the same limitations that apply to receivers and conservators of insured depository institutions under section 11(e) of the Federal Deposit Insurance Act [12 U.S.C. 1821(e)].
 
 **(c) Regulatory authority**
 
 **(1) In general**
 
-The Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency and the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.], or an uninsured State member bank that operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title, in consultation with the Federal Deposit Insurance Corporation, may each promulgate regulations solely to implement this section.
+The Comptroller of the Currency in the case of an uninsured national bank or uninsured Federal branch or agency and the Board of Governors of the Federal Reserve System in the case of a corporation chartered under section 25A of the Federal Reserve Act [12 U.S.C. 611 et seq.], or an uninsured State member bank that operates, or operates as, a multilateral clearing organization pursuant to section 4422 <sup>1</sup> of this title, in consultation with the Federal Deposit Insurance Corporation, may each promulgate regulations solely to implement this section.
 
 **(2) Specific requirement**
 
@@ -353,19 +353,19 @@ In promulgating regulations, limited solely to implementing paragraphs (8), (9),
 
 For purposes of this section, the terms “Federal branch”, “Federal agency”, and “foreign bank” have the same meanings as in section 3101 of this title.
 
-(Pub. L. 102–242, title IV, § 407, as added Pub. L. 109–8, title IX, § 906(d)(2), Apr. 20, 2005, 119 Stat. 169.)
+(Pub. L. 102–242, title IV, § 407, as added Pub. L. 109–8, title IX, § 906(d)(2), Apr. 20, 2005, 119 Stat. 169.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 25A of the Federal Reserve Act, referred to in subsecs. (a), (b), and (c)(1), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 611 of this title and Tables.
+Section 25A of the Federal Reserve Act, referred to in subsecs. (a), (b), and (c)(1), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 611 of this title and Tables.
 
-Section 4422 of this title, referred to in subsecs. (a) to (c)(1), was repealed by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
+Section 4422 of this title, referred to in subsecs. (a) to (c)(1), was repealed by Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729.
 
 Section 11(e)(8)(D) of such Act, referred to in subsec. (a)(2), probably means section 11(e)(8)(D) of the Federal Deposit Insurance Act, which is classified to section 1821(e)(8)(D) of this title.
 
-The Federal Deposit Insurance Act, referred to in subsec. (c)(2), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (c)(2), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 **Prior Provisions**
 
@@ -377,30 +377,30 @@ A prior section 407 of Pub. L. 102–242 was renumbered section 407A and is clas
 
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under section 101 of Title 11.
 
-### § 4407. National emergencies
+### § 4407. National emergencies
 
 The provisions of this chapter may not be construed to limit the authority of the President under the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.) [now 50 U.S.C. 4301 et seq.] or the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.).
 
-(Pub. L. 102–242, title IV, § 407A, formerly § 407, Dec. 19, 1991, 105 Stat. 2375; renumbered § 407A, Pub. L. 109–8, title IX, § 906(d)(1), Apr. 20, 2005, 119 Stat. 169.)
+(Pub. L. 102–242, title IV, § 407A, formerly § 407, Dec. 19, 1991, 105 Stat. 2375; renumbered § 407A, Pub. L. 109–8, title IX, § 906(d)(1), Apr. 20, 2005, 119 Stat. 169.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Trading With the Enemy Act, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in text, is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The International Emergency Economic Powers Act, referred to in text, is Pub. L. 95–223, title II, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in text, is Pub. L. 95–223, title II, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 ## SUBCHAPTER II—MULTILATERAL CLEARING ORGANIZATIONS
 
-### §§ 4421, 4422. Repealed. Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729
+### §§ 4421, 4422. Repealed. Pub. L. 111–203, title VII, § 740, July 21, 2010, 124 Stat. 1729
 
-Section 4421, Pub. L. 102–242, title IV, § 408, as added Pub. L. 106–554, § 1(a)(5) [title I, § 112(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–391; amended Pub. L. 111–203, title VII, § 749(i), July 21, 2010, 124 Stat. 1748, defined terms used in this subchapter.
+Section 4421, Pub. L. 102–242, title IV, § 408, as added Pub. L. 106–554, § 1(a)(5) [title I, § 112(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–391; amended Pub. L. 111–203, title VII, § 749(i), July 21, 2010, 124 Stat. 1748, defined terms used in this subchapter.
 
-Section 4422, Pub. L. 102–242, title IV, § 409, as added Pub. L. 106–554, § 1(a)(5) [title I, § 112(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–392, related to multilateral clearing organizations.
+Section 4422, Pub. L. 102–242, title IV, § 409, as added Pub. L. 106–554, § 1(a)(5) [title I, § 112(a)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–392, related to multilateral clearing organizations.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 note under section 1a of Title 7, Agriculture.
+Repeal effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§ 711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 note under section 1a of Title 7, Agriculture.

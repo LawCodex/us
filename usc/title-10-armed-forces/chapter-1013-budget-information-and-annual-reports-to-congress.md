@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2015—Pub. L. 114–92, div. A, title X, § 1073(c)(2), Nov. 25, 2015, 129 Stat. 996, struck out item 10542 “Army National Guard combat readiness: annual report”.
+2015—Pub. L. 114–92, div. A, title X, § 1073(c)(2), Nov. 25, 2015, 129 Stat. 996, struck out item 10542 “Army National Guard combat readiness: annual report”.
 
-1996—Pub. L. 104–201, title XII, § 1257(a)(2), Sept. 23, 1996, 110 Stat. 2699, added item 10543.
+1996—Pub. L. 104–201, title XII, § 1257(a)(2), Sept. 23, 1996, 110 Stat. 2699, added item 10543.
 
-## § 10541. National Guard and reserve component equipment: annual report to Congress
+## § 10541. National Guard and reserve component equipment: annual report to Congress
 
 **(a)** The Secretary of Defense shall submit to the Congress each year, not later than March 15, a written report concerning the equipment of the National Guard and the reserve components of the armed forces for each of the three succeeding fiscal years.
 
@@ -91,25 +91,25 @@ retrieved: 2026-10-11
 
 **(C)** which has not been received by a National Guard unit as of the close of that fiscal year.
 
-(Added Pub. L. 101–510, div. A, title XIV, § 1483(a), Nov. 5, 1990, 104 Stat. 1714, § 115b; amended Pub. L. 102–484, div. A, title XI, § 1134, Oct. 23, 1992, 106 Stat. 2541; renumbered § 10541 and amended Pub. L. 103–337, div. A, title XVI, § 1661(d)(2), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 110–181, div. A, title III, § 351(a), title XVIII, § 1826, Jan. 28, 2008, 122 Stat. 70, 503; Pub. L. 112–81, div. A, title X, § 1070, Dec. 31, 2011, 125 Stat. 1592; Pub. L. 115–232, div. A, title I, § 111(a), title XII, § 1204(b)(1)(B), Aug. 13, 2018, 132 Stat. 1660, 2017.)
+(Added Pub. L. 101–510, div. A, title XIV, § 1483(a), Nov. 5, 1990, 104 Stat. 1714, § 115b; amended Pub. L. 102–484, div. A, title XI, § 1134, Oct. 23, 1992, 106 Stat. 2541; renumbered § 10541 and amended Pub. L. 103–337, div. A, title XVI, § 1661(d)(2), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 110–181, div. A, title III, § 351(a), title XVIII, § 1826, Jan. 28, 2008, 122 Stat. 70, 503; Pub. L. 112–81, div. A, title X, § 1070, Dec. 31, 2011, 125 Stat. 1592; Pub. L. 115–232, div. A, title I, § 111(a), title XII, § 1204(b)(1)(B), Aug. 13, 2018, 132 Stat. 1660, 2017.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 115(a)(2), (3) of this title, prior to repeal by Pub. L. 101–510, § 1483(a).
+Provisions similar to those in this section were contained in section 115(a)(2), (3) of this title, prior to repeal by Pub. L. 101–510, § 1483(a).
 
 **Amendments**
 
-2018—Subsec. (b)(9). Pub. L. 115–232, § 1204(b)(1)(B), substituted “sections 251, 252, 253,” for “sections 331, 332, 333,” in introductory provisions.
+2018—Subsec. (b)(9). Pub. L. 115–232, § 1204(b)(1)(B), substituted “sections 251, 252, 253,” for “sections 331, 332, 333,” in introductory provisions.
 
-Subsec. (b)(10). Pub. L. 115–232, § 111(a), added par. (10).
+Subsec. (b)(10). Pub. L. 115–232, § 111(a), added par. (10).
 
 2011—Subsec. (a). Pub. L. 112–81 substituted “March 15” for “February 15”.
 
-2008—Subsec. (b)(9). Pub. L. 110–181, § 351(a), added par. (9).
+2008—Subsec. (b)(9). Pub. L. 110–181, § 351(a), added par. (9).
 
-Subsec. (d). Pub. L. 110–181, § 1826, added subsec. (d).
+Subsec. (d). Pub. L. 110–181, § 1826, added subsec. (d).
 
 1994—Pub. L. 103–337 renumbered section 115b of this title as this section and substituted “National Guard and reserve component equipment: annual report to Congress” for “Annual report on National Guard and reserve component equipment” as section catchline.
 
@@ -119,21 +119,21 @@ Subsec. (d). Pub. L. 110–181, § 1826, added subsec. (d).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–232, div. A, title I, § 111(b), Aug. 13, 2018, 132 Stat. 1660, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to reports required to be submitted under section 10541 of title 10, United States Code, after the date of the enactment of this Act [Aug. 13, 2018].”
+Pub. L. 115–232, div. A, title I, § 111(b), Aug. 13, 2018, 132 Stat. 1660, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to reports required to be submitted under section 10541 of title 10, United States Code, after the date of the enactment of this Act [Aug. 13, 2018].”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–181, div. A, title III, § 351(c)(1), Jan. 28, 2008, 122 Stat. 70, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to reports submitted after the date of the enactment of this Act [Jan. 28, 2008].”
+Pub. L. 110–181, div. A, title III, § 351(c)(1), Jan. 28, 2008, 122 Stat. 70, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to reports submitted after the date of the enactment of this Act [Jan. 28, 2008].”
 
 **Effective Date of 1994 Amendment**
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-## [§ 10542. Repealed. Pub. L. 114–92, div. A, title X, § 1073(c)(1), Nov. 25, 2015, 129 Stat. 996]
+## [§ 10542. Repealed. Pub. L. 114–92, div. A, title X, § 1073(c)(1), Nov. 25, 2015, 129 Stat. 996]
 
-Section, added Pub. L. 103–160, div. A, title V, § 521(a), Nov. 30, 1993, 107 Stat. 1652, § 3082; renumbered § 10542 and amended Pub. L. 103–337, div. A, title XVI, § 1661(d)(3), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 104–106, div. A, title XV, § 1501(b)(8), Feb. 10, 1996, 110 Stat. 496; Pub. L. 104–201, div. A, title X, § 1074(a)(21), Sept. 23, 1996, 110 Stat. 2660, related to annual report on Army National Guard combat readiness.
+Section, added Pub. L. 103–160, div. A, title V, § 521(a), Nov. 30, 1993, 107 Stat. 1652, § 3082; renumbered § 10542 and amended Pub. L. 103–337, div. A, title XVI, § 1661(d)(3), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 104–106, div. A, title XV, § 1501(b)(8), Feb. 10, 1996, 110 Stat. 496; Pub. L. 104–201, div. A, title X, § 1074(a)(21), Sept. 23, 1996, 110 Stat. 2660, related to annual report on Army National Guard combat readiness.
 
-## § 10543. National Guard and reserve component equipment procurement and military construction funding: inclusion in future-years defense program
+## § 10543. National Guard and reserve component equipment procurement and military construction funding: inclusion in future-years defense program
 
 **(a) In General.—** The Secretary of Defense shall specify in each future-years defense program submitted to Congress under section 221 of this title the estimated expenditures and the proposed appropriations, for each fiscal year of the period covered by that program, for the procurement of equipment and for military construction for each of the reserve components of the armed forces.
 
@@ -155,7 +155,7 @@ Section, added Pub. L. 103–160, div. A, title V, § 521(a), Nov. 30, 1993, 1
 
 **(3)** A report required under paragraph (1) for a fiscal year shall be submitted not later than 90 days after the date on which the President submits to Congress the budget for such fiscal year under section 1105(a) of title 31.
 
-(Added Pub. L. 104–201, div. A, title XII, § 1257(a)(1), Sept. 23, 1996, 110 Stat. 2699; amended Pub. L. 105–85, div. A, title X, § 1009(a), Nov. 18, 1997, 111 Stat. 1872; Pub. L. 106–398, § 1 [[div. A], title IX, § 931], Oct. 30, 2000, 114 Stat. 1654, 1654A–237; Pub. L. 112–81, div. A, title X, § 1064(11), Dec. 31, 2011, 125 Stat. 1587.)
+(Added Pub. L. 104–201, div. A, title XII, § 1257(a)(1), Sept. 23, 1996, 110 Stat. 2699; amended Pub. L. 105–85, div. A, title X, § 1009(a), Nov. 18, 1997, 111 Stat. 1872; Pub. L. 106–398, § 1 [[div. A], title IX, § 931], Oct. 30, 2000, 114 Stat. 1654, 1654A–237; Pub. L. 112–81, div. A, title X, § 1064(11), Dec. 31, 2011, 125 Stat. 1587.)
 
 **Editorial Notes**
 
@@ -171,7 +171,7 @@ Section, added Pub. L. 103–160, div. A, title V, § 521(a), Nov. 30, 1993, 1
 
 **Effective Date**
 
-Pub. L. 104–201, div. A, title XII, § 1257(b), Sept. 23, 1996, 110 Stat. 2699, provided that: “Section 10543 of title 10, United States Code, as added by subsection (a), shall apply with respect to each future-years defense program submitted to Congress after the date of the enactment of this Act [Sept. 23, 1996].”
+Pub. L. 104–201, div. A, title XII, § 1257(b), Sept. 23, 1996, 110 Stat. 2699, provided that: “Section 10543 of title 10, United States Code, as added by subsection (a), shall apply with respect to each future-years defense program submitted to Congress after the date of the enactment of this Act [Sept. 23, 1996].”
 
 **Termination of Reporting Requirements**
 
@@ -179,4 +179,4 @@ For termination, effective Dec. 31, 2021, of provisions of this section requirin
 
 **Required Level of Detail**
 
-Pub. L. 105–85, div. A, title X, § 1009(b), Nov. 18, 1997, 111 Stat. 1872, provided that: “The level of detail provided for procurement and military construction in the future-years defense programs for fiscal years after fiscal year 1998 may not be less than the level of detail provided for procurement and military construction in the future-years defense program for fiscal year 1998.”
+Pub. L. 105–85, div. A, title X, § 1009(b), Nov. 18, 1997, 111 Stat. 1872, provided that: “The level of detail provided for procurement and military construction in the future-years defense programs for fiscal years after fiscal year 1998 may not be less than the level of detail provided for procurement and military construction in the future-years defense program for fiscal year 1998.”

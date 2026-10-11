@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 75—INTERNATIONAL CARRIAGE OF PERISHABLE FOODSTUFFS
 
-## § 4401. Congressional findings and declaration of purpose
+## § 4401. Congressional findings and declaration of purpose
 
 Congress hereby finds and declares that—
 
@@ -27,7 +27,7 @@ Congress hereby finds and declares that—
 
 **(4)** this chapter will improve the conditions for the movement of perishable foodstuffs in international carriage in equipment owned or operated by United States firms, which will serve to protect existing trade and promote expansion of trade in perishable foodstuffs, and will improve the sale of United States manufactured equipment for use in international carriage.
 
-(Pub. L. 97–325, § 2, Oct. 15, 1982, 96 Stat. 1603.)
+(Pub. L. 97–325, § 2, Oct. 15, 1982, 96 Stat. 1603.)
 
 **Editorial Notes**
 
@@ -39,9 +39,9 @@ This chapter, referred to in pars. (3) and (4), was in the original “this Act�
 
 **Short Title**
 
-Pub. L. 97–325, § 1, Oct. 15, 1982, 96 Stat. 1603, provided: “That this Act [enacting this chapter and section 2212c of this title, amending sections 5315 and 5316 of Title 5, Government Organization and Employees, repealing section 3 of Reorg. Plan No. 2 of 1953, and enacting provisions set out as a note under section 2212c of this title] may be cited as the ‘International Carriage of Perishable Foodstuffs Act’.”
+Pub. L. 97–325, § 1, Oct. 15, 1982, 96 Stat. 1603, provided: “That this Act [enacting this chapter and section 2212c of this title, amending sections 5315 and 5316 of Title 5, Government Organization and Employees, repealing section 3 of Reorg. Plan No. 2 of 1953, and enacting provisions set out as a note under section 2212c of this title] may be cited as the ‘International Carriage of Perishable Foodstuffs Act’.”
 
-## § 4402. Definitions
+## § 4402. Definitions
 
 As used in this chapter—
 
@@ -67,7 +67,7 @@ In the case of any transportation that involves one or more sea crossings other 
 
 **(6)** The term “United States” means the fifty States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
 
-(Pub. L. 97–325, § 3, Oct. 15, 1982, 96 Stat. 1603.)
+(Pub. L. 97–325, § 3, Oct. 15, 1982, 96 Stat. 1603.)
 
 **Editorial Notes**
 
@@ -75,7 +75,7 @@ In the case of any transportation that involves one or more sea crossings other 
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 97–325, Oct. 15, 1982, 96 Stat. 1603, known as the International Carriage of Perishable Foodstuffs Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4401 of this title and Tables.
 
-## § 4403. Duties of Secretary of Agriculture
+## § 4403. Duties of Secretary of Agriculture
 
 The Secretary of Agriculture of the United States shall be the competent authority to implement the agreement. To ensure compliance with the standards specified in the agreement, the Secretary of Agriculture may—
 
@@ -95,7 +95,7 @@ The Secretary of Agriculture of the United States shall be the competent authori
 
 **(8)** take such other action as may be considered appropriate to implement the agreement and administer this chapter.
 
-(Pub. L. 97–325, § 4, Oct. 15, 1982, 96 Stat. 1604.)
+(Pub. L. 97–325, § 4, Oct. 15, 1982, 96 Stat. 1604.)
 
 **Editorial Notes**
 
@@ -103,13 +103,13 @@ The Secretary of Agriculture of the United States shall be the competent authori
 
 This chapter, referred to in pars. (3) to (6) and (8), was in the original “this Act”, meaning Pub. L. 97–325, Oct. 15, 1982, 96 Stat. 1603, known as the International Carriage of Perishable Foodstuffs Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4401 of this title and Tables.
 
-## § 4404. Duties of Secretary of State
+## § 4404. Duties of Secretary of State
 
 The Secretary of State, with the concurrence of the Secretary of Agriculture, may take such action as may be considered appropriate to assert and protect the rights of the United States under the agreement.
 
-(Pub. L. 97–325, § 5, Oct. 15, 1982, 96 Stat. 1605.)
+(Pub. L. 97–325, § 5, Oct. 15, 1982, 96 Stat. 1605.)
 
-## § 4405. Fees and charges
+## § 4405. Fees and charges
 
 **(a) Testing or inspection**
 
@@ -119,7 +119,7 @@ Any organization designated by the Secretary of Agriculture to test or inspect e
 
 The Secretary of Agriculture may, effective October 1, 1982, fix and cause to be collected reasonable fees to cover, as nearly as practicable, the costs to the Department of Agriculture incurred in connection with the issuance of certificates of compliance as provided under section 4403(2) of this title. All fees collected shall be credited to the current appropriation account that incurs the cost and shall be available without fiscal year limitation to pay the expenses of the Secretary of Agriculture incident to the issuance of certificates of compliance under this chapter.
 
-(Pub. L. 97–325, § 6, Oct. 15, 1982, 96 Stat. 1605.)
+(Pub. L. 97–325, § 6, Oct. 15, 1982, 96 Stat. 1605.)
 
 **Editorial Notes**
 
@@ -127,11 +127,11 @@ The Secretary of Agriculture may, effective October 1, 1982, fix and cause to be
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 97–325, Oct. 15, 1982, 96 Stat. 1603, known as the International Carriage of Perishable Foodstuffs Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4401 of this title and Tables.
 
-## § 4406. Authorization of appropriations
+## § 4406. Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary of Agriculture for the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, such sums as are necessary to carry out the provisions of this chapter, but not to exceed $100,000 in any fiscal year.
 
-(Pub. L. 97–325, § 7, Oct. 15, 1982, 96 Stat. 1605.)
+(Pub. L. 97–325, § 7, Oct. 15, 1982, 96 Stat. 1605.)
 
 **Editorial Notes**
 

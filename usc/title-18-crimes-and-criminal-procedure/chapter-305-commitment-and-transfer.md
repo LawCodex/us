@@ -19,13 +19,13 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–294, title VI, § 601(f)(14), Oct. 11, 1996, 110 Stat. 3500, substituted “centers;” for “centers,” in item 4082.
+1996—Pub. L. 104–294, title VI, § 601(f)(14), Oct. 11, 1996, 110 Stat. 3500, substituted “centers;” for “centers,” in item 4082.
 
-1984—Pub. L. 98–473, title II, § 218(e), Oct. 12, 1984, 98 Stat. 2027, substituted “Repealed” for “Copy of commitment delivered with prisoner” in item 4084, and “Repealed” for “Transfer for state offense; expense” in item 4085.
+1984—Pub. L. 98–473, title II, § 218(e), Oct. 12, 1984, 98 Stat. 2027, substituted “Repealed” for “Copy of commitment delivered with prisoner” in item 4084, and “Repealed” for “Transfer for state offense; expense” in item 4085.
 
-1965—Pub. L. 89–176, § 2, Sept. 10, 1965, 79 Stat. 675, substituted “residential treatment centers, extension of limits of confinement; work furlough” for “transfer” in item 4082.
+1965—Pub. L. 89–176, § 2, Sept. 10, 1965, 79 Stat. 675, substituted “residential treatment centers, extension of limits of confinement; work furlough” for “transfer” in item 4082.
 
-## § 4081. Classification and treatment of prisoners
+## § 4081. Classification and treatment of prisoners
 
 The Federal penal and correctional institutions shall be so planned and limited in size as to facilitate the development of an integrated system which will assure the proper classification and segregation of Federal prisoners according to the nature of the offenses committed, the character and mental condition of the prisoners, and such other factors as should be considered in providing an individualized system of discipline, care, and treatment of the persons committed to such institutions.
 
@@ -33,13 +33,13 @@ The Federal penal and correctional institutions shall be so planned and limited 
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 907 (May 27, 1930, ch. 339, § 7, 46 Stat. 390).
+Based on title 18, U.S.C., 1940 ed., § 907 (May 27, 1930, ch. 339, § 7, 46 Stat. 390).
 
 Language of section is so changed as to make one policy for all institutions, thus clarifying the manifest intent of Congress.
 
 Minor changes were made in phraseology.
 
-## § 4082. Commitment to Attorney General; residential treatment centers; extension of limits of confinement; work furlough
+## § 4082. Commitment to Attorney General; residential treatment centers; extension of limits of confinement; work furlough
 
 **(a)** The willful failure of a prisoner to remain within the extended limits of his confinement, or to return within the time prescribed to an institution or facility designated by the Attorney General, shall be deemed an escape from the custody of the Attorney General punishable as provided in chapter 35 of this title.
 
@@ -67,11 +67,11 @@ the term “facility” shall include a residential community treatment center; 
 
 the term “relative” shall mean a spouse, child (including stepchild, adopted child or child as to whom the prisoner, though not a natural parent, has acted in the place of a parent), parent (including a person who, though not a natural parent, has acted in the place of a parent), brother, or sister.
 
-(June 25, 1948, ch. 645, 62 Stat. 850; Pub. L. 89–176, § 1, Sept. 10, 1965, 79 Stat. 674; Pub. L. 93–209, Dec. 28, 1973, 87 Stat. 907; Pub. L. 98–473, title II, § 218(a), Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–646, § 57(a), Nov. 10, 1986, 100 Stat. 3611.)
+(June 25, 1948, ch. 645, 62 Stat. 850; Pub. L. 89–176, § 1, Sept. 10, 1965, 79 Stat. 674; Pub. L. 93–209, Dec. 28, 1973, 87 Stat. 907; Pub. L. 98–473, title II, § 218(a), Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–646, § 57(a), Nov. 10, 1986, 100 Stat. 3611.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 753f (May 14, 1930, ch. 274, § 7, 46 Stat. 326; June 14, 1941, ch. 204, 55 Stat. 252; Oct. 21, 1941, ch. 453, 55 Stat. 743).
+Based on title 18, U.S.C., 1940 ed., § 753f (May 14, 1930, ch. 274, § 7, 46 Stat. 326; June 14, 1941, ch. 204, 55 Stat. 252; Oct. 21, 1941, ch. 453, 55 Stat. 743).
 
 Words “by the juvenile court of the District of Columbia, as well as to those committed by any court of the United States,” at end of section were omitted as unnecessary, and word “all” inserted before “persons”, without change of meaning.
 
@@ -129,7 +129,7 @@ Subsec. (f). Pub. L. 89–176 added subsec. (f).
 
 Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 4083. Penitentiary imprisonment; consent
+## § 4083. Penitentiary imprisonment; consent
 
 Persons convicted of offenses against the United States or by courts-martial punishable by imprisonment for more than one year may be confined in any United States penitentiary.
 
@@ -139,7 +139,7 @@ A sentence for an offense punishable by imprisonment for one year or less shall 
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 753f, 762 (Mar. 2, 1895, ch. 189, § 1, 28 Stat. 957; June 10, 1896, ch. 400, § 1, 29 Stat. 380; May 14, 1930, ch. 274, § 7, 46 Stat. 326; June 14, 1941, ch. 204, 55 Stat. 252; Oct. 21, 1941, ch. 453, 55 Stat. 743).
+Based on title 18, U.S.C., 1940 ed., §§ 753f, 762 (Mar. 2, 1895, ch. 189, § 1, 28 Stat. 957; June 10, 1896, ch. 400, § 1, 29 Stat. 380; May 14, 1930, ch. 274, § 7, 46 Stat. 326; June 14, 1941, ch. 204, 55 Stat. 252; Oct. 21, 1941, ch. 453, 55 Stat. 743).
 
 Said section 762 was condensed and simplified and extended to all penitentiaries instead of to Leavenworth only, since the section is merely declaratory of existing law. (See section 1 of this title classifying offenses and notes thereunder.)
 
@@ -153,7 +153,7 @@ Minor changes of phraseology were made.
 
 1959—Pub. L. 86–256 substituted “punishable by imprisonment for” for “and sentenced to terms of imprisonment of” in first sentence.
 
-## [§§ 4084, 4085. Repealed. Pub. L. 98–473, title II, § 218(a)(3), Oct. 12, 1984, 98 Stat. 2027]
+## [§§ 4084, 4085. Repealed. Pub. L. 98–473, title II, § 218(a)(3), Oct. 12, 1984, 98 Stat. 2027]
 
 Section 4084, act June 25, 1948, ch. 645, 62 Stat. 850, related to delivery of prisoner with copy of commitment.
 
@@ -165,7 +165,7 @@ Section 4085, act June 25, 1948, ch. 645, 62 Stat. 850, related to authority, ex
 
 Repeal effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
-## § 4086. Temporary safe-keeping of federal offenders by marshals
+## § 4086. Temporary safe-keeping of federal offenders by marshals
 
 United States marshals shall provide for the safe-keeping of any person arrested, or held under authority of any enactment of Congress pending commitment to an institution.
 
@@ -173,7 +173,7 @@ United States marshals shall provide for the safe-keeping of any person arrested
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 691, 692, (R.S. §§ 5537, 5538).
+Based on title 18, U.S.C., 1940 ed., §§ 691, 692, (R.S. §§ 5537, 5538).
 
 Said section 691 of title 18, U.S.C., 1940 ed., is superseded by sections 753b and 753c of title 18, U.S.C., 1940 ed., which are incorporated in sections 4002, 4003 and 4042 of this title.
 

@@ -13,7 +13,7 @@ retrieved: 2026-10-11
 
 # Title 8—ALIENS AND NATIONALITY
 
-Current through 119-102not101
+Current through 119-102not101
 
 - [CHAPTER 1—GENERAL PROVISIONS](chapter-001-general-provisions.md)
 

@@ -19,41 +19,41 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Rehabilitation Certificates, was repealed by Pub. L. 90–83, § 3(2), Sept. 11, 1967, 81 Stat. 220.
+A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Rehabilitation Certificates, was repealed by Pub. L. 90–83, § 3(2), Sept. 11, 1967, 81 Stat. 220.
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title V, §§ 543(b), 544(b), Dec. 27, 2021, 135 Stat. 1710, 1711, added items 1561 and 1562a and struck out former item 1561 “Complaints of sexual harassment: investigation by commanding officers”.
+2021—Pub. L. 117–81, div. A, title V, §§ 543(b), 544(b), Dec. 27, 2021, 135 Stat. 1710, 1711, added items 1561 and 1562a and struck out former item 1561 “Complaints of sexual harassment: investigation by commanding officers”.
 
-Pub. L. 116–283, div. A, title V, §§ 523(c), 532(a)(2), Jan. 1, 2021, 134 Stat. 3599, 3602, added items 1561b, 1563, and 1563a and struck out former item 1563 “Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review”. Item 1561b was added after item 1561a to reflect the probable intent of Congress, notwithstanding directory language adding it after item 1561b.
+Pub. L. 116–283, div. A, title V, §§ 523(c), 532(a)(2), Jan. 1, 2021, 134 Stat. 3599, 3602, added items 1561b, 1563, and 1563a and struck out former item 1563 “Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review”. Item 1561b was added after item 1561a to reflect the probable intent of Congress, notwithstanding directory language adding it after item 1561b.
 
-2018—Pub. L. 115–232, div. A, title XVI, § 1622(b), Aug. 13, 2018, 132 Stat. 2118, added item 1564b.
+2018—Pub. L. 115–232, div. A, title XVI, § 1622(b), Aug. 13, 2018, 132 Stat. 2118, added item 1564b.
 
-2011—Pub. L. 112–81, div. A, title V, § 581(b)(2), Dec. 31, 2011, 125 Stat. 1431, added item 1565b.
+2011—Pub. L. 112–81, div. A, title V, § 581(b)(2), Dec. 31, 2011, 125 Stat. 1431, added item 1565b.
 
-2009—Pub. L. 111–84, div. A, title V, § 583(b)(2), Oct. 28, 2009, 123 Stat. 2330, added item 1566a.
+2009—Pub. L. 111–84, div. A, title V, § 583(b)(2), Oct. 28, 2009, 123 Stat. 2330, added item 1566a.
 
-2008—Pub. L. 110–417, [div. A], title V, §§ 561(b), 562(b), Oct. 14, 2008, 122 Stat. 4470, added items 1567 and 1567a.
+2008—Pub. L. 110–417, [div. A], title V, §§ 561(b), 562(b), Oct. 14, 2008, 122 Stat. 4470, added items 1567 and 1567a.
 
-2003—Pub. L. 108–136, div. A, title X, §§ 1031(a)(11)(B), 1041(a)(2), Nov. 24, 2003, 117 Stat. 1597, 1608, struck out “and recommendation” after “review” in item 1563 and added item 1564a.
+2003—Pub. L. 108–136, div. A, title X, §§ 1031(a)(11)(B), 1041(a)(2), Nov. 24, 2003, 117 Stat. 1597, 1608, struck out “and recommendation” after “review” in item 1563 and added item 1564a.
 
-2002—Pub. L. 107–314, div. A, title X, § 1063(b), Dec. 2, 2002, 116 Stat. 2653, added item 1565a.
+2002—Pub. L. 107–314, div. A, title X, § 1063(b), Dec. 2, 2002, 116 Stat. 2653, added item 1565a.
 
-Pub. L. 107–311, § 2(b), Dec. 2, 2002, 116 Stat. 2455, added item 1561a.
+Pub. L. 107–311, § 2(b), Dec. 2, 2002, 116 Stat. 2455, added item 1561a.
 
-2001—Pub. L. 107–107, div. A, title XVI, § 1602(a)(2), Dec. 28, 2001, 115 Stat. 1276, added item 1566.
+2001—Pub. L. 107–107, div. A, title XVI, § 1602(a)(2), Dec. 28, 2001, 115 Stat. 1276, added item 1566.
 
-2000—Pub. L. 106–546, § 5(a)(2), Dec. 19, 2000, 114 Stat. 2732, added item 1565.
+2000—Pub. L. 106–546, § 5(a)(2), Dec. 19, 2000, 114 Stat. 2732, added item 1565.
 
-Pub. L. 106–398, § 1 [[div. A], title V, § 542(b), title X, § 1072(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–115, 1654A–277, added items 1563 and 1564.
+Pub. L. 106–398, § 1 [[div. A], title V, § 542(b), title X, § 1072(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–115, 1654A–277, added items 1563 and 1564.
 
-1999—Pub. L. 106–65, div. A, title V, § 594(b), Oct. 5, 1999, 113 Stat. 644, added item 1562.
+1999—Pub. L. 106–65, div. A, title V, § 594(b), Oct. 5, 1999, 113 Stat. 644, added item 1562.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Establishment of Procedure of the Department of Defense To Determine Certain Complaints or Requests Regarding Public Displays or Public Expressions of Religion on Property of the Department**
 
-Pub. L. 118–31, div. A, title X, § 1049, Dec. 22, 2023, 137 Stat. 393, provided that:
+Pub. L. 118–31, div. A, title X, § 1049, Dec. 22, 2023, 137 Stat. 393, provided that:
 
 > **“(a) Establishment.—** Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall prescribe regulations that establish the procedure for the timely determination of a covered complaint or request regarding a public display or public expression of religion on property of the Department of Defense. Such regulations shall ensure that—
 
@@ -105,7 +105,7 @@ Pub. L. 118–31, div. A, title X, § 1049, Dec. 22, 2023, 137 Stat. 393, prov
 
 **Annual Primary Prevention Research Agenda**
 
-Pub. L. 117–81, div. A, title V, § 549A, Dec. 27, 2021, 135 Stat. 1721, as amended by Pub. L. 117–263, div. A, title V, § 547(a), Dec. 23, 2022, 136 Stat. 2585, provided that:
+Pub. L. 117–81, div. A, title V, § 549A, Dec. 27, 2021, 135 Stat. 1721, as amended by Pub. L. 117–263, div. A, title V, § 547(a), Dec. 23, 2022, 136 Stat. 2585, provided that:
 
 > **“(a) In General.—** Beginning on October 1, 2022, and annually on the first day of each fiscal year thereafter, the Secretary of Defense shall publish a Department of Defense research agenda for that fiscal year, focused on the primary prevention of interpersonal and self-directed violence, including sexual assault, sexual harassment, domestic violence, child abuse and maltreatment, problematic juvenile sexual behavior, suicide, workplace violence, and substance misuse.
 
@@ -145,7 +145,7 @@ Pub. L. 117–81, div. A, title V, § 549A, Dec. 27, 2021, 135 Stat. 1721, as 
 
 **Multidisciplinary Board To Evaluate Suicide Events**
 
-Pub. L. 116–283, div. A, title V, § 549A, Jan. 1, 2021, 134 Stat. 3620, provided that:
+Pub. L. 116–283, div. A, title V, § 549A, Jan. 1, 2021, 134 Stat. 3620, provided that:
 
 > **“(a) Guidance Required.—** The Secretary of Defense shall issue guidance that requires each suicide event involving of a member of a covered Armed Force to be reviewed by a multidisciplinary board established at the command or installation level, or by the Chief of the covered Armed Force. Such guidance shall require that, for each suicide event reviewed by such a board, the board shall—
 
@@ -163,7 +163,7 @@ Pub. L. 116–283, div. A, title V, § 549A, Jan. 1, 2021, 134 Stat. 3620, pro
 
 **Increase in Number of Digital Forensic Examiners for Certain Military Criminal Investigative Organizations**
 
-Pub. L. 116–92, div. A, title V, § 539, Dec. 20, 2019, 133 Stat. 1364, provided that:
+Pub. L. 116–92, div. A, title V, § 539, Dec. 20, 2019, 133 Stat. 1364, provided that:
 
 > **“(a) In General.—** Each Secretary of a military department shall take appropriate actions to increase the number of digital forensic examiners in each military criminal investigative organization specified in subsection (b) under the jurisdiction of such Secretary by not fewer than 10 from the authorized number of such examiners for such organization as of September 30, 2019.
 
@@ -179,7 +179,7 @@ Pub. L. 116–92, div. A, title V, § 539, Dec. 20, 2019, 133 Stat. 1364, prov
 
 **Increase in Investigative Personnel and Victim Witness Assistance Program Liaisons**
 
-Pub. L. 116–92, div. A, title V, § 540, Dec. 20, 2019, 133 Stat. 1364, provided that:
+Pub. L. 116–92, div. A, title V, § 540, Dec. 20, 2019, 133 Stat. 1364, provided that:
 
 > **“(a) Military Criminal Investigative Services.—** Not later than one year after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of each military department shall increase the number of personnel assigned to the military criminal investigative services of the department with the goal of ensuring, to the extent practicable, that the investigation of any sex-related offense is completed not later than six months after the date on which the investigation is initiated. An investigation shall be considered completed for purposes of the preceding sentence when the active phase of the investigation is sufficiently complete to enable the appropriate authority to reach a decision with respect to the disposition of charges for the sex-related offense.
 
@@ -189,7 +189,7 @@ Pub. L. 116–92, div. A, title V, § 540, Dec. 20, 2019, 133 Stat. 1364, prov
 
 **Enhancing the Capability of Military Criminal Investigative Organizations To Prevent and Combat Child Sexual Exploitation**
 
-Pub. L. 116–92, div. A, title V, § 550D, Dec. 20, 2019, 133 Stat. 1383, as amended by Pub. L. 118–31, div. A, title V, § 534, Dec. 22, 2023, 137 Stat. 262, provided that:
+Pub. L. 116–92, div. A, title V, § 550D, Dec. 20, 2019, 133 Stat. 1383, as amended by Pub. L. 118–31, div. A, title V, § 534, Dec. 22, 2023, 137 Stat. 262, provided that:
 
 > **“(a) In General.—** Beginning not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall establish and carry out an initiative to enhance the capability of military criminal investigative organizations to prevent and combat child sexual exploitation.
 
@@ -223,7 +223,7 @@ Pub. L. 116–92, div. A, title V, § 550D, Dec. 20, 2019, 133 Stat. 1383, as 
 
 **Multidisciplinary Teams for Military Installations on Child Abuse and Other Domestic Violence**
 
-Pub. L. 115–232, div. A, title V, § 577, Aug. 13, 2018, 132 Stat. 1781, provided that:
+Pub. L. 115–232, div. A, title V, § 577, Aug. 13, 2018, 132 Stat. 1781, provided that:
 
 > **“(a) Multidisciplinary Teams Required.—**
 
@@ -283,7 +283,7 @@ Pub. L. 115–232, div. A, title V, § 577, Aug. 13, 2018, 132 Stat. 1781, pro
 
 > **“(2) Usage with respect to multiple installations.—** For purposes of this section, any reference to ‘Secretary concerned’ with respect to a single multidisciplinary team established and maintained pursuant to subsection (a) for two or more military installations that are under the jurisdiction of different Secretaries concerned, shall be deemed to refer to each Secretary concerned who has jurisdiction of such an installation, acting jointly.”
 
-## § 1561. Complaints of sexual harassment: independent investigation
+## § 1561. Complaints of sexual harassment: independent investigation
 
 **(a) Action on Complaints Alleging Sexual Harassment.—** A commanding officer or officer in charge of a unit, vessel, facility, or area of the Army, Navy, Air Force, Marine Corps, or Space Force who receives from a member of the command or a civilian employee under the supervision of the officer a formal complaint alleging a claim of sexual harassment by a member of the armed forces or a civilian employee of the Department of Defense shall, to the extent practicable, direct that an independent investigation of the matter be carried out in accordance with this section.
 
@@ -319,13 +319,13 @@ Pub. L. 115–232, div. A, title V, § 577, Aug. 13, 2018, 132 Stat. 1781, pro
 
 **(2)** The term “sexual harassment” means conduct that constitutes the offense of sexual harassment as punishable under section 934 of this title (article 134) pursuant to the regulations prescribed by the Secretary of Defense for purposes of such section (article).
 
-(Added Pub. L. 105–85, div. A, title V, § 591(a)(1), Nov. 18, 1997, 111 Stat. 1760; amended Pub. L. 114–328, div. A, title V, § 548(a), Dec. 23, 2016, 130 Stat. 2129; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(Z), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 117–81, div. A, title V, § 543(a), Dec. 27, 2021, 135 Stat. 1709; Pub. L. 117–263, div. A, title V, § 546(a), Dec. 23, 2022, 136 Stat. 2584.)
+(Added Pub. L. 105–85, div. A, title V, § 591(a)(1), Nov. 18, 1997, 111 Stat. 1760; amended Pub. L. 114–328, div. A, title V, § 548(a), Dec. 23, 2016, 130 Stat. 2129; Pub. L. 116–283, div. A, title IX, § 924(b)(3)(Z), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 117–81, div. A, title V, § 543(a), Dec. 27, 2021, 135 Stat. 1709; Pub. L. 117–263, div. A, title V, § 546(a), Dec. 23, 2022, 136 Stat. 2584.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Prior sections 1571 to 1577, Pub. L. 89–690, § 1, Oct. 15, 1966, 80 Stat. 1016, related to creation of Exemplary Rehabilitation Certificates to be issued by the Secretary of Labor to persons discharged or dismissed from the Armed Forces under conditions other than honorable or to persons who had received a general discharge but who had established that they had rehabilitated themselves and established the administrative and other authority in connection therewith, prior to repeal by Pub. L. 90–83, § 3(2), Sept. 11, 1967, 81 Stat. 220.
+Prior sections 1571 to 1577, Pub. L. 89–690, § 1, Oct. 15, 1966, 80 Stat. 1016, related to creation of Exemplary Rehabilitation Certificates to be issued by the Secretary of Labor to persons discharged or dismissed from the Armed Forces under conditions other than honorable or to persons who had received a general discharge but who had established that they had rehabilitated themselves and established the administrative and other authority in connection therewith, prior to repeal by Pub. L. 90–83, § 3(2), Sept. 11, 1967, 81 Stat. 220.
 
 **Amendments**
 
@@ -335,21 +335,21 @@ Prior sections 1571 to 1577, Pub. L. 89–690, § 1, Oct. 15, 1966, 80 Stat. 1
 
 Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
-2016—Subsec. (e)(1). Pub. L. 114–328, § 548(a)(1)(A), in introductory provisions, struck out “(constituting a form of sex discrimination)” after “Conduct”.
+2016—Subsec. (e)(1). Pub. L. 114–328, § 548(a)(1)(A), in introductory provisions, struck out “(constituting a form of sex discrimination)” after “Conduct”.
 
-Subsec. (e)(1)(B). Pub. L. 114–328, § 548(a)(1)(B), substituted “the environment” for “the work environment”.
+Subsec. (e)(1)(B). Pub. L. 114–328, § 548(a)(1)(B), substituted “the environment” for “the work environment”.
 
-Subsec. (e)(3). Pub. L. 114–328, § 548(a)(2), struck out “in the workplace” after “of a sexual nature”.
+Subsec. (e)(3). Pub. L. 114–328, § 548(a)(2), struck out “in the workplace” after “of a sexual nature”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2022 Amendment**
 
-Pub. L. 117–263, div. A, title V, § 546(b), Dec. 23, 2022, 136 Stat. 2585, provided that: “The amendment made by subsection (a) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 543 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1709) [amending this section and the analysis for this chapter] as provided in subsection (c) of that section.”
+Pub. L. 117–263, div. A, title V, § 546(b), Dec. 23, 2022, 136 Stat. 2585, provided that: “The amendment made by subsection (a) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 543 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1709) [amending this section and the analysis for this chapter] as provided in subsection (c) of that section.”
 
 **Effective Date of 2021 Amendment**
 
-Pub. L. 117–81, div. A, title V, § 543(c), Dec. 27, 2021, 135 Stat. 1710, provided that:
+Pub. L. 117–81, div. A, title V, § 543(c), Dec. 27, 2021, 135 Stat. 1710, provided that:
 
 > “The amendments made by subsections (a) and (b) [amending this section and the analysis for this chapter] shall—
 
@@ -359,19 +359,19 @@ Pub. L. 117–81, div. A, title V, § 543(c), Dec. 27, 2021, 135 Stat. 1710, p
 
 **Effective Date of 2016 Amendment**
 
-Pub. L. 114–328, div. A, title V, § 548(b), Dec. 23, 2016, 130 Stat. 2129, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 23, 2016], and shall apply with respect to complaints described in section 1561 of title 10, United States Code, that are first received by a commanding officer or officer in charge on or after that date.”
+Pub. L. 114–328, div. A, title V, § 548(b), Dec. 23, 2016, 130 Stat. 2129, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 23, 2016], and shall apply with respect to complaints described in section 1561 of title 10, United States Code, that are first received by a commanding officer or officer in charge on or after that date.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–311, § 1, Dec. 2, 2002, 116 Stat. 2455, provided that: “This Act [enacting section 1561a of this title] may be cited as the ‘Armed Forces Domestic Security Act’.”
+Pub. L. 107–311, § 1, Dec. 2, 2002, 116 Stat. 2455, provided that: “This Act [enacting section 1561a of this title] may be cited as the ‘Armed Forces Domestic Security Act’.”
 
 **Regulations**
 
-Pub. L. 117–81, div. A, title V, § 543(d), Dec. 27, 2021, 135 Stat. 1710, provided that: “Not later than 18 months after the date of the enactment of this Act [Dec. 27, 2021] the Secretary of Defense shall prescribe regulations providing for the implementation of section 1561 of title 10, United States Code, as amended by subsection (a).”
+Pub. L. 117–81, div. A, title V, § 543(d), Dec. 27, 2021, 135 Stat. 1710, provided that: “Not later than 18 months after the date of the enactment of this Act [Dec. 27, 2021] the Secretary of Defense shall prescribe regulations providing for the implementation of section 1561 of title 10, United States Code, as amended by subsection (a).”
 
 **Authority To Provide Sexual Assault Medical Forensic Examinations On a Nonreimbursable Basis to Certain Otherwise Ineligible Individuals**
 
-Pub. L. 119–60, div. A, title VII, § 702, Dec. 18, 2025, 139 Stat. 918, provided that:
+Pub. L. 119–60, div. A, title VII, § 702, Dec. 18, 2025, 139 Stat. 918, provided that:
 
 > **“(a) Authority to Provide Forensic Examinations.—** The Secretary of Defense, in accordance with regulations prescribed by the Secretary, shall authorize medical personnel of the Department of Defense to provide sexual assault medical forensic examinations, in a military medical treatment facility on a nonreimbursable basis, to an individual who—
 
@@ -385,7 +385,7 @@ Pub. L. 119–60, div. A, title VII, § 702, Dec. 18, 2025, 139 Stat. 918, pro
 
 **Policy on Inclusion of Race and Ethnicity in Annual Reports on Sexual Assaults Involving Members of the Armed Forces**
 
-Pub. L. 117–81, div. A, title V, § 549G(b), Dec. 27, 2021, 135 Stat. 1728, provided that:
+Pub. L. 117–81, div. A, title V, § 549G(b), Dec. 27, 2021, 135 Stat. 1728, provided that:
 
 > **“(1) Requirement.—** Not later than two years after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall prescribe a policy requiring information on the race and ethnicity of accused individuals to be included to the maximum extent practicable in the annual report required under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 1561 note).
 
@@ -397,7 +397,7 @@ Pub. L. 117–81, div. A, title V, § 549G(b), Dec. 27, 2021, 135 Stat. 1728, 
 
 **Safe-To-Report Policy Applicable Across the Armed Forces**
 
-Pub. L. 116–283, div. A, title V, § 539A, Jan. 1, 2021, 134 Stat. 3607, provided that:
+Pub. L. 116–283, div. A, title V, § 539A, Jan. 1, 2021, 134 Stat. 3607, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall, in consultation with the Secretaries of the military departments, prescribe in regulations a safe-to-report policy described in subsection (b) that applies with respect to all members of the Armed Forces (including members of the reserve components of the Armed Forces) and cadets and midshipmen at the military service academies.
 
@@ -429,7 +429,7 @@ Pub. L. 116–283, div. A, title V, § 539A, Jan. 1, 2021, 134 Stat. 3607, pro
 
 **Accountability of Leadership of the Department of Defense for Discharging the Sexual Harassment Policies and Programs of the Department**
 
-Pub. L. 116–283, div. A, title V, § 539B, Jan. 1, 2021, 134 Stat. 3608, provided that:
+Pub. L. 116–283, div. A, title V, § 539B, Jan. 1, 2021, 134 Stat. 3608, provided that:
 
 > **“(a) Strategy on Holding Leadership Accountable Required.—** The Secretary of Defense shall develop and implement Department of Defense-wide a strategy to hold individuals in positions of leadership in the Department (including members of the Armed Forces and civilians) accountable for the promotion, support, and enforcement of the policies and programs of the Department on sexual harassment.
 
@@ -453,7 +453,7 @@ Pub. L. 116–283, div. A, title V, § 539B, Jan. 1, 2021, 134 Stat. 3608, pro
 
 **Training for Commanders in the Armed Forces on Their Role in all Stages of Military Justice in Connection With Sexual Assault**
 
-Pub. L. 116–92, div. A, title V, § 540B, Dec. 20, 2019, 133 Stat. 1365, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(2), Jan. 1, 2021, 134 Stat. 3873, provided that:
+Pub. L. 116–92, div. A, title V, § 540B, Dec. 20, 2019, 133 Stat. 1365, as amended by Pub. L. 116–283, div. A, title X, § 1081(c)(2), Jan. 1, 2021, 134 Stat. 3873, provided that:
 
 > **“(a) In General.—** The training provided commanders in the Armed Forces shall include comprehensive training on the role of commanders in all stages of military justice in connection with sexual assaults by members of the Armed Forces.
 
@@ -479,11 +479,11 @@ Pub. L. 116–92, div. A, title V, § 540B, Dec. 20, 2019, 133 Stat. 1365, as 
 
 > **“(d) Uniformity.—** The Secretary of Defense shall ensure that the training provided pursuant to subsection (a) is, to the extent practicable, uniform across the Armed Forces.”
 
-[Pub. L. 116–283, div. A, title X, § 1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(2) of Pub. L. 116–283 to section 540B of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.]
+[Pub. L. 116–283, div. A, title X, § 1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(2) of Pub. L. 116–283 to section 540B of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.]
 
 **Department of Defense-Wide Policy and Military Department-Specific Programs on Reinvigoration of the Prevention of Sexual Assault Involving Members of the Armed Forces**
 
-Pub. L. 116–92, div. A, title V, § 540D, Dec. 20, 2019, 133 Stat. 1366, provided that:
+Pub. L. 116–92, div. A, title V, § 540D, Dec. 20, 2019, 133 Stat. 1366, provided that:
 
 > **“(a) Policy Required.—** Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall develop and issue a comprehensive policy for the Department of Defense to reinvigorate the prevention of sexual assault involving members of the Armed Forces.
 
@@ -511,7 +511,7 @@ Pub. L. 116–92, div. A, title V, § 540D, Dec. 20, 2019, 133 Stat. 1366, pro
 
 **Defense Advisory Committee for the Prevention of Sexual Misconduct**
 
-Pub. L. 116–92, div. A, title V, § 550B, Dec. 20, 2019, 133 Stat. 1380, as amended by Pub. L. 116–283, div. A, title V, § 533–535, Jan. 1, 2021, 134 Stat. 3603, 3604, provided that:
+Pub. L. 116–92, div. A, title V, § 550B, Dec. 20, 2019, 133 Stat. 1380, as amended by Pub. L. 116–283, div. A, title V, § 533–535, Jan. 1, 2021, 134 Stat. 3603, 3604, provided that:
 
 > **“(a) Establishment Required.—**
 
@@ -591,11 +591,11 @@ Pub. L. 116–92, div. A, title V, § 550B, Dec. 20, 2019, 133 Stat. 1380, as 
 
 > **“(2) Continuation.—** The Secretary of Defense may continue the Advisory Committee after the termination date applicable under paragraph (1) if the Secretary determines that continuation of the Advisory Committee after that date is advisable and appropriate. If the Secretary determines to continue the Advisory Committee after that date, the Secretary shall notify the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services and Transportation and Infrastructure of the House of Representatives.”
 
-[Pub. L. 116–283, div. A, title V, § 535(4), Jan. 1, 2021, 134 Stat. 3604, which directed amendment of section 550B(g)(2) of Pub. L. 116–92, set out above, by substituting “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services and Transportation and Infrastructure of the House of Representatives” for “the Committees on Armed Services of the Senate and the House of Representatives”, was executed by making the substitution for “the Committees on the Armed Services of the Senate and House of Representatives” to reflect the probable intent of Congress.]
+[Pub. L. 116–283, div. A, title V, § 535(4), Jan. 1, 2021, 134 Stat. 3604, which directed amendment of section 550B(g)(2) of Pub. L. 116–92, set out above, by substituting “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services and Transportation and Infrastructure of the House of Representatives” for “the Committees on Armed Services of the Senate and the House of Representatives”, was executed by making the substitution for “the Committees on the Armed Services of the Senate and House of Representatives” to reflect the probable intent of Congress.]
 
 **Uniform Command Action Form on Disposition of Unrestricted Sexual Assault Cases Involving Members of the Armed Forces**
 
-Pub. L. 115–232, div. A, title V, § 535, Aug. 13, 2018, 132 Stat. 1761, provided that:
+Pub. L. 115–232, div. A, title V, § 535, Aug. 13, 2018, 132 Stat. 1761, provided that:
 
 > “The Secretary of Defense shall establish a uniform command action form, applicable across the Armed Forces, for reporting the final disposition of cases of sexual assault in which—
 
@@ -605,11 +605,11 @@ Pub. L. 115–232, div. A, title V, § 535, Aug. 13, 2018, 132 Stat. 1761, pro
 
 **Report on Victims of Sexual Assault in Reports of Military Criminal Investigative Organizations**
 
-Pub. L. 115–232, div. A, title V, § 547, Aug. 13, 2018, 132 Stat. 1765, as amended by Pub. L. 116–283, div. A, title V, § 536, Jan. 1, 2021, 134 Stat. 3604, which required the Secretary of Defense, in accordance with guidance to ensure the uniformity of data, to submit to Congress biennial reports on investigations of covered individuals suspected of sexual offenses and adverse actions taken against such individuals, was repealed by Pub. L. 118–159, div. A, title V, § 566(b)(2), Dec. 23, 2024, 138 Stat. 1905.
+Pub. L. 115–232, div. A, title V, § 547, Aug. 13, 2018, 132 Stat. 1765, as amended by Pub. L. 116–283, div. A, title V, § 536, Jan. 1, 2021, 134 Stat. 3604, which required the Secretary of Defense, in accordance with guidance to ensure the uniformity of data, to submit to Congress biennial reports on investigations of covered individuals suspected of sexual offenses and adverse actions taken against such individuals, was repealed by Pub. L. 118–159, div. A, title V, § 566(b)(2), Dec. 23, 2024, 138 Stat. 1905.
 
 **Sexual Assault Prevention and Response Training for All Individuals Enlisted in the Armed Forces Under a Delayed Entry Program**
 
-Pub. L. 115–91, div. A, title V, § 535, Dec. 12, 2017, 131 Stat. 1391, provided that:
+Pub. L. 115–91, div. A, title V, § 535, Dec. 12, 2017, 131 Stat. 1391, provided that:
 
 > **“(a) Training Required.—** Commencing not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017], each Secretary concerned shall, insofar as practicable, provide training on sexual assault prevention and response to each individual under the jurisdiction of such Secretary who is enlisted in the Armed Forces under a delayed entry program such that each such individual completes such training before the date of commencement of basic training or initial active duty for training in the Armed Forces.
 
@@ -641,7 +641,7 @@ Pub. L. 115–91, div. A, title V, § 535, Dec. 12, 2017, 131 Stat. 1391, prov
 
 **Metrics for Evaluating the Efforts of the Armed Forces To Prevent and Respond to Retaliation in Connection With Reports of Sexual Assault in the Armed Forces**
 
-Pub. L. 114–328, div. A, title V, § 545, Dec. 23, 2016, 130 Stat. 2128, provided that:
+Pub. L. 114–328, div. A, title V, § 545, Dec. 23, 2016, 130 Stat. 2128, provided that:
 
 > **“(a) Metrics Required.—** The Sexual Assault Prevention and Response Office of the Department of Defense shall establish and issue to the military departments metrics to be used to evaluate the efforts of the Armed Forces to prevent and respond to retaliation in connection with reports of sexual assault in the Armed Forces.
 
@@ -649,7 +649,7 @@ Pub. L. 114–328, div. A, title V, § 545, Dec. 23, 2016, 130 Stat. 2128, pro
 
 **Training for Department of Defense Personnel Who Investigate Claims of Retaliation**
 
-Pub. L. 114–328, div. A, title V, § 546, Dec. 23, 2016, 130 Stat. 2128, as amended by Pub. L. 115–91, div. A, title V, § 523(b), Dec. 12, 2017, 131 Stat. 1381, provided that:
+Pub. L. 114–328, div. A, title V, § 546, Dec. 23, 2016, 130 Stat. 2128, as amended by Pub. L. 115–91, div. A, title V, § 523(b), Dec. 12, 2017, 131 Stat. 1381, provided that:
 
 > **“(a) Training Regarding Nature and Consequences of Retaliation.—** The Secretary of Defense shall ensure that the personnel of the Department of Defense specified in subsection (b) who investigate claims of retaliation receive training on the nature and consequences of retaliation, and, in cases involving reports of sexual assault, the nature and consequences of sexual assault trauma. The training shall include such elements as the Secretary shall specify for purposes of this section, including guidelines for the consideration of evidence substantiating such allegations in accordance with the requirements of section 1554b(b) of title 10, United States Code, as added by section 522 of the National Defense Authorization Act for Fiscal Year 2018 [Pub. L. 115–91].
 
@@ -665,7 +665,7 @@ Pub. L. 114–328, div. A, title V, § 546, Dec. 23, 2016, 130 Stat. 2128, as 
 
 **Notification to Complainants of Resolution of Investigations Into Retaliation**
 
-Pub. L. 114–328, div. A, title V, § 547, Dec. 23, 2016, 130 Stat. 2128, provided that:
+Pub. L. 114–328, div. A, title V, § 547, Dec. 23, 2016, 130 Stat. 2128, provided that:
 
 > **“(a) Notification Required.—**
 
@@ -677,7 +677,7 @@ Pub. L. 114–328, div. A, title V, § 547, Dec. 23, 2016, 130 Stat. 2128, pro
 
 **Retention of Case Notes in Investigations of Sex-Related Offenses Involving Members of the Army, Navy, Air Force, or Marine Corps**
 
-Pub. L. 114–92, div. A, title V, § 541, Nov. 25, 2015, 129 Stat. 819, as amended by Pub. L. 116–283, div. A, title X, § 1081(f)(1), Jan. 1, 2021, 134 Stat. 3874, provided that:
+Pub. L. 114–92, div. A, title V, § 541, Nov. 25, 2015, 129 Stat. 819, as amended by Pub. L. 116–283, div. A, title X, § 1081(f)(1), Jan. 1, 2021, 134 Stat. 3874, provided that:
 
 > **“(a) Retention of All Investigative Records Required.—** Not later than 180 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Defense shall update Department of Defense records retention policies to ensure that, for all investigations relating to an alleged sex-related offense (as defined in section 1044e(h) of title 10, United States Code) involving a member of the Army, Navy, Air Force, or Marine Corps, all elements of the case file shall be retained as part of the investigative records retained in accordance with section 586 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 10 U.S.C. 1561 note).
 
@@ -695,11 +695,11 @@ Pub. L. 114–92, div. A, title V, § 541, Nov. 25, 2015, 129 Stat. 819, as am
 
 > **“(d) Uniform Application to Military Departments.—** The Secretary of Defense shall ensure that, to the maximum extent practicable, the policy developed under subsections (a) is implemented uniformly by the military departments.”
 
-[Pub. L. 116–283, div. A, title X, § 1081(f), Jan. 1, 2021, 134 Stat. 3874, provided that the amendment made by section 1081(f)(1) of Pub. L. 116–283 to section 541 of Pub. L. 114–92, set out above, is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–92.]
+[Pub. L. 116–283, div. A, title X, § 1081(f), Jan. 1, 2021, 134 Stat. 3874, provided that the amendment made by section 1081(f)(1) of Pub. L. 116–283 to section 541 of Pub. L. 114–92, set out above, is effective as of Dec. 23, 2016, and as if included in Pub. L. 114–92.]
 
 **Required Consideration of Certain Elements of Command Climate in Performance Appraisals of Commanding Officers**
 
-Pub. L. 113–291, div. A, title V, § 508, Dec. 19, 2014, 128 Stat. 3357, provided that:
+Pub. L. 113–291, div. A, title V, § 508, Dec. 19, 2014, 128 Stat. 3357, provided that:
 
 > “The Secretary of a military department shall ensure that the performance appraisal of a commanding officer in an Armed Force under the jurisdiction of that Secretary indicates the extent to which the commanding officer has or has not established a command climate in which—
 
@@ -709,7 +709,7 @@ Pub. L. 113–291, div. A, title V, § 508, Dec. 19, 2014, 128 Stat. 3357, pro
 
 **Requirements Relating to Sexual Assault Forensic Examiners for the Armed Forces**
 
-Pub. L. 113–291, div. A, title V, § 539(a), (b), Dec. 19, 2014, 128 Stat. 3370, provided that:
+Pub. L. 113–291, div. A, title V, § 539(a), (b), Dec. 19, 2014, 128 Stat. 3370, provided that:
 
 > **“(a) Personnel Eligible for Assignment.—**
 
@@ -743,7 +743,7 @@ Pub. L. 113–291, div. A, title V, § 539(a), (b), Dec. 19, 2014, 128 Stat. 3
 
 **Defense Advisory Committee on Investigation, Prosecution, and Defense of Sexual Assault in the Armed Forces**
 
-Pub. L. 113–291, div. A, title V, § 546(a)–(f), Dec. 19, 2014, 128 Stat. 3374, 3375, as amended by Pub. L. 114–92, div. A, title V, § 537, Nov. 25, 2015, 129 Stat. 817; Pub. L. 115–232, div. A, title V, § 533, Aug. 13, 2018, 132 Stat. 1760; Pub. L. 116–92, div. A, title V, § 535, Dec. 20, 2019, 133 Stat. 1362; Pub. L. 118–159, div. A, title V, § 569D(1), Dec. 23, 2024, 138 Stat. 1908, provided that:
+Pub. L. 113–291, div. A, title V, § 546(a)–(f), Dec. 19, 2014, 128 Stat. 3374, 3375, as amended by Pub. L. 114–92, div. A, title V, § 537, Nov. 25, 2015, 129 Stat. 817; Pub. L. 115–232, div. A, title V, § 533, Aug. 13, 2018, 132 Stat. 1760; Pub. L. 116–92, div. A, title V, § 535, Dec. 20, 2019, 133 Stat. 1362; Pub. L. 118–159, div. A, title V, § 569D(1), Dec. 23, 2024, 138 Stat. 1908, provided that:
 
 > **“(a) Establishment Required.—**
 
@@ -777,7 +777,7 @@ Pub. L. 113–291, div. A, title V, § 546(a)–(f), Dec. 19, 2014, 128 Stat. 
 
 **Improved Climate Assessments and Dissemination of Results**
 
-Pub. L. 113–66, div. A, title V, § 587, Dec. 26, 2013, 127 Stat. 778, provided that:
+Pub. L. 113–66, div. A, title V, § 587, Dec. 26, 2013, 127 Stat. 778, provided that:
 
 > **“(a) Improved Dissemination of Results in Chain of Command.—** The Secretary of Defense shall ensure that the results of command climate assessments are provided to the relevant individual commander and to the next higher level of command.
 
@@ -787,7 +787,7 @@ Pub. L. 113–66, div. A, title V, § 587, Dec. 26, 2013, 127 Stat. 778, provi
 
 **Availability of Sexual Assault Forensic Examiners at Military Medical Treatment Facilities**
 
-Pub. L. 113–66, div. A, title XVII, § 1725(b), Dec. 26, 2013, 127 Stat. 971, as amended by Pub. L. 113–291, div. A, title V, § 539(d)(1), Dec. 19, 2014, 128 Stat. 3371, provided that:
+Pub. L. 113–66, div. A, title XVII, § 1725(b), Dec. 26, 2013, 127 Stat. 971, as amended by Pub. L. 113–291, div. A, title V, § 539(d)(1), Dec. 19, 2014, 128 Stat. 3371, provided that:
 
 > **“(1) Facilities with full-time emergency department.—** The Secretary of a military department shall require the assignment of at least one full-time Sexual Assault Forensic Examiner to each military medical treatment facility under the jurisdiction of that Secretary in which an emergency department operates 24 hours per day. The Secretary may assign additional Sexual Assault Forensic Examiners based on the demographics of the patients who utilize the military medical treatment facility.
 
@@ -795,7 +795,7 @@ Pub. L. 113–66, div. A, title XVII, § 1725(b), Dec. 26, 2013, 127 Stat. 971
 
 **Commanding Officer Action on Reports on Sexual Offenses Involving Members of the Armed Forces**
 
-Pub. L. 113–66, div. A, title XVII, § 1742, Dec. 26, 2013, 127 Stat. 979, provided that:
+Pub. L. 113–66, div. A, title XVII, § 1742, Dec. 26, 2013, 127 Stat. 979, provided that:
 
 > **“(a) Immediate Action Required.—** A commanding officer who receives a report of a sex-related offense involving a member of the Armed Forces in the chain of command of such officer shall act upon the report in accordance with subsection (b) immediately after receipt of the report by the commanding officer.
 
@@ -803,7 +803,7 @@ Pub. L. 113–66, div. A, title XVII, § 1742, Dec. 26, 2013, 127 Stat. 979, p
 
 **Eight-Day Incident Reporting Requirement in Response to Unrestricted Report of Sexual Assault in Which the Victim is a Member of the Armed Forces**
 
-Pub. L. 113–66, div. A, title XVII, § 1743, Dec. 26, 2013, 127 Stat. 979, provided that:
+Pub. L. 113–66, div. A, title XVII, § 1743, Dec. 26, 2013, 127 Stat. 979, provided that:
 
 > **“(a) Incident Reporting Policy Requirement.—** The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall establish and maintain a policy to require the submission by a designated person of a written incident report not later than eight days after an unrestricted report of sexual assault has been made in which a member of the Armed Forces is the victim. At a minimum, this incident report shall be provided to the following:
 
@@ -847,7 +847,7 @@ Pub. L. 113–66, div. A, title XVII, § 1743, Dec. 26, 2013, 127 Stat. 979, p
 
 **Inclusion and Command Review of Information on Sex-Related Offenses in Personnel Service Records of Members of the Armed Forces**
 
-Pub. L. 113–66, div. A, title XVII, § 1745, Dec. 26, 2013, 127 Stat. 982, provided that:
+Pub. L. 113–66, div. A, title XVII, § 1745, Dec. 26, 2013, 127 Stat. 982, provided that:
 
 > **“(a) Information on Reports on Sex-Related Offenses.—**
 
@@ -867,7 +867,7 @@ Pub. L. 113–66, div. A, title XVII, § 1745, Dec. 26, 2013, 127 Stat. 982, p
 
 **Establishment of Special Victim Capabilities Within the Military Departments To Respond to Allegations of Certain Special Victim Offenses**
 
-Pub. L. 112–239, div. A, title V, § 573, Jan. 2, 2013, 126 Stat. 1755, as amended by Pub. L. 119–60, div. G, title LXXV, § 7523(a), Dec. 18, 2025, 139 Stat. 1814, provided that:
+Pub. L. 112–239, div. A, title V, § 573, Jan. 2, 2013, 126 Stat. 1755, as amended by Pub. L. 119–60, div. G, title LXXV, § 7523(a), Dec. 18, 2025, 139 Stat. 1814, provided that:
 
 > **“(a) Establishment Required.—** Under regulations prescribed by the Secretary of Defense or the Secretary of the department in which the Coast Guard is operating when not operating as a service in the Navy, the Secretary concerned shall establish special victim capabilities for the purposes of—
 
@@ -915,7 +915,7 @@ Pub. L. 112–239, div. A, title V, § 573, Jan. 2, 2013, 126 Stat. 1755, as a
 
 **Retention of Certain Forms in Connection With Restricted Reports and Unrestricted Reports on Sexual Assault Involving Members of the Armed Forces**
 
-Pub. L. 112–239, div. A, title V, § 577, Jan. 2, 2013, 126 Stat. 1762, as amended by Pub. L. 113–66, div. A, title XVII, § 1723, Dec. 26, 2013, 127 Stat. 970, provided that:
+Pub. L. 112–239, div. A, title V, § 577, Jan. 2, 2013, 126 Stat. 1762, as amended by Pub. L. 113–66, div. A, title XVII, § 1723, Dec. 26, 2013, 127 Stat. 970, provided that:
 
 > **“(a) Period of Retention.—** The Secretary of Defense shall ensure that all copies of Department of Defense Form 2910 and Department of Defense Form 2911 filed in connection with a Restricted Report or Unrestricted Report on an incident of sexual assault involving a member of the Armed Forces be retained for the longer of—
 
@@ -927,7 +927,7 @@ Pub. L. 112–239, div. A, title V, § 577, Jan. 2, 2013, 126 Stat. 1762, as a
 
 **General or Flag Officer Review of and Concurrence in Separation of Members of the Armed Forces Making an Unrestricted Report of Sexual Assault**
 
-Pub. L. 112–239, div. A, title V, § 578, Jan. 2, 2013, 126 Stat. 1763, provided that:
+Pub. L. 112–239, div. A, title V, § 578, Jan. 2, 2013, 126 Stat. 1763, provided that:
 
 > **“(a) Review Required.—** The Secretary of Defense shall develop a policy to require a general officer or flag officer of the Armed Forces to review the circumstances of, and grounds for, the proposed involuntary separation of any member of the Armed Forces who—
 
@@ -945,7 +945,7 @@ Pub. L. 112–239, div. A, title V, § 578, Jan. 2, 2013, 126 Stat. 1763, prov
 
 **Department of Defense Policy and Plan for Prevention and Response to Sexual Harassment in the Armed Forces**
 
-Pub. L. 112–239, div. A, title V, § 579, Jan. 2, 2013, 126 Stat. 1763, provided that:
+Pub. L. 112–239, div. A, title V, § 579, Jan. 2, 2013, 126 Stat. 1763, provided that:
 
 > **“(a) Comprehensive Prevention and Response Policy.—**
 
@@ -971,7 +971,7 @@ Pub. L. 112–239, div. A, title V, § 579, Jan. 2, 2013, 126 Stat. 1763, prov
 
 **Sexual Assault Response Coordinators and Sexual Assault Victim Advocates**
 
-Pub. L. 112–81, div. A, title V, § 584, Dec. 31, 2011, 125 Stat. 1432, as amended by Pub. L. 113–66, div. A, title XVII, § 1724, Dec. 26, 2013, 127 Stat. 970; Pub. L. 117–81, div. A, title V, § 549H, Dec. 27, 2021, 135 Stat. 1728, provided that:
+Pub. L. 112–81, div. A, title V, § 584, Dec. 31, 2011, 125 Stat. 1432, as amended by Pub. L. 113–66, div. A, title XVII, § 1724, Dec. 26, 2013, 127 Stat. 970; Pub. L. 117–81, div. A, title V, § 549H, Dec. 27, 2021, 135 Stat. 1728, provided that:
 
 > **“(a) Assignment of Coordinators.—**
 
@@ -1021,7 +1021,7 @@ Pub. L. 112–81, div. A, title V, § 584, Dec. 31, 2011, 125 Stat. 1432, as a
 
 **Training and Education Programs for Sexual Assault Prevention and Response Program**
 
-Pub. L. 119–60, div. A, title V, § 564, Dec. 18, 2025, 139 Stat. 883, provided that:
+Pub. L. 119–60, div. A, title V, § 564, Dec. 18, 2025, 139 Stat. 883, provided that:
 
 > **“(a) Revision Requirement.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Under Secretary of Defense for Personnel and Readiness, in coordination with the Director of the Sexual Assault Prevention and Response Office of the Department of Defense, shall revise sexual assault prevention and response training guidance to require that information on the resources of the Department of Veterans Affairs to address experiences with unwanted sexual behavior be included in the annual or periodic sexual assault prevention and response training that is administered to all members of the Armed Forces.
 
@@ -1031,9 +1031,9 @@ Pub. L. 119–60, div. A, title V, § 564, Dec. 18, 2025, 139 Stat. 883, provi
 
 > **“(2)** The term ‘sexual assault prevention and response training’ means any training, instruction, or education provided pursuant to Department of Defense Instruction 6495.02, Volume 2, or any successor guidance.”
 
-Pub. L. 113–66, div. A, title XVII, § 1713(c), Dec. 26, 2013, 127 Stat. 964, provided that: “The Secretary of Defense shall provide for the inclusion of information and discussion regarding the availability and use of the authority described by section 674 of title 10, United States Code, as added by subsection (a), as part of the training for new and prospective commanders at all levels of command required by section 585(b) of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 10 U.S.C. 1561 note).”
+Pub. L. 113–66, div. A, title XVII, § 1713(c), Dec. 26, 2013, 127 Stat. 964, provided that: “The Secretary of Defense shall provide for the inclusion of information and discussion regarding the availability and use of the authority described by section 674 of title 10, United States Code, as added by subsection (a), as part of the training for new and prospective commanders at all levels of command required by section 585(b) of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 10 U.S.C. 1561 note).”
 
-Pub. L. 112–81, div. A, title V, § 585, Dec. 31, 2011, 125 Stat. 1434, as amended by Pub. L. 112–239, div. A, title V, § 574, Jan. 2, 2013, 126 Stat. 1756; Pub. L. 113–66, div. A, title X, § 1091(c)(2), Dec. 26, 2013, 127 Stat. 876, provided that:
+Pub. L. 112–81, div. A, title V, § 585, Dec. 31, 2011, 125 Stat. 1434, as amended by Pub. L. 112–239, div. A, title V, § 574, Jan. 2, 2013, 126 Stat. 1756; Pub. L. 113–66, div. A, title X, § 1091(c)(2), Dec. 26, 2013, 127 Stat. 876, provided that:
 
 > **“(a) Sexual Assault Prevention and Response Training and Education.—**
 
@@ -1079,11 +1079,11 @@ Pub. L. 112–81, div. A, title V, § 585, Dec. 31, 2011, 125 Stat. 1434, as a
 
 > **“(B)** The resources available with respect to sexual assault reporting and prevention and the procedures to be followed by a member seeking to access those resources.”
 
-[Pub. L. 113–66, div. A, title X, § 1091(c), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(c)(2) to section 585 of Pub. L. 112–81, set out above, is effective as of Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.]
+[Pub. L. 113–66, div. A, title X, § 1091(c), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(c)(2) to section 585 of Pub. L. 112–81, set out above, is effective as of Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.]
 
 **Department of Defense Policy and Procedures on Retention and Access to Evidence and Records Relating to Sexual Assaults Involving Members of the Armed Forces**
 
-Pub. L. 112–81, div. A, title V, § 586, Dec. 31, 2011, 125 Stat. 1434, as amended by Pub. L. 113–291, div. A, title V, § 538, Dec. 19, 2014, 128 Stat. 3369; Pub. L. 116–92, div. A, title V, § 536, Dec. 20, 2019, 133 Stat. 1362, provided that:
+Pub. L. 112–81, div. A, title V, § 586, Dec. 31, 2011, 125 Stat. 1434, as amended by Pub. L. 113–291, div. A, title V, § 538, Dec. 19, 2014, 128 Stat. 3369; Pub. L. 116–92, div. A, title V, § 536, Dec. 20, 2019, 133 Stat. 1362, provided that:
 
 > **“(a) Comprehensive Policy on Retention and Access to Records.—** Not later than October 1, 2012, the Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, develop a comprehensive policy for the Department of Defense on the retention of and access to evidence and records relating to sexual assaults involving members of the Armed Forces.
 
@@ -1141,13 +1141,13 @@ Pub. L. 112–81, div. A, title V, § 586, Dec. 31, 2011, 125 Stat. 1434, as a
 
 > **“(3)** Except with respect to personal property returned to a victim under this subsection, nothing in this subsection shall affect the requirement to retain a sexual assault forensic examination (SAFE) kit for the period specified in subsection (c)(4)(A).”
 
-[Pub. L. 116–92, § 536(1), amended section 586 of Pub. L. 112–81, set out above, by redesignating subsec. (f) as (e), resulting in two subsecs. designated (e).]
+[Pub. L. 116–92, § 536(1), amended section 586 of Pub. L. 112–81, set out above, by redesignating subsec. (f) as (e), resulting in two subsecs. designated (e).]
 
 **Improved Sexual Assault Prevention and Response in the Armed Forces**
 
-Pub. L. 115–91, div. A, title V, § 538, Dec. 12, 2017, 131 Stat. 1393, provided that: “Beginning with the reports required to be submitted by March 1, 2019, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 1561 note), information regarding a sexual assault committed by a member of the Armed Forces against the spouse or intimate partner of the member or another dependent of the member shall be included in such reports in addition to the annual Family Advocacy Program report. The information may be included as an annex to such reports.”
+Pub. L. 115–91, div. A, title V, § 538, Dec. 12, 2017, 131 Stat. 1393, provided that: “Beginning with the reports required to be submitted by March 1, 2019, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 1561 note), information regarding a sexual assault committed by a member of the Armed Forces against the spouse or intimate partner of the member or another dependent of the member shall be included in such reports in addition to the annual Family Advocacy Program report. The information may be included as an annex to such reports.”
 
-Pub. L. 112–239, div. A, title V, § 572, Jan. 2, 2013, 126 Stat. 1753, as amended by Pub. L. 113–66, div. A, title XVII, § 1721, Dec. 26, 2013, 127 Stat. 970, provided that:
+Pub. L. 112–239, div. A, title V, § 572, Jan. 2, 2013, 126 Stat. 1753, as amended by Pub. L. 113–66, div. A, title XVII, § 1721, Dec. 26, 2013, 127 Stat. 970, provided that:
 
 > **“(a) Policy Modifications.—** Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Secretary of Defense shall modify the revised comprehensive policy for the Department of Defense sexual assault prevention and response program required by section 1602 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4430; 10 U.S.C. 1561 note) to include in the policy the following new requirements:
 
@@ -1193,7 +1193,7 @@ Pub. L. 112–239, div. A, title V, § 572, Jan. 2, 2013, 126 Stat. 1753, as a
 
 > **“(d) Tracking of Organizational Climate Assessment Compliance.—** The Secretary of Defense shall direct the Secretaries of the military departments to verify and track the compliance of commanding officers in conducting organizational climate assessments, as required by subsection (a)(3).”
 
-Pub. L. 111–383, div. A, title XVI, Jan. 7, 2011, 124 Stat. 4429, as amended by Pub. L. 112–81, div. A, title V, § 583, Dec. 31, 2011, 125 Stat. 1432; Pub. L. 112–239, div. A, title V, § 575(a), (b), Jan. 2, 2013, 126 Stat. 1757, 1758; Pub. L. 113–66, div. A, title XVII, §§ 1725(a), 1726, Dec. 26, 2013, 127 Stat. 971, 972; Pub. L. 113–291, div. A, title V, § 542(a), (b), title X, § 1071(i), Dec. 19, 2014, 128 Stat. 3372, 3373, 3512; Pub. L. 114–328, div. A, title V, §§ 543, 544, Dec. 23, 2016, 130 Stat. 2127; Pub. L. 115–91, div. A, title V, § 537(a), Dec. 12, 2017, 131 Stat. 1392; Pub. L. 116–283, div. A, title V, § 537(a), Jan. 1, 2021, 134 Stat. 3605; Pub. L. 117–81, div. A, title V, § 549I, Dec. 27, 2021, 135 Stat. 1729, provided that:
+Pub. L. 111–383, div. A, title XVI, Jan. 7, 2011, 124 Stat. 4429, as amended by Pub. L. 112–81, div. A, title V, § 583, Dec. 31, 2011, 125 Stat. 1432; Pub. L. 112–239, div. A, title V, § 575(a), (b), Jan. 2, 2013, 126 Stat. 1757, 1758; Pub. L. 113–66, div. A, title XVII, §§ 1725(a), 1726, Dec. 26, 2013, 127 Stat. 971, 972; Pub. L. 113–291, div. A, title V, § 542(a), (b), title X, § 1071(i), Dec. 19, 2014, 128 Stat. 3372, 3373, 3512; Pub. L. 114–328, div. A, title V, §§ 543, 544, Dec. 23, 2016, 130 Stat. 2127; Pub. L. 115–91, div. A, title V, § 537(a), Dec. 12, 2017, 131 Stat. 1392; Pub. L. 116–283, div. A, title V, § 537(a), Jan. 1, 2021, 134 Stat. 3605; Pub. L. 117–81, div. A, title V, § 549I, Dec. 27, 2021, 135 Stat. 1729, provided that:
 
 > **“SEC. 1601. DEFINITION OF DEPARTMENT OF DEFENSE SEXUAL ASSAULT PREVENTION AND RESPONSE PROGRAM AND OTHER DEFINITIONS.**
 
@@ -1487,19 +1487,19 @@ Pub. L. 111–383, div. A, title XVI, Jan. 7, 2011, 124 Stat. 4429, as amended b
 
 > **“(f) Submission of Results.—** The Secretary of Defense shall submit the results of the evaluations required by this section to the Committees on Armed Services of the Senate and House of Representatives.”
 
-[Pub. L. 116–283, div. A, title V, § 537(b), Jan. 1, 2021, 134 Stat. 3605, provided that: “The amendment made by subsection (a) [amending section 1631 of Pub. L. 111–383, set out above] shall take effect on the date of the enactment of this Act [Jan. 1, 2021] and shall apply to reports required to be submitted under such section on or after such date.” ]
+[Pub. L. 116–283, div. A, title V, § 537(b), Jan. 1, 2021, 134 Stat. 3605, provided that: “The amendment made by subsection (a) [amending section 1631 of Pub. L. 111–383, set out above] shall take effect on the date of the enactment of this Act [Jan. 1, 2021] and shall apply to reports required to be submitted under such section on or after such date.” ]
 
-[Pub. L. 115–91, div. A, title V, § 537(b), Dec. 12, 2017, 131 Stat. 1393, provided that: “The amendment made by this section [amending section 1631 of Pub. L. 111–383, set out above] shall take effect on the date of the enactment of this Act [Dec. 12, 2017] and apply beginning with the reports required to be submitted by March 1, 2020, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 1561 note).” ]
+[Pub. L. 115–91, div. A, title V, § 537(b), Dec. 12, 2017, 131 Stat. 1393, provided that: “The amendment made by this section [amending section 1631 of Pub. L. 111–383, set out above] shall take effect on the date of the enactment of this Act [Dec. 12, 2017] and apply beginning with the reports required to be submitted by March 1, 2020, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 10 U.S.C. 1561 note).” ]
 
-[Pub. L. 113–291, div. A, title V, § 542(c), Dec. 19, 2014, 128 Stat. 3373, provided that: “The amendments made by this section [amending section 1631 of Pub. L. 111–383, set out above] shall take effect on the date of the enactment of this Act [Dec. 19, 2014] and apply beginning with the report regarding sexual assaults involving members of the Armed Forces required to be submitted by March 1, 2015, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 [Pub. L. 111–383].” ]
+[Pub. L. 113–291, div. A, title V, § 542(c), Dec. 19, 2014, 128 Stat. 3373, provided that: “The amendments made by this section [amending section 1631 of Pub. L. 111–383, set out above] shall take effect on the date of the enactment of this Act [Dec. 19, 2014] and apply beginning with the report regarding sexual assaults involving members of the Armed Forces required to be submitted by March 1, 2015, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 [Pub. L. 111–383].” ]
 
-[Pub. L. 112–239, div. A, title V, § 575(c), Jan. 2, 2013, 126 Stat. 1758. provided that: “The amendments made by this section [amending section 1631 of Pub. L. 111–383, set out above] shall apply beginning with the report regarding sexual assaults involving members of the Armed Forces required to be submitted by March 1, 2014, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 [Pub. L. 111–383].” ]
+[Pub. L. 112–239, div. A, title V, § 575(c), Jan. 2, 2013, 126 Stat. 1758. provided that: “The amendments made by this section [amending section 1631 of Pub. L. 111–383, set out above] shall apply beginning with the report regarding sexual assaults involving members of the Armed Forces required to be submitted by March 1, 2014, under section 1631 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 [Pub. L. 111–383].” ]
 
 [For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1631(d) of Pub. L. 111–383, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.]
 
 **Defense Incident-Based Reporting System and Defense Sexual Assault Incident Database**
 
-Pub. L. 111–84, div. A, title V, § 598, Oct. 28, 2009, 123 Stat. 2345, provided that:
+Pub. L. 111–84, div. A, title V, § 598, Oct. 28, 2009, 123 Stat. 2345, provided that:
 
 > “Not later than 120 days after the date of the enactment of this Act [Oct. 28, 2009], and every six months thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report detailing the progress of the Secretary with respect to the completion of the following:
 
@@ -1507,7 +1507,7 @@ Pub. L. 111–84, div. A, title V, § 598, Oct. 28, 2009, 123 Stat. 2345, prov
 
 > **“(2)** The Defense Sexual Assault Incident Database.”
 
-Pub. L. 110–417, [div. A], title V, § 563(a)–(d), Oct. 14, 2008, 122 Stat. 4470, 4471, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(3), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title X, § 1081(d)(3), Jan. 1, 2021, 134 Stat. 3874, provided that:
+Pub. L. 110–417, [div. A], title V, § 563(a)–(d), Oct. 14, 2008, 122 Stat. 4470, 4471, as amended by Pub. L. 115–232, div. A, title VIII, § 809(b)(3), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title X, § 1081(d)(3), Jan. 1, 2021, 134 Stat. 3874, provided that:
 
 > **“(a) Database Required.—** The Secretary of Defense shall implement a centralized, case-level database for the collection, in a manner consistent with Department of Defense regulations for restricted reporting, and maintenance of information regarding sexual assaults involving a member of the Armed Forces, including information, if available, about the nature of the assault, the victim, the offender, and the outcome of any legal proceedings in connection with the assault.
 
@@ -1529,7 +1529,7 @@ Pub. L. 110–417, [div. A], title V, § 563(a)–(d), Oct. 14, 2008, 122 Stat
 
 > **“(1)** section 577(f) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375) [set out below];
 
-> **“(2)** section 596(c) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163) [amending Pub. L. 108–375, § 577, set out below];
+> **“(2)** section 596(c) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163) [amending Pub. L. 108–375, § 577, set out below];
 
 > **“(3)** section 532 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364) [enacting sections 4361, 6980, and 9361 of this title and provisions set out as a note under section 4361 of this title and repealing provisions set out as a note under section 4331 of this title]; and
 
@@ -1537,7 +1537,7 @@ Pub. L. 110–417, [div. A], title V, § 563(a)–(d), Oct. 14, 2008, 122 Stat
 
 **Improvement to Department of Defense Capacity To Respond to Sexual Assault Affecting Members of the Armed Forces**
 
-Pub. L. 109–163, div. A, title V, § 596(a), (b), Jan. 6, 2006, 119 Stat. 3282, provided that:
+Pub. L. 109–163, div. A, title V, § 596(a), (b), Jan. 6, 2006, 119 Stat. 3282, provided that:
 
 > **“(a) Plan for System to Track Cases in Which Care or Prosecution Hindered by Lack of Availability.—**
 
@@ -1557,7 +1557,7 @@ Pub. L. 109–163, div. A, title V, § 596(a), (b), Jan. 6, 2006, 119 Stat. 32
 
 **Department of Defense Policy and Procedures on Prevention and Response to Sexual Assaults Involving Members of the Armed Forces**
 
-Pub. L. 111–84, div. A, title V, § 567(c), Oct. 28, 2009, 123 Stat. 2314, provided that:
+Pub. L. 111–84, div. A, title V, § 567(c), Oct. 28, 2009, 123 Stat. 2314, provided that:
 
 > **“(1) Requirement for data collection.—**
 
@@ -1571,7 +1571,7 @@ Pub. L. 111–84, div. A, title V, § 567(c), Oct. 28, 2009, 123 Stat. 2314, p
 
 > **“(2) Information to members.—** Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report explaining the measures being taken to ensure that, when a military protective order has been issued, the member of the Armed Forces who is protected by the order is informed, in a timely manner, of the member’s option to request transfer from the command to which the member is assigned.”
 
-Pub. L. 108–375, div. A, title V, § 577, Oct. 28, 2004, 118 Stat. 1926, as amended by Pub. L. 109–163, div. A, title V, § 596(c), Jan. 6, 2006, 119 Stat. 3283; Pub. L. 109–364, div. A, title V, § 583, Oct. 17, 2006, 120 Stat. 2230; Pub. L. 110–417, [div. A], title V, § 563(e), Oct. 14, 2008, 122 Stat. 4471; Pub. L. 111–383, div. A, title X, § 1075(i)(1), title XVI, § 1631(e)(1), Jan. 7, 2011, 124 Stat. 4377, 4435, provided that:
+Pub. L. 108–375, div. A, title V, § 577, Oct. 28, 2004, 118 Stat. 1926, as amended by Pub. L. 109–163, div. A, title V, § 596(c), Jan. 6, 2006, 119 Stat. 3283; Pub. L. 109–364, div. A, title V, § 583, Oct. 17, 2006, 120 Stat. 2230; Pub. L. 110–417, [div. A], title V, § 563(e), Oct. 14, 2008, 122 Stat. 4471; Pub. L. 111–383, div. A, title X, § 1075(i)(1), title XVI, § 1631(e)(1), Jan. 7, 2011, 124 Stat. 4377, 4435, provided that:
 
 > **“(a) Comprehensive Policy on Prevention and Response to Sexual Assaults.—**
 
@@ -1645,11 +1645,11 @@ Pub. L. 108–375, div. A, title V, § 577, Oct. 28, 2004, 118 Stat. 1926, as 
 
 **Reports**
 
-Pub. L. 105–85, div. A, title V, § 591(b), Nov. 18, 1997, 111 Stat. 1762, required each officer receiving a complaint forwarded in accordance with subsec. (b) of this section during 1997 and 1998 to submit to the Secretary of the military department concerned a report on all such complaints and the investigations of such complaints not later than Jan. 1 of each of 1998 and 1999, required each Secretary receiving a report for a year to submit to the Secretary of Defense a report on all reports received not later than Mar. 1 of each of 1998 and 1999, and required the Secretary of Defense to transmit to Congress all reports received for the year together with the Secretary’s assessment of each report not later than Apr. 1 following receipt of a report for a year.
+Pub. L. 105–85, div. A, title V, § 591(b), Nov. 18, 1997, 111 Stat. 1762, required each officer receiving a complaint forwarded in accordance with subsec. (b) of this section during 1997 and 1998 to submit to the Secretary of the military department concerned a report on all such complaints and the investigations of such complaints not later than Jan. 1 of each of 1998 and 1999, required each Secretary receiving a report for a year to submit to the Secretary of Defense a report on all reports received not later than Mar. 1 of each of 1998 and 1999, and required the Secretary of Defense to transmit to Congress all reports received for the year together with the Secretary’s assessment of each report not later than Apr. 1 following receipt of a report for a year.
 
 **Department of Defense Policies and Procedures on Discrimination and Sexual Harassment**
 
-Pub. L. 103–337, div. A, title V, § 532, Oct. 5, 1994, 108 Stat. 2759, provided that:
+Pub. L. 103–337, div. A, title V, § 532, Oct. 5, 1994, 108 Stat. 2759, provided that:
 
 > **“(a) Report of Task Force.—**
 
@@ -1703,7 +1703,7 @@ Pub. L. 103–337, div. A, title V, § 532, Oct. 5, 1994, 108 Stat. 2759, prov
 
 > **“(f) Performance Evaluation Standards for Members of the Armed Forces.—** The Secretary of Defense shall ensure that Department of Defense regulations governing consideration of equal opportunity matters in evaluations of the performance of members of the Armed Forces include provisions requiring as a factor in such evaluations consideration of a member’s commitment to elimination of unlawful discrimination or of sexual harassment in the Armed Forces.”
 
-## § 1561a. Civilian orders of protection: force and effect on military installations
+## § 1561a. Civilian orders of protection: force and effect on military installations
 
 **(a) Force and Effect.—** A civilian order of protection shall have the same force and effect on a military installation as such order has within the jurisdiction of the court that issued such order.
 
@@ -1711,13 +1711,13 @@ Pub. L. 103–337, div. A, title V, § 532, Oct. 5, 1994, 108 Stat. 2759, prov
 
 **(c) Regulations.—** The Secretary of Defense shall prescribe regulations to carry out this section. The regulations shall be designed to further good order and discipline by members of the armed forces and civilians present on military installations.
 
-(Added Pub. L. 107–311, § 2(a), Dec. 2, 2002, 116 Stat. 2455.)
+(Added Pub. L. 107–311, § 2(a), Dec. 2, 2002, 116 Stat. 2455.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Policies and Procedures on Registration at Military Installations of Civilian Protective Orders Applicable to Members of the Armed Forces Assigned to Such Installations and Certain Other Individuals**
 
-Pub. L. 116–92, div. A, title V, § 550A, Dec. 20, 2019, 133 Stat. 1380, provided that:
+Pub. L. 116–92, div. A, title V, § 550A, Dec. 20, 2019, 133 Stat. 1380, provided that:
 
 > **“(a) Policies and Procedures Required.—** Not later than one year after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish policies and procedures for the registration at military installations of any civilian protective orders described in subsection (b), including the duties and responsibilities of commanders of installations in the registration process.
 
@@ -1741,7 +1741,7 @@ Pub. L. 116–92, div. A, title V, § 550A, Dec. 20, 2019, 133 Stat. 1380, pro
 
 > **“(2)** A certification by the Secretary that the policies and procedures have been implemented on each military installation.”
 
-## § 1561b. Confidential reporting of sexual harassment
+## § 1561b. Confidential reporting of sexual harassment
 
 **(a) Reporting Process.—** Notwithstanding section 1561 of this title, the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating when not operating as a service in the Navy shall prescribe in regulations a process by which a member of an armed force under the jurisdiction of the Secretary of a military department or the Commandant may confidentially allege a complaint of sexual harassment to an individual outside the immediate chain of command of the member.
 
@@ -1777,21 +1777,21 @@ Pub. L. 116–92, div. A, title V, § 550A, Dec. 20, 2019, 133 Stat. 1380, pro
 
 **(2) Personally identifiable information.—** Any data on complaints described in paragraph (1) shall not contain any personally identifiable information.
 
-(Added Pub. L. 116–283, div. A, title V, § 532(a)(1), Jan. 1, 2021, 134 Stat. 3601; amended Pub. L. 119–60, div. G, title LXXV, § 7525, Dec. 18, 2025, 139 Stat. 1816.)
+(Added Pub. L. 116–283, div. A, title V, § 532(a)(1), Jan. 1, 2021, 134 Stat. 3601; amended Pub. L. 119–60, div. G, title LXXV, § 7525, Dec. 18, 2025, 139 Stat. 1816.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 7525(1), inserted “and the Secretary of the department in which the Coast Guard is operating when not operating as a service in the Navy” after “Secretary of Defense” and “or the Commandant” after “Secretary of a military department”.
+2025—Subsec. (a). Pub. L. 119–60, § 7525(1), inserted “and the Secretary of the department in which the Coast Guard is operating when not operating as a service in the Navy” after “Secretary of Defense” and “or the Commandant” after “Secretary of a military department”.
 
-Subsec. (c). Pub. L. 119–60, § 7525(2)(A), inserted “or the Secretary of the department in which the Coast Guard is operating when not operating as a service in the Navy” after “Secretary of Defense” in introductory provisions.
+Subsec. (c). Pub. L. 119–60, § 7525(2)(A), inserted “or the Secretary of the department in which the Coast Guard is operating when not operating as a service in the Navy” after “Secretary of Defense” in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 119–60, § 7525(2)(B), inserted “departments or the Commandant” after “Secretaries of the military”.
+Subsec. (c)(1). Pub. L. 119–60, § 7525(2)(B), inserted “departments or the Commandant” after “Secretaries of the military”.
 
-Subsec. (e). Pub. L. 119–60, § 7525(3), added subsec. (e).
+Subsec. (e). Pub. L. 119–60, § 7525(3), added subsec. (e).
 
-## § 1562. Database on domestic violence incidents
+## § 1562. Database on domestic violence incidents
 
 **(a) Database on Domestic Violence Incident.—** The Secretary of Defense shall establish a central database of information on the incidents of domestic violence involving members of the armed forces.
 
@@ -1803,13 +1803,13 @@ Subsec. (e). Pub. L. 119–60, § 7525(3), added subsec. (e).
 
 **(3)** The number of those incidents that involve evidence determined insufficient for supporting disciplinary action and for each such case, a description of the allegation.
 
-(Added Pub. L. 106–65, div. A, title V, § 594(a), Oct. 5, 1999, 113 Stat. 643.)
+(Added Pub. L. 106–65, div. A, title V, § 594(a), Oct. 5, 1999, 113 Stat. 643.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Improvements to Department of Defense Domestic Violence Programs**
 
-Pub. L. 111–383, div. A, title V, § 543, Jan. 7, 2011, 124 Stat. 4218, as amended by Pub. L. 113–291, div. A, title V, § 544(b), Dec. 19, 2014, 128 Stat. 3374, provided that:
+Pub. L. 111–383, div. A, title V, § 543, Jan. 7, 2011, 124 Stat. 4218, as amended by Pub. L. 113–291, div. A, title V, § 544(b), Dec. 19, 2014, 128 Stat. 3374, provided that:
 
 > **“(a) Implementation of Outstanding Comptroller General Recommendations.—** Consistent with the recommendations contained in the report of the Comptroller General of the United States titled ‘Status of Implementation of GAO’s 2006 Recommendations on the Department of Defense’s Domestic Violence Program’ (GAO–10–577R), the Secretary of Defense shall complete, not later than one year after the date of enactment of this Act [Jan. 7, 2011], implementation of actions to address the following recommendations:
 
@@ -1823,7 +1823,7 @@ Pub. L. 111–383, div. A, title V, § 543, Jan. 7, 2011, 124 Stat. 4218, as a
 
 **Comptroller General Review and Report**
 
-Pub. L. 108–136, div. A, title V, § 575, Nov. 24, 2003, 117 Stat. 1486, provided that:
+Pub. L. 108–136, div. A, title V, § 575, Nov. 24, 2003, 117 Stat. 1486, provided that:
 
 > **“(a) Review.—** During the two-year period beginning on the date of the enactment of this Act [Nov. 24, 2003], the Comptroller General shall review and assess the progress of the Department of Defense in implementing the recommendations of the Defense Task Force on Domestic Violence. In reviewing the status of the Department’s efforts, the Comptroller General should specifically focus on—
 
@@ -1835,11 +1835,11 @@ Pub. L. 108–136, div. A, title V, § 575, Nov. 24, 2003, 117 Stat. 1486, pro
 
 **Defense Task Force on Domestic Violence**
 
-Pub. L. 106–65, div. A, title V, § 591, Oct. 5, 1999, 113 Stat. 639, as amended by Pub. L. 107–107, div. A, title V, § 575, Dec. 28, 2001, 115 Stat. 1123, directed the Secretary of Defense to establish a Department of Defense Task Force on Domestic Violence; required the task force to submit to the Secretary of Defense a long-term, strategic plan to address matters relating to domestic violence within the military more effectively, to review the victims’ safety program under Pub. L. 106–65, § 592, set out below, and other matters relating to acts of domestic violence involving members of the Armed Forces, and to submit to the Secretary an annual report on its activities and activities of the military departments; directed the Secretary to submit the report and the Secretary’s evaluation of the report to committees of Congress; and provided for the termination of the task force on Apr. 24, 2003.
+Pub. L. 106–65, div. A, title V, § 591, Oct. 5, 1999, 113 Stat. 639, as amended by Pub. L. 107–107, div. A, title V, § 575, Dec. 28, 2001, 115 Stat. 1123, directed the Secretary of Defense to establish a Department of Defense Task Force on Domestic Violence; required the task force to submit to the Secretary of Defense a long-term, strategic plan to address matters relating to domestic violence within the military more effectively, to review the victims’ safety program under Pub. L. 106–65, § 592, set out below, and other matters relating to acts of domestic violence involving members of the Armed Forces, and to submit to the Secretary an annual report on its activities and activities of the military departments; directed the Secretary to submit the report and the Secretary’s evaluation of the report to committees of Congress; and provided for the termination of the task force on Apr. 24, 2003.
 
 **Incentive Program for Improving Responses to Domestic Violence Involving Members of the Armed Forces and Military Family Members**
 
-Pub. L. 106–65, div. A, title V, § 592, Oct. 5, 1999, 113 Stat. 642, provided that:
+Pub. L. 106–65, div. A, title V, § 592, Oct. 5, 1999, 113 Stat. 642, provided that:
 
 > **“(a) Purpose.—** The purpose of this section is to provide a program for the establishment on military installations of collaborative projects involving appropriate elements of the Armed Forces and the civilian community to improve, strengthen, or coordinate prevention and response efforts to domestic violence involving members of the Armed Forces, military family members, and others.
 
@@ -1869,7 +1869,7 @@ Pub. L. 106–65, div. A, title V, § 592, Oct. 5, 1999, 113 Stat. 642, provid
 
 **Uniform Department of Defense Policies for Responses to Domestic Violence**
 
-Pub. L. 106–65, div. A, title V, § 593, Oct. 5, 1999, 113 Stat. 643, provided that:
+Pub. L. 106–65, div. A, title V, § 593, Oct. 5, 1999, 113 Stat. 643, provided that:
 
 > **“(a) Requirement.—** The Secretary of Defense shall prescribe the following:
 
@@ -1883,7 +1883,7 @@ Pub. L. 106–65, div. A, title V, § 593, Oct. 5, 1999, 113 Stat. 643, provid
 
 > **“(b) Deadline.—** The Secretary of Defense shall carry out subsection (a) not later than six months after the date on which the Secretary receives the first report of the Defense Task Force on Domestic Violence under section 591(e) [set out as a note above].”
 
-## § 1562a. Complaints of retaliation by victims of sexual assault or sexual harassment and related persons: tracking by Department of Defense
+## § 1562a. Complaints of retaliation by victims of sexual assault or sexual harassment and related persons: tracking by Department of Defense
 
 **(a) Designation of Responsible Component.—**
 
@@ -1933,27 +1933,27 @@ Pub. L. 106–65, div. A, title V, § 593, Oct. 5, 1999, 113 Stat. 643, provid
 
 **(E)** any other organization, officer, or employee of the Department of Defense or department in which the Coast Guard is operating when not operating as a service in the Navy for members of the Coast Guard.
 
-(Added Pub. L. 117–81, div. A, title V, § 544(a), Dec. 27, 2021, 135 Stat. 1710; amended Pub. L. 119–60, div. G, title LXXV, § 7521, Dec. 18, 2025, 139 Stat. 1813.)
+(Added Pub. L. 117–81, div. A, title V, § 544(a), Dec. 27, 2021, 135 Stat. 1710; amended Pub. L. 119–60, div. G, title LXXV, § 7521, Dec. 18, 2025, 139 Stat. 1813.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 7521(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+2025—Subsec. (a). Pub. L. 119–60, § 7521(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-Subsec. (b). Pub. L. 119–60, § 7521(2)(A), inserted “and the Commandant of the Coast Guard” after “Secretary” in introductory provisions.
+Subsec. (b). Pub. L. 119–60, § 7521(2)(A), inserted “and the Commandant of the Coast Guard” after “Secretary” in introductory provisions.
 
-Subsec. (b)(4). Pub. L. 119–60, § 7521(2)(C), struck out “Department of Defense” before “component”.
+Subsec. (b)(4). Pub. L. 119–60, § 7521(2)(C), struck out “Department of Defense” before “component”.
 
-Subsec. (b)(8). Pub. L. 119–60, § 7521(2)(B), inserted “or with respect to the Coast Guard, the component designated by the Commandant of the Coast Guard” before period at end.
+Subsec. (b)(8). Pub. L. 119–60, § 7521(2)(B), inserted “or with respect to the Coast Guard, the component designated by the Commandant of the Coast Guard” before period at end.
 
-Subsec. (c)(2)(A). Pub. L. 119–60, § 7521(3)(A), inserted “, the Inspector General of the Department of Homeland Security,” before “or any other inspector general”.
+Subsec. (c)(2)(A). Pub. L. 119–60, § 7521(3)(A), inserted “, the Inspector General of the Department of Homeland Security,” before “or any other inspector general”.
 
-Subsec. (c)(2)(D). Pub. L. 119–60, § 7521(3)(B), substituted “armed force” for “military”.
+Subsec. (c)(2)(D). Pub. L. 119–60, § 7521(3)(B), substituted “armed force” for “military”.
 
-Subsec. (c)(2)(E). Pub. L. 119–60, § 7521(3)(C), inserted “or department in which the Coast Guard is operating when not operating as a service in the Navy for members of the Coast Guard” after “Department of Defense”.
+Subsec. (c)(2)(E). Pub. L. 119–60, § 7521(3)(C), inserted “or department in which the Coast Guard is operating when not operating as a service in the Navy for members of the Coast Guard” after “Department of Defense”.
 
-## § 1563. Consideration of proposals from Members of Congress for honorary promotions: procedures for review and promotion
+## § 1563. Consideration of proposals from Members of Congress for honorary promotions: procedures for review and promotion
 
 **(a) Review by Secretary Concerned.—** Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the honorary promotion (whether or not posthumous) of a former member or retired member of the armed forces that is not otherwise authorized by law. Based upon such review, the Secretary shall make a determination as to the merits of approving the promotion.
 
@@ -1975,27 +1975,27 @@ Subsec. (c)(2)(E). Pub. L. 119–60, § 7521(3)(C), inserted “or department 
 
 **(2)** a Representative in, or a Delegate or Resident Commissioner to, Congress.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title V, § 542(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–114; amended Pub. L. 108–136, div. A, title X, § 1031(a)(11), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 116–283, div. A, title V, § 523(b), Jan. 1, 2021, 134 Stat. 3598; Pub. L. 118–31, div. A, title XVII, § 1741(a)(6), Dec. 22, 2023, 137 Stat. 680.)
+(Added Pub. L. 106–398, § 1 [[div. A], title V, § 542(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–114; amended Pub. L. 108–136, div. A, title X, § 1031(a)(11), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 116–283, div. A, title V, § 523(b), Jan. 1, 2021, 134 Stat. 3598; Pub. L. 118–31, div. A, title XVII, § 1741(a)(6), Dec. 22, 2023, 137 Stat. 680.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2023—Subsec. (c)(1). Pub. L. 118–31 substituted “general or” for “general,” and struck out “, or an equivalent grade in the Space Force” after “rear admiral (upper half)”.
+2023—Subsec. (c)(1). Pub. L. 118–31 substituted “general or” for “general,” and struck out “, or an equivalent grade in the Space Force” after “rear admiral (upper half)”.
 
-2021—Pub. L. 116–283, § 523(b)(3), substituted “Consideration of proposals from Members of Congress for honorary promotions: procedures for review and promotion” for “Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review” in section catchline.
+2021—Pub. L. 116–283, § 523(b)(3), substituted “Consideration of proposals from Members of Congress for honorary promotions: procedures for review and promotion” for “Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review” in section catchline.
 
-Subsec. (a). Pub. L. 116–283, § 523(b)(1)(A), substituted, in first sentence, “the honorary promotion (whether or not posthumous) of a former member or retired member of the armed forces” for “the posthumous or honorary promotion or appointment of a member or former member of the armed forces, or any other person considered qualified,” and, in second sentence, “the promotion” for “the posthumous or honorary promotion or appointment”.
+Subsec. (a). Pub. L. 116–283, § 523(b)(1)(A), substituted, in first sentence, “the honorary promotion (whether or not posthumous) of a former member or retired member of the armed forces” for “the posthumous or honorary promotion or appointment of a member or former member of the armed forces, or any other person considered qualified,” and, in second sentence, “the promotion” for “the posthumous or honorary promotion or appointment”.
 
-Subsec. (b). Pub. L. 116–283, § 523(b)(1)(B), substituted “the honorary promotion” for “the posthumous or honorary promotion or appointment”.
+Subsec. (b). Pub. L. 116–283, § 523(b)(1)(B), substituted “the honorary promotion” for “the posthumous or honorary promotion or appointment”.
 
-Subsecs. (c), (d). Pub. L. 116–283, § 523(b)(2), added subsec. (c) and redesignated former subsec. (c) as (d).
+Subsecs. (c), (d). Pub. L. 116–283, § 523(b)(2), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-2003—Pub. L. 108–136, § 1031(a)(11)(B), struck out “and recommendation” after “review” in section catchline.
+2003—Pub. L. 108–136, § 1031(a)(11)(B), struck out “and recommendation” after “review” in section catchline.
 
-Subsec. (a). Pub. L. 108–136, § 1031(a)(11)(A)(i), struck out “and the other determinations necessary to comply with subsection (b)” before period at end.
+Subsec. (a). Pub. L. 108–136, § 1031(a)(11)(A)(i), struck out “and the other determinations necessary to comply with subsection (b)” before period at end.
 
-Subsec. (b). Pub. L. 108–136, § 1031(a)(11)(A)(ii), substituted “a detailed discussion of the rationale supporting the determination.” for “notice in writing of one of the following:
+Subsec. (b). Pub. L. 108–136, § 1031(a)(11)(A)(ii), substituted “a detailed discussion of the rationale supporting the determination.” for “notice in writing of one of the following:
 
 “(1) The posthumous or honorary promotion or appointment does not warrant approval on the merits.
 
@@ -2007,7 +2007,7 @@ Subsec. (b). Pub. L. 108–136, § 1031(a)(11)(A)(ii), substituted “a detail
 
 A notice under paragraph (1) or (4) shall be accompanied by a statement of the reasons for the decision of the Secretary.”
 
-## § 1563a. Honorary promotions on the initiative of the Department of Defense
+## § 1563a. Honorary promotions on the initiative of the Department of Defense
 
 **(a) In General.—**
 
@@ -2033,23 +2033,23 @@ A notice under paragraph (1) or (4) shall be accompanied by a statement of the r
 
 **(d) Nature of Promotion.—** Any promotion pursuant to this section is honorary, and shall not affect the pay, retired pay, or other benefits from the United States to which the former member or retired member concerned is entitled or would have been entitled based on the military service of such former member or retired member, nor affect any benefits to which any other person is or may become entitled based on the military service of such former member or retired member.
 
-(Added Pub. L. 116–283, div. A, title V, § 523(a), Jan. 1, 2021, 134 Stat. 3597; amended Pub. L. 118–31, div. A, title XVII, § 1741(a)(6), Dec. 22, 2023, 137 Stat. 680; Pub. L. 119–60, div. A, title V, § 523, Dec. 18, 2025, 139 Stat. 864.)
+(Added Pub. L. 116–283, div. A, title V, § 523(a), Jan. 1, 2021, 134 Stat. 3597; amended Pub. L. 118–31, div. A, title XVII, § 1741(a)(6), Dec. 22, 2023, 137 Stat. 680; Pub. L. 119–60, div. A, title V, § 523, Dec. 18, 2025, 139 Stat. 864.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (a)(1). Pub. L. 119–60, § 523(1)(A), substituted “the Secretary of a military department may make an honorary promotion, including a posthumous honorary promotion, of a former” for “the Secretary may make an honorary promotion (whether or not posthumous) of a former” and struck out “if the Secretary determines that the promotion is merited” before period at end.
+2025—Subsec. (a)(1). Pub. L. 119–60, § 523(1)(A), substituted “the Secretary of a military department may make an honorary promotion, including a posthumous honorary promotion, of a former” for “the Secretary may make an honorary promotion (whether or not posthumous) of a former” and struck out “if the Secretary determines that the promotion is merited” before period at end.
 
-Subsec. (a)(2) to (4). Pub. L. 119–60, § 523(1)(B), added pars. (2) to (4) and struck out former par. (2) which read as follows: “The authority to make an honorary promotion under this subsection shall apply notwithstanding that the promotion is not otherwise authorized by law.”
+Subsec. (a)(2) to (4). Pub. L. 119–60, § 523(1)(B), added pars. (2) to (4) and struck out former par. (2) which read as follows: “The authority to make an honorary promotion under this subsection shall apply notwithstanding that the promotion is not otherwise authorized by law.”
 
-Subsec. (b). Pub. L. 119–60, § 523(2), substituted “The Secretary of a military department” for “The Secretary”.
+Subsec. (b). Pub. L. 119–60, § 523(2), substituted “The Secretary of a military department” for “The Secretary”.
 
-Subsec. (c). Pub. L. 119–60, § 523(3), substituted “the Secretary of the military department concerned” for “the Secretary”.
+Subsec. (c). Pub. L. 119–60, § 523(3), substituted “the Secretary of the military department concerned” for “the Secretary”.
 
-2023—Subsec. (a)(1). Pub. L. 118–31 substituted “general or” for “general,” and struck out “, or an equivalent grade in the Space Force” after “rear admiral (upper half)”.
+2023—Subsec. (a)(1). Pub. L. 118–31 substituted “general or” for “general,” and struck out “, or an equivalent grade in the Space Force” after “rear admiral (upper half)”.
 
-## § 1564. Security clearance investigations
+## § 1564. Security clearance investigations
 
 **(a) Expedited Process.—** The Secretary of Defense may prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for—
 
@@ -2127,23 +2127,23 @@ Subsec. (c). Pub. L. 119–60, § 523(3), substituted “the Secretary of the 
 
 **(g) Use of Appropriated Funds.—** The Secretary of Defense may use funds authorized to be appropriated to the Department of Defense for operation and maintenance to conduct background investigations under this section for individuals described in subsection (a)(2).
 
-(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1072(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–276; amended Pub. L. 111–383, div. A, title III, § 351(a), Jan. 7, 2011, 124 Stat. 4192; Pub. L. 112–239, div. A, title X, § 1076(e)(1), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 115–232, div. A, title V, § 542, Aug. 13, 2018, 132 Stat. 1762; Pub. L. 116–283, div. A, title X, § 1081(a)(29), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 119–60, div. G, title LXXV, § 7530, Dec. 18, 2025, 139 Stat. 1821.)
+(Added Pub. L. 106–398, § 1 [[div. A], title X, § 1072(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–276; amended Pub. L. 111–383, div. A, title III, § 351(a), Jan. 7, 2011, 124 Stat. 4192; Pub. L. 112–239, div. A, title X, § 1076(e)(1), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 115–232, div. A, title V, § 542, Aug. 13, 2018, 132 Stat. 1762; Pub. L. 116–283, div. A, title X, § 1081(a)(29), Jan. 1, 2021, 134 Stat. 3872; Pub. L. 119–60, div. G, title LXXV, § 7530, Dec. 18, 2025, 139 Stat. 1821.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2025—Subsec. (c)(1). Pub. L. 119–60, § 7530(1)(A), inserted “, and the Secretary of Homeland Security shall conduct an investigation or adjudication under subsection (a) of any individual described in paragraph (3),” after “paragraph (2)” in introductory provisions.
+2025—Subsec. (c)(1). Pub. L. 119–60, § 7530(1)(A), inserted “, and the Secretary of Homeland Security shall conduct an investigation or adjudication under subsection (a) of any individual described in paragraph (3),” after “paragraph (2)” in introductory provisions.
 
-Subsec. (c)(1)(A)(iv). Pub. L. 119–60, § 7530(1)(B), substituted “the Secretary of Defense or the Secretary of Homeland Security, as the case may be,” for “the Secretary”.
+Subsec. (c)(1)(A)(iv). Pub. L. 119–60, § 7530(1)(B), substituted “the Secretary of Defense or the Secretary of Homeland Security, as the case may be,” for “the Secretary”.
 
-Subsec. (c)(2). Pub. L. 119–60, § 7530(2), inserted “(other than an individual described in paragraph (3))” after “is an individual” in introductory provisions.
+Subsec. (c)(2). Pub. L. 119–60, § 7530(2), inserted “(other than an individual described in paragraph (3))” after “is an individual” in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 119–60, § 7530(4), added par. (3). Former par. (3) redesignated (4).
+Subsec. (c)(3). Pub. L. 119–60, § 7530(4), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (c)(4). Pub. L. 119–60, § 7530(3), (5), redesignated par. (3) as (4) and substituted “Secretary of Defense, in the case of an individual described in paragraph (2), and the Secretary of Homeland Security, in the case of an individual described in paragraph (3), shall ensure that relevant information on the conviction or determination described in paragraph (1) of such an individual” for “Secretary shall ensure that relevant information on the conviction or determination described in paragraph (1) of an individual described in paragraph (2)”. Former par. (4) redesignated (5).
+Subsec. (c)(4). Pub. L. 119–60, § 7530(3), (5), redesignated par. (3) as (4) and substituted “Secretary of Defense, in the case of an individual described in paragraph (2), and the Secretary of Homeland Security, in the case of an individual described in paragraph (3), shall ensure that relevant information on the conviction or determination described in paragraph (1) of such an individual” for “Secretary shall ensure that relevant information on the conviction or determination described in paragraph (1) of an individual described in paragraph (2)”. Former par. (4) redesignated (5).
 
-Subsec. (c)(5). Pub. L. 119–60, § 7530(3), redesignated par. (4) as (5).
+Subsec. (c)(5). Pub. L. 119–60, § 7530(3), redesignated par. (4) as (5).
 
 2021—Subsec. (c)(2). Pub. L. 116–283 substituted “is an individual” for “in an individual” in introductory provisions.
 
@@ -2151,19 +2151,19 @@ Subsec. (c)(5). Pub. L. 119–60, § 7530(3), redesignated par. (4) as (5).
 
 2013—Subsec. (a)(2)(B)(ii), (iii). Pub. L. 112–239 substituted “January 7, 2011” for “the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
 
-2011—Subsec. (a). Pub. L. 111–383, § 351(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for Department of Defense personnel and Department of Defense contractor personnel who are engaged in sensitive duties that are critical to the national security.”
+2011—Subsec. (a). Pub. L. 111–383, § 351(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Defense shall prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for Department of Defense personnel and Department of Defense contractor personnel who are engaged in sensitive duties that are critical to the national security.”
 
-Subsec. (f). Pub. L. 111–383, § 351(a)(2), added subsec. (f).
+Subsec. (f). Pub. L. 111–383, § 351(a)(2), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 111–383, div. A, title III, § 351(b), Jan. 7, 2011, 124 Stat. 4193, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a background investigation conducted after the date of the enactment of this Act [Jan. 7, 2011].”
+Pub. L. 111–383, div. A, title III, § 351(b), Jan. 7, 2011, 124 Stat. 4193, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to a background investigation conducted after the date of the enactment of this Act [Jan. 7, 2011].”
 
 **Information Technology Programs of the National Background Investigation Service**
 
-Pub. L. 118–159, div. A, title XV, § 1512, Dec. 23, 2024, 138 Stat. 2136, provided that:
+Pub. L. 118–159, div. A, title XV, § 1512, Dec. 23, 2024, 138 Stat. 2136, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the authorizing official of the Defense Counterintelligence and Security Agency, in coordination with the Chief Information Officer of the Department of Defense, shall—
 
@@ -2177,7 +2177,7 @@ Pub. L. 118–159, div. A, title XV, § 1512, Dec. 23, 2024, 138 Stat. 2136, p
 
 **Security Clearance Bridge Pilot Program**
 
-Pub. L. 117–263, div. A, title VIII, § 882, Dec. 23, 2022, 136 Stat. 2744, provided that:
+Pub. L. 117–263, div. A, title VIII, § 882, Dec. 23, 2022, 136 Stat. 2744, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, in consultation with the Director of National Intelligence, shall conduct a pilot program to allow the Defense Counterintelligence and Security Agency to sponsor the personal security clearances of the employees of innovative technology companies that are performing a contract of the Department of Defense while the Government completes the adjudication of the facility clearance application of such a [sic] innovative technology company.
 
@@ -2223,7 +2223,7 @@ Pub. L. 117–263, div. A, title VIII, § 882, Dec. 23, 2022, 136 Stat. 2744, 
 
 **Security Clearances for Recently Separated Members of the Armed Forces and Civilian Employees of the Department of Defense**
 
-Pub. L. 117–263, div. A, title X, § 1045, Dec. 23, 2022, 136 Stat. 2772, provided that:
+Pub. L. 117–263, div. A, title X, § 1045, Dec. 23, 2022, 136 Stat. 2772, provided that:
 
 > **“(a) Improvements.—**
 
@@ -2257,7 +2257,7 @@ Pub. L. 117–263, div. A, title X, § 1045, Dec. 23, 2022, 136 Stat. 2772, pr
 
 **Department of Defense Policy on Unclassified Workspaces and Job Functions of Personnel With Pending Security Clearances**
 
-Pub. L. 116–283, div. A, title XI, § 1101, Jan. 1, 2021, 134 Stat. 3884, provided that:
+Pub. L. 116–283, div. A, title XI, § 1101, Jan. 1, 2021, 134 Stat. 3884, provided that:
 
 > **“(a) Policy Required.—** The Secretary of Defense shall develop and implement a policy under which a covered individual may occupy a position within the Department of Defense that requires a security clearance to perform appropriate unclassified work, or work commensurate with a security clearance already held by the individual (which may include an interim security clearance), while such individual awaits a final determination with respect to the security clearance required for such position.
 
@@ -2281,7 +2281,7 @@ Pub. L. 116–283, div. A, title XI, § 1101, Jan. 1, 2021, 134 Stat. 3884, pr
 
 **Defense Counterintelligence and Security Agency Activities on Facilitating Access to Local Criminal Records Historical Data**
 
-Pub. L. 116–92, div. A, title XVI, § 1625, Dec. 20, 2019, 133 Stat. 1736, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1625, Dec. 20, 2019, 133 Stat. 1736, provided that:
 
 > **“(a) Activity Authorized.—** Subject to subsection (c), the Director of the Defense Counterintelligence and Security Agency may carry out a set of activities to reduce the time and cost of accessing State, local, and tribal law enforcement records for the background investigations required for current and prospective Federal Government employees and contractors.
 
@@ -2305,7 +2305,7 @@ Pub. L. 116–92, div. A, title XVI, § 1625, Dec. 20, 2019, 133 Stat. 1736, p
 
 **Reports on Consolidated Adjudication Facility of the Defense Counterintelligence and Security Agency**
 
-Pub. L. 116–92, div. A, title XVI, § 1627, Dec. 20, 2019, 133 Stat. 1740, provided that:
+Pub. L. 116–92, div. A, title XVI, § 1627, Dec. 20, 2019, 133 Stat. 1740, provided that:
 
 > **“(a) Reports.—** On a semiannual basis during the period beginning on the date of the enactment of this Act [Dec. 20, 2019] and ending on the date specified in subsection (b), and annually thereafter, the Director of the Defense Counterintelligence and Security Agency shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the processes in place for adjudicating security clearances and the progress made to address the backlog of security clearance applications, including—
 
@@ -2321,11 +2321,11 @@ Pub. L. 116–92, div. A, title XVI, § 1627, Dec. 20, 2019, 133 Stat. 1740, p
 
 **Termination of Requirement for Department of Defense Facility Access Clearances for Joint Ventures Composed of Previously-Cleared Entities**
 
-Pub. L. 116–92, div. A, title XVI, § 1629, Dec. 20, 2019, 133 Stat. 1741, provided that: “A clearance for access to a Department of Defense installation or facility may not be required for a joint venture if that joint venture is composed entirely of entities that are currently cleared for access to such installation or facility.”
+Pub. L. 116–92, div. A, title XVI, § 1629, Dec. 20, 2019, 133 Stat. 1741, provided that: “A clearance for access to a Department of Defense installation or facility may not be required for a joint venture if that joint venture is composed entirely of entities that are currently cleared for access to such installation or facility.”
 
 **Background and Security Investigations for Department of Defense Personnel by Defense Counterintelligence and Security Agency**
 
-Pub. L. 115–91, div. A, title IX, § 925, Dec. 12, 2017, 131 Stat. 1526, as amended by Pub. L. 115–232, div. A, title IX, § 937, Aug. 13, 2018, 132 Stat. 1940, provided that:
+Pub. L. 115–91, div. A, title IX, § 925, Dec. 12, 2017, 131 Stat. 1526, as amended by Pub. L. 115–232, div. A, title IX, § 937, Aug. 13, 2018, 132 Stat. 1940, provided that:
 
 > **“(a) Transition To Discharge by Defense Security Service [now Defense Counterintelligence and Security Agency].—**
 
@@ -2501,7 +2501,7 @@ Pub. L. 115–91, div. A, title IX, § 925, Dec. 12, 2017, 131 Stat. 1526, as 
 
 **Enhanced Security Programs for Department of Defense Personnel and Innovation Initiatives**
 
-Pub. L. 114–328, div. A, title IX, § 951, Dec. 23, 2016, 130 Stat. 2371, provided that:
+Pub. L. 114–328, div. A, title IX, § 951, Dec. 23, 2016, 130 Stat. 2371, provided that:
 
 > **“(a) Enhancement of Security Programs Generally.—**
 
@@ -2597,7 +2597,7 @@ Pub. L. 114–328, div. A, title IX, § 951, Dec. 23, 2016, 130 Stat. 2371, pr
 
 **Reform and Improvement of Personnel Security, Insider Threat Detection and Prevention, and Physical Security**
 
-Pub. L. 114–92, div. A, title X, § 1086, Nov. 25, 2015, 129 Stat. 1006, as amended by Pub. L. 114–328, div. A, title X, § 1081(c)(7), Dec. 23, 2016, 130 Stat. 2420, provided that:
+Pub. L. 114–92, div. A, title X, § 1086, Nov. 25, 2015, 129 Stat. 1006, as amended by Pub. L. 114–328, div. A, title X, § 1081(c)(7), Dec. 23, 2016, 130 Stat. 2420, provided that:
 
 > **“(a) Personnel Security and Insider Threat Protection in Department of Defense.—**
 
@@ -2763,11 +2763,11 @@ Pub. L. 114–92, div. A, title X, § 1086, Nov. 25, 2015, 129 Stat. 1006, as 
 
 > **“(2)** the term ‘Performance Accountability Council’ means the Suitability and Security Clearance Performance Accountability Council established under Executive Order 13467 (73 Fed. Reg. 38103) [50 U.S.C. 3161 note], or any successor thereto.”
 
-[Pub. L. 114–328, div. A, title X, § 1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(7) to section 1086 of Pub. L. 114–92, set out above, is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.]
+[Pub. L. 114–328, div. A, title X, § 1081(c), Dec. 23, 2016, 130 Stat. 2419, provided that the amendment made by section 1081(c)(7) to section 1086 of Pub. L. 114–92, set out above, is effective as of Nov. 25, 2015, and as if included in Pub. L. 114–92 as enacted.]
 
 **Personnel Security**
 
-Pub. L. 113–66, div. A, title IX, § 907, Dec. 26, 2013, 127 Stat. 818, as amended by Pub. L. 115–91, div. A, title X, § 1051(s)(1), Dec. 12, 2017, 131 Stat. 1566, provided that:
+Pub. L. 113–66, div. A, title IX, § 907, Dec. 26, 2013, 127 Stat. 818, as amended by Pub. L. 115–91, div. A, title X, § 1051(s)(1), Dec. 12, 2017, 131 Stat. 1566, provided that:
 
 > **“(a) Comparative Analysis.—**
 
@@ -2891,7 +2891,7 @@ Pub. L. 113–66, div. A, title IX, § 907, Dec. 26, 2013, 127 Stat. 818, as a
 
 **Required Notification Whenever Members of the Armed Forces Are Completing Standard Form 86 of the Questionnaire for National Security Positions**
 
-Pub. L. 113–66, div. A, title XVII, § 1747, Dec. 26, 2013, 127 Stat. 983, provided that:
+Pub. L. 113–66, div. A, title XVII, § 1747, Dec. 26, 2013, 127 Stat. 983, provided that:
 
 > **“(a) Notification of Policy.—** Whenever a member of the Armed Forces is required to complete Standard Form 86 of the Questionnaire for National Security Positions in connection with an application, investigation, or reinvestigation for a security clearance, the member shall be notified of the policy described in subsection (b) regarding question 21 of such form.
 
@@ -2903,7 +2903,7 @@ Pub. L. 113–66, div. A, title XVII, § 1747, Dec. 26, 2013, 127 Stat. 983, p
 
 **Deadline for Prescribing Process for Prioritizing Background Investigations for Security Clearances**
 
-Pub. L. 106–398, § 1 [[div. A], title X, § 1072(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–277, provided that the process required by subsec. (a) of this section for expediting the completion of security clearance background investigations was to be prescribed by Jan. 1, 2001.
+Pub. L. 106–398, § 1 [[div. A], title X, § 1072(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–277, provided that the process required by subsec. (a) of this section for expediting the completion of security clearance background investigations was to be prescribed by Jan. 1, 2001.
 
 **Executive Documents**
 
@@ -2939,7 +2939,7 @@ Sec. 6. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Donald J. Trump.
 
-## § 1564a. Counterintelligence polygraph program
+## § 1564a. Counterintelligence polygraph program
 
 **(a) Authority for Program.—** The Secretary of Defense may carry out a program for the administration of counterintelligence polygraph examinations to persons described in subsection (b). The program shall be conducted in accordance with the standards specified in subsection (e).
 
@@ -3039,21 +3039,21 @@ Donald J. Trump.
 
 **(3)** Developmental research on polygraph techniques, instrumentation, and analytic methods.
 
-(Added Pub. L. 108–136, div. A, title X, § 1041(a)(1), Nov. 24, 2003, 117 Stat. 1607; amended Pub. L. 109–163, div. A, title X, § 1054(a), Jan. 6, 2006, 119 Stat. 3436; Pub. L. 115–232, div. A, title XVI, § 1623(a)–(c), Aug. 13, 2018, 132 Stat. 2119.)
+(Added Pub. L. 108–136, div. A, title X, § 1041(a)(1), Nov. 24, 2003, 117 Stat. 1607; amended Pub. L. 109–163, div. A, title X, § 1054(a), Jan. 6, 2006, 119 Stat. 3436; Pub. L. 115–232, div. A, title XVI, § 1623(a)–(c), Aug. 13, 2018, 132 Stat. 2119.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Executive Order No. 12958, referred to in subsec. (c)(1)(B), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order No. 12958, referred to in subsec. (c)(1)(B), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in Pub. L. 100–180, title XI, § 1121, Dec. 4, 1987, 101 Stat. 1147, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 108–136, div. A, title X, § 1041(b), Nov. 24, 2003, 117 Stat. 1608.
+Provisions similar to those in this section were contained in Pub. L. 100–180, title XI, § 1121, Dec. 4, 1987, 101 Stat. 1147, as amended, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 108–136, div. A, title X, § 1041(b), Nov. 24, 2003, 117 Stat. 1608.
 
 **Amendments**
 
-2018—Subsec. (b). Pub. L. 115–232, § 1623(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “Except as provided in subsection (d), the following persons, if their duties are described in subsection (c), are subject to this section:
+2018—Subsec. (b). Pub. L. 115–232, § 1623(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “Except as provided in subsection (d), the following persons, if their duties are described in subsection (c), are subject to this section:
 
 “(1) Military and civilian personnel of the Department of Defense.
 
@@ -3063,11 +3063,11 @@ Provisions similar to those in this section were contained in Pub. L. 100–180,
 
 “(4) An applicant for a position in the Department of Defense.”
 
-Subsec. (c). Pub. L. 115–232, § 1623(c)(1), substituted “subsection (b)(1)” for “subsection (b)” in introductory provisions.
+Subsec. (c). Pub. L. 115–232, § 1623(c)(1), substituted “subsection (b)(1)” for “subsection (b)” in introductory provisions.
 
-Subsec. (e)(2)(A). Pub. L. 115–232, § 1623(c)(2), substituted “subsections (b)(1) and (c)” for “subsections (b) and (c)”.
+Subsec. (e)(2)(A). Pub. L. 115–232, § 1623(c)(2), substituted “subsections (b)(1) and (c)” for “subsections (b) and (c)”.
 
-Subsec. (e)(2)(D). Pub. L. 115–232, § 1623(b), added subpar. (D).
+Subsec. (e)(2)(D). Pub. L. 115–232, § 1623(b), added subpar. (D).
 
 2006—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section related to authority for program for administration of counterintelligence polygraph examinations in subsec. (a), persons covered in subsec. (b), exceptions from coverage for certain intelligence agencies and functions in subsec. (c), oversight in subsec. (d), and polygraph research program in subsec. (e).
 
@@ -3075,13 +3075,13 @@ Subsec. (e)(2)(D). Pub. L. 115–232, § 1623(b), added subpar. (D).
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title X, § 1054(b), Jan. 6, 2006, 119 Stat. 3438, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to polygraph examinations administered beginning on the date of the enactment of this Act [Jan. 6, 2006].”
+Pub. L. 109–163, div. A, title X, § 1054(b), Jan. 6, 2006, 119 Stat. 3438, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to polygraph examinations administered beginning on the date of the enactment of this Act [Jan. 6, 2006].”
 
 **Construction**
 
-Pub. L. 115–232, div. A, title XVI, § 1623(d), Aug. 13, 2018, 132 Stat. 2119, provided that: “Nothing in section 1564a of title 10, United States Code, as amended by this section, shall be construed to prohibit the granting of a security clearance to persons described in subsection (b)(2) of such section absent information relevant to the adjudication process, as described in part 147 of title 32, Code of Federal Regulations, or such successor regulations.”
+Pub. L. 115–232, div. A, title XVI, § 1623(d), Aug. 13, 2018, 132 Stat. 2119, provided that: “Nothing in section 1564a of title 10, United States Code, as amended by this section, shall be construed to prohibit the granting of a security clearance to persons described in subsection (b)(2) of such section absent information relevant to the adjudication process, as described in part 147 of title 32, Code of Federal Regulations, or such successor regulations.”
 
-## § 1564b. Security vetting for foreign nationals
+## § 1564b. Security vetting for foreign nationals
 
 **(a) Standards and Process.—**
 
@@ -3109,7 +3109,7 @@ Pub. L. 115–232, div. A, title XVI, § 1623(d), Aug. 13, 2018, 132 Stat. 211
 
 **(B)** a member of the armed forces.
 
-(Added Pub. L. 115–232, div. A, title XVI, § 1622(a), Aug. 13, 2018, 132 Stat. 2117.)
+(Added Pub. L. 115–232, div. A, title XVI, § 1622(a), Aug. 13, 2018, 132 Stat. 2117.)
 
 **Editorial Notes**
 
@@ -3117,7 +3117,7 @@ Pub. L. 115–232, div. A, title XVI, § 1623(d), Aug. 13, 2018, 132 Stat. 211
 
 Executive Order 13467, referred to in subsec. (a)(1), is Ex. Ord. No. 13467, June 30, 2008, 73 F.R. 38103, which is set out as a note under section 3161 of Title 50, War and National Defense.
 
-## § 1565. DNA identification information: collection from certain offenders; use
+## § 1565. DNA identification information: collection from certain offenders; use
 
 **(a) Collection of DNA Samples.—**
 
@@ -3145,7 +3145,7 @@ Executive Order 13467, referred to in subsec. (a)(1), is Ex. Ord. No. 13467, Jun
 
 **(2)** Any other offense under the Uniform Code of Military Justice that is comparable to a qualifying Federal offense (as determined under section 3(d) of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135a(d))).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(e) Expungement.—**
 
@@ -3163,7 +3163,7 @@ Executive Order 13467, referred to in subsec. (a)(1), is Ex. Ord. No. 13467, Jun
 
 **(f) Regulations.—** This section shall be carried out under regulations prescribed by the Secretary of Defense, in consultation with the Secretary of Homeland Security and the Attorney General. Those regulations shall apply, to the extent practicable, uniformly throughout the armed forces.
 
-(Added Pub. L. 106–546, § 5(a)(1), Dec. 19, 2000, 114 Stat. 2731; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–405, title II, § 203(c), Oct. 30, 2004, 118 Stat. 2270.)
+(Added Pub. L. 106–546, § 5(a)(1), Dec. 19, 2000, 114 Stat. 2731; amended Pub. L. 107–296, title XVII, § 1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–405, title II, § 203(c), Oct. 30, 2004, 118 Stat. 2270.)
 
 **Editorial Notes**
 
@@ -3173,7 +3173,7 @@ Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in su
 
 Section 4 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (e)(2)(B), is section 4 of Pub. L. 106–546, which is classified to section 40703 of Title 34, Crime Control and Law Enforcement.
 
-The Uniform Code of Military Justice, referred to in subsec. (d), is classified to chapter 47 (§ 801 et seq.) of this title.
+The Uniform Code of Military Justice, referred to in subsec. (d), is classified to chapter 47 (§ 801 et seq.) of this title.
 
 Section 210304 of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (e)(1), is classified to section 12592 of Title 34, Crime Control and Law Enforcement.
 
@@ -3195,13 +3195,13 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **Initial Determination of Qualifying Military Offenses**
 
-Pub. L. 106–546, § 5(b), Dec. 19, 2000, 114 Stat. 2733, provided that: “The initial determination of qualifying military offenses under section 1565(d) of title 10, United States Code, as added by subsection (a)(1), shall be made not later than 120 days after the date of the enactment of this Act [Dec. 19, 2000].”
+Pub. L. 106–546, § 5(b), Dec. 19, 2000, 114 Stat. 2733, provided that: “The initial determination of qualifying military offenses under section 1565(d) of title 10, United States Code, as added by subsection (a)(1), shall be made not later than 120 days after the date of the enactment of this Act [Dec. 19, 2000].”
 
 **Commencement of Collection**
 
-Pub. L. 106–546, § 5(c), Dec. 19, 2000, 114 Stat. 2733, provided that: “Collection of DNA samples under section 1565(a) of such title, as added by subsection (a)(1), shall, subject to the availability of appropriations, commence not later than the date that is 60 days after the date of the initial determination referred to in subsection (b) [set out above].”
+Pub. L. 106–546, § 5(c), Dec. 19, 2000, 114 Stat. 2733, provided that: “Collection of DNA samples under section 1565(a) of such title, as added by subsection (a)(1), shall, subject to the availability of appropriations, commence not later than the date that is 60 days after the date of the initial determination referred to in subsection (b) [set out above].”
 
-## § 1565a. DNA samples maintained for identification of human remains: use for law enforcement purposes
+## § 1565a. DNA samples maintained for identification of human remains: use for law enforcement purposes
 
 **(a) Compliance with Court Order.—**
 
@@ -3213,9 +3213,9 @@ Pub. L. 106–546, § 5(c), Dec. 19, 2000, 114 Stat. 2733, provided that: “C
 
 **(c) Definition.—** In this section, the term “DNA sample” has the meaning given such term in section 1565(c) of this title.
 
-(Added Pub. L. 107–314, div. A, title X, § 1063(a), Dec. 2, 2002, 116 Stat. 2653.)
+(Added Pub. L. 107–314, div. A, title X, § 1063(a), Dec. 2, 2002, 116 Stat. 2653.)
 
-## § 1565b. Victims of sexual assault: access to legal assistance and services of Sexual Assault Response Coordinators and Sexual Assault Victim Advocates
+## § 1565b. Victims of sexual assault: access to legal assistance and services of Sexual Assault Response Coordinators and Sexual Assault Victim Advocates
 
 **(a) Availability of Legal Assistance and Victim Advocate Services.—**
 
@@ -3253,19 +3253,19 @@ Pub. L. 106–546, § 5(c), Dec. 19, 2000, 114 Stat. 2733, provided that: “C
 
 **(2) State.—** The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
-(Added Pub. L. 112–81, div. A, title V, § 581(b)(1), Dec. 31, 2011, 125 Stat. 1431; amended Pub. L. 113–66, div. A, title XVII, § 1716(a)(3)(C), Dec. 26, 2013, 127 Stat. 969; Pub. L. 114–92, div. A, title V, §§ 534(b), 536, Nov. 25, 2015, 129 Stat. 816, 817.)
+(Added Pub. L. 112–81, div. A, title V, § 581(b)(1), Dec. 31, 2011, 125 Stat. 1431; amended Pub. L. 113–66, div. A, title XVII, § 1716(a)(3)(C), Dec. 26, 2013, 127 Stat. 969; Pub. L. 114–92, div. A, title V, §§ 534(b), 536, Nov. 25, 2015, 129 Stat. 816, 817.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (a)(3), (4). Pub. L. 114–92, § 534(b), added par. (3) and redesignated former par. (3) as (4).
+2015—Subsec. (a)(3), (4). Pub. L. 114–92, § 534(b), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (b)(1). Pub. L. 114–92, § 536(b), substituted “an adult dependent” for “a dependent”.
+Subsec. (b)(1). Pub. L. 114–92, § 536(b), substituted “an adult dependent” for “a dependent”.
 
-Subsec. (b)(3). Pub. L. 114–92, § 536(a), added par. (3).
+Subsec. (b)(3). Pub. L. 114–92, § 536(a), added par. (3).
 
-Subsec. (c). Pub. L. 114–92, § 536(c), added subsec. (c).
+Subsec. (c). Pub. L. 114–92, § 536(c), added subsec. (c).
 
 2013—Subsec. (a)(1)(A). Pub. L. 113–66 substituted “sections 1044 and 1044e” for “section 1044”.
 
@@ -3273,11 +3273,11 @@ Subsec. (c). Pub. L. 114–92, § 536(c), added subsec. (c).
 
 **Dissemination of Civilian Legal Services Information**
 
-Pub. L. 117–263, div. A, title V, § 549C, Dec. 23, 2022, 136 Stat. 2591, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, acting through the head of the Sexual Assault Prevention and Response Office of the Department of Defense, shall ensure that information on the availability of legal resources from civilian legal service organizations is distributed to military-connected sexual assault victims in an organized and consistent manner.”
+Pub. L. 117–263, div. A, title V, § 549C, Dec. 23, 2022, 136 Stat. 2591, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, acting through the head of the Sexual Assault Prevention and Response Office of the Department of Defense, shall ensure that information on the availability of legal resources from civilian legal service organizations is distributed to military-connected sexual assault victims in an organized and consistent manner.”
 
 **Coordination of Support for Survivors of Sexual Trauma**
 
-Pub. L. 116–283, div. A, title V, § 538, Jan. 1, 2021, 134 Stat. 3605, provided that:
+Pub. L. 116–283, div. A, title V, § 538, Jan. 1, 2021, 134 Stat. 3605, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Jan. 1, 2021], the Secretaries of Defense and Veterans Affairs shall jointly develop, implement, and maintain a standard of coordinated care for members of the Armed Forces who are survivors of sexual trauma. Such standard shall include the following:
 
@@ -3327,7 +3327,7 @@ Pub. L. 116–283, div. A, title V, § 538, Jan. 1, 2021, 134 Stat. 3605, prov
 
 **Information for Members of the Armed Forces on Availability of Services of the Department of Veterans Affairs Relating to Sexual Trauma**
 
-Pub. L. 116–92, div. A, title V, § 599, Dec. 20, 2019, 133 Stat. 1421, provided that:
+Pub. L. 116–92, div. A, title V, § 599, Dec. 20, 2019, 133 Stat. 1421, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall inform members of the Armed Forces, using mechanisms available to the Secretary, of the eligibility of such members for services of the Department of Veterans Affairs relating to sexual trauma.
 
@@ -3341,17 +3341,17 @@ Pub. L. 116–92, div. A, title V, § 599, Dec. 20, 2019, 133 Stat. 1421, prov
 
 **Legal Assistance for Victims of Sexual Assault**
 
-Pub. L. 112–81, div. A, title V, § 581(a), Dec. 31, 2011, 125 Stat. 1430, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 31, 2011], the Secretaries of the military departments shall prescribe regulations on the provision of legal assistance to victims of sexual assault. Such regulations shall require that legal assistance be provided by military or civilian legal assistance counsel pursuant to section 1044 of title 10, United States Code.”
+Pub. L. 112–81, div. A, title V, § 581(a), Dec. 31, 2011, 125 Stat. 1430, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 31, 2011], the Secretaries of the military departments shall prescribe regulations on the provision of legal assistance to victims of sexual assault. Such regulations shall require that legal assistance be provided by military or civilian legal assistance counsel pursuant to section 1044 of title 10, United States Code.”
 
-## § 1566. Voting assistance: compliance assessments; assistance
+## § 1566. Voting assistance: compliance assessments; assistance
 
 **(a) Regulations.—** The Secretary of Defense shall prescribe regulations to require that the Army, Navy, Air Force, Marine Corps, and Space Force ensure their compliance with any directives issued by the Secretary of Defense in implementing any voting assistance program.
 
 **(b) Voting Assistance Programs Defined.—** In this section, the term “voting assistance programs” means—
 
-**(1)** the Federal Voting Assistance Program carried out under the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.); 1
+**(1)** the Federal Voting Assistance Program carried out under the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 and
 
@@ -3373,9 +3373,9 @@ and
 
 **(B)** the level of compliance during the preceding calendar year with voting assistance programs of each of the Army, Navy, Air Force, Marine Corps, and Space Force.
 
-**[(d)** Repealed. Pub. L. 109–364, div. A, title V, § 596(a), Oct. 17, 2006, 120 Stat. 2235.]
+**[(d)** Repealed. Pub. L. 109–364, div. A, title V, § 596(a), Oct. 17, 2006, 120 Stat. 2235.]
 
-**(e) Regular Military Department Assessments.—** The Secretary of each military department shall include in the set of issues and programs to be reviewed during any management effectiveness review or inspection at the installation level an assessment of compliance with the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) <sup>1</sup> and with Department of Defense regulations regarding the Federal Voting Assistance Program.
+**(e) Regular Military Department Assessments.—** The Secretary of each military department shall include in the set of issues and programs to be reviewed during any management effectiveness review or inspection at the installation level an assessment of compliance with the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) <sup>1</sup> and with Department of Defense regulations regarding the Federal Voting Assistance Program.
 
 **(f) Voting Assistance Officers.—**
 
@@ -3401,33 +3401,33 @@ and
 
 **(3)** Where practicable, a special day or days shall be designated at each military installation for the purpose of informing members of the armed forces and their dependents of election timing, registration requirements, and voting procedures.
 
-(Added Pub. L. 107–107, div. A, title XVI, § 1602(a)(1), Dec. 28, 2001, 115 Stat. 1274; amended Pub. L. 107–252, title VII, § 701, Oct. 29, 2002, 116 Stat. 1722; Pub. L. 108–375, div. A, title X, § 1084(d)(13), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, § 596(a), (d), Oct. 17, 2006, 120 Stat. 2235, 2236; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(M), Jan. 1, 2021, 134 Stat. 3820.)
+(Added Pub. L. 107–107, div. A, title XVI, § 1602(a)(1), Dec. 28, 2001, 115 Stat. 1274; amended Pub. L. 107–252, title VII, § 701, Oct. 29, 2002, 116 Stat. 1722; Pub. L. 108–375, div. A, title X, § 1084(d)(13), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, § 596(a), (d), Oct. 17, 2006, 120 Stat. 2235, 2236; Pub. L. 116–283, div. A, title IX, § 924(b)(1)(M), Jan. 1, 2021, 134 Stat. 3820.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
 2021—Subsecs. (a), (c)(1), (3)(B). Pub. L. 116–283 substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
-2006—Subsec. (d). Pub. L. 109–364, § 596(a), struck out subsec. (d), which required the Inspector General of the Department of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
+2006—Subsec. (d). Pub. L. 109–364, § 596(a), struck out subsec. (d), which required the Inspector General of the Department of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
 
-Subsec. (g)(2). Pub. L. 109–364, § 596(d), struck out at end “Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
+Subsec. (g)(2). Pub. L. 109–364, § 596(d), struck out at end “Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
 
-2004—Subsec. (g)(2). Pub. L. 108–375, § 1084(d)(13)(A), substituted “April 29, 2003” for “the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002”.
+2004—Subsec. (g)(2). Pub. L. 108–375, § 1084(d)(13)(A), substituted “April 29, 2003” for “the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002”.
 
-Subsecs. (h), (i)(1), (3). Pub. L. 108–375, § 1084(d)(13)(B), substituted “armed forces” for “Armed Forces”.
+Subsecs. (h), (i)(1), (3). Pub. L. 108–375, § 1084(d)(13)(B), substituted “armed forces” for “Armed Forces”.
 
-2002—Subsec. (f). Pub. L. 107–252, § 701(a), designated existing provisions as par. (1) and added par. (2).
+2002—Subsec. (f). Pub. L. 107–252, § 701(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (g)(2). Pub. L. 107–252, § 701(b), inserted at end “The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
+Subsec. (g)(2). Pub. L. 107–252, § 701(b), inserted at end “The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures.”
 
-Subsec. (h). Pub. L. 107–252, § 701(c), added subsec. (h).
+Subsec. (h). Pub. L. 107–252, § 701(c), added subsec. (h).
 
-Subsec. (i). Pub. L. 107–252, § 701(d), added subsec. (i).
+Subsec. (i). Pub. L. 107–252, § 701(d), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -3437,7 +3437,7 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c)(3) of thi
 
 **Information and Opportunities for Registration for Voting and Absentee Ballot Requests for Members of the Armed Forces Undergoing Deployment Overseas**
 
-Pub. L. 116–92, div. A, title V, § 580C, Dec. 20, 2019, 133 Stat. 1409, provided that:
+Pub. L. 116–92, div. A, title V, § 580C, Dec. 20, 2019, 133 Stat. 1409, provided that:
 
 > **“(a) In General.—** Not later than 45 days prior to a general election for Federal office, a member of the Armed Forces shall, upon request, be provided with the following:
 
@@ -3449,15 +3449,15 @@ Pub. L. 116–92, div. A, title V, § 580C, Dec. 20, 2019, 133 Stat. 1409, pro
 
 **Initial Report**
 
-Pub. L. 107–107, div. A, title XVI, § 1602(b), Dec. 28, 2001, 115 Stat. 1276, directed that the first report under subsec. (c)(3) of this section be submitted not later than Mar. 31, 2003.
+Pub. L. 107–107, div. A, title XVI, § 1602(b), Dec. 28, 2001, 115 Stat. 1276, directed that the first report under subsec. (c)(3) of this section be submitted not later than Mar. 31, 2003.
 
-## § 1566a. Voting assistance: voter assistance offices
+## § 1566a. Voting assistance: voter assistance offices
 
 **(a) Designation of Offices on Military Installations as Voter Assistance Offices.—** Under regulations prescribed by the Secretary of Defense under subsection (f), the Secretaries of the military departments shall designate offices on installations under their jurisdiction, or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location, to provide absent uniformed services voters, particularly those individuals described in subsection (b), and their family members with the following:
 
 **(1)** Information on voter registration procedures and absentee ballot procedures (including the official post card form prescribed under section 101 of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff)).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(2)** Information and assistance, if requested, including access to the Internet where practicable, to register to vote in an election for Federal office.
 
@@ -3491,7 +3491,7 @@ Pub. L. 107–107, div. A, title XVI, § 1602(b), Dec. 28, 2001, 115 Stat. 127
 
 **(2)** the time, location, and manner in which an absent uniformed services voter may utilize such assistance.
 
-**(e) Authority To Designate Voting Assistance Offices as Voter Registration Agency on Military Installations.—** The Secretary of Defense may authorize the Secretaries of the military departments to designate offices on military installations as voter registration agencies under section 7(a)(2) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–5(a)(2)) <sup>1</sup> for all purposes of such Act. Any office so designated shall discharge the requirements of this section, under the regulations prescribed by the Secretary of Defense under subsection (f).
+**(e) Authority To Designate Voting Assistance Offices as Voter Registration Agency on Military Installations.—** The Secretary of Defense may authorize the Secretaries of the military departments to designate offices on military installations as voter registration agencies under section 7(a)(2) of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–5(a)(2)) <sup>1</sup> for all purposes of such Act. Any office so designated shall discharge the requirements of this section, under the regulations prescribed by the Secretary of Defense under subsection (f).
 
 **(f) Regulations.—**
 
@@ -3507,31 +3507,31 @@ Pub. L. 107–107, div. A, title XVI, § 1602(b), Dec. 28, 2001, 115 Stat. 127
 
 **(3)** The term “Presidential designee” means the official designated by the President under section 101(a) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff(a)).<sup>1</sup>
 
-(Added Pub. L. 111–84, div. A, title V, § 583(b)(1), Oct. 28, 2009, 123 Stat. 2328; amended Pub. L. 111–383, div. A, title X, § 1075(b)(21), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 113–291, div. A, title V, § 592, title X, § 1071(e)(2), Dec. 19, 2014, 128 Stat. 3395, 3509.)
+(Added Pub. L. 111–84, div. A, title V, § 583(b)(1), Oct. 28, 2009, 123 Stat. 2328; amended Pub. L. 111–383, div. A, title X, § 1075(b)(21), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 113–291, div. A, title V, § 592, title X, § 1071(e)(2), Dec. 19, 2014, 128 Stat. 3395, 3509.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. Sections 101 and 107 of the Act are now classified to sections 20301 and 20310, respectively, of Title 52. For complete classification of this Act to the Code, see Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in text, is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. Sections 101 and 107 of the Act are now classified to sections 20301 and 20310, respectively, of Title 52. For complete classification of this Act to the Code, see Tables.
 
-The National Voter Registration Act of 1993, referred to in subsec. (e), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which was formerly classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§ 20501 et seq.) of Title 52. Section 7 of the Act is now classified to section 20506 of Title 52. For complete classification of this Act to the Code, see Tables.
+The National Voter Registration Act of 1993, referred to in subsec. (e), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which was formerly classified principally to subchapter I–H (§ 1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§ 20501 et seq.) of Title 52. Section 7 of the Act is now classified to section 20506 of Title 52. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2014—Subsec. (a). Pub. L. 113–291, § 1071(e)(2), which directed substitution of “Under” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under” in introductory provisions, could not be executed because of the prior amendment by Pub. L. 113–291, § 592(a)(1). See below.
+2014—Subsec. (a). Pub. L. 113–291, § 1071(e)(2), which directed substitution of “Under” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under” in introductory provisions, could not be executed because of the prior amendment by Pub. L. 113–291, § 592(a)(1). See below.
 
-Pub. L. 113–291, § 592(a), in introductory provisions, substituted “Under” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under” and inserted “, or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location,” after “their jurisdiction”.
+Pub. L. 113–291, § 592(a), in introductory provisions, substituted “Under” for “Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under” and inserted “, or at such installations as the Secretary of the military department concerned shall determine are best located to provide access to voter assistance services for all covered individuals in a particular location,” after “their jurisdiction”.
 
-Subsec. (f). Pub. L. 113–291, § 592(b), designated existing provisions as par. (1) and added par. (2).
+Subsec. (f). Pub. L. 113–291, § 592(b), designated existing provisions as par. (1) and added par. (2).
 
 2011—Subsec. (a)(1). Pub. L. 111–383 inserted closing parenthesis before period at end.
 
-## § 1567. Duration of military protective orders
+## § 1567. Duration of military protective orders
 
 A military protective order issued by a military commander shall remain in effect until such time as the military commander terminates the order or issues a replacement order.
 
-(Added Pub. L. 110–417, [div. A], title V, § 561(a), Oct. 14, 2008, 122 Stat. 4470; amended Pub. L. 111–84, div. A, title X, § 1073(a)(16), Oct. 28, 2009, 123 Stat. 2473.)
+(Added Pub. L. 110–417, [div. A], title V, § 561(a), Oct. 14, 2008, 122 Stat. 4470; amended Pub. L. 111–84, div. A, title X, § 1073(a)(16), Oct. 28, 2009, 123 Stat. 2473.)
 
 **Editorial Notes**
 
@@ -3539,7 +3539,7 @@ A military protective order issued by a military commander shall remain in effec
 
 2009—Pub. L. 111–84 made technical amendment to section catchline.
 
-## § 1567a. Mandatory notification of issuance of military protective order to civilian law enforcement
+## § 1567a. Mandatory notification of issuance of military protective order to civilian law enforcement
 
 **(a) Initial Notification.—** In the event a military protective order is issued against a member of the armed forces, the commander of the unit to which the member is assigned shall, not later than seven days after the date of the issuance of the order, notify the appropriate civilian authorities of—
 
@@ -3563,16 +3563,16 @@ A military protective order issued by a military commander shall remain in effec
 
 **(2)** the termination of the protective order.
 
-(Added Pub. L. 110–417, [div. A], title V, § 562(a), Oct. 14, 2008, 122 Stat. 4470; amended Pub. L. 111–84, div. A, title X, § 1073(a)(17), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 116–92, div. A, title V, § 543(a), Dec. 20, 2019, 133 Stat. 1376.)
+(Added Pub. L. 110–417, [div. A], title V, § 562(a), Oct. 14, 2008, 122 Stat. 4470; amended Pub. L. 111–84, div. A, title X, § 1073(a)(17), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 116–92, div. A, title V, § 543(a), Dec. 20, 2019, 133 Stat. 1376.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (a). Pub. L. 116–92, § 543(a)(1), substituted “, the commander of the unit to which the member is assigned shall, not later than seven days after the date of the issuance of the order, notify” for “and any individual involved in the order does not reside on a military installation at any time during the duration of the military protective order, the commander of the military installation shall notify” in introductory provisions.
+2019—Subsec. (a). Pub. L. 116–92, § 543(a)(1), substituted “, the commander of the unit to which the member is assigned shall, not later than seven days after the date of the issuance of the order, notify” for “and any individual involved in the order does not reside on a military installation at any time during the duration of the military protective order, the commander of the military installation shall notify” in introductory provisions.
 
-Subsec. (b). Pub. L. 116–92, § 543(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 116–92, § 543(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 116–92, § 543(a)(2), (4), redesignated subsec. (b) as (c) and substituted “commander of the unit to which the member is assigned” for “commander of the military installation”.
+Subsec. (c). Pub. L. 116–92, § 543(a)(2), (4), redesignated subsec. (b) as (c) and substituted “commander of the unit to which the member is assigned” for “commander of the military installation”.
 
 2009—Pub. L. 111–84 made technical amendment to section catchline.

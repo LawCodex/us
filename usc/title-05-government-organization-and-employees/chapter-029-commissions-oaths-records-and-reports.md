@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1978—Pub. L. 95–454, title IX, § 906(a)(16), Oct. 13, 1978, 92 Stat. 1226, substituted “Office of Personnel Management” for “Civil Service Commission” in item 2951.
+1978—Pub. L. 95–454, title IX, § 906(a)(16), Oct. 13, 1978, 92 Stat. 1226, substituted “Office of Personnel Management” for “Civil Service Commission” in item 2951.
 
 ## SUBCHAPTER I—COMMISSIONS, OATHS, AND RECORDS
 
-### § 2901. Commission of an officer
+### § 2901. Commission of an officer
 
 The President may make out and deliver, after adjournment of the Senate, the commission of an officer whose appointment has been confirmed by the Senate.
 
@@ -33,13 +33,13 @@ The President may make out and deliver, after adjournment of the Senate, the com
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 10. | R.S. § 1773. |
+|  | 5 U.S.C. 10. | R.S. § 1773. |
 
 The words “confirmed by” are substituted for “advised and consented to”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 2902. Commission; where recorded
+### § 2902. Commission; where recorded
 
 **(a)** Except as provided by subsections (b) and (c) of this section, the Secretary of State shall make out and record, and affix the seal of the United States to, the commission of an officer appointed by the President. The seal of the United States may not be affixed to the commission before the commission has been signed by the President.
 
@@ -47,21 +47,21 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(c)** The commissions of judicial officers and United States attorneys and marshals, appointed by the President, by and with the advice and consent of the Senate, and other commissions which before August 8, 1888, were prepared at the Department of State on the requisition of the Attorney General, shall be made out and recorded in the Department of Justice under the seal of that department and countersigned by the Attorney General. The departmental seal may not be affixed to the commission before the commission has been signed by the President.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 411; Pub. L. 94–183, § 2(3), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 109–241, title IX, § 902(a)(2), July 11, 2006, 120 Stat. 566.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 411; Pub. L. 94–183, § 2(3), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 109–241, title IX, § 902(a)(2), July 11, 2006, 120 Stat. 566.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
 | (a) | 4 U.S.C. 42 (as applicable to civil commissions). | [None.] |
-| (b) | 5 U.S.C. 11. | Mar. 3, 1875, ch. 131, § 14, 18 Stat. 420. |
+| (b) | 5 U.S.C. 11. | Mar. 3, 1875, ch. 131, § 14, 18 Stat. 420. |
 |  |  | Mar. 28, 1896, ch. 73, 29 Stat. 75. |
 |  |  | Mar. 3, 1905, ch. 1422, 33 Stat. 990. |
 | (c) | 5 U.S.C. 12. | Aug. 8, 1888, ch. 786, 25 Stat. 387. |
 
 In subsection (a), the words “Except as provided by subsections (b) and (c) of this section,” are added on authority of former sections 11 and 12, which are codified in subsections (b) and (c) of this section. The words “the commission of an officer” are substituted for “all civil commissions for officers of the United States” because of the definition of “officer” in section 2104. The words “by the President” are coextensive with and substituted for “by the President, by and with the advice and consent of the Senate, or by the President alone”.
 
-In subsection (b), the words “officer in the civil service or uniformed services” are substituted for “officer” because of the definition of “officer” in section 2104. The words “direction and” are omitted as included within “the control”. The words “the Secretary of Defense” are added on authority of the Acts of July 26, 1947, ch. 343, § 305(a), 61 Stat. 508, and Aug. 10, 1949, ch. 412, § 12(g), 63 Stat. 591. The words “the Secretary of a military department” are substituted for “the Secretary of War, the Secretary of the Navy” (appearing in the Act of Mar. 28, 1896) because of the definition of “military department” in section 102. The title of the Secretary of War was changed to Secretary of the Army by the Act of July 26, 1947, ch. 343, § 205, 61 Stat. 501. “Secretary of the Air Force” is included on authority of the Act of July 26, 1947, ch. 343, § 207(a), (f), 61 Stat. 502. The words “Secretary of Commerce” are substituted for “Secretary of Commerce and Labor” on authority of the Act of Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736. The words “under the departmental seal” are substituted for “and the departmental seal affixed thereto”. The words “any laws to the contrary notwithstanding” are omitted as unnecessary. The last sentence of section 14 of the Act of Mar. 3, 1875, is omitted as executed.
+In subsection (b), the words “officer in the civil service or uniformed services” are substituted for “officer” because of the definition of “officer” in section 2104. The words “direction and” are omitted as included within “the control”. The words “the Secretary of Defense” are added on authority of the Acts of July 26, 1947, ch. 343, § 305(a), 61 Stat. 508, and Aug. 10, 1949, ch. 412, § 12(g), 63 Stat. 591. The words “the Secretary of a military department” are substituted for “the Secretary of War, the Secretary of the Navy” (appearing in the Act of Mar. 28, 1896) because of the definition of “military department” in section 102. The title of the Secretary of War was changed to Secretary of the Army by the Act of July 26, 1947, ch. 343, § 205, 61 Stat. 501. “Secretary of the Air Force” is included on authority of the Act of July 26, 1947, ch. 343, § 207(a), (f), 61 Stat. 502. The words “Secretary of Commerce” are substituted for “Secretary of Commerce and Labor” on authority of the Act of Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736. The words “under the departmental seal” are substituted for “and the departmental seal affixed thereto”. The words “any laws to the contrary notwithstanding” are omitted as unnecessary. The last sentence of section 14 of the Act of Mar. 3, 1875, is omitted as executed.
 
 In subsection (c), the words “and shall be” and “any laws to the contrary notwithstanding” are omitted as unnecessary.
 
@@ -75,7 +75,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1975—Subsec. (b). Pub. L. 94–183 struck out “the Postmaster General,” after “under the control of”.
 
-### § 2903. Oath; authority to administer
+### § 2903. Oath; authority to administer
 
 **(a)** The oath of office required by section 3331 of this title may be administered by an individual authorized by the laws of the United States or local law to administer oaths in the State, District, or territory or possession of the United States where the oath is administered.
 
@@ -97,8 +97,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 18. | R.S. § 1758. |
-| (b) | 5 U.S.C. 16a(a) (less 1st 9 words after last comma). | June 26, 1943, ch. 145, § 206 (less 1st 9 words after last comma), 57 Stat. 196. |
+| (a) | 5 U.S.C. 18. | R.S. § 1758. |
+| (b) | 5 U.S.C. 16a(a) (less 1st 9 words after last comma). | June 26, 1943, ch. 145, § 206 (less 1st 9 words after last comma), 57 Stat. 196. |
 | (c) | 5 U.S.C. 16a(b). | Sept. 30, 1961, Pub. L. 87–332 (par. under “General Provision”), 75 Stat. 743. |
 |  | 5 U.S.C. 92a. | July 3, 1926, ch. 752, 44 Stat. 830. |
 
@@ -108,7 +108,7 @@ In subsection (c), the word “Constitution” is omitted because “laws”, as
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 2904. Oath; administered without fees
+### § 2904. Oath; administered without fees
 
 An employee of an Executive agency who is authorized to administer the oath of office required by section 3331 of this title, or any other oath required by law in connection with employment in the executive branch, may not charge or receive a fee or pay for administering the oath.
 
@@ -118,15 +118,15 @@ An employee of an Executive agency who is authorized to administer the oath of o
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 16a(a) (1st 9 words after last comma). | June 26, 1943, ch. 145, § 206 (1st 9 words after last comma), 57 Stat. 196. |
+|  | 5 U.S.C. 16a(a) (1st 9 words after last comma). | June 26, 1943, ch. 145, § 206 (1st 9 words after last comma), 57 Stat. 196. |
 |  |  | Sept. 30, 1961, Pub. L. 87–332 (so much of par. under “General Provision” as inserted “(a)”), 75 Stat. 743. |
-|  | 5 U.S.C. 20. | Aug. 29, 1890, ch. 820, § 1 (2d sentence under “Fourth Auditor’s Of­fice”), 26 Stat. 371. |
+|  | 5 U.S.C. 20. | Aug. 29, 1890, ch. 820, § 1 (2d sentence under “Fourth Auditor’s Of­fice”), 26 Stat. 371. |
 
 The section is restated to combine former sections 16a(a) (1st 9 words after last comma) and 20. The prohibition is restated in positive form. The words “officer” and “clerk” are omitted as included in “employee”. Reference to oaths taken on promotion is omitted as unnecessary.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 2905. Oath; renewal
+### § 2905. Oath; renewal
 
 **(a)** An employee of an Executive agency or an individual employed by the government of the District of Columbia who, on original appointment, subscribed to the oath of office required by section 3331 of this title is not required to renew the oath because of a change in status so long as his service is continuous in the agency in which he is employed, unless, in the opinion of the head of the Executive agency, the Secretary of a military department with respect to an employee of his department, or the Commissioners of the District of Columbia, the public interest so requires.
 
@@ -145,7 +145,7 @@ In subsection (a), the word “civilian” is omitted as unnecessary because of 
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 2906. Oath; custody
+### § 2906. Oath; custody
 
 The oath of office taken by an individual under section 3331 of this title shall be delivered by him to, and preserved by, the House of Congress, agency, or court to which the office pertains.
 
@@ -155,13 +155,13 @@ The oath of office taken by an individual under section 3331 of this title shall
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 21. | R.S. § 1759. |
+|  | 5 U.S.C. 21. | R.S. § 1759. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 ## SUBCHAPTER II—REPORTS
 
-### § 2951. Reports to the Office of Personnel Management
+### § 2951. Reports to the Office of Personnel Management
 
 The President may prescribe rules which shall provide, as nearly as conditions of good administration warrant, that—
 
@@ -179,19 +179,19 @@ The President may prescribe rules which shall provide, as nearly as conditions o
 
 **(2)** the Office keep records of these actions.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 412; Pub. L. 95–454, title IX, § 906(a)(2), (3), (16), Oct. 13, 1978, 92 Stat. 1224, 1226.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 412; Pub. L. 95–454, title IX, § 906(a)(2), (3), (16), Oct. 13, 1978, 92 Stat. 1224, 1226.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 633(2)8 (less last sentence). | Jan. 16, 1883, ch. 27, § 2(2)8 (less last sentence), 22 Stat. 404. |
+|  | 5 U.S.C. 633(2)8 (less last sentence). | Jan. 16, 1883, ch. 27, § 2(2)8 (less last sentence), 22 Stat. 404. |
 
 The authority of the President to prescribe rules is added on authority of former section 633(1), which is carried into section 3302.
 
 In paragraph (1), the word “authority” is substituted for “power”. The words “or employment” are omitted as included within “appointment”.
 
-In paragraph (1)(B), the words “separation during probation” are substituted for “of the rejection of any such person after probation”. The words “rejection . . . after probation” refer to a rejection, i.e., separation, after a portion of the probationary period has been served but before the end of the probationary period. This is so because an individual can be rejected only during the probationary period. After he has completed the probationary period, he can be removed only under procedures governing removals from the competitive service, and removals of this nature are covered by paragraph (E).
+In paragraph (1)(B), the words “separation during probation” are substituted for “of the rejection of any such person after probation”. The words “rejection . . . after probation” refer to a rejection, i.e., separation, after a portion of the probationary period has been served but before the end of the probationary period. This is so because an individual can be rejected only during the probationary period. After he has completed the probationary period, he can be removed only under procedures governing removals from the competitive service, and removals of this nature are covered by paragraph (E).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -199,7 +199,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1978—Pub. L. 95–454, § 906(a)(16), substituted “Office of Personnel Management” for “Civil Service Commission” in section catchline.
+1978—Pub. L. 95–454, § 906(a)(16), substituted “Office of Personnel Management” for “Civil Service Commission” in section catchline.
 
 Pars. (1), (2). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
@@ -209,7 +209,7 @@ Pars. (1), (2). Pub. L. 95–454 substituted “Office of Personnel Management�
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-### § 2952. Time of making annual reports
+### § 2952. Time of making annual reports
 
 Except when a different time is specifically prescribed by statute, the head of each Executive department or military department shall make the annual reports, required to be submitted to Congress, at the beginning of each regular session of Congress. The reports shall cover the transactions of the preceding year.
 
@@ -219,17 +219,17 @@ Except when a different time is specifically prescribed by statute, the head of 
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 106. | R.S. § 195. |
+|  | 5 U.S.C. 106. | R.S. § 195. |
 
 The words “Executive department” are substituted for “department” as the definition of “department” applicable to this section is coextensive with the definition of “Executive department” in section 101.
 
 The words “or military department” are inserted to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser’s note for section 301.
 
-This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
+This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 2953. Reports to Congress on additional employee requirements
+### § 2953. Reports to Congress on additional employee requirements
 
 **(a)** Each report, recommendation, or other communication, of an official nature, of an Executive agency which—
 
@@ -261,13 +261,13 @@ which are attributable to the function, activity, or authority and which will be
 
 **(3)** the Government Accountability Office.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 413; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 413; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 642a. | Jan. 16, 1883, ch. 27, § 11; added July 25, 1956, ch. 730, § 1, 70 Stat. 652. |
+|  | 5 U.S.C. 642a. | Jan. 16, 1883, ch. 27, § 11; added July 25, 1956, ch. 730, § 1, 70 Stat. 652. |
 
 In subsection (a), the words, “Executive agency” are substituted for “department, agency, or independent establishment of the executive branch of the Federal Government (including any corporation wholly owned by the United States)” in view of the definition of “Executive agency” in section 105. The exception of “a Government controlled corporation” is subsection (b) (2) is added to preserve the application to corporations wholly owned by the United States.
 
@@ -281,17 +281,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 2004—Subsec. (b)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-### § 2954. Information to committees of Congress on request
+### § 2954. Information to committees of Congress on request
 
 An Executive agency, on request of the Committee on Government Operations of the House of Representatives, or of any seven members thereof, or on request of the Committee on Governmental Affairs of the Senate, or any five members thereof, shall submit any information requested of it relating to any matter within the jurisdiction of the committee.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 413; Pub. L. 103–437, § 3(b), Nov. 2, 1994, 108 Stat. 4581.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 413; Pub. L. 103–437, § 3(b), Nov. 2, 1994, 108 Stat. 4581.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 105a. | May 29, 1928, ch. 901, § 2, 45 Stat. 996. |
+|  | 5 U.S.C. 105a. | May 29, 1928, ch. 901, § 2, 45 Stat. 996. |
 
 The words “Executive agency” are substituted for “executive department and independent establishment” in view of the definition of “Executive agency” in section 105.
 

@@ -19,71 +19,71 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2022—Pub. L. 117–328, div. P. title I, §§ 102(c), 104(c)(2), 105(b), 107(b), 108(c)(2), 109(b), 110(c)(3), 111(b), Dec. 29, 2022, 136 Stat. 5234, 5236, 5237, 5240, 5241, added items 1, 5, 6, 11, 15, and 22, substituted “session” for “meeting” in items 16 and 18, and struck out former items 1 “Time of appointing electors”, 5 “Determination of controversy as to appointment of electors”, 6 “Credentials of electors; transmission to Archivist of the United States and to Congress; public inspection”, 11 “Disposition of certificates”, 14 “Forfeiture for messenger’s neglect of duty”, and 15 “Counting electoral votes in Congress”.
+2022—Pub. L. 117–328, div. P. title I, §§ 102(c), 104(c)(2), 105(b), 107(b), 108(c)(2), 109(b), 110(c)(3), 111(b), Dec. 29, 2022, 136 Stat. 5234, 5236, 5237, 5240, 5241, added items 1, 5, 6, 11, 15, and 22, substituted “session” for “meeting” in items 16 and 18, and struck out former items 1 “Time of appointing electors”, 5 “Determination of controversy as to appointment of electors”, 6 “Credentials of electors; transmission to Archivist of the United States and to Congress; public inspection”, 11 “Disposition of certificates”, 14 “Forfeiture for messenger’s neglect of duty”, and 15 “Counting electoral votes in Congress”.
 
-1984—Pub. L. 98–497, title I, § 107(e)(3), Oct. 19, 1984, 98 Stat. 2292, substituted “Archivist of the United States” for “Administrator of General Services” in items 6 and 12.
+1984—Pub. L. 98–497, title I, § 107(e)(3), Oct. 19, 1984, 98 Stat. 2292, substituted “Archivist of the United States” for “Administrator of General Services” in items 6 and 12.
 
-1961—Pub. L. 87–389, § 2(b), Oct. 4, 1961, 75 Stat. 820, added item 21.
+1961—Pub. L. 87–389, § 2(b), Oct. 4, 1961, 75 Stat. 820, added item 21.
 
-1951—Act Oct. 31, 1951, ch. 655, § 5, 65 Stat. 711, substituted “Administrator of General Services” for “Secretary of State” in items 6 and 12.
+1951—Act Oct. 31, 1951, ch. 655, § 5, 65 Stat. 711, substituted “Administrator of General Services” for “Secretary of State” in items 6 and 12.
 
-## § 1. Time of appointing electors
+## § 1. Time of appointing electors
 
 The electors of President and Vice President shall be appointed, in each State, on election day, in accordance with the laws of the State enacted prior to election day.
 
-(Added Pub. L. 117–328, div. P, title I, § 102(a), Dec. 29, 2022, 136 Stat. 5233.)
+(Added Pub. L. 117–328, div. P, title I, § 102(a), Dec. 29, 2022, 136 Stat. 5233.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 1, act June 25, 1948, ch. 644, 62 Stat. 672, related to time of appointing electors, prior to repeal by Pub. L. 117–328, div. P, title I, § 102(a), Dec. 29, 2022, 136 Stat. 5233.
+A prior section 1, act June 25, 1948, ch. 644, 62 Stat. 672, related to time of appointing electors, prior to repeal by Pub. L. 117–328, div. P, title I, § 102(a), Dec. 29, 2022, 136 Stat. 5233.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–328, div. P, § 1, Dec. 29, 2022, 136 Stat. 5233, provided that: “This division [enacting this section and section 22 of this title, amending sections 6, 7, 9 to 13, 15 to 18, and 21 of this title, repealing this section and sections 2 and 14 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 102 of this title] may be cited as the ‘Electoral Count Reform and Presidential Transition Improvement Act of 2022’.”
+Pub. L. 117–328, div. P, § 1, Dec. 29, 2022, 136 Stat. 5233, provided that: “This division [enacting this section and section 22 of this title, amending sections 6, 7, 9 to 13, 15 to 18, and 21 of this title, repealing this section and sections 2 and 14 of this title, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 102 of this title] may be cited as the ‘Electoral Count Reform and Presidential Transition Improvement Act of 2022’.”
 
-Pub. L. 117–328, div. P, title I, § 101, Dec. 29, 2022, 136 Stat. 5233, provided that: “This title [enacting this section and section 22 of this title, amending sections 6, 7, 9 to 13, 15 to 18, and 21 of this title, and repealing this section and sections 2 and 14 of this title] may be cited as the ‘Electoral Count Reform Act of 2022’.”
+Pub. L. 117–328, div. P, title I, § 101, Dec. 29, 2022, 136 Stat. 5233, provided that: “This title [enacting this section and section 22 of this title, amending sections 6, 7, 9 to 13, 15 to 18, and 21 of this title, and repealing this section and sections 2 and 14 of this title] may be cited as the ‘Electoral Count Reform Act of 2022’.”
 
-Pub. L. 117–328, div. P, title II, § 201, Dec. 29, 2022, 136 Stat. 5241, provided that: “This title [amending provisions set out as a note under section 102 of this title] may be cited as the ‘Presidential Transition Improvement Act’.”
+Pub. L. 117–328, div. P, title II, § 201, Dec. 29, 2022, 136 Stat. 5241, provided that: “This title [amending provisions set out as a note under section 102 of this title] may be cited as the ‘Presidential Transition Improvement Act’.”
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–121, § 1, Mar. 3, 2020, 134 Stat. 138, provided that: “This Act [amending provisions set out as a note under section 102 of this title] may be cited as the ‘Presidential Transition Enhancement Act of 2019’.”
+Pub. L. 116–121, § 1, Mar. 3, 2020, 134 Stat. 138, provided that: “This Act [amending provisions set out as a note under section 102 of this title] may be cited as the ‘Presidential Transition Enhancement Act of 2019’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–283, § 1, Oct. 15, 2010, 124 Stat. 3045, provided that: “This Act [enacting provisions set out as a note under section 102 of this title and amending provisions set out as notes under section 102 of this title, section 1101 of Title 5, Government Organization and Employees, and section 435b of Title 50, War and National Defense] may be cited as the ‘Pre-Election Presidential Transition Act of 2010’.”
+Pub. L. 111–283, § 1, Oct. 15, 2010, 124 Stat. 3045, provided that: “This Act [enacting provisions set out as a note under section 102 of this title and amending provisions set out as notes under section 102 of this title, section 1101 of Title 5, Government Organization and Employees, and section 435b of Title 50, War and National Defense] may be cited as the ‘Pre-Election Presidential Transition Act of 2010’.”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–331, § 1(a), Oct. 26, 1996, 110 Stat. 4053, provided that: “This Act [enacting sections 401, 402, 411 to 417, 421, 425, 431, 435, 451 to 456, and 471 of this title and sections 1296, 1413, and 3901 to 3908 of Title 28, Judiciary and Judicial Procedure, amending sections 1346 and 2402 of Title 28, repealing section 1219 of Title 2, The Congress, and enacting provisions set out as notes under section 401 of this title, section 1219 of Title 2, and section 1296 of Title 28] may be cited as the ‘Presidential and Executive Office Accountability Act’.”
+Pub. L. 104–331, § 1(a), Oct. 26, 1996, 110 Stat. 4053, provided that: “This Act [enacting sections 401, 402, 411 to 417, 421, 425, 431, 435, 451 to 456, and 471 of this title and sections 1296, 1413, and 3901 to 3908 of Title 28, Judiciary and Judicial Procedure, amending sections 1346 and 2402 of Title 28, repealing section 1219 of Title 2, The Congress, and enacting provisions set out as notes under section 401 of this title, section 1219 of Title 2, and section 1296 of Title 28] may be cited as the ‘Presidential and Executive Office Accountability Act’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–398, § 1, Aug. 17, 1988, 102 Stat. 985, provided that: “This Act [amending sections 3345, 3348, and 5723 of Title 5, Government Organization and Employees, and enacting and amending provisions set out as notes under section 102 of this title] may be cited as the ‘Presidential Transitions Effectiveness Act’.”
+Pub. L. 100–398, § 1, Aug. 17, 1988, 102 Stat. 985, provided that: “This Act [amending sections 3345, 3348, and 5723 of Title 5, Government Organization and Employees, and enacting and amending provisions set out as notes under section 102 of this title] may be cited as the ‘Presidential Transitions Effectiveness Act’.”
 
 **Constitutional Provisions**
 
-Time of choosing electors, see Const. Art. 2, § 1, cl. 3.
+Time of choosing electors, see Const. Art. 2, § 1, cl. 3.
 
-## [§ 2. Repealed. Pub. L. 117–328, div. P, title I, § 102(a), Dec. 29, 2022, 136 Stat. 5233]
+## [§ 2. Repealed. Pub. L. 117–328, div. P, title I, § 102(a), Dec. 29, 2022, 136 Stat. 5233]
 
 Section, act June 25, 1948, ch. 644, 62 Stat. 672, related to failure to make choice on prescribed day.
 
-## § 3. Number of electors
+## § 3. Number of electors
 
 The number of electors shall be equal to the number of Senators and Representatives to which the several States are by law entitled at the time when the President and Vice President to be chosen come into office; except, that where no apportionment of Representatives has been made after any enumeration, at the time of choosing electors, the number of electors shall be according to the then existing apportionment of Senators and Representatives.
 
 (June 25, 1948, ch. 644, 62 Stat. 672.)
 
-## § 4. Vacancies in electoral college
+## § 4. Vacancies in electoral college
 
 Each State may, by law enacted prior to election day, provide for the filling of any vacancies which may occur in its college of electors when such college meets to give its electoral vote.
 
-(June 25, 1948, ch. 644, 62 Stat. 673; Pub. L. 117–328, div. P, title I, § 103, Dec. 29, 2022, 136 Stat. 5234.)
+(June 25, 1948, ch. 644, 62 Stat. 673; Pub. L. 117–328, div. P, title I, § 103, Dec. 29, 2022, 136 Stat. 5234.)
 
 **Editorial Notes**
 
@@ -91,7 +91,7 @@ Each State may, by law enacted prior to election day, provide for the filling of
 
 2022—Pub. L. 117–328 inserted “enacted prior to election day” after “by law”.
 
-## § 5. Certificate of ascertainment of appointment of electors
+## § 5. Certificate of ascertainment of appointment of electors
 
 **(a) In General.—**
 
@@ -143,7 +143,7 @@ Each State may, by law enacted prior to election day, provide for the filling of
 
 **(B)** shall not be construed to preempt or displace any existing State or Federal cause of action.
 
-(June 25, 1948, ch. 644, 62 Stat. 673; Pub. L. 117–328, div. P, title I, § 104(a), Dec. 29, 2022, 136 Stat. 5234.)
+(June 25, 1948, ch. 644, 62 Stat. 673; Pub. L. 117–328, div. P, title I, § 104(a), Dec. 29, 2022, 136 Stat. 5234.)
 
 **Editorial Notes**
 
@@ -151,7 +151,7 @@ Each State may, by law enacted prior to election day, provide for the filling of
 
 2022—Pub. L. 117–328 amended section generally. Prior to amendment, text read as follows: “If any State shall have provided, by laws enacted prior to the day fixed for the appointment of the electors, for its final determination of any controversy or contest concerning the appointment of all or any of the electors of such State, by judicial or other methods or procedures, and such determination shall have been made at least six days before the time fixed for the meeting of the electors, such determination made pursuant to such law so existing on said day, and made at least six days prior to said time of meeting of the electors, shall be conclusive, and shall govern in the counting of the electoral votes as provided in the Constitution, and as hereinafter regulated, so far as the ascertainment of the electors appointed by such State is concerned.”
 
-## § 6. Duties of Archivist
+## § 6. Duties of Archivist
 
 The certificates of ascertainment of appointment of electors received by the Archivist of the United States under section 5 shall—
 
@@ -161,7 +161,7 @@ The certificates of ascertainment of appointment of electors received by the Arc
 
 **(3)** be open to public inspection.
 
-(June 25, 1948, ch. 644, 62 Stat. 673; Oct. 31, 1951, ch. 655, § 6, 65 Stat. 711; Pub. L. 98–497, title I, § 107(e)(1), (2)(A), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 117–328, div. P, title I, § 105(a), Dec. 29, 2022, 136 Stat. 5236.)
+(June 25, 1948, ch. 644, 62 Stat. 673; Oct. 31, 1951, ch. 655, § 6, 65 Stat. 711; Pub. L. 98–497, title I, § 107(e)(1), (2)(A), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 117–328, div. P, title I, § 105(a), Dec. 29, 2022, 136 Stat. 5236.)
 
 **Editorial Notes**
 
@@ -179,11 +179,11 @@ The certificates of ascertainment of appointment of electors received by the Arc
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of Title 44, Public Printing and Documents.
 
-## § 7. Meeting and vote of electors
+## § 7. Meeting and vote of electors
 
 The electors of President and Vice President of each State shall meet and give their votes on the first Tuesday after the second Wednesday in December next following their appointment at such place in each State in accordance with the laws of the State enacted prior to election day.
 
-(June 25, 1948, ch. 644, 62 Stat. 673; Pub. L. 117–328, div. P, title I, § 106(a), Dec. 29, 2022, 136 Stat. 5236.)
+(June 25, 1948, ch. 644, 62 Stat. 673; Pub. L. 117–328, div. P, title I, § 106(a), Dec. 29, 2022, 136 Stat. 5236.)
 
 **Editorial Notes**
 
@@ -193,21 +193,21 @@ The electors of President and Vice President of each State shall meet and give t
 
 **Constitutional Provisions**
 
-Day of voting by electors, see Const. Art. II, § 1, cl. 3.
+Day of voting by electors, see Const. Art. II, § 1, cl. 3.
 
 Voting by electors, see Const. Amend. XII.
 
-## § 8. Manner of voting
+## § 8. Manner of voting
 
 The electors shall vote for President and Vice President, respectively, in the manner directed by the Constitution.
 
 (June 25, 1948, ch. 644, 62 Stat. 674.)
 
-## § 9. Certificates of votes for President and Vice President
+## § 9. Certificates of votes for President and Vice President
 
 The electors shall make and sign six certificates of all the votes given by them, each of which certificates shall contain two distinct lists, one of the votes for President and the other of the votes for Vice President, and shall annex to each of the certificates of votes one of the certificates of ascertainment of appointment of electors which shall have been furnished to them by direction of the executive of the State.
 
-(June 25, 1948, ch. 644, 62 Stat. 674; Pub. L. 117–328, div. P, title I, § 104(c)(1), Dec. 29, 2022, 136 Stat. 5236.)
+(June 25, 1948, ch. 644, 62 Stat. 674; Pub. L. 117–328, div. P, title I, § 104(c)(1), Dec. 29, 2022, 136 Stat. 5236.)
 
 **Editorial Notes**
 
@@ -215,11 +215,11 @@ The electors shall make and sign six certificates of all the votes given by them
 
 2022—Pub. L. 117–328 substituted “annex to each of the certificates of votes one of the certificates of ascertainment of appointment of electors” for “annex to each of the certificates one of the lists of the electors”.
 
-## § 10. Sealing and endorsing certificates
+## § 10. Sealing and endorsing certificates
 
 The electors shall seal up the certificates of votes so made by them, together with the annexed certificates of ascertainment of appointment of electors, and certify upon each that the lists of all the votes of such State given for President, and of all the votes given for Vice President, are contained therein.
 
-(June 25, 1948, ch. 644, 62 Stat. 674; Pub. L. 117–328, div. P, title I, § 106(b), Dec. 29, 2022, 136 Stat. 5236.)
+(June 25, 1948, ch. 644, 62 Stat. 674; Pub. L. 117–328, div. P, title I, § 106(b), Dec. 29, 2022, 136 Stat. 5236.)
 
 **Editorial Notes**
 
@@ -227,7 +227,7 @@ The electors shall seal up the certificates of votes so made by them, together w
 
 2022—Pub. L. 117–328 substituted “the certificates of votes so made by them, together with the annexed certificates of ascertainment of appointment of electors” for “the certificates so made by them”.
 
-## § 11. Transmission of certificates by electors
+## § 11. Transmission of certificates by electors
 
 The electors shall immediately transmit at the same time and by the most expeditious method available the certificates of votes so made by them, together with the annexed certificates of ascertainment of appointment of electors, as follows:
 
@@ -239,7 +239,7 @@ The electors shall immediately transmit at the same time and by the most expedit
 
 **(4)** One set shall be sent to the judge of the district in which the electors shall have assembled.
 
-(June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, § 7, 65 Stat. 712; Pub. L. 98–497, title I, § 107(e)(1), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 117–328, div. P, title I, § 107(a), Dec. 29, 2022, 136 Stat. 5236.)
+(June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, § 7, 65 Stat. 712; Pub. L. 98–497, title I, § 107(e)(1), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 117–328, div. P, title I, § 107(a), Dec. 29, 2022, 136 Stat. 5236.)
 
 **Editorial Notes**
 
@@ -257,19 +257,19 @@ The electors shall immediately transmit at the same time and by the most expedit
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of Title 44, Public Printing and Documents.
 
-## § 12. Failure of certificates of electors to reach President of the Senate or Archivist of the United States; demand on State for certificate
+## § 12. Failure of certificates of electors to reach President of the Senate or Archivist of the United States; demand on State for certificate
 
 When, after the meeting of the electors shall have been held, no certificate of vote mentioned in sections 9 and 11 of this title from any State shall have been received by the President of the Senate or by the Archivist of the United States by the fourth Wednesday in December, the President of the Senate or, if the President of the Senate be absent from the seat of government, the Archivist of the United States shall request, by the most expeditious method available, the chief election officer of the State to send up the certificate lodged with such officer by the electors of such State; and it shall be the duty of such chief election officer of the State upon receipt of such request immediately to transmit same by the most expeditious method available to the President of the Senate at the seat of government.
 
-(June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, § 8, 65 Stat. 712; Pub. L. 98–497, title I, § 107(e)(1), (2)(B), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 117–328, div. P, title I, § 108(a), Dec. 29, 2022, 136 Stat. 5237.)
+(June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, § 8, 65 Stat. 712; Pub. L. 98–497, title I, § 107(e)(1), (2)(B), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 117–328, div. P, title I, § 108(a), Dec. 29, 2022, 136 Stat. 5237.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–328, § 108(a)(1)–(4), (6)–(8), inserted “, after the meeting of the electors shall have been held,” after “When”, struck out “and list” after “certificate of vote” and after “send up the certificate”, and substituted “in December,” for “in December, after the meeting of the electors shall have been held,”, “or, if the President of the Senate be absent” for “or, if he be absent”, “lodged with such officer” for “lodged with him”, “the duty of such chief election officer of the State” for “his duty”, and “by the most expeditious method available” for “by registered mail”.
+2022—Pub. L. 117–328, § 108(a)(1)–(4), (6)–(8), inserted “, after the meeting of the electors shall have been held,” after “When”, struck out “and list” after “certificate of vote” and after “send up the certificate”, and substituted “in December,” for “in December, after the meeting of the electors shall have been held,”, “or, if the President of the Senate be absent” for “or, if he be absent”, “lodged with such officer” for “lodged with him”, “the duty of such chief election officer of the State” for “his duty”, and “by the most expeditious method available” for “by registered mail”.
 
-Pub. L. 117–328, § 108(a)(5), which directed substitution of “chief election officer” for “secretary of State”, was executed by making the substitution for “secretary of state” to reflect the probable intent of Congress.
+Pub. L. 117–328, § 108(a)(5), which directed substitution of “chief election officer” for “secretary of State”, was executed by making the substitution for “secretary of state” to reflect the probable intent of Congress.
 
 1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services” in section catchline and two places in text.
 
@@ -281,17 +281,17 @@ Pub. L. 117–328, § 108(a)(5), which directed substitution of “chief elect
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of Title 44, Public Printing and Documents.
 
-## § 13. Same; demand on district judge for certificate
+## § 13. Same; demand on district judge for certificate
 
 When, after the meeting of the electors shall have been held, no certificates of votes from any State shall have been received at the seat of government on the fourth Wednesday in December, the President of the Senate or, if the President of the Senate be absent from the seat of government, the Archivist of the United States shall send a special messenger to the district judge in whose custody one certificate of votes from that State has been lodged, and such judge shall forthwith transmit that certificate by the hand of such messenger to the seat of government.
 
-(June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, § 9, 65 Stat. 712; Pub. L. 98–497, title I, § 107(e)(1), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 117–328, div. P, title I, § 108(b), Dec. 29, 2022, 136 Stat. 5237.)
+(June 25, 1948, ch. 644, 62 Stat. 674; Oct. 31, 1951, ch. 655, § 9, 65 Stat. 712; Pub. L. 98–497, title I, § 107(e)(1), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 117–328, div. P, title I, § 108(b), Dec. 29, 2022, 136 Stat. 5237.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–328 inserted “, after the meeting of the electors shall have been held,” after “When” and substituted “in December,” for “in December, after the meeting of the electors shall have been held,”, “or, if the President of the Senate be absent” for “or, if he be absent”, and “that certificate” for “that list”.
+2022—Pub. L. 117–328 inserted “, after the meeting of the electors shall have been held,” after “When” and substituted “in December,” for “in December, after the meeting of the electors shall have been held,”, “or, if the President of the Senate be absent” for “or, if he be absent”, and “that certificate” for “that list”.
 
 1984—Pub. L. 98–497 substituted “Archivist of the United States” for “Administrator of General Services”.
 
@@ -303,11 +303,11 @@ When, after the meeting of the electors shall have been held, no certificates of
 
 Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L. 98–497, set out as a note under section 2102 of Title 44, Public Printing and Documents.
 
-## [§ 14. Repealed. Pub. L. 117–328, div. P, title I, § 108(c)(1), Dec. 29, 2022, 136 Stat. 5237]
+## [§ 14. Repealed. Pub. L. 117–328, div. P, title I, § 108(c)(1), Dec. 29, 2022, 136 Stat. 5237]
 
 Section, act June 25, 1948, ch. 644, 62 Stat. 675, related to forfeiture for messenger’s neglect of duty.
 
-## § 15. Counting electoral votes in Congress
+## § 15. Counting electoral votes in Congress
 
 **(a) In General.—** Congress shall be in session on the sixth day of January succeeding every meeting of the electors. The Senate and House of Representatives shall meet in the Hall of the House of Representatives at the hour of 1 o’clock in the afternoon on that day, and the President of the Senate shall be their presiding officer.
 
@@ -375,7 +375,7 @@ Section, act June 25, 1948, ch. 644, 62 Stat. 675, related to forfeiture for mes
 
 **(3) List of votes by tellers; declaration of winner.—** The tellers shall make a list of the votes as they shall appear from the said certificates; and the votes having been ascertained and counted according to the rules in this subchapter provided, the result of the same shall be delivered to the President of the Senate, who shall thereupon announce the state of the vote, which announcement shall be deemed a sufficient declaration of the persons, if any, elected President and Vice President of the United States, and, together with a list of the votes, be entered on the Journals of the two Houses.
 
-(June 25, 1948, ch. 644, 62 Stat. 675; Pub. L. 117–328, div. P, title I, § 109(a), Dec. 29, 2022, 136 Stat. 5237.)
+(June 25, 1948, ch. 644, 62 Stat. 675; Pub. L. 117–328, div. P, title I, § 109(a), Dec. 29, 2022, 136 Stat. 5237.)
 
 **Editorial Notes**
 
@@ -387,21 +387,21 @@ Section, act June 25, 1948, ch. 644, 62 Stat. 675, related to forfeiture for mes
 
 **Counting of Electoral Votes**
 
-2013—Pub. L. 112–228, § 1, Dec. 28, 2012, 126 Stat. 1610, provided that: “The meeting of the Senate and House of Representatives to be held in January 2013 pursuant to section 15 of title 3, United States Code, to count the electoral votes for President and Vice President cast by the electors in December 2012 shall be held on January 4, 2013 (rather than on the date specified in the first sentence of that section).”
+2013—Pub. L. 112–228, § 1, Dec. 28, 2012, 126 Stat. 1610, provided that: “The meeting of the Senate and House of Representatives to be held in January 2013 pursuant to section 15 of title 3, United States Code, to count the electoral votes for President and Vice President cast by the electors in December 2012 shall be held on January 4, 2013 (rather than on the date specified in the first sentence of that section).”
 
-2009—Pub. L. 110–430, § 2, Oct. 15, 2008, 122 Stat. 4846, provided that: “The meeting of the Senate and House of Representatives to be held in January 2009 pursuant to section 15 of title 3, United States Code, to count the electoral votes for President and Vice President cast by the electors in December 2008 shall be held on January 8, 2009 (rather than on the date specified in the first sentence of that section).”
+2009—Pub. L. 110–430, § 2, Oct. 15, 2008, 122 Stat. 4846, provided that: “The meeting of the Senate and House of Representatives to be held in January 2009 pursuant to section 15 of title 3, United States Code, to count the electoral votes for President and Vice President cast by the electors in December 2008 shall be held on January 8, 2009 (rather than on the date specified in the first sentence of that section).”
 
-1997—Pub. L. 104–296, § 2, Oct. 11, 1996, 110 Stat. 3558, provided that: “The meeting of the Senate and House of Representatives to be held in January 1997 pursuant to section 15 of title 3, United States Code, to count the electoral votes for President and Vice President cast by the electors in December 1996 shall be held on January 9, 1997 (rather than on the date specified in the first sentence of that section).”
+1997—Pub. L. 104–296, § 2, Oct. 11, 1996, 110 Stat. 3558, provided that: “The meeting of the Senate and House of Representatives to be held in January 1997 pursuant to section 15 of title 3, United States Code, to count the electoral votes for President and Vice President cast by the electors in December 1996 shall be held on January 9, 1997 (rather than on the date specified in the first sentence of that section).”
 
 1989—Pub. L. 100–646, Nov. 9, 1988, 102 Stat. 3341, provided: “That in carrying out the procedure set forth in section 15 of title, 3, United States Code, for 1989, ‘the fourth day of January’ shall be substituted for ‘the sixth day of January’ in the first sentence of such section.”
 
 1985—Pub. L. 98–456, Oct. 9, 1984, 98 Stat. 1748, provided: “That, in carrying out the procedure set forth in section 15 of title 3, United States Code, for 1985, ‘the seventh day of January’ shall be substituted for ‘the sixth day of January’ in the first sentence of such section.”
 
-## § 16. Same; seats for officers and Members of two Houses in joint session
+## § 16. Same; seats for officers and Members of two Houses in joint session
 
 At such joint session of the two Houses seats shall be provided as follows: For the President of the Senate, the Speaker’s chair; for the Speaker, immediately upon his left; the Senators, in the body of the Hall upon the right of the presiding officer; for the Representatives, in the body of the Hall not provided for the Senators; for the tellers, Secretary of the Senate, and Clerk of the House of Representatives, at the Clerk’s desk; for the other officers of the two Houses, in front of the Clerk’s desk and upon each side of the Speaker’s platform. Such joint session shall not be dissolved until the count of electoral votes shall be completed and the result declared; and no recess shall be taken unless a question shall have arisen in regard to counting any such votes, or otherwise under this subchapter, in which case it shall be competent for either House, acting separately, in the manner hereinbefore provided, to direct a recess of such House not beyond the next calendar day, Sunday excepted, at the hour of 10 o’clock in the forenoon. But if the counting of the electoral votes and the declaration of the result shall not have been completed before the fifth calendar day next after such first session of the two Houses, no further or other recess shall be taken by either House.
 
-(June 25, 1948, ch. 644, 62 Stat. 676; Pub. L. 117–328, div. P, title I, § 110(c)(1), Dec. 29, 2022, 136 Stat. 5240.)
+(June 25, 1948, ch. 644, 62 Stat. 676; Pub. L. 117–328, div. P, title I, § 110(c)(1), Dec. 29, 2022, 136 Stat. 5240.)
 
 **Editorial Notes**
 
@@ -409,7 +409,7 @@ At such joint session of the two Houses seats shall be provided as follows: For 
 
 2022—Pub. L. 117–328 substituted “session” for “meeting” in section catchline and wherever appearing in text.
 
-## § 17. Same; limit of debate in each House
+## § 17. Same; limit of debate in each House
 
 When the two Houses separate to decide upon an objection pursuant to section 15(d)(2)(C)(i) that may have been made to the counting of any electoral vote or votes from any State, or other question arising in the matter—
 
@@ -421,7 +421,7 @@ When the two Houses separate to decide upon an objection pursuant to section 15(
 
 **(4)** at the close of such debate, it shall be the duty of the presiding officer of each House to put each of the objections and questions to a vote without further debate.
 
-(June 25, 1948, ch. 644, 62 Stat. 676; Pub. L. 117–328, div. P, title I, § 110(a), Dec. 29, 2022, 136 Stat. 5240.)
+(June 25, 1948, ch. 644, 62 Stat. 676; Pub. L. 117–328, div. P, title I, § 110(a), Dec. 29, 2022, 136 Stat. 5240.)
 
 **Editorial Notes**
 
@@ -429,23 +429,23 @@ When the two Houses separate to decide upon an objection pursuant to section 15(
 
 2022—Pub. L. 117–328 amended section generally. Prior to amendment, text read as follows: “When the two Houses separate to decide upon an objection that may have been made to the counting of any electoral vote or votes from any State, or other question arising in the matter, each Senator and Representative may speak to such objection or question five minutes, and not more than once; but after such debate shall have lasted two hours it shall be the duty of the presiding officer of each House to put the main question without further debate.”
 
-## § 18. Same; parliamentary procedure at joint session
+## § 18. Same; parliamentary procedure at joint session
 
 While the two Houses shall be in session as provided in this chapter, the President of the Senate shall have power to preserve order; and no debate shall be allowed and no question shall be put by the presiding officer except to either House on a motion to withdraw under section 15(d)(2)(C)(i).
 
-(June 25, 1948, ch. 644, 62 Stat. 676; Sept. 3, 1954, ch. 1263, § 3, 68 Stat. 1227; Pub. L. 117–328, div. P, title I, § 110(b), (c)(2), Dec. 29, 2022, 136 Stat. 5240.)
+(June 25, 1948, ch. 644, 62 Stat. 676; Sept. 3, 1954, ch. 1263, § 3, 68 Stat. 1227; Pub. L. 117–328, div. P, title I, § 110(b), (c)(2), Dec. 29, 2022, 136 Stat. 5240.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–328, § 110(c)(2), substituted “session” for “meeting” in section catchline and text.
+2022—Pub. L. 117–328, § 110(c)(2), substituted “session” for “meeting” in section catchline and text.
 
-Pub. L. 117–328, § 110(b), inserted “under section 15(d)(2)(C)(i)” after “motion to withdraw”.
+Pub. L. 117–328, § 110(b), inserted “under section 15(d)(2)(C)(i)” after “motion to withdraw”.
 
 1954—Act Sept. 3, 1954, substituted “chapter” for “subchapter”.
 
-## § 19. Vacancy in offices of both President and Vice President; officers eligible to act
+## § 19. Vacancy in offices of both President and Vice President; officers eligible to act
 
 **(a)**
 
@@ -473,13 +473,13 @@ Pub. L. 117–328, § 110(b), inserted “under section 15(d)(2)(C)(i)” afte
 
 **(f)** During the period that any individual acts as President under this section, his compensation shall be at the rate then provided by law in the case of the President.
 
-(June 25, 1948, ch. 644, 62 Stat. 677; Pub. L. 89–174, § 6(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 89–670, § 10(a), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, § 6(b), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, § 709(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, § 508(a), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, § 13(a), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 109–177, title V, § 503, Mar. 9, 2006, 120 Stat. 247.)
+(June 25, 1948, ch. 644, 62 Stat. 677; Pub. L. 89–174, § 6(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 89–670, § 10(a), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, § 6(b), Aug. 12, 1970, 84 Stat. 775; Pub. L. 95–91, title VII, § 709(g), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–88, title V, § 508(a), Oct. 17, 1979, 93 Stat. 692; Pub. L. 100–527, § 13(a), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 109–177, title V, § 503, Mar. 9, 2006, 120 Stat. 247.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (d)(1). Pub. L. 109–177 inserted “, Secretary of Homeland Security” after “Secretary of Veterans Affairs”.
+2006—Subsec. (d)(1). Pub. L. 109–177 inserted “, Secretary of Homeland Security” after “Secretary of Veterans Affairs”.
 
 1988—Subsec. (d)(1). Pub. L. 100–527 inserted reference to Secretary of Veterans Affairs.
 
@@ -509,13 +509,13 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 **Effective Date of 1966 Amendment**
 
-Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670, and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
+Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by President and published in Federal Register, see section 16(a), formerly § 15(a), of Pub. L. 89–670, and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
 **Effective Date of 1965 Amendment**
 
 Amendment by Pub. L. 89–174 effective upon expiration of first period of sixty calendar days following Sept. 9, 1965 or on earlier date specified by Executive order, see section 11(a) of Pub. L. 89–174 set out as an Effective Date note under section 3531 of Title 42, The Public Health and Welfare.
 
-## § 20. Resignation or refusal of office
+## § 20. Resignation or refusal of office
 
 The only evidence of a refusal to accept, or of a resignation of the office of President or Vice President, shall be an instrument in writing, declaring the same, and subscribed by the person refusing to accept or resigning, as the case may be, and delivered into the office of the Secretary of State.
 
@@ -527,7 +527,7 @@ The only evidence of a refusal to accept, or of a resignation of the office of P
 
 For protection and preservation of tape recordings of conversations involving former President Richard M. Nixon, see sections 101 to 106 of Pub. L. 93–526, set out as a note under section 2107 of Title 44, Public Printing and Documents.
 
-## § 21. Definitions
+## § 21. Definitions
 
 As used in this chapter the term—
 
@@ -537,24 +537,24 @@ As used in this chapter the term—
 
 **(3)** “executive” means, with respect to any State, the Governor of the State (or, in the case of the District of Columbia, the Mayor of the District of Columbia), except when the laws or constitution of a State in effect as of election day expressly require a different State executive to perform the duties identified under this chapter.
 
-(Added Pub. L. 87–389, § 2(a), Oct. 4, 1961, 75 Stat. 820; amended Pub. L. 117–328, div. P, title I, §§ 102(b), 104(b), Dec. 29, 2022, 136 Stat. 5233, 5235.)
+(Added Pub. L. 87–389, § 2(a), Oct. 4, 1961, 75 Stat. 820; amended Pub. L. 117–328, div. P, title I, §§ 102(b), 104(b), Dec. 29, 2022, 136 Stat. 5233, 5235.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2022—Pub. L. 117–328, § 102(b), added par. (1) and redesignated former subsecs. (a) and (b) as pars. (2) and (3), respectively.
+2022—Pub. L. 117–328, § 102(b), added par. (1) and redesignated former subsecs. (a) and (b) as pars. (2) and (3), respectively.
 
-Par. (3). Pub. L. 117–328, § 104(b), added par. (3) and struck out former par. (3), as redesignated from subsec. (b), which read as follows: “ ‘executives of each State’ includes the Board of Commissioners of the District of Columbia.”
+Par. (3). Pub. L. 117–328, § 104(b), added par. (3) and struck out former par. (3), as redesignated from subsec. (b), which read as follows: “ ‘executives of each State’ includes the Board of Commissioners of the District of Columbia.”
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Except as otherwise provided in Reorg. Plan No. 3 of 1967, eff. Aug. 11, 1967 (in part), 32 F.R. 11669, 81 Stat. 948, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
+Except as otherwise provided in Reorg. Plan No. 3 of 1967, eff. Aug. 11, 1967 (in part), 32 F.R. 11669, 81 Stat. 948, functions of Board of Commissioners of District of Columbia transferred to Commissioner of District of Columbia by section 401 of Reorg. Plan No. 3 of 1967. Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, § 711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198.
 
-## § 22. Severability
+## § 22. Severability
 
 If any provision of this chapter, or the application of a provision to any person or circumstance, is held to be unconstitutional, the remainder of this chapter, and the application of the provisions to any person or circumstance, shall not be affected by the holding.
 
-(Added Pub. L. 117–328, div. P, title I, § 111(a), Dec. 29, 2022, 136 Stat. 5240.)
+(Added Pub. L. 117–328, div. P, title I, § 111(a), Dec. 29, 2022, 136 Stat. 5240.)

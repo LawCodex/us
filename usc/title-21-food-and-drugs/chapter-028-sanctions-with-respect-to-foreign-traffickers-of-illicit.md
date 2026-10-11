@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 For termination of chapter 7 years after Dec. 20, 2019, see section 2334 of this title.
 
-## § 2301. Sense of Congress
+## § 2301. Sense of Congress
 
 It is the sense of Congress that—
 
@@ -29,15 +29,15 @@ It is the sense of Congress that—
 
 **(3)** the effective enforcement of the new regulations should result in diminished trafficking of illicit fentanyl originating from the People’s Republic of China into the United States.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7202, Dec. 20, 2019, 133 Stat. 2262.)
+(Pub. L. 116–92, div. F, title LXXII, § 7202, Dec. 20, 2019, 133 Stat. 2262.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 116–92, div. F, title LXXII, § 7201, Dec. 20, 2019, 133 Stat. 2262, provided that: “This title [enacting this chapter and amending section 2291h of Title 22, Foreign Relations and Intercourse] may be cited as the ‘Fentanyl Sanctions Act’.”
+Pub. L. 116–92, div. F, title LXXII, § 7201, Dec. 20, 2019, 133 Stat. 2262, provided that: “This title [enacting this chapter and amending section 2291h of Title 22, Foreign Relations and Intercourse] may be cited as the ‘Fentanyl Sanctions Act’.”
 
-## § 2302. Definitions
+## § 2302. Definitions
 
 In this chapter:
 
@@ -59,13 +59,13 @@ The terms “controlled substance”, “listed chemical”, “narcotic drug”
 
 The term “entity” means a partnership, joint venture, association, corporation, organization, network, group, or subgroup, or any form of business collaboration.
 
-**(5) Foreign opioid trafficker** The term “foreign opioid trafficker” means— 1
+**(5) Foreign opioid trafficker** The term “foreign opioid trafficker” means— 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
-**(A)** means <sup>1</sup> any foreign person that the President determines plays a significant role in opioid trafficking; and
+**(A)** means <sup>1</sup> any foreign person that the President determines plays a significant role in opioid trafficking; and
 
-**(B)** may <sup>1</sup> include—
+**(B)** may <sup>1</sup> include—
 
 **(i)** any entity of the People’s Republic of China that the President determines—
 
@@ -119,7 +119,7 @@ The term “person” means an individual or entity.
 
 **(D)** any person located in the United States.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7203, Dec. 20, 2019, 133 Stat. 2262; Pub. L. 119–60, div. H, title LXXXIII, § 8314, Dec. 18, 2025, 139 Stat. 1856.)
+(Pub. L. 116–92, div. F, title LXXII, § 7203, Dec. 20, 2019, 133 Stat. 2262; Pub. L. 119–60, div. H, title LXXXIII, § 8314, Dec. 18, 2025, 139 Stat. 1856.)
 
 **Editorial Notes**
 
@@ -139,11 +139,11 @@ Committee on Oversight and Reform of House of Representatives changed to Committ
 
 **Rule of Construction Regarding the Use of Military Force**
 
-Pub. L. 119–60, div. H, title LXXXIII, § 8320, Dec. 18, 2025, 139 Stat. 1863, provided that: “Nothing in this subtitle [subtitle B (§§ 8311–8320) of title LXXXIII of div. H of Pub. L. 119–60, amending this section, sections 2311 and 2312 of this title, and section 2291h of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under section 2313 of this title, section 2151 of Title 22, and section 1701 of Title 50, War and National Defense, and amending provisions set out as a note under section 2291 of Title 22], or the amendments made by this subtitle, may be construed as authorizing the use of military force.”
+Pub. L. 119–60, div. H, title LXXXIII, § 8320, Dec. 18, 2025, 139 Stat. 1863, provided that: “Nothing in this subtitle [subtitle B (§§ 8311–8320) of title LXXXIII of div. H of Pub. L. 119–60, amending this section, sections 2311 and 2312 of this title, and section 2291h of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under section 2313 of this title, section 2151 of Title 22, and section 1701 of Title 50, War and National Defense, and amending provisions set out as a note under section 2291 of Title 22], or the amendments made by this subtitle, may be construed as authorizing the use of military force.”
 
 ## SUBCHAPTER I—SANCTIONS WITH RESPECT TO FOREIGN OPIOID TRAFFICKERS
 
-### § 2311. Identification of foreign opioid traffickers
+### § 2311. Identification of foreign opioid traffickers
 
 **(a) Public report**
 
@@ -245,23 +245,23 @@ Nothing in this section may be construed to authorize or compel the disclosure o
 
 The Secretary of the Treasury, the Attorney General, the Secretary of Defense, the Secretary of State, the Secretary of Homeland Security, and the Director of National Intelligence shall consult among themselves and provide to the President and the Director of the Office of National Drug Control Policy the appropriate and necessary information to enable the President to submit the reports required by subsection (a).
 
-(Pub. L. 116–92, div. F, title LXXII, § 7211, Dec. 20, 2019, 133 Stat. 2263; Pub. L. 119–60, div. H, title LXXXIII, § 8315, Dec. 18, 2025, 139 Stat. 1857.)
+(Pub. L. 116–92, div. F, title LXXII, § 7211, Dec. 20, 2019, 133 Stat. 2263; Pub. L. 119–60, div. H, title LXXXIII, § 8315, Dec. 18, 2025, 139 Stat. 1857.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsecs. (a)(1)(B), (3) and (b)(1)(A), (C), was in the original “this subtitle”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in subsecs. (a)(1)(B), (3) and (b)(1)(A), (C), was in the original “this subtitle”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
-The National Security Act of 1947, referred to in subsec. (b)(2), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (b)(2), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§ 3001 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Amendments**
 
-2025—Subsec. (a)(1)(D). Pub. L. 119–60, § 8315(1)(A), added subpar. (D).
+2025—Subsec. (a)(1)(D). Pub. L. 119–60, § 8315(1)(A), added subpar. (D).
 
-Subsec. (a)(3) to (5). Pub. L. 119–60, § 8315(1)(B), (C), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+Subsec. (a)(3) to (5). Pub. L. 119–60, § 8315(1)(B), (C), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-Subsec. (c). Pub. L. 119–60, § 8315(2), substituted “December 31, 2030” for “the date that is 5 years after December 20, 2019”.
+Subsec. (c). Pub. L. 119–60, § 8315(2), substituted “December 31, 2030” for “the date that is 5 years after December 20, 2019”.
 
 **Executive Documents**
 
@@ -321,7 +321,7 @@ Sec. 3. The Secretary of State is authorized and directed to publish this memora
 
 Donald J. Trump.
 
-### § 2312. Imposition of sanctions
+### § 2312. Imposition of sanctions
 
 The President shall impose five or more of the sanctions described in section 2313 of this title with respect to each foreign person that is an entity, and four or more of such sanctions with respect to each foreign person that is an individual, that—
 
@@ -337,7 +337,7 @@ The President shall impose five or more of the sanctions described in section 23
 
 **(B)** is owned, controlled, or directed by any foreign person described in subparagraph (A) or in paragraph (3), or has knowingly acted or purported to act for or on behalf of, directly or indirectly, such a foreign person.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7212, Dec. 20, 2019, 133 Stat. 2265; Pub. L. 119–60, div. H, title LXXXIII, § 8316, Dec. 18, 2025, 139 Stat. 1858.)
+(Pub. L. 116–92, div. F, title LXXII, § 7212, Dec. 20, 2019, 133 Stat. 2265; Pub. L. 119–60, div. H, title LXXXIII, § 8316, Dec. 18, 2025, 139 Stat. 1858.)
 
 **Editorial Notes**
 
@@ -351,7 +351,7 @@ The President shall impose five or more of the sanctions described in section 23
 
 Functions and authorities of President under this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(d)(v) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under section 2311 of this title.
 
-### § 2313. Description of sanctions
+### § 2313. Description of sanctions
 
 **(a) In general** The sanctions that may be imposed with respect to a foreign person under section 2312 of this title are the following:
 
@@ -423,19 +423,19 @@ Sanctions under subsection (a)(8) shall not apply to an alien if admitting the a
 
 The President may exercise all authorities provided under sections 1702 and 1704 of title 50 to carry out this section.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7213, Dec. 20, 2019, 133 Stat. 2266.)
+(Pub. L. 116–92, div. F, title LXXII, § 7213, Dec. 20, 2019, 133 Stat. 2266.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Security Act of 1947, referred to in subsec. (c)(1)(A), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (c)(1)(A), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Imposition of Sanctions With Respect to Agencies or Instrumentalities of Foreign States**
 
-Pub. L. 119–60, div. H, title LXXXIII, § 8317, Dec. 18, 2025, 139 Stat. 1858, provided that:
+Pub. L. 119–60, div. H, title LXXXIII, § 8317, Dec. 18, 2025, 139 Stat. 1858, provided that:
 
 > **“(a) Definitions.—** In this section, the terms ‘knowingly’ and ‘opioid trafficking’ have the meanings given such terms in section 7203 of the Fentanyl Sanctions Act (21 U.S.C. 2302).
 
@@ -457,7 +457,7 @@ Pub. L. 119–60, div. H, title LXXXIII, § 8317, Dec. 18, 2025, 139 Stat. 185
 
 Functions and authorities of President under subsections (a)(4) to (9) and (d) of this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(d)(vi) and (vii) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under section 2311 of this title.
 
-### § 2313a. Designation of transactions of sanctioned persons as of primary money laundering concern
+### § 2313a. Designation of transactions of sanctioned persons as of primary money laundering concern
 
 **(a) In general** If the Secretary of the Treasury determines that reasonable grounds exist for concluding that 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts within, or involving, a jurisdiction outside of the United States, is of primary money laundering concern in connection with illicit opioid trafficking, the Secretary of the Treasury may, by order, regulation, or otherwise as permitted by law—
 
@@ -481,7 +481,7 @@ The penalties referred to in section 9714(d) of the National Defense Authorizati
 
 The Secretary of the Treasury may bring a civil action to enjoin a violation of any order, regulation, special measure, or other requirement imposed under subsection (a) in the same manner and to the same extent as described in section 9714(e) of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 31 U.S.C. 5318A note).
 
-(Pub. L. 116–92, div. F, title LXXII, § 7213A, as added Pub. L. 118–50, div. E, title II, § 3201(a), Apr. 24, 2024, 138 Stat. 940.)
+(Pub. L. 116–92, div. F, title LXXII, § 7213A, as added Pub. L. 118–50, div. E, title II, § 3201(a), Apr. 24, 2024, 138 Stat. 940.)
 
 **Editorial Notes**
 
@@ -489,7 +489,7 @@ The Secretary of the Treasury may bring a civil action to enjoin a violation of 
 
 Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (b), is section 1(a) of Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-### § 2314. Waivers
+### § 2314. Waivers
 
 **(a) Waiver for state-owned entities in countries that cooperate in multilateral anti-trafficking efforts**
 
@@ -535,13 +535,13 @@ Not later than 15 days after making a determination under paragraph (1), the Pre
 
 The President may waive, for renewable periods of 180 days, the application of the sanctions under this subchapter if the President certifies to the appropriate congressional committees and leadership that the waiver is necessary for the provision of humanitarian assistance.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7214, Dec. 20, 2019, 133 Stat. 2267.)
+(Pub. L. 116–92, div. F, title LXXII, § 7214, Dec. 20, 2019, 133 Stat. 2267.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsecs. (a)(1), (b)(1), and (c), was in the original “this subtitle”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in subsecs. (a)(1), (b)(1), and (c), was in the original “this subtitle”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 **Executive Documents**
 
@@ -549,7 +549,7 @@ This subchapter, referred to in subsecs. (a)(1), (b)(1), and (c), was in the ori
 
 Functions and authorities of President under this section delegated to Secretary of State, in consultation with the Secretary of the Treasury, by section 1(b)(i) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under section 2311 of this title.
 
-### § 2315. Procedures for judicial review of classified information
+### § 2315. Procedures for judicial review of classified information
 
 **(a) In general**
 
@@ -565,7 +565,7 @@ If a finding under this subchapter, or a prohibition, condition, or penalty impo
 
 **(B)** is available to the United States in connection with any type of administrative hearing, litigation, or other proceeding.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7215, Dec. 20, 2019, 133 Stat. 2268.)
+(Pub. L. 116–92, div. F, title LXXII, § 7215, Dec. 20, 2019, 133 Stat. 2268.)
 
 **Editorial Notes**
 
@@ -573,7 +573,7 @@ If a finding under this subchapter, or a prohibition, condition, or penalty impo
 
 Section 1(a) of the Classified Information Procedures Act, referred to in subsec.(a), is section 1(a) of Pub. L. 95–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-This subchapter, referred to in subsecs. (a) and (b)(1), was in the original “this subtitle”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in subsecs. (a) and (b)(1), was in the original “this subtitle”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 **Executive Documents**
 
@@ -581,21 +581,21 @@ This subchapter, referred to in subsecs. (a) and (b)(1), was in the original “
 
 Functions and authorities of President under subsection (a) of this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(d)(viii) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under section 2311 of this title.
 
-### § 2316. Briefings on implementation
+### § 2316. Briefings on implementation
 
 Not later than 90 days after December 20, 2019, and every 180 days thereafter until the date that is 5 years after December 20, 2019, the President, acting through the Secretary of State and the Director of National Intelligence, in coordination with the Secretary of the Treasury, shall provide to the appropriate congressional committees and leadership a comprehensive briefing on efforts to implement this subchapter.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7216, Dec. 20, 2019, 133 Stat. 2269.)
+(Pub. L. 116–92, div. F, title LXXII, § 7216, Dec. 20, 2019, 133 Stat. 2269.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
 ## SUBCHAPTER II—OTHER MATTERS
 
-### § 2331. Director of National Intelligence program on use of intelligence resources in efforts to sanction foreign opioid traffickers
+### § 2331. Director of National Intelligence program on use of intelligence resources in efforts to sanction foreign opioid traffickers
 
 **(a) Program required**
 
@@ -639,21 +639,21 @@ On a semiannual basis, the Director of National Intelligence and the Director of
 
 In this section, the term “intelligence community” has the meaning given that term in section 3003(4) of title 50.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7231, Dec. 20, 2019, 133 Stat. 2273; Pub. L. 117–263, div. F, title LXVIII, § 6811(h), Dec. 23, 2022, 136 Stat. 3601.)
+(Pub. L. 116–92, div. F, title LXXII, § 7231, Dec. 20, 2019, 133 Stat. 2273; Pub. L. 117–263, div. F, title LXVIII, § 6811(h), Dec. 23, 2022, 136 Stat. 3601.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter I, referred to in subsec. (a)(1), was in the original “subtitle A”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to subchapter I of this chapter. For complete classification of subtitle A to the Code, see Tables.
+Subchapter I, referred to in subsec. (a)(1), was in the original “subtitle A”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to subchapter I of this chapter. For complete classification of subtitle A to the Code, see Tables.
 
 **Amendments**
 
-2022—Subsec. (c). Pub. L. 117–263, § 6811(h)(1), inserted “and briefings” after “Reports” in heading.
+2022—Subsec. (c). Pub. L. 117–263, § 6811(h)(1), inserted “and briefings” after “Reports” in heading.
 
-Subsec. (c)(1). Pub. L. 117–263, § 6811(h)(2), substituted “Reports and briefings on program” for “Quarterly reports on program” in par. heading; designated existing provisions as subpar. (A) and inserted subpar. heading; in subpar. (A), substituted “annually” for “every 90 days”, “year” for “90-day period”, and “under this subparagraph” for “under this paragraph”; and added subpar. (B).
+Subsec. (c)(1). Pub. L. 117–263, § 6811(h)(2), substituted “Reports and briefings on program” for “Quarterly reports on program” in par. heading; designated existing provisions as subpar. (A) and inserted subpar. heading; in subpar. (A), substituted “annually” for “every 90 days”, “year” for “90-day period”, and “under this subparagraph” for “under this paragraph”; and added subpar. (B).
 
-### § 2332. Authorization of appropriations
+### § 2332. Authorization of appropriations
 
 **(a) Department of the Treasury**
 
@@ -677,7 +677,7 @@ Amounts authorized to be appropriated by subsection (a) may not be obligated unt
 
 **(2)** the Committee on Armed Services, the Committee on Financial Services, the Committee on Foreign Affairs, the Permanent Select Committee on Intelligence, the Committee on Oversight and Reform, and the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7232, Dec. 20, 2019, 133 Stat. 2274.)
+(Pub. L. 116–92, div. F, title LXXII, § 7232, Dec. 20, 2019, 133 Stat. 2274.)
 
 **Editorial Notes**
 
@@ -693,11 +693,11 @@ Sections 1403, 4501, and section 7221, referred to in subsec. (b), mean sections
 
 Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-### § 2333. Regulatory authority
+### § 2333. Regulatory authority
 
 Not later than 90 days after December 20, 2019, the President shall issue such regulations as are necessary to carry out this chapter, including guidance with respect to what activities are included under the definition of “opioid trafficking” under section 2302(8) of this title.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7233, Dec. 20, 2019, 133 Stat. 2275.)
+(Pub. L. 116–92, div. F, title LXXII, § 7233, Dec. 20, 2019, 133 Stat. 2275.)
 
 **Editorial Notes**
 
@@ -711,11 +711,11 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 Functions and authorities of President under this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(d)(ix) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under section 2311 of this title.
 
-### § 2334. Termination
+### § 2334. Termination
 
 The provisions of this chapter, and any sanctions imposed pursuant to this chapter, shall terminate on the date that is 7 years after December 20, 2019.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7234, Dec. 20, 2019, 133 Stat. 2275.)
+(Pub. L. 116–92, div. F, title LXXII, § 7234, Dec. 20, 2019, 133 Stat. 2275.)
 
 **Editorial Notes**
 
@@ -723,7 +723,7 @@ The provisions of this chapter, and any sanctions imposed pursuant to this chapt
 
 This chapter, referred to in text, was in the original “this title”, meaning title LXXII of div. F of Pub. L. 116–92, known as the Fentanyl Sanctions Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
-### § 2335. Exception relating to importation of goods
+### § 2335. Exception relating to importation of goods
 
 **(a) In general**
 
@@ -733,7 +733,7 @@ The authorities and requirements to impose sanctions under this chapter shall no
 
 In this section, the term “good” means any article, natural or manmade substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
 
-(Pub. L. 116–92, div. F, title LXXII, § 7235, Dec. 20, 2019, 133 Stat. 2275.)
+(Pub. L. 116–92, div. F, title LXXII, § 7235, Dec. 20, 2019, 133 Stat. 2275.)
 
 **Editorial Notes**
 

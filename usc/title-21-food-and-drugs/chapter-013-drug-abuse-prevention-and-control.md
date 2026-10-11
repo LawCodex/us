@@ -19,7 +19,7 @@ retrieved: 2026-10-11
 
 ### Part A—Introductory Provisions
 
-#### § 801. Congressional findings and declarations: controlled substances
+#### § 801. Congressional findings and declarations: controlled substances
 
 The Congress makes the following findings and declarations:
 
@@ -43,7 +43,7 @@ The Congress makes the following findings and declarations:
 
 **(7)** The United States is a party to the Single Convention on Narcotic Drugs, 1961, and other international conventions designed to establish effective control over international and domestic traffic in controlled substances.
 
-(Pub. L. 91–513, title II, § 101, Oct. 27, 1970, 84 Stat. 1242.)
+(Pub. L. 91–513, title II, § 101, Oct. 27, 1970, 84 Stat. 1242.)
 
 **Editorial Notes**
 
@@ -55,7 +55,7 @@ This subchapter, referred to in par. (1), was in the original “this title”, 
 
 **Effective Date**
 
-Pub. L. 91–513, title II, § 704, Oct. 27, 1970, 84 Stat. 1284, provided that:
+Pub. L. 91–513, title II, § 704, Oct. 27, 1970, 84 Stat. 1284, provided that:
 
 > **“(a)** Except as otherwise provided in this section, this title [see Short Title note below] shall become effective on the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment [Oct. 27, 1970].
 
@@ -65,175 +65,175 @@ Pub. L. 91–513, title II, § 704, Oct. 27, 1970, 84 Stat. 1284, provided tha
 
 **Short Title of 2025 Amendment**
 
-Pub. L. 119–26, § 1, July 16, 2025, 139 Stat. 410, provided that: “This Act [amending sections 802, 812, 822 to 824, 829a, 841, and 960 of this title and sections 290bb–36d, 1395*l*, and 1395m of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 812, 822, and 841 of this title] may be cited as the ‘Halt All Lethal Trafficking of Fentanyl Act’ or the ‘HALT Fentanyl Act’.”
+Pub. L. 119–26, § 1, July 16, 2025, 139 Stat. 410, provided that: “This Act [amending sections 802, 812, 822 to 824, 829a, 841, and 960 of this title and sections 290bb–36d, 1395*l*, and 1395m of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 812, 822, and 841 of this title] may be cited as the ‘Halt All Lethal Trafficking of Fentanyl Act’ or the ‘HALT Fentanyl Act’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–215, § 1(a), Dec. 2, 2022, 136 Stat. 2257, provided that: “This Act [amending sections 802, 822, 823, 824, 827, 829a, 831, 841, 843, 882, and 958 of this title and sections 290bb–36d, 290dd–3, 1395*l*, 1395m, 1395cc–6, and 1396b of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section, section 823 of this title, and sections 241 and 284 of Title 42] may be cited as the ‘Medical Marijuana and Cannabidiol Research Expansion Act’.”
+Pub. L. 117–215, § 1(a), Dec. 2, 2022, 136 Stat. 2257, provided that: “This Act [amending sections 802, 822, 823, 824, 827, 829a, 831, 841, 843, 882, and 958 of this title and sections 290bb–36d, 290dd–3, 1395*l*, 1395m, 1395cc–6, and 1396b of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section, section 823 of this title, and sections 241 and 284 of Title 42] may be cited as the ‘Medical Marijuana and Cannabidiol Research Expansion Act’.”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 117–53, § 1, Nov. 10, 2021, 135 Stat. 411, provided that: “This Act [amending section 822 of this title] may be cited as the ‘Ensuring Compliance Against Drug Diversion Act of 2021’.”
+Pub. L. 117–53, § 1, Nov. 10, 2021, 135 Stat. 411, provided that: “This Act [amending section 822 of this title] may be cited as the ‘Ensuring Compliance Against Drug Diversion Act of 2021’.”
 
-Pub. L. 117–36, § 1, Aug. 6, 2021, 135 Stat. 328, provided that: “This Act [amending section 824 of this title] may be cited as the ‘Debarment Enforcement of Bad Actor Registrants Act of 2021’ or the ‘DEBAR Act of 2021’.”
+Pub. L. 117–36, § 1, Aug. 6, 2021, 135 Stat. 328, provided that: “This Act [amending section 824 of this title] may be cited as the ‘Debarment Enforcement of Bad Actor Registrants Act of 2021’ or the ‘DEBAR Act of 2021’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–271, title III, § 3211, Oct. 24, 2018, 132 Stat. 3947, provided that: “This chapter [chapter 2 (§§ 3211, 3212) of subtitle B of title III of Pub. L. 115–271, enacting provisions set out as a note under section 829 of this title] may be cited as the ‘Empowering Pharmacists in the Fight Against Opioid Abuse Act’.”
+Pub. L. 115–271, title III, § 3211, Oct. 24, 2018, 132 Stat. 3947, provided that: “This chapter [chapter 2 (§§ 3211, 3212) of subtitle B of title III of Pub. L. 115–271, enacting provisions set out as a note under section 829 of this title] may be cited as the ‘Empowering Pharmacists in the Fight Against Opioid Abuse Act’.”
 
-Pub. L. 115–271, title III, § 3221, Oct. 24, 2018, 132 Stat. 3947, provided that: “This chapter [chapter 3 (§§ 3221–3223) of subtitle B of title III of Pub. L. 115–271, amending section 822 of this title and enacting provisions set out as notes under section 822 of this title] may be cited as the ‘Safe Disposal of Unused Medication Act’.”
+Pub. L. 115–271, title III, § 3221, Oct. 24, 2018, 132 Stat. 3947, provided that: “This chapter [chapter 3 (§§ 3221–3223) of subtitle B of title III of Pub. L. 115–271, amending section 822 of this title and enacting provisions set out as notes under section 822 of this title] may be cited as the ‘Safe Disposal of Unused Medication Act’.”
 
-Pub. L. 115–271, title III, § 3231, Oct. 24, 2018, 132 Stat. 3949, provided that: “This chapter [chapter 4 (§§ 3231, 3232) of subtitle B of title III of Pub. L. 115–271, amending section 831 of this title] may be cited as the ‘Special Registration for Telemedicine Clarification Act of 2018’.”
+Pub. L. 115–271, title III, § 3231, Oct. 24, 2018, 132 Stat. 3949, provided that: “This chapter [chapter 4 (§§ 3231, 3232) of subtitle B of title III of Pub. L. 115–271, amending section 831 of this title] may be cited as the ‘Special Registration for Telemedicine Clarification Act of 2018’.”
 
-Pub. L. 115–271, title III, § 3271, Oct. 24, 2018, 132 Stat. 3952, provided that: “This chapter [chapter 7 (§§ 3271–3274) of subtitle B of title III of Pub. L. 115–271, amending sections 827, 842, and 873 of this title and enacting provisions set out as a note under section 827 of this title] may be cited as the ‘Using Data To Prevent Opioid Diversion Act of 2018’.”
+Pub. L. 115–271, title III, § 3271, Oct. 24, 2018, 132 Stat. 3952, provided that: “This chapter [chapter 7 (§§ 3271–3274) of subtitle B of title III of Pub. L. 115–271, amending sections 827, 842, and 873 of this title and enacting provisions set out as a note under section 827 of this title] may be cited as the ‘Using Data To Prevent Opioid Diversion Act of 2018’.”
 
-Pub. L. 115–271, title III, § 3281, Oct. 24, 2018, 132 Stat. 3954, provided that: “This chapter [chapter 8 (§§ 3281, 3282) of subtitle B of title III of Pub. L. 115–271, amending section 826 of this title and enacting provisions set out as a note under section 826 of this title] may be cited as the ‘Opioid Quota Reform Act’.”
+Pub. L. 115–271, title III, § 3281, Oct. 24, 2018, 132 Stat. 3954, provided that: “This chapter [chapter 8 (§§ 3281, 3282) of subtitle B of title III of Pub. L. 115–271, amending section 826 of this title and enacting provisions set out as a note under section 826 of this title] may be cited as the ‘Opioid Quota Reform Act’.”
 
-Pub. L. 115–271, title III, § 3291, Oct. 24, 2018, 132 Stat. 3956, provided that: “This chapter [chapter 9 (§§ 3291, 3292) of subtitle B of title III of Pub. L. 115–271, enacting section 832 of this title and amending section 802 of this title] may be cited as the ‘Preventing Drug Diversion Act of 2018’.”
+Pub. L. 115–271, title III, § 3291, Oct. 24, 2018, 132 Stat. 3956, provided that: “This chapter [chapter 9 (§§ 3291, 3292) of subtitle B of title III of Pub. L. 115–271, enacting section 832 of this title and amending section 802 of this title] may be cited as the ‘Preventing Drug Diversion Act of 2018’.”
 
 **Short Title of 2017 Amendment**
 
-Pub. L. 115–83, § 1, Nov. 17, 2017, 131 Stat. 1267, provided that: “This Act [amending section 823 of this title] may be cited as the ‘Protecting Patient Access to Emergency Medications Act of 2017’.”
+Pub. L. 115–83, § 1, Nov. 17, 2017, 131 Stat. 1267, provided that: “This Act [amending section 823 of this title] may be cited as the ‘Protecting Patient Access to Emergency Medications Act of 2017’.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–145, § 1, Apr. 19, 2016, 130 Stat. 354, provided that: “This Act [amending sections 823 and 824 of this title] may be cited as the ‘Ensuring Patient Access and Effective Drug Enforcement Act of 2016’.”
+Pub. L. 114–145, § 1, Apr. 19, 2016, 130 Stat. 354, provided that: “This Act [amending sections 823 and 824 of this title] may be cited as the ‘Ensuring Patient Access and Effective Drug Enforcement Act of 2016’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–260, § 1, Dec. 18, 2014, 128 Stat. 2929, provided that: “This Act [amending sections 802, 811, 825, 842, and 960 of this title and enacting provisions set out as a note under section 825 of this title] may be cited as the ‘Designer Anabolic Steroid Control Act of 2014’.”
+Pub. L. 113–260, § 1, Dec. 18, 2014, 128 Stat. 2929, provided that: “This Act [amending sections 802, 811, 825, 842, and 960 of this title and enacting provisions set out as a note under section 825 of this title] may be cited as the ‘Designer Anabolic Steroid Control Act of 2014’.”
 
-Pub. L. 113–143, § 1, Aug. 1, 2014, 128 Stat. 1750, provided that: “This Act [amending section 822 of this title] may be cited as the ‘Veterinary Medicine Mobility Act of 2014’.”
+Pub. L. 113–143, § 1, Aug. 1, 2014, 128 Stat. 1750, provided that: “This Act [amending section 822 of this title] may be cited as the ‘Veterinary Medicine Mobility Act of 2014’.”
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–144, title XI, § 1151, July 9, 2012, 126 Stat. 1130, provided that: “This subtitle [subtitle D (§§ 1151–1153) of title XI of Pub. L. 112–144, amending sections 811 and 812 of this title] may be cited as the ‘Synthetic Drug Abuse Prevention Act of 2012’.”
+Pub. L. 112–144, title XI, § 1151, July 9, 2012, 126 Stat. 1130, provided that: “This subtitle [subtitle D (§§ 1151–1153) of title XI of Pub. L. 112–144, amending sections 811 and 812 of this title] may be cited as the ‘Synthetic Drug Abuse Prevention Act of 2012’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–273, § 1, Oct. 12, 2010, 124 Stat. 2858, provided that: “This Act [amending sections 822 and 828 of this title and enacting provisions set out as a note under section 822 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Secure and Responsible Drug Disposal Act of 2010’.”
+Pub. L. 111–273, § 1, Oct. 12, 2010, 124 Stat. 2858, provided that: “This Act [amending sections 822 and 828 of this title and enacting provisions set out as a note under section 822 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Secure and Responsible Drug Disposal Act of 2010’.”
 
-Pub. L. 111–268, § 1, Oct. 12, 2010, 124 Stat. 2847, provided that: “This Act [amending sections 830 and 842 of this title and enacting provisions set out as notes under section 830 of this title] may be cited as the ‘Combat Methamphetamine Enhancement Act of 2010’.”
+Pub. L. 111–268, § 1, Oct. 12, 2010, 124 Stat. 2847, provided that: “This Act [amending sections 830 and 842 of this title and enacting provisions set out as notes under section 830 of this title] may be cited as the ‘Combat Methamphetamine Enhancement Act of 2010’.”
 
-Pub. L. 111–220, § 1, Aug. 3, 2010, 124 Stat. 2372, provided that: “This Act [amending sections 841, 844, and 960 of this title and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Fair Sentencing Act of 2010’.”
+Pub. L. 111–220, § 1, Aug. 3, 2010, 124 Stat. 2372, provided that: “This Act [amending sections 841, 844, and 960 of this title and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Fair Sentencing Act of 2010’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–425, § 1, Oct. 15, 2008, 122 Stat. 4820, provided that: “This Act [enacting section 831 of this title, amending sections 802, 823, 827, 829, 841, 843, 882, and 960 of this title, and enacting provisions set out as notes under section 802 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Ryan Haight Online Pharmacy Consumer Protection Act of 2008’.”
+Pub. L. 110–425, § 1, Oct. 15, 2008, 122 Stat. 4820, provided that: “This Act [enacting section 831 of this title, amending sections 802, 823, 827, 829, 841, 843, 882, and 960 of this title, and enacting provisions set out as notes under section 802 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Ryan Haight Online Pharmacy Consumer Protection Act of 2008’.”
 
-Pub. L. 110–415, § 1, Oct. 14, 2008, 122 Stat. 4349, provided that: “This Act [amending section 830 of this title] may be cited as the ‘Methamphetamine Production Prevention Act of 2008’.”
+Pub. L. 110–415, § 1, Oct. 14, 2008, 122 Stat. 4349, provided that: “This Act [amending section 830 of this title] may be cited as the ‘Methamphetamine Production Prevention Act of 2008’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–177, title VII, § 701, Mar. 9, 2006, 120 Stat. 256, provided that: “This title [see Tables for classification] may be cited as the ‘Combat Methamphetamine Epidemic Act of 2005’.”
+Pub. L. 109–177, title VII, § 701, Mar. 9, 2006, 120 Stat. 256, provided that: “This title [see Tables for classification] may be cited as the ‘Combat Methamphetamine Epidemic Act of 2005’.”
 
 **Short Title of 2005 Amendment**
 
-Pub. L. 109–57, § 1(a), Aug. 2, 2005, 119 Stat. 592, provided that: “This Act [amending section 953 of this title] may be cited as the ‘Controlled Substances Export Reform Act of 2005’.”
+Pub. L. 109–57, § 1(a), Aug. 2, 2005, 119 Stat. 592, provided that: “This Act [amending section 953 of this title] may be cited as the ‘Controlled Substances Export Reform Act of 2005’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–358, § 1, Oct. 22, 2004, 118 Stat. 1661, provided that: “This Act [enacting section 290bb–25f of Title 42, The Public Health and Welfare, amending sections 802 and 811 of this title, enacting provisions set out as notes under section 802 of this title and section 290aa–4 of Title 42 and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under section 802 of this title] may be cited as the ‘Anabolic Steroid Control Act of 2004’.”
+Pub. L. 108–358, § 1, Oct. 22, 2004, 118 Stat. 1661, provided that: “This Act [enacting section 290bb–25f of Title 42, The Public Health and Welfare, amending sections 802 and 811 of this title, enacting provisions set out as notes under section 802 of this title and section 290aa–4 of Title 42 and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure, and amending provisions set out as a note under section 802 of this title] may be cited as the ‘Anabolic Steroid Control Act of 2004’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–21, title VI, § 608(a), Apr. 30, 2003, 117 Stat. 691, provided that: “This section [amending sections 843 and 856 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Illicit Drug Anti-Proliferation Act of 2003’.”
+Pub. L. 108–21, title VI, § 608(a), Apr. 30, 2003, 117 Stat. 691, provided that: “This section [amending sections 843 and 856 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Illicit Drug Anti-Proliferation Act of 2003’.”
 
 **Short Title of 2000 Amendments**
 
-Pub. L. 106–310, div. B, title XXXV, § 3501, Oct. 17, 2000, 114 Stat. 1222, provided that: “This title [amending sections 823 and 824 of this title] may be cited as the ‘Drug Addiction Treatment Act of 2000’.”
+Pub. L. 106–310, div. B, title XXXV, § 3501, Oct. 17, 2000, 114 Stat. 1222, provided that: “This title [amending sections 823 and 824 of this title] may be cited as the ‘Drug Addiction Treatment Act of 2000’.”
 
-Pub. L. 106–310, div. B, title XXXVI, § 3601, Oct. 17, 2000, 114 Stat. 1227, provided that: “This title [enacting section 864 of this title and sections 290aa–5b and 290bb–9 of Title 42, The Public Health and Welfare, amending sections 802, 830, 853, 856, and 863 of this title, sections 3663 and 3663A of Title 18, Crimes and Criminal Procedure, section 524 of Title 28, Judiciary and Judicial Procedure, and sections 285*o*–2 and 3751 of Title 42, and enacting provisions set out as notes under this section and sections 802, 872, 873, 886, and 1706 of this title, sections 524 and 994 of Title 28, and sections 201, 290aa–4, 290aa–5b and 3751 of Title 42] may be cited as the ‘Methamphetamine Anti-Proliferation Act of 2000’.”
+Pub. L. 106–310, div. B, title XXXVI, § 3601, Oct. 17, 2000, 114 Stat. 1227, provided that: “This title [enacting section 864 of this title and sections 290aa–5b and 290bb–9 of Title 42, The Public Health and Welfare, amending sections 802, 830, 853, 856, and 863 of this title, sections 3663 and 3663A of Title 18, Crimes and Criminal Procedure, section 524 of Title 28, Judiciary and Judicial Procedure, and sections 285*o*–2 and 3751 of Title 42, and enacting provisions set out as notes under this section and sections 802, 872, 873, 886, and 1706 of this title, sections 524 and 994 of Title 28, and sections 201, 290aa–4, 290aa–5b and 3751 of Title 42] may be cited as the ‘Methamphetamine Anti-Proliferation Act of 2000’.”
 
-Pub. L. 106–172, § 1, Feb. 18, 2000, 114 Stat. 7, provided that: “This Act [amending sections 802, 827, 841 and 960 of this title and enacting provisions set out as notes under this section and section 812 of this title] may be cited as the ‘Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000’.”
+Pub. L. 106–172, § 1, Feb. 18, 2000, 114 Stat. 7, provided that: “This Act [amending sections 802, 827, 841 and 960 of this title and enacting provisions set out as notes under this section and section 812 of this title] may be cited as the ‘Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–277, div. C, title VIII, § 801(a), Oct. 21, 1998, 112 Stat. 2681–693, provided that: “This title [enacting section 1713 of this title and section 2291–5 of Title 22, Foreign Relations and Intercourse, amending section 956 of this title, and enacting provisions set out as notes under sections 801 and 956 of this title and section 2291 of Title 22] may be cited as the ‘Western Hemisphere Drug Elimination Act’.”
+Pub. L. 105–277, div. C, title VIII, § 801(a), Oct. 21, 1998, 112 Stat. 2681–693, provided that: “This title [enacting section 1713 of this title and section 2291–5 of Title 22, Foreign Relations and Intercourse, amending section 956 of this title, and enacting provisions set out as notes under sections 801 and 956 of this title and section 2291 of Title 22] may be cited as the ‘Western Hemisphere Drug Elimination Act’.”
 
-Pub. L. 105–277, div. C, title VIII, subtitle G (§§ 871, 872), § 871, Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, § 1, Nov. 10, 1998, 112 Stat. 3271, provided that such subtitle and such Act, which amended section 956 of this title and enacted provisions set out as notes under section 956 of this title “may be cited as the ‘Controlled Substances Trafficking Prohibition Act’.”
+Pub. L. 105–277, div. C, title VIII, subtitle G (§§ 871, 872), § 871, Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, § 1, Nov. 10, 1998, 112 Stat. 3271, provided that such subtitle and such Act, which amended section 956 of this title and enacted provisions set out as notes under section 956 of this title “may be cited as the ‘Controlled Substances Trafficking Prohibition Act’.”
 
-Pub. L. 105–277, div. E, § 1, Oct. 21, 1998, 112 Stat. 2681–759, provided that: “This division [amending sections 841 and 960 of this title and section 13705 of Title 42, The Public Health and Welfare] may be cited as the ‘Methamphetamine Trafficking Penalty Enhancement Act of 1998’.”
+Pub. L. 105–277, div. E, § 1, Oct. 21, 1998, 112 Stat. 2681–759, provided that: “This division [amending sections 841 and 960 of this title and section 13705 of Title 42, The Public Health and Welfare] may be cited as the ‘Methamphetamine Trafficking Penalty Enhancement Act of 1998’.”
 
 **Short Title of 1996 Amendments**
 
-Pub. L. 104–305, § 1, Oct. 13, 1996, 110 Stat. 3807, provided that: “This Act [amending sections 841, 844, 959, and 960 of this title and enacting provisions set out as notes under section 872 of this title and section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Drug-Induced Rape Prevention and Punishment Act of 1996’.”
+Pub. L. 104–305, § 1, Oct. 13, 1996, 110 Stat. 3807, provided that: “This Act [amending sections 841, 844, 959, and 960 of this title and enacting provisions set out as notes under section 872 of this title and section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Drug-Induced Rape Prevention and Punishment Act of 1996’.”
 
-Pub. L. 104–237, § 1(a), Oct. 3, 1996, 110 Stat. 3099, provided that: “This Act [enacting section 872a of this title, amending sections 802, 814, 830, 841 to 844, 853, 881, 959, and 960 of this title and section 1607 of Title 19, Customs Duties, and enacting provisions set out as notes under this section and sections 802, 872, and 971 of this title, section 994 of Title 28, Judiciary and Judicial Procedure, and section 290aa–4 of Title 42, The Public Health and Welfare] may be cited as the ‘Comprehensive Methamphetamine Control Act of 1996’.”
+Pub. L. 104–237, § 1(a), Oct. 3, 1996, 110 Stat. 3099, provided that: “This Act [enacting section 872a of this title, amending sections 802, 814, 830, 841 to 844, 853, 881, 959, and 960 of this title and section 1607 of Title 19, Customs Duties, and enacting provisions set out as notes under this section and sections 802, 872, and 971 of this title, section 994 of Title 28, Judiciary and Judicial Procedure, and section 290aa–4 of Title 42, The Public Health and Welfare] may be cited as the ‘Comprehensive Methamphetamine Control Act of 1996’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–322, title XVIII, § 180201(a), Sept. 13, 1994, 108 Stat. 2046, provided that: “This section [enacting section 849 of this title, amending section 841 of this title, and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Drug Free Truck Stop Act’.”
+Pub. L. 103–322, title XVIII, § 180201(a), Sept. 13, 1994, 108 Stat. 2046, provided that: “This section [enacting section 849 of this title, amending section 841 of this title, and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Drug Free Truck Stop Act’.”
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–200, § 1, Dec. 17, 1993, 107 Stat. 2333, provided that: “This Act [enacting section 814 of this title, amending sections 802, 821 to 824, 830, 843, 880, 957, 958, 960, and 971 of this title, and enacting provisions set out as a note under section 802 of this title] may be cited as the ‘Domestic Chemical Diversion Control Act of 1993’.”
+Pub. L. 103–200, § 1, Dec. 17, 1993, 107 Stat. 2333, provided that: “This Act [enacting section 814 of this title, amending sections 802, 821 to 824, 830, 843, 880, 957, 958, 960, and 971 of this title, and enacting provisions set out as a note under section 802 of this title] may be cited as the ‘Domestic Chemical Diversion Control Act of 1993’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–647, title XIX, § 1901, Nov. 29, 1990, 104 Stat. 4851, provided that: “This Act [probably means title XIX of Pub. L. 101–647, which amended sections 333, 802, 812, and 844 of this title and section 290aa–6 of Title 42, The Public Health and Welfare, repealed section 333a of this title, and enacted provisions set out as notes under sections 802 and 829 of this title] may be cited as the ‘Anabolic Steroids Control Act of 1990’.”
+Pub. L. 101–647, title XIX, § 1901, Nov. 29, 1990, 104 Stat. 4851, provided that: “This Act [probably means title XIX of Pub. L. 101–647, which amended sections 333, 802, 812, and 844 of this title and section 290aa–6 of Title 42, The Public Health and Welfare, repealed section 333a of this title, and enacted provisions set out as notes under sections 802 and 829 of this title] may be cited as the ‘Anabolic Steroids Control Act of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–690, title VI, § 6001, Nov. 18, 1988, 102 Stat. 4312, provided that: “This title [see Tables for classification] may be cited as the ‘Anti-Drug Abuse Amendments Act of 1988’.”
+Pub. L. 100–690, title VI, § 6001, Nov. 18, 1988, 102 Stat. 4312, provided that: “This title [see Tables for classification] may be cited as the ‘Anti-Drug Abuse Amendments Act of 1988’.”
 
-Pub. L. 100–690, title VI, § 6051, Nov. 18, 1988, 102 Stat. 4312, provided that: “This subtitle [subtitle A (§§ 6051–6061) of title VI of Pub. L. 100–690, enacting section 971 of this title, amending sections 802, 830, 841 to 843, 872, 876, 881, 960, and 961 of this title, and enacting provisions set out as notes under sections 802 and 971 of this title] may be cited as the ‘Chemical Diversion and Trafficking Act of 1988’.”
+Pub. L. 100–690, title VI, § 6051, Nov. 18, 1988, 102 Stat. 4312, provided that: “This subtitle [subtitle A (§§ 6051–6061) of title VI of Pub. L. 100–690, enacting section 971 of this title, amending sections 802, 830, 841 to 843, 872, 876, 881, 960, and 961 of this title, and enacting provisions set out as notes under sections 802 and 971 of this title] may be cited as the ‘Chemical Diversion and Trafficking Act of 1988’.”
 
-Pub. L. 100–690, title VI, § 6071, Nov. 18, 1988, 102 Stat. 4320, provided that: “This subtitle [subtitle B (§§ 6071–6080) of title VI of Pub. L. 100–690, enacting sections 881–1, 887, and 1509 of this title, amending section 881 of this title, section 1594 of Title 19, Customs Duties, section 524 of Title 28, Judiciary and Judicial Procedure, and section 782 of former Title 49, Transportation, and enacting provisions set out as notes under section 881 of this title] may be cited as the ‘Asset Forfeiture Amendments Act of 1988’.”
+Pub. L. 100–690, title VI, § 6071, Nov. 18, 1988, 102 Stat. 4320, provided that: “This subtitle [subtitle B (§§ 6071–6080) of title VI of Pub. L. 100–690, enacting sections 881–1, 887, and 1509 of this title, amending section 881 of this title, section 1594 of Title 19, Customs Duties, section 524 of Title 28, Judiciary and Judicial Procedure, and section 782 of former Title 49, Transportation, and enacting provisions set out as notes under section 881 of this title] may be cited as the ‘Asset Forfeiture Amendments Act of 1988’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–570, § 1, Oct. 27, 1986, 100 Stat. 3207, provided that: “This Act [see Tables for classification] may be cited as the ‘Anti-Drug Abuse Act of 1986’.”
+Pub. L. 99–570, § 1, Oct. 27, 1986, 100 Stat. 3207, provided that: “This Act [see Tables for classification] may be cited as the ‘Anti-Drug Abuse Act of 1986’.”
 
-Pub. L. 99–570, title I, § 1001, Oct. 27, 1986, 100 Stat. 3207–2, provided that: “This subtitle [subtitle A (§§ 1001–1009) of title I of Pub. L. 99–570, amending sections 802, 841, 845, 845a, 848, 881, 960, and 962 of this title, sections 3553 and 3583 of Title 18, Crimes and Criminal Procedure, rule 35 of the Federal Rules of Criminal Procedure, Title 18, Appendix, and section 994 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under section 841 of this title, sections 3553 and 3583 of Title 18, and rule 35 of the Federal Rules of Criminal Procedure] may be cited as the ‘Narcotics Penalties and Enforcement Act of 1986’.”
+Pub. L. 99–570, title I, § 1001, Oct. 27, 1986, 100 Stat. 3207–2, provided that: “This subtitle [subtitle A (§§ 1001–1009) of title I of Pub. L. 99–570, amending sections 802, 841, 845, 845a, 848, 881, 960, and 962 of this title, sections 3553 and 3583 of Title 18, Crimes and Criminal Procedure, rule 35 of the Federal Rules of Criminal Procedure, Title 18, Appendix, and section 994 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under section 841 of this title, sections 3553 and 3583 of Title 18, and rule 35 of the Federal Rules of Criminal Procedure] may be cited as the ‘Narcotics Penalties and Enforcement Act of 1986’.”
 
-Pub. L. 99–570, title I, § 1051, Oct. 27, 1986, 100 Stat. 3207–8, provided that: “This subtitle [subtitle B (§§ 1051, 1052) of title I of Pub. L. 99–570, amending section 844 of this title] may be cited as the ‘Drug Possession Penalty Act of 1986’.”
+Pub. L. 99–570, title I, § 1051, Oct. 27, 1986, 100 Stat. 3207–8, provided that: “This subtitle [subtitle B (§§ 1051, 1052) of title I of Pub. L. 99–570, amending section 844 of this title] may be cited as the ‘Drug Possession Penalty Act of 1986’.”
 
-Pub. L. 99–570, title I, § 1101, Oct. 27, 1986, 100 Stat. 3207–10, provided that: “This subtitle [subtitle C (§§ 1101–1105) of title I of Pub. L. 99–570, enacting section 845b of this title and amending sections 841, 845, and 845a of this title] may be cited as the ‘Juvenile Drug Trafficking Act of 1986’.”
+Pub. L. 99–570, title I, § 1101, Oct. 27, 1986, 100 Stat. 3207–10, provided that: “This subtitle [subtitle C (§§ 1101–1105) of title I of Pub. L. 99–570, enacting section 845b of this title and amending sections 841, 845, and 845a of this title] may be cited as the ‘Juvenile Drug Trafficking Act of 1986’.”
 
-Pub. L. 99–570, title I, § 1201, Oct. 27, 1986, 100 Stat. 3207–13, provided that: “This subtitle [subtitle E (§§ 1201–1204) of title I of Pub. L. 99–570, enacting section 813 of this title and amending section 802 of this title] may be cited as the ‘Controlled Substance Analogue Enforcement Act of 1986’.”
+Pub. L. 99–570, title I, § 1201, Oct. 27, 1986, 100 Stat. 3207–13, provided that: “This subtitle [subtitle E (§§ 1201–1204) of title I of Pub. L. 99–570, enacting section 813 of this title and amending section 802 of this title] may be cited as the ‘Controlled Substance Analogue Enforcement Act of 1986’.”
 
-Pub. L. 99–570, title I, § 1251, Oct. 27, 1986, 100 Stat. 3207–14, provided that: “This subtitle [subtitle F (§§ 1251–1253) of title I of Pub. L. 99–570, amending section 848 of this title] may be cited as the ‘Continuing Drug Enterprises Act of 1986’.”
+Pub. L. 99–570, title I, § 1251, Oct. 27, 1986, 100 Stat. 3207–14, provided that: “This subtitle [subtitle F (§§ 1251–1253) of title I of Pub. L. 99–570, amending section 848 of this title] may be cited as the ‘Continuing Drug Enterprises Act of 1986’.”
 
-Pub. L. 99–570, title I, § 1301, Oct. 27, 1986, 100 Stat. 3207–15, provided that: “This subtitle [subtitle G (§§ 1301, 1302) of title I of Pub. L. 99–570, amending section 960 of this title] may be cited as the ‘Controlled Substances Import and Export Penalties Enhancement Act of 1986’.”
+Pub. L. 99–570, title I, § 1301, Oct. 27, 1986, 100 Stat. 3207–15, provided that: “This subtitle [subtitle G (§§ 1301, 1302) of title I of Pub. L. 99–570, amending section 960 of this title] may be cited as the ‘Controlled Substances Import and Export Penalties Enhancement Act of 1986’.”
 
-Pub. L. 99–570, title I, § 1821, Oct. 27, 1986, 100 Stat. 3207–51, which provided that subtitle O (§§ 1821–1823) of title I of Pub. L. 99–570, enacting section 857 of this title and provisions set out as a note under section 857 of this title, was to be cited as the “Mail Order Drug Paraphernalia Control Act”, was repealed by Pub. L. 101–647, title XXIV, § 2401(d), Nov. 29, 1990, 104 Stat. 4859.
+Pub. L. 99–570, title I, § 1821, Oct. 27, 1986, 100 Stat. 3207–51, which provided that subtitle O (§§ 1821–1823) of title I of Pub. L. 99–570, enacting section 857 of this title and provisions set out as a note under section 857 of this title, was to be cited as the “Mail Order Drug Paraphernalia Control Act”, was repealed by Pub. L. 101–647, title XXIV, § 2401(d), Nov. 29, 1990, 104 Stat. 4859.
 
-Pub. L. 99–570, title I, § 1991, Oct. 27, 1986, 100 Stat. 3207–59, provided that: “This subtitle [subtitle U (§§ 1991, 1992) of title I of Pub. L. 99–570, amending section 881 of this title] may be cited as the ‘Federal Drug Law Enforcement Agent Protection Act of 1986’.”
+Pub. L. 99–570, title I, § 1991, Oct. 27, 1986, 100 Stat. 3207–59, provided that: “This subtitle [subtitle U (§§ 1991, 1992) of title I of Pub. L. 99–570, amending section 881 of this title] may be cited as the ‘Federal Drug Law Enforcement Agent Protection Act of 1986’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter [chapter V (§§ 501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
+Pub. L. 98–473, title II, § 501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter [chapter V (§§ 501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
 
-Pub. L. 98–473, title II, § 506(a), Oct. 12, 1984, 98 Stat. 2070, provided that: “This part [part B of chapter V (§§ 506–525) of title II of Pub. L. 98–473, amending sections 802, 811, 812, 822–824, 827, 843, 873, 881, 952, 953, 957, and 958 of this title] may be cited as the ‘Dangerous Drug Diversion Control Act of 1984’.”
+Pub. L. 98–473, title II, § 506(a), Oct. 12, 1984, 98 Stat. 2070, provided that: “This part [part B of chapter V (§§ 506–525) of title II of Pub. L. 98–473, amending sections 802, 811, 812, 822–824, 827, 843, 873, 881, 952, 953, 957, and 958 of this title] may be cited as the ‘Dangerous Drug Diversion Control Act of 1984’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–633, § 1, Nov. 10, 1978, 92 Stat. 3768, provided: “That this Act [enacting sections 801a, 830, and 852 of this title, amending sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealing section 830 of this title (effective Jan. 1, 1981), and enacting provisions set out as notes under sections 801a, 812, and 830 of this title] may be cited as the ‘Psychotropic Substances Act of 1978’.”
+Pub. L. 95–633, § 1, Nov. 10, 1978, 92 Stat. 3768, provided: “That this Act [enacting sections 801a, 830, and 852 of this title, amending sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealing section 830 of this title (effective Jan. 1, 1981), and enacting provisions set out as notes under sections 801a, 812, and 830 of this title] may be cited as the ‘Psychotropic Substances Act of 1978’.”
 
 **Short Title of 1974 Amendment**
 
-Pub. L. 93–281, § 1, May 14, 1974, 88 Stat. 124, provided: “That this Act [amending sections 802, 823, 824, and 827 of this title] may be cited as the ‘Narcotic Addict Treatment Act of 1974’.”
+Pub. L. 93–281, § 1, May 14, 1974, 88 Stat. 124, provided: “That this Act [amending sections 802, 823, 824, and 827 of this title] may be cited as the ‘Narcotic Addict Treatment Act of 1974’.”
 
 **Short Title**
 
 Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, provided: “That this Act [enacting this chapter and sections 257a, 2688*l*–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688*l*, 2688m, 2688n, 2688*o*, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title] may be cited as the ‘Comprehensive Drug Abuse Prevention and Control Act of 1970’.”
 
-Pub. L. 91–513, title II, § 100, Oct. 27, 1970, 84 Stat. 1242, provided that: “This title [enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title] may be cited as the ‘Controlled Substances Act’.”
+Pub. L. 91–513, title II, § 100, Oct. 27, 1970, 84 Stat. 1242, provided that: “This title [enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title] may be cited as the ‘Controlled Substances Act’.”
 
 For short title and complete classification of title III of Pub. L. 91–513, which enacted subchapter II of this chapter, as the “Controlled Substances Import and Export Act”, see section 1000 of Pub. L. 91–513, set out as a note under section 951 of this title.
 
 **Severability**
 
-Pub. L. 106–310, div. B, title XXXVI, § 3673, Oct. 17, 2000, 114 Stat. 1246, provided that: “Any provision of this title [see Short Title of 2000 Amendments note above] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed as to give the maximum effect permitted by law, unless such provision is held to be utterly invalid or unenforceable, in which event such provision shall be severed from this title and shall not affect the applicability of the remainder of this title, or of such provision, to other persons not similarly situated or to other, dissimilar circumstances.”
+Pub. L. 106–310, div. B, title XXXVI, § 3673, Oct. 17, 2000, 114 Stat. 1246, provided that: “Any provision of this title [see Short Title of 2000 Amendments note above] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed as to give the maximum effect permitted by law, unless such provision is held to be utterly invalid or unenforceable, in which event such provision shall be severed from this title and shall not affect the applicability of the remainder of this title, or of such provision, to other persons not similarly situated or to other, dissimilar circumstances.”
 
 **Continuation of Orders, Rules, and Regulations**
 
-Pub. L. 91–513, title II, § 705, Oct. 27, 1970, 84 Stat. 1284, provided that: “Any orders, rules, and regulations which have been promulgated under any law affected by this title [see Short Title note above] and which are in effect on the day preceding enactment of this title [Oct. 27, 1970] shall continue in effect until modified, superseded, or repealed.”
+Pub. L. 91–513, title II, § 705, Oct. 27, 1970, 84 Stat. 1284, provided that: “Any orders, rules, and regulations which have been promulgated under any law affected by this title [see Short Title note above] and which are in effect on the day preceding enactment of this title [Oct. 27, 1970] shall continue in effect until modified, superseded, or repealed.”
 
 **Doctor-Patient Relationship**
 
-Pub. L. 117–215, title III, § 301, Dec. 2, 2022, 136 Stat. 2265, provided that:
+Pub. L. 117–215, title III, § 301, Dec. 2, 2022, 136 Stat. 2265, provided that:
 
 > “It shall not be a violation of the Controlled Substances Act (21 U.S.C. 801 et seq.) for a State-licensed physician to discuss—
 
@@ -245,13 +245,13 @@ Pub. L. 117–215, title III, § 301, Dec. 2, 2022, 136 Stat. 2265, provided t
 
 **Anti-Drug Messages on Federal Government Internet Sites**
 
-Pub. L. 106–391, title III, § 320, Oct. 30, 2000, 114 Stat. 1597, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 30, 2000], the Administrator [of the National Aeronautics and Space Administration], in consultation with the Director of the Office of National Drug Control Policy, shall place anti-drug messages on Internet sites controlled by the National Aeronautics and Space Administration.”
+Pub. L. 106–391, title III, § 320, Oct. 30, 2000, 114 Stat. 1597, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 30, 2000], the Administrator [of the National Aeronautics and Space Administration], in consultation with the Director of the Office of National Drug Control Policy, shall place anti-drug messages on Internet sites controlled by the National Aeronautics and Space Administration.”
 
-Pub. L. 106–310, div. B, title XXXVI, § 3671, Oct. 17, 2000, 114 Stat. 1245, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 17, 2000], the head of each department, agency, and establishment of the Federal Government shall, in consultation with the Director of the Office of National Drug Control Policy, place antidrug messages on appropriate Internet websites controlled by such department, agency, or establishment which messages shall, where appropriate, contain an electronic hyperlink to the Internet website, if any, of the Office.”
+Pub. L. 106–310, div. B, title XXXVI, § 3671, Oct. 17, 2000, 114 Stat. 1245, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 17, 2000], the head of each department, agency, and establishment of the Federal Government shall, in consultation with the Director of the Office of National Drug Control Policy, place antidrug messages on appropriate Internet websites controlled by such department, agency, or establishment which messages shall, where appropriate, contain an electronic hyperlink to the Internet website, if any, of the Office.”
 
 **Protocols for Investigations and Prosecutions Relating to Date-Rape Drugs and Other Controlled Substances; Annual Report; National Awareness Campaign**
 
-Pub. L. 106–172, §§ 6, 7, Feb. 18, 2000, 114 Stat. 11, as amended by Pub. L. 111–8, div. G, title I, § 1301(d), Mar. 11, 2009, 123 Stat. 829, provided that:
+Pub. L. 106–172, §§ 6, 7, Feb. 18, 2000, 114 Stat. 11, as amended by Pub. L. 111–8, div. G, title I, § 1301(d), Mar. 11, 2009, 123 Stat. 829, provided that:
 
 > **“SEC. 6. DEVELOPMENT OF MODEL PROTOCOLS, TRAINING MATERIALS, FORENSIC FIELD TESTS, AND COORDINATION MECHANISM FOR INVESTIGATIONS AND PROSECUTIONS RELATING TO GAMMA HYDROXYBUTYRIC ACID, OTHER CONTROLLED SUBSTANCES, AND DESIGNER DRUGS.**
 
@@ -301,7 +301,7 @@ Pub. L. 106–172, §§ 6, 7, Feb. 18, 2000, 114 Stat. 11, as amended by Pub. 
 
 **Congressional Findings Regarding Methamphetamine Manufacture and Abuse**
 
-Pub. L. 104–237, § 2, Oct. 3, 1996, 110 Stat. 3100, provided that:
+Pub. L. 104–237, § 2, Oct. 3, 1996, 110 Stat. 3100, provided that:
 
 > “The Congress finds the following:
 
@@ -319,19 +319,19 @@ Pub. L. 104–237, § 2, Oct. 3, 1996, 110 Stat. 3100, provided that:
 
 **Support for International Efforts To Control Methamphetamine and Precursors**
 
-Pub. L. 104–237, title I, § 101, Oct. 3, 1996, 110 Stat. 3100, provided that: “The Attorney General, in consultation with the Secretary of State, shall coordinate international drug enforcement efforts to decrease the movement of methamphetamine and methamphetamine precursors into the United States.”
+Pub. L. 104–237, title I, § 101, Oct. 3, 1996, 110 Stat. 3100, provided that: “The Attorney General, in consultation with the Secretary of State, shall coordinate international drug enforcement efforts to decrease the movement of methamphetamine and methamphetamine precursors into the United States.”
 
 **Interagency Methamphetamine Task Force**
 
-Pub. L. 104–237, title V, § 501, Oct. 3, 1996, 110 Stat. 3111, provided for the establishment of a Methamphetamine Interagency Task Force to design and implement education, prevention, and treatment strategies with respect to methamphetamine and other synthetic stimulants and for the task force to terminate 4 years after Oct. 3, 1996.
+Pub. L. 104–237, title V, § 501, Oct. 3, 1996, 110 Stat. 3111, provided for the establishment of a Methamphetamine Interagency Task Force to design and implement education, prevention, and treatment strategies with respect to methamphetamine and other synthetic stimulants and for the task force to terminate 4 years after Oct. 3, 1996.
 
 **Suspicious Orders Task Force**
 
-Pub. L. 104–237, title V, § 504, Oct. 3, 1996, 110 Stat. 3112, directed the Attorney General to establish a Suspicious Orders Task Force which would develop proposals to define suspicious orders of listed chemicals for registrants to use in determining if an order was a suspicious order that must be reported to DEA and would terminate upon presentation of its report to the Attorney General, or two years after Oct. 3, 1996, whichever was sooner.
+Pub. L. 104–237, title V, § 504, Oct. 3, 1996, 110 Stat. 3112, directed the Attorney General to establish a Suspicious Orders Task Force which would develop proposals to define suspicious orders of listed chemicals for registrants to use in determining if an order was a suspicious order that must be reported to DEA and would terminate upon presentation of its report to the Attorney General, or two years after Oct. 3, 1996, whichever was sooner.
 
 **Joint Federal Task Force on Illegal Drug Laboratories**
 
-Pub. L. 100–690, title II, § 2405, Nov. 18, 1988, 102 Stat. 4231, provided that:
+Pub. L. 100–690, title II, § 2405, Nov. 18, 1988, 102 Stat. 4231, provided that:
 
 > **“(a) Establishment of Task Force.—** There is established the Joint Federal Task Force on Illegal Drug Laboratories (hereafter in this section referred to as the ‘Task Force’).
 
@@ -371,7 +371,7 @@ Pub. L. 100–690, title II, § 2405, Nov. 18, 1988, 102 Stat. 4231, provided 
 
 **Great Lakes Drug Interdiction**
 
-Pub. L. 100–690, title VII, § 7404, Nov. 18, 1988, 102 Stat. 4484, provided that:
+Pub. L. 100–690, title VII, § 7404, Nov. 18, 1988, 102 Stat. 4484, provided that:
 
 > **“(a) Interagency Agreement.—** The Secretary of Transportation and the Secretary of the Treasury shall enter into an agreement for the purpose of increasing the effectiveness of maritime drug interdiction activities of the Coast Guard and the Customs Service in the Great Lakes area.
 
@@ -383,15 +383,15 @@ Pub. L. 100–690, title VII, § 7404, Nov. 18, 1988, 102 Stat. 4484, provided
 
 **GAO Study of Capabilities of United States To Control Drug Smuggling Into United States**
 
-Pub. L. 100–180, div. A, title XII, § 1241, Dec. 4, 1987, 101 Stat. 1162, directed Comptroller General of the United States to conduct a comprehensive study regarding smuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smuggling interdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
+Pub. L. 100–180, div. A, title XII, § 1241, Dec. 4, 1987, 101 Stat. 1162, directed Comptroller General of the United States to conduct a comprehensive study regarding smuggling of illegal drugs into United States and current capabilities of United States to deter such smuggling, with special consideration given to issues involving use of military and National Guard units along with Customs Service in cooperative drug smuggling interdiction efforts, and to issue, not later than Apr. 30, 1988, and Mar. 31, 1989, reports to Congress outlining results of this study.
 
 **Compliance With Budget Act**
 
-Pub. L. 99–570, § 3, Oct. 27, 1986, 100 Stat. 3207–1, provided that: “Notwithstanding any other provision of this Act [see Tables for classification], any spending authority and any credit authority provided under this Act shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 [2 U.S.C. 651(c)(2)] and the term ‘credit authority’ has the meaning provided in section 3(10) of the Congresssional [sic] Budget Act of 1974 [2 U.S.C. 622(10)].”
+Pub. L. 99–570, § 3, Oct. 27, 1986, 100 Stat. 3207–1, provided that: “Notwithstanding any other provision of this Act [see Tables for classification], any spending authority and any credit authority provided under this Act shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts. For purposes of this Act, the term ‘spending authority’ has the meaning provided in section 401(c)(2) of the Congressional Budget Act of 1974 [2 U.S.C. 651(c)(2)] and the term ‘credit authority’ has the meaning provided in section 3(10) of the Congresssional [sic] Budget Act of 1974 [2 U.S.C. 622(10)].”
 
 **Drug Interdiction**
 
-Pub. L. 99–570, title III, §§ 3001–3003, 3301, Oct. 27, 1986, 100 Stat. 3207–73, 3207–74, 3207–98, as amended by Pub. L. 104–66, title I, § 1091(a), Dec. 21, 1995, 109 Stat. 722, provided that:
+Pub. L. 99–570, title III, §§ 3001–3003, 3301, Oct. 27, 1986, 100 Stat. 3207–73, 3207–74, 3207–98, as amended by Pub. L. 104–66, title I, § 1091(a), Dec. 21, 1995, 109 Stat. 722, provided that:
 
 > **“SEC. 3001. SHORT TITLE.**
 
@@ -465,11 +465,11 @@ Pub. L. 99–570, title III, §§ 3001–3003, 3301, Oct. 27, 1986, 100 Stat. 
 
 **Information on Drug Abuse at the Workplace**
 
-Pub. L. 99–570, title IV, § 4303, Oct. 27, 1986, 100 Stat. 3207–154, directed Secretary of Labor to collect such information as is available on the incidence of drug abuse in the workplace and efforts to assist workers, including counseling, rehabilitation and employee assistance programs, to conduct such additional research as is necessary to assess the impact and extent of drug abuse and remediation efforts, and submit the findings of such collection and research to Congress no later than two years from Oct. 27, 1986.
+Pub. L. 99–570, title IV, § 4303, Oct. 27, 1986, 100 Stat. 3207–154, directed Secretary of Labor to collect such information as is available on the incidence of drug abuse in the workplace and efforts to assist workers, including counseling, rehabilitation and employee assistance programs, to conduct such additional research as is necessary to assess the impact and extent of drug abuse and remediation efforts, and submit the findings of such collection and research to Congress no later than two years from Oct. 27, 1986.
 
 **Interagency Coordination**
 
-Pub. L. 99–570, title IV, § 4304, Oct. 27, 1986, 100 Stat. 3207–154, provided that:
+Pub. L. 99–570, title IV, § 4304, Oct. 27, 1986, 100 Stat. 3207–154, provided that:
 
 > **“(a)** The Secretary of Education, the Secretary of Health and Human Services, and the Secretary of Labor shall each designate an officer or employee of the Departments of Education, Health and Human Services, and Labor, respectively, to coordinate interagency drug abuse prevention activities to prevent duplication of effort.
 
@@ -477,11 +477,11 @@ Pub. L. 99–570, title IV, § 4304, Oct. 27, 1986, 100 Stat. 3207–154, prov
 
 **Substance Abuse Coverage Study**
 
-Pub. L. 99–570, title VI, § 6005, Oct. 27, 1986, 100 Stat. 3207–160, as amended by Pub. L. 100–690, title II, § 2058(c), Nov. 18, 1988, 102 Stat. 4214, directed Secretary of Health and Human Services to contract with Institute of Medicine of National Academy of Sciences to conduct a study of extent to which cost of drug abuse treatment is covered by private insurance, public programs, and other sources of payment, and adequacy of such coverage for the rehabilitation of drug abusers, and not later than 18 months after execution of such contract to transmit to Congress a report of results of study, including recommendations of means to meet the needs identified in such study.
+Pub. L. 99–570, title VI, § 6005, Oct. 27, 1986, 100 Stat. 3207–160, as amended by Pub. L. 100–690, title II, § 2058(c), Nov. 18, 1988, 102 Stat. 4214, directed Secretary of Health and Human Services to contract with Institute of Medicine of National Academy of Sciences to conduct a study of extent to which cost of drug abuse treatment is covered by private insurance, public programs, and other sources of payment, and adequacy of such coverage for the rehabilitation of drug abusers, and not later than 18 months after execution of such contract to transmit to Congress a report of results of study, including recommendations of means to meet the needs identified in such study.
 
 **Health Insurance Coverage for Drug and Alcohol Treatment**
 
-Pub. L. 99–570, title VI, § 6006, Oct. 27, 1986, 100 Stat. 3207–160, provided that:
+Pub. L. 99–570, title VI, § 6006, Oct. 27, 1986, 100 Stat. 3207–160, provided that:
 
 > **“(a) Findings.—** The Congress finds that—
 
@@ -503,7 +503,7 @@ Pub. L. 99–570, title VI, § 6006, Oct. 27, 1986, 100 Stat. 3207–160, prov
 
 **Commission on Marihuana and Drug Abuse**
 
-Pub. L. 91–513, title II, § 601, Oct. 27, 1970, 84 Stat. 1280, as amended by Pub. L. 92–13, May 14, 1971, 85 Stat. 37, provided that:
+Pub. L. 91–513, title II, § 601, Oct. 27, 1970, 84 Stat. 1280, as amended by Pub. L. 92–13, May 14, 1971, 85 Stat. 37, provided that:
 
 > **“(a) [Establishment; composition] There is established a commission to be known as the Commission on Marihuana and Drug Abuse (hereafter in this section referred to as the ‘Commission’). The Commission shall be composed of—**
 
@@ -555,7 +555,7 @@ Pub. L. 91–513, title II, § 601, Oct. 27, 1970, 84 Stat. 1280, as amended b
 
 **Definitions**
 
-Pub. L. 117–215, § 2(a), Dec. 2, 2022, 136 Stat. 2257, provided that:
+Pub. L. 117–215, § 2(a), Dec. 2, 2022, 136 Stat. 2257, provided that:
 
 > **“(a) In General.—** In this Act [see Short Title of 2022 Amendment note set out above]—
 
@@ -659,7 +659,7 @@ Sec. 3. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 Donald J. Trump.
 
-#### § 801a. Congressional findings and declarations: psychotropic substances
+#### § 801a. Congressional findings and declarations: psychotropic substances
 
 The Congress makes the following findings and declarations:
 
@@ -669,7 +669,7 @@ The Congress makes the following findings and declarations:
 
 **(3)** In implementing the Convention on Psychotropic Substances, the Congress intends that, consistent with the obligations of the United States under the Convention, control of psychotropic substances in the United States should be accomplished within the framework of the procedures and criteria for classification of substances provided in the Comprehensive Drug Abuse Prevention and Control Act of 1970 [21 U.S.C. 801 et seq.]. This will insure that (A) the availability of psychotropic substances to manufacturers, distributors, dispensers, and researchers for useful and legitimate medical and scientific purposes will not be unduly restricted; (B) nothing in the Convention will interfere with bona fide research activities; and (C) nothing in the Convention will interfere with ethical medical practice in this country as determined by the Secretary of Health and Human Services on the basis of a consensus of the views of the American medical and scientific community.
 
-(Pub. L. 95–633, title I, § 101, Nov. 10, 1978, 92 Stat. 3768; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 95–633, title I, § 101, Nov. 10, 1978, 92 Stat. 3768; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
@@ -677,7 +677,7 @@ The Congress makes the following findings and declarations:
 
 This Act, referred to in par. (2), is Pub. L. 95–633, Nov. 10, 1978, 92 Stat. 2768, as amended, known as the Psychotropic Substances Act of 1978, which enacted sections 801a, 830, and 852 of this title, amended sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and section 242a of Title 42, The Public Health and Welfare, repealed section 830 of this title effective Jan. 1, 1981, and enacted provisions set out as notes under sections 801, 801a, 812, and 830 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 801 of this title and Tables.
 
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (3), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to this chapter [§ 801 et seq.]. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (3), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to this chapter [§ 801 et seq.]. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 **Codification**
 
@@ -691,9 +691,9 @@ Section was enacted as a part of the Psychotropic Substances Act of 1978, and no
 
 **Effective Date**
 
-Pub. L. 95–633, title I, § 112, Nov. 10, 1978, 92 Stat. 3774, provided that: “This title [enacting this section and section 852 of this title, amending sections 352, 802, 811, 812, 823, 827, 872, 952, and 953 of this title and section 242a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 801 and 812 of this title] and the amendments made by this title shall take effect on the date the Convention on Psychotrop­ic Substances, signed at Vienna, Austria on February 21, 1971, enters into force in respect to the United States.” [The Convention entered into force in respect to the United States on July 15, 1980.]
+Pub. L. 95–633, title I, § 112, Nov. 10, 1978, 92 Stat. 3774, provided that: “This title [enacting this section and section 852 of this title, amending sections 352, 802, 811, 812, 823, 827, 872, 952, and 953 of this title and section 242a of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 801 and 812 of this title] and the amendments made by this title shall take effect on the date the Convention on Psychotrop­ic Substances, signed at Vienna, Austria on February 21, 1971, enters into force in respect to the United States.” [The Convention entered into force in respect to the United States on July 15, 1980.]
 
-#### § 802. Definitions
+#### § 802. Definitions
 
 As used in this subchapter:
 
@@ -891,7 +891,7 @@ whether such application be by injection, inhalation, ingestion, or any other me
 
 **(D)** Ethyl ether.
 
-**(E)** Repealed. Pub. L. 101–647, title XXIII, § 2301(b), Nov. 29, 1990, 104 Stat. 4858.
+**(E)** Repealed. Pub. L. 101–647, title XXIII, § 2301(b), Nov. 29, 1990, 104 Stat. 4858.
 
 **(F)** Potassium permanganate.
 
@@ -1341,7 +1341,7 @@ Each reference in clause (i) to ephedrine, pseudoephedrine, or phenylpropanolami
 
 **(60)** The term “fentanyl-related substance” has the meaning given the term in subsection (e)(2) of schedule I of section 812(c) of this title.
 
-(Pub. L. 91–513, title II, § 102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, § 2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, § 102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–132, § 16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, § 507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, § 301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§ 1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, § 83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, § 6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, § 1902(b), title XXIII, § 2301, title XXXV, § 3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§ 2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, § 90105(d), title XXXIII, § 330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§ 204(a), 209, title IV, § 401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§ 604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, § 126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§ 3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, § 3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, § 2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, § 1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§ 711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, § 3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, § 2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, § 303(a)(2), July 22, 2016, 130 Stat. 722; Pub. L. 115–271, title III, §§ 3202(c), 3292(a), Oct. 24, 2018, 132 Stat. 3945, 3956; Pub. L. 115–334, title XII, § 12619(a), Dec. 20, 2018, 132 Stat. 5018; Pub. L. 115–391, title IV, § 401(a)(1), Dec. 21, 2018, 132 Stat. 5220; Pub. L. 117–215, § 2(b), title I, § 103(b)(1)(A), Dec. 2, 2022, 136 Stat. 2258, 2262; Pub. L. 118–189, § 1, Dec. 23, 2024, 138 Stat. 2652; Pub. L. 119–26, § 6(c), July 16, 2025, 139 Stat. 417.)
+(Pub. L. 91–513, title II, § 102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, § 2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, § 102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–132, § 16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, § 507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, § 301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§ 1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, § 83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, § 6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, § 1902(b), title XXIII, § 2301, title XXXV, § 3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§ 2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, § 90105(d), title XXXIII, § 330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§ 204(a), 209, title IV, § 401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§ 604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, § 126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§ 3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, § 3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, § 2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, § 1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§ 711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, § 3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, § 2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, § 303(a)(2), July 22, 2016, 130 Stat. 722; Pub. L. 115–271, title III, §§ 3202(c), 3292(a), Oct. 24, 2018, 132 Stat. 3945, 3956; Pub. L. 115–334, title XII, § 12619(a), Dec. 20, 2018, 132 Stat. 5018; Pub. L. 115–391, title IV, § 401(a)(1), Dec. 21, 2018, 132 Stat. 5220; Pub. L. 117–215, § 2(b), title I, § 103(b)(1)(A), Dec. 2, 2022, 136 Stat. 2258, 2262; Pub. L. 118–189, § 1, Dec. 23, 2024, 138 Stat. 2652; Pub. L. 119–26, § 6(c), July 16, 2025, 139 Stat. 417.)
 
 **Editorial Notes**
 
@@ -1353,11 +1353,11 @@ This subchapter, referred to in introductory provisions and in pars. (34), (35),
 
 Subchapter II, referred to in par. (39)(A)(iii), (vi), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv), (41)(C)(ii)(II), and (45)(A)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in pars. (39)(A)(iv), (41)(C)(ii)(II), and (45)(A)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 This chapter, referred to in par. (41)(C)(i), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 **Amendments**
 
@@ -1365,167 +1365,167 @@ The Indian Self-Determination and Education Assistance Act, referred to in pars.
 
 2024—Pars. (57) to (59). Pub. L. 118–189 redesignated pars. (57) defining the term “serious drug felony” and (58) as (58) and (59), respectively, and realigned margins.
 
-2022—Par. (16)(A). Pub. L. 117–215, § 2(b)(1), substituted “the terms ‘marihuana’ and ‘marijuana’ mean” for “the term ‘marihuana’ means”.
+2022—Par. (16)(A). Pub. L. 117–215, § 2(b)(1), substituted “the terms ‘marihuana’ and ‘marijuana’ mean” for “the term ‘marihuana’ means”.
 
-Par. (16)(B). Pub. L. 117–215, § 2(b)(2), substituted “The terms ‘marihuana’ and ‘marijuana’ do not” for “The term ‘marihuana’ does not” in introductory provisions.
+Par. (16)(B). Pub. L. 117–215, § 2(b)(2), substituted “The terms ‘marihuana’ and ‘marijuana’ do not” for “The term ‘marihuana’ does not” in introductory provisions.
 
-Par. (52)(B). Pub. L. 117–215, § 103(b)(1)(A)(i)(I), substituted “823(g)” for “823(f)” wherever appearing.
+Par. (52)(B). Pub. L. 117–215, § 103(b)(1)(A)(i)(I), substituted “823(g)” for “823(f)” wherever appearing.
 
-Par. (52)(B)(i). Pub. L. 117–215, § 103(b)(1)(A)(i)(II), substituted “(e), or (f)” for “(d), or (e)”.
+Par. (52)(B)(i). Pub. L. 117–215, § 103(b)(1)(A)(i)(II), substituted “(e), or (f)” for “(d), or (e)”.
 
-Par. (54). Pub. L. 117–215, § 103(b)(1)(A)(ii), substituted “823(g)” for “823(f)” wherever appearing.
+Par. (54). Pub. L. 117–215, § 103(b)(1)(A)(ii), substituted “823(g)” for “823(f)” wherever appearing.
 
 2018—Par. (16). Pub. L. 115–334 designated first sentence as subpar. (A), substituted “Subject to subparagraph (B), the” for “The”, inserted subpar. (B) designation, introductory provisions, and cl. (i), designated second sentence as cl. (ii) of subpar. (B), and substituted “the” for “Such term does not include the” in cl. (ii).
 
-Par. (24). Pub. L. 115–271, § 3202(c), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Par. (24). Pub. L. 115–271, § 3202(c), substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-Par. (57). Pub. L. 115–391, § 401(a)(1), added par. (57) defining the term “serious drug felony”.
+Par. (57). Pub. L. 115–391, § 401(a)(1), added par. (57) defining the term “serious drug felony”.
 
-Pub. L. 115–271, § 3292(a), added par. (57) defining the term “suspicious order”.
+Pub. L. 115–271, § 3292(a), added par. (57) defining the term “suspicious order”.
 
-Par. (58). Pub. L. 115–391, § 401(a)(1), added par. (58).
+Par. (58). Pub. L. 115–391, § 401(a)(1), added par. (58).
 
-2016—Par. (18). Pub. L. 114–198 inserted “or ‘opioid’ ” after “The term ‘opiate’ ”.
+2016—Par. (18). Pub. L. 114–198 inserted “or ‘opioid’ ” after “The term ‘opiate’ ”.
 
-2014—Par. (41)(A)(l) to (lxxv). Pub. L. 113–260, § 2(a)(1), added cls. (l) to (lxxiv) and redesignated former cl. (xlx) as (lxxv).
+2014—Par. (41)(A)(l) to (lxxv). Pub. L. 113–260, § 2(a)(1), added cls. (l) to (lxxiv) and redesignated former cl. (xlx) as (lxxv).
 
-Par. (41)(C). Pub. L. 113–260, § 2(a)(2), added subpar. (C).
+Par. (41)(C). Pub. L. 113–260, § 2(a)(2), added subpar. (C).
 
 2008—Pars. (50) to (56). Pub. L. 110–425 added pars. (50) to (56).
 
-2006—Par. (39)(A)(iv). Pub. L. 109–177, § 712(a)(1)(A)(i), amended cl. (iv) generally. Prior to amendment, cl. (iv) related to transactions involving drugs containing ephedrine, pseudoephedrine, or phenylpropanolamine.
+2006—Par. (39)(A)(iv). Pub. L. 109–177, § 712(a)(1)(A)(i), amended cl. (iv) generally. Prior to amendment, cl. (iv) related to transactions involving drugs containing ephedrine, pseudoephedrine, or phenylpropanolamine.
 
-Par. (39)(A)(v), (vi). Pub. L. 109–177, § 712(a)(1)(A)(ii), (iii), added cl. (v) and redesignated former cl. (v) as (vi).
+Par. (39)(A)(v), (vi). Pub. L. 109–177, § 712(a)(1)(A)(ii), (iii), added cl. (v) and redesignated former cl. (v) as (vi).
 
-Par. (41)(A)(xvii). Pub. L. 109–162, § 1180(1), substituted “13β-ethyl-17β-hydroxygon-4-en-3-one;” for “13β-ethyl-17α-hydroxygon-4-en-3-one;”.
+Par. (41)(A)(xvii). Pub. L. 109–162, § 1180(1), substituted “13β-ethyl-17β-hydroxygon-4-en-3-one;” for “13β-ethyl-17α-hydroxygon-4-en-3-one;”.
 
-Par. (41)(A)(xliv). Pub. L. 109–162, § 1180(2), substituted “(17α-methyl-17β-hydroxy-[5α]-androst-2-eno[3,2-c]-pyrazole);” for “(17α-methyl-17α-hydroxy-[5α]-androst-2-eno[3,2-c]-pyrazole);”.
+Par. (41)(A)(xliv). Pub. L. 109–162, § 1180(2), substituted “(17α-methyl-17β-hydroxy-[5α]-androst-2-eno[3,2-c]-pyrazole);” for “(17α-methyl-17α-hydroxy-[5α]-androst-2-eno[3,2-c]-pyrazole);”.
 
-Par. (45). Pub. L. 109–177, §§ 711(a)(1)(B), 712(a)(1)(B), added par. (45) and struck out former par. (45) which defined “ordinary over-the-counter pseudoephedrine or phenylpropanolamine product”.
+Par. (45). Pub. L. 109–177, §§ 711(a)(1)(B), 712(a)(1)(B), added par. (45) and struck out former par. (45) which defined “ordinary over-the-counter pseudoephedrine or phenylpropanolamine product”.
 
-Pars. (46) to (48). Pub. L. 109–177, §§ 711(a)(1)(B), added pars. (46) to (48). Former par. (46) redesignated (49).
+Pars. (46) to (48). Pub. L. 109–177, §§ 711(a)(1)(B), added pars. (46) to (48). Former par. (46) redesignated (49).
 
-Par. (49). Pub. L. 109–177, § 711(a)(1)(A), (2)(A), redesignated par. (46) as (49), substituted “ephedrine, pseudoephedrine, or” for “pseudoephedrine or” in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “For purposes of this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use.”
+Par. (49). Pub. L. 109–177, § 711(a)(1)(A), (2)(A), redesignated par. (46) as (49), substituted “ephedrine, pseudoephedrine, or” for “pseudoephedrine or” in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “For purposes of this paragraph, sale for personal use means the sale of below-threshold quantities in a single transaction to an individual for legitimate medical use.”
 
-2004—Par. (41). Pub. L. 108–358, § 2(a)(1), realigned margins, added subpar. (A), and struck out former subpar. (A) which defined “anabolic steroid”.
+2004—Par. (41). Pub. L. 108–358, § 2(a)(1), realigned margins, added subpar. (A), and struck out former subpar. (A) which defined “anabolic steroid”.
 
-Par. (44). Pub. L. 108–358, § 2(a)(2), inserted “anabolic steroids,” after “marihuana,”.
+Par. (44). Pub. L. 108–358, § 2(a)(2), inserted “anabolic steroids,” after “marihuana,”.
 
-2002—Pars. (43), (44). Pub. L. 107–273 repealed Pub. L. 104–294, §§ 604(b)(4), 607(j)(2). See 1996 Amendment note below.
+2002—Pars. (43), (44). Pub. L. 107–273 repealed Pub. L. 104–294, §§ 604(b)(4), 607(j)(2). See 1996 Amendment note below.
 
-2000—Par. (32)(A). Pub. L. 106–172, § 5(a)(1), substituted “subparagraph (C)” for “subparagraph (B)” in introductory provisions.
+2000—Par. (32)(A). Pub. L. 106–172, § 5(a)(1), substituted “subparagraph (C)” for “subparagraph (B)” in introductory provisions.
 
-Par. (32)(B), (C). Pub. L. 106–172, § 5(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
+Par. (32)(B), (C). Pub. L. 106–172, § 5(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Par. (34)(X), (Y). Pub. L. 106–172, § 3(c), added subpar. (X) and redesignated former subpar. (X) as (Y).
+Par. (34)(X), (Y). Pub. L. 106–172, § 3(c), added subpar. (X) and redesignated former subpar. (X) as (Y).
 
 Par. (39)(A)(iv)(II). Pub. L. 106–310 substituted “9 grams” for “24 grams” in two places and inserted before semicolon at end “and sold in package sizes of not more than 3 grams of pseudoephedrine base or 3 grams of phenylpropanolamine base”.
 
 1997—Par. (9)(A). Pub. L. 105–115 redesignated cl. (i) as subpar. (A) and struck out cl. (ii) which read as follows: “any derivative of barbituric acid which has been designated by the Secretary as habit forming under section 352(d) of this title; or”.
 
-1996—Par. (26). Pub. L. 104–294, § 607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
+1996—Par. (26). Pub. L. 104–294, § 607(j)(1), amended par. (26) generally. Prior to amendment, par. (26) read as follows: “The term ‘State’ means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, and the Canal Zone.”
 
-Par. (34)(P), (S), (U). Pub. L. 104–237, § 209(1), substituted “Isosafrole” for “Insosafrole” in subpar. (P), “N-Methylephedrine” for “N-Methylepherdrine” in subpar. (S), and “Hydriodic acid” for “Hydriotic acid” in subpar. (U).
+Par. (34)(P), (S), (U). Pub. L. 104–237, § 209(1), substituted “Isosafrole” for “Insosafrole” in subpar. (P), “N-Methylephedrine” for “N-Methylepherdrine” in subpar. (S), and “Hydriodic acid” for “Hydriotic acid” in subpar. (U).
 
-Par. (35)(G). Pub. L. 104–237, § 209(2), amended subpar. (G) generally, inserting “(or Methyl Ethyl Ketone)” before period at end.
+Par. (35)(G). Pub. L. 104–237, § 209(2), amended subpar. (G) generally, inserting “(or Methyl Ethyl Ketone)” before period at end.
 
-Par. (35)(I), (J). Pub. L. 104–237, § 204(a), added subpars. (I) and (J).
+Par. (35)(I), (J). Pub. L. 104–237, § 204(a), added subpars. (I) and (J).
 
-Par. (39)(A)(iv)(I)(aa). Pub. L. 104–237, § 401(a)(1), (b)(1), substituted “, pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996);” for “as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient;”.
+Par. (39)(A)(iv)(I)(aa). Pub. L. 104–237, § 401(a)(1), (b)(1), substituted “, pseudoephedrine or its salts, optical isomers, or salts of optical isomers, or phenylpropanolamine or its salts, optical isomers, or salts of optical isomers unless otherwise provided by regulation of the Attorney General issued pursuant to section 814(e) of this title, except that any sale of ordinary over-the-counter pseudoephedrine or phenylpropanolamine products by retail distributors shall not be a regulated transaction (except as provided in section 401(d) of the Comprehensive Methamphetamine Control Act of 1996);” for “as the only active medicinal ingredient or contains ephedrine or its salts, optical isomers, or salts of optical isomers and therapeutically insignificant quantities of another active medicinal ingredient;”.
 
-Par. (39)(A)(iv)(II). Pub. L. 104–237, § 401(a)(2), (b)(2), inserted “, pseudoephedrine, phenylpropanolamine,” after “ephedrine” and inserted before semicolon “, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction”.
+Par. (39)(A)(iv)(II). Pub. L. 104–237, § 401(a)(2), (b)(2), inserted “, pseudoephedrine, phenylpropanolamine,” after “ephedrine” and inserted before semicolon “, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction”.
 
-Pars. (43), (44). Pub. L. 104–294, §§ 604(b)(4), 607(j)(2), which provided for amendment to section identical to Pub. L. 104–237, § 401(b)(3), below, were repealed by Pub. L. 107–273, § 4002(c)(1).
+Pars. (43), (44). Pub. L. 104–294, §§ 604(b)(4), 607(j)(2), which provided for amendment to section identical to Pub. L. 104–237, § 401(b)(3), below, were repealed by Pub. L. 107–273, § 4002(c)(1).
 
-Pub. L. 104–237, § 401(b)(3), redesignated par. (43), relating to felony drug offense, as (44).
+Pub. L. 104–237, § 401(b)(3), redesignated par. (43), relating to felony drug offense, as (44).
 
-Pars. (45), (46). Pub. L. 104–237, § 401(b)(4), added pars. (45) and (46).
+Pars. (45), (46). Pub. L. 104–237, § 401(b)(4), added pars. (45) and (46).
 
-1994—Par. (34)(V), (W). Pub. L. 103–322, § 330024(b), realigned margins and capitalized first letter.
+1994—Par. (34)(V), (W). Pub. L. 103–322, § 330024(b), realigned margins and capitalized first letter.
 
-Par. (35). Pub. L. 103–322, § 330024(d)(1), made technical correction to directory language of Pub. L. 103–200, § 2(a)(4)(B). See 1993 Amendment note below.
+Par. (35). Pub. L. 103–322, § 330024(d)(1), made technical correction to directory language of Pub. L. 103–200, § 2(a)(4)(B). See 1993 Amendment note below.
 
-Par. (39)(A)(iv)(II). Pub. L. 103–322, § 330024(a), substituted “; or” for period at end.
+Par. (39)(A)(iv)(II). Pub. L. 103–322, § 330024(a), substituted “; or” for period at end.
 
-Par. (43). Pub. L. 103–322, § 90105(d), added par. (43) defining “felony drug offense”.
+Par. (43). Pub. L. 103–322, § 90105(d), added par. (43) defining “felony drug offense”.
 
-1993—Par. (33). Pub. L. 103–200, § 2(a)(1), substituted “any list I chemical or any list II chemical” for “any listed precursor chemical or listed essential chemical”.
+1993—Par. (33). Pub. L. 103–200, § 2(a)(1), substituted “any list I chemical or any list II chemical” for “any listed precursor chemical or listed essential chemical”.
 
-Par. (34). Pub. L. 103–200, § 2(a)(2), substituted “list I chemical” for “listed precursor chemical” and “important to the manufacture” for “critical to the creation” in introductory provisions.
+Par. (34). Pub. L. 103–200, § 2(a)(2), substituted “list I chemical” for “listed precursor chemical” and “important to the manufacture” for “critical to the creation” in introductory provisions.
 
-Par. (34)(A), (F), (H). Pub. L. 103–200, § 2(a)(3), inserted “, its esters,” before “and”.
+Par. (34)(A), (F), (H). Pub. L. 103–200, § 2(a)(3), inserted “, its esters,” before “and”.
 
-Par. (34)(O). Pub. L. 103–200, § 8(1), (2), redesignated subpar. (P) as (O) and struck out former subpar. (O) which read as follows: “D-lysergic acid.”
+Par. (34)(O). Pub. L. 103–200, § 8(1), (2), redesignated subpar. (P) as (O) and struck out former subpar. (O) which read as follows: “D-lysergic acid.”
 
-Par. (34)(P) to (S). Pub. L. 103–200, § 8(2), redesignated subpars. (Q) to (T) as (P) to (S), respectively. Former subpar. (P) redesignated (O).
+Par. (34)(P) to (S). Pub. L. 103–200, § 8(2), redesignated subpars. (Q) to (T) as (P) to (S), respectively. Former subpar. (P) redesignated (O).
 
-Par. (34)(T). Pub. L. 103–200, § 8(2), redesignated subpar. (V) as (T). Former subpar. (T) redesignated (S).
+Par. (34)(T). Pub. L. 103–200, § 8(2), redesignated subpar. (V) as (T). Former subpar. (T) redesignated (S).
 
-Par. (34)(U). Pub. L. 103–200, § 8(1), (2), redesignated subpar. (X) as (U) and struck out former subpar. (U) which read as follows: “N-ethylephedrine.”
+Par. (34)(U). Pub. L. 103–200, § 8(1), (2), redesignated subpar. (X) as (U) and struck out former subpar. (U) which read as follows: “N-ethylephedrine.”
 
-Par. (34)(V). Pub. L. 103–200, § 8(2), (4), added subpar. (V) and redesignated former subpar. (V) as (T).
+Par. (34)(V). Pub. L. 103–200, § 8(2), (4), added subpar. (V) and redesignated former subpar. (V) as (T).
 
-Par. (34)(W). Pub. L. 103–200, § 8(1), (4), added subpar. (W) and struck out former subpar. (W) which read as follows: “N-ethylpseudoephedrine.”
+Par. (34)(W). Pub. L. 103–200, § 8(1), (4), added subpar. (W) and struck out former subpar. (W) which read as follows: “N-ethylpseudoephedrine.”
 
-Par. (34)(X). Pub. L. 103–200, § 8(2), (3), redesignated subpar. (Y) as (X) and substituted “through (U)” for “through (X)”.
+Par. (34)(X). Pub. L. 103–200, § 8(2), (3), redesignated subpar. (Y) as (X) and substituted “through (U)” for “through (X)”.
 
-Par. (34)(Y). Pub. L. 103–200, § 8(2), redesignated subpar. (Y) as (X).
+Par. (34)(Y). Pub. L. 103–200, § 8(2), redesignated subpar. (Y) as (X).
 
-Par. (35). Pub. L. 103–200, § 2(a)(4)(A), (C), substituted “list II chemical” for “listed essential chemical” and struck out “as a solvent, reagent, or catalyst” before “in manufacturing”.
+Par. (35). Pub. L. 103–200, § 2(a)(4)(A), (C), substituted “list II chemical” for “listed essential chemical” and struck out “as a solvent, reagent, or catalyst” before “in manufacturing”.
 
-Pub. L. 103–200, § 2(a)(4)(B), as amended by Pub. L. 103–322, § 330024(d)(1), inserted “(other than a list I chemical)” before “specified” the first time appearing.
+Pub. L. 103–200, § 2(a)(4)(B), as amended by Pub. L. 103–322, § 330024(d)(1), inserted “(other than a list I chemical)” before “specified” the first time appearing.
 
-Par. (37). Pub. L. 103–200, § 9(a), amended par. (37) generally. Prior to amendment, par. (37) read as follows: “The term ‘regular supplier’ means, with respect to a regulated person, a supplier with whom the regulated person has an established business relationship that is reported to the Attorney General.”
+Par. (37). Pub. L. 103–200, § 9(a), amended par. (37) generally. Prior to amendment, par. (37) read as follows: “The term ‘regular supplier’ means, with respect to a regulated person, a supplier with whom the regulated person has an established business relationship that is reported to the Attorney General.”
 
-Par. (38). Pub. L. 103–200, § 2(a)(5), inserted before period at end “or who acts as a broker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine”.
+Par. (38). Pub. L. 103–200, § 2(a)(5), inserted before period at end “or who acts as a broker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine”.
 
-Par. (39)(A). Pub. L. 103–200, §§ 2(a)(6)(A), 7, in introductory provisions, substituted “importation, or exportation of, or an international transaction involving shipment of,” for “importation or exportation of” and inserted “a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical,” before “a threshold amount,”.
+Par. (39)(A). Pub. L. 103–200, §§ 2(a)(6)(A), 7, in introductory provisions, substituted “importation, or exportation of, or an international transaction involving shipment of,” for “importation or exportation of” and inserted “a listed chemical, or if the Attorney General establishes a threshold amount for a specific listed chemical,” before “a threshold amount,”.
 
-Par. (39)(A)(iii). Pub. L. 103–200, § 2(a)(6)(B), inserted “or any category of transaction for a specific listed chemical or chemicals” after “transaction”.
+Par. (39)(A)(iii). Pub. L. 103–200, § 2(a)(6)(B), inserted “or any category of transaction for a specific listed chemical or chemicals” after “transaction”.
 
-Par. (39)(A)(iv). Pub. L. 103–200, § 2(a)(6)(C), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act; or”.
+Par. (39)(A)(iv). Pub. L. 103–200, § 2(a)(6)(C), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “any transaction in a listed chemical that is contained in a drug that may be marketed or distributed lawfully in the United States under the Federal Food, Drug, and Cosmetic Act; or”.
 
-Par. (39)(A)(v). Pub. L. 103–200, § 2(a)(6)(D), inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
+Par. (39)(A)(v). Pub. L. 103–200, § 2(a)(6)(D), inserted before semicolon at end “which the Attorney General has by regulation designated as exempt from the application of this subchapter and subchapter II based on a finding that the mixture is formulated in such a way that it cannot be easily used in the illicit production of a controlled substance and that the listed chemical or chemicals contained in the mixture cannot be readily recovered”.
 
-Par. (40). Pub. L. 103–200, § 2(a)(7), substituted “list I chemical or a list II chemical” for “listed precursor chemical or a listed essential chemical” in two places.
+Par. (40). Pub. L. 103–200, § 2(a)(7), substituted “list I chemical or a list II chemical” for “listed precursor chemical or a listed essential chemical” in two places.
 
-Pars. (42), (43). Pub. L. 103–200, § 2(a)(8), added pars. (42) and (43).
+Pars. (42), (43). Pub. L. 103–200, § 2(a)(8), added pars. (42) and (43).
 
-1990—Par. (32)(A). Pub. L. 101–647, § 3599I, substituted “the stimulant” for “the stimulent” in cl. (ii) and “a stimulant” for “a stimulent” in cl. (iii).
+1990—Par. (32)(A). Pub. L. 101–647, § 3599I, substituted “the stimulant” for “the stimulent” in cl. (ii) and “a stimulant” for “a stimulent” in cl. (iii).
 
-Par. (34)(M) to (Y). Pub. L. 101–647, § 2301(a), added subpars. (M) to (Y).
+Par. (34)(M) to (Y). Pub. L. 101–647, § 2301(a), added subpars. (M) to (Y).
 
-Par. (35)(E). Pub. L. 101–647, § 2301(b), struck out subpar. (E) “Hydriodic acid.”
+Par. (35)(E). Pub. L. 101–647, § 2301(b), struck out subpar. (E) “Hydriodic acid.”
 
-Par. (41). Pub. L. 101–647, § 1902(b), added par. (41).
+Par. (41). Pub. L. 101–647, § 1902(b), added par. (41).
 
-1988—Par. (8). Pub. L. 100–690, § 6054(1), inserted “or a listed chemical” after “a controlled substance”.
+1988—Par. (8). Pub. L. 100–690, § 6054(1), inserted “or a listed chemical” after “a controlled substance”.
 
-Par. (11). Pub. L. 100–690, § 6054(2), inserted “or a listed chemical” after “a controlled substance” in two places.
+Par. (11). Pub. L. 100–690, § 6054(2), inserted “or a listed chemical” after “a controlled substance” in two places.
 
-Pars. (33) to (40). Pub. L. 100–690, § 6054(3), added pars. (33) to (40).
+Pars. (33) to (40). Pub. L. 100–690, § 6054(3), added pars. (33) to (40).
 
 1986—Par. (6). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Par. (14). Pub. L. 99–570, § 1870, and Pub. L. 99–646 amended par. (14) identically, substituting “any optical” for “the optical” in second and third sentences.
+Par. (14). Pub. L. 99–570, § 1870, and Pub. L. 99–646 amended par. (14) identically, substituting “any optical” for “the optical” in second and third sentences.
 
-Par. (25). Pub. L. 99–570, § 1003(b)(1), added par. (25). Former par. (25) redesignated (26).
+Par. (25). Pub. L. 99–570, § 1003(b)(1), added par. (25). Former par. (25) redesignated (26).
 
-Pars. (26) to (31). Pub. L. 99–570, § 1003(b)(2), redesignated pars. (25) to (30) as (26) to (31), respectively.
+Pars. (26) to (31). Pub. L. 99–570, § 1003(b)(2), redesignated pars. (25) to (30) as (26) to (31), respectively.
 
-Par. (32). Pub. L. 99–570, § 1203, added par. (32).
+Par. (32). Pub. L. 99–570, § 1203, added par. (32).
 
-1984—Pars. (14) to (16). Pub. L. 98–473, § 507(a), added par. (14) and redesignated former pars. (14) to (16) as (15) to (17), respectively.
+1984—Pars. (14) to (16). Pub. L. 98–473, § 507(a), added par. (14) and redesignated former pars. (14) to (16) as (15) to (17), respectively.
 
-Par. (17). Pub. L. 98–473, § 507, redesignated former par. (16) as (17), and expanded and revised definition of “narcotic drug”, including within term poppy straw, cocaine, and ecgonine. Former par. (17) redesignated (18).
+Par. (17). Pub. L. 98–473, § 507, redesignated former par. (16) as (17), and expanded and revised definition of “narcotic drug”, including within term poppy straw, cocaine, and ecgonine. Former par. (17) redesignated (18).
 
-Pars. (18) to (28). Pub. L. 98–473, § 507(a), redesignated former pars. (17) to (27) as (18) to (28), respectively.
+Pars. (18) to (28). Pub. L. 98–473, § 507(a), redesignated former pars. (17) to (27) as (18) to (28), respectively.
 
 Par. (29). Pub. L. 98–509 which directed the substitution of “one hundred and eighty” for “twenty-one” in par. (28), was executed to par. (29) in view of the redesignation of par. (28) as par. (29) by Pub. L. 98–473.
 
-Pub. L. 98–473, § 507(a), redesignated former par. (28) as (29). Former par. (29) redesignated (30).
+Pub. L. 98–473, § 507(a), redesignated former par. (28) as (29). Former par. (29) redesignated (30).
 
-Par. (30). Pub. L. 98–473, § 507(a), redesignated former par. (29) as (30).
+Par. (30). Pub. L. 98–473, § 507(a), redesignated former par. (29) as (30).
 
 1979—Par. (4). Pub. L. 96–132 substituted provisions defining “Drug Enforcement Administration” for provisions defining “Bureau of Narcotics and Dangerous Drugs”.
 
@@ -1537,11 +1537,11 @@ Par. (30). Pub. L. 98–473, § 507(a), redesignated former par. (29) as (30).
 
 **Effective Date of 2018 Amendment**
 
-Pub. L. 115–391, title IV, § 401(c), Dec. 21, 2018, 132 Stat. 5221, provided that: “This section [amending this section and sections 841 and 960 of this title], and the amendments made by this section, shall apply to any offense that was committed before the date of enactment of this Act [Dec. 21, 2018], if a sentence for the offense has not been imposed as of such date of enactment.”
+Pub. L. 115–391, title IV, § 401(c), Dec. 21, 2018, 132 Stat. 5221, provided that: “This section [amending this section and sections 841 and 960 of this title], and the amendments made by this section, shall apply to any offense that was committed before the date of enactment of this Act [Dec. 21, 2018], if a sentence for the offense has not been imposed as of such date of enactment.”
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–425, § 3(j), Oct. 15, 2008, 122 Stat. 4832, provided that:
+Pub. L. 110–425, § 3(j), Oct. 15, 2008, 122 Stat. 4832, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this Act [enacting section 831 of this title and amending this section and sections 823, 827, 829, 841, 843, 882 and 960 of this title] shall take effect 180 days after the date of enactment of this Act [Oct. 15, 2008].
 
@@ -1559,15 +1559,15 @@ Pub. L. 110–425, § 3(j), Oct. 15, 2008, 122 Stat. 4832, provided that:
 
 **Effective Date of 2004 Amendment**
 
-Pub. L. 108–358, § 2(d), Oct. 22, 2004, 118 Stat. 1664, provided that: “The amendments made by this section [amending this section, section 811 of this title, and provisions set out as a note under this section] shall take effect 90 days after the date of enactment of this Act [Oct. 22, 2004].”
+Pub. L. 108–358, § 2(d), Oct. 22, 2004, 118 Stat. 1664, provided that: “The amendments made by this section [amending this section, section 811 of this title, and provisions set out as a note under this section] shall take effect 90 days after the date of enactment of this Act [Oct. 22, 2004].”
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–310, div. B, title XXXVI, § 3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: “The amendments made by subsection (a) [amending this section] shall take effect 1 year after the date of the enactment of this Act [Oct. 17, 2000].”
+Pub. L. 106–310, div. B, title XXXVI, § 3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: “The amendments made by subsection (a) [amending this section] shall take effect 1 year after the date of the enactment of this Act [Oct. 17, 2000].”
 
 **Effective Date of 1997 Amendment**
 
@@ -1577,23 +1577,23 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 Amendment by section 604(b)(4) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
 
-Pub. L. 104–237, title IV, § 401(g), Oct. 3, 1996, 110 Stat. 3110, provided that: “Notwithstanding any other provision of this Act [see section 1(a) of Pub. L. 104–237, set out as a Short Title of 1996 Amendments note under section 801 of this title], this section [amending this section and section 814 of this title and enacting provisions set out as a note below] shall not apply to the sale of any pseudoephedrine or phenylpropanolamine product prior to 12 months after the date of enactment of this Act [Oct. 3, 1996], except that, on application of a manufacturer of a particular pseudoephedrine or phenylpropanolamine drug product, the Attorney General may, in her sole discretion, extend such effective date up to an additional six months. Notwithstanding any other provision of law, the decision of the Attorney General on such an application shall not be subject to judicial review.”
+Pub. L. 104–237, title IV, § 401(g), Oct. 3, 1996, 110 Stat. 3110, provided that: “Notwithstanding any other provision of this Act [see section 1(a) of Pub. L. 104–237, set out as a Short Title of 1996 Amendments note under section 801 of this title], this section [amending this section and section 814 of this title and enacting provisions set out as a note below] shall not apply to the sale of any pseudoephedrine or phenylpropanolamine product prior to 12 months after the date of enactment of this Act [Oct. 3, 1996], except that, on application of a manufacturer of a particular pseudoephedrine or phenylpropanolamine drug product, the Attorney General may, in her sole discretion, extend such effective date up to an additional six months. Notwithstanding any other provision of law, the decision of the Attorney General on such an application shall not be subject to judicial review.”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330024(f), Sept. 13, 1994, 108 Stat. 2151, provided that: “The amendments made by this section [amending this section and sections 824, 960, and 971 of this title] shall take effect as of the date that is 120 days after the date of enactment of the Domestic Chemical Diversion Control Act of 1993 [Dec. 17, 1993].”
+Pub. L. 103–322, title XXXIII, § 330024(f), Sept. 13, 1994, 108 Stat. 2151, provided that: “The amendments made by this section [amending this section and sections 824, 960, and 971 of this title] shall take effect as of the date that is 120 days after the date of enactment of the Domestic Chemical Diversion Control Act of 1993 [Dec. 17, 1993].”
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–200, § 11, Dec. 17, 1993, 107 Stat. 2341, provided that: “This Act [enacting section 814 of this title, amending this section and sections 821 to 824, 830, 843, 880, 957, 958, 960, and 971 of this title, and enacting provisions set out as a note under section 801 of this title] and the amendments made by this Act shall take effect on the date that is 120 days after the date of enactment of this Act [Dec. 17, 1993].”
+Pub. L. 103–200, § 11, Dec. 17, 1993, 107 Stat. 2341, provided that: “This Act [enacting section 814 of this title, amending this section and sections 821 to 824, 830, 843, 880, 957, 958, 960, and 971 of this title, and enacting provisions set out as a note under section 801 of this title] and the amendments made by this Act shall take effect on the date that is 120 days after the date of enactment of this Act [Dec. 17, 1993].”
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–647, title XIX, § 1902(d), Nov. 29, 1990, 104 Stat. 4852, provided that: “This section [amending this section and section 812 of this title and enacting provisions set out as a note under section 829 of this title] and the amendment made by this section shall take effect 90 days after the date of enactment of this Act [Nov. 29, 1990].”
+Pub. L. 101–647, title XIX, § 1902(d), Nov. 29, 1990, 104 Stat. 4852, provided that: “This section [amending this section and section 812 of this title and enacting provisions set out as a note under section 829 of this title] and the amendment made by this section shall take effect 90 days after the date of enactment of this Act [Nov. 29, 1990].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–690, title VI, § 6061, Nov. 18, 1988, 102 Stat. 4320, provided that: “Except as otherwise provided in this subtitle, this subtitle [subtitle A (§§ 6051–6061) of title VI of Pub. L. 100–690, enacting section 971 of this title, amending this section and sections 830, 841 to 843, 872, 876, 881, 960, and 961 of this title, and enacting provisions set out as notes under this section and section 971 of this title] shall take effect 120 days after the enactment of this Act [Nov. 18, 1988].”
+Pub. L. 100–690, title VI, § 6061, Nov. 18, 1988, 102 Stat. 4320, provided that: “Except as otherwise provided in this subtitle, this subtitle [subtitle A (§§ 6051–6061) of title VI of Pub. L. 100–690, enacting section 971 of this title, amending this section and sections 830, 841 to 843, 872, 876, 881, 960, and 961 of this title, and enacting provisions set out as notes under this section and section 971 of this title] shall take effect 120 days after the enactment of this Act [Nov. 18, 1988].”
 
 **Effective Date of 1978 Amendment**
 
@@ -1601,21 +1601,21 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 **Regulations**
 
-Pub. L. 110–425, § 3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: “The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act [see Short Title of 2008 Amendment note set out under section 801 of this title] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date [see Effective Date of 2008 Amendment note above].”
+Pub. L. 110–425, § 3(k)(1), Oct. 15, 2008, 122 Stat. 4833, provided that: “The Attorney General may promulgate and enforce any rules, regulations, and procedures which may be necessary and appropriate for the efficient execution of functions under this Act [see Short Title of 2008 Amendment note set out under section 801 of this title] or the amendments made by this Act, and, with the concurrence of the Secretary of Health and Human Services where this Act or the amendments made by this Act so provide, promulgate any interim rules necessary for the implementation of this Act or the amendments made by this Act, prior to its effective date [see Effective Date of 2008 Amendment note above].”
 
-Pub. L. 98–509, title III, § 301(b), Oct. 19, 1984, 98 Stat. 2364, provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act [Oct. 19, 1984], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act [21 U.S.C. 802(29)] as amended by subsection (a) and shall include in the first report submitted under section 505(b) [503(b)] of the Public Health Service Act [former 42 U.S.C. 290aa–2(b)] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
+Pub. L. 98–509, title III, § 301(b), Oct. 19, 1984, 98 Stat. 2364, provided that: “The Secretary of Health and Human Services shall, within ninety days of the date of the enactment of this Act [Oct. 19, 1984], promulgate regulations for the administration of section 102(28) of the Controlled Substances Act [21 U.S.C. 802(29)] as amended by subsection (a) and shall include in the first report submitted under section 505(b) [503(b)] of the Public Health Service Act [former 42 U.S.C. 290aa–2(b)] after the expiration of such ninety days the findings of the Secretary with respect to the effect of the amendment made by subsection (a).”
 
 **Construction of 2008 Amendment**
 
-Pub. L. 110–425, § 4, Oct. 15, 2008, 122 Stat. 4834, provided that: “Nothing in this Act [see Short Title of 2008 Amendment note set out under section 801 of this title] or the amendments made by this Act shall be construed as authorizing, prohibiting, or limiting the use of electronic prescriptions for controlled substances.”
+Pub. L. 110–425, § 4, Oct. 15, 2008, 122 Stat. 4834, provided that: “Nothing in this Act [see Short Title of 2008 Amendment note set out under section 801 of this title] or the amendments made by this Act shall be construed as authorizing, prohibiting, or limiting the use of electronic prescriptions for controlled substances.”
 
 **Preservation of State Authority To Regulate Scheduled Listed Chemicals**
 
-Pub. L. 109–177, title VII, § 711(g), Mar. 9, 2006, 120 Stat. 263, provided that: “This section [amending this section and sections 830, 841, 842, and 844 of this title and enacting provisions set out as notes under sections 830 and 844 of this title] and the amendments made by this section may not be construed as having any legal effect on section 708 of the Controlled Substances Act [21 U.S.C. 903] as applied to the regulation of scheduled listed chemicals (as defined in section 102(45) of such Act [21 U.S.C. 802(45)]).”
+Pub. L. 109–177, title VII, § 711(g), Mar. 9, 2006, 120 Stat. 263, provided that: “This section [amending this section and sections 830, 841, 842, and 844 of this title and enacting provisions set out as notes under sections 830 and 844 of this title] and the amendments made by this section may not be construed as having any legal effect on section 708 of the Controlled Substances Act [21 U.S.C. 903] as applied to the regulation of scheduled listed chemicals (as defined in section 102(45) of such Act [21 U.S.C. 802(45)]).”
 
 **Report on Diversion of Ordinary, Over-the-Counter Pseudoephedrine and Phenylpropanolamine Products**
 
-Pub. L. 106–310, div. B, title XXXVI, § 3642, Oct. 17, 2000, 114 Stat. 1237, provided that:
+Pub. L. 106–310, div. B, title XXXVI, § 3642, Oct. 17, 2000, 114 Stat. 1237, provided that:
 
 > **“(a) Study.—** The Attorney General shall conduct a study of the use of ordinary, over-the-counter pseudoephedrine and phenylpropanolamine products in the clandestine production of illicit drugs. Sources of data for the study shall include the following:
 
@@ -1647,11 +1647,11 @@ Pub. L. 106–310, div. B, title XXXVI, § 3642, Oct. 17, 2000, 114 Stat. 1237
 
 **Regulation of Retail Sales of Certain Precursor Chemicals; Effect on Thresholds; Combination Ephedrine Products**
 
-Pub. L. 104–237, title IV, § 401(d)–(f), Oct. 3, 1996, 110 Stat. 3108, which authorized the Attorney General to establish a single-transaction limit of 24 grams for pseudoephedrine, phenylpropanolamine, and combination ephedrine products for retail distributors, was repealed by Pub. L. 109–177, title VII, § 712(b), Mar. 9, 2006, 120 Stat. 264.
+Pub. L. 104–237, title IV, § 401(d)–(f), Oct. 3, 1996, 110 Stat. 3108, which authorized the Attorney General to establish a single-transaction limit of 24 grams for pseudoephedrine, phenylpropanolamine, and combination ephedrine products for retail distributors, was repealed by Pub. L. 109–177, title VII, § 712(b), Mar. 9, 2006, 120 Stat. 264.
 
 **Exemption for Substances in Paragraph (41)**
 
-Pub. L. 101–647, title XIX, § 1903, Nov. 29, 1990, 104 Stat. 4853, as amended by Pub. L. 108–358, § 2(c), Oct. 22, 2004, 118 Stat. 1663, provided that:
+Pub. L. 101–647, title XIX, § 1903, Nov. 29, 1990, 104 Stat. 4853, as amended by Pub. L. 108–358, § 2(c), Oct. 22, 2004, 118 Stat. 1663, provided that:
 
 > **“(a) Drugs for Treatment of Rare Diseases.—** If the Attorney General finds that a drug listed in paragraph (41) of section 102 of the Controlled Substances Act (as added by section 2 [1902] of this Act) is—
 
@@ -1661,13 +1661,13 @@ Pub. L. 101–647, title XIX, § 1903, Nov. 29, 1990, 104 Stat. 4853, as amend
 
 > **“(b) Date of Issuance of Regulations.—** The Attorney General shall issue regulations implementing this section not later than 45 days after the date of enactment of this Act [Nov. 29, 1990], except that the regulations required under section 3(a) [former 1903(a)] shall be issued not later than 180 days after the date of enactment of this Act.”
 
-#### § 803. Repealed. Pub. L. 95–137, § 1(b), Oct. 18, 1977, 91 Stat. 1169
+#### § 803. Repealed. Pub. L. 95–137, § 1(b), Oct. 18, 1977, 91 Stat. 1169
 
-Section, Pub. L. 91–513, title II, § 103, Oct. 27, 1970, 84 Stat. 1245, authorized Bureau of Narcotics and Dangerous Drugs to add, during fiscal year 1971, 300 agents, together with necessary supporting personnel, and provided for appropriations of $6,000,000 to carry out such addition.
+Section, Pub. L. 91–513, title II, § 103, Oct. 27, 1970, 84 Stat. 1245, authorized Bureau of Narcotics and Dangerous Drugs to add, during fiscal year 1971, 300 agents, together with necessary supporting personnel, and provided for appropriations of $6,000,000 to carry out such addition.
 
 ### Part B—Authority To Control; Standards and Schedules
 
-#### § 811. Authority and criteria for classification of substances
+#### § 811. Authority and criteria for classification of substances
 
 **(a) Rules and regulations of Attorney General; hearing** The Attorney General shall apply the provisions of this subchapter to the controlled substances listed in the schedules established by section 812 of this title and to any other drug or other substance added to such schedules under this subchapter. Except as provided in subsections (d) and (e), the Attorney General may by rule—
 
@@ -1731,9 +1731,9 @@ The Attorney General shall, before initiating proceedings under subsection (a) t
 
 **(4)**
 
-**(A)** If the Attorney General determines, after consultation with the Secretary of Health and Human Services, that proceedings initiated under recommendations made under paragraph 1
+**(A)** If the Attorney General determines, after consultation with the Secretary of Health and Human Services, that proceedings initiated under recommendations made under paragraph 1
 
-<sup>1</sup>  So in original. Probably should be “subparagraph”.
+<sup>1</sup> So in original. Probably should be “subparagraph”.
 
 (B) or (C)(i) of paragraph (3) will not be completed within the time period required by paragraph 7 of article 2 of the Convention, the Attorney General, after consultation with the Secretary and after providing interested persons opportunity to submit comments respecting the requirements of the temporary order to be issued under this sentence, shall issue a temporary order controlling the drug or substance under schedule IV or V, whichever is most appropriate to carry out the minimum United States obligations under paragraph 7 of article 2 of the Convention. As a part of such order, the Attorney General shall, after consultation with the Secretary, except such drug or substance from the application of any provision of part C of this subchapter which he finds is not required to carry out the United States obligations under paragraph 7 of article 2 of the Convention. In the case of proceedings initiated under subparagraph (B) of paragraph (3), the Attorney General, concurrently with the issuance of such order, shall request the Secretary of State to transmit a notice of qualified acceptance to the Secretary-General of the United Nations pursuant to paragraph 7 of article 2 of the Convention. A temporary order issued under this subparagraph controlling a drug or other substance subject to proceedings initiated under subsections (a) and (b) of this section shall expire upon the effective date of the application to the drug or substance of the controls resulting from such proceedings.
 
@@ -1819,7 +1819,7 @@ If, at the time a new-drug application is submitted to the Secretary for any dru
 
 **(3)** A rule issued by the Attorney General under paragraph (1) shall become immediately effective as an interim final rule without requiring the Attorney General to demonstrate good cause therefor. The interim final rule shall give interested persons the opportunity to comment and to request a hearing. After the conclusion of such proceedings, the Attorney General shall issue a final rule in accordance with the scheduling criteria of subsections (b), (c), and (d) of this section and section 812(b) of this title.
 
-(Pub. L. 91–513, title II, § 201, Oct. 27, 1970, 84 Stat. 1245; Pub. L. 95–633, title I, § 102(a), Nov. 10, 1978, 92 Stat. 3769; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 98–473, title II, §§ 508, 509(a), Oct. 12, 1984, 98 Stat. 2071, 2072; Pub. L. 108–358, § 2(b), Oct. 22, 2004, 118 Stat. 1663; Pub. L. 112–144, title XI, § 1153, July 9, 2012, 126 Stat. 1132; Pub. L. 113–260, § 2(b), Dec. 18, 2014, 128 Stat. 2930; Pub. L. 114–89, § 2(b), Nov. 25, 2015, 129 Stat. 700.)
+(Pub. L. 91–513, title II, § 201, Oct. 27, 1970, 84 Stat. 1245; Pub. L. 95–633, title I, § 102(a), Nov. 10, 1978, 92 Stat. 3769; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 98–473, title II, §§ 508, 509(a), Oct. 12, 1984, 98 Stat. 2071, 2072; Pub. L. 108–358, § 2(b), Oct. 22, 2004, 118 Stat. 1663; Pub. L. 112–144, title XI, § 1153, July 9, 2012, 126 Stat. 1132; Pub. L. 113–260, § 2(b), Dec. 18, 2014, 128 Stat. 2930; Pub. L. 114–89, § 2(b), Nov. 25, 2015, 129 Stat. 700.)
 
 **Editorial Notes**
 
@@ -1827,7 +1827,7 @@ If, at the time a new-drug application is submitted to the Secretary for any dru
 
 This subchapter, referred to in subsecs. (a), (c)(8), (d)(3), (4)(A), (B), and (g)(2), (3), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(3) and (g)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(3) and (g)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 Schedules I, II, III, IV, and V, referred to in subsecs. (d)(4)(A), (B), (h)(1), and (j)(1), are set out in section 812(c) of this title.
 
@@ -1843,13 +1843,13 @@ This subchapter and subchapter II of this chapter, referred to in subsec. (g)(1)
 
 2012—Subsec. (h)(2). Pub. L. 112–144 substituted “2 years” for “one year” and “1 year” for “six months”.
 
-2004—Subsec. (g)(1). Pub. L. 108–358, § 2(b)(1), substituted “drug which contains a controlled substance from the application of this subchapter and subchapter II of this chapter if such drug” for “substance from a schedule if such substance”.
+2004—Subsec. (g)(1). Pub. L. 108–358, § 2(b)(1), substituted “drug which contains a controlled substance from the application of this subchapter and subchapter II of this chapter if such drug” for “substance from a schedule if such substance”.
 
-Subsec. (g)(3)(C). Pub. L. 108–358, § 2(b)(2), added subpar. (C).
+Subsec. (g)(3)(C). Pub. L. 108–358, § 2(b)(2), added subpar. (C).
 
-1984—Subsec. (g)(3). Pub. L. 98–473, § 509(a), added par. (3).
+1984—Subsec. (g)(3). Pub. L. 98–473, § 509(a), added par. (3).
 
-Subsec. (h). Pub. L. 98–473, § 508, added subsec. (h).
+Subsec. (h). Pub. L. 98–473, § 508, added subsec. (h).
 
 1978—Subsec. (d). Pub. L. 95–633 designated existing provisions as par. (1) and added pars. (2) to (5).
 
@@ -1867,13 +1867,13 @@ Amendment by Pub. L. 108–358 effective 90 days after Oct. 22, 2004, see sectio
 
 Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic Substances enters into force in the United States [July 15, 1980], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 
-#### § 812. Schedules of controlled substances
+#### § 812. Schedules of controlled substances
 
 **(a) Establishment**
 
 There are established five schedules of controlled substances, to be known as schedules I, II, III, IV, and V. Such schedules shall initially consist of the substances listed in this section. The schedules established by this section shall be updated and republished on a semiannual basis during the two-year period beginning one year after October 27, 1970, and shall be updated and republished on an annual basis thereafter.1
 
-<sup>1</sup>  See Amendment of Schedules of Controlled Substances note below.
+<sup>1</sup> See Amendment of Schedules of Controlled Substances note below.
 
 **(b) Placement on schedules; findings required** Except where control is required by United States obligations under an international treaty, convention, or protocol, in effect on October 27, 1970, and except in the case of an immediate precursor, a drug or other substance may not be placed in any schedule unless the findings required for such schedule are made with respect to such drug or other substance. The findings required for each of the schedules are as follows:
 
@@ -1931,7 +1931,7 @@ Schedule I
 
 **(3)** Alphacetylmathadol.2
 
-<sup>2</sup>  So in original. Probably should be “Alphacetylmethadol.”
+<sup>2</sup> So in original. Probably should be “Alphacetylmethadol.”
 
 **(4)** Alphameprodine.
 
@@ -2203,9 +2203,9 @@ Schedule II
 
 **(3)** Opium poppy and poppy straw.
 
-**(4)** coca 3
+**(4)** coca 3
 
-<sup>3</sup>  So in original. Probably should be capitalized.
+<sup>3</sup> So in original. Probably should be capitalized.
 
 leaves, except coca leaves and extracts of coca leaves from which cocaine, ecgonine, and derivatives of ecgonine or their salts have been removed; cocaine, its salts, optical and geometric isomers, and salts of isomers; ecgonine, its derivatives, their salts, isomers, and salts of isomers; or any compound, mixture, or preparation which contains any quantity of any of the substances referred to in this paragraph.
 
@@ -2273,7 +2273,7 @@ Schedule III
 
 **(2)** Chorhexadol.4
 
-<sup>4</sup>  So in original. Probably should be “Chlorhexadol.”
+<sup>4</sup> So in original. Probably should be “Chlorhexadol.”
 
 **(3)** Glutethimide.
 
@@ -2361,7 +2361,7 @@ Not more than 100 milligrams of opium per 100 milliliters or per 100 grams.
 
 Schedule IV
 
-(Pub. L. 91–513, title II, § 202, Oct. 27, 1970, 84 Stat. 1247; Pub. L. 95–633, title I, § 103, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§ 507(c), 509(b), Oct. 12, 1984, 98 Stat. 2071, 2072; Pub. L. 99–570, title I, § 1867, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, § 84, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 101–647, title XIX, § 1902(a), Nov. 29, 1990, 104 Stat. 4851; Pub. L. 112–144, title XI, § 1152, July 9, 2012, 126 Stat. 1130; Pub. L. 115–334, title XII, § 12619(b), Dec. 20, 2018, 132 Stat. 5018; Pub. L. 119–26, § 2, July 16, 2025, 139 Stat. 410.)
+(Pub. L. 91–513, title II, § 202, Oct. 27, 1970, 84 Stat. 1247; Pub. L. 95–633, title I, § 103, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§ 507(c), 509(b), Oct. 12, 1984, 98 Stat. 2071, 2072; Pub. L. 99–570, title I, § 1867, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, § 84, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 101–647, title XIX, § 1902(a), Nov. 29, 1990, 104 Stat. 4851; Pub. L. 112–144, title XI, § 1152, July 9, 2012, 126 Stat. 1130; Pub. L. 115–334, title XII, § 12619(b), Dec. 20, 2018, 132 Stat. 5018; Pub. L. 119–26, § 2, July 16, 2025, 139 Stat. 410.)
 
 **Editorial Notes**
 
@@ -2369,11 +2369,11 @@ Schedule IV
 
 2025—Subsec. (c). Pub. L. 119–26 added schedule I(e).
 
-2018—Subsec. (c). Pub. L. 115–334 inserted “, except for tetrahydrocannabinols in hemp (as defined under section 1639*o* of title 7)” after “Tetrahydrocannabinols” in schedule I(c)(17).
+2018—Subsec. (c). Pub. L. 115–334 inserted “, except for tetrahydrocannabinols in hemp (as defined under section 1639*o* of title 7)” after “Tetrahydrocannabinols” in schedule I(c)(17).
 
-2012—Subsec. (c). Pub. L. 112–144, § 1152(b), added schedule I(c)(18) to (28).
+2012—Subsec. (c). Pub. L. 112–144, § 1152(b), added schedule I(c)(18) to (28).
 
-Pub. L. 112–144, § 1152(a), added schedule I(d).
+Pub. L. 112–144, § 1152(a), added schedule I(d).
 
 1990—Subsec. (c). Pub. L. 101–647 added item (e) at end of schedule III.
 
@@ -2381,9 +2381,9 @@ Pub. L. 112–144, § 1152(a), added schedule I(d).
 
 Pub. L. 99–570 amended schedule II(a)(4) generally. Prior to amendment, schedule II(a)(4) read as follows: “Coca leaves and any salt, compound, derivative, or preparation of coca leaves (including cocaine and ecgonine and their salts, isomers, derivatives, and salts of isomers and derivatives), and any salt, compound, derivative, or preparation thereof which is chemically equivalent or identical with any of these substances, except that the substances shall not include decocainized coca leaves or extraction of coca leaves, which extractions do not contain cocaine or ecgonine.”
 
-1984—Subsec. (c). Pub. L. 98–473, § 507(c), in schedule II(a)(4) added applicability to cocaine and ecgonine and their salts, isomers, etc.
+1984—Subsec. (c). Pub. L. 98–473, § 507(c), in schedule II(a)(4) added applicability to cocaine and ecgonine and their salts, isomers, etc.
 
-Subsec. (d). Pub. L. 98–473, § 509(b), struck out subsec. (d) which related to authority of Attorney General to except stimulants or depressants containing active medicinal ingredients.
+Subsec. (d). Pub. L. 98–473, § 509(b), struck out subsec. (d) which related to authority of Attorney General to except stimulants or depressants containing active medicinal ingredients.
 
 1978—Subsec. (d)(3). Pub. L. 95–633 added cl. (3).
 
@@ -2391,7 +2391,7 @@ Subsec. (d). Pub. L. 98–473, § 509(b), struck out subsec. (d) which related
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–26, § 7(a), July 16, 2025, 139 Stat. 418, provided that: “Irrespective of the date on which the rules required by section 5 [of Pub. L. 119–26, set out as a note below] are finalized, the amendments made by this Act [see Short Title of 2025 Amendment note set out under section 801 of this title] apply beginning as of the date of enactment of this Act [July 16, 2025].”
+Pub. L. 119–26, § 7(a), July 16, 2025, 139 Stat. 418, provided that: “Irrespective of the date on which the rules required by section 5 [of Pub. L. 119–26, set out as a note below] are finalized, the amendments made by this Act [see Short Title of 2025 Amendment note set out under section 801 of this title] apply beginning as of the date of enactment of this Act [July 16, 2025].”
 
 **Effective Date of 1990 Amendment**
 
@@ -2407,7 +2407,7 @@ For updated and republished schedules of controlled substances established by th
 
 **Rulemaking**
 
-Pub. L. 119–26, § 5, July 16, 2025, 139 Stat. 417, provided that:
+Pub. L. 119–26, § 5, July 16, 2025, 139 Stat. 417, provided that:
 
 > **“(a) Interim Final Rules.—** The Attorney General—
 
@@ -2425,7 +2425,7 @@ Pub. L. 119–26, § 5, July 16, 2025, 139 Stat. 417, provided that:
 
 **Reviewing the Scheduling of Approved Products Containing a Combination of Buprenorphine and Naloxone**
 
-Pub. L. 119–44, title II, § 209, Dec. 1, 2025, 139 Stat. 682, provided that:
+Pub. L. 119–44, title II, § 209, Dec. 1, 2025, 139 Stat. 682, provided that:
 
 > **“(a) Secretary of HHS.—** The Secretary of Health and Human Services shall, consistent with the requirements and procedures set forth in sections 201 and 202 of the Controlled Substances Act (21 U.S.C. 811, 812)—
 
@@ -2437,7 +2437,7 @@ Pub. L. 119–44, title II, § 209, Dec. 1, 2025, 139 Stat. 682, provided that
 
 **Congressional Finding; Emergency Scheduling of GHB in Controlled Substances Act**
 
-Pub. L. 106–172, §§ 2, 3(a), Feb. 18, 2000, 114 Stat. 7, 8, provided that:
+Pub. L. 106–172, §§ 2, 3(a), Feb. 18, 2000, 114 Stat. 7, 8, provided that:
 
 > **“SEC. 2. FINDINGS.**
 
@@ -2469,11 +2469,11 @@ Pub. L. 106–172, §§ 2, 3(a), Feb. 18, 2000, 114 Stat. 7, 8, provided that:
 
 **Placement of Pipradrol and SPA in Schedule IV To Carry Out Obligation Under Convention on Psychotropic Substances**
 
-Pub. L. 95–633, title I, § 102(c), Nov. 10, 1978, 92 Stat. 3772, provided that: “For the purpose of carrying out the minimum United States obligations under paragraph 7 of article 2 of the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, with respect to pipradrol and SPA (also known as (-)-1-dimethyl­amino-1,2-diphenylethane), the Attorney General shall by order, made without regard to sections 201 and 202 of the Controlled Substances Act [this section and section 811 of this title], place such drugs in schedule IV of such Act [see subsec. (c) of this section].”
+Pub. L. 95–633, title I, § 102(c), Nov. 10, 1978, 92 Stat. 3772, provided that: “For the purpose of carrying out the minimum United States obligations under paragraph 7 of article 2 of the Convention on Psychotropic Substances, signed at Vienna, Austria, on February 21, 1971, with respect to pipradrol and SPA (also known as (-)-1-dimethyl­amino-1,2-diphenylethane), the Attorney General shall by order, made without regard to sections 201 and 202 of the Controlled Substances Act [this section and section 811 of this title], place such drugs in schedule IV of such Act [see subsec. (c) of this section].”
 
 Provision of section 102(c) of Pub. L. 95–633, set out above, effective on the date the Convention on Psychotropic Substances enters into force in the United States [July 15, 1980], see section 112 of Pub. L. 95–633, set out as an Effective Date note under section 801a of this title.
 
-#### § 813. Treatment of controlled substance analogues
+#### § 813. Treatment of controlled substance analogues
 
 **(a) In general**
 
@@ -2497,7 +2497,7 @@ A controlled substance analogue shall, to the extent intended for human consumpt
 
 For purposes of this section, evidence that a substance was not marketed, advertised, or labeled for human consumption, by itself, shall not be sufficient to establish that the substance was not intended for human consumption.
 
-(Pub. L. 91–513, title II, § 203, as added Pub. L. 99–570, title I, § 1202, Oct. 27, 1986, 100 Stat. 3207–13; amended Pub. L. 100–690, title VI, § 6470(c), Nov. 18, 1988, 102 Stat. 4378; Pub. L. 115–271, title III, § 3241, Oct. 24, 2018, 132 Stat. 3950.)
+(Pub. L. 91–513, title II, § 203, as added Pub. L. 99–570, title I, § 1202, Oct. 27, 1986, 100 Stat. 3207–13; amended Pub. L. 100–690, title VI, § 6470(c), Nov. 18, 1988, 102 Stat. 4378; Pub. L. 115–271, title III, § 3241, Oct. 24, 2018, 132 Stat. 3950.)
 
 **Editorial Notes**
 
@@ -2511,7 +2511,7 @@ Schedule I, referred to in subsec. (a), is set out in section 812(c) of this tit
 
 1988—Pub. L. 100–690 substituted “any Federal law” for “this subchapter and subchapter II of this chapter”.
 
-#### § 814. Removal of exemption of certain drugs
+#### § 814. Removal of exemption of certain drugs
 
 **(a) Removal of exemption**
 
@@ -2559,7 +2559,7 @@ On application by a manufacturer of a particular drug product that has been remo
 
 **(B)** there is a significant change in the data that led to the issuance of the regulation.
 
-(Pub. L. 91–513, title II, § 204, as added Pub. L. 103–200, § 2(b)(1), Dec. 17, 1993, 107 Stat. 2334; amended Pub. L. 104–237, title IV, § 401(c), Oct. 3, 1996, 110 Stat. 3108; Pub. L. 109–177, title VII, § 712(a)(2), Mar. 9, 2006, 120 Stat. 263.)
+(Pub. L. 91–513, title II, § 204, as added Pub. L. 103–200, § 2(b)(1), Dec. 17, 1993, 107 Stat. 2334; amended Pub. L. 104–237, title IV, § 401(c), Oct. 3, 1996, 110 Stat. 3108; Pub. L. 109–177, title VII, § 712(a)(2), Mar. 9, 2006, 120 Stat. 263.)
 
 **Editorial Notes**
 
@@ -2581,11 +2581,11 @@ Section effective on date that is 120 days after Dec. 17, 1993, see section 11 o
 
 ### Part C—Registration of Manufacturers, Distributors, and Dispensers of Controlled Substances
 
-#### § 821. Rules and regulations
+#### § 821. Rules and regulations
 
 The Attorney General is authorized to promulgate rules and regulations and to charge reasonable fees relating to the registration and control of the manufacture, distribution, and dispensing of controlled substances and to listed chemicals.
 
-(Pub. L. 91–513, title II, § 301, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 103–200, § 3(a), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 108–447, div. B, title VI, § 633(b), Dec. 8, 2004, 118 Stat. 2922.)
+(Pub. L. 91–513, title II, § 301, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 103–200, § 3(a), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 108–447, div. B, title VI, § 633(b), Dec. 8, 2004, 118 Stat. 2922.)
 
 **Editorial Notes**
 
@@ -2605,7 +2605,7 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
-#### § 822. Persons required to register
+#### § 822. Persons required to register
 
 **(a) Period of registration**
 
@@ -2831,7 +2831,7 @@ The Attorney General may, by regulation, waive the requirement for registration 
 
 The authority under paragraph (1) to manufacture substances does not include the authority to grow marihuana.
 
-(Pub. L. 91–513, title II, § 302, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 98–473, title II, § 510, Oct. 12, 1984, 98 Stat. 2072; Pub. L. 103–200, § 3(b), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 111–273, § 3(a), Oct. 12, 2010, 124 Stat. 2859; Pub. L. 113–143, § 2, Aug. 1, 2014, 128 Stat. 1750; Pub. L. 115–271, title III, § 3222(a), Oct. 24, 2018, 132 Stat. 3948; Pub. L. 117–53, § 2, Nov. 10, 2021, 135 Stat. 411; Pub. L. 117–215, title I, § 103(b)(1)(B), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, § 1252(a), Dec. 29, 2022, 136 Stat. 5681; Pub. L. 119–26, §§ 3(b)—(f), 4(1), July 16, 2025, 139 Stat. 413–416.)
+(Pub. L. 91–513, title II, § 302, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 98–473, title II, § 510, Oct. 12, 1984, 98 Stat. 2072; Pub. L. 103–200, § 3(b), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 111–273, § 3(a), Oct. 12, 2010, 124 Stat. 2859; Pub. L. 113–143, § 2, Aug. 1, 2014, 128 Stat. 1750; Pub. L. 115–271, title III, § 3222(a), Oct. 24, 2018, 132 Stat. 3948; Pub. L. 117–53, § 2, Nov. 10, 2021, 135 Stat. 411; Pub. L. 117–215, title I, § 103(b)(1)(B), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, § 1252(a), Dec. 29, 2022, 136 Stat. 5681; Pub. L. 119–26, §§ 3(b)—(f), 4(1), July 16, 2025, 139 Stat. 413–416.)
 
 **Editorial Notes**
 
@@ -2841,21 +2841,21 @@ This subchapter, referred to in subsecs. (a)(3), (b), (c), and (g)(1), was in th
 
 **Amendments**
 
-2025—Subsec. (c)(3). Pub. L. 119–26, § 3(b)(2), substituted “section 802(27)” for “section 802(25)”.
+2025—Subsec. (c)(3). Pub. L. 119–26, § 3(b)(2), substituted “section 802(27)” for “section 802(25)”.
 
-Subsec. (c)(4). Pub. L. 119–26, § 3(b)(1), added par. (4).
+Subsec. (c)(4). Pub. L. 119–26, § 3(b)(1), added par. (4).
 
-Subsec. (e)(3). Pub. L. 119–26, § 4(1), amended Pub. L. 117–328, § 1252(a). See 2022 Amendment note below.
+Subsec. (e)(3). Pub. L. 119–26, § 4(1), amended Pub. L. 117–328, § 1252(a). See 2022 Amendment note below.
 
-Subsec. (e)(4). Pub. L. 119–26, § 3(c), added par. (4).
+Subsec. (e)(4). Pub. L. 119–26, § 3(c), added par. (4).
 
-Subsec. (f). Pub. L. 119–26, § 3(d), designated existing provisions as par. (1) and added par. (2).
+Subsec. (f). Pub. L. 119–26, § 3(d), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (h). Pub. L. 119–26, § 3(e), added subsec. (h).
+Subsec. (h). Pub. L. 119–26, § 3(e), added subsec. (h).
 
-Subsec. (i). Pub. L. 119–26, § 3(f), added subsec. (i).
+Subsec. (i). Pub. L. 119–26, § 3(f), added subsec. (i).
 
-2022—Subsec. (e)(3). Pub. L. 117–328, § 1252(a), as amended by Pub. L. 119–26, § 4(1), added par. (3).
+2022—Subsec. (e)(3). Pub. L. 117–328, § 1252(a), as amended by Pub. L. 119–26, § 4(1), added par. (3).
 
 Subsec. (g)(5)(A)(iii)(I)(bb). Pub. L. 117–215 substituted “823(g)” for “823(f)”.
 
@@ -2867,13 +2867,13 @@ Subsec. (g)(5)(A)(iii)(I)(bb). Pub. L. 117–215 substituted “823(g)” for �
 
 2010—Subsec. (g). Pub. L. 111–273 added subsec. (g).
 
-1993—Subsec. (a)(1). Pub. L. 103–200, § 3(b)(1), inserted “or list I chemical” after “controlled substance” in two places.
+1993—Subsec. (a)(1). Pub. L. 103–200, § 3(b)(1), inserted “or list I chemical” after “controlled substance” in two places.
 
-Subsec. (b). Pub. L. 103–200, § 3(b)(2), inserted “or list I chemicals” after “controlled substances” and “or chemicals” after “such substances”.
+Subsec. (b). Pub. L. 103–200, § 3(b)(2), inserted “or list I chemicals” after “controlled substances” and “or chemicals” after “such substances”.
 
-Subsec. (c). Pub. L. 103–200, § 3(b)(3), inserted “or list I chemical” after “controlled substance” wherever appearing.
+Subsec. (c). Pub. L. 103–200, § 3(b)(3), inserted “or list I chemical” after “controlled substance” wherever appearing.
 
-Subsec. (e). Pub. L. 103–200, § 3(b)(4), inserted “or list I chemicals” after “controlled substances”.
+Subsec. (e). Pub. L. 103–200, § 3(b)(4), inserted “or list I chemicals” after “controlled substances”.
 
 1984—Subsec. (a). Pub. L. 98–473 designated existing provisions as par. (1), struck out provisions relating to dispensing controlled substances, and added par. (2).
 
@@ -2881,7 +2881,7 @@ Subsec. (e). Pub. L. 103–200, § 3(b)(4), inserted “or list I chemicals”
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–26, § 4, July 16, 2025, 139 Stat. 416, provided that the amendment made by section 4(1) is effective as if included in the enactment of Pub. L. 117–328.
+Pub. L. 119–26, § 4, July 16, 2025, 139 Stat. 416, provided that the amendment made by section 4(1) is effective as if included in the enactment of Pub. L. 117–328.
 
 **Effective Date of 1993 Amendment**
 
@@ -2893,15 +2893,15 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 **Rule of Construction Relating to State and Local Law**
 
-Pub. L. 115–271, title III, § 3222(c), Oct. 24, 2018, 132 Stat. 3949, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note below] or the amendments made by this section shall be construed to prevent a State or local government from imposing additional controls or restrictions relating to the regulation of the disposal of controlled substances in hospice care or hospice programs.”
+Pub. L. 115–271, title III, § 3222(c), Oct. 24, 2018, 132 Stat. 3949, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note below] or the amendments made by this section shall be construed to prevent a State or local government from imposing additional controls or restrictions relating to the regulation of the disposal of controlled substances in hospice care or hospice programs.”
 
 **Guidance**
 
-Pub. L. 115–271, title III, § 3222(b), Oct. 24, 2018, 132 Stat. 3949, provided that: “The Attorney General may issue guidance to hospice programs (as defined in paragraph (5) of section 302(g) of the Controlled Substances Act (21 U.S.C. 822(g)), as added by subsection (a)) to assist the programs in satisfying the requirements under such paragraph (5).”
+Pub. L. 115–271, title III, § 3222(b), Oct. 24, 2018, 132 Stat. 3949, provided that: “The Attorney General may issue guidance to hospice programs (as defined in paragraph (5) of section 302(g) of the Controlled Substances Act (21 U.S.C. 822(g)), as added by subsection (a)) to assist the programs in satisfying the requirements under such paragraph (5).”
 
 **Findings**
 
-Pub. L. 111–273, § 2, Oct. 12, 2010, 124 Stat. 2858, provided that:
+Pub. L. 111–273, § 2, Oct. 12, 2010, 124 Stat. 2858, provided that:
 
 > “Congress finds the following:
 
@@ -2939,7 +2939,7 @@ Pub. L. 111–273, § 2, Oct. 12, 2010, 124 Stat. 2858, provided that:
 
 **Provisional Registration**
 
-Pub. L. 91–513, title II, § 703, Oct. 27, 1970, 84 Stat. 1283, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–513, title II, § 703, Oct. 27, 1970, 84 Stat. 1283, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a)**
 
@@ -2963,7 +2963,7 @@ Pub. L. 91–513, title II, § 703, Oct. 27, 1970, 84 Stat. 1283, as amended b
 
 > whichever occurs first.”
 
-#### § 822a. Prescription drug take back expansion
+#### § 822a. Prescription drug take back expansion
 
 **(a) Definition of covered entity** In this section, the term “covered entity” means—
 
@@ -2985,7 +2985,7 @@ Pub. L. 91–513, title II, § 703, Oct. 27, 1970, 84 Stat. 1283, as amended b
 
 The Attorney General, in coordination with the Administrator of the Drug Enforcement Administration, the Secretary of Health and Human Services, and the Director of the Office of National Drug Control Policy, shall coordinate with covered entities in expanding or making available disposal sites for unwanted prescription medications.
 
-(Pub. L. 114–198, title II, § 203, July 22, 2016, 130 Stat. 717.)
+(Pub. L. 114–198, title II, § 203, July 22, 2016, 130 Stat. 717.)
 
 **Editorial Notes**
 
@@ -2997,7 +2997,7 @@ Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2
 
 **Guidance on At-Home Drug Disposal Systems**
 
-Pub. L. 119–44, title I, § 111, Dec. 1, 2025, 139 Stat. 678, provided that:
+Pub. L. 119–44, title I, § 111, Dec. 1, 2025, 139 Stat. 678, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of enactment of this Act [Dec. 1, 2025], the Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, shall publish guidance to facilitate the use of at-home safe disposal systems for applicable drugs.
 
@@ -3075,7 +3075,7 @@ Pub. L. 115–271, title III, subtitle B, ch. 6, Oct. 24, 2018, 132 Stat. 3950, 
 
 > “There is authorized to be appropriated to the Attorney General such sums as may be necessary to carry out this chapter.”
 
-#### § 823. Registration requirements
+#### § 823. Registration requirements
 
 **(a) Manufacturers of controlled substances in schedule I or II** The Attorney General shall register an applicant to manufacture controlled substances in schedule I or II if he determines that such registration is consistent with the public interest and with United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971. In determining the public interest, the following factors shall be considered:
 
@@ -3123,9 +3123,9 @@ Pub. L. 115–271, title III, subtitle B, ch. 6, Oct. 24, 2018, 132 Stat. 3950, 
 
 **(I)** to researchers who are registered under this chapter to conduct research with controlled substances in schedule I; and
 
-**(II)** for purposes of use in preclinical research or in a clinical investigation pursuant to an investigational new drug exemption under 355(i) 1
+**(II)** for purposes of use in preclinical research or in a clinical investigation pursuant to an investigational new drug exemption under 355(i) 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “section”.
+<sup>1</sup> So in original. Probably should be preceded by “section”.
 
 of this title.
 
@@ -3629,7 +3629,7 @@ Not later than 1 year after July 16, 2025, the Inspector General of the Departme
 
 The Attorney General shall make information described in paragraph (1) public upon making a determination described in that paragraph, regardless of whether a practitioner has submitted such an application at that time.
 
-(Pub. L. 91–513, title II, § 303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, § 3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, § 109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, § 511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, § 3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, § 3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, § 2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, § 1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, § 712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, § 1102, Dec. 29, 2006, 120 Stat. 3540; Pub. L. 110–425, § 3(b), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 114–89, § 3, Nov. 25, 2015, 129 Stat. 701; Pub. L. 114–145, § 2(a)(1), Apr. 19, 2016, 130 Stat. 354; Pub. L. 114–198, title III, § 303(a)(1), (b), July 22, 2016, 130 Stat. 720, 723; Pub. L. 115–83, § 2, Nov. 17, 2017, 131 Stat. 1267; Pub. L. 115–271, title III, §§ 3201(a)–(d), 3202(a), Oct. 24, 2018, 132 Stat. 3943, 3944; Pub. L. 117–215, title I, §§ 101, 102(a), 103(a), Dec. 2, 2022, 136 Stat. 2258, 2260, 2261; Pub. L. 117–328, div. FF, title I, §§ 1262(a), 1263(a), Dec. 29, 2022, 136 Stat. 5681, 5683; Pub. L. 119–26, §§ 3(a), (g), 4(2)(A), July 16, 2025, 139 Stat. 411, 416; Pub. L. 119–44, title IV, § 402(a), Dec. 1, 2025, 139 Stat. 690.)
+(Pub. L. 91–513, title II, § 303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, § 3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, § 109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, § 511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, § 3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, § 3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, § 2501, Nov. 2, 2002, 116 Stat. 1803; Pub. L. 109–56, § 1(a), (b), Aug. 2, 2005, 119 Stat. 591; Pub. L. 109–177, title VII, § 712(a)(3), Mar. 9, 2006, 120 Stat. 263; Pub. L. 109–469, title XI, § 1102, Dec. 29, 2006, 120 Stat. 3540; Pub. L. 110–425, § 3(b), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 114–89, § 3, Nov. 25, 2015, 129 Stat. 701; Pub. L. 114–145, § 2(a)(1), Apr. 19, 2016, 130 Stat. 354; Pub. L. 114–198, title III, § 303(a)(1), (b), July 22, 2016, 130 Stat. 720, 723; Pub. L. 115–83, § 2, Nov. 17, 2017, 131 Stat. 1267; Pub. L. 115–271, title III, §§ 3201(a)–(d), 3202(a), Oct. 24, 2018, 132 Stat. 3943, 3944; Pub. L. 117–215, title I, §§ 101, 102(a), 103(a), Dec. 2, 2022, 136 Stat. 2258, 2260, 2261; Pub. L. 117–328, div. FF, title I, §§ 1262(a), 1263(a), Dec. 29, 2022, 136 Stat. 5681, 5683; Pub. L. 119–26, §§ 3(a), (g), 4(2)(A), July 16, 2025, 139 Stat. 411, 416; Pub. L. 119–44, title IV, § 402(a), Dec. 1, 2025, 139 Stat. 690.)
 
 **Editorial Notes**
 
@@ -3645,65 +3645,65 @@ This subchapter, referred to in subsecs. (g)(3) and (k)(12)(A), was in the origi
 
 **Amendments**
 
-2025—Subsec. (h). Pub. L. 119–26, § 4(2)(A), amended Pub. L. 117–328, § 1262(a). See 2022 Amendment note below.
+2025—Subsec. (h). Pub. L. 119–26, § 4(2)(A), amended Pub. L. 117–328, § 1262(a). See 2022 Amendment note below.
 
-Subsecs. (*l*), (m). Pub. L. 119–26, § 3(a)(1), and Pub. L. 119–44, § 402(a)(1), made identical amendments, redesignating subsec. (*l*) relating to required training for prescribers as (m).
+Subsecs. (*l*), (m). Pub. L. 119–26, § 3(a)(1), and Pub. L. 119–44, § 402(a)(1), made identical amendments, redesignating subsec. (*l*) relating to required training for prescribers as (m).
 
-Subsec. (m)(1)(A)(iv)(I). Pub. L. 119–44, § 402(a)(2)(A)(i)(I), inserted “the American Academy of Family Physicians, the American Podiatric Medical Association, the Academy of General Dentistry, the American Optometric Association,” before “or any other organization”, substituted “, the Commission” for “or the Commission”, and inserted “, or the Council on Podiatric Medical Education” before semicolon at end.
+Subsec. (m)(1)(A)(iv)(I). Pub. L. 119–44, § 402(a)(2)(A)(i)(I), inserted “the American Academy of Family Physicians, the American Podiatric Medical Association, the Academy of General Dentistry, the American Optometric Association,” before “or any other organization”, substituted “, the Commission” for “or the Commission”, and inserted “, or the Council on Podiatric Medical Education” before semicolon at end.
 
-Subsec. (m)(1)(A)(iv)(III). Pub. L. 119–44, § 402(a)(2)(A)(i)(II), inserted “or the American Academy of Family Physicians” after “Association”.
+Subsec. (m)(1)(A)(iv)(III). Pub. L. 119–44, § 402(a)(2)(A)(i)(II), inserted “or the American Academy of Family Physicians” after “Association”.
 
-Subsec. (m)(1)(A)(v). Pub. L. 119–44, § 402(a)(2)(A)(ii), substituted “osteopathic medicine, podiatric medicine, dental surgery” for “osteopathic medicine, dental surgery” and “or dental or podiatric medicine curriculum” for “or dental medicine curriculum” in introductory provisions.
+Subsec. (m)(1)(A)(v). Pub. L. 119–44, § 402(a)(2)(A)(ii), substituted “osteopathic medicine, podiatric medicine, dental surgery” for “osteopathic medicine, dental surgery” and “or dental or podiatric medicine curriculum” for “or dental medicine curriculum” in introductory provisions.
 
-Subsec. (m)(1)(B)(i). Pub. L. 119–44, § 402(a)(2)(B)(i), inserted “the American Pharmacists Association, the Accreditation Council on Pharmacy Education, the American Psychiatric Nurses Association, the American Academy of Nursing, the American Academy of Family Physicians,” before “or any other organization” and “, the American Academy of Family Physicians,” before “or the Accreditation Council”.
+Subsec. (m)(1)(B)(i). Pub. L. 119–44, § 402(a)(2)(B)(i), inserted “the American Pharmacists Association, the Accreditation Council on Pharmacy Education, the American Psychiatric Nurses Association, the American Academy of Nursing, the American Academy of Family Physicians,” before “or any other organization” and “, the American Academy of Family Physicians,” before “or the Accreditation Council”.
 
-Subsec. (m)(1)(B)(ii). Pub. L. 119–44, § 402(a)(2)(B)(ii), substituted “, an accredited school” for “or accredited school” and inserted “, or an accredited school of pharmacy” before “in the United States”.
+Subsec. (m)(1)(B)(ii). Pub. L. 119–44, § 402(a)(2)(B)(ii), substituted “, an accredited school” for “or accredited school” and inserted “, or an accredited school of pharmacy” before “in the United States”.
 
-Subsec. (n). Pub. L. 119–26, § 3(a)(2), added subsec. (n).
+Subsec. (n). Pub. L. 119–26, § 3(a)(2), added subsec. (n).
 
-Subsec. (*o*). Pub. L. 119–26, § 3(g), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 119–26, § 3(g), added subsec. (*o*).
 
-2022—Subsecs. (c) to (e). Pub. L. 117–215, § 103(a)(1), (2), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
+2022—Subsecs. (c) to (e). Pub. L. 117–215, § 103(a)(1), (2), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Pub. L. 117–215, § 101, designated introductory provisions through first sentence of concluding provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), designated second to fourth sentences of concluding provisions as subpar. (A) of par. (2), added subpar. (B) of par. (2), and designated last sentence of concluding provisions as par. (3).
+Pub. L. 117–215, § 101, designated introductory provisions through first sentence of concluding provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), designated second to fourth sentences of concluding provisions as subpar. (A) of par. (2), added subpar. (B) of par. (2), and designated last sentence of concluding provisions as par. (3).
 
-Subsec. (f)(2)(B)(vi). Pub. L. 117–215, § 102(a), added cl. (vi).
+Subsec. (f)(2)(B)(vi). Pub. L. 117–215, § 102(a), added cl. (vi).
 
-Subsec. (g). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 117–328, § 1262(a), as amended by Pub. L. 119–26, § 4(2)(A), substituted “Practitioners who dispense narcotic drugs (other than narcotic drugs in schedule III, IV, or V) to individuals for maintenance treatment or detoxification treatment” for “(1) Except as provided in paragraph (2), practitioners who dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment”, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, redesignated cls. (i) and (ii) of par. (2) as subpars. (A) and (B), respectively, and struck out former par. (2) which related to waiver of registration requirements.
+Subsec. (h). Pub. L. 117–328, § 1262(a), as amended by Pub. L. 119–26, § 4(2)(A), substituted “Practitioners who dispense narcotic drugs (other than narcotic drugs in schedule III, IV, or V) to individuals for maintenance treatment or detoxification treatment” for “(1) Except as provided in paragraph (2), practitioners who dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment”, redesignated subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, redesignated cls. (i) and (ii) of par. (2) as subpars. (A) and (B), respectively, and struck out former par. (2) which related to waiver of registration requirements.
 
-Pub. L. 117–215, § 103(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Pub. L. 117–215, § 103(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(2). Pub. L. 117–215, § 103(a)(3), substituted “subsection (g)” for “subsection (f)” wherever appearing.
+Subsec. (h)(2). Pub. L. 117–215, § 103(a)(3), substituted “subsection (g)” for “subsection (f)” wherever appearing.
 
-Subsec. (i). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-Subsec. (j)(1). Pub. L. 117–215, § 103(a)(4), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (j)(1). Pub. L. 117–215, § 103(a)(4), substituted “subsection (e)” for “subsection (d)”.
 
-Subsec. (k). Pub. L. 117–215, § 103(a)(1), (5), redesignated subsec. (j) as (k) and substituted “subsection (g)” for “subsection (f)” wherever appearing. Former subsec. (k) redesignated (*l*).
+Subsec. (k). Pub. L. 117–215, § 103(a)(1), (5), redesignated subsec. (j) as (k) and substituted “subsection (g)” for “subsection (f)” wherever appearing. Former subsec. (k) redesignated (*l*).
 
-Subsec. (*l*). Pub. L. 117–328, § 1263(a), added subsec. (*l*) relating to required training for prescribers.
+Subsec. (*l*). Pub. L. 117–328, § 1263(a), added subsec. (*l*) relating to required training for prescribers.
 
-Pub. L. 117–215, § 103(a)(1), redesignated subsec. (k) as (*l*).
+Pub. L. 117–215, § 103(a)(1), redesignated subsec. (k) as (*l*).
 
-2018—Subsec. (g)(2)(B)(iii)(II). Pub. L. 115–271, § 3201(a), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients.”
+2018—Subsec. (g)(2)(B)(iii)(II). Pub. L. 115–271, § 3201(a), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients.”
 
-Subsec. (g)(2)(G)(ii)(VIII). Pub. L. 115–271, § 3202(a), added subcl. (VIII).
+Subsec. (g)(2)(G)(ii)(VIII). Pub. L. 115–271, § 3202(a), added subcl. (VIII).
 
-Subsec. (g)(2)(G)(iii)(II). Pub. L. 115–271, § 3201(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “during the period beginning on July 22, 2016, and ending on October 1, 2021, a qualifying other practitioner, as defined in clause (iv).”
+Subsec. (g)(2)(G)(iii)(II). Pub. L. 115–271, § 3201(b), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “during the period beginning on July 22, 2016, and ending on October 1, 2021, a qualifying other practitioner, as defined in clause (iv).”
 
-Subsec. (g)(2)(G)(iii)(III). Pub. L. 115–271, § 3201(b)(1), (c), added subcl. (III).
+Subsec. (g)(2)(G)(iii)(III). Pub. L. 115–271, § 3201(b)(1), (c), added subcl. (III).
 
-Subsec. (g)(2)(G)(iv). Pub. L. 115–271, § 3201(d), substituted “nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant” for “nurse practitioner or physician assistant” wherever appearing.
+Subsec. (g)(2)(G)(iv). Pub. L. 115–271, § 3201(d), substituted “nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant” for “nurse practitioner or physician assistant” wherever appearing.
 
 2017—Subsecs. (j), (k). Pub. L. 115–83 added subsec. (j) and redesignated former subsec. (j) as (k).
 
-2016—Subsec. (g)(2)(B). Pub. L. 114–198, § 303(a)(1)(A), added cls. (i) to (iii) and struck out former cls. (i) to (iii) which read as follows:
+2016—Subsec. (g)(2)(B). Pub. L. 114–198, § 303(a)(1)(A), added cls. (i) to (iii) and struck out former cls. (i) to (iii) which read as follows:
 
 “(i) The practitioner is a qualifying physician (as defined in subparagraph (G)).
 
@@ -3711,25 +3711,25 @@ Subsec. (g)(2)(G)(iv). Pub. L. 115–271, § 3201(d), substituted “nurse pra
 
 “(iii) The total number of such patients of the practitioner at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, unless, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients. A second notification under this clause shall contain the certifications required by clauses (i) and (ii) of this subparagraph. The Secretary may by regulation change such total number.”
 
-Subsec. (g)(2)(D)(ii). Pub. L. 114–198, § 303(a)(1)(B)(i), substituted “Upon receiving a determination from the Secretary under clause (iii) finding that a practitioner meets all requirements for a waiver under subparagraph (B)” for “Upon receiving a notification under subparagraph (B)”.
+Subsec. (g)(2)(D)(ii). Pub. L. 114–198, § 303(a)(1)(B)(i), substituted “Upon receiving a determination from the Secretary under clause (iii) finding that a practitioner meets all requirements for a waiver under subparagraph (B)” for “Upon receiving a notification under subparagraph (B)”.
 
-Subsec. (g)(2)(D)(iii). Pub. L. 114–198, § 303(a)(1)(B)(ii), inserted “and shall forward such determination to the Attorney General” after “a waiver under subparagraph (B)” and substituted “assign the practitioner” for “assign the physician”.
+Subsec. (g)(2)(D)(iii). Pub. L. 114–198, § 303(a)(1)(B)(ii), inserted “and shall forward such determination to the Attorney General” after “a waiver under subparagraph (B)” and substituted “assign the practitioner” for “assign the physician”.
 
-Subsec. (g)(2)(G)(ii)(I). Pub. L. 114–198, § 303(a)(1)(C)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “The physician holds a subspecialty board certification in addiction psychiatry from the American Board of Medical Specialties.”
+Subsec. (g)(2)(G)(ii)(I). Pub. L. 114–198, § 303(a)(1)(C)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “The physician holds a subspecialty board certification in addiction psychiatry from the American Board of Medical Specialties.”
 
-Subsec. (g)(2)(G)(ii)(II). Pub. L. 114–198, § 303(a)(1)(C)(ii), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “The physician holds an addiction certification from the American Society of Addiction Medicine.”
+Subsec. (g)(2)(G)(ii)(II). Pub. L. 114–198, § 303(a)(1)(C)(ii), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “The physician holds an addiction certification from the American Society of Addiction Medicine.”
 
-Subsec. (g)(2)(G)(ii)(III). Pub. L. 114–198, § 303(a)(1)(C)(iii), struck out “subspecialty” before “board certification”.
+Subsec. (g)(2)(G)(ii)(III). Pub. L. 114–198, § 303(a)(1)(C)(iii), struck out “subspecialty” before “board certification”.
 
-Subsec. (g)(2)(G)(ii)(IV). Pub. L. 114–198, § 303(a)(1)(C)(iv), amended subcl. (IV) generally. Prior to amendment, subcl. (IV) read as follows: “The physician has, with respect to the treatment and management of opiate-dependent patients, completed not less than eight hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Psychiatric Association, or any other organization that the Secretary determines is appropriate for purposes of this subclause.”
+Subsec. (g)(2)(G)(ii)(IV). Pub. L. 114–198, § 303(a)(1)(C)(iv), amended subcl. (IV) generally. Prior to amendment, subcl. (IV) read as follows: “The physician has, with respect to the treatment and management of opiate-dependent patients, completed not less than eight hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Psychiatric Association, or any other organization that the Secretary determines is appropriate for purposes of this subclause.”
 
-Subsec. (g)(2)(G)(iii), (iv). Pub. L. 114–198, § 303(a)(1)(C)(v), added cls. (iii) and (iv).
+Subsec. (g)(2)(G)(iii), (iv). Pub. L. 114–198, § 303(a)(1)(C)(v), added cls. (iii) and (iv).
 
-Subsec. (g)(2)(H)(i)(III). Pub. L. 114–198, § 303(a)(1)(D)(i), added subcl. (III).
+Subsec. (g)(2)(H)(i)(III). Pub. L. 114–198, § 303(a)(1)(D)(i), added subcl. (III).
 
-Subsec. (g)(2)(H)(ii). Pub. L. 114–198, § 303(a)(1)(D)(ii), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Not later than 120 days after October 17, 2000, the Secretary shall issue a treatment improvement protocol containing best practice guidelines for the treatment and maintenance of opiate-dependent patients. The Secretary shall develop the protocol in consultation with the Director of the National Institute on Drug Abuse, the Administrator of the Drug Enforcement Administration, the Commissioner of Food and Drugs, the Administrator of the Substance Abuse and Mental Health Services Administration and other substance abuse disorder professionals. The protocol shall be guided by science.”
+Subsec. (g)(2)(H)(ii). Pub. L. 114–198, § 303(a)(1)(D)(ii), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “Not later than 120 days after October 17, 2000, the Secretary shall issue a treatment improvement protocol containing best practice guidelines for the treatment and maintenance of opiate-dependent patients. The Secretary shall develop the protocol in consultation with the Director of the National Institute on Drug Abuse, the Administrator of the Drug Enforcement Administration, the Commissioner of Food and Drugs, the Administrator of the Substance Abuse and Mental Health Services Administration and other substance abuse disorder professionals. The protocol shall be guided by science.”
 
-Subsec. (g)(2)(I), (J). Pub. L. 114–198, § 303(b), added subpar. (I) and struck out former subpars. (I) and (J) which limited a State’s ability to preclude a practitioner from dispensing or prescribing certain approved drugs and provided the effective date of the paragraph and authorized the Secretary and the Attorney General to make certain determinations.
+Subsec. (g)(2)(I), (J). Pub. L. 114–198, § 303(b), added subpar. (I) and struck out former subpars. (I) and (J) which limited a State’s ability to preclude a practitioner from dispensing or prescribing certain approved drugs and provided the effective date of the paragraph and authorized the Secretary and the Attorney General to make certain determinations.
 
 Subsec. (j). Pub. L. 114–145 added subsec. (j).
 
@@ -3737,23 +3737,23 @@ Subsec. (j). Pub. L. 114–145 added subsec. (j).
 
 2008—Subsec. (f). Pub. L. 110–425, in introductory provisions, inserted “and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet” after “schedule II, III, IV, or V” and substituted “or such modification of registration if the Attorney General determines that the issuance of such registration or modification” for “if he determines that the issuance of such registration”.
 
-2006—Subsec. (g)(2)(B)(iii). Pub. L. 109–469, § 1102(1), substituted “unless, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients. A second notification under this clause shall contain the certifications required by clauses (i) and (ii) of this subparagraph. The” for “except that the”.
+2006—Subsec. (g)(2)(B)(iii). Pub. L. 109–469, § 1102(1), substituted “unless, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients. A second notification under this clause shall contain the certifications required by clauses (i) and (ii) of this subparagraph. The” for “except that the”.
 
-Subsec. (g)(2)(J)(i). Pub. L. 109–469, § 1102(2)(A), substituted “thereafter.” for “thereafter except as provided in clause (iii) (relating to a decision by the Secretary or the Attorney General that this paragraph should not remain in effect).”
+Subsec. (g)(2)(J)(i). Pub. L. 109–469, § 1102(2)(A), substituted “thereafter.” for “thereafter except as provided in clause (iii) (relating to a decision by the Secretary or the Attorney General that this paragraph should not remain in effect).”
 
-Subsec. (g)(2)(J)(ii). Pub. L. 109–469, § 1102(2)(B), substituted “December 29, 2006” for “October 17, 2000” in introductory provisions.
+Subsec. (g)(2)(J)(ii). Pub. L. 109–469, § 1102(2)(B), substituted “December 29, 2006” for “October 17, 2000” in introductory provisions.
 
-Subsec. (g)(2)(J)(iii). Pub. L. 109–469, § 1102(2)(C), substituted “subparagraph (B)(iii) should be applied by limiting the total number of patients a practitioner may treat to 30, then the provisions in such subparagraph (B)(iii) permitting more than 30 patients shall not apply, effective” for “this paragraph should not remain in effect, this paragraph ceases to be in effect”.
+Subsec. (g)(2)(J)(iii). Pub. L. 109–469, § 1102(2)(C), substituted “subparagraph (B)(iii) should be applied by limiting the total number of patients a practitioner may treat to 30, then the provisions in such subparagraph (B)(iii) permitting more than 30 patients shall not apply, effective” for “this paragraph should not remain in effect, this paragraph ceases to be in effect”.
 
 Subsec. (h). Pub. L. 109–177 substituted “clause (iv) or (v) of section 802(39)(A) of this title” for “section 802(39)(A)(iv) of this title” in introductory provisions.
 
-2005—Subsec. (g)(2)(B)(iii). Pub. L. 109–56, § 1(b), substituted “The total” for “In any case in which the practitioner is not in a group practice, the total”.
+2005—Subsec. (g)(2)(B)(iii). Pub. L. 109–56, § 1(b), substituted “The total” for “In any case in which the practitioner is not in a group practice, the total”.
 
-Subsec. (g)(2)(B)(iv). Pub. L. 109–56, § 1(a), struck out cl. (iv) which read as follows: “In any case in which the practitioner is in a group practice, the total number of such patients of the group practice at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number, and the Secretary for such purposes may by regulation establish different categories on the basis of the number of practitioners in a group practice and establish for the various categories different numerical limitations on the number of such patients that the group practice may have.”
+Subsec. (g)(2)(B)(iv). Pub. L. 109–56, § 1(a), struck out cl. (iv) which read as follows: “In any case in which the practitioner is in a group practice, the total number of such patients of the group practice at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number, and the Secretary for such purposes may by regulation establish different categories on the basis of the number of practitioners in a group practice and establish for the various categories different numerical limitations on the number of such patients that the group practice may have.”
 
-2002—Subsec. (g)(2)(I). Pub. L. 107–273, § 2501(1), which directed the substitution of “on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, or combination of such drugs,” for “on October 17, 2000, a State may not preclude a practitioner from dispensing or prescribing drugs in schedule III, IV, or V, or combinations of such drugs,”, was executed by making the substitution for the phrase which in the original began with “on the date of the enactment of the Drug Addiction Treatment Act of 2000,” rather than the editorial translation “on October 17, 2000,” to reflect the probable intent of Congress.
+2002—Subsec. (g)(2)(I). Pub. L. 107–273, § 2501(1), which directed the substitution of “on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, or combination of such drugs,” for “on October 17, 2000, a State may not preclude a practitioner from dispensing or prescribing drugs in schedule III, IV, or V, or combinations of such drugs,”, was executed by making the substitution for the phrase which in the original began with “on the date of the enactment of the Drug Addiction Treatment Act of 2000,” rather than the editorial translation “on October 17, 2000,” to reflect the probable intent of Congress.
 
-Subsec. (g)(2)(J)(i). Pub. L. 107–273, § 2501(2), which directed the substitution of “the date referred to in subparagraph (I),” for “October 17, 2000,” was executed by making the substitution for text which in the original read “the date of the enactment of the Drug Addiction Treatment Act of 2000,” rather than the editorial translation “October 17, 2000,” to reflect the probable intent of Congress.
+Subsec. (g)(2)(J)(i). Pub. L. 107–273, § 2501(2), which directed the substitution of “the date referred to in subparagraph (I),” for “October 17, 2000,” was executed by making the substitution for text which in the original read “the date of the enactment of the Drug Addiction Treatment Act of 2000,” rather than the editorial translation “October 17, 2000,” to reflect the probable intent of Congress.
 
 2000—Subsec. (g). Pub. L. 106–310 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), practitioners who dispense” for “Practitioners who dispense”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and redesignated former subpars. (A) and (B) of former par. (2) as cls. (i) and (ii), respectively, of subpar. (B) of par. (1), and added par. (2).
 
@@ -3769,9 +3769,9 @@ Subsec. (g)(2)(J)(i). Pub. L. 107–273, § 2501(2), which directed the substi
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–44, title IV, § 402(b), Dec. 1, 2025, 139 Stat. 691, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if enacted on December 29, 2022.”
+Pub. L. 119–44, title IV, § 402(b), Dec. 1, 2025, 139 Stat. 691, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if enacted on December 29, 2022.”
 
-Pub. L. 119–26, § 4, July 16, 2025, 139 Stat. 416, provided that the amendment made by section 4(2)(A) is effective as if included in the enactment of Pub. L. 117–328.
+Pub. L. 119–26, § 4, July 16, 2025, 139 Stat. 416, provided that the amendment made by section 4(2)(A) is effective as if included in the enactment of Pub. L. 117–328.
 
 **Effective Date of 2008 Amendment**
 
@@ -3779,7 +3779,7 @@ Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–56, § 1(c), Aug. 2, 2005, 119 Stat. 591, provided that: “This section [amending this section] shall take effect on the date of enactment of this Act [Aug. 2, 2005].”
+Pub. L. 109–56, § 1(c), Aug. 2, 2005, 119 Stat. 591, provided that: “This section [amending this section] shall take effect on the date of enactment of this Act [Aug. 2, 2005].”
 
 **Effective Date of 1993 Amendment**
 
@@ -3795,17 +3795,17 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 **Regulations**
 
-Pub. L. 117–215, title I, § 102(b), Dec. 2, 2022, 136 Stat. 2261, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 2, 2022], the Attorney General shall promulgate regulations to carry out the amendment made by this section [amending this section].”
+Pub. L. 117–215, title I, § 102(b), Dec. 2, 2022, 136 Stat. 2261, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 2, 2022], the Attorney General shall promulgate regulations to carry out the amendment made by this section [amending this section].”
 
 **Update Regulations**
 
-Pub. L. 117–328, div. FF, title I, § 1252(b), Dec. 29, 2022, 136 Stat. 5681, provided that: “Not later than 18 months after the date of enactment of this Act [Dec. 29, 2022], the Secretary of Health and Human Services shall revise section 8.12(e)(1) of title 42, Code of Federal Regulations (or successor regulations), to eliminate the requirement that an opioid treatment program only admit an individual for treatment under the program if the individual has been addicted to opioids for at least 1 year before being so admitted for treatment.”
+Pub. L. 117–328, div. FF, title I, § 1252(b), Dec. 29, 2022, 136 Stat. 5681, provided that: “Not later than 18 months after the date of enactment of this Act [Dec. 29, 2022], the Secretary of Health and Human Services shall revise section 8.12(e)(1) of title 42, Code of Federal Regulations (or successor regulations), to eliminate the requirement that an opioid treatment program only admit an individual for treatment under the program if the individual has been addicted to opioids for at least 1 year before being so admitted for treatment.”
 
-Pub. L. 114–198, title III, § 303(c), July 22, 2016, 130 Stat. 723, provided that: “Not later than 18 months after the date of enactment of this Act [July 22, 2016], the Attorney General and the Secretary of Health and Human Services, as appropriate, shall update regulations regarding practitioners described in subsection (a)(3)(B)(vii) (as amended by this section) [probably means subsec. (a)(3)(B)(vii) “of this section”, set out as a note below] to include nurse practitioners and physician assistants to ensure the quality of patient care and prevent diversion.”
+Pub. L. 114–198, title III, § 303(c), July 22, 2016, 130 Stat. 723, provided that: “Not later than 18 months after the date of enactment of this Act [July 22, 2016], the Attorney General and the Secretary of Health and Human Services, as appropriate, shall update regulations regarding practitioners described in subsection (a)(3)(B)(vii) (as amended by this section) [probably means subsec. (a)(3)(B)(vii) “of this section”, set out as a note below] to include nurse practitioners and physician assistants to ensure the quality of patient care and prevent diversion.”
 
 **Adequate and Uninterrupted Supply**
 
-Pub. L. 117–215, title I, § 104, Dec. 2, 2022, 136 Stat. 2263, provided that:
+Pub. L. 117–215, title I, § 104, Dec. 2, 2022, 136 Stat. 2263, provided that:
 
 > **“(a) In General.—** On an annual basis, the Attorney General, in consultation with the Secretary of Health and Human Services, shall assess whether there is an adequate and uninterrupted supply of marijuana, including of specific strains, for research purposes.
 
@@ -3821,7 +3821,7 @@ Pub. L. 117–215, title I, § 104, Dec. 2, 2022, 136 Stat. 2263, provided tha
 
 **Security Requirements**
 
-Pub. L. 117–215, title I, § 105, Dec. 2, 2022, 136 Stat. 2264, provided that:
+Pub. L. 117–215, title I, § 105, Dec. 2, 2022, 136 Stat. 2264, provided that:
 
 > **“(a) In General.—** An individual or entity engaged in researching marijuana or its components shall store it in a securely locked, substantially constructed cabinet.
 
@@ -3845,17 +3845,17 @@ Pub. L. 117–215, title II, Dec. 2, 2022, 136 Stat. 2264, provided that:
 
 **Treatment for Children**
 
-Pub. L. 115–271, title III, § 3202(b), Oct. 24, 2018, 132 Stat. 3945, provided that: “The Secretary of Health and Human Services shall consider ways to ensure that an adequate number of qualified practitioners, as defined in [former] subparagraph (G)(ii) of section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)) [former 21 U.S.C. 823(h)(2)], who have a specialty in pediatrics or the treatment of children or adolescents, are granted a waiver under such section 303(g)(2) to treat children and adolescents with substance use disorders.”
+Pub. L. 115–271, title III, § 3202(b), Oct. 24, 2018, 132 Stat. 3945, provided that: “The Secretary of Health and Human Services shall consider ways to ensure that an adequate number of qualified practitioners, as defined in [former] subparagraph (G)(ii) of section 303(g)(2) of the Controlled Substances Act (21 U.S.C. 823(g)(2)) [former 21 U.S.C. 823(h)(2)], who have a specialty in pediatrics or the treatment of children or adolescents, are granted a waiver under such section 303(g)(2) to treat children and adolescents with substance use disorders.”
 
 **Grants To Enhance Access to Substance Use Disorder Treatment**
 
-Pub. L. 115–271, title III, § 3203, Oct. 24, 2018, 132 Stat. 3945, as amended by Pub. L. 119–44, title II, § 207, Dec. 1, 2025, 139 Stat. 68, provided that:
+Pub. L. 115–271, title III, § 3203, Oct. 24, 2018, 132 Stat. 3945, as amended by Pub. L. 119–44, title II, § 207, Dec. 1, 2025, 139 Stat. 68, provided that:
 
 > “The Secretary of Health and Human Services shall establish a grant program under which the Secretary may make grants to accredited schools of allopathic medicine or osteopathic medicine and teaching hospitals located in the United States to support the development of curricula that meet the requirements under [former] subclause (VIII) of section 303(g)(2)(G)(ii) of the Controlled Substances Act [former 21 U.S.C. 823(h)(2)(G)(ii)], as added by section 3202(a) of this Act.”
 
 **Reports to Congress**
 
-Pub. L. 114–198, title III, § 303(a)(3), July 22, 2016, 130 Stat. 722, provided that:
+Pub. L. 114–198, title III, § 303(a)(3), July 22, 2016, 130 Stat. 722, provided that:
 
 > **“(A) In general.—** Not later than 3 years after the date of enactment of this Act [July 22, 2016] and not later than 3 years thereafter, the Secretary of Health and Human Services, in consultation with the Drug Enforcement Administration and experts in opioid use disorder research and treatment, shall—
 
@@ -3887,7 +3887,7 @@ Pub. L. 114–198, title III, § 303(a)(3), July 22, 2016, 130 Stat. 722, prov
 
 For provisional registration of persons engaged in manufacturing, distributing, or dispensing of controlled substances on the day before the effective date of section 822 of this title who are registered on such date under section 360 of this title or section 4722 of Title 26, Internal Revenue Code, see section 703 of Pub. L. 91–513, set out as a note under section 822 of this title.
 
-#### § 824. Denial, revocation, or suspension of registration
+#### § 824. Denial, revocation, or suspension of registration
 
 **(a) Grounds** A registration pursuant to section 823 of this title to manufacture, distribute, or dispense a controlled substance or a list I chemical may be suspended or revoked by the Attorney General upon a finding that the registrant—
 
@@ -3949,7 +3949,7 @@ The Attorney General may, in his discretion, seize or place under seal any contr
 
 **(2)** such person has a history of prior suspensions or revocations of registration.
 
-(Pub. L. 91–513, title II, § 304, Oct. 27, 1970, 84 Stat. 1255; Pub. L. 93–281, § 4, May 14, 1974, 88 Stat. 125; Pub. L. 98–473, title II, §§ 304, 512, 513, Oct. 12, 1984, 98 Stat. 2050, 2073; Pub. L. 100–93, § 8(j), Aug. 18, 1987, 101 Stat. 695; Pub. L. 103–200, § 3(d), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title XXXIII, § 330024(e), Sept. 13, 1994, 108 Stat. 2151; Pub. L. 106–310, div. B, title XXXV, § 3502(b), Oct. 17, 2000, 114 Stat. 1227; Pub. L. 114–145, § 2(a)(2), (b), Apr. 19, 2016, 130 Stat. 354; Pub. L. 117–36, § 2, Aug. 6, 2021, 135 Stat. 328; Pub. L. 117–215, title I, § 103(b)(1)(C), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, § 1262(b)(1), Dec. 29, 2022, 136 Stat. 5682; Pub. L. 119–26, § 4(2)(B)(i), (ii), July 16, 2025, 139 Stat. 416.)
+(Pub. L. 91–513, title II, § 304, Oct. 27, 1970, 84 Stat. 1255; Pub. L. 93–281, § 4, May 14, 1974, 88 Stat. 125; Pub. L. 98–473, title II, §§ 304, 512, 513, Oct. 12, 1984, 98 Stat. 2050, 2073; Pub. L. 100–93, § 8(j), Aug. 18, 1987, 101 Stat. 695; Pub. L. 103–200, § 3(d), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title XXXIII, § 330024(e), Sept. 13, 1994, 108 Stat. 2151; Pub. L. 106–310, div. B, title XXXV, § 3502(b), Oct. 17, 2000, 114 Stat. 1227; Pub. L. 114–145, § 2(a)(2), (b), Apr. 19, 2016, 130 Stat. 354; Pub. L. 117–36, § 2, Aug. 6, 2021, 135 Stat. 328; Pub. L. 117–215, title I, § 103(b)(1)(C), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, § 1262(b)(1), Dec. 29, 2022, 136 Stat. 5682; Pub. L. 119–26, § 4(2)(B)(i), (ii), July 16, 2025, 139 Stat. 416.)
 
 **Editorial Notes**
 
@@ -3961,55 +3961,55 @@ Subchapter II, referred to in subsecs. (a)(1), (2) and (d)(2), was in the origin
 
 **Amendments**
 
-2025—Subsecs. (a), (d)(1). Pub. L. 119–26, § 4(2)(B)(i), (ii), amended Pub. L. 117–328, § 1262(b)(1). See 2022 Amendment notes below.
+2025—Subsecs. (a), (d)(1). Pub. L. 119–26, § 4(2)(B)(i), (ii), amended Pub. L. 117–328, § 1262(b)(1). See 2022 Amendment notes below.
 
-2022—Subsec. (a). Pub. L. 117–328, § 1262(b)(1), as amended by Pub. L. 119–26, § 4(2)(B)(i), (ii), in concluding provisions, substituted “823(h)” for “823(h)(1)” in two places.
+2022—Subsec. (a). Pub. L. 117–328, § 1262(b)(1), as amended by Pub. L. 119–26, § 4(2)(B)(i), (ii), in concluding provisions, substituted “823(h)” for “823(h)(1)” in two places.
 
 Pub. L. 117–215, in concluding provisions, substituted “823(h)(1)” for “823(g)(1)” in two places.
 
-Subsec. (d)(1). Pub. L. 117–328, § 1262(b)(1), as amended by Pub. L. 119–26, § 4(2)(B)(i), (ii), substituted “823(h)” for “823(h)(1)”.
+Subsec. (d)(1). Pub. L. 117–328, § 1262(b)(1), as amended by Pub. L. 119–26, § 4(2)(B)(i), (ii), substituted “823(h)” for “823(h)(1)”.
 
 Pub. L. 117–215 substituted “823(h)(1)” for “823(g)(1)”.
 
 2021—Subsec. (h). Pub. L. 117–36 added subsec. (h).
 
-2016—Subsec. (c). Pub. L. 114–145, § 2(b), struck out “The order to show cause shall contain a statement of the basis thereof and shall call upon the applicant or registrant to appear before the Attorney General at a time and place stated in the order, but in no event less than thirty days after the date of receipt of the order. Proceedings to deny, revoke, or suspend shall be conducted pursuant to this section in accordance with subchapter II of chapter 5 of title 5. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this subchapter or any other law of the United States.” after “denied, revoked, or suspended.”, designated existing provisions as par. (1), and added pars. (2) to (5).
+2016—Subsec. (c). Pub. L. 114–145, § 2(b), struck out “The order to show cause shall contain a statement of the basis thereof and shall call upon the applicant or registrant to appear before the Attorney General at a time and place stated in the order, but in no event less than thirty days after the date of receipt of the order. Proceedings to deny, revoke, or suspend shall be conducted pursuant to this section in accordance with subchapter II of chapter 5 of title 5. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this subchapter or any other law of the United States.” after “denied, revoked, or suspended.”, designated existing provisions as par. (1), and added pars. (2) to (5).
 
-Subsec. (d). Pub. L. 114–145, § 2(a)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 114–145, § 2(a)(2), designated existing provisions as par. (1) and added par. (2).
 
-2000—Subsec. (a). Pub. L. 106–310, § 3502(b)(1), substituted “section 823(g)(1) of this title” for “section 823(g) of this title” in two places in concluding provisions.
+2000—Subsec. (a). Pub. L. 106–310, § 3502(b)(1), substituted “section 823(g)(1) of this title” for “section 823(g) of this title” in two places in concluding provisions.
 
-Subsec. (d). Pub. L. 106–310, § 3502(b)(2), substituted “section 823(g)(1) of this title” for “section 823(g) of this title”.
+Subsec. (d). Pub. L. 106–310, § 3502(b)(2), substituted “section 823(g)(1) of this title” for “section 823(g) of this title”.
 
 1994—Subsec. (g). Pub. L. 103–322 inserted “or chemical” after “such substance” in last sentence.
 
-1993—Subsec. (a). Pub. L. 103–200, § 3(d)(1), inserted “or a list I chemical” after “controlled substance” in introductory provisions and par. (2) and inserted “or list I chemicals” after “controlled substances” in par. (3).
+1993—Subsec. (a). Pub. L. 103–200, § 3(d)(1), inserted “or a list I chemical” after “controlled substance” in introductory provisions and par. (2) and inserted “or list I chemicals” after “controlled substances” in par. (3).
 
-Subsec. (b). Pub. L. 103–200, § 3(d)(2), inserted “or list I chemical” after “controlled substance”.
+Subsec. (b). Pub. L. 103–200, § 3(d)(2), inserted “or list I chemical” after “controlled substance”.
 
-Subsec. (f). Pub. L. 103–200, § 3(d)(3), inserted “or list I chemicals” after “controlled substances” wherever appearing.
+Subsec. (f). Pub. L. 103–200, § 3(d)(3), inserted “or list I chemicals” after “controlled substances” wherever appearing.
 
-Subsec. (g). Pub. L. 103–200, § 3(d)(4), inserted “or list I chemicals” after “controlled substances” in two places and “or list I chemical” after “controlled substance” wherever appearing.
+Subsec. (g). Pub. L. 103–200, § 3(d)(4), inserted “or list I chemicals” after “controlled substances” in two places and “or list I chemical” after “controlled substance” wherever appearing.
 
 1987—Subsec. (a)(5). Pub. L. 100–93 added par. (5).
 
-1984—Subsec. (a)(3). Pub. L. 98–473, § 512(1), inserted provisions relating to suspension, etc., recommended by competent State authority.
+1984—Subsec. (a)(3). Pub. L. 98–473, § 512(1), inserted provisions relating to suspension, etc., recommended by competent State authority.
 
-Subsec. (a)(4). Pub. L. 98–473, § 512(2), added par. (4).
+Subsec. (a)(4). Pub. L. 98–473, § 512(2), added par. (4).
 
-Subsec. (f). Pub. L. 98–473, § 304, inserted provisions relating to vesting of right, title, and interest in the United States.
+Subsec. (f). Pub. L. 98–473, § 304, inserted provisions relating to vesting of right, title, and interest in the United States.
 
-Subsec. (g). Pub. L. 98–473, § 513, added subsec. (g).
+Subsec. (g). Pub. L. 98–473, § 513, added subsec. (g).
 
-1974—Subsec. (a). Pub. L. 93–281, § 4(a), provided for revocation or suspension of a registration pursuant to section 823(g) of this title for failure of a registrant to comply with standards referred to in such section 823(g).
+1974—Subsec. (a). Pub. L. 93–281, § 4(a), provided for revocation or suspension of a registration pursuant to section 823(g) of this title for failure of a registrant to comply with standards referred to in such section 823(g).
 
-Subsec. (d). Pub. L. 93–281, § 4(b), substituted “A suspension under this subsection” for “Such suspension” in third sentence.
+Subsec. (d). Pub. L. 93–281, § 4(b), substituted “A suspension under this subsection” for “Such suspension” in third sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–26, § 4, July 16, 2025, 139 Stat. 416, provided that the amendment made by section 4(2)(B)(i), (ii) is effective as if included in the enactment of Pub. L. 117–328.
+Pub. L. 119–26, § 4, July 16, 2025, 139 Stat. 416, provided that the amendment made by section 4(2)(B)(i), (ii) is effective as if included in the enactment of Pub. L. 117–328.
 
 **Effective Date of 1994 Amendment**
 
@@ -4031,7 +4031,7 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 Applicability of this section to provisional registrations, see section 703 of Pub. L. 91–513, set out as a note under section 822 of this title.
 
-#### § 825. Labeling and packaging
+#### § 825. Labeling and packaging
 
 **(a) Symbol**
 
@@ -4067,7 +4067,7 @@ It shall be unlawful to distribute controlled substances in schedule I or II, an
 
 **(II)** such product is being used exclusively for purposes of a clinical trial that is the subject of an effective investigational new drug application.
 
-(Pub. L. 91–513, title II, § 305, Oct. 27, 1970, 84 Stat. 1256; Pub. L. 113–260, § 3(a), Dec. 18, 2014, 128 Stat. 2931.)
+(Pub. L. 91–513, title II, § 305, Oct. 27, 1970, 84 Stat. 1256; Pub. L. 113–260, § 3(a), Dec. 18, 2014, 128 Stat. 2931.)
 
 **Editorial Notes**
 
@@ -4075,7 +4075,7 @@ It shall be unlawful to distribute controlled substances in schedule I or II, an
 
 Schedules I, II, III, and IV, referred to in subsecs. (c) and (d), are set out in section 812(c) of this title.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(2)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(2)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 **Amendments**
 
@@ -4089,13 +4089,13 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 **Identification and Publication of List of Products Containing Anabolic Steroids**
 
-Pub. L. 113–260, § 4, Dec. 18, 2014, 128 Stat. 2932, provided that:
+Pub. L. 113–260, § 4, Dec. 18, 2014, 128 Stat. 2932, provided that:
 
 > **“(a) In General.—** The Attorney General may, in the Attorney General’s discretion, collect data and analyze products to determine whether they contain anabolic steroids and are properly labeled in accordance with this Act [see section 1 of Pub. L. 113–260, set out as a Short Title of 2014 Amendment note under section 801 of this title] and the amendments made by this Act. The Attorney General may publish in the Federal Register or on the website of the Drug Enforcement Administration a list of products which the Attorney General has determined, based on substantial evidence, contain an anabolic steroid and are not labeled in accordance with this Act and the amendments made by this Act.
 
 > **“(b) Absence From List.—** The absence of a product from the list referred to in subsection (a) shall not constitute evidence that the product does not contain an anabolic steroid.”
 
-#### § 826. Production quotas for controlled substances
+#### § 826. Production quotas for controlled substances
 
 **(a) Establishment of total annual needs**
 
@@ -4179,7 +4179,7 @@ The Secretary shall make the written response provided under subparagraph (B)(ii
 
 **(B)** work with the Secretary of Health and Human Services on methods to appropriately and anonymously estimate the type and amount of covered controlled substances that are submitted for collection from approved drug collection receptacles, mail-back programs, and take-back events.
 
-(Pub. L. 91–513, title II, § 306, Oct. 27, 1970, 84 Stat. 1257; Pub. L. 94–273, § 3(16), Apr. 21, 1976, 90 Stat. 377; Pub. L. 109–177, title VII, § 713, Mar. 9, 2006, 120 Stat. 264; Pub. L. 112–144, title X, § 1005, July 9, 2012, 126 Stat. 1105; Pub. L. 115–271, title III, § 3282(a), Oct. 24, 2018, 132 Stat. 3954.)
+(Pub. L. 91–513, title II, § 306, Oct. 27, 1970, 84 Stat. 1257; Pub. L. 94–273, § 3(16), Apr. 21, 1976, 90 Stat. 377; Pub. L. 109–177, title VII, § 713, Mar. 9, 2006, 120 Stat. 264; Pub. L. 112–144, title X, § 1005, July 9, 2012, 126 Stat. 1105; Pub. L. 115–271, title III, § 3282(a), Oct. 24, 2018, 132 Stat. 3954.)
 
 **Editorial Notes**
 
@@ -4189,29 +4189,29 @@ Schedules I and II, referred to in text, are set out in section 812(c) of this t
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–271, § 3282(a)(1), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), production” for “Production” in second sentence, and added par. (2).
+2018—Subsec. (a). Pub. L. 115–271, § 3282(a)(1), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), production” for “Production” in second sentence, and added par. (2).
 
-Subsec. (b). Pub. L. 115–271, § 3282(a)(2), substituted “reduce individual manufacturing” for “reduce individual production”.
+Subsec. (b). Pub. L. 115–271, § 3282(a)(2), substituted “reduce individual manufacturing” for “reduce individual production”.
 
-Subsec. (c). Pub. L. 115–271, § 3282(a)(3), substituted “December” for “October”.
+Subsec. (c). Pub. L. 115–271, § 3282(a)(3), substituted “December” for “October”.
 
-Subsec. (i). Pub. L. 115–271, § 3282(a)(4), added subsec. (i).
+Subsec. (i). Pub. L. 115–271, § 3282(a)(4), added subsec. (i).
 
 2012—Subsec. (h). Pub. L. 112–144 added subsec. (h).
 
-2006—Subsec. (a). Pub. L. 109–177, § 713(1), inserted “and for ephedrine, pseudoephedrine, and phenylpropanolamine” after “for each basic class of controlled substance in schedules I and II”.
+2006—Subsec. (a). Pub. L. 109–177, § 713(1), inserted “and for ephedrine, pseudoephedrine, and phenylpropanolamine” after “for each basic class of controlled substance in schedules I and II”.
 
-Subsec. (b). Pub. L. 109–177, § 713(2), inserted “or for ephedrine, pseudoephedrine, or phenylpropanolamine” after “for each basic class of controlled substance in schedule I or II”.
+Subsec. (b). Pub. L. 109–177, § 713(2), inserted “or for ephedrine, pseudoephedrine, or phenylpropanolamine” after “for each basic class of controlled substance in schedule I or II”.
 
-Subsec. (c). Pub. L. 109–177, § 713(3), inserted “and for ephedrine, pseudoephedrine, and phenylpropanolamine” after “for the basic classes of controlled substances in schedules I and II”.
+Subsec. (c). Pub. L. 109–177, § 713(3), inserted “and for ephedrine, pseudoephedrine, and phenylpropanolamine” after “for the basic classes of controlled substances in schedules I and II”.
 
-Subsec. (d). Pub. L. 109–177, § 713(4), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine” after “that basic class of controlled substance”.
+Subsec. (d). Pub. L. 109–177, § 713(4), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine” after “that basic class of controlled substance”.
 
-Subsec. (e). Pub. L. 109–177, § 713(5), inserted “or for ephedrine, pseudoephedrine, or phenylpropanolamine” after “for a basic class of controlled substance in schedule I or II”.
+Subsec. (e). Pub. L. 109–177, § 713(5), inserted “or for ephedrine, pseudoephedrine, or phenylpropanolamine” after “for a basic class of controlled substance in schedule I or II”.
 
-Subsec. (f). Pub. L. 109–177, § 713(6), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine” after “controlled substances in schedules I and II”, “or of ephedrine, pseudoephedrine, or phenylpropanolamine” after “the manufacture of a controlled substance”, and “or chemicals” after “such incidentally produced substances”.
+Subsec. (f). Pub. L. 109–177, § 713(6), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine” after “controlled substances in schedules I and II”, “or of ephedrine, pseudoephedrine, or phenylpropanolamine” after “the manufacture of a controlled substance”, and “or chemicals” after “such incidentally produced substances”.
 
-Subsec. (g). Pub. L. 109–177, § 713(7), added subsec. (g).
+Subsec. (g). Pub. L. 109–177, § 713(7), added subsec. (g).
 
 1976—Subsec. (c). Pub. L. 94–273 substituted “October” for “July”.
 
@@ -4223,13 +4223,13 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 **Change to Editorial Heading in United States Code**
 
-Pub. L. 115–271, title III, § 3282(b), Oct. 24, 2018, 132 Stat. 3955, provided that: “The Law Revision Counsel is directed to amend the heading for subsection (b) of section 826 of title 21, United States Code, by striking ‘Production’ and inserting ‘Manufacturing’.”
+Pub. L. 115–271, title III, § 3282(b), Oct. 24, 2018, 132 Stat. 3955, provided that: “The Law Revision Counsel is directed to amend the heading for subsection (b) of section 826 of title 21, United States Code, by striking ‘Production’ and inserting ‘Manufacturing’.”
 
 **Coordination With United States Trade Representative**
 
-Pub. L. 109–177, title VII, § 718, Mar. 9, 2006, 120 Stat. 267, provided that: “In implementing sections 713 through 717 and section 721 of this title [amending this section and sections 830, 842, 952, 960, and 971 of this title], the Attorney General shall consult with the United States Trade Representative to ensure implementation complies with all applicable international treaties and obligations of the United States.”
+Pub. L. 109–177, title VII, § 718, Mar. 9, 2006, 120 Stat. 267, provided that: “In implementing sections 713 through 717 and section 721 of this title [amending this section and sections 830, 842, 952, 960, and 971 of this title], the Attorney General shall consult with the United States Trade Representative to ensure implementation complies with all applicable international treaties and obligations of the United States.”
 
-#### § 826a. Attorney General report on drug shortages
+#### § 826a. Attorney General report on drug shortages
 
 Not later than 6 months after July 9, 2012, and annually thereafter, the Attorney General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on the Judiciary of the Senate a report on drug shortages that—
 
@@ -4239,7 +4239,7 @@ Not later than 6 months after July 9, 2012, and annually thereafter, the Attorne
 
 **(3)** identifies drugs containing a controlled substance subject to section 826 of this title when such a drug is determined by the Secretary to be in shortage.
 
-(Pub. L. 112–144, title X, § 1006, July 9, 2012, 126 Stat. 1105.)
+(Pub. L. 112–144, title X, § 1006, July 9, 2012, 126 Stat. 1105.)
 
 **Editorial Notes**
 
@@ -4257,7 +4257,7 @@ Section was enacted as part of the Food and Drug Administration Safety and Innov
 
 The term “Secretary” as meaning the Secretary of Health and Human Services, see section 1001(b) of Pub. L. 112–144, set out as an Effect of Notification note under section 356c of this title.
 
-#### § 827. Records and reports of registrants
+#### § 827. Records and reports of registrants
 
 **(a) Inventory** Except as provided in subsection (c)—
 
@@ -4345,7 +4345,7 @@ Every registrant under this subchapter shall be required to report any change of
 
 All of the reports required under this section shall be provided in an electronic format.
 
-(Pub. L. 91–513, title II, § 307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, § 5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§ 104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II, §§ 514, 515, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 106–172, § 4, Feb. 18, 2000, 114 Stat. 9; Pub. L. 110–425, § 3(c), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 115–271, title III, § 3273(a), Oct. 24, 2018, 132 Stat. 3952; Pub. L. 117–215, title I, § 103(b)(1)(D), Dec. 2, 2022, 136 Stat. 2263.)
+(Pub. L. 91–513, title II, § 307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, § 5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§ 104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II, §§ 514, 515, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 106–172, § 4, Feb. 18, 2000, 114 Stat. 9; Pub. L. 110–425, § 3(c), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 115–271, title III, § 3273(a), Oct. 24, 2018, 132 Stat. 3952; Pub. L. 117–215, title I, § 103(b)(1)(D), Dec. 2, 2022, 136 Stat. 2263.)
 
 **Editorial Notes**
 
@@ -4357,21 +4357,21 @@ Schedules II, III, IV, and V, referred to in subsec. (c), are set out in section
 
 2022—Subsec. (d)(2). Pub. L. 117–215 substituted “823(g)” for “823(f)” in introductory provisions.
 
-2018—Subsecs. (f) to (i). Pub. L. 115–271, § 3273(a)(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
+2018—Subsecs. (f) to (i). Pub. L. 115–271, § 3273(a)(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
-Subsec. (j). Pub. L. 115–271, § 3273(a)(3), added subsec. (j).
+Subsec. (j). Pub. L. 115–271, § 3273(a)(3), added subsec. (j).
 
 2008—Subsec. (d). Pub. L. 110–425 designated existing provisions as par. (1) and added par. (2).
 
 2000—Subsec. (h). Pub. L. 106–172 added subsec. (h).
 
-1984—Subsec. (c)(1)(A). Pub. L. 98–473, § 514(a), substituted “to the prescribing of controlled substances in schedule II, III, IV, or V by practitioners acting in the lawful course of their professional practice unless such substance is prescribed in the course of maintenance or detoxification treatment of an individual” for “with respect to any narcotic controlled substance in schedule II, III, IV, or V, to the prescribing or administering of such substance by a practitioner in the lawful course of his professional practice unless such substance was prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual”.
+1984—Subsec. (c)(1)(A). Pub. L. 98–473, § 514(a), substituted “to the prescribing of controlled substances in schedule II, III, IV, or V by practitioners acting in the lawful course of their professional practice unless such substance is prescribed in the course of maintenance or detoxification treatment of an individual” for “with respect to any narcotic controlled substance in schedule II, III, IV, or V, to the prescribing or administering of such substance by a practitioner in the lawful course of his professional practice unless such substance was prescribed or administered in the course of maintenance treatment or detoxification treatment of an individual”.
 
-Subsec. (c)(1)(B). Pub. L. 98–473, § 514(b), substituted “to the administering of a controlled substance in schedule II, III, IV, or V unless the practitioner regularly engages in the dispensing or administering of controlled substances and charges his patients, either separately or together with charges for other professional services, for substances so dispensed or administered or unless such substance is administered in the course of maintenance treatment or detoxification treatment of an individual” for “with respect to nonnarcotic controlled substances in schedule II, III, IV, or V, to any practitioner who dispenses such substances to his patients, unless the practitioner is regularly engaged in charging his patients, either separately or together with charges for other professional services, for substances so dispensed”.
+Subsec. (c)(1)(B). Pub. L. 98–473, § 514(b), substituted “to the administering of a controlled substance in schedule II, III, IV, or V unless the practitioner regularly engages in the dispensing or administering of controlled substances and charges his patients, either separately or together with charges for other professional services, for substances so dispensed or administered or unless such substance is administered in the course of maintenance treatment or detoxification treatment of an individual” for “with respect to nonnarcotic controlled substances in schedule II, III, IV, or V, to any practitioner who dispenses such substances to his patients, unless the practitioner is regularly engaged in charging his patients, either separately or together with charges for other professional services, for substances so dispensed”.
 
-Subsec. (g). Pub. L. 98–473, § 515, added subsec. (g).
+Subsec. (g). Pub. L. 98–473, § 515, added subsec. (g).
 
-1978—Subsec. (c). Pub. L. 95–633, § 110, inserted provision following par. (3) relating to the construction of the Convention on Psychotropic Substances.
+1978—Subsec. (c). Pub. L. 95–633, § 110, inserted provision following par. (3) relating to the construction of the Convention on Psychotropic Substances.
 
 Subsecs. (e), (f). Pub. L. 95–633 added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -4393,7 +4393,7 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 **Purpose**
 
-Pub. L. 115–271, title III, § 3272, Oct. 24, 2018, 132 Stat. 3952, provided that:
+Pub. L. 115–271, title III, § 3272, Oct. 24, 2018, 132 Stat. 3952, provided that:
 
 > **“(a) In General.—** The purpose of this chapter [see section 3271 of Pub. L. 115–271, set out as a Short Title of 2018 Amendment note under section 801 of this title] is to provide drug manufacturers and distributors with access to anonymized information through the Automated Reports and Consolidated Orders System to help drug manufacturers and distributors identify, report, and stop suspicious orders of opioids and reduce diversion rates.
 
@@ -4403,7 +4403,7 @@ Pub. L. 115–271, title III, § 3272, Oct. 24, 2018, 132 Stat. 3952, provided
 
 > **“(2)** maintain effective controls against diversion in accordance with section 303 of the Controlled Substances Act (21 U.S.C. 823) or any successor law or associated regulation.”
 
-#### § 828. Order forms
+#### § 828. Order forms
 
 **(a) Unlawful distribution of controlled substances**
 
@@ -4433,7 +4433,7 @@ It shall be unlawful for any person to distribute a controlled substance in sche
 
 It shall be unlawful for any person to obtain by means of order forms issued under this section controlled substances for any purpose other than their use, distribution, dispensing, or administration in the conduct of a lawful business in such substances or in the course of his professional practice or research.
 
-(Pub. L. 91–513, title II, § 308, Oct. 27, 1970, 84 Stat. 1259; Pub. L. 111–273, § 3(b), Oct. 12, 2010, 124 Stat. 2860.)
+(Pub. L. 91–513, title II, § 308, Oct. 27, 1970, 84 Stat. 1259; Pub. L. 111–273, § 3(b), Oct. 12, 2010, 124 Stat. 2860.)
 
 **Editorial Notes**
 
@@ -4451,7 +4451,7 @@ Schedules I and II, referred to in subsec. (a), are set out in section 812(c) of
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
-#### § 829. Prescriptions
+#### § 829. Prescriptions
 
 **(a) Schedule II substances**
 
@@ -4529,13 +4529,13 @@ Whenever it appears to the Attorney General that a drug not considered to be a p
 
 Notwithstanding paragraph (1) or (2), in any circumstance in which, as of the day before July 22, 2016, a prescription for a controlled substance in schedule II may be lawfully partially filled, the Attorney General may allow such a prescription to be partially filled.
 
-(Pub. L. 91–513, title II, § 309, Oct. 27, 1970, 84 Stat. 1260; Pub. L. 110–425, § 2, Oct. 15, 2008, 122 Stat. 4820; Pub. L. 114–198, title VII, § 702(a), July 22, 2016, 130 Stat. 740.)
+(Pub. L. 91–513, title II, § 309, Oct. 27, 1970, 84 Stat. 1260; Pub. L. 110–425, § 2, Oct. 15, 2008, 122 Stat. 4820; Pub. L. 114–198, title VII, § 702(a), July 22, 2016, 130 Stat. 740.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a), (b), (d), and (e)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a), (b), (d), and (e)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 Schedules II, III, IV, and V, referred to in subsecs. (a) to (c), are set out in section 812(c) of this title.
 
@@ -4557,15 +4557,15 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 **Construction of 2016 Amendment**
 
-Pub. L. 114–198, title VII, § 702(b), July 22, 2016, 130 Stat. 741, provided that: “Nothing in this section [amending this section] shall be construed to affect the authority of the Attorney General to allow a prescription for a controlled substance in schedule III, IV, or V of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) to be partially filled.”
+Pub. L. 114–198, title VII, § 702(b), July 22, 2016, 130 Stat. 741, provided that: “Nothing in this section [amending this section] shall be construed to affect the authority of the Attorney General to allow a prescription for a controlled substance in schedule III, IV, or V of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) to be partially filled.”
 
 **Dispensation of Narcotic Drugs for the Purpose of Relieving Acute Withdrawal Symptoms From Opioid Use Disorder**
 
-Pub. L. 116–215, div. B, title III, § 1302, Dec. 11, 2020, 134 Stat. 1046, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 11, 2020], the Attorney General shall revise section 1306.07(b) of title 21, Code of Federal Regulations, so that practitioners, in accordance with applicable State, Federal, or local laws relating to controlled substances, are allowed to dispense not more than a three-day supply of narcotic drugs to one person or for one person’s use at one time for the purpose of initiating maintenance treatment or detoxification treatment (or both).”
+Pub. L. 116–215, div. B, title III, § 1302, Dec. 11, 2020, 134 Stat. 1046, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 11, 2020], the Attorney General shall revise section 1306.07(b) of title 21, Code of Federal Regulations, so that practitioners, in accordance with applicable State, Federal, or local laws relating to controlled substances, are allowed to dispense not more than a three-day supply of narcotic drugs to one person or for one person’s use at one time for the purpose of initiating maintenance treatment or detoxification treatment (or both).”
 
 **Programs and Materials for Training on Certain Circumstances Under Which a Pharmacist May Decline To Fill a Prescription**
 
-Pub. L. 115–271, title III, § 3212, Oct. 24, 2018, 132 Stat. 3947, as amended by Pub. L. 117–328, div. FF, title I, § 1271(a), Dec. 29, 2022, 136 Stat. 5685, provided that:
+Pub. L. 115–271, title III, § 3212, Oct. 24, 2018, 132 Stat. 3947, as amended by Pub. L. 117–328, div. FF, title I, § 1271(a), Dec. 29, 2022, 136 Stat. 5685, provided that:
 
 > **“(a) In General.—** The Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, Commissioner of Food and Drugs, Director of the Centers for Disease Control and Prevention, and Assistant Secretary for Mental Health and Substance Use, shall develop and disseminate not later than 1 year after the date of enactment of the Restoring Hope for Mental Health and Well-Being Act of 2022 [Dec. 29, 2022], and update periodically thereafter, as appropriate, materials for pharmacists, health care providers, and patients on—
 
@@ -4591,9 +4591,9 @@ Pub. L. 115–271, title III, § 3212, Oct. 24, 2018, 132 Stat. 3947, as amend
 
 **Effect of Scheduling on Prescriptions**
 
-Pub. L. 101–647, title XIX, § 1902(c), Nov. 29, 1990, 104 Stat. 4852, provided that any prescription for anabolic steroids subject to refill on or after Nov. 29, 1990, could be refilled without restriction under subsec. (a) of this section.
+Pub. L. 101–647, title XIX, § 1902(c), Nov. 29, 1990, 104 Stat. 4852, provided that any prescription for anabolic steroids subject to refill on or after Nov. 29, 1990, could be refilled without restriction under subsec. (a) of this section.
 
-#### § 829a. Delivery of a controlled substance by a pharmacy to an administering practitioner
+#### § 829a. Delivery of a controlled substance by a pharmacy to an administering practitioner
 
 **(a) In general** Notwithstanding section 802(10) of this title, a pharmacy may deliver a controlled substance to a practitioner in accordance with a prescription that meets the requirements of this subchapter and the regulations issued by the Attorney General under this subchapter, for the purpose of administering the controlled substance by the practitioner if—
 
@@ -4629,7 +4629,7 @@ After the date on which the report described in section 3204(b) of the SUPPORT f
 
 Any modification under this subsection shall be for a period of not less than 7 days.
 
-(Pub. L. 91–513, title II, § 309A, as added Pub. L. 115–271, title III, § 3204(a), Oct. 24, 2018, 132 Stat. 3945; amended Pub. L. 117–215, title I, § 103(b)(1)(E), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, §§ 1262(b)(2), 1264, Dec. 29, 2022, 136 Stat. 5682, 5685; Pub. L. 119–26, § 4(2)(B)(iii), July 16, 2025, 139 Stat. 416; Pub. L. 119–44, title IV, § 401, Dec. 1, 2025, 139 Stat. 689.)
+(Pub. L. 91–513, title II, § 309A, as added Pub. L. 115–271, title III, § 3204(a), Oct. 24, 2018, 132 Stat. 3945; amended Pub. L. 117–215, title I, § 103(b)(1)(E), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, §§ 1262(b)(2), 1264, Dec. 29, 2022, 136 Stat. 5682, 5685; Pub. L. 119–26, § 4(2)(B)(iii), July 16, 2025, 139 Stat. 416; Pub. L. 119–44, title IV, § 401, Dec. 1, 2025, 139 Stat. 689.)
 
 **Editorial Notes**
 
@@ -4641,11 +4641,11 @@ Section 3204(b) of the SUPPORT for Patients and Communities Act, referred to in 
 
 **Amendments**
 
-2025—Subsec. (a)(2). Pub. L. 119–44, § 401, added par. (2) and struck out former par. (2) which read as follows: “the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;”.
+2025—Subsec. (a)(2). Pub. L. 119–44, § 401, added par. (2) and struck out former par. (2) which read as follows: “the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;”.
 
-Pub. L. 119–26, § 4(2)(B)(iii), amended Pub. L. 117–328, § 1262(b)(2). See 2022 Amendment note below.
+Pub. L. 119–26, § 4(2)(B)(iii), amended Pub. L. 117–328, § 1262(b)(2). See 2022 Amendment note below.
 
-2022—Subsec. (a)(2). Pub. L. 117–328, § 1262(b)(2), as amended by Pub. L. 119–26, § 4(2)(B)(iii), substituted “the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;” for “the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(g)(2) and—”
+2022—Subsec. (a)(2). Pub. L. 117–328, § 1262(b)(2), as amended by Pub. L. 119–26, § 4(2)(B)(iii), substituted “the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;” for “the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(g)(2) and—”
 
 “(A) the practitioner who issued the prescription is a qualifying practitioner authorized under, and acting within the scope of that section; and
 
@@ -4653,15 +4653,15 @@ Pub. L. 119–26, § 4(2)(B)(iii), amended Pub. L. 117–328, § 1262(b)(2).
 
 Pub. L. 117–215 substituted “823(h)(2)” for “823(g)(2)” in introductory provisions.
 
-Subsec. (a)(5). Pub. L. 117–328, § 1264, substituted “45 days” for “14 days”.
+Subsec. (a)(5). Pub. L. 117–328, § 1264, substituted “45 days” for “14 days”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2025 Amendment**
 
-Pub. L. 119–26, § 4, July 16, 2025, 139 Stat. 416, provided that the amendment made by section 4(2)(B)(iii) is effective as if included in the enactment of Pub. L. 117–328.
+Pub. L. 119–26, § 4, July 16, 2025, 139 Stat. 416, provided that the amendment made by section 4(2)(B)(iii) is effective as if included in the enactment of Pub. L. 117–328.
 
-#### § 830. Regulation of listed chemicals and certain machines
+#### § 830. Regulation of listed chemicals and certain machines
 
 **(a) Record of regulated transactions**
 
@@ -4691,9 +4691,9 @@ Each report under subparagraph (A) shall be made at the earliest practicable opp
 
 **(A)** As used in this paragraph:
 
-**(i)** The term “drug product” means an active ingredient in dosage form that has been approved or otherwise may be lawfully marketed under the Food, Drug, and Cosmetic Act 1
+**(i)** The term “drug product” means an active ingredient in dosage form that has been approved or otherwise may be lawfully marketed under the Food, Drug, and Cosmetic Act 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 [21 U.S.C. 301 et seq.] for distribution in the United States.
 
@@ -4879,13 +4879,13 @@ A regulated seller may take reasonable measures to guard against employing indiv
 
 Upon the application of a manufacturer of a scheduled listed chemical product, the Attorney General may by regulation provide that the product is exempt from the provisions of subsection (d) and paragraphs (1) and (2) of this subsection if the Attorney General determines that the product cannot be used in the illicit manufacture of methamphetamine.
 
-(Pub. L. 91–513, title II, § 310, as added Pub. L. 95–633, title II, § 202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, § 6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§ 2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, § 208, title IV, § 402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, § 3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§ 711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267; Pub. L. 110–415, § 2, Oct. 14, 2008, 122 Stat. 4349; Pub. L. 111–268, §§ 2, 3, Oct. 12, 2010, 124 Stat. 2847.)
+(Pub. L. 91–513, title II, § 310, as added Pub. L. 95–633, title II, § 202(a), Nov. 10, 1978, 92 Stat. 3774; amended Pub. L. 100–690, title VI, § 6052(a), Nov. 18, 1988, 102 Stat. 4312; Pub. L. 103–200, §§ 2(c), 10, Dec. 17, 1993, 107 Stat. 2336, 2341; Pub. L. 104–237, title II, § 208, title IV, § 402, Oct. 3, 1996, 110 Stat. 3104, 3111; Pub. L. 106–310, div. B, title XXXVI, § 3652, Oct. 17, 2000, 114 Stat. 1239; Pub. L. 109–177, title VII, §§ 711(a)(2)(B), (b)(1), (c)(1), (2), (d), 716(b)(2), Mar. 9, 2006, 120 Stat. 257, 261, 267; Pub. L. 110–415, § 2, Oct. 14, 2008, 122 Stat. 4349; Pub. L. 111–268, §§ 2, 3, Oct. 12, 2010, 124 Stat. 2847.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3)(A)(i), probably means the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3)(A)(i), probably means the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 This subchapter, referred to in subsecs. (b)(3)(D)(vi), (E) and (e)(1)(C)(ii), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
@@ -4893,41 +4893,41 @@ Subchapter II, referred to in subsecs. (b)(3)(D)(iv), (E) and (c)(2)(A), (B), wa
 
 **Amendments**
 
-2010—Subsec. (e)(1)(B)(v). Pub. L. 111–268, § 3, added cl. (v).
+2010—Subsec. (e)(1)(B)(v). Pub. L. 111–268, § 3, added cl. (v).
 
-Subsec. (e)(2)(C). Pub. L. 111–268, § 2, added subpar. (C).
+Subsec. (e)(2)(C). Pub. L. 111–268, § 2, added subpar. (C).
 
 2008—Subsec. (e)(1)(A)(iv) to (vi). Pub. L. 110–415 added cls. (iv) to (vi) and struck out former cls. (iv) to (vi) which related to procedures for sales subject to the logbook requirement.
 
-2006—Subsec. (b)(3)(D)(ii). Pub. L. 109–177, § 711(c)(2), inserted “, except that this clause does not apply to sales of scheduled listed chemical products at retail” before period at end.
+2006—Subsec. (b)(3)(D)(ii). Pub. L. 109–177, § 711(c)(2), inserted “, except that this clause does not apply to sales of scheduled listed chemical products at retail” before period at end.
 
-Pub. L. 109–177, § 711(a)(2)(B), substituted “section 802(49)” for “section 802(46)”.
+Pub. L. 109–177, § 711(a)(2)(B), substituted “section 802(49)” for “section 802(46)”.
 
-Subsec. (b)(3)(D)(v). Pub. L. 109–177, § 716(b)(2), substituted “section 971(f)(2)” for “section 971(e)(2)”.
+Subsec. (b)(3)(D)(v). Pub. L. 109–177, § 716(b)(2), substituted “section 971(f)(2)” for “section 971(e)(2)”.
 
-Subsec. (d). Pub. L. 109–177, § 711(b)(1), added subsec. (d).
+Subsec. (d). Pub. L. 109–177, § 711(b)(1), added subsec. (d).
 
-Subsec. (e)(1). Pub. L. 109–177, § 711(b)(1), added subsec. heading and par. (1).
+Subsec. (e)(1). Pub. L. 109–177, § 711(b)(1), added subsec. heading and par. (1).
 
-Subsec. (e)(2). Pub. L. 109–177, § 711(c)(1), added par. (2).
+Subsec. (e)(2). Pub. L. 109–177, § 711(c)(1), added par. (2).
 
-Subsec. (e)(3). Pub. L. 109–177, § 711(d), added par. (3).
+Subsec. (e)(3). Pub. L. 109–177, § 711(d), added par. (3).
 
 2000—Subsec. (b)(3). Pub. L. 106–310 added subpars. (A), (D), and (E), redesignated former subpars. (A) and (B) as (B) and (C), respectively, and inserted “or who engages in an export transaction” after “nonregulated person” in introductory provisions of subpar. (B).
 
-1996—Subsec. (a)(1). Pub. L. 104–237, § 208, substituted “for two years after the date of the transaction.” for the dash after “record of the transaction” and struck out subpars. (A) and (B) which read as follows:
+1996—Subsec. (a)(1). Pub. L. 104–237, § 208, substituted “for two years after the date of the transaction.” for the dash after “record of the transaction” and struck out subpars. (A) and (B) which read as follows:
 
 “(A) for 4 years after the date of the transaction, if the listed chemical is a list I chemical or if the transaction involves a tableting machine or an encapsulating machine; and
 
 “(B) for 2 years after the date of the transaction, if the listed chemical is a list II chemical.”
 
-Subsec. (b)(3). Pub. L. 104–237, § 402, added par. (3).
+Subsec. (b)(3). Pub. L. 104–237, § 402, added par. (3).
 
-1993—Subsec. (a)(1). Pub. L. 103–200, § 2(c)(1), substituted “list I chemical” for “precursor chemical” in subpar. (A) and “a list II chemical” for “an essential chemical” in subpar. (B).
+1993—Subsec. (a)(1). Pub. L. 103–200, § 2(c)(1), substituted “list I chemical” for “precursor chemical” in subpar. (A) and “a list II chemical” for “an essential chemical” in subpar. (B).
 
-Subsec. (b). Pub. L. 103–200, § 10, designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, in concluding provisions, substituted “subparagraph (A)” for “paragraph (1)” in two places, “subparagraph (B)” for “paragraph (2)”, and “subparagraph (C)” for “paragraph (3)”, and added par. (2).
+Subsec. (b). Pub. L. 103–200, § 10, designated existing provisions as par. (1), redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, in concluding provisions, substituted “subparagraph (A)” for “paragraph (1)” in two places, “subparagraph (B)” for “paragraph (2)”, and “subparagraph (C)” for “paragraph (3)”, and added par. (2).
 
-Subsec. (c)(2)(D). Pub. L. 103–200, § 2(c)(2), substituted “chemical control laws” for “precursor chemical laws”.
+Subsec. (c)(2)(D). Pub. L. 103–200, § 2(c)(2), substituted “chemical control laws” for “precursor chemical laws”.
 
 1988—Pub. L. 100–690 amended section generally, substituting provisions relating to regulation of listed chemicals and certain machines for provisions relating to reporting by any person who distributes, sells, or imports any piperidine.
 
@@ -4935,11 +4935,11 @@ Subsec. (c)(2)(D). Pub. L. 103–200, § 2(c)(2), substituted “chemical cont
 
 **Effective Date of 2010 Amendment**
 
-Pub. L. 111–268, § 6(a), Oct. 12, 2010, 124 Stat. 2848, provided that: “This Act [amending this section and section 842 of this title and enacting provisions set out as notes under this section and section 801 of this title] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act [Oct. 12, 2010].”
+Pub. L. 111–268, § 6(a), Oct. 12, 2010, 124 Stat. 2848, provided that: “This Act [amending this section and section 842 of this title and enacting provisions set out as notes under this section and section 801 of this title] and the amendments made by this Act shall take effect 180 days after the date of enactment of this Act [Oct. 12, 2010].”
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–177, title VII, § 711(b)(2), Mar. 9, 2006, 120 Stat. 261, provided that:
+Pub. L. 109–177, title VII, § 711(b)(2), Mar. 9, 2006, 120 Stat. 261, provided that:
 
 > “With respect to subsections (d) and (e)(1) of section 310 of the Controlled Substances Act [21 U.S.C. 830(d), (e)(1)], as added by paragraph (1) of this subsection:
 
@@ -4947,7 +4947,7 @@ Pub. L. 109–177, title VII, § 711(b)(2), Mar. 9, 2006, 120 Stat. 261, provi
 
 > **“(B)** Such subsection (e)(1) applies on and after September 30, 2006.”
 
-Pub. L. 109–177, title VII, § 711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: “The amendments made by paragraphs (1) and (2) [amending this section] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act [Mar. 9, 2006].”
+Pub. L. 109–177, title VII, § 711(c)(3), Mar. 9, 2006, 120 Stat. 261, provided that: “The amendments made by paragraphs (1) and (2) [amending this section] apply on and after the expiration of the 30-day period beginning on the date of the enactment of this Act [Mar. 9, 2006].”
 
 **Effective Date of 1993 Amendment**
 
@@ -4959,7 +4959,7 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 
 **Effective Date; Time To Submit Piperidine Report; Required Information**
 
-Pub. L. 95–633, title II, § 203(a), Nov. 10, 1978, 92 Stat. 3776, provided that:
+Pub. L. 95–633, title II, § 203(a), Nov. 10, 1978, 92 Stat. 3776, provided that:
 
 > **“(1)** Except as provided under paragraph (2), the amendments made by this title [enacting this section and amending sections 841 to 843 of this title] shall take effect on the date of the enactment of this Act [Nov. 10, 1978].
 
@@ -4973,19 +4973,19 @@ Pub. L. 95–633, title II, § 203(a), Nov. 10, 1978, 92 Stat. 3776, provided 
 
 **Repeals**
 
-Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of this section effective Jan. 1, 1981.
+Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of this section effective Jan. 1, 1981.
 
 **Regulations**
 
-Pub. L. 111–268, § 6(b), Oct. 12, 2010, 124 Stat. 2848, provided that: “In promulgating the regulations authorized by section 2 [amending this section], the Attorney General may issue regulations on an interim basis as necessary to ensure the implementation of this Act by the effective date [see Effective Date of 2010 Amendment note above].”
+Pub. L. 111–268, § 6(b), Oct. 12, 2010, 124 Stat. 2848, provided that: “In promulgating the regulations authorized by section 2 [amending this section], the Attorney General may issue regulations on an interim basis as necessary to ensure the implementation of this Act by the effective date [see Effective Date of 2010 Amendment note above].”
 
-Pub. L. 95–633, title II, § 203(b), Nov. 10, 1978, 92 Stat. 3777, required the Attorney General to publish proposed interim regulations for piperidine reporting under section 830(a) of this title not later than 30 days after enactment, and final interim regulations not later than 75 days after enactment, such final interim regulations to be effective on and after the ninety-first day after enactment.
+Pub. L. 95–633, title II, § 203(b), Nov. 10, 1978, 92 Stat. 3777, required the Attorney General to publish proposed interim regulations for piperidine reporting under section 830(a) of this title not later than 30 days after enactment, and final interim regulations not later than 75 days after enactment, such final interim regulations to be effective on and after the ninety-first day after enactment.
 
 **Report to President and Congress on Effectiveness of Title II of Pub. L. 95–633**
 
-Pub. L. 95–633, title II, § 203(c), Nov. 10, 1978, 92 Stat. 3777, required the Attorney General to analyze and evaluate the impact and effectiveness of the amendments made by title II of Pub. L. 95–633, and report to the President and Congress not later than Mar. 1, 1980.
+Pub. L. 95–633, title II, § 203(c), Nov. 10, 1978, 92 Stat. 3777, required the Attorney General to analyze and evaluate the impact and effectiveness of the amendments made by title II of Pub. L. 95–633, and report to the President and Congress not later than Mar. 1, 1980.
 
-#### § 831. Additional requirements relating to online pharmacies and telemedicine
+#### § 831. Additional requirements relating to online pharmacies and telemedicine
 
 **(a) In general**
 
@@ -5089,7 +5089,7 @@ Not later than 30 days after the date that a prescription described in subparagr
 
 Any transfer between pharmacies of information relating to a prescription for a controlled substance shall meet the applicable requirements under regulations promulgated by the Attorney General under this chapter.
 
-(Pub. L. 91–513, title II, § 311, as added Pub. L. 110–425, § 3(d)(1), Oct. 15, 2008, 122 Stat. 4825; amended Pub. L. 115–271, title III, § 3232, Oct. 24, 2018, 132 Stat. 3950; Pub. L. 117–215, title I, § 103(b)(1)(F), Dec. 2, 2022, 136 Stat. 2263.)
+(Pub. L. 91–513, title II, § 311, as added Pub. L. 110–425, § 3(d)(1), Oct. 15, 2008, 122 Stat. 4825; amended Pub. L. 115–271, title III, § 3232, Oct. 24, 2018, 132 Stat. 3950; Pub. L. 117–215, title I, § 103(b)(1)(F), Dec. 2, 2022, 136 Stat. 2263.)
 
 **Editorial Notes**
 
@@ -5099,7 +5099,7 @@ Section 309, referred to in subsec. (c)(7), is section 309 of Pub. L. 91–513, 
 
 For effective date of this section, referred to in subsec. (d)(3), see Effective Date note below.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (g)(1), (2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (g)(1), (2)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 This chapter, referred to in subsec. (j), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
@@ -5115,7 +5115,7 @@ This chapter, referred to in subsec. (j), was in the original “this Act”, me
 
 Section effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as an Effective Date of 2008 Amendment note under section 802 of this title.
 
-#### § 832. Suspicious orders
+#### § 832. Suspicious orders
 
 **(a) Reporting** Each registrant shall—
 
@@ -5149,11 +5149,11 @@ The Attorney General shall provide information in accordance with paragraph (1) 
 
 In establishing the process for the provision of information under this subsection, the Attorney General shall coordinate with States to ensure that the Attorney General has access to information, as permitted under State law, possessed by the States relating to prescriptions for controlled substances that will assist in enforcing Federal law.
 
-(Pub. L. 91–513, title II, § 312, as added Pub. L. 115–271, title III, § 3292(b), Oct. 24, 2018, 132 Stat. 3956.)
+(Pub. L. 91–513, title II, § 312, as added Pub. L. 115–271, title III, § 3292(b), Oct. 24, 2018, 132 Stat. 3956.)
 
 ### Part D—Offenses and Penalties
 
-#### § 841. Prohibited acts A
+#### § 841. Prohibited acts A
 
 **(a) Unlawful acts** Except as authorized by this subchapter, it shall be unlawful for any person knowingly or intentionally—
 
@@ -5185,7 +5185,7 @@ In establishing the process for the provision of information under this subsecti
 
 **(v)** 10 grams or more of a mixture or substance containing a detectable amount of lysergic acid diethylamide (LSD);
 
-**(vi)** 400 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [ 1- ( 2-phenylethyl ) -4-piperidinyl ] propanamide or 100 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
+**(vi)** 400 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [ 1- ( 2-phenylethyl ) -4-piperidinyl ] propanamide or 100 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
 
 **(vii)** 1000 kilograms or more of a mixture or substance containing a detectable amount of marihuana, or 1,000 or more marihuana plants regardless of weight; or
 
@@ -5213,7 +5213,7 @@ such person shall be sentenced to a term of imprisonment which may not be less t
 
 **(v)** 1 gram or more of a mixture or substance containing a detectable amount of lysergic acid diethylamide (LSD);
 
-**(vi)** 40 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [ 1- ( 2-phenylethyl ) -4-piperidinyl ] propanamide or 10 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
+**(vi)** 40 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [ 1- ( 2-phenylethyl ) -4-piperidinyl ] propanamide or 10 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
 
 **(vii)** 100 kilograms or more of a mixture or substance containing a detectable amount of marihuana, or 100 or more marihuana plants regardless of weight; or
 
@@ -5321,9 +5321,9 @@ The Attorney General is authorized to remove any substance from the list of date
 
 **(B)** The term “authorized purchaser” means any of the following persons, provided such person has acquired the controlled substance in accordance with this chapter:
 
-**(i)** A person with a valid prescription that is issued for a legitimate medical purpose in the usual course of professional practice that is based upon a qualifying medical relationship by a practitioner registered by the Attorney General. A “qualifying medical relationship” means a medical relationship that exists when the practitioner has conducted at least 1 medical evaluation with the authorized purchaser in the physical presence of the practitioner, without regard to whether portions of the evaluation are conducted by other heath 1
+**(i)** A person with a valid prescription that is issued for a legitimate medical purpose in the usual course of professional practice that is based upon a qualifying medical relationship by a practitioner registered by the Attorney General. A “qualifying medical relationship” means a medical relationship that exists when the practitioner has conducted at least 1 medical evaluation with the authorized purchaser in the physical presence of the practitioner, without regard to whether portions of the evaluation are conducted by other heath 1
 
-<sup>1</sup>  So in original. Probably should be “health”.
+<sup>1</sup> So in original. Probably should be “health”.
 
 professionals. The preceding sentence shall not be construed to imply that 1 medical evaluation demonstrates that a prescription has been issued for a legitimate medical purpose within the usual course of professional practice.
 
@@ -5347,9 +5347,9 @@ professionals. The preceding sentence shall not be construed to imply that 1 med
 
 **(B)** writing a prescription for a controlled substance for the purpose of delivery, distribution, or dispensation by means of the Internet in violation of section 829(e) of this title;
 
-**(C)** serving as an agent, intermediary, or other entity that causes the Internet to be used to bring together a buyer and seller to engage in the dispensing of a controlled substance in a manner not authorized by sections 2
+**(C)** serving as an agent, intermediary, or other entity that causes the Internet to be used to bring together a buyer and seller to engage in the dispensing of a controlled substance in a manner not authorized by sections 2
 
-<sup>2</sup>  So in original. Probably should be “section”.
+<sup>2</sup> So in original. Probably should be “section”.
 
 823(g) or 829(e) of this title;
 
@@ -5377,7 +5377,7 @@ professionals. The preceding sentence shall not be construed to imply that 1 med
 
 Any person who knowingly or intentionally violates this subsection shall be sentenced in accordance with subsection (b).
 
-(Pub. L. 91–513, title II, § 401, Oct. 27, 1970, 84 Stat. 1260; Pub. L. 95–633, title II, § 201, Nov. 10, 1978, 92 Stat. 3774; Pub. L. 96–359, § 8(c), Sept. 26, 1980, 94 Stat. 1194; Pub. L. 98–473, title II, §§ 224(a), 502, 503(b)(1), (2), Oct. 12, 1984, 98 Stat. 2030, 2068, 2070; Pub. L. 99–570, title I, §§ 1002, 1003(a), 1004(a), 1005(a), 1103, title XV, § 15005, Oct. 27, 1986, 100 Stat. 3207–2, 3207–5, 3207–6, 3207–11, 3207–192; Pub. L. 100–690, title VI, §§ 6055, 6254(h), 6452(a), 6470(g), (h), 6479, Nov. 18, 1988, 102 Stat. 4318, 4367, 4371, 4378, 4381; Pub. L. 101–647, title X, § 1002(e), title XII, § 1202, title XXXV, § 3599K, Nov. 29, 1990, 104 Stat. 4828, 4830, 4932; Pub. L. 103–322, title IX, § 90105(a), (c), title XVIII, § 180201(b)(2)(A), Sept. 13, 1994, 108 Stat. 1987, 1988, 2047; Pub. L. 104–237, title II, § 206(a), title III, § 302(a), Oct. 3, 1996, 110 Stat. 3103, 3105; Pub. L. 104–305, § 2(a), (b)(1), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 105–277, div. E, § 2(a), Oct. 21, 1998, 112 Stat. 2681–759; Pub. L. 106–172, §§ 3(b)(1), 5(b), 9, Feb. 18, 2000, 114 Stat. 9, 10, 13; Pub. L. 107–273, div. B, title III, § 3005(a), title IV, § 4002(d)(2)(A), Nov. 2, 2002, 116 Stat. 1805, 1809; Pub. L. 109–177, title VII, §§ 711(f)(1)(B), 732, Mar. 9, 2006, 120 Stat. 262, 270; Pub. L. 109–248, title II, § 201, July 27, 2006, 120 Stat. 611; Pub. L. 110–425, § 3(e), (f), Oct. 15, 2008, 122 Stat. 4828, 4829; Pub. L. 111–220, §§ 2(a), 4(a), Aug. 3, 2010, 124 Stat. 2372; Pub. L. 115–391, title IV, § 401(a)(2), Dec. 21, 2018, 132 Stat. 5220; Pub. L. 117–215, title I, § 103(b)(1)(G), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 119–26, § 6(a), July 16, 2025, 139 Stat. 417.)
+(Pub. L. 91–513, title II, § 401, Oct. 27, 1970, 84 Stat. 1260; Pub. L. 95–633, title II, § 201, Nov. 10, 1978, 92 Stat. 3774; Pub. L. 96–359, § 8(c), Sept. 26, 1980, 94 Stat. 1194; Pub. L. 98–473, title II, §§ 224(a), 502, 503(b)(1), (2), Oct. 12, 1984, 98 Stat. 2030, 2068, 2070; Pub. L. 99–570, title I, §§ 1002, 1003(a), 1004(a), 1005(a), 1103, title XV, § 15005, Oct. 27, 1986, 100 Stat. 3207–2, 3207–5, 3207–6, 3207–11, 3207–192; Pub. L. 100–690, title VI, §§ 6055, 6254(h), 6452(a), 6470(g), (h), 6479, Nov. 18, 1988, 102 Stat. 4318, 4367, 4371, 4378, 4381; Pub. L. 101–647, title X, § 1002(e), title XII, § 1202, title XXXV, § 3599K, Nov. 29, 1990, 104 Stat. 4828, 4830, 4932; Pub. L. 103–322, title IX, § 90105(a), (c), title XVIII, § 180201(b)(2)(A), Sept. 13, 1994, 108 Stat. 1987, 1988, 2047; Pub. L. 104–237, title II, § 206(a), title III, § 302(a), Oct. 3, 1996, 110 Stat. 3103, 3105; Pub. L. 104–305, § 2(a), (b)(1), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 105–277, div. E, § 2(a), Oct. 21, 1998, 112 Stat. 2681–759; Pub. L. 106–172, §§ 3(b)(1), 5(b), 9, Feb. 18, 2000, 114 Stat. 9, 10, 13; Pub. L. 107–273, div. B, title III, § 3005(a), title IV, § 4002(d)(2)(A), Nov. 2, 2002, 116 Stat. 1805, 1809; Pub. L. 109–177, title VII, §§ 711(f)(1)(B), 732, Mar. 9, 2006, 120 Stat. 262, 270; Pub. L. 109–248, title II, § 201, July 27, 2006, 120 Stat. 611; Pub. L. 110–425, § 3(e), (f), Oct. 15, 2008, 122 Stat. 4828, 4829; Pub. L. 111–220, §§ 2(a), 4(a), Aug. 3, 2010, 124 Stat. 2372; Pub. L. 115–391, title IV, § 401(a)(2), Dec. 21, 2018, 132 Stat. 5220; Pub. L. 117–215, title I, § 103(b)(1)(G), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 119–26, § 6(a), July 16, 2025, 139 Stat. 417.)
 
 **Editorial Notes**
 
@@ -5393,99 +5393,99 @@ This chapter, referred to in subsec. (g)(2)(B), (3), was in the original “this
 
 **Amendments**
 
-2025—Subsec. (b)(1)(A)(vi). Pub. L. 119–26, § 6(a)(1), inserted “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
+2025—Subsec. (b)(1)(A)(vi). Pub. L. 119–26, § 6(a)(1), inserted “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
 
-Subsec. (b)(1)(B)(vi). Pub. L. 119–26, § 6(a)(2), inserted “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
+Subsec. (b)(1)(B)(vi). Pub. L. 119–26, § 6(a)(2), inserted “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
 
 2022—Subsec. (h)(2). Pub. L. 117–215 substituted “823(g)” for “823(f)” in two places.
 
-2018—Subsec. (b)(1)(A). Pub. L. 115–391, § 401(a)(2)(A), in concluding provisions, substituted “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 15 years” for “If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment which may not be less than 20 years” and “after 2 or more prior convictions for a serious drug felony or serious violent felony have become final, such person shall be sentenced to a term of imprisonment of not less than 25 years” for “after two or more prior convictions for a felony drug offense have become final, such person shall be sentenced to a mandatory term of life imprisonment without release”.
+2018—Subsec. (b)(1)(A). Pub. L. 115–391, § 401(a)(2)(A), in concluding provisions, substituted “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 15 years” for “If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment which may not be less than 20 years” and “after 2 or more prior convictions for a serious drug felony or serious violent felony have become final, such person shall be sentenced to a term of imprisonment of not less than 25 years” for “after two or more prior convictions for a felony drug offense have become final, such person shall be sentenced to a mandatory term of life imprisonment without release”.
 
-Subsec. (b)(1)(B). Pub. L. 115–391, § 401(a)(2)(B), in concluding provisions, substituted “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final” for “If any person commits such a violation after a prior conviction for a felony drug offense has become final”.
+Subsec. (b)(1)(B). Pub. L. 115–391, § 401(a)(2)(B), in concluding provisions, substituted “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final” for “If any person commits such a violation after a prior conviction for a felony drug offense has become final”.
 
-2010—Subsec. (b)(1)(A). Pub. L. 111–220, § 4(a)(1), in concluding provisions, substituted “$10,000,000” for “$4,000,000”, “$50,000,000” for “$10,000,000”, “$20,000,000” for “$8,000,000”, and “$75,000,000” for “$20,000,000”.
+2010—Subsec. (b)(1)(A). Pub. L. 111–220, § 4(a)(1), in concluding provisions, substituted “$10,000,000” for “$4,000,000”, “$50,000,000” for “$10,000,000”, “$20,000,000” for “$8,000,000”, and “$75,000,000” for “$20,000,000”.
 
-Subsec. (b)(1)(A)(iii). Pub. L. 111–220, § 2(a)(1), substituted “280 grams” for “50 grams”.
+Subsec. (b)(1)(A)(iii). Pub. L. 111–220, § 2(a)(1), substituted “280 grams” for “50 grams”.
 
-Subsec. (b)(1)(B). Pub. L. 111–220, § 4(a)(2), in concluding provisions, substituted “$5,000,000” for “$2,000,000”, “$25,000,000” for “$5,000,000”, “$8,000,000” for “$4,000,000”, and “$50,000,000” for “$10,000,000”.
+Subsec. (b)(1)(B). Pub. L. 111–220, § 4(a)(2), in concluding provisions, substituted “$5,000,000” for “$2,000,000”, “$25,000,000” for “$5,000,000”, “$8,000,000” for “$4,000,000”, and “$50,000,000” for “$10,000,000”.
 
-Subsec. (b)(1)(B)(iii). Pub. L. 111–220, § 2(a)(2), substituted “28 grams” for “5 grams”.
+Subsec. (b)(1)(B)(iii). Pub. L. 111–220, § 2(a)(2), substituted “28 grams” for “5 grams”.
 
-2008—Subsec. (b)(1)(D). Pub. L. 110–425, § 3(e)(1)(A), struck out “or in the case of any controlled substance in schedule III (other than gamma hydroxybutyric acid), or 30 milligrams of flunitrazepam” after “hashish oil”.
+2008—Subsec. (b)(1)(D). Pub. L. 110–425, § 3(e)(1)(A), struck out “or in the case of any controlled substance in schedule III (other than gamma hydroxybutyric acid), or 30 milligrams of flunitrazepam” after “hashish oil”.
 
-Subsec. (b)(1)(E). Pub. L. 110–425, § 3(e)(1)(B), added subpar. (E).
+Subsec. (b)(1)(E). Pub. L. 110–425, § 3(e)(1)(B), added subpar. (E).
 
-Subsec. (b)(2). Pub. L. 110–425, § 3(e)(2), substituted “5 years” for “3 years”, “10 years” for “6 years”, and “after a prior conviction for a felony drug offense has become final,” for “after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final,”.
+Subsec. (b)(2). Pub. L. 110–425, § 3(e)(2), substituted “5 years” for “3 years”, “10 years” for “6 years”, and “after a prior conviction for a felony drug offense has become final,” for “after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final,”.
 
-Subsec. (b)(3). Pub. L. 110–425, § 3(e)(3), substituted “4 years” for “2 years” and “after a prior conviction for a felony drug offense has become final,” for “after one or more convictions of him for an offense punishable under this paragraph, or for a crime under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final,” and inserted at end “Any sentence imposing a term of imprisonment under this paragraph may, if there was a prior conviction, impose a term of supervised release of not more than 1 year, in addition to such term of imprisonment.”
+Subsec. (b)(3). Pub. L. 110–425, § 3(e)(3), substituted “4 years” for “2 years” and “after a prior conviction for a felony drug offense has become final,” for “after one or more convictions of him for an offense punishable under this paragraph, or for a crime under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final,” and inserted at end “Any sentence imposing a term of imprisonment under this paragraph may, if there was a prior conviction, impose a term of supervised release of not more than 1 year, in addition to such term of imprisonment.”
 
-Subsec. (h). Pub. L. 110–425, § 3(f), added subsec. (h).
+Subsec. (h). Pub. L. 110–425, § 3(f), added subsec. (h).
 
-2006—Subsec. (b)(5). Pub. L. 109–177, § 732, inserted “or manufacturing” after “cultivating” in introductory provisions.
+2006—Subsec. (b)(5). Pub. L. 109–177, § 732, inserted “or manufacturing” after “cultivating” in introductory provisions.
 
-Subsec. (f)(1). Pub. L. 109–177, § 711(f)(1)(B), inserted “, except to the extent that paragraph (12), (13), or (14) of section 842(a) of this title applies,” after “shall”.
+Subsec. (f)(1). Pub. L. 109–177, § 711(f)(1)(B), inserted “, except to the extent that paragraph (12), (13), or (14) of section 842(a) of this title applies,” after “shall”.
 
 Subsec. (g). Pub. L. 109–248 added subsec. (g).
 
-2002—Subsec. (b)(1)(A), (B). Pub. L. 107–273, § 3005(a), substituted “Notwithstanding section 3583 of title 18, any sentence” for “Any sentence” in concluding provisions.
+2002—Subsec. (b)(1)(A), (B). Pub. L. 107–273, § 3005(a), substituted “Notwithstanding section 3583 of title 18, any sentence” for “Any sentence” in concluding provisions.
 
-Subsec. (b)(1)(C), (D). Pub. L. 107–273, § 3005(a), substituted “Notwithstanding section 3583 of title 18, any sentence” for “Any sentence”.
+Subsec. (b)(1)(C), (D). Pub. L. 107–273, § 3005(a), substituted “Notwithstanding section 3583 of title 18, any sentence” for “Any sentence”.
 
-Subsec. (d)(1). Pub. L. 107–273, § 4002(d)(2)(A)(i), substituted “or fined under title 18, or both” for “and shall be fined not more than $10,000”.
+Subsec. (d)(1). Pub. L. 107–273, § 4002(d)(2)(A)(i), substituted “or fined under title 18, or both” for “and shall be fined not more than $10,000”.
 
-Subsec. (d)(2). Pub. L. 107–273, § 4002(d)(2)(A)(ii), substituted “or fined under title 18, or both” for “and shall be fined not more than $20,000”.
+Subsec. (d)(2). Pub. L. 107–273, § 4002(d)(2)(A)(ii), substituted “or fined under title 18, or both” for “and shall be fined not more than $20,000”.
 
-2000—Subsec. (b)(1)(C). Pub. L. 106–172, § 3(b)(1)(A), inserted “gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000),” after “schedule I or II,” in first sentence.
+2000—Subsec. (b)(1)(C). Pub. L. 106–172, § 3(b)(1)(A), inserted “gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000),” after “schedule I or II,” in first sentence.
 
-Subsec. (b)(1)(D). Pub. L. 106–172, § 3(b)(1)(B), substituted “(other than gamma hydroxybutyric acid), or 30” for “, or 30”.
+Subsec. (b)(1)(D). Pub. L. 106–172, § 3(b)(1)(B), substituted “(other than gamma hydroxybutyric acid), or 30” for “, or 30”.
 
-Subsec. (b)(7)(A). Pub. L. 106–172, § 5(b), inserted “or controlled substance analogue” after “distributing a controlled substance”.
+Subsec. (b)(7)(A). Pub. L. 106–172, § 5(b), inserted “or controlled substance analogue” after “distributing a controlled substance”.
 
-Subsecs. (c) to (g). Pub. L. 106–172, § 9, redesignated subsecs. (d) to (g) as (c) to (f), respectively.
+Subsecs. (c) to (g). Pub. L. 106–172, § 9, redesignated subsecs. (d) to (g) as (c) to (f), respectively.
 
 1998—Subsec. (b)(1). Pub. L. 105–277 in subpar. (A)(viii) substituted “50 grams” and “500 grams” for “100 grams” and “1 kilogram”, respectively, and in subpar. (B)(viii) substituted “5 grams” and “50 grams” for “10 grams” and “100 grams”, respectively.
 
-1996—Subsec. (b)(1)(C). Pub. L. 104–305, § 2(b)(1)(A), inserted “, or 1 gram of flunitrazepam,” after “schedule I or II”.
+1996—Subsec. (b)(1)(C). Pub. L. 104–305, § 2(b)(1)(A), inserted “, or 1 gram of flunitrazepam,” after “schedule I or II”.
 
-Subsec. (b)(1)(D). Pub. L. 104–305, § 2(b)(1)(B), inserted “or 30 milligrams of flunitrazepam,” after “schedule III,”.
+Subsec. (b)(1)(D). Pub. L. 104–305, § 2(b)(1)(B), inserted “or 30 milligrams of flunitrazepam,” after “schedule III,”.
 
-Subsec. (b)(7). Pub. L. 104–305, § 2(a), added par. (7).
+Subsec. (b)(7). Pub. L. 104–305, § 2(a), added par. (7).
 
-Subsec. (d). Pub. L. 104–237, § 302(a), in concluding provisions, substituted “not more than 20 years in the case of a violation of paragraph (1) or (2) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (2) involving a list I chemical,” for “not more than 10 years,”.
+Subsec. (d). Pub. L. 104–237, § 302(a), in concluding provisions, substituted “not more than 20 years in the case of a violation of paragraph (1) or (2) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (2) involving a list I chemical,” for “not more than 10 years,”.
 
-Subsec. (f). Pub. L. 104–237, § 206(a), inserted “manufacture, exportation,” after “distribution,” and struck out “regulated” after “engaging in any”.
+Subsec. (f). Pub. L. 104–237, § 206(a), inserted “manufacture, exportation,” after “distribution,” and struck out “regulated” after “engaging in any”.
 
-1994—Subsec. (b). Pub. L. 103–322, § 180201(b)(2)(A), inserted “849,” before “859,” in introductory provisions.
+1994—Subsec. (b). Pub. L. 103–322, § 180201(b)(2)(A), inserted “849,” before “859,” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 103–322, §§ 90105(c), 180201(b)(2)(A), in concluding provisions, inserted “849,” before “859,” and struck out “For purposes of this subparagraph, the term ‘felony drug offense’ means an offense that is a felony under any provision of this subchapter or any other Federal law that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances or a felony under any law of a State or a foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances.” before “Any sentence under this subparagraph”.
+Subsec. (b)(1)(A). Pub. L. 103–322, §§ 90105(c), 180201(b)(2)(A), in concluding provisions, inserted “849,” before “859,” and struck out “For purposes of this subparagraph, the term ‘felony drug offense’ means an offense that is a felony under any provision of this subchapter or any other Federal law that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances or a felony under any law of a State or a foreign country that prohibits or restricts conduct relating to narcotic drugs, marihuana, or depressant or stimulant substances.” before “Any sentence under this subparagraph”.
 
-Subsec. (b)(1)(B). Pub. L. 103–322, § 90105(a), in sentence in concluding provisions beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
+Subsec. (b)(1)(B). Pub. L. 103–322, § 90105(a), in sentence in concluding provisions beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
 
-Subsec. (b)(1)(C). Pub. L. 103–322, § 90105(a), in sentence beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
+Subsec. (b)(1)(C). Pub. L. 103–322, § 90105(a), in sentence beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
 
-Subsec. (b)(1)(D). Pub. L. 103–322, § 90105(a), in sentence beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
+Subsec. (b)(1)(D). Pub. L. 103–322, § 90105(a), in sentence beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
 
-1990—Subsec. (b). Pub. L. 101–647, § 1002(e)(1), substituted “section 859, 860, or 861” for “section 845, 845a, or 845b” in introductory provisions.
+1990—Subsec. (b). Pub. L. 101–647, § 1002(e)(1), substituted “section 859, 860, or 861” for “section 845, 845a, or 845b” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 101–647, § 1002(e)(1), substituted “section 859, 860, or 861” for “section 845, 845a, or 845b” in concluding provisions.
+Subsec. (b)(1)(A). Pub. L. 101–647, § 1002(e)(1), substituted “section 859, 860, or 861” for “section 845, 845a, or 845b” in concluding provisions.
 
-Subsec. (b)(1)(A)(ii)(IV). Pub. L. 101–647, § 3599K, substituted “any of the substances” for “any of the substance”.
+Subsec. (b)(1)(A)(ii)(IV). Pub. L. 101–647, § 3599K, substituted “any of the substances” for “any of the substance”.
 
-Subsec. (b)(1)(A)(viii). Pub. L. 101–647, § 1202, substituted “or 1 kilogram or more of a mixture or substance containing a detectable amount of methamphetamine” for “or 100 grams or more of a mixture or substance containing a detectable amount of methamphetamine”.
+Subsec. (b)(1)(A)(viii). Pub. L. 101–647, § 1202, substituted “or 1 kilogram or more of a mixture or substance containing a detectable amount of methamphetamine” for “or 100 grams or more of a mixture or substance containing a detectable amount of methamphetamine”.
 
-Subsec. (b)(1)(B)(ii)(IV). Pub. L. 101–647, § 3599K, substituted “any of the substances” for “any of the substance”.
+Subsec. (b)(1)(B)(ii)(IV). Pub. L. 101–647, § 3599K, substituted “any of the substances” for “any of the substance”.
 
-Subsec. (c). Pub. L. 101–647, § 1002(e)(2), directed amendment of subsec. (c) by substituting “section 859, 860, or 861 of this title” for “section 845, 845a, or 845b of this title”. Subsec. (c) was previously repealed by Pub. L. 98–473, § 224(a)(2), as renumbered by Pub. L. 99–570, § 1005(a), effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment. See 1984 Amendment note and Effective Date of 1984 Amendment note below.
+Subsec. (c). Pub. L. 101–647, § 1002(e)(2), directed amendment of subsec. (c) by substituting “section 859, 860, or 861 of this title” for “section 845, 845a, or 845b of this title”. Subsec. (c) was previously repealed by Pub. L. 98–473, § 224(a)(2), as renumbered by Pub. L. 99–570, § 1005(a), effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment. See 1984 Amendment note and Effective Date of 1984 Amendment note below.
 
-1988—Subsec. (b)(1)(A). Pub. L. 100–690, §§ 6452(a), 6470(g), 6479(1), inserted “, or 1,000 or more marihuana plants regardless of weight” in cl. (vii), added cl. (viii), substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final” in second sentence, and added provisions relating to sentencing for a person who violates this subpar. or section 485, 485a, or 485b of this title after two or more prior convictions for a felony drug offense have become final and defining “felony drug offense”.
+1988—Subsec. (b)(1)(A). Pub. L. 100–690, §§ 6452(a), 6470(g), 6479(1), inserted “, or 1,000 or more marihuana plants regardless of weight” in cl. (vii), added cl. (viii), substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final” in second sentence, and added provisions relating to sentencing for a person who violates this subpar. or section 485, 485a, or 485b of this title after two or more prior convictions for a felony drug offense have become final and defining “felony drug offense”.
 
-Subsec. (b)(1)(B). Pub. L. 100–690, §§ 6470(h), 6479(2), inserted “, or 100 or more marihuana plants regardless of weight” in cl. (vii) and added cl. (viii).
+Subsec. (b)(1)(B). Pub. L. 100–690, §§ 6470(h), 6479(2), inserted “, or 100 or more marihuana plants regardless of weight” in cl. (vii) and added cl. (viii).
 
-Subsec. (b)(1)(D). Pub. L. 100–690, § 6479(3), substituted “50 or more marihuana plants” for “100 or more marihuana plants”.
+Subsec. (b)(1)(D). Pub. L. 100–690, § 6479(3), substituted “50 or more marihuana plants” for “100 or more marihuana plants”.
 
-Subsec. (b)(6). Pub. L. 100–690, § 6254(h), added par. (6).
+Subsec. (b)(6). Pub. L. 100–690, § 6254(h), added par. (6).
 
-Subsec. (d). Pub. L. 100–690, § 6055(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any person who knowingly or intentionally—
+Subsec. (d). Pub. L. 100–690, § 6055(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any person who knowingly or intentionally—
 
 “(1) possesses any piperidine with intent to manufacture phencyclidine except as authorized by this subchapter, or
 
@@ -5493,13 +5493,13 @@ Subsec. (d). Pub. L. 100–690, § 6055(a), amended subsec. (d) generally. Pri
 
 shall be sentenced to a term of imprisonment of not more than 5 years, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual, or both.”
 
-Subsecs. (f), (g). Pub. L. 100–690, § 6055(b), added subsecs. (f) and (g).
+Subsecs. (f), (g). Pub. L. 100–690, § 6055(b), added subsecs. (f) and (g).
 
-1986—Pub. L. 99–570, § 1005(a), amended Pub. L. 98–473, § 224(a). See 1984 Amendment note below.
+1986—Pub. L. 99–570, § 1005(a), amended Pub. L. 98–473, § 224(a). See 1984 Amendment note below.
 
-Subsec. (b). Pub. L. 99–570, § 1103(a), substituted “, 845a, or 845b” for “or 845a” in introductory provisions.
+Subsec. (b). Pub. L. 99–570, § 1103(a), substituted “, 845a, or 845b” for “or 845a” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 99–570, § 1002(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a violation of subsection (a) of this section involving—
+Subsec. (b)(1)(A). Pub. L. 99–570, § 1002(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a violation of subsection (a) of this section involving—
 
 “(i) 100 grams or more of a controlled substance in schedule I or II which is a mixture or substance containing a detectable amount of a narcotic drug other than a narcotic drug consisting of—
 
@@ -5517,71 +5517,71 @@ Subsec. (b)(1)(A). Pub. L. 99–570, § 1002(2), amended subpar. (A) generally
 
 such person shall be sentenced to a term of imprisonment of not more than 20 years, a fine of not more than $250,000, or both. If any person commits such a violation after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 40 years, a fine of not more than $500,000, or both”.
 
-Subsec. (b)(1)(B). Pub. L. 99–570, § 1002(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In the case of a controlled substance in schedule I or II except as provided in subparagraphs (A) and (C),, such person shall be sentenced to a term of imprisonment of not more than 15 years, a fine of not more than $125,000, or both. If any person commits such a violation after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 30 years, a fine of not more than $250,000, or both. Any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a special parole term of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a special parole term of at least 6 years in addition to such term of imprisonment.”
+Subsec. (b)(1)(B). Pub. L. 99–570, § 1002(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In the case of a controlled substance in schedule I or II except as provided in subparagraphs (A) and (C),, such person shall be sentenced to a term of imprisonment of not more than 15 years, a fine of not more than $125,000, or both. If any person commits such a violation after one or more prior convictions of him for an offense punishable under this paragraph, or for a felony under any other provision of this subchapter or subchapter II of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 30 years, a fine of not more than $250,000, or both. Any sentence imposing a term of imprisonment under this paragraph shall, in the absence of such a prior conviction, impose a special parole term of at least 3 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a special parole term of at least 6 years in addition to such term of imprisonment.”
 
-Subsec. (b)(1)(C). Pub. L. 99–570, § 1002(2), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (b)(1)(C). Pub. L. 99–570, § 1002(2), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(1)(D). Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term” in two places.
+Subsec. (b)(1)(D). Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term” in two places.
 
-Pub. L. 99–570, §§ 1002(1), 1003(a)(1), redesignated former subpar. (C) as (D), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $50,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $500,000 if the defendant is an individual or $2,000,000 if the defendant is other than an individual” for “a fine of not more than $100,000”, and inserted “except in the case of 100 or more marihuana plants regardless of weight,”.
+Pub. L. 99–570, §§ 1002(1), 1003(a)(1), redesignated former subpar. (C) as (D), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $50,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $500,000 if the defendant is an individual or $2,000,000 if the defendant is other than an individual” for “a fine of not more than $100,000”, and inserted “except in the case of 100 or more marihuana plants regardless of weight,”.
 
-Subsec. (b)(2). Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term” in two places.
+Subsec. (b)(2). Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term” in two places.
 
-Pub. L. 99–570, § 1003(a)(2), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $25,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $500,000 if the defendant is an individual or $2,000,000 if the defendant is other than an individual” for “a fine of not more than $50,000”.
+Pub. L. 99–570, § 1003(a)(2), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $25,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $500,000 if the defendant is an individual or $2,000,000 if the defendant is other than an individual” for “a fine of not more than $50,000”.
 
-Subsec. (b)(3). Pub. L. 99–570, § 1003(a)(3), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $100,000 if the defendant is an individual or $250,000 if the defendant is other than an individual” for “a fine of not more than $10,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $200,000 if the defendant is an individual or $500,000 if the defendant is other than an individual” for “a fine of not more than $20,000”.
+Subsec. (b)(3). Pub. L. 99–570, § 1003(a)(3), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $100,000 if the defendant is an individual or $250,000 if the defendant is other than an individual” for “a fine of not more than $10,000” and “a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $200,000 if the defendant is an individual or $500,000 if the defendant is other than an individual” for “a fine of not more than $20,000”.
 
-Subsec. (b)(4). Pub. L. 99–570, § 1003(a)(4), which directed the substitution of “1(D)” for “1(C)” was executed by substituting “(1)(D)” for “(1)(C)” as the probable intent of Congress.
+Subsec. (b)(4). Pub. L. 99–570, § 1003(a)(4), which directed the substitution of “1(D)” for “1(C)” was executed by substituting “(1)(D)” for “(1)(C)” as the probable intent of Congress.
 
-Subsec. (b)(5). Pub. L. 99–570, § 1003(a)(5), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Notwithstanding paragraph (1), any person who violates subsection (a) of this section by cultivating a controlled substance on Federal property shall be fined not more than—
+Subsec. (b)(5). Pub. L. 99–570, § 1003(a)(5), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Notwithstanding paragraph (1), any person who violates subsection (a) of this section by cultivating a controlled substance on Federal property shall be fined not more than—
 
 “(A) $500,000 if such person is an individual; and
 
 “(B) $1,000,000 if such person is not an individual.”
 
-Subsec. (c). Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term” wherever appearing, effective Nov. 1, 1987, the effective date of the repeal of subsec. (c) by Pub. L. 98–473, § 224(a)(2). See 1984 Amendment note below.
+Subsec. (c). Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term” wherever appearing, effective Nov. 1, 1987, the effective date of the repeal of subsec. (c) by Pub. L. 98–473, § 224(a)(2). See 1984 Amendment note below.
 
-Pub. L. 99–570, § 1103(b), substituted “, 845a, or 845b” for “845a” in two places.
+Pub. L. 99–570, § 1103(b), substituted “, 845a, or 845b” for “845a” in two places.
 
-Subsec. (d). Pub. L. 99–570, § 1003(a)(6), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $15,000”.
+Subsec. (d). Pub. L. 99–570, § 1003(a)(6), substituted “a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “a fine of not more than $15,000”.
 
-Subsec. (e). Pub. L. 99–570, § 15005, added subsec. (e).
+Subsec. (e). Pub. L. 99–570, § 15005, added subsec. (e).
 
-1984—Subsec. (b). Pub. L. 98–473, § 503(b)(1), inserted reference to section 845a of this title in provisions preceding par. (1)(A).
+1984—Subsec. (b). Pub. L. 98–473, § 503(b)(1), inserted reference to section 845a of this title in provisions preceding par. (1)(A).
 
-Pub. L. 98–473, § 224(a)(1)–(3), (5), which directed amendment of this subsection effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was repealed by Pub. L. 99–570, § 1005(a), and the remaining pars. (4) and (6) of Pub. L. 98–473, § 224(a), were redesignated as pars. (1) and (2), respectively.
+Pub. L. 98–473, § 224(a)(1)–(3), (5), which directed amendment of this subsection effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was repealed by Pub. L. 99–570, § 1005(a), and the remaining pars. (4) and (6) of Pub. L. 98–473, § 224(a), were redesignated as pars. (1) and (2), respectively.
 
-Subsec. (b)(1)(A). Pub. L. 98–473, § 502(1)(A), added subpar. (A). Former subpar. (A) redesignated (B).
+Subsec. (b)(1)(A). Pub. L. 98–473, § 502(1)(A), added subpar. (A). Former subpar. (A) redesignated (B).
 
-Subsec. (b)(1)(B). Pub. L. 98–473, § 502(1)(A), (B), redesignated former subpar. (A) as (B), substituted “except as provided in subparagraphs (A) and (C),” for “which is a narcotic drug”, “$125,000” for “$25,000”, and “$250,000” for “$50,000”, and inserted references to laws of a State and a foreign country. Former subpar. (B) redesignated (C).
+Subsec. (b)(1)(B). Pub. L. 98–473, § 502(1)(A), (B), redesignated former subpar. (A) as (B), substituted “except as provided in subparagraphs (A) and (C),” for “which is a narcotic drug”, “$125,000” for “$25,000”, and “$250,000” for “$50,000”, and inserted references to laws of a State and a foreign country. Former subpar. (B) redesignated (C).
 
-Subsec. (b)(1)(C). Pub. L. 98–473, § 502(1)(A), (C), redesignated former subpar. (B) as (C), substituted “less than 50 kilograms of marihuana, 10 kilograms of hashish, or one kilogram of hashish oil” for “a controlled substance in schedule I or II which is not a narcotic drug”, “and (5)” for “, (5), and (6)”, “$50,000” for “$15,000”, and “$100,000” for “$30,000”, and inserted references to laws of a State and a foreign country.
+Subsec. (b)(1)(C). Pub. L. 98–473, § 502(1)(A), (C), redesignated former subpar. (B) as (C), substituted “less than 50 kilograms of marihuana, 10 kilograms of hashish, or one kilogram of hashish oil” for “a controlled substance in schedule I or II which is not a narcotic drug”, “and (5)” for “, (5), and (6)”, “$50,000” for “$15,000”, and “$100,000” for “$30,000”, and inserted references to laws of a State and a foreign country.
 
-Subsec. (b)(2). Pub. L. 98–473, § 502(2), substituted “$25,000” for “$10,000” and “$50,000” for “$20,000”, and inserted references to laws of a State or of a foreign country.
+Subsec. (b)(2). Pub. L. 98–473, § 502(2), substituted “$25,000” for “$10,000” and “$50,000” for “$20,000”, and inserted references to laws of a State or of a foreign country.
 
-Subsec. (b)(3). Pub. L. 98–473, § 502(3), substituted “$10,000” for “$5,000” and “$20,000” for “$10,000”, and inserted references to laws of a State or of a foreign country.
+Subsec. (b)(3). Pub. L. 98–473, § 502(3), substituted “$10,000” for “$5,000” and “$20,000” for “$10,000”, and inserted references to laws of a State or of a foreign country.
 
-Subsec. (b)(4). Pub. L. 98–473, § 502(4), substituted “(1)(C)” for “(1)(B)”.
+Subsec. (b)(4). Pub. L. 98–473, § 502(4), substituted “(1)(C)” for “(1)(B)”.
 
-Pub. L. 98–473, § 224(a)(1), as renumbered by Pub. L. 99–570, § 1005(a), substituted “in section 844 of this title and section 3607 of title 18” for “in subsections (a) and (b) of section 844 of this title”.
+Pub. L. 98–473, § 224(a)(1), as renumbered by Pub. L. 99–570, § 1005(a), substituted “in section 844 of this title and section 3607 of title 18” for “in subsections (a) and (b) of section 844 of this title”.
 
-Subsec. (b)(5). Pub. L. 98–473, § 502(5), (6), added par. (5) and struck out former par. (5) which related to penalties for manufacturing, etc., phencyclidine.
+Subsec. (b)(5). Pub. L. 98–473, § 502(5), (6), added par. (5) and struck out former par. (5) which related to penalties for manufacturing, etc., phencyclidine.
 
-Subsec. (b)(6). Pub. L. 98–473, § 502(5), struck out par. (6) which related to penalties for violations involving a quantity of marihuana exceeding 1,000 pounds.
+Subsec. (b)(6). Pub. L. 98–473, § 502(5), struck out par. (6) which related to penalties for violations involving a quantity of marihuana exceeding 1,000 pounds.
 
-Subsec. (c). Pub. L. 98–473, § 224(a)(2), as renumbered by Pub. L. 99–570, § 1005(a), struck out subsec. (c) which read as follows: “A special parole term imposed under this section or section 845, 845a, or 845b of this title may be revoked if its terms and conditions are violated. In such circumstances the original term of imprisonment shall be increased by the period of the special parole term and the resulting new term of imprisonment shall not be diminished by the time which was spent on special parole. A person whose special parole term has been revoked may be required to serve all or part of the remainder of the new term of imprisonment. A special parole term provided for in this section or section 845, 845a, or 845b of this title shall be in addition to, and not in lieu of, any other parole provided for by law.”
+Subsec. (c). Pub. L. 98–473, § 224(a)(2), as renumbered by Pub. L. 99–570, § 1005(a), struck out subsec. (c) which read as follows: “A special parole term imposed under this section or section 845, 845a, or 845b of this title may be revoked if its terms and conditions are violated. In such circumstances the original term of imprisonment shall be increased by the period of the special parole term and the resulting new term of imprisonment shall not be diminished by the time which was spent on special parole. A person whose special parole term has been revoked may be required to serve all or part of the remainder of the new term of imprisonment. A special parole term provided for in this section or section 845, 845a, or 845b of this title shall be in addition to, and not in lieu of, any other parole provided for by law.”
 
-Pub. L. 98–473, § 503(b)(2), inserted reference to section 845a of this title in two places.
+Pub. L. 98–473, § 503(b)(2), inserted reference to section 845a of this title in two places.
 
-1980—Subsec. (b)(1)(B). Pub. L. 96–359, § 8(c)(1), inserted reference to par. (6) of this subsection.
+1980—Subsec. (b)(1)(B). Pub. L. 96–359, § 8(c)(1), inserted reference to par. (6) of this subsection.
 
-Subsec. (b)(6). Pub. L. 96–359, § 8(c)(2), added par. (6).
+Subsec. (b)(6). Pub. L. 96–359, § 8(c)(2), added par. (6).
 
-1978—Subsec. (b)(1)(B). Pub. L. 95–633, § 201(1), inserted “, except as provided in paragraphs (4) and (5) of this subsection,” after “such person shall”.
+1978—Subsec. (b)(1)(B). Pub. L. 95–633, § 201(1), inserted “, except as provided in paragraphs (4) and (5) of this subsection,” after “such person shall”.
 
-Subsec. (b)(5). Pub. L. 95–633, § 201(2), added par. (5).
+Subsec. (b)(5). Pub. L. 95–633, § 201(2), added par. (5).
 
-Subsec. (d). Pub. L. 95–633, § 201(3), added subsec. (d).
+Subsec. (d). Pub. L. 95–633, § 201(3), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5599,7 +5599,7 @@ Amendment by section 6055 of Pub. L. 100–690 effective 120 days after Nov. 18,
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–570, title I, § 1004(b), Oct. 27, 1986, 100 Stat. 3207–6, provided that: “The amendments made by this section [amending this section and sections 845, 845a, 960, and 962 of this title] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code [Nov. 1, 1987].”
+Pub. L. 99–570, title I, § 1004(b), Oct. 27, 1986, 100 Stat. 3207–6, provided that: “The amendments made by this section [amending this section and sections 845, 845a, 960, and 962 of this title] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code [Nov. 1, 1987].”
 
 **Effective Date of 1984 Amendment**
 
@@ -5615,15 +5615,15 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 **Repeals**
 
-Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsec. (d) of this section effective Jan. 1, 1981.
+Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsec. (d) of this section effective Jan. 1, 1981.
 
 **Construction of 2025 Amendment**
 
-Pub. L. 119–26, § 7(b), July 16, 2025, 139 Stat. 418, provided that: “Nothing in the amendments made by this Act [see Short Title of 2025 Amendment note set out under section 801 of this title] may be construed as evidence that, in applying sections 401(b)(1) of the Controlled Substances Act (21 U.S.C. 841(b)(1)) and 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)) with respect to conduct occurring before the date of the enactment of this Act [July 16, 2025], a fentanyl-related substance (as defined by such amendments) is not an analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide.”
+Pub. L. 119–26, § 7(b), July 16, 2025, 139 Stat. 418, provided that: “Nothing in the amendments made by this Act [see Short Title of 2025 Amendment note set out under section 801 of this title] may be construed as evidence that, in applying sections 401(b)(1) of the Controlled Substances Act (21 U.S.C. 841(b)(1)) and 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)) with respect to conduct occurring before the date of the enactment of this Act [July 16, 2025], a fentanyl-related substance (as defined by such amendments) is not an analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide.”
 
 **Application of Fair Sentencing Act**
 
-Pub. L. 115–391, title IV, § 404, Dec. 21, 2018, 132 Stat. 5222, provided that:
+Pub. L. 115–391, title IV, § 404, Dec. 21, 2018, 132 Stat. 5222, provided that:
 
 > **“(a) Definition of Covered Offense.—** In this section, the term ‘covered offense’ means a violation of a Federal criminal statute, the statutory penalties for which were modified by section 2 or 3 of the Fair Sentencing Act of 2010 (Public Law 111–220; 124 Stat. 2372) [amending this section and sections 844 and 960 of this title], that was committed before August 3, 2010.
 
@@ -5631,7 +5631,7 @@ Pub. L. 115–391, title IV, § 404, Dec. 21, 2018, 132 Stat. 5222, provided t
 
 > **“(c) Limitations.—** No court shall entertain a motion made under this section to reduce a sentence if the sentence was previously imposed or previously reduced in accordance with the amendments made by sections 2 and 3 of the Fair Sentencing Act of 2010 (Public Law 111–220; 124 Stat. 2372) or if a previous motion made under this section to reduce the sentence was, after the date of enactment of this Act [Dec. 21, 2018], denied after a complete review of the motion on the merits. Nothing in this section shall be construed to require a court to reduce any sentence pursuant to this section.”
 
-#### § 842. Prohibited acts B
+#### § 842. Prohibited acts B
 
 **(a) Unlawful acts** It shall be unlawful for any person—
 
@@ -5653,7 +5653,7 @@ Pub. L. 115–391, title IV, § 404, Dec. 21, 2018, 132 Stat. 5222, provided t
 
 **(9)** who is a regulated person to engage in a regulated transaction without obtaining the identification required by 830(a)(3) of this title.1
 
-<sup>1</sup>  So in original. Probably should be “section 830(a)(3) of this title;”.
+<sup>1</sup> So in original. Probably should be “section 830(a)(3) of this title;”.
 
 **(10)** negligently to fail to keep a record or make a report under section 830 of this title or negligently to fail to self-certify as required under section 830 of this title;
 
@@ -5671,9 +5671,9 @@ Pub. L. 115–391, title IV, § 404, Dec. 21, 2018, 132 Stat. 5222, provided t
 
 **(15)** to distribute a scheduled listed chemical product to a regulated seller, or to a regulated person referred to in section 830(b)(3)(B) of this title, unless such regulated seller or regulated person is, at the time of such distribution, currently registered with the Drug Enforcement Administration, or on the list of persons referred to under section 830(e)(1)(B)(v) of this title;
 
-**(16)** to violate subsection (e) of section 825 of this title; 2
+**(16)** to violate subsection (e) of section 825 of this title; 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 or
 
@@ -5721,7 +5721,7 @@ As used in paragraph (11), the term “laboratory supply” means a listed chemi
 
 **(B)** An order under subparagraph (A) may be imposed only through the same procedures as apply under section 824(c) of this title for an order to show cause.
 
-(Pub. L. 91–513, title II, § 402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, § 202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, § 6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, § 205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, § 101(b) [title I, § 117], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 107–273, div. B, title IV, § 4002(b)(16), (d)(2)(B), Nov. 2, 2002, 116 Stat. 1808, 1809; Pub. L. 109–177, title VII, §§ 711(f)(1)(A), (2), 714, Mar. 9, 2006, 120 Stat. 262–264; Pub. L. 111–268, §§ 4, 5, Oct. 12, 2010, 124 Stat. 2847, 2848; Pub. L. 113–260, § 3(c), Dec. 18, 2014, 128 Stat. 2931; Pub. L. 115–271, title III, § 3273(c), Oct. 24, 2018, 132 Stat. 3953.)
+(Pub. L. 91–513, title II, § 402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, § 202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, § 6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, § 205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, § 101(b) [title I, § 117], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 107–273, div. B, title IV, § 4002(b)(16), (d)(2)(B), Nov. 2, 2002, 116 Stat. 1808, 1809; Pub. L. 109–177, title VII, §§ 711(f)(1)(A), (2), 714, Mar. 9, 2006, 120 Stat. 262–264; Pub. L. 111–268, §§ 4, 5, Oct. 12, 2010, 124 Stat. 2847, 2848; Pub. L. 113–260, § 3(c), Dec. 18, 2014, 128 Stat. 2931; Pub. L. 115–271, title III, § 3273(c), Oct. 24, 2018, 132 Stat. 3953.)
 
 **Editorial Notes**
 
@@ -5733,59 +5733,59 @@ Schedules I and II, referred to in subsec. (b), are set out in section 812(c) of
 
 **Amendments**
 
-2018—Subsec. (a)(17). Pub. L. 115–271, § 3273(c)(1), added par. (17).
+2018—Subsec. (a)(17). Pub. L. 115–271, § 3273(c)(1), added par. (17).
 
-Subsec. (c)(1)(B). Pub. L. 115–271, § 3273(c)(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “In the case of a violation of paragraph (5) or (10) of subsection (a), the civil penalty shall not exceed $10,000.”
+Subsec. (c)(1)(B). Pub. L. 115–271, § 3273(c)(2)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “In the case of a violation of paragraph (5) or (10) of subsection (a), the civil penalty shall not exceed $10,000.”
 
-Subsec. (c)(2)(A). Pub. L. 115–271, § 3273(c)(2)(B)(i), inserted “or (D)” after “subparagraph (B)”.
+Subsec. (c)(2)(A). Pub. L. 115–271, § 3273(c)(2)(B)(i), inserted “or (D)” after “subparagraph (B)”.
 
-Subsec. (c)(2)(D). Pub. L. 115–271, § 3273(c)(2)(B)(ii), added subpar. (D).
+Subsec. (c)(2)(D). Pub. L. 115–271, § 3273(c)(2)(B)(ii), added subpar. (D).
 
-2014—Subsec. (a)(16). Pub. L. 113–260, § 3(c)(1), added par. (16).
+2014—Subsec. (a)(16). Pub. L. 113–260, § 3(c)(1), added par. (16).
 
-Subsec. (c)(1)(A). Pub. L. 113–260, § 3(c)(2)(A), inserted “, (C), or (D)” after “subparagraph (B)”.
+Subsec. (c)(1)(A). Pub. L. 113–260, § 3(c)(2)(A), inserted “, (C), or (D)” after “subparagraph (B)”.
 
-Subsec. (c)(1)(C), (D). Pub. L. 113–260, § 3(c)(2)(B), added subpars. (C) and (D).
+Subsec. (c)(1)(C), (D). Pub. L. 113–260, § 3(c)(2)(B), added subpars. (C) and (D).
 
-2010—Subsec. (a). Pub. L. 111–268, § 4(4), inserted “For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 830(e)(1)(B)(v) of this title, the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under section 830(e)(1)(B)(v) of this title.” at end of concluding provisions.
+2010—Subsec. (a). Pub. L. 111–268, § 4(4), inserted “For purposes of paragraph (15), if the distributor is temporarily unable to access the list of persons referred to under section 830(e)(1)(B)(v) of this title, the distributor may rely on a written, faxed, or electronic copy of a certificate of self-certification submitted by the regulated seller or regulated person, provided the distributor confirms within 7 business days of the distribution that such regulated seller or regulated person is on the list referred to under section 830(e)(1)(B)(v) of this title.” at end of concluding provisions.
 
-Subsec. (a)(10). Pub. L. 111–268, § 5, inserted “or negligently to fail to self-certify as required under section 830 of this title” before semicolon.
+Subsec. (a)(10). Pub. L. 111–268, § 5, inserted “or negligently to fail to self-certify as required under section 830 of this title” before semicolon.
 
-Subsec. (a)(15). Pub. L. 111–268, § 4(1)–(3), added par. (15).
+Subsec. (a)(15). Pub. L. 111–268, § 4(1)–(3), added par. (15).
 
-2006—Subsec. (a)(12) to (14). Pub. L. 109–177, § 711(f)(1)(A), added pars. (12) to (14).
+2006—Subsec. (a)(12) to (14). Pub. L. 109–177, § 711(f)(1)(A), added pars. (12) to (14).
 
-Subsec. (b). Pub. L. 109–177, § 714, inserted “, or ephedrine, pseudoephedrine, or phenylpropanolamine or any of the salts, optical isomers, or salts of optical isomers of such chemical,” after “manufacture a controlled substance in schedule I or II” in introductory provisions.
+Subsec. (b). Pub. L. 109–177, § 714, inserted “, or ephedrine, pseudoephedrine, or phenylpropanolamine or any of the salts, optical isomers, or salts of optical isomers of such chemical,” after “manufacture a controlled substance in schedule I or II” in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 109–177, § 711(f)(2), added par. (4).
+Subsec. (c)(4). Pub. L. 109–177, § 711(f)(2), added par. (4).
 
-2002—Subsec. (c)(2)(A). Pub. L. 107–273, § 4002(d)(2)(B)(i), substituted “under title 18” for “of not more than $25,000”.
+2002—Subsec. (c)(2)(A). Pub. L. 107–273, § 4002(d)(2)(B)(i), substituted “under title 18” for “of not more than $25,000”.
 
-Subsec. (c)(2)(B). Pub. L. 107–273, § 4002(d)(2)(B)(ii), substituted “under title 18” for “of $50,000”.
+Subsec. (c)(2)(B). Pub. L. 107–273, § 4002(d)(2)(B)(ii), substituted “under title 18” for “of $50,000”.
 
-Subsec. (c)(2)(C). Pub. L. 107–273, § 4002(b)(16), realigned margins.
+Subsec. (c)(2)(C). Pub. L. 107–273, § 4002(b)(16), realigned margins.
 
-1998—Subsec. (a)(5). Pub. L. 105–277, § 101(b) [title I, § 117(1)], inserted “negligently” before “fail”.
+1998—Subsec. (a)(5). Pub. L. 105–277, § 101(b) [title I, § 117(1)], inserted “negligently” before “fail”.
 
-Subsec. (a)(10). Pub. L. 105–277, § 101(b) [title I, § 117(2)], inserted “negligently” before “to fail”.
+Subsec. (a)(10). Pub. L. 105–277, § 101(b) [title I, § 117(2)], inserted “negligently” before “to fail”.
 
-Subsec. (c)(1). Pub. L. 105–277, § 101(b) [title I, § 117(3)], designated existing provisions as subpar. (A), inserted “subparagraph (B) of this paragraph and” before “paragraph (2)”, and added subpar. (B).
+Subsec. (c)(1). Pub. L. 105–277, § 101(b) [title I, § 117(3)], designated existing provisions as subpar. (A), inserted “subparagraph (B) of this paragraph and” before “paragraph (2)”, and added subpar. (B).
 
-1996—Subsec. (a). Pub. L. 104–237, § 205(a), added par. (11) and closing provisions.
+1996—Subsec. (a). Pub. L. 104–237, § 205(a), added par. (11) and closing provisions.
 
-Subsec. (c)(2)(C). Pub. L. 104–237, § 205(b), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 104–237, § 205(b), added subpar. (C).
 
-1988—Subsec. (a)(8). Pub. L. 100–690, § 6056(a), inserted “, or to use to his own advantage or reveal (other than as authorized by section 830 of this title) any information that is confidential under such section” after “protection”.
+1988—Subsec. (a)(8). Pub. L. 100–690, § 6056(a), inserted “, or to use to his own advantage or reveal (other than as authorized by section 830 of this title) any information that is confidential under such section” after “protection”.
 
-Subsec. (a)(9). Pub. L. 100–690, § 6056(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “to distribute or sell piperidine in violation of regulations established under section 830(a)(2) of this title, respecting presentation of identification.”
+Subsec. (a)(9). Pub. L. 100–690, § 6056(b), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “to distribute or sell piperidine in violation of regulations established under section 830(a)(2) of this title, respecting presentation of identification.”
 
-Subsec. (a)(10). Pub. L. 100–690, § 6056(d), added par. (10).
+Subsec. (a)(10). Pub. L. 100–690, § 6056(d), added par. (10).
 
-Subsec. (c)(2)(C). Pub. L. 100–690, § 6056(c), struck out subpar. (C) which read as follows: “Subparagraphs (A) and (B) shall not apply to a violation of subsection (a)(5) of this section with respect to a refusal or failure to make a report required under section 830(a) of this title (relating to piperidine reporting).”
+Subsec. (c)(2)(C). Pub. L. 100–690, § 6056(c), struck out subpar. (C) which read as follows: “Subparagraphs (A) and (B) shall not apply to a violation of subsection (a)(5) of this section with respect to a refusal or failure to make a report required under section 830(a) of this title (relating to piperidine reporting).”
 
-1978—Subsec. (a)(9). Pub. L. 95–633, § 202(b)(1), added par. (9).
+1978—Subsec. (a)(9). Pub. L. 95–633, § 202(b)(1), added par. (9).
 
-Subsec. (c)(2)(C). Pub. L. 95–633, § 202(b)(2), added subpar. (C).
+Subsec. (c)(2)(C). Pub. L. 95–633, § 202(b)(2), added subpar. (C).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5807,9 +5807,9 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 **Repeals**
 
-Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsecs. (a)(9) and (c)(2)(C) of this section effective Jan. 1, 1981.
+Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsecs. (a)(9) and (c)(2)(C) of this section effective Jan. 1, 1981.
 
-#### § 843. Prohibited acts C
+#### § 843. Prohibited acts C
 
 **(a) Unlawful acts** It shall be unlawful for any person knowingly or intentionally—
 
@@ -5839,11 +5839,11 @@ It shall be unlawful for any person knowingly or intentionally to use any commun
 
 **(c) Advertisement**
 
-**(1)** It shall be unlawful for any person to place in any newspaper, magazine, handbill, or other publications, any written advertisement knowing that it has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule 1
+**(1)** It shall be unlawful for any person to place in any newspaper, magazine, handbill, or other publications, any written advertisement knowing that it has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
-I controlled substance. As used in this section the term “advertisement” includes, in addition to its ordinary meaning, such advertisements as those for a catalog of Schedule 1 I controlled substances and any similar written advertisement that has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule 1 I controlled substance. The term “advertisement” does not include material which merely advocates the use of a similar material, which advocates a position or practice, and does not attempt to propose or facilitate an actual transaction in a Schedule 1 I controlled substance.
+I controlled substance. As used in this section the term “advertisement” includes, in addition to its ordinary meaning, such advertisements as those for a catalog of Schedule 1 I controlled substances and any similar written advertisement that has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule 1 I controlled substance. The term “advertisement” does not include material which merely advocates the use of a similar material, which advocates a position or practice, and does not attempt to propose or facilitate an actual transaction in a Schedule 1 I controlled substance.
 
 **(2)**
 
@@ -5865,9 +5865,9 @@ I controlled substance. As used in this section the term “advertisement” inc
 
 **(A)** for a violation of paragraph (6) or (7) of subsection (a);
 
-**(B)** for a felony under any other provision of this subchapter or subchapter II of this chapter; 2
+**(B)** for a felony under any other provision of this subchapter or subchapter II of this chapter; 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 or
 
@@ -5881,9 +5881,9 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 **(f) Injunctions**
 
-**(1)** In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, section 842 of this title, or 856 3
+**(1)** In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, section 842 of this title, or 856 3
 
-<sup>3</sup>  So in original. Probably should be preceded by “section”.
+<sup>3</sup> So in original. Probably should be preceded by “section”.
 
 of this title.
 
@@ -5893,7 +5893,7 @@ of this title.
 
 **(4)** The court shall proceed as soon as practicable to the hearing and determination of such an action. An action under this subsection is governed by the Federal Rules of Civil Procedure except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
 
-(Pub. L. 91–513, title II, § 403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, § 202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, § 516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, § 1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, § 6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, § 3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, § 90106, Sept. 13, 1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§ 203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103; Pub. L. 107–273, div. B, title IV, § 4002(d)(2)(C), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 108–21, title VI, § 608(d), Apr. 30, 2003, 117 Stat. 691; Pub. L. 110–425, § 3(g), Oct. 15, 2008, 122 Stat. 4830; Pub. L. 117–215, title I, § 103(b)(1)(H), Dec. 2, 2022, 136 Stat. 2263.)
+(Pub. L. 91–513, title II, § 403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, § 202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, § 516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, § 1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, § 6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, § 3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, § 90106, Sept. 13, 1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§ 203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103; Pub. L. 107–273, div. B, title IV, § 4002(d)(2)(C), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 108–21, title VI, § 608(d), Apr. 30, 2003, 117 Stat. 691; Pub. L. 110–425, § 3(g), Oct. 15, 2008, 122 Stat. 4830; Pub. L. 117–215, title I, § 103(b)(1)(H), Dec. 2, 2022, 136 Stat. 2263.)
 
 **Editorial Notes**
 
@@ -5903,7 +5903,7 @@ Schedules I and II, referred to in subsecs. (a)(1) and (c)(1), are set out in se
 
 This subchapter, referred to in subsec. (c)(2)(A), (C)(i), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (c)(2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (c)(2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
 This subchapter or subchapter II of this chapter, referred to in subsec. (d)(2)(B), was in the original a reference to “this subchapter or subchapter II of this chapter” but probably should be a reference to “this title or title III of this Act”, meaning titles II and III, respectively, of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, 1285.
 
@@ -5921,33 +5921,33 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (f)(4), are set 
 
 2002—Subsec. (d). Pub. L. 107–273 substituted “under title 18, or both;” for “of not more than $30,000, or both;” in two places and “under title 18, or both.” for “of not more than $60,000, or both.” in two places.
 
-1996—Subsec. (d). Pub. L. 104–237, § 203(a), inserted par. (1) designation, substituted “Except as provided in paragraph (2), any person” for “Any person”, and added par. (2).
+1996—Subsec. (d). Pub. L. 104–237, § 203(a), inserted par. (1) designation, substituted “Except as provided in paragraph (2), any person” for “Any person”, and added par. (2).
 
-Subsec. (e). Pub. L. 104–237, § 206(b)(1), inserted “manufacture, exportation,” after “distribution,” and struck out “regulated” after “engaging in any”.
+Subsec. (e). Pub. L. 104–237, § 206(b)(1), inserted “manufacture, exportation,” after “distribution,” and struck out “regulated” after “engaging in any”.
 
-Subsec. (f). Pub. L. 104–237, § 206(b)(2), added subsec. (f).
+Subsec. (f). Pub. L. 104–237, § 206(b)(2), added subsec. (f).
 
 1994—Subsecs. (c) to (e). Pub. L. 103–322 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1993—Subsec. (a)(6), (7). Pub. L. 103–200, § 3(g)(1), amended pars. (6) and (7) generally. Prior to amendment, pars. (6) and (7) read as follows:
+1993—Subsec. (a)(6), (7). Pub. L. 103–200, § 3(g)(1), amended pars. (6) and (7) generally. Prior to amendment, pars. (6) and (7) read as follows:
 
 “(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, gelatin capsule, or equipment specially designed or modified to manufacture a controlled substance, with intent to manufacture a controlled substance except as authorized by this subchapter;
 
 “(7) to manufacture, distribute, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, gelatin capsule, or equipment specially designed or modified to manufacture a controlled substance, knowing that it will be used to manufacture a controlled substance except as authorized by this subchapter; or”.
 
-Subsec. (a)(9). Pub. L. 103–200, § 3(g)(2), (3), added par. (9).
+Subsec. (a)(9). Pub. L. 103–200, § 3(g)(2), (3), added par. (9).
 
-1988—Subsec. (a)(4)(B). Pub. L. 100–690, § 6057(a)(1), substituted “a listed chemical” for “piperidine”.
+1988—Subsec. (a)(4)(B). Pub. L. 100–690, § 6057(a)(1), substituted “a listed chemical” for “piperidine”.
 
-Subsec. (a)(6) to (8). Pub. L. 100–690, § 6057(a)(2)–(4), added pars. (6) to (8).
+Subsec. (a)(6) to (8). Pub. L. 100–690, § 6057(a)(2)–(4), added pars. (6) to (8).
 
-Subsec. (d). Pub. L. 100–690, § 6057(b), added subsec. (d).
+Subsec. (d). Pub. L. 100–690, § 6057(b), added subsec. (d).
 
 1986—Subsec. (a)(2). Pub. L. 99–570 substituted a semicolon for the period at end.
 
 1984—Subsec. (a)(2). Pub. L. 98–473 added applicability to dispensing, acquiring, or obtaining a controlled substance, and applicability to an expired number.
 
-1978—Subsec. (a)(4). Pub. L. 95–633, § 202(b)(3), designated existing provisions as subpar. (A) and added subpar. (B).
+1978—Subsec. (a)(4). Pub. L. 95–633, § 202(b)(3), designated existing provisions as subpar. (A) and added subpar. (B).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -5973,21 +5973,21 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 **Repeals**
 
-Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsec. (a)(4)(B) of this section effective Jan. 1, 1981.
+Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d) of Pub. L. 95–633, which had provided for the repeal of subsec. (a)(4)(B) of this section effective Jan. 1, 1981.
 
-#### § 844. Penalties for simple possession
+#### § 844. Penalties for simple possession
 
 **(a) Unlawful acts; penalties**
 
 It shall be unlawful for any person knowingly or intentionally to possess a controlled substance unless such substance was obtained directly, or pursuant to a valid prescription or order, from a practitioner, while acting in the course of his professional practice, or except as otherwise authorized by this subchapter or subchapter II. It shall be unlawful for any person knowingly or intentionally to possess any list I chemical obtained pursuant to or under authority of a registration issued to that person under section 823 of this title or section 958 of this title if that registration has been revoked or suspended, if that registration has expired, or if the registrant has ceased to do business in the manner contemplated by his registration. It shall be unlawful for any person to knowingly or intentionally purchase at retail during a 30 day period more than 9 grams of ephedrine base, pseudoephedrine base, or phenylpropanolamine base in a scheduled listed chemical product, except that, of such 9 grams, not more than 7.5 grams may be imported by means of shipping through any private or commercial carrier or the Postal Service. Any person who violates this subsection may be sentenced to a term of imprisonment of not more than 1 year, and shall be fined a minimum of $1,000, or both, except that if he commits such offense after a prior conviction under this subchapter or subchapter II, or a prior conviction for any drug, narcotic, or chemical offense chargeable under the law of any State, has become final, he shall be sentenced to a term of imprisonment for not less than 15 days but not more than 2 years, and shall be fined a minimum of $2,500, except, further, that if he commits such offense after two or more prior convictions under this subchapter or subchapter II, or two or more prior convictions for any drug, narcotic, or chemical offense chargeable under the law of any State, or a combination of two or more such offenses have become final, he shall be sentenced to a term of imprisonment for not less than 90 days but not more than 3 years, and shall be fined a minimum of $5,000. Notwithstanding any penalty provided in this subsection, any person convicted under this subsection for the possession of flunitrazepam shall be imprisoned for not more than 3 years, shall be fined as otherwise provided in this section, or both. The imposition or execution of a minimum sentence required to be imposed under this subsection shall not be suspended or deferred. Further, upon conviction, a person who violates this subsection shall be fined the reasonable costs of the investigation and prosecution of the offense, including the costs of prosecution of an offense as defined in sections 1918 and 1920 of title 28, except that this sentence shall not apply and a fine under this section need not be imposed if the court determines under the provision of title 18 that the defendant lacks the ability to pay.
 
-**(b) Repealed. Pub. L. 98–473, title II, § 219(a), Oct. 12, 1984, 98 Stat. 2027**
+**(b) Repealed. Pub. L. 98–473, title II, § 219(a), Oct. 12, 1984, 98 Stat. 2027**
 
 **(c) “Drug, narcotic, or chemical offense” defined**
 
 As used in this section, the term “drug, narcotic, or chemical offense” means any offense which proscribes the possession, distribution, manufacture, cultivation, sale, transfer, or the attempt or conspiracy to possess, distribute, manufacture, cultivate, sell or transfer any substance the possession of which is prohibited under this subchapter.
 
-(Pub. L. 91–513, title II, § 404, Oct. 27, 1970, 84 Stat. 1264; Pub. L. 98–473, title II, § 219, Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–570, title I, § 1052, Oct. 27, 1986, 100 Stat. 3207–8; Pub. L. 100–690, title VI, §§ 6371, 6480, Nov. 18, 1988, 102 Stat. 4370, 4382; Pub. L. 101–647, title XII, § 1201, title XIX, § 1907, Nov. 29, 1990, 104 Stat. 4829, 4854; Pub. L. 104–237, title II, § 201(a), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 104–305, § 2(c), Oct. 13, 1996, 110 Stat. 3808; Pub. L. 109–177, title VII, § 711(e)(1), Mar. 9, 2006, 120 Stat. 262; Pub. L. 111–220, § 3, Aug. 3, 2010, 124 Stat. 2372.)
+(Pub. L. 91–513, title II, § 404, Oct. 27, 1970, 84 Stat. 1264; Pub. L. 98–473, title II, § 219, Oct. 12, 1984, 98 Stat. 2027; Pub. L. 99–570, title I, § 1052, Oct. 27, 1986, 100 Stat. 3207–8; Pub. L. 100–690, title VI, §§ 6371, 6480, Nov. 18, 1988, 102 Stat. 4370, 4382; Pub. L. 101–647, title XII, § 1201, title XIX, § 1907, Nov. 29, 1990, 104 Stat. 4829, 4854; Pub. L. 104–237, title II, § 201(a), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 104–305, § 2(c), Oct. 13, 1996, 110 Stat. 3808; Pub. L. 109–177, title VII, § 711(e)(1), Mar. 9, 2006, 120 Stat. 262; Pub. L. 111–220, § 3, Aug. 3, 2010, 124 Stat. 2372.)
 
 **Editorial Notes**
 
@@ -5999,17 +5999,17 @@ As used in this section, the term “drug, narcotic, or chemical offense” mean
 
 1996—Subsec. (a). Pub. L. 104–305 inserted “Notwithstanding any penalty provided in this subsection, any person convicted under this subsection for the possession of flunitrazepam shall be imprisoned for not more than 3 years, shall be fined as otherwise provided in this section, or both.” after “mixture or substance exceeds 1 gram.”
 
-Pub. L. 104–237, § 201(a)(1), inserted after first sentence “It shall be unlawful for any person knowingly or intentionally to possess any list I chemical obtained pursuant to or under authority of a registration issued to that person under section 823 of this title or section 958 of this title if that registration has been revoked or suspended, if that registration has expired, or if the registrant has ceased to do business in the manner contemplated by his registration.” and substituted “drug, narcotic, or chemical” for “drug or narcotic” in two places.
+Pub. L. 104–237, § 201(a)(1), inserted after first sentence “It shall be unlawful for any person knowingly or intentionally to possess any list I chemical obtained pursuant to or under authority of a registration issued to that person under section 823 of this title or section 958 of this title if that registration has been revoked or suspended, if that registration has expired, or if the registrant has ceased to do business in the manner contemplated by his registration.” and substituted “drug, narcotic, or chemical” for “drug or narcotic” in two places.
 
-Subsec. (c). Pub. L. 104–237, § 201(a)(2), substituted “drug, narcotic, or chemical” for “drug or narcotic”.
+Subsec. (c). Pub. L. 104–237, § 201(a)(2), substituted “drug, narcotic, or chemical” for “drug or narcotic”.
 
-1990—Subsec. (a). Pub. L. 101–647, § 1907, inserted subsec. (a) designation.
+1990—Subsec. (a). Pub. L. 101–647, § 1907, inserted subsec. (a) designation.
 
-Pub. L. 101–647, § 1201, substituted “shall be imprisoned not less than 5 years and not more than 20 years, and fined a minimum of $1,000” for “shall be fined under title 18 or imprisoned not less than 5 years and not more than 20 years, or both”.
+Pub. L. 101–647, § 1201, substituted “shall be imprisoned not less than 5 years and not more than 20 years, and fined a minimum of $1,000” for “shall be fined under title 18 or imprisoned not less than 5 years and not more than 20 years, or both”.
 
-1988—Subsec. (a). Pub. L. 100–690, § 6480(1)(A)–(C), struck out “but not more than $5,000” after “$1,000”, “but not more than $10,000” after “$2,500”, and “but not more than $25,000” after “$5,000” in second sentence.
+1988—Subsec. (a). Pub. L. 100–690, § 6480(1)(A)–(C), struck out “but not more than $5,000” after “$1,000”, “but not more than $10,000” after “$2,500”, and “but not more than $25,000” after “$5,000” in second sentence.
 
-Pub. L. 100–690, § 6371, inserted provisions relating to increased penalties in cases of certain serious crack possession offenses, making offenders subject to fines under title 18 or imprisonment to terms not less than 5 years nor more than 20 years, or both.
+Pub. L. 100–690, § 6371, inserted provisions relating to increased penalties in cases of certain serious crack possession offenses, making offenders subject to fines under title 18 or imprisonment to terms not less than 5 years nor more than 20 years, or both.
 
 1986—Subsec. (a). Pub. L. 99–570 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “It shall be unlawful for any person knowingly or intentionally to possess a controlled substance unless such substance was obtained directly, or pursuant to a valid prescription or order, from a practitioner, while acting in the course of his professional practice, or except as otherwise authorized by this subchapter or subchapter II of this chapter. Any person who violates this subsection shall be sentenced to a term of imprisonment of not more than one year, a fine of not more than $5,000, or both, except that if he commits such offense after a prior conviction or convictions under this subsection have become final, he shall be sentenced to a term of imprisonment of not more than 2 years, a fine of not more than $10,000 or both.”
 
@@ -6023,7 +6023,7 @@ Subsec. (c). Pub. L. 99–570, in amending section generally, added subsec. (c).
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–177, title VII, § 711(e)(2), Mar. 9, 2006, 120 Stat. 262, provided that: “The amendment made by paragraph (1) [amending this section] applies on and after the expiration of the 30-day period beginning on the date of the enactment of this Act [Mar. 9, 2006].”
+Pub. L. 109–177, title VII, § 711(e)(2), Mar. 9, 2006, 120 Stat. 262, provided that: “The amendment made by paragraph (1) [amending this section] applies on and after the expiration of the 30-day period beginning on the date of the enactment of this Act [Mar. 9, 2006].”
 
 **Effective Date of 1984 Amendment**
 
@@ -6071,7 +6071,7 @@ IN WITNESS WHEREOF, I have hereunto set my hand this twenty-second day of Decemb
 
 J.R. Biden, Jr.
 
-#### § 844a. Civil penalty for possession of small amounts of certain controlled substances
+#### § 844a. Civil penalty for possession of small amounts of certain controlled substances
 
 **(a) In general**
 
@@ -6107,9 +6107,9 @@ If an individual does not request a hearing pursuant to subsection (e) and the A
 
 **(i) Limitation**
 
-The Attorney General may not under this subsection 1
+The Attorney General may not under this subsection 1
 
-<sup>1</sup>  So in original. Probably should be “section”.
+<sup>1</sup> So in original. Probably should be “section”.
 
 commence proceeding against an individual after the expiration of the 5-year period beginning on the date on which the individual allegedly violated subsection (a).
 
@@ -6127,7 +6127,7 @@ commence proceeding against an individual after the expiration of the 5-year per
 
 A nonpublic record of a disposition under this subsection shall be retained by the Department of Justice solely for the purpose of determining in any subsequent proceeding whether the person qualified for a civil penalty or expungement under this section. If a record is expunged under this subsection, an individual concerning whom such an expungement has been made shall not be held thereafter under any provision of law to be guilty of perjury, false swearing, or making a false statement by reason of his failure to recite or acknowledge a proceeding under this section or the results thereof in response to an inquiry made of him for any purpose.
 
-(Pub. L. 91–513, title II, § 405, formerly Pub. L. 100–690, title VI, § 6486, Nov. 18, 1988, 102 Stat. 4384, renumbered § 405 of Pub. L. 91–513, and amended Pub. L. 101–647, title X, § 1002(g)(1), (2), Nov. 29, 1990, 104 Stat. 4828.)
+(Pub. L. 91–513, title II, § 405, formerly Pub. L. 100–690, title VI, § 6486, Nov. 18, 1988, 102 Stat. 4384, renumbered § 405 of Pub. L. 91–513, and amended Pub. L. 101–647, title X, § 1002(g)(1), (2), Nov. 29, 1990, 104 Stat. 4828.)
 
 **Editorial Notes**
 
@@ -6137,27 +6137,27 @@ A prior section 405 of Pub. L. 91–513 was renumbered section 418 and is classi
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–647, § 1002(g)(2)(A), made technical amendments to references to sections 841(b)(1)(A) and 844 of this title to correct references to corresponding provisions of original act.
+1990—Subsec. (a). Pub. L. 101–647, § 1002(g)(2)(A), made technical amendments to references to sections 841(b)(1)(A) and 844 of this title to correct references to corresponding provisions of original act.
 
-Subsecs. (c), (j)(4). Pub. L. 101–647, § 1002(g)(2)(B), (C), struck out “as defined in section 802 of this title” after “controlled substance”.
+Subsecs. (c), (j)(4). Pub. L. 101–647, § 1002(g)(2)(B), (C), struck out “as defined in section 802 of this title” after “controlled substance”.
 
-#### §§ 845 to 845b. Transferred
+#### §§ 845 to 845b. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section 845, Pub. L. 91–513, title II, § 405, Oct. 27, 1970, 84 Stat. 1265, as amended, which related to distribution of controlled substances to persons under age twenty-one, was renumbered § 418 of Pub. L. 91–513 by Pub. L. 101–647, title X, § 1002(a)(1), Nov. 29, 1990, 104 Stat. 4827, and transferred to section 859 of this title.
+Section 845, Pub. L. 91–513, title II, § 405, Oct. 27, 1970, 84 Stat. 1265, as amended, which related to distribution of controlled substances to persons under age twenty-one, was renumbered § 418 of Pub. L. 91–513 by Pub. L. 101–647, title X, § 1002(a)(1), Nov. 29, 1990, 104 Stat. 4827, and transferred to section 859 of this title.
 
-Section 845a, Pub. L. 91–513, title II, § 405A, as added Pub. L. 98–473, title II, § 503(a), Oct. 12, 1984, 98 Stat. 2069, and amended, which related to distribution or manufacturing of controlled substances in or near schools and colleges, was renumbered § 419 of Pub. L. 91–513 by Pub. L. 101–647, title X, § 1002(b), Nov. 29, 1990, 104 Stat. 4827, and transferred to section 860 of this title.
+Section 845a, Pub. L. 91–513, title II, § 405A, as added Pub. L. 98–473, title II, § 503(a), Oct. 12, 1984, 98 Stat. 2069, and amended, which related to distribution or manufacturing of controlled substances in or near schools and colleges, was renumbered § 419 of Pub. L. 91–513 by Pub. L. 101–647, title X, § 1002(b), Nov. 29, 1990, 104 Stat. 4827, and transferred to section 860 of this title.
 
-Section 845b, Pub. L. 91–513, title II, § 405B, as added Pub. L. 99–570, title I, § 1102, Oct. 27, 1986, 100 Stat. 3207–10, and amended, which related to employment or use of persons under 18 years of age in drug operations, was renumbered § 420 of Pub. L. 91–513 by Pub. L. 101–647, title X, § 1002(c), Nov. 29, 1990, 104 Stat. 4827, and transferred to section 861 of this title.
+Section 845b, Pub. L. 91–513, title II, § 405B, as added Pub. L. 99–570, title I, § 1102, Oct. 27, 1986, 100 Stat. 3207–10, and amended, which related to employment or use of persons under 18 years of age in drug operations, was renumbered § 420 of Pub. L. 91–513 by Pub. L. 101–647, title X, § 1002(c), Nov. 29, 1990, 104 Stat. 4827, and transferred to section 861 of this title.
 
-#### § 846. Attempt and conspiracy
+#### § 846. Attempt and conspiracy
 
 Any person who attempts or conspires to commit any offense defined in this subchapter shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
 
-(Pub. L. 91–513, title II, § 406, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 100–690, title VI, § 6470(a), Nov. 18, 1988, 102 Stat. 4377.)
+(Pub. L. 91–513, title II, § 406, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 100–690, title VI, § 6470(a), Nov. 18, 1988, 102 Stat. 4377.)
 
 **Editorial Notes**
 
@@ -6171,11 +6171,11 @@ Any person who attempts or conspires to commit any offense defined in this subch
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
-#### § 847. Additional penalties
+#### § 847. Additional penalties
 
 Any penalty imposed for violation of this subchapter shall be in addition to, and not in lieu of, any civil or administrative penalty or sanction authorized by law.
 
-(Pub. L. 91–513, title II, § 407, Oct. 27, 1970, 84 Stat. 1265.)
+(Pub. L. 91–513, title II, § 407, Oct. 27, 1970, 84 Stat. 1265.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6183,7 +6183,7 @@ Any penalty imposed for violation of this subchapter shall be in addition to, an
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
-#### § 848. Continuing criminal enterprise
+#### § 848. Continuing criminal enterprise
 
 **(a) Penalties; forfeitures**
 
@@ -6217,27 +6217,27 @@ In the case of any sentence imposed under this section, imposition or execution 
 
 **(1)** In addition to the other penalties set forth in this section—
 
-**(A)** any person engaging in or working in furtherance of a continuing criminal enterprise, or any person engaging in an offense punishable under section 841(b)(1)(A) 1
+**(A)** any person engaging in or working in furtherance of a continuing criminal enterprise, or any person engaging in an offense punishable under section 841(b)(1)(A) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of this title or section 960(b)(1) 1 of this title who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of an individual and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death; and
+of this title or section 960(b)(1) 1 of this title who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of an individual and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death; and
 
 **(B)** any person, during the commission of, in furtherance of, or while attempting to avoid apprehension, prosecution or service of a prison sentence for, a felony violation of this subchapter or subchapter II who intentionally kills or counsels, commands, induces, procures, or causes the intentional killing of any Federal, State, or local law enforcement officer engaged in, or on account of, the performance of such officer’s official duties and such killing results, shall be sentenced to any term of imprisonment, which shall not be less than 20 years, and which may be up to life imprisonment, or may be sentenced to death.
 
 **(2)** As used in paragraph (1)(B), the term “law enforcement officer” means a public servant authorized by law or by a Government agency or Congress to conduct or engage in the prevention, investigation, prosecution or adjudication of an offense, and includes those engaged in corrections, probation, or parole functions.
 
-**(g) 2 [footnote: 2 So in original. Section does not contain a subsec. (f), see 1988 Amendment note below.] to (p) Repealed. Pub. L. 109–177, title II, § 221(2), Mar. 9, 2006, 120 Stat. 231**
+**(g) 2 [footnote: 2 So in original. Section does not contain a subsec. (f), see 1988 Amendment note below.] to (p) Repealed. Pub. L. 109–177, title II, § 221(2), Mar. 9, 2006, 120 Stat. 231**
 
-**(q) Repealed. Pub. L. 109–177, title II, §§ 221(4), 222(c), Mar. 9, 2006, 120 Stat. 231, 232**
+**(q) Repealed. Pub. L. 109–177, title II, §§ 221(4), 222(c), Mar. 9, 2006, 120 Stat. 231, 232**
 
-**(r) Repealed. Pub. L. 109–177, title II, § 221(3), Mar. 9, 2006, 120 Stat. 231**
+**(r) Repealed. Pub. L. 109–177, title II, § 221(3), Mar. 9, 2006, 120 Stat. 231**
 
 **(s) Special provision for methamphetamine**
 
 For the purposes of subsection (b), in the case of continuing criminal enterprise involving methamphetamine or its salts, isomers, or salts of isomers, paragraph (2)(A) shall be applied by substituting “200” for “300”, and paragraph (2)(B) shall be applied by substituting “$5,000,000” for “$10 million dollars”.
 
-(Pub. L. 91–513, title II, § 408, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 98–473, title II, §§ 224(b), formerly § 224(c), 305, Oct. 12, 1984, 98 Stat. 2030, 2050; Pub. L. 99–570, title I, §§ 1005(b)(2), 1252, 1253, Oct. 27, 1986, 100 Stat. 3207–6, 3207–14; Pub. L. 100–690, title VI, § 6481, title VII, § 7001, Nov. 18, 1988, 102 Stat. 4382, 4387; Pub. L. 103–322, title XXXIII, §§ 330003(e), 330009(d), 330014, Sept. 13, 1994, 108 Stat. 2141, 2143, 2146; Pub. L. 104–132, title I, § 108, title IX, § 903(b), Apr. 24, 1996, 110 Stat. 1226, 1318; Pub. L. 109–177, title II, §§ 221, 222(c), title VII, § 733, Mar. 9, 2006, 120 Stat. 231, 232, 270.)
+(Pub. L. 91–513, title II, § 408, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 98–473, title II, §§ 224(b), formerly § 224(c), 305, Oct. 12, 1984, 98 Stat. 2030, 2050; Pub. L. 99–570, title I, §§ 1005(b)(2), 1252, 1253, Oct. 27, 1986, 100 Stat. 3207–6, 3207–14; Pub. L. 100–690, title VI, § 6481, title VII, § 7001, Nov. 18, 1988, 102 Stat. 4382, 4387; Pub. L. 103–322, title XXXIII, §§ 330003(e), 330009(d), 330014, Sept. 13, 1994, 108 Stat. 2141, 2143, 2146; Pub. L. 104–132, title I, § 108, title IX, § 903(b), Apr. 24, 1996, 110 Stat. 1226, 1318; Pub. L. 109–177, title II, §§ 221, 222(c), title VII, § 733, Mar. 9, 2006, 120 Stat. 231, 232, 270.)
 
 **Editorial Notes**
 
@@ -6251,45 +6251,45 @@ Act of July 15, 1932 (D.C. Code, secs. 24–203—24–207), referred to in subs
 
 **Amendments**
 
-2006—Subsec. (e)(2). Pub. L. 109–177, § 221(1), substituted “(1)(B)” for “(1)(b)”.
+2006—Subsec. (e)(2). Pub. L. 109–177, § 221(1), substituted “(1)(B)” for “(1)(b)”.
 
-Subsecs. (g) to (p). Pub. L. 109–177, § 221(2), struck out subsecs. (g) to (p) which related to hearing and sentencing procedures in death penalty cases and sentencing in capital cases in which the death penalty is not sought or imposed.
+Subsecs. (g) to (p). Pub. L. 109–177, § 221(2), struck out subsecs. (g) to (p) which related to hearing and sentencing procedures in death penalty cases and sentencing in capital cases in which the death penalty is not sought or imposed.
 
-Subsec. (q). Pub. L. 109–177, §§ 221(4), 222(c), struck out subsec. (q) which related to appeal in capital cases and counsel for financially unable defendants.
+Subsec. (q). Pub. L. 109–177, §§ 221(4), 222(c), struck out subsec. (q) which related to appeal in capital cases and counsel for financially unable defendants.
 
-Subsec. (r). Pub. L. 109–177, § 221(3), struck out subsec. (r) which provided for refusal by State and Federal correctional employees to participate in executions.
+Subsec. (r). Pub. L. 109–177, § 221(3), struck out subsec. (r) which provided for refusal by State and Federal correctional employees to participate in executions.
 
-Subsec. (s). Pub. L. 109–177, § 733, added subsec. (s).
+Subsec. (s). Pub. L. 109–177, § 733, added subsec. (s).
 
-1996—Subsec. (q)(9). Pub. L. 104–132, § 108, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Upon a finding in ex parte proceedings that investigative, expert or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or sentence, the court shall authorize the defendant’s attorneys to obtain such services on behalf of the defendant and shall order the payment of fees and expenses therefore, under paragraph (10). Upon a finding that timely procurement of such services could not practicably await prior authorization, the court may authorize the provision of and payment for such services nunc pro tunc.”
+1996—Subsec. (q)(9). Pub. L. 104–132, § 108, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Upon a finding in ex parte proceedings that investigative, expert or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or sentence, the court shall authorize the defendant’s attorneys to obtain such services on behalf of the defendant and shall order the payment of fees and expenses therefore, under paragraph (10). Upon a finding that timely procurement of such services could not practicably await prior authorization, the court may authorize the provision of and payment for such services nunc pro tunc.”
 
-Subsec. (q)(10). Pub. L. 104–132, § 903(b), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Notwithstanding the rates and maximum limits generally applicable to criminal cases and any other provision of law to the contrary, the court shall fix the compensation to be paid to attorneys appointed under this subsection and the fees and expenses to be paid for investigative, expert, and other reasonably necessary services authorized under paragraph (9), at such rates or amounts as the court determines to be reasonably necessary to carry out the requirements of paragraphs (4) through (9).”
+Subsec. (q)(10). Pub. L. 104–132, § 903(b), amended par. (10) generally. Prior to amendment, par. (10) read as follows: “Notwithstanding the rates and maximum limits generally applicable to criminal cases and any other provision of law to the contrary, the court shall fix the compensation to be paid to attorneys appointed under this subsection and the fees and expenses to be paid for investigative, expert, and other reasonably necessary services authorized under paragraph (9), at such rates or amounts as the court determines to be reasonably necessary to carry out the requirements of paragraphs (4) through (9).”
 
-1994—Subsec. (b)(2)(A). Pub. L. 103–322, § 330003(e), substituted “subsection (c)(1)” for “subsection (d)(1)”.
+1994—Subsec. (b)(2)(A). Pub. L. 103–322, § 330003(e), substituted “subsection (c)(1)” for “subsection (d)(1)”.
 
-Subsec. (n)(11). Pub. L. 103–322, § 330014, made technical amendment to reference to section 859 of this title to correct reference to corresponding section of original act.
+Subsec. (n)(11). Pub. L. 103–322, § 330014, made technical amendment to reference to section 859 of this title to correct reference to corresponding section of original act.
 
-Subsec. (q)(8). Pub. L. 103–322, § 330009(d), substituted “applications for writ” for “applications, for writ”.
+Subsec. (q)(8). Pub. L. 103–322, § 330009(d), substituted “applications for writ” for “applications, for writ”.
 
-1988—Subsec. (a). Pub. L. 100–690, § 6481(a), increased minimum term of imprisonment for first violations to 20 from 10 years and for subsequent violations to 30 from 20 years.
+1988—Subsec. (a). Pub. L. 100–690, § 6481(a), increased minimum term of imprisonment for first violations to 20 from 10 years and for subsequent violations to 30 from 20 years.
 
-Subsecs. (c), (d). Pub. L. 100–690, § 6481(b), redesignated subsecs. (d) and (e) as (c) and (d), respectively.
+Subsecs. (c), (d). Pub. L. 100–690, § 6481(b), redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 
-Subsec. (e). Pub. L. 100–690, § 7001(a)(2), added subsec. (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 100–690, § 7001(a)(2), added subsec. (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 100–690, § 7001(a)(1), which directed redesignation of former subsec. (e) as (f), could not be executed because of prior redesignation of former subsec. (e) as (d) by Pub. L. 100–690, § 6481(b), which resulted in there not being a subsec. (f).
+Pub. L. 100–690, § 7001(a)(1), which directed redesignation of former subsec. (e) as (f), could not be executed because of prior redesignation of former subsec. (e) as (d) by Pub. L. 100–690, § 6481(b), which resulted in there not being a subsec. (f).
 
-Subsecs. (g) to (r). Pub. L. 100–690, § 7001(b), added subsecs. (g) to (r).
+Subsecs. (g) to (r). Pub. L. 100–690, § 7001(b), added subsecs. (g) to (r).
 
-1986—Subsec. (a). Pub. L. 99–570, § 1252, substituted “to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual,” for “to a fine of not more than $100,000,” and “to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual,” for “to a fine of not more than $200,000,”.
+1986—Subsec. (a). Pub. L. 99–570, § 1252, substituted “to a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $2,000,000 if the defendant is an individual or $5,000,000 if the defendant is other than an individual,” for “to a fine of not more than $100,000,” and “to a fine not to exceed the greater of twice the amount authorized in accordance with the provisions of title 18 or $4,000,000 if the defendant is an individual or $10,000,000 if the defendant is other than an individual,” for “to a fine of not more than $200,000,”.
 
-Subsecs. (b) to (e). Pub. L. 99–570, § 1253, added subsec. (b) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively, which resulted in there not being a subsec. (c).
+Subsecs. (b) to (e). Pub. L. 99–570, § 1253, added subsec. (b) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively, which resulted in there not being a subsec. (c).
 
-1984—Subsec. (a). Pub. L. 98–473, § 305, struck out par. (1) designation, substituted references to section 853 of this title for references to paragraph (2) in two places, and struck out par. (2) which related to forfeitures to the United States by any person convicted under par. (1).
+1984—Subsec. (a). Pub. L. 98–473, § 305, struck out par. (1) designation, substituted references to section 853 of this title for references to paragraph (2) in two places, and struck out par. (2) which related to forfeitures to the United States by any person convicted under par. (1).
 
-Subsec. (d). Pub. L. 98–473, § 305(b), struck out subsec. (d) relating to jurisdiction of courts of the United States.
+Subsec. (d). Pub. L. 98–473, § 305(b), struck out subsec. (d) relating to jurisdiction of courts of the United States.
 
-Subsec. (e). Pub. L. 98–473, § 224(b), as renumbered by Pub. L. 99–570, § 1005(b)(2), which directed the amendment of subsec. (c) of this section by striking out “and section 4202 of title 18 of the United States Code”, was executed by striking out that language in subsec. (e) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 99–570, § 1253, which redesignated subsec. (c) as (e). See 1986 Amendment note above.
+Subsec. (e). Pub. L. 98–473, § 224(b), as renumbered by Pub. L. 99–570, § 1005(b)(2), which directed the amendment of subsec. (c) of this section by striking out “and section 4202 of title 18 of the United States Code”, was executed by striking out that language in subsec. (e) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 99–570, § 1253, which redesignated subsec. (c) as (e). See 1986 Amendment note above.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6307,9 +6307,9 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 **GAO Study of Cost of Executions**
 
-Pub. L. 100–690, title VII, § 7002, Nov. 18, 1988, 102 Stat. 4395, directed Comptroller General to conduct a study of cost of executions and report to Congress, prior to repeal by Pub. L. 104–66, title I, § 1091(d), Dec. 21, 1995, 109 Stat. 722.
+Pub. L. 100–690, title VII, § 7002, Nov. 18, 1988, 102 Stat. 4395, directed Comptroller General to conduct a study of cost of executions and report to Congress, prior to repeal by Pub. L. 104–66, title I, § 1091(d), Dec. 21, 1995, 109 Stat. 722.
 
-#### § 849. Transportation safety offenses
+#### § 849. Transportation safety offenses
 
 (a) Definitions
 
@@ -6325,9 +6325,9 @@ In this section—
 
 (b) First offense
 
-A person who violates section 841(a)(1) of this title or section 856 of this title by distributing or possessing with intent to distribute a controlled substance in or on, or within 1,000 feet of, a truck stop or safety rest area is (except as provided in subsection (b)) 1
+A person who violates section 841(a)(1) of this title or section 856 of this title by distributing or possessing with intent to distribute a controlled substance in or on, or within 1,000 feet of, a truck stop or safety rest area is (except as provided in subsection (b)) 1
 
-<sup>1</sup>  So in original. Probably should refer to subsection (c).
+<sup>1</sup> So in original. Probably should refer to subsection (c).
 
 subject to—
 
@@ -6337,9 +6337,9 @@ subject to—
 
 (c) Subsequent offense
 
-A person who violates section 841(a)(1) of this title or section 856 of this title by distributing or possessing with intent to distribute a controlled substance in or on, or within 1,000 feet of, a truck stop or a safety rest area after a prior conviction or convictions under subsection (a) 2
+A person who violates section 841(a)(1) of this title or section 856 of this title by distributing or possessing with intent to distribute a controlled substance in or on, or within 1,000 feet of, a truck stop or a safety rest area after a prior conviction or convictions under subsection (a) 2
 
-<sup>2</sup>  So in original. Probably should refer to subsection (b).
+<sup>2</sup> So in original. Probably should refer to subsection (b).
 
 have become final is subject to—
 
@@ -6347,29 +6347,29 @@ have become final is subject to—
 
 (2) 3 times any term of supervised release authorized by section 841(b) of this title for a first offense.
 
-(Pub. L. 91–513, title II, § 409, as added Pub. L. 103–322, title XVIII, § 180201(b)(1), Sept. 13, 1994, 108 Stat. 2046.)
+(Pub. L. 91–513, title II, § 409, as added Pub. L. 103–322, title XVIII, § 180201(b)(1), Sept. 13, 1994, 108 Stat. 2046.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 849, Pub. L. 91–513, title II, § 409, Oct. 27, 1970, 84 Stat. 1266; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, related to dangerous special drug offender sentencing, prior to repeal by Pub. L. 98–473, title II, §§ 219(a), 235(a)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, eff. Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal.
+A prior section 849, Pub. L. 91–513, title II, § 409, Oct. 27, 1970, 84 Stat. 1266; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, related to dangerous special drug offender sentencing, prior to repeal by Pub. L. 98–473, title II, §§ 219(a), 235(a)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, eff. Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal.
 
-#### § 850. Information for sentencing
+#### § 850. Information for sentencing
 
-Except as otherwise provided in this subchapter or section 242a(a) 1
+Except as otherwise provided in this subchapter or section 242a(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 42, no limitation shall be placed on the information concerning the background, character, and conduct of a person convicted of an offense which a court of the United States may receive and consider for the purpose of imposing an appropriate sentence under this subchapter or subchapter II.
 
-(Pub. L. 91–513, title II, § 410, Oct. 27, 1970, 84 Stat. 1269.)
+(Pub. L. 91–513, title II, § 410, Oct. 27, 1970, 84 Stat. 1269.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 242a of title 42, referred to in text, was repealed by Pub. L. 106–310, div. B, title XXXII, § 3201(b)(1), Oct. 17, 2000, 114 Stat. 1190.
+Section 242a of title 42, referred to in text, was repealed by Pub. L. 106–310, div. B, title XXXII, § 3201(b)(1), Oct. 17, 2000, 114 Stat. 1190.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6377,7 +6377,7 @@ Section 242a of title 42, referred to in text, was repealed by Pub. L. 106–310
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
-#### § 851. Proceedings to establish prior convictions
+#### § 851. Proceedings to establish prior convictions
 
 **(a) Information filed by United States Attorney**
 
@@ -6405,7 +6405,7 @@ If the United States attorney files an information under this section, the court
 
 No person who stands convicted of an offense under this part may challenge the validity of any prior conviction alleged under this section which occurred more than five years before the date of the information alleging such prior conviction.
 
-(Pub. L. 91–513, title II, § 411, Oct. 27, 1970, 84 Stat. 1269.)
+(Pub. L. 91–513, title II, § 411, Oct. 27, 1970, 84 Stat. 1269.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6413,11 +6413,11 @@ No person who stands convicted of an offense under this part may challenge the v
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
-#### § 852. Application of treaties and other international agreements
+#### § 852. Application of treaties and other international agreements
 
 Nothing in the Single Convention on Narcotic Drugs, the Convention on Psychotropic Substances, or other treaties or international agreements shall be construed to limit the provision of treatment, education, or rehabilitation as alternatives to conviction or criminal penalty for offenses involving any drug or other substance subject to control under any such treaty or agreement.
 
-(Pub. L. 91–513, title II, § 412, as added Pub. L. 95–633, title I, § 107(a), Nov. 10, 1978, 92 Stat. 3773.)
+(Pub. L. 91–513, title II, § 412, as added Pub. L. 95–633, title I, § 107(a), Nov. 10, 1978, 92 Stat. 3773.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6425,7 +6425,7 @@ Nothing in the Single Convention on Narcotic Drugs, the Convention on Psychotrop
 
 Section effective on date the Convention on Psychotropic Substances enters into force in the United States [July 15, 1980], see section 112 of Pub. L. 95–633, set out as a note under section 801a of this title.
 
-#### § 853. Criminal forfeitures
+#### § 853. Criminal forfeitures
 
 **(a) Property subject to criminal forfeiture** Any person convicted of a violation of this subchapter or subchapter II punishable by imprisonment for more than one year shall forfeit to the United States, irrespective of any provision of State law—
 
@@ -6575,7 +6575,7 @@ In the case of property described in paragraph (1)(C), the court may, in additio
 
 **(3)** order restitution to any person injured as a result of the offense as provided in section 3663A of title 18.
 
-(Pub. L. 91–513, title II, § 413, as added and amended Pub. L. 98–473, title II, §§ 303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§ 1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, § 207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, § 3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, § 319(d), Oct. 26, 2001, 115 Stat. 314; Pub. L. 109–177, title VII, § 743(a), Mar. 9, 2006, 120 Stat. 272; Pub. L. 111–16, § 5, May 7, 2009, 123 Stat. 1608.)
+(Pub. L. 91–513, title II, § 413, as added and amended Pub. L. 98–473, title II, §§ 303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§ 1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, § 207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, § 3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, § 319(d), Oct. 26, 2001, 115 Stat. 314; Pub. L. 109–177, title VII, § 743(a), Mar. 9, 2006, 120 Stat. 272; Pub. L. 111–16, § 5, May 7, 2009, 123 Stat. 1608.)
 
 **Editorial Notes**
 
@@ -6589,13 +6589,13 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (m), are set out
 
 2009—Subsec. (e)(2). Pub. L. 111–16 substituted “fourteen days” for “ten days”.
 
-2006—Subsec. (q). Pub. L. 109–177, § 743(a)(1), inserted “, the possession, or the possession with intent to distribute,” after “manufacture” in introductory provisions.
+2006—Subsec. (q). Pub. L. 109–177, § 743(a)(1), inserted “, the possession, or the possession with intent to distribute,” after “manufacture” in introductory provisions.
 
-Subsec. (q)(2). Pub. L. 109–177, § 743(a)(2), inserted “, or on premises or in property that the defendant owns, resides, or does business in” after “by the defendant”.
+Subsec. (q)(2). Pub. L. 109–177, § 743(a)(2), inserted “, or on premises or in property that the defendant owns, resides, or does business in” after “by the defendant”.
 
-2001—Subsec. (e)(4). Pub. L. 107–56, § 319(d)(2), added par. (4).
+2001—Subsec. (e)(4). Pub. L. 107–56, § 319(d)(2), added par. (4).
 
-Subsec. (p). Pub. L. 107–56, § 319(d)(1), inserted heading and amended text of subsec. (p) generally. Prior to amendment, text read as follows: “If any of the property described in subsection (a) of this section, as a result of any act or omission of the defendant—
+Subsec. (p). Pub. L. 107–56, § 319(d)(1), inserted heading and amended text of subsec. (p) generally. Prior to amendment, text read as follows: “If any of the property described in subsection (a) of this section, as a result of any act or omission of the defendant—
 
 “(1) cannot be located upon the exercise of due diligence;
 
@@ -6609,31 +6609,31 @@ Subsec. (p). Pub. L. 107–56, § 319(d)(1), inserted heading and amended text
 
 the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).”
 
-2000—Subsec. (q). Pub. L. 106–310, § 3613(a)(1), (2), in introductory provisions, inserted “amphetamine or” before “methamphetamine” and substituted “shall” for “may”.
+2000—Subsec. (q). Pub. L. 106–310, § 3613(a)(1), (2), in introductory provisions, inserted “amphetamine or” before “methamphetamine” and substituted “shall” for “may”.
 
-Subsec. (q)(2). Pub. L. 106–310, § 3613(a)(2), (3), inserted “, the State or local government concerned, or both the United States and the State or local government concerned” after “to reimburse the United States”, “or the State or local government concerned, as the case may be,” after “costs incurred by the United States”, and “amphetamine or” before “methamphetamine”.
+Subsec. (q)(2). Pub. L. 106–310, § 3613(a)(2), (3), inserted “, the State or local government concerned, or both the United States and the State or local government concerned” after “to reimburse the United States”, “or the State or local government concerned, as the case may be,” after “costs incurred by the United States”, and “amphetamine or” before “methamphetamine”.
 
-Subsec. (q)(3). Pub. L. 106–310, § 3613(a)(4), substituted “section 3663A of title 18” for “section 3663 of title 18”.
+Subsec. (q)(3). Pub. L. 106–310, § 3613(a)(4), substituted “section 3663A of title 18” for “section 3663 of title 18”.
 
 1996—Subsec. (q). Pub. L. 104–237 added subsec. (q).
 
-1986—Subsec. (c). Pub. L. 99–570, § 1864(1), substituted “subsection (n)” for “subsection (*o*)”.
+1986—Subsec. (c). Pub. L. 99–570, § 1864(1), substituted “subsection (n)” for “subsection (*o*)”.
 
-Subsec. (f). Pub. L. 99–570, § 1864(2), substituted “subsection (e)” for “subsection (f)”.
+Subsec. (f). Pub. L. 99–570, § 1864(2), substituted “subsection (e)” for “subsection (f)”.
 
-Subsec. (i)(1). Pub. L. 99–570, § 1864(3), substituted “this subchapter” for “this chapter”.
+Subsec. (i)(1). Pub. L. 99–570, § 1864(3), substituted “this subchapter” for “this chapter”.
 
-Subsec. (k). Pub. L. 99–570, § 1864(1), (4), which directed the substitution of “subsection (n)” for “subsection (*o*)” in “the second subsection (h)”, and directed the redesignation of “the second subsection (h)” as subsection (k), were executed to this subsection because the “second subsection (h)” had been editorially redesignated subsec. (k) to reflect the probable intent of Congress. See 1984 Amendment note below.
+Subsec. (k). Pub. L. 99–570, § 1864(1), (4), which directed the substitution of “subsection (n)” for “subsection (*o*)” in “the second subsection (h)”, and directed the redesignation of “the second subsection (h)” as subsection (k), were executed to this subsection because the “second subsection (h)” had been editorially redesignated subsec. (k) to reflect the probable intent of Congress. See 1984 Amendment note below.
 
-Subsec. (p). Pub. L. 99–570, § 1153(b), which directed that “section 413 of title II of the Comprehensive Drug Abuse Prevention and Control Act of 1975” be amended “by redesignating subsection ‘(p)’ as subsection ‘(q)’ ” and adding subsec. (p) was executed to this section, which is section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, as the probable intent of Congress, by adding a subsec. (p) in view of the prior redesignation of subsec. (p) as (*o*) by Pub. L. 98–473, § 2301(e)(2). See 1984 Amendment note below.
+Subsec. (p). Pub. L. 99–570, § 1153(b), which directed that “section 413 of title II of the Comprehensive Drug Abuse Prevention and Control Act of 1975” be amended “by redesignating subsection ‘(p)’ as subsection ‘(q)’ ” and adding subsec. (p) was executed to this section, which is section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970, as the probable intent of Congress, by adding a subsec. (p) in view of the prior redesignation of subsec. (p) as (*o*) by Pub. L. 98–473, § 2301(e)(2). See 1984 Amendment note below.
 
-1984—Subsec. (a). Pub. L. 98–473, § 2301(d), inserted “In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.”
+1984—Subsec. (a). Pub. L. 98–473, § 2301(d), inserted “In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.”
 
-Subsec. (d). Pub. L. 98–473, § 2301(e), struck out subsec. (d) which related to forfeiture of property other than that described in subsec. (a) and the conditions therefor, and redesignated former subsec. (e) as (d).
+Subsec. (d). Pub. L. 98–473, § 2301(e), struck out subsec. (d) which related to forfeiture of property other than that described in subsec. (a) and the conditions therefor, and redesignated former subsec. (e) as (d).
 
-Subsecs. (e) to (p). Pub. L. 98–473, § 2301(e)(2), which directed that this section be amended by redesignating subsecs. (e), (f), (g), (h), (i), (*l*), (m), (n), (*o*), and (p) as subsecs. (d), (e), (f), (g), (h), (i), (j), (h), (*l*), (m), (n), and (*o*), respectively, was executed by redesignating subsecs. (e) to (p) as (d) to (*o*), respectively, to give effect to the probable intent of Congress.
+Subsecs. (e) to (p). Pub. L. 98–473, § 2301(e)(2), which directed that this section be amended by redesignating subsecs. (e), (f), (g), (h), (i), (*l*), (m), (n), (*o*), and (p) as subsecs. (d), (e), (f), (g), (h), (i), (j), (h), (*l*), (m), (n), and (*o*), respectively, was executed by redesignating subsecs. (e) to (p) as (d) to (*o*), respectively, to give effect to the probable intent of Congress.
 
-Subsec. (n)(1). Pub. L. 98–473, § 2301(f), struck out “for at least seven successive court days” after “to dispose of the property”.
+Subsec. (n)(1). Pub. L. 98–473, § 2301(f), struck out “for at least seven successive court days” after “to dispose of the property”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6643,17 +6643,17 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 **Savings Clause**
 
-Pub. L. 109–177, title VII, § 743(b), Mar. 9, 2006, 120 Stat. 273, provided that: “Nothing in this section [amending this section] shall be interpreted or construed to amend, alter, or otherwise affect the obligations, liabilities and other responsibilities of any person under any Federal or State environmental laws.”
+Pub. L. 109–177, title VII, § 743(b), Mar. 9, 2006, 120 Stat. 273, provided that: “Nothing in this section [amending this section] shall be interpreted or construed to amend, alter, or otherwise affect the obligations, liabilities and other responsibilities of any person under any Federal or State environmental laws.”
 
-#### § 853a. Transferred
+#### § 853a. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 100–690, title V, § 5301, Nov. 18, 1988, 102 Stat. 4310, which related to denial of Federal benefits to drug traffickers and possessors, was renumbered section 421 of the Controlled Substances Act by Pub. L. 101–647, title X, § 1002(d)(1), Nov. 29, 1990, 104 Stat. 4827, and is classified to section 862 of this title.
+Section, Pub. L. 100–690, title V, § 5301, Nov. 18, 1988, 102 Stat. 4310, which related to denial of Federal benefits to drug traffickers and possessors, was renumbered section 421 of the Controlled Substances Act by Pub. L. 101–647, title X, § 1002(d)(1), Nov. 29, 1990, 104 Stat. 4827, and is classified to section 862 of this title.
 
-#### § 854. Investment of illicit drug profits
+#### § 854. Investment of illicit drug profits
 
 **(a) Prohibition**
 
@@ -6671,15 +6671,15 @@ As used in this section, the term “enterprise” includes any individual, part
 
 The provisions of this section shall be liberally construed to effectuate its remedial purposes.
 
-(Pub. L. 91–513, title II, § 414, as added Pub. L. 98–473, title II, § 303, Oct. 12, 1984, 98 Stat. 2049.)
+(Pub. L. 91–513, title II, § 414, as added Pub. L. 98–473, title II, § 303, Oct. 12, 1984, 98 Stat. 2049.)
 
-#### § 855. Alternative fine
+#### § 855. Alternative fine
 
 In lieu of a fine otherwise authorized by this part, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
 
-(Pub. L. 91–513, title II, § 415, as added Pub. L. 98–473, title II, § 2302, Oct. 12, 1984, 98 Stat. 2193.)
+(Pub. L. 91–513, title II, § 415, as added Pub. L. 98–473, title II, § 2302, Oct. 12, 1984, 98 Stat. 2193.)
 
-#### § 856. Maintaining drug-involved premises
+#### § 856. Maintaining drug-involved premises
 
 **(a) Unlawful acts** Except as authorized by this subchapter, it shall be unlawful to—
 
@@ -6709,25 +6709,25 @@ A violation of subsection (a) shall be considered an offense against property fo
 
 Any person who violates subsection (a) shall be subject to declaratory and injunctive remedies as set forth in section 843(f) of this title.
 
-(Pub. L. 91–513, title II, § 416, as added Pub. L. 99–570, title I, § 1841(a), Oct. 27, 1986, 100 Stat. 3207–52; amended Pub. L. 106–310, div. B, title XXXVI, § 3613(e), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 108–21, title VI, § 608(b)(1), (2), (c), Apr. 30, 2003, 117 Stat. 691.)
+(Pub. L. 91–513, title II, § 416, as added Pub. L. 99–570, title I, § 1841(a), Oct. 27, 1986, 100 Stat. 3207–52; amended Pub. L. 106–310, div. B, title XXXVI, § 3613(e), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 108–21, title VI, § 608(b)(1), (2), (c), Apr. 30, 2003, 117 Stat. 691.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2003—Pub. L. 108–21, § 608(b)(2), substituted “Maintaining drug-involved premises” for “Establishment of manufacturing operations” in section catchline.
+2003—Pub. L. 108–21, § 608(b)(2), substituted “Maintaining drug-involved premises” for “Establishment of manufacturing operations” in section catchline.
 
-Subsec. (a)(1). Pub. L. 108–21, § 608(b)(1)(A), substituted “open, lease, rent, use, or maintain any place, whether permanently or temporarily,” for “open or maintain any place”.
+Subsec. (a)(1). Pub. L. 108–21, § 608(b)(1)(A), substituted “open, lease, rent, use, or maintain any place, whether permanently or temporarily,” for “open or maintain any place”.
 
-Subsec. (a)(2). Pub. L. 108–21, § 608(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “manage or control any building, room, or enclosure, either as an owner, lessee, agent, employee, or mortgagee, and knowingly and intentionally rent, lease, or make available for use, with or without compensation, the building, room, or enclosure for the purpose of unlawfully manufacturing, storing, distributing, or using a controlled substance.”
+Subsec. (a)(2). Pub. L. 108–21, § 608(b)(1)(B), added par. (2) and struck out former par. (2) which read as follows: “manage or control any building, room, or enclosure, either as an owner, lessee, agent, employee, or mortgagee, and knowingly and intentionally rent, lease, or make available for use, with or without compensation, the building, room, or enclosure for the purpose of unlawfully manufacturing, storing, distributing, or using a controlled substance.”
 
-Subsecs. (d), (e). Pub. L. 108–21, § 608(c), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 108–21, § 608(c), added subsecs. (d) and (e).
 
 2000—Subsec. (c). Pub. L. 106–310 added subsec. (c).
 
-#### § 857. Repealed. Pub. L. 101–647, title XXIV, § 2401(d), Nov. 29, 1990, 104 Stat. 4859
+#### § 857. Repealed. Pub. L. 101–647, title XXIV, § 2401(d), Nov. 29, 1990, 104 Stat. 4859
 
-Section, Pub. L. 99–570, title I, § 1822, Oct. 27, 1986, 100 Stat. 3207–51; Pub. L. 100–690, title VI, § 6485, Nov. 18, 1988, 102 Stat. 4384; Pub. L. 101–647, title XXIV, § 2401(b), Nov. 29, 1990, 104 Stat. 4859, related to interstate and foreign sale and transportation of drug paraphernalia.
+Section, Pub. L. 99–570, title I, § 1822, Oct. 27, 1986, 100 Stat. 3207–51; Pub. L. 100–690, title VI, § 6485, Nov. 18, 1988, 102 Stat. 4384; Pub. L. 101–647, title XXIV, § 2401(b), Nov. 29, 1990, 104 Stat. 4859, related to interstate and foreign sale and transportation of drug paraphernalia.
 
 Subsec. (a), which related to unlawful acts, was repealed.
 
@@ -6737,15 +6737,15 @@ Subsecs. (b) to (f) were redesignated as subsecs. (b) to (f) of section 422 of t
 
 **Effective Date**
 
-Pub. L. 99–570, title I, § 1823, Oct. 27, 1986, 100 Stat. 3207–52, which provided that subtitle O (§§ 1821–1823) of title I of Pub. L. 99–570, enacting this section and provisions set out as a note under section 801 of this title, was to become effective 90 days after Oct. 27, 1986, was repealed by Pub. L. 101–647, title XXIV, § 2401(d), Nov. 29, 1990, 104 Stat. 4859.
+Pub. L. 99–570, title I, § 1823, Oct. 27, 1986, 100 Stat. 3207–52, which provided that subtitle O (§§ 1821–1823) of title I of Pub. L. 99–570, enacting this section and provisions set out as a note under section 801 of this title, was to become effective 90 days after Oct. 27, 1986, was repealed by Pub. L. 101–647, title XXIV, § 2401(d), Nov. 29, 1990, 104 Stat. 4859.
 
-#### § 858. Endangering human life while illegally manufacturing controlled substance
+#### § 858. Endangering human life while illegally manufacturing controlled substance
 
 Whoever, while manufacturing a controlled substance in violation of this subchapter, or attempting to do so, or transporting or causing to be transported materials, including chemicals, to do so, creates a substantial risk of harm to human life shall be fined in accordance with title 18 or imprisoned not more than 10 years, or both.
 
-(Pub. L. 91–513, title II, § 417, as added Pub. L. 100–690, title VI, § 6301(a), Nov. 18, 1988, 102 Stat. 4370.)
+(Pub. L. 91–513, title II, § 417, as added Pub. L. 100–690, title VI, § 6301(a), Nov. 18, 1988, 102 Stat. 4370.)
 
-#### § 859. Distribution to persons under age twenty-one
+#### § 859. Distribution to persons under age twenty-one
 
 **(a) First offense**
 
@@ -6755,7 +6755,7 @@ Except as provided in section 860 of this title, any person at least eighteen ye
 
 Except as provided in section 860 of this title, any person at least eighteen years of age who violates section 841(a)(1) of this title by distributing a controlled substance to a person under twenty-one years of age after a prior conviction under subsection (a) of this section (or under section 333(b) of this title as in effect prior to May 1, 1971) has become final, is subject to (1) three times the maximum punishment authorized by section 841(b) of this title, and (2) at least three times any term of supervised release authorized by section 841(b) of this title, for a second or subsequent offense involving the same controlled substance and schedule. Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year. Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.
 
-(Pub. L. 91–513, title II, § 418, formerly § 405, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 98–473, title II, §§ 224(b), 503(b)(3), Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570, title I, §§ 1004(a), 1005(b)(1), 1105(a), (b), Oct. 27, 1986, 100 Stat. 3207–6, 3207–11; Pub. L. 100–690, title VI, §§ 6452(b), 6455, 6456, Nov. 18, 1988, 102 Stat. 4371, 4372; renumbered § 418 and amended Pub. L. 101–647, title X, §§ 1002(a), 1003(a), title XXXV, § 3599L, Nov. 29, 1990, 104 Stat. 4827, 4828, 4932.)
+(Pub. L. 91–513, title II, § 418, formerly § 405, Oct. 27, 1970, 84 Stat. 1265; Pub. L. 98–473, title II, §§ 224(b), 503(b)(3), Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570, title I, §§ 1004(a), 1005(b)(1), 1105(a), (b), Oct. 27, 1986, 100 Stat. 3207–6, 3207–11; Pub. L. 100–690, title VI, §§ 6452(b), 6455, 6456, Nov. 18, 1988, 102 Stat. 4371, 4372; renumbered § 418 and amended Pub. L. 101–647, title X, §§ 1002(a), 1003(a), title XXXV, § 3599L, Nov. 29, 1990, 104 Stat. 4827, 4828, 4932.)
 
 **Editorial Notes**
 
@@ -6765,33 +6765,33 @@ Section was classified to section 845 of this title prior to renumbering by Pub.
 
 **Amendments**
 
-1990—Subsec. (a). Pub. L. 101–647, § 1003(a)(1), substituted “subject to (1) twice the maximum punishment authorized by section 841(b) of this title” for “punishable by (1) a term of imprisonment, or a fine, or both, up to twice that authorized by section 841(b) of this title”.
+1990—Subsec. (a). Pub. L. 101–647, § 1003(a)(1), substituted “subject to (1) twice the maximum punishment authorized by section 841(b) of this title” for “punishable by (1) a term of imprisonment, or a fine, or both, up to twice that authorized by section 841(b) of this title”.
 
-Pub. L. 101–647, § 1002(a)(2)(A), substituted “section 860” for “section 845a”.
+Pub. L. 101–647, § 1002(a)(2)(A), substituted “section 860” for “section 845a”.
 
-Subsec. (b). Pub. L. 101–647, § 3599L, substituted “has become final” for “have become final”.
+Subsec. (b). Pub. L. 101–647, § 3599L, substituted “has become final” for “have become final”.
 
-Pub. L. 101–647, § 1003(a)(2), substituted “subject to (1) three times the maximum punishment authorized by section 841(b) of this title” for “punishable by (1) a term of imprisonment, or a fine, or both, up to three times that authorized by section 841(b) of this title”.
+Pub. L. 101–647, § 1003(a)(2), substituted “subject to (1) three times the maximum punishment authorized by section 841(b) of this title” for “punishable by (1) a term of imprisonment, or a fine, or both, up to three times that authorized by section 841(b) of this title”.
 
-Pub. L. 101–647, § 1002(a)(2)(B), substituted “section 860” for “section 845a”.
+Pub. L. 101–647, § 1002(a)(2)(B), substituted “section 860” for “section 845a”.
 
-1988—Subsec. (a). Pub. L. 100–690, § 6455, inserted at end “The mandatory minimum sentencing provisions of this subsection shall not apply to offenses involving 5 grams or less of marihuana.”
+1988—Subsec. (a). Pub. L. 100–690, § 6455, inserted at end “The mandatory minimum sentencing provisions of this subsection shall not apply to offenses involving 5 grams or less of marihuana.”
 
-Subsec. (b). Pub. L. 100–690, § 6452(b), struck out “or subsequent” after “Second” in heading, and in text struck out “or convictions” after “a prior conviction”, and inserted at end “Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.”
+Subsec. (b). Pub. L. 100–690, § 6452(b), struck out “or subsequent” after “Second” in heading, and in text struck out “or convictions” after “a prior conviction”, and inserted at end “Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.”
 
-Pub. L. 100–690, § 6456, struck out “The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.”
+Pub. L. 100–690, § 6456, struck out “The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.”
 
-1986—Subsec. (a). Pub. L. 99–570, § 1105(a), inserted “Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year.”
+1986—Subsec. (a). Pub. L. 99–570, § 1105(a), inserted “Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year.”
 
-Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term”.
+Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term”.
 
-Subsec. (b). Pub. L. 99–570, § 1105(b), inserted “Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.”
+Subsec. (b). Pub. L. 99–570, § 1105(b), inserted “Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.”
 
-Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term”.
+Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term”.
 
-1984—Subsecs. (a), (b). Pub. L. 98–473, § 503(b)(3), substituted “Except as provided in section 845a of this title, any” for “Any”.
+1984—Subsecs. (a), (b). Pub. L. 98–473, § 503(b)(3), substituted “Except as provided in section 845a of this title, any” for “Any”.
 
-Pub. L. 98–473, § 224(b), which directed amendment of this section effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was repealed by Pub. L. 99–570, § 1005(b)(1).
+Pub. L. 98–473, § 224(b), which directed amendment of this section effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was repealed by Pub. L. 99–570, § 1005(b)(1).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6803,7 +6803,7 @@ Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking eff
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under section 801 of this title.
 
-#### § 860. Distribution or manufacturing in or near schools and colleges
+#### § 860. Distribution or manufacturing in or near schools and colleges
 
 **(a) Penalty**
 
@@ -6835,7 +6835,7 @@ In the case of any mandatory minimum sentence imposed under this section, imposi
 
 **(4)** The term “swimming pool” includes any parking lot appurtenant thereto.
 
-(Pub. L. 91–513, title II, § 419, formerly § 405A, as added Pub. L. 98–473, title II, § 503(a), Oct. 12, 1984, 98 Stat. 2069; amended Pub. L. 99–570, title I, §§ 1004(a), 1104, 1105(c), 1841(b), 1866(b), (c), Oct. 27, 1986, 100 Stat. 3207–6, 3207–11, 3207–52, 3207–55; Pub. L. 99–646, § 28, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 100–690, title VI, §§ 6452(b)(1), 6457, 6458, Nov. 18, 1988, 102 Stat. 4371, 4373; renumbered § 419 and amended Pub. L. 101–647, title X, §§ 1002(b), 1003(b), title XII, § 1214, title XV, § 1502, title XXXV, § 3599L, Nov. 29, 1990, 104 Stat. 4827, 4829, 4833, 4836, 4932; Pub. L. 103–322, title XIV, § 140006, title XXXII, § 320107, title XXXIII, § 330009(a), Sept. 13, 1994, 108 Stat. 2032, 2111, 2143.)
+(Pub. L. 91–513, title II, § 419, formerly § 405A, as added Pub. L. 98–473, title II, § 503(a), Oct. 12, 1984, 98 Stat. 2069; amended Pub. L. 99–570, title I, §§ 1004(a), 1104, 1105(c), 1841(b), 1866(b), (c), Oct. 27, 1986, 100 Stat. 3207–6, 3207–11, 3207–52, 3207–55; Pub. L. 99–646, § 28, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 100–690, title VI, §§ 6452(b)(1), 6457, 6458, Nov. 18, 1988, 102 Stat. 4371, 4373; renumbered § 419 and amended Pub. L. 101–647, title X, §§ 1002(b), 1003(b), title XII, § 1214, title XV, § 1502, title XXXV, § 3599L, Nov. 29, 1990, 104 Stat. 4827, 4829, 4833, 4836, 4932; Pub. L. 103–322, title XIV, § 140006, title XXXII, § 320107, title XXXIII, § 330009(a), Sept. 13, 1994, 108 Stat. 2032, 2111, 2143.)
 
 **Editorial Notes**
 
@@ -6845,53 +6845,53 @@ Section was classified to section 845a of this title prior to renumbering by Pub
 
 **Amendments**
 
-1994—Subsec. (a). Pub. L. 103–322, § 320107, substituted “playground, or housing facility owned by a public housing authority, or within” for “playground, or within”.
+1994—Subsec. (a). Pub. L. 103–322, § 320107, substituted “playground, or housing facility owned by a public housing authority, or within” for “playground, or within”.
 
-Subsec. (b). Pub. L. 103–322, §§ 320107, 330009(a), substituted “playground, or housing facility owned by a public housing authority, or within” for “playground, or within” and inserted a period at end of penultimate sentence.
+Subsec. (b). Pub. L. 103–322, §§ 320107, 330009(a), substituted “playground, or housing facility owned by a public housing authority, or within” for “playground, or within” and inserted a period at end of penultimate sentence.
 
-Subsecs. (c) to (e). Pub. L. 103–322, § 140006, added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+Subsecs. (c) to (e). Pub. L. 103–322, § 140006, added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-1990—Subsec. (a). Pub. L. 101–647, § 1502(1), inserted “or a playground,” after “university,” and struck out “playground,” after “within 100 feet of a”.
+1990—Subsec. (a). Pub. L. 101–647, § 1502(1), inserted “or a playground,” after “university,” and struck out “playground,” after “within 100 feet of a”.
 
-Pub. L. 101–647, § 1214(1)(C), substituted “a person shall be sentenced under this subsection to a term of imprisonment of not less than one year” for “a term of imprisonment under this subsection shall be not less than one year”.
+Pub. L. 101–647, § 1214(1)(C), substituted “a person shall be sentenced under this subsection to a term of imprisonment of not less than one year” for “a term of imprisonment under this subsection shall be not less than one year”.
 
-Pub. L. 101–647, § 1214(1)(B), inserted “A fine up to twice that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection.”
+Pub. L. 101–647, § 1214(1)(B), inserted “A fine up to twice that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection.”
 
-Pub. L. 101–647, § 1214(1)(A), which directed the amendment of par. (1) by striking out “, or a fine, or both,” could not be executed because those words did not appear. See note below.
+Pub. L. 101–647, § 1214(1)(A), which directed the amendment of par. (1) by striking out “, or a fine, or both,” could not be executed because those words did not appear. See note below.
 
-Pub. L. 101–647, § 1003(b)(1), which directed the substitution of “subject to (1) twice the maximum punishment authorized by section 841(b) of this title” for “punishable (1) by a term of imprisonment, or a fine, or both, up to twice that authorized by section 841(b) of this title”, was executed by making the substitution for “punishable (1) by a term of imprisonment, or fine, or both, up to twice that authorized by section 841(b) of this title” to reflect the probable intent of Congress.
+Pub. L. 101–647, § 1003(b)(1), which directed the substitution of “subject to (1) twice the maximum punishment authorized by section 841(b) of this title” for “punishable (1) by a term of imprisonment, or a fine, or both, up to twice that authorized by section 841(b) of this title”, was executed by making the substitution for “punishable (1) by a term of imprisonment, or fine, or both, up to twice that authorized by section 841(b) of this title” to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 101–647, § 3599L, substituted “has become final” for “have become final”.
+Subsec. (b). Pub. L. 101–647, § 3599L, substituted “has become final” for “have become final”.
 
-Pub. L. 101–647, § 1502(2), inserted “or a playground,” after “university,” and struck out “playground,” after “within 100 feet of a”.
+Pub. L. 101–647, § 1502(2), inserted “or a playground,” after “university,” and struck out “playground,” after “within 100 feet of a”.
 
-Pub. L. 101–647, § 1214(2)(B), inserted after first sentence “A fine up to three times that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a person shall be sentenced under this subsection to a term of imprisonment of not less than three years”.
+Pub. L. 101–647, § 1214(2)(B), inserted after first sentence “A fine up to three times that authorized by section 841(b) of this title may be imposed in addition to any term of imprisonment authorized by this subsection. Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a person shall be sentenced under this subsection to a term of imprisonment of not less than three years”.
 
-Subsec. (b)(1)(B). Pub. L. 101–647, § 1214(2)(A), which directed the amendment of subpar. (B) by striking “, or a fine up to three times that” through “or both”, could not be executed because the language did not appear after execution of the intervening amendment by Pub. L. 101–647, § 1003(b)(2). See below.
+Subsec. (b)(1)(B). Pub. L. 101–647, § 1214(2)(A), which directed the amendment of subpar. (B) by striking “, or a fine up to three times that” through “or both”, could not be executed because the language did not appear after execution of the intervening amendment by Pub. L. 101–647, § 1003(b)(2). See below.
 
-Pub. L. 101–647, § 1003(b)(2), substituted “three times the maximum punishment authorized by section 841(b) of this title for a first offense” for “a term of imprisonment of up to three times that authorized by section 841(b) of this title for a first offense, or a fine up to three times that authorized by section 841(b) of this title for a first offense, or both”.
+Pub. L. 101–647, § 1003(b)(2), substituted “three times the maximum punishment authorized by section 841(b) of this title for a first offense” for “a term of imprisonment of up to three times that authorized by section 841(b) of this title for a first offense, or a fine up to three times that authorized by section 841(b) of this title for a first offense, or both”.
 
-Subsec. (c). Pub. L. 101–647, § 1214(3), inserted “mandatory minimum” after “In the case of any”, struck out “subsection (b)” after “imposed under”, struck out “of” before “this section” in a reference to “of this section” which was editorially added before “, imposition or”, and substituted “An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section” for “An individual convicted under subsection (b) of this section shall not be eligible for parole under chapter 311 of title 18 until the individual has served the minimum sentence required by such subsection”.
+Subsec. (c). Pub. L. 101–647, § 1214(3), inserted “mandatory minimum” after “In the case of any”, struck out “subsection (b)” after “imposed under”, struck out “of” before “this section” in a reference to “of this section” which was editorially added before “, imposition or”, and substituted “An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section” for “An individual convicted under subsection (b) of this section shall not be eligible for parole under chapter 311 of title 18 until the individual has served the minimum sentence required by such subsection”.
 
-1988—Subsec. (a). Pub. L. 100–690, §§ 6457, 6458(a), inserted “, possessing with intent to distribute,” after “distributing” and “, or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility,” after “university”.
+1988—Subsec. (a). Pub. L. 100–690, §§ 6457, 6458(a), inserted “, possessing with intent to distribute,” after “distributing” and “, or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility,” after “university”.
 
-Subsec. (b). Pub. L. 100–690, §§ 6452(b)(1), 6457, 6458(a), inserted “, possessing with intent to distribute,” after “distributing”, and “, or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility,” after “university”, substituted “a prior conviction” for “a prior conviction or convictions”, and inserted at end “Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.”
+Subsec. (b). Pub. L. 100–690, §§ 6452(b)(1), 6457, 6458(a), inserted “, possessing with intent to distribute,” after “distributing”, and “, or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility,” after “university”, substituted “a prior conviction” for “a prior conviction or convictions”, and inserted at end “Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.”
 
-Subsec. (d). Pub. L. 100–690, § 6458(b), added subsec. (d).
+Subsec. (d). Pub. L. 100–690, § 6458(b), added subsec. (d).
 
-1986—Subsec. (a). Pub. L. 99–570, §§ 1104(a), (b), 1105(c), 1841(b)(1), inserted “or section 856 of this title” and “or manufacturing”, substituted “a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university” for “a public or private elementary or secondary school”, struck out “involving the same controlled substance and schedule” after “for a first offense”, and inserted “Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.”
+1986—Subsec. (a). Pub. L. 99–570, §§ 1104(a), (b), 1105(c), 1841(b)(1), inserted “or section 856 of this title” and “or manufacturing”, substituted “a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university” for “a public or private elementary or secondary school”, struck out “involving the same controlled substance and schedule” after “for a first offense”, and inserted “Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana.”
 
-Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term”.
+Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term”.
 
-Subsec. (b). Pub. L. 99–646 which directed that “parole” be inserted after “(2) at least three times any special” could not be executed in view of prior amendment by Pub. L. 99–570, § 1104(c) below.
+Subsec. (b). Pub. L. 99–646 which directed that “parole” be inserted after “(2) at least three times any special” could not be executed in view of prior amendment by Pub. L. 99–570, § 1104(c) below.
 
-Pub. L. 99–570, § 1866(b), which directed that “term of supervised release” be substituted for “special term” could not be executed in view of prior amendment by Pub. L. 99–570, § 1104(c) below.
+Pub. L. 99–570, § 1866(b), which directed that “term of supervised release” be substituted for “special term” could not be executed in view of prior amendment by Pub. L. 99–570, § 1104(c) below.
 
-Pub. L. 99–570, §§ 1104(a), 1841(b)(2), inserted reference to section 856 of this title, inserted “or manufacturing” after “distributing” and substituted “a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university” for “a public or private elementary or secondary school”.
+Pub. L. 99–570, §§ 1104(a), 1841(b)(2), inserted reference to section 856 of this title, inserted “or manufacturing” after “distributing” and substituted “a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university” for “a public or private elementary or secondary school”.
 
-Pub. L. 99–570, § 1104(c), amended cls. (1) and (2) generally. Prior to amendment, cls. (1) and (2) read as follows: “(1) by a term of imprisonment of not less than three years and not more than life imprisonment and (2) at least three times any special term authorized by section 841(b) of this title for a second or subsequent offense involving the same controlled substance and schedule.”
+Pub. L. 99–570, § 1104(c), amended cls. (1) and (2) generally. Prior to amendment, cls. (1) and (2) read as follows: “(1) by a term of imprisonment of not less than three years and not more than life imprisonment and (2) at least three times any special term authorized by section 841(b) of this title for a second or subsequent offense involving the same controlled substance and schedule.”
 
-Subsec. (c). Pub. L. 99–570, § 1866(c), substituted reference to chapter 311 of title 18 for reference to section 4202 of that title.
+Subsec. (c). Pub. L. 99–570, § 1866(c), substituted reference to chapter 311 of title 18 for reference to section 4202 of that title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -6899,13 +6899,13 @@ Subsec. (c). Pub. L. 99–570, § 1866(c), substituted reference to chapter 31
 
 Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking effect of section 3583 of Title 18, Crimes and Criminal Procedure (Nov. 1, 1987), see section 1004(b) of Pub. L. 99–570 set out as a note under section 841 of this title.
 
-#### § 860a. Consecutive sentence for manufacturing or distributing, or possessing with intent to manufacture or distribute, methamphetamine on premises where children are present or reside
+#### § 860a. Consecutive sentence for manufacturing or distributing, or possessing with intent to manufacture or distribute, methamphetamine on premises where children are present or reside
 
 Whoever violates section 841(a)(1) of this title by manufacturing or distributing, or possessing with intent to manufacture or distribute, methamphetamine or its salts, isomers or salts of isomers on premises in which an individual who is under the age of 18 years is present or resides, shall, in addition to any other sentence imposed, be imprisoned for a period of any term of years but not more than 20 years, subject to a fine, or both.
 
-(Pub. L. 91–513, title II, § 419a, as added Pub. L. 109–177, title VII, § 734(a), Mar. 9, 2006, 120 Stat. 270.)
+(Pub. L. 91–513, title II, § 419a, as added Pub. L. 109–177, title VII, § 734(a), Mar. 9, 2006, 120 Stat. 270.)
 
-#### § 861. Employment or use of persons under 18 years of age in drug operations
+#### § 861. Employment or use of persons under 18 years of age in drug operations
 
 **(a) Unlawful acts** It shall be unlawful for any person at least eighteen years of age to knowingly and intentionally—
 
@@ -6923,9 +6923,9 @@ Any person who violates subsection (a) is subject to twice the maximum punishmen
 
 Any person who violates subsection (a) after a prior conviction under subsection (a) of this section has become final, is subject to three times the maximum punishment otherwise authorized and at least three times any term of supervised release otherwise authorized for a first offense. Except to the extent a greater minimum sentence is otherwise provided, a term of imprisonment under this subsection shall not be less than one year. Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.
 
-**(d) Penalty for providing or distributing controlled substance to underage person** Any person who violates subsection (a)(1) or (2) 1
+**(d) Penalty for providing or distributing controlled substance to underage person** Any person who violates subsection (a)(1) or (2) 1
 
-<sup>1</sup>  So in original. Probably should be followed by a dash.
+<sup>1</sup> So in original. Probably should be followed by a dash.
 
 **(1)** by knowingly providing or distributing a controlled substance or a controlled substance analogue to any person under eighteen years of age; or
 
@@ -6935,9 +6935,9 @@ shall be subject to a term of imprisonment for not more than five years or a fin
 
 **(e) Suspension of sentence; probation; parole**
 
-In any case of any sentence imposed under this section, imposition or execution of such sentence shall not be suspended and probation shall not be granted. An individual convicted under this section of an offense for which a mandatory minimum term of imprisonment is applicable shall not be eligible for parole under section 4202 of title 18 2
+In any case of any sentence imposed under this section, imposition or execution of such sentence shall not be suspended and probation shall not be granted. An individual convicted under this section of an offense for which a mandatory minimum term of imprisonment is applicable shall not be eligible for parole under section 4202 of title 18 2
 
-<sup>2</sup>  See References in Text note below.
+<sup>2</sup> See References in Text note below.
 
 until the individual has served the mandatory term of imprisonment as enhanced by this section.
 
@@ -6945,13 +6945,13 @@ until the individual has served the mandatory term of imprisonment as enhanced b
 
 Except as authorized by this subchapter, it shall be unlawful for any person to knowingly or intentionally provide or distribute any controlled substance to a pregnant individual in violation of any provision of this subchapter. Any person who violates this subsection shall be subject to the provisions of subsections (b), (c), and (e).
 
-(Pub. L. 91–513, title II, § 420, formerly § 405B, as added Pub. L. 99–570, title I, § 1102, Oct. 27, 1986, 100 Stat. 3207–10; amended Pub. L. 100–690, title VI, §§ 6452(b)(1), 6459, 6470(d), Nov. 18, 1988, 102 Stat. 4371, 4373, 4378; renumbered § 420 and amended Pub. L. 101–647, title X, §§ 1002(c), 1003(c), title XXXV, § 3599L, Nov. 29, 1990, 104 Stat. 4827, 4829, 4932.)
+(Pub. L. 91–513, title II, § 420, formerly § 405B, as added Pub. L. 99–570, title I, § 1102, Oct. 27, 1986, 100 Stat. 3207–10; amended Pub. L. 100–690, title VI, §§ 6452(b)(1), 6459, 6470(d), Nov. 18, 1988, 102 Stat. 4371, 4373, 4378; renumbered § 420 and amended Pub. L. 101–647, title X, §§ 1002(c), 1003(c), title XXXV, § 3599L, Nov. 29, 1990, 104 Stat. 4827, 4829, 4932.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4202 of title 18, referred to in subsec. (e), which, as originally enacted in Title 18, Crimes and Criminal Procedure, related to eligibility of prisoners for parole, was repealed and a new section 4202 enacted as part of the repeal and enactment of a new chapter 311 (§ 4201 et seq.) of Title 18, by Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 219. For provisions relating to the eligibility of prisoners for parole, see section 4205 of Title 18. Pub. L. 98–473, title II, §§ 218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, as amended, provided that, effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), chapter 311 of Title 18 is repealed, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances. See Effective Date note set out under section 3551 of Title 18.
+Section 4202 of title 18, referred to in subsec. (e), which, as originally enacted in Title 18, Crimes and Criminal Procedure, related to eligibility of prisoners for parole, was repealed and a new section 4202 enacted as part of the repeal and enactment of a new chapter 311 (§ 4201 et seq.) of Title 18, by Pub. L. 94–233, § 2, Mar. 15, 1976, 90 Stat. 219. For provisions relating to the eligibility of prisoners for parole, see section 4205 of Title 18. Pub. L. 98–473, title II, §§ 218(a)(5), 235(a)(1), (b)(1), Oct. 12, 1984, 98 Stat. 2027, 2031, 2032, as amended, provided that, effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), chapter 311 of Title 18 is repealed, subject to remaining effective for five years after Nov. 1, 1987, in certain circumstances. See Effective Date note set out under section 3551 of Title 18.
 
 **Codification**
 
@@ -6959,19 +6959,19 @@ Section was classified to section 845b of this title prior to renumbering by Pub
 
 **Amendments**
 
-1990—Subsec. (b). Pub. L. 101–647, § 1003(c)(1), which directed the substitution of “is subject to twice the maximum punishment otherwise authorized” for “is punishable by a term of imprisonment up to twice that authorized, or up to twice the fine authorized, or both,” was executed by making the substitution for “is punishable by a term of imprisonment up to twice that otherwise authorized, or up to twice the fine otherwise authorized, or both,” to reflect the probable intent of Congress.
+1990—Subsec. (b). Pub. L. 101–647, § 1003(c)(1), which directed the substitution of “is subject to twice the maximum punishment otherwise authorized” for “is punishable by a term of imprisonment up to twice that authorized, or up to twice the fine authorized, or both,” was executed by making the substitution for “is punishable by a term of imprisonment up to twice that otherwise authorized, or up to twice the fine otherwise authorized, or both,” to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 101–647, § 3599L, substituted “has become final” for “have become final”.
+Subsec. (c). Pub. L. 101–647, § 3599L, substituted “has become final” for “have become final”.
 
-Pub. L. 101–647, § 1003(c)(2), which directed the substitution of “is subject to three times the maximum punishment otherwise authorized” for “is punishable by a term of imprisonment up to three times that authorized, or up to three times the fine authorized, or both,” was executed by making the substitution for “is punishable by a term of imprisonment up to three times that otherwise authorized, or up to three times the fine otherwise authorized, or both,” to reflect the probable intent of Congress.
+Pub. L. 101–647, § 1003(c)(2), which directed the substitution of “is subject to three times the maximum punishment otherwise authorized” for “is punishable by a term of imprisonment up to three times that authorized, or up to three times the fine authorized, or both,” was executed by making the substitution for “is punishable by a term of imprisonment up to three times that otherwise authorized, or up to three times the fine otherwise authorized, or both,” to reflect the probable intent of Congress.
 
-1988—Subsec. (a)(3). Pub. L. 100–690, § 6459, added par. (3).
+1988—Subsec. (a)(3). Pub. L. 100–690, § 6459, added par. (3).
 
-Subsec. (c). Pub. L. 100–690, § 6452(b)(1), struck out “or convictions” after “a prior conviction” and inserted at end “Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.”
+Subsec. (c). Pub. L. 100–690, § 6452(b)(1), struck out “or convictions” after “a prior conviction” and inserted at end “Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title.”
 
-Subsec. (e). Pub. L. 100–690, § 6470(d), struck out “required by section 841(b) of this title” after “mandatory term of imprisonment”.
+Subsec. (e). Pub. L. 100–690, § 6470(d), struck out “required by section 841(b) of this title” after “mandatory term of imprisonment”.
 
-#### § 862. Denial of Federal benefits to drug traffickers and possessors
+#### § 862. Denial of Federal benefits to drug traffickers and possessors
 
 **(a) Drug traffickers**
 
@@ -7047,7 +7047,7 @@ Nothing in this section shall be construed to affect the obligation of the Unite
 
 The denial of Federal benefits set forth in this section shall take effect for convictions occurring after September 1, 1989.
 
-(Pub. L. 91–513, title II, § 421, formerly Pub. L. 100–690, title V, § 5301, Nov. 18, 1988, 102 Stat. 4310; renumbered § 421 of Pub. L. 91–513 and amended Pub. L. 101–647, title X, § 1002(d), Nov. 29, 1990, 104 Stat. 4827.)
+(Pub. L. 91–513, title II, § 421, formerly Pub. L. 100–690, title V, § 5301, Nov. 18, 1988, 102 Stat. 4310; renumbered § 421 of Pub. L. 91–513 and amended Pub. L. 101–647, title X, § 1002(d), Nov. 29, 1990, 104 Stat. 4827.)
 
 **Editorial Notes**
 
@@ -7057,11 +7057,11 @@ Section was classified to section 853a of this title prior to renumbering by Pub
 
 **Amendments**
 
-1990—Pub. L. 101–647, § 1002(d)(1), renumbered section 853a of this title as this section.
+1990—Pub. L. 101–647, § 1002(d)(1), renumbered section 853a of this title as this section.
 
-Subsec. (a)(1). Pub. L. 101–647, § 1002(d)(2), struck out “(as such terms are defined for purposes of the Controlled Substances Act)” after “controlled substances” in introductory provisions.
+Subsec. (a)(1). Pub. L. 101–647, § 1002(d)(2), struck out “(as such terms are defined for purposes of the Controlled Substances Act)” after “controlled substances” in introductory provisions.
 
-#### § 862a. Denial of assistance and benefits for certain drug-related convictions
+#### § 862a. Denial of assistance and benefits for certain drug-related convictions
 
 **(a) In general** An individual convicted (under Federal or State law) of any offense which is classified as a felony by the law of the jurisdiction involved and which has as an element the possession, use, or distribution of a controlled substance (as defined in section 802(6) of this title) shall not be eligible for—
 
@@ -7123,15 +7123,15 @@ Subsection (a) shall not apply to a conviction if the conviction is for conduct 
 
 **(6)** Drug treatment programs.
 
-(Pub. L. 104–193, title I, § 115, Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title V, § 5516(a), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, § 4115(c)(2)(C), May 22, 2008, 122 Stat. 1109; Pub. L. 110–246, § 4(a), title IV, § 4115(c)(2)(C), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 113–79, title IV, § 4030(n), Feb. 7, 2014, 128 Stat. 814.)
+(Pub. L. 104–193, title I, § 115, Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title V, § 5516(a), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, § 4115(c)(2)(C), May 22, 2008, 122 Stat. 1109; Pub. L. 110–246, § 4(a), title IV, § 4115(c)(2)(C), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 113–79, title IV, § 4030(n), Feb. 7, 2014, 128 Stat. 814.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsecs. (a)(1), (b)(1), (e)(1), and (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(1), (b)(1), (e)(1), and (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in subsecs. (a)(2), (b)(2), and (e)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsecs. (a)(2), (b)(2), and (e)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 **Codification**
 
@@ -7141,15 +7141,15 @@ Section was enacted as part of the Personal Responsibility and Work Opportunity 
 
 **Amendments**
 
-2014—Subsec. (a)(2). Pub. L. 113–79, § 4030(n)(1), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)) or any State program carried out under that Act” for “food stamp program (as defined in section 3(*l*) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
+2014—Subsec. (a)(2). Pub. L. 113–79, § 4030(n)(1), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)) or any State program carried out under that Act” for “food stamp program (as defined in section 3(*l*) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
 
-Subsec. (b)(2). Pub. L. 113–79, § 4030(n)(2), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)), or any State program carried out under that Act” for “food stamp program (as defined in section 3(*l*) of the Food Stamp Act of 1977), or any State program carried out under the Food Stamp Act of 1977”.
+Subsec. (b)(2). Pub. L. 113–79, § 4030(n)(2), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)), or any State program carried out under that Act” for “food stamp program (as defined in section 3(*l*) of the Food Stamp Act of 1977), or any State program carried out under the Food Stamp Act of 1977”.
 
-Subsec. (e)(2). Pub. L. 113–79, § 4030(n)(3), substituted “section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act” for “section 3(s) of the Food Stamp Act of 1977, when referring to the food stamp program (as defined in section 3(*l*) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
+Subsec. (e)(2). Pub. L. 113–79, § 4030(n)(3), substituted “section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act” for “section 3(s) of the Food Stamp Act of 1977, when referring to the food stamp program (as defined in section 3(*l*) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
 
-2008—Subsecs. (a)(2), (b)(2). Pub. L. 110–246, § 4115(c)(2)(C)(i), substituted “section 3(*l*)” for “section 3(h)”.
+2008—Subsecs. (a)(2), (b)(2). Pub. L. 110–246, § 4115(c)(2)(C)(i), substituted “section 3(*l*)” for “section 3(h)”.
 
-Subsec. (e)(2). Pub. L. 110–246, § 4115(c)(2)(C), substituted “section 3(s)” for “section 3(m)” and “section 3(*l*)” for “section 3(h)”.
+Subsec. (e)(2). Pub. L. 110–246, § 4115(c)(2)(C), substituted “section 3(s)” for “section 3(m)” and “section 3(*l*)” for “section 3(h)”.
 
 1997—Subsec. (d)(2). Pub. L. 105–33 substituted “a conviction if the conviction is for conduct” for “convictions”.
 
@@ -7167,17 +7167,17 @@ Amendment by section 4115(c)(2)(C) of Pub. L. 110–246 effective Oct. 1, 2008, 
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–33, title V, § 5518(d), Aug. 5, 1997, 111 Stat. 621, provided that: “The amendments made by this chapter to a provision of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 [Pub. L. 104–193] that have not become part of another statute [chapter 1 (§§ 5501–5518) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 601 to 603, 604 to 608, 609 to 611, and 612 to 617 of Title 42, The Public Health and Welfare, and provisions set out as notes under section 612c of Title 7, Agriculture, and sections 601 and 613 of Title 42] shall take effect as if the amendments had been included in the provision at the time the provision became law.”
+Pub. L. 105–33, title V, § 5518(d), Aug. 5, 1997, 111 Stat. 621, provided that: “The amendments made by this chapter to a provision of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 [Pub. L. 104–193] that have not become part of another statute [chapter 1 (§§ 5501–5518) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 601 to 603, 604 to 608, 609 to 611, and 612 to 617 of Title 42, The Public Health and Welfare, and provisions set out as notes under section 612c of Title 7, Agriculture, and sections 601 and 613 of Title 42] shall take effect as if the amendments had been included in the provision at the time the provision became law.”
 
 **Effective Date**
 
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
-#### § 862b. Sanctioning for testing positive for controlled substances
+#### § 862b. Sanctioning for testing positive for controlled substances
 
 Notwithstanding any other provision of law, States shall not be prohibited by the Federal Government from testing welfare recipients for use of controlled substances nor from sanctioning welfare recipients who test positive for use of controlled substances.
 
-(Pub. L. 104–193, title IX, § 902, Aug. 22, 1996, 110 Stat. 2347.)
+(Pub. L. 104–193, title IX, § 902, Aug. 22, 1996, 110 Stat. 2347.)
 
 **Editorial Notes**
 
@@ -7185,7 +7185,7 @@ Notwithstanding any other provision of law, States shall not be prohibited by th
 
 Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Controlled Substances Act which comprises this subchapter.
 
-#### § 863. Drug paraphernalia
+#### § 863. Drug paraphernalia
 
 **(a) In general** It is unlawful for any person—
 
@@ -7205,7 +7205,7 @@ Any drug paraphernalia involved in any violation of subsection (a) of this secti
 
 **(d) “Drug paraphernalia” defined** The term “drug paraphernalia” means any equipment, product, or material of any kind which is primarily intended or designed for use in manufacturing, compounding, converting, concealing, producing, processing, preparing, injecting, ingesting, inhaling, or otherwise introducing into the human body a controlled substance, possession of which is unlawful under this subchapter. It includes items primarily intended or designed for use in ingesting, inhaling, or otherwise introducing marijuana,1
 
-<sup>1</sup>  So in original. Probably should be “marihuana,”.
+<sup>1</sup> So in original. Probably should be “marihuana,”.
 
 cocaine, hashish, hashish oil, PCP, methamphetamine, or amphetamines into the human body, such as—
 
@@ -7263,29 +7263,29 @@ cocaine, hashish, hashish oil, PCP, methamphetamine, or amphetamines into the hu
 
 **(2)** any item that, in the normal lawful course of business, is imported, exported, transported, or sold through the mail or by any other means, and traditionally intended for use with tobacco products, including any pipe, paper, or accessory.
 
-(Pub. L. 91–513, title II, § 422, as added and amended Pub. L. 101–647, title XXIV, § 2401(a)–(c), Nov. 29, 1990, 104 Stat. 4858, 4859; Pub. L. 106–310, div. B, title XXXVI, § 3614, Oct. 17, 2000, 114 Stat. 1230.)
+(Pub. L. 91–513, title II, § 422, as added and amended Pub. L. 101–647, title XXIV, § 2401(a)–(c), Nov. 29, 1990, 104 Stat. 4858, 4859; Pub. L. 106–310, div. B, title XXXVI, § 3614, Oct. 17, 2000, 114 Stat. 1230.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of section 857(b) to (f) of this title, which was transferred to subsecs. (b) to (f) of this section by Pub. L. 101–647, § 2401(b), was based on Pub. L. 99–570, title I, § 1822(b)–(f), Oct. 27, 1986, 100 Stat. 3207–51; Pub. L. 100–690, title VI, § 6485, Nov. 18, 1988, 102 Stat. 4384.
+The text of section 857(b) to (f) of this title, which was transferred to subsecs. (b) to (f) of this section by Pub. L. 101–647, § 2401(b), was based on Pub. L. 99–570, title I, § 1822(b)–(f), Oct. 27, 1986, 100 Stat. 3207–51; Pub. L. 100–690, title VI, § 6485, Nov. 18, 1988, 102 Stat. 4384.
 
 **Amendments**
 
 2000—Subsec. (d). Pub. L. 106–310 inserted “methamphetamine,” after “PCP,” in introductory provisions.
 
-1990—Subsec. (b). Pub. L. 101–647, § 2401(c)(1), substituted “fined under title 18” for “fined not more than $100,000”.
+1990—Subsec. (b). Pub. L. 101–647, § 2401(c)(1), substituted “fined under title 18” for “fined not more than $100,000”.
 
-Pub. L. 101–647, § 2401(b), redesignated subsec. (b) of section 857 of this title as subsec. (b) of this section. See Codification note above.
+Pub. L. 101–647, § 2401(b), redesignated subsec. (b) of section 857 of this title as subsec. (b) of this section. See Codification note above.
 
-Subsecs. (c) to (e). Pub. L. 101–647, § 2401(b), redesignated subsecs. (c) to (e) of section 857 of this title as subsecs. (c) to (e) of this section. See Codification note above.
+Subsecs. (c) to (e). Pub. L. 101–647, § 2401(b), redesignated subsecs. (c) to (e) of section 857 of this title as subsecs. (c) to (e) of this section. See Codification note above.
 
-Subsec. (f). Pub. L. 101–647, § 2401(c)(2), made technical amendment to reference to “This section” to correct reference to corresponding provision of original act.
+Subsec. (f). Pub. L. 101–647, § 2401(c)(2), made technical amendment to reference to “This section” to correct reference to corresponding provision of original act.
 
-Pub. L. 101–647, § 2401(b), redesignated subsec. (f) of section 857 of this title as subsec. (f) of this section. See Codification note above.
+Pub. L. 101–647, § 2401(b), redesignated subsec. (f) of section 857 of this title as subsec. (f) of this section. See Codification note above.
 
-#### § 864. Anhydrous ammonia
+#### § 864. Anhydrous ammonia
 
 **(a)** It is unlawful for any person—
 
@@ -7297,9 +7297,9 @@ knowing, intending, or having reasonable cause to believe that such anhydrous am
 
 **(b)** Any person who violates subsection (a) shall be imprisoned or fined, or both, in accordance with section 843(d) of this title as if such violation were a violation of a provision of section 843 of this title.
 
-(Pub. L. 91–513, title II, § 423, as added Pub. L. 106–310, div. B, title XXXVI, § 3653(a), Oct. 17, 2000, 114 Stat. 1240.)
+(Pub. L. 91–513, title II, § 423, as added Pub. L. 106–310, div. B, title XXXVI, § 3653(a), Oct. 17, 2000, 114 Stat. 1240.)
 
-#### § 864a. Grants to reduce production of methamphetamines from anhydrous ammonia
+#### § 864a. Grants to reduce production of methamphetamines from anhydrous ammonia
 
 **(a) Definitions** In this section:
 
@@ -7333,7 +7333,7 @@ The Secretary may make a grant to an eligible entity to enable the eligible enti
 
 There is authorized to be appropriated to the Secretary to make grants under this section $15,000,000 for the period of fiscal years 2008 through 2012.
 
-(Pub. L. 110–234, title XIV, § 14203, May 22, 2008, 122 Stat. 1458; Pub. L. 110–246, § 4(a), title XIV, § 14203, June 18, 2008, 122 Stat. 1664, 2220.)
+(Pub. L. 110–234, title XIV, § 14203, May 22, 2008, 122 Stat. 1458; Pub. L. 110–246, § 4(a), title XIV, § 14203, June 18, 2008, 122 Stat. 1664, 2220.)
 
 **Editorial Notes**
 
@@ -7357,13 +7357,13 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 “Secretary” as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
 
-#### § 865. Smuggling methamphetamine or methamphetamine precursor chemicals into the United States while using facilitated entry programs
+#### § 865. Smuggling methamphetamine or methamphetamine precursor chemicals into the United States while using facilitated entry programs
 
 **(a) Enhanced prison sentence**
 
 The sentence of imprisonment imposed on a person convicted of an offense under the Controlled Substances Act (21 U.S.C. 801 et seq.) or the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), involving methamphetamine or any listed chemical that is defined in section 102(33) of the Controlled Substances Act (21 U.S.C. 802(33),1
 
-<sup>1</sup>  So in original. A second closing parenthesis probably should precede the comma.
+<sup>1</sup> So in original. A second closing parenthesis probably should precede the comma.
 
 shall, if the offense is committed under the circumstance described in subsection (b), be increased by a consecutive term of imprisonment of not more than 15 years.
 
@@ -7377,7 +7377,7 @@ shall, if the offense is committed under the circumstance described in subsectio
 
 Any person whose term of imprisonment is increased under subsection (a) shall be permanently and irrevocably barred from being eligible for or using any lane, system, or program described in subsection (b)(1).
 
-(Pub. L. 109–177, title VII, § 731, Mar. 9, 2006, 120 Stat. 270.)
+(Pub. L. 109–177, title VII, § 731, Mar. 9, 2006, 120 Stat. 270.)
 
 **Editorial Notes**
 
@@ -7385,7 +7385,7 @@ Any person whose term of imprisonment is increased under subsection (a) shall be
 
 The Controlled Substances Act, referred to in subsec. (a), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (a), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (a), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
 **Codification**
 
@@ -7393,7 +7393,7 @@ Section was enacted as part of the USA PATRIOT Improvement and Reauthorization A
 
 ### Part E—Administrative and Enforcement Provisions
 
-#### § 871. Attorney General
+#### § 871. Attorney General
 
 **(a) Delegation of functions**
 
@@ -7407,7 +7407,7 @@ The Attorney General may promulgate and enforce any rules, regulations, and proc
 
 The Attorney General may accept in the name of the Department of Justice any form of devise, bequest, gift, or donation where the donor intends to donate property for the purpose of preventing or controlling the abuse of controlled substances. He may take all appropriate steps to secure possession of such property and may sell, assign, transfer, or convey any such property other than moneys.
 
-(Pub. L. 91–513, title II, § 501, Oct. 27, 1970, 84 Stat. 1270.)
+(Pub. L. 91–513, title II, § 501, Oct. 27, 1970, 84 Stat. 1270.)
 
 **Editorial Notes**
 
@@ -7415,7 +7415,7 @@ The Attorney General may accept in the name of the Department of Justice any for
 
 This subchapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
-#### § 871a. Semiannual reports to Congress
+#### § 871a. Semiannual reports to Congress
 
 **(a) In general** The Attorney General shall, on a semiannual basis, submit to the congressional committees and organizations specified in subsection (b) reports that—
 
@@ -7423,9 +7423,9 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original “thi
 
 **(2)** the measures being taken to give priority in the allocation of such resources to such violations involving—
 
-**(A)** persons alleged to have imported into the United States substantial quantities of methamphetamine or scheduled listed chemicals (as defined pursuant to the amendment made by section 711(a)(1)); 1
+**(A)** persons alleged to have imported into the United States substantial quantities of methamphetamine or scheduled listed chemicals (as defined pursuant to the amendment made by section 711(a)(1)); 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(B)** persons alleged to have manufactured methamphetamine; and
 
@@ -7437,7 +7437,7 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original “thi
 
 **(2)** in the Senate, the Committee on the Judiciary, the Committee on Commerce, Science, and Transportation, and the Caucus on International Narcotics Control.
 
-(Pub. L. 109–177, title VII, § 736, Mar. 9, 2006, 120 Stat. 271.)
+(Pub. L. 109–177, title VII, § 736, Mar. 9, 2006, 120 Stat. 271.)
 
 **Editorial Notes**
 
@@ -7457,7 +7457,7 @@ Section was enacted as part of the USA PATRIOT Improvement and Reauthorization A
 
 Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-#### § 872. Education and research programs of Attorney General
+#### § 872. Education and research programs of Attorney General
 
 **(a) Authorization** The Attorney General is authorized to carry out educational and research programs directly related to enforcement of the laws under his jurisdiction concerning drugs or other substances which are or may be subject to control under this subchapter. Such programs may include—
 
@@ -7493,13 +7493,13 @@ The Attorney General, on his own motion or at the request of the Secretary, may 
 
 The Attorney General shall maintain an active program, both domestic and international, to curtail the diversion of precursor chemicals and essential chemicals used in the illicit manufacture of controlled substances.
 
-(Pub. L. 91–513, title II, § 502, Oct. 27, 1970, 84 Stat. 1271; Pub. L. 95–633, title I, § 108(a), Nov. 10, 1978, 92 Stat. 3773; Pub. L. 100–690, title VI, § 6060, Nov. 18, 1988, 102 Stat. 4320; Pub. L. 111–211, title II, § 232(a), July 29, 2010, 124 Stat. 2278.)
+(Pub. L. 91–513, title II, § 502, Oct. 27, 1970, 84 Stat. 1271; Pub. L. 95–633, title I, § 108(a), Nov. 10, 1978, 92 Stat. 3773; Pub. L. 100–690, title VI, § 6060, Nov. 18, 1988, 102 Stat. 4320; Pub. L. 111–211, title II, § 232(a), July 29, 2010, 124 Stat. 2278.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -7521,7 +7521,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 **Effect of Grants**
 
-Pub. L. 111–211, title II, § 232(e), July 29, 2010, 124 Stat. 2279, provided that:
+Pub. L. 111–211, title II, § 232(e), July 29, 2010, 124 Stat. 2279, provided that:
 
 > “Nothing in this section [amending this section and sections 872a, 873, and 878 of this title] or any amendment made by this section—
 
@@ -7533,7 +7533,7 @@ Pub. L. 111–211, title II, § 232(e), July 29, 2010, 124 Stat. 2279, provide
 
 **Training for Drug Enforcement Administration and State and Local Law Enforcement Personnel Relating to Clandestine Laboratories**
 
-Pub. L. 106–310, div. B, title XXXVI, § 3623, Oct. 17, 2000, 114 Stat. 1231, provided that:
+Pub. L. 106–310, div. B, title XXXVI, § 3623, Oct. 17, 2000, 114 Stat. 1231, provided that:
 
 > **“(a) In General.—**
 
@@ -7563,7 +7563,7 @@ Pub. L. 106–310, div. B, title XXXVI, § 3623, Oct. 17, 2000, 114 Stat. 1231
 
 **Educational Program for Police Departments**
 
-Pub. L. 104–305, § 4, Oct. 13, 1996, 110 Stat. 3809, provided that:
+Pub. L. 104–305, § 4, Oct. 13, 1996, 110 Stat. 3809, provided that:
 
 > “The Attorney General may—
 
@@ -7573,9 +7573,9 @@ Pub. L. 104–305, § 4, Oct. 13, 1996, 110 Stat. 3809, provided that:
 
 **Study and Report on Measures To Prevent Sales of Agents Used in Methamphetamine Production**
 
-Pub. L. 104–237, title II, § 202, Oct. 3, 1996, 110 Stat. 3101, required the Attorney General of the United States to conduct a study on measures to effectively prevent the diversion of red phosphorous, iodine, hydrochloric gas, and other agents for use in the production of methamphetamine, and to submit to Congress no later than Jan. 1, 1998, a report of the findings pursuant to the study on the need for and advisability of preventive measures.
+Pub. L. 104–237, title II, § 202, Oct. 3, 1996, 110 Stat. 3101, required the Attorney General of the United States to conduct a study on measures to effectively prevent the diversion of red phosphorous, iodine, hydrochloric gas, and other agents for use in the production of methamphetamine, and to submit to Congress no later than Jan. 1, 1998, a report of the findings pursuant to the study on the need for and advisability of preventive measures.
 
-#### § 872a. Public-private education program
+#### § 872a. Public-private education program
 
 **(a) Advisory panel**
 
@@ -7587,7 +7587,7 @@ The Attorney General shall establish an advisory panel consisting of an appropri
 
 **(2)** provide assistance to State, tribal, and local law enforcement and regulatory agencies to facilitate the establishment and maintenance of educational programs for distributors of precursor chemicals and supplies.
 
-(Pub. L. 104–237, title V, § 503, Oct. 3, 1996, 110 Stat. 3112; Pub. L. 111–211, title II, § 232(b), July 29, 2010, 124 Stat. 2278.)
+(Pub. L. 104–237, title V, § 503, Oct. 3, 1996, 110 Stat. 3112; Pub. L. 111–211, title II, § 232(b), July 29, 2010, 124 Stat. 2278.)
 
 **Editorial Notes**
 
@@ -7597,11 +7597,11 @@ Section was enacted as part of the Comprehensive Methamphetamine Control Act of 
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211, § 232(b)(1), inserted “tribal,” after “State,”.
+2010—Subsec. (a). Pub. L. 111–211, § 232(b)(1), inserted “tribal,” after “State,”.
 
-Subsec. (b)(2). Pub. L. 111–211, § 232(b)(2), inserted “, tribal,” after “State”.
+Subsec. (b)(2). Pub. L. 111–211, § 232(b)(2), inserted “, tribal,” after “State”.
 
-#### § 873. Cooperative arrangements
+#### § 873. Cooperative arrangements
 
 **(a) Cooperation of Attorney General with local, State, tribal, and Federal agencies** The Attorney General shall cooperate with local, State, tribal, and Federal agencies concerning traffic in controlled substances and in suppressing the abuse of controlled substances. To this end, he is authorized to—
 
@@ -7625,7 +7625,7 @@ Subsec. (b)(2). Pub. L. 111–211, § 232(b)(2), inserted “, tribal,” af
 
 **(7)** notwithstanding any other provision of law, enter into contractual agreements with State, tribal, and local law enforcement agencies to provide for cooperative enforcement and regulatory activities under this chapter.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(b) Requests by Attorney General for assistance from Federal agencies or instrumentalities**
 
@@ -7657,7 +7657,7 @@ When requested by the Attorney General, it shall be the duty of any agency or in
 
 **(3)** To carry out this subsection there is authorized to be appropriated $6,000,000 for fiscal year 1985 and $6,000,000 for fiscal year 1986.
 
-(Pub. L. 91–513, title II, § 503, Oct. 27, 1970, 84 Stat. 1271; Pub. L. 96–359, § 8(a) Sept. 26, 1980, 94 Stat. 1194; Pub. L. 98–473, title II, § 517, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, § 1868, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, § 85, Nov. 10, 1986, 100 Stat. 3620; Pub. L. 111–211, title II, § 232(c), July 29, 2010, 124 Stat. 2278; Pub. L. 115–271, title III, § 3273(b), Oct. 24, 2018, 132 Stat. 3953.)
+(Pub. L. 91–513, title II, § 503, Oct. 27, 1970, 84 Stat. 1271; Pub. L. 96–359, § 8(a) Sept. 26, 1980, 94 Stat. 1194; Pub. L. 98–473, title II, § 517, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, § 1868, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, § 85, Nov. 10, 1986, 100 Stat. 3620; Pub. L. 111–211, title II, § 232(c), July 29, 2010, 124 Stat. 2278; Pub. L. 115–271, title III, § 3273(b), Oct. 24, 2018, 132 Stat. 3953.)
 
 **Editorial Notes**
 
@@ -7671,17 +7671,17 @@ Schedule II, referred to in subsec. (c), is set out in section 812(c) of this ti
 
 2018—Subsec. (c). Pub. L. 115–271 added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Attorney General shall annually (1) select the controlled substance (or controlled substances) contained in schedule II which, in the Attorney General’s discretion, is determined to have the highest rate of abuse, and (2) prepare and make available to regulatory, licensing, and law enforcement agencies of States descriptive and analytic reports on the actual distribution patterns in such States of each such controlled substance.”
 
-2010—Subsec. (a). Pub. L. 111–211, § 232(c)(1)(A), inserted “tribal,” after “State,” wherever appearing in introductory provisions and pars. (3) and (4).
+2010—Subsec. (a). Pub. L. 111–211, § 232(c)(1)(A), inserted “tribal,” after “State,” wherever appearing in introductory provisions and pars. (3) and (4).
 
-Subsec. (a)(6), (7). Pub. L. 111–211, § 232(c)(1)(B), inserted “, tribal,” after “State” wherever appearing.
+Subsec. (a)(6), (7). Pub. L. 111–211, § 232(c)(1)(B), inserted “, tribal,” after “State” wherever appearing.
 
-Subsec. (d)(1). Pub. L. 111–211, § 232(c)(2), inserted “, tribal,” after “State” in introductory provisions.
+Subsec. (d)(1). Pub. L. 111–211, § 232(c)(2), inserted “, tribal,” after “State” in introductory provisions.
 
 1986—Subsec. (a)(7). Pub. L. 99–570 and Pub. L. 99–646 made substantially identical amendment, adding par. (7).
 
-1984—Subsec. (a)(6). Pub. L. 98–473, § 517(a), added par. (6).
+1984—Subsec. (a)(6). Pub. L. 98–473, § 517(a), added par. (6).
 
-Subsec. (d). Pub. L. 98–473, § 517(b), added subsec. (d).
+Subsec. (d). Pub. L. 98–473, § 517(b), added subsec. (d).
 
 1980—Subsec. (c). Pub. L. 96–359 added subsec. (c).
 
@@ -7689,11 +7689,11 @@ Subsec. (d). Pub. L. 98–473, § 517(b), added subsec. (d).
 
 **Annual Report on Counterdrug Intelligence Matters**
 
-Pub. L. 107–306, title VIII, § 826, Nov. 27, 2002, 116 Stat. 2429, which required the Counterdrug Intelligence Coordinating Group to submit to certain committees of Congress an annual report on counterdrug intelligence matters, was repealed by Pub. L. 111–259, title III, § 347(g), Oct. 7, 2010, 124 Stat. 2699.
+Pub. L. 107–306, title VIII, § 826, Nov. 27, 2002, 116 Stat. 2429, which required the Counterdrug Intelligence Coordinating Group to submit to certain committees of Congress an annual report on counterdrug intelligence matters, was repealed by Pub. L. 111–259, title III, § 347(g), Oct. 7, 2010, 124 Stat. 2699.
 
 **Combating Amphetamine and Methamphetamine Manufacturing and Trafficking**
 
-Pub. L. 106–310, div. B, title XXXVI, § 3625, Oct. 17, 2000, 114 Stat. 1233, provided that:
+Pub. L. 106–310, div. B, title XXXVI, § 3625, Oct. 17, 2000, 114 Stat. 1233, provided that:
 
 > **“(a) Activities.—** In order to combat the illegal manufacturing and trafficking in amphetamine and methamphetamine, the Administrator of the Drug Enforcement Administration may—
 
@@ -7725,7 +7725,7 @@ Pub. L. 106–310, div. B, title XXXVI, § 3625, Oct. 17, 2000, 114 Stat. 1233
 
 **National Drug Intelligence Center**
 
-Pub. L. 108–487, title I, § 104(e), Dec. 23, 2004, 118 Stat. 3942, provided that:
+Pub. L. 108–487, title I, § 104(e), Dec. 23, 2004, 118 Stat. 3942, provided that:
 
 > **“(1) In general.—** Of the amount authorized to be appropriated in subsection (a) [118 Stat. 3941], $42,322,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, testing, and evaluation purposes shall remain available until September 30, 2006, and funds provided for procurement purposes shall remain available until September 30, 2007.
 
@@ -7737,33 +7737,33 @@ Pub. L. 108–487, title I, § 104(e), Dec. 23, 2004, 118 Stat. 3942, provided
 
 Similar provisions were contained in the following prior authorization acts:
 
-Pub. L. 108–177, title I, § 104(e), Dec. 13, 2003, 117 Stat. 2602.
+Pub. L. 108–177, title I, § 104(e), Dec. 13, 2003, 117 Stat. 2602.
 
-Pub. L. 107–306, title I, § 104(e), Nov. 27, 2002, 116 Stat. 2387.
+Pub. L. 107–306, title I, § 104(e), Nov. 27, 2002, 116 Stat. 2387.
 
-Pub. L. 107–108, title I, § 104(e), Dec. 28, 2001, 115 Stat. 1396.
+Pub. L. 107–108, title I, § 104(e), Dec. 28, 2001, 115 Stat. 1396.
 
-Pub. L. 106–567, title I, § 104(e), Dec. 27, 2000, 114 Stat. 2834.
+Pub. L. 106–567, title I, § 104(e), Dec. 27, 2000, 114 Stat. 2834.
 
-Pub. L. 106–120, title I, § 104(e), Dec. 3, 1999, 113 Stat. 1609.
+Pub. L. 106–120, title I, § 104(e), Dec. 3, 1999, 113 Stat. 1609.
 
-Pub. L. 105–272, title I, § 104(e), Oct. 20, 1998, 112 Stat. 2398.
+Pub. L. 105–272, title I, § 104(e), Oct. 20, 1998, 112 Stat. 2398.
 
-Pub. L. 105–107, title I, § 104(e), Nov. 20, 1997, 111 Stat. 2250.
+Pub. L. 105–107, title I, § 104(e), Nov. 20, 1997, 111 Stat. 2250.
 
-Pub. L. 104–293, title I, § 104(d), Oct. 11, 1996, 110 Stat. 3464.
+Pub. L. 104–293, title I, § 104(d), Oct. 11, 1996, 110 Stat. 3464.
 
-Pub. L. 103–139, title VIII, § 8056, Nov. 11, 1993, 107 Stat. 1452, provided that: “During the current fiscal year and thereafter, there is established, under the direction and control of the Attorney General, the National Drug Intelligence Center, whose mission it shall be to coordinate and consolidate drug intelligence from all national security and law enforcement agencies, and produce information regarding the structure, membership, finances, communications, and activities of drug trafficking organizations: *Provided*, That funding for the operation of the National Drug Intelligence Center, including personnel costs associated therewith, shall be provided from the funds appropriated to the Department of Defense.”
+Pub. L. 103–139, title VIII, § 8056, Nov. 11, 1993, 107 Stat. 1452, provided that: “During the current fiscal year and thereafter, there is established, under the direction and control of the Attorney General, the National Drug Intelligence Center, whose mission it shall be to coordinate and consolidate drug intelligence from all national security and law enforcement agencies, and produce information regarding the structure, membership, finances, communications, and activities of drug trafficking organizations: *Provided*, That funding for the operation of the National Drug Intelligence Center, including personnel costs associated therewith, shall be provided from the funds appropriated to the Department of Defense.”
 
 Similar provisions were contained in the following prior appropriation act:
 
-Pub. L. 102–396, title IX, § 9078, Oct. 6, 1992, 106 Stat. 1919.
+Pub. L. 102–396, title IX, § 9078, Oct. 6, 1992, 106 Stat. 1919.
 
-#### § 874. Advisory committees
+#### § 874. Advisory committees
 
 The Attorney General may from time to time appoint committees to advise him with respect to preventing and controlling the abuse of controlled substances. Members of the committees may be entitled to receive compensation at the rate of $100 for each day (including traveltime) during which they are engaged in the actual performance of duties. While traveling on official business in the performance of duties for the committees, members of the committees shall be allowed expenses of travel, including per diem instead of subsistence, in accordance with subchapter I of chapter 57 of title 5.
 
-(Pub. L. 91–513, title II, § 504, Oct. 27, 1970, 84 Stat. 1272.)
+(Pub. L. 91–513, title II, § 504, Oct. 27, 1970, 84 Stat. 1272.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -7771,7 +7771,7 @@ The Attorney General may from time to time appoint committees to advise him with
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-#### § 875. Administrative hearings
+#### § 875. Administrative hearings
 
 **(a) Power of Attorney General**
 
@@ -7781,9 +7781,9 @@ In carrying out his functions under this subchapter, the Attorney General may ho
 
 Except as otherwise provided in this subchapter, notice shall be given and hearings shall be conducted under appropriate procedures of subchapter II of chapter 5 of title 5.
 
-(Pub. L. 91–513, title II, § 505, Oct. 27, 1970, 84 Stat. 1272.)
+(Pub. L. 91–513, title II, § 505, Oct. 27, 1970, 84 Stat. 1272.)
 
-#### § 876. Subpenas
+#### § 876. Subpenas
 
 **(a) Authorization of use by Attorney General**
 
@@ -7797,7 +7797,7 @@ A subpena issued under this section may be served by any person designated in th
 
 In the case of contumacy by or refusal to obey a subpena issued to any person, the Attorney General may invoke the aid of any court of the United States within the jurisdiction of which the investigation is carried on or of which the subpenaed person is an inhabitant, or in which he carries on business or may be found, to compel compliance with the subpena. The court may issue an order requiring the subpenaed person to appear before the Attorney General to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey the order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in any judicial district in which such person may be found.
 
-(Pub. L. 91–513, title II, § 506, Oct. 27, 1970, 84 Stat. 1272; Pub. L. 100–690, title VI, § 6058, Nov. 18, 1988, 102 Stat. 4319.)
+(Pub. L. 91–513, title II, § 506, Oct. 27, 1970, 84 Stat. 1272; Pub. L. 100–690, title VI, § 6058, Nov. 18, 1988, 102 Stat. 4319.)
 
 **Editorial Notes**
 
@@ -7811,13 +7811,13 @@ In the case of contumacy by or refusal to obey a subpena issued to any person, t
 
 Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see section 6061 of Pub. L. 100–690, set out as a note under section 802 of this title.
 
-#### § 877. Judicial review
+#### § 877. Judicial review
 
 All final determinations, findings, and conclusions of the Attorney General under this subchapter shall be final and conclusive decisions of the matters involved, except that any person aggrieved by a final decision of the Attorney General may obtain review of the decision in the United States Court of Appeals for the District of Columbia or for the circuit in which his principal place of business is located upon petition filed with the court and delivered to the Attorney General within thirty days after notice of the decision. Findings of fact by the Attorney General, if supported by substantial evidence, shall be conclusive.
 
-(Pub. L. 91–513, title II, § 507, Oct. 27, 1970, 84 Stat. 1273.)
+(Pub. L. 91–513, title II, § 507, Oct. 27, 1970, 84 Stat. 1273.)
 
-#### § 878. Powers of enforcement personnel
+#### § 878. Powers of enforcement personnel
 
 **(a)** Any officer or employee of the Drug Enforcement Administration or any State, tribal, or local law enforcement officer designated by the Attorney General may—
 
@@ -7833,23 +7833,23 @@ All final determinations, findings, and conclusions of the Attorney General unde
 
 **(b)** State and local law enforcement officers performing functions under this section shall not be deemed Federal employees and shall not be subject to provisions of law relating to Federal employees, except that such officers shall be subject to section 3374(c) of title 5.
 
-(Pub. L. 91–513, title II, § 508, Oct. 27, 1970, 84 Stat. 1273; Pub. L. 96–132, § 16(b), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 99–570, title I, § 1869, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, § 86, Nov. 10, 1986, 100 Stat. 3620; Pub. L. 111–211, title II, § 232(d), July 29, 2010, 124 Stat. 2278.)
+(Pub. L. 91–513, title II, § 508, Oct. 27, 1970, 84 Stat. 1273; Pub. L. 96–132, § 16(b), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 99–570, title I, § 1869, Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 99–646, § 86, Nov. 10, 1986, 100 Stat. 3620; Pub. L. 111–211, title II, § 232(d), July 29, 2010, 124 Stat. 2278.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–211 inserted “, tribal,” after “State” in introductory provisions.
+2010—Subsec. (a). Pub. L. 111–211 inserted “, tribal,” after “State” in introductory provisions.
 
 1986—Pub. L. 99–570 and Pub. L. 99–646 amended section substantially identically designating existing provisions as subsec. (a) and adding subsec. (b), with the exception of the amendment of subsec. (a) for which Pub. L. 99–570 directed the insertion of “or (with respect to offenses under this subchapter or subchapter II of this chapter) any State or local law enforcement officer” and Pub. L. 99–646 directed the insertion of “or any State or local law enforcement officer”, the latter of which was executed to reflect the probable intent of Congress.
 
 1979—Pub. L. 96–132 substituted “Drug Enforcement Administration” for “Bureau of Narcotics and Dangerous Drugs”.
 
-#### § 879. Search warrants
+#### § 879. Search warrants
 
 A search warrant relating to offenses involving controlled substances may be served at any time of the day or night if the judge or United States magistrate judge issuing the warrant is satisfied that there is probable cause to believe that grounds exist for the warrant and for its service at such time.
 
-(Pub. L. 91–513, title II, § 509, Oct. 27, 1970, 84 Stat. 1274; Pub. L. 93–481, § 3, Oct. 26, 1974, 88 Stat. 1455; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+(Pub. L. 91–513, title II, § 509, Oct. 27, 1970, 84 Stat. 1274; Pub. L. 93–481, § 3, Oct. 26, 1974, 88 Stat. 1455; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
 
 **Editorial Notes**
 
@@ -7863,7 +7863,7 @@ A search warrant relating to offenses involving controlled substances may be ser
 
 “United States magistrate judge” substituted in text for “United States magistrate” pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
-#### § 880. Administrative inspections and warrants
+#### § 880. Administrative inspections and warrants
 
 **(a) “Controlled premises” defined** As used in this section, the term “controlled premises” means—
 
@@ -7915,17 +7915,17 @@ A search warrant relating to offenses involving controlled substances may be ser
 
 **(4)** The judge or magistrate judge who has issued a warrant under this section shall attach to the warrant a copy of the return and all papers filed in connection therewith and shall file them with the clerk of the district court of the United States for the judicial district in which the inspection was made.
 
-(Pub. L. 91–513, title II, § 510, Oct. 27, 1970, 84 Stat. 1274; Pub. L. 101–647, title XXXV, § 3599M, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–200, § 6, Dec. 17, 1993, 107 Stat. 2339.)
+(Pub. L. 91–513, title II, § 510, Oct. 27, 1970, 84 Stat. 1274; Pub. L. 101–647, title XXXV, § 3599M, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–200, § 6, Dec. 17, 1993, 107 Stat. 2339.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (a)(2). Pub. L. 103–200, § 6(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “places, including factories, warehouses, or other establishments, and conveyances, where persons registered under section 823 of this title (or exempted from registration under section 822(d) of this title) may lawfully hold, manufacture, or distribute, dispense, administer, or otherwise dispose of controlled substances.”
+1993—Subsec. (a)(2). Pub. L. 103–200, § 6(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “places, including factories, warehouses, or other establishments, and conveyances, where persons registered under section 823 of this title (or exempted from registration under section 822(d) of this title) may lawfully hold, manufacture, or distribute, dispense, administer, or otherwise dispose of controlled substances.”
 
-Subsec. (b)(3)(B). Pub. L. 103–200, § 6(2)(A), inserted “, listed chemicals,” after “unfinished drugs”.
+Subsec. (b)(3)(B). Pub. L. 103–200, § 6(2)(A), inserted “, listed chemicals,” after “unfinished drugs”.
 
-Subsec. (b)(3)(C). Pub. L. 103–200, § 6(2)(B), inserted “or listed chemical” after “controlled substance” and “or chemical” after “such substance”.
+Subsec. (b)(3)(C). Pub. L. 103–200, § 6(2)(B), inserted “or listed chemical” after “controlled substance” and “or chemical” after “such substance”.
 
 1990—Subsec. (b)(3)(B). Pub. L. 101–647 substituted “paragraph (4)” for “paragraph (5)”.
 
@@ -7939,7 +7939,7 @@ Subsec. (b)(3)(C). Pub. L. 103–200, § 6(2)(B), inserted “or listed chemic
 
 Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17, 1993, see section 11 of Pub. L. 103–200, set out as a note under section 802 of this title.
 
-#### § 881. Forfeitures
+#### § 881. Forfeitures
 
 **(a) Subject property** The following shall be subject to forfeiture to the United States and no property right shall exist in them:
 
@@ -8055,11 +8055,11 @@ The provisions of section 981(g) of title 18 regarding the stay of a civil forfe
 
 In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 
-**(l) 1 [footnote: 1 So in original. No subsec. (k) has been enacted.] Agreement between Attorney General and Postal Service for performance of functions**
+**(l) 1 [footnote: 1 So in original. No subsec. (k) has been enacted.] Agreement between Attorney General and Postal Service for performance of functions**
 
 The functions of the Attorney General under this section shall be carried out by the Postal Service pursuant to such agreement as may be entered into between the Attorney General and the Postal Service.
 
-(Pub. L. 91–513, title II, § 511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, § 301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, § 14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§ 306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub. L. 99–570, title I, §§ 1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, § 74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, § 5105, title VI, §§ 6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, § 1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§ 2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, § 2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, § 102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, § 201(b), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 106–185, §§ 2(c)(2), 5(b), 8(b), Apr. 25, 2000, 114 Stat. 210, 214, 216; Pub. L. 107–273, div. B, title IV, § 4002(e)(3), Nov. 2, 2002, 116 Stat. 1810.)
+(Pub. L. 91–513, title II, § 511, Oct. 27, 1970, 84 Stat. 1276; Pub. L. 95–633, title III, § 301(a), Nov. 10, 1978, 92 Stat. 3777; Pub. L. 96–132, § 14, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 98–473, title II, §§ 306, 309, 518, Oct. 12, 1984, 98 Stat. 2050, 2051, 2075; Pub. L. 99–570, title I, §§ 1006(c), 1865, 1992, Oct. 27, 1986, 100 Stat. 3207–7, 3207–54, 3207–59; Pub. L. 99–646, § 74, Nov. 10, 1986, 100 Stat. 3618; Pub. L. 100–690, title V, § 5105, title VI, §§ 6059, 6074, 6075, 6077(a), (b), 6253, Nov. 18, 1988, 102 Stat. 4301, 4319, 4323–4325, 4363; Pub. L. 101–189, div. A, title XII, § 1215(a), Nov. 29, 1989, 103 Stat. 1569; Pub. L. 101–647, title XX, §§ 2003, 2004, 2007, 2008, Nov. 29, 1990, 104 Stat. 4855, 4856; Pub. L. 102–239, § 2, Dec. 17, 1991, 105 Stat. 1912; Pub. L. 103–447, title I, § 102(d), Nov. 2, 1994, 108 Stat. 4693; Pub. L. 104–237, title II, § 201(b), Oct. 3, 1996, 110 Stat. 3101; Pub. L. 106–185, §§ 2(c)(2), 5(b), 8(b), Apr. 25, 2000, 114 Stat. 210, 214, 216; Pub. L. 107–273, div. B, title IV, § 4002(e)(3), Nov. 2, 2002, 116 Stat. 1810.)
 
 **Editorial Notes**
 
@@ -8073,7 +8073,7 @@ Schedules I and II, referred to in subsecs. (f) and (g), are set out in section 
 
 2002—Subsec. (a)(10). Pub. L. 107–273 substituted “section 863 of this title” for “section 1822 of the Mail Order Drug Paraphernalia Control Act”.
 
-2000—Subsec. (a)(4). Pub. L. 106–185, § 2(c)(2), struck out before period at end “, except that—
+2000—Subsec. (a)(4). Pub. L. 106–185, § 2(c)(2), struck out before period at end “, except that—
 
 “(A) no conveyance used by any person as a common carrier in the transaction of business as a common carrier shall be forfeited under the provisions of this section unless it shall appear that the owner or other person in charge of such conveyance was a consenting party or privy to a violation of this subchapter or subchapter II of this chapter;
 
@@ -8081,83 +8081,83 @@ Schedules I and II, referred to in subsecs. (f) and (g), are set out in section 
 
 “(C) no conveyance shall be forfeited under this paragraph to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner”.
 
-Subsec. (a)(6). Pub. L. 106–185, § 2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
+Subsec. (a)(6). Pub. L. 106–185, § 2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
 
-Subsec. (a)(7). Pub. L. 106–185, § 2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
+Subsec. (a)(7). Pub. L. 106–185, § 2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
 
-Subsec. (b). Pub. L. 106–185, § 5(b), inserted heading and amended text of subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Attorney General to seize property under this subchapter upon process issued pursuant to the Supplemental Rules for Certain Admirality and Maritime claims and to seize it without process in certain described circumstances.
+Subsec. (b). Pub. L. 106–185, § 5(b), inserted heading and amended text of subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Attorney General to seize property under this subchapter upon process issued pursuant to the Supplemental Rules for Certain Admirality and Maritime claims and to seize it without process in certain described circumstances.
 
-Subsec. (i). Pub. L. 106–185, § 8(b), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “The filing of an indictment or information alleging a violation of this subchapter or subchapter II of this chapter, or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter, which is also related to a civil forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the civil forfeiture proceeding.”
+Subsec. (i). Pub. L. 106–185, § 8(b), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “The filing of an indictment or information alleging a violation of this subchapter or subchapter II of this chapter, or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter, which is also related to a civil forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the civil forfeiture proceeding.”
 
-1996—Subsec. (a)(2), (6). Pub. L. 104–237, § 201(b)(1), inserted “or listed chemical” after “controlled substance”.
+1996—Subsec. (a)(2), (6). Pub. L. 104–237, § 201(b)(1), inserted “or listed chemical” after “controlled substance”.
 
-Subsec. (a)(9). Pub. L. 104–237, § 201(b)(2), substituted “possessed, distributed, dispensed, acquired, or intended to be distributed, dispensed, acquired,” for “possessed, distributed, or intended to be distributed,” and struck out “a felony provision of” after “in violation of”.
+Subsec. (a)(9). Pub. L. 104–237, § 201(b)(2), substituted “possessed, distributed, dispensed, acquired, or intended to be distributed, dispensed, acquired,” for “possessed, distributed, or intended to be distributed,” and struck out “a felony provision of” after “in violation of”.
 
 1994—Subsec. (e)(1)(E)(iii). Pub. L. 103–447 substituted “section 2291j(b) of title 22” for “section 2291(h) of title 22”.
 
-1991—Subsec. (e)(1)(B). Pub. L. 102–239, § 2(1), substituted “except as provided in paragraph (4), sell” for “sell”.
+1991—Subsec. (e)(1)(B). Pub. L. 102–239, § 2(1), substituted “except as provided in paragraph (4), sell” for “sell”.
 
-Subsec. (e)(4). Pub. L. 102–239, § 2(2), added par. (4).
+Subsec. (e)(4). Pub. L. 102–239, § 2(2), added par. (4).
 
-1990—Subsec. (a)(10). Pub. L. 101–647, § 2007, added par. (10).
+1990—Subsec. (a)(10). Pub. L. 101–647, § 2007, added par. (10).
 
-Subsec. (a)(11). Pub. L. 101–647, § 2008, added par. (11).
+Subsec. (a)(11). Pub. L. 101–647, § 2008, added par. (11).
 
-Subsec. (e)(1)(B). Pub. L. 101–647, § 2003, inserted “, by public sale or any other commercially feasible means,” after “sell”.
+Subsec. (e)(1)(B). Pub. L. 101–647, § 2003, inserted “, by public sale or any other commercially feasible means,” after “sell”.
 
-Subsec. (f). Pub. L. 101–647, § 2004, inserted “; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) which cannot be separated safely from such raw materials or products” after “this subchapter” in pars. (1) and (2).
+Subsec. (f). Pub. L. 101–647, § 2004, inserted “; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) which cannot be separated safely from such raw materials or products” after “this subchapter” in pars. (1) and (2).
 
 1989—Subsec. (e)(3)(B). Pub. L. 101–189 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is not so transferred to circumvent any requirement of State law that prohibits forfeiture or limits use or disposition of property forfeited to State or local agencies.”
 
-1988—Subsec. (a)(3). Pub. L. 100–690, § 6059(b), inserted reference to par. (9).
+1988—Subsec. (a)(3). Pub. L. 100–690, § 6059(b), inserted reference to par. (9).
 
-Subsec. (a)(4). Pub. L. 100–690, §§ 6059(b), 6075, inserted in introductory provisions reference to par. (9) and added subpar. (C).
+Subsec. (a)(4). Pub. L. 100–690, §§ 6059(b), 6075, inserted in introductory provisions reference to par. (9) and added subpar. (C).
 
-Subsec. (a)(7). Pub. L. 100–690, § 5105, inserted “(including any leasehold interest)” after “interest”.
+Subsec. (a)(7). Pub. L. 100–690, § 5105, inserted “(including any leasehold interest)” after “interest”.
 
-Subsec. (a)(9). Pub. L. 100–690, § 6059(a), added par. (9).
+Subsec. (a)(9). Pub. L. 100–690, § 6059(a), added par. (9).
 
-Subsec. (e)(1)(A). Pub. L. 100–690, § 6077(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “retain the property for official use or transfer the custody or ownership of any forfeited property to any Federal, State, or local agency pursuant to section 1616a of title 19;”.
+Subsec. (e)(1)(A). Pub. L. 100–690, § 6077(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “retain the property for official use or transfer the custody or ownership of any forfeited property to any Federal, State, or local agency pursuant to section 1616a of title 19;”.
 
-Subsec. (e)(1)(E). Pub. L. 100–690, § 6074, added subpar. (E).
+Subsec. (e)(1)(E). Pub. L. 100–690, § 6074, added subpar. (E).
 
-Subsec. (e)(2)(B). Pub. L. 100–690, § 6253(b), provided for deposit of moneys and proceeds in Postal Service Fund in cases of forfeitures conducted by Postal Service.
+Subsec. (e)(2)(B). Pub. L. 100–690, § 6253(b), provided for deposit of moneys and proceeds in Postal Service Fund in cases of forfeitures conducted by Postal Service.
 
-Subsec. (e)(3). Pub. L. 100–690, § 6077(a), added par. (3).
+Subsec. (e)(3). Pub. L. 100–690, § 6077(a), added par. (3).
 
-Subsec. (*l*). Pub. L. 100–690, § 6253(a), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 100–690, § 6253(a), added subsec. (*l*).
 
-1986—Subsec. (b). Pub. L. 99–570, § 1865(1)–(3), and Pub. L. 99–646, § 74(1)–(3), in making identical amendments in introductory provision and par. (4), struck out “or criminal” after “subject to civil” and inserted paragraph permitting the Government to request issuance of a warrant authorizing seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure.
+1986—Subsec. (b). Pub. L. 99–570, § 1865(1)–(3), and Pub. L. 99–646, § 74(1)–(3), in making identical amendments in introductory provision and par. (4), struck out “or criminal” after “subject to civil” and inserted paragraph permitting the Government to request issuance of a warrant authorizing seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure.
 
-Subsec. (e). Pub. L. 99–570, § 1992, designated existing provisions as par. (1) and former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2) in lieu of former concluding provisions which read as follows: “The Attorney General shall ensure the equitable transfer pursuant to paragraph (1) of any forfeited property to the appropriate State or local law enforcement agency so as to reflect generally the contribution of any such agency participating directly in any of the acts which led to the seizure or forfeiture of such property. A decision by the Attorney General pursuant to paragraph (1) shall not be subject to review. The proceeds from any sale under paragraph (2) and any moneys forfeited under this subchapter shall be used to pay all proper expenses of the proceedings for forfeiture and sale including expenses of seizure, maintenance of custody, advertising, and court costs. The Attorney General shall forward to the Treasurer of the United States for deposit in accordance with section 524(c) of title 28 any amounts of such moneys and proceeds remaining after payment of such expenses.”
+Subsec. (e). Pub. L. 99–570, § 1992, designated existing provisions as par. (1) and former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2) in lieu of former concluding provisions which read as follows: “The Attorney General shall ensure the equitable transfer pursuant to paragraph (1) of any forfeited property to the appropriate State or local law enforcement agency so as to reflect generally the contribution of any such agency participating directly in any of the acts which led to the seizure or forfeiture of such property. A decision by the Attorney General pursuant to paragraph (1) shall not be subject to review. The proceeds from any sale under paragraph (2) and any moneys forfeited under this subchapter shall be used to pay all proper expenses of the proceedings for forfeiture and sale including expenses of seizure, maintenance of custody, advertising, and court costs. The Attorney General shall forward to the Treasurer of the United States for deposit in accordance with section 524(c) of title 28 any amounts of such moneys and proceeds remaining after payment of such expenses.”
 
-Subsec. (f). Pub. L. 99–570, § 1006(c), which directed the amendment of section 511 of the “Comprehensive Drug Abuse Prevention Act of 1978” was executed to this section which is section 511 of the Comprehensive Drug Abuse Prevention Act of 1970, as the probable intent of Congress, by designating existing provisions as par. (1), inserting “or II” in two places, and adding par. (2).
+Subsec. (f). Pub. L. 99–570, § 1006(c), which directed the amendment of section 511 of the “Comprehensive Drug Abuse Prevention Act of 1978” was executed to this section which is section 511 of the Comprehensive Drug Abuse Prevention Act of 1970, as the probable intent of Congress, by designating existing provisions as par. (1), inserting “or II” in two places, and adding par. (2).
 
-Subsec. (i). Pub. L. 99–570, § 1865(b) and Pub. L. 99–646, § 74(b), made identical amendments, inserting “, or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter,”.
+Subsec. (i). Pub. L. 99–570, § 1865(b) and Pub. L. 99–646, § 74(b), made identical amendments, inserting “, or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter,”.
 
-1984—Subsec. (a)(7). Pub. L. 98–473, § 306(a), added par. (7).
+1984—Subsec. (a)(7). Pub. L. 98–473, § 306(a), added par. (7).
 
-Subsec. (a)(8). Pub. L. 98–473, § 518, added par. (8).
+Subsec. (a)(8). Pub. L. 98–473, § 518, added par. (8).
 
-Subsec. (b). Pub. L. 98–473, § 306(b)(1), inserted “civil or criminal” after “property subject to”.
+Subsec. (b). Pub. L. 98–473, § 306(b)(1), inserted “civil or criminal” after “property subject to”.
 
-Subsec. (b)(4). Pub. L. 98–473, § 306(b)(2), substituted “is subject to civil or criminal forfeiture under” for “has been used or is intended to be used in violation of”.
+Subsec. (b)(4). Pub. L. 98–473, § 306(b)(2), substituted “is subject to civil or criminal forfeiture under” for “has been used or is intended to be used in violation of”.
 
-Subsec. (c). Pub. L. 98–473, § 306(c)(1), in provisions preceding par. (1), inserted “any of” after “seized under”.
+Subsec. (c). Pub. L. 98–473, § 306(c)(1), in provisions preceding par. (1), inserted “any of” after “seized under”.
 
-Subsec. (c)(3). Pub. L. 98–473, § 306(c)(2), inserted “, if practicable,” after “remove it”.
+Subsec. (c)(3). Pub. L. 98–473, § 306(c)(2), inserted “, if practicable,” after “remove it”.
 
-Subsec. (d). Pub. L. 98–473, § 306(d), inserted “any of” after “incurred, under”.
+Subsec. (d). Pub. L. 98–473, § 306(d), inserted “any of” after “incurred, under”.
 
-Subsec. (e). Pub. L. 98–473, §§ 306(e), 309, inserted “civilly or criminally” after “Whenever property is” and in provisions preceding par. (1), inserted provisions relating to transfer of custody or ownership of forfeited property in par. (1), substituted “and dispose of it” for “and remove it for disposition” in par. (3), and, in provisions following par. (4), inserted sentence requiring the Attorney General to ensure equitable transfer of any forfeited property, and substituted “accordance with section 524(c) of title 28” for “the general fund of the United States Treasury”.
+Subsec. (e). Pub. L. 98–473, §§ 306(e), 309, inserted “civilly or criminally” after “Whenever property is” and in provisions preceding par. (1), inserted provisions relating to transfer of custody or ownership of forfeited property in par. (1), substituted “and dispose of it” for “and remove it for disposition” in par. (3), and, in provisions following par. (4), inserted sentence requiring the Attorney General to ensure equitable transfer of any forfeited property, and substituted “accordance with section 524(c) of title 28” for “the general fund of the United States Treasury”.
 
-Subsecs. (h) to (j). Pub. L. 98–473, § 306(f), added subsecs. (h) to (j).
+Subsecs. (h) to (j). Pub. L. 98–473, § 306(f), added subsecs. (h) to (j).
 
 1979—Subsec. (d). Pub. L. 96–132 substituted “The provisions” for “All provisions” and struck out “and the award of compensation to informers in respect of such forfeitures” after “compromise of claims”.
 
-1978—Subsec. (a)(6). Pub. L. 95–633, § 301(1), added par. (6).
+1978—Subsec. (a)(6). Pub. L. 95–633, § 301(1), added par. (6).
 
-Subsec. (e). Pub. L. 95–633, § 301(a)(2), (3), struck out of cl. (2) provisions relating to use of proceeds of sale and inserted last sentence relating to the forwarding by the Attorney General of money and proceeds remaining after payment of expenses.
+Subsec. (e). Pub. L. 95–633, § 301(a)(2), (3), struck out of cl. (2) provisions relating to use of proceeds of sale and inserted last sentence relating to the forwarding by the Attorney General of money and proceeds remaining after payment of expenses.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -8167,21 +8167,21 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–189, div. A, title XII, § 1215(b), Nov. 29, 1989, 103 Stat. 1569, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1989.”
+Pub. L. 101–189, div. A, title XII, § 1215(b), Nov. 29, 1989, 103 Stat. 1569, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as of October 1, 1989.”
 
 **Effective Date of 1988 Amendment**
 
 Amendment by section 6059 of Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see section 6061 of Pub. L. 100–690, set out as a note under section 802 of this title.
 
-Pub. L. 100–690, title VI, § 6077(c), Nov. 18, 1988, 102 Stat. 4325, as amended by Pub. L. 101–162, title II, § 208, Nov. 21, 1989, 103 Stat. 1005, provided that: “Section 551(e)(3)(B) of the Controlled Substances Act [probably means section 511(e)(3)(B) of the Controlled Substances Act, 21 U.S.C. 881(e)(3)(B)], as enacted by subsection (a), shall apply with respect to fiscal years beginning after September 30, 1991.”
+Pub. L. 100–690, title VI, § 6077(c), Nov. 18, 1988, 102 Stat. 4325, as amended by Pub. L. 101–162, title II, § 208, Nov. 21, 1989, 103 Stat. 1005, provided that: “Section 551(e)(3)(B) of the Controlled Substances Act [probably means section 511(e)(3)(B) of the Controlled Substances Act, 21 U.S.C. 881(e)(3)(B)], as enacted by subsection (a), shall apply with respect to fiscal years beginning after September 30, 1991.”
 
 **Constructive Seizure Procedures**
 
-Pub. L. 101–225, title II, § 210, Dec. 12, 1989, 103 Stat. 1913, provided that: “Not later than 6 months after the date of enactment of this Act [Dec. 12, 1989], the Secretary of Transportation and the Secretary of the Treasury, in order to avoid the devastating economic effects on innocent owners of seizures of their vessels, shall develop a procedure for constructive seizure of vessels of the United States engaged in commercial service as defined in section 2101 of title 46, United States Code, that are suspected of being used for committing violations of law involving personal use quantities of controlled substances.”
+Pub. L. 101–225, title II, § 210, Dec. 12, 1989, 103 Stat. 1913, provided that: “Not later than 6 months after the date of enactment of this Act [Dec. 12, 1989], the Secretary of Transportation and the Secretary of the Treasury, in order to avoid the devastating economic effects on innocent owners of seizures of their vessels, shall develop a procedure for constructive seizure of vessels of the United States engaged in commercial service as defined in section 2101 of title 46, United States Code, that are suspected of being used for committing violations of law involving personal use quantities of controlled substances.”
 
 **Regulations for Expedited Administrative Forfeiture Procedures**
 
-Pub. L. 100–690, title VI, § 6079, Nov. 18, 1988, 102 Stat. 4325, provided that:
+Pub. L. 100–690, title VI, § 6079, Nov. 18, 1988, 102 Stat. 4325, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of enactment of this Act [Nov. 18, 1988], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C. 881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 [now 49 U.S.C. 80303]) for violations involving the possession of personal use quantities of a controlled substance.
 
@@ -8219,17 +8219,17 @@ Pub. L. 100–690, title VI, § 6079, Nov. 18, 1988, 102 Stat. 4325, provided 
 
 Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, in Department of Justice abolished by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5, Government Organization and Employees. Reorg. Plan No. 2 of 1973 also created in Department of Justice a single, comprehensive agency for enforcement of drug laws to be known as Drug Enforcement Administration, empowered Attorney General to authorize performance by officers, employees, and agencies of Department of functions transferred to him, and directed Attorney General to coordinate all drug law enforcement functions to assure maximum cooperation between Drug Enforcement Administration, Federal Bureau of Investigation, and other units of Department of Justice involved in drug law enforcement.
 
-#### §§ 881–1, 881a. Transferred
+#### §§ 881–1, 881a. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Section 881–1, Pub. L. 91–513, title II, § 511A, as added Pub. L. 100–690, title VI, § 6080(a), Nov. 18, 1988, 102 Stat. 4326, which related to expedited procedures for seized conveyances, was renumbered § 518 of Pub. L. 91–513 by Pub. L. 101–647, title X, § 1002(h)(1), Nov. 29, 1990, 104 Stat. 4828, transferred to section 888 of this title and subsequently repealed.
+Section 881–1, Pub. L. 91–513, title II, § 511A, as added Pub. L. 100–690, title VI, § 6080(a), Nov. 18, 1988, 102 Stat. 4326, which related to expedited procedures for seized conveyances, was renumbered § 518 of Pub. L. 91–513 by Pub. L. 101–647, title X, § 1002(h)(1), Nov. 29, 1990, 104 Stat. 4828, transferred to section 888 of this title and subsequently repealed.
 
-Section 881a, Pub. L. 99–198, title XVII, § 1764, Dec. 23, 1985, 99 Stat. 1652, which related to production control of controlled substances, was renumbered section 519 of the Controlled Substances Act by Pub. L. 101–647, title X, § 1002(h)(2), Nov. 29, 1990, 104 Stat. 4828, and is classified to section 889 of this title.
+Section 881a, Pub. L. 99–198, title XVII, § 1764, Dec. 23, 1985, 99 Stat. 1652, which related to production control of controlled substances, was renumbered section 519 of the Controlled Substances Act by Pub. L. 101–647, title X, § 1002(h)(2), Nov. 29, 1990, 104 Stat. 4828, and is classified to section 889 of this title.
 
-#### § 882. Injunctions
+#### § 882. Injunctions
 
 **(a) Jurisdiction**
 
@@ -8257,9 +8257,9 @@ In case of an alleged violation of an injunction or restraining order issued und
 
 **(B)** Upon receiving notice respecting a civil action pursuant to this section, the United States shall have the right to intervene in such action and, upon so intervening, to be heard on all matters arising therein, and to file petitions for appeal.
 
-**(C)** Service of a State’s complaint on the United States as required in this paragraph shall be made in accord with the requirements of rule 4(i)(1) of the Federal Rule 1
+**(C)** Service of a State’s complaint on the United States as required in this paragraph shall be made in accord with the requirements of rule 4(i)(1) of the Federal Rule 1
 
-<sup>1</sup>  So in original. Probably should be “Rules”.
+<sup>1</sup> So in original. Probably should be “Rules”.
 
 of Civil Procedure.
 
@@ -8283,7 +8283,7 @@ No private right of action is created under this subsection.
 
 **(C)** any employee of the United States or such Indian tribe or tribal organization, provided such agent or employee is acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee therewith.
 
-(Pub. L. 91–513, title II, § 512, Oct. 27, 1970, 84 Stat. 1278; Pub. L. 110–425, § 3(h), Oct. 15, 2008, 122 Stat. 4830; Pub. L. 117–215, title I, § 103(b)(1)(I), Dec. 2, 2022, 136 Stat. 2263.)
+(Pub. L. 91–513, title II, § 512, Oct. 27, 1970, 84 Stat. 1278; Pub. L. 110–425, § 3(h), Oct. 15, 2008, 122 Stat. 4830; Pub. L. 117–215, title I, § 103(b)(1)(I), Dec. 2, 2022, 136 Stat. 2263.)
 
 **Editorial Notes**
 
@@ -8295,7 +8295,7 @@ This subchapter, referred to in subsecs. (a) and (c)(2)(A), was in the original 
 
 This chapter, referred to in subsec. (c)(3), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 **Amendments**
 
@@ -8309,11 +8309,11 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
 
-#### § 883. Enforcement proceedings
+#### § 883. Enforcement proceedings
 
 Before any violation of this subchapter is reported by the Administrator of the Drug Enforcement Administration to any United States attorney for institution of a criminal proceeding, the Administrator may require that the person against whom such proceeding is contemplated is given appropriate notice and an opportunity to present his views, either orally or in writing, with regard to such contemplated proceeding.
 
-(Pub. L. 91–513, title II, § 513, Oct. 27, 1970, 84 Stat. 1278; Pub. L. 96–132, § 16(c), Nov. 30, 1979, 93 Stat. 1049.)
+(Pub. L. 91–513, title II, § 513, Oct. 27, 1970, 84 Stat. 1278; Pub. L. 96–132, § 16(c), Nov. 30, 1979, 93 Stat. 1049.)
 
 **Editorial Notes**
 
@@ -8321,7 +8321,7 @@ Before any violation of this subchapter is reported by the Administrator of the 
 
 1979—Pub. L. 96–132 substituted “Administrator of the Drug Enforcement Administration” for “Director of the Bureau of Narcotics and Dangerous Drugs” and “Administrator may” for “Director may”.
 
-#### § 884. Immunity and privilege
+#### § 884. Immunity and privilege
 
 **(a) Refusal to testify**
 
@@ -8337,7 +8337,7 @@ In the case of any individual who has been or may be called to testify or provid
 
 **(2)** such individual has refused or is likely to refuse to testify or provide other information on the basis of his privilege against self-incrimination.
 
-(Pub. L. 91–513, title II, § 514, Oct. 27, 1970, 84 Stat. 1278; Pub. L. 100–690, title VII, § 7020(f), Nov. 18, 1988, 102 Stat. 4396.)
+(Pub. L. 91–513, title II, § 514, Oct. 27, 1970, 84 Stat. 1278; Pub. L. 100–690, title VII, § 7020(f), Nov. 18, 1988, 102 Stat. 4396.)
 
 **Editorial Notes**
 
@@ -8345,7 +8345,7 @@ In the case of any individual who has been or may be called to testify or provid
 
 1988—Subsec. (c). Pub. L. 100–690 inserted reference to Associate Attorney General.
 
-#### § 885. Burden of proof; liabilities
+#### § 885. Burden of proof; liabilities
 
 **(a) Exemptions and exceptions; presumption in simple possession offenses**
 
@@ -8365,7 +8365,7 @@ The burden of going forward with the evidence to establish that a vehicle, vesse
 
 Except as provided in sections 2234 and 2235 of title 18, no civil or criminal liability shall be imposed by virtue of this subchapter upon any duly authorized Federal officer lawfully engaged in the enforcement of this subchapter, or upon any duly authorized officer of any State, territory, political subdivision thereof, the District of Columbia, or any possession of the United States, who shall be lawfully engaged in the enforcement of any law or municipal ordinance relating to controlled substances.
 
-(Pub. L. 91–513, title II, § 515, Oct. 27, 1970, 84 Stat. 1279.)
+(Pub. L. 91–513, title II, § 515, Oct. 27, 1970, 84 Stat. 1279.)
 
 **Editorial Notes**
 
@@ -8373,7 +8373,7 @@ Except as provided in sections 2234 and 2235 of title 18, no civil or criminal l
 
 Schedule I, referred to in subsec. (c), is set out in section 812(c) of this title.
 
-#### § 886. Payments and advances
+#### § 886. Payments and advances
 
 **(a) Payment to informers**
 
@@ -8383,7 +8383,7 @@ The Attorney General is authorized to pay any person, from funds appropriated fo
 
 Moneys expended from appropriations of the Drug Enforcement Administration for purchase of controlled substances and subsequently recovered shall be reimbursed to the current appropriation for the Administration.1
 
-<sup>1</sup>  See Codification note below.
+<sup>1</sup> See Codification note below.
 
 **(c) Advance of funds for enforcement purposes**
 
@@ -8405,7 +8405,7 @@ The Attorney General is authorized to direct the advance of funds by the Treasur
 
 **(5)** For purposes of subchapter B of chapter 98 of title 26, the Fund established under this paragraph shall be treated in the same manner as a trust fund established under subchapter A of such chapter.
 
-(Pub. L. 91–513, title II, § 516, Oct. 27, 1970, 84 Stat. 1279; Pub. L. 96–132, § 16(b), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 100–690, title VI, § 6254(i), Nov. 18, 1988, 102 Stat. 4367.)
+(Pub. L. 91–513, title II, § 516, Oct. 27, 1970, 84 Stat. 1279; Pub. L. 96–132, § 16(b), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 100–690, title VI, § 6254(i), Nov. 18, 1988, 102 Stat. 4367.)
 
 **Editorial Notes**
 
@@ -8423,7 +8423,7 @@ In subsec. (b), “Administration” substituted for “Bureau” as the probabl
 
 **Reimbursement by Drug Enforcement Administration of Expenses Incurred To Remediate Methamphetamine Laboratories**
 
-Pub. L. 106–310, div. B, title XXXVI, § 3672, Oct. 17, 2000, 114 Stat. 1246, provided that:
+Pub. L. 106–310, div. B, title XXXVI, § 3672, Oct. 17, 2000, 114 Stat. 1246, provided that:
 
 > **“(a) Reimbursement Authorized.—** The Attorney General, acting through the Administrator of the Drug Enforcement Administration, may reimburse States, units of local government, Indian tribal governments, other public entities, and multi-jurisdictional or regional consortia thereof for expenses incurred to clean up and safely dispose of substances associated with clandestine methamphetamine laboratories which may present a danger to public health or the environment.
 
@@ -8431,7 +8431,7 @@ Pub. L. 106–310, div. B, title XXXVI, § 3672, Oct. 17, 2000, 114 Stat. 1246
 
 > **“(c) Authorization of Appropriations.—** There is authorized to be appropriated to the Attorney General to carry out this section $20,000,000 for fiscal year 2001.”
 
-#### § 886a. Diversion Control Fee Account
+#### § 886a. Diversion Control Fee Account
 
 **(1) In general** There is established in the general fund of the Treasury a separate account which shall be known as the Diversion Control Fee Account. For fiscal year 1993 and thereafter:
 
@@ -8453,7 +8453,7 @@ The term “diversion control program” means the controlled substance and chem
 
 The term “controlled substance and chemical diversion control activities” means those activities related to the registration and control of the manufacture, distribution, dispensing, importation, and exportation of controlled substances and listed chemicals.
 
-(Pub. L. 102–395, title I, § 111(b), Oct. 6, 1992, 106 Stat. 1843; Pub. L. 105–362, title X, § 1001(b), Nov. 10, 1998, 112 Stat. 3291; Pub. L. 108–447, div. B, title VI, § 633(a), Dec. 8, 2004, 118 Stat. 2921.)
+(Pub. L. 102–395, title I, § 111(b), Oct. 6, 1992, 106 Stat. 1843; Pub. L. 105–362, title X, § 1001(b), Nov. 10, 1998, 112 Stat. 3291; Pub. L. 108–447, div. B, title VI, § 633(a), Dec. 8, 2004, 118 Stat. 2921.)
 
 **Editorial Notes**
 
@@ -8463,21 +8463,21 @@ Section was enacted as part of the Departments of Commerce, Justice, and State, 
 
 **Amendments**
 
-2004—Pub. L. 108–447, § 633(a)(2) to (4), designated existing provisions as par. (1) and inserted heading, substituted “program. Such reimbursements shall be made without distinguishing between expenses related to controlled substance activities and expenses related to chemical activities” for “program” in par. (1)(B), and added par. (2).
+2004—Pub. L. 108–447, § 633(a)(2) to (4), designated existing provisions as par. (1) and inserted heading, substituted “program. Such reimbursements shall be made without distinguishing between expenses related to controlled substance activities and expenses related to chemical activities” for “program” in par. (1)(B), and added par. (2).
 
-Pub. L. 108–447, § 633(a)(1), which directed redesignation of pars. (1) to (5) as subpars. (A) to (E) and adjustment of margins, was executed by redesignating pars. (1) to (4) as (A) to (D), respectively, to reflect the probable intent of Congress, because Pub. L. 105–362 struck out par. (5). See 1998 Amendment note below.
+Pub. L. 108–447, § 633(a)(1), which directed redesignation of pars. (1) to (5) as subpars. (A) to (E) and adjustment of margins, was executed by redesignating pars. (1) to (4) as (A) to (D), respectively, to reflect the probable intent of Congress, because Pub. L. 105–362 struck out par. (5). See 1998 Amendment note below.
 
 1998—Par. (5). Pub. L. 105–362 struck out par. (5) which read as follows: “The Attorney General shall prepare and submit annually to the Congress, statements of financial condition of the account, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.”
 
-#### § 887. Coordination and consolidation of post-seizure administration
+#### § 887. Coordination and consolidation of post-seizure administration
 
 The Attorney General and the Secretary of the Treasury shall take such action as may be necessary to develop and maintain a joint plan to coordinate and consolidate post-seizure administration of property seized under this subchapter, subchapter II, or provisions of the customs laws relating to controlled substances.
 
-(Pub. L. 91–513, title II, § 517, as added Pub. L. 100–690, title VI, § 6078(a), Nov. 18, 1988, 102 Stat. 4325.)
+(Pub. L. 91–513, title II, § 517, as added Pub. L. 100–690, title VI, § 6078(a), Nov. 18, 1988, 102 Stat. 4325.)
 
-#### § 888. Repealed. Pub. L. 106–185, § 2(c)(3), Apr. 25, 2000, 114 Stat. 210
+#### § 888. Repealed. Pub. L. 106–185, § 2(c)(3), Apr. 25, 2000, 114 Stat. 210
 
-Section, Pub. L. 91–513, title II, § 518, formerly § 511A, as added Pub. L. 100–690, title VI, § 6080(a), Nov. 18, 1988, 102 Stat. 4326; renumbered § 518, Pub. L. 101–647, title X, § 1002(h)(1), Nov. 29, 1990, 104 Stat. 4828, related to expedited procedures for seized conveyances.
+Section, Pub. L. 91–513, title II, § 518, formerly § 511A, as added Pub. L. 100–690, title VI, § 6080(a), Nov. 18, 1988, 102 Stat. 4326; renumbered § 518, Pub. L. 101–647, title X, § 1002(h)(1), Nov. 29, 1990, 104 Stat. 4828, related to expedited procedures for seized conveyances.
 
 Section was classified to section 881–1 of this title prior to renumbering by Pub. L. 101–647.
 
@@ -8487,7 +8487,7 @@ Section was classified to section 881–1 of this title prior to renumbering by 
 
 Repeal applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as an Effective Date of 2000 Amendment note under section 1324 of Title 8, Aliens and Nationality.
 
-#### § 889. Production control of controlled substances
+#### § 889. Production control of controlled substances
 
 **(a) Definitions** As used in this section:
 
@@ -8525,19 +8525,19 @@ Repeal applicable to any forfeiture proceeding commenced on or after the date th
 
 **(3)** protect the interests of tenants and sharecroppers.
 
-(Pub. L. 91–513, title II, § 519, formerly Pub. L. 99–198, title XVII, § 1764, Dec. 23, 1985, 99 Stat. 1652; renumbered § 519 of Pub. L. 91–513, Pub. L. 101–647, title X, § 1002(h)(2), Nov. 29, 1990, 104 Stat. 4828.)
+(Pub. L. 91–513, title II, § 519, formerly Pub. L. 99–198, title XVII, § 1764, Dec. 23, 1985, 99 Stat. 1652; renumbered § 519 of Pub. L. 91–513, Pub. L. 101–647, title X, § 1002(h)(2), Nov. 29, 1990, 104 Stat. 4828.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Act of 1949, referred to in subsec. (b)(1)(A), (D), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
+The Agricultural Act of 1949, referred to in subsec. (b)(1)(A), (D), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of Title 7 and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, and is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, and is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Federal Crop Insurance Act, referred to in subsec. (b)(1)(C), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
+The Federal Crop Insurance Act, referred to in subsec. (b)(1)(C), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(1)(E), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(1)(E), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 **Codification**
 
@@ -8553,11 +8553,11 @@ Section was classified to section 881a of this title prior to renumbering by Pub
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-#### § 890. Review of Federal sales of chemicals usable to manufacture controlled substances
+#### § 890. Review of Federal sales of chemicals usable to manufacture controlled substances
 
 A Federal department or agency may not sell from the stocks of the department or agency any chemical which, as determined by the Administrator of the Drug Enforcement Administration, could be used in the manufacture of a controlled substance unless the Administrator certifies in writing to the head of the department or agency that there is no reasonable cause to believe that the sale of the chemical would result in the illegal manufacture of a controlled substance.
 
-(Pub. L. 91–513, title II, § 520, as added Pub. L. 104–201, div. A, title X, § 1034(a), Sept. 23, 1996, 110 Stat. 2640.)
+(Pub. L. 91–513, title II, § 520, as added Pub. L. 104–201, div. A, title X, § 1034(a), Sept. 23, 1996, 110 Stat. 2640.)
 
 ### Part F—General Provisions
 
@@ -8567,11 +8567,11 @@ A Federal department or agency may not sell from the stocks of the department or
 
 The letter designation for this Part F was, in the original, Part G. The original Part F of title II of Pub. L. 91–513, consisting of section 601 thereof, is set out as a note under section 801 of this title. The original Part G of title II of Pub. L. 91–513 consisted of sections 701 to 709. Sections 701 to 705 amended and repealed sections in this title and in Title 18, Crimes and Criminal Procedure, and Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 321, 801, and 822 of this title. See Tables for classifications of said sections 701 to 705. Sections 706 to 709 of Pub. L. 91–513 are set out as sections 901 to 904 of this title and, for purposes of codification, comprise this Part F.
 
-#### § 901. Severability
+#### § 901. Severability
 
 If a provision of this chapter is held invalid, all valid provisions that are severable shall remain in effect. If a provision of this chapter is held invalid in one or more of its applications, the provision shall remain in effect in all its valid applications that are severable.
 
-(Pub. L. 91–513, title II, § 706, Oct. 27, 1970, 84 Stat. 1284.)
+(Pub. L. 91–513, title II, § 706, Oct. 27, 1970, 84 Stat. 1284.)
 
 **Editorial Notes**
 
@@ -8579,23 +8579,23 @@ If a provision of this chapter is held invalid, all valid provisions that are se
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-#### § 902. Savings provisions
+#### § 902. Savings provisions
 
-Nothing in this chapter, except this part and, to the extent of any inconsistency, sections 827(e) and 829 of this title, shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. § 301 et seq.].
+Nothing in this chapter, except this part and, to the extent of any inconsistency, sections 827(e) and 829 of this title, shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. § 301 et seq.].
 
-(Pub. L. 91–513, title II, § 707, Oct. 27, 1970, 84 Stat. 1284.)
+(Pub. L. 91–513, title II, § 707, Oct. 27, 1970, 84 Stat. 1284.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
-#### § 903. Application of State law
+#### § 903. Application of State law
 
 No provision of this subchapter shall be construed as indicating an intent on the part of the Congress to occupy the field in which that provision operates, including criminal penalties, to the exclusion of any State law on the same subject matter which would otherwise be within the authority of the State, unless there is a positive conflict between that provision of this subchapter and that State law so that the two cannot consistently stand together.
 
-(Pub. L. 91–513, title II, § 708, Oct. 27, 1970, 84 Stat. 1284.)
+(Pub. L. 91–513, title II, § 708, Oct. 27, 1970, 84 Stat. 1284.)
 
 **Editorial Notes**
 
@@ -8603,11 +8603,11 @@ No provision of this subchapter shall be construed as indicating an intent on th
 
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
-#### § 904. Payment of tort claims
+#### § 904. Payment of tort claims
 
 Notwithstanding section 2680(k) of title 28, the Attorney General, in carrying out the functions of the Department of Justice under this subchapter, is authorized to pay tort claims in the manner authorized by section 2672 of title 28, when such claims arise in a foreign country in connection with the operations of the Drug Enforcement Administration abroad.
 
-(Pub. L. 91–513, title II, § 709, Oct. 27, 1970, 84 Stat. 1284; Pub. L. 93–481, § 1, Oct. 26, 1974, 88 Stat. 1455; Pub. L. 95–137, § 1(a), Oct. 18, 1977, 91 Stat. 1169; Pub. L. 96–132, §§ 13, 15, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 97–414, § 9(g)(1), Jan. 4, 1983, 96 Stat. 2064.)
+(Pub. L. 91–513, title II, § 709, Oct. 27, 1970, 84 Stat. 1284; Pub. L. 93–481, § 1, Oct. 26, 1974, 88 Stat. 1455; Pub. L. 95–137, § 1(a), Oct. 18, 1977, 91 Stat. 1169; Pub. L. 96–132, §§ 13, 15, Nov. 30, 1979, 93 Stat. 1048; Pub. L. 97–414, § 9(g)(1), Jan. 4, 1983, 96 Stat. 2064.)
 
 **Editorial Notes**
 
@@ -8615,9 +8615,9 @@ Notwithstanding section 2680(k) of title 28, the Attorney General, in carrying o
 
 1983—Pub. L. 97–414 struck out subsecs. (a) and (b) which had provided, respectively, that (a) there were authorized to be appropriated $105,000,000 for the fiscal year ending June 30, 1975, $175,000,000 for the fiscal year ending June 30, 1976, $200,000,000 for the fiscal year ending September 30, 1977, $188,000,000 for the fiscal year ending September 30, 1978, $215,000,000 for the fiscal year ending September 30, 1979, and $198,336,000 for the fiscal year ending September 30, 1980, for the expenses of the Department of Justice in carrying out its functions under this subchapter, and that (b) no funds appropriated under any other provision of this chapter could be used for the expenses of the Department of Justice for which funds were authorized to be appropriated by former subsection (a) of this section, and removed the subsection designator (c) before “Notwithstanding”.
 
-1979—Subsec. (a). Pub. L. 96–132, § 15, inserted provisions authorizing appropriations of $198,336,000 for the fiscal year ending Sept. 30, 1980.
+1979—Subsec. (a). Pub. L. 96–132, § 15, inserted provisions authorizing appropriations of $198,336,000 for the fiscal year ending Sept. 30, 1980.
 
-Subsec. (c). Pub. L. 96–132, § 13, added subsec. (c).
+Subsec. (c). Pub. L. 96–132, § 13, added subsec. (c).
 
 1977—Subsec. (a). Pub. L. 95–137 substituted “September 30, 1977, $188,000,000 for the fiscal year ending September 30, 1978, and $215,000,000 for the fiscal year ending September 30, 1979,” for “June 30, 1977,” and struck out “(other than its expenses incurred in connection with carrying out section 803(a) of this title)”.
 
@@ -8631,7 +8631,7 @@ Subsec. (c). Pub. L. 96–132, § 13, added subsec. (c).
 
 This subchapter is comprised of Part A of title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part B of title III contains amendatory, repealing, and transitional provisions generally classified elsewhere.
 
-### § 951. Definitions
+### § 951. Definitions
 
 **(a)** For purposes of this subchapter—
 
@@ -8641,7 +8641,7 @@ This subchapter is comprised of Part A of title III of Pub. L. 91–513, Oct. 27
 
 **(b)** Each term defined in section 802 of this title shall have the same meaning for purposes of this subchapter as such term has for purposes of subchapter I.
 
-(Pub. L. 91–513, title III, § 1001, Oct. 27, 1970, 84 Stat. 1285; Pub. L. 100–418, title I, § 1214(m), Aug. 23, 1988, 102 Stat. 1158.)
+(Pub. L. 91–513, title III, § 1001, Oct. 27, 1970, 84 Stat. 1285; Pub. L. 100–418, title I, § 1214(m), Aug. 23, 1988, 102 Stat. 1158.)
 
 **Editorial Notes**
 
@@ -8663,7 +8663,7 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 **Effective Date**
 
-Pub. L. 91–513, title III, § 1105(a)–(c), Oct. 27, 1970, 84 Stat. 1295, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–513, title III, § 1105(a)–(c), Oct. 27, 1970, 84 Stat. 1295, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a)** Except as otherwise provided in this section, this title [see Short Title note below] shall become effective on the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment [Oct. 27, 1970].
 
@@ -8683,13 +8683,13 @@ Pub. L. 91–513, title III, § 1105(a)–(c), Oct. 27, 1970, 84 Stat. 1295, a
 
 **Short Title**
 
-Pub. L. 91–513, title III, § 1000, Oct. 27, 1970, 84 Stat. 1285, provided that: “This title [enacting this subchapter, amending sections 162 and 967 of this title, section 4251 of Title 18, Crimes and Criminal Procedure, section 1584 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, sections 529d, 529e, and 529f of former Title 31, Money and Finance, section 304m of former Title 40, Public Buildings, Property, and Works, section 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of former Title 49, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, and 501 to 517 of this title, sections 1401 to 1407, and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171 and 957 of this title] may be cited as the ‘Controlled Substances Import and Export Act’.”
+Pub. L. 91–513, title III, § 1000, Oct. 27, 1970, 84 Stat. 1285, provided that: “This title [enacting this subchapter, amending sections 162 and 967 of this title, section 4251 of Title 18, Crimes and Criminal Procedure, section 1584 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, sections 529d, 529e, and 529f of former Title 31, Money and Finance, section 304m of former Title 40, Public Buildings, Property, and Works, section 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of former Title 49, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, and 501 to 517 of this title, sections 1401 to 1407, and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171 and 957 of this title] may be cited as the ‘Controlled Substances Import and Export Act’.”
 
 **Rules and Regulations**
 
-Pub. L. 91–513, title III, § 1105(d), Oct. 27, 1970, 84 Stat. 1296, provided: “Any orders, rules and regulations which have been promulgated under any law affected by this title [see Short Title note above] and which are in effect on the day preceding enactment of this title [Oct. 27, 1970] shall continue in effect until modified, superseded, or repealed.”
+Pub. L. 91–513, title III, § 1105(d), Oct. 27, 1970, 84 Stat. 1296, provided: “Any orders, rules and regulations which have been promulgated under any law affected by this title [see Short Title note above] and which are in effect on the day preceding enactment of this title [Oct. 27, 1970] shall continue in effect until modified, superseded, or repealed.”
 
-### § 952. Importation of controlled substances
+### § 952. Importation of controlled substances
 
 **(a) Controlled substances in schedule I or II and narcotic drugs in schedule III, IV, or V; exceptions** It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the United States), or to import into the United States from any place outside thereof, any controlled substance in schedule I or II of subchapter I, or any narcotic drug in schedule III, IV, or V of subchapter I, or ephedrine, pseudoephedrine, or phenylpropanolamine, except that—
 
@@ -8705,7 +8705,7 @@ Pub. L. 91–513, title III, § 1105(d), Oct. 27, 1970, 84 Stat. 1296, provide
 
 may be so imported under such regulations as the Attorney General shall prescribe. No crude opium may be so imported for the purpose of manufacturing heroin or smoking opium.
 
-**(b) Nonnarcotic controlled substances in schedule III, IV, or V** It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the United States), or to import into the United States from  any  place  outside  thereof,  any  non­narcotic controlled substance in schedule III, IV, or V, unless such nonnarcotic controlled substance—
+**(b) Nonnarcotic controlled substances in schedule III, IV, or V** It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the United States), or to import into the United States from any place outside thereof, any non­narcotic controlled substance in schedule III, IV, or V, unless such nonnarcotic controlled substance—
 
 **(1)** is imported for medical, scientific, or other legitimate uses, and
 
@@ -8731,7 +8731,7 @@ In addition to the amount of coca leaves authorized to be imported into the Unit
 
 Each reference in this section to ephedrine, pseudoephedrine, or phenylpropanolamine includes each of the salts, optical isomers, and salts of optical isomers of such chemical.
 
-(Pub. L. 91–513, title III, § 1002, Oct. 27, 1970, 84 Stat. 1285; Pub. L. 95–633, title I, § 105, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§ 519–521, Oct. 12, 1984, 98 Stat. 2075; Pub. L. 109–177, title VII, § 715, Mar. 9, 2006, 120 Stat. 264.)
+(Pub. L. 91–513, title III, § 1002, Oct. 27, 1970, 84 Stat. 1285; Pub. L. 95–633, title I, § 105, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§ 519–521, Oct. 12, 1984, 98 Stat. 2075; Pub. L. 109–177, title VII, § 715, Mar. 9, 2006, 120 Stat. 264.)
 
 **Editorial Notes**
 
@@ -8741,17 +8741,17 @@ Schedules I, II, III, IV, and V, referred to in subsecs. (a) and (b), are set ou
 
 **Amendments**
 
-2006—Subsec. (a). Pub. L. 109–177, § 715(1)(A), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine,” after “schedule III, IV, or V of subchapter I,” in introductory provisions.
+2006—Subsec. (a). Pub. L. 109–177, § 715(1)(A), inserted “or ephedrine, pseudoephedrine, or phenylpropanolamine,” after “schedule III, IV, or V of subchapter I,” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 109–177, § 715(1)(B), inserted “, and of ephedrine, pseudoephedrine, and phenylpropanolamine,” after “coca leaves”.
+Subsec. (a)(1). Pub. L. 109–177, § 715(1)(B), inserted “, and of ephedrine, pseudoephedrine, and phenylpropanolamine,” after “coca leaves”.
 
-Subsecs. (d), (e). Pub. L. 109–177, § 715(2), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 109–177, § 715(2), added subsecs. (d) and (e).
 
-1984—Subsec. (a)(1). Pub. L. 98–473, § 519, amended par. (1) generally, inserting references to poppy straw and concentrate of poppy straw.
+1984—Subsec. (a)(1). Pub. L. 98–473, § 519, amended par. (1) generally, inserting references to poppy straw and concentrate of poppy straw.
 
-Subsec. (a)(2)(C). Pub. L. 98–473, § 520, added subpar. (C).
+Subsec. (a)(2)(C). Pub. L. 98–473, § 520, added subpar. (C).
 
-Subsec. (b)(2). Pub. L. 98–473, § 521, substituted “is imported pursuant to such notification, or declaration, or in the case of any nonnarcotic controlled substance in schedule III, such import permit, notification, or declaration, as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule IV or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention” for “is imported pursuant to such notification or declaration requirements as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule III, IV, or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention”.
+Subsec. (b)(2). Pub. L. 98–473, § 521, substituted “is imported pursuant to such notification, or declaration, or in the case of any nonnarcotic controlled substance in schedule III, such import permit, notification, or declaration, as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule IV or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention” for “is imported pursuant to such notification or declaration requirements as the Attorney General may by regulation prescribe, except that if a nonnarcotic controlled substance in schedule III, IV, or V is also listed in schedule I or II of the Convention on Psychotropic Substances it shall be imported pursuant to such import permit requirements, prescribed by regulation of the Attorney General, as are required by the Convention”.
 
 1978—Subsec. (b)(2). Pub. L. 95–633 inserted provision relating to exception for nonnarcotic controlled substances listed in schedule I or II of the Convention on Psychotropic Substances.
 
@@ -8765,7 +8765,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
 
-### § 953. Exportation of controlled substances
+### § 953. Exportation of controlled substances
 
 **(a) Narcotic drugs in schedule I, II, III, or IV** It shall be unlawful to export from the United States any narcotic drug in schedule I, II, III, or IV unless—
 
@@ -8853,7 +8853,7 @@ Notwithstanding subsection (c), the Attorney General may authorize any nonnarcot
 
 **(2)** information concerning the consignee, country, and product be provided prior to exportation of the controlled substance from the United States or prior to each re-exportation among members of the European Economic Area.
 
-(Pub. L. 91–513, title III, § 1003, Oct. 27, 1970, 84 Stat. 1286; Pub. L. 95–633, title I, § 106, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, § 522, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 109–57, § 1(b), Aug. 2, 2005, 119 Stat. 592; Pub. L. 114–89, § 4, Nov. 25, 2015, 129 Stat. 701.)
+(Pub. L. 91–513, title III, § 1003, Oct. 27, 1970, 84 Stat. 1286; Pub. L. 95–633, title I, § 106, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, § 522, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 109–57, § 1(b), Aug. 2, 2005, 119 Stat. 592; Pub. L. 114–89, § 4, Nov. 25, 2015, 129 Stat. 701.)
 
 **Editorial Notes**
 
@@ -8863,11 +8863,11 @@ Schedules I, II, III, IV and V, referred to in text, are set out in section 812(
 
 **Amendments**
 
-2015—Subsec. (f)(5). Pub. L. 114–89, § 4(1)(A), designated existing provisions as subpar. (A), inserted “, except that the controlled substance may be exported from a second country that is a member of the European Economic Area to another country that is a member of the European Economic Area, provided that the first country is also a member of the European Economic Area” before period at end, and added subpar. (B).
+2015—Subsec. (f)(5). Pub. L. 114–89, § 4(1)(A), designated existing provisions as subpar. (A), inserted “, except that the controlled substance may be exported from a second country that is a member of the European Economic Area to another country that is a member of the European Economic Area, provided that the first country is also a member of the European Economic Area” before period at end, and added subpar. (B).
 
-Subsec. (f)(6). Pub. L. 114–89, § 4(1)(B), designated existing provisions as subpar. (A) and added subpar. (B).
+Subsec. (f)(6). Pub. L. 114–89, § 4(1)(B), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (g). Pub. L. 114–89, § 4(2), added subsec. (g).
+Subsec. (g). Pub. L. 114–89, § 4(2), added subsec. (g).
 
 2005—Subsec. (f). Pub. L. 109–57 added subsec. (f).
 
@@ -8885,7 +8885,7 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
 
-### § 954. Transshipment and in-transit shipment of controlled substances
+### § 954. Transshipment and in-transit shipment of controlled substances
 
 Notwithstanding sections 952, 953, and 957 of this title—
 
@@ -8899,7 +8899,7 @@ if and only if it is so imported, transferred, or transshipped (i) for scientifi
 
 **(2)** A controlled substance in schedule II, III, or IV may be so imported, transferred, or transshipped if and only if advance notice is given to the Attorney General in accordance with regulations of the Attorney General.
 
-(Pub. L. 91–513, title III, § 1004, Oct. 27, 1970, 84 Stat. 1287.)
+(Pub. L. 91–513, title III, § 1004, Oct. 27, 1970, 84 Stat. 1287.)
 
 **Editorial Notes**
 
@@ -8913,11 +8913,11 @@ Schedules I, II, III, and IV, referred to in text, are set out in section 812(c)
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
 
-### § 955. Possession on board vessels, etc., arriving in or departing from United States
+### § 955. Possession on board vessels, etc., arriving in or departing from United States
 
 It shall be unlawful for any person to bring or possess on board any vessel or aircraft, or on board any vehicle of a carrier, arriving in or departing from the United States or the customs territory of the United States, a controlled substance in schedule I or II or a narcotic drug in schedule III or IV, unless such substance or drug is a part of the cargo entered in the manifest or part of the official supplies of the vessel, aircraft, or vehicle.
 
-(Pub. L. 91–513, title III, § 1005, Oct. 27, 1970, 84 Stat. 1287.)
+(Pub. L. 91–513, title III, § 1005, Oct. 27, 1970, 84 Stat. 1287.)
 
 **Editorial Notes**
 
@@ -8931,15 +8931,15 @@ Schedules I, II, III, and IV, referred to in text, are set out in section 812(c)
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
 
-### §§ 955a to 955d. Transferred
+### §§ 955a to 955d. Transferred
 
 **Editorial Notes**
 
 **Codification**
 
-Sections, Pub. L. 96–350, §§ 1–4, Sept. 15, 1980, 94 Stat. 1159, 1160, relating to maritime drug law enforcement, were transferred to sections 1901 to 1904 of the former Appendix to Title 46, Shipping. Sections 1901 to 1904 of the former Appendix to Title 46 were repealed and restated in chapter 705 of Title 46, Shipping, by Pub. L. 109–304, §§ 10(2), 19, Oct. 6, 2006, 120 Stat. 1683, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
+Sections, Pub. L. 96–350, §§ 1–4, Sept. 15, 1980, 94 Stat. 1159, 1160, relating to maritime drug law enforcement, were transferred to sections 1901 to 1904 of the former Appendix to Title 46, Shipping. Sections 1901 to 1904 of the former Appendix to Title 46 were repealed and restated in chapter 705 of Title 46, Shipping, by Pub. L. 109–304, §§ 10(2), 19, Oct. 6, 2006, 120 Stat. 1683, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
 
-### § 956. Exemption authority
+### § 956. Exemption authority
 
 **(a) Individual possessing controlled substance**
 
@@ -8951,7 +8951,7 @@ Sections, Pub. L. 96–350, §§ 1–4, Sept. 15, 1980, 94 Stat. 1159, 1160, r
 
 The Attorney General may by regulation except any compound, mixture, or preparation containing any depressant or stimulant substance listed in paragraph (a) or (b) of schedule III or in schedule IV or V from the application of all or any part of this subchapter if (1) the compound, mixture, or preparation contains one or more active medicinal ingredients not having a depressant or stimulant effect on the central nervous system, and (2) such ingredients are included therein in such combinations, quantity, proportion, or concentration as to vitiate the potential for abuse of the substances which do have a depressant or stimulant effect on the central nervous system.
 
-(Pub. L. 91–513, title III, § 1006, Oct. 27, 1970, 84 Stat. 1288; Pub. L. 105–277, div. C, title VIII, § 872(a), Oct. 21, 1998, 112 Stat. 2681–707; Pub. L. 105–357, § 2(a), Nov. 10, 1998, 112 Stat. 3271.)
+(Pub. L. 91–513, title III, § 1006, Oct. 27, 1970, 84 Stat. 1288; Pub. L. 105–277, div. C, title VIII, § 872(a), Oct. 21, 1998, 112 Stat. 2681–707; Pub. L. 105–357, § 2(a), Nov. 10, 1998, 112 Stat. 3271.)
 
 **Editorial Notes**
 
@@ -8967,15 +8967,15 @@ Schedules I, III, IV, and V, referred to in text, are set out in section 812(c) 
 
 **Federal Minimum Requirement**
 
-Pub. L. 105–357, § 2(b), Nov. 10, 1998, 112 Stat. 3271, provided that: “Section 1006(a)(2) of the Controlled Substances Import and Export Act [21 U.S.C. 956(a)(2)], as added by this section, is a minimum Federal requirement and shall not be construed to limit a State from imposing any additional requirement.”
+Pub. L. 105–357, § 2(b), Nov. 10, 1998, 112 Stat. 3271, provided that: “Section 1006(a)(2) of the Controlled Substances Import and Export Act [21 U.S.C. 956(a)(2)], as added by this section, is a minimum Federal requirement and shall not be construed to limit a State from imposing any additional requirement.”
 
-Pub. L. 105–277, div. C, title VIII, § 872(b), Oct. 21, 1998, 112 Stat. 2681–707, enacted a provision substantially identical to that enacted by Pub. L. 105–357, § 2(b), set out above.
+Pub. L. 105–277, div. C, title VIII, § 872(b), Oct. 21, 1998, 112 Stat. 2681–707, enacted a provision substantially identical to that enacted by Pub. L. 105–357, § 2(b), set out above.
 
 **Jurisdiction of Secretary of Health and Human Services**
 
-Pub. L. 105–277, div. C, title VIII, § 872(c), Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, § 2(c), Nov. 10, 1998, 112 Stat. 3271, provided that: “The amendment made by subsection (a) [amending this section] shall not be construed to affect the jurisdiction of the Secretary of Health and Human Services under the Federal Food, Drug and Cosmetic Act (21 U.S.C. 301 et seq.).”
+Pub. L. 105–277, div. C, title VIII, § 872(c), Oct. 21, 1998, 112 Stat. 2681–707, and Pub. L. 105–357, § 2(c), Nov. 10, 1998, 112 Stat. 3271, provided that: “The amendment made by subsection (a) [amending this section] shall not be construed to affect the jurisdiction of the Secretary of Health and Human Services under the Federal Food, Drug and Cosmetic Act (21 U.S.C. 301 et seq.).”
 
-### § 957. Persons required to register
+### § 957. Persons required to register
 
 **(a) Coverage** No person may—
 
@@ -8993,31 +8993,31 @@ unless there is in effect with respect to such person a registration issued by t
 
 **(B)** A common or contract carrier or warehouseman, or an employee thereof, whose possession of any controlled substance or list I chemical is in the usual course of his business or employment.
 
-**(C)** An ultimate user who possesses such substance for a purpose specified in section 802(25) 1
+**(C)** An ultimate user who possesses such substance for a purpose specified in section 802(25) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title and in conformity with an exemption granted under section 956(a) of this title.
 
 **(2)** The Attorney General may, by regulation, waive the requirement for registration of certain importers and exporters if he finds it consistent with the public health and safety; and may authorize any such importer or exporter to possess controlled substances or list I chemicals for purposes of importation and exportation.
 
-(Pub. L. 91–513, title III, § 1007, Oct. 27, 1970, 84 Stat. 1288; Pub. L. 98–473, title II, § 523, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 103–200, § 3(e), Dec. 17, 1993, 107 Stat. 2337.)
+(Pub. L. 91–513, title III, § 1007, Oct. 27, 1970, 84 Stat. 1288; Pub. L. 98–473, title II, § 523, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 103–200, § 3(e), Dec. 17, 1993, 107 Stat. 2337.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 802(25) of this title, referred to in subsec. (b)(1)(C), was redesignated section 802(26) of this title by Pub. L. 98–473, title II, § 507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated section 802(27) of this title by Pub. L. 99–570, title I, § 1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
+Section 802(25) of this title, referred to in subsec. (b)(1)(C), was redesignated section 802(26) of this title by Pub. L. 98–473, title II, § 507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated section 802(27) of this title by Pub. L. 99–570, title I, § 1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
 
 **Amendments**
 
-1993—Subsec. (a)(1). Pub. L. 103–200, § 3(e)(1)(A), inserted “or list I chemical” after “controlled substance”.
+1993—Subsec. (a)(1). Pub. L. 103–200, § 3(e)(1)(A), inserted “or list I chemical” after “controlled substance”.
 
-Subsec. (a)(2). Pub. L. 103–200, § 3(e)(1)(B), substituted “or list I chemical,” for “in schedule I, II, III, IV, or V,”.
+Subsec. (a)(2). Pub. L. 103–200, § 3(e)(1)(B), substituted “or list I chemical,” for “in schedule I, II, III, IV, or V,”.
 
-Subsec. (b)(1). Pub. L. 103–200, § 3(e)(2)(A), inserted “or list I chemical” after “controlled substance” in introductory provisions and subpar. (B).
+Subsec. (b)(1). Pub. L. 103–200, § 3(e)(2)(A), inserted “or list I chemical” after “controlled substance” in introductory provisions and subpar. (B).
 
-Subsec. (b)(2). Pub. L. 103–200, § 3(e)(2)(B), inserted “or list I chemicals” after “controlled substances”.
+Subsec. (b)(2). Pub. L. 103–200, § 3(e)(2)(B), inserted “or list I chemicals” after “controlled substances”.
 
 1984—Subsec. (a)(2). Pub. L. 98–473 inserted reference to schedule V.
 
@@ -9033,7 +9033,7 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 **Provisional Registration**
 
-Pub. L. 91–513, title III, § 1104, Oct. 27, 1970, 84 Stat. 1294, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 91–513, title III, § 1104, Oct. 27, 1970, 84 Stat. 1294, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 > **“(a)**
 
@@ -9059,7 +9059,7 @@ Pub. L. 91–513, title III, § 1104, Oct. 27, 1970, 84 Stat. 1294, as amended
 
 > whichever occurs first.”
 
-### § 958. Registration requirements
+### § 958. Registration requirements
 
 **(a) Applicants to import or export controlled substances in schedule I or II**
 
@@ -9113,7 +9113,7 @@ A separate registration shall be required at each principal place of business wh
 
 Except in emergency situations as described in section 952(a)(2)(A) of this title, prior to issuing a registration under this section to a bulk manufacturer of a controlled substance in schedule I or II, and prior to issuing a regulation under section 952(a) of this title authorizing the importation of such a substance, the Attorney General shall give manufacturers holding registrations for the bulk manufacture of the substance an opportunity for a hearing.
 
-(Pub. L. 91–513, title III, § 1008, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 98–473, title II, §§ 524, 525, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 99–570, title I, § 1866(d), Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 103–200, § 3(f), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 108–447, div. B, title VI, § 633(c), Dec. 8, 2004, 118 Stat. 2922; Pub. L. 117–215, title I, § 103(b)(2), Dec. 2, 2022, 136 Stat. 2263.)
+(Pub. L. 91–513, title III, § 1008, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 98–473, title II, §§ 524, 525, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 99–570, title I, § 1866(d), Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 103–200, § 3(f), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 108–447, div. B, title VI, § 633(c), Dec. 8, 2004, 118 Stat. 2922; Pub. L. 117–215, title I, § 103(b)(2), Dec. 2, 2022, 136 Stat. 2263.)
 
 **Editorial Notes**
 
@@ -9129,27 +9129,27 @@ In subsecs. (a) and (d), “May 1, 1971” substituted for “the effective date
 
 **Amendments**
 
-2022—Subsec. (c)(1). Pub. L. 117–215, § 103(b)(2)(A), substituted “823(e)” for “823(d)”.
+2022—Subsec. (c)(1). Pub. L. 117–215, § 103(b)(2)(A), substituted “823(e)” for “823(d)”.
 
-Subsec. (c)(2)(B). Pub. L. 117–215, § 103(b)(2)(B), substituted “823(i)” for “823(h)”.
+Subsec. (c)(2)(B). Pub. L. 117–215, § 103(b)(2)(B), substituted “823(i)” for “823(h)”.
 
 2004—Subsec. (f). Pub. L. 108–447, which directed amendment of subsec. (f) of section 1088 of the Controlled Substances Import and Export Act by inserting “and control” after “the registration” and substituting “listed chemicals” for “list I chemicals under this section”, was executed to subsec. (f) of this section, which is section 1008 of the Controlled Substances Import and Export Act, to reflect the probable intent of Congress.
 
-1993—Subsec. (c). Pub. L. 103–200, § 3(f)(1), designated existing provisions as par. (1) and added par. (2).
+1993—Subsec. (c). Pub. L. 103–200, § 3(f)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(3). Pub. L. 103–200, § 3(f)(2)(A), inserted “or list I chemical or chemicals,” after “substances,”.
+Subsec. (d)(3). Pub. L. 103–200, § 3(f)(2)(A), inserted “or list I chemical or chemicals,” after “substances,”.
 
-Subsec. (d)(6). Pub. L. 103–200, § 3(f)(2)(B), inserted “or list I chemicals” after “controlled substances” wherever appearing.
+Subsec. (d)(6). Pub. L. 103–200, § 3(f)(2)(B), inserted “or list I chemicals” after “controlled substances” wherever appearing.
 
-Subsec. (e). Pub. L. 103–200, § 3(f)(3), inserted reference to section 830 of this title.
+Subsec. (e). Pub. L. 103–200, § 3(f)(3), inserted reference to section 830 of this title.
 
-Subsecs. (f) to (h). Pub. L. 103–200, § 3(f)(4), inserted “or list I chemicals” after “controlled substances”.
+Subsecs. (f) to (h). Pub. L. 103–200, § 3(f)(4), inserted “or list I chemicals” after “controlled substances”.
 
 1986—Subsec. (e). Pub. L. 99–570 substituted “sections” for first reference to “section”.
 
-1984—Subsec. (b). Pub. L. 98–473, § 524, substituted “Registration granted under this section shall not entitle a registrant to import or export controlled substances other than specified in the registration” for “Registration granted under subsection (a) of this section shall not entitle a registrant to import or export controlled substances in schedule I or II other than those specified in the registration”.
+1984—Subsec. (b). Pub. L. 98–473, § 524, substituted “Registration granted under this section shall not entitle a registrant to import or export controlled substances other than specified in the registration” for “Registration granted under subsection (a) of this section shall not entitle a registrant to import or export controlled substances in schedule I or II other than those specified in the registration”.
 
-Subsecs. (d) to (i). Pub. L. 98–473, § 525, added subsec. (d), redesignated former subsec. (d) as (e) and struck out reference to section 824 of this title, and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
+Subsecs. (d) to (i). Pub. L. 98–473, § 525, added subsec. (d), redesignated former subsec. (d) as (e) and struck out reference to section 824 of this title, and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9161,7 +9161,7 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
 
-### § 959. Possession, manufacture, or distribution of controlled substance
+### § 959. Possession, manufacture, or distribution of controlled substance
 
 **(a) Manufacture or distribution for purpose of unlawful importation**
 
@@ -9183,7 +9183,7 @@ It shall be unlawful for any person to manufacture or distribute a controlled su
 
 This section is intended to reach acts of manufacture or distribution committed outside the territorial jurisdiction of the United States.
 
-(Pub. L. 91–513, title III, § 1009, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 99–570, title III, § 3161(a), Oct. 27, 1986, 100 Stat. 3207–94; Pub. L. 104–237, title I, § 102(a), (b), Oct. 3, 1996, 110 Stat. 3100; Pub. L. 104–305, § 2(b)(2)(A), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 114–154, § 2, May 16, 2016, 130 Stat. 387; Pub. L. 115–91, div. A, title X, § 1012(b), Dec. 12, 2017, 131 Stat. 1546.)
+(Pub. L. 91–513, title III, § 1009, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 99–570, title III, § 3161(a), Oct. 27, 1986, 100 Stat. 3207–94; Pub. L. 104–237, title I, § 102(a), (b), Oct. 3, 1996, 110 Stat. 3100; Pub. L. 104–305, § 2(b)(2)(A), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 114–154, § 2, May 16, 2016, 130 Stat. 387; Pub. L. 115–91, div. A, title X, § 1012(b), Dec. 12, 2017, 131 Stat. 1546.)
 
 **Editorial Notes**
 
@@ -9193,9 +9193,9 @@ Schedules I and II, referred to in subsec. (a), are set out in section 812(c) of
 
 **Amendments**
 
-2017—Subsec. (d). Pub. L. 115–91 struck out “; venue” after “United States” in heading and “Any person who violates this section shall be tried in the United States district court at the point of entry where such person enters the United States, or in the United States District Court for the District of Columbia.” after “United States.” in text.
+2017—Subsec. (d). Pub. L. 115–91 struck out “; venue” after “United States” in heading and “Any person who violates this section shall be tried in the United States district court at the point of entry where such person enters the United States, or in the United States District Court for the District of Columbia.” after “United States.” in text.
 
-2016—Subsec. (a). Pub. L. 114–154, § 2(2), substituted “It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or a listed chemical intending, knowing, or having reasonable cause to believe that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States.” for “It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or listed chemical—
+2016—Subsec. (a). Pub. L. 114–154, § 2(2), substituted “It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or a listed chemical intending, knowing, or having reasonable cause to believe that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States.” for “It shall be unlawful for any person to manufacture or distribute a controlled substance in schedule I or II or flunitrazepam or listed chemical—
 
 “(1) intending that such substance or chemical will be unlawfully imported into the United States or into waters within a distance of 12 miles of the coast of the United States; or
 
@@ -9205,9 +9205,9 @@ Subsecs. (b) to (d). Pub. L. 114–154 added subsec. (b) and redesignated former
 
 1996—Subsec. (a). Pub. L. 104–305 inserted “or flunitrazepam” after “schedule I or II” in introductory provisions.
 
-Pub. L. 104–237, § 102(a), inserted “or listed chemical” after “schedule I or II” in introductory provisions and “or chemical” after “substance” in pars. (1) and (2).
+Pub. L. 104–237, § 102(a), inserted “or listed chemical” after “schedule I or II” in introductory provisions and “or chemical” after “substance” in pars. (1) and (2).
 
-Subsec. (b). Pub. L. 104–237, § 102(b), inserted “or listed chemical” after “controlled substance” in pars. (1) and (2).
+Subsec. (b). Pub. L. 104–237, § 102(b), inserted “or listed chemical” after “controlled substance” in pars. (1) and (2).
 
 1986—Pub. L. 99–570 designated first sentence as subsec. (a) and inserted “or into waters within a distance of 12 miles of the coast of the United States” in pars. (1) and (2), added subsec. (b), and designated last two sentences as subsec. (c).
 
@@ -9217,7 +9217,7 @@ Subsec. (b). Pub. L. 104–237, § 102(b), inserted “or listed chemical” a
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
 
-### § 960. Prohibited acts A
+### § 960. Prohibited acts A
 
 **(a) Unlawful acts** Any person who—
 
@@ -9251,13 +9251,13 @@ shall be punished as provided in subsection (b).
 
 **(E)** 10 grams or more of a mixture or substance containing a detectable amount of lysergic acid diethylamide (LSD);
 
-**(F)** 400 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [1- ( 2-phenylethyl ) -4-piperidinyl] propanamide or 100 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
+**(F)** 400 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [1- ( 2-phenylethyl ) -4-piperidinyl] propanamide or 100 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
 
 **(G)** 1000 kilograms or more of a mixture or substance containing a detectable amount of marihuana; or
 
 **(H)** 50 grams or more of methamphetamine, its salts, isomers, and salts of its isomers or 500 grams or more of a mixture or substance containing a detectable amount of methamphetamine, its salts, isomers, or salts of its isomers.1
 
-<sup>1</sup>  So in original. The period probably should be a semicolon.
+<sup>1</sup> So in original. The period probably should be a semicolon.
 
 the person committing such violation shall be sentenced to a term of imprisonment of not less than 10 years and not more than life and if death or serious bodily injury results from the use of such substance shall be sentenced to a term of imprisonment of not less than 20 years and not more than life, a fine not to exceed the greater of that authorized in accordance with the provisions of title 18 or $10,000,000 if the defendant is an individual or $50,000,000 if the defendant is other than an individual, or both. If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 15 years and not more than life imprisonment and if death or serious bodily injury results from the use of such substance shall be sentenced to life imprisonment, a fine not to exceed the greater of twice that authorized in accordance with the provisions of title 18 or $20,000,000 if the defendant is an individual or $75,000,000 if the defendant is other than an individual, or both. Notwithstanding section 3583 of title 18, any sentence under this paragraph shall, in the absence of such a prior conviction, impose a term of supervised release of at least 5 years in addition to such term of imprisonment and shall, if there was such a prior conviction, impose a term of supervised release of at least 10 years in addition to such term of imprisonment. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person sentenced under this paragraph. No person sentenced under this paragraph shall be eligible for parole during the term of imprisonment imposed therein.
 
@@ -9281,7 +9281,7 @@ the person committing such violation shall be sentenced to a term of imprisonmen
 
 **(E)** 1 gram or more of a mixture or substance containing a detectable amount of lysergic acid diethylamide (LSD);
 
-**(F)** 40 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [1- ( 2-phenylethyl ) -4-piperidinyl] propanamide or 10 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
+**(F)** 40 grams or more of a mixture or substance containing a detectable amount of N-phenyl-N- [1- ( 2-phenylethyl ) -4-piperidinyl] propanamide or 10 grams or more of a mixture or substance containing a detectable amount of any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide or a fentanyl-related substance;
 
 **(G)** 100 kilograms or more of a mixture or substance containing a detectable amount of marihuana; or
 
@@ -9299,7 +9299,7 @@ the person committing such violation shall be sentenced to a term of imprisonmen
 
 **(7)** In the case of a violation of subsection (a) involving a controlled substance in schedule V, such person shall be sentenced in accordance with section 841(b)(3) of this title.
 
-**(c) Repealed. Pub. L. 98–473, title II, § 225, formerly § 225(a), Oct. 12, 1984, 98 Stat. 2030, as amended by Pub. L. 99–570, title I, § 1005(c), Oct. 27, 1986, 100 Stat. 3207–6**
+**(c) Repealed. Pub. L. 98–473, title II, § 225, formerly § 225(a), Oct. 12, 1984, 98 Stat. 2030, as amended by Pub. L. 99–570, title I, § 1005(c), Oct. 27, 1986, 100 Stat. 3207–6**
 
 **(d) Penalty for importation or exportation** A person who knowingly or intentionally—
 
@@ -9317,11 +9317,11 @@ the person committing such violation shall be sentenced to a term of imprisonmen
 
 **(7)** manufactures, possesses with intent to distribute, or distributes a listed chemical in violation of section 959 of this title.2
 
-<sup>2</sup>  So in original. The period probably should be a comma.
+<sup>2</sup> So in original. The period probably should be a comma.
 
 shall be fined in accordance with title 18, imprisoned not more than 20 years in the case of a violation of paragraph (1) or (3) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (3) involving a list I chemical, or both.
 
-(Pub. L. 91–513, title III, § 1010, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 98–473, title II, §§ 225, formerly § 225(a), 504, Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570, title I, §§ 1004(a), 1005(c), 1302, 1866(e), Oct. 27, 1986, 100 Stat. 3207–6, 3207–15, 3207–55; Pub. L. 100–690, title VI, §§ 6053(c), 6475, Nov. 18, 1988, 102 Stat. 4315, 4380; Pub. L. 101–647, title XII, § 1204, title XXXV, § 3599J, Nov. 29, 1990, 104 Stat. 4830, 4932; Pub. L. 103–200, §§ 4(b), 5(b), Dec. 17, 1993, 107 Stat. 2338, 2339; Pub. L. 103–322, title IX, § 90105(a), title XXXIII, § 330024(d)(2), Sept. 13, 1994, 108 Stat. 1987, 2151; Pub. L. 104–237, title I, § 102(c), title III, § 302(b), Oct. 3, 1996, 110 Stat. 3100, 3105; Pub. L. 104–305, § 2(b)(2)(B), (C), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 105–277, div. E, § 2(b), Oct. 21, 1998, 112 Stat. 2681–759; Pub. L. 106–172, § 3(b)(2), Feb. 18, 2000, 114 Stat. 9; Pub. L. 107–273, div. B, title III, § 3005(b), Nov. 2, 2002, 116 Stat. 1806; Pub. L. 109–177, title VII, §§ 716(b)(1)(A), 717, Mar. 9, 2006, 120 Stat. 267; Pub. L. 110–425, § 3(i), Oct. 15, 2008, 122 Stat. 4832; Pub. L. 111–220, §§ 2(b), 4(b), Aug. 3, 2010, 124 Stat. 2372; Pub. L. 113–260, § 3(b), Dec. 18, 2014, 128 Stat. 2931; Pub. L. 115–391, title IV, § 401(b), Dec. 21, 2018, 132 Stat. 5221; Pub. L. 119–26, § 6(b), July 16, 2025, 139 Stat. 417.)
+(Pub. L. 91–513, title III, § 1010, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 98–473, title II, §§ 225, formerly § 225(a), 504, Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570, title I, §§ 1004(a), 1005(c), 1302, 1866(e), Oct. 27, 1986, 100 Stat. 3207–6, 3207–15, 3207–55; Pub. L. 100–690, title VI, §§ 6053(c), 6475, Nov. 18, 1988, 102 Stat. 4315, 4380; Pub. L. 101–647, title XII, § 1204, title XXXV, § 3599J, Nov. 29, 1990, 104 Stat. 4830, 4932; Pub. L. 103–200, §§ 4(b), 5(b), Dec. 17, 1993, 107 Stat. 2338, 2339; Pub. L. 103–322, title IX, § 90105(a), title XXXIII, § 330024(d)(2), Sept. 13, 1994, 108 Stat. 1987, 2151; Pub. L. 104–237, title I, § 102(c), title III, § 302(b), Oct. 3, 1996, 110 Stat. 3100, 3105; Pub. L. 104–305, § 2(b)(2)(B), (C), Oct. 13, 1996, 110 Stat. 3807; Pub. L. 105–277, div. E, § 2(b), Oct. 21, 1998, 112 Stat. 2681–759; Pub. L. 106–172, § 3(b)(2), Feb. 18, 2000, 114 Stat. 9; Pub. L. 107–273, div. B, title III, § 3005(b), Nov. 2, 2002, 116 Stat. 1806; Pub. L. 109–177, title VII, §§ 716(b)(1)(A), 717, Mar. 9, 2006, 120 Stat. 267; Pub. L. 110–425, § 3(i), Oct. 15, 2008, 122 Stat. 4832; Pub. L. 111–220, §§ 2(b), 4(b), Aug. 3, 2010, 124 Stat. 2372; Pub. L. 113–260, § 3(b), Dec. 18, 2014, 128 Stat. 2931; Pub. L. 115–391, title IV, § 401(b), Dec. 21, 2018, 132 Stat. 5221; Pub. L. 119–26, § 6(b), July 16, 2025, 139 Stat. 417.)
 
 **Editorial Notes**
 
@@ -9333,65 +9333,65 @@ Section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Prohibit
 
 **Amendments**
 
-2025—Subsec. (b)(1)(F). Pub. L. 119–26, § 6(b)(1), inserted “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
+2025—Subsec. (b)(1)(F). Pub. L. 119–26, § 6(b)(1), inserted “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
 
-Subsec. (b)(2)(F). Pub. L. 119–26, § 6(b)(2), inserted “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
+Subsec. (b)(2)(F). Pub. L. 119–26, § 6(b)(2), inserted “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
 
-2018—Subsec. (b)(1). Pub. L. 115–391, § 401(b)(1), in concluding provisions, substituted “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 15 years” for “If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not less than 20 years”.
+2018—Subsec. (b)(1). Pub. L. 115–391, § 401(b)(1), in concluding provisions, substituted “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 15 years” for “If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment of not less than 20 years”.
 
-Subsec. (b)(2). Pub. L. 115–391, § 401(b)(2), substituted “serious drug felony or serious violent felony” for “felony drug offense” in concluding provisions.
+Subsec. (b)(2). Pub. L. 115–391, § 401(b)(2), substituted “serious drug felony or serious violent felony” for “felony drug offense” in concluding provisions.
 
 2014—Subsec. (a)(1). Pub. L. 113–260 inserted “825,” before “952”.
 
-2010—Subsec. (b)(1). Pub. L. 111–220, § 4(b)(1), in concluding provisions, substituted “$10,000,000” for “$4,000,000”, “$50,000,000” for “$10,000,000”, “$20,000,000” for “$8,000,000”, and “$75,000,000” for “$20,000,000”.
+2010—Subsec. (b)(1). Pub. L. 111–220, § 4(b)(1), in concluding provisions, substituted “$10,000,000” for “$4,000,000”, “$50,000,000” for “$10,000,000”, “$20,000,000” for “$8,000,000”, and “$75,000,000” for “$20,000,000”.
 
-Subsec. (b)(1)(C). Pub. L. 111–220, § 2(b)(1), substituted “280 grams” for “50 grams”.
+Subsec. (b)(1)(C). Pub. L. 111–220, § 2(b)(1), substituted “280 grams” for “50 grams”.
 
-Subsec. (b)(2). Pub. L. 111–220, § 4(b)(2), in concluding provisions, substituted “$5,000,000” for “$2,000,000”, “$25,000,000” for “$5,000,000”, “$8,000,000” for “$4,000,000”, and “$50,000,000” for “$10,000,000”.
+Subsec. (b)(2). Pub. L. 111–220, § 4(b)(2), in concluding provisions, substituted “$5,000,000” for “$2,000,000”, “$25,000,000” for “$5,000,000”, “$8,000,000” for “$4,000,000”, and “$50,000,000” for “$10,000,000”.
 
-Subsec. (b)(2)(C). Pub. L. 111–220, § 2(b)(2), substituted “28 grams” for “5 grams”.
+Subsec. (b)(2)(C). Pub. L. 111–220, § 2(b)(2), substituted “28 grams” for “5 grams”.
 
-2008—Subsec. (b)(3). Pub. L. 110–425, § 3(i)(3), struck out before period at end “, nor shall a person so sentenced be eligible for parole during the term of such a sentence”.
+2008—Subsec. (b)(3). Pub. L. 110–425, § 3(i)(3), struck out before period at end “, nor shall a person so sentenced be eligible for parole during the term of such a sentence”.
 
-Subsec. (b)(4). Pub. L. 110–425, § 3(i)(1), inserted “or” after “hashish,”, struck out “or any quantity of a controlled substance in schedule III, IV, or V, (except a violation involving flunitrazepam and except a violation involving gamma hydroxybutyric acid)” after “hashish oil,”, and substituted “sentenced in accordance with section 841(b)(1)(D) of this title” for “imprisoned not more than five years, or be fined not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual, or both. If a sentence under this paragraph provides for imprisonment, the sentence shall, notwithstanding section 3583 of title 18, in addition to such term of imprisonment, include (A) a term of supervised release of not less than two years if such controlled substance is in schedule I, II, III, or (B) a term of supervised release of not less than one year if such controlled substance is in schedule IV”.
+Subsec. (b)(4). Pub. L. 110–425, § 3(i)(1), inserted “or” after “hashish,”, struck out “or any quantity of a controlled substance in schedule III, IV, or V, (except a violation involving flunitrazepam and except a violation involving gamma hydroxybutyric acid)” after “hashish oil,”, and substituted “sentenced in accordance with section 841(b)(1)(D) of this title” for “imprisoned not more than five years, or be fined not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual, or both. If a sentence under this paragraph provides for imprisonment, the sentence shall, notwithstanding section 3583 of title 18, in addition to such term of imprisonment, include (A) a term of supervised release of not less than two years if such controlled substance is in schedule I, II, III, or (B) a term of supervised release of not less than one year if such controlled substance is in schedule IV”.
 
-Subsec. (b)(5) to (7). Pub. L. 110–425, § 3(i)(2), added pars. (5) to (7).
+Subsec. (b)(5) to (7). Pub. L. 110–425, § 3(i)(2), added pars. (5) to (7).
 
-2006—Subsec. (d)(5). Pub. L. 109–177, § 716(b)(1)(A), substituted “paragraph (2) or (3) of section 971(f) of this title” for “section 971(e)(2) or (3) of this title”.
+2006—Subsec. (d)(5). Pub. L. 109–177, § 716(b)(1)(A), substituted “paragraph (2) or (3) of section 971(f) of this title” for “section 971(e)(2) or (3) of this title”.
 
-Subsec. (d)(6). Pub. L. 109–177, § 717, amended par. (6) generally. Prior to amendment, par. (6) read as follows: “imports or exports a listed chemical in violation of section 957 or 971 of this title; or”.
+Subsec. (d)(6). Pub. L. 109–177, § 717, amended par. (6) generally. Prior to amendment, par. (6) read as follows: “imports or exports a listed chemical in violation of section 957 or 971 of this title; or”.
 
-2002—Subsec. (b)(1), (2). Pub. L. 107–273, § 3005(b)(1), substituted “Notwithstanding section 3583 of title 18, any sentence” for “Any sentence” in concluding provisions.
+2002—Subsec. (b)(1), (2). Pub. L. 107–273, § 3005(b)(1), substituted “Notwithstanding section 3583 of title 18, any sentence” for “Any sentence” in concluding provisions.
 
-Subsec. (b)(3). Pub. L. 107–273, § 3005(b)(1), substituted “Notwithstanding section 3583 of title 18, any sentence” for “Any sentence”.
+Subsec. (b)(3). Pub. L. 107–273, § 3005(b)(1), substituted “Notwithstanding section 3583 of title 18, any sentence” for “Any sentence”.
 
-Subsec. (b)(4). Pub. L. 107–273, § 3005(b)(2), inserted “notwithstanding section 3583 of title 18,” before “in addition to such term of imprisonment”.
+Subsec. (b)(4). Pub. L. 107–273, § 3005(b)(2), inserted “notwithstanding section 3583 of title 18,” before “in addition to such term of imprisonment”.
 
-2000—Subsec. (b)(3). Pub. L. 106–172, § 3(b)(2)(A), inserted “gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000),” after “schedule I or II,” in first sentence.
+2000—Subsec. (b)(3). Pub. L. 106–172, § 3(b)(2)(A), inserted “gamma hydroxybutyric acid (including when scheduled as an approved drug product for purposes of section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Drug Prohibition Act of 2000),” after “schedule I or II,” in first sentence.
 
-Subsec. (b)(4). Pub. L. 106–172, § 3(b)(2)(B), substituted “flunitrazepam and except a violation involving gamma hydroxybutyric acid)” for “flunitrazepam)”.
+Subsec. (b)(4). Pub. L. 106–172, § 3(b)(2)(B), substituted “flunitrazepam and except a violation involving gamma hydroxybutyric acid)” for “flunitrazepam)”.
 
-1998—Subsec. (b)(1)(H). Pub. L. 105–277, § 2(b)(1), substituted “50 grams” and “500 grams” for “100 grams” and “1 kilogram”, respectively.
+1998—Subsec. (b)(1)(H). Pub. L. 105–277, § 2(b)(1), substituted “50 grams” and “500 grams” for “100 grams” and “1 kilogram”, respectively.
 
-Subsec. (b)(2)(H). Pub. L. 105–277, § 2(b)(2), substituted “5 grams” and “50 grams” for “10 grams” and “100 grams”, respectively.
+Subsec. (b)(2)(H). Pub. L. 105–277, § 2(b)(2), substituted “5 grams” and “50 grams” for “10 grams” and “100 grams”, respectively.
 
-1996—Subsec. (b)(3). Pub. L. 104–305, § 2(b)(2)(B), inserted “or flunitrazepam,” after “schedule I or II,”.
+1996—Subsec. (b)(3). Pub. L. 104–305, § 2(b)(2)(B), inserted “or flunitrazepam,” after “schedule I or II,”.
 
-Subsec. (b)(4). Pub. L. 104–305, § 2(b)(2)(C), inserted “(except a violation involving flunitrazepam)” after “schedule III, IV, or V,”.
+Subsec. (b)(4). Pub. L. 104–305, § 2(b)(2)(C), inserted “(except a violation involving flunitrazepam)” after “schedule III, IV, or V,”.
 
-Subsec. (d). Pub. L. 104–237, § 302(b), in closing provisions, substituted “not more than 20 years in the case of a violation of paragraph (1) or (3) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (3) involving a list I chemical,” for “not more than 10 years,”.
+Subsec. (d). Pub. L. 104–237, § 302(b), in closing provisions, substituted “not more than 20 years in the case of a violation of paragraph (1) or (3) involving a list I chemical or not more than 10 years in the case of a violation of this subsection other than a violation of paragraph (1) or (3) involving a list I chemical,” for “not more than 10 years,”.
 
-Subsec. (d)(7). Pub. L. 104–237, § 102(c), added par. (7).
+Subsec. (d)(7). Pub. L. 104–237, § 102(c), added par. (7).
 
-1994—Subsec. (b)(1), (2). Pub. L. 103–322, § 90105(a), in sentence in concluding provisions beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this subsection, or for a felony under any other provision of this subchapter or subchapter I of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
+1994—Subsec. (b)(1), (2). Pub. L. 103–322, § 90105(a), in sentence in concluding provisions beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this subsection, or for a felony under any other provision of this subchapter or subchapter I of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
 
-Subsec. (b)(3). Pub. L. 103–322, § 90105(a), in sentence beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this subsection, or for a felony under any other provision of this subchapter or subchapter I of this chapter or other law of a State, the United States or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
+Subsec. (b)(3). Pub. L. 103–322, § 90105(a), in sentence beginning “If any person commits”, substituted “a prior conviction for a felony drug offense has become final” for “one or more prior convictions for an offense punishable under this subsection, or for a felony under any other provision of this subchapter or subchapter I of this chapter or other law of a State, the United States or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final”.
 
-Subsec. (d)(5), (6). Pub. L. 103–322, § 330024(d)(2), amended directory language of Pub. L. 103–200, § 5(b)(3). See 1993 Amendment note below.
+Subsec. (d)(5), (6). Pub. L. 103–322, § 330024(d)(2), amended directory language of Pub. L. 103–200, § 5(b)(3). See 1993 Amendment note below.
 
-1993—Subsec. (d). Pub. L. 103–200, § 5(b), as amended by Pub. L. 103–322, § 330024(d)(2), added pars. (5) and (6).
+1993—Subsec. (d). Pub. L. 103–200, § 5(b), as amended by Pub. L. 103–322, § 330024(d)(2), added pars. (5) and (6).
 
-Pub. L. 103–200, § 4(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any person who knowingly or intentionally—
+Pub. L. 103–200, § 4(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Any person who knowingly or intentionally—
 
 “(1) imports or exports a listed chemical with intent to manufacture a controlled substance in violation of this subchapter or, in the case of an exportation, in violation of the law of the country to which the chemical is exported; or
 
@@ -9399,19 +9399,19 @@ Pub. L. 103–200, § 4(b), amended subsec. (d) generally. Prior to amendment,
 
 shall be fined in accordance with title 18, or imprisoned not more than 10 years, or both.”
 
-1990—Subsec. (b)(1)(H). Pub. L. 101–647, § 1204(a), added subpar. (H).
+1990—Subsec. (b)(1)(H). Pub. L. 101–647, § 1204(a), added subpar. (H).
 
-Subsec. (b)(2). Pub. L. 101–647, § 3599J, substituted “supervised” for “suspervised” in two places in concluding provisions.
+Subsec. (b)(2). Pub. L. 101–647, § 3599J, substituted “supervised” for “suspervised” in two places in concluding provisions.
 
-Subsec. (b)(2)(H). Pub. L. 101–647, § 1204(b), added subpar. (H).
+Subsec. (b)(2)(H). Pub. L. 101–647, § 1204(b), added subpar. (H).
 
-1988—Subsec. (a)(3). Pub. L. 100–690, § 6475, substituted “manufactures, possesses with intent to distribute, or distributes a controlled substance” for “manufactures or distributes a controlled substance”.
+1988—Subsec. (a)(3). Pub. L. 100–690, § 6475, substituted “manufactures, possesses with intent to distribute, or distributes a controlled substance” for “manufactures or distributes a controlled substance”.
 
-Subsec. (d). Pub. L. 100–690, § 6053(c), added subsec. (d).
+Subsec. (d). Pub. L. 100–690, § 6053(c), added subsec. (d).
 
-1986—Pub. L. 99–570, § 1005(c), amended Pub. L. 98–473, § 225. See 1984 Amendment note below.
+1986—Pub. L. 99–570, § 1005(c), amended Pub. L. 98–473, § 225. See 1984 Amendment note below.
 
-Subsec. (b)(1), (2). Pub. L. 99–570, § 1302(a)(2), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+Subsec. (b)(1), (2). Pub. L. 99–570, § 1302(a)(2), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) In the case of a violation under subsection (a) of this section involving—
 
@@ -9433,25 +9433,25 @@ the person committing such violation shall be imprisoned for not more than twent
 
 “(2) In the case of a violation under subsection (a) of this section with respect to a controlled substance in schedule I or II, the person committing such violation shall, except as provided in paragraphs (1) and (3), be imprisoned not more than fifteen years, or fined not more than $125,000, or both. If a sentence under this paragraph provides for imprisonment, the sentence shall include a special parole term of not less than three years in addition to such term of imprisonment.”
 
-Subsec. (b)(3). Pub. L. 99–570, § 1302(a)(2), added par. (3). Former par. (3) redesignated (4).
+Subsec. (b)(3). Pub. L. 99–570, § 1302(a)(2), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 99–570, § 1302(a)(1), (3), (b)(2), (3), redesignated former par. (3) as (4), inserted “except in the case of 100 or more marihuana plants regardless of weight,” and substituted “fined not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “fined not more than $50,000”.
+Subsec. (b)(4). Pub. L. 99–570, § 1302(a)(1), (3), (b)(2), (3), redesignated former par. (3) as (4), inserted “except in the case of 100 or more marihuana plants regardless of weight,” and substituted “fined not to exceed the greater of that authorized in accordance with the provisions of title 18 or $250,000 if the defendant is an individual or $1,000,000 if the defendant is other than an individual” for “fined not more than $50,000”.
 
-Pub. L. 99–570, §§ 1302(b)(1), 1866(e), made identical amendment striking out “, except as provided in paragraph (4)” after “such violation shall”.
+Pub. L. 99–570, §§ 1302(b)(1), 1866(e), made identical amendment striking out “, except as provided in paragraph (4)” after “such violation shall”.
 
-Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term” in two places.
+Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term” in two places.
 
-Subsec. (c). Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term” wherever appearing, effective Nov. 1, 1987, the effective date of the repeal of subsec. (c) by Pub. L. 98–473, § 225. See 1984 Amendment note below.
+Subsec. (c). Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term” wherever appearing, effective Nov. 1, 1987, the effective date of the repeal of subsec. (c) by Pub. L. 98–473, § 225. See 1984 Amendment note below.
 
-1984—Subsec. (b). Pub. L. 98–473, § 225(a), which directed amendment of this subsection effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was omitted in the general amendment of section 225 of Pub. L. 98–473 by Pub. L. 99–570, § 1005(c).
+1984—Subsec. (b). Pub. L. 98–473, § 225(a), which directed amendment of this subsection effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was omitted in the general amendment of section 225 of Pub. L. 98–473 by Pub. L. 99–570, § 1005(c).
 
-Subsec. (b)(1). Pub. L. 98–473, § 504(1), added par. (1). Former par. (1) redesignated (2).
+Subsec. (b)(1). Pub. L. 98–473, § 504(1), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (b)(2). Pub. L. 98–473, § 504(1), (2), redesignated former par. (1) as (2), inserted provisions excepting pars. (1) and (3), and substituted reference to controlled substance for reference to narcotic drug, and “$125,000” for “$25,000”. Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 98–473, § 504(1), (2), redesignated former par. (1) as (2), inserted provisions excepting pars. (1) and (3), and substituted reference to controlled substance for reference to narcotic drug, and “$125,000” for “$25,000”. Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 98–473, § 504(1), (3), redesignated former par. (2) as (3) and substituted “less than 50 kilograms of marihuana, less than 10 kilograms of hashish, less than one kilogram of hashish oil, or any quantity of a controlled substance in schedule III, IV, or V, the person committing such violation shall, except as provided in paragraph (4)” for “a controlled substance other than a narcotic drug in schedule I or II, the person committing such violation shall”, and “$50,000” for “$15,000”.
+Subsec. (b)(3). Pub. L. 98–473, § 504(1), (3), redesignated former par. (2) as (3) and substituted “less than 50 kilograms of marihuana, less than 10 kilograms of hashish, less than one kilogram of hashish oil, or any quantity of a controlled substance in schedule III, IV, or V, the person committing such violation shall, except as provided in paragraph (4)” for “a controlled substance other than a narcotic drug in schedule I or II, the person committing such violation shall”, and “$50,000” for “$15,000”.
 
-Subsec. (c). Pub. L. 98–473, § 225, as amended by Pub. L. 99–570, § 1005(c), struck out subsec. (c) which related to special parole terms imposed under this section or section 962 of this title. Notwithstanding directory language that the amendment be made to “Section 1515 of the Controlled Substances Import and Export Act (21 U.S.C. 960)”, the amendment was executed to this section as the probable intent of Congress.
+Subsec. (c). Pub. L. 98–473, § 225, as amended by Pub. L. 99–570, § 1005(c), struck out subsec. (c) which related to special parole terms imposed under this section or section 962 of this title. Notwithstanding directory language that the amendment be made to “Section 1515 of the Controlled Substances Import and Export Act (21 U.S.C. 960)”, the amendment was executed to this section as the probable intent of Congress.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9491,13 +9491,13 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 Nothing in amendment made by Pub. L. 119–26 to be construed as evidence that, in applying subsec. (b) of this section with respect to conduct occurring before July 16, 2025, a fentanyl-related substance (as defined by such amendment) is not an analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide, see section 7(b) of Pub. L. 119–26, set out as a note under section 841 of this title.
 
-### § 960a. Foreign terrorist organizations, terrorist persons and groups
+### § 960a. Foreign terrorist organizations, terrorist persons and groups
 
 **(a) Prohibited acts**
 
-Whoever engages in conduct that would be punishable under section 841(a) 1
+Whoever engages in conduct that would be punishable under section 841(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title if committed within the jurisdiction of the United States, or attempts or conspires to do so, knowing or intending to provide, directly or indirectly, anything of pecuniary value to any person or organization that has engaged or engages in terrorist activity (as defined in section 1182(a)(3)(B) of title 8) or terrorism (as defined in section 2656f(d)(2) of title 22), shall be sentenced to a term of imprisonment of not less than twice the minimum punishment under section 841(b)(1),1 and not more than life, a fine in accordance with the provisions of title 18, or both. Notwithstanding section 3583 of title 18, any sentence imposed under this subsection shall include a term of supervised release of at least 5 years in addition to such term of imprisonment.
 
@@ -9521,7 +9521,7 @@ To violate subsection (a), a person must have knowledge that the person or organ
 
 As used in this section, the term “anything of pecuniary value” has the meaning given the term in section 1958(b)(1) of title 18.
 
-(Pub. L. 91–513, title III, § 1010A, as added Pub. L. 109–177, title I, § 122, Mar. 9, 2006, 120 Stat. 225.)
+(Pub. L. 91–513, title III, § 1010A, as added Pub. L. 109–177, title I, § 122, Mar. 9, 2006, 120 Stat. 225.)
 
 **Editorial Notes**
 
@@ -9529,7 +9529,7 @@ As used in this section, the term “anything of pecuniary value” has the mean
 
 Section 841, referred to in the original in subsec. (a), probably should have been a reference to section 401 of Pub. L. 91–513, which is classified to section 841 of this title. Pub. L. 91–513 does not contain a section 841.
 
-### § 961. Prohibited acts B
+### § 961. Prohibited acts B
 
 Any person who violates section 954 of this title or fails to notify the Attorney General of an importation or exportation under section 971 of this title shall be subject to the following penalties:
 
@@ -9537,7 +9537,7 @@ Any person who violates section 954 of this title or fails to notify the Attorne
 
 **(2)** If such a violation is prosecuted by an information or indictment which alleges that the violation was committed knowingly or intentionally and the trier of fact specifically finds that the violation was so committed, such person shall be sentenced to imprisonment for not more than one year or a fine of not more than $25,000 or both.
 
-(Pub. L. 91–513, title III, § 1011, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 100–690, title VI, § 6053(d), Nov. 18, 1988, 102 Stat. 4316.)
+(Pub. L. 91–513, title III, § 1011, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 100–690, title VI, § 6053(d), Nov. 18, 1988, 102 Stat. 4316.)
 
 **Editorial Notes**
 
@@ -9555,7 +9555,7 @@ Amendment by Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see secti
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
 
-### § 962. Second or subsequent offenses
+### § 962. Second or subsequent offenses
 
 **(a) Term of imprisonment and fine**
 
@@ -9569,7 +9569,7 @@ For purposes of this section, a person shall be considered convicted of a second
 
 Section 851 of this title shall apply with respect to any proceeding to sentence a person under this section.
 
-(Pub. L. 91–513, title III, § 1012, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 98–473, title II, §§ 225(b), 505, Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570, title I, §§ 1004(a), 1005(c), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 103–322, title IX, § 90105(b), Sept. 13, 1994, 108 Stat. 1988.)
+(Pub. L. 91–513, title III, § 1012, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 98–473, title II, §§ 225(b), 505, Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570, title I, §§ 1004(a), 1005(c), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 103–322, title IX, § 90105(b), Sept. 13, 1994, 108 Stat. 1988.)
 
 **Editorial Notes**
 
@@ -9577,13 +9577,13 @@ Section 851 of this title shall apply with respect to any proceeding to sentence
 
 1994—Subsec. (b). Pub. L. 103–322 substituted “one or more prior convictions of such person for a felony drug offense have become final” for “one or more prior convictions of him for a felony under any provision of this subchapter or subchapter I of this chapter or other law of a State, the United States, or a foreign country relating to narcotic drugs, marihuana, or depressant or stimulant drugs, have become final”.
 
-1986—Subsec. (a). Pub. L. 99–570, § 1005(c), amended Pub. L. 98–473, § 225. See 1984 Amendment note below.
+1986—Subsec. (a). Pub. L. 99–570, § 1005(c), amended Pub. L. 98–473, § 225. See 1984 Amendment note below.
 
-Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term”.
+Pub. L. 99–570, § 1004(a), substituted “term of supervised release” for “special parole term”.
 
-1984—Subsec. (a). Pub. L. 98–473, § 225(b), which directed amendment of this section effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was omitted in the general amendment of section 225 of Pub. L. 98–473 by Pub. L. 99–570, § 1005(c).
+1984—Subsec. (a). Pub. L. 98–473, § 225(b), which directed amendment of this section effective Nov. 1, 1987 (see section 235(a)(1) of Pub. L. 98–473 set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure) was omitted in the general amendment of section 225 of Pub. L. 98–473 by Pub. L. 99–570, § 1005(c).
 
-Subsec. (b). Pub. L. 98–473, § 505, inserted references to laws of a State or of a foreign country.
+Subsec. (b). Pub. L. 98–473, § 505, inserted references to laws of a State or of a foreign country.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9595,11 +9595,11 @@ Amendment by section 1004(a) of Pub. L. 99–570 effective on date of taking eff
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
 
-### § 963. Attempt and conspiracy
+### § 963. Attempt and conspiracy
 
 Any person who attempts or conspires to commit any offense defined in this subchapter shall be subject to the same penalties as those prescribed for the offense, the commission of which was the object of the attempt or conspiracy.
 
-(Pub. L. 91–513, title III, § 1013, Oct. 27, 1970, 84 Stat. 1291; Pub. L. 100–690, title VI, § 6470(a), Nov. 18, 1988, 102 Stat. 4377.)
+(Pub. L. 91–513, title III, § 1013, Oct. 27, 1970, 84 Stat. 1291; Pub. L. 100–690, title VI, § 6470(a), Nov. 18, 1988, 102 Stat. 4377.)
 
 **Editorial Notes**
 
@@ -9613,11 +9613,11 @@ Any person who attempts or conspires to commit any offense defined in this subch
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
 
-### § 964. Additional penalties
+### § 964. Additional penalties
 
 Any penalty imposed for violation of this subchapter shall be in addition to, and not in lieu of, any civil or administrative penalty or sanction authorized by law.
 
-(Pub. L. 91–513, title III, § 1014, Oct. 27, 1970, 84 Stat. 1291.)
+(Pub. L. 91–513, title III, § 1014, Oct. 27, 1970, 84 Stat. 1291.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9625,11 +9625,11 @@ Any penalty imposed for violation of this subchapter shall be in addition to, an
 
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see 1105(a) of Pub. L. 91–513, set out as a under section 951 of this title.
 
-### § 965. Applicability of part E of subchapter I
+### § 965. Applicability of part E of subchapter I
 
 Part E of subchapter I shall apply with respect to functions of the Attorney General (and of officers and employees of the Bureau of Narcotics and Dangerous Drugs) under this subchapter, to administrative and judicial proceedings under this subchapter, and to violations of this subchapter, to the same extent that such part applies to functions of the Attorney General (and such officers and employees) under subchapter I, to such proceedings under subchapter I, and to violations of subchapter I. For purposes of the application of this section to section 880 or 881 of this title, any reference in such section 880 or 881 of this title to “this subchapter” shall be deemed to be a reference to this subchapter, any reference to section 823 of this title shall be deemed to be a reference to section 958 of this title, and any reference to section 822(d) of this title shall be deemed to be a reference to section 957(b)(2) of this title.
 
-(Pub. L. 91–513, title III, § 1015, Oct. 27, 1970, 84 Stat. 1291; Pub. L. 95–633, title III, § 301(b), Nov. 10, 1978, 92 Stat. 3778.)
+(Pub. L. 91–513, title III, § 1015, Oct. 27, 1970, 84 Stat. 1291; Pub. L. 95–633, title III, § 301(b), Nov. 10, 1978, 92 Stat. 3778.)
 
 **Editorial Notes**
 
@@ -9643,11 +9643,11 @@ Part E of subchapter I shall apply with respect to functions of the Attorney Gen
 
 For abolition of Bureau of Narcotics and Dangerous Drugs, including Office of Director thereof, and creation of a single comprehensive agency for enforcement of drug laws by Reorg. Plan No. 2 of 1973, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, see note set out under section 881 of this title.
 
-### § 966. Authority of Secretary of the Treasury
+### § 966. Authority of Secretary of the Treasury
 
 Nothing in this chapter shall derogate from the authority of the Secretary of the Treasury under the customs and related laws.
 
-(Pub. L. 91–513, title III, § 1016, Oct. 27, 1970, 84 Stat. 1291.)
+(Pub. L. 91–513, title III, § 1016, Oct. 27, 1970, 84 Stat. 1291.)
 
 **Editorial Notes**
 
@@ -9655,11 +9655,11 @@ Nothing in this chapter shall derogate from the authority of the Secretary of th
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
-### § 967. Smuggling of controlled substances; investigations; oaths; subpenas; witnesses; evidence; production of records; territorial limits; fees and mileage of witnesses
+### § 967. Smuggling of controlled substances; investigations; oaths; subpenas; witnesses; evidence; production of records; territorial limits; fees and mileage of witnesses
 
 For the purpose of any investigation which, in the opinion of the Secretary of the Treasury, is necessary and proper to the enforcement of section 545 of title 18 (relating to smuggling goods into the United States) with respect to any controlled substance (as defined in section 802 of this title), the Secretary of the Treasury may administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of records (including books, papers, documents and tangible things which constitute or contain evidence) relevant or material to the investigation. The attendance of witnesses and the production of records may be required from any place within the customs territory of the United States, except that a witness shall not be required to appear at any hearing distant more than 100 miles from the place where he was served with subpena. Witnesses summoned by the Secretary shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. Oaths and affirmations may be made at any place subject to the jurisdiction of the United States.
 
-(Aug. 11, 1955, ch. 800, § 1, 69 Stat. 684; Pub. L. 91–513, title III, § 1102(t), Oct. 27, 1970, 84 Stat. 1294.)
+(Aug. 11, 1955, ch. 800, § 1, 69 Stat. 684; Pub. L. 91–513, title III, § 1102(t), Oct. 27, 1970, 84 Stat. 1294.)
 
 **Editorial Notes**
 
@@ -9667,7 +9667,7 @@ For the purpose of any investigation which, in the opinion of the Secretary of t
 
 Section was not enacted as part of the Comprehensive Drug Abuse Prevention and Control Act of 1970 which comprises this chapter.
 
-Section was formerly classified to section 1034 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1034 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 Section was also formerly classified to section 198a of this title.
 
@@ -9685,11 +9685,11 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under sections 171 to 174 of this title.
 
-### § 968. Service of subpena; proof of service
+### § 968. Service of subpena; proof of service
 
 A subpena of the Secretary of the Treasury may be served by any person designated in the subpena to serve it. Service upon a natural person may be made by personal delivery of the subpena to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the subpena to an officer, a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The affidavit of the person serving the subpena entered on a true copy thereof by the person serving it shall be proof of service.
 
-(Aug. 11, 1955, ch. 800, § 2, 69 Stat. 685.)
+(Aug. 11, 1955, ch. 800, § 2, 69 Stat. 685.)
 
 **Editorial Notes**
 
@@ -9697,15 +9697,15 @@ A subpena of the Secretary of the Treasury may be served by any person designate
 
 Section was not enacted as part of the Comprehensive Drug Abuse Prevention and Control Act of 1970 which comprises this chapter.
 
-Section was formerly classified to section 1035 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1035 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 Section was also formerly classified to section 198b of this title.
 
-### § 969. Contempt proceedings
+### § 969. Contempt proceedings
 
 In case of contumacy by, or refusal to obey a subpena issued to, any person, the Secretary of the Treasury may invoke the aid of any court of the United States within the jurisdiction of which the investigation is carried on or of which the subpenaed person is an inhabitant, carries on business or may be found, to compel compliance with the subpena of the Secretary of the Treasury. The court may issue an order requiring the subpenaed person to appear before the Secretary of the Treasury there to produce records, if so ordered, or to give testimony touching the matter under investigation. Any failure to obey the order of the court may be punished by the court as a contempt thereof. All process in any such case may be served in the judicial district whereof the subpenaed person is an inhabitant or wherever he may be found.
 
-(Aug. 11, 1955, ch. 800, § 3, 69 Stat. 685.)
+(Aug. 11, 1955, ch. 800, § 3, 69 Stat. 685.)
 
 **Editorial Notes**
 
@@ -9713,17 +9713,17 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 Section was not enacted as part of the Comprehensive Drug Abuse Prevention and Control Act of 1970 which comprises this chapter.
 
-Section was formerly classified to section 1036 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 1036 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877.
 
 Section was also formerly classified to section 198c of this title.
 
-### § 970. Criminal forfeitures
+### § 970. Criminal forfeitures
 
 Section 853 of this title, relating to criminal forfeitures, shall apply in every respect to a violation of this subchapter punishable by imprisonment for more than one year.
 
-(Pub. L. 91–513, title III, § 1017, as added Pub. L. 98–473, title II, § 307, Oct. 12, 1984, 98 Stat. 2051.)
+(Pub. L. 91–513, title III, § 1017, as added Pub. L. 98–473, title II, § 307, Oct. 12, 1984, 98 Stat. 2051.)
 
-### § 971. Notification, suspension of shipment, and penalties with respect to importation and exportation of listed chemicals
+### § 971. Notification, suspension of shipment, and penalties with respect to importation and exportation of listed chemicals
 
 **(a) Notification prior to transaction**
 
@@ -9795,35 +9795,35 @@ Within 30 days after a transaction covered by this section is completed, the imp
 
 **(3)** If the Attorney General determines that a foreign-chain distributor is refusing to cooperate with the Attorney General in obtaining the information referred to in paragraph (2), the Attorney General may, in accordance with procedures that apply under subsection (c), issue an order prohibiting the importation of ephedrine, pseudoephedrine, or phenylpropanolamine in any case in which such distributor is part of the chain of distribution for such chemical. Not later than 60 days prior to issuing the order, the Attorney General shall publish in the Federal Register a notice of intent to issue the order. During such 60-day period, imports of the chemical with respect to such distributor may not be restricted under this paragraph.
 
-(Pub. L. 91–513, title III, § 1018, as added Pub. L. 100–690, title VI, § 6053(a), Nov. 18, 1988, 102 Stat. 4314; amended Pub. L. 103–200, §§ 4(a), 5(a), 9(b), Dec. 17, 1993, 107 Stat. 2338–2340; Pub. L. 103–322, title XXXIII, § 330024(c), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 109–177, title VII, §§ 716(a), (b)(1)(B), 721, Mar. 9, 2006, 120 Stat. 265, 267.)
+(Pub. L. 91–513, title III, § 1018, as added Pub. L. 100–690, title VI, § 6053(a), Nov. 18, 1988, 102 Stat. 4314; amended Pub. L. 103–200, §§ 4(a), 5(a), 9(b), Dec. 17, 1993, 107 Stat. 2338–2340; Pub. L. 103–322, title XXXIII, § 330024(c), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 109–177, title VII, §§ 716(a), (b)(1)(B), 721, Mar. 9, 2006, 120 Stat. 265, 267.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2006—Subsec. (b)(1). Pub. L. 109–177, § 716(a)(1), substituted “or to a transaction that is an importation by a regular importer” for “or to an importation by a regular importer”.
+2006—Subsec. (b)(1). Pub. L. 109–177, § 716(a)(1), substituted “or to a transaction that is an importation by a regular importer” for “or to an importation by a regular importer”.
 
-Subsec. (c)(1). Pub. L. 109–177, § 716(b)(1)(B), inserted “(without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufactured from bulk chemicals to be transferred)” after “manufacture of a controlled substance”.
+Subsec. (c)(1). Pub. L. 109–177, § 716(b)(1)(B), inserted “(without regard to the form of the chemical that may be diverted, including the diversion of a finished drug product to be manufactured from bulk chemicals to be transferred)” after “manufacture of a controlled substance”.
 
-Subsecs. (d) to (f). Pub. L. 109–177, § 716(a)(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (d) to (f). Pub. L. 109–177, § 716(a)(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-Subsec. (g). Pub. L. 109–177, § 716(a)(4), added subsec. (g).
+Subsec. (g). Pub. L. 109–177, § 716(a)(4), added subsec. (g).
 
-Subsec. (h). Pub. L. 109–177, § 721, added subsec. (h).
+Subsec. (h). Pub. L. 109–177, § 721, added subsec. (h).
 
-1994—Subsecs. (b)(1), (2), (c)(1). Pub. L. 103–322, § 330024(c)(2), made technical amendment to directory language of Pub. L. 103–200, § 9(b). See 1993 Amendment notes below.
+1994—Subsecs. (b)(1), (2), (c)(1). Pub. L. 103–322, § 330024(c)(2), made technical amendment to directory language of Pub. L. 103–200, § 9(b). See 1993 Amendment notes below.
 
-Subsec. (e). Pub. L. 103–322, § 330024(c)(1), made technical amendment to directory language of Pub. L. 103–200, § 5(a). See 1993 Amendment note below.
+Subsec. (e). Pub. L. 103–322, § 330024(c)(1), made technical amendment to directory language of Pub. L. 103–200, § 5(a). See 1993 Amendment note below.
 
-1993—Subsec. (b)(1). Pub. L. 103–200, § 9(b)(1)(A), as amended by Pub. L. 103–322, § 330024(c)(2), substituted “to an importation by a regular importer” for “regular supplier of the regulated person”.
+1993—Subsec. (b)(1). Pub. L. 103–200, § 9(b)(1)(A), as amended by Pub. L. 103–322, § 330024(c)(2), substituted “to an importation by a regular importer” for “regular supplier of the regulated person”.
 
-Subsec. (b)(2). Pub. L. 103–200, § 9(b)(1)(B), as amended by Pub. L. 103–322, § 330024(c)(2), substituted “a customer of a regulated person or to an importer” for “a customer or supplier of a regulated person” and “the importer as a regular importer” for “regular supplier”.
+Subsec. (b)(2). Pub. L. 103–200, § 9(b)(1)(B), as amended by Pub. L. 103–322, § 330024(c)(2), substituted “a customer of a regulated person or to an importer” for “a customer or supplier of a regulated person” and “the importer as a regular importer” for “regular supplier”.
 
-Subsec. (c)(1). Pub. L. 103–200, § 9(b)(2), as amended by Pub. L. 103–322, § 330024(c)(2), substituted “regular importer” for “regular supplier”.
+Subsec. (c)(1). Pub. L. 103–200, § 9(b)(2), as amended by Pub. L. 103–322, § 330024(c)(2), substituted “regular importer” for “regular supplier”.
 
-Subsec. (d). Pub. L. 103–200, § 4(a), added subsec. (d).
+Subsec. (d). Pub. L. 103–200, § 4(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 103–200, § 5(a), as amended by Pub. L. 103–322, § 330024(c)(1), added subsec. (e).
+Subsec. (e). Pub. L. 103–200, § 5(a), as amended by Pub. L. 103–322, § 330024(c)(1), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -9837,7 +9837,7 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 
 **Effective Date**
 
-Pub. L. 100–690, title VI, § 6053(b), Nov. 18, 1988, 102 Stat. 4315, provided that:
+Pub. L. 100–690, title VI, § 6053(b), Nov. 18, 1988, 102 Stat. 4315, provided that:
 
 > **“(1)** Not later than 45 days after the date of the enactment of this Act [Nov. 18, 1988], the Attorney General shall forward to the Director of the Office of Management and Budget proposed regulations required by the amendment made by subsection (a) [enacting this section].
 
@@ -9859,7 +9859,7 @@ Section effective 120 days after Nov. 18, 1988 [except subsec. (a), see above], 
 
 **Exception for Iodine to Importation and Exportation Requirements for Listed Chemicals**
 
-Pub. L. 104–237, title II, § 204(b), Oct. 3, 1996, 110 Stat. 3102, provided that:
+Pub. L. 104–237, title II, § 204(b), Oct. 3, 1996, 110 Stat. 3102, provided that:
 
 > **“(1)** Iodine shall not be subject to the requirements for listed chemicals provided in section 1018 of the Controlled Substances Import and Export Act (21 U.S.C. 971).
 

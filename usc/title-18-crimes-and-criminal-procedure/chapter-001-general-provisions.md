@@ -23,41 +23,41 @@ In the analysis of sections under this chapter heading, a new item, “14. Appli
 
 **Amendments**
 
-2026—Pub. L. 119–73, § 6(b), Jan. 23, 2026, 139 Stat. 2009, added item 28.
+2026—Pub. L. 119–73, § 6(b), Jan. 23, 2026, 139 Stat. 2009, added item 28.
 
-2009—Pub. L. 111–21, § 2(b)(2), May 20, 2009, 123 Stat. 1617, added item 27.
+2009—Pub. L. 111–21, § 2(b)(2), May 20, 2009, 123 Stat. 1617, added item 27.
 
-2006—Pub. L. 109–177, title III, § 302(d), Mar. 9, 2006, 120 Stat. 233, added item 26.
+2006—Pub. L. 109–177, title III, § 302(d), Mar. 9, 2006, 120 Stat. 233, added item 26.
 
-2003—Pub. L. 108–21, title VI, § 601(b), Apr. 30, 2003, 117 Stat. 687, added item 25.
+2003—Pub. L. 108–21, title VI, § 601(b), Apr. 30, 2003, 117 Stat. 687, added item 25.
 
-2002—Pub. L. 107–273, div. B, title IV, § 4004(a), Nov. 2, 2002, 116 Stat. 1812, struck out item 14 “Applicability to Canal Zone; definition”.
+2002—Pub. L. 107–273, div. B, title IV, § 4004(a), Nov. 2, 2002, 116 Stat. 1812, struck out item 14 “Applicability to Canal Zone; definition”.
 
-1996—Pub. L. 104–191, title II, § 241(b), Aug. 21, 1996, 110 Stat. 2016, which directed the amendment of the table of sections at the beginning of chapter 2 of this title by inserting item 24, was executed by inserting item 24 in the table of sections at the beginning of this chapter, to reflect the probable intent of Congress.
+1996—Pub. L. 104–191, title II, § 241(b), Aug. 21, 1996, 110 Stat. 2016, which directed the amendment of the table of sections at the beginning of chapter 2 of this title by inserting item 24, was executed by inserting item 24 in the table of sections at the beginning of this chapter, to reflect the probable intent of Congress.
 
-1994—Pub. L. 103–332, title XXXII, §§ 320910(b), 320914(b), Sept. 13, 1994, 108 Stat. 2127, 2128, added items 21 and 23.
+1994—Pub. L. 103–332, title XXXII, §§ 320910(b), 320914(b), Sept. 13, 1994, 108 Stat. 2127, 2128, added items 21 and 23.
 
-1990—Pub. L. 101–647, title XXXV, § 3504, Nov. 29, 1990, 104 Stat. 4921, substituted “defense” for “Defense” in item 17.
+1990—Pub. L. 101–647, title XXXV, § 3504, Nov. 29, 1990, 104 Stat. 4921, substituted “defense” for “Defense” in item 17.
 
-1989—Pub. L. 101–73, title IX, § 962(e)(3), Aug. 9, 1989, 103 Stat. 504, added item 20.
+1989—Pub. L. 101–73, title IX, § 962(e)(3), Aug. 9, 1989, 103 Stat. 504, added item 20.
 
-1987—Pub. L. 100–185, § 4(b), Dec. 11, 1987, 101 Stat. 1279, added item 19.
+1987—Pub. L. 100–185, § 4(b), Dec. 11, 1987, 101 Stat. 1279, added item 19.
 
-1986—Pub. L. 99–646, §§ 34(b), 38(b), Nov. 10, 1986, 100 Stat. 3599, renumbered item 20 as 17 and added item 18.
+1986—Pub. L. 99–646, §§ 34(b), 38(b), Nov. 10, 1986, 100 Stat. 3599, renumbered item 20 as 17 and added item 18.
 
-1984—Pub. L. 98–473, title II, §§ 218(b), 402(b), 1001(b), Oct. 12, 1984, 98 Stat. 2027, 2057, 2136, substituted “Repealed” for “Offenses classified” in item 1 and added items 16 and 20.
+1984—Pub. L. 98–473, title II, §§ 218(b), 402(b), 1001(b), Oct. 12, 1984, 98 Stat. 2027, 2057, 2136, substituted “Repealed” for “Offenses classified” in item 1 and added items 16 and 20.
 
-1970—Pub. L. 91–375, § 6(j)(1), Aug. 12, 1970, 84 Stat. 777, inserted “United States” before “Postal Service” in item 12.
+1970—Pub. L. 91–375, § 6(j)(1), Aug. 12, 1970, 84 Stat. 777, inserted “United States” before “Postal Service” in item 12.
 
-1962—Pub. L. 87–845, § 3(b), Oct. 18, 1962, 76A Stat. 698, inserted “; definition” in item 14.
+1962—Pub. L. 87–845, § 3(b), Oct. 18, 1962, 76A Stat. 698, inserted “; definition” in item 14.
 
-1958—Pub. L. 85–921, § 4, Sept. 2, 1958, 72 Stat. 1771, added item 15.
+1958—Pub. L. 85–921, § 4, Sept. 2, 1958, 72 Stat. 1771, added item 15.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Commission on the Advancement of Federal Law Enforcement**
 
-Pub. L. 104–132, title VIII, § 806, Apr. 24, 1996, 110 Stat. 1305, established Commission on the Advancement of Federal Law Enforcement, directed Commission to review and recommend action to Congress on Federal law enforcement priorities for 21st century, including Federal law enforcement capability to investigate and deter adequately threat of terrorism facing United States, standards and procedures, degree of coordination with international, State, and local law enforcement agencies, and other matters, provided for membership and administration of Commission, staffing and support functions, and powers to hold hearings and obtain official data for purposes of carrying out its duties, required report to Congress and public of findings, conclusions, and recommendations not later than 2 years after quorum of Commission had been appointed, and provided for termination of Commission 30 days after submitting report.
+Pub. L. 104–132, title VIII, § 806, Apr. 24, 1996, 110 Stat. 1305, established Commission on the Advancement of Federal Law Enforcement, directed Commission to review and recommend action to Congress on Federal law enforcement priorities for 21st century, including Federal law enforcement capability to investigate and deter adequately threat of terrorism facing United States, standards and procedures, degree of coordination with international, State, and local law enforcement agencies, and other matters, provided for membership and administration of Commission, staffing and support functions, and powers to hold hearings and obtain official data for purposes of carrying out its duties, required report to Congress and public of findings, conclusions, and recommendations not later than 2 years after quorum of Commission had been appointed, and provided for termination of Commission 30 days after submitting report.
 
 **National Commission on Reform of Federal Criminal Laws**
 
@@ -73,9 +73,9 @@ Ex. Ord. No. 11396, Feb. 7, 1968, 33 F.R. 2689, which related to coordination By
 
 Ex. Ord. No. 11534, June 4, 1970, 35 F.R. 8865, which related to the National Council on Organized Crime, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
-## [§ 1. Repealed. Pub. L. 98–473, title II, § 218(a)(1), Oct. 12, 1984, 98 Stat. 2027]
+## [§ 1. Repealed. Pub. L. 98–473, title II, § 218(a)(1), Oct. 12, 1984, 98 Stat. 2027]
 
-Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–596, § 8, 98 Stat. 3138, classified offenses as a felony, misdemeanor, or petty offense.
+Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–596, § 8, 98 Stat. 3138, classified offenses as a felony, misdemeanor, or petty offense.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -85,291 +85,291 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 **Short Title of 2026 Amendment**
 
-Pub. L. 119–73, § 1, Jan. 23, 2026, 139 Stat. 2003, provided that: “This Act [enacting sections 28 and 3771A of this title, amending section 7102 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under section 28 of this title and section 10110 of Title 34, Crime Control and Law Enforcement] may be cited as the ‘Trafficking Survivors Relief Act’.”
+Pub. L. 119–73, § 1, Jan. 23, 2026, 139 Stat. 2003, provided that: “This Act [enacting sections 28 and 3771A of this title, amending section 7102 of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under section 28 of this title and section 10110 of Title 34, Crime Control and Law Enforcement] may be cited as the ‘Trafficking Survivors Relief Act’.”
 
 **Short Title of 2024 Amendment**
 
-Pub. L. 118–78, § 1, July 30, 2024, 138 Stat. 1512, provided that: “This Act [enacting section 1352 of this title and amending section 201 of this title] may be cited as the ‘Foreign Extortion Prevention Technical Corrections Act’.”
+Pub. L. 118–78, § 1, July 30, 2024, 138 Stat. 1512, provided that: “This Act [enacting section 1352 of this title and amending section 201 of this title] may be cited as the ‘Foreign Extortion Prevention Technical Corrections Act’.”
 
-Pub. L. 118–77, § 1, July 30, 2024, 138 Stat. 1510, provided that: “This Act [amending section 3663A of this title] may be cited as the ‘Victims’ Voices Outside and Inside the Courtroom Effectiveness Act’ or the ‘Victims’ VOICES Act’.”
+Pub. L. 118–77, § 1, July 30, 2024, 138 Stat. 1510, provided that: “This Act [amending section 3663A of this title] may be cited as the ‘Victims’ Voices Outside and Inside the Courtroom Effectiveness Act’ or the ‘Victims’ VOICES Act’.”
 
-Pub. L. 118–59, § 1, May 7, 2024, 138 Stat. 1014, provided that: “This Act [amending sections 2258A and 2258B of this title and enacting provisions set out as notes under sections 2258A and 2258B of this title] may be cited as the ‘Revising Existing Procedures On Reporting via Technology Act’ or the ‘REPORT Act’.”
+Pub. L. 118–59, § 1, May 7, 2024, 138 Stat. 1014, provided that: “This Act [amending sections 2258A and 2258B of this title and enacting provisions set out as notes under sections 2258A and 2258B of this title] may be cited as the ‘Revising Existing Procedures On Reporting via Technology Act’ or the ‘REPORT Act’.”
 
-Pub. L. 118–42, div. G, title III, § 302(a), Mar. 9, 2024, 138 Stat. 451, provided that: “This section [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Additional Extension Act of 2024’.”
+Pub. L. 118–42, div. G, title III, § 302(a), Mar. 9, 2024, 138 Stat. 451, provided that: “This section [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Additional Extension Act of 2024’.”
 
 **Short Title of 2023 Amendment**
 
-Pub. L. 118–31, div. E, title LI, § 5102(a), Dec. 22, 2023, 137 Stat. 933, provided that: “This section [amending sections 2423 and 2427 of this title and enacting provisions set out as a note under section 2423 of this title] may be cited as the ‘Preventing Child Sex Abuse Act of 2023’.”
+Pub. L. 118–31, div. E, title LI, § 5102(a), Dec. 22, 2023, 137 Stat. 933, provided that: “This section [amending sections 2423 and 2427 of this title and enacting provisions set out as a note under section 2423 of this title] may be cited as the ‘Preventing Child Sex Abuse Act of 2023’.”
 
-Pub. L. 117–351, § 1, Jan. 5, 2023, 136 Stat. 6265, provided that: “This Act [amending section 2441 of this title] may be cited as the ‘Justice for Victims of War Crimes Act’.”
+Pub. L. 117–351, § 1, Jan. 5, 2023, 136 Stat. 6265, provided that: “This Act [amending section 2441 of this title] may be cited as the ‘Justice for Victims of War Crimes Act’.”
 
 **Short Title of 2022 Amendment**
 
-Pub. L. 117–328, div. O, title VIII, § 801(a), Dec. 29, 2022, 136 Stat. 5232, provided that: “This section [enacting provisions set out as notes under section 3551 of this title] may be cited as the ‘United States Parole Commission Additional Extension Act of 2022’.”
+Pub. L. 117–328, div. O, title VIII, § 801(a), Dec. 29, 2022, 136 Stat. 5232, provided that: “This section [enacting provisions set out as notes under section 3551 of this title] may be cited as the ‘United States Parole Commission Additional Extension Act of 2022’.”
 
-Pub. L. 117–272, § 1, Dec. 27, 2022, 136 Stat. 4181, provided that: “This Act [amending section 879 of this title] may be cited as the ‘21st Century President Act’.”
+Pub. L. 117–272, § 1, Dec. 27, 2022, 136 Stat. 4181, provided that: “This Act [amending section 879 of this title] may be cited as the ‘21st Century President Act’.”
 
-Pub. L. 117–264, div. B, title I, § 103(a), Dec. 23, 2022, 136 Stat. 4168, provided that: This section [enacting provisions set out as notes under section 3551 of this title] may be cited as the ‘United States Parole Commission Further Additional Extension Act of 2022’.”
+Pub. L. 117–264, div. B, title I, § 103(a), Dec. 23, 2022, 136 Stat. 4168, provided that: This section [enacting provisions set out as notes under section 3551 of this title] may be cited as the ‘United States Parole Commission Further Additional Extension Act of 2022’.”
 
-Pub. L. 117–229, div. B, title I, § 103(a), Dec. 16, 2022, 136 Stat. 2309, which provided that section 103 of Pub. L. 117–229 could be cited as the “United States Parole Commission Further Extension Act of 2022”, was rendered ineffective by Pub. L. 117–264, div. B, title I, § 103(d), Dec. 23, 2022, 136 Stat. 4168, set out as a note under section 3551 of this title.
+Pub. L. 117–229, div. B, title I, § 103(a), Dec. 16, 2022, 136 Stat. 2309, which provided that section 103 of Pub. L. 117–229 could be cited as the “United States Parole Commission Further Extension Act of 2022”, was rendered ineffective by Pub. L. 117–264, div. B, title I, § 103(d), Dec. 23, 2022, 136 Stat. 4168, set out as a note under section 3551 of this title.
 
-Pub. L. 117–180, div. C, title I, § 103(a), Sept. 30, 2022, 136 Stat. 2133, provided that: “This section [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Extension Act of 2022’.”
+Pub. L. 117–180, div. C, title I, § 103(a), Sept. 30, 2022, 136 Stat. 2133, provided that: “This section [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Extension Act of 2022’.”
 
-Pub. L. 117–176, § 1, Sept. 16, 2022, 136 Stat. 2108, provided that: “This Act [amending section 2255 of this title and enacting provisions set out as a note under section 2255 of this title] may be cited as the ‘Eliminating Limits to Justice for Child Sex Abuse Victims Act of 2022’.”
+Pub. L. 117–176, § 1, Sept. 16, 2022, 136 Stat. 2108, provided that: “This Act [amending section 2255 of this title and enacting provisions set out as a note under section 2255 of this title] may be cited as the ‘Eliminating Limits to Justice for Child Sex Abuse Victims Act of 2022’.”
 
-Pub. L. 117–159, § 3(a), June 25, 2022, 136 Stat. 1313, provided that: “This Act [see Tables for classification] may be cited as the ‘Bipartisan Safer Communities Act’.”
+Pub. L. 117–159, § 3(a), June 25, 2022, 136 Stat. 1313, provided that: “This Act [see Tables for classification] may be cited as the ‘Bipartisan Safer Communities Act’.”
 
-Pub. L. 117–107, § 1, Mar. 29, 2022, 136 Stat. 1125, provided that: “This Act [amending section 249 of this title] may be cited as the ‘Emmett Till Antilynching Act’.”
+Pub. L. 117–107, § 1, Mar. 29, 2022, 136 Stat. 1125, provided that: “This Act [amending section 249 of this title] may be cited as the ‘Emmett Till Antilynching Act’.”
 
-Pub. L. 117–103, div. W, title X, § 1001(a), Mar. 15, 2022, 136 Stat. 912, provided that: “This section [enacting section 4051 of this title, amending section 3621 of this title, and enacting provisions set out as a note under section 3621 of this title] may be cited as the ‘Ramona Brant Improvement of Conditions for Women in Federal Custody Act’.”
+Pub. L. 117–103, div. W, title X, § 1001(a), Mar. 15, 2022, 136 Stat. 912, provided that: “This section [enacting section 4051 of this title, amending section 3621 of this title, and enacting provisions set out as a note under section 3621 of this title] may be cited as the ‘Ramona Brant Improvement of Conditions for Women in Federal Custody Act’.”
 
-Pub. L. 117–103, div. W, title XI, § 1101(a), Mar. 15, 2022, 136 Stat. 919, provided that: “This section [enacting section 925B of this title and amending section 921 of this title] may be cited as the ‘NICS Denial Notification Act of 2022’.”
+Pub. L. 117–103, div. W, title XI, § 1101(a), Mar. 15, 2022, 136 Stat. 919, provided that: “This section [enacting section 925B of this title and amending section 921 of this title] may be cited as the ‘NICS Denial Notification Act of 2022’.”
 
-Pub. L. 117–103, div. W, title XII, § 1201, Mar. 15, 2022, 136 Stat. 923, provided that: “This title [enacting section 250 of this title and section 60106 of Title 34, Crime Control and Law Enforcement, amending sections 2242 to 2244 and 2246 of this title, and enacting provisions set out as notes under section 60106 of Title 34] may be cited as the ‘Closing the Law Enforcement Consent Loophole Act of 2022’.”
+Pub. L. 117–103, div. W, title XII, § 1201, Mar. 15, 2022, 136 Stat. 923, provided that: “This title [enacting section 250 of this title and section 60106 of Title 34, Crime Control and Law Enforcement, amending sections 2242 to 2244 and 2246 of this title, and enacting provisions set out as notes under section 60106 of Title 34] may be cited as the ‘Closing the Law Enforcement Consent Loophole Act of 2022’.”
 
 **Short Title of 2021 Amendment**
 
-Pub. L. 117–59, § 1, Nov. 18, 2021, 135 Stat. 1468, provided that: “This Act [amending sections 111, 115, and 1114 of this title and enacting provisions set out as a note under section 1114 of this title] may be cited as the ‘Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act’.”
+Pub. L. 117–59, § 1, Nov. 18, 2021, 135 Stat. 1468, provided that: “This Act [amending sections 111, 115, and 1114 of this title and enacting provisions set out as a note under section 1114 of this title] may be cited as the ‘Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act’.”
 
-Pub. L. 116–309, § 1, Jan. 5, 2021, 134 Stat. 4922, provided that: “This Act [enacting section 41312 of Title 34, Crime Control and Law Enforcement, amending section 116 of this title, and enacting provisions set out as notes under section 116 of this title] may be cited as the ‘Strengthening the Opposition to Female Genital Mutilation Act of 2020’ or the ‘STOP FGM Act of 2020’.”
+Pub. L. 116–309, § 1, Jan. 5, 2021, 134 Stat. 4922, provided that: “This Act [enacting section 41312 of Title 34, Crime Control and Law Enforcement, amending section 116 of this title, and enacting provisions set out as notes under section 116 of this title] may be cited as the ‘Strengthening the Opposition to Female Genital Mutilation Act of 2020’ or the ‘STOP FGM Act of 2020’.”
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–260, div. O, title X, § 1001, Dec. 27, 2020, 134 Stat. 2155, provided that: “This title [repealing chapter 89 and sections 46, 511A, 707, 708, 711, 711a, 715, and 1921 of this title] may be cited as the ‘Clean Up the Code Act of 2019’.”
+Pub. L. 116–260, div. O, title X, § 1001, Dec. 27, 2020, 134 Stat. 2155, provided that: “This title [repealing chapter 89 and sections 46, 511A, 707, 708, 711, 711a, 715, and 1921 of this title] may be cited as the ‘Clean Up the Code Act of 2019’.”
 
-Pub. L. 116–249, § 1, Dec. 22, 2020, 134 Stat. 1126, provided that: “This Act [enacting section 2261B of this title and amending section 2261A of this title] may be cited as the ‘Combat Online Predators Act’.”
+Pub. L. 116–249, § 1, Dec. 22, 2020, 134 Stat. 1126, provided that: “This Act [enacting section 2261B of this title and amending section 2261A of this title] may be cited as the ‘Combat Online Predators Act’.”
 
-Pub. L. 116–179, § 1, Oct. 20, 2020, 134 Stat. 855, provided that: “This Act [amending section 1030 of this title] may be cited as the ‘Defending the Integrity of Voting Systems Act’.”
+Pub. L. 116–179, § 1, Oct. 20, 2020, 134 Stat. 855, provided that: “This Act [amending section 1030 of this title] may be cited as the ‘Defending the Integrity of Voting Systems Act’.”
 
-Pub. L. 116–159, div. D, title II, § 4201, Oct. 1, 2020, 134 Stat. 741, provided that: “This title [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Extension Act of 2020’.”
+Pub. L. 116–159, div. D, title II, § 4201, Oct. 1, 2020, 134 Stat. 741, provided that: “This title [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Extension Act of 2020’.”
 
 **Short Title of 2019 Amendment**
 
-Pub. L. 116–72, § 1, Nov. 25, 2019, 133 Stat. 1151, provided that: “This Act [amending section 48 of this title] may be cited as the ‘Preventing Animal Cruelty and Torture Act’ or the ‘PACT Act’.”
+Pub. L. 116–72, § 1, Nov. 25, 2019, 133 Stat. 1151, provided that: “This Act [amending section 48 of this title] may be cited as the ‘Preventing Animal Cruelty and Torture Act’ or the ‘PACT Act’.”
 
-Pub. L. 116–31, § 1, July 25, 2019, 133 Stat. 1034, provided that: “This Act [amending section 175b of this title] may be cited as the ‘Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019’.”
+Pub. L. 116–31, § 1, July 25, 2019, 133 Stat. 1034, provided that: “This Act [amending section 175b of this title] may be cited as the ‘Effective Prosecution of Possession of Biological Toxins and Agents Act of 2019’.”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–395, § 1, Dec. 21, 2018, 132 Stat. 5287, provided that: “This Act [amending sections 2258A to 2258E of this title] may be cited as the ‘CyberTipline Modernization Act of 2018’.”
+Pub. L. 115–395, § 1, Dec. 21, 2018, 132 Stat. 5287, provided that: “This Act [amending sections 2258A to 2258E of this title] may be cited as the ‘CyberTipline Modernization Act of 2018’.”
 
-Pub. L. 115–392, § 1(a), Dec. 21, 2018, 132 Stat. 5250, provided that: “This Act [enacting section 2429 of this title, section 645 of Title 6, Domestic Security, and section 20709a of Title 34, Crime Control and Law Enforcement, amending sections 521, 1583, 1587, 1591, 2423, 2426, 2516, and 3014 of this title, sections 187 and 473 of Title 6, sections 7103, 7105, and 7110 of Title 22, Foreign Relations and Intercourse, section 524 of Title 28, Judiciary and Judicial Procedure, section 9705 of Title 31, Money and Finance, and sections 20304, 20708, 20711, and 41309 of Title 34, and enacting provisions set out as notes under sections 20701 and 20704 of Title 34] may be cited as the ‘Abolish Human Trafficking Act of 2017’.”
+Pub. L. 115–392, § 1(a), Dec. 21, 2018, 132 Stat. 5250, provided that: “This Act [enacting section 2429 of this title, section 645 of Title 6, Domestic Security, and section 20709a of Title 34, Crime Control and Law Enforcement, amending sections 521, 1583, 1587, 1591, 2423, 2426, 2516, and 3014 of this title, sections 187 and 473 of Title 6, sections 7103, 7105, and 7110 of Title 22, Foreign Relations and Intercourse, section 524 of Title 28, Judiciary and Judicial Procedure, section 9705 of Title 31, Money and Finance, and sections 20304, 20708, 20711, and 41309 of Title 34, and enacting provisions set out as notes under sections 20701 and 20704 of Title 34] may be cited as the ‘Abolish Human Trafficking Act of 2017’.”
 
-Pub. L. 115–391, § 1(a), Dec. 21, 2018, 132 Stat. 5194, provided that: “This Act [see Tables for classification] may be cited as the ‘First Step Act of 2018’.”
+Pub. L. 115–391, § 1(a), Dec. 21, 2018, 132 Stat. 5194, provided that: “This Act [see Tables for classification] may be cited as the ‘First Step Act of 2018’.”
 
-Pub. L. 115–391, title II, § 201, Dec. 21, 2018, 132 Stat. 5216, provided that: “This title [enacting section 4050 of this title] may be cited as the ‘Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2018’.”
+Pub. L. 115–391, title II, § 201, Dec. 21, 2018, 132 Stat. 5216, provided that: “This title [enacting section 4050 of this title] may be cited as the ‘Lieutenant Osvaldo Albarati Correctional Officer Self-Protection Act of 2018’.”
 
-Pub. L. 115–299, § 1, Dec. 7, 2018, 132 Stat. 4383, provided that: “This Act [enacting sections 2259A and 2259B of this title, amending sections 1593, 2252A, 2256, 2259, 3509, and 3613 of this title and section 20101 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as a note under section 2259 of this title] may be cited as the ‘Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018’.”
+Pub. L. 115–299, § 1, Dec. 7, 2018, 132 Stat. 4383, provided that: “This Act [enacting sections 2259A and 2259B of this title, amending sections 1593, 2252A, 2256, 2259, 3509, and 3613 of this title and section 20101 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as a note under section 2259 of this title] may be cited as the ‘Amy, Vicky, and Andy Child Pornography Victim Assistance Act of 2018’.”
 
-Pub. L. 115–271, title VIII, § 8121, Oct. 24, 2018, 132 Stat. 4108, provided that: “This subtitle [subtitle J (§§ 8121, 8122) of title VIII of Pub. L. 115–271, enacting section 220 of this title] may be cited as the ‘Eliminating Kickbacks in Recovery Act of 2018’.”
+Pub. L. 115–271, title VIII, § 8121, Oct. 24, 2018, 132 Stat. 4108, provided that: “This subtitle [subtitle J (§§ 8121, 8122) of title VIII of Pub. L. 115–271, enacting section 220 of this title] may be cited as the ‘Eliminating Kickbacks in Recovery Act of 2018’.”
 
-Pub. L. 115–253, § 1, Oct. 3, 2018, 132 Stat. 3183, provided that: “This Act [amending sections 2331, 2333 and 2334 of this title and enacting provisions set out as notes under sections 2331, 2332 and 2334 of this title] may be cited as the ‘Anti-Terrorism Clarification Act of 2018’.”
+Pub. L. 115–253, § 1, Oct. 3, 2018, 132 Stat. 3183, provided that: “This Act [amending sections 2331, 2333 and 2334 of this title and enacting provisions set out as notes under sections 2331, 2332 and 2334 of this title] may be cited as the ‘Anti-Terrorism Clarification Act of 2018’.”
 
-Pub. L. 115–249, § 1, Sept. 28, 2018, 132 Stat. 3162, provided that: “This Act [amending section 247 of this title] may be cited as the ‘Protecting Religiously Affiliated Institutions Act of 2018’.”
+Pub. L. 115–249, § 1, Sept. 28, 2018, 132 Stat. 3162, provided that: “This Act [amending section 247 of this title] may be cited as the ‘Protecting Religiously Affiliated Institutions Act of 2018’.”
 
-Pub. L. 115–164, § 1, Apr. 11, 2018, 132 Stat. 1253, provided that: “This Act [enacting section 2421A of this title, amending sections 1591 and 1595 of this title and section 230 of Title 47, Telecommunications, and enacting provisions set out as notes under section 230 of Title 47] may be cited as the ‘Allow States and Victims to Fight Online Sex Trafficking Act of 2017’.”
+Pub. L. 115–164, § 1, Apr. 11, 2018, 132 Stat. 1253, provided that: “This Act [enacting section 2421A of this title, amending sections 1591 and 1595 of this title and section 230 of Title 47, Telecommunications, and enacting provisions set out as notes under section 230 of Title 47] may be cited as the ‘Allow States and Victims to Fight Online Sex Trafficking Act of 2017’.”
 
-Pub. L. 115–141, div. V, § 101, Mar. 23, 2018, 132 Stat. 1213, provided that: “This division [enacting sections 2523 and 2713 of this title, amending sections 2511, 2520, 2702, 2703, 2707, 3121, and 3124 of this title, and enacting provisions set out as notes under sections 2520, 2523, and 2703 of this title] may be cited as the ‘Clarifying Lawful Overseas Use of Data Act’ or the ‘CLOUD Act’.”
+Pub. L. 115–141, div. V, § 101, Mar. 23, 2018, 132 Stat. 1213, provided that: “This division [enacting sections 2523 and 2713 of this title, amending sections 2511, 2520, 2702, 2703, 2707, 3121, and 3124 of this title, and enacting provisions set out as notes under sections 2520, 2523, and 2703 of this title] may be cited as the ‘Clarifying Lawful Overseas Use of Data Act’ or the ‘CLOUD Act’.”
 
 **Short Title of 2016 Amendment**
 
-Pub. L. 114–316, § 1, Dec. 16, 2016, 130 Stat. 1593, provided that: “This Act [enacting section 3273 of this title and provisions set out as a note under section 3273 of this title] may be cited as the ‘Promoting Travel, Commerce, and National Security Act of 2016’.”
+Pub. L. 114–316, § 1, Dec. 16, 2016, 130 Stat. 1593, provided that: “This Act [enacting section 3273 of this title and provisions set out as a note under section 3273 of this title] may be cited as the ‘Promoting Travel, Commerce, and National Security Act of 2016’.”
 
-Pub. L. 114–236, § 1, Oct. 7, 2016, 130 Stat. 966, provided that: “This Act [enacting chapter 238 of this title and sections 10603f and 14043g–1 of Title 42, The Public Health and Welfare, and amending section 10601 of Title 42] may be cited as the ‘Survivors’ Bill of Rights Act of 2016’.”
+Pub. L. 114–236, § 1, Oct. 7, 2016, 130 Stat. 966, provided that: “This Act [enacting chapter 238 of this title and sections 10603f and 14043g–1 of Title 42, The Public Health and Welfare, and amending section 10601 of Title 42] may be cited as the ‘Survivors’ Bill of Rights Act of 2016’.”
 
-Pub. L. 114–222, § 1, Sept. 28, 2016, 130 Stat. 852, provided that: “This Act [enacting section 1605B of Title 28, Judiciary and Judicial Procedure, amending section 2333 of this title and section 1605 of Title 28, and enacting provisions set out as notes under section 2333 of this title and section 1605B of Title 28] may be cited as the ‘Justice Against Sponsors of Terrorism Act’.”
+Pub. L. 114–222, § 1, Sept. 28, 2016, 130 Stat. 852, provided that: “This Act [enacting section 1605B of Title 28, Judiciary and Judicial Procedure, amending section 2333 of this title and section 1605 of Title 28, and enacting provisions set out as notes under section 2333 of this title and section 1605B of Title 28] may be cited as the ‘Justice Against Sponsors of Terrorism Act’.”
 
-Pub. L. 114–154, § 1, May 16, 2016, 130 Stat. 387, provided that: “This Act [amending sections 2318 and 2320 of this title and section 959 of Title 21, Food and Drugs] may be cited as the ‘Transnational Drug Trafficking Act of 2015’.”
+Pub. L. 114–154, § 1, May 16, 2016, 130 Stat. 387, provided that: “This Act [amending sections 2318 and 2320 of this title and section 959 of Title 21, Food and Drugs] may be cited as the ‘Transnational Drug Trafficking Act of 2015’.”
 
-Pub. L. 114–153, § 1, May 11, 2016, 130 Stat. 376, provided that: “This Act [amending sections 1832, 1833, 1835, 1836, 1838, 1839, and 1961 of this title and enacting provisions set out as notes under sections 1832 and 1833 of this title and section 620 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Defend Trade Secrets Act of 2016’.”
+Pub. L. 114–153, § 1, May 11, 2016, 130 Stat. 376, provided that: “This Act [amending sections 1832, 1833, 1835, 1836, 1838, 1839, and 1961 of this title and enacting provisions set out as notes under sections 1832 and 1833 of this title and section 620 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Defend Trade Secrets Act of 2016’.”
 
-Pub. L. 114–133, § 1, Mar. 9, 2016, 130 Stat. 296, provided that: “This Act [enacting section 4049 of this title] may be cited as the ‘Eric Williams Correctional Officer Protection Act of 2015’.”
+Pub. L. 114–133, § 1, Mar. 9, 2016, 130 Stat. 296, provided that: “This Act [enacting section 4049 of this title] may be cited as the ‘Eric Williams Correctional Officer Protection Act of 2015’.”
 
 **Short Title of 2015 Amendment**
 
-Pub. L. 114–22, § 1(a), May 29, 2015, 129 Stat. 227, provided that: “This Act [see Tables for classification] may be cited as the ‘Justice for Victims of Trafficking Act of 2015’.”
+Pub. L. 114–22, § 1(a), May 29, 2015, 129 Stat. 227, provided that: “This Act [see Tables for classification] may be cited as the ‘Justice for Victims of Trafficking Act of 2015’.”
 
-Pub. L. 114–22, title I, § 118(a), May 29, 2015, 129 Stat. 247, provided that: “This section [amending section 1591 of this title] may be cited as the ‘Stop Advertising Victims of Exploitation Act of 2015’ or the ‘SAVE Act of 2015’.”
+Pub. L. 114–22, title I, § 118(a), May 29, 2015, 129 Stat. 247, provided that: “This section [amending section 1591 of this title] may be cited as the ‘Stop Advertising Victims of Exploitation Act of 2015’ or the ‘SAVE Act of 2015’.”
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–104, § 1, May 20, 2014, 128 Stat. 1156, provided that: “This Act [amending section 117 of this title] may be cited as the ‘Kilah Davenport Child Protection Act of 2013’.”
+Pub. L. 113–104, § 1, May 20, 2014, 128 Stat. 1156, provided that: “This Act [amending section 117 of this title] may be cited as the ‘Kilah Davenport Child Protection Act of 2013’.”
 
 **Short Title of 2013 Amendment**
 
-Pub. L. 113–47, § 1, Oct. 31, 2013, 127 Stat. 572, provided that: “This Act [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Extension Act of 2013’.”
+Pub. L. 113–47, § 1, Oct. 31, 2013, 127 Stat. 572, provided that: “This Act [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Extension Act of 2013’.”
 
-Pub. L. 113–12, § 1, June 3, 2013, 127 Stat. 448, provided that: “This Act [amending section 704 of this title] may be cited as the ‘Stolen Valor Act of 2013’.”
+Pub. L. 113–12, § 1, June 3, 2013, 127 Stat. 448, provided that: “This Act [amending section 704 of this title] may be cited as the ‘Stolen Valor Act of 2013’.”
 
-Pub. L. 112–269, § 1, Jan. 14, 2013, 126 Stat. 2442, provided that: “This Act [amending section 1831 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Foreign and Economic Espionage Penalty Enhancement Act of 2012’.”
+Pub. L. 112–269, § 1, Jan. 14, 2013, 126 Stat. 2442, provided that: “This Act [amending section 1831 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Foreign and Economic Espionage Penalty Enhancement Act of 2012’.”
 
-Pub. L. 112–258, § 1, Jan. 10, 2013, 126 Stat. 2414, provided that: “This Act [amending section 2710 of this title] may be cited as the ‘Video Privacy Protection Act Amendments Act of 2012’.”
+Pub. L. 112–258, § 1, Jan. 10, 2013, 126 Stat. 2414, provided that: “This Act [amending section 2710 of this title] may be cited as the ‘Video Privacy Protection Act Amendments Act of 2012’.”
 
-Pub. L. 112–257, § 1, Jan. 10, 2013, 126 Stat. 2413, provided that: “This Act [amending section 3056 of this title] may be cited as the ‘Former Presidents Protection Act of 2012’.”
+Pub. L. 112–257, § 1, Jan. 10, 2013, 126 Stat. 2413, provided that: “This Act [amending section 3056 of this title] may be cited as the ‘Former Presidents Protection Act of 2012’.”
 
 **Short Title of 2012 Amendment**
 
-Pub. L. 112–236, § 1, Dec. 28, 2012, 126 Stat. 1627, provided that: “This Act [amending section 1832 of this title] may be cited as the ‘Theft of Trade Secrets Clarification Act of 2012’.”
+Pub. L. 112–236, § 1, Dec. 28, 2012, 126 Stat. 1627, provided that: “This Act [amending section 1832 of this title] may be cited as the ‘Theft of Trade Secrets Clarification Act of 2012’.”
 
-Pub. L. 112–206, § 1, Dec. 7, 2012, 126 Stat. 1490, provided that: “This Act [amending sections 1514, 2252, 2252A, and 3486 of this title, section 566 of Title 28, Judiciary and Judicial Procedure, and sections 17611, 17612, 17615, and 17617 of Title 42, The Public Health and Welfare, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28] may be cited as the ‘Child Protection Act of 2012’.”
+Pub. L. 112–206, § 1, Dec. 7, 2012, 126 Stat. 1490, provided that: “This Act [amending sections 1514, 2252, 2252A, and 3486 of this title, section 566 of Title 28, Judiciary and Judicial Procedure, and sections 17611, 17612, 17615, and 17617 of Title 42, The Public Health and Welfare, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28] may be cited as the ‘Child Protection Act of 2012’.”
 
-Pub. L. 112–186, § 1, Oct. 5, 2012, 126 Stat. 1427, provided that: “This Act [enacting section 670 of this title, amending sections 659, 981, 1952, 1957, 2117, 2314, 2315, 2516, and 3663A of this title, and enacting provisions set out as a note under section 670 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Strengthening and Focusing Enforcement to Deter Organized Stealing and Enhance Safety Act of 2012’ or the ‘SAFE DOSES Act’.”
+Pub. L. 112–186, § 1, Oct. 5, 2012, 126 Stat. 1427, provided that: “This Act [enacting section 670 of this title, amending sections 659, 981, 1952, 1957, 2117, 2314, 2315, 2516, and 3663A of this title, and enacting provisions set out as a note under section 670 of this title and listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Strengthening and Focusing Enforcement to Deter Organized Stealing and Enhance Safety Act of 2012’ or the ‘SAFE DOSES Act’.”
 
-Pub. L. 112–127, § 1, June 5, 2012, 126 Stat. 370, provided that: “This Act [enacting section 257 of Title 6, Domestic Security, amending sections 555, 982, 1956, and 2516 of this title, and enacting provisions set out as a note under section 555 of this title] may be cited as the ‘Border Tunnel Prevention Act of 2012’.”
+Pub. L. 112–127, § 1, June 5, 2012, 126 Stat. 370, provided that: “This Act [enacting section 257 of Title 6, Domestic Security, amending sections 555, 982, 1956, and 2516 of this title, and enacting provisions set out as a note under section 555 of this title] may be cited as the ‘Border Tunnel Prevention Act of 2012’.”
 
-Pub. L. 112–98, § 1, Mar. 8, 2012, 126 Stat. 263, provided that: “This Act [amending section 1752 of this title] may be cited as the ‘Federal Restricted Buildings and Grounds Improvement Act of 2011’.”
+Pub. L. 112–98, § 1, Mar. 8, 2012, 126 Stat. 263, provided that: “This Act [amending section 1752 of this title] may be cited as the ‘Federal Restricted Buildings and Grounds Improvement Act of 2011’.”
 
 **Short Title of 2011 Amendment**
 
-Pub. L. 112–44, § 1, Oct. 21, 2011, 125 Stat. 532, provided that: “This Act [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Extension Act of 2011’.”
+Pub. L. 112–44, § 1, Oct. 21, 2011, 125 Stat. 532, provided that: “This Act [enacting provisions set out as a note under section 3551 of this title] may be cited as the ‘United States Parole Commission Extension Act of 2011’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–307, § 1, Dec. 14, 2010, 124 Stat. 3282, provided that: “This Act [amending section 42 of this title] may be cited as the ‘Asian Carp Prevention and Control Act’.”
+Pub. L. 111–307, § 1, Dec. 14, 2010, 124 Stat. 3282, provided that: “This Act [amending section 42 of this title] may be cited as the ‘Asian Carp Prevention and Control Act’.”
 
-Pub. L. 111–294, § 1, Dec. 9, 2010, 124 Stat. 3177, provided that: “This Act [amending section 48 of this title and enacting provisions set out as notes under section 48 of this title] may be cited as the ‘Animal Crush Video Prohibition Act of 2010’.”
+Pub. L. 111–294, § 1, Dec. 9, 2010, 124 Stat. 3177, provided that: “This Act [amending section 48 of this title and enacting provisions set out as notes under section 48 of this title] may be cited as the ‘Animal Crush Video Prohibition Act of 2010’.”
 
-Pub. L. 111–272, § 1, Oct. 12, 2010, 124 Stat. 2855, provided that: “This Act [amending sections 926B and 926C of this title] may be cited as the ‘Law Enforcement Officers Safety Act Improvements Act of 2010’.”
+Pub. L. 111–272, § 1, Oct. 12, 2010, 124 Stat. 2855, provided that: “This Act [amending sections 926B and 926C of this title] may be cited as the ‘Law Enforcement Officers Safety Act Improvements Act of 2010’.”
 
-Pub. L. 111–225, § 1, Aug. 10, 2010, 124 Stat. 2387, provided that: “This Act [amending section 1791 of this title] may be cited as the ‘Cell Phone Contraband Act of 2010’.”
+Pub. L. 111–225, § 1, Aug. 10, 2010, 124 Stat. 2387, provided that: “This Act [amending section 1791 of this title] may be cited as the ‘Cell Phone Contraband Act of 2010’.”
 
-Pub. L. 111–174, § 1, May 27, 2010, 124 Stat. 1216, provided that: “This Act [enacting section 114 of Title 28, Judiciary and Judicial Procedure, amending sections 2519, 3006A, 3154, and 3553 of this title and section 631 of Title 28, and repealing section 114 of Title 28] may be cited as the ‘Federal Judiciary Administrative Improvements Act of 2010’.”
+Pub. L. 111–174, § 1, May 27, 2010, 124 Stat. 1216, provided that: “This Act [enacting section 114 of Title 28, Judiciary and Judicial Procedure, amending sections 2519, 3006A, 3154, and 3553 of this title and section 631 of Title 28, and repealing section 114 of Title 28] may be cited as the ‘Federal Judiciary Administrative Improvements Act of 2010’.”
 
 **Short Title of 2009 Amendment**
 
-Pub. L. 111–84, div. E, § 4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L. 111–84, was editorially reclassified and is set out as a note under section 10101 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 111–84, div. E, § 4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L. 111–84, was editorially reclassified and is set out as a note under section 10101 of Title 34, Crime Control and Law Enforcement.
 
-Pub. L. 111–79, § 1, Oct. 19, 2009, 123 Stat. 2086, provided that: “This Act [enacting section 3512 of this title and amending sections 2703, 2711, and 3127 of this title] may be cited as the ‘Foreign Evidence Request Efficiency Act of 2009’.”
+Pub. L. 111–79, § 1, Oct. 19, 2009, 123 Stat. 2086, provided that: “This Act [enacting section 3512 of this title and amending sections 2703, 2711, and 3127 of this title] may be cited as the ‘Foreign Evidence Request Efficiency Act of 2009’.”
 
-Pub. L. 111–21, § 1, May 20, 2009, 123 Stat. 1617, provided that: “This Act [enacting section 27 of this title, amending sections 20, 1014, 1031, 1348, 1956, and 1957 of this title and sections 3729 to 3733 of Title 31, Money and Finance, and enacting provisions set out as a note under section 3729 of Title 31] may be cited as the ‘Fraud Enforcement and Recovery Act of 2009’ or ‘FERA’.”
+Pub. L. 111–21, § 1, May 20, 2009, 123 Stat. 1617, provided that: “This Act [enacting section 27 of this title, amending sections 20, 1014, 1031, 1348, 1956, and 1957 of this title and sections 3729 to 3733 of Title 31, Money and Finance, and enacting provisions set out as a note under section 3729 of Title 31] may be cited as the ‘Fraud Enforcement and Recovery Act of 2009’ or ‘FERA’.”
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–407, § 1, Oct. 13, 2008, 122 Stat. 4296, provided that: “This Act [enacting section 2285 of this title and section 70508 of Title 46, Shipping, amending sections 70501, 70502, 70504, and 70505 of Title 46, and enacting provisions set out as a note under section 2285 of this title and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Drug Trafficking Vessel Interdiction Act of 2008’.”
+Pub. L. 110–407, § 1, Oct. 13, 2008, 122 Stat. 4296, provided that: “This Act [enacting section 2285 of this title and section 70508 of Title 46, Shipping, amending sections 70501, 70502, 70504, and 70505 of Title 46, and enacting provisions set out as a note under section 2285 of this title and provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Drug Trafficking Vessel Interdiction Act of 2008’.”
 
-Pub. L. 110–358, title I, § 101, Oct. 8, 2008, 122 Stat. 4001, provided that: “This title [amending sections 2251, 2251A, 2252 and 2252A of this title and enacting provisions set out as a note under section 2251 of this title] may be cited as the ‘Effective Child Pornography Prosecution Act of 2007’.”
+Pub. L. 110–358, title I, § 101, Oct. 8, 2008, 122 Stat. 4001, provided that: “This title [amending sections 2251, 2251A, 2252 and 2252A of this title and enacting provisions set out as a note under section 2251 of this title] may be cited as the ‘Effective Child Pornography Prosecution Act of 2007’.”
 
-Pub. L. 110–358, title II, § 201, Oct. 8, 2008, 122 Stat. 4003, provided that: “This title [amending sections 1956, 2252 and 2252A of this title] may be cited as the ‘Enhancing the Effective Prosecution of Child Pornography Act of 2007’.”
+Pub. L. 110–358, title II, § 201, Oct. 8, 2008, 122 Stat. 4003, provided that: “This title [amending sections 1956, 2252 and 2252A of this title] may be cited as the ‘Enhancing the Effective Prosecution of Child Pornography Act of 2007’.”
 
-Pub. L. 110–340, § 1, Oct. 3, 2008, 122 Stat. 3735, provided that: “This Act [enacting sections 2442 and 3300 of this title, amending sections 1182 and 1227 of Title 8, Aliens and Nationality, and enacting provisions set out as a note under section 1158 of Title 8] may be cited as the ‘Child Soldiers Accountability Act of 2008’.”
+Pub. L. 110–340, § 1, Oct. 3, 2008, 122 Stat. 3735, provided that: “This Act [enacting sections 2442 and 3300 of this title, amending sections 1182 and 1227 of Title 8, Aliens and Nationality, and enacting provisions set out as a note under section 1158 of Title 8] may be cited as the ‘Child Soldiers Accountability Act of 2008’.”
 
-Pub. L. 110–326, title I, § 101, Sept. 26, 2008, 122 Stat. 3560, provided that: “This title [amending section 3056 of this title and enacting provisions set out as a note under section 3056 of this title] may be cited as the ‘Former Vice President Protection Act of 2008’.”
+Pub. L. 110–326, title I, § 101, Sept. 26, 2008, 122 Stat. 3560, provided that: “This title [amending section 3056 of this title and enacting provisions set out as a note under section 3056 of this title] may be cited as the ‘Former Vice President Protection Act of 2008’.”
 
-Pub. L. 110–326, title II, § 201, Sept. 26, 2008, 122 Stat. 3560, provided that: “This title [amending sections 1030, 2332b, and 3663 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Identity Theft Enforcement and Restitution Act of 2008’.”
+Pub. L. 110–326, title II, § 201, Sept. 26, 2008, 122 Stat. 3560, provided that: “This title [amending sections 1030, 2332b, and 3663 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Identity Theft Enforcement and Restitution Act of 2008’.”
 
-Pub. L. 110–179, § 1, Jan. 7, 2008, 121 Stat. 2556, provided that: “This Act [enacting section 1040 of this title, amending sections 1341 and 1343 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007’.”
+Pub. L. 110–179, § 1, Jan. 7, 2008, 121 Stat. 2556, provided that: “This Act [enacting section 1040 of this title, amending sections 1341 and 1343 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Emergency and Disaster Assistance Fraud Penalty Enhancement Act of 2007’.”
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–151, § 1, Dec. 21, 2007, 121 Stat. 1821, provided that: “This Act [amending section 1091 of this title] may be cited as the ‘Genocide Accountability Act of 2007’.”
+Pub. L. 110–151, § 1, Dec. 21, 2007, 121 Stat. 1821, provided that: “This Act [amending section 1091 of this title] may be cited as the ‘Genocide Accountability Act of 2007’.”
 
-Pub. L. 110–22, § 1, May 3, 2007, 121 Stat. 88, provided that: “This Act [enacting section 49 of this title and amending section 2156 of Title 7, Agriculture] may be cited as the ‘Animal Fighting Prohibition Enforcement Act of 2007’.”
+Pub. L. 110–22, § 1, May 3, 2007, 121 Stat. 88, provided that: “This Act [enacting section 49 of this title and amending section 2156 of Title 7, Agriculture] may be cited as the ‘Animal Fighting Prohibition Enforcement Act of 2007’.”
 
-Pub. L. 109–481, § 1, Jan. 12, 2007, 120 Stat. 3673, provided that: “This Act [enacting section 706a of this title] may be cited as the ‘Geneva Distinctive Emblems Protection Act of 2006’.”
+Pub. L. 109–481, § 1, Jan. 12, 2007, 120 Stat. 3673, provided that: “This Act [enacting section 706a of this title] may be cited as the ‘Geneva Distinctive Emblems Protection Act of 2006’.”
 
-Pub. L. 109–476, § 1, Jan. 12, 2007, 120 Stat. 3568, provided that: “This Act [enacting section 1039 of this title and provisions set out as a note under section 1039 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Telephone Records and Privacy Protection Act of 2006’.”
+Pub. L. 109–476, § 1, Jan. 12, 2007, 120 Stat. 3568, provided that: “This Act [enacting section 1039 of this title and provisions set out as a note under section 1039 of this title and amending provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Telephone Records and Privacy Protection Act of 2006’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–437, § 1, Dec. 20, 2006, 120 Stat. 3266, provided that: “This Act [amending section 704 of this title and enacting provisions set out as a note under section 704 of this title] may be cited as the ‘Stolen Valor Act of 2005’.”
+Pub. L. 109–437, § 1, Dec. 20, 2006, 120 Stat. 3266, provided that: “This Act [amending section 704 of this title and enacting provisions set out as a note under section 704 of this title] may be cited as the ‘Stolen Valor Act of 2005’.”
 
-Pub. L. 109–374, § 1, Nov. 27, 2006, 120 Stat. 2652, provided that: “This Act [amending section 43 of this title] may be cited as the ‘Animal Enterprise Terrorism Act’.”
+Pub. L. 109–374, § 1, Nov. 27, 2006, 120 Stat. 2652, provided that: “This Act [amending section 43 of this title] may be cited as the ‘Animal Enterprise Terrorism Act’.”
 
-Pub. L. 109–181, § 1(a)(1), Mar. 16, 2006, 120 Stat. 285, provided that: “This section [amending section 2320 of this title, enacting provisions set out as a note under section 2320 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Stop Counterfeiting in Manufactured Goods Act’.”
+Pub. L. 109–181, § 1(a)(1), Mar. 16, 2006, 120 Stat. 285, provided that: “This section [amending section 2320 of this title, enacting provisions set out as a note under section 2320 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Stop Counterfeiting in Manufactured Goods Act’.”
 
-Pub. L. 109–181, § 2(a), Mar. 16, 2006, 120 Stat. 288, provided that: “This section [amending sections 2318, 2319A, and 2320 of this title and section 1101 of Title 17, Copyrights] may be cited as the ‘Protecting American Goods and Services Act of 2005’.”
+Pub. L. 109–181, § 2(a), Mar. 16, 2006, 120 Stat. 288, provided that: “This section [amending sections 2318, 2319A, and 2320 of this title and section 1101 of Title 17, Copyrights] may be cited as the ‘Protecting American Goods and Services Act of 2005’.”
 
-Pub. L. 109–178, § 1, Mar. 9, 2006, 120 Stat. 278, provided that: “This Act [amending section 2709 of this title, section 3414 of Title 12, Banks and Banking, sections 1681u and 1681v of Title 15, Commerce and Trade, and sections 436 and 1861 of Title 50, War and National Defense, and enacting provisions set out as a note under section 3414 of Title 12] may be cited as the ‘USA PATRIOT Act Additional Reauthorizing Amendments Act of 2006’.”
+Pub. L. 109–178, § 1, Mar. 9, 2006, 120 Stat. 278, provided that: “This Act [amending section 2709 of this title, section 3414 of Title 12, Banks and Banking, sections 1681u and 1681v of Title 15, Commerce and Trade, and sections 436 and 1861 of Title 50, War and National Defense, and enacting provisions set out as a note under section 3414 of Title 12] may be cited as the ‘USA PATRIOT Act Additional Reauthorizing Amendments Act of 2006’.”
 
-Pub. L. 109–177, § 1(a), Mar. 9, 2006, 120 Stat. 192, provided that: “This Act [see Tables for classification] may be cited as the ‘USA PATRIOT Improvement and Reauthorization Act of 2005’.”
+Pub. L. 109–177, § 1(a), Mar. 9, 2006, 120 Stat. 192, provided that: “This Act [see Tables for classification] may be cited as the ‘USA PATRIOT Improvement and Reauthorization Act of 2005’.”
 
-Pub. L. 109–177, title II, § 201, Mar. 9, 2006, 120 Stat. 230, provided that: “This title [enacting section 3599 of this title, amending section 3583 of this title and section 848 of Title 21, Food and Drugs, and enacting provisions set out as notes under section 46502 of Title 49, Transportation] may be cited as the ‘Terrorist Death Penalty Enhancement Act of 2005’.”
+Pub. L. 109–177, title II, § 201, Mar. 9, 2006, 120 Stat. 230, provided that: “This title [enacting section 3599 of this title, amending section 3583 of this title and section 848 of Title 21, Food and Drugs, and enacting provisions set out as notes under section 46502 of Title 49, Transportation] may be cited as the ‘Terrorist Death Penalty Enhancement Act of 2005’.”
 
-Pub. L. 109–177, title III, § 301, Mar. 9, 2006, 120 Stat. 233, provided that: “This title [see Tables for classification] may be cited as the ‘Reducing Crime and Terrorism at America’s Seaports Act of 2005’.”
+Pub. L. 109–177, title III, § 301, Mar. 9, 2006, 120 Stat. 233, provided that: “This title [see Tables for classification] may be cited as the ‘Reducing Crime and Terrorism at America’s Seaports Act of 2005’.”
 
-Pub. L. 109–177, title IV, § 401, Mar. 9, 2006, 120 Stat. 243, provided that: “This title [see Tables for classification] may be cited as the ‘Combating Terrorism Financing Act of 2005’.”
+Pub. L. 109–177, title IV, § 401, Mar. 9, 2006, 120 Stat. 243, provided that: “This title [see Tables for classification] may be cited as the ‘Combating Terrorism Financing Act of 2005’.”
 
-Pub. L. 109–177, title VI, § 601, Mar. 9, 2006, 120 Stat. 251, provided that: “This title [see Tables for classification] may be cited as the ‘Secret Service Authorization and Technical Modification Act of 2005’.”
+Pub. L. 109–177, title VI, § 601, Mar. 9, 2006, 120 Stat. 251, provided that: “This title [see Tables for classification] may be cited as the ‘Secret Service Authorization and Technical Modification Act of 2005’.”
 
 **Short Title of 2004 Amendment**
 
-Pub. L. 108–458, title VI, § 6701, Dec. 17, 2004, 118 Stat. 3764, provided that: “This subtitle [subtitle H (§§ 6701–6704) of title VI of Pub. L. 108–458, enacting section 1038 of this title, amending sections 1001, 1505, and 1958 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Stop Terrorist and Military Hoaxes Act of 2004’.”
+Pub. L. 108–458, title VI, § 6701, Dec. 17, 2004, 118 Stat. 3764, provided that: “This subtitle [subtitle H (§§ 6701–6704) of title VI of Pub. L. 108–458, enacting section 1038 of this title, amending sections 1001, 1505, and 1958 of this title, and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Stop Terrorist and Military Hoaxes Act of 2004’.”
 
-Pub. L. 108–458, title VI, § 6801, Dec. 17, 2004, 118 Stat. 3766, provided that: “This subtitle [subtitle I (§§ 6801–6803) of title VI of Pub. L. 108–458, enacting section 832 of this title, amending sections 175b, 1961, 2332a, and 2332b of this title and sections 2077 and 2122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175b of this title] may be cited as the ‘Weapons of Mass Destruction Prohibition Improvement Act of 2004’.”
+Pub. L. 108–458, title VI, § 6801, Dec. 17, 2004, 118 Stat. 3766, provided that: “This subtitle [subtitle I (§§ 6801–6803) of title VI of Pub. L. 108–458, enacting section 832 of this title, amending sections 175b, 1961, 2332a, and 2332b of this title and sections 2077 and 2122 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175b of this title] may be cited as the ‘Weapons of Mass Destruction Prohibition Improvement Act of 2004’.”
 
-Pub. L. 108–458, title VI, § 6901, Dec. 17, 2004, 118 Stat. 3769, provided that: “This subtitle [subtitle J (§§ 6901–6911) of title VI of Pub. L. 108–458, enacting sections 175c, 2332g, and 2332h of this title, amending sections 1956, 2332b, and 2516 of this title, section 2778 of Title 22, Foreign Relations and Intercourse, and sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175c of this title] may be cited as the ‘Prevention of Terrorist Access to Destructive Weapons Act of 2004’.”
+Pub. L. 108–458, title VI, § 6901, Dec. 17, 2004, 118 Stat. 3769, provided that: “This subtitle [subtitle J (§§ 6901–6911) of title VI of Pub. L. 108–458, enacting sections 175c, 2332g, and 2332h of this title, amending sections 1956, 2332b, and 2516 of this title, section 2778 of Title 22, Foreign Relations and Intercourse, and sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 175c of this title] may be cited as the ‘Prevention of Terrorist Access to Destructive Weapons Act of 2004’.”
 
 **Short Title of 2003 Amendment**
 
-Pub. L. 108–21, § 1(a), Apr. 30, 2003, 117 Stat. 650, provided that: “This Act [see Tables for classification] may be cited as the ‘Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act of 2003’ or ‘PROTECT Act’.”
+Pub. L. 108–21, § 1(a), Apr. 30, 2003, 117 Stat. 650, provided that: “This Act [see Tables for classification] may be cited as the ‘Prosecutorial Remedies and Other Tools to end the Exploitation of Children Today Act of 2003’ or ‘PROTECT Act’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–273, div. B, title IV, § 4001, Nov. 2, 2002, 116 Stat. 1806, provided that: “This title [see Tables for classification] may be cited as the ‘Criminal Law Technical Amendments Act of 2002’.”
+Pub. L. 107–273, div. B, title IV, § 4001, Nov. 2, 2002, 116 Stat. 1806, provided that: “This title [see Tables for classification] may be cited as the ‘Criminal Law Technical Amendments Act of 2002’.”
 
 **Short Title of 2001 Amendment**
 
-Pub. L. 107–56, § 1(a), Oct. 26, 2001, 115 Stat. 272, as amended by Pub. L. 109–177, title I, § 101(b), Mar. 9, 2006, 120 Stat. 194, provided that: “This Act [see Tables for classification] may be cited as the ‘Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001’ or the ‘USA PATRIOT Act’.”
+Pub. L. 107–56, § 1(a), Oct. 26, 2001, 115 Stat. 272, as amended by Pub. L. 109–177, title I, § 101(b), Mar. 9, 2006, 120 Stat. 194, provided that: “This Act [see Tables for classification] may be cited as the ‘Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001’ or the ‘USA PATRIOT Act’.”
 
 **Short Title of 1998 Amendments**
 
-Pub. L. 105–314, § 1(a), Oct. 30, 1998, 112 Stat. 2974, provided that: “This Act [see Tables for classification] may be cited as the ‘Protection of Children From Sexual Predators Act of 1998’.”
+Pub. L. 105–314, § 1(a), Oct. 30, 1998, 112 Stat. 2974, provided that: “This Act [see Tables for classification] may be cited as the ‘Protection of Children From Sexual Predators Act of 1998’.”
 
-Pub. L. 105–184, § 1, June 23, 1998, 112 Stat. 520, provided that: “This Act [amending sections 709, 982, 2326, 2327, and 2703 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Telemarketing Fraud Prevention Act of 1998’.”
+Pub. L. 105–184, § 1, June 23, 1998, 112 Stat. 520, provided that: “This Act [amending sections 709, 982, 2326, 2327, and 2703 of this title and enacting provisions listed in a table relating to sentencing guidelines set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the ‘Telemarketing Fraud Prevention Act of 1998’.”
 
 **Short Title of 1996 Amendments**
 
-Pub. L. 104–294, § 1, Oct. 11, 1996, 110 Stat. 3488, provided that: “This Act [see Tables for classification] may be cited as the ‘Economic Espionage Act of 1996’.”
+Pub. L. 104–294, § 1, Oct. 11, 1996, 110 Stat. 3488, provided that: “This Act [see Tables for classification] may be cited as the ‘Economic Espionage Act of 1996’.”
 
-Pub. L. 104–132, § 1, Apr. 24, 1996, 110 Stat. 1214, provided that: “This Act [see Tables for classification] may be cited as the ‘Antiterrorism and Effective Death Penalty Act of 1996’.”
+Pub. L. 104–132, § 1, Apr. 24, 1996, 110 Stat. 1214, provided that: “This Act [see Tables for classification] may be cited as the ‘Antiterrorism and Effective Death Penalty Act of 1996’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–322, title X, § 100001, Sept. 13, 1994, 108 Stat. 1996, provided that: “This title [amending section 13 of this title and section 3751 of Title 42, The Public Health and Welfare] may be cited as the ‘Drunk Driving Child Protection Act of 1994’.”
+Pub. L. 103–322, title X, § 100001, Sept. 13, 1994, 108 Stat. 1996, provided that: “This title [amending section 13 of this title and section 3751 of Title 42, The Public Health and Welfare] may be cited as the ‘Drunk Driving Child Protection Act of 1994’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–647, § 1, Nov. 29, 1990, 104 Stat. 4789, provided that: “This Act [see Tables for classification] may be cited as the ‘Crime Control Act of 1990’.”
+Pub. L. 101–647, § 1, Nov. 29, 1990, 104 Stat. 4789, provided that: “This Act [see Tables for classification] may be cited as the ‘Crime Control Act of 1990’.”
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–690, title VII, § 7011, Nov. 18, 1988, 102 Stat. 4395, provided that: “This subtitle [subtitle B (§§ 7011–7096) of title VII of Pub. L. 100–690, see Tables for classification] may be cited as the ‘Minor and Technical Criminal Law Amendments Act of 1988’.”
+Pub. L. 100–690, title VII, § 7011, Nov. 18, 1988, 102 Stat. 4395, provided that: “This subtitle [subtitle B (§§ 7011–7096) of title VII of Pub. L. 100–690, see Tables for classification] may be cited as the ‘Minor and Technical Criminal Law Amendments Act of 1988’.”
 
 **Short Title of 1987 Amendment**
 
-Pub. L. 100–185, § 1, Dec. 11, 1987, 101 Stat. 1279, provided that: “This Act [enacting section 19 of this title, amending sections 18, 3013, 3559, 3571, 3572, 3573, 3611, 3612, and 3663 of this title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under section 3611 of this title] may be cited as the ‘Criminal Fine Improvements Act of 1987’.”
+Pub. L. 100–185, § 1, Dec. 11, 1987, 101 Stat. 1279, provided that: “This Act [enacting section 19 of this title, amending sections 18, 3013, 3559, 3571, 3572, 3573, 3611, 3612, and 3663 of this title and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under section 3611 of this title] may be cited as the ‘Criminal Fine Improvements Act of 1987’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–646, § 1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act [see Tables for classification] may be cited as the ‘Criminal Law and Procedure Technical Amendments Act of 1986’.”
+Pub. L. 99–646, § 1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Act [see Tables for classification] may be cited as the ‘Criminal Law and Procedure Technical Amendments Act of 1986’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–473, title II, § 200, Oct. 12, 1984, 98 Stat. 1976, provided that: “This title [see Tables for classification] may be cited as the ‘Comprehensive Crime Control Act of 1984’.”
+Pub. L. 98–473, title II, § 200, Oct. 12, 1984, 98 Stat. 1976, provided that: “This title [see Tables for classification] may be cited as the ‘Comprehensive Crime Control Act of 1984’.”
 
 **Short Title of 1974 Amendment**
 
-Pub. L. 93–412, § 1, Sept. 3, 1974, 88 Stat. 1089, provided: “That this Act [amending section 3006A of this title and enacting provisions set out as a note under section 3006A of this title] may be cited as the ‘District of Columbia Criminal Justice Act’.”
+Pub. L. 93–412, § 1, Sept. 3, 1974, 88 Stat. 1089, provided: “That this Act [amending section 3006A of this title and enacting provisions set out as a note under section 3006A of this title] may be cited as the ‘District of Columbia Criminal Justice Act’.”
 
 **Severability**
 
-Pub. L. 108–21, § 2, Apr. 30, 2003, 117 Stat. 651, provided that: “If any provision of this Act [see Tables for classification], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
+Pub. L. 108–21, § 2, Apr. 30, 2003, 117 Stat. 651, provided that: “If any provision of this Act [see Tables for classification], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
 
-Pub. L. 107–56, § 2, Oct. 26, 2001, 115 Stat. 275, provided that: “Any provision of this Act [see Short Title of 2001 Amendment note above] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to give it the maximum effect permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be deemed severable from this Act and shall not affect the remainder thereof or the application of such provision to other persons not similarly situated or to other, dissimilar circumstances.”
+Pub. L. 107–56, § 2, Oct. 26, 2001, 115 Stat. 275, provided that: “Any provision of this Act [see Short Title of 2001 Amendment note above] held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, shall be construed so as to give it the maximum effect permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event such provision shall be deemed severable from this Act and shall not affect the remainder thereof or the application of such provision to other persons not similarly situated or to other, dissimilar circumstances.”
 
-Pub. L. 104–132, title IX, § 904, Apr. 24, 1996, 110 Stat. 1319, provided that: “If any provision of this Act [see Short Title of 1996 Amendments note above], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+Pub. L. 104–132, title IX, § 904, Apr. 24, 1996, 110 Stat. 1319, provided that: “If any provision of this Act [see Short Title of 1996 Amendments note above], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
 
-## § 2. Principals
+## § 2. Principals
 
 **(a)** Whoever commits an offense against the United States or aids, abets, counsels, commands, induces or procures its commission, is punishable as a principal.
 
 **(b)** Whoever willfully causes an act to be done which if directly performed by him or another would be an offense against the United States, is punishable as a principal.
 
-(June 25, 1948, ch. 645, 62 Stat. 684; Oct. 31, 1951, ch. 655, § 17b, 65 Stat. 717.)
+(June 25, 1948, ch. 645, 62 Stat. 684; Oct. 31, 1951, ch. 655, § 17b, 65 Stat. 717.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 550 (Mar. 4, 1909, ch. 321, § 332, 35 Stat. 1152).
+Based on title 18, U.S.C., 1940 ed., § 550 (Mar. 4, 1909, ch. 321, § 332, 35 Stat. 1152).
 
 Section 2(a) comprises section 550 of title 18, U.S.C., 1940 ed., without change except in minor matters of phraseology.
 
@@ -389,17 +389,17 @@ This accords with the following decisions: *Rothenburg v. United States*, 1918, 
 
 Subsec. (b). Act Oct. 31, 1951, inserted “willfully” before “causes”, and “or another” after “him”, and substituted “is punishable as a principal” for “is also a principal and punishable as such”.
 
-## § 3. Accessory after the fact
+## § 3. Accessory after the fact
 
 Whoever, knowing that an offense against the United States has been committed, receives, relieves, comforts or assists the offender in order to hinder or prevent his apprehension, trial or punishment, is an accessory after the fact.
 
 Except as otherwise expressly provided by any Act of Congress, an accessory after the fact shall be imprisoned not more than one-half the maximum term of imprisonment or (notwithstanding section 3571) fined not more than one-half the maximum fine prescribed for the punishment of the principal, or both; or if the principal is punishable by life imprisonment or death, the accessory shall be imprisoned not more than 15 years.
 
-(June 25, 1948, ch. 645, 62 Stat. 684; Pub. L. 99–646, § 43, Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XXXV, § 3502, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 103–322, title XXXIII, §§ 330011(h), 330016(2)(A), Sept. 13, 1994, 108 Stat. 2145, 2148.)
+(June 25, 1948, ch. 645, 62 Stat. 684; Pub. L. 99–646, § 43, Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XXXV, § 3502, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 103–322, title XXXIII, §§ 330011(h), 330016(2)(A), Sept. 13, 1994, 108 Stat. 2145, 2148.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 551 (Mar. 4, 1909, ch. 321, § 333, 35 Stat. 1152).
+Based on title 18, U.S.C., 1940 ed., § 551 (Mar. 4, 1909, ch. 321, § 333, 35 Stat. 1152).
 
 The first paragraph is new. It is based upon authority of *Skelly v. United States* (C. C. A. Okl. 1935, 76 F. 2d 483, certiorari denied, 1935, 55 S. Ct. 914, 295 U.S. 757, 79 L. Ed. 1699), where the court defined an accessory after the fact as—
 
@@ -413,11 +413,11 @@ The second paragraph is from section 551 of title 18, U.S.C., 1940 ed. Here only
 
 **Amendments**
 
-1994—Pub. L. 103–322, § 330016(2)(A), inserted “(notwithstanding section 3571)” before “fined not more than one-half” in second par.
+1994—Pub. L. 103–322, § 330016(2)(A), inserted “(notwithstanding section 3571)” before “fined not more than one-half” in second par.
 
-Pub. L. 103–322, § 330011(h), amended directory language of Pub. L. 101–647, § 3502. See 1990 Amendment note below.
+Pub. L. 103–322, § 330011(h), amended directory language of Pub. L. 101–647, § 3502. See 1990 Amendment note below.
 
-1990—Pub. L. 101–647, as amended by Pub. L. 103–322, § 330011(h), substituted “15 years” for “ten years” in second par.
+1990—Pub. L. 101–647, as amended by Pub. L. 103–322, § 330011(h), substituted “15 years” for “ten years” in second par.
 
 1986—Pub. L. 99–646 inserted “life imprisonment or” in second par.
 
@@ -425,17 +425,17 @@ Pub. L. 103–322, § 330011(h), amended directory language of Pub. L. 101–6
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–322, title XXXIII, § 330011(h), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of Nov. 29, 1990.
+Pub. L. 103–322, title XXXIII, § 330011(h), Sept. 13, 1994, 108 Stat. 2145, provided that the amendment made by that section is effective as of Nov. 29, 1990.
 
-## § 4. Misprision of felony
+## § 4. Misprision of felony
 
 Whoever, having knowledge of the actual commission of a felony cognizable by a court of the United States, conceals and does not as soon as possible make known the same to some judge or other person in civil or military authority under the United States, shall be fined under this title or imprisoned not more than three years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 684; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 684; Pub. L. 103–322, title XXXIII, § 330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C. 1940 ed., § 251 (Mar. 4, 1909, ch. 321, § 146, 35 Stat. 1114).
+Based on title 18, U.S.C. 1940 ed., § 251 (Mar. 4, 1909, ch. 321, § 146, 35 Stat. 1114).
 
 Changes in phraseology only.
 
@@ -445,7 +445,7 @@ Changes in phraseology only.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
 
-## § 5. United States defined
+## § 5. United States defined
 
 The term “United States”, as used in this title in a territorial sense, includes all places and waters, continental or insular, subject to the jurisdiction of the United States, except the Canal Zone.
 
@@ -453,7 +453,7 @@ The term “United States”, as used in this title in a territorial sense, incl
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 39, 133, 346, 381, 502, and 632, and section 40 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title XIII, § 1, 40 Stat. 231).
+Based on title 18, U.S.C., 1940 ed., §§ 39, 133, 346, 381, 502, and 632, and section 40 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title XIII, § 1, 40 Stat. 231).
 
 Section consolidates the first sentence of section 39, all of sections 133, 346, and 632, and the second sentences, respectively, of sections 381 and 502, all of title 18, U.S.C., 1940 ed., and section 40 of title 50, U.S.C., 1940 ed., War and National Defense, with minor changes in phraseology.
 
@@ -473,7 +473,7 @@ Words “, except the Canal Zone.” were substituted for the period in this sec
 
 For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-## § 6. Department and agency defined
+## § 6. Department and agency defined
 
 As used in this title:
 
@@ -493,9 +493,9 @@ The phrase “corporation in which the United States has a proprietary interest�
 
 **References in Text**
 
-Section 1 of Title 5, referred to in text, was repealed by Pub. L. 89–554, § 8, Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 101 of Title 5, Government Organization and Employees.
+Section 1 of Title 5, referred to in text, was repealed by Pub. L. 89–554, § 8, Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as section 101 of Title 5, Government Organization and Employees.
 
-## § 7. Special maritime and territorial jurisdiction of the United States defined
+## § 7. Special maritime and territorial jurisdiction of the United States defined
 
 The term “special maritime and territorial jurisdiction of the United States”, as used in this title, includes:
 
@@ -523,11 +523,11 @@ The term “special maritime and territorial jurisdiction of the United States�
 
 Nothing in this paragraph shall be deemed to supersede any treaty or international agreement with which this paragraph conflicts. This paragraph does not apply with respect to an offense committed by a person described in section 3261(a) of this title.
 
-(June 25, 1948, ch. 645, 62 Stat. 685; July 12, 1952, ch. 695, 66 Stat. 589; Pub. L. 97–96, § 6, Dec. 21, 1981, 95 Stat. 1210; Pub. L. 98–473, title II, § 1210, Oct. 12, 1984, 98 Stat. 2164; Pub. L. 103–322, title XII, § 120002, Sept. 13, 1994, 108 Stat. 2021; Pub. L. 107–56, title VIII, § 804, Oct. 26, 2001, 115 Stat. 377.)
+(June 25, 1948, ch. 645, 62 Stat. 685; July 12, 1952, ch. 695, 66 Stat. 589; Pub. L. 97–96, § 6, Dec. 21, 1981, 95 Stat. 1210; Pub. L. 98–473, title II, § 1210, Oct. 12, 1984, 98 Stat. 2164; Pub. L. 103–322, title XII, § 120002, Sept. 13, 1994, 108 Stat. 2021; Pub. L. 107–56, title VIII, § 804, Oct. 26, 2001, 115 Stat. 377.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 451 (Mar. 4, 1909, ch. 321, § 272, 35 Stat. 1142; June 11, 1940, ch. 323, 54 Stat. 304).
+Based on title 18, U.S.C., 1940 ed., § 451 (Mar. 4, 1909, ch. 321, § 272, 35 Stat. 1142; June 11, 1940, ch. 323, 54 Stat. 304).
 
 The words “The term ‘special maritime and territorial jurisdiction of the United States’ as used in this title includes:” were substituted for the words “The crimes and offenses defined in sections 451–468 of this title shall be punished as herein prescribed.”
 
@@ -563,9 +563,9 @@ Section 101 of the Immigration and Nationality Act, referred to in par. (9), is 
 
 **Territorial Sea Extending to Twelve Miles Included in Special Maritime and Territorial Jurisdiction**
 
-Pub. L. 104–132, title IX, § 901(a), Apr. 24, 1996, 110 Stat. 1317, provided that: “The Congress declares that all the territorial sea of the United States, as defined by Presidential Proclamation 5928 of December 27, 1988 [set out as a note under section 1331 of Title 43, Public Lands], for purposes of Federal criminal jurisdiction is part of the United States, subject to its sovereignty, and is within the special maritime and territorial jurisdiction of the United States for the purposes of title 18, United States Code.”
+Pub. L. 104–132, title IX, § 901(a), Apr. 24, 1996, 110 Stat. 1317, provided that: “The Congress declares that all the territorial sea of the United States, as defined by Presidential Proclamation 5928 of December 27, 1988 [set out as a note under section 1331 of Title 43, Public Lands], for purposes of Federal criminal jurisdiction is part of the United States, subject to its sovereignty, and is within the special maritime and territorial jurisdiction of the United States for the purposes of title 18, United States Code.”
 
-## § 8. Obligation or other security of the United States defined
+## § 8. Obligation or other security of the United States defined
 
 The term “obligation or other security of the United States” includes all bonds, certificates of indebtedness, national bank currency, Federal Reserve notes, Federal Reserve bank notes, coupons, United States notes, Treasury notes, gold certificates, silver certificates, fractional notes, certificates of deposit, bills, checks, or drafts for money, drawn by or upon authorized officers of the United States, stamps and other representatives of value, of whatever denomination, issued under any Act of Congress, and canceled United States stamps.
 
@@ -573,7 +573,7 @@ The term “obligation or other security of the United States” includes all bo
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 261 (Mar. 4, 1909, ch. 321, § 147, 35 Stat. 1115; Jan. 27, 1938, ch. 10, § 3, 52 Stat. 7).
+Based on title 18, U.S.C., 1940 ed., § 261 (Mar. 4, 1909, ch. 321, § 147, 35 Stat. 1115; Jan. 27, 1938, ch. 10, § 3, 52 Stat. 7).
 
 The terms of this section were general enough to justify its inclusion in this chapter rather than retaining it in the chapter on “Counterfeiting” where the terms which it specifically defines are set out in sections 471–476, 478, 481, 483, 492, and 504 of this title.
 
@@ -581,7 +581,7 @@ Words “Federal Reserve notes, Federal Reserve bank notes” were inserted befo
 
 Minor changes were made in phraseology.
 
-## § 9. Vessel of the United States defined
+## § 9. Vessel of the United States defined
 
 The term “vessel of the United States”, as used in this title, means a vessel belonging in whole or in part to the United States, or any citizen thereof, or any corporation created by or under the laws of the United States, or of any State, Territory, District, or possession thereof.
 
@@ -589,13 +589,13 @@ The term “vessel of the United States”, as used in this title, means a vesse
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 501 (Mar. 4, 1909, ch. 321, § 310, 35 Stat. 1148).
+Based on title 18, U.S.C., 1940 ed., § 501 (Mar. 4, 1909, ch. 321, § 310, 35 Stat. 1148).
 
 Section is made applicable to the entire title rather than to sections 481 et seq. of title 18, U.S.C., 1940 ed.
 
 Minor changes in phraseology were made.
 
-## § 10. Interstate commerce and foreign commerce defined
+## § 10. Interstate commerce and foreign commerce defined
 
 The term “interstate commerce”, as used in this title, includes commerce between one State, Territory, Possession, or the District of Columbia and another State, Territory, Possession, or the District of Columbia.
 
@@ -605,21 +605,21 @@ The term “foreign commerce”, as used in this title, includes commerce with a
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 408, 408b, 414(a), and 419a(b) (Oct. 29, 1919, ch. 89, § 2(b), 41 Stat. 325; June 22, 1932, ch. 271, § 2, 47 Stat. 326; May 18, 1934, ch. 301, 48 Stat. 782; May 22, 1934, ch. 333, § 2(a), 48 Stat. 794; Aug. 18, 1941, ch. 366, § 2(b), 55 Stat. 631).
+Based on title 18, U.S.C., 1940 ed., §§ 408, 408b, 414(a), and 419a(b) (Oct. 29, 1919, ch. 89, § 2(b), 41 Stat. 325; June 22, 1932, ch. 271, § 2, 47 Stat. 326; May 18, 1934, ch. 301, 48 Stat. 782; May 22, 1934, ch. 333, § 2(a), 48 Stat. 794; Aug. 18, 1941, ch. 366, § 2(b), 55 Stat. 631).
 
 This section consolidates into one section identical definitions contained in sections 408, 408b, 414(a), and 419a(b) of title 18, U.S.C., 1940 ed.
 
 In addition to slight improvements in style, the word “commerce” was substituted for “transportation” in order to avoid the narrower connotation of the word “transportation” since “commerce” obviously includes more than “transportation.” The word “Possession” was inserted in two places to make the definition more accurate and comprehensive since the places included in the word “Possession” would normally be within the term defined and a narrower construction should be handled by express statutory exclusion in those crimes which Congress intends to restrict to commerce within the continental United States.
 
-## § 11. Foreign government defined
+## § 11. Foreign government defined
 
 The term “foreign government”, as used in this title except in sections 112, 878, 970, 1116, and 1201, includes any government, faction, or body of insurgents within a country with which the United States is at peace, irrespective of recognition by the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 94–467, § 11, Oct. 8, 1976, 90 Stat. 2001.)
+(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 94–467, § 11, Oct. 8, 1976, 90 Stat. 2001.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 98, 288, 349; section 235 of title 22 U.S.C., 1940 ed., Foreign Relations and Intercourse; section 41 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title VIII, § 4, 40 Stat. 226).
+Based on title 18, U.S.C., 1940 ed., §§ 98, 288, 349; section 235 of title 22 U.S.C., 1940 ed., Foreign Relations and Intercourse; section 41 of title 50, U.S.C., 1940 ed., War and National Defense (June 15, 1917, ch. 30, title VIII, § 4, 40 Stat. 226).
 
 The definition of “foreign government” contained in this section, with minor changes in phraseology, is from section 4 of title VIII of act June 15, 1917 (Ch. 30, 40 Stat. 217, 226), known as the Espionage Act of 1917. This definition was incorporated in sections 98, 288, and 349 of title 18 and in section 235 of title 22, Foreign Relations and Intercourse, and in section 41 of Title 50, War and National Defense, U.S.C., all in 1940 ed., since the definition was specifically enacted with reference to said sections and others not material here.
 
@@ -631,15 +631,15 @@ The remaining provisions of said sections 98 and 349 of title 18, U.S.C., 1940 e
 
 1976—Pub. L. 94–467 inserted “except in sections 112, 878, 970, 1116, and 1201” after “title”.
 
-## § 12. United States Postal Service defined
+## § 12. United States Postal Service defined
 
 As used in this title, the term “Postal Service” means the United States Postal Service established under title 39, and every officer and employee of that Service, whether or not such officer or employee has taken the oath of office.
 
-(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 91–375, § 6(j)(2), Aug. 12, 1970, 84 Stat. 777; Pub. L. 101–647, title XXXV, § 3505, Nov. 29, 1990, 104 Stat. 4921.)
+(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 91–375, § 6(j)(2), Aug. 12, 1970, 84 Stat. 777; Pub. L. 101–647, title XXXV, § 3505, Nov. 29, 1990, 104 Stat. 4921.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., §§ 301, 360 (Mar. 4, 1909, ch. 321, §§ 230, 231, 35 Stat. 1134).
+Based on title 18, U.S.C., 1940 ed., §§ 301, 360 (Mar. 4, 1909, ch. 321, §§ 230, 231, 35 Stat. 1134).
 
 This section consolidates sections 301 and 360 of title 18, U.S.C., 1940 ed., with necessary changes in phraseology.
 
@@ -657,7 +657,7 @@ This section consolidates sections 301 and 360 of title 18, U.S.C., 1940 ed., wi
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by the Board of Governors of the United States Postal Service and published by it in the Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
-## § 13. Laws of States adopted for areas within Federal jurisdiction
+## § 13. Laws of States adopted for areas within Federal jurisdiction
 
 **(a)** Whoever within or upon any of the places now existing or hereafter reserved or acquired as provided in section 7 of this title, or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district is guilty of any act or omission which, although not made punishable by any enactment of Congress, would be punishable if committed or omitted within the jurisdiction of the State, Territory, Possession, or District in which such place is situated, by the laws thereof in force at the time of such act or omission, shall be guilty of a like offense and subject to a like punishment.
 
@@ -677,13 +677,13 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 **(c)** Whenever any waters of the territorial sea of the United States lie outside the territory of any State, Commonwealth, territory, possession, or district, such waters (including the airspace above and the seabed and subsoil below, and artificial islands and fixed structures erected thereon) shall be deemed, for purposes of subsection (a), to lie within the area of the State, Commonwealth, territory, possession, or district that it would lie within if the boundaries of such State, Commonwealth, territory, possession, or district were extended seaward to the outer limit of the territorial sea of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 100–690, title VI, § 6477(a), Nov. 18, 1988, 102 Stat. 4381; Pub. L. 103–322, title X, § 100002, Sept. 13, 1994, 108 Stat. 1996; Pub. L. 104–132, title IX, § 901(b), Apr. 24, 1996, 110 Stat. 1317; Pub. L. 104–294, title VI, § 604(b)(32), Oct. 11, 1996, 110 Stat. 3508.)
+(June 25, 1948, ch. 645, 62 Stat. 686; Pub. L. 100–690, title VI, § 6477(a), Nov. 18, 1988, 102 Stat. 4381; Pub. L. 103–322, title X, § 100002, Sept. 13, 1994, 108 Stat. 1996; Pub. L. 104–132, title IX, § 901(b), Apr. 24, 1996, 110 Stat. 1317; Pub. L. 104–294, title VI, § 604(b)(32), Oct. 11, 1996, 110 Stat. 3508.)
 
 **Historical and Revision Notes**
 
-Based on title 18, U.S.C., 1940 ed., § 468 (Mar. 4, 1909, ch. 321, § 289, 35 Stat. 1145; June 15, 1933, ch. 85, 48 Stat. 152; June 20, 1935, ch. 284, 49 Stat. 394; June 6, 1940, ch. 241, 54 Stat. 234).
+Based on title 18, U.S.C., 1940 ed., § 468 (Mar. 4, 1909, ch. 321, § 289, 35 Stat. 1145; June 15, 1933, ch. 85, 48 Stat. 152; June 20, 1935, ch. 284, 49 Stat. 394; June 6, 1940, ch. 241, 54 Stat. 234).
 
-Act March 4, 1909, § 289 used the words “now in force” when referring to the laws of any State, organized Territory or district, to be considered in force.
+Act March 4, 1909, § 289 used the words “now in force” when referring to the laws of any State, organized Territory or district, to be considered in force.
 
 As amended on June 15, 1933, the words “by the laws thereof in force on June 1, 1933, and remaining in force at the time of the doing or omitting the doing of such act or thing, would be penal,” were used.
 
@@ -699,11 +699,11 @@ Minor changes were made in phraseology.
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–132, § 901(b)(1), inserted “or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district” after “section 7 of this title,”.
+1996—Subsec. (a). Pub. L. 104–132, § 901(b)(1), inserted “or on, above, or below any portion of the territorial sea of the United States not within the jurisdiction of any State, Commonwealth, territory, possession, or district” after “section 7 of this title,”.
 
 Subsec. (b)(2)(A). Pub. L. 104–294 substituted “under this title” for “of not more than $1,000”.
 
-Subsec. (c). Pub. L. 104–132, § 901(b)(2), added subsec. (c).
+Subsec. (c). Pub. L. 104–132, § 901(b)(2), added subsec. (c).
 
 1994—Subsec. (b). Pub. L. 103–322 designated existing provisions as par. (1), substituted “Subject to paragraph (2) and for purposes” for “For purposes”, and added par. (2).
 
@@ -713,7 +713,7 @@ Subsec. (c). Pub. L. 104–132, § 901(b)(2), added subsec. (c).
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–294, title VI, § 604(d), Oct. 11, 1996, 110 Stat. 3509, provided that: “The amendments made by this section [amending this section, sections 36, 112, 113, 241, 242, 245, 351, 511, 542, 544, 545, 668, 704, 709, 794, 1014, 1030, 1112, 1169, 1512, 1515, 1516, 1751, 1956, 1961, 2114, 2311, 2339A, 2423, 2511, 2512, 2721, 3059A, 3561, 3582, 3592, and 5037 of this title, section 802 of Title 21, Food and Drugs, sections 540A and 991 of Title 28, Judiciary and Judicial Procedure, and sections 3631, 5633, 10604, and 14011 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1001, 1169, and 2325 of this title and section 994 of Title 28] shall take effect on the date of enactment of Public Law 103–322 [Sept. 13, 1994].”
+Pub. L. 104–294, title VI, § 604(d), Oct. 11, 1996, 110 Stat. 3509, provided that: “The amendments made by this section [amending this section, sections 36, 112, 113, 241, 242, 245, 351, 511, 542, 544, 545, 668, 704, 709, 794, 1014, 1030, 1112, 1169, 1512, 1515, 1516, 1751, 1956, 1961, 2114, 2311, 2339A, 2423, 2511, 2512, 2721, 3059A, 3561, 3582, 3592, and 5037 of this title, section 802 of Title 21, Food and Drugs, sections 540A and 991 of Title 28, Judiciary and Judicial Procedure, and sections 3631, 5633, 10604, and 14011 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 1001, 1169, and 2325 of this title and section 994 of Title 28] shall take effect on the date of enactment of Public Law 103–322 [Sept. 13, 1994].”
 
 **Executive Documents**
 
@@ -721,17 +721,17 @@ Pub. L. 104–294, title VI, § 604(d), Oct. 11, 1996, 110 Stat. 3509, provide
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-## [§ 14. Repealed. Pub. L. 107–273, div. B, title IV, § 4004(a), Nov. 2, 2002, 116 Stat. 1812]
+## [§ 14. Repealed. Pub. L. 107–273, div. B, title IV, § 4004(a), Nov. 2, 2002, 116 Stat. 1812]
 
-Section, act June 25, 1948, ch. 645, 62 Stat. 686; Aug. 5, 1953, ch. 325, 67 Stat. 366; Pub. L. 87–845, § 3(a), Oct. 18, 1962, 76A Stat. 698; Pub. L. 90–357, § 59, June 22, 1968, 82 Stat. 248; Pub. L. 101–647, title XXXV, § 3519(c), Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, § 330010(9), Sept. 13, 1994, 108 Stat. 2143, listed Title 18 sections applicable to and within Canal Zone.
+Section, act June 25, 1948, ch. 645, 62 Stat. 686; Aug. 5, 1953, ch. 325, 67 Stat. 366; Pub. L. 87–845, § 3(a), Oct. 18, 1962, 76A Stat. 698; Pub. L. 90–357, § 59, June 22, 1968, 82 Stat. 248; Pub. L. 101–647, title XXXV, § 3519(c), Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XXXIII, § 330010(9), Sept. 13, 1994, 108 Stat. 2143, listed Title 18 sections applicable to and within Canal Zone.
 
-## § 15. Obligation or other security of foreign government defined
+## § 15. Obligation or other security of foreign government defined
 
 The term “obligation or other security of any foreign government” includes, but is not limited to, uncanceled stamps, whether or not demonetized.
 
-(Added Pub. L. 85–921, § 3, Sept. 2, 1958, 72 Stat. 1771.)
+(Added Pub. L. 85–921, § 3, Sept. 2, 1958, 72 Stat. 1771.)
 
-## § 16. Crime of violence defined
+## § 16. Crime of violence defined
 
 The term “crime of violence” means—
 
@@ -739,7 +739,7 @@ The term “crime of violence” means—
 
 **(b)** any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.
 
-(Added Pub. L. 98–473, title II, § 1001(a), Oct. 12, 1984, 98 Stat. 2136.)
+(Added Pub. L. 98–473, title II, § 1001(a), Oct. 12, 1984, 98 Stat. 2136.)
 
 **Editorial Notes**
 
@@ -747,41 +747,41 @@ The term “crime of violence” means—
 
 For information regarding the constitutionality of this section, as added by section 1001(a) of Pub. L. 98–473, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
-## § 17. Insanity defense
+## § 17. Insanity defense
 
 **(a) Affirmative Defense.—** It is an affirmative defense to a prosecution under any Federal statute that, at the time of the commission of the acts constituting the offense, the defendant, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of his acts. Mental disease or defect does not otherwise constitute a defense.
 
 **(b) Burden of Proof.—** The defendant has the burden of proving the defense of insanity by clear and convincing evidence.
 
-(Added Pub. L. 98–473, title II, § 402(a), Oct. 12, 1984, 98 Stat. 2057, § 20; renumbered § 17, Pub. L. 99–646, § 34(a), Nov. 10, 1986, 100 Stat. 3599.)
+(Added Pub. L. 98–473, title II, § 402(a), Oct. 12, 1984, 98 Stat. 2057, § 20; renumbered § 17, Pub. L. 99–646, § 34(a), Nov. 10, 1986, 100 Stat. 3599.)
 
-## § 18. Organization defined
+## § 18. Organization defined
 
 As used in this title, the term “organization” means a person other than an individual.
 
-(Added Pub. L. 99–646, § 38(a), Nov. 10, 1986, 100 Stat. 3599; amended Pub. L. 100–185, § 4(c), Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, § 7012, Nov. 18, 1988, 102 Stat. 4395.)
+(Added Pub. L. 99–646, § 38(a), Nov. 10, 1986, 100 Stat. 3599; amended Pub. L. 100–185, § 4(c), Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, § 7012, Nov. 18, 1988, 102 Stat. 4395.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Pub. L. 100–690 made technical correction of directory language of Pub. L. 99–646, § 38(a), similar to that made by Pub. L. 100–185.
+1988—Pub. L. 100–690 made technical correction of directory language of Pub. L. 99–646, § 38(a), similar to that made by Pub. L. 100–185.
 
-1987—Pub. L. 100–185 made technical correction in directory language of Pub. L. 99–646, § 38(a).
+1987—Pub. L. 100–185 made technical correction in directory language of Pub. L. 99–646, § 38(a).
 
-## § 19. Petty offense defined
+## § 19. Petty offense defined
 
 As used in this title, the term “petty offense” means a Class B misdemeanor, a Class C misdemeanor, or an infraction, for which the maximum fine is no greater than the amount set forth for such an offense in section 3571(b)(6) or (7) in the case of an individual or section 3571(c)(6) or (7) in the case of an organization.
 
-(Added Pub. L. 100–185, § 4(a), Dec. 11, 1987, 101 Stat. 1279; amended Pub. L. 100–690, title VII, § 7089(a), Nov. 18, 1988, 102 Stat. 4409.)
+(Added Pub. L. 100–185, § 4(a), Dec. 11, 1987, 101 Stat. 1279; amended Pub. L. 100–690, title VII, § 7089(a), Nov. 18, 1988, 102 Stat. 4409.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1988—Pub. L. 100–690 inserted “, for which the maximum fine is no greater than the amount set forth for such an offense in section 3571(b)(6) or (7) in the case of an individual or section 3571(c)(6) or (7) in the case of an organization” after “infraction”.
+1988—Pub. L. 100–690 inserted “, for which the maximum fine is no greater than the amount set forth for such an offense in section 3571(b)(6) or (7) in the case of an individual or section 3571(c)(6) or (7) in the case of an organization” after “infraction”.
 
-## § 20. Financial institution defined
+## § 20. Financial institution defined
 
 As used in this title, the term “financial institution” means—
 
@@ -799,9 +799,9 @@ As used in this title, the term “financial institution” means—
 
 **(7)** a Federal Reserve bank or a member bank of the Federal Reserve System;
 
-**(8)** an organization operating under section 25 or section 25(a) 1
+**(8)** an organization operating under section 25 or section 25(a) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Federal Reserve Act;
 
@@ -809,7 +809,7 @@ of the Federal Reserve Act;
 
 **(10)** a mortgage lending business (as defined in section 27 of this title) or any person or entity that makes in whole or in part a federally related mortgage loan as defined in section 3 of the Real Estate Settlement Procedures Act of 1974.
 
-(Added Pub. L. 98–473, title II, § 1107(a), Oct. 12, 1984, 98 Stat. 2145, § 215(b); amended Pub. L. 99–370, § 2, Aug. 4, 1986, 100 Stat. 779; renumbered § 20 and amended Pub. L. 101–73, title IX, § 962(e)(1), (2), Aug. 9, 1989, 103 Stat. 503; Pub. L. 101–647, title XXV, § 2597(a), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 111–21, § 2(a), May 20, 2009, 123 Stat. 1617.)
+(Added Pub. L. 98–473, title II, § 1107(a), Oct. 12, 1984, 98 Stat. 2145, § 215(b); amended Pub. L. 99–370, § 2, Aug. 4, 1986, 100 Stat. 779; renumbered § 20 and amended Pub. L. 101–73, title IX, § 962(e)(1), (2), Aug. 9, 1989, 103 Stat. 503; Pub. L. 101–647, title XXV, § 2597(a), Nov. 29, 1990, 104 Stat. 4908; Pub. L. 111–21, § 2(a), May 20, 2009, 123 Stat. 1617.)
 
 **Editorial Notes**
 
@@ -819,7 +819,7 @@ Section 3 of the Federal Deposit Insurance Act, referred to in pars. (1) and (6)
 
 Section 5.35(3) of the Farm Credit Act of 1971, referred to in par. (4), is classified to section 2271(3) of Title 12, Banks and Banking.
 
-Section 25 of the Federal Reserve Act, referred to in par. (8), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
+Section 25 of the Federal Reserve Act, referred to in par. (8), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25(a) of the Federal Reserve Act, which is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12, was renumbered section 25A of that act by Pub. L. 102–242, title I, § 142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 
 Section 1(b) of the International Banking Act of 1978, referred to in par. (9), is classified to section 3101 of Title 12, Banks and Banking.
 
@@ -835,25 +835,25 @@ A prior section 20 was renumbered section 17 of this title.
 
 1990—Pars. (7) to (9). Pub. L. 101–647 added pars. (7) to (9).
 
-1989—Pub. L. 101–73, § 962(e)(1), (2)(A)–(C), redesignated subsec. (b) of section 215 of this title as this section, inserted section catchline, struck out subsec. (b) designation before “As used”, and substituted “used in this title” for “used in this section”.
+1989—Pub. L. 101–73, § 962(e)(1), (2)(A)–(C), redesignated subsec. (b) of section 215 of this title as this section, inserted section catchline, struck out subsec. (b) designation before “As used”, and substituted “used in this title” for “used in this section”.
 
-Par. (1). Pub. L. 101–73, § 962(e)(2)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a bank with deposits insured by the Federal Deposit Insurance Corporation;”.
+Par. (1). Pub. L. 101–73, § 962(e)(2)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a bank with deposits insured by the Federal Deposit Insurance Corporation;”.
 
-Par. (2). Pub. L. 101–73, § 962(e)(2)(E), (H), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “an institution with accounts insured by the Federal Savings and Loan Insurance Corporation;”.
+Par. (2). Pub. L. 101–73, § 962(e)(2)(E), (H), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “an institution with accounts insured by the Federal Savings and Loan Insurance Corporation;”.
 
-Par. (3). Pub. L. 101–73, § 962(e)(2)(H), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+Par. (3). Pub. L. 101–73, § 962(e)(2)(H), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Par. (4). Pub. L. 101–73, § 962(e)(2)(F), (H), redesignated par. (5) as (4) and amended it generally. Prior to amendment, par. (4) read as follows: “a Federal land bank, Federal intermediate credit bank, bank for cooperatives, production credit association, and Federal land bank association;”. Former par. (4) redesignated (3).
+Par. (4). Pub. L. 101–73, § 962(e)(2)(F), (H), redesignated par. (5) as (4) and amended it generally. Prior to amendment, par. (4) read as follows: “a Federal land bank, Federal intermediate credit bank, bank for cooperatives, production credit association, and Federal land bank association;”. Former par. (4) redesignated (3).
 
-Par. (5). Pub. L. 101–73, § 962(e)(2)(H), redesignated par. (6) as (5). Former par. (5) redesignated (4).
+Par. (5). Pub. L. 101–73, § 962(e)(2)(H), redesignated par. (6) as (5). Former par. (5) redesignated (4).
 
-Pars. (6), (7). Pub. L. 101–73, § 962(e)(2)(G), (H), redesignated par. (7) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “a bank holding company as defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841); or”. Former par. (6) redesignated (5).
+Pars. (6), (7). Pub. L. 101–73, § 962(e)(2)(G), (H), redesignated par. (7) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “a bank holding company as defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841); or”. Former par. (6) redesignated (5).
 
-Par. (8). Pub. L. 101–73, § 962(e)(2)(E), struck out par. (8) which read as follows: “a savings and loan holding company as defined in section 408 of the National Housing Act (12 U.S.C. 1730a).”
+Par. (8). Pub. L. 101–73, § 962(e)(2)(E), struck out par. (8) which read as follows: “a savings and loan holding company as defined in section 408 of the National Housing Act (12 U.S.C. 1730a).”
 
-1986—Pub. L. 99–370 amended subsec. (b) [formerly § 215(b)] generally expanding provisions formerly contained in subsec. (c) [former § 215(c)] defining “financial institution”.
+1986—Pub. L. 99–370 amended subsec. (b) [formerly § 215(b)] generally expanding provisions formerly contained in subsec. (c) [former § 215(c)] defining “financial institution”.
 
-## § 21. Stolen or counterfeit nature of property for certain crimes defined
+## § 21. Stolen or counterfeit nature of property for certain crimes defined
 
 **(a)** Wherever in this title it is an element of an offense that—
 
@@ -865,19 +865,19 @@ such element may be established by proof that the defendant, after or as a resul
 
 **(b)** For purposes of this section, the term “official representation” means any representation made by a Federal law enforcement officer (as defined in section 115) or by another person at the direction or with the approval of such an officer.
 
-(Added Pub. L. 103–322, title XXXII, § 320910(a), Sept. 13, 1994, 108 Stat. 2127.)
+(Added Pub. L. 103–322, title XXXII, § 320910(a), Sept. 13, 1994, 108 Stat. 2127.)
 
-## § 23.1 [footnote: 1 So in original. No section 22 has been enacted.] Court of the United States defined
+## § 23.1 [footnote: 1 So in original. No section 22 has been enacted.] Court of the United States defined
 
-As used in this title, except where otherwise expressly provided 2
+As used in this title, except where otherwise expressly provided 2
 
-<sup>2</sup>  So in original. Probably should be followed by a comma.
+<sup>2</sup> So in original. Probably should be followed by a comma.
 
 the term “court of the United States” includes the District Court of Guam, the District Court for the Northern Mariana Islands, and the District Court of the Virgin Islands.
 
-(Added Pub. L. 103–322, title XXXII, § 320914(a), Sept. 13, 1994, 108 Stat. 2128.)
+(Added Pub. L. 103–322, title XXXII, § 320914(a), Sept. 13, 1994, 108 Stat. 2128.)
 
-## § 24. Definitions relating to Federal health care offense
+## § 24. Definitions relating to Federal health care offense
 
 **(a)** As used in this title, the term “Federal health care offense” means a violation of, or a criminal conspiracy to violate—
 
@@ -885,13 +885,13 @@ the term “court of the United States” includes the District Court of Guam, t
 
 **(2)** section 287, 371, 664, 666, 1001, 1027, 1341, 1343, 1349, or 1954 of this title section 301 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331), or section 501 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1131), or section 411, 518, or 511 of the Employee Retirement Income Security Act of 1974,,1
 
-<sup>1</sup>  So in original. The second comma probably should follow “1954 of this title”.
+<sup>1</sup> So in original. The second comma probably should follow “1954 of this title”.
 
 if the violation or conspiracy relates to a health care benefit program.
 
 **(b)** As used in this title, the term “health care benefit program” means any public or private plan or contract, affecting commerce, under which any medical benefit, item, or service is provided to any individual, and includes any individual or entity who is providing a medical benefit, item, or service for which payment may be made under the plan or contract.
 
-(Added Pub. L. 104–191, title II, § 241(a), Aug. 21, 1996, 110 Stat. 2016; amended Pub. L. 111–148, title VI, § 6602, title X, § 10606(c), Mar. 23, 2010, 124 Stat. 780, 1008.)
+(Added Pub. L. 104–191, title II, § 241(a), Aug. 21, 1996, 110 Stat. 2016; amended Pub. L. 111–148, title VI, § 6602, title X, § 10606(c), Mar. 23, 2010, 124 Stat. 780, 1008.)
 
 **Editorial Notes**
 
@@ -901,15 +901,15 @@ Sections 411, 518, and 511 of the Employee Retirement Income Security Act of 197
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–148, § 10606(c)(1), substituted “or section 1128B of the Social Security Act (42 U.S.C. 1320a–7b); or” for semicolon.
+2010—Subsec. (a)(1). Pub. L. 111–148, § 10606(c)(1), substituted “or section 1128B of the Social Security Act (42 U.S.C. 1320a–7b); or” for semicolon.
 
-Subsec. (a)(2). Pub. L. 111–148, § 10606(c)(2)(B), which directed insertion of “section 301 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331), or section 501 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1131),” after “title,” was executed by making the insertion after “title” to reflect the probable intent of Congress because “title,” did not appear subsequent to amendment by Pub. L. 111–148, § 6602. See below.
+Subsec. (a)(2). Pub. L. 111–148, § 10606(c)(2)(B), which directed insertion of “section 301 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331), or section 501 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1131),” after “title,” was executed by making the insertion after “title” to reflect the probable intent of Congress because “title,” did not appear subsequent to amendment by Pub. L. 111–148, § 6602. See below.
 
-Pub. L. 111–148, § 10606(c)(2)(A), inserted “1349,” after “1343,”.
+Pub. L. 111–148, § 10606(c)(2)(A), inserted “1349,” after “1343,”.
 
-Pub. L. 111–148, § 6602, inserted “or section 411, 518, or 511 of the Employee Retirement Income Security Act of 1974,” after “1954 of this title”.
+Pub. L. 111–148, § 6602, inserted “or section 411, 518, or 511 of the Employee Retirement Income Security Act of 1974,” after “1954 of this title”.
 
-## § 25. Use of minors in crimes of violence
+## § 25. Use of minors in crimes of violence
 
 **(a) Definitions.—** In this section, the following definitions shall apply:
 
@@ -925,21 +925,21 @@ Pub. L. 111–148, § 6602, inserted “or section 411, 518, or 511 of the Emp
 
 **(2)** for each subsequent conviction, be subject to 3 times the maximum term of imprisonment and 3 times the maximum fine that would otherwise be authorized for the offense.
 
-(Added Pub. L. 108–21, title VI, § 601[(a)], Apr. 30, 2003, 117 Stat. 686.)
+(Added Pub. L. 108–21, title VI, § 601[(a)], Apr. 30, 2003, 117 Stat. 686.)
 
-## § 26. Definition of seaport
+## § 26. Definition of seaport
 
 As used in this title, the term “seaport” means all piers, wharves, docks, and similar structures, adjacent to any waters subject to the jurisdiction of the United States, to which a vessel may be secured, including areas of land, water, or land and water under and in immediate proximity to such structures, buildings on or contiguous to such structures, and the equipment and materials on such structures or in such buildings.
 
-(Added Pub. L. 109–177, title III, § 302(c), Mar. 9, 2006, 120 Stat. 233.)
+(Added Pub. L. 109–177, title III, § 302(c), Mar. 9, 2006, 120 Stat. 233.)
 
-## § 27. Mortgage lending business defined
+## § 27. Mortgage lending business defined
 
 In this title, the term “mortgage lending business” means an organization which finances or refinances any debt secured by an interest in real estate, including private mortgage companies and any subsidiaries of such organizations, and whose activities affect interstate or foreign commerce.
 
-(Added Pub. L. 111–21, § 2(b)(1), May 20, 2009, 123 Stat. 1617.)
+(Added Pub. L. 111–21, § 2(b)(1), May 20, 2009, 123 Stat. 1617.)
 
-## § 28. Human trafficking defense
+## § 28. Human trafficking defense
 
 **(a) Definitions.—** In this section—
 
@@ -955,10 +955,10 @@ In this title, the term “mortgage lending business” means an organization wh
 
 **(e) Federal Aid.—** A failure to assert, or failed assertion of, a defense under subsection (b) by an individual who is convicted of a covered Federal offense may not be used for the purpose of disqualifying the individual from participating in any federally funded program that aids victims of trafficking.
 
-(Added Pub. L. 119–73, § 6(a), Jan. 23, 2026, 139 Stat. 2009.)
+(Added Pub. L. 119–73, § 6(a), Jan. 23, 2026, 139 Stat. 2009.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Rule of Construction**
 
-Pub. L. 119–73, § 8, Jan. 23, 2026, 139 Stat. 2010, provided that: “Nothing in this Act [see Short Title of 2026 Amendment note set out under section 1 of this title], or the amendments made by this Act, may be construed to conflict with any of the crime victims’ rights described in section 3771 of title 18, United States Code.”
+Pub. L. 119–73, § 8, Jan. 23, 2026, 139 Stat. 2010, provided that: “Nothing in this Act [see Short Title of 2026 Amendment note set out under section 1 of this title], or the amendments made by this Act, may be construed to conflict with any of the crime victims’ rights described in section 3771 of title 18, United States Code.”

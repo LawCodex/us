@@ -17,71 +17,71 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—SOIL AND WATER CONSERVATION
 
-### § 3401. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
+### § 3401. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
 
-Section, Pub. L. 97–98, title XV, § 1501, Dec. 22, 1981, 95 Stat. 1328, reaffirmed congressional policy regarding soil and water conservation.
+Section, Pub. L. 97–98, title XV, § 1501, Dec. 22, 1981, 95 Stat. 1328, reaffirmed congressional policy regarding soil and water conservation.
 
 ## SUBCHAPTER II—SPECIAL AREAS CONSERVATION PROGRAM
 
-### §§ 3411 to 3414. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
+### §§ 3411 to 3414. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
 
-Section 3411, Pub. L. 97–98, title XV, § 1502, Dec. 22, 1981, 95 Stat. 1328, set forth findings relating to special areas conservation.
+Section 3411, Pub. L. 97–98, title XV, § 1502, Dec. 22, 1981, 95 Stat. 1328, set forth findings relating to special areas conservation.
 
-Section 3412, Pub. L. 97–98, title XV, § 1503, Dec. 22, 1981, 95 Stat. 1329, related to program formulation and implementation.
+Section 3412, Pub. L. 97–98, title XV, § 1503, Dec. 22, 1981, 95 Stat. 1329, related to program formulation and implementation.
 
-Section 3413, Pub. L. 97–98, title XV, § 1504, Dec. 22, 1981, 95 Stat. 1331, related to designation of geographic area as special area.
+Section 3413, Pub. L. 97–98, title XV, § 1504, Dec. 22, 1981, 95 Stat. 1331, related to designation of geographic area as special area.
 
-Section 3414, Pub. L. 97–98, title XV, § 1505, Dec. 22, 1981, 95 Stat. 1331, set forth limitations on contracts under program.
+Section 3414, Pub. L. 97–98, title XV, § 1505, Dec. 22, 1981, 95 Stat. 1331, set forth limitations on contracts under program.
 
-### § 3415. Repealed. Pub. L. 104–66, title I, § 1011(p), Dec. 21, 1995, 109 Stat. 710
+### § 3415. Repealed. Pub. L. 104–66, title I, § 1011(p), Dec. 21, 1995, 109 Stat. 710
 
-Section, Pub. L. 97–98, title XV, § 1506, Dec. 22, 1981, 95 Stat. 1332, directed Secretary to submit copies of special area reports to Congress.
+Section, Pub. L. 97–98, title XV, § 1506, Dec. 22, 1981, 95 Stat. 1332, directed Secretary to submit copies of special area reports to Congress.
 
-### §§ 3416 to 3418. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
+### §§ 3416 to 3418. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
 
-Section 3416, Pub. L. 97–98, title XV, § 1506, formerly § 1507, Dec. 22, 1981, 95 Stat. 1332; renumbered § 1506, Pub. L. 104–66, title I, § 1011(p), Dec. 21, 1995, 109 Stat. 710, related to utilization of services and facilities in carrying out provisions of this subchapter.
+Section 3416, Pub. L. 97–98, title XV, § 1506, formerly § 1507, Dec. 22, 1981, 95 Stat. 1332; renumbered § 1506, Pub. L. 104–66, title I, § 1011(p), Dec. 21, 1995, 109 Stat. 710, related to utilization of services and facilities in carrying out provisions of this subchapter.
 
-Section 3417, Pub. L. 97–98, title XV, § 1507, formerly § 1508, Dec. 22, 1981, 95 Stat. 1332; renumbered § 1507, Pub. L. 104–66, title I, § 1011(p), Dec. 21, 1995, 109 Stat. 710, authorized expenditure of funds for improvement of technology.
+Section 3417, Pub. L. 97–98, title XV, § 1507, formerly § 1508, Dec. 22, 1981, 95 Stat. 1332; renumbered § 1507, Pub. L. 104–66, title I, § 1011(p), Dec. 21, 1995, 109 Stat. 710, authorized expenditure of funds for improvement of technology.
 
-Section 3418, Pub. L. 97–98, title XV, § 1508, formerly § 1509, Dec. 22, 1981, 95 Stat. 1332; renumbered § 1508, Pub. L. 104–66, title I, § 1011(p), Dec. 21, 1995, 109 Stat. 710, authorized appropriations to carry out subchapter programs.
+Section 3418, Pub. L. 97–98, title XV, § 1508, formerly § 1509, Dec. 22, 1981, 95 Stat. 1332; renumbered § 1508, Pub. L. 104–66, title I, § 1011(p), Dec. 21, 1995, 109 Stat. 710, authorized appropriations to carry out subchapter programs.
 
-### § 3419. Repealed. Pub. L. 104–66, title I, § 1011(q), Dec. 21, 1995, 109 Stat. 710
+### § 3419. Repealed. Pub. L. 104–66, title I, § 1011(q), Dec. 21, 1995, 109 Stat. 710
 
-Section, Pub. L. 97–98, title XV, § 1510, Dec. 22, 1981, 95 Stat. 1332, directed Secretary to submit reports to Congress concerning operation of special areas conservation program.
+Section, Pub. L. 97–98, title XV, § 1510, Dec. 22, 1981, 95 Stat. 1332, directed Secretary to submit reports to Congress concerning operation of special areas conservation program.
 
-### § 3420. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
+### § 3420. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
 
-Section, Pub. L. 97–98, title XV, § 1509, formerly § 1511, Dec. 22, 1981, 95 Stat. 1332; renumbered § 1509, Pub. L. 104–66, title I, § 1011(p), Dec. 21, 1995, 109 Stat. 710, provided for protection of program participants.
+Section, Pub. L. 97–98, title XV, § 1509, formerly § 1511, Dec. 22, 1981, 95 Stat. 1332; renumbered § 1509, Pub. L. 104–66, title I, § 1011(p), Dec. 21, 1995, 109 Stat. 710, provided for protection of program participants.
 
 ## SUBCHAPTER III—MATCHING GRANTS FOR CONSERVATION ACTIVITIES
 
-### §§ 3431 to 3436. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
+### §§ 3431 to 3436. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
 
-Section 3431, Pub. L. 97–98, title XV, § 1514, Dec. 22, 1981, 95 Stat. 1333, authorized formulation and implementation of grants program.
+Section 3431, Pub. L. 97–98, title XV, § 1514, Dec. 22, 1981, 95 Stat. 1333, authorized formulation and implementation of grants program.
 
-Section 3432, Pub. L. 97–98, title XV, § 1515, Dec. 22, 1981, 95 Stat. 1334, related to program and plan review and implementation.
+Section 3432, Pub. L. 97–98, title XV, § 1515, Dec. 22, 1981, 95 Stat. 1334, related to program and plan review and implementation.
 
-Section 3433, Pub. L. 97–98, title XV, § 1516, Dec. 22, 1981, 95 Stat. 1334, related to long-range programs and annual work plans.
+Section 3433, Pub. L. 97–98, title XV, § 1516, Dec. 22, 1981, 95 Stat. 1334, related to long-range programs and annual work plans.
 
-Section 3434, Pub. L. 97–98, title XV, § 1517, Dec. 22, 1981, 95 Stat. 1334, authorized technical assistance to landowners and operators.
+Section 3434, Pub. L. 97–98, title XV, § 1517, Dec. 22, 1981, 95 Stat. 1334, authorized technical assistance to landowners and operators.
 
-Section 3435, Pub. L. 97–98, title XV, § 1518, Dec. 22, 1981, 95 Stat. 1335, related to recordkeeping, audit and examination, and access to books and records.
+Section 3435, Pub. L. 97–98, title XV, § 1518, Dec. 22, 1981, 95 Stat. 1335, related to recordkeeping, audit and examination, and access to books and records.
 
-Section 3436, Pub. L. 97–98, title XV, § 1519, Dec. 22, 1981, 95 Stat. 1335, authorized appropriations to carry out provisions of subchapter III.
+Section 3436, Pub. L. 97–98, title XV, § 1519, Dec. 22, 1981, 95 Stat. 1335, authorized appropriations to carry out provisions of subchapter III.
 
 ## SUBCHAPTER IV—RESERVOIR SEDIMENTATION REDUCTION PROGRAM
 
-### §§ 3441 to 3445. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
+### §§ 3441 to 3445. Repealed. Pub. L. 104–127, title III, § 336(f)(1), Apr. 4, 1996, 110 Stat. 1007
 
-Section 3441, Pub. L. 97–98, title XV, § 1521, Dec. 22, 1981, 95 Stat. 1336, authorized formulation and implementation of reservoir sedimentation reduction program.
+Section 3441, Pub. L. 97–98, title XV, § 1521, Dec. 22, 1981, 95 Stat. 1336, authorized formulation and implementation of reservoir sedimentation reduction program.
 
-Section 3442, Pub. L. 97–98, title XV, § 1522, Dec. 22, 1981, 95 Stat. 1336, related to preparation and contents of plan.
+Section 3442, Pub. L. 97–98, title XV, § 1522, Dec. 22, 1981, 95 Stat. 1336, related to preparation and contents of plan.
 
-Section 3443, Pub. L. 97–98, title XV, § 1523, Dec. 22, 1981, 95 Stat. 1336, related to approval of plans by Congress.
+Section 3443, Pub. L. 97–98, title XV, § 1523, Dec. 22, 1981, 95 Stat. 1336, related to approval of plans by Congress.
 
-Section 3444, Pub. L. 97–98, title XV, § 1524, Dec. 22, 1981, 95 Stat. 1336, authorized appropriations for carrying out provisions of subchapter IV.
+Section 3444, Pub. L. 97–98, title XV, § 1524, Dec. 22, 1981, 95 Stat. 1336, authorized appropriations for carrying out provisions of subchapter IV.
 
-Section 3445, Pub. L. 97–98, title XV, § 1525, Dec. 22, 1981, 95 Stat. 1337, required report to Congress by Jan. 1, 1987, evaluating program.
+Section 3445, Pub. L. 97–98, title XV, § 1525, Dec. 22, 1981, 95 Stat. 1337, required report to Congress by Jan. 1, 1987, evaluating program.
 
 ## SUBCHAPTER V—RESOURCE CONSERVATION AND DEVELOPMENT PROGRAM
 
@@ -89,9 +89,9 @@ Section 3445, Pub. L. 97–98, title XV, § 1525, Dec. 22, 1981, 95 Stat. 1337
 
 **Codification**
 
-Subtitle H of title XV of the Agriculture and Food Act of 1981, comprising this subchapter, was originally enacted by Pub. L. 97–98, title XV, Dec. 22, 1981, 95 Stat. 1337, and amended by Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359; Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888. Subtitle H is shown herein, however, as having been added by Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 269, without reference to the intervening amendments because of the extensive revision of the subtitle’s provisions by Pub. L. 107–171.
+Subtitle H of title XV of the Agriculture and Food Act of 1981, comprising this subchapter, was originally enacted by Pub. L. 97–98, title XV, Dec. 22, 1981, 95 Stat. 1337, and amended by Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359; Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 888. Subtitle H is shown herein, however, as having been added by Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 269, without reference to the intervening amendments because of the extensive revision of the subtitle’s provisions by Pub. L. 107–171.
 
-### § 3451. Definitions
+### § 3451. Definitions
 
 In this subchapter:
 
@@ -203,7 +203,7 @@ The term “Secretary” means the Secretary of Agriculture.
 
 **(D)** providing services that involve the resources of Department of Agriculture programs in a local community, as defined in the locally led planning process.
 
-(Pub. L. 97–98, title XV, § 1528, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 269; Pub. L. 110–234, title II, § 2805(a), (b), May 22, 2008, 122 Stat. 1088; Pub. L. 110–246, § 4(a), title II, § 2805(a), (b), June 18, 2008, 122 Stat. 1664, 1816.)
+(Pub. L. 97–98, title XV, § 1528, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 269; Pub. L. 110–234, title II, § 2805(a), (b), May 22, 2008, 122 Stat. 1088; Pub. L. 110–246, § 4(a), title II, § 2805(a), (b), June 18, 2008, 122 Stat. 1664, 1816.)
 
 **Editorial Notes**
 
@@ -213,15 +213,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3451, Pub. L. 97–98, title XV, § 1528, Dec. 22, 1981, 95 Stat. 1337, related to statement of purpose, prior to the general amendment of this subchapter by Pub. L. 107–171.
+A prior section 3451, Pub. L. 97–98, title XV, § 1528, Dec. 22, 1981, 95 Stat. 1337, related to statement of purpose, prior to the general amendment of this subchapter by Pub. L. 107–171.
 
 **Amendments**
 
-2008—Par. (1). Pub. L. 110–246, § 2805(a)(1), substituted “locally led planning process” for “planning process” in introductory provisions.
+2008—Par. (1). Pub. L. 110–246, § 2805(a)(1), substituted “locally led planning process” for “planning process” in introductory provisions.
 
-Pars. (8), (9). Pub. L. 110–246, § 2805(a)(2), (3), redesignated pars. (9) and (8) as (8) and (9), respectively, and, in par. (8), substituted “Locally led planning process” for “Planning process” in heading and “locally led council” for “council” in text.
+Pars. (8), (9). Pub. L. 110–246, § 2805(a)(2), (3), redesignated pars. (9) and (8) as (8) and (9), respectively, and, in par. (8), substituted “Locally led planning process” for “Planning process” in heading and “locally led council” for “council” in text.
 
-Par. (13)(C), (D). Pub. L. 110–246, § 2805(b), added subpars. (C) and (D) and struck out former subpars. (C) and (D) which read as follows:
+Par. (13)(C), (D). Pub. L. 110–246, § 2805(b), added subpars. (C) and (D) and struck out former subpars. (C) and (D) which read as follows:
 
 “(C) providing assistance for the long-term implementation of area plans; and
 
@@ -233,7 +233,7 @@ Par. (13)(C), (D). Pub. L. 110–246, § 2805(b), added subpars. (C) and (D) a
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 3452. Resource conservation and development program
+### § 3452. Resource conservation and development program
 
 The Secretary shall establish a resource conservation and development program under which the Secretary shall provide technical assistance and financial assistance to councils to develop and carry out area plans and projects in designated areas—
 
@@ -241,31 +241,31 @@ The Secretary shall establish a resource conservation and development program un
 
 **(2)** to encourage and improve the capability of State,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 units of government, Indian tribes, nonprofit organizations, and councils to carry out the purposes described in paragraph (1).
 
-(Pub. L. 97–98, title XV, § 1529, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 272.)
+(Pub. L. 97–98, title XV, § 1529, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 272.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3452, Pub. L. 97–98, title XV, § 1529, Dec. 22, 1981, 95 Stat. 1337, related to definitions, prior to the general amendment of this subchapter by Pub. L. 107–171.
+A prior section 3452, Pub. L. 97–98, title XV, § 1529, Dec. 22, 1981, 95 Stat. 1337, related to definitions, prior to the general amendment of this subchapter by Pub. L. 107–171.
 
-### § 3453. Selection of designated areas
+### § 3453. Selection of designated areas
 
 The Secretary shall select designated areas for assistance under this subchapter on the basis of the elements of area plans.
 
-(Pub. L. 97–98, title XV, § 1530, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 272.)
+(Pub. L. 97–98, title XV, § 1530, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 272.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3453, Pub. L. 97–98, title XV, § 1530, Dec. 22, 1981, 95 Stat. 1339, related to the establishment and scope of resource conservation and development program, prior to the general amendment of this subchapter by Pub. L. 107–171.
+A prior section 3453, Pub. L. 97–98, title XV, § 1530, Dec. 22, 1981, 95 Stat. 1339, related to the establishment and scope of resource conservation and development program, prior to the general amendment of this subchapter by Pub. L. 107–171.
 
-### § 3454. Powers of the Secretary
+### § 3454. Powers of the Secretary
 
 **(a) In general** In carrying out this subchapter, the Secretary may—
 
@@ -287,7 +287,7 @@ To improve the provision of technical assistance to councils under this subchapt
 
 A coordinator for a council shall be directly responsible for the provision of technical assistance to the council.
 
-(Pub. L. 97–98, title XV, § 1531, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 272; amended Pub. L. 110–234, title II, § 2805(c), May 22, 2008, 122 Stat. 1088; Pub. L. 110–246, § 4(a), title II, § 2805(c), June 18, 2008, 122 Stat. 1664, 1816.)
+(Pub. L. 97–98, title XV, § 1531, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 272; amended Pub. L. 110–234, title II, § 2805(c), May 22, 2008, 122 Stat. 1088; Pub. L. 110–246, § 4(a), title II, § 2805(c), June 18, 2008, 122 Stat. 1664, 1816.)
 
 **Editorial Notes**
 
@@ -297,11 +297,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Prior Provisions**
 
-A prior section 3454, Pub. L. 97–98, title XV, § 1531, Dec. 22, 1981, 95 Stat. 1339, related to selection of designated areas for assistance, prior to the general amendment of this subchapter by Pub. L. 107–171.
+A prior section 3454, Pub. L. 97–98, title XV, § 1531, Dec. 22, 1981, 95 Stat. 1339, related to selection of designated areas for assistance, prior to the general amendment of this subchapter by Pub. L. 107–171.
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 2805(c), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+2008—Pub. L. 110–246, § 2805(c), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -309,7 +309,7 @@ A prior section 3454, Pub. L. 97–98, title XV, § 1531, Dec. 22, 1981, 95 St
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 3455. Eligibility; terms and conditions
+### § 3455. Eligibility; terms and conditions
 
 **(a) Eligibility** Technical assistance and financial assistance may be provided by the Secretary under this subchapter to any council to assist in carrying out a project specified in an area plan approved by the Secretary only if—
 
@@ -351,15 +351,15 @@ Technical assistance and financial assistance under this subchapter may not be m
 
 The Secretary may withdraw technical assistance and financial assistance with respect to any area plan if the Secretary determines that the assistance is no longer necessary or that sufficient progress has not been made toward developing or implementing the elements of the area plan.
 
-(Pub. L. 97–98, title XV, § 1532, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 272.)
+(Pub. L. 97–98, title XV, § 1532, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 272.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3455, Pub. L. 97–98, title XV, § 1532, Dec. 22, 1981, 95 Stat. 1339, related to authority of the Secretary to carry out provisions of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–171.
+A prior section 3455, Pub. L. 97–98, title XV, § 1532, Dec. 22, 1981, 95 Stat. 1339, related to authority of the Secretary to carry out provisions of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–171.
 
-### § 3456. Resource Conservation and Development Policy Advisory Board
+### § 3456. Resource Conservation and Development Policy Advisory Board
 
 **(a) Establishment**
 
@@ -379,13 +379,13 @@ A member of the Board shall be designated by the Secretary to serve as chairpers
 
 The Board shall advise the Secretary regarding the administration of this subchapter, including the formulation of policies for carrying out this subchapter.
 
-(Pub. L. 97–98, title XV, § 1533, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 273.)
+(Pub. L. 97–98, title XV, § 1533, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 273.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3456, Pub. L. 97–98, title XV, § 1533, Dec. 22, 1981, 95 Stat. 1339, related to technical and financial assistance to carry out specified works of improvement, prior to the general amendment of this subchapter by Pub. L. 107–171.
+A prior section 3456, Pub. L. 97–98, title XV, § 1533, Dec. 22, 1981, 95 Stat. 1339, related to technical and financial assistance to carry out specified works of improvement, prior to the general amendment of this subchapter by Pub. L. 107–171.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -393,9 +393,9 @@ A prior section 3456, Pub. L. 97–98, title XV, § 1533, Dec. 22, 1981, 95 St
 
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
-### § 3457. Repealed. Pub. L. 110–234, title II, § 2805(d), May 22, 2008, 122 Stat. 1089, and Pub. L. 110–246, § 4(a), title II, § 2805(d), June 18, 2008, 122 Stat. 1664, 1817
+### § 3457. Repealed. Pub. L. 110–234, title II, § 2805(d), May 22, 2008, 122 Stat. 1089, and Pub. L. 110–246, § 4(a), title II, § 2805(d), June 18, 2008, 122 Stat. 1664, 1817
 
-Section, Pub. L. 97–98, title XV, § 1534, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 273, related to evaluation of program established under this subchapter and submission of report not later than June 30, 2005.
+Section, Pub. L. 97–98, title XV, § 1534, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 273, related to evaluation of program established under this subchapter and submission of report not later than June 30, 2005.
 
 **Editorial Notes**
 
@@ -405,7 +405,7 @@ Pub. L. 110–234 and Pub. L. 110–246 repealed this section. Pub. L. 110–234
 
 **Prior Provisions**
 
-A prior section 3457, Pub. L. 97–98, title XV, § 1534, Dec. 22, 1981, 95 Stat. 1340, related to the Resource Conservation and Development Policy Board, prior to the general amendment of this subchapter by Pub. L. 107–171.
+A prior section 3457, Pub. L. 97–98, title XV, § 1534, Dec. 22, 1981, 95 Stat. 1340, related to the Resource Conservation and Development Policy Board, prior to the general amendment of this subchapter by Pub. L. 107–171.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -413,37 +413,37 @@ A prior section 3457, Pub. L. 97–98, title XV, § 1534, Dec. 22, 1981, 95 St
 
 Repeal of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-### § 3458. Limitation on assistance
+### § 3458. Limitation on assistance
 
 In carrying out this subchapter, the Secretary shall provide technical assistance and financial assistance with respect to not more than 450 active designated areas.
 
-(Pub. L. 97–98, title XV, § 1535, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 274.)
+(Pub. L. 97–98, title XV, § 1535, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 274.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3458, Pub. L. 97–98, title XV, § 1535, Dec. 22, 1981, 95 Stat. 1340, related to program evaluation, prior to the general amendment of this subchapter by Pub. L. 107–171.
+A prior section 3458, Pub. L. 97–98, title XV, § 1535, Dec. 22, 1981, 95 Stat. 1340, related to program evaluation, prior to the general amendment of this subchapter by Pub. L. 107–171.
 
-### § 3459. Supplemental authority of the Secretary
+### § 3459. Supplemental authority of the Secretary
 
 The authority of the Secretary under this subchapter to assist councils in the development and implementation of area plans shall be supplemental to, and not in lieu of, any authority of the Secretary under any other provision of law.
 
-(Pub. L. 97–98, title XV, § 1536, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 274.)
+(Pub. L. 97–98, title XV, § 1536, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 274.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 3459, Pub. L. 97–98, title XV, § 1536, Dec. 22, 1981, 95 Stat. 1340; Pub. L. 101–624, title XIV, § 1452(a), Nov. 28, 1990, 104 Stat. 3611, related to limitation on assistance, prior to the general amendment of this subchapter by Pub. L. 107–171.
+A prior section 3459, Pub. L. 97–98, title XV, § 1536, Dec. 22, 1981, 95 Stat. 1340; Pub. L. 101–624, title XIV, § 1452(a), Nov. 28, 1990, 104 Stat. 3611, related to limitation on assistance, prior to the general amendment of this subchapter by Pub. L. 107–171.
 
-### § 3460. Authorization of appropriations
+### § 3460. Authorization of appropriations
 
 **(a) In general**
 
-There are authorized to be 1
+There are authorized to be 1
 
-<sup>1</sup>  So in original. Probably should be followed by “appropriated”.
+<sup>1</sup> So in original. Probably should be followed by “appropriated”.
 
 such sums as are necessary to carry out this subchapter.
 
@@ -455,7 +455,7 @@ The Secretary shall not use more than $15,000,000 of any funds made available fo
 
 Funds appropriated to carry out this subchapter shall remain available until expended.
 
-(Pub. L. 97–98, title XV, § 1537, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 274.)
+(Pub. L. 97–98, title XV, § 1537, as added Pub. L. 107–171, title II, § 2504, May 13, 2002, 116 Stat. 274.)
 
 **Editorial Notes**
 
@@ -463,27 +463,27 @@ Funds appropriated to carry out this subchapter shall remain available until exp
 
 Prior sections 3460 and 3461 were omitted in the general amendment of this subchapter by Pub. L. 107–171.
 
-Section 3460, Pub. L. 97–98, title XV, § 1537, Dec. 22, 1981, 95 Stat. 1340, related to supplemental authority of Secretary.
+Section 3460, Pub. L. 97–98, title XV, § 1537, Dec. 22, 1981, 95 Stat. 1340, related to supplemental authority of Secretary.
 
-Section 3461, Pub. L. 97–98, title XV, § 1538, Dec. 22, 1981, 95 Stat. 1341; Pub. L. 101–624, title XIV, § 1452(b), Nov. 28, 1990, 104 Stat. 3611; Pub. L. 104–127, title III, § 383, Apr. 4, 1996, 110 Stat. 1016, authorized appropriations for each of the fiscal years 1996 through 2002.
+Section 3461, Pub. L. 97–98, title XV, § 1538, Dec. 22, 1981, 95 Stat. 1341; Pub. L. 101–624, title XIV, § 1452(b), Nov. 28, 1990, 104 Stat. 3611; Pub. L. 104–127, title III, § 383, Apr. 4, 1996, 110 Stat. 1016, authorized appropriations for each of the fiscal years 1996 through 2002.
 
 ## SUBCHAPTER VI—MISCELLANEOUS PROVISIONS
 
-### § 3471. Payments for land removed from production for conservation purposes; authorization of appropriations
+### § 3471. Payments for land removed from production for conservation purposes; authorization of appropriations
 
 **(a)** The Secretary of Agriculture may enter into contracts to provide financial assistance in the form of payments to owners and operators of cropland located in counties where the soil normally freezes to a depth of at least four inches annually who remove such land from agricultural production for a period not to exceed one year for the purpose of installing enduring conservation measures which involve excavation of the soil. The payments under such contracts shall be in such amounts as determined by the Secretary to be necessary to effectuate the purposes of this subchapter but shall not exceed an amount equal to the number of acres of cropland removed from agricultural production for such purpose multiplied by 50 per centum of the typical annual rent, as determined by the Secretary, paid for similar land in the county. Financial assistance may not be provided under this section with respect to any conservation measure without the approval of the soil and water conservation district board for the district in which the land is located, and may not, in the aggregate, be provided in any year with respect to more than one-half of 1 per centum of the cropland in any county.
 
 **(b)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, such sums to remain available until expended.
 
-(Pub. L. 97–98, title XV, § 1552, Dec. 22, 1981, 95 Stat. 1344.)
+(Pub. L. 97–98, title XV, § 1552, Dec. 22, 1981, 95 Stat. 1344.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This subchapter, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle J (§§ 1550–1554) of title XV of Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1344, which enacted this subchapter and section 2273 of Title 7, Agriculture, and amended section 1236 of Title 30, Mineral Lands and Mining. For complete classification of subtitle J to the Code, see Tables.
+This subchapter, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle J (§§ 1550–1554) of title XV of Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1344, which enacted this subchapter and section 2273 of Title 7, Agriculture, and amended section 1236 of Title 30, Mineral Lands and Mining. For complete classification of subtitle J to the Code, see Tables.
 
-### § 3472. Conservation tillage; Congressional findings, etc.
+### § 3472. Conservation tillage; Congressional findings, etc.
 
 **(a)** Congress finds that—
 
@@ -503,21 +503,21 @@ This subchapter, referred to in subsec. (a), was in the original “this subtitl
 
 **(2)** conduct a program of research designed to resolve any unanswered questions regarding the advantages and disadvantages of conservation tillage over other soil conservation practices.
 
-(Pub. L. 97–98, title XV, § 1553, Dec. 22, 1981, 95 Stat. 1345.)
+(Pub. L. 97–98, title XV, § 1553, Dec. 22, 1981, 95 Stat. 1345.)
 
-### § 3473. Regulations
+### § 3473. Regulations
 
 The Secretary of Agriculture shall prescribe such regulations as may be necessary to carry out the provisions of this chapter.
 
-(Pub. L. 97–98, title XV, § 1554, Dec. 22, 1981, 95 Stat. 1345.)
+(Pub. L. 97–98, title XV, § 1554, Dec. 22, 1981, 95 Stat. 1345.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in text, was in the original “this title”, meaning title XV of Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1328, which enacted this chapter and sections 2272 and 2273 and chapter 73 (§ 4201 et seq.) of Title 7, Agriculture, amended sections 1002 to 1005 of this title, section 1010 of Title 7, section 714b of Title 15, Commerce and Trade, and section 1236 of Title 30, Mineral Lands and Mining, and enacted a provision set out as a note under section 2272 of Title 7.
+This chapter, referred to in text, was in the original “this title”, meaning title XV of Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1328, which enacted this chapter and sections 2272 and 2273 and chapter 73 (§ 4201 et seq.) of Title 7, Agriculture, amended sections 1002 to 1005 of this title, section 1010 of Title 7, section 714b of Title 15, Commerce and Trade, and section 1236 of Title 30, Mineral Lands and Mining, and enacted a provision set out as a note under section 2272 of Title 7.
 
-### § 3474. Conservation incentives landowner education program
+### § 3474. Conservation incentives landowner education program
 
 **(a) In general**
 
@@ -543,7 +543,7 @@ Not later than 1 year after March 12, 2019, the Secretary shall establish a cons
 
 **(2)** make available information on the conservation program options that may be available to the landowner.
 
-(Pub. L. 116–9, title III, § 3002, Mar. 12, 2019, 133 Stat. 756.)
+(Pub. L. 116–9, title III, § 3002, Mar. 12, 2019, 133 Stat. 756.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 1608—HEALTH PROFESSIONS STIPEND PROGRAM
 
-## § 16201. Financial assistance: health-care professionals in reserve components
+## § 16201. Financial assistance: health-care professionals in reserve components
 
 **(a) Establishment of Program.—** For the purpose of obtaining adequate numbers of commissioned officers in the reserve components who are qualified in health professions, the Secretary of each military department may establish and maintain a program to provide financial assistance under this chapter to persons engaged in training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime. Under such a program, the Secretary concerned may agree to pay a financial stipend to persons engaged in health care education and training in return for a commitment to subsequent service in the Selected Reserve of the Ready Reserve.
 
@@ -145,17 +145,17 @@ retrieved: 2026-10-11
 
 **(g) Amount of Stipend.—** The amount of a stipend under an agreement under subsection (b), (c), (d), or (f) shall be the stipend rate in effect for participants in the Armed Forces Health Professions Scholarship Program under section 2121(d) of this title.
 
-(Added Pub. L. 100–180, div. A, title VII, § 711(a)(3), Dec. 4, 1987, 101 Stat. 1108, § 2128; renumbered § 16201 and amended Pub. L. 103–337, div. A, title XVI, § 1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, § 736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, § 539, Dec. 28, 2001, 115 Stat. 1108; Pub. L. 109–163, div. A, title V, § 515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–417, [div. A], title VI, § 616(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title X, § 1073(c)(3), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 112–81, div. A, title V, § 556, Dec. 31, 2011, 125 Stat. 1416; Pub. L. 113–66, div. A, title VI, § 618, Dec. 26, 2013, 127 Stat. 782.)
+(Added Pub. L. 100–180, div. A, title VII, § 711(a)(3), Dec. 4, 1987, 101 Stat. 1108, § 2128; renumbered § 16201 and amended Pub. L. 103–337, div. A, title XVI, § 1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, § 736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, § 539, Dec. 28, 2001, 115 Stat. 1108; Pub. L. 109–163, div. A, title V, § 515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–417, [div. A], title VI, § 616(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title X, § 1073(c)(3), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 112–81, div. A, title V, § 556, Dec. 31, 2011, 125 Stat. 1416; Pub. L. 113–66, div. A, title VI, § 618, Dec. 26, 2013, 127 Stat. 782.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (a). Pub. L. 113–66, § 618(b)(1), substituted “the Selected Reserve of the Ready Reserve” for “the Ready Reserve”.
+2013—Subsec. (a). Pub. L. 113–66, § 618(b)(1), substituted “the Selected Reserve of the Ready Reserve” for “the Ready Reserve”.
 
-Subsec. (c)(2)(D). Pub. L. 113–66, § 618(b)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.”
+Subsec. (c)(2)(D). Pub. L. 113–66, § 618(b)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: “the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.”
 
-Subsec. (d)(1)(B). Pub. L. 113–66, § 618(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “is eligible for appointment as—
+Subsec. (d)(1)(B). Pub. L. 113–66, § 618(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “is eligible for appointment as—
 
 “(i) a Reserve officer for service in the Army Reserve in the Army Nurse Corps;
 
@@ -163,75 +163,75 @@ Subsec. (d)(1)(B). Pub. L. 113–66, § 618(a)(1), added subpar. (B) and struc
 
 “(iii) a Reserve officer for service in the Air Force Reserve with a view to designation as an Air Force nurse under section 8067(e) of this title; and”.
 
-Subsec. (d)(2)(B). Pub. L. 113–66, § 618(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “the participant shall not be eligible to receive such stipend before being appointed as a Reserve officer for service in the Ready Reserve—
+Subsec. (d)(2)(B). Pub. L. 113–66, § 618(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “the participant shall not be eligible to receive such stipend before being appointed as a Reserve officer for service in the Ready Reserve—
 
 “(i) in the Nurse Corps of the Army or Navy; or
 
 “(ii) as an Air Force nurse of the Air Force;”.
 
-Subsec. (d)(2)(D). Pub. L. 113–66, § 618(b)(3), added subpar. (D) and struck out former subpar. (D) which read as follows: “the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.”
+Subsec. (d)(2)(D). Pub. L. 113–66, § 618(b)(3), added subpar. (D) and struck out former subpar. (D) which read as follows: “the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.”
 
-Subsec. (e)(2)(D). Pub. L. 113–66, § 618(b)(4), substituted “the Selected Reserve” for “the Ready Reserve”.
+Subsec. (e)(2)(D). Pub. L. 113–66, § 618(b)(4), substituted “the Selected Reserve” for “the Ready Reserve”.
 
-Subsec. (g). Pub. L. 113–66, § 618(c), amended subsec. (g) generally. Prior to amendment, text read as follows: “The amount of a stipend under an agreement under subsection (b), (c), or (f) shall be—
+Subsec. (g). Pub. L. 113–66, § 618(c), amended subsec. (g) generally. Prior to amendment, text read as follows: “The amount of a stipend under an agreement under subsection (b), (c), or (f) shall be—
 
 “(1) the stipend rate in effect for participants in the Armed Forces Health Professions Scholarship Program under section 2121(d) of this title, if the participant has agreed to serve in the Selected Reserve; or
 
 “(2) one-half of that rate, if the participant has agreed to serve in the Individual Ready Reserve.”
 
-2011—Subsecs. (b)(2)(A), (c)(2)(A), (d)(2)(A). Pub. L. 112–81, § 556(b)(1), substituted “subsection (g)” for “subsection (f)”.
+2011—Subsecs. (b)(2)(A), (c)(2)(A), (d)(2)(A). Pub. L. 112–81, § 556(b)(1), substituted “subsection (g)” for “subsection (f)”.
 
-Subsec. (f). Pub. L. 112–81, § 556(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 112–81, § 556(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 112–81, § 556(a)(1), (b)(2), redesignated subsec. (f) as (g) and substituted “subsection (b), (c), or (f)” for “subsection (b) or (c)” in introductory provisions.
+Subsec. (g). Pub. L. 112–81, § 556(a)(1), (b)(2), redesignated subsec. (f) as (g) and substituted “subsection (b), (c), or (f)” for “subsection (b) or (c)” in introductory provisions.
 
-2009—Subsec. (e)(2)(A). Pub. L. 111–84 made technical amendment to directory language of Pub. L. 110–417, § 616(c). See 2008 Amendment note below.
+2009—Subsec. (e)(2)(A). Pub. L. 111–84 made technical amendment to directory language of Pub. L. 110–417, § 616(c). See 2008 Amendment note below.
 
-2008—Subsec. (e)(2)(A). Pub. L. 110–417, § 616(c), as amended by Pub. L. 111–84, substituted “monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “stipend of $100 per month”.
+2008—Subsec. (e)(2)(A). Pub. L. 110–417, § 616(c), as amended by Pub. L. 111–84, substituted “monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “stipend of $100 per month”.
 
 2006—Subsec. (d)(1)(B)(ii). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
-2001—Subsec. (a). Pub. L. 107–107, § 539(a), struck out “specialties critically needed in wartime” after “qualified in health professions” and substituted “training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime” for “training in such specialties” and “health care education and training” for “training in certain health care specialties”.
+2001—Subsec. (a). Pub. L. 107–107, § 539(a), struck out “specialties critically needed in wartime” after “qualified in health professions” and substituted “training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime” for “training in such specialties” and “health care education and training” for “training in certain health care specialties”.
 
-Subsec. (b). Pub. L. 107–107, § 539(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 107–107, § 539(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 107–107, § 539(b)(1), (c)(1), redesignated subsec. (b) as (c) and inserted “Wartime” after “Critical” in heading. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 107–107, § 539(b)(1), (c)(1), redesignated subsec. (b) as (c) and inserted “Wartime” after “Critical” in heading. Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1)(B). Pub. L. 107–107, § 539(c)(2), inserted “or has been appointed as a medical or dental officer in the Reserve of the armed force concerned” before semicolon at end.
+Subsec. (c)(1)(B). Pub. L. 107–107, § 539(c)(2), inserted “or has been appointed as a medical or dental officer in the Reserve of the armed force concerned” before semicolon at end.
 
-Subsec. (c)(2)(A). Pub. L. 107–107, § 539(e), substituted “subsection (f)” for “subsection (e)”.
+Subsec. (c)(2)(A). Pub. L. 107–107, § 539(e), substituted “subsection (f)” for “subsection (e)”.
 
-Subsec. (c)(2)(D). Pub. L. 107–107, § 539(d), substituted “one year in the Ready Reserve for each six months” for “two years in the Ready Reserve for each year”.
+Subsec. (c)(2)(D). Pub. L. 107–107, § 539(d), substituted “one year in the Ready Reserve for each six months” for “two years in the Ready Reserve for each year”.
 
-Subsec. (d). Pub. L. 107–107, § 539(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 107–107, § 539(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(2)(A). Pub. L. 107–107, § 539(e), substituted “subsection (f)” for “subsection (e)”.
+Subsec. (d)(2)(A). Pub. L. 107–107, § 539(e), substituted “subsection (f)” for “subsection (e)”.
 
-Subsec. (d)(2)(D). Pub. L. 107–107, § 539(d), substituted “one year in the Ready Reserve for each six months” for “two years in the Ready Reserve for each year”.
+Subsec. (d)(2)(D). Pub. L. 107–107, § 539(d), substituted “one year in the Ready Reserve for each six months” for “two years in the Ready Reserve for each year”.
 
-Subsecs. (e), (f). Pub. L. 107–107, § 539(b)(1), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
+Subsecs. (e), (f). Pub. L. 107–107, § 539(b)(1), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
-1996—Subsec. (b). Pub. L. 104–106, § 736(1), inserted “and Dentists” in heading.
+1996—Subsec. (b). Pub. L. 104–106, § 736(1), inserted “and Dentists” in heading.
 
-Subsec. (b)(1)(A). Pub. L. 104–106, § 736(2), inserted “or dental school” after “medical school”.
+Subsec. (b)(1)(A). Pub. L. 104–106, § 736(2), inserted “or dental school” after “medical school”.
 
-Subsec. (b)(1)(B). Pub. L. 104–106, § 736(3), inserted “or dental officer” after “medical officer”.
+Subsec. (b)(1)(B). Pub. L. 104–106, § 736(3), inserted “or dental officer” after “medical officer”.
 
-Subsec. (b)(1)(C). Pub. L. 104–106, § 736(4), substituted “physicians or dentists in a medical or dental specialty” for “physicians in a medical specialty”.
+Subsec. (b)(1)(C). Pub. L. 104–106, § 736(4), substituted “physicians or dentists in a medical or dental specialty” for “physicians in a medical specialty”.
 
-Subsec. (b)(2)(B). Pub. L. 104–106, § 736(3), inserted “or dental officer” after “medical officer”.
+Subsec. (b)(2)(B). Pub. L. 104–106, § 736(3), inserted “or dental officer” after “medical officer”.
 
-1994—Pub. L. 103–337, § 1663(c)(2), renumbered section 2128 of this title as this section.
+1994—Pub. L. 103–337, § 1663(c)(2), renumbered section 2128 of this title as this section.
 
-Subsecs. (a), (b)(1), (c)(1), (d)(1). Pub. L. 103–337, § 1663(c)(5), substituted “chapter” for “subchapter”.
+Subsecs. (a), (b)(1), (c)(1), (d)(1). Pub. L. 103–337, § 1663(c)(5), substituted “chapter” for “subchapter”.
 
-Subsec. (f). Pub. L. 103–337, § 1663(c)(2), struck out subsec. (f) which defined “Individual Ready Reserve”.
+Subsec. (f). Pub. L. 103–337, § 1663(c)(2), struck out subsec. (f) which defined “Individual Ready Reserve”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(3) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+Pub. L. 111–84, div. A, title X, § 1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(3) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 **Effective Date of 1994 Amendment**
 
@@ -239,9 +239,9 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **Payments for Period Prior to December 4, 1987**
 
-Pub. L. 100–180, div. A, title VII, § 711(e)(2), Dec. 4, 1987, 101 Stat. 1111, provided that: “An agreement entered into by the Secretary of a military department under section 2128 [now 16201] of title 10, United States Code, as added by subsection (a), may not obligate the United States to make a payment for any period before the date of the enactment of this Act [Dec. 4, 1987].”
+Pub. L. 100–180, div. A, title VII, § 711(e)(2), Dec. 4, 1987, 101 Stat. 1111, provided that: “An agreement entered into by the Secretary of a military department under section 2128 [now 16201] of title 10, United States Code, as added by subsection (a), may not obligate the United States to make a payment for any period before the date of the enactment of this Act [Dec. 4, 1987].”
 
-## § 16202. Reserve service: required active duty for training
+## § 16202. Reserve service: required active duty for training
 
 **(a) Selected Reserve.—** A person who is required under an agreement under section 16201 of this title to serve in the Selected Reserve shall serve not less than 12 days of active duty for training each year during the period of service required by the agreement.
 
@@ -251,15 +251,15 @@ Pub. L. 100–180, div. A, title VII, § 711(e)(2), Dec. 4, 1987, 101 Stat. 11
 
 **(2)** not less than five days of active duty for training each year during the period of service required by the agreement.
 
-(Added Pub. L. 100–180, div. A, title VII, § 711(a)(3), Dec. 4, 1987, 101 Stat. 1111, § 2129; renumbered § 16202 and amended Pub. L. 103–337, div. A, title XVI, § 1663(c)(3), (6), Oct. 5, 1994, 108 Stat. 3007, 3008.)
+(Added Pub. L. 100–180, div. A, title VII, § 711(a)(3), Dec. 4, 1987, 101 Stat. 1111, § 2129; renumbered § 16202 and amended Pub. L. 103–337, div. A, title XVI, § 1663(c)(3), (6), Oct. 5, 1994, 108 Stat. 3007, 3008.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1994—Pub. L. 103–337, § 1663(c)(3), renumbered section 2129 of this title as this section.
+1994—Pub. L. 103–337, § 1663(c)(3), renumbered section 2129 of this title as this section.
 
-Subsecs. (a), (b). Pub. L. 103–337, § 1663(c)(6), substituted “16201” for “2128”.
+Subsecs. (a), (b). Pub. L. 103–337, § 1663(c)(6), substituted “16201” for “2128”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -267,7 +267,7 @@ Subsecs. (a), (b). Pub. L. 103–337, § 1663(c)(6), substituted “16201” f
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 
-## § 16203. Penalties and limitations
+## § 16203. Penalties and limitations
 
 **(a) Failure to Complete Program of Training.—**
 
@@ -281,7 +281,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 **(b) Prohibitions of Duplicate Benefits.—** Financial assistance may not be provided under this section to a member receiving financial assistance under section 2107 of this title.
 
-(Added Pub. L. 100–180, div. A, title VII, § 711(a)(3), Dec. 4, 1987, 101 Stat. 1111, § 2130; renumbered § 16203 and amended Pub. L. 103–337, div. A, title XVI, § 1663(c)(4), Oct. 5, 1994, 108 Stat. 3008; Pub. L. 109–163, div. A, title VI, § 687(c)(13), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(O), Dec. 12, 2017, 131 Stat. 1426.)
+(Added Pub. L. 100–180, div. A, title VII, § 711(a)(3), Dec. 4, 1987, 101 Stat. 1111, § 2130; renumbered § 16203 and amended Pub. L. 103–337, div. A, title XVI, § 1663(c)(4), Oct. 5, 1994, 108 Stat. 3008; Pub. L. 109–163, div. A, title VI, § 687(c)(13), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 115–91, div. A, title VI, § 618(a)(1)(O), Dec. 12, 2017, 131 Stat. 1426.)
 
 **Editorial Notes**
 
@@ -291,9 +291,9 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 2006—Subsec. (a)(1)(B). Pub. L. 109–163 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to repay the United States an amount equal to the total amount paid to such person under the program.”
 
-1994—Pub. L. 103–337, § 1663(c)(4), renumbered section 2130 of this title as this section and substituted “Penalties and limitations” for “Penalties, limitations, and other administrative provisions” as section catchline.
+1994—Pub. L. 103–337, § 1663(c)(4), renumbered section 2130 of this title as this section and substituted “Penalties and limitations” for “Penalties, limitations, and other administrative provisions” as section catchline.
 
-Subsec. (c). Pub. L. 103–337, § 1663(c)(4)(A), struck out subsec. (c) which related to regulations. See section 16204 of this title.
+Subsec. (c). Pub. L. 103–337, § 1663(c)(4)(A), struck out subsec. (c) which related to regulations. See section 16204 of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -305,17 +305,17 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of this title.
 
-## § 16204. Regulations
+## § 16204. Regulations
 
 This chapter shall be administered under regulations prescribed by the Secretary of Defense.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1663(c)(1), Oct. 5, 1994, 108 Stat. 3007.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1663(c)(1), Oct. 5, 1994, 108 Stat. 3007.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Provisions similar to those in this section were contained in section 2130(c) of this title, prior to amendment by Pub. L. 103–337, § 1663(c)(4)(A).
+Provisions similar to those in this section were contained in section 2130(c) of this title, prior to amendment by Pub. L. 103–337, § 1663(c)(4)(A).
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 21—RESTRICTIONS ON OBTAINING AND DISCLOSING CERTAIN INFORMATION
 
-## § 2101. Definitions
+## § 2101. Definitions
 
 In this chapter:
 
@@ -67,13 +67,13 @@ In this chapter:
 
 **(J)** Other information marked as “source selection information” based on a case-by-case determination by the head of the agency, the head’s designee, or the contracting officer that its disclosure would jeopardize the integrity or successful completion of the Federal agency procurement to which the information relates.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3727; Pub. L. 117–81, div. A, title XVII, § 1702(h)(10), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3727; Pub. L. 117–81, div. A, title XVII, § 1702(h)(10), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2101(1) | 41:423(f)(5). | Pub. L. 93–400, § 27(f), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 662. |
+| 2101(1) | 41:423(f)(5). | Pub. L. 93–400, § 27(f), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 662. |
 | 2101(2) | 41:423(f)(1). |  |
 | 2101(3) | 41:423(f)(3). |  |
 | 2101(4) | 41:423(f)(4). |  |
@@ -87,7 +87,7 @@ In this chapter:
 
 2021—Par. (2)(A). Pub. L. 117–81 substituted “section 3701” for “section 2306a(h)”.
 
-## § 2102. Prohibitions on disclosing and obtaining procurement information
+## § 2102. Prohibitions on disclosing and obtaining procurement information
 
 **(a) Prohibition on Disclosing Procurement Information.—**
 
@@ -107,16 +107,16 @@ In this chapter:
 
 **(b) Prohibition on Obtaining Procurement Information.—** Except as provided by law, a person shall not knowingly obtain contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3728.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3728.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2102(a) | 41:423(a). | Pub. L. 93–400, § 27(a), (b), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 659; Pub. L. 107–347, title II, § 209(d)(4), Dec. 17, 2002, 116 Stat. 2930. |
+| 2102(a) | 41:423(a). | Pub. L. 93–400, § 27(a), (b), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 659; Pub. L. 107–347, title II, § 209(d)(4), Dec. 17, 2002, 116 Stat. 2930. |
 | 2102(b) | 41:423(b). |  |
 
-## § 2103. Actions required of procurement officers when contacted regarding non-Federal employment
+## § 2103. Actions required of procurement officers when contacted regarding non-Federal employment
 
 **(a) Actions Required.—** An agency official participating personally and substantially in a Federal agency procurement for a contract in excess of the simplified acquisition threshold who contacts or is contacted by a person that is a bidder or offeror in that Federal agency procurement regarding possible non-Federal employment for that official shall—
 
@@ -140,17 +140,17 @@ In this chapter:
 
 **(2)** A bidder or offeror that engages in employment discussions with an official who is subject to the restrictions of this section, knowing that the official has not complied with paragraph (1) or (2) of subsection (a).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3728.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3728.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2103(a) | 41:423(c)(1). | Pub. L. 93–400, § 27(c), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 660. |
+| 2103(a) | 41:423(c)(1). | Pub. L. 93–400, § 27(c), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 660. |
 | 2103(b) | 41:423(c)(2). |  |
 | 2103(c) | 41:423(c)(3), (4). |  |
 
-## § 2104. Prohibition on former official’s acceptance of compensation from contractor
+## § 2104. Prohibition on former official’s acceptance of compensation from contractor
 
 **(a) Prohibition.—** A former official of a Federal agency may not accept compensation from a contractor as an employee, officer, director, or consultant of the contractor within one year after the official—
 
@@ -178,18 +178,18 @@ In this chapter:
 
 **(2)** A contractor that provides compensation to a former official knowing that the official accepts the compensation in violation of this section.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3729.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3729.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2104(a) | 41:423(d)(1). | Pub. L. 93–400, § 27(d), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 660. |
+| 2104(a) | 41:423(d)(1). | Pub. L. 93–400, § 27(d), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 660. |
 | 2104(b) | 41:423(d)(2). |  |
 | 2104(c) | 41:423(d)(5). |  |
 | 2104(d) | 41:423(d)(3), (4). |  |
 
-## § 2105. Penalties and administrative actions
+## § 2105. Penalties and administrative actions
 
 **(a) Criminal Penalties.—** A person that violates section 2102 of this title to exchange information covered by section 2102 of this title for anything of value or to obtain or give a person a competitive advantage in the award of a Federal agency procurement contract shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
@@ -219,13 +219,13 @@ In this chapter:
 
 **(3) Present responsibility affected by conduct.—** For purposes of a suspension or debarment proceeding initiated pursuant to paragraph (1)(C), engaging in conduct constituting an offense under section 2102, 2103, or 2104 of this title affects the present responsibility of a Federal Government contractor or subcontractor.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3730.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3730.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2105(a) | 41:423(e)(1). | Pub. L. 93–400, § 27(e), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 661. |
+| 2105(a) | 41:423(e)(1). | Pub. L. 93–400, § 27(e), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 661. |
 | 2105(b) | 41:423(e)(2). |  |
 | 2105(c) | 41:423(e)(3). |  |
 
@@ -235,19 +235,19 @@ In subsection (b), the words “liable to the Federal Government for” are subs
 
 In subsection (c)(1), the words “has violated” are substituted for “has engaged in conduct constituting a violation of” to eliminate unnecessary words.
 
-## § 2106. Reporting information believed to constitute evidence of offense
+## § 2106. Reporting information believed to constitute evidence of offense
 
 A person may not file a protest against the award or proposed award of a Federal agency procurement contract alleging a violation of section 2102, 2103, or 2104 of this title, and the Comptroller General may not consider that allegation in deciding a protest, unless the person, no later than 14 days after the person first discovered the possible violation, reported to the Federal agency responsible for the procurement the information that the person believed constitutes evidence of the offense.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3731.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3731.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2106 | 41:423(g). | Pub. L. 93–400, § 27(g), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 663. |
+| 2106 | 41:423(g). | Pub. L. 93–400, § 27(g), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 663. |
 
-## § 2107. Savings provisions
+## § 2107. Savings provisions
 
 This chapter does not—
 
@@ -265,10 +265,10 @@ This chapter does not—
 
 **(7)** limit the applicability of a requirement, sanction, contract penalty, or remedy established under another law or regulation.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3731.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3731.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2107 | 41:423(h). | Pub. L. 93–400, § 27(h), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 663. |
+| 2107 | 41:423(h). | Pub. L. 93–400, § 27(h), as added Pub. L. 100–679, § 6(a), Nov. 17, 1988, 102 Stat. 4063; Pub. L. 101–189, title VIII, § 814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495; Pub. L. 101–510, title XIV, § 1484(*l*)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, § 705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, § 8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, title XLIII, § 4304(a), Feb. 10, 1996, 110 Stat. 663. |

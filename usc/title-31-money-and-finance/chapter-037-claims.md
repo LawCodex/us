@@ -19,21 +19,21 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1996—Pub. L. 104–316, title II, § 202(n)(2), Oct. 19, 1996, 110 Stat. 3844, substituted “Authority to settle claims” for “Authority of the Comptroller General to settle claims” in item 3702.
+1996—Pub. L. 104–316, title II, § 202(n)(2), Oct. 19, 1996, 110 Stat. 3844, substituted “Authority to settle claims” for “Authority of the Comptroller General to settle claims” in item 3702.
 
-Pub. L. 104–134, title III, § 31001(j)(2), (*o*)(2), (r)(2), (t)(2), Apr. 26, 1996, 110 Stat. 1321–365, 1321–371, 1321–373, 1321–375, added items 3720B to 3720E.
+Pub. L. 104–134, title III, § 31001(j)(2), (*o*)(2), (r)(2), (t)(2), Apr. 26, 1996, 110 Stat. 1321–365, 1321–371, 1321–373, 1321–375, added items 3720B to 3720E.
 
-1989—Pub. L. 101–203, § 1(b)(2), Dec. 7, 1989, 103 Stat. 1805, substituted “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation” in item 3724.
+1989—Pub. L. 101–203, § 1(b)(2), Dec. 7, 1989, 103 Stat. 1805, substituted “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation” in item 3724.
 
-1986—Pub. L. 99–562, § 6(b), Oct. 27, 1986, 100 Stat. 3168, added items 3732 and 3733.
+1986—Pub. L. 99–562, § 6(b), Oct. 27, 1986, 100 Stat. 3168, added items 3732 and 3733.
 
-1984—Pub. L. 98–369, div. B, title VI, §§ 2652(a)(2), 2653(a)(2), July 18, 1984, 98 Stat. 1152, 1154, added items 3720 and 3720A.
+1984—Pub. L. 98–369, div. B, title VI, §§ 2652(a)(2), 2653(a)(2), July 18, 1984, 98 Stat. 1152, 1154, added items 3720 and 3720A.
 
-1983—Pub. L. 97–452, § 1(13)(B), (16)(B), Jan. 12, 1983, 96 Stat. 2470, 2474, inserted “and application” in item 3701 and added items 3716–3719.
+1983—Pub. L. 97–452, § 1(13)(B), (16)(B), Jan. 12, 1983, 96 Stat. 2470, 2474, inserted “and application” in item 3701 and added items 3716–3719.
 
 ## SUBCHAPTER I—GENERAL
 
-### § 3701. Definitions and application
+### § 3701. Definitions and application
 
 **(a)** In this chapter—
 
@@ -75,9 +75,9 @@ Pub. L. 104–134, title III, § 31001(j)(2), (*o*)(2), (r)(2), (t)(2), Apr. 2
 
 **(E)** the unpaid share of any non-Federal partner in a program involving a Federal payment and a matching, or cost-sharing, payment by the non-Federal partner,
 
-**(F)** any fines or penalties assessed by an agency; 1
+**(F)** any fines or penalties assessed by an agency; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a comma.
+<sup>1</sup> So in original. The semicolon probably should be a comma.
 
 and
 
@@ -103,7 +103,7 @@ and
 
 **(f)** In section 3711 of this title, “private collection contractor” means private debt collectors under contract with an agency to collect a nontax debt or claim owed the United States. The term includes private debt collectors, collection agencies, and commercial attorneys.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, § 1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, § 5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, § 31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361, 1321–378; Pub. L. 104–316, title I, § 115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 106–169, title II, § 203(b), Dec. 14, 1999, 113 Stat. 1832; Pub. L. 107–107, div. A, title III, § 335, Dec. 28, 2001, 115 Stat. 1060; Pub. L. 116–283, div. A, title IX, § 927(d)(1), Jan. 1, 2021, 134 Stat. 3831.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, § 1(13)(A), Jan. 12, 1983, 96 Stat. 2469; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–387, § 5(b), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, § 31001(c)(2), (d)(1), (3), (z)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–361, 1321–378; Pub. L. 104–316, title I, § 115(g)(2)(A), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 106–169, title II, § 203(b), Dec. 14, 1999, 113 Stat. 1832; Pub. L. 107–107, div. A, title III, § 335, Dec. 28, 2001, 115 Stat. 1060; Pub. L. 116–283, div. A, title IX, § 927(d)(1), Jan. 1, 2021, 134 Stat. 3831.)
 
 **Historical and Revision Notes**
 
@@ -111,8 +111,8 @@ and
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3701(1) | 31:951. | July 19, 1966, Pub. L. 89–508, § 2, 80 Stat. 308. |
-| 3701(2) | 31:240(1), (4). | Aug. 31, 1964, Pub. L. 88–558, § 2(1), (2), (4), 78 Stat. 767; restated Sept. 15, 1965, Pub. L. 89–185, § 3(a), 79 Stat. 789. |
+| 3701(1) | 31:951. | July 19, 1966, Pub. L. 89–508, § 2, 80 Stat. 308. |
+| 3701(2) | 31:240(1), (4). | Aug. 31, 1964, Pub. L. 88–558, § 2(1), (2), (4), 78 Stat. 767; restated Sept. 15, 1965, Pub. L. 89–185, § 3(a), 79 Stat. 789. |
 | 3701(3) | 31:240(2). |  |
 
 Clause (1) is substituted for 31:951(a) for consistency. The text of 31:951(b) is omitted as unnecessary because of laws vesting authority in the commission, board, or other group of individuals and for consistency in the revised title and with other titles of the United States Code.
@@ -123,16 +123,16 @@ In clause (2), the text of 31:240(1) is omitted as unnecessary because of the re
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3701(a)(1) | 31 App.:954(e)(1). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(e); added Oct. 25, 1982, Pub. L. 97–365, § 10(2), 96 Stat. 1755. |
-| 3701(a)(2) | 31 App.:952(e)(1) (last sentence). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(e)(1)(last sentence), (8); added Oct. 25, 1982, Pub. L. 97–365, § 11, 96 Stat. 1755, 1756. |
-| 3701(a)(3) | 31 App.:952(d)(4) (A). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(d)(4); added Oct. 25, 1982, Pub. L. 97–365, § 3, 96 Stat. 1750. |
+| 3701(a)(1) | 31 App.:954(e)(1). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(e); added Oct. 25, 1982, Pub. L. 97–365, § 10(2), 96 Stat. 1755. |
+| 3701(a)(2) | 31 App.:952(e)(1) (last sentence). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(e)(1)(last sentence), (8); added Oct. 25, 1982, Pub. L. 97–365, § 11, 96 Stat. 1755, 1756. |
+| 3701(a)(3) | 31 App.:952(d)(4) (A). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(d)(4); added Oct. 25, 1982, Pub. L. 97–365, § 3, 96 Stat. 1750. |
 | 3701(a)(4), (5) | 31:3701(1), (2). |  |
 | 3701(a)(6) | 31 App.:952(d)(4) (B), (C). |  |
 | 3701(a)(7) | 31:3701(3). |  |
-| 3701(b) | 31 App.:952(g). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(g); added Oct. 25, 1982, Pub. L. 97–365, § 13(b), 96 Stat. 1758. |
+| 3701(b) | 31 App.:952(g). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(g); added Oct. 25, 1982, Pub. L. 97–365, § 13(b), 96 Stat. 1758. |
 | 3701(c) | 31 App.:952(e)(8). |  |
 |  | 31 App.:954(e)(2). |  |
-| 3701(d) | 31 App.:954(note) (related to 31 App.:952(d)–(f), 954, 955). | Oct. 25, 1982, Pub. L. 97–365, § 8(e)(related to §§ 3, 10(2)–12, 13(b)), 96 Stat. 1754. |
+| 3701(d) | 31 App.:954(note) (related to 31 App.:952(d)–(f), 954, 955). | Oct. 25, 1982, Pub. L. 97–365, § 8(e)(related to §§ 3, 10(2)–12, 13(b)), 96 Stat. 1754. |
 
 In subsections (a)(1), (b), and (c), the word “Government” is added for consistency in the revised title and with other titles of the United States Code.
 
@@ -140,7 +140,7 @@ In subsection (a)(3)(B), before clause (i), the word “money” is substituted 
 
 In subsection (a)(6), 31 App.:952(d)(4)(C) is omitted as unnecessary.
 
-In subsection (b), the words “all . . . from fees, duties, leases, rents, royalties, services, sales of real or personal property, overpayments, fines, penalties, damages, interest, taxes, forfeitures, and other sources” are omitted as surplus.
+In subsection (b), the words “all . . . from fees, duties, leases, rents, royalties, services, sales of real or personal property, overpayments, fines, penalties, damages, interest, taxes, forfeitures, and other sources” are omitted as surplus.
 
 In subsection (c), the words “unit of general” are added for consistency in the revised title.
 
@@ -152,7 +152,7 @@ In subsection (d), the word “arising” is omitted as surplus.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(8) and (d)(1), is classified to Title 26, Internal Revenue Code.
 
-The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Sections 204(f) and 1631(b)(4) of the Act are classified to sections 404(f) and 1383(b)(4), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Sections 204(f) and 1631(b)(4) of the Act are classified to sections 404(f) and 1383(b)(4), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The tariff laws of the United States, referred to in subsec. (d)(3), are classified generally to Title 19, Customs Duties.
 
@@ -160,27 +160,27 @@ The tariff laws of the United States, referred to in subsec. (d)(3), are classif
 
 2021—Subsec. (a)(7). Pub. L. 116–283 inserted “Space Force,” after “Marine Corps,”.
 
-2001—Subsec. (b)(1)(B). Pub. L. 107–107 inserted “, including actual and administrative costs related to shoplifting, theft detection, and theft prevention” before comma at end.
+2001—Subsec. (b)(1)(B). Pub. L. 107–107 inserted “, including actual and administrative costs related to shoplifting, theft detection, and theft prevention” before comma at end.
 
 1999—Subsec. (d)(2). Pub. L. 106–169 substituted “sections 204(f) and 1631(b)(4)” for “section 204(f)”.
 
-1996—Subsec. (a)(1). Pub. L. 104–134, § 31001(z)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘administrative offset’ means withholding money payable by the United States Government to, or held by the Government for, a person to satisfy a debt the person owes the Government.”
+1996—Subsec. (a)(1). Pub. L. 104–134, § 31001(z)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “ ‘administrative offset’ means withholding money payable by the United States Government to, or held by the Government for, a person to satisfy a debt the person owes the Government.”
 
-Subsec. (a)(4). Pub. L. 104–134, § 31001(c)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘executive or legislative agency’ means a department, agency, or instrumentality in the executive or legislative branch of the Government.”
+Subsec. (a)(4). Pub. L. 104–134, § 31001(c)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “ ‘executive or legislative agency’ means a department, agency, or instrumentality in the executive or legislative branch of the Government.”
 
-Subsec. (a)(8). Pub. L. 104–134, § 31001(d)(3), added par. (8).
+Subsec. (a)(8). Pub. L. 104–134, § 31001(d)(3), added par. (8).
 
-Subsec. (b). Pub. L. 104–134, § 31001(z)(1)(B), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In subchapter II of this chapter, ‘claim’ includes amounts owing on account of loans insured or guaranteed by the Government and other amounts due the Government.”
+Subsec. (b). Pub. L. 104–134, § 31001(z)(1)(B), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In subchapter II of this chapter, ‘claim’ includes amounts owing on account of loans insured or guaranteed by the Government and other amounts due the Government.”
 
-Subsec. (c). Pub. L. 104–134, § 31001(d)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In sections 3716 and 3717 of this title, ‘person’ does not include an agency of the United States Government, of a State government, or of a unit of general local government.”
+Subsec. (c). Pub. L. 104–134, § 31001(d)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “In sections 3716 and 3717 of this title, ‘person’ does not include an agency of the United States Government, of a State government, or of a unit of general local government.”
 
 Subsec. (d). Pub. L. 104–316 substituted “Sections 3711(e)” for “Sections 3711(f)” in introductory provisions.
 
-Pub. L. 104–134, § 31001(z)(1)(D), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Sections 3711(f) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under, the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the Social Security Act (42 U.S.C. 301 et seq.), except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),, or the tariff laws of the United States.”
+Pub. L. 104–134, § 31001(z)(1)(D), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Sections 3711(f) and 3716–3719 of this title do not apply to a claim or debt under, or to an amount payable under, the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.), the Social Security Act (42 U.S.C. 301 et seq.), except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),, or the tariff laws of the United States.”
 
-Subsecs. (e), (f). Pub. L. 104–134, § 31001(z)(1)(C), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 104–134, § 31001(z)(1)(C), added subsecs. (e) and (f).
 
-1994—Subsec. (d). Pub. L. 103–387 inserted “, except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),” after “the Social Security Act (42 U.S.C. 301 et seq.)”.
+1994—Subsec. (d). Pub. L. 103–387 inserted “, except to the extent provided under section 204(f) of such Act (42 U.S.C. 404(f)),” after “the Social Security Act (42 U.S.C. 301 et seq.)”.
 
 1986—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -190,19 +190,19 @@ Subsecs. (e), (f). Pub. L. 104–134, § 31001(z)(1)(C), added subsecs. (e) an
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–169, title II, § 203(d), Dec. 14, 1999, 113 Stat. 1832, provided that: “The amendments made by this section [amending this section and sections 404 and 1383 of Title 42, The Public Health and Welfare] shall apply to debt outstanding on or after the date of the enactment of this Act [Dec. 14, 1999].”
+Pub. L. 106–169, title II, § 203(d), Dec. 14, 1999, 113 Stat. 1832, provided that: “The amendments made by this section [amending this section and sections 404 and 1383 of Title 42, The Public Health and Welfare] shall apply to debt outstanding on or after the date of the enactment of this Act [Dec. 14, 1999].”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–387, § 5(c), Oct. 22, 1994, 108 Stat. 4077, as amended by Pub. L. 104–134, title III, § 31001(z)(2)(B), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “The amendments made by this section [amending this section and section 404 of Title 42, The Public Health and Welfare] shall apply to collection activities begun on or after the date of the enactment of this Act [Oct. 22, 1994].”
+Pub. L. 103–387, § 5(c), Oct. 22, 1994, 108 Stat. 4077, as amended by Pub. L. 104–134, title III, § 31001(z)(2)(B), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “The amendments made by this section [amending this section and section 404 of Title 42, The Public Health and Welfare] shall apply to collection activities begun on or after the date of the enactment of this Act [Oct. 22, 1994].”
 
 **Short Title of 1996 Amendment**
 
-Pub. L. 104–134, title III, § 31001(a)(1), Apr. 26, 1996, 110 Stat. 1321–358, provided that: “This section [enacting sections 3720B to 3720E of this title, amending this section, sections 3322, 3325, 3331, 3332, 3343, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 3322, 3711, 3716, and 3719 of this title, and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under this section and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title] may be cited as the ‘Debt Collection Improvement Act of 1996’.”
+Pub. L. 104–134, title III, § 31001(a)(1), Apr. 26, 1996, 110 Stat. 1321–358, provided that: “This section [enacting sections 3720B to 3720E of this title, amending this section, sections 3322, 3325, 3331, 3332, 3343, 3711, 3712, 3716 to 3719, 3720A, and 7701 of this title, section 5514 of Title 5, Government Organization and Employees, sections 6050P, 6103, and 6402 of Title 26, Internal Revenue Code, and sections 404 and 664 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 3322, 3711, 3716, and 3719 of this title, and section 2461 of Title 28, Judiciary and Judicial Procedure, amending provisions set out as notes under this section and section 2461 of Title 28, and repealing provisions set out as notes under section 3718 of this title] may be cited as the ‘Debt Collection Improvement Act of 1996’.”
 
 **Short Title of 1986 Amendment**
 
-Pub. L. 99–562, § 1, Oct. 27, 1986, 100 Stat. 3153, provided that: “This Act [enacting sections 3732 and 3733 of this title and amending sections 3729 to 3731 of this title and section 287 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘False Claims Amendments Act of 1986’.”
+Pub. L. 99–562, § 1, Oct. 27, 1986, 100 Stat. 3153, provided that: “This Act [enacting sections 3732 and 3733 of this title and amending sections 3729 to 3731 of this title and section 287 of Title 18, Crimes and Criminal Procedure] may be cited as the ‘False Claims Amendments Act of 1986’.”
 
 **Transfer of Functions**
 
@@ -210,7 +210,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Purposes of 1996 Amendment**
 
-Pub. L. 104–134, title III, § 31001(b), Apr. 26, 1996, 110 Stat. 1321–358, provided that:
+Pub. L. 104–134, title III, § 31001(b), Apr. 26, 1996, 110 Stat. 1321–358, provided that:
 
 > “The purposes of this section [see Short Title of 1996 Amendment note above] are the following:
 
@@ -230,13 +230,13 @@ Pub. L. 104–134, title III, § 31001(b), Apr. 26, 1996, 110 Stat. 1321–358
 
 **United States Senate as Legislative Agency; Regulations Promulgated by Secretary of Senate**
 
-Pub. L. 101–163, title I, § 11, Nov. 21, 1989, 103 Stat. 1046, provided that:
+Pub. L. 101–163, title I, § 11, Nov. 21, 1989, 103 Stat. 1046, provided that:
 
 > **“(a)** For purposes of subchapters I and II of chapter 37 of title 31, United States Code (relating to claims of or against the United States Government), the United States Senate shall be considered to be a legislative agency (as defined in section 3701(a)(4) of such title), and the Secretary of the Senate shall be deemed to be the head of such legislative agency.
 
 > **“(b)** Regulations prescribed by the Secretary of the Senate pursuant to section 3716 of title 31, United States Code, shall not become effective until they are approved by the Senate Committee on Rules and Administration.”
 
-### § 3702. Authority to settle claims
+### § 3702. Authority to settle claims
 
 **(a)** Except as provided in this chapter or another law, all claims of or against the United States Government shall be settled as follows:
 
@@ -280,7 +280,7 @@ Pub. L. 101–163, title I, § 11, Nov. 21, 1989, 103 Stat. 1046, provided tha
 
 **(3)** This subsection does not apply to a claim in excess of $25,000.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, § 1(14), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 100–86, title X, § 1004(b), Aug. 10, 1987, 101 Stat. 659; Pub. L. 104–201, div. A, title VI, § 608, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 104–316, title II, § 202(n)(1), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 105–85, div. A, title X, § 1012, Nov. 18, 1997, 111 Stat. 1874; Pub. L. 106–398, § 1 [[div. A], title VI, § 664], Oct. 30, 2000, 114 Stat. 1654, 1654A–168; Pub. L. 107–314, div. A, title VI, § 635(a), (b), Dec. 2, 2002, 116 Stat. 2574; Pub. L. 109–163, div. A, title X, § 1056(e)(2), Jan. 6, 2006, 119 Stat. 3440.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, § 1(14), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 100–86, title X, § 1004(b), Aug. 10, 1987, 101 Stat. 659; Pub. L. 104–201, div. A, title VI, § 608, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 104–316, title II, § 202(n)(1), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 105–85, div. A, title X, § 1012, Nov. 18, 1997, 111 Stat. 1874; Pub. L. 106–398, § 1 [[div. A], title VI, § 664], Oct. 30, 2000, 114 Stat. 1654, 1654A–168; Pub. L. 107–314, div. A, title VI, § 635(a), (b), Dec. 2, 2002, 116 Stat. 2574; Pub. L. 109–163, div. A, title X, § 1056(e)(2), Jan. 6, 2006, 119 Stat. 3440.)
 
 **Historical and Revision Notes**
 
@@ -288,16 +288,16 @@ Pub. L. 101–163, title I, § 11, Nov. 21, 1989, 103 Stat. 1046, provided tha
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3702(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
-|  | 31:71(related to claims). | R.S. § 236(related to claims); June 10, 1921, ch. 18, § 305, 42 Stat. 24. |
-|  | 31:86. | July 31, 1894, ch. 174, § 14, 28 Stat. 210. |
-| 3702(b)(1) | 31:71a(1)(less proviso). | Oct. 9, 1940, ch. 788, 54 Stat. 1061; Jan. 2, 1975, Pub. L. 93–604, § 801, 88 Stat. 1965. |
+| 3702(a) | 31:44(1st sentence). | June 10, 1921, ch. 18, § 304(1st par. 1st sentence), 42 Stat. 24. |
+|  | 31:71(related to claims). | R.S. § 236(related to claims); June 10, 1921, ch. 18, § 305, 42 Stat. 24. |
+|  | 31:86. | July 31, 1894, ch. 174, § 14, 28 Stat. 210. |
+| 3702(b)(1) | 31:71a(1)(less proviso). | Oct. 9, 1940, ch. 788, 54 Stat. 1061; Jan. 2, 1975, Pub. L. 93–604, § 801, 88 Stat. 1965. |
 |  | 31:237(1)(less proviso). |  |
 | 3702(b)(2) | 31:71a(1)(proviso). |  |
 |  | 31:237(1)(proviso). |  |
 | 3702(b)(3) | 31:71a(2). |  |
 |  | 31:237(2). |  |
-| 3702(c) | 31:122. | June 22, 1926, ch. 650, § 2, 44 Stat. 761; Aug. 28, 1957, Pub. L. 85–183, § 3(a), 71 Stat. 465. |
+| 3702(c) | 31:122. | June 22, 1926, ch. 650, § 2, 44 Stat. 761; Aug. 28, 1957, Pub. L. 85–183, § 3(a), 71 Stat. 465. |
 | 3702(d) | 31:236. | Apr. 10, 1928, ch. 334, 45 Stat. 413. |
 
 In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
@@ -312,7 +312,7 @@ In subsection (b)(3), the words “to the claimant” are omitted as surplus. Th
 
 In subsection (c), the text of 31:122(1st sentence words before 2d comma and last sentence) is omitted as executed. The words “Secretary of the Treasury” are substituted for “Treasury Department” for consistency. The word “Secretary” is substituted for “Treasurer of the United States” because of Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
 
-In subsection (d), the words “report . . . on” are substituted for “submit the same . . . by a special report . . . the material facts” to eliminate unnecessary words. The words “or demand” are omitted as surplus. The word “Government” is substituted for “United States”, and the words “presented under this section” are substituted for “filed in the General Accounting Office” for consistency. The words “lawfully”, “the use of”, and “thereon” are omitted as surplus.
+In subsection (d), the words “report . . . on” are substituted for “submit the same . . . by a special report . . . the material facts” to eliminate unnecessary words. The words “or demand” are omitted as surplus. The word “Government” is substituted for “United States”, and the words “presented under this section” are substituted for “filed in the General Accounting Office” for consistency. The words “lawfully”, “the use of”, and “thereon” are omitted as surplus.
 
 **1983 Act**
 
@@ -326,33 +326,33 @@ The effective date of this subsection, referred to in subsec. (c)(1), probably m
 
 **Amendments**
 
-2006—Subsec. (e)(1). Pub. L. 109–163 amended directory language of Pub. L. 107–314, § 635(a). See 2002 Amendment note below.
+2006—Subsec. (e)(1). Pub. L. 109–163 amended directory language of Pub. L. 107–314, § 635(a). See 2002 Amendment note below.
 
-2002—Subsec. (e)(1). Pub. L. 107–314, § 635(b)(1), substituted “The Secretary of Defense” for “Upon the request of the Secretary concerned (as defined in section 101 of title 37, United States Code), the Secretary of Defense”, struck out “and, subject to paragraph (2), settle the claim” before period at end of first sentence, and inserted at end “In the case of a claim by or with respect to a member of the uniformed services who is not under the jurisdiction of the Secretary of a military department, such a waiver may be made only upon the request of the Secretary concerned (as defined in section 101 of title 37).”
+2002—Subsec. (e)(1). Pub. L. 107–314, § 635(b)(1), substituted “The Secretary of Defense” for “Upon the request of the Secretary concerned (as defined in section 101 of title 37, United States Code), the Secretary of Defense”, struck out “and, subject to paragraph (2), settle the claim” before period at end of first sentence, and inserted at end “In the case of a claim by or with respect to a member of the uniformed services who is not under the jurisdiction of the Secretary of a military department, such a waiver may be made only upon the request of the Secretary concerned (as defined in section 101 of title 37).”
 
-Pub. L. 107–314, § 635(a), as amended by Pub. L. 109–163, substituted “a claim referred to in subsection (a)(1)(A)” for “a claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10”.
+Pub. L. 107–314, § 635(a), as amended by Pub. L. 109–163, substituted “a claim referred to in subsection (a)(1)(A)” for “a claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10”.
 
-Subsec. (e)(2). Pub. L. 107–314, § 635(b)(2), substituted “under subsection (a)(1)(A)” for “under paragraph (1)” and inserted before period at end “, except that in the case of a claim for retired pay or survivor benefits, if the obligation claimed would have been paid from a trust fund if timely paid, the payment of the claim shall be made from that trust fund”.
+Subsec. (e)(2). Pub. L. 107–314, § 635(b)(2), substituted “under subsection (a)(1)(A)” for “under paragraph (1)” and inserted before period at end “, except that in the case of a claim for retired pay or survivor benefits, if the obligation claimed would have been paid from a trust fund if timely paid, the payment of the claim shall be made from that trust fund”.
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–398, § 1 [[div. A], title VI, § 664(a)], inserted “payments for unused accrued leave,” after “transportation,”.
+2000—Subsec. (a)(1)(A). Pub. L. 106–398, § 1 [[div. A], title VI, § 664(a)], inserted “payments for unused accrued leave,” after “transportation,”.
 
-Subsec. (e)(1). Pub. L. 106–398, § 1 [[div. A], title VI, § 664(b)], substituted “claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10” for “claim for pay or allowances provided under title 37”.
+Subsec. (e)(1). Pub. L. 106–398, § 1 [[div. A], title VI, § 664(b)], substituted “claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10” for “claim for pay or allowances provided under title 37”.
 
-1997—Subsec. (e)(1). Pub. L. 105–85, § 1012(1), substituted “Secretary of Defense” for “Comptroller General”.
+1997—Subsec. (e)(1). Pub. L. 105–85, § 1012(1), substituted “Secretary of Defense” for “Comptroller General”.
 
-Subsec. (e)(2). Pub. L. 105–85, § 1012(2), added par. (2) and struck out former par. (2) which read as follows: “Payment of a claim settled under paragraph (1) shall be subject to the availability of appropriations for payment of that particular claim.”
+Subsec. (e)(2). Pub. L. 105–85, § 1012(2), added par. (2) and struck out former par. (2) which read as follows: “Payment of a claim settled under paragraph (1) shall be subject to the availability of appropriations for payment of that particular claim.”
 
-1996—Pub. L. 104–316, § 202(n)(1)(A), struck out “of the Comptroller General” after “Authority” in section catchline.
+1996—Pub. L. 104–316, § 202(n)(1)(A), struck out “of the Comptroller General” after “Authority” in section catchline.
 
-Subsec. (a). Pub. L. 104–316, § 202(n)(1)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as provided in this chapter or another law, the Comptroller General shall settle all claims of or against the United States Government. A claim that was not administratively examined before submission to the Comptroller General shall be examined by 2 officers or employees of the General Accounting Office independently of each other.”
+Subsec. (a). Pub. L. 104–316, § 202(n)(1)(B), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Except as provided in this chapter or another law, the Comptroller General shall settle all claims of or against the United States Government. A claim that was not administratively examined before submission to the Comptroller General shall be examined by 2 officers or employees of the General Accounting Office independently of each other.”
 
-Subsec. (b)(1). Pub. L. 104–316, § 202(n)(1)(C), in introductory provisions substituted “The claim must be received by the official responsible under subsection (a) for settling the claim or by the agency that conducts the activity from which the claim arises within 6 years after the claim accrues except—” for “The claim must be received by the Comptroller General within 6 years after the claim accrues except—”.
+Subsec. (b)(1). Pub. L. 104–316, § 202(n)(1)(C), in introductory provisions substituted “The claim must be received by the official responsible under subsection (a) for settling the claim or by the agency that conducts the activity from which the claim arises within 6 years after the claim accrues except—” for “The claim must be received by the Comptroller General within 6 years after the claim accrues except—”.
 
-Subsec. (b)(2). Pub. L. 104–316, § 202(n)(1)(D), substituted “received” for “presented to the Comptroller General” and “in paragraph” for “in clause”.
+Subsec. (b)(2). Pub. L. 104–316, § 202(n)(1)(D), substituted “received” for “presented to the Comptroller General” and “in paragraph” for “in clause”.
 
-Subsec. (b)(3). Pub. L. 104–316, § 202(n)(1)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Comptroller General shall return a claim not received in the time required under this subsection with a copy of this subsection and no further communication is required.”
+Subsec. (b)(3). Pub. L. 104–316, § 202(n)(1)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Comptroller General shall return a claim not received in the time required under this subsection with a copy of this subsection and no further communication is required.”
 
-Subsec. (d). Pub. L. 104–316, § 202(n)(1)(F), substituted “official responsible under subsection (a) for settling the claim” for “Comptroller General” before “shall report to Congress” and “official” for “Comptroller General” before “believes” and before period at end.
+Subsec. (d). Pub. L. 104–316, § 202(n)(1)(F), substituted “official responsible under subsection (a) for settling the claim” for “Comptroller General” before “shall report to Congress” and “official” for “Comptroller General” before “believes” and before period at end.
 
 Subsec. (e). Pub. L. 104–201 added subsec. (e).
 
@@ -364,11 +364,11 @@ Subsec. (e). Pub. L. 104–201 added subsec. (e).
 
 **Effective Date of 2006 Amendment**
 
-Pub. L. 109–163, div. A, title X, § 1056(e)(2), Jan. 6, 2006, 119 Stat. 3440, as amended by Pub. L. 111–383, div. A, title X, § 1075(h)(3), Jan. 7, 2011, 124 Stat. 4377, provided that the amendment by section 1056(e)(2) is effective as of Dec. 2, 2002, and as if included in Pub. L. 107–314 as enacted.
+Pub. L. 109–163, div. A, title X, § 1056(e)(2), Jan. 6, 2006, 119 Stat. 3440, as amended by Pub. L. 111–383, div. A, title X, § 1075(h)(3), Jan. 7, 2011, 124 Stat. 4377, provided that the amendment by section 1056(e)(2) is effective as of Dec. 2, 2002, and as if included in Pub. L. 107–314 as enacted.
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–314, div. A, title VI, § 635(c), Dec. 2, 2002, 116 Stat. 2574, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to claims against the United States presented to the Secretary of Defense under section 3702 of title 31, United States Code, on or after the date of the enactment of this Act [Dec. 2, 2002].”
+Pub. L. 107–314, div. A, title VI, § 635(c), Dec. 2, 2002, 116 Stat. 2574, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to claims against the United States presented to the Secretary of Defense under section 3702 of title 31, United States Code, on or after the date of the enactment of this Act [Dec. 2, 2002].”
 
 **Effective Date of 1987 Amendment**
 
@@ -384,7 +384,7 @@ For provision permitting Secretary of the Treasury to prescribe rules, regulatio
 
 ## SUBCHAPTER II—CLAIMS OF THE UNITED STATES GOVERNMENT
 
-### § 3711. Collection and compromise
+### § 3711. Collection and compromise
 
 **(a)** The head of an executive, judicial, or legislative agency—
 
@@ -408,7 +408,7 @@ For provision permitting Secretary of the Treasury to prescribe rules, regulatio
 
 **(2)** standards that the Attorney General, the Secretary of the Treasury, may prescribe.1
 
-<sup>1</sup>  So in original. Probably should be “Attorney General and the Secretary of the Treasury may prescribe jointly.”
+<sup>1</sup> So in original. Probably should be “Attorney General and the Secretary of the Treasury may prescribe jointly.”
 
 **(e)**
 
@@ -514,9 +514,9 @@ For provision permitting Secretary of the Treasury to prescribe rules, regulatio
 
 **(6)** Any agency operating a debt collection center to which nontax claims are referred or transferred under this subsection may charge a fee sufficient to cover the full cost of implementing this subsection. The agency transferring or referring the nontax claim shall be charged the fee, and the agency charging the fee shall collect such fee by retaining the amount of the fee from amounts collected pursuant to this subsection. Agencies may agree to pay through a different method, or to fund an activity from another account or from revenue received from the procedure described under section 3720C of this title. Amounts charged under this subsection concerning delinquent claims may be considered as costs pursuant to section 3717(e) of this title.
 
-**(7)** Notwithstanding any other law concerning the depositing and collection of Federal payments, including section 3302(b) of this title, agencies collecting fees may retain the fees from amounts collected. Any fee charged pursuant to this subsection shall be deposited into an account to be determined by the executive department or agency operating the debt collection center charging the fee (in this subsection referred to in this section 2
+**(7)** Notwithstanding any other law concerning the depositing and collection of Federal payments, including section 3302(b) of this title, agencies collecting fees may retain the fees from amounts collected. Any fee charged pursuant to this subsection shall be deposited into an account to be determined by the executive department or agency operating the debt collection center charging the fee (in this subsection referred to in this section 2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 as the “Account”). Amounts deposited in the Account shall be available until expended to cover costs associated with the implementation and operation of Governmentwide debt collection activities. Costs properly chargeable to the Account include—
 
@@ -594,7 +594,7 @@ as the “Account”). Amounts deposited in the Account shall be available until
 
 **(5)** This subsection is not intended to limit existing statutory authority of agencies to sell loans, debts, or other assets.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, § 1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, § 1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, § 8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, § 4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, § 5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, § 1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, § 31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, § 1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, § 115(g)(1), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 109–241, title IX, § 902(b)(4), July 11, 2006, 120 Stat. 566; Pub. L. 110–389, title VIII, § 801(a), Oct. 10, 2008, 122 Stat. 4185; Pub. L. 116–283, div. A, title IX, § 927(d)(2), Jan. 1, 2021, 134 Stat. 3831.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 97–452, § 1(15), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 98–216, § 1(5), Feb. 14, 1984, 98 Stat. 4; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–552, § 8(b), Nov. 15, 1990, 104 Stat. 2746; Pub. L. 102–365, § 4(a)(4), Sept. 3, 1992, 106 Stat. 973; Pub. L. 103–272, § 5(i)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 104–106, div. A, title X, § 1089, Feb. 10, 1996, 110 Stat. 459; Pub. L. 104–134, title III, § 31001(c)(1), (g)(1)(C), (k), (m)(1), (p), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–365, 1321–366, 1321–371; Pub. L. 104–201, div. A, title X, § 1010, Sept. 23, 1996, 110 Stat. 2635; Pub. L. 104–316, title I, § 115(g)(1), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 109–241, title IX, § 902(b)(4), July 11, 2006, 120 Stat. 566; Pub. L. 110–389, title VIII, § 801(a), Oct. 10, 2008, 122 Stat. 4185; Pub. L. 116–283, div. A, title IX, § 927(d)(2), Jan. 1, 2021, 134 Stat. 3831.)
 
 **Historical and Revision Notes**
 
@@ -602,10 +602,10 @@ as the “Account”). Amounts deposited in the Account shall be available until
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3711(a) | 31:952(a)(less words between 1st and 2d commas), (b)(1st sentence less words between 6th and 7th commas). | July 19, 1966, Pub. L. 89–508, § 3, 80 Stat. 309. |
+| 3711(a) | 31:952(a)(less words between 1st and 2d commas), (b)(1st sentence less words between 6th and 7th commas). | July 19, 1966, Pub. L. 89–508, § 3, 80 Stat. 309. |
 | 3711(b) | 31:952(b)(2d sentence, last sentence words after semicolon). |  |
 | 3711(c)(1) | 31:952(b)(last sentence words before semicolon). |  |
-| 3711(c)(2) | 31:952(note). | July 8, 1976, Pub. L. 94–348, § 3(e), 90 Stat. 818. |
+| 3711(c)(2) | 31:952(note). | July 8, 1976, Pub. L. 94–348, § 3(e), 90 Stat. 818. |
 | 3711(d) | 31:952(c). |  |
 | 3711(e) | 31:952(a)(words between 1st and 2d commas), (b)(1st sentence words between 6th and 7th commas). |  |
 
@@ -615,13 +615,13 @@ In subsection (a), the word “Government” is added for consistency. In clause
 
 In subsections (b) and (d), the word “official” is substituted for “officer” for consistency.
 
-In subsection (b), the words “Comptroller General” are substituted for “General Accounting Office” for consistency. The words “has the same authority that the head of the agency has” are substituted for “have the foregoing authority” for clarity. The words “by another agency” are omitted as surplus. The words “only . . . may compromise” are substituted for “nor shall the head of an agency, other than . . . have authority to compromise” to eliminate unnecessary words.
+In subsection (b), the words “Comptroller General” are substituted for “General Accounting Office” for consistency. The words “has the same authority that the head of the agency has” are substituted for “have the foregoing authority” for clarity. The words “by another agency” are omitted as surplus. The words “only . . . may compromise” are substituted for “nor shall the head of an agency, other than . . . have authority to compromise” to eliminate unnecessary words.
 
-In subsection (c)(1), the words “that appears to be fraudulent, false, or misrepresented by” are substituted for “as to which there is an indication of fraud, the presentation of a false claim, or misrepresentation on the part of” to eliminate unnecessary words. The words “the debtor or . . . other” and “in whole or in part” are omitted as surplus.
+In subsection (c)(1), the words “that appears to be fraudulent, false, or misrepresented by” are substituted for “as to which there is an indication of fraud, the presentation of a false claim, or misrepresentation on the part of” to eliminate unnecessary words. The words “the debtor or . . . other” and “in whole or in part” are omitted as surplus.
 
 In subsection (c)(2), the words “Notwithstanding any provision of the Federal Claims Collection Act of 1966” are omitted as unnecessary. The words “arising” and “an amount” are omitted as surplus.
 
-In subsection (d), the words “effected . . . authority conferred by”, “on the debtor and on all officials, agencies, and courts of the United States”, “destroyed”, and “with a person primarily responsible” are omitted as surplus.
+In subsection (d), the words “effected . . . authority conferred by”, “on the debtor and on all officials, agencies, and courts of the United States”, “destroyed”, and “with a person primarily responsible” are omitted as surplus.
 
 In subsection (e), the words “in conformity with” are omitted as surplus.
 
@@ -629,7 +629,7 @@ In subsection (e), the words “in conformity with” are omitted as surplus.
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3711(f)(1) | 31 App.:952(d)(1). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(d)(1)–(3); added Oct. 25, 1982, Pub. L. 97–365, § 3, 96 Stat. 1749. |
+| 3711(f)(1) | 31 App.:952(d)(1). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(d)(1)–(3); added Oct. 25, 1982, Pub. L. 97–365, § 3, 96 Stat. 1749. |
 | 3711(f)(2) | 31 App.:952(d)(2). |  |
 | 3711(f)(3) | 31 App.:952(d)(3). |  |
 
@@ -655,49 +655,49 @@ The date of enactment of the Debt Collection Improvement Act of 1996, referred t
 
 2006—Subsec. (f)(2). Pub. L. 109–241 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
 
-1996—Subsec. (a). Pub. L. 104–134, § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed in introductory provisions by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+1996—Subsec. (a). Pub. L. 104–134, § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed in introductory provisions by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-Subsec. (a)(2). Pub. L. 104–316, § 115(g)(1)(A), inserted “, except that only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official” before “; and” at end.
+Subsec. (a)(2). Pub. L. 104–316, § 115(g)(1)(A), inserted “, except that only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official” before “; and” at end.
 
-Subsec. (b). Pub. L. 104–316, § 115(g)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Comptroller General has the same authority that the head of the agency has under subsection (a) of this section when the claim is referred to the Comptroller General for further collection action. Only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official.”
+Subsec. (b). Pub. L. 104–316, § 115(g)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Comptroller General has the same authority that the head of the agency has under subsection (a) of this section when the claim is referred to the Comptroller General for further collection action. Only the Comptroller General may compromise a claim arising out of an exception the Comptroller General makes in the account of an accountable official.”
 
-Subsec. (c). Pub. L. 104–316, § 115(g)(1)(C), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 104–316, § 115(g)(1)(C), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (c)(1). Pub. L. 104–134, § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 104–134, § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 104–316, § 115(g)(1)(C), (D), redesignated subsec. (e) as (d) and in par. (2) struck out “and the Comptroller General” before “may prescribe” and “jointly” after “prescribe”. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 104–316, § 115(g)(1)(C), (D), redesignated subsec. (e) as (d) and in par. (2) struck out “and the Comptroller General” before “may prescribe” and “jointly” after “prescribe”. Former subsec. (d) redesignated (c).
 
-Subsec. (e). Pub. L. 104–316, § 115(g)(1)(C), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 104–316, § 115(g)(1)(C), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 104–134, § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed in introductory provisions by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+Pub. L. 104–134, § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed in introductory provisions by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-Subsec. (e)(2). Pub. L. 104–134, § 31001(g)(1)(C), inserted “, the Secretary of the Treasury,” after “Attorney General”.
+Subsec. (e)(2). Pub. L. 104–134, § 31001(g)(1)(C), inserted “, the Secretary of the Treasury,” after “Attorney General”.
 
-Subsec. (f). Pub. L. 104–316, § 115(g)(1)(C), redesignated the subsec. (g), relating to authority to suspend or terminate collection actions against deceased members, as (f). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 104–316, § 115(g)(1)(C), redesignated the subsec. (g), relating to authority to suspend or terminate collection actions against deceased members, as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(1). Pub. L. 104–134, § 31001(c)(1), (k)(1), (2), in introductory provisions substituted “the head of an executive, judicial, or legislative agency shall” for “the head of an executive or legislative agency may” and “a person” for “an individual”.
+Subsec. (f)(1). Pub. L. 104–134, § 31001(c)(1), (k)(1), (2), in introductory provisions substituted “the head of an executive, judicial, or legislative agency shall” for “the head of an executive or legislative agency may” and “a person” for “an individual”.
 
-Subsec. (f)(1)(C), (D), (F). Pub. L. 104–134, § 31001(k)(3), substituted “the person” for “the individual” wherever appearing.
+Subsec. (f)(1)(C), (D), (F). Pub. L. 104–134, § 31001(k)(3), substituted “the person” for “the individual” wherever appearing.
 
-Subsec. (f)(2). Pub. L. 104–134, § 31001(c)(1), (k)(2), (3), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency”, “a person” for “an individual”, and “the person” for “the individual”.
+Subsec. (f)(2). Pub. L. 104–134, § 31001(c)(1), (k)(2), (3), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency”, “a person” for “an individual”, and “the person” for “the individual”.
 
-Subsec. (f)(3). Pub. L. 104–134, § 31001(c)(1), (k)(2), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” and “a person” for “an individual”.
+Subsec. (f)(3). Pub. L. 104–134, § 31001(c)(1), (k)(2), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” and “a person” for “an individual”.
 
-Subsec. (f)(4), (5). Pub. L. 104–134, § 31001(k)(4), added pars. (4) and (5).
+Subsec. (f)(4), (5). Pub. L. 104–134, § 31001(k)(4), added pars. (4) and (5).
 
-Subsec. (g). Pub. L. 104–316, § 115(g)(1)(C), redesignated the subsec. (g), relating to authority to suspend or terminate collection actions against deceased members, as (f).
+Subsec. (g). Pub. L. 104–316, § 115(g)(1)(C), redesignated the subsec. (g), relating to authority to suspend or terminate collection actions against deceased members, as (f).
 
-Pub. L. 104–134, § 31001(m)(1), added subsec. (g) relating to transfer of debt or claim to Secretary of the Treasury in case of delinquency.
+Pub. L. 104–134, § 31001(m)(1), added subsec. (g) relating to transfer of debt or claim to Secretary of the Treasury in case of delinquency.
 
 Pub. L. 104–106 added subsec. (g) relating to authority to suspend or terminate collection actions against deceased members.
 
-Subsec. (g)(1). Pub. L. 104–201, § 1010(1), substituted “Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy” for “or Marine Corps”.
+Subsec. (g)(1). Pub. L. 104–201, § 1010(1), substituted “Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy” for “or Marine Corps”.
 
-Subsec. (g)(2), (3). Pub. L. 104–201, § 1010(2), (3), added par. (2) and redesignated former par. (2) as (3).
+Subsec. (g)(2), (3). Pub. L. 104–201, § 1010(2), (3), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (h). Pub. L. 104–134, § 31001(m)(1), added subsec. (h).
+Subsec. (h). Pub. L. 104–134, § 31001(m)(1), added subsec. (h).
 
-Subsec. (i). Pub. L. 104–134, § 31001(p), added subsec. (i).
+Subsec. (i). Pub. L. 104–134, § 31001(p), added subsec. (i).
 
 1994—Subsec. (c)(2). Pub. L. 103–272 substituted “section 21302 of title 49 for a violation of chapter 203, 205, or 207 of title 49 or a regulation or requirement prescribed or order issued under any of those chapters” for “section 6 of the Act of March 2, 1893 (45 U.S.C. 6), section 4 of the Act of April 14, 1910 (45 U.S.C. 13), section 9 of the Act of February 17, 1911 (45 U.S.C. 34), and section 25(h) of the Interstate Commerce Act (49 App. U.S.C. 26(h))”.
 
@@ -715,19 +715,19 @@ Subsec. (i). Pub. L. 104–134, § 31001(p), added subsec. (i).
 
 **Savings Provision**
 
-Pub. L. 104–134, title III, § 31001(n), Apr. 26, 1996, 110 Stat. 1321–369, provided that: “Effective October 1, 1995, section 11 of the Administrative Dispute Resolution Act (Public Law 101–552, [former] 5 U.S.C. 571 note) shall not apply to the amendment made by section 8(b) of such Act [amending this section].”
+Pub. L. 104–134, title III, § 31001(n), Apr. 26, 1996, 110 Stat. 1321–369, provided that: “Effective October 1, 1995, section 11 of the Administrative Dispute Resolution Act (Public Law 101–552, [former] 5 U.S.C. 571 note) shall not apply to the amendment made by section 8(b) of such Act [amending this section].”
 
 **Guidelines**
 
-Pub. L. 104–134, title III, § 31001(aa)(1), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “The Secretary of the Treasury, in consultation with concerned Federal agencies, may establish guidelines, including information on outstanding debt, to assist agencies in the performance and monitoring of debt collection activities.”
+Pub. L. 104–134, title III, § 31001(aa)(1), Apr. 26, 1996, 110 Stat. 1321–379, provided that: “The Secretary of the Treasury, in consultation with concerned Federal agencies, may establish guidelines, including information on outstanding debt, to assist agencies in the performance and monitoring of debt collection activities.”
 
 **Report**
 
-Pub. L. 104–134, title III, § 31001(aa)(2), Apr. 26, 1996, 110 Stat. 1321–379, required the Secretary of the Treasury, not later than 3 years after Apr. 26, 1996, to report to Congress on collection services provided by Federal agencies or entities collecting debt on behalf of other Federal agencies under the authorities contained in subsec. (g) of this section.
+Pub. L. 104–134, title III, § 31001(aa)(2), Apr. 26, 1996, 110 Stat. 1321–379, required the Secretary of the Treasury, not later than 3 years after Apr. 26, 1996, to report to Congress on collection services provided by Federal agencies or entities collecting debt on behalf of other Federal agencies under the authorities contained in subsec. (g) of this section.
 
 **Standards and Policies for Compromising, Writing-Down, Forgiving, or Discharging Indebtedness**
 
-Pub. L. 104–134, title III, § 31001(bb), Apr. 26, 1996, 110 Stat. 1321–380, provided that:
+Pub. L. 104–134, title III, § 31001(bb), Apr. 26, 1996, 110 Stat. 1321–380, provided that:
 
 > “The Director of the Office of Management and Budget shall—
 
@@ -745,9 +745,9 @@ Pub. L. 104–134, title III, § 31001(bb), Apr. 26, 1996, 110 Stat. 1321–38
 
 **Existing Agency Authority To Litigate, Settle, Compromise, or Close Claims**
 
-Pub. L. 89–508, § 4, July 19, 1966, 80 Stat. 309, provided that: “Nothing in this Act [now this section] shall increase or diminish the existing authority of the head of an agency to litigate claims, or diminish his existing authority to settle, compromise, or close claims.”
+Pub. L. 89–508, § 4, July 19, 1966, 80 Stat. 309, provided that: “Nothing in this Act [now this section] shall increase or diminish the existing authority of the head of an agency to litigate claims, or diminish his existing authority to settle, compromise, or close claims.”
 
-### § 3712. Time limitations for presenting certain claims of the Government
+### § 3712. Time limitations for presenting certain claims of the Government
 
 **(a) Claims Over Forged or Unauthorized Endorsements.—**
 
@@ -777,14 +777,14 @@ Pub. L. 89–508, § 4, July 19, 1966, 80 Stat. 309, provided that: “Nothing
 
 **(2) Attempt to collect required.—** Prior to directing offset under subsection (a)(1), the Secretary shall first attempt to collect amounts owed in the manner provided by sections 3711 and 3716.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 100–86, title X, § 1004(a), Aug. 10, 1987, 101 Stat. 659; Pub. L. 104–134, title III, § 31001(d)(4), Apr. 26, 1996, 110 Stat. 1321–362.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 971; Pub. L. 100–86, title X, § 1004(a), Aug. 10, 1987, 101 Stat. 659; Pub. L. 104–134, title III, § 31001(d)(4), Apr. 26, 1996, 110 Stat. 1321–362.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3712(a) | 31:129. | Mar. 6, 1946, ch. 48, § 1, 60 Stat. 31; Aug. 28, 1957, Pub. L. 85–183, § 3(b), 71 Stat. 465; Aug. 12, 1970, Pub. L. 91–375, § 6(*l*)(2), 84 Stat. 782. |
-| 3712(b) | 31:131. | Mar. 6, 1946, ch. 48, §§ 2, 3, 60 Stat. 31. |
+| 3712(a) | 31:129. | Mar. 6, 1946, ch. 48, § 1, 60 Stat. 31; Aug. 28, 1957, Pub. L. 85–183, § 3(b), 71 Stat. 465; Aug. 12, 1970, Pub. L. 91–375, § 6(*l*)(2), 84 Stat. 782. |
+| 3712(b) | 31:131. | Mar. 6, 1946, ch. 48, §§ 2, 3, 60 Stat. 31. |
 | 3712(c) | 31:130. |  |
 | 3712(d) | 31:237a. | Aug. 28, 1954, ch. 1035, 68 Stat. 890. |
 
@@ -794,9 +794,9 @@ In subsection (a), the words “civil action” are substituted for “proceedin
 
 In subsection (b), the words “at any time” in 31:131 are omitted as surplus. The words “the claim is discovered” are substituted for “the United States or any agency or official of the United States who is entitled to bring the same shall discover that the United States or any agency or official of the United States had such cause of action” to eliminate unnecessary words. The words “who is liable to any of the actions mentioned in sections 129 to 131 of this title” are omitted as surplus. The words “officer or employee of the Government” are substituted for “United States or any agency or official of the United States” before “entitled” for consistency in the revised title and with other titles of the Code. The words “although such action would be otherwise barred by the provisions of sections 129 to 131 of this title” are omitted as surplus.
 
-In subsection (c), the words “of the United States” and “allow . . . in” are omitted as surplus. The word “appropriate” is added for clarity. The word “Treasury” is substituted for “Treasurer of the United States” before “for the amount” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The words “cannot be brought because notice was not given within the time required under this subsection” are substituted for “shall have been barred pursuant to the provisions of sections 129 to 131 of this title upon a showing that the barring of such proceedings . . . required by the provision of section 129 of this title” for clarity. The word “Secretary” is substituted for “Treasurer of the United States” before “in failing” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974.
+In subsection (c), the words “of the United States” and “allow . . . in” are omitted as surplus. The word “appropriate” is added for clarity. The word “Treasury” is substituted for “Treasurer of the United States” before “for the amount” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The words “cannot be brought because notice was not given within the time required under this subsection” are substituted for “shall have been barred pursuant to the provisions of sections 129 to 131 of this title upon a showing that the barring of such proceedings . . . required by the provision of section 129 of this title” for clarity. The word “Secretary” is substituted for “Treasurer of the United States” before “in failing” because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974.
 
-In subsection (d), the words “arising from dual pay” are substituted for “arising out of the receipt by such person of compensation . . . in violation of any provision of law prohibiting or restricting the receipt of dual compensation” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code. The words “including Government owned or controlled corporations” are omitted as unnecessary. The words “or from the government of the District of Columbia” are omitted because of sections 102(a), 448, 449, and 761 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 777, 801, 836).
+In subsection (d), the words “arising from dual pay” are substituted for “arising out of the receipt by such person of compensation . . . in violation of any provision of law prohibiting or restricting the receipt of dual compensation” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code. The words “including Government owned or controlled corporations” are omitted as unnecessary. The words “or from the government of the District of Columbia” are omitted because of sections 102(a), 448, 449, and 761 of the District of Columbia Self-Government and Governmental Reorganization Act (Pub. L. 93–198, 87 Stat. 777, 801, 836).
 
 **Editorial Notes**
 
@@ -816,7 +816,7 @@ Amendment by Pub. L. 100–86 effective 6 months after Aug. 10, 1987, or on such
 
 For provision permitting Secretary of the Treasury to prescribe rules, regulations, and procedures as necessary to implement amendment by section 1004(a) of Pub. L. 100–86, including recertification of Treasury checks which have been canceled or for which a claim has been asserted or barred, see section 1005 of Pub. L. 100–86, set out as a note under section 3328 of this title.
 
-### § 3713. Priority of Government claims
+### § 3713. Priority of Government claims
 
 **(a)**
 
@@ -842,18 +842,18 @@ For provision permitting Secretary of the Treasury to prescribe rules, regulatio
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3713(a) | 31:191. | R.S. § 3466; Nov. 6, 1978, Pub. L. 95–598, § 322(a), 92 Stat. 2678. |
-| 3713(b) | 31:192. | R.S. § 3467; restated May 10, 1934, ch. 277, § 518(a), 48 Stat. 760; Nov. 6, 1978, Pub. L. 95–598, § 322(b), 92 Stat. 2679. |
+| 3713(a) | 31:191. | R.S. § 3466; Nov. 6, 1978, Pub. L. 95–598, § 322(a), 92 Stat. 2678. |
+| 3713(b) | 31:192. | R.S. § 3467; restated May 10, 1934, ch. 277, § 518(a), 48 Stat. 760; Nov. 6, 1978, Pub. L. 95–598, § 322(b), 92 Stat. 2679. |
 
 In the section, the word “claim” is substituted for “debts” for consistency. The word “due” is omitted as unnecessary.
 
 In subsection (a)(1), before clause (A), the word “paid” is substituted for “satisfied” for consistency. In clause (A)(i), the words “and the priority established shall extend as well to cases in which” are omitted because of the restatement. In clause (A)(ii), the word “property” is substituted for “estate and effects” to eliminate unnecessary words. The words “absconding, concealed, or” and “by process of law” are omitted as surplus.
 
-In subsection (a)(2), the words “The priority established under . . . however” are omitted as surplus.
+In subsection (a)(2), the words “The priority established under . . . however” are omitted as surplus.
 
 In subsection (b), the words “A representative of a person or an estate” are substituted for “executor, administrator, or assignee, or other” for clarity and to eliminate unnecessary words. The words “for whom or for which he acts”, “satisfies and”, and “from such person or estate” are omitted as surplus. The word “liable” is substituted for “answerable in his own person and estate” for consistency.
 
-### § 3714. Keeping money due States in default
+### § 3714. Keeping money due States in default
 
 The Secretary of the Treasury shall keep the necessary amount of money the United States Government owes a State when the State defaults in paying principal or interest on investments in stocks or bonds the State issues or guarantees and that the Government holds in trust. The money shall be used to pay the principal or interest or reimburse, with interest, money the Government advanced for interest due on the stocks or bonds.
 
@@ -863,11 +863,11 @@ The Secretary of the Treasury shall keep the necessary amount of money the Unite
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3714 | 31:207. | R.S. § 3481. |
+| 3714 | 31:207. | R.S. § 3481. |
 
-The word “amount” is substituted for “whole, or so much thereof” for clarity. The word “owes” is substituted for “due on any account from the . . . to” to eliminate unnecessary words. The words “or either” and “thereon” are omitted as surplus.
+The word “amount” is substituted for “whole, or so much thereof” for clarity. The word “owes” is substituted for “due on any account from the . . . to” to eliminate unnecessary words. The words “or either” and “thereon” are omitted as surplus.
 
-### § 3715. Buying real property of a debtor
+### § 3715. Buying real property of a debtor
 
 The head of an agency for whom a civil action is brought against a debtor of the United States Government may buy real property of the debtor at a sale on execution of the real property of the debtor resulting from the action. The head of the agency may not bid more for the property than the amount of the judgment for which the property is being sold, and costs. The marshal of the district in which the sale is held shall transfer the property to the Government.
 
@@ -877,11 +877,11 @@ The head of an agency for whom a civil action is brought against a debtor of the
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3715 | 31:195. | R.S. § 3470; June 2, 1965, Pub. L. 89–30, § 5, 79 Stat. 119. |
+| 3715 | 31:195. | R.S. § 3470; June 2, 1965, Pub. L. 89–30, § 5, 79 Stat. 119. |
 
-The words “by such agent as . . . shall appoint” are omitted as unnecessary. The word “agency” is substituted for “department or independent agency” because of the restatement. The words “for whom a civil action is brought” are substituted for “at whose instance suit was instituted” for consistency. The words “real property” are substituted for “lands or tenements” for clarity and consistency. The words “in behalf of the United States” are omitted as surplus. The words “for the property” are added for clarity. The word “property” is substituted for “such estate” for consistency in the section. The words “Whenever such purchase is made” are omitted as surplus. The words “transfer the property” are substituted for “make all needful conveyances, assignments, or transfers” to eliminate unnecessary words and for clarity.
+The words “by such agent as . . . shall appoint” are omitted as unnecessary. The word “agency” is substituted for “department or independent agency” because of the restatement. The words “for whom a civil action is brought” are substituted for “at whose instance suit was instituted” for consistency. The words “real property” are substituted for “lands or tenements” for clarity and consistency. The words “in behalf of the United States” are omitted as surplus. The words “for the property” are added for clarity. The word “property” is substituted for “such estate” for consistency in the section. The words “Whenever such purchase is made” are omitted as surplus. The words “transfer the property” are substituted for “make all needful conveyances, assignments, or transfers” to eliminate unnecessary words and for clarity.
 
-### § 3716. Administrative offset
+### § 3716. Administrative offset
 
 **(a)** After trying to collect a claim from a person under section 3711(a) of this title, the head of an executive, judicial, or legislative agency may collect the claim by administrative offset. The head of the agency may collect by administrative offset only after giving the debtor—
 
@@ -1001,13 +1001,13 @@ For purposes of the preceding sentence, the amount of a periodic benefit payment
 
 **(3)** In applying this section with respect to any debt owed to a State, subsection (c)(3)(A) shall not apply.
 
-(Added Pub. L. 97–452, § 1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, § 31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, § 251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, § 14219(a), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, § 4(a), title XIV, § 14219(a), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–275, title I, § 189(b), July 15, 2008, 122 Stat. 2590; Pub. L. 113–101, § 5, May 9, 2014, 128 Stat. 1153.)
+(Added Pub. L. 97–452, § 1(16)(A), Jan. 12, 1983, 96 Stat. 2471; amended Pub. L. 104–134, title III, § 31001(c)(1), (d)(2), (e), (f), Apr. 26, 1996, 110 Stat. 1321–359, 1321–362; Pub. L. 106–169, title II, § 251(b)(10), Dec. 14, 1999, 113 Stat. 1856; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–234, title XIV, § 14219(a), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, § 4(a), title XIV, § 14219(a), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–275, title I, § 189(b), July 15, 2008, 122 Stat. 2590; Pub. L. 113–101, § 5, May 9, 2014, 128 Stat. 1153.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3716(a) | 31 App.:954(a) (words before last comma), (c). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1982, Pub. L. 97–365, § 10(2), 96 Stat. 1754. |
+| 3716(a) | 31 App.:954(a) (words before last comma), (c). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 5(a)–(d); added Oct. 25, 1982, Pub. L. 97–365, § 10(2), 96 Stat. 1754. |
 | 3716(b) | 31 App.:954(b). |  |
 | 3716(c)(1) | 31 App.:954(a) (words after last comma). |  |
 | 3716(c)(2) | 31 App.:954(d). |  |
@@ -1026,11 +1026,11 @@ In subsection (c)(2), the word “either” is omitted as surplus.
 
 **References in Text**
 
-The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, XVI, and XVIII of the Act are classified generally to subchapters II (§ 401 et seq.), VIII (§ 1001 et seq.), XVI (§ 1381 et seq.), and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, XVI, and XVIII of the Act are classified generally to subchapters II (§ 401 et seq.), VIII (§ 1001 et seq.), XVI (§ 1381 et seq.), and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792. Part B of the Act is classified generally to part B (§ 921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
+The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792. Part B of the Act is classified generally to part B (§ 921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
 The enactment of this subparagraph, referred to in subsec. (c)(3)(D), refers to the date of enactment of Pub. L. 110–275, which was approved July 15, 2008.
 
@@ -1044,11 +1044,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 2014—Subsec. (c)(6). Pub. L. 113–101 designated existing provisions as subpar. (A), substituted “120 days” for “180 days”, and added subpar. (B).
 
-2008—Subsec. (c)(1)(A). Pub. L. 110–275, § 189(b)(1), inserted “the Department of Health and Human Services,” after “United States Postal Service,”.
+2008—Subsec. (c)(1)(A). Pub. L. 110–275, § 189(b)(1), inserted “the Department of Health and Human Services,” after “United States Postal Service,”.
 
-Subsec. (c)(3)(D). Pub. L. 110–275, § 189(b)(2), added subpar. (D).
+Subsec. (c)(3)(D). Pub. L. 110–275, § 189(b)(2), added subpar. (D).
 
-Subsec. (e). Pub. L. 110–246, § 14219(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section does not apply—
+Subsec. (e). Pub. L. 110–246, § 14219(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “This section does not apply—
 
 “(1) to a claim under this subchapter that has been outstanding for more than 10 years; or
 
@@ -1058,9 +1058,9 @@ Subsec. (e). Pub. L. 110–246, § 14219(a), amended subsec. (e) generally. Pr
 
 1999—Subsec. (c)(3)(C). Pub. L. 106–169 substituted “sections 205(b)(1), 809(a)(1),” for “sections 205(b)(1)” and “title II, VIII,” for “either title II”.
 
-1996—Subsec. (a). Pub. L. 104–134, § 31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
+1996—Subsec. (a). Pub. L. 104–134, § 31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
 
-Subsec. (b). Pub. L. 104–134, § 31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
+Subsec. (b). Pub. L. 104–134, § 31001(d)(2)(A), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Before collecting a claim by administrative offset under subsection (a) of this section, the head of an executive or legislative agency must prescribe regulations on collecting by administrative offset based on—
 
 “(1) the best interests of the United States Government;
 
@@ -1068,33 +1068,33 @@ Subsec. (b). Pub. L. 104–134, § 31001(d)(2)(A), amended subsec. (b) general
 
 “(3) for collecting a claim by administrative offset after the 6-year period for bringing a civil action on a claim under section 2415 of title 28 has expired, the cost effectiveness of leaving a claim unresolved for more than 6 years.”
 
-Pub. L. 104–134, § 31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
+Pub. L. 104–134, § 31001(c)(1), substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” in introductory provisions.
 
-Subsec. (c). Pub. L. 104–134, § 31001(d)(2)(D), added subsec. (c). Former subsec. (c) redesignated (e).
+Subsec. (c). Pub. L. 104–134, § 31001(d)(2)(D), added subsec. (c). Former subsec. (c) redesignated (e).
 
-Subsec. (c)(2). Pub. L. 104–134, § 31001(d)(2)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “when a statute explicitly provides for or prohibits using administrative offset to collect the claim or type of claim involved.”
+Subsec. (c)(2). Pub. L. 104–134, § 31001(d)(2)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “when a statute explicitly provides for or prohibits using administrative offset to collect the claim or type of claim involved.”
 
-Subsec. (d). Pub. L. 104–134, § 31001(d)(2)(D), added subsec. (d).
+Subsec. (d). Pub. L. 104–134, § 31001(d)(2)(D), added subsec. (d).
 
-Subsec. (e). Pub. L. 104–134, § 31001(d)(2)(C), redesignated subsec. (c) as (e).
+Subsec. (e). Pub. L. 104–134, § 31001(d)(2)(C), redesignated subsec. (c) as (e).
 
-Subsecs. (f) to (h). Pub. L. 104–134, § 31001(e), (f), added subsecs. (f) to (h).
+Subsecs. (f) to (h). Pub. L. 104–134, § 31001(e), (f), added subsecs. (f) to (h).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–275, title I, § 189(c), July 15, 2008, 122 Stat. 2591, provided that: “The amendments made by this section [amending this section and section 1395kk of Title 42, The Public Health and Welfare] shall take effect on the date of the enactment of this Act [July 15, 2008].”
+Pub. L. 110–275, title I, § 189(c), July 15, 2008, 122 Stat. 2591, provided that: “The amendments made by this section [amending this section and section 1395kk of Title 42, The Public Health and Welfare] shall take effect on the date of the enactment of this Act [July 15, 2008].”
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XIV, § 14219(b), May 22, 2008, 122 Stat. 1483, and Pub. L. 110–246, § 4(a), title XIV, § 14219(b), June 18, 2008, 122 Stat. 1664, 2245, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any debt outstanding on or after the date of the enactment of this Act [June 18, 2008].”
+Pub. L. 110–234, title XIV, § 14219(b), May 22, 2008, 122 Stat. 1483, and Pub. L. 110–246, § 4(a), title XIV, § 14219(b), June 18, 2008, 122 Stat. 1664, 2245, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any debt outstanding on or after the date of the enactment of this Act [June 18, 2008].”
 
 [Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.]
 
 **Offsets From Social Security Payments**
 
-Pub. L. 104–134, title III, § 31001(a)(2)(B), Apr. 26, 1996, 110 Stat. 1321–358, provided that: “Subparagraph (A) of section 3716(c)(3) of title 31, United States Code (as added by subsection (d)(2) of this section), shall apply only to payments made after the date which is 4 months after the date of the enactment of this Act [Apr. 26, 1996].”
+Pub. L. 104–134, title III, § 31001(a)(2)(B), Apr. 26, 1996, 110 Stat. 1321–358, provided that: “Subparagraph (A) of section 3716(c)(3) of title 31, United States Code (as added by subsection (d)(2) of this section), shall apply only to payments made after the date which is 4 months after the date of the enactment of this Act [Apr. 26, 1996].”
 
 **Executive Documents**
 
@@ -1102,7 +1102,7 @@ Pub. L. 104–134, title III, § 31001(a)(2)(B), Apr. 26, 1996, 110 Stat. 1321
 
 Ex. Ord. No. 13019, Sept. 28, 1996, 61 F.R. 51763, provided that:
 
-The Debt Collection Improvement Act of 1996, Public Law 104–134 [§ 31001] (110 Stat. 1321–358 *et seq*.) [see Short Title of 1996 Amendment note set out under section 3701 of this title], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
+The Debt Collection Improvement Act of 1996, Public Law 104–134 [§ 31001] (110 Stat. 1321–358 *et seq*.) [see Short Title of 1996 Amendment note set out under section 3701 of this title], was enacted into law on April 26, 1996, as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996. While the primary purpose of the Debt Collection Improvement Act is to increase the collection of nontax debts owed to the Federal Government, the Act also contains important provisions that can be used to assist families in collecting past-due child support obligations.
 
 The failure of some parents to meet their child support obligations threatens the health, education, and well-being of their children. Compounding this problem, States have experienced difficulties enforcing child support obligations once a parent has moved to another State. With this Executive order, my Administration takes additional steps to support our children and strengthen American families by facilitating the collection of delinquent child support obligations from persons who may be entitled or eligible to receive certain Federal payments or Federal assistance.
 
@@ -1162,7 +1162,7 @@ Sec. 4. *Judicial Review*. This order does not create any right or benefit, subs
 
 William J. Clinton.
 
-### § 3717. Interest and penalty on claims
+### § 3717. Interest and penalty on claims
 
 **(a)**
 
@@ -1174,9 +1174,9 @@ William J. Clinton.
 
 **(1)** on which notice is mailed after October 25, 1982, if notice was first mailed before October 25, 1982; or
 
-**(2)** notice of the amount due is first mailed to the debtor at the most current address of the debtor available to the head of the executive or 1
+**(2)** notice of the amount due is first mailed to the debtor at the most current address of the debtor available to the head of the executive or 1
 
-<sup>1</sup>  So in original. Probably should be “, judicial, or”.
+<sup>1</sup> So in original. Probably should be “, judicial, or”.
 
 legislative agency, if notice is first mailed after October 24, 1982.
 
@@ -1214,13 +1214,13 @@ legislative agency, if notice is first mailed after October 24, 1982.
 
 **(B)** the term “administrative claim” includes all debt that is not based on an extension of Government credit through direct loans, loan guarantees, or insurance, including fines, penalties, and overpayments.
 
-(Added Pub L. 97–452, § 1(16)(A), Jan. 12, 1983, 96 Stat. 2472; amended Pub. L. 104–134, title III, § 31001(c)(1), (g)(1)(C), (q), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–372.)
+(Added Pub L. 97–452, § 1(16)(A), Jan. 12, 1983, 96 Stat. 2472; amended Pub. L. 104–134, title III, § 31001(c)(1), (g)(1)(C), (q), Apr. 26, 1996, 110 Stat. 1321–359, 1321–363, 1321–372.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3717(a) | 31 App.:952(e)(1) (1st–3d sentences). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(e)(1) (1st–3d sentences), (2)–(7); added Oct. 25, 1982, Pub. L. 97–365, § 11, 96 Stat. 1755. |
+| 3717(a) | 31 App.:952(e)(1) (1st–3d sentences). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(e)(1) (1st–3d sentences), (2)–(7); added Oct. 25, 1982, Pub. L. 97–365, § 11, 96 Stat. 1755. |
 | 3717(b), (c) | 31 App.:952(e)(5). |  |
 | 3717(d) | 31 App.:952(e)(6). |  |
 | 3717(e) | 31 App.:952(e)(2). |  |
@@ -1247,15 +1247,15 @@ In subsection (h), the words “under this section” are added for clarity.
 
 **Amendments**
 
-1996—Subsec. (a)(1). Pub. L. 104–134, § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+1996—Subsec. (a)(1). Pub. L. 104–134, § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-Subsecs. (d), (e). Pub. L. 104–134, § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+Subsecs. (d), (e). Pub. L. 104–134, § 31001(c)(1), which directed that this section be amended by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-Subsec. (h). Pub. L. 104–134, § 31001(c)(1), (g)(1)(C), inserted “, the Secretary of the Treasury,” after “Attorney General” and substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency”.
+Subsec. (h). Pub. L. 104–134, § 31001(c)(1), (g)(1)(C), inserted “, the Secretary of the Treasury,” after “Attorney General” and substituted “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency”.
 
-Subsec. (i). Pub. L. 104–134, § 31001(q), added subsec. (i).
+Subsec. (i). Pub. L. 104–134, § 31001(q), added subsec. (i).
 
-### § 3718. Contracts for collection services
+### § 3718. Contracts for collection services
 
 **(a)** Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets. The contract shall provide that—
 
@@ -1281,9 +1281,9 @@ Subsec. (i). Pub. L. 104–134, § 31001(q), added subsec. (i).
 
 **(A)** the term “law firm owned and controlled by socially and economically disadvantaged individuals” means a law firm that meets the requirements set forth in clauses (i) and (ii) of section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)(i) and (ii)) and regulations issued under those clauses;
 
-**(B)** “socially and economically disadvantaged individuals” shall be presumed to include these 1
+**(B)** “socially and economically disadvantaged individuals” shall be presumed to include these 1
 
-<sup>1</sup>  So in original. Probably should be “the”.
+<sup>1</sup> So in original. Probably should be “the”.
 
 groups and individuals described in the last paragraph of section 8(d)(3)(C) of the Small Business Act; and
 
@@ -1295,13 +1295,13 @@ groups and individuals described in the last paragraph of section 8(d)(3)(C) of 
 
 **(A)** a provision permitting the Attorney General to terminate either the contract or the private counsel’s representation of the United States in particular cases if the Attorney General finds that such action is for the convenience of the Government;
 
-**(B)** a provision stating that the head of the executive or 2
+**(B)** a provision stating that the head of the executive or 2
 
-<sup>2</sup>  So in original. Probably should be “, judicial, or”.
+<sup>2</sup> So in original. Probably should be “, judicial, or”.
 
 legislative agency which refers a claim under the contract retains the authority to resolve a dispute regarding the claim, to compromise the claim, or to terminate a collection action on the claim; and
 
-**(C)** a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or <sup>2</sup> legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
+**(C)** a provision requiring the private counsel to transmit monthly to the Attorney General and the head of the executive or <sup>2</sup> legislative agency referring a claim under the contract a report on the services relating to the claim rendered under the contract during the month and the progress made during the month in collecting the claim under the contract.
 
 **(6)** Notwithstanding the fourth sentence of section 803(6) of the Fair Debt Collection Practices Act (15 U.S.C. 1692a(6)), a private counsel performing legal services pursuant to a contract made under paragraph (1) of this subsection shall be considered to be a debt collector for the purposes of such Act.
 
@@ -1329,13 +1329,13 @@ legislative agency which refers a claim under the contract retains the authority
 
 **(g)** In order to assist Congress in determining whether use of private counsel is a cost-effective method of collecting Government debts, the Attorney General shall, following consultation with the Government Accountability Office, maintain and make available to the Inspector General of the Department of Justice, statistical data relating to the comparative costs of debt collection by participating United States Attorneys’ Offices and by private counsel.
 
-(Added Pub. L. 97–452, § 1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, § 1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, § 6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, § 4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, § 31001(c)(1), (*l*), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, § 604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–350, § 5(h)(6), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(E), Dec. 12, 2017, 131 Stat. 1796.)
+(Added Pub. L. 97–452, § 1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 98–167, Nov. 29, 1983, 97 Stat. 1104; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–578, § 1, Oct. 28, 1986, 100 Stat. 3305; Pub. L. 102–589, § 6, Nov. 10, 1992, 106 Stat. 5135; Pub. L. 103–272, § 4(f)(1)(M), July 5, 1994, 108 Stat. 1362; Pub. L. 104–134, title III, § 31001(c)(1), (*l*), (cc)(1), Apr. 26, 1996, 110 Stat. 1321–359, 1321–366, 1321–380; Pub. L. 105–135, title VI, § 604(e)(1), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–350, § 5(h)(6), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 115–91, div. A, title XVII, § 1701(a)(4)(E), Dec. 12, 2017, 131 Stat. 1796.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3718(a) | 31 App.:952(f)(1) (1st sentence words after 2d comma, last sentence). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(f); added Oct. 25, 1982, Pub. L. 97–365, § 13(b), 96 Stat. 1757. |
+| 3718(a) | 31 App.:952(f)(1) (1st sentence words after 2d comma, last sentence). | July 19, 1966, Pub. L. 89–508, 80 Stat. 308, § 3(f); added Oct. 25, 1982, Pub. L. 97–365, § 13(b), 96 Stat. 1757. |
 | 3718(b) | 31 App.:952(f)(2). |  |
 | 3718(c) | 31 App.:952(f)(3). |  |
 | 3718(d) | 31 App.:952(f)(1) (1st sentence words before 2d comma). |  |
@@ -1356,7 +1356,7 @@ In subsection (d), the words “Notwithstanding the provisions of any other law 
 
 Section 31(b) of the Small Business Act, referred to in subsec. (b)(1)(B), (3)(C), is classified to section 657a(b) of Title 15, Commerce and Trade.
 
-The Fair Debt Collection Practices Act, referred to in subsec. (b)(6), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109 Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Fair Debt Collection Practices Act, referred to in subsec. (b)(6), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109 Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 **Amendments**
 
@@ -1366,33 +1366,33 @@ The Fair Debt Collection Practices Act, referred to in subsec. (b)(6), is title 
 
 2004—Subsec. (g). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
 
-1997—Subsec. (b)(1)(B). Pub. L. 105–135, § 604(e)(1)(A), inserted “and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)” after “disadvantaged individuals”.
+1997—Subsec. (b)(1)(B). Pub. L. 105–135, § 604(e)(1)(A), inserted “and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act)” after “disadvantaged individuals”.
 
-Subsec. (b)(3). Pub. L. 105–135, § 604(e)(1)(B)(i), inserted “and law firms that are qualified HUBZone small business concerns” after “economically disadvantaged individuals” in introductory provisions.
+Subsec. (b)(3). Pub. L. 105–135, § 604(e)(1)(B)(i), inserted “and law firms that are qualified HUBZone small business concerns” after “economically disadvantaged individuals” in introductory provisions.
 
-Subsec. (b)(3)(C). Pub. L. 105–135, § 604(e)(1)(B)(ii)–(iv), added subpar. (C).
+Subsec. (b)(3)(C). Pub. L. 105–135, § 604(e)(1)(B)(ii)–(iv), added subpar. (C).
 
-1996—Subsec. (a). Pub. L. 104–134, § 31001(*l*)(1), in introductory provisions substituted “Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets.” for “Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services to recover indebtedness owed the United States Government.”
+1996—Subsec. (a). Pub. L. 104–134, § 31001(*l*)(1), in introductory provisions substituted “Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets.” for “Under conditions the head of an executive or legislative agency considers appropriate, the head of the agency may make a contract with a person for collection services to recover indebtedness owed the United States Government.”
 
-Subsec. (b)(1)(A). Pub. L. 104–134, § 31001(cc)(1), struck out “If the Attorney General makes a contract for legal services to be furnished in any judicial district of the United States under the first sentence of this paragraph, the Attorney General shall use his best efforts to obtain, from among attorneys regularly engaged in the private practice of law in such district, at least four such contracts for legal services with private individuals or firms in such district.” before “Nothing in this subparagraph shall”.
+Subsec. (b)(1)(A). Pub. L. 104–134, § 31001(cc)(1), struck out “If the Attorney General makes a contract for legal services to be furnished in any judicial district of the United States under the first sentence of this paragraph, the Attorney General shall use his best efforts to obtain, from among attorneys regularly engaged in the private practice of law in such district, at least four such contracts for legal services with private individuals or firms in such district.” before “Nothing in this subparagraph shall”.
 
-Subsec. (b)(2). Pub. L. 104–134, § 31001(c)(1), which directed the amendment of this section by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 104–134, § 31001(c)(1), which directed the amendment of this section by substituting “the head of an executive, judicial, or legislative agency” for “the head of an executive or legislative agency” wherever appearing, was executed by substituting “The head of an executive, judicial, or legislative agency” for “The head of an executive or legislative agency”, to reflect the probable intent of Congress.
 
-Subsec. (d). Pub. L. 104–134, § 31001(*l*)(2), inserted “, or to locate or recover assets of,” after “owed”.
+Subsec. (d). Pub. L. 104–134, § 31001(*l*)(2), inserted “, or to locate or recover assets of,” after “owed”.
 
 1994—Subsec. (b)(3)(A). Pub. L. 103–272 substituted “15 U.S.C. 637(d)(3)(C)(i)” for “15 U.S.C. 6376(d)(3)(C)(i)”.
 
 1992—Subsec. (g). Pub. L. 102–589 added subsec. (g).
 
-1986—Subsecs. (b), (c). Pub. L. 99–578, § 1(1), (4), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
+1986—Subsecs. (b), (c). Pub. L. 99–578, § 1(1), (4), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
-Subsec. (d). Pub. L. 99–578, § 1(1), (2), redesignated former subsec. (b) as (d) and inserted “or (b)” after “subsection (a)”. Former subsec. (d) redesignated (f).
+Subsec. (d). Pub. L. 99–578, § 1(1), (2), redesignated former subsec. (b) as (d) and inserted “or (b)” after “subsection (a)”. Former subsec. (d) redesignated (f).
 
 Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsec. (e). Pub. L. 99–578, § 1(1), (3), redesignated former subsec. (c) as (e), inserted “or (b)” after “(a)”, and substituted “subsection (d)” for “subsection (b)”.
+Subsec. (e). Pub. L. 99–578, § 1(1), (3), redesignated former subsec. (c) as (e), inserted “or (b)” after “(a)”, and substituted “subsection (d)” for “subsection (b)”.
 
-Subsec. (f). Pub. L. 99–578, § 1(1), redesignated former subsec. (d) as (f).
+Subsec. (f). Pub. L. 99–578, § 1(1), redesignated former subsec. (d) as (f).
 
 1983—Subsec. (c). Pub. L. 98–167 inserted “This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (b) of this section.”
 
@@ -1408,23 +1408,23 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–589, § 7, Nov. 10, 1992, 106 Stat. 5135, provided that: “The provisions of this Act [amending this section and section 3720A of this title, enacting provisions set out as notes under this section and section 6501 of this title, and amending provisions set out as notes under this section and sections 3335 and 6503 of this title] and amendments made by this Act shall take effect on the date of enactment of this Act [Nov. 10, 1992], except if such date of enactment is on or after October 1, 1992, such provisions and amendments shall be effective as if enacted on September 30, 1992.”
+Pub. L. 102–589, § 7, Nov. 10, 1992, 106 Stat. 5135, provided that: “The provisions of this Act [amending this section and section 3720A of this title, enacting provisions set out as notes under this section and section 6501 of this title, and amending provisions set out as notes under this section and sections 3335 and 6503 of this title] and amendments made by this Act shall take effect on the date of enactment of this Act [Nov. 10, 1992], except if such date of enactment is on or after October 1, 1992, such provisions and amendments shall be effective as if enacted on September 30, 1992.”
 
 **Effective and Termination Dates of 1986 Amendment**
 
-Pub. L. 99–578, § 5, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102–589, § 4(c), Nov. 10, 1992, 106 Stat. 5134, which provided that Pub. L. 99–578 and the amendments made by section 1 of Pub. L. 99–578 (amending this section and enacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by Pub. L. 104–134, title III, § 31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
+Pub. L. 99–578, § 5, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102–589, § 4(c), Nov. 10, 1992, 106 Stat. 5134, which provided that Pub. L. 99–578 and the amendments made by section 1 of Pub. L. 99–578 (amending this section and enacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by Pub. L. 104–134, title III, § 31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
 
 **Regulations**
 
-Pub. L. 99–578, § 4, Oct. 28, 1986, 100 Stat. 3307, provided that: “The Attorney General shall issue regulations to carry out this Act and the amendments made by section 1 of this Act [amending this section and enacting provisions set out as notes under this section]. The Attorney General shall submit the regulations to the Congress at least 60 days before they become effective.”
+Pub. L. 99–578, § 4, Oct. 28, 1986, 100 Stat. 3307, provided that: “The Attorney General shall issue regulations to carry out this Act and the amendments made by section 1 of this Act [amending this section and enacting provisions set out as notes under this section]. The Attorney General shall submit the regulations to the Congress at least 60 days before they become effective.”
 
 **Extension of Contracts With Private Counsel**
 
-Pub. L. 102–589, § 4(d), Nov. 10, 1992, 106 Stat. 5134, provided that: “The Attorney General may extend or modify any or all of the contracts entered into with private counsel prior to October 1, 1992, for such time as is necessary to conduct a full and open competition in accordance with section 3718(b) of title 31, United States Code.”
+Pub. L. 102–589, § 4(d), Nov. 10, 1992, 106 Stat. 5134, provided that: “The Attorney General may extend or modify any or all of the contracts entered into with private counsel prior to October 1, 1992, for such time as is necessary to conduct a full and open competition in accordance with section 3718(b) of title 31, United States Code.”
 
 **Audit by Inspector General**
 
-Pub. L. 102–589, § 5, Nov. 10, 1992, 106 Stat. 5134, provided that:
+Pub. L. 102–589, § 5, Nov. 10, 1992, 106 Stat. 5134, provided that:
 
 > **“(a) Contents of Audit.—** The Inspector General of the Department of Justice shall conduct an audit, for the period beginning on October 1, 1991, and ending on September 30, 1994, of the actions of the Attorney General under subsection (b) of section 3718 of title 31, United States Code, under the pilot program referred to in section 3 of the Act entitled ‘An Act to amend section 3718 of title 31, United States Code, to authorize contracts retaining private counsel to furnish legal services in the case of indebtedness owed the United States.’, approved October 29, 1986 (37 U.S.C. 3718 note; Public Law 99–578 [set out below]). The Inspector General shall determine the extent of the competition among private counsel to obtain contracts awarded under such subsection, the reasonableness of the fees provided in such contracts, the diligence and efforts of the Attorney General to retain private counsel in accordance with the provisions of such subsection, the results of the debt collection efforts of private counsel retained under such contracts, and the cost-effectiveness of the pilot project compared with the use of United States Attorneys’ Offices for debt collection.
 
@@ -1432,13 +1432,13 @@ Pub. L. 102–589, § 5, Nov. 10, 1992, 106 Stat. 5134, provided that:
 
 **Pilot Program; Extension**
 
-Pub. L. 99–578, § 3, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102–589, § 4(b), Nov. 10, 1992, 106 Stat. 5134, which directed Attorney General to carry out subsections (b) and (c) of this section through a pilot program in each of at least 5 and not more than 15 judicial districts selected by the Attorney General, was repealed by Pub. L. 104–134, title III, § 31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
+Pub. L. 99–578, § 3, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102–589, § 4(b), Nov. 10, 1992, 106 Stat. 5134, which directed Attorney General to carry out subsections (b) and (c) of this section through a pilot program in each of at least 5 and not more than 15 judicial districts selected by the Attorney General, was repealed by Pub. L. 104–134, title III, § 31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
 
-Pub. L. 104–134, title I, § 101[(a)] [title I, § 120], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided that the pilot debt collection project authorized by Public Law 99–578 (formerly set out above) was extended through September 30, 1997.
+Pub. L. 104–134, title I, § 101[(a)] [title I, § 120], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided that the pilot debt collection project authorized by Public Law 99–578 (formerly set out above) was extended through September 30, 1997.
 
 Prior extensions of the pilot program for legal services were contained in the following acts:
 
-Pub. L. 102–589, § 4(a), Nov. 10, 1992, 106 Stat. 5134.
+Pub. L. 102–589, § 4(a), Nov. 10, 1992, 106 Stat. 5134.
 
 Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1832.
 
@@ -1446,17 +1446,17 @@ Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 216.
 
 **Report by Attorney General**
 
-Pub. L. 99–578, § 2, Oct. 28, 1986, 100 Stat. 3307, directed Attorney General, not later than 180 days after Oct. 28, 1986, to transmit to Congress a report on actions taken under subsec. (b) of this section, as added by Pub. L. 99–578.
+Pub. L. 99–578, § 2, Oct. 28, 1986, 100 Stat. 3307, directed Attorney General, not later than 180 days after Oct. 28, 1986, to transmit to Congress a report on actions taken under subsec. (b) of this section, as added by Pub. L. 99–578.
 
 **Audit by Comptroller General**
 
-Pub. L. 99–578, § 6, Oct. 28, 1986, 100 Stat. 3307, provided that:
+Pub. L. 99–578, § 6, Oct. 28, 1986, 100 Stat. 3307, provided that:
 
 > **“(a) Contents of Audit.—** The Comptroller General of the United States shall, at the end of the 3-year period referred to in section 5 [set out above], conduct an audit of the actions of the Attorney General under subsection (b) of section 3718 of title 31, United States Code (as added by section 1 of this Act), under the pilot program referred to in section 3 [set out above]. The Comptroller General shall determine the extent of the competition among private counsel to obtain contracts awarded under such subsection, the reasonableness of the fees provided in such contracts, the diligence and efforts of the Attorney General to retain private counsel in accordance with the provisions of such subsection, and the results of the debt collection efforts of private counsel retained under such contracts.
 
 > **“(b) Report to Congress.—** After completing the audit under subsection (a), the Comptroller General shall transmit to the Congress a report on the findings and conclusions resulting from the audit.”
 
-### § 3719. Reports on debt collection activities
+### § 3719. Reports on debt collection activities
 
 **(a)** In consultation with the Comptroller General of the United States, the Secretary of the Treasury shall prescribe regulations requiring the head of each agency with outstanding nontax claims to prepare and submit to the Secretary at least once each year a report summarizing the status of loans and accounts receivable that are managed by the head of the agency. The report shall contain—
 
@@ -1480,13 +1480,13 @@ Pub. L. 99–578, § 6, Oct. 28, 1986, 100 Stat. 3307, provided that:
 
 **(b)** The Secretary shall analyze the reports submitted under subsection (a) of this section and shall report annually to Congress on the management of debt collection activities by the head of each agency, including the information provided the Secretary under subsection (a).
 
-(Added Pub. L. 97–452, § 1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 104–134, title III, § 31001(aa)(3), Apr. 26, 1996, 110 Stat. 1321–380.)
+(Added Pub. L. 97–452, § 1(16)(A), Jan. 12, 1983, 96 Stat. 2473; amended Pub. L. 104–134, title III, § 31001(aa)(3), Apr. 26, 1996, 110 Stat. 1321–380.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3719(a) | 31 App.:955(a). | Oct. 25, 1982, Pub. L. 97–365, § 12, 96 Stat. 1756. |
+| 3719(a) | 31 App.:955(a). | Oct. 25, 1982, Pub. L. 97–365, § 12, 96 Stat. 1756. |
 | 3719(b) | 31 App.:955(b). |  |
 
 In subsection (a), before clause (1), the words “of the United States” are omitted as surplus. The words “the head of” are added for consistency in the revised title and with other titles of the United States Code. In clause (1)(C), the words “uncollectible loans and accounts receivable” are added for clarity. In clause (1)(F), the words “Attorney General” are substituted for “Department of Justice” for consistency in the revised title and with other titles of the Code, including 28:503, 509.
@@ -1497,23 +1497,23 @@ In subsection (b), the word “submitted” is substituted for “received by ea
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–134, § 31001(aa)(3)(A)(i), amended first sentence generally. Prior to amendment, first sentence read as follows: “In consultation with the Secretary of the Treasury and the Comptroller General, the Director of the Office of Management and Budget shall prescribe regulations requiring the head of each agency with outstanding debts to prepare and submit to the Director and the Secretary at least once each year a report summarizing the status of loans and accounts receivable managed by the head of the agency.”
+1996—Subsec. (a). Pub. L. 104–134, § 31001(aa)(3)(A)(i), amended first sentence generally. Prior to amendment, first sentence read as follows: “In consultation with the Secretary of the Treasury and the Comptroller General, the Director of the Office of Management and Budget shall prescribe regulations requiring the head of each agency with outstanding debts to prepare and submit to the Director and the Secretary at least once each year a report summarizing the status of loans and accounts receivable managed by the head of the agency.”
 
-Subsec. (a)(3). Pub. L. 104–134, § 31001(aa)(3)(A)(ii), substituted “Secretary” for “Director”.
+Subsec. (a)(3). Pub. L. 104–134, § 31001(aa)(3)(A)(ii), substituted “Secretary” for “Director”.
 
-Subsec. (b). Pub. L. 104–134, § 31001(aa)(3)(B), which directed that subsec. (b) be amended by substituting “Secretary” for “Director”, was executed by making the substitution to both places where “Director” appeared.
+Subsec. (b). Pub. L. 104–134, § 31001(aa)(3)(B), which directed that subsec. (b) be amended by substituting “Secretary” for “Director”, was executed by making the substitution to both places where “Director” appeared.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination of Reporting Requirements**
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the reporting requirement under subsec. (b) of this section is listed on page 42), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the reporting requirement under subsec. (b) of this section is listed on page 42), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) [div. A, § 1402(1)] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 **Consolidation of Reports**
 
-Pub. L. 104–134, title III, § 31001(aa)(4), Apr. 26, 1996, 110 Stat. 1321–380, provided that: “Notwithstanding any other provision of law, the Secretary of the Treasury may consolidate reports concerning debt collection otherwise required to be submitted by the Secretary into one annual report.”
+Pub. L. 104–134, title III, § 31001(aa)(4), Apr. 26, 1996, 110 Stat. 1321–380, provided that: “Notwithstanding any other provision of law, the Secretary of the Treasury may consolidate reports concerning debt collection otherwise required to be submitted by the Secretary into one annual report.”
 
-### § 3720. Collection of payments
+### § 3720. Collection of payments
 
 **(a)** Each head of an executive agency (other than an agency subject to section 9 of the Act of May 18, 1933 (48 Stat. 63, chapter 32; 16 U.S.C. 831h)) shall, under such regulations as the Secretary of the Treasury shall prescribe, provide for the timely deposit of money by officials and agents of such agency in accordance with section 3302, and for the collection and timely deposit of sums owed to such agency by the use of such procedures as withdrawals and deposits by electronic transfer of funds, automatic withdrawals from accounts at financial institutions, and a system under which financial institutions receive and deposit, on behalf of the executive agency, payments transmitted to post office lockboxes. The Secretary is authorized to collect from any agency not complying with the requirements imposed pursuant to the preceding sentence a charge in an amount the Secretary determines to be the cost to the general fund caused by such noncompliance.
 
@@ -1521,15 +1521,15 @@ Pub. L. 104–134, title III, § 31001(aa)(4), Apr. 26, 1996, 110 Stat. 1321�
 
 **(c)** There is established in the Treasury of the United States a revolving fund to be known as the “Cash Management Improvements Fund”. Sums in the fund shall be available without fiscal year limitation for the payment of expenses incurred in developing the methods of collection and deposit described in subsection (a) of this section and the expenses incurred in carrying out collections and deposits using such methods, including the costs of personal services and the costs of the lease or purchase of equipment and operating facilities.
 
-(Added Pub. L. 98–369, div. B, title VI, § 2652(a)(1), July 18, 1984, 98 Stat. 1152.)
+(Added Pub. L. 98–369, div. B, title VI, § 2652(a)(1), July 18, 1984, 98 Stat. 1152.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 98–369, div. B, title VI, § 2652(a)(3), July 18, 1984, 98 Stat. 1152, provided that: “The Secretary of the Treasury shall prescribe regulations, including regulations under section 3720 of title 31, United States Code, designed to achieve by October 1, 1986, full implementation of the purposes of this subsection.”
+Pub. L. 98–369, div. B, title VI, § 2652(a)(3), July 18, 1984, 98 Stat. 1152, provided that: “The Secretary of the Treasury shall prescribe regulations, including regulations under section 3720 of title 31, United States Code, designed to achieve by October 1, 1986, full implementation of the purposes of this subsection.”
 
-### § 3720A. Reduction of tax refund by amount of debt
+### § 3720A. Reduction of tax refund by amount of debt
 
 **(a)** Any Federal agency that is owed by a person a past-due, legally enforceable debt (including debt administered by a third party acting as an agent for the Federal Government) shall, and any agency subject to section 9 of the Act of May 18, 1933 (16 U.S.C. 831h), owed such a debt may, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once each year of the amount of such debt.
 
@@ -1565,13 +1565,13 @@ Pub. L. 98–369, div. B, title VI, § 2652(a)(3), July 18, 1984, 98 Stat. 115
 
 **(h)**
 
-**(1)**  1
+**(1)** 1
 
-<sup>1</sup>  So in original. Subsec. (h) contains two pars. designated (1) and (2).
+<sup>1</sup> So in original. Subsec. (h) contains two pars. designated (1) and (2).
 
 The disbursing official of the Department of the Treasury—
 
-**(1)**  <sup>1</sup> shall notify a taxpayer in writing of—
+**(1)** <sup>1</sup> shall notify a taxpayer in writing of—
 
 **(A)** the occurrence of an offset to satisfy a past-due legally enforceable nontax debt;
 
@@ -1579,11 +1579,11 @@ The disbursing official of the Department of the Treasury—
 
 **(C)** a contact point within the creditor agency that will handle concerns regarding the offset;
 
-**(2)**  <sup>1</sup> shall notify the Internal Revenue Service on a weekly basis of—
+**(2)** <sup>1</sup> shall notify the Internal Revenue Service on a weekly basis of—
 
-**(A)** the occurrence of an offset to satisfy a past-due legally enforceable non-tax 2
+**(A)** the occurrence of an offset to satisfy a past-due legally enforceable non-tax 2
 
-<sup>2</sup>  So in original. Probably should not be hyphenated.
+<sup>2</sup> So in original. Probably should not be hyphenated.
 
 debt;
 
@@ -1595,17 +1595,17 @@ debt;
 
 **(h)**
 
-**(2)**  <sup>1</sup> The term “disbursing official” of the Department of the Treasury means the Secretary or his designee.
+**(2)** <sup>1</sup> The term “disbursing official” of the Department of the Treasury means the Secretary or his designee.
 
 **(i)** An agency subject to section 9 of the Act of May 18, 1933 (16 U.S.C. 831h), may implement this section at its discretion.
 
-(Added Pub. L. 98–369, div. B, title VI, § 2653(a)(1), July 18, 1984, 98 Stat. 1153; amended Pub. L. 101–508, title V, § 5129(b), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 102–589, § 3, Nov. 10, 1992, 106 Stat. 5133; Pub. L. 103–296, title I, § 108(j)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 104–134, title III, § 31001(u)(1), (v)(1), (w), Apr. 26, 1996, 110 Stat. 1321–375.)
+(Added Pub. L. 98–369, div. B, title VI, § 2653(a)(1), July 18, 1984, 98 Stat. 1153; amended Pub. L. 101–508, title V, § 5129(b), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 102–589, § 3, Nov. 10, 1992, 106 Stat. 5133; Pub. L. 103–296, title I, § 108(j)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 104–134, title III, § 31001(u)(1), (v)(1), (w), Apr. 26, 1996, 110 Stat. 1321–375.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 204 of the Act is classified to section 404 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 204 of the Act is classified to section 404 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (g), is the date of enactment of Pub. L. 102–589, which was approved Nov. 10, 1992.
 
@@ -1613,9 +1613,9 @@ Section 6109 of the Internal Revenue Code of 1986, referred to in subsec. (h)(3)
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–134, § 31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
+1996—Subsec. (a). Pub. L. 104–134, § 31001(v)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support), including debt administered by a third party acting as an agent for the Federal Government, by a named person shall, in accordance with regulations issued pursuant to subsections (b) and (d), notify the Secretary of the Treasury at least once a year of the amount of all such debt.”
 
-Subsec. (h). Pub. L. 104–134, § 31001(w), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of this section—
+Subsec. (h). Pub. L. 104–134, § 31001(w), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “For purposes of this section—
 
 “(1) the term ‘Federal agency’ means a department, agency, or instrumentality of the United States (other than an agency subject to section 9 of the Act of May 18, 1933 (48 Stat. 63, chapter 32; 16 U.S.C. 831h)), and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code);
 
@@ -1625,21 +1625,21 @@ Subsec. (h). Pub. L. 104–134, § 31001(w), amended subsec. (h) generally. Pr
 
 “(4) the term ‘person’ means an individual; or a sole proprietorship, partnership, corporation, nonprofit organization, or any other form of business association.”
 
-Subsec. (i). Pub. L. 104–134, § 31001(u)(1), added subsec. (i).
+Subsec. (i). Pub. L. 104–134, § 31001(u)(1), added subsec. (i).
 
 1994—Subsec. (f)(2). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” wherever appearing.
 
-1992—Subsec. (a). Pub. L. 102–589, § 3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support) by a named person shall, in accordance with regulations issued pursuant to subsection (d), notify the Secretary of the Treasury of the amount of such debt.”
+1992—Subsec. (a). Pub. L. 102–589, § 3(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any Federal agency that is owed a past-due legally enforceable debt (other than any past-due support) by a named person shall, in accordance with regulations issued pursuant to subsection (d), notify the Secretary of the Treasury of the amount of such debt.”
 
-Subsec. (b)(3) to (5). Pub. L. 102–589, § 3(2), struck out “and” at end of par. (3), substituted “(determined on a government-wide basis) to obtain payment of such debt; and” for “to obtain payment of such debt.” in par. (4), and added par. (5).
+Subsec. (b)(3) to (5). Pub. L. 102–589, § 3(2), struck out “and” at end of par. (3), substituted “(determined on a government-wide basis) to obtain payment of such debt; and” for “to obtain payment of such debt.” in par. (4), and added par. (5).
 
-Subsec. (g). Pub. L. 102–589, § 3(5), added subsec. (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 102–589, § 3(5), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 102–589, § 3(3), (4), redesignated subsec. (g) as (h) and added par. (4).
+Subsec. (h). Pub. L. 102–589, § 3(3), (4), redesignated subsec. (g) as (h) and added par. (4).
 
-1990—Subsec. (a). Pub. L. 101–508, § 5129(b)(1), struck out “OASDI overpayment and” after “other than any”.
+1990—Subsec. (a). Pub. L. 101–508, § 5129(b)(1), struck out “OASDI overpayment and” after “other than any”.
 
-Subsecs. (f), (g). Pub. L. 101–508, § 5129(b)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
+Subsecs. (f), (g). Pub. L. 101–508, § 5129(b)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1663,19 +1663,19 @@ Section applicable with respect to refunds payable under section 6402 of Title 2
 
 For provisions that nothing in amendments by section 2653 of Pub. L. 98–369, enacting this section, be construed as exempting debts of corporations or any other category of persons from application of such amendments, with such amendments to extend to all Federal agencies (as defined in such amendments), see section 9402(b) of Pub. L. 100–203, set out as a note under section 6402 of Title 26, Internal Revenue Code.
 
-### § 3720B. Barring delinquent Federal debtors from obtaining Federal loans or loan insurance guarantees
+### § 3720B. Barring delinquent Federal debtors from obtaining Federal loans or loan insurance guarantees
 
 **(a)** Unless this subsection is waived by the head of a Federal agency, a person may not obtain any Federal financial assistance in the form of a loan (other than a disaster loan or a marketing assistance loan or loan deficiency payment under subtitle C of the Agricultural Market Transition Act (7 U.S.C. 7231 et seq.)) or loan insurance or guarantee administered by the agency if the person has an outstanding debt (other than a debt under the Internal Revenue Code of 1986) with any Federal agency which is in a delinquent status, as determined under standards prescribed by the Secretary of the Treasury. Such a person may obtain additional loans or loan guarantees only after such delinquency is resolved in accordance with those standards. The Secretary of the Treasury may exempt, at the request of an agency, any class of claims.
 
 **(b)** The head of a Federal agency may delegate the waiver authority under subsection (a) to the Chief Financial Officer of the agency. The waiver authority may be redelegated only to the Deputy Chief Financial Officer of the agency.
 
-(Added Pub. L. 104–134, title III, § 31001(j)(1), Apr. 26, 1996, 110 Stat. 1321–365; amended Pub. L. 106–387, § 1(a) [title VIII, § 845(a)], Oct. 28, 2000, 114 Stat. 1549, 1549A–65.)
+(Added Pub. L. 104–134, title III, § 31001(j)(1), Apr. 26, 1996, 110 Stat. 1321–365; amended Pub. L. 106–387, § 1(a) [title VIII, § 845(a)], Oct. 28, 2000, 114 Stat. 1549, 1549A–65.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Agricultural Market Transition Act, referred to in subsec. (a), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896. Subtitle C of the Act is classified generally to subchapter III (§ 7231 et seq.) of chapter 100 of Title 7, Agriculture. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of Title 7 and Tables.
+The Agricultural Market Transition Act, referred to in subsec. (a), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896. Subtitle C of the Act is classified generally to subchapter III (§ 7231 et seq.) of chapter 100 of Title 7, Agriculture. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of Title 7 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a), is classified to Title 26, Internal Revenue Code.
 
@@ -1687,7 +1687,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified to 
 
 **Effective Date of 2000 Amendment**
 
-Pub. L. 106–387, § 1(a) [title VIII, § 845(c)], Oct. 28, 2000, 114 Stat. 1549, 1549A–65, provided that:
+Pub. L. 106–387, § 1(a) [title VIII, § 845(c)], Oct. 28, 2000, 114 Stat. 1549, 1549A–65, provided that:
 
 > **“(1) In general.—** The amendment made by subsection (a) [amending this section] takes effect on the date of enactment of this Act [Oct. 28, 2000].
 
@@ -1695,9 +1695,9 @@ Pub. L. 106–387, § 1(a) [title VIII, § 845(c)], Oct. 28, 2000, 114 Stat.
 
 **Payments**
 
-Pub. L. 106–387, § 1(a) [title VIII, § 845(b)], Oct. 28, 2000, 114 Stat. 1549, 1549A–65, provided that: “Any payment made by the Commodity Credit Corporation to a producer as a result of the amendment made by section (a) [amending this section] shall be credited toward any delinquent debt owed by the producer to the Farm Service Agency.”
+Pub. L. 106–387, § 1(a) [title VIII, § 845(b)], Oct. 28, 2000, 114 Stat. 1549, 1549A–65, provided that: “Any payment made by the Commodity Credit Corporation to a producer as a result of the amendment made by section (a) [amending this section] shall be credited toward any delinquent debt owed by the producer to the Farm Service Agency.”
 
-### § 3720C. Debt Collection Improvement Account
+### § 3720C. Debt Collection Improvement Account
 
 **(a)**
 
@@ -1763,15 +1763,15 @@ Pub. L. 106–387, § 1(a) [title VIII, § 845(b)], Oct. 28, 2000, 114 Stat.
 
 **(e)** The Secretary of the Treasury shall prescribe such rules, regulations, and procedures as the Secretary considers necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 104–134, title III, § 31001(t)(1), Apr. 26, 1996, 110 Stat. 1321–373.)
+(Added Pub. L. 104–134, title III, § 31001(t)(1), Apr. 26, 1996, 110 Stat. 1321–373.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Congressional Budget Act of 1974, referred to in subsec. (d), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Title V of the Act, known as the Federal Credit Reform Act of 1990, is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (d), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Title V of the Act, known as the Federal Credit Reform Act of 1990, is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
-### § 3720D. Garnishment
+### § 3720D. Garnishment
 
 **(a)** Notwithstanding any provision of State law, the head of an executive, judicial, or legislative agency that administers a program that gives rise to a delinquent nontax debt owed to the United States by an individual may in accordance with this section garnish the disposable pay of the individual to collect the amount owed, if the individual is not currently making required repayment in accordance with any agreement between the agency head and the individual.
 
@@ -1803,9 +1803,9 @@ The Congressional Budget Act of 1974, referred to in subsec. (d), is titles I th
 
 **(1)** A hearing under subsection (b)(5) shall be provided prior to issuance of a garnishment order if the individual, on or before the 15th day following the mailing of the notice described in subsection (b)(2), and in accordance with such procedures as the head of the executive, judicial, or legislative agency may prescribe, files a petition requesting such a hearing.
 
-**(2)** If the individual does not file a petition requesting a hearing prior to such date, the head of the agency shall provide the individual a hearing under subsection (a)(5) 1
+**(2)** If the individual does not file a petition requesting a hearing prior to such date, the head of the agency shall provide the individual a hearing under subsection (a)(5) 1
 
-<sup>1</sup>  So in original. Probably should be subsection “(b)(5)”.
+<sup>1</sup> So in original. Probably should be subsection “(b)(5)”.
 
 upon request, but such hearing need not be provided prior to issuance of a garnishment order.
 
@@ -1839,9 +1839,9 @@ upon request, but such hearing need not be provided prior to issuance of a garni
 
 **(h)** The Secretary of the Treasury shall issue regulations to implement this section.
 
-(Added Pub. L. 104–134, title III, § 31001(*o*)(1), Apr. 26, 1996, 110 Stat. 1321–369.)
+(Added Pub. L. 104–134, title III, § 31001(*o*)(1), Apr. 26, 1996, 110 Stat. 1321–369.)
 
-### § 3720E. Dissemination of information regarding identity of delinquent debtors
+### § 3720E. Dissemination of information regarding identity of delinquent debtors
 
 **(a)** The head of any agency may, with the review of the Secretary of the Treasury, for the purpose of collecting any delinquent nontax debt owed by any person, publish or otherwise publicly disseminate information regarding the identity of the person and the existence of the nontax debt.
 
@@ -1857,11 +1857,11 @@ upon request, but such hearing need not be provided prior to issuance of a garni
 
 **(C)** procedures to ensure that persons are not incorrectly identified pursuant to this section.
 
-(Added Pub. L. 104–134, title III, § 31001(r)(1), Apr. 26, 1996, 110 Stat. 1321–372.)
+(Added Pub. L. 104–134, title III, § 31001(r)(1), Apr. 26, 1996, 110 Stat. 1321–372.)
 
 ## SUBCHAPTER III—CLAIMS AGAINST THE UNITED STATES GOVERNMENT
 
-### § 3721. Claims of personnel of agencies and the District of Columbia government for personal property damage or loss
+### § 3721. Claims of personnel of agencies and the District of Columbia government for personal property damage or loss
 
 **(a)** In this section—
 
@@ -1919,7 +1919,7 @@ upon request, but such hearing need not be provided prior to issuance of a garni
 
 **(k)** Settlement of a claim under this section is final and conclusive.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 973; Pub. L. 97–452, § 1(17), Jan. 12, 1983, 96 Stat. 2474; Pub. L. 100–565, § 1, Oct. 31, 1988, 102 Stat. 2833; Pub. L. 103–236, title I, § 172(a), Apr. 30, 1994, 108 Stat. 412; Pub. L. 104–106, div. A, title X, § 1088(a), Feb. 10, 1996, 110 Stat. 458.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 973; Pub. L. 97–452, § 1(17), Jan. 12, 1983, 96 Stat. 2474; Pub. L. 100–565, § 1, Oct. 31, 1988, 102 Stat. 2833; Pub. L. 103–236, title I, § 172(a), Apr. 30, 1994, 108 Stat. 412; Pub. L. 104–106, div. A, title X, § 1088(a), Feb. 10, 1996, 110 Stat. 458.)
 
 **Historical and Revision Notes**
 
@@ -1927,15 +1927,15 @@ upon request, but such hearing need not be provided prior to issuance of a garni
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3721(a), (b) | 31:240(3). | Aug. 31, 1964, Pub. L. 88–558, §§ 2(3), 4, 78 Stat. 767, 768. |
-|  | 31:241(a)(1)(1st sentence words after 3d comma, 2d sentence words after last comma, last sentence). | Aug. 31, 1964, Pub. L. 88–558, § 3(a)(1), 78 Stat. 767; restated Sept. 15, 1965, Pub. L. 89–185, § 3(b), 79 Stat. 789; Oct. 18, 1974, Pub. L. 93–455, § 1(a), 88 Stat. 1381. |
-|  | 31:241(a)(2)(words after 1st comma). | Aug. 31, 1964, Pub. L. 88–558, § 3(a)(2), (3), (b)(2)–(d), 78 Stat. 767; restated Sept. 15, 1965, Pub. L. 89–185, § 3(b)–(d), 79 Stat. 789, 790. |
-|  | 31:241(b)(1)(1st sentence words after 5th comma, 2d sentence words after last comma, last sentence). | Aug. 31, 1964, Pub. L. 88–558, § 3(b)(1), 78 Stat. 767; Sept. 15, 1965, Pub. L. 89–185, § 3(b), 79 Stat. 790; July 13, 1972, Pub. L. 92–352, § 106(a), 86 Stat. 491; restated Oct. 18, 1974, Pub. L. 93–455, § 1(b), 88 Stat. 1381. |
-|  | 31:243a(d)(2d sentence related to payment). | Aug. 31, 1964, Pub. L. 88–558, 78 Stat. 767, § 9; added Dec. 12, 1980, Pub. L. 96–519, § 1, 94 Stat. 3031. |
+| 3721(a), (b) | 31:240(3). | Aug. 31, 1964, Pub. L. 88–558, §§ 2(3), 4, 78 Stat. 767, 768. |
+|  | 31:241(a)(1)(1st sentence words after 3d comma, 2d sentence words after last comma, last sentence). | Aug. 31, 1964, Pub. L. 88–558, § 3(a)(1), 78 Stat. 767; restated Sept. 15, 1965, Pub. L. 89–185, § 3(b), 79 Stat. 789; Oct. 18, 1974, Pub. L. 93–455, § 1(a), 88 Stat. 1381. |
+|  | 31:241(a)(2)(words after 1st comma). | Aug. 31, 1964, Pub. L. 88–558, § 3(a)(2), (3), (b)(2)–(d), 78 Stat. 767; restated Sept. 15, 1965, Pub. L. 89–185, § 3(b)–(d), 79 Stat. 789, 790. |
+|  | 31:241(b)(1)(1st sentence words after 5th comma, 2d sentence words after last comma, last sentence). | Aug. 31, 1964, Pub. L. 88–558, § 3(b)(1), 78 Stat. 767; Sept. 15, 1965, Pub. L. 89–185, § 3(b), 79 Stat. 790; July 13, 1972, Pub. L. 92–352, § 106(a), 86 Stat. 491; restated Oct. 18, 1974, Pub. L. 93–455, § 1(b), 88 Stat. 1381. |
+|  | 31:243a(d)(2d sentence related to payment). | Aug. 31, 1964, Pub. L. 88–558, 78 Stat. 767, § 9; added Dec. 12, 1980, Pub. L. 96–519, § 1, 94 Stat. 3031. |
 | 3721(c)(1) | 31:243a(a)(words after 1st comma). |  |
 | 3721(c)(2) | 31:243a(e). |  |
-| 3721(c)(3) | 31:243a(note). | Dec. 12, 1980, Pub. L. 96–519, § 2, 94 Stat. 3032. |
-| 3721(d) | 31:241(f). | Aug. 31, 1964, Pub. L. 88–558, 78 Stat. 767, § 3(f); added Oct. 12, 1968, Pub. L. 90–561, 82 Stat. 998. |
+| 3721(c)(3) | 31:243a(note). | Dec. 12, 1980, Pub. L. 96–519, § 2, 94 Stat. 3032. |
+| 3721(d) | 31:241(f). | Aug. 31, 1964, Pub. L. 88–558, 78 Stat. 767, § 3(f); added Oct. 12, 1968, Pub. L. 90–561, 82 Stat. 998. |
 | 3721(e) | 31:241(c)(2). |  |
 | 3721(f) | 31:241(a)(1)(2d sentence words before last comma), (b)(1)(2d sentence words before last comma), (c)(3). |  |
 |  | 31:243a(d)(2d sentence less payment, last sentence). |  |
@@ -1943,7 +1943,7 @@ upon request, but such hearing need not be provided prior to issuance of a garni
 |  | 31:243a(c). |  |
 | 3721(h) | 31:241(a)(3), (b)(2). |  |
 |  | 31:243a(b). |  |
-| 3721(i) | 31:243. | Aug. 31, 1964, Pub. L. 88–558, 78 Stat. 767, § 8; added Sept. 15, 1965, Pub. L. 89–185, § 5, 79 Stat. 791. |
+| 3721(i) | 31:243. | Aug. 31, 1964, Pub. L. 88–558, 78 Stat. 767, § 8; added Sept. 15, 1965, Pub. L. 89–185, § 5, 79 Stat. 791. |
 | 3721(j) | 31:241(a)(1)(1st sentence words before 3d comma), (2)(words before 1st comma), (b)(1)(1st sentence words before 5th comma). |  |
 |  | 31:243a(a)(words before 1st comma), (d)(1st sentence). |  |
 | 3721(k) | 31:242. |  |
@@ -1968,11 +1968,11 @@ In subsection (f), the words “the head of the agency decides” are substitute
 
 In subsection (g), the text of 31:243a(c)(words after 1st comma) are omitted as executed. The words “in writing” and “of the United States” in 31:241(c)(1) are omitted as unnecessary.
 
-In subsection (h)(1), the words “the surviving . . . of a dead member, officer, or employee” are substituted for “If a person named in this subsection is dead” and “the decedent’s surviving” in 31:241(a)(3) and (b)(2) and “if such person is deceased” and “the decedent’s surviving” in 31:243a(b) to omit surplus words. The words “that arose before, concurrently with, or after the decedent’s death” in 31:241(a)(3) and (b)(2) and 31:243a(b) are omitted as surplus. The words “child, parent, or brother or sister” are substituted for “(2) children, (3) father or mother, or both, or (4) brothers or sisters, or both” to eliminate surplus words and because of 1:1. The words “otherwise payable” are substituted for “otherwise covered” for clarity.
+In subsection (h)(1), the words “the surviving . . . of a dead member, officer, or employee” are substituted for “If a person named in this subsection is dead” and “the decedent’s surviving” in 31:241(a)(3) and (b)(2) and “if such person is deceased” and “the decedent’s surviving” in 31:243a(b) to omit surplus words. The words “that arose before, concurrently with, or after the decedent’s death” in 31:241(a)(3) and (b)(2) and 31:243a(b) are omitted as surplus. The words “child, parent, or brother or sister” are substituted for “(2) children, (3) father or mother, or both, or (4) brothers or sisters, or both” to eliminate surplus words and because of 1:1. The words “otherwise payable” are substituted for “otherwise covered” for clarity.
 
 Subsection (h)(2) is substituted for “Claims of survivors shall be settled and paid in the order named” in 31:241(a)(3) and (b)(2) and “Claims of survivors shall be settled and paid in the order set forth in the preceding sentence” in 31:243a(b) for clarity.
 
-In subsection (i), the words “to the contrary” are omitted as surplus. The words “representative of a claimant” are substituted for “agent or attorney” for clarity and consistency. The words “be paid or delivered to or” are omitted as surplus. The word “payment” is substituted for “amount paid in settlement” to eliminate unnecessary words. The words “individual . . . submitted and settled . . . the authority of” are omitted as surplus. The words “and the same shall be unlawful” are omitted because of the restatement. The words “shall be deemed guilty of a misdemeanor and upon conviction thereof . . . in any sum” are omitted as surplus.
+In subsection (i), the words “to the contrary” are omitted as surplus. The words “representative of a claimant” are substituted for “agent or attorney” for clarity and consistency. The words “be paid or delivered to or” are omitted as surplus. The word “payment” is substituted for “amount paid in settlement” to eliminate unnecessary words. The words “individual . . . submitted and settled . . . the authority of” are omitted as surplus. The words “and the same shall be unlawful” are omitted because of the restatement. The words “shall be deemed guilty of a misdemeanor and upon conviction thereof . . . in any sum” are omitted as surplus.
 
 In subsection (j), the words “the purposes of” in 31:241(b)(1)(1st sentence words before 5th comma) are omitted as surplus. The words “(except subsection (b) to the extent that subsection (b) applies to the military departments, the Department of Defense, and the Coast Guard)” are substituted for the source provisions because of the restatement. The words “to carry out this section” after “regulations” are added for clarity.
 
@@ -1982,7 +1982,7 @@ In subsection (k), the words “Notwithstanding any other provision of law” ar
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3721(b) | 31 App.:241(a)(1), (b)(1). | July 28, 1982, Pub. L. 97–226, § 1(a), 96 Stat. 245. |
+| 3721(b) | 31 App.:241(a)(1), (b)(1). | July 28, 1982, Pub. L. 97–226, § 1(a), 96 Stat. 245. |
 
 **Editorial Notes**
 
@@ -1992,9 +1992,9 @@ In subsection (k), the words “Notwithstanding any other provision of law” ar
 
 1994—Subsec. (b). Pub. L. 103–236 designated existing provisions as par. (1) and added par. (2).
 
-1988—Subsec. (b). Pub. L. 100–565, § 1(1), substituted “$40,000” for “$25,000”.
+1988—Subsec. (b). Pub. L. 100–565, § 1(1), substituted “$40,000” for “$25,000”.
 
-Subsec. (c). Pub. L. 100–565, § 1(2), in amending subsec. (c) generally, redesignated former subsec. (c)(2) as (c) and substituted “section” for “subsection”, struck out par. (1) which authorized agency head to pay claim against Government for not more than $40,000 to member of uniformed services, or officer or employee of agency, for damage to, or loss of, personal property in foreign country, incurred after December 30, 1978, incident to service, after evacuation from foreign country, and struck out par. (3) which limited amounts to be obligated or expended for claims to extent provided in advance in appropriation laws.
+Subsec. (c). Pub. L. 100–565, § 1(2), in amending subsec. (c) generally, redesignated former subsec. (c)(2) as (c) and substituted “section” for “subsection”, struck out par. (1) which authorized agency head to pay claim against Government for not more than $40,000 to member of uniformed services, or officer or employee of agency, for damage to, or loss of, personal property in foreign country, incurred after December 30, 1978, incident to service, after evacuation from foreign country, and struck out par. (3) which limited amounts to be obligated or expended for claims to extent provided in advance in appropriation laws.
 
 1983—Subsec. (b). Pub. L. 97–452 substituted “$25,000” for “$15,000”.
 
@@ -2002,19 +2002,19 @@ Subsec. (c). Pub. L. 100–565, § 1(2), in amending subsec. (c) generally, re
 
 **Effective Date of 1996 Amendment**
 
-Pub. L. 104–106, div. A, title X, § 1088(b), Feb. 10, 1996, 110 Stat. 459, provided that: “The amendment made by subsection (a) [amending this section] shall apply to claims arising before, on, or after the date of the enactment of this Act [Feb. 10, 1996].”
+Pub. L. 104–106, div. A, title X, § 1088(b), Feb. 10, 1996, 110 Stat. 459, provided that: “The amendment made by subsection (a) [amending this section] shall apply to claims arising before, on, or after the date of the enactment of this Act [Feb. 10, 1996].”
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–236, title I, § 172(b), Apr. 30, 1994, 108 Stat. 412, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to claims arising on or after October 31, 1988.”
+Pub. L. 103–236, title I, § 172(b), Apr. 30, 1994, 108 Stat. 412, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to claims arising on or after October 31, 1988.”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–565, § 2, Oct. 31, 1988, 102 Stat. 2833, provided that: “The amendments made by this Act [amending this section] shall apply only to claims arising on or after the date of the enactment of this Act [Oct. 31, 1988].”
+Pub. L. 100–565, § 2, Oct. 31, 1988, 102 Stat. 2833, provided that: “The amendments made by this Act [amending this section] shall apply only to claims arising on or after the date of the enactment of this Act [Oct. 31, 1988].”
 
 **Effective Date of 1983 Amendment**
 
-Pub. L. 97–452, § 2(g), Jan. 12, 1983, 96 Stat. 2479, provided that: “The amendment made by section 1(17) of this Act [amending this section] applies only to claims arising after July 27, 1982.”
+Pub. L. 97–452, § 2(g), Jan. 12, 1983, 96 Stat. 2479, provided that: “The amendment made by section 1(17) of this Act [amending this section] applies only to claims arising after July 27, 1982.”
 
 **Transfer of Functions**
 
@@ -2022,7 +2022,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **Representments of Previously Presented Claims**
 
-Pub. L. 104–106, div. A, title X, § 1088(c), Feb. 10, 1996, 110 Stat. 459, provided that:
+Pub. L. 104–106, div. A, title X, § 1088(c), Feb. 10, 1996, 110 Stat. 459, provided that:
 
 > **“(1)** A claim under subsection (b) of section 3721 of title 31, United States Code, that was settled under such section before the date of the enactment of this Act [Feb. 10, 1996] may be represented under such section, as amended by subsection (a), to the head of the agency concerned to recover the amount equal to the difference between the actual amount of the damage or loss and the amount settled and paid under the authority of such section before the date of the enactment of this Act, except that—
 
@@ -2036,7 +2036,7 @@ Pub. L. 104–106, div. A, title X, § 1088(c), Feb. 10, 1996, 110 Stat. 459, 
 
 > **“(2)** Subsection (k) of such section shall not apply to bar representment of a claim described in paragraph (1), but shall apply to such a claim that is represented and settled under that section after the date of the enactment of this Act.”
 
-### § 3722. Claims of officers and employees at Government penal and correctional institutions
+### § 3722. Claims of officers and employees at Government penal and correctional institutions
 
 **(a)** The Attorney General may settle and pay not more than $1,000 in any one case for a claim made by an officer or employee at a United States Government penal or correctional institution for damage to, or loss of, personal property incident to employment.
 
@@ -2068,17 +2068,17 @@ Pub. L. 104–106, div. A, title X, § 1088(c), Feb. 10, 1996, 110 Stat. 459, 
 
 In subsection (a), the words “and such other officer or officers as he may designate for such purpose” are omitted as unnecessary because of 28:509. The word “settle” is substituted for “consider, determine, adjust” for consistency. The words “the sum of” are omitted as surplus. The words “officer or employee” are substituted for “persons employed” for consistency in the revised title and with other titles of the United States Code. The words “or destruction” are omitted as surplus.
 
-In subsection (b), the words “assigned to him . . . otherwise” are omitted as surplus.
+In subsection (b), the words “assigned to him . . . otherwise” are omitted as surplus.
 
-In subsection (c)(1), the words “no part” are substituted for “not . . . in whole or in part” because of the restatement.
+In subsection (c)(1), the words “no part” are substituted for “not . . . in whole or in part” because of the restatement.
 
-In subsection (c)(2), the words “the Attorney General decides that possession of” are substituted for “is determined” for clarity. The words “claimed to be damaged, lost, or destroyed” and “necessary, or proper . . . attendant” are omitted as surplus.
+In subsection (c)(2), the words “the Attorney General decides that possession of” are substituted for “is determined” for clarity. The words “claimed to be damaged, lost, or destroyed” and “necessary, or proper . . . attendant” are omitted as surplus.
 
 In subsection (c)(3), the word “accrues” is substituted for “the occurrence of the accident or incident out of which such claim arises” to eliminate unnecessary words.
 
 In subsection (d), the words “A claim may be paid under this section” are added for clarity. The words “the amount of the settlement” are substituted for “an award hereunder” for consistency. The words “in complete satisfaction of the claim” are substituted for “shall release the United States, its agents or employees, from any further claim by such claimant arising out of the same incident” to eliminate unnecessary words.
 
-### § 3723. Small claims for privately owned property damage or loss
+### § 3723. Small claims for privately owned property damage or loss
 
 **(a)** The head of an agency (except a military department of the Department of Defense or the Coast Guard) may settle a claim for not more than $1,000 for damage to, or loss of, privately owned property that—
 
@@ -2096,11 +2096,11 @@ In subsection (d), the words “A claim may be paid under this section” are ad
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3723(a) | 31:215(1st sentence), 216. | Dec. 28, 1922, ch. 17, §§ 1–3, 42 Stat. 1066. |
-|  | 31:216(note). | July 3, 1943, ch. 189, § 4, 57 Stat. 373. |
-|  | 31:216(note). | Dec. 28, 1945, ch. 597, § 4(words before 3d comma), 59 Stat. 662. |
-|  | 31:216(note). | Dec. 28, 1945, ch. 597, 59 Stat. 662, § 5(last sentence); added Mar. 20, 1946, ch. 104, 60 Stat. 56. |
-|  |  | Aug. 2, 1946, ch. 753, § 424(a)(last par. on p. 846), 60 Stat. 846. |
+| 3723(a) | 31:215(1st sentence), 216. | Dec. 28, 1922, ch. 17, §§ 1–3, 42 Stat. 1066. |
+|  | 31:216(note). | July 3, 1943, ch. 189, § 4, 57 Stat. 373. |
+|  | 31:216(note). | Dec. 28, 1945, ch. 597, § 4(words before 3d comma), 59 Stat. 662. |
+|  | 31:216(note). | Dec. 28, 1945, ch. 597, 59 Stat. 662, § 5(last sentence); added Mar. 20, 1946, ch. 104, 60 Stat. 56. |
+|  |  | Aug. 2, 1946, ch. 753, § 424(a)(last par. on p. 846), 60 Stat. 846. |
 | 3723(b) | 31:215(last sentence proviso). |  |
 | 3723(c) | 31:215(last sentence less proviso), 217. |  |
 
@@ -2114,26 +2114,26 @@ In subsection (c), the words “A claim under this section may be paid” are ad
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 3724. Claims for damages caused by investigative or law enforcement officers of the Department of Justice
+### § 3724. Claims for damages caused by investigative or law enforcement officers of the Department of Justice
 
 **(a)** The Attorney General may settle, for not more than $50,000 in any one case, a claim for personal injury, death, or damage to, or loss of, privately owned property, caused by an investigative or law enforcement officer as defined in section 2680(h) of title 28 who is employed by the Department of Justice acting within the scope of employment that may not be settled under chapter 171 of title 28. An officer or employee of the United States Government may not present a claim arising during the scope of employment. A claim may be allowed only if it is presented to the Attorney General within one year after it accrues.
 
 **(b)** A claim may be paid under this section only if the claimant accepts the amount of the settlement in complete satisfaction of the claim against the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 975; Pub. L. 101–203, § 1(a), (b)(1), Dec. 7, 1989, 103 Stat. 1805; Pub. L. 105–362, title X, § 1001(c), Nov. 10, 1998, 112 Stat. 3291.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 975; Pub. L. 101–203, § 1(a), (b)(1), Dec. 7, 1989, 103 Stat. 1805; Pub. L. 105–362, title X, § 1001(c), Nov. 10, 1998, 112 Stat. 3291.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 3724(a) | 31:224b(words before 9th comma and between 10th and 11th commas, 1st, 2d provisos). | Mar. 20, 1936, ch. 159, 49 Stat. 1184. |
-|  | 31:224b(note). | Aug. 2, 1946, ch. 753, § 424(a)(2d par. on p. 847), (b)(related to 2d par. of (a) on p. 847), 60 Stat. 847. |
+|  | 31:224b(note). | Aug. 2, 1946, ch. 753, § 424(a)(2d par. on p. 847), (b)(related to 2d par. of (a) on p. 847), 60 Stat. 847. |
 | 3724(b) | 31:224b(words between 9th and 10th commas and between 11th comma and 1st proviso). |  |
 | 3724(c) | 31:224b(last proviso). |  |
 
 In subsection (a), the words “of the United States” are omitted as unnecessary. The word “settle” is substituted for “consider, adjust, and determine” for consistency. The words “after January 1, 1934” are omitted as executed. The words “personal injury, death” are substituted for “damages to any person” for clarity. The words “of the Department of Justice” are omitted as unnecessary. The words “that may not be settled under chapter 171 of title 28” are substituted for section 424(a)(2d par. on p. 847) and (b)(related to 2d par. of (a) on p. 847) of the Legislative Reorganization Act of 1946 (31:224b(note)) because of the restatement. The words “An officer or employee of the United States Government may not present a claim arising during the scope of employment” are substituted for 31:224b(1st proviso) to eliminate unnecessary words. The text of 31:224b(2d proviso words after semicolon) is omitted as executed.
 
-In subsection (b), the word “settlement” is substituted for “amount as may be found due to any claimant . . . as a legal claim” for clarity and consistency. The words “by Congress” are omitted as surplus.
+In subsection (b), the word “settlement” is substituted for “amount as may be found due to any claimant . . . as a legal claim” for clarity and consistency. The words “by Congress” are omitted as surplus.
 
 In subsection (c), the words “A claim may be paid under this section” are added for clarity. The words “of the settlement” are substituted for “determined to be due him under the provisions of this section” for consistency and to eliminate unnecessary words. The word “complete” is substituted for “full and final” to eliminate unnecessary words. The word “satisfaction” is substituted for “settlement” for clarity.
 
@@ -2143,17 +2143,17 @@ In subsection (c), the words “A claim may be paid under this section” are ad
 
 1998—Subsecs. (b), (c). Pub. L. 105–362 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The Attorney General shall report annually to the Congress on all settlements made under this section. With respect to each such settlement, the Attorney General shall include a brief statement on the type of the claim, the amount claimed, and the amount of the settlement.”
 
-1989—Pub. L. 101–203, § 1(b)(1), amended section catchline generally, substituting “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation”.
+1989—Pub. L. 101–203, § 1(b)(1), amended section catchline generally, substituting “investigative or law enforcement officers of the Department of Justice” for “the Federal Bureau of Investigation”.
 
-Subsec. (a). Pub. L. 101–203, § 1(a)(1), substituted “$50,000” for “$500” and “an investigative or law enforcement officer as defined in section 2680(h) of title 28 who is employed by the Department of Justice” for “the Director or an Assistant Director, inspector, or special agent of the Federal Bureau of Investigation”.
+Subsec. (a). Pub. L. 101–203, § 1(a)(1), substituted “$50,000” for “$500” and “an investigative or law enforcement officer as defined in section 2680(h) of title 28 who is employed by the Department of Justice” for “the Director or an Assistant Director, inspector, or special agent of the Federal Bureau of Investigation”.
 
-Subsec. (b). Pub. L. 101–203, § 1(a)(2), substituted “report annually to the Congress on all settlements made under this section. With respect to each such settlement, the” for “certify to Congress a settlement under this section for payment out of an appropriation that may be made to pay the settlement. The”.
+Subsec. (b). Pub. L. 101–203, § 1(a)(2), substituted “report annually to the Congress on all settlements made under this section. With respect to each such settlement, the” for “certify to Congress a settlement under this section for payment out of an appropriation that may be made to pay the settlement. The”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–203, § 2, Dec. 7, 1989, 103 Stat. 1805, provided that:
+Pub. L. 101–203, § 2, Dec. 7, 1989, 103 Stat. 1805, provided that:
 
 > “The amendments made by section 1 [amending this section] shall apply to—
 
@@ -2165,7 +2165,7 @@ Pub. L. 101–203, § 2, Dec. 7, 1989, 103 Stat. 1805, provided that:
 
 **Settlement of Claims for Damage to or Loss of Privately Owned Property**
 
-Pub. L. 106–185, § 3(b), Apr. 25, 2000, 114 Stat. 211, provided that:
+Pub. L. 106–185, § 3(b), Apr. 25, 2000, 114 Stat. 211, provided that:
 
 > **“(1) In general.—** With respect to a claim that cannot be settled under chapter 171 of title 28, United States Code, the Attorney General may settle, for not more than $50,000 in any case, a claim for damage to, or loss of, privately owned property caused by an investigative or law enforcement officer (as defined in section 2680(h) of title 28, United States Code) who is employed by the Department of Justice acting within the scope of his or her employment.
 
@@ -2175,7 +2175,7 @@ Pub. L. 106–185, § 3(b), Apr. 25, 2000, 114 Stat. 211, provided that:
 
 > **“(B)** is presented by an officer or employee of the Federal Government and arose within the scope of employment.”
 
-### § 3725. Claims of non-nationals for personal injury or death in a foreign country
+### § 3725. Claims of non-nationals for personal injury or death in a foreign country
 
 **(a)** The Secretary of State may settle, for not more than $1,500 in any one case, a claim for personal injury or death of an individual not a national of the United States in a foreign country in which the United States exercises privileges of extraterritoriality when the injury or death is caused by an officer, employee, or agent of the United States Government (except of a military department of the Department of Defense or the Coast Guard). An officer or employee of the Government may not present a claim. A claim under this section may be allowed only if it is presented to the Secretary within one year after it accrues.
 
@@ -2190,15 +2190,15 @@ Pub. L. 106–185, § 3(b), Apr. 25, 2000, 114 Stat. 211, provided that:
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 3725(a) | 31:224a(words before 21st comma, 1st, 2d provisos). | Feb. 13, 1936, ch. 67, 49 Stat. 1138. |
-|  | 31:224a(note). | July 3, 1943, ch. 189, § 7, 57 Stat. 374. |
-|  |  | Dec. 28, 1945, ch. 597, § 1, 59 Stat. 662. |
-|  |  | Dec. 28, 1945, ch. 597, 59 Stat. 662, § 5(1st sentence); added Mar. 20, 1946, ch. 104, 60 Stat. 56. |
+|  | 31:224a(note). | July 3, 1943, ch. 189, § 7, 57 Stat. 374. |
+|  |  | Dec. 28, 1945, ch. 597, § 1, 59 Stat. 662. |
+|  |  | Dec. 28, 1945, ch. 597, 59 Stat. 662, § 5(1st sentence); added Mar. 20, 1946, ch. 104, 60 Stat. 56. |
 | 3725(b) | 31:224a(words between 21st comma and 1st proviso). |  |
 | 3725(c) | 31:224a(last proviso). |  |
 
 In subsection (a), the word “settle” is substituted for “consider, adjust, and determine” for consistency. The words “United States currency” are omitted as surplus. The words “after February 13, 1936” are omitted as executed. The words “act of omission of any” are omitted as surplus. The words “(except of a military department of the Department of Defense or the Coast Guard)” are substituted for “including all officers, enlisted men, and employees of the Army, Air Force, Navy, and Marine Corps” because of 10:2734, section 7 of the Act of July 3, 1943 (ch. 189, 57 Stat. 374), and sections 1 and 5(1st sentence) of the Act of December 28, 1945 (ch. 597, 59 Stat. 662). The words “An officer or employee of the Government may not present a claim” are substituted for 31:224a(1st proviso) for consistency and to eliminate unnecessary words. The words “by the Secretary of State” are omitted as surplus.
 
-In subsection (b), the word “settlement” is substituted for “amount as may be found to be due to any claimant . . . as a legal claim” for clarity and consistency. The words “by Congress” are omitted as surplus.
+In subsection (b), the word “settlement” is substituted for “amount as may be found to be due to any claimant . . . as a legal claim” for clarity and consistency. The words “by Congress” are omitted as surplus.
 
 In subsection (c), the words “A claim may be paid under this section” are added for clarity. The words “of the settlement” are substituted for “determined under the provisions of this section” for consistency and to eliminate unnecessary words. The word “complete” is substituted for “full” for consistency. The word “satisfaction” is substituted for “settlement” for clarity.
 
@@ -2208,7 +2208,7 @@ In subsection (c), the words “A claim may be paid under this section” are ad
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 3726. Payment for transportation
+### § 3726. Payment for transportation
 
 **(a)**
 
@@ -2260,27 +2260,27 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(j)** The Administrator of General Services may provide transportation audit and related technical assistance services, on a reimbursable basis, to any other agency. Such reimbursements may be credited to the appropriate revolving fund or appropriation from which the expenses were incurred.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 976; Pub. L. 98–443, § 9(f), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 99–627, § 1, Nov. 7, 1986, 100 Stat. 3508; Pub. L. 103–123, title VI, § 620A, Oct. 28, 1993, 107 Stat. 1265; Pub. L. 103–272, §§ 4(f)(1)(N), 5(i)(2), July 5, 1994, 108 Stat. 1362, 1375; Pub. L. 103–429, § 7(a)(3)(B), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–88, title III, § 306, Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–316, title II, § 202(*o*), Oct. 19, 1996, 110 Stat. 3844; Pub. L. 105–264, § 3(a)(3), Oct. 19, 1998, 112 Stat. 2353.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 976; Pub. L. 98–443, § 9(f), Oct. 4, 1984, 98 Stat. 1707; Pub. L. 99–627, § 1, Nov. 7, 1986, 100 Stat. 3508; Pub. L. 103–123, title VI, § 620A, Oct. 28, 1993, 107 Stat. 1265; Pub. L. 103–272, §§ 4(f)(1)(N), 5(i)(2), July 5, 1994, 108 Stat. 1362, 1375; Pub. L. 103–429, § 7(a)(3)(B), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–88, title III, § 306, Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–316, title II, § 202(*o*), Oct. 19, 1996, 110 Stat. 3844; Pub. L. 105–264, § 3(a)(3), Oct. 19, 1998, 112 Stat. 2353.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3726(a) | 31:244(a)(1st sentence, last sentence last proviso). | Sept. 18, 1940, ch. 722, § 322(a), 54 Stat. 955; Aug. 26, 1958, Pub. L. 85–762, § 2, 72 Stat. 860; Oct. 25, 1972, Pub. L. 92–550, § 1(a), 86 Stat. 1163; Jan. 2, 1975, Pub. L. 93–604, § 201(1), (2), 88 Stat. 1960. |
+| 3726(a) | 31:244(a)(1st sentence, last sentence last proviso). | Sept. 18, 1940, ch. 722, § 322(a), 54 Stat. 955; Aug. 26, 1958, Pub. L. 85–762, § 2, 72 Stat. 860; Oct. 25, 1972, Pub. L. 92–550, § 1(a), 86 Stat. 1163; Jan. 2, 1975, Pub. L. 93–604, § 201(1), (2), 88 Stat. 1960. |
 | 3726(b) | 31:244(a)(2d sentence, last sentence less last proviso). |  |
-| 3726(c) | 31:244(c), (d). | Sept. 18, 1940, ch. 722, 54 Stat. 898, § 322(c), (d); added Oct. 25, 1972, Pub. L. 92–550, § 1(b), 86 Stat. 1164; Jan. 2, 1975, Pub. L. 93–604, § 201(3), 88 Stat. 1960. |
-| 3726(d)(1) | 31:244(b). | Sept. 18, 1940, ch. 722, 54 Stat. 898, § 322(b); added Jan. 2, 1975, Pub. L. 93–604, § 201(3), 88 Stat. 1960. |
+| 3726(c) | 31:244(c), (d). | Sept. 18, 1940, ch. 722, 54 Stat. 898, § 322(c), (d); added Oct. 25, 1972, Pub. L. 92–550, § 1(b), 86 Stat. 1164; Jan. 2, 1975, Pub. L. 93–604, § 201(3), 88 Stat. 1960. |
+| 3726(d)(1) | 31:244(b). | Sept. 18, 1940, ch. 722, 54 Stat. 898, § 322(b); added Jan. 2, 1975, Pub. L. 93–604, § 201(3), 88 Stat. 1960. |
 | 3726(d)(2) | 31:244(a)(3d sentence). |  |
 
 In the section, the words “Administrator of General Services” are substituted for “General Services Administration, or his designee” for consistency. The word “freight” is added for clarity and consistency with 49:10101 et seq.
 
-In subsection (a), before clause (1), the word “individual” is substituted for “persons” for consistency. The words “or on behalf of” are omitted as unnecessary. The words “for charges for transportation . . . the purview of” are omitted as surplus. In clause (1), the word “claim” is substituted for “cause of action thereon” for consistency. In clauses (2) and (3), the words “is made” are substituted for “of charges . . . involved” and “subsequent . . . of such charges” to eliminate unnecessary words.
+In subsection (a), before clause (1), the word “individual” is substituted for “persons” for consistency. The words “or on behalf of” are omitted as unnecessary. The words “for charges for transportation . . . the purview of” are omitted as surplus. In clause (1), the word “claim” is substituted for “cause of action thereon” for consistency. In clauses (2) and (3), the words “is made” are substituted for “of charges . . . involved” and “subsequent . . . of such charges” to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words “*Provided, however*, That such deductions shall be made” are omitted because of the restatement. The words “found to be” are omitted as surplus. The words “of any overcharge by any carrier or forwarder” and “The term ‘overcharges’ shall be deemed to mean . . . those applicable thereto” are omitted because of the restatement. The word “rate” is substituted for “charges for transportation services” and “rates, fares, and charges” for consistency with title 49. In clause (1), the word “authority” is substituted for “regulatory agency” for consistency. In clause (2), the words “established” and “contract . . . from regulation” are omitted as surplus.
+In subsection (b), before clause (1), the words “*Provided, however*, That such deductions shall be made” are omitted because of the restatement. The words “found to be” are omitted as surplus. The words “of any overcharge by any carrier or forwarder” and “The term ‘overcharges’ shall be deemed to mean . . . those applicable thereto” are omitted because of the restatement. The word “rate” is substituted for “charges for transportation services” and “rates, fares, and charges” for consistency with title 49. In clause (1), the word “authority” is substituted for “regulatory agency” for consistency. In clause (2), the words “established” and “contract . . . from regulation” are omitted as surplus.
 
-In subsection (c), the text of 31:244(d) and the words “Government”, “or his designee”, and “of the United States” are omitted as unnecessary. The words “under this section” are substituted for “for passenger or freight transportation services to be furnished the United States by any carrier or forwarder” to eliminate unnecessary words. The word “transportation” is substituted for “services” for consistency. The words “ticket, receipt, bill of lading, or equivalent . . . involved” and “as ordered by the United States” are omitted as surplus.
+In subsection (c), the text of 31:244(d) and the words “Government”, “or his designee”, and “of the United States” are omitted as unnecessary. The words “under this section” are substituted for “for passenger or freight transportation services to be furnished the United States by any carrier or forwarder” to eliminate unnecessary words. The word “transportation” is substituted for “services” for consistency. The words “ticket, receipt, bill of lading, or equivalent . . . involved” and “as ordered by the United States” are omitted as surplus.
 
-In subsection (d)(1), the words “may request” are substituted for “Nothing in subsection (a) of this section hereof shall be deemed to prevent . . . from requesting” to eliminate unnecessary words. The words “of limitation” are omitted as surplus.
+In subsection (d)(1), the words “may request” are substituted for “Nothing in subsection (a) of this section hereof shall be deemed to prevent . . . from requesting” to eliminate unnecessary words. The words “of limitation” are omitted as surplus.
 
 In subsection (d)(2), the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
 
@@ -2288,7 +2288,7 @@ In subsection (d)(2), the words “Comptroller General” are substituted for �
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–264, § 3(a)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A carrier or freight forwarder presenting a bill for transporting an individual or property for the United States Government may be paid before the Administrator of General Services conducts an audit, in accordance with regulations that the Administrator shall prescribe. A claim under this section shall be allowed only if it is received by the Administrator not later than 3 years (excluding time of war) after the later of the following dates:
+1998—Subsec. (a). Pub. L. 105–264, § 3(a)(3)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “A carrier or freight forwarder presenting a bill for transporting an individual or property for the United States Government may be paid before the Administrator of General Services conducts an audit, in accordance with regulations that the Administrator shall prescribe. A claim under this section shall be allowed only if it is received by the Administrator not later than 3 years (excluding time of war) after the later of the following dates:
 
 “(1) accrual of the claim;
 
@@ -2298,31 +2298,31 @@ In subsection (d)(2), the words “Comptroller General” are substituted for �
 
 “(4) a deduction under subsection (b) of this section is made.”
 
-Subsecs. (b) to (e). Pub. L. 105–264, § 3(a)(3)(B), (C), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively. Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
+Subsecs. (b) to (e). Pub. L. 105–264, § 3(a)(3)(B), (C), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively. Former subsecs. (d) and (e) redesignated (f) and (g), respectively.
 
-Subsec. (f). Pub. L. 105–264, § 3(a)(3)(B), (D), redesignated subsec. (d) as (f), substituted “subsection (e)” for “subsection (c)”, and inserted at end “This reporting requirement expires December 31, 1998.” Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 105–264, § 3(a)(3)(B), (D), redesignated subsec. (d) as (f), substituted “subsection (e)” for “subsection (c)”, and inserted at end “This reporting requirement expires December 31, 1998.” Former subsec. (f) redesignated (h).
 
-Subsecs. (g), (h). Pub. L. 105–264, § 3(a)(3)(B), redesignated subsecs. (e) and (f) as (g) and (h), respectively. Former subsec. (g) redesignated (i).
+Subsecs. (g), (h). Pub. L. 105–264, § 3(a)(3)(B), redesignated subsecs. (e) and (f) as (g) and (h), respectively. Former subsec. (g) redesignated (i).
 
-Subsec. (i). Pub. L. 105–264, § 3(a)(3)(B), redesignated subsec. (g) as (i).
+Subsec. (i). Pub. L. 105–264, § 3(a)(3)(B), redesignated subsec. (g) as (i).
 
-Subsec. (i)(1). Pub. L. 105–264, § 3(a)(3)(E), substituted “subsection (c)” for “subsection (a)”.
+Subsec. (i)(1). Pub. L. 105–264, § 3(a)(3)(E), substituted “subsection (c)” for “subsection (a)”.
 
-Subsec. (j). Pub. L. 105–264, § 3(a)(3)(F), added subsec. (j).
+Subsec. (j). Pub. L. 105–264, § 3(a)(3)(F), added subsec. (j).
 
-1996—Subsec. (f). Pub. L. 104–316, § 202(*o*)(1), substituted “Treasury prescribes” for “Treasury and the Comptroller General prescribe jointly”.
+1996—Subsec. (f). Pub. L. 104–316, § 202(*o*)(1), substituted “Treasury prescribes” for “Treasury and the Comptroller General prescribe jointly”.
 
-Subsec. (g)(1). Pub. L. 104–316, § 202(*o*)(2), substituted “Administrator of General Services” for “Comptroller General”.
+Subsec. (g)(1). Pub. L. 104–316, § 202(*o*)(2), substituted “Administrator of General Services” for “Comptroller General”.
 
-1995—Subsec. (b)(1). Pub. L. 104–88, § 306(1), (2), substituted “under title 49 or on file with” for “on file with the Interstate Commerce Commission,” and struck out “or” after the semicolon at end.
+1995—Subsec. (b)(1). Pub. L. 104–88, § 306(1), (2), substituted “under title 49 or on file with” for “on file with the Interstate Commerce Commission,” and struck out “or” after the semicolon at end.
 
-Subsec. (b)(2). Pub. L. 104–88, § 306(4), added par. (2). Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 104–88, § 306(4), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (b)(3). Pub. L. 104–88, § 306(3), (5), redesignated par. (2) as (3) and substituted “sections 10721, 13712, and 15504” for “sections 10721–10724”.
+Subsec. (b)(3). Pub. L. 104–88, § 306(3), (5), redesignated par. (2) as (3) and substituted “sections 10721, 13712, and 15504” for “sections 10721–10724”.
 
-1994—Subsec. (b)(1). Pub. L. 103–272, § 5(i)(2), substituted “section 40102(a) of title 49” for “the Federal Aviation Act of 1958”.
+1994—Subsec. (b)(1). Pub. L. 103–272, § 5(i)(2), substituted “section 40102(a) of title 49” for “the Federal Aviation Act of 1958”.
 
-Subsec. (d). Pub. L. 103–272, § 4(f)(1)(N), which directed the substitution of “miscellaneous receipts” for “miscellaneous receipt”, was repealed by Pub. L. 103–429.
+Subsec. (d). Pub. L. 103–272, § 4(f)(1)(N), which directed the substitution of “miscellaneous receipts” for “miscellaneous receipt”, was repealed by Pub. L. 103–429.
 
 1993—Subsecs. (c) and (d). Pub. L. 103–123 amended subsecs. (c) and (d) generally. Prior to amendment, subsecs. (c) and (d) read as follows:
 
@@ -2330,9 +2330,9 @@ Subsec. (d). Pub. L. 103–272, § 4(f)(1)(N), which directed the substitution
 
 “(d) At least annually, and as determined by the Administrator, after making adequate provision for expenses of refunds to carriers, transportation audit contracts, and contract administration authorized in subsection (c), the balance of the overpayments collected by the General Services Administration shall be transferred to miscellaneous receipt of the Treasury. A report of receipts, disbursements, and transfers (to miscellaneous receipts) pursuant to this section shall be made annually in connection with the budget estimates to the Director of the Office of Management and Budget and to the Congress.”
 
-1986—Subsec. (a). Pub. L. 99–627, § 1(1), amended first sentence generally, substituting “may be paid before the Administrator of General Services conducts an audit, in accordance with regulations that the Administrator shall prescribe” for “shall be paid before the Administrator of General Services conducts an audit”.
+1986—Subsec. (a). Pub. L. 99–627, § 1(1), amended first sentence generally, substituting “may be paid before the Administrator of General Services conducts an audit, in accordance with regulations that the Administrator shall prescribe” for “shall be paid before the Administrator of General Services conducts an audit”.
 
-Subsecs. (c) to (g). Pub. L. 99–627, § 1(2), (3), added subsecs. (c) to (e) and redesignated former subsecs. (c) and (d) as (f) and (g), respectively.
+Subsecs. (c) to (g). Pub. L. 99–627, § 1(2), (3), added subsecs. (c) to (e) and redesignated former subsecs. (c) and (d) as (f) and (g), respectively.
 
 1984—Subsec. (b)(1). Pub. L. 98–443 substituted “Secretary of Transportation with respect to foreign air transportation (as defined in the Federal Aviation Act of 1958)” for “Civil Aeronautics Board”.
 
@@ -2348,7 +2348,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–429, § 7(a), Oct. 31, 1994, 108 Stat. 4388, provided that the amendment made by that section is effective July 5, 1994.
+Pub. L. 103–429, § 7(a), Oct. 31, 1994, 108 Stat. 4388, provided that the amendment made by that section is effective July 5, 1994.
 
 **Effective Date of 1984 Amendment**
 
@@ -2356,7 +2356,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 **Task Force**
 
-Pub. L. 99–627, § 2, Nov. 7, 1986, 100 Stat. 3508, provided that:
+Pub. L. 99–627, § 2, Nov. 7, 1986, 100 Stat. 3508, provided that:
 
 > **“(a)** Within 60 days after the date of enactment of this Act [Nov. 7, 1986], the Administrator of General Services shall establish a task force to study and investigate the feasibility, desirability, and economy of an integrated, automated system that Federal agencies may use in managing the transportation of property for the United States.
 
@@ -2376,7 +2376,7 @@ Pub. L. 99–627, § 2, Nov. 7, 1986, 100 Stat. 3508, provided that:
 
 > **“(f)** The task force shall submit a final report on the results of its study and investigation to the Congress not later than July 1, 1988.”
 
-### § 3727. Assignments of claims
+### § 3727. Assignments of claims
 
 **(a)** In this section, “assignment” means—
 
@@ -2418,12 +2418,12 @@ Pub. L. 99–627, § 2, Nov. 7, 1986, 100 Stat. 3508, provided that:
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3727(a) | 31:203(1st par. words before 9th comma). | R.S. § 3477; May 27, 1908, ch. 206(last par. on p. 411), 35 Stat. 411; Oct. 9, 1940, ch. 779, § 1(related to § 3477), 54 Stat. 1029; May 15, 1951, ch. 75, § 1(related to § 1 related to § 3477), 65 Stat. 41. |
+| 3727(a) | 31:203(1st par. words before 9th comma). | R.S. § 3477; May 27, 1908, ch. 206(last par. on p. 411), 35 Stat. 411; Oct. 9, 1940, ch. 779, § 1(related to § 3477), 54 Stat. 1029; May 15, 1951, ch. 75, § 1(related to § 1 related to § 3477), 65 Stat. 41. |
 | 3727(b) | 31:203(1st par. words after 9th comma, 3d, last pars.). |  |
 | 3727(c) | 31:203(2d par.). |  |
 | 3727(d) | 31:203(5th par.). |  |
 | 3727(e)(1) | 31:203(4th par.). |  |
-| 3727(e)(2) | 31:239. | Aug. 10, 1956, ch. 1041, § 45, 70A Stat. 638. |
+| 3727(e)(2) | 31:239. | Aug. 10, 1956, ch. 1041, § 45, 70A Stat. 638. |
 
 In subsection (a)(1), the words “or share thereof” and “whether absolute or conditional, and whatever may be the consideration therefor” are omitted as surplus. In clause (2), the word “authorization” is substituted for “powers of attorney, orders, or other authorities” to eliminate unnecessary words.
 
@@ -2431,15 +2431,15 @@ In subsections (b) and (c), the word “official” is substituted for “office
 
 In subsection (b), the words “Except as hereinafter provided” are omitted as unnecessary. The words “read and” are omitted as surplus. The words “to the person acknowledging the same” are omitted as unnecessary. The text of 31:203(1st par. last sentence) is omitted as superseded by 39:410. The words “Notwithstanding any law to the contrary governing the validity of assignments” and the text of 31:203(last par.) are omitted as unnecessary.
 
-In subsection (c), before clause (1), the words “bank, trust company, or other . . . including any Federal lending agency” are omitted as surplus. The words “of money due or to become due under a contract providing for payments totaling at least $1,000” are substituted for “in any case in which the moneys due or to become due from the United States or from any agency or department thereof, under a contract providing for payments aggregating $1,000 or more” to eliminate unnecessary words. The text of 31:203(2d par. proviso cl. 1) is omitted as executed. In clause (1), the words “in the case of any contract entered into after October 9, 1940” are omitted as executed. In clause (2)(A), the words “payable under such contract” are omitted as surplus. In clause (3), the words “true” and “instrument of” are omitted as surplus. The words “department or” are omitted because of the restatement. The words “if any” and “to make payment” are omitted as surplus.
+In subsection (c), before clause (1), the words “bank, trust company, or other . . . including any Federal lending agency” are omitted as surplus. The words “of money due or to become due under a contract providing for payments totaling at least $1,000” are substituted for “in any case in which the moneys due or to become due from the United States or from any agency or department thereof, under a contract providing for payments aggregating $1,000 or more” to eliminate unnecessary words. The text of 31:203(2d par. proviso cl. 1) is omitted as executed. In clause (1), the words “in the case of any contract entered into after October 9, 1940” are omitted as executed. In clause (2)(A), the words “payable under such contract” are omitted as surplus. In clause (3), the words “true” and “instrument of” are omitted as surplus. The words “department or” are omitted because of the restatement. The words “if any” and “to make payment” are omitted as surplus.
 
-In subsection (d), before clause (1), the words “During a war or national emergency proclaimed by the President or declared by law and ended by proclamation or law” are substituted for “in time of war or national emergency proclaimed by the President (including the national emergency proclaimed December 16, 1950) or by Act or joint resolution of the Congress and until such war or national emergency has been terminated in such manner” to eliminate unnecessary words. The words “Department of Energy (when carrying out duties and powers formerly carried out by the Atomic Energy Commission)” are substituted for “Atomic Energy Commission” (which was reconstituted as the Energy Research and Development Administration by 42:5813 and 5814) because of 42:7151(a) and 7293. The words “other department or . . . of the United States . . . except any such contract under which full payment has been made” and “of any moneys due or to become due under such contract” before “shall not be subject” are omitted as surplus. The words “A payment subsequently due under the contract (even after the war or emergency is ended) shall be paid to the assignee without” are substituted for “and if such provision or one to the same general effect has been at any time heretofore or is hereafter included or inserted in any such contract, payments to be made thereafter to an assignee of any moneys due or to become due under such contract, whether during or after such war or emergency . . . hereafter” to eliminate unnecessary words. The words “of any nature” are omitted as surplus. In clause (1), the words “or any department or agency thereof” are omitted as unnecessary. In clause (2), the words “under any renegotiation statute or under any statutory renegotiation article in the contract” are omitted as surplus.
+In subsection (d), before clause (1), the words “During a war or national emergency proclaimed by the President or declared by law and ended by proclamation or law” are substituted for “in time of war or national emergency proclaimed by the President (including the national emergency proclaimed December 16, 1950) or by Act or joint resolution of the Congress and until such war or national emergency has been terminated in such manner” to eliminate unnecessary words. The words “Department of Energy (when carrying out duties and powers formerly carried out by the Atomic Energy Commission)” are substituted for “Atomic Energy Commission” (which was reconstituted as the Energy Research and Development Administration by 42:5813 and 5814) because of 42:7151(a) and 7293. The words “other department or . . . of the United States . . . except any such contract under which full payment has been made” and “of any moneys due or to become due under such contract” before “shall not be subject” are omitted as surplus. The words “A payment subsequently due under the contract (even after the war or emergency is ended) shall be paid to the assignee without” are substituted for “and if such provision or one to the same general effect has been at any time heretofore or is hereafter included or inserted in any such contract, payments to be made thereafter to an assignee of any moneys due or to become due under such contract, whether during or after such war or emergency . . . hereafter” to eliminate unnecessary words. The words “of any nature” are omitted as surplus. In clause (1), the words “or any department or agency thereof” are omitted as unnecessary. In clause (2), the words “under any renegotiation statute or under any statutory renegotiation article in the contract” are omitted as surplus.
 
 Subsection (e)(1) is substituted for 31:203(4th par.) to eliminate unnecessary words.
 
 In subsection (e)(2), the words “person receiving an amount under an assignment or allotment” are substituted for “assignees, transferees, or allottees” for clarity and consistency. The words “or to others for them” and “with respect to such assignments, transfers, or allotments or the use of such moneys” are omitted as surplus. The words “person making the assignment or allotment” are substituted for “assignors, transferors, or allotters” for clarity and consistency.
 
-### § 3728. Setoff against judgment
+### § 3728. Setoff against judgment
 
 **(a)** The Secretary of the Treasury shall withhold paying that part of a judgment against the United States Government presented to the Secretary that is equal to a debt the plaintiff owes the Government.
 
@@ -2455,19 +2455,19 @@ In subsection (e)(2), the words “person receiving an amount under an assignmen
 
 **(c)** If the Government loses a civil action to recover a debt or recovers less than the amount the Secretary withholds under this section, the Secretary shall pay the plaintiff the balance and interest of 6 percent for the time the money is withheld.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 977; Pub. L. 104–316, title II, § 202(p), Oct. 19, 1996, 110 Stat. 3844.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 977; Pub. L. 104–316, title II, § 202(p), Oct. 19, 1996, 110 Stat. 3844.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3728(a) | 31:227(1st sentence words before semicolon). | Mar. 3, 1875, ch. 149, 18 Stat. 481; restated Mar. 3, 1933, ch. 212, § 13, 47 Stat. 1516. |
+| 3728(a) | 31:227(1st sentence words before semicolon). | Mar. 3, 1875, ch. 149, 18 Stat. 481; restated Mar. 3, 1933, ch. 212, § 13, 47 Stat. 1516. |
 | 3728(b) | 31:227(1st sentence words after semicolon, 2d, 3d sentences). |  |
 | 3728(c) | 31:227(last sentence). |  |
 
 In the section, the words “of the United States” are omitted as unnecessary.
 
-In subsection (a), the words “final . . . recovered . . . duly allowed by legal authority”, “for payment”, and “in any manner, whether as principal or surety” are omitted as surplus.
+In subsection (a), the words “final . . . recovered . . . duly allowed by legal authority”, “for payment”, and “in any manner, whether as principal or surety” are omitted as surplus.
 
 In subsection (b)(1), the words “due from the plaintiff to the United States” are omitted as surplus.
 
@@ -2481,11 +2481,11 @@ In subsection (c), the words “for debt and costs”, “thereon”, and “fro
 
 **Amendments**
 
-1996—Subsec. (a). Pub. L. 104–316, § 202(p)(1), (2), substituted “Secretary of the Treasury” for “Comptroller General” before “shall withhold” and “Secretary” for “Comptroller General” after “presented to the”.
+1996—Subsec. (a). Pub. L. 104–316, § 202(p)(1), (2), substituted “Secretary of the Treasury” for “Comptroller General” before “shall withhold” and “Secretary” for “Comptroller General” after “presented to the”.
 
-Subsecs. (b), (c). Pub. L. 104–316, § 202(p)(2), substituted “Secretary” for “Comptroller General” wherever appearing.
+Subsecs. (b), (c). Pub. L. 104–316, § 202(p)(2), substituted “Secretary” for “Comptroller General” wherever appearing.
 
-### § 3729. False claims
+### § 3729. False claims
 
 **(a) Liability for Certain Acts.—**
 
@@ -2505,9 +2505,9 @@ Subsecs. (b), (c). Pub. L. 104–316, § 202(p)(2), substituted “Secretary�
 
 **(G)** knowingly makes, uses, or causes to be made or used, a false record or statement material to an obligation to pay or transmit money or property to the Government, or knowingly conceals or knowingly and improperly avoids or decreases an obligation to pay or transmit money or property to the Government,
 
-is liable to the United States Government for a civil penalty of not less than $5,000 and not more than $10,000, as adjusted by the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note; Public Law 104–410 1
+is liable to the United States Government for a civil penalty of not less than $5,000 and not more than $10,000, as adjusted by the Federal Civil Penalties Inflation Adjustment Act of 1990 (28 U.S.C. 2461 note; Public Law 104–410 1
 
-<sup>1</sup>  So in original. Probably should be “101–410”.
+<sup>1</sup> So in original. Probably should be “101–410”.
 
 ), plus 3 times the amount of damages which the Government sustains because of the act of that person.
 
@@ -2559,13 +2559,13 @@ the court may assess not less than 2 times the amount of damages which the Gover
 
 **(d) Exclusion.—** This section does not apply to claims, records, or statements made under the Internal Revenue Code of 1986.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 978; Pub. L. 99–562, § 2, Oct. 27, 1986, 100 Stat. 3153; Pub. L. 103–272, § 4(f)(1)(O), July 5, 1994, 108 Stat. 1362; Pub. L. 111–21, § 4(a), May 20, 2009, 123 Stat. 1621.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 978; Pub. L. 99–562, § 2, Oct. 27, 1986, 100 Stat. 3153; Pub. L. 103–272, § 4(f)(1)(O), July 5, 1994, 108 Stat. 1362; Pub. L. 111–21, § 4(a), May 20, 2009, 123 Stat. 1621.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3729 | 31:231. | R.S. § 3490. |
+| 3729 | 31:231. | R.S. § 3490. |
 
 In the section, before clause (1), the words “a member of an armed force of the United States” are substituted for “in the military or naval forces of the United States, or in the militia called into or actually employed in the service of the United States” and “military or naval service” for consistency with title 10. The words “is liable” are substituted for “shall forfeit and pay” for consistency. The words “civil action” are substituted for “suit” for consistency in the revised title and with other titles of the United States Code. The words “and such forfeiture and damages shall be sued for in the same suit” are omitted as unnecessary because of rules 8 and 10 of the Federal Rules of Civil Procedure (28 App. U.S.C.). In clauses (1)–(3), the words “false or fraudulent” are substituted for “false, fictitious, or fraudulent” and “Fraudulent or fictitious” to eliminate unnecessary words and for consistency. In clause (1), the words “presents, or causes to be presented” are substituted for “shall make or cause to be made, or present or cause to be presented” for clarity and consistency and to eliminate unnecessary words. The words “officer or employee of the Government or a member of an armed force” are substituted for “officer in the civil, military, or naval service of the United States” for consistency in the revised title and with other titles of the Code. The words “upon or against the Government of the United States, or any department of the United States, or any department or officer thereof” are omitted as surplus. In clause (2), the word “knowingly” is substituted for “knowing the same to contain any fraudulent or fictitious statement or entry” to eliminate unnecessary words. The words “record or statement” are substituted for “bill, receipt, voucher, roll, account, claim, certificate, affidavit, or deposition” for consistency in the revised title and with other titles of the Code. In clause (3), the words “conspires to” are substituted for “enters into any agreement, combination, or conspiracy” to eliminate unnecessary words. The words “of the United States, or any department or officer thereof” are omitted as surplus. In clause (4), the words “charge”, “or other”, and “to any other person having authority to receive the same” are omitted as surplus. In clause (5), the words “document certifying receipt” are substituted for “certificate, voucher, receipt, or other paper certifying the receipt” to eliminate unnecessary words. The words “arms, ammunition, provisions, clothing, or other”, “to any other person”, and “the truth of” are omitted as surplus. In clause (6), the words “arms, equipments, ammunition, clothes, military stores, or other” are omitted as surplus. The words “member of an armed force” are substituted for “soldier, officer, sailor, or other person called into or employed in the military or naval service” for consistency with title 10. The words “such soldier, sailor, officer, or other person” are omitted as surplus.
 
@@ -2577,37 +2577,37 @@ The Internal Revenue Code of 1986, referred to in subsec. (d), is classified gen
 
 **Amendments**
 
-2009—Subsecs. (a), (b). Pub. L. 111–21, § 4(a)(1), (2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to liability for certain acts and defined “knowing” and “knowingly”, respectively.
+2009—Subsecs. (a), (b). Pub. L. 111–21, § 4(a)(1), (2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to liability for certain acts and defined “knowing” and “knowingly”, respectively.
 
-Subsec. (c). Pub. L. 111–21, § 4(a)(4), substituted “subsection (a)(2)” for “subparagraphs (A) through (C) of subsection (a)”.
+Subsec. (c). Pub. L. 111–21, § 4(a)(4), substituted “subsection (a)(2)” for “subparagraphs (A) through (C) of subsection (a)”.
 
-Pub. L. 111–21, § 4(a)(2), (3), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Prior to amendment, text read as follows: “For purposes of this section, ‘claim’ includes any request or demand, whether under a contract or otherwise, for money or property which is made to a contractor, grantee, or other recipient if the United States Government provides any portion of the money or property which is requested or demanded, or if the Government will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.”
+Pub. L. 111–21, § 4(a)(2), (3), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Prior to amendment, text read as follows: “For purposes of this section, ‘claim’ includes any request or demand, whether under a contract or otherwise, for money or property which is made to a contractor, grantee, or other recipient if the United States Government provides any portion of the money or property which is requested or demanded, or if the Government will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.”
 
-Subsecs. (d), (e). Pub. L. 111–21, § 4(a)(3), redesignated subsecs. (d) and (e) as (c) and (d), respectively.
+Subsecs. (d), (e). Pub. L. 111–21, § 4(a)(3), redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 
 1994—Subsec. (e). Pub. L. 103–272 substituted “1986” for “1954”.
 
-1986—Subsec. (a). Pub. L. 99–562, § 2(1), designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “Any person who” for “A person not a member of an armed force of the United States is liable to the United States Government for a civil penalty of $2,000, an amount equal to 2 times the amount of damages the Government sustains because of the act of that person, and costs of the civil action, if the person” in introductory provisions.
+1986—Subsec. (a). Pub. L. 99–562, § 2(1), designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “Any person who” for “A person not a member of an armed force of the United States is liable to the United States Government for a civil penalty of $2,000, an amount equal to 2 times the amount of damages the Government sustains because of the act of that person, and costs of the civil action, if the person” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 99–562, § 2(2), substituted “United States Government or a member of the Armed Forces of the United States” for “Government or a member of an armed force”.
+Subsec. (a)(1). Pub. L. 99–562, § 2(2), substituted “United States Government or a member of the Armed Forces of the United States” for “Government or a member of an armed force”.
 
-Subsec. (a)(2). Pub. L. 99–562, § 2(3), inserted “by the Government” after “approved”.
+Subsec. (a)(2). Pub. L. 99–562, § 2(3), inserted “by the Government” after “approved”.
 
-Subsec. (a)(4). Pub. L. 99–562, § 2(4), substituted “control of property” for “control of public property” and “by the Government” for “in an armed force”.
+Subsec. (a)(4). Pub. L. 99–562, § 2(4), substituted “control of property” for “control of public property” and “by the Government” for “in an armed force”.
 
-Subsec. (a)(5). Pub. L. 99–562, § 2(5), substituted “by the Government” for “in an armed force” and “true;” for “true; or”.
+Subsec. (a)(5). Pub. L. 99–562, § 2(5), substituted “by the Government” for “in an armed force” and “true;” for “true; or”.
 
-Subsec. (a)(6). Pub. L. 99–562, § 2(6), substituted “an officer or employee of the Government, or a member of the Armed Forces,” for “a member of an armed force” and “property; or” for “property.”
+Subsec. (a)(6). Pub. L. 99–562, § 2(6), substituted “an officer or employee of the Government, or a member of the Armed Forces,” for “a member of an armed force” and “property; or” for “property.”
 
-Subsec. (a)(7). Pub. L. 99–562, § 2(7), added par. (7).
+Subsec. (a)(7). Pub. L. 99–562, § 2(7), added par. (7).
 
-Subsecs. (b) to (e). Pub. L. 99–562, § 2(7), added subsecs. (b) to (e).
+Subsecs. (b) to (e). Pub. L. 99–562, § 2(7), added subsecs. (b) to (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2009 Amendment**
 
-Pub. L. 111–21, § 4(f), May 20, 2009, 123 Stat. 1625, provided that:
+Pub. L. 111–21, § 4(f), May 20, 2009, 123 Stat. 1625, provided that:
 
 > “The amendments made by this section [amending this section and sections 3730 to 3733 of this title] shall take effect on the date of enactment of this Act [May 20, 2009] and shall apply to conduct on or after the date of enactment, except that—
 
@@ -2617,11 +2617,11 @@ Pub. L. 111–21, § 4(f), May 20, 2009, 123 Stat. 1625, provided that:
 
 **Increased Penalties for False Claims in Defense Procurement**
 
-Pub. L. 99–145, title IX, § 931(b), Nov. 8, 1985, 99 Stat. 699, provided that: “Notwithstanding section 3729 of title 31, United States Code, the amount of the liability under that section in the case of a person who makes a false claim related to a contract with the Department of Defense shall be a civil penalty of $2,000, an amount equal to three times the amount of the damages the Government sustains because of the act of the person, and costs of the civil action.”
+Pub. L. 99–145, title IX, § 931(b), Nov. 8, 1985, 99 Stat. 699, provided that: “Notwithstanding section 3729 of title 31, United States Code, the amount of the liability under that section in the case of a person who makes a false claim related to a contract with the Department of Defense shall be a civil penalty of $2,000, an amount equal to three times the amount of the damages the Government sustains because of the act of the person, and costs of the civil action.”
 
 [Section 931(c) of Pub. L. 99–145 provided that section 931(b) is applicable to claims made or presented on or after Nov. 8, 1985.]
 
-### § 3730. Civil actions for false claims
+### § 3730. Civil actions for false claims
 
 **(a) Responsibilities of the Attorney General.—** The Attorney General diligently shall investigate a violation under section 3729. If the Attorney General finds that a person has violated or is violating section 3729, the Attorney General may bring a civil action under this section against the person.
 
@@ -2629,9 +2629,9 @@ Pub. L. 99–145, title IX, § 931(b), Nov. 8, 1985, 99 Stat. 699, provided th
 
 **(1)** A person may bring a civil action for a violation of section 3729 for the person and for the United States Government. The action shall be brought in the name of the Government. The action may be dismissed only if the court and the Attorney General give written consent to the dismissal and their reasons for consenting.
 
-**(2)** A copy of the complaint and written disclosure of substantially all material evidence and information the person possesses shall be served on the Government pursuant to Rule 4(d)(4) 1
+**(2)** A copy of the complaint and written disclosure of substantially all material evidence and information the person possesses shall be served on the Government pursuant to Rule 4(d)(4) 1
 
-<sup>1</sup>  So in original. Probably should be a reference to Rule 4(i).
+<sup>1</sup> So in original. Probably should be a reference to Rule 4(i).
 
 of the Federal Rules of Civil Procedure. The complaint shall be filed in camera, shall remain under seal for at least 60 days, and shall not be served on the defendant until the court so orders. The Government may elect to intervene and proceed with the action within 60 days after it receives both the complaint and the material evidence and information.
 
@@ -2675,9 +2675,9 @@ of the Federal Rules of Civil Procedure. The complaint shall be filed in camera,
 
 **(d) Award to Qui Tam Plaintiff.—**
 
-**(1)** If the Government proceeds with an action brought by a person under subsection (b), such person shall, subject to the second sentence of this paragraph, receive at least 15 percent but not more than 25 percent of the proceeds of the action or settlement of the claim, depending upon the extent to which the person substantially contributed to the prosecution of the action. Where the action is one which the court finds to be based primarily on disclosures of specific information (other than information provided by the person bringing the action) relating to allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government 2
+**(1)** If the Government proceeds with an action brought by a person under subsection (b), such person shall, subject to the second sentence of this paragraph, receive at least 15 percent but not more than 25 percent of the proceeds of the action or settlement of the claim, depending upon the extent to which the person substantially contributed to the prosecution of the action. Where the action is one which the court finds to be based primarily on disclosures of specific information (other than information provided by the person bringing the action) relating to allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government 2
 
-<sup>2</sup>  So in original. Probably should be “General”.
+<sup>2</sup> So in original. Probably should be “General”.
 
 Accounting Office report, hearing, audit, or investigation, or from the news media, the court may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds, taking into account the significance of the information and the role of the person bringing the action in advancing the case to litigation. Any payment to a person under the first or second sentence of this paragraph shall be made from the proceeds. Any such person shall also receive an amount for reasonable expenses which the court finds to have been necessarily incurred, plus reasonable attorneys’ fees and costs. All such expenses, fees, and costs shall be awarded against the defendant.
 
@@ -2711,9 +2711,9 @@ Accounting Office report, hearing, audit, or investigation, or from the news med
 
 unless the action is brought by the Attorney General or the person bringing the action is an original source of the information.
 
-**(B)** For purposes of this paragraph, “original source” means an individual who either (i) prior to a public disclosure under subsection (e)(4)(a), has voluntarily disclosed to the Government the information on which allegations or transactions in a claim are based, or (2) who has 3
+**(B)** For purposes of this paragraph, “original source” means an individual who either (i) prior to a public disclosure under subsection (e)(4)(a), has voluntarily disclosed to the Government the information on which allegations or transactions in a claim are based, or (2) who has 3
 
-<sup>3</sup>  So in original. Probably should be “or (ii) has”.
+<sup>3</sup> So in original. Probably should be “or (ii) has”.
 
 knowledge that is independent of and materially adds to the publicly disclosed allegations or transactions, and who has voluntarily provided the information to the Government before filing an action under this section.
 
@@ -2729,14 +2729,14 @@ knowledge that is independent of and materially adds to the publicly disclosed a
 
 **(3) Limitation on bringing civil action.—** A civil action under this subsection may not be brought more than 3 years after the date when the retaliation occurred.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 978; Pub. L. 99–562, §§ 3, 4, Oct. 27, 1986, 100 Stat. 3154, 3157; Pub. L. 100–700, § 9, Nov. 19, 1988, 102 Stat. 4638; Pub. L. 101–280, § 10(a), May 4, 1990, 104 Stat. 162; Pub. L. 103–272, § 4(f)(1)(P), July 5, 1994, 108 Stat. 1362; Pub. L. 111–21, § 4(d), May 20, 2009, 123 Stat. 1624; Pub. L. 111–148, title X, § 10104(j)(2), Mar. 23, 2010, 124 Stat. 901; Pub. L. 111–203, title X, § 1079A(c), July 21, 2010, 124 Stat. 2079; Pub. L. 117–286, § 4(c)(36), Dec. 27, 2022, 136 Stat. 4358.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 978; Pub. L. 99–562, §§ 3, 4, Oct. 27, 1986, 100 Stat. 3154, 3157; Pub. L. 100–700, § 9, Nov. 19, 1988, 102 Stat. 4638; Pub. L. 101–280, § 10(a), May 4, 1990, 104 Stat. 162; Pub. L. 103–272, § 4(f)(1)(P), July 5, 1994, 108 Stat. 1362; Pub. L. 111–21, § 4(d), May 20, 2009, 123 Stat. 1624; Pub. L. 111–148, title X, § 10104(j)(2), Mar. 23, 2010, 124 Stat. 901; Pub. L. 111–203, title X, § 1079A(c), July 21, 2010, 124 Stat. 2079; Pub. L. 117–286, § 4(c)(36), Dec. 27, 2022, 136 Stat. 4358.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3730(a) | 31:233. | R.S. § 3492. |
-| 3730(b)(1) | 31:232(A), (B)(less words between 3d and 4th commas). | R.S. § 3491(A)–(E); restated Dec. 23, 1943, ch. 377, § 1, 57 Stat. 608; June 11, 1960, Pub. L. 86–507, § 1(28), (29), 74 Stat. 202. |
+| 3730(a) | 31:233. | R.S. § 3492. |
+| 3730(b)(1) | 31:232(A), (B)(less words between 3d and 4th commas). | R.S. § 3491(A)–(E); restated Dec. 23, 1943, ch. 377, § 1, 57 Stat. 608; June 11, 1960, Pub. L. 86–507, § 1(28), (29), 74 Stat. 202. |
 | 3730(b)(2) | 31:232(C)(1st–3d sentences, 5th sentence proviso). |  |
 | 3730(b)(3) | 31:232(C)(4th sentence, 5th sentence less proviso). |  |
 | 3730(b)(4) | 31:232(C)(last sentence), (D). |  |
@@ -2750,13 +2750,13 @@ In subsection (a), the words “Attorney General” are substituted for “sever
 
 In subsection (b)(1), the words “Except as hereinafter provided” are omitted as unnecessary. The words “for a violation of section 3729 of this title” are added because of the restatement. The words “and carried on”, “several” and “full power and” are omitted as surplus. The words “of the action” are substituted for “to hear, try, and determine such suit” to eliminate unnecessary words. The words “Trial is in the judicial district within whose jurisdictional limits the person charged with a violation is found or the violation occurs” are substituted for “within whose jurisdictional limits the person doing or committing such act shall be found, shall wheresoever such act may have been done or committed” for consistency in the revised title and with other titles of the Code. The words “withdrawn or” and “judge of the” are omitted as surplus. The words “Attorney General” are substituted for “district attorney [subsequently changed to ‘United States attorneys’ because of section 1 of the Act of June 25, 1948 (ch. 646, 62 Stat. 909)], first filed in the case” because of 28:509.
 
-In subsection (b)(2), before clause (A), the words “bill of”, “Whenever any such suit shall be brought by any person under clause (B) of this section” and “to the effective prosecution of such suit or” are omitted as surplus. The words “served on the Government under rule 4 of the Federal Rules of Civil Procedure (28 App. U.S.C.)” are substituted for “notice . . . shall be given to the United States by serving upon the United States Attorney for the district in which such suit shall have been brought . . . and by sending, by registered mail, or by certified mail, to the Attorney General of the United States at Washington, District of Columbia” because of 28:509 and to eliminate unnecessary words. The words “proceed with the action” are added for clarity. Clause (A) is substituted for “shall fail, or decline in writing to the court, during said period of sixty days to enter any such suit” for clarity and consistency. In clause (B), the words “a period of” and “therein” are omitted as surplus.
+In subsection (b)(2), before clause (A), the words “bill of”, “Whenever any such suit shall be brought by any person under clause (B) of this section” and “to the effective prosecution of such suit or” are omitted as surplus. The words “served on the Government under rule 4 of the Federal Rules of Civil Procedure (28 App. U.S.C.)” are substituted for “notice . . . shall be given to the United States by serving upon the United States Attorney for the district in which such suit shall have been brought . . . and by sending, by registered mail, or by certified mail, to the Attorney General of the United States at Washington, District of Columbia” because of 28:509 and to eliminate unnecessary words. The words “proceed with the action” are added for clarity. Clause (A) is substituted for “shall fail, or decline in writing to the court, during said period of sixty days to enter any such suit” for clarity and consistency. In clause (B), the words “a period of” and “therein” are omitted as surplus.
 
 In subsection (b)(3), the words “within said period” are omitted as surplus. The words “proceeds with the action” are substituted for “shall enter appearance in such suit” for consistency. The words “In carrying on such suit” and “and may proceed in all respects as if it were instituting the suit” are omitted as surplus.
 
-In subsection (b)(4), the words “Unless the Government proceeds with the action” are added because of the restatement. The words “shall dismiss an action brought by the person on discovering” are substituted for “shall have no jurisdiction to proceed with any such suit . . . or pending suit . . . whenever it shall be made to appear that” to eliminate unnecessary words. The words “or any agency, officer, or employee thereof” are omitted as unnecessary. The text of 31:232(C)(last sentence proviso) and (D) is omitted as executed.
+In subsection (b)(4), the words “Unless the Government proceeds with the action” are added because of the restatement. The words “shall dismiss an action brought by the person on discovering” are substituted for “shall have no jurisdiction to proceed with any such suit . . . or pending suit . . . whenever it shall be made to appear that” to eliminate unnecessary words. The words “or any agency, officer, or employee thereof” are omitted as unnecessary. The text of 31:232(C)(last sentence proviso) and (D) is omitted as executed.
 
-In subsection (c), the words “herein provided”, “fair and . . . compensation to such person”, and “involved therein, which shall be collected” are omitted as surplus.
+In subsection (c), the words “herein provided”, “fair and . . . compensation to such person”, and “involved therein, which shall be collected” are omitted as surplus.
 
 In subsection (c)(2), the words “whether heretofore or hereafter brought” are omitted as unnecessary. The words “bringing the action or settling the claim” are substituted for “who brought such suit and prosecuted it to final judgment, or to settlement” for clarity and consistency. The words “as provided in clause (B) of this section” are omitted as unnecessary. The words “the civil penalty” are substituted for “forfeiture” for clarity and consistency. The words “to his own use”, “the court may”, and “to be allowed and taxed according to any provision of law or rule of court in force, or that shall be in force in suits between private parties in said court” are omitted as surplus.
 
@@ -2778,9 +2778,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), (3), are se
 
 “(B) For purposes of this paragraph, ‘original source’ means an individual who has direct and independent knowledge of the information on which the allegations are based and has voluntarily provided the information to the Government before filing an action under this section which is based on the information.”
 
-Subsec. (h)(1). Pub. L. 111–203, § 1079A(c)(1), substituted “agent or associated others in furtherance of an action under this section or other efforts to stop 1 or more violations of this subchapter” for “or agent on behalf of the employee, contractor, or agent or associated others in furtherance of other efforts to stop 1 or more violations of this subchapter”.
+Subsec. (h)(1). Pub. L. 111–203, § 1079A(c)(1), substituted “agent or associated others in furtherance of an action under this section or other efforts to stop 1 or more violations of this subchapter” for “or agent on behalf of the employee, contractor, or agent or associated others in furtherance of other efforts to stop 1 or more violations of this subchapter”.
 
-Subsec. (h)(3). Pub. L. 111–203, § 1079A(c)(2), added par. (3).
+Subsec. (h)(3). Pub. L. 111–203, § 1079A(c)(2), added par. (3).
 
 2009—Subsec. (h). Pub. L. 111–21 amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Any employee who is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment by his or her employer because of lawful acts done by the employee on behalf of the employee or others in furtherance of an action under this section, including investigation for, initiation of, testimony for, or assistance in an action filed or to be filed under this section, shall be entitled to all relief necessary to make the employee whole. Such relief shall include reinstatement with the same seniority status such employee would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorneys’ fees. An employee may bring an action in the appropriate district court of the United States for the relief provided in this subsection.”
 
@@ -2788,17 +2788,17 @@ Subsec. (h)(3). Pub. L. 111–203, § 1079A(c)(2), added par. (3).
 
 1990—Subsec. (e)(2)(B). Pub. L. 101–280 substituted “paragraphs (1) through (8) of section 101(f)” for “201(f)”.
 
-1988—Subsec. (c)(4). Pub. L. 100–700, § 9(b)(1), which directed amendment of section 3730 of title 28 by substituting “with the action” for “with action” in subsec. (c)(4), was executed to subsec. (c)(4) of this section as the probable intent of Congress.
+1988—Subsec. (c)(4). Pub. L. 100–700, § 9(b)(1), which directed amendment of section 3730 of title 28 by substituting “with the action” for “with action” in subsec. (c)(4), was executed to subsec. (c)(4) of this section as the probable intent of Congress.
 
-Subsec. (d)(3). Pub. L. 100–700, § 9(a)(1), (2), added par. (3). Former par. (3) redesignated (4).
+Subsec. (d)(3). Pub. L. 100–700, § 9(a)(1), (2), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (d)(4). Pub. L. 100–700, § 9(b)(2), which directed amendment of section 3730 of title 28 by substituting “claim of the person bringing the action” for “claim of the person bringing the actions” in subsec. (d)(4), was executed to subsec. (d)(4) of this section as the probable intent of Congress.
+Subsec. (d)(4). Pub. L. 100–700, § 9(b)(2), which directed amendment of section 3730 of title 28 by substituting “claim of the person bringing the action” for “claim of the person bringing the actions” in subsec. (d)(4), was executed to subsec. (d)(4) of this section as the probable intent of Congress.
 
-Pub. L. 100–700, § 9(a)(1), redesignated former par. (3) as (4).
+Pub. L. 100–700, § 9(a)(1), redesignated former par. (3) as (4).
 
-1986—Pub. L. 99–562, § 3, amended section generally, revising and expanding provisions of subsecs. (a) to (c), adding subsecs. (d) and (e), redesignating former subsec. (d) as (f), and adding subsec. (g).
+1986—Pub. L. 99–562, § 3, amended section generally, revising and expanding provisions of subsecs. (a) to (c), adding subsecs. (d) and (e), redesignating former subsec. (d) as (f), and adding subsec. (g).
 
-Subsec. (h). Pub. L. 99–562, § 4, added subsec. (h).
+Subsec. (h). Pub. L. 99–562, § 4, added subsec. (h).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2812,9 +2812,9 @@ Amendment by Pub. L. 111–21 effective May 20, 2009, and applicable to conduct 
 
 **Effective Date of 1990 Amendment**
 
-Pub. L. 101–280, § 10(c), May 4, 1990, 104 Stat. 162, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 2397a of Title 10, Armed Forces] shall take effect on January 1, 1991.”
+Pub. L. 101–280, § 10(c), May 4, 1990, 104 Stat. 162, provided that: “The amendments made by subsections (a) and (b) [amending this section and section 2397a of Title 10, Armed Forces] shall take effect on January 1, 1991.”
 
-### § 3731. False claims procedure
+### § 3731. False claims procedure
 
 **(a)** A subpena requiring the attendance of a witness at a trial or hearing conducted under section 3730 of this title may be served at any place in the United States.
 
@@ -2828,7 +2828,7 @@ whichever occurs last.
 
 **(c)** If the Government elects to intervene and proceed with an action brought under 3730(b),1
 
-<sup>1</sup>  So in original. Probably should be preceded by “section”.
+<sup>1</sup> So in original. Probably should be preceded by “section”.
 
 the Government may file its own complaint or amend the complaint of a person who has brought an action under section 3730(b) to clarify or add detail to the claims in which the Government is intervening and to add any additional claims with respect to which the Government contends it is entitled to relief. For statute of limitations purposes, any such Government pleading shall relate back to the filing date of the complaint of the person who originally brought the action, to the extent that the claim of the Government arises out of the conduct, transactions, or occurrences set forth, or attempted to be set forth, in the prior complaint of that person.
 
@@ -2836,14 +2836,14 @@ the Government may file its own complaint or amend the complaint of a person who
 
 **(e)** Notwithstanding any other provision of law, the Federal Rules of Criminal Procedure, or the Federal Rules of Evidence, a final judgment rendered in favor of the United States in any criminal proceeding charging fraud or false statements, whether upon a verdict after trial or upon a plea of guilty or nolo contendere, shall estop the defendant from denying the essential elements of the offense in any action which involves the same transaction as in the criminal proceeding and which is brought under subsection (a) or (b) of section 3730.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 979; Pub. L. 99–562, § 5, Oct. 27, 1986, 100 Stat. 3158; Pub. L. 111–21, § 4(b), May 20, 2009, 123 Stat. 1623.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 979; Pub. L. 99–562, § 5, Oct. 27, 1986, 100 Stat. 3158; Pub. L. 111–21, § 4(b), May 20, 2009, 123 Stat. 1623.)
 
 **Historical and Revision Notes**
 
 | *Revised Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3731(a) | 31:232(F). | R.S. § 3491(F); added Nov. 2, 1978, Pub. L. 95–582, § 1, 92 Stat. 2479. |
-| 3731(b) | 31:235. | R.S. § 3494. |
+| 3731(a) | 31:232(F). | R.S. § 3491(F); added Nov. 2, 1978, Pub. L. 95–582, § 1, 92 Stat. 2479. |
+| 3731(b) | 31:235. | R.S. § 3494. |
 
 In subsection (b), the words “A civil action under section 3730 of this title” are substituted for “Every such suit” for clarity.
 
@@ -2867,7 +2867,7 @@ The Federal Rules of Evidence, referred to in subsec. (e), are set out in the Ap
 
 Amendment by Pub. L. 111–21 effective May 20, 2009, and applicable to conduct on or after May 20, 2009, except that this section, as amended by Pub. L. 111–21, applicable to cases pending on May 20, 2009, see section 4(f) of Pub. L. 111–21, set out as a note under section 3729 of this title.
 
-### § 3732. False claims jurisdiction
+### § 3732. False claims jurisdiction
 
 **(a) Actions Under Section 3730.—** Any action under section 3730 may be brought in any judicial district in which the defendant or, in the case of multiple defendants, any one defendant can be found, resides, transacts business, or in which any act proscribed by section 3729 occurred. A summons as required by the Federal Rules of Civil Procedure shall be issued by the appropriate district court and served at any place within or outside the United States.
 
@@ -2875,7 +2875,7 @@ Amendment by Pub. L. 111–21 effective May 20, 2009, and applicable to conduct 
 
 **(c) Service on State or Local Authorities.—** With respect to any State or local government that is named as a co-plaintiff with the United States in an action brought under subsection (b), a seal on the action ordered by the court under section 3730(b) shall not preclude the Government or the person bringing the action from serving the complaint, any other pleadings, or the written disclosure of substantially all material evidence and information possessed by the person bringing the action on the law enforcement authorities that are authorized under the law of that State or local government to investigate and prosecute such actions on behalf of such governments, except that such seal applies to the law enforcement authorities so served to the same extent as the seal applies to other parties in the action.
 
-(Added Pub. L. 99–562, § 6(a), Oct. 21, 1986, 100 Stat. 3158; amended Pub. L. 111–21, § 4(e), May 20, 2009, 123 Stat. 1625.)
+(Added Pub. L. 99–562, § 6(a), Oct. 21, 1986, 100 Stat. 3158; amended Pub. L. 111–21, § 4(e), May 20, 2009, 123 Stat. 1625.)
 
 **Editorial Notes**
 
@@ -2893,7 +2893,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 Amendment by Pub. L. 111–21 effective May 20, 2009, and applicable to conduct on or after May 20, 2009, except that this section, as amended by Pub. L. 111–21, applicable to cases pending on May 20, 2009, see section 4(f) of Pub. L. 111–21, set out as a note under section 3729 of this title.
 
-### § 3733. Civil investigative demands
+### § 3733. Civil investigative demands
 
 **(a) In General.—**
 
@@ -2907,9 +2907,9 @@ Amendment by Pub. L. 111–21 effective May 20, 2009, and applicable to conduct 
 
 **(D)** to furnish any combination of such material, answers, or testimony.
 
-The Attorney General may delegate the authority to issue civil investigative demands under this subsection. Whenever a civil investigative demand is an express demand for any product of discovery, the Attorney General, the Deputy Attorney General, or an Assistant Attorney General shall cause to be served, in any manner authorized by this section, a copy of such demand upon the person from whom the discovery was obtained and shall notify the person to whom such demand is issued of the date on which such copy was served. Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act 1
+The Attorney General may delegate the authority to issue civil investigative demands under this subsection. Whenever a civil investigative demand is an express demand for any product of discovery, the Attorney General, the Deputy Attorney General, or an Assistant Attorney General shall cause to be served, in any manner authorized by this section, a copy of such demand upon the person from whom the discovery was obtained and shall notify the person to whom such demand is issued of the date on which such copy was served. Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act 1
 
-<sup>1</sup>  So in original. Probably should be “law”.
+<sup>1</sup> So in original. Probably should be “law”.
 
 investigation.
 
@@ -3123,7 +3123,7 @@ Any person who is designated to be a successor under this paragraph shall have, 
 
 **(8)** the term “official use” means any use that is consistent with the law, and the regulations and policies of the Department of Justice, including use in connection with internal Department of Justice memoranda and reports; communications between the Department of Justice and a Federal, State, or local government agency, or a contractor of a Federal, State, or local government agency, undertaken in furtherance of a Department of Justice investigation or prosecution of a case; interviews of any qui tam relator or other witness; oral examinations; depositions; preparation for and response to civil discovery requests; introduction into the record of a case or proceeding; applications, motions, memoranda and briefs submitted to a court or other tribunal; and communications with Government investigators, auditors, consultants and experts, the counsel of other parties, arbitrators and mediators, concerning an investigation, case or proceeding.
 
-(Added Pub. L. 99–562, § 6(a), Oct. 27, 1986, 100 Stat. 3159; amended Pub. L. 111–21, § 4(c), May 20, 2009, 123 Stat. 1623.)
+(Added Pub. L. 99–562, § 6(a), Oct. 27, 1986, 100 Stat. 3159; amended Pub. L. 111–21, § 4(c), May 20, 2009, 123 Stat. 1623.)
 
 **Editorial Notes**
 
@@ -3135,15 +3135,15 @@ The date of enactment of this section, referred to in subsec. (*l*)(1)(B), is th
 
 **Amendments**
 
-2009—Subsec. (a)(1). Pub. L. 111–21, § 4(c)(1)(A), in introductory provisions, inserted “, or a designee (for purposes of this section),” after “Whenever the Attorney General” and substituted “the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b),” for “the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law,” and, in concluding provisions, substituted “may delegate” for “may not delegate” and inserted at end “Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation.”
+2009—Subsec. (a)(1). Pub. L. 111–21, § 4(c)(1)(A), in introductory provisions, inserted “, or a designee (for purposes of this section),” after “Whenever the Attorney General” and substituted “the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b),” for “the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law,” and, in concluding provisions, substituted “may delegate” for “may not delegate” and inserted at end “Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation.”
 
-Subsec. (a)(2)(G). Pub. L. 111–21, § 4(c)(1)(B), struck out at end “The Attorney General may not, notwithstanding section 510 of title 28, authorize the performance, by any other officer, employee, or agency, of any function vested in the Attorney General under this subparagraph.”
+Subsec. (a)(2)(G). Pub. L. 111–21, § 4(c)(1)(B), struck out at end “The Attorney General may not, notwithstanding section 510 of title 28, authorize the performance, by any other officer, employee, or agency, of any function vested in the Attorney General under this subparagraph.”
 
-Subsec. (i)(2)(B). Pub. L. 111–21, § 4(c)(2)(A), struck out “, who is authorized for such use under regulations which the Attorney General shall issue” after “Justice”.
+Subsec. (i)(2)(B). Pub. L. 111–21, § 4(c)(2)(A), struck out “, who is authorized for such use under regulations which the Attorney General shall issue” after “Justice”.
 
-Subsec. (i)(2)(C). Pub. L. 111–21, § 4(c)(2)(B), struck out at end “Disclosure of information to any such other agency shall be allowed only upon application, made by the Attorney General to a United States district court, showing substantial need for the use of the information by such agency in furtherance of its statutory responsibilities.”
+Subsec. (i)(2)(C). Pub. L. 111–21, § 4(c)(2)(B), struck out at end “Disclosure of information to any such other agency shall be allowed only upon application, made by the Attorney General to a United States district court, showing substantial need for the use of the information by such agency in furtherance of its statutory responsibilities.”
 
-Subsec. (*l*)(8). Pub. L. 111–21, § 4(c)(3), added par. (8).
+Subsec. (*l*)(8). Pub. L. 111–21, § 4(c)(3), added par. (8).
 
 **Statutory Notes and Related Subsidiaries**
 

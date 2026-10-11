@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 57A—PARTNERSHIPS FOR WILDLIFE
 
-## § 3741. Findings
+## § 3741. Findings
 
 The Congress finds the following:
 
@@ -49,23 +49,23 @@ The Congress finds the following:
 
 **(15)** Many States, which are experiencing declining revenues, are finding it increasingly difficult to carry out projects to conserve the entire array of diverse fish and wildlife species and to provide opportunities for the public to associate with, enjoy, and appreciate fish and wildlife through nonconsumptive activities.
 
-(Pub. L. 102–587, title VII, § 7102, Nov. 4, 1992, 106 Stat. 5094.)
+(Pub. L. 102–587, title VII, § 7102, Nov. 4, 1992, 106 Stat. 5094.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act referred to in par. (10), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act referred to in par. (10), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The North American Wetlands Conservation Act, referred to in par. (13), is Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, which is classified principally to chapter 64 (§ 4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4401 of this title and Tables.
+The North American Wetlands Conservation Act, referred to in par. (13), is Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, which is classified principally to chapter 64 (§ 4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4401 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 102–587, title VII, § 7101, Nov. 4, 1992, 106 Stat. 5094, provided that: “This Title [enacting this chapter] may be cited as the ‘Partnerships for Wildlife Act’.”
+Pub. L. 102–587, title VII, § 7101, Nov. 4, 1992, 106 Stat. 5094, provided that: “This Title [enacting this chapter] may be cited as the ‘Partnerships for Wildlife Act’.”
 
-## § 3742. Purposes
+## § 3742. Purposes
 
 The purposes of this chapter are to establish a partnership among the United States Fish and Wildlife Service, designated State agencies, and private organizations and individuals—
 
@@ -75,7 +75,7 @@ The purposes of this chapter are to establish a partnership among the United Sta
 
 **(3)** to encourage private donations, under the leadership of the States and of the National Fish and Wildlife Foundation, to carry out wildlife conservation and appreciation projects.
 
-(Pub. L. 102–587, title VII, § 7103, Nov. 4, 1992, 106 Stat. 5095; Pub. L. 103–375, § 6(1), Oct. 19, 1994, 108 Stat. 3495.)
+(Pub. L. 102–587, title VII, § 7103, Nov. 4, 1992, 106 Stat. 5095; Pub. L. 103–375, § 6(1), Oct. 19, 1994, 108 Stat. 3495.)
 
 **Editorial Notes**
 
@@ -83,7 +83,7 @@ The purposes of this chapter are to establish a partnership among the United Sta
 
 1994—Par. (3). Pub. L. 103–375 inserted “the States and of” after “under the leadership of”.
 
-## § 3743. Definitions
+## § 3743. Definitions
 
 As used in this chapter—
 
@@ -111,27 +111,27 @@ As used in this chapter—
 
 **(C)** are not marine mammals within the meaning of section 1362(6) of this title.
 
-(Pub. L. 102–587, title VII, § 7104, Nov. 4, 1992, 106 Stat. 5096; Pub. L. 103–375, § 6(2), (3), Oct. 19, 1994, 108 Stat. 3495.)
+(Pub. L. 102–587, title VII, § 7104, Nov. 4, 1992, 106 Stat. 5096; Pub. L. 103–375, § 6(2), (3), Oct. 19, 1994, 108 Stat. 3495.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Endangered Species Act of 1973, referred to in par. (9)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (9)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 **Amendments**
 
-1994—Par. (2). Pub. L. 103–375, § 6(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘designated State agency’ means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.”
+1994—Par. (2). Pub. L. 103–375, § 6(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘designated State agency’ means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.”
 
-Par. (4). Pub. L. 103–375, § 6(2)(B), made technical amendment to reference to section 3744(g) of this title to correct reference to corresponding provision of original act.
+Par. (4). Pub. L. 103–375, § 6(2)(B), made technical amendment to reference to section 3744(g) of this title to correct reference to corresponding provision of original act.
 
-Par. (8). Pub. L. 103–375, § 6(3)(B), added par. (8). Former par. (8) redesignated (9).
+Par. (8). Pub. L. 103–375, § 6(3)(B), added par. (8). Former par. (8) redesignated (9).
 
-Pub. L. 103–375, § 6(2)(C), (D), substituted semicolon for period at end of subpar. (A) and “section 1362(6)” for “section 1362(5)” in subpar. (C).
+Pub. L. 103–375, § 6(2)(C), (D), substituted semicolon for period at end of subpar. (A) and “section 1362(6)” for “section 1362(5)” in subpar. (C).
 
-Par. (9). Pub. L. 103–375, § 6(3)(A), redesignated par. (8) as (9).
+Par. (9). Pub. L. 103–375, § 6(3)(A), redesignated par. (8) as (9).
 
-## § 3744. Wildlife partnership program
+## § 3744. Wildlife partnership program
 
 **(a) In general**
 
@@ -199,7 +199,7 @@ No designated State agency shall be eligible to receive matching funds from the 
 
 There are authorized to be appropriated to the Fund and to the Secretary not to exceed $6,250,000 for each of fiscal years 1999 through 2003.
 
-(Pub. L. 102–587, title VII, § 7105, Nov. 4, 1992, 106 Stat. 5097; Pub. L. 103–375, § 6(4)–(7), Oct. 19, 1994, 108 Stat. 3495, 3496; Pub. L. 105–312, title III, § 303, Oct. 30, 1998, 112 Stat. 2958.)
+(Pub. L. 102–587, title VII, § 7105, Nov. 4, 1992, 106 Stat. 5097; Pub. L. 103–375, § 6(4)–(7), Oct. 19, 1994, 108 Stat. 3495, 3496; Pub. L. 105–312, title III, § 303, Oct. 30, 1998, 112 Stat. 2958.)
 
 **Editorial Notes**
 
@@ -207,20 +207,20 @@ There are authorized to be appropriated to the Fund and to the Secretary not to 
 
 1998—Subsec. (h). Pub. L. 105–312 substituted “not to exceed $6,250,000 for each of fiscal years 1999 through 2003.” for “for each of fiscal years 1992 through 1998 not to exceed $6,250,000.”
 
-1994—Subsec. (d)(5). Pub. L. 103–375, § 6(4), struck out par. (5) which read as follows: “may not exceed the State share of the cost of implementing such a project.”
+1994—Subsec. (d)(5). Pub. L. 103–375, § 6(4), struck out par. (5) which read as follows: “may not exceed the State share of the cost of implementing such a project.”
 
-Subsec. (e). Pub. L. 103–375, § 6(5), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The share of the cost of carrying out eligible projects under this section shall be from a non-Federal source and shall not be in the form of an in-kind contribution.”
+Subsec. (e). Pub. L. 103–375, § 6(5), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The share of the cost of carrying out eligible projects under this section shall be from a non-Federal source and shall not be in the form of an in-kind contribution.”
 
-Subsec. (g)(2). Pub. L. 103–375, § 6(6)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall deposit into the Fund—
+Subsec. (g)(2). Pub. L. 103–375, § 6(6)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall deposit into the Fund—
 
 “(A) amounts appropriated to the Secretary for deposit to the Fund, of which not more than 4 percent shall be available to the Secretary and the National Fish and Wildlife Foundation to defray the costs of administering this chapter and evaluating wildlife conservation and appreciation projects; and
 
 “(B) amounts received as donations from the National Fish and Wildlife Foundation or other private entities or persons for deposit to the Fund.”
 
-Subsec. (g)(3), (4). Pub. L. 103–375, § 6(6)(B), struck out pars. (3) and (4) which read as follows:
+Subsec. (g)(3), (4). Pub. L. 103–375, § 6(6)(B), struck out pars. (3) and (4) which read as follows:
 
 “(3) The Secretary may accept and use donations from the National Fish and Wildlife Foundation and other private entities or persons for purposes of assisting States under this section.
 
 “(4) Of the total amount provided from the Fund to assist a State in carrying out a wildlife conservation and appreciation project under subsection (a) of this section, at least 50 percent shall have been donated to the Fund by the National Fish and Wildlife Foundation.”
 
-Subsec. (h). Pub. L. 103–375, § 6(7), substituted “1998” for “1995” and struck out before period at end “to match the amount of contributions made to the Fund by the National Fish and Wildlife Foundation”.
+Subsec. (h). Pub. L. 103–375, § 6(7), substituted “1998” for “1995” and struck out before period at end “to match the amount of contributions made to the Fund by the National Fish and Wildlife Foundation”.

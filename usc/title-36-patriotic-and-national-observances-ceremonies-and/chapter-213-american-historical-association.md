@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 213—AMERICAN HISTORICAL ASSOCIATION"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 213—AMERICAN HISTORICAL ASSOCIATION"
 identifier: "/us/usc/t36/stII/ptB/ch213"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 213—AMERICAN HISTORICAL ASSOCIATION
 
-## § 21301. Organization
+## § 21301. Organization
 
 American Historical Association (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
 
@@ -29,7 +29,7 @@ American Historical Association (in this chapter, the “corporation”) is a bo
 
 This section is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-## § 21302. Purposes
+## § 21302. Purposes
 
 The purposes of the corporation are—
 
@@ -47,7 +47,7 @@ The purposes of the corporation are—
 |---|---|---|
 | 21302 | 36:20 (1st sentence words beginning with “for the promotion”). | Jan. 4, 1889, ch. 20, (1st sentence words beginning with “for the promotion”), 25 Stat. 640. |
 
-## § 21303. Powers
+## § 21303. Powers
 
 The corporation may—
 
@@ -61,7 +61,7 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 21303 | 36:20 (2d sentence). | Jan. 4, 1889, ch. 20, (2d sentence), 25 Stat. 640; July 3, 1957, Pub. L. 85–83, § 1, 71 Stat. 276. |
+| 21303 | 36:20 (2d sentence). | Jan. 4, 1889, ch. 20, (2d sentence), 25 Stat. 640; July 3, 1957, Pub. L. 85–83, § 1, 71 Stat. 276. |
 
 In clause (1), the words “not inconsistent with law” are omitted as unnecessary.
 
@@ -71,9 +71,9 @@ In clause (2), the word “property” is substituted for “real and personal e
 
 **Tax Exemption of Real Property**
 
-Pub. L. 85–83, § 2, July 3, 1957, 71 Stat. 277, provided that: “The real property situated in Square 817, in the city of Washington, District of Columbia, described as lot 23, owned, occupied, and used by the American Historical Association, is exempt from all taxation so long as the same is so owned and occupied, and not used for commercial purposes, subject to the provisions of sections 2, 3, and 5 of the Act entitled ‘An Act to define the real property exempt from taxation in the District of Columbia’, approved December 24, 1942 (56 Stat. 1089; D.C. Code, secs. 47–801b, 47–801c, and 47–801e).”
+Pub. L. 85–83, § 2, July 3, 1957, 71 Stat. 277, provided that: “The real property situated in Square 817, in the city of Washington, District of Columbia, described as lot 23, owned, occupied, and used by the American Historical Association, is exempt from all taxation so long as the same is so owned and occupied, and not used for commercial purposes, subject to the provisions of sections 2, 3, and 5 of the Act entitled ‘An Act to define the real property exempt from taxation in the District of Columbia’, approved December 24, 1942 (56 Stat. 1089; D.C. Code, secs. 47–801b, 47–801c, and 47–801e).”
 
-## § 21304. Annual meeting
+## § 21304. Annual meeting
 
 The corporation may hold its annual meeting in a place the members of the corporation select.
 
@@ -87,7 +87,7 @@ The corporation may hold its annual meeting in a place the members of the corpor
 
 The words “members of the corporation” are substituted for “said incorporators” to reflect the probable intent.
 
-## § 21305. Principal office
+## § 21305. Principal office
 
 The principal office of the corporation shall be in the District of Columbia.
 
@@ -99,7 +99,7 @@ The principal office of the corporation shall be in the District of Columbia.
 |---|---|---|
 | 21305 | 36:20 (3d sentence words before 2d comma). | Jan. 4, 1889, ch. 20, (3d sentence words before 2d comma), 25 Stat. 640. |
 
-## § 21306. Historical collections
+## § 21306. Historical collections
 
 The Regents of the Smithsonian Institution may allow the corporation to deposit its collections, manuscripts, books, pamphlets, and other historical material in the Smithsonian Institution or the National Museum on conditions and under regulations the Regents prescribe.
 
@@ -113,7 +113,7 @@ The Regents of the Smithsonian Institution may allow the corporation to deposit 
 
 The words “historical material” are substituted for “material for history” for clarity. The words “at their discretion” are omitted as unnecessary.
 
-## § 21307. Annual report
+## § 21307. Annual report
 
 The corporation shall submit an annual report to the Secretary of the Smithsonian Institution on the activities of the corporation and the condition of historical study in America. The Secretary shall submit to Congress any part of the report the Secretary decides is appropriate.
 

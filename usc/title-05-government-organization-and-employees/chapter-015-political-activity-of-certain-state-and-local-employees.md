@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1974—Pub. L. 93–443, title IV, § 401(b)(2), Oct. 15, 1974, 88 Stat. 1290, substituted “candidacies” for “political activity” in item 1503.
+1974—Pub. L. 93–443, title IV, § 401(b)(2), Oct. 15, 1974, 88 Stat. 1290, substituted “candidacies” for “political activity” in item 1503.
 
-## § 1501. Definitions
+## § 1501. Definitions
 
 For the purpose of this chapter—
 
@@ -43,17 +43,17 @@ For the purpose of this chapter—
 
 **(iii)** a recognized religious, philanthropic, or cultural organization.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 403; Pub. L. 93–443, title IV, § 401(c), Oct. 15, 1974, 88 Stat. 1290; Pub. L. 112–230, § 3(a), (b), Dec. 28, 2012, 126 Stat. 1616.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 403; Pub. L. 93–443, title IV, § 401(c), Oct. 15, 1974, 88 Stat. 1290; Pub. L. 112–230, § 3(a), (b), Dec. 28, 2012, 126 Stat. 1616.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (1) | 5 U.S.C. 118k–2. | July 19, 1940, ch. 640, § 4 “Sec. 19”, 54 Stat. 772. |
-| (2), (3) | 5 U.S.C. 118k(f). | July 19, 1940, ch. 640, § 4 “Sec. 12(f)”, 54 Stat. 770. |
-| (4) | 5 U.S.C. 118k(a) (1st 41 words), (e). | July 19, 1940, ch. 640, § 4 “Sec 12(a) (1st 41 words), (e)”, 54 Stat. 767, 770. |
-|  | 5 U.S.C. 118k–1 (as applicable to 5 U.S.C. 118k). | Oct. 24, 1942, ch. 620 “Sec. 21 (as applicable to § 12 of the Act of Aug. 2, 1939; added July 19, 1940, ch. 640, § 4, 54 Stat. 767)”, 56 Stat. 986. |
-| (5) | 5 U.S.C. 118*l* (as applicable to 5 U.S.C. 118k). | July 19, 1940, ch. 640, § 4 “Sec. 15 (as applicable to § 12 of the Act of Aug. 2, 1939; added July 19, 1940, ch. 640, § 4, 54 Stat. 767)”, 54 Stat. 771. |
+| (1) | 5 U.S.C. 118k–2. | July 19, 1940, ch. 640, § 4 “Sec. 19”, 54 Stat. 772. |
+| (2), (3) | 5 U.S.C. 118k(f). | July 19, 1940, ch. 640, § 4 “Sec. 12(f)”, 54 Stat. 770. |
+| (4) | 5 U.S.C. 118k(a) (1st 41 words), (e). | July 19, 1940, ch. 640, § 4 “Sec 12(a) (1st 41 words), (e)”, 54 Stat. 767, 770. |
+|  | 5 U.S.C. 118k–1 (as applicable to 5 U.S.C. 118k). | Oct. 24, 1942, ch. 620 “Sec. 21 (as applicable to § 12 of the Act of Aug. 2, 1939; added July 19, 1940, ch. 640, § 4, 54 Stat. 767)”, 56 Stat. 986. |
+| (5) | 5 U.S.C. 118*l* (as applicable to 5 U.S.C. 118k). | July 19, 1940, ch. 640, § 4 “Sec. 15 (as applicable to § 12 of the Act of Aug. 2, 1939; added July 19, 1940, ch. 640, § 4, 54 Stat. 767)”, 54 Stat. 771. |
 
 In paragraph (4)(B), the words “or by any Territory or Territorial possession of the United States” are omitted in view of the definition of “State” in paragraph (1).
 
@@ -65,9 +65,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-2012—Par. (2). Pub. L. 112–230, § 3(a), inserted “, or the executive branch of the District of Columbia, or an agency or department thereof” before semicolon at end.
+2012—Par. (2). Pub. L. 112–230, § 3(a), inserted “, or the executive branch of the District of Columbia, or an agency or department thereof” before semicolon at end.
 
-Par. (4)(B). Pub. L. 112–230, § 3(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “an individual employed by an educational or research institution, establishment, agency, or system which is supported in whole or in part by a State or political subdivision thereof, or by a recognized religious, philanthropic, or cultural organization.”
+Par. (4)(B). Pub. L. 112–230, § 3(b), added subpar. (B) and struck out former subpar. (B) which read as follows: “an individual employed by an educational or research institution, establishment, agency, or system which is supported in whole or in part by a State or political subdivision thereof, or by a recognized religious, philanthropic, or cultural organization.”
 
 1974—Par. (5). Pub. L. 93–443 struck out par. (5) which defined “an active part in political management or in political campaigns”.
 
@@ -75,13 +75,13 @@ Par. (4)(B). Pub. L. 112–230, § 3(b), added subpar. (B) and struck out form
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–230, § 5(a), Dec. 28, 2012, 126 Stat. 1617, provided that: This Act [see Short Title of 2012 Amendment note set out under section 101 of this title] and the amendments made by this Act shall take effect 30 days after the date of enactment of this Act [Dec. 28, 2012].”
+Pub. L. 112–230, § 5(a), Dec. 28, 2012, 126 Stat. 1617, provided that: This Act [see Short Title of 2012 Amendment note set out under section 101 of this title] and the amendments made by this Act shall take effect 30 days after the date of enactment of this Act [Dec. 28, 2012].”
 
 **Effective Date of 1974 Amendment**
 
 Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 30101 of Title 52, Voting and Elections.
 
-## § 1502. Influencing elections; taking part in political campaigns; prohibitions; exceptions
+## § 1502. Influencing elections; taking part in political campaigns; prohibitions; exceptions
 
 **(a)** A State or local officer or employee may not—
 
@@ -103,13 +103,13 @@ Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub.
 
 **(4)** an individual holding elective office.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 404; Pub. L. 93–443, title IV, § 401(a), Oct. 15, 1974, 88 Stat. 1290; Pub. L. 112–230, §§ 2, 3(c), Dec. 28, 2012, 126 Stat. 1616.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 404; Pub. L. 93–443, title IV, § 401(a), Oct. 15, 1974, 88 Stat. 1290; Pub. L. 112–230, §§ 2, 3(c), Dec. 28, 2012, 126 Stat. 1616.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118k(a) (less 1st 41 words). | July 19, 1940, ch. 640, § 4 “Sec. 12(a) (less 1st 41 words)”, 54 Stat. 767. |
+|  | 5 U.S.C. 118k(a) (less 1st 41 words). | July 19, 1940, ch. 640, § 4 “Sec. 12(a) (less 1st 41 words)”, 54 Stat. 767. |
 
 In subsection (a), the term “State or local officer or employee”, defined in section 1501, is substituted for the first 41 words of former section 118k(a). The words “any part of his salary or compensation” are omitted as included in “anything of value”.
 
@@ -119,9 +119,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-2012—Subsec. (a)(3). Pub. L. 112–230, § 2, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “be a candidate for elective office.”
+2012—Subsec. (a)(3). Pub. L. 112–230, § 2, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “be a candidate for elective office.”
 
-Subsec. (c)(3). Pub. L. 112–230, § 3(c), which directed the substitution of “, municipality, or the District of Columbia’ ” for “ ‘or municipality” and “, municipal, or the District of Columbia’ ” for “ ‘or municipal”, was executed by substituting “, municipality, or the District of Columbia” for “or municipality” and “, municipal, or the District of Columbia” for “or municipal”, to reflect the probable intent of Congress.
+Subsec. (c)(3). Pub. L. 112–230, § 3(c), which directed the substitution of “, municipality, or the District of Columbia’ ” for “ ‘or municipality” and “, municipal, or the District of Columbia’ ” for “ ‘or municipal”, was executed by substituting “, municipality, or the District of Columbia” for “or municipality” and “, municipal, or the District of Columbia” for “or municipal”, to reflect the probable intent of Congress.
 
 1974—Subsec. (a)(3). Pub. L. 93–443 substituted “be a candidate for elective office” for “take an active part in political management or in political campaigns”.
 
@@ -135,17 +135,17 @@ Amendment by Pub. L. 112–230 effective 30 days after Dec. 28, 2012, see sectio
 
 Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 30101 of Title 52, Voting and Elections.
 
-## § 1503. Nonpartisan candidacies permitted
+## § 1503. Nonpartisan candidacies permitted
 
 Section 1502(a)(3) of this title does not prohibit any State or local officer or employee from being a candidate in any election if none of the candidates is to be nominated or elected at such election as representing a party any of whose candidates for Presidential elector received votes in the last preceding election at which Presidential electors were selected.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 404; Pub. L. 93–443, title IV, § 401(b)(1), Oct. 15, 1974, 88 Stat. 1290.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 404; Pub. L. 93–443, title IV, § 401(b)(1), Oct. 15, 1974, 88 Stat. 1290.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118n (as applicable to 5 U.S.C. 118k(a)). | July 19, 1940, ch. 640, § 4 “Sec. 18 (as applicable to § 12 of the Act of Aug. 2, 1939; added July 19, 1940, ch. 640, § 4, 54 Stat. 767)”, 54 Stat. 772. |
+|  | 5 U.S.C. 118n (as applicable to 5 U.S.C. 118k(a)). | July 19, 1940, ch. 640, § 4 “Sec. 18 (as applicable to § 12 of the Act of Aug. 2, 1939; added July 19, 1940, ch. 640, § 4, 54 Stat. 767)”, 54 Stat. 772. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -161,7 +161,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 30101 of Title 52, Voting and Elections.
 
-## § 1504. Investigations; notice of hearing
+## § 1504. Investigations; notice of hearing
 
 When a Federal agency charged with the duty of making a loan or grant of funds of the United States for use in an activity by a State or local officer or employee has reason to believe that the officer or employee has violated section 1502 of this title, it shall report the matter to the Special Counsel. On receipt of the report or on receipt of other information which seems to the Special Counsel to warrant an investigation, the Special Counsel shall investigate the report and such other information and present his findings and any charges based on such findings to the Merit Systems Protection Board, which shall—
 
@@ -171,13 +171,13 @@ When a Federal agency charged with the duty of making a loan or grant of funds o
 
 The hearing may not be held earlier than 10 days after the mailing of the notice.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 405; Pub. L. 95–454, title IX, § 906(a)(7), Oct. 13, 1978, 92 Stat. 1225.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 405; Pub. L. 95–454, title IX, § 906(a)(7), Oct. 13, 1978, 92 Stat. 1225.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118k(b) (1st and 2d sentences, and 4th through 17th words of 3d sentence). | July 19, 1940, ch. 640 § 4 “Sec. 12(b) (1st and 2d sentences, and 4th through 17th words of 3d sentence)”, 54 Stat. 768. June 11, 1960, Pub. L. 86–507, § 1(1), 74 Stat. 200. |
+|  | 5 U.S.C. 118k(b) (1st and 2d sentences, and 4th through 17th words of 3d sentence). | July 19, 1940, ch. 640 § 4 “Sec. 12(b) (1st and 2d sentences, and 4th through 17th words of 3d sentence)”, 54 Stat. 768. June 11, 1960, Pub. L. 86–507, § 1(1), 74 Stat. 200. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -193,7 +193,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 1505. Hearings; adjudications; notice of determinations
+## § 1505. Hearings; adjudications; notice of determinations
 
 Either the State or local officer or employee or the State or local agency employing him, or both, are entitled to appear with counsel at the hearing under section 1504 of this title, and be heard. After this hearing, the Merit Systems Protection Board shall—
 
@@ -203,13 +203,13 @@ Either the State or local officer or employee or the State or local agency emplo
 
 **(3)** notify the officer or employee and the agency of the determination by registered or certified mail.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 405; Pub. L. 95–454, title IX, § 906(a)(6), Oct. 13, 1978, 92 Stat. 1225.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 405; Pub. L. 95–454, title IX, § 906(a)(6), Oct. 13, 1978, 92 Stat. 1225.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118k(b) (3d sentence, less 4th, through 17th words, and 4th sentence). | July 19, 1940, ch. 640, § 4 “Sec. 12(b) (3d sentence, less 4th through 17th words, and 4th sentence)”, 54 Stat. 768. June 11, 1960, Pub. L. 86–507, § 1(1), 74 Stat. 200. |
+|  | 5 U.S.C. 118k(b) (3d sentence, less 4th, through 17th words, and 4th sentence). | July 19, 1940, ch. 640, § 4 “Sec. 12(b) (3d sentence, less 4th through 17th words, and 4th sentence)”, 54 Stat. 768. June 11, 1960, Pub. L. 86–507, § 1(1), 74 Stat. 200. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -225,7 +225,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 1506. Orders; withholding loans or grants; limitations
+## § 1506. Orders; withholding loans or grants; limitations
 
 **(a)** When the Merit Systems Protection Board finds—
 
@@ -239,13 +239,13 @@ the Board shall make and certify to the appropriate Federal agency an order requ
 
 **(c)** The Board may not require an amount to be withheld from a loan or grant pledged by a State or local agency as security for its bonds or notes if the withholding of that amount would jeopardize the payment of the principal or interest on the bonds or notes.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 405; Pub. L. 95–454, title IX, § 906(a)(6), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 112–230, § 3(d), Dec. 28, 2012, 126 Stat. 1616.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 405; Pub. L. 95–454, title IX, § 906(a)(6), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 112–230, § 3(d), Dec. 28, 2012, 126 Stat. 1616.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118k(b) (less 1st 4 sentences). | July 19, 1940, ch. 640, § 4 “Sec. 12(b) (less 1st 4 sentences)”, 54 Stat. 768. June 11, 1960, Pub. L. 86–507, § 1(1), 74 Stat. 200. |
+|  | 5 U.S.C. 118k(b) (less 1st 4 sentences). | July 19, 1940, ch. 640, § 4 “Sec. 12(b) (less 1st 4 sentences)”, 54 Stat. 768. June 11, 1960, Pub. L. 86–507, § 1(1), 74 Stat. 200. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -269,7 +269,7 @@ Amendment by Pub. L. 112–230 effective 30 days after Dec. 28, 2012, see sectio
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 1507. Subpenas and depositions
+## § 1507. Subpenas and depositions
 
 **(a)** The Merit Systems Protection Board may require by subpena the attendance and testimony of witnesses and the production of documentary evidence relating to any matter before it as a result of this chapter. Any member of the Board may sign subpenas, and members of the Board and its examiners when authorized by the Board may administer oaths, examine witnesses, and receive evidence. The attendance of witnesses and the production of documentary evidence may be required from any place in the United States at the designated place of hearing. In case of disobedience to a subpena, the Board may invoke the aid of a court of the United States in requiring the attendance and testimony of witnesses and the production of documentary evidence. In case of contumacy or refusal to obey a subpena issued to a person, the United States District Court within whose jurisdiction the inquiry is carried on may issue an order requiring him to appear before the Board, or to produce documentary evidence if so ordered, or to give evidence concerning the matter in question; and any failure to obey the order of the court may be punished by the court as a contempt thereof.
 
@@ -277,13 +277,13 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(c)** A person may not be excused from attending and testifying or from producing documentary evidence or in obedience to a subpena on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to a penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled to testify, or produce evidence, documentary or otherwise, before the Board in obedience to a subpena issued by it. A person so testifying is not exempt from prosecution and punishment for perjury committed in so testifying.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 406; Pub. L. 95–454, title IX, § 906(a)(6), Oct. 13, 1978, 92 Stat. 1225.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 406; Pub. L. 95–454, title IX, § 906(a)(6), Oct. 13, 1978, 92 Stat. 1225.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118k(d) (less 1st sentence). | July 19, 1940, ch. 640, § 4 “Sec. 12(d) (less 1st sentence)”, 54 Stat. 769. |
+|  | 5 U.S.C. 118k(d) (less 1st sentence). | July 19, 1940, ch. 640, § 4 “Sec. 12(d) (less 1st sentence)”, 54 Stat. 769. |
 
 In subsection (a), the word “affirmation” is omitted as included in “oath” on authority of section 1 of title 1, United States Code. The title of the court is changed to conform to title 28.
 
@@ -305,7 +305,7 @@ Subsecs. (b), (c). Pub. L. 95–454 substituted “Board” for “Commission”
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 1508. Judicial review
+## § 1508. Judicial review
 
 A party aggrieved by a determination or order of the Merit Systems Protection Board under section 1504, 1505, or 1506 of this title may, within 30 days after the mailing of notice of the determination or order, institute proceedings for review thereof by filing a petition in the United States District Court for the district in which the State or local officer or employee resides. The institution of the proceedings does not operate as a stay of the determination or order unless—
 
@@ -315,15 +315,15 @@ A party aggrieved by a determination or order of the Merit Systems Protection Bo
 
 A copy of the petition shall immediately be served on the Board, and thereupon the Board shall certify and file in the court a transcript of the record on which the determination or order was made. The court shall review the entire record including questions of fact and questions of law. If application is made to the court for leave to adduce additional evidence, and it is shown to the satisfaction of the court that the additional evidence may materially affect the result of the proceedings and that there were reasonable grounds for failure to adduce this evidence in the hearing before the Board, the court may direct that the additional evidence be taken before the Board in the manner and on the terms and conditions fixed by the court. The Board may modify its findings of fact or its determination or order in view of the additional evidence and shall file with the court the modified findings, determination, or order; and the modified findings of fact, if supported by substantial evidence, are conclusive. The court shall affirm the determination or order, or the modified determination or order, if the court determines that it is in accordance with law. If the court determines that the determination or order, or the modified determination or order, is not in accordance with law, the court shall remand the proceeding to the Board with directions either to make a determination or order determined by the court to be lawful or to take such further proceedings as, in the opinion of the court, the law requires. The judgment and decree of the court are final, subject to review by the appropriate United States Court of Appeals as in other cases, and the judgment and decree of the court of appeals are final, subject to review by the Supreme Court of the United States on certiorari or certification as provided by section 1254 of title 28. If a provision of this section is held to be invalid as applied to a party by a determination or order of the Board, the determination or order becomes final and effective as to that party as if the provision had not been enacted.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 406; Pub. L. 95–454, title IX, § 906(a)(6), Oct. 13, 1978, 92 Stat. 1225.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 406; Pub. L. 95–454, title IX, § 906(a)(6), Oct. 13, 1978, 92 Stat. 1225.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 118k(c). | July 19, 1940, ch. 640, § 4 “Sec. 12(c)”, 54 Stat. 768. |
+|  | 5 U.S.C. 118k(c). | July 19, 1940, ch. 640, § 4 “Sec. 12(c)”, 54 Stat. 768. |
 
-Sections 346 and 347 of title 28 referred to in former section 118k(c) were repealed by the Act of June 25, 1948, ch. 646, § 39, 62 Stat. 862, and are now covered by section 1254 of title 28. The titles of the courts are changed to conform to title 28.
+Sections 346 and 347 of title 28 referred to in former section 118k(c) were repealed by the Act of June 25, 1948, ch. 646, § 39, 62 Stat. 862, and are now covered by section 1254 of title 28. The titles of the courts are changed to conform to title 28.
 
 In the reference to filing a written petition, “written” is omitted as unnecessary.
 

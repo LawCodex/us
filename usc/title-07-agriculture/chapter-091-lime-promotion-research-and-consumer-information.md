@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 91—LIME PROMOTION, RESEARCH, AND CONSUMER INFORMATION
 
-## § 6201. Findings, purposes, and limitations
+## § 6201. Findings, purposes, and limitations
 
 **(a) Findings** Congress finds that—
 
@@ -47,21 +47,21 @@ retrieved: 2026-10-11
 
 Nothing in this chapter shall be construed to require quality standards for limes, control the production of limes, or otherwise limit the right of the individual producers to produce limes.
 
-(Pub. L. 101–624, title XIX, § 1952, Nov. 28, 1990, 104 Stat. 3870.)
+(Pub. L. 101–624, title XIX, § 1952, Nov. 28, 1990, 104 Stat. 3870.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 1993 Amendment**
 
-Pub. L. 103–194, § 1, Dec. 14, 1993, 107 Stat. 2294, provided that: “This Act [amending sections 6202, 6204, and 6209 of this title and enacting provisions set out as a note below] may be cited as the ‘Lime Research, Promotion, and Consumer Information Improvement Act’.”
+Pub. L. 103–194, § 1, Dec. 14, 1993, 107 Stat. 2294, provided that: “This Act [amending sections 6202, 6204, and 6209 of this title and enacting provisions set out as a note below] may be cited as the ‘Lime Research, Promotion, and Consumer Information Improvement Act’.”
 
 **Short Title**
 
-Pub. L. 101–624, title XIX, § 1951, Nov. 28, 1990, 104 Stat. 3870, provided that: “This subtitle [subtitle D (§§ 1951–1963) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Lime Research, Promotion, and Consumer Information Act of 1990’.”
+Pub. L. 101–624, title XIX, § 1951, Nov. 28, 1990, 104 Stat. 3870, provided that: “This subtitle [subtitle D (§§ 1951–1963) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Lime Research, Promotion, and Consumer Information Act of 1990’.”
 
-**Legislative Findings and Purpose of Pub. L. 103–194**
+**Legislative Findings and Purpose of Pub. L. 103–194**
 
-Pub. L. 103–194, § 2, Dec. 14, 1993, 107 Stat. 2294, provided that:
+Pub. L. 103–194, § 2, Dec. 14, 1993, 107 Stat. 2294, provided that:
 
 > **“(a) Findings.—** Congress finds the following:
 
@@ -83,7 +83,7 @@ Pub. L. 103–194, § 2, Dec. 14, 1993, 107 Stat. 2294, provided that:
 
 > **“(4)** to alter the composition of the Lime Board.”
 
-## § 6202. Definitions
+## § 6202. Definitions
 
 As used in this chapter:
 
@@ -149,7 +149,7 @@ The term “Secretary” means the Secretary of Agriculture.
 
 **(B)** “United States” means the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(Pub. L. 101–624, title XIX, § 1953, Nov. 28, 1990, 104 Stat. 3871; Pub. L. 103–194, § 3, Dec. 14, 1993, 107 Stat. 2295.)
+(Pub. L. 101–624, title XIX, § 1953, Nov. 28, 1990, 104 Stat. 3871; Pub. L. 103–194, § 3, Dec. 14, 1993, 107 Stat. 2295.)
 
 **Editorial Notes**
 
@@ -157,7 +157,7 @@ The term “Secretary” means the Secretary of Agriculture.
 
 1993—Par. (6). Pub. L. 103–194 substituted “citrus latifolia” for “citrus aurantifolia”.
 
-## § 6203. Issuance of orders
+## § 6203. Issuance of orders
 
 **(a) In general**
 
@@ -185,9 +185,9 @@ Such order shall be issued and become effective not later than 150 days followin
 
 The Secretary, from time to time, may amend any order issued under this section. The provisions of this chapter applicable to orders shall be applicable to amendments to orders.
 
-(Pub. L. 101–624, title XIX, § 1954, Nov. 28, 1990, 104 Stat. 3872.)
+(Pub. L. 101–624, title XIX, § 1954, Nov. 28, 1990, 104 Stat. 3872.)
 
-## § 6204. Required terms in orders
+## § 6204. Required terms in orders
 
 **(a) In general**
 
@@ -379,31 +379,31 @@ Such order shall require that all information obtained pursuant to subsection (h
 
 Nothing in this chapter shall be construed to authorize the withholding of information from Congress.
 
-(Pub. L. 101–624, title XIX, § 1955, Nov. 28, 1990, 104 Stat. 3872; Pub. L. 102–237, title VIII, § 805(1), Dec. 13, 1991, 105 Stat. 1882; Pub. L. 103–194, § 4, Dec. 14, 1993, 107 Stat. 2295.)
+(Pub. L. 101–624, title XIX, § 1955, Nov. 28, 1990, 104 Stat. 3872; Pub. L. 102–237, title VIII, § 805(1), Dec. 13, 1991, 105 Stat. 1882; Pub. L. 103–194, § 4, Dec. 14, 1993, 107 Stat. 2295.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Subsec. (b)(1)(A), (2)(B). Pub. L. 103–194, § 4(a)(1), (2), substituted “3” for “7”.
+1993—Subsec. (b)(1)(A), (2)(B). Pub. L. 103–194, § 4(a)(1), (2), substituted “3” for “7”.
 
-Subsec. (b)(2)(F). Pub. L. 103–194, § 4(a)(3), inserted at end “The Secretary shall terminate the initial Board established under this subsection as soon as practicable after December 14, 1993.”
+Subsec. (b)(2)(F). Pub. L. 103–194, § 4(a)(3), inserted at end “The Secretary shall terminate the initial Board established under this subsection as soon as practicable after December 14, 1993.”
 
-Subsec. (b)(2)(G). Pub. L. 103–194, § 4(a)(4), added subpar. (G).
+Subsec. (b)(2)(G). Pub. L. 103–194, § 4(a)(4), added subpar. (G).
 
-Subsec. (b)(4). Pub. L. 103–194, § 4(b)(1), substituted “The initial members of the Board appointed under the amended order shall serve a term of 30 months. Subsequent appointments to the Board shall be for a term of 3 years, except that—” for “Members of the Board shall be appointed for a term of 3 years. Of the members first appointed—”.
+Subsec. (b)(4). Pub. L. 103–194, § 4(b)(1), substituted “The initial members of the Board appointed under the amended order shall serve a term of 30 months. Subsequent appointments to the Board shall be for a term of 3 years, except that—” for “Members of the Board shall be appointed for a term of 3 years. Of the members first appointed—”.
 
-Subsec. (b)(4)(A). Pub. L. 103–194, § 4(b)(2), substituted “2” for “3”.
+Subsec. (b)(4)(A). Pub. L. 103–194, § 4(b)(2), substituted “2” for “3”.
 
-Subsec. (b)(4)(B). Pub. L. 103–194, § 4(b)(3), substituted “2” for “4” before “members”.
+Subsec. (b)(4)(B). Pub. L. 103–194, § 4(b)(3), substituted “2” for “4” before “members”.
 
-Subsec. (b)(4)(C). Pub. L. 103–194, § 4(b)(4), substituted “3” for “4” before “members”.
+Subsec. (b)(4)(C). Pub. L. 103–194, § 4(b)(4), substituted “3” for “4” before “members”.
 
-Subsec. (d)(5). Pub. L. 103–194, § 4(c), substituted “200,000” for “35,000”, wherever appearing.
+Subsec. (d)(5). Pub. L. 103–194, § 4(c), substituted “200,000” for “35,000”, wherever appearing.
 
 1991—Subsec. (e)(1)(B). Pub. L. 102–237 substituted “Government employees” for “government employees”.
 
-## § 6205. Permissive terms in orders
+## § 6205. Permissive terms in orders
 
 On the recommendation of the Board and with the approval of the Secretary, an order issued under section 6203(a) of this title may—
 
@@ -423,9 +423,9 @@ On the recommendation of the Board and with the approval of the Secretary, an or
 
 **(B)** necessary to effectuate the other provisions of such order.
 
-(Pub. L. 101–624, title XIX, § 1956, Nov. 28, 1990, 104 Stat. 3876.)
+(Pub. L. 101–624, title XIX, § 1956, Nov. 28, 1990, 104 Stat. 3876.)
 
-## § 6206. Petition and review
+## § 6206. Petition and review
 
 **(a) Petition**
 
@@ -463,7 +463,7 @@ Service of process in such proceedings shall be conducted in accordance with the
 
 The pendency of proceedings instituted pursuant to subsection (a) shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief pursuant to section 6207 of this title.
 
-(Pub. L. 101–624, title XIX, § 1957, Nov. 28, 1990, 104 Stat. 3876.)
+(Pub. L. 101–624, title XIX, § 1957, Nov. 28, 1990, 104 Stat. 3876.)
 
 **Editorial Notes**
 
@@ -471,7 +471,7 @@ The pendency of proceedings instituted pursuant to subsection (a) shall not impe
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-## § 6207. Enforcement
+## § 6207. Enforcement
 
 **(a) Jurisdiction**
 
@@ -523,7 +523,7 @@ Any person who fails to obey a cease and desist order issued by the Secretary af
 
 If a person fails to pay an assessment of a civil penalty after it has become a final and unappealable order issued by the Secretary, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States in any district in which the person resides or conducts business. In such action, the validity and appropriateness of the final order imposing such civil penalty shall not be subject to review.
 
-(Pub. L. 101–624, title XIX, § 1958, Nov. 28, 1990, 104 Stat. 3877; Pub. L. 102–237, title VIII, § 805(2), Dec. 13, 1991, 105 Stat. 1882.)
+(Pub. L. 101–624, title XIX, § 1958, Nov. 28, 1990, 104 Stat. 3877; Pub. L. 102–237, title VIII, § 805(2), Dec. 13, 1991, 105 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -531,7 +531,7 @@ If a person fails to pay an assessment of a civil penalty after it has become a 
 
 1991—Subsec. (d)(1). Pub. L. 102–237 substituted “United States District Court” for “United States district court”.
 
-## § 6208. Investigations and power to subpoena
+## § 6208. Investigations and power to subpoena
 
 **(a) In general** The Secretary may make such investigations as the Secretary considers necessary—
 
@@ -565,7 +565,7 @@ Process in any such case may be served in the judicial district of which such pe
 
 The site of any hearings held under section 6206 or 6207 of this title shall be within the judicial district where such person is an inhabitant or has a principal place of business.
 
-(Pub. L. 101–624, title XIX, § 1959, Nov. 28, 1990, 104 Stat. 3878; Pub. L. 102–237, title VIII, § 805(3), Dec. 13, 1991, 105 Stat. 1882.)
+(Pub. L. 101–624, title XIX, § 1959, Nov. 28, 1990, 104 Stat. 3878; Pub. L. 102–237, title VIII, § 805(3), Dec. 13, 1991, 105 Stat. 1882.)
 
 **Editorial Notes**
 
@@ -573,7 +573,7 @@ The site of any hearings held under section 6206 or 6207 of this title shall be 
 
 1991—Subsec. (b)(2). Pub. L. 102–237 struck out “section” after “6206 or”.
 
-## § 6209. Initial referendum
+## § 6209. Initial referendum
 
 **(a) Requirement** Not later than 30 months after the date on which the collection of assessments begins under the order pursuant to section 6204(d) of this title, the Secretary shall conduct a referendum among producers, producer-handlers, and importers who—
 
@@ -619,7 +619,7 @@ the Board shall prorate the amount of such refunds among all eligible producers,
 
 Any funds not refunded under this paragraph shall be released to be used to carry out this chapter.
 
-(Pub. L. 101–624, title XIX, § 1960, Nov. 28, 1990, 104 Stat. 3879; Pub. L. 103–194, § 5, Dec. 14, 1993, 107 Stat. 2295.)
+(Pub. L. 101–624, title XIX, § 1960, Nov. 28, 1990, 104 Stat. 3879; Pub. L. 103–194, § 5, Dec. 14, 1993, 107 Stat. 2295.)
 
 **Editorial Notes**
 
@@ -627,7 +627,7 @@ Any funds not refunded under this paragraph shall be released to be used to carr
 
 1993—Subsec. (a). Pub. L. 103–194 substituted “Not later than 30 months after the date on which the collection of assessments begins under the order pursuant to section 6204(d) of this title,” for “Not later than 2 years after the date on which the Secretary first issues an order under section 6203(a),”.
 
-## § 6210. Suspension and termination
+## § 6210. Suspension and termination
 
 **(a) Finding of Secretary**
 
@@ -653,9 +653,9 @@ The termination or suspension of any order, or any provision thereof, shall not 
 
 **(2)** the producers, producer-handlers, and importers comprising this majority produce and import more than 50 percent of the volume of limes produced and imported by those voting in the referendum.
 
-(Pub. L. 101–624, title XIX, § 1961, Nov. 28, 1990, 104 Stat. 3880.)
+(Pub. L. 101–624, title XIX, § 1961, Nov. 28, 1990, 104 Stat. 3880.)
 
-## § 6211. Authorization of appropriations
+## § 6211. Authorization of appropriations
 
 **(a) In general**
 
@@ -665,10 +665,10 @@ There are authorized to be appropriated for each fiscal year such funds as are n
 
 The funds so appropriated shall not be available for payment of the expenses or expenditures of the Board in administering any provisions of an order issued under this chapter.
 
-(Pub. L. 101–624, title XIX, § 1962, Nov. 28, 1990, 104 Stat. 3880.)
+(Pub. L. 101–624, title XIX, § 1962, Nov. 28, 1990, 104 Stat. 3880.)
 
-## § 6212. Regulations
+## § 6212. Regulations
 
 The Secretary may issue such regulations as are necessary to carry out this chapter.
 
-(Pub. L. 101–624, title XIX, § 1963, Nov. 28, 1990, 104 Stat. 3881.)
+(Pub. L. 101–624, title XIX, § 1963, Nov. 28, 1990, 104 Stat. 3881.)

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 15C—ALASKA NATURAL GAS TRANSPORTATION
 
-## § 719. Congressional findings
+## § 719. Congressional findings
 
 The Congress finds and declares that—
 
@@ -27,29 +27,29 @@ The Congress finds and declares that—
 
 **(4)** the determinations whether to authorize a transportation system for delivery of Alaska natural gas to the contiguous States and, if so, which system to select, involve questions of the utmost importance respecting national energy policy, international relations, national security, and economic and environmental impact, and therefore should appropriately be addressed by the Congress and the President in addition to those Federal officers and agencies assigned functions under law pertaining to the selection, construction, and initial operation of such a system.
 
-(Pub. L. 94–586, § 2, Oct. 22, 1976, 90 Stat. 2903.)
+(Pub. L. 94–586, § 2, Oct. 22, 1976, 90 Stat. 2903.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Expiration Date**
 
-Pub. L. 94–586, § 20, Oct. 22, 1976, 90 Stat. 2916, provided that: “This Act [this chapter] shall terminate in the event that no decision of the President takes effect under section 8 of this Act [section 719f of this title], such termination to occur at the end of the last day on which a decision could be, but is not, approved under such section.”
+Pub. L. 94–586, § 20, Oct. 22, 1976, 90 Stat. 2916, provided that: “This Act [this chapter] shall terminate in the event that no decision of the President takes effect under section 8 of this Act [section 719f of this title], such termination to occur at the end of the last day on which a decision could be, but is not, approved under such section.”
 
 **Short Title**
 
-Pub. L. 94–586, § 1, Oct. 22, 1976, 90 Stat. 2903, provided that: “This Act [enacting this chapter and provisions set out as notes under this section and section 1651 of Title 43, Public Lands] may be cited as the ‘Alaska Natural Gas Transportation Act of 1976’.”
+Pub. L. 94–586, § 1, Oct. 22, 1976, 90 Stat. 2903, provided that: “This Act [enacting this chapter and provisions set out as notes under this section and section 1651 of Title 43, Public Lands] may be cited as the ‘Alaska Natural Gas Transportation Act of 1976’.”
 
 **Antitrust Study**
 
-Pub. L. 94–586, § 19, Oct. 22, 1976, 90 Stat. 2916, directed Attorney General of United States to conduct a thorough study of antitrust issues and problems relating to production and transportation of Alaska natural gas and, not later than six months after Oct. 22, 1976, to complete such study and submit to Congress a report containing his findings and recommendations with respect thereto.
+Pub. L. 94–586, § 19, Oct. 22, 1976, 90 Stat. 2916, directed Attorney General of United States to conduct a thorough study of antitrust issues and problems relating to production and transportation of Alaska natural gas and, not later than six months after Oct. 22, 1976, to complete such study and submit to Congress a report containing his findings and recommendations with respect thereto.
 
-## § 719a. Congressional statement of purpose
+## § 719a. Congressional statement of purpose
 
 The purpose of this chapter is to provide the means for making a sound decision as to the selection of a transportation system for delivery of Alaska natural gas to the contiguous States for construction and initial operation by providing for the participation of the President and the Congress in the selection process, and, if such a system is approved under this chapter, to expedite its construction and initial operation by (1) limiting the jurisdiction of the courts to review the actions of Federal officers or agencies taken pursuant to the direction and authority of this chapter, and (2) permitting the limitation of administrative procedures and effecting the limitation of judicial procedures related to such actions. To accomplish this purpose it is the intent of the Congress to exercise its constitutional powers to the fullest extent in the authorizations and directions herein made, and particularly with respect to the limitation of judicial review of actions of Federal officers or agencies taken pursuant thereto.
 
-(Pub. L. 94–586, § 3, Oct. 22, 1976, 90 Stat. 2903.)
+(Pub. L. 94–586, § 3, Oct. 22, 1976, 90 Stat. 2903.)
 
-## § 719b. Definitions
+## § 719b. Definitions
 
 As used in this chapter:
 
@@ -63,7 +63,7 @@ As used in this chapter:
 
 **(5)** the term “approved transportation system” means the system for the transportation of Alaska natural gas designated by the President pursuant to section 719e(a) or 719f(b) of this title and approved by joint resolution of the Congress pursuant to section 719f of this title.
 
-(Pub. L. 94–586, § 4, Oct. 22, 1976, 90 Stat. 2904.)
+(Pub. L. 94–586, § 4, Oct. 22, 1976, 90 Stat. 2904.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -71,7 +71,7 @@ As used in this chapter:
 
 The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
-## § 719c. Federal Power Commission reviews and reports
+## § 719c. Federal Power Commission reviews and reports
 
 **(a) Proceedings: suspension, vacation or removal of suspension; issuance of certificate of convenience and necessity**
 
@@ -129,13 +129,13 @@ The recommendation by the Commission pursuant to this section shall not be based
 
 If the Commission recommends the approval of a particular transportation system, it shall submit to the President with such recommendation (1) an identification of those facilities and operations which are proposed to be encompassed within the term “construction and initial operation” in order to define the scope of directions contained in section 719g of this title and (2) the terms and conditions permitted under the Natural Gas Act [15 U.S.C. 717 et seq.], which the Commission determines to be appropriate for inclusion in a certificate of public convenience and necessity to be issued respecting such system. The Commission shall submit to the President contemporaneously with its’ report an environmental impact statement prepared respecting the recommended system, if any, and each environmental impact statement which may have been prepared respecting any other system reported on under this section.
 
-(Pub. L. 94–586, § 5, Oct. 22, 1976, 90 Stat. 2904.)
+(Pub. L. 94–586, § 5, Oct. 22, 1976, 90 Stat. 2904.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Natural Gas Act, referred to in subsecs. (a)(1) and (e), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsecs. (a)(1) and (e), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,9 +147,9 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Transfer of Functions**
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
-## § 719d. Federal and State officer or agency and other interested persons’ reports
+## § 719d. Federal and State officer or agency and other interested persons’ reports
 
 **(a) Federal officer or agency comments; submittal to President; public availability** Not later than July 1, 1977, any Federal officer or agency may submit written comments to the President with respect to the recommendation and report of the Commission and alternative methods for transportation of Alaska natural gas for delivery to the contiguous States. Such comments shall be made available to the public by the President when submitted to him, unless expressly exempted from this requirement in whole or in part by the President, under section 552(b)(1) of title 5. Any such written comment shall include information within the competence of such Federal officer or agency with respect to—
 
@@ -181,7 +181,7 @@ Not later than July 1, 1977, each Federal officer or agency shall report to the 
 
 Following receipt by the President of the Commission’s recommendations, the Council on Environmental Quality shall afford interested persons an opportunity to present oral and written data, views, and arguments respecting the environmental impact statements submitted by the Commission under section 719c(e) of this title. Not later than July 1, 1977, the Council on Environmental Quality shall submit to the President a report, which shall be contemporaneously made available by the Council to the public, summarizing any data, views, and arguments received and setting forth the Council’s views concerning the legal and factual sufficiency of each such environmental impact statement and other matters related to environmental impact as the Council considers to be relevant.
 
-(Pub. L. 94–586, § 6, Oct. 22, 1976, 90 Stat. 2906.)
+(Pub. L. 94–586, § 6, Oct. 22, 1976, 90 Stat. 2906.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -193,9 +193,9 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Transfer of Functions**
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
-## § 719e. Presidential decision and report
+## § 719e. Presidential decision and report
 
 **(a) Dateline for decision; transmission to Congress, delay: notice to Congress; contents of decision; chairman, appointment; Federal inspector of construction: duties, including establishment of joint surveillance and monitoring agreement**
 
@@ -215,7 +215,7 @@ Enforcement functions authorized by, and supplemental enforcement authority crea
 
 **(D)** identify those provisions of law, relating to any determination of a Federal officer or agency as to whether a certificate, permit, right-of-way, lease, or other authorization shall be issued or be granted, which provisions the President finds (i) involve determinations which are subsumed in his decision and (ii) require waiver pursuant to section 719f(g) of this title in order to permit the expeditious construction and initial operation of the transportation system.
 
-**(5)** Repealed. Pub. L. 102–486, title XXX, § 3012(a), Oct. 24, 1992, 106 Stat. 3128.
+**(5)** Repealed. Pub. L. 102–486, title XXX, § 3012(a), Oct. 24, 1992, 106 Stat. 3128.
 
 **(6)** If the President determines to designate for approval a transportation system for delivery of Alaska natural gas to the contiguous States, he may identify in such decision such terms and conditions permissible under existing law as he determines appropriate for inclusion with respect to any issuance or authorization directed to be made pursuant to section 719g of this title.
 
@@ -235,7 +235,7 @@ In making his decision under subsection (a) the President shall inform himself, 
 
 If the President determines to designate a transportation system for approval, the decision of the President shall take effect as provided in section 719f of this title, except that the approval of a decision of the President shall not be construed as amending or otherwise affecting the laws of the United States so as to grant any new financing authority as may have been identified by the President pursuant to subsection (c).
 
-(Pub. L. 94–586, § 7, Oct. 22, 1976, 90 Stat. 2907; Pub. L. 102–486, title XXX, § 3012(a), Oct. 24, 1992, 106 Stat. 3128.)
+(Pub. L. 94–586, § 7, Oct. 22, 1976, 90 Stat. 2907; Pub. L. 102–486, title XXX, § 3012(a), Oct. 24, 1992, 106 Stat. 3128.)
 
 **Editorial Notes**
 
@@ -251,7 +251,7 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Abolition of Office of Federal Inspector**
 
-Pub. L. 102–486, title XXX, § 3012(b), Oct. 24, 1992, 106 Stat. 3128, provided that: “The Office of Federal Inspector of Construction for the Alaska Natural Gas Transportation System [also known as “Office of the Federal Inspector for the Alaska Natural Gas Transportation System”], created pursuant to the paragraph [15 U.S.C. 719e(a)(5)] repealed by subsection (a) of this section, is abolished. All functions and authority vested in the Inspector are hereby transferred to the Secretary of Energy.”
+Pub. L. 102–486, title XXX, § 3012(b), Oct. 24, 1992, 106 Stat. 3128, provided that: “The Office of Federal Inspector of Construction for the Alaska Natural Gas Transportation System [also known as “Office of the Federal Inspector for the Alaska Natural Gas Transportation System”], created pursuant to the paragraph [15 U.S.C. 719e(a)(5)] repealed by subsection (a) of this section, is abolished. All functions and authority vested in the Inspector are hereby transferred to the Secretary of Energy.”
 
 [Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.]
 
@@ -394,7 +394,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Jimmy Carter.
 
-## § 719f. Congressional review
+## § 719f. Congressional review
 
 **(a) Effectiveness of decision designating transportation system for approval upon enactment of joint resolution**
 
@@ -418,9 +418,9 @@ If the Congress does not enact such a joint resolution within such 60-day period
 
 **(B)** with full recognition of the constitutional right of either House to change the rules (so far as those rules relate to the procedure of that House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.
 
-**(2)** For purposes of this chapter, the term “resolution” means (A) a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on \_\_\_\_\_, 19  , and find that any environmental impact statements prepared relative to such system and submitted with the President’s decision are in compliance with the Natural 1
+**(2)** For purposes of this chapter, the term “resolution” means (A) a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and Senate approve the Presidential decision on an Alaska natural gas transportation system submitted to the Congress on \_\_\_\_\_, 19 , and find that any environmental impact statements prepared relative to such system and submitted with the President’s decision are in compliance with the Natural 1
 
-<sup>1</sup>  So in original. Probably should be “National”.
+<sup>1</sup> So in original. Probably should be “National”.
 
 Environmental Policy Act of 1969.”; the blank space therein shall be filled with the date on which the President submits his decision to the House of Representatives and the Senate; or (B) a joint resolution described in subsection (g).
 
@@ -460,17 +460,17 @@ Within 20 days of the transmittal of the President’s decision to the Congress 
 
 **(2)** Such provision shall be waived with respect to actions to be taken under subsection (a) or (c) of section 719g of this title upon enactment of a joint resolution pursuant to the procedures specified in subsections (c) and (d) of this section (other than subsection (d)(2) thereof) within the first period of 60 calendar days of continuous session of Congress beginning on the date after the date of receipt by the Senate and House of Representatives of such proposal.
 
-**(3)** The resolving clause of the joint resolution referred to in this subsection is as follows: “That the House of Representatives and Senate approve the waiver of the provision of law ( ) as proposed by the President, submitted to the Congress on     , 19  .” The first blank space therein being filled with the citation to the provision of law and the second blank space therein being filled with the date on which the President submits his decision to the House of Representatives and the Senate.
+**(3)** The resolving clause of the joint resolution referred to in this subsection is as follows: “That the House of Representatives and Senate approve the waiver of the provision of law ( ) as proposed by the President, submitted to the Congress on , 19 .” The first blank space therein being filled with the citation to the provision of law and the second blank space therein being filled with the date on which the President submits his decision to the House of Representatives and the Senate.
 
 **(4)** In the case of action with respect to a joint resolution described in this subsection, the phrase “a waiver of a provision of law” shall be substituted in subsection (d) for the phrase “the Alaska natural gas transportation system.”.
 
-(Pub. L. 94–586, § 8, Oct. 22, 1976, 90 Stat. 2909.)
+(Pub. L. 94–586, § 8, Oct. 22, 1976, 90 Stat. 2909.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (d)(2) and (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (d)(2) and (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -490,9 +490,9 @@ Pub. L. 95–158, Nov. 8, 1977, 91 Stat. 1268, provided: “That the House of Re
 
 **Transfer of Functions**
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
-## § 719g. Transportation system certificates, rights-of-way, permits, leases, or other authorizations
+## § 719g. Transportation system certificates, rights-of-way, permits, leases, or other authorizations
 
 **(a) Earliest practicable date for issuance or grant of authorizations** To the extent that the taking of any action which is necessary or related to the construction and initial operation of the approved transportation system requires a certificate, right-of-way, permit, lease, or other authorization to be issued or granted by a Federal officer or agency, such Federal officer or agency shall—
 
@@ -516,15 +516,15 @@ Any Federal officer or agency, with respect to any certificate, permit, right-of
 
 Any Federal officer or agency to which subsection (a) applies, to the extent permitted under laws administered by such officer or agency, shall include in any certificate, permit, right-of-way, lease, or authorization issued or granted those terms and conditions identified in the President’s decision as appropriate for inclusion except that the requirement to include such terms and conditions shall not limit the Federal officer or agency’s authority under subsection (d) of this section.
 
-(Pub. L. 94–586, § 9, Oct. 22, 1976, 90 Stat. 2912.)
+(Pub. L. 94–586, § 9, Oct. 22, 1976, 90 Stat. 2912.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
-## § 719h. Judicial review
+## § 719h. Judicial review
 
 **(a) Exclusiveness of remedy**
 
@@ -556,23 +556,23 @@ The Special Court shall set any action brought under this section for expedited 
 
 The enactment of a joint resolution under section 719f of this title approving the decision of the President shall be conclusive as to the legal and factual sufficiency of the environmental impact statements submitted by the President relative to the approved transportation system and no court shall have jurisdiction to consider questions respecting the sufficiency of such statements under the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.].
 
-(Pub. L. 94–586, § 10, Oct. 22, 1976, 90 Stat. 2913; Pub. L. 98–620, title IV, § 402(16), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 108–324, div. C, § 107(d), Oct. 13, 2004, 118 Stat. 1261.)
+(Pub. L. 94–586, § 10, Oct. 22, 1976, 90 Stat. 2913; Pub. L. 98–620, title IV, § 402(16), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 108–324, div. C, § 107(d), Oct. 13, 2004, 118 Stat. 1261.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
-2004—Subsec. (c). Pub. L. 108–324, § 107(d)(1), inserted heading.
+2004—Subsec. (c). Pub. L. 108–324, § 107(d)(1), inserted heading.
 
-Subsec. (c)(1). Pub. L. 108–324, § 107(d)(1), (2), designated first sentence as subpar. (A) and inserted par. and subpar. headings and designated last sentence as subpar. (B), inserted subpar. heading, and substituted “The Special Court shall have” for “Such court shall have”.
+Subsec. (c)(1). Pub. L. 108–324, § 107(d)(1), (2), designated first sentence as subpar. (A) and inserted par. and subpar. headings and designated last sentence as subpar. (B), inserted subpar. heading, and substituted “The Special Court shall have” for “Such court shall have”.
 
-Subsec. (c)(2). Pub. L. 108–324, § 107(d)(3), added par. (2).
+Subsec. (c)(2). Pub. L. 108–324, § 107(d)(3), added par. (2).
 
-Subsec. (c)(3). Pub. L. 108–324, § 107(d)(4), inserted heading.
+Subsec. (c)(3). Pub. L. 108–324, § 107(d)(4), inserted heading.
 
 1984—Subsec. (c)(2). Pub. L. 98–620 struck out par. (2) which required that any such proceeding had to be assigned for hearing and completed at the earliest possible date, would, to the greatest extent practicable, take precedence over all other matters pending on the docket of the court at that time, and had to be expedited in every way by such court and such court had to render its decision relative to any claim within 90 days from the date such claim was brought unless such court determined that a longer period of time was required to satisfy requirements of the United States Constitution.
 
@@ -586,9 +586,9 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 **Transfer of Functions**
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
-## § 719i. Supplemental enforcement authority
+## § 719i. Supplemental enforcement authority
 
 **(a) Compliance order or civil action** In addition to remedies available under other applicable provisions of law, whenever any Federal officer or agency determines that any person is in violation of any applicable provision of law administered or enforceable by such officer or agency or any rule, regulation, or order under such provision, including any term or condition of any certificate, right-of-way, permit, lease, or other authorization, issued or granted by such officer or agency, such officer or agency may—
 
@@ -604,39 +604,39 @@ Any order issued under subsection (a) shall state with reasonable specificity th
 
 Upon a request of such officer or agency, as the case may be, the Attorney General may commence a civil action for appropriate relief, including a permanent or temporary injunction or a civil penalty not to exceed $25,000 per day for violations of the compliance order issued under subsection (a). Any action under this subsection may be brought in any district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation, require compliance, or impose such penalty or give ancillary relief.
 
-(Pub. L. 94–586, § 11, Oct. 22, 1976, 90 Stat. 2914.)
+(Pub. L. 94–586, § 11, Oct. 22, 1976, 90 Stat. 2914.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
-## § 719j. Export limitations
+## § 719j. Export limitations
 
-Any exports of Alaska natural gas shall be subject to the requirements of the Natural Gas Act [15 U.S.C. 717 et seq.] and section 103 1
+Any exports of Alaska natural gas shall be subject to the requirements of the Natural Gas Act [15 U.S.C. 717 et seq.] and section 103 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Energy Policy and Conservation Act, except that in addition to the requirements of such Acts, before any Alaska natural gas in excess of 1,000 Mcf per day may be exported to any nation other than Canada or Mexico, the President must make and publish an express finding that such exports will not diminish the total quantity or quality nor increase the total price of energy available to the United States.
 
-(Pub. L. 94–586, § 12, Oct. 22, 1976, 90 Stat. 2914.)
+(Pub. L. 94–586, § 12, Oct. 22, 1976, 90 Stat. 2914.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Natural Gas Act, referred to in text, is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in text, is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
-The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of Title 42, The Public Health and Welfare. Section 103 of the Act was classified to section 6212 of Title 42, prior to repeal by Pub. L. 114–113, div. O, title I, § 101(a), Dec. 18, 2015, 129 Stat. 2987. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
+The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of Title 42, The Public Health and Welfare. Section 103 of the Act was classified to section 6212 of Title 42, prior to repeal by Pub. L. 114–113, div. O, title I, § 101(a), Dec. 18, 2015, 129 Stat. 2987. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of Title 42 and Tables.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
-## § 719k. Equal access to facilities
+## § 719k. Equal access to facilities
 
 **(a) Ownership in transportation system**
 
@@ -646,7 +646,7 @@ There shall be included in the terms of any certificate, permit, right-of-way, l
 
 The State of Alaska is authorized to ship its royalty gas on the approved transportation system for use within Alaska and, to the extent its contracts for the sale of royalty gas so provide, to withdraw such gas from the interstate market for use within Alaska; the Federal Power Commission shall issue all authorizations necessary to effectuate such shipment and withdrawal subject to review by the Commission only of the justness and reasonableness of the rate charged for such transportation.
 
-(Pub. L. 94–586, § 13, Oct. 22, 1976, 90 Stat. 2915.)
+(Pub. L. 94–586, § 13, Oct. 22, 1976, 90 Stat. 2915.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -658,46 +658,46 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 **Transfer of Functions**
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
-## § 719l. Antitrust laws
+## § 719l. Antitrust laws
 
 Nothing in this chapter, and no action taken hereunder, shall imply or effect an amendment to, or exemption from, any provision of the antitrust laws.
 
-(Pub. L. 94–586, § 14, Oct. 22, 1976, 90 Stat. 2915.)
+(Pub. L. 94–586, § 14, Oct. 22, 1976, 90 Stat. 2915.)
 
-## § 719m. Authorization of appropriations
+## § 719m. Authorization of appropriations
 
 There is hereby authorized to be appropriated beginning in fiscal year 1978 and each fiscal year thereafter, such sums as may be necessary to carry out the functions of the Federal inspector appointed by the President with the advice and consent of the Senate under section 719e of this title.
 
-(Pub. L. 94–586, § 15, Oct. 22, 1976, 90 Stat. 2915.)
+(Pub. L. 94–586, § 15, Oct. 22, 1976, 90 Stat. 2915.)
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
-## § 719n. Separability
+## § 719n. Separability
 
 If any provision of this chapter, or the application thereof, is held invalid, the remainder of this chapter shall not be affected thereby.
 
-(Pub. L. 94–586, § 16, Oct. 22, 1976, 90 Stat. 2915.)
+(Pub. L. 94–586, § 16, Oct. 22, 1976, 90 Stat. 2915.)
 
-## § 719o. Civil rights; affirmative action of Federal officers and agencies; rules: promulgation and enforcement
+## § 719o. Civil rights; affirmative action of Federal officers and agencies; rules: promulgation and enforcement
 
 All Federal officers and agencies shall take such affirmative action as is necessary to assure that no person shall, on the grounds of race, creed, color, national origin, or sex, be excluded from receiving, or participating in any activity conducted under, any certificates, permit, right-of-way, lease, or other authorization granted or issued pursuant to this chapter. The appropriate Federal officers and agencies shall promulgate such rules as are necessary to carry out the purposes of this section and may enforce this section, and any rules promulgated under this section through agency and department provisions and rules which shall be similar to those established and in effect under title VI of the Civil Rights Act of 1964 [42 U.S.C. 2000d et seq.].
 
-(Pub. L. 94–586, § 17, Oct. 22, 1976, 90 Stat. 2915.)
+(Pub. L. 94–586, § 17, Oct. 22, 1976, 90 Stat. 2915.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 **Executive Documents**
 
 **Transfer of Functions**
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(h)(1), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out under section 719e of this title. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of this title. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.

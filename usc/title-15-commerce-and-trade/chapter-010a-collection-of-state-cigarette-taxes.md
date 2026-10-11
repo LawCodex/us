@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 10A—COLLECTION OF STATE CIGARETTE TAXES
 
-## § 375. Definitions
+## § 375. Definitions
 
 As used in this chapter, the following definitions apply:
 
@@ -129,29 +129,29 @@ The term “tobacco tax administrator” means the State, local, or tribal offic
 
 The term “use” includes the consumption, storage, handling, or disposal of cigarettes or smokeless tobacco.
 
-(Oct. 19, 1949, ch. 699, § 1, as added Pub. L. 111–154, § 2(a), Mar. 31, 2010, 124 Stat. 1088; amended Pub. L. 116–260, div. FF, title VI, § 602(a)(1), Dec. 27, 2020, 134 Stat. 3136.)
+(Oct. 19, 1949, ch. 699, § 1, as added Pub. L. 111–154, § 2(a), Mar. 31, 2010, 124 Stat. 1088; amended Pub. L. 116–260, div. FF, title VI, § 602(a)(1), Dec. 27, 2020, 134 Stat. 3136.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 375, act Oct. 19, 1949, ch. 699, § 1, 63 Stat. 884; Aug. 9, 1955, ch. 695, § 1, 69 Stat. 627, set out definitions for this chapter, prior to repeal by Pub. L. 111–154, § 2(a), Mar. 31, 2010, 124 Stat. 1088.
+A prior section 375, act Oct. 19, 1949, ch. 699, § 1, 63 Stat. 884; Aug. 9, 1955, ch. 695, § 1, 69 Stat. 627, set out definitions for this chapter, prior to repeal by Pub. L. 111–154, § 2(a), Mar. 31, 2010, 124 Stat. 1088.
 
 **Amendments**
 
-2020—Par. (2)(A)(ii). Pub. L. 116–260, § 602(a)(1)(A), substituted “includes—” for “includes”, inserted subcl. (I) designation before “roll-your-own tobacco”, and added subcl. (II).
+2020—Par. (2)(A)(ii). Pub. L. 116–260, § 602(a)(1)(A), substituted “includes—” for “includes”, inserted subcl. (I) designation before “roll-your-own tobacco”, and added subcl. (II).
 
-Pars. (7) to (15). Pub. L. 116–260, § 602(a)(1)(B), (C), added par. (7) and redesignated former pars. (7) to (14) as (8) to (15), respectively.
+Pars. (7) to (15). Pub. L. 116–260, § 602(a)(1)(B), (C), added par. (7) and redesignated former pars. (7) to (14) as (8) to (15), respectively.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2020 Amendment**
 
-Pub. L. 116–260, div. FF, title VI, § 602(b), Dec. 27, 2020, 134 Stat. 3137, provided that: “This section [amending this section and section 376a of this title and enacting provisions set out as a note under this section], and the amendments made by this section, shall take effect on the date that is 90 days after the date of enactment of this Act [Dec. 27, 2020].”
+Pub. L. 116–260, div. FF, title VI, § 602(b), Dec. 27, 2020, 134 Stat. 3137, provided that: “This section [amending this section and section 376a of this title and enacting provisions set out as a note under this section], and the amendments made by this section, shall take effect on the date that is 90 days after the date of enactment of this Act [Dec. 27, 2020].”
 
 **Effective Date**
 
-Pub. L. 111–154, § 6, Mar. 31, 2010, 124 Stat. 1110, provided that:
+Pub. L. 111–154, § 6, Mar. 31, 2010, 124 Stat. 1110, provided that:
 
 > **“(a) In General.—** Except as provided in subsection (b), this Act [see Short Title of 2010 Amendment note below] shall take effect on the date that is 90 days after the date of enactment of this Act [Mar. 31, 2010].
 
@@ -159,11 +159,11 @@ Pub. L. 111–154, § 6, Mar. 31, 2010, 124 Stat. 1110, provided that:
 
 **Short Title of 2020 Amendment**
 
-Pub. L. 116–260, div. FF, title VI, § 601, Dec. 27, 2020, 134 Stat. 3136, provided that: “This title [amending this section and section 376a of this title and enacting provisions set out as notes under this section and section 1716E of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Preventing Online Sales of E-Cigarettes to Children Act’.”
+Pub. L. 116–260, div. FF, title VI, § 601, Dec. 27, 2020, 134 Stat. 3136, provided that: “This title [amending this section and section 376a of this title and enacting provisions set out as notes under this section and section 1716E of Title 18, Crimes and Criminal Procedure] may be cited as the ‘Preventing Online Sales of E-Cigarettes to Children Act’.”
 
 **Short Title of 2010 Amendment**
 
-Pub. L. 111–154, § 1(a), Mar. 31, 2010, 124 Stat. 1087, provided that: “This Act [enacting this section, sections 376a, 377, and 378 of this title, and section 1716E of Title 18, Crimes and Criminal Procedure, amending section 376 of this title and section 2343 of Title 18, repealing former sections 375, 377, and 378 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Prevent All Cigarette Trafficking Act of 2009’ or ‘PACT Act’.”
+Pub. L. 111–154, § 1(a), Mar. 31, 2010, 124 Stat. 1087, provided that: “This Act [enacting this section, sections 376a, 377, and 378 of this title, and section 1716E of Title 18, Crimes and Criminal Procedure, amending section 376 of this title and section 2343 of Title 18, repealing former sections 375, 377, and 378 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Prevent All Cigarette Trafficking Act of 2009’ or ‘PACT Act’.”
 
 **Short Title**
 
@@ -171,15 +171,15 @@ Act Oct. 19, 1949, ch. 699, 63 Stat. 884, which is classified generally to this 
 
 **Severability**
 
-Pub. L. 111–154, § 7, Mar. 31, 2010, 124 Stat. 1111, provided that: “If any provision of this Act [see Short Title of 2010 Amendment note above], or any amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of the Act to any other person or circumstance shall not be affected thereby.”
+Pub. L. 111–154, § 7, Mar. 31, 2010, 124 Stat. 1111, provided that: “If any provision of this Act [see Short Title of 2010 Amendment note above], or any amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of the Act to any other person or circumstance shall not be affected thereby.”
 
 **Rule of Construction**
 
-Pub. L. 116–260, div. FF, title VI, § 602(c), Dec. 27, 2020, 134 Stat. 3137, provided that: “Nothing in this section [amending this section and section 376a of this title and enacting provisions set out as a note under this section], or an amendment made by this section, may be construed to affect or otherwise alter any provision of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), including its implementing regulations.”
+Pub. L. 116–260, div. FF, title VI, § 602(c), Dec. 27, 2020, 134 Stat. 3137, provided that: “Nothing in this section [amending this section and section 376a of this title and enacting provisions set out as a note under this section], or an amendment made by this section, may be construed to affect or otherwise alter any provision of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.), including its implementing regulations.”
 
 **Findings and Purpose**
 
-Pub. L. 111–154, § 1(b), (c), Mar. 31, 2010, 124 Stat. 1087, 1088, provided that:
+Pub. L. 111–154, § 1(b), (c), Mar. 31, 2010, 124 Stat. 1087, 1088, provided that:
 
 > **“(b) Findings.—** Congress finds that—
 
@@ -219,7 +219,7 @@ Pub. L. 111–154, § 1(b), (c), Mar. 31, 2010, 124 Stat. 1087, 1088, provided
 
 **Exclusions Regarding Indian Tribes and Tribal Matters**
 
-Pub. L. 111–154, § 5, Mar. 31, 2010, 124 Stat. 1109, provided that:
+Pub. L. 111–154, § 5, Mar. 31, 2010, 124 Stat. 1109, provided that:
 
 > **“(a) In General.—** Nothing in this Act [see Short Title of 2010 Amendment note above] or the amendments made by this Act shall be construed to amend, modify, or otherwise affect—
 
@@ -253,7 +253,7 @@ Pub. L. 111–154, § 5, Mar. 31, 2010, 124 Stat. 1109, provided that:
 
 > **“(2)** the term ‘tribal enterprise’ means any business enterprise, regardless of whether incorporated or unincorporated under Federal or tribal law, of an Indian tribe or group of Indian tribes.”
 
-## § 376. Reports to State tobacco tax administrator
+## § 376. Reports to State tobacco tax administrator
 
 **(a) Contents** Any person who sells, transfers, or ships for profit cigarettes or smokeless tobacco in interstate commerce, whereby such cigarettes or smokeless tobacco are shipped into a State, locality, or Indian country of an Indian tribe taxing the sale or use of cigarettes or smokeless tobacco, or who advertises or offers cigarettes or smokeless tobacco for such a sale, transfer, or shipment, shall—
 
@@ -271,23 +271,23 @@ The fact that any person ships or delivers for shipment any cigarettes or smokel
 
 A tobacco tax administrator or chief law enforcement officer who receives a memorandum or invoice under paragraph (2) or (3) of subsection (a) shall use the memorandum or invoice solely for the purposes of the enforcement of this chapter and the collection of any taxes owed on related sales of cigarettes and smokeless tobacco, and shall keep confidential any personal information in the memorandum or invoice except as required for such purposes.
 
-(Oct. 19, 1949, ch. 699, § 2, 63 Stat. 884; Aug. 15, 1953, ch. 512, title II, § 201(a), 67 Stat. 617; Aug. 9, 1955, ch. 695, § 1, 69 Stat. 627; Pub. L. 111–154, § 2(b), Mar. 31, 2010, 124 Stat. 1090.)
+(Oct. 19, 1949, ch. 699, § 2, 63 Stat. 884; Aug. 15, 1953, ch. 512, title II, § 201(a), 67 Stat. 617; Aug. 9, 1955, ch. 695, § 1, 69 Stat. 627; Pub. L. 111–154, § 2(b), Mar. 31, 2010, 124 Stat. 1090.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2010—Subsec. (a). Pub. L. 111–154, § 2(b)(1), (2)(A), inserted heading and, in introductory provisions, substituted “cigarettes or smokeless tobacco” for “cigarettes” wherever appearing, “, transfers, or ships” for “or transfers”, and “, transfer, or shipment” for “or transfer and shipment”, inserted “, locality, or Indian country of an Indian tribe” after “a State”, and struck out “to other than a distributor licensed by or located in such State,” after “use of cigarettes or smokeless tobacco,”.
+2010—Subsec. (a). Pub. L. 111–154, § 2(b)(1), (2)(A), inserted heading and, in introductory provisions, substituted “cigarettes or smokeless tobacco” for “cigarettes” wherever appearing, “, transfers, or ships” for “or transfers”, and “, transfer, or shipment” for “or transfer and shipment”, inserted “, locality, or Indian country of an Indian tribe” after “a State”, and struck out “to other than a distributor licensed by or located in such State,” after “use of cigarettes or smokeless tobacco,”.
 
-Subsec. (a)(1). Pub. L. 111–154, § 2(b)(2)(B), substituted “with the Attorney General of the United States and with the tobacco tax administrators of the State and place” for “with the tobacco tax administrator of the State” and “, as well as telephone numbers for each place of business, a principal electronic mail address, any website addresses, and the name, address, and telephone number of an agent in the State authorized to accept service on behalf of the person;” for “; and”.
+Subsec. (a)(1). Pub. L. 111–154, § 2(b)(2)(B), substituted “with the Attorney General of the United States and with the tobacco tax administrators of the State and place” for “with the tobacco tax administrator of the State” and “, as well as telephone numbers for each place of business, a principal electronic mail address, any website addresses, and the name, address, and telephone number of an agent in the State authorized to accept service on behalf of the person;” for “; and”.
 
-Subsec. (a)(2). Pub. L. 111–154, § 2(b)(1), (2)(C), substituted “cigarettes or smokeless tobacco” for “cigarettes” and “the quantity thereof, and the name, address, and phone number of the person delivering the shipment to the recipient on behalf of the delivery seller, with all invoice or memoranda information relating to specific customers to be organized by city or town and by zip code; and” for “and the quantity thereof.”
+Subsec. (a)(2). Pub. L. 111–154, § 2(b)(1), (2)(C), substituted “cigarettes or smokeless tobacco” for “cigarettes” and “the quantity thereof, and the name, address, and phone number of the person delivering the shipment to the recipient on behalf of the delivery seller, with all invoice or memoranda information relating to specific customers to be organized by city or town and by zip code; and” for “and the quantity thereof.”
 
-Subsec. (a)(3). Pub. L. 111–154, § 2(b)(2)(D), added par. (3).
+Subsec. (a)(3). Pub. L. 111–154, § 2(b)(2)(D), added par. (3).
 
-Subsec. (b). Pub. L. 111–154, § 2(b)(1), (3), inserted heading, substituted “cigarettes or smokeless tobacco” for “cigarettes” in two places and “evidence that” for “evidence (1) that”, and struck out “, and (2) that such sale or transfer was to other than a distributor licensed by or located in such State” after “by such person”.
+Subsec. (b). Pub. L. 111–154, § 2(b)(1), (3), inserted heading, substituted “cigarettes or smokeless tobacco” for “cigarettes” in two places and “evidence that” for “evidence (1) that”, and struck out “, and (2) that such sale or transfer was to other than a distributor licensed by or located in such State” after “by such person”.
 
-Subsec. (c). Pub. L. 111–154, § 2(b)(4), added subsec. (c).
+Subsec. (c). Pub. L. 111–154, § 2(b)(4), added subsec. (c).
 
 1955—Act Aug. 9, 1955, designated existing provisions as subsec. (a), inserted provisions requiring filing of a statement of name, trade name, address, and places of business by persons who sell or transfer for profit cigarettes in interstate commerce or by persons who advertise or offer cigarettes for such sale or transfer, and added subsec. (b).
 
@@ -301,7 +301,7 @@ Amendment by Pub. L. 111–154 effective on the date that is 90 days after March
 
 **Effective Date of 1955 Amendment**
 
-Act Aug. 9, 1955, ch. 695, § 2, 69 Stat. 628, provided that:
+Act Aug. 9, 1955, ch. 695, § 2, 69 Stat. 628, provided that:
 
 > **“(a)** Except as provided in subsection (b), the amendments made by this Act [amending this section and former sections 375, 377, and 378 of this title] shall take effect thirty days after the date of its enactment [Aug. 9, 1955].
 
@@ -309,9 +309,9 @@ Act Aug. 9, 1955, ch. 695, § 2, 69 Stat. 628, provided that:
 
 **Effective Date of 1953 Amendment**
 
-Act Aug. 15, 1953, ch. 512, title II, § 201(b), 67 Stat. 617, provided that: “The amendment made by subsection (a) [amending this section] shall apply only in respect of memoranda or copies of invoices covering shipments made during the calendar month in which this Act is enacted [August 1953] and subsequent calendar months.”
+Act Aug. 15, 1953, ch. 512, title II, § 201(b), 67 Stat. 617, provided that: “The amendment made by subsection (a) [amending this section] shall apply only in respect of memoranda or copies of invoices covering shipments made during the calendar month in which this Act is enacted [August 1953] and subsequent calendar months.”
 
-## § 376a. Delivery sales
+## § 376a. Delivery sales
 
 **(a) In general** With respect to delivery sales into a specific State and place, each delivery seller shall comply with—
 
@@ -593,7 +593,7 @@ Section 376 of this title and subsections (a), (b), (c), and (d) of this section
 
 For purposes of this chapter, a delivery sale shall be deemed to have occurred in the State and place where the buyer obtains personal possession of the cigarettes or smokeless tobacco, and a delivery pursuant to a delivery sale is deemed to have been initiated or ordered by the delivery seller.
 
-(Oct. 19, 1949, ch. 699, § 2A, as added Pub. L. 111–154, § 2(c), Mar. 31, 2010, 124 Stat. 1091; amended Pub. L. 116–260, div. FF, title VI, § 602(a)(2), Dec. 27, 2020, 134 Stat. 3137.)
+(Oct. 19, 1949, ch. 699, § 2A, as added Pub. L. 111–154, § 2(c), Mar. 31, 2010, 124 Stat. 1091; amended Pub. L. 116–260, div. FF, title VI, § 602(a)(2), Dec. 27, 2020, 134 Stat. 3137.)
 
 **Editorial Notes**
 
@@ -617,7 +617,7 @@ Amendment by Pub. L. 116–260 effective on the date that is 90 days after Dec. 
 
 Section effective on the date that is 90 days after March 31, 2010, see section 6 of Pub. L. 111–154, set out as an Effective Date of 2010 Amendment note under section 375 of this title.
 
-## § 377. Penalties
+## § 377. Penalties
 
 **(a) Criminal penalties**
 
@@ -667,13 +667,13 @@ A civil penalty imposed under paragraph (1) for a violation of this chapter shal
 
 **(ii)** the violation consists of an employee of the common carrier or independent delivery service who physically receives and processes orders, picks up packages, processes packages, or makes deliveries, taking actions that are outside the scope of employment of the employee, or that violate the implemented and enforced policies of the common carrier or independent delivery service described in clause (i).
 
-(Oct. 19, 1949, ch. 699, § 3, as added Pub. L. 111–154, § 2(d), Mar. 31, 2010, 124 Stat. 1100.)
+(Oct. 19, 1949, ch. 699, § 3, as added Pub. L. 111–154, § 2(d), Mar. 31, 2010, 124 Stat. 1100.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 377, act Oct. 19, 1949, ch. 699, § 3, 63 Stat. 885; Aug. 9, 1955, ch. 695, § 1, 69 Stat. 628, which related to penalties for violations of any provision of this chapter, was repealed, effective on the date that is 90 days after March 31, 2010, by Pub. L. 111–154, §§ 2(d), 6, Mar. 31, 2010, 124 Stat. 1100, 1110.
+A prior section 377, act Oct. 19, 1949, ch. 699, § 3, 63 Stat. 885; Aug. 9, 1955, ch. 695, § 1, 69 Stat. 628, which related to penalties for violations of any provision of this chapter, was repealed, effective on the date that is 90 days after March 31, 2010, by Pub. L. 111–154, §§ 2(d), 6, Mar. 31, 2010, 124 Stat. 1100, 1110.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -681,7 +681,7 @@ A prior section 377, act Oct. 19, 1949, ch. 699, § 3, 63 Stat. 885; Aug. 9, 1
 
 Section effective on the date that is 90 days after March 31, 2010, see section 6 of Pub. L. 111–154, set out as an Effective Date of 2010 Amendment note under section 375 of this title.
 
-## § 378. Enforcement
+## § 378. Enforcement
 
 **(a) In general**
 
@@ -759,13 +759,13 @@ The Attorney General of the United States shall make available to the public, by
 
 Not later than 1 year after March 31, 2010, and every year thereafter until the date that is 5 years after March 31, 2010, the Attorney General of the United States shall submit to Congress a report containing the information described in paragraph (1).
 
-(Oct. 19, 1949, ch. 699, § 4, as added Pub. L. 111–154, § 2(e), Mar. 31, 2010, 124 Stat. 1101.)
+(Oct. 19, 1949, ch. 699, § 4, as added Pub. L. 111–154, § 2(e), Mar. 31, 2010, 124 Stat. 1101.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 378, act Oct. 19, 1949, ch. 699, § 4, as added Aug. 9, 1955, ch. 695, § 1, 69 Stat. 628, which provided U.S. district courts with jurisdiction to prevent and restrain violations of this chapter, was repealed, effective on the date that is 90 days after March 31, 2010, by Pub. L. 111–154, §§ 2(e), 6, Mar. 31, 2010, 124 Stat. 1101, 1110.
+A prior section 378, act Oct. 19, 1949, ch. 699, § 4, as added Aug. 9, 1955, ch. 695, § 1, 69 Stat. 628, which provided U.S. district courts with jurisdiction to prevent and restrain violations of this chapter, was repealed, effective on the date that is 90 days after March 31, 2010, by Pub. L. 111–154, §§ 2(e), 6, Mar. 31, 2010, 124 Stat. 1101, 1110.
 
 **Statutory Notes and Related Subsidiaries**
 

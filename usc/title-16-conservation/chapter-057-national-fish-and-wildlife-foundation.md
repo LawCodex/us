@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 57—NATIONAL FISH AND WILDLIFE FOUNDATION
 
-## § 3701. Establishment and purposes of Foundation
+## § 3701. Establishment and purposes of Foundation
 
 **(a) Establishment**
 
@@ -29,7 +29,7 @@ There is established the National Fish and Wildlife Foundation (hereinafter in t
 
 **(3)** to participate with, and otherwise assist, foreign governments, entities, and individuals in undertaking and conducting activities that will further the conservation and management of the fish, wildlife, and plant resources of other countries.
 
-(Pub. L. 98–244, § 2, Mar. 26, 1984, 98 Stat. 107; Pub. L. 100–240, § 1(a), Jan. 11, 1988, 101 Stat. 1785; Pub. L. 103–232, title I, § 102, Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, § 202, Nov. 1, 2000, 114 Stat. 1777.)
+(Pub. L. 98–244, § 2, Mar. 26, 1984, 98 Stat. 107; Pub. L. 100–240, § 1(a), Jan. 11, 1988, 101 Stat. 1785; Pub. L. 103–232, title I, § 102, Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, § 202, Nov. 1, 2000, 114 Stat. 1777.)
 
 **Editorial Notes**
 
@@ -45,33 +45,33 @@ There is established the National Fish and Wildlife Foundation (hereinafter in t
 
 **Short Title of 2008 Amendment**
 
-Pub. L. 110–281, § 1, July 21, 2008, 122 Stat. 2617, provided that: “This Act [amending section 3702 of this title] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act Amendment of 2008’.”
+Pub. L. 110–281, § 1, July 21, 2008, 122 Stat. 2617, provided that: “This Act [amending section 3702 of this title] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act Amendment of 2008’.”
 
 **Short Title of 2006 Amendment**
 
-Pub. L. 109–363, title II, § 201, Oct. 17, 2006, 120 Stat. 2075, provided that: “This title [amending sections 3703 and 3709 of this title] may be cited as the ‘National Fish and Wildlife Foundation Reauthorization Act of 2006’.”
+Pub. L. 109–363, title II, § 201, Oct. 17, 2006, 120 Stat. 2075, provided that: “This title [amending sections 3703 and 3709 of this title] may be cited as the ‘National Fish and Wildlife Foundation Reauthorization Act of 2006’.”
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–408, title II, § 201, Nov. 1, 2000, 114 Stat. 1777, provided that: “This title [enacting section 3710 of this title, amending this section and sections 3702, 3703, 3705, 3706, and 3709 of this title, and repealing provisions set out as a note under section 3703 of this title] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act Amendments of 2000’.”
+Pub. L. 106–408, title II, § 201, Nov. 1, 2000, 114 Stat. 1777, provided that: “This title [enacting section 3710 of this title, amending this section and sections 3702, 3703, 3705, 3706, and 3709 of this title, and repealing provisions set out as a note under section 3703 of this title] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act Amendments of 2000’.”
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–277, div. A, § 101(b) [title IX, § 901], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, provided that: “This title [amending section 3703 of this title and enacting provisions set out as a note under section 3703 of this title] may be cited as the ‘National Whale Conservation Fund Act of 1998’.”
+Pub. L. 105–277, div. A, § 101(b) [title IX, § 901], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, provided that: “This title [amending section 3703 of this title and enacting provisions set out as a note under section 3703 of this title] may be cited as the ‘National Whale Conservation Fund Act of 1998’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–232, title I, § 101, Apr. 11, 1994, 108 Stat. 336, provided that: “This title [amending this section and sections 3702 and 3709 of this title and enacting provisions listed in a table of National Environmental Centers set out under section 668dd of this title and provisions set out as notes under section 3702 of this title] may be cited as the ‘National Fish and Wildlife Foundation Improvement Act of 1994’.”
+Pub. L. 103–232, title I, § 101, Apr. 11, 1994, 108 Stat. 336, provided that: “This title [amending this section and sections 3702 and 3709 of this title and enacting provisions listed in a table of National Environmental Centers set out under section 668dd of this title and provisions set out as notes under section 3702 of this title] may be cited as the ‘National Fish and Wildlife Foundation Improvement Act of 1994’.”
 
 **Short Title of 1990 Amendment**
 
-Pub. L. 101–593, title I, § 110(a), Nov. 16, 1990, 104 Stat. 2959, provided that: “This section [amending sections 3702 and 3709 of this title] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act Amendments of 1990’.”
+Pub. L. 101–593, title I, § 110(a), Nov. 16, 1990, 104 Stat. 2959, provided that: “This section [amending sections 3702 and 3709 of this title] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act Amendments of 1990’.”
 
 **Short Title**
 
-Pub. L. 98–244, § 1, Mar. 26, 1984, 98 Stat. 107, provided that: “This Act [enacting this chapter] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act’.”
+Pub. L. 98–244, § 1, Mar. 26, 1984, 98 Stat. 107, provided that: “This Act [enacting this chapter] may be cited as the ‘National Fish and Wildlife Foundation Establishment Act’.”
 
-## § 3702. Board of Directors of Foundation
+## § 3702. Board of Directors of Foundation
 
 **(a) Establishment and membership**
 
@@ -163,23 +163,23 @@ Officers and employees of the Foundation shall be appointed without regard to th
 
 **(ii)** knowledgeable and experienced in matters relating to fish and wildlife conservation.
 
-(Pub. L. 98–244, § 3, Mar. 26, 1984, 98 Stat. 107; Pub. L. 101–593, title I, § 110(b), Nov. 16, 1990, 104 Stat. 2959; Pub. L. 103–232, title I, § 103(a)(1), (b), Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, § 203(a), (b), Nov. 1, 2000, 114 Stat. 1777, 1778; Pub. L. 110–281, § 2, July 21, 2008, 122 Stat. 2617; Pub. L. 116–188, title I, § 107(a)(1), Oct. 30, 2020, 134 Stat. 917.)
+(Pub. L. 98–244, § 3, Mar. 26, 1984, 98 Stat. 107; Pub. L. 101–593, title I, § 110(b), Nov. 16, 1990, 104 Stat. 2959; Pub. L. 103–232, title I, § 103(a)(1), (b), Apr. 11, 1994, 108 Stat. 336; Pub. L. 106–408, title II, § 203(a), (b), Nov. 1, 2000, 114 Stat. 1777, 1778; Pub. L. 110–281, § 2, July 21, 2008, 122 Stat. 2617; Pub. L. 116–188, title I, § 107(a)(1), Oct. 30, 2020, 134 Stat. 917.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2020—Subsec. (b)(2). Pub. L. 116–188, § 107(a)(1)(A)(i), added par. (2) and struck out former par. (2) which related to appointment of directors by the Secretary of the Interior.
+2020—Subsec. (b)(2). Pub. L. 116–188, § 107(a)(1)(A)(i), added par. (2) and struck out former par. (2) which related to appointment of directors by the Secretary of the Interior.
 
-Subsec. (b)(3). Pub. L. 116–188, § 107(a)(1)(A)(ii), added par. (3) and struck out former par. (3) which related to terms of directors.
+Subsec. (b)(3). Pub. L. 116–188, § 107(a)(1)(A)(ii), added par. (3) and struck out former par. (3) which related to terms of directors.
 
-Subsec. (g)(2)(A). Pub. L. 116–188, § 107(a)(1)(B)(i), inserted subpar. heading and struck out first sentence which read as follows: “Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service.”
+Subsec. (g)(2)(A). Pub. L. 116–188, § 107(a)(1)(B)(i), inserted subpar. heading and struck out first sentence which read as follows: “Officers and employees may not be appointed until the Foundation has sufficient funds to pay them for their service.”
 
-Subsec. (g)(2)(B). Pub. L. 116–188, § 107(a)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced in matters relating to fish and wildlife conservation.”
+Subsec. (g)(2)(B). Pub. L. 116–188, § 107(a)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B) which read as follows: “The first officer or employee appointed by the Board shall be the Secretary of the Board who (i) shall serve, at the direction of the Board, as its chief operating officer, and (ii) shall be knowledgeable and experienced in matters relating to fish and wildlife conservation.”
 
 2008—Subsec. (a)(1). Pub. L. 110–281 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Foundation shall have a governing Board of Directors (referred to in this chapter as the ‘Board’), which shall consist of 25 Directors appointed in accordance with subsection (b) of this section, each of whom shall be a United States citizen.”
 
-2000—Subsec. (a). Pub. L. 106–408, § 203(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Foundation shall have a governing Board of Directors (hereinafter referred to in this chapter as the ‘Board’), which shall consist of 15 Directors, each of whom shall be a United States citizen and—
+2000—Subsec. (a). Pub. L. 106–408, § 203(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Foundation shall have a governing Board of Directors (hereinafter referred to in this chapter as the ‘Board’), which shall consist of 15 Directors, each of whom shall be a United States citizen and—
 
 “(1) six of whom must be knowledgeable or experienced in fish and wildlife conservation; and
 
@@ -187,23 +187,23 @@ Subsec. (g)(2)(B). Pub. L. 116–188, § 107(a)(1)(B)(ii), added subpar. (B) a
 
 The membership of the Board, to the extent practicable, shall represent diverse points of view relating to fish and wildlife conservation. The Director of the United States Fish and Wildlife Service shall be an ex officio nonvoting member of the Board. Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law.”
 
-Subsec. (b). Pub. L. 106–408, § 203(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “By December 31, 1984, the Secretary of the Interior (hereinafter referred to in this chapter as the ‘Secretary’) shall appoint the Directors of the Board. The Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint three Directors to a term of two years, three Directors to a term of four years, and three Directors to a term of six years. A vacancy on the Board shall be filled within sixty days of said vacancy in the manner in which the original appointment was made. No individual may serve more than two consecutive terms as a Director. The Secretary of the Interior shall consult with the Under Secretary of Commerce for Oceans and Atmosphere before appointing any Director of the Board.”
+Subsec. (b). Pub. L. 106–408, § 203(b), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “By December 31, 1984, the Secretary of the Interior (hereinafter referred to in this chapter as the ‘Secretary’) shall appoint the Directors of the Board. The Directors shall be appointed for terms of six years; except that the Secretary, in making the initial appointments to the Board, shall appoint three Directors to a term of two years, three Directors to a term of four years, and three Directors to a term of six years. A vacancy on the Board shall be filled within sixty days of said vacancy in the manner in which the original appointment was made. No individual may serve more than two consecutive terms as a Director. The Secretary of the Interior shall consult with the Under Secretary of Commerce for Oceans and Atmosphere before appointing any Director of the Board.”
 
-1994—Subsec. (a). Pub. L. 103–232, § 103(b), substituted “15 Directors” for “nine Directors” in introductory provisions and “4” for “three” in par. (2).
+1994—Subsec. (a). Pub. L. 103–232, § 103(b), substituted “15 Directors” for “nine Directors” in introductory provisions and “4” for “three” in par. (2).
 
-Subsec. (b). Pub. L. 103–232, § 103(a)(1), inserted at end “The Secretary of the Interior shall consult with the Under Secretary of Commerce for Oceans and Atmosphere before appointing any Director of the Board.”
+Subsec. (b). Pub. L. 103–232, § 103(a)(1), inserted at end “The Secretary of the Interior shall consult with the Under Secretary of Commerce for Oceans and Atmosphere before appointing any Director of the Board.”
 
-1990—Subsec. (g)(2)(A). Pub. L. 101–593 struck out “, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule” after “General Schedule pay rates”.
+1990—Subsec. (g)(2)(A). Pub. L. 101–593 struck out “, except that no individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule” after “General Schedule pay rates”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–232, title I, § 103(a)(2), Apr. 11, 1994, 108 Stat. 336, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act [Apr. 11, 1994].”
+Pub. L. 103–232, title I, § 103(a)(2), Apr. 11, 1994, 108 Stat. 336, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to appointments of Directors of the Board of Directors of the National Fish and Wildlife Foundation made after the date of the enactment of this Act [Apr. 11, 1994].”
 
 **Initial Terms of Six New Directors**
 
-Pub. L. 103–232, title I, § 103(c), Apr. 11, 1994, 108 Stat. 336, provided that:
+Pub. L. 103–232, title I, § 103(c), Apr. 11, 1994, 108 Stat. 336, provided that:
 
 > “Of the Directors on the Board of Directors of the National Fish and Wildlife Foundation first appointed pursuant to the amendment made by subsection (b)(1) [amending this section], notwithstanding the second sentence of section 3(b) of the National Fish and Wildlife Foundation Establishment Act (16 U.S.C. 3702(b))—
 
@@ -217,13 +217,13 @@ Pub. L. 103–232, title I, § 103(c), Apr. 11, 1994, 108 Stat. 336, provided 
 
 **Completion of Appointments**
 
-Pub. L. 103–232, title I, § 103(d), Apr. 11, 1994, 108 Stat. 337, provided that: “The Secretary of the Interior shall appoint the additional members of the Board of Directors of the National Fish and Wildlife Foundation authorized by the amendment made by subsection (a) [(b)] [amending this section], by not later than 60 days after the date of the enactment of this Act [Apr. 11, 1994].”
+Pub. L. 103–232, title I, § 103(d), Apr. 11, 1994, 108 Stat. 337, provided that: “The Secretary of the Interior shall appoint the additional members of the Board of Directors of the National Fish and Wildlife Foundation authorized by the amendment made by subsection (a) [(b)] [amending this section], by not later than 60 days after the date of the enactment of this Act [Apr. 11, 1994].”
 
 **Authority of Board Not Affected**
 
-Pub. L. 103–232, title I, § 103(e), Apr. 11, 1994, 108 Stat. 337, provided that: “The authority of the Board of Directors of the National Fish and Wildlife Foundation to take any action otherwise authorized by law shall not be affected by reason of the Secretary of the Interior not having completed the appointment of Directors of the Board of Directors of the National Fish and Wildlife Foundation pursuant to the amendment made by subsection (b)(1) [amending this section].”
+Pub. L. 103–232, title I, § 103(e), Apr. 11, 1994, 108 Stat. 337, provided that: “The authority of the Board of Directors of the National Fish and Wildlife Foundation to take any action otherwise authorized by law shall not be affected by reason of the Secretary of the Interior not having completed the appointment of Directors of the Board of Directors of the National Fish and Wildlife Foundation pursuant to the amendment made by subsection (b)(1) [amending this section].”
 
-## § 3703. Rights and obligations of Foundation
+## § 3703. Rights and obligations of Foundation
 
 **(a) In general** The Foundation—
 
@@ -263,9 +263,9 @@ The Foundation shall have an official seal selected by the Board which shall be 
 
 **(I)** to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Foundation shall not be personally liable, except for gross negligence;
 
-**(J)** to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and 1
+**(J)** to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and 1
 
-<sup>1</sup>  So in original. The word “and” probably should not appear.
+<sup>1</sup> So in original. The word “and” probably should not appear.
 
 **(K)** to receive and administer restitution and community service payments, amounts for mitigation of impacts to natural resources, and other amounts arising from legal, regulatory, or administrative proceedings, subject to the condition that the amounts are received or administered for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources; and
 
@@ -329,7 +329,7 @@ The Foundation shall not make any expenditure of Federal funds in connection wit
 
 The Foundation shall not make a grant of Federal funds in an amount greater than $10,000 unless, by not later than 30 days before the grant is made, the Foundation provides notice of the grant to the Member of Congress for the congressional district in which the project to be funded with the grant will be carried out.
 
-(Pub. L. 98–244, § 4, Mar. 26, 1984, 98 Stat. 108; Pub. L. 100–240, §§ 1(b), 2(a), (b)(1), Jan. 11, 1988, 101 Stat. 1785, 1786; Pub. L. 105–277, div. A, § 101(b) [title IX, § 903], Oct. 21, 1998, 112 Stat. 2681–50, 2681–120; Pub. L. 106–408, title II, §§ 203(c)(1), 204(a)–(c), (e)–(g), 206, Nov. 1, 2000, 114 Stat. 1779, 1780; Pub. L. 109–363, title II, § 203, Oct. 17, 2006, 120 Stat. 2075; Pub. L. 116–188, title I, § 107(b), Oct. 30, 2020, 134 Stat. 918.)
+(Pub. L. 98–244, § 4, Mar. 26, 1984, 98 Stat. 108; Pub. L. 100–240, §§ 1(b), 2(a), (b)(1), Jan. 11, 1988, 101 Stat. 1785, 1786; Pub. L. 105–277, div. A, § 101(b) [title IX, § 903], Oct. 21, 1998, 112 Stat. 2681–50, 2681–120; Pub. L. 106–408, title II, §§ 203(c)(1), 204(a)–(c), (e)–(g), 206, Nov. 1, 2000, 114 Stat. 1779, 1780; Pub. L. 109–363, title II, § 203, Oct. 17, 2006, 120 Stat. 2075; Pub. L. 116–188, title I, § 107(b), Oct. 30, 2020, 134 Stat. 918.)
 
 **Editorial Notes**
 
@@ -339,57 +339,57 @@ This Act, referred to in subsec. (c)(2)(A), is Pub. L. 116–188, Oct. 30, 2020,
 
 **Amendments**
 
-2020—Subsec. (c). Pub. L. 116–188, § 107(b)(1)(A), (B), (G), designated introductory provisions as par. (1), inserted heading, substituted “To carry out the purposes described in” for “To carry out its purposes under”, redesignated former pars. (1) to (11) as subpars. (A) to (K), respectively, of par. (1), realigned margins, and struck out concluding provisions which read as follows: “For purposes of this chapter, an interest in real property shall be treated as including, among other things, easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation.”
+2020—Subsec. (c). Pub. L. 116–188, § 107(b)(1)(A), (B), (G), designated introductory provisions as par. (1), inserted heading, substituted “To carry out the purposes described in” for “To carry out its purposes under”, redesignated former pars. (1) to (11) as subpars. (A) to (K), respectively, of par. (1), realigned margins, and struck out concluding provisions which read as follows: “For purposes of this chapter, an interest in real property shall be treated as including, among other things, easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational, inspirational, or recreational resources. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation.”
 
-Subsec. (c)(1)(D). Pub. L. 116–188, § 107(b)(1)(C), substituted “at 1 or more financial institutions that are members of the Federal Deposit Insurance Corporation or the Securities Investment Protection Corporation” for “that are insured by an agency or instrumentality of the United States”.
+Subsec. (c)(1)(D). Pub. L. 116–188, § 107(b)(1)(C), substituted “at 1 or more financial institutions that are members of the Federal Deposit Insurance Corporation or the Securities Investment Protection Corporation” for “that are insured by an agency or instrumentality of the United States”.
 
-Subsec. (c)(1)(E). Pub. L. 116–188, § 107(b)(1)(D), substituted “subparagraph (C) or (D)” for “paragraph (3) or (4)”.
+Subsec. (c)(1)(E). Pub. L. 116–188, § 107(b)(1)(D), substituted “subparagraph (C) or (D)” for “paragraph (3) or (4)”.
 
-Subsec. (c)(1)(K), (L). Pub. L. 116–188, § 107(b)(1)(E), (F), added subpars. (K) and (L) and struck out former subpar. (K) which read as follows: “to do any and all acts necessary and proper to carry out the purposes of the Foundation.”
+Subsec. (c)(1)(K), (L). Pub. L. 116–188, § 107(b)(1)(E), (F), added subpars. (K) and (L) and struck out former subpar. (K) which read as follows: “to do any and all acts necessary and proper to carry out the purposes of the Foundation.”
 
-Subsec. (c)(2), (3). Pub. L. 116–188, § 107(b)(1)(G), added pars. (2) and (3).
+Subsec. (c)(2), (3). Pub. L. 116–188, § 107(b)(1)(G), added pars. (2) and (3).
 
-Subsecs. (f) to (i). Pub. L. 116–188, § 107(b)(2), (3), redesignated subsecs. (h) and (i) as (f) and (g), respectively, and struck out former subsecs. (f) and (g) which related to establishment of national whale conservation endowment fund and consultation, respectively.
+Subsecs. (f) to (i). Pub. L. 116–188, § 107(b)(2), (3), redesignated subsecs. (h) and (i) as (f) and (g), respectively, and struck out former subsecs. (f) and (g) which related to establishment of national whale conservation endowment fund and consultation, respectively.
 
 2006—Subsec. (i). Pub. L. 109–363 substituted “grant of Federal funds in an amount greater than $10,000” for “grant of funds”.
 
-2000—Subsec. (a)(3). Pub. L. 106–408, § 204(a), inserted “or in a county in the State of Maryland or Virginia that borders on the District of Columbia” after “the District of Columbia”.
+2000—Subsec. (a)(3). Pub. L. 106–408, § 204(a), inserted “or in a county in the State of Maryland or Virginia that borders on the District of Columbia” after “the District of Columbia”.
 
-Subsec. (c)(3), (4). Pub. L. 106–408, § 204(b)(2), added pars. (3) and (4). Former pars. (3) and (4) redesignated (7) and (8), respectively.
+Subsec. (c)(3), (4). Pub. L. 106–408, § 204(b)(2), added pars. (3) and (4). Former pars. (3) and (4) redesignated (7) and (8), respectively.
 
-Subsec. (c)(5). Pub. L. 106–408, § 204(b)(2), added par. (5). Former par. (5) redesignated (9).
+Subsec. (c)(5). Pub. L. 106–408, § 204(b)(2), added par. (5). Former par. (5) redesignated (9).
 
-Pub. L. 106–408, § 203(c)(1), substituted “Directors of the Foundation” for “Directors of the Board”.
+Pub. L. 106–408, § 203(c)(1), substituted “Directors of the Foundation” for “Directors of the Board”.
 
-Subsec. (c)(6) to (11). Pub. L. 106–408, § 204(b), added par. (6) and redesignated former pars. (3) to (7) as (7) to (11), respectively.
+Subsec. (c)(6) to (11). Pub. L. 106–408, § 204(b), added par. (6) and redesignated former pars. (3) to (7) as (7) to (11), respectively.
 
-Subsec. (e)(1)(B). Pub. L. 106–408, § 204(c), added subpar. (B) and struck out former subpar. (B) which read as follows: “the Director of the United States Fish and Wildlife Service (hereafter in this subsection referred to as the ‘Director’) consents to the acquisition in writing.”
+Subsec. (e)(1)(B). Pub. L. 106–408, § 204(c), added subpar. (B) and struck out former subpar. (B) which read as follows: “the Director of the United States Fish and Wildlife Service (hereafter in this subsection referred to as the ‘Director’) consents to the acquisition in writing.”
 
-Subsec. (e)(3)(B)(ii). Pub. L. 106–408, § 204(e), added cl. (ii) and struck out former cl. (ii) which read as follows: “the Director finds that conveyance or provision of Federal funds meets the requirements of clause (i) and consents to it in writing.”
+Subsec. (e)(3)(B)(ii). Pub. L. 106–408, § 204(e), added cl. (ii) and struck out former cl. (ii) which read as follows: “the Director finds that conveyance or provision of Federal funds meets the requirements of clause (i) and consents to it in writing.”
 
-Subsec. (e)(5). Pub. L. 106–408, § 204(f), added par. (5) and struck out former par. (5) which read as follows: “The Foundation shall convey at not less than fair-market value any real property acquired by it in whole or in part with Federal funds if the Foundation and the Director determine, in writing, that—
+Subsec. (e)(5). Pub. L. 106–408, § 204(f), added par. (5) and struck out former par. (5) which read as follows: “The Foundation shall convey at not less than fair-market value any real property acquired by it in whole or in part with Federal funds if the Foundation and the Director determine, in writing, that—
 
 “(A) the land is no longer valuable for the purposes of fish and wildlife conservation or management, and
 
 “(B) the purposes of the Foundation would be better served by the use of the Federal funds for other authorized activities of the Foundation.”
 
-Subsec. (h). Pub. L. 106–408, § 204(g), added subsec. (h).
+Subsec. (h). Pub. L. 106–408, § 204(g), added subsec. (h).
 
-Subsec. (i). Pub. L. 106–408, § 206, added subsec. (i).
+Subsec. (i). Pub. L. 106–408, § 206, added subsec. (i).
 
 1998—Subsecs. (f), (g). Pub. L. 105–277 added subsecs. (f) and (g).
 
-1988—Subsec. (a)(2). Pub. L. 100–240, § 1(b), inserted “and abroad” after “United States”.
+1988—Subsec. (a)(2). Pub. L. 100–240, § 1(b), inserted “and abroad” after “United States”.
 
-Subsec. (c)(2). Pub. L. 100–240, § 2(b), inserted “, subject to subsection (e)” after “therein”.
+Subsec. (c)(2). Pub. L. 100–240, § 2(b), inserted “, subject to subsection (e)” after “therein”.
 
-Subsec. (e). Pub. L. 100–240, § 2(a), added subsec. (e).
+Subsec. (e). Pub. L. 100–240, § 2(a), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Congressional Findings—National Whale Conservation**
 
-Pub. L. 105–277, div. A, § 101(b) [title IX, § 902], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, provided that:
+Pub. L. 105–277, div. A, § 101(b) [title IX, § 902], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, provided that:
 
 > “Congress finds that—
 
@@ -433,9 +433,9 @@ Pub. L. 105–277, div. A, § 101(b) [title IX, § 902], Oct. 21, 1998, 112 
 
 **Draw Down of Federal Funds; Exemption From Audit Requirements**
 
-Pub. L. 102–440, title III, § 304, Oct. 23, 1992, 106 Stat. 2235, which provided that the National Fish and Wildlife Foundation could continue to draw down Federal funds when matching requirements had been met, that interest earned on funds already drawn down was to be used to fund all activities as approved by the Board of Directors, and that Foundation subgrantees would be exempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less, was repealed by Pub. L. 106–408, title II, § 204(d), Nov. 1, 2000, 114 Stat. 1779.
+Pub. L. 102–440, title III, § 304, Oct. 23, 1992, 106 Stat. 2235, which provided that the National Fish and Wildlife Foundation could continue to draw down Federal funds when matching requirements had been met, that interest earned on funds already drawn down was to be used to fund all activities as approved by the Board of Directors, and that Foundation subgrantees would be exempt from the audit reporting and compliance requirements of OMB Circular A–133, for all grants of $100,000 or less, was repealed by Pub. L. 106–408, title II, § 204(d), Nov. 1, 2000, 114 Stat. 1779.
 
-## § 3704. Administrative services and support
+## § 3704. Administrative services and support
 
 **(a) Provision of services**
 
@@ -447,7 +447,7 @@ The Foundation may reimburse the Secretary for any administrative service provid
 
 Notwithstanding any other provision of this section, the Secretary of the Interior is authorized to continue to provide facilities, and necessary support services for such facilities, to the National Fish and Wildlife Foundation after March 26, 1989, on a space available, reimbursable cost basis.
 
-(Pub. L. 98–244, § 5, Mar. 26, 1984, 98 Stat. 109; Pub. L. 100–240, § 3, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 100–653, title IX, § 903, Nov. 14, 1988, 102 Stat. 3834.)
+(Pub. L. 98–244, § 5, Mar. 26, 1984, 98 Stat. 109; Pub. L. 100–240, § 3, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 100–653, title IX, § 903, Nov. 14, 1988, 102 Stat. 3834.)
 
 **Editorial Notes**
 
@@ -455,13 +455,13 @@ Notwithstanding any other provision of this section, the Secretary of the Interi
 
 1988—Pub. L. 100–653 inserted provision at end authorizing Secretary of the Interior to continue to provide facilities and necessary support services to National Fish and Wildlife Foundation after Mar. 26, 1989, on space available, reimbursable cost basis.
 
-Pub. L. 100–240 designated existing provisions as subsec. (a), inserted heading, and struck out “, and may accept reimbursement therefor, to be deposited in the Treasury to the credit of the appropriations then current and chargeable for the cost of providing such services” after “March 26, 1984”, and added subsec. (b).
+Pub. L. 100–240 designated existing provisions as subsec. (a), inserted heading, and struck out “, and may accept reimbursement therefor, to be deposited in the Treasury to the credit of the appropriations then current and chargeable for the cost of providing such services” after “March 26, 1984”, and added subsec. (b).
 
-## § 3705. Volunteer status
+## § 3705. Volunteer status
 
 The Secretary of the Interior or the Secretary of Commerce may accept, without regard to the civil service classification laws, rules, or regulations, the services of the Foundation, the Board, and the officers and employees of the Board, without compensation from the Department of the Interior or the Department of Commerce, as volunteers in the performance of the functions authorized herein, in the manner provided for under section 742f(c) of this title.
 
-(Pub. L. 98–244, § 6, Mar. 26, 1984, 98 Stat. 109; Pub. L. 106–408, title II, § 203(c)(2), Nov. 1, 2000, 114 Stat. 1779.)
+(Pub. L. 98–244, § 6, Mar. 26, 1984, 98 Stat. 109; Pub. L. 106–408, title II, § 203(c)(2), Nov. 1, 2000, 114 Stat. 1779.)
 
 **Editorial Notes**
 
@@ -469,7 +469,7 @@ The Secretary of the Interior or the Secretary of Commerce may accept, without r
 
 2000—Pub. L. 106–408 substituted “Secretary of the Interior or the Secretary of Commerce” for “Secretary” and inserted “or the Department of Commerce” after “Department of the Interior”.
 
-## § 3706. Audits, report requirements, and petition of Attorney General for equitable relief
+## § 3706. Audits, report requirements, and petition of Attorney General for equitable relief
 
 **(a) Audits**
 
@@ -487,19 +487,19 @@ The Foundation shall, as soon as practicable after the end of each fiscal year, 
 
 the Attorney General of the United States may petition in the United States District Court for the District of Columbia for such equitable relief as may be necessary or appropriate.
 
-(Pub. L. 98–244, § 7, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, § 2(b)(2), Jan. 11, 1988, 101 Stat. 1786; Pub. L. 106–408, title II, § 205, Nov. 1, 2000, 114 Stat. 1780.)
+(Pub. L. 98–244, § 7, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, § 2(b)(2), Jan. 11, 1988, 101 Stat. 1786; Pub. L. 106–408, title II, § 205, Nov. 1, 2000, 114 Stat. 1780.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (a), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 (Public Law 88–504, 36 U.S.C. 1101–1103)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+In subsec. (a), “section 10101 of title 36” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 (Public Law 88–504, 36 U.S.C. 1101–1103)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 **Amendments**
 
 2000—Subsec. (b). Pub. L. 106–408 substituted “the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate” for “Congress” and inserted at end “The report shall include a detailed statement of the recipient, amount, and purpose of each grant made by the Foundation in the fiscal year.”
 
-1988—Subsec. (b). Pub. L. 100–240 inserted “; and a description of all acquisition and disposal of real property that is subject to section 3703(e) of this title” before period at end.
+1988—Subsec. (b). Pub. L. 100–240 inserted “; and a description of all acquisition and disposal of real property that is subject to section 3703(e) of this title” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -511,19 +511,19 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (b) of this section is listed on page 203), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
-## § 3707. United States release from liability
+## § 3707. United States release from liability
 
 The United States shall not be liable for any debts, defaults, acts, or omissions of the Foundation nor shall the full faith and credit of the United States extend to any obligation of the Foundation.
 
-(Pub. L. 98–244, § 8, Mar. 26, 1984, 98 Stat. 110.)
+(Pub. L. 98–244, § 8, Mar. 26, 1984, 98 Stat. 110.)
 
-## § 3708. Reservation of right to amend or repeal chapter
+## § 3708. Reservation of right to amend or repeal chapter
 
 The Congress expressly reserves the right to repeal or amend this chapter at any time.
 
-(Pub. L. 98–244, § 9, Mar. 26, 1984, 98 Stat. 110.)
+(Pub. L. 98–244, § 9, Mar. 26, 1984, 98 Stat. 110.)
 
-## § 3709. Authorization of appropriations
+## § 3709. Authorization of appropriations
 
 **(a) Authorization of appropriations**
 
@@ -593,7 +593,7 @@ The Foundation shall include in the annual report submitted under section 3706(b
 
 Any gifts, devises, or bequests of amounts or other property, or any other amounts or other property, transferred to, deposited with, or otherwise in the possession of the Foundation pursuant to this Act, may be made available by the Foundation to Federal departments, agencies, or instrumentalities and may be accepted and expended (or the disposition of the amounts or property directed), without further appropriation, by those Federal departments, agencies, or instrumentalities, subject to the condition that the amounts or property be used for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources.
 
-(Pub. L. 98–244, § 10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, § 4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, § 110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, § 104, Apr. 11, 1994, 108 Stat. 337; Pub. L. 106–408, title II, § 207, Nov. 1, 2000, 114 Stat. 1781; Pub. L. 107–141, § 6, Feb. 12, 2002, 116 Stat. 14; Pub. L. 109–363, title II, §§ 202, 204, Oct. 17, 2006, 120 Stat. 2075; Pub. L. 116–188, title I, § 107(c), Oct. 30, 2020, 134 Stat. 919; Pub. L. 118–198, title I, § 106, Dec. 23, 2024, 138 Stat. 2680.)
+(Pub. L. 98–244, § 10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, § 4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, § 110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, § 104, Apr. 11, 1994, 108 Stat. 337; Pub. L. 106–408, title II, § 207, Nov. 1, 2000, 114 Stat. 1781; Pub. L. 107–141, § 6, Feb. 12, 2002, 116 Stat. 14; Pub. L. 109–363, title II, §§ 202, 204, Oct. 17, 2006, 120 Stat. 2075; Pub. L. 116–188, title I, § 107(c), Oct. 30, 2020, 134 Stat. 919; Pub. L. 118–198, title I, § 106, Dec. 23, 2024, 138 Stat. 2680.)
 
 **Editorial Notes**
 
@@ -603,35 +603,35 @@ This Act, referred to in subsecs. (a)(1), (b)(1)(A), (3)(A), and (d), is Pub. L.
 
 **Amendments**
 
-2024—Subsec. (a)(1). Pub. L. 118–198, § 106(1), substituted “2030” for “2025” in introductory provisions.
+2024—Subsec. (a)(1). Pub. L. 118–198, § 106(1), substituted “2030” for “2025” in introductory provisions.
 
-Subsec. (b)(1)(A). Pub. L. 118–198, § 106(2)(A), substituted “, cooperative agreements, participating agreements, and similar instruments used for providing partnership funds,” for “and cooperative agreements,”.
+Subsec. (b)(1)(A). Pub. L. 118–198, § 106(2)(A), substituted “, cooperative agreements, participating agreements, and similar instruments used for providing partnership funds,” for “and cooperative agreements,”.
 
-Subsec. (b)(1)(B). Pub. L. 118–198, § 106(2)(C), added subpar. (B). Former subpar. (B) redesignated (C).
+Subsec. (b)(1)(B). Pub. L. 118–198, § 106(2)(C), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (b)(1)(C). Pub. L. 118–198, § 106(2)(D), inserted “, and should when possible,” after “may”.
+Subsec. (b)(1)(C). Pub. L. 118–198, § 106(2)(D), inserted “, and should when possible,” after “may”.
 
-Pub. L. 118–198, § 106(2)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
+Pub. L. 118–198, § 106(2)(B), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(1)(D). Pub. L. 118–198, § 106(2)(B), redesignated subpar. (C) as (D).
+Subsec. (b)(1)(D). Pub. L. 118–198, § 106(2)(B), redesignated subpar. (C) as (D).
 
-2020—Subsec. (a)(1). Pub. L. 116–188, § 107(c)(1), added par. (1) and struck out former par. (1) which related to authorization of appropriations for fiscal years 2006 through 2010.
+2020—Subsec. (a)(1). Pub. L. 116–188, § 107(c)(1), added par. (1) and struck out former par. (1) which related to authorization of appropriations for fiscal years 2006 through 2010.
 
-Subsec. (b)(1). Pub. L. 116–188, § 107(c)(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “In addition to the amounts authorized to be appropriated under subsection (a), the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.”
+Subsec. (b)(1). Pub. L. 116–188, § 107(c)(2)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “In addition to the amounts authorized to be appropriated under subsection (a), the Foundation may accept Federal funds from a Federal agency under any other Federal law for use by the Foundation to further the conservation and management of fish, wildlife, plants, and other natural resources in accordance with the requirements of this chapter.”
 
-Subsec. (b)(2). Pub. L. 116–188, § 107(c)(2)(B), substituted, in heading, “amounts” for “funds” and, in text, “may be used” for “shall be used” and “, State and local government agencies, and other entities” for “and State and local government agencies”.
+Subsec. (b)(2). Pub. L. 116–188, § 107(c)(2)(B), substituted, in heading, “amounts” for “funds” and, in text, “may be used” for “shall be used” and “, State and local government agencies, and other entities” for “and State and local government agencies”.
 
-Subsec. (b)(3). Pub. L. 116–188, § 107(c)(2)(C), added par. (3).
+Subsec. (b)(3). Pub. L. 116–188, § 107(c)(2)(C), added par. (3).
 
-Subsec. (d). Pub. L. 116–188, § 107(c)(3), added subsec. (d).
+Subsec. (d). Pub. L. 116–188, § 107(c)(3), added subsec. (d).
 
-2006—Subsec. (a)(1). Pub. L. 109–363, § 202, substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.
+2006—Subsec. (a)(1). Pub. L. 109–363, § 202, substituted “fiscal years 2006 through 2010” for “fiscal years 2001 through 2005”.
 
-Subsec. (a)(3). Pub. L. 109–363, § 204, inserted “, or to a recipient of a grant provided by the Foundation,” after “made to the Foundation”.
+Subsec. (a)(3). Pub. L. 109–363, § 204, inserted “, or to a recipient of a grant provided by the Foundation,” after “made to the Foundation”.
 
-2002—Subsec. (a)(1). Pub. L. 107–141, § 6(1), substituted “2005” for “2003”.
+2002—Subsec. (a)(1). Pub. L. 107–141, § 6(1), substituted “2005” for “2003”.
 
-Subsec. (a)(1)(A). Pub. L. 107–141, § 6(2), substituted “$25,000,000” for “$20,000,000”.
+Subsec. (a)(1)(A). Pub. L. 107–141, § 6(2), substituted “$25,000,000” for “$20,000,000”.
 
 2000—Pub. L. 106–408 added text of section and struck out former text which read as follows:
 
@@ -643,11 +643,11 @@ Subsec. (a)(1)(A). Pub. L. 107–141, § 6(2), substituted “$25,000,000” f
 
 “(c) Additional Authorization.—The amounts authorized to be appropriated under this section are in addition to any amounts provided or available to the Foundation under any other Federal law.”
 
-1994—Subsec. (a). Pub. L. 103–232, § 104(a)(1), substituted “$25,000,000 for each of fiscal years 1994, 1995, 1996, 1997, and 1998” for “not to exceed $15,000,000 for fiscal year 1991, not to exceed $20,000,000 for fiscal year 1992, and not to exceed $25,000,000 for fiscal year 1993”.
+1994—Subsec. (a). Pub. L. 103–232, § 104(a)(1), substituted “$25,000,000 for each of fiscal years 1994, 1995, 1996, 1997, and 1998” for “not to exceed $15,000,000 for fiscal year 1991, not to exceed $20,000,000 for fiscal year 1992, and not to exceed $25,000,000 for fiscal year 1993”.
 
-Subsec. (b). Pub. L. 103–232, § 104(b), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
+Subsec. (b). Pub. L. 103–232, § 104(b), substituted “paragraph (2)” for “paragraphs (2) and (3)”.
 
-Subsec. (c). Pub. L. 103–232, § 104(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 103–232, § 104(a)(2), added subsec. (c).
 
 1990—Pub. L. 101–593 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Department of the Interior for each of fiscal years 1988 through 1993, inclusive, not to exceed $5,000,000 to be made available to the Foundation—
 
@@ -661,11 +661,11 @@ Subsec. (c). Pub. L. 103–232, § 104(a)(2), added subsec. (c).
 
 “(2) to provide administrative services under section 3704 of this title.”
 
-## § 3710. Limitation on authority
+## § 3710. Limitation on authority
 
 Nothing in this chapter authorizes the Foundation to perform any function the exclusive authority for which is provided to the National Park Foundation by subchapter II of chapter 1011 of title 54.
 
-(Pub. L. 98–244, § 11, as added Pub. L. 106–408, title II, § 208, Nov. 1, 2000, 114 Stat. 1781; amended Pub. L. 113–287, § 5(d)(35), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 116–188, title I, § 107(d), Oct. 30, 2020, 134 Stat. 920.)
+(Pub. L. 98–244, § 11, as added Pub. L. 106–408, title II, § 208, Nov. 1, 2000, 114 Stat. 1781; amended Pub. L. 113–287, § 5(d)(35), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 116–188, title I, § 107(d), Oct. 30, 2020, 134 Stat. 920.)
 
 **Editorial Notes**
 

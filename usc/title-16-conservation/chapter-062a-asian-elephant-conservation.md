@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 62A—ASIAN ELEPHANT CONSERVATION
 
-## § 4261. Findings
+## § 4261. Findings
 
 The Congress finds the following:
 
@@ -31,23 +31,23 @@ The Congress finds the following:
 
 **(6)** To reduce, remove, or otherwise effectively address these threats to the long-term viability of populations of Asian elephants in the wild will require the joint commitment and effort of nations within the range of Asian elephants, the United States and other countries, and the private sector.
 
-(Pub. L. 105–96, § 2, Nov. 19, 1997, 111 Stat. 2150.)
+(Pub. L. 105–96, § 2, Nov. 19, 1997, 111 Stat. 2150.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title of 2007 Amendment**
 
-Pub. L. 110–133, § 1, Dec. 6, 2007, 121 Stat. 1362, provided that: “This Act [amending sections 4264 and 4266 of this title] may be cited as the ‘Asian Elephant Conservation Reauthorization Act of 2007’.”
+Pub. L. 110–133, § 1, Dec. 6, 2007, 121 Stat. 1362, provided that: “This Act [amending sections 4264 and 4266 of this title] may be cited as the ‘Asian Elephant Conservation Reauthorization Act of 2007’.”
 
 **Short Title of 2002 Amendment**
 
-Pub. L. 107–141, § 1, Feb. 12, 2002, 116 Stat. 13, provided that: “This Act [enacting section 4265a of this title, amending sections 3709, 4214, 4245, 4246, 4263, 4265, and 4266 of this title, and enacting provisions set out as a note under section 4214 of this title] may be cited as the ‘Asian Elephant Conservation Reauthorization Act of 2002’.”
+Pub. L. 107–141, § 1, Feb. 12, 2002, 116 Stat. 13, provided that: “This Act [enacting section 4265a of this title, amending sections 3709, 4214, 4245, 4246, 4263, 4265, and 4266 of this title, and enacting provisions set out as a note under section 4214 of this title] may be cited as the ‘Asian Elephant Conservation Reauthorization Act of 2002’.”
 
 **Short Title**
 
-Pub. L. 105–96, § 1, Nov. 19, 1997, 111 Stat. 2150, provided that: “This Act [enacting this chapter] may be cited as the ‘Asian Elephant Conservation Act of 1997’.”
+Pub. L. 105–96, § 1, Nov. 19, 1997, 111 Stat. 2150, provided that: “This Act [enacting this chapter] may be cited as the ‘Asian Elephant Conservation Act of 1997’.”
 
-## § 4262. Purposes
+## § 4262. Purposes
 
 The purposes of this chapter are the following:
 
@@ -57,9 +57,9 @@ The purposes of this chapter are the following:
 
 **(3)** To provide financial resources for those programs.
 
-(Pub. L. 105–96, § 3, Nov. 19, 1997, 111 Stat. 2150.)
+(Pub. L. 105–96, § 3, Nov. 19, 1997, 111 Stat. 2150.)
 
-## § 4263. Definitions
+## § 4263. Definitions
 
 In this chapter:
 
@@ -73,19 +73,19 @@ In this chapter:
 
 **(5)** The term “Administrator” means the Administrator of the Agency for International Development.
 
-(Pub. L. 105–96, § 4, Nov. 19, 1997, 111 Stat. 2151; Pub. L. 107–141, § 5(a)(1), Feb. 12, 2002, 116 Stat. 14.)
+(Pub. L. 105–96, § 4, Nov. 19, 1997, 111 Stat. 2151; Pub. L. 107–141, § 5(a)(1), Feb. 12, 2002, 116 Stat. 14.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Division A, section 101(e), title I of Public Law 105–277, referred to in par. (3), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237 and are classified in part to section 4246 of this title.
+Division A, section 101(e), title I of Public Law 105–277, referred to in par. (3), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237 and are classified in part to section 4246 of this title.
 
 **Amendments**
 
-2002—Par. (3). Pub. L. 107–141 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘multinational species conservation fund’ ” for “the Asian Elephant Conservation Fund established under section 4265(a) of this title”.
+2002—Par. (3). Pub. L. 107–141 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘multinational species conservation fund’ ” for “the Asian Elephant Conservation Fund established under section 4265(a) of this title”.
 
-## § 4264. Asian elephant conservation assistance
+## § 4264. Asian elephant conservation assistance
 
 **(a) In general**
 
@@ -159,7 +159,7 @@ The Secretary may award to a person who is otherwise eligible for a grant under 
 
 Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
 
-(Pub. L. 105–96, § 5, Nov. 19, 1997, 111 Stat. 2151; Pub. L. 110–133, § 2(a), Dec. 6, 2007, 121 Stat. 1362; Pub. L. 118–159, div. E, title LIII, § 5304(a), Dec. 23, 2024, 138 Stat. 2445.)
+(Pub. L. 105–96, § 5, Nov. 19, 1997, 111 Stat. 2151; Pub. L. 110–133, § 2(a), Dec. 6, 2007, 121 Stat. 1362; Pub. L. 118–159, div. E, title LIII, § 5304(a), Dec. 23, 2024, 138 Stat. 2445.)
 
 **Editorial Notes**
 
@@ -167,13 +167,13 @@ Nothing in this subsection precludes the Secretary from awarding a grant on an a
 
 2024—Subsec. (i). Pub. L. 118–159 added subsec. (i).
 
-2007—Subsec. (c)(2)(C). Pub. L. 110–133 substituted “and the Administrator” for “, the Administrator, and each of those countries”.
+2007—Subsec. (c)(2)(C). Pub. L. 110–133 substituted “and the Administrator” for “, the Administrator, and each of those countries”.
 
-## § 4265. Acceptance and use of donations
+## § 4265. Acceptance and use of donations
 
 The Secretary may accept and use donations to provide assistance under section 4264 of this title. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
 
-(Pub. L. 105–96, § 6, Nov. 19, 1997, 111 Stat. 2153; Pub. L. 107–141, § 5(a)(2), Feb. 12, 2002, 116 Stat. 14.)
+(Pub. L. 105–96, § 6, Nov. 19, 1997, 111 Stat. 2153; Pub. L. 107–141, § 5(a)(2), Feb. 12, 2002, 116 Stat. 14.)
 
 **Editorial Notes**
 
@@ -181,7 +181,7 @@ The Secretary may accept and use donations to provide assistance under section 4
 
 2002—Pub. L. 107–141 substituted “Acceptance and use of donations” for “Asian Elephant Conservation Fund” as section catchline, struck out subsecs. (a) to (c), which related to establishment, deposits into, and use of the Asian Elephant Conservation Fund, redesignated subsec. (d) as entire section and struck out subsec. heading.
 
-## § 4265a. Advisory group
+## § 4265a. Advisory group
 
 **(a) In general**
 
@@ -189,9 +189,9 @@ To assist in carrying out this chapter, the Secretary may convene an advisory gr
 
 **(b) Public participation**
 
-**(1) Meetings** The Advisory Group 1
+**(1) Meetings** The Advisory Group 1
 
-<sup>1</sup>  So in original. Probably should not be capitalized.
+<sup>1</sup> So in original. Probably should not be capitalized.
 
 shall—
 
@@ -211,7 +211,7 @@ Minutes of each meeting of the advisory group shall be kept by the Secretary and
 
 Chapter 10 of title 5 shall not apply to the advisory group.
 
-(Pub. L. 105–96, § 7, as added Pub. L. 107–141, § 4, Feb. 12, 2002, 116 Stat. 13; amended Pub. L. 117–286, § 4(a)(121), Dec. 27, 2022, 136 Stat. 4319.)
+(Pub. L. 105–96, § 7, as added Pub. L. 107–141, § 4, Feb. 12, 2002, 116 Stat. 13; amended Pub. L. 117–286, § 4(a)(121), Dec. 27, 2022, 136 Stat. 4319.)
 
 **Editorial Notes**
 
@@ -223,7 +223,7 @@ A prior section 7 of Pub. L. 105–96 was renumbered section 8 and is classified
 
 2022—Subsec. (c). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-## § 4266. Authorization of appropriations
+## § 4266. Authorization of appropriations
 
 **(a) In general**
 
@@ -233,7 +233,7 @@ There is authorized to be appropriated to the Fund $5,000,000 for each of fiscal
 
 Of amounts available each fiscal year to carry out this chapter, the Secretary may expend not more than 3 percent or $100,000, whichever is greater, to pay the administrative expenses necessary to carry out this chapter.
 
-(Pub. L. 105–96, § 8, formerly § 7, Nov. 19, 1997, 111 Stat. 2153; renumbered § 8 and amended Pub. L. 107–141, §§ 2–4, Feb. 12, 2002, 116 Stat. 13; Pub. L. 110–133, § 2(b), (c), Dec. 6, 2007, 121 Stat. 1362; Pub. L. 116–9, title VII, § 7001(c)(1)(B), Mar. 12, 2019, 133 Stat. 784; Pub. L. 118–159, div. E, title LIII, § 5304(b), Dec. 23, 2024, 138 Stat. 2445.)
+(Pub. L. 105–96, § 8, formerly § 7, Nov. 19, 1997, 111 Stat. 2153; renumbered § 8 and amended Pub. L. 107–141, §§ 2–4, Feb. 12, 2002, 116 Stat. 13; Pub. L. 110–133, § 2(b), (c), Dec. 6, 2007, 121 Stat. 1362; Pub. L. 116–9, title VII, § 7001(c)(1)(B), Mar. 12, 2019, 133 Stat. 784; Pub. L. 118–159, div. E, title LIII, § 5304(b), Dec. 23, 2024, 138 Stat. 2445.)
 
 **Editorial Notes**
 
@@ -243,10 +243,10 @@ Of amounts available each fiscal year to carry out this chapter, the Secretary m
 
 2019—Subsec. (a). Pub. L. 116–9 substituted “2019 through 2023” for “2007 through 2012”.
 
-2007—Subsec. (a). Pub. L. 110–133, § 2(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
+2007—Subsec. (a). Pub. L. 110–133, § 2(c), substituted “2007 through 2012” for “2001, 2002, 2003, 2004, 2005, 2006, and 2007”.
 
-Subsec. (b). Pub. L. 110–133, § 2(b), substituted “$100,000” for “$80,000”.
+Subsec. (b). Pub. L. 110–133, § 2(b), substituted “$100,000” for “$80,000”.
 
-2002—Pub. L. 107–141, § 3, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized” for “There are authorized”, and added subsec. (b).
+2002—Pub. L. 107–141, § 3, designated existing provisions as subsec. (a), inserted heading, substituted “There is authorized” for “There are authorized”, and added subsec. (b).
 
-Pub. L. 107–141, § 2, substituted “2001, 2002, 2003, 2004, 2005, 2006, and 2007” for “1998, 1999, 2000, 2001, and 2002”.
+Pub. L. 107–141, § 2, substituted “2001, 2002, 2003, 2004, 2005, 2006, and 2007” for “1998, 1999, 2000, 2001, and 2002”.

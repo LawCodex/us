@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2000—Pub. L. 106–518, title III, § 309(b), Nov. 13, 2000, 114 Stat. 2420, substituted “Personnel application and insurance programs” for “Insurance and annuities programs” in item 179.
+2000—Pub. L. 106–518, title III, § 309(b), Nov. 13, 2000, 114 Stat. 2420, substituted “Personnel application and insurance programs” for “Insurance and annuities programs” in item 179.
 
-Pub. L. 106–398, § 1 [[div. A], title VI, § 654(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, struck out item 180 “Military retirement pay for retired judges”.
+Pub. L. 106–398, § 1 [[div. A], title VI, § 654(b)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165, struck out item 180 “Military retirement pay for retired judges”.
 
-1992—Pub. L. 102–572, title IX, §§ 902(a), 903(b), Oct. 29, 1992, 106 Stat. 4516, 4517, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” as chapter heading, substituted “Court of Federal Claims” for “Claims Court” in item 178, and added items 179 and 180.
+1992—Pub. L. 102–572, title IX, §§ 902(a), 903(b), Oct. 29, 1992, 106 Stat. 4516, 4517, substituted “UNITED STATES COURT OF FEDERAL CLAIMS” for “UNITED STATES CLAIMS COURT” as chapter heading, substituted “Court of Federal Claims” for “Claims Court” in item 178, and added items 179 and 180.
 
-1990—Pub. L. 101–650, title III, § 306(a)(2), Dec. 1, 1990, 104 Stat. 5109, added item 178.
+1990—Pub. L. 101–650, title III, § 306(a)(2), Dec. 1, 1990, 104 Stat. 5109, added item 178.
 
-1982—Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 26, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” as chapter heading, inserted “; designation of chief judge” in item 171, substituted “Tenure and salaries of judges” for “Precedence of judges” in item 172, substituted “Times and places of holding court” for “Tenure and salaries of judges” in item 173, substituted “Assignment of judges; decisions” for “Terms” in item 174, substituted “Official duty station; residence” for “Assignment of judges; divisions; hearings; quorum; decisions” in item 175, and added items 176 and 177.
+1982—Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 26, substituted “UNITED STATES CLAIMS COURT” for “COURT OF CLAIMS” as chapter heading, inserted “; designation of chief judge” in item 171, substituted “Tenure and salaries of judges” for “Precedence of judges” in item 172, substituted “Times and places of holding court” for “Tenure and salaries of judges” in item 173, substituted “Assignment of judges; decisions” for “Terms” in item 174, substituted “Official duty station; residence” for “Assignment of judges; divisions; hearings; quorum; decisions” in item 175, and added items 176 and 177.
 
-1966—Pub. L. 89–425, § 3, May 11, 1966, 80 Stat. 140, substituted “Assignment of judges; divisions; hearings; quorum; decisions” for “Quorum” in item 175.
+1966—Pub. L. 89–425, § 3, May 11, 1966, 80 Stat. 140, substituted “Assignment of judges; divisions; hearings; quorum; decisions” for “Quorum” in item 175.
 
-1954—Act Sept. 3, 1954, ch. 1263, § 38, 68 Stat. 1240, inserted “; character of court” in item 171.
+1954—Act Sept. 3, 1954, ch. 1263, § 38, 68 Stat. 1240, inserted “; character of court” in item 171.
 
-## § 171. Appointment and number of judges; character of court; designation of chief judge
+## § 171. Appointment and number of judges; character of court; designation of chief judge
 
 **(a)** The President shall appoint, by and with the advice and consent of the Senate, sixteen judges who shall constitute a court of record known as the United States Court of Federal Claims. The court is declared to be a court established under article I of the Constitution of the United States.
 
 **(b)** The President shall designate one of the judges of the Court of Federal Claims who is less than seventy years of age to serve as chief judge. The chief judge may continue to serve as such until he reaches the age of seventy years or until another judge is designated as chief judge by the President. After the designation of another judge to serve as chief judge, the former chief judge may continue to serve as a judge of the court for the balance of the term to which appointed.
 
-(June 25, 1948, ch. 646, 62 Stat 898; July 28, 1953, ch. 253, § 1, 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 39(a), 68 Stat. 1240; Pub. L. 89–425, § 1(b), May 11, 1966, 80 Stat. 140; Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat 898; July 28, 1953, ch. 253, § 1, 67 Stat. 226; Sept. 3, 1954, ch. 1263, § 39(a), 68 Stat. 1240; Pub. L. 89–425, § 1(b), May 11, 1966, 80 Stat. 140; Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed. § 241 (Mar. 3, 1911, ch. 231, § 136, 36 Stat. 1135; Feb. 25, 1919, ch. 29, § 4, 40 Stat. 1157; Dec. 13, 1926, ch. 6, § 1 44 Stat. 919).
+Based on title 28, U.S.C., 1940 ed. § 241 (Mar. 3, 1911, ch. 231, § 136, 36 Stat. 1135; Feb. 25, 1919, ch. 29, § 4, 40 Stat. 1157; Dec. 13, 1926, ch. 6, § 1 44 Stat. 919).
 
 This section contains a part of section 241 of title 28, U.S.C., 1940 ed. The remainder of such section, relating to tenure, salaries and oath, is incorporated in sections 173 and 453 of this title.
 
@@ -65,7 +65,7 @@ Minor changes were made in arrangement and phraseology.
 
 1966—Pub. L. 89–425 increased the number of associate judges from four to six.
 
-1954—Act Sept. 3, 1954, inserted “; character or court” in section catchline.
+1954—Act Sept. 3, 1954, inserted “; character or court” in section catchline.
 
 1953—Act July 28, 1953, inserted second sentence.
 
@@ -73,7 +73,7 @@ Minor changes were made in arrangement and phraseology.
 
 **Change of Name**
 
-Pub. L. 102–572, title IX, § 902(b), Oct. 29, 1992, 106 Stat. 4516, provided that:
+Pub. L. 102–572, title IX, § 902(b), Oct. 29, 1992, 106 Stat. 4516, provided that:
 
 > “Reference in any other Federal law [meaning any Federal law other than chapters 7, 51, 91, and 165 of this title] or any document to—
 
@@ -83,35 +83,35 @@ Pub. L. 102–572, title IX, § 902(b), Oct. 29, 1992, 106 Stat. 4516, provide
 
 **Effective Date of 1992 Amendment**
 
-Pub. L. 102–572, title IX, § 911, Oct. 29, 1992, 106 Stat. 4520, provided that: “This title [see Tables for classification] and the amendments made by this title shall take effect on the date of the enactment of this Act [Oct. 29, 1992].”
+Pub. L. 102–572, title IX, § 911, Oct. 29, 1992, 106 Stat. 4520, provided that: “This title [see Tables for classification] and the amendments made by this title shall take effect on the date of the enactment of this Act [Oct. 29, 1992].”
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–164, title IV, § 402, Apr. 2, 1982, 96 Stat. 57, provided that: “Unless otherwise specified, the provisions of this Act [see Short Title of 1982 Amendment note set out under section 1 of this title] shall take effect on October 1, 1982.”
+Pub. L. 97–164, title IV, § 402, Apr. 2, 1982, 96 Stat. 57, provided that: “Unless otherwise specified, the provisions of this Act [see Short Title of 1982 Amendment note set out under section 1 of this title] shall take effect on October 1, 1982.”
 
 **Continued Service of Commissioners of Court of Claims as Judges**
 
-Pub. L. 97–164, title I, § 167, Apr. 2, 1982, 96 Stat. 50, provided that Commissioners of United States Court of Claims serving immediately prior to Oct. 1, 1982, became judges of United States Claims Court [now United States Court of Federal Claims] on such date, with initial terms expiring 15 years after date of employment or on Oct. 1, 1986, whichever occurred earlier, and with salaries equal to salaries of Commissioners of Court of Claims.
+Pub. L. 97–164, title I, § 167, Apr. 2, 1982, 96 Stat. 50, provided that Commissioners of United States Court of Claims serving immediately prior to Oct. 1, 1982, became judges of United States Claims Court [now United States Court of Federal Claims] on such date, with initial terms expiring 15 years after date of employment or on Oct. 1, 1986, whichever occurred earlier, and with salaries equal to salaries of Commissioners of Court of Claims.
 
 **Tennessee Valley Authority Legal Representation**
 
-Pub. L. 97–164, title I, § 169, Apr. 2, 1982, 96 Stat. 51, provided that: “Nothing in this Act [see Short Title of 1982 Amendment note set out under section 1 of this title] affects the authority of the Tennessee Valley Authority under the Tennessee Valley Authority Act of 1933 [16 U.S.C. 831 et seq.] to represent itself by attorneys of its choosing.”
+Pub. L. 97–164, title I, § 169, Apr. 2, 1982, 96 Stat. 51, provided that: “Nothing in this Act [see Short Title of 1982 Amendment note set out under section 1 of this title] affects the authority of the Tennessee Valley Authority under the Tennessee Valley Authority Act of 1933 [16 U.S.C. 831 et seq.] to represent itself by attorneys of its choosing.”
 
 **Transition Provisions: Transfer of Pending Cases**
 
-Pub. L. 97–164, title IV, § 403, Apr. 2, 1982, 96 Stat. 57, provided for transfer of cases or matters pending on Oct. 1, 1982, before Court of Claims or United States Court of Customs and Patent Appeals to United States Court of Appeals for the Federal Circuit, directed that petitions for rehearing, reconsideration, or other changes in decisions of Court of Claims or United States Court of Customs and Patent Appeals rendered prior to such date be determined by United States Court of Appeals for the Federal Circuit, directed that matters pending before Commissioners of United States Court of Claims on such date be determined by United States Claims Court [now United States Court of Federal Claims], and directed that any case in which notice of appeal had been filed in district court of United States prior to such date would be decided by court of appeals to which the appeal was taken.
+Pub. L. 97–164, title IV, § 403, Apr. 2, 1982, 96 Stat. 57, provided for transfer of cases or matters pending on Oct. 1, 1982, before Court of Claims or United States Court of Customs and Patent Appeals to United States Court of Appeals for the Federal Circuit, directed that petitions for rehearing, reconsideration, or other changes in decisions of Court of Claims or United States Court of Customs and Patent Appeals rendered prior to such date be determined by United States Court of Appeals for the Federal Circuit, directed that matters pending before Commissioners of United States Court of Claims on such date be determined by United States Claims Court [now United States Court of Federal Claims], and directed that any case in which notice of appeal had been filed in district court of United States prior to such date would be decided by court of appeals to which the appeal was taken.
 
 **Congressional Statement Regarding Appointment of Judges**
 
 For Congressional suggestion that the President select nominees for judgeships on the Claims Court [now Court of Federal Claims] and the Court of Appeals for the Federal Circuit from a broad range of qualified individuals, see section 168 of Pub. L. 97–164, set out as a note under section 44 of this title.
 
-## § 172. Tenure and salaries of judges
+## § 172. Tenure and salaries of judges
 
 **(a)** Each judge of the United States Court of Federal Claims shall be appointed for a term of fifteen years.
 
 **(b)** Each judge shall receive a salary at the rate of pay, and in the same manner, as judges of the district courts of the United States.
 
-(June 25, 1948, ch. 646, 62 Stat. 898; Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 100–702, title X, § 1023, Nov. 19, 1988, 102 Stat. 4673; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 898; Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 100–702, title X, § 1023, Nov. 19, 1988, 102 Stat. 4673; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
@@ -155,7 +155,7 @@ Salaries of judges increased to $72,300 effective on first day of first pay peri
 
 1982—Salaries of judges set at $65,200 effective on first day of first pay period beginning on or after Oct. 1, 1982, by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $57,500.
 
-Maximum rate payable after Dec. 17, 1982, increased from $57,500 to $65,200, see Pub. L. 97–377, title I, § 129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of Title 5.
+Maximum rate payable after Dec. 17, 1982, increased from $57,500 to $65,200, see Pub. L. 97–377, title I, § 129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of Title 5.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of Title 5.
 
@@ -171,7 +171,7 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated 
 
 Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 1980, of limitation of section 304 of Pub. L. 95–391 on use of funds to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above Level V of the Executive Schedule, see section 101 of Pub. L. 96–86, set out as a note under section 5318 of Title 5.
 
-1978—Salaries of judges increased to $60,700 effective on first day of first pay period beginning on or after Oct. 1, 1978, by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12087 further provided that pursuant to the Legislative Branch Appropriation Act, 1979 [Pub. L. 95–391, title III, § 304, Sept. 30, 1978, 92 Stat. 788, set out as a note under section 5318 of Title 5], funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $57,500.
+1978—Salaries of judges increased to $60,700 effective on first day of first pay period beginning on or after Oct. 1, 1978, by Ex. Ord. No. 12087, Oct. 7, 1978, 43 F.R. 46823, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12087 further provided that pursuant to the Legislative Branch Appropriation Act, 1979 [Pub. L. 95–391, title III, § 304, Sept. 30, 1978, 92 Stat. 788, set out as a note under section 5318 of Title 5], funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1978, which was $57,500.
 
 1977—Salaries of judges increased to $57,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
@@ -179,23 +179,23 @@ Applicability to funds appropriated by any Act for fiscal year ending Sept. 30, 
 
 1969—Salaries of judges increased from $33,000 to $42,500 per annum, commencing Feb. 14, 1969, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
-1946—Salaries of chief judge and associate judges increased from $12,500 to $17,500 a year by act July 31, 1946, ch. 704, § 1, 60 Stat. 716.
+1946—Salaries of chief judge and associate judges increased from $12,500 to $17,500 a year by act July 31, 1946, ch. 704, § 1, 60 Stat. 716.
 
-1926—Salary of Chief Justice, now chief judge, increased from $8,000 to $12,500 a year, and salaries of associate justices, now judges, increased from $7,500 to $12,500 a year by act Dec. 13, 1926, ch. 6, § 1, 44 Stat. 919.
+1926—Salary of Chief Justice, now chief judge, increased from $8,000 to $12,500 a year, and salaries of associate justices, now judges, increased from $7,500 to $12,500 a year by act Dec. 13, 1926, ch. 6, § 1, 44 Stat. 919.
 
-1919—Salary of Chief Justice increased from $6,500 to $8,000 a year, and salaries of associate justices increased from $6,000 to $7,500 a year by act Feb. 25, 1919, ch. 29, § 1, 40 Stat. 1156.
+1919—Salary of Chief Justice increased from $6,500 to $8,000 a year, and salaries of associate justices increased from $6,000 to $7,500 a year by act Feb. 25, 1919, ch. 29, § 1, 40 Stat. 1156.
 
-1911—Salary of chief justice set at $6,500, and salaries of associate justices set at $6,000 by Judicial Code of 1911, act Mar. 3, 1911, ch. 231, § 1, 36 Stat. 1135.
+1911—Salary of chief justice set at $6,500, and salaries of associate justices set at $6,000 by Judicial Code of 1911, act Mar. 3, 1911, ch. 231, § 1, 36 Stat. 1135.
 
-## § 173. Times and places of holding court
+## § 173. Times and places of holding court
 
 The principal office of the United States Court of Federal Claims shall be in the District of Columbia, but the Court of Federal Claims may hold court at such times and in such places as it may fix by rule of court. The times and places of the sessions of the Court of Federal Claims shall be prescribed with a view to securing reasonable opportunity to citizens to appear before the Court of Federal Claims with as little inconvenience and expense to citizens as is practicable.
 
-(June 25, 1948, ch. 646, 62 Stat. 898; Mar. 2, 1955, ch. 9, § 1(d), 69 Stat. 10; Pub. L. 88–426, title IV, § 403(d), Aug. 14, 1964, 78 Stat. 434; Pub. L. 94–82, title II, § 205(b)(4), Aug. 9, 1975, 89 Stat. 422; Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 898; Mar. 2, 1955, ch. 9, § 1(d), 69 Stat. 10; Pub. L. 88–426, title IV, § 403(d), Aug. 14, 1964, 78 Stat. 434; Pub. L. 94–82, title II, § 205(b)(4), Aug. 9, 1975, 89 Stat. 422; Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 241 (Mar. 3, 1911, ch. 231, § 136, 36 Stat. 1135; Feb. 25, 1919, ch. 29, § 4, 40 Stat. 1157; Dec. 13, 1926, ch. 6, § 1, 44 Stat. 919; July 31, 1946, ch. 704, § 1, 60 Stat. 716).
+Based on title 28, U.S.C., 1940 ed., § 241 (Mar. 3, 1911, ch. 231, § 136, 36 Stat. 1135; Feb. 25, 1919, ch. 29, § 4, 40 Stat. 1157; Dec. 13, 1926, ch. 6, § 1, 44 Stat. 919; July 31, 1946, ch. 704, § 1, 60 Stat. 716).
 
 This section is based on part of section 241 of title 28, U.S.C., 1940 ed. That portion relating to number, appointment of judges and their oaths, is incorporated in sections 171 and 453 of this title.
 
@@ -237,17 +237,17 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 
 Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under section 4501 of Title 2, The Congress.
 
-## § 174. Assignment of judges; decisions
+## § 174. Assignment of judges; decisions
 
 **(a)** The judicial power of the United States Court of Federal Claims with respect to any action, suit, or proceeding, except congressional reference cases, shall be exercised by a single judge, who may preside alone and hold a regular or special session of court at the same time other sessions are held by other judges.
 
 **(b)** All decisions of the Court of Federal Claims shall be preserved and open to inspection.
 
-(June 25, 1948, ch. 646, 62 Stat. 898; Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(June 25, 1948, ch. 646, 62 Stat. 898; Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
-Based on title 28, U.S.C., 1940 ed., § 243 (Mar. 3, 1911, ch. 231, § 138, 36 Stat. 1136).
+Based on title 28, U.S.C., 1940 ed., § 243 (Mar. 3, 1911, ch. 231, § 138, 36 Stat. 1136).
 
 This section is based on the first sentence of section 243 of title 28, U.S.C., 1940 ed. The remainder of said section is incorporated in section 175 of this title.
 
@@ -277,7 +277,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 175. Official duty station; residence
+## § 175. Official duty station; residence
 
 **(a)** The official duty station of each judge of the United States Court of Federal Claims is the District of Columbia.
 
@@ -285,7 +285,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(c)** Retired judges of the Court of Federal Claims are not subject to restrictions as to residence. The place where a retired judge maintains the actual abode in which such judge customarily lives shall be deemed to be the judge’s official duty station for the purposes of section 456 of this title.
 
-(Added Pub. L. 89–425, § 2, May 11, 1966, 80 Stat. 140; amended Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–518, title III, § 307, Nov. 13, 2000, 114 Stat. 2419.)
+(Added Pub. L. 89–425, § 2, May 11, 1966, 80 Stat. 140; amended Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 27; Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–518, title III, § 307, Nov. 13, 2000, 114 Stat. 2419.)
 
 **Editorial Notes**
 
@@ -311,7 +311,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-## § 176. Removal from office
+## § 176. Removal from office
 
 **(a)** Removal of a judge of the United States Court of Federal Claims during the term for which he is appointed shall be only for incompetency, misconduct, neglect of duty, engaging in the practice of law, or physical or mental disability. Removal shall be by the United States Court of Appeals for the Federal Circuit, but removal may not occur unless a majority of all the judges of such court of appeals concur in the order of removal.
 
@@ -319,7 +319,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(c)** Any cause for removal of any judge of the United States Court of Federal Claims coming to the knowledge of the Director of the Administrative Office of the United States Courts shall be reported by him to the chief judge of the United States Court of Appeals for the Federal Circuit, and a copy of the report shall at the same time be transmitted to the judge.
 
-(Added Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 28; amended Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 28; amended Pub. L. 102–572, title IX, § 902(a)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -337,11 +337,11 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Section effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.
 
-## § 177. Disbarment of removed judges
+## § 177. Disbarment of removed judges
 
 A judge of the United States Court of Federal Claims removed from office in accordance with section 176 of this title shall not be permitted at any time to practice before the Court of Federal Claims.
 
-(Added Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 28; amended Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 97–164, title I, § 105(a), Apr. 2, 1982, 96 Stat. 28; amended Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -359,7 +359,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Section effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.
 
-## § 178. Retirement of judges of the Court of Federal Claims
+## § 178. Retirement of judges of the Court of Federal Claims
 
 **(a)** A judge of the United States Court of Federal Claims who retires from office after attaining the age and meeting the service requirements, whether continuously or otherwise, of this subsection shall, subject to subsection (f), be entitled to receive, during the remainder of the judge’s lifetime, an annuity equal to the salary payable to Court of Federal Claims judges in regular active service. The age and service requirements for retirement under this subsection are as follows:
 
@@ -460,9 +460,9 @@ Such an election, once it takes effect, shall be irrevocable.
 
 **(1)** Notwithstanding subsection (f)(1)(B), an individual who has filed an election under subsection (f) to receive an annuity may revoke such election at any time before the first day on which such annuity would (but for such revocation) begin to accrue with respect to such individual.
 
-**(2)** Any revocation under this subsection shall be made by filing a notice thereof in writing with the Director of 1
+**(2)** Any revocation under this subsection shall be made by filing a notice thereof in writing with the Director of 1
 
-<sup>1</sup>  So in original. Probably should be “of the”.
+<sup>1</sup> So in original. Probably should be “of the”.
 
 Administrative Office of the United States Courts.
 
@@ -496,7 +496,7 @@ Administrative Office of the United States Courts.
 
 **(C)** There are authorized to be appropriated such sums as may be necessary to carry out this paragraph.
 
-(Added Pub. L. 101–650, title III, § 306(a)(1), Dec. 1, 1990, 104 Stat. 5105; amended Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, § 7(a), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
+(Added Pub. L. 101–650, title III, § 306(a)(1), Dec. 1, 1990, 104 Stat. 5105; amended Pub. L. 102–40, title IV, § 402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, § 7(a), Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–572, title IX, § 902(a), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -508,15 +508,15 @@ Section 7447 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)
 
 1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in section catchline and wherever appearing in text.
 
-1991—Subsec. (f)(2)(A). Pub. L. 102–198, § 7(a)(1), inserted “(except for subchapters III and VII)” after “chapter 84”.
+1991—Subsec. (f)(2)(A). Pub. L. 102–198, § 7(a)(1), inserted “(except for subchapters III and VII)” after “chapter 84”.
 
 Subsec. (f)(2)(D). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
 
-Subsec. (j)(1). Pub. L. 102–198, § 7(a)(2)(A), substituted “paragraph (4)” for “paragraph (2)” and “engages in any such activity” for “so practices law”.
+Subsec. (j)(1). Pub. L. 102–198, § 7(a)(2)(A), substituted “paragraph (4)” for “paragraph (2)” and “engages in any such activity” for “so practices law”.
 
-Subsec. (j)(2). Pub. L. 102–198, § 7(a)(2)(B), substituted “Subject to paragraph (4), if” for “If”.
+Subsec. (j)(2). Pub. L. 102–198, § 7(a)(2)(B), substituted “Subject to paragraph (4), if” for “If”.
 
-Subsec. (j)(3). Pub. L. 102–198, § 7(a)(2)(C), inserted “for” after “(other than”.
+Subsec. (j)(3). Pub. L. 102–198, § 7(a)(2)(C), inserted “for” after “(other than”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -528,7 +528,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Section applicable to judges of, and senior judges in active service with, the United States Court of Federal Claims on or after Dec. 1, 1990, see section 306(f) of Pub. L. 101–650, as amended, set out as an Effective Date of 1990 Amendment note under section 8331 of Title 5, Government Organization and Employees.
 
-## § 179. Personnel application and insurance programs
+## § 179. Personnel application and insurance programs
 
 **(a)** For purposes of construing and applying title 5, a judge of the United States Court of Federal Claims shall be deemed to be an “officer” under section 2104(a) of such title.
 
@@ -570,9 +570,9 @@ shall be deemed to be an annuitant meeting the requirements of section 8905(b)(1
 
 **(2)** In the event that a retired judge remains enrolled under chapter 89 of title 5 for a period of 5 consecutive years by virtue of paragraph (1) (taking into account only periods of coverage as an active judge immediately before retirement and as a retired judge pursuant to paragraph (1)), then, effective as of the day following the last day of that 5-year period—
 
-**(A)** the provisions of chapter 89 of title 5 shall be applied as if such judge had satisfied the requirements of section 8905(b)(1) 1
+**(A)** the provisions of chapter 89 of title 5 shall be applied as if such judge had satisfied the requirements of section 8905(b)(1) 1
 
-<sup>1</sup>  So in original. Probably should be followed by “of title 5”.
+<sup>1</sup> So in original. Probably should be followed by “of title 5”.
 
 on the last day of such period; and
 
@@ -582,14 +582,14 @@ on the last day of such period; and
 
 **(c)** For purposes of construing and applying chapter 87 of title 5, including any adjustment of insurance rates by regulation or otherwise, a judge of the United States Court of Federal Claims in regular active service or who is retired under section 178 of this title shall be deemed to be a judge of the United States described under section 8701(a)(5) of title 5.
 
-(Added Pub. L. 106–518, title III, § 309(a), Nov. 13, 2000, 114 Stat. 2419.)
+(Added Pub. L. 106–518, title III, § 309(a), Nov. 13, 2000, 114 Stat. 2419.)
 
-## [§ 180. Repealed. Pub. L. 106–398, § 1 [[div. A], title VI, § 654(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165]
+## [§ 180. Repealed. Pub. L. 106–398, § 1 [[div. A], title VI, § 654(b)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–165]
 
-Section, added Pub. L. 102–572, title IX, § 903(a), Oct. 29, 1992, 106 Stat. 4517, related to military retirement pay for retired judges.
+Section, added Pub. L. 102–572, title IX, § 903(a), Oct. 29, 1992, 106 Stat. 4517, related to military retirement pay for retired judges.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of Repeal**
 
-Repeal effective Oct. 1, 1999, see section 1 [[div. A], title VI, § 654(c)] of Pub. L. 106–398, set out as an Effective Date of 2000 Amendment note under section 371 of this title.
+Repeal effective Oct. 1, 1999, see section 1 [[div. A], title VI, § 654(c)] of Pub. L. 106–398, set out as an Effective Date of 2000 Amendment note under section 371 of this title.

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 59—RETAIL POLICIES FOR NATURAL GAS UTILITIES
 
-## § 3201. Purposes; coverage
+## § 3201. Purposes; coverage
 
 **(a) Purposes** The purposes of this chapter are to encourage—
 
@@ -37,7 +37,7 @@ The requirements of this chapter do not apply to the operations of a gas utility
 
 Before the beginning of each calendar year, the Secretary shall publish a list identifying each gas utility to which this chapter applies during such calendar year. Promptly after publication of such list, each State regulatory authority shall notify the Secretary of each gas utility on the list for which such State regulatory authority has ratemaking authority.
 
-(Pub. L. 95–617, title III, § 301, Nov. 9, 1978, 92 Stat. 3149.)
+(Pub. L. 95–617, title III, § 301, Nov. 9, 1978, 92 Stat. 3149.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -45,7 +45,7 @@ Before the beginning of each calendar year, the Secretary shall publish a list i
 
 The definition of Secretary in section 2602 of Title 16, Conservation, applies to this section.
 
-## § 3202. Definitions
+## § 3202. Definitions
 
 For purposes of this chapter—
 
@@ -69,7 +69,7 @@ For purposes of this chapter—
 
 **(10)** The term “demand-side management” includes energy conservation, energy efficiency, and load management techniques.
 
-(Pub. L. 95–617, title III, § 302, Nov. 9, 1978, 92 Stat. 3150; Pub. L. 102–486, title I, § 115(a), Oct. 24, 1992, 106 Stat. 2803.)
+(Pub. L. 95–617, title III, § 302, Nov. 9, 1978, 92 Stat. 3150; Pub. L. 102–486, title I, § 115(a), Oct. 24, 1992, 106 Stat. 2803.)
 
 **Editorial Notes**
 
@@ -83,19 +83,19 @@ For purposes of this chapter—
 
 Except as otherwise specifically provided, the definitions in section 2602 of Title 16, Conservation, apply to this chapter.
 
-## § 3203. Adoption of certain standards
+## § 3203. Adoption of certain standards
 
 **(a) Adoption of standards** Not later than 2 years after November 9, 1978 (or after October 24, 1992, in the case of standards under paragraphs (3),1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 and (4) of subsection (b)), each State regulatory authority (with respect to each gas utility for which it has ratemaking authority) and each nonregulated gas utility shall provide public notice and conduct a hearing respecting the standards established by subsection (b), and, on the basis of such hearing, shall—
 
 **(1)** adopt the standard established by subsection (b)(1), if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate and is consistent with otherwise applicable State law, and
 
-**(2)** adopt the standards established by paragraphs (2), (3) 2
+**(2)** adopt the standards established by paragraphs (2), (3) 2
 
-<sup>2</sup>  So in original. A comma probably should appear.
+<sup>2</sup> So in original. A comma probably should appear.
 
 (4), (5), and (6) of subsection (b), if, and to the extent, such authority or nonregulated utility determines that such adoption is appropriate to carry out the purposes of this chapter, is otherwise appropriate, and is consistent with otherwise applicable State law.
 
@@ -141,11 +141,11 @@ The rates allowed to be charged by a natural gas utility shall align utility inc
 
 **(iv)** adopting rate designs that encourage energy efficiency for each customer class.
 
-For purposes of applying the provisions of this chapter 3
+For purposes of applying the provisions of this chapter 3
 
-<sup>3</sup>  See Codification note below.
+<sup>3</sup> See Codification note below.
 
-to this paragraph, any reference in this chapter 3 to November 9, 1978, shall be treated as a reference to December 19, 2007.
+to this paragraph, any reference in this chapter 3 to November 9, 1978, shall be treated as a reference to December 19, 2007.
 
 **(c) Procedural requirements**
 
@@ -157,7 +157,7 @@ Each State regulatory authority (with respect to each gas utility for which it h
 
 **(2)** implement such standard so as to assure that utility actions would not provide such utilities with unfair competitive advantages over such small businesses.
 
-(Pub. L. 95–617, title III, § 303, Nov. 9, 1978, 92 Stat. 3150; Pub. L. 102–486, title I, § 115(b)–(d), Oct. 24, 1992, 106 Stat. 2803, 2804; Pub. L. 110–140, title V, § 532(b), (c), Dec. 19, 2007, 121 Stat. 1666, 1667.)
+(Pub. L. 95–617, title III, § 303, Nov. 9, 1978, 92 Stat. 3150; Pub. L. 102–486, title I, § 115(b)–(d), Oct. 24, 1992, 106 Stat. 2803, 2804; Pub. L. 110–140, title V, § 532(b), (c), Dec. 19, 2007, 121 Stat. 1666, 1667.)
 
 **Editorial Notes**
 
@@ -171,15 +171,15 @@ This chapter, referred to in subsec. (b)(6), was in the original “this subtitl
 
 **Amendments**
 
-2007—Subsec. (a)(2). Pub. L. 110–140, § 532(c), which directed substitution of “(4), (5), and (6)” for “and (4)” in subsec. (a), was executed by making the substitution in subsec. (a)(2) to reflect the probable intent of Congress.
+2007—Subsec. (a)(2). Pub. L. 110–140, § 532(c), which directed substitution of “(4), (5), and (6)” for “and (4)” in subsec. (a), was executed by making the substitution in subsec. (a)(2) to reflect the probable intent of Congress.
 
-Subsec. (b)(5), (6). Pub. L. 110–140, § 532(b), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 110–140, § 532(b), added pars. (5) and (6).
 
-1992—Subsec. (a). Pub. L. 102–486, § 115(d), in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b))” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
+1992—Subsec. (a). Pub. L. 102–486, § 115(d), in introductory provisions inserted “(or after October 24, 1992, in the case of standards under paragraphs (3), and (4) of subsection (b))” and in par. (2) substituted “standards established by paragraphs (2), (3) and (4) of subsection (b)” for “standard established by subsection (b)(2)”.
 
-Subsec. (b)(3), (4). Pub. L. 102–486, § 115(b), added pars. (3) and (4).
+Subsec. (b)(3), (4). Pub. L. 102–486, § 115(b), added pars. (3) and (4).
 
-Subsec. (d). Pub. L. 102–486, § 115(c), added subsec. (d).
+Subsec. (d). Pub. L. 102–486, § 115(c), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -189,13 +189,13 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **Report to President and Congress on Encouragement of Integrated Resource Planning and Investments in Conservation and Energy Efficiency by Electric Utilities**
 
-Pub. L. 102–486, title I, § 115(e), Oct. 24, 1992, 106 Stat. 2804, provided that: “The report under section 111(e) of this Act [16 U.S.C. 2621 note] transmitted by the Secretary of Energy to the President and to the Congress shall contain a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (3) and (4) of section 303(b) of the Public Utility Regulatory Policies Act of 1978 [15 U.S.C. 3203(b)(3) and (4)]. The report shall include an analysis, prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by gas utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand-side management measures and whether any unfair, deceptive, or predatory acts or practices exist, or are likely to exist, from implementation of such programs.”
+Pub. L. 102–486, title I, § 115(e), Oct. 24, 1992, 106 Stat. 2804, provided that: “The report under section 111(e) of this Act [16 U.S.C. 2621 note] transmitted by the Secretary of Energy to the President and to the Congress shall contain a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (3) and (4) of section 303(b) of the Public Utility Regulatory Policies Act of 1978 [15 U.S.C. 3203(b)(3) and (4)]. The report shall include an analysis, prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by gas utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand-side management measures and whether any unfair, deceptive, or predatory acts or practices exist, or are likely to exist, from implementation of such programs.”
 
 **Definitions**
 
 The definitions of State and system cost in section 2602 of Title 16, Conservation, apply to this section.
 
-## § 3204. Special rules for standards
+## § 3204. Special rules for standards
 
 **(a) Procedures for termination of gas service** The procedures for termination of service referred to in section 3203(b)(1) of this title are procedures prescribed by the State regulatory authority (with respect to gas utilities for which it has ratemaking authority) or the nonregulated gas utility which provide that—
 
@@ -235,15 +235,15 @@ Such procedures shall take into account the need to include reasonable provision
 
 **(F)** any explanation or justification of existing or proposed rate schedules, or notification of hearings thereon.
 
-(Pub. L. 95–617, title III, § 304, Nov. 9, 1978, 92 Stat. 3151.)
+(Pub. L. 95–617, title III, § 304, Nov. 9, 1978, 92 Stat. 3151.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Energy Conservation Policy Act, referred to in subsec. (b)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3208. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§ 8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (b)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3208. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§ 8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
 
-## § 3205. Federal participation
+## § 3205. Federal participation
 
 **(a) Intervention**
 
@@ -257,7 +257,7 @@ The Secretary shall have the same rights as any other party to a proceeding befo
 
 The Secretary, on his own motion, may, to the same extent as provided in subsections (a) through (b), intervene as a matter of right in any proceeding which relates to rates or rate design of nonregulated gas utilities.
 
-(Pub. L. 95–617, title III, § 305, Nov. 9, 1978, 92 Stat. 3152.)
+(Pub. L. 95–617, title III, § 305, Nov. 9, 1978, 92 Stat. 3152.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -265,7 +265,7 @@ The Secretary, on his own motion, may, to the same extent as provided in subsect
 
 The definition of Secretary in section 2602 of Title 16, Conservation, applies to this section.
 
-## § 3206. Gas utility rate design proposals
+## § 3206. Gas utility rate design proposals
 
 **(a) Study**
 
@@ -289,9 +289,9 @@ The definition of Secretary in section 2602 of Title 16, Conservation, applies t
 
 Based upon the study prepared pursuant to subsection (a), the Secretary shall develop proposals to improve gas utility rate design and to encourage conservation of natural gas. Such proposals shall include any comments and recommendations of the Commission.
 
-**(c) Transmission to Congress** The proposals prepared under subsection (b), shall be transmitted, together with any legislative recommendations, to each House of Congress not later than 6 months after the date of submission of the study under subsection (a). Such proposals shall be accompanied by an analyses 1
+**(c) Transmission to Congress** The proposals prepared under subsection (b), shall be transmitted, together with any legislative recommendations, to each House of Congress not later than 6 months after the date of submission of the study under subsection (a). Such proposals shall be accompanied by an analyses 1
 
-<sup>1</sup>  So in original. Probably should be “analysis”.
+<sup>1</sup> So in original. Probably should be “analysis”.
 
 of—
 
@@ -305,7 +305,7 @@ of—
 
 The Secretary shall provide for public participation in the conduct of the study under subsection (a), and the preparation of proposals under subsection (b).
 
-(Pub. L. 95–617, title III, § 306, Nov. 9, 1978, 92 Stat. 3152.)
+(Pub. L. 95–617, title III, § 306, Nov. 9, 1978, 92 Stat. 3152.)
 
 **Editorial Notes**
 
@@ -319,7 +319,7 @@ This Act, referred to in subsec. (c)(3), is Pub. L. 95–617, Nov. 9, 1978, 92 S
 
 The definitions of Secretary and Commission in section 2602 of Title 16, Conservation, apply to this section.
 
-## § 3207. Judicial review and enforcement
+## § 3207. Judicial review and enforcement
 
 **(a) Limitation of Federal jurisdiction**
 
@@ -337,7 +337,7 @@ The definitions of Secretary and Commission in section 2602 of Title 16, Conserv
 
 **(2)** Nothing in this chapter shall authorize the Secretary to appeal or otherwise seek judicial review of the decisions of a State regulatory authority or nonregulated gas utility or to become a party to any action to obtain such review or appeal. The Secretary may participate as an amicus curiae in any judicial review of an action arising under the provisions of this chapter.
 
-(Pub. L. 95–617, title III, § 307, Nov. 9, 1978, 92 Stat. 3153.)
+(Pub. L. 95–617, title III, § 307, Nov. 9, 1978, 92 Stat. 3153.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -345,11 +345,11 @@ The definitions of Secretary and Commission in section 2602 of Title 16, Conserv
 
 The definitions of Secretary and State in section 2602 of Title 16, Conservation, apply to this section.
 
-## § 3208. Relationship to other applicable law
+## § 3208. Relationship to other applicable law
 
 Nothing in this chapter prohibits any State regulatory authority or nonregulated gas utility from adopting, pursuant to State law, any standard or rule affecting gas utilities which is different from any standard established by this chapter.
 
-(Pub. L. 95–617, title III, § 308, Nov. 9, 1978, 92 Stat. 3153.)
+(Pub. L. 95–617, title III, § 308, Nov. 9, 1978, 92 Stat. 3153.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -357,7 +357,7 @@ Nothing in this chapter prohibits any State regulatory authority or nonregulated
 
 The definition of State in section 2602 of Title 16, Conservation, applies to this section.
 
-## § 3209. Reports respecting standards
+## § 3209. Reports respecting standards
 
 **(a) State authorities and nonregulated utilities**
 
@@ -371,7 +371,7 @@ Not later than 1 year after November 9, 1978, and annually thereafter for 10 yea
 
 **(3)** his actions under this chapter, and his recommendations for such further Federal actions, including any legislation, regarding retail gas utility rates (and other practices) as may be necessary to carry out the purposes of this chapter.
 
-(Pub. L. 95–617, title III, § 309, Nov. 9, 1978, 92 Stat. 3153.)
+(Pub. L. 95–617, title III, § 309, Nov. 9, 1978, 92 Stat. 3153.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -379,17 +379,17 @@ Not later than 1 year after November 9, 1978, and annually thereafter for 10 yea
 
 The definition of Secretary in section 2602 of Title 16, Conservation, applies to this section.
 
-## § 3210. Prior and pending proceedings
+## § 3210. Prior and pending proceedings
 
 For purposes of this chapter, proceedings commenced by any State regulatory authority (with respect to gas utilities for which it has ratemaking authority) and any nonregulated gas utility before November 9, 1978, and actions taken before such date in such proceedings shall be treated as complying with the requirements of this chapter if such proceedings and actions substantially conform to such requirements. For purposes of this chapter, any such proceeding or action commenced before November 9, 1978, but not completed before such date shall comply with the requirements of this chapter, to the maximum extent practicable, with respect to so much of such proceeding or action as takes place after such date.
 
-(Pub. L. 95–617, title III, § 310, Nov. 9, 1978, 92 Stat. 3154.)
+(Pub. L. 95–617, title III, § 310, Nov. 9, 1978, 92 Stat. 3154.)
 
-## § 3211. Relationship to other authority
+## § 3211. Relationship to other authority
 
 Nothing in this chapter shall be construed to limit or affect any authority of the Secretary or the Commission under any other provision of law.
 
-(Pub. L. 95–617, title III, § 311, Nov. 9, 1978, 92 Stat. 3154.)
+(Pub. L. 95–617, title III, § 311, Nov. 9, 1978, 92 Stat. 3154.)
 
 **Statutory Notes and Related Subsidiaries**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 2—COPYRIGHT OWNERSHIP AND TRANSFER
 
-## § 201. Ownership of copyright
+## § 201. Ownership of copyright
 
 **(a) Initial Ownership.—** Copyright in a work protected under this title vests initially in the author or authors of the work. The authors of a joint work are coowners of copyright in the work.
 
@@ -31,13 +31,13 @@ retrieved: 2026-10-11
 
 **(e) Involuntary Transfer.—** When an individual author’s ownership of a copyright, or of any of the exclusive rights under a copyright, has not previously been transferred voluntarily by that individual author, no action by any governmental body or other official or organization purporting to seize, expropriate, transfer, or exercise rights of ownership with respect to the copyright, or any of the exclusive rights under a copyright, shall be given effect under this title, except as provided under title 11.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2568; Pub. L. 95–598, title III, § 313, Nov. 6, 1978, 92 Stat. 2676.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2568; Pub. L. 95–598, title III, § 313, Nov. 6, 1978, 92 Stat. 2676.)
 
 **Historical and Revision Notes**
 
 **house report no. 94–1476**
 
-**Initial Ownership.** Two basic and well-established principles of copyright law are restated in section 201(a): that the source of copyright ownership is the author of the work, and that, in the case of a “joint work,” the coauthors of the work are likewise coowners of the copyright. Under the definition of section 101, a work is “joint” if the authors collaborated with each other, or if each of the authors prepared his or her contribution with the knowledge and intention that it would be merged with the contributions of other authors as “inseparable or interdependent parts of a unitary whole.” The touchstone here is the intention, at the time the writing is done, that the parts be absorbed or combined into an integrated unit, although the parts themselves may be either “inseparable” (as the case of a novel or painting) or “interdependent” (as in the case of a motion picture, opera, or the words and music of a song). The definition of “joint work” is to be contrasted with the definition of “collective work,” also in section 101, in which the elements of merger and unity are lacking; there the key elements are assemblage or gathering of “separate and independent works \* \* \* into a collective whole.”
+**Initial Ownership.** Two basic and well-established principles of copyright law are restated in section 201(a): that the source of copyright ownership is the author of the work, and that, in the case of a “joint work,” the coauthors of the work are likewise coowners of the copyright. Under the definition of section 101, a work is “joint” if the authors collaborated with each other, or if each of the authors prepared his or her contribution with the knowledge and intention that it would be merged with the contributions of other authors as “inseparable or interdependent parts of a unitary whole.” The touchstone here is the intention, at the time the writing is done, that the parts be absorbed or combined into an integrated unit, although the parts themselves may be either “inseparable” (as the case of a novel or painting) or “interdependent” (as in the case of a motion picture, opera, or the words and music of a song). The definition of “joint work” is to be contrasted with the definition of “collective work,” also in section 101, in which the elements of merger and unity are lacking; there the key elements are assemblage or gathering of “separate and independent works \* \* \* into a collective whole.”
 
 The definition of “joint works” has prompted some concern lest it be construed as converting the authors of previously written works, such as plays, novels, and music, into coauthors of a motion picture in which their work is incorporated. It is true that a motion picture would normally be a joint rather than a collective work with respect to those authors who actually work on the film, although their usual status as employees for hire would keep the question of coownership from coming up. On the other hand, although a novelist, playwright, or songwriter may write a work with the hope or expectation that it will be used in a motion picture, this is clearly a case of separate or independent authorship rather than one where the basic intention behind the writing of the work was for motion picture use. In this case, the motion picture is a derivative work within the definition of that term, and section 103 makes plain that copyright in a derivative work is independent of, and does not enlarge the scope of rights in, any preexisting material incorporated in it. There is thus no need to spell this conclusion out in the definition of “joint work.”
 
@@ -75,7 +75,7 @@ Traditional legal actions that may involve transfer of ownership, such as bankru
 
 **Amendments**
 
-1978—Subsec. (e). Pub. L. 95–598 inserted “, except as provided under title 11”.
+1978—Subsec. (e). Pub. L. 95–598 inserted “, except as provided under title 11”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -83,11 +83,11 @@ Traditional legal actions that may involve transfer of ownership, such as bankru
 
 Amendment effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598 set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 202. Ownership of copyright as distinct from ownership of material object
+## § 202. Ownership of copyright as distinct from ownership of material object
 
 Ownership of a copyright, or of any of the exclusive rights under a copyright, is distinct from ownership of any material object in which the work is embodied. Transfer of ownership of any material object, including the copy or phonorecord in which the work is first fixed, does not of itself convey any rights in the copyrighted work embodied in the object; nor, in the absence of an agreement, does transfer of ownership of a copyright or of any exclusive rights under a copyright convey property rights in any material object.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2568.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2568.)
 
 **Historical and Revision Notes**
 
@@ -97,7 +97,7 @@ The principle restated in section 202 is a fundamental and important one: that c
 
 As a result of the interaction of this section and the provisions of section 204(a) and 301, the bill would change a common law doctrine exemplified by the decision in *Pushman v. New York Graphic Society, Inc*., 287 N.Y. 302, 39 N.E.2d 249 (1942). Under that doctrine, authors or artists are generally presumed to transfer common law literary property rights when they sell their manuscript or work of art, unless those rights are specifically reserved. This presumption would be reversed under the bill, since a specific written conveyance of rights would be required in order for a sale of any material object to carry with it a transfer of copyright.
 
-## § 203. Termination of transfers and licenses granted by the author
+## § 203. Termination of transfers and licenses granted by the author
 
 **(a) Conditions for Termination.—** In the case of any work other than a work made for hire, the exclusive or nonexclusive grant of a transfer or license of copyright or of any right under a copyright, executed by the author on or after January 1, 1978, otherwise than by will, is subject to termination under the following conditions:
 
@@ -137,7 +137,7 @@ As a result of the interaction of this section and the provisions of section 204
 
 **(6)** Unless and until termination is effected under this section, the grant, if it does not provide otherwise, continues in effect for the term of copyright provided by this title.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2569; Pub. L. 105–298, title I, § 103, Oct. 27, 1998, 112 Stat. 2829; Pub. L. 107–273, div. C, title III, § 13210(9), Nov. 2, 2002, 116 Stat. 1909.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2569; Pub. L. 105–298, title I, § 103, Oct. 27, 1998, 112 Stat. 2829; Pub. L. 107–273, div. C, title III, § 13210(9), Nov. 2, 2002, 116 Stat. 1909.)
 
 **Historical and Revision Notes**
 
@@ -187,11 +187,11 @@ Section 203(b)(6) provides that, unless and until termination is effected under 
 
 2002—Subsec. (a)(2)(A) to (C). Pub. L. 107–273, in subpars. (A) to (C), substituted “The” for “the” and, in subpars. (A) and (B), substituted period for semicolon at end.
 
-1998—Subsec. (a)(2). Pub. L. 105–298, § 103(1), struck out “by his widow or her widower and his or her children or grandchildren” after “exercised,” in introductory provisions.
+1998—Subsec. (a)(2). Pub. L. 105–298, § 103(1), struck out “by his widow or her widower and his or her children or grandchildren” after “exercised,” in introductory provisions.
 
-Subsec. (a)(2)(D). Pub. L. 105–298, § 103(2), added subpar. (D).
+Subsec. (a)(2)(D). Pub. L. 105–298, § 103(2), added subpar. (D).
 
-## § 204. Execution of transfers of copyright ownership
+## § 204. Execution of transfers of copyright ownership
 
 **(a)** A transfer of copyright ownership, other than by operation of law, is not valid unless an instrument of conveyance, or a note or memorandum of the transfer, is in writing and signed by the owner of the rights conveyed or such owner’s duly authorized agent.
 
@@ -201,7 +201,7 @@ Subsec. (a)(2)(D). Pub. L. 105–298, § 103(2), added subpar. (D).
 
 **(2)** in the case of a transfer executed in a foreign country, the certificate is issued by a diplomatic or consular officer of the United States, or by a person authorized to administer oaths whose authority is proved by a certificate of such an officer.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2570.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2570.)
 
 **Historical and Revision Notes**
 
@@ -209,7 +209,7 @@ Subsec. (a)(2)(D). Pub. L. 105–298, § 103(2), added subpar. (D).
 
 Section 204 is a somewhat broadened and liberalized counterpart of sections 28 and 29 of the present statute [sections 28 and 29 of former title 17]. Under subsection (a), a transfer of copyright ownership (other than one brought about by operation of law) is valid only if there exists an instrument of conveyance, or alternatively a “note or memorandum of the transfer,” which is in writing and signed by the copyright owner “or such owner’s duly authorized agent.” Subsection (b) makes clear that a notarial or consular acknowledgment is not essential to the validity of any transfer, whether executed in the United States or abroad. However, the subsection would liberalize the conditions under which certificates of acknowledgment of documents executed abroad are to be accorded prima facie weight, and would give the same weight to domestic acknowledgments under appropriate circumstances.
 
-## § 205. Recordation of transfers and other documents
+## § 205. Recordation of transfers and other documents
 
 **(a) Conditions for Recordation.—** Any transfer of copyright ownership or other document pertaining to a copyright may be recorded in the Copyright Office if the document filed for recordation bears the actual signature of the person who executed it, or if it is accompanied by a sworn or official certification that it is a true copy of the original, signed document. A sworn or official certification may be submitted to the Copyright Office electronically, pursuant to regulations established by the Register of Copyrights.
 
@@ -229,7 +229,7 @@ Section 204 is a somewhat broadened and liberalized counterpart of sections 28 a
 
 **(2)** the license was taken in good faith before recordation of the transfer and without notice of it.
 
-(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2571; Pub. L. 100–568, § 5, Oct. 31, 1988, 102 Stat. 2857; Pub. L. 111–295, § 3(b), Dec. 9, 2010, 124 Stat. 3180.)
+(Pub. L. 94–553, title I, § 101, Oct. 19, 1976, 90 Stat. 2571; Pub. L. 100–568, § 5, Oct. 31, 1988, 102 Stat. 2857; Pub. L. 111–295, § 3(b), Dec. 9, 2010, 124 Stat. 3180.)
 
 **Historical and Revision Notes**
 
@@ -257,7 +257,7 @@ Amendment by Pub. L. 100–568 effective Mar. 1, 1989, with any cause of action 
 
 **Recordation of Shareware**
 
-Pub. L. 101–650, title VIII, § 805, Dec. 1, 1990, 104 Stat. 5136, provided that:
+Pub. L. 101–650, title VIII, § 805, Dec. 1, 1990, 104 Stat. 5136, provided that:
 
 > **“(a) In General.—** The Register of Copyrights is authorized, upon receipt of any document designated as pertaining to computer shareware and the fee prescribed by section 708 of title 17, United States Code, to record the document and return it with a certificate of recordation.
 

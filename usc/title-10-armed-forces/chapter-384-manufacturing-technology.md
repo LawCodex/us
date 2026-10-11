@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(p)(2)(A), Dec. 27, 2021, 135 Stat. 2148, amended Pub. L. 116–283, div. A, title XVIII, § 1869(a), Jan. 1, 2021, 134 Stat. 4283, which added this analysis, by adding items 4843 to 4845 and striking out former item 4843 “Armament retooling and manufacturing”.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(p)(2)(A), Dec. 27, 2021, 135 Stat. 2148, amended Pub. L. 116–283, div. A, title XVIII, § 1869(a), Jan. 1, 2021, 134 Stat. 4283, which added this analysis, by adding items 4843 to 4845 and striking out former item 4843 “Armament retooling and manufacturing”.
 
-## § 4841. Manufacturing Technology Program
+## § 4841. Manufacturing Technology Program
 
 **(a) Establishment.—** The Secretary of Defense shall establish a Manufacturing Technology Program to further the national security objectives of section 4811(a) of this title through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems. The Secretary shall use the joint planning process of the directors of the Department of Defense laboratories in establishing the program. The Under Secretary of Defense for Research and Engineering shall administer the program.
 
@@ -89,13 +89,13 @@ retrieved: 2026-10-11
 
 **(f) Advanced Manufacturing Defined.—** In this section, the term “advanced manufacturing” means manufacturing through the use of interconnected, advanced technologies throughout the design and manufacturing process that enables modular, adaptable, and efficient manufacturing, including software-controlled subtractive manufacturing, additive manufacturing, powder bed fusion manufacturing, and other similar manufacturing techniques.
 
-(Added Pub. L. 103–160, div. A, title VIII, § 801(a)(1), Nov. 30, 1993, 107 Stat. 1700, § 2525; amended Pub. L. 103–337, div. A, title II, § 256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, § 276(a), title X, § 1081(e), title XV, § 1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, § 211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, § 213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, § 216, Oct. 5, 1999, 113 Stat. 543; renumbered § 2521, Pub. L. 106–398, § 1 [[div. A], title III, § 344(c)(1)(A)], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, § 213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, § 1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, § 238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, § 212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 113–291, div. A, title II, § 212, Dec. 19, 2014, 128 Stat. 3325; Pub. L. 116–92, div. A, title IX, § 902(76), Dec. 20, 2019, 133 Stat. 1552; renumbered § 4841 and amended Pub. L. 116–283, div. A, title XVIII, § 1869(b), (c)(1), Jan. 1, 2021, 134 Stat. 4283; Pub. L. 119–60, div. A, title XVIII, § 1841(f)(1), Dec. 18, 2025, 139 Stat. 1257.)
+(Added Pub. L. 103–160, div. A, title VIII, § 801(a)(1), Nov. 30, 1993, 107 Stat. 1700, § 2525; amended Pub. L. 103–337, div. A, title II, § 256(a)(1), Oct. 5, 1994, 108 Stat. 2704; Pub. L. 104–106, div. A, title II, § 276(a), title X, § 1081(e), title XV, § 1503(a)(28), Feb. 10, 1996, 110 Stat. 241, 454, 512; Pub. L. 105–85, div. A, title II, § 211(a), (b), Nov. 18, 1997, 111 Stat. 1657; Pub. L. 105–261, div. A, title II, § 213, Oct. 17, 1998, 112 Stat. 1947; Pub. L. 106–65, div. A, title II, § 216, Oct. 5, 1999, 113 Stat. 543; renumbered § 2521, Pub. L. 106–398, § 1 [[div. A], title III, § 344(c)(1)(A)], Oct. 30, 2000, 114 Stat. 1654, 1654A–71; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title II, § 213, Dec. 2, 2002, 116 Stat. 2481; Pub. L. 108–136, div. A, title X, § 1031(a)(24), Nov. 24, 2003, 117 Stat. 1598; Pub. L. 110–181, div. A, title II, § 238(a), Jan. 28, 2008, 122 Stat. 48; Pub. L. 111–84, div. A, title II, § 212, Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 113–291, div. A, title II, § 212, Dec. 19, 2014, 128 Stat. 3325; Pub. L. 116–92, div. A, title IX, § 902(76), Dec. 20, 2019, 133 Stat. 1552; renumbered § 4841 and amended Pub. L. 116–283, div. A, title XVIII, § 1869(b), (c)(1), Jan. 1, 2021, 134 Stat. 4283; Pub. L. 119–60, div. A, title XVIII, § 1841(f)(1), Dec. 18, 2025, 139 Stat. 1257.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4008 of this title, referred to in subsec. (d)(1), probably should be a reference to section 4024 of this title. Section 4008 was originally enacted by transferring section 2374 of this title to that section by Pub. L. 116–283, div. A, title XVIII, § 1841(c), Jan. 1, 2021, 134 Stat. 4243, effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (D), Dec. 27, 2021, 135 Stat. 2151, amended Pub. L. 116–283, effective as if included therein, so as to eliminate that transfer, thereby omitting section 4008 before it took effect, and instead transferred section 2374 of this title to section 4024 of this title. See Codification note set out under section 4008 of this title.
+Section 4008 of this title, referred to in subsec. (d)(1), probably should be a reference to section 4024 of this title. Section 4008 was originally enacted by transferring section 2374 of this title to that section by Pub. L. 116–283, div. A, title XVIII, § 1841(c), Jan. 1, 2021, 134 Stat. 4243, effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), (D), Dec. 27, 2021, 135 Stat. 2151, amended Pub. L. 116–283, effective as if included therein, so as to eliminate that transfer, thereby omitting section 4008 before it took effect, and instead transferred section 2374 of this title to section 4024 of this title. See Codification note set out under section 4008 of this title.
 
 **Prior Provisions**
 
@@ -105,23 +105,23 @@ A prior section 4841 was renumbered section 7841 of this title.
 
 2025–Subsec. (f). Pub. L. 119–60 added subsec. (f).
 
-2021—Pub. L. 116–283, § 1869(b)(1), renumbered section 2521 of this title as this section.
+2021—Pub. L. 116–283, § 1869(b)(1), renumbered section 2521 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1869(b)(2)(A), substituted “section 4811(a)” for “section 2501(a)”.
+Subsec. (a). Pub. L. 116–283, § 1869(b)(2)(A), substituted “section 4811(a)” for “section 2501(a)”.
 
-Subsec. (d)(1). Pub. L. 116–283, § 1869(b)(2)(B), substituted “section 4008” for “section 2374”.
+Subsec. (d)(1). Pub. L. 116–283, § 1869(b)(2)(B), substituted “section 4008” for “section 2374”.
 
-Subsecs. (e), (f). Pub. L. 116–283, § 1869(c)(1), redesignated subsec. (f) as (e), transferred it to appear after subsec. (d) and transferred subsec. (e), related to Joint Defense Manufacturing Technology Panel, to section 4842 of this title.
+Subsecs. (e), (f). Pub. L. 116–283, § 1869(c)(1), redesignated subsec. (f) as (e), transferred it to appear after subsec. (d) and transferred subsec. (e), related to Joint Defense Manufacturing Technology Panel, to section 4842 of this title.
 
-2019—Subsec. (a). Pub. L. 116–92, § 902(76)(A), substituted “The Under Secretary of Defense for Research and Engineering” for “The Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+2019—Subsec. (a). Pub. L. 116–92, § 902(76)(A), substituted “The Under Secretary of Defense for Research and Engineering” for “The Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (e)(4)(D). Pub. L. 116–92, § 902(76)(B), substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (e)(4)(D). Pub. L. 116–92, § 902(76)(B), substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-Subsec. (e)(5). Pub. L. 116–92, § 902(76)(C), substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
+Subsec. (e)(5). Pub. L. 116–92, § 902(76)(C), substituted “Under Secretary of Defense for Research and Engineering” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-2014—Subsec. (e)(5). Pub. L. 113–291, § 212(a), substituted “one or more individuals designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for purposes of this paragraph” for “the Assistant Secretary of Defense for Research and Engineering”.
+2014—Subsec. (e)(5). Pub. L. 113–291, § 212(a), substituted “one or more individuals designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for purposes of this paragraph” for “the Assistant Secretary of Defense for Research and Engineering”.
 
-Subsec. (f)(3). Pub. L. 113–291, § 212(b), substituted “not less frequently than once every four years” for “on a biennial basis”.
+Subsec. (f)(3). Pub. L. 113–291, § 212(b), substituted “not less frequently than once every four years” for “on a biennial basis”.
 
 2013—Subsec. (e)(5). Pub. L. 112–239 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
 
@@ -131,13 +131,13 @@ Subsec. (f)(3). Pub. L. 113–291, § 212(b), substituted “not less frequent
 
 2003—Subsec. (e). Pub. L. 108–136 struck out heading and text of subsec. (e) which related to preparation and maintenance of a five-year plan for the Manufacturing Technology Program by the Secretary of Defense.
 
-2002—Subsec. (e)(1). Pub. L. 107–314, § 213(a), substituted “prepare and maintain a five-year plan for the program.” for “prepare a five-year plan for the program which establishes—
+2002—Subsec. (e)(1). Pub. L. 107–314, § 213(a), substituted “prepare and maintain a five-year plan for the program.” for “prepare a five-year plan for the program which establishes—
 
 “(A) the overall manufacturing technology goals, milestones, priorities, and investment strategy for the program; and
 
 “(B) for each of the five fiscal years covered by the plan, the objectives of, and funding for the program by, each military department and each Defense Agency participating in the program.”
 
-Subsec. (e)(2). Pub. L. 107–314, § 213(a), substituted “establish” for “include” in introductory provisions and amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
+Subsec. (e)(2). Pub. L. 107–314, § 213(a), substituted “establish” for “include” in introductory provisions and amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
 
 “(A) An assessment of the effectiveness of the program, including a description of all completed projects and status of implementation.
 
@@ -155,51 +155,51 @@ Subsec. (e)(2). Pub. L. 107–314, § 213(a), substituted “establish” for 
 
 “(vi) Other sources.”
 
-Subsec. (e)(3). Pub. L. 107–314, § 213(b), substituted “biennially” for “annually” and “for each even-numbered fiscal year” for “for a fiscal year”.
+Subsec. (e)(3). Pub. L. 107–314, § 213(b), substituted “biennially” for “annually” and “for each even-numbered fiscal year” for “for a fiscal year”.
 
 2001—Subsec. (a). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
 
 2000—Pub. L. 106–398 renumbered section 2525 of this title as section 2521.
 
-1999—Subsec. (a). Pub. L. 106–65, § 216(a), in first sentence, inserted “through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems” after “title”.
+1999—Subsec. (a). Pub. L. 106–65, § 216(a), in first sentence, inserted “through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems” after “title”.
 
-Subsec. (b)(4). Pub. L. 106–65, § 216(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “to promote dual-use manufacturing processes;”.
+Subsec. (b)(4). Pub. L. 106–65, § 216(b), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “to promote dual-use manufacturing processes;”.
 
-Subsec. (c)(2) to (6). Pub. L. 106–65, § 216(c), added pars. (2) to (4), redesignated former par. (2) as (5), and added par. (6).
+Subsec. (c)(2) to (6). Pub. L. 106–65, § 216(c), added pars. (2) to (4), redesignated former par. (2) as (5), and added par. (6).
 
-Subsec. (d). Pub. L. 106–65, § 216(d), struck out “(A)” before “In accordance with” in par. (1), redesignated par. (1)(B) as par. (2), substituted “Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project.” for “For each grant awarded and each contract, cooperative agreement, or other transaction entered into on a cost-share basis under the program, the ratio of contract recipient cost to Government cost shall be determined by competitive procedures.”, and struck out former pars. (2) and (3) which required grants, contracts, cooperative agreements, and other transactions to be awarded or entered into on a cost-sharing basis unless the Secretary of Defense made certain determinations and specified as a goal that at least 25 percent of the funds available for the program for each fiscal year be used for grants, contracts, cooperative agreements, and other transactions on a cost-share basis under which the ratio of recipient cost to Government cost was two to one.
+Subsec. (d). Pub. L. 106–65, § 216(d), struck out “(A)” before “In accordance with” in par. (1), redesignated par. (1)(B) as par. (2), substituted “Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project.” for “For each grant awarded and each contract, cooperative agreement, or other transaction entered into on a cost-share basis under the program, the ratio of contract recipient cost to Government cost shall be determined by competitive procedures.”, and struck out former pars. (2) and (3) which required grants, contracts, cooperative agreements, and other transactions to be awarded or entered into on a cost-sharing basis unless the Secretary of Defense made certain determinations and specified as a goal that at least 25 percent of the funds available for the program for each fiscal year be used for grants, contracts, cooperative agreements, and other transactions on a cost-share basis under which the ratio of recipient cost to Government cost was two to one.
 
-Subsec. (e)(2)(A). Pub. L. 106–65, § 216(e)(1), inserted “, including a description of all completed projects and status of implementation” before period at end.
+Subsec. (e)(2)(A). Pub. L. 106–65, § 216(e)(1), inserted “, including a description of all completed projects and status of implementation” before period at end.
 
-Subsec. (e)(2)(C). Pub. L. 106–65, § 216(e)(2), added subpar. (C).
+Subsec. (e)(2)(C). Pub. L. 106–65, § 216(e)(2), added subpar. (C).
 
-1998—Subsec. (d)(1). Pub. L. 105–261, § 213(a), designated existing provisions as subpar. (A), substituted “In accordance with the policy stated in section 2374 of this title, competitive” for “Competitive”, and added subpar. (B).
+1998—Subsec. (d)(1). Pub. L. 105–261, § 213(a), designated existing provisions as subpar. (A), substituted “In accordance with the policy stated in section 2374 of this title, competitive” for “Competitive”, and added subpar. (B).
 
-Subsec. (d)(2). Pub. L. 105–261, § 213(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpars. (B) and (C).
+Subsec. (d)(2). Pub. L. 105–261, § 213(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, and added subpars. (B) and (C).
 
-Subsec. (d)(3). Pub. L. 105–261, § 213(c)(2), substituted “As a goal, at least” for “At least” and “should” for “shall” and inserted at end “The Secretary of Defense, in coordination with the Secretaries of the military departments and upon recommendation of the Under Secretary of Defense for Acquisition and Technology, shall establish annual objectives to meet such goal.”
+Subsec. (d)(3). Pub. L. 105–261, § 213(c)(2), substituted “As a goal, at least” for “At least” and “should” for “shall” and inserted at end “The Secretary of Defense, in coordination with the Secretaries of the military departments and upon recommendation of the Under Secretary of Defense for Acquisition and Technology, shall establish annual objectives to meet such goal.”
 
-Subsec. (d)(4). Pub. L. 105–261, § 213(c)(1), struck out par. (4) which read as follows: “If the requirement of paragraph (3) cannot be met by July 15 of a fiscal year, the Under Secretary of Defense for Acquisition and Technology may waive the requirement and obligate the balance of the funds available for the program for that fiscal year on a cost-share basis under which the ratio of recipient cost to Government cost is less than two to one. Before implementing any such waiver, the Under Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the reasons for the waiver.”
+Subsec. (d)(4). Pub. L. 105–261, § 213(c)(1), struck out par. (4) which read as follows: “If the requirement of paragraph (3) cannot be met by July 15 of a fiscal year, the Under Secretary of Defense for Acquisition and Technology may waive the requirement and obligate the balance of the funds available for the program for that fiscal year on a cost-share basis under which the ratio of recipient cost to Government cost is less than two to one. Before implementing any such waiver, the Under Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives the reasons for the waiver.”
 
-Subsec. (e)(2). Pub. L. 105–261, § 213(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The plan shall include an assessment of the effectiveness of the program.”
+Subsec. (e)(2). Pub. L. 105–261, § 213(d), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The plan shall include an assessment of the effectiveness of the program.”
 
-1997—Subsec. (c)(2). Pub. L. 105–85, § 211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall seek, to the extent practicable, the participation of manufacturers of manufacturing equipment in the projects under the program.”
+1997—Subsec. (c)(2). Pub. L. 105–85, § 211(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall seek, to the extent practicable, the participation of manufacturers of manufacturing equipment in the projects under the program.”
 
-Subsec. (e). Pub. L. 105–85, § 211(b), added subsec. (e).
+Subsec. (e). Pub. L. 105–85, § 211(b), added subsec. (e).
 
-1996—Pub. L. 104–106, § 276(a)(1), amended section catchline, as amended by Pub. L. 104–106, §§ 1503(a)(28), 1506, by striking out “Science and” after “Manufacturing”.
+1996—Pub. L. 104–106, § 276(a)(1), amended section catchline, as amended by Pub. L. 104–106, §§ 1503(a)(28), 1506, by striking out “Science and” after “Manufacturing”.
 
-Pub. L. 104–106, § 1503(a)(28), substituted “Science and Technology Program” for “science and technology program” in section catchline.
+Pub. L. 104–106, § 1503(a)(28), substituted “Science and Technology Program” for “science and technology program” in section catchline.
 
-Subsec. (a). Pub. L. 104–106, § 276(a)(2), struck out “Science and” after “Manufacturing” and inserted after first sentence “The Secretary shall use the joint planning process of the directors of the Department of Defense laboratories in establishing the program.”
+Subsec. (a). Pub. L. 104–106, § 276(a)(2), struck out “Science and” after “Manufacturing” and inserted after first sentence “The Secretary shall use the joint planning process of the directors of the Department of Defense laboratories in establishing the program.”
 
-Subsec. (b). Pub. L. 104–106, § 1081(e), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Purpose.—The purpose of the program is to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
+Subsec. (b). Pub. L. 104–106, § 1081(e), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Purpose.—The purpose of the program is to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
 
-Subsec. (c). Pub. L. 104–106, § 276(a)(3), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 104–106, § 276(a)(3), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(2)(C). Pub. L. 104–106, § 276(a)(4)(A), added subpar. (C).
+Subsec. (d)(2)(C). Pub. L. 104–106, § 276(a)(4)(A), added subpar. (C).
 
-Subsec. (d)(3), (4). Pub. L. 104–106, § 276(a)(4)(B), added pars. (3) and (4).
+Subsec. (d)(3), (4). Pub. L. 104–106, § 276(a)(4)(B), added pars. (3) and (4).
 
 1994—Pub. L. 103–337 substituted “Manufacturing science and technology program” for “Industrial Preparedness Manufacturing Technology Program” as section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish an Industrial Preparedness Manufacturing Technology program to enhance the capability of industry to meet the manufacturing needs of the Department of Defense.”
 
@@ -211,7 +211,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Advanced Robotic Automation for Munitions Manufacturing**
 
-Pub. L. 119–60, div. A, title II, § 225, Dec. 18, 2025, 139 Stat. 784, provided that:
+Pub. L. 119–60, div. A, title II, § 225, Dec. 18, 2025, 139 Stat. 784, provided that:
 
 > **“(a) Program Required.—** The Secretary of the Army shall carry out a program to support the maturation and expansion of robotic automation capabilities for munitions manufacturing at government-owned, contractor-operated production facilities.
 
@@ -239,7 +239,7 @@ Pub. L. 119–60, div. A, title II, § 225, Dec. 18, 2025, 139 Stat. 784, prov
 
 **Bioindustrial Commercialization Program**
 
-Pub. L. 119–60, div. A, title II, § 243, Dec. 18, 2025, 139 Stat. 791, provided that:
+Pub. L. 119–60, div. A, title II, § 243, Dec. 18, 2025, 139 Stat. 791, provided that:
 
 > **“(a) In General.—** Not later than one year after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense may establish a program to support the expansion of the domestic capacity for bioindustrial manufacturing of critical biomanufactured products at a commercial level through awards to entities for establishing, upgrading, and retooling of bioindustrial manufacturing facilities.
 
@@ -311,7 +311,7 @@ Pub. L. 119–60, div. A, title II, § 243, Dec. 18, 2025, 139 Stat. 791, prov
 
 **Transition to Advanced Manufacturing for Certain Critical Readiness Items of Supply**
 
-Pub. L. 119–60, div. A, title XVIII, § 1842, Dec. 18, 2025, 139 Stat. 1258, provided that:
+Pub. L. 119–60, div. A, title XVIII, § 1842, Dec. 18, 2025, 139 Stat. 1258, provided that:
 
 > **“(a) Plan Required.—** Not later than 120 days after the date of the enactment of this Act [Dec. 18, 2025], the product support manager for each covered system shall—
 
@@ -337,7 +337,7 @@ Pub. L. 119–60, div. A, title XVIII, § 1842, Dec. 18, 2025, 139 Stat. 1258,
 
 **Improvements Relating to Advanced Manufacturing**
 
-Pub. L. 119–60, div. A, title XVIII, § 1846, Dec. 18, 2025, 139 Stat. 1261, provided that:
+Pub. L. 119–60, div. A, title XVIII, § 1846, Dec. 18, 2025, 139 Stat. 1261, provided that:
 
 > **“(a) Leadership Changes.—**
 
@@ -385,7 +385,7 @@ Pub. L. 119–60, div. A, title XVIII, § 1846, Dec. 18, 2025, 139 Stat. 1261,
 
 **Program for Advanced Manufacturing in the Indo-Pacific Region**
 
-Pub. L. 118–159, div. A, title III, § 356, Dec. 23, 2024, 138 Stat. 1860, provided that:
+Pub. L. 118–159, div. A, title III, § 356, Dec. 23, 2024, 138 Stat. 1860, provided that:
 
 > **“(a) Establishment.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense, acting through the Secretary of the Navy and in consultation with the Commander of the United States Indo-Pacific Command, shall carry out a program under which the Secretary shall establish an advanced manufacturing facility on or near a military installation within the area of responsibility of the United States Indo-Pacific Command for the purpose of—
 
@@ -429,7 +429,7 @@ Pub. L. 118–159, div. A, title III, § 356, Dec. 23, 2024, 138 Stat. 1860, p
 
 **Consortium on Use of Additive Manufacturing for Defense Capability Development**
 
-Pub. L. 118–31, div. A, title II, § 223, Dec. 22, 2023, 137 Stat. 191, as amended by Pub. L. 118–159, div. A, title II, § 218, Dec. 23, 2024, 138 Stat. 1827, as amended by Pub. L. 119–60, div. A, title XVIII, § 1846(a)(3), Dec. 18, 2025, 139 Stat. 1262, provided that:
+Pub. L. 118–31, div. A, title II, § 223, Dec. 22, 2023, 137 Stat. 191, as amended by Pub. L. 118–159, div. A, title II, § 218, Dec. 23, 2024, 138 Stat. 1827, as amended by Pub. L. 119–60, div. A, title XVIII, § 1846(a)(3), Dec. 18, 2025, 139 Stat. 1262, provided that:
 
 > **“(a) Establishment.—** Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall establish a consortium to facilitate the use of additive manufacturing for the development of capabilities for the Department of Defense. The consortium shall be known as the ‘Consortium on Additive Manufacturing for Defense Capability Development’ (referred to in this section as the ‘Consortium’).
 
@@ -513,7 +513,7 @@ Pub. L. 118–31, div. A, title II, § 223, Dec. 22, 2023, 137 Stat. 191, as a
 
 **Support for Research and Development of Bioindustrial Manufacturing Processes**
 
-Pub. L. 117–263, div. A, title II, § 215, Dec. 23, 2022, 136 Stat. 2472, as amended by Pub. L. 118–31, div. A, title II, § 216, Dec. 22, 2023, 137 Stat. 185; Pub. L. 119–60, div. A, title II, § 241, Dec. 18, 2025, 139 Stat. 790, provided that:
+Pub. L. 117–263, div. A, title II, § 215, Dec. 23, 2022, 136 Stat. 2472, as amended by Pub. L. 118–31, div. A, title II, § 216, Dec. 22, 2023, 137 Stat. 185; Pub. L. 119–60, div. A, title II, § 241, Dec. 18, 2025, 139 Stat. 790, provided that:
 
 > **“(a) Authorization.—** Subject to the availability of appropriations, the Secretary of Defense shall provide support for the development of a network of bioindustrial manufacturing facilities to conduct research and development to improve the ability of the industrial base to assess, validate, and scale new, innovative bioindustrial manufacturing processes for the production of chemicals, materials, and other products necessary to support national security or secure fragile supply chains.
 
@@ -599,7 +599,7 @@ Pub. L. 117–263, div. A, title II, § 215, Dec. 23, 2022, 136 Stat. 2472, as
 
 **Administration of Manufacturing Innovation Institutes Funded by the Department of Defense**
 
-Pub. L. 116–92, div. A, title II, § 227, Dec. 20, 2019, 133 Stat. 1270, provided that:
+Pub. L. 116–92, div. A, title II, § 227, Dec. 20, 2019, 133 Stat. 1270, provided that:
 
 > **“(a) In General.—** The Secretary of Defense shall make such changes to the administration of covered institutes so as—
 
@@ -635,7 +635,7 @@ Pub. L. 116–92, div. A, title II, § 227, Dec. 20, 2019, 133 Stat. 1270, pro
 
 **Advanced Manufacturing Activities**
 
-Pub. L. 115–232, div. A, title II, § 229, Aug. 13, 2018, 132 Stat. 1688, provided that:
+Pub. L. 115–232, div. A, title II, § 229, Aug. 13, 2018, 132 Stat. 1688, provided that:
 
 > **“(a) Designation.—** The Under Secretary of Defense for Acquisition and Sustainment and the Under Secretary of Defense for Research and Engineering shall jointly, in coordination with Secretaries of the military departments, establish at least one activity per military service to demonstrate advanced manufacturing techniques and capabilities at depot-level activities or military arsenal facilities of the military departments.
 
@@ -685,45 +685,45 @@ Pub. L. 115–232, div. A, title II, § 229, Aug. 13, 2018, 132 Stat. 1688, pr
 
 **Limitation on Use of Funds for Defense-Wide Manufacturing Science and Technology Program**
 
-Pub. L. 110–181, div. A, title II, § 214, Jan. 28, 2008, 122 Stat. 36, as amended by Pub. L. 111–383, div. A, title IX, § 901(*l*)(2), Jan. 7, 2011, 124 Stat. 4326; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(F), Jan. 2, 2013, 126 Stat. 1950, which limited funds available to the Office of the Secretary of Defense for the defense-wide manufacturing science and technology program, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(15)(A), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 110–181, div. A, title II, § 214, Jan. 28, 2008, 122 Stat. 36, as amended by Pub. L. 111–383, div. A, title IX, § 901(*l*)(2), Jan. 7, 2011, 124 Stat. 4326; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(F), Jan. 2, 2013, 126 Stat. 1950, which limited funds available to the Office of the Secretary of Defense for the defense-wide manufacturing science and technology program, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(15)(A), Dec. 18, 2025, 139 Stat. 949.
 
 **Initial Development and Submission of Plan**
 
-Pub. L. 110–181, div. A, title II, § 238(b), Jan. 28, 2008, 122 Stat. 48, which directed the Secretary of Defense to develop the strategic plan required by 10 U.S.C. 4841(e) to go into effect at the beginning of fiscal year 2009 and submit the plan to the Committees on Armed Services of the Senate and the House of Representatives, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(15)(B), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 110–181, div. A, title II, § 238(b), Jan. 28, 2008, 122 Stat. 48, which directed the Secretary of Defense to develop the strategic plan required by 10 U.S.C. 4841(e) to go into effect at the beginning of fiscal year 2009 and submit the plan to the Committees on Armed Services of the Senate and the House of Representatives, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(15)(B), Dec. 18, 2025, 139 Stat. 949.
 
 **High-Performance Defense Manufacturing Technology Research and Development**
 
-Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, as amended by Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(ii), Jan. 2, 2013, 126 Stat. 1949, which directed the Under Secretary of Defense for Acquisition, Technology, and Logistics to conduct a pilot program under the authority of 10 U.S.C. 4841 to identify and transition advanced manufacturing processes and technologies to improve productivity and efficiency in the defense manufacturing base and submit a report to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(17)(A), Dec. 18, 2025, 139 Stat. 949.
+Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, as amended by Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(ii), Jan. 2, 2013, 126 Stat. 1949, which directed the Under Secretary of Defense for Acquisition, Technology, and Logistics to conduct a pilot program under the authority of 10 U.S.C. 4841 to identify and transition advanced manufacturing processes and technologies to improve productivity and efficiency in the defense manufacturing base and submit a report to the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(17)(A), Dec. 18, 2025, 139 Stat. 949.
 
 **Participation in Manufacturing Extension Program**
 
-Pub. L. 108–87, title VIII, § 8062, Sept. 30, 2003, 117 Stat. 1086, provided that: “Notwithstanding any other provision of law, the Naval shipyards of the United States shall be eligible to participate in any manufacturing extension program financed by funds appropriated in this or any other Act or hereafter in any other Act.”
+Pub. L. 108–87, title VIII, § 8062, Sept. 30, 2003, 117 Stat. 1086, provided that: “Notwithstanding any other provision of law, the Naval shipyards of the United States shall be eligible to participate in any manufacturing extension program financed by funds appropriated in this or any other Act or hereafter in any other Act.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 107–248, title VIII, § 8063, Oct. 23, 2002, 116 Stat. 1550.
+Pub. L. 107–248, title VIII, § 8063, Oct. 23, 2002, 116 Stat. 1550.
 
-Pub. L. 107–117, div. A, title VIII, § 8068, Jan. 10, 2002, 115 Stat. 2262.
+Pub. L. 107–117, div. A, title VIII, § 8068, Jan. 10, 2002, 115 Stat. 2262.
 
-Pub. L. 106–259, title VIII, § 8067, Aug. 9, 2000, 114 Stat. 689.
+Pub. L. 106–259, title VIII, § 8067, Aug. 9, 2000, 114 Stat. 689.
 
-Pub. L. 106–79, title VIII, § 8070, Oct. 25, 1999, 113 Stat. 1245.
+Pub. L. 106–79, title VIII, § 8070, Oct. 25, 1999, 113 Stat. 1245.
 
-Pub. L. 105–262, title VIII, § 8070, Oct. 17, 1998, 112 Stat. 2312.
+Pub. L. 105–262, title VIII, § 8070, Oct. 17, 1998, 112 Stat. 2312.
 
-Pub. L. 105–56, title VIII, § 8076, Oct. 8, 1997, 111 Stat. 1236.
+Pub. L. 105–56, title VIII, § 8076, Oct. 8, 1997, 111 Stat. 1236.
 
-Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8085], Sept. 30, 1996, 110 Stat. 3009–71, 3009–105.
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8085], Sept. 30, 1996, 110 Stat. 3009–71, 3009–105.
 
-Pub. L. 104–61, title VIII, § 8064, Dec. 1, 1995, 109 Stat. 664.
+Pub. L. 104–61, title VIII, § 8064, Dec. 1, 1995, 109 Stat. 664.
 
-Pub. L. 103–335, title VIII, § 8071, Sept. 30, 1994, 108 Stat. 2635.
+Pub. L. 103–335, title VIII, § 8071, Sept. 30, 1994, 108 Stat. 2635.
 
-Pub. L. 103–139, title VIII, § 8083A, Nov. 11, 1993, 107 Stat. 1459.
+Pub. L. 103–139, title VIII, § 8083A, Nov. 11, 1993, 107 Stat. 1459.
 
-Pub. L. 102–396, title IX, § 9112, Oct. 6, 1992, 106 Stat. 1929.
+Pub. L. 102–396, title IX, § 9112, Oct. 6, 1992, 106 Stat. 1929.
 
-## § 4842. Joint Defense Manufacturing Technology Panel
+## § 4842. Joint Defense Manufacturing Technology Panel
 
 **(a)** There is in the Department of Defense the Joint Defense Manufacturing Technology Panel.
 
@@ -755,13 +755,13 @@ Pub. L. 102–396, title IX, § 9112, Oct. 6, 1992, 106 Stat. 1929.
 
 **(f)** The administrative expenses of the Panel shall be borne by each military department and Defense Agency with manufacturing technology programs in such manner as the Panel shall provide.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1869(c)(1)(B), (2), Jan. 1, 2021, 134 Stat. 4283, 4284; Pub. L. 119–60, div. A, title XVIII, § 1846(a)(1), Dec. 18, 2025, 139 Stat. 1261.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1869(c)(1)(B), (2), Jan. 1, 2021, 134 Stat. 4283, 4284; Pub. L. 119–60, div. A, title XVIII, § 1846(a)(1), Dec. 18, 2025, 139 Stat. 1261.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (e), related to Joint Defense Manufacturing Technology Panel, of section 4841 of this title, which was transferred to this section by Pub. L. 116–283, § 1869(c)(1)(B), was based on Pub. L. 111–84, div. A, title II, § 212(2), Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 113–291, div. A, title II, § 212(a), Dec. 19, 2014, 128 Stat. 3325; Pub. L. 116–92, div. A, title IX, § 902(76)(B), (C), Dec. 20, 2019, 133 Stat. 1552.
+The text of subsec. (e), related to Joint Defense Manufacturing Technology Panel, of section 4841 of this title, which was transferred to this section by Pub. L. 116–283, § 1869(c)(1)(B), was based on Pub. L. 111–84, div. A, title II, § 212(2), Oct. 28, 2009, 123 Stat. 2225; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 113–291, div. A, title II, § 212(a), Dec. 19, 2014, 128 Stat. 3325; Pub. L. 116–92, div. A, title IX, § 902(76)(B), (C), Dec. 20, 2019, 133 Stat. 1552.
 
 **Prior Provisions**
 
@@ -771,17 +771,17 @@ A prior section 4842 was renumbered section 7842 of this title.
 
 2025—Subsec. (b)(1). Pub. L. 119–60 substituted “The Panel shall be cochaired by the Under Secretary of Defense for Acquisition and Sustainment and the Under Secretary of Defense for Research and Engineering.” for “The Chair of the Joint Defense Manufacturing Technology Panel shall be the head of the Panel. The Chair shall be appointed, on a rotating basis, from among the appropriate personnel of the military departments and Defense Agencies with manufacturing technology programs.”
 
-2021—Pub. L. 116–283, § 1869(c)(2)(A), (B), struck out subsec. (e) designation and heading and redesignated pars. (1) to (6) as subsecs. (a) to (f), respectively.
+2021—Pub. L. 116–283, § 1869(c)(2)(A), (B), struck out subsec. (e) designation and heading and redesignated pars. (1) to (6) as subsecs. (a) to (f), respectively.
 
-Pub. L. 116–283, § 1869(c)(1)(B), transferred subsec. (e), related to Joint Defense Manufacturing Technology Panel, of section 4841 of this title to this section and added section catchline.
+Pub. L. 116–283, § 1869(c)(1)(B), transferred subsec. (e), related to Joint Defense Manufacturing Technology Panel, of section 4841 of this title to this section and added section catchline.
 
-Subsec. (b). Pub. L. 116–283, § 1869(c)(2)(C), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
+Subsec. (b). Pub. L. 116–283, § 1869(c)(2)(C), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
 
-Subsec. (c). Pub. L. 116–283, § 1869(c)(2)(D), redesignated subpars. (A) to (C) as pars. (1) to (3), respectively.
+Subsec. (c). Pub. L. 116–283, § 1869(c)(2)(D), redesignated subpars. (A) to (C) as pars. (1) to (3), respectively.
 
-Subsec. (d). Pub. L. 116–283, § 1869(c)(2)(E), substituted “subsection (c)” for “paragraph (3)” in introductory provisions and redesignated subpars. (A) to (D) as pars. (1) to (4), respectively.
+Subsec. (d). Pub. L. 116–283, § 1869(c)(2)(E), substituted “subsection (c)” for “paragraph (3)” in introductory provisions and redesignated subpars. (A) to (D) as pars. (1) to (4), respectively.
 
-Subsec. (e). Pub. L. 116–283, § 1869(c)(2)(F), substituted “this subsection” for “this paragraph”.
+Subsec. (e). Pub. L. 116–283, § 1869(c)(2)(F), substituted “this subsection” for “this paragraph”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -789,7 +789,7 @@ Subsec. (e). Pub. L. 116–283, § 1869(c)(2)(F), substituted “this subsecti
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 4843. Manufacturing engineering education program
+## § 4843. Manufacturing engineering education program
 
 **(a) Establishment of Manufacturing Engineering Education Program.—**
 
@@ -867,17 +867,17 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(h) Institution of Higher Education Defined.—** In this section, the term “institution of higher education” has the meaning given such term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
 
-(Added Pub. L. 102–190, div. A, title VIII, § 825(a)(1), Dec. 5, 1991, 105 Stat. 1438, § 2196; amended Pub. L. 114–328, div. A, title II, § 215, Dec. 23, 2016, 130 Stat. 2048; renumbered § 4843, Pub. L. 116–283, div. A, title XVIII, § 1869(d)(1), as added Pub. L. 117–81, div. A, title XVII, § 1701(p)(1)(A), (B), Dec. 27, 2021, 135 Stat. 2148.)
+(Added Pub. L. 102–190, div. A, title VIII, § 825(a)(1), Dec. 5, 1991, 105 Stat. 1438, § 2196; amended Pub. L. 114–328, div. A, title II, § 215, Dec. 23, 2016, 130 Stat. 2048; renumbered § 4843, Pub. L. 116–283, div. A, title XVIII, § 1869(d)(1), as added Pub. L. 117–81, div. A, title XVII, § 1701(p)(1)(A), (B), Dec. 27, 2021, 135 Stat. 2148.)
 
 **Editorial Notes**
 
 **Codification**
 
-Pub. L. 116–283, § 1869(d), which had initially directed the transfer of section 2522 of this title to this section, was amended by Pub. L. 117–81, § 1701(p)(1)(A), (B), and, after that amendment, such transfer was no longer directed. Instead, Pub. L. 116–283, as amended by Pub. L. 117–81, transferred section 2196 of this title to this section and section 2522 of this title to section 4845.
+Pub. L. 116–283, § 1869(d), which had initially directed the transfer of section 2522 of this title to this section, was amended by Pub. L. 117–81, § 1701(p)(1)(A), (B), and, after that amendment, such transfer was no longer directed. Instead, Pub. L. 116–283, as amended by Pub. L. 117–81, transferred section 2196 of this title to this section and section 2522 of this title to section 4845.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1869(d)(1), as added by Pub. L. 117–81, § 1701(p)(1)(A), (B), renumbered section 2196 of this title as this section.
+2021—Pub. L. 116–283, § 1869(d)(1), as added by Pub. L. 117–81, § 1701(p)(1)(A), (B), renumbered section 2196 of this title as this section.
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to grants for manufacturing engineering education.
 
@@ -891,9 +891,9 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Implementation of Grant Program; Priority in Funding**
 
-Pub. L. 102–190, div. A, title VIII, § 825(b), Dec. 5, 1991, 105 Stat. 1442, provided that: “Within one year after the date of the enactment of this Act [Dec. 5, 1991], the Secretary of Defense, in consultation with the Director of the National Science Foundation, shall award grants under section 2196 of title 10, United States Code [now 10 U.S.C. 4843] (as added by subsection (a)), to institutions of higher education throughout the United States.”
+Pub. L. 102–190, div. A, title VIII, § 825(b), Dec. 5, 1991, 105 Stat. 1442, provided that: “Within one year after the date of the enactment of this Act [Dec. 5, 1991], the Secretary of Defense, in consultation with the Director of the National Science Foundation, shall award grants under section 2196 of title 10, United States Code [now 10 U.S.C. 4843] (as added by subsection (a)), to institutions of higher education throughout the United States.”
 
-## § 4844. Manufacturing experts in the classroom
+## § 4844. Manufacturing experts in the classroom
 
 **(a) Establishment of Program.—** The Secretary of Defense, in consultation with the Secretary of Education and the Secretary of Commerce, shall conduct a program to support the following activities of one or more manufacturing experts at institutions of higher education:
 
@@ -925,21 +925,21 @@ Pub. L. 102–190, div. A, title VIII, § 825(b), Dec. 5, 1991, 105 Stat. 1442
 
 **(e) Manufacturing Expert Defined.—** In this section, the term “manufacturing expert” means manufacturing managers and workers having experience in the organization of production and education and training needs and other experts in manufacturing.
 
-(Added Pub. L. 102–190, div. A, title VIII, § 825(a)(1), Dec. 5, 1991, 105 Stat. 1440, § 2197; amended Pub. L. 102–484, div. D, title XLII, § 4238(a), (b)(1), Oct. 23, 1992, 106 Stat. 2694; renumbered § 4844 and amended Pub. L. 116–283, div. A, title XVIII, § 1869(d), as added Pub. L. 117–81, div. A, title XVII, § 1701(p)(1), Dec. 27, 2021, 135 Stat. 2148.)
+(Added Pub. L. 102–190, div. A, title VIII, § 825(a)(1), Dec. 5, 1991, 105 Stat. 1440, § 2197; amended Pub. L. 102–484, div. D, title XLII, § 4238(a), (b)(1), Oct. 23, 1992, 106 Stat. 2694; renumbered § 4844 and amended Pub. L. 116–283, div. A, title XVIII, § 1869(d), as added Pub. L. 117–81, div. A, title XVII, § 1701(p)(1), Dec. 27, 2021, 135 Stat. 2148.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1869(d)(1), as added by Pub. L. 117–81, § 1701(p)(1)(A), (B), renumbered section 2197 of this title as this section.
+2021—Pub. L. 116–283, § 1869(d)(1), as added by Pub. L. 117–81, § 1701(p)(1)(A), (B), renumbered section 2197 of this title as this section.
 
-Subsec. (a)(6). Pub. L. 116–283, § 1869(d)(2), as added by Pub. L. 117–81, § 1701(p)(1)(C), substituted “section 4843” for “section 2196”.
+Subsec. (a)(6). Pub. L. 116–283, § 1869(d)(2), as added by Pub. L. 117–81, § 1701(p)(1)(C), substituted “section 4843” for “section 2196”.
 
-1992—Pub. L. 102–484, § 4238(b)(1), substituted “experts” for “managers” in section catchline.
+1992—Pub. L. 102–484, § 4238(b)(1), substituted “experts” for “managers” in section catchline.
 
-Subsec. (a). Pub. L. 102–484, § 4238(a)(1), struck out “managers and” after “manufacturing” in introductory provisions.
+Subsec. (a). Pub. L. 102–484, § 4238(a)(1), struck out “managers and” after “manufacturing” in introductory provisions.
 
-Subsec. (e). Pub. L. 102–484, § 4238(a)(2), added subsec. (e).
+Subsec. (e). Pub. L. 102–484, § 4238(a)(2), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -949,17 +949,17 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4845. Armament retooling and manufacturing
+## § 4845. Armament retooling and manufacturing
 
 The Secretary of the Army is authorized by chapter 764 of this title to carry out programs for the support of armaments retooling and manufacturing in the national defense industrial and technology base.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(c)(1)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, § 2522; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; renumbered § 4845, Pub. L. 116–283, div. A, title XVIII, § 1869(d)(1), as added Pub. L. 117–81, div. A, title XVII, § 1701(p)(1)(A), (B), Dec. 27, 2021, 135 Stat. 2148.)
+(Added Pub. L. 106–398, § 1 [[div. A], title III, § 344(c)(1)(B)], Oct. 30, 2000, 114 Stat. 1654, 1654A–71, § 2522; amended Pub. L. 115–232, div. A, title VIII, § 809(a), Aug. 13, 2018, 132 Stat. 1840; renumbered § 4845, Pub. L. 116–283, div. A, title XVIII, § 1869(d)(1), as added Pub. L. 117–81, div. A, title XVII, § 1701(p)(1)(A), (B), Dec. 27, 2021, 135 Stat. 2148.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1869(d)(1), as added by Pub. L. 117–81, § 1701(p)(1)(A), (B), renumbered section 2522 of this title as this section.
+2021—Pub. L. 116–283, § 1869(d)(1), as added by Pub. L. 117–81, § 1701(p)(1)(A), (B), renumbered section 2522 of this title as this section.
 
 2018—Pub. L. 115–232 substituted “chapter 764” for “chapter 434”.
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 79—INFORMATION SECURITY EDUCATION ASSISTANCE PROGRAM
 
-## § 7901. Programs; purpose
+## § 7901. Programs; purpose
 
 **(a) In General.—** To encourage the recruitment and retention of Department personnel who have the information security skills necessary to meet Department requirements, the Secretary may carry out programs in accordance with this chapter to provide financial support for education in computer science and electrical and computer engineering at accredited institutions of higher education.
 
@@ -25,9 +25,9 @@ retrieved: 2026-10-11
 
 **(2)** Education debt reduction for Department personnel who hold doctoral degrees in computer science and electrical and computer engineering at accredited institutions of higher education.
 
-(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3460.)
+(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3460.)
 
-## § 7902. Scholarship program
+## § 7902. Scholarship program
 
 **(a) Authority.—**
 
@@ -89,15 +89,15 @@ retrieved: 2026-10-11
 
 **(g) Ineligibility of Individuals Receiving Montgomery GI Bill Education Assistance Payments.—** An individual who receives a payment of educational assistance under chapter 30, 31, 32, 34, or 35 of this title or chapter 1606 or 1607 of title 10 for a month in which the individual is enrolled in a course of education leading to a doctoral degree in information security is not eligible to receive financial assistance under this section for that month.
 
-(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3460.)
+(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3460.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 109–461, title IX, § 903(c), Dec. 22, 2006, 120 Stat. 3464, provided that: “Section 7902 of title 38, United States Code, as added by subsection (a), may only apply with respect to financial assistance provided for an academic semester or term that begins on or after August 1, 2007.”
+Pub. L. 109–461, title IX, § 903(c), Dec. 22, 2006, 120 Stat. 3464, provided that: “Section 7902 of title 38, United States Code, as added by subsection (a), may only apply with respect to financial assistance provided for an academic semester or term that begins on or after August 1, 2007.”
 
-## § 7903. Education debt reduction program
+## § 7903. Education debt reduction program
 
 **(a) Authority.—** Subject to the availability of appropriations, the Secretary may establish an education debt reduction program under which the Secretary shall make education debt reduction payments under this section to qualified individuals eligible under subsection (b) for the purpose of reimbursing such individuals for payments by such individuals of principal and interest on loans described in paragraph (3) of that subsection.
 
@@ -137,7 +137,7 @@ Pub. L. 109–461, title IX, § 903(c), Dec. 22, 2006, 120 Stat. 3464, provide
 
 **(2)** all other reasonable educational expenses, including fees, books, and laboratory expenses.
 
-(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3462; amended Pub. L. 111–275, title X, § 1001(*o*), Oct. 13, 2010, 124 Stat. 2897.)
+(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3462; amended Pub. L. 111–275, title X, § 1001(*o*), Oct. 13, 2010, 124 Stat. 2897.)
 
 **Editorial Notes**
 
@@ -145,7 +145,7 @@ Pub. L. 109–461, title IX, § 903(c), Dec. 22, 2006, 120 Stat. 3464, provide
 
 2010—Subsec. (a). Pub. L. 111–275 substituted “paragraph (3)” for “paragraph (2)”.
 
-## § 7904. Preferences in awarding financial assistance
+## § 7904. Preferences in awarding financial assistance
 
 In awarding financial assistance under this chapter, the Secretary shall give a preference to qualified individuals who are otherwise eligible to receive the financial assistance in the following order of priority:
 
@@ -159,7 +159,7 @@ In awarding financial assistance under this chapter, the Secretary shall give a 
 
 **(5)** Citizens of the United States.
 
-(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3463; amended Pub. L. 115–91, div. A, title XVI, § 1649(d)(4), Dec. 12, 2017, 131 Stat. 1753.)
+(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3463; amended Pub. L. 115–91, div. A, title XVI, § 1649(d)(4), Dec. 12, 2017, 131 Stat. 1753.)
 
 **Editorial Notes**
 
@@ -167,20 +167,20 @@ In awarding financial assistance under this chapter, the Secretary shall give a 
 
 2017—Par. (4). Pub. L. 115–91 substituted “Cyber” for “Information Assurance”.
 
-## § 7905. Requirement of honorable discharge for veterans receiving assistance
+## § 7905. Requirement of honorable discharge for veterans receiving assistance
 
 No veteran shall receive financial assistance under this chapter unless the veteran was discharged from the Armed Forces under honorable conditions.
 
-(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3464.)
+(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3464.)
 
-## § 7906. Regulations
+## § 7906. Regulations
 
 The Secretary shall prescribe regulations for the administration of this chapter.
 
-(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3464.)
+(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3464.)
 
-## § 7907. Termination
+## § 7907. Termination
 
 The authority of the Secretary to make a payment under this chapter shall terminate on July 31, 2017.
 
-(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3464.)
+(Added Pub. L. 109–461, title IX, § 903(a)(1), Dec. 22, 2006, 120 Stat. 3464.)

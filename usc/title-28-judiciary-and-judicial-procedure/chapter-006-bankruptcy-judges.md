@@ -19,53 +19,53 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2005—Pub. L. 109–8, title VI, § 601(b), Apr. 20, 2005, 119 Stat. 120, added item 159.
+2005—Pub. L. 109–8, title VI, § 601(b), Apr. 20, 2005, 119 Stat. 120, added item 159.
 
 **Prior Provisions**
 
-A prior chapter 6, consisting of sections 151 to 160, which was added by Pub. L. 95–598, title II, § 201(a), Nov. 6, 1978, 92 Stat. 2657, as amended by Pub. L. 97–164, title I, § 110(d), Apr. 2, 1982, 96 Stat. 29, and which related to bankruptcy courts, did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+A prior chapter 6, consisting of sections 151 to 160, which was added by Pub. L. 95–598, title II, § 201(a), Nov. 6, 1978, 92 Stat. 2657, as amended by Pub. L. 97–164, title I, § 110(d), Apr. 2, 1982, 96 Stat. 29, and which related to bankruptcy courts, did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Courts During Transition**
 
-Pub. L. 95–598, title IV, § 404, Nov. 6, 1978, 92 Stat. 2683, as amended by Pub. L. 98–249, § 1(b), Mar. 31, 1984, 98 Stat. 116; Pub. L. 98–271, § 1(b), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, § 1(b), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, § 1(b), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, § 121(b), July 10, 1984, 98 Stat. 345, which provided that, for purposes of Pub. L. 95–598, which enacted Title 11, Bankruptcy, and the amendments made by Pub. L. 95–598, the courts of bankruptcy as defined under section 1(10) of former Title 11, created under section 11(a) of former Title 11, and existing on Sept. 30, 1979, continue to be courts of bankruptcy during the transition period beginning Oct. 1, 1979, and ending July 9, 1984, made provision for extension of the term of office of referees in bankruptcy serving on Nov. 6, 1978, and for such a referee to have the title of United States bankruptcy judge, established for each State a merit screening committee to pass on qualifications of such a referee and determine if the term of such a referee should be extended, and set forth the rules and provisions applicable to United States bankruptcy judges during the transition period, was repealed by Pub. L. 98–353, title I, §§ 114, 122(a), July 10, 1984, 98 Stat. 343, 346, eff. July 10, 1984.
+Pub. L. 95–598, title IV, § 404, Nov. 6, 1978, 92 Stat. 2683, as amended by Pub. L. 98–249, § 1(b), Mar. 31, 1984, 98 Stat. 116; Pub. L. 98–271, § 1(b), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, § 1(b), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, § 1(b), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, § 121(b), July 10, 1984, 98 Stat. 345, which provided that, for purposes of Pub. L. 95–598, which enacted Title 11, Bankruptcy, and the amendments made by Pub. L. 95–598, the courts of bankruptcy as defined under section 1(10) of former Title 11, created under section 11(a) of former Title 11, and existing on Sept. 30, 1979, continue to be courts of bankruptcy during the transition period beginning Oct. 1, 1979, and ending July 9, 1984, made provision for extension of the term of office of referees in bankruptcy serving on Nov. 6, 1978, and for such a referee to have the title of United States bankruptcy judge, established for each State a merit screening committee to pass on qualifications of such a referee and determine if the term of such a referee should be extended, and set forth the rules and provisions applicable to United States bankruptcy judges during the transition period, was repealed by Pub. L. 98–353, title I, §§ 114, 122(a), July 10, 1984, 98 Stat. 343, 346, eff. July 10, 1984.
 
 **Transition Study**
 
-Pub. L. 95–598, title IV, § 406, Nov. 6, 1978, 92 Stat. 2686, as amended by Pub. L. 98–249, § 1(c), Mar. 31, 1984, 98 Stat. 116; Pub. L. 98–271, § 1(c), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, § 1(c), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, § 1(c), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, § 121(c), July 10, 1984, 98 Stat. 346, which provided that during the transition period, Oct. 1, 1979, to July 9, 1984, the Director of the Administrative Office of the United States Courts make continuing studies and surveys in the judicial districts to determine the number of bankruptcy judges needed after July 9, 1984, to provide for the expeditious and effective administration of justice, their regular places of offices, and the places where the court was to be held, and that the Director report to the judicial councils of the circuits and the Judicial Conference of the United States his recommendations, the judicial councils advise the Conference of their recommendations, and the Conference recommend to the Congress and the President, before Jan. 3, 1983, the number of bankruptcy judges needed after July 9, 1984, and the locations at which they were to serve, was repealed by Pub. L. 98–353, title I, §§ 114, 122(a), July 10, 1984, 98 Stat. 343, 346, eff. July 10, 1984.
+Pub. L. 95–598, title IV, § 406, Nov. 6, 1978, 92 Stat. 2686, as amended by Pub. L. 98–249, § 1(c), Mar. 31, 1984, 98 Stat. 116; Pub. L. 98–271, § 1(c), Apr. 30, 1984, 98 Stat. 163; Pub. L. 98–299, § 1(c), May 25, 1984, 98 Stat. 214; Pub. L. 98–325, § 1(c), June 20, 1984, 98 Stat. 268; Pub. L. 98–353, title I, § 121(c), July 10, 1984, 98 Stat. 346, which provided that during the transition period, Oct. 1, 1979, to July 9, 1984, the Director of the Administrative Office of the United States Courts make continuing studies and surveys in the judicial districts to determine the number of bankruptcy judges needed after July 9, 1984, to provide for the expeditious and effective administration of justice, their regular places of offices, and the places where the court was to be held, and that the Director report to the judicial councils of the circuits and the Judicial Conference of the United States his recommendations, the judicial councils advise the Conference of their recommendations, and the Conference recommend to the Congress and the President, before Jan. 3, 1983, the number of bankruptcy judges needed after July 9, 1984, and the locations at which they were to serve, was repealed by Pub. L. 98–353, title I, §§ 114, 122(a), July 10, 1984, 98 Stat. 343, 346, eff. July 10, 1984.
 
 **Judicial Administration During Transition**
 
-Pub. L. 95–598, title IV, § 407, Nov. 6, 1978, 92 Stat. 2686, which provided that the Director of the Administrative Office of the United States Courts appoint a committee of not fewer than seven United States bankruptcy judges to advise the Director with respect to matters arising during the transition period or that are relevant to the purposes of the transition period, and directed that during the transition period, the chief judge of each circuit summon at least one bankruptcy judge from each judicial district within the circuit to the judicial conference of such circuit called and held under section 332 of this title, was repealed by Pub. L. 98–353, title I, §§ 114, 122(a), July 10, 1984, 98 Stat. 343, 346, eff. July 10, 1984.
+Pub. L. 95–598, title IV, § 407, Nov. 6, 1978, 92 Stat. 2686, which provided that the Director of the Administrative Office of the United States Courts appoint a committee of not fewer than seven United States bankruptcy judges to advise the Director with respect to matters arising during the transition period or that are relevant to the purposes of the transition period, and directed that during the transition period, the chief judge of each circuit summon at least one bankruptcy judge from each judicial district within the circuit to the judicial conference of such circuit called and held under section 332 of this title, was repealed by Pub. L. 98–353, title I, §§ 114, 122(a), July 10, 1984, 98 Stat. 343, 346, eff. July 10, 1984.
 
 **Extension and Termination of Term of Office of Bankruptcy Judge Serving on June 27, 1984**
 
-Pub. L. 98–353, title I, § 121(e), July 10, 1984, 98 Stat. 346, provided that: “The term of office of any bankruptcy judge who was serving on June 27, 1984, is extended to and shall expire at the end of the day of enactment of this Act [July 10, 1984].”
+Pub. L. 98–353, title I, § 121(e), July 10, 1984, 98 Stat. 346, provided that: “The term of office of any bankruptcy judge who was serving on June 27, 1984, is extended to and shall expire at the end of the day of enactment of this Act [July 10, 1984].”
 
 [Section 121(e) of Pub. L. 98–353 effective June 27, 1984, see section 122(c) of Pub. L. 98–353, set out as an Effective Date note under section 151 of this title.]
 
 For prior extensions of the term of office of bankruptcy judges see:
 
-Pub. L. 98–325, § 2, June 20, 1984, 98 Stat. 268.
+Pub. L. 98–325, § 2, June 20, 1984, 98 Stat. 268.
 
-Pub. L. 98–299, § 2, May 25, 1984, 98 Stat. 214.
+Pub. L. 98–299, § 2, May 25, 1984, 98 Stat. 214.
 
-Pub. L. 98–271, § 2, Apr. 30, 1984, 98 Stat. 163.
+Pub. L. 98–271, § 2, Apr. 30, 1984, 98 Stat. 163.
 
-Pub. L. 98–249, § 2, Mar. 31, 1984, 98 Stat. 116.
+Pub. L. 98–249, § 2, Mar. 31, 1984, 98 Stat. 116.
 
-## § 151. Designation of bankruptcy courts
+## § 151. Designation of bankruptcy courts
 
 In each judicial district, the bankruptcy judges in regular active service shall constitute a unit of the district court to be known as the bankruptcy court for that district. Each bankruptcy judge, as a judicial officer of the district court, may exercise the authority conferred under this chapter with respect to any action, suit, or proceeding and may preside alone and hold a regular or special session of the court, except as otherwise provided by law or by rule or order of the district court.
 
-(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 336.)
+(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 336.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 98–353, title I, § 122, July 10, 1984, 98 Stat. 346, provided that:
+Pub. L. 98–353, title I, § 122, July 10, 1984, 98 Stat. 346, provided that:
 
 > **“(a)** Except as otherwise provided in this section, this title and the amendments made by this title [enacting this chapter and sections 1408 to 1412 and 1452 of this title, amending sections 372, 634, 957, 1334, 1360, and 1930 of this title, sections 8331, 8334, 8336, 8339, 8341, and 8344 of Title 5, Government Organization and Employees, and section 105 of Title 11, Bankruptcy, enacting provisions set out as notes preceding section 151 of this title and under sections 151 to 153, 634, and 1334 of this title and section 8331 of Title 5, amending provisions set out as notes preceding sections 151 and 1471 of this title and section 101 of Title 11, and repealing provisions set out as notes preceding sections 151 and 1471 of this title] shall take effect on the date of the enactment of this Act [July 10, 1984].
 
@@ -75,13 +75,13 @@ Pub. L. 98–353, title I, § 122, July 10, 1984, 98 Stat. 346, provided that:
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–353, § 1, July 10, 1984, 98 Stat. 333, provided: “That this Act [enacting this chapter and sections 1408 to 1412 and 1452 of this title and sections 557 to 559 and 1113 of Title 11, Bankruptcy, amending sections 44, 98, 131, 133, 371, 372, 634, 957, 1334, 1360, and 1930 of this title, sections 8331, 8334, 8336, 8339, 8341, 8344, 8701, 8706, 8714a, and 8714b of Title 5, Government Organization and Employees, and sections 101 to 103, 105, 108, 109, 303, 321, 322, 326 to 330, 342, 343, 345, 346, 349, 350, 361 to 363, 365, 366, 501 to 503, 505 to 507, 509, 510, 521 to 525, 541 to 550, 552 to 555, 702 to 704, 707, 723 to 728, 741, 745, 752, 761, 763 to 766, 901 to 903, 921, 922, 927, 943, 945, 1102, 1103, 1105 to 1108, 1112, 1121, 1123 to 1127, 1129, 1141, 1142, 1144 to 1146, 1166, 1168 to 1171, 1173, 1301, 1302, 1304, 1307, 1322, 1324 to 1326, 1328, 1329, 15103, and 151302 of Title 11, enacting provisions set out as notes preceding section 151 of this title and under sections 44, 133, 151 to 153, 371, 634, 1334, and 2075 of this title, sections 8331 and 8706 of Title 5, and preceding section 101 of Title 11 and under sections 101, 365, and 1113 of Title 11, amending provisions set out as notes preceding sections 151, 581, and 1471 of this title and section 101 of Title 11, repealing provisions set out as notes preceding sections 151 and 1471 of this title, amending Rules 2002 and 3001 of the Bankruptcy Rules, set out in the Appendix to this title, and amending Official Bankruptcy Form No. 1] may be cited as the ‘Bankruptcy Amendments and Federal Judgeship Act of 1984’.”
+Pub. L. 98–353, § 1, July 10, 1984, 98 Stat. 333, provided: “That this Act [enacting this chapter and sections 1408 to 1412 and 1452 of this title and sections 557 to 559 and 1113 of Title 11, Bankruptcy, amending sections 44, 98, 131, 133, 371, 372, 634, 957, 1334, 1360, and 1930 of this title, sections 8331, 8334, 8336, 8339, 8341, 8344, 8701, 8706, 8714a, and 8714b of Title 5, Government Organization and Employees, and sections 101 to 103, 105, 108, 109, 303, 321, 322, 326 to 330, 342, 343, 345, 346, 349, 350, 361 to 363, 365, 366, 501 to 503, 505 to 507, 509, 510, 521 to 525, 541 to 550, 552 to 555, 702 to 704, 707, 723 to 728, 741, 745, 752, 761, 763 to 766, 901 to 903, 921, 922, 927, 943, 945, 1102, 1103, 1105 to 1108, 1112, 1121, 1123 to 1127, 1129, 1141, 1142, 1144 to 1146, 1166, 1168 to 1171, 1173, 1301, 1302, 1304, 1307, 1322, 1324 to 1326, 1328, 1329, 15103, and 151302 of Title 11, enacting provisions set out as notes preceding section 151 of this title and under sections 44, 133, 151 to 153, 371, 634, 1334, and 2075 of this title, sections 8331 and 8706 of Title 5, and preceding section 101 of Title 11 and under sections 101, 365, and 1113 of Title 11, amending provisions set out as notes preceding sections 151, 581, and 1471 of this title and section 101 of Title 11, repealing provisions set out as notes preceding sections 151 and 1471 of this title, amending Rules 2002 and 3001 of the Bankruptcy Rules, set out in the Appendix to this title, and amending Official Bankruptcy Form No. 1] may be cited as the ‘Bankruptcy Amendments and Federal Judgeship Act of 1984’.”
 
 **Separability**
 
-Pub. L. 98–353, title I, § 119, July 10, 1984, 98 Stat. 344, provided that: “If any provision of this Act [see Short Title of 1984 Amendment note above] or the application thereof to any person or circumstance is held invalid, the remainder of this Act, or the application of that provision to persons or circumstances other than those as to which it is held invalid, is not affected thereby.”
+Pub. L. 98–353, title I, § 119, July 10, 1984, 98 Stat. 344, provided that: “If any provision of this Act [see Short Title of 1984 Amendment note above] or the application thereof to any person or circumstance is held invalid, the remainder of this Act, or the application of that provision to persons or circumstances other than those as to which it is held invalid, is not affected thereby.”
 
-## § 152. Appointment of bankruptcy judges
+## § 152. Appointment of bankruptcy judges
 
 **(a)**
 
@@ -250,21 +250,21 @@ Pub. L. 98–353, title I, § 119, July 10, 1984, 98 Stat. 344, provided that:
 
 **(e)** A bankruptcy judge may be removed during the term for which such bankruptcy judge is appointed, only for incompetence, misconduct, neglect of duty, or physical or mental disability and only by the judicial council of the circuit in which the judge’s official duty station is located. Removal may not occur unless a majority of all of the judges of such council concur in the order of removal. Before any order of removal may be entered, a full specification of charges shall be furnished to such bankruptcy judge who shall be accorded an opportunity to be heard on such charges.
 
-(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 336; amended Pub. L. 99–554, title I, § 101, Oct. 27, 1986, 100 Stat. 3088; Pub. L. 100–587, Nov. 3, 1988, 102 Stat. 2982; Pub. L. 101–650, title III, § 304, Dec. 1, 1990, 104 Stat. 5105; Pub. L. 102–361, §§ 2, 4, Aug. 26, 1992, 106 Stat. 965, 966; Pub. L. 109–8, title XII, § 1223(d), Apr. 20, 2005, 119 Stat. 198; Pub. L. 109–63, § 2(c), Sept. 9, 2005, 119 Stat. 1994.)
+(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 336; amended Pub. L. 99–554, title I, § 101, Oct. 27, 1986, 100 Stat. 3088; Pub. L. 100–587, Nov. 3, 1988, 102 Stat. 2982; Pub. L. 101–650, title III, § 304, Dec. 1, 1990, 104 Stat. 5105; Pub. L. 102–361, §§ 2, 4, Aug. 26, 1992, 106 Stat. 965, 966; Pub. L. 109–8, title XII, § 1223(d), Apr. 20, 2005, 119 Stat. 198; Pub. L. 109–63, § 2(c), Sept. 9, 2005, 119 Stat. 1994.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2005—Subsec. (a)(1). Pub. L. 109–8, § 1223(d)(1), substituted “Each bankruptcy judge to be appointed for a judicial district, as provided in paragraph (2), shall be appointed by the court of appeals of the United States for the circuit in which such district is located.” for “The United States court of appeals for the circuit shall appoint bankruptcy judges for the judicial districts established in paragraph (2) in such numbers as are established in such paragraph.”
+2005—Subsec. (a)(1). Pub. L. 109–8, § 1223(d)(1), substituted “Each bankruptcy judge to be appointed for a judicial district, as provided in paragraph (2), shall be appointed by the court of appeals of the United States for the circuit in which such district is located.” for “The United States court of appeals for the circuit shall appoint bankruptcy judges for the judicial districts established in paragraph (2) in such numbers as are established in such paragraph.”
 
-Subsec. (a)(2). Pub. L. 109–8, § 1223(d)(2), substituted “3” for “2” in item relating to middle district of Georgia and struck out item relating to middle and southern districts of Georgia.
+Subsec. (a)(2). Pub. L. 109–8, § 1223(d)(2), substituted “3” for “2” in item relating to middle district of Georgia and struck out item relating to middle and southern districts of Georgia.
 
 Subsec. (c). Pub. L. 109–63 designated existing provisions as par. (1) and added par. (2).
 
-1992—Subsec. (a)(2). Pub. L. 102–361, § 2, in item relating to district of Arizona substituted “7” for “5”, in item relating to central district of California substituted “21” for “19”, in item relating to district of Connecticut substituted “3” for “2”, in item relating to middle district of Florida substituted “8” for “4”, in item relating to southern district of Florida substituted “5” for “3”, in item relating to northern district of Georgia substituted “8” for “6”, inserted item relating to middle and southern districts of Georgia, in item relating to district of Maryland substituted “4” for “3”, in item relating to district of Massachusetts substituted “5” for “4”, in item relating to district of New Jersey substituted “8” for “7”, in item relating to southern district of New York substituted “9” for “7”, in item relating to eastern district of Pennsylvania substituted “5” for “3”, in item relating to middle district of Tennessee substituted “3” for “2”, in item relating to western district of Tennessee substituted “4” for “3”, in item relating to northern district of Texas substituted “6” for “5”, and in item relating to eastern district of Virginia substituted “5” for “4”.
+1992—Subsec. (a)(2). Pub. L. 102–361, § 2, in item relating to district of Arizona substituted “7” for “5”, in item relating to central district of California substituted “21” for “19”, in item relating to district of Connecticut substituted “3” for “2”, in item relating to middle district of Florida substituted “8” for “4”, in item relating to southern district of Florida substituted “5” for “3”, in item relating to northern district of Georgia substituted “8” for “6”, inserted item relating to middle and southern districts of Georgia, in item relating to district of Maryland substituted “4” for “3”, in item relating to district of Massachusetts substituted “5” for “4”, in item relating to district of New Jersey substituted “8” for “7”, in item relating to southern district of New York substituted “9” for “7”, in item relating to eastern district of Pennsylvania substituted “5” for “3”, in item relating to middle district of Tennessee substituted “3” for “2”, in item relating to western district of Tennessee substituted “4” for “3”, in item relating to northern district of Texas substituted “6” for “5”, and in item relating to eastern district of Virginia substituted “5” for “4”.
 
-Subsec. (b)(3). Pub. L. 102–361, § 4, added par. (3).
+Subsec. (b)(3). Pub. L. 102–361, § 4, added par. (3).
 
 1990—Subsec. (a)(1). Pub. L. 101–650 inserted after third sentence “However, upon the expiration of the term, a bankruptcy judge may, with the approval of the judicial council of the circuit, continue to perform the duties of the office until the earlier of the date which is 180 days after the expiration of the term or the date of the appointment of a successor.”
 
@@ -276,7 +276,7 @@ Subsec. (b)(3). Pub. L. 102–361, § 4, added par. (3).
 
 **Effective Date of 2005 Amendment**
 
-Pub. L. 109–8, title XII, § 1223(e), Apr. 20, 2005, 119 Stat. 198, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Apr. 20, 2005].”
+Pub. L. 109–8, title XII, § 1223(e), Apr. 20, 2005, 119 Stat. 198, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Apr. 20, 2005].”
 
 **Effective Date of 1986 Amendment**
 
@@ -284,11 +284,11 @@ Amendment by Pub. L. 99–554 effective Oct. 27, 1986, see section 302(b) of Pub
 
 **Subsequent Reauthorization**
 
-Pub. L. 112–121, § 4, May 25, 2012, 126 Stat. 349, provided that: “Prior to further reauthorization of any judgeship authorized by this Act [See Short Title of 2012 Amendment note set out under section 1 of this title], the Committee on the Judiciary of the Senate and House of Representatives shall conduct a review of the bankruptcy judgeships authorized by this Act to determine the need, if any, for continued reauthorization of each judgeship, to evaluate any changes in all bankruptcy case filings and their effect, if any, on filing fee revenue, and to require the Administrative Office of the Courts to submit a report to the Committee on the Judiciary of the Senate and House of Representatives on bankruptcy case workload, bankruptcy judgeship costs, and filing fee revenue.”
+Pub. L. 112–121, § 4, May 25, 2012, 126 Stat. 349, provided that: “Prior to further reauthorization of any judgeship authorized by this Act [See Short Title of 2012 Amendment note set out under section 1 of this title], the Committee on the Judiciary of the Senate and House of Representatives shall conduct a review of the bankruptcy judgeships authorized by this Act to determine the need, if any, for continued reauthorization of each judgeship, to evaluate any changes in all bankruptcy case filings and their effect, if any, on filing fee revenue, and to require the Administrative Office of the Courts to submit a report to the Committee on the Judiciary of the Senate and House of Representatives on bankruptcy case workload, bankruptcy judgeship costs, and filing fee revenue.”
 
 **Temporary Appointment of Additional Judges**
 
-Pub. L. 116–325, § 4, Jan. 12, 2021, 134 Stat. 5089, as amended by Pub. L. 119–76, § 5(a), Feb. 6, 2026, 140 Stat. 742, provided that:
+Pub. L. 116–325, § 4, Jan. 12, 2021, 134 Stat. 5089, as amended by Pub. L. 119–76, § 5(a), Feb. 6, 2026, 140 Stat. 742, provided that:
 
 > **“(a) Temporary Office of Bankruptcy Judges Authorized by the Bankruptcy Judgeship Act of 2017.—**
 
@@ -472,7 +472,7 @@ Pub. L. 116–325, § 4, Jan. 12, 2021, 134 Stat. 5089, as amended by Pub. L. 
 
 > **“(3) Applicability of other provisions.—** Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) and section 2 of the Temporary Bankruptcy Judgeships Extension Act of 2012 (28 U.S.C. 152 note) (28 U.S.C. 152 note) remain applicable to the temporary office of bankruptcy judge referred to in paragraph (1).”
 
-Pub. L. 115–72, div. B, § 1002, Oct. 26, 2017, 131 Stat. 1229, provided that:
+Pub. L. 115–72, div. B, § 1002, Oct. 26, 2017, 131 Stat. 1229, provided that:
 
 > **“(a) Temporary Office of Bankruptcy Judges Authorized by the Bankruptcy Judgeship Act of 2005.—**
 
@@ -558,7 +558,7 @@ Pub. L. 115–72, div. B, § 1002, Oct. 26, 2017, 131 Stat. 1229, provided tha
 
 > **“(3) Applicability of other provisions.—** Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note), subsection (c) of the Bankruptcy Judgeship Act of 2005 (28 U.S.C. 152 note), and section 2 of the Temporary Bankruptcy Judgeships Extension Act of 2012 (28 U.S.C. 152 note) remain applicable to the temporary office of bankruptcy judges referred to in paragraph (1).”
 
-Pub. L. 115–72, div. B, § 1003, Oct. 26, 2017, 131 Stat. 1231, as amended by Pub. L. 119–76, § 5(b), Feb. 6, 2026, 140 Stat. 743, provided that:
+Pub. L. 115–72, div. B, § 1003, Oct. 26, 2017, 131 Stat. 1231, as amended by Pub. L. 119–76, § 5(b), Feb. 6, 2026, 140 Stat. 743, provided that:
 
 > **“(a) Appointments.—** The following bankruptcy judges shall be appointed in the manner prescribed in section 152(a)(1) of title 28, United States Code, for the appointment of bankruptcy judges provided for in section 152(a)(2) of that title:
 
@@ -594,7 +594,7 @@ Pub. L. 115–72, div. B, § 1003, Oct. 26, 2017, 131 Stat. 1231, as amended b
 
 > shall not be filled.”
 
-Pub. L. 112–121, § 2, May 25, 2012, 126 Stat. 346, as amended by Pub. L. 115–31, div. E, title III, § 307, May 5, 2017, 131 Stat. 347; Pub. L. 116–159, div. A, § 139, Oct. 1, 2020, 134 Stat. 717, provided that:
+Pub. L. 112–121, § 2, May 25, 2012, 126 Stat. 346, as amended by Pub. L. 115–31, div. E, title III, § 307, May 5, 2017, 131 Stat. 347; Pub. L. 116–159, div. A, § 139, Oct. 1, 2020, 134 Stat. 717, provided that:
 
 > **“(a) Temporary Office of Bankruptcy Judges Authorized by Public Law 109–8.—**
 
@@ -744,7 +744,7 @@ Pub. L. 112–121, § 2, May 25, 2012, 126 Stat. 346, as amended by Pub. L. 11
 
 > **“(3) Applicability of other provisions.—** Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) remain applicable to the temporary office of the bankruptcy judge referred to in paragraph (1).”
 
-Pub. L. 109–8, title XII, § 1223(b), (c), Apr. 20, 2005, 119 Stat. 196, 198, provided that:
+Pub. L. 109–8, title XII, § 1223(b), (c), Apr. 20, 2005, 119 Stat. 196, 198, provided that:
 
 > **“(b) Temporary Judgeships.—**
 
@@ -838,7 +838,7 @@ Pub. L. 109–8, title XII, § 1223(b), (c), Apr. 20, 2005, 119 Stat. 196, 198
 
 > **“(2) Applicability of other provisions.—** All other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) remain applicable to the temporary office of bankruptcy judges referred to in this subsection.”
 
-Pub. L. 102–361, § 3, Aug. 26, 1992, 106 Stat. 965, as amended by Pub. L. 104–317, title III, § 307, Oct. 19, 1996, 110 Stat. 3852, provided that:
+Pub. L. 102–361, § 3, Aug. 26, 1992, 106 Stat. 965, as amended by Pub. L. 104–317, title III, § 307, Oct. 19, 1996, 110 Stat. 3852, provided that:
 
 > **“(a) Appointments.—** The following bankruptcy judges shall be appointed in the manner prescribed in section 152(a)(1) of title 28, United States Code:
 
@@ -870,7 +870,7 @@ Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 718, provided that: “Notwit
 
 **Extension and Termination of Term of Office of Bankruptcy Judge and Part-Time Bankruptcy Judge Serving on July 10, 1984; Practice of Law by Part-Time Bankruptcy Judge**
 
-Pub. L. 98–353, title I, § 106, July 10, 1984, 98 Stat. 342, provided that:
+Pub. L. 98–353, title I, § 106, July 10, 1984, 98 Stat. 342, provided that:
 
 > **“(a)** Notwithstanding section 152 of title 28, United States Code, as added by this Act, the term of office of a bankruptcy judge who is serving on the date of enactment of this Act [July 10, 1984] is extended to and expires four years after the date such bankruptcy judge was last appointed to such office or on October 1, 1986, whichever is later.
 
@@ -882,7 +882,7 @@ Pub. L. 98–353, title I, § 106, July 10, 1984, 98 Stat. 342, provided that:
 
 **Appointment To Fill Vacancies; Nominations; Qualifications**
 
-Pub. L. 98–353, title I, § 120, July 10, 1984, 98 Stat. 344, as amended by Pub. L. 99–554, title I, § 102, Oct. 27, 1986, 100 Stat. 3089; Pub. L. 104–317, title III, § 303, Oct. 19, 1996, 110 Stat. 3852, provided that:
+Pub. L. 98–353, title I, § 120, July 10, 1984, 98 Stat. 344, as amended by Pub. L. 99–554, title I, § 102, Oct. 27, 1986, 100 Stat. 3089; Pub. L. 104–317, title III, § 303, Oct. 19, 1996, 110 Stat. 3852, provided that:
 
 > **“(a)**
 
@@ -910,7 +910,7 @@ Pub. L. 98–353, title I, § 120, July 10, 1984, 98 Stat. 344, as amended by 
 
 > **“(7)** such persons demeanor, character, and personality indicate that they would exhibit judicial temperament if appointed to the position of United States bankruptcy judge.”
 
-## § 153. Salaries; character of service
+## § 153. Salaries; character of service
 
 **(a)** Each bankruptcy judge shall serve on a full-time basis and shall receive as full compensation for his services, a salary at an annual rate that is equal to 92 percent of the salary of a judge of the district court of the United States as determined pursuant to section 135, to be paid at such times as the Judicial Conference of the United States determines.
 
@@ -920,7 +920,7 @@ Pub. L. 98–353, title I, § 120, July 10, 1984, 98 Stat. 344, as amended by 
 
 **(d)** A bankruptcy judge appointed under this chapter shall be exempt from the provisions of subchapter I of chapter 63 of title 5.
 
-(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 338; amended Pub. L. 100–202, § 101(a), [title IV, § 408(a)], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 100–702, title X, § 1003(a)(1), Nov. 19, 1988, 102 Stat. 4665.)
+(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 338; amended Pub. L. 100–202, § 101(a), [title IV, § 408(a)], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 100–702, title X, § 1003(a)(1), Nov. 19, 1988, 102 Stat. 4665.)
 
 **Editorial Notes**
 
@@ -934,11 +934,11 @@ Pub. L. 98–353, title I, § 120, July 10, 1984, 98 Stat. 344, as amended by 
 
 **Effective Date of 1987 Amendment**
 
-Pub. L. 100–202, § 101(a) [title IV, § 408(d)], Dec. 22, 1987, 101 Stat. 1329, 1329–27, provided that: “This section [amending this section, section 634 of this title, and section 356 of Title 2, The Congress] shall become effective October 1, 1988, and any salary affected by the provisions of this section shall be adjusted at the beginning of the first applicable pay period commencing on or after such date of enactment [probably should read “such date”, meaning Oct. 1, 1988].”
+Pub. L. 100–202, § 101(a) [title IV, § 408(d)], Dec. 22, 1987, 101 Stat. 1329, 1329–27, provided that: “This section [amending this section, section 634 of this title, and section 356 of Title 2, The Congress] shall become effective October 1, 1988, and any salary affected by the provisions of this section shall be adjusted at the beginning of the first applicable pay period commencing on or after such date of enactment [probably should read “such date”, meaning Oct. 1, 1988].”
 
 **Transition Provisions**
 
-Pub. L. 100–702, title X, § 1003(b), Nov. 19, 1988, 102 Stat. 4665, provided that:
+Pub. L. 100–702, title X, § 1003(b), Nov. 19, 1988, 102 Stat. 4665, provided that:
 
 > **“(1)** If an individual who is exempted from the Leave Act by operation of amendments under this section [amending this section and sections 156, 631, 634, 712, 752, and 794 of this title] and who was previously subject to the provisions of subchapter I of chapter 63 of title 5, United States Code, without a break in service, again becomes subject to this subchapter on completion of his service as an exempted officer, the unused annual leave and sick leave standing to his credit when he was exempted from this subchapter is deemed to have remained to his credit.
 
@@ -946,7 +946,7 @@ Pub. L. 100–702, title X, § 1003(b), Nov. 19, 1988, 102 Stat. 4665, provide
 
 **Continuation of Salaries of Bankruptcy Judges in Effect on June 27, 1984**
 
-Pub. L. 98–353, title I, § 105(a), July 10, 1984, 98 Stat. 342, provided that: “The salary of a bankruptcy judge in effect on June 27, 1984, shall remain in effect until changed as a result of a determination or adjustment made pursuant to section 153(a) of title 28, United States Code, as added by this Act.”
+Pub. L. 98–353, title I, § 105(a), July 10, 1984, 98 Stat. 342, provided that: “The salary of a bankruptcy judge in effect on June 27, 1984, shall remain in effect until changed as a result of a determination or adjustment made pursuant to section 153(a) of title 28, United States Code, as added by this Act.”
 
 **Part-Time Bankruptcy Judges**
 
@@ -968,7 +968,7 @@ Salaries of bankruptcy judges increased to $70,500 effective on first day of fir
 
 1982—Salaries of bankruptcy judges and referees in bankruptcy (full-time), or referees in bankruptcy (part-time) (maximum rate) increased to $63,600 and $31,800, respectively, effective on first day of first pay period beginning on or after Oct. 1, 1982, by Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12387 further provided that pursuant to section 101(e) of Pub. L. 97–276 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1982, which was $58,500 for bankruptcy judges and referees in bankruptcy (full-time), and $30,600 for referees in bankruptcy (part-time) (maximum rate).
 
-Maximum rate payable to bankruptcy judges after Dec. 17, 1982, increased from $58,500 to $63,600, see Pub. L. 97–377, title I, § 129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of Title 5.
+Maximum rate payable to bankruptcy judges after Dec. 17, 1982, increased from $58,500 to $63,600, see Pub. L. 97–377, title I, § 129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of Title 5.
 
 1981—Salaries of bankruptcy judges and referees in bankruptcy (full-time), or referees in bankruptcy (part-time) (maximum rate) increased to $61,200 and $30,600, respectively, effective on first day of first pay period beginning on or after Oct. 1, 1981, by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $51,167.50 for bankruptcy judges and referees in bankruptcy (full-time), and $25,583.75 for referees in bankruptcy (part-time) (maximum rate).
 
@@ -978,21 +978,21 @@ For limitations on use of funds for period Oct. 1, 1980 through June 5, 1981, ap
 
 1979—Salaries of bankruptcy judges increased to $53,500 effective on first day of first pay period beginning on or after Oct. 1, 1979, by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12165 further provided that pursuant to Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the applicable rate payable for such position or office in effect on Sept. 30, 1978, which was $51,167.50 for bankruptcy judges.
 
-## § 154. Division of businesses; chief judge
+## § 154. Division of businesses; chief judge
 
 **(a)** Each bankruptcy court for a district having more than one bankruptcy judge shall by majority vote promulgate rules for the division of business among the bankruptcy judges to the extent that the division of business is not otherwise provided for by the rules of the district court.
 
 **(b)** In each district court having more than one bankruptcy judge the district court shall designate one judge to serve as chief judge of such bankruptcy court. Whenever a majority of the judges of such district court cannot agree upon the designation as chief judge, the chief judge of such district court shall make such designation. The chief judge of the bankruptcy court shall ensure that the rules of the bankruptcy court and of the district court are observed and that the business of the bankruptcy court is handled effectively and expeditiously.
 
-(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 339.)
+(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 339.)
 
-## § 155. Temporary transfer of bankruptcy judges
+## § 155. Temporary transfer of bankruptcy judges
 
 **(a)** A bankruptcy judge may be transferred to serve temporarily as a bankruptcy judge in any judicial district other than the judicial district for which such bankruptcy judge was appointed upon the approval of the judicial council of each of the circuits involved.
 
 **(b)** A bankruptcy judge who has retired may, upon consent, be recalled to serve as a bankruptcy judge in any judicial district by the judicial council of the circuit within which such district is located. Upon recall, a bankruptcy judge may receive a salary for such service in accordance with regulations promulgated by the Judicial Conference of the United States, subject to the restrictions on the payment of an annuity in section 377 of this title or in subchapter III of chapter 83, and chapter 84, of title 5 which are applicable to such judge.
 
-(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 339; amended Pub. L. 99–651, title II, § 202(a), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 100–659, § 4(a), Nov. 15, 1988, 102 Stat. 3918.)
+(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 339; amended Pub. L. 99–651, title II, § 202(a), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 100–659, § 4(a), Nov. 15, 1988, 102 Stat. 3918.)
 
 **Editorial Notes**
 
@@ -1010,9 +1010,9 @@ Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankru
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–651, title II, § 203, Nov. 14, 1986, 100 Stat. 3649, provided that: “This title and the amendments made by this title [enacting section 375 of this title and amending this section and sections 374, 631, 633, 636, and 797 of this title] take effect on January 1, 1987.”
+Pub. L. 99–651, title II, § 203, Nov. 14, 1986, 100 Stat. 3649, provided that: “This title and the amendments made by this title [enacting section 375 of this title and amending this section and sections 374, 631, 633, 636, and 797 of this title] take effect on January 1, 1987.”
 
-## § 156. Staff; expenses
+## § 156. Staff; expenses
 
 **(a)** Each bankruptcy judge may appoint a secretary, a law clerk, and such additional assistants as the Director of the Administrative Office of the United States Courts determines to be necessary. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
 
@@ -1026,7 +1026,7 @@ Pub. L. 99–651, title II, § 203, Nov. 14, 1986, 100 Stat. 3649, provided th
 
 **(f)** For purposes of financial accountability in a district where a bankruptcy clerk has been certified, such clerk shall be accountable for and pay into the Treasury all fees, costs, and other monies collected by such clerk except uncollected fees not required by an Act of Congress to be prepaid. Such clerk shall make returns thereof to the Director of the Administrative Office of the United States Courts and the Director of the Executive Office For United States Trustees, under regulations prescribed by such Directors.
 
-(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 339; amended Pub. L. 99–554, title I, §§ 103, 142, 144(a), Oct. 27, 1986, 100 Stat. 3090, 3096; Pub. L. 100–702, title X, § 1003(a)(3), Nov. 19, 1988, 102 Stat. 4665.)
+(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 339; amended Pub. L. 99–554, title I, §§ 103, 142, 144(a), Oct. 27, 1986, 100 Stat. 3090, 3096; Pub. L. 100–702, title X, § 1003(a)(3), Nov. 19, 1988, 102 Stat. 4665.)
 
 **Editorial Notes**
 
@@ -1034,9 +1034,9 @@ Pub. L. 99–651, title II, § 203, Nov. 14, 1986, 100 Stat. 3649, provided th
 
 1988—Subsec. (a). Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
 
-1986—Subsec. (d). Pub. L. 99–554, § 103, added subsec. (d).
+1986—Subsec. (d). Pub. L. 99–554, § 103, added subsec. (d).
 
-Subsecs. (e), (f). Pub. L. 99–554, §§ 142, 144(a), added subsecs. (e) and (f).
+Subsecs. (e), (f). Pub. L. 99–554, §§ 142, 144(a), added subsecs. (e) and (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1044,7 +1044,7 @@ Subsecs. (e), (f). Pub. L. 99–554, §§ 142, 144(a), added subsecs. (e) and 
 
 Amendment by section 103 of Pub. L. 99–554 effective Oct. 27, 1986, and amendment by sections 142 and 144 of Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a), (b) of Pub. L. 99–554, set out as a note under section 581 of this title.
 
-## § 157. Procedures
+## § 157. Procedures
 
 **(a)** Each district court may provide that any or all cases under title 11 and any or all proceedings arising under title 11 or arising in or related to a case under title 11 shall be referred to the bankruptcy judges for the district.
 
@@ -1102,7 +1102,7 @@ Amendment by section 103 of Pub. L. 99–554 effective Oct. 27, 1986, and amendm
 
 **(e)** If the right to a jury trial applies in a proceeding that may be heard under this section by a bankruptcy judge, the bankruptcy judge may conduct the jury trial if specially designated to exercise such jurisdiction by the district court and with the express consent of all the parties.
 
-(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 340; amended Pub. L. 99–554, title I, §§ 143, 144(b), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 103–394, title I, § 112, Oct. 22, 1994, 108 Stat. 4117; Pub. L. 109–8, title VIII, § 802(c)(1), Apr. 20, 2005, 119 Stat. 145.)
+(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 340; amended Pub. L. 99–554, title I, §§ 143, 144(b), Oct. 27, 1986, 100 Stat. 3096; Pub. L. 103–394, title I, § 112, Oct. 22, 1994, 108 Stat. 4117; Pub. L. 109–8, title VIII, § 802(c)(1), Apr. 20, 2005, 119 Stat. 145.)
 
 **Editorial Notes**
 
@@ -1128,11 +1128,11 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of this title.
 
-## § 158. Appeals
+## § 158. Appeals
 
-**(a)** The district courts of the United States shall have jurisdiction to hear appeals 1
+**(a)** The district courts of the United States shall have jurisdiction to hear appeals 1
 
-<sup>1</sup>  So in original. Probably should be followed by a dash.
+<sup>1</sup> So in original. Probably should be followed by a dash.
 
 **(1)** from final judgments, orders, and decrees;
 
@@ -1212,7 +1212,7 @@ then the bankruptcy court, the district court, or the bankruptcy appellate panel
 
 **(E)** Any request under subparagraph (B) for certification shall be made not later than 60 days after the entry of the judgment, order, or decree.
 
-(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 341; amended Pub. L. 101–650, title III, § 305, Dec. 1, 1990, 104 Stat. 5105; Pub. L. 103–394, title I, §§ 102, 104(c), (d), Oct. 22, 1994, 108 Stat. 4108–4110; Pub. L. 109–8, title XII, § 1233(a), Apr. 20, 2005, 119 Stat. 202; Pub. L. 111–327, § 2(c)(1), Dec. 22, 2010, 124 Stat. 3562.)
+(Added Pub. L. 98–353, title I, § 104(a), July 10, 1984, 98 Stat. 341; amended Pub. L. 101–650, title III, § 305, Dec. 1, 1990, 104 Stat. 5105; Pub. L. 103–394, title I, §§ 102, 104(c), (d), Oct. 22, 1994, 108 Stat. 4108–4110; Pub. L. 109–8, title XII, § 1233(a), Apr. 20, 2005, 119 Stat. 202; Pub. L. 111–327, § 2(c)(1), Dec. 22, 2010, 124 Stat. 3562.)
 
 **Editorial Notes**
 
@@ -1224,23 +1224,23 @@ The Bankruptcy Rules, referred to in subsec. (c)(2), are set out in the Appendix
 
 2010—Subsec. (d)(2)(D). Pub. L. 111–327 substituted “appeal is pending” for “appeal in pending”.
 
-2005—Subsec. (c)(1). Pub. L. 109–8, § 1233(a)(1), substituted “Subject to subsections (b) and (d)(2),” for “Subject to subsection (b),”.
+2005—Subsec. (c)(1). Pub. L. 109–8, § 1233(a)(1), substituted “Subject to subsections (b) and (d)(2),” for “Subject to subsection (b),”.
 
-Subsec. (d). Pub. L. 109–8, § 1233(a)(2), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 109–8, § 1233(a)(2), designated existing provisions as par. (1) and added par. (2).
 
-1994—Subsec. (a). Pub. L. 103–394, § 102, which directed the amendment of subsec. (a) by striking “from” the first place it appears and all that follows through “decrees,” and inserting pars. (1) to (3), was executed by making the insertion and by striking after “appeals” “from final judgments, orders, and decrees, and, with leave of the court, from interlocutory orders and decrees,”, which is through “decrees,” the second place appearing, to reflect the probable intent of Congress.
+1994—Subsec. (a). Pub. L. 103–394, § 102, which directed the amendment of subsec. (a) by striking “from” the first place it appears and all that follows through “decrees,” and inserting pars. (1) to (3), was executed by making the insertion and by striking after “appeals” “from final judgments, orders, and decrees, and, with leave of the court, from interlocutory orders and decrees,”, which is through “decrees,” the second place appearing, to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 103–394, § 104(c)(3), added par. (1) and struck out former par. (1) which read as follows: “The judicial council of a circuit may establish a bankruptcy appellate panel, comprised of bankruptcy judges from districts within the circuit, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section.”
+Subsec. (b)(1). Pub. L. 103–394, § 104(c)(3), added par. (1) and struck out former par. (1) which read as follows: “The judicial council of a circuit may establish a bankruptcy appellate panel, comprised of bankruptcy judges from districts within the circuit, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section.”
 
-Subsec. (b)(2). Pub. L. 103–394, § 104(c)(3), added par. (2). Former par. (2) redesignated (4).
+Subsec. (b)(2). Pub. L. 103–394, § 104(c)(3), added par. (2). Former par. (2) redesignated (4).
 
-Subsec. (b)(3). Pub. L. 103–394, § 104(c)(1), (3), added par. (3) and struck out former par. (3) which read as follows: “No appeal may be referred to a panel under this subsection unless the district judges for the district, by majority vote, authorize such referral of appeals originating within the district.”
+Subsec. (b)(3). Pub. L. 103–394, § 104(c)(1), (3), added par. (3) and struck out former par. (3) which read as follows: “No appeal may be referred to a panel under this subsection unless the district judges for the district, by majority vote, authorize such referral of appeals originating within the district.”
 
-Subsec. (b)(4). Pub. L. 103–394, § 104(c)(1), (2), redesignated par. (2) as (4) and struck out former par. (4) which read as follows: “A panel established under this section shall consist of three bankruptcy judges, provided a bankruptcy judge may not hear an appeal originating within a district for which the judge is appointed or designated under section 152 of this title.”
+Subsec. (b)(4). Pub. L. 103–394, § 104(c)(1), (2), redesignated par. (2) as (4) and struck out former par. (4) which read as follows: “A panel established under this section shall consist of three bankruptcy judges, provided a bankruptcy judge may not hear an appeal originating within a district for which the judge is appointed or designated under section 152 of this title.”
 
-Subsec. (b)(5), (6). Pub. L. 103–394, § 104(c)(4), added pars. (5) and (6).
+Subsec. (b)(5), (6). Pub. L. 103–394, § 104(c)(4), added pars. (5) and (6).
 
-Subsec. (c). Pub. L. 103–394, § 104(d), designated existing provisions as par. (2) and added par. (1).
+Subsec. (c). Pub. L. 103–394, § 104(d), designated existing provisions as par. (2) and added par. (1).
 
 1990—Subsec. (b)(2) to (4). Pub. L. 101–650 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -1256,7 +1256,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 **Procedural Rules**
 
-Pub. L. 109–8, title XII, § 1233(b), Apr. 20, 2005, 119 Stat. 203, provided that:
+Pub. L. 109–8, title XII, § 1233(b), Apr. 20, 2005, 119 Stat. 203, provided that:
 
 > **“(1) Temporary application.—** A provision of this subsection shall apply to appeals under section 158(d)(2) of title 28, United States Code, until a rule of practice and procedure relating to such provision and such appeals is promulgated or amended under chapter 131 of such title.
 
@@ -1282,7 +1282,7 @@ Pub. L. 109–8, title XII, § 1233(b), Apr. 20, 2005, 119 Stat. 203, provided
 
 > **“(6) Application of rules.—** The Federal Rules of Appellate Procedure shall apply in the courts of appeals with respect to appeals authorized under section 158(d)(2)(A), to the extent relevant and as if such appeals were taken from final judgments, orders, or decrees of the district courts or bankruptcy appellate panels exercising appellate jurisdiction under subsection (a) or (b) of section 158 of title 28, United States Code.”
 
-## § 159. Bankruptcy statistics
+## § 159. Bankruptcy statistics
 
 **(a)** The clerk of the district court, or the clerk of the bankruptcy court if one is certified pursuant to section 156(b) of this title, shall collect statistics regarding debtors who are individuals with primarily consumer debts seeking relief under chapters 7, 11, and 13 of title 11. Those statistics shall be in a standardized format prescribed by the Director of the Administrative Office of the United States Courts (referred to in this section as the “Director”).
 
@@ -1338,7 +1338,7 @@ Pub. L. 109–8, title XII, § 1233(b), Apr. 20, 2005, 119 Stat. 203, provided
 
 **(H)** the number of cases in which sanctions under rule 9011 of the Federal Rules of Bankruptcy Procedure were imposed against the debtor’s attorney or damages awarded under such Rule.
 
-(Added Pub. L. 109–8, title VI, § 601(a), Apr. 20, 2005, 119 Stat. 119; amended Pub. L. 111–327, § 2(c)(2), Dec. 22, 2010, 124 Stat. 3563.)
+(Added Pub. L. 109–8, title VI, § 601(a), Apr. 20, 2005, 119 Stat. 119; amended Pub. L. 111–327, § 2(c)(2), Dec. 22, 2010, 124 Stat. 3563.)
 
 **Editorial Notes**
 
@@ -1354,4 +1354,4 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (c)(3)(H), are
 
 **Effective Date**
 
-Pub. L. 109–8, title VI, § 601(c), Apr. 20, 2005, 119 Stat. 120, provided that: “The amendments made by this section [enacting this section] shall take effect 18 months after the date of enactment of this Act [Apr. 20, 2005].”
+Pub. L. 109–8, title VI, § 601(c), Apr. 20, 2005, 119 Stat. 120, provided that: “The amendments made by this section [enacting this section] shall take effect 18 months after the date of enactment of this Act [Apr. 20, 2005].”

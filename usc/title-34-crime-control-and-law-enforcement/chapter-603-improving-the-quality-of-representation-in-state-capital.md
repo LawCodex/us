@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 603—IMPROVING THE QUALITY OF REPRESENTATION IN STATE CAPITAL CASES
 
-## § 60301. Capital representation improvement grants
+## § 60301. Capital representation improvement grants
 
 **(a) In general**
 
@@ -95,7 +95,7 @@ The Attorney General may waive the requirement under this subsection for good ca
 
 **(IV)** Attorney and non-attorney members of the defense team shall be reimbursed for reasonable incidental expenses.
 
-(Pub. L. 108–405, title IV, § 421, Oct. 30, 2004, 118 Stat. 2286.)
+(Pub. L. 108–405, title IV, § 421, Oct. 30, 2004, 118 Stat. 2286.)
 
 **Editorial Notes**
 
@@ -103,7 +103,7 @@ The Attorney General may waive the requirement under this subsection for good ca
 
 Section was formerly classified to section 14163 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 60302. Capital prosecution improvement grants
+## § 60302. Capital prosecution improvement grants
 
 **(a) In general**
 
@@ -129,7 +129,7 @@ The Attorney General shall award grants to States for the purpose of enhancing t
 
 Grants awarded under subsection (a) shall not be used to fund, directly or indirectly, the prosecution of specific capital cases.
 
-(Pub. L. 108–405, title IV, § 422, Oct. 30, 2004, 118 Stat. 2288.)
+(Pub. L. 108–405, title IV, § 422, Oct. 30, 2004, 118 Stat. 2288.)
 
 **Editorial Notes**
 
@@ -137,7 +137,7 @@ Grants awarded under subsection (a) shall not be used to fund, directly or indir
 
 Section was formerly classified to section 14163a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 60303. Applications
+## § 60303. Applications
 
 **(a) In general**
 
@@ -169,7 +169,7 @@ A State desiring a grant under this chapter shall submit an application to the A
 
 **(ii)** allocated in accordance with section 60306(b) of this title.
 
-(Pub. L. 108–405, title IV, § 423, Oct. 30, 2004, 118 Stat. 2288.)
+(Pub. L. 108–405, title IV, § 423, Oct. 30, 2004, 118 Stat. 2288.)
 
 **Editorial Notes**
 
@@ -177,7 +177,7 @@ A State desiring a grant under this chapter shall submit an application to the A
 
 Section was formerly classified to section 14163b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 60304. State reports
+## § 60304. State reports
 
 **(a) In general** Each State receiving funds under this chapter shall submit an annual report to the Attorney General that—
 
@@ -243,7 +243,7 @@ Section was formerly classified to section 14163b of Title 42, The Public Health
 
 The annual reports to the Attorney General submitted by any State under this section shall be made available to the public.
 
-(Pub. L. 108–405, title IV, § 424, Oct. 30, 2004, 118 Stat. 2289.)
+(Pub. L. 108–405, title IV, § 424, Oct. 30, 2004, 118 Stat. 2289.)
 
 **Editorial Notes**
 
@@ -251,7 +251,7 @@ The annual reports to the Attorney General submitted by any State under this sec
 
 Section was formerly classified to section 14163c of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 60305. Evaluations by Inspector General and administrative remedies
+## § 60305. Evaluations by Inspector General and administrative remedies
 
 **(a) Evaluation by Inspector General**
 
@@ -309,7 +309,7 @@ In the case of a State that employs a statutory procedure described in section 6
 
 The requirements of this subsection apply in addition to, and not instead of, the other requirements of this section.
 
-(Pub. L. 108–405, title IV, § 425, Oct. 30, 2004, 118 Stat. 2291.)
+(Pub. L. 108–405, title IV, § 425, Oct. 30, 2004, 118 Stat. 2291.)
 
 **Editorial Notes**
 
@@ -317,11 +317,11 @@ The requirements of this subsection apply in addition to, and not instead of, th
 
 Section was formerly classified to section 14163d of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 60306. Authorization of appropriations
+## § 60306. Authorization of appropriations
 
-**(a) Authorization for grants** There are authorized to be appropriated 1
+**(a) Authorization for grants** There are authorized to be appropriated 1
 
-<sup>1</sup>  So in original. Probably should be followed by a dash.
+<sup>1</sup> So in original. Probably should be followed by a dash.
 
 **(1)** $2,500,000 for fiscal year 2017;
 
@@ -333,7 +333,7 @@ Section was formerly classified to section 14163d of Title 42, The Public Health
 
 **(5)** $22,500,000 for fiscal year 2021.2
 
-<sup>2</sup>  So in original.
+<sup>2</sup> So in original.
 
 to carry out this chapter.
 
@@ -341,7 +341,7 @@ to carry out this chapter.
 
 Each State receiving a grant under this chapter shall allocate the funds equally between the uses described in section 60301 of this title and the uses described in section 60302 of this title, except as provided in section 60305(f) of this title, or upon a showing of good cause, and at the discretion of the Attorney General, the State may determine a fair allocation of funds across the uses described in sections 60301 and 60302 of this title.
 
-(Pub. L. 108–405, title IV, § 426, Oct. 30, 2004, 118 Stat. 2292; Pub. L. 114–324, § 10, Dec. 16, 2016, 130 Stat. 1956.)
+(Pub. L. 108–405, title IV, § 426, Oct. 30, 2004, 118 Stat. 2292; Pub. L. 114–324, § 10, Dec. 16, 2016, 130 Stat. 1956.)
 
 **Editorial Notes**
 
@@ -351,6 +351,6 @@ Section was formerly classified to section 14163e of Title 42, The Public Health
 
 **Amendments**
 
-2016—Subsec. (a). Pub. L. 114–324, § 10(1), which directed substitution of pars. (1) to (5) for “$75,000,000 for each of fiscal years 2005 through 2009”, was executed by making the substitution and setting out the remaining phrase “to carry out this part.”, which was not directed to be struck out, as concluding provisions.
+2016—Subsec. (a). Pub. L. 114–324, § 10(1), which directed substitution of pars. (1) to (5) for “$75,000,000 for each of fiscal years 2005 through 2009”, was executed by making the substitution and setting out the remaining phrase “to carry out this part.”, which was not directed to be struck out, as concluding provisions.
 
-Subsec. (b). Pub. L. 114–324, § 10(2), inserted before period at end “, or upon a showing of good cause, and at the discretion of the Attorney General, the State may determine a fair allocation of funds across the uses described in sections 14163 and 14163a of this title”.
+Subsec. (b). Pub. L. 114–324, § 10(2), inserted before period at end “, or upon a showing of good cause, and at the discretion of the Attorney General, the State may determine a fair allocation of funds across the uses described in sections 14163 and 14163a of this title”.

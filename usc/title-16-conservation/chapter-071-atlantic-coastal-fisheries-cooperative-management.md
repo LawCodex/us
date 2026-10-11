@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 71—ATLANTIC COASTAL FISHERIES COOPERATIVE MANAGEMENT
 
-## § 5101. Findings and purpose
+## § 5101. Findings and purpose
 
 **(a) Findings** The Congress finds the following:
 
@@ -35,7 +35,7 @@ retrieved: 2026-10-11
 
 The purpose of this chapter is to support and encourage the development, implementation, and enforcement of effective interstate conservation and management of Atlantic coastal fishery resources.
 
-(Pub. L. 103–206, title VIII, § 802, Dec. 20, 1993, 107 Stat. 2447; Pub. L. 106–555, title I, § 122(b)(1)(A), Dec. 21, 2000, 114 Stat. 2766.)
+(Pub. L. 103–206, title VIII, § 802, Dec. 20, 1993, 107 Stat. 2447; Pub. L. 106–555, title I, § 122(b)(1)(A), Dec. 21, 2000, 114 Stat. 2766.)
 
 **Editorial Notes**
 
@@ -51,13 +51,13 @@ This chapter, referred to in subsec. (b), was in the original “this title”, 
 
 **Short Title of 2000 Amendment**
 
-Pub. L. 106–555, title I, § 121, Dec. 21, 2000, 114 Stat. 2766, provided that: “This subtitle [subtitle B (§§ 121, 122) of title I of Pub. L. 106–555, amending this section and sections 5102, 5103, 5106, and 5107a to 5108 of this title and enacting provisions set out as a note under section 5107 of this title] may be cited as the ‘Atlantic Coastal Fisheries Act of 2000’.”
+Pub. L. 106–555, title I, § 121, Dec. 21, 2000, 114 Stat. 2766, provided that: “This subtitle [subtitle B (§§ 121, 122) of title I of Pub. L. 106–555, amending this section and sections 5102, 5103, 5106, and 5107a to 5108 of this title and enacting provisions set out as a note under section 5107 of this title] may be cited as the ‘Atlantic Coastal Fisheries Act of 2000’.”
 
 **Short Title**
 
-Pub. L. 103–206, title VIII, § 801, Dec. 20, 1993, 107 Stat. 2447, provided that: “This title [enacting this chapter and amending section 4107 of this title and provisions set out as a note under section 1851 of this title] may be cited as the ‘Atlantic Coastal Fisheries Cooperative Management Act’.”
+Pub. L. 103–206, title VIII, § 801, Dec. 20, 1993, 107 Stat. 2447, provided that: “This title [enacting this chapter and amending section 4107 of this title and provisions set out as a note under section 1851 of this title] may be cited as the ‘Atlantic Coastal Fisheries Cooperative Management Act’.”
 
-## § 5102. Definitions
+## § 5102. Definitions
 
 In this chapter, the following definitions apply:
 
@@ -105,7 +105,7 @@ Such term does not include any scientific research activity or the catching, tak
 
 **(13)** The term “State” means Maine, New Hampshire, Massachusetts, Rhode Island, Connecticut, New York, New Jersey, Pennsylvania, Delaware, Maryland, Virginia, North Carolina, South Carolina, Georgia, Florida, the District of Columbia, or the Potomac River Fisheries Commission.
 
-(Pub. L. 103–206, title VIII, § 803, Dec. 20, 1993, 107 Stat. 2448; Pub. L. 104–297, title IV, § 404(a), Oct. 11, 1996, 110 Stat. 3619; Pub. L. 106–555, title I, § 122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
+(Pub. L. 103–206, title VIII, § 803, Dec. 20, 1993, 107 Stat. 2448; Pub. L. 104–297, title IV, § 404(a), Oct. 11, 1996, 110 Stat. 3619; Pub. L. 106–555, title I, § 122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
 
 **Editorial Notes**
 
@@ -129,7 +129,7 @@ Proclamation Number 5030, referred to in par. (6), is set out as a note under se
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-## § 5103. State-Federal cooperation in Atlantic coastal fishery management
+## § 5103. State-Federal cooperation in Atlantic coastal fishery management
 
 **(a) Federal support for State coastal fisheries programs**
 
@@ -147,13 +147,13 @@ The regulations may include measures recommended by the Commission to the Secret
 
 **(2)** The provisions of sections 307, 308, 309, 310, and 311 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857, 1858, 1859, 1860, and 1861) regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement shall apply with respect to regulations issued under this subsection as if such regulations were issued under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
-(Pub. L. 103–206, title VIII, § 804, Dec. 20, 1993, 107 Stat. 2449; Pub. L. 104–297, title IV, § 404(b), Oct. 11, 1996, 110 Stat. 3619; Pub. L. 106–555, title I, § 122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
+(Pub. L. 103–206, title VIII, § 804, Dec. 20, 1993, 107 Stat. 2449; Pub. L. 104–297, title IV, § 404(b), Oct. 11, 1996, 110 Stat. 3619; Pub. L. 106–555, title I, § 122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Amendments**
 
@@ -161,7 +161,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 1996—Subsec. (b)(1)(A). Pub. L. 104–297 substituted “compatible with” for “necessary to support”.
 
-## § 5104. State implementation of coastal fishery management plans
+## § 5104. State implementation of coastal fishery management plans
 
 **(a) Coastal fishery management plans**
 
@@ -183,9 +183,9 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 The Commission shall, at least annually, review each State’s implementation and enforcement of coastal fishery management plans for the purpose of determining whether such State is effectively implementing and enforcing each such plan. Upon completion of such reviews, the Commission shall report the results of the reviews to the Secretaries.
 
-(Pub. L. 103–206, title VIII, § 805, Dec. 20, 1993, 107 Stat. 2450.)
+(Pub. L. 103–206, title VIII, § 805, Dec. 20, 1993, 107 Stat. 2450.)
 
-## § 5105. State noncompliance with coastal fishery management plans
+## § 5105. State noncompliance with coastal fishery management plans
 
 **(a) Noncompliance determination**
 
@@ -199,9 +199,9 @@ Upon making any determination under subsection (a), the Commission shall within 
 
 After making a determination under subsection (a), the Commission shall continue to monitor State implementation and enforcement. Upon finding that a State has complied with the actions required under subsection (b), the Commission shall immediately withdraw its determination of noncompliance. The Commission shall promptly notify the Secretaries of such withdrawal.
 
-(Pub. L. 103–206, title VIII, § 806, Dec. 20, 1993, 107 Stat. 2451.)
+(Pub. L. 103–206, title VIII, § 806, Dec. 20, 1993, 107 Stat. 2451.)
 
-## § 5106. Secretarial action
+## § 5106. Secretarial action
 
 **(a) Secretarial review of Commission determination of noncompliance** Within 30 days after receiving a notification from the Commission under section 5105(b) of this title and after review of the Commission’s determination of noncompliance, the Secretary shall make a finding on—
 
@@ -269,13 +269,13 @@ After making a determination under subsection (a), the Commission shall continue
 
 A person authorized by the Secretary or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (c) of this section that an officer authorized by the Secretary under section 311(b) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861(b)) may take to enforce that Act [16 U.S.C. 1801 et seq.]. The Secretary may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
 
-(Pub. L. 103–206, title VIII, § 807, Dec. 20, 1993, 107 Stat. 2451; Pub. L. 106–555, title I, § 122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
+(Pub. L. 103–206, title VIII, § 807, Dec. 20, 1993, 107 Stat. 2451; Pub. L. 106–555, title I, § 122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (h), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (h), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Amendments**
 
@@ -287,7 +287,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-## § 5107. Financial assistance
+## § 5107. Financial assistance
 
 The Secretary and the Secretary of the Interior may provide financial assistance to the Commission and to the States to carry out their respective responsibilities under this chapter, including—
 
@@ -295,19 +295,19 @@ The Secretary and the Secretary of the Interior may provide financial assistance
 
 **(2)** State activities that are specifically required within such plans.
 
-(Pub. L. 103–206, title VIII, § 808, Dec. 20, 1993, 107 Stat. 2453.)
+(Pub. L. 103–206, title VIII, § 808, Dec. 20, 1993, 107 Stat. 2453.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Reports**
 
-Pub. L. 106–555, title I, § 122(c), Dec. 21, 2000, 114 Stat. 2766, provided that:
+Pub. L. 106–555, title I, § 122(c), Dec. 21, 2000, 114 Stat. 2766, provided that:
 
-> **“(1) Annual report to the Secretary.—** The Secretary shall require, as a condition of providing financial assistance under this subtitle [subtitle B (§§ 121, 122) of title I of Pub. L. 106–555, amending sections 5101 to 5103, 5106, and 5107a to 5108 of this title and enacting provisions set out as a note under section 5101 of this title], that the Commission and each State receiving such assistance submit to the Secretary an annual report that provides a detailed accounting of the use of the assistance.
+> **“(1) Annual report to the Secretary.—** The Secretary shall require, as a condition of providing financial assistance under this subtitle [subtitle B (§§ 121, 122) of title I of Pub. L. 106–555, amending sections 5101 to 5103, 5106, and 5107a to 5108 of this title and enacting provisions set out as a note under section 5101 of this title], that the Commission and each State receiving such assistance submit to the Secretary an annual report that provides a detailed accounting of the use of the assistance.
 
 > **“(2) Biennial reports to the Congress.—** The Secretary shall submit biennial reports to the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the use of Federal assistance provided to the Commission and the States under this subtitle. Each biennial report shall evaluate the success of such assistance in implementing this subtitle.”
 
-## § 5107a. State permits valid in certain waters
+## § 5107a. State permits valid in certain waters
 
 **(a) Permits** Notwithstanding any provision of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), this chapter, or any requirement of a fishery management plan or coastal fishery management plan to the contrary, a person holding a valid license issued by the State of Maine which lawfully permits that person to engage in commercial fishing for American lobster may, with the approval of the State of Maine, engage in commercial fishing for American lobster in the following areas designated as Federal waters, if such fishing is conducted in such waters in accordance with all other applicable Federal and State regulations:
 
@@ -323,13 +323,13 @@ Pub. L. 106–555, title I, § 122(c), Dec. 21, 2000, 114 Stat. 2766, provided
 
 The exemption from Federal fishery permitting requirements granted by subsection (a) may be revoked or suspended by the Secretary in accordance with section 308(g) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1858(g)) for violations of such Act or this chapter.
 
-(Pub. L. 103–206, title VIII, § 809, as added Pub. L. 104–297, title IV, § 404(c), Oct. 11, 1996, 110 Stat. 3619; amended Pub. L. 106–555, title I, § 122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
+(Pub. L. 103–206, title VIII, § 809, as added Pub. L. 104–297, title IV, § 404(c), Oct. 11, 1996, 110 Stat. 3619; amended Pub. L. 106–555, title I, § 122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in text, is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in text, is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to this chapter. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
@@ -341,7 +341,7 @@ A prior section 809 of Pub. L. 103–206 was renumbered section 811, and is clas
 
 2000—Subsecs. (a), (b). Pub. L. 106–555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-## § 5107b. Transition to management of American lobster fishery by Commission
+## § 5107b. Transition to management of American lobster fishery by Commission
 
 **(a) Temporary limits** Notwithstanding any other provision of this chapter or of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), if no regulations have been issued under section 5103(b) of this title by December 31, 1997, to implement a coastal fishery management plan for American lobster, then the Secretary shall issue interim regulations before March 1, 1998, that will prohibit any vessel that takes lobsters in the exclusive economic zone by a method other than pots or traps from landing lobsters (or any parts thereof) at any location within the United States in excess of—
 
@@ -357,7 +357,7 @@ Before January 1, 1998, the Secretary shall monitor, on a timely basis, landings
 
 Regulations issued under subsection (a) or (b) shall remain in effect until the Secretary implements regulations under section 5103(b) of this title to implement a coastal fishery management plan for American lobster.
 
-(Pub. L. 103–206, title VIII, § 810, as added Pub. L. 104–297, title IV, § 404(c), Oct. 11, 1996, 110 Stat. 3620; amended Pub. L. 106–555, title I, § 122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
+(Pub. L. 103–206, title VIII, § 810, as added Pub. L. 104–297, title IV, § 404(c), Oct. 11, 1996, 110 Stat. 3620; amended Pub. L. 106–555, title I, § 122(b)(3), Dec. 21, 2000, 114 Stat. 2766.)
 
 **Editorial Notes**
 
@@ -365,7 +365,7 @@ Regulations issued under subsection (a) or (b) shall remain in effect until the 
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to this chapter. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 **Prior Provisions**
 
@@ -375,7 +375,7 @@ A prior section 810 of Pub. L. 103–206, which repealed section 9 of Pub. L. 98
 
 2000—Subsecs. (a), (b). Pub. L. 106–555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
-## § 5108. Authorization of appropriations
+## § 5108. Authorization of appropriations
 
 **(a) In general**
 
@@ -385,16 +385,16 @@ To carry out this chapter, there are authorized to be appropriated $10,000,000 f
 
 Amounts authorized under subsection (a) may be used by the Secretary to support the Commission’s cooperative statistics program.
 
-(Pub. L. 103–206, title VIII, § 811, formerly § 809, Dec. 20, 1993, 107 Stat. 2453; renumbered § 811 and amended Pub. L. 104–297, title IV, § 404(c), (d), Oct. 11, 1996, 110 Stat. 3619, 3620; Pub. L. 106–555, title I, § 122(a), Dec. 21, 2000, 114 Stat. 2766.)
+(Pub. L. 103–206, title VIII, § 811, formerly § 809, Dec. 20, 1993, 107 Stat. 2453; renumbered § 811 and amended Pub. L. 104–297, title IV, § 404(c), (d), Oct. 11, 1996, 110 Stat. 3619, 3620; Pub. L. 106–555, title I, § 122(a), Dec. 21, 2000, 114 Stat. 2766.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-Another section 811 of Pub. L. 103–206 amended section 4107 of this title, prior to repeal by Pub. L. 106–555, title I, § 122(b)(1)(B), Dec. 21, 2000, 114 Stat. 2766.
+Another section 811 of Pub. L. 103–206 amended section 4107 of this title, prior to repeal by Pub. L. 106–555, title I, § 122(b)(1)(B), Dec. 21, 2000, 114 Stat. 2766.
 
 **Amendments**
 
 2000—Pub. L. 106–555 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “To carry out the provisions of this chapter, there are authorized to be appropriated $3,000,000 for fiscal year 1994, $5,000,000 for fiscal year 1995, and $7,000,000 for fiscal year 1996, and $7,000,000 for each of the fiscal years 1997, 1998, 1999, and 2000.”
 
-1996—Pub. L. 104–297, § 404(d), which directed amendment of section 810 of Pub. L. 103–206 by substituting “1996, and $7,000,000 for each of the fiscal years 1997, 1998, 1999, and 2000” for “1996”, was executed to this section to reflect the probable intent of Congress.
+1996—Pub. L. 104–297, § 404(d), which directed amendment of section 810 of Pub. L. 103–206 by substituting “1996, and $7,000,000 for each of the fiscal years 1997, 1998, 1999, and 2000” for “1996”, was executed to this section to reflect the probable intent of Congress.

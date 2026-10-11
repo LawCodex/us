@@ -17,15 +17,15 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—COLLECTION AND ANALYSIS OF SAMPLES
 
-### § 40701. The Debbie Smith DNA Backlog Grant Program
+### § 40701. The Debbie Smith DNA Backlog Grant Program
 
 **(a) Authorization of grants** The Attorney General may make grants to eligible States or units of local government for use by the State or unit of local government for the following purposes:
 
 **(1)** To carry out, for inclusion in the Combined DNA Index System of the Federal Bureau of Investigation, DNA analyses of samples collected under applicable legal authority.
 
-**(2)** To carry out, for inclusion in such Combined DNA Index System, DNA analyses of samples from crime scenes, prioritizing, to the extent practicable consistent with public safety considerations 1
+**(2)** To carry out, for inclusion in such Combined DNA Index System, DNA analyses of samples from crime scenes, prioritizing, to the extent practicable consistent with public safety considerations 1
 
-<sup>1</sup>  So in original. Probably should be followed by a comma.
+<sup>1</sup> So in original. Probably should be followed by a comma.
 
 samples from rape kits, samples from other sexual assault evidence, and samples taken in cases without an identified suspect.
 
@@ -35,7 +35,7 @@ samples from rape kits, samples from other sexual assault evidence, and samples 
 
 **(5)** To ensure that DNA testing and analysis of samples from crimes, including sexual assault and other serious violent crimes, are carried out in a timely manner.
 
-**(6)** Repealed. Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134.
+**(6)** Repealed. Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134.
 
 **(7)** To conduct an audit consistent with subsection (n) of the samples of sexual assault evidence that are in the possession of the State or unit of local government and are awaiting testing.
 
@@ -195,7 +195,7 @@ There are authorized to be appropriated to the Attorney General for grants under
 
 In the event that a laboratory operated by a State or unit of local government which has received funds under this Act has undergone an external audit conducted to determine whether the laboratory is in compliance with standards established by the Director of the Federal Bureau of Investigation, and, as a result of such audit, identifies measures to remedy deficiencies with respect to the compliance by the laboratory with such standards, the State or unit of local government shall implement any such remediation as soon as practicable.
 
-**(n) Repealed. Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134**
+**(n) Repealed. Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134**
 
 **(o) Establishment of protocols, technical assistance, and definitions**
 
@@ -225,13 +225,13 @@ The Director shall make available technical assistance and training to support S
 
 In this subsection, the terms “awaiting testing” and “possession” have the meanings given those terms in subsection (n).
 
-(Pub. L. 106–546, § 2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§ 202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, § 1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, § 2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, § 6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§ 1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, § 2, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 115–107, § 3(a), Jan. 8, 2018, 131 Stat. 2266; Pub. L. 115–257, § 2(a), Oct. 9, 2018, 132 Stat. 3660; Pub. L. 116–104, § 2, Dec. 30, 2019, 133 Stat. 3272; Pub. L. 118–72, §§ 2, 3, July 30, 2024, 138 Stat. 1503.)
+(Pub. L. 106–546, § 2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§ 202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, § 1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, § 2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, § 6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§ 1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, § 2, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 115–107, § 3(a), Jan. 8, 2018, 131 Stat. 2266; Pub. L. 115–257, § 2(a), Oct. 9, 2018, 132 Stat. 3660; Pub. L. 116–104, § 2, Dec. 30, 2019, 133 Stat. 3272; Pub. L. 118–72, §§ 2, 3, July 30, 2024, 138 Stat. 1503.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Subchapter III of this chapter, referred to in subsec. (a)(6), was in the original “the Katie Sepich Enhanced DNA Collection Act of 2012”, meaning Pub. L. 112–253, Jan. 10, 2013, 126 Stat. 2407, which is classified principally to subchapter III (§ 40741 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 2013 Act note set out under section 10101 of this title and Tables.
+Subchapter III of this chapter, referred to in subsec. (a)(6), was in the original “the Katie Sepich Enhanced DNA Collection Act of 2012”, meaning Pub. L. 112–253, Jan. 10, 2013, 126 Stat. 2407, which is classified principally to subchapter III (§ 40741 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 2013 Act note set out under section 10101 of this title and Tables.
 
 This Act, referred to in subsecs. (e)(1), (k)(2)(B), and (m), is Pub. L. 106–546, Dec. 19, 2000, 114 Stat. 2726, known as the DNA Analysis Backlog Elimination Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Act note set out under section 10101 of this title and Tables.
 
@@ -241,57 +241,57 @@ Section was formerly classified to section 14135 of Title 42, The Public Health 
 
 **Amendments**
 
-2024—Subsec. (c)(4). Pub. L. 118–72, § 3, substituted “2029” for “2022”.
+2024—Subsec. (c)(4). Pub. L. 118–72, § 3, substituted “2029” for “2022”.
 
-Subsec. (j). Pub. L. 118–72, § 2, substituted “fiscal years 2024 through 2029” for “fiscal years 2019 through 2024”.
+Subsec. (j). Pub. L. 118–72, § 2, substituted “fiscal years 2024 through 2029” for “fiscal years 2019 through 2024”.
 
-2019—Subsec. (a)(2). Pub. L. 116–104, § 2(1)(A), substituted “prioritizing, to the extent practicable consistent with public safety considerations” for “including”.
+2019—Subsec. (a)(2). Pub. L. 116–104, § 2(1)(A), substituted “prioritizing, to the extent practicable consistent with public safety considerations” for “including”.
 
-Subsec. (a)(8). Pub. L. 116–104, § 2(1)(B), substituted “in particular,” for “including”.
+Subsec. (a)(8). Pub. L. 116–104, § 2(1)(B), substituted “in particular,” for “including”.
 
-Subsec. (b)(8). Pub. L. 116–104, § 2(2), added par. (8).
+Subsec. (b)(8). Pub. L. 116–104, § 2(2), added par. (8).
 
-Subsec. (c)(3)(B). Pub. L. 116–104, § 2(3)(A), substituted “2019 through 2024” for “2014 through 2019”.
+Subsec. (c)(3)(B). Pub. L. 116–104, § 2(3)(A), substituted “2019 through 2024” for “2014 through 2019”.
 
-Subsec. (c)(3)(C). Pub. L. 116–104, § 2(3)(B), substituted “2019 through 2024” for “2014 through 2019”.
+Subsec. (c)(3)(C). Pub. L. 116–104, § 2(3)(B), substituted “2019 through 2024” for “2014 through 2019”.
 
-Subsec. (j). Pub. L. 116–104, § 2(4), substituted “2019 through 2024” for “2015 through 2019”.
+Subsec. (j). Pub. L. 116–104, § 2(4), substituted “2019 through 2024” for “2015 through 2019”.
 
-2018—Subsec. (a)(9). Pub. L. 115–257, § 2(a)(1), added par. (9).
+2018—Subsec. (a)(9). Pub. L. 115–257, § 2(a)(1), added par. (9).
 
 Subsec. (c)(4). Pub. L. 115–107 substituted “2022” for “2017”.
 
-Subsec. (c)(5). Pub. L. 115–257, § 2(a)(2), added par. (5).
+Subsec. (c)(5). Pub. L. 115–257, § 2(a)(2), added par. (5).
 
-2014—Subsec. (c)(3)(B). Pub. L. 113–182, § 2(1)(A), substituted “2014 through 2019” for “2010 through 2018”.
+2014—Subsec. (c)(3)(B). Pub. L. 113–182, § 2(1)(A), substituted “2014 through 2019” for “2010 through 2018”.
 
-Subsec. (c)(3)(C). Pub. L. 113–182, § 2(1)(B), substituted “2019” for “2018”.
+Subsec. (c)(3)(C). Pub. L. 113–182, § 2(1)(B), substituted “2019” for “2018”.
 
-Subsec. (j). Pub. L. 113–182, § 2(2), substituted “2015 through 2019” for “2009 through 2014”.
+Subsec. (j). Pub. L. 113–182, § 2(2), substituted “2015 through 2019” for “2009 through 2014”.
 
-2013—Subsec. (a)(6). Pub. L. 113–4, § 1006, struck out par. (6) which read as follows: “To implement a DNA arrestee collection process consistent with sections 14137 to 14137c of this title.” See Termination Date of 2013 Amendment note below.
+2013—Subsec. (a)(6). Pub. L. 113–4, § 1006, struck out par. (6) which read as follows: “To implement a DNA arrestee collection process consistent with sections 14137 to 14137c of this title.” See Termination Date of 2013 Amendment note below.
 
 Pub. L. 112–253 added par. (6).
 
-Subsec. (a)(7), (8). Pub. L. 113–4, § 1002(1), added pars. (7) and (8).
+Subsec. (a)(7), (8). Pub. L. 113–4, § 1002(1), added pars. (7) and (8).
 
-Subsec. (c)(3)(B). Pub. L. 113–4, § 1004(a), substituted “2018” for “2014”.
+Subsec. (c)(3)(B). Pub. L. 113–4, § 1004(a), substituted “2018” for “2014”.
 
-Subsec. (c)(3)(C). Pub. L. 113–4, § 1004(b), added subpar. (C).
+Subsec. (c)(3)(C). Pub. L. 113–4, § 1004(b), added subpar. (C).
 
-Subsec. (c)(4). Pub. L. 113–4, § 1002(2), added par. (4).
+Subsec. (c)(4). Pub. L. 113–4, § 1002(2), added par. (4).
 
-Subsec. (n).Pub. L. 113–4, § 1006, struck out subsec. (n) which related to use of funds for auditing sexual assault evidence backlogs. See Termination Date of 2013 Amendment note below.
+Subsec. (n).Pub. L. 113–4, § 1006, struck out subsec. (n) which related to use of funds for auditing sexual assault evidence backlogs. See Termination Date of 2013 Amendment note below.
 
-Pub. L. 113–4, § 1002(3), added subsec. (n).
+Pub. L. 113–4, § 1002(3), added subsec. (n).
 
-Subsec. (*o*). Pub. L. 113–4, § 1002(3), added subsec. (*o*).
+Subsec. (*o*). Pub. L. 113–4, § 1002(3), added subsec. (*o*).
 
-2008—Subsec. (c)(3). Pub. L. 110–360, § 2(1)(B), which directed redesignation of subpar. (E) and subpar. (A), was executed by redesignating subpar. (E) as (A), to reflect the probable intent of Congress.
+2008—Subsec. (c)(3). Pub. L. 110–360, § 2(1)(B), which directed redesignation of subpar. (E) and subpar. (A), was executed by redesignating subpar. (E) as (A), to reflect the probable intent of Congress.
 
-Subsec. (c)(3)(A). Pub. L. 110–360, § 2(1)(A), struck out subpar. (A) which read as follows: “For fiscal year 2005, not less than 50 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.”
+Subsec. (c)(3)(A). Pub. L. 110–360, § 2(1)(A), struck out subpar. (A) which read as follows: “For fiscal year 2005, not less than 50 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.”
 
-Subsec. (c)(3)(B) to (D). Pub. L. 110–360, § 2(1)(A), (C), added subpar. (B) and struck out former subpars. (B) to (D) which read as follows:
+Subsec. (c)(3)(B) to (D). Pub. L. 110–360, § 2(1)(A), (C), added subpar. (B) and struck out former subpars. (B) to (D) which read as follows:
 
 “(B) For fiscal year 2006, not less than 50 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.
 
@@ -299,57 +299,57 @@ Subsec. (c)(3)(B) to (D). Pub. L. 110–360, § 2(1)(A), (C), added subpar. (B
 
 “(D) For fiscal year 2008, not less than 40 percent of the grant amounts shall be awarded for purposes under subsection (a)(2) of this section.”
 
-Subsec. (j). Pub. L. 110–360, § 2(2), amended subsec. (j) generally. Prior to amendment, subsec. (j) authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2005 through 2009.
+Subsec. (j). Pub. L. 110–360, § 2(2), amended subsec. (j) generally. Prior to amendment, subsec. (j) authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2005 through 2009.
 
 2006—Subsec. (a)(1). Pub. L. 109–162 substituted “collected under applicable legal authority” for “taken from individuals convicted of a qualifying State offense (as determined under subsection (b)(3) of this section)”.
 
-2004—Pub. L. 108–405, § 202(a)(1), substituted “The Debbie Smith DNA Backlog Grant Program” for “Authorization of grants” in section catchline.
+2004—Pub. L. 108–405, § 202(a)(1), substituted “The Debbie Smith DNA Backlog Grant Program” for “Authorization of grants” in section catchline.
 
-Subsec. (a). Pub. L. 108–405, § 202(a)(2)(A), in introductory provisions, inserted “or units of local government” after “eligible States” and “or unit of local government” after “State”.
+Subsec. (a). Pub. L. 108–405, § 202(a)(2)(A), in introductory provisions, inserted “or units of local government” after “eligible States” and “or unit of local government” after “State”.
 
-Subsec. (a)(2). Pub. L. 108–405, § 202(a)(2)(B), inserted “, including samples from rape kits, samples from other sexual assault evidence, and samples taken in cases without an identified suspect” before period at end.
+Subsec. (a)(2). Pub. L. 108–405, § 202(a)(2)(B), inserted “, including samples from rape kits, samples from other sexual assault evidence, and samples taken in cases without an identified suspect” before period at end.
 
-Subsec. (a)(3). Pub. L. 108–405, § 202(a)(2)(C), (b)(1)(A), struck out “within the State” after “local government” and inserted “(1) or” before “(2)”.
+Subsec. (a)(3). Pub. L. 108–405, § 202(a)(2)(C), (b)(1)(A), struck out “within the State” after “local government” and inserted “(1) or” before “(2)”.
 
-Subsec. (a)(4), (5). Pub. L. 108–405, § 202(b)(1)(B), added pars. (4) and (5).
+Subsec. (a)(4), (5). Pub. L. 108–405, § 202(b)(1)(B), added pars. (4) and (5).
 
-Subsec. (b). Pub. L. 108–405, § 202(a)(3)(A), in introductory provisions, inserted “or unit of local government” after “State” in two places and “, as required by the Attorney General” after “application shall”.
+Subsec. (b). Pub. L. 108–405, § 202(a)(3)(A), in introductory provisions, inserted “or unit of local government” after “State” in two places and “, as required by the Attorney General” after “application shall”.
 
-Subsec. (b)(1). Pub. L. 108–405, § 202(a)(3)(B), inserted “or unit of local government” after “State”.
+Subsec. (b)(1). Pub. L. 108–405, § 202(a)(3)(B), inserted “or unit of local government” after “State”.
 
-Subsec. (b)(3). Pub. L. 108–405, § 202(a)(3)(C), inserted “or unit of local government” after “that the State”.
+Subsec. (b)(3). Pub. L. 108–405, § 202(a)(3)(C), inserted “or unit of local government” after “that the State”.
 
-Subsec. (b)(4). Pub. L. 108–405, § 202(a)(3)(D), inserted “or unit of local government” after “State” and struck out “and” at end.
+Subsec. (b)(4). Pub. L. 108–405, § 202(a)(3)(D), inserted “or unit of local government” after “State” and struck out “and” at end.
 
-Subsec. (b)(5). Pub. L. 108–405, § 202(a)(3)(E), inserted “or unit of local government” after “State” and substituted semicolon for period at end.
+Subsec. (b)(5). Pub. L. 108–405, § 202(a)(3)(E), inserted “or unit of local government” after “State” and substituted semicolon for period at end.
 
-Subsec. (b)(6). Pub. L. 108–405, § 202(a)(3)(F), added par. (6).
+Subsec. (b)(6). Pub. L. 108–405, § 202(a)(3)(F), added par. (6).
 
-Subsec. (b)(7). Pub. L. 108–405, § 202(b)(2), added par. (7).
+Subsec. (b)(7). Pub. L. 108–405, § 202(b)(2), added par. (7).
 
-Subsec. (c). Pub. L. 108–405, § 202(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “A State that proposes to allocate grant amounts under paragraph (4) or (5) of subsection (b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects.”
+Subsec. (c). Pub. L. 108–405, § 202(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “A State that proposes to allocate grant amounts under paragraph (4) or (5) of subsection (b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects.”
 
-Subsec. (d)(1). Pub. L. 108–405, § 202(a)(4)(A), substituted “A plan pursuant to subsection (b)(1)” for “The plan” in introductory provisions and struck out “within the State” after “local government” in subpars. (A) and (B).
+Subsec. (d)(1). Pub. L. 108–405, § 202(a)(4)(A), substituted “A plan pursuant to subsection (b)(1)” for “The plan” in introductory provisions and struck out “within the State” after “local government” in subpars. (A) and (B).
 
-Subsec. (d)(2)(A). Pub. L. 108–405, § 202(a)(4)(B), inserted “and units of local government” after “States”.
+Subsec. (d)(2)(A). Pub. L. 108–405, § 202(a)(4)(B), inserted “and units of local government” after “States”.
 
-Subsec. (d)(3). Pub. L. 108–405, § 206, amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “A grant for the purposes specified in paragraph (1) or (2) of subsection (a) of this section may be made in the form of a voucher for laboratory services, which may be redeemed at a laboratory operated by a private entity approved by the Attorney General that satisfies quality assurance standards. The Attorney General may make payment to such a laboratory for the analysis of DNA samples using amounts authorized for those purposes under subsection (j) of this section.”
+Subsec. (d)(3). Pub. L. 108–405, § 206, amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “A grant for the purposes specified in paragraph (1) or (2) of subsection (a) of this section may be made in the form of a voucher for laboratory services, which may be redeemed at a laboratory operated by a private entity approved by the Attorney General that satisfies quality assurance standards. The Attorney General may make payment to such a laboratory for the analysis of DNA samples using amounts authorized for those purposes under subsection (j) of this section.”
 
-Subsec. (e)(1). Pub. L. 108–405, § 202(a)(5)(A), inserted “or local government” after “State” in two places.
+Subsec. (e)(1). Pub. L. 108–405, § 202(a)(5)(A), inserted “or local government” after “State” in two places.
 
-Subsec. (e)(2). Pub. L. 108–405, § 202(a)(5)(B), inserted “or unit of local government” after “State”.
+Subsec. (e)(2). Pub. L. 108–405, § 202(a)(5)(B), inserted “or unit of local government” after “State”.
 
-Subsec. (f). Pub. L. 108–405, § 202(a)(6), inserted “or unit of local government” after “State” in introductory provisions.
+Subsec. (f). Pub. L. 108–405, § 202(a)(6), inserted “or unit of local government” after “State” in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 108–405, § 202(a)(7)(A), inserted “or unit of local government” after “State”.
+Subsec. (g)(1). Pub. L. 108–405, § 202(a)(7)(A), inserted “or unit of local government” after “State”.
 
-Subsec. (g)(2). Pub. L. 108–405, § 202(a)(7)(B), inserted “or units of local government” after “States”.
+Subsec. (g)(2). Pub. L. 108–405, § 202(a)(7)(B), inserted “or units of local government” after “States”.
 
-Subsec. (g)(3). Pub. L. 108–405, § 202(b)(4), added par. (3).
+Subsec. (g)(3). Pub. L. 108–405, § 202(b)(4), added par. (3).
 
-Subsec. (h). Pub. L. 108–405, § 202(a)(8), inserted “or unit of local government” after “State” in pars. (1) and (2).
+Subsec. (h). Pub. L. 108–405, § 202(a)(8), inserted “or unit of local government” after “State” in pars. (1) and (2).
 
-Subsec. (j)(1) to (5). Pub. L. 108–405, § 202(b)(5), substituted pars. (1) to (5) for former pars. (1) and (2) which read as follows:
+Subsec. (j)(1) to (5). Pub. L. 108–405, § 202(b)(5), substituted pars. (1) to (5) for former pars. (1) and (2) which read as follows:
 
 “(1) For grants for the purposes specified in paragraph (1) of such subsection—
 
@@ -369,17 +369,17 @@ Subsec. (j)(1) to (5). Pub. L. 108–405, § 202(b)(5), substituted pars. (1) 
 
 “(D) $25,000,000 for fiscal year 2004.”
 
-Subsec. (k) to (m). Pub. L. 108–405, § 202(b)(6), added subsecs. (k) to (m).
+Subsec. (k) to (m). Pub. L. 108–405, § 202(b)(6), added subsecs. (k) to (m).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination Date of 2013 Amendment**
 
-Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134, as amended by Pub. L. 115–107, § 3(b), Jan. 8, 2018, 131 Stat. 2266, provided that: “Effective on December 31, 2023, subsections (a)(6) and (n) of section 2 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135(a)(6) and (n)) [now 34 U.S.C. 40701(a)(6), (n)] are repealed.”
+Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134, as amended by Pub. L. 115–107, § 3(b), Jan. 8, 2018, 131 Stat. 2266, provided that: “Effective on December 31, 2023, subsections (a)(6) and (n) of section 2 of the DNA Analysis Backlog Elimination Act of 2000 (42 U.S.C. 14135(a)(6) and (n)) [now 34 U.S.C. 40701(a)(6), (n)] are repealed.”
 
 **Reports to Congress**
 
-Pub. L. 113–4, title X, § 1003, Mar. 7, 2013, 127 Stat. 131, provided that:
+Pub. L. 113–4, title X, § 1003, Mar. 7, 2013, 127 Stat. 131, provided that:
 
 > “Not later than 90 days after the end of each fiscal year for which a grant is made for the purpose described in section 2(a)(7) of the DNA Analysis Backlog Elimination Act of 2000 [34 U.S.C. 40701(a)(7)], as amended by section 1002, the Attorney General shall submit to Congress a report that—
 
@@ -391,7 +391,7 @@ Pub. L. 113–4, title X, § 1003, Mar. 7, 2013, 127 Stat. 131, provided that:
 
 **Oversight and Accountability**
 
-Pub. L. 113–4, title X, § 1005, Mar. 7, 2013, 127 Stat. 132, provided that:
+Pub. L. 113–4, title X, § 1005, Mar. 7, 2013, 127 Stat. 132, provided that:
 
 > “All grants awarded by the Department of Justice that are authorized under this title [amending this section and enacting provisions set out as notes under this section and section 10101 of this title] shall be subject to the following:
 
@@ -443,7 +443,7 @@ Pub. L. 113–4, title X, § 1005, Mar. 7, 2013, 127 Stat. 132, provided that:
 
 **Sense of Congress Regarding the Obligation of Grantee States to Ensure Access to Post-Conviction DNA Testing and Competent Counsel in Capital Cases**
 
-Pub. L. 106–561, § 4, Dec. 21, 2000, 114 Stat. 2791, provided that:
+Pub. L. 106–561, § 4, Dec. 21, 2000, 114 Stat. 2791, provided that:
 
 > **“(a) Findings.—** Congress finds that—
 
@@ -485,9 +485,9 @@ Pub. L. 106–561, § 4, Dec. 21, 2000, 114 Stat. 2791, provided that:
 
 > **“(2)** Congress should work with the States to improve the quality of legal representation in capital cases through the establishment of standards that will assure the timely appointment of competent counsel with adequate resources to represent defendants in capital cases at each stage of the proceedings.”
 
-Pub. L. 106–546, § 11, Dec. 19, 2000, 114 Stat. 2735, enacted provisions substantially identical to those enacted by Pub. L. 106–561, § 4, set out above.
+Pub. L. 106–546, § 11, Dec. 19, 2000, 114 Stat. 2735, enacted provisions substantially identical to those enacted by Pub. L. 106–561, § 4, set out above.
 
-### § 40702. Collection and use of DNA identification information from certain Federal offenders
+### § 40702. Collection and use of DNA identification information from certain Federal offenders
 
 **(a) Collection of DNA samples**
 
@@ -553,7 +553,7 @@ The Director of the Administrative Office of the United States Courts shall make
 
 Collection of DNA samples under subsection (a) shall, subject to the availability of appropriations, commence not later than the date that is 180 days after December 19, 2000.
 
-(Pub. L. 106–546, § 3, Dec. 19, 2000, 114 Stat. 2728; Pub. L. 107–56, title V, § 503, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–405, title II, § 203(b), Oct. 30, 2004, 118 Stat. 2270; Pub. L. 109–162, title X, § 1004(a), Jan. 5, 2006, 119 Stat. 3085; Pub. L. 109–248, title I, § 155, July 27, 2006, 120 Stat. 611; Pub. L. 115–50, § 3(a), Aug. 18, 2017, 131 Stat. 1001.)
+(Pub. L. 106–546, § 3, Dec. 19, 2000, 114 Stat. 2728; Pub. L. 107–56, title V, § 503, Oct. 26, 2001, 115 Stat. 364; Pub. L. 108–405, title II, § 203(b), Oct. 30, 2004, 118 Stat. 2270; Pub. L. 109–162, title X, § 1004(a), Jan. 5, 2006, 119 Stat. 3085; Pub. L. 109–248, title I, § 155, July 27, 2006, 120 Stat. 611; Pub. L. 115–50, § 3(a), Aug. 18, 2017, 131 Stat. 1001.)
 
 **Editorial Notes**
 
@@ -563,23 +563,23 @@ Section was formerly classified to section 14135a of Title 42, The Public Health
 
 **Amendments**
 
-2017—Subsec. (b). Pub. L. 115–50, § 3(a)(1), inserted at end “The Director of the Federal Bureau of Investigation may waive the requirements under this subsection if DNA samples are analyzed by means of Rapid DNA instruments and the results are included in CODIS.”
+2017—Subsec. (b). Pub. L. 115–50, § 3(a)(1), inserted at end “The Director of the Federal Bureau of Investigation may waive the requirements under this subsection if DNA samples are analyzed by means of Rapid DNA instruments and the results are included in CODIS.”
 
-Subsec. (c)(3). Pub. L. 115–50, § 3(a)(2), added par. (3).
+Subsec. (c)(3). Pub. L. 115–50, § 3(a)(2), added par. (3).
 
-2006—Subsec. (a)(1). Pub. L. 109–162, § 1004(a)(1), added subpar. (A) and designated existing provisions as subpar. (B).
+2006—Subsec. (a)(1). Pub. L. 109–162, § 1004(a)(1), added subpar. (A) and designated existing provisions as subpar. (B).
 
 Subsec. (a)(1)(A). Pub. L. 109–248 substituted “arrested, facing charges, or convicted” for “arrested”.
 
-Subsec. (a)(3), (4). Pub. L. 109–162, § 1004(a)(1)(B), substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons” in par. (3) and subpars. (A) and (B) of par. (4).
+Subsec. (a)(3), (4). Pub. L. 109–162, § 1004(a)(1)(B), substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons” in par. (3) and subpars. (A) and (B) of par. (4).
 
-Subsec. (b). Pub. L. 109–162, § 1004(a)(2), substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons”.
+Subsec. (b). Pub. L. 109–162, § 1004(a)(2), substituted “Attorney General, the Director of the Bureau of Prisons,” for “Director of the Bureau of Prisons”.
 
 2004—Subsec. (d). Pub. L. 108–405 reenacted heading without change and amended text generally, substituting pars. (1) to (4) for former pars. (1) and (2) with multiple subpars. listing specific offenses.
 
 2001—Subsec. (d)(2). Pub. L. 107–56 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The initial determination of qualifying Federal offenses shall be made not later than 120 days after December 19, 2000.”
 
-### § 40703. Collection and use of DNA identification information from certain District of Columbia offenders
+### § 40703. Collection and use of DNA identification information from certain District of Columbia offenders
 
 **(a) Collection of DNA samples**
 
@@ -631,7 +631,7 @@ Collection of DNA samples under subsection (a) shall, subject to the availabilit
 
 There are authorized to be appropriated to the Court Services and Offender Supervision Agency for the District of Columbia to carry out this section such sums as may be necessary for each of fiscal years 2001 through 2005.
 
-(Pub. L. 106–546, § 4, Dec. 19, 2000, 114 Stat. 2730; Pub. L. 115–50, § 3(b), Aug. 18, 2017, 131 Stat. 1002.)
+(Pub. L. 106–546, § 4, Dec. 19, 2000, 114 Stat. 2730; Pub. L. 115–50, § 3(b), Aug. 18, 2017, 131 Stat. 1002.)
 
 **Editorial Notes**
 
@@ -641,15 +641,15 @@ Section was formerly classified to section 14135b of Title 42, The Public Health
 
 **Amendments**
 
-2017—Subsec. (b). Pub. L. 115–50, § 3(b)(1), inserted at end “The Director of the Federal Bureau of Investigation may waive the requirements under this subsection if DNA samples are analyzed by means of Rapid DNA instruments and the results are included in CODIS.”
+2017—Subsec. (b). Pub. L. 115–50, § 3(b)(1), inserted at end “The Director of the Federal Bureau of Investigation may waive the requirements under this subsection if DNA samples are analyzed by means of Rapid DNA instruments and the results are included in CODIS.”
 
-Subsec. (c)(3). Pub. L. 115–50, § 3(b)(2), added par. (3).
+Subsec. (c)(3). Pub. L. 115–50, § 3(b)(2), added par. (3).
 
-### § 40704. Conditions of release generally
+### § 40704. Conditions of release generally
 
 If the collection of a DNA sample from an individual on probation, parole, or supervised release is authorized pursuant to section 40702 or 40703 of this title or section 1565 of title 10, the individual shall cooperate in the collection of a DNA sample as a condition of that probation, parole, or supervised release.
 
-(Pub. L. 106–546, § 7(d), Dec. 19, 2000, 114 Stat. 2734.)
+(Pub. L. 106–546, § 7(d), Dec. 19, 2000, 114 Stat. 2734.)
 
 **Editorial Notes**
 
@@ -657,11 +657,11 @@ If the collection of a DNA sample from an individual on probation, parole, or su
 
 Section was formerly classified to section 14135c of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 40705. Authorization of appropriations
+### § 40705. Authorization of appropriations
 
 There are authorized to be appropriated to the Attorney General to carry out this Act (including to reimburse the Federal judiciary for any reasonable costs incurred in implementing such Act, as determined by the Attorney General) such sums as may be necessary.
 
-(Pub. L. 106–546, § 9, Dec. 19, 2000, 114 Stat. 2735.)
+(Pub. L. 106–546, § 9, Dec. 19, 2000, 114 Stat. 2735.)
 
 **Editorial Notes**
 
@@ -673,7 +673,7 @@ This Act, referred to in text, is Pub. L. 106–546, Dec. 19, 2000, 114 Stat. 27
 
 Section was formerly classified to section 14135d of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 40706. Privacy protection standards
+### § 40706. Privacy protection standards
 
 **(a) In general**
 
@@ -687,7 +687,7 @@ A sample or result described in subsection (a) may be disclosed under the circum
 
 A person who knowingly discloses a sample or result described in subsection (a) in any manner to any person not authorized to receive it, or obtains or uses, without authorization, such sample or result, shall be fined not more than $250,000, or imprisoned for a period of not more than one year. Each instance of disclosure, obtaining, or use shall constitute a separate offense under this subsection.
 
-(Pub. L. 106–546, § 10, Dec. 19, 2000, 114 Stat. 2735; Pub. L. 108–405, title II, § 203(e)(2), title III, § 309, Oct. 30, 2004, 118 Stat. 2271, 2275.)
+(Pub. L. 106–546, § 10, Dec. 19, 2000, 114 Stat. 2735; Pub. L. 108–405, title II, § 203(e)(2), title III, § 309, Oct. 30, 2004, 118 Stat. 2271, 2275.)
 
 **Editorial Notes**
 
@@ -697,7 +697,7 @@ Section was formerly classified to section 14135e of Title 42, The Public Health
 
 **Amendments**
 
-2004—Subsec. (c). Pub. L. 108–405, § 309, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A person who knowingly—
+2004—Subsec. (c). Pub. L. 108–405, § 309, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A person who knowingly—
 
 “(1) discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it; or
 
@@ -705,15 +705,15 @@ Section was formerly classified to section 14135e of Title 42, The Public Health
 
 shall be fined not more than $250,000, or imprisoned for a period of not more than one year, or both.”
 
-Pub. L. 108–405, § 203(e)(2), substituted “$250,000, or imprisoned for a period of not more than one year, or both” for “$100,000” in concluding provisions.
+Pub. L. 108–405, § 203(e)(2), substituted “$250,000, or imprisoned for a period of not more than one year, or both” for “$100,000” in concluding provisions.
 
 ## SUBCHAPTER II—TRAINING, TECHNOLOGY, RESEARCH, AND EXPANDED USE
 
-### § 40721. Report to Congress on plans to modify CODIS system
+### § 40721. Report to Congress on plans to modify CODIS system
 
 If the Department of Justice plans to modify or supplement the core genetic markers needed for compatibility with the CODIS system, it shall notify the Judiciary Committee of the Senate and the Judiciary Committee of the House of Representatives in writing not later than 180 days before any change is made and explain the reasons for such change.
 
-(Pub. L. 108–405, title II, § 203(f), Oct. 30, 2004, 118 Stat. 2271.)
+(Pub. L. 108–405, title II, § 203(f), Oct. 30, 2004, 118 Stat. 2271.)
 
 **Editorial Notes**
 
@@ -723,7 +723,7 @@ Section is comprised of subsec. (f) of section 203 of Pub. L. 108–405. For com
 
 Section was formerly classified as a note under section 531 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
-### § 40722. DNA training and education for law enforcement, correctional personnel, and court officers
+### § 40722. DNA training and education for law enforcement, correctional personnel, and court officers
 
 **(a) In general** The Attorney General shall make grants to provide training, technical assistance, education, and information relating to the identification, collection, preservation, analysis, and use of DNA samples and DNA evidence by—
 
@@ -739,7 +739,7 @@ Section was formerly classified as a note under section 531 of Title 28, Judicia
 
 There are authorized to be appropriated $12,500,000 for each of fiscal years 2019 through 2024 to carry out this section.
 
-(Pub. L. 108–405, title III, § 303, Oct. 30, 2004, 118 Stat. 2273; Pub. L. 110–360, § 3, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 113–182, § 3, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 116–104, § 3, Dec. 30, 2019, 133 Stat. 3272.)
+(Pub. L. 108–405, title III, § 303, Oct. 30, 2004, 118 Stat. 2273; Pub. L. 110–360, § 3, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 113–182, § 3, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 116–104, § 3, Dec. 30, 2019, 133 Stat. 3272.)
 
 **Editorial Notes**
 
@@ -759,7 +759,7 @@ Section was formerly classified to section 14136 of Title 42, The Public Health 
 
 **Incentive Grants to States To Ensure Consideration of Claims of Actual Innocence**
 
-Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285, as amended by Pub. L. 114–324, § 12(a), Dec. 16, 2016, 130 Stat. 1957, provided that:
+Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285, as amended by Pub. L. 114–324, § 12(a), Dec. 16, 2016, 130 Stat. 1957, provided that:
 
 > “For each of fiscal years 2017 through 2021, all funds appropriated to carry out sections 303, 305, 308, and 412 [sections 40722, 40724, 40726, and 40727 of this title] shall be reserved for grants to eligible entities that—
 
@@ -771,7 +771,7 @@ Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285, as amended
 
 > **“(B)** preserves biological evidence, as defined in section 3600A of title 18, United States Code, under a State statute or a State or local rule, regulation, or practice in a manner intended to ensure that reasonable measures are taken by the State or jurisdiction to preserve biological evidence secured in relation to the investigation or prosecution of, at a minimum, murder, nonnegligent manslaughter and sexual offenses.”
 
-### § 40723. Sexual assault forensic exam program grants
+### § 40723. Sexual assault forensic exam program grants
 
 **(a) Definitions** In this section:
 
@@ -963,7 +963,7 @@ Not later than 2 years after March 15, 2022, the Attorney General, in consultati
 
 There are authorized to be appropriated $30,000,000 for each of fiscal years 2023 through 2027 to carry out this section.
 
-(Pub. L. 108–405, title III, § 304, Oct. 30, 2004, 118 Stat. 2273; Pub. L. 110–360, § 4, Oct. 8, 2008, 122 Stat. 4009; Pub. L. 113–182, § 4, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 114–324, § 4, Dec. 16, 2016, 130 Stat. 1950; Pub. L. 115–107, § 2, Jan. 8, 2018, 131 Stat. 2266; Pub. L. 116–104, § 4, Dec. 30, 2019, 133 Stat. 3273; Pub. L. 117–103, div. W, title XIII, § 1318(b)–(e), Mar. 15, 2022, 136 Stat. 940–945.)
+(Pub. L. 108–405, title III, § 304, Oct. 30, 2004, 118 Stat. 2273; Pub. L. 110–360, § 4, Oct. 8, 2008, 122 Stat. 4009; Pub. L. 113–182, § 4, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 114–324, § 4, Dec. 16, 2016, 130 Stat. 1950; Pub. L. 115–107, § 2, Jan. 8, 2018, 131 Stat. 2266; Pub. L. 116–104, § 4, Dec. 30, 2019, 133 Stat. 3273; Pub. L. 117–103, div. W, title XIII, § 1318(b)–(e), Mar. 15, 2022, 136 Stat. 940–945.)
 
 **Editorial Notes**
 
@@ -973,19 +973,19 @@ Section was formerly classified to section 14136a of Title 42, The Public Health
 
 **Amendments**
 
-2022—Subsec. (a). Pub. L. 117–103, § 1318(b), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Attorney General shall make grants to eligible entities to provide training, technical assistance, education, equipment, and information relating to the identification, collection, preservation, analysis, and use of DNA samples and DNA evidence by medical personnel and other personnel, including doctors, medical examiners, coroners, nurses, victim service providers, and other professionals involved in treating victims of sexual assault and sexual assault examination programs, including SANE (Sexual Assault Nurse Examiner), SAFE (Sexual Assault Forensic Examiner), and SART (Sexual Assault Response Team).”
+2022—Subsec. (a). Pub. L. 117–103, § 1318(b), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Attorney General shall make grants to eligible entities to provide training, technical assistance, education, equipment, and information relating to the identification, collection, preservation, analysis, and use of DNA samples and DNA evidence by medical personnel and other personnel, including doctors, medical examiners, coroners, nurses, victim service providers, and other professionals involved in treating victims of sexual assault and sexual assault examination programs, including SANE (Sexual Assault Nurse Examiner), SAFE (Sexual Assault Forensic Examiner), and SART (Sexual Assault Response Team).”
 
-Subsec. (b). Pub. L. 117–103, § 1318(b), (c), added subsec. (b) and struck out former subsec. (b) which defined “eligible entity”.
+Subsec. (b). Pub. L. 117–103, § 1318(b), (c), added subsec. (b) and struck out former subsec. (b) which defined “eligible entity”.
 
-Subsec. (c). Pub. L. 117–103, § 1318(b), (d)(2), added subsec. (c) and struck out former subsec. (c) which related to preference given to certain eligible entities for grants and promoting the role and employment of forensic nurses.
+Subsec. (c). Pub. L. 117–103, § 1318(b), (d)(2), added subsec. (c) and struck out former subsec. (c) which related to preference given to certain eligible entities for grants and promoting the role and employment of forensic nurses.
 
-Subsec. (d). Pub. L. 117–103, § 1318(d)(2), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 117–103, § 1318(d)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 117–103, § 1318(d)(2), (e), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. authorized appropriation of $30,000,000 for each of fiscal years 2019 through 2024 to carry out this section.
+Subsec. (e). Pub. L. 117–103, § 1318(d)(2), (e), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. authorized appropriation of $30,000,000 for each of fiscal years 2019 through 2024 to carry out this section.
 
 2019—Subsec. (d). Pub. L. 116–104 substituted “2019 through 2024” for “2015 through 2019”.
 
-2018—Subsec. (c)(2). Pub. L. 115–107 inserted “, both adult and pediatric,” after “role of forensic nurses” and substituted “elder abuse, and, in particular, the need for pediatric sexual assault nurse examiners, including such nurse examiners working in the multidisciplinary setting, in responding to abuse of both children and adolescents” for “and elder abuse”.
+2018—Subsec. (c)(2). Pub. L. 115–107 inserted “, both adult and pediatric,” after “role of forensic nurses” and substituted “elder abuse, and, in particular, the need for pediatric sexual assault nurse examiners, including such nurse examiners working in the multidisciplinary setting, in responding to abuse of both children and adolescents” for “and elder abuse”.
 
 2016—Subsecs. (c), (d). Pub. L. 114–324 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -999,7 +999,7 @@ Subsec. (e). Pub. L. 117–103, § 1318(d)(2), (e), redesignated subsec. (d) a
 
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
-### § 40724. DNA research and development
+### § 40724. DNA research and development
 
 **(a) Improving DNA technology**
 
@@ -1013,7 +1013,7 @@ The Attorney General shall make grants to appropriate entities under which resea
 
 There are authorized to be appropriated $5,000,000 for each of fiscal years 2017 through 2021 to carry out this section.
 
-(Pub. L. 108–405, title III, § 305, Oct. 30, 2004, 118 Stat. 2273; Pub. L. 114–324, § 8(a), Dec. 16, 2016, 130 Stat. 1954.)
+(Pub. L. 108–405, title III, § 305, Oct. 30, 2004, 118 Stat. 2273; Pub. L. 114–324, § 8(a), Dec. 16, 2016, 130 Stat. 1954.)
 
 **Editorial Notes**
 
@@ -1025,7 +1025,7 @@ Section was formerly classified to section 14136b of Title 42, The Public Health
 
 2016—Subsec. (c). Pub. L. 114–324 substituted “$5,000,000 for each of fiscal years 2017 through 2021” for “$15,000,000 for each of fiscal years 2005 through 2009”.
 
-### § 40725. National Forensic Science Commission
+### § 40725. National Forensic Science Commission
 
 **(a) Appointment**
 
@@ -1071,7 +1071,7 @@ The Attorney General shall appoint a National Forensic Science Commission (in th
 
 There are authorized to be appropriated $500,000 for each of fiscal years 2005 through 2009 to carry out this section.
 
-(Pub. L. 108–405, title III, § 306, Oct. 30, 2004, 118 Stat. 2274.)
+(Pub. L. 108–405, title III, § 306, Oct. 30, 2004, 118 Stat. 2274.)
 
 **Editorial Notes**
 
@@ -1079,7 +1079,7 @@ There are authorized to be appropriated $500,000 for each of fiscal years 2005 t
 
 Section was formerly classified to section 14136c of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 40726. DNA identification of missing persons
+### § 40726. DNA identification of missing persons
 
 **(a) In general**
 
@@ -1093,7 +1093,7 @@ Each State or unit of local government that receives funding under this section 
 
 There are authorized to be appropriated $2,000,000 for each of fiscal years 2017 through 2021 to carry out this section.
 
-(Pub. L. 108–405, title III, § 308, Oct. 30, 2004, 118 Stat. 2275; Pub. L. 114–324, § 8(c), Dec. 16, 2016, 130 Stat. 1954.)
+(Pub. L. 108–405, title III, § 308, Oct. 30, 2004, 118 Stat. 2275; Pub. L. 114–324, § 8(c), Dec. 16, 2016, 130 Stat. 1954.)
 
 **Editorial Notes**
 
@@ -1105,7 +1105,7 @@ Section was formerly classified to section 14136d of Title 42, The Public Health
 
 2016—Subsec. (c). Pub. L. 114–324 substituted “fiscal years 2017 through 2021” for “fiscal years 2005 through 2009”.
 
-### § 40727. Kirk Bloodsworth Post-Conviction DNA Testing Grant Program
+### § 40727. Kirk Bloodsworth Post-Conviction DNA Testing Grant Program
 
 **(a) In general**
 
@@ -1119,7 +1119,7 @@ There are authorized to be appropriated $10,000,000 for each of fiscal years 201
 
 For purposes of this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
-(Pub. L. 108–405, title IV, § 412, Oct. 30, 2004, 118 Stat. 2284; Pub. L. 114–324, § 12(b), Dec. 16, 2016, 130 Stat. 1957.)
+(Pub. L. 108–405, title IV, § 412, Oct. 30, 2004, 118 Stat. 2284; Pub. L. 114–324, § 12(b), Dec. 16, 2016, 130 Stat. 1957.)
 
 **Editorial Notes**
 
@@ -1131,7 +1131,7 @@ Section was formerly classified to section 14136e of Title 42, The Public Health
 
 2016—Subsec. (b). Pub. L. 114–324 substituted “$10,000,000 for each of fiscal years 2017 through 2021” for “$5,000,000 for each of fiscal years 2005 through 2009”.
 
-### § 40728. Establishment of best practices for evidence retention
+### § 40728. Establishment of best practices for evidence retention
 
 **(a) In general** The Director of the National Institute of Justice, in consultation with Federal, State, and local law enforcement agencies and government laboratories, shall—
 
@@ -1147,7 +1147,7 @@ Not later than 1 year after December 16, 2016, the Director of the National Inst
 
 Nothing in this section shall be construed to require or obligate compliance with the best practices established under subsection (a)(1).
 
-(Pub. L. 108–405, title IV, § 414, as added Pub. L. 114–324, § 13(a), Dec. 16, 2016, 130 Stat. 1958.)
+(Pub. L. 108–405, title IV, § 414, as added Pub. L. 114–324, § 13(a), Dec. 16, 2016, 130 Stat. 1958.)
 
 **Editorial Notes**
 
@@ -1157,7 +1157,7 @@ Section was formerly classified to section 14136f of Title 42, The Public Health
 
 ## SUBCHAPTER III—DNA ARRESTEE COLLECTION PROCESSES
 
-### § 40741. Definitions
+### § 40741. Definitions
 
 For purposes of this subchapter:
 
@@ -1177,7 +1177,7 @@ For purposes of this subchapter:
 
 The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 112–253, § 2, Jan. 10, 2013, 126 Stat. 2407.)
+(Pub. L. 112–253, § 2, Jan. 10, 2013, 126 Stat. 2407.)
 
 **Editorial Notes**
 
@@ -1189,7 +1189,7 @@ This subchapter, referred to in text, was in the original “this Act”, meanin
 
 Section was formerly classified to section 14137 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 40742. Grants to States to implement DNA arrestee collection processes
+### § 40742. Grants to States to implement DNA arrestee collection processes
 
 **(a) In general**
 
@@ -1227,7 +1227,7 @@ In the case of a State seeking a grant under this section with respect to the im
 
 **(3)** make a determination on all expungement requests not later than 90 days after receipt and provide a written response of the determination to the requesting party.
 
-(Pub. L. 112–253, § 3, Jan. 10, 2013, 126 Stat. 2408.)
+(Pub. L. 112–253, § 3, Jan. 10, 2013, 126 Stat. 2408.)
 
 **Editorial Notes**
 
@@ -1235,11 +1235,11 @@ In the case of a State seeking a grant under this section with respect to the im
 
 Section was formerly classified to section 14137a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 40743. Expungement of profiles
+### § 40743. Expungement of profiles
 
 The expungement requirements under section 12592(d) of this title shall apply to any DNA profile or DNA data collected pursuant to this subchapter for purposes of inclusion in the National DNA Index System.
 
-(Pub. L. 112–253, § 4, Jan. 10, 2013, 126 Stat. 2408.)
+(Pub. L. 112–253, § 4, Jan. 10, 2013, 126 Stat. 2408.)
 
 **Editorial Notes**
 
@@ -1251,11 +1251,11 @@ This subchapter, referred to in text, was in the original “this Act”, meanin
 
 Section was formerly classified to section 14137b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-### § 40744. Offset of funds appropriated
+### § 40744. Offset of funds appropriated
 
 Any funds appropriated to carry out this subchapter, not to exceed $10,000,000 for each of fiscal years 2013 through 2015, shall be derived from amounts appropriated pursuant to subsection (j) of section 40701 of this title in each such fiscal year for grants under such section.
 
-(Pub. L. 112–253, § 5, Jan. 10, 2013, 126 Stat. 2409.)
+(Pub. L. 112–253, § 5, Jan. 10, 2013, 126 Stat. 2409.)
 
 **Editorial Notes**
 

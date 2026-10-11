@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 34—THE PEACE CORPS
 
-## § 2501. Congressional declaration of purpose
+## § 2501. Congressional declaration of purpose
 
 **(a)** The Congress of the United States declares that it is the policy of the United States and the purpose of this chapter to promote world peace and friendship through a Peace Corps, which shall make available to interested countries and areas men and women of the United States qualified for service abroad and willing to serve, under conditions of hardship if necessary, to help the peoples of such countries and areas in meeting their needs for trained manpower, particularly in meeting the basic needs of those living in the poorest areas of such countries, and to help promote a better understanding of the American people on the part of the peoples served and a better understanding of other peoples on the part of the American people.
 
 **(b)** The Congress declares that it is the policy of the United States and a purpose of the Peace Corps to maintain, to the maximum extent appropriate and consistent with programmatic and fiscal considerations, a volunteer corps of at least 10,000 individuals.
 
-(Pub. L. 87–293, title I, § 2, Sept. 22, 1961, 75 Stat. 612; Pub. L. 95–331, § 2, Aug. 2, 1978, 92 Stat. 414; Pub. L. 99–83, title XI, § 1102(a), Aug. 8, 1985, 99 Stat. 272.)
+(Pub. L. 87–293, title I, § 2, Sept. 22, 1961, 75 Stat. 612; Pub. L. 95–331, § 2, Aug. 2, 1978, 92 Stat. 414; Pub. L. 99–83, title XI, § 1102(a), Aug. 8, 1985, 99 Stat. 272.)
 
 **Editorial Notes**
 
@@ -43,27 +43,27 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 **Effective Date**
 
-Pub. L. 87–293, title I, § 28, formerly § 27, Sept. 22, 1961, 75 Stat. 625, as renumbered by Pub. L. 99–83, title XI, § 1105(a)(1), Aug. 8, 1985, 99 Stat. 276, provided that: “This Act [see Short Title note below] shall take effect on the date of its enactment [Sept. 22, 1961].”
+Pub. L. 87–293, title I, § 28, formerly § 27, Sept. 22, 1961, 75 Stat. 625, as renumbered by Pub. L. 99–83, title XI, § 1105(a)(1), Aug. 8, 1985, 99 Stat. 276, provided that: “This Act [see Short Title note below] shall take effect on the date of its enactment [Sept. 22, 1961].”
 
 **Short Title of 2018 Amendment**
 
-Pub. L. 115–256, § 1(a), Oct. 9, 2018, 132 Stat. 3650, provided that: “This Act [enacting section 2504a of this title, amending sections 2504, 2506 to 2507e, 2509, and 2522 of this title and section 8142 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 2504 of this title] may be cited as the ‘Sam Farr and Nick Castle Peace Corps Reform Act of 2018’.”
+Pub. L. 115–256, § 1(a), Oct. 9, 2018, 132 Stat. 3650, provided that: “This Act [enacting section 2504a of this title, amending sections 2504, 2506 to 2507e, 2509, and 2522 of this title and section 8142 of Title 5, Government Organization and Employees, and enacting provisions set out as notes under section 2504 of this title] may be cited as the ‘Sam Farr and Nick Castle Peace Corps Reform Act of 2018’.”
 
 **Short Title of 2011 Amendment**
 
-Pub. L. 112–57, § 1, Nov. 21, 2011, 125 Stat. 736, provided that: “This Act [enacting sections 2507a to 2507i of this title, amending sections 2504, 2506, 2507, and 2509 of this title, and enacting provisions set out as notes under sections 2503 and 2507a of this title] may be cited as the ‘Kate Puzey Peace Corps Volunteer Protection Act of 2011’.”
+Pub. L. 112–57, § 1, Nov. 21, 2011, 125 Stat. 736, provided that: “This Act [enacting sections 2507a to 2507i of this title, amending sections 2504, 2506, 2507, and 2509 of this title, and enacting provisions set out as notes under sections 2503 and 2507a of this title] may be cited as the ‘Kate Puzey Peace Corps Volunteer Protection Act of 2011’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–331, § 1, Aug. 2, 1978, 92 Stat. 414, provided: “That this Act [amending this section and sections 2501a, 2502, 2504, 2509, and 2510 of this title and enacting provisions set out as notes under sections 2501a and 2509 of this title] may be cited as the ‘Peace Corps Act Amendments of 1978’.”
+Pub. L. 95–331, § 1, Aug. 2, 1978, 92 Stat. 414, provided: “That this Act [amending this section and sections 2501a, 2502, 2504, 2509, and 2510 of this title and enacting provisions set out as notes under sections 2501a and 2509 of this title] may be cited as the ‘Peace Corps Act Amendments of 1978’.”
 
 **Short Title**
 
-Pub. L. 87–293, title I, § 1, Sept. 22, 1961, 75 Stat. 612, provided that: “This Act [enacting this chapter, amending section 2253 of former Title 5, Executive Departments and Government Officers and Employees, section 425 of Title 20, Education, sections 912, 1303, 3121, 3122, 3401, and 6051 of Title 26, Internal Revenue Code, and sections 405, 409, and 410 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 912 and 3121 of Title 26] may be cited as the ‘Peace Corps Act’.”
+Pub. L. 87–293, title I, § 1, Sept. 22, 1961, 75 Stat. 612, provided that: “This Act [enacting this chapter, amending section 2253 of former Title 5, Executive Departments and Government Officers and Employees, section 425 of Title 20, Education, sections 912, 1303, 3121, 3122, 3401, and 6051 of Title 26, Internal Revenue Code, and sections 405, 409, and 410 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 912 and 3121 of Title 26] may be cited as the ‘Peace Corps Act’.”
 
 **Designation of Paul D. Coverdell Peace Corps Headquarters**
 
-Pub. L. 107–21, § 1, July 26, 2001, 115 Stat. 194, provided that:
+Pub. L. 107–21, § 1, July 26, 2001, 115 Stat. 194, provided that:
 
 > **“(a) In General.—** Effective on the date of enactment of this Act [July 26, 2001], the headquarters offices of the Peace Corps, wherever situated, shall be referred to as the ‘Paul D. Coverdell Peace Corps Headquarters’.
 
@@ -85,7 +85,7 @@ Ex. Ord. No. 11603, June 30, 1971, 36 F.R. 12675, as amended by Ex. Ord. No. 121
 
 **Ex. Ord. No. 12137. Administration of Peace Corps as an Agency Within ACTION**
 
-Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379; Ex. Ord. No. 13724, § 1, Apr. 8, 2016, 81 F.R. 22021, provided:
+Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, as amended by Ex. Ord. No. 12245, Oct. 6, 1980, 45 F.R. 66769; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379; Ex. Ord. No. 13724, § 1, Apr. 8, 2016, 81 F.R. 22021, provided:
 
 By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U.S.C. 2501–2523) and Section 301 of Title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
@@ -182,17 +182,17 @@ By virtue of the authority vested in me by the Peace Corps Act, as amended (22 U
 
 Ex. Ord. No. 12468, Mar. 22, 1984, 49 F.R. 11139, which established the Presidential Advisory Council on the Peace Corps and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
-## § 2501–1. Independent agency status of Peace Corps
+## § 2501–1. Independent agency status of Peace Corps
 
 Effective on December 29, 1981, the Peace Corps shall be an independent agency within the executive branch and shall not be an agency within the ACTION Agency, the successor to the ACTION Agency, or any other department or agency of the United States.
 
-(Pub. L. 87–293, title I, § 2A, as added Pub. L. 97–113, title VI, § 601(a), Dec. 29, 1981, 95 Stat. 1540; amended Pub. L. 103–82, title IV, § 405(e), Sept. 21, 1993, 107 Stat. 921.)
+(Pub. L. 87–293, title I, § 2A, as added Pub. L. 97–113, title VI, § 601(a), Dec. 29, 1981, 95 Stat. 1540; amended Pub. L. 103–82, title IV, § 405(e), Sept. 21, 1993, 107 Stat. 921.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1993—Pub. L. 103–82 inserted “, the successor to the ACTION Agency,”.
+1993—Pub. L. 103–82 inserted “, the successor to the ACTION Agency,”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 103–82 effective Apr. 4, 1994, see section 406(b) of Pub.
 
 **Transfer of Functions, Personnel, Etc., to Peace Corps**
 
-Pub. L. 97–113, title VI, § 601(b), (c), Dec. 29, 1981, 95 Stat. 1540, provided that:
+Pub. L. 97–113, title VI, § 601(b), (c), Dec. 29, 1981, 95 Stat. 1540, provided that:
 
 > **“(b)** There are transferred to the Director of the Peace Corps all functions relating to the Peace Corps which were vested in the Director of the ACTION Agency [now Corporation for National and Community Service] on the day before the date of the enactment of this Act [Dec. 29, 1981].
 
@@ -234,9 +234,9 @@ Pub. L. 97–113, title VI, § 601(b), (c), Dec. 29, 1981, 95 Stat. 1540, prov
 
 **References to ACTION Agency or Director of ACTION Agency With Respect to Peace Corps or Director Functions or Activities**
 
-Pub. L. 97–113, title VI, § 601(g), Dec. 29, 1981, 95 Stat. 1542, provided that: “References in any statute, reorganization plan, Executive order, regulation, or other official document or proceeding to the ACTION Agency [now Corporation for National and Community Service] or the Director of the ACTION Agency with respect to functions or activities relating to the Peace Corps shall be deemed to refer to the Peace Corps or the Director of the Peace Corps, respectively.”
+Pub. L. 97–113, title VI, § 601(g), Dec. 29, 1981, 95 Stat. 1542, provided that: “References in any statute, reorganization plan, Executive order, regulation, or other official document or proceeding to the ACTION Agency [now Corporation for National and Community Service] or the Director of the ACTION Agency with respect to functions or activities relating to the Peace Corps shall be deemed to refer to the Peace Corps or the Director of the Peace Corps, respectively.”
 
-## § 2501a. Voluntary service programs
+## § 2501a. Voluntary service programs
 
 **(a) Congressional declaration of policy of encouragement**
 
@@ -258,7 +258,7 @@ None of the funds made available to carry out the purposes of clauses (1) and (2
 
 Such activities shall not compromise the national character of the Peace Corps.
 
-(Pub. L. 87–293, title III, § 301, as added Pub. L. 88–200, § 8, Dec. 13, 1963, 77 Stat. 360; amended Pub. L. 91–99, § 3, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, § 9, July 24, 1970, 84 Stat. 465; Pub. L. 92–352, title IV, § 402, July 13, 1972, 86 Stat. 495; Pub. L. 95–331, §§ 7, 8(a), Aug. 2, 1978, 92 Stat. 415, 416.)
+(Pub. L. 87–293, title III, § 301, as added Pub. L. 88–200, § 8, Dec. 13, 1963, 77 Stat. 360; amended Pub. L. 91–99, § 3, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, § 9, July 24, 1970, 84 Stat. 465; Pub. L. 92–352, title IV, § 402, July 13, 1972, 86 Stat. 495; Pub. L. 95–331, §§ 7, 8(a), Aug. 2, 1978, 92 Stat. 415, 416.)
 
 **Editorial Notes**
 
@@ -268,25 +268,25 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 **Amendments**
 
-1978—Subsec. (b)(1). Pub. L. 95–331, § 7, substituted provisions limiting activities to furnishing technical assistance, etc., in support of volunteer programs, and conducting demonstration projects and provisions relating to payment of costs of any program or project for provisions limiting activities to furnishing of knowledge and skills relating to the selection, training, and programming of voluntary manpower and provisions relating to use of available funds.
+1978—Subsec. (b)(1). Pub. L. 95–331, § 7, substituted provisions limiting activities to furnishing technical assistance, etc., in support of volunteer programs, and conducting demonstration projects and provisions relating to payment of costs of any program or project for provisions limiting activities to furnishing of knowledge and skills relating to the selection, training, and programming of voluntary manpower and provisions relating to use of available funds.
 
-Subsec. (b)(2). Pub. L. 95–331, § 8(a), substituted provisions authorizing use of 2 per centum of amount appropriated in a fiscal year for provisions authorizing use of $350,000 in a fiscal year.
+Subsec. (b)(2). Pub. L. 95–331, § 8(a), substituted provisions authorizing use of 2 per centum of amount appropriated in a fiscal year for provisions authorizing use of $350,000 in a fiscal year.
 
 1972—Subsec. (b)(2). Pub. L. 92–352 substituted “$350,000” for “$300,000” and “in any fiscal year to carry” for “in fiscal year 1971 to carry”.
 
-1970—Subsec. (a)(3). Pub. L. 91–352, § 9(a), changed the policy objective from encouragement of participation in any international register which seeks to provide volunteers to serve in less developed countries or areas, training, or other assistance in order to help such countries or areas to meet their needs for trained manpower to encouragement of participation in international voluntary service programs and activities.
+1970—Subsec. (a)(3). Pub. L. 91–352, § 9(a), changed the policy objective from encouragement of participation in any international register which seeks to provide volunteers to serve in less developed countries or areas, training, or other assistance in order to help such countries or areas to meet their needs for trained manpower to encouragement of participation in international voluntary service programs and activities.
 
-Subsec. (b)(2). Pub. L. 91–352, § 9(b), substituted fiscal year 1971 for fiscal year 1970 and changed the authorization of the contribution of funds from a fair and proportionate share of the costs of the international registers to a fair and proportionate share of the costs of encouraging the development of and participation in international voluntary programs and activities.
+Subsec. (b)(2). Pub. L. 91–352, § 9(b), substituted fiscal year 1971 for fiscal year 1970 and changed the authorization of the contribution of funds from a fair and proportionate share of the costs of the international registers to a fair and proportionate share of the costs of encouraging the development of and participation in international voluntary programs and activities.
 
-1969—Subsec. (a). Pub. L. 91–99, § 3(1), redesignated existing provisions as cls. (1) and (2), and added cl. (3).
+1969—Subsec. (a). Pub. L. 91–99, § 3(1), redesignated existing provisions as cls. (1) and (2), and added cl. (3).
 
-Subsec. (b). Pub. L. 91–99, § 3(2), redesignated existing provisions as cl. (1), struck out the provision which authorized the use of not more than $300,000 in carrying out the purposes of this section in fiscal year 1964 and inserted references to cls. (1) and (2) of subsec. (a) of this section, and added cl. (2).
+Subsec. (b). Pub. L. 91–99, § 3(2), redesignated existing provisions as cl. (1), struck out the provision which authorized the use of not more than $300,000 in carrying out the purposes of this section in fiscal year 1964 and inserted references to cls. (1) and (2) of subsec. (a) of this section, and added cl. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–331, § 8(b), Aug. 2, 1978, 92 Stat. 416, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1978.”
+Pub. L. 95–331, § 8(b), Aug. 2, 1978, 92 Stat. 416, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 1978.”
 
 **Executive Documents**
 
@@ -294,7 +294,7 @@ Pub. L. 95–331, § 8(b), Aug. 2, 1978, 92 Stat. 416, provided that: “The a
 
 Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
-## § 2502. Presidential authorization; appropriations and financial readjustments
+## § 2502. Presidential authorization; appropriations and financial readjustments
 
 **(a) Terms and conditions of authorization**
 
@@ -314,7 +314,7 @@ In addition to the amount authorized to be appropriated by subsection (b) to car
 
 In recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process, the Peace Corps shall be administered so as to give particular attention to those programs, projects, and activities which tend to integrate women into the national economics of developing countries, thus improving their status and assisting the total development effort.
 
-**(e) , (f) Repealed. Pub. L. 97–113, title VI, § 601(e)(1), Dec. 29, 1981, 95 Stat. 1542**
+**(e) , (f) Repealed. Pub. L. 97–113, title VI, § 601(e)(1), Dec. 29, 1981, 95 Stat. 1542**
 
 **(g) Redesignated (d)**
 
@@ -322,7 +322,7 @@ In recognition of the fact that women in developing countries play a significant
 
 In recognition of the fact that there are over 400,000,000 disabled people in the world, 95 percent of whom are among the poorest of the poor, the Peace Corps shall be administered so as to give particular attention to programs, projects, and activities which tend to integrate disabled people into the national economies of developing countries, thus improving their status and assisting the total development effort.
 
-(Pub. L. 87–293, title I, § 3, Sept. 22, 1961, 75 Stat. 612; Pub. L. 87–442, Apr. 27, 1962, 76 Stat. 62; Pub. L. 88–200, § 1, Dec. 13, 1963, 77 Stat. 359; Pub. L. 88–285, Mar. 17, 1964, 78 Stat. 166; Pub. L. 89–134, § 1, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–572, § 1, Sept. 13, 1966, 80 Stat. 764; Pub. L. 90–175, Dec. 5, 1967, 81 Stat. 542; Pub. L. 90–362, June 27, 1968, 82 Stat. 250; Pub. L. 91–99, § 1, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, § 1, July 24, 1970, 84 Stat. 464; Pub. L. 92–135, Oct. 8, 1971, 85 Stat. 376; Pub. L. 92–352, title IV, § 401, July 13, 1972, 86 Stat. 495; Pub. L. 93–49, § 1, June 25, 1973, 87 Stat. 99; Pub. L. 93–302, §§ 1, 2, June 1, 1974, 88 Stat. 191; Pub. L. 94–130, §§ 1–3, Nov. 14, 1975, 89 Stat. 684; Pub. L. 94–281, §§ 1, 2, May 7, 1976, 90 Stat. 458; Pub. L. 95–102, §§ 1, 2, Aug. 15, 1977, 91 Stat. 841; Pub. L. 95–331, § 3, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–53, title III, § 301, Aug. 14, 1979, 93 Stat. 370; Pub. L. 96–533, title VI, § 601(a), (b), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 97–113, title VI, §§ 601(e)(1), 602, 603, Dec. 29, 1981, 95 Stat. 1542; Pub. L. 99–83, title XI, § 1101, Aug. 8, 1985, 99 Stat. 272; Pub. L. 99–399, title XIII, § 1301, Aug. 27, 1986, 100 Stat. 897; Pub. L. 102–565, § 1, Oct. 28, 1992, 106 Stat. 4265; Pub. L. 106–30, § 1, May 21, 1999, 113 Stat. 55.)
+(Pub. L. 87–293, title I, § 3, Sept. 22, 1961, 75 Stat. 612; Pub. L. 87–442, Apr. 27, 1962, 76 Stat. 62; Pub. L. 88–200, § 1, Dec. 13, 1963, 77 Stat. 359; Pub. L. 88–285, Mar. 17, 1964, 78 Stat. 166; Pub. L. 89–134, § 1, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–572, § 1, Sept. 13, 1966, 80 Stat. 764; Pub. L. 90–175, Dec. 5, 1967, 81 Stat. 542; Pub. L. 90–362, June 27, 1968, 82 Stat. 250; Pub. L. 91–99, § 1, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, § 1, July 24, 1970, 84 Stat. 464; Pub. L. 92–135, Oct. 8, 1971, 85 Stat. 376; Pub. L. 92–352, title IV, § 401, July 13, 1972, 86 Stat. 495; Pub. L. 93–49, § 1, June 25, 1973, 87 Stat. 99; Pub. L. 93–302, §§ 1, 2, June 1, 1974, 88 Stat. 191; Pub. L. 94–130, §§ 1–3, Nov. 14, 1975, 89 Stat. 684; Pub. L. 94–281, §§ 1, 2, May 7, 1976, 90 Stat. 458; Pub. L. 95–102, §§ 1, 2, Aug. 15, 1977, 91 Stat. 841; Pub. L. 95–331, § 3, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–53, title III, § 301, Aug. 14, 1979, 93 Stat. 370; Pub. L. 96–533, title VI, § 601(a), (b), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 97–113, title VI, §§ 601(e)(1), 602, 603, Dec. 29, 1981, 95 Stat. 1542; Pub. L. 99–83, title XI, § 1101, Aug. 8, 1985, 99 Stat. 272; Pub. L. 99–399, title XIII, § 1301, Aug. 27, 1986, 100 Stat. 897; Pub. L. 102–565, § 1, Oct. 28, 1992, 106 Stat. 4265; Pub. L. 106–30, § 1, May 21, 1999, 113 Stat. 55.)
 
 **Editorial Notes**
 
@@ -340,51 +340,51 @@ This chapter, referred to in subsecs. (a) to (c), was in the original “this Ac
 
 1985—Subsec. (b). Pub. L. 99–83 substituted provisions authorizing appropriations of $130,000,000 for fiscal years 1986 and 1987 for provisions authorizing appropriations of not to exceed $105,000,000 for fiscal years 1982 and 1983, and struck out provisos limiting use of funds in fiscal year 1967, and limiting contracts and agreements for research.
 
-1981—Subsec. (b). Pub. L. 97–113, § 602(a), substituted “the fiscal year 1982 not to exceed $105,000,000 and for the fiscal year 1983 not to exceed $105,000,000” for “fiscal year 1981 not to exceed $118,000,000”.
+1981—Subsec. (b). Pub. L. 97–113, § 602(a), substituted “the fiscal year 1982 not to exceed $105,000,000 and for the fiscal year 1983 not to exceed $105,000,000” for “fiscal year 1981 not to exceed $118,000,000”.
 
-Subsec. (c). Pub. L. 97–113, § 602(b), substituted “each fiscal year” for “fiscal year 1981”.
+Subsec. (c). Pub. L. 97–113, § 602(b), substituted “each fiscal year” for “fiscal year 1981”.
 
-Subsec. (d). Pub. L. 97–113, § 601(e)(1), redesignated subsec. (g) as (d) and struck out former subsec. (d) which provided for rectification of imbalance in readjustment allowance for the period Mar. 1, 1961, to Feb. 28, 1973.
+Subsec. (d). Pub. L. 97–113, § 601(e)(1), redesignated subsec. (g) as (d) and struck out former subsec. (d) which provided for rectification of imbalance in readjustment allowance for the period Mar. 1, 1961, to Feb. 28, 1973.
 
-Subsec. (e). Pub. L. 97–113, § 601(e)(1), struck out subsec. (e) which related to waiver of claims resulting from erroneous payments to volunteers who terminated their volunteer service between Mar. 1, 1961, and Feb. 28, 1973.
+Subsec. (e). Pub. L. 97–113, § 601(e)(1), struck out subsec. (e) which related to waiver of claims resulting from erroneous payments to volunteers who terminated their volunteer service between Mar. 1, 1961, and Feb. 28, 1973.
 
-Subsec. (f). Pub. L. 97–113, § 601(e)(1), struck out subsec. (f) which related to relief from liability for improper payment of readjustment allowances made to volunteers between Mar. 1, 1961, and Feb. 28, 1973.
+Subsec. (f). Pub. L. 97–113, § 601(e)(1), struck out subsec. (f) which related to relief from liability for improper payment of readjustment allowances made to volunteers between Mar. 1, 1961, and Feb. 28, 1973.
 
-Subsec. (g). Pub. L. 97–113, § 601(e)(1), redesignated subsec. (g) as (d).
+Subsec. (g). Pub. L. 97–113, § 601(e)(1), redesignated subsec. (g) as (d).
 
-Subsec. (h). Pub. L. 97–113, § 603, added subsec. (h).
+Subsec. (h). Pub. L. 97–113, § 603, added subsec. (h).
 
-1980—Subsec. (b). Pub. L. 96–533, § 601(a), substituted appropriations authorization of $118,000,000 for fiscal year 1981 for such authorization of $105,404,000 for fiscal year 1980.
+1980—Subsec. (b). Pub. L. 96–533, § 601(a), substituted appropriations authorization of $118,000,000 for fiscal year 1981 for such authorization of $105,404,000 for fiscal year 1980.
 
-Subsec. (c). Pub. L. 96–533, § 601(b), substituted “1981” for “1980”.
+Subsec. (c). Pub. L. 96–533, § 601(b), substituted “1981” for “1980”.
 
-1979—Subsec. (b). Pub. L. 96–53, § 301(1), substituted provisions authorizing to be appropriated for fiscal year 1980 not to exceed $105,404,000, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000, and for fiscal year 1979 not to exceed $112,424,000, and setting forth availability of funds for the United Nations contributions by the Corps.
+1979—Subsec. (b). Pub. L. 96–53, § 301(1), substituted provisions authorizing to be appropriated for fiscal year 1980 not to exceed $105,404,000, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000, and for fiscal year 1979 not to exceed $112,424,000, and setting forth availability of funds for the United Nations contributions by the Corps.
 
-Subsec. (c). Pub. L. 96–53, § 301(2), substituted “1980” for “1978, $1,069,000, and for fiscal year 1979”.
+Subsec. (c). Pub. L. 96–53, § 301(2), substituted “1980” for “1978, $1,069,000, and for fiscal year 1979”.
 
-1978—Subsec. (b). Pub. L. 95–331, § 3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
+1978—Subsec. (b). Pub. L. 95–331, § 3(1), substituted provisions authorizing to be appropriated for fiscal year 1978 not to exceed $86,544,000 and for fiscal year 1979 not to exceed $112,424,000 and limitation with respect to volunteer program, for provisions authorizing to be appropriated for fiscal year 1978 not to exceed $82,900,000.
 
-Subsec. (c). Pub. L. 95–331, § 3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to $1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
+Subsec. (c). Pub. L. 95–331, § 3(2), inserted provisions increasing 1978 appropriation from $1,000,000 to $1,069,000, and provisions authorizing to be appropriated such sums as necessary for fiscal year 1979.
 
-Subsec. (g). Pub. L. 95–331, § 3(3), added subsec. (g).
+Subsec. (g). Pub. L. 95–331, § 3(3), added subsec. (g).
 
-1977—Subsec. (b). Pub. L. 95–102, § 1, substituted provisions authorizing appropriations for fiscal year 1978 not to exceed $82,900,000 for provisions authorizing appropriations for fiscal year 1976 not to exceed $88,468,000, for the period July 1, 1976, through Sept. 30, 1976, not to exceed $27,887,800, for fiscal year 1977 not to exceed $81,000,000.
+1977—Subsec. (b). Pub. L. 95–102, § 1, substituted provisions authorizing appropriations for fiscal year 1978 not to exceed $82,900,000 for provisions authorizing appropriations for fiscal year 1976 not to exceed $88,468,000, for the period July 1, 1976, through Sept. 30, 1976, not to exceed $27,887,800, for fiscal year 1977 not to exceed $81,000,000.
 
-Subsec. (c). Pub. L. 95–102, § 2, substituted provisions authorizing additional appropriations for fiscal year 1978 of $1,000,000 for increases in salary, pay, etc., for provisions authorizing additional appropriations for fiscal year 1976 and the period July 1, 1976, through Sept. 30, 1976, not in excess of $1,000,000, and for fiscal year 1977 such sums as may be necessary for increases in salary, pay, etc.
+Subsec. (c). Pub. L. 95–102, § 2, substituted provisions authorizing additional appropriations for fiscal year 1978 of $1,000,000 for increases in salary, pay, etc., for provisions authorizing additional appropriations for fiscal year 1976 and the period July 1, 1976, through Sept. 30, 1976, not in excess of $1,000,000, and for fiscal year 1977 such sums as may be necessary for increases in salary, pay, etc.
 
-1976—Subsec. (b). Pub. L. 94–281, § 1, authorized appropriation of not to exceed $81,000,000 for fiscal year 1977.
+1976—Subsec. (b). Pub. L. 94–281, § 1, authorized appropriation of not to exceed $81,000,000 for fiscal year 1977.
 
-Subsec. (c). Pub. L. 94–281, § 2, inserted provisions relating to fiscal year 1977 and authorization of such sums as may be necessary for such year.
+Subsec. (c). Pub. L. 94–281, § 2, inserted provisions relating to fiscal year 1977 and authorization of such sums as may be necessary for such year.
 
-1975—Subsec. (b). Pub. L. 94–130, § 1, authorized appropriation of $88,468,000 for fiscal year 1976, and $27,887,800 for period July 1, 1976, through Sept. 30, 1976, and struck out appropriation authorization of $82,256,000 for fiscal year 1975.
+1975—Subsec. (b). Pub. L. 94–130, § 1, authorized appropriation of $88,468,000 for fiscal year 1976, and $27,887,800 for period July 1, 1976, through Sept. 30, 1976, and struck out appropriation authorization of $82,256,000 for fiscal year 1975.
 
-Subsec. (c). Pub. L. 94–130, § 2, authorized appropriation of $1,000,000 for fiscal year 1976, for increase in employee benefits, in addition to amounts authorized for fiscal year 1976, and for period July 1, 1976, through Sept. 30, 1976, and deleted prior appropriation authorization of $1,000,000 for fiscal year 1975, for increase in employee benefits, in addition to amounts authorized for fiscal year 1975.
+Subsec. (c). Pub. L. 94–130, § 2, authorized appropriation of $1,000,000 for fiscal year 1976, for increase in employee benefits, in addition to amounts authorized for fiscal year 1976, and for period July 1, 1976, through Sept. 30, 1976, and deleted prior appropriation authorization of $1,000,000 for fiscal year 1975, for increase in employee benefits, in addition to amounts authorized for fiscal year 1975.
 
-Subsec. (d). Pub. L. 94–130, § 3, substituted “shall transfer”, “no later than December 31, 1975, not to exceed $315,000 from any sums available to carry out the purposes of this chapter in fiscal year 1976” for “is authorized to transfer” and “from any sums appropriated to carry out the purposes of this chapter in fiscal year 1975 not to exceed $315,000”.
+Subsec. (d). Pub. L. 94–130, § 3, substituted “shall transfer”, “no later than December 31, 1975, not to exceed $315,000 from any sums available to carry out the purposes of this chapter in fiscal year 1976” for “is authorized to transfer” and “from any sums appropriated to carry out the purposes of this chapter in fiscal year 1975 not to exceed $315,000”.
 
-1974—Subsec. (b). Pub. L. 93–302, § 1, substituted “There are authorized to be appropriated for fiscal year 1975 not to exceed $82,256,000 to carry out the purposes of this chapter” for “There are authorized to be appropriated to the President for the fiscal year 1974 not to exceed $77,001,000 to carry out the purposes of this chapter”.
+1974—Subsec. (b). Pub. L. 93–302, § 1, substituted “There are authorized to be appropriated for fiscal year 1975 not to exceed $82,256,000 to carry out the purposes of this chapter” for “There are authorized to be appropriated to the President for the fiscal year 1974 not to exceed $77,001,000 to carry out the purposes of this chapter”.
 
-Subsecs. (c) to (f). Pub. L. 93–302, § 2, added subsecs. (c) to (f).
+Subsecs. (c) to (f). Pub. L. 93–302, § 2, added subsecs. (c) to (f).
 
 1973—Subsec. (b). Pub. L. 93–49 substituted “1974” for “1973” and “$77,001,000” for “$88,027,000”.
 
@@ -422,15 +422,15 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 **Effective Date of 1977 Amendment**
 
-Pub. L. 95–102, § 3, Aug. 15, 1977, 91 Stat. 841, provided that: “The amendments made by this Act [amending this section] shall take effect on October 1, 1977.”
+Pub. L. 95–102, § 3, Aug. 15, 1977, 91 Stat. 841, provided that: “The amendments made by this Act [amending this section] shall take effect on October 1, 1977.”
 
 **Applicability of Pub. L. 97–113 to Actions Prior to December 29, 1981**
 
-Pub. L. 97–113, title VI, § 601(e)(2), Dec. 29, 1981, 95 Stat. 1542, provided that: “The amendment made by paragraph (1) of this subsection [redesignating former subsec. (g) as (d) and striking out subsecs. (d) to (f) of this section] shall not alter or affect (A) the validity of any action taken before the date of the enactment of this Act [Dec. 29, 1981] under those provisions of law repealed by that amendment, or (B) the liability of any person for any payment described in section 3(f) of the Peace Corps Act [former subsec. (f) of this section] as in effect immediately before the date of the enactment of this Act.”
+Pub. L. 97–113, title VI, § 601(e)(2), Dec. 29, 1981, 95 Stat. 1542, provided that: “The amendment made by paragraph (1) of this subsection [redesignating former subsec. (g) as (d) and striking out subsecs. (d) to (f) of this section] shall not alter or affect (A) the validity of any action taken before the date of the enactment of this Act [Dec. 29, 1981] under those provisions of law repealed by that amendment, or (B) the liability of any person for any payment described in section 3(f) of the Peace Corps Act [former subsec. (f) of this section] as in effect immediately before the date of the enactment of this Act.”
 
 **Payment of Readjustment Allowances From Amount Appropriated for Fiscal Year 1977; Limitation on Amount Available**
 
-Pub. L. 94–281, § 3, May 7, 1976, 90 Stat. 458, provided that: “Of the amount appropriated for fiscal year 1977 to carry out the purposes of the Peace Corps Act [see Short Title note set out under section 2501 of this title], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act [sections 2504(c) and 2505(1) of this title].”
+Pub. L. 94–281, § 3, May 7, 1976, 90 Stat. 458, provided that: “Of the amount appropriated for fiscal year 1977 to carry out the purposes of the Peace Corps Act [see Short Title note set out under section 2501 of this title], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act [sections 2504(c) and 2505(1) of this title].”
 
 **Executive Documents**
 
@@ -438,7 +438,7 @@ Pub. L. 94–281, § 3, May 7, 1976, 90 Stat. 458, provided that: “Of the am
 
 Functions of President under this section delegated to and funds available to President under this chapter allocated to Director of Peace Corps by sections 1–103 and 1–108 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
-## § 2503. Director and Deputy Director; delegation of functions
+## § 2503. Director and Deputy Director; delegation of functions
 
 **(a) Appointment**
 
@@ -462,7 +462,7 @@ The President may exercise any functions vested in him by this chapter through t
 
 Except with the approval of the Secretary of State, the Peace Corps shall not be assigned to perform services which could more usefully be performed by other available agencies of the United States Government in the country concerned.
 
-(Pub. L. 87–293, title I, § 4, Sept. 22, 1961, 75 Stat. 612; Pub. L. 88–426, title III, § 305(27), Aug. 14, 1964, 78 Stat. 426; Pub. L. 91–352, § 2, July 24, 1970, 84 Stat. 464; Pub. L. 97–113, title VI, § 601(d)(1), Dec. 29, 1981, 95 Stat. 1541.)
+(Pub. L. 87–293, title I, § 4, Sept. 22, 1961, 75 Stat. 612; Pub. L. 88–426, title III, § 305(27), Aug. 14, 1964, 78 Stat. 426; Pub. L. 91–352, § 2, July 24, 1970, 84 Stat. 464; Pub. L. 97–113, title VI, § 601(d)(1), Dec. 29, 1981, 95 Stat. 1541.)
 
 **Editorial Notes**
 
@@ -482,11 +482,11 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this A
 
 **Effective Date of 1964 Amendment**
 
-Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to extent provided in section 501(c) of Pub. L. 88–426, see Pub. L. 88–426, title V, § 501(a), Aug. 14, 1964, 78 Stat. 435.
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to extent provided in section 501(c) of Pub. L. 88–426, see Pub. L. 88–426, title V, § 501(a), Aug. 14, 1964, 78 Stat. 435.
 
 **Conforming Safety and Security Agreement Regarding Peace Corps Volunteers Serving in Foreign Countries**
 
-Pub. L. 112–57, § 7, Nov. 21, 2011, 125 Stat. 744, provided that:
+Pub. L. 112–57, § 7, Nov. 21, 2011, 125 Stat. 744, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Nov. 21, 2011], the Director of the Peace Corps shall consult with the Assistant Secretary of State for Diplomatic Security and enter into a memorandum of understanding that specifies the duties and obligations of the Peace Corps and the Bureau of Diplomatic Security of the Department of State with respect to the protection of Peace Corps volunteers and staff members serving in foreign countries, including with respect to investigations of safety and security incidents and crimes committed against volunteers and staff members.
 
@@ -504,7 +504,7 @@ Pub. L. 112–57, § 7, Nov. 21, 2011, 125 Stat. 744, provided that:
 
 **Continuing Functions of Director of Peace Corps From December 14, 1981**
 
-Pub. L. 97–113, title VI, § 601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided: “The Director of the Peace Corps shall continue to exercise all the functions under the Peace Corps Act [this chapter] or any other law or authority which the Director was performing on December 14, 1981.”
+Pub. L. 97–113, title VI, § 601(d)(2), Dec. 29, 1981, 95 Stat. 1542, provided: “The Director of the Peace Corps shall continue to exercise all the functions under the Peace Corps Act [this chapter] or any other law or authority which the Director was performing on December 14, 1981.”
 
 **Executive Documents**
 
@@ -516,7 +516,7 @@ Transfer to President of the United States of functions conferred upon Director 
 
 Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of Peace Corps by sections 1–103 and 1–301(a), (b) of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
-## § 2504. Peace Corps volunteers
+## § 2504. Peace Corps volunteers
 
 **(a) Persons eligible; terms and conditions of service; Federal employee status; racial, sex, religious, or color discrimination**
 
@@ -530,7 +530,7 @@ Volunteers shall be provided with such living, travel, and leave allowances, and
 
 Volunteers shall be entitled to receive a readjustment allowance at a rate not less than $125 for each month of satisfactory service as determined by the President. The readjustment allowance of each volunteer shall be payable on his return to the United States: *Provided, however*, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States. In the event of the volunteer’s death during the period of his service, the amount of any unpaid readjustment allowance shall be paid in accordance with the provisions of section 5582(b) of title 5. For purposes of the Internal Revenue Code of 1986, a volunteer shall be deemed to be paid and to receive each amount of a readjustment allowance to which he is entitled after December 31, 1964, when such amount is transferred from funds made available under this chapter to the fund from which such readjustment allowance is payable.
 
-**(d) Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 661**
+**(d) Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 661**
 
 **(e) Health care**
 
@@ -582,9 +582,9 @@ Notwithstanding any other provision of law, counsel may be employed and counsel 
 
 **(3)** such orientation, language, and other training necessary to accomplish the purposes of this chapter as the President may determine; and
 
-**(4)** the benefits of subsection (*l*) 1
+**(4)** the benefits of subsection (*l*) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this section on the same basis as volunteers.
 
@@ -626,7 +626,7 @@ The costs of packing and unpacking, transporting to and from a place of storage,
 
 **(7)** The undertaking of a review under this section may not be considered a transfer of program operating responsibilities to the Inspector General of the Peace Corps.
 
-(Pub. L. 87–293, title I, § 5, Sept. 22, 1961, 75 Stat. 613; Pub. L. 88–200, § 2, Dec. 13, 1963, 77 Stat. 359; Pub. L. 89–134, § 2, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 661, 662; Pub. L. 89–572, § 2(a), Sept. 13, 1966, 80 Stat. 765; Pub. L. 91–99, § 2, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, § 3, July 24, 1970, 84 Stat. 464; Pub. L. 94–130, §§ 4, 6, Nov. 14, 1975, 89 Stat. 684; Pub. L. 95–331, § 4, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–465, title II, § 2202(a), Oct. 17, 1980, 94 Stat. 2157; Pub. L. 97–113, title VI, §§ 604(b), 606, Dec. 29, 1981, 95 Stat. 1543; Pub. L. 99–83, title XI, § 1105(b), Aug. 8, 1985, 99 Stat. 276; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–12, § 9(j), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–30, § 2(b)(1)–(3), May 21, 1999, 113 Stat. 55; Pub. L. 112–57, §§ 3, 8(a)(1), (b), Nov. 21, 2011, 125 Stat. 744, 745; Pub. L. 115–256, title I, § 101(a)(1), title III, § 301, Oct. 9, 2018, 132 Stat. 3651, 3655.)
+(Pub. L. 87–293, title I, § 5, Sept. 22, 1961, 75 Stat. 613; Pub. L. 88–200, § 2, Dec. 13, 1963, 77 Stat. 359; Pub. L. 89–134, § 2, Aug. 24, 1965, 79 Stat. 549; Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 661, 662; Pub. L. 89–572, § 2(a), Sept. 13, 1966, 80 Stat. 765; Pub. L. 91–99, § 2, Oct. 29, 1969, 83 Stat. 166; Pub. L. 91–352, § 3, July 24, 1970, 84 Stat. 464; Pub. L. 94–130, §§ 4, 6, Nov. 14, 1975, 89 Stat. 684; Pub. L. 95–331, § 4, Aug. 2, 1978, 92 Stat. 414; Pub. L. 96–465, title II, § 2202(a), Oct. 17, 1980, 94 Stat. 2157; Pub. L. 97–113, title VI, §§ 604(b), 606, Dec. 29, 1981, 95 Stat. 1543; Pub. L. 99–83, title XI, § 1105(b), Aug. 8, 1985, 99 Stat. 276; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–12, § 9(j), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–30, § 2(b)(1)–(3), May 21, 1999, 113 Stat. 55; Pub. L. 112–57, §§ 3, 8(a)(1), (b), Nov. 21, 2011, 125 Stat. 744, 745; Pub. L. 115–256, title I, § 101(a)(1), title III, § 301, Oct. 9, 2018, 132 Stat. 3651, 3655.)
 
 **Editorial Notes**
 
@@ -636,43 +636,43 @@ This chapter, referred to in subsecs. (a), (e) to (i), and (n), was in the origi
 
 The Internal Revenue Code of 1986, referred to in subsec. (c), is classified generally to Title 26, Internal Revenue Code.
 
-The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
+The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (g)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (g)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (i), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (i), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
-Subsection (*l*) of this section, referred to in subsec. (n)(4), was redesignated as subsec. (m) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
+Subsection (*l*) of this section, referred to in subsec. (n)(4), was redesignated as subsec. (m) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
 
-The Inspector General Act of 1978, referred to in subsec. (p)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Inspector General Act of 1978, referred to in subsec. (p)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 **Amendments**
 
-2018—Subsec. (e). Pub. L. 115–256, § 101(a)(1)(A), substituted “receive, preparatory to their service, such immunization, dental care, and information on prescription options and potential interactions, as necessary and appropriate and in accordance with subsection (f)” for “receive such immunization and dental care preparatory to their service”.
+2018—Subsec. (e). Pub. L. 115–256, § 101(a)(1)(A), substituted “receive, preparatory to their service, such immunization, dental care, and information on prescription options and potential interactions, as necessary and appropriate and in accordance with subsection (f)” for “receive such immunization and dental care preparatory to their service”.
 
-Subsecs. (f), (g). Pub. L. 115–256, § 101(a)(1)(B), (C), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsecs. (f), (g). Pub. L. 115–256, § 101(a)(1)(B), (C), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 115–256, § 101(a)(1)(B), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 115–256, § 101(a)(1)(B), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 115–256, § 101(a)(1)(D), which directed substitution of “section), and” for “section, and” could not be executed because “section, and” did not appear in text.
+Subsec. (i). Pub. L. 115–256, § 101(a)(1)(D), which directed substitution of “section), and” for “section, and” could not be executed because “section, and” did not appear in text.
 
-Pub. L. 115–256, § 101(a)(1)(B), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+Pub. L. 115–256, § 101(a)(1)(B), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsecs. (j) to (*o*). Pub. L. 115–256, § 101(a)(1)(B), redesignated subsecs. (i) to (n) as (j) to (*o*), respectively.
+Subsecs. (j) to (*o*). Pub. L. 115–256, § 101(a)(1)(B), redesignated subsecs. (i) to (n) as (j) to (*o*), respectively.
 
-Subsec. (p). Pub. L. 115–256, § 301, added subsec. (p).
+Subsec. (p). Pub. L. 115–256, § 301, added subsec. (p).
 
-2011—Subsec. (a). Pub. L. 112–57, § 8(a)(1), inserted “(including training under section 2507a of this title)” after “training”.
+2011—Subsec. (a). Pub. L. 112–57, § 8(a)(1), inserted “(including training under section 2507a of this title)” after “training”.
 
-Subsec. (e). Pub. L. 112–57, § 8(b), in first sentence, inserted “(including, if necessary, for volunteers and trainees, services under section 2507b of this title)” after “health care” and “including services provided in accordance with section 2507b of this title (except that the six-month limitation shall not apply in the case of such services),” before “as the President”.
+Subsec. (e). Pub. L. 112–57, § 8(b), in first sentence, inserted “(including, if necessary, for volunteers and trainees, services under section 2507b of this title)” after “health care” and “including services provided in accordance with section 2507b of this title (except that the six-month limitation shall not apply in the case of such services),” before “as the President”.
 
-Subsec. (*l*). Pub. L. 112–57, § 3, inserted “and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers” before period at end.
+Subsec. (*l*). Pub. L. 112–57, § 3, inserted “and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers” before period at end.
 
-1999—Subsec. (f)(1)(B). Pub. L. 106–30, § 2(b)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1999—Subsec. (f)(1)(B). Pub. L. 106–30, § 2(b)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (h). Pub. L. 106–30, § 2(b)(2), substituted “section 3342 of title 31, section 5732 and” for “the Federal Voting Assistance Act of 1955 (5 U.S.C. 2171 et seq.), the Act of June 4, 1954, chapter 264, section 4 (5 U.S.C. 73b–5), the Act of December 23, 1944, chapter 716, section 1, as amended (31 U.S.C. 492a),”.
+Subsec. (h). Pub. L. 106–30, § 2(b)(2), substituted “section 3342 of title 31, section 5732 and” for “the Federal Voting Assistance Act of 1955 (5 U.S.C. 2171 et seq.), the Act of June 4, 1954, chapter 264, section 4 (5 U.S.C. 73b–5), the Act of December 23, 1944, chapter 716, section 1, as amended (31 U.S.C. 492a),”.
 
-Subsec. (j). Pub. L. 106–30, § 2(b)(3), substituted “section 3331 of title 5.” for “section 1757 of the Revised Statutes of the United States, as amended (5 U.S.C. 16), and shall swear (or affirm) that he does not advocate the overthrow of our constitutional form of government in the United States, and that he is not a member of an organization that advocates the overthrow of our constitutional form of government in the United States, knowing that such organization so advocates.”
+Subsec. (j). Pub. L. 106–30, § 2(b)(3), substituted “section 3331 of title 5.” for “section 1757 of the Revised Statutes of the United States, as amended (5 U.S.C. 16), and shall swear (or affirm) that he does not advocate the overthrow of our constitutional form of government in the United States, and that he is not a member of an organization that advocates the overthrow of our constitutional form of government in the United States, knowing that such organization so advocates.”
 
 1997—Subsec. (e). Pub. L. 105–12 inserted at end “Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997.”
 
@@ -680,27 +680,27 @@ Subsec. (j). Pub. L. 106–30, § 2(b)(3), substituted “section 3331 of titl
 
 1985—Subsec. (a). Pub. L. 99–83 in amending last sentence generally, struck out provisions prohibiting political tests.
 
-1981—Subsec. (c). Pub. L. 97–113, § 606, substituted “not less than $125” for “not to exceed $125”.
+1981—Subsec. (c). Pub. L. 97–113, § 606, substituted “not less than $125” for “not to exceed $125”.
 
-Subsec. (h). Pub. L. 97–113, § 604(b), struck out provision making section 2702 of this title, relating to malpractice protection, applicable to volunteers and vesting the President with the authority reposed in the Secretary of State in section 2702(f) of this title, and deeming a Peace Corps representative to be a principal representative of the United States for purposes of section 2702(g) of this title. See section 2509(i) and (j) of this title.
+Subsec. (h). Pub. L. 97–113, § 604(b), struck out provision making section 2702 of this title, relating to malpractice protection, applicable to volunteers and vesting the President with the authority reposed in the Secretary of State in section 2702(f) of this title, and deeming a Peace Corps representative to be a principal representative of the United States for purposes of section 2702(g) of this title. See section 2509(i) and (j) of this title.
 
-1980—Subsec. (f)(1)(A). Pub. L. 96–465, § 2202(a)(1)(A), substituted “section 816(a) of the Foreign Service Act of 1980” for “section 852(a)(1) of the Foreign Service Act of 1946, as amended (22 U.S.C. 1092(a)(1)),”.
+1980—Subsec. (f)(1)(A). Pub. L. 96–465, § 2202(a)(1)(A), substituted “section 816(a) of the Foreign Service Act of 1980” for “section 852(a)(1) of the Foreign Service Act of 1946, as amended (22 U.S.C. 1092(a)(1)),”.
 
-Subsec. (f)(1)(B). Pub. L. 96–465, § 2202(a)(1)(B), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946”.
+Subsec. (f)(1)(B). Pub. L. 96–465, § 2202(a)(1)(B), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946”.
 
-Subsec. (h). Pub. L. 96–465, § 2202(a)(2), substituted “section 2702 of this title” for “section 817 of this title” and “President” for “Director of ACTION”.
+Subsec. (h). Pub. L. 96–465, § 2202(a)(2), substituted “section 2702 of this title” for “section 817 of this title” and “President” for “Director of ACTION”.
 
-1978—Subsec. (c). Pub. L. 95–331, § 4(1), struck out provisions relating to allowances for volunteers with minor children at the time of their entering a period of pre-enrollment training.
+1978—Subsec. (c). Pub. L. 95–331, § 4(1), struck out provisions relating to allowances for volunteers with minor children at the time of their entering a period of pre-enrollment training.
 
-Subsec. (h). Pub. L. 95–331, § 4(2), inserted provisions relating to applicability of malpractice protection.
+Subsec. (h). Pub. L. 95–331, § 4(2), inserted provisions relating to applicability of malpractice protection.
 
-1975—Subsec. (a). Pub. L. 94–130, § 4, prohibited discrimination against any person on account of sex.
+1975—Subsec. (a). Pub. L. 94–130, § 4, prohibited discrimination against any person on account of sex.
 
-Subsec. (c). Pub. L. 94–130, § 6, substituted $125 for $75 in initial clause of first sentence.
+Subsec. (c). Pub. L. 94–130, § 6, substituted $125 for $75 in initial clause of first sentence.
 
-1970—Subsec. (c). Pub. L. 91–352, § 3(a), inserted exception that in case of volunteers having one or more children at time of entering a period of pre-enrollment training, one parent would be entitled to receive a readjustment allowance not exceeding $125 for each month of satisfactory service as determined by the President, and substituted “section 5582(b) of title 5” for “section 61f of title 5”.
+1970—Subsec. (c). Pub. L. 91–352, § 3(a), inserted exception that in case of volunteers having one or more children at time of entering a period of pre-enrollment training, one parent would be entitled to receive a readjustment allowance not exceeding $125 for each month of satisfactory service as determined by the President, and substituted “section 5582(b) of title 5” for “section 61f of title 5”.
 
-Subsecs. (m), (n). Pub. L. 91–352, § 3(b), added subsecs. (m) and (n).
+Subsecs. (m), (n). Pub. L. 91–352, § 3(b), added subsecs. (m) and (n).
 
 1969—Subsec. (h). Pub. L. 91–99 inserted provision that for purposes of section 5584 of title 5 (and readjustment allowances made thereto) volunteers are to be deemed employees of the United States Government.
 
@@ -712,25 +712,25 @@ Subsec. (h). Repealed, as applicable to act June 4, 1954, chapter 264, section 5
 
 Subsec. (*l*). Pub. L. 89–572 added subsec. (*l*).
 
-1965—Subsec. (c). Pub. L. 89–134, § 2(a), provided that, for purposes of the Internal Revenue Code of 1954, a volunteer is deemed to be paid and to receive readjustment allowance to which he is entitled after December 31, 1964, when the amount is transferred from funds made available under this chapter to the fund from which the readjustment allowance is paid.
+1965—Subsec. (c). Pub. L. 89–134, § 2(a), provided that, for purposes of the Internal Revenue Code of 1954, a volunteer is deemed to be paid and to receive readjustment allowance to which he is entitled after December 31, 1964, when the amount is transferred from funds made available under this chapter to the fund from which the readjustment allowance is paid.
 
-Subsec. (e). Pub. L. 89–134, § 2(b), extended health care provisions to include health examinations for applicants for enrollment preparatory to their service, immunization and dental care for applicants who have accepted an invitation to begin a period of training under section 2507(a) of this title, and health examinations to former volunteers within six months after termination of their service.
+Subsec. (e). Pub. L. 89–134, § 2(b), extended health care provisions to include health examinations for applicants for enrollment preparatory to their service, immunization and dental care for applicants who have accepted an invitation to begin a period of training under section 2507(a) of this title, and health examinations to former volunteers within six months after termination of their service.
 
-Subsec. (g). Pub. L. 89–134, § 2(c), authorized an increase from 100 to 200 in the number of volunteer secretaries and clerical workers permitted to serve on the staffs of Peace Corps representatives abroad.
+Subsec. (g). Pub. L. 89–134, § 2(c), authorized an increase from 100 to 200 in the number of volunteer secretaries and clerical workers permitted to serve on the staffs of Peace Corps representatives abroad.
 
-Subsec. (h). Pub. L. 89–134, § 2(d), extended check cashing and currency exchange transaction privileges of government employees to Peace Corps volunteers.
+Subsec. (h). Pub. L. 89–134, § 2(d), extended check cashing and currency exchange transaction privileges of government employees to Peace Corps volunteers.
 
-1963—Subsec. (b). Pub. L. 88–200, § 2(a), inserted provision for transfer of supplies and equipment.
+1963—Subsec. (b). Pub. L. 88–200, § 2(a), inserted provision for transfer of supplies and equipment.
 
-Subsec. (c). Pub. L. 88–200, § 2(b), substituted “a readjustment allowance” for “termination payments” in first sentence, the second sentence reading “The readjustment allowance of each volunteer shall be payable on his return to the United States: *Provided, however*, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States” for “The termination payment of each volunteer shall be payable at the termination of his service, or may be paid during the course of his service to the volunteer, to members of his family or to others, under such circumstances as the President may determine” and “readjustment allowance” for “termination payment” in third sentence.
+Subsec. (c). Pub. L. 88–200, § 2(b), substituted “a readjustment allowance” for “termination payments” in first sentence, the second sentence reading “The readjustment allowance of each volunteer shall be payable on his return to the United States: *Provided, however*, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States” for “The termination payment of each volunteer shall be payable at the termination of his service, or may be paid during the course of his service to the volunteer, to members of his family or to others, under such circumstances as the President may determine” and “readjustment allowance” for “termination payment” in third sentence.
 
-Subsec. (f)(2). Pub. L. 88–200, § 2(c), substituted “readjustment allowances” for “termination payments.”
+Subsec. (f)(2). Pub. L. 88–200, § 2(c), substituted “readjustment allowances” for “termination payments.”
 
-Subsec. (g). Pub. L. 88–200, § 2(d), provided for assignment of volunteers to duties on staffs of Peace Corps representatives abroad.
+Subsec. (g). Pub. L. 88–200, § 2(d), provided for assignment of volunteers to duties on staffs of Peace Corps representatives abroad.
 
-Subsec. (h). Pub. L. 88–200, § 2(e), provided that volunteers shall be deemed employees of the U.S. Government for the purposes of absentee voting assistance and payment of general average contributions for transportation of baggage.
+Subsec. (h). Pub. L. 88–200, § 2(e), provided that volunteers shall be deemed employees of the U.S. Government for the purposes of absentee voting assistance and payment of general average contributions for transportation of baggage.
 
-Subsec. (k). Pub. L. 88–200, § 2(f), added subsec. (k).
+Subsec. (k). Pub. L. 88–200, § 2(f), added subsec. (k).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -748,7 +748,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 **Implementation of Recommendations by the Inspector General of the Peace Corps**
 
-Pub. L. 115–256, title I, § 101(b), Oct. 9, 2018, 132 Stat. 3652, provided that:
+Pub. L. 115–256, title I, § 101(b), Oct. 9, 2018, 132 Stat. 3652, provided that:
 
 > **“(1) Inspector general report.—** As promptly as practicable, the Director [of the Peace Corps] shall implement the actions outlined in the agency response for all open recommendations of the Inspector General of the Peace Corps set forth in the report entitled ‘Final Program Evaluation Report: OIG Follow-up Evaluation of Issues Identified in the 2010 Peace Corps/Morocco Assessment of Medical Care’ (Report No. IG–16–01–E).
 
@@ -764,7 +764,7 @@ Pub. L. 115–256, title I, § 101(b), Oct. 9, 2018, 132 Stat. 3652, provided 
 
 **Evaluation of Health-Care Services Provided to Peace Corps Volunteers**
 
-Pub. L. 102–565, § 3, Oct. 28, 1992, 106 Stat. 4266, provided that:
+Pub. L. 102–565, § 3, Oct. 28, 1992, 106 Stat. 4266, provided that:
 
 > **“(a) In General.—** The Director of the Peace Corps shall contract with an eligible organization or organizations to conduct before January 1, 1997, a total of three evaluations of the health-care needs of the Peace Corps volunteers and the adequacy of the system through which the Peace Corps provides health-care services in meeting those needs.
 
@@ -786,11 +786,11 @@ Pub. L. 102–565, § 3, Oct. 28, 1992, 106 Stat. 4266, provided that:
 
 **Legal Expenses Incurred Prior to Sept. 13, 1966**
 
-Pub. L. 89–572, § 2(b), Sept. 13, 1966, 80 Stat. 765, provided that: “The authority contained in subsection (a) [adding subsec. (*l*) to this section] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act [Sept. 13, 1966].”
+Pub. L. 89–572, § 2(b), Sept. 13, 1966, 80 Stat. 765, provided that: “The authority contained in subsection (a) [adding subsec. (*l*) to this section] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act [Sept. 13, 1966].”
 
 **Definitions**
 
-Pub. L. 115–256, § 2, Oct. 9, 2018, 132 Stat. 3650, provided that:
+Pub. L. 115–256, § 2, Oct. 9, 2018, 132 Stat. 3650, provided that:
 
 > “In this Act [see Short Title of 2018 Amendment note set out as a note under section 2501 of this title]:
 
@@ -830,7 +830,7 @@ Sec. 4. Any appointment under this order shall be effected within a period of on
 
 Sec. 5. Any law, Executive Order, or regulation which would disqualify an applicant for appointment in the competitive service or in the excepted service concerned shall also disqualify an applicant for appointment under this order.
 
-## § 2504a. Health care for volunteers at Peace Corps posts
+## § 2504a. Health care for volunteers at Peace Corps posts
 
 **(a) In general**
 
@@ -872,9 +872,9 @@ The Director of the Peace Corps shall include, in the annual Peace Corps congres
 
 The Director of the Peace Corps shall consult with experts at the Centers for Disease Control and Prevention regarding recommendations for prescribing malaria prophylaxis, in order to provide the best standard of care within the context of the Peace Corps environment.
 
-(Pub. L. 87–293, title I, § 5A, as added Pub. L. 115–256, title I, § 101(a)(2), Oct. 9, 2018, 132 Stat. 3651.)
+(Pub. L. 87–293, title I, § 5A, as added Pub. L. 115–256, title I, § 101(a)(2), Oct. 9, 2018, 132 Stat. 3651.)
 
-## § 2505. Peace Corps volunteer leaders; number; applicability of chapter; benefits
+## § 2505. Peace Corps volunteer leaders; number; applicability of chapter; benefits
 
 The President may enroll in the Peace Corps qualified citizens or nationals of the United States whose services are required for supervisory or other special duties or responsibilities in connection with programs under this chapter (referred to in this chapter as “volunteer leaders”). The ratio of the total number of volunteer leaders to the total number of volunteers in service at any one time shall not exceed one to twenty-five. Except as otherwise provided in this chapter, all of the provisions of this chapter applicable to volunteers shall be applicable to volunteer leaders, and the term “volunteers” shall include “volunteer leaders”: *Provided, however*, That—
 
@@ -886,7 +886,7 @@ The President may enroll in the Peace Corps qualified citizens or nationals of t
 
 **(4)** spouses and minor children of volunteer leaders accompanying them may receive such orientation, language, and other training necessary to accomplish the purposes of this chapter as the President may determine.
 
-(Pub. L. 87–293, title I, § 6, Sept. 22, 1961, 75 Stat. 615; Pub. L. 88–200, § 3, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, § 3, Aug. 24, 1965, 79 Stat. 549; Pub. L. 91–352, § 4, July 24, 1970, 84 Stat. 465; Pub. L. 97–387, § 1(a), Dec. 23, 1982, 96 Stat. 1947.)
+(Pub. L. 87–293, title I, § 6, Sept. 22, 1961, 75 Stat. 615; Pub. L. 88–200, § 3, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, § 3, Aug. 24, 1965, 79 Stat. 549; Pub. L. 91–352, § 4, July 24, 1970, 84 Stat. 465; Pub. L. 97–387, § 1(a), Dec. 23, 1982, 96 Stat. 1947.)
 
 **Editorial Notes**
 
@@ -908,7 +908,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Effective Date of 1982 Amendment**
 
-Pub. L. 97–387, § 1(b), Dec. 23, 1982, 96 Stat. 1947, provided that: “This amendment [amending this section] shall be effective as of December 29, 1981.”
+Pub. L. 97–387, § 1(b), Dec. 23, 1982, 96 Stat. 1947, provided that: “This amendment [amending this section] shall be effective as of December 29, 1981.”
 
 **Executive Documents**
 
@@ -920,7 +920,7 @@ Functions of President under this section delegated to Director of Peace Corps w
 
 Appointment of former volunteer leaders to civilian career services, see Ex. Ord. No. 11103, Apr. 10, 1963, 28 F.R. 3571, set out as a note under section 2504 of this title.
 
-## § 2506. Peace Corps employees
+## § 2506. Peace Corps employees
 
 **(a) Foreign employment; compensation, allowances, and benefits; utilization of Presidential authority respecting Foreign Service; additional compensation and differentials; additional governmental employment by person receiving Foreign Service Reserve or staff appointment or assignment; limitation on length of employment**
 
@@ -992,13 +992,13 @@ At no time may the number of appointments or assignments of United States citize
 
 **(D)** The term of any appointment or assignment to any position designated pursuant to subparagraph (A) may not exceed 5 years.
 
-**(b) Repealed. Pub. L. 96–465, title II, § 2205(9), Oct. 17, 1980, 94 Stat. 2160**
+**(b) Repealed. Pub. L. 96–465, title II, § 2205(9), Oct. 17, 1980, 94 Stat. 2160**
 
 **(c) Peace Corps representatives; terms and conditions of service; removal**
 
 In each country or area in which volunteers serve abroad, the President may appoint an employee or a volunteer as a Peace Corps representative to have direction of other employees of the Peace Corps abroad and to oversee the activities carried on under this chapter in such country or area. Unless a representative is a volunteer, the compensation, allowances and benefits, and other terms and conditions of service of each such representative, shall be the same as those of a person appointed, or assigned pursuant to paragraph (1) or (2) of subsection (a) of this section, except that any such representative may, notwithstanding any provision of law, be removed by the President in his discretion.
 
-(Pub. L. 87–293, title I, § 7, Sept. 22, 1961, 75 Stat. 615; Pub. L. 87–793, § 1001(*l*), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–200, § 4, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, § 4, Aug. 24, 1965, 79 Stat. 549; Pub. L. 91–352, § 5, July 24, 1970, 84 Stat. 465; Pub. L. 96–53, title III, § 302, Aug. 14, 1979, 93 Stat. 371; Pub. L. 96–465, title II, §§ 2202(b), 2205(9), Oct. 17, 1980, 94 Stat. 2157, 2160; Pub. L. 98–473, title I, § 101(1) [title V, § 541(a)], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title XI, § 1103(a), Aug. 8, 1985, 99 Stat. 272; Pub. L. 112–57, §§ 5(1), 6, Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title I, § 104, Oct. 9, 2018, 132 Stat. 3653.)
+(Pub. L. 87–293, title I, § 7, Sept. 22, 1961, 75 Stat. 615; Pub. L. 87–793, § 1001(*l*), Oct. 11, 1962, 76 Stat. 865; Pub. L. 88–200, § 4, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, § 4, Aug. 24, 1965, 79 Stat. 549; Pub. L. 91–352, § 5, July 24, 1970, 84 Stat. 465; Pub. L. 96–53, title III, § 302, Aug. 14, 1979, 93 Stat. 371; Pub. L. 96–465, title II, §§ 2202(b), 2205(9), Oct. 17, 1980, 94 Stat. 2157, 2160; Pub. L. 98–473, title I, § 101(1) [title V, § 541(a)], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title XI, § 1103(a), Aug. 8, 1985, 99 Stat. 272; Pub. L. 112–57, §§ 5(1), 6, Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title I, § 104, Oct. 9, 2018, 132 Stat. 3653.)
 
 **Editorial Notes**
 
@@ -1006,7 +1006,7 @@ In each country or area in which volunteers serve abroad, the President may appo
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (a)(1), (2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a)(1), (2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 **Codification**
 
@@ -1016,35 +1016,35 @@ Amendment by Pub. L. 98–473 is based on section 703 of H.R. 5119, Ninety-eight
 
 2018—Subsec. (a)(8). Pub. L. 115–256 added par. (8).
 
-2011—Subsec. (a)(3). Pub. L. 112–57, § 5(1), inserted “, or contracted with for personal services under section 2509(a)(5) of this title,” after “employed, appointed, or assigned under this subsection”.
+2011—Subsec. (a)(3). Pub. L. 112–57, § 5(1), inserted “, or contracted with for personal services under section 2509(a)(5) of this title,” after “employed, appointed, or assigned under this subsection”.
 
-Subsec. (a)(7). Pub. L. 112–57, § 6, added par. (7).
+Subsec. (a)(7). Pub. L. 112–57, § 6, added par. (7).
 
-1985—Subsec. (a)(2)(A). Pub. L. 99–83, § 1103(a)(1), substituted “seven and one-half” for “five”, substituted “, subject to paragraph (5) and except as provided in paragraph (6)” for “unless the Director of the Peace Corps, under special circumstances, personally approves an extension of not more than one year on an individual basis”, and inserted reference to section 309 of the Foreign Service Act of 1980.
+1985—Subsec. (a)(2)(A). Pub. L. 99–83, § 1103(a)(1), substituted “seven and one-half” for “five”, substituted “, subject to paragraph (5) and except as provided in paragraph (6)” for “unless the Director of the Peace Corps, under special circumstances, personally approves an extension of not more than one year on an individual basis”, and inserted reference to section 309 of the Foreign Service Act of 1980.
 
-Subsec. (a)(5), (6). Pub. L. 99–83, § 1103(a)(2), added pars. (5) and (6).
+Subsec. (a)(5), (6). Pub. L. 99–83, § 1103(a)(2), added pars. (5) and (6).
 
 1984—Subsec. (a)(2). Pub. L. 98–473 inserted provision that subparagraphs (A) and (B) do not apply with respect to foreign national employees.
 
-1980—Subsec. (a)(1). Pub. L. 96–465, § 2202(b)(1)(A), substituted “which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980” for “, who shall receive compensation at any of the rates provided for persons appointed to the Foreign Service Reserve and Staff under the Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)” and “section 310” for “section 528” and struck out reference to the applicability of section 1005 of the Foreign Service Act of 1946.
+1980—Subsec. (a)(1). Pub. L. 96–465, § 2202(b)(1)(A), substituted “which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980” for “, who shall receive compensation at any of the rates provided for persons appointed to the Foreign Service Reserve and Staff under the Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)” and “section 310” for “section 528” and struck out reference to the applicability of section 1005 of the Foreign Service Act of 1946.
 
-Subsec. (a)(2). Pub. L. 96–465, § 2202(b)(1)(B), among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and references to class 9 for class 10, and inserted provision relating to section 206(a)(1) of title 29.
+Subsec. (a)(2). Pub. L. 96–465, § 2202(b)(1)(B), among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and references to class 9 for class 10, and inserted provision relating to section 206(a)(1) of title 29.
 
-Subsec. (a)(4). Pub. L. 96–465, § 2202(b)(2), among other changes, struck out provisions relating to the time Congress enacts Foreign Service personnel reform legislation, inserted reference to September 30, 1982, and substituted “such individual” for “such person” and “continuous basis without a break in service of more than three days” for “substantially continuous basis”.
+Subsec. (a)(4). Pub. L. 96–465, § 2202(b)(2), among other changes, struck out provisions relating to the time Congress enacts Foreign Service personnel reform legislation, inserted reference to September 30, 1982, and substituted “such individual” for “such person” and “continuous basis without a break in service of more than three days” for “substantially continuous basis”.
 
-Subsec. (b). Pub. L. 96–465, § 2205(9), struck out subsec. (b) which related to criteria for performance of foreign employment, separation, and severance benefits. See sections 3922 and 4007 to 4009 of this title.
+Subsec. (b). Pub. L. 96–465, § 2205(9), struck out subsec. (b) which related to criteria for performance of foreign employment, separation, and severance benefits. See sections 3922 and 4007 to 4009 of this title.
 
 1979—Subsec. (a)(4). Pub. L. 96–53 added par. (4).
 
 1970—Subsec. (a)(3). Pub. L. 91–352 substantially reenacted provisions and substituted references to section 5941 of title 5, and sections 5923 through 5925 of such title 5, for references to section 118h of title 5 and title II of the Overseas Differentials and Allowances Act.
 
-1965—Subsec. (a). Pub. L. 89–134, § 4(a), (b), redesignated subsec. (c) as (a), incorporated into par. (1) material formerly set out as introductory material, spelled out the authority of the President to utilize his authority to appoint and assign persons under the Foreign Service Act of 1946 by making specific reference to his authority as it related to Foreign Service Reserve Officers, Foreign Service Staff officers and employees, alien clerks and employees and other Government officers and employees apart from the Foreign Service, limited to five-year duration all Foreign Service Reserve or Staff appointments and assignments unless the Director of the Peace Corps personally approved one-years extensions on an individual basis, prohibited reappointment or reassignment under this par. before expiration of a period of time equal to the length of the appointee’s preceding tour of duty, inserted proviso in par. (2) allowing appointment of an unenumerated class of Foreign Service staff officers and employees ranking below class 10 to be paid basic compensation at rates lower than those of class 10 to perform duties of a more routine nature than are usually performed by Foreign Service staff officers and employees of class 10, and, in par. (3), inserted reference to section 118h of title 5 and substituted reference to subsec. (a) for reference to subsec. (c). Former subsec. (a), relating to domestic employment, was repealed.
+1965—Subsec. (a). Pub. L. 89–134, § 4(a), (b), redesignated subsec. (c) as (a), incorporated into par. (1) material formerly set out as introductory material, spelled out the authority of the President to utilize his authority to appoint and assign persons under the Foreign Service Act of 1946 by making specific reference to his authority as it related to Foreign Service Reserve Officers, Foreign Service Staff officers and employees, alien clerks and employees and other Government officers and employees apart from the Foreign Service, limited to five-year duration all Foreign Service Reserve or Staff appointments and assignments unless the Director of the Peace Corps personally approved one-years extensions on an individual basis, prohibited reappointment or reassignment under this par. before expiration of a period of time equal to the length of the appointee’s preceding tour of duty, inserted proviso in par. (2) allowing appointment of an unenumerated class of Foreign Service staff officers and employees ranking below class 10 to be paid basic compensation at rates lower than those of class 10 to perform duties of a more routine nature than are usually performed by Foreign Service staff officers and employees of class 10, and, in par. (3), inserted reference to section 118h of title 5 and substituted reference to subsec. (a) for reference to subsec. (c). Former subsec. (a), relating to domestic employment, was repealed.
 
-Subsec. (b). Pub. L. 89–134, § 4(c), redesignated subsec. (d) as (b), inserted “for the purpose of performing functions under this chapter outside the United States” after “or assigned”, and substituted reference to subsec. (a)(2) for reference to subsec. (c)(2). Former subsec. (b), relating to compensation for domestic employment, was repealed.
+Subsec. (b). Pub. L. 89–134, § 4(c), redesignated subsec. (d) as (b), inserted “for the purpose of performing functions under this chapter outside the United States” after “or assigned”, and substituted reference to subsec. (a)(2) for reference to subsec. (c)(2). Former subsec. (b), relating to compensation for domestic employment, was repealed.
 
-Subsec. (c). Pub. L. 89–134, § 4(d), redesignated subsec. (e) as (c) and substituted reference to subsec. (a) of this section for reference to subsec. (c) of this section. Former subsec. (c) redesignated (a).
+Subsec. (c). Pub. L. 89–134, § 4(d), redesignated subsec. (e) as (c) and substituted reference to subsec. (a) of this section for reference to subsec. (c) of this section. Former subsec. (c) redesignated (a).
 
-Subsecs. (d), (e). Pub. L. 89–134, § 4(c), (d), redesignated subsecs. (d) and (e) as (b) and (c), respectively.
+Subsecs. (d), (e). Pub. L. 89–134, § 4(c), (d), redesignated subsecs. (d) and (e) as (b) and (c), respectively.
 
 1963—Subsec. (b). Pub. L. 88–200 struck out “so” before “employed”.
 
@@ -1066,7 +1066,7 @@ Amendment by Pub. L. 96–53 effective Oct. 1, 1979, see section 512(a) of Pub. 
 
 **Effective Date of 1965 Amendment**
 
-Pub. L. 89–134, § 5(a), Aug. 24, 1965, 79 Stat. 551, provided that: “Section 4 of this Act [amending this section] shall not become effective until the first day of the fourth pay period which begins after the date this Act becomes law. [Aug. 24, 1965].”
+Pub. L. 89–134, § 5(a), Aug. 24, 1965, 79 Stat. 551, provided that: “Section 4 of this Act [amending this section] shall not become effective until the first day of the fourth pay period which begins after the date this Act becomes law. [Aug. 24, 1965].”
 
 **Effective Date of 1962 Amendment**
 
@@ -1082,17 +1082,17 @@ Pub. L. 108–7, div. E, title II, Feb. 20, 2003, 117 Stat. 171.
 
 **Reports to Congress**
 
-Pub. L. 99–83, title XI, § 1103(b), Aug. 8, 1985, 99 Stat. 273, which required the Director of the Peace Corps to submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives reports on the exercise of certain appointment authority granted under section 1103(a) of Pub. L. 99–83 (amending subsec. (a) of this section), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 189 of House Document No. 103–7.
+Pub. L. 99–83, title XI, § 1103(b), Aug. 8, 1985, 99 Stat. 273, which required the Director of the Peace Corps to submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives reports on the exercise of certain appointment authority granted under section 1103(a) of Pub. L. 99–83 (amending subsec. (a) of this section), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 189 of House Document No. 103–7.
 
 **Transfer of Washington Headquarters Personnel from Civil Service to Foreign Service Appointments**
 
-Pub. L. 89–134, § 5(b), Aug. 24, 1965, 79 Stat. 551, provided that:
+Pub. L. 89–134, § 5(b), Aug. 24, 1965, 79 Stat. 551, provided that:
 
 > “Under such regulations as the President may prescribe, each person employed under authorities repealed by section 4(a) of this Act [which repealed former subsecs. (a) and (b) of this section providing for employment of Washington headquarters personnel in accordance with standard civil service laws] immediately prior to the effective date of that section [see Effective Date of 1965 Amendment note above] shall effective on that date be appointed a Foreign Service Reserve officer or Foreign Service staff officer or employee under the authority of section 7(a)(2) of the Peace Corps Act [subsec. (a)(2) of this section], as amended, and appointed or assigned to an appropriate class thereof; except that—
 
 > **“(1)** no person who holds a career or career-conditional appointment immediately prior to the effective date of section 4(a) of this Act [see effective date of 1965 Amendment note above] shall, without his consent, be so appointed until three years after such effective date; and
 
-> **“(2)** each person so appointed who, immediately prior to the effective date of section 4(a) of this Act [see effective date of 1965 Amendment note above], held a career or career-conditional appointment at grade 8 or below of the General Schedule established by the Classification Act of 1949, as amended [see § 5101 et seq. of Title 5, Government Organization and Employees], shall receive an appointment for the duration of operations under the Peace Corps Act, as amended [see Short Title note set out under section 2501 of this title].
+> **“(2)** each person so appointed who, immediately prior to the effective date of section 4(a) of this Act [see effective date of 1965 Amendment note above], held a career or career-conditional appointment at grade 8 or below of the General Schedule established by the Classification Act of 1949, as amended [see § 5101 et seq. of Title 5, Government Organization and Employees], shall receive an appointment for the duration of operations under the Peace Corps Act, as amended [see Short Title note set out under section 2501 of this title].
 
 > Each person appointed under this subsection shall receive basic compensation at the rate of his class determined by the President to be appropriate, but the rate of basic compensation received by such person immediately prior to the effective date of his appointment under this subsection shall not be reduced by the provisions of this subsection.”
 
@@ -1106,13 +1106,13 @@ Functions of President under this section delegated to Director of Peace Corps b
 
 **Coordination of Changes in Policy With Secretary of State**
 
-Any substantial changes in policies in effect on May 16, 1979, for the utilization of the Foreign Service Act of 1980 (§ 3901 et seq. of this title) pursuant to this section are to be coordinated with the Secretary of State, see section 1–111 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of this title.
+Any substantial changes in policies in effect on May 16, 1979, for the utilization of the Foreign Service Act of 1980 (§ 3901 et seq. of this title) pursuant to this section are to be coordinated with the Secretary of State, see section 1–111 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of this title.
 
 **Benefits for Persons Appointed or Assigned Under Subsec. (a)**
 
 Persons appointed, employed, or assigned under subsec. (a) of this section are not, unless otherwise agreed by the agency in which such benefits may be exercised, entitled to the benefits provided by section 928 of this title in cases in which their service under the appointment, employment, or assignment exceeds thirty months, see section 1–401 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, set out as a note under section 2501 of this title.
 
-## § 2507. Training program
+## § 2507. Training program
 
 **(a) Applicants for enrollment and enrolled volunteers**
 
@@ -1126,7 +1126,7 @@ The President may also make provision, on the basis of advances of funds or reim
 
 The President shall implement procedures to maintain a record verifying each individual completing training provided to meet each requirement in this section and sections 2507a, 2507b, 2507f, and 2507g(b) of this title.
 
-(Pub. L. 87–293, title I, § 8, Sept. 22, 1961, 75 Stat. 616; Pub. L. 102–511, title IX, § 904, Oct. 24, 1992, 106 Stat. 3356; Pub. L. 112–57, § 8(a)(2), Nov. 21, 2011, 125 Stat. 745; Pub. L. 115–256, title II, § 201, Oct. 9, 2018, 132 Stat. 3654.)
+(Pub. L. 87–293, title I, § 8, Sept. 22, 1961, 75 Stat. 616; Pub. L. 102–511, title IX, § 904, Oct. 24, 1992, 106 Stat. 3356; Pub. L. 112–57, § 8(a)(2), Nov. 21, 2011, 125 Stat. 745; Pub. L. 115–256, title II, § 201, Oct. 9, 2018, 132 Stat. 3654.)
 
 **Editorial Notes**
 
@@ -1136,11 +1136,11 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–256, § 201(1) substituted “the President deems” for “he deems” and inserted at end “As part of the training provided to all volunteers under subsection (a), and in coordination with the Inspector General of the Peace Corps, the President shall provide all volunteers with information regarding the mandate of the Inspector General and the availability (including contact information) of the Inspector General and the Office of Victim Advocacy as a resource for volunteers. The President shall ensure that volunteers receive such information at least once during training that occurs prior to enrollment and at least once during each significant instance of training after enrollment.”
+2018—Subsec. (a). Pub. L. 115–256, § 201(1) substituted “the President deems” for “he deems” and inserted at end “As part of the training provided to all volunteers under subsection (a), and in coordination with the Inspector General of the Peace Corps, the President shall provide all volunteers with information regarding the mandate of the Inspector General and the availability (including contact information) of the Inspector General and the Office of Victim Advocacy as a resource for volunteers. The President shall ensure that volunteers receive such information at least once during training that occurs prior to enrollment and at least once during each significant instance of training after enrollment.”
 
-Subsec. (c). Pub. L. 115–256, § 201(2), added subsec. (c).
+Subsec. (c). Pub. L. 115–256, § 201(2), added subsec. (c).
 
-2011—Subsec. (a). Pub. L. 112–57 inserted “, including training under section 2507a of this title,” after “for such training”.
+2011—Subsec. (a). Pub. L. 112–57 inserted “, including training under section 2507a of this title,” after “for such training”.
 
 1992—Subsec. (c). Pub. L. 102–511 struck out subsec. (c) which read as follows: “Training hereinabove provided for shall include instruction in the philosophy, strategy, tactics, and menace of communism.”
 
@@ -1150,7 +1150,7 @@ Subsec. (c). Pub. L. 115–256, § 201(2), added subsec. (c).
 
 Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
-## § 2507a. Sexual assault risk-reduction and response training
+## § 2507a. Sexual assault risk-reduction and response training
 
 **(a) In general**
 
@@ -1182,9 +1182,9 @@ Once a volunteer has arrived in his or her country of service, the President sha
 
 **(2) Option to timely decline**
 
-Upon receiving information 1
+Upon receiving information 1
 
-<sup>1</sup>  So in original. Probably should be preceded by “the”.
+<sup>1</sup> So in original. Probably should be preceded by “the”.
 
 described in paragraph (1), the applicant shall have the option to change the country of consideration and identify a substitute country.
 
@@ -1248,21 +1248,21 @@ The term “sexual assault” means any conduct prescribed by chapter 109A of ti
 
 **(B)** suffer substantial emotional distress.
 
-(Pub. L. 87–293, title I, § 8A, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 736; amended Pub. L. 115–256, title III, § 302, Oct. 9, 2018, 132 Stat. 3656.)
+(Pub. L. 87–293, title I, § 8A, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 736; amended Pub. L. 115–256, title III, § 302, Oct. 9, 2018, 132 Stat. 3656.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (d). Pub. L. 115–256, § 302(1), amended subsec. (d) generally. Prior to amendment, text read as follows: “Each applicant for enrollment as a volunteer shall be provided with information regarding crimes against and risks to volunteers in the country in which the applicant has been invited to serve, including an overview of past crimes against volunteers in the country.”
+2018—Subsec. (d). Pub. L. 115–256, § 302(1), amended subsec. (d) generally. Prior to amendment, text read as follows: “Each applicant for enrollment as a volunteer shall be provided with information regarding crimes against and risks to volunteers in the country in which the applicant has been invited to serve, including an overview of past crimes against volunteers in the country.”
 
-Subsec. (f)(2)(B)(iii). Pub. L. 115–256, § 302(2), substituted “Victim’s Advocates,” for “victim advocates”.
+Subsec. (f)(2)(B)(iii). Pub. L. 115–256, § 302(2), substituted “Victim’s Advocates,” for “victim advocates”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Offset of Costs and Personnel**
 
-Pub. L. 112–57, § 9, Nov. 21, 2011, 125 Stat. 745, provided that:
+Pub. L. 112–57, § 9, Nov. 21, 2011, 125 Stat. 745, provided that:
 
 > “Notwithstanding any other provision of law, the Direct [probably should be “Director”] of the Peace Corps shall—
 
@@ -1274,7 +1274,7 @@ Pub. L. 112–57, § 9, Nov. 21, 2011, 125 Stat. 745, provided that:
 
 > **“(4)** not implement any other provision of this Act (other than paragraphs (1), (2), and (3)) or any amendment made by this Act until the Director has certified that the actions specified in paragraphs (1), (2), and (3) have been completed.”
 
-## § 2507b. Sexual assault policy
+## § 2507b. Sexual assault policy
 
 **(a) In general** The President shall develop and implement a comprehensive sexual assault policy that—
 
@@ -1332,19 +1332,19 @@ In developing the sexual assault policy under subsection (a), the President shal
 
 The President shall train all staff outside the United States regarding the sexual assault policy developed under subsection (a).
 
-(Pub. L. 87–293, title I, § 8B, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 738; amended Pub. L. 115–256, title III, § 303, Oct. 9, 2018, 132 Stat. 3657.)
+(Pub. L. 87–293, title I, § 8B, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 738; amended Pub. L. 115–256, title III, § 303, Oct. 9, 2018, 132 Stat. 3657.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a)(3). Pub. L. 115–256, § 303(1), substituted “any employee of the Peace Corps” for “SARLs” and “Victim’s Advocate” for “Victim Advocate” and inserted “and require the Peace Corps to designate the staff at each post who shall be responsible for providing the services described in subsection (c)” before semicolon at end.
+2018—Subsec. (a)(3). Pub. L. 115–256, § 303(1), substituted “any employee of the Peace Corps” for “SARLs” and “Victim’s Advocate” for “Victim Advocate” and inserted “and require the Peace Corps to designate the staff at each post who shall be responsible for providing the services described in subsection (c)” before semicolon at end.
 
-Subsec. (a)(7) to (10). Pub. L. 115–256, § 303(2)–(4), added pars. (7) to (10).
+Subsec. (a)(7) to (10). Pub. L. 115–256, § 303(2)–(4), added pars. (7) to (10).
 
-## § 2507c. Office of Victim Advocacy
+## § 2507c. Office of Victim Advocacy
 
-**(a) Establishment of Office of Victims 1 [footnote: 1 So in original. Probably should be “Victim”.] Advocacy**
+**(a) Establishment of Office of Victims 1 [footnote: 1 So in original. Probably should be “Victim”.] Advocacy**
 
 **(1) In general**
 
@@ -1384,17 +1384,17 @@ The Office of Victim Advocacy shall assist volunteers who are victims of crime a
 
 The Director of the Peace Corps shall include the head of the Office of Victim Advocacy in agency-wide policymaking processes in the same manner and to the same extent as the directors or associate directors of other offices within the Peace Corps.
 
-(Pub. L. 87–293, title I, § 8C, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 739; amended Pub. L. 115–256, title III, § 304, Oct. 9, 2018, 132 Stat. 3658.)
+(Pub. L. 87–293, title I, § 8C, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 739; amended Pub. L. 115–256, title III, § 304, Oct. 9, 2018, 132 Stat. 3658.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (a). Pub. L. 115–256, § 304(1), (2), substituted “Victim’s Advocate” for “victim advocate” and “Victim’s Advocates” for “victim advocates” wherever appearing.
+2018—Subsec. (a). Pub. L. 115–256, § 304(1), (2), substituted “Victim’s Advocate” for “victim advocate” and “Victim’s Advocates” for “victim advocates” wherever appearing.
 
-Subsec. (e). Pub. L. 115–256, § 304(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “This section shall cease to be effective on October 1, 2018.”
+Subsec. (e). Pub. L. 115–256, § 304(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “This section shall cease to be effective on October 1, 2018.”
 
-## § 2507d. Establishment of Sexual Assault Advisory Council
+## § 2507d. Establishment of Sexual Assault Advisory Council
 
 **(a) Establishment**
 
@@ -1424,7 +1424,7 @@ Chapter 10 of title 5 shall not apply to the Council.
 
 This section shall cease to be effective on October 1, 2023.
 
-(Pub. L. 87–293, title I, § 8D, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 740; amended Pub. L. 115–256, title III, § 305, Oct. 9, 2018, 132 Stat. 3658; Pub. L. 117–286, § 4(a)(168), Dec. 27, 2022, 136 Stat. 4324.)
+(Pub. L. 87–293, title I, § 8D, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 740; amended Pub. L. 115–256, title III, § 305, Oct. 9, 2018, 132 Stat. 3658; Pub. L. 117–286, § 4(a)(168), Dec. 27, 2022, 136 Stat. 4324.)
 
 **Editorial Notes**
 
@@ -1432,13 +1432,13 @@ This section shall cease to be effective on October 1, 2023.
 
 2022—Subsec. (f). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
-2018—Subsec. (b). Pub. L. 115–256, § 305(1), substituted “not fewer than 8 and not more than 14 individuals selected by the President” for “not less than 8 individuals selected by the President, not later than 180 days after November 21, 2011,” and inserted “At least one member should be licensed in the field of mental health and have prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization.” after “sexual assault field.”
+2018—Subsec. (b). Pub. L. 115–256, § 305(1), substituted “not fewer than 8 and not more than 14 individuals selected by the President” for “not less than 8 individuals selected by the President, not later than 180 days after November 21, 2011,” and inserted “At least one member should be licensed in the field of mental health and have prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization.” after “sexual assault field.”
 
-Subsec. (c). Pub. L. 115–256, § 305(2), inserted “and implemented” after “sexual assault policy developed” and inserted at end “To carry out this subsection, the Council may conduct case reviews and is authorized to have access, including through interviews, to current and former volunteers (to the extent that such volunteers provide the Peace Corps express consent to be interviewed by the Council), to volunteer surveys under section 2705e of this title, to all data collected from restricted reporting, and to any other information necessary to conduct case reviews, except that the Council may not have access to any personally identifying information associated with such surveys, data, or information.”
+Subsec. (c). Pub. L. 115–256, § 305(2), inserted “and implemented” after “sexual assault policy developed” and inserted at end “To carry out this subsection, the Council may conduct case reviews and is authorized to have access, including through interviews, to current and former volunteers (to the extent that such volunteers provide the Peace Corps express consent to be interviewed by the Council), to volunteer surveys under section 2705e of this title, to all data collected from restricted reporting, and to any other information necessary to conduct case reviews, except that the Council may not have access to any personally identifying information associated with such surveys, data, or information.”
 
-Subsec. (g). Pub. L. 115–256, § 305(3), substituted “2023” for “2018”.
+Subsec. (g). Pub. L. 115–256, § 305(3), substituted “2023” for “2018”.
 
-## § 2507e. Volunteer feedback and Peace Corps review
+## § 2507e. Volunteer feedback and Peace Corps review
 
 **(a) Monitoring and evaluation**
 
@@ -1448,7 +1448,7 @@ Not later than 1 year after November 21, 2011, the President shall establish goa
 
 The President shall establish performance plans with performance elements and standards for Peace Corps representatives, ensure that each such plan includes a consideration of the results, with respect to each such representative and the country of service of each such representative, of each survey conducted under subsection (c),,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 and review the performance of Peace Corps representatives not less than annually to determine whether they have met these performance elements and standards. Nothing in this subsection shall be construed as limiting the discretion of the President to remove a Peace Corps representative.
 
@@ -1482,9 +1482,9 @@ Annually through September 30, 2023, the President shall conduct a confidential 
 
 **(E)** An evaluation of the effectiveness of management of each post within a country.
 
-**(F)** An evaluation of the country’s congruence with the Peace Corp’s 2
+**(F)** An evaluation of the country’s congruence with the Peace Corp’s 2
 
-<sup>2</sup>  So in original. Probably should be “Corps’ ”.
+<sup>2</sup> So in original. Probably should be “Corps’ ”.
 
 mission and strategic priorities.
 
@@ -1492,17 +1492,17 @@ mission and strategic priorities.
 
 Upon request of the Chairman and Ranking Member of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall brief such committees on each portfolio review required under paragraph (1). If requested, each such briefing shall discuss performance measures and sources of data used (such as project status reports, volunteer surveys, impact studies, reports of Inspector General of the Peace Corps, and any relevant external sources) in making the findings and conclusions in such review.
 
-(Pub. L. 87–293, title I, § 8E, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 740; amended Pub. L. 115–256, title II, § 202, Oct. 9, 2018, 132 Stat. 3654.)
+(Pub. L. 87–293, title I, § 8E, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 740; amended Pub. L. 115–256, title II, § 202, Oct. 9, 2018, 132 Stat. 3654.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Subsec. (b). Pub. L. 115–256, § 202(1), inserted “, ensure that each such plan includes a consideration of the results, with respect to each such representative and the country of service of each such representative, of each survey conducted under subsection (c),” after “standards for Peace Corps representatives” and substituted “, and review” for “and shall review”.
+2018—Subsec. (b). Pub. L. 115–256, § 202(1), inserted “, ensure that each such plan includes a consideration of the results, with respect to each such representative and the country of service of each such representative, of each survey conducted under subsection (c),” after “standards for Peace Corps representatives” and substituted “, and review” for “and shall review”.
 
-Subsec. (c). Pub. L. 115–256, § 202(2), substituted “2023” for “2018” and “subsection (b)” for “subsection (a)” and inserted at end “The President shall publish, on a publicly available website of the Peace Corps, a report summarizing the results of each survey related to volunteer satisfaction in each country in which volunteers serve, and the early termination rate of volunteers serving in each such country. The information published shall be posted in an easily accessible place near the description of the appropriate country and shall be written in an easily understood manner.”
+Subsec. (c). Pub. L. 115–256, § 202(2), substituted “2023” for “2018” and “subsection (b)” for “subsection (a)” and inserted at end “The President shall publish, on a publicly available website of the Peace Corps, a report summarizing the results of each survey related to volunteer satisfaction in each country in which volunteers serve, and the early termination rate of volunteers serving in each such country. The information published shall be posted in an easily accessible place near the description of the appropriate country and shall be written in an easily understood manner.”
 
-## § 2507f. Establishment of a policy on stalking
+## § 2507f. Establishment of a policy on stalking
 
 **(a) In general** The President shall develop and implement a comprehensive policy on stalking that—
 
@@ -1520,9 +1520,9 @@ In developing the stalking policy under subsection (a), the President shall cons
 
 The President shall provide for the training of all in-country staff regarding the stalking policy developed under subsection (a).
 
-(Pub. L. 87–293, title I, § 8F, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 742.)
+(Pub. L. 87–293, title I, § 8F, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 742.)
 
-## § 2507g. Establishment of a confidentiality protection policy
+## § 2507g. Establishment of a confidentiality protection policy
 
 **(a) In general**
 
@@ -1536,9 +1536,9 @@ The President shall provide additional training to officers and employees of the
 
 Any Peace Corps volunteer or staff member who is responsible for maintaining confidentiality under subsection (a) and who breaches such duty shall be subject to disciplinary action, including termination, and in the case of a staff member, ineligibility for re-employment with the Peace Corps.
 
-(Pub. L. 87–293, title I, § 8G, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 742.)
+(Pub. L. 87–293, title I, § 8G, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 742.)
 
-## § 2507h. Removal and assessment and evaluation
+## § 2507h. Removal and assessment and evaluation
 
 **(a) In general**
 
@@ -1552,9 +1552,9 @@ If the President determines that a site is unsafe for any remaining volunteers a
 
 The President shall establish a global tracking and recording system to track and record incidents of crimes against volunteers.
 
-(Pub. L. 87–293, title I, § 8H, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 743.)
+(Pub. L. 87–293, title I, § 8H, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 743.)
 
-## § 2507i. Reporting requirements
+## § 2507i. Reporting requirements
 
 **(a) In general** The President shall annually through September 30, 2018, submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report summarizing information on—
 
@@ -1580,17 +1580,17 @@ The President shall determine the level of access to communication, including ce
 
 Not later than six months after November 21, 2011, the President shall submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report on the costs, feasibility, and benefits of providing all volunteers with access to adequate communication, including cellular service and Internet access.
 
-(Pub. L. 87–293, title I, § 8I, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 743.)
+(Pub. L. 87–293, title I, § 8I, as added Pub. L. 112–57, § 2, Nov. 21, 2011, 125 Stat. 743.)
 
-## § 2508. Foreign participants; admission into the United States as nonimmigrants; removal
+## § 2508. Foreign participants; admission into the United States as nonimmigrants; removal
 
-In order to provide for assistance by foreign nationals in the training of volunteers, and to permit effective implementation of Peace Corps projects with due regard for the desirability of cost-sharing arrangements, where appropriate, the President may make provision for transportation, housing, subsistence, or per diem in lieu thereof, and health care or health and accident insurance for foreign nationals engaged in activities authorized by this chapter while they are away from their homes, without regard to the provisions of any other law: *Provided, however*, That per diem in lieu of subsistence furnished to such persons shall not be at rates higher than those prescribed by the Secretary of State pursuant to section 2679 of title 22. Such persons, and persons coming to the United States under contract pursuant to section 2509(a)(5) of this title, may be admitted to the United States, if otherwise qualified, as nonimmigrants under section 1101(a)(15) of title 8 for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General. A person admitted under this section who fails to maintain the status under which he was admitted or who fails to depart from the United States at the expiration of the time for which he was admitted, or who engages in activities of a political nature detrimental to the interests of the United States, or in activities not consistent with the security of the United States, shall, upon the warrant of the Attorney General, be taken into custody and promptly removed pursuant to chapter 4 of title II of the Immigration and Nationality Act [8 U.S.C. 1221 et seq.] 1
+In order to provide for assistance by foreign nationals in the training of volunteers, and to permit effective implementation of Peace Corps projects with due regard for the desirability of cost-sharing arrangements, where appropriate, the President may make provision for transportation, housing, subsistence, or per diem in lieu thereof, and health care or health and accident insurance for foreign nationals engaged in activities authorized by this chapter while they are away from their homes, without regard to the provisions of any other law: *Provided, however*, That per diem in lieu of subsistence furnished to such persons shall not be at rates higher than those prescribed by the Secretary of State pursuant to section 2679 of title 22. Such persons, and persons coming to the United States under contract pursuant to section 2509(a)(5) of this title, may be admitted to the United States, if otherwise qualified, as nonimmigrants under section 1101(a)(15) of title 8 for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General. A person admitted under this section who fails to maintain the status under which he was admitted or who fails to depart from the United States at the expiration of the time for which he was admitted, or who engages in activities of a political nature detrimental to the interests of the United States, or in activities not consistent with the security of the United States, shall, upon the warrant of the Attorney General, be taken into custody and promptly removed pursuant to chapter 4 of title II of the Immigration and Nationality Act [8 U.S.C. 1221 et seq.] 1
 
-<sup>1</sup>  So in original. Probably should be followed by a period and “Removal”.
+<sup>1</sup> So in original. Probably should be followed by a period and “Removal”.
 
 proceedings under this section shall be summary and the findings of the Attorney General as to matters of fact shall be conclusive.
 
-(Pub. L. 87–293, title I, § 9, Sept. 22, 1961, 75 Stat. 617; Pub. L. 97–113, title VI, § 605(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 104–208, div. C, title III, § 308(e)(18), Sept. 30, 1996, 110 Stat. 3009–621.)
+(Pub. L. 87–293, title I, § 9, Sept. 22, 1961, 75 Stat. 617; Pub. L. 97–113, title VI, § 605(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 104–208, div. C, title III, § 308(e)(18), Sept. 30, 1996, 110 Stat. 3009–621.)
 
 **Editorial Notes**
 
@@ -1598,7 +1598,7 @@ proceedings under this section shall be summary and the findings of the Attorney
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163. Chapter 4 of title II of the Act is classified generally to part IV (§ 1221 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163. Chapter 4 of title II of the Act is classified generally to part IV (§ 1221 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 **Amendments**
 
@@ -1622,7 +1622,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
-## § 2509. Presidential powers and authorities
+## § 2509. Presidential powers and authorities
 
 **(a) Contract authority; assignment of volunteers; acceptance of voluntary services and gifts and transfers of property; personal service contracts** In furtherance of the purposes of this chapter, the President may—
 
@@ -1672,7 +1672,7 @@ The Director of the Peace Corps shall have the same authority as is available to
 
 The provisions of section 2702 of this title shall apply to volunteers and persons employed, appointed, or assigned under this chapter, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section..1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 For purposes of this subsection, references to the Secretary in subsection (b) of such section shall be deemed to be references to the Director of the Peace Corps, references to the Secretary in subsection (f) of such section shall be deemed to be references to the President, and the reference in subsection (g) of such section to a principal representative of the United States shall be deemed to be a reference to a Peace Corps representative.
 
@@ -1688,7 +1688,7 @@ For purposes of this subsection, references to the Secretary in subsection (b) o
 
 **(B)** the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 87–293, title I, § 10, Sept. 22, 1961, 75 Stat. 617; Pub. L. 88–200, § 5, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, § 6, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, § 6, Sept. 13, 1966, 80 Stat. 765; Pub. L. 93–49, § 2, June 25, 1973, 87 Stat. 99; Pub. L. 95–331, § 5(a), (c), Aug. 2, 1978, 92 Stat. 414, 415; Pub. L. 97–113, title VI, § 604(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 103–236, title VI, § 602, Apr. 30, 1994, 108 Stat. 491; Pub. L. 106–30, § 2(b)(4), May 21, 1999, 113 Stat. 56; Pub. L. 112–57, § 5(2), Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title II, § 203, Oct. 9, 2018, 132 Stat. 3655.)
+(Pub. L. 87–293, title I, § 10, Sept. 22, 1961, 75 Stat. 617; Pub. L. 88–200, § 5, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, § 6, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, § 6, Sept. 13, 1966, 80 Stat. 765; Pub. L. 93–49, § 2, June 25, 1973, 87 Stat. 99; Pub. L. 95–331, § 5(a), (c), Aug. 2, 1978, 92 Stat. 414, 415; Pub. L. 97–113, title VI, § 604(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 103–236, title VI, § 602, Apr. 30, 1994, 108 Stat. 491; Pub. L. 106–30, § 2(b)(4), May 21, 1999, 113 Stat. 56; Pub. L. 112–57, § 5(2), Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title II, § 203, Oct. 9, 2018, 132 Stat. 3655.)
 
 **Editorial Notes**
 
@@ -1696,13 +1696,13 @@ For purposes of this subsection, references to the Secretary in subsection (b) o
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (a)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
 **Codification**
 
-In subsec. (d), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States, as amended, section 302 of the Federal Property and Administrative Services Act of 1949,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States, as amended, section 302 of the Federal Property and Administrative Services Act of 1949,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -1712,23 +1712,23 @@ In subsec. (d), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of
 
 1999—Subsec. (a)(4). Pub. L. 106–30 substituted “section 1342 of title 31” for “31 U.S.C. 665(b)”.
 
-1994—Subsec. (c). Pub. L. 103–236, § 602(a), which directed amendment of subsec. (c) by substituting “five years” for “thirty six months”, was executed by making the substitution for “thirty-six months” to reflect the probable intent of Congress.
+1994—Subsec. (c). Pub. L. 103–236, § 602(a), which directed amendment of subsec. (c) by substituting “five years” for “thirty six months”, was executed by making the substitution for “thirty-six months” to reflect the probable intent of Congress.
 
-Subsec. (j). Pub. L. 103–236, § 602(b), inserted before period at end of first sentence “, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section.”
+Subsec. (j). Pub. L. 103–236, § 602(b), inserted before period at end of first sentence “, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section.”
 
 1981—Subsecs. (i), (j). Pub. L. 97–113 added subsecs. (i) and (j).
 
-1978—Subsec. (a)(2). Pub. L. 95–331, § 5(a)(1), struck out proviso limiting to no more than 125 Peace Corps volunteers or volunteer leaders the number assignable to the described organizations.
+1978—Subsec. (a)(2). Pub. L. 95–331, § 5(a)(1), struck out proviso limiting to no more than 125 Peace Corps volunteers or volunteer leaders the number assignable to the described organizations.
 
-Subsec. (a)(3) to (5). Pub. L. 95–331, § 5(c), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+Subsec. (a)(3) to (5). Pub. L. 95–331, § 5(c), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-Subsec. (b). Pub. L. 95–331, § 5(a)(2), substituted “$20,000” for “$10,000”.
+Subsec. (b). Pub. L. 95–331, § 5(a)(2), substituted “$20,000” for “$10,000”.
 
-Subsec. (h). Pub. L. 95–331, § 5(a)(3), added subsec. (h).
+Subsec. (h). Pub. L. 95–331, § 5(a)(3), added subsec. (h).
 
 1973—Subsec. (d). Pub. L. 93–49 excepted from waiver of Federal laws the application of sections 5 and 252 of title 41.
 
-1966—Subsec. (a)(3). Pub. L. 89–572 inserted “or transfer” after “and employ” and struck out “, and transfer such money or property to the government or other entities of the country or area with which the volunteers are serving, when such transfers would further the general purposes of the chapter”.
+1966—Subsec. (a)(3). Pub. L. 89–572 inserted “or transfer” after “and employ” and struck out “, and transfer such money or property to the government or other entities of the country or area with which the volunteers are serving, when such transfers would further the general purposes of the chapter”.
 
 1965—Subsec. (a)(3). Pub. L. 89–134 inserted “money or” after “and transfer such”.
 
@@ -1738,11 +1738,11 @@ Subsec. (h). Pub. L. 95–331, § 5(a)(3), added subsec. (h).
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–331, § 5(b), Aug. 2, 1978, 92 Stat. 415, provided that: “The amendment made by paragraph (2) of subsection (a) [amending this section] shall apply to claims made after the date of the enactment of this Act [Aug. 2, 1978].”
+Pub. L. 95–331, § 5(b), Aug. 2, 1978, 92 Stat. 415, provided that: “The amendment made by paragraph (2) of subsection (a) [amending this section] shall apply to claims made after the date of the enactment of this Act [Aug. 2, 1978].”
 
 **Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection**
 
-Pub. L. 97–113, title VI, § 604(c), Dec. 29, 1981, 95 Stat. 1543, provided: “To the extent that the authorities provided by the amendments made by subsection (a) [enacting subsecs. (i) and (j) of this section] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act [Dec. 29, 1981] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
+Pub. L. 97–113, title VI, § 604(c), Dec. 29, 1981, 95 Stat. 1543, provided: “To the extent that the authorities provided by the amendments made by subsection (a) [enacting subsecs. (i) and (j) of this section] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act [Dec. 29, 1981] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
 
 **Executive Documents**
 
@@ -1754,15 +1754,15 @@ Funds available to President under this chapter allocated to and functions of Pr
 
 For determination under subsec. (d) of this section that it is in the furtherance of the purposes of this chapter and that the functions under this chapter may be performed without regard to the applicable laws specified in section 1 and 2 of Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of this title, with certain limitations see section 1–402 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, set out as a note under section 2501 of this title.
 
-## § 2510. Omitted
+## § 2510. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 87–293, title I, § 11, Sept. 22, 1961, 75 Stat. 619; Pub. L. 95–331, § 6, Aug. 2, 1978, 92 Stat. 415; Pub. L. 99–83, title XI, § 1102(b), Aug. 8, 1985, 99 Stat. 272, which required the President to transmit to Congress, at least once in each fiscal year, a report on operations under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 26 of House Document No. 103–7.
+Section, Pub. L. 87–293, title I, § 11, Sept. 22, 1961, 75 Stat. 619; Pub. L. 95–331, § 6, Aug. 2, 1978, 92 Stat. 415; Pub. L. 99–83, title XI, § 1102(b), Aug. 8, 1985, 99 Stat. 272, which required the President to transmit to Congress, at least once in each fiscal year, a report on operations under this chapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 26 of House Document No. 103–7.
 
-## § 2511. Peace Corps National Advisory Council
+## § 2511. Peace Corps National Advisory Council
 
 **(a) Establishment**
 
@@ -1846,7 +1846,7 @@ Not later than January 1, 1988, and not later than January 1 of each second year
 
 The Director of the Peace Corps shall make available to the Council such personnel, administrative support services, and technical assistance as are necessary to carry out its functions effectively.
 
-(Pub. L. 87–293, title I, § 12, as added Pub. L. 99–83, title XI, § 1104(a), Aug. 8, 1985, 99 Stat. 273.)
+(Pub. L. 87–293, title I, § 12, as added Pub. L. 99–83, title XI, § 1104(a), Aug. 8, 1985, 99 Stat. 273.)
 
 **Editorial Notes**
 
@@ -1856,7 +1856,7 @@ This chapter, referred to in subsecs. (b)(1) and (d)(1)(A), was in the original 
 
 **Prior Provisions**
 
-A prior section 2511, Pub. L. 87–293, title I, § 12, Sept. 22, 1961, 75 Stat. 619, established Peace Corps National Advisory Council and set forth its composition, functions, and terms of members, prior to repeal by Pub. L. 92–352, title IV, § 403, July 13, 1972, 86 Stat. 495, effective 90 days after July 13, 1972.
+A prior section 2511, Pub. L. 87–293, title I, § 12, Sept. 22, 1961, 75 Stat. 619, established Peace Corps National Advisory Council and set forth its composition, functions, and terms of members, prior to repeal by Pub. L. 92–352, title IV, § 403, July 13, 1972, 86 Stat. 495, effective 90 days after July 13, 1972.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1874,9 +1874,9 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 **Termination of Similar Advisory Body**
 
-Pub. L. 99–83, title XI, § 1104(b), Aug. 8, 1985, 99 Stat. 275, provided that: “Any advisory body carrying out functions similar to those assigned to the Peace Corps National Advisory Council provided for in subsection (a) [enacting this section] shall cease to exist sixty days after the date of the enactment of this Act [Aug. 8, 1985].”
+Pub. L. 99–83, title XI, § 1104(b), Aug. 8, 1985, 99 Stat. 275, provided that: “Any advisory body carrying out functions similar to those assigned to the Peace Corps National Advisory Council provided for in subsection (a) [enacting this section] shall cease to exist sixty days after the date of the enactment of this Act [Aug. 8, 1985].”
 
-## § 2512. Experts and consultants
+## § 2512. Experts and consultants
 
 **(a) Employment; compensation, travel expenses and per diem; renewal of contracts**
 
@@ -1884,13 +1884,13 @@ Experts and consultants or organizations thereof may, as authorized by section 3
 
 **(b) Exemption from restrictions upon receipt of retirement benefits**
 
-Service of an individual as a member of the Council authorized to be established by section 2511 1
+Service of an individual as a member of the Council authorized to be established by section 2511 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title or as an expert or consultant under subsection (a) of this section shall not be considered as employment or holding of office or position bringing such individual within the provisions of sections 3323(b) and 8344 of title 5, section 4064 of this title, or any other law limiting the reemployment of retired officers or employees or governing the simultaneous receipt of compensation and retired pay or annuities.
 
-(Pub. L. 87–293, title I, § 13, Sept. 22, 1961, 75 Stat. 619; Pub. L. 88–200, § 6, Dec. 13, 1963, 77 Stat. 360; Pub. L. 88–448, title IV, § 401(c), Aug. 19, 1964, 78 Stat. 490; Pub. L. 91–352, § 6, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, § 2202(c), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 107–107, div. A, title X, § 1048(i)(9), Dec. 28, 2001, 115 Stat. 1229.)
+(Pub. L. 87–293, title I, § 13, Sept. 22, 1961, 75 Stat. 619; Pub. L. 88–200, § 6, Dec. 13, 1963, 77 Stat. 360; Pub. L. 88–448, title IV, § 401(c), Aug. 19, 1964, 78 Stat. 490; Pub. L. 91–352, § 6, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, § 2202(c), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 107–107, div. A, title X, § 1048(i)(9), Dec. 28, 2001, 115 Stat. 1229.)
 
 **Editorial Notes**
 
@@ -1898,23 +1898,23 @@ of this title or as an expert or consultant under subsection (a) of this section
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-Section 2511 of this title, referred to in subsec. (b), was repealed by Pub. L. 92–352, title IV, § 403, July 13, 1972, 86 Stat. 495.
+Section 2511 of this title, referred to in subsec. (b), was repealed by Pub. L. 92–352, title IV, § 403, July 13, 1972, 86 Stat. 495.
 
 **Amendments**
 
-2001—Subsec. (b). Pub. L. 107–107 struck out “, subject to section 5532 of title 5” before period at end.
+2001—Subsec. (b). Pub. L. 107–107 struck out “, subject to section 5532 of title 5” before period at end.
 
 1980—Subsec. (b). Pub. L. 96–465 substituted “section 4064 of this title” for “section 1112 of this title”.
 
-1970—Subsec. (a). Pub. L. 91–352, § 6(a), substituted “section 3109 of title 5” for “section 55a of title 5” and “the per diem equivalent of the highest rate payable under section 5332 of title 5” for “$75 per diem”.
+1970—Subsec. (a). Pub. L. 91–352, § 6(a), substituted “section 3109 of title 5” for “section 55a of title 5” and “the per diem equivalent of the highest rate payable under section 5332 of title 5” for “$75 per diem”.
 
-Subsec. (b). Pub. L. 91–352, § 6(b), substituted “sections 3323(b) and 8344 of title 5” and “section 5532 of title 5” for “section 2263 of title 5” and “section 3102 of title 5”, respectively.
+Subsec. (b). Pub. L. 91–352, § 6(b), substituted “sections 3323(b) and 8344 of title 5” and “section 5532 of title 5” for “section 2263 of title 5” and “section 3102 of title 5”, respectively.
 
-1964—Subsec. (b). Pub. L. 88–448 struck out provisions providing that such service shall not be considered as employment or holding of office or position bringing such individual within the provisions of section 59a of title 5, and inserted “, subject to section 3102 of title 5”.
+1964—Subsec. (b). Pub. L. 88–448 struck out provisions providing that such service shall not be considered as employment or holding of office or position bringing such individual within the provisions of section 59a of title 5, and inserted “, subject to section 3102 of title 5”.
 
-1963—Subsec. (a). Pub. L. 88–200, § 6(a), substituted “President” for “Peace Corps”.
+1963—Subsec. (a). Pub. L. 88–200, § 6(a), substituted “President” for “Peace Corps”.
 
-Subsec. (b). Pub. L. 88–200, § 6(b), struck out provisions for exemption from conflict-of-interest laws and restrictions upon receipt of compensation.
+Subsec. (b). Pub. L. 88–200, § 6(b), struck out provisions for exemption from conflict-of-interest laws and restrictions upon receipt of compensation.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1924,7 +1924,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 **Effective Date of 1964 Amendment**
 
-Amendment by Pub. L. 88–448 effective on first day of first month which begins later than ninetieth day following Aug. 19, 1964, see Pub. L. 88–448, title IV, § 403, Aug. 19, 1964, 78 Stat. 496.
+Amendment by Pub. L. 88–448 effective on first day of first month which begins later than ninetieth day following Aug. 19, 1964, see Pub. L. 88–448, title IV, § 403, Aug. 19, 1964, 78 Stat. 496.
 
 **Peace Corps National Advisory Council**
 
@@ -1936,7 +1936,7 @@ Abolition of Peace Corps National Advisory Council, see section 2511 of this tit
 
 Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
-## § 2513. Assignment of personnel to foreign governments or international organizations
+## § 2513. Assignment of personnel to foreign governments or international organizations
 
 **(a) Authority; oath of allegiance**
 
@@ -1954,7 +1954,7 @@ Any such officer or employee, while so detailed or assigned, shall be considered
 
 **(3)** upon an advance of funds, property or services to the United States Government accepted with the approval of the President for specified uses in furtherance of the purposes of this chapter; and funds so advanced may be established as a separate fund in the Treasury of the United States Government, to be available for the specified uses, and to be used for reimbursement of appropriations or direct expenditure subject to the provisions of this chapter, any unexpended balance of such account to be returned to the foreign government or international organization.
 
-(Pub. L. 87–293, title I, § 14, Sept. 22, 1961, 75 Stat. 620; Pub. L. 91–352, § 7, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, § 2202(d), Oct. 17, 1980, 94 Stat. 2158.)
+(Pub. L. 87–293, title I, § 14, Sept. 22, 1961, 75 Stat. 620; Pub. L. 91–352, § 7, July 24, 1970, 84 Stat. 465; Pub. L. 96–465, title II, § 2202(d), Oct. 17, 1980, 94 Stat. 2158.)
 
 **Editorial Notes**
 
@@ -1980,7 +1980,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
-## § 2514. Use of funds
+## § 2514. Use of funds
 
 **(a) Administrative and other expenses**
 
@@ -1994,7 +1994,7 @@ Funds made available for the purposes of this chapter may be used to pay expense
 
 Funds available under this chapter may be used to pay costs of training employees employed or assigned pursuant to section 2506(a)(2) of this title (through interchange or otherwise) at any State or local unit of government, public or private nonprofit institution, trade, labor, agricultural, or scientific association or organization, or commercial firm; and the provisions of subchapter VI of chapter 33 of title 5 may be used to carry out the foregoing authority notwithstanding that interchange of personnel may not be involved or that the training may not take place at the institutions specified in that Act.1
 
-<sup>1</sup>  So in original. Probably should be “that subchapter.”
+<sup>1</sup> So in original. Probably should be “that subchapter.”
 
 Any payments or contributions in connection therewith may, as deemed appropriate by the head of the agency of the United States Government authorizing such training, be made by private or public sources and be accepted by any trainee, or may be accepted by and credited to the current applicable appropriation of such agency: *Provided, however*, That any such payments to an employee in the nature of compensation shall be in lieu, or in reduction, of compensation received from the United States Government.
 
@@ -2026,7 +2026,7 @@ Any payments or contributions in connection therewith may, as deemed appropriate
 
 **(13)** the transportation of Peace Corps employees, Peace Corps volunteers, dependents of such employees and volunteers, and accompanying baggage, by a foreign air carrier when the transportation is between two places outside the United States without regard to section 40118 of title 49.
 
-(Pub. L. 87–293, title I, § 15, Sept. 22, 1961, 75 Stat. 621; Pub. L. 89–134, § 7, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, § 3, Sept. 13, 1966, 80 Stat. 765; Pub. L. 96–465, title II, § 2202(e), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 96–533, title VI, § 601(c), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 100–202, § 101(e) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–131, 1329–145; Pub. L. 106–30, § 2(a), (b)(5)–(8), May 21, 1999, 113 Stat. 55, 56.)
+(Pub. L. 87–293, title I, § 15, Sept. 22, 1961, 75 Stat. 621; Pub. L. 89–134, § 7, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, § 3, Sept. 13, 1966, 80 Stat. 765; Pub. L. 96–465, title II, § 2202(e), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 96–533, title VI, § 601(c), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 100–202, § 101(e) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–131, 1329–145; Pub. L. 106–30, § 2(a), (b)(5)–(8), May 21, 1999, 113 Stat. 55, 56.)
 
 **Editorial Notes**
 
@@ -2034,19 +2034,19 @@ Any payments or contributions in connection therewith may, as deemed appropriate
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (d)(11), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (d)(11), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 **Amendments**
 
-1999—Subsec. (c). Pub. L. 106–30, § 2(b)(5), substituted “subchapter VI of chapter 33 of title 5” for “sections 1881 to 1888 of title 7”.
+1999—Subsec. (c). Pub. L. 106–30, § 2(b)(5), substituted “subchapter VI of chapter 33 of title 5” for “sections 1881 to 1888 of title 7”.
 
-Subsec. (d)(2). Pub. L. 106–30, § 2(b)(6), substituted “section 1346 of title 31” for “section 9 of Public Law 60–328 (31 U.S.C. 673)”.
+Subsec. (d)(2). Pub. L. 106–30, § 2(b)(6), substituted “section 1346 of title 31” for “section 9 of Public Law 60–328 (31 U.S.C. 673)”.
 
-Subsec. (d)(6). Pub. L. 106–30, § 2(b)(7), struck out “without regard to section 3561 of the Revised Statutes (31 U.S.C. 543)” after “exchange of funds”.
+Subsec. (d)(6). Pub. L. 106–30, § 2(b)(7), struck out “without regard to section 3561 of the Revised Statutes (31 U.S.C. 543)” after “exchange of funds”.
 
-Subsec. (d)(11). Pub. L. 106–30, § 2(b)(8), substituted “Foreign Service Act of 1980 (22 U.S.C. 3901 et seq.)” for “Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)”.
+Subsec. (d)(11). Pub. L. 106–30, § 2(b)(8), substituted “Foreign Service Act of 1980 (22 U.S.C. 3901 et seq.)” for “Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)”.
 
-Subsec. (d)(13). Pub. L. 106–30, § 2(a), added par. (13).
+Subsec. (d)(13). Pub. L. 106–30, § 2(a), added par. (13).
 
 1987—Subsec. (d)(4). Pub. L. 100–202 substituted “the applicable cost limitation described in section 2396(a)(5) of this title” for “$2,500” and inserted proviso that section 1343 of title 31 not apply to the purchase of vehicles for the transportation, maintenance, or direct support of volunteers overseas.
 
@@ -2054,9 +2054,9 @@ Subsec. (d)(13). Pub. L. 106–30, § 2(a), added par. (13).
 
 Subsec. (d)(7). Pub. L. 96–533 increased to $20,000 from $5,000 fiscal year expenditures limitation.
 
-1966—Subsec. (c). Pub. L. 89–572, § 3(a), substituted “2506(a)(2)” for “2506(c)(2)”.
+1966—Subsec. (c). Pub. L. 89–572, § 3(a), substituted “2506(a)(2)” for “2506(c)(2)”.
 
-Subsec. (d)(4). Pub. L. 89–572, § 3(b), substituted “2506(c)” for “2506(e)”.
+Subsec. (d)(4). Pub. L. 89–572, § 3(b), substituted “2506(c)” for “2506(e)”.
 
 1965—Subsec. (c). Pub. L. 89–134 struck out provision that training not be considered employment or holding of office under section 2 of the Act of July 31, 1894, as amended (5 U.S.C. 62).
 
@@ -2066,7 +2066,7 @@ Subsec. (d)(4). Pub. L. 89–572, § 3(b), substituted “2506(c)” for “25
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-## § 2514a. Authorization for Peace Corps to provide separation pay for host country resident personal services contractors of the Peace Corps
+## § 2514a. Authorization for Peace Corps to provide separation pay for host country resident personal services contractors of the Peace Corps
 
 **(a) Establishment of fund**
 
@@ -2082,7 +2082,7 @@ There is established in the Treasury of the United States a fund for the Peace C
 
 Beginning in fiscal year 2007, amounts deposited in the fund established under subsection (a) shall be available without fiscal year limitation for severance, retirement, or other separation payments to host country resident personal services contractors of the Peace Corps in countries where such payments are legally authorized.
 
-(Pub. L. 110–86, § 1, Sept. 27, 2007, 121 Stat. 979.)
+(Pub. L. 110–86, § 1, Sept. 27, 2007, 121 Stat. 979.)
 
 **Editorial Notes**
 
@@ -2090,7 +2090,7 @@ Beginning in fiscal year 2007, amounts deposited in the fund established under s
 
 Section was not enacted as part of the Peace Corps Act which comprises this chapter.
 
-## § 2515. Foreign Currency Fluctuations Account
+## § 2515. Foreign Currency Fluctuations Account
 
 **(a) Establishment**
 
@@ -2130,33 +2130,33 @@ There are authorized to be appropriated to the Foreign Currency Fluctuations, Pe
 
 Each year the Director of the Peace Corps shall submit to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives, and to the Committee on Foreign Relations and the Committee on Appropriations of the Senate, a report on funds transferred under this section.
 
-(Pub. L. 87–293, title I, § 16, as added Pub. L. 102–565, § 2(a), Oct. 28, 1992, 106 Stat. 4265.)
+(Pub. L. 87–293, title I, § 16, as added Pub. L. 102–565, § 2(a), Oct. 28, 1992, 106 Stat. 4265.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2515, Pub. L. 87–293, title I, § 16, Sept. 22, 1961, 75 Stat. 622, related to appointment of persons serving under prior law, prior to repeal by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765.
+A prior section 2515, Pub. L. 87–293, title I, § 16, Sept. 22, 1961, 75 Stat. 622, related to appointment of persons serving under prior law, prior to repeal by Pub. L. 89–572, § 5(a), Sept. 13, 1966, 80 Stat. 765.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 102–565, § 2(b), Oct. 28, 1992, 106 Stat. 4266, provided that: “The amendment made by subsection (a) [enacting this section] applies with respect to each fiscal year after fiscal year 1992.”
+Pub. L. 102–565, § 2(b), Oct. 28, 1992, 106 Stat. 4266, provided that: “The amendment made by subsection (a) [enacting this section] applies with respect to each fiscal year after fiscal year 1992.”
 
 **Repeals; Amendments and Application of Amendments Unaffected; Continuation of Determinations, Authorization, Regulations, Orders, Contracts, Agreements, and Other Actions**
 
-Pub. L. 89–572, § 5, Sept. 13, 1966, 80 Stat. 765, provided that:
+Pub. L. 89–572, § 5, Sept. 13, 1966, 80 Stat. 765, provided that:
 
 > **“(a)** Section 16 of the Peace Corps Act, as amended [former section 2515 of this title], which relates to appointment of persons serving under prior law, section 20 of the Peace Corps Act, as amended, which relates to moratorium on student loans [amending section 425 of Title 20, Education], section 21 of the Peace Corps Act, as amended, which amends the Civil Service Retirement Act [section 8301 et seq. of Title 5, Government Organization and Employees], and title II of the Act, which relates to Internal Revenue Code and Social Security Act amendments [amending sections 912, 1303, 3121, 3122, 3401 and 6051 of Title 26, Internal Revenue Code, and sections 405, 409 and 410 of Title 42, The Public Health and Welfare, and notes under sections 912 and 3121 of Title 26] are hereby repealed.
 
 > **“(b)** Such repeal shall not be deemed to affect amendments contained in such provisions and the application of the amendments contained in the title. All determinations, authorizations, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the provisions of law repealed by subsection (a) shall continue in full force and effect until modified by appropriate authority.”
 
-## § 2516. Use of foreign currencies
+## § 2516. Use of foreign currencies
 
 Whenever possible, expenditures incurred in carrying out functions under this chapter shall be paid for in such currency of the country or area where the expense is incurred as may be available to the United States.
 
-(Pub. L. 87–293, title I, § 17, Sept. 22, 1961, 75 Stat. 623.)
+(Pub. L. 87–293, title I, § 17, Sept. 22, 1961, 75 Stat. 623.)
 
 **Editorial Notes**
 
@@ -2164,23 +2164,23 @@ Whenever possible, expenditures incurred in carrying out functions under this ch
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-## § 2517. Activities promoting Americans’ understanding of other peoples
+## § 2517. Activities promoting Americans’ understanding of other peoples
 
 In order to further the goal of the Peace Corps, as set forth in section 2501 of this title, relating to the promotion of a better understanding of other peoples on the part of the American people, the Director, utilizing the authorities under section 2509(a)(1) of this title and other provisions of law, shall, as appropriate, encourage, facilitate, and assist activities carried out by former volunteers in furtherance of such goal and the efforts of agencies, organizations, and other individuals to support or assist in former volunteers’ carrying out such activities.
 
-(Pub. L. 87–293, title I, § 18, as added Pub. L. 100–202, § 101(e) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–131, 1329–145.)
+(Pub. L. 87–293, title I, § 18, as added Pub. L. 100–202, § 101(e) [title II, § 201], Dec. 22, 1987, 101 Stat. 1329–131, 1329–145.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 2517, Pub. L. 87–293, title I, § 18, Sept. 22, 1961, 75 Stat. 623, provided that Mutual Defense Assistance Control Act of 1951 (22 U.S.C. 1611 et seq.) applied, subject to an exception, to functions carried out under this chapter, prior to repeal by Pub. L. 97–113, title VI, § 605(b), Dec. 29, 1981, 95 Stat. 1543. The 1951 Act was superseded by the Export Administration Act of 1979 (50 U.S.C. 4601 et seq.).
+A prior section 2517, Pub. L. 87–293, title I, § 18, Sept. 22, 1961, 75 Stat. 623, provided that Mutual Defense Assistance Control Act of 1951 (22 U.S.C. 1611 et seq.) applied, subject to an exception, to functions carried out under this chapter, prior to repeal by Pub. L. 97–113, title VI, § 605(b), Dec. 29, 1981, 95 Stat. 1543. The 1951 Act was superseded by the Export Administration Act of 1979 (50 U.S.C. 4601 et seq.).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Paul D. Coverdell World Wise Schools Program**
 
-Pub. L. 106–570, title VI, Dec. 27, 2000, 114 Stat. 3051, as amended by Pub. L. 107–21, § 2, July 26, 2001, 115 Stat. 194, provided that:
+Pub. L. 106–570, title VI, Dec. 27, 2000, 114 Stat. 3051, as amended by Pub. L. 107–21, § 2, July 26, 2001, 115 Stat. 194, provided that:
 
 > **“SEC. 601. SHORT TITLE.**
 
@@ -2216,7 +2216,7 @@ Pub. L. 106–570, title VI, Dec. 27, 2000, 114 Stat. 3051, as amended by Pub. L
 
 **Paul D. Coverdell Fellows Program**
 
-Pub. L. 106–309, title IV, § 408, Oct. 17, 2000, 114 Stat. 1100, provided that:
+Pub. L. 106–309, title IV, § 408, Oct. 17, 2000, 114 Stat. 1100, provided that:
 
 > **“(a) Short Title.—** This section may be cited as the ‘Paul D. Coverdell Fellows Program Act of 2000’.
 
@@ -2232,11 +2232,11 @@ Pub. L. 106–309, title IV, § 408, Oct. 17, 2000, 114 Stat. 1100, provided t
 
 > **“(c) Designation of Paul D. Coverdell Fellows Program.—**
 
-> **“(1) In general.—** Effective on the date of the enactment of this Act [Oct. 17, 2000], the program under section 18 of the Peace Corps Act (22 U.S.C. 2517) referred to before such date as the ‘Peace Corps Fellows/ USA Program’ is redesignated as the ‘Paul D. Coverdell Fellows Program’.
+> **“(1) In general.—** Effective on the date of the enactment of this Act [Oct. 17, 2000], the program under section 18 of the Peace Corps Act (22 U.S.C. 2517) referred to before such date as the ‘Peace Corps Fellows/ USA Program’ is redesignated as the ‘Paul D. Coverdell Fellows Program’.
 
-> **“(2) References.—** Any reference before the date of the enactment of this Act [Oct. 17, 2000] in any law, regulation, order, document, record, or other paper of the United States to the Peace Corps Fellows/ USA Program shall, on and after such date, be considered to refer to the Paul D. Coverdell Fellows Program.”
+> **“(2) References.—** Any reference before the date of the enactment of this Act [Oct. 17, 2000] in any law, regulation, order, document, record, or other paper of the United States to the Peace Corps Fellows/ USA Program shall, on and after such date, be considered to refer to the Paul D. Coverdell Fellows Program.”
 
-## § 2518. Seal and name
+## § 2518. Seal and name
 
 **(a) Judicial notice**
 
@@ -2248,7 +2248,7 @@ The President may adopt, alter, and use an official seal or emblem of the Peace 
 
 **(2)** Whoever, whether an individual, partnership, corporation, or association, uses the seal for which provision is made in this section, or any sign, insignia, or symbol in colorable imitation thereof, or the words “Peace Corps” or any combination of these or other words or characters in colorable imitation thereof, other than to designate programs authorized under this chapter, shall be fined not more than $500 or imprisoned not more than six months, or both. A violation of this subsection may be enjoined at the suit of the Attorney General, United States attorneys, or other persons duly authorized to represent the United States.
 
-(Pub. L. 87–293, title I, § 19, Sept. 22, 1961, 75 Stat. 623; Pub. L. 88–200, § 7, Dec. 13, 1963, 77 Stat. 360.)
+(Pub. L. 87–293, title I, § 19, Sept. 22, 1961, 75 Stat. 623; Pub. L. 88–200, § 7, Dec. 13, 1963, 77 Stat. 360.)
 
 **Editorial Notes**
 
@@ -2266,11 +2266,11 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 Functions of President under this section, except authority to adopt and alter an official seal or emblem, delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
-## § 2519. Security investigations
+## § 2519. Security investigations
 
 All persons employed or assigned to duties under this chapter shall be investigated to insure that the employment or assignment is consistent with the national interest in accordance with standards and procedures established by the President. If an investigation made pursuant to this section develops any data reflecting that the person who is the subject of the investigation is of questionable loyalty or is a questionable security risk, the investigating agency shall refer the matter to the Federal Bureau of Investigation for the conduct of a full field investigation. The results of that full field investigation shall be furnished to the initial investigating agency, and to the agency by which the subject person is employed, for information and appropriate action. Volunteers shall be deemed employees of the United States Government for the purpose of this section.
 
-(Pub. L. 87–293, title I, § 22, Sept. 22, 1961, 75 Stat. 624.)
+(Pub. L. 87–293, title I, § 22, Sept. 22, 1961, 75 Stat. 624.)
 
 **Editorial Notes**
 
@@ -2284,23 +2284,23 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
-## § 2520. Military training and service exemption
+## § 2520. Military training and service exemption
 
 Notwithstanding the provisions of any other law or regulation, service in the Peace Corps as a volunteer shall not in any way exempt such volunteer from the performance of any obligations or duties under the provisions of the Universal Military Training and Service Act [50 U.S.C. 3801 et seq.].
 
-(Pub. L. 87–293, title I, § 23, Sept. 22, 1961, 75 Stat. 624.)
+(Pub. L. 87–293, title I, § 23, Sept. 22, 1961, 75 Stat. 624.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Universal Military Training and Service Act, referred to in text, subsequently renamed the Military Selective Service Act, is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+The Universal Military Training and Service Act, referred to in text, subsequently renamed the Military Selective Service Act, is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-## § 2521. Foreign language proficiency
+## § 2521. Foreign language proficiency
 
 No person shall be assigned to duty as a volunteer under this chapter in any foreign country or area unless at the time of such assignment he possesses such reasonable proficiency as his assignment requires in speaking the language of the country or area to which he is assigned.
 
-(Pub. L. 87–293, title I, § 24, Sept. 22, 1961, 75 Stat. 624.)
+(Pub. L. 87–293, title I, § 24, Sept. 22, 1961, 75 Stat. 624.)
 
 **Editorial Notes**
 
@@ -2308,7 +2308,7 @@ No person shall be assigned to duty as a volunteer under this chapter in any for
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-## § 2521a. Nonpartisan appointments
+## § 2521a. Nonpartisan appointments
 
 In carrying out this chapter, no political test or political qualification may be used in—
 
@@ -2316,7 +2316,7 @@ In carrying out this chapter, no political test or political qualification may b
 
 **(2)** promoting or taking any other action with respect to any volunteer or any person assigned to such a duty station.
 
-(Pub. L. 87–293, title I, § 25, as added Pub. L. 99–83, title XI, § 1105(a)(2), Aug. 8, 1985, 99 Stat. 276.)
+(Pub. L. 87–293, title I, § 25, as added Pub. L. 99–83, title XI, § 1105(a)(2), Aug. 8, 1985, 99 Stat. 276.)
 
 **Editorial Notes**
 
@@ -2334,7 +2334,7 @@ A prior section 25 of Pub. L. 87–293 was renumbered section 26 and is classifi
 
 Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
 
-## § 2522. Definitions
+## § 2522. Definitions
 
 In this chapter:
 
@@ -2348,7 +2348,7 @@ In this chapter:
 
 **(5)** The word “transportation” in sections 2504(b), 2504(m),1
 
-<sup>1</sup>  So in original. See References in Text note below.
+<sup>1</sup> So in original. See References in Text note below.
 
 and 2505(2) of this title includes transportation of not to exceed three hundred pounds per person of unaccompanied necessary personal and household effects.
 
@@ -2358,11 +2358,11 @@ and 2505(2) of this title includes transportation of not to exceed three hundred
 
 **(8)** For the purposes of this chapter or any other Act, the period of any individual’s service as a volunteer under this chapter shall include—
 
-**(i)** except for the purposes of section 2504(f) <sup>1</sup> of this title, any period of training under section 2507(a) of this title prior to enrollment as a volunteer under this chapter; and
+**(i)** except for the purposes of section 2504(f) <sup>1</sup> of this title, any period of training under section 2507(a) of this title prior to enrollment as a volunteer under this chapter; and
 
 **(ii)** the period between enrollment as a volunteer and the termination of service as such volunteer by the President or by death or resignation.
 
-(Pub. L. 87–293, title I, § 26, formerly § 25, Sept. 22, 1961, 75 Stat. 624; Pub. L. 89–572, § 4, Sept. 13, 1966, 80 Stat. 765; Pub. L. 91–352, § 8, July 24, 1970, 84 Stat. 465; renumbered § 26, Pub. L. 99–83, title XI, § 1105(a)(1), Aug. 8, 1985, 99 Stat. 276; Pub. L. 115–256, title III, § 306, Oct. 9, 2018, 132 Stat. 3659.)
+(Pub. L. 87–293, title I, § 26, formerly § 25, Sept. 22, 1961, 75 Stat. 624; Pub. L. 89–572, § 4, Sept. 13, 1966, 80 Stat. 765; Pub. L. 91–352, § 8, July 24, 1970, 84 Stat. 465; renumbered § 26, Pub. L. 99–83, title XI, § 1105(a)(1), Aug. 8, 1985, 99 Stat. 276; Pub. L. 115–256, title III, § 306, Oct. 9, 2018, 132 Stat. 3659.)
 
 **Editorial Notes**
 
@@ -2370,9 +2370,9 @@ and 2505(2) of this title includes transportation of not to exceed three hundred
 
 This chapter, referred to in introductory provisions and par. (8), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-Section 2504(m) of this title, referred to in par. (5), was redesignated section 2504(n) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
+Section 2504(m) of this title, referred to in par. (5), was redesignated section 2504(n) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
 
-Section 2504(f) of this title, referred to in par. (8)(i), was redesignated section 2504(g) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
+Section 2504(f) of this title, referred to in par. (8)(i), was redesignated section 2504(g) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
 
 **Prior Provisions**
 
@@ -2386,11 +2386,11 @@ A prior section 26 of Pub. L. 87–293 was renumbered section 27 and is classifi
 
 1966—Subsec. (b). Pub. L. 89–572 struck out territories from definition of “United States”.
 
-## § 2523. Separability
+## § 2523. Separability
 
 If any provision of this chapter or the application of any provision to any circumstances or persons shall be held invalid, the validity of the remainder of this chapter and the applicability of such provision to other circumstances or persons shall not be affected thereby.
 
-(Pub. L. 87–293, title I, § 27, formerly § 26, Sept. 22, 1961, 75 Stat. 625; renumbered § 27, Pub. L. 99–83, title XI, § 1105(a)(1), Aug. 8, 1985, 99 Stat. 276.)
+(Pub. L. 87–293, title I, § 27, formerly § 26, Sept. 22, 1961, 75 Stat. 625; renumbered § 27, Pub. L. 99–83, title XI, § 1105(a)(1), Aug. 8, 1985, 99 Stat. 276.)
 
 **Editorial Notes**
 

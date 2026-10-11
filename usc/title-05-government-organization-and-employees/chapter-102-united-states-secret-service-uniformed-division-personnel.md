@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 102—UNITED STATES SECRET SERVICE UNIFORMED DIVISION PERSONNEL
 
-## § 10201. Definitions
+## § 10201. Definitions
 
 In this chapter—
 
@@ -25,7 +25,7 @@ In this chapter—
 
 **(3)** the term “United States Secret Service Uniformed Division” has the meaning given that term under section 3056A of title 18.
 
-(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3033.)
+(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3033.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -35,11 +35,11 @@ Section effective on first day of first pay period which begins after Oct. 15, 2
 
 **Purpose**
 
-Pub. L. 111–282, § 1(b), Oct. 15, 2010, 124 Stat. 3033, provided that: “The purpose of this Act [see Short Title of 2010 Amendment note set out under section 101 of this title] is to transfer statutory entitlements to pay and hours of work authorized by laws codified in the District of Columbia Official Code for current members of the United States Secret Service Uniformed Division from such laws to the United States Code.”
+Pub. L. 111–282, § 1(b), Oct. 15, 2010, 124 Stat. 3033, provided that: “The purpose of this Act [see Short Title of 2010 Amendment note set out under section 101 of this title] is to transfer statutory entitlements to pay and hours of work authorized by laws codified in the District of Columbia Official Code for current members of the United States Secret Service Uniformed Division from such laws to the United States Code.”
 
 **Miscellaneous Provisions**
 
-Pub. L. 111–282, § 3, Oct. 15, 2010, 124 Stat. 3038, provided that:
+Pub. L. 111–282, § 3, Oct. 15, 2010, 124 Stat. 3038, provided that:
 
 > **“(a) Conversion to New Salary Schedule.—**
 
@@ -103,9 +103,9 @@ Pub. L. 111–282, § 3, Oct. 15, 2010, 124 Stat. 3038, provided that:
 
 **Inapplicability of District of Columbia Official Code Provisions**
 
-Pub. L. 111–282, § 4(a), Oct. 15, 2010, 124 Stat. 3041, provided that: “To the extent that any provision of any law codified in the District of Columbia Official Code that authorizes an entitlement to pay or hours of work for current members of the United States Secret Service Uniformed Division is not expressly revoked by this Act [see Short Title of 2010 Amendment note set out under section 101 of this title], such provision shall not apply to such members after the effective date of this Act [see Effective Date of 2010 Amendment note set out under section 5102 of this title].”
+Pub. L. 111–282, § 4(a), Oct. 15, 2010, 124 Stat. 3041, provided that: “To the extent that any provision of any law codified in the District of Columbia Official Code that authorizes an entitlement to pay or hours of work for current members of the United States Secret Service Uniformed Division is not expressly revoked by this Act [see Short Title of 2010 Amendment note set out under section 101 of this title], such provision shall not apply to such members after the effective date of this Act [see Effective Date of 2010 Amendment note set out under section 5102 of this title].”
 
-## § 10202. Authorities
+## § 10202. Authorities
 
 **(a) In General.—** The Secretary is authorized to—
 
@@ -117,15 +117,15 @@ Pub. L. 111–282, § 4(a), Oct. 15, 2010, 124 Stat. 3041, provided that: “T
 
 **(4)** determine the rate of basic pay of a member who is changed or demoted to a lower rank, in accordance with section 10208.
 
-**(b) Delegation of Authority.—** The Secretary is authorized to delegate to the designated agent or agents of the Secretary, any power or function vested in the Secretary under in 1
+**(b) Delegation of Authority.—** The Secretary is authorized to delegate to the designated agent or agents of the Secretary, any power or function vested in the Secretary under in 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 this chapter.
 
 **(c) Regulations.—** The Secretary may prescribe such regulations as may be necessary to administer this chapter.
 
-(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3034.)
+(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3034.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -133,21 +133,21 @@ this chapter.
 
 Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
 
-## § 10203. Basic pay
+## § 10203. Basic pay
 
 **(a) In General.—** The annual rates of basic pay of members of the United States Secret Service Uniformed Division shall be fixed in accordance with the following schedule of rates, except that the payable annual rate of basic pay for positions at the Lieutenant, Captain, and Inspector ranks is limited to 95 percent of the rate of pay for level V of the Executive Schedule under subchapter II of chapter 53.
 
 <table>
 <tr><th>Rank</th><th>Step 1</th><th>Step 2</th><th>Step 3</th><th>Step 4</th><th>Step 5</th><th>Step 6</th><th>Step 7</th><th>Step 8</th><th>Step 9</th><th>Step 10</th><th>Step 11</th><th>Step 12</th><th>Step 13</th></tr>
-<tr><td colspan="14">1 So in original. Probably should be followed by “for”.</td></tr>
+<tr><td colspan="14">1 So in original. Probably should be followed by “for”.</td></tr>
 <tr><td>Officer</td><td>$44,000</td><td>$46,640</td><td>$49,280</td><td>$51,920</td><td>$54,560</td><td>$57,200</td><td>$59,840</td><td>$62,480</td><td>$65,120</td><td>$67,760</td><td>$70,400</td><td>$73,040</td><td>$75,680</td></tr>
 <tr><td>Sergeant</td><td>..........</td><td>..........</td><td>..........</td><td>59,708</td><td>62,744</td><td>65,780</td><td>68,816</td><td>71,852</td><td>74,888</td><td>77,924</td><td>80,960</td><td>83,996</td><td>87,032</td></tr>
 <tr><td>Lieutenant</td><td>..........</td><td>..........</td><td>..........</td><td>..........</td><td>69,018</td><td>72,358</td><td>75,698</td><td>79,038</td><td>82,378</td><td>85,718</td><td>89,058</td><td>92,398</td><td>95,738</td></tr>
 <tr><td>Captain</td><td>..........</td><td>..........</td><td>..........</td><td>..........</td><td>..........</td><td>79,594</td><td>83,268</td><td>86,942</td><td>90,616</td><td>94,290</td><td>97,964</td><td>101,638</td><td>105,312</td></tr>
 <tr><td>Inspector</td><td>..........</td><td>..........</td><td>..........</td><td>..........</td><td>..........</td><td>91,533</td><td>95,758</td><td>99,983</td><td>104,208</td><td>108,433</td><td>112,658</td><td>116,883</td><td>121,108</td></tr>
 <tr><td>Deputy Chief</td><td colspan="13">The rate of basic pay for Deputy Chief positions will be equal to 95 percent of the rate of pay for level V of the Executive Schedule.</td></tr>
-<tr><td>Assistant Chief</td><td colspan="13">The rate of basic pay 1 the Assistant Chief position will be equal to 95 percent of the rate of pay for level V of the Executive Schedule.</td></tr>
-<tr><td>Chief</td><td colspan="13">The rate of basic pay 1 the Chief position will be equal to the rate of pay for level V of the Executive Schedule.</td></tr>
+<tr><td>Assistant Chief</td><td colspan="13">The rate of basic pay 1 the Assistant Chief position will be equal to 95 percent of the rate of pay for level V of the Executive Schedule.</td></tr>
+<tr><td>Chief</td><td colspan="13">The rate of basic pay 1 the Chief position will be equal to the rate of pay for level V of the Executive Schedule.</td></tr>
 </table>
 
 **(b) Schedule Adjustment.—**
@@ -166,7 +166,7 @@ Section effective on first day of first pay period which begins after Oct. 15, 2
 
 **(3)** Locality-based comparability payments authorized under section 5304 shall be applicable to the basic pay for all ranks under this section, except locality-based comparability payments may not be paid at a rate which, when added to the rate of basic pay otherwise payable to the member, would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
 
-(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3034.)
+(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3034.)
 
 **Editorial Notes**
 
@@ -182,13 +182,13 @@ The General Schedule, referred to in subsec. (b)(1)(A), is set out under section
 
 Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
 
-## § 10204. Rate of pay for original appointments
+## § 10204. Rate of pay for original appointments
 
 **(a) In General.—** Except as provided in subsection (b), all original appointments shall be made at the minimum rate of basic pay for the Officer rank set forth in the schedule in section 10203.
 
 **(b) Exception for Superior Qualifications or Special Need.—** The Director of the United States Secret Service or the designee of the Director may appoint an individual at a rate above the minimum rate of basic pay for the Officer rank based on the individual’s superior qualifications or a special need of the Government for the individual’s services.
 
-(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3036.)
+(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3036.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -196,7 +196,7 @@ Section effective on first day of first pay period which begins after Oct. 15, 2
 
 Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
 
-## § 10205. Service step adjustments
+## § 10205. Service step adjustments
 
 **(a) Definition.—** In this section, the term “calendar week of active service” includes all periods of leave with pay or other paid time off, and periods of non-pay status which do not cumulatively equal one 40-hour workweek.
 
@@ -208,7 +208,7 @@ Section effective on first day of first pay period which begins after Oct. 15, 2
 
 **(3)** Each member in service step 12 shall be advanced successively to the next higher service step at the beginning of the first pay period immediately following the completion of 156 calendar weeks of active service in the member’s service step.
 
-(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3036.)
+(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3036.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -216,7 +216,7 @@ Section effective on first day of first pay period which begins after Oct. 15, 2
 
 Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
 
-## § 10206. Technician positions
+## § 10206. Technician positions
 
 **(a) In General.—**
 
@@ -238,7 +238,7 @@ Section effective on first day of first pay period which begins after Oct. 15, 2
 
 **(3)** The loss of the additional compensation authorized by subsection (a)(1) shall not constitute an adverse action for the purposes of section 7512.
 
-(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3037.)
+(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3037.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -246,13 +246,13 @@ Section effective on first day of first pay period which begins after Oct. 15, 2
 
 Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
 
-## § 10207. Promotions
+## § 10207. Promotions
 
 **(a) In General.—** Each member who is promoted to a higher rank shall receive basic pay at the same step at which such member was being compensated prior to the date of the promotion.
 
 **(b) Credit for Service.—** For the purposes of a service step adjustment under section 10205, periods of service at the lower rank shall be credited in the same manner as if it was service at the rank to which the employee is promoted.
 
-(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3037.)
+(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3037.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -260,11 +260,11 @@ Section effective on first day of first pay period which begins after Oct. 15, 2
 
 Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
 
-## § 10208. Demotions
+## § 10208. Demotions
 
 When a member is changed or demoted from any rank to a lower rank, the Secretary may fix the member’s rate of basic pay at the rate of pay for any step in the lower rank which does not exceed the lowest step in the lower rank for which the rate of basic pay is equal to or greater than the member’s existing rate of basic pay.
 
-(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3037.)
+(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3037.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -272,13 +272,13 @@ When a member is changed or demoted from any rank to a lower rank, the Secretary
 
 Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
 
-## § 10209. Clothing allowances
+## § 10209. Clothing allowances
 
 **(a) In General.—** In addition to the benefits provided under section 5901, the Director of the United States Secret Service or the designee of the Director is authorized to provide a clothing allowance to a member assigned to perform duties in normal business or work attire purchased at the discretion of the employee. Such clothing allowance shall not to be treated as part of the member’s basic pay for any purpose (including retirement purposes) and shall not be used for the purpose of computing the member’s overtime pay, pay during leave or other paid time off, lump-sum payments under section 5551 or section 5552, workers’ compensation, or any other benefit. Such allowance for any member may be discontinued at any time upon written notification by the Director of the United States Secret Service or the designee of the Director.
 
 **(b) Maximum Amount Authorized.—** A clothing allowance authorized under this section shall not exceed $500 per annum.
 
-(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3037.)
+(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3037.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -286,7 +286,7 @@ Section effective on first day of first pay period which begins after Oct. 15, 2
 
 Section effective on first day of first pay period which begins after Oct. 15, 2010, see section 5 of Pub. L. 111–282, set out as an Effective Date of 2010 Amendment note under section 5102 of this title.
 
-## § 10210. Reporting requirement
+## § 10210. Reporting requirement
 
 Not later than 3 years after the date of the enactment of this chapter, the Secretary shall prepare and transmit to Congress a report on the operation of this chapter. The report shall include—
 
@@ -294,7 +294,7 @@ Not later than 3 years after the date of the enactment of this chapter, the Secr
 
 **(2)** recommendations for any legislation or administrative action which the Secretary considers appropriate.
 
-(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3038.)
+(Added Pub. L. 111–282, § 2(a), Oct. 15, 2010, 124 Stat. 3038.)
 
 **Editorial Notes**
 

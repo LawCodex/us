@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 56—NATIONAL CLIMATE PROGRAM
 
-## § 2901. Findings
+## § 2901. Findings
 
 The Congress finds and declares the following:
 
@@ -31,17 +31,17 @@ The Congress finds and declares the following:
 
 **(6)** The United States lacks a well-defined and coordinated program in climate-related research, monitoring, assessment of effects, and information utilization.
 
-(Pub. L. 95–367, § 2, Sept. 17, 1978, 92 Stat. 601.)
+(Pub. L. 95–367, § 2, Sept. 17, 1978, 92 Stat. 601.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 95–367, § 1, Sept. 17, 1978, 92 Stat. 601, provided: “That this Act [enacting this chapter, amending section 25 of former Title 31, Money and Finance, and enacting provisions set out as a note under section 25 of former Title 31] may be cited as the ‘National Climate Program Act’.”
+Pub. L. 95–367, § 1, Sept. 17, 1978, 92 Stat. 601, provided: “That this Act [enacting this chapter, amending section 25 of former Title 31, Money and Finance, and enacting provisions set out as a note under section 25 of former Title 31] may be cited as the ‘National Climate Program Act’.”
 
 **Global Climate Protection**
 
-Pub. L. 100–204, title XI, Dec. 22, 1987, 101 Stat. 1407, as amended by Pub. L. 103–199, title VI, § 603(1), Dec. 17, 1993, 107 Stat. 2327, provided that:
+Pub. L. 100–204, title XI, Dec. 22, 1987, 101 Stat. 1407, as amended by Pub. L. 103–199, title VI, § 603(1), Dec. 17, 1993, 107 Stat. 2327, provided that:
 
 > **“SEC. 1101. SHORT TITLE.**
 
@@ -109,15 +109,15 @@ Pub. L. 100–204, title XI, Dec. 22, 1987, 101 Stat. 1407, as amended by Pub. L
 
 **Executive Order No. 14030**
 
-Ex. Ord. No. 14030, May 20, 2021, 86 F.R. 27967, which related to climate-related financial risks, was revoked by Ex. Ord. No. 14148, § 2(hh), Jan. 20, 2025, 90 F.R. 8238, and Ex. Ord. No. 14154, § 4(a)(vii), Jan. 20, 2025, 90 F.R. 8355.
+Ex. Ord. No. 14030, May 20, 2021, 86 F.R. 27967, which related to climate-related financial risks, was revoked by Ex. Ord. No. 14148, § 2(hh), Jan. 20, 2025, 90 F.R. 8238, and Ex. Ord. No. 14154, § 4(a)(vii), Jan. 20, 2025, 90 F.R. 8355.
 
-## § 2902. Purpose
+## § 2902. Purpose
 
 It is the purpose of the Congress in this chapter to establish a national climate program that will assist the Nation and the world to understand and respond to natural and man-induced climate processes and their implications.
 
-(Pub. L. 95–367, § 3, Sept. 17, 1978, 92 Stat. 601.)
+(Pub. L. 95–367, § 3, Sept. 17, 1978, 92 Stat. 601.)
 
-## § 2903. Definitions
+## § 2903. Definitions
 
 As used in this chapter, unless the context otherwise requires:
 
@@ -129,7 +129,7 @@ As used in this chapter, unless the context otherwise requires:
 
 **(4)** The term “Secretary” means the Secretary of Commerce.
 
-(Pub. L. 95–367, § 4, Sept. 17, 1978, 92 Stat. 601; Pub. L. 99–272, title VI, § 6084(a), Apr. 7, 1986, 100 Stat. 136.)
+(Pub. L. 95–367, § 4, Sept. 17, 1978, 92 Stat. 601; Pub. L. 99–272, title VI, § 6084(a), Apr. 7, 1986, 100 Stat. 136.)
 
 **Editorial Notes**
 
@@ -137,7 +137,7 @@ As used in this chapter, unless the context otherwise requires:
 
 1986—Pub. L. 99–272 added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
-## § 2904. National Climate Program
+## § 2904. National Climate Program
 
 **(a) Establishment**
 
@@ -221,7 +221,7 @@ The analysis described in subparagraph (D) shall include an analysis of how each
 
 Each Federal agency and department participating in the Program, shall prepare and submit to the Office of Management and Budget, on or before the date of submission of departmental requests for appropriations to the Office of Management and Budget, an annual request for appropriations for the Program for the subsequent fiscal year and shall transmit a copy of such request to the National Climate Program Office. The Office of Management and Budget shall review the request for appropriations as an integrated, coherent, multiagency request.
 
-(Pub. L. 95–367, § 5(a)–(g)(1), Sept. 17, 1978, 92 Stat. 601–603; Pub. L. 99–272, title VI, § 6084(b)–(f), Apr. 7, 1986, 100 Stat. 136, 137.)
+(Pub. L. 95–367, § 5(a)–(g)(1), Sept. 17, 1978, 92 Stat. 601–603; Pub. L. 99–272, title VI, § 6084(b)–(f), Apr. 7, 1986, 100 Stat. 136, 137.)
 
 **Editorial Notes**
 
@@ -231,23 +231,23 @@ Subsec. (g) of this section in the original was par. (1) of section 5(g) of Pub.
 
 **Amendments**
 
-1986—Subsec. (c). Pub. L. 99–272, § 6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that “The Office shall be the lead entity responsible for administering the Program”, and designated third sentence as par. (4).
+1986—Subsec. (c). Pub. L. 99–272, § 6084(b), designated first sentence as par. (1), substituted pars. (2) and (3) for second sentence which provided that “The Office shall be the lead entity responsible for administering the Program”, and designated third sentence as par. (4).
 
-Subsec. (d)(7). Pub. L. 99–272, § 6084(c)(1), inserted provision that such mechanisms may provide, among others, for certain enumerated State and regional services and functions.
+Subsec. (d)(7). Pub. L. 99–272, § 6084(c)(1), inserted provision that such mechanisms may provide, among others, for certain enumerated State and regional services and functions.
 
-Subsec. (d)(9). Pub. L. 99–272, § 6084(c)(2), (3), substituted “at least once every four years” for “biennially” and “described in paragraph (7)” for “under section 2905 of this title”.
+Subsec. (d)(9). Pub. L. 99–272, § 6084(c)(2), (3), substituted “at least once every four years” for “biennially” and “described in paragraph (7)” for “under section 2905 of this title”.
 
-Subsec. (e). Pub. L. 99–272, § 6084(d), substituted provisions relating to the establishment and maintenance of the Climate Program Policy Board for provisions relating to the establishment and maintenance of an advisory committee and interagency groups.
+Subsec. (e). Pub. L. 99–272, § 6084(d), substituted provisions relating to the establishment and maintenance of the Climate Program Policy Board for provisions relating to the establishment and maintenance of an advisory committee and interagency groups.
 
-Subsec. (f)(2). Pub. L. 99–272, § 6084(e), substituted “shall cooperate with the Office in” for “shall cooperate in”.
+Subsec. (f)(2). Pub. L. 99–272, § 6084(e), substituted “shall cooperate with the Office in” for “shall cooperate in”.
 
-Subsec. (g). Pub. L. 99–272, § 6084(f), inserted provision requiring each Federal agency and department participating in the Program to transmit a copy of such request to the National Climate Program Office.
+Subsec. (g). Pub. L. 99–272, § 6084(f), inserted provision requiring each Federal agency and department participating in the Program to transmit a copy of such request to the National Climate Program Office.
 
-## § 2905. Repealed. Pub. L. 99–272, title VI, § 6084(g), Apr. 7, 1986, 100 Stat. 137
+## § 2905. Repealed. Pub. L. 99–272, title VI, § 6084(g), Apr. 7, 1986, 100 Stat. 137
 
-Section, Pub. L. 95–367, § 6, Sept. 17, 1978, 92 Stat. 603, related to establishment and requirements of intergovernmental climate programs.
+Section, Pub. L. 95–367, § 6, Sept. 17, 1978, 92 Stat. 603, related to establishment and requirements of intergovernmental climate programs.
 
-## § 2906. Annual report
+## § 2906. Annual report
 
 The Secretary shall prepare and submit to the President and the authorizing committees of the Congress, not later than March 31 of each year, a report on the activities conducted pursuant to this chapter during the preceding fiscal year, including—
 
@@ -261,7 +261,7 @@ The Secretary shall prepare and submit to the President and the authorizing comm
 
 **(e)** any recommendations for additional legislation which may be required to assist in achieving the purposes of this chapter.
 
-(Pub. L. 95–367, § 7, Sept. 17, 1978, 92 Stat. 604; Pub. L. 97–375, title II, § 202(b), Dec. 21, 1982, 96 Stat. 1822.)
+(Pub. L. 95–367, § 7, Sept. 17, 1978, 92 Stat. 604; Pub. L. 97–375, title II, § 202(b), Dec. 21, 1982, 96 Stat. 1822.)
 
 **Editorial Notes**
 
@@ -269,7 +269,7 @@ The Secretary shall prepare and submit to the President and the authorizing comm
 
 1982—Pub. L. 97–375 substituted “March 31” for “January 30”.
 
-## § 2907. Contract and grant authority; records and audits
+## § 2907. Contract and grant authority; records and audits
 
 **(a)** Functions vested in any Federal officer or agency by this chapter or under the Program may be exercised through the facilities and personnel of the agency involved or, to the extent provided or approved in advance in appropriation Acts, by other persons or entities under contracts or grant arrangements entered into by such officer or agency.
 
@@ -279,13 +279,13 @@ The Secretary shall prepare and submit to the President and the authorizing comm
 
 **(2)** The Director of the Office and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the expiration of 3 years after the completion of the activities (referred to in paragraph (1)) of any person or entity pursuant to any contract or grant arrangement referred to in subsection (a), have access for the purpose of audit and examination to any books, documents, papers, and records of such person or entity which, in the judgment of the Director or the Comptroller General, may be related or pertinent to such contract or grant arrangement.
 
-(Pub. L. 95–367, § 8, Sept. 17, 1978, 92 Stat. 604.)
+(Pub. L. 95–367, § 8, Sept. 17, 1978, 92 Stat. 604.)
 
-## § 2908. Authorization of appropriations
+## § 2908. Authorization of appropriations
 
 In addition to any other funds otherwise authorized to be appropriated for the purpose of conducting climate-related programs, there are authorized to be appropriated to the Secretary, for the purpose of carrying out the provisions of this chapter, not to exceed $50,000,000 for the fiscal year ending September 30, 1979, not to exceed $65,000,000 for the fiscal year ending September 30, 1980, and not to exceed $25,500,000 for the fiscal year ending September 30, 1981, of which amount not less than $2,653,000 shall be made directly available to the National Climate Program Office in the form of a budget item separate from the activities of the National Oceanic and Atmospheric Administration.
 
-(Pub. L. 95–367, § 9, Sept. 17, 1978, 92 Stat. 605; Pub. L. 96–547, § 1, Dec. 18, 1980, 94 Stat. 3217.)
+(Pub. L. 95–367, § 9, Sept. 17, 1978, 92 Stat. 605; Pub. L. 96–547, § 1, Dec. 18, 1980, 94 Stat. 3217.)
 
 **Editorial Notes**
 

@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 52—ELECTRIC AND HYBRID VEHICLE RESEARCH, DEVELOPMENT, AND DEMONSTRATION
 
-## § 2501. Congressional findings and policy
+## § 2501. Congressional findings and policy
 
 **(a)** The Congress finds and declares that—
 
@@ -55,15 +55,15 @@ retrieved: 2026-10-11
 
 **(4)** promote the substitution of electric and hybrid vehicles for many gasoline- and diesel-powered vehicles currently used in routine short-haul, low-load applications, where such substitution would be beneficial.
 
-(Pub. L. 94–413, § 2, Sept. 17, 1976, 90 Stat. 1260.)
+(Pub. L. 94–413, § 2, Sept. 17, 1976, 90 Stat. 1260.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 94–413, § 1, Sept. 17, 1976, 90 Stat. 1260, provided: “That this Act [enacting this chapter and amending sections 2451 and 2473 of Title 42, The Public Health and Welfare] may be cited as the ‘Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976’.”
+Pub. L. 94–413, § 1, Sept. 17, 1976, 90 Stat. 1260, provided: “That this Act [enacting this chapter and amending sections 2451 and 2473 of Title 42, The Public Health and Welfare] may be cited as the ‘Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976’.”
 
-## § 2502. Definitions
+## § 2502. Definitions
 
 As used in this chapter, the term—
 
@@ -91,15 +91,15 @@ As used in this chapter, the term—
 
 **(8)** “small business concern” shall have the meaning prescribed by the Secretary of Energy after consultation with the Small Business Administration.
 
-(Pub. L. 94–413, § 3, Sept. 17, 1976, 90 Stat. 1261; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, § 3, Sept. 17, 1976, 90 Stat. 1261; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
 
 **Editorial Notes**
 
 **Codification**
 
-Par. (1), which read “ ‘Administrator’ means the Administrator of the Energy Research and Development Administration”, has been omitted from the Code in view of the termination of the Energy Research and Development Administration and the transfer of the functions of the Administration and the Administrator thereof to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. “Secretary of Energy” has been substituted for “Administrator” wherever appearing in this chapter.
+Par. (1), which read “ ‘Administrator’ means the Administrator of the Energy Research and Development Administration”, has been omitted from the Code in view of the termination of the Energy Research and Development Administration and the transfer of the functions of the Administration and the Administrator thereof to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. “Secretary of Energy” has been substituted for “Administrator” wherever appearing in this chapter.
 
-Par. (7), which read “ ‘Secretary’ means the Secretary of Transportation”, has been omitted from the Code as unnecessary. In view of the substitution of “Secretary of Energy” for “Administrator” in this chapter, and for clarity, “Secretary of Transportation” has been substituted for “Secretary” wherever appearing in this chapter.
+Par. (7), which read “ ‘Secretary’ means the Secretary of Transportation”, has been omitted from the Code as unnecessary. In view of the substitution of “Secretary of Energy” for “Administrator” in this chapter, and for clarity, “Secretary of Transportation” has been substituted for “Secretary” wherever appearing in this chapter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -107,7 +107,7 @@ Par. (7), which read “ ‘Secretary’ means the Secretary of Transportation
 
 In par. (8), “Secretary of Energy” substituted for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out above.
 
-## § 2503. Duties of Secretary of Energy
+## § 2503. Duties of Secretary of Energy
 
 **(a) Establishment of project**
 
@@ -127,19 +127,19 @@ The Secretary of Energy shall have the responsibility for the overall management
 
 **(4)** ascertain consumer needs and desires so as to match the design of electric and hybrid vehicles to their potential market; and
 
-**(5)** ascertain the long-term changes in road design, urban planning, traffic management, maintenance facilities, utility rate structures, and tax policies which are needed to facilitate the manufacture and use of electric and hybrid vehicles in accordance with sections 2512 and 2513 1
+**(5)** ascertain the long-term changes in road design, urban planning, traffic management, maintenance facilities, utility rate structures, and tax policies which are needed to facilitate the manufacture and use of electric and hybrid vehicles in accordance with sections 2512 and 2513 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
-(Pub. L. 94–413, § 4, Sept. 17, 1976, 90 Stat. 1262; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, § 4, Sept. 17, 1976, 90 Stat. 1262; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2513 of this title, referred to in subsec. (c)(5), was repealed by Pub. L. 104–66, title I, § 1051(*o*), Dec. 21, 1995, 109 Stat. 717.
+Section 2513 of this title, referred to in subsec. (c)(5), was repealed by Pub. L. 104–66, title I, § 1051(*o*), Dec. 21, 1995, 109 Stat. 717.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,7 +147,7 @@ Section 2513 of this title, referred to in subsec. (c)(5), was repealed by Pub. 
 
 “Department of Energy” substituted for “Energy Research and Development Administration” in subsec. (a), and “Secretary of Energy” substituted for “Administrator” wherever appearing, pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-## § 2504. Coordination between Secretary of Energy and other agencies
+## § 2504. Coordination between Secretary of Energy and other agencies
 
 **(a) Consultation with Secretary of Transportation**
 
@@ -157,7 +157,7 @@ In carrying out the project established under section 2503 of this title, the Se
 
 Each department, agency, and instrumentality of the executive branch of the Federal Government shall carefully consider any written request from the Secretary of Energy, or the head of any agency to which the Secretary of Energy has delegated responsibility for specified parts or aspects of the project, to furnish such assistance, on a reimbursable basis, as the Secretary of Energy or such head deems necessary to carry out the project and to achieve the purposes of this chapter. Such assistance may include transfer of personnel with their consent and without prejudice to their position and rating.
 
-(Pub. L. 94–413, § 5, Sept. 17, 1976, 90 Stat. 1262; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, § 5, Sept. 17, 1976, 90 Stat. 1262; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
 
 **Editorial Notes**
 
@@ -171,7 +171,7 @@ In subsec. (a), “Secretary of Transportation” substituted for “Secretary�
 
 “Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-## § 2505. Research and development
+## § 2505. Research and development
 
 The Secretary of Energy, acting through appropriate agencies and contractors, shall initiate and provide for the conduct of research and development in areas related to electric and hybrid vehicles, including—
 
@@ -183,7 +183,7 @@ The Secretary of Energy, acting through appropriate agencies and contractors, sh
 
 **(4)** vehicle design which emphasizes durability, length of practical lifetime, ease of repair, and interchangeability and replace­ability of parts.
 
-(Pub. L. 94–413, § 6, Sept. 17, 1976, 90 Stat. 1263; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, § 6, Sept. 17, 1976, 90 Stat. 1263; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -191,7 +191,7 @@ The Secretary of Energy, acting through appropriate agencies and contractors, sh
 
 “Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-## § 2506. Demonstrations
+## § 2506. Demonstrations
 
 **(a) Data development; baseline data; acquisition of vehicles**
 
@@ -237,7 +237,7 @@ Within 12 months after September 17, 1976, the Secretary of Energy shall develop
 
 **(2)** The Secretary of Energy shall reduce the number of vehicles for which he shall contract for the purchase or lease under subsection (c)(1) or (c)(2) by the number determined under subsection (e)(1)(A) as modified by subsection (e)(1)(B), except in no event shall he contract for the purchase or lease pursuant to subsection (c)(1) of less than 1,000 electric or hybrid vehicles, and in no event shall he contract for the purchase or lease pursuant to subsection (c)(2) of less than 2,500 advanced electric or hybrid vehicles unless he determines on the basis of responses to the solicitations for proposals for such contracts, under the provisions of subsections (c)(1) and (c)(2) that lesser numbers of such vehicles which satisfy the applicable performance standards will be available within the delivery periods. All other provisions of subsection (c) shall apply.
 
-(Pub. L. 94–413, § 7, Sept. 17, 1976, 90 Stat. 1263; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, § 601, Feb. 25, 1978, 92 Stat. 91; Pub. L. 96–470, title I, § 105, Oct. 19, 1980, 94 Stat. 2238; Pub. L. 97–375, title I, § 106(b), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 103–437, § 5(d)(1), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
+(Pub. L. 94–413, § 7, Sept. 17, 1976, 90 Stat. 1263; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, § 601, Feb. 25, 1978, 92 Stat. 91; Pub. L. 96–470, title I, § 105, Oct. 19, 1980, 94 Stat. 2238; Pub. L. 97–375, title I, § 106(b), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 103–437, § 5(d)(1), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
 **Editorial Notes**
 
@@ -249,11 +249,11 @@ Within 12 months after September 17, 1976, the Secretary of Energy shall develop
 
 1980—Subsec. (c)(4). Pub. L. 96–470 struck out par. (4) which provided that if the Administrator determines on the basis of his annual review of the program that at least 200 vehicles cannot be added to the project during fiscal year 1978, at least 600 during fiscal year 1979, at least 1,700 during fiscal year 1980, and at least 7,500 in the aggregate during the fiscal years 1981 through 1984, he immediately forward a detailed explanation to Congress.
 
-1978—Subsec. (b)(3). Pub. L. 95–238, § 601(a), struck out requirement that rules promulgated under par. (1) be amended not later than 6 months prior to the date for contracts specified in subsec. (c)(2) of this section.
+1978—Subsec. (b)(3). Pub. L. 95–238, § 601(a), struck out requirement that rules promulgated under par. (1) be amended not later than 6 months prior to the date for contracts specified in subsec. (c)(2) of this section.
 
-Subsec. (b)(4). Pub. L. 95–238, § 601(b), substituted provisions relating to transmission of standards developed under par. (1) and all revised standards established in connection with the demonstrations specified in subsec. (c)(2) of this section, for provisions relating to transmission of standards developed under par. (1) as revised and currently in effect prior to contracts for the production of vehicles under subsec. (c)(2) of this section.
+Subsec. (b)(4). Pub. L. 95–238, § 601(b), substituted provisions relating to transmission of standards developed under par. (1) and all revised standards established in connection with the demonstrations specified in subsec. (c)(2) of this section, for provisions relating to transmission of standards developed under par. (1) as revised and currently in effect prior to contracts for the production of vehicles under subsec. (c)(2) of this section.
 
-Subsec. (c). Pub. L. 95–238, § 601(c), in par. (1) substituted provisions relating to the first contracts for purchase or lease of vehicles and delivery of such vehicles, for provisions relating to contracts for the purchase or lease of 2,500 vehicles and delivery of such vehicles within 39 months after Sept. 17, 1976, in par. (2) substituted provisions relating to contracts for the purchase or lease of additional vehicles which satisfy amended performance standards and are improvements in the state-of-the-art and criteria for demonstrations, for provisions relating to contracts for the purchase or lease of 5,000 advanced vehicles and delivery of such vehicles within 72 months after Sept. 17, 1976, with an extention of the delivery period for 6 additional months, and added pars. (3) and (4).
+Subsec. (c). Pub. L. 95–238, § 601(c), in par. (1) substituted provisions relating to the first contracts for purchase or lease of vehicles and delivery of such vehicles, for provisions relating to contracts for the purchase or lease of 2,500 vehicles and delivery of such vehicles within 39 months after Sept. 17, 1976, in par. (2) substituted provisions relating to contracts for the purchase or lease of additional vehicles which satisfy amended performance standards and are improvements in the state-of-the-art and criteria for demonstrations, for provisions relating to contracts for the purchase or lease of 5,000 advanced vehicles and delivery of such vehicles within 72 months after Sept. 17, 1976, with an extention of the delivery period for 6 additional months, and added pars. (3) and (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -265,7 +265,7 @@ Subsec. (c). Pub. L. 95–238, § 601(c), in par. (1) substituted provisions r
 
 “Secretary of Energy” substituted for “Administrator” in subsecs. (a), (b)(1), (2), (d), and (e) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-## § 2507. Contracts
+## § 2507. Contracts
 
 **(a) Research, development, and demonstration**
 
@@ -287,23 +287,23 @@ In addition to contracting for the purchase or lease of vehicles when conducting
 
 When contracting and otherwise using Federal funds to conduct demonstrations under this chapter, the Secretary of Energy shall seek cost-sharing with others to the maximum extent practical. During the first 2 years of demonstration activities the Secretary of Energy may enter into procurement or lease contracts for purposes of carrying out demonstrations under this chapter without regard to the provisions of chapter 83 of title 41.
 
-(Pub. L. 94–413, § 8, Sept. 17, 1976, 90 Stat. 1266; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, § 602, Feb. 25, 1978, 92 Stat. 92.)
+(Pub. L. 94–413, § 8, Sept. 17, 1976, 90 Stat. 1266; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, § 602, Feb. 25, 1978, 92 Stat. 92.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Energy Reorganization Act of 1974 (Public Law 93–438), referred to in subsec. (d), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
+The Energy Reorganization Act of 1974 (Public Law 93–438), referred to in subsec. (d), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93–577), referred to in subsec. (d), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974 (Public Law 93–577), referred to in subsec. (d), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
 **Codification**
 
 In subsec. (b), the words “the Federal Energy Administration,” which followed “Environmental Protection Agency,” have been omitted from the Code in view of the termination of the Federal Energy Administration and the transfer of the functions of the Administration to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. This transfer would result in this phrase being redundant in that it would provide for the Secretary of Energy to consult with the Secretary of Energy.
 
-In subsec. (c), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (e), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (e), “chapter 83 of title 41” substituted for “title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 **Amendments**
 
@@ -315,7 +315,7 @@ In subsec. (e), “chapter 83 of title 41” substituted for “title III of the
 
 “Secretary of Energy” substituted for “Administrator” in subsecs. (a) to (c) and the first time it appears in subsec. (e) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-## § 2508. Encouragement and protection of small business
+## § 2508. Encouragement and protection of small business
 
 **(a) Opportunity to participate**
 
@@ -331,7 +331,7 @@ To assist in accomplishing the objectives of subsection (a), the Secretary of En
 
 **(2)** make planning grants available to qualified small business concerns which require assistance in developing, submitting, and entering into such contracts.
 
-(Pub. L. 94–413, § 9, Sept. 17, 1976, 90 Stat. 1266; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, § 9, Sept. 17, 1976, 90 Stat. 1266; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -339,7 +339,7 @@ To assist in accomplishing the objectives of subsection (a), the Secretary of En
 
 “Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-## § 2509. Loan guarantees
+## § 2509. Loan guarantees
 
 **(a) Congressional policy**
 
@@ -413,27 +413,27 @@ An applicant seeking a guarantee under this section must be a citizen or nationa
 
 The full faith and credit of the United States is pledged to the payment of all obligations incurred under this section.
 
-(Pub. L. 94–413, § 10, Sept. 17, 1976, 90 Stat. 1267; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, § 603, Feb. 25, 1978, 92 Stat. 93; Pub. L. 103–437, § 5(d)(2), Nov. 2, 1994, 108 Stat. 4582.)
+(Pub. L. 94–413, § 10, Sept. 17, 1976, 90 Stat. 1267; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 95–238, title VI, § 603, Feb. 25, 1978, 92 Stat. 93; Pub. L. 103–437, § 5(d)(2), Nov. 2, 1994, 108 Stat. 4582.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (e)(3)(C), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (e)(3)(C), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-In subsec. (i), “section 50501 of title 46” substituted for “section 2 of the Shipping Act of 1916 (46 U.S.C. 802)” and “subsections (a) and (b) of such section 50501” substituted for “subsection (a) of such section 2” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
+In subsec. (i), “section 50501 of title 46” substituted for “section 2 of the Shipping Act of 1916 (46 U.S.C. 802)” and “subsections (a) and (b) of such section 50501” substituted for “subsection (a) of such section 2” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, section 8(b) of which enacted parts A and B of subtitle V of Title 46, Shipping.
 
 **Amendments**
 
 1994—Subsec. (e)(1). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology” and “Committee on Commerce, Science, and Transportation” for “Committee on Commerce”.
 
-1978—Subsec. (e)(3). Pub. L. 95–238, § 603(a)(1), added par. (3).
+1978—Subsec. (e)(3). Pub. L. 95–238, § 603(a)(1), added par. (3).
 
-Subsec. (g). Pub. L. 95–238, § 603(b), inserted provisions relating to payment of principal by the Administrator.
+Subsec. (g). Pub. L. 95–238, § 603(b), inserted provisions relating to payment of principal by the Administrator.
 
-Subsec. (h). Pub. L. 95–238, § 603(c), substituted “7” for “5”.
+Subsec. (h). Pub. L. 95–238, § 603(c), substituted “7” for “5”.
 
-Subsec. (j). Pub. L. 95–238, § 603(a)(2), added subsec. (j).
+Subsec. (j). Pub. L. 95–238, § 603(a)(2), added subsec. (j).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -441,7 +441,7 @@ Subsec. (j). Pub. L. 95–238, § 603(a)(2), added subsec. (j).
 
 “Secretary of Energy” substituted for “Administrator” in subsecs. (b), (d), (e)(1), (f), and (i) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-## § 2510. Use of electric and hybrid vehicles by Federal agencies
+## § 2510. Use of electric and hybrid vehicles by Federal agencies
 
 The Postmaster General of the United States Postal Service, the Administrator of the General Services Administration, the Secretary of Defense, and the heads of other Federal agencies shall—
 
@@ -451,7 +451,7 @@ The Postmaster General of the United States Postal Service, the Administrator of
 
 For competitive procurement purposes in purchasing such vehicles, life-cycle costing and any beneficial air pollution control characteristics of electric and hybrid vehicles shall be fully taken into account. If the head of the agency involved determines that electric or hybrid vehicles are technologically practicable, but that they are not completely economically competitive with conventional vehicles, the Secretary of Energy may, for purposes of the demonstration program described in section 2506 of this title, pay to such agency the incremental costs of the electric or hybrid vehicles, including differential operating costs.
 
-(Pub. L. 94–413, § 11, Sept. 17, 1976, 90 Stat. 1268; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, § 11, Sept. 17, 1976, 90 Stat. 1268; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -459,11 +459,11 @@ For competitive procurement purposes in purchasing such vehicles, life-cycle cos
 
 “Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-## § 2511. Patents
+## § 2511. Patents
 
 Section 5908 of title 42 shall apply to any contract (including any assignment, substitution of parties, or subcontract thereunder), entered into, made, or issued by the Secretary of Energy pursuant to section 2507 of this title.
 
-(Pub. L. 94–413, § 12, Sept. 17, 1976, 90 Stat. 1269; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, § 12, Sept. 17, 1976, 90 Stat. 1269; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -471,7 +471,7 @@ Section 5908 of title 42 shall apply to any contract (including any assignment, 
 
 “Secretary of Energy” substituted in text for “Administrator” pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
-## § 2512. Studies
+## § 2512. Studies
 
 **(a) Bias of surface transportation systems; submission of report**
 
@@ -479,19 +479,19 @@ The Secretary of Energy shall conduct a study to determine the existence of any 
 
 **(b) Material demand and pollution effect; impact statement**
 
-The Secretary of Energy shall conduct a continuing assessment of the long-range material demand and pollution effects which may result from or in connection with the electrification of urban traffic. Such assessment shall include a statement of the Secretary of Energy’s current findings in each report submitted under section 2513 1
+The Secretary of Energy shall conduct a continuing assessment of the long-range material demand and pollution effects which may result from or in connection with the electrification of urban traffic. Such assessment shall include a statement of the Secretary of Energy’s current findings in each report submitted under section 2513 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title. Any environmental impact statement which may be filed under a Federal law with respect to research, development, or demonstration activities under this chapter shall include reference to the matters which are subject to assessment under this subsection.
 
-**(c) Incentives to encourage utilization; inclusion of electric vehicles in calculation of average fuel economy; evaluation program; annual report; final report and recommendations to Congress on January 1, 1987** The Secretary of Energy shall perform, or cause to be performed, studies and research on incentives to promote broader utilization and consumer acceptance of electric and hybrid vehicle technologies. A description and a statement of the findings of such studies and research activities shall be included in each report submitted under section 2513 <sup>1</sup> of this title.
+**(c) Incentives to encourage utilization; inclusion of electric vehicles in calculation of average fuel economy; evaluation program; annual report; final report and recommendations to Congress on January 1, 1987** The Secretary of Energy shall perform, or cause to be performed, studies and research on incentives to promote broader utilization and consumer acceptance of electric and hybrid vehicle technologies. A description and a statement of the findings of such studies and research activities shall be included in each report submitted under section 2513 <sup>1</sup> of this title.
 
-**(1)** The Secretary of Energy in consultation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency is authorized and directed to conduct a seven-year evaluation program of the inclusion of electric vehicles, as defined in section 512(b)(2) <sup>1</sup> of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2012(b)(2)), in the calculation of average fuel economy pursuant to section 32904(a)(1) of title 49 to determine the value and implications of such inclusion as an incentive for the early initiation of industrial engineering development and initial commercialization of electric vehicles in the United States. The evaluation program shall be conducted in parallel with the research and development activities of section 2505 of this title and demonstration activities of section 2506 of this title to provide all necessary information no later than January 1, 1987, for the private sector and Federal, State and local officials to make required decisions for the full commercialization of electric vehicles in the United States.
+**(1)** The Secretary of Energy in consultation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency is authorized and directed to conduct a seven-year evaluation program of the inclusion of electric vehicles, as defined in section 512(b)(2) <sup>1</sup> of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2012(b)(2)), in the calculation of average fuel economy pursuant to section 32904(a)(1) of title 49 to determine the value and implications of such inclusion as an incentive for the early initiation of industrial engineering development and initial commercialization of electric vehicles in the United States. The evaluation program shall be conducted in parallel with the research and development activities of section 2505 of this title and demonstration activities of section 2506 of this title to provide all necessary information no later than January 1, 1987, for the private sector and Federal, State and local officials to make required decisions for the full commercialization of electric vehicles in the United States.
 
 **(2)** The Administrator of the Environmental Protection Agency, in consultation with the Secretary of Energy and the Secretary of Transportation, shall implement immediately the evaluation program by promulgating, within sixty days of January 7, 1980, regulations to include electric vehicles in average fuel economy calculations under section 32904(a)(1) of title 49.
 
-**(3)** The Secretary of Energy, in consultation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall include a full discussion of this evaluation program in the annual report required by section 2513 <sup>1</sup> of this title in each year after promulgation of the regulations under paragraph (2). The Secretary of Energy, in consultation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall submit to the Congress on January 1, 1987, a final report on the results of the evaluation program and any recommendations regarding the continued inclusion of electric vehicles in the average fuel economy calculations under part C of subtitle VI of title 49.
+**(3)** The Secretary of Energy, in consultation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall include a full discussion of this evaluation program in the annual report required by section 2513 <sup>1</sup> of this title in each year after promulgation of the regulations under paragraph (2). The Secretary of Energy, in consultation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency, shall submit to the Congress on January 1, 1987, a final report on the results of the evaluation program and any recommendations regarding the continued inclusion of electric vehicles in the average fuel economy calculations under part C of subtitle VI of title 49.
 
 **(d) Safety standards and regulations**
 
@@ -511,19 +511,19 @@ The Secretary of Transportation shall conduct a study of the current and future 
 
 The Secretary of Energy shall submit a report to the Congress on the findings and conclusions of such study within 1 year after September 17, 1976.
 
-(Pub. L. 94–413, § 13, Sept. 17, 1976, 90 Stat. 1269; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 96–185, § 18, Jan. 7, 1980, 93 Stat. 1336.)
+(Pub. L. 94–413, § 13, Sept. 17, 1976, 90 Stat. 1269; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577; Pub. L. 96–185, § 18, Jan. 7, 1980, 93 Stat. 1336.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2513 of this title, referred to in subsecs. (b) and (c), was repealed by Pub. L. 104–66, title I, § 1051(*o*), Dec. 21, 1995, 109 Stat. 717.
+Section 2513 of this title, referred to in subsecs. (b) and (c), was repealed by Pub. L. 104–66, title I, § 1051(*o*), Dec. 21, 1995, 109 Stat. 717.
 
-Section 512(b)(2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2012(b)(2)), referred to in subsec. (c)(1), was repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+Section 512(b)(2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2012(b)(2)), referred to in subsec. (c)(1), was repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 **Codification**
 
-In subsec. (c), “section 32904(a)(1) of title 49” substituted for “section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2003(a)(1) and (2))” and “section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act”, and “part C of subtitle VI of title 49” substituted for “the Motor Vehicle Information and Cost Savings Act [15 U.S.C. 1901 et seq.]” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation, and on authority of Pub. L. 103–429, § 10(b), Oct. 31, 1994, 108 Stat. 4391, section 6(43)(B) of which enacted section 32918 as part of part C of subtitle VI of Title 49.
+In subsec. (c), “section 32904(a)(1) of title 49” substituted for “section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2003(a)(1) and (2))” and “section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act”, and “part C of subtitle VI of title 49” substituted for “the Motor Vehicle Information and Cost Savings Act [15 U.S.C. 1901 et seq.]” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation, and on authority of Pub. L. 103–429, § 10(b), Oct. 31, 1994, 108 Stat. 4391, section 6(43)(B) of which enacted section 32918 as part of part C of subtitle VI of Title 49.
 
 January 7, 1980, referred to in subsec. (c)(2), was in the original “enactment of the Act” which has been translated as meaning the date of enactment of Pub. L. 96–185 as the probable intent of Congress in view of the fact that section 18 of Pub. L. 96–185 enacted subsec. (c)(1) to (3) of this section.
 
@@ -543,25 +543,25 @@ In subsec. (d), “Secretary of Transportation” substituted for “Secretary�
 
 **Electric Vehicles**
 
-Pub. L. 100–494, § 7, Oct. 14, 1988, 102 Stat. 2452, directed Secretary of Transportation to study whether regulations should be amended or promulgated to stimulate production and introduction of electric and solar-powered vehicles into commerce and to report to Congress on results of study, prior to repeal by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379.
+Pub. L. 100–494, § 7, Oct. 14, 1988, 102 Stat. 2452, directed Secretary of Transportation to study whether regulations should be amended or promulgated to stimulate production and introduction of electric and solar-powered vehicles into commerce and to report to Congress on results of study, prior to repeal by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379.
 
-## § 2513. Repealed. Pub. L. 104–66, title I, § 1051(o), Dec. 21, 1995, 109 Stat. 717
+## § 2513. Repealed. Pub. L. 104–66, title I, § 1051(o), Dec. 21, 1995, 109 Stat. 717
 
-Section, Pub. L. 94–413, § 14, Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577, directed Secretary of Energy to submit to Congress annual reports on activities under this chapter.
+Section, Pub. L. 94–413, § 14, Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577, directed Secretary of Energy to submit to Congress annual reports on activities under this chapter.
 
-## § 2514. Authorization for appropriations
+## § 2514. Authorization for appropriations
 
 **(a)** There are authorized to be appropriated to the Secretary of Energy, for purposes of carrying out this chapter, (1) not to exceed $30,000,000 for the fiscal year ending September 30, 1977, except that at least $10,000,000 of such authorization shall be allocated for battery research and development; (2) not to exceed $40,000,000 for the fiscal year ending September 30, 1978; (3) not to exceed $25,000,000 for the fiscal year ending September 30, 1979; (4) not to exceed $20,000,000 for the fiscal year ending September 30, 1980; and (5) not to exceed $45,000,000 for the fiscal year ending September 30, 1981. Any amount appropriated pursuant to this section shall remain available until expended, and any amount authorized for any fiscal year prior to the fiscal year ending September 30, 1981, but not appropriated, may be appropriated for any succeeding fiscal year through the fiscal year ending September 30, 1983.
 
 **(b)** Any moneys received by the Secretary of Energy from vehicle sales or leases or other activities under this chapter may be retained and used for purposes of carrying out this chapter, notwithstanding the provisions of section 3302(b) of title 31, and may remain available until expended; but the amount authorized to be appropriated for any fiscal year under subsection (a) shall be reduced by the amount of the moneys so received in that year.
 
-(Pub. L. 94–413, § 16, Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
+(Pub. L. 94–413, § 16, Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–91, title III, § 301(a), Aug. 4, 1977, 91 Stat. 577.)
 
 **Editorial Notes**
 
 **Codification**
 
-In subsec. (b), “section 3302(b) of title 31” substituted for “section 3617 of the Revised Statutes (31 U.S.C. 484)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b), “section 3302(b) of title 31” substituted for “section 3617 of the Revised Statutes (31 U.S.C. 484)” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Statutory Notes and Related Subsidiaries**
 

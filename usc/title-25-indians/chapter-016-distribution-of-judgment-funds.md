@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 16—DISTRIBUTION OF JUDGMENT FUNDS
 
-## § 1401. Funds appropriated in satisfaction of judgments of Indian Claims Commission or United States Court of Federal Claims
+## § 1401. Funds appropriated in satisfaction of judgments of Indian Claims Commission or United States Court of Federal Claims
 
 **(a) Use and distribution**
 
@@ -29,7 +29,7 @@ Except as provided in sections 164 and 165 of this title, amounts which the Secr
 
 This chapter may be cited as the “Indian Tribal Judgment Funds Use or Distribution Act”.
 
-(Pub. L. 93–134, § 1, Oct. 19, 1973, 87 Stat. 466; Pub. L. 97–164, title I, § 160(a)(1), Apr. 2, 1982, 96 Stat. 48; Pub. L. 100–153, § 4, Nov. 5, 1987, 101 Stat. 886; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 93–134, § 1, Oct. 19, 1973, 87 Stat. 466; Pub. L. 97–164, title I, § 160(a)(1), Apr. 2, 1982, 96 Stat. 48; Pub. L. 100–153, § 4, Nov. 5, 1987, 101 Stat. 886; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Editorial Notes**
 
@@ -41,9 +41,9 @@ The Indian Claims Commission, referred to in text, terminated Sept. 30, 1978. Se
 
 1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1987—Subsec. (a). Pub. L. 100–153, § 4(1), (2), designated existing provision as subsec. (a) and substituted “any investment income” for “any interest”.
+1987—Subsec. (a). Pub. L. 100–153, § 4(1), (2), designated existing provision as subsec. (a) and substituted “any investment income” for “any interest”.
 
-Subsecs. (b), (c). Pub. L. 100–153, § 4(3), added subsecs. (b) and (c).
+Subsecs. (b), (c). Pub. L. 100–153, § 4(3), added subsecs. (b) and (c).
 
 1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
@@ -59,9 +59,9 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **Short Title of 2014 Amendment**
 
-Pub. L. 113–290, § 1, Dec. 19, 2014, 128 Stat. 3291, provided that: “This Act [amending section 1407 of this title] may be cited as the ‘Grand Portage Band Per Capita Adjustment Act’.”
+Pub. L. 113–290, § 1, Dec. 19, 2014, 128 Stat. 3291, provided that: “This Act [amending section 1407 of this title] may be cited as the ‘Grand Portage Band Per Capita Adjustment Act’.”
 
-## § 1402. Plan for use or distribution of funds
+## § 1402. Plan for use or distribution of funds
 
 **(a) Preparation and submission to Congress by Secretary of the Interior; contents; copy to affected Indian tribe**
 
@@ -83,7 +83,7 @@ In cases where the Secretary has to submit a plan dividing judgment funds betwee
 
 An extension of the one-year period, not to exceed one hundred and eighty days, may be requested by the Secretary or by the affected Indian tribe, submitting such request to the committees through the Secretary, and any such request will be subject to the approval of both the Senate Committee on Indian Affairs and the United States House of Representatives Committee on Natural Resources.
 
-(Pub. L. 93–134, § 2, Oct. 19, 1973, 87 Stat. 466; Pub. L. 97–164, title I, § 160(a)(1), Apr. 2, 1982, 96 Stat. 48; Pub. L. 97–458, § 1, Jan. 12, 1983, 96 Stat. 2512; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–437, § 10(e)(1), (2)(A), Nov. 2, 1994, 108 Stat. 4589.)
+(Pub. L. 93–134, § 2, Oct. 19, 1973, 87 Stat. 466; Pub. L. 97–164, title I, § 160(a)(1), Apr. 2, 1982, 96 Stat. 48; Pub. L. 97–458, § 1, Jan. 12, 1983, 96 Stat. 2512; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–437, § 10(e)(1), (2)(A), Nov. 2, 1994, 108 Stat. 4589.)
 
 **Editorial Notes**
 
@@ -123,7 +123,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-## § 1403. Preparation of plan
+## § 1403. Preparation of plan
 
 **(a) Prerequisites for final preparation** The Secretary shall prepare a plan which shall best serve the interests of all those entities and individuals entitled to receive funds of each Indian judgment. Prior to the final preparation of the plan, the Secretary shall—
 
@@ -137,13 +137,13 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(2)** the needs and desires of any groups or individuals who are in a minority position, but who are also entitled to receive such funds, have been fully ascertained and considered;
 
-**(3)** the interests of minors and other legally incompetent persons who are entitled to receive any portion of such funds as are subsequently distributed to them are and will be protected and preserved; 1
+**(3)** the interests of minors and other legally incompetent persons who are entitled to receive any portion of such funds as are subsequently distributed to them are and will be protected and preserved; 1
 
-<sup>1</sup>  So in original. The semicolon probably should be a colon.
+<sup>1</sup> So in original. The semicolon probably should be a colon.
 
 *Provided*, That such funds may be disbursed to the parents or legal guardian of such minors or legal incompetents in such amounts as may be necessary for the minor or legal incompetent’s health, education, welfare, or emergencies under a plan or plans approved by the Secretary and the tribal governing body of the Indian tribe involved.2
 
-<sup>2</sup>  So in original. The period probably should be a semicolon.
+<sup>2</sup> So in original. The period probably should be a semicolon.
 
 **(4)** any provision, including enrollment provisions, of the constitution, bylaws, rules, and procedures of such tribe which may affect the distribution or other use of such funds are in full accord with the principles of fairness and equity;
 
@@ -151,23 +151,23 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(6)** methods exist and will be employed to insure the proper performance of the plan once it becomes effective under section 1405 of this title.
 
-(Pub. L. 93–134, § 3, Oct. 19, 1973, 87 Stat. 467; Pub. L. 97–458, § 2, Jan. 12, 1983, 96 Stat. 2512.)
+(Pub. L. 93–134, § 3, Oct. 19, 1973, 87 Stat. 467; Pub. L. 97–458, § 2, Jan. 12, 1983, 96 Stat. 2512.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1983—Subsec. (b)(3). Pub. L. 97–458, § 2(a), inserted proviso.
+1983—Subsec. (b)(3). Pub. L. 97–458, § 2(a), inserted proviso.
 
-Subsec. (b)(5). Pub. L. 97–458, § 2(b), inserted proviso.
+Subsec. (b)(5). Pub. L. 97–458, § 2(b), inserted proviso.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Disbursements for Urgent Needs of Minors and Legal Incompetents and Accounting for Expenditures**
 
-Pub. L. 97–458, § 2(a), Jan. 12, 1983, 96 Stat. 2512, provided in part that plan or plans approved by the Secretary and the tribal governing body of an Indian tribe for disbursements to parents or legal guardian of minors or legal incompetents for health, education, welfare, or emergencies of their charges “shall be limited to urgent needs arising from extenuating circumstances and shall accord with general principles governing administration of trust funds of minors and legal incompetents, including a requirement for strict accounting for expenditures.”
+Pub. L. 97–458, § 2(a), Jan. 12, 1983, 96 Stat. 2512, provided in part that plan or plans approved by the Secretary and the tribal governing body of an Indian tribe for disbursements to parents or legal guardian of minors or legal incompetents for health, education, welfare, or emergencies of their charges “shall be limited to urgent needs arising from extenuating circumstances and shall accord with general principles governing administration of trust funds of minors and legal incompetents, including a requirement for strict accounting for expenditures.”
 
-## § 1404. Hearing transcripts and tribal support statements; submission to Congress with plan
+## § 1404. Hearing transcripts and tribal support statements; submission to Congress with plan
 
 When submitting the plan as provided in section 1402 of this title, the Secretary shall also submit to the Congress with such plan—
 
@@ -175,9 +175,9 @@ When submitting the plan as provided in section 1402 of this title, the Secretar
 
 **(2)** a statement of the extent to which such plan reflects the desires of the Indian tribe or individuals who are entitled to such funds, which statement shall specify the alternatives, if any, proposed by such Indian tribe or individuals in lieu of such plan, together with an indication of the degree of support among the interested parties for each such alternative.
 
-(Pub. L. 93–134, § 4, Oct. 19, 1973, 87 Stat. 467.)
+(Pub. L. 93–134, § 4, Oct. 19, 1973, 87 Stat. 467.)
 
-## § 1405. Effective date of plan; joint resolution of disapproval
+## § 1405. Effective date of plan; joint resolution of disapproval
 
 **(a) Original plan**
 
@@ -199,19 +199,19 @@ Once a plan is withdrawn before the end of a sixty-day period, the Secretary has
 
 Upon the introduction of the first such resolution of disapproval in either the House of Representatives or the Senate, the sixty-day period shall be recomputed from the date of such introduction and shall not again be extended.
 
-(Pub. L. 93–134, § 5, Oct. 19, 1973, 87 Stat. 468; Pub. L. 97–458, § 3, Jan. 12, 1983, 96 Stat. 2513.)
+(Pub. L. 93–134, § 5, Oct. 19, 1973, 87 Stat. 468; Pub. L. 97–458, § 3, Jan. 12, 1983, 96 Stat. 2513.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1983—Subsec. (a). Pub. L. 97–458, § 3(a), substituted “unless during such sixty-day period a joint resolution is enacted” for “unless during such sixty-day period either House adopts a resolution disapproving such plans”.
+1983—Subsec. (a). Pub. L. 97–458, § 3(a), substituted “unless during such sixty-day period a joint resolution is enacted” for “unless during such sixty-day period either House adopts a resolution disapproving such plans”.
 
-Subsec. (b). Pub. L. 97–458, § 3(b), substituted “date of enactment of a joint resolution disapproving a plan” for “date of adoption of a resolution disapproving a plan”.
+Subsec. (b). Pub. L. 97–458, § 3(b), substituted “date of enactment of a joint resolution disapproving a plan” for “date of adoption of a resolution disapproving a plan”.
 
-Subsecs. (c) to (e). Pub. L. 97–458, § 3(c), added subsecs. (c) to (e).
+Subsecs. (c) to (e). Pub. L. 97–458, § 3(c), added subsecs. (c) to (e).
 
-## § 1406. Rules and regulations
+## § 1406. Rules and regulations
 
 **(a) Promulgation**
 
@@ -225,35 +225,35 @@ No later than sixty days prior to the promulgation of such rules and regulations
 
 No later than thirty days prior to the promulgation of such rules and regulations, the Secretary shall provide, with adequate public notice, the opportunity for hearings on the proposed rules and regulations, once published, to all interested parties.
 
-(Pub. L. 93–134, § 6, Oct. 19, 1973, 87 Stat. 468.)
+(Pub. L. 93–134, § 6, Oct. 19, 1973, 87 Stat. 468.)
 
-## § 1407. Tax exemption; resources exemption limitation
+## § 1407. Tax exemption; resources exemption limitation
 
 None of the funds which—
 
-**(1)** are distributed per capita or held in trust pursuant to a plan approved under the provisions of this chapter, or 1
+**(1)** are distributed per capita or held in trust pursuant to a plan approved under the provisions of this chapter, or 1
 
-<sup>1</sup>  So in original. The word “or” probably should not appear.
+<sup>1</sup> So in original. The word “or” probably should not appear.
 
 **(2)** on January 12, 1983, are to be distributed per capita or are held in trust pursuant to a plan approved by the Congress prior to January 12, 1983,
 
 **(3)** were distributed pursuant to a plan approved by Congress after December 31, 1981 but prior to January 12, 1983, and any purchases made with such funds, or
 
-**(4)** are paid by the State of Minnesota to the Bois Forte Band of Chippewa Indians or the Grand Portage Band of Lake Superior Chippewa Indians, or both, pursuant to the agreements of each Band to voluntarily restrict tribal rights to hunt and fish in territory cede 2
+**(4)** are paid by the State of Minnesota to the Bois Forte Band of Chippewa Indians or the Grand Portage Band of Lake Superior Chippewa Indians, or both, pursuant to the agreements of each Band to voluntarily restrict tribal rights to hunt and fish in territory cede 2
 
-<sup>2</sup>  So in original. Probably should be “ceded”.
+<sup>2</sup> So in original. Probably should be “ceded”.
 
 under the Treaty of September 30, 1854 (10 Stat. 1109), including all interest accrued on such funds during any period in which such funds are held in a minor’s trust,
 
 including all interest and investment income accrued thereon while such funds are so held in trust, shall be subject to Federal or State income taxes, nor shall such funds nor their availability be considered as income or resources nor otherwise utilized as the basis for denying or reducing the financial assistance or other benefits to which such household or member would otherwise be entitled under the Social Security Act [42 U.S.C. 301 et seq.] or, except for per capita shares in excess of $2,000, any Federal or federally assisted program.
 
-(Pub. L. 93–134, § 7, Oct. 19, 1973, 87 Stat. 468; Pub. L. 97–458, § 4, Jan. 12, 1983, 96 Stat. 2513; Pub. L. 106–568, title VIII, § 818, Dec. 27, 2000, 114 Stat. 2918; Pub. L. 113–290, § 2, Dec. 19, 2014, 128 Stat. 3291.)
+(Pub. L. 93–134, § 7, Oct. 19, 1973, 87 Stat. 468; Pub. L. 97–458, § 4, Jan. 12, 1983, 96 Stat. 2513; Pub. L. 106–568, title VIII, § 818, Dec. 27, 2000, 114 Stat. 2918; Pub. L. 113–290, § 2, Dec. 19, 2014, 128 Stat. 3291.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
@@ -263,24 +263,24 @@ The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 
 
 1983—Pub. L. 97–458 amended section generally. Prior to amendment, section read as follows: “None of the funds distributed per capita or held in trust under the provisions of this chapter shall be subject to Federal or State income taxes, and the per capita payments shall not be considered as income or resources when determining the extent of eligibility for assistance under the Social Security Act”.
 
-## § 1408. Resources exemption
+## § 1408. Resources exemption
 
 Interests of individual Indians in trust or restricted lands shall not be considered a resource, and up to $2,000 per year of income received by individual Indians that is derived from such interests shall not be considered income, in determining eligibility for assistance under the Social Security Act [42 U.S.C. 301 et seq.] or any other Federal or federally assisted program.
 
-(Pub. L. 93–134, § 8, as added Pub. L. 97–458, § 4, Jan. 12, 1983, 96 Stat. 2514; amended Pub. L. 103–66, title XIII, § 13736(a), Aug. 10, 1993, 107 Stat. 663.)
+(Pub. L. 93–134, § 8, as added Pub. L. 97–458, § 4, Jan. 12, 1983, 96 Stat. 2514; amended Pub. L. 103–66, title XIII, § 13736(a), Aug. 10, 1993, 107 Stat. 663.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 **Amendments**
 
-1993—Pub. L. 103–66 inserted “, and up to $2,000 per year of income received by individual Indians that is derived from such interests shall not be considered income,” after “resource”.
+1993—Pub. L. 103–66 inserted “, and up to $2,000 per year of income received by individual Indians that is derived from such interests shall not be considered income,” after “resource”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1993 Amendment**
 
-Pub. L. 103–66, title XIII, § 13736(b), Aug. 10, 1993, 107 Stat. 663, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 1994.”
+Pub. L. 103–66, title XIII, § 13736(b), Aug. 10, 1993, 107 Stat. 663, provided that: “The amendment made by this section [amending this section] shall take effect on January 1, 1994.”

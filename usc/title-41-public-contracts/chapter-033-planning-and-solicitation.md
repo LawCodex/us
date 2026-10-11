@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 836(b)(10)(B)(ii), Aug. 13, 2018, 132 Stat. 1863, substituted “Preference for commercial products and commercial services” for “Preference for commercial items” in item 3307.
+2018—Pub. L. 115–232, div. A, title VIII, § 836(b)(10)(B)(ii), Aug. 13, 2018, 132 Stat. 1863, substituted “Preference for commercial products and commercial services” for “Preference for commercial items” in item 3307.
 
-2013—Pub. L. 112–239, div. A, title VIII, § 851(a)(2), Jan. 2, 2013, 126 Stat. 1855, added item 3312.
+2013—Pub. L. 112–239, div. A, title VIII, § 851(a)(2), Jan. 2, 2013, 126 Stat. 1855, added item 3312.
 
-## § 3301. Full and open competition
+## § 3301. Full and open competition
 
 **(a) In General.—** Except as provided in sections 3303, 3304(a), and 3305 of this title and except in the case of procurement procedures otherwise expressly authorized by statute, an executive agency in conducting a procurement for property or services shall—
 
@@ -47,44 +47,44 @@ retrieved: 2026-10-11
 
 **(B)** request competitive proposals if sealed bids are not appropriate under subparagraph (A).
 
-**(2) Sealed bid not required.—** Paragraph (1)(A) does not require the use of sealed-bid procedures in cases in which section 204(e) 1
+**(2) Sealed bid not required.—** Paragraph (1)(A) does not require the use of sealed-bid procedures in cases in which section 204(e) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 23 applies.
 
 **(c) Efficient Fulfillment of Government Requirements.—** The Federal Acquisition Regulation shall ensure that the requirement to obtain full and open competition is implemented in a manner that is consistent with the need to efficiently fulfill the Federal Government’s requirements.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3745.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3745.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3301(a) | 41:253(a)(1). | June 30, 1949, ch. 288, title III, § 303(a), 63 Stat. 395; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 90–268, § 2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, title VII, § 2711(a)(1), July 18, 1984, 98 Stat. 1175; Pub. L. 103–355, title I, § 1051(1), Oct. 13, 1994, 108 Stat. 3260. |
+| 3301(a) | 41:253(a)(1). | June 30, 1949, ch. 288, title III, § 303(a), 63 Stat. 395; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 90–268, § 2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, title VII, § 2711(a)(1), July 18, 1984, 98 Stat. 1175; Pub. L. 103–355, title I, § 1051(1), Oct. 13, 1994, 108 Stat. 3260. |
 | 3301(b)(1) | 41:253(a)(2). |  |
-| 3301(b)(2) | 41:252(c)(2). | June 30, 1949, ch. 288, title III, § 302(c)(2), as added Pub. L. 98–369, title VII, § 2714(a)(1)(B), July 18, 1984, 98 Stat. 1184. |
-| 3301(c) | 41:253(h). | June 30, 1949, ch. 288, title III, § 303(h), as added Pub. L. 104–106, title XLI, § 4101(b)(2), Feb. 10, 1996, 110 Stat. 642. |
+| 3301(b)(2) | 41:252(c)(2). | June 30, 1949, ch. 288, title III, § 302(c)(2), as added Pub. L. 98–369, title VII, § 2714(a)(1)(B), July 18, 1984, 98 Stat. 1184. |
+| 3301(c) | 41:253(h). | June 30, 1949, ch. 288, title III, § 303(h), as added Pub. L. 104–106, title XLI, § 4101(b)(2), Feb. 10, 1996, 110 Stat. 642. |
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 204 of title 23, referred to in subsec. (b)(2), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473, 489.
+Section 204 of title 23, referred to in subsec. (b)(2), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473, 489.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Regulations**
 
-Pub. L. 113–291, div. A, title VIII, § 836, Dec. 19, 2014, 128 Stat. 3449, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 19, 2014], the Administrator for Federal Procurement Policy shall prescribe regulations providing that when the Federal Government makes a purchase of services and supplies offered under the Federal Strategic Sourcing Initiative (managed by the Office of Federal Procurement Policy) but such Initiative is not used, the contract file for the purchase shall include a brief analysis of the comparative value, including price and nonprice factors, between the services and supplies offered under such Initiative and services and supplies offered under the source or sources used for the purchase.”
+Pub. L. 113–291, div. A, title VIII, § 836, Dec. 19, 2014, 128 Stat. 3449, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 19, 2014], the Administrator for Federal Procurement Policy shall prescribe regulations providing that when the Federal Government makes a purchase of services and supplies offered under the Federal Strategic Sourcing Initiative (managed by the Office of Federal Procurement Policy) but such Initiative is not used, the contract file for the purchase shall include a brief analysis of the comparative value, including price and nonprice factors, between the services and supplies offered under such Initiative and services and supplies offered under the source or sources used for the purchase.”
 
 **Construction**
 
-Pub. L. 98–369, div. B, title VII, § 2711(c), July 18, 1984, 98 Stat. 1181, provided that: “The amendments made by this section [see Tables for classification] do not supersede or affect the provisions of section 8(a) of the Small Business Act (15 U.S.C. 637(a)).”
+Pub. L. 98–369, div. B, title VII, § 2711(c), July 18, 1984, 98 Stat. 1181, provided that: “The amendments made by this section [see Tables for classification] do not supersede or affect the provisions of section 8(a) of the Small Business Act (15 U.S.C. 637(a)).”
 
 **Pilot Programs for Authority To Acquire Innovative Commercial Items Using General Solicitation Competitive Procedures**
 
-Pub. L. 114–328, div. A, title VIII, § 880, Dec. 23, 2016, 130 Stat. 2313, as amended by Pub. L. 115–232, div. A, title VIII, § 836(f)(10), Aug. 13, 2018, 132 Stat. 1872; Pub. L. 117–263, div. G, title LXXII, § 7227(a), Dec. 23, 2022, 136 Stat. 3675, provided that:
+Pub. L. 114–328, div. A, title VIII, § 880, Dec. 23, 2016, 130 Stat. 2313, as amended by Pub. L. 115–232, div. A, title VIII, § 836(f)(10), Aug. 13, 2018, 132 Stat. 1872; Pub. L. 117–263, div. G, title LXXII, § 7227(a), Dec. 23, 2022, 136 Stat. 3675, provided that:
 
 > **“(a) Authority.—**
 
@@ -144,13 +144,13 @@ Pub. L. 114–328, div. A, title VIII, § 880, Dec. 23, 2016, 130 Stat. 2313, 
 
 **Governmentwide Software Purchasing Program**
 
-Pub. L. 113–291, div. A, title VIII, § 837, Dec. 19, 2014, 128 Stat. 3450, provided that:
+Pub. L. 113–291, div. A, title VIII, § 837, Dec. 19, 2014, 128 Stat. 3450, provided that:
 
 > **“(a) In General.—** The Administrator of General Services shall identify and develop a strategic sourcing initiative to enhance Governmentwide acquisition, shared use, and dissemination of software, as well as compliance with end user license agreements.
 
 > **“(b) Governmentwide User License Agreement.—** The Administrator, in developing the initiative under subsection (a), shall allow for the purchase of a license agreement that is available for use by all Executive agencies (as defined in section 105 of title 5, United States Code) as one user to the maximum extent practicable and as appropriate.”
 
-## § 3302. Requirements for purchase of property and services pursuant to multiple award contracts
+## § 3302. Requirements for purchase of property and services pursuant to multiple award contracts
 
 **(a) Definitions.—** In this section:
 
@@ -212,21 +212,21 @@ Pub. L. 113–291, div. A, title VIII, § 837, Dec. 19, 2014, 128 Stat. 3450, 
 
 **(f) Commercial Leasing Services.—** The regulations required by subsection (b) shall not apply to individual purchases for commercial leasing services that are made on a no cost basis and made under a multiple award contract awarded in accordance with the requirements for full and open competition.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3746; Pub. L. 111–383, div. A, title X, § 1075(e)(14), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 116–92, div. A, title VIII, § 893(b), Dec. 20, 2019, 133 Stat. 1540; Pub. L. 117–81, div. A, title XVII, § 1702(h)(12), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3746; Pub. L. 111–383, div. A, title X, § 1075(e)(14), Jan. 7, 2011, 124 Stat. 4375; Pub. L. 116–92, div. A, title VIII, § 893(b), Dec. 20, 2019, 133 Stat. 1540; Pub. L. 117–81, div. A, title XVII, § 1702(h)(12), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Amendment Not Shown in Text**
 
-This section was derived from Pub. L. 110–417, [div. A], title VIII, § 863(a)–(e), Oct. 14, 2008, 122 Stat. 4547, which was set out as a note under section 253h of former Title 41, Public Contracts, prior to being repealed and reenacted by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 863(b)(3)(A) of Pub. L. 110–417 was restated as subsec. (c)(3)(A) of this section and subsequently amended by Pub. L. 111–383, div. A, title X, § 1075(e)(14), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 863(b)(3)(A) of Pub. L. 110–417 was amended by striking “subsection (d)(2)(A)” and inserting “subsection (d)(3)(A)”. Such reference did not appear in the text of subsec. (c)(3)(A) as enacted. See Historical and Revision Notes below.
+This section was derived from Pub. L. 110–417, [div. A], title VIII, § 863(a)–(e), Oct. 14, 2008, 122 Stat. 4547, which was set out as a note under section 253h of former Title 41, Public Contracts, prior to being repealed and reenacted by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 863(b)(3)(A) of Pub. L. 110–417 was restated as subsec. (c)(3)(A) of this section and subsequently amended by Pub. L. 111–383, div. A, title X, § 1075(e)(14), Jan. 7, 2011, 124 Stat. 4375. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 863(b)(3)(A) of Pub. L. 110–417 was amended by striking “subsection (d)(2)(A)” and inserting “subsection (d)(3)(A)”. Such reference did not appear in the text of subsec. (c)(3)(A) as enacted. See Historical and Revision Notes below.
 
 **Repeal of Subsection (f)**
 
-Pub. L. 116–92, div. A, title VIII, § 893(b)(2), Dec. 20, 2019, 133 Stat. 1540 provided that, effective Dec. 31, 2025, subsection (f) of this section is repealed. See 2019 Amendment note below.
+Pub. L. 116–92, div. A, title VIII, § 893(b)(2), Dec. 20, 2019, 133 Stat. 1540 provided that, effective Dec. 31, 2025, subsection (f) of this section is repealed. See 2019 Amendment note below.
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3302 | 41:253h note. | Pub. L. 110–417, [div. A], title VIII, § 863(a)–(e), Oct. 14, 2008, 122 Stat. 4547. |
+| 3302 | 41:253h note. | Pub. L. 110–417, [div. A], title VIII, § 863(a)–(e), Oct. 14, 2008, 122 Stat. 4547. |
 
 In subsection (b), the words “Not later than one year after the date of the enactment of this Act” are omitted because of section 6(f) of the bill. The words “shall require” are substituted for “shall be amended to require” to reflect the permanence of the provision.
 
@@ -240,27 +240,27 @@ In subsection (d)(1), the words “Not later than one year after the date of the
 
 **Amendments**
 
-2021—Subsec. (a)(3). Pub. L. 117–81, § 1702(h)(12)(A), substituted “section 3012(3)” for “section 2302(2)(C)” in subpar. (A) and “chapter 245 of title 10” for “sections 2304a to 2304d of title 10,” in subpar. (B).
+2021—Subsec. (a)(3). Pub. L. 117–81, § 1702(h)(12)(A), substituted “section 3012(3)” for “section 2302(2)(C)” in subpar. (A) and “chapter 245 of title 10” for “sections 2304a to 2304d of title 10,” in subpar. (B).
 
-Subsec. (c)(1)(A)(i). Pub. L. 117–81, § 1702(h)(12)(B), substituted “section 3406(c)” for “section 2304c(b)”.
+Subsec. (c)(1)(A)(i). Pub. L. 117–81, § 1702(h)(12)(B), substituted “section 3406(c)” for “section 2304c(b)”.
 
-Subsec. (d)(1)(B). Pub. L. 117–81, § 1702(h)(12)(C), substituted “section 3204(e)(1)” for “section 2304(f)(1)”.
+Subsec. (d)(1)(B). Pub. L. 117–81, § 1702(h)(12)(C), substituted “section 3204(e)(1)” for “section 2304(f)(1)”.
 
-2019—Subsec. (f). Pub. L. 116–92, § 893(b)(2), struck out subsec. (f). Text read as follows: “The regulations required by subsection (b) shall not apply to individual purchases for commercial leasing services that are made on a no cost basis and made under a multiple award contract awarded in accordance with the requirements for full and open competition.”
+2019—Subsec. (f). Pub. L. 116–92, § 893(b)(2), struck out subsec. (f). Text read as follows: “The regulations required by subsection (b) shall not apply to individual purchases for commercial leasing services that are made on a no cost basis and made under a multiple award contract awarded in accordance with the requirements for full and open competition.”
 
-Pub. L. 116–92, § 893(b)(1), added subsec. (f).
+Pub. L. 116–92, § 893(b)(1), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title VIII, § 893(b)(2), Dec. 20, 2019, 133 Stat. 1540, provided that the amendment made by section 893(b)(2) is effective Dec. 31, 2025.
+Pub. L. 116–92, div. A, title VIII, § 893(b)(2), Dec. 20, 2019, 133 Stat. 1540, provided that the amendment made by section 893(b)(2) is effective Dec. 31, 2025.
 
 **Individual Acquisition for Commercial Leasing Services**
 
-Pub. L. 115–232, div. A, title VIII, § 877, Aug. 13, 2018, 132 Stat. 1907, which related to individual acquisition for commercial leasing services not construed as purchase of property or services under certain conditions, was repealed by Pub. L. 116–92, div. A, title VIII, § 893(a), Dec. 20, 2019, 133 Stat. 1540.
+Pub. L. 115–232, div. A, title VIII, § 877, Aug. 13, 2018, 132 Stat. 1907, which related to individual acquisition for commercial leasing services not construed as purchase of property or services under certain conditions, was repealed by Pub. L. 116–92, div. A, title VIII, § 893(a), Dec. 20, 2019, 133 Stat. 1540.
 
-## § 3303. Exclusion of particular source or restriction of solicitation to small business concerns
+## § 3303. Exclusion of particular source or restriction of solicitation to small business concerns
 
 **(a) Exclusion of Particular Source.—**
 
@@ -284,15 +284,15 @@ Pub. L. 115–232, div. A, title VIII, § 877, Aug. 13, 2018, 132 Stat. 1907, 
 
 **(c) Nonapplication of Justification and Approval Requirements.—** A contract awarded pursuant to the competitive procedures referred to in subsections (a) and (b) is not subject to the justification and approval required by section 3304(e)(1) of this title.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3747.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3747.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3303 | 41:253(b). | June 30, 1949, ch. 288, title III, § 303(b), 63 Stat. 395; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 90–268, § 2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, title VII, § 2711(a)(1), July 18, 1984, 98 Stat. 1175; Pub. L. 98–577, title V, § 504(a)(1), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 103–355, title I, § 1052, Oct. 13, 1994, 108 Stat. 3260. |
+| 3303 | 41:253(b). | June 30, 1949, ch. 288, title III, § 303(b), 63 Stat. 395; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 90–268, § 2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, title VII, § 2711(a)(1), July 18, 1984, 98 Stat. 1175; Pub. L. 98–577, title V, § 504(a)(1), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 103–355, title I, § 1052, Oct. 13, 1994, 108 Stat. 3260. |
 
-## § 3304. Use of noncompetitive procedures
+## § 3304. Use of noncompetitive procedures
 
 **(a) When Noncompetitive Procedures May Be Used.—** An executive agency may use procedures other than competitive procedures only when—
 
@@ -412,13 +412,13 @@ Pub. L. 115–232, div. A, title VIII, § 877, Aug. 13, 2018, 132 Stat. 1907, 
 
 **(3) Exception to availability and approval requirement.—** This subsection does not require the public availability of information that is exempt from public disclosure under section 552(b) of title 5.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3748; Pub. L. 115–232, div. A, title VIII, § 836(b)(7), Aug. 13, 2018, 132 Stat. 1861.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3748; Pub. L. 115–232, div. A, title VIII, § 836(b)(7), Aug. 13, 2018, 132 Stat. 1861.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3304(a) | 41:253(c), (d)(2). | June 30, 1949, ch. 288, title III, § 303(c)–(f), (j), 63 Stat. 395; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 90–268, § 2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, title VII, § 2711(a)(1), July 18, 1984, 98 Stat. 1176; Pub. L. 98–577, title V, § 504(a)(2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, § 961(a)(2), title XIII, § 1304(c)(2), Nov. 8, 1985, 99 Stat. 703, 742; Pub. L. 103–355, title I, §§ 1053, 1055(a), title VII, § 7203(b)(1)(A), Oct. 13, 1994, 108 Stat. 3261, 3265, 3380; Pub. L. 104–106, title XLI, § 4102(b), title XLIII, § 4321(e)(2), Feb. 10, 1996, 110 Stat. 643, 674; Pub. L. 104–320, §§ 7(a)(2), 11(c)(2), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 110–181, div. A, title VIII, § 844(a), Jan. 28, 2008, 122 Stat. 239; Pub. L. 110–417, [div. A], title VIII, § 862(a), Oct. 14, 2008, 122 Stat. 4546. |
+| 3304(a) | 41:253(c), (d)(2). | June 30, 1949, ch. 288, title III, § 303(c)–(f), (j), 63 Stat. 395; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 90–268, § 2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, title VII, § 2711(a)(1), July 18, 1984, 98 Stat. 1176; Pub. L. 98–577, title V, § 504(a)(2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 99–145, title IX, § 961(a)(2), title XIII, § 1304(c)(2), Nov. 8, 1985, 99 Stat. 703, 742; Pub. L. 103–355, title I, §§ 1053, 1055(a), title VII, § 7203(b)(1)(A), Oct. 13, 1994, 108 Stat. 3261, 3265, 3380; Pub. L. 104–106, title XLI, § 4102(b), title XLIII, § 4321(e)(2), Feb. 10, 1996, 110 Stat. 643, 674; Pub. L. 104–320, §§ 7(a)(2), 11(c)(2), Oct. 19, 1996, 110 Stat. 3871, 3873; Pub. L. 110–181, div. A, title VIII, § 844(a), Jan. 28, 2008, 122 Stat. 239; Pub. L. 110–417, [div. A], title VIII, § 862(a), Oct. 14, 2008, 122 Stat. 4546. |
 | 3304(b) | 41:253(d)(1). |  |
 | 3304(c) | 41:253(d)(3). |  |
 | 3304(d) | 41:253(e). |  |
@@ -432,7 +432,7 @@ In subsection (a)(7), the words “(who may not delegate the authority under thi
 
 In subsection (e)(1)(B)(i), the words “advocate for competition” are substituted for “competition advocate” for consistency with section 1705 of the revised title.
 
-In subsection (e)(1)(B)(ii), the reference to section 5376 of title 5 is substituted for the reference to grade GS–16 or above under the General Schedule because of section 529 [title I, § 101(c)(1)] of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442, 5 U.S.C. 5376 note).
+In subsection (e)(1)(B)(ii), the reference to section 5376 of title 5 is substituted for the reference to grade GS–16 or above under the General Schedule because of section 529 [title I, § 101(c)(1)] of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442, 5 U.S.C. 5376 note).
 
 In subsection (e)(5)(B), the words “and not in lieu of” are omitted as unnecessary.
 
@@ -440,7 +440,7 @@ In subsection (f)(2), the words “referred to in subparagraph (A) of paragraph 
 
 **Senate Revision Amendment**
 
-In subsec. (e)(1)(B)(ii), “for level IV of the Executive Schedule” substituted for “under section 5376 of title 5” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
+In subsec. (e)(1)(B)(ii), “for level IV of the Executive Schedule” substituted for “under section 5376 of title 5” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. 18682 (2010).
 
 **Editorial Notes**
 
@@ -456,11 +456,11 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **General Services Administration: Notification of Use of Noncompetitive Procedures in Response to Public Health Emergency Declaration**
 
-Pub. L. 116–136, div. B, title V, § 15003, Mar. 27, 2020, 134 Stat. 532, provided that: “Notwithstanding 41 U.S.C. 3304(a)(7)(B), the Administrator, when making a determination that use of noncompetitive procedures is necessary for public interest in accordance with 41 U.S.C. 3304(a)(7)(A) in response to a public health emergency declaration by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247(d) [247d]), is required to notify Congress in writing of that determination not less than 3 days prior to the award of the contract.”
+Pub. L. 116–136, div. B, title V, § 15003, Mar. 27, 2020, 134 Stat. 532, provided that: “Notwithstanding 41 U.S.C. 3304(a)(7)(B), the Administrator, when making a determination that use of noncompetitive procedures is necessary for public interest in accordance with 41 U.S.C. 3304(a)(7)(A) in response to a public health emergency declaration by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247(d) [247d]), is required to notify Congress in writing of that determination not less than 3 days prior to the award of the contract.”
 
 **Justification and Approval of Sole-Source Contracts**
 
-Pub. L. 111–84, div. A, title VIII, § 811, Oct. 28, 2009, 123 Stat. 2405, as amended by Pub. L. 117–81, div. A, title XVII, § 1702(i)(3), Dec. 27, 2021, 135 Stat. 2159, provided that:
+Pub. L. 111–84, div. A, title VIII, § 811, Oct. 28, 2009, 123 Stat. 2405, as amended by Pub. L. 117–81, div. A, title XVII, § 1702(i)(3), Dec. 27, 2021, 135 Stat. 2159, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Oct. 28, 2009], the Federal Acquisition Regulation shall be revised to provide that the head of an agency may not award a sole-source contract in a covered procurement for an amount exceeding $20,000,000 unless—
 
@@ -502,7 +502,7 @@ Pub. L. 111–84, div. A, title VIII, § 811, Oct. 28, 2009, 123 Stat. 2405, a
 
 > **“(B)** in the case of a covered procurement as defined in paragraph (1)(B), an official designated in section 303(f)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(B)) [now 41 U.S.C. 3304(e)(1)(B)].”
 
-## § 3305. Simplified procedures for small purchases
+## § 3305. Simplified procedures for small purchases
 
 **(a) Authorization.—** To promote efficiency and economy in contracting and to avoid unnecessary burdens for agencies and contractors, the Federal Acquisition Regulation shall provide for special simplified procedures for purchases of property and services for amounts—
 
@@ -518,13 +518,13 @@ Pub. L. 111–84, div. A, title VIII, § 811, Oct. 28, 2009, 123 Stat. 2405, a
 
 **(e) Compliance With Special Requirements of Federal Acquisition Regulation.—** An executive agency shall comply with the Federal Acquisition Regulation provisions referred to in section 1901(e) of this title.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3752; Pub. L. 115–232, div. A, title VIII, § 836(b)(8), Aug. 13, 2018, 132 Stat. 1861.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3752; Pub. L. 115–232, div. A, title VIII, § 836(b)(8), Aug. 13, 2018, 132 Stat. 1861.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3305 | 41:253(g). | June 30, 1949, ch. 288, title III, § 303(g), 63 Stat. 395; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 90–268, § 2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, title VII, § 2711(a)(1), July 18, 1984, 98 Stat. 1178; Pub. L. 99–145, title XIII, § 1304(c)(3), Nov. 8, 1985, 99 Stat. 742; Pub. L. 101–510, title VIII, § 806(c), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, § 1051(2), title IV, § 4402(a), Oct. 13, 1994, 108 Stat. 3260, 3348; Pub. L. 104–106, title XLII, § 4202(b)(1), Feb. 10, 1996, 110 Stat. 653; Pub. L. 105–85, title VIII, § 850(f)(4)(B), Nov. 18, 1997, 111 Stat. 1850. |
+| 3305 | 41:253(g). | June 30, 1949, ch. 288, title III, § 303(g), 63 Stat. 395; July 12, 1952, ch. 703, § 1(m), 66 Stat. 594; Pub. L. 90–268, § 2, Mar. 16, 1968, 82 Stat. 49; Pub. L. 98–369, title VII, § 2711(a)(1), July 18, 1984, 98 Stat. 1178; Pub. L. 99–145, title XIII, § 1304(c)(3), Nov. 8, 1985, 99 Stat. 742; Pub. L. 101–510, title VIII, § 806(c), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, § 1051(2), title IV, § 4402(a), Oct. 13, 1994, 108 Stat. 3260, 3348; Pub. L. 104–106, title XLII, § 4202(b)(1), Feb. 10, 1996, 110 Stat. 653; Pub. L. 105–85, title VIII, § 850(f)(4)(B), Nov. 18, 1997, 111 Stat. 1850. |
 
 **Editorial Notes**
 
@@ -538,7 +538,7 @@ Pub. L. 111–84, div. A, title VIII, § 811, Oct. 28, 2009, 123 Stat. 2405, a
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 3306. Planning and solicitation requirements
+## § 3306. Planning and solicitation requirements
 
 **(a) Planning and Specifications.—**
 
@@ -640,14 +640,14 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(B)** reduce the scoring of an offer on the basis of the inclusion in the offer of a plan of the offeror to allow the offeror’s employees to telecommute, unless the contracting officer concerned first determines that the requirements of the agency, including security requirements, would be adversely impacted if telecommuting is allowed and documents in writing the basis for the determination.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3752; Pub. L. 115–232, div. A, title VIII, §§ 836(b)(9), 876, Aug. 13, 2018, 132 Stat. 1861, 1907.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3752; Pub. L. 115–232, div. A, title VIII, §§ 836(b)(9), 876, Aug. 13, 2018, 132 Stat. 1861, 1907.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3306(a)–(e) | 41:253a. | June 30, 1949, ch. 288, title III, § 303A, as added Pub. L. 98–369, title VII, § 2711(a)(2), July 18, 1984, 98 Stat. 1178; Pub. L. 103–355, title I, §§ 1061(a), (b), 1062, title IV, § 4402(b), Oct. 13, 1994, 108 Stat. 3266, 3267, 3348; Pub. L. 104–106, title XLII, § 4202(b)(2), Feb. 10, 1996, 110 Stat. 653. |
-| 3306(f) | 41:253a note. | Pub. L. 108–136, title XIV, § 1428, Nov. 24, 2003, 117 Stat. 1670. |
+| 3306(a)–(e) | 41:253a. | June 30, 1949, ch. 288, title III, § 303A, as added Pub. L. 98–369, title VII, § 2711(a)(2), July 18, 1984, 98 Stat. 1178; Pub. L. 103–355, title I, §§ 1061(a), (b), 1062, title IV, § 4402(b), Oct. 13, 1994, 108 Stat. 3266, 3267, 3348; Pub. L. 104–106, title XLII, § 4202(b)(2), Feb. 10, 1996, 110 Stat. 653. |
+| 3306(f) | 41:253a note. | Pub. L. 108–136, title XIV, § 1428, Nov. 24, 2003, 117 Stat. 1670. |
 
 In subsection (f)(2), the words “Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend” are omitted as obsolete.
 
@@ -655,11 +655,11 @@ In subsection (f)(2), the words “Not later than 180 days after the date of the
 
 **Amendments**
 
-2018—Subsec. (b). Pub. L. 115–232, § 836(b)(9), substituted “commercial products or commercial services” for “commercial items” in introductory provisions.
+2018—Subsec. (b). Pub. L. 115–232, § 836(b)(9), substituted “commercial products or commercial services” for “commercial items” in introductory provisions.
 
-Subsec. (c)(1)(B), (C). Pub. L. 115–232, § 876(1), inserted “except as provided in paragraph (3),” after subpar. designation.
+Subsec. (c)(1)(B), (C). Pub. L. 115–232, § 876(1), inserted “except as provided in paragraph (3),” after subpar. designation.
 
-Subsec. (c)(3), (4). Pub. L. 115–232, § 876(2), added pars. (3) and (4).
+Subsec. (c)(3), (4). Pub. L. 115–232, § 876(2), added pars. (3) and (4).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -667,7 +667,7 @@ Subsec. (c)(3), (4). Pub. L. 115–232, § 876(2), added pars. (3) and (4).
 
 Amendment by section 836(b)(9) of Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 3307. Preference for commercial products and commercial services
+## § 3307. Preference for commercial products and commercial services
 
 **(a) Relationship of Provisions of Law to Procurement of Commercial Products and Commercial Services.—**
 
@@ -801,17 +801,17 @@ Amendment by section 836(b)(9) of Pub. L. 115–232 effective Jan. 1, 2020, subj
 
 **(C)** set forth guidance regarding the use of past performance of commercial products and sources as a factor in contract award decisions.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3754; Pub. L. 115–232, div. A, title VIII, § 836(b)(10)(A), (B)(i), Aug. 13, 2018, 132 Stat. 1861–1863; Pub. L. 116–92, div. A, title VIII, § 818(b), Dec. 20, 2019, 133 Stat. 1488; Pub. L. 117–81, div. A, title XVII, § 1702(h)(13), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3754; Pub. L. 115–232, div. A, title VIII, § 836(b)(10)(A), (B)(i), Aug. 13, 2018, 132 Stat. 1861–1863; Pub. L. 116–92, div. A, title VIII, § 818(b), Dec. 20, 2019, 133 Stat. 1488; Pub. L. 117–81, div. A, title XVII, § 1702(h)(13), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3307(a) | 41:264. | June 30, 1949, ch. 288, title III, §§ 314, 314B, as added Pub. L. 103–355, title VIII, §§ 8201, 8203, Oct. 13, 1994, 108 Stat. 3394. |
+| 3307(a) | 41:264. | June 30, 1949, ch. 288, title III, §§ 314, 314B, as added Pub. L. 103–355, title VIII, §§ 8201, 8203, Oct. 13, 1994, 108 Stat. 3394. |
 | 3307(b) | 41:264b(a). |  |
 | 3307(c) | 41:264b(b). |  |
 | 3307(d) | 41:264b(c). |  |
-| 3307(e) | 41:264 note. | Pub. L. 103–355, title VIII, § 8002, Oct. 13, 1994, 108 Stat. 3386; Pub. L. 108–136, title XIV, 1432, Nov. 24, 2003, 117 Stat. 1672. |
+| 3307(e) | 41:264 note. | Pub. L. 103–355, title VIII, § 8002, Oct. 13, 1994, 108 Stat. 3386; Pub. L. 108–136, title XIV, 1432, Nov. 24, 2003, 117 Stat. 1672. |
 
 Subsection (a)(1) is substituted for 41 U.S.C. 264(a) for clarity.
 
@@ -827,41 +827,41 @@ In subsection (e)(2)(B)(i) and (C)(i), the words “as the case may be” are om
 
 2019—Subsec. (d)(4). Pub. L. 116–92 added par. (4).
 
-2018—Pub. L. 115–232, § 836(b)(10)(B)(i), substituted “Preference for commercial products and commercial services” for “Preference for commercial items” in section catchline.
+2018—Pub. L. 115–232, § 836(b)(10)(B)(i), substituted “Preference for commercial products and commercial services” for “Preference for commercial items” in section catchline.
 
-Subsec. (a). Pub. L. 115–232, § 836(b)(10)(A)(i)(I), substituted “Commercial Products and Commercial Services” for “Commercial Items” in heading.
+Subsec. (a). Pub. L. 115–232, § 836(b)(10)(A)(i)(I), substituted “Commercial Products and Commercial Services” for “Commercial Items” in heading.
 
-Subsec. (a)(1). Pub. L. 115–232, § 836(b)(10)(A)(i)(II), substituted “commercial products and commercial services” for “commercial items”.
+Subsec. (a)(1). Pub. L. 115–232, § 836(b)(10)(A)(i)(II), substituted “commercial products and commercial services” for “commercial items”.
 
-Subsec. (a)(2). Pub. L. 115–232, § 836(b)(10)(A)(i)(III), substituted “a commercial product or commercial service” for “a commercial item”.
+Subsec. (a)(2). Pub. L. 115–232, § 836(b)(10)(A)(i)(III), substituted “a commercial product or commercial service” for “a commercial item”.
 
-Subsec. (b)(2). Pub. L. 115–232, § 836(b)(10)(A)(ii)(I), substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial items”.
+Subsec. (b)(2). Pub. L. 115–232, § 836(b)(10)(A)(ii)(I), substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial items”.
 
-Subsec. (b)(3). Pub. L. 115–232, § 836(b)(10)(A)(ii)(II), substituted “commercial services, commercial products, and nondevelopmental items other than commercial products” for “commercial items and nondevelopmental items other than commercial items”.
+Subsec. (b)(3). Pub. L. 115–232, § 836(b)(10)(A)(ii)(II), substituted “commercial services, commercial products, and nondevelopmental items other than commercial products” for “commercial items and nondevelopmental items other than commercial items”.
 
-Subsec. (c)(1), (2). Pub. L. 115–232, § 836(b)(10)(A)(iii)(I), substituted “commercial services or commercial products or nondevelopmental items other than commercial products” for “commercial items or nondevelopmental items other than commercial items”.
+Subsec. (c)(1), (2). Pub. L. 115–232, § 836(b)(10)(A)(iii)(I), substituted “commercial services or commercial products or nondevelopmental items other than commercial products” for “commercial items or nondevelopmental items other than commercial items”.
 
-Subsec. (c)(3), (4). Pub. L. 115–232, § 836(b)(10)(A)(iii)(II), substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial items”.
+Subsec. (c)(3), (4). Pub. L. 115–232, § 836(b)(10)(A)(iii)(II), substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial items”.
 
-Subsec. (c)(5), (6). Pub. L. 115–232, § 836(b)(10)(A)(iii)(III), substituted “commercial products and commercial services” for “commercial items”.
+Subsec. (c)(5), (6). Pub. L. 115–232, § 836(b)(10)(A)(iii)(III), substituted “commercial products and commercial services” for “commercial items”.
 
-Subsec. (d)(2). Pub. L. 115–232, § 836(b)(10)(A)(iv), in introductory provisions, substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial items”.
+Subsec. (d)(2). Pub. L. 115–232, § 836(b)(10)(A)(iv), in introductory provisions, substituted “commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial products” for “commercial items or, to the extent that commercial items suitable to meet the executive agency’s needs are not available, nondevelopmental items other than commercial items”.
 
-Subsec. (e)(1). Pub. L. 115–232, § 836(b)(10)(A)(v)(I), inserted “103a, 104,” after “sections 102, 103,”.
+Subsec. (e)(1). Pub. L. 115–232, § 836(b)(10)(A)(v)(I), inserted “103a, 104,” after “sections 102, 103,”.
 
-Subsec. (e)(2)(A). Pub. L. 115–232, § 836(b)(10)(A)(v)(II), substituted “commercial products or commercial services” for “commercial items”.
+Subsec. (e)(2)(A). Pub. L. 115–232, § 836(b)(10)(A)(v)(II), substituted “commercial products or commercial services” for “commercial items”.
 
-Subsec. (e)(2)(B). Pub. L. 115–232, § 836(b)(10)(A)(v)(III), (IV), in introductory provisions, substituted “end items that are commercial products” for “commercial end items” and, in cl. (i), substituted “commercial products, commercial components, or commercial services” for “commercial items or commercial components”.
+Subsec. (e)(2)(B). Pub. L. 115–232, § 836(b)(10)(A)(v)(III), (IV), in introductory provisions, substituted “end items that are commercial products” for “commercial end items” and, in cl. (i), substituted “commercial products, commercial components, or commercial services” for “commercial items or commercial components”.
 
-Subsec. (e)(2)(C). Pub. L. 115–232, § 836(b)(10)(A)(v)(IV), (V), in introductory provisions, substituted “commercial products or commercial services” for “commercial items” and, in cl. (i), substituted “commercial products, commercial components, or commercial services” for “commercial items or commercial components”.
+Subsec. (e)(2)(C). Pub. L. 115–232, § 836(b)(10)(A)(v)(IV), (V), in introductory provisions, substituted “commercial products or commercial services” for “commercial items” and, in cl. (i), substituted “commercial products, commercial components, or commercial services” for “commercial items or commercial components”.
 
-Subsec. (e)(2)(D). Pub. L. 115–232, § 836(b)(10)(A)(v)(IV), substituted “commercial products, commercial components, or commercial services” for “commercial items or commercial components”.
+Subsec. (e)(2)(D). Pub. L. 115–232, § 836(b)(10)(A)(v)(IV), substituted “commercial products, commercial components, or commercial services” for “commercial items or commercial components”.
 
-Subsec. (e)(4)(A). Pub. L. 115–232, § 836(b)(10)(A)(v)(VI), substituted “commercial products or commercial services” for “commercial items” in introductory provisions.
+Subsec. (e)(4)(A). Pub. L. 115–232, § 836(b)(10)(A)(v)(VI), substituted “commercial products or commercial services” for “commercial items” in introductory provisions.
 
-Subsec. (e)(4)(C)(i). Pub. L. 115–232, § 836(b)(10)(A)(v)(VII), substituted “commercial product, as described in section 103a(1)” for “commercial item, as described in section 103(5)”.
+Subsec. (e)(4)(C)(i). Pub. L. 115–232, § 836(b)(10)(A)(v)(VII), substituted “commercial product, as described in section 103a(1)” for “commercial item, as described in section 103(5)”.
 
-Subsec. (e)(5). Pub. L. 115–232, § 836(b)(10)(A)(v)(VIII), substituted “products” for “items” wherever appearing.
+Subsec. (e)(5). Pub. L. 115–232, § 836(b)(10)(A)(v)(VIII), substituted “products” for “items” wherever appearing.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -869,7 +869,7 @@ Subsec. (e)(5). Pub. L. 115–232, § 836(b)(10)(A)(v)(VIII), substituted “p
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
-## § 3308. Planning for future competition in contracts for major systems
+## § 3308. Planning for future competition in contracts for major systems
 
 **(a) Development Contract.—**
 
@@ -893,15 +893,15 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(c) Consideration of Factors as Objectives in Negotiations.—** If the head of an agency is making a noncompetitive award of a development contract or a production contract for a major system, the factors specified in subsections (a) and (b) to be considered in evaluating an offer for a contract may be considered as objectives in negotiating the contract to be awarded.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3758.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3758.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3308 | 41:253b(j). | June 30, 1949, ch. 288, title III, § 303B(j), formerly § 303B(f), as added Pub. L. 98–577, title II, § 201(a), Oct. 30, 1984, 98 Stat. 3068; redesignated as § 303B(g), Pub. L. 103–355, title I, § 1064(1), Oct. 13, 1994, 108 Stat. 3268; redesignated as § 303B(j), Pub. L. 104–106, title XLI, § 4104(b)(2), Feb. 10, 1996, 110 Stat. 645. |
+| 3308 | 41:253b(j). | June 30, 1949, ch. 288, title III, § 303B(j), formerly § 303B(f), as added Pub. L. 98–577, title II, § 201(a), Oct. 30, 1984, 98 Stat. 3068; redesignated as § 303B(g), Pub. L. 103–355, title I, § 1064(1), Oct. 13, 1994, 108 Stat. 3268; redesignated as § 303B(j), Pub. L. 104–106, title XLI, § 4104(b)(2), Feb. 10, 1996, 110 Stat. 645. |
 
-## § 3309. Design-build selection procedures
+## § 3309. Design-build selection procedures
 
 **(a) Authorization.—** Unless the traditional acquisition approach of design-bid-build established under sections 1101 to 1104 of title 40 or another acquisition procedure authorized by law is used, the head of an executive agency shall use the two-phase selection procedures authorized in this section for entering into a contract for the design and construction of a public building, facility, or work when a determination is made under subsection (b) that the procedures are appropriate for use.
 
@@ -969,13 +969,13 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 **(3)** providing for a uniform approach to be used Government-wide.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3759.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3759.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3309 | 41:253m. | June 30, 1949, ch. 288, title III, § 303M, as added Pub. L. 104–106, div. D, title XLI, § 4105(b)(1), Feb. 10, 1996, 110 Stat. 647. |
+| 3309 | 41:253m. | June 30, 1949, ch. 288, title III, § 303M, as added Pub. L. 104–106, div. D, title XLI, § 4105(b)(1), Feb. 10, 1996, 110 Stat. 647. |
 
 In subsections (a) and (c)(1), the words “sections 1101 to 1104 of title 40” are substituted for “the Brooks Architect-Engineers Act (title IX of this Act)” and “the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)”, respectively, because of section 5(c) of Public Law 107–217 (40 U.S.C. note prec. 101) and for consistency with title 40.
 
@@ -985,7 +985,7 @@ In subsection (c)(5), the reference to section 253b of this title is limited to 
 
 **Prohibition on Use of a Reverse Auction for the Award of a Contract for Complex, Specialized, or Substantial Design and Construction Services**
 
-Pub. L. 116–260, div. U, title IV, § 402, Dec. 27, 2020, 134 Stat. 2292, as amended by Pub. L. 117–28, § 2, July 26, 2021, 135 Stat. 304, provided that:
+Pub. L. 116–260, div. U, title IV, § 402, Dec. 27, 2020, 134 Stat. 2292, as amended by Pub. L. 117–28, § 2, July 26, 2021, 135 Stat. 304, provided that:
 
 > **“(a) Findings.—** Congress makes the following findings:
 
@@ -1017,7 +1017,7 @@ Pub. L. 116–260, div. U, title IV, § 402, Dec. 27, 2020, 134 Stat. 2292, as
 
 > **“(f) Report.—** Not later than two years after the date of the enactment of this section, the Administrator of General Services shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform [now Committee on Oversight and Accountability] of the House of Representatives a report on the effectiveness of this section in delivering complex, specialized, or substantial design and construction services to the United States Government.”
 
-## § 3310. Quantities to order
+## § 3310. Quantities to order
 
 **(a) Factors Affecting Quantity To Order.—** Each executive agency shall procure supplies in a quantity that—
 
@@ -1027,17 +1027,17 @@ Pub. L. 116–260, div. U, title IV, § 402, Dec. 27, 2020, 134 Stat. 2292, as
 
 **(b) Offeror’s Opinion of Quantity.—** Each solicitation for a contract for supplies shall, if practicable, include a provision inviting each offeror responding to the solicitation to state an opinion on whether the quantity of supplies proposed to be procured is economically advantageous to the Federal Government and, if applicable, to recommend a quantity that would be more economically advantageous to the Federal Government. Each recommendation shall include a quotation of the total price and the unit price for supplies procured in each recommended quantity.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3761.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3761.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3310 | 41:253f. | June 30, 1949, ch. 288, title III, § 303F, formerly § 303G, as added Pub. L. 98–577, title II, § 205(a), Oct. 30, 1984, 98 Stat. 3073; renumbered § 303F, Pub. L. 99–145, title XIII, § 1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742. |
+| 3310 | 41:253f. | June 30, 1949, ch. 288, title III, § 303F, formerly § 303G, as added Pub. L. 98–577, title II, § 205(a), Oct. 30, 1984, 98 Stat. 3073; renumbered § 303F, Pub. L. 99–145, title XIII, § 1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742. |
 
 In subsection (b), the words “or quantities” are omitted because of 1:1.
 
-## § 3311. Qualification requirement
+## § 3311. Qualification requirement
 
 **(a) Definition.—** In this section, the term “qualification requirement” means a requirement for testing or other quality assurance demonstration that must be completed by an offeror before award of a contract.
 
@@ -1103,17 +1103,17 @@ In subsection (b), the words “or quantities” are omitted because of 1:1.
 
 **(f) When Enforcement of Qualification Requirement Not Allowed.—** Except in an emergency as determined by the head of the agency, after the head of the agency determines not to enforce a qualification requirement for a solicitation, the agency may not enforce the requirement unless the agency complies with the requirements of subsection (b).
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3761.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3761.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3311 | 41:253c. | June 30, 1949, ch. 288, title III, § 303C, formerly § 303D, as added Pub. L. 98–577, title II, § 202(a), Oct. 30, 1984, 98 Stat. 3069; renumbered § 303C, Pub. L. 99–145, title XIII, § 1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742. |
+| 3311 | 41:253c. | June 30, 1949, ch. 288, title III, § 303C, formerly § 303D, as added Pub. L. 98–577, title II, § 202(a), Oct. 30, 1984, 98 Stat. 3069; renumbered § 303C, Pub. L. 99–145, title XIII, § 1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742. |
 
 In subsection (d)(1)(A), the words “in the Commerce Business Daily” are omitted as obsolete. See revision note for section 1708(d) of the revised title.
 
-## § 3312. Database on price trends of items and services under Federal contracts
+## § 3312. Database on price trends of items and services under Federal contracts
 
 **(a) Database Required.—** The Administrator shall establish and maintain a database of information on price trends for items and services under contracts with the Federal Government. The information in the database shall be designed to assist Federal acquisition officials in the following:
 
@@ -1125,22 +1125,22 @@ In subsection (d)(1)(A), the words “in the Commerce Business Daily” are omit
 
 **(1)** The database under subsection (a) shall be available to executive agencies in the evaluation of offers for contracts with the Federal Government for items and services.
 
-**(2)** The Secretary of Defense may satisfy the requirements of this section by complying with the requirements of section 892 1
+**(2)** The Secretary of Defense may satisfy the requirements of this section by complying with the requirements of section 892 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (10 U.S.C. 2306a note).
 
-(Added Pub. L. 112–239, div. A, title VIII, § 851(a)(1), Jan. 2, 2013, 126 Stat. 1855.)
+(Added Pub. L. 112–239, div. A, title VIII, § 851(a)(1), Jan. 2, 2013, 126 Stat. 1855.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 892 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, referred to in subsec. (b)(2), is section 892 of Pub. L. 111–383, which was formerly set out as a note under section 2306a of Title 10, Armed Forces, prior to repeal by Pub. L. 114–92, div. A, title X, § 1073(f), Nov. 25, 2015, 129 Stat. 996.
+Section 892 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, referred to in subsec. (b)(2), is section 892 of Pub. L. 111–383, which was formerly set out as a note under section 2306a of Title 10, Armed Forces, prior to repeal by Pub. L. 114–92, div. A, title X, § 1073(f), Nov. 25, 2015, 129 Stat. 996.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Use of Elements of Department of Defense Pilot Project**
 
-Pub. L. 112–239, div. A, title VIII, § 851(b), Jan. 2, 2013, 126 Stat. 1855, provided that: “In establishing the database required by section 3312 of title 41, United States Code (as added by subsection (a)), the Administrator for Federal Procurement Policy shall use and incorporate appropriate elements of the pilot project on pricing being carried out by the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to section 892 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 [Pub. L. 111–383] (10 U.S.C. 2306a note) and the Better Buying Power initiative of the Secretary of Defense.”
+Pub. L. 112–239, div. A, title VIII, § 851(b), Jan. 2, 2013, 126 Stat. 1855, provided that: “In establishing the database required by section 3312 of title 41, United States Code (as added by subsection (a)), the Administrator for Federal Procurement Policy shall use and incorporate appropriate elements of the pilot project on pricing being carried out by the Under Secretary of Defense for Acquisition, Technology, and Logistics pursuant to section 892 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 [Pub. L. 111–383] (10 U.S.C. 2306a note) and the Better Buying Power initiative of the Secretary of Defense.”

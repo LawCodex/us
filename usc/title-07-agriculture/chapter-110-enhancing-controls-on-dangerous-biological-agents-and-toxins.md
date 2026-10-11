@@ -17,7 +17,7 @@ retrieved: 2026-10-11
 
 ## SUBCHAPTER I—DEPARTMENT OF AGRICULTURE
 
-### § 8401. Regulation of certain biological agents and toxins
+### § 8401. Regulation of certain biological agents and toxins
 
 **(a) Regulatory control of certain biological agents and toxins**
 
@@ -151,9 +151,9 @@ Regulations under subsections (b) and (c) shall provide that, in determining whe
 
 **(I)** when requested by the individual involved, of a determination under paragraph (2) to deny the individual access to listed agents and toxins; and
 
-**(II)** when requested by the person involved, of a determination under under 1
+**(II)** when requested by the person involved, of a determination under under 1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 paragraph (6) to deny or revoke registration for such person.
 
@@ -173,9 +173,9 @@ When reviewing a decision of the Secretary under subparagraph (A), and upon requ
 
 **(ii) Disclosure of information**
 
-In a review under subparagraph (A), and in any judical 2
+In a review under subparagraph (A), and in any judical 2
 
-<sup>2</sup>  So in original. Probably should be “judicial”.
+<sup>2</sup> So in original. Probably should be “judicial”.
 
 proceeding conducted pursuant to such review, neither the Secretary nor the Attorney General may be required to disclose to the public any information that under subsection (h) shall not be disclosed under section 552 of title 5.
 
@@ -207,15 +207,15 @@ In the case of overlap agents and toxins, exemptions from the applicability of p
 
 **(aa)** are listed pursuant to subsection (a)(1); and
 
-**(bb)** are listed pursuant to section 262a(a)(1) of title 42. 3
+**(bb)** are listed pursuant to section 262a(a)(1) of title 42. 3
 
-<sup>3</sup>  See References in Text note below.
+<sup>3</sup> See References in Text note below.
 
 **(II)** The term “overlap agent or toxin” means a biological agent or toxin that—
 
 **(aa)** is listed pursuant to subsection (a)(1); and
 
-**(bb)** is listed pursuant to section 262a(a)(1) of title 42. <sup>3</sup>
+**(bb)** is listed pursuant to section 262a(a)(1) of title 42. <sup>3</sup>
 
 **(B) Clinical or diagnostic laboratories** Regulations under subsections (b) and (c) shall exempt clinical or diagnostic laboratories and other persons who possess, use, or transfer overlap agents or toxins that are contained in specimens presented for diagnosis, verification, or proficiency testing, provided that—
 
@@ -257,9 +257,9 @@ The Secretary may temporarily exempt a person from the applicability of the requ
 
 **(E) Public health emergencies**
 
-Upon request of the Secretary of Health and Human Services, after the granting by such Secretary of an exemption under 262a(g)(3) 4
+Upon request of the Secretary of Health and Human Services, after the granting by such Secretary of an exemption under 262a(g)(3) 4
 
-<sup>4</sup>  So in original. Probably should be preceded by “section”.
+<sup>4</sup> So in original. Probably should be preceded by “section”.
 
 of title 42 pursuant to a finding that there is a public health emergency, the Secretary of Agriculture may temporarily exempt a person from the applicability of the requirements of this section with respect to an overlap agent or toxin, in whole or in part, to provide for the timely participation of the person in a response to the public health emergency. With respect to the emergency involved, such exemption for a person may not exceed 30 days, except that upon request of the Secretary of Health and Human Services, the Secretary of Agriculture may, after review of whether such exemption remains necessary, provide one extension of an additional 30 days.
 
@@ -293,9 +293,9 @@ In the case of listed agents or toxins that are not overlap agents or toxins, th
 
 **(3) Other exemptions**
 
-This subsection may not be construed as altering the application of any exemptions to public disclosure under section 552 of title 5, except as to subsection 5
+This subsection may not be construed as altering the application of any exemptions to public disclosure under section 552 of title 5, except as to subsection 5
 
-<sup>5</sup>  So in original. Probably should be “section”.
+<sup>5</sup> So in original. Probably should be “section”.
 
 552(b)(3) of such title, to any of the information specified in paragraph (1).
 
@@ -353,7 +353,7 @@ The Secretary shall report to the Congress annually on the number and nature of 
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007, in addition to other funds that may be available.
 
-(Pub. L. 107–188, title II, § 212, June 12, 2002, 116 Stat. 647; Pub. L. 107–296, title XVII, § 1709(b), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 115–334, title XII, § 12204, Dec. 20, 2018, 132 Stat. 4949.)
+(Pub. L. 107–188, title II, § 212, June 12, 2002, 116 Stat. 647; Pub. L. 107–296, title XVII, § 1709(b), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 115–334, title XII, § 12204, Dec. 20, 2018, 132 Stat. 4949.)
 
 **Editorial Notes**
 
@@ -361,13 +361,13 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 Section 262a(a)(1) of title 42, referred to in subsec. (g)(1)(A)(ii), was in the original “section 315A(a)(1) of the Public Health Service Act”, and was translated as meaning section 351A(a)(1) of that Act to reflect the probable intent of Congress, because the Public Health Service Act does not contain a section 315A and section 351A refers to a list of biological agents and toxins.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(C)(ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(C)(ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(1)(C)(ii)(III), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(1)(C)(ii)(III), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(1)(C)(ii)(IV), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(1)(C)(ii)(IV), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 
-The Plant Protection Act, referred to in subsec. (i)(2), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+The Plant Protection Act, referred to in subsec. (i)(2), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 **Amendments**
 
@@ -383,11 +383,11 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 **Short Title**
 
-Pub. L. 107–188, title II, § 211, June 12, 2002, 116 Stat. 647, provided that: “This subtitle [subtitle B (§§ 211–213) of title II of Pub. L. 107–188, enacting this subchapter] may be cited as the ‘Agricultural Bioterrorism Protection Act of 2002’.”
+Pub. L. 107–188, title II, § 211, June 12, 2002, 116 Stat. 647, provided that: “This subtitle [subtitle B (§§ 211–213) of title II of Pub. L. 107–188, enacting this subchapter] may be cited as the ‘Agricultural Bioterrorism Protection Act of 2002’.”
 
 **Implementation by Department of Agriculture**
 
-Pub. L. 107–188, title II, § 213, June 12, 2002, 116 Stat. 656, provided that:
+Pub. L. 107–188, title II, § 213, June 12, 2002, 116 Stat. 656, provided that:
 
 > **“(a) Date Certain for Promulgation of List.—** Not later than 60 days after the date of the enactment of this Act [June 12, 2002], the Secretary of Agriculture (referred to in this section as the ‘Secretary’) shall promulgate an interim final rule that establishes the initial list under section 212(a)(1) [7 U.S.C. 8401(a)(1)]. In promulgating such rule, the Secretary shall provide written guidance on the manner in which the notice required in subsection (b) is to be provided to the Secretary.
 
@@ -403,7 +403,7 @@ Pub. L. 107–188, title II, § 213, June 12, 2002, 116 Stat. 656, provided th
 
 ## SUBCHAPTER II—INTERAGENCY COORDINATION REGARDING OVERLAP AGENTS AND TOXINS
 
-### § 8411. Interagency coordination
+### § 8411. Interagency coordination
 
 **(a) In general**
 
@@ -415,9 +415,9 @@ The Secretary of Agriculture and the Secretary of Health and Human Services shal
 
 **(A)** The term “overlap agent or toxin” means a biological agent or toxin that—
 
-**(i)** is listed pursuant to section 315A(a)(1) 1
+**(i)** is listed pursuant to section 315A(a)(1) 1
 
-<sup>1</sup>  So in original. Probably should be “351A(a)(1)”.
+<sup>1</sup> So in original. Probably should be “351A(a)(1)”.
 
 of the Public Health Service Act [42 U.S.C. 262a(a)(1)], as added by section 201 of this Act; and
 
@@ -479,4 +479,4 @@ The memorandum of understanding under paragraph (1) shall be implemented not lat
 
 Not later than 18 months after the date on which the single system of registration under subsection (c)(2) is implemented, the Secretary of Health and Human Services and the Secretary of Agriculture shall jointly issue regulations for the possession, use, and transfer of overlap agents and toxins that meet the requirements of both the section 351A program and the section 212 program.
 
-(Pub. L. 107–188, title II, § 221, June 12, 2002, 116 Stat. 657.)
+(Pub. L. 107–188, title II, § 221, June 12, 2002, 116 Stat. 657.)

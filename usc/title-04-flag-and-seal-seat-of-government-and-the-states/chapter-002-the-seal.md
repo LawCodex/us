@@ -15,17 +15,17 @@ retrieved: 2026-10-11
 
 # CHAPTER 2—THE SEAL
 
-## § 41. Seal of the United States
+## § 41. Seal of the United States
 
 The seal heretofore used by the United States in Congress assembled is declared to be the seal of the United States.
 
 (July 30, 1947, ch. 389, 61 Stat. 643.)
 
-## § 42. Same; custody and use of
+## § 42. Same; custody and use of
 
 The Secretary of State shall have the custody and charge of such seal. Except as provided by section 2902(a) of title 5, the seal shall not be affixed to any instrument without the special warrant of the President therefor.
 
-(July 30, 1947, ch. 389, 61 Stat. 643; Pub. L. 89–554, § 2(a), Sept. 6, 1966, 80 Stat. 608.)
+(July 30, 1947, ch. 389, 61 Stat. 643; Pub. L. 89–554, § 2(a), Sept. 6, 1966, 80 Stat. 608.)
 
 **Editorial Notes**
 

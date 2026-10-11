@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 25—NATIONAL COMMISSION ON ELECTRONIC FUND TRANSFERS
 
-## § 2401. Establishment of Commission
+## § 2401. Establishment of Commission
 
 There is established the National Commission on Electronic Fund Transfers (hereinafter referred to as the “Commission”) which shall be an independent instrumentality of the United States.
 
-(Pub. L. 93–495, title II, § 201, Oct. 28, 1974, 88 Stat. 1508.)
+(Pub. L. 93–495, title II, § 201, Oct. 28, 1974, 88 Stat. 1508.)
 
-## § 2402. Membership of Commission
+## § 2402. Membership of Commission
 
 **(a) Composition** The Commission shall be composed of twenty-six members as follows:
 
@@ -63,7 +63,7 @@ The Chairperson shall be designated by the President at the time of his appointm
 
 A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
-(Pub. L. 93–495, title II, § 202, Oct. 28, 1974, 88 Stat. 1508.)
+(Pub. L. 93–495, title II, § 202, Oct. 28, 1974, 88 Stat. 1508.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -73,7 +73,7 @@ Functions vested in Administrator of National Credit Union Administration transf
 
 Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of this title.
 
-## § 2403. Functions of Commission
+## § 2403. Functions of Commission
 
 **(a) Study, investigation, and recommendations; considerations** The Commission shall conduct a thorough study and investigation and recommend appropriate administrative action and legislation necessary in connection with the possible development of public or private electronic fund transfer systems, taking into account, among other things—
 
@@ -103,7 +103,7 @@ The Commission shall make an interim report within one year of the date of the c
 
 The Commission shall not be required to obtain the clearance of any Federal agency prior to the transmittal of any interim or final report.
 
-(Pub. L. 93–495, title II, § 203, Oct. 28, 1974, 88 Stat. 1508; Pub. L. 94–200, title II, § 201, Dec. 31, 1975, 89 Stat. 1124.)
+(Pub. L. 93–495, title II, § 203, Oct. 28, 1974, 88 Stat. 1508; Pub. L. 94–200, title II, § 201, Dec. 31, 1975, 89 Stat. 1124.)
 
 **Editorial Notes**
 
@@ -111,13 +111,13 @@ The Commission shall not be required to obtain the clearance of any Federal agen
 
 1975—Subsec. (b). Pub. L. 94–200 changed the time for submission of interim and final reports from one year of the Commission’s findings and recommendations and two years after Oct. 28, 1974, to one year and two years respectively after the confirmation by the Senate of the Chairperson or the appointment by the President of an acting Chairperson.
 
-## § 2404. Powers of Commission
+## § 2404. Powers of Commission
 
 **(a) Hearings; administration of oaths**
 
-The Commission may for the purpose of carrying out this chapter hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission may deem advisable. The Commission may administer oaths of 1
+The Commission may for the purpose of carrying out this chapter hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission may deem advisable. The Commission may administer oaths of 1
 
-<sup>1</sup>  So in original. Probably should be “or”.
+<sup>1</sup> So in original. Probably should be “or”.
 
 affirmations to witnesses appearing before it.
 
@@ -139,15 +139,15 @@ The Commission may secure directly from any department or agency of the United S
 
 **(4)** All process of any court to which application may be made under this section may be served in the judicial district wherein the person required to be served resides or may be found.
 
-(Pub. L. 93–495, title II, § 204, Oct. 28, 1974, 88 Stat. 1509.)
+(Pub. L. 93–495, title II, § 204, Oct. 28, 1974, 88 Stat. 1509.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 93–495, which enacted this chapter (§ 2401 et seq.). For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 93–495, which enacted this chapter (§ 2401 et seq.). For complete classification of this Act to the Code, see Tables.
 
-## § 2405. Executive Director and additional staff personnel; appointment and compensation; experts and consultants; employment and compensation; audits by Comptroller General
+## § 2405. Executive Director and additional staff personnel; appointment and compensation; experts and consultants; employment and compensation; audits by Comptroller General
 
 **(a)** The Commission—
 
@@ -157,32 +157,32 @@ This chapter, referred to in subsecs. (a) and (c), was in the original “this A
 
 **(b)** The Comptroller General is authorized to make detailed audits of the books and records of the Commission, and shall report the results of any such audit to the Commission and to the Congress.
 
-(Pub. L. 93–495, title II, § 205, Oct. 28, 1974, 88 Stat. 1510.)
+(Pub. L. 93–495, title II, § 205, Oct. 28, 1974, 88 Stat. 1510.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 2406. Compensation of members of Commission
+## § 2406. Compensation of members of Commission
 
 **(a)** A member of the Commission who is an officer or employee of the United States shall serve as a member of the Commission without additional compensation, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of his duties as a member of the Commission.
 
 **(b)** A member of the Commission who is not otherwise an officer or employee of the United States shall be compensated at a rate of $150 per day when engaged in the performance of his duties as a member of the Commission, and shall also be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of his duties as a member of the Commission.
 
-(Pub. L. 93–495, title II, § 206, Oct. 28, 1974, 88 Stat. 1510.)
+(Pub. L. 93–495, title II, § 206, Oct. 28, 1974, 88 Stat. 1510.)
 
-## § 2407. Cooperation and assistance of other Federal departments, agencies, and instrumentalities
+## § 2407. Cooperation and assistance of other Federal departments, agencies, and instrumentalities
 
 **(a)** Each department, agency, and instrumentality of the executive branch of the Government, including independent agencies, is authorized and directed to furnish to the Commission, upon request, such data, reports, and other information as the Commission deems necessary to carry out its functions under this chapter.
 
 **(b)** The head of any department, agency, or instrumentality of the United States may detail such personnel and may furnish such services, with or without reimbursement, as the Commission may request to assist it in carrying out its functions.
 
-(Pub. L. 93–495, title II, § 207, Oct. 28, 1974, 88 Stat. 1510.)
+(Pub. L. 93–495, title II, § 207, Oct. 28, 1974, 88 Stat. 1510.)
 
-## § 2408. Authorization of appropriations
+## § 2408. Authorization of appropriations
 
 There are authorized to be appropriated without fiscal year limitations such sums, not to exceed $2,000,000, as may be necessary to carry out the provisions of this chapter.
 
-(Pub. L. 93–495, title II, § 208, Oct. 28, 1974, 88 Stat. 1511.)
+(Pub. L. 93–495, title II, § 208, Oct. 28, 1974, 88 Stat. 1511.)

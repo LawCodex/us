@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 405—REPORTING OF UNIDENTIFIED AND MISSING PERSONS
 
-## § 40501. Program authorized
+## § 40501. Program authorized
 
 **(a) In general**
 
@@ -39,13 +39,13 @@ The Attorney General may award grants to eligible entities described in paragrap
 
 **(G)** Nonprofit organizations that have working collaborative agreements with State and county forensic offices, including medical examiners, coroners, and justices of the peace, for entry of data into CODIS or the National Missing and Unidentified Persons System (commonly known as “NamUs”), or both.
 
-(Pub. L. 106–177, title II, § 202, as added Pub. L. 116–277, § 2(a)(1), Dec. 31, 2020, 134 Stat. 3368.)
+(Pub. L. 106–177, title II, § 202, as added Pub. L. 116–277, § 2(a)(1), Dec. 31, 2020, 134 Stat. 3368.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 40501, Pub. L. 106–177, title II, § 202, Mar. 10, 2000, 114 Stat. 36, authorized Attorney General to provide grant awards to States to enable States to improve the reporting of unidentified and missing persons, prior to repeal by Pub. L. 116–277, § 2(a)(1), Dec. 31, 2020, 134 Stat. 3368. Such section was formerly classified to section 14661 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as section 40501.
+A prior section 40501, Pub. L. 106–177, title II, § 202, Mar. 10, 2000, 114 Stat. 36, authorized Attorney General to provide grant awards to States to enable States to improve the reporting of unidentified and missing persons, prior to repeal by Pub. L. 116–277, § 2(a)(1), Dec. 31, 2020, 134 Stat. 3368. Such section was formerly classified to section 14661 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as section 40501.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -53,7 +53,7 @@ A prior section 40501, Pub. L. 106–177, title II, § 202, Mar. 10, 2000, 114
 
 For short title of title II of Pub. L. 106–177, which is classified to this chapter, as “Jennifer’s Law”, see section 201 of Pub. L. 106–177, set out as a Short Title of 2000 Act note under section 10101 of this title.
 
-## § 40502. Eligibility
+## § 40502. Eligibility
 
 **(a) Application**
 
@@ -81,7 +81,7 @@ Any suspected biological family DNA reference samples received from citizens of 
 
 Any biological family DNA reference samples from citizens of the United States or foreign nationals entered into CODIS for purposes of identifying missing persons and unidentified remains may not be disclosed to a Federal or State law enforcement agency for law enforcement purposes.
 
-(Pub. L. 106–177, title II, § 203, Mar. 10, 2000, 114 Stat. 36; Pub. L. 116–277, § 2(a)(2), Dec. 31, 2020, 134 Stat. 3369.)
+(Pub. L. 106–177, title II, § 203, Mar. 10, 2000, 114 Stat. 36; Pub. L. 116–277, § 2(a)(2), Dec. 31, 2020, 134 Stat. 3369.)
 
 **Editorial Notes**
 
@@ -91,17 +91,17 @@ Section was formerly classified to section 14662 of Title 42, The Public Health 
 
 **Amendments**
 
-2020—Subsec. (a). Pub. L. 116–277, § 2(a)(2)(A), substituted “an entity described in section 40501 of this title” for “a State”.
+2020—Subsec. (a). Pub. L. 116–277, § 2(a)(2)(A), substituted “an entity described in section 40501 of this title” for “a State”.
 
-Subsec. (b). Pub. L. 116–277, § 2(a)(2)(B)(i), substituted “applicant” for “State” in introductory provisions.
+Subsec. (b). Pub. L. 116–277, § 2(a)(2)(B)(i), substituted “applicant” for “State” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 116–277, § 2(a)(2)(B)(ii), added par. (1) and struck out former par. (1) which read as follows: “report to the National Crime Information Center and when possible, to law enforcement authorities throughout the State regarding every deceased unidentified person, regardless of age, found in the State’s jurisdiction;”.
+Subsec. (b)(1). Pub. L. 116–277, § 2(a)(2)(B)(ii), added par. (1) and struck out former par. (1) which read as follows: “report to the National Crime Information Center and when possible, to law enforcement authorities throughout the State regarding every deceased unidentified person, regardless of age, found in the State’s jurisdiction;”.
 
-Subsec. (b)(5). Pub. L. 116–277, § 2(a)(2)(B)(iii)–(v), added par. (5).
+Subsec. (b)(5). Pub. L. 116–277, § 2(a)(2)(B)(iii)–(v), added par. (5).
 
-Subsec. (c). Pub. L. 116–277, § 2(a)(2)(C), added subsec. (c).
+Subsec. (c). Pub. L. 116–277, § 2(a)(2)(C), added subsec. (c).
 
-## § 40503. Use of funds
+## § 40503. Use of funds
 
 An applicant receiving a grant award under this chapter may use such funds to—
 
@@ -113,15 +113,15 @@ An applicant receiving a grant award under this chapter may use such funds to—
 
 **(4)** procure and maintain state of the art multi-modal, multi-purpose forensic and DNA-typing and analytical equipment.
 
-(Pub. L. 106–177, title II, § 205, as added Pub. L. 116–277, § 2(a)(3), Dec. 31, 2020, 134 Stat. 3369.)
+(Pub. L. 106–177, title II, § 205, as added Pub. L. 116–277, § 2(a)(3), Dec. 31, 2020, 134 Stat. 3369.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 40503, Pub. L. 106–177, title II, § 204, Mar. 10, 2000, 114 Stat. 36, related to uses of funds that a State received to establish or expand programs developed to improve the reporting of unidentified persons, prior to repeal by Pub. L. 116–277, § 2(a)(3), Dec. 31, 2020, 134 Stat. 3369. Such section was formerly classified to section 14663 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as section 40503.
+A prior section 40503, Pub. L. 106–177, title II, § 204, Mar. 10, 2000, 114 Stat. 36, related to uses of funds that a State received to establish or expand programs developed to improve the reporting of unidentified persons, prior to repeal by Pub. L. 116–277, § 2(a)(3), Dec. 31, 2020, 134 Stat. 3369. Such section was formerly classified to section 14663 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as section 40503.
 
-## § 40504. Grants for the assistance of organizations to find missing adults
+## § 40504. Grants for the assistance of organizations to find missing adults
 
 **(a) In general** The Attorney General may make grants to public agencies or nonprofit private organizations, or combinations thereof, for programs—
 
@@ -141,9 +141,9 @@ A prior section 40503, Pub. L. 106–177, title II, § 204, Mar. 10, 2000, 114
 
 The Attorney General may make such rules and regulations as may be necessary to carry out this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-(Pub. L. 106–468, title I, § 101, formerly § 2, Nov. 9, 2000, 114 Stat. 2027; renumbered title I, § 101, and amended Pub. L. 115–401, § 2(1)–(3), Dec. 31, 2018, 132 Stat. 5336.)
+(Pub. L. 106–468, title I, § 101, formerly § 2, Nov. 9, 2000, 114 Stat. 2027; renumbered title I, § 101, and amended Pub. L. 115–401, § 2(1)–(3), Dec. 31, 2018, 132 Stat. 5336.)
 
 **Editorial Notes**
 
@@ -165,9 +165,9 @@ Section was formerly classified to section 14665 of Title 42, The Public Health 
 
 **Authorization of Funding**
 
-Pub. L. 106–468, title I, § 102, formerly § 3, Nov. 9, 2000, 114 Stat. 2028, renumbered title I, § 102, and amended by Pub. L. 115–401, § 2(1), (2), (4), Dec. 31, 2018, 132 Stat. 5336; Pub. L. 116–277, § 2(b), Dec. 31, 2020, 134 Stat. 3370, provided that: “To the extent provided in advance in appropriations Acts, the Attorney General is authorized to use funds appropriated for the operationalization, maintenance, and expansion of the National Missing and Unidentified Persons System (NamUs) for the purpose of carrying out this Act [enacting this section].”
+Pub. L. 106–468, title I, § 102, formerly § 3, Nov. 9, 2000, 114 Stat. 2028, renumbered title I, § 102, and amended by Pub. L. 115–401, § 2(1), (2), (4), Dec. 31, 2018, 132 Stat. 5336; Pub. L. 116–277, § 2(b), Dec. 31, 2020, 134 Stat. 3370, provided that: “To the extent provided in advance in appropriations Acts, the Attorney General is authorized to use funds appropriated for the operationalization, maintenance, and expansion of the National Missing and Unidentified Persons System (NamUs) for the purpose of carrying out this Act [enacting this section].”
 
-## § 40505. Reporting on National Missing and Unidentified Persons System (NamUs) Program
+## § 40505. Reporting on National Missing and Unidentified Persons System (NamUs) Program
 
 Not later than 18 months after December 31, 2020, and every year thereafter, the Attorney General shall submit a report to the appropriate committees of Congress regarding—
 
@@ -185,7 +185,7 @@ Not later than 18 months after December 31, 2020, and every year thereafter, the
 
 **(7)** the turnaround time and backlog.
 
-(Pub. L. 116–277, § 4, Dec. 31, 2020, 134 Stat. 3370.)
+(Pub. L. 116–277, § 4, Dec. 31, 2020, 134 Stat. 3370.)
 
 **Editorial Notes**
 
@@ -193,11 +193,11 @@ Not later than 18 months after December 31, 2020, and every year thereafter, the
 
 Section was enacted as part of the Missing Persons and Unidentified Remains Act of 2019, and not as part of Jennifer’s Law which comprises this chapter.
 
-## § 40506. Authorization of the National Missing and Unidentified Persons System
+## § 40506. Authorization of the National Missing and Unidentified Persons System
 
 **(a) In general** The Attorney General,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 shall maintain the “National Missing and Unidentified Persons System” or “NamUs”, consistent with the following:
 
@@ -253,7 +253,7 @@ shall maintain the “National Missing and Unidentified Persons System” or “
 
 The amendments made by this subsection shall apply with respect to reports made before, on, or after December 27, 2022.
 
-(Pub. L. 117–327, § 2, Dec. 27, 2022, 136 Stat. 4454.)
+(Pub. L. 117–327, § 2, Dec. 27, 2022, 136 Stat. 4454.)
 
 **Editorial Notes**
 
@@ -289,7 +289,7 @@ Section was enacted as part of Billy’s Law, also known as the Help Find the Mi
 
 > **“(8) State.—** The term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.”
 
-## § 40507. Information sharing
+## § 40507. Information sharing
 
 **(a) Access to NCIC**
 
@@ -315,7 +315,7 @@ Not later than 1 year after December 27, 2022, the Attorney General shall, in ac
 
 **(B)** specify the circumstances in which access to portions of information in the Missing Person and Unidentified Person files may be withheld from the NamUs databases.
 
-(Pub. L. 117–327, § 3, Dec. 27, 2022, 136 Stat. 4456.)
+(Pub. L. 117–327, § 3, Dec. 27, 2022, 136 Stat. 4456.)
 
 **Editorial Notes**
 
@@ -333,7 +333,7 @@ Section was enacted as part of Billy’s Law, also known as the Help Find the Mi
 
 For definitions of terms used in this section, see section 6 of Pub. L. 117–327, set out as a note under section 40506 of this title.
 
-## § 40508. Report to Congress
+## § 40508. Report to Congress
 
 **(a) In general**
 
@@ -343,7 +343,7 @@ Not later than 1 year after December 27, 2022, and biennially thereafter, the At
 
 The report required by subsection (a) shall describe, to the extent available, information on the process of information sharing between the NCIC database and NamUs databases.
 
-(Pub. L. 117–327, § 5, Dec. 27, 2022, 136 Stat. 4457.)
+(Pub. L. 117–327, § 5, Dec. 27, 2022, 136 Stat. 4457.)
 
 **Editorial Notes**
 

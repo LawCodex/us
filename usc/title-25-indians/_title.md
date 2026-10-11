@@ -13,13 +13,13 @@ retrieved: 2026-10-11
 
 # Title 25—INDIANS
 
-Current through 119-102not101
+Current through 119-102not101
 
 **Disposition Table**
 
-**(Showing disposition of former sections of Title 25)**
+**(Showing disposition of former sections of Title 25)**
 
-| *Former Classification* | *New Classification or Disposition* |
+| *Former Classification* | *New Classification or Disposition* |
 |---|---|
 | 25:442 | 25:1545 |
 | 25:443 | 25:1546 |
@@ -28,20 +28,20 @@ Current through 119-102not101
 | 25:443c | 25:1684 |
 | 25:443d | 25:1685 |
 | 25:450 | 25:5301 |
-| 25:450 note (Pub. L. 93–638, § 1, Jan. 4, 1975, 88 Stat. 2203) | 25:5301 note |
-| 25:450 note (Pub. L. 93–638, title I, § 101, Jan. 4, 1975, 88 Stat. 2206) | 25:5301 note |
-| 25:450 note (Pub. L. 93–638, title II, § 201, Jan. 4, 1975, 88 Stat. 2213) | 25:5301 note |
-| 25:450 note (Pub. L. 100–472, title I, § 101, Oct. 5, 1988, 102 Stat. 2285) | 25:5301 note |
-| 25:450 note (Pub. L. 100–472, title II, § 210, Oct. 5, 1988, 102 Stat. 2298) | 25:5301 note |
-| 25:450 note (Pub. L. 100–472, title II, § 211, Oct. 5, 1988, 102 Stat. 2298) | 25:5301 note |
-| 25:450 note (Pub. L. 101–644, title II, § 201, Nov. 29, 1990, 104 Stat. 4665) | 25:5301 note |
-| 25:450 note (Pub. L. 103–413, § 1, Oct. 25, 1994, 108 Stat. 4250) | 25:5301 note |
-| 25:450 note (Pub. L. 103–413, title I, § 101, Oct. 25, 1994, 108 Stat. 4250) | 25:5301 note |
-| 25:450 note (Pub. L. 103–413, title II, § 201, Oct. 25, 1994, 108 Stat. 4270) | 25:5301 note |
-| 25:450 note (Pub. L. 106–260, § 1, Aug. 18, 2000, 114 Stat. 711) | 25:5301 note |
-| 25:450 note (Pub. L. 106–568, title VIII, § 801, Dec. 27, 2000, 114 Stat. 2916) | 25:5301 note |
-| 25:450 note (Pub. L. 106–568, title XIII, § 1301, Dec. 27, 2000, 114 Stat. 2936) | 25:5301 note |
-| 25:450 note (Pub. L. 108–199, div. H, § 161, Jan. 23, 2004, 118 Stat. 452) | 25:5301 note |
+| 25:450 note (Pub. L. 93–638, § 1, Jan. 4, 1975, 88 Stat. 2203) | 25:5301 note |
+| 25:450 note (Pub. L. 93–638, title I, § 101, Jan. 4, 1975, 88 Stat. 2206) | 25:5301 note |
+| 25:450 note (Pub. L. 93–638, title II, § 201, Jan. 4, 1975, 88 Stat. 2213) | 25:5301 note |
+| 25:450 note (Pub. L. 100–472, title I, § 101, Oct. 5, 1988, 102 Stat. 2285) | 25:5301 note |
+| 25:450 note (Pub. L. 100–472, title II, § 210, Oct. 5, 1988, 102 Stat. 2298) | 25:5301 note |
+| 25:450 note (Pub. L. 100–472, title II, § 211, Oct. 5, 1988, 102 Stat. 2298) | 25:5301 note |
+| 25:450 note (Pub. L. 101–644, title II, § 201, Nov. 29, 1990, 104 Stat. 4665) | 25:5301 note |
+| 25:450 note (Pub. L. 103–413, § 1, Oct. 25, 1994, 108 Stat. 4250) | 25:5301 note |
+| 25:450 note (Pub. L. 103–413, title I, § 101, Oct. 25, 1994, 108 Stat. 4250) | 25:5301 note |
+| 25:450 note (Pub. L. 103–413, title II, § 201, Oct. 25, 1994, 108 Stat. 4270) | 25:5301 note |
+| 25:450 note (Pub. L. 106–260, § 1, Aug. 18, 2000, 114 Stat. 711) | 25:5301 note |
+| 25:450 note (Pub. L. 106–568, title VIII, § 801, Dec. 27, 2000, 114 Stat. 2916) | 25:5301 note |
+| 25:450 note (Pub. L. 106–568, title XIII, § 1301, Dec. 27, 2000, 114 Stat. 2936) | 25:5301 note |
+| 25:450 note (Pub. L. 108–199, div. H, § 161, Jan. 23, 2004, 118 Stat. 452) | 25:5301 note |
 | 25:450 note (Ex. Ord. No. 13175, Nov. 6, 2000, 65 F.R. 67249) | 25:5301 note |
 | 25:450 note (Ex. Ord. No. 13647, June 26, 2013, 78 F.R. 39539) | 25:5301 note |
 | 25:450 note (Memorandum of President of the United States, Apr. 29, 1994, 59 F.R. 22951) | 25:5301 note |
@@ -54,55 +54,55 @@ Current through 119-102not101
 | 25:450e | 25:5307 |
 | 25:450e–1 | 25:5308 |
 | 25:450e–2 | 25:5309 |
-| 25:450e–2 note (Pub. L. 104–134, title I, § 101(c) [title III, § 310], Apr. 26, 1996, 110 Stat. 1321–156, 1321–197) | 25:5309 note |
-| 25:450e–2 note (Pub. L. 104–208, div. A, title I, § 101(d) [title III, § 310], Sept. 30, 1996, 110 Stat. 3009–181, 3009–221) | 25:5309 note |
+| 25:450e–2 note (Pub. L. 104–134, title I, § 101(c) [title III, § 310], Apr. 26, 1996, 110 Stat. 1321–156, 1321–197) | 25:5309 note |
+| 25:450e–2 note (Pub. L. 104–208, div. A, title I, § 101(d) [title III, § 310], Sept. 30, 1996, 110 Stat. 3009–181, 3009–221) | 25:5309 note |
 | 25:450e–3 | 25:5310 |
-| 25:450e–3 note (Pub. L. 105–83, title I, § 112, Nov. 14, 1997, 111 Stat. 1562) | 25:5310 note |
-| 25:450e–3 note (Pub. L. 105–277, div. A, § 101(e), [title I, § 111], Oct. 21, 1998, 112 Stat. 2681–231, 2681–254) | 25:5310 note |
-| 25:450e–3 note (Pub. L. 106–113, div. B, § 1000(a)(3), [title I, § 111], Nov. 29, 1999, 113 Stat. 1535, 1501A–156) | 25:5310 note |
-| 25:450e–3 note (Pub. L. 106–291, title I, § 111, Oct. 11, 2000, 114 Stat. 942) | 25:5310 note |
-| 25:450e–3 note (Pub. L. 107–63, title I, § 111, Nov. 5, 2001, 115 Stat. 438) | 25:5310 note |
-| 25:450e–3 note (Pub. L. 108–7, div. F, title I, § 111, Feb. 20, 2003, 117 Stat. 239) | 25:5310 note |
-| 25:450e–3 note (Pub. L. 108–108, title I, § 111, Nov. 10, 2003, 117 Stat. 1266) | 25:5310 note |
+| 25:450e–3 note (Pub. L. 105–83, title I, § 112, Nov. 14, 1997, 111 Stat. 1562) | 25:5310 note |
+| 25:450e–3 note (Pub. L. 105–277, div. A, § 101(e), [title I, § 111], Oct. 21, 1998, 112 Stat. 2681–231, 2681–254) | 25:5310 note |
+| 25:450e–3 note (Pub. L. 106–113, div. B, § 1000(a)(3), [title I, § 111], Nov. 29, 1999, 113 Stat. 1535, 1501A–156) | 25:5310 note |
+| 25:450e–3 note (Pub. L. 106–291, title I, § 111, Oct. 11, 2000, 114 Stat. 942) | 25:5310 note |
+| 25:450e–3 note (Pub. L. 107–63, title I, § 111, Nov. 5, 2001, 115 Stat. 438) | 25:5310 note |
+| 25:450e–3 note (Pub. L. 108–7, div. F, title I, § 111, Feb. 20, 2003, 117 Stat. 239) | 25:5310 note |
+| 25:450e–3 note (Pub. L. 108–108, title I, § 111, Nov. 10, 2003, 117 Stat. 1266) | 25:5310 note |
 | 25:450f | 25:5321 |
-| 25:450f note (Pub. L. 102–184, § 1, Dec. 4, 1991, 105 Stat. 1278) | omitted |
-| 25:450f note (Pub. L. 100–472, title II, § 201(b)(2), Oct. 5, 1988, 102 Stat. 2289) | 25:5321 note |
-| 25:450f note (Pub. L. 101–512, title III, § 314, Nov. 5, 1990, 104 Stat. 1959) | 25:5321 note |
-| 25:450f note (Pub. L. 105–277, div. A, § 101(e) [title VII], Oct. 21, 1998, 112 Stat. 2681–231, 2681–335) | 25:5321 note |
-| 25:450f note (Pub. L. 106–260, § 11, Aug. 18, 2000, 114 Stat. 734) | 25:5321 note |
-| 25:450f note (Pub. L. 93–638, title VI, as added by Pub. L. 106–260, § 5, Aug. 18, 2000, 114 Stat. 731) | omitted |
+| 25:450f note (Pub. L. 102–184, § 1, Dec. 4, 1991, 105 Stat. 1278) | omitted |
+| 25:450f note (Pub. L. 100–472, title II, § 201(b)(2), Oct. 5, 1988, 102 Stat. 2289) | 25:5321 note |
+| 25:450f note (Pub. L. 101–512, title III, § 314, Nov. 5, 1990, 104 Stat. 1959) | 25:5321 note |
+| 25:450f note (Pub. L. 105–277, div. A, § 101(e) [title VII], Oct. 21, 1998, 112 Stat. 2681–231, 2681–335) | 25:5321 note |
+| 25:450f note (Pub. L. 106–260, § 11, Aug. 18, 2000, 114 Stat. 734) | 25:5321 note |
+| 25:450f note (Pub. L. 93–638, title VI, as added by Pub. L. 106–260, § 5, Aug. 18, 2000, 114 Stat. 731) | omitted |
 | 25:450h | 25:5323 |
-| 25:450h note (Pub. L. 101–644, title II, § 203(g)(2), Nov. 29, 1990, 104 Stat. 4666) | 25:5323 note |
+| 25:450h note (Pub. L. 101–644, title II, § 203(g)(2), Nov. 29, 1990, 104 Stat. 4666) | 25:5323 note |
 | 25:450i | 25:5324 |
-| 25:450i note (Pub. L. 89–702, title II, § 210(b), as added by Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 844) | 25:5324 note |
-| 25:450i note (Pub. L. 110–81, title I, § 105(d), Sept. 14, 2007, 121 Stat. 741) | 25:5324 note |
+| 25:450i note (Pub. L. 89–702, title II, § 210(b), as added by Pub. L. 98–129, § 2, Oct. 14, 1983, 97 Stat. 844) | 25:5324 note |
+| 25:450i note (Pub. L. 110–81, title I, § 105(d), Sept. 14, 2007, 121 Stat. 741) | 25:5324 note |
 | 25:450i note (Ex. Ord. No. 11899, Jan. 26, 1976, 41 F.R. 3459) | 25:5324 note |
 | 25:450j | 25:5325 |
-| 25:450j note (Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246) | 25:5325 note |
+| 25:450j note (Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246) | 25:5325 note |
 | 25:450j–1 | 25:5326 |
 | 25:450j–2 | 25:5327 |
 | 25:450j–3 | 25:5328 |
-| 25:450j–3 note (Pub. L. 105–277, div. A, § 101(e) [title I, § 114], Oct. 21, 1998, 112 Stat. 2681–231, 2681–255) | 25:5328 note |
+| 25:450j–3 note (Pub. L. 105–277, div. A, § 101(e) [title I, § 114], Oct. 21, 1998, 112 Stat. 2681–231, 2681–255) | 25:5328 note |
 | 25:450k | 25:5329 |
-| 25:450k note (Pub. L. 104–287, § 6(e), Oct. 11, 1996, 110 Stat. 3399) | 25:5329 note |
+| 25:450k note (Pub. L. 104–287, § 6(e), Oct. 11, 1996, 110 Stat. 3399) | 25:5329 note |
 | 25:450*l* | 25:5330 |
-| 25:450*l* note (Pub. L. 104–134, title I, § 101(c) [title III, § 311], Apr. 26, 1996, 110 Stat. 1321–156, 1321–197) | 25:5330 note |
-| 25:450*l* note (Pub. L. 104–208, div. A, title I, § 101(d) [title III, § 311], Sept. 30, 1996, 110 Stat. 3009–181, 3009–221) | 25:5330 note |
-| 25:450*l* note (Pub. L. 105–83, title III, § 311, Nov. 14, 1997, 111 Stat. 1590) | 25:5330 note |
+| 25:450*l* note (Pub. L. 104–134, title I, § 101(c) [title III, § 311], Apr. 26, 1996, 110 Stat. 1321–156, 1321–197) | 25:5330 note |
+| 25:450*l* note (Pub. L. 104–208, div. A, title I, § 101(d) [title III, § 311], Sept. 30, 1996, 110 Stat. 3009–181, 3009–221) | 25:5330 note |
+| 25:450*l* note (Pub. L. 105–83, title III, § 311, Nov. 14, 1997, 111 Stat. 1590) | 25:5330 note |
 | 25:450m | 25:5331 |
 | 25:450m–1 | 25:5332 |
 | 25:450n | 25:5333 |
 | 25:451 | 25:5341 |
 | 25:452 | 25:5342 |
-| 25:452 note (Pub. L. 99–190, § 101(d) [title I], Dec. 19, 1985, 99 Stat. 1224, 1235) | 25:5342 note |
-| 25:452 note (Pub. L. 100–202, § 101(g) [title I], Dec. 22, 1987, 101 Stat. 1329–213, 1329–228) | 25:5342 note |
+| 25:452 note (Pub. L. 99–190, § 101(d) [title I], Dec. 19, 1985, 99 Stat. 1224, 1235) | 25:5342 note |
+| 25:452 note (Pub. L. 100–202, § 101(g) [title I], Dec. 22, 1987, 101 Stat. 1329–213, 1329–228) | 25:5342 note |
 | 25:452 note (Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1795) | 25:5342 note |
 | 25:453 | 25:5343 |
 | 25:454 | 25:5344 |
 | 25:455 | 25:5345 |
 | 25:456 | 25:5346 |
 | 25:457 | 25:5347 |
-| 25:457 note (Pub. L. 93–638, title II, § 203, Jan. 4, 1975, 88 Stat. 2214) | omitted |
+| 25:457 note (Pub. L. 93–638, title II, § 203, Jan. 4, 1975, 88 Stat. 2214) | omitted |
 | 25:458 | 25:5351 |
 | 25:458a | 25:5352 |
 | 25:458b | 25:5353 |
@@ -110,8 +110,8 @@ Current through 119-102not101
 | 25:458d | 25:5355 |
 | 25:458e | 25:5356 |
 | 25:458aa | 25:5361 |
-| 25:458aa note (Pub. L. 103–413, title II, § 202, Oct. 25, 1994, 108 Stat. 4270) | 25:5361 note |
-| 25:458aa note (Pub. L. 103–413, title II, § 203, Oct. 25, 1994, 108 Stat. 4271) | 25:5361 note |
+| 25:458aa note (Pub. L. 103–413, title II, § 202, Oct. 25, 1994, 108 Stat. 4270) | 25:5361 note |
+| 25:458aa note (Pub. L. 103–413, title II, § 203, Oct. 25, 1994, 108 Stat. 4271) | 25:5361 note |
 | 25:458bb | 25:5362 |
 | 25:458cc | 25:5363 |
 | 25:458dd | 25:5364 |
@@ -120,9 +120,9 @@ Current through 119-102not101
 | 25:458gg | 25:5367 |
 | 25:458hh | 25:5368 |
 | 25:458aaa | 25:5381 |
-| 25:450aaa note (Pub. L. 106–260, § 2, Aug. 18, 2000, 114 Stat. 711) | 25:5381 note |
-| 25:450aaa note (Pub. L. 106–260, § 3, Aug. 18, 2000, 114 Stat. 712) | 25:5381 note |
-| 25:450aaa note (Pub. L. 106–260, § 13, Aug. 18, 2000, 114 Stat. 734) | 25:5381 note |
+| 25:450aaa note (Pub. L. 106–260, § 2, Aug. 18, 2000, 114 Stat. 711) | 25:5381 note |
+| 25:450aaa note (Pub. L. 106–260, § 3, Aug. 18, 2000, 114 Stat. 712) | 25:5381 note |
+| 25:450aaa note (Pub. L. 106–260, § 13, Aug. 18, 2000, 114 Stat. 734) | 25:5381 note |
 | 25:458aaa–1 | 25:5382 |
 | 25:458aaa–2 | 25:5383 |
 | 25:458aaa–3 | 25:5384 |
@@ -148,17 +148,17 @@ Current through 119-102not101
 | 25:458ddd–1 | 25:5422 |
 | 25:458ddd–2 | 25:5423 |
 | 25:459 | 25:5501 |
-| 25:459 note (Pub. L. 97–434, § 1(c), Jan. 8, 1983, 96 Stat. 2280) | 25:5501 note |
+| 25:459 note (Pub. L. 97–434, § 1(c), Jan. 8, 1983, 96 Stat. 2280) | 25:5501 note |
 | 25:459a | 25:5502 |
 | 25:459b | 25:5503 |
 | 25:459c | 25:5504 |
 | 25:459d | 25:5505 |
 | 25:459e | 25:5506 |
 | 25:461 | 25:5101 |
-| 25:461 note (Pub. L. 108–204, § 1(a), Mar. 2, 2004, 118 Stat. 542) | 25:5101 note |
+| 25:461 note (Pub. L. 108–204, § 1(a), Mar. 2, 2004, 118 Stat. 542) | 25:5101 note |
 | 25:462 | 25:5102 |
 | 25:463 | 25:5103 |
-| 25:463 note (May 27, 1955, ch. 106, § 1, 69 Stat. 67) | 25:5103 note |
+| 25:463 note (May 27, 1955, ch. 106, § 1, 69 Stat. 67) | 25:5103 note |
 | 25:463 note (Pub. L. 85–420, May 19, 1958, 72 Stat. 121) | omitted |
 | 25:463a | omitted |
 | 25:463b | omitted |
@@ -170,7 +170,7 @@ Current through 119-102not101
 | 25:463f | 25:5105 |
 | 25:463g | 25:5106 |
 | 25:464 | 25:5107 |
-| 25:464 note (Pub. L. 109–157, § 9, Dec. 30, 2005, 119 Stat. 2953) | 25:5107 note |
+| 25:464 note (Pub. L. 109–157, § 9, Dec. 30, 2005, 119 Stat. 2953) | 25:5107 note |
 | 25:465 | 25:5108 |
 | 25:465 note (July 20, 1956, ch. 645, 70 Stat. 581) | omitted |
 | 25:465 note (Pub. L. 85–773, Aug. 27, 1958, 72 Stat. 931) | omitted |
@@ -192,19 +192,19 @@ Current through 119-102not101
 | 25:475 | 25:5120 |
 | 25:475a | 25:5121 |
 | 25:476 | 25:5122 |
-| 25:476 note (Pub. L. 100–581, title I, § 102, Nov. 1, 1988, 102 Stat. 2939) | 25:5122 note |
-| 25:476 note (Pub. L. 100–581, title I, § 103, Nov. 1, 1988, 102 Stat. 2939) | 25:5122 note |
+| 25:476 note (Pub. L. 100–581, title I, § 102, Nov. 1, 1988, 102 Stat. 2939) | 25:5122 note |
+| 25:476 note (Pub. L. 100–581, title I, § 103, Nov. 1, 1988, 102 Stat. 2939) | 25:5122 note |
 | 25:477 | 25:5123 |
 | 25:478 | 25:5124 |
-| 25:478 note (June 15, 1935, ch. 260, § 2, 49 Stat. 378) | 25:5124 note |
-| 25:478 note (June 15, 1935, ch. 260, § 3, 49 Stat. 378) | 25:5124 note |
+| 25:478 note (June 15, 1935, ch. 260, § 2, 49 Stat. 378) | 25:5124 note |
+| 25:478 note (June 15, 1935, ch. 260, § 3, 49 Stat. 378) | 25:5124 note |
 | 25:478–1 | 25:5125 |
 | 25:478a | 25:5126 |
 | 25:478b | 25:5127 |
 | 25:479 | 25:5128 |
 | 25:479a | 25:5129 |
-| 25:479a note (Pub. L. 103–454, title I, § 101, Nov. 2, 1994, 108 Stat. 4791) | 25:5101 note |
-| 25:479a note (Pub. L. 103–454, title I, § 103, Nov. 2, 1994, 108 Stat. 4791) | 25:5129 note |
+| 25:479a note (Pub. L. 103–454, title I, § 101, Nov. 2, 1994, 108 Stat. 4791) | 25:5101 note |
+| 25:479a note (Pub. L. 103–454, title I, § 103, Nov. 2, 1994, 108 Stat. 4791) | 25:5129 note |
 | 25:479a–1 | 25:5130 |
 | 25:480 | 25:5131 |
 | 25:482 | 25:5132 |
@@ -225,8 +225,8 @@ Current through 119-102not101
 | 25:494a | 25:5143 |
 | 25:495 | omitted |
 | 25:500 | omitted |
-| 25:500 note (Sept. 1, 1937, ch. 897, § 16, 50 Stat. 902) | omitted |
-| 25:500 note (Sept. 1, 1937, ch. 897, § 17, 50 Stat. 902) | omitted |
+| 25:500 note (Sept. 1, 1937, ch. 897, § 16, 50 Stat. 902) | omitted |
+| 25:500 note (Sept. 1, 1937, ch. 897, § 17, 50 Stat. 902) | omitted |
 | 25:500a | omitted |
 | 25:500b | omitted |
 | 25:500c | omitted |
@@ -234,7 +234,7 @@ Current through 119-102not101
 | 25:500e | omitted |
 | 25:500f | omitted |
 | 25:500g | omitted |
-| 25:500g note (Pub. L. 99–514, title XVII, § 1709(b), Oct. 22, 1986, 100 Stat. 2783) | omitted |
+| 25:500g note (Pub. L. 99–514, title XVII, § 1709(b), Oct. 22, 1986, 100 Stat. 2783) | omitted |
 | 25:500h | omitted |
 | 25:500i | omitted |
 | 25:500j | omitted |
@@ -255,10 +255,10 @@ Current through 119-102not101
 | 25:530 | omitted |
 | 25:541 | omitted |
 | 25:542 | omitted |
-| 25:542 note (Aug. 13, 1954, ch. 732, § 12, 68 Stat. 721) | omitted |
+| 25:542 note (Aug. 13, 1954, ch. 732, § 12, 68 Stat. 721) | omitted |
 | 25:543 | omitted |
 | 25:544 | omitted |
-| 25:544 note (Mar. 29, 1948, ch. 160, § 1, 62 Stat. 92) | omitted |
+| 25:544 note (Mar. 29, 1948, ch. 160, § 1, 62 Stat. 92) | omitted |
 | 25:545 | omitted |
 | 25:551 | omitted |
 | 25:552 | omitted |
@@ -267,26 +267,26 @@ Current through 119-102not101
 | 25:556 | omitted |
 | 25:563 | omitted |
 | 25:564 | omitted |
-| 25:564 note (Aug. 13, 1954, ch. 732, § 24, 68 Stat. 723) | omitted |
-| 25:564 note (Aug. 13, 1954, ch. 732, § 25, 68 Stat. 723) | omitted |
+| 25:564 note (Aug. 13, 1954, ch. 732, § 24, 68 Stat. 723) | omitted |
+| 25:564 note (Aug. 13, 1954, ch. 732, § 25, 68 Stat. 723) | omitted |
 | 25:564 note (Pub. L. 86–40, June 11, 1959, 73 Stat. 70) | omitted |
 | 25:564a | omitted |
 | 25:564b | omitted |
 | 25:564c | omitted |
 | 25:564d | omitted |
-| 25:564d note (Pub. L. 85–731, § 3, Aug. 23, 1958, 72 Stat. 818) | omitted |
-| 25:564d note (Pub. L. 85–731, § 4, Aug. 23, 1958, 72 Stat. 819) | omitted |
-| 25:564d note (Pub. L. 85–731, § 5, Aug. 23, 1958, 72 Stat. 819) | omitted |
-| 25:564d note (Pub. L. 85–731, § 9, Aug. 23, 1958, 72 Stat. 819) | omitted |
+| 25:564d note (Pub. L. 85–731, § 3, Aug. 23, 1958, 72 Stat. 818) | omitted |
+| 25:564d note (Pub. L. 85–731, § 4, Aug. 23, 1958, 72 Stat. 819) | omitted |
+| 25:564d note (Pub. L. 85–731, § 5, Aug. 23, 1958, 72 Stat. 819) | omitted |
+| 25:564d note (Pub. L. 85–731, § 9, Aug. 23, 1958, 72 Stat. 819) | omitted |
 | 25:564e | omitted |
-| 25:564e note (Aug. 13, 1954, ch. 732, § 27, as added by Pub. L. 85–132, § 1(a), Aug. 14, 1957, 71 Stat. 347) | omitted |
+| 25:564e note (Aug. 13, 1954, ch. 732, § 27, as added by Pub. L. 85–132, § 1(a), Aug. 14, 1957, 71 Stat. 347) | omitted |
 | 25:564f | omitted |
 | 25:564g | omitted |
 | 25:564h | omitted |
 | 25:564i | omitted |
 | 25:564j | omitted |
-| 25:564j note (Pub. L. 94–81, § 1, Aug. 9, 1975, 89 Stat. 417) | omitted |
-| 25:564j note (Pub. L. 96–596, § 5(b), Dec. 24, 1980, 94 Stat. 3476) | omitted |
+| 25:564j note (Pub. L. 94–81, § 1, Aug. 9, 1975, 89 Stat. 417) | omitted |
+| 25:564j note (Pub. L. 96–596, § 5(b), Dec. 24, 1980, 94 Stat. 3476) | omitted |
 | 25:564k | omitted |
 | 25:564*l* | omitted |
 | 25:564m | omitted |
@@ -312,7 +312,7 @@ Current through 119-102not101
 | 25:565f | omitted |
 | 25:565g | omitted |
 | 25:566 | omitted |
-| 25:566 note (Pub. L. 99–398, § 1, Aug. 27, 1986, 100 Stat. 849) | omitted |
+| 25:566 note (Pub. L. 99–398, § 1, Aug. 27, 1986, 100 Stat. 849) | omitted |
 | 25:566a | omitted |
 | 25:566b | omitted |
 | 25:566c | omitted |
@@ -348,14 +348,14 @@ Current through 119-102not101
 | 25:594 | omitted |
 | 25:594a | omitted |
 | 25:601 | omitted |
-| 25:601 note (Pub. L. 103–435, § 17, Nov. 2, 1994, 108 Stat. 4573) | omitted |
+| 25:601 note (Pub. L. 103–435, § 17, Nov. 2, 1994, 108 Stat. 4573) | omitted |
 | 25:602 | omitted |
 | 25:603 | omitted |
 | 25:604 | omitted |
 | 25:605 | omitted |
 | 25:606 | omitted |
 | 25:607 | omitted |
-| 25:607 note (Pub. L. 91–627, § 2, Dec. 31, 1970, 84 Stat. 1874) | omitted |
+| 25:607 note (Pub. L. 91–627, § 2, Dec. 31, 1970, 84 Stat. 1874) | omitted |
 | 25:608 | omitted |
 | 25:608a | omitted |
 | 25:608b | omitted |
@@ -373,12 +373,12 @@ Current through 119-102not101
 | 25:610d | omitted |
 | 25:610e | omitted |
 | 25:611 | omitted |
-| 25:611 note (Aug. 15, 1953, ch. 509, §§ 1, 3–7, 67 Stat. 592, 613) | omitted |
-| 25:611 note (Aug. 15, 1953, ch. 509, § 2, 67 Stat. 592) | 43:597 note |
+| 25:611 note (Aug. 15, 1953, ch. 509, §§ 1, 3–7, 67 Stat. 592, 613) | omitted |
+| 25:611 note (Aug. 15, 1953, ch. 509, § 2, 67 Stat. 592) | 43:597 note |
 | 25:611 note (Pub. L. 85–780, Aug. 27, 1958, 72 Stat. 935) | omitted |
 | 25:612 | omitted |
 | 25:613 | omitted |
-| 25:613 note (July 25, 1956, ch. 723, § 2, 70 Stat. 643) | omitted |
+| 25:613 note (July 25, 1956, ch. 723, § 2, 70 Stat. 643) | omitted |
 | 25:621 | omitted |
 | 25:622 | omitted |
 | 25:623 | omitted |
@@ -393,19 +393,19 @@ Current through 119-102not101
 | 25:637 | omitted |
 | 25:638 | omitted |
 | 25:640a | omitted |
-| 25:640a note (Pub. L. 92–189, § 1, Dec. 15, 1971, 85 Stat. 646) | omitted |
-| 25:640a note (Pub. L. 95–471, title II, § 201, Oct. 17, 1978, 92 Stat. 1329) | omitted |
-| 25:640a note (Pub. L. 95–471, title II, § 202, Oct. 17, 1978, 92 Stat. 1329) | omitted |
-| 25:640a note (Pub. L. 110–315, title IX, § 945, Aug. 14, 2008, 122 Stat. 3468) | omitted |
+| 25:640a note (Pub. L. 92–189, § 1, Dec. 15, 1971, 85 Stat. 646) | omitted |
+| 25:640a note (Pub. L. 95–471, title II, § 201, Oct. 17, 1978, 92 Stat. 1329) | omitted |
+| 25:640a note (Pub. L. 95–471, title II, § 202, Oct. 17, 1978, 92 Stat. 1329) | omitted |
+| 25:640a note (Pub. L. 110–315, title IX, § 945, Aug. 14, 2008, 122 Stat. 3468) | omitted |
 | 25:640b | omitted |
 | 25:640c | omitted |
 | 25:640c–1 | omitted |
 | 25:640c–2 | omitted |
 | 25:640c–3 | omitted |
 | 25:640d | omitted |
-| 25:640d note (Pub. L. 102–180, § 1, Dec. 2, 1991, 105 Stat. 1230) | 5:5315 note |
-| 25:640d note (Pub. L. 96–305, § 1, July 8, 1980, 94 Stat. 929) | omitted |
-| 25:640d note (Pub. L. 100–666, § 1, Nov. 16, 1988, 102 Stat. 3929) | omitted |
+| 25:640d note (Pub. L. 102–180, § 1, Dec. 2, 1991, 105 Stat. 1230) | 5:5315 note |
+| 25:640d note (Pub. L. 96–305, § 1, July 8, 1980, 94 Stat. 929) | omitted |
+| 25:640d note (Pub. L. 100–666, § 1, Nov. 16, 1988, 102 Stat. 3929) | omitted |
 | 25:640d note (Pub. L. 104–301, Oct. 11, 1996, 110 Stat. 3649) | omitted |
 | 25:640d–1 | omitted |
 | 25:640d–2 | omitted |
@@ -418,10 +418,10 @@ Current through 119-102not101
 | 25:640d–9 | omitted |
 | 25:640d–10 | omitted |
 | 25:640d–11 | omitted |
-| 25:640d–11 note (Pub. L. 100–666, § 4(c), Nov. 16, 1988, 102 Stat. 3930) | omitted |
-| 25:640d–11 note (Pub. L. 102–180, § 3(d), Dec. 2, 1991, 105 Stat. 1230) | omitted |
-| 25:640d–11 note (Pub. L. 102–180, § 3(e), Dec. 2, 1991, 105 Stat. 1230) | omitted |
-| 25:640d–11 note (Pub. L. 102–180, § 3(f), Dec. 2, 1991, 105 Stat. 1230) | omitted |
+| 25:640d–11 note (Pub. L. 100–666, § 4(c), Nov. 16, 1988, 102 Stat. 3930) | omitted |
+| 25:640d–11 note (Pub. L. 102–180, § 3(d), Dec. 2, 1991, 105 Stat. 1230) | omitted |
+| 25:640d–11 note (Pub. L. 102–180, § 3(e), Dec. 2, 1991, 105 Stat. 1230) | omitted |
+| 25:640d–11 note (Pub. L. 102–180, § 3(f), Dec. 2, 1991, 105 Stat. 1230) | omitted |
 | 25:640d–12 | omitted |
 | 25:640d–13 | omitted |
 | 25:640d–14 | omitted |
@@ -452,9 +452,9 @@ Current through 119-102not101
 | 25:648 | omitted |
 | 25:649 | omitted |
 | 25:651 | omitted |
-| 25:651 note (June 8, 1954, ch. 271, § 2, 68 Stat. 240) | omitted |
+| 25:651 note (June 8, 1954, ch. 271, § 2, 68 Stat. 240) | omitted |
 | 25:651 note (Pub. L. 102–416, Oct. 14, 1992, 106 Stat. 2131) | omitted |
-| 25:651 note (Pub. L. 105–294, § 1, Oct. 27, 1998, 112 Stat. 2818) | omitted |
+| 25:651 note (Pub. L. 105–294, § 1, Oct. 27, 1998, 112 Stat. 2818) | omitted |
 | 25:652 | omitted |
 | 25:653 | omitted |
 | 25:654 | omitted |
@@ -480,8 +480,8 @@ Current through 119-102not101
 | 25:676b | omitted |
 | 25:676b–1 | omitted |
 | 25:677 | omitted |
-| 25:677 note (Aug. 27, 1954, ch. 1009, § 29, 68 Stat. 878) | omitted |
-| 25:677 note (Aug. 27, 1954, ch. 1009, § 30, 68 Stat. 878) | omitted |
+| 25:677 note (Aug. 27, 1954, ch. 1009, § 29, 68 Stat. 878) | omitted |
+| 25:677 note (Aug. 27, 1954, ch. 1009, § 30, 68 Stat. 878) | omitted |
 | 25:677a | omitted |
 | 25:677b | omitted |
 | 25:677c | omitted |
@@ -516,14 +516,14 @@ Current through 119-102not101
 | 25:685 | omitted |
 | 25:686 | omitted |
 | 25:687 | omitted |
-| 25:687 note (May 18, 1916, ch. 125, § 9(17), 39 Stat. 137) | omitted |
-| 25:687 note (May 18, 1916, ch. 125, § 9(19), 39 Stat. 138) | omitted |
+| 25:687 note (May 18, 1916, ch. 125, § 9(17), 39 Stat. 137) | omitted |
+| 25:687 note (May 18, 1916, ch. 125, § 9(19), 39 Stat. 138) | omitted |
 | 25:688 | omitted |
 | 25:689 | omitted |
 | 25:690 | omitted |
 | 25:691 | omitted |
-| 25:691 note (Aug. 13, 1954, ch. 733, § 19, 68 Stat. 728) | omitted |
-| 25:691 note (Aug. 13, 1954, ch. 733, § 20, 68 Stat. 728) | omitted |
+| 25:691 note (Aug. 13, 1954, ch. 733, § 19, 68 Stat. 728) | omitted |
+| 25:691 note (Aug. 13, 1954, ch. 733, § 20, 68 Stat. 728) | omitted |
 | 25:692 | omitted |
 | 25:693 | omitted |
 | 25:694 | omitted |
@@ -541,7 +541,7 @@ Current through 119-102not101
 | 25:707 | omitted |
 | 25:708 | omitted |
 | 25:711 | omitted |
-| 25:711 note (Pub. L. 95–195, § 1, Nov. 18, 1977, 91 Stat. 1415) | omitted |
+| 25:711 note (Pub. L. 95–195, § 1, Nov. 18, 1977, 91 Stat. 1415) | omitted |
 | 25:711a | omitted |
 | 25:711b | omitted |
 | 25:711c | omitted |
@@ -551,15 +551,15 @@ Current through 119-102not101
 | 25:711e note (Pub. L. 97–38, Aug. 14, 1981, 95 Stat. 938) | omitted |
 | 25:711f | omitted |
 | 25:712 | omitted |
-| 25:712 note (Pub. L. 97–391, § 1, Dec. 29, 1982, 96 Stat. 1960) | omitted |
-| 25:712 note (Pub. L. 100–139, § 1, Oct. 26, 1987, 101 Stat. 822) | omitted |
+| 25:712 note (Pub. L. 97–391, § 1, Dec. 29, 1982, 96 Stat. 1960) | omitted |
+| 25:712 note (Pub. L. 100–139, § 1, Oct. 26, 1987, 101 Stat. 822) | omitted |
 | 25:712a | omitted |
 | 25:712b | omitted |
 | 25:712c | omitted |
 | 25:712d | omitted |
 | 25:712e | omitted |
 | 25:713 | omitted |
-| 25:713 note (Pub. L. 98–165, § 1, Nov. 22, 1983, 97 Stat. 1064) | omitted |
+| 25:713 note (Pub. L. 98–165, § 1, Nov. 22, 1983, 97 Stat. 1064) | omitted |
 | 25:713a | omitted |
 | 25:713b | omitted |
 | 25:713c | omitted |
@@ -569,7 +569,7 @@ Current through 119-102not101
 | 25:713f note (Pub. L. 100–425, Sept. 9, 1988, 102 Stat. 1594) | omitted |
 | 25:713g | omitted |
 | 25:714 | omitted |
-| 25:714 note (Pub. L. 98–481, § 1, Oct. 17, 1984, 98 Stat. 2250) | omitted |
+| 25:714 note (Pub. L. 98–481, § 1, Oct. 17, 1984, 98 Stat. 2250) | omitted |
 | 25:714a | omitted |
 | 25:714b | omitted |
 | 25:714c | omitted |
@@ -577,7 +577,7 @@ Current through 119-102not101
 | 25:714e | omitted |
 | 25:714f | omitted |
 | 25:715 | omitted |
-| 25:715 note (Pub. L. 101–42, § 1, June 28, 1989, 103 Stat. 91) | omitted |
+| 25:715 note (Pub. L. 101–42, § 1, June 28, 1989, 103 Stat. 91) | omitted |
 | 25:715a | omitted |
 | 25:715b | omitted |
 | 25:715c | omitted |
@@ -595,8 +595,8 @@ Current through 119-102not101
 | 25:727 | omitted |
 | 25:728 | omitted |
 | 25:731 | omitted |
-| 25:731 note (Pub. L. 100–89, § 1, Aug. 18, 1987, 101 Stat. 666) | omitted |
-| 25:731 note (Pub. L. 100–89, § 2, Aug. 18, 1987, 101 Stat. 666) | omitted |
+| 25:731 note (Pub. L. 100–89, § 1, Aug. 18, 1987, 101 Stat. 666) | omitted |
+| 25:731 note (Pub. L. 100–89, § 2, Aug. 18, 1987, 101 Stat. 666) | omitted |
 | 25:732 | omitted |
 | 25:733 | omitted |
 | 25:734 | omitted |
@@ -604,13 +604,13 @@ Current through 119-102not101
 | 25:736 | omitted |
 | 25:737 | omitted |
 | 25:741 | omitted |
-| 25:741 note (Sept. 1, 1954, ch. 1207, § 20, 68 Stat. 1104) | omitted |
-| 25:741 note (Sept. 1, 1954, ch. 1207, § 21, 68 Stat. 1104) | omitted |
+| 25:741 note (Sept. 1, 1954, ch. 1207, § 20, 68 Stat. 1104) | omitted |
+| 25:741 note (Sept. 1, 1954, ch. 1207, § 21, 68 Stat. 1104) | omitted |
 | 25:742 | omitted |
 | 25:743 | omitted |
 | 25:744 | omitted |
 | 25:745 | omitted |
-| 25:745 note (Sept. 1, 1954, ch. 1207, § 22, 68 Stat. 1104) | omitted |
+| 25:745 note (Sept. 1, 1954, ch. 1207, § 22, 68 Stat. 1104) | omitted |
 | 25:746 | omitted |
 | 25:747 | omitted |
 | 25:748 | omitted |
@@ -628,7 +628,7 @@ Current through 119-102not101
 | 25:759 | omitted |
 | 25:760 | omitted |
 | 25:761 | omitted |
-| 25:761 note (Pub. L. 96–227, § 1, Apr. 3, 1980, 94 Stat. 317) | omitted |
+| 25:761 note (Pub. L. 96–227, § 1, Apr. 3, 1980, 94 Stat. 317) | omitted |
 | 25:762 | omitted |
 | 25:763 | omitted |
 | 25:764 | omitted |
@@ -636,7 +636,7 @@ Current through 119-102not101
 | 25:766 | omitted |
 | 25:766 note (Pub. L. 98–219, Feb. 17, 1984, 98 Stat. 11) | omitted |
 | 25:766 note (Pub. L. 109–126, Dec. 7, 2005, 119 Stat. 2546) | omitted |
-| 25:766 note (Pub. L. 111–11, title I, § 1982, Mar. 30, 2009, 123 Stat. 1093) | omitted |
+| 25:766 note (Pub. L. 111–11, title I, § 1982, Mar. 30, 2009, 123 Stat. 1093) | omitted |
 | 25:767 | omitted |
 | 25:768 | omitted |
 | 25:771 | omitted |
@@ -681,7 +681,7 @@ Current through 119-102not101
 | 25:883c | omitted |
 | 25:883d | omitted |
 | 25:903 | omitted |
-| 25:903 note (Pub. L. 93–197, § 1, Dec. 22, 1973, 87 Stat. 770) | omitted |
+| 25:903 note (Pub. L. 93–197, § 1, Dec. 22, 1973, 87 Stat. 770) | omitted |
 | 25:903a | omitted |
 | 25:903b | omitted |
 | 25:903c | omitted |
@@ -694,8 +694,8 @@ Current through 119-102not101
 | 25:913 | omitted |
 | 25:914 | omitted |
 | 25:941 | omitted |
-| 25:941 note (Pub. L. 103–116, § 1, Oct. 27, 1993, 107 Stat. 1118) | omitted |
-| 25:941 note (Pub. L. 103–116, § 17, Oct. 27, 1993, 107 Stat. 1138) | 25:931 note |
+| 25:941 note (Pub. L. 103–116, § 1, Oct. 27, 1993, 107 Stat. 1118) | omitted |
+| 25:941 note (Pub. L. 103–116, § 17, Oct. 27, 1993, 107 Stat. 1138) | 25:931 note |
 | 25:941a | omitted |
 | 25:941b | omitted |
 | 25:941c | omitted |
@@ -741,7 +741,7 @@ Current through 119-102not101
 | 25:979 | omitted |
 | 25:980 | omitted |
 | 25:983 | omitted |
-| 25:983 note (Pub. L. 101–484, § 1, Oct. 31, 1990, 104 Stat. 1167) | omitted |
+| 25:983 note (Pub. L. 101–484, § 1, Oct. 31, 1990, 104 Stat. 1167) | omitted |
 | 25:983a | omitted |
 | 25:983b | omitted |
 | 25:983c | omitted |
@@ -772,7 +772,7 @@ Current through 119-102not101
 | 25:1037 | omitted |
 | 25:1038 | omitted |
 | 25:1041 | omitted |
-| 25:1041 note (Pub. L. 106–568, title VII, § 701, Dec. 27, 2000, 114 Stat. 2913) | omitted |
+| 25:1041 note (Pub. L. 106–568, title VII, § 701, Dec. 27, 2000, 114 Stat. 2913) | omitted |
 | 25:1041a | omitted |
 | 25:1041b | omitted |
 | 25:1041c | omitted |
@@ -865,7 +865,7 @@ Current through 119-102not101
 | 25:1205 | omitted |
 | 25:1211 | omitted |
 | 25:1212 | omitted |
-| 25:1212 note (Pub. L. 103–454, title II, § 201, Nov. 2, 1994, 108 Stat. 4792) | omitted |
+| 25:1212 note (Pub. L. 103–454, title II, § 201, Nov. 2, 1994, 108 Stat. 4792) | omitted |
 | 25:1213 | omitted |
 | 25:1214 | omitted |
 | 25:1215 | omitted |
@@ -926,7 +926,7 @@ Current through 119-102not101
 | 25:1300b–4 | omitted |
 | 25:1300b–5 | omitted |
 | 25:1300b–11 | omitted |
-| 25:1300b–11 note (Pub. L. 97–429, § 1, Jan. 8, 1983, 96 Stat. 2269) | omitted |
+| 25:1300b–11 note (Pub. L. 97–429, § 1, Jan. 8, 1983, 96 Stat. 2269) | omitted |
 | 25:1300b–12 | omitted |
 | 25:1300b–13 | omitted |
 | 25:1300b–14 | omitted |
@@ -939,7 +939,7 @@ Current through 119-102not101
 | 25:1300c–4 | omitted |
 | 25:1300c–5 | omitted |
 | 25:1300d | omitted |
-| 25:1300d note (Pub. L. 105–387, § 1, Nov. 13, 1998, 112 Stat. 3471) | omitted |
+| 25:1300d note (Pub. L. 105–387, § 1, Nov. 13, 1998, 112 Stat. 3471) | omitted |
 | 25:1300d–1 | omitted |
 | 25:1300d–2 | omitted |
 | 25:1300d–3 | omitted |
@@ -978,7 +978,7 @@ Current through 119-102not101
 | 25:1300g–6 | omitted |
 | 25:1300g–7 | omitted |
 | 25:1300h | omitted |
-| 25:1300h note (Pub. L. 100–420, § 1, Sept. 8, 1988, 102 Stat. 1577) | omitted |
+| 25:1300h note (Pub. L. 100–420, § 1, Sept. 8, 1988, 102 Stat. 1577) | omitted |
 | 25:1300h–1 | omitted |
 | 25:1300h–2 | omitted |
 | 25:1300h–3 | omitted |
@@ -1011,7 +1011,7 @@ Current through 119-102not101
 | 25:1300j–7a | omitted |
 | 25:1300j–8 | omitted |
 | 25:1300k | omitted |
-| 25:1300k note (Pub. L. 103–324, § 1, Sept. 21, 1994, 108 Stat. 2156) | omitted |
+| 25:1300k note (Pub. L. 103–324, § 1, Sept. 21, 1994, 108 Stat. 2156) | omitted |
 | 25:1300k–1 | omitted |
 | 25:1300k–2 | omitted |
 | 25:1300k–3 | omitted |
@@ -1020,7 +1020,7 @@ Current through 119-102not101
 | 25:1300k–6 | omitted |
 | 25:1300k–7 | omitted |
 | 25:1300*l* | omitted |
-| 25:1300*l* note (Pub. L. 103–434, title II, § 201, Oct. 31, 1994, 108 Stat. 4533) | omitted |
+| 25:1300*l* note (Pub. L. 103–434, title II, § 201, Oct. 31, 1994, 108 Stat. 4533) | omitted |
 | 25:1300*l*–1 | omitted |
 | 25:1300*l*–2 | omitted |
 | 25:1300*l*–3 | omitted |
@@ -1029,7 +1029,7 @@ Current through 119-102not101
 | 25:1300*l*–6 | omitted |
 | 25:1300*l*–7 | omitted |
 | 25:1300m | omitted |
-| 25:1300m note (Pub. L. 103–454, title III, § 301, Nov. 2, 1994, 108 Stat. 4793) | omitted |
+| 25:1300m note (Pub. L. 103–454, title III, § 301, Nov. 2, 1994, 108 Stat. 4793) | omitted |
 | 25:1300m–1 | omitted |
 | 25:1300m–2 | omitted |
 | 25:1300m–3 | omitted |
@@ -1038,7 +1038,7 @@ Current through 119-102not101
 | 25:1300m–6 | omitted |
 | 25:1300m–7 | omitted |
 | 25:1300n | omitted |
-| 25:1300n note (Pub. L. 106–568, title XIV, § 1401, Dec. 27, 2000, 114 Stat. 2939) | omitted |
+| 25:1300n note (Pub. L. 106–568, title XIV, § 1401, Dec. 27, 2000, 114 Stat. 2939) | omitted |
 | 25:1300n–1 | omitted |
 | 25:1300n–2 | omitted |
 | 25:1300n–3 | omitted |
@@ -1046,7 +1046,7 @@ Current through 119-102not101
 | 25:1300n–5 | omitted |
 | 25:1300n–6 | omitted |
 | 25:1701 | omitted |
-| 25:1701 note (Pub. L. 95–395, § 1, Sept. 30, 1978, 92 Stat. 813) | omitted |
+| 25:1701 note (Pub. L. 95–395, § 1, Sept. 30, 1978, 92 Stat. 813) | omitted |
 | 25:1702 | omitted |
 | 25:1703 | omitted |
 | 25:1704 | omitted |
@@ -1059,10 +1059,10 @@ Current through 119-102not101
 | 25:1711 | omitted |
 | 25:1712 | omitted |
 | 25:1715 | omitted |
-| 25:1715 note (Pub. L. 96–601, § 5(b), Dec. 24, 1980, 94 Stat. 3499) | omitted |
+| 25:1715 note (Pub. L. 96–601, § 5(b), Dec. 24, 1980, 94 Stat. 3499) | omitted |
 | 25:1716 | omitted |
 | 25:1721 | omitted |
-| 25:1721 note (Pub. L. 96–420, § 1, Oct. 10, 1980, 94 Stat. 1785) | omitted |
+| 25:1721 note (Pub. L. 96–420, § 1, Oct. 10, 1980, 94 Stat. 1785) | omitted |
 | 25:1721 note (Pub. L. 102–171, Nov. 26, 1991, 105 Stat. 1143) | omitted |
 | 25:1722 | omitted |
 | 25:1723 | omitted |
@@ -1080,7 +1080,7 @@ Current through 119-102not101
 | 25:1734 | omitted |
 | 25:1735 | omitted |
 | 25:1741 | omitted |
-| 25:1741 note (Pub. L. 97–399, § 1, Dec. 31, 1982, 96 Stat. 2012) | omitted |
+| 25:1741 note (Pub. L. 97–399, § 1, Dec. 31, 1982, 96 Stat. 2012) | omitted |
 | 25:1742 | omitted |
 | 25:1743 | omitted |
 | 25:1744 | omitted |
@@ -1090,14 +1090,14 @@ Current through 119-102not101
 | 25:1748 | omitted |
 | 25:1749 | omitted |
 | 25:1750 | omitted |
-| 25:1750 note (Pub. L. 105–83, title VII, § 701, Nov. 14, 1997, 111 Stat. 1624) | omitted |
+| 25:1750 note (Pub. L. 105–83, title VII, § 701, Nov. 14, 1997, 111 Stat. 1624) | omitted |
 | 25:1750a | omitted |
 | 25:1750b | omitted |
 | 25:1750c | omitted |
 | 25:1750d | omitted |
 | 25:1750e | omitted |
 | 25:1751 | omitted |
-| 25:1751 note (Pub. L. 98–134, § 1, Oct. 18, 1983, 97 Stat. 851) | omitted |
+| 25:1751 note (Pub. L. 98–134, § 1, Oct. 18, 1983, 97 Stat. 851) | omitted |
 | 25:1752 | omitted |
 | 25:1753 | omitted |
 | 25:1754 | omitted |
@@ -1109,8 +1109,8 @@ Current through 119-102not101
 | 25:1759 | omitted |
 | 25:1760 | omitted |
 | 25:1771 | omitted |
-| 25:1771 note (Pub. L. 100–95, § 1, Aug. 18, 1987, 101 Stat. 704) | omitted |
-| 25:1771 note (Pub. L. 100–95, § 11, Aug. 18, 1987, 101 Stat. 710) | omitted |
+| 25:1771 note (Pub. L. 100–95, § 1, Aug. 18, 1987, 101 Stat. 704) | omitted |
+| 25:1771 note (Pub. L. 100–95, § 11, Aug. 18, 1987, 101 Stat. 710) | omitted |
 | 25:1771a | omitted |
 | 25:1771b | omitted |
 | 25:1771c | omitted |
@@ -1121,8 +1121,8 @@ Current through 119-102not101
 | 25:1771h | omitted |
 | 25:1771i | omitted |
 | 25:1772 | omitted |
-| 25:1772 note (Pub. L. 100–228, § 1, Dec. 31, 1987, 101 Stat. 1556) | omitted |
-| 25:1772 note (Pub. L. 100–228, § 10, Dec. 31, 1987, 101 Stat. 1561) | omitted |
+| 25:1772 note (Pub. L. 100–228, § 1, Dec. 31, 1987, 101 Stat. 1556) | omitted |
+| 25:1772 note (Pub. L. 100–228, § 10, Dec. 31, 1987, 101 Stat. 1561) | omitted |
 | 25:1772a | omitted |
 | 25:1772b | omitted |
 | 25:1772c | omitted |
@@ -1131,9 +1131,9 @@ Current through 119-102not101
 | 25:1772f | omitted |
 | 25:1772g | omitted |
 | 25:1773 | omitted |
-| 25:1773 note (Pub. L. 101–41, § 1, June 21, 1989, 103 Stat. 83) | omitted |
+| 25:1773 note (Pub. L. 101–41, § 1, June 21, 1989, 103 Stat. 83) | omitted |
 | 25:1773a | omitted |
-| 25:1773a note (Pub. L. 101–41, § 13, June 21, 1989, 103 Stat. 90) | omitted |
+| 25:1773a note (Pub. L. 101–41, § 13, June 21, 1989, 103 Stat. 90) | omitted |
 | 25:1773b | omitted |
 | 25:1773c | omitted |
 | 25:1773d | omitted |
@@ -1146,7 +1146,7 @@ Current through 119-102not101
 | 25:1773i | omitted |
 | 25:1773j | omitted |
 | 25:1774 | omitted |
-| 25:1774 note (Pub. L. 101–503, § 1, Nov. 3, 1990, 104 Stat. 1292) | omitted |
+| 25:1774 note (Pub. L. 101–503, § 1, Nov. 3, 1990, 104 Stat. 1292) | omitted |
 | 25:1774a | omitted |
 | 25:1774b | omitted |
 | 25:1774c | omitted |
@@ -1156,7 +1156,7 @@ Current through 119-102not101
 | 25:1774g | omitted |
 | 25:1774h | omitted |
 | 25:1775 | omitted |
-| 25:1775 note (Pub. L. 103–377, § 1, Oct. 19, 1994, 108 Stat. 3501) | omitted |
+| 25:1775 note (Pub. L. 103–377, § 1, Oct. 19, 1994, 108 Stat. 3501) | omitted |
 | 25:1775a | omitted |
 | 25:1775b | omitted |
 | 25:1775c | omitted |
@@ -1166,7 +1166,7 @@ Current through 119-102not101
 | 25:1775g | omitted |
 | 25:1775h | omitted |
 | 25:1776 | omitted |
-| 25:1776 note (Pub. L. 103–444, § 1, Nov. 2, 1994, 108 Stat. 4632) | omitted |
+| 25:1776 note (Pub. L. 103–444, § 1, Nov. 2, 1994, 108 Stat. 4632) | omitted |
 | 25:1776a | omitted |
 | 25:1776b | omitted |
 | 25:1776c | omitted |
@@ -1179,15 +1179,15 @@ Current through 119-102not101
 | 25:1776j | omitted |
 | 25:1776k | omitted |
 | 25:1777 | omitted |
-| 25:1777 note (Pub. L. 106–425, § 1, Nov. 1, 2000, 114 Stat. 1890) | omitted |
+| 25:1777 note (Pub. L. 106–425, § 1, Nov. 1, 2000, 114 Stat. 1890) | omitted |
 | 25:1777a | omitted |
 | 25:1777b | omitted |
 | 25:1777c | omitted |
 | 25:1777d | omitted |
 | 25:1777e | omitted |
 | 25:1778 | omitted |
-| 25:1778 note (Pub. L. 106–568, title VI, § 601, Dec. 27, 2000, 114 Stat. 2906) | omitted |
-| 25:1778 note (Pub. L. 106–568, title VI, § 611, Dec. 27, 2000, 114 Stat. 2912) | omitted |
+| 25:1778 note (Pub. L. 106–568, title VI, § 601, Dec. 27, 2000, 114 Stat. 2906) | omitted |
+| 25:1778 note (Pub. L. 106–568, title VI, § 611, Dec. 27, 2000, 114 Stat. 2912) | omitted |
 | 25:1778a | omitted |
 | 25:1778b | omitted |
 | 25:1778c | omitted |
@@ -1197,7 +1197,7 @@ Current through 119-102not101
 | 25:1778g | omitted |
 | 25:1778h | omitted |
 | 25:1779 | omitted |
-| 25:1779 note (Pub. L. 107–331, title VI, § 601, Dec. 13, 2002, 116 Stat. 2845) | omitted |
+| 25:1779 note (Pub. L. 107–331, title VI, § 601, Dec. 13, 2002, 116 Stat. 2845) | omitted |
 | 25:1779a | omitted |
 | 25:1779b | omitted |
 | 25:1779c | omitted |
@@ -1206,7 +1206,7 @@ Current through 119-102not101
 | 25:1779f | omitted |
 | 25:1779g | omitted |
 | 25:1780 | omitted |
-| 25:1780 note (Pub. L. 109–286, § 1, Sept. 27, 2006, 120 Stat. 1218) | omitted |
+| 25:1780 note (Pub. L. 109–286, § 1, Sept. 27, 2006, 120 Stat. 1218) | omitted |
 | 25:1780a | omitted |
 | 25:1780b | omitted |
 | 25:1780c | omitted |

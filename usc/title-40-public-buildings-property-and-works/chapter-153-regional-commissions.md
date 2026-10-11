@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2025—Pub. L. 118–272, div. B, title II, § 2243(b), Jan. 4, 2025, 138 Stat. 3204, added items 15308 and 15309 and struck out former item 15308 “Annual report”.
+2025—Pub. L. 118–272, div. B, title II, § 2243(b), Jan. 4, 2025, 138 Stat. 3204, added items 15308 and 15309 and struck out former item 15308 “Annual report”.
 
-2018—Pub. L. 115–334, title VI, § 6304(g), Dec. 20, 2018, 132 Stat. 4752, renumbered chapter 2 of subtitle V of this title as chapter 153 of this title.
+2018—Pub. L. 115–334, title VI, § 6304(g), Dec. 20, 2018, 132 Stat. 4752, renumbered chapter 2 of subtitle V of this title as chapter 153 of this title.
 
-## § 15301. Establishment, membership, and employees
+## § 15301. Establishment, membership, and employees
 
 **(a) Establishment.—** There are established the following regional Commissions:
 
@@ -85,7 +85,7 @@ retrieved: 2026-10-11
 
 **(f) Succession.—** Subject to the time limitations under section 3346 of title 5, the Federal Cochairperson may designate an employee of the Commission to perform the functions and duties of the office of the Federal Cochairperson temporarily in an acting capacity if both the Federal Cochairperson and the alternate Federal Cochairperson die, resign, or otherwise are unable to perform the functions and duties of their offices.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1469, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2231; amended Pub. L. 115–334, title VI, § 6304(f), Dec. 20, 2018, 132 Stat. 4752; Pub. L. 117–328, div. O, title IV, § 401(a)(1), Dec. 29, 2022, 136 Stat. 5228; Pub. L. 118–272, div. B, title II, §§ 2242(a), 2249(a), 2250(a), Jan. 4, 2025, 138 Stat. 3202, 3209.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1469, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2231; amended Pub. L. 115–334, title VI, § 6304(f), Dec. 20, 2018, 132 Stat. 4752; Pub. L. 117–328, div. O, title IV, § 401(a)(1), Dec. 29, 2022, 136 Stat. 5228; Pub. L. 118–272, div. B, title II, §§ 2242(a), 2249(a), 2250(a), Jan. 4, 2025, 138 Stat. 3202, 3209.)
 
 **Editorial Notes**
 
@@ -95,13 +95,13 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2025—Subsec. (a)(5). Pub. L. 118–272, § 2249(a), added par. (5).
+2025—Subsec. (a)(5). Pub. L. 118–272, § 2249(a), added par. (5).
 
-Subsec. (a)(6). Pub. L. 118–272, § 2250(a), added par. (6).
+Subsec. (a)(6). Pub. L. 118–272, § 2250(a), added par. (6).
 
-Subsec. (b)(2)(C). Pub. L. 118–272, § 2242(a)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+Subsec. (b)(2)(C). Pub. L. 118–272, § 2242(a)(1), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-Subsec. (f). Pub. L. 118–272, § 2242(a)(2), substituted “an employee” for “a Federal employee”.
+Subsec. (f). Pub. L. 118–272, § 2242(a)(2), substituted “an employee” for “a Federal employee”.
 
 2022—Subsec. (a)(4). Pub. L. 117–328 added par. (4).
 
@@ -117,7 +117,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 Pub. L. 119–74, div. B, title IV, Jan. 23, 2026, 140 Stat. 90, provided that: “For expenses necessary to establish a Northwest Regional Commission located in Washington, Oregon, Idaho, and Montana, $1,000,000, to remain available until expended: *Provided*, That amounts provided to the Northwest Regional Commission shall be used to carry out activities authorized for other regional Commissions by subtitle V of title 40, United States Code.”
 
-## § 15302. Decisions
+## § 15302. Decisions
 
 **(a) Requirements for Approval.—** Except as provided in section 15304(c)(3), decisions by the Commission shall require the affirmative vote of the Federal Cochairperson and a majority of the State members or alternate State members, including designees (exclusive of members representing States delinquent under section 15304(c)(3)(C)).
 
@@ -135,7 +135,7 @@ Pub. L. 119–74, div. B, title IV, Jan. 23, 2026, 140 Stat. 90, provided that: 
 
 **(d) Projects and Grant Proposals.—** The approval of project and grant proposals shall be a responsibility of each Commission and shall be carried out in accordance with section 15503.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1470, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2232; amended Pub. L. 118–272, div. B, title II, § 2242(b), Jan. 4, 2025, 138 Stat. 3202.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1470, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2232; amended Pub. L. 118–272, div. B, title II, § 2242(b), Jan. 4, 2025, 138 Stat. 3202.)
 
 **Editorial Notes**
 
@@ -145,9 +145,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 118–272, § 2242(b)(1), inserted “or alternate State members, including designees” after “State members”.
+2025—Subsec. (a). Pub. L. 118–272, § 2242(b)(1), inserted “or alternate State members, including designees” after “State members”.
 
-Subsec. (c). Pub. L. 118–272, § 2242(b)(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “A Commission shall determine what constitutes a quorum for Commission meetings; except that—
+Subsec. (c). Pub. L. 118–272, § 2242(b)(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “A Commission shall determine what constitutes a quorum for Commission meetings; except that—
 
 “(1) any quorum shall include the Federal Cochairperson or the alternate Federal Cochairperson; and
 
@@ -159,7 +159,7 @@ Subsec. (c). Pub. L. 118–272, § 2242(b)(2), added subsec. (c) and struck ou
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-## § 15303. Functions
+## § 15303. Functions
 
 A Commission shall—
 
@@ -183,7 +183,7 @@ A Commission shall—
 
 **(8)** work with State and local agencies in developing appropriate model legislation to enhance local and regional economic development.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1470, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2232.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1470, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2232.)
 
 **Editorial Notes**
 
@@ -201,7 +201,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-## § 15304. Administrative powers and expenses
+## § 15304. Administrative powers and expenses
 
 **(a) Powers.—** In carrying out its duties under this subtitle, a Commission may—
 
@@ -255,7 +255,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 **(4) Effect on assistance.—** A State’s share of administrative expenses of a Commission under this subsection shall not be taken into consideration when determining the amount of assistance provided to the State under this subtitle.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1471, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2233; amended Pub. L. 115–334, title VI, § 6304(a), Dec. 20, 2018, 132 Stat. 4749; Pub. L. 118–272, div. B, title II, § 2242(c), Jan. 4, 2025, 138 Stat. 3203.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1471, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2233; amended Pub. L. 115–334, title VI, § 6304(a), Dec. 20, 2018, 132 Stat. 4749; Pub. L. 118–272, div. B, title II, § 2242(c), Jan. 4, 2025, 138 Stat. 3203.)
 
 **Editorial Notes**
 
@@ -265,11 +265,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2025—Subsec. (a)(5). Pub. L. 118–272, § 2242(c)(1), inserted “, which may be done without a requirement for the Commission to reimburse the agency or local government” after “status”.
+2025—Subsec. (a)(5). Pub. L. 118–272, § 2242(c)(1), inserted “, which may be done without a requirement for the Commission to reimburse the agency or local government” after “status”.
 
-Subsec. (a)(8), (9). Pub. L. 118–272, § 2242(c)(2), (3), added par. (8) and redesignated former par. (8) as (9). Former par. (9) redesignated (10).
+Subsec. (a)(8), (9). Pub. L. 118–272, § 2242(c)(2), (3), added par. (8) and redesignated former par. (8) as (9). Former par. (9) redesignated (10).
 
-Subsec. (a)(10). Pub. L. 118–272, § 2242(c)(2), (4), redesignated par. (9) as (10) and struck out “maintain a government relations office in the District of Columbia and” before “establish and maintain a central office”.
+Subsec. (a)(10). Pub. L. 118–272, § 2242(c)(2), (4), redesignated par. (9) as (10) and struck out “maintain a government relations office in the District of Columbia and” before “establish and maintain a central office”.
 
 2018—Subsec. (c)(3)(A). Pub. L. 115–334 substituted “majority” for “unanimous”.
 
@@ -279,7 +279,7 @@ Subsec. (a)(10). Pub. L. 118–272, § 2242(c)(2), (4), redesignated par. (9) 
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-## § 15305. Meetings
+## § 15305. Meetings
 
 **(a) Initial Meeting.—** Each Commission shall hold an initial meeting not later than 180 days after the date of the enactment of this section.
 
@@ -291,7 +291,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 **(c) Additional Meetings.—** Each Commission shall conduct additional meetings at such times as it determines and may conduct such meetings by electronic means.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1473, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2235; amended Pub. L. 118–272, div. B, title II, § 2242(d), Jan. 4, 2025, 138 Stat. 3203.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1473, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2235; amended Pub. L. 118–272, div. B, title II, § 2242(d), Jan. 4, 2025, 138 Stat. 3203.)
 
 **Editorial Notes**
 
@@ -313,7 +313,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-## § 15306. Personal financial interests
+## § 15306. Personal financial interests
 
 **(a) Conflicts of Interest.—**
 
@@ -349,7 +349,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 **(e) Rescission.—** A Commission may declare void any contract, loan, or grant of or by the Commission in relation to which the Commission determines that there has been a violation of any provision under subsection (a)(1), (b), or (c), or any of the provisions of sections 202 through 209 of title 18.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1473, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2235.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1473, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2235.)
 
 **Editorial Notes**
 
@@ -363,11 +363,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-## § 15307. Tribal participation
+## § 15307. Tribal participation
 
 Governments of Indian tribes in the region of the Southwest Border Regional Commission shall be allowed to participate in matters before that Commission in the same manner and to the same extent as State agencies and instrumentalities in the region.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1474, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2236.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1474, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2236.)
 
 **Editorial Notes**
 
@@ -381,7 +381,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under section 15101 of this title.
 
-## § 15308. Transfer of funds among Federal agencies
+## § 15308. Transfer of funds among Federal agencies
 
 **(a) In General.—** Subject to subsection (c), for purposes of this subtitle, each Commission may transfer funds to and accept transfers of funds from other Federal agencies.
 
@@ -393,7 +393,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 **(2)** the Federal agency that provides the funds determines that the activities for which the funds are to be used are otherwise eligible for funding under such a statutory authority.
 
-(Added Pub. L. 118–272, div. B, title II, § 2243(a)(2), Jan. 4, 2025, 138 Stat. 3203.)
+(Added Pub. L. 118–272, div. B, title II, § 2243(a)(2), Jan. 4, 2025, 138 Stat. 3203.)
 
 **Editorial Notes**
 
@@ -401,7 +401,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 A prior section 15308 was renumbered section 15309 of this title.
 
-## § 15309. Annual report
+## § 15309. Annual report
 
 **(a) In General.—** Not later than 180 days after the last day of each fiscal year, each Commission shall submit to the President and Congress a report on the activities carried out by the Commission under this subtitle in the fiscal year.
 
@@ -413,7 +413,7 @@ A prior section 15308 was renumbered section 15309 of this title.
 
 **(3)** any policy recommendations approved by the Commission.
 
-(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1474, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2236, § 15308; renumbered § 15309 and amended Pub. L. 118–272, div. B, title II, §§ 2242(e), 2243(a)(1), Jan. 4, 2025, 138 Stat. 3203.)
+(Added Pub. L. 110–234, title XIV, § 14217(a)(2), May 22, 2008, 122 Stat. 1474, and Pub. L. 110–246, § 4(a), title XIV, § 14217(a)(2), June 18, 2008, 122 Stat. 1664, 2236, § 15308; renumbered § 15309 and amended Pub. L. 118–272, div. B, title II, §§ 2242(e), 2243(a)(1), Jan. 4, 2025, 138 Stat. 3203.)
 
 **Editorial Notes**
 
@@ -423,9 +423,9 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 **Amendments**
 
-2025—Pub. L. 118–272, § 2243(a)(1), renumbered section 15308 of this title as this section.
+2025—Pub. L. 118–272, § 2243(a)(1), renumbered section 15308 of this title as this section.
 
-Subsec. (a). Pub. L. 118–272, § 2242(e), substituted “180” for “90”.
+Subsec. (a). Pub. L. 118–272, § 2242(e), substituted “180” for “90”.
 
 **Statutory Notes and Related Subsidiaries**
 

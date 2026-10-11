@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2023—Pub. L. 118–31, div. A, title X, § 1061(c)(2), Dec. 22, 2023, 137 Stat. 399, added item 4814 and struck out former item 4814 “National technology and industrial base: annual report and quarterly briefings”.
+2023—Pub. L. 118–31, div. A, title X, § 1061(c)(2), Dec. 22, 2023, 137 Stat. 399, added item 4814 and struck out former item 4814 “National technology and industrial base: annual report and quarterly briefings”.
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(10), (s)(2)(B), Dec. 27, 2021, 135 Stat. 2140, 2149, added items 4814 and 4820 and struck out former item 4814 “Annual report to Congress”.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(10), (s)(2)(B), Dec. 27, 2021, 135 Stat. 2140, 2149, added items 4814 and 4820 and struck out former item 4814 “Annual report to Congress”.
 
-## § 4811. National security strategy for national technology and industrial base
+## § 4811. National security strategy for national technology and industrial base
 
 **(a) National Security Strategy for National Technology and Industrial Base.—** The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. The Secretary shall submit such strategy to Congress as an integrated part of the report submitted under section 4814 of this title. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
 
@@ -69,31 +69,31 @@ retrieved: 2026-10-11
 
 **(2) Purpose of Guidance.—** The guidance prescribed pursuant to paragraph (1) shall provide for technological and industrial capability considerations to be integrated into the strategy, management, budget allocation, acquisition, and logistics support decision processes.
 
-(Added Pub. L. 102–484, div. D, title XLII, § 4211, Oct. 23, 1992, 106 Stat. 2662, § 2501; amended Pub. L. 103–35, title II, § 201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, § 1182(a)(10), title XIII, § 1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, § 1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, § 829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, § 303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, § 895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, § 1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, § 1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title VIII, § 882, Dec. 23, 2016, 130 Stat. 2316; Pub. L. 116–92, div. A, title VIII, § 846(a), Dec. 20, 2019, 133 Stat. 1503; renumbered § 4811 and amended Pub. L. 116–283, div. A, title VII, § 713(a), title XVIII, § 1867(b), (c)(1), Jan. 1, 2021, 134 Stat. 3692, 4281; Pub. L. 118–31, div. A, title VIII, § 851, title X, § 1061(b), Dec. 22, 2023, 137 Stat. 343, 398.)
+(Added Pub. L. 102–484, div. D, title XLII, § 4211, Oct. 23, 1992, 106 Stat. 2662, § 2501; amended Pub. L. 103–35, title II, § 201(c)(7), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title XI, § 1182(a)(10), title XIII, § 1313, Nov. 30, 1993, 107 Stat. 1771, 1786; Pub. L. 104–106, div. A, title X, § 1081(a), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, § 829(a), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, § 303(a), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, § 895(b), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, § 1603(a)(1), Jan. 2, 2013, 126 Stat. 2062; Pub. L. 113–291, div. A, title X, § 1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title VIII, § 882, Dec. 23, 2016, 130 Stat. 2316; Pub. L. 116–92, div. A, title VIII, § 846(a), Dec. 20, 2019, 133 Stat. 1503; renumbered § 4811 and amended Pub. L. 116–283, div. A, title VII, § 713(a), title XVIII, § 1867(b), (c)(1), Jan. 1, 2021, 134 Stat. 3692, 4281; Pub. L. 118–31, div. A, title VIII, § 851, title X, § 1061(b), Dec. 22, 2023, 137 Stat. 343, 398.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsecs. (a) and (b) of section 2506 of this title, which were transferred to this section and redesignated as pars. (1) and (2), respectively, of subsec. (c), by Pub. L. 116–283, § 1867(c)(1)(B), was based on Pub. L. 102–484, div. D, title XLII, § 4216(a), Oct. 23, 1992, 106 Stat. 2668; Pub. L. 104–201, div. A, title VIII, § 829(d), Sept. 23, 1996, 110 Stat. 2613; Pub. L. 111–383, div. A, title VIII, § 895(d), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 115–91, div. A, title X, § 1051(a)(18), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 116–283, div. A, title XVIII, § 1867(c)(1)(B), Jan. 1, 2021, 134 Stat. 4281.
+The text of subsecs. (a) and (b) of section 2506 of this title, which were transferred to this section and redesignated as pars. (1) and (2), respectively, of subsec. (c), by Pub. L. 116–283, § 1867(c)(1)(B), was based on Pub. L. 102–484, div. D, title XLII, § 4216(a), Oct. 23, 1992, 106 Stat. 2668; Pub. L. 104–201, div. A, title VIII, § 829(d), Sept. 23, 1996, 110 Stat. 2613; Pub. L. 111–383, div. A, title VIII, § 895(d), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 115–91, div. A, title X, § 1051(a)(18), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 116–283, div. A, title XVIII, § 1867(c)(1)(B), Jan. 1, 2021, 134 Stat. 4281.
 
 **Amendments**
 
-2023—Subsec. (a). Pub. L. 118–31, § 1061(b), in introductory provisions, substituted “The Secretary shall submit such strategy to Congress as an integrated part of the report submitted under section 4814 of this title.” for “The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 (50 U.S.C. 3043).”
+2023—Subsec. (a). Pub. L. 118–31, § 1061(b), in introductory provisions, substituted “The Secretary shall submit such strategy to Congress as an integrated part of the report submitted under section 4814 of this title.” for “The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 (50 U.S.C. 3043).”
 
-Subsec. (a)(9). Pub. L. 118–31, § 851, inserted “services, supplies, and” before “materials” and “, including by reducing reliance on potential adversaries for such services, supplies, and materials to the maximum extent practicable” before period at end.
+Subsec. (a)(9). Pub. L. 118–31, § 851, inserted “services, supplies, and” before “materials” and “, including by reducing reliance on potential adversaries for such services, supplies, and materials to the maximum extent practicable” before period at end.
 
-2021—Pub. L. 116–283, § 1867(b), renumbered section 2501 of this title as this section.
+2021—Pub. L. 116–283, § 1867(b), renumbered section 2501 of this title as this section.
 
-Subsec. (a)(11). Pub. L. 116–283, § 713(a), added par. (11).
+Subsec. (a)(11). Pub. L. 116–283, § 713(a), added par. (11).
 
-Subsec. (c). Pub. L. 116–283, § 1867(c)(1)(B), transferred subsecs. (a) and (b) of section 2506 of this title to subsec. (c), redesignated such provisions as pars. (1) and (2), respectively, and realigned margins.
+Subsec. (c). Pub. L. 116–283, § 1867(c)(1)(B), transferred subsecs. (a) and (b) of section 2506 of this title to subsec. (c), redesignated such provisions as pars. (1) and (2), respectively, and realigned margins.
 
-Pub. L. 116–283, § 1867(c)(1)(A), added subsec. (c).
+Pub. L. 116–283, § 1867(c)(1)(A), added subsec. (c).
 
-Subsec. (c)(1). Pub. L. 116–283, § 1867(c)(1)(B)(i), substituted “subsection (a)” for “section 2501(a) of this title”.
+Subsec. (c)(1). Pub. L. 116–283, § 1867(c)(1)(B)(i), substituted “subsection (a)” for “section 2501(a) of this title”.
 
-Subsec. (c)(2). Pub. L. 116–283, § 1867(c)(1)(B)(ii), substituted “paragraph (1)” for “subsection (a)”.
+Subsec. (c)(2). Pub. L. 116–283, § 1867(c)(1)(B)(ii), substituted “paragraph (1)” for “subsection (a)”.
 
 2019—Subsec. (a). Pub. L. 116–92 inserted “The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 (50 U.S.C. 3043).” after first sentence.
 
@@ -101,37 +101,37 @@ Subsec. (c)(2). Pub. L. 116–283, § 1867(c)(1)(B)(ii), substituted “paragr
 
 2014—Subsec. (a)(1)(A). Pub. L. 113–291 substituted “(50 U.S.C. 3043)” for “(50 U.S.C. 404a)”.
 
-2013—Pub. L. 112–239, § 1603(a)(1)(A), substituted “strategy for” for “objectives concerning” in section catchline.
+2013—Pub. L. 112–239, § 1603(a)(1)(A), substituted “strategy for” for “objectives concerning” in section catchline.
 
-Subsec. (a). Pub. L. 112–239, § 1603(a)(1)(B)(i), (ii), substituted “Strategy” for “Objectives” in heading and “The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:” for “It is the policy of Congress that the national technology and industrial base be capable of meeting the following national security objectives:” in introductory provisions.
+Subsec. (a). Pub. L. 112–239, § 1603(a)(1)(B)(i), (ii), substituted “Strategy” for “Objectives” in heading and “The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:” for “It is the policy of Congress that the national technology and industrial base be capable of meeting the following national security objectives:” in introductory provisions.
 
-Subsec. (a)(9), (10). Pub. L. 112–239, § 1603(a)(1)(B)(iii), added pars. (9) and (10).
+Subsec. (a)(9), (10). Pub. L. 112–239, § 1603(a)(1)(B)(iii), added pars. (9) and (10).
 
-2011—Subsec. (a)(1). Pub. L. 111–383, § 895(b)(1), substituted “Supplying, equipping, and supporting” for “Supplying and equipping” in introductory provisions.
+2011—Subsec. (a)(1). Pub. L. 111–383, § 895(b)(1), substituted “Supplying, equipping, and supporting” for “Supplying and equipping” in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 111–383, § 895(b)(2), substituted “logistics, and other activities in support of” for “and logistics for”.
+Subsec. (a)(2). Pub. L. 111–383, § 895(b)(2), substituted “logistics, and other activities in support of” for “and logistics for”.
 
-Subsec. (a)(4). Pub. L. 111–383, § 895(b)(3), substituted “, produce, and support” for “and produce”.
+Subsec. (a)(4). Pub. L. 111–383, § 895(b)(3), substituted “, produce, and support” for “and produce”.
 
-Subsec. (a)(6) to (8). Pub. L. 111–383, § 895(b)(4), added pars. (6) and (7) and redesignated former par. (6) as (8).
+Subsec. (a)(6) to (8). Pub. L. 111–383, § 895(b)(4), added pars. (6) and (7) and redesignated former par. (6) as (8).
 
 2009—Subsec. (a)(6). Pub. L. 111–23 added par. (6).
 
-1996—Pub. L. 104–106, § 1081(a)(2), substituted “National security objectives concerning national technology and industrial base” for “Congressional defense policy concerning national technology and industrial base, reinvestment, and conversion” as section catchline.
+1996—Pub. L. 104–106, § 1081(a)(2), substituted “National security objectives concerning national technology and industrial base” for “Congressional defense policy concerning national technology and industrial base, reinvestment, and conversion” as section catchline.
 
-Subsec. (a). Pub. L. 104–106, § 1081(a)(1)(A)(i), substituted “National Security” for “Defense Policy” in heading.
+Subsec. (a). Pub. L. 104–106, § 1081(a)(1)(A)(i), substituted “National Security” for “Defense Policy” in heading.
 
 Subsec. (a)(5). Pub. L. 104–201 added par. (5).
 
-Pub. L. 104–106, § 1081(a)(1)(A)(ii), struck out par. (5) which read as follows: “Furthering the missions of the Department of Defense through the support of policy objectives and programs relating to the defense reinvestment, diversification, and conversion objectives specified in subsection (b).”
+Pub. L. 104–106, § 1081(a)(1)(A)(ii), struck out par. (5) which read as follows: “Furthering the missions of the Department of Defense through the support of policy objectives and programs relating to the defense reinvestment, diversification, and conversion objectives specified in subsection (b).”
 
-Subsecs. (b), (c). Pub. L. 104–106, § 1081(a)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which stated policy objectives of Congress relating to defense reinvestment, diversification, and conversion.
+Subsecs. (b), (c). Pub. L. 104–106, § 1081(a)(1)(B), (C), redesignated subsec. (c) as (b) and struck out former subsec. (b) which stated policy objectives of Congress relating to defense reinvestment, diversification, and conversion.
 
 1993—Subsec. (a)(1)(A). Pub. L. 103–35 substituted “section 108” for “section 104”.
 
-Subsec. (a)(5). Pub. L. 103–160, § 1313, added par. (5).
+Subsec. (a)(5). Pub. L. 103–160, § 1313, added par. (5).
 
-Subsec. (b)(2). Pub. L. 103–160, § 1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
+Subsec. (b)(2). Pub. L. 103–160, § 1182(a)(10), substituted “that, by reducing the public sector demand for capital, increases the amount of capital available” for “and thereby free up capital”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -141,7 +141,7 @@ Amendment by section 1867(b), (c)(1) of Pub. L. 116–283 effective Jan. 1, 2022
 
 **Acceptance of Civil Aviation Authority Certification**
 
-Pub. L. 119–60, div. A, title VIII, § 832(b), Dec. 18, 2025, 139 Stat. 962, provided that:
+Pub. L. 119–60, div. A, title VIII, § 832(b), Dec. 18, 2025, 139 Stat. 962, provided that:
 
 > **“(1) In general.—** The Secretary of Defense may not conduct a separate review and approval process for aircraft parts and components and repair processes that have been approved by a civil aviation authority under a Parts Manufacturer Approval or Designated Engineering Representative spare or repair certification and approval processes unless—
 
@@ -153,7 +153,7 @@ Pub. L. 119–60, div. A, title VIII, § 832(b), Dec. 18, 2025, 139 Stat. 962,
 
 **Acceleration of Qualification of Compliant Sources**
 
-Pub. L. 119–60, div. A, title VIII, § 837, Dec. 18, 2025, 139 Stat. 968, provided that:
+Pub. L. 119–60, div. A, title VIII, § 837, Dec. 18, 2025, 139 Stat. 968, provided that:
 
 > **“(a) Establishment.—**
 
@@ -205,7 +205,7 @@ Pub. L. 119–60, div. A, title VIII, § 837, Dec. 18, 2025, 139 Stat. 968, pr
 
 **Improving the Domestic Textile and Industrial Base**
 
-Pub. L. 119–60, div. A, title VIII, § 865, Dec. 18, 2025, 139 Stat. 991, provided that:
+Pub. L. 119–60, div. A, title VIII, § 865, Dec. 18, 2025, 139 Stat. 991, provided that:
 
 > **“(a) Industrial Base Analysis and Sustainment Automated Textile Manufacturing.—**
 
@@ -327,7 +327,7 @@ Pub. L. 119–60, div. A, title VIII, § 865, Dec. 18, 2025, 139 Stat. 991, pr
 
 **Small-UAS Industrial Base Working Group**
 
-Pub. L. 119–60, div. A, title IX, § 914, Dec. 18, 2025, 139 Stat. 1019, provided that:
+Pub. L. 119–60, div. A, title IX, § 914, Dec. 18, 2025, 139 Stat. 1019, provided that:
 
 > **“(a) Establishment.—** Not later than January 15, 2026, the Deputy Secretary of Defense shall establish a working group to be known as the ‘Small-UAS Industrial Base Working Group’ (referred to in this section as the ‘Working Group’) to analyze the supplier base for small-UAS systems and recommend investments or other actions to improve such supplier base.
 
@@ -435,7 +435,7 @@ Pub. L. 119–60, div. A, title IX, § 914, Dec. 18, 2025, 139 Stat. 1019, pro
 
 **Partnership for Indo-Pacific Industrial Resilience**
 
-Pub. L. 119–60, div. A, title XII, § 1253, Dec. 18, 2025, 139 Stat. 1113, provided that:
+Pub. L. 119–60, div. A, title XII, § 1253, Dec. 18, 2025, 139 Stat. 1113, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense, in coordination with the Secretary of State, shall establish and maintain an initiative, to be known as the ‘Partnership for Indo-Pacific Industrial Resilience’ (referred to in this section as the ‘Initiative’), to strengthen cooperation among the defense industrial bases of the United States and allied and partner countries in the Indo-Pacific region and other countries supporting Indo-Pacific defense industrial resilience.
 
@@ -505,7 +505,7 @@ Pub. L. 119–60, div. A, title XII, § 1253, Dec. 18, 2025, 139 Stat. 1113, p
 
 **Civil Reserve Manufacturing Network**
 
-Pub. L. 119–60, div. A, title XVIII, § 1841(a)–(e), Dec. 18, 2025, 139 Stat. 1254, provided that:
+Pub. L. 119–60, div. A, title XVIII, § 1841(a)–(e), Dec. 18, 2025, 139 Stat. 1254, provided that:
 
 > **“(a) Civil Reserve Manufacturing Network Support.—**
 
@@ -607,7 +607,7 @@ Pub. L. 119–60, div. A, title XVIII, § 1841(a)–(e), Dec. 18, 2025, 139 St
 
 **Working Group on the Advanced Manufacturing Workforce**
 
-Pub. L. 119–60, div. A, title XVIII, § 1843, Dec. 18, 2025, 139 Stat. 1258, provided that:
+Pub. L. 119–60, div. A, title XVIII, § 1843, Dec. 18, 2025, 139 Stat. 1258, provided that:
 
 > **“(a) In General.—** Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall establish a working group to identify opportunities to address workforce shortages in advanced manufacturing career fields in the defense industrial base.
 
@@ -645,7 +645,7 @@ Pub. L. 119–60, div. A, title XVIII, § 1843, Dec. 18, 2025, 139 Stat. 1258,
 
 **Collaborative Forum To Address Challenges to and Limitations of the Defense Industrial Base**
 
-Pub. L. 119–60, div. A, title XVIII, § 1844, Dec. 18, 2025, 139 Stat. 1260, provided that:
+Pub. L. 119–60, div. A, title XVIII, § 1844, Dec. 18, 2025, 139 Stat. 1260, provided that:
 
 > **“(a) Establishment.—** Not later than 120 days after the date of the enactment of this Act [Dec. 18, 2025], the Secretary of Defense shall identify one or more consortia or other entity to serve as a collaborative forum for government, private sector, academia, and nonprofit entities with expertise in advanced manufacturing to address the challenges to and limitations of the defense industrial base.
 
@@ -699,7 +699,7 @@ Pub. L. 119–60, div. A, title XVIII, § 1844, Dec. 18, 2025, 139 Stat. 1260,
 
 **Qualification of Industrial Capabilities**
 
-Pub. L. 118–159, div. A, title VIII, § 865, Dec. 23, 2024, 138 Stat. 2003, as amended by Pub. L. 119–60, div. A, title VIII, § 832(a), Dec. 18, 2025, 139 Stat. 961, provided that:
+Pub. L. 118–159, div. A, title VIII, § 865, Dec. 23, 2024, 138 Stat. 2003, as amended by Pub. L. 119–60, div. A, title VIII, § 832(a), Dec. 18, 2025, 139 Stat. 961, provided that:
 
 > **“(a) Establishment of Process.—** Not later than one year after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense, in coordination with each Secretary of a military department and the Director of the Defense Logistics Agency, shall establish a process to rapidly qualify and approve alternate or additional sources of supply for industrial capabilities identified in subsection (b) for use in combat.
 
@@ -805,7 +805,7 @@ Pub. L. 118–159, div. A, title VIII, § 865, Dec. 23, 2024, 138 Stat. 2003, 
 
 **Defense Industrial Base Workforce Development Strategy**
 
-Pub. L. 118–159, div. A, title XVI, § 1635, Dec. 23, 2024, 138 Stat. 2179, as amended by Pub. L. 119–60, div. C, title XXXI, § 3111(c)(2)(B), Dec. 18, 2025, 139 Stat. 1460, provided that:
+Pub. L. 118–159, div. A, title XVI, § 1635, Dec. 23, 2024, 138 Stat. 2179, as amended by Pub. L. 119–60, div. C, title XXXI, § 3111(c)(2)(B), Dec. 18, 2025, 139 Stat. 1460, provided that:
 
 > **“(a) Strategy.—** Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2024], the Secretary of Defense, in consultation with the Administrator for Nuclear Security and other individuals as the Secretary determines appropriate, shall commence the implementation of a strategy for promoting the development of a skilled manufacturing and high-demand vocational trade workforce to support the expansion of the national technology and industrial base and nuclear security enterprise.
 
@@ -823,7 +823,7 @@ Pub. L. 118–159, div. A, title XVI, § 1635, Dec. 23, 2024, 138 Stat. 2179, 
 
 **Recovery of Rare Earth Elements and Other Strategic and Critical Materials Through End-Of-Life Equipment Recycling**
 
-Pub. L. 118–31, div. A, title III, § 367, Dec. 22, 2023, 137 Stat. 235, provided that:
+Pub. L. 118–31, div. A, title III, § 367, Dec. 22, 2023, 137 Stat. 235, provided that:
 
 > “The Secretary of Defense shall issue policies and establish procedures to—
 
@@ -833,11 +833,11 @@ Pub. L. 118–31, div. A, title III, § 367, Dec. 22, 2023, 137 Stat. 235, pro
 
 **Pilot Program on Capital Assistance To Support Defense Investment in the Industrial Base**
 
-Pub. L. 118–31, div. A, title IX, § 903(b), Dec. 22, 2023, 137 Stat. 360, which established a pilot program to provide capital assistance to eligible entities for eligible investments to develop technologies that support the duties and elements of the Office of Strategic Capital and meet the needs of the Department of Defense, was repealed by Pub. L. 118–159, div. A, title IX, § 905(b), Dec. 23, 2024, 138 Stat. 2031. See section 149(e) of this title.
+Pub. L. 118–31, div. A, title IX, § 903(b), Dec. 22, 2023, 137 Stat. 360, which established a pilot program to provide capital assistance to eligible entities for eligible investments to develop technologies that support the duties and elements of the Office of Strategic Capital and meet the needs of the Department of Defense, was repealed by Pub. L. 118–159, div. A, title IX, § 905(b), Dec. 23, 2024, 138 Stat. 2031. See section 149(e) of this title.
 
 **Critical Mineral Independence**
 
-Pub. L. 118–31, div. A, title XIV, § 1414, Dec. 22, 2023, 137 Stat. 528, provided that:
+Pub. L. 118–31, div. A, title XIV, § 1414, Dec. 22, 2023, 137 Stat. 528, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -887,7 +887,7 @@ Pub. L. 118–31, div. A, title XIV, § 1414, Dec. 22, 2023, 137 Stat. 528, pr
 
 **Department of Defense National Imperative for Industrial Skills Program**
 
-Pub. L. 117–263, div. A, title VIII, § 836, Dec. 23, 2022, 136 Stat. 2716, provided that:
+Pub. L. 117–263, div. A, title VIII, § 836, Dec. 23, 2022, 136 Stat. 2716, provided that:
 
 > **“(a) In General.—** The Secretary of Defense, acting through the Industrial Base Analysis and Sustainment program of the Department of Defense, shall evaluate and further develop workforce development training programs (as defined by the Secretary of Defense) for training the skilled industrial workers (as defined by the Secretary of Defense) that are needed in the defense industrial base through the National Imperative for Industrial Skills program of the Department of Defense (or a successor program).
 
@@ -911,7 +911,7 @@ Pub. L. 117–263, div. A, title VIII, § 836, Dec. 23, 2022, 136 Stat. 2716, 
 
 **Procurement Requirements Relating to Rare Earth Elements and Strategic and Critical Materials**
 
-Pub. L. 117–263, div. A, title VIII, § 857(a), (d), Dec. 23, 2022, 136 Stat. 2727, 2731, provided that:
+Pub. L. 117–263, div. A, title VIII, § 857(a), (d), Dec. 23, 2022, 136 Stat. 2727, 2731, provided that:
 
 > **“(a) Disclosures Concerning Rare Earth Elements and Strategic and Critical Materials by Contractors of Department of Defense.—**
 
@@ -975,7 +975,7 @@ Pub. L. 117–263, div. A, title VIII, § 857(a), (d), Dec. 23, 2022, 136 Stat
 
 **Analyses of Certain Activities for Action To Address Sourcing and Industrial Capacity**
 
-Pub. L. 117–263, div. A, title VIII, § 858, Dec. 23, 2022, 136 Stat. 2731, as amended by Pub. L. 118–31, div. A, title X, § 1061(c)(3), Dec. 22, 2023, 137 Stat. 399, provided that:
+Pub. L. 117–263, div. A, title VIII, § 858, Dec. 23, 2022, 136 Stat. 2731, as amended by Pub. L. 118–31, div. A, title X, § 1061(c)(3), Dec. 22, 2023, 137 Stat. 399, provided that:
 
 > **“(a) Analysis Required.—**
 
@@ -1053,7 +1053,7 @@ Pub. L. 117–263, div. A, title VIII, § 858, Dec. 23, 2022, 136 Stat. 2731, 
 
 **Demonstration Exercise of Enhanced Planning for Industrial Mobilization and Supply Chain Management**
 
-Pub. L. 117–263, div. A, title VIII, § 859, Dec. 23, 2022, 136 Stat. 2733, provided that:
+Pub. L. 117–263, div. A, title VIII, § 859, Dec. 23, 2022, 136 Stat. 2733, provided that:
 
 > **“(a) Demonstration Exercise Required.—** Not later than December 31, 2024, the Secretary of Defense shall conduct a demonstration exercise of industrial mobilization and supply chain management planning capabilities in support of one or more operational or contingency plan use cases, as selected in consultation with the Chairman of the Joint Chiefs of Staff and the Under Secretary of Defense for Acquisition and Sustainment.
 
@@ -1093,7 +1093,7 @@ Pub. L. 117–263, div. A, title VIII, § 859, Dec. 23, 2022, 136 Stat. 2733, 
 
 **Key Advanced System Development Industry Days**
 
-Pub. L. 117–263, div. A, title VIII, § 862, Dec. 23, 2022, 136 Stat. 2736, as amended by Pub. L. 118–159, div. A, title XVII, § 1701(c), Dec. 23, 2024, 138 Stat. 2206, provided that:
+Pub. L. 117–263, div. A, title VIII, § 862, Dec. 23, 2022, 136 Stat. 2736, as amended by Pub. L. 118–159, div. A, title XVII, § 1701(c), Dec. 23, 2024, 138 Stat. 2206, provided that:
 
 > **“(a) In General.—** Not later than March 1, 2023, and every 180 days thereafter, the each Secretary of a military department shall ensure that such military department conducts an outreach event to—
 
@@ -1197,7 +1197,7 @@ Pub. L. 117–263, div. A, title VIII, § 862, Dec. 23, 2022, 136 Stat. 2736, 
 
 **Demonstration Program on Domestic Production of Rare Earth Elements From Coal Byproducts**
 
-Pub. L. 117–81, div. A, title III, § 320, Dec. 27, 2021, 135 Stat. 1634, provided that:
+Pub. L. 117–81, div. A, title III, § 320, Dec. 27, 2021, 135 Stat. 1634, provided that:
 
 > **“(a) Demonstration Program Required.—** Not later than 120 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall commence carrying out a demonstration program on recovering rare earth elements and critical minerals from acid mine drainage and other coal byproducts.
 
@@ -1219,7 +1219,7 @@ Pub. L. 117–81, div. A, title III, § 320, Dec. 27, 2021, 135 Stat. 1634, pr
 
 **Assessment of Requirements for Certain Items To Address Supply Chain Vulnerabilities**
 
-Pub. L. 117–81, div. A, title VIII, § 844, Dec. 27, 2021, 135 Stat. 1841, provided that:
+Pub. L. 117–81, div. A, title VIII, § 844, Dec. 27, 2021, 135 Stat. 1841, provided that:
 
 > **“(a) Definitions.—** In this section, the term ‘dual-use’ has the meaning given in section 2500 of title 10, United States Code [now 10 U.S.C. 4801].
 
@@ -1243,7 +1243,7 @@ Pub. L. 117–81, div. A, title VIII, § 844, Dec. 27, 2021, 135 Stat. 1841, p
 
 **Plan and Report on Reduction of Reliance on Services, Supplies, or Materials From Covered Countries**
 
-Pub. L. 117–81, div. A, title VIII, § 847, Dec. 27, 2021, 135 Stat. 1843, provided that:
+Pub. L. 117–81, div. A, title VIII, § 847, Dec. 27, 2021, 135 Stat. 1843, provided that:
 
 > **“(a) Plan.—** The Secretary of Defense, in consultation with the Secretary of State, shall develop and implement a plan to—
 
@@ -1257,7 +1257,7 @@ Pub. L. 117–81, div. A, title VIII, § 847, Dec. 27, 2021, 135 Stat. 1843, p
 
 **Requirement for Industry Days and Requests for Information To Be Open to Allied Defense Contractors**
 
-Pub. L. 117–81, div. A, title VIII, § 854, Dec. 27, 2021, 135 Stat. 1849, provided that:
+Pub. L. 117–81, div. A, title VIII, § 854, Dec. 27, 2021, 135 Stat. 1849, provided that:
 
 > **“(a) In General.—** Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], each service acquisition executive shall implement a requirement that industry days and requests for information regarding acquisition programs and research and development efforts of the Department of Defense shall, to the maximum extent practicable, be open to defense contractors of the national technology and industrial base, including when such contractors are acting as subcontractors in partnership with a United States contractor, provided such access is granted only if the Secretary of Defense or the relevant Secretary concerned determines that there is reciprocal access for United States companies to equivalent information related to contracting opportunities in the associated country that is part of the national technology and industrial base.
 
@@ -1269,7 +1269,7 @@ Pub. L. 117–81, div. A, title VIII, § 854, Dec. 27, 2021, 135 Stat. 1849, p
 
 **National Security Innovation Partnerships**
 
-Pub. L. 116–283, div. A, title II, § 219, Jan. 1, 2021, 134 Stat. 3463, provided that:
+Pub. L. 116–283, div. A, title II, § 219, Jan. 1, 2021, 134 Stat. 3463, provided that:
 
 > **“(a) Establishment.—** The Secretary of Defense shall establish an activity—
 
@@ -1333,11 +1333,11 @@ Pub. L. 116–283, div. A, title II, § 219, Jan. 1, 2021, 134 Stat. 3463, pro
 
 **Assessment of Research and Development, Manufacturing, and Production Capabilities**
 
-Pub. L. 116–283, div. A, title VIII, § 846(a), Jan. 1, 2021, 134 Stat. 3767, which required the Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition and Sustainment and the Under Secretary of Research and Engineering, to assess the research and development, manufacturing, and production capabilities of the national technology and industrial base and other allies and partner countries, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(3)(B), Dec. 18, 2025, 139 Stat. 948.
+Pub. L. 116–283, div. A, title VIII, § 846(a), Jan. 1, 2021, 134 Stat. 3767, which required the Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition and Sustainment and the Under Secretary of Research and Engineering, to assess the research and development, manufacturing, and production capabilities of the national technology and industrial base and other allies and partner countries, was repealed by Pub. L. 119–60, div. A, title VIII, § 811(b)(3)(B), Dec. 18, 2025, 139 Stat. 948.
 
 **Recommendations for Additional Members of the National Technology and Industrial Base**
 
-Pub. L. 116–283, div. A, title VIII, § 846(d), Jan. 1, 2021, 134 Stat. 3768, provided that:
+Pub. L. 116–283, div. A, title VIII, § 846(d), Jan. 1, 2021, 134 Stat. 3768, provided that:
 
 > **“(1) In general.—** The Secretary of Defense, in consultation with the heads of any relevant Federal agencies, shall establish a process to consider the inclusion of additional member countries in the national technology and industrial base.
 
@@ -1359,7 +1359,7 @@ Pub. L. 116–283, div. A, title VIII, § 846(d), Jan. 1, 2021, 134 Stat. 3768
 
 **Supply of Strategic and Critical Materials for the Department of Defense**
 
-Pub. L. 116–283, div. A, title VIII, § 848, Jan. 1, 2021, 134 Stat. 3769, as amended by Pub. L. 118–159, div. A, title VIII, § 847, Dec. 23, 2024, 138 Stat. 1993, provided that:
+Pub. L. 116–283, div. A, title VIII, § 848, Jan. 1, 2021, 134 Stat. 3769, as amended by Pub. L. 118–159, div. A, title VIII, § 847, Dec. 23, 2024, 138 Stat. 1993, provided that:
 
 > **“(a) Preference for Sourcing From the National Technology and Industrial Base.—** The Secretary of Defense shall, to the maximum extent practicable, acquire strategic and critical materials required to meet the defense, industrial, and essential civilian needs of the United States in the following order of preference:
 
@@ -1399,7 +1399,7 @@ Pub. L. 116–283, div. A, title VIII, § 848, Jan. 1, 2021, 134 Stat. 3769, a
 
 **Analyses of Certain Activities for Action To Address Sourcing and Industrial Capacity**
 
-Pub. L. 116–283, div. A, title VIII, § 849, Jan. 1, 2021, 134 Stat. 3770, as amended by Pub. L. 117–81, div. A, title VIII, § 842, Dec. 27, 2021, 135 Stat. 1840, provided that:
+Pub. L. 116–283, div. A, title VIII, § 849, Jan. 1, 2021, 134 Stat. 3770, as amended by Pub. L. 117–81, div. A, title VIII, § 842, Dec. 27, 2021, 135 Stat. 1840, provided that:
 
 > **“(a) Analysis Required.—**
 
@@ -1503,7 +1503,7 @@ Pub. L. 116–283, div. A, title VIII, § 849, Jan. 1, 2021, 134 Stat. 3770, a
 
 **Support for Defense Manufacturing Communities To Support the Defense Industrial Base**
 
-Pub. L. 115–232, div. A, title VIII, § 846, Aug. 13, 2018, 132 Stat. 1881, provided that:
+Pub. L. 115–232, div. A, title VIII, § 846, Aug. 13, 2018, 132 Stat. 1881, provided that:
 
 > **“(a) Program Authorized.—**
 
@@ -1581,7 +1581,7 @@ Pub. L. 115–232, div. A, title VIII, § 846, Aug. 13, 2018, 132 Stat. 1881, 
 
 **Enhanced Analytical and Monitoring Capability of the Defense Industrial Base**
 
-Pub. L. 115–91, div. A, title X, § 1071, Dec. 12, 2017, 131 Stat. 1582, provided that:
+Pub. L. 115–91, div. A, title X, § 1071, Dec. 12, 2017, 131 Stat. 1582, provided that:
 
 > **“(a) Process.—**
 
@@ -1639,7 +1639,7 @@ Pub. L. 115–91, div. A, title X, § 1071, Dec. 12, 2017, 131 Stat. 1582, pro
 
 **Greater Integration of the National Technology and Industrial Base**
 
-Pub. L. 114–328, div. A, title VIII, § 881, Dec. 23, 2016, 130 Stat. 2315, as amended by Pub. L. 116–283, div. A, title XVIII, § 1866(d)(3), Jan. 1, 2021, 134 Stat. 4280, provided that:
+Pub. L. 114–328, div. A, title VIII, § 881, Dec. 23, 2016, 130 Stat. 2315, as amended by Pub. L. 116–283, div. A, title XVIII, § 1866(d)(3), Jan. 1, 2021, 134 Stat. 4280, provided that:
 
 > **“(a) Plan Required.—** Not later than January 1, 2018, the Secretary of Defense shall develop a plan to reduce the barriers to the seamless integration between the persons and organizations that comprise the national technology and industrial base (as defined in section 4801 of title 10, United States Code). The plan shall include at a minimum the following elements:
 
@@ -1669,7 +1669,7 @@ Pub. L. 114–328, div. A, title VIII, § 881, Dec. 23, 2016, 130 Stat. 2315, 
 
 **Department of Defense Technology Offset Program To Build and Maintain the Military Technological Superiority of the United States**
 
-Pub. L. 114–92, div. A, title II, § 218, Nov. 25, 2015, 129 Stat. 772, as amended by Pub. L. 116–283, div. A, title XVIII, § 1841(e)(2), Jan. 1, 2021, 134 Stat. 4244; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(F)(ii), Dec. 27, 2021, 135 Stat. 2152, provided that:
+Pub. L. 114–92, div. A, title II, § 218, Nov. 25, 2015, 129 Stat. 772, as amended by Pub. L. 116–283, div. A, title XVIII, § 1841(e)(2), Jan. 1, 2021, 134 Stat. 4244; Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(F)(ii), Dec. 27, 2021, 135 Stat. 2152, provided that:
 
 > **“(a) Program Established.—**
 
@@ -1715,7 +1715,7 @@ Pub. L. 114–92, div. A, title II, § 218, Nov. 25, 2015, 129 Stat. 772, as a
 
 **Expansion of the Industrial Base**
 
-Pub. L. 111–383, div. A, title VIII, § 891, Jan. 7, 2011, 124 Stat. 4310, provided that:
+Pub. L. 111–383, div. A, title VIII, § 891, Jan. 7, 2011, 124 Stat. 4310, provided that:
 
 > **“(a) Program To Expand Industrial Base Required.—** The Secretary of Defense shall establish a program to expand the industrial base of the Department of Defense to increase the Department’s access to innovation and the benefits of competition.
 
@@ -1731,7 +1731,7 @@ Pub. L. 111–383, div. A, title VIII, § 891, Jan. 7, 2011, 124 Stat. 4310, p
 
 **Executive Agent for Printed Circuit Board Technology**
 
-Pub. L. 110–417, [div. A], title II, § 256, Oct. 14, 2008, 122 Stat. 4404, provided that:
+Pub. L. 110–417, [div. A], title II, § 256, Oct. 14, 2008, 122 Stat. 4404, provided that:
 
 > **“(a) Executive Agent.—** Not later than 90 days after the date of the enactment of this Act [Oct. 14, 2008], the Secretary of Defense shall designate a senior official of the Department of Defense to act as the executive agent for printed circuit board technology.
 
@@ -1759,11 +1759,11 @@ Pub. L. 110–417, [div. A], title II, § 256, Oct. 14, 2008, 122 Stat. 4404, 
 
 **Essential Items Identification and Domestic Production Capabilities Improvement Program**
 
-Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, § 841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, § 846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, § 1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, § 1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509; Pub. L. 116–283, div. A, title XVIII, § 1866(d)(4), Jan. 1, 2021, 134 Stat. 4280; Pub. L. 117–81, div. A, title XVII, § 1701(b)(21)(B), Dec. 27, 2021, 135 Stat. 2135, provided that:
+Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 Stat. 1542, as amended by Pub. L. 109–364, div. A, title VIII, § 841, Oct. 17, 2006, 120 Stat. 2335; Pub. L. 111–84, div. A, title VIII, § 846, Oct. 28, 2009, 123 Stat. 2420; Pub. L. 112–81, div. A, title X, § 1062(g)(2), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 113–291, div. A, title X, § 1071(b)(5)(A), (d)(1)(C), Dec. 19, 2014, 128 Stat. 3506, 3509; Pub. L. 116–283, div. A, title XVIII, § 1866(d)(4), Jan. 1, 2021, 134 Stat. 4280; Pub. L. 117–81, div. A, title XVII, § 1701(b)(21)(B), Dec. 27, 2021, 135 Stat. 2135, provided that:
 
 > **“SEC. 811. CONSISTENCY WITH UNITED STATES OBLIGATIONS UNDER INTERNATIONAL AGREEMENTS.**
 
-> “No provision of this subtitle [subtitle B (§§ 811–828) of title VIII of div. A of Pub. L. 108–136, see Tables for classification] or any amendment made by this subtitle shall apply to the extent the Secretary of Defense, in consultation with the Secretary of Commerce, the United States Trade Representative, and the Secretary of State, determines that it is inconsistent with United States obligations under an international agreement.
+> “No provision of this subtitle [subtitle B (§§ 811–828) of title VIII of div. A of Pub. L. 108–136, see Tables for classification] or any amendment made by this subtitle shall apply to the extent the Secretary of Defense, in consultation with the Secretary of Commerce, the United States Trade Representative, and the Secretary of State, determines that it is inconsistent with United States obligations under an international agreement.
 
 > **“SEC. 812. ASSESSMENT AND ANNUAL REPORT OF UNITED STATES DEFENSE INDUSTRIAL BASE CAPABILITIES AND ACQUISITIONS OF ARTICLES, MATERIALS, AND SUPPLIES MANUFACTURED OUTSIDE THE UNITED STATES.**
 
@@ -1795,7 +1795,7 @@ Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 St
 
 > **“(4)** For purposes of meeting the requirements set forth in this section, the Secretary of Defense may not require the provision of information beyond the information that is currently provided to the Department of Defense through existing data collection systems by non-Federal entities with respect to contracts and subcontracts with the Department of Defense or any military department.
 
-> **“[(c)** Repealed. Pub. L. 112–81, div. A, title X, § 1062(g)(2), Dec. 31, 2011, 125 Stat. 1585.]
+> **“[(c)** Repealed. Pub. L. 112–81, div. A, title X, § 1062(g)(2), Dec. 31, 2011, 125 Stat. 1585.]
 
 > **“(d) Public Availability.—** The Secretary of Defense shall make the report submitted under subsection (c) publicly available to the maximum extent practicable.
 
@@ -1803,7 +1803,7 @@ Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 St
 
 > **“[SEC. 813.**
 
-> Repealed. Pub. L. 111–84, div. A, title VIII, § 846, Oct. 28, 2009, 123 Stat. 2420.]
+> Repealed. Pub. L. 111–84, div. A, title VIII, § 846, Oct. 28, 2009, 123 Stat. 2420.]
 
 > **“SEC. 814. PRODUCTION CAPABILITIES IMPROVEMENT FOR CERTAIN ESSENTIAL ITEMS USING DEFENSE INDUSTRIAL BASE CAPABILITIES FUND.**
 
@@ -1825,15 +1825,15 @@ Pub. L. 108–136, div. A, title VIII, subtitle B, part I, Nov. 24, 2003, 117 St
 
 **Documentation for Awards for Cooperative Agreements or Other Transactions Under Defense Technology Reinvestment Programs**
 
-Pub. L. 103–337, div. A, title XI, § 1118, Oct. 5, 1994, 108 Stat. 2870, provided that: “At the time of the award for a cooperative agreement or other transaction under a program carried out under chapter 148 of title 10, United States Code [see chapters 381 to 385, and chapter 389, of this title], the head of the agency concerned shall include in the file pertaining to such agreement or transaction a brief explanation of the manner in which the award advances and enhances a particular national security objective set forth in section 2501(a) of such title [now 10 U.S.C. 4811(a)] or a particular policy objective set forth in [former] section 2501(b) of such title.”
+Pub. L. 103–337, div. A, title XI, § 1118, Oct. 5, 1994, 108 Stat. 2870, provided that: “At the time of the award for a cooperative agreement or other transaction under a program carried out under chapter 148 of title 10, United States Code [see chapters 381 to 385, and chapter 389, of this title], the head of the agency concerned shall include in the file pertaining to such agreement or transaction a brief explanation of the manner in which the award advances and enhances a particular national security objective set forth in section 2501(a) of such title [now 10 U.S.C. 4811(a)] or a particular policy objective set forth in [former] section 2501(b) of such title.”
 
 **National Shipbuilding Initiative**
 
-Pub. L. 103–160, div. A, title XIII, §§ 1351–1354, Nov. 30, 1993, 107 Stat. 1809, 1810, as amended by Pub. L. 104–201, div. A, title X, § 1073(e)(1)(F), (2)(B), (3), Sept. 23, 1996, 110 Stat. 2658, provided that:
+Pub. L. 103–160, div. A, title XIII, §§ 1351–1354, Nov. 30, 1993, 107 Stat. 1809, 1810, as amended by Pub. L. 104–201, div. A, title X, § 1073(e)(1)(F), (2)(B), (3), Sept. 23, 1996, 110 Stat. 2658, provided that:
 
 > **“SEC. 1351. SHORT TITLE.**
 
-> “This subtitle [subtitle D, §§ 1351–1363 of title XIII of div. A of Pub. L. 103–160, see Tables for classification] may be cited as the ‘National Shipbuilding and Shipyard Conversion Act of 1993’.
+> “This subtitle [subtitle D, §§ 1351–1363 of title XIII of div. A of Pub. L. 103–160, see Tables for classification] may be cited as the ‘National Shipbuilding and Shipyard Conversion Act of 1993’.
 
 > **“SEC. 1352. NATIONAL SHIPBUILDING INITIATIVE.**
 
@@ -1887,9 +1887,9 @@ Pub. L. 103–160, div. A, title XIII, §§ 1351–1354, Nov. 30, 1993, 107 St
 
 **Industrial Diversification Planning for Defense Contractors**
 
-Pub. L. 102–484, div. D, title XLII, § 4239, Oct. 23, 1992, 106 Stat. 2694, provided that: “Not later than 120 days after the date of enactment of this Act [Oct. 23, 1992], the Secretary of Defense shall prescribe regulations to encourage defense contractors to engage in industrial diversification planning.”
+Pub. L. 102–484, div. D, title XLII, § 4239, Oct. 23, 1992, 106 Stat. 2694, provided that: “Not later than 120 days after the date of enactment of this Act [Oct. 23, 1992], the Secretary of Defense shall prescribe regulations to encourage defense contractors to engage in industrial diversification planning.”
 
-## § 4812. National Defense Technology and Industrial Base Council
+## § 4812. National Defense Technology and Industrial Base Council
 
 **(a) Establishment.—** There is a National Defense Technology and Industrial Base Council.
 
@@ -1917,25 +1917,25 @@ Pub. L. 102–484, div. D, title XLII, § 4239, Oct. 23, 1992, 106 Stat. 2694,
 
 **(d) Alternative Performance of Responsibilities.—** Notwithstanding subsection (c), the President may assign the responsibilities of the Council to another interagency organization of the executive branch that includes among its members the officials specified in paragraphs (1) through (4) of subsection (b).
 
-(Added Pub. L. 102–484, div. D, title XLII, § 4212(a), Oct. 23, 1992, 106 Stat. 2664, § 2502; amended Pub. L. 103–160, div. A, title XIII, § 1312(b), Nov. 30, 1993, 107 Stat. 1786; Pub. L. 103–337, div. A, title X, § 1070(a)(12), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title X, § 1081(b), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, § 829(c)(2), formerly § 829(c)(2), (3), Sept. 23, 1996, 110 Stat. 2613, renumbered Pub. L. 105–85, div. A, title X, § 1073(c)(7)(B), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 105–85, div. A, title X, § 1073(c)(7)(A), Nov. 18, 1997, 111 Stat. 1904; renumbered § 4812 and amended Pub. L. 116–283, div. A, title VIII, § 846(c), title XVIII, § 1867(b), (d)(1), Jan. 1, 2021, 134 Stat. 3768, 4281.)
+(Added Pub. L. 102–484, div. D, title XLII, § 4212(a), Oct. 23, 1992, 106 Stat. 2664, § 2502; amended Pub. L. 103–160, div. A, title XIII, § 1312(b), Nov. 30, 1993, 107 Stat. 1786; Pub. L. 103–337, div. A, title X, § 1070(a)(12), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title X, § 1081(b), Feb. 10, 1996, 110 Stat. 452; Pub. L. 104–201, div. A, title VIII, § 829(c)(2), formerly § 829(c)(2), (3), Sept. 23, 1996, 110 Stat. 2613, renumbered Pub. L. 105–85, div. A, title X, § 1073(c)(7)(B), Nov. 18, 1997, 111 Stat. 1904; Pub. L. 105–85, div. A, title X, § 1073(c)(7)(A), Nov. 18, 1997, 111 Stat. 1904; renumbered § 4812 and amended Pub. L. 116–283, div. A, title VIII, § 846(c), title XVIII, § 1867(b), (d)(1), Jan. 1, 2021, 134 Stat. 3768, 4281.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1867(b), renumbered section 2502 of this title as this section.
+2021—Pub. L. 116–283, § 1867(b), renumbered section 2502 of this title as this section.
 
-Subsec. (c)(1). Pub. L. 116–283, § 1867(d)(1), substituted “section 4811(a)” for “section 2501(a)”.
+Subsec. (c)(1). Pub. L. 116–283, § 1867(d)(1), substituted “section 4811(a)” for “section 2501(a)”.
 
-Subsec. (c)(4). Pub. L. 116–283, § 846(c), added par. (4).
+Subsec. (c)(4). Pub. L. 116–283, § 846(c), added par. (4).
 
-1997—Subsec. (c). Pub. L. 105–85, § 1073(c)(7)(A), made technical correction to directory language of Pub. L. 104–201, § 829(c)(2). See 1996 Amendment note below.
+1997—Subsec. (c). Pub. L. 105–85, § 1073(c)(7)(A), made technical correction to directory language of Pub. L. 104–201, § 829(c)(2). See 1996 Amendment note below.
 
-1996—Subsec. (c). Pub. L. 104–201, § 829(c)(2), formerly § 829(c)(2), (3), as renumbered and amended by Pub. L. 105–85, substituted “the responsibility to ensure effective cooperation” for “the following responsibilities:”, struck out “(1) To ensure the effective cooperation” before “among departments”, struck out par. (2), redesignated subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and adjusted margins of such pars. Prior to repeal, par. (2) read as follows: “To prepare the periodic assessment and the periodic plan required by sections 2505 and 2506 of this title, respectively.”
+1996—Subsec. (c). Pub. L. 104–201, § 829(c)(2), formerly § 829(c)(2), (3), as renumbered and amended by Pub. L. 105–85, substituted “the responsibility to ensure effective cooperation” for “the following responsibilities:”, struck out “(1) To ensure the effective cooperation” before “among departments”, struck out par. (2), redesignated subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and adjusted margins of such pars. Prior to repeal, par. (2) read as follows: “To prepare the periodic assessment and the periodic plan required by sections 2505 and 2506 of this title, respectively.”
 
-Subsec. (c)(1)(B). Pub. L. 104–106, § 1081(b)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “programs for achieving, during a period of reduction in defense expenditures, the defense reinvestment, diversification, and conversion objectives set forth in section 2501(b) of this title; and”.
+Subsec. (c)(1)(B). Pub. L. 104–106, § 1081(b)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “programs for achieving, during a period of reduction in defense expenditures, the defense reinvestment, diversification, and conversion objectives set forth in section 2501(b) of this title; and”.
 
-Subsec. (c)(2), (3). Pub. L. 104–106, § 1081(b)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “To provide overall policy guidance to ensure effective implementation by agencies of the Federal Government of defense reinvestment and conversion activities during a period of reduction in defense expenditures.”
+Subsec. (c)(2), (3). Pub. L. 104–106, § 1081(b)(2), (3), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “To provide overall policy guidance to ensure effective implementation by agencies of the Federal Government of defense reinvestment and conversion activities during a period of reduction in defense expenditures.”
 
 1994—Subsec. (d). Pub. L. 103–337 substituted “executive” for “Executive”.
 
@@ -1949,9 +1949,9 @@ Amendment by section 1867(b), (d)(1) of Pub. L. 116–283 effective Jan. 1, 2022
 
 **Effective Date of 1997 Amendment**
 
-Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
+Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
 
-## § 4813. National defense program for analysis of the technology and industrial base
+## § 4813. National defense program for analysis of the technology and industrial base
 
 **(a) Establishment.—** The Secretary of Defense shall establish a program for analysis of the national technology and industrial base.
 
@@ -1973,21 +1973,21 @@ Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, 
 
 **(4)** Dissemination, through the National Technical Information Service of the Department of Commerce, of unclassified information and assessments for further dissemination within the Federal Government and to the private sector.
 
-(Added Pub. L. 102–484, div. D, title XLII, § 4213(a), Oct. 23, 1992, 106 Stat. 2665, § 2503; amended Pub. L. 104–201, div. A, title VIII, § 829(b), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 107–107, div. A, title X, § 1048(b)(4), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, § 902(74), Dec. 20, 2019, 133 Stat. 1552; renumbered § 4813 and amended Pub. L. 116–283, div. A, title XVIII, § 1867(b), (d)(2), Jan. 1, 2021, 134 Stat. 4281.)
+(Added Pub. L. 102–484, div. D, title XLII, § 4213(a), Oct. 23, 1992, 106 Stat. 2665, § 2503; amended Pub. L. 104–201, div. A, title VIII, § 829(b), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 107–107, div. A, title X, § 1048(b)(4), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, § 902(74), Dec. 20, 2019, 133 Stat. 1552; renumbered § 4813 and amended Pub. L. 116–283, div. A, title XVIII, § 1867(b), (d)(2), Jan. 1, 2021, 134 Stat. 4281.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1867(b), renumbered section 2503 of this title as this section.
+2021—Pub. L. 116–283, § 1867(b), renumbered section 2503 of this title as this section.
 
-Subsec. (c)(3)(A). Pub. L. 116–283, § 1867(d)(2), substituted “section 4816” for “section 2505”.
+Subsec. (c)(3)(A). Pub. L. 116–283, § 1867(d)(2), substituted “section 4816” for “section 2505”.
 
 2019—Subsec. (b). Pub. L. 116–92 substituted “the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment” for “the Under Secretary of Defense for Acquisition, Technology, and Logistics” and “the Under Secretaries shall” for “the Under Secretary shall”.
 
 2001—Subsec. (b). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition”.
 
-1996—Subsec. (a). Pub. L. 104–201, § 829(b)(1), substituted “The Secretary of Defense” for “(1) The Secretary of Defense, in consultation with the National Defense Technology and Industrial Base Council,” and struck out pars. (2) to (4) which read as follows:
+1996—Subsec. (a). Pub. L. 104–201, § 829(b)(1), substituted “The Secretary of Defense” for “(1) The Secretary of Defense, in consultation with the National Defense Technology and Industrial Base Council,” and struck out pars. (2) to (4) which read as follows:
 
 “(2) As determined by the Secretary of Defense, the program shall be administered by one of the following:
 
@@ -2003,7 +2003,7 @@ Subsec. (c)(3)(A). Pub. L. 116–283, § 1867(d)(2), substituted “section 48
 
 “(4) The Secretary of Defense shall ensure that there is appropriate coordination between the program and the Critical Technologies Institute.”
 
-Subsec. (c)(3)(A). Pub. L. 104–201, § 829(b)(2), substituted “the Secretary of Defense for” for “the National Defense Technology and Industrial Base Council in” and struck out “and the periodic plans required by section 2506 of this title” after “section 2505 of this title”.
+Subsec. (c)(3)(A). Pub. L. 104–201, § 829(b)(2), substituted “the Secretary of Defense for” for “the National Defense Technology and Industrial Base Council in” and struck out “and the periodic plans required by section 2506 of this title” after “section 2505 of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2011,7 +2011,7 @@ Subsec. (c)(3)(A). Pub. L. 104–201, § 829(b)(2), substituted “the Secreta
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4814. National technology and industrial base: biennial report
+## § 4814. National technology and industrial base: biennial report
 
 The Secretary of Defense shall transmit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives by March 1 of each odd-numbered year a report which shall include the following information:
 
@@ -2041,7 +2041,7 @@ The Secretary of Defense shall transmit to the Committee on Armed Services of th
 
 **(B)** the reasoning for the use of each such waiver or exception.
 
-(Added Pub. L. 104–201, div. A, title VIII, § 829(e), Sept. 23, 1996, 110 Stat. 2614, § 2504; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–239, div. A, title XVI, § 1603(b), Jan. 2, 2013, 126 Stat. 2063; Pub. L. 116–92, div. A, title VIII, § 846(b), Dec. 20, 2019, 133 Stat. 1503; renumbered § 4814 and amended Pub. L. 116–283, div. A, title VIII, § 842(a), (b)(1), title XVIII, § 1867(b), (d)(3), Jan. 1, 2021, 134 Stat. 3764, 3765, 4281; Pub. L. 117–81, div. A, title III, § 333, title XVII, § 1701(b)(22)(A), (d)(15), Dec. 27, 2021, 135 Stat. 1638, 2135, 2137; Pub. L. 118–31, div. A, title X, § 1061(c)(1), Dec. 22, 2023, 137 Stat. 399.)
+(Added Pub. L. 104–201, div. A, title VIII, § 829(e), Sept. 23, 1996, 110 Stat. 2614, § 2504; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–239, div. A, title XVI, § 1603(b), Jan. 2, 2013, 126 Stat. 2063; Pub. L. 116–92, div. A, title VIII, § 846(b), Dec. 20, 2019, 133 Stat. 1503; renumbered § 4814 and amended Pub. L. 116–283, div. A, title VIII, § 842(a), (b)(1), title XVIII, § 1867(b), (d)(3), Jan. 1, 2021, 134 Stat. 3764, 3765, 4281; Pub. L. 117–81, div. A, title III, § 333, title XVII, § 1701(b)(22)(A), (d)(15), Dec. 27, 2021, 135 Stat. 1638, 2135, 2137; Pub. L. 118–31, div. A, title X, § 1061(c)(1), Dec. 22, 2023, 137 Stat. 399.)
 
 **Editorial Notes**
 
@@ -2049,31 +2049,31 @@ The Secretary of Defense shall transmit to the Committee on Armed Services of th
 
 2023—Pub. L. 118–31, in section catchline, substituted “National technology and industrial base: biennial report” for “National technology and industrial base: annual report and quarterly briefings”; in subsec. (a), struck out designation and heading “Annual Report” before “The Secretary of Defense shall transmit” and substituted “March 1 of each odd-numbered year” for “March 1 of each year” in introductory provisions; and struck out subsec. (b) which required quarterly briefings from the Secretary of Defense to the congressional defense committees.
 
-2021—Pub. L. 116–283, § 1867(b), renumbered section 2504 of this title as this section.
+2021—Pub. L. 116–283, § 1867(b), renumbered section 2504 of this title as this section.
 
-Pub. L. 116–283, § 842(b)(1), amended section catchline generally, substituting “National technology and industrial base: annual report and quarterly briefings” for “Annual report to Congress”.
+Pub. L. 116–283, § 842(b)(1), amended section catchline generally, substituting “National technology and industrial base: annual report and quarterly briefings” for “Annual report to Congress”.
 
-Subsec. (a). Pub. L. 116–283, § 842(a)(1), designated existing provisions as subsec. (a) and inserted heading.
+Subsec. (a). Pub. L. 116–283, § 842(a)(1), designated existing provisions as subsec. (a) and inserted heading.
 
-Subsec. (a)(1). Pub. L. 116–283, § 1867(d)(3)(A), as amended by Pub. L. 117–81, § 1701(b)(22)(A), substituted “section 4811(c)” for “section 2506”.
+Subsec. (a)(1). Pub. L. 116–283, § 1867(d)(3)(A), as amended by Pub. L. 117–81, § 1701(b)(22)(A), substituted “section 4811(c)” for “section 2506”.
 
-Subsec. (a)(2). Pub. L. 116–283, § 1867(d)(3)(B), as amended by Pub. L. 117–81, § 1701(b)(22)(A), substituted “section 4816” for “section 2505”.
+Subsec. (a)(2). Pub. L. 116–283, § 1867(d)(3)(B), as amended by Pub. L. 117–81, § 1701(b)(22)(A), substituted “section 4816” for “section 2505”.
 
-Subsec. (a)(3). Pub. L. 116–283, § 1867(d)(3)(C), as amended by Pub. L. 117–81, § 1701(b)(22)(A), substituted “section 4811” for “section 2501” and “section 4816” for “section 2505”.
+Subsec. (a)(3). Pub. L. 116–283, § 1867(d)(3)(C), as amended by Pub. L. 117–81, § 1701(b)(22)(A), substituted “section 4811” for “section 2501” and “section 4816” for “section 2505”.
 
-Subsec. (a)(3)(B). Pub. L. 117–81, § 333, which directed the amendment of par. (3)(B) by inserting “(including vulnerabilities related to the current and projected impacts of extreme weather and to cyber attacks or disruptions)” after “industrial base”, was executed by making the insertion in subsec. (a)(3)(B) to reflect the probable intent of Congress.
+Subsec. (a)(3)(B). Pub. L. 117–81, § 333, which directed the amendment of par. (3)(B) by inserting “(including vulnerabilities related to the current and projected impacts of extreme weather and to cyber attacks or disruptions)” after “industrial base”, was executed by making the insertion in subsec. (a)(3)(B) to reflect the probable intent of Congress.
 
-Subsec. (a)(5). Pub. L. 117–81, § 1701(d)(15), substituted “chapter 385” for “subchapter V of chapter 148” in introductory provisions.
+Subsec. (a)(5). Pub. L. 117–81, § 1701(d)(15), substituted “chapter 385” for “subchapter V of chapter 148” in introductory provisions.
 
-Pub. L. 116–283, § 842(a)(2), added par. (5).
+Pub. L. 116–283, § 842(a)(2), added par. (5).
 
-Subsec. (b). Pub. L. 116–283, § 842(a)(3), added subsec. (b).
+Subsec. (b). Pub. L. 116–283, § 842(a)(3), added subsec. (b).
 
-2019—Par. (3). Pub. L. 116–92, § 846(b)(1), inserted “Executive order or” after “pursuant to”.
+2019—Par. (3). Pub. L. 116–92, § 846(b)(1), inserted “Executive order or” after “pursuant to”.
 
-Par. (3)(A). Pub. L. 116–92, § 846(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a description of any mitigation strategies necessary to address any gaps or vulnerabilities in the national technology and industrial base; and”.
+Par. (3)(A). Pub. L. 116–92, § 846(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a description of any mitigation strategies necessary to address any gaps or vulnerabilities in the national technology and industrial base; and”.
 
-Par. (3)(B), (C). Pub. L. 116–92, § 846(b)(3), (4), added subpar. (B) and redesignated former subpar. (B) as (C).
+Par. (3)(B), (C). Pub. L. 116–92, § 846(b)(3), (4), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 2013—Pars. (2), (3). Pub. L. 112–239 added par. (3), redesignated former par. (3) as (2) and struck out former par. (2) which read as follows: “A description of the methods and analyses being undertaken by the Department of Defense alone or in cooperation with other Federal agencies, to identify and address concerns regarding technological and industrial capabilities of the national technology and industrial base.”
 
@@ -2089,7 +2089,7 @@ Amendment by section 1701(d)(15) of Pub. L. 117–81 to take effect immediately 
 
 Amendment by section 1867(b), (d)(3) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4815. Unfunded priorities of the national technology and industrial base: annual report
+## § 4815. Unfunded priorities of the national technology and industrial base: annual report
 
 **(a) Annual Report.—** Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the Secretary of Defense, the Chairman of the Joint Chiefs of Staff, and the congressional defense committees a report on the unfunded priorities to address gaps or vulnerabilities in the national technology and industrial base.
 
@@ -2123,7 +2123,7 @@ Amendment by section 1867(b), (d)(3) of Pub. L. 116–283 effective Jan. 1, 2022
 
 **(B)** the program, activity, or mission requirement had emerged before the budget was formulated.
 
-(Added Pub. L. 116–92, div. A, title VIII, § 846(c)(1), Dec. 20, 2019, 133 Stat. 1504, § 2504a; renumbered § 4815, Pub. L. 116–283, div. A, title XVIII, § 1867(b), Jan. 1, 2021, 134 Stat. 4281.)
+(Added Pub. L. 116–92, div. A, title VIII, § 846(c)(1), Dec. 20, 2019, 133 Stat. 1504, § 2504a; renumbered § 4815, Pub. L. 116–283, div. A, title XVIII, § 1867(b), Jan. 1, 2021, 134 Stat. 4281.)
 
 **Editorial Notes**
 
@@ -2137,7 +2137,7 @@ Amendment by section 1867(b), (d)(3) of Pub. L. 116–283 effective Jan. 1, 2022
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4816. National technology and industrial base: periodic defense capability assessments
+## § 4816. National technology and industrial base: periodic defense capability assessments
 
 **(a) Periodic Assessment.—** Each fiscal year, the Secretary of Defense shall prepare selected assessments of the capability of the national technology and industrial base to attain the national security objectives set forth in section 4811(a) of this title. The Secretary of Defense shall prepare such assessments in consultation with the Secretary of Commerce and the Secretary of Energy.
 
@@ -2171,7 +2171,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(e) Integrated Process.—** The Secretary of Defense shall ensure that consideration of the technology and industrial base assessments is integrated into the overall budget, acquisition, and logistics support decision processes of the Department of Defense.
 
-(Added Pub. L. 102–484, div. D, title XLII, § 4215, Oct. 23, 1992, 106 Stat. 2667, § 2505; amended Pub. L. 103–35, title II, § 201(g)(7), May 31, 1993, 107 Stat. 100; Pub. L. 104–201, div. A, title VIII, § 829(c)(1), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, § 303(b), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, § 895(c), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, § 1602, Jan. 2, 2013, 126 Stat. 2062; Pub. L. 114–92, div. A, title VIII, § 876, Nov. 25, 2015, 129 Stat. 941; renumbered § 4816 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1867(b), (d)(4), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4281, 4282, 4294; Pub. L. 118–159, div. A, title XVII, § 1701(a)(41), Dec. 23, 2024, 138 Stat. 2206; Pub. L. 119–60, div. A, title XVII, § 1701(a)(30), Dec. 18, 2025, 139 Stat. 1209.)
+(Added Pub. L. 102–484, div. D, title XLII, § 4215, Oct. 23, 1992, 106 Stat. 2667, § 2505; amended Pub. L. 103–35, title II, § 201(g)(7), May 31, 1993, 107 Stat. 100; Pub. L. 104–201, div. A, title VIII, § 829(c)(1), Sept. 23, 1996, 110 Stat. 2612; Pub. L. 111–23, title III, § 303(b), May 22, 2009, 123 Stat. 1731; Pub. L. 111–383, div. A, title VIII, § 895(c), Jan. 7, 2011, 124 Stat. 4314; Pub. L. 112–239, div. A, title XVI, § 1602, Jan. 2, 2013, 126 Stat. 2062; Pub. L. 114–92, div. A, title VIII, § 876, Nov. 25, 2015, 129 Stat. 941; renumbered § 4816 and amended Pub. L. 116–283, div. A, title XVIII, §§ 1867(b), (d)(4), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4281, 4282, 4294; Pub. L. 118–159, div. A, title XVII, § 1701(a)(41), Dec. 23, 2024, 138 Stat. 2206; Pub. L. 119–60, div. A, title XVII, § 1701(a)(30), Dec. 18, 2025, 139 Stat. 1209.)
 
 **Editorial Notes**
 
@@ -2181,11 +2181,11 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 2024—Subsec. (b)(6). Pub. L. 118–159, which directed substitution of “section 4201 of this title” for “section 2430 of this title) or major automated information systems (as defined in section 2445a of this title)”, was executed by making the substitution for “section 2430 of this title) or major automated information system programs (as defined in section 2445a of this title)” to reflect the probable intent of Congress.
 
-2021—Pub. L. 116–283, § 1867(b), renumbered section 2505 of this title as this section.
+2021—Pub. L. 116–283, § 1867(b), renumbered section 2505 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1867(d)(4), substituted “section 4811(a)” for “section 2501(a)”.
+Subsec. (a). Pub. L. 116–283, § 1867(d)(4), substituted “section 4811(a)” for “section 2501(a)”.
 
-Subsec. (b)(6). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2430”, which was redesignated as multiple sections.
+Subsec. (b)(6). Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2430”, which was redesignated as multiple sections.
 
 2015—Subsec. (b)(3) to (6). Pub. L. 114–92 added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
@@ -2207,7 +2207,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Pilot Program on Strengthening the Defense Industrial and Innovation Base**
 
-Pub. L. 115–91, div. A, title XVII, § 1711, Dec. 12, 2017, 131 Stat. 1811, as amended by Pub. L. 116–283, div. A, title II, § 213(c), Jan. 1, 2021, 134 Stat. 3457, provided that:
+Pub. L. 115–91, div. A, title XVII, § 1711, Dec. 12, 2017, 131 Stat. 1811, as amended by Pub. L. 116–283, div. A, title II, § 213(c), Jan. 1, 2021, 134 Stat. 3457, provided that:
 
 > **“(a) Pilot Program Required.—** The Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of increasing the capability of the defense industrial base and the defense innovation base to support—
 
@@ -2241,7 +2241,7 @@ Pub. L. 115–91, div. A, title XVII, § 1711, Dec. 12, 2017, 131 Stat. 1811, 
 
 > **“(e) Briefing Required.—** No later than January 31, 2027, the Secretary of Defense shall provide a briefing to the Committees on Armed Services in the Senate and the House of Representatives on the results of the pilot program.”
 
-## § 4817. Industrial Base Fund
+## § 4817. Industrial Base Fund
 
 **(a) Establishment.—** The Secretary of Defense shall establish an Industrial Base Fund (in this section referred to as the “Fund”).
 
@@ -2461,11 +2461,11 @@ Pub. L. 115–91, div. A, title XVII, § 1711, Dec. 12, 2017, 131 Stat. 1811, 
 
 **(4)** The term “strategic and critical materials” has the meaning given that term in section 12(1) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–3(1)).
 
-(Added Pub. L. 111–383, div. A, title VIII, § 896(b)(1), Jan. 7, 2011, 124 Stat. 4315, § 2508; amended Pub. L. 115–91, div. A, title X, § 1081(g)(1), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title IX, § 902(75), Dec. 20, 2019, 133 Stat. 1552; renumbered § 4817, Pub. L. 116–283, div. A, title XVIII, § 1867(b), Jan. 1, 2021, 134 Stat. 4281; Pub. L. 116–283, div. A, title XVIII, § 1867(d)(7), as added Pub. L. 117–81, div. A, title XVII, § 1701(b)(22)(C), Dec. 27, 2021, 135 Stat. 2135; Pub. L. 119–60, div. A, title VIII, § 867(a), (d)(1), Dec. 18, 2025, 139 Stat. 996, 1002.)
+(Added Pub. L. 111–383, div. A, title VIII, § 896(b)(1), Jan. 7, 2011, 124 Stat. 4315, § 2508; amended Pub. L. 115–91, div. A, title X, § 1081(g)(1), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title IX, § 902(75), Dec. 20, 2019, 133 Stat. 1552; renumbered § 4817, Pub. L. 116–283, div. A, title XVIII, § 1867(b), Jan. 1, 2021, 134 Stat. 4281; Pub. L. 116–283, div. A, title XVIII, § 1867(d)(7), as added Pub. L. 117–81, div. A, title XVII, § 1701(b)(22)(C), Dec. 27, 2021, 135 Stat. 2135; Pub. L. 119–60, div. A, title VIII, § 867(a), (d)(1), Dec. 18, 2025, 139 Stat. 996, 1002.)
 
 **Amendment of Section**
 
-Pub. L. 119–60, div. A, title VIII, § 867(d)(1), Dec. 18, 2025, 139 Stat. 996, 1002, provided that effective Dec. 31, 2035, subsections (g) to (m) of this section, as added by section 867(a) of Pub. L. 119–60, are repealed. See 2025 Amendment notes below.
+Pub. L. 119–60, div. A, title VIII, § 867(d)(1), Dec. 18, 2025, 139 Stat. 996, 1002, provided that effective Dec. 31, 2035, subsections (g) to (m) of this section, as added by section 867(a) of Pub. L. 119–60, are repealed. See 2025 Amendment notes below.
 
 **Editorial Notes**
 
@@ -2473,29 +2473,29 @@ Pub. L. 119–60, div. A, title VIII, § 867(d)(1), Dec. 18, 2025, 139 Stat. 9
 
 The date of the enactment of this subsection, referred to in subsec. (h)(3), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
 
-The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (i)(5), is act June 7, 1939, ch. 190, as added Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
+The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (i)(5), is act June 7, 1939, ch. 190, as added Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2026, referred to in subsec. (*l*), is the date of enactment of Pub. L. 119–60, which was approved Dec. 18, 2025.
 
 **Amendments**
 
-2025—Subsecs. (g) to (m). Pub. L. 119–60, § 867(d)(1), struck out subsecs. (g) to (m), which related to eligible uses of authorities, grants and other incentives for domestic industrial base capabilities, Defense Industrial Base Purchase Commitment Program, strengthening domestic productive capacity, annual report, coordination with other defense industrial base activities, and definitions, respectively. See Termination Date of 2025 Amendment note below.
+2025—Subsecs. (g) to (m). Pub. L. 119–60, § 867(d)(1), struck out subsecs. (g) to (m), which related to eligible uses of authorities, grants and other incentives for domestic industrial base capabilities, Defense Industrial Base Purchase Commitment Program, strengthening domestic productive capacity, annual report, coordination with other defense industrial base activities, and definitions, respectively. See Termination Date of 2025 Amendment note below.
 
-Pub. L. 119–60, § 867(a), added subsecs. (g) to (m).
+Pub. L. 119–60, § 867(a), added subsecs. (g) to (m).
 
 2021—Pub. L. 116–283 renumbered section 2508 of this title as this section.
 
-Subsec. (d)(1). Pub. L. 116–283, § 1867(d)(7), as added by Pub. L. 117–81, § 1701(b)(22)(C), substituted “chapters 381 through 385 and chapter 389” for “this chapter”.
+Subsec. (d)(1). Pub. L. 116–283, § 1867(d)(7), as added by Pub. L. 117–81, § 1701(b)(22)(C), substituted “chapters 381 through 385 and chapter 389” for “this chapter”.
 
 2019—Subsec. (b). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
-2017—Pub. L. 115–91, § 1081(g)(1), made technical amendment to directory language of Pub. L. 111–383, § 896(b)(1), which added this section.
+2017—Pub. L. 115–91, § 1081(g)(1), made technical amendment to directory language of Pub. L. 111–383, § 896(b)(1), which added this section.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Termination Date of 2025 Amendment**
 
-Pub. L. 119–60, div. A, title VIII, § 867(d)(1), Dec. 18, 2025, 139 Stat. 1002, provided that effective Dec. 31, 2035, section 4817 of this title is amended by striking out subsecs. (g) to (m).
+Pub. L. 119–60, div. A, title VIII, § 867(d)(1), Dec. 18, 2025, 139 Stat. 1002, provided that effective Dec. 31, 2035, section 4817 of this title is amended by striking out subsecs. (g) to (m).
 
 **Effective Date of 2021 Amendment**
 
@@ -2505,9 +2505,9 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title X, § 1081(g), Dec. 12, 2017, 131 Stat. 1601, provided that the amendment made by section 1081(g)(1) is effective as of Jan. 7, 2011, and as if included in Pub. L. 111–383 as enacted.
+Pub. L. 115–91, div. A, title X, § 1081(g), Dec. 12, 2017, 131 Stat. 1601, provided that the amendment made by section 1081(g)(1) is effective as of Jan. 7, 2011, and as if included in Pub. L. 111–383 as enacted.
 
-## § 4818. Data collection authority of President
+## § 4818. Data collection authority of President
 
 **(a) Authority.—** The President shall be entitled, by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President’s discretion, to the enforcement or the administration of chapters 381 through 385 and chapter 389 and the regulations issued under such chapters.
 
@@ -2525,15 +2525,15 @@ Pub. L. 115–91, div. A, title X, § 1081(g), Dec. 12, 2017, 131 Stat. 1601, 
 
 **(2)** The term “national defense” means programs for military and atomic energy production or construction, military assistance to any foreign nation, stockpiling, space, and directly related activity.
 
-(Added Pub. L. 102–484, div. D, title XLII, § 4217, Oct. 23, 1992, 106 Stat. 2670, § 2507; amended Pub. L. 103–160, div. A, title XI, § 1182(b)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 109–163, div. A, title X, § 1056(c)(5), Jan. 6, 2006, 119 Stat. 3439; renumbered § 4818 and amended Pub. L. 116–283, div. A, title XVIII, § 1867(b), (d)(5), Jan. 1, 2021, 134 Stat. 4281, 4282; Pub. L. 117–81, div. A, title XVII, § 1701(b)(22)(B), Dec. 27, 2021, 135 Stat. 2135.)
+(Added Pub. L. 102–484, div. D, title XLII, § 4217, Oct. 23, 1992, 106 Stat. 2670, § 2507; amended Pub. L. 103–160, div. A, title XI, § 1182(b)(1), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 109–163, div. A, title X, § 1056(c)(5), Jan. 6, 2006, 119 Stat. 3439; renumbered § 4818 and amended Pub. L. 116–283, div. A, title XVIII, § 1867(b), (d)(5), Jan. 1, 2021, 134 Stat. 4281, 4282; Pub. L. 117–81, div. A, title XVII, § 1701(b)(22)(B), Dec. 27, 2021, 135 Stat. 2135.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1867(b), renumbered section 2507 of this title as this section.
+2021—Pub. L. 116–283, § 1867(b), renumbered section 2507 of this title as this section.
 
-Subsec. (a). Pub. L. 116–283, § 1867(d)(5), as amended by Pub. L. 117–81, § 1701(b)(22)(B), substituted “of chapters 381 through 385 and chapter 389” for “of this chapter” and “under such chapters” for “under this chapter”.
+Subsec. (a). Pub. L. 116–283, § 1867(d)(5), as amended by Pub. L. 117–81, § 1701(b)(22)(B), substituted “of chapters 381 through 385 and chapter 389” for “of this chapter” and “under such chapters” for “under this chapter”.
 
 2006—Subsec. (d). Pub. L. 109–163 substituted “subsection (a)” for “section (a)”.
 
@@ -2547,7 +2547,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## § 4819. Modernization of acquisition processes to ensure integrity of industrial base
+## § 4819. Modernization of acquisition processes to ensure integrity of industrial base
 
 **(a) Digitization and Modernization.—** The Secretary of Defense shall streamline and digitize the Department of Defense approach for identifying and mitigating risks to the defense industrial base.
 
@@ -2643,9 +2643,9 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(v)** the Manufacturing Technology Program established under sections 4841 and 4842 of this title;
 
-**(vi)** programs relating to the Defense Production Act of 1950 (50 U.S.C. 4511 1
+**(vi)** programs relating to the Defense Production Act of 1950 (50 U.S.C. 4511 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 et seq.); and
 
@@ -2715,79 +2715,79 @@ et seq.); and
 
 **(f) Rule of Construction.—** Nothing in this section shall be construed to limit or modify any other procurement policy, procedure, requirement, or restriction provided by law.
 
-(Added Pub. L. 116–92, div. A, title VIII, § 845(a), Dec. 20, 2019, 133 Stat. 1500, § 2509; renumbered § 4819 and amended Pub. L. 116–283, div. A, title VIII, § 843(a), title XVIII, §§ 1867(b), (d)(6), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3765, 4281, 4282, 4294; Pub. L. 117–81, div. A, title VIII, § 841, title XVII, § 1701(d)(16), Dec. 27, 2021, 135 Stat. 1839, 2137.)
+(Added Pub. L. 116–92, div. A, title VIII, § 845(a), Dec. 20, 2019, 133 Stat. 1500, § 2509; renumbered § 4819 and amended Pub. L. 116–283, div. A, title VIII, § 843(a), title XVIII, §§ 1867(b), (d)(6), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3765, 4281, 4282, 4294; Pub. L. 117–81, div. A, title VIII, § 841, title XVII, § 1701(d)(16), Dec. 27, 2021, 135 Stat. 1839, 2137.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Defense Production Act of 1950 (50 U.S.C. 4511 et seq.), referred to in subsec. (c)(2)(E)(vi), probably means act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified principally to chapter 55 (§ 4501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 4501 of Title 50 and Tables.
+The Defense Production Act of 1950 (50 U.S.C. 4511 et seq.), referred to in subsec. (c)(2)(E)(vi), probably means act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified principally to chapter 55 (§ 4501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 4501 of Title 50 and Tables.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1867(b), renumbered section 2509 of this title as this section.
+2021—Pub. L. 116–283, § 1867(b), renumbered section 2509 of this title as this section.
 
-Subsec. (a). Pub. L. 117–81, § 841(1), struck out “existing” before “Department of Defense approach” and “across the acquisition process, creating a continuous model that uses digital tools, technologies, and approaches designed to ensure the accessibility of data to key decision-makers in the Department” before period at end.
+Subsec. (a). Pub. L. 117–81, § 841(1), struck out “existing” before “Department of Defense approach” and “across the acquisition process, creating a continuous model that uses digital tools, technologies, and approaches designed to ensure the accessibility of data to key decision-makers in the Department” before period at end.
 
-Subsec. (b). Pub. L. 117–81, § 841(4), added subsec. (b). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 117–81, § 841(4), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(2)(A). Pub. L. 116–283, § 843(a)(1)(A)(i), inserted “such as those identified through the supply chain risk management process of the Department and by the Federal Acquisition Security Council, and” after “supply chain risks,” in introductory provisions.
+Subsec. (b)(2)(A). Pub. L. 116–283, § 843(a)(1)(A)(i), inserted “such as those identified through the supply chain risk management process of the Department and by the Federal Acquisition Security Council, and” after “supply chain risks,” in introductory provisions.
 
-Subsec. (b)(2)(A)(ii). Pub. L. 116–283, § 843(a)(1)(A)(ii), struck out “(other than optical transmission components)” after “equipment”.
+Subsec. (b)(2)(A)(ii). Pub. L. 116–283, § 843(a)(1)(A)(ii), struck out “(other than optical transmission components)” after “equipment”.
 
-Subsec. (b)(2)(C)(xi). Pub. L. 117–81, § 1701(d)(16)(A), which directed the substitution of “section 3252” for “section 2339a”, could not be executed as directed because “section 2339a” did not appear in subsec. (b)(2)(C)(xi) after the intervening redesignation of subsec. (b) of this section as subsec. (c) by Pub. L. 117–81, § 841(3), and could not be executed in subsec. (c)(2)(C)(xi) as redesignated to reflect the probable intent of Congress, because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2), which had already made that substitution. See notes below.
+Subsec. (b)(2)(C)(xi). Pub. L. 117–81, § 1701(d)(16)(A), which directed the substitution of “section 3252” for “section 2339a”, could not be executed as directed because “section 2339a” did not appear in subsec. (b)(2)(C)(xi) after the intervening redesignation of subsec. (b) of this section as subsec. (c) by Pub. L. 117–81, § 841(3), and could not be executed in subsec. (c)(2)(C)(xi) as redesignated to reflect the probable intent of Congress, because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2), which had already made that substitution. See notes below.
 
-Pub. L. 116–283, § 843(a)(1)(B), added cl. (xi). Former cl. (xi) redesignated (xii).
+Pub. L. 116–283, § 843(a)(1)(B), added cl. (xi). Former cl. (xi) redesignated (xii).
 
-Subsec. (b)(2)(C)(xii). Pub. L. 116–283, § 843(a)(1)(B)(ii), redesignated cl. (xi) as (xii).
+Subsec. (b)(2)(C)(xii). Pub. L. 116–283, § 843(a)(1)(B)(ii), redesignated cl. (xi) as (xii).
 
-Subsec. (b)(2)(E). Pub. L. 116–283, § 843(a)(1)(C), added subpar. (E).
+Subsec. (b)(2)(E). Pub. L. 116–283, § 843(a)(1)(C), added subpar. (E).
 
-Subsec. (b)(2)(E)(ii). Pub. L. 117–81, § 1701(d)(16)(B)(ii), which directed the substitution of “section 4862” for “section 2533a”, could not be executed as directed because “section 2533a” did not appear in subsec. (b)(2)(E)(ii) after the intervening redesignation of subsec. (b) of this section as subsec. (c) by Pub. L. 117–81, § 841(3), and could not be executed in subsec. (c)(2)(E)(ii) as redesignated because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2), which had already made that substitution. See notes below.
+Subsec. (b)(2)(E)(ii). Pub. L. 117–81, § 1701(d)(16)(B)(ii), which directed the substitution of “section 4862” for “section 2533a”, could not be executed as directed because “section 2533a” did not appear in subsec. (b)(2)(E)(ii) after the intervening redesignation of subsec. (b) of this section as subsec. (c) by Pub. L. 117–81, § 841(3), and could not be executed in subsec. (c)(2)(E)(ii) as redesignated because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2), which had already made that substitution. See notes below.
 
-Subsec. (c). Pub. L. 117–81, § 841(3), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 117–81, § 841(3), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1). Pub. L. 117–81, § 841(5)(A), inserted “in implementing subsections (a) and (b)” before period at end.
+Subsec. (c)(1). Pub. L. 117–81, § 841(5)(A), inserted “in implementing subsections (a) and (b)” before period at end.
 
-Subsec. (c)(2)(A)(viii). Pub. L. 117–81, § 841(5)(B)(i), inserted “by the Secretary of Defense” before period at end.
+Subsec. (c)(2)(A)(viii). Pub. L. 117–81, § 841(5)(B)(i), inserted “by the Secretary of Defense” before period at end.
 
-Subsec. (c)(2)(B). Pub. L. 117–81, § 841(5)(B)(ii)(I), substituted “constitutes or may constitute” for “constitute” in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 117–81, § 841(5)(B)(ii)(I), substituted “constitutes or may constitute” for “constitute” in introductory provisions.
 
-Subsec. (c)(2)(B)(vii). Pub. L. 117–81, § 841(5)(B)(ii)(II), inserted “by the Secretary of Defense” before period at end.
+Subsec. (c)(2)(B)(vii). Pub. L. 117–81, § 841(5)(B)(ii)(II), inserted “by the Secretary of Defense” before period at end.
 
-Subsec. (c)(2)(C)(xi). Pub. L. 116–283, § 1883(b)(2), substituted “section 3252” for “section 2339a”.
+Subsec. (c)(2)(C)(xi). Pub. L. 116–283, § 1883(b)(2), substituted “section 3252” for “section 2339a”.
 
-Subsec. (c)(2)(E)(i). Pub. L. 117–81, § 1701(d)(16)(B)(i), which directed amendment of subsec. (b)(2)(E)(i) by striking out “(as defined in section 2500(1) of this title)”, was executed by striking out “(as defined in section 4801(1) of this title)” before semicolon at end of subsec. (c)(2)(E)(i) to reflect the probable intent of Congress and the intervening amendments by Pub. L. 116–283, § 1883(b)(2), and Pub. L. 117–81, § 841(3). See notes above and below.
+Subsec. (c)(2)(E)(i). Pub. L. 117–81, § 1701(d)(16)(B)(i), which directed amendment of subsec. (b)(2)(E)(i) by striking out “(as defined in section 2500(1) of this title)”, was executed by striking out “(as defined in section 4801(1) of this title)” before semicolon at end of subsec. (c)(2)(E)(i) to reflect the probable intent of Congress and the intervening amendments by Pub. L. 116–283, § 1883(b)(2), and Pub. L. 117–81, § 841(3). See notes above and below.
 
-Pub. L. 116–283, § 1883(b)(2), substituted “section 4801(1)” for “section 2500(1)”.
+Pub. L. 116–283, § 1883(b)(2), substituted “section 4801(1)” for “section 2500(1)”.
 
-Subsec. (c)(2)(E)(ii). Pub. L. 116–283, § 1883(b)(2), substituted “section 4862” for “section 2533a”.
+Subsec. (c)(2)(E)(ii). Pub. L. 116–283, § 1883(b)(2), substituted “section 4862” for “section 2533a”.
 
-Subsec. (c)(2)(E)(v). Pub. L. 117–81, § 1701(d)(16)(B)(iii), which directed the amendment of subsec. (b)(2)(E)(v) of this section by substituting “sections 4841 and 4842” for “section 2521”, was executed to subsec. (c)(2)(E)(v) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–81, § 841(3). See note above.
+Subsec. (c)(2)(E)(v). Pub. L. 117–81, § 1701(d)(16)(B)(iii), which directed the amendment of subsec. (b)(2)(E)(v) of this section by substituting “sections 4841 and 4842” for “section 2521”, was executed to subsec. (c)(2)(E)(v) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–81, § 841(3). See note above.
 
-Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed by substituting “section 4841” for “section 2521”, to reflect the probable intent of Congress and execution of the subsequent amendment by section 1701(d)(16)(B)(iii) of Pub. L. 117–81 specifically directing the substitution of “sections 4841 and 4842” for “section 2521”. See note above. Although section 2521 of this title was redesignated as section 4841, subsec. (e) of section 4841 was transferred to become the text of section 4842 immediately thereafter.
+Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed by substituting “section 4841” for “section 2521”, to reflect the probable intent of Congress and execution of the subsequent amendment by section 1701(d)(16)(B)(iii) of Pub. L. 117–81 specifically directing the substitution of “sections 4841 and 4842” for “section 2521”. See note above. Although section 2521 of this title was redesignated as section 4841, subsec. (e) of section 4841 was transferred to become the text of section 4842 immediately thereafter.
 
-Subsec. (d). Pub. L. 117–81, § 841(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 117–81, § 841(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(11). Pub. L. 117–81, § 841(6), inserted “as deemed appropriate by the Secretary” before period at end.
+Subsec. (d)(11). Pub. L. 117–81, § 841(6), inserted “as deemed appropriate by the Secretary” before period at end.
 
-Subsec. (e). Pub. L. 117–81, § 841(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 117–81, § 841(3), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1)(A). Pub. L. 117–81, § 841(7)(A)(i), struck out “timely” before “maintaining valid and reliable data”.
+Subsec. (e)(1)(A). Pub. L. 117–81, § 841(7)(A)(i), struck out “timely” before “maintaining valid and reliable data”.
 
-Subsec. (e)(1)(B)(ii). Pub. L. 117–81, § 841(7)(A)(ii)(I), added cl. (ii) and struck out former cl. (ii) which read as follows: “A description of the modern data infrastructure, tools, and applications and what changes would improve the effectiveness and efficiency of mitigating the risks described in subsection (b)(2).”
+Subsec. (e)(1)(B)(ii). Pub. L. 117–81, § 841(7)(A)(ii)(I), added cl. (ii) and struck out former cl. (ii) which read as follows: “A description of the modern data infrastructure, tools, and applications and what changes would improve the effectiveness and efficiency of mitigating the risks described in subsection (b)(2).”
 
-Subsec. (e)(1)(B)(iii). Pub. L. 117–81, § 841(7)(A)(ii)(II), inserted “, including the following” before colon at end of introductory provisions.
+Subsec. (e)(1)(B)(iii). Pub. L. 117–81, § 841(7)(A)(ii)(II), inserted “, including the following” before colon at end of introductory provisions.
 
-Subsec. (e)(2). Pub. L. 117–81, § 841(7)(B), added par. (2) and struck out former par. (2) which related to Secretary of Defense’s development of unified set of activities to modernize systems of record, data sources and collection methods, and data exposure mechanisms.
+Subsec. (e)(2). Pub. L. 117–81, § 841(7)(B), added par. (2) and struck out former par. (2) which related to Secretary of Defense’s development of unified set of activities to modernize systems of record, data sources and collection methods, and data exposure mechanisms.
 
-Subsec. (f). Pub. L. 117–81, § 841(2), (3), redesignated subsec. (e) as (f) and struck out former subsec. (f) which related to implementation and reporting requirements.
+Subsec. (f). Pub. L. 117–81, § 841(2), (3), redesignated subsec. (e) as (f) and struck out former subsec. (f) which related to implementation and reporting requirements.
 
-Subsec. (f)(1)(A). Pub. L. 116–283, § 1867(d)(6), which directed the substitution of “section 3252(c)” for “section 2339a(e)”, could not be executed because of the prior repeal of subsec. (f) by Pub. L. 117–81, § 841(2). See note above.
+Subsec. (f)(1)(A). Pub. L. 116–283, § 1867(d)(6), which directed the substitution of “section 3252(c)” for “section 2339a(e)”, could not be executed because of the prior repeal of subsec. (f) by Pub. L. 117–81, § 841(2). See note above.
 
-Subsec. (f)(2). Pub. L. 116–283, § 843(a)(2), inserted “, and supporting policies, procedures, and guidance relating to such actions” after “subsection (b)”.
+Subsec. (f)(2). Pub. L. 116–283, § 843(a)(2), inserted “, and supporting policies, procedures, and guidance relating to such actions” after “subsection (b)”.
 
-Subsec. (g). Pub. L. 117–81, § 841(2), struck out subsec. (g) which related to briefing and periodic assessments of reviews by Comptroller General.
+Subsec. (g). Pub. L. 117–81, § 841(2), struck out subsec. (g) which related to briefing and periodic assessments of reviews by Comptroller General.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2799,7 +2799,7 @@ Amendment by sections 1867(b), (d)(6) and 1883(b)(2) of Pub. L. 116–283 effect
 
 **Cybersecurity Regulatory Harmonization**
 
-Pub. L. 119–60, div. A, title VIII, § 866(a), (b), Dec. 18, 2025, 139 Stat. 995, provided that:
+Pub. L. 119–60, div. A, title VIII, § 866(a), (b), Dec. 18, 2025, 139 Stat. 995, provided that:
 
 > **“(a) In General.—** Not later than June 1, 2026, the Secretary of Defense, in coordination with the Chief Information Officer of the Department of Defense, the Chief Information Officer of each military department, and representatives from the service acquisition executives of each military department, shall—
 
@@ -2819,7 +2819,7 @@ Pub. L. 119–60, div. A, title VIII, § 866(a), (b), Dec. 18, 2025, 139 Stat.
 
 **Mitigating Risks Related to Foreign Ownership, Control, or Influence of Department of Defense Contractors or Subcontractors**
 
-Pub. L. 116–283, div. A, title VIII, § 819(c), Jan. 1, 2021, 134 Stat. 3752, provided that:
+Pub. L. 116–283, div. A, title VIII, § 819(c), Jan. 1, 2021, 134 Stat. 3752, provided that:
 
 > **“(1) Implementation plan.—** Not later than March 1, 2021, the Secretary of Defense shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan and schedule for implementation of the requirements of section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; 10 U.S.C. 2509 note [now 10 U.S.C. 4819 note]) [set out below], as amended by this section, including—
 
@@ -2833,7 +2833,7 @@ Pub. L. 116–283, div. A, title VIII, § 819(c), Jan. 1, 2021, 134 Stat. 3752
 
 > **“(3) Definitions.—** In this subsection, the term ‘beneficial ownership’, ‘FOCI’, and ‘covered contractors or subcontractors’ have the meanings given, respectively, in section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; 10 U.S.C. 2509 note [now 10 U.S.C. 4819 note]).”
 
-Pub. L. 116–92, div. A, title VIII, § 847, Dec. 20, 2019, 133 Stat. 1505, as amended by Pub. L. 116–283, div. A, title VIII, § 819(a), (b), (d), Jan. 1, 2021, 134 Stat. 3751, 3752, provided that:
+Pub. L. 116–92, div. A, title VIII, § 847, Dec. 20, 2019, 133 Stat. 1505, as amended by Pub. L. 116–283, div. A, title VIII, § 819(a), (b), (d), Jan. 1, 2021, 134 Stat. 3751, 3752, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -2905,13 +2905,13 @@ Pub. L. 116–92, div. A, title VIII, § 847, Dec. 20, 2019, 133 Stat. 1505, a
 
 > **“(C)** made available to appropriate government departments or agencies.”
 
-## § 4820. National technology and industrial base plans, policy, and guidance
+## § 4820. National technology and industrial base plans, policy, and guidance
 
 **(a) In General.—** The Secretary of Defense shall prescribe regulations requiring consideration of the national technology and industrial base, in accordance with the strategy required by section 4811 of this title, in the development and implementation of acquisition plans for each major defense acquisition program.
 
 **(b) Acquisition Policy and Guidance.—** The Secretary of Defense shall develop and promulgate acquisition policy and guidance to the service acquisition executives, the heads of the appropriate Defense Agencies and Department of Defense Field Activities, and relevant program managers. Such policy and guidance shall be germane to the use of the research and development, manufacturing, and production capabilities identified pursuant to chapters 381 through 385 and chapter 389 of this title and the technologies, companies, laboratories, and factories in specific Department of Defense research and development, international cooperative research, procurement, and sustainment activities.
 
-(Added Pub. L. 102–484, div. D, title XLII, § 4216(b)(1), Oct. 23, 1992, 106 Stat. 2669, § 2440; amended Pub. L. 109–364, div. A, title X, § 1071(a)(17), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–239, div. A, title XVI, § 1603(c), Jan. 2, 2013, 126 Stat. 2063; Pub. L. 116–283, div. A, title VIII, § 846(b)(1), title XVIII, § 1847(b)(2)(A), Jan. 1, 2021, 134 Stat. 3768, 4253; renumbered § 4820 and amended Pub. L. 117–81, div. A, title XVII, § 1701(s)(1)(A), (2)(A), (C), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(36), Dec. 22, 2023, 137 Stat. 685.)
+(Added Pub. L. 102–484, div. D, title XLII, § 4216(b)(1), Oct. 23, 1992, 106 Stat. 2669, § 2440; amended Pub. L. 109–364, div. A, title X, § 1071(a)(17), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–239, div. A, title XVI, § 1603(c), Jan. 2, 2013, 126 Stat. 2063; Pub. L. 116–283, div. A, title VIII, § 846(b)(1), title XVIII, § 1847(b)(2)(A), Jan. 1, 2021, 134 Stat. 3768, 4253; renumbered § 4820 and amended Pub. L. 117–81, div. A, title XVII, § 1701(s)(1)(A), (2)(A), (C), Dec. 27, 2021, 135 Stat. 2149; Pub. L. 118–31, div. A, title XVIII, § 1801(a)(36), Dec. 22, 2023, 137 Stat. 685.)
 
 **Editorial Notes**
 
@@ -2923,19 +2923,19 @@ Amendments made by section 1701(s)(2)(A), (C) of Pub. L. 117–81 were directed 
 
 2023—Subsec. (b). Pub. L. 118–31 substituted “chapters 381 through 385 and chapter 389 of this title” for “subchapters 381 through 385 and subchapter 389 of this title”.
 
-2021—Pub. L. 117–81, § 1701(s)(2)(A), renumbered section 2440 of this title as this section. See Codification note above.
+2021—Pub. L. 117–81, § 1701(s)(2)(A), renumbered section 2440 of this title as this section. See Codification note above.
 
-Pub. L. 116–283, § 1847(b)(2)(A), which directed transfer of the text of section 2440 of this title to section 4211(c)(3) of this title instead of this section, was repealed by Pub. L. 117–81, § 1701(s)(1)(A).
+Pub. L. 116–283, § 1847(b)(2)(A), which directed transfer of the text of section 2440 of this title to section 4211(c)(3) of this title instead of this section, was repealed by Pub. L. 117–81, § 1701(s)(1)(A).
 
-Pub. L. 116–283, § 846(b)(1)(B), (C), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+Pub. L. 116–283, § 846(b)(1)(B), (C), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-Pub. L. 116–283, § 846(b)(1)(A), amended section catchline generally. Prior to amendment, section catchline read as follows: “Technology and industrial base plans”.
+Pub. L. 116–283, § 846(b)(1)(A), amended section catchline generally. Prior to amendment, section catchline read as follows: “Technology and industrial base plans”.
 
-Subsec. (a). Pub. L. 117–81, § 1701(s)(2)(C)(i), substituted “section 4811” for “section 2501”. See Codification note above.
+Subsec. (a). Pub. L. 117–81, § 1701(s)(2)(C)(i), substituted “section 4811” for “section 2501”. See Codification note above.
 
-Subsec. (b). Pub. L. 117–81, § 1701(s)(2)(C)(ii), substituted “subchapters 381 through 385 and subchapter 389” for “chapter 148”. See Codification note above.
+Subsec. (b). Pub. L. 117–81, § 1701(s)(2)(C)(ii), substituted “subchapters 381 through 385 and subchapter 389” for “chapter 148”. See Codification note above.
 
-2013—Pub. L. 112–239 inserted “, in accordance with the strategy required by section 2501 of this title,” after “base”.
+2013—Pub. L. 112–239 inserted “, in accordance with the strategy required by section 2501 of this title,” after “base”.
 
 2006—Pub. L. 109–364 substituted “industrial base plans” for “Industrial Base Plans” in section catchline.
 

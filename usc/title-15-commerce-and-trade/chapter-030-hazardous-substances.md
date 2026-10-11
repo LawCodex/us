@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 30—HAZARDOUS SUBSTANCES
 
-## § 1261. Definitions
+## § 1261. Definitions
 
 For the purposes of this chapter—
 
@@ -25,7 +25,7 @@ For the purposes of this chapter—
 
 **(c)** The term “Commission” means the Consumer Product Safety Commission.
 
-**(d)** Repealed. Pub. L. 110–314, title II, § 204(b)(4)(A), Aug. 14, 2008, 122 Stat. 3041
+**(d)** Repealed. Pub. L. 110–314, title II, § 204(b)(4)(A), Aug. 14, 2008, 122 Stat. 3041
 
 **(e)** The term “person” includes an individual, partnership, corporation, and association.
 
@@ -83,9 +83,9 @@ For the purposes of this chapter—
 
 **(2)** on which any statements required under subparagraph (1) of this paragraph are located prominently and are in the English language in conspicuous and legible type in contrast by typography, layout, or color with other printed matter on the label.
 
-The term “misbranded hazardous substance” also includes a household substance as defined in section 1471(2)(D) 1
+The term “misbranded hazardous substance” also includes a household substance as defined in section 1471(2)(D) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title if it is a substance described in paragraph (1) of subsection (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
 
@@ -101,7 +101,7 @@ of this title if it is a substance described in paragraph (1) of subsection (f) 
 
 **(t)** An article may be determined to present a thermal hazard if, in normal use or when subjected to reasonably foreseeable damage or abuse, its design or manufacture presents an unreasonable risk of personal injury or illness because of heat as from heated parts, substances, or surfaces.
 
-(Pub. L. 86–613, § 2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§ 2(a)–(c), 3(a), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §§ 2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, § 6(a), formerly § 7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, § 1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, § 3(1), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–284, § 3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, § 9, Nov. 10, 1978, 92 Stat. 3747; Pub. L. 99–339, title I, § 109(d)(1), June 19, 1986, 100 Stat. 653; Pub. L. 110–314, title II, § 204(b)(2), (4)(A), (B), (D), Aug. 14, 2008, 122 Stat. 3041, 3042.)
+(Pub. L. 86–613, § 2, July 12, 1960, 74 Stat. 372; Pub. L. 89–756, §§ 2(a)–(c), 3(a), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, §§ 2(a), (c), (d), 3, Nov. 6, 1969, 83 Stat. 187–189; Pub. L. 91–601, § 6(a), formerly § 7(a), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, § 1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 92–516, § 3(1), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–284, § 3(c), May 11, 1976, 90 Stat. 503; Pub. L. 95–631, § 9, Nov. 10, 1978, 92 Stat. 3747; Pub. L. 99–339, title I, § 109(d)(1), June 19, 1986, 100 Stat. 653; Pub. L. 110–314, title II, § 204(b)(2), (4)(A), (B), (D), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
 **Editorial Notes**
 
@@ -111,25 +111,25 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (f)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (f)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (f)(3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsec. (f)(3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-Section 1471(2)(D) of this title, referred to in subsec. (p), was redesignated section 1471(2)(C) by Pub. L. 94–284, § 3(a)(2), May 11, 1976, 90 Stat. 503.
+Section 1471(2)(D) of this title, referred to in subsec. (p), was redesignated section 1471(2)(C) by Pub. L. 94–284, § 3(a)(2), May 11, 1976, 90 Stat. 503.
 
 **Amendments**
 
-2008—Subsec. (c). Pub. L. 110–314, § 204(b)(4)(A), added subsec. (c) and struck out former subsec. (c) which read as follows: “The term ‘Department’ means the Department of Health, Education, and Welfare.”
+2008—Subsec. (c). Pub. L. 110–314, § 204(b)(4)(A), added subsec. (c) and struck out former subsec. (c) which read as follows: “The term ‘Department’ means the Department of Health, Education, and Welfare.”
 
-Subsec. (d). Pub. L. 110–314, § 204(b)(4)(A), struck out subsec. (d) which read as follows: “The term ‘Secretary’ means the Secretary of Health, Education, and Welfare.”
+Subsec. (d). Pub. L. 110–314, § 204(b)(4)(A), struck out subsec. (d) which read as follows: “The term ‘Secretary’ means the Secretary of Health, Education, and Welfare.”
 
-Subsecs. (f)(1)(B) to (D), (h)(2), (k), (p)(1). Pub. L. 110–314, § 204(b)(4)(B), substituted “Commission” for “Secretary” wherever appearing.
+Subsecs. (f)(1)(B) to (D), (h)(2), (k), (p)(1). Pub. L. 110–314, § 204(b)(4)(B), substituted “Commission” for “Secretary” wherever appearing.
 
-Subsec. (q). Pub. L. 110–314, § 204(b)(4)(B), (D), substituted “Commission” for “Secretary” wherever appearing and “it” for “he” in two places.
+Subsec. (q). Pub. L. 110–314, § 204(b)(4)(B), (D), substituted “Commission” for “Secretary” wherever appearing and “it” for “he” in two places.
 
-Subsec. (q)(2). Pub. L. 110–314, § 204(b)(2), substituted “Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of subparagraph (1) of this paragraph shall be governed by the provisions of subsections (f) through (i) of section 1262 of this title, except that if” for “Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of paragraph (1) of this subsection shall be governed by the provisions of sections 371(e), (f), and (g) of title 21: *Provided*, That if”.
+Subsec. (q)(2). Pub. L. 110–314, § 204(b)(2), substituted “Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of subparagraph (1) of this paragraph shall be governed by the provisions of subsections (f) through (i) of section 1262 of this title, except that if” for “Proceedings for the issuance, amendment, or repeal of regulations pursuant to clause (B) of paragraph (1) of this subsection shall be governed by the provisions of sections 371(e), (f), and (g) of title 21: *Provided*, That if”.
 
 1986—Subsec. (f)(1)(E). Pub. L. 99–339 added subpar. (E).
 
@@ -141,31 +141,31 @@ Subsec. (q)(2). Pub. L. 110–314, § 204(b)(2), substituted “Proceedings fo
 
 1970—Subsec. (p). Pub. L. 91–601 substituted in text preceding par. (1) “if the packaging or labeling of such substance is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title or if such substance” for “which substance” and inserted following and below par. (2) provision including in “misbranded hazardous substance” a household substance as defined in section 1471(2)(D) of this title if it is a substance described in par. (1) of subsec. (f) of this section and its packaging or labeling is in violation of an applicable regulation issued pursuant to section 1472 or 1473 of this title.
 
-1969—Subsec. (f)(1)(A). Pub. L. 91–113, § 3(a), inserted “or combustible” after “is flammable”.
+1969—Subsec. (f)(1)(A). Pub. L. 91–113, § 3(a), inserted “or combustible” after “is flammable”.
 
-Subsec. (f)(1)(D). Pub. L. 91–113, § 2(a), added subsec. (f)(1)(D).
+Subsec. (f)(1)(D). Pub. L. 91–113, § 2(a), added subsec. (f)(1)(D).
 
-Subsec. (*l*). Pub. L. 91–113, § 3(b), inserted definition of term “combustible” and expanded references to “flammability” and “flammable” to include “combustibility” and “combustible”, respectively.
+Subsec. (*l*). Pub. L. 91–113, § 3(b), inserted definition of term “combustible” and expanded references to “flammability” and “flammable” to include “combustibility” and “combustible”, respectively.
 
-Subsec. (p)(1)(E). Pub. L. 91–113, § 3(c), inserted “Combustible” to the enumerated affirmative statements of the principal hazard or hazards required to be stated on the label of a hazardous substance.
+Subsec. (p)(1)(E). Pub. L. 91–113, § 3(c), inserted “Combustible” to the enumerated affirmative statements of the principal hazard or hazards required to be stated on the label of a hazardous substance.
 
-Subsec. (q)(1). Pub. L. 91–113, § 2(c), inserted “or necessarily present an electrical, mechanical, or thermal hazard” after “hazardous substance involved”.
+Subsec. (q)(1). Pub. L. 91–113, § 2(c), inserted “or necessarily present an electrical, mechanical, or thermal hazard” after “hazardous substance involved”.
 
-Subsecs. (r) to (t). Pub. L. 91–113, § 2(d), added subsecs. (r) to (t).
+Subsecs. (r) to (t). Pub. L. 91–113, § 2(d), added subsecs. (r) to (t).
 
-1966—Subsec. (f). Pub. L. 89–756, § 2(a), provided that “hazardous substances” shall apply to any article which is not itself an economic poison within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act but which is a hazard substance within the meaning of par. (1) of this subsec. by reason of its bearing or containing an economic poison.
+1966—Subsec. (f). Pub. L. 89–756, § 2(a), provided that “hazardous substances” shall apply to any article which is not itself an economic poison within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act but which is a hazard substance within the meaning of par. (1) of this subsec. by reason of its bearing or containing an economic poison.
 
-Subsec. (n). Pub. L. 89–756, § 2(b), enlarged term “label” to include, where the article is unpackaged or is packaged in an immediate container not intended or suitable for delivery to the ultimate consumer, a display of written, printed or graphic matter directly upon the article involved or upon a tag or other suitable material affixed thereto.
+Subsec. (n). Pub. L. 89–756, § 2(b), enlarged term “label” to include, where the article is unpackaged or is packaged in an immediate container not intended or suitable for delivery to the ultimate consumer, a display of written, printed or graphic matter directly upon the article involved or upon a tag or other suitable material affixed thereto.
 
-Subsec. (p). Pub. L. 89–756, § 2(c), in introductory text preceding par. (1) substituted “misbranded hazardous substance” for “misbranded package” and “misbranded package of a hazardous substance” and as so retermed enlarged applicability to include toys and other articles intended for use by children, which are hazardous substances, or which bear or contain hazardous substances when susceptible of access by children, and in par. (1), clause (J) inserted further category of “misbranded hazardous substance” where the article is intended for use by children and is not a banned hazardous substance and fails to bear a label with adequate directions for the protection of children from the hazard.
+Subsec. (p). Pub. L. 89–756, § 2(c), in introductory text preceding par. (1) substituted “misbranded hazardous substance” for “misbranded package” and “misbranded package of a hazardous substance” and as so retermed enlarged applicability to include toys and other articles intended for use by children, which are hazardous substances, or which bear or contain hazardous substances when susceptible of access by children, and in par. (1), clause (J) inserted further category of “misbranded hazardous substance” where the article is intended for use by children and is not a banned hazardous substance and fails to bear a label with adequate directions for the protection of children from the hazard.
 
-Subsec. (q). Pub. L. 89–756, § 3(a), added subsec. (q).
+Subsec. (q). Pub. L. 89–756, § 3(a), added subsec. (q).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1986 Amendment**
 
-Pub. L. 99–339, title I, § 109(d)(3), June 19, 1986, 100 Stat. 653, provided that: “The amendments made by this subsection [amending this section and section 1263 of this title] shall become effective 24 months after the enactment of this Act [June 19, 1986].”
+Pub. L. 99–339, title I, § 109(d)(3), June 19, 1986, 100 Stat. 653, provided that: “The amendments made by this subsection [amending this section and section 1263 of this title] shall become effective 24 months after the enactment of this Act [June 19, 1986].”
 
 **Effective Date of 1972 Amendment**
 
@@ -177,11 +177,11 @@ Amendment by Pub. L. 91–601 effective Dec. 30, 1970, and regulations establish
 
 **Effective Date of 1969 Amendment**
 
-Pub. L. 91–113, § 5, Nov. 6, 1969, 83 Stat. 190, provided that: “The amendments made by this Act [see Short Title of 1969 Amendment note below] shall take effect on the sixtieth day following the date of the enactment of this Act [Nov. 6, 1969].”
+Pub. L. 91–113, § 5, Nov. 6, 1969, 83 Stat. 190, provided that: “The amendments made by this Act [see Short Title of 1969 Amendment note below] shall take effect on the sixtieth day following the date of the enactment of this Act [Nov. 6, 1969].”
 
 **Effective Date**
 
-Pub. L. 86–613, § 17, formerly § 16, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, § 4(a), Nov. 6, 1969, 83 Stat. 189, and amended by Pub. L. 110–314, title II, § 204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041, provided that:
+Pub. L. 86–613, § 17, formerly § 16, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, § 4(a), Nov. 6, 1969, 83 Stat. 189, and amended by Pub. L. 110–314, title II, § 204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041, provided that:
 
 > “This Act [enacting this chapter and repealing sections 401 to 411 of this title] shall take effect upon the date of its enactment [July 12, 1960]; but no penalty or condemnation shall be enforced for any violation of this Act which occurs—
 
@@ -191,27 +191,27 @@ Pub. L. 86–613, § 17, formerly § 16, July 12, 1960, 74 Stat. 380, renumb
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–267, § 1, June 16, 1994, 108 Stat. 722, provided that: “This Act [enacting sections 1278 and 6001 to 6006 of this title and provisions set out as notes under this section and sections 1278, 2064, and 6001 of this title] may be cited as the ‘Child Safety Protection Act’.”
+Pub. L. 103–267, § 1, June 16, 1994, 108 Stat. 722, provided that: “This Act [enacting sections 1278 and 6001 to 6006 of this title and provisions set out as notes under this section and sections 1278, 2064, and 6001 of this title] may be cited as the ‘Child Safety Protection Act’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–491, § 1, Oct. 17, 1984, 98 Stat. 2269, provided: “That this Act [amending section 1274 of this title] may be cited as the ‘Toy Safety Act of 1984’.”
+Pub. L. 98–491, § 1, Oct. 17, 1984, 98 Stat. 2269, provided: “That this Act [amending section 1274 of this title] may be cited as the ‘Toy Safety Act of 1984’.”
 
 **Short Title of 1969 Amendment**
 
-Pub. L. 91–113, § 1, Nov. 6, 1969, 83 Stat. 187, provided that: “This Act [enacting section 1274 of this title, amending this section and section 1262 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 401 of this title] may be cited as the ‘Child Protection and Toy Safety Act of 1969’.”
+Pub. L. 91–113, § 1, Nov. 6, 1969, 83 Stat. 187, provided that: “This Act [enacting section 1274 of this title, amending this section and section 1262 of this title, enacting provisions set out as notes under this section, and amending provisions set out as notes under this section and section 401 of this title] may be cited as the ‘Child Protection and Toy Safety Act of 1969’.”
 
 **Short Title of 1966 Amendment**
 
-Pub. L. 89–756, § 1, Nov. 3, 1966, 80 Stat. 1303, provided that: “This title [probably means this “Act”, amending this section, sections 1262, 1263, 1264, 1265, 1273 of this title, and provisions set out as a note under this section] may be cited as the ‘Child Protection Act of 1966’.”
+Pub. L. 89–756, § 1, Nov. 3, 1966, 80 Stat. 1303, provided that: “This title [probably means this “Act”, amending this section, sections 1262, 1263, 1264, 1265, 1273 of this title, and provisions set out as a note under this section] may be cited as the ‘Child Protection Act of 1966’.”
 
 **Short Title**
 
-Pub. L. 86–613, § 1, July 12, 1960, 74 Stat. 372, as amended by Pub. L. 89–756, § 5, Nov. 3, 1966, 80 Stat. 1305, provided: “This Act [enacting this chapter, repealing sections 401 to 411 of this title, and enacting notes set out under this section] may be cited as the ‘Federal Hazardous Substances Act’.”
+Pub. L. 86–613, § 1, July 12, 1960, 74 Stat. 372, as amended by Pub. L. 89–756, § 5, Nov. 3, 1966, 80 Stat. 1305, provided: “This Act [enacting this chapter, repealing sections 401 to 411 of this title, and enacting notes set out under this section] may be cited as the ‘Federal Hazardous Substances Act’.”
 
 **Separability**
 
-Pub. L. 86–613, § 16, formerly § 15, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, § 4(a), Nov. 6, 1969, 83 Stat. 189, provided that: “If any provision of this Act [enacting this chapter and repealing sections 401 to 411 of this title] is declared unconstitutional, or the applicability thereof to any person or circumstance is held invalid, the constitutionality of the remainder of the Act and the applicability thereof to other persons and circumstances shall not be affected thereby.”
+Pub. L. 86–613, § 16, formerly § 15, July 12, 1960, 74 Stat. 380, renumbered Pub. L. 91–113, § 4(a), Nov. 6, 1969, 83 Stat. 189, provided that: “If any provision of this Act [enacting this chapter and repealing sections 401 to 411 of this title] is declared unconstitutional, or the applicability thereof to any person or circumstance is held invalid, the constitutionality of the remainder of the Act and the applicability thereof to other persons and circumstances shall not be affected thereby.”
 
 **Transfer of Functions**
 
@@ -219,7 +219,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 **Effect Upon Federal and State Law**
 
-Pub. L. 86–613, § 18, formerly § 17, July 12, 1960, 74 Stat. 380, as amended by Pub. L. 89–756, § 4(a), Nov. 3, 1966, 80 Stat. 1305; renumbered and amended by Pub. L. 91–113, § 4(a), (b)(1), Nov. 6, 1969, 83 Stat. 189, 190; Pub. L. 94–284, § 17(a), May 11, 1976, 90 Stat. 510; Pub. L. 110–314, title II, § 204(b)(4)(J), Aug. 14, 2008, 122 Stat. 3042, provided that:
+Pub. L. 86–613, § 18, formerly § 17, July 12, 1960, 74 Stat. 380, as amended by Pub. L. 89–756, § 4(a), Nov. 3, 1966, 80 Stat. 1305; renumbered and amended by Pub. L. 91–113, § 4(a), (b)(1), Nov. 6, 1969, 83 Stat. 189, 190; Pub. L. 94–284, § 17(a), May 11, 1976, 90 Stat. 510; Pub. L. 110–314, title II, § 204(b)(4)(J), Aug. 14, 2008, 122 Stat. 3042, provided that:
 
 > **“(a)** Nothing in this act [enacting this chapter and repealing sections 401 to 411 of this title] shall be construed to modify or affect the provisions of the Flammable Fabrics Act, as amended (15 U.S.C. 1191 to 1200) [sections 1191 to 1204 of this title], or any regulations promulgated thereunder; or of chapter 39, title 18, United States Code, as amended (18 U.S.C. 831 et seq.), or any regulations promulgated thereunder or under sections 204(a)(2) and 204(a)(3) of the Interstate Commerce Act, as amended [section 31502 of Title 49, Transportation] (relating to the transportation of dangerous substances and explosives by surface carriers); or of section 1716, title 18, United States Code, or any regulations promulgated thereunder (relating to mailing of dangerous substances); or of section 902 [section 1472 of former Title 49] or regulations promulgated under section 601 of the Federal Aviation Act of 1958 [section 1421 of former Title 49] (relating to transportation of dangerous substances and explosives in aircraft); or of the Federal Food, Drug, and Cosmetic Act [chapter 9 of Title 21, Food and Drugs]; or of the Public Health Service Act [chapter 6A of Title 42, The Public Health and Welfare]; or of the Federal Insecticide, Fungicide, and Rodenticide Act [section 136 et seq. of Title 7, Agriculture]; or of the Dangerous Drug Act for the District of Columbia (70 Stat. 612), or the Act entitled ‘An Act to regulate the practice of pharmacy and the sale of poisons in the District of Columbia, and for other purposes’, approved May 7, 1906 (34 Stat. 175), as amended; or of any other Act of Congress, except as specified in section 19 [set out as a note under sections 401 to 411 of this title].
 
@@ -251,7 +251,7 @@ Pub. L. 86–613, § 18, formerly § 17, July 12, 1960, 74 Stat. 380, as ame
 
 **Small Balls as Banned Hazardous Substances**
 
-Pub. L. 103–267, title I, § 101(b), June 16, 1994, 108 Stat. 725, provided that:
+Pub. L. 103–267, title I, § 101(b), June 16, 1994, 108 Stat. 725, provided that:
 
 > “A small ball—
 
@@ -263,7 +263,7 @@ Pub. L. 103–267, title I, § 101(b), June 16, 1994, 108 Stat. 725, provided 
 
 [Section 101(b) of Pub. L. 103–267, set out above, effective Jan. 1, 1995, see section 101(d) of Pub. L. 103–267, set out as an Effective Date note under section 1278 of this title.]
 
-## § 1262. Declaration of hazardous substances
+## § 1262. Declaration of hazardous substances
 
 **(a) Rulemaking**
 
@@ -295,17 +295,17 @@ The Commission may exempt from the requirements established by or pursuant to th
 
 **(3)**
 
-**(A)** In the case of any toy or other article intended for use by children which is determined by the Commission, in accordance with section 553 of title 5, to present an electrical, mechanical, or thermal hazard, any person who will be adversely affected by such a determination may, at any time prior to the 60th day after the regulation making such determination is issued by the Commission, file a petition with the United States Court of Appeals for the circuit in which such person resides or has his principal place of business for a judicial review of such determination. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by him 1
+**(A)** In the case of any toy or other article intended for use by children which is determined by the Commission, in accordance with section 553 of title 5, to present an electrical, mechanical, or thermal hazard, any person who will be adversely affected by such a determination may, at any time prior to the 60th day after the regulation making such determination is issued by the Commission, file a petition with the United States Court of Appeals for the circuit in which such person resides or has his principal place of business for a judicial review of such determination. A copy of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by him 1
 
-<sup>1</sup>  So in original. Probably should be “it”.
+<sup>1</sup> So in original. Probably should be “it”.
 
 for that purpose. The Commission shall file in the court the record of the proceedings on which the Commission based its determination, as provided in section 2112 of title 28.
 
 **(B)** If the petitioner applies to the court for leave to adduce additional evidence, and shows to the satisfaction of the court that such additional evidence is material and that there was no opportunity to adduce such evidence in the proceeding before the Commission, the court may order such additional evidence (and evidence in rebuttal thereof) to be taken before the Commission in a hearing or in such other manner, and upon such terms and conditions, as to the court may seem proper. The Commission may modify its findings as to the facts, or make new findings, by reason of the additional evidence so taken, and it shall file such modified or new findings, and its recommendation, if any, for the modification or setting aside of its original determination, with the return of such additional evidence.
 
-**(C)** Upon the filing of the petition under this paragraph, the court shall have jurisdiction to review the determination of the Commission in accordance with subparagraphs (A), (B), (C), and (D) of paragraph (2) of the second sentence of section 706 of title 5. If the court ordered additional evidence to be taken under subparagraph (B) of this paragraph, the court shall also review the Secretary’s 2
+**(C)** Upon the filing of the petition under this paragraph, the court shall have jurisdiction to review the determination of the Commission in accordance with subparagraphs (A), (B), (C), and (D) of paragraph (2) of the second sentence of section 706 of title 5. If the court ordered additional evidence to be taken under subparagraph (B) of this paragraph, the court shall also review the Secretary’s 2
 
-<sup>2</sup>  So in original. Probably should be “Commission’s”.
+<sup>2</sup> So in original. Probably should be “Commission’s”.
 
 determination to determine if, on the basis of the entire record before the court pursuant to subparagraphs (A) and (B) of this paragraph, it is supported by substantial evidence. If the court finds the determination is not so supported, the court may set it aside. With respect to any determination reviewed under this paragraph, the court may grant appropriate relief pending conclusion of the review proceedings, as provided in section 705 of title 5.
 
@@ -393,37 +393,37 @@ The Commission shall publish its final regulatory analysis with the regulation.
 
 The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
-(Pub. L. 86–613, § 3, July 12, 1960, 74 Stat. 374; Pub. L. 89–756, § 2(d), (e), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, § 2(b), Nov. 6, 1969, 83 Stat. 187; Pub. L. 97–35, title XII, § 1203(b)(1), Aug. 13, 1981, 95 Stat. 708; Pub. L. 101–608, title I, §§ 107(b), 108(b), 110(b), Nov. 16, 1990, 104 Stat. 3112, 3113; Pub. L. 110–314, title II, § 204(b)(1), (3), (4)(B), (D), Aug. 14, 2008, 122 Stat. 3041, 3042.)
+(Pub. L. 86–613, § 3, July 12, 1960, 74 Stat. 374; Pub. L. 89–756, § 2(d), (e), Nov. 3, 1966, 80 Stat. 1303, 1304; Pub. L. 91–113, § 2(b), Nov. 6, 1969, 83 Stat. 187; Pub. L. 97–35, title XII, § 1203(b)(1), Aug. 13, 1981, 95 Stat. 708; Pub. L. 101–608, title I, §§ 107(b), 108(b), 110(b), Nov. 16, 1990, 104 Stat. 3112, 3113; Pub. L. 110–314, title II, § 204(b)(1), (3), (4)(B), (D), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 204(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized the Commission to declare hazardous substances by regulation and detailed proceedings for the issuance, amendment, or repeal of such regulations.
+2008—Subsec. (a). Pub. L. 110–314, § 204(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized the Commission to declare hazardous substances by regulation and detailed proceedings for the issuance, amendment, or repeal of such regulations.
 
-Subsecs. (b) to (e). Pub. L. 110–314, § 204(b)(4)(D), substituted “it” for “he” and “its” for “his” wherever appearing in reference to the Secretary of Health, Education, and Welfare.
+Subsecs. (b) to (e). Pub. L. 110–314, § 204(b)(4)(D), substituted “it” for “he” and “its” for “his” wherever appearing in reference to the Secretary of Health, Education, and Welfare.
 
-Pub. L. 110–314, § 204(b)(4)(B), substituted “Commission” for “Secretary” wherever appearing.
+Pub. L. 110–314, § 204(b)(4)(B), substituted “Commission” for “Secretary” wherever appearing.
 
-Subsec. (f). Pub. L. 110–314, § 204(b)(3)(A), substituted “may be commenced” for “shall be commenced” in introductory provisions.
+Subsec. (f). Pub. L. 110–314, § 204(b)(3)(A), substituted “may be commenced” for “shall be commenced” in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 110–314, § 204(b)(3)(B), substituted “identified in a notice” for “identified in the notice”.
+Subsec. (g)(1). Pub. L. 110–314, § 204(b)(3)(B), substituted “identified in a notice” for “identified in the notice”.
 
-Subsec. (h). Pub. L. 110–314, § 204(b)(3)(C), (D), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (f) of this section, the” and in concluding provisions, substituted “appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.” for “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
+Subsec. (h). Pub. L. 110–314, § 204(b)(3)(C), (D), in introductory provisions, substituted “unless the” for “unless, not less than 60 days after publication of the notice required in subsection (f) of this section, the” and in concluding provisions, substituted “appropriate Congressional committees. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed regulation.” for “Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.”
 
-1990—Subsec. (g)(2). Pub. L. 101–608, § 108(b), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
+1990—Subsec. (g)(2). Pub. L. 101–608, § 108(b), struck out period at end and inserted “, except that the Commission shall terminate any such proceeding and rely on a voluntary standard only if such voluntary standard is in existence. For purposes of this section, a voluntary standard shall be considered to be in existence when it is finally approved by the organization or other person which developed such standard, irrespective of the effective date of the standard. Before relying upon any voluntary standard, the Commission shall afford interested persons (including manufacturers, consumers, and consumer organizations) a reasonable opportunity to submit written comments regarding such standard. The Commission shall consider such comments in making any determination regarding reliance on the involved voluntary standard under this subsection.”
 
-Subsec. (g)(3). Pub. L. 101–608, § 107(b), added par. (3).
+Subsec. (g)(3). Pub. L. 101–608, § 107(b), added par. (3).
 
-Subsec. (j). Pub. L. 101–608, § 110(b), added subsec. (j).
+Subsec. (j). Pub. L. 101–608, § 110(b), added subsec. (j).
 
 1981—Subsecs. (f) to (i). Pub. L. 97–35 added subsecs. (f) to (i).
 
 1969—Subsec. (e). Pub. L. 91–113 added subsec. (e).
 
-1966—Subsec. (b). Pub. L. 89–756, § 2(d), substituted “any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance” for “any container of such hazardous substance, intended or suitable for household use, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded package of a hazardous substance”.
+1966—Subsec. (b). Pub. L. 89–756, § 2(d), substituted “any such hazardous substance intended, or packaged in a form suitable, for use in the household or by children, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded hazardous substance” for “any container of such hazardous substance, intended or suitable for household use, which fails to bear a label in accordance with such regulations shall be deemed to be a misbranded package of a hazardous substance”.
 
-Subsec. (d). Pub. L. 89–756, § 2(e), inserted “hazardous substance or” before “container of a hazardous substance”.
+Subsec. (d). Pub. L. 89–756, § 2(e), inserted “hazardous substance or” before “container of a hazardous substance”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -443,7 +443,7 @@ Amendment by Pub. L. 91–113 effective on sixtieth day following Nov. 6, 1969, 
 
 Pub. L. 90–146, Nov. 20, 1967, 81 Stat. 466, as amended by Pub. L. 91–51, Aug. 4, 1969, 83 Stat. 86, established a National Commission on Product Safety to study and investigate the scope and adequacy of measures to protect consumers against unreasonable risk of injuries which may be caused by hazardous household products and required the Commission to transmit its final report to the President and to the Congress by June 30, 1970. Ninety days after submission of its final report the Commission ceased to exist by the express terms of Pub. L. 90–146.
 
-## § 1263. Prohibited acts
+## § 1263. Prohibited acts
 
 The following acts and the causing thereof are prohibited:
 
@@ -469,19 +469,19 @@ The following acts and the causing thereof are prohibited:
 
 **(k)** The introduction or delivery for introduction into interstate commerce of any lead solder which has a lead content in excess of 0.2 percent which does not prominently display a warning label stating the lead content of the solder and warning that the use of such solder in the making of joints or fittings in any private or public potable water supply system is prohibited.
 
-(Pub. L. 86–613, § 4, July 12, 1960, 74 Stat. 375; Pub. L. 89–756, §§ 2(f), 3(b), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 95–631, § 7(a), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–35, title XII, § 1211(f)(2), Aug. 13, 1981, 95 Stat. 723; Pub. L. 99–339, title I, § 109(d)(2), June 19, 1986, 100 Stat. 653; Pub. L. 110–314, title II, § 204(b)(4)(B), (C), (H), Aug. 14, 2008, 122 Stat. 3041, 3042.)
+(Pub. L. 86–613, § 4, July 12, 1960, 74 Stat. 375; Pub. L. 89–756, §§ 2(f), 3(b), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 95–631, § 7(a), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 97–35, title XII, § 1211(f)(2), Aug. 13, 1981, 95 Stat. 723; Pub. L. 99–339, title I, § 109(d)(2), June 19, 1986, 100 Stat. 653; Pub. L. 110–314, title II, § 204(b)(4)(B), (C), (H), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 **Amendments**
 
-2008—Subsec. (h). Pub. L. 110–314, § 204(b)(4)(B), (C), substituted “Commission or officers or employees of the Commission” for “Secretary or officers or employees of the Department”.
+2008—Subsec. (h). Pub. L. 110–314, § 204(b)(4)(B), (C), substituted “Commission or officers or employees of the Commission” for “Secretary or officers or employees of the Department”.
 
-Subsec. (i). Pub. L. 110–314, § 204(b)(4)(H), substituted “Commission” for “Consumer Product Safety Commission”.
+Subsec. (i). Pub. L. 110–314, § 204(b)(4)(H), substituted “Commission” for “Consumer Product Safety Commission”.
 
 1986—Subsec. (k). Pub. L. 99–339 added subsec. (k).
 
@@ -489,15 +489,15 @@ Subsec. (i). Pub. L. 110–314, § 204(b)(4)(H), substituted “Commission” 
 
 1978—Subsec. (i). Pub. L. 95–631 added subsec. (i).
 
-1966—Subsec. (a). Pub. L. 89–756, §§ 2(f)(1), 3(b), substituted “misbranded hazardous substance or banned hazardous substance” for “misbranded package of a hazardous substance”.
+1966—Subsec. (a). Pub. L. 89–756, §§ 2(f)(1), 3(b), substituted “misbranded hazardous substance or banned hazardous substance” for “misbranded package of a hazardous substance”.
 
-Subsec. (b). Pub. L. 89–756, §§ 2(f)(2), 3(b), substituted “being a misbranded hazardous substance or banned hazardous substance” for “being in a misbranded package”.
+Subsec. (b). Pub. L. 89–756, §§ 2(f)(2), 3(b), substituted “being a misbranded hazardous substance or banned hazardous substance” for “being in a misbranded package”.
 
-Subsec. (c). Pub. L. 89–756, §§ 2(f)(1), 3(b), substituted “misbranded hazardous substance or banned hazardous substance” for “misbranded package of a hazardous substance”.
+Subsec. (c). Pub. L. 89–756, §§ 2(f)(1), 3(b), substituted “misbranded hazardous substance or banned hazardous substance” for “misbranded package of a hazardous substance”.
 
-Subsec. (f). Pub. L. 89–756, § 2(f)(2), substituted “being a misbranded hazardous substance” for “being in a misbranded package”.
+Subsec. (f). Pub. L. 89–756, § 2(f)(2), substituted “being a misbranded hazardous substance” for “being in a misbranded package”.
 
-Subsec. (g). Pub. L. 89–756, §§ 2(f)(1), 3(b), substituted “misbranded hazardous substance or banned hazardous substance” for “misbranded package of a hazardous substance”.
+Subsec. (g). Pub. L. 89–756, §§ 2(f)(1), 3(b), substituted “misbranded hazardous substance or banned hazardous substance” for “misbranded package of a hazardous substance”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -509,7 +509,7 @@ Amendment by Pub. L. 99–339 effective 24 months after June 19, 1986, see secti
 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as a note under section 2052 of this title.
 
-## § 1264. Penalties; exceptions
+## § 1264. Penalties; exceptions
 
 **(a) Criminal penalties**
 
@@ -533,7 +533,7 @@ No person shall be subject to the penalties of subsection (a) of this section, (
 
 **(4)** Any civil penalty under this subsection may be compromised by the Commission. In determining the amount of such penalty or whether it should be remitted or mitigated, and in what amount, the Commission shall consider the appropriateness of such penalty to the size of the business of the persons charged, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including,1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 the nature of the substance involved, the severity of the risk of injury, the occurrence or absence of injury, and the amount of the substance distributed, and such other factors as appropriate. The amount of such penalty when finally determined, or the amount agreed on compromise, may be deducted from any sums owing by the United States to the person charged.
 
@@ -569,29 +569,29 @@ the nature of the substance involved, the severity of the risk of injury, the oc
 
 In the case of an attorney general of a State alleging a violation that affects or may affect such State or its residents, such attorney general may bring a civil action for an injunction to enforce any requirement of this chapter relating to misbranded or banned hazardous substances. The procedural requirements of section 2073 of this title shall apply to any such action.
 
-(Pub. L. 86–613, § 5, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§ 2(g), 3(c), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 95–631, § 7(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 101–608, title I, §§ 115(b), 118(a), Nov. 16, 1990, 104 Stat. 3119, 3121; Pub. L. 110–314, title II, §§ 204(b)(4)(B), (H), 217(a)(2), (b)(1)(B), (c)(3), Aug. 14, 2008, 122 Stat. 3041, 3042, 3058, 3059, 3060.)
+(Pub. L. 86–613, § 5, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§ 2(g), 3(c), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 95–631, § 7(b), Nov. 10, 1978, 92 Stat. 3745; Pub. L. 101–608, title I, §§ 115(b), 118(a), Nov. 16, 1990, 104 Stat. 3119, 3121; Pub. L. 110–314, title II, §§ 204(b)(4)(B), (H), 217(a)(2), (b)(1)(B), (c)(3), Aug. 14, 2008, 122 Stat. 3041, 3042, 3058, 3059, 3060.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 217(c)(3), substituted “5 years, a fine determined under section 3571 of title 18, or both.” for “one year, or a fine of not more than $3,000, or both such imprisonment and fine.”
+2008—Subsec. (a). Pub. L. 110–314, § 217(c)(3), substituted “5 years, a fine determined under section 3571 of title 18, or both.” for “one year, or a fine of not more than $3,000, or both such imprisonment and fine.”
 
-Subsec. (b). Pub. L. 110–314, § 204(b)(4)(B), (H), substituted “Commission” for “Secretary” in cl. (1) and “Commission” for “Consumer Product Safety Commission” in cl. (3).
+Subsec. (b). Pub. L. 110–314, § 204(b)(4)(B), (H), substituted “Commission” for “Secretary” in cl. (1) and “Commission” for “Consumer Product Safety Commission” in cl. (3).
 
-Subsec. (c)(1). Pub. L. 110–314, § 217(a)(2)(A), (B), substituted “$100,000” for “$5,000” and substituted “$15,000,000” for “$1,250,000” in two places.
+Subsec. (c)(1). Pub. L. 110–314, § 217(a)(2)(A), (B), substituted “$100,000” for “$5,000” and substituted “$15,000,000” for “$1,250,000” in two places.
 
-Subsec. (c)(3). Pub. L. 110–314, § 217(b)(1)(B)(i), inserted “the nature, circumstances, extent, and gravity of the violation, including” after “shall consider”, substituted “substance distributed,” for “substance distributed, and”, and inserted “, including how to mitigate undue adverse economic impacts on small businesses, and such other factors as appropriate” before period at end.
+Subsec. (c)(3). Pub. L. 110–314, § 217(b)(1)(B)(i), inserted “the nature, circumstances, extent, and gravity of the violation, including” after “shall consider”, substituted “substance distributed,” for “substance distributed, and”, and inserted “, including how to mitigate undue adverse economic impacts on small businesses, and such other factors as appropriate” before period at end.
 
-Subsec. (c)(4). Pub. L. 110–314, § 217(b)(1)(B)(ii)(II), inserted “, and such other factors as appropriate” after “substance distributed”.
+Subsec. (c)(4). Pub. L. 110–314, § 217(b)(1)(B)(ii)(II), inserted “, and such other factors as appropriate” after “substance distributed”.
 
-Pub. L. 110–314, § 217(b)(1)(B)(ii)(I), which directed insertion of “, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including” after “person charged”, was executed by making the insertion after “persons charged” to reflect the probable intent of Congress.
+Pub. L. 110–314, § 217(b)(1)(B)(ii)(I), which directed insertion of “, including how to mitigate undue adverse economic impacts on small businesses, the nature, circumstances, extent, and gravity of the violation, including” after “person charged”, was executed by making the insertion after “persons charged” to reflect the probable intent of Congress.
 
-Subsec. (c)(6)(B). Pub. L. 110–314, § 217(a)(2)(C), which directed substitution of “December 1, 2011,” for “December 1, 1994,” in par. (6)(B) of subsec. (c)(1), was executed by making the substitution in subsec. (c)(6)(B) to reflect the probable intent of Congress.
+Subsec. (c)(6)(B). Pub. L. 110–314, § 217(a)(2)(C), which directed substitution of “December 1, 2011,” for “December 1, 1994,” in par. (6)(B) of subsec. (c)(1), was executed by making the substitution in subsec. (c)(6)(B) to reflect the probable intent of Congress.
 
-1990—Subsec. (c). Pub. L. 101–608, § 115(b), added subsec. (c).
+1990—Subsec. (c). Pub. L. 101–608, § 115(b), added subsec. (c).
 
-Subsec. (d). Pub. L. 101–608, § 118(a), added subsec. (d).
+Subsec. (d). Pub. L. 101–608, § 118(a), added subsec. (d).
 
 1978—Subsec. (b)(3). Pub. L. 95–631 substituted “with respect to” for “in respect of” and made cl. (3) inapplicable when the Consumer Product Safety Commission determines that exportation of the substance presents an unreasonable risk of injury to persons residing within the United States.
 
@@ -607,7 +607,7 @@ Amendment by section 217(a)(2) of Pub. L. 110–314 effective on the date that i
 
 The Consumer Product Safety Commission to issue a final regulation providing its interpretation of penalty factors described in subsec. (c)(3) of this section no later than 1 year after Aug. 14, 2008, see section 217(b)(2) of Pub. L. 110–314, set out as a note under section 2069 of this title.
 
-## § 1265. Seizures
+## § 1265. Seizures
 
 **(a) Grounds and jurisdiction**
 
@@ -631,7 +631,7 @@ When a decree of condemnation is entered against the hazardous substance, court 
 
 **(2)** the court to which such case is removed shall have the powers and be subject to the duties, for purposes of such case, which the court from which removal was made would have had, or to which such court would have been subject, if such case had not been removed.
 
-(Pub. L. 86–613, § 6, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§ 2(h), 3(d), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 110–314, title II, § 204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041.)
+(Pub. L. 86–613, § 6, July 12, 1960, 74 Stat. 376; Pub. L. 89–756, §§ 2(h), 3(d), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 110–314, title II, § 204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041.)
 
 **Editorial Notes**
 
@@ -641,11 +641,11 @@ When a decree of condemnation is entered against the hazardous substance, court 
 
 1966—Subsec. (a). Pub. L. 89–756 substituted “Any misbranded hazardous substance or banned hazardous substance” for “Any hazardous substance that is in a misbranded package”.
 
-## § 1266. Hearing before report of criminal violation
+## § 1266. Hearing before report of criminal violation
 
 Before any violation of this chapter is reported by the Commission to any United States attorney for institution of a criminal proceeding, the person against whom such proceeding is contemplated shall be given appropriate notice and an opportunity to present his views, either orally or in writing, with regard to such contemplated proceeding.
 
-(Pub. L. 86–613, § 7, July 12, 1960, 74 Stat. 377; Pub. L. 110–314, title II, § 204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041.)
+(Pub. L. 86–613, § 7, July 12, 1960, 74 Stat. 377; Pub. L. 110–314, title II, § 204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041.)
 
 **Editorial Notes**
 
@@ -653,7 +653,7 @@ Before any violation of this chapter is reported by the Commission to any United
 
 2008—Pub. L. 110–314 substituted “Commission” for “Secretary”.
 
-## § 1267. Injunctions; criminal contempt; trial by court or jury
+## § 1267. Injunctions; criminal contempt; trial by court or jury
 
 **(a) Jurisdiction**
 
@@ -663,7 +663,7 @@ The United States district courts and the United States courts of the territorie
 
 In any proceeding for criminal contempt for violation of an injunction or restraining order issued under this section, which violation also constitutes a violation of this chapter, trial shall be by the court or, upon demand of the accused, by a jury. Such trial shall be conducted in accordance with the practice and procedure applicable in the case of proceedings subject to the provisions of rule 42(b) of the Federal Rules of Criminal Procedure.
 
-(Pub. L. 86–613, § 8, July 12, 1960, 74 Stat. 378.)
+(Pub. L. 86–613, § 8, July 12, 1960, 74 Stat. 378.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -671,11 +671,11 @@ In any proceeding for criminal contempt for violation of an injunction or restra
 
 Functions of Secretary of Health, Education, and Welfare under this chapter transferred to Consumer Product Safety Commission, see section 2079 of this title.
 
-## § 1268. Proceedings in name of United States; subpenas
+## § 1268. Proceedings in name of United States; subpenas
 
 All criminal proceedings and all libel or injunction proceedings for the enforcement, or to restrain violations, of this chapter shall be by and in the name of the United States. Subpenas for witnesses who are required to attend a court of the United States in any district may run into any other district in any such proceeding.
 
-(Pub. L. 86–613, § 9, July 12, 1960, 74 Stat. 378.)
+(Pub. L. 86–613, § 9, July 12, 1960, 74 Stat. 378.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -683,7 +683,7 @@ All criminal proceedings and all libel or injunction proceedings for the enforce
 
 Functions of Secretary of Health, Education, and Welfare under this chapter transferred to Consumer Product Safety Commission, see section 2079 of this title.
 
-## § 1269. Regulations
+## § 1269. Regulations
 
 **(a) Authority**
 
@@ -693,17 +693,17 @@ The authority to promulgate regulations for the efficient enforcement of this ch
 
 The Secretary of the Treasury and the Commission shall jointly prescribe regulations for the efficient enforcement of the provisions of section 1273 of this title, except as otherwise provided therein. Such regulations shall be promulgated in such manner and take effect at such time, after due notice, as the Commission shall determine.
 
-(Pub. L. 86–613, § 10, July 12, 1960, 74 Stat. 378; Pub. L. 110–314, title II, § 204(b)(4)(B), (E), Aug. 14, 2008, 122 Stat. 3041, 3042.)
+(Pub. L. 86–613, § 10, July 12, 1960, 74 Stat. 378; Pub. L. 110–314, title II, § 204(b)(4)(B), (E), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 204(b)(4)(B), substituted “Commission” for “Secretary”.
+2008—Subsec. (a). Pub. L. 110–314, § 204(b)(4)(B), substituted “Commission” for “Secretary”.
 
-Subsec. (b). Pub. L. 110–314, § 204(b)(4)(E), substituted “Commission” for “Secretary of Health, Education, and Welfare” in two places.
+Subsec. (b). Pub. L. 110–314, § 204(b)(4)(E), substituted “Commission” for “Secretary of Health, Education, and Welfare” in two places.
 
-## § 1270. Examinations and investigations
+## § 1270. Examinations and investigations
 
 **(a) Authority to conduct**
 
@@ -717,21 +717,21 @@ For purposes of enforcement of this chapter, officers or employees duly designat
 
 If the officer or employee obtains any sample, prior to leaving the premises, he shall give to the owner, operator, or agent in charge a receipt describing the samples obtained. If an analysis is made of such sample, a copy of the results of such analysis shall be furnished promptly to the owner, operator, or agent in charge.
 
-(Pub. L. 86–613, § 11, July 12, 1960, 74 Stat. 378; Pub. L. 110–314, title II, § 204(b)(4)(B), (C), Aug. 14, 2008, 122 Stat. 3041, 3042.)
+(Pub. L. 86–613, § 11, July 12, 1960, 74 Stat. 378; Pub. L. 110–314, title II, § 204(b)(4)(B), (C), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 204(b)(4)(B), (C), substituted “Commission is authorized” for “Secretary is authorized”, “employees of the Commission” for “employees of the Department”, “commissioned by the Commission” for “commissioned by the Secretary”, and “officer of the Commission” for “officer of the Department”.
+2008—Subsec. (a). Pub. L. 110–314, § 204(b)(4)(B), (C), substituted “Commission is authorized” for “Secretary is authorized”, “employees of the Commission” for “employees of the Department”, “commissioned by the Commission” for “commissioned by the Secretary”, and “officer of the Commission” for “officer of the Department”.
 
-Subsec. (b). Pub. L. 110–314, § 204(b)(4)(B), substituted “Commission” for “Secretary”.
+Subsec. (b). Pub. L. 110–314, § 204(b)(4)(B), substituted “Commission” for “Secretary”.
 
-## § 1271. Records of interstate shipment
+## § 1271. Records of interstate shipment
 
 For the purpose of enforcing the provisions of this chapter, carriers engaged in interstate commerce, and persons receiving hazardous substances in interstate commerce or holding such hazardous substances so received shall, upon the request of an officer or employee duly designated by the Commission, permit such officer or employee, at reasonable times, to have access to and to copy all records showing the movement in interstate commerce of any such hazardous substance, or the holding thereof during or after such movement, and the quantity, shipper, and consignee thereof; and it shall be unlawful for any such carrier or person to fail to permit such access to and copying of any record so requested when such request is accompanied by a statement in writing specifying the nature or kind of such hazardous substance to which such request relates: *Provided*, That evidence obtained under this section, or any evidence which is directly or indirectly derived from such evidence, shall not be used in a criminal prosecution of the person from whom obtained: *Provided further*, That carriers shall not be subject to the other provisions of this chapter by reason of their receipt, carriage, holding, or delivery of hazardous substances in the usual course of business as carriers.
 
-(Pub. L. 86–613, § 12, July 12, 1960, 74 Stat. 379; Pub. L. 91–452, title II, § 219, Oct. 15, 1970, 84 Stat. 929; Pub. L. 110–314, title II, § 204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041.)
+(Pub. L. 86–613, § 12, July 12, 1960, 74 Stat. 379; Pub. L. 91–452, title II, § 219, Oct. 15, 1970, 84 Stat. 929; Pub. L. 110–314, title II, § 204(b)(4)(B), Aug. 14, 2008, 122 Stat. 3041.)
 
 **Editorial Notes**
 
@@ -739,7 +739,7 @@ For the purpose of enforcing the provisions of this chapter, carriers engaged in
 
 2008—Pub. L. 110–314 substituted “Commission” for “Secretary”.
 
-1970—Pub. L. 91–452 inserted “, or any evidence which is directly or indirectly derived from such evidence,” after “under this section”.
+1970—Pub. L. 91–452 inserted “, or any evidence which is directly or indirectly derived from such evidence,” after “under this section”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -747,7 +747,7 @@ For the purpose of enforcing the provisions of this chapter, carriers engaged in
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
-## § 1272. Publicity; reports; dissemination of information
+## § 1272. Publicity; reports; dissemination of information
 
 **(a) Summaries of judgments, decrees, orders**
 
@@ -757,17 +757,17 @@ The Commission may cause to be published from time to time reports summarizing a
 
 The Commission may also cause to be disseminated information regarding hazardous substances in situations involving, in the opinion of the Commission, imminent danger to health. Nothing in this section shall be construed to prohibit the Commission from collecting, reporting, and illustrating the results of the investigations of the Commission.
 
-(Pub. L. 86–613, § 13, July 12, 1960, 74 Stat. 379; Pub. L. 110–314, title II, § 204(b)(4)(B), (C), Aug. 14, 2008, 122 Stat. 3041, 3042.)
+(Pub. L. 86–613, § 13, July 12, 1960, 74 Stat. 379; Pub. L. 110–314, title II, § 204(b)(4)(B), (C), Aug. 14, 2008, 122 Stat. 3041, 3042.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 204(b)(4)(B), substituted “Commission” for “Secretary”.
+2008—Subsec. (a). Pub. L. 110–314, § 204(b)(4)(B), substituted “Commission” for “Secretary”.
 
-Subsec. (b). Pub. L. 110–314, § 204(b)(4)(B), (C), substituted “Commission” for “Department” after “investigations of the” and for “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 110–314, § 204(b)(4)(B), (C), substituted “Commission” for “Department” after “investigations of the” and for “Secretary” wherever appearing.
 
-## § 1273. Imports
+## § 1273. Imports
 
 **(a) Delivery of samples to Commission; examination; refusal of admission**
 
@@ -775,15 +775,15 @@ The Secretary of the Treasury shall deliver to the Commission, upon its request,
 
 **(b) Disposition of refused articles**
 
-Pending decision as to the admission of a hazardous substance being imported or offered for import, the Secretary of the Treasury may authorize delivery of such hazardous substance to the owner or consignee upon the execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Secretary of the Treasury. If it appears to the Commission that the hazardous substance can, by relabeling or other action, be brought into compliance with this chapter, final determination as to admission of such hazardous substance may be deferred and, upon filing of timely written application by the owner or consignee and the execution by him of a bond as provided in the preceding provisions of this subsection, the Secretary 1
+Pending decision as to the admission of a hazardous substance being imported or offered for import, the Secretary of the Treasury may authorize delivery of such hazardous substance to the owner or consignee upon the execution by him of a good and sufficient bond providing for the payment of such liquidated damages in the event of default as may be required pursuant to regulations of the Secretary of the Treasury. If it appears to the Commission that the hazardous substance can, by relabeling or other action, be brought into compliance with this chapter, final determination as to admission of such hazardous substance may be deferred and, upon filing of timely written application by the owner or consignee and the execution by him of a bond as provided in the preceding provisions of this subsection, the Secretary 1
 
-<sup>1</sup>  So in original. Probably should be “Commission”.
+<sup>1</sup> So in original. Probably should be “Commission”.
 
-may, in accordance with regulations, authorize the applicant to perform such relabeling or other action specified in such authorization (including destruction or export of rejected hazardous substances or portions thereof, as may be specified in the Secretary’s 2
+may, in accordance with regulations, authorize the applicant to perform such relabeling or other action specified in such authorization (including destruction or export of rejected hazardous substances or portions thereof, as may be specified in the Secretary’s 2
 
-<sup>2</sup>  So in original. Probably should be “Commission’s”.
+<sup>2</sup> So in original. Probably should be “Commission’s”.
 
-authorization). All such relabeling or other action pursuant to such authorization shall, in accordance with regulations, be under the supervision of an officer or employee of the Commission designated by the Secretary 1, or an officer or employee of the Department of the Treasury designated by the Secretary of the Treasury.
+authorization). All such relabeling or other action pursuant to such authorization shall, in accordance with regulations, be under the supervision of an officer or employee of the Commission designated by the Secretary 1, or an officer or employee of the Department of the Treasury designated by the Secretary of the Treasury.
 
 **(c) Expenses in connection with refused articles**
 
@@ -793,23 +793,23 @@ All expenses (including travel, per diem, or subsistence, and salaries of office
 
 Not less than thirty days before any person exports to a foreign country any misbranded hazardous substance or banned hazardous substance, such person shall file a statement with the Commission notifying the Commission of such exportation, and the Commission, upon receipt of such statement, shall promptly notify the government of such country of such exportation and the basis upon which such substance is considered misbranded or has been banned under this chapter. Any statement filed with the Commission under the preceding sentence shall specify the anticipated date of shipment of such substance, the country and port of destination of such substance, and the quantity of such substance that will be exported, and shall contain such other information as the Commission may by regulation require. Upon petition filed with the Commission by any person required to file a statement under this subsection respecting an exportation, the Commission may, for good cause shown, exempt such person from the requirement of this subsection that such a statement be filed no less than thirty days before the date of the exportation, except that in no case shall the Commission permit such a statement to be filed later than the tenth day before such date.
 
-(Pub. L. 86–613, § 14, July 12, 1960, 74 Stat. 379; Pub. L. 89–756, §§ 2(i), 3(e), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 95–631, § 7(c), Nov. 10, 1978, 92 Stat. 3746; Pub. L. 110–314, title II, § 204(b)(4)(D), (F)–(I), Aug. 14, 2008, 122 Stat. 3042.)
+(Pub. L. 86–613, § 14, July 12, 1960, 74 Stat. 379; Pub. L. 89–756, §§ 2(i), 3(e), Nov. 3, 1966, 80 Stat. 1304, 1305; Pub. L. 95–631, § 7(c), Nov. 10, 1978, 92 Stat. 3746; Pub. L. 110–314, title II, § 204(b)(4)(D), (F)–(I), Aug. 14, 2008, 122 Stat. 3042.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2008—Subsec. (a). Pub. L. 110–314, § 204(b)(4)(D), (F), substituted “upon its request” for “upon his request” and substituted “Commission” for “Secretary of Health, Education, and Welfare” in two places.
+2008—Subsec. (a). Pub. L. 110–314, § 204(b)(4)(D), (F), substituted “upon its request” for “upon his request” and substituted “Commission” for “Secretary of Health, Education, and Welfare” in two places.
 
-Subsec. (b). Pub. L. 110–314, § 204(b)(4)(F), (G), substituted “appears to the Commission” for “appears to the Secretary of Health, Education, and Welfare” and “Commission designated by” for “Department of Health, Education, and Welfare designated by”.
+Subsec. (b). Pub. L. 110–314, § 204(b)(4)(F), (G), substituted “appears to the Commission” for “appears to the Secretary of Health, Education, and Welfare” and “Commission designated by” for “Department of Health, Education, and Welfare designated by”.
 
-Subsec. (d). Pub. L. 110–314, § 204(b)(4)(H), (I), substituted “statement with the Commission” for “statement with the Consumer Product Safety Commission” and struck out “(hereinafter in this section referred to as the ‘Commission’)” before “notifying”.
+Subsec. (d). Pub. L. 110–314, § 204(b)(4)(H), (I), substituted “statement with the Commission” for “statement with the Consumer Product Safety Commission” and struck out “(hereinafter in this section referred to as the ‘Commission’)” before “notifying”.
 
 1978—Subsec. (d). Pub. L. 95–631 added subsec. (d).
 
 1966—Subsec. (a). Pub. L. 89–756 substituted “a misbranded hazardous substance or banned hazardous substance” for “in misbranded packages”.
 
-## § 1274. Remedies respecting banned hazardous substances
+## § 1274. Remedies respecting banned hazardous substances
 
 **(a) Notice to protect public; form and contents** If any article or substance sold in commerce is defined as a banned hazardous substance (whether or not it was such at the time of its sale) and the Commission determines (after affording interested persons, including consumers and consumer organizations, an opportunity for a hearing) that notification is required to adequately protect the public from such article or substance, the Commission may order the manufacturer or any distributor or dealer of the article or substance to take any one or more of the following actions:
 
@@ -877,7 +877,7 @@ For purposes of this section (1) the term “manufacturer” includes an importe
 
 Nothing in this section shall be construed to require the Commission, in determining that an article or substance distributed in commerce presents a substantial product hazard and that notification or other action under this section should be taken, to prepare a comparison of the costs that would be incurred in providing notification or taking other action under this section with the benefits from such notification or action.
 
-(Pub. L. 86–613, § 15, as added Pub. L. 91–113, § 4(a), Nov. 6, 1969, 83 Stat. 189; amended Pub. L. 97–35, title XII, § 1211(f)(1), Aug. 13, 1981, 95 Stat. 721; Pub. L. 97–414, § 9(*l*), Jan. 4, 1983, 96 Stat. 2065; Pub. L. 98–491, § 2, Oct. 17, 1984, 98 Stat. 2269; Pub. L. 100–418, title I, § 1214(c), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, § 111(b), Nov. 16, 1990, 104 Stat. 3114; Pub. L. 110–314, title II, § 204(b)(4)(H), Aug. 14, 2008, 122 Stat. 3042.)
+(Pub. L. 86–613, § 15, as added Pub. L. 91–113, § 4(a), Nov. 6, 1969, 83 Stat. 189; amended Pub. L. 97–35, title XII, § 1211(f)(1), Aug. 13, 1981, 95 Stat. 721; Pub. L. 97–414, § 9(*l*), Jan. 4, 1983, 96 Stat. 2065; Pub. L. 98–491, § 2, Oct. 17, 1984, 98 Stat. 2269; Pub. L. 100–418, title I, § 1214(c), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, § 111(b), Nov. 16, 1990, 104 Stat. 3114; Pub. L. 110–314, title II, § 204(b)(4)(H), Aug. 14, 2008, 122 Stat. 3042.)
 
 **Editorial Notes**
 
@@ -893,17 +893,17 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b)
 
 1988—Subsecs. (b), (c)(2). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States”.
 
-1984—Subsec. (c). Pub. L. 98–491, § 2(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
+1984—Subsec. (c). Pub. L. 98–491, § 2(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 98–491, § 2(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 98–491, § 2(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 98–491, § 2(b), inserted “or (c)” after “subsection (b)”.
+Subsec. (d)(1). Pub. L. 98–491, § 2(b), inserted “or (c)” after “subsection (b)”.
 
-Subsec. (d)(2). Pub. L. 98–491, § 2(c), (d), substituted “a toy, article” for “an article”, “toy, article” for “article” in two places, and “subsection (a), (b), or (c)” for “subsection (a) or (b)”.
+Subsec. (d)(2). Pub. L. 98–491, § 2(c), (d), substituted “a toy, article” for “an article”, “toy, article” for “article” in two places, and “subsection (a), (b), or (c)” for “subsection (a) or (b)”.
 
-Subsec. (e). Pub. L. 98–491, § 2(a)(2), (d), redesignated subsec. (d) as (e) and substituted “subsection (a), (b), or (c)” for “subsection (a) or (b)”. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 98–491, § 2(a)(2), (d), redesignated subsec. (d) as (e) and substituted “subsection (a), (b), or (c)” for “subsection (a) or (b)”. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 98–491, § 2(a)(1), redesignated subsec. (e) as (f).
+Subsec. (f). Pub. L. 98–491, § 2(a)(1), redesignated subsec. (e) as (f).
 
 1983—Subsec. (e). Pub. L. 97–414 added subsec. (e).
 
@@ -923,7 +923,7 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1215 of Pub. L
 
 Section effective on sixtieth day following Nov. 6, 1969, see section 5 of Pub. L. 91–113, set out as an Effective Date of 1969 Amendment note under section 1261 of this title.
 
-## § 1275. Toxicological Advisory Board
+## § 1275. Toxicological Advisory Board
 
 **(a) Establishment; functions; review and recommendations**
 
@@ -951,9 +951,9 @@ Section effective on sixtieth day following Nov. 6, 1969, see section 5 of Pub. 
 
 **(4)** The Board shall meet at such times and places as may be designated by the Commission in consultation with the Chairman, but not less than two times each year.
 
-**(5)** Members of the Board who are not officers or employees of the United States shall, while attending meetings or conferences of the Board or while otherwise engaged in the business of the Board, be entitled to receive compensation at a rate fixed by the Commission, not exceeding the daily equivalent of the annual  rate  of  basic  pay  payable  for  grade GS–18 of the General Schedule under section 5332 of title 5. While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed under section 5703(b) 1
+**(5)** Members of the Board who are not officers or employees of the United States shall, while attending meetings or conferences of the Board or while otherwise engaged in the business of the Board, be entitled to receive compensation at a rate fixed by the Commission, not exceeding the daily equivalent of the annual rate of basic pay payable for grade GS–18 of the General Schedule under section 5332 of title 5. While away from their homes or regular places of business, such members may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed under section 5703(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of such title. Individuals serving as members on the Board shall not be considered officers or employees of the United States by reason of receiving payments under this paragraph.
 
@@ -961,13 +961,13 @@ of such title. Individuals serving as members on the Board shall not be consider
 
 The Board shall terminate on the date six years after the date it is established under this section.
 
-(Pub. L. 86–613, § 20, as added Pub. L. 95–631, § 10, Nov. 10, 1978, 92 Stat. 3747; amended Pub. L. 110–314, title II, § 204(b)(4)(H), (I), Aug. 14, 2008, 122 Stat. 3042.)
+(Pub. L. 86–613, § 20, as added Pub. L. 95–631, § 10, Nov. 10, 1978, 92 Stat. 3747; amended Pub. L. 110–314, title II, § 204(b)(4)(H), (I), Aug. 14, 2008, 122 Stat. 3042.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
+Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
 **Amendments**
 
@@ -977,9 +977,9 @@ Section 5703 of title 5, referred to in subsec. (b)(5), was amended generally by
 
 **References in Other Laws to GS–16, 17, or 18 Pay Rates**
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-## § 1276. Congressional veto of hazardous substances regulations
+## § 1276. Congressional veto of hazardous substances regulations
 
 **(a) Transmission to Congress**
 
@@ -987,7 +987,7 @@ The Commission shall transmit to the Secretary of the Senate and the Clerk of th
 
 **(b) Disapproval by concurrent resolution** Any regulation specified in subsection (a) shall not take effect if—
 
-**(1)** within the ninety calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the regulation which was promulgated under the Federal Hazardous Substances Act by the Consumer Product Safety Commission with respect to          and which was transmitted to the Congress on            and disapproves the regulation for the following reasons:           .”; or
+**(1)** within the ninety calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, both Houses of the Congress adopt a concurrent resolution, the matter after the resolving clause of which is as follows (with the blank spaces appropriately filled): “That the Congress disapproves the regulation which was promulgated under the Federal Hazardous Substances Act by the Consumer Product Safety Commission with respect to and which was transmitted to the Congress on and disapproves the regulation for the following reasons: .”; or
 
 **(2)** within the sixty calendar days of continuous session of the Congress which occur after the date of the promulgation of such regulation, one House of the Congress adopts such concurrent resolution and transmits such resolution to the other House and such resolution is not disapproved by such other House within the thirty calendar days of continuous session of the Congress which occur after the date of such transmittal.
 
@@ -1001,7 +1001,7 @@ Congressional inaction on, or rejection of, a concurrent resolution of disapprov
 
 **(2)** the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the periods of continuous session of the Congress specified in subsection (b).
 
-(Pub. L. 86–613, § 21, as added Pub. L. 97–35, title XII, § 1207(c), Aug. 13, 1981, 95 Stat. 718; amended Pub. L. 110–314, title II, § 204(b)(4)(H), Aug. 14, 2008, 122 Stat. 3042.)
+(Pub. L. 86–613, § 21, as added Pub. L. 97–35, title XII, § 1207(c), Aug. 13, 1981, 95 Stat. 718; amended Pub. L. 110–314, title II, § 204(b)(4)(H), Aug. 14, 2008, 122 Stat. 3042.)
 
 **Editorial Notes**
 
@@ -1019,7 +1019,7 @@ The Federal Hazardous Substances Act, referred to in subsec. (b), is Pub. L. 86�
 
 Section applicable with respect to consumer product safety rules under chapter 47 of this title and regulations under this chapter and chapter 25 of this title promulgated after Aug. 13, 1981, see section 1215 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2052 of this title.
 
-## § 1277. Labeling of art materials
+## § 1277. Labeling of art materials
 
 **(a) Regulation status of standard D–4236 of American Society for Testing and Materials**
 
@@ -1073,21 +1073,21 @@ The Commission shall develop informational and educational materials about art m
 
 The Commission may bring an action under section 1267 of this title to enjoin the purchase of any art material required to be labeled under this chapter which is for use by children in pre-kindergarten, kindergarten, or grades 1 through 6.
 
-(Pub. L. 86–613, § 23, as added Pub. L. 100–695, Nov. 18, 1988, 102 Stat. 4568.)
+(Pub. L. 86–613, § 23, as added Pub. L. 100–695, Nov. 18, 1988, 102 Stat. 4568.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 **Codification**
 
 Pub. L. 100–695 enacted section 23 of Pub. L. 86–613, classified to this section, without a prior enactment of a section 22 of Pub. L. 86–613.
 
-## § 1278. Requirements for labeling certain toys and games
+## § 1278. Requirements for labeling certain toys and games
 
 **(a) Toys or games for children who are at least 3**
 
@@ -1219,19 +1219,19 @@ In the case of a product manufactured outside the United States and directly shi
 
 **(e) Treatment as misbranded hazardous substance**
 
-A balloon, ball, marble, toy, or game, that is not in compliance with the requirements of this subsection 1
+A balloon, ball, marble, toy, or game, that is not in compliance with the requirements of this subsection 1
 
-<sup>1</sup>  So in original. Probably should be “this section”.
+<sup>1</sup> So in original. Probably should be “this section”.
 
 shall be considered a misbranded hazardous substance under section 1261(p) of this title.
 
-(Pub. L. 86–613, § 24, as added Pub. L. 103–267, title I, § 101(a), June 16, 1994, 108 Stat. 722; amended Pub. L. 110–314, title I, § 105, Aug. 14, 2008, 122 Stat. 3031.)
+(Pub. L. 86–613, § 24, as added Pub. L. 103–267, title I, § 101(a), June 16, 1994, 108 Stat. 722; amended Pub. L. 110–314, title I, § 105, Aug. 14, 2008, 122 Stat. 3031.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
 **Amendments**
 
@@ -1241,21 +1241,21 @@ The Paperwork Reduction Act of 1980, referred to in subsec. (c)(3), is Pub. L. 9
 
 **Effective Date**
 
-Pub. L. 103–267, title I, § 101(d), June 16, 1994, 108 Stat. 725, provided that: “Subsections (a) and (b) [enacting this section and provisions set out as a note under section 1261 of this title] shall take effect January 1, 1995, and section 24 of the Federal Hazardous Substances Act [this section] shall apply only to products entered into commerce on or after January 1, 1995.”
+Pub. L. 103–267, title I, § 101(d), June 16, 1994, 108 Stat. 725, provided that: “Subsections (a) and (b) [enacting this section and provisions set out as a note under section 1261 of this title] shall take effect January 1, 1995, and section 24 of the Federal Hazardous Substances Act [this section] shall apply only to products entered into commerce on or after January 1, 1995.”
 
 **Regulations**
 
-Pub. L. 103–267, title I, § 101(c), June 16, 1994, 108 Stat. 725, provided that: “The Consumer Product Safety Commission (hereinafter referred to as the ‘Commission’) shall promulgate regulations, under section 553 of title 5, United States Code, for the implementation of this section [enacting this section and provisions set out as notes under this section and section 1261 of this title] and section 24 of the Federal Hazardous Substances Act [this section] by July 1, 1994, or the date that is 6 months after the date of enactment of this Act [June 16, 1994], whichever occurs first. Subsections (f) through (i) of section 3 of the Federal Hazardous Substances Act (15 U.S.C. 1262) shall not apply with respect to the issuance of regulations under this subsection.”
+Pub. L. 103–267, title I, § 101(c), June 16, 1994, 108 Stat. 725, provided that: “The Consumer Product Safety Commission (hereinafter referred to as the ‘Commission’) shall promulgate regulations, under section 553 of title 5, United States Code, for the implementation of this section [enacting this section and provisions set out as notes under this section and section 1261 of this title] and section 24 of the Federal Hazardous Substances Act [this section] by July 1, 1994, or the date that is 6 months after the date of enactment of this Act [June 16, 1994], whichever occurs first. Subsections (f) through (i) of section 3 of the Federal Hazardous Substances Act (15 U.S.C. 1262) shall not apply with respect to the issuance of regulations under this subsection.”
 
 **Preemption**
 
-Pub. L. 103–267, title I, § 101(e), June 16, 1994, 108 Stat. 725, provided that:
+Pub. L. 103–267, title I, § 101(e), June 16, 1994, 108 Stat. 725, provided that:
 
 > **“(1) In general.—** Subject to paragraph (2), a State or political subdivision of a State may not establish or enforce a requirement relating to cautionary labeling of small parts hazards or choking hazards in any toy, game, marble, small ball, or balloon intended or suitable for use by children unless such requirement is identical to a requirement established by amendments made by this section to the Federal Hazardous Substances Act [enacting this section] or by regulations promulgated by the Commission.
 
 > **“(2) Exception.—** A State or political subdivision of a State may, until January 1, 1995, enforce a requirement described in paragraph (1) if such requirement was in effect on October 2, 1993.”
 
-## § 1278a. Children’s products containing lead; lead paint rule
+## § 1278a. Children’s products containing lead; lead paint rule
 
 **(a) General lead ban**
 
@@ -1393,9 +1393,9 @@ In lieu of the lead limits established in subsection (a)(2), the limits set fort
 
 The lead limits established under subsection (a) shall not apply to a used children’s product.
 
-**(B) Definition** In this paragraph, the term “used children’s product” means a children’s product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)) 1
+**(B) Definition** In this paragraph, the term “used children’s product” means a children’s product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)) 1
 
-<sup>1</sup>  So in original. Probably should be “2052(a)))”.
+<sup>1</sup> So in original. Probably should be “2052(a)))”.
 
 that was obtained by the seller for use and not for the purpose of resale or was obtained by the seller, either directly or indirectly, from a person who obtained such children’s product for use and not for the purpose of resale. Such term also includes a children’s product that was donated to the seller for charitable distribution or resale to support charitable purposes. Such term shall not include—
 
@@ -1475,7 +1475,7 @@ Nothing in this subsection shall be construed to affect the authority of the Com
 
 Any ban imposed by subsection (a) or rule promulgated under subsection (a) or (b) of this section, and section 1303.1 of title 16, Code of Federal Regulations (as modified pursuant to subsection (f)(1) or (2)), or any successor regulation, shall be considered a regulation of the Commission promulgated under or for the enforcement of section 2(q) of the Federal Hazardous Substances Act (15 U.S.C. 1261(q)).
 
-(Pub. L. 110–314, title I, § 101, Aug. 14, 2008, 122 Stat. 3017; Pub. L. 112–28, §§ 1, 10(b), Aug. 12, 2011, 125 Stat. 273, 283.)
+(Pub. L. 110–314, title I, § 101, Aug. 14, 2008, 122 Stat. 3017; Pub. L. 112–28, §§ 1, 10(b), Aug. 12, 2011, 125 Stat. 273, 283.)
 
 **Editorial Notes**
 
@@ -1483,7 +1483,7 @@ Any ban imposed by subsection (a) or rule promulgated under subsection (a) or (b
 
 The Federal Hazardous Substances Act, referred to in subsec. (a)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
-The Consumer Product Safety Act, referred to in subsec. (c), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+The Consumer Product Safety Act, referred to in subsec. (c), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
 This Act, referred to in subsec. (e)(3), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2051 of this title and Tables.
 
@@ -1493,25 +1493,25 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 
 **Amendments**
 
-2011—Subsec. (a)(1). Pub. L. 112–28, § 10(b), substituted “(as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)))” for “(as defined in section 3(a)(16) of the Consumer Product Safety Act (15 U.S.C. 2052(a)(16)))”.
+2011—Subsec. (a)(1). Pub. L. 112–28, § 10(b), substituted “(as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)))” for “(as defined in section 3(a)(16) of the Consumer Product Safety Act (15 U.S.C. 2052(a)(16)))”.
 
-Subsec. (a)(3). Pub. L. 112–28, § 1(a), added par. (3).
+Subsec. (a)(3). Pub. L. 112–28, § 1(a), added par. (3).
 
-Subsec. (b)(1). Pub. L. 112–28, § 1(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Commission may, by regulation, exclude a specific product or material from the prohibition in subsection (a) if the Commission, after notice and a hearing, determines on the basis of the best-available, objective, peer-reviewed, scientific evidence that lead in such product or material will neither—
+Subsec. (b)(1). Pub. L. 112–28, § 1(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Commission may, by regulation, exclude a specific product or material from the prohibition in subsection (a) if the Commission, after notice and a hearing, determines on the basis of the best-available, objective, peer-reviewed, scientific evidence that lead in such product or material will neither—
 
 “(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by a child, including swallowing, mouthing, breaking, or other children’s activities, and the aging of the product; nor
 
 “(B) have any other adverse impact on public health or safety.”
 
-Subsec. (b)(2)(A). Pub. L. 112–28, § 1(b)(2), substituted “include” for “include to,”.
+Subsec. (b)(2)(A). Pub. L. 112–28, § 1(b)(2), substituted “include” for “include to,”.
 
-Subsec. (b)(5) to (8). Pub. L. 112–28, § 1(b)(3), added pars. (5) to (7) and redesignated former par. (5) as (8).
+Subsec. (b)(5) to (8). Pub. L. 112–28, § 1(b)(3), added pars. (5) to (7) and redesignated former par. (5) as (8).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 2011 Amendment**
 
-Pub. L. 112–28, § 11, Aug. 12, 2011, 125 Stat. 283, provided that: “Except as provided otherwise, the amendments made by this Act [amending this section and sections 2055a, 2056a, 2056b, 2057c, 2063, 2068, and 2076 of this title and enacting provisions set out as a note under section 2089 of this title] shall take effect on the date of enactment of this Act [Aug. 12, 2011].”
+Pub. L. 112–28, § 11, Aug. 12, 2011, 125 Stat. 283, provided that: “Except as provided otherwise, the amendments made by this Act [amending this section and sections 2055a, 2056a, 2056b, 2057c, 2063, 2068, and 2076 of this title and enacting provisions set out as a note under section 2089 of this title] shall take effect on the date of enactment of this Act [Aug. 12, 2011].”
 
 **Definition**
 

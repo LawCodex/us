@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 2B–1—SECURITIES INVESTOR PROTECTION
 
-## § 78aaa. Short title
+## § 78aaa. Short title
 
 This chapter may be cited as the “Securities Investor Protection Act of 1970”.
 
-(Pub. L. 91–598, § 1(a), Dec. 30, 1970, 84 Stat. 1636.)
+(Pub. L. 91–598, § 1(a), Dec. 30, 1970, 84 Stat. 1636.)
 
 **Editorial Notes**
 
@@ -31,13 +31,13 @@ This chapter, referred to in text, was in the original “This Act”, meaning P
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–283, § 1, May 21, 1978, 92 Stat. 249, provided that: “This Act [enacting sections 78fff–1 to 78fff–4 of this title, amending sections 77c, 78c, 78k, and 78ccc to 78*lll* of this title and enacting provisions set out as a note under section 78k of this title] may be cited as the ‘Securities Investor Protection Act Amendments of 1978’.”
+Pub. L. 95–283, § 1, May 21, 1978, 92 Stat. 249, provided that: “This Act [enacting sections 78fff–1 to 78fff–4 of this title, amending sections 77c, 78c, 78k, and 78ccc to 78*lll* of this title and enacting provisions set out as a note under section 78k of this title] may be cited as the ‘Securities Investor Protection Act Amendments of 1978’.”
 
-## § 78bbb. Application of Securities Exchange Act of 1934
+## § 78bbb. Application of Securities Exchange Act of 1934
 
 Except as otherwise provided in this chapter, the provisions of the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] (hereinafter referred to as the “1934 Act”) apply as if this chapter constituted an amendment to, and was included as a section of, such Act.
 
-(Pub. L. 91–598, § 2, Dec. 30, 1970, 84 Stat. 1637.)
+(Pub. L. 91–598, § 2, Dec. 30, 1970, 84 Stat. 1637.)
 
 **Editorial Notes**
 
@@ -45,9 +45,9 @@ Except as otherwise provided in this chapter, the provisions of the Securities E
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
-The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-## § 78ccc. Securities Investor Protection Corporation
+## § 78ccc. Securities Investor Protection Corporation
 
 **(a) Creation and membership**
 
@@ -195,7 +195,7 @@ At any time within sixty days after the date of filing of any rule change which 
 
 The Commission may, by such rules as it determines to be necessary or appropriate in the public interest or to carry out the purposes of this chapter, require SIPC to adopt, amend, or repeal any SIPC bylaw or rule, whenever adopted.
 
-(Pub. L. 91–598, § 3, Dec. 30, 1970, 84 Stat. 1637; Pub. L. 95–283, §§ 2–5, May 21, 1978, 92 Stat. 249–251; Pub. L. 106–554, § 1(a)(5) [title II, § 203(d)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
+(Pub. L. 91–598, § 3, Dec. 30, 1970, 84 Stat. 1637; Pub. L. 95–283, §§ 2–5, May 21, 1978, 92 Stat. 249–251; Pub. L. 106–554, § 1(a)(5) [title II, § 203(d)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
 
 **Editorial Notes**
 
@@ -209,19 +209,19 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1
 
 2000—Subsec. (a)(2)(A)(iii). Pub. L. 106–554 added cl. (iii).
 
-1978—Subsec. (a). Pub. L. 95–283, § 2(a), substituted “Creation and membership” for “Creation” in heading, redesignated introductory text and cls. (1) and (3) as par. (1), and added par. 2 which incorporated provisions formerly contained in cl. (2) as par. (2)(A).
+1978—Subsec. (a). Pub. L. 95–283, § 2(a), substituted “Creation and membership” for “Creation” in heading, redesignated introductory text and cls. (1) and (3) as par. (1), and added par. 2 which incorporated provisions formerly contained in cl. (2) as par. (2)(A).
 
-Subsec. (b). Pub. L. 95–283, § 3, in par. (1) substituted “State, Federal, or other court” for “court, State, or Federal”, in par. (3) substituted provisions relating to adoption, etc., of bylaws by the Board of Directors, for provisions relating to adoption, etc., of bylaws and rules by the Board of Directors, added par. (4), and redesignated former pars. (4) to (8) as (5) to (9), respectively.
+Subsec. (b). Pub. L. 95–283, § 3, in par. (1) substituted “State, Federal, or other court” for “court, State, or Federal”, in par. (3) substituted provisions relating to adoption, etc., of bylaws by the Board of Directors, for provisions relating to adoption, etc., of bylaws and rules by the Board of Directors, added par. (4), and redesignated former pars. (4) to (8) as (5) to (9), respectively.
 
-Subsec. (c)(2)(C)(ii). Pub. L. 95–283, § 4(a), substituted “a broker or dealer or associated with a member of a national securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group,” for “any broker or dealer, within the meaning of paragraph (18) of section 78c(a) of this title, or similarly associated with a national securities exchange or other securities industry group”.
+Subsec. (c)(2)(C)(ii). Pub. L. 95–283, § 4(a), substituted “a broker or dealer or associated with a member of a national securities exchange, within the meaning of section 78c(a)(18) or section 78c(a)(21), respectively, of this title, or similarly associated with any self-regulatory organization or other securities industry group,” for “any broker or dealer, within the meaning of paragraph (18) of section 78c(a) of this title, or similarly associated with a national securities exchange or other securities industry group”.
 
-Subsec. (c)(5). Pub. L. 95–283, § 4(b), substituted “Compensation” for “Compensation, etc.” in heading, and in text struck out provisions relating to determinations of dollar volume of trading on exchanges.
+Subsec. (c)(5). Pub. L. 95–283, § 4(b), substituted “Compensation” for “Compensation, etc.” in heading, and in text struck out provisions relating to determinations of dollar volume of trading on exchanges.
 
-Subsec. (e). Pub. L. 95–283, § 5, inserted “and rules” after “Bylaws” in heading, and in text substituted provisions relating to procedures applicable to proposed changes in the bylaws and rules of SIPC and required action by the Commission with respect to any SIPC bylaw or rule, for provisions relating to procedures applicable to adoption of initial bylaws and rules of SIPC and any alteration, supplement, repeal, or addition, effective date of any such bylaw or rule, and required action by the Commission with respect to any SIPC bylaw or rule.
+Subsec. (e). Pub. L. 95–283, § 5, inserted “and rules” after “Bylaws” in heading, and in text substituted provisions relating to procedures applicable to proposed changes in the bylaws and rules of SIPC and required action by the Commission with respect to any SIPC bylaw or rule, for provisions relating to procedures applicable to adoption of initial bylaws and rules of SIPC and any alteration, supplement, repeal, or addition, effective date of any such bylaw or rule, and required action by the Commission with respect to any SIPC bylaw or rule.
 
-Subsec. (f). Pub. L. 95–283, § 2(b), struck out subsec. (f) which set forth qualifications for other members of SIPC.
+Subsec. (f). Pub. L. 95–283, § 2(b), struck out subsec. (f) which set forth qualifications for other members of SIPC.
 
-## § 78ddd. SIPC Fund
+## § 78ddd. SIPC Fund
 
 **(a) In general**
 
@@ -331,7 +331,7 @@ To enable the Commission to make loans under subsection (g), the Commission is a
 
 Except as otherwise provided by SIPC bylaw, gross revenues from the securities business of a member of SIPC shall be computed on a consolidated basis for such member and all its subsidiaries (other than the foreign subsidiaries of such member), and the operations of a member of SIPC shall include those of any business to which such member has succeeded.
 
-(Pub. L. 91–598, § 4, Dec. 30, 1970, 84 Stat. 1639; Pub. L. 95–283, § 6, May 21, 1978, 92 Stat. 253; Pub. L. 111–203, title IX, §§ 929C, 929V(a), July 21, 2010, 124 Stat. 1852, 1868.)
+(Pub. L. 91–598, § 4, Dec. 30, 1970, 84 Stat. 1639; Pub. L. 95–283, § 6, May 21, 1978, 92 Stat. 253; Pub. L. 111–203, title IX, §§ 929C, 929V(a), July 21, 2010, 124 Stat. 1852, 1868.)
 
 **Editorial Notes**
 
@@ -341,27 +341,27 @@ This chapter, referred to in subsecs. (a)(1), (4), (c)(3), (g), and (i)(1), was 
 
 **Codification**
 
-In subsec. (h), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act, as amended,”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (h), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act, as amended,”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 **Amendments**
 
-2010—Subsec. (d)(1)(C). Pub. L. 111–203, § 929V(a), substituted “0.02 percent of the gross revenues from the securities business of such member of SIPC” for “$150 per annum”.
+2010—Subsec. (d)(1)(C). Pub. L. 111–203, § 929V(a), substituted “0.02 percent of the gross revenues from the securities business of such member of SIPC” for “$150 per annum”.
 
-Subsec. (h). Pub. L. 111–203, § 929C, substituted “$2,500,000,000” for “$1,000,000,000” in first sentence.
+Subsec. (h). Pub. L. 111–203, § 929C, substituted “$2,500,000,000” for “$1,000,000,000” in first sentence.
 
-1978—Subsec. (a). Pub. L. 95–283, § 6(a), in par. (2) substituted “Except as otherwise provided in this section, the” for “The”, in par. (2)(C) inserted provisions for inapplicability to other lines of credit, and added par. (4).
+1978—Subsec. (a). Pub. L. 95–283, § 6(a), in par. (2) substituted “Except as otherwise provided in this section, the” for “The”, in par. (2)(C) inserted provisions for inapplicability to other lines of credit, and added par. (4).
 
-Subsec. (c). Pub. L. 95–283, § 6(b), in par. (2) struck out “or rule” after “bylaw”, and in par. (3) struck out reference to section 78ccc(f) of this title in introductory text and “or rule” after “bylaw” in subpar. (B).
+Subsec. (c). Pub. L. 95–283, § 6(b), in par. (2) struck out “or rule” after “bylaw”, and in par. (3) struck out reference to section 78ccc(f) of this title in introductory text and “or rule” after “bylaw” in subpar. (B).
 
-Subsec. (d)(1)(C). Pub. L. 95–283, § 6(c), added subpar. (C).
+Subsec. (d)(1)(C). Pub. L. 95–283, § 6(c), added subpar. (C).
 
-Subsec. (e). Pub. L. 95–283, § 6(d), in par. (2) substituted “be recoverable only against future payments by such member, except as otherwise provided by SIPC bylaw” for “not be recoverable except against future payments by such member in accordance with a bylaw or rule of SIPC”, and in par. (3) substituted provisions authorizing interest and penalty charges to be imposed by SIPC bylaw and amount of penalty charge, for provisions authorizing interest to be imposed by SIPC bylaw or rule.
+Subsec. (e). Pub. L. 95–283, § 6(d), in par. (2) substituted “be recoverable only against future payments by such member, except as otherwise provided by SIPC bylaw” for “not be recoverable except against future payments by such member in accordance with a bylaw or rule of SIPC”, and in par. (3) substituted provisions authorizing interest and penalty charges to be imposed by SIPC bylaw and amount of penalty charge, for provisions authorizing interest to be imposed by SIPC bylaw or rule.
 
-Subsec. (f). Pub. L. 95–283, § 6(e), struck out “examining authority as” before “collection agent for SIPC, shall immediately be subject”.
+Subsec. (f). Pub. L. 95–283, § 6(e), struck out “examining authority as” before “collection agent for SIPC, shall immediately be subject”.
 
-Subsec. (g). Pub. L. 95–283, § 6(f), redesignated cls. (A) to (C) as (1) to (3), respectively, and, as so redesignated, in cl. (2) struck out applicability to a member of a national securities exchange and in cl. (3) substituted provisions relating to exemptions by rule of transactions in the over-the-counter market or on any national securities exchange, for provisions relating to exemptions by rules and regulations of transactions in the over-the-counter market, and inserted provisions authorizing the collection of fees by such other persons as designated by the Commission by rule for such purpose, and provisions relating to limits on manner of payment of fees.
+Subsec. (g). Pub. L. 95–283, § 6(f), redesignated cls. (A) to (C) as (1) to (3), respectively, and, as so redesignated, in cl. (2) struck out applicability to a member of a national securities exchange and in cl. (3) substituted provisions relating to exemptions by rule of transactions in the over-the-counter market or on any national securities exchange, for provisions relating to exemptions by rules and regulations of transactions in the over-the-counter market, and inserted provisions authorizing the collection of fees by such other persons as designated by the Commission by rule for such purpose, and provisions relating to limits on manner of payment of fees.
 
-Subsec. (i). Pub. L. 95–283, § 6(g), substituted “Consolidated group” for “ ‘Gross revenues’ defined” in heading, redesignated par. (2) as entire section and, as so redesignated, substituted provisions relating to computations by a member, for provisions relating to computations by a broker or dealer. Pars. (1) and (3), which generally defined term “gross revenues” and authorized the SIPC to define all other terms used in this subsec., respectively, were struck out.
+Subsec. (i). Pub. L. 95–283, § 6(g), substituted “Consolidated group” for “ ‘Gross revenues’ defined” in heading, redesignated par. (2) as entire section and, as so redesignated, substituted provisions relating to computations by a member, for provisions relating to computations by a broker or dealer. Pars. (1) and (3), which generally defined term “gross revenues” and authorized the SIPC to define all other terms used in this subsec., respectively, were struck out.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -369,7 +369,7 @@ Subsec. (i). Pub. L. 95–283, § 6(g), substituted “Consolidated group” f
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-## § 78eee. Protection of customers
+## § 78eee. Protection of customers
 
 **(a) Determination of need of protection**
 
@@ -385,15 +385,15 @@ If a self-regulatory organization has given notice to SIPC pursuant to subsectio
 
 **(A) In general** SIPC may, upon notice to a member of SIPC, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member, the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title, if SIPC determines that—
 
-**(A)**  1
+**(A)** 1
 
-<sup>1</sup>  So in original. Probably should be “(i)”.
+<sup>1</sup> So in original. Probably should be “(i)”.
 
 the member (including any person who was a member within one hundred eighty days prior to such determination) has failed or is in danger of failing to meet its obligations to customers; and
 
-**(B)**  2
+**(B)** 2
 
-<sup>2</sup>  So in original. Probably should be “(ii)”.
+<sup>2</sup> So in original. Probably should be “(ii)”.
 
 one or more of the conditions specified in subsection (b)(1) exist with respect to such member.
 
@@ -505,19 +505,19 @@ The Commission may, on its own motion, file notice of its appearance in any proc
 
 SIPC shall be deemed to be a party in interest as to all matters arising in a liquidation proceeding, with the right to be heard on all such matters, and shall be deemed to have intervened with respect to all such matters with the same force and effect as if a petition for such purpose had been allowed by the court.
 
-(Pub. L. 91–598, § 5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, § 7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, § 308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, § 911, Apr. 20, 2005, 119 Stat. 185; Pub. L. 109–390, § 5(c), Dec. 12, 2006, 120 Stat. 2698; Pub. L. 111–203, title IX, § 929H(b), July 21, 2010, 124 Stat. 1857.)
+(Pub. L. 91–598, § 5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, § 7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, § 308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, § 911, Apr. 20, 2005, 119 Stat. 185; Pub. L. 109–390, § 5(c), Dec. 12, 2006, 120 Stat. 2698; Pub. L. 111–203, title IX, § 929H(b), July 21, 2010, 124 Stat. 1857.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (a)(3)(B), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title II of the Act is classified principally to subchapter II (§ 5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (a)(3)(B), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title II of the Act is classified principally to subchapter II (§ 5381 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
-The 1934 Act, referred to in subsec. (b)(1)(C), means act June 6, 1934, ch. 404, 48 Stat. 881, known as the Securities Exchange Act of 1934, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The 1934 Act, referred to in subsec. (b)(1)(C), means act June 6, 1934, ch. 404, 48 Stat. 881, known as the Securities Exchange Act of 1934, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 This chapter, referred to in subsecs. (b)(2)(A)(iii), (5)(C), and (c), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
-The Commodity Exchange Act, referred to in subsec. (b)(2)(C)(iii), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (b)(2)(C)(iii), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (b)(2)(C)(iii), is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
@@ -529,31 +529,31 @@ The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to i
 
 2005—Subsec. (b)(2)(C). Pub. L. 109–8 added subpar. (C).
 
-1978—Subsec. (a). Pub. L. 95–283, § 7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted “with respect to a member of SIPC filed with a court under paragraph (3)” for “under paragraph (2)” in introductory text and inserted “may,” before “with the” in cl. (A).
+1978—Subsec. (a). Pub. L. 95–283, § 7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted “with respect to a member of SIPC filed with a court under paragraph (3)” for “under paragraph (2)” in introductory text and inserted “may,” before “with the” in cl. (A).
 
-Subsec. (b)(1)(A). Pub. L. 95–598, § 308(a)(1), substituted “section 101 of title 11” for “the Bankruptcy Act”.
+Subsec. (b)(1)(A). Pub. L. 95–598, § 308(a)(1), substituted “section 101 of title 11” for “the Bankruptcy Act”.
 
-Subsec. (b)(1)(B) to (E). Pub. L. 95–598, § 308(a)(2), (3), redesignated subpars. (C) to (E) as subpars. (B) to (D), respectively. Former subpar. (B), which provided for issuance of protective decree where court found that debtor had committed act of bankruptcy within meaning of Bankruptcy Act, was struck out.
+Subsec. (b)(1)(B) to (E). Pub. L. 95–598, § 308(a)(2), (3), redesignated subpars. (C) to (E) as subpars. (B) to (D), respectively. Former subpar. (B), which provided for issuance of protective decree where court found that debtor had committed act of bankruptcy within meaning of Bankruptcy Act, was struck out.
 
-Subsec. (b)(2)(A)(iii). Pub. L. 95–598, § 308(b), substituted “the United States having jurisdiction over cases under title 11” for “bankruptcy by the Bankruptcy Act”.
+Subsec. (b)(2)(A)(iii). Pub. L. 95–598, § 308(b), substituted “the United States having jurisdiction over cases under title 11” for “bankruptcy by the Bankruptcy Act”.
 
-Subsec. (b)(2)(B)(iii). Pub. L. 95–598, § 308(c), substituted “any right of setoff, except to the extent such right may be affected under section 553 of title 11, and shall not abrogate” for “the right of setoff provided in section 68 of the Bankruptcy Act”.
+Subsec. (b)(2)(B)(iii). Pub. L. 95–598, § 308(c), substituted “any right of setoff, except to the extent such right may be affected under section 553 of title 11, and shall not abrogate” for “the right of setoff provided in section 68 of the Bankruptcy Act”.
 
-Subsec. (b)(3). Pub. L. 95–598, § 308(d), substituted “section 322 of title 11” for “the applicable provisions of the Bankruptcy Act”.
+Subsec. (b)(3). Pub. L. 95–598, § 308(d), substituted “section 322 of title 11” for “the applicable provisions of the Bankruptcy Act”.
 
-Subsec. (b)(4). Pub. L. 95–598, § 308(e), substituted provisions relating to removal of proceeding to Bankruptcy Court for provisions relating to reference of proceeding to referee in bankruptcy.
+Subsec. (b)(4). Pub. L. 95–598, § 308(e), substituted provisions relating to removal of proceeding to Bankruptcy Court for provisions relating to reference of proceeding to referee in bankruptcy.
 
-Subsec. (b)(5)(B). Pub. L. 95–598, § 308(f)(1), (2), (5), redesignated subpar. (C) as (B) and substituted “title 11 governing applications for allowances under such title” for “the Bankruptcy Act governing applications for allowances under such Act”. Former subpar. (B), which covered allowances to a referee in bankruptcy or special master, was struck out.
+Subsec. (b)(5)(B). Pub. L. 95–598, § 308(f)(1), (2), (5), redesignated subpar. (C) as (B) and substituted “title 11 governing applications for allowances under such title” for “the Bankruptcy Act governing applications for allowances under such Act”. Former subpar. (B), which covered allowances to a referee in bankruptcy or special master, was struck out.
 
-Subsec. (b)(5)(C). Pub. L. 95–598, § 308(f)(2), (3), (5), redesignated subpar. (D) as (C) and substituted “subparagraph (B)” for “subparagraph (C)”. Former subpar. (C) redesignated (B).
+Subsec. (b)(5)(C). Pub. L. 95–598, § 308(f)(2), (3), (5), redesignated subpar. (D) as (C) and substituted “subparagraph (B)” for “subparagraph (C)”. Former subpar. (C) redesignated (B).
 
-Subsec. (b)(5)(D). Pub. L. 95–598, § 308(f)(2), (4), (5), redesignated subpar. (E) as (D) and substituted “Section 504 of title 11” for “the Bankruptcy Act”. Former subpar. (D) redesignated (C).
+Subsec. (b)(5)(D). Pub. L. 95–598, § 308(f)(2), (4), (5), redesignated subpar. (E) as (D) and substituted “Section 504 of title 11” for “the Bankruptcy Act”. Former subpar. (D) redesignated (C).
 
-Subsec. (b)(5)(E), (F). Pub. L. 95–598, § 308(f)(5), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
+Subsec. (b)(5)(E), (F). Pub. L. 95–598, § 308(f)(5), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-Subsec. (b). Pub. L. 95–283, § 7(b), in par. (1) inserted “protective” after “of” in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted “Jurisdiction and powers of court” for “Exclusive jurisdiction over debtor” in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted “and attorney” after “trustee” in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted “Reference to referee in bankruptcy” for “Debtor and filing date defined” in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms “debtor” and “filing date”, and added pars. (5) and (6).
+Subsec. (b). Pub. L. 95–283, § 7(b), in par. (1) inserted “protective” after “of” in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted “Jurisdiction and powers of court” for “Exclusive jurisdiction over debtor” in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted “and attorney” after “trustee” in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted “Reference to referee in bankruptcy” for “Debtor and filing date defined” in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms “debtor” and “filing date”, and added pars. (5) and (6).
 
-Subsec. (d). Pub. L. 95–283, § 7(c), added subsec. (d).
+Subsec. (d). Pub. L. 95–283, § 7(c), added subsec. (d).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -573,7 +573,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 78fff. General provisions of a liquidation proceeding
+## § 78fff. General provisions of a liquidation proceeding
 
 **(a) Purposes** The purposes of a liquidation proceeding under this chapter shall be—
 
@@ -605,7 +605,7 @@ In a liquidation proceeding under this chapter, any cash or securities remaining
 
 All costs and expenses of administration of the estate of the debtor and of the liquidation proceeding shall be borne by the general estate of the debtor to the extent it is sufficient therefor, and the priorities of distribution from the general estate shall be as provided in section 726 of title 11. Costs and expenses of administration shall include payments pursuant to section 78fff–2(e) of this title and section 78fff–3(c)(1) of this title (to the extent such payments recovered securities which were apportioned to the general estate pursuant to subsection (d)) and costs and expenses of SIPC employees utilized by the trustee pursuant to section 78fff–1(a)(2) of this title. All funds advanced by SIPC to a trustee for such costs and expenses of administration shall be recouped from the general estate under section 507(a)(2) of title 11.
 
-(Pub. L. 91–598, § 6, Dec. 30, 1970, 84 Stat. 1646; Pub. L. 95–283, § 8, May 21, 1978, 92 Stat. 259; Pub. L. 95–598, title III, § 308(g), (h), Nov. 6, 1978, 92 Stat. 2675; Pub. L. 109–8, title XV, § 1502(b), Apr. 20, 2005, 119 Stat. 217.)
+(Pub. L. 91–598, § 6, Dec. 30, 1970, 84 Stat. 1646; Pub. L. 95–283, § 8, May 21, 1978, 92 Stat. 259; Pub. L. 95–598, title III, § 308(g), (h), Nov. 6, 1978, 92 Stat. 2675; Pub. L. 109–8, title XV, § 1502(b), Apr. 20, 2005, 119 Stat. 217.)
 
 **Editorial Notes**
 
@@ -621,7 +621,7 @@ This chapter, referred to in subsecs. (a)(1), (3), (b), (c), and (d), was in the
 
 Subsec. (a). Pub. L. 95–283 in heading substituted “Purposes” for “General purposes of liquidation proceeding”, in introductory text substituted provisions relating to purposes of liquidation proceedings under this chapter, for provisions relating to purposes of any proceeding in which a trustee has been appointed under section 78eee(b)(3) of this title, in par. (1) substituted provisions requiring execution of authorities to deliver customer name securities and distribute customer property in accordance with this chapter, for provisions requiring execution of authorities to return specifically identifiable property and distribute the single and separate fund in accordance with this section, and in par. (2) substituted provisions authorizing sale, etc., of productive units of the debtor, for provisions authorizing operation of the business of the debtor.
 
-Subsec. (b). Pub. L. 95–598, § 308(g), in heading substituted “title 11” for “Bankruptcy Act” and in text “under chapters 1, 3, and 5 and subchapters I and II of chapter 7 of title 11. For the purposes of applying such title in carrying out this section, a reference in such title to the date of the filing of the petition shall be deemed to be a reference to the filing date under this chapter.” for “under, the Bankruptcy Act. For purposes of applying the Bankruptcy Act to this chapter, any reference in the Bankruptcy Act to the date of commencement of proceedings under the Bankruptcy Act shall be deemed to be a reference to the filing date under this chapter.”
+Subsec. (b). Pub. L. 95–598, § 308(g), in heading substituted “title 11” for “Bankruptcy Act” and in text “under chapters 1, 3, and 5 and subchapters I and II of chapter 7 of title 11. For the purposes of applying such title in carrying out this section, a reference in such title to the date of the filing of the petition shall be deemed to be a reference to the filing date under this chapter.” for “under, the Bankruptcy Act. For purposes of applying the Bankruptcy Act to this chapter, any reference in the Bankruptcy Act to the date of commencement of proceedings under the Bankruptcy Act shall be deemed to be a reference to the filing date under this chapter.”
 
 Pub. L. 95–283 in heading substituted “Application of Bankruptcy Act” for “Powers and Duties of Trustee”, and in text substituted provisions relating to applicability of Bankruptcy Act to liquidation proceedings, for provisions relating to the powers and duties of trustees. See section 78fff–1 of this title.
 
@@ -629,7 +629,7 @@ Subsec. (c). Pub. L. 95–283 in heading substituted “Determination of custome
 
 Subsec. (d). Pub. L. 95–283 in heading substituted “Apportionment” for “Completion of open contractual commitments”, and in text substituted provisions relating to apportionment of cash or securities remaining after the liquidation of a lien or pledge made by a debtor, for provisions relating to completion by the trustee of open contractual commitments, which were made in the ordinary course of the debtor’s business and which were outstanding on the filing date. See section 78fff–2(e) of this title.
 
-Subsec. (e). Pub. L. 95–598, § 308(h), substituted in first sentence “section 726 of title 11” for “the Bankruptcy Act” and in last sentence “under section 507(a)(1) of title 11” for “as a first priority under the Bankruptcy Act”.
+Subsec. (e). Pub. L. 95–598, § 308(h), substituted in first sentence “section 726 of title 11” for “the Bankruptcy Act” and in last sentence “under section 507(a)(1) of title 11” for “as a first priority under the Bankruptcy Act”.
 
 Pub. L. 95–283 in heading substituted “Costs and expense of administration” for “Notice”, and in text substituted provisions relating to costs and expenses of administration of the estate of the debtor and of the liquidation proceeding, for provisions relating to notice requirements for the trustee subsequent to appointment as trustee. See section 78fff–2(a)(l) of this title.
 
@@ -653,7 +653,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 78fff–1. Powers and duties of a trustee
+## § 78fff–1. Powers and duties of a trustee
 
 **(a) Trustee powers** A trustee shall be vested with the same powers and title with respect to the debtor and the property of the debtor, including the same rights to avoid preferences, as a trustee in a case under title 11. In addition, a trustee may, with the approval of SIPC but without any need for court approval—
 
@@ -683,7 +683,7 @@ The trustee shall make to the court and to SIPC such written reports as may be r
 
 **(4)** as soon as practicable, prepare and submit, to SIPC and such other persons as the court designates and in such form and manner as the court directs, a statement of his investigation of matters referred to in paragraph (1).
 
-(Pub. L. 91–598, § 7, as added Pub. L. 95–283, § 9, May 21, 1978, 92 Stat. 260; amended Pub. L. 95–598, title III, § 308(i)–(k), Nov. 6, 1978, 92 Stat. 2675.)
+(Pub. L. 91–598, § 7, as added Pub. L. 95–283, § 9, May 21, 1978, 92 Stat. 260; amended Pub. L. 95–598, title III, § 308(i)–(k), Nov. 6, 1978, 92 Stat. 2675.)
 
 **Editorial Notes**
 
@@ -693,11 +693,11 @@ A prior section 7 of Pub. L. 91–598 was renumbered section 11 and is classifie
 
 **Amendments**
 
-1978—Subsec. (a). Pub. L. 95–598, § 308(i), substituted “trustee in a case under title 11” for “trustee in bankruptcy under the Bankruptcy Act has with respect to a bankrupt and the property of a bankrupt”.
+1978—Subsec. (a). Pub. L. 95–598, § 308(i), substituted “trustee in a case under title 11” for “trustee in bankruptcy under the Bankruptcy Act has with respect to a bankrupt and the property of a bankrupt”.
 
-Subsec. (b). Pub. L. 95–598, § 308(j), substituted “trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7,” for “trustee in bankruptcy”.
+Subsec. (b). Pub. L. 95–598, § 308(j), substituted “trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7,” for “trustee in bankruptcy”.
 
-Subsec. (c). Pub. L. 95–598, § 308(k), substituted “required of a trustee in a case under chapter 7 of title 11” for “required by the Bankruptcy Act”.
+Subsec. (c). Pub. L. 95–598, § 308(k), substituted “required of a trustee in a case under chapter 7 of title 11” for “required by the Bankruptcy Act”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -705,7 +705,7 @@ Subsec. (c). Pub. L. 95–598, § 308(k), substituted “required of a trustee
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 78fff–2. Special provisions of a liquidation proceeding
+## § 78fff–2. Special provisions of a liquidation proceeding
 
 **(a) Notice and claims**
 
@@ -795,7 +795,7 @@ A claiming broker or dealer shall be deemed to have been acting on behalf of its
 
 The funds of SIPC may be made available to guarantee or secure any indemnification under paragraph (2). The prior approval of SIPC to such indemnification shall be conditioned, among such other standards as SIPC may determine, upon a determination by SIPC that the probable cost of any such indemnification can reasonably be expected not to exceed the cost to SIPC of proceeding under section 78fff–3(a) of this title and section 78fff–3(b) of this title.
 
-(Pub. L. 91–598, § 8, as added Pub. L. 95–283, § 9, May 21, 1978, 92 Stat. 261; amended Pub. L. 95–598, title III, § 308(*l*), (m), Nov. 6, 1978, 92 Stat. 2675.)
+(Pub. L. 91–598, § 8, as added Pub. L. 95–283, § 9, May 21, 1978, 92 Stat. 261; amended Pub. L. 95–598, title III, § 308(*l*), (m), Nov. 6, 1978, 92 Stat. 2675.)
 
 **Editorial Notes**
 
@@ -813,7 +813,7 @@ A prior section 8 of Pub. L. 91–598 was renumbered section 12 and is classifie
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 78fff–3. SIPC advances
+## § 78fff–3. SIPC advances
 
 **(a) Advances for customers’ claims** In order to provide for prompt payment and satisfaction of net equity claims of customers of the debtor, SIPC shall advance to the trustee such moneys, not to exceed $500,000 for each customer, as may be required to pay or otherwise satisfy claims for the amount by which the net equity of each customer exceeds his ratable share of customer property, except that—
 
@@ -879,7 +879,7 @@ Any adjustment to the standard maximum cash advance amount shall take effect on 
 
 **(C)** such other factors as the Board of Directors of SIPC may determine appropriate.
 
-(Pub. L. 91–598, § 9, as added Pub. L. 95–283, § 9, May 21, 1978, 92 Stat. 265; amended Pub. L. 96–433, § 1, Oct. 10, 1980, 94 Stat. 1855; Pub. L. 111–203, title IX, §§ 929H(a), 983(a), July 21, 2010, 124 Stat. 1856, 1931.)
+(Pub. L. 91–598, § 9, as added Pub. L. 95–283, § 9, May 21, 1978, 92 Stat. 265; amended Pub. L. 96–433, § 1, Oct. 10, 1980, 94 Stat. 1855; Pub. L. 111–203, title IX, §§ 929H(a), 983(a), July 21, 2010, 124 Stat. 1856, 1931.)
 
 **Editorial Notes**
 
@@ -893,15 +893,15 @@ A prior section 9 of Pub. L. 91–598 was renumbered section 13 and is classifie
 
 **Amendments**
 
-2010—Subsec. (a)(1). Pub. L. 111–203, § 983(a), inserted “or options on commodity futures contracts” after “claim for securities”.
+2010—Subsec. (a)(1). Pub. L. 111–203, § 983(a), inserted “or options on commodity futures contracts” after “claim for securities”.
 
-Pub. L. 111–203, § 929H(a)(1), substituted “the standard maximum cash advance amount for each such customer, as determined in accordance with subsection (d)” for “$100,000 for each such customer”.
+Pub. L. 111–203, § 929H(a)(1), substituted “the standard maximum cash advance amount for each such customer, as determined in accordance with subsection (d)” for “$100,000 for each such customer”.
 
-Subsecs. (d), (e). Pub. L. 111–203, § 929H(a)(2), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 111–203, § 929H(a)(2), added subsecs. (d) and (e).
 
-1980—Subsec. (a). Pub. L. 96–433, § 1(1), substituted in opening par. “$500,000” for “$100,000”.
+1980—Subsec. (a). Pub. L. 96–433, § 1(1), substituted in opening par. “$500,000” for “$100,000”.
 
-Subsec. (a)(1). Pub. L. 96–433, § 1(2), substituted “$100,000” for “$40,000”.
+Subsec. (a)(1). Pub. L. 96–433, § 1(2), substituted “$100,000” for “$40,000”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -913,7 +913,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 Amendment by Pub. L. 96–433 effective Oct. 10, 1980, see section 5(a) of Pub. L. 96–433, set out as a note under section 78u of this title.
 
-## § 78fff–4. Direct payment procedure
+## § 78fff–4. Direct payment procedure
 
 **(a) Determination regarding direct payments** If SIPC determines that—
 
@@ -955,7 +955,7 @@ If, at any time after the institution of a direct payment procedure with respect
 
 For purposes of this section, any reference to the trustee in sections 78fff–1(b)(1), 78fff–2(d), 78fff–2(f), 78fff–3(a), 78*lll*(5) and 78*lll*(12) of this title shall be deemed a reference to SIPC, and any reference to the date of publication of notice under section 78fff–2(a) of this title shall be deemed a reference to the publication of notice under this section.
 
-(Pub. L. 91–598, § 10, as added Pub. L. 95–283, § 9, May 21, 1978, 92 Stat. 266; amended Pub. L. 95–598, title III, § 308(n), Nov. 6, 1978, 92 Stat. 2675.)
+(Pub. L. 91–598, § 10, as added Pub. L. 95–283, § 9, May 21, 1978, 92 Stat. 266; amended Pub. L. 95–598, title III, § 308(n), Nov. 6, 1978, 92 Stat. 2675.)
 
 **Editorial Notes**
 
@@ -965,9 +965,9 @@ A prior section 10 of Pub. L. 91–598 was renumbered section 14 and is classifi
 
 **Amendments**
 
-1978—Subsec. (e). Pub. L. 95–598, § 308(n)(3), which directed striking out “, without regard to the citizenship of the parties or the amount in the controversy”, was executed by striking out “, without regard to the citizenship of the parties or the amount in controversy” after “adjudication of such claim” to reflect the probable intent of Congress.
+1978—Subsec. (e). Pub. L. 95–598, § 308(n)(3), which directed striking out “, without regard to the citizenship of the parties or the amount in the controversy”, was executed by striking out “, without regard to the citizenship of the parties or the amount in controversy” after “adjudication of such claim” to reflect the probable intent of Congress.
 
-Pub. L. 95–598, § 308(n)(1), (2), substituted “Bankruptcy Courts” for “District Courts” in heading and “courts of the United States having jurisdiction over cases under title 11” for “district courts of the United States” in text.
+Pub. L. 95–598, § 308(n)(1), (2), substituted “Bankruptcy Courts” for “District Courts” in heading and “courts of the United States having jurisdiction over cases under title 11” for “district courts of the United States” in text.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -975,7 +975,7 @@ Pub. L. 95–598, § 308(n)(1), (2), substituted “Bankruptcy Courts” for �
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-## § 78ggg. SEC functions
+## § 78ggg. SEC functions
 
 **(a) Administrative procedure**
 
@@ -995,7 +995,7 @@ The Commission may make such examinations and inspections of SIPC and require SI
 
 As soon as practicable after the close of each fiscal year, SIPC shall submit to the Commission a written report relative to the conduct of its business, and the exercise of the other rights and powers granted by this chapter, during such fiscal year. Such report shall include financial statements setting forth the financial position of SIPC at the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year. The financial statements so included shall be examined by an independent public accountant or firm of independent public accountants, selected by SIPC and satisfactory to the Commission, and shall be accompanied by the report thereon of such accountant or firm. The Commission shall transmit such report to the President and the Congress with such comment thereon as the Commission may deem appropriate.
 
-(Pub. L. 91–598, § 11, formerly § 7, Dec. 30, 1970, 84 Stat. 1652, 1653; renumbered § 11 and amended Pub. L. 95–283, §§ 9, 10, May 21, 1978, 92 Stat. 260, 268.)
+(Pub. L. 91–598, § 11, formerly § 7, Dec. 30, 1970, 84 Stat. 1652, 1653; renumbered § 11 and amended Pub. L. 95–283, §§ 9, 10, May 21, 1978, 92 Stat. 260, 268.)
 
 **Editorial Notes**
 
@@ -1021,11 +1021,11 @@ A prior section 11 of Pub. L. 91–598 was renumbered section 15 and is classifi
 
 For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this section relating to submittal of annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 191 of House Document No. 103–7.
 
-## § 78hhh. Examining authority functions
+## § 78hhh. Examining authority functions
 
 Each member of SIPC shall file with such member’s examining authority, or collection agent if a collection agent has been designated pursuant to section 78iii(a) of this title, such information (including reports of, and information with respect to, the gross revenues from the securities business of such member, including the composition thereof, transactions in securities effected by such member, and other information with respect to such member’s activities, whether in the securities business or otherwise, including customer accounts maintained, net capital employed, and activities conducted) as SIPC may determine to be necessary or appropriate for the purpose of making assessments under section 78ddd of this title. The examining authority or collection agent shall file with SIPC all or such part of such information (and such compilations and analyses thereof) as SIPC, by bylaw or rule, shall prescribe. No application, report, or document filed pursuant to this section shall be deemed to be filed pursuant to section 78r of this title.
 
-(Pub. L. 91–598, § 12, formerly § 8, Dec. 30, 1970, 84 Stat. 1653; renumbered § 12 and amended Pub. L. 95–283, §§ 9, 11, May 21, 1978, 92 Stat. 260, 268.)
+(Pub. L. 91–598, § 12, formerly § 8, Dec. 30, 1970, 84 Stat. 1653; renumbered § 12 and amended Pub. L. 95–283, §§ 9, 11, May 21, 1978, 92 Stat. 260, 268.)
 
 **Editorial Notes**
 
@@ -1037,7 +1037,7 @@ A prior section 12 of Pub. L. 91–598 was renumbered section 16 and is classifi
 
 1978—Pub. L. 95–283 inserted provisions relating to applicability to a collection agent.
 
-## § 78iii. Functions of self-regulatory organizations
+## § 78iii. Functions of self-regulatory organizations
 
 **(a) Collection agent**
 
@@ -1069,7 +1069,7 @@ There shall be filed with SIPC by the self-regulatory organizations such reports
 
 The Commission may, by such rules as it determines necessary or appropriate in the public interest and to carry out the purposes of this chapter, require any self-regulatory organization to furnish SIPC with reports and records (or copies thereof) relating to the financial condition of members of or participants in such self-regulatory organization.
 
-(Pub. L. 91–598, § 13, formerly § 9, Dec. 30, 1970, 84 Stat. 1654; amended Pub. L. 94–29, § 26, June 4, 1975, 89 Stat. 163; renumbered § 13 and amended Pub. L. 95–283, §§ 9, 12, May 21, 1978, 92 Stat. 260, 269.)
+(Pub. L. 91–598, § 13, formerly § 9, Dec. 30, 1970, 84 Stat. 1654; amended Pub. L. 94–29, § 26, June 4, 1975, 89 Stat. 163; renumbered § 13 and amended Pub. L. 95–283, §§ 9, 12, May 21, 1978, 92 Stat. 260, 269.)
 
 **Editorial Notes**
 
@@ -1079,13 +1079,13 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, me
 
 **Amendments**
 
-1978—Subsec. (a). Pub. L. 95–283, § 12(a), in heading substituted “Collection” for “Collecting”, and in text inserted provisions relating to designation of a self-regulatory organization other than the examining authority to act as collection agent and provisions relating to designation of a registered clearing agency as collection agent, and substituted provisions relating to remittances by the collection agent to SIPC, for provisions relating to remittances by an examining authority to SIPC.
+1978—Subsec. (a). Pub. L. 95–283, § 12(a), in heading substituted “Collection” for “Collecting”, and in text inserted provisions relating to designation of a self-regulatory organization other than the examining authority to act as collection agent and provisions relating to designation of a registered clearing agency as collection agent, and substituted provisions relating to remittances by the collection agent to SIPC, for provisions relating to remittances by an examining authority to SIPC.
 
-Subsec. (b). Pub. L. 95–283, § 12(b), inserted reference to section 78eee(a)(2) of this title.
+Subsec. (b). Pub. L. 95–283, § 12(b), inserted reference to section 78eee(a)(2) of this title.
 
-Subsec. (c). Pub. L. 95–283, § 12(c), revised existing format and provisions into introductory text and cl. (2) and, as so revised, in introductory text inserted provisions respecting participation by a member of SIPC in a self-regulatory organization and in cl. (2) inserted provisions respecting such participation and authorization for the Commission to designate itself as responsible for the statutory examination, and added cl. (1).
+Subsec. (c). Pub. L. 95–283, § 12(c), revised existing format and provisions into introductory text and cl. (2) and, as so revised, in introductory text inserted provisions respecting participation by a member of SIPC in a self-regulatory organization and in cl. (2) inserted provisions respecting such participation and authorization for the Commission to designate itself as responsible for the statutory examination, and added cl. (1).
 
-Subsec. (f). Pub. L. 95–283, § 12(d), substituted provisions authorizing the Commission to set out rules requiring self-regulatory organizations to furnish SIPC with reports and records of members or participants in such self-regulatory organizations, for provisions authorizing the Commission to set out rules, and regulations requiring self-regulatory organizations to adopt rules, practices, and procedures respecting inspections and examinations of members and examiners, to furnish SIPC and the Commission with reports and records of members, and to inspect or examine members.
+Subsec. (f). Pub. L. 95–283, § 12(d), substituted provisions authorizing the Commission to set out rules requiring self-regulatory organizations to furnish SIPC with reports and records of members or participants in such self-regulatory organizations, for provisions authorizing the Commission to set out rules, and regulations requiring self-regulatory organizations to adopt rules, practices, and procedures respecting inspections and examinations of members and examiners, to furnish SIPC and the Commission with reports and records of members, and to inspect or examine members.
 
 1975—Subsec. (c). Pub. L. 94–29 directed the Commission to designate the self-regulatory organization to be responsible for enforcing applicable rules with respect to any firm which is a member of more than one self-regulatory organization.
 
@@ -1095,7 +1095,7 @@ Subsec. (f). Pub. L. 95–283, § 12(d), substituted provisions authorizing th
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
 
-## § 78jjj. Prohibited acts
+## § 78jjj. Prohibited acts
 
 **(a) Failure to pay assessment, etc.**
 
@@ -1145,7 +1145,7 @@ Any person who falsely represents by any means (including, without limitation, t
 
 Any court having jurisdiction of a civil action arising under this chapter may grant temporary injunctions and final injunctions on such terms as the court deems reasonable to prevent or restrain any violation of paragraph (1). Any such injunction may be served anywhere in the United States on the person enjoined, shall be operative throughout the United States, and shall be enforceable, by proceedings in contempt or otherwise, by any United States court having jurisdiction over that person. The clerk of the court granting the injunction shall, when requested by any other court in which enforcement of the injunction is sought, transmit promptly to the other court a certified copy of all papers in the case on file in such clerk’s office.
 
-(Pub. L. 91–598, § 14, formerly § 10, Dec. 30, 1970, 84 Stat. 1655; renumbered § 14 and amended Pub. L. 95–283, §§ 9, 13, May 21, 1978, 92 Stat. 260, 269; Pub. L. 111–203, title IX, § 929V(b), (c), July 21, 2010, 124 Stat. 1868.)
+(Pub. L. 91–598, § 14, formerly § 10, Dec. 30, 1970, 84 Stat. 1655; renumbered § 14 and amended Pub. L. 95–283, §§ 9, 13, May 21, 1978, 92 Stat. 260, 269; Pub. L. 111–203, title IX, § 929V(b), (c), July 21, 2010, 124 Stat. 1868.)
 
 **Editorial Notes**
 
@@ -1155,17 +1155,17 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 **Amendments**
 
-2010—Subsec. (c)(1). Pub. L. 111–203, § 929V(b)(1), substituted “$250,000” for “$50,000” in concluding provisions.
+2010—Subsec. (c)(1). Pub. L. 111–203, § 929V(b)(1), substituted “$250,000” for “$50,000” in concluding provisions.
 
-Subsec. (c)(2). Pub. L. 111–203, § 929V(b)(2), substituted “$250,000” for “$50,000”.
+Subsec. (c)(2). Pub. L. 111–203, § 929V(b)(2), substituted “$250,000” for “$50,000”.
 
-Subsec. (d). Pub. L. 111–203, § 929V(c), added subsec. (d).
+Subsec. (d). Pub. L. 111–203, § 929V(c), added subsec. (d).
 
-1978—Subsec. (a). Pub. L. 95–283, § 13(a), inserted “and penalty” after “interest”, and substituted “it” for “he” wherever appearing.
+1978—Subsec. (a). Pub. L. 95–283, § 13(a), inserted “and penalty” after “interest”, and substituted “it” for “he” wherever appearing.
 
-Subsec. (b). Pub. L. 95–283, § 13(b), in heading inserted “or initiation of direct payment procedure” after “trustee”, and in text inserted references to initiation of direct payment procedure in two places.
+Subsec. (b). Pub. L. 95–283, § 13(b), in heading inserted “or initiation of direct payment procedure” after “trustee”, and in text inserted references to initiation of direct payment procedure in two places.
 
-Subsec. (c). Pub. L. 95–283, § 13(c), in heading substituted “Concealment of assets; false statements or claims” for “Embezzlement, etc., of assets of SIPC”, added par. (1), and designated existing provisions as par. (2) and, as so designated, inserted references to direct or indirect acts, and provisions covering defrauding or attempts to defraud SIPC or a trustee, and substituted provisions covering activities constituting fraudulent, or with intent to defeat this chapter, abstracts or conversions, for provisions covering activities constituting unlawfully abstracting or unlawfully and willfully converting moneys, etc.
+Subsec. (c). Pub. L. 95–283, § 13(c), in heading substituted “Concealment of assets; false statements or claims” for “Embezzlement, etc., of assets of SIPC”, added par. (1), and designated existing provisions as par. (2) and, as so designated, inserted references to direct or indirect acts, and provisions covering defrauding or attempts to defraud SIPC or a trustee, and substituted provisions covering activities constituting fraudulent, or with intent to defeat this chapter, abstracts or conversions, for provisions covering activities constituting unlawfully abstracting or unlawfully and willfully converting moneys, etc.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1173,7 +1173,7 @@ Subsec. (c). Pub. L. 95–283, § 13(c), in heading substituted “Concealment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-## § 78kkk. Miscellaneous provisions
+## § 78kkk. Miscellaneous provisions
 
 **(a) Public inspection of reports**
 
@@ -1203,7 +1203,7 @@ The provisions of subsection (a) of section 78t of this title shall not apply to
 
 Not later than twelve months after December 30, 1970, the Commission shall compile a list of unsafe or unsound practices by members of SIPC in conducting their business and report to the Congress (1) the steps being taken under the authority of existing law to eliminate those practices and (2) recommendations concerning additional legislation which may be needed to eliminate those unsafe or unsound practices.
 
-(Pub. L. 91–598, § 15, formerly § 11, Dec. 30, 1970, 84 Stat. 1655; renumbered § 15 and amended Pub. L. 95–283, §§ 9, 14, May 21, 1978, 92 Stat. 260, 270; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
+(Pub. L. 91–598, § 15, formerly § 11, Dec. 30, 1970, 84 Stat. 1655; renumbered § 15 and amended Pub. L. 95–283, §§ 9, 14, May 21, 1978, 92 Stat. 260, 270; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095.)
 
 **Editorial Notes**
 
@@ -1215,15 +1215,15 @@ This chapter, referred to in subsecs. (a) to (f), was in the original “this Ac
 
 1986—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1978—Subsec. (b). Pub. L. 95–283, § 14(c), redesignated subsec. (c) as (b). Former subsec. (b), relating to application of securities investor protection provisions to foreign members, was struck out.
+1978—Subsec. (b). Pub. L. 95–283, § 14(c), redesignated subsec. (c) as (b). Former subsec. (b), relating to application of securities investor protection provisions to foreign members, was struck out.
 
-Subsec. (c). Pub. L. 95–283, § 14(a), (c), redesignated subsec. (d) as (c) and inserted “, officers, or employees” after “Directors” in heading and text. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 95–283, § 14(a), (c), redesignated subsec. (d) as (c) and inserted “, officers, or employees” after “Directors” in heading and text. Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 95–283, § 14(b), (c), redesignated subsec. (e) as (d), inserted provisions authorizing SIPC to prescribe necessary and proper minimal requirements for providing public notice of membership by a member of SIPC in SIPC, and struck out provisions authorizing rules by SIPC to implement advertising requirements. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 95–283, § 14(b), (c), redesignated subsec. (e) as (d), inserted provisions authorizing SIPC to prescribe necessary and proper minimal requirements for providing public notice of membership by a member of SIPC in SIPC, and struck out provisions authorizing rules by SIPC to implement advertising requirements. Former subsec. (d) redesignated (c).
 
-Subsecs. (e) to (h). Pub. L. 95–283, § 14(c), redesignated subsecs. (e) to (h) as (d) to (g), respectively.
+Subsecs. (e) to (h). Pub. L. 95–283, § 14(c), redesignated subsecs. (e) to (h) as (d) to (g), respectively.
 
-## § 78lll. Definitions
+## § 78lll. Definitions
 
 For purposes of this chapter, including the application of the Bankruptcy Act to a liquidation proceeding:
 
@@ -1345,11 +1345,11 @@ The term “protective decree” means a decree, issued by a court upon applicat
 
 The term “Security” means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, any collateral trust certificate, preorganization certificate or subscription, transferable share, voting trust certificate, certificate of deposit, certificate of deposit for a security, or any security future as that term is defined in section 78c(a)(55)(A) of this title, any investment contract or certificate of interest or participation in any profit-sharing agreement or in any oil, gas, or mineral royalty or lease (if such investment contract or interest is the subject of a registration statement with the Commission pursuant to the provisions of the Securities Act of 1933 [15 U.S.C. 77a et seq.]), any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase or sell any of the foregoing, and any other instrument commonly known as a security. Except as specifically provided above, the term “security” does not include any currency, or any commodity or related contract or futures contract, or any warrant or right to subscribe to or purchase or sell any of the foregoing.
 
-(Pub. L. 91–598, § 16, formerly § 12, Dec. 30, 1970, 84 Stat. 1656; renumbered § 16 and amended Pub. L. 95–283, §§ 9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, § 308(*o*), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, § 7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, § 802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, § 1(a)(5) [title II, § 203(d)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 111–203, title IX, § 983(b), July 21, 2010, 124 Stat. 1931; Pub. L. 119–27, § 17(e), July 18, 2025, 139 Stat. 463.)
+(Pub. L. 91–598, § 16, formerly § 12, Dec. 30, 1970, 84 Stat. 1656; renumbered § 16 and amended Pub. L. 95–283, §§ 9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, § 308(*o*), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, § 7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, § 802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, § 1(a)(5) [title II, § 203(d)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 111–203, title IX, § 983(b), July 21, 2010, 124 Stat. 1931; Pub. L. 119–27, § 17(e), July 18, 2025, 139 Stat. 463.)
 
 **Amendment of Paragraph (14)**
 
-Pub. L. 119–27, §§ 17(e), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, paragraph (14) of this section is amended by adding at the end the following: “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12.” See 2025 Amendment note below.
+Pub. L. 119–27, §§ 17(e), 20, July 18, 2025, 139 Stat. 463, 466, provided that, effective on the earlier of the date that is 18 months after July 18, 2025, or the date that is 120 days after the date on which the primary Federal payment stablecoin regulators issue any final regulations implementing Pub. L. 119–27, paragraph (14) of this section is amended by adding at the end the following: “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12.” See 2025 Amendment note below.
 
 **Editorial Notes**
 
@@ -1357,37 +1357,37 @@ Pub. L. 119–27, §§ 17(e), 20, July 18, 2025, 139 Stat. 463, 466, provided 
 
 This chapter, referred to in provision preceding par. (1), and in pars. (10) and (13), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
-The Bankruptcy Act, referred to in provision preceding par. (1), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
+The Bankruptcy Act, referred to in provision preceding par. (1), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
-The Securities Act of 1933, referred to in par. (14), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in par. (14), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 **Amendments**
 
 2025—Par. (14). Pub. L. 119–27 inserted at end “The term ‘security’ does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defined in section 5901 of title 12.”
 
-2010—Par. (2). Pub. L. 111–203, § 983(b)(1), added par. (2) and struck out former par. (2) which defined “customer”.
+2010—Par. (2). Pub. L. 111–203, § 983(b)(1), added par. (2) and struck out former par. (2) which defined “customer”.
 
-Par. (4)(D), (E). Pub. L. 111–203, § 983(b)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
+Par. (4)(D), (E). Pub. L. 111–203, § 983(b)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Par. (9). Pub. L. 111–203, § 983(b)(3), in concluding provisions, inserted “includes revenues earned by a broker or dealer in connection with a transaction in the portfolio margining account of a customer carried as securities accounts pursuant to a portfolio margining program approved by the Commission. Such term” before “does not include”.
+Par. (9). Pub. L. 111–203, § 983(b)(3), in concluding provisions, inserted “includes revenues earned by a broker or dealer in connection with a transaction in the portfolio margining account of a customer carried as securities accounts pursuant to a portfolio margining program approved by the Commission. Such term” before “does not include”.
 
-Par. (11). Pub. L. 111–203, § 983(b)(4)(B), in concluding provisions, substituted “A claim for a commodity futures contract received, acquired, or held in a portfolio margining account pursuant to a portfolio margining program approved by the Commission or a claim for a security futures contract, shall be deemed to be a claim with respect to such contract as of the filing date, and such claim shall be treated as a claim for cash. In determining” for “In determining”.
+Par. (11). Pub. L. 111–203, § 983(b)(4)(B), in concluding provisions, substituted “A claim for a commodity futures contract received, acquired, or held in a portfolio margining account pursuant to a portfolio margining program approved by the Commission or a claim for a security futures contract, shall be deemed to be a claim with respect to such contract as of the filing date, and such claim shall be treated as a claim for cash. In determining” for “In determining”.
 
-Par. (11)(A). Pub. L. 111–203, § 983(b)(4)(A), substituted “by sale or purchase on the filing date—” for “by sale or purchase on the filing date, all securities positions of such customer (other than customer name securities reclaimed by such customer); minus” and added cls. (i) and (ii).
+Par. (11)(A). Pub. L. 111–203, § 983(b)(4)(A), substituted “by sale or purchase on the filing date—” for “by sale or purchase on the filing date, all securities positions of such customer (other than customer name securities reclaimed by such customer); minus” and added cls. (i) and (ii).
 
 2000—Par. (14). Pub. L. 106–554 inserted “or any security future as that term is defined in section 78c(a)(55)(A) of this title,” after “certificate of deposit for a security,”.
 
 1987—Par. (12). Pub. L. 100–181 inserted “other than a government securities broker or government securities dealer registered under section 78*o*–5(a)(1)(A) of this title”.
 
-1982—Par. (14). Pub. L. 97–303 inserted “any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “the Securities Act of 1933 [15 U.S.C.A. § 77a et seq.]),” and substituted “Except as specifically provided above, the term ‘security’ does not include” for “The term ‘security’ does not include”.
+1982—Par. (14). Pub. L. 97–303 inserted “any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency,” after “the Securities Act of 1933 [15 U.S.C.A. § 77a et seq.]),” and substituted “Except as specifically provided above, the term ‘security’ does not include” for “The term ‘security’ does not include”.
 
-1978—Par. (1). Pub. L. 95–598, § 308(*o*)(1), (3), struck out par. (1) definition of “Bankruptcy Act” and redesignated par. (2) as (1).
+1978—Par. (1). Pub. L. 95–598, § 308(*o*)(1), (3), struck out par. (1) definition of “Bankruptcy Act” and redesignated par. (2) as (1).
 
-Pars. (2) to (6). Pub. L. 95–598, § 309(*o*)(3), redesignated pars. (3) to (7) as (2) to (6), respectively. Former par. (2) redesignated (1).
+Pars. (2) to (6). Pub. L. 95–598, § 309(*o*)(3), redesignated pars. (3) to (7) as (2) to (6), respectively. Former par. (2) redesignated (1).
 
-Par. (7). Pub. L. 95–598, § 308(*o*)(2), (3), redesignated par. (8) as (7) and substituted in subpar. (A) “if a petition under title 11 concerning the debtor was filed before such date” for “if a petition was filed before such date by or against the debtor under the Bankruptcy Act, or under chapter X or XI of such Act, as now in effect or as amended from time to time”. Former par. (7) redesignated (6).
+Par. (7). Pub. L. 95–598, § 308(*o*)(2), (3), redesignated par. (8) as (7) and substituted in subpar. (A) “if a petition under title 11 concerning the debtor was filed before such date” for “if a petition was filed before such date by or against the debtor under the Bankruptcy Act, or under chapter X or XI of such Act, as now in effect or as amended from time to time”. Former par. (7) redesignated (6).
 
-Pars. (8) to (15). Pub. L. 95–598, § 308(*o*)(3), redesignated pars. (9) to (15) as (8) to (14), respectively. Former par. (8) redesignated (7).
+Pars. (8) to (15). Pub. L. 95–598, § 308(*o*)(3), redesignated pars. (9) to (15) as (8) to (14), respectively. Former par. (8) redesignated (7).
 
 Pub. L. 95–283 in introductory text inserted requirement for applicability of terms to a liquidation proceeding involving the Bankruptcy Act, in par. (1) heading substituted “Bankruptcy Act” for “Self-regulatory organization”, and in text substituted provisions defining such terms, in par. (2) heading substituted “Commission” for “Financial responsibility rules”, and in text substituted provisions defining such terms, in par. (3) heading substituted “Customer” for “Examining authority”, and in text substituted provisions defining such terms, and added pars. (4) to (15).
 

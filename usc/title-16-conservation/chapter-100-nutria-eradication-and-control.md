@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 100—NUTRIA ERADICATION AND CONTROL
 
-## § 8101. Findings and purposes
+## § 8101. Findings and purposes
 
 **(a) Findings** The Congress finds the following:
 
@@ -31,7 +31,7 @@ retrieved: 2026-10-11
 
 The purpose of this chapter is to authorize the Secretary of the Interior to provide financial assistance to any State that has demonstrated the need for a program to implement measures to eradicate or control nutria and restore marshland damaged by nutria.
 
-(Pub. L. 108–16, § 2, Apr. 23, 2003, 117 Stat. 621; Pub. L. 116–186, § 1(1), Oct. 30, 2020, 134 Stat. 901.)
+(Pub. L. 108–16, § 2, Apr. 23, 2003, 117 Stat. 621; Pub. L. 116–186, § 1(1), Oct. 30, 2020, 134 Stat. 901.)
 
 **Editorial Notes**
 
@@ -43,27 +43,27 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 **Amendments**
 
-2020—Subsec. (a)(1). Pub. L. 116–186, § 1(1)(A)(i), substituted “Wetlands, tidal marshes, and agricultural lands” for “Wetlands and tidal marshes of the Chesapeake Bay and in Louisiana”.
+2020—Subsec. (a)(1). Pub. L. 116–186, § 1(1)(A)(i), substituted “Wetlands, tidal marshes, and agricultural lands” for “Wetlands and tidal marshes of the Chesapeake Bay and in Louisiana”.
 
-Subsec. (a)(2). Pub. L. 116–186, § 1(1)(A)(ii), struck out “in Maryland and Louisiana” after “substantial marsh loss”.
+Subsec. (a)(2). Pub. L. 116–186, § 1(1)(A)(ii), struck out “in Maryland and Louisiana” after “substantial marsh loss”.
 
-Subsec. (a)(3). Pub. L. 116–186, § 1(1)(A)(iii), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Traditional harvest methods to control or eradicate nutria have failed in Maryland and have had limited success in the eradication of nutria in Louisiana. Consequently, marsh loss is accelerating.”
+Subsec. (a)(3). Pub. L. 116–186, § 1(1)(A)(iii), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Traditional harvest methods to control or eradicate nutria have failed in Maryland and have had limited success in the eradication of nutria in Louisiana. Consequently, marsh loss is accelerating.”
 
-Subsec. (b). Pub. L. 116–186, § 1(1)(B), substituted “any State that has demonstrated the need” for “the State of Maryland and the State of Louisiana”.
+Subsec. (b). Pub. L. 116–186, § 1(1)(B), substituted “any State that has demonstrated the need” for “the State of Maryland and the State of Louisiana”.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 108–16, § 1, Apr. 23, 2003, 117 Stat. 621, provided that: “This Act [enacting this chapter] may be cited as the ‘Nutria Eradication and Control Act of 2003’.”
+Pub. L. 108–16, § 1, Apr. 23, 2003, 117 Stat. 621, provided that: “This Act [enacting this chapter] may be cited as the ‘Nutria Eradication and Control Act of 2003’.”
 
-## § 8102. Nutria eradication program
+## § 8102. Nutria eradication program
 
 **(a) Grant authority**
 
 The Secretary of the Interior (referred to in this chapter as the “Secretary”),1
 
-<sup>1</sup>  So in original. The comma probably should not appear.
+<sup>1</sup> So in original. The comma probably should not appear.
 
 may provide financial assistance to a State, in an amount that is in proportion to the total impacted area of such State affected by nutria, that has demonstrated to the Secretary sufficient need for a program to implement measures to eradicate or control nutria and restore marshland, public and private wetlands, and agricultural lands damaged by nutria.
 
@@ -89,7 +89,7 @@ Not more than 5 percent of financial assistance provided to a State by the Secre
 
 For financial assistance under this section, there is authorized to be appropriated to the Secretary $12,000,000 for each of fiscal years 2021 through 2025.
 
-(Pub. L. 108–16, § 3, Apr. 23, 2003, 117 Stat. 621; Pub. L. 116–186, § 1(2), Oct. 30, 2020, 134 Stat. 901.)
+(Pub. L. 108–16, § 3, Apr. 23, 2003, 117 Stat. 621; Pub. L. 116–186, § 1(2), Oct. 30, 2020, 134 Stat. 901.)
 
 **Editorial Notes**
 
@@ -99,20 +99,20 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 **Amendments**
 
-2020—Subsec. (a). Pub. L. 116–186, § 1(2)(A), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of the Interior (in this chapter referred to as the ‘Secretary’), subject to the availability of appropriations, may provide financial assistance to the State of Maryland and the State of Louisiana for a program to implement measures to eradicate or control nutria and restore marshland damaged by nutria.”
+2020—Subsec. (a). Pub. L. 116–186, § 1(2)(A), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of the Interior (in this chapter referred to as the ‘Secretary’), subject to the availability of appropriations, may provide financial assistance to the State of Maryland and the State of Louisiana for a program to implement measures to eradicate or control nutria and restore marshland damaged by nutria.”
 
-Subsecs. (b), (c). Pub. L. 116–186, § 1(2)(B), (F), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to goals of the program.
+Subsecs. (b), (c). Pub. L. 116–186, § 1(2)(B), (F), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to goals of the program.
 
-Subsec. (d). Pub. L. 116–186, § 1(2)(F), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 116–186, § 1(2)(F), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(1). Pub. L. 116–186, § 1(2)(C)(i), substituted “a State program referred to in subsection (a) may” for “the program may”.
+Subsec. (d)(1). Pub. L. 116–186, § 1(2)(C)(i), substituted “a State program referred to in subsection (a) may” for “the program may”.
 
-Subsec. (d)(2). Pub. L. 116–186, § 1(2)(C)(ii), substituted “a State program referred to in subsection (a) may” for “the program may”.
+Subsec. (d)(2). Pub. L. 116–186, § 1(2)(C)(ii), substituted “a State program referred to in subsection (a) may” for “the program may”.
 
-Subsec. (e). Pub. L. 116–186, § 1(2)(F), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 116–186, § 1(2)(F), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Pub. L. 116–186, § 1(2)(D), inserted “to a State” after “provided”.
+Pub. L. 116–186, § 1(2)(D), inserted “to a State” after “provided”.
 
-Subsec. (f). Pub. L. 116–186, § 1(2)(F), redesignated subsec. (f) as (e).
+Subsec. (f). Pub. L. 116–186, § 1(2)(F), redesignated subsec. (f) as (e).
 
-Pub. L. 116–186, § 1(2)(E), substituted “$12,000,000 for each of fiscal years 2021 through 2025.” for “$4,000,000 for the State of Maryland program and $2,000,000 for the State of Louisiana program for each of fiscal years 2004, 2005, 2006, 2007, and 2008.”
+Pub. L. 116–186, § 1(2)(E), substituted “$12,000,000 for each of fiscal years 2021 through 2025.” for “$4,000,000 for the State of Maryland program and $2,000,000 for the State of Louisiana program for each of fiscal years 2004, 2005, 2006, 2007, and 2008.”

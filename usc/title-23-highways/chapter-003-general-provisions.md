@@ -19,61 +19,61 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2021—Pub. L. 117–58, div. A, title I, §§ 11309(b), 11525(t), 11528(b), Nov. 15, 2021, 135 Stat. 536, 608, 612, added items 331 and 332 and struck out item 325 “State assumption of responsibilities for certain programs and projects”.
+2021—Pub. L. 117–58, div. A, title I, §§ 11309(b), 11525(t), 11528(b), Nov. 15, 2021, 135 Stat. 536, 608, 612, added items 331 and 332 and struck out item 325 “State assumption of responsibilities for certain programs and projects”.
 
-2015—Pub. L. 114–94, div. A, title I, § 1309(d), Dec. 4, 2015, 129 Stat. 1397, added item 330.
+2015—Pub. L. 114–94, div. A, title I, § 1309(d), Dec. 4, 2015, 129 Stat. 1397, added item 330.
 
-2012—Pub. L. 112–141, div. A, title I, § 1519(c)(1)(C), July 6, 2012, 126 Stat. 575, struck out items 303 “Management systems” and 309 “Cooperation with other American Republics”.
+2012—Pub. L. 112–141, div. A, title I, § 1519(c)(1)(C), July 6, 2012, 126 Stat. 575, struck out items 303 “Management systems” and 309 “Cooperation with other American Republics”.
 
-Pub. L. 112–141, div. A, title I, § 1313(i), July 6, 2012, 126 Stat. 547, which directed amendment of item 327 in the analysis of title 23, United States Code, by substituting “Surface transportation project delivery program” for “Surface transportation project delivery pilot program”, was executed to the analysis for this chapter, to reflect the probable intent of Congress.
+Pub. L. 112–141, div. A, title I, § 1313(i), July 6, 2012, 126 Stat. 547, which directed amendment of item 327 in the analysis of title 23, United States Code, by substituting “Surface transportation project delivery program” for “Surface transportation project delivery pilot program”, was executed to the analysis for this chapter, to reflect the probable intent of Congress.
 
-2005—Pub. L. 109–59, title I, §§ 1901(b), 1903(b), title VI, §§ 6003(b), 6004(b), 6005(b), 6006(c), Aug. 10, 2005, 119 Stat. 1464, 1465, 1867, 1868, 1872, 1873, added items 313, 321, and 325 to 329.
+2005—Pub. L. 109–59, title I, §§ 1901(b), 1903(b), title VI, §§ 6003(b), 6004(b), 6005(b), 6006(c), Aug. 10, 2005, 119 Stat. 1464, 1465, 1867, 1868, 1872, 1873, added items 313, 321, and 325 to 329.
 
-1998—Pub. L. 105–178, title I, §§ 1212(a)(2)(B)(i), 1218(b), 1301(d)(3), title V, § 5119(c), June 9, 1998, 112 Stat. 193, 219, 226, 452, substituted “State transportation department” for “State highway department” in item 302, struck out items 307 “Research and planning” and 321 “National Highway Institute”, added item 322, substituted “Donations and credits” for “Donations” in item 323, and struck out items 325 “International highway transportation outreach program” and 326 “Education and training program”.
+1998—Pub. L. 105–178, title I, §§ 1212(a)(2)(B)(i), 1218(b), 1301(d)(3), title V, § 5119(c), June 9, 1998, 112 Stat. 193, 219, 226, 452, substituted “State transportation department” for “State highway department” in item 302, struck out items 307 “Research and planning” and 321 “National Highway Institute”, added item 322, substituted “Donations and credits” for “Donations” in item 323, and struck out items 325 “International highway transportation outreach program” and 326 “Education and training program”.
 
-1991—Pub. L. 102–240, title I, § 1034(b), title VI, §§ 6003(b), 6004(b), Dec. 18, 1991, 105 Stat. 1978, 2168, 2169, added items 303, 325, and 326.
+1991—Pub. L. 102–240, title I, § 1034(b), title VI, §§ 6003(b), 6004(b), Dec. 18, 1991, 105 Stat. 1978, 2168, 2169, added items 303, 325, and 326.
 
-1987—Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173, struck out item 322 “Demonstration project—rail crossings”.
+1987—Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173, struck out item 322 “Demonstration project—rail crossings”.
 
-1983—Pub. L. 97–449, § 5(d)(2), Jan. 12, 1983, 96 Stat. 2442, struck out item 303 “Bureau organization”.
+1983—Pub. L. 97–449, § 5(d)(2), Jan. 12, 1983, 96 Stat. 2442, struck out item 303 “Bureau organization”.
 
-1973—Pub. L. 93–87, title I, §§ 145(b), 162(b), Aug. 13, 1973, 87 Stat. 273, 280, added items 323 and 324.
+1973—Pub. L. 93–87, title I, §§ 145(b), 162(b), Aug. 13, 1973, 87 Stat. 273, 280, added items 323 and 324.
 
-1970—Pub. L. 91–605, title I, § 115(b), title II, § 205(b), Dec. 31, 1970, 84 Stat. 1723, 1743, added items 321 and 322.
+1970—Pub. L. 91–605, title I, § 115(b), title II, § 205(b), Dec. 31, 1970, 84 Stat. 1723, 1743, added items 321 and 322.
 
-1966—Pub. L. 89–564, title I, § 102(b)(2), Sept. 9, 1966, 80 Stat. 735, struck out item 313 relating to Highway Safety Conference.
+1966—Pub. L. 89–564, title I, § 102(b)(2), Sept. 9, 1966, 80 Stat. 735, struck out item 313 relating to Highway Safety Conference.
 
-1965—Pub. L. 89–285, title III, § 301(b), Oct. 22, 1965, 79 Stat. 1032, inserted “and scenic enhancement” after “Landscaping” in item 319.
+1965—Pub. L. 89–285, title III, § 301(b), Oct. 22, 1965, 79 Stat. 1032, inserted “and scenic enhancement” after “Landscaping” in item 319.
 
-## § 301. Freedom from tolls
+## § 301. Freedom from tolls
 
 Except as provided in section 129 of this title with respect to certain toll bridges and toll tunnels, all highways constructed under the provisions of this title shall be free from tolls of all kinds.
 
 (Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912.)
 
-## § 302. State transportation department
+## § 302. State transportation department
 
 **(a)** Any State desiring to avail itself of the provisions of this title shall have a State transportation department which shall have adequate powers, and be suitably equipped and organized to discharge to the satisfaction of the Secretary the duties required by this title. In meeting the provisions of this subsection, a State may engage, to the extent necessary or desirable, the services of private engineering firms.
 
 **(b) Effect of Compliance.—** Compliance with subsection (a) shall have no effect on the eligibility of costs.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912; Pub. L. 89–574, § 11, Sept. 13, 1966, 80 Stat. 770; Pub. L. 105–178, title I, § 1212(a)(1), (2)(A)(i), (B)(ii), June 9, 1998, 112 Stat. 193.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912; Pub. L. 89–574, § 11, Sept. 13, 1966, 80 Stat. 770; Pub. L. 105–178, title I, § 1212(a)(1), (2)(A)(i), (B)(ii), June 9, 1998, 112 Stat. 193.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1998—Pub. L. 105–178, § 1212(a)(2)(B)(ii), substituted “State transportation department” for “State highway department” in section catchline.
+1998—Pub. L. 105–178, § 1212(a)(2)(B)(ii), substituted “State transportation department” for “State highway department” in section catchline.
 
-Subsec. (a). Pub. L. 105–178, § 1212(a)(1)(A), (2)(A)(i), substituted “State transportation department” for “State highway department” and struck out after first sentence “Among other things, the organization shall include a secondary road unit.”
+Subsec. (a). Pub. L. 105–178, § 1212(a)(1)(A), (2)(A)(i), substituted “State transportation department” for “State highway department” and struck out after first sentence “Among other things, the organization shall include a secondary road unit.”
 
-Subsec. (b). Pub. L. 105–178, § 1212(a)(1)(B), added subsec. (b) and struck out former subsec. (b) which read as follows: “The State highway department may arrange with a county or group of counties for competent highway engineering personnel suitably organized and equipped to the satisfaction of the State highway department, to supervise construction and maintenance on a county-unit or group-unit basis, for the construction of proj­ects on the Federal-aid secondary system, financed with secondary funds, and for the maintenance thereof.”
+Subsec. (b). Pub. L. 105–178, § 1212(a)(1)(B), added subsec. (b) and struck out former subsec. (b) which read as follows: “The State highway department may arrange with a county or group of counties for competent highway engineering personnel suitably organized and equipped to the satisfaction of the State highway department, to supervise construction and maintenance on a county-unit or group-unit basis, for the construction of proj­ects on the Federal-aid secondary system, financed with secondary funds, and for the maintenance thereof.”
 
-## [§ 303. Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]
+## [§ 303. Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]
 
-Section, added Pub. L. 102–240, title I, § 1034(a), Dec. 18, 1991, 105 Stat. 1977; amended Pub. L. 103–429, § 3(8), (9), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title II, § 205(a), Nov. 28, 1995, 109 Stat. 576, related to management systems.
+Section, added Pub. L. 102–240, title I, § 1034(a), Dec. 18, 1991, 105 Stat. 1977; amended Pub. L. 103–429, § 3(8), (9), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title II, § 205(a), Nov. 28, 1995, 109 Stat. 576, related to management systems.
 
-A prior section 303, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912; Pub. L. 87–392, § 1, Oct. 4, 1961, 75 Stat. 822; Pub. L. 88–426, title III, § 305(24), Aug. 14, 1964, 78 Stat. 425; Pub. L. 91–605, title I, § 114(a), Dec. 31, 1970, 84 Stat. 1722; Pub. L. 93–87, title I, § 152(4), Aug. 13, 1973, 87 Stat. 276, provided for administrative organization of the Federal Highway Administration, prior to repeal by Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2445. See section 104 of Title 49, Transportation.
+A prior section 303, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912; Pub. L. 87–392, § 1, Oct. 4, 1961, 75 Stat. 822; Pub. L. 88–426, title III, § 305(24), Aug. 14, 1964, 78 Stat. 425; Pub. L. 91–605, title I, § 114(a), Dec. 31, 1970, 84 Stat. 1722; Pub. L. 93–87, title I, § 152(4), Aug. 13, 1973, 87 Stat. 276, provided for administrative organization of the Federal Highway Administration, prior to repeal by Pub. L. 97–449, § 7(b), Jan. 12, 1983, 96 Stat. 2445. See section 104 of Title 49, Transportation.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -81,11 +81,11 @@ A prior section 303, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 912; Pub. L. 87�
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 304. Participation by small business enterprises
+## § 304. Participation by small business enterprises
 
 It is declared to be in the national interest to encourage and develop the actual and potential capacity of small business and to utilize this important segment of our economy to the fullest practicable extent in construction of Federal-aid highways, including the Interstate System. In order to carry out that intent and encourage full and free competition, the Secretary should assist, insofar as feasible, small business enterprises in obtaining contracts in connection with the prosecution of the highway program.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 112–141, div. A, title I, § 1104(c)(5), July 6, 2012, 126 Stat. 427.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 112–141, div. A, title I, § 1104(c)(5), July 6, 2012, 126 Stat. 427.)
 
 **Editorial Notes**
 
@@ -99,11 +99,11 @@ It is declared to be in the national interest to encourage and develop the actua
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 305. Archeological and paleontological salvage
+## § 305. Archeological and paleontological salvage
 
 Funds authorized to be appropriated to carry out this title to the extent approved as necessary by the highway department of any State, may be used for archeological and paleontological salvage in that State in compliance with the Act entitled “An Act for the preservation of American antiquities”, approved June 8, 1906 (34 Stat. 225), and State laws where applicable,
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 86–657, § 8(e), July 14, 1960, 74 Stat. 525.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 86–657, § 8(e), July 14, 1960, 74 Stat. 525.)
 
 **Editorial Notes**
 
@@ -115,7 +115,7 @@ An Act for the preservation of American antiquities, referred to in text, is act
 
 1960—Pub. L. 86–657 substituted “appropriated to carry out this title to the extent approved” for “appropriated under the Federal-Aid Highway Act of 1956, to the extent approved”.
 
-## § 306. Mapping
+## § 306. Mapping
 
 **(a) In General.—** In carrying out the provisions of this title, the Secretary shall, wherever practicable, authorize the use of photogrammetric methods in mapping, and the utilization of commercial enterprise for such services.
 
@@ -131,17 +131,17 @@ An Act for the preservation of American antiquities, referred to in text, is act
 
 **(c) Implementation.—** The Secretary shall develop a process for the oversight and monitoring, on an annual basis, of the compliance of each State with the guidance issued under subsection (b).
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 104–59, title III, § 321, Nov. 28, 1995, 109 Stat. 590; Pub. L. 112–141, div. A, title I, § 1517(a), July 6, 2012, 126 Stat. 574.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 104–59, title III, § 321, Nov. 28, 1995, 109 Stat. 590; Pub. L. 112–141, div. A, title I, § 1517(a), July 6, 2012, 126 Stat. 574.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2012—Subsec. (a). Pub. L. 112–141, § 1517(a)(1), substituted “shall” for “may”.
+2012—Subsec. (a). Pub. L. 112–141, § 1517(a)(1), substituted “shall” for “may”.
 
-Subsec. (b). Pub. L. 112–141, § 1517(a)(2), substituted “State government and” for “State and” in introductory provisions.
+Subsec. (b). Pub. L. 112–141, § 1517(a)(2), substituted “State government and” for “State and” in introductory provisions.
 
-Subsec. (c). Pub. L. 112–141, § 1517(a)(3), added subsec. (c).
+Subsec. (c). Pub. L. 112–141, § 1517(a)(3), added subsec. (c).
 
 1995—Pub. L. 104–59 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -151,17 +151,17 @@ Subsec. (c). Pub. L. 112–141, § 1517(a)(3), added subsec. (c).
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## [§ 307. Repealed. Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452]
+## [§ 307. Repealed. Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452]
 
-Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 87–866, § 11, Oct. 23, 1962, 76 Stat. 1148; Pub. L. 88–157, § 6, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–564, title I, § 103, Sept. 9, 1966, 80 Stat. 735; Pub. L. 91–605, title I, §§ 115(c), 126, 136(c), Dec. 31, 1970, 84 Stat. 1723, 1729, 1735; Pub. L. 93–87, title I, § 151, Aug. 13, 1973, 87 Stat. 276; Pub. L. 96–470, title I, § 112(b)(2), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §§ 156(a), (b), (d), 160(a), Jan. 6, 1983, 96 Stat. 2134, 2135; Pub. L. 100–17, title I, §§ 128, 129, 133(b)(17), Apr. 2, 1987, 101 Stat. 167, 169, 172; Pub. L. 102–240, title VI, §§ 6001, 6005, Dec. 18, 1991, 105 Stat. 2162, 2170; Pub. L. 103–429, § 3(10), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title III, § 325(d), Nov. 28, 1995, 109 Stat. 592, related to research and planning.
+Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 913; Pub. L. 87–866, § 11, Oct. 23, 1962, 76 Stat. 1148; Pub. L. 88–157, § 6, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–564, title I, § 103, Sept. 9, 1966, 80 Stat. 735; Pub. L. 91–605, title I, §§ 115(c), 126, 136(c), Dec. 31, 1970, 84 Stat. 1723, 1729, 1735; Pub. L. 93–87, title I, § 151, Aug. 13, 1973, 87 Stat. 276; Pub. L. 96–470, title I, § 112(b)(2), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §§ 156(a), (b), (d), 160(a), Jan. 6, 1983, 96 Stat. 2134, 2135; Pub. L. 100–17, title I, §§ 128, 129, 133(b)(17), Apr. 2, 1987, 101 Stat. 167, 169, 172; Pub. L. 102–240, title VI, §§ 6001, 6005, Dec. 18, 1991, 105 Stat. 2162, 2170; Pub. L. 103–429, § 3(10), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–59, title III, § 325(d), Nov. 28, 1995, 109 Stat. 592, related to research and planning.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Intelligent Transportation Systems**
 
-Pub. L. 102–240, title VI, pt. B, Dec. 18, 1991, 105 Stat. 2189, as amended by Pub. L. 102–388, title IV, § 404, Oct. 6, 1992, 106 Stat. 1564; Pub. L. 104–59, title III, § 338(a), (b), (c)(2), Nov. 28, 1995, 109 Stat. 603, 604; Pub. L. 105–130, § 5(d), Dec. 1, 1997, 111 Stat. 2557, related to Intelligent Transportation Systems Act of 1991, including provisions relating to establishment and scope of program, general authorities and requirements, strategic plan, implementation, and report to Congress, technical, planning, and operational testing project assistance, applications of technology, commercial motor vehicle safety technology, funding, and definitions, prior to repeal by Pub. L. 105–178, title V, § 5213, June 9, 1998, 112 Stat. 463. See Pub. L. 105–178, title V, §§ 5201–5213, June 9, 1998, 112 Stat. 452–463, set out as a note under section 502 of this title.
+Pub. L. 102–240, title VI, pt. B, Dec. 18, 1991, 105 Stat. 2189, as amended by Pub. L. 102–388, title IV, § 404, Oct. 6, 1992, 106 Stat. 1564; Pub. L. 104–59, title III, § 338(a), (b), (c)(2), Nov. 28, 1995, 109 Stat. 603, 604; Pub. L. 105–130, § 5(d), Dec. 1, 1997, 111 Stat. 2557, related to Intelligent Transportation Systems Act of 1991, including provisions relating to establishment and scope of program, general authorities and requirements, strategic plan, implementation, and report to Congress, technical, planning, and operational testing project assistance, applications of technology, commercial motor vehicle safety technology, funding, and definitions, prior to repeal by Pub. L. 105–178, title V, § 5213, June 9, 1998, 112 Stat. 463. See Pub. L. 105–178, title V, §§ 5201–5213, June 9, 1998, 112 Stat. 452–463, set out as a note under section 502 of this title.
 
-## § 308. Cooperation with Federal and State agencies and foreign countries
+## § 308. Cooperation with Federal and State agencies and foreign countries
 
 **(a) Authorized Activities.—**
 
@@ -191,7 +191,7 @@ Pub. L. 102–240, title VI, pt. B, Dec. 18, 1991, 105 Stat. 2189, as amended by
 
 **(b)** Appropriations for the work of the Federal Highway Administration shall be available for expenses of warehouse maintenance and the procurement, care, and handling of supplies, materials, and equipment for distribution to projects under the supervision of the Federal Highway Administration, or for sale or distribution to other Government agencies, cooperating foreign countries, and State cooperating agencies, and the cost of such supplies and materials or the value of such equipment, including the cost of transportation and handling, may be reimbursed to current applicable appropriations.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 914; Pub. L. 93–87, title I, § 152(5), Aug. 13, 1973, 87 Stat. 276; Pub. L. 112–141, div. A, title I, § 1521(f), July 6, 2012, 126 Stat. 579; Pub. L. 117–58, div. A, title I, § 11305(b), Nov. 15, 2021, 135 Stat. 532.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 914; Pub. L. 93–87, title I, § 152(5), Aug. 13, 1973, 87 Stat. 276; Pub. L. 112–141, div. A, title I, § 1521(f), July 6, 2012, 126 Stat. 579; Pub. L. 117–58, div. A, title I, § 11305(b), Nov. 15, 2021, 135 Stat. 532.)
 
 **Editorial Notes**
 
@@ -215,15 +215,15 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. 
 
 **Effective Date of 2012 Amendment**
 
-Pub. L. 112–141, div. A, title I, § 1521(g), July 6, 2012, 126 Stat. 579, provided that:
+Pub. L. 112–141, div. A, title I, § 1521(g), July 6, 2012, 126 Stat. 579, provided that:
 
 > **“(1) In general.—** Except as provided in paragraph (2), the amendments made by this section [enacting section 4634 of Title 42, The Public Health and Welfare, and amending this section and sections 4622 to 4624 and 4633 of Title 42] shall take effect on the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title].
 
 > **“(2) Exception.—** The amendments made by subsections (a) through (c) [amending sections 4622 to 4624 of Title 42] shall take effect 2 years after the date of enactment of this Act.”
 
-## [§ 309. Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]
+## [§ 309. Repealed. Pub. L. 112–141, div. A, title I, § 1519(b)(1)(A), July 6, 2012, 126 Stat. 575]
 
-Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 914; Pub. L. 93–87, title I, § 152(5), Aug. 13, 1973, 87 Stat. 276, related to cooperation with other American Republics.
+Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 914; Pub. L. 93–87, title I, § 152(5), Aug. 13, 1973, 87 Stat. 276, related to cooperation with other American Republics.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -231,11 +231,11 @@ Section, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 914; Pub. L. 93–87, title I
 
 Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 310. Civil defense
+## § 310. Civil defense
 
 In order to assure that adequate consideration is given to civil defense aspects in the planning and construction of highways constructed or reconstructed with the aid of Federal funds, the Secretary of Transportation is authorized and directed to consult, from time to time, with the Federal Civil Defense Administrator relative to the civil defense aspects of highways so constructed or reconstructed.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 914; Pub. L. 93–87, title I, § 152(3), Aug. 13, 1973, 87 Stat. 276.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 914; Pub. L. 93–87, title I, § 152(3), Aug. 13, 1973, 87 Stat. 276.)
 
 **Editorial Notes**
 
@@ -249,7 +249,7 @@ In order to assure that adequate consideration is given to civil defense aspects
 
 Office of Federal Civil Defense Administrator, referred to in text, abolished and functions thereof transferred to President by Reorg. Plan No. 1 of 1958, set out as a note under section 5195 of Title 42, The Public Health and Welfare. The Plan also established a new agency in the Executive Office of the President, known as the Office of Defense and Civilian Mobilization to be headed by a Director. Office redesignated as the Office of Civil and Defense Mobilization by act Aug. 26, 1958 (72 Stat. 861; 42 U.S.C. 5195 note). Civil defense functions transferred to Secretary of Defense by Executive Order No. 10952 of July 20, 1961, formerly set out as a note under section 2271 of the former Appendix to Title 50, War and National Defense, and remaining functions redesignated Office of Emergency Planning by act Sept. 22, 1961 (75 Stat. 630; 42 U.S.C. 5195 note). Office redesignated Office of Emergency Preparedness by act Oct. 21, 1968 (82 Stat. 1194; 42 U.S.C. 5195 note). Office of Emergency Preparedness including office of Director abolished and functions thereof transferred to President by Reorg. Plan No. 1 of 1973, set out as a note under section 5195 of Title 42.
 
-## § 311. Highway improvements strategically important to the national defense
+## § 311. Highway improvements strategically important to the national defense
 
 Funds made available under subsection (a) of section 104 of this title may be used to pay the entire engineering costs of the surveys, plans, specifications, estimates, and supervision of construction of projects for such urgent improvements of highways strategically important from the standpoint of the national defense as may be undertaken on the order of the Secretary and as the result of request of the Secretary of Defense or such other official as the President may designate. With the consent of a State, funds made available under subsection (b) of section 104 of this title may be used to the extent deemed necessary and advisable by the Secretary to carry out the provisions of this section.
 
@@ -259,17 +259,17 @@ Funds made available under subsection (a) of section 104 of this title may be us
 
 **National Defense Highways Located Outside United States**
 
-Pub. L. 102–240, title I, § 1006(h), Dec. 18, 1991, 105 Stat. 1927, provided that:
+Pub. L. 102–240, title I, § 1006(h), Dec. 18, 1991, 105 Stat. 1927, provided that:
 
 > **“(1) Reconstruction projects.—** If the Secretary determines, after consultation with the Secretary of Defense, that a highway, or portion of a highway, located outside the United States is important to the national defense, the Secretary may carry out a project for the reconstruction of such highway or portion of highway.
 
 > **“(2) Funding.—** The Secretary may make available, from funds appropriated to construct the National System of Interstate and Defense Highways, not to exceed $20,000,000 per fiscal year for each of fiscal years 1993, 1994, 1995, and 1996 to carry out this subsection. Such sums shall remain available until expended.”
 
-## § 312. Detail of Army, Navy, and Air Force officers
+## § 312. Detail of Army, Navy, and Air Force officers
 
 The Secretary of Defense, upon request of the Secretary, is authorized to make temporary details to the Federal Highway Administration of officers of the Army, the Navy, and the Air Force, without additional compensation, for technical advice and for consultation regarding highway needs for the national defense. Travel and subsistence expenses of officers so detailed shall be paid from appropriations available to the Department of Transportation on the same basis as authorized by law and by regulations of the Department of Defense for such officers.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915; Pub. L. 93–87, title I, § 152(5), (6), Aug. 13, 1973, 87 Stat. 276.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915; Pub. L. 93–87, title I, § 152(5), (6), Aug. 13, 1973, 87 Stat. 276.)
 
 **Editorial Notes**
 
@@ -277,7 +277,7 @@ The Secretary of Defense, upon request of the Secretary, is authorized to make t
 
 1973—Pub. L. 93–87 substituted “Federal Highway Administration” for “Bureau of Public Roads” and “Department of Transportation” for “Department of Commerce”.
 
-## § 313. Buy America
+## § 313. Buy America
 
 **(a)** Notwithstanding any other provision of law, the Secretary of Transportation shall not obligate any funds authorized to be appropriated to carry out the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title and administered by the Department of Transportation, unless steel, iron, and manufactured products used in such project are produced in the United States.
 
@@ -323,7 +323,7 @@ the provisions of subsection (b) shall not apply to products produced in that fo
 
 **(h) Application to Highway Programs.—** The requirements under this section shall apply to all contracts eligible for assistance under this chapter for a project carried out within the scope of the applicable finding, determination, or decision under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), regardless of the funding source of such contracts, if at least 1 contract for the project is funded with amounts made available to carry out this title.
 
-(Added and amended Pub. L. 109–59, title I, § 1903(a), (c), Aug. 10, 2005, 119 Stat. 1464, 1465; Pub. L. 112–141, div. A, title I, § 1518, July 6, 2012, 126 Stat. 574; Pub. L. 117–58, div. A, title I, § 11513, Nov. 15, 2021, 135 Stat. 595.)
+(Added and amended Pub. L. 109–59, title I, § 1903(a), (c), Aug. 10, 2005, 119 Stat. 1464, 1465; Pub. L. 112–141, div. A, title I, § 1518, July 6, 2012, 126 Stat. 574; Pub. L. 117–58, div. A, title I, § 11513, Nov. 15, 2021, 135 Stat. 595.)
 
 **Editorial Notes**
 
@@ -333,15 +333,15 @@ The Surface Transportation Assistance Act of 1982, referred to in subsecs. (a) a
 
 The Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsec. (e), is Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (h), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (h), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Codification**
 
-Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, § 165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, § 10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§ 133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, 101 Stat. 171, 241; Pub. L. 102–240, title I, § 1048, title III, § 3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L. 103–272, § 4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, § 7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, § 1903(d), Aug. 10, 2005, 119 Stat. 1465.
+Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, § 165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, § 10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§ 133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, 101 Stat. 171, 241; Pub. L. 102–240, title I, § 1048, title III, § 3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L. 103–272, § 4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, § 7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, § 1903(d), Aug. 10, 2005, 119 Stat. 1465.
 
 **Prior Provisions**
 
-A prior section 313, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915, authorized the Secretary to cooperate with State highway departments and other agencies in the promotion of highway safety and authorized the expenditure of $150,000 out of the administrative funds made available in accordance with section 104(a) of this title for the purposes of this section, prior to repeal by Pub. L. 89–564, title I, § 102(a), Sept. 9, 1966, 80 Stat. 734. See section 401 et seq. of this title.
+A prior section 313, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915, authorized the Secretary to cooperate with State highway departments and other agencies in the promotion of highway safety and authorized the expenditure of $150,000 out of the administrative funds made available in accordance with section 104(a) of this title for the purposes of this section, prior to repeal by Pub. L. 89–564, title I, § 102(a), Sept. 9, 1966, 80 Stat. 734. See section 401 et seq. of this title.
 
 **Amendments**
 
@@ -349,13 +349,13 @@ A prior section 313, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915, authorized t
 
 2012—Subsec. (g). Pub. L. 112–141 added subsec. (g).
 
-2005—Subsec. (a). Pub. L. 109–59, § 1903(c)(1), substituted “to carry out the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title” for “by this Act or by any Act amended by this Act or, after the date of enactment of this Act, any funds authorized to be appropriated to carry out this Act, title 23, United States Code, or the Surface Transportation Assistance Act of 1978”.
+2005—Subsec. (a). Pub. L. 109–59, § 1903(c)(1), substituted “to carry out the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title” for “by this Act or by any Act amended by this Act or, after the date of enactment of this Act, any funds authorized to be appropriated to carry out this Act, title 23, United States Code, or the Surface Transportation Assistance Act of 1978”.
 
-Subsec. (b)(3), (4). Pub. L. 109–59, § 1903(c)(2), redesignated par. (4) as (3).
+Subsec. (b)(3), (4). Pub. L. 109–59, § 1903(c)(2), redesignated par. (4) as (3).
 
-Subsec. (d). Pub. L. 109–59, § 1903(c)(3), substituted “the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title that” for “this Act, the Surface Transportation Assistance Act of 1978 or title 23, United States Code, which”.
+Subsec. (d). Pub. L. 109–59, § 1903(c)(3), substituted “the Surface Transportation Assistance Act of 1982 (96 Stat. 2097) or this title that” for “this Act, the Surface Transportation Assistance Act of 1978 or title 23, United States Code, which”.
 
-Subsec. (e) to (g). Pub. L. 109–59, § 1903(c)(4), (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, Pub. L. 95–599. The second subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as added by Pub. L. 102–240, § 1048(b), related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
+Subsec. (e) to (g). Pub. L. 109–59, § 1903(c)(4), (5), which directed amendment of this section by striking subsec. (e) and redesignating subsecs. (f) and (g) as (e) and (f), respectively, was executed by making the redesignations and by striking out two subsecs. (e), to reflect the probable intent of Congress. The first subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as originally enacted, repealed section 401 of the Surface Transportation Assistance Act of 1978, Pub. L. 95–599. The second subsec. (e) based on subsec. (e) of section 165 of Pub. L. 97–424, as added by Pub. L. 102–240, § 1048(b), related to report on purchases from foreign entities waived under subsec. (b) in fiscal years 1992 and 1993.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -369,41 +369,41 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **Buy America Waiver Notification and Annual Reports**
 
-Pub. L. 119–75, div. D, title I, § 122, Feb. 3, 2026, 140 Stat. 353, provided that: “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: *Provided*, That the Secretary shall post on a website any waivers granted under the Buy America requirements.”
+Pub. L. 119–75, div. D, title I, § 122, Feb. 3, 2026, 140 Stat. 353, provided that: “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: *Provided*, That the Secretary shall post on a website any waivers granted under the Buy America requirements.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 118–42, div. F, title I, § 122, Mar. 9, 2024, 138 Stat. 321.
+Pub. L. 118–42, div. F, title I, § 122, Mar. 9, 2024, 138 Stat. 321.
 
-Pub. L. 117–328, div. L, title I, § 122, Dec. 29, 2022, 136 Stat. 5116.
+Pub. L. 117–328, div. L, title I, § 122, Dec. 29, 2022, 136 Stat. 5116.
 
-Pub. L. 117–103, div. L, title I, § 122, Mar. 15, 2022, 136 Stat. 704.
+Pub. L. 117–103, div. L, title I, § 122, Mar. 15, 2022, 136 Stat. 704.
 
-Pub. L. 116–260, div. L, title I, § 122, Dec. 27, 2020, 134 Stat. 1841.
+Pub. L. 116–260, div. L, title I, § 122, Dec. 27, 2020, 134 Stat. 1841.
 
-Pub. L. 116–94, div. H, title I, § 122, Dec. 20, 2019, 133 Stat. 2951.
+Pub. L. 116–94, div. H, title I, § 122, Dec. 20, 2019, 133 Stat. 2951.
 
-Pub. L. 116–6, div. G, title I, § 122, Feb. 15, 2019, 133 Stat. 412.
+Pub. L. 116–6, div. G, title I, § 122, Feb. 15, 2019, 133 Stat. 412.
 
-Pub. L. 115–141, div. L, title I, § 122, Mar. 23, 2018, 132 Stat. 986.
+Pub. L. 115–141, div. L, title I, § 122, Mar. 23, 2018, 132 Stat. 986.
 
-Pub. L. 115–31, div. K, title I, § 123, May 5, 2017, 131 Stat. 741.
+Pub. L. 115–31, div. K, title I, § 123, May 5, 2017, 131 Stat. 741.
 
-Pub. L. 114–113, div. L, title I, § 122, Dec. 18, 2015, 129 Stat. 2847.
+Pub. L. 114–113, div. L, title I, § 122, Dec. 18, 2015, 129 Stat. 2847.
 
-Pub. L. 113–235, div. K, title I, § 122, Dec. 16, 2014, 128 Stat. 2708.
+Pub. L. 113–235, div. K, title I, § 122, Dec. 16, 2014, 128 Stat. 2708.
 
-Pub. L. 113–76, div. L, title I, § 122, Jan. 17, 2014, 128 Stat. 586.
+Pub. L. 113–76, div. L, title I, § 122, Jan. 17, 2014, 128 Stat. 586.
 
-Pub. L. 112–55, div. C, title I, § 122, Nov. 18, 2011, 125 Stat. 654.
+Pub. L. 112–55, div. C, title I, § 122, Nov. 18, 2011, 125 Stat. 654.
 
-Pub. L. 111–117, div. A, title I, § 123, Dec. 16, 2009, 123 Stat. 3048.
+Pub. L. 111–117, div. A, title I, § 123, Dec. 16, 2009, 123 Stat. 3048.
 
-Pub. L. 111–8, div. I, title I, § 126, Mar. 11, 2009, 123 Stat. 928.
+Pub. L. 111–8, div. I, title I, § 126, Mar. 11, 2009, 123 Stat. 928.
 
-Pub. L. 110–161, div. K, title I, § 130, Dec. 26, 2007, 121 Stat. 2389.
+Pub. L. 110–161, div. K, title I, § 130, Dec. 26, 2007, 121 Stat. 2389.
 
-Pub. L. 110–244, title I, § 117, June 6, 2008, 122 Stat. 1607, provided that:
+Pub. L. 110–244, title I, § 117, June 6, 2008, 122 Stat. 1607, provided that:
 
 > **“(a) Waiver Notification.—**
 
@@ -417,11 +417,11 @@ Pub. L. 110–244, title I, § 117, June 6, 2008, 122 Stat. 1607, provided tha
 
 > **“(b) Annual Reports.—** Not later than February 1 of each year beginning after the date of enactment of this Act [June 6, 2008], the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the projects for which the Secretary made findings under section 313(b) of title 23, United States Code, during the preceding calendar year and the justifications for such findings.”
 
-## § 314. Relief of employees in hazardous work
+## § 314. Relief of employees in hazardous work
 
 The Secretary is authorized in an emergency to use appropriations to the Department of Transportation for carrying out the provisions of this title for medical supplies, services, and other assistance necessary for the immediate relief of employees of the Federal Highway Administration engaged in hazardous work.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915; Pub. L. 93–87, title I, § 152(5), (6), Aug. 13, 1973, 87 Stat. 276.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915; Pub. L. 93–87, title I, § 152(5), (6), Aug. 13, 1973, 87 Stat. 276.)
 
 **Editorial Notes**
 
@@ -429,11 +429,11 @@ The Secretary is authorized in an emergency to use appropriations to the Departm
 
 1973—Pub. L. 93–87 substituted “Department of Transportation” for “Department of Commerce” and “Federal Highway Administration” for “Bureau of Public Roads”.
 
-## § 315. Rules, regulations, and recommendations
+## § 315. Rules, regulations, and recommendations
 
 Except as provided in sections 202(a)(5), 203(a)(3), and 205(a) of this title, the Secretary is authorized to prescribe and promulgate all needful rules and regulations for the carrying out of the provisions of this title. The Secretary may make such recommendations to the Congress and State transportation departments as he deems necessary for preserving and protecting the highways and insuring the safety of traffic thereon.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915; Pub. L. 100–17, title I, § 133(b)(18), Apr. 2, 1987, 101 Stat. 172; Pub. L. 105–178, title I, § 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 193; Pub. L. 112–141, div. A, title I, § 1119(c)(3), July 6, 2012, 126 Stat. 492.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915; Pub. L. 100–17, title I, § 133(b)(18), Apr. 2, 1987, 101 Stat. 172; Pub. L. 105–178, title I, § 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 193; Pub. L. 112–141, div. A, title I, § 1119(c)(3), July 6, 2012, 126 Stat. 492.)
 
 **Editorial Notes**
 
@@ -451,11 +451,11 @@ Except as provided in sections 202(a)(5), 203(a)(3), and 205(a) of this title, t
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 316. Consent by United States to conveyance of property
+## § 316. Consent by United States to conveyance of property
 
 For the purposes of this title the consent of the United States is given to any railroad or canal company to convey to the State transportation department of any State, or its nominee, any part of its right-of-way or other property in that State acquired by grant from the United States.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915; Pub. L. 105–178, title I, § 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 915; Pub. L. 105–178, title I, § 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193.)
 
 **Editorial Notes**
 
@@ -463,7 +463,7 @@ For the purposes of this title the consent of the United States is given to any 
 
 1998—Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
 
-## § 317. Appropriation for highway purposes of lands or interests in lands owned by the United States
+## § 317. Appropriation for highway purposes of lands or interests in lands owned by the United States
 
 **(a)** If the Secretary determines that any part of the lands or interests in lands owned by the United States is reasonably necessary for the right-of-way of any highway, or as a source of materials for the construction or maintenance of any such highway adjacent to such lands or interests in lands, the Secretary shall file with the Secretary of the Department supervising the administration of such lands or interests in lands a map showing the portion of such lands or interests in lands which it is desired to appropriate.
 
@@ -473,7 +473,7 @@ For the purposes of this title the consent of the United States is given to any 
 
 **(d)** The provisions of this section shall apply only to projects constructed on a Federal-aid highway or under the provisions of chapter 2 of this title.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 105–178, title I, § 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 112–141, div. A, title I, § 1104(c)(6), July 6, 2012, 126 Stat. 427.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 105–178, title I, § 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 112–141, div. A, title I, § 1104(c)(6), July 6, 2012, 126 Stat. 427.)
 
 **Editorial Notes**
 
@@ -489,11 +489,11 @@ For the purposes of this title the consent of the United States is given to any 
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 318. Highway relocation due to airport
+## § 318. Highway relocation due to airport
 
 Federal highway funds shall not be used for the reconstruction or relocation of any highway giving access to an airport constructed or extended after December 20, 1944, or for the reconstruction or relocation of any highway which has been or may be closed or the usefulness of which has been may be impaired by the location or construction of any airport constructed or extended after December 20, 1944, unless, prior to such construction or extension, as the case may be, the State transportation department and the Secretary have concurred with the officials in charge of the airport that the location of such airport or extension thereof and the consequent reconstruction or relocation of the highway are in the public interest.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 105–178, title I, § 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 105–178, title I, § 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193.)
 
 **Editorial Notes**
 
@@ -501,7 +501,7 @@ Federal highway funds shall not be used for the reconstruction or relocation of 
 
 1998—Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
 
-## § 319. Landscaping and scenic enhancement
+## § 319. Landscaping and scenic enhancement
 
 **(a) Landscape and Roadside Development.—** The Secretary may approve as a part of the construction of Federal-aid highways the costs of landscape and roadside development, including acquisition and development of publicly owned and controlled rest and recreation areas and sanitary and other facilities reasonably necessary to accommodate the traveling public, and for acquisition of interests in and improvement of strips of land necessary for the restoration, preservation, and enhancement of scenic beauty (including the enhancement of habitat and forage for pollinators) adjacent to such highways.
 
@@ -519,15 +519,15 @@ Federal highway funds shall not be used for the reconstruction or relocation of 
 
 **(2)** encourage the development of habitat and forage for Monarch butterflies, other native pollinators, and honey bees through plantings of native forbs and grasses, including noninvasive, native milkweed species that can serve as migratory way stations for butterflies and facilitate migrations of other pollinators.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 89–285, title III, § 301(a), Oct. 22, 1965, 79 Stat. 1032; Pub. L. 89–574, § 8(b), Sept. 13, 1966, 80 Stat. 768; Pub. L. 90–495, § 6(f), Aug. 23, 1968, 82 Stat. 818; Pub. L. 94–280, title I, § 136(a), May 5, 1976, 90 Stat. 442; Pub. L. 100–17, title I, § 130, Apr. 2, 1987, 101 Stat. 169; Pub. L. 114–94, div. A, title I, § 1415(a), Dec. 4, 2015, 129 Stat. 1421.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 916; Pub. L. 89–285, title III, § 301(a), Oct. 22, 1965, 79 Stat. 1032; Pub. L. 89–574, § 8(b), Sept. 13, 1966, 80 Stat. 768; Pub. L. 90–495, § 6(f), Aug. 23, 1968, 82 Stat. 818; Pub. L. 94–280, title I, § 136(a), May 5, 1976, 90 Stat. 442; Pub. L. 100–17, title I, § 130, Apr. 2, 1987, 101 Stat. 169; Pub. L. 114–94, div. A, title I, § 1415(a), Dec. 4, 2015, 129 Stat. 1421.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2015—Subsec. (a). Pub. L. 114–94, § 1415(a)(1), inserted “(including the enhancement of habitat and forage for pollinators)” before “adjacent”.
+2015—Subsec. (a). Pub. L. 114–94, § 1415(a)(1), inserted “(including the enhancement of habitat and forage for pollinators)” before “adjacent”.
 
-Subsec. (c). Pub. L. 114–94, § 1415(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 114–94, § 1415(a)(2), added subsec. (c).
 
 1987—Pub. L. 100–17 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
@@ -551,11 +551,11 @@ Amendment by Pub. L. 90–495 effective August 23, 1968, see section 37 of Pub. 
 
 **Continuing Availability of Appropriated Funds for Appropriation, Obligation, and Expenditure**
 
-Pub. L. 94–280, title I, § 136(b), May 5, 1976, 90 Stat. 443, provided that all sums authorized to be appropriated to carry out this section as in effect immediately before May 5, 1976, would continue to be available for appropriation, obligation, and expenditure in accordance with former subsec. (b) of this section.
+Pub. L. 94–280, title I, § 136(b), May 5, 1976, 90 Stat. 443, provided that all sums authorized to be appropriated to carry out this section as in effect immediately before May 5, 1976, would continue to be available for appropriation, obligation, and expenditure in accordance with former subsec. (b) of this section.
 
 **National Scenic Highway System Study and User Access Study for Parks and Recreation Areas**
 
-Pub. L. 93–87, title I, § 134, Aug. 13, 1973, 87 Stat. 268, mandated a study to determine the feasibility of a scenic highway system to link together recreational, historical sites, and a study of user access to parks and recreational areas, including alternatives to private automobiles, the results of the studies to be reported to Congress no later than July 1, 1974, and Jan. 1, 1975, respectively.
+Pub. L. 93–87, title I, § 134, Aug. 13, 1973, 87 Stat. 268, mandated a study to determine the feasibility of a scenic highway system to link together recreational, historical sites, and a study of user access to parks and recreational areas, including alternatives to private automobiles, the results of the studies to be reported to Congress no later than July 1, 1974, and Jan. 1, 1975, respectively.
 
 **Acquisition of Dwellings**
 
@@ -565,7 +565,7 @@ Prohibition against the use of eminent domain to acquire any dwelling (including
 
 Prohibition against the taking of private property or the restriction of reasonable and existing use by such taking without just compensation under the terms of Pub. L. 89–285, see section 401 of Pub. L. 89–285, set out as a note under section 131 of this title.
 
-## § 320. Bridges on Federal dams
+## § 320. Bridges on Federal dams
 
 **(a)** Each executive department, independent establishment, office, board, bureau, commission, authority, administration, corporation wholly owned or controlled by the United States, or other agency of the Government of the United States, hereinafter collectively and individually referred to as “agency”, which on or after July 29, 1946, has jurisdiction over and custody of any dam constructed or to be constructed and owned by or for the United States, is authorized, with any funds available to it, to design and construct any such dam in such manner that it will constitute and serve as a suitable and adequate foundation to support a public highway bridge upon and across such dam, and to design and construct upon the foundation thus provided a public highway bridge upon and across such dam. The highway department of the State in which such dam shall be located, jointly with the Secretary, shall first determine and certify to such agency that such bridge is economically desirable and needed as a link in the State or Federal-aid highway systems, and shall request such agency to design and construct such dam so that it will serve as a suitable and adequate foundation for a public highway bridge and to design and construct such public highway bridge upon and across such dam, and shall agree to reimburse such agency pursuant to subsection (d) of this section for any additional costs which it may be required to incur because of the design and construction of such dam so that it will serve as a foundation for a public highway bridge and for expenditures which it may find it necessary to make in designing and constructing such public highway bridge upon and across such dam. In no case shall the design and construction of a bridge upon and across such dam be undertaken hereunder except by the agency having jurisdiction over and custody of the dam, acting directly or through contractors employed by it, and after such agency shall determine that it will be structurally feasible and will not interfere with the proper functioning and operation of the dam.
 
@@ -579,7 +579,7 @@ Prohibition against the taking of private property or the restriction of reasona
 
 **(f)** The authority conferred by this section shall be in addition to and not in limitation of authority conferred upon any agency by any other law, and nothing in this section contained shall affect or be deemed to relate to any bridge, approach structure, or highway constructed or to be constructed by any such agency in furtherance of its lawful purposes and requirements or to satisfy a legal obligation incurred independently of this section.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 917; Pub. L. 86–342, title I, § 108, Sept. 21, 1959, 73 Stat. 613; Pub. L. 88–423, § 4(c), Aug. 13, 1964, 78 Stat. 398; Pub. L. 91–605, title I, § 116(a), Dec. 31, 1970, 84 Stat. 1724; Pub. L. 93–87, title I, § 128(a), Aug. 13, 1973, 87 Stat. 265; Pub. L. 93–643, § 123(a), Jan. 4, 1975, 88 Stat. 2290; Pub. L. 94–280, title I, § 137(a), May 5, 1976, 90 Stat. 443; Pub. L. 95–599, title I, § 128(a), Nov. 6, 1978, 92 Stat. 2707.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 917; Pub. L. 86–342, title I, § 108, Sept. 21, 1959, 73 Stat. 613; Pub. L. 88–423, § 4(c), Aug. 13, 1964, 78 Stat. 398; Pub. L. 91–605, title I, § 116(a), Dec. 31, 1970, 84 Stat. 1724; Pub. L. 93–87, title I, § 128(a), Aug. 13, 1973, 87 Stat. 265; Pub. L. 93–643, § 123(a), Jan. 4, 1975, 88 Stat. 2290; Pub. L. 94–280, title I, § 137(a), May 5, 1976, 90 Stat. 443; Pub. L. 95–599, title I, § 128(a), Nov. 6, 1978, 92 Stat. 2707.)
 
 **Editorial Notes**
 
@@ -603,37 +603,37 @@ Prohibition against the taking of private property or the restriction of reasona
 
 **Appropriation Out of Highway Trust Fund of Sums Appropriated Under Authority of Increased Authorization**
 
-Pub. L. 95–599, title I, § 128(b), Nov. 6, 1978, 92 Stat. 2707, provided that: “Sums appropriated or expended under authority of the increased authorization established by the amendment made by subsection (a) of this section [amending subsec. (d) of this section] shall be appropriated out of the Highway Trust Fund for the fiscal year ending September 30, 1978, and for subsequent fiscal years.”
+Pub. L. 95–599, title I, § 128(b), Nov. 6, 1978, 92 Stat. 2707, provided that: “Sums appropriated or expended under authority of the increased authorization established by the amendment made by subsection (a) of this section [amending subsec. (d) of this section] shall be appropriated out of the Highway Trust Fund for the fiscal year ending September 30, 1978, and for subsequent fiscal years.”
 
 **Appropriation of Increased Authorization**
 
-Pub. L. 94–280, title I, § 137(b), May 5, 1976, 90 Stat. 443, provided that: “Sums appropriated or expended under authority of the increased authorization established by the amendment made by subsection (a) of this section [to subsec. (d) of this section] shall be appropriated out of the Highway Trust Fund for the fiscal year ending September 30, 1977, and for subsequent fiscal years.”
+Pub. L. 94–280, title I, § 137(b), May 5, 1976, 90 Stat. 443, provided that: “Sums appropriated or expended under authority of the increased authorization established by the amendment made by subsection (a) of this section [to subsec. (d) of this section] shall be appropriated out of the Highway Trust Fund for the fiscal year ending September 30, 1977, and for subsequent fiscal years.”
 
 **Restriction on Increased Authorization of Appropriations**
 
-Pub. L. 93–643, § 123(b), Jan. 4, 1975, 88 Stat. 2290, provided that: “All sums appropriated under authority of the increased authorization established by the amendment made by subsection (a) of this section shall be available for expenditure in the same manner and for the same purpose as provided for in subsection (b) of section 116 of the Federal-Aid Highway Act of 1970 (Public Law 91–605).”
+Pub. L. 93–643, § 123(b), Jan. 4, 1975, 88 Stat. 2290, provided that: “All sums appropriated under authority of the increased authorization established by the amendment made by subsection (a) of this section shall be available for expenditure in the same manner and for the same purpose as provided for in subsection (b) of section 116 of the Federal-Aid Highway Act of 1970 (Public Law 91–605).”
 
-Pub. L. 93–87, title I, § 128(b), Aug. 13, 1973, 87 Stat. 265, provided that: “All sums appropriated under authority of the increased authorization of $8,500,000 established by the amendment made by subsection (a) of this section [to subsec. (d) of this section] shall be available for expenditure only in connection with the construction of a bridge across lock and dam numbered 13 on the Arkansas River near Fort Smith, Arkansas, in the amount of $2,100,000 and in connection with reconstruction of a bridge across the Chickamauga Dam on the Tennessee River near Chattanooga, Tennessee, in the amount of $6,400,000. No such sums shall be appropriated until all applicable requirements of section 320 of title 23 of the United States Code have been complied with by the appropriate Federal agency, the Secretary of Transportation, and the State of Arkansas for the Fort Smith project, and the State of Tennessee for the Chattanooga project.”
+Pub. L. 93–87, title I, § 128(b), Aug. 13, 1973, 87 Stat. 265, provided that: “All sums appropriated under authority of the increased authorization of $8,500,000 established by the amendment made by subsection (a) of this section [to subsec. (d) of this section] shall be available for expenditure only in connection with the construction of a bridge across lock and dam numbered 13 on the Arkansas River near Fort Smith, Arkansas, in the amount of $2,100,000 and in connection with reconstruction of a bridge across the Chickamauga Dam on the Tennessee River near Chattanooga, Tennessee, in the amount of $6,400,000. No such sums shall be appropriated until all applicable requirements of section 320 of title 23 of the United States Code have been complied with by the appropriate Federal agency, the Secretary of Transportation, and the State of Arkansas for the Fort Smith project, and the State of Tennessee for the Chattanooga project.”
 
-Pub. L. 91–605, title I, § 116(b), Dec. 31, 1970, 84 Stat. 1724, provided that: “All sums appropriated under authority of the increased authorization of $3,761,000 established by the amendment made by subsection (a) of this section [amending subsec. (d) of this section] shall be available for expenditure only in connection with the construction of a bridge across Markland Dam on the Ohio River near Markland, Indiana, and Warsaw, Kentucky. No such sums shall be appropriated until all applicable requirements of section 320 of title 23 of the United States Code have been complied with by the appropriate Federal agency, the Secretary of Transportation, and the States of Kentucky and Indiana.”
+Pub. L. 91–605, title I, § 116(b), Dec. 31, 1970, 84 Stat. 1724, provided that: “All sums appropriated under authority of the increased authorization of $3,761,000 established by the amendment made by subsection (a) of this section [amending subsec. (d) of this section] shall be available for expenditure only in connection with the construction of a bridge across Markland Dam on the Ohio River near Markland, Indiana, and Warsaw, Kentucky. No such sums shall be appropriated until all applicable requirements of section 320 of title 23 of the United States Code have been complied with by the appropriate Federal agency, the Secretary of Transportation, and the States of Kentucky and Indiana.”
 
-## § 321. Signs identifying funding sources
+## § 321. Signs identifying funding sources
 
 If a State has a practice of erecting on projects under actual construction without Federal-aid highway assistance signs which indicate the source or sources of any funds used to carry out such projects, such State shall erect on all projects under actual construction with any funds made available out of the Highway Trust Fund (other than the Mass Transit Account) signs which are visible to highway users and which indicate each governmental source of funds being used to carry out such federally assisted projects and the amount of funds being made available by each such source.
 
-(Added Pub. L. 109–59, title I, § 1901(a), Aug. 10, 2005, 119 Stat. 1464.)
+(Added Pub. L. 109–59, title I, § 1901(a), Aug. 10, 2005, 119 Stat. 1464.)
 
 **Editorial Notes**
 
 **Codification**
 
-Section, as added by Pub. L. 109–59, consists of text of Pub. L. 100–17, title I, § 154, Apr. 2, 1987, 101 Stat. 209, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, § 1901(c), Aug. 10, 2005, 119 Stat. 1464.
+Section, as added by Pub. L. 109–59, consists of text of Pub. L. 100–17, title I, § 154, Apr. 2, 1987, 101 Stat. 209, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, § 1901(c), Aug. 10, 2005, 119 Stat. 1464.
 
 **Prior Provisions**
 
-A prior section 321, added Pub. L. 91–605, title I, § 115(a), Dec. 31, 1970, 84 Stat. 1723; amended Pub. L. 96–106, § 11, Nov. 9, 1979, 93 Stat. 798; Pub. L. 100–17, title I, § 131, Apr. 2, 1987, 101 Stat. 170; Pub. L. 102–240, title VI, § 6002, Dec. 18, 1991, 105 Stat. 2166; Pub. L. 105–130, § 5(e)(3), Dec. 1, 1997, 111 Stat. 2557, related to National Highway Institute, prior to repeal by Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452.
+A prior section 321, added Pub. L. 91–605, title I, § 115(a), Dec. 31, 1970, 84 Stat. 1723; amended Pub. L. 96–106, § 11, Nov. 9, 1979, 93 Stat. 798; Pub. L. 100–17, title I, § 131, Apr. 2, 1987, 101 Stat. 170; Pub. L. 102–240, title VI, § 6002, Dec. 18, 1991, 105 Stat. 2166; Pub. L. 105–130, § 5(e)(3), Dec. 1, 1997, 111 Stat. 2557, related to National Highway Institute, prior to repeal by Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452.
 
-## § 322. Magnetic levitation transportation technology deployment program
+## § 322. Magnetic levitation transportation technology deployment program
 
 **(a) Definitions.—** In this section, the following definitions apply:
 
@@ -753,7 +753,7 @@ A prior section 321, added Pub. L. 91–605, title I, § 115(a), Dec. 31, 1970
 
 **(ii)** shall remain available until expended.
 
-(Added and amended Pub. L. 105–178, title I, § 1218(a), (c), June 9, 1998, 112 Stat. 216; Pub. L. 105–206, title IX, § 9003(i), July 22, 1998, 112 Stat. 841; Pub. L. 114–94, div. A, title I, § 1109(c)(3), Dec. 4, 2015, 129 Stat. 1343.)
+(Added and amended Pub. L. 105–178, title I, § 1218(a), (c), June 9, 1998, 112 Stat. 216; Pub. L. 105–206, title IX, § 9003(i), July 22, 1998, 112 Stat. 841; Pub. L. 114–94, div. A, title I, § 1109(c)(3), Dec. 4, 2015, 129 Stat. 1343.)
 
 **Editorial Notes**
 
@@ -767,23 +767,23 @@ The Transportation Equity Act for the 21st Century, referred to in subsec. (h)(4
 
 **Prior Provisions**
 
-A prior section 322, added Pub. L. 91–605, title II, § 205(a), Dec. 31, 1970, 84 Stat. 1742; amended Pub. L. 93–643, § 117, Jan. 4, 1975, 88 Stat. 2288; Pub. L. 97–449, § 5(d)(3), Jan. 12, 1983, 96 Stat. 2442, related to demonstration projects for elimination or protection of certain ground-level rail-highway crossings and required study of problem of providing increased highway safety at public and private ground-level rail-highway crossings on nationwide basis through elimination of such crossings or otherwise, and report to Congress on such study not later than July 1, 1972, prior to repeal by Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173.
+A prior section 322, added Pub. L. 91–605, title II, § 205(a), Dec. 31, 1970, 84 Stat. 1742; amended Pub. L. 93–643, § 117, Jan. 4, 1975, 88 Stat. 2288; Pub. L. 97–449, § 5(d)(3), Jan. 12, 1983, 96 Stat. 2442, related to demonstration projects for elimination or protection of certain ground-level rail-highway crossings and required study of problem of providing increased highway safety at public and private ground-level rail-highway crossings on nationwide basis through elimination of such crossings or otherwise, and report to Congress on such study not later than July 1, 1972, prior to repeal by Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173.
 
 **Amendments**
 
 2015—Subsec. (h)(3). Pub. L. 114–94 substituted “surface transportation block grant program” for “surface transportation program”.
 
-1998—Subsec. (a)(3). Pub. L. 105–178, § 1218(c)(1), as added by Pub. L. 105–206, § 9003(i), struck out “or under 50 miles per hour” before period at end.
+1998—Subsec. (a)(3). Pub. L. 105–178, § 1218(c)(1), as added by Pub. L. 105–206, § 9003(i), struck out “or under 50 miles per hour” before period at end.
 
-Subsec. (d)(1). Pub. L. 105–178, § 1218(c)(2)(A), as added by Pub. L. 105–206, § 9003(i), struck out “or low-speed” after “high-speed”.
+Subsec. (d)(1). Pub. L. 105–178, § 1218(c)(2)(A), as added by Pub. L. 105–206, § 9003(i), struck out “or low-speed” after “high-speed”.
 
-Subsec. (d)(2)(A). Pub. L. 105–178, § 1218(c)(2)(B)(i), as added by Pub. L. 105–206, § 9003(i), substituted “(h)(1)” for “(h)(1)(A)”.
+Subsec. (d)(2)(A). Pub. L. 105–178, § 1218(c)(2)(B)(i), as added by Pub. L. 105–206, § 9003(i), substituted “(h)(1)” for “(h)(1)(A)”.
 
-Subsec. (d)(2)(B). Pub. L. 105–178, § 1218(c)(2)(B)(ii), as added by Pub. L. 105–206, § 9003(i), substituted “(h)(3)” for “(h)(4)”.
+Subsec. (d)(2)(B). Pub. L. 105–178, § 1218(c)(2)(B)(ii), as added by Pub. L. 105–206, § 9003(i), substituted “(h)(3)” for “(h)(4)”.
 
-Subsec. (h)(1)(B)(i). Pub. L. 105–178, § 1218(c)(3), as added by Pub. L. 105–206, § 9003(i), inserted “(other than subsection (i))” after “this section”.
+Subsec. (h)(1)(B)(i). Pub. L. 105–178, § 1218(c)(3), as added by Pub. L. 105–206, § 9003(i), inserted “(other than subsection (i))” after “this section”.
 
-Subsec. (i). Pub. L. 105–178, § 1218(c)(4), as added by Pub. L. 105–206, § 9003(i), added subsec. (i).
+Subsec. (i). Pub. L. 105–178, § 1218(c)(4), as added by Pub. L. 105–206, § 9003(i), added subsec. (i).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -797,9 +797,9 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 **Deployment of Magnetic Levitation Transportation Projects**
 
-Pub. L. 114–94, div. A, title XI, § 11315(c), Dec. 4, 2015, 129 Stat. 1675, as amended by Pub. L. 117–58, div. B, title I, § 21301(j)(2), Nov. 15, 2021, 135 Stat. 691, provided that: “A project described in 1307(a)(3) of SAFETEA–LU (Public Law 109–59) [set out below] may be eligible for the Railroad Rehabilitation and Improvement Financing program if the Secretary [of Transportation] determines such project meets the requirements of sections 22402 and 22403 of title 49, United States Code.”
+Pub. L. 114–94, div. A, title XI, § 11315(c), Dec. 4, 2015, 129 Stat. 1675, as amended by Pub. L. 117–58, div. B, title I, § 21301(j)(2), Nov. 15, 2021, 135 Stat. 691, provided that: “A project described in 1307(a)(3) of SAFETEA–LU (Public Law 109–59) [set out below] may be eligible for the Railroad Rehabilitation and Improvement Financing program if the Secretary [of Transportation] determines such project meets the requirements of sections 22402 and 22403 of title 49, United States Code.”
 
-Pub. L. 109–59, title I, § 1307, Aug. 10, 2005, 119 Stat. 1217, as amended by Pub. L. 110–244, title I, § 102(b), (c), June 6, 2008, 122 Stat. 1577, provided that:
+Pub. L. 109–59, title I, § 1307, Aug. 10, 2005, 119 Stat. 1217, as amended by Pub. L. 110–244, title I, § 102(b), (c), June 6, 2008, 122 Stat. 1577, provided that:
 
 > **“(a) Definitions.—** In this section, the following definitions apply:
 
@@ -839,11 +839,11 @@ Pub. L. 109–59, title I, § 1307, Aug. 10, 2005, 119 Stat. 1217, as amended 
 
 > **“(e) Contract Authority.—** Funds authorized under section 1101(a)(18) [119 Stat. 1155] shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code; except that the funds shall not be transferable and shall remain available until expended, and the Federal share of the cost of a project to be carried out with such funds shall be 80 percent.”
 
-[Pub. L. 110–244, title I, § 102(d), June 6, 2008, 122 Stat. 1578, provided that: “The amendments made by this section [amending section 1307 of Pub. L. 109–59, set out above] take effect on October 1, 2007.” ]
+[Pub. L. 110–244, title I, § 102(d), June 6, 2008, 122 Stat. 1578, provided that: “The amendments made by this section [amending section 1307 of Pub. L. 109–59, set out above] take effect on October 1, 2007.” ]
 
 **Advanced Technology Pilot Project**
 
-Pub. L. 105–178, title III, § 3015(c), June 9, 1998, 112 Stat. 361, as amended by Pub. L. 105–206, title IX, § 9009(k)(1), July 22, 1998, 112 Stat. 857; Pub. L. 108–88, § 8(q), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, § 9(q), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, § 7(q), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, § 7(q), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, § 7(q), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, § 8(q), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, § 7(p), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, § 7(p), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, § 7(p), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, § 7(p), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, § 7(p), July 28, 2005, 119 Stat. 420, provided that:
+Pub. L. 105–178, title III, § 3015(c), June 9, 1998, 112 Stat. 361, as amended by Pub. L. 105–206, title IX, § 9009(k)(1), July 22, 1998, 112 Stat. 857; Pub. L. 108–88, § 8(q), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, § 9(q), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, § 7(q), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, § 7(q), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, § 7(q), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, § 8(q), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, § 7(p), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, § 7(p), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, § 7(p), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, § 7(p), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, § 7(p), July 28, 2005, 119 Stat. 420, provided that:
 
 > **“(1) In general.—** The Secretary shall make grants for the development of low speed magnetic levitation technology for public transportation purposes in urban areas to demonstrate energy efficiency, congestion mitigation, and safety benefits.
 
@@ -851,15 +851,15 @@ Pub. L. 105–178, title III, § 3015(c), June 9, 1998, 112 Stat. 361, as amen
 
 > **“(3) Federal share.—** The Federal share payable on account of activities carried out using a grant made under this subsection shall be 80 percent of the cost of such activities.”
 
-[Pub. L. 109–35, § 7(p)(1), which directed amendment of Pub. L. 105–178, § 3015(c)(2), set out above, by substituting “July 21, 2005” for “July 19, 2005,” was executed by making the substitution for “July 19, 2005”, to reflect the probable intent of Congress.]
+[Pub. L. 109–35, § 7(p)(1), which directed amendment of Pub. L. 105–178, § 3015(c)(2), set out above, by substituting “July 21, 2005” for “July 19, 2005,” was executed by making the substitution for “July 19, 2005”, to reflect the probable intent of Congress.]
 
-[Pub. L. 109–20, § 7(p)(1), which directed amendment of Pub. L. 105–178, § 3015(c)(2), set out above, by substituting “July 19, 2005” for “June 30, 2005,” was executed by making the substitution for “June 30, 2005”, to reflect the probable intent of Congress.]
+[Pub. L. 109–20, § 7(p)(1), which directed amendment of Pub. L. 105–178, § 3015(c)(2), set out above, by substituting “July 19, 2005” for “June 30, 2005,” was executed by making the substitution for “June 30, 2005”, to reflect the probable intent of Congress.]
 
-[Pub. L. 108–280, § 7(q), which directed amendment of Pub. L. 105–178, § 3015(c)(2), set out above, by substituting “2004, $5,000,000 per fiscal year” for “2003, and for the period of October 1, 2003, through July 31, 2004 $5,000,000 per fiscal year and $4,142,083 for such period”, was executed by making the substitution for “2003, and for the period of October 1, 2003, through July 31, 2004, $5,000,000 per fiscal year and $4,142,083 for such period”, to reflect the probable intent of Congress.]
+[Pub. L. 108–280, § 7(q), which directed amendment of Pub. L. 105–178, § 3015(c)(2), set out above, by substituting “2004, $5,000,000 per fiscal year” for “2003, and for the period of October 1, 2003, through July 31, 2004 $5,000,000 per fiscal year and $4,142,083 for such period”, was executed by making the substitution for “2003, and for the period of October 1, 2003, through July 31, 2004, $5,000,000 per fiscal year and $4,142,083 for such period”, to reflect the probable intent of Congress.]
 
-[Pub. L. 108–224, § 7(q)(1), which directed amendment of Pub. L. 105–178, § 3015(c)(2), set out above, by substituting “June 30, 2004” for “April 30, 2004,” was executed by making the substitution for “April 30, 2004”, to reflect the probable intent of Congress.]
+[Pub. L. 108–224, § 7(q)(1), which directed amendment of Pub. L. 105–178, § 3015(c)(2), set out above, by substituting “June 30, 2004” for “April 30, 2004,” was executed by making the substitution for “April 30, 2004”, to reflect the probable intent of Congress.]
 
-## § 323. Donations and credits
+## § 323. Donations and credits
 
 **(a) Donations of Property Being Acquired.—** Nothing in this title, or in any other provision of law, shall be construed to prevent a person whose real property is being acquired in connection with a project under this title, after he has been fully informed of his right to receive just compensation for the acquisition of his property, from making a gift or donation of such property, or any part thereof, or of any of the compensation paid therefor, to a Federal agency, a State or a State agency, or a political subdivision of a State, as said person shall determine.
 
@@ -905,39 +905,39 @@ Pub. L. 105–178, title III, § 3015(c), June 9, 1998, 112 Stat. 361, as amen
 
 **(3)** any property acquired by gift or donation shall be revested in the grantor or successors in interest if such property is not required for the alignment chosen after public hearings, if required, and completion of the environmental document.
 
-(Added Pub. L. 93–87, title I, § 145(a), Aug. 13, 1973, 87 Stat. 273; amended Pub. L. 93–643, § 112, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 100–17, title I, § 146(a), Apr. 2, 1987, 101 Stat. 179; Pub. L. 104–59, title III, § 322, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–178, title I, §§ 1212(a)(2)(A)(i), 1301(b)–(d)(1), June 9, 1998, 112 Stat. 193, 225, 226; Pub. L. 109–59, title I, § 1902, Aug. 10, 2005, 119 Stat. 1464; Pub. L. 117–58, div. A, title I, § 11525(q), Nov. 15, 2021, 135 Stat. 608.)
+(Added Pub. L. 93–87, title I, § 145(a), Aug. 13, 1973, 87 Stat. 273; amended Pub. L. 93–643, § 112, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 100–17, title I, § 146(a), Apr. 2, 1987, 101 Stat. 179; Pub. L. 104–59, title III, § 322, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–178, title I, §§ 1212(a)(2)(A)(i), 1301(b)–(d)(1), June 9, 1998, 112 Stat. 193, 225, 226; Pub. L. 109–59, title I, § 1902, Aug. 10, 2005, 119 Stat. 1464; Pub. L. 117–58, div. A, title I, § 11525(q), Nov. 15, 2021, 135 Stat. 608.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Amendments**
 
 2021—Subsec. (d). Pub. L. 117–58 inserted “(42 U.S.C. 4321 et seq.)” after “National Environmental Policy Act of 1969” in introductory provisions.
 
-2005—Subsec. (c). Pub. L. 109–59, § 1902(1), inserted “, or a local government from offering to donate funds, materials, or services performed by local government employees,” before “in connection with a project”.
+2005—Subsec. (c). Pub. L. 109–59, § 1902(1), inserted “, or a local government from offering to donate funds, materials, or services performed by local government employees,” before “in connection with a project”.
 
-Subsec. (e). Pub. L. 109–59, § 1902(2), struck out heading and text of subsec. (e). Text read as follows: “A contribution by a unit of local government of real property, funds, or material in connection with a project eligible for assistance under this title shall be credited against the State share of the project at the fair market value of the real property, funds, or material.”
+Subsec. (e). Pub. L. 109–59, § 1902(2), struck out heading and text of subsec. (e). Text read as follows: “A contribution by a unit of local government of real property, funds, or material in connection with a project eligible for assistance under this title shall be credited against the State share of the project at the fair market value of the real property, funds, or material.”
 
-1998—Pub. L. 105–178, § 1301(d)(1), substituted “Donations and credits” for “Donations” in section catchline.
+1998—Pub. L. 105–178, § 1301(d)(1), substituted “Donations and credits” for “Donations” in section catchline.
 
-Subsec. (b). Pub. L. 105–178, § 1301(b)(1), substituted “Acquired” for “Donated” in heading.
+Subsec. (b). Pub. L. 105–178, § 1301(b)(1), substituted “Acquired” for “Donated” in heading.
 
-Subsec. (b)(1), (2). Pub. L. 105–178, § 1301(b)(2), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
+Subsec. (b)(1), (2). Pub. L. 105–178, § 1301(b)(2), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 “(1) General rule.—Notwithstanding any provision of this title, the State matching share for a project with respect to which Federal assistance is provided out of the Highway Trust Fund (other than the Mass Transit Account) may be credited by the fair market value of land incorporated into the project and lawfully donated to the State after the date of the enactment of this subsection.
 
 “(2) Establishment of fair market value.—The fair market value of the donated land shall be established as determined by the Secretary. Fair market value shall not include increases and decreases in the value of donated property caused by the project. For purposes of this subsection, the fair market value of donated land shall be established as of the date the donation becomes effective or when equitable title to the land vests in the State, whichever is earlier.”
 
-Subsec. (b)(3). Pub. L. 105–178, § 1301(b)(3), substituted “agency of the Federal Government” for “agency of a Federal, State, or local government”.
+Subsec. (b)(3). Pub. L. 105–178, § 1301(b)(3), substituted “agency of the Federal Government” for “agency of a Federal, State, or local government”.
 
-Subsec. (b)(4). Pub. L. 105–178, § 1301(b)(4), struck out “to which the donation is applied” before period at end.
+Subsec. (b)(4). Pub. L. 105–178, § 1301(b)(4), struck out “to which the donation is applied” before period at end.
 
-Subsec. (c). Pub. L. 105–178, § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
+Subsec. (c). Pub. L. 105–178, § 1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
-Subsec. (e). Pub. L. 105–178, § 1301(c), added subsec. (e).
+Subsec. (e). Pub. L. 105–178, § 1301(c), added subsec. (e).
 
 1995—Subsecs. (c), (d). Pub. L. 104–59 added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -951,23 +951,23 @@ Subsec. (e). Pub. L. 105–178, § 1301(c), added subsec. (e).
 
 Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
-## § 324. Prohibition of discrimination on the basis of sex
+## § 324. Prohibition of discrimination on the basis of sex
 
 No person shall on the ground of sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal assistance under this title or carried on under this title. This provision will be enforced through agency provisions and rules similar to those already established, with respect to racial and other discrimination, under title VI of the Civil Rights Act of 1964. However, this remedy is not exclusive and will not prejudice or cut off any other legal remedies available to a discrim­inatee.
 
-(Added Pub. L. 93–87, title I, § 162(a), Aug. 13, 1973, 87 Stat. 280.)
+(Added Pub. L. 93–87, title I, § 162(a), Aug. 13, 1973, 87 Stat. 280.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000d of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000d of Title 42 and Tables.
 
-## [§ 325. Repealed. Pub. L. 117–58, div. A, title I, § 11525(r), Nov. 15, 2021, 135 Stat. 608]
+## [§ 325. Repealed. Pub. L. 117–58, div. A, title I, § 11525(r), Nov. 15, 2021, 135 Stat. 608]
 
-Section, added Pub. L. 109–59, title VI, § 6003(a), Aug. 10, 2005, 119 Stat. 1865, related to State assumption of responsibilities for certain programs and projects.
+Section, added Pub. L. 109–59, title VI, § 6003(a), Aug. 10, 2005, 119 Stat. 1865, related to State assumption of responsibilities for certain programs and projects.
 
-A prior section 325, added Pub. L. 102–240, title VI, § 6003[(a)], Dec. 18, 1991, 105 Stat. 2168, related to international highway transportation outreach program, prior to repeal by Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452.
+A prior section 325, added Pub. L. 102–240, title VI, § 6003[(a)], Dec. 18, 1991, 105 Stat. 2168, related to international highway transportation outreach program, prior to repeal by Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -975,7 +975,7 @@ A prior section 325, added Pub. L. 102–240, title VI, § 6003[(a)], Dec. 18,
 
 Repeal effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note under section 101 of this title.
 
-## § 326. State assumption of responsibility for categorical exclusions
+## § 326. State assumption of responsibility for categorical exclusions
 
 **(a) Categorical Exclusion Determinations.—**
 
@@ -1043,33 +1043,33 @@ Repeal effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as
 
 **(f) Legal Fees.—** A State assuming the responsibilities of the Secretary under this section for a specific project may use funds apportioned to the State under section 104(b)(2) for attorney’s fees directly attributable to eligible activities associated with the project.
 
-(Added Pub. L. 109–59, title VI, § 6004(a), Aug. 10, 2005, 119 Stat. 1867; amended Pub. L. 112–141, div. A, title I, § 1312, July 6, 2012, 126 Stat. 545; Pub. L. 114–94, div. A, title I, § 1307, Dec. 4, 2015, 129 Stat. 1390; Pub. L. 117–58, div. A, title I, § 11314, Nov. 15, 2021, 135 Stat. 540.)
+(Added Pub. L. 109–59, title VI, § 6004(a), Aug. 10, 2005, 119 Stat. 1867; amended Pub. L. 112–141, div. A, title I, § 1312, July 6, 2012, 126 Stat. 545; Pub. L. 114–94, div. A, title I, § 1307, Dec. 4, 2015, 129 Stat. 1390; Pub. L. 117–58, div. A, title I, § 11314, Nov. 15, 2021, 135 Stat. 540.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 **Prior Provisions**
 
-A prior section 326, added Pub. L. 102–240, title VI, § 6004(a), Dec. 18, 1991, 105 Stat. 2169; amended Pub. L. 105–130, § 5(e)(4), Dec. 1, 1997, 111 Stat. 2558, related to education and training program, prior to repeal by Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452.
+A prior section 326, added Pub. L. 102–240, title VI, § 6004(a), Dec. 18, 1991, 105 Stat. 2169; amended Pub. L. 105–130, § 5(e)(4), Dec. 1, 1997, 111 Stat. 2558, related to education and training program, prior to repeal by Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452.
 
 **Amendments**
 
-2021—Subsec. (c)(3)(A). Pub. L. 117–58, § 11314(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “shall have a term of not more than 3 years; and”.
+2021—Subsec. (c)(3)(A). Pub. L. 117–58, § 11314(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “shall have a term of not more than 3 years; and”.
 
-Subsec. (c)(3)(C). Pub. L. 117–58, § 11314(2), (3), added subpar. (C).
+Subsec. (c)(3)(C). Pub. L. 117–58, § 11314(2), (3), added subpar. (C).
 
-2015—Subsec. (c)(2) to (5). Pub. L. 114–94, § 1307(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+2015—Subsec. (c)(2) to (5). Pub. L. 114–94, § 1307(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
-Subsec. (d)(1). Pub. L. 114–94, § 1307(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
+Subsec. (d)(1). Pub. L. 114–94, § 1307(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
 
-2012—Subsec. (a)(4). Pub. L. 112–141, § 1312(1), added par. (4).
+2012—Subsec. (a)(4). Pub. L. 112–141, § 1312(1), added par. (4).
 
-Subsec. (d). Pub. L. 112–141, § 1312(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
+Subsec. (d). Pub. L. 112–141, § 1312(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Secretary may terminate any assumption of responsibility under a memorandum of understanding on a determination that the State is not adequately carrying out the responsibilities assigned to the State.”
 
-Subsec. (f). Pub. L. 112–141, § 1312(3), added subsec. (f).
+Subsec. (f). Pub. L. 112–141, § 1312(3), added subsec. (f).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1085,7 +1085,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-## § 327. Surface transportation project delivery program
+## § 327. Surface transportation project delivery program
 
 **(a) Establishment.—**
 
@@ -1247,51 +1247,51 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 **(m) Agency Deemed to Be Federal Agency.—** A State agency that is assigned a responsibility under an agreement under this section shall be deemed to be an agency for the purposes of section 2412 of title 28.
 
-(Added Pub. L. 109–59, title VI, § 6005(a), Aug. 10, 2005, 119 Stat. 1868; amended Pub. L. 111–322, title II, § 2203(c), Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–140, title I, § 101(e)(1), June 29, 2012, 126 Stat. 392; Pub. L. 112–141, div. A, title I, § 1313(a)–(h), July 6, 2012, 126 Stat. 545–547; Pub. L. 114–94, div. A, title I, §§ 1308, 1446(d)(3), Dec. 4, 2015, 129 Stat. 1390, 1438; Pub. L. 117–58, div. A, title I, § 11313, Nov. 15, 2021, 135 Stat. 539.)
+(Added Pub. L. 109–59, title VI, § 6005(a), Aug. 10, 2005, 119 Stat. 1868; amended Pub. L. 111–322, title II, § 2203(c), Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–140, title I, § 101(e)(1), June 29, 2012, 126 Stat. 392; Pub. L. 112–141, div. A, title I, § 1313(a)–(h), July 6, 2012, 126 Stat. 545–547; Pub. L. 114–94, div. A, title I, §§ 1308, 1446(d)(3), Dec. 4, 2015, 129 Stat. 1390, 1438; Pub. L. 117–58, div. A, title I, § 11313, Nov. 15, 2021, 135 Stat. 539.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2)(A), (B)(ii), (iii) and (*l*)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2)(A), (B)(ii), (iii) and (*l*)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date on which amendments to this section by the MAP-21 take effect, referred to in subsec. (b)(2), is Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
 **Amendments**
 
-2021—Subsec. (a)(2)(G). Pub. L. 117–58, § 11313(1), inserted “, including the payment of fees awarded under section 2412 of title 28” before period at end.
+2021—Subsec. (a)(2)(G). Pub. L. 117–58, § 11313(1), inserted “, including the payment of fees awarded under section 2412 of title 28” before period at end.
 
-Subsec. (c)(5). Pub. L. 117–58, § 11313(2)(A), added par. (5) and struck out former par. (5) which read as follows: “have a term of not more than 5 years; and”.
+Subsec. (c)(5). Pub. L. 117–58, § 11313(2)(A), added par. (5) and struck out former par. (5) which read as follows: “have a term of not more than 5 years; and”.
 
-Subsec. (c)(7). Pub. L. 117–58, § 11313(2)(B), (C), added par. (7).
+Subsec. (c)(7). Pub. L. 117–58, § 11313(2)(B), (C), added par. (7).
 
-Subsec. (g)(1)(B). Pub. L. 117–58, § 11313(3)(A), struck out “and” at end.
+Subsec. (g)(1)(B). Pub. L. 117–58, § 11313(3)(A), struck out “and” at end.
 
-Subsec. (g)(1)(C). Pub. L. 117–58, § 11313(3)(D), added subpar. (C). Former subpar. (C) redesignated (D).
+Subsec. (g)(1)(C). Pub. L. 117–58, § 11313(3)(D), added subpar. (C). Former subpar. (C) redesignated (D).
 
-Pub. L. 117–58, § 11313(3)(B), struck out “annual” before “audit,”.
+Pub. L. 117–58, § 11313(3)(B), struck out “annual” before “audit,”.
 
-Subsec. (g)(1)(D). Pub. L. 117–58, § 11313(3)(C), redesignated subpar. (C) as (D).
+Subsec. (g)(1)(D). Pub. L. 117–58, § 11313(3)(C), redesignated subpar. (C) as (D).
 
-Subsec. (m). Pub. L. 117–58, § 11313(4), added subsec. (m).
+Subsec. (m). Pub. L. 117–58, § 11313(4), added subsec. (m).
 
-2015—Pub. L. 114–94, § 1446(d)(3), amended directory language of Pub. L. 112–141, § 1313(a)(1). See 2012 Amendment note below.
+2015—Pub. L. 114–94, § 1446(d)(3), amended directory language of Pub. L. 112–141, § 1313(a)(1). See 2012 Amendment note below.
 
-Subsec. (a)(2)(B)(iii). Pub. L. 114–94, § 1308(1), substituted “(42 U.S.C. 4321 et seq.)” for “(42 U.S.C. 13 4321 et seq.)”.
+Subsec. (a)(2)(B)(iii). Pub. L. 114–94, § 1308(1), substituted “(42 U.S.C. 4321 et seq.)” for “(42 U.S.C. 13 4321 et seq.)”.
 
-Subsec. (c)(4). Pub. L. 114–94, § 1308(2), inserted “reasonably” before “considers necessary”.
+Subsec. (c)(4). Pub. L. 114–94, § 1308(2), inserted “reasonably” before “considers necessary”.
 
-Subsec. (e). Pub. L. 114–94, § 1308(3), inserted “and without further approval of” after “in lieu of”.
+Subsec. (e). Pub. L. 114–94, § 1308(3), inserted “and without further approval of” after “in lieu of”.
 
-Subsec. (g)(1). Pub. L. 114–94, § 1308(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
+Subsec. (g)(1). Pub. L. 114–94, § 1308(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “To ensure compliance by a State with any agreement of the State under subsection (c) (including compliance by the State with all Federal laws for which responsibility is assumed under subsection (a)(2)), for each State participating in the program under this section, the Secretary shall conduct—
 
 “(A) semiannual audits during each of the first 2 years of State participation; and
 
 “(B) annual audits during each of the third and fourth years of State participation.”
 
-Subsec. (g)(3). Pub. L. 114–94, § 1308(4)(B), added par. (3).
+Subsec. (g)(3). Pub. L. 114–94, § 1308(4)(B), added par. (3).
 
-Subsec. (j)(1). Pub. L. 114–94, § 1308(5), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may terminate the participation of any State in the program if—
+Subsec. (j)(1). Pub. L. 114–94, § 1308(5), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may terminate the participation of any State in the program if—
 
 “(A) the Secretary determines that the State is not adequately carrying out the responsibilities assigned to the State;
 
@@ -1303,39 +1303,39 @@ Subsec. (j)(1). Pub. L. 114–94, § 1308(5), added par. (1) and struck out fo
 
 “(C) the State, after the notification and period provided under subparagraph (B), fails to take satisfactory corrective action, as determined by the Secretary.”
 
-Subsecs. (k), (*l*). Pub. L. 114–94, § 1308(6), added subsecs. (k) and (*l*).
+Subsecs. (k), (*l*). Pub. L. 114–94, § 1308(6), added subsecs. (k) and (*l*).
 
-2012—Pub. L. 112–141, § 1313(a)(1), as amended by Pub. L. 114–94, § 1446(d)(3), struck out “pilot” before “program” in section catchline.
+2012—Pub. L. 112–141, § 1313(a)(1), as amended by Pub. L. 114–94, § 1446(d)(3), struck out “pilot” before “program” in section catchline.
 
-Subsec. (a)(1). Pub. L. 112–141, § 1313(a)(2), struck out “pilot” before “program (referred to”.
+Subsec. (a)(1). Pub. L. 112–141, § 1313(a)(2), struck out “pilot” before “program (referred to”.
 
-Subsec. (a)(2)(B)(ii) to (iv). Pub. L. 112–141, § 1313(b)(1), added cls. (ii) to (iv) and struck out former cl. (ii) which read as follows: “the Secretary may not assign—
+Subsec. (a)(2)(B)(ii) to (iv). Pub. L. 112–141, § 1313(b)(1), added cls. (ii) to (iv) and struck out former cl. (ii) which read as follows: “the Secretary may not assign—
 
 “(I) responsibility for any conformity determination required under section 176 of the Clean Air Act (42 U.S.C. 7506); or
 
 “(II) any responsibility imposed on the Secretary by section 134 or 135.”
 
-Subsec. (a)(2)(F), (G). Pub. L. 112–141, § 1313(b)(2), added subpars. (F) and (G).
+Subsec. (a)(2)(F), (G). Pub. L. 112–141, § 1313(b)(2), added subpars. (F) and (G).
 
-Subsec. (b)(1). Pub. L. 112–141, § 1313(c)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may permit not more than 5 States (including the States of Alaska, California, Ohio, Oklahoma, and Texas) to participate in the program.”
+Subsec. (b)(1). Pub. L. 112–141, § 1313(c)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary may permit not more than 5 States (including the States of Alaska, California, Ohio, Oklahoma, and Texas) to participate in the program.”
 
-Subsec. (b)(2). Pub. L. 112–141, § 1313(c)(2), substituted “date on which amendments to this section by the MAP-21 take effect, the Secretary shall amend, as appropriate,” for “date of enactment of this section, the Secretary shall promulgate” in introductory provisions.
+Subsec. (b)(2). Pub. L. 112–141, § 1313(c)(2), substituted “date on which amendments to this section by the MAP-21 take effect, the Secretary shall amend, as appropriate,” for “date of enactment of this section, the Secretary shall promulgate” in introductory provisions.
 
-Subsec. (c)(4) to (6). Pub. L. 112–141, § 1313(d), added pars. (4) to (6).
+Subsec. (c)(4) to (6). Pub. L. 112–141, § 1313(d), added pars. (4) to (6).
 
-Subsec. (e). Pub. L. 112–141, § 1313(e), substituted “subsection (j)” for “subsection (i)”.
+Subsec. (e). Pub. L. 112–141, § 1313(e), substituted “subsection (j)” for “subsection (i)”.
 
-Subsec. (g)(1)(B). Pub. L. 112–141, § 1313(f), substituted “of the third and fourth years” for “subsequent year”.
+Subsec. (g)(1)(B). Pub. L. 112–141, § 1313(f), substituted “of the third and fourth years” for “subsequent year”.
 
-Subsec. (h). Pub. L. 112–141, § 1313(g)(2), added subsec. (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 112–141, § 1313(g)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 112–141, § 1313(g)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 112–141, § 1313(g)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
 Subsec. (i)(1). Pub. L. 112–140 substituted “September 30, 2012” for “the date that is 7 years after the date of enactment of this section”.
 
-Subsec. (j). Pub. L. 112–141, § 1313(h), amended subsec. (j) generally. Prior to amendment, subsec. (j) related to termination of the original pilot program on Sept. 30, 2012, and termination of State participation by the Secretary.
+Subsec. (j). Pub. L. 112–141, § 1313(h), amended subsec. (j) generally. Prior to amendment, subsec. (j) related to termination of the original pilot program on Sept. 30, 2012, and termination of State participation by the Secretary.
 
-Pub. L. 112–141, § 1313(g)(1), redesignated subsec. (i) as (j).
+Pub. L. 112–141, § 1313(g)(1), redesignated subsec. (i) as (j).
 
 2010—Subsec. (i)(1). Pub. L. 111–322 substituted “7 years after” for “6 years after”.
 
@@ -1349,23 +1349,23 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. 
 
 Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
-Pub. L. 114–94, div. A, title I, § 1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(3) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
+Pub. L. 114–94, div. A, title I, § 1446(d), Dec. 4, 2015, 129 Stat. 1438, provided that the amendment made by section 1446(d)(3) is effective as of July 6, 2012, and as if included in Pub. L. 112–141 as enacted.
 
 **Effective Date of 2012 Amendment**
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
 
-Pub. L. 112–140, title I, § 101(e)(2), June 29, 2012, 126 Stat. 392, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in section 101 of the Surface Transportation Extension Act of 2012 [Pub. L. 112–102] and shall not be subject to the special rule in section 1(c) of this Act [set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title].”
+Pub. L. 112–140, title I, § 101(e)(2), June 29, 2012, 126 Stat. 392, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if included in section 101 of the Surface Transportation Extension Act of 2012 [Pub. L. 112–102] and shall not be subject to the special rule in section 1(c) of this Act [set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title].”
 
-## § 328. Eligibility for environmental restoration and pollution abatement
+## § 328. Eligibility for environmental restoration and pollution abatement
 
 **(a) In General.—** Subject to subsection (b), environmental restoration and pollution abatement to minimize or mitigate the impacts of any transportation project funded under this title (including retrofitting and construction of stormwater treatment systems to meet Federal and State requirements under sections 401 and 402 of the Federal Water Pollution Control Act (33 U.S.C. 1341; 1342)) may be carried out to address water pollution or environmental degradation caused wholly or partially by a transportation facility.
 
 **(b) Maximum Expenditure.—** In a case in which a transportation facility is undergoing reconstruction, rehabilitation, resurfacing, or restoration, the expenditure of funds under this section for environmental restoration or pollution abatement described in subsection (a) shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration of the facility.
 
-(Added Pub. L. 109–59, title VI, § 6006(b), Aug. 10, 2005, 119 Stat. 1872.)
+(Added Pub. L. 109–59, title VI, § 6006(b), Aug. 10, 2005, 119 Stat. 1872.)
 
-## § 329. Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species
+## § 329. Eligibility for control of noxious weeds and aquatic noxious weeds and establishment of native species
 
 **(a) In General.—** In accordance with all applicable Federal law (including regulations), funds made available to carry out this section may be used for the following activities if such activities are related to transportation projects funded under this title:
 
@@ -1391,13 +1391,13 @@ Pub. L. 112–140, title I, § 101(e)(2), June 29, 2012, 126 Stat. 392, provid
 
 **(2) Condition for activities conducted in advance of project construction.—** An activity described in subsection (a) may be carried out in advance of construction of a project only if the activity is carried out in accordance with all applicable requirements of Federal law (including regulations) and State transportation planning processes.
 
-(Added Pub. L. 109–59, title VI, § 6006(b), Aug. 10, 2005, 119 Stat. 1872; amended Pub. L. 114–94, div. A, title I, § 1415(b), Dec. 4, 2015, 129 Stat. 1421.)
+(Added Pub. L. 109–59, title VI, § 6006(b), Aug. 10, 2005, 119 Stat. 1872; amended Pub. L. 114–94, div. A, title I, § 1415(b), Dec. 4, 2015, 129 Stat. 1421.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 7 and Tables.
+The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 7 and Tables.
 
 **Amendments**
 
@@ -1411,7 +1411,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 **Invasive Plant Elimination Program**
 
-Pub. L. 117–58, div. A, title I, § 11522, Nov. 15, 2021, 135 Stat. 604, provided that:
+Pub. L. 117–58, div. A, title I, § 11522, Nov. 15, 2021, 135 Stat. 604, provided that:
 
 > **“(a) Definitions.—** In this section:
 
@@ -1465,7 +1465,7 @@ Pub. L. 117–58, div. A, title I, § 11522, Nov. 15, 2021, 135 Stat. 604, pro
 
 > **“(g) Funding.—** There is authorized to be appropriated to carry out the program $50,000,000 for each of fiscal years 2022 through 2026.”
 
-## § 330. Program for eliminating duplication of environmental reviews
+## § 330. Program for eliminating duplication of environmental reviews
 
 **(a) Establishment.—**
 
@@ -1641,21 +1641,21 @@ Pub. L. 117–58, div. A, title I, § 11522, Nov. 15, 2021, 135 Stat. 604, pro
 
 **(B)** a multimodal project.
 
-(Added Pub. L. 114–94, div. A, title I, § 1309(b), Dec. 4, 2015, 129 Stat. 1392; amended Pub. L. 115–254, div. B, title V, § 578, Oct. 5, 2018, 132 Stat. 3394.)
+(Added Pub. L. 114–94, div. A, title I, § 1309(b), Dec. 4, 2015, 129 Stat. 1392; amended Pub. L. 115–254, div. B, title V, § 578, Oct. 5, 2018, 132 Stat. 3394.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (3)(A)(i), (ii), (B)(i), (ii), (d)(2), (f), (g), (h)(2), and (i)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (3)(A)(i), (ii), (B)(i), (ii), (d)(2), (f), (g), (h)(2), and (i)(5), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of enactment of this section, referred to in subsecs. (j) and (k), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 **Amendments**
 
-2018—Subsec. (a)(2). Pub. L. 115–254, § 578(1), substituted “2 States” for “5 States”.
+2018—Subsec. (a)(2). Pub. L. 115–254, § 578(1), substituted “2 States” for “5 States”.
 
-Subsec. (e)(2)(A), (3)(B)(i). Pub. L. 115–254, § 578(2), substituted “150 days as set forth in section 139(*l*)” for “2 years”.
+Subsec. (e)(2)(A), (3)(B)(i). Pub. L. 115–254, § 578(2), substituted “150 days as set forth in section 139(*l*)” for “2 years”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1665,11 +1665,11 @@ Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as
 
 **Purpose**
 
-Pub. L. 114–94, div. A, title I, § 1309(a), Dec. 4, 2015, 129 Stat. 1392, provided that: “The purpose of this section [enacting this section and provisions set out as a note under this section] is to eliminate duplication of environmental reviews and approvals under State laws and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).”
+Pub. L. 114–94, div. A, title I, § 1309(a), Dec. 4, 2015, 129 Stat. 1392, provided that: “The purpose of this section [enacting this section and provisions set out as a note under this section] is to eliminate duplication of environmental reviews and approvals under State laws and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).”
 
 **Rulemaking**
 
-Pub. L. 114–94, div. A, title I, § 1309(c), Dec. 4, 2015, 129 Stat. 1396, provided that:
+Pub. L. 114–94, div. A, title I, § 1309(c), Dec. 4, 2015, 129 Stat. 1396, provided that:
 
 > **“(1) In general.—** Not later than 270 days after the date of enactment of this Act [Dec. 4, 2015], the Secretary [of Transportation], in consultation with the Chair of the Council on Environmental Quality, shall promulgate regulations to implement the requirements of section 330 of title 23, United States Code, as added by this section.
 
@@ -1685,7 +1685,7 @@ Pub. L. 114–94, div. A, title I, § 1309(c), Dec. 4, 2015, 129 Stat. 1396, p
 
 > **“(iii)** ensure a consistent review of projects that would otherwise have been covered under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).”
 
-## § 331. Evaluation of projects within an operational right-of-way
+## § 331. Evaluation of projects within an operational right-of-way
 
 **(a) Definitions.—**
 
@@ -1733,7 +1733,7 @@ Pub. L. 114–94, div. A, title I, § 1309(c), Dec. 4, 2015, 129 Stat. 1396, p
 
 **(B)** not later than 14 days after the date on which a report is submitted under subparagraph (A), make publicly available, including on the internet, a copy of that report.
 
-(Added Pub. L. 117–58, div. A, title I, § 11309(a), Nov. 15, 2021, 135 Stat. 535.)
+(Added Pub. L. 117–58, div. A, title I, § 11309(a), Nov. 15, 2021, 135 Stat. 535.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1741,7 +1741,7 @@ Pub. L. 114–94, div. A, title I, § 1309(c), Dec. 4, 2015, 129 Stat. 1396, p
 
 Section effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as an Effective Date of 2021 Amendment note under section 101 of this title.
 
-## § 332. Pollinator-friendly practices on roadsides and highway rights-of-way
+## § 332. Pollinator-friendly practices on roadsides and highway rights-of-way
 
 **(a) In General.—** The Secretary shall establish a program to provide grants to eligible entities to carry out activities to benefit pollinators on roadsides and highway rights-of-way, including the planting and seeding of native, locally-appropriate grasses and wildflowers, including milkweed.
 
@@ -1827,7 +1827,7 @@ Section effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out a
 
 **(2) Availability.—** Amounts made available under this section shall remain available for a period of 3 years after the last day of the fiscal year for which the funds are authorized.
 
-(Added Pub. L. 117–58, div. A, title I, § 11528(a), Nov. 15, 2021, 135 Stat. 610.)
+(Added Pub. L. 117–58, div. A, title I, § 11528(a), Nov. 15, 2021, 135 Stat. 610.)
 
 **Statutory Notes and Related Subsidiaries**
 

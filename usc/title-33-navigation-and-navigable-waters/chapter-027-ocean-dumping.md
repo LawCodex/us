@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 27—OCEAN DUMPING
 
-## § 1401. Congressional finding, policy, and declaration of purpose
+## § 1401. Congressional finding, policy, and declaration of purpose
 
 **(a) Dangers of unregulated dumping**
 
@@ -29,13 +29,13 @@ The Congress declares that it is the policy of the United States to regulate the
 
 It is the purpose of this Act to regulate (1) the transportation by any person of material from the United States and, in the case of United States vessels, aircraft, or agencies, the transportation of material from a location outside the United States, when in either case the transportation is for the purpose of dumping the material into ocean waters, and (2) the dumping of material transported by any person from a location outside the United States, if the dumping occurs in the territorial sea or the contiguous zone of the United States.
 
-(Pub. L. 92–532, § 2, Oct. 23, 1972, 86 Stat. 1052; Pub. L. 93–254, § 1(1), Mar. 22, 1974, 88 Stat. 50.)
+(Pub. L. 92–532, § 2, Oct. 23, 1972, 86 Stat. 1052; Pub. L. 93–254, § 1(1), Mar. 22, 1974, 88 Stat. 50.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (c), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
+This Act, referred to in subsec. (c), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
 
 **Amendments**
 
@@ -47,15 +47,15 @@ Subsec. (c). Pub. L. 93–254 added subsec. (c).
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–254, § 2, Mar. 22, 1974, 88 Stat. 51, provided in part that amendment of subsecs. (b) and (c) of this section and sections 1402, 1411, and 1412(a), other than last sentence of subsec. (a), of this title, by Pub. L. 93–254 shall become effective Mar. 22, 1974.
+Pub. L. 93–254, § 2, Mar. 22, 1974, 88 Stat. 51, provided in part that amendment of subsecs. (b) and (c) of this section and sections 1402, 1411, and 1412(a), other than last sentence of subsec. (a), of this title, by Pub. L. 93–254 shall become effective Mar. 22, 1974.
 
 **Short Title of 1988 Amendment**
 
-Pub. L. 100–688, title I, § 1001, Nov. 18, 1988, 102 Stat. 4139, provided that: “This title [enacting sections 1414b and 1414c of this title, amending sections 1268, 1412a, and 1414a of this title, and amending provisions set out as a note under section 2267 of this title] may be cited as the ‘Ocean Dumping Ban Act of 1988’.”
+Pub. L. 100–688, title I, § 1001, Nov. 18, 1988, 102 Stat. 4139, provided that: “This title [enacting sections 1414b and 1414c of this title, amending sections 1268, 1412a, and 1414a of this title, and amending provisions set out as a note under section 2267 of this title] may be cited as the ‘Ocean Dumping Ban Act of 1988’.”
 
 **Short Title**
 
-Pub. L. 92–532, § 1, Oct. 23, 1972, 86 Stat. 1052, provided: “That this Act [enacting this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
+Pub. L. 92–532, § 1, Oct. 23, 1972, 86 Stat. 1052, provided: “That this Act [enacting this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation] may be cited as the ‘Marine Protection, Research, and Sanctuaries Act of 1972’.”
 
 **Executive Documents**
 
@@ -71,7 +71,7 @@ For provisions relating to environmental effects abroad of major federal actions
 
 For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under section 4321 of Title 42, The Public Health and Welfare.
 
-## § 1402. Definitions
+## § 1402. Definitions
 
 For the purposes of this Act the term—
 
@@ -101,27 +101,27 @@ For the purposes of this Act the term—
 
 **(m)** “Convention” means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter.
 
-(Pub. L. 92–532, § 3, Oct. 23, 1972, 86 Stat. 1052; Pub. L. 93–254, § 1(2), Mar. 22, 1974, 88 Stat. 50; Pub. L. 100–688, title III, § 3201(a), Nov. 18, 1988, 102 Stat. 4153.)
+(Pub. L. 92–532, § 3, Oct. 23, 1972, 86 Stat. 1052; Pub. L. 93–254, § 1(2), Mar. 22, 1974, 88 Stat. 50; Pub. L. 100–688, title III, § 3201(a), Nov. 18, 1988, 102 Stat. 4153.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
+This Act, referred to in text, means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
 
 For definition of Canal Zone, referred to in subsec. (d), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Federal Water Pollution Control Act, as amended, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, as amended, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (f), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsec. (f), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 **Amendments**
 
 1988—Subsecs. (k) to (m). Pub. L. 100–688 added subsec. (k) and redesignated former subsecs. (k) and (*l*) as (*l*) and (m), respectively.
 
-1974—Subsec. (c). Pub. L. 93–254, § 1(2)(A), substituted “sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.” for “oil within the meaning of section 11 of the Federal Water Pollution Control Act and does not mean sewage from vessels within the meaning of section 13 of such Act.”
+1974—Subsec. (c). Pub. L. 93–254, § 1(2)(A), substituted “sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.” for “oil within the meaning of section 11 of the Federal Water Pollution Control Act and does not mean sewage from vessels within the meaning of section 13 of such Act.”
 
-Subsec. (*l*). Pub. L. 93–254, § 1(2)(C), added subsec. (*l*).
+Subsec. (*l*). Pub. L. 93–254, § 1(2)(C), added subsec. (*l*).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -145,7 +145,7 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
 ## SUBCHAPTER I—REGULATION
 
-### § 1411. Prohibited acts
+### § 1411. Prohibited acts
 
 **(a)** Except as may be authorized by a permit issued pursuant to section 1412 or section 1413 of this title, and subject to regulations issued pursuant to section 1418 of this title,
 
@@ -157,7 +157,7 @@ any material for the purpose of dumping it into ocean waters.
 
 **(b)** Except as may be authorized by a permit issued pursuant to section 1412 of this title, and subject to regulations issued pursuant to section 1418 of this title, no person shall dump any material transported from a location outside the United States (1) into the territorial sea of the United States, or (2) into a zone contiguous to the territorial sea of the United States, extending to a line twelve nautical miles seaward from the base line from which the breadth of the territorial sea is measured, to the extent that it may affect the territorial sea or the territory of the United States.
 
-(Pub. L. 92–532, title I, § 101, Oct. 23, 1972, 86 Stat. 1053; Pub. L. 93–254, § 1(3), Mar. 22, 1974, 88 Stat. 51.)
+(Pub. L. 92–532, title I, § 101, Oct. 23, 1972, 86 Stat. 1053; Pub. L. 93–254, § 1(3), Mar. 22, 1974, 88 Stat. 51.)
 
 **Editorial Notes**
 
@@ -177,11 +177,11 @@ Amendment by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 
 
 **Effective Date**
 
-Pub. L. 92–532, title I, § 110(a), Oct. 23, 1972, 86 Stat. 1060, provided that: “This title [this subchapter] shall take effect six months after the date of the enactment of this Act [Oct. 23, 1972].”
+Pub. L. 92–532, title I, § 110(a), Oct. 23, 1972, 86 Stat. 1060, provided that: “This title [this subchapter] shall take effect six months after the date of the enactment of this Act [Oct. 23, 1972].”
 
 **Savings Provision**
 
-Pub. L. 92–532, title I, § 110(b), Oct. 23, 1972, 86 Stat. 1060, provided that: “No legal action begun, or right of action accrued, prior to the effective date of this title [this subchapter] shall be affected by any provision of this title [this subchapter].”
+Pub. L. 92–532, title I, § 110(b), Oct. 23, 1972, 86 Stat. 1060, provided that: “No legal action begun, or right of action accrued, prior to the effective date of this title [this subchapter] shall be affected by any provision of this title [this subchapter].”
 
 **Executive Documents**
 
@@ -189,7 +189,7 @@ Pub. L. 92–532, title I, § 110(b), Oct. 23, 1972, 86 Stat. 1060, provided t
 
 For extension of territorial sea and contiguous zone of United States, see Proc. No. 5928 and Proc. No. 7219, respectively, set out as notes under section 1331 of Title 43, Public Lands.
 
-### § 1412. Dumping permit program
+### § 1412. Dumping permit program
 
 **(a) Environmental Protection Agency permits** Except in relation to dredged material, as provided for in section 1413 of this title, and in relation to radiological, chemical, and biological warfare agents, high-level radioactive waste, and medical waste, for which no permit may be issued, the Administrator may issue permits, after notice and opportunity for public hearings, for the transportation from the United States or, in the case of an agency or instrumentality of the United States, or in the case of a vessel or aircraft registered in the United States or flying the United States flag, for the transportation from a location outside the United States, of material for the purpose of dumping it into ocean waters, or for the dumping of material into the waters described in section 1411(b) of this title, where the Administrator determines that such dumping will not unreasonably degrade or endanger human health, welfare, or amenities, or the marine environment, ecological systems, or economic potentialities. The Administrator shall establish and apply criteria for reviewing and evaluating such permit applications, and, in establishing or revising such criteria, shall consider, but not be limited in his consideration to, the following :
 
@@ -263,13 +263,13 @@ No permit is required under this subchapter for the transportation for dumping o
 
 In the case of transportation of material, by an agency or instrumentality of the United States or by a vessel or aircraft registered in the United States or flying the United States flag, from a location in a foreign State Party to the Convention, a permit issued pursuant to the authority of that foreign State Party, in accordance with Convention requirements, and which otherwise could have been issued pursuant to subsection (a) of this section, shall be accepted, for the purposes of this subchapter, as if it were issued by the Administrator under the authority of this section: *Provided*, That in the case of an agency or instrumentality of the United States, no application shall be made for a permit to be issued pursuant to the authority of a foreign State Party to the Convention unless the Administrator concurs in the filing of such application.
 
-(Pub. L. 92–532, title I, § 102, Oct. 23, 1972, 86 Stat. 1054; Pub. L. 93–254, § 1(4), Mar. 22, 1974, 88 Stat. 51; Pub. L. 96–572, § 3, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 100–688, title III, § 3201(b), Nov. 18, 1988, 102 Stat. 4153; Pub. L. 102–580, title V, § 506(a), Oct. 31, 1992, 106 Stat. 4868; Pub. L. 104–303, title V, § 582, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–53, title V, § 562, Aug. 17, 1999, 113 Stat. 355; Pub. L. 110–114, title V, § 5046, Nov. 8, 2007, 121 Stat. 1209.)
+(Pub. L. 92–532, title I, § 102, Oct. 23, 1972, 86 Stat. 1054; Pub. L. 93–254, § 1(4), Mar. 22, 1974, 88 Stat. 51; Pub. L. 96–572, § 3, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 100–688, title III, § 3201(b), Nov. 18, 1988, 102 Stat. 4153; Pub. L. 102–580, title V, § 506(a), Oct. 31, 1992, 106 Stat. 4868; Pub. L. 104–303, title V, § 582, Oct. 12, 1996, 110 Stat. 3791; Pub. L. 106–53, title V, § 562, Aug. 17, 1999, 113 Stat. 355; Pub. L. 110–114, title V, § 5046, Nov. 8, 2007, 121 Stat. 1209.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (c)(4), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
+This Act, referred to in subsec. (c)(4), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
 
 **Amendments**
 
@@ -285,15 +285,15 @@ This Act, referred to in subsec. (c)(4), means Pub. L. 92–532, which is classi
 
 1980—Subsec. (e). Pub. L. 96–572 inserted applicability to United States agency or instrumentality, and proviso respecting such agency or instrumentality.
 
-1974—Subsec. (a). Pub. L. 93–254, § 1(4)(A), substituted “for which no permit may be issued,” for “as provided for in section 1411 of this title,”, inserted “or in the case of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
+1974—Subsec. (a). Pub. L. 93–254, § 1(4)(A), substituted “for which no permit may be issued,” for “as provided for in section 1411 of this title,”, inserted “or in the case of a vessel or aircraft registered in the United States or flying the United States flag,” after “instrumentality of the United States,”, and required the Administrator to apply the standards and criteria binding upon the United States under the Convention, including its Annexes.
 
-Subsec. (e). Pub. L. 93–254, § 1(4)(B), added subsec. (e).
+Subsec. (e). Pub. L. 93–254, § 1(4)(B), added subsec. (e).
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1974 Amendment**
 
-Pub. L. 93–254, § 2, Mar. 22, 1974, 88 Stat. 51, provided in part that: “The amendments made by subparagraph 1(4)(A)(iii) and paragraph 1(4)(B) of this Act [enacting provision of subsec. (a) respecting application of standards by Administrator and subsec. (e) of this section] shall become effective on the date that the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matters enters into force for the United States.” [The Convention entered into force for the United States Aug. 30, 1975.]
+Pub. L. 93–254, § 2, Mar. 22, 1974, 88 Stat. 51, provided in part that: “The amendments made by subparagraph 1(4)(A)(iii) and paragraph 1(4)(B) of this Act [enacting provision of subsec. (a) respecting application of standards by Administrator and subsec. (e) of this section] shall become effective on the date that the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matters enters into force for the United States.” [The Convention entered into force for the United States Aug. 30, 1975.]
 
 Amendment of subsec. (a) of this section, other than last sentence, by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under section 1401 of this title.
 
@@ -301,7 +301,7 @@ Amendment of subsec. (a) of this section, other than last sentence, by Pub. L. 9
 
 Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under section 1411 of this title.
 
-### § 1412a. Emergency dumping of industrial waste
+### § 1412a. Emergency dumping of industrial waste
 
 **(a) Issuance of emergency permits**
 
@@ -311,7 +311,7 @@ Notwithstanding section 104B of the Marine Protection, Research, and Sanctuaries
 
 For purposes of this section, the term “industrial waste” means any solid, semisolid, or liquid waste generated by a manufacturing or processing plant.
 
-(Pub. L. 95–153, § 4, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–572, § 2, Dec. 22, 1980, 94 Stat. 3344; Pub. L. 100–688, title I, § 1003(a), Nov. 18, 1988, 102 Stat. 4149.)
+(Pub. L. 95–153, § 4, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–572, § 2, Dec. 22, 1980, 94 Stat. 3344; Pub. L. 100–688, title I, § 1003(a), Nov. 18, 1988, 102 Stat. 4149.)
 
 **Editorial Notes**
 
@@ -327,21 +327,21 @@ Section was not enacted as part of the Marine Protection, Research, and Sanctuar
 
 **Amendments**
 
-1988—Subsec. (a). Pub. L. 100–688, § 1003(a)(1), (3)–(5), redesignated subsec. (c) as (a), substituted “Notwithstanding section 104B of the Marine Protection, Research, and Sanctuaries Act of 1972 after” for “After”, and “title I of such Act” for “such title I”. Former subsec. (a), which related to cessation of dumping, with exceptions, was struck out.
+1988—Subsec. (a). Pub. L. 100–688, § 1003(a)(1), (3)–(5), redesignated subsec. (c) as (a), substituted “Notwithstanding section 104B of the Marine Protection, Research, and Sanctuaries Act of 1972 after” for “After”, and “title I of such Act” for “such title I”. Former subsec. (a), which related to cessation of dumping, with exceptions, was struck out.
 
-Subsec. (b). Pub. L. 100–688, § 1003(a)(2), (7), added subsec. (b). Former subsec. (b), which related to issuance of permits for dumping of industrial waste, was struck out.
+Subsec. (b). Pub. L. 100–688, § 1003(a)(2), (7), added subsec. (b). Former subsec. (b), which related to issuance of permits for dumping of industrial waste, was struck out.
 
-Subsec. (c). Pub. L. 100–688, § 1003(a)(3), redesignated subsec. (c) as (a).
+Subsec. (c). Pub. L. 100–688, § 1003(a)(3), redesignated subsec. (c) as (a).
 
-Subsec. (d). Pub. L. 100–688, § 1003(a)(6), struck out subsec. (d) which related to definitions.
+Subsec. (d). Pub. L. 100–688, § 1003(a)(6), struck out subsec. (d) which related to definitions.
 
-1980—Subsec. (a). Pub. L. 96–572, § 2(1), inserted applicability to industrial waste, exceptions respecting subsecs. (b) and (c) of this section, and conforming changes in phraseology.
+1980—Subsec. (a). Pub. L. 96–572, § 2(1), inserted applicability to industrial waste, exceptions respecting subsecs. (b) and (c) of this section, and conforming changes in phraseology.
 
-Subsec. (b). Pub. L. 96–572, § 2(2), added subsec. (b). Former subsec. (b), defining “sewage sludge”, was struck out.
+Subsec. (b). Pub. L. 96–572, § 2(2), added subsec. (b). Former subsec. (b), defining “sewage sludge”, was struck out.
 
-Subsecs. (c), (d). Pub. L. 96–572, § 2(2), added subsecs. (c) and (d).
+Subsecs. (c), (d). Pub. L. 96–572, § 2(2), added subsecs. (c) and (d).
 
-### § 1413. Dumping permit program for dredged mate­rial
+### § 1413. Dumping permit program for dredged mate­rial
 
 **(a) Issuance by Secretary of the Army**
 
@@ -385,17 +385,17 @@ If, in any case, the Secretary finds that, in the disposition of dredged materia
 
 In connection with Federal projects involving dredged material, the Secretary may, in lieu of the permit procedure, issue regulations which will require the application to such projects of the same criteria, other factors to be evaluated, the same procedures, and the same requirements which apply to the issuance of permits under subsections (a), (b), (c), and (d) of this section and section 1414(a) and (d) of this title.
 
-(Pub. L. 92–532, title I, § 103, Oct. 23, 1972, 86 Stat. 1055; Pub. L. 102–580, title V, §§ 504, 506(b), Oct. 31, 1992, 106 Stat. 4866, 4869.)
+(Pub. L. 92–532, title I, § 103, Oct. 23, 1972, 86 Stat. 1055; Pub. L. 102–580, title V, §§ 504, 506(b), Oct. 31, 1992, 106 Stat. 4866, 4869.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1992—Subsec. (b). Pub. L. 102–580, § 506(b), inserted “maximum” before “extent feasible” and inserted three sentences at end.
+1992—Subsec. (b). Pub. L. 102–580, § 506(b), inserted “maximum” before “extent feasible” and inserted three sentences at end.
 
-Subsec. (c). Pub. L. 102–580, § 504(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Prior to issuing any permit under this section, the Secretary shall first notify the Administrator of his intention to do so. In any case in which the Administrator disagrees with the determination of the Secretary as to compliance with the criteria established pursuant to section 1412(a) of this title relating to the effects of the dumping or with the restrictions established pursuant to section 1412(c) of this title relating to critical areas, the determination of the Administrator shall prevail. Unless the Administrator grants a waiver pursuant to subsection (d), the Secretary shall not issue a permit which does not comply with such criteria and with such restrictions.”
+Subsec. (c). Pub. L. 102–580, § 504(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Prior to issuing any permit under this section, the Secretary shall first notify the Administrator of his intention to do so. In any case in which the Administrator disagrees with the determination of the Secretary as to compliance with the criteria established pursuant to section 1412(a) of this title relating to the effects of the dumping or with the restrictions established pursuant to section 1412(c) of this title relating to critical areas, the determination of the Administrator shall prevail. Unless the Administrator grants a waiver pursuant to subsection (d), the Secretary shall not issue a permit which does not comply with such criteria and with such restrictions.”
 
-Subsec. (e). Pub. L. 102–580, § 504(b), inserted before period at end “and section 1414(a) and (d) of this title”.
+Subsec. (e). Pub. L. 102–580, § 504(b), inserted before period at end “and section 1414(a) and (d) of this title”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -403,7 +403,7 @@ Subsec. (e). Pub. L. 102–580, § 504(b), inserted before period at end “an
 
 Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under section 1411 of this title.
 
-### § 1414. Permit conditions
+### § 1414. Permit conditions
 
 **(a) Designated and included conditions**
 
@@ -497,21 +497,21 @@ the days on which either House is not in session because of an adjournment of mo
 
 **(D)** For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and the Senate approve and authorize the Administrator of the Environmental Protection Agency to grant a permit to \_\_\_\_\_ under the Marine Protection, Research, and Sanctuaries Act of 1972 to dispose of radioactive materials in the ocean as recommended by the Administrator to the Congress on \_\_\_\_\_, 19\_.”; the first blank space therein to be filled with the appropriate applicant to dispose of nuclear material and the second blank therein to be filled with the date on which the Administrator submits the recommendation to the House of Representatives and the Senate.
 
-(Pub. L. 92–532, title I, § 104, Oct. 23, 1972, 86 Stat. 1056; Pub. L. 97–424, title IV, § 424(a), Jan. 6, 1983, 96 Stat. 2165; Pub. L. 100–17, title I, § 133(c)(1), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–580, title V, § 507, Oct. 31, 1992, 106 Stat. 4869.)
+(Pub. L. 92–532, title I, § 104, Oct. 23, 1972, 86 Stat. 1056; Pub. L. 97–424, title IV, § 424(a), Jan. 6, 1983, 96 Stat. 2165; Pub. L. 100–17, title I, § 133(c)(1), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–580, title V, § 507, Oct. 31, 1992, 106 Stat. 4869.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act and the Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (i)(4)(B), (D), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
+This Act and the Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (i)(4)(B), (D), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
 **Amendments**
 
-1992—Subsec. (a). Pub. L. 102–580, § 507(b), inserted at end “Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.”
+1992—Subsec. (a). Pub. L. 102–580, § 507(b), inserted at end “Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.”
 
-Pub. L. 102–580, § 507(a), amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: “the length of time for which the permits are valid and their expiration date;”.
+Pub. L. 102–580, § 507(a), amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: “the length of time for which the permits are valid and their expiration date;”.
 
-Subsec. (d). Pub. L. 102–580, § 507(c), inserted “, based upon monitoring data from the dump site and surrounding area,” after “where he finds”.
+Subsec. (d). Pub. L. 102–580, § 507(c), inserted “, based upon monitoring data from the dump site and surrounding area,” after “where he finds”.
 
 1987—Subsec. (i)(4)(D). Pub. L. 100–17 inserted “to \_\_\_\_\_” after “grant a permit”.
 
@@ -531,7 +531,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
-### § 1414a. Special provisions regarding certain dumping sites
+### § 1414a. Special provisions regarding certain dumping sites
 
 **(a) New York Bight Apex**
 
@@ -541,7 +541,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 **(B)** The term “Apex site” means that site within the Apex at which the dumping of municipal sludge occurred before October 1, 1983.
 
-**(C)** The term “eligible authority” means any sewerage authority or other unit of State or local government that on November 2, 1983, was authorized under court order to dump municipal sludge at the Apex site.
+**(C)** The term “eligible authority” means any sewerage authority or other unit of State or local government that on November 2, 1983, was authorized under court order to dump municipal sludge at the Apex site.
 
 **(2)** No person may apply for a permit under this subchapter in relation to the dumping of, or the transportation for purposes of dumping, municipal sludge within the Apex unless that person is an eligible authority.
 
@@ -555,7 +555,7 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 The Administrator may not issue or renew any permit under this subchapter which authorizes any person, other than a person that is an eligible authority within the meaning of subsection (a)(1)(C), to dump, or to transport for the purposes of dumping, municipal sludge within the site designated under section 1412(c) of this title by the Administrator and known as the “106-Mile Ocean Waste Dump Site” (as described in 49 F.R. 19005).
 
-(Pub. L. 92–532, title I, § 104A, as added Pub. L. 99–662, title XI, § 1172(b), Nov. 17, 1986, 100 Stat. 4259; Pub. L. 100–4, title V, § 508(b), Feb. 4, 1987, 101 Stat. 79; Pub. L. 100–688, title I, § 1002, Nov. 18, 1988, 102 Stat. 4139.)
+(Pub. L. 92–532, title I, § 104A, as added Pub. L. 99–662, title XI, § 1172(b), Nov. 17, 1986, 100 Stat. 4259; Pub. L. 100–4, title V, § 508(b), Feb. 4, 1987, 101 Stat. 79; Pub. L. 100–688, title I, § 1002, Nov. 18, 1988, 102 Stat. 4139.)
 
 **Editorial Notes**
 
@@ -567,11 +567,11 @@ The Administrator may not issue or renew any permit under this subchapter which 
 
 **New York Bight Apex Not Suitable for Dumping**
 
-Pub. L. 99–662, title XI, § 1172(a), Nov. 17, 1986, 100 Stat. 4259, provided that: “The Congress finds that the New York Bight Apex is no longer a suitable location for the ocean dumping of municipal sludge.”
+Pub. L. 99–662, title XI, § 1172(a), Nov. 17, 1986, 100 Stat. 4259, provided that: “The Congress finds that the New York Bight Apex is no longer a suitable location for the ocean dumping of municipal sludge.”
 
-An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 4, 1987, 101 Stat. 79.
+An identical provision was enacted by Pub. L. 100–4, title V, § 508(a), Feb. 4, 1987, 101 Stat. 79.
 
-### § 1414b. Ocean dumping of sewage sludge and industrial waste
+### § 1414b. Ocean dumping of sewage sludge and industrial waste
 
 **(a) Termination of dumping**
 
@@ -807,9 +807,9 @@ Amounts in a trust account under this subsection may be used for matching Federa
 
 **(i)** monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1); and
 
-**(ii)** preparing annual reports to the Congress pursuant to subsection (j)(4) 1
+**(ii)** preparing annual reports to the Congress pursuant to subsection (j)(4) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 which describe the results of such monitoring, research, and activities.
 
@@ -951,15 +951,15 @@ The Administrator and the Under Secretary of Commerce for Oceans and Atmosphere 
 
 **(6)** the term “sewage sludge” means any solid, semisolid, or liquid waste generated by a wastewater treatment plant, other than an excluded material.
 
-(Pub. L. 92–532, title I, § 104B, as added Pub. L. 100–688, title I, § 1002, Nov. 18, 1988, 102 Stat. 4139.)
+(Pub. L. 92–532, title I, § 104B, as added Pub. L. 100–688, title I, § 1002, Nov. 18, 1988, 102 Stat. 4139.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsecs. (a)(2), (d)(1), (e)(3)(A), (f)(1)(A)(i), (B), and (k)(1), (5)(B), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
+This Act, referred to in subsecs. (a)(2), (d)(1), (e)(3)(A), (f)(1)(A)(i), (B), and (k)(1), (5)(B), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
 
-The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C), (3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsecs. (b)(2)(D), (5)(A), (d)(2)(C)(ii), (4), (e)(2)(C), (3)(A), (B), (f)(2)(A), (B)(ii), (iii), and (3)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. Title VI of that Act is classified to subchapter VI (§ 1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 Subsection (j)(4), referred to in subsec. (f)(1)(C)(ii), was omitted from the Code. See Codification note below.
 
@@ -977,7 +977,7 @@ Subsec. (j)(4)(B) of this section, which required the Administrator and the Unde
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1414c. Prohibition on disposal of sewage sludge at landfills on Staten Island
+### § 1414c. Prohibition on disposal of sewage sludge at landfills on Staten Island
 
 **(a) In general**
 
@@ -997,15 +997,15 @@ Paragraph (1) shall not prohibit the bringing of an action for, or the granting 
 
 For purposes of this section, the term “sewage sludge” has the meaning such term has in section 1414b of this title.
 
-(Pub. L. 92–532, title I, § 104C, as added Pub. L. 100–688, title I, § 1005, Nov. 18, 1988, 102 Stat. 4150.)
+(Pub. L. 92–532, title I, § 104C, as added Pub. L. 100–688, title I, § 1005, Nov. 18, 1988, 102 Stat. 4150.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
+This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
 
-### § 1415. Penalties
+### § 1415. Penalties
 
 **(a) Assessment of civil penalty by Administrator; remission or mitigation; court action for appropriate relief**
 
@@ -1075,17 +1075,17 @@ Any vessel used to commit an act for which a penalty is imposed under subsection
 
 This subsection does not apply to an act committed substantially in accordance with a compliance agreement or enforcement agreement entered into by the Administrator under section 1414b(c) of this title.
 
-(Pub. L. 92–532, title I, § 105, Oct. 23, 1972, 86 Stat. 1057; Pub. L. 100–688, title III, § 3201(c), (d), Nov. 18, 1988, 102 Stat. 4153; Pub. L. 102–580, title V, § 508, Oct. 31, 1992, 106 Stat. 4869.)
+(Pub. L. 92–532, title I, § 105, Oct. 23, 1972, 86 Stat. 1057; Pub. L. 100–688, title III, § 3201(c), (d), Nov. 18, 1988, 102 Stat. 4153; Pub. L. 102–580, title V, § 508, Oct. 31, 1992, 106 Stat. 4869.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e), is section 13 of act June 30, 1948, ch. 758, as added by act Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 100, which was classified to section 1163 of this title and was superseded by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See section 1322 of this title.
+Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e), is section 13 of act June 30, 1948, ch. 758, as added by act Apr. 3, 1970, Pub. L. 91–224, title I, § 102, 84 Stat. 100, which was classified to section 1163 of this title and was superseded by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816. See section 1322 of this title.
 
 **Amendments**
 
-1992—Subsec. (b). Pub. L. 102–580, § 508(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+1992—Subsec. (b). Pub. L. 102–580, § 508(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
 “(1) In addition to any action which may be brought under subsection (a) of this section, a person who knowingly violates this subchapter, regulations promulgated under this subchapter, or a permit issued under this subchapter shall be fined not more than $50,000, or imprisoned for not more than one year, or both.
 
@@ -1095,11 +1095,11 @@ Section 13 of the Federal Water Pollution Control Act, referred to in subsec. (e
 
 “(B) convicted of a violation involving such activity shall forfeit to the United States any property constituting or derived from any proceeds the person obtained, directly or indirectly, as a result of such violation, and any of the property of the person which was used, or intended to be used in any manner or part, to commit or to facilitate the commission of the violation.”
 
-Subsec. (i). Pub. L. 102–508, § 508(b), added subsec. (i).
+Subsec. (i). Pub. L. 102–508, § 508(b), added subsec. (i).
 
-1988—Subsec. (a). Pub. L. 100–688, § 3201(c), inserted provisions relating to civil penalty of not more than $125,000 for engaging in activity involving dumping of medical waste.
+1988—Subsec. (a). Pub. L. 100–688, § 3201(c), inserted provisions relating to civil penalty of not more than $125,000 for engaging in activity involving dumping of medical waste.
 
-Subsec. (b). Pub. L. 100–688, § 3201(d), designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 100–688, § 3201(d), designated existing provisions as par. (1) and added par. (2).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1107,7 +1107,7 @@ Subsec. (b). Pub. L. 100–688, § 3201(d), designated existing provisions as 
 
 Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under section 1411 of this title.
 
-### § 1416. Relationship to other laws
+### § 1416. Relationship to other laws
 
 **(a) Voiding of preexisting licenses**
 
@@ -1155,7 +1155,7 @@ In addition to other provisions of law and not withstanding the specific exclusi
 
 Nothing in this Act shall restrict, affect or modify the rights of any person (1) to seek damages or enforcement of any standard or limitation under State law, including State common law, or (2) to seek damages under other Federal law, including maritime tort law, resulting from noncompliance with any requirement of this Act or any permit under this Act.
 
-(Pub. L. 92–532, title I, § 106, Oct. 23, 1972, 86 Stat. 1058; Pub. L. 96–572, § 4, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 99–499, title I, § 127(d), Oct. 17, 1986, 100 Stat. 1693; Pub. L. 101–596, title II, § 203, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 102–580, title V, § 505, Oct. 31, 1992, 106 Stat. 4867.)
+(Pub. L. 92–532, title I, § 106, Oct. 23, 1972, 86 Stat. 1058; Pub. L. 96–572, § 4, Dec. 22, 1980, 94 Stat. 3345; Pub. L. 99–499, title I, § 127(d), Oct. 17, 1986, 100 Stat. 1693; Pub. L. 101–596, title II, § 203, Nov. 16, 1990, 104 Stat. 3006; Pub. L. 102–580, title V, § 505, Oct. 31, 1992, 106 Stat. 4867.)
 
 **Editorial Notes**
 
@@ -1167,7 +1167,7 @@ The Rivers and Harbors Act of 1899, referred to in subsec. (b), probably means t
 
 The Fish and Wildlife Coordination Act as amended (16 U.S.C. 661–666c), referred to in subsec. (e), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see section 661(a) of Title 16, Short Title note set out under section 661 of Title 16, and Tables.
 
-This Act, referred to in subsec. (g), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16.
+This Act, referred to in subsec. (g), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16.
 
 **Amendments**
 
@@ -1191,7 +1191,7 @@ Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-### § 1417. Enforcement
+### § 1417. Enforcement
 
 **(a) Utilization of other departments, agencies, and instrumentalities**
 
@@ -1205,7 +1205,7 @@ The Administrator or the Secretary may delegate responsibility and authority for
 
 The Secretary of the department in which the Coast Guard is operating shall conduct surveillance and other appropriate enforcement activity to prevent unlawful transportation of material for dumping, or unlawful dumping. Such enforcement activity shall include, but not be limited to, enforcement of regulations issued by him pursuant to section 1418 of this title, relating to safe transportation, handling, carriage, storage, and stowage. The Secretary of the Department in which the Coast Guard is operating shall supply to the Administrator and to the Attorney General, as appropriate, such information of enforcement activities and such evidentiary material assembled as they may require in carrying out their duties relative to penalty assessments, criminal prosecutions, or other actions involving litigation pursuant to the provisions of this subchapter.
 
-(Pub. L. 92–532, title I, § 107, Oct. 23, 1972, 86 Stat. 1059.)
+(Pub. L. 92–532, title I, § 107, Oct. 23, 1972, 86 Stat. 1059.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1217,11 +1217,11 @@ Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1418. Regulations
+### § 1418. Regulations
 
 In carrying out the responsibilities and authority conferred by this subchapter, the Administrator, the Secretary, and the Secretary of the department in which the Coast Guard is operating are authorized to issue such regulations as they may deem appropriate.
 
-(Pub. L. 92–532, title I, § 108, Oct. 23, 1972, 86 Stat. 1059.)
+(Pub. L. 92–532, title I, § 108, Oct. 23, 1972, 86 Stat. 1059.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1233,17 +1233,17 @@ Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1419. International cooperation
+### § 1419. International cooperation
 
 The Secretary of State, in consultation with the Administrator, shall seek effective international action and cooperation to insure protection of the marine environment, and may, for this purpose, formulate, present, or support specific proposals in the United Nations and other component international organizations for the development of appropriate international rules and regulations in support of the policy of this Act.
 
-(Pub. L. 92–532, title I, § 109, Oct. 23, 1972, 86 Stat. 1060.)
+(Pub. L. 92–532, title I, § 109, Oct. 23, 1972, 86 Stat. 1060.)
 
 **Editorial Notes**
 
 **References in Text**
 
-This Act, referred to in text, means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
+This Act, referred to in text, means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1251,11 +1251,11 @@ This Act, referred to in text, means Pub. L. 92–532, which is classified gener
 
 Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under section 1411 of this title.
 
-### § 1420. Authorization of appropriations
+### § 1420. Authorization of appropriations
 
 There are authorized to be appropriated, for purposes of carrying out this subchapter, not to exceed $12,000,000 for fiscal year 1993 and not to exceed $14,000,000 for each of the fiscal years 1994, 1995, 1996, and 1997, to remain available until expended.
 
-(Pub. L. 92–532, title I, § 111, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 93–472, Oct. 26, 1974, 88 Stat. 1430; Pub. L. 94–62, § 1, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, § 1, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, § 1, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–572, § 1, Dec. 22, 1980, 94 Stat. 3344; Pub. L. 97–16, June 23, 1981, 95 Stat. 100; Pub. L. 100–536, Oct. 28, 1988, 102 Stat. 2710; Pub. L. 102–580, title V, § 509(a), Oct. 31, 1992, 106 Stat. 4870.)
+(Pub. L. 92–532, title I, § 111, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 93–472, Oct. 26, 1974, 88 Stat. 1430; Pub. L. 94–62, § 1, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, § 1, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, § 1, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–572, § 1, Dec. 22, 1980, 94 Stat. 3344; Pub. L. 97–16, June 23, 1981, 95 Stat. 100; Pub. L. 100–536, Oct. 28, 1988, 102 Stat. 2710; Pub. L. 102–580, title V, § 509(a), Oct. 31, 1992, 106 Stat. 4870.)
 
 **Editorial Notes**
 
@@ -1283,21 +1283,21 @@ There are authorized to be appropriated, for purposes of carrying out this subch
 
 Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92–532, set out as a note under section 1411 of this title.
 
-### § 1421. Omitted
+### § 1421. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 92–532, title I, § 112, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 94–326, § 2, June 30, 1976, 90 Stat. 725; Pub. L. 96–470, title II, § 209(f), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 102–580, title V, § 510, Oct. 31, 1992, 106 Stat. 4870, which required the Administrator of the Environmental Protection Agency to report annually to Congress on the administration of this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 163 of House Document No. 103–7.
+Section, Pub. L. 92–532, title I, § 112, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 94–326, § 2, June 30, 1976, 90 Stat. 725; Pub. L. 96–470, title II, § 209(f), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 102–580, title V, § 510, Oct. 31, 1992, 106 Stat. 4870, which required the Administrator of the Environmental Protection Agency to report annually to Congress on the administration of this subchapter, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 163 of House Document No. 103–7.
 
 ## SUBCHAPTER II—RESEARCH
 
-### § 1441. Monitoring and research program
+### § 1441. Monitoring and research program
 
 The Secretary of Commerce, in coordination with the Secretary of the Department in which the Coast Guard is operating and with the Administrator shall, within six months of October 23, 1972, initiate a comprehensive and continuing program of monitoring and research regarding the effects of the dumping of material into ocean waters or other coastal waters where the tide ebbs and flows or into the Great Lakes or their connecting waters.
 
-(Pub. L. 92–532, title II, § 201, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 99–272, title VI, § 6061, Apr. 7, 1986, 100 Stat. 131.)
+(Pub. L. 92–532, title II, § 201, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 99–272, title VI, § 6061, Apr. 7, 1986, 100 Stat. 131.)
 
 **Editorial Notes**
 
@@ -1311,7 +1311,7 @@ The Secretary of Commerce, in coordination with the Secretary of the Department 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1442. Research program respecting possible long-range effects of pollution, overfishing, and man-induced changes of ocean ecosystems
+### § 1442. Research program respecting possible long-range effects of pollution, overfishing, and man-induced changes of ocean ecosystems
 
 **(a) Secretary of Commerce**
 
@@ -1327,9 +1327,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(D)** the development of methodologies, techniques, and equipment for disposal of waste materials to minimize degradation of the marine environment.
 
-**(3)** The Secretary of Commerce shall ensure that the comprehensive and continuing research program conducted under this subsection is consistent with the comprehensive plan for ocean pollution research and development and monitoring prepared under section 1703 1
+**(3)** The Secretary of Commerce shall ensure that the comprehensive and continuing research program conducted under this subsection is consistent with the comprehensive plan for ocean pollution research and development and monitoring prepared under section 1703 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -1345,23 +1345,23 @@ Each department, agency, and independent instrumentality of the Federal Governme
 
 The Secretary of Commerce, in carrying out his responsibilities under this section, shall, to the extent feasible utilize the personnel, services, and facilities of other Federal departments, agencies, and instrumentalities (including those of the Coast Guard for monitoring purposes), and is authorized to enter into appropriate inter-agency agreements to accomplish this action.
 
-(Pub. L. 92–532, title II, § 202, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 94–62, § 2, July 25, 1975, 89 Stat. 303; Pub. L. 96–381, § 3, Oct. 6, 1980, 94 Stat. 1524; Pub. L. 96–470, title II, § 201(f), Oct. 19, 1980, 94 Stat. 2242; Pub. L. 99–272, title VI, § 6062, Apr. 7, 1986, 100 Stat. 131; Pub. L. 100–627, title I, § 101, Nov. 7, 1988, 102 Stat. 3213.)
+(Pub. L. 92–532, title II, § 202, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 94–62, § 2, July 25, 1975, 89 Stat. 303; Pub. L. 96–381, § 3, Oct. 6, 1980, 94 Stat. 1524; Pub. L. 96–470, title II, § 201(f), Oct. 19, 1980, 94 Stat. 2242; Pub. L. 99–272, title VI, § 6062, Apr. 7, 1986, 100 Stat. 131; Pub. L. 100–627, title I, § 101, Nov. 7, 1988, 102 Stat. 3213.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1703 of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 102–567, title II, § 204, Oct. 29, 1992, 106 Stat. 4282.
+Section 1703 of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 102–567, title II, § 204, Oct. 29, 1992, 106 Stat. 4282.
 
 **Amendments**
 
 1988—Subsec. (a)(3). Pub. L. 100–627 added par. (3).
 
-1986—Subsec. (a). Pub. L. 99–272, § 6062(1)–(3), designated existing provisions as par. (1), substituted “in close consultation” for “in consultation”, and added par. (2).
+1986—Subsec. (a). Pub. L. 99–272, § 6062(1)–(3), designated existing provisions as par. (1), substituted “in close consultation” for “in consultation”, and added par. (2).
 
-Subsec. (c). Pub. L. 99–272, § 6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) which required the Secretary of Commerce to make an annual report to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by section 665 of title 16 on activities of the Department of Commerce under that section.
+Subsec. (c). Pub. L. 99–272, § 6062(4), redesignated subsec. (d) as (c), and struck out former subsec. (c) which required the Secretary of Commerce to make an annual report to Congress, in March of each year, on the results of activities undertaken by him pursuant to this section during the previous fiscal year, and to include in that report the report to Congress required by section 665 of title 16 on activities of the Department of Commerce under that section.
 
-Subsecs. (d), (e). Pub. L. 99–272, § 6062(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+Subsecs. (d), (e). Pub. L. 99–272, § 6062(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
 1980—Subsec. (a). Pub. L. 96–381 inserted provision including within the responsibilities of the Secretary the scientific assessment of damages to natural resources from spills of petroleum or petroleum products.
 
@@ -1375,7 +1375,7 @@ Subsec. (c). Pub. L. 96–470 inserted provision requiring the Secretary to incl
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-### § 1443. Research program respecting ocean dumping and other methods of waste disposal
+### § 1443. Research program respecting ocean dumping and other methods of waste disposal
 
 **(a) Cooperation with public authorities, agencies, and institutions, private agencies and institutions, and individuals** The Administrator of the Environmental Protection Agency shall—
 
@@ -1411,7 +1411,7 @@ Nothing in this section shall be construed to affect in any way the December 31,
 
 **(3)** recommend such regulatory or legislative changes as may be necessary to reduce the adverse impacts associated with sewage sludge disposal.
 
-(Pub. L. 92–532, title II, § 203, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–381, § 1, Oct. 6, 1980, 94 Stat. 1523; Pub. L. 99–272, title VI, § 6063, Apr. 7, 1986, 100 Stat. 131.)
+(Pub. L. 92–532, title II, § 203, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 96–381, § 1, Oct. 6, 1980, 94 Stat. 1523; Pub. L. 99–272, title VI, § 6063, Apr. 7, 1986, 100 Stat. 131.)
 
 **Editorial Notes**
 
@@ -1425,7 +1425,7 @@ In subsec. (a)(1)(A), October 6, 1980, was substituted for “the date of the en
 
 1980—Pub. L. 96–381 substituted provision authorizing the Administrator of the Environmental Protection Agency to conduct research, etc., and to encourage and cooperate with public authorities, etc., for the purpose of determining means of minimizing or ending, as soon as possible after Oct. 6, 1980, dumping in ocean waters, or waters described in section 1411(b) of this title, of materials which may unreasonably degrade or endanger human health or the marine environment and to develop disposal methods as alternatives to dumping for provision authorizing the Secretary of Commerce to conduct research, etc., and to encourage and cooperate with public authorities, etc., for the purpose of minimizing or ending all dumping of materials within five years after the effective date of Pub. L. 92–532, which was approved Oct. 23, 1972, and inserted provision directing that nothing in this section be construed to affect in any way the Dec. 31, 1981, termination date, established by section 1412a of this title for ocean dumping of sewage sludge.
 
-### § 1444. Annual reports
+### § 1444. Annual reports
 
 **(a) Report by Secretary of Commerce** In March of each year, the Secretary of Commerce shall report to the Congress on his activities under this subchapter during the previous fiscal year. The report shall include—
 
@@ -1445,7 +1445,7 @@ In March of each year, the Administrator shall report to the Congress on his act
 
 On October 31 of each year, the Under Secretary shall report to the Congress the specific programs that the National Oceanic and Atmospheric Administration and the Environmental Protection Agency carried out pursuant to this subchapter in the previous fiscal year, specifically listing the amount of funds allocated to those specific programs in the previous fiscal year.
 
-(Pub. L. 92–532, title II, § 204, formerly § 205, as added Pub. L. 96–572, § 5, Dec. 22, 1980, 94 Stat. 3345; renumbered § 204 and amended Pub. L. 99–272, title VI, § 6065, Apr. 7, 1986, 100 Stat. 132; Pub. L. 100–627, title I, § 102, Nov. 7, 1988, 102 Stat. 3213.)
+(Pub. L. 92–532, title II, § 204, formerly § 205, as added Pub. L. 96–572, § 5, Dec. 22, 1980, 94 Stat. 3345; renumbered § 204 and amended Pub. L. 99–272, title VI, § 6065, Apr. 7, 1986, 100 Stat. 132; Pub. L. 100–627, title I, § 102, Nov. 7, 1988, 102 Stat. 3213.)
 
 **Editorial Notes**
 
@@ -1459,11 +1459,11 @@ A prior section 204 of Pub. L. 92–532, which was classified to this section, w
 
 1986—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: “The Administrator of the Environmental Protection Agency is authorized to conduct a study to assist the city of New York in evaluating the technological options available for the removal of heavy metals and other toxic organic materials from the sewage sludge of the city of New York. The study shall also examine options available to reduce the amount of such pollutants entering the sewage system. The study is to be completed by July 1, 1981.”
 
-### § 1445. Authorization of appropriations
+### § 1445. Authorization of appropriations
 
 There are authorized to be appropriated for the first fiscal year after October 23, 1972, and for the next two fiscal years thereafter such sums as may be necessary to carry out this subchapter, but the sums appropriated for any such fiscal year may not exceed $6,000,000. There are authorized to be appropriated not to exceed $1,500,000 for the transition period (July 1 through September 30, 1976), not to exceed $5,600,000 for fiscal year 1977, and not to exceed $6,500,000 for fiscal year 1978, not to exceed $11,396,000 for fiscal year 1981, not to exceed $12,000,000 for fiscal year 1982, not to exceed $10,635,000 for fiscal year 1986, not to exceed $11,114,000 for fiscal year 1987, not to exceed $13,500,000 for fiscal year 1989, and not to exceed $14,500,000 for fiscal year 1990.
 
-(Pub. L. 92–532, title II, § 205, formerly § 204, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 94–62, § 3, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, § 3, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, § 2, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–381, § 2, Oct. 6, 1980, 94 Stat. 1523; renumbered § 205 and amended Pub. L. 99–272, title VI, § 6064, Apr. 7, 1986, 100 Stat. 132; Pub. L. 100–627, title I, § 103, Nov. 7, 1988, 102 Stat. 3213.)
+(Pub. L. 92–532, title II, § 205, formerly § 204, Oct. 23, 1972, 86 Stat. 1061; Pub. L. 94–62, § 3, July 25, 1975, 89 Stat. 303; Pub. L. 94–326, § 3, June 30, 1976, 90 Stat. 725; Pub. L. 95–153, § 2, Nov. 4, 1977, 91 Stat. 1255; Pub. L. 96–381, § 2, Oct. 6, 1980, 94 Stat. 1523; renumbered § 205 and amended Pub. L. 99–272, title VI, § 6064, Apr. 7, 1986, 100 Stat. 132; Pub. L. 100–627, title I, § 103, Nov. 7, 1988, 102 Stat. 3213.)
 
 **Editorial Notes**
 

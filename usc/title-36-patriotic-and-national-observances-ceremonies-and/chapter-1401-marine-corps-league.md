@@ -1,5 +1,5 @@
 ---
-title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1401—MARINE CORPS LEAGUE"
+title: "Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS / Subtitle II—Patriotic and National Organizations / Part B—Organizations / CHAPTER 1401—MARINE CORPS LEAGUE"
 identifier: "/us/usc/t36/stII/ptB/ch1401"
 type: code
 jurisdiction: us
@@ -11,11 +11,11 @@ source: "https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-ch
 retrieved: 2026-10-11
 ---
 
-*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
+*Title 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS › Subtitle II—Patriotic and National Organizations › Part B—Organizations*
 
 # CHAPTER 1401—MARINE CORPS LEAGUE
 
-## § 140101. Organization
+## § 140101. Organization
 
 **(a) Federal Charter.—** Marine Corps League (in this chapter, the “corporation”) is a federally chartered corporation.
 
@@ -27,14 +27,14 @@ retrieved: 2026-10-11
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140101(a) | 36:57. | Aug. 4, 1937, ch. 564, §§ 1, 3(a), 50 Stat. 558, 559. |
+| 140101(a) | 36:57. | Aug. 4, 1937, ch. 564, §§ 1, 3(a), 50 Stat. 558, 559. |
 | 140101(b) | 36:57b(a). |  |
 
 Subsection (a) is substituted for the source provision for consistency in the revised title and to eliminate executed and unnecessary words.
 
 Subsection (b) is substituted for “shall have perpetual succession” for consistency in the revised title.
 
-## § 140102. Purposes
+## § 140102. Purposes
 
 The purposes of the corporation are—
 
@@ -62,9 +62,9 @@ The purposes of the corporation are—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140102 | 36:57a. | Aug. 4, 1937, ch. 564, § 2, 50 Stat. 558. |
+| 140102 | 36:57a. | Aug. 4, 1937, ch. 564, § 2, 50 Stat. 558. |
 
-## § 140103. Powers
+## § 140103. Powers
 
 The corporation may—
 
@@ -92,13 +92,13 @@ The corporation may—
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140103 | 36:57b(b)–(j). | Aug. 4, 1937, ch. 564, § 3(b)–(j), 50 Stat. 559. |
+| 140103 | 36:57b(b)–(j). | Aug. 4, 1937, ch. 564, § 3(b)–(j), 50 Stat. 559. |
 
 In clause (1), the word “amend” is substituted for “alter” for consistency in the revised title. The words “not inconsistent with the Constitution and laws of the United States or of any State” are omitted as unnecessary.
 
 Clause (6) is substituted for “acquire, by purchase, devise, bequest, gift, or otherwise, and hold, encumber, convey, or otherwise dispose of such real and personal property as may be necessary or appropriate for its corporate purposes” for consistency in the revised title and to eliminate unnecessary words.
 
-## § 140104. Annual report
+## § 140104. Annual report
 
 Not later than December 1 of each year, the corporation shall submit a report to Congress on the activities of the corporation during the prior calendar year. The report may not be printed as a public document.
 
@@ -108,7 +108,7 @@ Not later than December 1 of each year, the corporation shall submit a report to
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 140104 | 36:58. | Aug. 4, 1937, ch. 564, § 4, 50 Stat. 559; Aug. 30, 1964, Pub. L. 88–504, § 4(5), 78 Stat. 636. |
+| 140104 | 36:58. | Aug. 4, 1937, ch. 564, § 4, 50 Stat. 559; Aug. 30, 1964, Pub. L. 88–504, § 4(5), 78 Stat. 636. |
 
 The words “proceedings and” are omitted as unnecessary.
 

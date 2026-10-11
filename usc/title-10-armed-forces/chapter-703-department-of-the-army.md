@@ -19,35 +19,35 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 303 of this title as this chapter and items 3011 to 3024 as 7011 to 7024, respectively.
+2018—Pub. L. 115–232, div. A, title VIII, § 808(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 303 of this title as this chapter and items 3011 to 3024 as 7011 to 7024, respectively.
 
-2006—Pub. L. 109–163, div. A, title IX, § 904(c)(2), Jan. 6, 2006, 119 Stat. 3401, added item 3024.
+2006—Pub. L. 109–163, div. A, title IX, § 904(c)(2), Jan. 6, 2006, 119 Stat. 3401, added item 3024.
 
-2002—Pub. L. 107–314, div. A, title V, § 504(c)(1)(B), Dec. 2, 2002, 116 Stat. 2532, added item 3023.
+2002—Pub. L. 107–314, div. A, title V, § 504(c)(1)(B), Dec. 2, 2002, 116 Stat. 2532, added item 3023.
 
-1988—Pub. L. 100–456, div. A, title VII, § 702(a)(3), Sept. 29, 1988, 102 Stat. 1994, added item 3022.
+1988—Pub. L. 100–456, div. A, title VII, § 702(a)(3), Sept. 29, 1988, 102 Stat. 1994, added item 3022.
 
-1986—Pub. L. 99–433, title V, § 501(b), Oct. 1, 1986, 100 Stat. 1039, amended analysis generally, substituting items 3011 to 3021 for former items 3010 to 3019.
+1986—Pub. L. 99–433, title V, § 501(b), Oct. 1, 1986, 100 Stat. 1039, amended analysis generally, substituting items 3011 to 3021 for former items 3010 to 3019.
 
-1967—Pub. L. 90–168, § 2(17), Dec. 1, 1967, 81 Stat. 524, added item 3019.
+1967—Pub. L. 90–168, § 2(17), Dec. 1, 1967, 81 Stat. 524, added item 3019.
 
-1964—Pub. L. 88–426, title III, §§ 305(40)(B), 306(j)(2), Aug. 14, 1964, 78 Stat. 427, 431, struck out “; compensation” from item 3012, and struck out item 3018 “Compensation of General Counsel”.
+1964—Pub. L. 88–426, title III, §§ 305(40)(B), 306(j)(2), Aug. 14, 1964, 78 Stat. 427, 431, struck out “; compensation” from item 3012, and struck out item 3018 “Compensation of General Counsel”.
 
-1962—Pub. L. 87–651, title II, § 210(b), Sept. 7, 1962, 76 Stat. 524, added item 3010.
+1962—Pub. L. 87–651, title II, § 210(b), Sept. 7, 1962, 76 Stat. 524, added item 3010.
 
-1958—Pub. L. 85–861, § 1(59)(B), Sept. 2, 1958, 72 Stat. 1462, added item 3018.
+1958—Pub. L. 85–861, § 1(59)(B), Sept. 2, 1958, 72 Stat. 1462, added item 3018.
 
-## § 7011. Organization
+## § 7011. Organization
 
 The Department of the Army is separately organized under the Secretary of the Army. It operates under the authority, direction, and control of the Secretary of Defense.
 
-(Added Pub. L. 87–651, title II, § 210(a), Sept. 7, 1962, 76 Stat. 524, § 3010; renumbered § 3011, Pub. L. 99–433, title V, § 501(a)(2), Oct. 1, 1986, 100 Stat. 1034; renumbered § 7011, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 87–651, title II, § 210(a), Sept. 7, 1962, 76 Stat. 524, § 3010; renumbered § 3011, Pub. L. 99–433, title V, § 501(a)(2), Oct. 1, 1986, 100 Stat. 1034; renumbered § 7011, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3010 | 5:171a(c)(7) (1st sentence, as applicable to Department of Army). | July 26, 1947, ch. 343, § 202(c)(7) (1st sentence, as applicable, to Department of Army); added Aug. 6, 1958, Pub. L. 85–599, § 3(a) (1st sentence of 8th par., as applicable to Department of Army), 72 Stat. 516. |
+| 3010 | 5:171a(c)(7) (1st sentence, as applicable to Department of Army). | July 26, 1947, ch. 343, § 202(c)(7) (1st sentence, as applicable, to Department of Army); added Aug. 6, 1958, Pub. L. 85–599, § 3(a) (1st sentence of 8th par., as applicable to Department of Army), 72 Stat. 516. |
 
 The word “operates” is substituted for the words “shall function”.
 
@@ -65,17 +65,17 @@ The word “operates” is substituted for the words “shall function”.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7012. Department of the Army: seal
+## § 7012. Department of the Army: seal
 
 The Secretary of the Army shall have a seal for the Department of the Army. The design of the seal must be approved by the President. Judicial notice shall be taken of the seal.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 157, § 3011; renumbered § 3012, Pub. L. 99–433, title V, § 501(a)(2), Oct. 1, 1986, 100 Stat. 1034; renumbered § 7012, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 157, § 3011; renumbered § 3012, Pub. L. 99–433, title V, § 501(a)(2), Oct. 1, 1986, 100 Stat. 1034; renumbered § 7012, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3011 | 5:181–1(d). | July 26, 1947, ch. 343, § 205(d), 61 Stat. 501. |
+| 3011 | 5:181–1(d). | July 26, 1947, ch. 343, § 205(d), 61 Stat. 501. |
 
 The words “of office” are omitted as surplusage.
 
@@ -91,7 +91,7 @@ The words “of office” are omitted as surplusage.
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7013. Secretary of the Army
+## § 7013. Secretary of the Army
 
 **(a)**
 
@@ -155,7 +155,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(3)** prescribe regulations to carry out his functions, powers, and duties under this title.
 
-(Added Pub. L. 99–433, title V, § 501(a)(5), Oct. 1, 1986, 100 Stat. 1035, § 3013; amended Pub. L. 99–661, div. A, title V, § 534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, § 901, Nov. 24, 2003, 117 Stat. 1558; Pub. L. 114–328, div. A, title IX, § 931(a), Dec. 23, 2016, 130 Stat. 2362; renumbered § 7013, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 117–81, div. A, title IX, § 901(c), Dec. 27, 2021, 135 Stat. 1868.)
+(Added Pub. L. 99–433, title V, § 501(a)(5), Oct. 1, 1986, 100 Stat. 1035, § 3013; amended Pub. L. 99–661, div. A, title V, § 534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, § 901, Nov. 24, 2003, 117 Stat. 1558; Pub. L. 114–328, div. A, title IX, § 931(a), Dec. 23, 2016, 130 Stat. 2362; renumbered § 7013, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 117–81, div. A, title IX, § 901(c), Dec. 27, 2021, 135 Stat. 1868.)
 
 **Editorial Notes**
 
@@ -183,7 +183,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Centralized Security Monitoring Program for Facilities of the Army**
 
-Pub. L. 118–159, div. A, title I, § 111, Dec. 23, 2024, 138 Stat. 1801, provided that:
+Pub. L. 118–159, div. A, title I, § 111, Dec. 23, 2024, 138 Stat. 1801, provided that:
 
 > **“(a) In General.—** The Secretary of the Army, in coordination with the heads of relevant organizations of the Department of Defense and other departments and agencies of the Federal Government, shall develop a plan for the implementation of a Centralized Security Monitoring Program (referred to in this section as the ‘Program’) for installations and facilities of the Department of the Army within the United States.
 
@@ -233,7 +233,7 @@ Pub. L. 118–159, div. A, title I, § 111, Dec. 23, 2024, 138 Stat. 1801, pro
 
 **Strategy for Army Tactical Wheeled Vehicle Program**
 
-Pub. L. 118–31, div. A, title I, § 112, Dec. 22, 2023, 137 Stat. 166, as amended by Pub. L. 119–60, div. A, title I, § 111, Dec. 18, 2025, 139 Stat. 750, provided that:
+Pub. L. 118–31, div. A, title I, § 112, Dec. 22, 2023, 137 Stat. 166, as amended by Pub. L. 119–60, div. A, title I, § 111, Dec. 18, 2025, 139 Stat. 750, provided that:
 
 > **“(a) Strategy Required.—** In the budget justification materials submitted in support of the budget of the Department of Defense (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) for each of fiscal years 2025, 2027, 2030, and 2035, the Secretary of the Army shall include a report on the strategy of the Army for tactical wheeled vehicles.
 
@@ -275,7 +275,7 @@ Pub. L. 118–31, div. A, title I, § 112, Dec. 22, 2023, 137 Stat. 166, as am
 
 **Increased Fitness Standards for Army Close Combat Force Military Occupational Specialties**
 
-Pub. L. 118–31, div. A, title V, § 577, Dec. 22, 2023, 137 Stat. 278, provided that:
+Pub. L. 118–31, div. A, title V, § 577, Dec. 22, 2023, 137 Stat. 278, provided that:
 
 > **“(a) Implementation.—** Not later than 18 months after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of the Army shall implement increased minimum fitness standards as part of the Army Combat Fitness Test for all soldiers of the following military occupational specialties or areas of concentration:
 
@@ -323,7 +323,7 @@ Pub. L. 118–31, div. A, title V, § 577, Dec. 22, 2023, 137 Stat. 278, provi
 
 **Pilot Programs for Tactical Vehicle Safety Data Collection**
 
-Pub. L. 117–263, div. A, title III, § 389, Dec. 23, 2022, 136 Stat. 2547, provided that:
+Pub. L. 117–263, div. A, title III, § 389, Dec. 23, 2022, 136 Stat. 2547, provided that:
 
 > **“(a) In General.—** Not later than October 1, 2023, the Secretary of the Army and the Secretary of the Navy shall each initiate a pilot program to evaluate the utility of using data recorders to monitor, assess, and improve readiness and the safe operation of military tactical vehicles in the Army and the Marine Corps, respectively.
 
@@ -385,7 +385,7 @@ Pub. L. 117–263, div. A, title III, § 389, Dec. 23, 2022, 136 Stat. 2547, p
 
 **Gender-Neutral Fitness Physical Readiness Standards for Military Occupational Specialties of the Army**
 
-Pub. L. 117–263, div. A, title V, § 528, Dec. 23, 2022, 136 Stat. 2572, provided that:
+Pub. L. 117–263, div. A, title V, § 528, Dec. 23, 2022, 136 Stat. 2572, provided that:
 
 > “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of the Army shall—
 
@@ -395,7 +395,7 @@ Pub. L. 117–263, div. A, title V, § 528, Dec. 23, 2022, 136 Stat. 2572, pro
 
 **Access to Tour of Duty System**
 
-Pub. L. 117–81, div. A, title V, § 513, Dec. 27, 2021, 135 Stat. 1683, provided that:
+Pub. L. 117–81, div. A, title V, § 513, Dec. 27, 2021, 135 Stat. 1683, provided that:
 
 > **“(a) Access.—**
 
@@ -407,11 +407,11 @@ Pub. L. 117–81, div. A, title V, § 513, Dec. 27, 2021, 135 Stat. 1683, prov
 
 **Pilot Program on Use of Retired Senior Enlisted Members of the Army National Guard as Army National Guard Recruiters**
 
-Pub. L. 115–91, div. A, title V, § 514, Dec. 12, 2017, 131 Stat. 1378, as amended by Pub. L. 115–232, div. A, title V, § 520, Aug. 13, 2018, 132 Stat. 1754, provided for a pilot program for the Army National Guard under which retired senior enlisted members of the Army National Guard would serve as contract recruiters for the Army National Guard, with all activities under such a pilot program to terminate no later than Dec. 31, 2021.
+Pub. L. 115–91, div. A, title V, § 514, Dec. 12, 2017, 131 Stat. 1378, as amended by Pub. L. 115–232, div. A, title V, § 520, Aug. 13, 2018, 132 Stat. 1754, provided for a pilot program for the Army National Guard under which retired senior enlisted members of the Army National Guard would serve as contract recruiters for the Army National Guard, with all activities under such a pilot program to terminate no later than Dec. 31, 2021.
 
 **Restructuring of the Distributed Common Ground System of the Army**
 
-Pub. L. 114–328, div. A, title II, § 220(a), (b), Dec. 23, 2016, 130 Stat. 2055, provided that:
+Pub. L. 114–328, div. A, title II, § 220(a), (b), Dec. 23, 2016, 130 Stat. 2055, provided that:
 
 > **“(a) In General.—** Not later that [sic] April 1, 2017, the Secretary of the Army shall restructure versions of the distributed common ground system of the Army after Increment 1—
 
@@ -423,7 +423,7 @@ Pub. L. 114–328, div. A, title II, § 220(a), (b), Dec. 23, 2016, 130 Stat. 
 
 **Consolidation of Army Marketing and Pilot Program on Consolidated Army Recruiting**
 
-Pub. L. 114–328, div. A, title V, § 527, Dec. 23, 2016, 130 Stat. 2117, provided that:
+Pub. L. 114–328, div. A, title V, § 527, Dec. 23, 2016, 130 Stat. 2117, provided that:
 
 > **“(a) Consolidation of Army Marketing.—** Not later than October 1, 2017, the Secretary of the Army shall consolidate into a single organization within the Department of the Army all functions relating to the marketing of the Army and each of the components of the Army in order to assure unity of effort and cost effectiveness in the marketing of the Army and each of the components of the Army.
 
@@ -457,7 +457,7 @@ Pub. L. 114–328, div. A, title V, § 527, Dec. 23, 2016, 130 Stat. 2117, pro
 
 **Global Cultural Knowledge Network**
 
-Pub. L. 114–328, div. A, title X, § 1087, Dec. 23, 2016, 130 Stat. 2425, provided that:
+Pub. L. 114–328, div. A, title X, § 1087, Dec. 23, 2016, 130 Stat. 2425, provided that:
 
 > **“(a) Program Authorized.—** The Secretary of the Army shall carry out a program to support the socio-cultural understanding needs of the Department of the Army, to be known as the Global Cultural Knowledge Network.
 
@@ -501,11 +501,11 @@ Pub. L. 114–328, div. A, title X, § 1087, Dec. 23, 2016, 130 Stat. 2425, pr
 
 **Pilot Program for the Human Terrain System**
 
-Pub. L. 113–291, div. A, title X, § 1075, Dec. 19, 2014, 128 Stat. 3519, authorized the Secretary of the Army to carry out a pilot program under which the Secretary utilized Human Terrain System assets in the United States Pacific Command (now United States Indo-Pacific Command) area of responsibility to support phase 0 shaping operations and the theater security cooperation plans of the Commander of the United States Pacific Command and required initial and final reports to the congressional defense committees, with such authority terminating on Sept. 30, 2016.
+Pub. L. 113–291, div. A, title X, § 1075, Dec. 19, 2014, 128 Stat. 3519, authorized the Secretary of the Army to carry out a pilot program under which the Secretary utilized Human Terrain System assets in the United States Pacific Command (now United States Indo-Pacific Command) area of responsibility to support phase 0 shaping operations and the theater security cooperation plans of the Commander of the United States Pacific Command and required initial and final reports to the congressional defense committees, with such authority terminating on Sept. 30, 2016.
 
 **Expansion of First Sergeants Barracks Initiative**
 
-Pub. L. 111–84, div. B, title XXVIII, § 2807, Oct. 28, 2009, 123 Stat. 2663, provided that:
+Pub. L. 111–84, div. B, title XXVIII, § 2807, Oct. 28, 2009, 123 Stat. 2663, provided that:
 
 > **“(a) Expansion of Initiative.—** Not later than September 30, 2011, the Secretary of the Army shall expand the First Sergeants Barracks Initiative (FSBI) to include all Army installations in order to improve the quality of life and living environments for single soldiers.
 
@@ -513,11 +513,11 @@ Pub. L. 111–84, div. B, title XXVIII, § 2807, Oct. 28, 2009, 123 Stat. 2663
 
 **Selection of Military Installations To Serve as Locations of Brigade Combat Teams**
 
-Pub. L. 111–84, div. B, title XXVIII, § 2825, Oct. 28, 2009, 123 Stat. 2668, provided that: “In selecting the military installations at which brigade combat teams will be stationed, the Secretary of the Army shall take into consideration the availability and proximity of training spaces for the units and the capacity of the installations to support the units.”
+Pub. L. 111–84, div. B, title XXVIII, § 2825, Oct. 28, 2009, 123 Stat. 2668, provided that: “In selecting the military installations at which brigade combat teams will be stationed, the Secretary of the Army shall take into consideration the availability and proximity of training spaces for the units and the capacity of the installations to support the units.”
 
 **Army Training Strategy for Brigade-Based Combat Teams and Functional Supporting Brigades**
 
-Pub. L. 109–163, div. A, title III, § 353, Jan. 6, 2006, 119 Stat. 3203, provided that:
+Pub. L. 109–163, div. A, title III, § 353, Jan. 6, 2006, 119 Stat. 3203, provided that:
 
 > **“(a) Training Strategy.—**
 
@@ -559,11 +559,11 @@ Pub. L. 109–163, div. A, title III, § 353, Jan. 6, 2006, 119 Stat. 3203, pr
 
 **Army Transformation to Brigade Structure**
 
-Pub. L. 108–375, div. A, title V, § 595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: “The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary’s certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated.”
+Pub. L. 108–375, div. A, title V, § 595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: “The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary’s certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated.”
 
 **Demonstration Project for Use of Army Installations To Provide Prerelease Employment Training to Nonviolent Offenders in State Penal Systems**
 
-Pub. L. 103–337, div. A, title X, § 1065, Oct. 5, 1994, 108 Stat. 2849, provided that:
+Pub. L. 103–337, div. A, title X, § 1065, Oct. 5, 1994, 108 Stat. 2849, provided that:
 
 > **“(a) Demonstration Project Authorized.—** The Secretary of the Army may conduct a demonstration project to test the feasibility of using Army facilities to provide employment training to nonviolent offenders in a State penal system before their release from incarceration. The demonstration project shall be limited to not more than three military installations under the jurisdiction of the Secretary.
 
@@ -595,7 +595,7 @@ Pub. L. 103–337, div. A, title X, § 1065, Oct. 5, 1994, 108 Stat. 2849, pro
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
-## § 7014. Office of the Secretary of the Army
+## § 7014. Office of the Secretary of the Army
 
 **(a)** There is in the Department of the Army an Office of the Secretary of the Army. The function of the Office is to assist the Secretary of the Army in carrying out his responsibilities.
 
@@ -667,21 +667,21 @@ For order of succession in event of death, permanent disability, or resignation 
 
 **(5)** Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
-(Added Pub. L. 99–433, title V, § 501(a)(5), Oct. 1, 1986, 100 Stat. 1036, § 3014; amended Pub. L. 100–180, div. A, title XIII, § 1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, § 325(a), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, § 652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, § 1048(a)(27), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, § 504(c)(2), Dec. 2, 2002, 116 Stat. 2532; Pub. L. 114–328, div. A, title IX, § 903(c), Dec. 23, 2016, 130 Stat. 2344; renumbered § 7014, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 116–92, div. A, title IX, § 901(a)(3), Dec. 20, 2019, 133 Stat. 1541.)
+(Added Pub. L. 99–433, title V, § 501(a)(5), Oct. 1, 1986, 100 Stat. 1036, § 3014; amended Pub. L. 100–180, div. A, title XIII, § 1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, § 325(a), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, § 652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, § 1048(a)(27), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, § 504(c)(2), Dec. 2, 2002, 116 Stat. 2532; Pub. L. 114–328, div. A, title IX, § 903(c), Dec. 23, 2016, 130 Stat. 2344; renumbered § 7014, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 116–92, div. A, title IX, § 901(a)(3), Dec. 20, 2019, 133 Stat. 1541.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2019—Subsec. (f)(1). Pub. L. 116–92, § 901(a)(3)(A), substituted “3,250” for “3,105”.
+2019—Subsec. (f)(1). Pub. L. 116–92, § 901(a)(3)(A), substituted “3,250” for “3,105”.
 
-Subsec. (f)(2). Pub. L. 116–92, § 901(a)(3)(B), substituted “1,900” for “1,865”.
+Subsec. (f)(2). Pub. L. 116–92, § 901(a)(3)(B), substituted “1,900” for “1,865”.
 
 2018—Pub. L. 115–232 renumbered section 3014 of this title as this section.
 
-2016—Subsec. (f)(4). Pub. L. 114–328, § 903(c)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Army or on the Army Staff.”
+2016—Subsec. (f)(4). Pub. L. 114–328, § 903(c)(1), substituted “time of war.” for “time of war or during a national emergency declared by the President or Congress. The limitation in paragraph (2) does not apply whenever the President determines that it is in the national interest to increase the number of officers assigned or detailed to permanent duty in the Office of the Secretary of the Army or on the Army Staff.”
 
-Subsec. (f)(5). Pub. L. 114–328, § 903(c)(2), added par. (5).
+Subsec. (f)(5). Pub. L. 114–328, § 903(c)(2), added par. (5).
 
 2002—Subsec. (b)(6) to (8). Pub. L. 107–314 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
@@ -705,19 +705,19 @@ Requirements of subsec. (c)(5) of this section applicable with respect to any pe
 
 **Effective Date**
 
-Pub. L. 99–433, title V, § 532(a), Oct. 1, 1986, 100 Stat. 1063, provided that: “The provisions of subsections (c) and (d) of each of sections 3014, 5014, and 8014 [now 7014, 8014, and 9014] of title 10, United States Code, as added by sections 501, 511, and 521, respectively, shall be implemented not later than 180 days after the date of the enactment of this Act [Oct. 1, 1986].”
+Pub. L. 99–433, title V, § 532(a), Oct. 1, 1986, 100 Stat. 1063, provided that: “The provisions of subsections (c) and (d) of each of sections 3014, 5014, and 8014 [now 7014, 8014, and 9014] of title 10, United States Code, as added by sections 501, 511, and 521, respectively, shall be implemented not later than 180 days after the date of the enactment of this Act [Oct. 1, 1986].”
 
 **Exceptions and Adjustments to Limitations on Personnel**
 
 Baseline personnel limitations in this section inapplicable to certain acquisition personnel and personnel hired pursuant to a shortage category designation for fiscal year 2009 and fiscal years thereafter, and Secretary of Defense or a secretary of a military department authorized to adjust such limitations for fiscal year 2009 and fiscal years thereafter, see section 1111 of Pub. L. 110–417, set out as a note under section 143 of this title.
 
-## § 7015. Under Secretary of the Army
+## § 7015. Under Secretary of the Army
 
 **(a)** There is an Under Secretary of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 **(b)** The Under Secretary shall perform such duties and exercise such powers as the Secretary of the Army may prescribe.
 
-(Added Pub. L. 99–433, title V, § 501(a)(5), Oct. 1, 1986, 100 Stat. 1037, § 3015; renumbered § 7015, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 99–433, title V, § 501(a)(5), Oct. 1, 1986, 100 Stat. 1037, § 3015; renumbered § 7015, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Editorial Notes**
 
@@ -741,7 +741,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
-## § 7016. Assistant Secretaries of the Army
+## § 7016. Assistant Secretaries of the Army
 
 **(a)** There are five Assistant Secretaries of the Army. They shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
@@ -773,7 +773,7 @@ For order of succession in event of death, permanent disability, or resignation 
 
 **(B)** The principal duty of the Assistant Secretary for Energy, Installations, and Environment shall be the overall supervision of energy, installation, and environment matters for the Department of the Army.
 
-(Added Pub. L. 99–433, title V, § 501(a)(5), Oct. 1, 1986, 100 Stat. 1038, § 3016; amended Pub. L. 100–456, div. A, title VII, § 702(a)(1), Sept. 29, 1988, 102 Stat. 1992; Pub. L. 110–181, div. A, title IX, § 908(a), Jan. 28, 2008, 122 Stat. 278; Pub. L. 114–328, div. A, title VIII, § 802(a), Dec. 23, 2016, 130 Stat. 2249; Pub. L. 115–91, div. A, title V, § 505, title IX, § 921(a), Dec. 12, 2017, 131 Stat. 1374, 1524; renumbered § 7016, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 116–92, div. A, title VIII, § 861(j)(14), title IX, § 911(a), title XVII, § 1731(a)(64), Dec. 20, 2019, 133 Stat. 1520, 1559, 1816.)
+(Added Pub. L. 99–433, title V, § 501(a)(5), Oct. 1, 1986, 100 Stat. 1038, § 3016; amended Pub. L. 100–456, div. A, title VII, § 702(a)(1), Sept. 29, 1988, 102 Stat. 1992; Pub. L. 110–181, div. A, title IX, § 908(a), Jan. 28, 2008, 122 Stat. 278; Pub. L. 114–328, div. A, title VIII, § 802(a), Dec. 23, 2016, 130 Stat. 2249; Pub. L. 115–91, div. A, title V, § 505, title IX, § 921(a), Dec. 12, 2017, 131 Stat. 1374, 1524; renumbered § 7016, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 116–92, div. A, title VIII, § 861(j)(14), title IX, § 911(a), title XVII, § 1731(a)(64), Dec. 20, 2019, 133 Stat. 1520, 1559, 1816.)
 
 **Editorial Notes**
 
@@ -783,17 +783,17 @@ Provisions similar to those in this section were contained in section 3013 of th
 
 **Amendments**
 
-2019—Subsec. (b)(5)(A). Pub. L. 116–92, § 1731(a)(64), substituted “Assistant Secretary of the Army for Acquisition, Logistics, and Technology” for “Assistant Secretary of the Army for Acquisition, Technology, and Logistics”.
+2019—Subsec. (b)(5)(A). Pub. L. 116–92, § 1731(a)(64), substituted “Assistant Secretary of the Army for Acquisition, Logistics, and Technology” for “Assistant Secretary of the Army for Acquisition, Technology, and Logistics”.
 
-Subsec. (b)(5)(B). Pub. L. 116–92, § 861(j)(14), substituted “under section 1731 of this title” for “under section 1733 of this title”.
+Subsec. (b)(5)(B). Pub. L. 116–92, § 861(j)(14), substituted “under section 1731 of this title” for “under section 1733 of this title”.
 
-Subsec. (b)(6). Pub. L. 116–92, § 911(a), added par. (6).
+Subsec. (b)(6). Pub. L. 116–92, § 911(a), added par. (6).
 
 2018—Pub. L. 115–232 renumbered section 3016 of this title as this section.
 
-2017—Subsec. (b)(4). Pub. L. 115–91, § 921(a), designated first sentence as subpar. (A), designated second and third sentences as subpar. (C) and, in subpar. (C), substituted “The principal responsibility of the Assistant Secretary shall be” for “The Assistant Secretary shall have as his principal responsibility”, and added subpar. (B).
+2017—Subsec. (b)(4). Pub. L. 115–91, § 921(a), designated first sentence as subpar. (A), designated second and third sentences as subpar. (C) and, in subpar. (C), substituted “The principal responsibility of the Assistant Secretary shall be” for “The Assistant Secretary shall have as his principal responsibility”, and added subpar. (B).
 
-Subsec. (b)(5)(B). Pub. L. 115–91, § 505, substituted “an officer” for “a lieutenant general”.
+Subsec. (b)(5)(B). Pub. L. 115–91, § 505, substituted “an officer” for “a lieutenant general”.
 
 2016—Subsec. (b)(5)(B). Pub. L. 114–328 inserted at end “In the event of a vacancy in the position of Assistant Secretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.”
 
@@ -809,17 +809,17 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 2017 Amendment**
 
-Pub. L. 115–91, div. A, title IX, § 921(d), Dec. 12, 2017, 131 Stat. 1524, provided that: “The appointment qualifications imposed by the amendments made by this section [amending this section and sections 5016 and 8016 of this title] shall apply with respect to an appointment as an Assistant Secretary of a military department for financial management that is made on or after the date of the enactment of this Act [Dec. 12, 2017].”
+Pub. L. 115–91, div. A, title IX, § 921(d), Dec. 12, 2017, 131 Stat. 1524, provided that: “The appointment qualifications imposed by the amendments made by this section [amending this section and sections 5016 and 8016 of this title] shall apply with respect to an appointment as an Assistant Secretary of a military department for financial management that is made on or after the date of the enactment of this Act [Dec. 12, 2017].”
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title VII, § 702(e)(1), Sept. 29, 1988, 102 Stat. 1996, provided that: “The amendments made by subsections (a) and (b) [enacting sections 3022 and 5025 of this title and amending this section and section 5016 of this title] shall take effect on January 20, 1989.”
+Pub. L. 100–456, div. A, title VII, § 702(e)(1), Sept. 29, 1988, 102 Stat. 1996, provided that: “The amendments made by subsections (a) and (b) [enacting sections 3022 and 5025 of this title and amending this section and section 5016 of this title] shall take effect on January 20, 1989.”
 
-## § 7017. Secretary of the Army: successors to duties
+## § 7017. Secretary of the Army: successors to duties
 
-If the Secretary of the Army dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 1
+If the Secretary of the Army dies, resigns, is removed from office, is absent, or is disabled, the person who is highest on the following list, and who is not absent or disabled, shall perform the duties of the Secretary until the President, under section 3347 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of title 5, directs another person to perform those duties or until the absence or disability ceases:
 
@@ -831,13 +831,13 @@ of title 5, directs another person to perform those duties or until the absence 
 
 **(4)** The Chief of Staff.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 159, § 3017; Pub. L. 89–718, § 23, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 90–235, § 4(a)(7), Jan. 2, 1968, 81 Stat. 759; Pub. L. 99–433, title V, § 501(a)(6), Oct. 1, 1986, 100 Stat. 1038; Pub. L. 103–337, div. A, title IX, § 902(a), Oct. 5, 1994, 108 Stat. 2823; renumbered § 7017, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 159, § 3017; Pub. L. 89–718, § 23, Nov. 2, 1966, 80 Stat. 1118; Pub. L. 90–235, § 4(a)(7), Jan. 2, 1968, 81 Stat. 759; Pub. L. 99–433, title V, § 501(a)(6), Oct. 1, 1986, 100 Stat. 1038; Pub. L. 103–337, div. A, title IX, § 902(a), Oct. 5, 1994, 108 Stat. 2823; renumbered § 7017, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3017(a) 3017(b) | 5:181–5(b). 5:181–5(c). | June 28, 1950, ch. 383, § 102 (less (a)), 64 Stat. 265. |
+| 3017(a) 3017(b) | 5:181–5(b). 5:181–5(c). | June 28, 1950, ch. 383, § 102 (less (a)), 64 Stat. 265. |
 
 In subsection (a), the word “person” is substituted for the words “officer of the United States”. The words “until a successor is appointed” are omitted as surplusage.
 
@@ -847,7 +847,7 @@ Subsection (b) is substituted for 5:181–5(c) and states the effect of section 
 
 **References in Text**
 
-Section 3347 of title 5, referred to in text, was repealed and a new section 3347 was enacted by Pub. L. 105–277, div. C, title I, § 151(b), Oct. 21, 1998, 112 Stat. 2681–611, and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See section 3345 of Title 5, Government Organization and Employees.
+Section 3347 of title 5, referred to in text, was repealed and a new section 3347 was enacted by Pub. L. 105–277, div. C, title I, § 151(b), Oct. 21, 1998, 112 Stat. 2681–611, and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See section 3345 of Title 5, Government Organization and Employees.
 
 **Amendments**
 
@@ -855,7 +855,7 @@ Section 3347 of title 5, referred to in text, was repealed and a new section 334
 
 1994—Pars. (3), (4). Pub. L. 103–337 added par. (3) and redesignated former par. (3) as (4).
 
-1986—Pub. L. 99–433 struck out subsec. (a) designation, substituted “, in the order prescribed by the Secretary of the Army and approved by the Secretary of Defense” for “in order of their length of service as such” in par. (2), and struck out subsec. (b) which read as follows: “Performance of the duties of the Secretary by the Chief of Staff or any officer of the Army designated under section 3347 of title 5 shall not be considered as the holding of a civil office within the meaning of section 973(b) of this title.”
+1986—Pub. L. 99–433 struck out subsec. (a) designation, substituted “, in the order prescribed by the Secretary of the Army and approved by the Secretary of Defense” for “in order of their length of service as such” in par. (2), and struck out subsec. (b) which read as follows: “Performance of the duties of the Secretary by the Chief of Staff or any officer of the Army designated under section 3347 of title 5 shall not be considered as the holding of a civil office within the meaning of section 973(b) of this title.”
 
 1968—Subsec. (b). Pub. L. 90–235 substituted “section 973(b) of this title” for “section 3544(b) of this title”.
 
@@ -873,7 +873,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
-## § 7018. Administrative Assistant
+## § 7018. Administrative Assistant
 
 **(a)** There is an Administrative Assistant in the Department of the Army. The Administrative Assistant shall be appointed by the Secretary of the Army and shall perform duties that the Secretary considers appropriate.
 
@@ -881,7 +881,7 @@ For order of succession in event of death, permanent disability, or resignation 
 
 **(c)** The Secretary may authorize the Administrative Assistant to sign, during the temporary absence of the Secretary, any paper requiring his signature. In such a case, the Administrative Assistant’s signature has the same effect as the Secretary’s signature.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 159, § 3016; renumbered § 3018, Pub. L. 99–433, title V, § 501(a)(3), Oct. 1, 1986, 100 Stat. 1034; renumbered § 7018, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 159, § 3016; renumbered § 3018, Pub. L. 99–433, title V, § 501(a)(3), Oct. 1, 1986, 100 Stat. 1034; renumbered § 7018, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Historical and Revision Notes**
 
@@ -896,7 +896,7 @@ In subsections (a), (b), and (c), the title “Administrative Assistant” is su
 
 In subsection (a), the words “an inferior officer” are omitted, since the Secretary’s authority to appoint the Administrative Assistant makes the office an inferior office within the meaning of the Constitution. The words “perform duties that the Secretary considers appropriate” are substituted for the words “to be employed therein as he shall deem proper”.
 
-In subsection (b), the words “During a vacancy in the office of Secretary \* \* \* has” are substituted for the words “whenever the Secretary of the Army shall be removed from office by the President of the United States, or in any other case of vacancy, shall, during such vacancy have the”. The word “of” is substituted for the words “appertaining to”.
+In subsection (b), the words “During a vacancy in the office of Secretary \* \* \* has” are substituted for the words “whenever the Secretary of the Army shall be removed from office by the President of the United States, or in any other case of vacancy, shall, during such vacancy have the”. The word “of” is substituted for the words “appertaining to”.
 
 In subsection (c), the words “during the temporary absence of the Secretary” are substituted for the words “When, from illness or other cause, the Secretary of War is temporarily absent from the War Department”. The words “requisitions upon the Treasury Department” are omitted as surplusage. The last sentence is substituted for 5:187 (words after semicolon).
 
@@ -914,13 +914,13 @@ In subsection (c), the words “during the temporary absence of the Secretary”
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7019. General Counsel
+## § 7019. General Counsel
 
 **(a)** There is a General Counsel of the Department of the Army, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 **(b)** The General Counsel shall perform such functions as the Secretary of the Army may prescribe.
 
-(Added Pub. L. 99–433, title V, § 501(a)(7), Oct. 1, 1986, 100 Stat. 1038, § 3019; amended Pub. L. 100–456, div. A, title VII, § 703(a), Sept. 29, 1988, 102 Stat. 1996; renumbered § 7019, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 99–433, title V, § 501(a)(7), Oct. 1, 1986, 100 Stat. 1038, § 3019; amended Pub. L. 100–456, div. A, title VII, § 703(a), Sept. 29, 1988, 102 Stat. 1996; renumbered § 7019, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Editorial Notes**
 
@@ -928,7 +928,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 2018—Pub. L. 115–232 renumbered section 3019 of this title as this section.
 
-1988—Subsec. (a). Pub. L. 100–456 inserted “, by and with the advice and consent of the Senate” before period at end.
+1988—Subsec. (a). Pub. L. 100–456 inserted “, by and with the advice and consent of the Senate” before period at end.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -938,9 +938,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **Effective Date of 1988 Amendment**
 
-Pub. L. 100–456, div. A, title VII, § 703(c), Sept. 29, 1988, 102 Stat. 1996, provided that: “The amendments made by this section [amending this section and sections 5019 and 8019 of this title] shall apply to appointments made under sections 3019, 5019, and 8019 [now 7019, 8019, and 9019], respectively, of title 10, United States Code, on and after the date of the enactment of this Act [Sept. 29, 1988].”
+Pub. L. 100–456, div. A, title VII, § 703(c), Sept. 29, 1988, 102 Stat. 1996, provided that: “The amendments made by this section [amending this section and sections 5019 and 8019 of this title] shall apply to appointments made under sections 3019, 5019, and 8019 [now 7019, 8019, and 9019], respectively, of title 10, United States Code, on and after the date of the enactment of this Act [Sept. 29, 1988].”
 
-## § 7020. Inspector General
+## § 7020. Inspector General
 
 **(a)** There is an Inspector General of the Army who shall be detailed to such position by the Secretary of the Army from the general officers of the Army. An officer may not be detailed to such position for a tour of duty of more than four years, except that the Secretary may extend such a tour of duty if he makes a special finding that the extension is necessary in the public interest.
 
@@ -956,7 +956,7 @@ Pub. L. 100–456, div. A, title VII, § 703(c), Sept. 29, 1988, 102 Stat. 199
 
 **(e)** The Inspector General shall have such deputies and assistants as the Secretary of the Army may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Army for a tour of duty of not more than four years, under a procedure prescribed by the Secretary.
 
-(Added Pub. L. 99–433, title V, § 501(a)(7), Oct. 1, 1986, 100 Stat. 1038, § 3020; renumbered § 7020, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; amended Pub. L. 117–286, § 4(b)(30), Dec. 27, 2022, 136 Stat. 4346.)
+(Added Pub. L. 99–433, title V, § 501(a)(7), Oct. 1, 1986, 100 Stat. 1038, § 3020; renumbered § 7020, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838; amended Pub. L. 117–286, § 4(b)(30), Dec. 27, 2022, 136 Stat. 4346.)
 
 **Editorial Notes**
 
@@ -976,11 +976,11 @@ Provisions similar to those in this section were contained in section 3039 of th
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7021. Army Reserve Forces Policy Committee
+## § 7021. Army Reserve Forces Policy Committee
 
 There is in the Office of the Secretary of the Army an Army Reserve Forces Policy Committee. The functions, membership, and organization of that committee are set forth in section 10302 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, § 1661(b)(4)(A), Oct. 5, 1994, 108 Stat. 2982, § 3021; renumbered § 7021, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 103–337, div. A, title XVI, § 1661(b)(4)(A), Oct. 5, 1994, 108 Stat. 2982, § 3021; renumbered § 7021, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Editorial Notes**
 
@@ -998,7 +998,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under section 10001 of this title.
 
-## § 7022. Financial management
+## § 7022. Financial management
 
 **(a)** The Secretary of the Army shall provide that the Assistant Secretary of the Army for Financial Management shall direct and manage financial management activities and operations of the Department of the Army, including ensuring that financial management systems of the Department of the Army comply with subsection (b). The authority of the Assistant Secretary for such direction and management shall include the authority to—
 
@@ -1034,7 +1034,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 **(d)** The Assistant Secretary of the Army for Financial Management shall transmit to the Secretary of the Army a report each year on the activities of the Assistant Secretary during the preceding year. Each such report shall include a description and analysis of the status of Department of the Army financial management.
 
-(Added Pub. L. 100–456, div. A, title VII, § 702(a)(2), Sept. 29, 1988, 102 Stat. 1993, § 3022; amended Pub. L. 103–337, div. A, title X, § 1070(a)(15), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, § 1503(b)(1), Feb. 10, 1996, 110 Stat. 512; renumbered § 7022, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 100–456, div. A, title VII, § 702(a)(2), Sept. 29, 1988, 102 Stat. 1993, § 3022; amended Pub. L. 103–337, div. A, title X, § 1070(a)(15), Oct. 5, 1994, 108 Stat. 2856; Pub. L. 104–106, div. A, title XV, § 1503(b)(1), Feb. 10, 1996, 110 Stat. 512; renumbered § 7022, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Editorial Notes**
 
@@ -1056,21 +1056,21 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 Section effective Jan. 20, 1989, see section 702(e)(1) of Pub. L. 100–456, set out as an Effective Date of 1988 Amendment note under section 7016 of this title.
 
-## § 7023. Chief of Legislative Liaison
+## § 7023. Chief of Legislative Liaison
 
 **(a)** There is a Chief of Legislative Liaison in the Department of the Army.
 
 **(b)** The Chief of Legislative Liaison shall perform legislative affairs functions as specified for the Office of the Secretary of the Army by section 7014(c)(1)(F) of this title.
 
-(Added Pub. L. 107–314, div. A, title V, § 504(c)(1)(A), Dec. 2, 2002, 116 Stat. 2531, § 3023; amended Pub. L. 114–328, div. A, title V, § 502(j), Dec. 23, 2016, 130 Stat. 2103; renumbered § 7023 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(a), 809(a), Aug. 13, 2018, 132 Stat. 1838, 1840.)
+(Added Pub. L. 107–314, div. A, title V, § 504(c)(1)(A), Dec. 2, 2002, 116 Stat. 2531, § 3023; amended Pub. L. 114–328, div. A, title V, § 502(j), Dec. 23, 2016, 130 Stat. 2103; renumbered § 7023 and amended Pub. L. 115–232, div. A, title VIII, §§ 808(a), 809(a), Aug. 13, 2018, 132 Stat. 1838, 1840.)
 
 **Editorial Notes**
 
 **Amendments**
 
-2018—Pub. L. 115–232, § 808(a), renumbered section 3023 of this title as this section.
+2018—Pub. L. 115–232, § 808(a), renumbered section 3023 of this title as this section.
 
-Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 7014(c)(1)(F)” for “section 3014(c)(1)(F)”.
+Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 7014(c)(1)(F)” for “section 3014(c)(1)(F)”.
 
 2016—Subsec. (a). Pub. L. 114–328 struck out second sentence which read as follows: “An officer assigned to that position shall be an officer in the grade of major general.”
 
@@ -1080,7 +1080,7 @@ Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 7014(c)(1)(F
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
-## § 7024. Director of Small Business Programs
+## § 7024. Director of Small Business Programs
 
 **(a) Director.—** There is a Director of Small Business Programs in the Department of the Army. The Director is appointed by the Secretary of the Army.
 
@@ -1092,7 +1092,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(2)** Section 15(k) of the Small Business Act (15 U.S.C. 644(k)), except for the designations of the Director and the Office, applies to the Director of Small Business Programs.
 
-(Added Pub. L. 109–163, div. A, title IX, § 904(c)(1), Jan. 6, 2006, 119 Stat. 3400, § 3024; renumbered § 7024, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 109–163, div. A, title IX, § 904(c)(1), Jan. 6, 2006, 119 Stat. 3400, § 3024; renumbered § 7024, Pub. L. 115–232, div. A, title VIII, § 808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 **Editorial Notes**
 

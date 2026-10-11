@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1994—Pub. L. 103–409, § 2(b), Oct. 25, 1994, 108 Stat. 4232, added item 8714d.
+1994—Pub. L. 103–409, § 2(b), Oct. 25, 1994, 108 Stat. 4232, added item 8714d.
 
-1988—Pub. L. 100–238, title I, § 108(a)(2)(B), Jan. 8, 1988, 101 Stat. 1747, added item 8713.
+1988—Pub. L. 100–238, title I, § 108(a)(2)(B), Jan. 8, 1988, 101 Stat. 1747, added item 8713.
 
-1984—Pub. L. 98–353, title II, § 208(b), July 10, 1984, 98 Stat. 351, inserted “; assignment of ownership” in item 8706.
+1984—Pub. L. 98–353, title II, § 208(b), July 10, 1984, 98 Stat. 351, inserted “; assignment of ownership” in item 8706.
 
-1980—Pub. L. 96–427, §§ 2(e), 7(b), 8(c), and 9(b), Oct. 10, 1980, 94 Stat. 1832, 1836, 1837, added items 8714b and 8714c, substituted “Definitions” for “Definition” in item 8701, and struck out item 8713 “Advisory committee”.
+1980—Pub. L. 96–427, §§ 2(e), 7(b), 8(c), and 9(b), Oct. 10, 1980, 94 Stat. 1832, 1836, 1837, added items 8714b and 8714c, substituted “Definitions” for “Definition” in item 8701, and struck out item 8713 “Advisory committee”.
 
-1967—Pub. L. 90–206, title IV, § 404(2), Dec. 16, 1967, 81 Stat. 648, added item 8714a.
+1967—Pub. L. 90–206, title IV, § 404(2), Dec. 16, 1967, 81 Stat. 648, added item 8714a.
 
-Pub. L. 90–83, § 1(94), Sept. 11, 1967, 81 Stat. 219, substituted “Advisory committee” for “Advisors” in item 8713.
+Pub. L. 90–83, § 1(94), Sept. 11, 1967, 81 Stat. 219, substituted “Advisory committee” for “Advisors” in item 8713.
 
-## § 8701. Definitions
+## § 8701. Definitions
 
 **(a)** For the purpose of this chapter, “employee” means—
 
@@ -47,9 +47,9 @@ Pub. L. 90–83, § 1(94), Sept. 11, 1967, 81 Stat. 219, substituted “Adviso
 
 **(6)** an individual first employed by the government of the District of Columbia before October 1, 1987;
 
-**(7)** an individual employed by Gallaudet College; 1
+**(7)** an individual employed by Gallaudet College; 1
 
-<sup>1</sup>  See Change of Name note below.
+<sup>1</sup> See Change of Name note below.
 
 **(8)** an individual employed by a county committee established under section 590h(b) of title 16;
 
@@ -89,17 +89,17 @@ In the case of any former employee entitled to coverage under this chapter, the 
 
 **(2)** For the purpose of this subsection, “dependent”, in the case of any child, means that the individual involved was, at the time of the child’s death, either living with or contributing to the support of the child, as determined in accordance with the regulations the Office shall prescribe.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 592; Pub. L. 91–418, § 3(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, § 1(a), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(51), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, § 1209(b), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–427, §§ 2(a), 8(b), Oct. 10, 1980, 94 Stat. 1831, 1837; Pub. L. 98–353, title II, § 205, July 10, 1984, 98 Stat. 350; Pub. L. 99–335, title II, § 207(k)(1), June 6, 1986, 100 Stat. 597; Pub. L. 100–679, § 13(b), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 105–311, §§ 3(1), 4, Oct. 30, 1998, 112 Stat. 2950; Pub. L. 114–136, § 2(c)(4), Mar. 18, 2016, 130 Stat. 305.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 592; Pub. L. 91–418, § 3(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, § 1(a), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, § 2(a)(51), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, § 1209(b), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–427, §§ 2(a), 8(b), Oct. 10, 1980, 94 Stat. 1831, 1837; Pub. L. 98–353, title II, § 205, July 10, 1984, 98 Stat. 350; Pub. L. 99–335, title II, § 207(k)(1), June 6, 1986, 100 Stat. 597; Pub. L. 100–679, § 13(b), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 105–311, §§ 3(1), 4, Oct. 30, 1998, 112 Stat. 2950; Pub. L. 114–136, § 2(c)(4), Mar. 18, 2016, 130 Stat. 305.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 2 U.S.C. 126. | Sept. 1, 1954, ch. 1208, § 603, 68 Stat. 1116. |
-|  | 5 U.S.C. 2091(a) (1st sentence, less words between 6th and 7th commas), (b), (d) (1st sentence, less words between 1st and 2d commas). | Aug. 17, 1954, ch. 752, § 2(a) (1st sentence, less words between 6th and 7th commas), (b), 68 Stat. 736. Aug. 1, 1956, ch. 837, § 501(c)(1) (as applicable to § 2 (b)), 70 Stat. 882. Aug. 2, 1956, ch. 901, § 1, 70 Stat. 955. July 1, 1960, Pub. L. 86–568, § 115(c) “(d) (1st sentence, less words between 1st and 2d commas)”. 74 Stat. 302. |
-|  |  | Aug. 31, 1964, Pub. L. 88–531 § 2, 78 Stat. 737. |
-|  | [Uncodified]. | Aug. 25, 1958, Pub. L. 85–745, § 1(b) (last sentence, as applicable to the Federal Employees’ Group Life Insurance Act of 1954), 72 Stat. 838. |
-| (b) | 5 U.S.C. 2358(c) (less applicability to the Civil Service Retirement Act). | July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Service Retirement Act), 73 Stat. 217. |
+| (a) | 2 U.S.C. 126. | Sept. 1, 1954, ch. 1208, § 603, 68 Stat. 1116. |
+|  | 5 U.S.C. 2091(a) (1st sentence, less words between 6th and 7th commas), (b), (d) (1st sentence, less words between 1st and 2d commas). | Aug. 17, 1954, ch. 752, § 2(a) (1st sentence, less words between 6th and 7th commas), (b), 68 Stat. 736. Aug. 1, 1956, ch. 837, § 501(c)(1) (as applicable to § 2 (b)), 70 Stat. 882. Aug. 2, 1956, ch. 901, § 1, 70 Stat. 955. July 1, 1960, Pub. L. 86–568, § 115(c) “(d) (1st sentence, less words between 1st and 2d commas)”. 74 Stat. 302. |
+|  |  | Aug. 31, 1964, Pub. L. 88–531 § 2, 78 Stat. 737. |
+|  | [Uncodified]. | Aug. 25, 1958, Pub. L. 85–745, § 1(b) (last sentence, as applicable to the Federal Employees’ Group Life Insurance Act of 1954), 72 Stat. 838. |
+| (b) | 5 U.S.C. 2358(c) (less applicability to the Civil Service Retirement Act). | July 17, 1959, Pub. L. 86–91, § 10(c) (less applicability to the Civil Service Retirement Act), 73 Stat. 217. |
 
 The definition of “Congressional employee” in section 2107 of this title includes an Official Reporter of Debates of the Senate and an individual employed by an Official Reporter of Debates of the Senate so that the inclusion of “a Congressional employee” in subsection (a)(3) provides the coverage for those individuals which was given by former section 126 of title 2.
 
@@ -125,9 +125,9 @@ Section 5 of the Presidential Transition Act of 1963, referred to in subsec. (a)
 
 Subsec. (a)(10). Pub. L. 114–136 substituted “section 5” for “section 4”.
 
-1998—Subsec. (c). Pub. L. 105–311, § 3(1), substituted a period for comma after “$10,000” in par. (2) and struck out “except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of this title, rounded to the next higher multiple of $1,000, plus $2,000.” before last sentence.
+1998—Subsec. (c). Pub. L. 105–311, § 3(1), substituted a period for comma after “$10,000” in par. (2) and struck out “except that the amount of insurance may not exceed the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of this title, rounded to the next higher multiple of $1,000, plus $2,000.” before last sentence.
 
-Subsec. (d)(1)(B). Pub. L. 105–311, § 4, inserted “or foster child” after “stepchild” in two places in introductory provisions.
+Subsec. (d)(1)(B). Pub. L. 105–311, § 4, inserted “or foster child” after “stepchild” in two places in introductory provisions.
 
 1988—Subsec. (a)(10). Pub. L. 100–679 added par. (10).
 
@@ -135,11 +135,11 @@ Subsec. (d)(1)(B). Pub. L. 105–311, § 4, inserted “or foster child” aft
 
 1984—Subsec. (a)(5) to (9). Pub. L. 98–353 added par. (5) and redesignated former pars. (5) to (8) as (6) to (9), respectively.
 
-1980—Pub. L. 96–427, § 2(a)(1), substituted “Definitions” for “Definition” in section catchline.
+1980—Pub. L. 96–427, § 2(a)(1), substituted “Definitions” for “Definition” in section catchline.
 
-Subsec. (c). Pub. L. 96–427, § 2(a)(2), added subsec. (c).
+Subsec. (c). Pub. L. 96–427, § 2(a)(2), added subsec. (c).
 
-Subsec. (d). Pub. L. 96–427, § 8(b), added subsec. (d).
+Subsec. (d). Pub. L. 96–427, § 8(b), added subsec. (d).
 
 1979—Subsec. (a)(7) to (9). Pub. L. 96–54 struck out cl. (7) which related to coverage within term “employee” of a United States Commissioner, and redesignated cls. (8) and (9) as (7) and (8), respectively.
 
@@ -159,7 +159,7 @@ Gallaudet College, referred to in subsec. (a)(7), redesignated Gallaudet Univers
 
 **Effective Date of 1998 Amendment**
 
-Pub. L. 105–311, § 11, Oct. 30, 1998, 112 Stat. 2954, provided that:
+Pub. L. 105–311, § 11, Oct. 30, 1998, 112 Stat. 2954, provided that:
 
 > **“(a) In General.—** Except as otherwise provided in this Act [see Short Title of 1998 Amendment note below], the amendments made by this Act shall take effect on the date of enactment of this Act [Oct. 30, 1998].
 
@@ -193,7 +193,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–427, § 10, Oct. 10, 1980, 94 Stat. 1838, provided that:
+Pub. L. 96–427, § 10, Oct. 10, 1980, 94 Stat. 1838, provided that:
 
 > **“(a)** Unless otherwise specified, this Act [see Short Title note below] shall take effect on the date of the enactment of this Act [Oct. 10, 1980] and shall have no effect in the case of an employee who died, was separated, or retired before the date of enactment.
 
@@ -215,19 +215,19 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Short Title of 1998 Amendment**
 
-Pub. L. 105–311, § 1, Oct. 30, 1998, 112 Stat. 2950, provided that: “This Act [amending this section and sections 7703, 8706, 8707, and 8714a to 8714c of this title and enacting provisions set out as notes under this section and sections 7703 and 8714b of this title] may be cited as the ‘Federal Employees Life Insurance Improvement Act’.”
+Pub. L. 105–311, § 1, Oct. 30, 1998, 112 Stat. 2950, provided that: “This Act [amending this section and sections 7703, 8706, 8707, and 8714a to 8714c of this title and enacting provisions set out as notes under this section and sections 7703 and 8714b of this title] may be cited as the ‘Federal Employees Life Insurance Improvement Act’.”
 
 **Short Title of 1994 Amendment**
 
-Pub. L. 103–409, § 1, Oct. 25, 1994, 108 Stat. 4230, provided that: “This Act [enacting section 8714d of this title and provisions set out as notes under this section and sections 8704, 8714, and 8901 of this title] may be cited as the ‘FEGLI Living Benefits Act’.”
+Pub. L. 103–409, § 1, Oct. 25, 1994, 108 Stat. 4230, provided that: “This Act [enacting section 8714d of this title and provisions set out as notes under this section and sections 8704, 8714, and 8901 of this title] may be cited as the ‘FEGLI Living Benefits Act’.”
 
 **Short Title of 1980 Amendment**
 
-Pub. L. 96–427, § 1, Oct. 10, 1980, 94 Stat. 1831, provided that: “This Act [enacting sections 8714b and 8714c of this title, amending this section and sections 8704, 8706, 8707, 8709, and 8714a of this title, repealing section 8713 of this title and enacting provisions set out as notes under this section and sections 8704 and 8714a of this title] may be cited as the ‘Federal Employees’ Group Life Insurance Act of 1980’.”
+Pub. L. 96–427, § 1, Oct. 10, 1980, 94 Stat. 1831, provided that: “This Act [enacting sections 8714b and 8714c of this title, amending this section and sections 8704, 8706, 8707, 8709, and 8714a of this title, repealing section 8713 of this title and enacting provisions set out as notes under this section and sections 8704 and 8714a of this title] may be cited as the ‘Federal Employees’ Group Life Insurance Act of 1980’.”
 
 **Construction**
 
-Pub. L. 111–8, div. D, title III, § 307(b), Mar. 11, 2009, 123 Stat. 648, provided that:
+Pub. L. 111–8, div. D, title III, § 307(b), Mar. 11, 2009, 123 Stat. 648, provided that:
 
 > “For purposes of construing and applying chapter 87 of title 5, United States Code, including any adjustment of insurance rates by regulation or otherwise, the following categories of judicial officers shall be deemed to be judges of the United States as described under section 8701 of title 5, United States Code:
 
@@ -245,11 +245,11 @@ Pub. L. 111–8, div. D, title III, § 307(b), Mar. 11, 2009, 123 Stat. 648, p
 
 Similar provisions were contained in the following prior act:
 
-Pub. L. 110–177, title V, § 502(b), Jan. 7, 2008, 121 Stat. 2542.
+Pub. L. 110–177, title V, § 502(b), Jan. 7, 2008, 121 Stat. 2542.
 
 **Open Season**
 
-Pub. L. 105–311, § 9, Oct. 30, 1998, 112 Stat. 2954, provided that:
+Pub. L. 105–311, § 9, Oct. 30, 1998, 112 Stat. 2954, provided that:
 
 > “Beginning not later than 180 days after the date of enactment of this Act [Oct. 30, 1998], the Office of Personnel Management shall conduct an open enrollment opportunity for purposes of chapter 87 of title 5, United States Code, over a period of not less than 8 weeks. During this period, an employee (as defined under section 8701(a) of such title)—
 
@@ -257,7 +257,7 @@ Pub. L. 105–311, § 9, Oct. 30, 1998, 112 Stat. 2954, provided that:
 
 > **“(2)** may, if currently insured for optional life insurance on family members, elect an amount above the minimum insurance on a spouse.”
 
-Pub. L. 103–409, § 3(b), Oct. 25, 1994, 108 Stat. 4232, provided that:
+Pub. L. 103–409, § 3(b), Oct. 25, 1994, 108 Stat. 4232, provided that:
 
 > **“(1)** The Office of Personnel Management shall prescribe regulations under which, beginning not later than 9 months after the date of the enactment of this Act [Oct. 25, 1994], and over a period of not less than 8 weeks—
 
@@ -275,7 +275,7 @@ Pub. L. 103–409, § 3(b), Oct. 25, 1994, 108 Stat. 4232, provided that:
 
 For provisions relating to treatment of certain Federal employees of Saint Elizabeths Hospital under certain Federal employee benefit programs, see section 207(*o*) of Pub. L. 99–335, set out as a note under section 8331 of this title.
 
-## § 8702. Automatic coverage
+## § 8702. Automatic coverage
 
 **(a)** An employee is automatically insured on the date he becomes eligible for insurance and each policy of insurance purchased by the Office of Personnel Management under this chapter shall provide for that automatic coverage.
 
@@ -285,13 +285,13 @@ For provisions relating to treatment of certain Federal employees of Saint Eliza
 
 **(d)** Any services by an officer or employee under this chapter relating to benefits under this chapter shall be deemed, for purposes of section 1342 of title 31, services for emergencies involving the safety of human life or the protection of property.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 593; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 106–398, § 1 [[div. A], title XI, § 1134(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–318; Pub. L. 110–417, [div. A], title XI, § 1103(a), Oct. 14, 2008, 122 Stat. 4616; Pub. L. 116–92, div. A, title XI, § 1110(b), Dec. 20, 2019, 133 Stat. 1600.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 593; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 106–398, § 1 [[div. A], title XI, § 1134(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–318; Pub. L. 110–417, [div. A], title XI, § 1103(a), Oct. 14, 2008, 122 Stat. 4616; Pub. L. 116–92, div. A, title XI, § 1110(b), Dec. 20, 2019, 133 Stat. 1600.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2094(a) (less 1st par.). | Aug. 17, 1954, ch. 752, § 5(a) (less 1st par.), 68 Stat. 738. |
+|  | 5 U.S.C. 2094(a) (less 1st par.). | Aug. 17, 1954, ch. 752, § 5(a) (less 1st par.), 68 Stat. 738. |
 
 In subsection (a), the words “eligible for insurance” are coextensive with and substituted for “eligible under the terms of this chapter”.
 
@@ -313,7 +313,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 2019 Amendment**
 
-Pub. L. 116–92, div. A, title XI, § 1110(d), Dec. 20, 2019, 133 Stat. 1600, provided that: “The amendments made by subsection[s] (a) and (b) [amending this section and section 8905 of this title] shall apply to any lapse in appropriations beginning on or after the date of enactment of this Act [Dec. 20, 2019].”
+Pub. L. 116–92, div. A, title XI, § 1110(d), Dec. 20, 2019, 133 Stat. 1600, provided that: “The amendments made by subsection[s] (a) and (b) [amending this section and section 8905 of this title] shall apply to any lapse in appropriations beginning on or after the date of enactment of this Act [Dec. 20, 2019].”
 
 **Effective Date of 1978 Amendment**
 
@@ -321,7 +321,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Regulations**
 
-Pub. L. 116–92, div. A, title XI, § 1110(c), Dec. 20, 2019, 133 Stat. 1600, provided that:
+Pub. L. 116–92, div. A, title XI, § 1110(c), Dec. 20, 2019, 133 Stat. 1600, provided that:
 
 > **“(1) In general.—** Not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], the Office of Personnel Management shall prescribe regulations to carry out the amendments made by subsections (a) and (b) [amending this section and section 8905 of this title].
 
@@ -329,19 +329,19 @@ Pub. L. 116–92, div. A, title XI, § 1110(c), Dec. 20, 2019, 133 Stat. 1600,
 
 **Applicability**
 
-Pub. L. 106–398, § 1 [[div. A], title XI, § 1134(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–318, provided that: “For purposes of section 8702(c) of title 5, United States Code (as added by subsection (a)), an employee of the Department of Defense who is designated as an emergency essential employee under section 1580 of title 10, United States Code, before the date of the enactment of this Act [Oct. 30, 2000] shall be deemed to be so designated on the date of the enactment of this Act.”
+Pub. L. 106–398, § 1 [[div. A], title XI, § 1134(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–318, provided that: “For purposes of section 8702(c) of title 5, United States Code (as added by subsection (a)), an employee of the Department of Defense who is designated as an emergency essential employee under section 1580 of title 10, United States Code, before the date of the enactment of this Act [Oct. 30, 2000] shall be deemed to be so designated on the date of the enactment of this Act.”
 
-## § 8703. Benefit certificate
+## § 8703. Benefit certificate
 
 The Office of Personnel Management shall arrange to have each insured employee receive a certificate setting forth the benefits to which he is entitled, to whom the benefits are payable, to whom the claims shall be submitted, and summarizing the provisions of the policy principally affecting him. The certificate is issued instead of the certificate which the insurance company would otherwise be required to issue.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 593; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 593; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2098. | Aug. 17, 1954, ch. 752, § 9, 68 Stat. 742. |
+|  | 5 U.S.C. 2098. | Aug. 17, 1954, ch. 752, § 9, 68 Stat. 742. |
 
 The words “each insured employee” are coextensive with and substituted for “each employee insured under such policy”.
 
@@ -359,7 +359,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 8704. Group insurance; amounts
+## § 8704. Group insurance; amounts
 
 **(a)** An employee eligible for insurance is entitled to be insured for an amount of group life insurance equal to—
 
@@ -403,15 +403,15 @@ For any one accident the aggregate amount of group accidental death and dismembe
 
 **(2)** a change in rate of pay under section 5344 or 5349 of this title is deemed effective as of the date of issuance of the order granting the increase or the effective date of the increase, whichever is later, except, that in the case of an employee who dies or retires during the period beginning on the effective date of the increase and ending on the date of the issuance of the order granting the increase, a change in rate of pay under either of such sections shall be deemed as having been in effect for such employee during that period.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 593; Pub. L. 89–737, § 1(3), Nov. 2, 1966, 80 Stat. 1164; Pub. L. 90–206, title IV, § 401, Dec. 16, 1967, 81 Stat. 646; Pub. L. 92–392, § 11, Aug. 19, 1972, 86 Stat. 575; Pub. L. 95–454, title VIII, § 801(a)(3)(E), title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1222, 1224; Pub. L. 96–427, § 2(b)–(d), Oct. 10, 1980, 94 Stat. 1831, 1832; Pub. L. 100–238, title I, § 103(b), Jan. 8, 1988, 101 Stat. 1744.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 593; Pub. L. 89–737, § 1(3), Nov. 2, 1966, 80 Stat. 1164; Pub. L. 90–206, title IV, § 401, Dec. 16, 1967, 81 Stat. 646; Pub. L. 92–392, § 11, Aug. 19, 1972, 86 Stat. 575; Pub. L. 95–454, title VIII, § 801(a)(3)(E), title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1222, 1224; Pub. L. 96–427, § 2(b)–(d), Oct. 10, 1980, 94 Stat. 1831, 1832; Pub. L. 100–238, title I, § 103(b), Jan. 8, 1988, 101 Stat. 1744.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a)–(c) | 5 U.S.C. 2092 (less (d)) | Aug. 17, 1954, ch. 752, § 3 (less (d)), 68 Stat. 737. |
-| (d)(1) | [Uncodified]. | Aug. 23, 1958, Pub. L. 85–737, § 3, 72 Stat. 831. |
-| (d)(2) | 5 U.S.C. 1183. | Sept. 2, 1958, Pub. L. 85–872, § 3, 72 Stat. 1697. |
+| (a)–(c) | 5 U.S.C. 2092 (less (d)) | Aug. 17, 1954, ch. 752, § 3 (less (d)), 68 Stat. 737. |
+| (d)(1) | [Uncodified]. | Aug. 23, 1958, Pub. L. 85–737, § 3, 72 Stat. 831. |
+| (d)(2) | 5 U.S.C. 1183. | Sept. 2, 1958, Pub. L. 85–872, § 3, 72 Stat. 1697. |
 
 In subsection (a), the words “An employee eligible for insurance is entitled” are coextensive with and substituted for “Each employee to whom this chapter applies shall be eligible”.
 
@@ -423,7 +423,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1988—Subsec. (c)(2). Pub. L. 100–238 inserted “or 8401(17)” after “8331(20)”.
 
-1980—Subsec. (a). Pub. L. 96–427, § 2(b), substituted new formula for group life insurance to be computed by multiplying the basic insurance with a factor to be obtained from the table based on age for provisions calling for group life insurance and an equal amount of death and dismemberment insurance in accordance with a schedule based on the basic pay with special provision for extension by the amount of increase in the annual rates of basic pay for positions at level II of the Executive Schedule under section 5313 of this title. Prior to this amendment, the table was as follows:
+1980—Subsec. (a). Pub. L. 96–427, § 2(b), substituted new formula for group life insurance to be computed by multiplying the basic insurance with a factor to be obtained from the table based on age for provisions calling for group life insurance and an equal amount of death and dismemberment insurance in accordance with a schedule based on the basic pay with special provision for extension by the amount of increase in the annual rates of basic pay for positions at level II of the Executive Schedule under section 5313 of this title. Prior to this amendment, the table was as follows:
 
 <table>
 <tr><th colspan="2">If annual pay is—</th><th rowspan="2">The amount of group life insurance is—</th><th rowspan="2">The amount of group accidental death and dismemberment insurance is—</th></tr>
@@ -453,13 +453,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 <tr><td>29,000</td><td></td><td>32,000</td><td>32,000</td></tr>
 </table>
 
-Subsec. (b). Pub. L. 96–427, § 2(c), inserted provision that an employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance with this subsection and substituted reference to employee’s basic insurance amount for reference to the amount shown in the schedule in subsec. (a) of this section in four places.
+Subsec. (b). Pub. L. 96–427, § 2(c), inserted provision that an employee eligible for insurance is entitled to be insured for group accidental death and dismemberment insurance in accordance with this subsection and substituted reference to employee’s basic insurance amount for reference to the amount shown in the schedule in subsec. (a) of this section in four places.
 
-Subsec. (c). Pub. L. 96–427, § 2(d), expanded definition of “annual pay” to include premium pay under section 5545(c)(2) of this title with respect to a law enforcement officer as defined in section 8331(20) of this title.
+Subsec. (c). Pub. L. 96–427, § 2(d), expanded definition of “annual pay” to include premium pay under section 5545(c)(2) of this title with respect to a law enforcement officer as defined in section 8331(20) of this title.
 
-1978—Subsecs. (b), (c). Pub. L. 95–454, § 906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
+1978—Subsecs. (b), (c). Pub. L. 95–454, § 906(a)(2), (3), substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively, wherever appearing.
 
-Subsec. (d)(1). Pub. L. 95–454, § 801(a)(3)(E), substituted “subchapter VI of chapter 53” for “section 5337”.
+Subsec. (d)(1). Pub. L. 95–454, § 801(a)(3)(E), substituted “subchapter VI of chapter 53” for “section 5337”.
 
 1972—Subsec. (d)(2). Pub. L. 92–392 substituted “section 5344 or 5349 of this title” for “section 5343 of this title” and added the exception.
 
@@ -477,7 +477,7 @@ Amendment by Pub. L. 100–238 effective Jan. 1, 1987, see section 103(f) of Pub
 
 Amendment by section 2(d) of Pub. L. 96–427 applicable with respect to premium pay payable under section 5545(c)(2) of this title from and after the first day of the first pay period which begins on or after Oct. 10, 1980, see section 10(b) of Pub. L. 96–427, set out as a note under section 8701 of this title.
 
-Pub. L. 96–427, § 2(f), Oct. 10, 1980, 94 Stat. 1832, provided that: “Subsections (b) and (c) of this section [amending this section] shall take effect beginning with the first pay period beginning on or after October 1, 1981.”
+Pub. L. 96–427, § 2(f), Oct. 10, 1980, 94 Stat. 1832, provided that: “Subsections (b) and (c) of this section [amending this section] shall take effect beginning with the first pay period beginning on or after October 1, 1981.”
 
 **Effective Date of 1978 Amendment**
 
@@ -491,7 +491,7 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 **Effective Date of 1967 Amendment**
 
-Pub. L. 90–206, title IV, § 405(a), Dec. 16, 1967, 81 Stat. 648, provided that: “The amendments made by sections 401 to 403, inclusive, of this Act [amending this section and sections 8707 and 8708 of this title] shall take effect on the first day of the first pay period which begins on or after the sixtieth day following the date of enactment [Dec. 16, 1967]. In the case of an employee who dies or retires during the period beginning on the date of enactment of this Act and prior to the effective date prescribed by this subsection, the amount of insurance shall be determined as if the amendments made by section 401 [amending this section] were in effect for such employee during such period.”
+Pub. L. 90–206, title IV, § 405(a), Dec. 16, 1967, 81 Stat. 648, provided that: “The amendments made by sections 401 to 403, inclusive, of this Act [amending this section and sections 8707 and 8708 of this title] shall take effect on the first day of the first pay period which begins on or after the sixtieth day following the date of enactment [Dec. 16, 1967]. In the case of an employee who dies or retires during the period beginning on the date of enactment of this Act and prior to the effective date prescribed by this subsection, the amount of insurance shall be determined as if the amendments made by section 401 [amending this section] were in effect for such employee during such period.”
 
 **Effective Date of 1966 Amendment**
 
@@ -499,11 +499,11 @@ Amendment by Pub. L. 89–737 applicable with respect to premium pay payable fro
 
 **Retroactive Effect of 1967 Amendment**
 
-Pub. L. 90–206, title IV, § 405(c), Dec. 16, 1967, 81 Stat. 648, provided that: “The amendments made by sections 401 to 404, inclusive, of this Act [enacting section 8714a of this title and amending this section and sections 8707 and 8708 of this title] shall have no effect in the case of an employee who died, was finally separated, or retired prior to the date of enactment [Dec. 16, 1967].”
+Pub. L. 90–206, title IV, § 405(c), Dec. 16, 1967, 81 Stat. 648, provided that: “The amendments made by sections 401 to 404, inclusive, of this Act [enacting section 8714a of this title and amending this section and sections 8707 and 8708 of this title] shall have no effect in the case of an employee who died, was finally separated, or retired prior to the date of enactment [Dec. 16, 1967].”
 
 **1967 Adjustment in Amount of Insurance**
 
-Pub. L. 90–206, title II, § 220(b), Dec. 16, 1967, 81 Stat. 639, provided that:
+Pub. L. 90–206, title II, § 220(b), Dec. 16, 1967, 81 Stat. 639, provided that:
 
 > “For the purposes of determining the amount of insurance for which an individual is eligible chapter 87 of title 5, United States Code, relating to group life insurance for Federal employees—
 
@@ -513,7 +513,7 @@ Pub. L. 90–206, title II, § 220(b), Dec. 16, 1967, 81 Stat. 639, provided t
 
 [Section 220(b) of Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a) (1) of Pub. L. 90–206, set out as an Effective Date note under section 3110 of this title.]
 
-## § 8705. Death claims; order of precedence; escheat
+## § 8705. Death claims; order of precedence; escheat
 
 **(a)** Except as provided in subsection (e), the amount of group life insurance and group accidental death insurance in force on an employee at the date of his death shall be paid, on the establishment of a valid claim, to the person or persons surviving at the date of his death, in the following order of precedence:
 
@@ -549,7 +549,7 @@ Sixth, if none of the above, to other next of kin of the employee entitled under
 
 **(4)** The Office shall prescribe any regulations necessary to carry out this subsection, including regulations for the application of this subsection in the event that two or more decrees, orders, or agreements, are received with respect to the same amount.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 594; Pub. L. 90–83, § 1(91), Sept. 11, 1967, 81 Stat. 219; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, § 1(b), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 105–205, § 1, July 22, 1998, 112 Stat. 683.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 594; Pub. L. 90–83, § 1(91), Sept. 11, 1967, 81 Stat. 219; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, § 1(b), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 105–205, § 1, July 22, 1998, 112 Stat. 683.)
 
 **Historical and Revision Notes**
 
@@ -557,7 +557,7 @@ Sixth, if none of the above, to other next of kin of the employee entitled under
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2093. | Aug. 17, 1954, ch. 752, § 4, 68 Stat. 738. Aug. 28, 1962, Pub. L. 87–611, § 1, 76 Stat. 406. |
+|  | 5 U.S.C. 2093. | Aug. 17, 1954, ch. 752, § 4, 68 Stat. 738. Aug. 28, 1962, Pub. L. 87–611, § 1, 76 Stat. 406. |
 
 In subsection (c), the words “Employees’ Life Insurance Fund” are substituted for “fund created pursuant to section 2094(c) of this title”.
 
@@ -567,7 +567,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8705(a) | 5 App.: 2093. | Mar. 23, 1966, Pub. L. 89–373, § 1, 80 Stat. 78. |
+| 8705(a) | 5 App.: 2093. | Mar. 23, 1966, Pub. L. 89–373, § 1, 80 Stat. 78. |
 
 In subsection (a), “Civil Service Commission” is substituted for “Commission” on authority of former 5 U.S.C. 2091(a).
 
@@ -577,9 +577,9 @@ In subsection (c), “Commission” is substituted for “Civil Service Commissi
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–205, § 1(1), substituted “Except as provided in subsection (e), the” for “The”.
+1998—Subsec. (a). Pub. L. 105–205, § 1(1), substituted “Except as provided in subsection (e), the” for “The”.
 
-Subsec. (e). Pub. L. 105–205, § 1(2), added subsec. (e).
+Subsec. (e). Pub. L. 105–205, § 1(2), added subsec. (e).
 
 1978—Subsec. (a). Pub. L. 95–583 struck out “or (c)” after “section 8706(b)”.
 
@@ -595,7 +595,7 @@ Amendment by Pub. L. 95–583 effective Nov. 2, 1978, see section 3 of Pub. L. 9
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 8706. Termination of insurance; assignment of ownership
+## § 8706. Termination of insurance; assignment of ownership
 
 **(a)** A policy purchased under this chapter shall contain a provision, approved by the Office of Personnel Management, to the effect that insurance on an employee stops on his separation from the service or 12 months after discontinuance of his pay, whichever is earlier, subject to a provision for temporary extension of life insurance coverage and for conversion to an individual policy of life insurance under conditions approved by the Office. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.
 
@@ -649,7 +649,7 @@ life insurance, without accidental death and dismemberment insurance, may be con
 
 **(h)** The insurance of an employee under a policy purchased under section 8709 shall not be invalidated based on a finding that the employee erroneously became insured, or erroneously continued insurance upon retirement or entitlement to compensation under subchapter I of chapter 81 of this title, if such finding occurs after the erroneous insurance and applicable withholdings have been in force for 2 years during the employee’s lifetime.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–83, § 1(92), Sept. 11, 1967, 81 Stat. 219; Pub. L. 92–529, Oct. 21, 1972, 86 Stat. 1050; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, § 1(a), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, § 3(a), Oct. 10, 1980, 94 Stat. 1832; Pub. L. 98–353, title II, §§ 206, 208, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–53, § 3(b), June 17, 1985, 99 Stat. 95; Pub. L. 99–335, title II, § 207(k)(2), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 102–378, § 2(74), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–336, § 4, Oct. 3, 1994, 108 Stat. 2662; Pub. L. 105–205, § 2, July 22, 1998, 112 Stat. 683; Pub. L. 105–311, § 5, Oct. 30, 1998, 112 Stat. 2951; Pub. L. 110–181, div. A, title XI, § 1102, Jan. 28, 2008, 122 Stat. 345.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–83, § 1(92), Sept. 11, 1967, 81 Stat. 219; Pub. L. 92–529, Oct. 21, 1972, 86 Stat. 1050; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, § 1(a), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, § 3(a), Oct. 10, 1980, 94 Stat. 1832; Pub. L. 98–353, title II, §§ 206, 208, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–53, § 3(b), June 17, 1985, 99 Stat. 95; Pub. L. 99–335, title II, § 207(k)(2), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 102–378, § 2(74), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–336, § 4, Oct. 3, 1994, 108 Stat. 2662; Pub. L. 105–205, § 2, July 22, 1998, 112 Stat. 683; Pub. L. 105–311, § 5, Oct. 30, 1998, 112 Stat. 2951; Pub. L. 110–181, div. A, title XI, § 1102, Jan. 28, 2008, 122 Stat. 345.)
 
 **Historical and Revision Notes**
 
@@ -657,10 +657,10 @@ life insurance, without accidental death and dismemberment insurance, may be con
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a)–(c) | 5 U.S.C. 2095. | Aug. 17, 1954, ch. 752, § 6, 68 Stat. 739. Aug. 11, 1955, ch. 794, § 2(a), 69 Stat. 677. |
-|  |  | May 28, 1956, ch. 328, § 1, 70 Stat. 213. |
-|  |  | Sept. 23, 1959, Pub. L. 86–377, § 4(c), 73 Stat. 701. |
-| (d) | 5 U.S.C. 2091(c). | Aug. 1, 1956, ch. 837, § 501(c)(1) (less applicability to § 2(b)), 70 Stat. 882. |
+| (a)–(c) | 5 U.S.C. 2095. | Aug. 17, 1954, ch. 752, § 6, 68 Stat. 739. Aug. 11, 1955, ch. 794, § 2(a), 69 Stat. 677. |
+|  |  | May 28, 1956, ch. 328, § 1, 70 Stat. 213. |
+|  |  | Sept. 23, 1959, Pub. L. 86–377, § 4(c), 73 Stat. 701. |
+| (d) | 5 U.S.C. 2091(c). | Aug. 1, 1956, ch. 837, § 501(c)(1) (less applicability to § 2(b)), 70 Stat. 882. |
 
 In subsection (b), the words “armed forces” are coextensive with and substituted for “Army, Navy, Air Force, and Marine Corps, or Coast Guard of the United States” in view of the definition of “armed forces” in section 2101.
 
@@ -674,7 +674,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 8706(e) | 5 App.: 2095(d). | July 18, 1966, Pub. L. 89–504, § 406(a), 80 Stat. 298. |
+| 8706(e) | 5 App.: 2095(d). | July 18, 1966, Pub. L. 89–504, § 406(a), 80 Stat. 298. |
 
 The words “subsections (a)–(c) of this section” are substituted for “the foregoing” to reflect the codification of former 5 U.S.C. 2095. The word “officer” is omitted as included in “employee.” The words “as defined by section 8701(a) of this title” are substituted for “as defined in section 2 of the Act” to reflect the codification of that section in 5 U.S.C. 8701(a). The words “Employees’ Life Insurance Fund” and “Fund” are substituted for “fund” and “fund established by section 5 of this Act”, respectively.
 
@@ -692,15 +692,15 @@ Subsec. (g). Pub. L. 105–311 added subsec. (g).
 
 1992—Subsecs. (f), (g). Pub. L. 102–378 redesignated subsec. (g) as (f).
 
-1986—Subsec. (a). Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, § 7(1), inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+1986—Subsec. (a). Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, § 7(1), inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
 Subsecs. (c) to (f). Pub. L. 99–335 struck out subsec. (c) and redesignated subsecs. (d) to (f) as (c) to (e), respectively. Former subsec. (c) provided that insurance granted an employee stops, except for a 31-day extension of life insurance coverage, on the day immediately before his entry on active duty or active duty for training unless the period is covered by military leave with pay but does not stop during a period of inactive duty training and defined “active duty”, “active duty for training”, and “inactive duty training” as having the meanings given them by section 101 of title 38.
 
 1985—Subsec. (g). Pub. L. 99–53 added subsec. (g).
 
-1984—Pub. L. 98–353, § 208(b), inserted “; assignment of ownership” in section catchline.
+1984—Pub. L. 98–353, § 208(b), inserted “; assignment of ownership” in section catchline.
 
-Subsec. (f). Pub. L. 98–353, § 208(a), added subsec. (f).
+Subsec. (f). Pub. L. 98–353, § 208(a), added subsec. (f).
 
 1980—Subsec. (b). Pub. L. 96–427 added subsec. (b) and struck out former subsec. (b) which read as follows:
 
@@ -724,7 +724,7 @@ life insurance only may be continued, without cost to the employee, under condit
 
 1978—Subsec. (a). Pub. L. 95–454 substituted “Office of Personnel Management” and “Office” for “Civil Service Commission” and “Commission”, respectively.
 
-Subsec. (b). Pub. L. 95–583, § 1(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “If on the date the insurance would otherwise stop the employee retires on an immediate annuity and—
+Subsec. (b). Pub. L. 95–583, § 1(a)(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “If on the date the insurance would otherwise stop the employee retires on an immediate annuity and—
 
 “(1) his retirement is for disability; or
 
@@ -734,11 +734,11 @@ his life insurance only may be continued, without cost to him, under conditions 
 
 Pub. L. 95–454, which substituted “Office” for “Commission”, was executed to text of subsec. (b) as amended by Pub. L. 95–583. See Effective Date of 1978 Amendments note below.
 
-Subsec. (c). Pub. L. 95–583, § 1(a)(1), (2), struck out “If on the date the insurance would otherwise stop the employee is receiving benefits under subchapter I of chapter 81 of this title because of disease or injury to himself, his life insurance only may be continued, without cost to him, under conditions determined by the Commission while he is receiving the benefits and is held by the Department of Labor to be unable to return to duty.” and redesignated subsec. (d) as (c).
+Subsec. (c). Pub. L. 95–583, § 1(a)(1), (2), struck out “If on the date the insurance would otherwise stop the employee is receiving benefits under subchapter I of chapter 81 of this title because of disease or injury to himself, his life insurance only may be continued, without cost to him, under conditions determined by the Commission while he is receiving the benefits and is held by the Department of Labor to be unable to return to duty.” and redesignated subsec. (d) as (c).
 
-Subsec. (d). Pub. L. 95–583, § 1(a)(2), (3), redesignated subsec. (e) as (d) and substituted reference to “subsections (a) and (b) of this section” for “subsections (a)–(c) of this section”. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 95–583, § 1(a)(2), (3), redesignated subsec. (e) as (d) and substituted reference to “subsections (a) and (b) of this section” for “subsections (a)–(c) of this section”. Former subsec. (d) redesignated (c).
 
-Subsecs. (e), (f). Pub. L. 95–583, § 1(a)(2), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
+Subsecs. (e), (f). Pub. L. 95–583, § 1(a)(2), redesignated subsecs. (e) and (f) as (d) and (e), respectively.
 
 1972—Subsec. (f). Pub. L. 92–529 added subsec. (f).
 
@@ -750,13 +750,13 @@ Amendment by Pub. L. 105–311 effective in any case in which a finding of erron
 
 **Effective Date of 1986 Amendments**
 
-Pub. L. 98–353, title II, § 207, July 10, 1984, 98 Stat. 351, as amended generally by Pub. L. 99–336, § 7(2), provided that: “The amendments to chapter 87 of title 5, United States Code, made by section 206 of this Act [which, as amended generally by Pub. L. 99–336, § 7(1), amended this section and sections 8714a to 8714c of this title] shall apply in the case of any justice or judge who is retired under section 371(a) or 371(b) or 372(a) of title 28, United States Code. The amendments apply to those who retire on or after January 1, 1982.”
+Pub. L. 98–353, title II, § 207, July 10, 1984, 98 Stat. 351, as amended generally by Pub. L. 99–336, § 7(2), provided that: “The amendments to chapter 87 of title 5, United States Code, made by section 206 of this Act [which, as amended generally by Pub. L. 99–336, § 7(1), amended this section and sections 8714a to 8714c of this title] shall apply in the case of any justice or judge who is retired under section 371(a) or 371(b) or 372(a) of title 28, United States Code. The amendments apply to those who retire on or after January 1, 1982.”
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
 **Effective Date of 1984 Amendment**
 
-Pub. L. 98–353, title II, § 209, July 10, 1984, 98 Stat. 351, provided that:
+Pub. L. 98–353, title II, § 209, July 10, 1984, 98 Stat. 351, provided that:
 
 > **“(a)** Except as provided in subsection (b), the amendments made by this Act to section 8706 of title 5, United States Code, shall apply to policies purchased by judges after the date of enactment of this Act [July 10, 1984].
 
@@ -768,13 +768,13 @@ Amendment by Pub. L. 96–427 applicable only in case of an employee who retires
 
 **Effective Date of 1978 Amendments**
 
-Pub. L. 95–583, § 3, Nov. 2, 1978, 92 Stat. 2482, provided that: “The amendments made by this Act [amending this section and sections 8705, 8714a, and 8901 of this title] shall take effect on the date of the enactment of this Act [Nov. 2, 1978].”
+Pub. L. 95–583, § 3, Nov. 2, 1978, 92 Stat. 2482, provided that: “The amendments made by this Act [amending this section and sections 8705, 8714a, and 8901 of this title] shall take effect on the date of the enactment of this Act [Nov. 2, 1978].”
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
 **Insurance Coverage for Restored Disability Annuitants**
 
-Pub. L. 99–53, § 3(c), June 17, 1985, 99 Stat. 95, provided that:
+Pub. L. 99–53, § 3(c), June 17, 1985, 99 Stat. 95, provided that:
 
 > **“(1)** The amendments made by this section [amending this section and section 8908 of this title] shall apply with respect to any individual whose disability annuity is or was restored under section 8337(e) of title 5, United States Code, after December 31, 1983.
 
@@ -796,11 +796,11 @@ Pub. L. 99–53, § 3(c), June 17, 1985, 99 Stat. 95, provided that:
 
 **Election of Life Insurance or Health Benefits During Period of Service as Officer or Employee of an Employee Organization; Contributions Into Employees Life Insurance Fund or Employees Health Benefits Fund, Non-Election; Regulations**
 
-Pub. L. 89–504, title IV, § 406(c), July 18, 1966, 80 Stat. 298, provided that: “An officer or employee who is on approved leave without pay and serving as a full-time officer or employee of an organization composed primarily of employees, as defined in section 2 of the Federal Employees’ Group Life Insurance Act of 1954, as amended (5 U.S.C. 2091) [section 8701 of this title] or section 2 of the Federal Employees Health Benefits Act of 1959, as amended (5 U.S.C. 3001) [section 8901 of this title] as the case may be, may, within sixty days after the date of enactment of this Act [July 18, 1966], file with his employing agency an election (1) to continue any insurance status or health benefits enrollment, or both, that he has on the date of enactment of this Act [July 18, 1966], (2) to reacquire any insurance status or health benefits enrollment, or both, which he may have lost while on leave without pay, or (3) to acquire as insured status or enroll in a health benefits plan, or both, if he was never previously eligible to do so, by arranging to pay currently and continuously into the employees’ life insurance fund and the employees’ health benefits fund, as appropriate, through his employing agency, both employee and agency contributions. The employing agency shall forward such payments to the employees’ life insurance fund and the employees’ health benefits fund, as appropriate. If he does not so elect, his insurance status and health benefits enrollment will continue and terminate as for other employees in nonpay status, or he will remain ineligible for insurance and health benefits, as the case may be, as though this paragraph had not been enacted. The United States Civil Service Commission is authorized to issue regulations to carry out the purposes of this paragraph.”
+Pub. L. 89–504, title IV, § 406(c), July 18, 1966, 80 Stat. 298, provided that: “An officer or employee who is on approved leave without pay and serving as a full-time officer or employee of an organization composed primarily of employees, as defined in section 2 of the Federal Employees’ Group Life Insurance Act of 1954, as amended (5 U.S.C. 2091) [section 8701 of this title] or section 2 of the Federal Employees Health Benefits Act of 1959, as amended (5 U.S.C. 3001) [section 8901 of this title] as the case may be, may, within sixty days after the date of enactment of this Act [July 18, 1966], file with his employing agency an election (1) to continue any insurance status or health benefits enrollment, or both, that he has on the date of enactment of this Act [July 18, 1966], (2) to reacquire any insurance status or health benefits enrollment, or both, which he may have lost while on leave without pay, or (3) to acquire as insured status or enroll in a health benefits plan, or both, if he was never previously eligible to do so, by arranging to pay currently and continuously into the employees’ life insurance fund and the employees’ health benefits fund, as appropriate, through his employing agency, both employee and agency contributions. The employing agency shall forward such payments to the employees’ life insurance fund and the employees’ health benefits fund, as appropriate. If he does not so elect, his insurance status and health benefits enrollment will continue and terminate as for other employees in nonpay status, or he will remain ineligible for insurance and health benefits, as the case may be, as though this paragraph had not been enacted. The United States Civil Service Commission is authorized to issue regulations to carry out the purposes of this paragraph.”
 
 [Provision effective July 18, 1966, see section 410(1) of Pub. L. 89–504.]
 
-## § 8707. Employee deductions; withholding
+## § 8707. Employee deductions; withholding
 
 **(a)** Subject to subsection (c)(2), during each period in which an employee is insured under a policy purchased by the Office of Personnel Management under section 8709 of this title, there shall be withheld from the employee’s pay a share of the cost of the group life insurance and accidental death and dismemberment insurance.
 
@@ -818,13 +818,13 @@ Pub. L. 89–504, title IV, § 406(c), July 18, 1966, 80 Stat. 298, provided t
 
 **(d)** If an agency fails to withhold the proper amount of life insurance deductions from an individual’s salary, compensation, or retirement annuity, the collection of unpaid deductions may be waived by the agency if, in the judgment of the agency, the individual is without fault and recovery would be against equity and good conscience. However, if the agency so waives the collection of unpaid deductions, the agency shall submit an amount equal to the sum of the uncollected deductions and related agency contributions required under section 8708 of this title to the Office for deposit to the Employees’ Life Insurance Fund.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–206, title IV, § 402, Dec. 16, 1967, 81 Stat. 647; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–427, § 4(a), Oct. 10, 1980, 94 Stat. 1833; Pub. L. 105–311, § 6(1), Oct. 30, 1998, 112 Stat. 2951.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–206, title IV, § 402, Dec. 16, 1967, 81 Stat. 647; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–427, § 4(a), Oct. 10, 1980, 94 Stat. 1833; Pub. L. 105–311, § 6(1), Oct. 30, 1998, 112 Stat. 2951.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2094(a) (1st par.). | Aug. 17, 1954, ch. 752, § 5(a) (1st par.), 68 Stat. 738. Sept. 23, 1959, Pub. L. 86–377, § 4(b), 73 Stat. 701. |
+|  | 5 U.S.C. 2094(a) (1st par.). | Aug. 17, 1954, ch. 752, § 5(a) (1st par.), 68 Stat. 738. Sept. 23, 1959, Pub. L. 86–377, § 4(b), 73 Stat. 701. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -832,11 +832,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1998—Subsec. (a). Pub. L. 105–311, § 6(1)(A), substituted “Subject to subsection (c)(2), during” for “During”.
+1998—Subsec. (a). Pub. L. 105–311, § 6(1)(A), substituted “Subject to subsection (c)(2), during” for “During”.
 
-Subsec. (b)(1). Pub. L. 105–311, § 6(1)(B), substituted “Subject to subsection (c)(2), whenever” for “Whenever”.
+Subsec. (b)(1). Pub. L. 105–311, § 6(1)(B), substituted “Subject to subsection (c)(2), whenever” for “Whenever”.
 
-Subsec. (c). Pub. L. 105–311, § 6(1)(C), designated existing provisions as par. (1) and added par. (2).
+Subsec. (c). Pub. L. 105–311, § 6(1)(C), designated existing provisions as par. (1) and added par. (2).
 
 1980—Subsec. (a). Pub. L. 96–427 designated first sentence of existing section as subsec. (a) and substituted “a policy purchased” for “a policy of insurance purchased” and “the employee’s pay a share of the cost” for “the pay of the employee his share of the cost”.
 
@@ -872,7 +872,7 @@ Amendment by Pub. L. 90–206 effective on first day of first pay period which b
 
 Amendment by Pub. L. 90–206 to have no effect in case of an employee who died, was finally separated, or retired prior to Dec. 16, 1967, see section 405(c) of Pub. L. 90–206, set out as a note under section 8704 of this title.
 
-## § 8708. Government contributions
+## § 8708. Government contributions
 
 **(a)** For each period in which an employee is insured under a policy of insurance purchased by the Office of Personnel Management under section 8709 of this title, a sum equal to one-half the amount which is withheld from the pay of the employee under section 8707 of this title shall be contributed from the appropriation or fund which is used to pay him.
 
@@ -898,14 +898,14 @@ Amendment by Pub. L. 90–206 to have no effect in case of an employee who died,
 
 **(B)** commences receiving compensation under subchapter I of chapter 81 of this title (because of disease or injury to the individual) after December 31, 1989, if the position last held by the individual before commencing to receive such compensation was within the United States Postal Service.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–206, title IV, § 403, Dec. 16, 1967, 81 Stat. 647; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–303, § 2, May 29, 1990, 104 Stat. 250; Pub. L. 104–186, title II, § 215(18), Aug. 20, 1996, 110 Stat. 1746.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 595; Pub. L. 90–206, title IV, § 403, Dec. 16, 1967, 81 Stat. 647; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 101–303, § 2, May 29, 1990, 104 Stat. 250; Pub. L. 104–186, title II, § 215(18), Aug. 20, 1996, 110 Stat. 1746.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a), (c) | 5 U.S.C. 2094(b). | Aug. 17, 1954, ch. 752, § 5(b), 68 Stat. 738. |
-| (b) | 2 U.S.C. 128. | Aug. 5, 1955, ch. 568, § 101 (4th par. under “Administrative Provisions”), 69 Stat. 513. |
+| (a), (c) | 5 U.S.C. 2094(b). | Aug. 17, 1954, ch. 752, § 5(b), 68 Stat. 738. |
+| (b) | 2 U.S.C. 128. | Aug. 5, 1955, ch. 568, § 101 (4th par. under “Administrative Provisions”), 69 Stat. 513. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -935,7 +935,7 @@ Amendment by Pub. L. 90–206 effective on first day of first pay period which b
 
 Amendment by Pub. L. 90–206 to have no effect in case of an employee who died, was finally separated, or retired prior to Dec. 16, 1967, see section 405(c) of Pub. L. 90–206, set out as a note under section 8704 of this title.
 
-## § 8709. Insurance policies
+## § 8709. Insurance policies
 
 **(a)** The Office of Personnel Management, without regard to section 6101(b) to (d) of title 41, may purchase from one or more life insurance companies a policy or policies of group life and accidental death and dismemberment insurance to provide the benefits specified by this chapter. A company must meet the following requirements:
 
@@ -953,13 +953,13 @@ Amendment by Pub. L. 90–206 to have no effect in case of an employee who died,
 
 **(2)** For the purpose of this section, “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and a territory or possession of the United States.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 596; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–427, § 5(a), Oct. 10, 1980, 94 Stat. 1834; Pub. L. 111–350, § 5(a)(11), Jan. 4, 2011, 124 Stat. 3841.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 596; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–427, § 5(a), Oct. 10, 1980, 94 Stat. 1834; Pub. L. 111–350, § 5(a)(11), Jan. 4, 2011, 124 Stat. 3841.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2096 (less (c)–(e)). | Aug. 17, 1954, ch. 752, § 7 (less (c)–(e)), 68 Stat. 739. |
+|  | 5 U.S.C. 2096 (less (c)–(e)). | Aug. 17, 1954, ch. 752, § 7 (less (c)–(e)), 68 Stat. 739. |
 
 In subsection (a), the words “as determined by it” are omitted as unnecessary.
 
@@ -985,7 +985,7 @@ Amendment by Pub. L. 96–427 effective Oct. 10, 1980, with the amendment to hav
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 8710. Reinsurance
+## § 8710. Reinsurance
 
 **(a)** The Office of Personnel Management shall arrange with a company issuing a policy under this chapter for the reinsurance, under conditions approved by the Office, of portions of the total amount of insurance under the policy, determined under this section, with other life insurance companies which elect to participate in the reinsurance.
 
@@ -1015,13 +1015,13 @@ is eligible to act as a reinsuring company and may be allocated an amount of rei
 
 **(f)** The Office may modify the computations under this section as necessary to carry out the intent of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 596; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 596; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2096(c)–(e). | Aug. 17, 1954, ch. 752, § 7(c)–(e), 68 Stat. 739. Aug. 11, 1955, ch. 794, § 3, 69 Stat. 677. |
+|  | 5 U.S.C. 2096(c)–(e). | Aug. 17, 1954, ch. 752, § 7(c)–(e), 68 Stat. 739. Aug. 11, 1955, ch. 794, § 3, 69 Stat. 677. |
 
 The section is reorganized to clarify the steps in the computation of the insurance allocable to issuing and reinsuring companies.
 
@@ -1041,7 +1041,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 8711. Basic tables of premium rates
+## § 8711. Basic tables of premium rates
 
 **(a)** A policy purchased under this chapter shall include, for the first policy year, basic tables of premium rates as follows:
 
@@ -1057,13 +1057,13 @@ The schedule for group life insurance, except as otherwise provided by this sect
 
 **(d)** The policy shall stipulate the maximum expense and risk charges for the first policy year. The Office shall determine these charges on a basis consistent with the general level of charges made by life insurance companies under policies of group life and accidental death and dismemberment insurance issued to large employers. The maximum charges continue from year to year, except that the Office may redetermine them for any year either by agreement with the company issuing the policy or on written notice given to the company at least 1 year before the beginning of the year for which the redetermined maximum charges will be effective.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 597; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 597; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2097 (less (d)). | Aug. 17, 1954, ch. 752, § 8 (less (d)), 68 Stat. 740. |
+|  | 5 U.S.C. 2097 (less (d)). | Aug. 17, 1954, ch. 752, § 8 (less (d)), 68 Stat. 740. |
 
 In subsection (a), the word “policy” is substituted for “policy or policies” on authority of 1 U.S.C. 1. In subsections (b) and (c), the words “The policy” are substituted for “Each policy so purchased”. In subsections (b), (c), and (d), the word “insurance”, preceding the word “company”, is omitted as unnecessary; and the word “company” is substituted for “company or companies” on authority of 1 U.S.C. 1.
 
@@ -1081,7 +1081,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 8712. Annual accounting; special contingency reserve
+## § 8712. Annual accounting; special contingency reserve
 
 A policy purchased under this chapter shall provide for an accounting to the Office of Personnel Management not later than 90 days after the end of each policy year. The accounting shall set forth, in a form approved by the Office—
 
@@ -1093,13 +1093,13 @@ A policy purchased under this chapter shall provide for an accounting to the Off
 
 An excess of the total of paragraph (1) of this section over the sum of paragraphs (2) and (3) of this section shall be held by the company issuing the policy as a special contingency reserve to be used by the company only for charges under the policy. The reserve shall bear interest at a rate determined in advance of each policy year by the company and approved by the Office as being consistent with the rates generally used by the company for similar funds held under other group life insurance policies. When the Office determines that the special contingency reserve has attained an amount estimated by it to make satisfactory provision for adverse fluctuations in future charges under the policy, any further excess shall be deposited in the Treasury of the United States to the credit of the Employees’ Life Insurance Fund. When a policy is discontinued, any balance remaining in the special contingency reserve after all charges have been made shall be deposited in the Treasury to the credit of the Fund. The company may make the deposit in equal monthly installments over a period of not more than 2 years.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 598; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 598; Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2097(d). | Aug. 17, 1954, ch. 752, § 8(d), 68 Stat. 741. |
+|  | 5 U.S.C. 2097(d). | Aug. 17, 1954, ch. 752, § 8(d), 68 Stat. 741. |
 
 The words “A policy purchased under this chapter” are substituted for “Each such policy” for clarity. The word “insurance”, preceding the word “company”, is omitted as unnecessary; and the word “company” is substituted for “company or companies” on authority of 1 U.S.C. 1.
 
@@ -1119,19 +1119,19 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 8713. Effect of other statutes
+## § 8713. Effect of other statutes
 
 Any provision of law outside of this chapter which provides coverage or any other benefit under this chapter to any individuals who (based on their being employed by an entity other than the Government) would not otherwise be eligible for any such coverage or benefit shall not apply with respect to any individual appointed, transferred, or otherwise commencing that type of employment on or after October 1, 1988.
 
-(Added Pub. L. 100–238, title I, § 108(a)(2)(A), Jan. 8, 1988, 101 Stat. 1747.)
+(Added Pub. L. 100–238, title I, § 108(a)(2)(A), Jan. 8, 1988, 101 Stat. 1747.)
 
 **Editorial Notes**
 
 **Prior Provisions**
 
-A prior section 8713, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 598; Pub. L. 90–83, § 1(93), Sept. 11, 1967, 81 Stat. 219; Pub. L. 95–454, title IX, § 906(a)(1), (4), Oct. 13, 1978, 92 Stat. 1224, 1225, provided for an advisory committee to be appointed by the Director of the Office of Personnel Management to be composed of five employees insured under this chapter, to serve without additional pay, to advise the Office regarding matters of concern to employees under this chapter, prior to repeal by Pub. L. 96–427, § 9(a), Oct. 10, 1980, 94 Stat. 1837, effective Oct. 10, 1980, with the repeal to have no effect in the case of an employee who died, was separated, or retired before Oct. 10, 1980.
+A prior section 8713, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 598; Pub. L. 90–83, § 1(93), Sept. 11, 1967, 81 Stat. 219; Pub. L. 95–454, title IX, § 906(a)(1), (4), Oct. 13, 1978, 92 Stat. 1224, 1225, provided for an advisory committee to be appointed by the Director of the Office of Personnel Management to be composed of five employees insured under this chapter, to serve without additional pay, to advise the Office regarding matters of concern to employees under this chapter, prior to repeal by Pub. L. 96–427, § 9(a), Oct. 10, 1980, 94 Stat. 1837, effective Oct. 10, 1980, with the repeal to have no effect in the case of an employee who died, was separated, or retired before Oct. 10, 1980.
 
-## § 8714. Employees’ Life Insurance Fund
+## § 8714. Employees’ Life Insurance Fund
 
 **(a)** The amounts withheld from employees under section 8707 of this title and the sums contributed from appropriations and funds under section 8708 of this title shall be deposited in the Treasury of the United States to the credit of the Employees’ Life Insurance Fund. The Fund is available without fiscal year limitation for—
 
@@ -1147,14 +1147,14 @@ A prior section 8713, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 598; Pub. L. 90�
 
 **(2)** Paragraph (1) of this subsection shall not be construed to exempt any company issuing a policy of insurance under this chapter from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by that company from business conducted under this chapter, if that tax, fee, or payment is applicable to a broad range of business activity.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 598; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–499, title IV, § 405(a), Dec. 5, 1980, 94 Stat. 2606.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 598; Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–499, title IV, § 405(a), Dec. 5, 1980, 94 Stat. 2606.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2094(c) (less applicability to 5 U.S.C. 2099), (d). | Aug. 17, 1954, ch. 752, § 5(c) (less applicability to § 10), 68 Stat. 739. Aug. 11, 1955, ch. 794, § 1(a) “(c) (less applicability to § 10)”, (b), 69 Stat. 676. |
-|  |  | Apr. 11, 1958, Pub. L. 85–377, § 1 (less applicability to § 10), 72 Stat. 87. |
+|  | 5 U.S.C. 2094(c) (less applicability to 5 U.S.C. 2099), (d). | Aug. 17, 1954, ch. 752, § 5(c) (less applicability to § 10), 68 Stat. 739. Aug. 11, 1955, ch. 794, § 1(a) “(c) (less applicability to § 10)”, (b), 69 Stat. 676. |
+|  |  | Apr. 11, 1958, Pub. L. 85–377, § 1 (less applicability to § 10), 72 Stat. 87. |
 
 In subsection (a), the words “of the Employees’ Life Insurance Fund” are substituted for “of a fund which is hereby created”. The proviso which made appropriations available to the Commission for salaries and expenses for the fiscal year 1955 available on a reimbursable basis for necessary administrative expenses for carrying out the purposes of this chapter is omitted as executed.
 
@@ -1172,7 +1172,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–499, title IV, § 405(b), Dec. 5, 1980, 94 Stat. 2607, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 5, 1980], and shall apply with respect to premiums paid on or after such date.”
+Pub. L. 96–499, title IV, § 405(b), Dec. 5, 1980, 94 Stat. 2607, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Dec. 5, 1980], and shall apply with respect to premiums paid on or after such date.”
 
 **Effective Date of 1978 Amendment**
 
@@ -1180,9 +1180,9 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Funding**
 
-Pub. L. 103–409, § 4, Oct. 25, 1994, 108 Stat. 4232, provided that: “Notwithstanding section 8714(a)(1) of title 5, United States Code, the Office of Personnel Management shall retain in the Employees’ Life Insurance Fund such portion of premium payments otherwise due as will, no later than September 30, 1995, permanently reduce the contingency reserve established under the third sentence of section 8712 of such title 5 by an amount equal to the amount by which payments from the Employees’ Life Insurance Fund during the fiscal year ending September 30, 1995, exceed the payments that would have been paid had the amendments made by this Act [enacting section 8714d of this title] not been enacted.”
+Pub. L. 103–409, § 4, Oct. 25, 1994, 108 Stat. 4232, provided that: “Notwithstanding section 8714(a)(1) of title 5, United States Code, the Office of Personnel Management shall retain in the Employees’ Life Insurance Fund such portion of premium payments otherwise due as will, no later than September 30, 1995, permanently reduce the contingency reserve established under the third sentence of section 8712 of such title 5 by an amount equal to the amount by which payments from the Employees’ Life Insurance Fund during the fiscal year ending September 30, 1995, exceed the payments that would have been paid had the amendments made by this Act [enacting section 8714d of this title] not been enacted.”
 
-## § 8714a. Optional insurance
+## § 8714a. Optional insurance
 
 **(a)** Under the conditions, directives, and terms specified in sections 8709–8712 of this title, the Office of Personnel Management, without regard to section 6101(b) to (d) of title 41, may purchase a policy which shall make available to each insured employee equal amounts of optional life insurance and accidental death and dismemberment insurance in addition to the amounts provided in section 8704(a) of this title.
 
@@ -1218,7 +1218,7 @@ the amount of optional life insurance only which has been in force throughout su
 
 **(3)** Notwithstanding paragraph (c)(1) of this section,1
 
-<sup>1</sup>  So in original. Probably should be “paragraph (1) of this subsection,”.
+<sup>1</sup> So in original. Probably should be “paragraph (1) of this subsection,”.
 
 a justice or judge of the United States as defined by section 8701(a)(5) of this title who resigns his office without meeting the requirements of section 371(a) of title 28, United States Code, for continuation of the judicial salary shall have the right to convert regular optional life insurance coverage issued under this section during his judicial service to an individual policy of life insurance under the same conditions approved by the Office governing conversion of basic life insurance coverage for employees eligible as provided in section 8706(a) of this title.
 
@@ -1234,7 +1234,7 @@ a justice or judge of the United States as defined by section 8701(a)(5) of this
 
 **(f)** The amount of optional life, or life and accidental death, insurance in force on an employee at the date of his death shall be paid as provided in section 8705 of this title.
 
-(Added Pub. L. 90–206, title IV, § 404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, § 1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, § 6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, § 206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, § 207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, § 6(2), Oct. 30, 1998, 112 Stat. 2951; Pub. L. 110–417, [div. A], title XI, § 1103(b), Oct. 14, 2008, 122 Stat. 4616; Pub. L. 111–350, § 5(a)(12), Jan. 4, 2011, 124 Stat. 3841.)
+(Added Pub. L. 90–206, title IV, § 404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, § 906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, § 1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, § 6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, § 206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, § 207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, § 6(2), Oct. 30, 1998, 112 Stat. 2951; Pub. L. 110–417, [div. A], title XI, § 1103(b), Oct. 14, 2008, 122 Stat. 4616; Pub. L. 111–350, § 5(a)(12), Jan. 4, 2011, 124 Stat. 3841.)
 
 **Editorial Notes**
 
@@ -1246,23 +1246,23 @@ a justice or judge of the United States as defined by section 8701(a)(5) of this
 
 1998—Subsec. (d)(3). Pub. L. 105–311 added par. (3).
 
-1986—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, § 206, generally. See 1984 Amendment note below.
+1986—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, § 206, generally. See 1984 Amendment note below.
 
 Pub. L. 99–335 amended par. (1) generally, effective Jan. 1, 1987. Prior to such effective date, par. (1) read as follows: “The optional insurance on an employee stops on his separation from service, 12 months after discontinuance of his pay, or on his entry on active duty or active duty for training, as provided in sections 8706(a) and 8706(c) of this title. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.”
 
-1984—Subsec. (c)(1). Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+1984—Subsec. (c)(1). Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
-Subsec. (c)(3). Pub. L. 98–353, § 206, added par. (3).
+Subsec. (c)(3). Pub. L. 98–353, § 206, added par. (3).
 
-1980—Subsec. (c)(2)(C). Pub. L. 96–427, § 6(a), substituted provisions that the amount of optional life insurance shall be reduced by 2% at the end of each calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury and that the Office shall prescribe minimum amount of life insurance in force before the first reduction to which the insurance may be reduced for provisions that such optional insurance be subject to the same monthly reductions as required for regular life insurance under section 8706(b)(3) of this title.
+1980—Subsec. (c)(2)(C). Pub. L. 96–427, § 6(a), substituted provisions that the amount of optional life insurance shall be reduced by 2% at the end of each calendar month after the date the employee becomes 65 years of age and is retired or is receiving compensation for disease or injury and that the Office shall prescribe minimum amount of life insurance in force before the first reduction to which the insurance may be reduced for provisions that such optional insurance be subject to the same monthly reductions as required for regular life insurance under section 8706(b)(3) of this title.
 
-Subsec. (d). Pub. L. 96–427, § 6(b), designated existing provisions as par. (1) and added par. (2).
+Subsec. (d). Pub. L. 96–427, § 6(b), designated existing provisions as par. (1) and added par. (2).
 
 1978—Subsecs. (a), (b). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission” wherever appearing.
 
-Subsec. (c)(1). Pub. L. 95–583, § 1(c)(1), substituted reference to section “8706(c)” for “8706(d)”.
+Subsec. (c)(1). Pub. L. 95–583, § 1(c)(1), substituted reference to section “8706(c)” for “8706(d)”.
 
-Subsec. (c)(2). Pub. L. 95–583, § 1(c)(2), added par. (2) and struck out former par. (2) which read as follows: “So much of the optional life insurance in force on an employee on the date he retires on an immediate annuity or becomes entitled to receive compensation for work injuries which has been in force for not less than—
+Subsec. (c)(2). Pub. L. 95–583, § 1(c)(2), added par. (2) and struck out former par. (2) which read as follows: “So much of the optional life insurance in force on an employee on the date he retires on an immediate annuity or becomes entitled to receive compensation for work injuries which has been in force for not less than—
 
 “(A) the full period or periods of service during which the optional insurance was available to him; or
 
@@ -1276,7 +1276,7 @@ whichever is shorter, may be continued—
 
 Pub. L. 95–454, which substituted “Office” for “Commission”, was executed to text of subsec. (c)(2) as amended by Pub. L. 95–583. See Effective Date of 1978 Amendments note below.
 
-Subsec. (d). Pub. L. 95–583, § 1(c)(3), struck out “or 8706(c)” after “section 8706(b)”.
+Subsec. (d). Pub. L. 95–583, § 1(c)(3), struck out “or 8706(c)” after “section 8706(b)”.
 
 Subsec. (e). Pub. L. 95–454 substituted “Office” for “Commission”.
 
@@ -1292,7 +1292,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 **Effective Date of 1984 Amendment**
 
-Amendment by Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, § 7(1), applicable to any justice or judge who retires under 28 U.S.C. 371(a) or (b) or 372(a) on or after January 1, 1982, see section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, § 7(2), set out as a note under section 8706 of this title.
+Amendment by Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, § 7(1), applicable to any justice or judge who retires under 28 U.S.C. 371(a) or (b) or 372(a) on or after January 1, 1982, see section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, § 7(2), set out as a note under section 8706 of this title.
 
 **Effective Date of 1980 Amendment**
 
@@ -1306,7 +1306,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Effective Date**
 
-Pub. L. 90–206, title IV, § 405(b), Dec. 16, 1967, 81 Stat. 648, provided that:
+Pub. L. 90–206, title IV, § 405(b), Dec. 16, 1967, 81 Stat. 648, provided that:
 
 > **“(1)** The amendments made by section 404 of this Act [enacting this section and amending analysis preceding section 8701 of this title] shall take effect on the first day of the first pay period which begins on or after the one hundred and eightieth day following the date of enactment [Dec. 16, 1967], or on any earlier date that the Civil Service Commission may prescribe, which is at least sixty days after the date of enactment [Dec. 16, 1967]. In the case of an employee who dies during the period beginning on the date of enactment [Dec. 16, 1967] and ending on the effective date prescribed by or pursuant to this subsection, or during the sixty days immediately following such period if the Commission determines that he did not have a reasonable opportunity to elect the optional insurance made available by section 404, the insurance of such employee shall be determined as if the amendments made by section 404 had been in effect on the date of such death, and the employee had elected to receive the maximum amount of optional insurance available to him under such amendments. An employee who retires during the period beginning on the date of enactment and ending on the effective date prescribed by or pursuant to this subsection shall have an opportunity to elect the optional insurance made available by section 404.
 
@@ -1318,9 +1318,9 @@ Enactment of this section by Pub. L. 90–206 to have no effect in the case of a
 
 **Availability of Certain Funds in Employees’ Life Insurance Fund**
 
-Pub. L. 96–427, § 11, Oct. 10, 1980, 94 Stat. 1838, provided that: “Amounts credited to the Employees’ Life Insurance Fund under section 8714a(d) of title 5, United States Code shall be available for expenses incurred by the Office of Personnel Management in implementing the amendments made by sections 7 and 8 of this Act [enacting sections 8714b, 8714c, and 8701(d) of this title].”
+Pub. L. 96–427, § 11, Oct. 10, 1980, 94 Stat. 1838, provided that: “Amounts credited to the Employees’ Life Insurance Fund under section 8714a(d) of title 5, United States Code shall be available for expenses incurred by the Office of Personnel Management in implementing the amendments made by sections 7 and 8 of this Act [enacting sections 8714b, 8714c, and 8701(d) of this title].”
 
-## § 8714b. Additional optional life insurance
+## § 8714b. Additional optional life insurance
 
 **(a)** Under the conditions, directives, and terms specified in sections 8709 through 8712 of this title, the Office of Personnel Management, without regard to section 6101(b) to (d) of title 41, may purchase a policy which shall make available to each employee insured under section 8702 of this title amounts of additional optional life insurance (without accidental death and dismemberment insurance). An employee may elect coverage under this section without regard to whether the employee has elected coverage under optional insurance available under section 8714a of this title.
 
@@ -1386,7 +1386,7 @@ at group rates established for purposes of this section, in lieu of conversion t
 
 **(f)** The amount of additional optional life insurance in force on an employee at the date of his death shall be paid as provided in section 8705 of this title.
 
-(Added Pub. L. 96–427, § 7(a), Oct. 10, 1980, 94 Stat. 1834; amended Pub. L. 98–353, title II, §§ 206, 207, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, § 207(k)(4), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §§ 3(2), 6(3), 7(a), (c), Oct. 30, 1998, 112 Stat. 2950–2953; Pub. L. 110–417, [div. A], title XI, § 1103(c), Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–350, § 5(a)(13), Jan. 4, 2011, 124 Stat. 3841.)
+(Added Pub. L. 96–427, § 7(a), Oct. 10, 1980, 94 Stat. 1834; amended Pub. L. 98–353, title II, §§ 206, 207, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, § 207(k)(4), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §§ 3(2), 6(3), 7(a), (c), Oct. 30, 1998, 112 Stat. 2950–2953; Pub. L. 110–417, [div. A], title XI, § 1103(c), Oct. 14, 2008, 122 Stat. 4617; Pub. L. 111–350, § 5(a)(13), Jan. 4, 2011, 124 Stat. 3841.)
 
 **Editorial Notes**
 
@@ -1396,17 +1396,17 @@ at group rates established for purposes of this section, in lieu of conversion t
 
 2008—Subsec. (b). Pub. L. 110–417 designated existing provisions as par. (2) and added par. (1).
 
-1998—Subsec. (b). Pub. L. 105–311, § 3(2), in first sentence, struck out “except that coverage may not exceed an amount equal to 5 times the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of this title (rounded to the next higher multiple of $1,000)” after “$1,000)”.
+1998—Subsec. (b). Pub. L. 105–311, § 3(2), in first sentence, struck out “except that coverage may not exceed an amount equal to 5 times the annual rate of basic pay payable for positions at level II of the Executive Schedule under section 5313 of this title (rounded to the next higher multiple of $1,000)” after “$1,000)”.
 
-Subsec. (c)(2). Pub. L. 105–311, § 7(a)(1)(A), struck out at end “The amount of insurance continued under this paragraph shall be reduced each month by 2 percent effective at the beginning of the second calendar month after the date the employee becomes 65 years of age and is retired or is in receipt of compensation. The reduction shall continue for 50 months at which time the insurance stops.”
+Subsec. (c)(2). Pub. L. 105–311, § 7(a)(1)(A), struck out at end “The amount of insurance continued under this paragraph shall be reduced each month by 2 percent effective at the beginning of the second calendar month after the date the employee becomes 65 years of age and is retired or is in receipt of compensation. The reduction shall continue for 50 months at which time the insurance stops.”
 
-Subsec. (c)(3) to (5). Pub. L. 105–311, § 7(a)(1)(B), added pars. (3) to (5).
+Subsec. (c)(3) to (5). Pub. L. 105–311, § 7(a)(1)(B), added pars. (3) to (5).
 
-Subsec. (d)(1). Pub. L. 105–311, § 7(a)(2), (c), inserted “if insurance is continued as provided under subsection (c)(3)(A),” after “except that,” and “(and any amounts withheld as provided in subsection (c)(3)(B))” after “Amounts so withheld”.
+Subsec. (d)(1). Pub. L. 105–311, § 7(a)(2), (c), inserted “if insurance is continued as provided under subsection (c)(3)(A),” after “except that,” and “(and any amounts withheld as provided in subsection (c)(3)(B))” after “Amounts so withheld”.
 
-Subsec. (d)(3). Pub. L. 105–311, § 6(3), added par. (3).
+Subsec. (d)(3). Pub. L. 105–311, § 6(3), added par. (3).
 
-1986—Subsec. (c)(1). Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, § 7(1), inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+1986—Subsec. (c)(1). Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, § 7(1), inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
 Pub. L. 99–335 substituted “Except as otherwise provided in this subsection, the additional optional insurance elected by an employee pursuant to this section shall stop on separation from service or 12 months after discontinuance of his pay, whichever is earlier, subject to a provision for temporary extension of life insurance coverage and for conversion to an individual policy of life insurance under conditions approved by the Office” for “The additional optional insurance elected by an employee pursuant to this section shall stop on separation from service, 12 months after discontinuance of pay, or on entry on active military duty or active duty for training, subject to provision for a 31-day temporary extension of insurance coverage and for conversion to an individual policy, as provided in sections 8706(a) and 8706(c) of this title”.
 
@@ -1420,7 +1420,7 @@ Amendment by sections 3(2) and 6(3) of Pub. L. 105–311 effective on the first 
 
 **Effective Date of 1986 Amendments**
 
-Amendment by Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, § 7(1), applicable to any justice or judge who retires under 28 U.S.C. 371(a) or (b) or 372(a) on or after January 1, 1982, see section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, § 7(2), set out as a note under section 8706 of this title.
+Amendment by Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, § 7(1), applicable to any justice or judge who retires under 28 U.S.C. 371(a) or (b) or 372(a) on or after January 1, 1982, see section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, § 7(2), set out as a note under section 8706 of this title.
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under section 8401 of this title.
 
@@ -1430,9 +1430,9 @@ Section effective on first day of first pay period which begins on or after 180t
 
 **Report to Congress**
 
-Pub. L. 105–311, § 7(b), Oct. 30, 1998, 112 Stat. 2953, required the Office of Personnel Management to submit, not later than 3 years after Oct. 30, 1998, a report to Congress on additional optional insurance provided under subsec. (c)(5) of this section.
+Pub. L. 105–311, § 7(b), Oct. 30, 1998, 112 Stat. 2953, required the Office of Personnel Management to submit, not later than 3 years after Oct. 30, 1998, a report to Congress on additional optional insurance provided under subsec. (c)(5) of this section.
 
-## § 8714c. Optional life insurance on family members
+## § 8714c. Optional life insurance on family members
 
 **(a)** Under the conditions, directives, and terms specified in sections 8709 through 8712 of this title, the Office of Personnel Management, without regard to section 6101(b) to (d) of title 41, may purchase a policy which shall make available to each employee insured under section 8702 of this title amounts of optional life insurance (without accidental death and dismemberment insurance) on the employee’s family members.
 
@@ -1470,7 +1470,7 @@ optional life insurance on family members may be continued under the same condit
 
 **(f)** The amount of optional life insurance which is in force under this section on a family member of an employee or former employee on the date of the death of the family member shall be paid, on the establishment of a valid claim by the employee, to such employee or, in the event of the death of the employee before payment can be made, to the person or persons entitled to the group life insurance in force on the employee under section 8705 of this title.
 
-(Added Pub. L. 96–427, § 8(a), Oct. 10, 1980, 94 Stat. 1836; amended Pub. L. 98–353, title II, § 206, as amended by Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, § 207(k)(5), June 6, 1986, 100 Stat. 598; Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §§ 6(4), 8, Oct. 30, 1998, 112 Stat. 2951, 2953; Pub. L. 111–350, § 5(a)(14), Jan. 4, 2011, 124 Stat. 3842.)
+(Added Pub. L. 96–427, § 8(a), Oct. 10, 1980, 94 Stat. 1836; amended Pub. L. 98–353, title II, § 206, as amended by Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, § 207(k)(5), June 6, 1986, 100 Stat. 598; Pub. L. 99–336, § 7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §§ 6(4), 8, Oct. 30, 1998, 112 Stat. 2951, 2953; Pub. L. 111–350, § 5(a)(14), Jan. 4, 2011, 124 Stat. 3842.)
 
 **Editorial Notes**
 
@@ -1478,19 +1478,19 @@ optional life insurance on family members may be continued under the same condit
 
 2011—Subsec. (a). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 5 of title 41”.
 
-1998—Subsec. (b). Pub. L. 105–311, § 8(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The optional life insurance on family members provided under this section shall be made available to each eligible employee who elects coverage under this section, under conditions the Office shall prescribe, in the amount of $5,000 for a spouse and $2,500 for each child described in section 8701(d). The employee may stop coverage elected under this section at any time.”
+1998—Subsec. (b). Pub. L. 105–311, § 8(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The optional life insurance on family members provided under this section shall be made available to each eligible employee who elects coverage under this section, under conditions the Office shall prescribe, in the amount of $5,000 for a spouse and $2,500 for each child described in section 8701(d). The employee may stop coverage elected under this section at any time.”
 
-Subsec. (c)(2). Pub. L. 105–311, § 8(b)(1), substituted “section 8714b(c)(2) through (4)” for “section 8714b(c)(2) of this title”.
+Subsec. (c)(2). Pub. L. 105–311, § 8(b)(1), substituted “section 8714b(c)(2) through (4)” for “section 8714b(c)(2) of this title”.
 
-Subsec. (d)(1). Pub. L. 105–311, § 8(b)(2), inserted before last sentence “Notwithstanding the preceding sentence, the full cost shall be continued after the calendar month in which the former employee becomes 65 years of age if, and for so long as, an election under this section corresponding to that described in section 8714b(c)(3)(B) remains in effect with respect to such former employee.”
+Subsec. (d)(1). Pub. L. 105–311, § 8(b)(2), inserted before last sentence “Notwithstanding the preceding sentence, the full cost shall be continued after the calendar month in which the former employee becomes 65 years of age if, and for so long as, an election under this section corresponding to that described in section 8714b(c)(3)(B) remains in effect with respect to such former employee.”
 
-Subsec. (d)(3). Pub. L. 105–311, § 6(4), added par. (3).
+Subsec. (d)(3). Pub. L. 105–311, § 6(4), added par. (3).
 
-1986—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, § 206, generally. See 1984 Amendment note below.
+1986—Subsec. (c)(1). Pub. L. 99–336 amended Pub. L. 98–353, § 206, generally. See 1984 Amendment note below.
 
 Pub. L. 99–335 amended par. (1) generally, effective Jan. 1, 1977. Prior to such effective date, par. (1) read as follows: “Optional life insurance on family members shall stop at the earlier of the employee’s death, the employee’s separation from the service, 12 months after discontinuance of pay, or the employee’s entry on active duty or active duty for training, as provided in sections 8706(a) and 8706(c) of this title, subject to provision for a 31-day temporary extension of insurance coverage and for conversion to individual policies under conditions approved by the Office. Justices and judges of the United States described in section 8701(a)(5)(ii) and (iii) of this chapter are deemed to continue in active employment for purposes of this chapter.”
 
-1984—Subsec. (c)(1). Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
+1984—Subsec. (c)(1). Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, inserted sentence which deemed justices and judges described in section 8701(a)(5)(ii) and (iii) of this chapter to continue in active employment for purposes of this chapter.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1504,13 +1504,13 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 **Effective Date of 1984 Amendment**
 
-Amendment by Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, § 7(1), applicable to any justice or judge who retires under 28 U.S.C. 371(a) or (b) or 372(a) on or after January 1, 1982, see section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, § 7(2), set out as a note under section 8706 of this title.
+Amendment by Pub. L. 98–353, § 206, as amended generally by Pub. L. 99–336, § 7(1), applicable to any justice or judge who retires under 28 U.S.C. 371(a) or (b) or 372(a) on or after January 1, 1982, see section 207 of Pub. L. 98–353, as amended generally by Pub. L. 99–336, § 7(2), set out as a note under section 8706 of this title.
 
 **Effective Date**
 
 Section effective on first day of first pay period which begins on or after 180th day following Oct. 10, 1980, or on any earlier date that Office may prescribe which is at least 60 days after Oct. 10, 1980, and shall have no effect in case of an employee who died, was finally separated, or retired before effective date, see section 10(d) of Pub. L. 96–427 set out as an Effective Date of 1980 Amendment note under section 8701 of this title.
 
-## § 8714d. Option to receive “living benefits”
+## § 8714d. Option to receive “living benefits”
 
 **(a)** For the purpose of this section, an individual shall be considered to be “terminally ill” if such individual has a medical prognosis that such individual’s life expectancy is 9 months or less.
 
@@ -1562,25 +1562,25 @@ reduced by
 
 **(6)** The regulations shall include provisions to address the question of how to apply section 8706(b)(3)(B) in the case of an electing individual who has attained 65 years of age.
 
-(Added Pub. L. 103–409, § 2(a), Oct. 25, 1994, 108 Stat. 4230.)
+(Added Pub. L. 103–409, § 2(a), Oct. 25, 1994, 108 Stat. 4230.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date of 1994 Amendment**
 
-Pub. L. 103–409, § 3(a), Oct. 25, 1994, 108 Stat. 4232, provided that: “The amendments made by section 2 [enacting this section] shall take effect 9 months after the date of the enactment of this Act [Oct. 25, 1994].”
+Pub. L. 103–409, § 3(a), Oct. 25, 1994, 108 Stat. 4232, provided that: “The amendments made by section 2 [enacting this section] shall take effect 9 months after the date of the enactment of this Act [Oct. 25, 1994].”
 
-## § 8715. Jurisdiction of courts
+## § 8715. Jurisdiction of courts
 
 The district courts of the United States have original jurisdiction, concurrent with the United States Court of Federal Claims, of a civil action or claim against the United States founded on this chapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 599; Pub. L. 97–164, title I, § 160(a)(2), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 599; Pub. L. 97–164, title I, § 160(a)(2), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, § 902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 2103 (less applicability to 5 U.S.C. 2099). | Aug. 17, 1954, ch. 752, § 14 (less applicability to § 10), 68 Stat. 743. |
+|  | 5 U.S.C. 2103 (less applicability to 5 U.S.C. 2099). | Aug. 17, 1954, ch. 752, § 14 (less applicability to § 10), 68 Stat. 743. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -1602,7 +1602,7 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
-## § 8716. Regulations
+## § 8716. Regulations
 
 **(a)** The Office of Personnel Management may prescribe regulations necessary to carry out the purposes of this chapter.
 
@@ -1616,15 +1616,15 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 **(c)** The Secretary of Agriculture shall prescribe regulations to effect the application and operation of this chapter to an individual named by section 8701(a)(8) of this title.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 599; Pub. L. 95–437, § 4(b), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, § 906(a)(2), (3), (c)(2)(F), (G), Oct. 13, 1978, 92 Stat. 1224, 1227.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 599; Pub. L. 95–437, § 4(b), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, § 906(a)(2), (3), (c)(2)(F), (G), Oct. 13, 1978, 92 Stat. 1224, 1227.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 2100 (less applicability to 5 U.S.C. 2099). | Aug. 17, 1954, ch. 752, § 11 (less applicability to § 10), 68 Stat. 742. |
-| (b), (c) | 5 U.S.C. 2091(a) (words between 6th and 7th commas of 1st sentence and 2d sentence), (d) (words between 1st and 2d commas of 1st sentence, and 2d sentence). | Aug. 17, 1954, ch. 752, § 2(a) (words between 6th and 7th commas of 1st sentence and 2d sentence), 68 Stat. 736. July 1, 1960, Pub. L. 86–568, § 115(c) “(d) (words between 1st and 2d commas of 1st sentence, and 2d sentence)”, 74 Stat. 302. |
-|  |  | Oct. 6, 1964, Pub. L. 88–631, § 2, 78 Stat. 1007. |
+| (a) | 5 U.S.C. 2100 (less applicability to 5 U.S.C. 2099). | Aug. 17, 1954, ch. 752, § 11 (less applicability to § 10), 68 Stat. 742. |
+| (b), (c) | 5 U.S.C. 2091(a) (words between 6th and 7th commas of 1st sentence and 2d sentence), (d) (words between 1st and 2d commas of 1st sentence, and 2d sentence). | Aug. 17, 1954, ch. 752, § 2(a) (words between 6th and 7th commas of 1st sentence and 2d sentence), 68 Stat. 736. July 1, 1960, Pub. L. 86–568, § 115(c) “(d) (words between 1st and 2d commas of 1st sentence, and 2d sentence)”, 74 Stat. 302. |
+|  |  | Oct. 6, 1964, Pub. L. 88–631, § 2, 78 Stat. 1007. |
 
 In subsection (a), the words “Except as otherwise provided herein” are omitted as unnecessary since the authority to prescribe regulations is carried into this section.
 
@@ -1636,13 +1636,13 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Amendments**
 
-1978—Subsec. (a). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
+1978—Subsec. (a). Pub. L. 95–454, § 906(a)(2), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-Subsec. (b). Pub. L. 95–454, § 906(a)(3), substituted “Office” for “Commission” wherever appearing.
+Subsec. (b). Pub. L. 95–454, § 906(a)(3), substituted “Office” for “Commission” wherever appearing.
 
 Pub. L. 95–437 substituted “intermittent employment” for “intermittent or part-time employment” in provision preceding par. (1), and added par. (3).
 
-Pub. L. 95–454, § 906(c)(2)(F), (G), substituted “3401” for “3391” in par. (3).
+Pub. L. 95–454, § 906(c)(2)(F), (G), substituted “3401” for “3391” in par. (3).
 
 **Statutory Notes and Related Subsidiaries**
 

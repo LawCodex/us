@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 17—EXPLORATION PROGRAM FOR DISCOVERY OF MINERALS
 
-## § 641. Establishment and maintenance of program for exploration; financial assistance
+## § 641. Establishment and maintenance of program for exploration; financial assistance
 
 The Secretary of the Interior is hereby authorized and directed, in order to provide for discovery of additional domestic mineral reserves, to establish and maintain a program for exploration by private industry within the United States, its Territories and possessions for such minerals, excluding organic fuels, as he shall from time to time designate, and to provide Federal financial assistance on a participating basis for that purpose.
 
-(Pub. L. 85–701, § 1, Aug. 21, 1958, 72 Stat. 700.)
+(Pub. L. 85–701, § 1, Aug. 21, 1958, 72 Stat. 700.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -27,7 +27,7 @@ The Secretary of the Interior is hereby authorized and directed, in order to pro
 
 The recital clause of Pub. L. 85–701, Aug. 21, 1958, 72 Stat. 700, which preceded section 1, provided: “That it is declared to be the policy of the Congress to stimulate exploration for minerals within the United States, its Territories and possessions.”
 
-## § 642. Exploration contracts
+## § 642. Exploration contracts
 
 **(a) Terms and conditions; interest rates**
 
@@ -53,26 +53,26 @@ The Secretary shall establish and promulgate such rules and regulations as may b
 
 No funds shall be made available under this chapter unless the applicant shall furnish evidence that funds from commercial sources are unavailable on reasonable terms.
 
-(Pub. L. 85–701, § 2, Aug. 21, 1958, 72 Stat. 700.)
+(Pub. L. 85–701, § 2, Aug. 21, 1958, 72 Stat. 700.)
 
-## § 643. “Exploration” defined
+## § 643. “Exploration” defined
 
 As used in this chapter, the term “exploration” means the search for new or unexplored deposits of minerals, including related development work, within the United States, its Territories and possessions, whether conducted from the surface or underground, using recognized and sound procedures including standard geophysical and geochemical methods for obtaining mineralogical and geological information.
 
-(Pub. L. 85–701, § 3, Aug. 21, 1958, 72 Stat. 701.)
+(Pub. L. 85–701, § 3, Aug. 21, 1958, 72 Stat. 701.)
 
-## § 644. Advice and assistance by Government departments and agencies; expenditure of funds
+## § 644. Advice and assistance by Government departments and agencies; expenditure of funds
 
 Departments and agencies of the Government are authorized to advise and assist the Secretary of the Interior, upon his request, in carrying out the provisions of this chapter and may expend their funds for such purposes, with or without reimbursement, in accordance with such agreements as may be necessary.
 
-(Pub. L. 85–701, § 4, Aug. 21, 1958, 72 Stat. 701.)
+(Pub. L. 85–701, § 4, Aug. 21, 1958, 72 Stat. 701.)
 
-## § 645. Repealed. Pub. L. 93–608, § 1(13), Jan. 2, 1975, 88 Stat. 1969
+## § 645. Repealed. Pub. L. 93–608, § 1(13), Jan. 2, 1975, 88 Stat. 1969
 
-Section, Pub. L. 85–701, § 5, Aug. 21, 1958, 72 Stat. 701; Pub. L. 89–348, § 2(5), Nov. 8, 1965, 79 Stat. 1312, required Secretary of the Interior to report to Congress on operations of programs authorized pursuant to this chapter.
+Section, Pub. L. 85–701, § 5, Aug. 21, 1958, 72 Stat. 701; Pub. L. 89–348, § 2(5), Nov. 8, 1965, 79 Stat. 1312, required Secretary of the Interior to report to Congress on operations of programs authorized pursuant to this chapter.
 
-## § 646. Authorization of appropriations
+## § 646. Authorization of appropriations
 
 There are hereby authorized to be appropriated, from any funds in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of this chapter.
 
-(Pub. L. 85–701, § 6, Aug. 21, 1958, 72 Stat. 701.)
+(Pub. L. 85–701, § 6, Aug. 21, 1958, 72 Stat. 701.)

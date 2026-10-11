@@ -19,11 +19,11 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1970—Pub. L. 91–452, title II, § 223(b), Oct. 15, 1970, 84 Stat. 929, struck out item 895 “Immunity of witnesses”.
+1970—Pub. L. 91–452, title II, § 223(b), Oct. 15, 1970, 84 Stat. 929, struck out item 895 “Immunity of witnesses”.
 
-1968—Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 159, added chapter 42 and items 891 to 896.
+1968—Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 159, added chapter 42 and items 891 to 896.
 
-## § 891. Definitions and rules of construction
+## § 891. Definitions and rules of construction
 
 For the purposes of this chapter:
 
@@ -45,13 +45,13 @@ For the purposes of this chapter:
 
 **(9)** State law, including conflict of laws rules, governing the enforceability through civil judicial processes of repayment of any extension of credit or the performance of any promise given in consideration thereof shall be judicially noticed. This paragraph does not impair any authority which any court would otherwise have to take judicial notice of any matter of State law.
 
-(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 160.)
+(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 160.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Congressional Findings and Declaration of Purpose**
 
-Pub. L. 90–321, title II, § 201, May 29, 1968, 82 Stat. 159, provided that:
+Pub. L. 90–321, title II, § 201, May 29, 1968, 82 Stat. 159, provided that:
 
 > **“(a)** The Congress makes the following findings:
 
@@ -67,9 +67,9 @@ Pub. L. 90–321, title II, § 201, May 29, 1968, 82 Stat. 159, provided that:
 
 **Annual Report to Congress by Attorney General**
 
-Pub. L. 90–321, title II, § 203, May 29, 1968, 82 Stat. 162, directed Attorney General to make an annual report to Congress of activities of Department of Justice in enforcement of this chapter, prior to repeal by Pub. L. 97–375, title I, § 109(b), Dec. 21, 1982, 96 Stat. 1820.
+Pub. L. 90–321, title II, § 203, May 29, 1968, 82 Stat. 162, directed Attorney General to make an annual report to Congress of activities of Department of Justice in enforcement of this chapter, prior to repeal by Pub. L. 97–375, title I, § 109(b), Dec. 21, 1982, 96 Stat. 1820.
 
-## § 892. Making extortionate extensions of credit
+## § 892. Making extortionate extensions of credit
 
 **(a)** Whoever makes any extortionate extension of credit, or conspires to do so, shall be fined under this title or imprisoned not more than 20 years, or both.
 
@@ -95,7 +95,7 @@ at the time the extension of credit was made.
 
 **(c)** In any prosecution under this section, if evidence has been introduced tending to show the existence of any of the circumstances described in subsection (b)(1) or (b)(2), and direct evidence of the actual belief of the debtor as to the creditor’s collection practices is not available, then for the purpose of showing the understanding of the debtor and the creditor at the time the extension of credit was made, the court may in its discretion allow evidence to be introduced tending to show the reputation as to collection practices of the creditor in any community of which the debtor was a member at the time of the extension.
 
-(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 160; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 160; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -103,11 +103,11 @@ at the time the extension of credit was made.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 893. Financing extortionate extensions of credit
+## § 893. Financing extortionate extensions of credit
 
 Whoever willfully advances money or property, whether as a gift, as a loan, as an investment, pursuant to a partnership or profit-sharing agreement, or otherwise, to any person, with reasonable grounds to believe that it is the intention of that person to use the money or property so advanced directly or indirectly for the purpose of making extortionate extensions of credit, shall be fined under this title or an amount not exceeding twice the value of the money or property so advanced, whichever is greater, or shall be imprisoned not more than 20 years, or both.
 
-(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 161; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 161; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -115,7 +115,7 @@ Whoever willfully advances money or property, whether as a gift, as a loan, as a
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-## § 894. Collection of extensions of credit by extortionate means
+## § 894. Collection of extensions of credit by extortionate means
 
 **(a)** Whoever knowingly participates in any way, or conspires to do so, in the use of any extortionate means
 
@@ -129,7 +129,7 @@ shall be fined under this title or imprisoned not more than 20 years, or both.
 
 **(c)** In any prosecution under this section, if evidence has been introduced tending to show the existence, at the time the extension of credit in question was made, of the circumstances described in section 892(b)(1) or the circumstances described in section 892(b)(2), and direct evidence of the actual belief of the debtor as to the creditor’s collection practices is not available, then for the purpose of showing that words or other means of communication, shown to have been employed as a means of collection, in fact carried an express or implicit threat, the court may in its discretion allow evidence to be introduced tending to show the reputation of the defendant in any community of which the person against whom the alleged threat was made was a member at the time of the collection or attempt at collection.
 
-(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 161; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 161; amended Pub. L. 103–322, title XXXIII, § 330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 **Editorial Notes**
 
@@ -137,9 +137,9 @@ shall be fined under this title or imprisoned not more than 20 years, or both.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in concluding provisions.
 
-## [§ 895. Repealed. Pub. L. 91–452, title II, § 223(a), Oct. 15, 1970, 84 Stat. 929]
+## [§ 895. Repealed. Pub. L. 91–452, title II, § 223(a), Oct. 15, 1970, 84 Stat. 929]
 
-Section, Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 162, related to immunity from prosecution of any witness compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title.
+Section, Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 162, related to immunity from prosecution of any witness compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -147,8 +147,8 @@ Section, Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 162, re
 
 Repeal effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual was entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of this title.
 
-## § 896. Effect on State laws
+## § 896. Effect on State laws
 
 This chapter does not preempt any field of law with respect to which State legislation would be permissible in the absence of this chapter. No law of any State which would be valid in the absence of this chapter may be held invalid or inapplicable by virtue of the exist­ence of this chapter, and no officer, agency, or instrumentality of any State may be deprived by virtue of this chapter of any jurisdiction over any offense over which it would have jurisdiction in the absence of this chapter.
 
-(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 162.)
+(Added Pub. L. 90–321, title II, § 202(a), May 29, 1968, 82 Stat. 162.)

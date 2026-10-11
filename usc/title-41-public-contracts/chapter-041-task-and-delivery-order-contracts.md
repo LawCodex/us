@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 41—TASK AND DELIVERY ORDER CONTRACTS
 
-## § 4101. Definitions
+## § 4101. Definitions
 
 In this chapter:
 
@@ -31,29 +31,29 @@ In this chapter:
 
 **(B)** provides for the issuance of orders for the performance of tasks during the period of the contract.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3778.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3778.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4101 | 41:253k. | June 30, 1949, ch. 288, title III, § 303K, as added Pub. L. 103–355, title I, § 1054(a), Oct. 13, 1994, 108 Stat. 3265. |
+| 4101 | 41:253k. | June 30, 1949, ch. 288, title III, § 303K, as added Pub. L. 103–355, title I, § 1054(a), Oct. 13, 1994, 108 Stat. 3265. |
 
-## § 4102. Authorities or responsibilities not affected
+## § 4102. Authorities or responsibilities not affected
 
 This chapter does not modify or supersede, and is not intended to impair or restrict, authorities or responsibilities under sections 1101 to 1104 of title 40.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3778.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3778.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4102 | 41:253h note. | Pub. L. 103–355, § 1054(b), Oct. 13, 1994, 108 Stat. 3265. |
+| 4102 | 41:253h note. | Pub. L. 103–355, § 1054(b), Oct. 13, 1994, 108 Stat. 3265. |
 
 The text of section 1054(b)(1) of the Federal Acquisition Streamlining Act of 1994 (Pub. L. 103–355, 41:253h note) is omitted as obsolete.
 
-## § 4103. General authority
+## § 4103. General authority
 
 **(a) Authority To Award.—** Subject to the requirements of this section, section 4106 of this title, and other applicable law, the head of an executive agency may enter into a task or delivery order contract for procurement of services or property.
 
@@ -107,17 +107,17 @@ The text of section 1054(b)(1) of the Federal Acquisition Streamlining Act of 19
 
 **(g) Relationship to Other Contracting Authority.—** Nothing in this section may be construed to limit or expand any authority of the head of an executive agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3778.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3778.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4103 | 41:253h. | June 30, 1949, ch. 288, title III, § 303H, as added Pub. L. 103–355, title I, § 1054(a), Oct. 13, 1994, 108 Stat. 3261; Pub. L. 110–181, title VIII, § 843(b)(1), Jan. 28, 2008, 122 Stat. 238. |
+| 4103 | 41:253h. | June 30, 1949, ch. 288, title III, § 303H, as added Pub. L. 103–355, title I, § 1054(a), Oct. 13, 1994, 108 Stat. 3261; Pub. L. 110–181, title VIII, § 843(b)(1), Jan. 28, 2008, 122 Stat. 238. |
 
 In subsection (a), the words “(as defined in section 253k of this title)” are omitted as unnecessary.
 
-## § 4104. Guidance on use of task and delivery order contracts
+## § 4104. Guidance on use of task and delivery order contracts
 
 **(a) Guidance in Federal Acquisition Regulation.—** The Federal Acquisition Regulation issued in accordance with sections 1121(b) and 1303(a)(1) of this title shall provide guidance to agencies on the appropriate use of task and delivery order contracts in accordance with this chapter and chapter 245 of title 10.
 
@@ -139,13 +139,13 @@ In subsection (a), the words “(as defined in section 253k of this title)” ar
 
 **(2)** the ordering and program practices followed by Federal customer agencies in using schedules established under the program.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3780; Pub. L. 117–81, div. A, title XVII, § 1702(h)(14), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3780; Pub. L. 117–81, div. A, title XVII, § 1702(h)(14), Dec. 27, 2021, 135 Stat. 2158.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4104 | 41:253h note. | Pub. L. 106–65, div. A, title VIII, § 804, Oct. 5, 1999, 113 Stat. 704. |
+| 4104 | 41:253h note. | Pub. L. 106–65, div. A, title VIII, § 804, Oct. 5, 1999, 113 Stat. 704. |
 
 In this section, the text of section 804(d) of the National Defense Authorization Act for Fiscal Year 2000 (Pub. L. 106–65, 41:253h note) is omitted as obsolete.
 
@@ -157,13 +157,13 @@ In subsection (b)(1), the words “this chapter and sections 2304a to 2304d of t
 
 **Amendments**
 
-2021—Subsecs. (a), (b)(1). Pub. L. 117–81, § 1702(h)(14)(A), (B)(i), substituted “chapter 245” for “sections 2304a to 2304d”.
+2021—Subsecs. (a), (b)(1). Pub. L. 117–81, § 1702(h)(14)(A), (B)(i), substituted “chapter 245” for “sections 2304a to 2304d”.
 
-Subsec. (b)(2)(B). Pub. L. 117–81, § 1702(h)(14)(B)(ii), substituted “section 3406(c)” for “section 2304c(b)”.
+Subsec. (b)(2)(B). Pub. L. 117–81, § 1702(h)(14)(B)(ii), substituted “section 3406(c)” for “section 2304c(b)”.
 
-Subsec. (b)(2)(C). Pub. L. 117–81, § 1702(h)(14)(B)(iii), substituted “section 3406(e)” for “section 2304c(c)”.
+Subsec. (b)(2)(C). Pub. L. 117–81, § 1702(h)(14)(B)(iii), substituted “section 3406(e)” for “section 2304c(c)”.
 
-## § 4105. Advisory and assistance services
+## § 4105. Advisory and assistance services
 
 **(a) Definition.—** In this section, the term “advisory and assistance services” has the same meaning given that term in section 1105(g) of title 31.
 
@@ -215,16 +215,16 @@ Subsec. (b)(2)(C). Pub. L. 117–81, § 1702(h)(14)(B)(iii), substituted “se
 
 **(i) Inapplicability to Certain Contracts.—** This section does not apply to a contract for the acquisition of property or services that includes acquisition of advisory and assistance services if the head of the executive agency entering into the contract determines that, under the contract, advisory and assistance services are necessarily incident to, and not a significant component of, the contract.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3780.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3780.)
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4105(a) | 41:253i(i). | June 30, 1949, ch. 288, title III, § 303I, as added Pub. L. 103–355, title I, § 1054(a), Oct. 13, 1994, 108 Stat. 3262. |
+| 4105(a) | 41:253i(i). | June 30, 1949, ch. 288, title III, § 303I, as added Pub. L. 103–355, title I, § 1054(a), Oct. 13, 1994, 108 Stat. 3262. |
 | 4105(b) | 41:253i(a). |  |
 | 4105(c)(1) | 41:253i(b). |  |
-| 4105(c)(2) | 41:253i note. | Pub. L. 109–364, div. A, title VIII, § 834(b), (c) (related to (b)), Oct. 17, 2006, 120 Stat. 2333. |
+| 4105(c)(2) | 41:253i note. | Pub. L. 109–364, div. A, title VIII, § 834(b), (c) (related to (b)), Oct. 17, 2006, 120 Stat. 2333. |
 | 4105(d) | 41:253i(c). |  |
 | 4105(e) | 41:253i(d). |  |
 | 4105(f) | 41:253i(e). |  |
@@ -238,9 +238,9 @@ In subsection (c)(2)(C), the words “Committee on Oversight and Government Refo
 
 **Senate Revision Amendment**
 
-Senate amendment to the bill effectively struck out subsec. (c)(2) and redesignated subsec. (c)(1) as (c). See S. Amdt. 4726 (111th Cong.), 156 Cong. Rec. 18683 (2010).
+Senate amendment to the bill effectively struck out subsec. (c)(2) and redesignated subsec. (c)(1) as (c). See S. Amdt. 4726 (111th Cong.), 156 Cong. Rec. 18683 (2010).
 
-## § 4106. Orders
+## § 4106. Orders
 
 **(a) Application.—** This section applies to task and delivery order contracts entered into under sections 4103 and 4105 of this title.
 
@@ -294,17 +294,17 @@ Senate amendment to the bill effectively struck out subsec. (c)(2) and redesigna
 
 **(2) Who is eligible.—** The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the executive agency’s advocate for competition.
 
-(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3782; Pub. L. 111–383, div. A, title X, § 1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 112–81, div. A, title VIII, § 813, Dec. 31, 2011, 125 Stat. 1491; Pub. L. 114–260, § 2, Dec. 14, 2016, 130 Stat. 1361; Pub. L. 114–328, div. A, title VIII, § 835(b), Dec. 23, 2016, 130 Stat. 2285; Pub. L. 116–92, div. A, title VIII, § 826, Dec. 20, 2019, 133 Stat. 1491.)
+(Pub. L. 111–350, § 3, Jan. 4, 2011, 124 Stat. 3782; Pub. L. 111–383, div. A, title X, § 1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 112–81, div. A, title VIII, § 813, Dec. 31, 2011, 125 Stat. 1491; Pub. L. 114–260, § 2, Dec. 14, 2016, 130 Stat. 1361; Pub. L. 114–328, div. A, title VIII, § 835(b), Dec. 23, 2016, 130 Stat. 2285; Pub. L. 116–92, div. A, title VIII, § 826, Dec. 20, 2019, 133 Stat. 1491.)
 
 **Amendment Not Shown in Text**
 
-This section was derived from section 253j of former Title 41, Public Contracts, which was amended by Pub. L. 110–181, div. A, title VIII, § 843(b)(2)(C), Jan. 28, 2008, 122 Stat. 239, to add subsec. (e), from which subsec. (f) of this section was derived, prior to being repealed and reenacted as this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. The directory language of section 843(b)(2)(C) of Pub. L. 110–181 was amended by Pub. L. 111–383, div. A, title X, § 1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 843(b)(2)(C) of Pub. L. 110–181 was amended by striking “paragraph (1)” and inserting “subparagraph (A)”.
+This section was derived from section 253j of former Title 41, Public Contracts, which was amended by Pub. L. 110–181, div. A, title VIII, § 843(b)(2)(C), Jan. 28, 2008, 122 Stat. 239, to add subsec. (e), from which subsec. (f) of this section was derived, prior to being repealed and reenacted as this section by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. The directory language of section 843(b)(2)(C) of Pub. L. 110–181 was amended by Pub. L. 111–383, div. A, title X, § 1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 843(b)(2)(C) of Pub. L. 110–181 was amended by striking “paragraph (1)” and inserting “subparagraph (A)”.
 
 **Historical and Revision Notes**
 
 | *Revised* *Section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 4106(a) | 41:253j(g). | June 30, 1949, ch. 288, title III, § 303J, as added Pub. L. 103–355, title I, § 1054(a), Oct. 13, 1994, 108 Stat. 3264; Pub. L. 110–181, div. A, title VIII, § 843(b)(2), Jan. 28, 2008, 122 Stat. 238. |
+| 4106(a) | 41:253j(g). | June 30, 1949, ch. 288, title III, § 303J, as added Pub. L. 103–355, title I, § 1054(a), Oct. 13, 1994, 108 Stat. 3264; Pub. L. 110–181, div. A, title VIII, § 843(b)(2), Jan. 28, 2008, 122 Stat. 238. |
 | 4106(b) | 41:253j(a). |  |
 | 4106(c) | 41:253j(b). |  |
 | 4106(d) | 41:253j(d). |  |
@@ -328,4 +328,4 @@ In subsection (g)(2), the words “advocate for competition” are substituted f
 
 **Postaward Explanations for Unsuccessful Offerors for Certain Contracts**
 
-Pub. L. 116–92, div. A, title VIII, § 874, Dec. 20, 2019, 133 Stat. 1527, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Federal Acquisition Regulation shall be revised to require that with respect to an offer for a task order or delivery order in an amount greater than the simplified acquisition threshold (as defined in section 134 of title 41, United States Code) and less than or equal to $5,500,000 issued under an indefinite delivery-indefinite quantity contract, the contracting officer for such contract shall, upon written request from an unsuccessful offeror, provide a brief explanation as to why such offeror was unsuccessful that includes a summary of the rationale for the award and an evaluation of the significant weak or deficient factors in the offeror’s offer.”
+Pub. L. 116–92, div. A, title VIII, § 874, Dec. 20, 2019, 133 Stat. 1527, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Federal Acquisition Regulation shall be revised to require that with respect to an offer for a task order or delivery order in an amount greater than the simplified acquisition threshold (as defined in section 134 of title 41, United States Code) and less than or equal to $5,500,000 issued under an indefinite delivery-indefinite quantity contract, the contracting officer for such contract shall, upon written request from an unsuccessful offeror, provide a brief explanation as to why such offeror was unsuccessful that includes a summary of the rationale for the award and an evaluation of the significant weak or deficient factors in the offeror’s offer.”

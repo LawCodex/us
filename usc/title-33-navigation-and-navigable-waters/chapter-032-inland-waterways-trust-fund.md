@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 32—INLAND WATERWAYS TRUST FUND
 
-## §§ 1801, 1802. Repealed. Pub. L. 99–662, title XIV, § 1405(b), Nov. 17, 1986, 100 Stat. 4271
+## §§ 1801, 1802. Repealed. Pub. L. 99–662, title XIV, § 1405(b), Nov. 17, 1986, 100 Stat. 4271
 
-Section 1801, Pub. L. 95–502, title II, § 203, Oct. 21, 1978, 92 Stat. 1697, established Inland Waterways Trust Fund. See section 9506 of Title 26, Internal Revenue Code.
+Section 1801, Pub. L. 95–502, title II, § 203, Oct. 21, 1978, 92 Stat. 1697, established Inland Waterways Trust Fund. See section 9506 of Title 26, Internal Revenue Code.
 
-Section 1802, Pub. L. 95–502, title II, § 204, Oct. 21, 1978, 92 Stat. 1698, made Inland Waterways Trust Fund available for expenditures for navigation construction and rehabilitation projects on inland waterways. See section 9506 of Title 26.
+Section 1802, Pub. L. 95–502, title II, § 204, Oct. 21, 1978, 92 Stat. 1698, made Inland Waterways Trust Fund available for expenditures for navigation construction and rehabilitation projects on inland waterways. See section 9506 of Title 26.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -27,7 +27,7 @@ Section 1802, Pub. L. 95–502, title II, § 204, Oct. 21, 1978, 92 Stat. 1698
 
 Repeal effective Jan. 1, 1987, see section 1405(d)(1) of Pub. L. 99–662, set out as an Effective Date note under section 9506 of Title 26, Internal Revenue Code.
 
-## § 1803. Study with respect to inland waterway user taxes and charges
+## § 1803. Study with respect to inland waterway user taxes and charges
 
 **(a) Study directed** The Secretary of Transportation, and the Secretary of Commerce, in consultation with the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Energy, the Attorney General of the United States, the Secretary of the Army, the Chairman of the Water Resources Council, and the Director of the Office of Management and Budget, shall—
 
@@ -125,7 +125,7 @@ Not later than September 30, 1981, the Secretary of Transportation shall transmi
 
 There are hereby authorized to be appropriated from time to time to the Secretary of Transportation such sums, not to exceed $8,000,000 in the aggregate, as may be necessary to carry out the study required by this section.
 
-(Pub. L. 95–502, title II, § 205, Oct. 21, 1978, 92 Stat. 1698; Pub. L. 104–88, title III, § 338, Dec. 29, 1995, 109 Stat. 954.)
+(Pub. L. 95–502, title II, § 205, Oct. 21, 1978, 92 Stat. 1698; Pub. L. 104–88, title III, § 338, Dec. 29, 1995, 109 Stat. 954.)
 
 **Editorial Notes**
 
@@ -147,11 +147,11 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 For short title of title II of Pub. L. 95–502 as the “Inland Waterways Revenue Act of 1978”, see section 201 of Pub. L. 95–502, set out as a Short Title of 1978 Amendment note under section 1 of Title 26, Internal Revenue Code.
 
-## § 1804. Inland and intracoastal waterways of the United States
+## § 1804. Inland and intracoastal waterways of the United States
 
-For purposes of section 4042 of title 26 (relating to tax on fuel used in commercial transportation on inland waterways) and for purposes of section 1802 1
+For purposes of section 4042 of title 26 (relating to tax on fuel used in commercial transportation on inland waterways) and for purposes of section 1802 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, the following inland and intracoastal waterways of the United States are described in this section:
 
@@ -159,19 +159,19 @@ of this title, the following inland and intracoastal waterways of the United Sta
 
 **(2)** Allegheny River: From confluence with the Monongahela River to form the Ohio River at RM 0 to the head of the existing project at East Brady, Pennsylvania, RM 72.
 
-**(3)** Apalachicola-Chattahoochee and Flint Rivers: Apalachicola River from mouth at Apalachicola Bay (intersection with the Gulf Intracoastal Waterway) RM 0 to junction with Chattachoochee 2
+**(3)** Apalachicola-Chattahoochee and Flint Rivers: Apalachicola River from mouth at Apalachicola Bay (intersection with the Gulf Intracoastal Waterway) RM 0 to junction with Chattachoochee 2
 
-<sup>2</sup>  So in original. Probably should be “Chattahoochee”.
+<sup>2</sup> So in original. Probably should be “Chattahoochee”.
 
-and Flint Rivers at RM 107.8. Chattachoochee 2 River from junction with Apalachicola and Flint Rivers at RM 0 to Columbus, Georgia, at RM 155 and Flint River, from junction with Apalachicola and Chattahoochee Rivers at RM 0 to Bainbridge, Georgia, at RM 28.
+and Flint Rivers at RM 107.8. Chattachoochee 2 River from junction with Apalachicola and Flint Rivers at RM 0 to Columbus, Georgia, at RM 155 and Flint River, from junction with Apalachicola and Chattahoochee Rivers at RM 0 to Bainbridge, Georgia, at RM 28.
 
 **(4)** Arkansas River (McClellan-Kerr Arkansas River Navigation System): From junction with Mississippi River at RM 0 to port of Catoosa, Oklahoma, at RM 448.2.
 
 **(5)** Atchafalaya River: From RM 0 at its intersection with the Gulf Intracoastal Waterway at Morgan City, Louisiana, upstream to junction with Red River at RM 116.8.
 
-**(6)** Atlantic Intracoastal Waterway: Two inland water routes approximately paralleling the Atlantic coast between Norfolk, Virginia, and Miami, Florida, for 1,192 miles via both the Albermarle 3
+**(6)** Atlantic Intracoastal Waterway: Two inland water routes approximately paralleling the Atlantic coast between Norfolk, Virginia, and Miami, Florida, for 1,192 miles via both the Albermarle 3
 
-<sup>3</sup>  So in original. Probably should be “Albemarle”.
+<sup>3</sup> So in original. Probably should be “Albemarle”.
 
 and Chesapeake Canal and Great Dismal Swamp Canal routes.
 
@@ -217,13 +217,13 @@ and Chesapeake Canal and Great Dismal Swamp Canal routes.
 
 **(27)** Tennessee-Tombigbee Waterway: From its confluence with the Tennessee River to the Warrior River at Demopolis, Alabama.
 
-(Pub. L. 95–502, title II, § 206, Oct. 21, 1978, 92 Stat. 1700; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–662, title XIV, § 1404(b), Nov. 17, 1986, 100 Stat. 4270.)
+(Pub. L. 95–502, title II, § 206, Oct. 21, 1978, 92 Stat. 1700; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–662, title XIV, § 1404(b), Nov. 17, 1986, 100 Stat. 4270.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 1802 of this title, referred to in text, was repealed by Pub. L. 99–662, title XIV, § 1405(b), Nov. 17, 1986, 100 Stat. 4271.
+Section 1802 of this title, referred to in text, was repealed by Pub. L. 99–662, title XIV, § 1405(b), Nov. 17, 1986, 100 Stat. 4271.
 
 **Amendments**
 

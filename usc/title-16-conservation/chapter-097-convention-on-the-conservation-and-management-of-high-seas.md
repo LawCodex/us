@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 97—CONVENTION ON THE CONSERVATION AND MANAGEMENT OF HIGH SEAS FISHERY RESOURCES IN THE SOUTH PACIFIC
 
-## § 7801. Definitions
+## § 7801. Definitions
 
 In this chapter:
 
@@ -85,9 +85,9 @@ The term “South Pacific Fishery Resources Convention” means the Convention o
 
 The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and any other commonwealth, territory, or possession of the United States.
 
-(Pub. L. 114–327, title II, § 201, Dec. 16, 2016, 130 Stat. 1985.)
+(Pub. L. 114–327, title II, § 201, Dec. 16, 2016, 130 Stat. 1985.)
 
-## § 7802. Appointment or designation of United States Commissioners
+## § 7802. Appointment or designation of United States Commissioners
 
 **(a) Appointment**
 
@@ -171,7 +171,7 @@ A majority of the members of the Advisory Committee shall constitute a quorum to
 
 Meetings of the Advisory Committee, except when in executive session, shall be open to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(v) Cost savings**
 
@@ -193,17 +193,17 @@ The Secretary shall provide to the Advisory Committee in a timely manner such ad
 
 **(ii)** shall not be considered a Federal employee, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
 
-(Pub. L. 114–327, title II, § 202, Dec. 16, 2016, 130 Stat. 1987.)
+(Pub. L. 114–327, title II, § 202, Dec. 16, 2016, 130 Stat. 1987.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1)(C)(i), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1)(C)(i), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
-## § 7803. Authority and responsibility of the Secretary of State
+## § 7803. Authority and responsibility of the Secretary of State
 
 The Secretary of State may—
 
@@ -213,9 +213,9 @@ The Secretary of State may—
 
 **(3)** with the concurrence of the Secretary, and in accordance with the South Pacific Fishery Resources Convention, object to decisions of the Commission.
 
-(Pub. L. 114–327, title II, § 203, Dec. 16, 2016, 130 Stat. 1989.)
+(Pub. L. 114–327, title II, § 203, Dec. 16, 2016, 130 Stat. 1989.)
 
-## § 7804. Responsibility of the Secretary and rulemaking authority
+## § 7804. Responsibility of the Secretary and rulemaking authority
 
 **(a) Responsibilities** The Secretary may—
 
@@ -257,23 +257,23 @@ A response of the Secretary under paragraph (2) shall include a copy of the admi
 
 Upon a motion by the person who files a petition under this subsection, the appropriate court shall assign the matter for hearing at the earliest possible date.
 
-(Pub. L. 114–327, title II, § 204, Dec. 16, 2016, 130 Stat. 1989.)
+(Pub. L. 114–327, title II, § 204, Dec. 16, 2016, 130 Stat. 1989.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Tuna Conventions Act of 1950, referred to in subsec. (c), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
+The Tuna Conventions Act of 1950, referred to in subsec. (c), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
-The South Pacific Tuna Act of 1988, referred to in subsec. (c), is Pub. L. 100–330, June 7, 1988, 102 Stat. 591, which is classified generally to chapter 16C (§ 973 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 973 of this title and Tables.
+The South Pacific Tuna Act of 1988, referred to in subsec. (c), is Pub. L. 100–330, June 7, 1988, 102 Stat. 591, which is classified generally to chapter 16C (§ 973 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 973 of this title and Tables.
 
-The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (c), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (c), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 The National Oceanic and Atmospheric Administration Authorization Act of 1992, referred to in subsec. (c), is Pub. L. 102–567, Oct. 29, 1992, 106 Stat. 4270. For complete classification of this Act to the Code, see Tables.
 
-## § 7805. Enforcement
+## § 7805. Enforcement
 
 **(a) Responsibility**
 
@@ -299,15 +299,15 @@ The district courts of the United States shall have jurisdiction over any action
 
 Each violation shall be a separate offense and the offense is deemed to have been committed not only in the district where the violation first occurred, but also in any other district as authorized by law. Any offenses not committed in any district are subject to the venue provisions of section 3238 of title 18.
 
-(Pub. L. 114–327, title II, § 205, Dec. 16, 2016, 130 Stat. 1990.)
+(Pub. L. 114–327, title II, § 205, Dec. 16, 2016, 130 Stat. 1990.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-## § 7806. Prohibited acts.
+## § 7806. Prohibited acts.
 
 It is unlawful for any person—
 
@@ -339,9 +339,9 @@ It is unlawful for any person—
 
 **(14)** to refuse to authorize and accept boarding by a duly authorized inspector pursuant to procedures adopted by the Commission for the boarding and inspection of fishing vessels in the Convention Area.
 
-(Pub. L. 114–327, title II, § 206, Dec. 16, 2016, 130 Stat. 1991.)
+(Pub. L. 114–327, title II, § 206, Dec. 16, 2016, 130 Stat. 1991.)
 
-## § 7807. Cooperation in carrying out the Convention
+## § 7807. Cooperation in carrying out the Convention
 
 **(a) Federal and State agencies; private institutions and organizations**
 
@@ -361,21 +361,21 @@ All Federal agencies may, upon the request of the Secretary, cooperate in the co
 
 Nothing in this chapter shall be construed to diminish or to increase the jurisdiction of any State in the territorial sea of the United States.
 
-(Pub. L. 114–327, title II, § 207, Dec. 16, 2016, 130 Stat. 1992.)
+(Pub. L. 114–327, title II, § 207, Dec. 16, 2016, 130 Stat. 1992.)
 
-## § 7808. Territorial participation
+## § 7808. Territorial participation
 
 The Secretary of State shall ensure participation in the Commission and its subsidiary bodies by American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands to the extent allowed under United States law.
 
-(Pub. L. 114–327, title II, § 208, Dec. 16, 2016, 130 Stat. 1992.)
+(Pub. L. 114–327, title II, § 208, Dec. 16, 2016, 130 Stat. 1992.)
 
-## § 7809. Exclusive economic zone notification
+## § 7809. Exclusive economic zone notification
 
 Masters of commercial fishing vessels of countries fishing under the management authority of the South Pacific Fisheries Convention that do not carry vessel monitoring systems capable of communicating with United States enforcement authorities shall, before or as soon as reasonably possible after, entering and transiting the exclusive economic zone bounded by the Convention Area, ensure that all fishing gear on board the vessel is stowed below deck or otherwise removed from the place it is normally used for fishing activities and placed where it is not readily available for fishing activities.
 
-(Pub. L. 114–327, title II, § 209, Dec. 16, 2016, 130 Stat. 1993.)
+(Pub. L. 114–327, title II, § 209, Dec. 16, 2016, 130 Stat. 1993.)
 
-## § 7810. Authorization of appropriations
+## § 7810. Authorization of appropriations
 
 **(a) In general**
 
@@ -391,4 +391,4 @@ Subject to the limits of available appropriations and consistent with applicable
 
 Subject to the limits of available appropriations and consistent with other applicable law, the Secretary and the Secretary of State are authorized to transfer funds to any foreign government and any international, non-governmental, or international organization, including the Commission, for purposes of carrying out the international responsibilities under paragraph (1).
 
-(Pub. L. 114–327, title II, § 210, Dec. 16, 2016, 130 Stat. 1993.)
+(Pub. L. 114–327, title II, § 210, Dec. 16, 2016, 130 Stat. 1993.)

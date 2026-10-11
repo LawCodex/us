@@ -19,23 +19,23 @@ retrieved: 2026-10-11
 
 **Prior Provisions**
 
-A prior chapter 203 “GENERAL MATTERS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3021, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1807(a), Jan. 1, 2021, 134 Stat. 4156.
+A prior chapter 203 “GENERAL MATTERS”, as added by Pub. L. 115–232, div. A, title VIII, § 801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3021, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1807(a), Jan. 1, 2021, 134 Stat. 4156.
 
 **Amendments**
 
-2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(2), Dec. 18, 2025, 139 Stat. 948, struck out item 3070 “Limitation on acquisition of excess supplies”. Amendment was made pursuant to operation of section 102 of this title.
+2025—Pub. L. 119–60, div. A, title VIII, § 811(a)(2), Dec. 18, 2025, 139 Stat. 948, struck out item 3070 “Limitation on acquisition of excess supplies”. Amendment was made pursuant to operation of section 102 of this title.
 
-2024—Pub. L. 118–159, div. A, title VIII, § 813(b), Dec. 23, 2024, 138 Stat. 1980, substituted “Comptroller General assessment of acquisition programs and initiatives” for “Comptroller General assessment of acquisition programs and efforts” in item 3072.
+2024—Pub. L. 118–159, div. A, title VIII, § 813(b), Dec. 23, 2024, 138 Stat. 1980, substituted “Comptroller General assessment of acquisition programs and initiatives” for “Comptroller General assessment of acquisition programs and efforts” in item 3072.
 
-2022—Pub. L. 117–263, div. A, title VIII, § 812(b), Dec. 23, 2022, 136 Stat. 2706, substituted “efforts” for “initiatives” in item 3072.
+2022—Pub. L. 117–263, div. A, title VIII, § 812(b), Dec. 23, 2022, 136 Stat. 2706, substituted “efforts” for “initiatives” in item 3072.
 
-2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(3), Dec. 27, 2021, 135 Stat. 2139, inserted “of” after “Applicability” in item 3064.
+2021—Pub. L. 117–81, div. A, title XVII, § 1701(f)(3), Dec. 27, 2021, 135 Stat. 2139, inserted “of” after “Applicability” in item 3064.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Internal Controls for Department of Defense Procurements Through GSA Client Support Centers**
 
-Pub. L. 108–375, div. A, title VIII, § 802, Oct. 28, 2004, 118 Stat. 2004, as amended by Pub. L. 109–313, § 2(c)(2), Oct. 6, 2006, 120 Stat. 1735; Pub. L. 116–92, div. A, title IX, § 902(38), Dec. 20, 2019, 133 Stat. 1547, provided that:
+Pub. L. 108–375, div. A, title VIII, § 802, Oct. 28, 2004, 118 Stat. 2004, as amended by Pub. L. 109–313, § 2(c)(2), Oct. 6, 2006, 120 Stat. 1735; Pub. L. 116–92, div. A, title IX, § 902(38), Dec. 20, 2019, 133 Stat. 1547, provided that:
 
 > **“(a) Initial Inspector General Review and Determination.—**
 
@@ -79,11 +79,11 @@ Pub. L. 108–375, div. A, title VIII, § 802, Oct. 28, 2004, 118 Stat. 2004, 
 
 > **“(f) GSA Client Support Center Defined.—** In this section, the term ‘GSA Client Support Center’ means a Client Support Center of the Federal Acquisition Service of the General Services Administration.”
 
-## § 3062. Regulations
+## § 3062. Regulations
 
 The Secretary of Defense is required by section 2202 of this title to prescribe regulations governing the performance within the Department of Defense of the procurement functions, and related functions, of the Department of Defense.
 
-(Added Pub. L. 116–283, div. A, title XVIII, § 1807(b)(1), Jan. 1, 2021, 134 Stat. 4157; amended Pub. L. 117–81, div. A, title XVII, § 1701(b)(2)(A), (j), Dec. 27, 2021, 135 Stat. 2132, 2143.)
+(Added Pub. L. 116–283, div. A, title XVIII, § 1807(b)(1), Jan. 1, 2021, 134 Stat. 4157; amended Pub. L. 117–81, div. A, title XVII, § 1701(b)(2)(A), (j), Dec. 27, 2021, 135 Stat. 2132, 2143.)
 
 **Editorial Notes**
 
@@ -93,9 +93,9 @@ A prior section 3062 was renumbered section 7062 of this title.
 
 **Amendments**
 
-2021—Pub. L. 117–81, § 1701(j), amended text of section enacted by Pub. L. 116–283, § 1807(b)(1), by substituting “is required by section 2202 of this title to prescribe” for “shall prescribe”.
+2021—Pub. L. 117–81, § 1701(j), amended text of section enacted by Pub. L. 116–283, § 1807(b)(1), by substituting “is required by section 2202 of this title to prescribe” for “shall prescribe”.
 
-Pub. L. 117–81, § 1701(b)(2)(A), amended directory language of Pub. L. 116–283, § 1807(b)(1), which enacted this section.
+Pub. L. 117–81, § 1701(b)(2)(A), amended directory language of Pub. L. 116–283, § 1807(b)(1), which enacted this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -109,7 +109,7 @@ Section effective Jan. 1, 2022, with additional provisions for delayed implement
 
 **Pilot Program on Military Working Dog and Explosives Detection Canine Health and Excellence**
 
-Pub. L. 117–81, div. A, title III, § 381, Dec. 27, 2021, 135 Stat. 1671, as amended by Pub. L. 117–263, div. A, title III, § 386(a), Dec. 23, 2022, 136 Stat. 2544, provided that:
+Pub. L. 117–81, div. A, title III, § 381, Dec. 27, 2021, 135 Stat. 1671, as amended by Pub. L. 117–263, div. A, title III, § 386(a), Dec. 23, 2022, 136 Stat. 2544, provided that:
 
 > **“(a) Pilot Program.—** Not later than September 31, 2022, the Secretary of Defense shall carry out a pilot program to ensure the health and excellence of explosives detection military working dogs. Under such pilot program, the Secretary shall consult with domestic breeders of working dog lines, covered institutions of higher education, and covered national domestic canine associations, to—
 
@@ -139,7 +139,7 @@ Pub. L. 117–81, div. A, title III, § 381, Dec. 27, 2021, 135 Stat. 1671, as
 
 **Restriction on Department of Defense Procurement of Certain Items Containing Perfluorooctane Sulfonate or Perfluorooctanoic Acid**
 
-Pub. L. 116–283, div. A, title III, § 333, Jan. 1, 2021, 134 Stat. 3531, provided that:
+Pub. L. 116–283, div. A, title III, § 333, Jan. 1, 2021, 134 Stat. 3531, provided that:
 
 > **“(a) Prohibition.—** The Department of Defense may not procure any covered item that contains perfluorooctane sulfonate (PFOS) or perfluorooctanoic acid (PFOA).
 
@@ -151,7 +151,7 @@ Pub. L. 116–283, div. A, title III, § 333, Jan. 1, 2021, 134 Stat. 3531, pr
 
 > **“(c) Effective Date.—** This section shall take effect on April 1, 2023.”
 
-## § 3063. Covered agencies
+## § 3063. Covered agencies
 
 For purposes of any provision of law referring to this section, the agencies named in this section are the following:
 
@@ -167,13 +167,13 @@ For purposes of any provision of law referring to this section, the agencies nam
 
 **(6)** The National Aeronautics and Space Administration.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1807(c)(1), (2), Jan. 1, 2021, 134 Stat. 4157.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1807(c)(1), (2), Jan. 1, 2021, 134 Stat. 4157.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of pars. (1) to (6) of section 2303(a) of this title, which were transferred to this section by Pub. L. 116–283, § 1807(c)(2), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–568, title III, § 301(b), July 29, 1958, 72 Stat. 432; Pub. L. 98–369, div. B, title VII, § 2722(b)(1)(C), (D), July 18, 1984, 98 Stat. 1187.
+The text of pars. (1) to (6) of section 2303(a) of this title, which were transferred to this section by Pub. L. 116–283, § 1807(c)(2), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 85–568, title III, § 301(b), July 29, 1958, 72 Stat. 432; Pub. L. 98–369, div. B, title VII, § 2722(b)(1)(C), (D), July 18, 1984, 98 Stat. 1187.
 
 **Prior Provisions**
 
@@ -181,7 +181,7 @@ A prior section 3063 was renumbered section 7063 of this title.
 
 **Amendments**
 
-2021—Pars. (1) to (6). Pub. L. 116–283, § 1807(c)(2), transferred pars. (1) to (6) of section 2303(a) of this title to this section.
+2021—Pars. (1) to (6). Pub. L. 116–283, § 1807(c)(2), transferred pars. (1) to (6) of section 2303(a) of this title to this section.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -189,19 +189,19 @@ A prior section 3063 was renumbered section 7063 of this title.
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3064. Applicability of chapter 137 legacy provisions
+## § 3064. Applicability of chapter 137 legacy provisions
 
 **(a) General Applicability.—** Any provision of this part that is a chapter 137 legacy provision applies to the procurement by any of the agencies named in section 3063 of this title, for its use or otherwise, of all property (other than land) and all services for which payment is to be made from appropriated funds.
 
 **(b) Applicability to Contracts for Installation or Alteration.—** The provisions of this part that are chapter 137 legacy provisions that apply to the procurement of property apply also to contracts for its installation or alteration.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1807(c)(1), (3), Jan. 1, 2021, 134 Stat. 4157; Pub. L. 117–81, div. A, title XVII, § 1701(b)(2)(B), Dec. 27, 2021, 135 Stat. 2132.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1807(c)(1), (3), Jan. 1, 2021, 134 Stat. 4157; Pub. L. 117–81, div. A, title XVII, § 1701(b)(2)(B), Dec. 27, 2021, 135 Stat. 2132.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (a) introductory provisions and subsec. (b) of section 2303 of this title, which were transferred to this section and amended by Pub. L. 116–283, § 1807(c)(3), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 98–369, div. B, title VII, § 2722(b)(1)(A), (B), (3), July 18, 1984, 98 Stat. 1187.
+The text of subsec. (a) introductory provisions and subsec. (b) of section 2303 of this title, which were transferred to this section and amended by Pub. L. 116–283, § 1807(c)(3), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 98–369, div. B, title VII, § 2722(b)(1)(A), (B), (3), July 18, 1984, 98 Stat. 1187.
 
 **Prior Provisions**
 
@@ -209,11 +209,11 @@ A prior section 3064 was renumbered section 7064 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1807(c)(3), transferred introductory provisions of subsec. (a) and subsec. (b) of section 2303 of this title to this section.
+2021—Pub. L. 116–283, § 1807(c)(3), transferred introductory provisions of subsec. (a) and subsec. (b) of section 2303 of this title to this section.
 
-Subsec. (a). Pub. L. 116–283, § 1807(c)(3)(A), as amended by Pub. L. 117–81, § 1701(b)(2)(B), inserted heading and substituted “Any provision of this part that is a chapter 137 legacy provision” for “This chapter”, “of the agencies named in section 3063 of this title” for “of the following agencies”, and period for colon at end.
+Subsec. (a). Pub. L. 116–283, § 1807(c)(3)(A), as amended by Pub. L. 117–81, § 1701(b)(2)(B), inserted heading and substituted “Any provision of this part that is a chapter 137 legacy provision” for “This chapter”, “of the agencies named in section 3063 of this title” for “of the following agencies”, and period for colon at end.
 
-Subsec. (b). Pub. L. 116–283, § 1807(c)(3)(B), inserted heading and substituted “The provisions of this part that are chapter 137 legacy provisions” for “The provisions of this chapter”.
+Subsec. (b). Pub. L. 116–283, § 1807(c)(3)(B), inserted heading and substituted “The provisions of this part that are chapter 137 legacy provisions” for “The provisions of this chapter”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -225,17 +225,17 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3065. Assignment and delegation of procurement functions and responsibilities: delegation within agency
+## § 3065. Assignment and delegation of procurement functions and responsibilities: delegation within agency
 
 Except to the extent expressly prohibited by another provision of law, the head of an agency may delegate, subject to his direction, to any other officer or official of that agency, any power under any provision of this part that is a chapter 137 legacy provision.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 132, § 2311; Pub. L. 85–800, § 11, Aug. 28, 1958, 72 Stat. 967; Pub. L. 87–653, § 1(g), Sept. 10, 1962, 76 Stat. 529; Pub. L. 90–378, § 3, July 5, 1968, 82 Stat. 290; Pub. L. 97–86, title IX, §§ 907(c), 909(f), Dec. 1, 1981, 95 Stat. 1117, 1120; Pub. L. 98–369, div. B, title VII, § 2726, July 18, 1984, 98 Stat. 1194; Pub. L. 98–525, title XII, § 1214, Oct. 19, 1984, 98 Stat. 2592; Pub. L. 98–577, title V, § 505, Oct. 30, 1984, 98 Stat. 3087; Pub. L. 103–355, title I, § 1503(a)(1), Oct. 13, 1994, 108 Stat. 3296; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, § 902(49), Dec. 20, 2019, 133 Stat. 1548; renumbered § 3065 and amended Pub. L. 116–283, div. A, title XVIII, § 1807(d)(1), (2)(A)–(C), (3), Jan. 1, 2021, 134 Stat. 4157, 4158.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 132, § 2311; Pub. L. 85–800, § 11, Aug. 28, 1958, 72 Stat. 967; Pub. L. 87–653, § 1(g), Sept. 10, 1962, 76 Stat. 529; Pub. L. 90–378, § 3, July 5, 1968, 82 Stat. 290; Pub. L. 97–86, title IX, §§ 907(c), 909(f), Dec. 1, 1981, 95 Stat. 1117, 1120; Pub. L. 98–369, div. B, title VII, § 2726, July 18, 1984, 98 Stat. 1194; Pub. L. 98–525, title XII, § 1214, Oct. 19, 1984, 98 Stat. 2592; Pub. L. 98–577, title V, § 505, Oct. 30, 1984, 98 Stat. 3087; Pub. L. 103–355, title I, § 1503(a)(1), Oct. 13, 1994, 108 Stat. 3296; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, § 902(49), Dec. 20, 2019, 133 Stat. 1548; renumbered § 3065 and amended Pub. L. 116–283, div. A, title XVIII, § 1807(d)(1), (2)(A)–(C), (3), Jan. 1, 2021, 134 Stat. 4157, 4158.)
 
 **Historical and Revision Notes**
 
 | *Revised section* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 2311 | 41:156(a) (less 1st sentence). 41:156(b). | Feb. 19, 1948, ch. 65, § 7(a) (less 1st sentence), (b), 62 Stat. 24. |
+| 2311 | 41:156(a) (less 1st sentence). 41:156(b). | Feb. 19, 1948, ch. 65, § 7(a) (less 1st sentence), (b), 62 Stat. 24. |
 
 The words “in his discretion and” and “including the making of such determinations and decisions” are omitted as surplusage. The words “except the power to make determinations and decisions” are substituted for the words “Except as provided in subsection (b) of this section” and “The power of the agency head to make the determinations or decisions specified in paragraphs (12)–(16) of section 151(c) of this title and in section 154(a) of this title shall not be delegable”.
 
@@ -245,15 +245,15 @@ The words “in his discretion and” and “including the making of such determ
 
 A prior section 3065 was renumbered section 7065 of this title.
 
-Provisions similar to those in this section were contained in section 2308 of this title prior to repeal by Pub. L. 103–355, § 1503(b)(1).
+Provisions similar to those in this section were contained in section 2308 of this title prior to repeal by Pub. L. 103–355, § 1503(b)(1).
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1807(d)(2)(C), (3), in section catchline, substituted “Assignment and delegation of procurement functions and responsibilities: delegation within agency” for “Emergency situations involving weapons of mass destruction” and, in text, struck out subsec. (a) designation and heading “In General” at beginning, and substituted “under any provision of this part that is a chapter 137 legacy provision” for “under this chapter”.
+2021—Pub. L. 116–283, § 1807(d)(2)(C), (3), in section catchline, substituted “Assignment and delegation of procurement functions and responsibilities: delegation within agency” for “Emergency situations involving weapons of mass destruction” and, in text, struck out subsec. (a) designation and heading “In General” at beginning, and substituted “under any provision of this part that is a chapter 137 legacy provision” for “under this chapter”.
 
-Pub. L. 116–283, § 1807(d)(1), renumbered section 2311 of this title as this section.
+Pub. L. 116–283, § 1807(d)(1), renumbered section 2311 of this title as this section.
 
-Subsecs. (b), (c). Pub. L. 116–283, § 1807(d)(2)(A), (B), transferred subsecs. (b) and (c) of this section to sections 3066 and 3067 of this title, respectively.
+Subsecs. (b), (c). Pub. L. 116–283, § 1807(d)(2)(A), (B), transferred subsecs. (b) and (c) of this section to sections 3066 and 3067 of this title, respectively.
 
 2019—Subsec. (c)(1), (2)(B). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
@@ -273,7 +273,7 @@ Pub. L. 98–369 inserted provision relating to the exception provided in sectio
 
 1962—Pub. L. 87–653 substituted “delegated to any other officer” for “delegated only to a chief officer” and “$100,000” for “$25,000”.
 
-1958—Pub. L. 85–800 struck out “, or section 2307(a)” after “of section 2304(a)” in first sentence.
+1958—Pub. L. 85–800 struck out “, or section 2307(a)” after “of section 2304(a)” in first sentence.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -291,9 +291,9 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 
 **Effective Date of 1962 Amendment**
 
-Pub. L. 87–653, § 1(h), Sept. 10, 1962, 76 Stat. 529, provided that: “The amendments made by this Act [amending this section and sections 2304, 2306, and 2310 (now 4751) of this title] shall take effect on the first day of the third calendar month which begins after the date of enactment of this Act [Sept. 10, 1962].”
+Pub. L. 87–653, § 1(h), Sept. 10, 1962, 76 Stat. 529, provided that: “The amendments made by this Act [amending this section and sections 2304, 2306, and 2310 (now 4751) of this title] shall take effect on the first day of the third calendar month which begins after the date of enactment of this Act [Sept. 10, 1962].”
 
-## § 3066. Assignment and delegation of procurement functions and responsibilities: procurements for or with other agencies
+## § 3066. Assignment and delegation of procurement functions and responsibilities: procurements for or with other agencies
 
 Subject to section 3065 of this title, to facilitate the procurement of property and services covered by any provision of this part that is a chapter 137 legacy provision by each agency named in section 3063 of this title for any other agency, and to facilitate joint procurement by those agencies—
 
@@ -303,21 +303,21 @@ Subject to section 3065 of this title, to facilitate the procurement of property
 
 **(3)** the heads of two or more agencies may create joint or combined offices to exercise procurement functions and responsibilities.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1807(d)(2)(A), (D), Jan. 1, 2021, 134 Stat. 4158.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1807(d)(2)(A), (D), Jan. 1, 2021, 134 Stat. 4158.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (b) of section 2311 of this title, which was transferred first to section 3065(b) of this title and then to this section and amended by Pub. L. 116–283, § 1807(d)(1), (2)(A), (D), was based on Pub. L. 103–355, title I, § 1503(a)(1), Oct. 13, 1994, 108 Stat. 3296.
+The text of subsec. (b) of section 2311 of this title, which was transferred first to section 3065(b) of this title and then to this section and amended by Pub. L. 116–283, § 1807(d)(1), (2)(A), (D), was based on Pub. L. 103–355, title I, § 1503(a)(1), Oct. 13, 1994, 108 Stat. 3296.
 
 **Prior Provisions**
 
-A prior section 3066, acts Aug. 10, 1956, ch. 1041, 70A Stat. 167; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(19), 72 Stat. 1565, authorized President, by and with consent of Senate, to make temporary appointments in grades of general and lieutenant general from officers of Army on active duty in any grade above brigadier general and specified number of positions in each such grade, prior to repeal by Pub. L. 96–513, title II, § 201, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981. See section 601 of this title.
+A prior section 3066, acts Aug. 10, 1956, ch. 1041, 70A Stat. 167; Sept. 2, 1958, Pub. L. 85–861, § 33(a)(19), 72 Stat. 1565, authorized President, by and with consent of Senate, to make temporary appointments in grades of general and lieutenant general from officers of Army on active duty in any grade above brigadier general and specified number of positions in each such grade, prior to repeal by Pub. L. 96–513, title II, § 201, title VII, § 701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981. See section 601 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1807(d)(2)(D), transferred subsec. (b) of section 3065 of this title to this section, and, in introductory provisions, struck out subsec. (b) designation and heading “Procurements For or With Other Agencies” at beginning and substituted “Subject to section 3065 of this title” for “Subject to subsection (a)”, “covered by any provision of this part that is a chapter 137 legacy provision” for “covered by this chapter”, and “section 3063” for “section 2303”.
+2021—Pub. L. 116–283, § 1807(d)(2)(D), transferred subsec. (b) of section 3065 of this title to this section, and, in introductory provisions, struck out subsec. (b) designation and heading “Procurements For or With Other Agencies” at beginning and substituted “Subject to section 3065 of this title” for “Subject to subsection (a)”, “covered by any provision of this part that is a chapter 137 legacy provision” for “covered by this chapter”, and “section 3063” for “section 2303”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -325,7 +325,7 @@ A prior section 3066, acts Aug. 10, 1956, ch. 1041, 70A Stat. 167; Sept. 2, 1958
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3067. Approval required for military department termination or reduction in participation in joint acquisition programs
+## § 3067. Approval required for military department termination or reduction in participation in joint acquisition programs
 
 **(a) Approval of Terminations and Reductions of Joint Acquisition Programs.—** The Secretary of Defense shall prescribe regulations that prohibit each military department participating in a joint acquisition program approved by the Under Secretary of Defense for Acquisition and Sustainment from terminating or substantially reducing its participation in such program without the approval of the Under Secretary.
 
@@ -335,13 +335,13 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(2)** A provision that authorizes the Under Secretary of Defense for Acquisition and Sustainment to require a military department whose participation in a joint acquisition program has been approved for termination or substantial reduction to continue to provide some or all of the funding necessary for the acquisition program to be continued in an efficient manner.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1807(d)(2)(B), (E), Jan. 1, 2021, 134 Stat. 4158.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1807(d)(2)(B), (E), Jan. 1, 2021, 134 Stat. 4158.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of subsec. (c) of section 2311 of this title, which was transferred first to section 3065(c) of this title and then to this section and amended by Pub. L. 116–283, § 1807(d)(1), (2)(B), (E), was based on Pub. L. 103–355, title I, § 1503(a)(1), Oct. 13, 1994, 108 Stat. 3296; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, § 902(49), Dec. 20, 2019, 133 Stat. 1548.
+The text of subsec. (c) of section 2311 of this title, which was transferred first to section 3065(c) of this title and then to this section and amended by Pub. L. 116–283, § 1807(d)(1), (2)(B), (E), was based on Pub. L. 103–355, title I, § 1503(a)(1), Oct. 13, 1994, 108 Stat. 3296; Pub. L. 107–107, div. A, title X, § 1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, § 902(49), Dec. 20, 2019, 133 Stat. 1548.
 
 **Prior Provisions**
 
@@ -349,7 +349,7 @@ A prior section 3067 was renumbered section 7067 of this title.
 
 **Amendments**
 
-2021—Pub. L. 116–283, § 1807(d)(2)(E), redesignated subsec. (c) of section 3065 of this title as subsec. (a) of this section, struck out par. (1) designation before “The Secretary of Defense shall”, redesignated par. (2) and its subpars. (A) and (B) as subsec. (b) and pars. (1) and (2), respectively, and inserted subsec. (b) heading.
+2021—Pub. L. 116–283, § 1807(d)(2)(E), redesignated subsec. (c) of section 3065 of this title as subsec. (a) of this section, struck out par. (1) designation before “The Secretary of Defense shall”, redesignated par. (2) and its subpars. (A) and (B) as subsec. (b) and pars. (1) and (2), respectively, and inserted subsec. (b) heading.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -357,33 +357,33 @@ A prior section 3067 was renumbered section 7067 of this title.
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3068. Inapplicability of certain laws
+## § 3068. Inapplicability of certain laws
 
 **(a) Laws Inapplicable to Agencies Named in Section 3063.—** Sections 6101 and 6304 of title 41 do not apply to the procurement or sale of property or services by the agencies named in section 3063 of this title.
 
 **(b) Laws Inapplicable to Procurement of Automatic Data Processing Equipment and Services for Certain Defense Purposes.—** For purposes of subtitle III of title 40, the term “national security system”, with respect to a telecommunications and information system operated by the Department of Defense, has the meaning given that term by section 3552(b)(6) of title 44.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1807(e)(1)–(3), Jan. 1, 2021, 134 Stat. 4158, 4159; Pub. L. 117–81, div. A, title XVII, § 1701(b)(2)(C), Dec. 27, 2021, 135 Stat. 2132.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, § 1807(e)(1)–(3), Jan. 1, 2021, 134 Stat. 4158, 4159; Pub. L. 117–81, div. A, title XVII, § 1701(b)(2)(C), Dec. 27, 2021, 135 Stat. 2132.)
 
 **Editorial Notes**
 
 **Codification**
 
-The text of section 2314 of this title, which was transferred to this section, designated as subsec. (a), and amended by Pub. L. 116–283, § 1807(e)(2), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 133; Pub. L. 96–513, title V, § 511(78), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 103–160, div. A, title VIII, § 822(b)(2), Nov. 30, 1993, 107 Stat. 1706; Pub. L. 111–350, § 5(b)(16), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 113–291, div. A, title X, § 1071(a)(4), Dec. 19, 2014, 128 Stat. 3504.
+The text of section 2314 of this title, which was transferred to this section, designated as subsec. (a), and amended by Pub. L. 116–283, § 1807(e)(2), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 133; Pub. L. 96–513, title V, § 511(78), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 103–160, div. A, title VIII, § 822(b)(2), Nov. 30, 1993, 107 Stat. 1706; Pub. L. 111–350, § 5(b)(16), Jan. 4, 2011, 124 Stat. 3843; Pub. L. 113–291, div. A, title X, § 1071(a)(4), Dec. 19, 2014, 128 Stat. 3504.
 
-The text of section 2315 of this title, which was transferred to this section, designated as subsec. (b), and amended by Pub. L. 116–283, § 1807(e)(3), was based on Pub. L. 97–86, title IX, § 908(a)(1), Dec. 1, 1981, 95 Stat. 1117; amended Pub. L. 97–295, § 1(25), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 104–106, div. E, title LVI, § 5601(c), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, § 1074(b)(4)(B), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div. A, title X, § 1073(a)(49), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–217, § 3(b)(5), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 109–364, div. A, title IX, § 906(c), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 113–283, § 2(e)(5)(C), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–92, div. A, title X, § 1081(a)(7), Nov. 25, 2015, 129 Stat. 1001.
+The text of section 2315 of this title, which was transferred to this section, designated as subsec. (b), and amended by Pub. L. 116–283, § 1807(e)(3), was based on Pub. L. 97–86, title IX, § 908(a)(1), Dec. 1, 1981, 95 Stat. 1117; amended Pub. L. 97–295, § 1(25), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 104–106, div. E, title LVI, § 5601(c), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, § 1074(b)(4)(B), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 105–85, div. A, title X, § 1073(a)(49), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–217, § 3(b)(5), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 109–364, div. A, title IX, § 906(c), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 113–283, § 2(e)(5)(C), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–92, div. A, title X, § 1081(a)(7), Nov. 25, 2015, 129 Stat. 1001.
 
 **Prior Provisions**
 
 A prior section 3068 was renumbered section 7068 of this title.
 
-Another prior section 3068, acts Aug. 10, 1956, ch. 1041, 70A Stat. 168; Sept. 7, 1962, Pub. L. 87–649, § 6(a)(1), 76 Stat. 494, contained substantially the same provisions as section 7068, which formerly was numbered as section 3068, but placed the upper limit for the rank of officers of the Medical Service Corps at colonel, prior to repeal by Pub. L. 89–603.
+Another prior section 3068, acts Aug. 10, 1956, ch. 1041, 70A Stat. 168; Sept. 7, 1962, Pub. L. 87–649, § 6(a)(1), 76 Stat. 494, contained substantially the same provisions as section 7068, which formerly was numbered as section 3068, but placed the upper limit for the rank of officers of the Medical Service Corps at colonel, prior to repeal by Pub. L. 89–603.
 
 **Amendments**
 
-2021—Subsec. (a). Pub. L. 116–283, § 1807(e)(2), as amended by Pub. L. 117–81, § 1701(b)(2)(C)(i), transferred text of section 2314 of this title to this section, designated it as subsec. (a), inserted heading, and substituted “section 3063” for “section 2303”.
+2021—Subsec. (a). Pub. L. 116–283, § 1807(e)(2), as amended by Pub. L. 117–81, § 1701(b)(2)(C)(i), transferred text of section 2314 of this title to this section, designated it as subsec. (a), inserted heading, and substituted “section 3063” for “section 2303”.
 
-Subsec. (b). Pub. L. 116–283, § 1807(e)(3), as amended by Pub. L. 117–81, § 1701(b)(2)(C)(ii), transferred text of section 2315 of this title to this section, designated it as subsec. (b), and inserted heading.
+Subsec. (b). Pub. L. 116–283, § 1807(e)(3), as amended by Pub. L. 117–81, § 1701(b)(2)(C)(ii), transferred text of section 2315 of this title to this section, designated it as subsec. (b), and inserted heading.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -395,7 +395,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-## § 3069. Buy-to-budget acquisition: end items
+## § 3069. Buy-to-budget acquisition: end items
 
 **(a) Authority To Acquire Additional End Items.—** Using funds available to the Department of Defense for the acquisition of an end item, a contracting officer making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that contracting officer determines in writing that:
 
@@ -419,7 +419,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(2)** In this section, the term “end item” means a production product assembled, completed, and ready for issue or deployment.
 
-(Added Pub. L. 107–314, div. A, title VIII, § 801(a)(1), Dec. 2, 2002, 116 Stat. 2600, § 2308; amended Pub. L. 108–136, div. A, title X, § 1043(b)(11), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 114–328, div. A, title VIII, § 852, Dec. 23, 2016, 130 Stat. 2296; renumbered § 3069 and amended Pub. L. 116–283, div. A, title XVIII, § 1807(f), Jan. 1, 2021, 134 Stat. 4159; Pub. L. 119–60, div. A, title VIII, § 812(a)(4), Dec. 18, 2025, 139 Stat. 951.)
+(Added Pub. L. 107–314, div. A, title VIII, § 801(a)(1), Dec. 2, 2002, 116 Stat. 2600, § 2308; amended Pub. L. 108–136, div. A, title X, § 1043(b)(11), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 114–328, div. A, title VIII, § 852, Dec. 23, 2016, 130 Stat. 2296; renumbered § 3069 and amended Pub. L. 116–283, div. A, title XVIII, § 1807(f), Jan. 1, 2021, 134 Stat. 4159; Pub. L. 119–60, div. A, title VIII, § 812(a)(4), Dec. 18, 2025, 139 Stat. 951.)
 
 **Editorial Notes**
 
@@ -429,27 +429,27 @@ A prior section 3069 was renumbered section 7069 of this title.
 
 **Amendments**
 
-2025—Subsec. (a). Pub. L. 119–60, § 812(a)(4)(A)(i), in introductory provisions, substituted “a contracting officer making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that contracting officer determines in writing that:” for “the head of an agency making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that head of an agency makes each of the following findings:”.
+2025—Subsec. (a). Pub. L. 119–60, § 812(a)(4)(A)(i), in introductory provisions, substituted “a contracting officer making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that contracting officer determines in writing that:” for “the head of an agency making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that head of an agency makes each of the following findings:”.
 
-Subsec. (a)(4). Pub. L. 119–60, § 812(a)(4)(A)(ii), struck out par. (4) which read as follows: “The amount so provided is sufficient to ensure that each unit of the end item acquired within the higher quantity is fully funded as a complete end item.”
+Subsec. (a)(4). Pub. L. 119–60, § 812(a)(4)(A)(ii), struck out par. (4) which read as follows: “The amount so provided is sufficient to ensure that each unit of the end item acquired within the higher quantity is fully funded as a complete end item.”
 
-Subsec. (b). Pub. L. 119–60, § 812(a)(4)(B), struck out “The regulations shall include, at a minimum, the following:” after “administration of this section.” in introductory provisions and struck out pars. (1) and (2) which read as follows:
+Subsec. (b). Pub. L. 119–60, § 812(a)(4)(B), struck out “The regulations shall include, at a minimum, the following:” after “administration of this section.” in introductory provisions and struck out pars. (1) and (2) which read as follows:
 
 “(1) The level of approval within the Department of Defense that is required for a decision to acquire a higher quantity of an end item under subsection (a).
 
 “(2) Authority (subject to subsection (a)) to acquire up to 10 percent more than the quantity of an end item approved in a justification and approval of the use of procedures other than competitive procedures for the acquisition of the end item under sections 3201 through 3205 of this title.”
 
-Subsecs. (c), (d). Pub. L. 119–60, § 812(a)(4)(C), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) related to notification of Congress regarding a decision to acquire a higher quantity of an end item than is specified in a law described in subsection (a).
+Subsecs. (c), (d). Pub. L. 119–60, § 812(a)(4)(C), redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) related to notification of Congress regarding a decision to acquire a higher quantity of an end item than is specified in a law described in subsection (a).
 
-Subsec. (d)(2). Pub. L. 119–60, § 812(a)(4)(D), amended par. (2) generally. Prior to amendment, par. (2) defined terms “end item” and “head of an agency”.
+Subsec. (d)(2). Pub. L. 119–60, § 812(a)(4)(D), amended par. (2) generally. Prior to amendment, par. (2) defined terms “end item” and “head of an agency”.
 
-Subsec. (e). Pub. L. 119–60, § 812(a)(4)(C), redesignated subsec. (e) as (d).
+Subsec. (e). Pub. L. 119–60, § 812(a)(4)(C), redesignated subsec. (e) as (d).
 
 2021—Pub. L. 116–283 renumbered section 2308 of this title as this section.
 
 Subsec. (b)(2). Pub. L. 116–283 substituted “sections 3201 through 3205” for “section 2304”.
 
-2016—Subsec. (c). Pub. L. 114–328 designated existing provisions as par. (1), inserted “, except as provided in paragraph (2),” after “but”, and added par. (2).
+2016—Subsec. (c). Pub. L. 114–328 designated existing provisions as par. (1), inserted “, except as provided in paragraph (2),” after “but”, and added par. (2).
 
 2003—Subsec. (e)(2). Pub. L. 108–136 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “The term ‘congressional defense committees’ means—
 
@@ -463,15 +463,15 @@ Subsec. (b)(2). Pub. L. 116–283 substituted “sections 3201 through 3205” f
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-## [§ 3070. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(2), Dec. 18, 2025, 139 Stat. 948]
+## [§ 3070. Repealed. Pub. L. 119–60, div. A, title VIII, § 811(a)(2), Dec. 18, 2025, 139 Stat. 948]
 
-Section, added Pub. L. 102–190, div. A, title III, § 317(a), Dec. 5, 1991, 105 Stat. 1338, § 2213; renumbered § 3070, Pub. L. 116–283, div. A, title XVIII, § 1807(g)(1), Jan. 1, 2021, 134 Stat. 4159; amended Pub. L. 118–159, div. A, title VIII, § 812, Dec. 23, 2024, 138 Stat. 1979, related to limitation on acquisition of excess supplies.
+Section, added Pub. L. 102–190, div. A, title III, § 317(a), Dec. 5, 1991, 105 Stat. 1338, § 2213; renumbered § 3070, Pub. L. 116–283, div. A, title XVIII, § 1807(g)(1), Jan. 1, 2021, 134 Stat. 4159; amended Pub. L. 118–159, div. A, title VIII, § 812, Dec. 23, 2024, 138 Stat. 1979, related to limitation on acquisition of excess supplies.
 
 A prior section 3070 was renumbered section 7070 of this title.
 
-A prior section 3071, acts Aug. 10, 1956, ch. 1041, 70A Stat. 169; Sept. 7, 1962, Pub. L. 87–649, § 6(a)(2), (3), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, § 1(8)(C), 81 Stat. 374, prescribed composition of Women’s Army Corps and provided for a Director, a Deputy Director, and other positions for Women’s Army Corps, prior to repeal by Pub. L. 95–485, title VIII, § 820(b), Oct. 20, 1978, 92 Stat. 1627.
+A prior section 3071, acts Aug. 10, 1956, ch. 1041, 70A Stat. 169; Sept. 7, 1962, Pub. L. 87–649, § 6(a)(2), (3), 76 Stat. 494; Nov. 8, 1967, Pub. L. 90–130, § 1(8)(C), 81 Stat. 374, prescribed composition of Women’s Army Corps and provided for a Director, a Deputy Director, and other positions for Women’s Army Corps, prior to repeal by Pub. L. 95–485, title VIII, § 820(b), Oct. 20, 1978, 92 Stat. 1627.
 
-## § 3072. Comptroller General assessment of acquisition programs and initiatives
+## § 3072. Comptroller General assessment of acquisition programs and initiatives
 
 **(a) Assessment Required.—** The Comptroller General of the United States shall submit to the congressional defense committees an annual assessment of selected acquisition programs and initiatives of the Department of Defense by March 30th of each year from 2020 through 2029.
 
@@ -491,7 +491,7 @@ A prior section 3071, acts Aug. 10, 1956, ch. 1041, 70A Stat. 169; Sept. 7, 1962
 
 **(3)** Selected prototyping and rapid fielding activities and initiatives, as determined appropriate by the Comptroller General.
 
-(Added Pub. L. 115–232, div. A, title VIII, § 833(a), Aug. 13, 2018, 132 Stat. 1858, § 2229b; renumbered § 3072 and amended Pub. L. 116–283, div. A, title VIII, § 813, title XVIII, § 1807(g)(1), Jan. 1, 2021, 134 Stat. 3749, 4159; Pub. L. 117–263, div. A, title VIII, § 812(a), Dec. 23, 2022, 136 Stat. 2706; Pub. L. 118–159, div. A, title VIII, § 813(a), Dec. 23, 2024, 138 Stat. 1980; Pub. L. 119–60, div. A, title XVII, § 1701(a)(22), Dec. 18, 2025, 139 Stat. 1209.)
+(Added Pub. L. 115–232, div. A, title VIII, § 833(a), Aug. 13, 2018, 132 Stat. 1858, § 2229b; renumbered § 3072 and amended Pub. L. 116–283, div. A, title VIII, § 813, title XVIII, § 1807(g)(1), Jan. 1, 2021, 134 Stat. 3749, 4159; Pub. L. 117–263, div. A, title VIII, § 812(a), Dec. 23, 2022, 136 Stat. 2706; Pub. L. 118–159, div. A, title VIII, § 813(a), Dec. 23, 2024, 138 Stat. 1980; Pub. L. 119–60, div. A, title XVII, § 1701(a)(22), Dec. 18, 2025, 139 Stat. 1209.)
 
 **Editorial Notes**
 
@@ -499,7 +499,7 @@ A prior section 3071, acts Aug. 10, 1956, ch. 1041, 70A Stat. 169; Sept. 7, 1962
 
 Prior sections 3072 to 3075 were renumbered sections 7072 to 7075 of this title, respectively.
 
-Prior sections 3076 to 3080 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994, except as otherwise provided.
+Prior sections 3076 to 3080 were repealed by Pub. L. 103–337, div. A, title XVI, §§ 1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994, except as otherwise provided.
 
 Section 3076, act Aug. 10, 1956, ch. 1041, 70A Stat. 170, related to composition of Army Reserve. See section 10104 of this title.
 
@@ -509,7 +509,7 @@ Section 3078, act Aug. 10, 1956, ch. 1041, 70A Stat. 171, provided that Army Nat
 
 Section 3079, act Aug. 10, 1956, ch. 1041, 70A Stat. 171, related to status of Army National Guard of United States when not in Federal service. See section 10107 of this title.
 
-Section 3080, added Pub. L. 86–603, § 1(2)(A), July 7, 1960, 74 Stat. 357, related to authority of officers of Army National Guard of United States with respect to Federal status. See section 10215 of this title.
+Section 3080, added Pub. L. 86–603, § 1(2)(A), July 7, 1960, 74 Stat. 357, related to authority of officers of Army National Guard of United States with respect to Federal status. See section 10215 of this title.
 
 Prior sections 3081, 3082, 3083, and 3084 were renumbered sections 7081, 10542, 7083, and 7084 of this title, respectively.
 
@@ -517,21 +517,21 @@ Prior sections 3081, 3082, 3083, and 3084 were renumbered sections 7081, 10542, 
 
 2025—Subsec. (c). Pub. L. 119–60 substituted “Initiatives” for “Efforts” in heading.
 
-2024—Pub. L. 118–159, § 813(a)(1), (2), substituted “initiatives” for “efforts” in section catchline and wherever appearing in text.
+2024—Pub. L. 118–159, § 813(a)(1), (2), substituted “initiatives” for “efforts” in section catchline and wherever appearing in text.
 
-Subsec. (a). Pub. L. 118–159, § 813(a)(3), substituted “2029” for “2026”.
+Subsec. (a). Pub. L. 118–159, § 813(a)(3), substituted “2029” for “2026”.
 
-Subsec. (b)(2), (3). Pub. L. 118–159, § 813(a)(4), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential implications for execution and oversight of programs and efforts; and”.
+Subsec. (b)(2), (3). Pub. L. 118–159, § 813(a)(4), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2) which read as follows: “a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential implications for execution and oversight of programs and efforts; and”.
 
-2022—Pub. L. 117–263, § 812(a)(1), (2), substituted “efforts” for “initiatives” in section catchline and wherever appearing in text.
+2022—Pub. L. 117–263, § 812(a)(1), (2), substituted “efforts” for “initiatives” in section catchline and wherever appearing in text.
 
-Subsec. (a). Pub. L. 117–263, § 812(a)(3), substituted “through 2026” for “through 2023”.
+Subsec. (a). Pub. L. 117–263, § 812(a)(3), substituted “through 2026” for “through 2023”.
 
-Subsec. (c). Pub. L. 117–263, § 812(a)(4), substituted “Efforts” for “Initiatives” in heading.
+Subsec. (c). Pub. L. 117–263, § 812(a)(4), substituted “Efforts” for “Initiatives” in heading.
 
-2021—Pub. L. 116–283, § 1807(g)(1), renumbered section 2229b of this title as this section.
+2021—Pub. L. 116–283, § 1807(g)(1), renumbered section 2229b of this title as this section.
 
-Subsec. (b)(2). Pub. L. 116–283, § 813, substituted “a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential” for “a summary of organizational and legislative changes and emerging assessment methodologies since the last assessment, and a discussion of the”.
+Subsec. (b)(2). Pub. L. 116–283, § 813, substituted “a discussion of selected organizational, policy, and legislative changes, as determined appropriate by the Comptroller General, and the potential” for “a summary of organizational and legislative changes and emerging assessment methodologies since the last assessment, and a discussion of the”.
 
 **Statutory Notes and Related Subsidiaries**
 

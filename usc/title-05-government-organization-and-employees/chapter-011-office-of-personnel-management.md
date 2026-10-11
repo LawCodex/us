@@ -19,19 +19,19 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-1978—Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1119, substituted in chapter heading “OFFICE OF PERSONNEL MANAGEMENT” for “ORGANIZATION”, in item 1101 “Office of Personnel Management” for “Appointment of Commissioners”, in item 1102 “Director; Deputy Director; Associate Directors” for “Term of office; filling vacancies; removal”, in item 1103 “Functions of the Director” for “Chairman; Vice Chairman; Executive Director”, in item 1104 “Delegation of authority for personnel management” for “Functions of Chairman”, and in item 1105 “Administrative procedure” for “Boards of examiners”.
+1978—Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1119, substituted in chapter heading “OFFICE OF PERSONNEL MANAGEMENT” for “ORGANIZATION”, in item 1101 “Office of Personnel Management” for “Appointment of Commissioners”, in item 1102 “Director; Deputy Director; Associate Directors” for “Term of office; filling vacancies; removal”, in item 1103 “Functions of the Director” for “Chairman; Vice Chairman; Executive Director”, in item 1104 “Delegation of authority for personnel management” for “Functions of Chairman”, and in item 1105 “Administrative procedure” for “Boards of examiners”.
 
-## § 1101. Office of Personnel Management
+## § 1101. Office of Personnel Management
 
 The Office of Personnel Management is an independent establishment in the executive branch. The Office shall have an official seal, which shall be judicially noticed, and shall have its principal office in the District of Columbia, and may have field offices in other appropriate locations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 398; Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1119.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 398; Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1119.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 632 (1st par.). | Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403. |
+|  | 5 U.S.C. 632 (1st par.). | Jan. 16, 1883, ch. 27, § 1 (1st par.), 22 Stat. 403. |
 
 The words “official place under the United States” are changed to “another office or position in the Government” of the “United States” to conform to the present legislative use of “office” and “position”.
 
@@ -47,23 +47,23 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Effective Date of 1978 Amendment**
 
-Pub. L. 95–454, title IX, § 907, Oct. 13, 1978, 92 Stat. 1227, provided that: “Except as otherwise expressly provided in this Act, the provisions of this Act [see Tables for classification] shall take effect 90 days after the date of the enactment of this Act [Oct. 13, 1978].”
+Pub. L. 95–454, title IX, § 907, Oct. 13, 1978, 92 Stat. 1227, provided that: “Except as otherwise expressly provided in this Act, the provisions of this Act [see Tables for classification] shall take effect 90 days after the date of the enactment of this Act [Oct. 13, 1978].”
 
 **Short Title of 1992 Amendment**
 
-Pub. L. 102–378, § 1(a), Oct. 2, 1992, 106 Stat. 1346, provided that: “This Act [see Tables for classification] may be cited as the ‘Technical and Miscellaneous Civil Service Amendments Act of 1992’.”
+Pub. L. 102–378, § 1(a), Oct. 2, 1992, 106 Stat. 1346, provided that: “This Act [see Tables for classification] may be cited as the ‘Technical and Miscellaneous Civil Service Amendments Act of 1992’.”
 
 **Short Title of 1984 Amendment**
 
-Pub. L. 98–224, § 1, Mar. 2, 1984, 98 Stat. 47, provided that: “This Act [amending sections 1304, 3323, 4108, 4109, 7104, and 7122 of this title] may be cited as the ‘Civil Service Miscellaneous Amendments Act of 1983’.”
+Pub. L. 98–224, § 1, Mar. 2, 1984, 98 Stat. 47, provided that: “This Act [amending sections 1304, 3323, 4108, 4109, 7104, and 7122 of this title] may be cited as the ‘Civil Service Miscellaneous Amendments Act of 1983’.”
 
 **Short Title of 1978 Amendment**
 
-Pub. L. 95–454, § 1, Oct. 13, 1978, 92 Stat. 1111, provided that: “This Act [see Tables for classification] may be cited as the ‘Civil Service Reform Act of 1978’.”
+Pub. L. 95–454, § 1, Oct. 13, 1978, 92 Stat. 1111, provided that: “This Act [see Tables for classification] may be cited as the ‘Civil Service Reform Act of 1978’.”
 
 **Savings Provision**
 
-Pub. L. 95–454, title IX, § 902, Oct. 13, 1978, 92 Stat. 1223, provided that:
+Pub. L. 95–454, title IX, § 902, Oct. 13, 1978, 92 Stat. 1223, provided that:
 
 > **“(a)** Except as otherwise provided in this Act [see Tables for classification], all executive orders, rules, and regulations affecting the Federal service shall continue in effect, according to their terms, until modified, terminated, superseded, or repealed by the President, the Office of Personnel Management, the Merit Systems Protection Board, the Equal Employment Opportunity Commission, or the Federal Labor Relations Authority with respect to matters within their respective jurisdictions.
 
@@ -73,7 +73,7 @@ Pub. L. 95–454, title IX, § 902, Oct. 13, 1978, 92 Stat. 1223, provided tha
 
 **Transmittal of Record Relating to Presidentially Appointed Positions to Presidential Candidates**
 
-Pub. L. 108–458, title VIII, § 8403(b), Dec. 17, 2004, 118 Stat. 3870, as amended by Pub. L. 111–283, § 2(c)(2), Oct. 15, 2010, 124 Stat. 3048, provided that:
+Pub. L. 108–458, title VIII, § 8403(b), Dec. 17, 2004, 118 Stat. 3870, as amended by Pub. L. 111–283, § 2(c)(2), Oct. 15, 2010, 124 Stat. 3048, provided that:
 
 > **“(1) Definition.—** In this section, the term ‘major party’ has the meaning given that term under section 9002(6) of the Internal Revenue Code of 1986 [26 U.S.C. 9002(6)].
 
@@ -97,7 +97,7 @@ Pub. L. 108–458, title VIII, § 8403(b), Dec. 17, 2004, 118 Stat. 3870, as a
 
 **Transfer to Office of Personnel Management of Personnel Investigative Functions and Related Personnel of the Department of Defense**
 
-Pub. L. 108–136, div. A, title IX, § 906, Nov. 24, 2003, 117 Stat. 1561, provided that:
+Pub. L. 108–136, div. A, title IX, § 906, Nov. 24, 2003, 117 Stat. 1561, provided that:
 
 > **“(a) Transfer of Functions.—**
 
@@ -159,7 +159,7 @@ Pub. L. 108–136, div. A, title IX, § 906, Nov. 24, 2003, 117 Stat. 1561, pr
 
 **Federal Flexible Benefits Plan Administrative Costs**
 
-Pub. L. 108–136, div. A, title XI, § 1127, Nov. 24, 2003, 117 Stat. 1640, provided that:
+Pub. L. 108–136, div. A, title XI, § 1127, Nov. 24, 2003, 117 Stat. 1640, provided that:
 
 > **“(a) In General.—** Notwithstanding any other provision of law, an agency or other employing entity of the Government which provides or plans to provide a flexible spending account option for its employees shall not impose any fee with respect to any of its employees in order to defray the administrative costs associated therewith.
 
@@ -173,15 +173,15 @@ Pub. L. 108–136, div. A, title XI, § 1127, Nov. 24, 2003, 117 Stat. 1640, p
 
 **Combined Federal Campaign Brochure List and General Designation Option for International Agencies**
 
-Pub. L. 102–393, title V, § 532, Oct. 6, 1992, 106 Stat. 1763, provided that: “Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, no funds made available to the Office of Personnel Management may be used to prepare, promulgate, or implement any rules or regulations relating to the Combined Federal Campaign unless such rules or regulations include a Combined Federal Campaign brochure list and general designation option solely for international agencies, which list (listed by Federation in the case of affiliated agencies) and option shall include only those international agencies that elect in their annual application to be included under such list and option rather than under the national agencies list and option: *Provided*, That such limitation on the use of funds shall not apply to any activities related to the 1992 Combined Federal Campaign.”
+Pub. L. 102–393, title V, § 532, Oct. 6, 1992, 106 Stat. 1763, provided that: “Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, no funds made available to the Office of Personnel Management may be used to prepare, promulgate, or implement any rules or regulations relating to the Combined Federal Campaign unless such rules or regulations include a Combined Federal Campaign brochure list and general designation option solely for international agencies, which list (listed by Federation in the case of affiliated agencies) and option shall include only those international agencies that elect in their annual application to be included under such list and option rather than under the national agencies list and option: *Provided*, That such limitation on the use of funds shall not apply to any activities related to the 1992 Combined Federal Campaign.”
 
 **Report on Productivity of Federal Workforce; Deadline**
 
-Pub. L. 101–509, title V, § 535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
+Pub. L. 101–509, title V, § 535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
 
 **Funds for Preparation, Promulgation, or Implementation of Regulations Relating to Combined Federal Campaign; Eligibility Criteria**
 
-Pub. L. 100–202, § 101(m) [title VI, § 618], Dec. 22, 1987, 101 Stat. 1329–390, 1329–423, provided that:
+Pub. L. 100–202, § 101(m) [title VI, § 618], Dec. 22, 1987, 101 Stat. 1329–390, 1329–423, provided that:
 
 > **“(a)** None of the funds appropriated by this Act, or any other Act in this or any fiscal year hereafter, may be used in preparing, promulgating, or implementing any regulations relating to the Combined Federal Campaign if such regulations are not in conformance with subsection (b).
 
@@ -303,7 +303,7 @@ Pub. L. 100–202, § 101(m) [title VI, § 618], Dec. 22, 1987, 101 Stat. 13
 
 **Civil Service Reform Act of 1978 Findings and Statement of Purpose**
 
-Pub. L. 95–454, § 3, Oct. 13, 1978, 92 Stat. 1112, provided that:
+Pub. L. 95–454, § 3, Oct. 13, 1978, 92 Stat. 1112, provided that:
 
 > “It is the policy of the United States that—
 
@@ -329,7 +329,7 @@ Pub. L. 95–454, § 3, Oct. 13, 1978, 92 Stat. 1112, provided that:
 
 **Powers of President Unaffected Except by Express Provisions**
 
-Pub. L. 95–454, title IX, § 904, Oct. 13, 1978, 92 Stat. 1224, provided that:
+Pub. L. 95–454, title IX, § 904, Oct. 13, 1978, 92 Stat. 1224, provided that:
 
 > “Except as otherwise expressly provided in this Act [see Tables for classification], no provision of this Act shall be construed to—
 
@@ -341,14 +341,14 @@ Pub. L. 95–454, title IX, § 904, Oct. 13, 1978, 92 Stat. 1224, provided tha
 
 **Reorganization Plans No. 1 and 2 of 1978 Superseded by Civil Service Reform Act of 1978**
 
-Pub. L. 95–454, title IX, § 905, Oct. 13, 1978, 92 Stat. 1224, provided that: “Any provision in either Reorganization Plan Numbered 1 [set out in the Appendix to this title] or 2 [set out below] of 1978 inconsistent with any provision in this Act [see Tables for classification] is hereby superseded.”
+Pub. L. 95–454, title IX, § 905, Oct. 13, 1978, 92 Stat. 1224, provided that: “Any provision in either Reorganization Plan Numbered 1 [set out in the Appendix to this title] or 2 [set out below] of 1978 inconsistent with any provision in this Act [see Tables for classification] is hereby superseded.”
 
 ****REORGANIZATION PLAN NO. 2 OF 1978**
 43 F.R. 36037, 92 Stat. 3783**
 
 Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, May 23, 1978,1
 
-<sup>1</sup>  As amended July 11, 1978.
+<sup>1</sup> As amended July 11, 1978.
 
 pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
@@ -727,7 +727,7 @@ Ex. Ord. No. 12157, Sept. 14, 1979, 44 F.R. 54035, which related to the Presiden
 
 **Ex. Ord. No. 12353. Charitable Fund-Raising**
 
-Ex. Ord. No. 12353, Mar. 23, 1982, 47 F.R. 12785, as amended by Ex. Ord. No. 12404, § 1, Feb. 10, 1983, 48 F.R. 6685; Ex. Ord. No. 13743, § 1, Oct. 13, 2016, 81 F.R. 71571, provided:
+Ex. Ord. No. 12353, Mar. 23, 1982, 47 F.R. 12785, as amended by Ex. Ord. No. 12404, § 1, Feb. 10, 1983, 48 F.R. 6685; Ex. Ord. No. 13743, § 1, Oct. 13, 2016, 81 F.R. 71571, provided:
 
 By the authority vested in me as President by the Constitution of the United States of America, and in order to support and facilitate fund-raising on behalf of voluntary health and welfare organizations through on-the-job solicitations of Federal employees and members of the uniformed services, and to ensure that the recipient organizations are responsible in the uses of the monies so raised, it is hereby ordered as follows:
 
@@ -775,7 +775,7 @@ Sec. 9. Executive Order No. 10927 [Mar. 18, 1961, 26 F.R. 2383], as amended, is 
 
 [Section 2 of Ex. Ord. No. 12404 provided that all rules, regulations, and directives continued or issued under Ex. Ord. No. 12353, set out above, would continue in full force and effect until revoked or modified under the provisions of Ex. Ord. No. 12404.]
 
-## § 1102. Director; Deputy Director; Associate Directors
+## § 1102. Director; Deputy Director; Associate Directors
 
 **(a)** There is at the head of the Office of Personnel Management a Director of the Office of Personnel Management appointed by the President, by and with the advice and consent of the Senate. The term of office of any individual appointed as Director shall be 4 years.
 
@@ -785,17 +785,17 @@ Sec. 9. Executive Order No. 10927 [Mar. 18, 1961, 26 F.R. 2383], as amended, is 
 
 **(d)** There may be within the Office of Personnel Management not more than 5 Associate Directors, as determined from time to time by the Director. Each Associate Director shall be appointed by the Director.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1119.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1119.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 632 (2d–4th pars.). | Jan. 16, 1883, ch. 27, § 1 (2d, 3d pars.), 22 Stat. 403. July 31, 1956, ch. 804, § 201(a), 70 Stat. 742. |
+|  | 5 U.S.C. 632 (2d–4th pars.). | Jan. 16, 1883, ch. 27, § 1 (2d, 3d pars.), 22 Stat. 403. July 31, 1956, ch. 804, § 201(a), 70 Stat. 742. |
 
 In subsection (a), the second sentence is substituted for original language concerning designation of Commissioners to serve six, four, and two years, respectively, as that provision is executed.
 
-The section is reorganized to place the statutes relating to vacancies together, and redundancies are eliminated. Provisions relating to pay and travel expenses of Commissioners are omitted as superseded by the Act of Aug. 14, 1964, Pub. L. 88–426, § 303(c)(18), (d)(66), 78 Stat. 417, 419, and Act of June 9, 1949, ch. 185, 63 Stat. 166, respectively, which are carried into this title.
+The section is reorganized to place the statutes relating to vacancies together, and redundancies are eliminated. Provisions relating to pay and travel expenses of Commissioners are omitted as superseded by the Act of Aug. 14, 1964, Pub. L. 88–426, § 303(c)(18), (d)(66), 78 Stat. 417, 419, and Act of June 9, 1949, ch. 185, 63 Stat. 166, respectively, which are carried into this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -811,7 +811,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 1103. Functions of the Director
+## § 1103. Functions of the Director
 
 **(a)** The following functions are vested in the Director of the Office of Personnel Management, and shall be performed by the Director, or subject to section 1104 of this title, by such employees of the Office as the Director designates:
 
@@ -875,14 +875,14 @@ except with respect to functions for which the Merit Systems Protection Board or
 
 **(F)** holding managers and human resources officers accountable for efficient and effective human resources management in support of agency missions in accordance with merit system principles.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1119; Pub. L. 99–251, title III, §§ 301, 302, Feb. 27, 1986, 100 Stat. 26; Pub. L. 107–296, title XIII, § 1304, Nov. 25, 2002, 116 Stat. 2289.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1119; Pub. L. 99–251, title III, §§ 301, 302, Feb. 27, 1986, 100 Stat. 26; Pub. L. 107–296, title XIII, § 1304, Nov. 25, 2002, 116 Stat. 2289.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | [Uncodified]. | 1949 Reorg. Plan No. 5, §§ 1, 2(a) (35th through 46th words), 3, eff. Aug. 20, 1949, 63 Stat. 1067, 1069. |
-|  | 5 U.S.C. 632 (5th par.). | July 31, 1956, ch. 804, § 201(b), 70 Stat. 742. |
+|  | [Uncodified]. | 1949 Reorg. Plan No. 5, §§ 1, 2(a) (35th through 46th words), 3, eff. Aug. 20, 1949, 63 Stat. 1067, 1069. |
+|  | 5 U.S.C. 632 (5th par.). | July 31, 1956, ch. 804, § 201(b), 70 Stat. 742. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -892,9 +892,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 2002—Subsec. (c). Pub. L. 107–296 added subsec. (c).
 
-1986—Subsec. (a)(9). Pub. L. 99–251, § 301, added par. (9).
+1986—Subsec. (a)(9). Pub. L. 99–251, § 301, added par. (9).
 
-Subsec. (b)(4). Pub. L. 99–251, § 302, added par. (4).
+Subsec. (b)(4). Pub. L. 99–251, § 302, added par. (4).
 
 1978—Pub. L. 95–454 substituted “Functions of the Director” for “Chairman; Vice Chairman; Executive Director” in section catchline, and in text provisions relating to the functions of the Director of the Office of Personnel Management for provisions relating to the Chairman, Vice Chairman, and Executive Director of the United States Civil Service Commission.
 
@@ -902,13 +902,13 @@ Subsec. (b)(4). Pub. L. 99–251, § 302, added par. (4).
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–296, title XIII, § 1305, Nov. 25, 2002, 116 Stat. 2289, provided that: “This subtitle [subtitle A (§§ 1301–1305) of title XIII of Pub. L. 107–296, enacting chapter 14 of this title, amending this section, and enacting provisions set out as a note under section 1401 of this title] shall take effect 180 days after the date of enactment of this Act [Nov. 25, 2002].”
+Pub. L. 107–296, title XIII, § 1305, Nov. 25, 2002, 116 Stat. 2289, provided that: “This subtitle [subtitle A (§§ 1301–1305) of title XIII of Pub. L. 107–296, enacting chapter 14 of this title, amending this section, and enacting provisions set out as a note under section 1401 of this title] shall take effect 180 days after the date of enactment of this Act [Nov. 25, 2002].”
 
 **Effective Date of 1978 Amendment**
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 1104. Delegation of authority for personnel management
+## § 1104. Delegation of authority for personnel management
 
 **(a)** Subject to subsection (b)(3) of this section—
 
@@ -928,7 +928,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **(c)** If the Office makes a written finding, on the basis of information obtained under the program established under subsection (b)(2) of this section or otherwise, that any action taken by an agency pursuant to authority delegated under subsection (a)(2) of this section is contrary to any law, rule, or regulation, or is contrary to any standard established under subsection (b)(1) of this section, the agency involved shall take any corrective action the Office may require.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 90–83, § 1(2), Sept. 11, 1967, 81 Stat. 195; Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1120; Pub. L. 104–52, title IV, § 1, Nov. 19, 1995, 109 Stat. 489.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 90–83, § 1(2), Sept. 11, 1967, 81 Stat. 195; Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1120; Pub. L. 104–52, title IV, § 1, Nov. 19, 1995, 109 Stat. 489.)
 
 **Historical and Revision Notes**
 
@@ -936,14 +936,14 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | [Uncodified]. | 1949 Reorg. Plan No. 5, § 2(a) (less 35th through 46th words), (b), eff. Aug. 20, 1949, 63 Stat. 1067. |
-|  | 5 U.S.C. 3013(a) (1st sentence, less 10th through 24th words). | Sept. 28, 1959, Pub. L. 86–382, § 14(a) (1st sentence, less 10th through 24th words), 73 Stat. 716. |
+|  | [Uncodified]. | 1949 Reorg. Plan No. 5, § 2(a) (less 35th through 46th words), (b), eff. Aug. 20, 1949, 63 Stat. 1067. |
+|  | 5 U.S.C. 3013(a) (1st sentence, less 10th through 24th words). | Sept. 28, 1959, Pub. L. 86–382, § 14(a) (1st sentence, less 10th through 24th words), 73 Stat. 716. |
 
 In the first sentence, the word “officers” is omitted as included in “employees”.
 
-Subsection (a)(1) is added on authority of the words “to secure accuracy, uniformity, and justice in all their proceedings” in the first sentence of former section 635, which is carried into section 1105. The function in this paragraph was transferred from the chief examiner to the Chairman of the United States Civil Service Commission by 1949 Reorg. Plan No. 5, § 2(a)(2).
+Subsection (a)(1) is added on authority of the words “to secure accuracy, uniformity, and justice in all their proceedings” in the first sentence of former section 635, which is carried into section 1105. The function in this paragraph was transferred from the chief examiner to the Chairman of the United States Civil Service Commission by 1949 Reorg. Plan No. 5, § 2(a)(2).
 
-In subsection (a)(4), the words “requests for appropriations” are substituted for “budget estimates” on authority of the Act of Sept. 12, 1950, ch. 946, § 102(f), 64 Stat. 833; 31 U.S.C. 22.
+In subsection (a)(4), the words “requests for appropriations” are substituted for “budget estimates” on authority of the Act of Sept. 12, 1950, ch. 946, § 102(f), 64 Stat. 833; 31 U.S.C. 22.
 
 In subsection (b)(2), the word “prescription” is substituted for “promulgation” and the words “now vested in the Commission” are omitted as surplusage.
 
@@ -951,7 +951,7 @@ In subsection (b)(4), the words “as is now authorized to be taken by the Commi
 
 In subsection (b)(5), the words “civil service” are substituted for “Federal service”.
 
-In subsection (b)(7), the words “submission of requests for appropriations” are substituted for “revision and submission . . . of budget estimates” on authority of the Act of Sept. 12, 1950, ch. 946, § 102(f), 64 Stat. 833; 31 U.S.C. 22.
+In subsection (b)(7), the words “submission of requests for appropriations” are substituted for “revision and submission . . . of budget estimates” on authority of the Act of Sept. 12, 1950, ch. 946, § 102(f), 64 Stat. 833; 31 U.S.C. 22.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -960,7 +960,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
 | 1104(a)(6) | 5:8713(a). | [None.] |
-|  | [Uncodified]. | 1965 Reorg. Plan No. 4, §§ 11(a), (e) (as applicable to (a)), 12 (as applicable to § 11(a)), 13 (as applicable to § 11(a)), eff. July 27, 1965, 79 Stat. 1322. |
+|  | [Uncodified]. | 1965 Reorg. Plan No. 4, §§ 11(a), (e) (as applicable to (a)), 12 (as applicable to § 11(a)), 13 (as applicable to § 11(a)), eff. July 27, 1965, 79 Stat. 1322. |
 
 The paragraph added by this section is based on 5 U.S.C. 8713(a), and is restated to reflect the effect of sections 11–13 of 1965 Reorganization Plan No. 4, effective July 27, 1965.
 
@@ -968,11 +968,11 @@ The paragraph added by this section is based on 5 U.S.C. 8713(a), and is restate
 
 **Amendments**
 
-1995—Subsec. (a). Pub. L. 104–52, § 1(1)(B), struck out closing provisions which read as follows: “except that the Director may not delegate authority for competitive examinations with respect to positions that have requirements which are common to agencies in the Federal Government, other than in exceptional cases in which the interests of economy and efficiency require such delegation and in which such delegation will not weaken the application of the merit system principles.”
+1995—Subsec. (a). Pub. L. 104–52, § 1(1)(B), struck out closing provisions which read as follows: “except that the Director may not delegate authority for competitive examinations with respect to positions that have requirements which are common to agencies in the Federal Government, other than in exceptional cases in which the interests of economy and efficiency require such delegation and in which such delegation will not weaken the application of the merit system principles.”
 
-Subsec. (a)(2). Pub. L. 104–52, § 1(1)(A), inserted “, the cost of which examinations shall be reimbursed by payments from the agencies employing such judges to the revolving fund established under section 1304(e)” after “title” and substituted period for semicolon at end.
+Subsec. (a)(2). Pub. L. 104–52, § 1(1)(A), inserted “, the cost of which examinations shall be reimbursed by payments from the agencies employing such judges to the revolving fund established under section 1304(e)” after “title” and substituted period for semicolon at end.
 
-Subsec. (b)(4). Pub. L. 104–52, § 1(2), added par. (4).
+Subsec. (b)(4). Pub. L. 104–52, § 1(2), added par. (4).
 
 1978—Pub. L. 95–454 substituted “Delegation of authority for personnel management” for “Functions of Chairman” in section catchline, and in text provisions relating to the delegation of authority for personnel management for provisions relating to functions of the Chairman of the United States Civil Service Commission.
 
@@ -982,22 +982,22 @@ Subsec. (b)(4). Pub. L. 104–52, § 1(2), added par. (4).
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
-## § 1105. Administrative procedure
+## § 1105. Administrative procedure
 
 Subject to section 1103(b) of this title, in the exercise of the functions assigned under this chapter, the Director shall be subject to subsections (b), (c), and (d) of section 553 of this title, notwithstanding subsection (a) of such section 553.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 400; Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1121.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 400; Pub. L. 95–454, title II, § 201(a), Oct. 13, 1978, 92 Stat. 1121.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 635 (less last 24 words of 6th sentence, and less 7th sentence). | Jan. 16, 1883, ch. 27, § 3 (less last 24 words of 6th sentence, and less 7th sentence), 22 Stat. 404. |
-|  | [Uncodified]. | 1949 Reorg. Plan No. 5, § 4, eff. Aug. 19, 1949, 63 Stat. 1069. |
+|  | 5 U.S.C. 635 (less last 24 words of 6th sentence, and less 7th sentence). | Jan. 16, 1883, ch. 27, § 3 (less last 24 words of 6th sentence, and less 7th sentence), 22 Stat. 404. |
+|  | [Uncodified]. | 1949 Reorg. Plan No. 5, § 4, eff. Aug. 19, 1949, 63 Stat. 1069. |
 
-In subsection (a), the words “the District of Columbia” are substituted for “Washington”. The words “at least three individuals in the service of the United States” are substituted for a “a suitable number of persons, not less than three, in the official service of the United States”. So much of the first three sentences of former section 635 as related to the offices of the Chief Examiner and the Secretary are omitted because the offices were abolished by 1949 Reorg. Plan No. 5, § 4. So much of the first sentence as imposed a duty on the Chief Examiner, under the Commission’s direction, to act with the examining boards to secure accuracy, uniformity, and justice in all their proceedings is restated in section 1104(a)(1). The fourth sentence of former section 635, authorizing the Commission to employ a stenographer and a messenger, is omitted as obsolete. The remainder is rewritten for clarity. The text of 1949 Reorg. Plan No. 5, § 4, is omitted as executed.
+In subsection (a), the words “the District of Columbia” are substituted for “Washington”. The words “at least three individuals in the service of the United States” are substituted for a “a suitable number of persons, not less than three, in the official service of the United States”. So much of the first three sentences of former section 635 as related to the offices of the Chief Examiner and the Secretary are omitted because the offices were abolished by 1949 Reorg. Plan No. 5, § 4. So much of the first sentence as imposed a duty on the Chief Examiner, under the Commission’s direction, to act with the examining boards to secure accuracy, uniformity, and justice in all their proceedings is restated in section 1104(a)(1). The fourth sentence of former section 635, authorizing the Commission to employ a stenographer and a messenger, is omitted as obsolete. The remainder is rewritten for clarity. The text of 1949 Reorg. Plan No. 5, § 4, is omitted as executed.
 
-In subsection (b), the words “Chairman, United States Civil Service Commission” are substituted for “chief examiner” on authority of 1949 Reorg. Plan No. 5, § 2(a)(2). The words “at all times” are omitted as surplusage.
+In subsection (b), the words “Chairman, United States Civil Service Commission” are substituted for “chief examiner” on authority of 1949 Reorg. Plan No. 5, § 2(a)(2). The words “at all times” are omitted as surplusage.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

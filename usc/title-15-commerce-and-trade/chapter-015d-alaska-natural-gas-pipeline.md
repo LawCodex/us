@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 15D—ALASKA NATURAL GAS PIPELINE
 
-## § 720. Definitions
+## § 720. Definitions
 
 In this chapter:
 
@@ -55,7 +55,7 @@ The term “Secretary” means the Secretary of Energy.
 
 The term “State” means the State of Alaska.
 
-(Pub. L. 108–324, div. C, § 102, Oct. 13, 2004, 118 Stat. 1255.)
+(Pub. L. 108–324, div. C, § 102, Oct. 13, 2004, 118 Stat. 1255.)
 
 **Editorial Notes**
 
@@ -63,15 +63,15 @@ The term “State” means the State of Alaska.
 
 This chapter, referred to in text, was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out below and Tables.
 
-The Alaska Natural Gas Transportation Act of 1976, referred to in pars. (2)(A) and (3), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.
+The Alaska Natural Gas Transportation Act of 1976, referred to in pars. (2)(A) and (3), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 108–324, div. C, § 101, Oct. 13, 2004, 118 Stat. 1255, provided that: “This division [enacting this chapter and amending section 719h of this title] may be cited as the ‘Alaska Natural Gas Pipeline Act’.”
+Pub. L. 108–324, div. C, § 101, Oct. 13, 2004, 118 Stat. 1255, provided that: “This division [enacting this chapter and amending section 719h of this title] may be cited as the ‘Alaska Natural Gas Pipeline Act’.”
 
-## § 720a. Issuance of certificate of public convenience and necessity
+## § 720a. Issuance of certificate of public convenience and necessity
 
 **(a) Authority of the Commission**
 
@@ -145,17 +145,17 @@ The rates of shippers of subscribed capacity on an Alaska natural gas transporta
 
 The Commission may issue such regulations as are necessary to carry out this section.
 
-(Pub. L. 108–324, div. C, § 103, Oct. 13, 2004, 118 Stat. 1256.)
+(Pub. L. 108–324, div. C, § 103, Oct. 13, 2004, 118 Stat. 1256.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Alaska Natural Gas Transportation Act of 1976, referred to in subsecs. (a) and (f)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.
+The Alaska Natural Gas Transportation Act of 1976, referred to in subsecs. (a) and (f)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.
 
-The Natural Gas Act, referred to in subsec. (f)(1), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsec. (f)(1), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
-## § 720b. Environmental reviews
+## § 720b. Environmental reviews
 
 **(a) Compliance with NEPA**
 
@@ -167,9 +167,9 @@ The issuance of a certificate of public convenience and necessity authorizing th
 
 **(A)** shall be the lead agency for purposes of complying with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); and
 
-**(B)** shall be responsible for preparing the environmental impact statement required by section 102(2)(c) 1
+**(B)** shall be responsible for preparing the environmental impact statement required by section 102(2)(c) 1
 
-<sup>1</sup>  So in original. Probably should be section “102(2)(C)”.
+<sup>1</sup> So in original. Probably should be section “102(2)(C)”.
 
 of that Act [42 U.S.C. 4332(2)(C)] with respect to an Alaska natural gas transportation project under section 720a of this title.
 
@@ -195,15 +195,15 @@ The environmental impact statement prepared under this section shall be adopted 
 
 **(2)** not later than 180 days after the date of issuance of the draft environmental impact statement, issue a final environmental impact statement, unless the Commission for good cause determines that additional time is needed.
 
-(Pub. L. 108–324, div. C, § 104, Oct. 13, 2004, 118 Stat. 1257.)
+(Pub. L. 108–324, div. C, § 104, Oct. 13, 2004, 118 Stat. 1257.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-## § 720c. Pipeline expansion
+## § 720c. Pipeline expansion
 
 **(a) Authority**
 
@@ -239,9 +239,9 @@ Nothing in this section expands or otherwise affects any authority of the Commis
 
 The Commission may issue such regulations as are necessary to carry out this section.
 
-(Pub. L. 108–324, div. C, § 105, Oct. 13, 2004, 118 Stat. 1258.)
+(Pub. L. 108–324, div. C, § 105, Oct. 13, 2004, 118 Stat. 1258.)
 
-## § 720d. Federal Coordinator
+## § 720d. Federal Coordinator
 
 **(a) Establishment**
 
@@ -357,7 +357,7 @@ Subparagraph (A) shall not affect the authority of the Secretary of the Interior
 
 The Federal Coordinator is authorized to use, without further appropriation, amounts collected under subparagraph (A) to carry out this section.
 
-(Pub. L. 108–324, div. C, § 106, Oct. 13, 2004, 118 Stat. 1259; Pub. L. 109–148, div. A, title VIII, § 8128, Dec. 30, 2005, 119 Stat. 2731; Pub. L. 110–140, title VIII, § 802, Dec. 19, 2007, 121 Stat. 1717.)
+(Pub. L. 108–324, div. C, § 106, Oct. 13, 2004, 118 Stat. 1259; Pub. L. 109–148, div. A, title VIII, § 8128, Dec. 30, 2005, 119 Stat. 2731; Pub. L. 110–140, title VIII, § 802, Dec. 19, 2007, 121 Stat. 1717.)
 
 **Editorial Notes**
 
@@ -381,7 +381,7 @@ Executive Order No. 12142, referred to in subsec. (f), is set out as a note unde
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-## § 720e. Judicial review
+## § 720e. Judicial review
 
 **(a) Exclusive jurisdiction** Except for review by the Supreme Court on writ of certiorari, the United States Court of Appeals for the District of Columbia Circuit shall have original and exclusive jurisdiction to determine—
 
@@ -397,9 +397,9 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 **(C)** the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
 
-**(D)** chapter 2003 of title 54; 1
+**(D)** chapter 2003 of title 54; 1
 
-<sup>1</sup>  So in original. Probably should be “division A of subtitle III of title 54;”.
+<sup>1</sup> So in original. Probably should be “division A of subtitle III of title 54;”.
 
 and
 
@@ -413,7 +413,7 @@ A claim arising under this chapter may be brought not later than 60 days after t
 
 The United States Court of Appeals for the District of Columbia Circuit shall set any action brought under subsection (a) for expedited consideration, taking into account the national interest of enhancing national energy security by providing access to the significant gas reserves in Alaska needed to meet the anticipated demand for natural gas.
 
-(Pub. L. 108–324, div. C, § 107, Oct. 13, 2004, 118 Stat. 1261; Pub. L. 111–11, title XIII, § 13003, Mar. 30, 2009, 123 Stat. 1448; Pub. L. 113–287, § 5(c), Dec. 19, 2014, 128 Stat. 3264.)
+(Pub. L. 108–324, div. C, § 107, Oct. 13, 2004, 118 Stat. 1261; Pub. L. 111–11, title XIII, § 13003, Mar. 30, 2009, 123 Stat. 1448; Pub. L. 113–287, § 5(c), Dec. 19, 2014, 128 Stat. 3264.)
 
 **Editorial Notes**
 
@@ -421,9 +421,9 @@ The United States Court of Appeals for the District of Columbia Circuit shall se
 
 This chapter, referred to in subsecs. (a) and (b), was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(3)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(3)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (a)(3)(E), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
@@ -437,7 +437,7 @@ Section is comprised of section 107 of Pub. L. 108–324. Subsec. (d) of section
 
 2009—Subsec. (a)(3). Pub. L. 111–11 added par. (3) and struck out former par. (3) which read as follows: “the adequacy of any environmental impact statement prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to any action under this chapter.”
 
-## § 720f. State jurisdiction over in-State delivery of natural gas
+## § 720f. State jurisdiction over in-State delivery of natural gas
 
 **(a) Local distribution** Any facility receiving natural gas from an Alaska natural gas transportation project for delivery to consumers within the State—
 
@@ -459,7 +459,7 @@ In accordance with the Natural Gas Act [15 U.S.C. 717 et seq.], the Commission s
 
 In carrying out paragraph (1), the Commission, in accordance with section 17(b) of the Natural Gas Act (15 U.S.C. 717p(b)), shall consult with the State regarding rates (including rate settlements) applicable to natural gas transported on and delivered from the Alaska natural gas transportation project for use within the State.
 
-(Pub. L. 108–324, div. C, § 108, Oct. 13, 2004, 118 Stat. 1261.)
+(Pub. L. 108–324, div. C, § 108, Oct. 13, 2004, 118 Stat. 1261.)
 
 **Editorial Notes**
 
@@ -467,9 +467,9 @@ In carrying out paragraph (1), the Commission, in accordance with section 17(b) 
 
 This chapter, referred to in subsec. (b), was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
 
-The Natural Gas Act, referred to in subsec. (c)(1), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
+The Natural Gas Act, referred to in subsec. (c)(1), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see section 717w of this title and Tables.
 
-## § 720g. Study of alternative means of construction
+## § 720g. Study of alternative means of construction
 
 **(a) Requirement of study**
 
@@ -491,9 +491,9 @@ In conducting the study under subsection (a), the Secretary shall consult with t
 
 **(2)** any recommendations of the Secretary (including proposals for legislation to implement the recommendations).
 
-(Pub. L. 108–324, div. C, § 109, Oct. 13, 2004, 118 Stat. 1262.)
+(Pub. L. 108–324, div. C, § 109, Oct. 13, 2004, 118 Stat. 1262.)
 
-## § 720h. Clarification of ANGTA status and authorities
+## § 720h. Clarification of ANGTA status and authorities
 
 **(a) Savings clause** Nothing in this chapter affects—
 
@@ -511,7 +511,7 @@ In conducting the study under subsection (a), the Secretary shall consult with t
 
 The Secretary shall require the sponsor of the Alaska natural gas transportation system to submit such updated environmental data, reports, permits, and impact analyses as the Secretary determines are necessary to develop detailed terms, conditions, and compliance plans required by section 5 of the President’s decision.
 
-(Pub. L. 108–324, div. C, § 110, Oct. 13, 2004, 118 Stat. 1262.)
+(Pub. L. 108–324, div. C, § 110, Oct. 13, 2004, 118 Stat. 1262.)
 
 **Editorial Notes**
 
@@ -519,9 +519,9 @@ The Secretary shall require the sponsor of the Alaska natural gas transportation
 
 This chapter, referred to in subsec. (a), was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under section 720 of this title and Tables.
 
-The Alaska Natural Gas Transportation Act of 1976, referred to in subsec. (a)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.
+The Alaska Natural Gas Transportation Act of 1976, referred to in subsec. (a)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 719 of this title and Tables.
 
-## § 720i. Sense of Congress concerning use of steel manufactured in North America and negotiation of a project labor agreement
+## § 720i. Sense of Congress concerning use of steel manufactured in North America and negotiation of a project labor agreement
 
 It is the sense of Congress that—
 
@@ -533,9 +533,9 @@ It is the sense of Congress that—
 
 **(B)** negotiate a project labor agreement to expedite construction of the pipeline.
 
-(Pub. L. 108–324, div. C, § 111, Oct. 13, 2004, 118 Stat. 1263.)
+(Pub. L. 108–324, div. C, § 111, Oct. 13, 2004, 118 Stat. 1263.)
 
-## § 720j. Sense of Congress concerning participation by small business concerns
+## § 720j. Sense of Congress concerning participation by small business concerns
 
 **(a) Definition of small business concern**
 
@@ -547,7 +547,7 @@ In this section, the term “small business concern” has the meaning given the
 
 **(2)** to maximize those benefits, the sponsors of the Alaska natural gas transportation project should maximize the participation of small business concerns in contracts and subcontracts awarded in carrying out the project.
 
-(Pub. L. 108–324, div. C, § 112, Oct. 13, 2004, 118 Stat. 1263; Pub. L. 111–68, div. A, title I, § 1501(b), Oct. 1, 2009, 123 Stat. 2041.)
+(Pub. L. 108–324, div. C, § 112, Oct. 13, 2004, 118 Stat. 1263; Pub. L. 111–68, div. A, title I, § 1501(b), Oct. 1, 2009, 123 Stat. 2041.)
 
 **Editorial Notes**
 
@@ -555,7 +555,7 @@ In this section, the term “small business concern” has the meaning given the
 
 2009—Subsec. (c). Pub. L. 111–68 struck out subsec. (c) which related to study to determine extent to which small business concerns participate in construction of oil and gas pipelines in the United States.
 
-## § 720k. Alaska pipeline construction training program
+## § 720k. Alaska pipeline construction training program
 
 **(a) Program**
 
@@ -585,7 +585,7 @@ The training program established with the grants authorized under paragraph (1) 
 
 There are authorized to be appropriated to the Secretary to carry out this section $20,000,000. Not more than 15 percent of the funds may be used for the facility described in subsection (a)(1)(B).
 
-(Pub. L. 108–324, div. C, § 113, Oct. 13, 2004, 118 Stat. 1264; Pub. L. 113–128, title V, § 512(c), July 22, 2014, 128 Stat. 1706.)
+(Pub. L. 108–324, div. C, § 113, Oct. 13, 2004, 118 Stat. 1264; Pub. L. 113–128, title V, § 512(c), July 22, 2014, 128 Stat. 1706.)
 
 **Editorial Notes**
 
@@ -599,7 +599,7 @@ There are authorized to be appropriated to the Secretary to carry out this secti
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
-## § 720l. Sense of Congress concerning natural gas demand
+## § 720l. Sense of Congress concerning natural gas demand
 
 It is the sense of Congress that—
 
@@ -615,9 +615,9 @@ It is the sense of Congress that—
 
 **(6)** as a result, natural gas delivered from Alaskan North Slope will not displace or reduce the commercial viability of Canadian natural gas produced from the Mackenzie Delta or production from the 48 contiguous States.
 
-(Pub. L. 108–324, div. C, § 114, Oct. 13, 2004, 118 Stat. 1264.)
+(Pub. L. 108–324, div. C, § 114, Oct. 13, 2004, 118 Stat. 1264.)
 
-## § 720m. Sense of Congress concerning Alaskan ownership
+## § 720m. Sense of Congress concerning Alaskan ownership
 
 It is the sense of Congress that—
 
@@ -625,9 +625,9 @@ It is the sense of Congress that—
 
 **(2)** to facilitate economic development in the State, all project sponsors should negotiate in good faith with any willing Alaskan person that desires to be involved in the project.
 
-(Pub. L. 108–324, div. C, § 115, Oct. 13, 2004, 118 Stat. 1265.)
+(Pub. L. 108–324, div. C, § 115, Oct. 13, 2004, 118 Stat. 1265.)
 
-## § 720n. Loan guarantees
+## § 720n. Loan guarantees
 
 **(a) Authority**
 
@@ -687,33 +687,33 @@ The term “Federal guarantee instrument” means any guarantee or other pledge 
 
 The term “qualified infrastructure project” means an Alaskan natural gas transportation project or system consisting of the design, engineering, finance, construction, and completion of pipelines and related transportation and production systems (including gas treatment plants, liquification plants, and liquefied natural gas tankers for transportation of liquefied natural gas from southcentral Alaska), and appurtenances thereto, that are used to transport natural gas from the Alaska North Slope.
 
-(Pub. L. 108–324, div. C, § 116, Oct. 13, 2004, 118 Stat. 1265; Pub.L. 108–199, div. H, § 146, Jan. 23, 2004, 118 Stat. 444; Pub. L. 108–447, div. J, title I, § 114, Dec. 8, 2004, 118 Stat. 3346; Pub. L. 117–58, div. D, title IV, § 40401(d), Nov. 15, 2021, 135 Stat. 1037.)
+(Pub. L. 108–324, div. C, § 116, Oct. 13, 2004, 118 Stat. 1265; Pub.L. 108–199, div. H, § 146, Jan. 23, 2004, 118 Stat. 444; Pub. L. 108–447, div. J, title I, § 114, Dec. 8, 2004, 118 Stat. 3346; Pub. L. 117–58, div. D, title IV, § 40401(d), Nov. 15, 2021, 135 Stat. 1037.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Securities Act of 1933, referred to in subsec. (g)(2), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (g)(2), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 **Amendments**
 
-2021—Subsec. (a)(1). Pub. L. 117–58, § 40401(d)(1)(A), struck out “to West Coast States” after “Alaska”.
+2021—Subsec. (a)(1). Pub. L. 117–58, § 40401(d)(1)(A), struck out “to West Coast States” after “Alaska”.
 
-Subsec. (a)(3). Pub. L. 117–58, § 40401(d)(1)(B), struck out “to the continental United States” after “Alaska”.
+Subsec. (a)(3). Pub. L. 117–58, § 40401(d)(1)(B), struck out “to the continental United States” after “Alaska”.
 
-Subsec. (b)(1). Pub. L. 117–58, § 40401(d)(2), struck out “to West Coast States” after “Alaska”.
+Subsec. (b)(1). Pub. L. 117–58, § 40401(d)(2), struck out “to West Coast States” after “Alaska”.
 
-Subsec. (g)(4). Pub. L. 117–58, § 40401(d)(3), substituted “plants, liquification plants, and” for “plants liquification plants and” and struck out “to the West Coast” after “southcentral Alaska” and “to the continental United States” after “Alaska North Slope”.
+Subsec. (g)(4). Pub. L. 117–58, § 40401(d)(3), substituted “plants, liquification plants, and” for “plants liquification plants and” and struck out “to the West Coast” after “southcentral Alaska” and “to the continental United States” after “Alaska North Slope”.
 
-2004—Subsec. (a)(1). Pub.L. 108–199, § 146(1), as amended by Pub. L. 108–447, § 114(a)(1), (2), which directed the amendment of subsec. (a) by inserting “or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States,” before “to issue”, was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
+2004—Subsec. (a)(1). Pub.L. 108–199, § 146(1), as amended by Pub. L. 108–447, § 114(a)(1), (2), which directed the amendment of subsec. (a) by inserting “or with an entity the Secretary determines is qualified to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States,” before “to issue”, was executed to par. (1) of subsec. (a) to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub.L. 108–199, § 146(2), as amended by Pub. L. 108–447, § 114(1)–(3), inserted before period at end “, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project”.
+Subsec. (b)(1). Pub.L. 108–199, § 146(2), as amended by Pub. L. 108–447, § 114(1)–(3), inserted before period at end “, or after the Secretary certifies there exists a qualified entity to construct and operate a liquefied natural gas project to transport liquefied natural gas from Southcentral Alaska to West Coast States. In no case shall loan guarantees be issued for more than one qualified project”.
 
-Subsec. (b)(4). Pub. L. 108–447, § 114(b), added par. (4).
+Subsec. (b)(4). Pub. L. 108–447, § 114(b), added par. (4).
 
-Subsec. (c)(2). Pub. L. 108–199, § 146(3), as amended by Pub. L. 108–447, § 114(1), (2), (4), which directed the amendment of subsec. (a)(2) by inserting “, except that the total amount of principal that may be guaranteed for a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by section 661a(5) of title 2, exceeds $2,000,000,000” before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
+Subsec. (c)(2). Pub. L. 108–199, § 146(3), as amended by Pub. L. 108–447, § 114(1), (2), (4), which directed the amendment of subsec. (a)(2) by inserting “, except that the total amount of principal that may be guaranteed for a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by section 661a(5) of title 2, exceeds $2,000,000,000” before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
 
-Subsec. (g)(4). Pub.L. 108–199, § 146(4), as amended by Pub. L. 108–447, § 114(1), (2), (5), inserted “or system” after “gas transportation project” and “liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from Southcentral Alaska to the West Coast” after “including gas treatment plants”.
+Subsec. (g)(4). Pub.L. 108–199, § 146(4), as amended by Pub. L. 108–447, § 114(1), (2), (5), inserted “or system” after “gas transportation project” and “liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from Southcentral Alaska to the West Coast” after “including gas treatment plants”.
 
 **Statutory Notes and Related Subsidiaries**
 

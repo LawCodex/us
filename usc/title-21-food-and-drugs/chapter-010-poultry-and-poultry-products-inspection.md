@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 10—POULTRY AND POULTRY PRODUCTS INSPECTION
 
-## § 451. Congressional statement of findings
+## § 451. Congressional statement of findings
 
 Poultry and poultry products are an important source of the Nation’s total supply of food. They are consumed throughout the Nation and the major portion thereof moves in interstate or foreign commerce. It is essential in the public interest that the health and welfare of consumers be protected by assuring that poultry products distributed to them are wholesome, not adulterated, and properly marked, labeled, and packaged. Unwholesome, adulterated, or misbranded poultry products impair the effective regulation of poultry products in interstate or foreign commerce, are injurious to the public welfare, destroy markets for wholesome, not adulterated, and properly labeled and packaged poultry products, and result in sundry losses to poultry producers and processors of poultry and poultry products, as well as injury to consumers. It is hereby found that all articles and poultry which are regulated under this chapter are either in interstate or foreign commerce or substantially affect such commerce, and that regulation by the Secretary of Agriculture and cooperation by the States and other jurisdictions as contemplated by this chapter are appropriate to prevent and eliminate burdens upon such commerce, to effectively regulate such commerce, and to protect the health and welfare of consumers.
 
-(Pub. L. 85–172, § 2, Aug. 28, 1957, 71 Stat. 441; Pub. L. 90–492, § 2, Aug. 18, 1968, 82 Stat. 791.)
+(Pub. L. 85–172, § 2, Aug. 28, 1957, 71 Stat. 441; Pub. L. 90–492, § 2, Aug. 18, 1968, 82 Stat. 791.)
 
 **Editorial Notes**
 
@@ -31,7 +31,7 @@ Poultry and poultry products are an important source of the Nation’s total sup
 
 **Effective Date of 1968 Amendment**
 
-Pub. L. 90–492, § 20, Aug. 18, 1968, 82 Stat. 808, provided that:
+Pub. L. 90–492, § 20, Aug. 18, 1968, 82 Stat. 808, provided that:
 
 > “This Act [see Short Title of 1968 Amendment note below] shall become effective upon enactment [Aug. 18, 1968] except as provided in paragraphs (a) through (c):
 
@@ -43,31 +43,31 @@ Pub. L. 90–492, § 20, Aug. 18, 1968, 82 Stat. 808, provided that:
 
 **Effective Date**
 
-Pub. L. 85–172, § 29, formerly § 22, Aug. 28, 1957, 71 Stat. 449, as renumbered by Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 805, provided that: “This Act [this chapter] shall take effect upon enactment [Aug. 28, 1957], except that no person shall be subject to the provisions of this Act [this chapter] prior to January 1, 1959, unless such person after January 1, 1958, applies for and receives inspection for poultry or poultry products in accordance with the provisions of this Act [this chapter] and pursuant to regulations promulgated by the Secretary hereunder, in any establishment processing poultry or poultry products in commerce or in a designated major consuming area. Any person who voluntarily applies for and receives such inspection after January 1, 1958, shall be subject, on and after the date he commences to receive such inspection, to all of the provisions and penalties provided for in this Act [this chapter] with respect to all poultry or poultry products handled in the establishment for which such said application for inspection is made.”
+Pub. L. 85–172, § 29, formerly § 22, Aug. 28, 1957, 71 Stat. 449, as renumbered by Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 805, provided that: “This Act [this chapter] shall take effect upon enactment [Aug. 28, 1957], except that no person shall be subject to the provisions of this Act [this chapter] prior to January 1, 1959, unless such person after January 1, 1958, applies for and receives inspection for poultry or poultry products in accordance with the provisions of this Act [this chapter] and pursuant to regulations promulgated by the Secretary hereunder, in any establishment processing poultry or poultry products in commerce or in a designated major consuming area. Any person who voluntarily applies for and receives such inspection after January 1, 1958, shall be subject, on and after the date he commences to receive such inspection, to all of the provisions and penalties provided for in this Act [this chapter] with respect to all poultry or poultry products handled in the establishment for which such said application for inspection is made.”
 
 **Short Title of 1968 Amendment**
 
-Pub. L. 90–492, § 1, Aug. 18, 1968, 82 Stat. 791, provided: “That this Act [enacting sections 467a to 467f and 470 of this title, amending this section and sections 452 to 461, 463 to 465, and 467 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Wholesome Poultry Products Act’.”
+Pub. L. 90–492, § 1, Aug. 18, 1968, 82 Stat. 791, provided: “That this Act [enacting sections 467a to 467f and 470 of this title, amending this section and sections 452 to 461, 463 to 465, and 467 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Wholesome Poultry Products Act’.”
 
 **Short Title**
 
-Pub. L. 85–172, § 1, Aug. 28, 1957, 71 Stat. 441, provided: “That this Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Poultry Products Inspection Act’.”
+Pub. L. 85–172, § 1, Aug. 28, 1957, 71 Stat. 441, provided: “That this Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Poultry Products Inspection Act’.”
 
 **Separability**
 
-Pub. L. 90–492, § 19, Aug. 18, 1968, 82 Stat. 808, provided that: “If any provisions of this Act or of the amendments made hereby [see Short Title of 1968 Amendment note above] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Pub. L. 90–492, § 19, Aug. 18, 1968, 82 Stat. 808, provided that: “If any provisions of this Act or of the amendments made hereby [see Short Title of 1968 Amendment note above] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and the remaining amendments and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
-Pub. L. 85–172, § 28, formerly § 21, Aug. 28, 1957, 71 Stat. 449, as renumbered by Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 805, provided that: “If any provision of this Act [this chapter] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
+Pub. L. 85–172, § 28, formerly § 21, Aug. 28, 1957, 71 Stat. 449, as renumbered by Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 805, provided that: “If any provision of this Act [this chapter] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
 **Food Additives Amendment of 1958**
 
-Pub. L. 85–929, § 7, Sept. 6, 1958, 72 Stat. 1789, provided that: “Nothing in this Act [amending sections 321, 331, 342, 346, and 348 of this title and section 210 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 321 and 342 of this title] shall be construed to exempt any meat or meat food product or any person from any requirement imposed by or pursuant to the Poultry Products Inspection Act (21 U.S.C. 451 and the following) [this chapter] or the Meat Inspection Act of March 4, 1907, 34 Stat. 1260, as amended and extended (21 U.S.C. 71 and the following) [see section 601 et seq. of this title].”
+Pub. L. 85–929, § 7, Sept. 6, 1958, 72 Stat. 1789, provided that: “Nothing in this Act [amending sections 321, 331, 342, 346, and 348 of this title and section 210 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 321 and 342 of this title] shall be construed to exempt any meat or meat food product or any person from any requirement imposed by or pursuant to the Poultry Products Inspection Act (21 U.S.C. 451 and the following) [this chapter] or the Meat Inspection Act of March 4, 1907, 34 Stat. 1260, as amended and extended (21 U.S.C. 71 and the following) [see section 601 et seq. of this title].”
 
-## § 452. Congressional declaration of policy
+## § 452. Congressional declaration of policy
 
 It is hereby declared to be the policy of the Congress to provide for the inspection of poultry and poultry products and otherwise regulate the processing and distribution of such articles as hereinafter prescribed to prevent the movement or sale in interstate or foreign commerce of, or the burdening of such commerce by, poultry products which are adulterated or misbranded. It is the intent of Congress that when poultry and poultry products are condemned because of disease, the reason for condemnation in such instances shall be supported by scientific fact, information, or criteria, and such condemnation under this chapter shall be achieved through uniform inspection standards and uniform applications thereof.
 
-(Pub. L. 85–172, § 3, Aug. 28, 1957, 71 Stat. 441; Pub. L. 90–492, § 3, Aug. 18, 1968, 82 Stat. 792.)
+(Pub. L. 85–172, § 3, Aug. 28, 1957, 71 Stat. 441; Pub. L. 90–492, § 3, Aug. 18, 1968, 82 Stat. 792.)
 
 **Editorial Notes**
 
@@ -81,7 +81,7 @@ It is hereby declared to be the policy of the Congress to provide for the inspec
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 453. Definitions
+## § 453. Definitions
 
 For purposes of this chapter—
 
@@ -189,13 +189,13 @@ For purposes of this chapter—
 
 **(bb)** The term “animal food manufacturer” means any person engaged in the business of manufacturing or processing animal food derived wholly or in part from carcasses, or parts or products of the carcasses, of poultry.
 
-(Pub. L. 85–172, § 4, Aug. 28, 1957, 71 Stat. 441; Pub. L. 87–498, June 25, 1962, 76 Stat. 110; Pub. L. 90–492, § 4, Aug. 18, 1968, 82 Stat. 792; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–571, title I, § 107(13), Oct. 29, 1992, 106 Stat. 4499.)
+(Pub. L. 85–172, § 4, Aug. 28, 1957, 71 Stat. 441; Pub. L. 87–498, June 25, 1962, 76 Stat. 110; Pub. L. 90–492, § 4, Aug. 18, 1968, 82 Stat. 792; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–571, title I, § 107(13), Oct. 29, 1992, 106 Stat. 4499.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in pars. (x) and (y), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in pars. (x) and (y), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 **Amendments**
 
@@ -215,7 +215,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in pars. (x) and (y), is a
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 454. Federal and State cooperation in development and administration of State poultry product inspection programs
+## § 454. Federal and State cooperation in development and administration of State poultry product inspection programs
 
 **(a) State laws; planning, technical and financial assistance; advisory committees** It is the policy of the Congress to protect the consuming public from poultry products that are adulterated or misbranded and to assist in efforts by State and other government agencies to accomplish this objective. In furtherance of this policy—
 
@@ -239,9 +239,9 @@ The appropriate State agency with which the Secretary may cooperate under this c
 
 **(3)** Whenever the Secretary determines that any State designated under this paragraph (c) has developed and will enforce State poultry products inspection requirements at least equal to those imposed under the aforesaid sections of this chapter, with respect to the operations and transactions within such State which are regulated under subparagraph (1) of this paragraph (c), he shall terminate the designation of such State under this paragraph (c), but this shall not preclude the subsequent redesignation of the State at any time upon thirty days’ notice to the Governor and publication in the Federal Register in accordance with this paragraph, and any State may be designated upon such notice and publication, at any time after the period specified in this paragraph whether or not the State has theretofore been designated, upon the Secretary determining that it is not effectively enforcing requirements at least equal to those imposed under said sections.
 
-**(4)** The Secretary shall promptly upon August 18, 1968, and periodically thereafter, but at least annually, review the requirements, including the enforcement thereof, of the several States not designated under this paragraph (c), with respect to the slaughter, and the processing, storage, handling, and distribution of poultry products, and inspection of such operations, and annually report thereon to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate in the report required in section 470 1
+**(4)** The Secretary shall promptly upon August 18, 1968, and periodically thereafter, but at least annually, review the requirements, including the enforcement thereof, of the several States not designated under this paragraph (c), with respect to the slaughter, and the processing, storage, handling, and distribution of poultry products, and inspection of such operations, and annually report thereon to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate in the report required in section 470 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title.
 
@@ -249,7 +249,7 @@ of this title.
 
 As used in this section, the term “State” means any State (including the Commonwealth of Puerto Rico) or organized territory.
 
-(Pub. L. 85–172, § 5, Aug. 28, 1957, 71 Stat. 443; Pub. L. 90–492, § 5, Aug. 18, 1968, 82 Stat. 796; Pub. L. 98–487, § 2, Oct. 17, 1984, 98 Stat. 2264; Pub. L. 103–437, § 8(1), Nov. 2, 1994, 108 Stat. 4588.)
+(Pub. L. 85–172, § 5, Aug. 28, 1957, 71 Stat. 443; Pub. L. 90–492, § 5, Aug. 18, 1968, 82 Stat. 796; Pub. L. 98–487, § 2, Oct. 17, 1984, 98 Stat. 2264; Pub. L. 103–437, § 8(1), Nov. 2, 1994, 108 Stat. 4588.)
 
 **Editorial Notes**
 
@@ -275,7 +275,7 @@ In par. (c)(1), (4), “August 18, 1968” substituted for “enactment of the W
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 455. Inspection in official establishments
+## § 455. Inspection in official establishments
 
 **(a) Ante mortem inspection**
 
@@ -289,17 +289,17 @@ The Secretary, whenever processing operations are being conducted, shall cause t
 
 All poultry carcasses and parts thereof and other poultry products found to be adulterated shall be condemned and shall, if no appeal be taken from such determination of condemnation, be destroyed for human food purposes under the supervision of an inspector: *Provided*, That carcasses, parts, and products, which may by reprocessing be made not adulterated, need not be so condemned and destroyed if so reprocessed under the supervision of an inspector and thereafter found to be not adulterated. If an appeal be taken from such determination, the carcasses, parts, or products shall be appropriately marked and segregated pending completion of an appeal inspection, which appeal shall be at the cost of the appellant if the Secretary determines that the appeal is frivolous. If the determination of condemnation is sustained the carcasses, parts, and products shall be destroyed for human food purposes under the supervision of an inspector.
 
-(Pub. L. 85–172, § 6, Aug. 28, 1957, 71 Stat. 443; Pub. L. 90–492, § 6, Aug. 18, 1968, 82 Stat. 798.)
+(Pub. L. 85–172, § 6, Aug. 28, 1957, 71 Stat. 443; Pub. L. 90–492, § 6, Aug. 18, 1968, 82 Stat. 798.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1968—Par. (a). Pub. L. 90–492, § 6(a), substituted “of, or the burdening of commerce by, any poultry product which is capable of use as human food and is adulterated,” for “or a designated major consuming area of any poultry product which is unwholesome or adulterated,” “each official establishment” for “any official establishment”, and “otherwise subject to inspection under this chapter” for “in, or for marketing in a designated city or area”.
+1968—Par. (a). Pub. L. 90–492, § 6(a), substituted “of, or the burdening of commerce by, any poultry product which is capable of use as human food and is adulterated,” for “or a designated major consuming area of any poultry product which is unwholesome or adulterated,” “each official establishment” for “any official establishment”, and “otherwise subject to inspection under this chapter” for “in, or for marketing in a designated city or area”.
 
-Par. (b). Pub. L. 90–492, § 6(b), substituted “segregation, and reinspection” for “segregation, reinspection”, and “otherwise subject to inspection under this chapter” for “in, or for marketing in a designated city or area”, and inserted “capable of use as human food” after “necessary of poultry and poultry products”.
+Par. (b). Pub. L. 90–492, § 6(b), substituted “segregation, and reinspection” for “segregation, reinspection”, and “otherwise subject to inspection under this chapter” for “in, or for marketing in a designated city or area”, and inserted “capable of use as human food” after “necessary of poultry and poultry products”.
 
-Par. (c). Pub. L. 90–492, § 6(c), inserted “other” before “poultry products”, and substituted “to be adulterated” for “to be unwholesome or adulterated”, “made not adulterated” for “made not unwholesome and not adulterated”, and “to be not adulterated” for “to be not unwholesome and not adulterated”.
+Par. (c). Pub. L. 90–492, § 6(c), inserted “other” before “poultry products”, and substituted “to be adulterated” for “to be unwholesome or adulterated”, “made not adulterated” for “made not unwholesome and not adulterated”, and “to be not adulterated” for “to be not unwholesome and not adulterated”.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -309,9 +309,9 @@ Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L.
 
 **Applicability of Chapter Requirements to Birds of the Order Ratitae**
 
-Pub. L. 106–387, § 1(a) [title VII, § 752], Oct. 28, 2000, 114 Stat. 1549, 1549A–41, provided that: “Effective 180 days after the date of the enactment of this Act [Oct. 28, 2000] and continuing for the remainder of fiscal year 2001 and each subsequent fiscal year, establishments in the United States that slaughter or process birds of the order Ratitae, such as ostriches, emus and rheas, and squab, for distribution in commerce as human food shall be subject to the ante mortem and post mortem inspection, reinspection, and sanitation requirements of the Poultry Products Inspection Act (21 U.S.C. 451 et seq.) rather than the voluntary poultry inspection program of the Department of Agriculture under section 203 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1622).”
+Pub. L. 106–387, § 1(a) [title VII, § 752], Oct. 28, 2000, 114 Stat. 1549, 1549A–41, provided that: “Effective 180 days after the date of the enactment of this Act [Oct. 28, 2000] and continuing for the remainder of fiscal year 2001 and each subsequent fiscal year, establishments in the United States that slaughter or process birds of the order Ratitae, such as ostriches, emus and rheas, and squab, for distribution in commerce as human food shall be subject to the ante mortem and post mortem inspection, reinspection, and sanitation requirements of the Poultry Products Inspection Act (21 U.S.C. 451 et seq.) rather than the voluntary poultry inspection program of the Department of Agriculture under section 203 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1622).”
 
-## § 456. Operation of premises, facilities and equipment
+## § 456. Operation of premises, facilities and equipment
 
 **(a) Sanitary practices**
 
@@ -321,7 +321,7 @@ Each official establishment slaughtering poultry or processing poultry products 
 
 The Secretary shall refuse to render inspection to any establishment whose premises, facilities, or equipment, or the operation thereof, fail to meet the requirements of this section.
 
-(Pub. L. 85–172, § 7, Aug. 28, 1957, 71 Stat. 444; Pub. L. 90–492, § 7, Aug. 18, 1968, 82 Stat. 799.)
+(Pub. L. 85–172, § 7, Aug. 28, 1957, 71 Stat. 444; Pub. L. 90–492, § 7, Aug. 18, 1968, 82 Stat. 799.)
 
 **Editorial Notes**
 
@@ -335,7 +335,7 @@ The Secretary shall refuse to render inspection to any establishment whose premi
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 457. Labeling and container standards
+## § 457. Labeling and container standards
 
 **(a) Requirements for shipping containers and immediate containers; nonconsumer packaged carcasses**
 
@@ -353,13 +353,13 @@ No article subject to this chapter shall be sold or offered for sale by any pers
 
 If the Secretary has reason to believe that any marking or labeling or the size or form of any container in use or proposed for use with respect to any article subject to this chapter is false or misleading in any particular, he may direct that such use be withheld unless the marking, labeling, or container is modified in such manner as he may prescribe so that it will not be false or misleading. If the person using or proposing to use the marking, labeling, or container does not accept the determination of the Secretary, such person may request a hearing, but the use of the marking, labeling, or container shall, if the Secretary so directs, be withheld pending hearing and final determination by the Secretary. Any such determination by the Secretary shall be conclusive unless, within thirty days after receipt of notice of such final determination, the person adversely affected thereby appeals to the United States Court of Appeals for the circuit in which such person has its principal place of business or to the United States Court of Appeals for the District of Columbia Circuit. The provisions of section 194 of title 7 shall be applicable to appeals taken under this section.
 
-(Pub. L. 85–172, § 8, Aug. 28, 1957, 71 Stat. 444; Pub. L. 90–492, § 8, Aug. 18, 1968, 82 Stat. 799; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 85–172, § 8, Aug. 28, 1957, 71 Stat. 444; Pub. L. 90–492, § 8, Aug. 18, 1968, 82 Stat. 799; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in par. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in par. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 **Amendments**
 
@@ -381,7 +381,7 @@ Par. (d). Pub. L. 90–492 redesignated part of provisions of former par. (b) as
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 458. Prohibited acts
+## § 458. Prohibited acts
 
 **(a)** No person shall—
 
@@ -411,7 +411,7 @@ Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L.
 
 **(6)** knowingly represent that any article has been inspected and passed, or exempted, under this chapter when, in fact, it has respectively, not been so inspected and passed, or exempted.
 
-(Pub. L. 85–172, § 9, Aug. 28, 1957, 71 Stat. 445; Pub. L. 90–492, § 9, Aug. 18, 1968, 82 Stat. 800.)
+(Pub. L. 85–172, § 9, Aug. 28, 1957, 71 Stat. 445; Pub. L. 90–492, § 9, Aug. 18, 1968, 82 Stat. 800.)
 
 **Editorial Notes**
 
@@ -425,7 +425,7 @@ Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L.
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, except that amendment of pars. (a)(2)(A) and (a)(3) effective upon the expiration of sixty days after Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 459. Compliance by all establishments
+## § 459. Compliance by all establishments
 
 **(a) In general**
 
@@ -443,7 +443,7 @@ Any establishment subject to inspection under this chapter that believes, or has
 
 **(3)** upon request, make the procedures and reassessed process control plans available to inspectors appointed by the Secretary for review and copying.
 
-(Pub. L. 85–172, § 10, Aug. 28, 1957, 71 Stat. 446; Pub. L. 90–492, § 10, Aug. 18, 1968, 82 Stat. 801; Pub. L. 110–234, title XI, § 11017(b), May 22, 2008, 122 Stat. 1370; Pub. L. 110–246, § 4(a), title XI, § 11017(b), June 18, 2008, 122 Stat. 1664, 2132.)
+(Pub. L. 85–172, § 10, Aug. 28, 1957, 71 Stat. 446; Pub. L. 90–492, § 10, Aug. 18, 1968, 82 Stat. 801; Pub. L. 110–234, title XI, § 11017(b), May 22, 2008, 122 Stat. 1370; Pub. L. 110–246, § 4(a), title XI, § 11017(b), June 18, 2008, 122 Stat. 1664, 2132.)
 
 **Editorial Notes**
 
@@ -453,7 +453,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **Amendments**
 
-2008—Pub. L. 110–246, § 11017(b), inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+2008—Pub. L. 110–246, § 11017(b), inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 1968—Pub. L. 90–492 substituted “otherwise subject to this chapter” for “in or for marketing in a designated major consuming area”.
 
@@ -467,7 +467,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 460. Miscellaneous activities subject to regulation
+## § 460. Miscellaneous activities subject to regulation
 
 **(a) Prohibition of inspection of articles not intended for use as human food; denaturation or other identification prior to distribution in commerce; inedible articles**
 
@@ -493,7 +493,7 @@ No person engaged in the business of buying, selling, or transporting in commerc
 
 The authority conferred on the Secretary by paragraph (b), (c), or (d) of this section with respect to persons engaged in the specified kinds of business in or for commerce may be exercised with respect to persons engaged, in any State or organized territory, in such kinds of business but not in or for commerce, whenever the Secretary determines, after consultation with an appropriate advisory committee provided for in section 454 of this title, that the State or territory does not have at least equal authority under its laws or such authority is not exercised in a manner to effectuate the purposes of this chapter, including the State or territory providing for the Secretary or his representative being afforded access to such places of business and the facilities, inventories, and records thereof, and the taking of reasonable samples, where he determines necessary in carrying out his responsibilities under this chapter; and in such case the provisions of paragraph (b), (c), or (d) of this section, respectively, shall apply to such persons to the same extent and in the same manner as if they were engaged in such business in or for commerce and the transactions involved were in commerce.
 
-(Pub. L. 85–172, § 11, Aug. 28, 1957, 71 Stat. 446; Pub. L. 90–492, § 11, Aug. 18, 1968, 82 Stat. 801.)
+(Pub. L. 85–172, § 11, Aug. 28, 1957, 71 Stat. 446; Pub. L. 90–492, § 11, Aug. 18, 1968, 82 Stat. 801.)
 
 **Editorial Notes**
 
@@ -507,7 +507,7 @@ The authority conferred on the Secretary by paragraph (b), (c), or (d) of this s
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, except that par. (d) effective upon the expiration of sixty days after Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 461. Offenses and punishment
+## § 461. Offenses and punishment
 
 **(a) Violations; liability of agents, employees, and employers**
 
@@ -521,17 +521,17 @@ No carrier shall be subject to the penalties of this chapter, other than the pen
 
 Any person who forcibly assaults, resists, opposes, impedes, intimidates, or interferes with any person while engaged in or on account of the performance of his official duties under this chapter shall be fined not more than $5,000 or imprisoned not more than three years, or both. Whoever, in the commission of any such acts, uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both. Whoever kills any person while engaged in or on account of the performance of his official duties under this chapter shall be punished as provided under sections 1111 and 1114 of title 18.
 
-(Pub. L. 85–172, § 12, Aug. 28, 1957, 71 Stat. 446; Pub. L. 90–492, § 12, Aug. 18, 1968, 82 Stat. 802.)
+(Pub. L. 85–172, § 12, Aug. 28, 1957, 71 Stat. 446; Pub. L. 90–492, § 12, Aug. 18, 1968, 82 Stat. 802.)
 
 **Editorial Notes**
 
 **Amendments**
 
-1968—Par. (a). Pub. L. 90–492, § 12(a), inserted reference to violations of section 463 of this title, and substituted provisions that violators of the enumerated sections shall be fined not more than $1,000 or imprisoned not more than one year, or both, but that in cases involving intent to defraud, or any distribution or attempt to distribute adulterated articles, except as defined in section 453(g) of this title, the violators shall be fined not more than $10,000 or imprisoned not more than three years, or both, for provisions that violators shall be guilty of a misdemeanor and subject to imprisonment for not more than six months or a fine of not more than $3,000, or both, with increased fines and imprisonment for any subsequent violations.
+1968—Par. (a). Pub. L. 90–492, § 12(a), inserted reference to violations of section 463 of this title, and substituted provisions that violators of the enumerated sections shall be fined not more than $1,000 or imprisoned not more than one year, or both, but that in cases involving intent to defraud, or any distribution or attempt to distribute adulterated articles, except as defined in section 453(g) of this title, the violators shall be fined not more than $10,000 or imprisoned not more than three years, or both, for provisions that violators shall be guilty of a misdemeanor and subject to imprisonment for not more than six months or a fine of not more than $3,000, or both, with increased fines and imprisonment for any subsequent violations.
 
-Par. (b). Pub. L. 90–492, § 12(b), substituted “of poultry” for “of slaughtered poultry”, “such poultry” for “such slaughtered poultry”, and “otherwise not eligible” for “not otherwise eligible”, and inserted provision that no carrier shall be subject to punishment unless the carrier refuses to furnish the name and address of the person from whom he received such poultry or poultry products, and copies of any documents pertaining to the delivery of the poultry or poultry products to such carrier.
+Par. (b). Pub. L. 90–492, § 12(b), substituted “of poultry” for “of slaughtered poultry”, “such poultry” for “such slaughtered poultry”, and “otherwise not eligible” for “not otherwise eligible”, and inserted provision that no carrier shall be subject to punishment unless the carrier refuses to furnish the name and address of the person from whom he received such poultry or poultry products, and copies of any documents pertaining to the delivery of the poultry or poultry products to such carrier.
 
-Par. (c). Pub. L. 90–492, § 12(c), added par. (c).
+Par. (c). Pub. L. 90–492, § 12(c), added par. (c).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -539,13 +539,13 @@ Par. (c). Pub. L. 90–492, § 12(c), added par. (c).
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 462. Reporting of violations; notice; opportunity to present views
+## § 462. Reporting of violations; notice; opportunity to present views
 
 Before any violation of this chapter is reported by the Secretary to any United States attorney for institution of a criminal proceeding, the person against whom such proceeding is contemplated shall be given reasonable notice of the alleged violation and opportunity to pre­sent his views orally or in writing with regard to such contemplated proceeding. Nothing in this chapter shall be construed as requiring the Secretary to report for criminal prosecution violations of this chapter whenever he believes that the public interest will be adequately served and compliance with the chapter obtained by a suitable written notice or warning.
 
-(Pub. L. 85–172, § 13, Aug. 28, 1957, 71 Stat. 447.)
+(Pub. L. 85–172, § 13, Aug. 28, 1957, 71 Stat. 447.)
 
-## § 463. Rules and regulations
+## § 463. Rules and regulations
 
 **(a) Storage and handling of poultry products; violation of regulations**
 
@@ -559,7 +559,7 @@ The Secretary shall promulgate such other rules and regulations as are necessary
 
 In applying the provisions of section 553(c) of title 5 to proposed rule making under this chapter, an opportunity for the oral presentation of views shall be accorded all interested persons.
 
-(Pub. L. 85–172, § 14, Aug. 28, 1957, 71 Stat. 447; Pub. L. 90–492, § 13, Aug. 18, 1968, 82 Stat. 803.)
+(Pub. L. 85–172, § 14, Aug. 28, 1957, 71 Stat. 447; Pub. L. 90–492, § 13, Aug. 18, 1968, 82 Stat. 803.)
 
 **Editorial Notes**
 
@@ -573,7 +573,7 @@ In applying the provisions of section 553(c) of title 5 to proposed rule making 
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 464. Exemptions
+## § 464. Exemptions
 
 **(a) Persons exempted** The Secretary shall, by regulation and under such conditions as to sanitary standards, practices, and procedures as he may prescribe, exempt from specific provisions of this chapter—
 
@@ -631,7 +631,7 @@ The adulteration and misbranding provisions of this chapter, other than the requ
 
 The Secretary may by order suspend or terminate any exemption under this section with respect to any person whenever he finds that such action will aid in effectuating the purposes of this chapter.
 
-(Pub. L. 85–172, § 15, Aug. 28, 1957, 71 Stat. 447; Pub. L. 90–492, § 14, Aug. 18, 1968, 82 Stat. 803; Pub. L. 97–206, June 30, 1982, 96 Stat. 136; Pub. L. 102–237, title X, § 1016(b), Dec. 13, 1991, 105 Stat. 1903.)
+(Pub. L. 85–172, § 15, Aug. 28, 1957, 71 Stat. 447; Pub. L. 90–492, § 14, Aug. 18, 1968, 82 Stat. 803; Pub. L. 97–206, June 30, 1982, 96 Stat. 136; Pub. L. 102–237, title X, § 1016(b), Dec. 13, 1991, 105 Stat. 1903.)
 
 **Editorial Notes**
 
@@ -639,13 +639,13 @@ The Secretary may by order suspend or terminate any exemption under this section
 
 1991—Subsecs. (d) to (f). Pub. L. 102–237 added subsec. (d), redesignated former subsec. (d) as (e) and substituted “(d)” for “(c)”, and redesignated former subsec. (e) as (f).
 
-1982—Par. (c)(3). Pub. L. 97–206, § 1, substituted provisions that no exemption would be given to persons who during the current calendar year either slaughter or process the products of more than 20,000 poultry, or slaughter or process such poultry at a facility of another poultry producer or person, but that, in the latter case, the Secretary may grant the exemption upon application of such poultry producer or person if granting such exemption would not impair the purposes of this chapter, for provisions that an exemption would not be granted to those who slaughter or process the products of more than 5,000 turkeys or an equivalent number of poultry of all species in the current calendar year (four birds of other species being deemed equivalent of one turkey).
+1982—Par. (c)(3). Pub. L. 97–206, § 1, substituted provisions that no exemption would be given to persons who during the current calendar year either slaughter or process the products of more than 20,000 poultry, or slaughter or process such poultry at a facility of another poultry producer or person, but that, in the latter case, the Secretary may grant the exemption upon application of such poultry producer or person if granting such exemption would not impair the purposes of this chapter, for provisions that an exemption would not be granted to those who slaughter or process the products of more than 5,000 turkeys or an equivalent number of poultry of all species in the current calendar year (four birds of other species being deemed equivalent of one turkey).
 
-Par. (c)(4)(i). Pub. L. 97–206, § 2, substituted “1,000 poultry during the calendar year for which this exemption is being determined” for “250 turkeys, or not more than an equivalent number of birds of all species during the calendar year for which this exemption is being determined (four birds of other species being deemed the equivalent of one turkey)”.
+Par. (c)(4)(i). Pub. L. 97–206, § 2, substituted “1,000 poultry during the calendar year for which this exemption is being determined” for “250 turkeys, or not more than an equivalent number of birds of all species during the calendar year for which this exemption is being determined (four birds of other species being deemed the equivalent of one turkey)”.
 
-1968—Par. (a). Pub. L. 90–492, § 14(a), (b), redesignated subpars. (2) to (4) as (1) to (3), respectively, and in subpar. (2), as so redesignated, substituted “January 1, 1970” for “July 1, 1960”. Former subpar. (1), which exempted poultry producers with respect to poultry of their own raising on their own farms which they sold directly to household consumers, hotels, etc., for use in their own dining rooms or in the preparation of meals for sales direct to consumers only, provided that such producers did not engage in buying or selling poultry products other than those produced from poultry raised on their own farms, was struck out.
+1968—Par. (a). Pub. L. 90–492, § 14(a), (b), redesignated subpars. (2) to (4) as (1) to (3), respectively, and in subpar. (2), as so redesignated, substituted “January 1, 1970” for “July 1, 1960”. Former subpar. (1), which exempted poultry producers with respect to poultry of their own raising on their own farms which they sold directly to household consumers, hotels, etc., for use in their own dining rooms or in the preparation of meals for sales direct to consumers only, provided that such producers did not engage in buying or selling poultry products other than those produced from poultry raised on their own farms, was struck out.
 
-Pars. (b) to (e). Pub. L. 90–492, § 14(c), added pars. (b) to (d) and redesignated former par. (b) as (e).
+Pars. (b) to (e). Pub. L. 90–492, § 14(c), added pars. (b) to (d) and redesignated former par. (b) as (e).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -655,17 +655,17 @@ Amendment by Pub. L. 90–492 effective upon the expiration of sixty days after 
 
 **Regulations**
 
-Pub. L. 102–237, title X, § 1016(c), Dec. 13, 1991, 105 Stat. 1903, provided that: “No later than August 1, 1992, the Secretary of Agriculture shall issue final rules, through prior notice and comment rulemaking procedures, to implement the exemption authorized by section 23(c) of the Federal Meat Inspection Act [21 U.S.C. 623(c)] (as added by subsection (a)) and the exemption authorized by section 15(d) of the Poultry Products Inspection Act [21 U.S.C. 464(d)] (as added by subsection (b)). Prior to the issuance of the final rules, the Secretary shall hold at least one public hearing examining the public health and food safety issues raised by the granting of each of the exemptions.”
+Pub. L. 102–237, title X, § 1016(c), Dec. 13, 1991, 105 Stat. 1903, provided that: “No later than August 1, 1992, the Secretary of Agriculture shall issue final rules, through prior notice and comment rulemaking procedures, to implement the exemption authorized by section 23(c) of the Federal Meat Inspection Act [21 U.S.C. 623(c)] (as added by subsection (a)) and the exemption authorized by section 15(d) of the Poultry Products Inspection Act [21 U.S.C. 464(d)] (as added by subsection (b)). Prior to the issuance of the final rules, the Secretary shall hold at least one public hearing examining the public health and food safety issues raised by the granting of each of the exemptions.”
 
 **Studies Concerning Grant of Future Exemptions for Poultry and Meat Food Products**
 
-Pub. L. 102–237, title X, § 1016(d), Dec. 13, 1991, 105 Stat. 1903, directed Secretary of Agriculture in consultation with National Academy of Sciences to conduct a study on meat food and poultry products inspection exemptions under Federal Meat Inspection Act and Poultry Products Inspection Act and a study on an exemption from requirements of such Acts for certain wholesale meat outlets selling to hotels and other similar institutional users not later than 24 months after Dec. 13, 1991, and on completion of each study to provide the results to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
+Pub. L. 102–237, title X, § 1016(d), Dec. 13, 1991, 105 Stat. 1903, directed Secretary of Agriculture in consultation with National Academy of Sciences to conduct a study on meat food and poultry products inspection exemptions under Federal Meat Inspection Act and Poultry Products Inspection Act and a study on an exemption from requirements of such Acts for certain wholesale meat outlets selling to hotels and other similar institutional users not later than 24 months after Dec. 13, 1991, and on completion of each study to provide the results to Committee on Agriculture of House of Representatives and Committee on Agriculture, Nutrition, and Forestry of Senate.
 
-## § 465. Limitations upon entry of poultry products and other materials into official establishments
+## § 465. Limitations upon entry of poultry products and other materials into official establishments
 
 The Secretary may limit the entry of poultry products and other materials into any official establishment, under such conditions as he may prescribe to assure that allowing the entry of such articles into such inspected establishments will be consistent with the purposes of this chapter.
 
-(Pub. L. 85–172, § 16, Aug. 28, 1957, 71 Stat. 448; Pub. L. 90–492, § 15, Aug. 18, 1968, 82 Stat. 805.)
+(Pub. L. 85–172, § 16, Aug. 28, 1957, 71 Stat. 448; Pub. L. 90–492, § 15, Aug. 18, 1968, 82 Stat. 805.)
 
 **Editorial Notes**
 
@@ -679,7 +679,7 @@ The Secretary may limit the entry of poultry products and other materials into a
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 466. Imports
+## § 466. Imports
 
 **(a) Compliance with standards and regulations; status after importation**
 
@@ -719,23 +719,23 @@ All charges for storage, cartage, and labor with respect to any product which is
 
 **(B)** random sampling and testing of internal organs and fat of carcasses for residues at the point of slaughter by the exporting country, in accordance with methods approved by the Secretary.
 
-(Pub. L. 85–172, § 17, Aug. 28, 1957, 71 Stat. 448; Pub. L. 99–198, title XVII, § 1701(a), Dec. 23, 1985, 99 Stat. 1633; Pub. L. 103–182, title III, § 361(e), Dec. 8, 1993, 107 Stat. 2123; Pub. L. 103–465, title IV, § 431(k), Dec. 8, 1994, 108 Stat. 4969.)
+(Pub. L. 85–172, § 17, Aug. 28, 1957, 71 Stat. 448; Pub. L. 99–198, title XVII, § 1701(a), Dec. 23, 1985, 99 Stat. 1633; Pub. L. 103–182, title III, § 361(e), Dec. 8, 1993, 107 Stat. 2123; Pub. L. 103–465, title IV, § 431(k), Dec. 8, 1994, 108 Stat. 4969.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 **Amendments**
 
-1994—Subsec. (d)(1). Pub. L. 103–465, § 431(k)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of law, except as provided in paragraph (2), all poultry, or parts or products thereof, capable of use as human food offered for importation into the United States shall—
+1994—Subsec. (d)(1). Pub. L. 103–465, § 431(k)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of law, except as provided in paragraph (2), all poultry, or parts or products thereof, capable of use as human food offered for importation into the United States shall—
 
 “(A) be subject to the same inspection, sanitary, quality, species verification, and residue standards applied to products produced in the United States; and
 
 “(B) have been processed in facilities and under conditions that are the same as those under which similar products are processed in the United States.”
 
-Subsec. (d)(2)(A). Pub. L. 103–465, § 431(k)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Notwithstanding any other provision of law, all poultry, or parts or products of poultry, capable of use as human food offered for importation into the United States from Canada and Mexico shall—
+Subsec. (d)(2)(A). Pub. L. 103–465, § 431(k)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Notwithstanding any other provision of law, all poultry, or parts or products of poultry, capable of use as human food offered for importation into the United States from Canada and Mexico shall—
 
 “(i) comply with paragraph (1); or
 
@@ -743,7 +743,7 @@ Subsec. (d)(2)(A). Pub. L. 103–465, § 431(k)(2)(A), amended subpar. (A) gen
 
 “(II) have been processed in facilities and under conditions that meet standards that are equivalent to United States standards.”
 
-Subsec. (d)(2)(B), (C). Pub. L. 103–465, § 431(k)(2)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary may treat as equivalent to a United States standard a standard of Canada or Mexico described in subparagraph (A)(ii) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies agreed to by the Secretary and the exporting country, to demonstrate that the standard of the exporting country achieves the level of protection that the Secretary considers appropriate.”
+Subsec. (d)(2)(B), (C). Pub. L. 103–465, § 431(k)(2)(B), (C), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary may treat as equivalent to a United States standard a standard of Canada or Mexico described in subparagraph (A)(ii) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies agreed to by the Secretary and the exporting country, to demonstrate that the standard of the exporting country achieves the level of protection that the Secretary considers appropriate.”
 
 1993—Subsec. (d). Pub. L. 103–182, in par. (1), inserted “except as provided in paragraph (2),” before “all poultry” in introductory provisions, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -757,9 +757,9 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 **Effective Date of 1985 Amendment**
 
-Pub. L. 99–198, title XVII, § 1701(b), Dec. 23, 1985, 99 Stat. 1633, provided that: “The amendment made by this section [amending this section] shall become effective 6 months after the date of enactment of this Act [Dec. 23, 1985].”
+Pub. L. 99–198, title XVII, § 1701(b), Dec. 23, 1985, 99 Stat. 1633, provided that: “The amendment made by this section [amending this section] shall become effective 6 months after the date of enactment of this Act [Dec. 23, 1985].”
 
-## § 467. Inspection services
+## § 467. Inspection services
 
 **(a) Refusal or withdrawal; hearing; business unfitness based upon certain convictions; persons responsibly connected with the business**
 
@@ -773,7 +773,7 @@ Upon the withdrawal of inspection service from any official establishment for fa
 
 The determination and order of the Secretary when made after opportunity for hearing, with respect to withdrawal or refusal of inspection service under this chapter shall be final and conclusive unless the affected applicant for, or recipient of, inspection service files application for judicial review within thirty days after the effective date of such order in the United States Court of Appeals as provided in section 457 of this title. Judicial review of any such order shall be upon the record upon which the determination and order are based. The provisions of section 194 of title 7 shall be applicable to appeals taken under this section.
 
-(Pub. L. 85–172, § 18, Aug. 28, 1957, 71 Stat. 448; Pub. L. 90–492, § 16, Aug. 18, 1968, 82 Stat. 805.)
+(Pub. L. 85–172, § 18, Aug. 28, 1957, 71 Stat. 448; Pub. L. 90–492, § 16, Aug. 18, 1968, 82 Stat. 805.)
 
 **Editorial Notes**
 
@@ -791,13 +791,13 @@ Par. (c). Pub. L. 90–492 added par. (c).
 
 Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L. 90–492, set out as a note under section 451 of this title.
 
-## § 467a. Administrative detention; duration; pending judicial proceedings; notification of government authorities; release; removal of official marks
+## § 467a. Administrative detention; duration; pending judicial proceedings; notification of government authorities; release; removal of official marks
 
 Whenever any poultry product, or any product exempted from the definition of a poultry product, or any dead, dying, disabled, or diseased poultry is found by any authorized representative of the Secretary upon any premises where it is held for purposes of, or during or after distribution in, commerce or otherwise subject to this chapter, and there is reason to believe that any such article is adulterated or misbranded and is capable of use as human food, or that it has not been inspected, in violation of the provisions of this chapter or of any other Federal law or the laws of any State or Territory, or the District of Columbia, or that it has been or is intended to be, distributed in violation of any such provisions, it may be detained by such representative for a period not to exceed twenty days, pending action under section 467b of this title or notification of any Federal, State, or other governmental authorities having jurisdiction over such article or poultry, and shall not be moved by any person, from the place at which it is located when so detained, until released by such representative. All official marks may be required by such representative to be removed from such article or poultry before it is released unless it appears to the satisfaction of the Secretary that the article or poultry is eligible to retain such marks.
 
-(Pub. L. 85–172, § 19, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 805.)
+(Pub. L. 85–172, § 19, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 805.)
 
-## § 467b. Seizure and condemnation
+## § 467b. Seizure and condemnation
 
 **(a) Proceedings in rem; libel of information; jurisdiction; disposal by destruction or sale; proceeds into the Treasury; sales restrictions; bonds; court costs and fees, storage, and other expenses against claimants; jury trial; United States as plaintiff**
 
@@ -835,7 +835,7 @@ Whenever any poultry product, or any product exempted from the definition of a p
 
 The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of this chapter, or other laws.
 
-(Pub. L. 85–172, § 20, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 806; amended Pub. L. 101–205, § 2, Dec. 7, 1989, 103 Stat. 1830.)
+(Pub. L. 85–172, § 20, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 806; amended Pub. L. 101–205, § 2, Dec. 7, 1989, 103 Stat. 1830.)
 
 **Editorial Notes**
 
@@ -843,21 +843,21 @@ The provisions of this section shall in no way derogate from authority for conde
 
 1989—Subsec. (a). Pub. L. 101–205 designated first sentence as par. (1) and redesignated cls. (1) to (3) as cls. (A) to (C), respectively, designated second sentence as par. (2) and inserted “(A) be distributed in accordance with paragraph (5), or (B)” after “entry of the decree,”, designated third and fourth sentences as pars. (3) and (4), respectively, and added par. (5).
 
-## § 467c. Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations; United States as plaintiff; subpenas
+## § 467c. Federal court jurisdiction of enforcement and injunction proceedings and other kinds of cases; limitations; United States as plaintiff; subpenas
 
 The United States district courts, the District Court of Guam, the District Court of the Virgin Islands, the highest court of American Samoa, and the United States courts of the other territories, are vested with jurisdiction specifically to enforce, and to prevent and restrain violations of, this chapter, and shall have jurisdiction in all other kinds of cases arising under this chapter, except as provided in section 457(d) or 467 of this title. All proceedings for the enforcement or to restrain violations of this chapter shall be by and in the name of the United States. Subpenas for witnesses who are required to attend a court of the United States, in any district, may run into any other district in any such proceeding.
 
-(Pub. L. 85–172, § 21, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 806.)
+(Pub. L. 85–172, § 21, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 806.)
 
-## § 467d. Administration and enforcement; applicability of penalty provisions; conduct of inquiries; power and jurisdiction of courts
+## § 467d. Administration and enforcement; applicability of penalty provisions; conduct of inquiries; power and jurisdiction of courts
 
-For the efficient administration and enforcement of this chapter, the provision (including penalties) of sections 46, 48, 49 and 50 of title 15 (except paragraphs (c) through (h) of section 46 and the last paragraph of section 49 1
+For the efficient administration and enforcement of this chapter, the provision (including penalties) of sections 46, 48, 49 and 50 of title 15 (except paragraphs (c) through (h) of section 46 and the last paragraph of section 49 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
-of title 15), and the provisions of section 409(*l*) 1 of title 47, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person with respect to whom such authority is exercised. The Secretary, in person or by such agents as he may designate, may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, and the powers conferred by said sections 49 and 50 of title 15 on the district courts of the United States may be exercised for the purposes of this chapter by any court designated in section 467c of this title.
+of title 15), and the provisions of section 409(*l*) 1 of title 47, are made applicable to the jurisdiction, powers, and duties of the Secretary in administering and enforcing the provisions of this chapter and to any person with respect to whom such authority is exercised. The Secretary, in person or by such agents as he may designate, may prosecute any inquiry necessary to his duties under this chapter in any part of the United States, and the powers conferred by said sections 49 and 50 of title 15 on the district courts of the United States may be exercised for the purposes of this chapter by any court designated in section 467c of this title.
 
-(Pub. L. 85–172, § 22, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 807.)
+(Pub. L. 85–172, § 22, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 807.)
 
 **Editorial Notes**
 
@@ -865,13 +865,13 @@ of title 15), and the provisions of section 409(*l*) 1 of title 47, are made a
 
 The last paragraph of section 49 of title 15, and the provisions of section 409(*l*) of title 47, referred to in text, which related to immunity of witnesses, were repealed by sections 211 and 242, respectively, of Pub. L. 91–452, Oct. 15, 1970, title II, 84 Stat. 929, 930. For provisions relating to immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
-## § 467e. Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with inspection services and as to marking, labeling, packaging, and ingredients; recordkeeping and related requirements; concurrent jurisdiction over distribution for human food purposes of adulterated or misbranded and imported articles; other matters
+## § 467e. Non-Federal jurisdiction of federally regulated matters; prohibition of additional or different requirements for establishments with inspection services and as to marking, labeling, packaging, and ingredients; recordkeeping and related requirements; concurrent jurisdiction over distribution for human food purposes of adulterated or misbranded and imported articles; other matters
 
 Requirements within the scope of this chapter with respect to premises, facilities and operations of any official establishment which are in addition to, or different than those made under this chapter may not be imposed by any State or Territory or the District of Columbia, except that any such jurisdiction may impose recordkeeping and other requirements within the scope of paragraph (b) of section 460 of this title, if consistent therewith, with respect to any such establishment. Marking, labeling, packaging, or ingredient requirements (or storage or handling requirements found by the Secretary to unduly interfere with the free flow of poultry products in commerce) in addition to, or different than, those made under this chapter may not be imposed by any State or Territory or the District of Columbia with respect to articles prepared at any official establishment in accordance with the requirements under this chapter, but any State or Territory or the District of Columbia may, consistent with the requirements under this chapter exercise concurrent jurisdiction with the Secretary over articles required to be inspected under this chapter for the purpose of preventing the distribution for human food purposes of any such articles which are adulterated or misbranded and are outside of such an establishment, or, in the case of imported articles which are not at such an establishment, after their entry into the United States. This chapter shall not preclude any State or Territory or the District of Columbia from making requirement or taking other action, consistent with this chapter, with respect to any other matters regulated under this chapter.
 
-(Pub. L. 85–172, § 23, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 807.)
+(Pub. L. 85–172, § 23, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 807.)
 
-## § 467f. Federal Food, Drug, and Cosmetic Act applications
+## § 467f. Federal Food, Drug, and Cosmetic Act applications
 
 **(a) Exemptions; authorities under food, drug, and cosmetic provisions unaffected**
 
@@ -881,13 +881,13 @@ Poultry and poultry products shall be exempt from the provisions of the Federal 
 
 The detainer authority conferred by section 467a of this title shall apply to any authorized representative of the Secretary of Health and Human Services for purposes of the enforcement of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] with respect to any poultry carcass, or part or product thereof, that is outside any official establishment, and for such purposes the first reference to the Secretary in section 467a of this title shall be deemed to refer to the Secretary of Health and Human Services.
 
-(Pub. L. 85–172, § 24, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 807; amended Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 85–172, § 24, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 807; amended Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -895,15 +895,15 @@ The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
-## § 468. Cost of inspection; overtime
+## § 468. Cost of inspection; overtime
 
-The cost of inspection rendered under the requirements of this chapter, shall be borne by the United States, except the cost of overtime and holiday pay paid pursuant to the 1
+The cost of inspection rendered under the requirements of this chapter, shall be borne by the United States, except the cost of overtime and holiday pay paid pursuant to the 1
 
-<sup>1</sup>  So in original. The word “the” probably should not appear.
+<sup>1</sup> So in original. The word “the” probably should not appear.
 
 section 2219a of title 7.
 
-(Pub. L. 85–172, § 25, formerly § 19, Aug. 28, 1957, 71 Stat. 448, renumbered Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 805; Pub. L. 107–171, title X, § 10703(c)(1), May 13, 2002, 116 Stat. 517.)
+(Pub. L. 85–172, § 25, formerly § 19, Aug. 28, 1957, 71 Stat. 448, renumbered Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 805; Pub. L. 107–171, title X, § 10703(c)(1), May 13, 2002, 116 Stat. 517.)
 
 **Editorial Notes**
 
@@ -915,21 +915,21 @@ Section 2219a of title 7, referred to in text, was in the original “section 10
 
 2002—Pub. L. 107–171 substituted “except the cost of overtime and holiday pay paid pursuant to the section 2219a of title 7.” for “except that the cost of overtime and holiday work performed in establishments subject to the provisions of this chapter at such rates as the Secretary may determine shall be borne by such establishments. Sums received by the Secretary in reimbursement for sums paid out by him for such premium pay work shall be available without fiscal year limitation to carry out the purposes of this section.”
 
-## § 469. Authorization of appropriations
+## § 469. Authorization of appropriations
 
 There is authorized to be appropriated such sums as are necessary to carry out the provisions of this chapter.
 
-(Pub. L. 85–172, § 26, formerly § 20, Aug. 28, 1957, 71 Stat. 449, renumbered Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 805.)
+(Pub. L. 85–172, § 26, formerly § 20, Aug. 28, 1957, 71 Stat. 449, renumbered Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 805.)
 
-## § 470. Omitted
+## § 470. Omitted
 
 **Editorial Notes**
 
 **Codification**
 
-Section, Pub. L. 85–172, § 27, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 807; amended Pub. L. 103–437, § 8(1), Nov. 2, 1994, 108 Stat. 4588, which required the Secretary of Agriculture to report annually to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the slaughter of poultry and the processing and distribution of poultry parts and products, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
+Section, Pub. L. 85–172, § 27, as added Pub. L. 90–492, § 17, Aug. 18, 1968, 82 Stat. 807; amended Pub. L. 103–437, § 8(1), Nov. 2, 1994, 108 Stat. 4588, which required the Secretary of Agriculture to report annually to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the slaughter of poultry and the processing and distribution of poultry parts and products, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 46 of House Document No. 103–7.
 
-## § 471. Safe Meat and Poultry Inspection Panel
+## § 471. Safe Meat and Poultry Inspection Panel
 
 **(a) Review and evaluation** The advisory panel known as the “Safe Meat and Poultry Inspection Panel” established by section 679a of this title shall review and evaluate, as the panel considers necessary, the adequacy, necessity, safety, cost-effectiveness, and scientific merit of—
 
@@ -951,15 +951,15 @@ The Safe Meat and Poultry Inspection Panel shall submit to the Secretary a repor
 
 In the case of a report concerning a formal change in poultry inspection regulations, the report shall be made within the time limits prescribed for formal comments on such changes.
 
-(Pub. L. 85–172, § 30, as added Pub. L. 104–127, title IX, § 918(a)(2), Apr. 4, 1996, 110 Stat. 1190.)
+(Pub. L. 85–172, § 30, as added Pub. L. 104–127, title IX, § 918(a)(2), Apr. 4, 1996, 110 Stat. 1190.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Use of Appropriated Funds**
 
-Pub. L. 113–235, div. A, title VII, § 741, Dec. 16, 2014, 128 Stat. 2170, provided that: “Hereafter, none of the funds appropriated by this or any other Act may be used to carry out section 410 of the Federal Meat Inspection Act (21 U.S.C. 679a) or section 30 of the Poultry Products Inspection Act (21 U.S.C. 471).”
+Pub. L. 113–235, div. A, title VII, § 741, Dec. 16, 2014, 128 Stat. 2170, provided that: “Hereafter, none of the funds appropriated by this or any other Act may be used to carry out section 410 of the Federal Meat Inspection Act (21 U.S.C. 679a) or section 30 of the Poultry Products Inspection Act (21 U.S.C. 471).”
 
-## § 472. Interstate shipment of poultry inspected by Federal and State agencies for certain small establishments
+## § 472. Interstate shipment of poultry inspected by Federal and State agencies for certain small establishments
 
 **(a) Definitions**
 
@@ -1107,7 +1107,7 @@ This section takes effect on the date on which the Secretary, after providing a 
 
 Not later than 18 months after the date of the enactment of this section, the Secretary shall promulgate final regulations in accordance with paragraph (1).
 
-(Pub. L. 85–172, § 31, as added Pub. L. 110–234, title XI, § 11015(b), May 22, 2008, 122 Stat. 1365, and Pub. L. 110–246, § 4(a), title XI, § 11015(b), June 18, 2008, 122 Stat. 1664, 2127.)
+(Pub. L. 85–172, § 31, as added Pub. L. 110–234, title XI, § 11015(b), May 22, 2008, 122 Stat. 1365, and Pub. L. 110–246, § 4(a), title XI, § 11015(b), June 18, 2008, 122 Stat. 1664, 2127.)
 
 **Editorial Notes**
 
@@ -1127,7 +1127,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-## § 473. Grants for improvements to meat and poultry facilities to allow for interstate shipment
+## § 473. Grants for improvements to meat and poultry facilities to allow for interstate shipment
 
 **(a) In general** The Secretary shall make grants to meat and poultry slaughter and processing facilities described in subsection (b) (including such facilities operating under State inspection or such facilities that are exempt from Federal inspection) to assist such facilities with respect to costs incurred in making improvements to such facilities and carrying out other planning activities necessary—
 
@@ -1205,13 +1205,13 @@ Beginning not later than 1 year after December 27, 2020, the Secretary shall sub
 
 Of the funds of the Treasury not otherwise appropriated, there is appropriated to carry out this section $60,000,000 for the period of fiscal years 2021 through 2023, to remain available until expended.
 
-(Pub. L. 116–260, div. N, title VII, § 764, Dec. 27, 2020, 134 Stat. 2115; Pub. L. 117–103, div. A, title VII, § 776, Mar. 15, 2022, 136 Stat. 99.)
+(Pub. L. 116–260, div. N, title VII, § 764, Dec. 27, 2020, 134 Stat. 2115; Pub. L. 117–103, div. A, title VII, § 776, Mar. 15, 2022, 136 Stat. 99.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Federal Meat Inspection Act, referred to in subsecs. (a)(1), (2)(A), and (d)(2)(A)(i), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
+The Federal Meat Inspection Act, referred to in subsecs. (a)(1), (2)(A), and (d)(2)(A)(i), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, § 11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§ 601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 The Poultry Products Inspection Act, referred to in subsecs. (a)(1), (2)(B), and (d)(2)(A)(i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 

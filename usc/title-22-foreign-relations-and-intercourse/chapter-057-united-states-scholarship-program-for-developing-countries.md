@@ -15,13 +15,13 @@ retrieved: 2026-10-11
 
 # CHAPTER 57—UNITED STATES SCHOLARSHIP PROGRAM FOR DEVELOPING COUNTRIES
 
-## § 4701. Statement of purpose
+## § 4701. Statement of purpose
 
 The purpose of this chapter is to establish an undergraduate scholarship program designed to bring students of limited financial means from developing countries to the United States for study at United States institutions of higher education.
 
-(Pub. L. 99–93, title VI, § 601, Aug. 16, 1985, 99 Stat. 439.)
+(Pub. L. 99–93, title VI, § 601, Aug. 16, 1985, 99 Stat. 439.)
 
-## § 4702. Congressional findings and declaration of policy
+## § 4702. Congressional findings and declaration of policy
 
 The Congress finds and declares that—
 
@@ -41,7 +41,7 @@ The Congress finds and declares that—
 
 **(8)** it is also in the interest of the United States, as well as peaceful cooperation in the Western Hemisphere, that particular attention be given to the students of the Caribbean region.
 
-(Pub. L. 99–93, title VI, § 602, Aug. 16, 1985, 99 Stat. 439; Pub. L. 103–199, title III, § 305, Dec. 17, 1993, 107 Stat. 2324.)
+(Pub. L. 99–93, title VI, § 602, Aug. 16, 1985, 99 Stat. 439; Pub. L. 103–199, title III, § 305, Dec. 17, 1993, 107 Stat. 2324.)
 
 **Editorial Notes**
 
@@ -53,7 +53,7 @@ The Congress finds and declares that—
 
 “(7) from 1972 through 1982 the Soviet Union and Eastern European governments collectively increased their education exchange programs to Latin America and the Caribbean by 205 percent while those of the United States declined by 52 percent;”.
 
-## § 4703. Scholarship program authority
+## § 4703. Scholarship program authority
 
 **(a) In general**
 
@@ -71,7 +71,7 @@ Before allocating any of the funds made available to carry out this chapter, the
 
 For purposes of this chapter, the term “institution of higher education” has the same meaning as given to such term by section 1001 of title 20.
 
-(Pub. L. 99–93, title VI, § 603, Aug. 16, 1985, 99 Stat. 440; Pub. L. 105–244, title I, § 102(a)(7)(D), Oct. 7, 1998, 112 Stat. 1619.)
+(Pub. L. 99–93, title VI, § 603, Aug. 16, 1985, 99 Stat. 440; Pub. L. 105–244, title I, § 102(a)(7)(D), Oct. 7, 1998, 112 Stat. 1619.)
 
 **Editorial Notes**
 
@@ -89,13 +89,13 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-## § 4704. Guidelines
+## § 4704. Guidelines
 
 The scholarship program under this chapter shall be carried out in accordance with the following guidelines:
 
-**(1)** Consistent with section 2460(b) 1
+**(1)** Consistent with section 2460(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title, all programs created pursuant to this chapter shall be nonpolitical and balanced, and shall be administered in keeping with the highest standards of academic integrity.
 
@@ -119,13 +119,13 @@ of this title, all programs created pursuant to this chapter shall be nonpolitic
 
 **(11)** The United States Information Agency shall recommend to each student, who receives a scholarship under this chapter for study at a college or university, that the student enroll in a course on the classics of American political thought or which otherwise emphasizes the ideas, principles, and documents upon which the United States was founded.
 
-(Pub. L. 99–93, title VI, § 604, Aug. 16, 1985, 99 Stat. 440.)
+(Pub. L. 99–93, title VI, § 604, Aug. 16, 1985, 99 Stat. 440.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 2460(b) of this title, referred to in par. (1), was redesignated section 2460(c) of this title by Pub. L. 101–246, title II, § 204(a)(2)(A), Feb. 16, 1990, 104 Stat. 50.
+Section 2460(b) of this title, referred to in par. (1), was redesignated section 2460(c) of this title by Pub. L. 101–246, title II, § 204(a)(2)(A), Feb. 16, 1990, 104 Stat. 50.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -133,13 +133,13 @@ Section 2460(b) of this title, referred to in par. (1), was redesignated section
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-## § 4705. Authority to enter into agreements
+## § 4705. Authority to enter into agreements
 
 The President may enter into agreements with foreign governments in furtherance of the purposes of this chapter. Such agreements may provide for the creation or continuation of binational or multinational educational and cultural foundations and commissions for the purposes of administering programs under this chapter.
 
-(Pub. L. 99–93, title VI, § 605, Aug. 16, 1985, 99 Stat. 441.)
+(Pub. L. 99–93, title VI, § 605, Aug. 16, 1985, 99 Stat. 441.)
 
-## § 4706. Policy regarding other international educational programs
+## § 4706. Policy regarding other international educational programs
 
 **(a) AID-funded programs**
 
@@ -153,13 +153,13 @@ The Congress urges the Director of the United States Information Agency to expan
 
 The Congress urges the President to take such steps as are necessary to expand the opportunities for Americans from all economic classes to study in developing countries.
 
-(Pub. L. 99–93, title VI, § 606, Aug. 16, 1985, 99 Stat. 442.)
+(Pub. L. 99–93, title VI, § 606, Aug. 16, 1985, 99 Stat. 442.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -167,7 +167,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-## § 4707. Establishment and maintenance of counseling services
+## § 4707. Establishment and maintenance of counseling services
 
 **(a) Counseling services abroad**
 
@@ -177,13 +177,13 @@ For the purpose of assisting foreign students in choosing fields of study, selec
 
 For the purposes of assisting foreign students in making the best use of their opportunities while attending United States institutions of higher education, and assisting such students in directing their talents and initiative into channels which will make them more effective leaders upon return to their native lands, the President may make suitable arrangements (by contract or otherwise) for the establishment and maintenance of adequate counseling services at United States institutions of higher education which are attended by foreign students.
 
-(Pub. L. 99–93, title VI, § 607, Aug. 16, 1985, 99 Stat. 442.)
+(Pub. L. 99–93, title VI, § 607, Aug. 16, 1985, 99 Stat. 442.)
 
-## § 4708. J. William Fulbright Foreign Scholarship Board
+## § 4708. J. William Fulbright Foreign Scholarship Board
 
 The J. William Fulbright Foreign Scholarship Board shall advise and assist the President in the discharge of the scholarship program carried out pursuant to this chapter, in accordance with the guidelines set forth in section 4704 of this title. The President may provide for such additional secretarial and staff assistance for the Board as may be required to carry out this chapter.
 
-(Pub. L. 99–93, title VI, § 608, Aug. 16, 1985, 99 Stat. 442; Pub. L. 101–246, title II, § 204(c), Feb. 16, 1990, 104 Stat. 50.)
+(Pub. L. 99–93, title VI, § 608, Aug. 16, 1985, 99 Stat. 442; Pub. L. 101–246, title II, § 204(c), Feb. 16, 1990, 104 Stat. 50.)
 
 **Editorial Notes**
 
@@ -191,7 +191,7 @@ The J. William Fulbright Foreign Scholarship Board shall advise and assist the P
 
 1990—Pub. L. 101–246 substituted “J. William Fulbright Foreign Scholarship Board” for “Board of Foreign Scholarships” in section catchline and in text.
 
-## § 4709. General authorities
+## § 4709. General authorities
 
 **(a) Public and private sector contributions**
 
@@ -213,13 +213,13 @@ The President shall encourage United States institutions of higher education, wh
 
 Funds allocated by the United States Information Agency, or the agency primarily responsible for carrying out part I of the Foreign Assistance Act of 1961 [22 U.S.C. 2151 et seq.], for scholarships in accordance with this chapter shall be available to enhance the educational training and capabilities of the people of Latin America and the Caribbean and to promote better understanding between the United States and Latin America and the Caribbean through programs of cooperation, study, training, and research. Such funds may be used for program and administrative costs for institutions carrying out such programs.
 
-(Pub. L. 99–93, title VI, § 609, Aug. 16, 1985, 99 Stat. 442.)
+(Pub. L. 99–93, title VI, § 609, Aug. 16, 1985, 99 Stat. 442.)
 
 **Editorial Notes**
 
 **References in Text**
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -227,17 +227,17 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-## § 4710. English teaching, textbooks, and other teaching materials
+## § 4710. English teaching, textbooks, and other teaching materials
 
 Wherever adequate facilities or materials are not available to carry out the purposes of paragraph (4) of section 4704 of this title in the participant’s country and the President determines that the purposes of this chapter are best served by providing the preliminary training in the participant’s country, the President may (by purchase, contract, or other appropriate means) provide the necessary materials and instructors to achieve such purpose.
 
-(Pub. L. 99–93, title VI, § 610, Aug. 16, 1985, 99 Stat. 443.)
+(Pub. L. 99–93, title VI, § 610, Aug. 16, 1985, 99 Stat. 443.)
 
-## § 4711. Repealed. Pub. L. 103–236, title I, § 139(13), Apr. 30, 1994, 108 Stat. 398
+## § 4711. Repealed. Pub. L. 103–236, title I, § 139(13), Apr. 30, 1994, 108 Stat. 398
 
-Section, Pub. L. 99–93, title VI, § 611, Aug. 16, 1985, 99 Stat. 443, required annual report to Congress on activities and expenditures pursuant to this chapter.
+Section, Pub. L. 99–93, title VI, § 611, Aug. 16, 1985, 99 Stat. 443, required annual report to Congress on activities and expenditures pursuant to this chapter.
 
-## § 4712. Funding of scholarships for fiscal year 1986 and fiscal year 1987
+## § 4712. Funding of scholarships for fiscal year 1986 and fiscal year 1987
 
 **(a) Central American undergraduate scholarship program**
 
@@ -245,13 +245,13 @@ The undergraduate scholarship program financed by the United States Information 
 
 **(b) Scholarships for students from other developing countries**
 
-Any funds appropriated to the United States Information Agency for fiscal year 1986 or fiscal year 1987 for any purpose (other than funds appropriated for educational exchange programs under section 2452(a)(1) of this title 1
+Any funds appropriated to the United States Information Agency for fiscal year 1986 or fiscal year 1987 for any purpose (other than funds appropriated for educational exchange programs under section 2452(a)(1) of this title 1
 
-<sup>1</sup>  So in original. Probably should be followed by a closing parenthesis.
+<sup>1</sup> So in original. Probably should be followed by a closing parenthesis.
 
 may be used to carry out this chapter with respect to students from developing countries outside Central America.
 
-(Pub. L. 99–93, title VI, § 612, Aug. 16, 1985, 99 Stat. 443.)
+(Pub. L. 99–93, title VI, § 612, Aug. 16, 1985, 99 Stat. 443.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -259,21 +259,21 @@ may be used to carry out this chapter with respect to students from developing c
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-## § 4713. Latin American exchanges
+## § 4713. Latin American exchanges
 
 Of any funds authorized to be appropriated for activities authorized by this chapter, not less than 25 percent shall be allocated to fund grants and exchanges to Latin America and the Caribbean.
 
-(Pub. L. 99–93, title VI, § 613, Aug. 16, 1985, 99 Stat. 444.)
+(Pub. L. 99–93, title VI, § 613, Aug. 16, 1985, 99 Stat. 444.)
 
-## § 4714. Feasibility study of training programs in sizable Hispanic populations
+## § 4714. Feasibility study of training programs in sizable Hispanic populations
 
-No later than December 15, 1985, the Director of the United States Information Agency and the Administrator of the Agency for International Development shall report jointly, to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Foreign Affairs of the House of Representatives, on the feasibility of greater utilization in those two agencies’ scholarship and participant training programs of the United States universities in States bordering Latin American and Caribbean 1
+No later than December 15, 1985, the Director of the United States Information Agency and the Administrator of the Agency for International Development shall report jointly, to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Foreign Affairs of the House of Representatives, on the feasibility of greater utilization in those two agencies’ scholarship and participant training programs of the United States universities in States bordering Latin American and Caribbean 1
 
-<sup>1</sup>  So in original. Probably should be “Latin America and the Caribbean”.
+<sup>1</sup> So in original. Probably should be “Latin America and the Caribbean”.
 
 which are located in areas characterized by the presence of sizable Hispanic populations.
 
-(Pub. L. 99–93, title VI, § 614, Aug. 16, 1985, 99 Stat. 444.)
+(Pub. L. 99–93, title VI, § 614, Aug. 16, 1985, 99 Stat. 444.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -281,7 +281,7 @@ which are located in areas characterized by the presence of sizable Hispanic pop
 
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
-## § 4715. Compliance with Congressional Budget Act
+## § 4715. Compliance with Congressional Budget Act
 
 Any authority provided by this chapter to enter into contracts shall be effective only—
 
@@ -289,7 +289,7 @@ Any authority provided by this chapter to enter into contracts shall be effectiv
 
 **(2)** to the extent or in such amounts as are provided in advance in appropriation Acts.
 
-(Pub. L. 99–93, title VI, § 615, Aug. 16, 1985, 99 Stat. 444.)
+(Pub. L. 99–93, title VI, § 615, Aug. 16, 1985, 99 Stat. 444.)
 
 **Editorial Notes**
 

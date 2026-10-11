@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 1413—ALTERNATIVE PROMOTION AUTHORITY FOR OFFICERS IN DESIGNATED COMPETITIVE CATEGORIES
 
-## § 15101. Officers in designated competitive categories
+## § 15101. Officers in designated competitive categories
 
 **(a) Authority to Designate Competitive Categories of Officers.—** Each Secretary of a military department may designate one or more competitive categories for promotion of officers under section 14005 of this title that are under the jurisdiction of such Secretary as a competitive category of officers whose promotion, retirement, and continuation on the reserve active-status list shall be subject to the provisions of this chapter.
 
@@ -29,9 +29,9 @@ retrieved: 2026-10-11
 
 **(4)** A description of any other matters the Secretary considered in determining to designate the competitive category for purposes of this chapter.
 
-(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 245.)
+(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 245.)
 
-## § 15102. Selection for promotion
+## § 15102. Selection for promotion
 
 **(a) In General.—** Except as provided in this section, the selection for promotion of officers in any competitive category of officers designated for purposes of this chapter shall be governed by the provisions under chapter 1403 of this title.
 
@@ -39,9 +39,9 @@ retrieved: 2026-10-11
 
 **(c) Recommendation for Officers to Be Excluded From Future Consideration for Promotion.—** In making recommendations pursuant to chapter 1403 of this title for purposes of the administration of this chapter, a selection board convened under section 14101(a) of this title may recommend that an officer considered by the board be excluded from future consideration for promotion under this chapter.
 
-(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 246.)
+(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 246.)
 
-## § 15103. Eligibility for consideration for promotion
+## § 15103. Eligibility for consideration for promotion
 
 **(a) In General.—** Except as provided by this section, eligibility for promotion of officers in any competitive category of officers designated for purposes of this chapter shall be governed by the provisions of sections 14301, 14303, and 14304 of this title.
 
@@ -63,9 +63,9 @@ retrieved: 2026-10-11
 
 **(4)** An officer recommended by a selection board to be removed from consideration for promotion in accordance with section 15102(c) of this title.
 
-(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 246.)
+(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 246.)
 
-## § 15104. Opportunities for consideration for promotion
+## § 15104. Opportunities for consideration for promotion
 
 **(a) Specification of Number of Opportunities for Consideration for Promotion.—** In designating a competitive category of officers pursuant to section 15101 of this title, the Secretary of a military department shall specify the number of opportunities for consideration for promotion to be afforded officers of the armed force concerned within the category for promotion to each grade above the grade of first lieutenant or lieutenant (junior grade), as applicable.
 
@@ -77,15 +77,15 @@ retrieved: 2026-10-11
 
 **(e) Effect of Certain Reduction in Number of Opportunities Specified.—** If, by reason of a reduction in the number of opportunities for consideration for promotion under this section, an officer would no longer have one or more opportunities for consideration for promotion that were available to the officer before the reduction, the officer shall be afforded one additional opportunity for consideration for promotion after the reduction.
 
-(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 246.)
+(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 246.)
 
-## § 15105. Promotions
+## § 15105. Promotions
 
 Sections 14307 through 14317 of this title shall apply in promotions of officers in competitive categories of officers designated for purposes of this chapter.
 
-(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 247.)
+(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 247.)
 
-## § 15106. Failure of selection for promotion
+## § 15106. Failure of selection for promotion
 
 **(a) In General.—** Except as provided in this section, sections 14501 through 14513 of this title shall apply to promotions of officers in competitive categories of officers designated for purposes of this chapter.
 
@@ -95,15 +95,15 @@ Sections 14307 through 14317 of this title shall apply in promotions of officers
 
 **(d) Effect of Failure of Selection.—** In the administration of this chapter pursuant to subsection (a)—
 
-**(1)** an officer described in subsection (a) shall not be deemed to have failed twice of selection for promotion for purposes of section 14502(b) 1
+**(1)** an officer described in subsection (a) shall not be deemed to have failed twice of selection for promotion for purposes of section 14502(b) 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 of this title until the officer has failed selection of promotion to the next higher grade the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned pursuant to section 15104 of this title; and
 
 **(2)** any reference in sections 14504 through 14506 of this title to an officer who has failed of selection for promotion to the next higher grade for the second time shall be deemed to refer instead to an officer described in subsection (a) who has failed of selection for promotion to the next higher grade for the maximum number of times specified for opportunities for promotion to such grade within the competitive category concerned pursuant to such section 15104.
 
-(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 247.)
+(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 247.)
 
 **Editorial Notes**
 
@@ -111,21 +111,21 @@ of this title until the officer has failed selection of promotion to the next hi
 
 Section 14502(b) of this title, referred to in subsec. (d)(1), probably should be section 14501(b) of this title, which relates to officers twice failed of selection. Section 14502(b) of this title relates to officers considered but not selected due to material error.
 
-## § 15107. Retirement: retirement for years of service; selective early retirement
+## § 15107. Retirement: retirement for years of service; selective early retirement
 
 **(a) Retirement for Years of Service.—** Sections 14507 through 14515 of this title shall apply to the retirement of officers in competitive categories of officers designated for purposes of this chapter.
 
 **(b) Selective Early Retirement.—** Section 14101(b) of this title shall apply to the retirement of officers described in subsection (a).
 
-(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 248.)
+(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 248.)
 
-## § 15108. Continuation on the Reserve Active-Status List
+## § 15108. Continuation on the Reserve Active-Status List
 
 Sections 14701 through 14703 of this title shall apply in continuation or retention on a reserve active-status list of officers designated for purposes of this chapter.
 
-(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 248.)
+(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 248.)
 
-## § 15109. Other administrative authorities
+## § 15109. Other administrative authorities
 
 The following provisions of this title shall apply to officers in competitive categories of officers designated for purposes of this chapter:
 
@@ -137,7 +137,7 @@ The following provisions of this title shall apply to officers in competitive ca
 
 **(4)** Section 14705, relating to the selective early retirement of reserve general and flag officers of the Navy and Marine Corps.
 
-(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 248; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(46), Dec. 23, 2024, 138 Stat. 2206.)
+(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 248; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(46), Dec. 23, 2024, 138 Stat. 2206.)
 
 **Editorial Notes**
 
@@ -145,11 +145,11 @@ The following provisions of this title shall apply to officers in competitive ca
 
 2024—Pub. L. 118–159, which directed striking out “(a) In general.—”, was executed by striking out “(a) In General.—” before “The following provisions” in introductory provisions, to reflect the probable intent of Congress.
 
-## § 15110. Regulations
+## § 15110. Regulations
 
 The Secretary of Defense shall prescribe regulations regarding the administration of this chapter. The elements of such regulations shall include mechanisms to clarify the manner in which provisions of other chapters of this part of this subtitle shall be used in the administration of this chapter in accordance with the provisions of this chapter.
 
-(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 248; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(47), Dec. 23, 2024, 138 Stat. 2206.)
+(Added Pub. L. 118–31, div. A, title V, § 514(a), Dec. 22, 2023, 137 Stat. 248; amended Pub. L. 118–159, div. A, title XVII, § 1701(a)(47), Dec. 23, 2024, 138 Stat. 2206.)
 
 **Editorial Notes**
 

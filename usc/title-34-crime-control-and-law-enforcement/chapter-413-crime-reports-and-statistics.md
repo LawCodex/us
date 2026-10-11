@@ -15,11 +15,11 @@ retrieved: 2026-10-11
 
 # CHAPTER 413—CRIME REPORTS AND STATISTICS
 
-## § 41301. Report to Congress on sexual exploitation of children
+## § 41301. Report to Congress on sexual exploitation of children
 
 Beginning one hundred and twenty days after May 21, 1984, and every year thereafter, the Attorney General shall report to the Congress on prosecutions, convictions, and forfeitures under chapter 110 of title 18.
 
-(Pub. L. 98–292, § 9, May 21, 1984, 98 Stat. 206.)
+(Pub. L. 98–292, § 9, May 21, 1984, 98 Stat. 206.)
 
 **Editorial Notes**
 
@@ -27,7 +27,7 @@ Beginning one hundred and twenty days after May 21, 1984, and every year thereaf
 
 Section was formerly classified as a note under section 522 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 41302. Acquisition of statistical data on child abuse
+## § 41302. Acquisition of statistical data on child abuse
 
 **(a) Data acquisition for 1987 and 1988**
 
@@ -43,7 +43,7 @@ The Attorney General shall acquire from criminal justice agencies statistical da
 
 **(B)** such ending date as may be set by the Attorney General.
 
-(Pub. L. 99–401, title I, § 105, Aug. 27, 1986, 100 Stat. 906.)
+(Pub. L. 99–401, title I, § 105, Aug. 27, 1986, 100 Stat. 906.)
 
 **Editorial Notes**
 
@@ -51,7 +51,7 @@ The Attorney General shall acquire from criminal justice agencies statistical da
 
 Section was formerly classified as a note under section 5101 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-## § 41303. Uniform Federal Crime Reporting Act of 1988
+## § 41303. Uniform Federal Crime Reporting Act of 1988
 
 **(a) Short title**
 
@@ -105,7 +105,7 @@ There are authorized to be appropriated $350,000 for fiscal year 1989 and such s
 
 The provisions of this section shall be effective on January 1, 1989.
 
-(Pub. L. 100–690, title VII, § 7332, Nov. 18, 1988, 102 Stat. 4468; Pub. L. 115–393, title IV, § 402, Dec. 21, 2018, 132 Stat. 5274.)
+(Pub. L. 100–690, title VII, § 7332, Nov. 18, 1988, 102 Stat. 4468; Pub. L. 115–393, title IV, § 402, Dec. 21, 2018, 132 Stat. 5274.)
 
 **Editorial Notes**
 
@@ -115,11 +115,11 @@ Section was formerly classified as a note under section 534 of Title 28, Judicia
 
 **Amendments**
 
-2018—Subsec. (c)(3). Pub. L. 115–393, § 402(1), substituted “not less frequently than annually” for “in the form of annual Uniform Crime Reports for the United States”.
+2018—Subsec. (c)(3). Pub. L. 115–393, § 402(1), substituted “not less frequently than annually” for “in the form of annual Uniform Crime Reports for the United States”.
 
-Subsec. (c)(4), (5). Pub. L. 115–393, § 402(2), added pars. (4) and (5).
+Subsec. (c)(4), (5). Pub. L. 115–393, § 402(2), added pars. (4) and (5).
 
-## § 41304. Family and domestic violence: data collection and reporting
+## § 41304. Family and domestic violence: data collection and reporting
 
 **(a) Family violence reporting** Under the authority of section 534 of title 28, the Attorney General shall require, and include in uniform crime reports, data that indicate—
 
@@ -135,7 +135,7 @@ The Director of the Bureau of Justice Statistics, through the annual National Cr
 
 There are authorized to be appropriated in fiscal years 1989, 1990, 1991, and 1992, such sums as are necessary to carry out the purposes of this section.
 
-(Pub. L. 100–690, title VII, § 7609, Nov. 18, 1988, 102 Stat. 4517.)
+(Pub. L. 100–690, title VII, § 7609, Nov. 18, 1988, 102 Stat. 4517.)
 
 **Editorial Notes**
 
@@ -143,7 +143,7 @@ There are authorized to be appropriated in fiscal years 1989, 1990, 1991, and 19
 
 Section was formerly classified as a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 41305. Hate crime statistics
+## § 41305. Hate crime statistics
 
 **(a)** This Act may be cited as the “Hate Crime Statistics Act”.
 
@@ -161,7 +161,7 @@ Section was formerly classified as a note under section 534 of Title 28, Judicia
 
 **(c)** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section through fiscal year 2002.
 
-(Pub. L. 101–275, § 1, Apr. 23, 1990, 104 Stat. 140; Pub. L. 103–322, title XXXII, § 320926, Sept. 13, 1994, 108 Stat. 2131; Pub. L. 104–155, § 7, July 3, 1996, 110 Stat. 1394; Pub. L. 111–84, div. E, § 4708, Oct. 28, 2009, 123 Stat. 2841.)
+(Pub. L. 101–275, § 1, Apr. 23, 1990, 104 Stat. 140; Pub. L. 103–322, title XXXII, § 320926, Sept. 13, 1994, 108 Stat. 2131; Pub. L. 104–155, § 7, July 3, 1996, 110 Stat. 1394; Pub. L. 111–84, div. E, § 4708, Oct. 28, 2009, 123 Stat. 2841.)
 
 **Editorial Notes**
 
@@ -169,7 +169,7 @@ Section was formerly classified as a note under section 534 of Title 28, Judicia
 
 This Act, referred to in subsec. (a), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which enacted this section and provisions set out as a note under this section.
 
-The Administrative Procedure Act, referred to in subsec. (b)(3), is act June 11, 1946, ch. 324, 60 Stat. 237, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§ 551 et seq.) of chapter 5, and chapter 7 (§ 701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. See Short Title note preceding section 551 of Title 5.
+The Administrative Procedure Act, referred to in subsec. (b)(3), is act June 11, 1946, ch. 324, 60 Stat. 237, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§ 551 et seq.) of chapter 5, and chapter 7 (§ 701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. See Short Title note preceding section 551 of Title 5.
 
 The All Writs Act, referred to in subsec. (b)(3), means section 1651 of Title 28, Judiciary and Judicial Procedure, which is popularly known as the “All Writs Act”.
 
@@ -179,13 +179,13 @@ Section was formerly classified in a note under section 534 of Title 28, Judicia
 
 **Amendments**
 
-2009—Subsec. (b)(1). Pub. L. 111–84, § 4708(a), inserted “gender and gender identity,” after “race,”.
+2009—Subsec. (b)(1). Pub. L. 111–84, § 4708(a), inserted “gender and gender identity,” after “race,”.
 
-Subsec. (b)(5). Pub. L. 111–84, § 4708(b), inserted “, including data about crimes committed by, and crimes directed against, juveniles” after “data acquired under this section”.
+Subsec. (b)(5). Pub. L. 111–84, § 4708(b), inserted “, including data about crimes committed by, and crimes directed against, juveniles” after “data acquired under this section”.
 
-1996—Subsec. (b)(1). Pub. L. 104–155, § 7(1), substituted “for each calendar year” for “for the calendar year 1990 and each of the succeeding 4 calendar years”.
+1996—Subsec. (b)(1). Pub. L. 104–155, § 7(1), substituted “for each calendar year” for “for the calendar year 1990 and each of the succeeding 4 calendar years”.
 
-Subsec. (c). Pub. L. 104–155, § 7(2), substituted “2002” for “1994”.
+Subsec. (c). Pub. L. 104–155, § 7(2), substituted “2002” for “1994”.
 
 1994—Subsec. (b)(1). Pub. L. 103–322 inserted “disability,” after “religion,”.
 
@@ -193,7 +193,7 @@ Subsec. (c). Pub. L. 104–155, § 7(2), substituted “2002” for “1994”
 
 **Findings**
 
-Pub. L. 101–275, § 2, Apr. 23, 1990, 104 Stat. 140, provided that:
+Pub. L. 101–275, § 2, Apr. 23, 1990, 104 Stat. 140, provided that:
 
 > **“(a)** Congress finds that—
 
@@ -205,7 +205,7 @@ Pub. L. 101–275, § 2, Apr. 23, 1990, 104 Stat. 140, provided that:
 
 > **“(b)** Nothing in this Act [enacting this section] shall be construed, nor shall any funds appropriated to carry out the purpose of the Act be used, to promote or encourage homosexuality.”
 
-## § 41306. Report to Congress on banking law offenses
+## § 41306. Report to Congress on banking law offenses
 
 **(a) In general**
 
@@ -227,9 +227,9 @@ and the reasons such matters are inactive and the referrals unaddressed;
 
 **(2) Analysis and report**
 
-The Attorney General shall analyze and report to the Congress on the data described in paragraph (1) and its coordination and other related activities named in section 41501(c)(2) 1
+The Attorney General shall analyze and report to the Congress on the data described in paragraph (1) and its coordination and other related activities named in section 41501(c)(2) 1
 
-<sup>1</sup>  So in original. Probably should be “41501(c)(3)”.
+<sup>1</sup> So in original. Probably should be “41501(c)(3)”.
 
 of this title and shall provide such report on the data monthly through December 31, 1991, and quarterly after such date.
 
@@ -253,7 +253,7 @@ of this title and shall provide such report on the data monthly through December
 
 **(E)** the resources allocated in pursuit of investigations, prosecutions, and sentencings (including indictments, guilty pleas, or verdicts obtained against offenders) and related proceedings.
 
-(Pub. L. 101–647, title XXV, § 2546, Nov. 29, 1990, 104 Stat. 4885.)
+(Pub. L. 101–647, title XXV, § 2546, Nov. 29, 1990, 104 Stat. 4885.)
 
 **Editorial Notes**
 
@@ -261,7 +261,7 @@ of this title and shall provide such report on the data monthly through December
 
 Section was formerly classified as a note under section 522 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 41307. Reporting requirement for missing children
+## § 41307. Reporting requirement for missing children
 
 **(a) In general**
 
@@ -271,13 +271,13 @@ Each Federal, State, and local law enforcement agency shall report each case of 
 
 The Attorney General may establish guidelines for the collection of such reports including procedures for carrying out the purposes of this section and section 41308 of this title.1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(c) Annual summary**
 
 The Attorney General shall publish an annual statistical summary of the reports received under this section and section 41308 of this title.
 
-(Pub. L. 101–647, title XXXVII, § 3701, Nov. 29, 1990, 104 Stat. 4966; Pub. L. 108–21, title II, § 204, Apr. 30, 2003, 117 Stat. 660; Pub. L. 117–327, § 2(c)(1), Dec. 27, 2022, 136 Stat. 4455.)
+(Pub. L. 101–647, title XXXVII, § 3701, Nov. 29, 1990, 104 Stat. 4966; Pub. L. 108–21, title II, § 204, Apr. 30, 2003, 117 Stat. 660; Pub. L. 117–327, § 2(c)(1), Dec. 27, 2022, 136 Stat. 4455.)
 
 **Editorial Notes**
 
@@ -301,7 +301,7 @@ Section was formerly classified to section 5779 of Title 42, The Public Health a
 
 Amendment by Pub. L. 117–327 applicable with respect to reports made before, on, or after Dec. 27, 2022, see section 40506(c)(3) of this title.
 
-## § 41308. State requirements for reporting missing children
+## § 41308. State requirements for reporting missing children
 
 Each State reporting under the provisions of this section and section 41307 of this title shall—
 
@@ -333,7 +333,7 @@ is entered within 2 hours of receipt into the State law enforcement system, the 
 
 **(E)** grant permission to the National Crime Information Center Terminal Contractor for the State to update the missing person record in the National Crime Information Center computer networks with additional information learned during the investigation relating to the missing person.
 
-(Pub. L. 101–647, title XXXVII, § 3702, Nov. 29, 1990, 104 Stat. 4967; Pub. L. 109–248, title I, § 154(a), July 27, 2006, 120 Stat. 611; Pub. L. 114–22, title I, § 116(b), May 29, 2015, 129 Stat. 244; Pub. L. 117–327, § 2(c)(2), Dec. 27, 2022, 136 Stat. 4455.)
+(Pub. L. 101–647, title XXXVII, § 3702, Nov. 29, 1990, 104 Stat. 4967; Pub. L. 109–248, title I, § 154(a), July 27, 2006, 120 Stat. 611; Pub. L. 114–22, title I, § 116(b), May 29, 2015, 129 Stat. 244; Pub. L. 117–327, § 2(c)(2), Dec. 27, 2022, 136 Stat. 4455.)
 
 **Editorial Notes**
 
@@ -343,29 +343,29 @@ Section was formerly classified to section 5780 of Title 42, The Public Health a
 
 **Amendments**
 
-2022—Par. (2). Pub. L. 117–327, § 2(c)(2)(A), substituted “, the National Crime Information Center computer database, or the NamUs databases” for “or the National Crime Information Center computer database”.
+2022—Par. (2). Pub. L. 117–327, § 2(c)(2)(A), substituted “, the National Crime Information Center computer database, or the NamUs databases” for “or the National Crime Information Center computer database”.
 
-Par. (3). Pub. L. 117–327, § 2(c)(2)(B), substituted “, the National Crime Information Center computer networks, and the NamUs databases” for “and the National Crime Information Center computer networks” in concluding provisions.
+Par. (3). Pub. L. 117–327, § 2(c)(2)(B), substituted “, the National Crime Information Center computer networks, and the NamUs databases” for “and the National Crime Information Center computer networks” in concluding provisions.
 
-2022—Par. (4). Pub. L. 117–327, § 2(c)(2)(C)(i), inserted “or the NamUs databases” after “National Crime Information Center” in introductory provisions.
+2022—Par. (4). Pub. L. 117–327, § 2(c)(2)(C)(i), inserted “or the NamUs databases” after “National Crime Information Center” in introductory provisions.
 
-Par. (4)(A). Pub. L. 117–327, § 2(c)(2)(C)(ii), substituted “, National Crime Information Center computer networks, and the NamUs databases” for “and National Crime Information Center computer networks”.
+Par. (4)(A). Pub. L. 117–327, § 2(c)(2)(C)(ii), substituted “, National Crime Information Center computer networks, and the NamUs databases” for “and National Crime Information Center computer networks”.
 
-2015—Par. (2). Pub. L. 114–22, § 116(b)(1), struck out “and” at end.
+2015—Par. (2). Pub. L. 114–22, § 116(b)(1), struck out “and” at end.
 
-Par. (3)(B) to (D). Pub. L. 114–22, § 116(b)(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
+Par. (3)(B) to (D). Pub. L. 114–22, § 116(b)(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-Par. (4). Pub. L. 114–22, § 116(b)(3)(A), substituted “paragraph (3)” for “paragraph (2)” in introductory provisions.
+Par. (4). Pub. L. 114–22, § 116(b)(3)(A), substituted “paragraph (3)” for “paragraph (2)” in introductory provisions.
 
-Par. (4)(A). Pub. L. 114–22, § 116(b)(3)(B), substituted “30 days” for “60 days” and inserted “and a photograph taken during the previous 180 days” after “dental records”.
+Par. (4)(A). Pub. L. 114–22, § 116(b)(3)(B), substituted “30 days” for “60 days” and inserted “and a photograph taken during the previous 180 days” after “dental records”.
 
-Par. (4)(B), (C). Pub. L. 114–22, § 116(b)(3)(C), (E), struck out “and” at end of subpar. (B) and added subpar. (C). Former subpar. (C) redesignated (D).
+Par. (4)(B), (C). Pub. L. 114–22, § 116(b)(3)(C), (E), struck out “and” at end of subpar. (B) and added subpar. (C). Former subpar. (C) redesignated (D).
 
-Par. (4)(D). Pub. L. 114–22, § 116(b)(3)(F), inserted “State and local child welfare systems and” before “the National Center for Missing and Exploited Children” and substituted “; and” for period at end.
+Par. (4)(D). Pub. L. 114–22, § 116(b)(3)(F), inserted “State and local child welfare systems and” before “the National Center for Missing and Exploited Children” and substituted “; and” for period at end.
 
-Pub. L. 114–22, § 116(b)(3)(D), redesignated subpar. (C) as (D).
+Pub. L. 114–22, § 116(b)(3)(D), redesignated subpar. (C) as (D).
 
-Par. (4)(E). Pub. L. 114–22, § 116(b)(3)(G), added subpar. (E).
+Par. (4)(E). Pub. L. 114–22, § 116(b)(3)(G), added subpar. (E).
 
 2006—Pub. L. 109–248 added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “within 2 hours of receipt” for “immediately” in concluding provisions of par. (3).
 
@@ -375,7 +375,7 @@ Par. (4)(E). Pub. L. 114–22, § 116(b)(3)(G), added subpar. (E).
 
 Amendment by Pub. L. 117–327 applicable with respect to reports made before, on, or after Dec. 27, 2022, see section 40506(c)(3) of this title.
 
-## § 41309. Reporting on human trafficking
+## § 41309. Reporting on human trafficking
 
 **(a) Trafficking offense classification** The Director of the Federal Bureau of Investigation shall—
 
@@ -391,9 +391,9 @@ Amendment by Pub. L. 117–327 applicable with respect to reports made before, o
 
 **(3)** classify the offense of human trafficking as a Group A offense for purpose of the National Incident-Based Reporting System.
 
-**(b) Additional information** The Director of the Federal Bureau of Investigation shall revise the Uniform Crime Reporting System 1
+**(b) Additional information** The Director of the Federal Bureau of Investigation shall revise the Uniform Crime Reporting System 1
 
-<sup>1</sup>  So in original. Probably should be “Program”.
+<sup>1</sup> So in original. Probably should be “Program”.
 
 and the National Incident-Based Reporting System to distinguish between reports of—
 
@@ -411,7 +411,7 @@ and the National Incident-Based Reporting System to distinguish between reports 
 
 **(5)** incidents of purchasing or soliciting commercial sex acts, child labor that is a violation of law, or forced labor with an individual under the age of 18 as described in paragraph (2).
 
-(Pub. L. 110–457, title II, § 237(a), (b), Dec. 23, 2008, 122 Stat. 5083; Pub. L. 115–392, § 17, Dec. 21, 2018, 132 Stat. 5257.)
+(Pub. L. 110–457, title II, § 237(a), (b), Dec. 23, 2008, 122 Stat. 5083; Pub. L. 115–392, § 17, Dec. 21, 2018, 132 Stat. 5257.)
 
 **Editorial Notes**
 
@@ -429,7 +429,7 @@ Section is comprised of subsecs. (a) and (b) of section 237 of Pub. L. 110–457
 
 **Cumulative Biennial Report on Data Collection and Statistics**
 
-Pub. L. 117–347, title IV, § 405, Jan. 5, 2023, 136 Stat. 6209, provided that:
+Pub. L. 117–347, title IV, § 405, Jan. 5, 2023, 136 Stat. 6209, provided that:
 
 > “Not later than 280 days after the date of enactment of this Act [Jan. 5, 2023], and every 2 years thereafter, the Attorney General and the Secretary of Health and Human Services shall each submit to the Committee on the Judiciary and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on the Judiciary and the Committee on Energy and Commerce of the House of Representatives the status of the required data collection and reporting requirements of the Attorney General and the Secretary, respectively, related to trafficking, which shall include the status of—
 
@@ -445,7 +445,7 @@ Pub. L. 117–347, title IV, § 405, Jan. 5, 2023, 136 Stat. 6209, provided th
 
 > **“(6)** the comprehensive study required under section 237(c)(2) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (Public Law 110–457; 122 Stat. 5085 [5084]).”
 
-## § 41310. Report on theft of trade secrets occurring abroad
+## § 41310. Report on theft of trade secrets occurring abroad
 
 **(a) Definitions** In this section:
 
@@ -491,7 +491,7 @@ The term “United States company” means an organization organized under the l
 
 **(D)** provide a mechanism for United States companies to confidentially or anonymously report the theft of trade secrets occurring outside of the United States.
 
-(Pub. L. 114–153, § 4, May 11, 2016, 130 Stat. 382.)
+(Pub. L. 114–153, § 4, May 11, 2016, 130 Stat. 382.)
 
 **Editorial Notes**
 
@@ -499,7 +499,7 @@ The term “United States company” means an organization organized under the l
 
 Section was formerly classified as a note under section 1832 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 41311. Improving Department of Justice data collection on mental illness involved in crime
+## § 41311. Improving Department of Justice data collection on mental illness involved in crime
 
 **(a) In general**
 
@@ -509,7 +509,7 @@ Notwithstanding any other provision of law, on or after the date that is 90 days
 
 Not later than 90 days after December 13, 2016, the Attorney General shall promulgate or revise regulations as necessary to carry out subsection (a).
 
-(Pub. L. 114–255, div. B, title XIV, § 14015, Dec. 13, 2016, 130 Stat. 1306.)
+(Pub. L. 114–255, div. B, title XIV, § 14015, Dec. 13, 2016, 130 Stat. 1306.)
 
 **Editorial Notes**
 
@@ -517,7 +517,7 @@ Not later than 90 days after December 13, 2016, the Attorney General shall promu
 
 Section was formerly classified as a note under section 534 of Title 28, Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
-## § 41312. Report on female genital mutilation
+## § 41312. Report on female genital mutilation
 
 Not later than one year after January 5, 2021, and annually thereafter, the Attorney General, in consultation with the Secretary of Homeland Security, the Secretary of State, the Secretary of Health and Human Services, and the Secretary of Education, shall submit to Congress a report that includes—
 
@@ -527,9 +527,9 @@ Not later than one year after January 5, 2021, and annually thereafter, the Atto
 
 **(3)** the actions taken by Federal agencies to educate and assist communities and key stakeholders about female genital mutilation.
 
-(Pub. L. 116–309, § 4, Jan. 5, 2021, 134 Stat. 4924.)
+(Pub. L. 116–309, § 4, Jan. 5, 2021, 134 Stat. 4924.)
 
-## § 41313. GAO study on incidence of fatal and non-fatal physical and sexual assault of passengers, TNC drivers, and drivers of other for-hire vehicles
+## § 41313. GAO study on incidence of fatal and non-fatal physical and sexual assault of passengers, TNC drivers, and drivers of other for-hire vehicles
 
 **(a) GAO report** Not later than 1 year after January 5, 2023, and every 2 years thereafter, the Comptroller General of the United States shall submit to Congress a report that includes the results of a study regarding—
 
@@ -547,4 +547,4 @@ Not later than one year after January 5, 2021, and annually thereafter, the Atto
 
 In this section, the term “sexual assault” means the occurrence of an act that constitutes any nonconsensual sexual act proscribed by Federal, Tribal, or State law, including when the victim lacks capacity to consent.
 
-(Pub. L. 117–330, § 2, Jan. 5, 2023, 136 Stat. 6114.)
+(Pub. L. 117–330, § 2, Jan. 5, 2023, 136 Stat. 6114.)

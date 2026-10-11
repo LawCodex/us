@@ -19,9 +19,9 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 3(j)(5), Sept. 16, 2011, 125 Stat. 291, amended items 134 and 135 generally, substituting “Appeal to the Patent Trial and Appeal Board” for “Appeal to the Board of Patent Appeals and Interferences” in item 134 and “Derivation proceedings” for “Interferences” in item 135.
+2011—Pub. L. 112–29, § 3(j)(5), Sept. 16, 2011, 125 Stat. 291, amended items 134 and 135 generally, substituting “Appeal to the Patent Trial and Appeal Board” for “Appeal to the Board of Patent Appeals and Interferences” in item 134 and “Derivation proceedings” for “Interferences” in item 135.
 
-1984—Pub. L. 98–622, title II, § 204(b)(2), Nov. 8, 1984, 98 Stat. 3388, substituted “Patent Appeals and Interferences” for “Appeals” in item 134.
+1984—Pub. L. 98–622, title II, § 204(b)(2), Nov. 8, 1984, 98 Stat. 3388, substituted “Patent Appeals and Interferences” for “Appeals” in item 134.
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -39,15 +39,15 @@ Pub. L. 116–316, Jan. 5, 2021, 134 Stat. 5065, provided that:
 
 > **“(b) Requirement.—** An acceleration certificate transferred under subsection (a) shall be subject to any other applicable limitations under the notice entitled ‘Humanitarian Awards Pilot Program’, published at 77 Fed. Reg. 6544 (February 8, 2012), or any successor thereto.”
 
-## § 131. Examination of application
+## § 131. Examination of application
 
 The Director shall cause an examination to be made of the application and the alleged new invention; and if on such examination it appears that the applicant is entitled to a patent under the law, the Director shall issue a patent therefor.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 36 (R.S. 4893).
+Based on Title 35, U.S.C., 1946 ed., § 36 (R.S. 4893).
 
 The first part is revised in language and amplified. The phrase “and that the invention is sufficiently useful and important” is omitted as unnecessary, the requirements for patentability being stated in sections 101, 102 and 103.
 
@@ -63,11 +63,11 @@ The first part is revised in language and amplified. The phrase “and that the 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Pre-Prosecution Assessment Pilot Program**
 
-Pub. L. 117–328, div. W, § 106, Dec. 29, 2022, 136 Stat. 5521, provided that:
+Pub. L. 117–328, div. W, § 106, Dec. 29, 2022, 136 Stat. 5521, provided that:
 
 > **“(a) Pilot Program.—** Not later than 1 year after the date of enactment of this Act [Dec. 29, 2022], the Director shall establish a pilot program to assist first-time prospective patent applicants in assessing the strengths and weaknesses of a potential patent application submitted by such a prospective applicant.
 
@@ -85,17 +85,17 @@ Pub. L. 117–328, div. W, § 106, Dec. 29, 2022, 136 Stat. 5521, provided tha
 
 [For definitions of terms used in section 106 of div. W of Pub. L. 117–328, set out above, see section 102 of div. W of Pub. L. 117–328, set out as a Definitions note under section 1 of this title.]
 
-## § 132. Notice of rejection; reexamination
+## § 132. Notice of rejection; reexamination
 
 **(a)** Whenever, on examination, any claim for a patent is rejected, or any objection or requirement made, the Director shall notify the applicant thereof, stating the reasons for such rejection, or objection or requirement, together with such information and references as may be useful in judging of the propriety of continuing the prosecution of his application; and if after receiving such notice, the applicant persists in his claim for a patent, with or without amendment, the application shall be re­examined. No amendment shall introduce new matter into the disclosure of the invention.
 
 **(b)** The Director shall prescribe regulations to provide for the continued examination of applications for patent at the request of the applicant. The Director may establish appropriate fees for such continued examination and shall provide a 50 percent reduction in such fees for small entities that qualify for reduced fees under section 41(h)(1).
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4403, 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4403, 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 51 (R.S. 4903, amended Aug. 5, 1939, ch. 452, § 1, 53 Stat. 1213).
+Based on Title 35, U.S.C., 1946 ed., § 51 (R.S. 4903, amended Aug. 5, 1939, ch. 452, § 1, 53 Stat. 1213).
 
 The first paragraph of the corresponding section of existing statute is revised in language and amplified to incorporate present practice; the second paragraph of the existing statute is placed in section 135.
 
@@ -107,11 +107,11 @@ The last sentence relating to new matter is added but represents no departure fr
 
 2011—Subsec. (b). Pub. L. 112–29 struck out “of this title” after “41(h)(1)”.
 
-2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
 
-1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
-Pub. L. 106–113, § 1000(a)(9) [title IV, § 4403], designated existing provisions as subsec. (a) and added subsec. (b).
+Pub. L. 106–113, § 1000(a)(9) [title IV, § 4403], designated existing provisions as subsec. (a) and added subsec. (b).
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -121,7 +121,7 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4405(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, provided that:
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4405(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, provided that:
 
 > “The amendments made by section 4403 [amending this section]—
 
@@ -129,17 +129,17 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4405(b)], Nov. 29, 19
 
 > **“(2)** do not apply to applications for design patents under chapter 16 of title 35, United States Code.”
 
-Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-## § 133. Time for prosecuting application
+## § 133. Time for prosecuting application
 
 Upon failure of the applicant to prosecute the application within six months after any action therein, of which notice has been given or mailed to the applicant, or within such shorter time, not less than thirty days, as fixed by the Director in such action, the application shall be regarded as abandoned by the parties thereto.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–211, title II, § 202(b)(5), Dec. 18, 2012, 126 Stat. 1536.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–211, title II, § 202(b)(5), Dec. 18, 2012, 126 Stat. 1536.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 37 (R.S. 4894, amended (1) Mar. 3, 1897, ch. 391, § 4, 29 Stat. 692, 693, (2) July 6, 1916, ch. 225, § 1, 39 Stat. 345, 347–8, (3) Mar. 2, 1927, ch. 273, § 1, 44 Stat. 1335, (4) Aug. 7, 1939, ch. 568, 53 Stat. 1264).
+Based on Title 35, U.S.C., 1946 ed., § 37 (R.S. 4894, amended (1) Mar. 3, 1897, ch. 391, § 4, 29 Stat. 692, 693, (2) July 6, 1916, ch. 225, § 1, 39 Stat. 345, 347–8, (3) Mar. 2, 1927, ch. 273, § 1, 44 Stat. 1335, (4) Aug. 7, 1939, ch. 568, 53 Stat. 1264).
 
 The opening clause of the corresponding section of existing statute is omitted as having no present day meaning or value and the last two sentences are omitted for inclusion in section 267. The notice is stated as given or mailed. Language is revised.
 
@@ -147,7 +147,7 @@ The opening clause of the corresponding section of existing statute is omitted a
 
 **Amendments**
 
-2012—Pub. L. 112–211 struck out “, unless it be shown to the satisfaction of the Director that such delay was unavoidable” before period at end.
+2012—Pub. L. 112–211 struck out “, unless it be shown to the satisfaction of the Director that such delay was unavoidable” before period at end.
 
 2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
@@ -161,19 +161,19 @@ Amendment by Pub. L. 112–211 effective on the date that is 1 year after Dec. 1
 
 **Effective Date of 1999 Amendment**
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
-## § 134. Appeal to the Patent Trial and Appeal Board
+## § 134. Appeal to the Patent Trial and Appeal Board
 
 **(a) Patent Applicant.—** An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Patent Trial and Appeal Board, having once paid the fee for such appeal.
 
 **(b) Patent Owner.—** A patent owner in a reexamination may appeal from the final rejection of any claim by the primary examiner to the Patent Trial and Appeal Board, having once paid the fee for such appeal.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 98–622, title II, § 204(b)(1), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4605(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; Pub. L. 107–273, div. C, title III, §§ 13106(b), 13202(b)(1), Nov. 2, 2002, 116 Stat. 1901; Pub. L. 112–29, §§ 3(j)(1), (3), 7(b), Sept. 16, 2011, 125 Stat. 290, 313.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 98–622, title II, § 204(b)(1), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4605(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; Pub. L. 107–273, div. C, title III, §§ 13106(b), 13202(b)(1), Nov. 2, 2002, 116 Stat. 1901; Pub. L. 112–29, §§ 3(j)(1), (3), 7(b), Sept. 16, 2011, 125 Stat. 290, 313.)
 
 **Historical and Revision Notes**
 
-Based on Title 35, U.S.C., 1946 ed., § 57 (R.S. 4909 amended (1) Mar. 2, 1927, ch. 273, § 5, 44 Stat. 1335, 1336, (2) Aug. 5, 1939, ch. 451, § 2, 53 Stat. 1212).
+Based on Title 35, U.S.C., 1946 ed., § 57 (R.S. 4909 amended (1) Mar. 2, 1927, ch. 273, § 5, 44 Stat. 1335, 1336, (2) Aug. 5, 1939, ch. 451, § 2, 53 Stat. 1212).
 
 Reference to reissues is omitted in view of the general provision in section 251. Minor changes in language are made.
 
@@ -181,21 +181,21 @@ Reference to reissues is omitted in view of the general provision in section 251
 
 **Amendments**
 
-2011—Pub. L. 112–29, § 3(j)(3), amended section catchline generally. Prior to amendment, section catchline read as follows: “Appeal to the Board of Patent Appeals and Interferences”.
+2011—Pub. L. 112–29, § 3(j)(3), amended section catchline generally. Prior to amendment, section catchline read as follows: “Appeal to the Board of Patent Appeals and Interferences”.
 
-Subsec. (a). Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+Subsec. (a). Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
 
-Subsec. (b). Pub. L. 112–29, § 7(b)(1), substituted “a reexamination” for “any reexamination proceeding”.
+Subsec. (b). Pub. L. 112–29, § 7(b)(1), substituted “a reexamination” for “any reexamination proceeding”.
 
-Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
 
-Subsec. (c). Pub. L. 112–29, § 7(b)(2), struck out subsec. (c). Prior to amendment, text read as follows: “A third-party requester in an inter partes proceeding may appeal to the Board of Patent Appeals and Interferences from the final decision of the primary examiner favorable to the patentability of any original or proposed amended or new claim of a patent, having once paid the fee for such appeal.”
+Subsec. (c). Pub. L. 112–29, § 7(b)(2), struck out subsec. (c). Prior to amendment, text read as follows: “A third-party requester in an inter partes proceeding may appeal to the Board of Patent Appeals and Interferences from the final decision of the primary examiner favorable to the patentability of any original or proposed amended or new claim of a patent, having once paid the fee for such appeal.”
 
-2002—Subsecs. (a), (b). Pub. L. 107–273, § 13202(b)(1), substituted “primary examiner” for “administrative patent judge”.
+2002—Subsecs. (a), (b). Pub. L. 107–273, § 13202(b)(1), substituted “primary examiner” for “administrative patent judge”.
 
-Subsec. (c). Pub. L. 107–273, § 13202(b)(1), substituted “primary examiner” for “administrative patent judge”.
+Subsec. (c). Pub. L. 107–273, § 13202(b)(1), substituted “primary examiner” for “administrative patent judge”.
 
-Pub. L. 107–273, § 13106(b), struck out at end “The third-party requester may not appeal the decision of the Board of Patent Appeals and Interferences.”
+Pub. L. 107–273, § 13106(b), struck out at end “The third-party requester may not appeal the decision of the Board of Patent Appeals and Interferences.”
 
 1999—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Board of Patent Appeals and Interferences, having once paid the fee for such appeal.”
 
@@ -211,19 +211,19 @@ Amendment by section 7(b) of Pub. L. 112–29 effective upon the expiration of t
 
 **Effective Date of 2002 Amendment**
 
-Pub. L. 107–273, div. C, title III, § 13106(d), Nov. 2, 2002, 116 Stat. 1901, provided that: “The amendments made by this section [amending this section and sections 141 and 315 of this title] apply with respect to any reexamination proceeding commenced on or after the date of enactment of this Act [Nov. 2, 2002].”
+Pub. L. 107–273, div. C, title III, § 13106(d), Nov. 2, 2002, 116 Stat. 1901, provided that: “The amendments made by this section [amending this section and sections 141 and 315 of this title] apply with respect to any reexamination proceeding commenced on or after the date of enactment of this Act [Nov. 2, 2002].”
 
 **Effective Date of 1999 Amendment**
 
-Pub. L. 107–273, div. C, title III, § 13202(d), Nov. 2, 2002, 116 Stat. 1902, provided that: “The amendments made by section 4605(b), (c), and (e) of the Intellectual Property and Communications Omnibus Reform Act, as enacted by section 1000(a)(9) of Public Law 106–113 [amending this section and sections 141 and 145 of this title], shall apply to any reexamination filed in the United States Patent and Trademark Office on or after the date of enactment of Public Law 106–113 [Nov. 29, 1999].”
+Pub. L. 107–273, div. C, title III, § 13202(d), Nov. 2, 2002, 116 Stat. 1902, provided that: “The amendments made by section 4605(b), (c), and (e) of the Intellectual Property and Communications Omnibus Reform Act, as enacted by section 1000(a)(9) of Public Law 106–113 [amending this section and sections 141 and 145 of this title], shall apply to any reexamination filed in the United States Patent and Trademark Office on or after the date of enactment of Public Law 106–113 [Nov. 29, 1999].”
 
-Amendment by Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as a note under section 41 of this title.
+Amendment by Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) [title IV, § 4608(a)] of Pub. L. 106–113, set out as a note under section 41 of this title.
 
 **Effective Date of 1984 Amendment**
 
 Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see section 207 of Pub. L. 98–622, set out as a note under section 41 of this title.
 
-## § 135. Derivation proceedings
+## § 135. Derivation proceedings
 
 **(a) Institution of Proceeding.—**
 
@@ -245,39 +245,39 @@ Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see sec
 
 **(f) Arbitration.—** Parties to a proceeding instituted under subsection (a) may, within such time as may be specified by the Director by regulation, determine such contest or any aspect thereof by arbitration. Such arbitration shall be governed by the provisions of title 9, to the extent such title is not inconsistent with this section. The parties shall give notice of any arbitration award to the Director, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Director from determining the patentability of the claimed inventions involved in the proceeding.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 87–831, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–622, title I, § 105, title II, § 202, Nov. 8, 1984, 98 Stat. 3385, 3386; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(11), 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 3(i), 20(j), Sept. 16, 2011, 125 Stat. 289, 335; Pub. L. 112–274, § 1(e)(1), (k)(1), Jan. 14, 2013, 126 Stat. 2456, 2457.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 87–831, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–622, title I, § 105, title II, § 202, Nov. 8, 1984, 98 Stat. 3385, 3386; Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4507(11), 4732(a)(10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§ 3(i), 20(j), Sept. 16, 2011, 125 Stat. 289, 335; Pub. L. 112–274, § 1(e)(1), (k)(1), Jan. 14, 2013, 126 Stat. 2456, 2457.)
 
 **Historical and Revision Notes**
 
-The first paragraph is based on Title 35, U.S.C., 1946 ed., § 52 (R.S. 4904 amended (1) Mar. 2, 1927, ch. 273, § 4, 44 Stat. 1335, 1336, (2) Aug. 5, 1939, ch. 451, § 1, 53 Stat. 1212).
+The first paragraph is based on Title 35, U.S.C., 1946 ed., § 52 (R.S. 4904 amended (1) Mar. 2, 1927, ch. 273, § 4, 44 Stat. 1335, 1336, (2) Aug. 5, 1939, ch. 451, § 1, 53 Stat. 1212).
 
 The first paragraph states the existing corresponding statute with a few changes in language. An explicit statement that the Office decision on priority constitutes a final refusal by the Office of the claims involved, is added. The last sentence is new and provides that judgment adverse to a patentee constitutes cancellation of the claims of the patent involved after the judgment has become final, the patentee has a right of appeal (sec. 141) and is given a right of review by civil action (sec. 146).
 
-The second paragraph is based on Title 35, U.S.C., 1946 ed., § 51, (R.S. 4903, amended Aug. 5, 1939, ch. 452, § 1, 53 Stat. 1213). Changes in language are made.
+The second paragraph is based on Title 35, U.S.C., 1946 ed., § 51, (R.S. 4903, amended Aug. 5, 1939, ch. 452, § 1, 53 Stat. 1213). Changes in language are made.
 
 **Editorial Notes**
 
 **Amendments**
 
-2013—Subsec. (a). Pub. L. 112–274, § 1(k)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “An applicant for patent may file a petition to institute a derivation proceeding in the Office. The petition shall set forth with particularity the basis for finding that an inventor named in an earlier application derived the claimed invention from an inventor named in the petitioner’s application and, without authorization, the earlier application claiming such invention was filed. Any such petition may be filed only within the 1-year period beginning on the date of the first publication of a claim to an invention that is the same or substantially the same as the earlier application’s claim to the invention, shall be made under oath, and shall be supported by substantial evidence. Whenever the Director determines that a petition filed under this subsection demonstrates that the standards for instituting a derivation proceeding are met, the Director may institute a derivation proceeding. The determination by the Director whether to institute a derivation proceeding shall be final and nonappealable.”
+2013—Subsec. (a). Pub. L. 112–274, § 1(k)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “An applicant for patent may file a petition to institute a derivation proceeding in the Office. The petition shall set forth with particularity the basis for finding that an inventor named in an earlier application derived the claimed invention from an inventor named in the petitioner’s application and, without authorization, the earlier application claiming such invention was filed. Any such petition may be filed only within the 1-year period beginning on the date of the first publication of a claim to an invention that is the same or substantially the same as the earlier application’s claim to the invention, shall be made under oath, and shall be supported by substantial evidence. Whenever the Director determines that a petition filed under this subsection demonstrates that the standards for instituting a derivation proceeding are met, the Director may institute a derivation proceeding. The determination by the Director whether to institute a derivation proceeding shall be final and nonappealable.”
 
-Subsec. (e). Pub. L. 112–274, § 1(e)(1), substituted “correct inventor” for “correct inventors”.
+Subsec. (e). Pub. L. 112–274, § 1(e)(1), substituted “correct inventor” for “correct inventors”.
 
-2011—Pub. L. 112–29, § 3(i), amended section generally. Prior to amendment, section related to interferences.
+2011—Pub. L. 112–29, § 3(i), amended section generally. Prior to amendment, section related to interferences.
 
-Subsec. (b)(2). Pub. L. 112–29, § 20(j), struck out “of this title” after “122(b)”.
+Subsec. (b)(2). Pub. L. 112–29, § 20(j), struck out “of this title” after “122(b)”.
 
-2002—Subsecs. (a), (c), (d). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment notes below.
+2002—Subsecs. (a), (c), (d). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment notes below.
 
-1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
+1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
 
-Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(11)], designated existing provisions as par. (1) and added par. (2).
+Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4507(11)], designated existing provisions as par. (1) and added par. (2).
 
-Subsecs. (c), (d). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
+Subsecs. (c), (d). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
 
-1984—Subsec. (a). Pub. L. 98–622, § 202, amended subsec. (a) generally, substituting “, an interference may be declared and the Commissioner shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be” for “he shall give notice thereof to the applicants, or applicant and patentee, as the case may be” and substituting provisions vesting jurisdiction for determining questions of interference in the Board of Patent Appeals and Interferences for provisions vesting such jurisdiction in a board of patent interferences.
+1984—Subsec. (a). Pub. L. 98–622, § 202, amended subsec. (a) generally, substituting “, an interference may be declared and the Commissioner shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be” for “he shall give notice thereof to the applicants, or applicant and patentee, as the case may be” and substituting provisions vesting jurisdiction for determining questions of interference in the Board of Patent Appeals and Interferences for provisions vesting such jurisdiction in a board of patent interferences.
 
-Subsec. (d). Pub. L. 98–622, § 105, added subsec. (d).
+Subsec. (d). Pub. L. 98–622, § 105, added subsec. (d).
 
 1975—Subsecs. (a), (c). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
 
@@ -287,9 +287,9 @@ Subsec. (d). Pub. L. 98–622, § 105, added subsec. (d).
 
 **Effective Date of 2013 Amendment**
 
-Pub. L. 112–274, § 1(e)(2), Jan. 14, 2013, 126 Stat. 2456, provided that: “The amendment made by paragraph (1) [amending this section] shall be effective as if included in the amendment made by section 3(i) of the Leahy-Smith America Invents Act [Pub. L. 112–29].”
+Pub. L. 112–274, § 1(e)(2), Jan. 14, 2013, 126 Stat. 2456, provided that: “The amendment made by paragraph (1) [amending this section] shall be effective as if included in the amendment made by section 3(i) of the Leahy-Smith America Invents Act [Pub. L. 112–29].”
 
-Pub. L. 112–274, § 1(k)(2), Jan. 14, 2013, 126 Stat. 2458, provided that: “The amendment made by paragraph (1) [amending this section] shall be effective as if included in the amendment made by section 3(i) of the Leahy-Smith America Invents Act [Pub. L. 112–29].”
+Pub. L. 112–274, § 1(k)(2), Jan. 14, 2013, 126 Stat. 2458, provided that: “The amendment made by paragraph (1) [amending this section] shall be effective as if included in the amendment made by section 3(i) of the Leahy-Smith America Invents Act [Pub. L. 112–29].”
 
 **Effective Date of 2011 Amendment**
 
@@ -299,9 +299,9 @@ Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of 
 
 **Effective Date of 1999 Amendment**
 
-Amendment by section 1000(a)(9) [title IV, § 4507(11)] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4507(11)] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
-Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 **Effective Date of 1984 Amendment**
 
@@ -315,6 +315,6 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 **Savings Provisions**
 
-Pub. L. 112–274, § 1(k)(3), Jan. 14, 2013, 126 Stat. 2458, provided that: “The provisions of sections 6 and 141 of title 35, United States Code, and section 1295(a)(4)(A) of title 28, United States Code, as in effect on September 15, 2012, shall apply to interference proceedings that are declared after September 15, 2012, under section 135 of title 35, United States Code, as in effect before the effective date under section 3(n) of the Leahy-Smith America Invents Act [Pub. L. 112—29, set out as a note under section 100 of this title]. The Patent Trial and Appeal Board may be deemed to be the Board of Patent Appeals and Interferences for purposes of such interference proceedings.”
+Pub. L. 112–274, § 1(k)(3), Jan. 14, 2013, 126 Stat. 2458, provided that: “The provisions of sections 6 and 141 of title 35, United States Code, and section 1295(a)(4)(A) of title 28, United States Code, as in effect on September 15, 2012, shall apply to interference proceedings that are declared after September 15, 2012, under section 135 of title 35, United States Code, as in effect before the effective date under section 3(n) of the Leahy-Smith America Invents Act [Pub. L. 112—29, set out as a note under section 100 of this title]. The Patent Trial and Appeal Board may be deemed to be the Board of Patent Appeals and Interferences for purposes of such interference proceedings.”
 
 Provisions of 35 U.S.C. 135, as in effect on the day before the expiration of the 18-month period beginning on Sept. 16, 2011, apply to each claim of certain applications for patent, and certain patents issued thereon, for which the amendments made by section 3 of Pub. L. 112–29 also apply, see section 3(n)(2) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.

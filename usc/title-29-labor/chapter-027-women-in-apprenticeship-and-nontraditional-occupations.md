@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 27—WOMEN IN APPRENTICESHIP AND NONTRADITIONAL OCCUPATIONS
 
-## § 2501. Findings; statement of purpose
+## § 2501. Findings; statement of purpose
 
 **(a) Findings** The Congress finds that—
 
@@ -39,15 +39,15 @@ retrieved: 2026-10-11
 
 **(4)** conducting a comprehensive study to examine the barriers to the participation of women in apprenticeable occupations and nontraditional occupations and to develop recommendations for the workplace to eliminate such barriers.
 
-(Pub. L. 102–530, § 2, Oct. 27, 1992, 106 Stat. 3465.)
+(Pub. L. 102–530, § 2, Oct. 27, 1992, 106 Stat. 3465.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 102–530, § 1, Oct. 27, 1992, 106 Stat. 3465, provided that: “This Act [enacting this chapter] shall be cited as the ‘Women in Apprenticeship and Nontraditional Occupations Act’.”
+Pub. L. 102–530, § 1, Oct. 27, 1992, 106 Stat. 3465, provided that: “This Act [enacting this chapter] shall be cited as the ‘Women in Apprenticeship and Nontraditional Occupations Act’.”
 
-## § 2502. Outreach to employers and labor unions
+## § 2502. Outreach to employers and labor unions
 
 **(a) In general** With funds available to the Secretary of Labor to carry out the operations of the Department of Labor in fiscal year 1994 and subsequent fiscal years, the Secretary shall carry out an outreach program to inform employers of technical assistance available under section 2503(a) of this title to assist employers to prepare the workplace to employ women in apprenticeable occupations and other nontraditional occupations.
 
@@ -59,9 +59,9 @@ Pub. L. 102–530, § 1, Oct. 27, 1992, 106 Stat. 3465, provided that: “This
 
 The Secretary shall give priority to providing outreach to employers located in areas that have nontraditional employment and training programs specifically targeted to women.
 
-(Pub. L. 102–530, § 3, Oct. 27, 1992, 106 Stat. 3466.)
+(Pub. L. 102–530, § 3, Oct. 27, 1992, 106 Stat. 3466.)
 
-## § 2503. Technical assistance
+## § 2503. Technical assistance
 
 **(a) In general** With funds appropriated to carry out this section, the Secretary shall make grants to community-based organizations to provide technical assistance to employers and labor unions selected under subsection (b). Such technical assistance may include—
 
@@ -83,9 +83,9 @@ The Secretary shall give priority to providing outreach to employers located in 
 
 The Secretary shall select a total of 50 employers or labor unions to receive technical assistance provided with grants made under subsection (a).
 
-(Pub. L. 102–530, § 4, Oct. 27, 1992, 106 Stat. 3466.)
+(Pub. L. 102–530, § 4, Oct. 27, 1992, 106 Stat. 3466.)
 
-## § 2504. Competitive grants
+## § 2504. Competitive grants
 
 **(a) In general**
 
@@ -101,9 +101,9 @@ Each community-based organization that desires to receive a grant to provide tec
 
 **(4)** have experience delivering technical assistance.
 
-(Pub. L. 102–530, § 5, Oct. 27, 1992, 106 Stat. 3467.)
+(Pub. L. 102–530, § 5, Oct. 27, 1992, 106 Stat. 3467.)
 
-## § 2505. Applications
+## § 2505. Applications
 
 To be eligible to be selected under section 2503(b) of this title to receive technical assistance provided with grants made under section 2503(a) of this title, an employer or labor union shall submit an application to the Secretary at such time, in such manner and containing or accompanied by such information as the Secretary may reasonably require. At a minimum, the application should include—
 
@@ -115,9 +115,9 @@ To be eligible to be selected under section 2503(b) of this title to receive tec
 
 **(4)** commitments that reasonable efforts shall be made to place qualified women in apprenticeable occupations or nontraditional occupations.
 
-(Pub. L. 102–530, § 6, Oct. 27, 1992, 106 Stat. 3467.)
+(Pub. L. 102–530, § 6, Oct. 27, 1992, 106 Stat. 3467.)
 
-## § 2506. Liaison role of Department of Labor
+## § 2506. Liaison role of Department of Labor
 
 The Department of Labor shall serve as a liaison among employers, labor unions, and community-based organizations. The liaison role may include—
 
@@ -127,9 +127,9 @@ The Department of Labor shall serve as a liaison among employers, labor unions, 
 
 **(3)** seeking the input of employers and labor unions with respect to strategies and recommendations for improving such technical assistance.
 
-(Pub. L. 102–530, § 7, Oct. 27, 1992, 106 Stat. 3467.)
+(Pub. L. 102–530, § 7, Oct. 27, 1992, 106 Stat. 3467.)
 
-## § 2507. Study of barriers to participation of women in apprenticeable occupations and nontraditional occupations
+## § 2507. Study of barriers to participation of women in apprenticeable occupations and nontraditional occupations
 
 **(a) Study** With funds available to the Secretary to carry out the operations of the Department of Labor in fiscal years 1994 and 1995, the Secretary shall conduct a study of the participation of women in apprenticeable occupations and nontraditional occupations. The study shall examine—
 
@@ -149,15 +149,15 @@ The Department of Labor shall serve as a liaison among employers, labor unions, 
 
 Not later than 2 years after October 27, 1992, the Secretary shall submit to the Congress a report containing a summary of the results of the study described in subsection (a) and such recommendations as the Secretary determines to be appropriate.
 
-(Pub. L. 102–530, § 8, Oct. 27, 1992, 106 Stat. 3467.)
+(Pub. L. 102–530, § 8, Oct. 27, 1992, 106 Stat. 3467.)
 
-## § 2508. Definitions
+## § 2508. Definitions
 
 For purposes of this chapter:
 
 **(1)** The term “community-based organization” means a community-based organization as defined in section 4(5) of the Job Training Partnership Act (29 U.S.C. 1501(5)),1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 that has demonstrated experience administering programs that train women for apprenticeable occupations or other nontraditional occupations.
 
@@ -165,16 +165,16 @@ that has demonstrated experience administering programs that train women for app
 
 **(3)** The term “Secretary” means the Secretary of Labor.
 
-(Pub. L. 102–530, § 9, Oct. 27, 1992, 106 Stat. 3468.)
+(Pub. L. 102–530, § 9, Oct. 27, 1992, 106 Stat. 3468.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 4(5) of the Job Training Partnership Act (29 U.S.C. 1501(5)), referred to in par. (1), was classified to section 1503(5) of this title and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of this title, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+Section 4(5) of the Job Training Partnership Act (29 U.S.C. 1501(5)), referred to in par. (1), was classified to section 1503(5) of this title and was repealed by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to former section 2940(b) of this title, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, were deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and, effective July 1, 2000, were deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. The Workforce Investment Act of 1998 was repealed by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Pursuant to section 3361(a) of this title, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of the Job Training Partnership Act and the Workforce Investment Act of 1998 to the Code, see Tables. For complete classification of the Workforce Innovation and Opportunity Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-## § 2509. Technical assistance program authorization
+## § 2509. Technical assistance program authorization
 
 There is authorized to be appropriated $1,000,000 to carry out section 2503 of this title.
 
-(Pub. L. 102–530, § 10, Oct. 27, 1992, 106 Stat. 3468.)
+(Pub. L. 102–530, § 10, Oct. 27, 1992, 106 Stat. 3468.)

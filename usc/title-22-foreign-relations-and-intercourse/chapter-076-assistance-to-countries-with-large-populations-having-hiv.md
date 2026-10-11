@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 76—ASSISTANCE TO COUNTRIES WITH LARGE POPULATIONS HAVING HIV/AIDS
 
-## § 6801. Definitions
+## § 6801. Definitions
 
 In this chapter:
 
@@ -39,7 +39,7 @@ The term “HIV” means the human immunodeficiency virus, the pathogen which ca
 
 The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
 
-(Pub. L. 106–264, title I, § 102, Aug. 19, 2000, 114 Stat. 749.)
+(Pub. L. 106–264, title I, § 102, Aug. 19, 2000, 114 Stat. 749.)
 
 **Editorial Notes**
 
@@ -51,11 +51,11 @@ This chapter, referred to in text, was in the original “this title”, meaning
 
 **Short Title**
 
-Pub. L. 106–264, § 1, Aug. 19, 2000, 114 Stat. 748, provided that: “This Act [enacting this chapter, amending sections 2151b, 2222, 2293, 2367 and 2395 of this title, and enacting provisions set out as notes under this section and sections 2151 and 2151b of this title] may be cited as the ‘Global AIDS and Tuberculosis Relief Act of 2000’.”
+Pub. L. 106–264, § 1, Aug. 19, 2000, 114 Stat. 748, provided that: “This Act [enacting this chapter, amending sections 2151b, 2222, 2293, 2367 and 2395 of this title, and enacting provisions set out as notes under this section and sections 2151 and 2151b of this title] may be cited as the ‘Global AIDS and Tuberculosis Relief Act of 2000’.”
 
-Pub. L. 106–264, title I, § 101, Aug. 19, 2000, 114 Stat. 749, provided that: “This title [enacting this chapter and amending sections 2151b, 2222 and 2293 of this title] may be cited as the ‘Global AIDS Research and Relief Act of 2000’.”
+Pub. L. 106–264, title I, § 101, Aug. 19, 2000, 114 Stat. 749, provided that: “This title [enacting this chapter and amending sections 2151b, 2222 and 2293 of this title] may be cited as the ‘Global AIDS Research and Relief Act of 2000’.”
 
-## § 6802. Findings and purposes
+## § 6802. Findings and purposes
 
 **(a) Findings** Congress makes the following findings:
 
@@ -109,11 +109,11 @@ Pub. L. 106–264, title I, § 101, Aug. 19, 2000, 114 Stat. 749, provided tha
 
 **(B)** assist in the development of an AIDS vaccine.
 
-(Pub. L. 106–264, title I, § 103, Aug. 19, 2000, 114 Stat. 749.)
+(Pub. L. 106–264, title I, § 103, Aug. 19, 2000, 114 Stat. 749.)
 
 ## SUBCHAPTER I—UNITED STATES ASSISTANCE
 
-### § 6811. Coordinated donor strategy for support and education of orphans in sub-Saharan Africa
+### § 6811. Coordinated donor strategy for support and education of orphans in sub-Saharan Africa
 
 **(a) Statement of policy**
 
@@ -127,9 +127,9 @@ The President shall coordinate the development of a multidonor strategy to provi
 
 In this section, the term “HIV/AIDS” means, with respect to an individual, an individual who is infected with the human immunodeficiency virus (HIV), the pathogen that causes the acquired immune deficiency virus (AIDS), or living with AIDS.
 
-(Pub. L. 106–264, title I, § 113, Aug. 19, 2000, 114 Stat. 753.)
+(Pub. L. 106–264, title I, § 113, Aug. 19, 2000, 114 Stat. 753.)
 
-### § 6812. African crisis response initiative and HIV/AIDS training
+### § 6812. African crisis response initiative and HIV/AIDS training
 
 **(a) Findings** Congress finds that—
 
@@ -145,13 +145,13 @@ In this section, the term “HIV/AIDS” means, with respect to an individual, a
 
 In undertaking education and training programs for military establishments in African countries, the United States shall ensure that classroom training under the African Crisis Response Initiative includes military-based education on the prevention of the spread of AIDS.
 
-(Pub. L. 106–264, title I, § 114, Aug. 19, 2000, 114 Stat. 754.)
+(Pub. L. 106–264, title I, § 114, Aug. 19, 2000, 114 Stat. 754.)
 
 ## SUBCHAPTER II—WORLD BANK AIDS TRUST FUND
 
 ### Part A—Establishment of the Fund
 
-#### § 6821. Establishment
+#### § 6821. Establishment
 
 **(a) Negotiations for establishment of Trust Fund** The Secretary of the Treasury shall seek to enter into negotiations with the World Bank or the Association, in consultation with the Administrator of the United States Agency for International Development and other United States Government agencies, and with the member nations of the World Bank or the Association and with other interested parties, for the establishment within the World Bank of—
 
@@ -187,9 +187,9 @@ This paragraph shall take effect upon the date the Secretary of the Treasury cer
 
 The position established by subparagraph (A) is abolished upon the date of termination of the Trust Fund.
 
-(Pub. L. 106–264, title I, § 121, Aug. 19, 2000, 114 Stat. 754.)
+(Pub. L. 106–264, title I, § 121, Aug. 19, 2000, 114 Stat. 754.)
 
-#### § 6822. Grant authorities
+#### § 6822. Grant authorities
 
 **(a) Program objectives**
 
@@ -229,9 +229,9 @@ Governments and nongovernmental organizations should be eligible to receive gran
 
 The Trust Fund should not make grants for the purpose of project development associated with bilateral or multilateral bank loans.
 
-(Pub. L. 106–264, title I, § 122, Aug. 19, 2000, 114 Stat. 755.)
+(Pub. L. 106–264, title I, § 122, Aug. 19, 2000, 114 Stat. 755.)
 
-#### § 6823. Administration
+#### § 6823. Administration
 
 **(a) Appointment of an Administrator**
 
@@ -261,9 +261,9 @@ The Trust Fund should be authorized to solicit and accept contributions from gov
 
 The Board of Trustees should ensure full and prompt public disclosure of the proposed objectives, financial organization, and operations of the Trust Fund.
 
-(Pub. L. 106–264, title I, § 123, Aug. 19, 2000, 114 Stat. 756.)
+(Pub. L. 106–264, title I, § 123, Aug. 19, 2000, 114 Stat. 756.)
 
-#### § 6824. Advisory Board
+#### § 6824. Advisory Board
 
 **(a) In general**
 
@@ -289,11 +289,11 @@ Except for travel expenses (including per diem in lieu of subsistence), no membe
 
 Notwithstanding any other provision of law (including an international agreement), a representative of the United States on the Advisory Board may not accept compensation for services performed as a member of the Board, except that such representative may accept travel expenses, including per diem in lieu of subsistence, while away from the representative’s home or regular place of business in the performance of services for the Board.
 
-(Pub. L. 106–264, title I, § 124, Aug. 19, 2000, 114 Stat. 756.)
+(Pub. L. 106–264, title I, § 124, Aug. 19, 2000, 114 Stat. 756.)
 
 ### Part B—Reports
 
-#### § 6831. Reports to Congress
+#### § 6831. Reports to Congress
 
 **(a) Annual reports by Treasury Secretary**
 
@@ -321,7 +321,7 @@ Not later than 1 year after August 19, 2000, and annually thereafter for the dur
 
 In subsection (a), the term “appropriate committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations, the Committee on Banking and Financial Services, and the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 106–264, title I, § 131, Aug. 19, 2000, 114 Stat. 757.)
+(Pub. L. 106–264, title I, § 131, Aug. 19, 2000, 114 Stat. 757.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -333,7 +333,7 @@ Committee on Banking and Financial Services of House of Representatives abolishe
 
 ### Part C—United States Financial Participation
 
-#### § 6841. Authorization of appropriations
+#### § 6841. Authorization of appropriations
 
 **(a) In general**
 
@@ -343,9 +343,9 @@ In addition to any other funds authorized to be appropriated for multilateral or
 
 Of the amounts authorized to be appropriated by subsection (a) for the fiscal years 2001 and 2002, $50,000,000 are authorized to be available each such fiscal year only for programs that benefit orphans.
 
-(Pub. L. 106–264, title I, § 141, Aug. 19, 2000, 114 Stat. 758.)
+(Pub. L. 106–264, title I, § 141, Aug. 19, 2000, 114 Stat. 758.)
 
-#### § 6842. Certification requirement
+#### § 6842. Certification requirement
 
 **(a) In general**
 
@@ -355,4 +355,4 @@ Prior to the initial obligation or expenditure of funds appropriated pursuant to
 
 The certification required by subsection (a), and the bases for that certification, shall be submitted by the Secretary of the Treasury to Congress.
 
-(Pub. L. 106–264, title I, § 142, Aug. 19, 2000, 114 Stat. 758.)
+(Pub. L. 106–264, title I, § 142, Aug. 19, 2000, 114 Stat. 758.)

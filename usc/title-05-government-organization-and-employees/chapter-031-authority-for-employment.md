@@ -19,31 +19,31 @@ retrieved: 2026-10-11
 
 **Amendments**
 
-2018—Pub. L. 115–232, div. A, title XI, § 1108(b), Aug. 13, 2018, 132 Stat. 2009, added items 3115 and 3116.
+2018—Pub. L. 115–232, div. A, title XI, § 1108(b), Aug. 13, 2018, 132 Stat. 2009, added items 3115 and 3116.
 
-2017—Pub. L. 115–1, § 2(b), Jan. 20, 2017, 131 Stat. 5, added subchapter V heading and items 3171 and 3172.
+2017—Pub. L. 115–1, § 2(b), Jan. 20, 2017, 131 Stat. 5, added subchapter V heading and items 3171 and 3172.
 
-2011—Pub. L. 112–81, div. A, title XI, § 1109(b), Dec. 31, 2011, 125 Stat. 1615, added item 3111a.
+2011—Pub. L. 112–81, div. A, title XI, § 1109(b), Dec. 31, 2011, 125 Stat. 1615, added item 3111a.
 
-2010—Pub. L. 111–203, title IX, § 929G(b), July 21, 2010, 124 Stat. 1856, added item 3114 and struck out former item 3114 “Appointment of accountants, economists, and examiners by the Securities and Exchange Commission”.
+2010—Pub. L. 111–203, title IX, § 929G(b), July 21, 2010, 124 Stat. 1856, added item 3114 and struck out former item 3114 “Appointment of accountants, economists, and examiners by the Securities and Exchange Commission”.
 
-2003—Pub. L. 108–44, § 2(b), July 3, 2003, 117 Stat. 843, added item 3114.
+2003—Pub. L. 108–44, § 2(b), July 3, 2003, 117 Stat. 843, added item 3114.
 
-2000—Pub. L. 106–398, § 1 [[div. A], title XI, § 1101(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–310, added subchapter IV heading and item 3161.
+2000—Pub. L. 106–398, § 1 [[div. A], title XI, § 1101(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–310, added subchapter IV heading and item 3161.
 
-1997—Pub. L. 105–61, title VI, § 638(b), Oct. 10, 1997, 111 Stat. 1317, added item 3113.
+1997—Pub. L. 105–61, title VI, § 638(b), Oct. 10, 1997, 111 Stat. 1317, added item 3113.
 
-1995—Pub. L. 104–66, title II, § 2181(a)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 3135 “Biennial report”.
+1995—Pub. L. 104–66, title II, § 2181(a)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 3135 “Biennial report”.
 
-1988—Pub. L. 100–325, § 1(b), May 30, 1988, 102 Stat. 581, added subchapter III heading and items 3151 and 3152.
+1988—Pub. L. 100–325, § 1(b), May 30, 1988, 102 Stat. 581, added subchapter III heading and items 3151 and 3152.
 
-1980—Pub. L. 96–523, § 1(b), Dec. 12, 1980, 94 Stat. 3040, substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for” in item 3102.
+1980—Pub. L. 96–523, § 1(b), Dec. 12, 1980, 94 Stat. 3040, substituted “personal assistants for handicapped employees, including blind and” for “reading assistants for blind employees and interpreting assistants for” in item 3102.
 
-1978—Pub. L. 95–454, title III, §§ 301(b), 302(b)(1), 307(b)(3), title IV, § 402(c), Oct. 13, 1978, 92 Stat. 1145, 1146, 1148, 1160, added heading for subchapter I, substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in item 3102, and added items 3111, 3112, heading for subchapter II, and items 3131 to 3136.
+1978—Pub. L. 95–454, title III, §§ 301(b), 302(b)(1), 307(b)(3), title IV, § 402(c), Oct. 13, 1978, 92 Stat. 1145, 1146, 1148, 1160, added heading for subchapter I, substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in item 3102, and added items 3111, 3112, heading for subchapter II, and items 3131 to 3136.
 
-Pub. L. 95–251, § 2(c)(2), Mar. 27, 1978, 92 Stat. 184, substituted “administrative law judges” for “hearing examiners” in item 3105.
+Pub. L. 95–251, § 2(c)(2), Mar. 27, 1978, 92 Stat. 184, substituted “administrative law judges” for “hearing examiners” in item 3105.
 
-1967—Pub. L. 90–206, title II, § 221(b), Dec. 16, 1967, 81 Stat. 640, added item 3110.
+1967—Pub. L. 90–206, title II, § 221(b), Dec. 16, 1967, 81 Stat. 640, added item 3110.
 
 ## SUBCHAPTER I—EMPLOYMENT AUTHORITIES
 
@@ -51,9 +51,9 @@ Pub. L. 95–251, § 2(c)(2), Mar. 27, 1978, 92 Stat. 184, substituted “admi
 
 **Amendments**
 
-1979—Pub. L. 96–54, § 2(a)(10), Aug. 14, 1979, 93 Stat. 381, added heading for subchapter I.
+1979—Pub. L. 96–54, § 2(a)(10), Aug. 14, 1979, 93 Stat. 381, added heading for subchapter I.
 
-### § 3101. General authority to employ
+### § 3101. General authority to employ
 
 Each Executive agency, military department, and the government of the District of Columbia may employ such number of employees of the various classes recognized by chapter 51 of this title as Congress may appropriate for from year to year.
 
@@ -63,12 +63,12 @@ Each Executive agency, military department, and the government of the District o
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 43. | R.S. § 169. June 26, 1930, ch. 618, 46 Stat. 817. |
-|  | 5 U.S.C. 514d (2d par.). | Sept. 21, 1944, ch. 412, § 709, 58 Stat. 743. |
+|  | 5 U.S.C. 43. | R.S. § 169. June 26, 1930, ch. 618, 46 Stat. 817. |
+|  | 5 U.S.C. 514d (2d par.). | Sept. 21, 1944, ch. 412, § 709, 58 Stat. 743. |
 
-The authorization is restated to conform to the style of this title. The word “Executive agency” are substituted for “executive department, independent establishment” in view of the definitions in sections 103, 104, and 105. The source statute (an act to authorize the appointment of employees in the executive branch etc.) applied to the entire executive branch, and government corporations as well as other agencies in the executive branch were included within the words “independent establishment”. The words “or a military department” are inserted to preserve the application of the source statute. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source statute for this subsection, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser’s note for section 301. The words “for services in the District of Columbia or elsewhere” are eliminated as surplusage. The reference to chapter 51 is substituted for the reference to the Classification Act of 1923 because the Act of Oct. 28, 1949, ch. 782, § 1106(a), 63 Stat. 972, amended the section to refer to the Classification Act of 1949, which is carried into this title. The proviso in former section 43 and former section 514d (2d par.) are omitted as superseded by former section 22a, which is carried into section 302. The last sentence of the Act of June 26, 1930, is omitted as executed.
+The authorization is restated to conform to the style of this title. The word “Executive agency” are substituted for “executive department, independent establishment” in view of the definitions in sections 103, 104, and 105. The source statute (an act to authorize the appointment of employees in the executive branch etc.) applied to the entire executive branch, and government corporations as well as other agencies in the executive branch were included within the words “independent establishment”. The words “or a military department” are inserted to preserve the application of the source statute. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source statute for this subsection, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser’s note for section 301. The words “for services in the District of Columbia or elsewhere” are eliminated as surplusage. The reference to chapter 51 is substituted for the reference to the Classification Act of 1923 because the Act of Oct. 28, 1949, ch. 782, § 1106(a), 63 Stat. 972, amended the section to refer to the Classification Act of 1949, which is carried into this title. The proviso in former section 43 and former section 514d (2d par.) are omitted as superseded by former section 22a, which is carried into section 302. The last sentence of the Act of June 26, 1930, is omitted as executed.
 
-This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
+This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 10, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -76,11 +76,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **Annual Reports on Staffing Levels for Political and Presidential Appointees**
 
-Pub. L. 119–75, div. D, title IV, § 424, Feb. 3, 2026, 140 Stat. 436, provided that: “No later than 30 days after the date of enactment of this Act [Feb. 3, 2026], and annually thereafter, the Departments and agencies funded under this Act [div. D of Pub. L. 119–75, see Tables for classification] shall submit a report to the House and Senate Committees on Appropriations on current staffing levels for all political and Presidential appointees in such Departments and agencies and categorized by which office within such Departments and agencies such employee is funded from, the office in which such employee carries out their daily work, such employee’s title, and such employee’s pay grade or the equivalent level based on the GS-scale.”
+Pub. L. 119–75, div. D, title IV, § 424, Feb. 3, 2026, 140 Stat. 436, provided that: “No later than 30 days after the date of enactment of this Act [Feb. 3, 2026], and annually thereafter, the Departments and agencies funded under this Act [div. D of Pub. L. 119–75, see Tables for classification] shall submit a report to the House and Senate Committees on Appropriations on current staffing levels for all political and Presidential appointees in such Departments and agencies and categorized by which office within such Departments and agencies such employee is funded from, the office in which such employee carries out their daily work, such employee’s title, and such employee’s pay grade or the equivalent level based on the GS-scale.”
 
 **Reports on Political Appointees Appointed to Nonpolitical Permanent Positions**
 
-Pub. L. 114–136, § 4, Mar. 18, 2016, 130 Stat. 305, provided that:
+Pub. L. 114–136, § 4, Mar. 18, 2016, 130 Stat. 305, provided that:
 
 > **“(a) Definitions.—** In this section—
 
@@ -160,7 +160,7 @@ Pub. L. 114–136, § 4, Mar. 18, 2016, 130 Stat. 305, provided that:
 
 **Reduction of Federal Full-Time Equivalent Positions**
 
-Pub. L. 103–226, § 5, Mar. 30, 1994, 108 Stat. 115, as amended by Pub. L. 103–329, title VI, § 631, Sept. 30, 1994, 108 Stat. 2424; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
+Pub. L. 103–226, § 5, Mar. 30, 1994, 108 Stat. 115, as amended by Pub. L. 103–329, title VI, § 631, Sept. 30, 1994, 108 Stat. 2424; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that:
 
 > **“(a) Definition.—** For the purpose of this section, the term ‘agency’ means an Executive agency (as defined by section 105 of title 5, United States Code), but does not include the Government Accountability Office.
 
@@ -222,175 +222,175 @@ Pub. L. 103–226, § 5, Mar. 30, 1994, 108 Stat. 115, as amended by Pub. L. 1
 
 **Limitation on Number of Civilian Employees in Executive Branch**
 
-Pub. L. 95–454, title III, § 311, Oct. 13, 1978, 92 Stat. 1153, which provided that the total number of civilian employees in the executive branch, on Sept. 30, 1979, on Sept. 30, 1980, and Sept. 30, 1981, shall not exceed the number of such employees on Sept. 30, 1977, terminated by its own terms on Jan. 31, 1981.
+Pub. L. 95–454, title III, § 311, Oct. 13, 1978, 92 Stat. 1153, which provided that the total number of civilian employees in the executive branch, on Sept. 30, 1979, on Sept. 30, 1980, and Sept. 30, 1981, shall not exceed the number of such employees on Sept. 30, 1977, terminated by its own terms on Jan. 31, 1981.
 
-Pub. L. 91–47, title V, § 503, July 22, 1969, 83 Stat. 83, repealed section 201 of Pub. L. 90–364, title II, June 28, 1968, 82 Stat. 270, which provided for limitation on the number of civilian officers and employees in the executive branch and which was formerly set out under this section.
+Pub. L. 91–47, title V, § 503, July 22, 1969, 83 Stat. 83, repealed section 201 of Pub. L. 90–364, title II, June 28, 1968, 82 Stat. 270, which provided for limitation on the number of civilian officers and employees in the executive branch and which was formerly set out under this section.
 
 **Citizenship Requirement for Employees Compensated From Appropriated Funds**
 
-Pub. L. 119–75, div. E, title VII, § 704, Feb. 3, 2026, 140 Stat. 492, provided that: “Unless otherwise specified in law during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in 8 U.S.C. 1324b(a)(3)(B); (3) is a person who is admitted as a refugee under 8 U.S.C. 1157 or is granted asylum under 8 U.S.C. 1158 and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: *Provided*, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: *Provided further*, That for purposes of paragraphs (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: *Provided further*, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: *Provided further*, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: *Provided further*, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: *Provided further*, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act [Feb. 3, 2026], or to international broadcasters employed by the Broadcasting Board of Governors [now the United States Agency for Global Media], or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: *Provided further*, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country.”
+Pub. L. 119–75, div. E, title VII, § 704, Feb. 3, 2026, 140 Stat. 492, provided that: “Unless otherwise specified in law during the current fiscal year, no part of any appropriation contained in this or any other Act shall be used to pay the compensation of any officer or employee of the Government of the United States (including any agency the majority of the stock of which is owned by the Government of the United States) whose post of duty is in the continental United States unless such person: (1) is a citizen of the United States; (2) is a person who is lawfully admitted for permanent residence and is seeking citizenship as outlined in 8 U.S.C. 1324b(a)(3)(B); (3) is a person who is admitted as a refugee under 8 U.S.C. 1157 or is granted asylum under 8 U.S.C. 1158 and has filed a declaration of intention to become a lawful permanent resident and then a citizen when eligible; or (4) is a person who owes allegiance to the United States: *Provided*, That for purposes of this section, affidavits signed by any such person shall be considered prima facie evidence that the requirements of this section with respect to his or her status are being complied with: *Provided further*, That for purposes of paragraphs (2) and (3) such affidavits shall be submitted prior to employment and updated thereafter as necessary: *Provided further*, That any person making a false affidavit shall be guilty of a felony, and upon conviction, shall be fined no more than $4,000 or imprisoned for not more than 1 year, or both: *Provided further*, That the above penal clause shall be in addition to, and not in substitution for, any other provisions of existing law: *Provided further*, That any payment made to any officer or employee contrary to the provisions of this section shall be recoverable in action by the Federal Government: *Provided further*, That this section shall not apply to any person who is an officer or employee of the Government of the United States on the date of enactment of this Act [Feb. 3, 2026], or to international broadcasters employed by the Broadcasting Board of Governors [now the United States Agency for Global Media], or to temporary employment of translators, or to temporary employment in the field service (not to exceed 60 days) as a result of emergencies: *Provided further*, That this section does not apply to the employment as Wildland firefighters for not more than 120 days of nonresident aliens employed by the Department of the Interior or the USDA Forest Service pursuant to an agreement with another country.”
 
 Similar provisions to those in the Citizenship Requirement for Employees Compensated From Appropriated Funds note above were contained in the following prior appropriation acts:
 
-Pub. L. 118–47, div. B, title VII, § 704, Mar. 23, 2024, 138 Stat. 573.
+Pub. L. 118–47, div. B, title VII, § 704, Mar. 23, 2024, 138 Stat. 573.
 
-Pub. L. 117–328, div. E, title VII, § 704, Dec. 29, 2022, 136 Stat. 4705.
+Pub. L. 117–328, div. E, title VII, § 704, Dec. 29, 2022, 136 Stat. 4705.
 
-Pub. L. 117–103, div. E, title VII, § 704, Mar. 15, 2022, 136 Stat. 293.
+Pub. L. 117–103, div. E, title VII, § 704, Mar. 15, 2022, 136 Stat. 293.
 
-Pub. L. 116–260, div. E, title VII, § 704, Dec. 27, 2020, 134 Stat. 1430.
+Pub. L. 116–260, div. E, title VII, § 704, Dec. 27, 2020, 134 Stat. 1430.
 
-Pub. L. 116–93, div. C, title VII, § 704, Dec. 20, 2019, 133 Stat. 2484.
+Pub. L. 116–93, div. C, title VII, § 704, Dec. 20, 2019, 133 Stat. 2484.
 
-Pub. L. 116–6, div. D, title VII, § 704, Feb. 15, 2019, 133 Stat. 187.
+Pub. L. 116–6, div. D, title VII, § 704, Feb. 15, 2019, 133 Stat. 187.
 
-Pub. L. 115–141, div. E, title VII, § 704, Mar. 23, 2018, 132 Stat. 588.
+Pub. L. 115–141, div. E, title VII, § 704, Mar. 23, 2018, 132 Stat. 588.
 
-Pub. L. 115–31, div. E, title VII, § 704, May 5, 2017, 131 Stat. 377.
+Pub. L. 115–31, div. E, title VII, § 704, May 5, 2017, 131 Stat. 377.
 
-Pub. L. 114–113, div. E, title VII, § 704, Dec. 18, 2015, 129 Stat. 2473.
+Pub. L. 114–113, div. E, title VII, § 704, Dec. 18, 2015, 129 Stat. 2473.
 
-Pub. L. 113–235, div. E, title VII, §§ 704, 750, Dec. 16, 2014, 128 Stat. 2379, 2392.
+Pub. L. 113–235, div. E, title VII, §§ 704, 750, Dec. 16, 2014, 128 Stat. 2379, 2392.
 
-Pub. L. 113–76, div. E, title VII, §§ 704, 744, Jan. 17, 2014, 128 Stat. 231, 243.
+Pub. L. 113–76, div. E, title VII, §§ 704, 744, Jan. 17, 2014, 128 Stat. 231, 243.
 
-Pub. L. 112–74, div. C, title VII, § 704, Dec. 23, 2011, 125 Stat. 929.
+Pub. L. 112–74, div. C, title VII, § 704, Dec. 23, 2011, 125 Stat. 929.
 
-Pub. L. 111–117, div. C, title VII, § 704, Dec. 16, 2009, 123 Stat. 3205.
+Pub. L. 111–117, div. C, title VII, § 704, Dec. 16, 2009, 123 Stat. 3205.
 
-Pub. L. 111–8, div. D, title VII, § 704, Mar. 11, 2009, 123 Stat. 680.
+Pub. L. 111–8, div. D, title VII, § 704, Mar. 11, 2009, 123 Stat. 680.
 
-Pub. L. 110–161, div. D, title VII, § 705, Dec. 26, 2007, 121 Stat. 2019.
+Pub. L. 110–161, div. D, title VII, § 705, Dec. 26, 2007, 121 Stat. 2019.
 
-Pub. L. 109–115, div. A, title VIII, § 805, Nov. 30, 2005, 119 Stat. 2496.
+Pub. L. 109–115, div. A, title VIII, § 805, Nov. 30, 2005, 119 Stat. 2496.
 
-Pub. L. 108–447, div. H, title VI, § 605, Dec. 8, 2004, 118 Stat. 3273.
+Pub. L. 108–447, div. H, title VI, § 605, Dec. 8, 2004, 118 Stat. 3273.
 
-Pub. L. 108–199, div. F, title VI, § 605, Jan. 23, 2004, 118 Stat. 350.
+Pub. L. 108–199, div. F, title VI, § 605, Jan. 23, 2004, 118 Stat. 350.
 
-Pub. L. 108–7, div. J, title VI, § 605, Feb. 20, 2003, 117 Stat. 464.
+Pub. L. 108–7, div. J, title VI, § 605, Feb. 20, 2003, 117 Stat. 464.
 
-Pub. L. 107–67, title VI, § 605, Nov. 12, 2001, 115 Stat. 545, as amended by Pub. L. 108–188, title I, § 110, Dec. 17, 2003, 117 Stat. 2757.
+Pub. L. 107–67, title VI, § 605, Nov. 12, 2001, 115 Stat. 545, as amended by Pub. L. 108–188, title I, § 110, Dec. 17, 2003, 117 Stat. 2757.
 
-Pub. L. 106–554, § 1(a)(3) [title VI, § 605], Dec. 21, 2000, 114 Stat. 2763, 2763A–155.
+Pub. L. 106–554, § 1(a)(3) [title VI, § 605], Dec. 21, 2000, 114 Stat. 2763, 2763A–155.
 
-Pub. L. 106–58, title VI, § 605, Sept. 29, 1999, 113 Stat. 466.
+Pub. L. 106–58, title VI, § 605, Sept. 29, 1999, 113 Stat. 466.
 
-Pub. L. 105–277, div. A, § 101(h) [title VI, § 606], Oct. 21, 1998, 112 Stat. 2681–480, 2681–513.
+Pub. L. 105–277, div. A, § 101(h) [title VI, § 606], Oct. 21, 1998, 112 Stat. 2681–480, 2681–513.
 
-Pub. L. 105–61, title VI, § 606, Oct. 10, 1997, 111 Stat. 1309.
+Pub. L. 105–61, title VI, § 606, Oct. 10, 1997, 111 Stat. 1309.
 
-Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 606], Sept. 30, 1996, 110 Stat. 3009–314, 3009–354.
+Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 606], Sept. 30, 1996, 110 Stat. 3009–314, 3009–354.
 
-Pub. L. 104–52, title VI, § 606, Nov. 19, 1995, 109 Stat. 497.
+Pub. L. 104–52, title VI, § 606, Nov. 19, 1995, 109 Stat. 497.
 
-Pub. L. 103–329, title VI, § 606, Sept. 30, 1994, 108 Stat. 2416.
+Pub. L. 103–329, title VI, § 606, Sept. 30, 1994, 108 Stat. 2416.
 
-Pub. L. 103–123, title VI, § 606, Oct. 28, 1993, 107 Stat. 1259.
+Pub. L. 103–123, title VI, § 606, Oct. 28, 1993, 107 Stat. 1259.
 
-Pub. L. 102–393, title VI, § 607, Oct. 6, 1992, 106 Stat. 1766.
+Pub. L. 102–393, title VI, § 607, Oct. 6, 1992, 106 Stat. 1766.
 
-Pub. L. 102–141, title VI, § 607, Oct. 28, 1991, 105 Stat. 868.
+Pub. L. 102–141, title VI, § 607, Oct. 28, 1991, 105 Stat. 868.
 
-Pub. L. 101–509, title VI, § 603, Nov. 5, 1990, 104 Stat. 1471.
+Pub. L. 101–509, title VI, § 603, Nov. 5, 1990, 104 Stat. 1471.
 
-Pub. L. 101–136, title VI, § 603, Nov. 3, 1989, 103 Stat. 816.
+Pub. L. 101–136, title VI, § 603, Nov. 3, 1989, 103 Stat. 816.
 
-Pub. L. 100–440, title VI, § 603, Sept. 22, 1988, 102 Stat. 1751.
+Pub. L. 100–440, title VI, § 603, Sept. 22, 1988, 102 Stat. 1751.
 
-Pub. L. 100–202, § 101(m) [title VI, § 603], Dec. 22, 1987, 101 Stat. 1329–390, 1329–419.
+Pub. L. 100–202, § 101(m) [title VI, § 603], Dec. 22, 1987, 101 Stat. 1329–390, 1329–419.
 
-Pub. L. 99–500, § 101(m) [title VI, § 603], Oct. 18, 1986, 100 Stat. 1783–308, 1783–328, and Pub. L. 99–591, § 101(m) [title VI, § 603], Oct. 30, 1986, 100 Stat. 3341–308, 3341–328.
+Pub. L. 99–500, § 101(m) [title VI, § 603], Oct. 18, 1986, 100 Stat. 1783–308, 1783–328, and Pub. L. 99–591, § 101(m) [title VI, § 603], Oct. 30, 1986, 100 Stat. 3341–308, 3341–328.
 
-Pub. L. 99–190, title I, § 101(h) [H.R. 3036, title VI, § 603], Dec. 19, 1985, 99 Stat. 1291.
+Pub. L. 99–190, title I, § 101(h) [H.R. 3036, title VI, § 603], Dec. 19, 1985, 99 Stat. 1291.
 
-Pub. L. 98–473, title I, § 101(j) [H.R. 5798, title VI, § 604], Oct. 12, 1984, 98 Stat. 1963.
+Pub. L. 98–473, title I, § 101(j) [H.R. 5798, title VI, § 604], Oct. 12, 1984, 98 Stat. 1963.
 
-Pub. L. 98–151, § 101(f) [H.R. 4139, title VI, § 603], Nov. 14, 1983, 97 Stat. 973.
+Pub. L. 98–151, § 101(f) [H.R. 4139, title VI, § 603], Nov. 14, 1983, 97 Stat. 973.
 
-Pub. L. 97–377, title I, § 101(a) [incorporating H.R. 4121, title VI, § 603, for FY 1982], Dec. 21, 1982, 96 Stat. 1830.
+Pub. L. 97–377, title I, § 101(a) [incorporating H.R. 4121, title VI, § 603, for FY 1982], Dec. 21, 1982, 96 Stat. 1830.
 
-Pub. L. 97–92, § 101(a) [H.R. 4121, title VI, § 603], Dec. 15, 1981, 95 Stat. 1183.
+Pub. L. 97–92, § 101(a) [H.R. 4121, title VI, § 603], Dec. 15, 1981, 95 Stat. 1183.
 
-Pub. L. 96–536, § 101(a) [incorporating Pub. L. 96–74, title VI, § 602], Dec. 16, 1980, 94 Stat. 3166.
+Pub. L. 96–536, § 101(a) [incorporating Pub. L. 96–74, title VI, § 602], Dec. 16, 1980, 94 Stat. 3166.
 
-Pub. L. 96–74, title VI, § 602, Sept. 29, 1979, 93 Stat. 574.
+Pub. L. 96–74, title VI, § 602, Sept. 29, 1979, 93 Stat. 574.
 
-Pub. L. 95–429, title VI, § 602, Oct. 10, 1978, 92 Stat. 1015.
+Pub. L. 95–429, title VI, § 602, Oct. 10, 1978, 92 Stat. 1015.
 
-Pub. L. 95–81, title VI, § 602, July 31, 1977, 91 Stat. 354.
+Pub. L. 95–81, title VI, § 602, July 31, 1977, 91 Stat. 354.
 
-Pub. L. 94–419, title VII, § 750, Sept. 22, 1976, 90 Stat. 1299.
+Pub. L. 94–419, title VII, § 750, Sept. 22, 1976, 90 Stat. 1299.
 
-Pub. L. 94–363, title VI, § 602, July 14, 1976, 90 Stat. 977.
+Pub. L. 94–363, title VI, § 602, July 14, 1976, 90 Stat. 977.
 
-Pub. L. 94–212, title VII, § 753, Feb. 9, 1976, 90 Stat. 177.
+Pub. L. 94–212, title VII, § 753, Feb. 9, 1976, 90 Stat. 177.
 
-Pub. L. 94–91, title VI, § 602, Aug. 9, 1975, 89 Stat. 458.
+Pub. L. 94–91, title VI, § 602, Aug. 9, 1975, 89 Stat. 458.
 
-Pub. L. 93–381, title VI, § 602, Aug. 21, 1974, 88 Stat. 630.
+Pub. L. 93–381, title VI, § 602, Aug. 21, 1974, 88 Stat. 630.
 
-Pub. L. 93–143, title VI, § 602, Oct. 30, 1973, 87 Stat. 524.
+Pub. L. 93–143, title VI, § 602, Oct. 30, 1973, 87 Stat. 524.
 
-Pub. L. 92–351, title VI, § 602, July 13, 1972, 86 Stat. 487.
+Pub. L. 92–351, title VI, § 602, July 13, 1972, 86 Stat. 487.
 
-Pub. L. 92–49, title VI, § 602, July 9, 1971, 85 Stat. 122.
+Pub. L. 92–49, title VI, § 602, July 9, 1971, 85 Stat. 122.
 
-Pub. L. 91–439, title V, § 502, Oct. 7, 1970, 84 Stat. 902.
+Pub. L. 91–439, title V, § 502, Oct. 7, 1970, 84 Stat. 902.
 
-Pub. L. 91–144, title V, § 502, Dec. 11, 1969, 83 Stat. 336.
+Pub. L. 91–144, title V, § 502, Dec. 11, 1969, 83 Stat. 336.
 
-Pub. L. 90–479, title V, § 502, Aug. 12, 1968, 82 Stat. 717.
+Pub. L. 90–479, title V, § 502, Aug. 12, 1968, 82 Stat. 717.
 
-Pub. L. 90–147, title V, § 502, Nov. 20, 1967, 81 Stat. 483.
+Pub. L. 90–147, title V, § 502, Nov. 20, 1967, 81 Stat. 483.
 
-Pub. L. 89–689, title V, § 502, Oct. 15, 1966, 80 Stat. 1014.
+Pub. L. 89–689, title V, § 502, Oct. 15, 1966, 80 Stat. 1014.
 
-Pub. L. 89–299, title V, § 502, Oct. 28, 1965, 79 Stat. 1108.
+Pub. L. 89–299, title V, § 502, Oct. 28, 1965, 79 Stat. 1108.
 
-Pub. L. 88–511, title V, § 502, Aug. 30, 1964, 78 Stat. 693.
+Pub. L. 88–511, title V, § 502, Aug. 30, 1964, 78 Stat. 693.
 
-Pub. L. 88–257, title V, § 502, Dec. 31, 1963, 77 Stat. 855.
+Pub. L. 88–257, title V, § 502, Dec. 31, 1963, 77 Stat. 855.
 
-Pub. L. 87–880, title V, § 502, Oct. 24, 1962, 76 Stat. 1227.
+Pub. L. 87–880, title V, § 502, Oct. 24, 1962, 76 Stat. 1227.
 
-Pub. L. 87–125, title V, § 502, Aug. 3, 1961, 75 Stat. 282.
+Pub. L. 87–125, title V, § 502, Aug. 3, 1961, 75 Stat. 282.
 
-Pub. L. 86–642, title II, § 202, July 12, 1960, 74 Stat. 476.
+Pub. L. 86–642, title II, § 202, July 12, 1960, 74 Stat. 476.
 
-Pub. L. 86–79, title II, § 202, July 8, 1959, 73 Stat. 165.
+Pub. L. 86–79, title II, § 202, July 8, 1959, 73 Stat. 165.
 
-Pub. L. 85–468, title II, § 202, June 25, 1958, 72 Stat. 224.
+Pub. L. 85–468, title II, § 202, June 25, 1958, 72 Stat. 224.
 
-Pub. L. 85–48, title II, § 202, June 5, 1957, 71 Stat. 53.
+Pub. L. 85–48, title II, § 202, June 5, 1957, 71 Stat. 53.
 
-June 13, 1956, ch. 385, title II, § 202, 70 Stat. 280.
+June 13, 1956, ch. 385, title II, § 202, 70 Stat. 280.
 
-June 29, 1955, ch. 226, title II, § 202, 69 Stat. 195.
+June 29, 1955, ch. 226, title II, § 202, 69 Stat. 195.
 
-Aug. 26, 1954, ch. 935, Ch. XIII, § 1302, 68 Stat. 828.
+Aug. 26, 1954, ch. 935, Ch. XIII, § 1302, 68 Stat. 828.
 
-Aug. 7, 1953, ch. 340, Ch. XIII, § 1302, 67 Stat. 435.
+Aug. 7, 1953, ch. 340, Ch. XIII, § 1302, 67 Stat. 435.
 
-July 15, 1952, ch. 758, Ch. XIV, § 1402, 66 Stat. 659.
+July 15, 1952, ch. 758, Ch. XIV, § 1402, 66 Stat. 659.
 
-Nov. 1, 1951, ch. 664, Ch. XIII, § 1302, 65 Stat. 755.
+Nov. 1, 1951, ch. 664, Ch. XIII, § 1302, 65 Stat. 755.
 
-Sept. 6, 1950, ch. 897, Ch. XII, § 1202, 64 Stat. 763.
+Sept. 6, 1950, ch. 897, Ch. XII, § 1202, 64 Stat. 763.
 
-Aug. 24, 1949, ch. 506, title III, § 302, 63 Stat. 661.
+Aug. 24, 1949, ch. 506, title III, § 302, 63 Stat. 661.
 
-Apr. 20, 1948, ch. 219, title II, § 202, 62 Stat. 193.
+Apr. 20, 1948, ch. 219, title II, § 202, 62 Stat. 193.
 
-July 30, 1947, ch. 359, title II, § 202, 61 Stat. 608.
+July 30, 1947, ch. 359, title II, § 202, 61 Stat. 608.
 
-Mar. 28, 1946, ch. 113, title II, § 206, 60 Stat. 80.
+Mar. 28, 1946, ch. 113, title II, § 206, 60 Stat. 80.
 
-May 3, 1945, ch. 106, title II, § 206, 59 Stat. 132.
+May 3, 1945, ch. 106, title II, § 206, 59 Stat. 132.
 
-June 27, 1944, ch. 286, title II, § 205, 58 Stat. 385.
+June 27, 1944, ch. 286, title II, § 205, 58 Stat. 385.
 
-June 26, 1943, ch. 145, title II, § 205, 57 Stat. 196.
+June 26, 1943, ch. 145, title II, § 205, 57 Stat. 196.
 
 Citizenship requirement for permanent officers and employees of Census Bureau, see section 22 of Title 13, Census.
 
@@ -408,7 +408,7 @@ National Aeronautics and Space Administration employees, see section 20113 of Ti
 
 **Employment of Personnel During National Emergency Proclaimed on Dec. 16, 1950**
 
-Section 1310 of act Nov. 1, 1951, ch. 664, Ch. XIII, 65 Stat. 757, as amended June 5, 1952, ch. 369, Ch. XIII, § 1302, 66 Stat. 122; Sept. 1, 1954, ch. 1208, title VI, § 602, 68 Stat. 1115; Oct. 11, 1962, Pub. L. 87–793, § 717(b), 76 Stat. 858; Aug. 6, 1965, Pub. L. 89–114, 79 Stat. 448; Oct. 11, 1967, Pub. L. 90–105, § 3, 81 Stat. 274; Apr. 21, 1976, Pub. L. 94–273, § 4(5), 90 Stat. 377, provided that, upon the enactment of this Act [Nov. 1, 1951] and until termination of the national emergency proclaimed by the President on Dec. 16, 1950, agencies shall use their authority to require initial appointment be made on other than a permanent basis to limit the number of permanent employees, the Civil Service Commission facilitate the transfer of Federal employees from nondefense to defense activities with reemployment rights and make use of its authority to prohibit excessively rapid promotions, and agencies review certain positions annually and report to Congressional committees. All powers and authorities under section 1310 of act Nov. 1, 1951, as amended, terminated 2 years from Sept. 14, 1976, pursuant to Pub. L. 94–412, title I, § 101, Sept. 14, 1976, 90 Stat. 1255 (50 U.S.C. 1601).
+Section 1310 of act Nov. 1, 1951, ch. 664, Ch. XIII, 65 Stat. 757, as amended June 5, 1952, ch. 369, Ch. XIII, § 1302, 66 Stat. 122; Sept. 1, 1954, ch. 1208, title VI, § 602, 68 Stat. 1115; Oct. 11, 1962, Pub. L. 87–793, § 717(b), 76 Stat. 858; Aug. 6, 1965, Pub. L. 89–114, 79 Stat. 448; Oct. 11, 1967, Pub. L. 90–105, § 3, 81 Stat. 274; Apr. 21, 1976, Pub. L. 94–273, § 4(5), 90 Stat. 377, provided that, upon the enactment of this Act [Nov. 1, 1951] and until termination of the national emergency proclaimed by the President on Dec. 16, 1950, agencies shall use their authority to require initial appointment be made on other than a permanent basis to limit the number of permanent employees, the Civil Service Commission facilitate the transfer of Federal employees from nondefense to defense activities with reemployment rights and make use of its authority to prohibit excessively rapid promotions, and agencies review certain positions annually and report to Congressional committees. All powers and authorities under section 1310 of act Nov. 1, 1951, as amended, terminated 2 years from Sept. 14, 1976, pursuant to Pub. L. 94–412, title I, § 101, Sept. 14, 1976, 90 Stat. 1255 (50 U.S.C. 1601).
 
 **Executive Documents**
 
@@ -504,7 +504,7 @@ Donald J. Trump.
 
 Memorandum of the President of the United States, dated Jan. 20, 1981, 46 F.R. 9907, provided for a freeze on the hiring of Federal civilian employees in the executive branch.
 
-### § 3102. Employment of personal assistants for handicapped employees, including blind and deaf employees
+### § 3102. Employment of personal assistants for handicapped employees, including blind and deaf employees
 
 **(a)** For the purpose of this section—
 
@@ -516,9 +516,9 @@ Memorandum of the President of the United States, dated Jan. 20, 1981, 46 F.R. 9
 
 **(C)** an office, agency, or other establishment in the judicial branch;
 
-**(2)** “handicapped employee” means an individual employed by an agency who is blind or deaf or who otherwise qualifies as a handicapped individual within the meaning of section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 794); 1
+**(2)** “handicapped employee” means an individual employed by an agency who is blind or deaf or who otherwise qualifies as a handicapped individual within the meaning of section 501 of the Rehabilitation Act of 1973 (29 U.S.C. 794); 1
 
-<sup>1</sup>  So in original. Probably should be “(29 U.S.C. 791);”.
+<sup>1</sup> So in original. Probably should be “(29 U.S.C. 791);”.
 
 and
 
@@ -552,7 +552,7 @@ Such employment may include the employing of a reading assistant or assistants f
 
 **(e)** This section may not be held or considered to prevent or limit in any way the assignment to a handicapped employee (including a blind or deaf employee) by an agency of clerical or secretarial assistance, at the expense of the agency under statutes and regulations currently applicable at the time, if that assistance normally is provided, or authorized to be provided, in that manner under currently applicable statutes and regulations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 414; Pub. L. 90–623, § 1(3), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 95–454, title III, § 302(a), (b)(2), Oct. 13, 1978, 92 Stat. 1145, 1146; Pub. L. 96–54, § 2(a)(11), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–523, § 1(a), Dec. 12, 1980, 94 Stat. 3039; Pub. L. 97–258, § 3(a)(3), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–518, title III, § 311, Nov. 13, 2000, 114 Stat. 2421; Pub. L. 106–553, § 1(a)(2) [title III, § 307], Dec. 21, 2000, 114 Stat. 2762, 2762A–86.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 414; Pub. L. 90–623, § 1(3), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 95–454, title III, § 302(a), (b)(2), Oct. 13, 1978, 92 Stat. 1145, 1146; Pub. L. 96–54, § 2(a)(11), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–523, § 1(a), Dec. 12, 1980, 94 Stat. 3039; Pub. L. 97–258, § 3(a)(3), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–518, title III, § 311, Nov. 13, 2000, 114 Stat. 2421; Pub. L. 106–553, § 1(a)(2) [title III, § 307], Dec. 21, 2000, 114 Stat. 2762, 2762A–86.)
 
 **Historical and Revision Notes**
 
@@ -564,7 +564,7 @@ In subsection (a)(1), the word “agency” is substituted for “department”.
 
 In subsection (a)(3), the words “individual employed” are substituted for “employee” so as to include individuals employed by the government of the District of Columbia who are not employees as defined by section 2105.
 
-In subsection (b), the word “may” is substituted for “is authorized” and the words “in his discretion” are omitted as unnecessary in view of the permissive nature of the authority. The words “in the provisions of this title governing appointment in the competitive service” are substituted for “the civil service rules”. The words “section 209 of title 18” are substituted for “section 1914 of title 18” on authority of the Act of Oct. 24, 1962, Pub. L. 87–849, § 2, 76 Stat. 1126.
+In subsection (b), the word “may” is substituted for “is authorized” and the words “in his discretion” are omitted as unnecessary in view of the permissive nature of the authority. The words “in the provisions of this title governing appointment in the competitive service” are substituted for “the civil service rules”. The words “section 209 of title 18” are substituted for “section 1914 of title 18” on authority of the Act of Oct. 24, 1962, Pub. L. 87–849, § 2, 76 Stat. 1126.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -582,15 +582,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1979—Subsec. (a)(2). Pub. L. 96–54 substituted “Mayor” for “Commissioner”.
 
-1978—Pub. L. 95–454, § 302(b)(2), substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in section catchline.
+1978—Pub. L. 95–454, § 302(b)(2), substituted “reading assistants for blind employees and interpreting assistants for deaf employees” for “readers for blind employees” in section catchline.
 
-Subsec. (a)(4), (5). Pub. L. 95–454, § 302(a)(1), added par. (4) and redesignated former par. (4) as (5).
+Subsec. (a)(4), (5). Pub. L. 95–454, § 302(a)(1), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (b). Pub. L. 95–454, § 302(a)(2), inserted provisions respecting applicability to employment and compensation for interpreting assistant or assistants for deaf employees.
+Subsec. (b). Pub. L. 95–454, § 302(a)(2), inserted provisions respecting applicability to employment and compensation for interpreting assistant or assistants for deaf employees.
 
-Subsec. (c). Pub. L. 95–454, § 302(a)(3), inserted “or deaf” after “blind”.
+Subsec. (c). Pub. L. 95–454, § 302(a)(3), inserted “or deaf” after “blind”.
 
-Subsec. (d). Pub. L. 95–454, § 302(a)(4), added subsec. (d).
+Subsec. (d). Pub. L. 95–454, § 302(a)(4), added subsec. (d).
 
 1968—Subsec. (a)(2). Pub. L. 90–623 substituted “Commissioner” for “Board of Commissioners”.
 
@@ -598,7 +598,7 @@ Subsec. (d). Pub. L. 95–454, § 302(a)(4), added subsec. (d).
 
 **Effective Date of 1980 Amendment**
 
-Pub. L. 96–523, § 3, Dec. 12, 1980, 94 Stat. 3040, provided that: “The amendments made by this Act [amending this section, section 7 of the Federal Advisory Committee Act, formerly set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 of Title 39, Postal Service] shall take effect sixty days after the date of the enactment of this Act [Dec. 12, 1980].”
+Pub. L. 96–523, § 3, Dec. 12, 1980, 94 Stat. 3040, provided that: “The amendments made by this Act [amending this section, section 7 of the Federal Advisory Committee Act, formerly set out in the Appendix to this title, section 604 of Title 28, Judiciary and Judicial Procedure, and section 410 of Title 39, Postal Service] shall take effect sixty days after the date of the enactment of this Act [Dec. 12, 1980].”
 
 **Effective Date of 1979 Amendment**
 
@@ -612,7 +612,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
 
-### § 3103. Employment at seat of Government only for services rendered
+### § 3103. Employment at seat of Government only for services rendered
 
 An individual may be employed in the civil service in an Executive department at the seat of Government only for services actually rendered in connection with and for the purposes of the appropriation from which he is paid. An individual who violates this section shall be removed from the service.
 
@@ -622,18 +622,18 @@ An individual may be employed in the civil service in an Executive department at
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 46. | Aug. 5, 1882, ch. 389, § 4 (less 255th through 316th words), 22 Stat. 255. Sept. 23, 1950, ch. 1010, § 7, 64 Stat. 986. |
-|  | 5 U.S.C. 47 (so much as relates to removal). | Aug. 23, 1912, ch. 350, § 5 (so much as relates to removal), 37 Stat. 414. |
+|  | 5 U.S.C. 46. | Aug. 5, 1882, ch. 389, § 4 (less 255th through 316th words), 22 Stat. 255. Sept. 23, 1950, ch. 1010, § 7, 64 Stat. 986. |
+|  | 5 U.S.C. 47 (so much as relates to removal). | Aug. 23, 1912, ch. 350, § 5 (so much as relates to removal), 37 Stat. 414. |
 
 The words “civil officer, draughtsman, copyist, messenger, assistant messenger, mechanic, watchman, laborer, or other employee” are omitted as obsolete language and “individual” is substituted therefor. The words “in the civil service” are added to preserve the application of former section 46 to civilian employees. The words “or subordinate bureaus or offices thereof” are omitted as surplusage. The words “and at the rate of pay usual and proper for the services” are omitted as surplusage since all pay rates are governed by statute.
 
-All after the 75th words of section 4 of the Act of Aug. 5, 1882, as amended by section 7(b) of the Act of Sept. 23, 1950, except the 255th through 316th words, are omitted as executed. The 255th through 296th words are scheduled for repeal as superseded (see Table II–b), and the 297th through 316th words are codified in section 5501. The Act of Aug. 15, 1876, ch. 287, § 5, 19 Stat. 169, cited as authority for former section 46 was repealed by section 7(a) of the Act of Sept. 23, 1950.
+All after the 75th words of section 4 of the Act of Aug. 5, 1882, as amended by section 7(b) of the Act of Sept. 23, 1950, except the 255th through 316th words, are omitted as executed. The 255th through 296th words are scheduled for repeal as superseded (see Table II–b), and the 297th through 316th words are codified in section 5501. The Act of Aug. 15, 1876, ch. 287, § 5, 19 Stat. 169, cited as authority for former section 46 was repealed by section 7(a) of the Act of Sept. 23, 1950.
 
 In the last sentence, the word “removed” is substituted for “summarily removed” because of the provisions of the Lloyd-LaFollette Act, 37 Stat. 555, as amended, and the Veterans’ Preference Act of 1944, 58 Stat. 387, as amended, which are carried into this title.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 3104. Employment of specially qualified scientific and professional personnel
+### § 3104. Employment of specially qualified scientific and professional personnel
 
 **(a)** The Director of the Office of Personnel Management may establish, and from time to time revise, the maximum number of scientific or professional positions for carrying out research and development functions which require the services of specially qualified personnel which may be established outside of the General Schedule. Any such position may be established by action of the Director or, under such standards and procedures as the Office prescribes and publishes in such form as the Director may determine (including procedures under which the prior approval of the Director may be required), by agency action.
 
@@ -641,7 +641,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 **(c)** In addition to the number of positions authorized by subsection (a) of this section, the Librarian of Congress may establish, without regard to the second sentence of subsection (a) of this section, not more than 8 scientific or professional positions to carry out the research and development functions of the Library of Congress which require the services of specially qualified personnel.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 90–83, § 1(7), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, § 6(c)(5), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IV, § 414(a)(2)(B), (C), title VIII, § 801(a)(3)(C), Oct. 13, 1978, 92 Stat. 1178, 1221; Pub. L. 99–386, title I, § 101(b), Aug. 22, 1986, 100 Stat. 821; Pub. L. 102–378, § 2(7), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 110–372, § 2(c)(1), Oct. 8, 2008, 122 Stat. 4044.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 90–83, § 1(7), Sept. 11, 1967, 81 Stat. 196; Pub. L. 91–375, § 6(c)(5), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IV, § 414(a)(2)(B), (C), title VIII, § 801(a)(3)(C), Oct. 13, 1978, 92 Stat. 1178, 1221; Pub. L. 99–386, title I, § 101(b), Aug. 22, 1986, 100 Stat. 821; Pub. L. 102–378, § 2(7), Oct. 2, 1992, 106 Stat. 1346; Pub. L. 110–372, § 2(c)(1), Oct. 8, 2008, 122 Stat. 4044.)
 
 **Historical and Revision Notes**
 
@@ -649,27 +649,27 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-| (a) | 5 U.S.C. 1161 (less 2d sentence of (g)). | Oct. 4, 1961, Pub. L. 87–367, § 202 “Sec. 1”, 75 Stat. 789. Oct. 11, 1962, Pub. L. 87–793, § 1001(a)(2) “(g) (less 2d sentence)”, 76 Stat. 863. |
-| (b) | 5 U.S.C. 1162(c). | Oct. 4, 1961, Pub. L. 87–367, § 202 “Sec. 2(c)”, 75 Stat. 790. |
-| (c) | 5 U.S.C. 1163. | Oct. 4, 1961, Pub. L. 87–367, § 202 “Sec. 3”, 75 Stat. 790. |
+| (a) | 5 U.S.C. 1161 (less 2d sentence of (g)). | Oct. 4, 1961, Pub. L. 87–367, § 202 “Sec. 1”, 75 Stat. 789. Oct. 11, 1962, Pub. L. 87–793, § 1001(a)(2) “(g) (less 2d sentence)”, 76 Stat. 863. |
+| (b) | 5 U.S.C. 1162(c). | Oct. 4, 1961, Pub. L. 87–367, § 202 “Sec. 2(c)”, 75 Stat. 790. |
+| (c) | 5 U.S.C. 1163. | Oct. 4, 1961, Pub. L. 87–367, § 202 “Sec. 3”, 75 Stat. 790. |
 
 In subsection (a), the authority to fix pay is omitted and carried into section 5361.
 
 In subsection (b), the words “subsequent to February 1, 1958” appearing in former section 1162(c) are omitted as obsolete.
 
-The Act of Aug. 1, 1947, ch. 433, 61 Stat. 715, as amended by the following Acts is omitted from the derivation and repealed (see Table II) as superseded by the Act of Oct. 4, 1961, Pub. L. 87–367, § 202, 75 Stat. 789, which is carried into this section and sections 3325 and 5361:
+The Act of Aug. 1, 1947, ch. 433, 61 Stat. 715, as amended by the following Acts is omitted from the derivation and repealed (see Table II) as superseded by the Act of Oct. 4, 1961, Pub. L. 87–367, § 202, 75 Stat. 789, which is carried into this section and sections 3325 and 5361:
 
 June 24, 1948, ch. 624, 62 Stat. 604.
 
 July 13, 1949, ch. 332, 63 Stat. 410.
 
-July 31, 1956, ch. 804 § 501(a), 70 Stat. 761.
+July 31, 1956, ch. 804 § 501(a), 70 Stat. 761.
 
-Aug. 10, 1956, ch. 1041, § 28, 70A Stat. 631.
+Aug. 10, 1956, ch. 1041, § 28, 70A Stat. 631.
 
-June 20, 1958, Pub. L. 85–462, § 12(a)–(d), 72 Stat. 213A.
+June 20, 1958, Pub. L. 85–462, § 12(a)–(d), 72 Stat. 213A.
 
-Sept. 23, 1959, Pub. L. 86–370, § 4, 73 Stat. 651.
+Sept. 23, 1959, Pub. L. 86–370, § 4, 73 Stat. 651.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -677,7 +677,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 | *Section of title 5* | *Source (U.S. Code)* | *Source (Statutes at Large)* |
 |---|---|---|
-| 3104(a)(5) | 5 App.: 1161(e). | July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262. |
+| 3104(a)(5) | 5 App.: 1161(e). | July 5, 1966, Pub. L. 89–492 § 5, 80 Stat. 262. |
 
 The amendment to 5 U.S.C. 3104(a)(5) reflects Public Law 89–492, section 5.
 
@@ -697,13 +697,13 @@ The General Schedule, referred to in subsec. (a), is set out under section 5332 
 
 1986—Pub. L. 99–386 struck out subsec. (b) relating to reports to Congress, redesignated pars. (1), (2), and (3) of subsec. (a) as subsecs. (a), (b), and (c), respectively, and substituted “subsection (a) of this section” for “paragraph (1) of this subsection” wherever appearing in subsecs. (b) and (c) as redesignated.
 
-1978—Subsec. (a). Pub. L. 95–454, § 414(a)(2)(B), substituted provisions authorizing the Director to establish the maximum number of scientific or professional positions, excepting Senior Executive Service positions, and authorizing the Librarian to establish not more than 8 such positions for provisions authorizing the head of certain named agencies to establish a specified number of scientific or professional positions.
+1978—Subsec. (a). Pub. L. 95–454, § 414(a)(2)(B), substituted provisions authorizing the Director to establish the maximum number of scientific or professional positions, excepting Senior Executive Service positions, and authorizing the Librarian to establish not more than 8 such positions for provisions authorizing the head of certain named agencies to establish a specified number of scientific or professional positions.
 
-Subsec. (b). Pub. L. 95–454, § 414(a)(2)(B), (C), struck out subsec. (b), redesignated subsec. (c) as (b), and substituted in subsec. (b), as redesignated, “to fix under section 5361 of this title the pay for positions established under this section” for “to establish and fix the pay of positions under this section and section 5361 of this title”.
+Subsec. (b). Pub. L. 95–454, § 414(a)(2)(B), (C), struck out subsec. (b), redesignated subsec. (c) as (b), and substituted in subsec. (b), as redesignated, “to fix under section 5361 of this title the pay for positions established under this section” for “to establish and fix the pay of positions under this section and section 5361 of this title”.
 
-Pub. L. 95–454, § 801(a)(3)(C), substituted in subsec. (b), as redesignated, “section 5371 of this title” for “section 5361 of this title”.
+Pub. L. 95–454, § 801(a)(3)(C), substituted in subsec. (b), as redesignated, “section 5371 of this title” for “section 5361 of this title”.
 
-Subsec. (c). Pub. L. 95–454, § 414(a)(2)(C)(i), redesignated subsec. (c) as (b).
+Subsec. (c). Pub. L. 95–454, § 414(a)(2)(C)(i), redesignated subsec. (c) as (b).
 
 1970—Subsec. (a)(5). Pub. L. 91–375 repealed provision for employment in Post Office Department in scientific or professional positions of not more than 6 qualified individuals.
 
@@ -725,47 +725,47 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 **Retention Pay for Employees Subject to a Reduction in Pay Upon Termination of Bureau’s Personnel Management Demonstration Project**
 
-Pub. L. 114–113, div. B, title II, § 206, Dec. 18, 2015, 129 Stat. 2312, provided that: “Funds appropriated by this or any other Act, with respect to any fiscal year, under the heading ‘Bureau of Alcohol, Tobacco, Firearms and Explosives, Salaries and Expenses’ shall be available for retention pay for any employee who would otherwise be subject to a reduction in pay upon termination of the Bureau’s Personnel Management Demonstration Project (as transferred to the Attorney General by section 1115 of the Homeland Security Act of 2002, Public Law 107–296 (28 U.S.C. 599B)): *Provided*, That such retention pay shall comply with section 5363 of title 5, United States Code, and related Office of Personnel Management regulations, except as provided in this section: *Provided further*, That such retention pay shall be paid at the employee’s rate of pay immediately prior to the termination of the demonstration project and shall not be subject to the limitation set forth in section 5304(g)(1) of title 5, United States Code, and related regulations.”
+Pub. L. 114–113, div. B, title II, § 206, Dec. 18, 2015, 129 Stat. 2312, provided that: “Funds appropriated by this or any other Act, with respect to any fiscal year, under the heading ‘Bureau of Alcohol, Tobacco, Firearms and Explosives, Salaries and Expenses’ shall be available for retention pay for any employee who would otherwise be subject to a reduction in pay upon termination of the Bureau’s Personnel Management Demonstration Project (as transferred to the Attorney General by section 1115 of the Homeland Security Act of 2002, Public Law 107–296 (28 U.S.C. 599B)): *Provided*, That such retention pay shall comply with section 5363 of title 5, United States Code, and related Office of Personnel Management regulations, except as provided in this section: *Provided further*, That such retention pay shall be paid at the employee’s rate of pay immediately prior to the termination of the demonstration project and shall not be subject to the limitation set forth in section 5304(g)(1) of title 5, United States Code, and related regulations.”
 
 **Experimental Personnel Program for Scientific and Technical Personnel**
 
-Pub. L. 105–261, div. A, title XI, § 1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A] title X, § 1087(d)(6), title XI, § 1113], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, § 921(g), title XI, § 1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, § 1103, Oct. 17, 2006, 120 Stat. 2408; Pub. L. 110–181, div. A, title XI, § 1108, Jan. 28, 2008, 122 Stat. 358; Pub. L. 111–84, div. A, title XI, § 1104, Oct. 28, 2009, 123 Stat. 2485; Pub. L. 112–81, div. A, title XI, § 1110, Dec. 31, 2011, 125 Stat. 1615; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vi), title XI, § 1102(a), Jan. 2, 2013, 126 Stat. 1950, 1973; Pub. L. 113–291, div. A, title XI, § 1104, Dec. 19, 2014, 128 Stat. 3525; Pub. L. 114–92, div. A, title X, §§ 1075(b), 1081(b)(5), Nov. 25, 2015, 129 Stat. 997, 1001, allowed Secretary of Defense, from Oct. 17, 1998, to Sept. 30, 2019, to carry out a program of experimental use of special personnel management authority to facilitate recruitment of eminent experts in science or engineering for certain research and development projects, prior to repeal by Pub. L. 114–328, div. A, title XI, § 1121(b), Dec. 23, 2016, 130 Stat. 2452. See section 4092 of Title 10, Armed Forces.
+Pub. L. 105–261, div. A, title XI, § 1101, Oct. 17, 1998, 112 Stat. 2139, as amended by Pub. L. 106–65, div. A, title X, § 1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A] title X, § 1087(d)(6), title XI, § 1113], Oct. 30, 2000, 114 Stat. 1654, 1654A–293, 1654A–314; Pub. L. 108–136, div. A, title IX, § 921(g), title XI, § 1116, Nov. 24, 2003, 117 Stat. 1570, 1636; Pub. L. 109–364, div. A, title XI, § 1103, Oct. 17, 2006, 120 Stat. 2408; Pub. L. 110–181, div. A, title XI, § 1108, Jan. 28, 2008, 122 Stat. 358; Pub. L. 111–84, div. A, title XI, § 1104, Oct. 28, 2009, 123 Stat. 2485; Pub. L. 112–81, div. A, title XI, § 1110, Dec. 31, 2011, 125 Stat. 1615; Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(vi), title XI, § 1102(a), Jan. 2, 2013, 126 Stat. 1950, 1973; Pub. L. 113–291, div. A, title XI, § 1104, Dec. 19, 2014, 128 Stat. 3525; Pub. L. 114–92, div. A, title X, §§ 1075(b), 1081(b)(5), Nov. 25, 2015, 129 Stat. 997, 1001, allowed Secretary of Defense, from Oct. 17, 1998, to Sept. 30, 2019, to carry out a program of experimental use of special personnel management authority to facilitate recruitment of eminent experts in science or engineering for certain research and development projects, prior to repeal by Pub. L. 114–328, div. A, title XI, § 1121(b), Dec. 23, 2016, 130 Stat. 2452. See section 4092 of Title 10, Armed Forces.
 
 **FBI Personnel Management System for Non-Special Agent Employees; Secretary of the Treasury**
 
-Pub. L. 113–235, div. B, title II, § 206, Dec. 16, 2014, 128 Stat. 2197, provided that: “The Attorney General is authorized to extend through September 30, 2015, the Personnel Management Demonstration Project transferred to the Attorney General pursuant to [former] section 1115 of the Homeland Security Act of 2002 (Public Law 107–296; 28 U.S.C. 599B) without limitation on the number of employees or the positions covered.”
+Pub. L. 113–235, div. B, title II, § 206, Dec. 16, 2014, 128 Stat. 2197, provided that: “The Attorney General is authorized to extend through September 30, 2015, the Personnel Management Demonstration Project transferred to the Attorney General pursuant to [former] section 1115 of the Homeland Security Act of 2002 (Public Law 107–296; 28 U.S.C. 599B) without limitation on the number of employees or the positions covered.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 113–76, div. B, title II, § 206, Jan. 17, 2014, 128 Stat. 67.
+Pub. L. 113–76, div. B, title II, § 206, Jan. 17, 2014, 128 Stat. 67.
 
-Pub. L. 113–6, div. B, title II, § 206, Mar. 26, 2013, 127 Stat. 257.
+Pub. L. 113–6, div. B, title II, § 206, Mar. 26, 2013, 127 Stat. 257.
 
-Pub. L. 112–55, div. B, title II, § 206, Nov. 18, 2011, 125 Stat. 619.
+Pub. L. 112–55, div. B, title II, § 206, Nov. 18, 2011, 125 Stat. 619.
 
-Pub. L. 111–117, div. B, title II, § 206, Dec. 16, 2009, 123 Stat. 3139.
+Pub. L. 111–117, div. B, title II, § 206, Dec. 16, 2009, 123 Stat. 3139.
 
-Pub. L. 111–8, div. B, title II, § 206, Mar. 11, 2009, 123 Stat. 585.
+Pub. L. 111–8, div. B, title II, § 206, Mar. 11, 2009, 123 Stat. 585.
 
-Pub. L. 110–161, div. B, title II, § 206, Dec. 26, 2007, 121 Stat. 1913.
+Pub. L. 110–161, div. B, title II, § 206, Dec. 26, 2007, 121 Stat. 1913.
 
-Pub. L. 109–108, title I, § 106, Nov. 22, 2005, 119 Stat. 2304.
+Pub. L. 109–108, title I, § 106, Nov. 22, 2005, 119 Stat. 2304.
 
-Pub. L. 108–447, div. B, title I, § 109, Dec. 8, 2004, 118 Stat. 2868.
+Pub. L. 108–447, div. B, title I, § 109, Dec. 8, 2004, 118 Stat. 2868.
 
-Pub. L. 105–119, title I, § 122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, § 102, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 107–67, title I, § 120, Nov. 12, 2001, 115 Stat. 525; Pub. L. 108–7, div. J, title I, § 119, Feb. 20, 2003, 117 Stat. 439; Pub. L. 108–199, div. F, title II, § 216, Jan. 23, 2004, 118 Stat. 320; Pub. L. 108–447, div. H, title II, § 216, Dec. 8, 2004, 118 Stat. 3241; Pub. L. 109–115, div. A, title II, § 216, Nov. 30, 2005, 119 Stat. 2439; Pub. L. 110–161, div. D, title I, § 115, Dec. 26, 2007, 121 Stat. 1978; Pub. L. 111–8, div. D, title I, § 113, Mar. 11, 2009, 123 Stat. 637; Pub. L. 111–117, div. C, title I, § 113, Dec. 16, 2009, 123 Stat. 3166; Pub. L. 112–74, div. C, title I, § 111, Dec. 23, 2011, 125 Stat. 890, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of 14 years from Oct. 21, 1998, personnel management demonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Bureau of Alcohol, Tobacco and Firearms, and further provided for submittal of reports to Congress and termination of authority to establish demonstration project on Nov. 26, 2000.
+Pub. L. 105–119, title I, § 122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, § 102, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 107–67, title I, § 120, Nov. 12, 2001, 115 Stat. 525; Pub. L. 108–7, div. J, title I, § 119, Feb. 20, 2003, 117 Stat. 439; Pub. L. 108–199, div. F, title II, § 216, Jan. 23, 2004, 118 Stat. 320; Pub. L. 108–447, div. H, title II, § 216, Dec. 8, 2004, 118 Stat. 3241; Pub. L. 109–115, div. A, title II, § 216, Nov. 30, 2005, 119 Stat. 2439; Pub. L. 110–161, div. D, title I, § 115, Dec. 26, 2007, 121 Stat. 1978; Pub. L. 111–8, div. D, title I, § 113, Mar. 11, 2009, 123 Stat. 637; Pub. L. 111–117, div. C, title I, § 113, Dec. 16, 2009, 123 Stat. 3166; Pub. L. 112–74, div. C, title I, § 111, Dec. 23, 2011, 125 Stat. 890, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of 14 years from Oct. 21, 1998, personnel management demonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Bureau of Alcohol, Tobacco and Firearms, and further provided for submittal of reports to Congress and termination of authority to establish demonstration project on Nov. 26, 2000.
 
 [Personnel management demonstration project transferred to Attorney General for continued use by Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, and Secretary of the Treasury for continued use by Tax and Trade Bureau, see section 599B of Title 28, Judiciary and Judicial Procedure.]
 
 **Termination of Authority To Establish Scientific or Professional Positions Outside the General Schedule**
 
-Pub. L. 95–454, title IV, § 414(a)(2)(A), Oct. 13, 1978, 92 Stat. 1177, provided that: “Notwithstanding any other provision of law (other than section 3104 of title 5, United States Code), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5) to establish scientific or professional positions outside of the General Schedule is hereby terminated.”
+Pub. L. 95–454, title IV, § 414(a)(2)(A), Oct. 13, 1978, 92 Stat. 1177, provided that: “Notwithstanding any other provision of law (other than section 3104 of title 5, United States Code), the authority granted to an agency (as defined in section 5102(a)(1) of such title 5) to establish scientific or professional positions outside of the General Schedule is hereby terminated.”
 
-Pub. L. 95–454, title IV, § 415(a)(3), Oct. 13, 1978, 92 Stat. 1179, provided that the provisions of section 414(a)(2)(A) take effect 180 days after Oct. 13, 1978.
+Pub. L. 95–454, title IV, § 415(a)(3), Oct. 13, 1978, 92 Stat. 1179, provided that the provisions of section 414(a)(2)(A) take effect 180 days after Oct. 13, 1978.
 
 **Limitations on Executive Positions Not To Apply to Individuals Occupying Those Positions on October 12, 1978**
 
-Pub. L. 95–454, title IV, § 414(a)(3), Oct. 13, 1978, 92 Stat. 1178, provided that:
+Pub. L. 95–454, title IV, § 414(a)(3), Oct. 13, 1978, 92 Stat. 1178, provided that:
 
 > **“(A)** The provisions of paragraphs (1) and (2) of this subsection [amending sections 3104 and 5108 of this title] shall not apply with respect to any position so long as the individual occupying such position on the day before the date of the enactment of this Act [Oct. 13, 1978] continues to occupy such position.
 
@@ -777,21 +777,21 @@ Pub. L. 95–454, title IV, § 414(a)(3), Oct. 13, 1978, 92 Stat. 1178, provid
 
 > shall take into account positions to which subparagraph (A) of this paragraph applies.”
 
-[Pub. L. 95–454, title IV, § 415(a)(3), Oct. 13, 1978, 92 Stat. 1179, provided that the provisions of section 414(a)(3) are effective 180 days after Oct. 13, 1978.]
+[Pub. L. 95–454, title IV, § 415(a)(3), Oct. 13, 1978, 92 Stat. 1179, provided that the provisions of section 414(a)(3) are effective 180 days after Oct. 13, 1978.]
 
-[References in laws to rates of pay for GS–16, 17, or 18, or to maximum rates of pay under General Schedule, to be considered references to rates payable under specified sections of this title, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of this title.]
+[References in laws to rates of pay for GS–16, 17, or 18, or to maximum rates of pay under General Schedule, to be considered references to rates payable under specified sections of this title, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under section 5376 of this title.]
 
-### § 3105. Appointment of administrative law judges
+### § 3105. Appointment of administrative law judges
 
 Each agency shall appoint as many administrative law judges as are necessary for proceedings required to be conducted in accordance with sections 556 and 557 of this title. Administrative law judges shall be assigned to cases in rotation so far as practicable, and may not perform duties inconsistent with their duties and responsibilities as administrative law judges.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 95–251, § 2(a)(1), (b)(2), (d)(1), Mar. 27, 1978, 92 Stat. 183, 184.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 415; Pub. L. 95–251, § 2(a)(1), (b)(2), (d)(1), Mar. 27, 1978, 92 Stat. 183, 184.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 1010 (1st sentence). | June 11, 1946, ch. 324, § 11 (1st sentence), 60 Stat. 244. |
+|  | 5 U.S.C. 1010 (1st sentence). | June 11, 1946, ch. 324, § 11 (1st sentence), 60 Stat. 244. |
 
 The words “Subject to the civil service” are omitted as unnecessary inasmuch as appointments are made subject to the civil service laws unless specifically excepted. The words “and other laws not inconsistent with this chapter” are omitted as unnecessary because of the organization of this title.
 
@@ -811,35 +811,35 @@ Hearing examiners appointed for Indian probate work pursuant to former section 3
 
 **References to Hearing Examiner Deemed References to Administrative Law Judge**
 
-Pub. L. 95–251, § 3, Mar. 27, 1978, 92 Stat. 184, provided that: “Any reference in any law, regulation, or order to a hearing examiner appointed under section 3105 of title 5, United States Code, shall be deemed to be a reference to an administrative law judge.”
+Pub. L. 95–251, § 3, Mar. 27, 1978, 92 Stat. 184, provided that: “Any reference in any law, regulation, or order to a hearing examiner appointed under section 3105 of title 5, United States Code, shall be deemed to be a reference to an administrative law judge.”
 
 **Executive Documents**
 
 **Hearing Examiners Employed by Department of Agriculture**
 
-Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of Agriculture not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to this title.
+Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of Agriculture not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to this title.
 
 **Hearing Examiners Employed by Department of Commerce**
 
-Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of Commerce not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Commerce by 1950 Reorg. Plan No. 5, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
+Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of Commerce not included in functions of officers, agencies, and employees of that Department transferred to Secretary of Commerce by 1950 Reorg. Plan No. 5, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
 
 **Hearing Examiners Employed by Department of the Interior**
 
-Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Interior not included in functions of officers, agencies, and employees of that Department transferred to Secretary of the Interior by 1950 Reorg. Plan No. 3, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, transferred set out in the Appendix to this title.
+Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Interior not included in functions of officers, agencies, and employees of that Department transferred to Secretary of the Interior by 1950 Reorg. Plan No. 3, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, transferred set out in the Appendix to this title.
 
 **Hearing Examiners Employed by Department of Justice**
 
-Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of that Department transferred to Attorney General by 1950 Reorg. Plan No. 2, § 1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
+Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of Justice not included in functions of officers, agencies, and employees of that Department transferred to Attorney General by 1950 Reorg. Plan No. 2, § 1, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to this title.
 
 **Hearing Examiners Employed by Department of Labor**
 
-Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of Labor not included in functions of officers, agencies, and employees of Department transferred to Secretary of Labor by 1950 Reorg. Plan No. 6, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
+Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of Labor not included in functions of officers, agencies, and employees of Department transferred to Secretary of Labor by 1950 Reorg. Plan No. 6, § 1, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to this title.
 
 **Hearing Examiners Employed by Department of the Treasury**
 
-Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Treasury not included in functions of officers, agencies, and employees of Department transferred to Secretary of the Treasury by 1950 Reorg. Plan No. 26, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to this title.
+Functions vested by section 551 et seq. of this title in hearing examiners employed by Department of the Treasury not included in functions of officers, agencies, and employees of Department transferred to Secretary of the Treasury by 1950 Reorg. Plan No. 26, § 1, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to this title.
 
-### § 3106. Employment of attorneys; restrictions
+### § 3106. Employment of attorneys; restrictions
 
 Except as otherwise authorized by law, the head of an Executive department or military department may not employ an attorney or counsel for the conduct of litigation in which the United States, an agency, or employee thereof is a party, or is interested, or for the securing of evidence therefor, but shall refer the matter to the Department of Justice. This section does not apply to the employment and payment of counsel under section 1037 of title 10.
 
@@ -849,18 +849,18 @@ Except as otherwise authorized by law, the head of an Executive department or mi
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 49. | R.S. § 189. Sept. 2, 1958, Pub. L. 85–861, § 7(a), 72 Stat. 1555. |
-|  | 5 U.S.C. 314. | R.S. § 365. Sept. 2, 1958, Pub. L. 85–861, § 7(b), 72 Stat. 1555. |
+|  | 5 U.S.C. 49. | R.S. § 189. Sept. 2, 1958, Pub. L. 85–861, § 7(a), 72 Stat. 1555. |
+|  | 5 U.S.C. 314. | R.S. § 365. Sept. 2, 1958, Pub. L. 85–861, § 7(b), 72 Stat. 1555. |
 
 Sections 189 and 365 of the Revised Statutes, as amended, are combined and the section is revised to express the effect of the law since department heads have long employed, with the approval of Congress, attorneys to advise them in the conduct of their official duties. The law which concentrates the authority for the conduct of litigation in the Department of Justice is codified in section 516 of title 28 by this bill.
 
-The words “Executive department” are substituted for “department” as the definition of “department” applicable to R.S. § 189 is coextensive with the definition of “Executive department” in section 101. The words “or military department” are inserted to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser’s note for section 301.
+The words “Executive department” are substituted for “department” as the definition of “department” applicable to R.S. § 189 is coextensive with the definition of “Executive department” in section 101. The words “or military department” are inserted to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser’s note for section 301.
 
-R.S. § 189 was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 1, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
+R.S. § 189 was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, § 201(d), as added Aug. 1, 1949, ch. 412, § 4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides “Except to the extent inconsistent with the provisions of this Act [National Security Act of 1947], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense” is omitted from this title but is not repealed.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 3107. Employment of publicity experts; restrictions
+### § 3107. Employment of publicity experts; restrictions
 
 Appropriated funds may not be used to pay a publicity expert unless specifically appropriated for that purpose.
 
@@ -870,13 +870,13 @@ Appropriated funds may not be used to pay a publicity expert unless specifically
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 54. | Oct. 22, 1913, ch. 32, § 1 (last par. under “Interstate Commerce Commission”), 38 Stat. 212. |
+|  | 5 U.S.C. 54. | Oct. 22, 1913, ch. 32, § 1 (last par. under “Interstate Commerce Commission”), 38 Stat. 212. |
 
 The prohibition is restated in positive form.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 3108. Employment of detective agencies; restrictions
+### § 3108. Employment of detective agencies; restrictions
 
 An individual employed by the Pinkerton Detective Agency, or similar organization, may not be employed by the Government of the United States or the government of the District of Columbia.
 
@@ -892,7 +892,7 @@ The prohibition is restated in positive form.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-### § 3109. Employment of experts and consultants; temporary or intermittent
+### § 3109. Employment of experts and consultants; temporary or intermittent
 
 **(a)** For the purpose of this section—
 
@@ -926,15 +926,15 @@ However, an agency subject to chapter 51 and subchapter III of chapter 53 of thi
 
 **(2)** the total amount paid by the agency to each expert and consultant for such work during the period.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 416; Pub. L. 95–454, title IV, § 402(b), Oct. 13, 1978, 92 Stat. 1160; Pub. L. 97–258, § 3(a)(4), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 100–325, § 2(b), May 30, 1988, 102 Stat. 581; Pub. L. 102–378, § 2(8), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 111–350, § 5(a)(4), Jan. 4, 2011, 124 Stat. 3841.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 416; Pub. L. 95–454, title IV, § 402(b), Oct. 13, 1978, 92 Stat. 1160; Pub. L. 97–258, § 3(a)(4), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 100–325, § 2(b), May 30, 1988, 102 Stat. 581; Pub. L. 102–378, § 2(8), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 111–350, § 5(a)(4), Jan. 4, 2011, 124 Stat. 3841.)
 
 **Historical and Revision Notes**
 
 | *Derivation* | *U.S. Code* | *Revised Statutes and* *Statutes at Large* |
 |---|---|---|
-|  | 5 U.S.C. 55a. | Aug. 2, 1946, ch. 744, § 15, 60 Stat. 810. |
+|  | 5 U.S.C. 55a. | Aug. 2, 1946, ch. 744, § 15, 60 Stat. 810. |
 
-In subsection (a), the definitions of “agency” and “appropriation” are added on authority of the Act of Aug. 2, 1946, ch. 744, § 18, 60 Stat. 811.
+In subsection (a), the definitions of “agency” and “appropriation” are added on authority of the Act of Aug. 2, 1946, ch. 744, § 18, 60 Stat. 811.
 
 In subsection (b), the words “the provisions of this title governing appointment in the competitive service” are substituted for “the civil-service laws”. The words “chapter 51 and subchapter III of chapter 53 of this title” are substituted for the reference to the classification laws which originally meant the Classification Act of 1923, as amended. Exception from the Classification Act of 1949 is based on sections 202(27) and 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 956, 972.
 
@@ -962,61 +962,61 @@ Amendment by Pub. L. 95–454 effective 9 months after Oct. 13, 1978, and congre
 
 **Limitation on Consulting Services**
 
-Pub. L. 113–76, div. G, title IV, § 401, Jan. 17, 2014, 128 Stat. 337, provided that: “In fiscal year 2014 and thereafter, the expenditure of any appropriation under this Act [div. G of Pub. L. 113–76, see Tables for classification] or any subsequent Act appropriating funds for departments and agencies funded in this Act, for any consulting service through procurement contract, pursuant to 5 U.S.C. 3109, shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive order issued pursuant to existing law.”
+Pub. L. 113–76, div. G, title IV, § 401, Jan. 17, 2014, 128 Stat. 337, provided that: “In fiscal year 2014 and thereafter, the expenditure of any appropriation under this Act [div. G of Pub. L. 113–76, see Tables for classification] or any subsequent Act appropriating funds for departments and agencies funded in this Act, for any consulting service through procurement contract, pursuant to 5 U.S.C. 3109, shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive order issued pursuant to existing law.”
 
 **Appropriations Relating to Labor, Health and Human Services, and Education; Public Disclosure of Consulting Service Through Procurement Contract**
 
-Pub. L. 102–394, title V, § 501, Oct. 6, 1992, 106 Stat. 1825, provided that: “The expenditure of any appropriation under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts for any consulting service through procurement contract, pursuant to 5 U.S.C. 3109, shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive order issued pursuant to existing law.”
+Pub. L. 102–394, title V, § 501, Oct. 6, 1992, 106 Stat. 1825, provided that: “The expenditure of any appropriation under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts for any consulting service through procurement contract, pursuant to 5 U.S.C. 3109, shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive order issued pursuant to existing law.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 102–170, title V, § 501, Nov. 26, 1991, 105 Stat. 1140.
+Pub. L. 102–170, title V, § 501, Nov. 26, 1991, 105 Stat. 1140.
 
-Pub. L. 101–517, title V, § 501, Nov. 5, 1990, 104 Stat. 2220.
+Pub. L. 101–517, title V, § 501, Nov. 5, 1990, 104 Stat. 2220.
 
-Pub. L. 101–166, title V, § 501, Nov. 21, 1989, 103 Stat. 1189.
+Pub. L. 101–166, title V, § 501, Nov. 21, 1989, 103 Stat. 1189.
 
-Pub. L. 100–202, § 101(h) [title V, § 501], Dec. 22, 1987, 101 Stat. 1329–256, 1329–287.
+Pub. L. 100–202, § 101(h) [title V, § 501], Dec. 22, 1987, 101 Stat. 1329–256, 1329–287.
 
-Pub. L. 99–500, § 101(i) [H.R. 5233, title V, § 501], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title V, § 501], Oct. 30, 1986, 100 Stat. 3341–287.
+Pub. L. 99–500, § 101(i) [H.R. 5233, title V, § 501], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title V, § 501], Oct. 30, 1986, 100 Stat. 3341–287.
 
-Pub. L. 99–178, title V, § 501, Dec. 12, 1985, 99 Stat. 1132.
+Pub. L. 99–178, title V, § 501, Dec. 12, 1985, 99 Stat. 1132.
 
-Pub. L. 98–619, title V, § 501, Nov. 8, 1984, 98 Stat. 3332.
+Pub. L. 98–619, title V, § 501, Nov. 8, 1984, 98 Stat. 3332.
 
-Pub. L. 98–139, title V, § 501, Oct. 31, 1983, 97 Stat. 898.
+Pub. L. 98–139, title V, § 501, Oct. 31, 1983, 97 Stat. 898.
 
-Pub. L. 97–377, title I, § 101(e)(1) [title V, § 501], Dec. 21, 1982, 96 Stat. 1878, 1904.
+Pub. L. 97–377, title I, § 101(e)(1) [title V, § 501], Dec. 21, 1982, 96 Stat. 1878, 1904.
 
 **Availability of Appropriations for Services**
 
-Pub. L. 102–394, title V, § 503, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for services as authorized by 5 U.S.C. 3109 but at rates for individuals not to exceed the per diem rate equivalent to the maximum rate payable for senior-level positions under 5 U.S.C. 5376.”
+Pub. L. 102–394, title V, § 503, Oct. 6, 1992, 106 Stat. 1825, provided that: “Appropriations contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, available for salaries and expenses, shall be available for services as authorized by 5 U.S.C. 3109 but at rates for individuals not to exceed the per diem rate equivalent to the maximum rate payable for senior-level positions under 5 U.S.C. 5376.”
 
 [For reference to maximum rate under section 5376 of this title, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of this title.]
 
 Similar provisions were contained in the following prior appropriation acts:
 
-Pub. L. 102–170, title V, § 503, Nov. 26, 1991, 105 Stat. 1140.
+Pub. L. 102–170, title V, § 503, Nov. 26, 1991, 105 Stat. 1140.
 
-Pub. L. 101–517, title V, § 503, Nov. 5, 1990, 104 Stat. 2221.
+Pub. L. 101–517, title V, § 503, Nov. 5, 1990, 104 Stat. 2221.
 
-Pub. L. 101–166, title V, § 503, Nov. 21, 1989, 103 Stat. 1189.
+Pub. L. 101–166, title V, § 503, Nov. 21, 1989, 103 Stat. 1189.
 
-Pub. L. 100–202, § 101(h) [title V, § 503], Dec. 22, 1987, 101 Stat. 1329–256, 1329–287.
+Pub. L. 100–202, § 101(h) [title V, § 503], Dec. 22, 1987, 101 Stat. 1329–256, 1329–287.
 
-Pub. L. 99–500, § 101(i) [H.R. 5233, title V, § 503], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title V, § 503], Oct. 30, 1986, 100 Stat. 3341–287.
+Pub. L. 99–500, § 101(i) [H.R. 5233, title V, § 503], Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, § 101(i) [H.R. 5233, title V, § 503], Oct. 30, 1986, 100 Stat. 3341–287.
 
-Pub. L. 99–178, title V, § 503, Dec. 12, 1985, 99 Stat. 1132.
+Pub. L. 99–178, title V, § 503, Dec. 12, 1985, 99 Stat. 1132.
 
-Pub. L. 98–619, title V, § 503, Nov. 8, 1984, 98 Stat. 3333.
+Pub. L. 98–619, title V, § 503, Nov. 8, 1984, 98 Stat. 3333.
 
-Pub. L. 98–139, title V, § 503, Oct. 31, 1983, 97 Stat. 899.
+Pub. L. 98–139, title V, § 503, Oct. 31, 1983, 97 Stat. 899.
 
-Pub. L. 97–377, title I, § 101(e)(1) [title V, § 503], Dec. 21, 1982, 96 Stat. 1878, 1904.
+Pub. L. 97–377, title I, § 101(e)(1) [title V, § 503], Dec. 21, 1982, 96 Stat. 1878, 1904.
 
 **Appropriations Relating to Energy and Water Development; Public Disclosure of Consulting Service Through Procurement Contract**
 
-Pub. L. 102–377, title V, § 504, Oct. 2, 1992, 106 Stat. 1342, provided that: “The expenditure of any appropriation under this Act or subsequent Energy and Water Development Appropriations Acts for any consulting service through procurement contract, pursuant to section 3109 of title 5, United States Code, hereafter shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive Order issued pursuant to existing law.”
+Pub. L. 102–377, title V, § 504, Oct. 2, 1992, 106 Stat. 1342, provided that: “The expenditure of any appropriation under this Act or subsequent Energy and Water Development Appropriations Acts for any consulting service through procurement contract, pursuant to section 3109 of title 5, United States Code, hereafter shall be limited to those contracts where such expenditures are a matter of public record and available for public inspection, except where otherwise provided under existing law, or under existing Executive Order issued pursuant to existing law.”
 
 **Executive Documents**
 
@@ -1056,7 +1056,7 @@ Sec. 4. *General Provisions*. (a) This order shall be implemented consistent wit
 
 George W. Bush.
 
-### § 3110. Employment of relatives; restrictions
+### § 3110. Employment of relatives; restrictions
 
 **(a)** For the purpose of this section—
 
@@ -1082,7 +1082,7 @@ George W. Bush.
 
 **(e)** This section shall not be construed to prohibit the appointment of an individual who is a preference eligible in any case in which the passing over of that individual on a certificate of eligibles furnished under section 3317(a) of this title will result in the selection for appointment of an individual who is not a preference eligible.
 
-(Added Pub. L. 90–206, title II, § 221(a), Dec. 16, 1967, 81 Stat. 640; amended Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
+(Added Pub. L. 90–206, title II, § 221(a), Dec. 16, 1967, 81 Stat. 640; amended Pub. L. 95–454, title IX, § 906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 
 **Editorial Notes**
 
@@ -1098,15 +1098,15 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 **Effective Date**
 
-Pub. L. 90–206, title II, § 220(a)(1), Dec. 16, 1967, 81 Stat. 639, provided, except as otherwise expressly provided, that: “This section [enacting provisions set out as a note under section 8704 of this title] and sections 201 [enacting provisions set out as Short Title note under section 5332 of this title], 207 [amending section 5303 of this title], 212 [enacting provisions set out as a note under section 5303 of this title], 218 [enacting provisions set out as a note under section 5332 of this title], 221 [enacting this section and provisions set out as a note under this section], 224(a) and (b) [amending sections 4101 and 8339 of this title], and 225 [enacting sections 351–361 of Title 2, The Congress] shall become effective on the date of enactment of this title [Dec. 16, 1967].”
+Pub. L. 90–206, title II, § 220(a)(1), Dec. 16, 1967, 81 Stat. 639, provided, except as otherwise expressly provided, that: “This section [enacting provisions set out as a note under section 8704 of this title] and sections 201 [enacting provisions set out as Short Title note under section 5332 of this title], 207 [amending section 5303 of this title], 212 [enacting provisions set out as a note under section 5303 of this title], 218 [enacting provisions set out as a note under section 5332 of this title], 221 [enacting this section and provisions set out as a note under this section], 224(a) and (b) [amending sections 4101 and 8339 of this title], and 225 [enacting sections 351–361 of Title 2, The Congress] shall become effective on the date of enactment of this title [Dec. 16, 1967].”
 
 **Retroactive Effect**
 
-Pub. L. 90–206, title II, § 221(c), Dec. 16, 1967, 81 Stat. 641, provided that: “The amendments made by this section [enacting this section] do not apply to an appointment, employment, advancement, or promotion made or advocated by a public official of any individual who is a relative of the public official if, prior to the effective date of this section [see Effective Date note above], the individual was appointed by the public official, or received an appointment advocated by the public official, and is serving under the appointment on such effective date.”
+Pub. L. 90–206, title II, § 221(c), Dec. 16, 1967, 81 Stat. 641, provided that: “The amendments made by this section [enacting this section] do not apply to an appointment, employment, advancement, or promotion made or advocated by a public official of any individual who is a relative of the public official if, prior to the effective date of this section [see Effective Date note above], the individual was appointed by the public official, or received an appointment advocated by the public official, and is serving under the appointment on such effective date.”
 
 [Section 221(c) of Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as an Effective Date note above.]
 
-### § 3111. Acceptance of volunteer service
+### § 3111. Acceptance of volunteer service
 
 **(a)** For the purpose of this section, “student” means an individual who is enrolled, not less than half-time, in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution. An individual who is a student is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 5 months and if such individual shows to the satisfaction of the Office of Personnel Management that the individual has a bona fide intention of continuing to pursue a course of study or training in the same or different educational institution during the school semester (or other period into which the school year is divided) immediately after the interim.
 
@@ -1146,7 +1146,7 @@ except that returns and return information (as defined in section 6103(b) of tit
 
 **(B)** the authority granted to the Office of Personnel Management under this section shall be exercised by the Director of the Congressional Budget Office.
 
-(Added Pub. L. 95–454, title III, § 301(a), Oct. 13, 1978, 92 Stat. 1144; amended Pub. L. 97–258, § 3(a)(5), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–437, Jan. 8, 1983, 96 Stat. 2285; Pub. L. 107–296, title XIII, § 1314(b), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 107–347, title II, § 209(g)(1)(A), Dec. 17, 2002, 116 Stat. 2931; Pub. L. 111–68, div. A, title I, § 1303(a), Oct. 1, 2009, 123 Stat. 2034; Pub. L. 113–76, div. I, title I, § 1201(a), Jan. 17, 2014, 128 Stat. 426.)
+(Added Pub. L. 95–454, title III, § 301(a), Oct. 13, 1978, 92 Stat. 1144; amended Pub. L. 97–258, § 3(a)(5), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–437, Jan. 8, 1983, 96 Stat. 2285; Pub. L. 107–296, title XIII, § 1314(b), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 107–347, title II, § 209(g)(1)(A), Dec. 17, 2002, 116 Stat. 2931; Pub. L. 111–68, div. A, title I, § 1303(a), Oct. 1, 2009, 123 Stat. 2034; Pub. L. 113–76, div. I, title I, § 1201(a), Jan. 17, 2014, 128 Stat. 426.)
 
 **Editorial Notes**
 
@@ -1164,9 +1164,9 @@ Section 203 of the Congressional Budget Act of 1974, referred to in subsec. (e)(
 
 Subsec. (d). Pub. L. 107–347 added subsec. (d).
 
-1983—Subsec. (c)(1). Pub. L. 97–437, § 1(1), substituted “(c)(1) Except as provided in par. (2), any” for “(c) Any”.
+1983—Subsec. (c)(1). Pub. L. 97–437, § 1(1), substituted “(c)(1) Except as provided in par. (2), any” for “(c) Any”.
 
-Subsec. (c)(2). Pub. L. 97–437, § 1(2), added par. (2).
+Subsec. (c)(2). Pub. L. 97–437, § 1(2), added par. (2).
 
 1982—Subsec. (b). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
 
@@ -1174,7 +1174,7 @@ Subsec. (c)(2). Pub. L. 97–437, § 1(2), added par. (2).
 
 **Effective Date of 2014 Amendment**
 
-Pub. L. 113–76, div. I, title I, § 1201(b), Jan. 17, 2014, 128 Stat. 426, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
+Pub. L. 113–76, div. I, title I, § 1201(b), Jan. 17, 2014, 128 Stat. 426, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2014 and each succeeding fiscal year.”
 
 **Effective Date of 2002 Amendments**
 
@@ -1186,7 +1186,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 3111a. Federal internship programs
+### § 3111a. Federal internship programs
 
 **(a) Internship Coordinator.—** The head of each agency operating an internship program shall appoint an individual within such agency to serve as an internship coordinator.
 
@@ -1220,7 +1220,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 **(3)** the term “agency” means an Executive agency.
 
-(Added Pub. L. 112–81, div. A, title XI, § 1109(a), Dec. 31, 2011, 125 Stat. 1614.)
+(Added Pub. L. 112–81, div. A, title XI, § 1109(a), Dec. 31, 2011, 125 Stat. 1614.)
 
 **Editorial Notes**
 
@@ -1232,13 +1232,13 @@ Executive Order 13562, referred to in subsec. (c)(1), is set out as a note under
 
 **Regulations**
 
-Pub. L. 112–81, div. A, title XI, § 1109(c), Dec. 31, 2011, 125 Stat. 1615, provided that: “The Office of Personnel Management may prescribe regulations to carry out the amendment made by subsection (a) [enacting this section].”
+Pub. L. 112–81, div. A, title XI, § 1109(c), Dec. 31, 2011, 125 Stat. 1615, provided that: “The Office of Personnel Management may prescribe regulations to carry out the amendment made by subsection (a) [enacting this section].”
 
-### § 3112. Disabled veterans; noncompetitive appointment
+### § 3112. Disabled veterans; noncompetitive appointment
 
 Under such regulations as the Office of Personnel Management shall prescribe, an agency may make a noncompetitive appointment leading to conversion to career or career-conditional employment of a disabled veteran who has a compensable service-connected disability of 30 percent or more.
 
-(Added Pub. L. 95–454, title III, § 307(b)(1), Oct. 13, 1978, 92 Stat. 1147.)
+(Added Pub. L. 95–454, title III, § 307(b)(1), Oct. 13, 1978, 92 Stat. 1147.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -1246,7 +1246,7 @@ Under such regulations as the Office of Personnel Management shall prescribe, an
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
 
-### § 3113. Restriction on reemployment after conviction of certain crimes
+### § 3113. Restriction on reemployment after conviction of certain crimes
 
 An employee shall be separated from service and barred from reemployment in the Federal service, if—
 
@@ -1254,15 +1254,15 @@ An employee shall be separated from service and barred from reemployment in the 
 
 **(2)** such violation related to conduct prohibited under section 1010(a) of the Controlled Substances Import and Export Act (21 U.S.C. 960(a)).
 
-(Added Pub. L. 105–61, title VI, § 638(a), Oct. 10, 1997, 111 Stat. 1316.)
+(Added Pub. L. 105–61, title VI, § 638(a), Oct. 10, 1997, 111 Stat. 1316.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 105–61, title VI, § 638(c), Oct. 10, 1997, 111 Stat. 1317, provided that: “This section [enacting this section] shall apply during fiscal year 1998 and each fiscal year thereafter.”
+Pub. L. 105–61, title VI, § 638(c), Oct. 10, 1997, 111 Stat. 1317, provided that: “This section [enacting this section] shall apply during fiscal year 1998 and each fiscal year thereafter.”
 
-### § 3114. Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission
+### § 3114. Appointment of candidates to certain positions in the competitive service by the Securities and Exchange Commission
 
 **(a) Applicability.—** This section applies with respect to any position of accountant, economist, and securities compliance examiner at the Commission that is in the competitive service, and any position at the Commission in the competitive service that requires specialized knowledge of financial and capital market formation or regulation, financial market structures or surveillance, or information technology.
 
@@ -1292,7 +1292,7 @@ Pub. L. 105–61, title VI, § 638(c), Oct. 10, 1997, 111 Stat. 1317, provided
 
 **(d) Commission Defined.—** For purposes of this section, the term “Commission” means the Securities and Exchange Commission.
 
-(Added Pub. L. 108–44, § 2(a), July 3, 2003, 117 Stat. 842; amended Pub. L. 111–203, title IX, § 929G(a), July 21, 2010, 124 Stat. 1855.)
+(Added Pub. L. 108–44, § 2(a), July 3, 2003, 117 Stat. 842; amended Pub. L. 111–203, title IX, § 929G(a), July 21, 2010, 124 Stat. 1855.)
 
 **Editorial Notes**
 
@@ -1312,7 +1312,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-### § 3115. Expedited hiring authority for college graduates; competitive service
+### § 3115. Expedited hiring authority for college graduates; competitive service
 
 **(a) Definitions.—** In this section:
 
@@ -1386,7 +1386,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **(2) Regulations.—** Any regulations prescribed by the Director for the administration of this section shall not apply to the Department of Defense during the period ending on the date on which the appointment authority of the Secretary of Defense under section 1106 of the National Defense Authorization Act for Fiscal Year 2017 (10 U.S.C. note prec. 1580), or any applicable successor statute, terminates.
 
-(Added Pub. L. 115–232, div. A, title XI, § 1108(a), Aug. 13, 2018, 132 Stat. 2006.)
+(Added Pub. L. 115–232, div. A, title XI, § 1108(a), Aug. 13, 2018, 132 Stat. 2006.)
 
 **Editorial Notes**
 
@@ -1398,7 +1398,7 @@ The date of enactment of this section, referred to in subsecs. (f) and (g)(1), i
 
 Section 1106 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (h), is section 1106 of Pub. L. 114–328, which is set out as a note preceding section 1580 of Title 10, Armed Forces.
 
-### § 3116. Expedited hiring authority for post-secondary students; competitive service
+### § 3116. Expedited hiring authority for post-secondary students; competitive service
 
 **(a) Definitions.—** In this section:
 
@@ -1472,7 +1472,7 @@ Section 1106 of the National Defense Authorization Act for Fiscal Year 2017, ref
 
 **(2) Regulations.—** Any regulations prescribed by the Director for the administration of this section shall not apply to the Department of Defense during the period ending on the date on which the appointment authority of the Secretary of Defense under section 1106 of the National Defense Authorization Act for Fiscal Year 2017 (10 U.S.C. note prec. 1580), or any applicable successor statute, terminates.
 
-(Added Pub. L. 115–232, div. A, title XI, § 1108(a), Aug. 13, 2018, 132 Stat. 2007; amended Pub. L. 116–92, div. A, title XI, § 1115, Dec. 20, 2019, 133 Stat. 1604.)
+(Added Pub. L. 115–232, div. A, title XI, § 1108(a), Aug. 13, 2018, 132 Stat. 2007; amended Pub. L. 116–92, div. A, title XI, § 1115, Dec. 20, 2019, 133 Stat. 1604.)
 
 **Editorial Notes**
 
@@ -1490,7 +1490,7 @@ Section 1106 of the National Defense Authorization Act for Fiscal Year 2017, ref
 
 ## SUBCHAPTER II—THE SENIOR EXECUTIVE SERVICE
 
-### § 3131. The Senior Executive Service
+### § 3131. The Senior Executive Service
 
 It is the purpose of this subchapter to establish a Senior Executive Service to ensure that the executive management of the Government of the United States is responsive to the needs, policies, and goals of the Nation and otherwise is of the highest quality. The Senior Executive Service shall be administered so as to—
 
@@ -1522,13 +1522,13 @@ It is the purpose of this subchapter to establish a Senior Executive Service to 
 
 **(14)** appoint career executives to fill Senior Executive Service positions to the extent practicable, consistent with the effective and efficient implementation of agency policies and responsibilities.
 
-(Added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1154.)
+(Added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1154.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Effective Date**
 
-Pub. L. 95–454, title IV, § 415, Oct. 13, 1978, 92 Stat. 1179, provided that:
+Pub. L. 95–454, title IV, § 415, Oct. 13, 1978, 92 Stat. 1179, provided that:
 
 > **“(a)**
 
@@ -1550,7 +1550,7 @@ Pub. L. 95–454, title IV, § 415, Oct. 13, 1978, 92 Stat. 1179, provided tha
 
 **Congressional Findings Respecting Continuation of Senior Executive Service**
 
-Pub. L. 98–615, title III, § 301, Nov. 8, 1984, 98 Stat. 3217, provided that: “The Congress finds that the Senior Executive Service should be continued indefinitely.”
+Pub. L. 98–615, title III, § 301, Nov. 8, 1984, 98 Stat. 3217, provided that: “The Congress finds that the Senior Executive Service should be continued indefinitely.”
 
 **Executive Documents**
 
@@ -1614,7 +1614,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 Career Senior Executive Service (SES) officials are charged to “ensure that the executive management of the Government of the United States is responsive to the needs, policies, and goals of the Nation and otherwise is of the highest quality,” as required by section 3131 of title 5, United States Code. SES officials have enormous influence over the functioning of the Federal Government, and thus the well-being of hundreds of millions of Americans.
 
-As the Constitution makes clear, and as the Supreme Court of the United States has reaffirmed, “the ‘executive Power’—all of it—is ‘vested in a President,’ who must ‘take Care that the Laws be faithfully executed.’ ” Seila Law LLC v. Consumer Financial Protection Bureau, 591 U.S. 197, 203 (2020). “Because no single person could fulfill that responsibility alone, the Framers expected that the President would rely on subordinate officers for assistance.” Id. at 203-04.
+As the Constitution makes clear, and as the Supreme Court of the United States has reaffirmed, “the ‘executive Power’—all of it—is ‘vested in a President,’ who must ‘take Care that the Laws be faithfully executed.’ ” Seila Law LLC v. Consumer Financial Protection Bureau, 591 U.S. 197, 203 (2020). “Because no single person could fulfill that responsibility alone, the Framers expected that the President would rely on subordinate officers for assistance.” Id. at 203-04.
 
 The President’s power to remove subordinates is a core part of the Executive power vested by Article II of the Constitution and is necessary for the President to perform his duty to “take Care that the Laws be faithfully executed.” Because SES officials wield significant governmental authority, they must serve at the pleasure of the President.
 
@@ -1636,7 +1636,7 @@ The President must be able to trust that the Executive Branch will work together
 
 Donald J. Trump.
 
-### § 3132. Definitions and exclusions
+### § 3132. Definitions and exclusions
 
 **(a)** For the purpose of this subchapter—
 
@@ -1650,7 +1650,7 @@ Donald J. Trump.
 
 **(D)** the Office of the Comptroller of the Currency, the Office of Thrift Supervision,,1
 
-<sup>1</sup>  So in original.
+<sup>1</sup> So in original.
 
 the Resolution Trust Corporation, the Farm Credit Administration, the Federal Housing Finance Agency, the National Credit Union Administration, the Bureau of Consumer Financial Protection, and the Office of Financial Research;
 
@@ -1676,9 +1676,9 @@ but does not include—
 
 **(ii)** an administrative law judge position under section 3105 of this title;
 
-**(iii)** any position established as a qualified position in the excepted service by the Secretary of Homeland Security under section 226 2
+**(iii)** any position established as a qualified position in the excepted service by the Secretary of Homeland Security under section 226 2
 
-<sup>2</sup>  So in original. See References in Text note below.
+<sup>2</sup> So in original. See References in Text note below.
 
 of the Homeland Security Act of 2002; or
 
@@ -1736,7 +1736,7 @@ If the Office recommends that an agency or unit thereof be excluded from the cov
 
 the Office shall, within 30 days after the action, transmit to the Congress written notice of the exclusion or revocation.
 
-(Added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, § 2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, § 203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, § 2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, § 742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(A)], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, § 1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, § 402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, § 1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, § 501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, § 1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, § 8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, § 10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, § 811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, § 1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–203, title I, § 152(d)(4), July 21, 2010, 124 Stat. 1414; Pub. L. 112–277, title V, § 505(b), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–277, § 3(b), Dec. 18, 2014, 128 Stat. 3008; Pub. L. 114–92, div. A, title XI, § 1107(b), Nov. 25, 2015, 129 Stat. 1027.)
+(Added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1155; amended Pub. L. 96–54, § 2(a)(12), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–187, title II, § 203, Jan. 8, 1980, 93 Stat. 1368; Pub. L. 100–325, § 2(c), May 30, 1988, 102 Stat. 581; Pub. L. 101–73, title VII, § 742(c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–509, title V, § 529 [title I, § 101(b)(9)(A)], Nov. 5, 1990, 104 Stat. 1427, 1441; Pub. L. 101–624, title XVIII, § 1841, Nov. 28, 1990, 104 Stat. 3835; Pub. L. 102–496, title IV, § 402(b), Oct. 24, 1992, 106 Stat. 3184; Pub. L. 102–550, title XIII, § 1351(b), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–359, title V, § 501(d), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, § 1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–123, § 8(d)(1)(B), Jan. 16, 2002, 115 Stat. 2399; Pub. L. 107–171, title X, § 10702(c)(1), May 13, 2002, 116 Stat. 517; Pub. L. 107–252, title VIII, § 811(b), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–289, div. A, title I, § 1161(g)(2), July 30, 2008, 122 Stat. 2781; Pub. L. 110–417, [div. A], title IX, § 931(a)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–203, title I, § 152(d)(4), July 21, 2010, 124 Stat. 1414; Pub. L. 112–277, title V, § 505(b), Jan. 14, 2013, 126 Stat. 2478; Pub. L. 113–277, § 3(b), Dec. 18, 2014, 128 Stat. 3008; Pub. L. 114–92, div. A, title XI, § 1107(b), Nov. 25, 2015, 129 Stat. 1027.)
 
 **Editorial Notes**
 
@@ -1744,7 +1744,7 @@ the Office shall, within 30 days after the action, transmit to the Congress writ
 
 Level IV or V of the Executive Schedule, referred to in subsec. (a)(2), are set out in sections 5315 and 5316 of this title.
 
-Section 226 of the Homeland Security Act of 2002, referred to in cl. (iii) of concluding provisions of subsec. (a)(2), probably means the section 226 of Pub. L. 107–296 as added by Pub. L. 113–277, § 3(a), Dec. 18, 2014, 128 Stat. 3005, which was renumbered section 2208 of Pub. L. 107–296 by Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and is classified to section 658 of Title 6, Domestic Security.
+Section 226 of the Homeland Security Act of 2002, referred to in cl. (iii) of concluding provisions of subsec. (a)(2), probably means the section 226 of Pub. L. 107–296 as added by Pub. L. 113–277, § 3(a), Dec. 18, 2014, 128 Stat. 3005, which was renumbered section 2208 of Pub. L. 107–296 by Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and is classified to section 658 of Title 6, Domestic Security.
 
 The date of the enactment of the Civil Service Reform Act of 1978, referred to in subsec. (b)(3), is the date of the enactment of Pub. L. 95–454, which was approved Oct. 13, 1978.
 
@@ -1760,33 +1760,33 @@ The date of the enactment of the Civil Service Reform Act of 1978, referred to i
 
 2008—Subsec. (a)(1)(B). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
 
-Pub. L. 110–289, § 1161(g)(2)(A), substituted “, and” for “,, and”.
+Pub. L. 110–289, § 1161(g)(2)(A), substituted “, and” for “,, and”.
 
-Subsec. (a)(1)(D). Pub. L. 110–289, § 1161(g)(2)(B), struck out “the Federal Housing Finance Board” after “the Office of Thrift Supervision,”, substituted “the Federal Housing Finance Agency” for “the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”, and struck out “or or” at end.
+Subsec. (a)(1)(D). Pub. L. 110–289, § 1161(g)(2)(B), struck out “the Federal Housing Finance Board” after “the Office of Thrift Supervision,”, substituted “the Federal Housing Finance Agency” for “the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”, and struck out “or or” at end.
 
-Subsec. (a)(1)(E), (F). Pub. L. 110–289, § 1161(g)(2)(C), (D), inserted “or” at end of subpar. (E), relating to Securities and Exchange Commission, and redesignated subpar. (E), relating to Commodity Futures Trading Commission, as (F).
+Subsec. (a)(1)(E), (F). Pub. L. 110–289, § 1161(g)(2)(C), (D), inserted “or” at end of subpar. (E), relating to Securities and Exchange Commission, and redesignated subpar. (E), relating to Commodity Futures Trading Commission, as (F).
 
 2004—Subsec. (a)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
 
-2002—Subsec. (a)(1)(C). Pub. L. 107–252, § 811(b), inserted “or the Election Assistance Commission” after “Commission”.
+2002—Subsec. (a)(1)(C). Pub. L. 107–252, § 811(b), inserted “or the Election Assistance Commission” after “Commission”.
 
-Pub. L. 107–171, § 10702(c)(1)(A), which directed amendment by striking “or” at the end, could not be executed because the word “or” did not appear at the end. See below.
+Pub. L. 107–171, § 10702(c)(1)(A), which directed amendment by striking “or” at the end, could not be executed because the word “or” did not appear at the end. See below.
 
-Pub. L. 107–123, § 8(d)(1)(B)(i), struck out “or” at end.
+Pub. L. 107–123, § 8(d)(1)(B)(i), struck out “or” at end.
 
-Subsec. (a)(1)(D). Pub. L. 107–171, § 10702(c)(1)(B), inserted “or” at end.
+Subsec. (a)(1)(D). Pub. L. 107–171, § 10702(c)(1)(B), inserted “or” at end.
 
-Pub. L. 107–123, § 8(d)(1)(B)(ii), inserted “or” at end.
+Pub. L. 107–123, § 8(d)(1)(B)(ii), inserted “or” at end.
 
-Subsec. (a)(1)(E). Pub. L. 107–171, § 10702(c)(1)(C), added subpar. (E) relating to Commodity Futures Trading Commission.
+Subsec. (a)(1)(E). Pub. L. 107–171, § 10702(c)(1)(C), added subpar. (E) relating to Commodity Futures Trading Commission.
 
-Pub. L. 107–123, § 8(d)(1)(B)(iii), added subpar. (E) relating to the Securities and Exchange Commission.
+Pub. L. 107–123, § 8(d)(1)(B)(iii), added subpar. (E) relating to the Securities and Exchange Commission.
 
 1996—Subsec. (a)(1)(B). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
 1994—Subsec. (a)(1)(B). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–496 inserted “, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,” after “National Security Agency”.
+1992—Subsec. (a)(1)(B). Pub. L. 102–496 inserted “, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10,” after “National Security Agency”.
 
 Subsec. (a)(1)(D). Pub. L. 102–550 inserted “the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development,” after “Farm Credit Administration,”.
 
@@ -1796,9 +1796,9 @@ Subsec. (a)(2). Pub. L. 101–509 substituted “classified above GS–15 pursua
 
 1989—Subsec. (a)(1)(D). Pub. L. 101–73 added subpar. (D).
 
-1988—Subsec. (a)(1)(B). Pub. L. 100–325, § 2(c)(1), inserted reference to Drug Enforcement Administration.
+1988—Subsec. (a)(1)(B). Pub. L. 100–325, § 2(c)(1), inserted reference to Drug Enforcement Administration.
 
-Subsec. (a)(2)(iii). Pub. L. 100–235, § 2(c)(2), struck out cl. (iii) which read as follows: “any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (5 U.S.C. 5108 note; 90 Stat. 2425);”.
+Subsec. (a)(2)(iii). Pub. L. 100–235, § 2(c)(2), struck out cl. (iii) which read as follows: “any position in the Drug Enforcement Administration which is excluded from the competitive service under section 201 of the Crime Control Act of 1976 (5 U.S.C. 5108 note; 90 Stat. 2425);”.
 
 1980—Subsec. (a)(1)(C). Pub. L. 96–187 added subpar. (C).
 
@@ -1812,7 +1812,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 **Effective Date of 2008 Amendment**
 
-Pub. L. 110–289, div. A , title I, § 1163, July 30, 2008, 122 Stat. 2782, provided that: “Except as otherwise specifically provided in this title [see Tables for classification], this title and the amendments made by this title shall take effect on, and shall apply beginning on, the date of enactment of this Act [July 30, 2008].”
+Pub. L. 110–289, div. A , title I, § 1163, July 30, 2008, 122 Stat. 2782, provided that: “Except as otherwise specifically provided in this title [see Tables for classification], this title and the amendments made by this title shall take effect on, and shall apply beginning on, the date of enactment of this Act [July 30, 2008].”
 
 **Effective Date of 2002 Amendments**
 
@@ -1826,7 +1826,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. 
 
 **Effective Date of 1990 Amendment**
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 **Effective Date of 1980 Amendment**
 
@@ -1842,7 +1842,7 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 **Construction**
 
-Pub. L. 112–166, § 2(hh), Aug. 10, 2012, 126 Stat. 1290, provided that:
+Pub. L. 112–166, § 2(hh), Aug. 10, 2012, 126 Stat. 1290, provided that:
 
 > “Notwithstanding section 3132(a)(2) of title 5, United States Code, removal of Senate confirmation for any position in this section shall not—
 
@@ -1850,7 +1850,7 @@ Pub. L. 112–166, § 2(hh), Aug. 10, 2012, 126 Stat. 1290, provided that:
 
 > **“(2)** alter compensation for any such position under the Executive Schedule or other applicable compensation provisions of law.”
 
-### § 3133. Authorization of positions; authority for appointment
+### § 3133. Authorization of positions; authority for appointment
 
 **(a)** During each even-numbered calendar year, each agency shall—
 
@@ -1886,7 +1886,7 @@ Pub. L. 112–166, § 2(hh), Aug. 10, 2012, 126 Stat. 1290, provided that:
 
 The Director shall provide a full explanation for his determination in each case.
 
-(Added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1158; amended Pub. L. 114–328, div. A, title XI, § 1109(c), Dec. 23, 2016, 130 Stat. 2449.)
+(Added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1158; amended Pub. L. 114–328, div. A, title XI, § 1109(c), Dec. 23, 2016, 130 Stat. 2449.)
 
 **Editorial Notes**
 
@@ -1910,7 +1910,7 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 **Limitation on Number of DOD SES Positions**
 
-Pub. L. 114–328, div. A, title XI, § 1109, Dec. 23, 2016, 130 Stat. 2449, as amended by Pub. L. 118–31, div. A, title XI, § 1115, Dec. 22, 2023, 137 Stat. 433, provided that:
+Pub. L. 114–328, div. A, title XI, § 1109, Dec. 23, 2016, 130 Stat. 2449, as amended by Pub. L. 118–31, div. A, title XI, § 1115, Dec. 22, 2023, 137 Stat. 433, provided that:
 
 > **“(a) Limitation on Number of DOD SES Positions.—**
 
@@ -1942,7 +1942,7 @@ Pub. L. 114–328, div. A, title XI, § 1109, Dec. 23, 2016, 130 Stat. 2449, a
 
 **Conversion to Senior Executive Service**
 
-Pub. L. 95–454, title IV, § 413, Oct. 13, 1978, 92 Stat. 1175, provided that:
+Pub. L. 95–454, title IV, § 413, Oct. 13, 1978, 92 Stat. 1175, provided that:
 
 > **“(a)** For the purpose of this section, ‘agency’, ‘Senior Executive Service position’, ‘career appointee’, ‘career reserved position’, ‘limited term appointee’, ‘noncareer appointee’, and ‘general position’ have the meanings set forth in section 3132(a) of title 5, United States Code (as added by this title) and ‘Senior Executive Service’ has the meaning set forth in section 2101a of such title 5 (as added by this title).
 
@@ -2008,9 +2008,9 @@ Pub. L. 95–454, title IV, § 413, Oct. 13, 1978, 92 Stat. 1175, provided tha
 
 > **“(k)** The Office shall prescribe regulations to carry out the purpose of this section.”
 
-[Pub. L. 95–454, title IV, § 415(a)(2), Oct. 13, 1978, 92 Stat. 1179, provided that section 413 [set out above] is effective Oct. 13, 1978.]
+[Pub. L. 95–454, title IV, § 415(a)(2), Oct. 13, 1978, 92 Stat. 1179, provided that section 413 [set out above] is effective Oct. 13, 1978.]
 
-### § 3134. Limitations on noncareer and limited appointments
+### § 3134. Limitations on noncareer and limited appointments
 
 **(a)** During each calendar year, each agency shall—
 
@@ -2036,7 +2036,7 @@ This subsection shall not apply in the case of any agency having fewer than 4 Se
 
 **(e)** The total number of limited emergency appointees and limited term appointees in all agencies may not exceed 5 percent of the total number of Senior Executive Service positions in all agencies.
 
-(Added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1159.)
+(Added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1159.)
 
 **Editorial Notes**
 
@@ -2052,15 +2052,15 @@ Level IV or V of the Executive Schedule, referred to in subsec. (d)(2)(B), are s
 
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b), of Pub. L. 95–454, set out as a note under section 3131 of this title.
 
-### [§ 3135. Repealed. Pub. L. 104–66, title II, § 2181(a)(1), Dec. 21, 1995, 109 Stat. 732]
+### [§ 3135. Repealed. Pub. L. 104–66, title II, § 2181(a)(1), Dec. 21, 1995, 109 Stat. 732]
 
-Section, added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1159; amended Pub. L. 98–168, title III, § 301(b), Nov. 29, 1983, 97 Stat. 1112; Pub. L. 98–615, title III, § 306(a), Nov. 8, 1984, 98 Stat. 3219, directed Office of Personnel Management to submit reports to Congress relating to Senior Executive Service.
+Section, added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1159; amended Pub. L. 98–168, title III, § 301(b), Nov. 29, 1983, 97 Stat. 1112; Pub. L. 98–615, title III, § 306(a), Nov. 8, 1984, 98 Stat. 3219, directed Office of Personnel Management to submit reports to Congress relating to Senior Executive Service.
 
-### § 3136. Regulations
+### § 3136. Regulations
 
 The Office of Personnel Management shall prescribe regulations to carry out the purpose of this subchapter.
 
-(Added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1160.)
+(Added Pub. L. 95–454, title IV, § 402(a), Oct. 13, 1978, 92 Stat. 1160.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -2070,7 +2070,7 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 ## SUBCHAPTER III—THE FEDERAL BUREAU OF INVESTIGATION AND DRUG ENFORCEMENT ADMINISTRATION SENIOR EXECUTIVE SERVICE
 
-### § 3151. The Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service
+### § 3151. The Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service
 
 **(a)** The Attorney General may by regulation establish a personnel system for senior personnel within the Federal Bureau of Investigation and the Drug Enforcement Administration to be known as the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service (hereinafter in this subchapter referred to as the “FBI–DEA Senior Executive Service”). The regulations establishing the FBI–DEA Senior Executive Service shall—
 
@@ -2092,9 +2092,9 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 **(D)** removal or suspension consistent with subsections (a), (b), and (c) of section 7543 (except that any hearing or appeal to which a member of the FBI–DEA Senior Executive Service is entitled shall be held or decided pursuant to procedures established by regulations of the Attorney General); and
 
-**(E)** recertification consistent with section 3393a; 1
+**(E)** recertification consistent with section 3393a; 1
 
-<sup>1</sup>  See References in Text note below.
+<sup>1</sup> See References in Text note below.
 
 **(6)** permit the payment of performance awards to members of the FBI–DEA Senior Executive Service consistent with the provisions applicable to performance awards under section 5384; and
 
@@ -2126,13 +2126,13 @@ Section effective 9 months after Oct. 13, 1978, and congressional review of prov
 
 **(C)** for any other reason.
 
-(Added Pub. L. 100–325, § 1(a), May 30, 1988, 102 Stat. 579; amended Pub. L. 101–194, title V, § 506(b)(1), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 109–108, title I, § 111, Nov. 22, 2005, 119 Stat. 2305.)
+(Added Pub. L. 100–325, § 1(a), May 30, 1988, 102 Stat. 579; amended Pub. L. 101–194, title V, § 506(b)(1), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 109–108, title I, § 111, Nov. 22, 2005, 119 Stat. 2305.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Section 3393a, referred to in subsec. (a)(5)(E), was repealed by Pub. L. 107–296, title XIII, § 1321(a)(1)(B), Nov. 25, 2002, 116 Stat. 2296.
+Section 3393a, referred to in subsec. (a)(5)(E), was repealed by Pub. L. 107–296, title XIII, § 1321(a)(1)(B), Nov. 25, 2002, 116 Stat. 2296.
 
 Provisions of this title governing appointments and other personnel actions in the competitive service, referred to in subsec. (b)(2), are classified generally to section 3301 et seq. of this title.
 
@@ -2150,13 +2150,13 @@ Provisions of this title governing appointments and other personnel actions in t
 
 **Effective Date of 1989 Amendment**
 
-Pub. L. 101–194, title V, § 506(d), Nov. 30, 1989, 103 Stat. 1759, provided that: “The amendments made by this section [enacting section 3393a of this title and amending this section, sections 3393, 3592 to 3594, 7701, 8336, 8339, 8414, and 8421 of this title, section 1601 of Title 10, Armed Forces, section 3945 of Title 22, Foreign Relations and Intercourse, and section 3610 of Title 50, War and National Defense] shall take effect on January 1, 1991.”
+Pub. L. 101–194, title V, § 506(d), Nov. 30, 1989, 103 Stat. 1759, provided that: “The amendments made by this section [enacting section 3393a of this title and amending this section, sections 3393, 3592 to 3594, 7701, 8336, 8339, 8414, and 8421 of this title, section 1601 of Title 10, Armed Forces, section 3945 of Title 22, Foreign Relations and Intercourse, and section 3610 of Title 50, War and National Defense] shall take effect on January 1, 1991.”
 
-### § 3152. Limitation on pay
+### § 3152. Limitation on pay
 
 Members of the FBI–DEA Senior Executive Service shall be subject to the limitation under section 5307.
 
-(Added Pub. L. 100–325, § 1(a), May 30, 1988, 102 Stat. 581; amended Pub. L. 102–378, § 2(9), Oct. 2, 1992, 106 Stat. 1347.)
+(Added Pub. L. 100–325, § 1(a), May 30, 1988, 102 Stat. 581; amended Pub. L. 102–378, § 2(9), Oct. 2, 1992, 106 Stat. 1347.)
 
 **Editorial Notes**
 
@@ -2166,7 +2166,7 @@ Members of the FBI–DEA Senior Executive Service shall be subject to the limita
 
 ## SUBCHAPTER IV—TEMPORARY ORGANIZATIONS ESTABLISHED BY LAW OR EXECUTIVE ORDER
 
-### § 3161. Employment and compensation of employees
+### § 3161. Employment and compensation of employees
 
 **(a) Definition of Temporary Organization.—** For the purposes of this subchapter, the term “temporary organization” means a commission, committee, board, or other organization that—
 
@@ -2242,11 +2242,11 @@ Members of the FBI–DEA Senior Executive Service shall be subject to the limita
 
 **(C)** Chapter 11 of title 18, relating to conflicts of interest.
 
-(Added Pub. L. 106–398, § 1 [[div. A], title XI, § 1101(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–308.)
+(Added Pub. L. 106–398, § 1 [[div. A], title XI, § 1101(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–308.)
 
 ## SUBCHAPTER V—PRESIDENTIAL INNOVATION FELLOWS PROGRAM
 
-### § 3171. Presidential Innovation Fellows Program
+### § 3171. Presidential Innovation Fellows Program
 
 **(a) Policy.—** It is in the national interest for the Government to attract the brightest minds skilled in technology or innovative practices to serve in the Government to work on some of the Nation’s biggest and most pressing challenges. This subchapter establishes a program to encourage successful entrepreneurs, executives, and innovators to join the Government and work in close cooperation with Government leaders, to create meaningful solutions that can help save lives and taxpayer money, fuel job creation, and significantly improve how the Government serves the American people.
 
@@ -2272,13 +2272,13 @@ Members of the FBI–DEA Senior Executive Service shall be subject to the limita
 
 **(g) Responsibilities of Agencies.—** Each executive agency shall work with the Director and the Presidential Innovation Fellows Program advisory board established under section 3172 to attempt to maximize the Program’s benefits to the agency and the Government, including by identifying initiatives that have a meaningful effect on the people served and that benefit from involvement by one or more fellows. Such agencies shall ensure that each fellow works closely with responsible senior officials for the duration of the assignment.
 
-(Added Pub. L. 115–1, § 2(a), Jan. 20, 2017, 131 Stat. 3.)
+(Added Pub. L. 115–1, § 2(a), Jan. 20, 2017, 131 Stat. 3.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Transition**
 
-Pub. L. 115–1, § 2(c), Jan. 20, 2017, 131 Stat. 5, provided that: “The Presidential Innovation Fellows Program established pursuant to Executive Order No. 13704 (5 U.S.C. 3301 note [now 5 U.S.C. 3171 note]) as in existence on the day before the date of enactment of this Act [Jan. 20, 2017] shall be considered the Presidential Innovation Fellows Program described in the amendments made by this Act [enacting this section and section 3172 of this title].”
+Pub. L. 115–1, § 2(c), Jan. 20, 2017, 131 Stat. 5, provided that: “The Presidential Innovation Fellows Program established pursuant to Executive Order No. 13704 (5 U.S.C. 3301 note [now 5 U.S.C. 3171 note]) as in existence on the day before the date of enactment of this Act [Jan. 20, 2017] shall be considered the Presidential Innovation Fellows Program described in the amendments made by this Act [enacting this section and section 3172 of this title].”
 
 **Executive Documents**
 
@@ -2326,7 +2326,7 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Barack Obama.
 
-### § 3172. Presidential Innovation Fellows Program advisory board
+### § 3172. Presidential Innovation Fellows Program advisory board
 
 **(a) In General.—** The Administrator of General Services shall continue an advisory board to advise the Director of the Presidential Innovation Fellows Program by recommending such priorities and standards as may be beneficial to fulfill the mission of the Presidential Innovation Fellows Program and assist in identifying potential projects and placements for fellows. The advisory board may not participate in the selection process under section 3171(f).
 
@@ -2344,4 +2344,4 @@ Barack Obama.
 
 **(c) Consultation.—** The advisory board may consult with industry, academia, or nonprofits to ensure the Presidential Innovation Fellows Program is continually identifying opportunities to apply advanced skillsets and innovative practices in effective ways to address the Nation’s most significant challenges.
 
-(Added Pub. L. 115–1, § 2(a), Jan. 20, 2017, 131 Stat. 4.)
+(Added Pub. L. 115–1, § 2(a), Jan. 20, 2017, 131 Stat. 4.)

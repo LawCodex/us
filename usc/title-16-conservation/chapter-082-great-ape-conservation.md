@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 82—GREAT APE CONSERVATION
 
-## § 6301. Findings and purposes
+## § 6301. Findings and purposes
 
 **(a) Findings** Congress finds that—
 
@@ -41,15 +41,15 @@ retrieved: 2026-10-11
 
 **(2)** to assist in the conservation and protection of great apes by supporting conservation programs of countries in which populations of great apes are located and by supporting the CITES Secretariat.
 
-(Pub. L. 106–411, § 2, Nov. 1, 2000, 114 Stat. 1789.)
+(Pub. L. 106–411, § 2, Nov. 1, 2000, 114 Stat. 1789.)
 
 **Statutory Notes and Related Subsidiaries**
 
 **Short Title**
 
-Pub. L. 106–411, § 1, Nov. 1, 2000, 114 Stat. 1789, provided that: “This Act [enacting this chapter] may be cited as the ‘Great Ape Conservation Act of 2000’.”
+Pub. L. 106–411, § 1, Nov. 1, 2000, 114 Stat. 1789, provided that: “This Act [enacting this chapter] may be cited as the ‘Great Ape Conservation Act of 2000’.”
 
-## § 6302. Definitions
+## § 6302. Definitions
 
 In this chapter:
 
@@ -101,15 +101,15 @@ The term “Multinational Species Conservation Fund” means such fund as establ
 
 The term “Secretary” means the Secretary of the Interior.
 
-(Pub. L. 106–411, § 3, Nov. 1, 2000, 114 Stat. 1790.)
+(Pub. L. 106–411, § 3, Nov. 1, 2000, 114 Stat. 1790.)
 
 **Editorial Notes**
 
 **References in Text**
 
-Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (5), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237, and are classified in part to section 4246 of this title.
+Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (5), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237, and are classified in part to section 4246 of this title.
 
-## § 6303. Great ape conservation assistance
+## § 6303. Great ape conservation assistance
 
 **(a) In general**
 
@@ -249,7 +249,7 @@ The Secretary may award to a person who is otherwise eligible for a grant under 
 
 Nothing in this subsection precludes the Secretary from awarding a grant on an annual basis.
 
-(Pub. L. 106–411, § 4, Nov. 1, 2000, 114 Stat. 1791; Pub. L. 109–363, title VII, § 701, Oct. 17, 2006, 120 Stat. 2081; Pub. L. 116–9, title VII, § 7001(c)(2)(A), (B), Mar. 12, 2019, 133 Stat. 785; Pub. L. 117–286, § 4(a)(129), Dec. 27, 2022, 136 Stat. 4319; Pub. L. 118–159, div. E, title LIII, § 5306(a), Dec. 23, 2024, 138 Stat. 2446.)
+(Pub. L. 106–411, § 4, Nov. 1, 2000, 114 Stat. 1791; Pub. L. 109–363, title VII, § 701, Oct. 17, 2006, 120 Stat. 2081; Pub. L. 116–9, title VII, § 7001(c)(2)(A), (B), Mar. 12, 2019, 133 Stat. 785; Pub. L. 117–286, § 4(a)(129), Dec. 27, 2022, 136 Stat. 4319; Pub. L. 118–159, div. E, title LIII, § 5306(a), Dec. 23, 2024, 138 Stat. 2446.)
 
 **Editorial Notes**
 
@@ -259,17 +259,17 @@ Nothing in this subsection precludes the Secretary from awarding a grant on an a
 
 2022—Subsec. (i)(5). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 App. U.S.C.)” in text.
 
-2019—Subsec. (i)(1). Pub. L. 116–9, § 7001(c)(2)(A)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Every 2 years, the Secretary may convene a panel of experts to identify the greatest needs for the conservation of great apes.”
+2019—Subsec. (i)(1). Pub. L. 116–9, § 7001(c)(2)(A)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Every 2 years, the Secretary may convene a panel of experts to identify the greatest needs for the conservation of great apes.”
 
-Subsec. (i)(2) to (5). Pub. L. 116–9, § 7001(c)(2)(A)(ii), (iii), added pars. (2) to (4) and redesignated former par. (2) as (5).
+Subsec. (i)(2) to (5). Pub. L. 116–9, § 7001(c)(2)(A)(ii), (iii), added pars. (2) to (4) and redesignated former par. (2) as (5).
 
-Subsec. (j). Pub. L. 116–9, § 7001(c)(2)(B), added subsec. (j).
+Subsec. (j). Pub. L. 116–9, § 7001(c)(2)(B), added subsec. (j).
 
-2006—Subsec. (d)(6). Pub. L. 109–363, § 701(1), added par. (6).
+2006—Subsec. (d)(6). Pub. L. 109–363, § 701(1), added par. (6).
 
-Subsec. (i). Pub. L. 109–363, § 701(2), designated existing provisions as par. (1), inserted par. heading, substituted “may convene” for “shall convene”, and added par. (2).
+Subsec. (i). Pub. L. 109–363, § 701(2), designated existing provisions as par. (1), inserted par. heading, substituted “may convene” for “shall convene”, and added par. (2).
 
-## § 6304. Great Ape Conservation Fund
+## § 6304. Great Ape Conservation Fund
 
 **(a) Establishment** There is established in the Multinational Species Conservation Fund a separate account to be known as the “Great Ape Conservation Fund”, consisting of—
 
@@ -323,7 +323,7 @@ Proper adjustment shall be made in amounts subsequently transferred to the exten
 
 The Secretary may accept and use donations to provide assistance under section 6303 of this title. Amounts received by the Secretary in the form of donations shall be transferred to the Secretary of the Treasury for deposit into the Fund.
 
-(Pub. L. 106–411, § 5, Nov. 1, 2000, 114 Stat. 1793; Pub. L. 109–363, title VII, § 702, Oct. 17, 2006, 120 Stat. 2082; Pub. L. 116–9, title VII, § 7001(c)(2)(C), Mar. 12, 2019, 133 Stat. 785.)
+(Pub. L. 106–411, § 5, Nov. 1, 2000, 114 Stat. 1793; Pub. L. 109–363, title VII, § 702, Oct. 17, 2006, 120 Stat. 2082; Pub. L. 116–9, title VII, § 7001(c)(2)(C), Mar. 12, 2019, 133 Stat. 785.)
 
 **Editorial Notes**
 
@@ -333,11 +333,11 @@ The Secretary may accept and use donations to provide assistance under section 6
 
 2006—Subsec. (b)(2). Pub. L. 109–363 substituted “expend” for “expand” and “$100,000” for “$80,000”.
 
-## § 6305. Authorization of appropriations
+## § 6305. Authorization of appropriations
 
 There are authorized to be appropriated to the Fund $5,000,000 for each of fiscal years 2025 through 2029.
 
-(Pub. L. 106–411, § 6, Nov. 1, 2000, 114 Stat. 1794; Pub. L. 109–363, title VII, § 703, Oct. 17, 2006, 120 Stat. 2082; Pub. L. 116–9, title VII, § 7001(c)(2)(D), Mar. 12, 2019, 133 Stat. 785; Pub. L. 118–159, div. E, title LIII, § 5306(b), Dec. 23, 2024, 138 Stat. 2446.)
+(Pub. L. 106–411, § 6, Nov. 1, 2000, 114 Stat. 1794; Pub. L. 109–363, title VII, § 703, Oct. 17, 2006, 120 Stat. 2082; Pub. L. 116–9, title VII, § 7001(c)(2)(D), Mar. 12, 2019, 133 Stat. 785; Pub. L. 118–159, div. E, title LIII, § 5306(b), Dec. 23, 2024, 138 Stat. 2446.)
 
 **Editorial Notes**
 

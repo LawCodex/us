@@ -15,7 +15,7 @@ retrieved: 2026-10-11
 
 # CHAPTER 12—FEDERAL ACQUISITION INSTITUTE
 
-## § 1201. Federal Acquisition Institute
+## § 1201. Federal Acquisition Institute
 
 **(a) In General.—** There is established a Federal Acquisition Institute (FAI) in order to—
 
@@ -75,7 +75,7 @@ retrieved: 2026-10-11
 
 **(e) Annual Report.—** The Administrator shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Oversight and Government Reform and the Committee on Appropriations of the House of Representatives an annual report on the projected budget needs and expense plans of the Federal Acquisition Institute to fulfill its mandate.
 
-(Added Pub. L. 112–81, div. A, title VIII, § 864(b)(1), Dec. 31, 2011, 125 Stat. 1523.)
+(Added Pub. L. 112–81, div. A, title VIII, § 864(b)(1), Dec. 31, 2011, 125 Stat. 1523.)
 
 **Statutory Notes and Related Subsidiaries**
 
@@ -85,8 +85,8 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 **Construction**
 
-Pub. L. 112–81, div. A, title VIII, § 864(e), Dec. 31, 2011, 125 Stat. 1525, provided that: “Nothing in this section [enacting this chapter and amending sections 1122, 1703, and 1704 of this title], or the amendments made by this section, shall be construed to preclude the Secretary of Defense from establishing acquisition workforce policies, procedures, training standards, and certification requirements for acquisition positions in the Department of Defense, as provided in chapter 87 of title 10, United States Code.”
+Pub. L. 112–81, div. A, title VIII, § 864(e), Dec. 31, 2011, 125 Stat. 1525, provided that: “Nothing in this section [enacting this chapter and amending sections 1122, 1703, and 1704 of this title], or the amendments made by this section, shall be construed to preclude the Secretary of Defense from establishing acquisition workforce policies, procedures, training standards, and certification requirements for acquisition positions in the Department of Defense, as provided in chapter 87 of title 10, United States Code.”
 
 **Training Course on Human Trafficking and Government Contracting**
 
-Pub. L. 115–425, title I, § 113, Jan. 8, 2019, 132 Stat. 5477, provided that: “Any curriculum, including any continuing education curriculum, for the acquisition workforce used by the Federal Acquisition Institute established under section 1201 of title 41, United States Code, shall include at least 1 course, lasting at least 30 minutes, regarding the law and regulations relating to human trafficking and contracting with the Federal Government.”
+Pub. L. 115–425, title I, § 113, Jan. 8, 2019, 132 Stat. 5477, provided that: “Any curriculum, including any continuing education curriculum, for the acquisition workforce used by the Federal Acquisition Institute established under section 1201 of title 41, United States Code, shall include at least 1 course, lasting at least 30 minutes, regarding the law and regulations relating to human trafficking and contracting with the Federal Government.”
